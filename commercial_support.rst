@@ -9,8 +9,7 @@ Do you plan to use QGIS in your company or organization, but worry about whether
 there is commercial support available? Here is an alphabetical list, divided in
 categories, of support contractors.
 
-.. note:: we take responsibility for the accuracy, reliability or completeness
-of the provided information for **Core contributors** only.
+.. note:: we take responsibility for the accuracy, reliability or completeness of the provided information for **Core contributors** only.
 
 Core contributors
 -----------------
