@@ -1,0 +1,15 @@
+{# Import the theme's layout. #}
+{% extends "!layout.html" %}
+
+  {% set script_files = script_files + [
+    '_static/jquery.bxslider.min.js',
+  ]
+%}
+
+{% set css_files = css_files + ['_static/qgis-style.css', '_static/jquery.bxslider.css']%}
+
+{# Add some extra stuff before and use exiting with 'super()' call. #}
+{% block footer %}
+  <center><p>Home | About | Community</p></center>
+  <center><p>All content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>.</p></center>
+{% endblock %}
