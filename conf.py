@@ -104,7 +104,7 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 html_theme_options = {
     'navbar_title': "Quantum GIS",
     'navbar_site_name': "",
-    'navbar_links': [('Download', 'download'), ('For Users', 'users'), ('Get Involved', 'getinvolved'), ('Learn More', 'learnmore')],
+    'navbar_links': [('Download', 'download'), ('For Users', 'users'), ('Get Involved', 'community/index'), ('Learn More', 'learn')],
     'globaltoc_depth': 1,
     'globaltoc_includehidden': "true",
     'navbar_class': "navbar navbar-inverse",
