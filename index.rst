@@ -1,30 +1,18 @@
+.. raw:: html
 
-Welcome to the Quantum GIS Project 
-==================================
+    <ul class="bxslider">
+        <li><img src="http://farm8.staticflickr.com/7311/9182111854_ae97bae18b_c.jpg" /></li>
+        <li><img src="http://farm6.staticflickr.com/5546/9391999018_5c82ab12d4_c.jpg" /></li>
+        <li><img src="http://farm8.staticflickr.com/7351/9389222261_b844db6309_c.jpg" /></li>
+        <li><img src="http://farm4.staticflickr.com/3774/9495442927_dfda4fefaa_c.jpg" /></li>
+    </ul>
+    <script type="text/javascript">
+    $(document).ready(function(){
+        $('.bxslider').bxSlider();
+    });
+    </script>
 
-Quantum GIS (QGIS) is a user friendly Open Source Geographic Information System (GIS) licensed under the GNU General Public License. QGIS is an official project of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, Mac OSX, Windows and Android and supports numerous vector, raster, and database formats and functionalities.
-Our latest release is QGIS 1.8.0 you can read the release annoucement here
-Learn more about QGIS
+.. raw:: html
 
-Quantum GIS provides a continously growing number of capabilities provided by core functions and plugins. You can visualize, manage, edit, analyse data, and compose printable maps. Get a first impression with some screenshots and a more detailed feature list.
-Want to learn even more?
-
-Check the latest User Guide or learn how you can customize QGIS to fit your needs with our API Documentation and PyQGIS Cookbook.
-How to contribute
-
-Quantum GIS is a volunteer driven project. We welcome contributions in the form of code contributions, bug fixes, bug reports, contributed documentation, advocacy and supporting other users on our mailing lists and gis.stackexchange.com. If you are interested in actively supporting the project, you can find more information under the development menu and on the QGIS Wiki. We also welcome financial contributions in the form of sponsoring and funding.
-
-We are proud to present our first gold medal 2012:    aas front
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-   commercial_support
-   download
-   screenshots
-   sponsorship
-   development/index
-   case_studies/index
-   community/index
+    <p align="center">For Windows, Mac, Linux, BSD and Android</p>
+    <p align="center"><a href='download.html'>Download Now</a></p>
