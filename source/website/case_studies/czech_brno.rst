@@ -17,12 +17,12 @@ Laboratory on Experimental and Applied Geography (LEAG) is part of College of Ho
 
    QGIS while modeling 3D objects (interpolation), terrain analysis
 
-LEAG plays important role in academic research held in College of Business and Hotel Management. The need of spatial modeling requires also excellent software. The philosophy of minimum cost and maximum efficiency led to choice of open source solutions. This step resulted in using core open source SW such as LibreOffice, GIMP, Inkscape and Quantum GIS. QGIS does not stand alone – we use MapWindow, OpenJump, gvSIG, SAGA and others. But QGIS plays the major role.
+LEAG plays important role in academic research held in College of Business and Hotel Management. The need of spatial modeling requires also excellent software. The philosophy of minimum cost and maximum efficiency led to choice of open source solutions. This step resulted in using core open source SW such as LibreOffice, GIMP, Inkscape and QGIS. QGIS does not stand alone – we use MapWindow, OpenJump, gvSIG, SAGA and others. But QGIS plays the major role.
  
 Use of QGIS
 ===========
 
-Quantum GIS is the leading software and stands in current versions (because of the “experimental” character of LEAG we are using the latest unstable releases instead of LTS versions) for several reasons:
+QGIS is the leading software and stands in current versions (because of the “experimental” character of LEAG we are using the latest unstable releases instead of LTS versions) for several reasons:
 
 * Graphical User Interface (close to commercial products)
 * Quick development and integrating user-wanted features

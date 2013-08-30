@@ -43,7 +43,7 @@ There are two kinds of financial contributions, we accept:
 Sponsorship
 ...........
 
-Sponsors can sponsor Quantum GIS for any amount of money of at least 500 €/700 US$.
+Sponsors can sponsor QGIS for any amount of money of at least 500 €/700 US$.
 Sponsorships last one year, after which they may be continued with a new payment,
 or allowed to lapse. At or above the following levels a sponsor will be designated
 as being one of the following class:
@@ -394,7 +394,7 @@ List of donors
 Your benefit sponsoring QGIS
 ----------------------------
 
-Sponsoring the Quantum GIS project provides the following benefits:
+Sponsoring the QGIS project provides the following benefits:
 
 * Ensures the sustainability and health of the QGIS project.
 * All sponsors will be listed on the project sponsor page, ordered by contribution

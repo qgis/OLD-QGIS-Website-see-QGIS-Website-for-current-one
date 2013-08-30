@@ -1,6 +1,6 @@
 
 ======================================================
-Creating the Fundy Footpath Trail Map with Quantum GIS
+Creating the Fundy Footpath Trail Map with QGIS
 ======================================================
 
 .. figure:: ./images/canada_brunswick1.jpg
@@ -10,7 +10,7 @@ Creating the Fundy Footpath Trail Map with Quantum GIS
 
 The `Fundy Footpath <http://fundyfootpath.info/>`_  is a wilderness hiking trail located along the Fundy coast of New Brunswick, Canada. It is a charter member of the `UNESCO Fundy Biosphere Reserve <http://fundy-biosphere.ca/en/about-us/the-reserve>`_ and affiliated with the `NB Trails Council Inc. <http://www.sentiernbtrail.com/>`_ and the Trans Canada Trail. The Footpath takes hikers through the coastal Acadian Forest, home to the world’s highest tides, old growth forests, and several rare and unique types of flora and fauna.
 
-The trail was created, is maintained, and promoted by a group of volunteers known as the Fundy Hiking Trail Association Inc. (FHTA)(1975). As a non-profit organization the FHTA raises funds for its activities through the sale of guidebooks that include a trail map. In 2011 I approached the FHTA to volunteer to update the official trail map. As a volunteer creating a map for a non-profit organization Quantum GIS (QGIS) fit the bill as both a tool for editing data and for final map layout. Through the efforts of myself and members of the FHTA the new official map of the Fundy Footpath included with the guidebook was created from start to finish with QGIS.
+The trail was created, is maintained, and promoted by a group of volunteers known as the Fundy Hiking Trail Association Inc. (FHTA)(1975). As a non-profit organization the FHTA raises funds for its activities through the sale of guidebooks that include a trail map. In 2011 I approached the FHTA to volunteer to update the official trail map. As a volunteer creating a map for a non-profit organization QGIS (QGIS) fit the bill as both a tool for editing data and for final map layout. Through the efforts of myself and members of the FHTA the new official map of the Fundy Footpath included with the guidebook was created from start to finish with QGIS.
 
 .. figure:: ./images/canada_brunswick2.jpg
    :alt: QGIS GPS Tools Plugin for data collection
@@ -56,7 +56,7 @@ Once the data required to create the map was assembled and in a usable format th
 Conclusion
 ==========
 
-The hiking map was printed on heavy-duty waterproof paper, folded and inserted in the back of the new edition of the Fundy Footpath Hiker’s Guide Book. Quantum GIS was the best and most functional choice for the creation of this map. Being free software the price was right for a volunteer creating a map for a non-profit organization. But the real advantage of QGIS was that it had all of the functionality and tools required to create a highly useful and detailed hiking map from start to finish. I would highly recommend QGIS to both experienced and beginning GIS users alike.
+The hiking map was printed on heavy-duty waterproof paper, folded and inserted in the back of the new edition of the Fundy Footpath Hiker’s Guide Book. QGIS was the best and most functional choice for the creation of this map. Being free software the price was right for a volunteer creating a map for a non-profit organization. But the real advantage of QGIS was that it had all of the functionality and tools required to create a highly useful and detailed hiking map from start to finish. I would highly recommend QGIS to both experienced and beginning GIS users alike.
 
 .. figure:: ./images/canada_brunswick5.jpg
    :alt: The final Fundy Footpath map with accompanying guidebook

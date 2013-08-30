@@ -11,7 +11,7 @@
 QGIS Development
 ================
 
-Welcome to the Quantum GIS Development pages
+Welcome to the QGIS Development pages
 
 
 

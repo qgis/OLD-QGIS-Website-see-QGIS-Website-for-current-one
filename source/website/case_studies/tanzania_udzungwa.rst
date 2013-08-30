@@ -6,7 +6,7 @@ Using QGIS for wildlife training in Tanzania
 Introduction
 ============
 
-Working in southern Tanzania, the Udzungwa Elephant Project (UEP) is using Quantum GIS for its training in wildlife research and conservation. In February 2012, it held a two-day workshop for the Ecology and Protection (anti-poaching) staff of the Udzungwa Mountains National Park, along with members of the Udzungwa Ecological Monitoring Centre.
+Working in southern Tanzania, the Udzungwa Elephant Project (UEP) is using QGIS for its training in wildlife research and conservation. In February 2012, it held a two-day workshop for the Ecology and Protection (anti-poaching) staff of the Udzungwa Mountains National Park, along with members of the Udzungwa Ecological Monitoring Centre.
 
 About the Training
 ==================
