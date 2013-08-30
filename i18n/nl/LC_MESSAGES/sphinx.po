@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website 2.0\n"
@@ -16,9 +16,9 @@ msgstr ""
 
 #: ../../themes/qgis-theme/layout.html:16
 msgid ""
-"All content is licensed under <a href=\"http://creativecommons.org/licenses"
-"/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-"
-"SA)</a>."
+"All content is licensed under <a "
+"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
+"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>."
 msgstr ""
 "Alle website inhoud valt onder de <a "
 "href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
@@ -32,7 +32,7 @@ msgstr "Pagina"
 msgid "Home | About | Community"
 msgstr "Thuis | Over | Gemeenschap"
 
-#: ../../themes/qgis-theme/layout.html:45
+#: ../../themes/qgis-theme/layout.html:48
 msgid "Download"
 msgstr "Downloaden"
 
@@ -44,9 +44,17 @@ msgstr "Voor Gebruikers"
 msgid "Get Involved"
 msgstr "Help Mee"
 
-#: ../../themes/qgis-theme/layout.html:48
+#: ../../themes/qgis-theme/layout.html:45
 msgid "Learn More"
 msgstr "Meer Leren"
+
+#: ../../themes/qgis-theme/index.html:14
+msgid "For Windows, Mac, Linux, BSD and Android"
+msgstr "Voor Windows, Mac, Linux, BSD en Android"
+
+#: ../../themes/qgis-theme/index.html:15
+msgid "Download Now"
+msgstr "Nu Downloaden"
 
 #~ msgid "p>Home | About | Community"
 #~ msgstr ""

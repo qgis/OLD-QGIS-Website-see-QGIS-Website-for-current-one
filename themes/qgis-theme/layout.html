@@ -42,11 +42,10 @@
 {#                <li><a href="{{ pathto(doc) }}">{{ title }}</a></li> #}
 {#              {%- endfor %} #}
 {#           {% endif %} #}
-            <li><a href="{{ pathto('download') }}">{{_("Download") }}</a></li>
+            <li><a href="{{ pathto('learn') }}">{{_("Learn More") }}</a></li>
             <li><a href="{{ pathto('users') }}">{{_("For Users") }}</a></li>
             <li><a href="{{ pathto('community/index') }}">{{_("Get Involved") }}</a></li>
-            <li><a href="{{ pathto('learn') }}">{{_("Learn More") }}</a></li>
-
+            <li><a href="{{ pathto('download') }}">{{_("Download") }}</a></li>
             {% block sidebartoc %}
               {% include "globaltoc.html" %}
               {% include "localtoc.html" %}
