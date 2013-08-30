@@ -1,6 +1,6 @@
 
 =================================
-Quantum GIS for monitoring tigers
+QGIS for monitoring tigers
 =================================
 
 (using camera traps in Nameri Tiger Reserve, Assam, India Sonitpur District)
@@ -26,7 +26,7 @@ Starting with the year 2011, the National Tiger Conservation Authority (NTCA) of
 
    Picture of a male tiger that was captured in one of the camera traps
 
-During 2012-13, we implemented this new tiger monitoring protocol in NTR by using Quantum GIS. To begin with, we digitized the NTR boundary in Qgis and saved it as polygon. This boundary polygon was exported to GPS for navigation purpose during the field surveys. We conducted an extensive sign survey in NTR for evidences of tiger presence such pugmarks, scratch marks and scats. GPS coordinates of tiger signs as well as suitable locations for camera traps were recorded. After completion of the survey, the data was transferred to Qgis using GPS tools for further processing and for finalizing camera trap locations. A shape file containing the tiger signs and probable camera trap locations was prepared.
+During 2012-13, we implemented this new tiger monitoring protocol in NTR by using QGIS. To begin with, we digitized the NTR boundary in Qgis and saved it as polygon. This boundary polygon was exported to GPS for navigation purpose during the field surveys. We conducted an extensive sign survey in NTR for evidences of tiger presence such pugmarks, scratch marks and scats. GPS coordinates of tiger signs as well as suitable locations for camera traps were recorded. After completion of the survey, the data was transferred to Qgis using GPS tools for further processing and for finalizing camera trap locations. A shape file containing the tiger signs and probable camera trap locations was prepared.
 
 .. figure:: ./images/india_assam3.png
    :alt: Camera trap locations
@@ -46,8 +46,8 @@ Next we prepared 4 sq km grid layer using mmqgis plugin. The shape file containi
 Conclusion
 ==========
 
-For the first time in the history of this small tiger reserve of North East India, it was possible to monitor tigers by using camera traps mainly because of Quantum GIS. Results of this monitoring exercise indicate the presence of 8-15 tigers in this landscape. In addition to the tigers, several elusive species have also been photographically documented. Apart from tiger monitoring, we are also using Qgis for activities such as planning habitat management works, revising patrolling schedules, and designing maps for visitors.
-The user-friendly interface, rich features, in-depth documentation, on-line support  and the free/open source philosophy are the few qualities of Quantum GIS that made us to select it over other proprietary software. We believe that Quantum GIS has great potential for empowering individuals/institutions/ involved in conserving endangered wildlife in the developing world by offering GIS technology at little or no cost.
+For the first time in the history of this small tiger reserve of North East India, it was possible to monitor tigers by using camera traps mainly because of QGIS. Results of this monitoring exercise indicate the presence of 8-15 tigers in this landscape. In addition to the tigers, several elusive species have also been photographically documented. Apart from tiger monitoring, we are also using Qgis for activities such as planning habitat management works, revising patrolling schedules, and designing maps for visitors.
+The user-friendly interface, rich features, in-depth documentation, on-line support  and the free/open source philosophy are the few qualities of QGIS that made us to select it over other proprietary software. We believe that QGIS has great potential for empowering individuals/institutions/ involved in conserving endangered wildlife in the developing world by offering GIS technology at little or no cost.
 
 Author
 ======

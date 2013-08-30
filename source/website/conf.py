@@ -102,7 +102,7 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
-    'navbar_title': "Quantum GIS",
+    'navbar_title': "QGIS",
     'navbar_site_name': "",
 #    'navbar_links': [('Download', 'download'), ('For Users', 'users'), ('Get Involved', 'community/index'), ('Learn More', 'learn')],
     'globaltoc_depth': 1,

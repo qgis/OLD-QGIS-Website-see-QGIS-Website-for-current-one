@@ -10,8 +10,12 @@
 
 {# Add some extra stuff before and use exiting with 'super()' call. #}
 {% block footer %}
+<footer class="footer">
+  <div class="container">
   <center><p>{{ _('Home | About | Community') }}</p></center>
   <center><p>{{ _('All content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>.') }}</p></center>
+</div>
+</footer>
 {% endblock %}
 
 

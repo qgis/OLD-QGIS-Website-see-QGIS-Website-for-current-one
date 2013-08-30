@@ -11,7 +11,7 @@
 QGIS Community
 ==============
 
-Welcome to the Quantum GIS Community
+Welcome to the QGIS Community
 
 If you want to contact or speak to the community, please find information below.
 

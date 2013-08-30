@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../case_studies/portugal_pinhel.rst:3
-msgid "Quantum GIS and Forest Fire Risk Mapping in Portugal"
+#: ../../source/website/case_studies/portugal_pinhel.rst:3
+msgid "QGIS and Forest Fire Risk Mapping in Portugal"
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:5
+#: ../../source/website/case_studies/portugal_pinhel.rst:5
 msgid ""
 "Portugal has been affected by large wildfires causing huge losses, not only "
 "environmental, but also economic and social losses. To face this risk, the "
@@ -25,7 +25,7 @@ msgid ""
 "Protection and Operational Response."
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:7
+#: ../../source/website/case_studies/portugal_pinhel.rst:7
 msgid ""
 "In order to support the elaboration of these documents, the AFN provided "
 "technical guides with a methodology for calculating and mapping the Forest "
@@ -37,7 +37,7 @@ msgid ""
 "only Free and Open Source Software [http://goo.gl/TSv2E]."
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:9
+#: ../../source/website/case_studies/portugal_pinhel.rst:9
 msgid ""
 "It was proposed to use the following set of software: QGIS, GRASS GIS, gvSIG"
 " and GDAL/OGR libraries. That guide describes all the geoprocessing tasks "
@@ -49,7 +49,7 @@ msgid ""
 "between coordinate reference systems."
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:11
+#: ../../source/website/case_studies/portugal_pinhel.rst:11
 msgid ""
 "After an extensive suite of tests to the methodology, and three years of "
 "real application in the preparation of the Operational Plan for the "
@@ -61,13 +61,13 @@ msgid ""
 "not interfere negatively with the results, quite the opposite."
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:23
+#: ../../source/website/case_studies/portugal_pinhel.rst:0
 msgid ""
 "Forest Fire Hazard and Risk Maps of Pinhel, implemented with Open Source "
 "Software."
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:25
+#: ../../source/website/case_studies/portugal_pinhel.rst:25
 msgid ""
 "In a second phase, it was tried to speed up this process, using models to "
 "establish a workflow that perform a wide set of tasks, almost without human "
@@ -80,13 +80,13 @@ msgid ""
 " the place where we intend to keep the output data."
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:32
+#: ../../source/website/case_studies/portugal_pinhel.rst:0
 msgid ""
 "Interface of the Sextante Model to calculate the Probability of the Forest "
 "Fire Hazard."
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:34
+#: ../../source/website/case_studies/portugal_pinhel.rst:34
 msgid ""
 "In furtherance of this second phase, we used the Python version of Sextante "
 "software, that works integrated into QGIS and adds a broad set of "
@@ -99,13 +99,13 @@ msgid ""
 "Hazard and Risk maps, using GRASS, SAGA, fTools and MMQGIS tools."
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:41
+#: ../../source/website/case_studies/portugal_pinhel.rst:0
 msgid ""
 "Part of the model developed for automation of the production of cartography "
 "for Forest Fire Hazard and Risk."
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:43
+#: ../../source/website/case_studies/portugal_pinhel.rst:43
 msgid ""
 "The results obtained so far are very promising, as already can be "
 "automatically achieved the creation of the Hazard and Risk Maps [2]. Taking "
@@ -120,11 +120,11 @@ msgid ""
 "provide the model free and openly."
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:46
+#: ../../source/website/case_studies/portugal_pinhel.rst:46
 msgid "Conclusions"
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:48
+#: ../../source/website/case_studies/portugal_pinhel.rst:48
 msgid ""
 "The alternatives studied proved to be of enormous quality, allowing all "
 "operations recommended in the National Forest Authority technical guides, in"
@@ -139,7 +139,7 @@ msgid ""
 "municipality of Pinhel."
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:50
+#: ../../source/website/case_studies/portugal_pinhel.rst:50
 msgid ""
 "The fact that Open Source Software is based on standards and support most of"
 " the open data formats, allows the complete interoperability between "
@@ -153,15 +153,15 @@ msgid ""
 " functionalities to the most diverse areas of activities."
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:53
+#: ../../source/website/case_studies/portugal_pinhel.rst:53
 msgid "Author"
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:60
+#: ../../source/website/case_studies/portugal_pinhel.rst:0
 msgid "Pedro Venâncio"
 msgstr ""
 
-#: ../../case_studies/portugal_pinhel.rst:62
+#: ../../source/website/case_studies/portugal_pinhel.rst:62
 msgid ""
 "Pedro Venâncio B.Sc. in Geology, Postgraduate in Free Software and M.Sc. in "
 "Geographic Information Systems. He was a researcher at the Centre for "

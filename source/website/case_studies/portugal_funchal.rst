@@ -1,6 +1,6 @@
 
 =============================================================
-Using a free GIS at Jaime Moniz Secondary School: Quantum GIS
+Using a free GIS at Jaime Moniz Secondary School: QGIS
 =============================================================
 
 There will be democratic teaching in our schools or education communities when we generalize the use of Open Source software. This demands not only a change in people's way of thinking (sometimes molded by advertising), but also a sustainable management of expenses and, indirectly, fighting against software piracy. These advantages which are inherent to the philosophy of the Open Source software will be the model to follow if we want a quality education without boundaries or dependencies of any kind. From this perspective, class 35 of the 12th grade belonging to the technological course of territory and environment at Jaime Moniz Secondary School, uses QGIS to develop activities proposed in Geographical Information Systems, Applied Information Systems and during their training period. Within the range of options of free GIS, there were three underlying reasons for the choice of Open Source selection: the user friendly and intuitive approach, supported by online information provided by forums; the several software plug-ins and the quality of the product in its final stage. (One should bear in mind that these academic works were done by students who belong to a very young age group.)

@@ -1,6 +1,6 @@
 
 =======================================================================================
-Using Quantum GIS to Map Hotspot Areas for Biodiversity and Ecosystem Services (HABEaS)
+Using QGIS to Map Hotspot Areas for Biodiversity and Ecosystem Services (HABEaS)
 =======================================================================================
 
 HABEaS - Hotspot Areas for Biodiversity and Ecosystem Services is an online geographic information system (WebGIS) that was created by the `Centre for Applied Ecology <http://www.isa.utl.pt/ceabn/content/2/123/homepage>`_ (`Instituto Superior de Agronomia <http://www.isa.utl.pt/home/>`_, Technical University of Lisbon), Worldwide Fund for Nature (WWF) and Faunalia.
@@ -10,7 +10,7 @@ The main goal of this platform is to provide free access to a wide variety of da
    :scale: 60%
    :align: right
 
-Since the main goal of this tool is to promote free and easy access to information on biodiversity and ecosystem services we decided to use only free and open source software, that any person or entity can use regardless of their location or financial constraints. The website where HABEaS WebGIS is hosted on a server that runs Debian Linux and was developed with Drupal CMS. PostgreSQL/PostGIS was used to store the data and Quantum GIS was used to process and analyze the GIS that we obtained from several entities. We used both Quantum GIS's native tools but also GRASS GIS and SAGA GIS tools through the GRASS plugin and SEXTANTE Toolbox.
+Since the main goal of this tool is to promote free and easy access to information on biodiversity and ecosystem services we decided to use only free and open source software, that any person or entity can use regardless of their location or financial constraints. The website where HABEaS WebGIS is hosted on a server that runs Debian Linux and was developed with Drupal CMS. PostgreSQL/PostGIS was used to store the data and QGIS was used to process and analyze the GIS that we obtained from several entities. We used both QGIS's native tools but also GRASS GIS and SAGA GIS tools through the GRASS plugin and SEXTANTE Toolbox.
 
 .. figure:: ./images/portugal_lisbon2.jpg
    :scale: 60%
@@ -31,8 +31,8 @@ To determine which conservation values occure in each property we used SEXTANTE 
 Conclusions
 ===========
 
-Quantum GIS is easy to use and has very powerful geoprocessing capabilities. The integration of GRASS GIS and SAGA GIS tools through SEXTANTE Toolbox allowed us to perform a number of complex spatial analyzes and to pipeline them using SEXTANTE Modeler. It was also very easy to produce high quality maps with the new Print Composer and to export them in SVG format for further editing with Inkscape which is a powerful open source vector graphics editor.
-In general, our experience with Quantum GIS has been very positive, the software runs smoothly and the community is very active and supportive. Reported bugs are usually resolved shortly after being reported by users and Quantum GIS developers are always willing to listen to “end user's” needs and suggestions.
+QGIS is easy to use and has very powerful geoprocessing capabilities. The integration of GRASS GIS and SAGA GIS tools through SEXTANTE Toolbox allowed us to perform a number of complex spatial analyzes and to pipeline them using SEXTANTE Modeler. It was also very easy to produce high quality maps with the new Print Composer and to export them in SVG format for further editing with Inkscape which is a powerful open source vector graphics editor.
+In general, our experience with QGIS has been very positive, the software runs smoothly and the community is very active and supportive. Reported bugs are usually resolved shortly after being reported by users and QGIS developers are always willing to listen to “end user's” needs and suggestions.
 
 Author
 ======

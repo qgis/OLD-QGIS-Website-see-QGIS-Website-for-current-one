@@ -1,6 +1,6 @@
 
 ==================================================
-Quantum GIS Trainings at NIRD Jaipur Centre, India
+QGIS Trainings at NIRD Jaipur Centre, India
 ==================================================
 
 
