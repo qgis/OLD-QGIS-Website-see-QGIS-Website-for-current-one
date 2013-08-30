@@ -1,0 +1,43 @@
+<select id="languages">
+  <option value="en">English</option>
+  <option value="nl">Nederlands</option>
+</select>
+
+<script>
+    var currentPage = '{{current_page_name}}.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    $(document).ready(function(){
+
+        var search = new RegExp('\/[a-zA-Z_]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        if (langPlusPage==undefined){
+            // it's possible this is a index.html page called without 'index.html', try without the currentPage
+            search = new RegExp('\/[a-zA-Z_]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+        // put some style around the current locale flag, we have to remove the '/' here
+        // this is for the flags:
+        //$('#flag_'+currentLang.replace(/\//g,'')).css('background-color', '#cccccc');
+        // set language select to current lang
+
+        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
+
+        $("#languages").change(function() {
+            gotoLang($(this).val());
+        });
+
+    });
+
+    // load current page in a different language
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+</script>
