@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../case_studies/portugal_torres.rst:4
+#: ../../source/website/case_studies/portugal_torres.rst:4
 msgid "QGIS and GRASS applied to paleontological survey in Western Portugal"
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:8
+#: ../../source/website/case_studies/portugal_torres.rst:8
 msgid ""
 "The Associação Leonel Trindade – Sociedade de História Natural (ALT-SHN) is "
 "a non profit institution headquarted in Torres Vedras, Portugal, specialized"
@@ -25,11 +25,11 @@ msgid ""
 "– hundreds of sites representing thousands of different specimens."
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:12
+#: ../../source/website/case_studies/portugal_torres.rst:12
 msgid "The Project"
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:19
+#: ../../source/website/case_studies/portugal_torres.rst:19
 msgid ""
 "Back in 2008, we came up with the idea of exploring GIS technologies to "
 "support the investigation and get a more holistic perspective on the "
@@ -39,28 +39,28 @@ msgid ""
 "(IGeoE), aimed three goals:"
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:21
+#: ../../source/website/case_studies/portugal_torres.rst:21
 msgid ""
 "Field Survey with Differencial GPS to gather the coordinates of the sites;"
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:22
+#: ../../source/website/case_studies/portugal_torres.rst:22
 msgid ""
 "Build a Risk Model to identify hazards towards paleontological heritage and "
 "thus prevent them through regular field surveys;"
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:23
+#: ../../source/website/case_studies/portugal_torres.rst:23
 msgid ""
 "Build a Geographic Database to handle all the information and start the "
 "collection inventory."
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:26
+#: ../../source/website/case_studies/portugal_torres.rst:26
 msgid "Software we used"
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:28
+#: ../../source/website/case_studies/portugal_torres.rst:28
 msgid ""
 "QGIS was the mainframe of all the project. Data was dumped directly to QGIS,"
 " and then edited and manipulated in order to achieve the desired outputs. "
@@ -70,11 +70,11 @@ msgid ""
 "PostGIS layers and visualize them on QGIS."
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:36
+#: ../../source/website/case_studies/portugal_torres.rst:0
 msgid "Vector point data editing and visualization"
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:38
+#: ../../source/website/case_studies/portugal_torres.rst:38
 msgid ""
 "The choice for QGIS was also encouraged by the multi platform support. The "
 "institution has three distinct facilities, and each of those facilities has "
@@ -83,15 +83,15 @@ msgid ""
 "machine we want so we don't get stuck to a particular computer."
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:45
+#: ../../source/website/case_studies/portugal_torres.rst:0
 msgid "Paleontological Risk Map"
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:48
+#: ../../source/website/case_studies/portugal_torres.rst:48
 msgid "Conclusion"
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:50
+#: ../../source/website/case_studies/portugal_torres.rst:50
 msgid ""
 "The overall experience with QGIS can only be rated has being very good and "
 "recommendable. From our point of view, the main advantage of QGIS is that "
@@ -105,15 +105,15 @@ msgid ""
 "closer to spatial approaches [3]."
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:53
+#: ../../source/website/case_studies/portugal_torres.rst:53
 msgid "Author"
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:60
+#: ../../source/website/case_studies/portugal_torres.rst:0
 msgid "André Mano"
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:62
+#: ../../source/website/case_studies/portugal_torres.rst:62
 msgid ""
 "This article was contributed in November 2010 by André Mano. He is "
 "responsible for the Geopraphic Department of Associação Leonel Trindade – "
@@ -122,15 +122,15 @@ msgid ""
 "cultural heritage."
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:65
+#: ../../source/website/case_studies/portugal_torres.rst:65
 msgid "References"
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:67
+#: ../../source/website/case_studies/portugal_torres.rst:67
 msgid "[1] www.alt-shn.org (portuguese only)"
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:68
+#: ../../source/website/case_studies/portugal_torres.rst:68
 msgid ""
 "[2] MANO, André. (2009) – Sistema de Informação Geográfica Aplicado à "
 "Paleontologia. Paleolusitana: Revista de Paleontologia e Paleoecologia, "
@@ -138,7 +138,7 @@ msgid ""
 "245-250."
 msgstr ""
 
-#: ../../case_studies/portugal_torres.rst:69
+#: ../../source/website/case_studies/portugal_torres.rst:69
 msgid ""
 "[3] Mano, André. (2010) – Projecto SIGAP, Trabalho de Projecto apresentado "
 "como requisito parcial para a obtenção do grau de Mestre em Ciência e "

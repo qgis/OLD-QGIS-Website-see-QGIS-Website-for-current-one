@@ -11,12 +11,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../case_studies/nigeria_jos.rst:4
+#: ../../source/website/case_studies/nigeria_jos.rst:4
 msgid ""
 "Amurum forest reserve habitat and avifauna mapping with QGIS in Nigeria"
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:6
+#: ../../source/website/case_studies/nigeria_jos.rst:6
 msgid ""
 "Amurum forest reserve is located near the city of Jos, Plateau state, "
 "Nigeria. It was established in conjunction with the initiation of the A.P. "
@@ -33,15 +33,16 @@ msgid ""
 "distribution of the avifauna including the biodiversity."
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:13 ../../case_studies/nigeria_jos.rst:47
+#: ../../source/website/case_studies/nigeria_jos.rst:0
+#: ../../source/website/case_studies/nigeria_jos.rst:0
 msgid "Training Group"
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:16
+#: ../../source/website/case_studies/nigeria_jos.rst:16
 msgid "Mapping elevation, hill shade, slope and habitats"
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:18
+#: ../../source/website/case_studies/nigeria_jos.rst:18
 msgid ""
 "Mapping elevation and groundtruthing: We downloaded (free) elevation data "
 "originating from the NASA Shuttle Radar Topographic Mission (SRTM) for the "
@@ -50,7 +51,7 @@ msgid ""
 "-srtm-90m-digital-elevation-database-v41)."
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:20
+#: ../../source/website/case_studies/nigeria_jos.rst:20
 msgid ""
 "The GdalTools were used to merge original data sets and to clip a smaller "
 "area containing the reserve so that the raster data sets remained relatively"
@@ -58,7 +59,7 @@ msgid ""
 "reserve."
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:22
+#: ../../source/website/case_studies/nigeria_jos.rst:22
 msgid ""
 "Overall, the elevations of the SRTM data set corresponded well to the gps-"
 "collected elevations. Terrain models in GdalTools were used to calculate "
@@ -67,11 +68,11 @@ msgid ""
 "of habitat."
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:29
+#: ../../source/website/case_studies/nigeria_jos.rst:0
 msgid "QGIS screenshot"
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:31
+#: ../../source/website/case_studies/nigeria_jos.rst:31
 msgid ""
 "Since we intended to develop a good-looking map, we interpolated the "
 "original (clipped) elevation map to obtain a higher resolution map. We used "
@@ -79,7 +80,7 @@ msgid ""
 "contour lines."
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:33
+#: ../../source/website/case_studies/nigeria_jos.rst:33
 msgid ""
 "Coordinates of the boundary of the reserve were obtained by walking along "
 "the boundaries of the reserve with a GPS. The waypoints and tracks stored in"
@@ -88,7 +89,7 @@ msgid ""
 " reserve were mapped in a similar fashion."
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:35
+#: ../../source/website/case_studies/nigeria_jos.rst:35
 msgid ""
 "We were able to quickly and precisely construct a habitat map of Amurum "
 "using a Google satellite image which we got into the workspace with the "
@@ -99,18 +100,18 @@ msgid ""
 "overlapping polygons."
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:38
+#: ../../source/website/case_studies/nigeria_jos.rst:38
 msgid "Mapping bird distributions and diversity"
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:40
+#: ../../source/website/case_studies/nigeria_jos.rst:40
 msgid ""
 "The habitat maps were used to generate random locations. The area of the "
 "various types of habitat were used to generate a number of locations "
 "proportional to the surface of each habitat type (stratification)."
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:49
+#: ../../source/website/case_studies/nigeria_jos.rst:49
 msgid ""
 "The random points in fTools were used for this purpose. All the locations "
 "were visited during two mornings by four groups of students (2 per group) "
@@ -124,11 +125,11 @@ msgid ""
 "avian diversity of the Amurum reserve."
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:52
+#: ../../source/website/case_studies/nigeria_jos.rst:52
 msgid "Conclusion"
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:54
+#: ../../source/website/case_studies/nigeria_jos.rst:54
 msgid ""
 "Overall, the course was a great success. We - a group of students with no "
 "previous GIS experience - enjoyed working with QGIS a lot. Within just two "
@@ -139,15 +140,15 @@ msgid ""
 "ecological research using QGIS as an open source platform."
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:61
+#: ../../source/website/case_studies/nigeria_jos.rst:0
 msgid "QGIS map: Diversity of Amurum Forest Reserve"
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:64
+#: ../../source/website/case_studies/nigeria_jos.rst:64
 msgid "Authors"
 msgstr ""
 
-#: ../../case_studies/nigeria_jos.rst:66
+#: ../../source/website/case_studies/nigeria_jos.rst:66
 msgid ""
 "Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, "
 "Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu "
