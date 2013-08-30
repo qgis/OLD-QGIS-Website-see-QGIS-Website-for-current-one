@@ -1,0 +1,8 @@
+{% extends "layout.html" %}
+{% block body %}
+    {% if pagename == 'index' %}
+        {% include '../../source/website/html/index.html' %}
+    {% else %}
+        {{ body }}
+    {% endif %}
+{% endblock %}
