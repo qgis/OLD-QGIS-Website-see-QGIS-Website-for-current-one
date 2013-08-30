@@ -17,7 +17,10 @@
   height:50px;
 }
 
-.body { top: 100px; }
+#main-body { 
+    position:absolute;
+    top: 100px; 
+}
 
 .brand {
     height:60px;
