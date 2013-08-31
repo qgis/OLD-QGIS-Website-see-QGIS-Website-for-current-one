@@ -1,14 +1,15 @@
 # Makefile for Sphinx documentation
 #
 
-# You can set these variables from the command line.
+# You can set these variables from the command line
+LANG        = en
 SPHINXBUILD   = sphinx-build
 PAPER         =
-SPHINXOPTS    = source/website
-BUILDDIR      = output/html/en
+#SPHINXOPTS    = source/website
+#BUILDDIR      = output/html/en
 # for dutch
-#SPHINXOPTS    = -D language='nl' source/website
-#BUILDDIR      = output/html/nl
+SPHINXOPTS    = -D language='$(LANG)' source/website
+BUILDDIR      = output/html/$(LANG)
 
 # User-friendly check for sphinx-build
 ifeq ($(shell which $(SPHINXBUILD) >/dev/null 2>&1; echo $$?), 1)
