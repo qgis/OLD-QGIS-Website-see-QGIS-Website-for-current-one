@@ -1,15 +1,7 @@
 
-
-.. toctree::
-   :maxdepth: 2
-
-
-.. Community frontpage intro text !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-.. rst-class:: frontpageintro
-
-QGIS Community
-==============
+========================
+Get Involved / Community
+========================
 
 Welcome to the QGIS Community
 
@@ -17,11 +9,6 @@ If you want to contact or speak to the community, please find information below.
 
 There are also national communities (please translators: point your national
 community to yours here)
-
-
-
-.. all following sections will be in marketing div, below (optional) carousel !!!!!!!!!!!!!!!!!
-
 
 
 Mailing lists

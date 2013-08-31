@@ -151,7 +151,9 @@ html_static_path = ['../../themes/qgis-theme/static']
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-    'case_studies/*': ['mylocaltoc.html','myglobaltoc.html', 'sourcelink.html'],
+    'about/**': ['myglobaltoc.html'],
+    'forusers/**': ['myglobaltoc.html'],
+    'getinvolved/**': ['myglobaltoc.html'],
 }
 
 # Additional templates that should be rendered to pages, maps page names to
