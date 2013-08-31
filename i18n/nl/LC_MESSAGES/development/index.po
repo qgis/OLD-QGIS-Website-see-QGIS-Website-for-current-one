@@ -1,54 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, QGIS Contributors
+# This file is distributed under the same license as the QGIS Website package.
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS Website 2.0\n"
+"Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-30 12:04\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2013-08-30 19:12\n"
+"PO-Revision-Date: 2013-08-31 02:26+0000\n"
+"Last-Translator: geonode <geonode-transifex@opengeo.org>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# 59623e93000240a1923351a74703242c
 #: ../../source/website/development/index.rst:12
 msgid "QGIS Development"
 msgstr ""
 
+# 5d27e5a02418430db1c5a8c47e283771
 #: ../../source/website/development/index.rst:14
 msgid "Welcome to the QGIS Development pages"
 msgstr ""
 
+# ba003051856e4d22b107d24da0da3463
 #: ../../source/website/development/index.rst:23
 msgid "Bugs, Features and Issues"
 msgstr ""
 
+# 6c6d804df30e4513bee160afc77d18d0
 #: ../../source/website/development/index.rst:25
 msgid ""
 "If you find a bug, please read `our hints on issueing bugs "
 "<http://hub.qgis.org/wiki/quantum-gis/Bugreports>`_"
 msgstr ""
 
+# 7207198360a841399c95db27d08bb58e
 #: ../../source/website/development/index.rst:30
 msgid "Development"
 msgstr ""
 
+# c7fcdb6b4b3640738ecf662c47788064
 #: ../../source/website/development/index.rst:32
 msgid "See https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 msgstr ""
 
+# fbdacaefba3347669ea71528bbeb71c1
 #: ../../source/website/development/index.rst:37
 msgid "Python Development"
 msgstr ""
 
+# ac84dfde4b96478bb929007df6182568
 #: ../../source/website/development/index.rst:39
 msgid "QGIS has a lot to offer for python developers too."
 msgstr ""
 
+# 1ceb88402aa244c8917772fb7141135d
 #: ../../source/website/development/index.rst:41
 msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
 msgstr ""
 
+# 1eca18a781374d978aa5ae98f441c667
 #: ../../source/website/development/index.rst:43
 msgid ""
 "Interested in python plugin development, go here http://plugins.qgis.org"

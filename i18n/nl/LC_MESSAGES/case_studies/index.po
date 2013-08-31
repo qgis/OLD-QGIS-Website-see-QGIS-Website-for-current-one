@@ -1,20 +1,28 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, QGIS Contributors
+# This file is distributed under the same license as the QGIS Website package.
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS Website 2.0\n"
+"Project-Id-Version: website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-30 12:04\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2013-08-30 19:12\n"
+"PO-Revision-Date: 2013-08-31 02:25+0000\n"
+"Last-Translator: Jeffrey Johnson <jjohnson@opengeo.org>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# 5bf592d0f31742f49fa0b068547dc756
 #: ../../source/website/case_studies/index.rst:6
 msgid "Case Studies"
 msgstr ""
 
+# 49c04641f01e49d8a3fb9578ee126ced
 #: ../../source/website/case_studies/index.rst:9
 msgid ""
 "The QGIS project is always looking for people to publish QGIS case studies "
@@ -26,20 +34,24 @@ msgid ""
 " to send us your story."
 msgstr ""
 
+# 03b4c0007a5a431b8822b751bd7d2d9d
 #: ../../source/website/case_studies/index.rst:11
 msgid "**Structure**"
 msgstr ""
 
+# 9a603e35243746cca3b150099c054907
 #: ../../source/website/case_studies/index.rst:13
 msgid ""
 "The stories should follow a simple structure and we suggest to write about "
 "800 words including one or two screenshots."
 msgstr ""
 
+# 9fff4cdbe6ab4271ab5bb2516ac776ac
 #: ../../source/website/case_studies/index.rst:15
 msgid "**Title**"
 msgstr ""
 
+# 6ea4f4d3934f43b28e96639de6cc6a7f
 #: ../../source/website/case_studies/index.rst:17
 msgid ""
 "Short Introduction with background of the company / institute / authority / "
@@ -49,149 +61,176 @@ msgid ""
 "200 words)"
 msgstr ""
 
+# f5f69a8fb44e46f6b1caebce0b312e02
 #: ../../source/website/case_studies/index.rst:22
 msgid "List of Case Studies"
 msgstr ""
 
+# 66a1bd5704414f3f855c5e8c17c843db
 #: ../../source/website/case_studies/index.rst:25
 msgid "2013"
 msgstr ""
 
+# 7c357daa32d24f5b8978808b58bc3a30
 #: ../../source/website/case_studies/index.rst:27
 msgid ""
 "[2013/03] `QGIS for monitoring tigers using camera traps in Nameri Tiger "
 "Reserve`_, Assam, India by Rajendra  G Garawad"
 msgstr ""
 
+# d072674a703f490f808346a3eac051b2
 #: ../../source/website/case_studies/index.rst:28
 msgid ""
 "[2013/02] `QGIS Maps Historic Herpetofaunal Records in Missouri`_, USA by "
 "Brian Edmond"
 msgstr ""
 
+# 3434084b63bd438fb382ac65614a334f
 #: ../../source/website/case_studies/index.rst:29
 msgid ""
 "[2013/01] `Creating the Fundy Footpath Trail Map with QGIS`_, by Jarrett "
 "Totton"
 msgstr ""
 
+# ad435d6297dd4eedbc0b5ee9a55596a3
 #: ../../source/website/case_studies/index.rst:32
 msgid "2012"
 msgstr ""
 
+# 7379d94e04ef421b87d04e0e84737d24
 #: ../../source/website/case_studies/index.rst:34
 msgid ""
 "[2012/10] `QGIS and Forest Fire Risk Mapping in Portugal`_, by Pedro "
 "Venâncio"
 msgstr ""
 
+# 880c82b854b84528864786de31d8e2d0
 #: ../../source/website/case_studies/index.rst:35
 msgid ""
 "[2012/10] `Using QGIS to Map Hotspot Areas for Biodiversity and Ecosystem "
 "Services (HABEaS)`_, by Filipe Dias"
 msgstr ""
 
+# 1d062d0349a04a3cb4c043062cc6c235
 #: ../../source/website/case_studies/index.rst:36
 msgid ""
 "[2012/07] `QGIS and GRASS for modelling ecological corridors for wolves in "
 "North Portugal`_ by Monica Almeida"
 msgstr ""
 
+# 4337dd7523a848d39193a1eed0728ad8
 #: ../../source/website/case_studies/index.rst:37
 msgid ""
 "[2012/07] `QGIS Trainings at NIRD Jaipur Centre, India`_ by Harish Kumar "
 "Solanki"
 msgstr ""
 
+# 3916e38962e54c78a59183d121fb91d4
 #: ../../source/website/case_studies/index.rst:38
 msgid ""
 "[2012/05] `Using QGIS for urban planning in the municipality of Montecchio "
 "Maggiore, Vicenza, Italy`_ by Flavio Rigolon."
 msgstr ""
 
+# d1a5468d38e843c2a483ef54b90fb713
 #: ../../source/website/case_studies/index.rst:39
 msgid ""
 "[2012/03] `Amurum forest reserve habitat and avifauna mapping with QGIS`_, "
 "Nigeria by Eelke Folmer et. al."
 msgstr ""
 
+# aff34cbed32c4df4be9d28ca3a47a3ad
 #: ../../source/website/case_studies/index.rst:40
 msgid ""
 "[2012/03] `Using QGIS for wildlife training in Tanzania`_ by Nick McWilliam."
 msgstr ""
 
+# 8d25b4f289af49b3bdebed60d5661382
 #: ../../source/website/case_studies/index.rst:41
 msgid ""
 "[2012/01] `The growth of QGIS at the Federal Department of Town and Country "
 "Planning`_, Peninsular Malaysia by Abbas Abdul Wahab."
 msgstr ""
 
+# 1ca84b6abec047b68cdfc43ea643a3ef
 #: ../../source/website/case_studies/index.rst:44
 msgid "2011"
 msgstr ""
 
+# 908f630f1f5547d78638b84aa85a0b5c
 #: ../../source/website/case_studies/index.rst:46
 msgid ""
 "[2011/09] `QGIS at high school`_ - urban green spaces in Rada Tilly Coastal "
 "Town, Argentina by Mauro Novara and Alberto Vázquez."
 msgstr ""
 
+# cd99016406154ffe9640007a28bdbb49
 #: ../../source/website/case_studies/index.rst:47
 msgid ""
 "[2011/04] `The use of QGIS in the Geodata Infrastructure of the City of "
 "Uster`_ by Andreas Neumann"
 msgstr ""
 
+# 9c65ce8111ae45da8e71ddf6dd821372
 #: ../../source/website/case_studies/index.rst:48
 msgid ""
 "[2011/03] `Using a free GIS at Jaime Moniz Secondary School`_: QGIS by "
 "Fátima Vale"
 msgstr ""
 
+# 142d5e46d2cd41d2b0bc066cda029bf0
 #: ../../source/website/case_studies/index.rst:49
 msgid ""
 "[2011/01] `QGIS and GRASS in Local Government Bushfire Hazard Mapping`_ by "
 "Nathan Woodrow"
 msgstr ""
 
+# 9ad951e37b144c358f01479a3a6f7017
 #: ../../source/website/case_studies/index.rst:52
 msgid "2010"
 msgstr ""
 
+# 4e3c92d96f6e4eb3bc29da8a50168a8c
 #: ../../source/website/case_studies/index.rst:54
 msgid ""
 "[2010/11] `QGIS and GRASS applied to paleontological survey in Western "
 "Portugal`_ by André Mano"
 msgstr ""
 
+# 031be2f1af1e432c926507ca98c93472
 #: ../../source/website/case_studies/index.rst:55
 msgid ""
 "[2010/11] `QGIS as major GIS software in the Laboratory on Experimental and "
 "Applied Geography`_ by Jakub Trojan"
 msgstr ""
 
+# 8ed3deb0f9a04df68c8568d313d991ba
 #: ../../source/website/case_studies/index.rst:56
 msgid ""
 "[2010/7] `Working with QGIS in a spatial data infrastructure of Jalisco`_ in"
 " Mexico by Carlos Ruiz"
 msgstr ""
 
+# d242d2d843084defaa6b3c0ad7c3cea3
 #: ../../source/website/case_studies/index.rst:57
 msgid ""
 "[2010/7] `QGIS and GRASS in Biogeographical Research in Spain`_ by Marcia "
 "Barbosa"
 msgstr ""
 
+# 51fb988b62994803beafa315eff72e7d
 #: ../../source/website/case_studies/index.rst:58
 msgid ""
 "[2010/6] `QGIS - an interesting instrument for forestry planning`_ concepts "
 "at local and regional level in Switzerland by Raphael Häner"
 msgstr ""
 
+# 6689a1658c5c4b54bfedc44549f33698
 #: ../../source/website/case_studies/index.rst:61
 msgid "2009"
 msgstr ""
 
+# 219c6ebee494404a83441d8f35da6c31
 #: ../../source/website/case_studies/index.rst:63
 msgid ""
 "[2009/5] `QGIS in the governmental FOSSGIS stack`_ of the Canton of "
