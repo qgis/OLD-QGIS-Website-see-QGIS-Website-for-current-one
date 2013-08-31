@@ -1,7 +1,6 @@
 
 .. _QGIS-sponsoring:
 
-===============
 Sponsoring QGIS
 ===============
 

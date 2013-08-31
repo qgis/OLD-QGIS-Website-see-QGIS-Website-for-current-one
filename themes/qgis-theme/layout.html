@@ -42,10 +42,10 @@
 {#                <li><a href="{{ pathto(doc) }}">{{ title }}</a></li> #}
 {#              {%- endfor %} #}
 {#           {% endif %} #}
-            <li><a href="{{ pathto('learn') }}">{{_("Learn More") }}</a></li>
-            <li><a href="{{ pathto('users') }}">{{_("For Users") }}</a></li>
-            <li><a href="{{ pathto('community/index') }}">{{_("Get Involved") }}</a></li>
-            <li><a href="{{ pathto('download') }}">{{_("Download") }}</a></li>
+            <li><a href="{{ pathto('about/index') }}">{{_("About and Discover") }}</a></li>
+            <li><a href="{{ pathto('forusers/index') }}">{{_("For Users") }}</a></li>
+            <li><a href="{{ pathto('getinvolved/index') }}">{{_("Get Involved") }}</a></li>
+            <li><a href="{{ pathto('forusers/download') }}">{{_("Download") }}</a></li>
 {#            {% block navbartoc %} #}
 {#              {% include "globaltoc.html" %} #}
 {#              {% if theme_navbar_pagenav %} #}
@@ -54,7 +54,7 @@
 {#            {% endblock %} #}
             {% if theme_navbar_sidebarrel %}
               {% block sidebarrel %}
-                {% include "relations.html" %}
+{#                {% include "relations.html" %} #}
               {% endblock %}
             {% endif %}
             {% if theme_source_link_position == "nav" %}

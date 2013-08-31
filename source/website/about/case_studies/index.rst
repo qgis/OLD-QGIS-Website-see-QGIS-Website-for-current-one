@@ -1,6 +1,8 @@
 
 .. _QGIS-case-studies:
 
+
+
 ============
 Case Studies
 ============
@@ -21,8 +23,41 @@ Conclusion showing positive experiences/benefits using QGIS (length about 200 wo
 List of Case Studies
 --------------------
 
+..  NOTE: hidden toctree below is just for silencing all warning during build 
+    for all these documents not available in a toctree
+
+.. toctree::
+    :hidden:
+
+    portugal_pinhel
+    portugal_lisbon
+    portugal_ribeira
+    india_hyderabad
+    italy_vicenza
+    nigeria_jos
+    tanzania_udzungwa
+    malaysia_kuala
+    argentinia_chubut
+    suisse_uster
+    portugal_funchal
+    australia_queens
+    portugal_torres
+    czech_brno
+    mexico_jalisco
+    portugal_evora
+    suisse_basel
+    suisse_solothurn
+
+
 2013
 ....
+
+.. toctree::
+    :maxdepth: 1
+
+    india_assam
+    usa_missouri
+    canada_brunswick
 
 * [2013/03] `QGIS for monitoring tigers using camera traps in Nameri Tiger Reserve`_, Assam, India by Rajendra  G Garawad
 * [2013/02] `QGIS Maps Historic Herpetofaunal Records in Missouri`_, USA by Brian Edmond

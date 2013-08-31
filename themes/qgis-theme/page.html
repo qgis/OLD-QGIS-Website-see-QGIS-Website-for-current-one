@@ -2,6 +2,10 @@
 {% block body %}
     {% if pagename == 'index' %}
         {% include 'index.html' %}
+    {% elif pagename == 'forusers/download' %}
+        {% include 'forusers_download.html' %}
+    {% elif pagename == 'about/index' %}
+        {% include 'about_index.html' %}
     {% else %}
         {{ body }}
     {% endif %}
