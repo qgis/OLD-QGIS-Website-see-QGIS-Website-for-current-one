@@ -104,12 +104,17 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 html_theme_options = {
     'navbar_title': "QGIS",
     'navbar_site_name': "",
+# below is the normal way of creating a menu of bootstrap_them, but it seems not translatable
 #    'navbar_links': [('Download', 'download'), ('For Users', 'users'), ('Get Involved', 'community/index'), ('Learn More', 'learn')],
     'globaltoc_depth': 1,
     'globaltoc_includehidden': "true",
     'navbar_class': "navbar navbar-inverse",
     'navbar_fixed_top': "true",
     'source_link_position': "no",
+    # Render the next and previous page links in navbar. (Default: true)
+    'navbar_sidebarrel': True,
+    # Render the current pages TOC in the navbar. (Default: true)
+    'navbar_pagenav': True,
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
@@ -145,7 +150,9 @@ html_static_path = ['../../themes/qgis-theme/static']
 #html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
-#html_sidebars = {}
+html_sidebars = {
+    'case_studies/*': ['mylocaltoc.html','myglobaltoc.html', 'sourcelink.html'],
+}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.

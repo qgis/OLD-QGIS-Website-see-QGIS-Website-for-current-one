@@ -18,8 +18,8 @@
 </footer>
 {% endblock %}
 
-
 {# Sidebar: Rework into our Boostrap nav section. #}
+{# {% macro navBar() %} #}
 {% macro qgis_navBar() %}
   <div id="navbar" class="{{ theme_navbar_class }} {% if theme_navbar_fixed_top == 'true' -%} navbar-fixed-top{%- endif -%}">
     <div class="navbar-inner">
@@ -46,22 +46,24 @@
             <li><a href="{{ pathto('users') }}">{{_("For Users") }}</a></li>
             <li><a href="{{ pathto('community/index') }}">{{_("Get Involved") }}</a></li>
             <li><a href="{{ pathto('download') }}">{{_("Download") }}</a></li>
-            {% block sidebartoc %}
-              {% include "globaltoc.html" %}
-              {% include "localtoc.html" %}
-            {% endblock %}
-            {% block sidebarrel %}
-              {% include "relations.html" %}
-            {% endblock %}
+{#            {% block navbartoc %} #}
+{#              {% include "globaltoc.html" %} #}
+{#              {% if theme_navbar_pagenav %} #}
+{#                {% include "navbartoc.html" %} #}
+{#              {% endif %} #}
+{#            {% endblock %} #}
+            {% if theme_navbar_sidebarrel %}
+              {% block sidebarrel %}
+                {% include "relations.html" %}
+              {% endblock %}
+            {% endif %}
             {% if theme_source_link_position == "nav" %}
               <li>{% include "sourcelink.html" %}</li>
             {% endif %}
           </ul>
-
           {% block languageswitch %}
             {% include "languageswitch.html" %}
           {% endblock %}
-
           {% block sidebarsearch %}
             {% include "searchbox.html" %}
           {% endblock %}
@@ -73,7 +75,14 @@
 
 {%- block content %}
 {{ qgis_navBar() }}
-<div id='main-body' class="container">
-  {% block body %}{% endblock %}
+<div class="container">
+  <div class="row">
+    {%- block sidebar1 %}{{ bsidebar() }}{% endblock %}
+    <div class="{{ bs_content_span }}">
+      {% block body %}{% endblock %}
+    </div>
+    {% block sidebar2 %} {# possible location for sidebar #} {% endblock %}
+  </div>
 </div>
 {%- endblock %}
+
