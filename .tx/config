@@ -1,0 +1,174 @@
+[main]
+host = https://www.transifex.com
+type = PO
+
+[qgis-website.about]
+file_filter = i18n/<lang>/LC_MESSAGES/about.po
+source_file = i18n/pot/about.pot
+source_lang = en
+
+[qgis-website.commercial_support]
+file_filter = i18n/<lang>/LC_MESSAGES/commercial_support.po
+source_file = i18n/pot/commercial_support.pot
+source_lang = en
+
+[qgis-website.download]
+file_filter = i18n/<lang>/LC_MESSAGES/download.po
+source_file = i18n/pot/download.pot
+source_lang = en
+
+[qgis-website.index]
+file_filter = i18n/<lang>/LC_MESSAGES/index.po
+source_file = i18n/pot/index.pot
+source_lang = en
+
+[qgis-website.learn]
+file_filter = i18n/<lang>/LC_MESSAGES/learn.po
+source_file = i18n/pot/learn.pot
+source_lang = en
+
+[qgis-website.screenshots]
+file_filter = i18n/<lang>/LC_MESSAGES/screenshots.po
+source_file = i18n/pot/screenshots.pot
+source_lang = en
+
+[qgis-website.sphinx]
+file_filter = i18n/<lang>/LC_MESSAGES/sphinx.po
+source_file = i18n/pot/sphinx.pot
+source_lang = en
+
+[qgis-website.sponsorship]
+file_filter = i18n/<lang>/LC_MESSAGES/sponsorship.po
+source_file = i18n/pot/sponsorship.pot
+source_lang = en
+
+[qgis-website.users]
+file_filter = i18n/<lang>/LC_MESSAGES/users.po
+source_file = i18n/pot/users.pot
+source_lang = en
+
+[qgis-website.case_studies--argentinia_chubut]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/argentinia_chubut.po
+source_file = i18n/pot/case_studies/argentinia_chubut.pot
+source_lang = en
+
+[qgis-website.case_studies--australia_queens]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/australia_queens.po
+source_file = i18n/pot/case_studies/australia_queens.pot
+source_lang = en
+
+[qgis-website.case_studies--canada_brunswick]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/canada_brunswick.po
+source_file = i18n/pot/case_studies/canada_brunswick.pot
+source_lang = en
+
+[qgis-website.case_studies--czech_brno]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/czech_brno.po
+source_file = i18n/pot/case_studies/czech_brno.pot
+source_lang = en
+
+[qgis-website.case_studies--index]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/index.po
+source_file = i18n/pot/case_studies/index.pot
+source_lang = en
+
+[qgis-website.case_studies--india_assam]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/india_assam.po
+source_file = i18n/pot/case_studies/india_assam.pot
+source_lang = en
+
+[qgis-website.case_studies--india_hyderabad]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/india_hyderabad.po
+source_file = i18n/pot/case_studies/india_hyderabad.pot
+source_lang = en
+
+[qgis-website.case_studies--italy_vicenza]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/italy_vicenza.po
+source_file = i18n/pot/case_studies/italy_vicenza.pot
+source_lang = en
+
+[qgis-website.case_studies--malaysia_kuala]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/malaysia_kuala.po
+source_file = i18n/pot/case_studies/malaysia_kuala.pot
+source_lang = en
+
+[qgis-website.case_studies--mexico_jalisco]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/mexico_jalisco.po
+source_file = i18n/pot/case_studies/mexico_jalisco.pot
+source_lang = en
+
+[qgis-website.case_studies--nigeria_jos]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/nigeria_jos.po
+source_file = i18n/pot/case_studies/nigeria_jos.pot
+source_lang = en
+
+[qgis-website.case_studies--portugal_evora]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/portugal_evora.po
+source_file = i18n/pot/case_studies/portugal_evora.pot
+source_lang = en
+
+[qgis-website.case_studies--portugal_funchal]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/portugal_funchal.po
+source_file = i18n/pot/case_studies/portugal_funchal.pot
+source_lang = en
+
+[qgis-website.case_studies--portugal_lisbon]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/portugal_lisbon.po
+source_file = i18n/pot/case_studies/portugal_lisbon.pot
+source_lang = en
+
+[qgis-website.case_studies--portugal_pinhel]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/portugal_pinhel.po
+source_file = i18n/pot/case_studies/portugal_pinhel.pot
+source_lang = en
+
+[qgis-website.case_studies--portugal_ribeira]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/portugal_ribeira.po
+source_file = i18n/pot/case_studies/portugal_ribeira.pot
+source_lang = en
+
+[qgis-website.case_studies--portugal_torres]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/portugal_torres.po
+source_file = i18n/pot/case_studies/portugal_torres.pot
+source_lang = en
+
+[qgis-website.case_studies--suisse_basel]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/suisse_basel.po
+source_file = i18n/pot/case_studies/suisse_basel.pot
+source_lang = en
+
+[qgis-website.case_studies--suisse_solothurn]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/suisse_solothurn.po
+source_file = i18n/pot/case_studies/suisse_solothurn.pot
+source_lang = en
+
+[qgis-website.case_studies--suisse_uster]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/suisse_uster.po
+source_file = i18n/pot/case_studies/suisse_uster.pot
+source_lang = en
+
+[qgis-website.case_studies--tanzania_udzungwa]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/tanzania_udzungwa.po
+source_file = i18n/pot/case_studies/tanzania_udzungwa.pot
+source_lang = en
+
+[qgis-website.case_studies--usa_missouri]
+file_filter = i18n/<lang>/LC_MESSAGES/case_studies/usa_missouri.po
+source_file = i18n/pot/case_studies/usa_missouri.pot
+source_lang = en
+
+[qgis-website.community--index]
+file_filter = i18n/<lang>/LC_MESSAGES/community/index.po
+source_file = i18n/pot/community/index.pot
+source_lang = en
+
+[qgis-website.community--mailinglists]
+file_filter = i18n/<lang>/LC_MESSAGES/community/mailinglists.po
+source_file = i18n/pot/community/mailinglists.pot
+source_lang = en
+
+[qgis-website.development--index]
+file_filter = i18n/<lang>/LC_MESSAGES/development/index.po
+source_file = i18n/pot/development/index.pot
+source_lang = en
+
