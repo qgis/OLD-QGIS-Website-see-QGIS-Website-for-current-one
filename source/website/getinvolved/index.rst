@@ -3,37 +3,14 @@
 Get Involved / Community
 ========================
 
-Welcome to the QGIS Community
+.. toctree::
+    :maxdepth: 4
 
-If you want to contact or speak to the community, please find information below.
+    News feed (goto planet.qgis.org) <http://planet.qgis.org>
+    Plugins website <http://plugins.qgis.org>
+    Mailinglist <mailinglists>
+    Development <development/index>
 
-There are also national communities (please translators: point your national
-community to yours here)
+.. note::
 
-
-Mailing lists
-=============
-
-One of the options to contact the QGIS is te register yourself on a mailinglist.
-
-See :ref:`here <QGIS-mailinglists>` for the different lists.
-
-
-IRC
-===
-
-You can chat with us via #qgis on freenode
-
-
-Blogs
-=====
-
-People are writing QGIS related blogs everywhere.
-
-We collect them here: `Planet blog <http://plugins.qgis.org/planet/>`_.
-
-
-Hackfests
-=========
-
-
+    Content is not used, it is overridden by themes/qgis-theme/getinvolved_index.html.

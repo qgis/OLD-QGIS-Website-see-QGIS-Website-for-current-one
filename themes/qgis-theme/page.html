@@ -2,8 +2,12 @@
 {% block body %}
     {% if pagename == 'index' %}
         {% include 'index.html' %}
+    {% elif pagename == 'forusers/index' %}
+        {% include 'forusers_index.html' %}
     {% elif pagename == 'forusers/download' %}
         {% include 'forusers_download.html' %}
+    {% elif pagename == 'getinvolved/index' %}
+        {% include 'getinvolved_index.html' %}
     {% elif pagename == 'about/index' %}
         {% include 'about_index.html' %}
     {% else %}
