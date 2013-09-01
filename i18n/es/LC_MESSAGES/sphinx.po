@@ -4,13 +4,14 @@
 # 
 # Translators:
 # Jeffrey Johnson <jjohnson@opengeo.org>, 2013
+# Jeffrey Johnson <jjohnson@opengeo.org>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-30 19:12\n"
-"PO-Revision-Date: 2013-08-31 02:50+0000\n"
-"Last-Translator: Jeffrey Johnson <jjohnson@opengeo.org>\n"
+"POT-Creation-Date: 2013-08-31 20:46\n"
+"PO-Revision-Date: 2013-09-01 03:51+0000\n"
+"Last-Translator: geonode <geonode-transifex@opengeo.org>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,27 +19,27 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 213dc2fc959948f8b5e230b392ff25a8
+# 84e39a7184e34252b42da900907125f4
 #: ../../themes/qgis-theme/localtoc.html:3
 msgid "Page"
 msgstr "Pagina"
 
-# a7085a89e5ee44c1b19a115de1989e0e
+# 88e57ecd46ed4fc990aa1e3d9e050eaf
 #: ../../themes/qgis-theme/index.html:14
 msgid "For Windows, Mac, Linux, BSD and Android"
 msgstr "Para Windows, Mac, Linux, BSD y Android"
 
-# c0d2d040565349fd9cae31b2c2ac2db8
+# 160e5fb630354a6099837351c03dfcf6
 #: ../../themes/qgis-theme/index.html:15
 msgid "Download Now"
-msgstr ""
+msgstr "Descargar ahora"
 
-# e7e1945953054b4aa194e1050fedd3cc
+# 9aed2b31cfe44ab6b7f492916d68de64
 #: ../../themes/qgis-theme/layout.html:15
 msgid "Home | About | Community"
 msgstr "Inicio | Acerca de | Comunidad"
 
-# 00854772b00c48c09029204a14512cea
+# 782b5eedd0374063a946f1ac4380392a
 #: ../../themes/qgis-theme/layout.html:16
 msgid ""
 "All content is licensed under <a href=\"http://creativecommons.org/licenses"
@@ -46,22 +47,27 @@ msgid ""
 "SA)</a>."
 msgstr "Todo el contenido está disponible bajo la licencia <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\"> Commons 3.0 Reconocimiento-CompartirIgual de Creative Commons (CC BY-SA) </ a>."
 
-# e8e09f81b665470486990169bd8a39c7
+# 087f3de10879498995b7775a38b8708c
 #: ../../themes/qgis-theme/layout.html:45
-msgid "Learn More"
-msgstr "Más información"
+msgid "About and Discover"
+msgstr ""
 
-# b649f01d2f5546d7b63ccb56c298051b
+# 19b5ad2d8dfc400cbdc38904c8a49659
 #: ../../themes/qgis-theme/layout.html:46
 msgid "For Users"
 msgstr "Para los usuarios"
 
-# eb9b25869b8b47fe814940996f9bf7ae
+# fc679ff9564448809c0f0e601fabe714
 #: ../../themes/qgis-theme/layout.html:47
 msgid "Get Involved"
 msgstr "Involúcrate"
 
-# 90580c897af148f691e614fb4aafbf83
+# 2da939f7ac644dabb91e76136d5875d0
 #: ../../themes/qgis-theme/layout.html:48
 msgid "Download"
 msgstr "Descargar"
+
+# b898e6bc15f04a12bb21a5d31997b658
+#: ../../themes/qgis-theme/myglobaltoc.html:10
+msgid "Table Of Contents"
+msgstr ""

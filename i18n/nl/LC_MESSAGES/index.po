@@ -5,11 +5,11 @@
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: website\n"
+"Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-30 19:12\n"
-"PO-Revision-Date: 2013-08-31 02:25+0000\n"
-"Last-Translator: Jeffrey Johnson <jjohnson@opengeo.org>\n"
+"POT-Creation-Date: 2013-08-31 20:46\n"
+"PO-Revision-Date: 2013-09-01 03:51+0000\n"
+"Last-Translator: geonode <geonode-transifex@opengeo.org>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,9 @@ msgstr ""
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# de3327eee62641b2bfa6ab648721a1a1
-#: ../../source/website/index.rst:3
-msgid "This page is not used, it is overridden by html/index.html"
+# 75bde461e961497b9c5ce7105a3ad5a4
+#: ../../source/website/index.rst:13
+msgid ""
+"Content is not used, it is overridden by themes/qgis-theme/index.html. TOC "
+"is used."
 msgstr ""
