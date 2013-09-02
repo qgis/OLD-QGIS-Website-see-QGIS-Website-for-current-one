@@ -36,6 +36,12 @@ a lot of people, please comment liberally/extensively.
 .current.reference.internal {
     background-color: darkgray;
 }
+/* external link icon for external links */
+.reference.external {
+    padding-right: 15px;
+    background: url(images/link-icon_external.png) center right no-repeat;}
+}
+
 
 
 /* simply resizing brand gives too much trouble*/
