@@ -5,11 +5,10 @@
 LANG        = en
 SPHINXBUILD   = sphinx-build
 PAPER         =
-#SPHINXOPTS    = source/website
-#BUILDDIR      = output/html/en
-# for dutch
-SPHINXOPTS    = -D language='$(LANG)' source/website
+SOURCEDIR     = source/website
+RESOURCEDIR   = resources
 BUILDDIR      = output/html/$(LANG)
+SPHINXOPTS    = -D language='$(LANG)' $(SOURCEDIR)
 
 # User-friendly check for sphinx-build
 ifeq ($(shell which $(SPHINXBUILD) >/dev/null 2>&1; echo $$?), 1)
@@ -52,8 +51,25 @@ help:
 
 clean:
 	rm -rf $(BUILDDIR)/*
+	rm -rf $(SOURCEDIR)/static
 
-html:
+# remove all resources from source/static directory
+# copy english resources from resources/en to source/static directory
+# IF we have a localized build (LANG != en) then
+# overwrite with potentially available LANG resources  by
+# copy LANG resources from resources/LANG to source/static directory
+# TODO: check if LANG != en, for now: unnessecary copy for english
+localizeresources: clean
+	@echo
+	@echo "Removing all static content from $(SOURCEDIR)/static."
+	rm -rf $(SOURCEDIR)/static
+	@echo "Copy 'en' (base) static content to $(SOURCEDIR)/static."
+	mkdir $(SOURCEDIR)/static
+	cp -r $(RESOURCEDIR)/en/* $(SOURCEDIR)/static
+	@echo "Copy localized '$(LANG)' static content to $(SOURCEDIR)/static."
+	cp -r $(RESOURCEDIR)/$(LANG)/* $(SOURCEDIR)/static
+
+html: localizeresources
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)."

@@ -15,6 +15,14 @@ Welcome to the QGIS Development pages
 .. all following sections will be in marketing div, below (optional) carousel !!!!!!!!!!!!!!!!!
 
 
+Test
+====
+
+This is a test for localisation. In dutch the image below should be in dutch:
+
+
+.. figure:: /static/website/getinvolved/development/test.png
+
 
 Bugs, Features and Issues
 =========================
