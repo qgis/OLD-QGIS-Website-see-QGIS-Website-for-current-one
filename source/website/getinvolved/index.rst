@@ -1,15 +1,16 @@
 
-========================
-Get Involved / Community
-========================
+==========================
+Get Involved / Development
+==========================
 
 .. toctree::
-    :maxdepth: 4
+    :maxdepth: 1
 
     News feed (goto planet.qgis.org) <http://planet.qgis.org>
     Plugins website <http://plugins.qgis.org>
     Mailinglist <mailinglists>
     Development <development/index>
+..    Pyqgis cookbook <pyqgis_developer_cookbook/index>
 
 .. note::
 

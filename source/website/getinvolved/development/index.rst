@@ -3,6 +3,11 @@
 QGIS Development
 ================
 
+.. toctree::
+    :maxdepth: 1
+
+    Pyqgis cookbook <pyqgis_developer_cookbook/index>
+
 Welcome to the QGIS Development pages
 
 

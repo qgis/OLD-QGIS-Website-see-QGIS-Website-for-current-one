@@ -1,3 +1,11 @@
+
+/******************************************************************************
+
+As this is the main qgis css theme, to be managed, reviewed and seen by 
+a lot of people, please comment liberally/extensively.
+
+******************************************************************************/
+
 .bx-wrapper {
     top : 60px;
     height: 600px;
@@ -23,6 +31,12 @@
     right: 25px;
     margin-bottom: 55px; 
 }
+
+/* this is the item in the TOC in sidebar which is currently active */
+.current.reference.internal {
+    background-color: darkgray;
+}
+
 
 /* simply resizing brand gives too much trouble*/
 /*
