@@ -1,7 +1,7 @@
 
 .. _QGIS-sponsoring:
 
-Sponsoring QGIS
+Supporting QGIS
 ===============
 
 QGIS is an entirely Open Source project. QGIS development is carried out largely
