@@ -1,8 +1,7 @@
-
 .. _QGIS-screenshots:
 
 
-Screenshots QGIS
+QGIS Screenshots
 ================
 
 Below are some screenshots from QGIS:

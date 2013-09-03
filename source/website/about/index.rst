@@ -5,9 +5,10 @@ Discover QGIS
 
 .. toctree::
 
+    forusers/features
+    screenshots
     case_studies/index
     sponsorship
-    screenshots
 
 .. note::
 
