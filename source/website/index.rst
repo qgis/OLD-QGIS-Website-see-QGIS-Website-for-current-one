@@ -7,6 +7,8 @@
     getinvolved/index
     forusers/download
 
+Welcome to the QGIS project!
+============================
 
 .. note::
 
