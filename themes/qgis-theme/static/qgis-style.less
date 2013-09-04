@@ -1,0 +1,148 @@
+
+/******************************************************************************
+
+As this is the main qgis css theme, to be managed, reviewed and seen by 
+a lot of people, please comment liberally/extensively.
+
+******************************************************************************/
+@import "bootstrap-2.3.2/less/variables.less";
+@import "bootstrap-2.3.2/less/mixins.less";
+
+@green: #129700;
+@blueDark: #1c2028;
+
+.navbar .container {
+  height: 50px;
+}
+
+.navbar-inverse {
+  .navbar-inner {
+    background: @blueDark;
+  }
+
+  .btn-navbar {
+    background: none;
+    border: none;
+    .box-shadow(none);
+
+    .icon-bar {
+      width: 34px;
+      height: 5px;
+      .border-radius(0);
+      margin-bottom: 5px;
+    }
+  }
+}
+
+.navbar .brand {
+  display: block;
+  .square(60px);
+  text-indent: -9999px;
+  padding: 0;
+}
+
+#main-body { 
+  position: absolute;
+  top: 75px; 
+  right: 25px;
+  margin-bottom: 55px; 
+}
+
+.footer {
+  background: @blueDark;
+  color: white;
+  padding: 50px 0 !important;
+  text-align: center;
+
+  .credit {
+    font-size: 12px;
+  }
+}
+
+/* this is the item in the TOC in sidebar which is currently active */
+.current.reference.internal {
+  background-color: darkgray;
+}
+/* external link icon for external links */
+.reference.external {
+  padding-right: 15px;
+  background: url(images/link-icon_external.png) center right no-repeat;
+}
+
+section {
+  margin: 0;
+}
+
+/*** LANDING ***/
+section.slideshow {
+  #gradient > .vertical(@startColor: #fff, @endColor: #f1f1f1);
+  margin-top: -20px;
+  padding: 30px 0;
+}
+
+.info {
+  text-align: center;
+  margin: 15px auto 0;
+
+  span {
+    display: block;
+    margin: 30px 0 15px;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 26px;
+    color: @blueDark;
+    margin-bottom: 30px;
+  }
+
+  .btn {
+    background: @green;
+    color: white;
+    text-shadow: none;
+    border: 1px solid darken(@green, 3%);
+    .border-radius(0);
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 15px;
+  }
+}
+
+section.highlights {
+  background: #fff;
+  padding: 30px 0;
+  border-top: 1px solid lighten(#63676f, 50%);
+  border-bottom: 1px solid lighten(#63676f, 50%);
+
+  .info-box {
+    margin: 0 10px 30px;
+    text-align: center;
+
+    h4 {
+      text-transform: uppercase;
+      color: @blueDark;
+    }
+
+    .box-content {
+      background: white;
+      border: 1px solid #ccc;
+      border-bottom: 6px solid #ccc;
+
+      img {
+        margin-bottom: 10px;
+      }
+
+      p {
+        padding: 0 10px;
+        font-size: 15px;
+      }
+    }
+  }
+}
+
+@media (max-width: 3000px) {
+  .navbar .container {
+    width: 940px !important;
+  }
+}
+
+
