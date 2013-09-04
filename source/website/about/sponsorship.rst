@@ -65,7 +65,7 @@ sponsorship page. These sponsors are listed below with our thanks!
 
 `ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, Japan (11.2012-10.2015)
 
-.. |aas_long| image:: images/aas_long.png
+.. |aas_long| image:: /static/website/about/images/aas_long.png
    :width: 600 px
 
 ----
@@ -74,12 +74,12 @@ sponsorship page. These sponsors are listed below with our thanks!
 
 `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (3.2013)
 
-.. |land_f| image:: images/land_f.jpg
+.. |land_f| image:: /static/website/about/images/land_f.jpg
    :width: 290 px
 
 ----
 
-.. image:: images/gfoss.png
+.. image:: /static/website/about/images/gfoss.png
    :width: 150 px
    :align: left
 
@@ -90,7 +90,7 @@ Italian).
 
 ----
 
-.. image:: images/osgeo.png
+.. image:: /static/website/about/images/osgeo.png
    :width: 100 px
    :align: left
 
@@ -103,7 +103,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 `Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012)
 
-.. |sogis| image:: images/sogis.gif
+.. |sogis| image:: /static/website/about/images/sogis.gif
    :width: 150 px
 
 ----
@@ -112,7 +112,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 `www.fossgis.de <http://www.fossgis.de/>`_, Germany (8.2012)
 
-.. |fossgisev| image:: images/fossgisev.png
+.. |fossgisev| image:: /static/website/about/images/fossgisev.png
    :width: 140 px
 
 ----
@@ -121,7 +121,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 `www.argusoft.de <http://www.argusoft.de/>`_, Germany (6.2012)
 
-.. |argus| image:: images/argus.jpg
+.. |argus| image:: /static/website/about/images/argus.jpg
    :width: 130 px
 
 ----
@@ -130,7 +130,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 `www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (5.2012)
 
-.. |geosynergy| image:: images/geosynergy.jpg
+.. |geosynergy| image:: /static/website/about/images/geosynergy.jpg
    :width: 150 px
 
 ----
@@ -139,7 +139,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 `ibW Bildungszentrum Wald <http://www.bzwmaienfeld.ch/>`_, Switzerland (3.2012)
 
-.. |ibw_bzwm| image:: images/ibw_bzwm.png
+.. |ibw_bzwm| image:: /static/website/about/images/ibw_bzwm.png
    :width: 150 px
 
 ----
@@ -164,7 +164,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 `City of Uster <http://gis.uster.ch/>`_, Switzerland (11.2011)
 
-.. |uster| image:: images/uster.gif
+.. |uster| image:: /static/website/about/images/uster.gif
    :width: 100 px
 
 ----
@@ -173,7 +173,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 `Municípia, SA <http://www.municipia.pt/>`_, Portugal (2.2011)
 
-.. |municipia| image:: images/municipia.jpg
+.. |municipia| image:: /static/website/about/images/municipia.jpg
    :width: 78 px
 
 ----
@@ -182,7 +182,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 `Studio Associato Gfosservices <http://www.gfosservices.com/>`_, Italy (2.2010)
 
-.. |gfosservices| image:: images/gfosservices.jpg
+.. |gfosservices| image:: /static/website/about/images/gfosservices.jpg
    :width: 55 px
 
 ----
@@ -191,7 +191,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 `NextGIS <http://nextgis.org/>`_, Russia (3.2010)
 
-.. |nextgis| image:: images/nextgis.gif
+.. |nextgis| image:: /static/website/about/images/nextgis.gif
    :width: 130 px
 
 Donation
@@ -461,11 +461,11 @@ contact the **QGIS PSC Finance and Marketing advisor**, Paolo Cavallini at:
 cavallini at faunalia dot it (+39-348-3801953) with questions, or to make
 arrangements.
 
-.. |bronze| image:: images/bronze.png
+.. |bronze| image:: /static/website/about/images/bronze.png
    :width: 60 px
 
-.. |silver| image:: images/silver.png
+.. |silver| image:: /static/website/about/images/silver.png
    :width: 75 px
 
-.. |gold| image:: images/gold.png
+.. |gold| image:: /static/website/about/images/gold.png
    :width: 100 px
