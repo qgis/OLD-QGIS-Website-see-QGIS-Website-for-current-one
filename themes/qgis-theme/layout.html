@@ -1,8 +1,8 @@
 {# Import the theme's layout. #}
 {% extends "!layout.html" %}
-
   {% set script_files = script_files + [
-    '_static/jquery.bxslider.min.js',
+    '_static/bootstrap-2.3.2/js/bootstrap.min.js',
+    '_static/bootstrap-carousel.js',
   ]
 %}
 
@@ -13,8 +13,8 @@
 {% block footer %}
 <footer class="footer">
   <div class="container">
-  <center><p>{{ _('Home | About | Community') }}</p></center>
-  <center><p>{{ _('All content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>.') }}</p></center>
+    <p>{{ _('Home | About | Community') }}</p>
+    <p class="credit">{{ _('All content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>.') }}</p>
 </div>
 </footer>
 {% endblock %}

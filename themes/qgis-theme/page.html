@@ -1,16 +1,21 @@
 {% extends "layout.html" %}
-{% block body %}
+{%- block content %}
     {% if pagename == 'index' %}
+        {{ qgis_navBar() }}
         {% include 'index.html' %}
-    {% elif pagename == 'forusers/index' %}
-        {% include 'forusers_index.html' %}
-    {% elif pagename == 'forusers/download' %}
-        {% include 'forusers_download.html' %}
-    {% elif pagename == 'getinvolved/index' %}
-        {% include 'getinvolved_index.html' %}
-    {% elif pagename == 'about/index' %}
-        {% include 'about_index.html' %}
-    {% else %}
-        {{ body }}
     {% endif %}
+
+    {% block body %}
+        {% if pagename == 'forusers/index' %}
+            {% include 'forusers_index.html' %}
+        {% elif pagename == 'forusers/download' %}
+            {% include 'forusers_download.html' %}
+        {% elif pagename == 'getinvolved/index' %}
+            {% include 'getinvolved_index.html' %}
+        {% elif pagename == 'about/index' %}
+            {% include 'about_index.html' %}
+        {% else %}
+            {{ body }}
+        {% endif %}
+    {% endblock %}
 {% endblock %}

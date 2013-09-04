@@ -1,15 +1,69 @@
-<ul class="bxslider">
-    <li><img src="http://farm8.staticflickr.com/7311/9182111854_ae97bae18b_c.jpg" /></li>
-    <li><img src="http://farm6.staticflickr.com/5546/9391999018_5c82ab12d4_c.jpg" /></li>
-    <li><img src="http://farm8.staticflickr.com/7351/9389222261_b844db6309_c.jpg" /></li>
-    <li><img src="http://farm4.staticflickr.com/3774/9495442927_dfda4fefaa_c.jpg" /></li>
-</ul>
+<section class="slideshow">
+    <div class="container">
+        <div id="myCarousel" class="carousel slide">
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="item active">
+                    <img src="http://placehold.it/940x300" alt="">
+                </div>
+                <div class="item">
+                    <img src="http://placehold.it/940x300" alt="">
+                </div>
+                <div class="item">
+                    <img src="http://placehold.it/940x300" alt="">
+                </div>
+            </div>
+            <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+            <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
+        </div>
+
+        <div class="info">
+            <span>{{ _('For Windows, Mac, Linux, BSD and Android') }}</span>
+            <a href="download.html" class="btn btn-large">{{ _('Download Now') }}</a>
+        </div>
+    </div>
+</section>
+
+<section class="highlights">
+    <div class="container">
+        <div class="row">
+            <div class="span4">
+                <div class="info-box">
+                    <h4>{{ _('Get Started') }}</h4>
+                    <div class="box-content">
+                        <img src="http://farm8.staticflickr.com/7311/9182111854_ae97bae18b_c.jpg" alt="">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="span4">
+                <div class="info-box">
+                    <h4>{{ _('Get Involved') }}</h4>
+                    <div class="box-content">
+                        <img src="http://farm8.staticflickr.com/7311/9182111854_ae97bae18b_c.jpg" alt="">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="span4">
+                <div class="info-box">
+                    <h4>{{ _('Learn More') }}</h4>
+                    <div class="box-content">
+                        <img src="http://farm8.staticflickr.com/7311/9182111854_ae97bae18b_c.jpg" alt="">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <script type="text/javascript">
-$(document).ready(function(){
-    $('.bxslider').bxSlider();
-});
+    $(function(){
+        $('.carousel').carousel('pause');
+    });
 </script>
-
-
-<p align="center">{{ _('For Windows, Mac, Linux, BSD and Android') }}</p>
-<p align="center"><a href='download.html'>{{ _('Download Now') }}</a></p>
