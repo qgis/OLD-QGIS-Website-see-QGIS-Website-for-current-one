@@ -6,7 +6,9 @@ Get Involved / Development
 .. toctree::
     :maxdepth: 1
 
-    News feed (goto planet.qgis.org) <http://planet.qgis.org>
+    translate
+    plugindeva
+    devenviro
     Plugins website <http://plugins.qgis.org>
     Mailinglist <mailinglists>
     Development <development/index>
