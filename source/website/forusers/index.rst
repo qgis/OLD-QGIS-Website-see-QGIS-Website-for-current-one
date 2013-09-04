@@ -9,6 +9,10 @@ For Users
 .. toctree::
     :maxdepth: 4
 
+    features
+    screenshots
+    case_studies
+    sponsorship
     commercial_support
 ..    download (not here, download has it's own landingpage)
 

@@ -10,7 +10,7 @@ TODO: put some screenshots here from a flickr pool of qgis dialogs or screenshot
 
 
 Maps created with QGIS
-======================
+----------------------
 
 Below are some maps created with QGIS. 
 
