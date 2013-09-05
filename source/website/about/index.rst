@@ -5,7 +5,7 @@ Discover QGIS
 
 .. toctree::
 
-    forusers/features
+    features
     screenshots
     case_studies/index
     sponsorship

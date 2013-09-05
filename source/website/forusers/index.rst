@@ -9,7 +9,13 @@ For Users
 .. toctree::
     :maxdepth: 4
 
+    download
+    about/features
+    documentation
+    support
     commercial_support
+    plugins
+    press
 ..    download (not here, download has it's own landingpage)
 
 .. note::
