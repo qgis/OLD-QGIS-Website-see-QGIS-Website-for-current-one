@@ -1,21 +1,30 @@
 {% extends "layout.html" %}
-{%- block content %}
-    {% if pagename == 'index' %}
-        {{ qgis_navBar() }}
-        {% include 'index.html' %}
-    {% endif %}
 
-    {% block body %}
-        {% if pagename == 'forusers/index' %}
-            {% include 'forusers_index.html' %}
-        {% elif pagename == 'forusers/download' %}
-            {% include 'forusers_download.html' %}
-        {% elif pagename == 'getinvolved/index' %}
-            {% include 'getinvolved_index.html' %}
-        {% elif pagename == 'about/index' %}
-            {% include 'about_index.html' %}
-        {% else %}
-            {{ body }}
-        {% endif %}
-    {% endblock %}
-{% endblock %}
+{%- block content %}
+    {{ qgis_navBar() }}
+    {% if pagename == 'index' %}
+        {% include 'index.html' %}
+    {% elif pagename == 'forusers/download' %}
+        {% include 'forusers_download.html' %}
+    {% else %}
+        <div class="container">
+            <div class="row">
+                {%- block sidebar1 %}{{ bsidebar() }}{% endblock %}
+                <div class="{{ bs_content_span }}">
+                    {% block body %}
+                        {% if pagename == 'forusers/index' %}
+                            {% include 'forusers_index.html' %}
+                        {% elif pagename == 'getinvolved/index' %}
+                            {% include 'getinvolved_index.html' %}
+                        {% elif pagename == 'about/index' %}
+                            {% include 'about_index.html' %}
+                        {% else %}
+                            {{ body }}
+                        {% endif %}
+                    {% endblock %}
+                </div>
+                {% block sidebar2 %} {# possible location for sidebar #} {% endblock %}
+            </div>
+        </div>
+    {% endif %}
+{%- endblock %}
