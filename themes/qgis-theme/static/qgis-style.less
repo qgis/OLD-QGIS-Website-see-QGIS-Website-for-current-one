@@ -11,10 +11,6 @@ a lot of people, please comment liberally/extensively.
 @green: #129700;
 @blueDark: #1c2028;
 
-.navbar .container {
-  height: 50px;
-}
-
 .navbar-inverse {
   .navbar-inner {
     background: @blueDark;
@@ -24,6 +20,12 @@ a lot of people, please comment liberally/extensively.
     background: none;
     border: none;
     .box-shadow(none);
+    padding-left: 0;
+    padding-right: 0;
+
+    &:hover {
+      background: none;
+    }
 
     .icon-bar {
       width: 34px;
@@ -34,11 +36,57 @@ a lot of people, please comment liberally/extensively.
   }
 }
 
+.nav-collapse {
+  height: auto;
+  background-color: #63676f;
+  margin: 0px -20px -10px;
+
+  .nav {
+    margin-top: 6px !important;
+
+    > li {
+      float: left !important;
+
+      a {
+        text-shadow: none !important;
+        text-transform: uppercase;
+        color: @blueDark !important;
+
+        &:hover {
+          color: white !important;
+          background: @blueDark !important;
+        }
+      }
+    }
+  }
+
+  .navbar-search {
+    margin: 10px 0 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    .box-shadow(none) !important;
+    float: right !important;
+
+    input {
+      background: lighten(#63676f, 10%) !important;
+      border-color: darken(#63676f, 5%) !important;
+      border-top-color: darken(#63676f, 10%) !important;
+      text-shadow: none !important;
+      color: white;
+    }
+  }
+
+  #languages {
+    margin-top: 10px;
+  }
+}
+
 .navbar .brand {
   display: block;
   .square(60px);
   text-indent: -9999px;
-  padding: 0;
+  padding: 0 !important;
+  background: transparent url("logo.png") no-repeat 0 0 !important;
 }
 
 #main-body { 
@@ -99,11 +147,15 @@ section.slideshow {
     background: @green;
     color: white;
     text-shadow: none;
-    border: 1px solid darken(@green, 3%);
+    border: none;
     .border-radius(0);
     text-transform: uppercase;
     font-weight: normal;
     font-size: 15px;
+
+    &:hover {
+      background: darken(@green, 3%);
+    }
   }
 }
 
@@ -139,7 +191,7 @@ section.highlights {
   }
 }
 
-@media (max-width: 3000px) {
+@media (min-width: 980px) {
   .navbar .container {
     width: 940px !important;
   }
