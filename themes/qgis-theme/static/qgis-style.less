@@ -240,7 +240,7 @@ section.latest-news {
     }
   }
 
-  .intro {
+  p.intro {
     font-size: 16px;
     font-style: italic;
     margin: 0 40px 30px;
@@ -270,6 +270,43 @@ section.sponsors {
 
   .sponsor {
     text-align: center;
+  }
+}
+
+/*** DOWNLOAD ***/
+section.intro {
+  margin-top: -20px;
+  padding: 30px 0 60px;
+  border-bottom: 1px solid #ddd;
+  background: #f3f2f0;
+
+  h2 {
+    font-weight: 400;
+  }
+
+  p.main {
+    font-size: 16px;
+    line-height: 20px;
+  }
+}
+
+section.content {
+  padding: 30px 0;
+  margin-top: -68px !important;
+
+  .nav-tabs {
+    border-bottom: none;
+
+    > li > a {
+      .border-radius(0);
+      text-transform: uppercase;
+    }
+  }
+
+  h4 {
+    font-weight: 400;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
   }
 }
 
