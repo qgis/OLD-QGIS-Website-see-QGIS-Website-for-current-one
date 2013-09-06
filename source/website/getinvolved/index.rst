@@ -11,6 +11,7 @@ Get Involved / Development
     devenviro
     Plugins website <http://plugins.qgis.org>
     Mailinglist <mailinglists>
+    QGIS Infrastructure <infrastructure>
     Development <development/index>
 ..    Pyqgis cookbook <pyqgis_developer_cookbook/index>
 
