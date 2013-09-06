@@ -95,8 +95,7 @@ file (see below to choose the appropriate one) and type::
  sudo apt-get update
  sudo apt-get install qgis python-qgis qgis-plugin-grass
 
-.. note:: Please remove all the QGIS and GRASS packages you may have installed
-from other repositories before doing the update.
+.. note:: Please remove all the QGIS and GRASS packages you may have installed from other repositories before doing the update.
 
 Fedora
 ++++++

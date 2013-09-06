@@ -21,6 +21,7 @@ Within the whole planning process QGIS was used for the following four tasks:
    :alt: Extract of the forestry measurements map
    :scale: 60%
    :align: right
+
    Extract of the forestry measurements map
 
 Conclusion

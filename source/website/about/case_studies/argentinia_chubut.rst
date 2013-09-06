@@ -26,7 +26,7 @@ The main objective of the experience was to lecture the 12th grade students, in 
 To generate the project we continue the following methodology:
 
 * Practical and theoretical lectures; mainly about the usage of QGIS and the benefits of urban green spaces and its territorial implications.
-Cartographic modeling, vector layers definition, development of GIS databases.
+* Cartographic modeling, vector layers definition, development of GIS databases.
 * Field work (trees data records and GPS locations).
 * Vector digitizing of urban cadastral blocks and the tree´s canopies, using a Google Earth (GeoEye) image. In order to consider the amount inhabitants by cadastral block, we assigned an average value of 4 inhabitants by plot.
 * Results presentation through thematic cartography.

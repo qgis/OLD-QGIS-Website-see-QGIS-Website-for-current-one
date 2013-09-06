@@ -9,6 +9,7 @@ Discover QGIS
     screenshots
     case_studies/index
     sponsorship
+    press
 
 .. note::
 

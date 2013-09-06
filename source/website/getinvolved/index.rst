@@ -7,7 +7,7 @@ Get Involved / Development
     :maxdepth: 1
 
     translate
-    plugindeva
+    plugindev
     devenviro
     Plugins website <http://plugins.qgis.org>
     Mailinglist <mailinglists>

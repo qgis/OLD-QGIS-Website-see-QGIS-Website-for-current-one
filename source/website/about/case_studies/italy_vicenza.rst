@@ -23,11 +23,11 @@ The PDR (piani di recupero) must follow strict rules that require specific graph
 * Project state
 * Intended use (present)
 * Intended use (project)
-*Type of intervention admitted
+* Type of intervention admitted
 
 For every graphic thematic maps were produced using the attribute and data retrieve during the survey (for the present state) and data modified during the study and design fase.
 Thus a photo was linked to every building facilitating the design and analisys in the gis project (using the “action” feature). The SQL tools (pgquery, postgis manager, dbmanager et al.) allowed to obtain very sophisticated query immediately viewable in the map canvas such as: volume calculation split by building intended use, standards area calculation in percentage of the total planning area and other minor queries. All useful items for the design and planning study otherwise not possible without a very strength tool like gis (and QGIS in particular).
- 
+
 .. figure:: ./images/italy_vicenza2.png
    :alt: QGIS project with building data viewing
    :scale: 60%
