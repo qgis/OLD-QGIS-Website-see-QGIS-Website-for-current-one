@@ -39,7 +39,9 @@ Then normal build
     
 See it in action: http://new.qgis.org/html/en (to be moved)
 
-To make changes to CSS
+qgis-style.css is based on Less (see http://lesscss.org/ )
+
+To make changes to CSS on MacOsx
  
     download / install / open Less app (http://incident57.com/less/)
     in Finder navigate to themes/qgis-theme/static/
@@ -49,3 +51,15 @@ To make changes to CSS
     for advance usage read docs on Less CSS: http://lesscss.org/
 
     (if you have any questions ping yulka_plekhanova on Skype)
+
+To make changes on cli Linux
+
+    # install node-less and the compressor
+    sudo apt-get install node-less yui-compressor
+    # compile the less file to a normal css file:
+    lessc qgis-style.less qgis-style.css
+    # or
+    lessc qgis-style.less > qgis-style.css
+    # optional: compress the css
+    yui-compressor -o qgis-style.css qgis-style.css
+    
