@@ -38,3 +38,14 @@ Then normal build
     make clean LANG=nl html
     
 See it in action: http://new.qgis.org/html/en (to be moved)
+
+To make changes to CSS
+ 
+    download / install / open Less app (http://incident57.com/less/)
+    in Finder navigate to themes/qgis-theme/static/
+    drag qgis-style.less file to the Less app
+    make changes in qgis-style.less
+    on save it should automatically compile into qgis-style.css
+    for advance usage read docs on Less CSS: http://lesscss.org/
+
+    (if you have any questions ping yulka_plekhanova on Skype)
