@@ -12,6 +12,10 @@ a lot of people, please comment liberally/extensively.
 @blueDark: #1c2028;
 @grayDark: #404040;
 
+body {
+  padding-top: 70px !important;
+}
+
 h4 {
   font-size: 20px;
 }
@@ -163,7 +167,6 @@ section {
 /*** LANDING ***/
 section.slideshow {
   background: white;
-  margin-top: 20px;
   padding: 30px 0;
 }
 
@@ -171,15 +174,20 @@ section.slideshow {
   text-align: center;
   margin: 15px auto 0;
 
+  p {
+    font-size: 26px;
+    margin-top: 30px;
+    font-weight: bold;
+  }
+
   span {
     display: block;
-    margin: 30px 0 15px;
-    font-size: 18px;
+    margin: 20px 0;
     font-weight: bold;
     text-transform: uppercase;
-    font-size: 26px;
-    color: @blueDark;
-    margin-bottom: 30px;
+    font-size: 18px;
+    color: lighten(@blueDark, 20%);
+    line-height: 20px;
   }
 
   .btn {
@@ -341,9 +349,32 @@ section.content {
   }
 }
 
+.bs-sidenav {
+  padding-top: 0 !important;
+
+  &.well {
+    background: none;
+    border: none;
+    border-right: 1px solid #ddd;
+    .border-radius(0);
+    .box-shadow(none);
+  }
+
+  h3 {
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 16px;
+  }
+}
+
 @media (min-width: 980px) {
   .navbar .container {
     width: 940px !important;
+  }
+
+  .bs-sidenav {
+    width: 220px !important;
+    margin: 0 !important;
   }
 }
 
