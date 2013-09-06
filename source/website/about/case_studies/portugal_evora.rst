@@ -7,8 +7,7 @@ I started applying GIS to my work in biogeography about 10 years ago. Through my
 
 .. figure:: ./images/portugal_evora1.png
    :alt: Distribution of Spanish algyroides
-   :scale: 60%
-   :align: right
+   :scale: 20
 
    Distribution of Spanish algyroides (Algyroides marchi) at three spatial scales and from two different data sources.
 
@@ -21,6 +20,7 @@ I started using both programs immediately after the course. Not only did I begin
 
    Environmental suitability for the Pyrenean desman (Galemys pyrenaicus) together with presence, absence, and random points in north Catalonia (Spain).
 
+
 Conclusion
 ==========
 
@@ -32,9 +32,9 @@ Author
 .. figure:: ./images/portugal_evoraaut.png
    :alt: A. Márcia Barbosa
    :height: 200
-   :align: left
+   :align: right
 
-   A. Márcia Barbosa
+A. Márcia Barbosa
 
 This article was contributed in July 2010 by A. Márcia Barbosa. She is a post-doctoral researcher at Imperial College London (UK) and the University of Évora (Portugal).
 
