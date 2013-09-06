@@ -31,7 +31,7 @@ To gather all strings in a pot file:
 
 To update or create strings:
 
-    sphinx-intl update -l nl (es, zh_CN)
+    sphinx-intl update -p i18n/pot -c source/website/conf.py -l nl (es, zh_CN)
 
 Then normal build
 
