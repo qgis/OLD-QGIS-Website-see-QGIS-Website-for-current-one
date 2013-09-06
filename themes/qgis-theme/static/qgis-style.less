@@ -29,7 +29,7 @@ h4 {
     background: none;
     border: none;
     .box-shadow(none);
-    padding-left: 0;
+    padding-left: 20px;
     padding-right: 0;
 
     &:hover {
@@ -73,7 +73,7 @@ h4 {
   padding: 0 !important;
   border: none !important;
   .box-shadow(none) !important;
-  float: left !important;
+  float: right !important;
 
   input {
     background: #f1f1f1 !important;
@@ -375,6 +375,18 @@ section.content {
   .bs-sidenav {
     width: 220px !important;
     margin: 0 !important;
+  }
+}
+
+@media (max-width: 979px) {
+  body {
+    padding-top: 0 !important;
+  }
+}
+
+@media (max-width: 470px) {
+  .navbar-search input {
+    width: 120px;
   }
 }
 

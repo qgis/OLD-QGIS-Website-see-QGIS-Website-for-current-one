@@ -39,6 +39,12 @@
 
         <a class="brand" href="{{ pathto(master_doc) }}">{% if theme_navbar_title -%}{{ theme_navbar_title|e }}{%- else -%}{{ project|e }}{%- endif -%}</a>
         <span class="navbar-text pull-left"><b>{{ version|e }}</b></span>
+        {% block sidebarsearch %}
+          {% include "searchbox.html" %}
+        {% endblock %}
+        {% block languageswitch %}
+          {% include "languageswitch.html" %}
+        {% endblock %}
         <div class="nav-collapse collapse">
           <ul class="unstyled nav main-menu">
             <li><a href="{{ pathto('about/index') }}">{{_("Discover QGIS") }}</a></li>
@@ -47,13 +53,6 @@
             <li><a href="{{ pathto('forusers/download') }}">{{_("Download") }}</a></li>
           </ul>
         </div>
-        {% block languageswitch %}
-          {% include "languageswitch.html" %}
-        {% endblock %}
-
-        {% block sidebarsearch %}
-          {% include "searchbox.html" %}
-        {% endblock %}
       </div>
     </div>
   </div>
