@@ -159,6 +159,8 @@ html_sidebars = {
     'forusers/download': [],
     'getinvolved/**': ['myglobaltoc.html'],
     'getinvolved/index': [],
+    # for bootstrap theme: custom sidebar templates possible:
+    'sidebars': []
 }
 
 # Additional templates that should be rendered to pages, maps page names to
