@@ -76,18 +76,22 @@
         <p class="intro">{{ _('Find out what is going on with the QGIS project and its Community. Blog Posts, Case Studies, Tutorials, User Meetings and more') }}</p>
         <div class="row">
             <div class="span6">
-                <div class="info-box">
-                    <img src="_static/images/qgis-gallery.png" alt="QGIS Gallery">
-                    <h4>{{ _('Gallery') }}</h4>
-                    <p>{{ _('Check out images and videos of interesting maps and projects from the Global QGIS Community.') }}</p>
-                </div>
+                <a href="{{ pathto('about/screenshots') }}">
+                    <div class="info-box">
+                        <img src="_static/images/qgis-gallery.png" alt="QGIS Gallery">
+                        <h4>{{ _('Gallery') }}</h4>
+                        <p>{{ _('Check out images and videos of interesting maps and projects from the Global QGIS Community.') }}</p>
+                    </div>
+                </a>
             </div>
             <div class="span6">
-                <div class="info-box">
-                    <img src="_static/images/planet-qgis.png" alt="Planet QGIS">
-                    <h4>{{ _('Planet QGIS') }}</h4>
-                    <p>{{ _('Read the latest blog posts about QGIS and its users from around the web.') }}</p>
-                </div>
+                <a href="http://planet.qgis.org" target="_blank">
+                    <div class="info-box">
+                        <img src="_static/images/planet-qgis.png" alt="Planet QGIS">
+                        <h4>{{ _('Planet QGIS') }}</h4>
+                        <p>{{ _('Read the latest blog posts about QGIS and its users from around the web.') }}</p>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
@@ -99,18 +103,20 @@
             <h3>{{ _('Sponsors') }}</h3>
         </header>
         <div class="row">
-            <div class="span6">
-                <div class="sponsor">
-                    <img src="http://placehold.it/60x60" alt="">
-                    <h5>{{ _('Platinum Sponsor') }}</h5>
+            <a href="{{ pathto('about/sponsorship') }}">
+                <div class="span6">
+                    <div class="sponsor">
+                        <img src="http://placehold.it/90x90" alt="">
+                        <h5>{{ _('Platinum Sponsor') }}</h5>
+                    </div>
                 </div>
-            </div>
-            <div class="span6">
-                <div class="sponsor">
-                    <img src="http://placehold.it/60x60" alt="">
-                    <h5>{{ _('Gold Sponsors') }}</h5>
+                <div class="span6">
+                    <div class="sponsor">
+                        <img src="http://placehold.it/90x90" alt="">
+                        <h5>{{ _('Gold Sponsors') }}</h5>
+                    </div>
                 </div>
-            </div>
+            <a>
         </div>
 
     </div>

@@ -4,9 +4,19 @@
 QGIS Screenshots
 ================
 
-Below are some screenshots from QGIS:
+Below are some screenshots from QGIS itself, ans dome of Maps which are created with QGIS:
 
-TODO: put some screenshots here from a flickr pool of qgis dialogs or screenshots
+
+Screen shots of QGIS
+--------------------
+
+These screenshots from the `QGIS screenshots - Flickr Group <http://www.flickr.com/groups/qgis-screenshots/>`_.
+
+.. role:: raw-html(raw)
+   :format: html
+
+:raw-html:`<a href="http://www.flickr.com/photos/madmanwoo/9693517656/" title="qgis by Nathan Woodrow, on Flickr"><img src="http://farm3.staticflickr.com/2840/9693517656_d66efd5a87.jpg" width="500" height="396" alt="qgis"></a>`
+
 
 
 Maps created with QGIS
