@@ -38,31 +38,37 @@
     <div class="container">
         <div class="row">
             <div class="span4">
-                <div class="info-box">
-                    <h4>{{ _('Get Started') }}</h4>
-                    <div class="box-content">
-                        <img src="_static/images/get-started.png" alt="get started icon play">
-                        <p>{{ _('Download and Install QGIS then follow the Quickstart.') }}</p>
+                <a href="{{ pathto('forusers/download') }}">
+                    <div class="info-box">
+                        <h4>{{ _('Get Started') }}</h4>
+                        <div class="box-content">
+                            <img src="_static/images/get-started.png" alt="get started icon play">
+                            <p>{{ _('Download and Install QGIS then follow the Quickstart.') }}</p>
+                        </div>
                     </div>
-                </div>
+                </a>
             </div>
             <div class="span4">
-                <div class="info-box">
-                    <h4>{{ _('Get Involved') }}</h4>
-                    <div class="box-content">
-                        <img src="_static/images/get-involved.png" alt="get involved icon community">
-                        <p>{{ _('Shape the future of QGIS with your contributions.') }}</p>
+                <a href="{{ pathto('getinvolved/index') }}">
+                    <div class="info-box">
+                        <h4>{{ _('Get Involved') }}</h4>
+                        <div class="box-content">
+                            <img src="_static/images/get-involved.png" alt="get involved icon community">
+                            <p>{{ _('Shape the future of QGIS with your contributions.') }}</p>
+                        </div>
                     </div>
-                </div>
+                </a>
             </div>
             <div class="span4">
-                <div class="info-box">
-                    <h4>{{ _('Learn More') }}</h4>
-                    <div class="box-content">
-                        <img src="_static/images/learn-more.png" alt="learn more icon compass">
-                        <p>{{ _('Find training materials and reference documentation.') }}</p>
+                <a href="http://docs.qgis.org/2.0/html/en/docs/index.html">
+                    <div class="info-box">
+                        <h4>{{ _('Learn More') }}</h4>
+                        <div class="box-content">
+                            <img src="_static/images/learn-more.png" alt="learn more icon compass">
+                            <p>{{ _('Find training materials and reference documentation.') }}</p>
+                        </div>
                     </div>
-                </div>
+                </a>
             </div>
         </div>
     </div>
@@ -106,14 +112,14 @@
             <a href="{{ pathto('about/sponsorship') }}">
                 <div class="span6">
                     <div class="sponsor">
-                        <img src="http://placehold.it/90x90" alt="">
-                        <h5>{{ _('Platinum Sponsor') }}</h5>
+                        <img src="{{pathto('_images/gold.png', 1)}}" width="90px" alt="">
+                        <h5>{{ _('Gold Sponsor') }}</h5>
                     </div>
                 </div>
                 <div class="span6">
                     <div class="sponsor">
-                        <img src="http://placehold.it/90x90" alt="">
-                        <h5>{{ _('Gold Sponsors') }}</h5>
+                        <img src="{{pathto('_images/silver.png', 1)}}" width="90px" alt="">
+                        <h5>{{ _('Silver Sponsors') }}</h5>
                     </div>
                 </div>
             <a>

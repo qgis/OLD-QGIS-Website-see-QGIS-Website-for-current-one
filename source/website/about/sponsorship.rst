@@ -52,6 +52,11 @@ as being one of the following class:
 * 3,000+ €/4,300 US$: Silver Sponsor
 * 500+ €/700 US$: Bronze Sponsor
 
+
+
+
+.. _list_of_sponsors:
+
 List of sponsors
 ++++++++++++++++
 
