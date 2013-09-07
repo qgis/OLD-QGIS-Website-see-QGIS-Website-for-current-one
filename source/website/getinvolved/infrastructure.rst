@@ -9,6 +9,8 @@ I think it is not wise to put accountnames here, but let me know if that is bett
 
 Please add (yourself) and or change
 
+Some sources: http://app.wisemapping.com/c/maps/81444/edit and http://docs.qgis.org/2.0/html/en/docs/qgis_governance/
+
 Domains
 -------
 
@@ -41,30 +43,46 @@ Github management
 -----------------
 
 - https://github.com/qgis
-- management: Otto, Tim, ?
-- Quantum-GIS push rights: ?
-- QGIS-Website
+- owners: https://github.com/organizations/qgis/teams/24203
+- admin: Otto D, Gary S, Marco H, Paolo C, Pirmin K, Tim L
+- Quantum-GIS push rights depending on sub project plz contact admins
+
+
+Flickr Groups
+-------------
+
+- groupstarters: Nathan W, Anita G, Matieu
+- screenshots http://www.flickr.com/groups/qgis-screenshots/
+- maps http://www.flickr.com/groups/qgis/pool/
+
 
 Twitter
 -------
 
-?
+- https://twitter.com/qgis
+- Nathan W
+
+Facebook
+--------
+
+- Nathan W
 
 Finance
 -------
 
-Paolo C
+- Paolo C
 
 
 IRC
 ---
 
-??
+- Jurgen F
+
 
 Planet feeds
 ------------
 
-??
+- Gary S
 
 ...
 
