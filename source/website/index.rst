@@ -1,6 +1,6 @@
 
 .. toctree::
-    :maxdepth: 5
+    :maxdepth: 4
 
     about/index
     forusers/index

@@ -11,6 +11,9 @@ even more pages if needed
 User
 ----
 
+
+.. _how-to-ask-a-QGIS-question:
+
 QGIS error on your machine. How to ask a question?
 ..................................................
 
