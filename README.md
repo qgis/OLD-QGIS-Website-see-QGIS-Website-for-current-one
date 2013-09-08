@@ -6,7 +6,7 @@ QGIS-Website
 To be able to run localisation targets you will need Sphinx 1.2b1 which comes with pip. 
 Sphinx coming with most distro's is just 1.1.3. You will get an error with those.
 
-Best to run the make file in a virtual env (http://www.virtualenv.org/).
+Best to run the make file in a virtual env (http://www.virtualenv.org/):
 
 So install sphinx 1.2b1:
 
@@ -25,7 +25,7 @@ Then build:
     make clean html (to build the english languag)
     make clean LANG=nl html (to build the dutch version. Currently available: nl, es, zh_CN)
 
-To gather all strings in a pot file:
+To gather all strings in a pot (.po) file:
 
     make gettext
 
@@ -33,9 +33,9 @@ To update or create strings:
 
     sphinx-intl update -p i18n/pot -c source/website/conf.py -l nl (es, zh_CN)
 
-To create .mo files from teh .po files then:
+To create .mo files from the .po files then:
 
-    sphinx-intl build
+    sphinx-intl build -c source/website/conf.py
 
 Then normal build
 
