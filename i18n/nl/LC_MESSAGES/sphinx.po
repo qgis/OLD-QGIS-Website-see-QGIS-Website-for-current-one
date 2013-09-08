@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, QGIS Contributors
 # This file is distributed under the same license as the QGIS Website package.
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
@@ -16,6 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: nl\n"
+"X-Source-Language: en\n"
 
 # 84e39a7184e34252b42da900907125f4
 #: ../../themes/qgis-theme/localtoc.html:3
@@ -23,49 +25,131 @@ msgid "Page"
 msgstr "Pagina"
 
 # 88e57ecd46ed4fc990aa1e3d9e050eaf
-#: ../../themes/qgis-theme/index.html:14
+#: ../../themes/qgis-theme/index.html:31
 msgid "For Windows, Mac, Linux, BSD and Android"
 msgstr "Voor Windows, Mac, Linux, BSD en Android"
 
 # 160e5fb630354a6099837351c03dfcf6
-#: ../../themes/qgis-theme/index.html:15
+#: ../../themes/qgis-theme/index.html:32
 msgid "Download Now"
 msgstr "Nu Downloaden"
 
 # 9aed2b31cfe44ab6b7f492916d68de64
-#: ../../themes/qgis-theme/layout.html:15
+#: ../../themes/qgis-theme/page.html:22
 msgid "Home | About | Community"
 msgstr "Thuis | Over | Gemeenschap"
 
 # 782b5eedd0374063a946f1ac4380392a
-#: ../../themes/qgis-theme/layout.html:16
+#: ../../themes/qgis-theme/page.html:23
 msgid ""
-"All content is licensed under <a href=\"http://creativecommons.org/licenses"
-"/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-"
-"SA)</a>."
-msgstr "Alle website inhoud valt onder de <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a> licentie."
-
-# 087f3de10879498995b7775a38b8708c
-#: ../../themes/qgis-theme/layout.html:45
-msgid "About and Discover"
+"All content is licensed under <a "
+"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
+"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>."
 msgstr ""
+"Alle website inhoud valt onder de <a "
+"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
+"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a> licentie."
 
 # 19b5ad2d8dfc400cbdc38904c8a49659
-#: ../../themes/qgis-theme/layout.html:46
+#: ../../themes/qgis-theme/page.html:90
 msgid "For Users"
 msgstr "Voor Gebruikers"
 
 # fc679ff9564448809c0f0e601fabe714
-#: ../../themes/qgis-theme/layout.html:47
+#: ../../themes/qgis-theme/page.html:91 ../../themes/qgis-theme/index.html:54
 msgid "Get Involved"
 msgstr "Help Mee"
 
 # 2da939f7ac644dabb91e76136d5875d0
-#: ../../themes/qgis-theme/layout.html:48
+#: ../../themes/qgis-theme/page.html:92
 msgid "Download"
 msgstr "Downloaden"
 
 # b898e6bc15f04a12bb21a5d31997b658
 #: ../../themes/qgis-theme/myglobaltoc.html:10
 msgid "Table Of Contents"
+msgstr "Inhoud"
+
+#: ../../themes/qgis-theme/page.html:89
+msgid "Discover QGIS"
+msgstr "Ontdek QGIS"
+
+#: ../../themes/qgis-theme/index.html:30
+msgid "QGIS is a Free and Open Source Geographic Information System"
+msgstr "QGIS is een open source GIS systeem"
+
+#: ../../themes/qgis-theme/index.html:43
+msgid "Get Started"
+msgstr "Start"
+
+#: ../../themes/qgis-theme/index.html:46
+msgid "Download and Install QGIS then follow the Quickstart."
+msgstr "Download en Installeer QGIS, daarna naar de Quickstart."
+
+#: ../../themes/qgis-theme/index.html:57
+msgid "Shape the future of QGIS with your contributions."
+msgstr "Bepaal de toekomst van QGIS door zelf mee te doen."
+
+#: ../../themes/qgis-theme/index.html:65
+msgid "Learn More"
+msgstr "Leer Meer"
+
+#: ../../themes/qgis-theme/index.html:68
+msgid "Find training materials and reference documentation."
+msgstr "Ontdek traings-materiaal en de handleidingen."
+
+#: ../../themes/qgis-theme/index.html:80
+msgid "Latest News"
+msgstr "Laatste Nieuws"
+
+#: ../../themes/qgis-theme/index.html:82
+msgid ""
+"Find out what is going on with the QGIS project and its Community. Blog "
+"Posts, Case Studies, Tutorials, User Meetings and more"
 msgstr ""
+"Zie wat er op dit moment gebeurt binnen het QGIS-project. Blogs, "
+"Voorbeeldprojecten, Handleidingen, Gebruikersgroepen en meer"
+
+#: ../../themes/qgis-theme/index.html:88
+msgid "Gallery"
+msgstr "Gallerij"
+
+#: ../../themes/qgis-theme/index.html:89
+msgid ""
+"Check out images and videos of interesting maps and projects from the Global "
+"QGIS Community."
+msgstr ""
+"Bekijk afbeeldingen en video's van interessante kaarten en projecten van de "
+"QGIS community uit de hele wereld."
+
+#: ../../themes/qgis-theme/index.html:97
+msgid "Planet QGIS"
+msgstr "QGIS Planeet"
+
+#: ../../themes/qgis-theme/index.html:98
+msgid ""
+"Read the latest blog posts about QGIS and its users from around the web."
+msgstr "Lees the laatste blogs over QGIS en haar gebruikers van het web."
+
+#: ../../themes/qgis-theme/index.html:109
+msgid "Sponsors"
+msgstr "Sponsoren"
+
+#: ../../themes/qgis-theme/index.html:116
+msgid "Gold Sponsor"
+msgstr "Goud Sponsor"
+
+#: ../../themes/qgis-theme/index.html:122
+msgid "Silver Sponsors"
+msgstr "Zilver Sponsors"
+
+#: ../../themes/qgis-theme/forusers_download.html:16
+msgid "All Downloads"
+msgstr "Alle Downloads"
+
+#: ../../themes/qgis-theme/forusers_download.html:17
+msgid "Older Release"
+msgstr "Oudere Releases"
+
+#~ msgid "About and Discover"
+#~ msgstr ""
