@@ -33,6 +33,10 @@ To update or create strings:
 
     sphinx-intl update -p i18n/pot -c source/website/conf.py -l nl (es, zh_CN)
 
+To create .mo files from teh .po files then:
+
+    sphinx-intl build
+
 Then normal build
 
     make clean LANG=nl html
