@@ -25,6 +25,14 @@ Then build:
     make clean html (to build the english languag)
     make clean LANG=nl html (to build the dutch version. Currently available: nl, es, zh_CN)
 
+If you want add the QGIS-Documentation docs into the build, you need to manually copy the sources, resources and po files into the website project
+
+TODO: do this via scripting or Makefile
+
+    # from the QGIS-Documentation / source / docs directory, copy all subdirs into the QGIS-Website /source / docs directory
+    # from the QGIS-Documentation / resources / en directory, copy all in to the QGIS-Website / resources / en directory
+    # from the QGIS-Documentation / i18n / <your language> / LC_MESSAGES / docs directory, copy all subdirs in the  QGIS-Website / i18n / <your language> / LC_MESSAGES / docs
+
 To gather all strings in a pot (.po) file:
 
     make gettext
