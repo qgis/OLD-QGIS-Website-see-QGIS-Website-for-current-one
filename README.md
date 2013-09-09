@@ -49,7 +49,7 @@ Then normal build
 
     make clean LANG=nl html
     
-See it in action: http://new.qgis.org/html/en (to be moved)
+See it in action: http://new.qgis.org/html/en/site (to be moved)
 
 qgis-style.css is based on Less (see http://lesscss.org/ )
 
