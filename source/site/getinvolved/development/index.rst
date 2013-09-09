@@ -21,7 +21,7 @@ Test
 This is a test for localisation. In dutch the image below should be in dutch:
 
 
-.. figure:: /static/website/getinvolved/development/test.png
+.. figure:: /static/site/getinvolved/development/test.png
 
 
 Bugs, Features and Issues
