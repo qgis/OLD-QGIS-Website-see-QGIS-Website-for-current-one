@@ -31,11 +31,11 @@ To gather all strings in a pot (.po) file:
 
 To update or create strings:
 
-    sphinx-intl update -p i18n/pot -c source/website/conf.py -l nl (es, zh_CN)
+    sphinx-intl update -p i18n/pot -c source/conf.py -l nl (es, zh_CN)
 
 To create .mo files from the .po files then:
 
-    sphinx-intl build -c source/website/conf.py
+    sphinx-intl build -c source/conf.py
 
 Then normal build
 
