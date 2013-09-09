@@ -37,9 +37,9 @@
         static html pages #}
 {# this is actually a little 'hack', see: 
 http://stackoverflow.com/questions/13209597/override-html-page-template-for-a-specific-sphinx-document #}
-    {% if pagename == 'index' %}
+    {% if pagename == 'site/index' %}
         {% include 'index.html' %}
-    {% elif pagename == 'forusers/download' %}
+    {% elif pagename == 'site/forusers/download' %}
         {% include 'forusers_download.html' %}
     {% else %}
         <div class="container">
@@ -47,11 +47,11 @@ http://stackoverflow.com/questions/13209597/override-html-page-template-for-a-sp
                 {%- block sidebar1 %}{{ qgis_bsidebar() }}{% endblock %}
                 <div class="{{ qgis_bs_content_span }}">
                     {% block body %}
-                        {% if pagename == 'forusers/index' %}
+                        {% if pagename == 'site/forusers/index' %}
                             {% include 'forusers_index.html' %}
-                        {% elif pagename == 'getinvolved/index' %}
+                        {% elif pagename == 'site/getinvolved/index' %}
                             {% include 'getinvolved_index.html' %}
-                        {% elif pagename == 'about/index' %}
+                        {% elif pagename == 'site/about/index' %}
                             {% include 'about_index.html' %}
                         {% else %}
                             {{ body }}

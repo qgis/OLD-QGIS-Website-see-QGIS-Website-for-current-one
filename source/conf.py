@@ -29,7 +29,7 @@ import sphinx_bootstrap_theme
 extensions = []
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['../../themes/qgis-theme']
+templates_path = ['../themes/qgis-theme']
 
 # The suffix of source filenames.
 source_suffix = '.rst'
@@ -38,7 +38,7 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'site/index'
 
 # General information about the project.
 project = u'QGIS'
@@ -65,7 +65,7 @@ release = '2.0'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['../../output']
+exclude_patterns = ['../output']
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None
@@ -129,7 +129,7 @@ html_title = ""
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = '../../resources/en/website/about/images/logo.png' 
+html_logo = '../resources/en/site/about/images/logo.png' 
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -139,7 +139,7 @@ html_logo = '../../resources/en/website/about/images/logo.png'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['../../themes/qgis-theme/static']
+html_static_path = ['../themes/qgis-theme/static']
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
@@ -151,14 +151,14 @@ html_static_path = ['../../themes/qgis-theme/static']
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-    'index': [],
-    'about/**': ['myglobaltoc.html'],
-    'about/index': [],
-    'forusers/**': ['myglobaltoc.html'],
-    'forusers/index': [],
-    'forusers/download': [],
-    'getinvolved/**': ['myglobaltoc.html'],
-    'getinvolved/index': [],
+    'site/index': [],
+    'site/about/**': ['myglobaltoc.html'],
+    'site/about/index': [],
+    'site/forusers/**': ['myglobaltoc.html'],
+    'site/forusers/index': [],
+    'site/forusers/download': [],
+    'site/getinvolved/**': ['myglobaltoc.html'],
+    'site/getinvolved/index': [],
     # for bootstrap theme: custom sidebar templates possible:
     'sidebars': []
 }
@@ -274,5 +274,5 @@ texinfo_documents = [
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
 
-locale_dirs = ['../../i18n/']
+locale_dirs = ['../i18n/']
 gettext_compact = False
