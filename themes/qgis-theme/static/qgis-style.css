@@ -32,7 +32,7 @@ a lot of people, please comment liberally/extensively.
   box-sizing: border-box;
 }
 body {
-  padding-top: 70px !important;
+  padding-top: 60px !important;
 }
 h4 {
   font-size: 20px;
@@ -76,9 +76,6 @@ h4 {
 }
 .main-menu > li a:hover {
   text-decoration: none;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
   background: #3c4455;
 }
 .navbar-search {
@@ -109,7 +106,7 @@ h4 {
   margin: 0px -20px -10px;
 }
 .nav-collapse .nav {
-  margin-top: 6px !important;
+  margin-top: 12px !important;
 }
 .nav-collapse .nav > li {
   float: left !important;
@@ -121,7 +118,8 @@ h4 {
   font-weight: 400 !important;
 }
 .nav-collapse .nav > li a:hover {
-  background: #1c2028 !important;
+  text-decoration: none;
+  background: #3c4455;
 }
 select#languages {
   float: right;
@@ -148,6 +146,7 @@ select#languages {
   color: white;
   padding: 50px 0 !important;
   text-align: center;
+  border: 0 !important;
 }
 .footer .credit {
   font-size: 12px;
@@ -165,9 +164,15 @@ section {
   margin: 0;
 }
 /*** LANDING ***/
+#carouselBox {
+  width: 100%;
+}
+.carousel-inner > .item > img {
+  width: 100%;
+}
 section.slideshow {
   background: white;
-  padding: 30px 0;
+  padding: 0 0 30px 0;
 }
 .info {
   text-align: center;
@@ -181,8 +186,7 @@ section.slideshow {
 .info span {
   display: block;
   margin: 20px 0;
-  font-weight: bold;
-  text-transform: uppercase;
+  font-weight: normal;
   font-size: 18px;
   color: #465064;
   line-height: 20px;
@@ -208,6 +212,9 @@ section.highlights {
   border-top: 1px solid #e7e8ea;
   border-bottom: 1px solid #e7e8ea;
 }
+section.highlights a {
+  text-decoration: none;
+}
 section.highlights .info-box {
   margin: 0 10px 30px;
   text-align: center;
@@ -227,9 +234,51 @@ section.highlights .info-box .box-content p {
   font-size: 15px;
   color: white;
 }
+section.highlights .info-box .highlights-icon {
+  height: 200px;
+}
+section.highlights .info-box #get-started {
+  background: url('images/get-started.png') no-repeat center center;
+}
+section.highlights .info-box #get-involved {
+  background: url('images/get-involved.png') no-repeat center center;
+}
+section.highlights .info-box #learn-more {
+  background: url('images/learn-more.png') no-repeat center center;
+}
+section.highlights .info-box:hover h4,
+section.highlights .info-box:active h4,
+section.highlights .info-box:hover p,
+section.highlights .info-box:active p {
+  color: white;
+}
+section.highlights .info-box:hover h4,
+section.highlights .info-box:active h4 {
+  font-weight: 600;
+}
+section.highlights .info-box:hover #get-started,
+section.highlights .info-box:active #get-started {
+  background: url('images/get-started-active.png') no-repeat center center;
+}
+section.highlights .info-box:hover #get-involved,
+section.highlights .info-box:active #get-involved {
+  background: url('images/get-involved-active.png') no-repeat center center;
+}
+section.highlights .info-box:hover #learn-more,
+section.highlights .info-box:active #learn-more {
+  background: url('images/learn-more-active.png') no-repeat center center;
+}
 section.latest-news {
   text-align: center;
   padding: 30px 0;
+}
+section.latest-news a:hover,
+section.latest-news a:active {
+  text-decoration: none !important;
+}
+section.latest-news a:hover .info-box,
+section.latest-news a:active .info-box {
+  background: #FFF;
 }
 section.latest-news header {
   height: 30px;
@@ -245,23 +294,21 @@ section.latest-news h3 {
   padding: 0 40px;
 }
 section.latest-news .info-box {
-  margin: 0 10px 30px;
-  background: white;
-  border: 1px solid #ccc;
-  border-bottom: 6px solid #ccc;
+  margin: 0 10px 40px;
+  background: #ccc;
+  -webkit-box-shadow: 1px 1px 1px 1px #999999;
+  box-shadow: 1px 1px 1px 1px #999999;
   text-align: left;
 }
 section.latest-news .info-box h4 {
   color: #1c2028;
   padding: 0 10px;
-  margin-bottom: 5px;
-}
-section.latest-news .info-box img {
   margin-bottom: 10px;
 }
 section.latest-news .info-box p {
-  padding: 0 10px;
+  padding: 0 10px 10px 10px;
   font-size: 15px;
+  color: #333;
 }
 section.latest-news p.intro {
   font-size: 16px;
