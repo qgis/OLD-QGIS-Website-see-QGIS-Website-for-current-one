@@ -11,8 +11,7 @@ Documentation
 QGIS has a lot of documentation, partly translated. Please have a look into one 
 of the documents below.
 
-Or do a text search.
-
+.. not
 
 
 .. 
@@ -67,4 +66,8 @@ Or do a text search.
    gentle_gis_introduction/index
    pyqgis_developer_cookbook/index
    qgis_governance/index
+
+.. note::
+    If you do not see links to documentation here, it means that before the build the documentation sources were not copied into the website sources. See ...
+
 
