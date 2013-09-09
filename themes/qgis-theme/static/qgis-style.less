@@ -11,9 +11,11 @@ a lot of people, please comment liberally/extensively.
 @green: #129700;
 @blueDark: #1c2028;
 @grayDark: #404040;
+@greenLight: #eff391;
+@blueLight: #91bef3;
 
 body {
-  padding-top: 70px !important;
+  padding-top: 60px !important;
 }
 
 h4 {
@@ -61,7 +63,6 @@ h4 {
 
       &:hover {
         text-decoration: none;
-        .border-radius(4px);
         background: lighten(@blueDark, 15%);
       }
     }
@@ -98,7 +99,7 @@ h4 {
   margin: 0px -20px -10px;
 
   .nav {
-    margin-top: 6px !important;
+    margin-top: 12px !important;
 
     > li {
       float: left !important;
@@ -108,10 +109,10 @@ h4 {
         text-transform: uppercase;
         color: white !important;
         font-weight: 400 !important;
-
         &:hover {
-          background: @blueDark !important;
-        }
+        text-decoration: none;
+        background: lighten(@blueDark, 15%);
+      }
       }
     }
   }
@@ -144,6 +145,7 @@ select#languages {
   color: white;
   padding: 50px 0 !important;
   text-align: center;
+  border: 0 !important;
 
   .credit {
     font-size: 12px;
@@ -165,9 +167,17 @@ section {
 }
 
 /*** LANDING ***/
+#carouselBox {
+  width: 100%;
+}
+
+.carousel-inner>.item>img {
+  width: 100%;
+}
+
 section.slideshow {
   background: white;
-  padding: 30px 0;
+  padding: 0 0 30px 0;
 }
 
 .info {
@@ -183,8 +193,7 @@ section.slideshow {
   span {
     display: block;
     margin: 20px 0;
-    font-weight: bold;
-    text-transform: uppercase;
+    font-weight: normal;
     font-size: 18px;
     color: lighten(@blueDark, 20%);
     line-height: 20px;
@@ -212,6 +221,10 @@ section.highlights {
   border-top: 1px solid lighten(#63676f, 50%);
   border-bottom: 1px solid lighten(#63676f, 50%);
 
+  a {
+    text-decoration: none;
+  }
+
   .info-box {
     margin: 0 10px 30px;
     text-align: center;
@@ -220,7 +233,6 @@ section.highlights {
       color: white;
       font-weight: 400;
     }
-
     .box-content {
       background-color: transparent;
 
@@ -234,12 +246,51 @@ section.highlights {
         color: white;
       }
     }
+    .highlights-icon {
+      height: 200px;  //TODO add media queries for responsive sizing
+    }
+    #get-started {
+      background: url('images/get-started.png') no-repeat center center;
+    }
+    #get-involved {
+      background: url('images/get-involved.png') no-repeat center center;
+    }
+    #learn-more {
+      background: url('images/learn-more.png') no-repeat center center;
+    }
+
+    &:hover, &:active {
+      h4, p {
+        color: white;
+      }
+      h4 {
+        font-weight: 600;
+      }
+      #get-started {
+        background: url('images/get-started-active.png') no-repeat center center;
+      }
+      #get-involved {
+        background: url('images/get-involved-active.png') no-repeat center center;
+      }
+      #learn-more {
+        background: url('images/learn-more-active.png') no-repeat center center; 
+      }
+    }
   }
 }
 
 section.latest-news {
   text-align: center;
   padding: 30px 0;
+
+  a {
+    &:hover, &:active {
+      text-decoration: none !important;
+      .info-box {
+        background: #FFF;
+      }
+    }
+  }
 
   header {
     height: 30px;
@@ -257,25 +308,22 @@ section.latest-news {
   }
 
   .info-box {
-    margin: 0 10px 30px;
-    background: white;
-    border: 1px solid #ccc;
-    border-bottom: 6px solid #ccc;
+    margin: 0 10px 40px;
+    background: #ccc;
+    -webkit-box-shadow: 1px 1px 1px 1px #999999;
+    box-shadow: 1px 1px 1px 1px #999999;
     text-align: left;
 
     h4 {
       color: @blueDark;
       padding: 0 10px;
-      margin-bottom: 5px;
-    }
-
-    img {
       margin-bottom: 10px;
     }
 
     p {
-      padding: 0 10px;
+      padding: 0 10px 10px 10px;
       font-size: 15px;
+      color: #333;
     }
   }
 

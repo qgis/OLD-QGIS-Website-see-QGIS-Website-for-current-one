@@ -1,5 +1,5 @@
 <section class="slideshow">
-    <div class="container">
+    <div class="container" id="carouselBox">
         
         <div id="myCarousel" class="carousel slide">
             <ol class="carousel-indicators">
@@ -28,7 +28,7 @@
 
         <div class="info">
             <p>{{ _('QGIS is a Free and Open Source Geographic Information System') }}</p>
-            <span>{{ _('A Geographic Information System allows you to create, edit, visualise, analyse and report on geospatial information.') }}</span>
+            <span class="lead muted">{{ _('Create, edit, visualise, analyse geospatial information.') }}</span>
             <span>{{ _('For Windows, Mac, Linux, BSD and Android') }}</span>
             <a href="{{ pathto('site/forusers/download') }}" class="btn btn-large">{{ _('Download Now') }}</a>
         </div>
@@ -43,7 +43,7 @@
                     <div class="info-box">
                         <h4>{{ _('Get Started') }}</h4>
                         <div class="box-content">
-                            <img src="../_static/images/get-started.png" alt="get started icon play">
+                            <div class="highlights-icon" id="get-started"></div>
                             <p>{{ _('Download and Install QGIS then follow the Quickstart.') }}</p>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
                     <div class="info-box">
                         <h4>{{ _('Get Involved') }}</h4>
                         <div class="box-content">
-                            <img src="../_static/images/get-involved.png" alt="get involved icon community">
+                            <div class="highlights-icon" id="get-involved"></div>
                             <p>{{ _('Shape the future of QGIS with your contributions.') }}</p>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                     <div class="info-box">
                         <h4>{{ _('Learn More') }}</h4>
                         <div class="box-content">
-                            <img src="../_static/images/learn-more.png" alt="learn more icon compass">
+                            <div class="highlights-icon" id="learn-more"></div>
                             <p>{{ _('Find training materials and reference documentation.') }}</p>
                         </div>
                     </div>
