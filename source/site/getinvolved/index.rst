@@ -13,8 +13,6 @@ Get Involved / Development
     Mailinglist <mailinglists>
     QGIS Infrastructure <infrastructure>
     faq/index
-    Development <development/index>
-..    Pyqgis cookbook <pyqgis_developer_cookbook/index>
 
 .. note::
 
