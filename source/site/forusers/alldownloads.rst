@@ -1,4 +1,3 @@
-
 .. _QGIS-download:
 
 All Downloads
@@ -114,9 +113,9 @@ Try the ELGIS repository: http://elgis.argeo.org/
 openSUSE
 ++++++++
 
-openSUSE packages for 11.2, 11.3, 11.4, 12.1, Factory Tumbleweed and SLE11 (32
-and 64bit). Add the following repository to your installation manager. All packages
-include GRASS and Python support.
+Latest openSUSE package called qgis2 is available for 12.1, 12.2, 12.3, Factory and 
+Tumbleweed (32 and 64bit). Add the following repository to your installation manager. 
+All packages include GRASS and Python support.
 
 http://download.opensuse.org/repositories/Application:/Geo/<version>/
 
@@ -260,6 +259,15 @@ distributions using the various (older) versions of libraries found there.
 Therefore it is not intended to build versions that depend on more current
 libraries. That means if you need current qgis version with more uptodate
 libraries you will have to build them yourself.
+
+openSUSE
+++++++++
+
+A regularly updated development package from qgis master called qgis-master is available 
+for 12.1, 12.2, 12.3, Factory and Tumbleweed (32 and 64bit). Add the following repository 
+to your installation manager. All packages include GRASS and Python support.
+
+http://download.opensuse.org/repositories/Application:/Geo/<version>/
 
 Fedora
 ++++++
