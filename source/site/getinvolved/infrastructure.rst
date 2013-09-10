@@ -44,8 +44,8 @@ Github management
 
 - https://github.com/qgis
 - owners: https://github.com/organizations/qgis/teams/24203
-- admin: Otto D, Gary S, Marco H, Paolo C, Pirmin K, Tim L
-- Quantum-GIS push rights depending on sub project plz contact admins
+- admin: Otto D, Gary S, Marco H, Paolo C, Pirmin K, Tim L, Richard D
+- QGIS push rights depending on sub project plz contact admins
 
 
 Flickr Groups
