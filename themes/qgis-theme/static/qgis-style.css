@@ -237,6 +237,7 @@ section.highlights a {
 section.highlights .info-box {
   margin: 0 10px 30px;
   text-align: center;
+  background-color: #404040;
 }
 section.highlights .info-box h4 {
   color: white;
@@ -254,16 +255,20 @@ section.highlights .info-box .box-content p {
   color: white;
 }
 section.highlights .info-box .highlights-icon {
+  width: 218px;
   height: 200px;
+  margin: 0 auto;
 }
 section.highlights .info-box #get-started {
-  background: url('images/get-started.png') no-repeat center center;
+  background: #cccccc url('images/get-started.png') no-repeat center center;
 }
 section.highlights .info-box #get-involved {
-  background: url('images/get-involved.png') no-repeat center center;
+  width: 218px;
+  background: #cccccc url('images/get-involved.png') no-repeat center center;
 }
 section.highlights .info-box #learn-more {
-  background: url('images/learn-more.png') no-repeat center center;
+  width: 218px;
+  background: #cccccc url('images/learn-more.png') no-repeat center center;
 }
 section.highlights .info-box:hover h4,
 section.highlights .info-box:active h4,
@@ -276,16 +281,12 @@ section.highlights .info-box:active h4 {
   font-weight: 600;
 }
 section.highlights .info-box:hover #get-started,
-section.highlights .info-box:active #get-started {
-  background: url('images/get-started-active.png') no-repeat center center;
-}
+section.highlights .info-box:active #get-started,
 section.highlights .info-box:hover #get-involved,
-section.highlights .info-box:active #get-involved {
-  background: url('images/get-involved-active.png') no-repeat center center;
-}
+section.highlights .info-box:active #get-involved,
 section.highlights .info-box:hover #learn-more,
 section.highlights .info-box:active #learn-more {
-  background: url('images/learn-more-active.png') no-repeat center center;
+  background-color: #fff;
 }
 section.latest-news {
   text-align: center;
@@ -318,6 +319,7 @@ section.latest-news .info-box {
   -webkit-box-shadow: 1px 1px 1px 1px #999999;
   box-shadow: 1px 1px 1px 1px #999999;
   text-align: left;
+  width: 100%;
 }
 section.latest-news .info-box h4 {
   color: #1c2028;
