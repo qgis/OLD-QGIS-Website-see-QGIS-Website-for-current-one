@@ -2,35 +2,122 @@
     <div class="container">
         <h2>Download QGIS for your Platform</h2>
 
-        <p class="main">QGIS is available on Windows, MacOS X, Linux and Android. Binary packages are provided for the current version. The current version is QGIS 1.8.0 and was released in June 2012.</p>
-
-        <p>Quantum GIS is open source software available under the terms of the GNU General Public License meaning that its source code can be downloaded through tarballs or the git repository.</p>
-
-        <p>For testing and learning purposes, a sample dataset is available, which contains collections of data from different sources and in different formats</p>
+        <p class="main">QGIS is available on Windows, MacOS X, Linux and Android. Binary packages are provided for the current version. The current version is QGIS 2.0.0 and was released in Septeber 2013.</p>
+        <p class="main">Plugins for QGIS are also available <a href="{{ pathto('site/forusers/plugins') }}">here</a>.</p>
     </div>
 </section>
-
 <section class="content">
     <div class="container">
         <ul class="nav nav-tabs" id="tabs">
           <li class="active"><a href="#tab1">{{ _('All Downloads') }}</a></li>
-          <li><a href="#tab2">{{ _('Older Release') }}</a></li>
+          <li><a href="#tab2">{{ _('Older Releases') }}</a></li>
+          <li><a href="#tab3">{{ _('Development Versions') }}</a></li>
         </ul>
         <div class="tab-content">
           <div class="tab-pane active" id="tab1">
-              <h4><a href=''>Download For Windows</a></h4>
-              <h4><a href=''>Download For Linux</a></h4>
-              <h4><a href=''>Download For Mac OSX</a></h4>
-              <h4><a href=''>Download For Other UNIX</a></h4>
-              <h4><a href=''>Download For Android</a></h4>
+            <!-- Downloads Accordion -->
+              <div class="accordion" id="downloads">
+                <div class="accordion-group">
+                  <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#collapseWindows">
+                      <h4>Download for Windows</h4>
+                    </a>
+                  </div>
+                  <div id="collapseWindows" class="accordion-body collapse in">
+                    <div class="accordion-inner">
+                      <div>
+                        <h5>For New Users:</h5> 
+                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-2.0.0-Setup.exe" class="external">
+                          <ul class="inline download-row">
+                              <li class="qgis-download"></li>
+                              <li class="download-text">QGIS Standalone Installer Version 2.0.0</li>
+                              <li><i class="icon-download-alt icon-large"></i></li>
+                          </ul>
+                        </a>
+                        <ul class="inline download-row">
+                          <button type="button" class="btn btn-default btn-mini" href="http://qgis.org/downloads/QGIS-OSGeo4W-2.0.0-Setup.exe.md5" class="external">md5</button>
+                          <button type="button" class="btn btn-default btn-mini" href="http://www.garyshood.com/virus/results.php?r=737a37f767c0b8d19a19e5360b467d62" class="external">Virus check</button>
+                        </ul>
+                      </div>
+                      <div>
+                        <h5>For Advanced GIS:</h5> 
+                        <a href="http://download.osgeo.org/osgeo4w/osgeo4w-setup.exe" class="external">
+                        <ul class="inline download-row">
+                          <li class="osgeo-download"></li>
+                          <li class="download-text">OSGeo4W Advanced Installer</li>
+                          <li><i class="icon-large icon-download-alt"></i></li>
+                        </ul>
+                        </a>
+                        <p>In the installer choose <strong>Desktop Express Install</strong> and select <strong>QGIS</strong> to install.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-group">
+                  <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseLinux">
+                      <h4>Download for Mac OS X</h4>
+                    </a>
+                  </div>
+                  <div id="collapseLinux" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                      Options:
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-group">
+                  <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseMac">
+                      <h4>Download for Linux</h4>
+                    </a>
+                  </div>
+                  <div id="collapseMac" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                      Options:
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-group">
+                  <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseUnix">
+                      <h4>Download for Other UNIX (BSD)</h4>
+                    </a>
+                  </div>
+                  <div id="collapseUnix" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                      Options:
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-group">
+                  <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseAndroid">
+                      <h4>Download for Android</h4>
+                    </a>
+                  </div>
+                  <div id="collapseAndroid" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                      Options:
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- End Accordion -->
 
-              <p><a href="{{ pathto('site/forusers/alldownloads') }}">All downloads</a></p>
-              <p><a href="http://qgis.org/downloads/">Older releases</a></p>
+              <h4><a href="{{ pathto('site/forusers/alldownloads') }}">All downloads</a></h4>
+              <h4><a href="http://qgis.org/downloads/">Older releases</a></h4>
+
+              <p>Quantum GIS is open source software available under the terms of the <b>GNU General Public License</b> meaning that its source code can be downloaded through tarballs or the git repository.</p>
+
+              <p><b>Datasets:</b> For testing and learning purposes, a sample dataset is available, which contains collections of data from different sources and in different formats</p>
 
               <p><b>Warning:</b> Development versions from master are provided for some platforms in addition to the released version. 'Master' contains unreleased software that is currently being worked on. As such they are unsupported and only provided for testing purposes to early adopters to check if bugs have been resolved and that no new bugs have been introduced. At any given time it may not work, or may do bad things to your data. <b>Use at your own risk.</b></p>
           </div>
           <div class="tab-pane" id="tab2">
               list of older releases
+          </div>
+          <div class="tab-pane" id="tab3">
+              list of dev sources
           </div>
         </div>
         <script>

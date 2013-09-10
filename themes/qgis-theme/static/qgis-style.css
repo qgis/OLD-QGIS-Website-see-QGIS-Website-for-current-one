@@ -369,7 +369,7 @@ section.intro h2 {
   font-weight: 400;
 }
 section.intro p.main {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 20px;
 }
 section.content {
@@ -428,6 +428,68 @@ section.content h4 {
     width: 120px;
   }
 }
+/********* Downloads by OS *********/
+#downloads {
+  margin-top: 30px;
+}
+#downloads .accordion-group {
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border: 1px solid #bbb;
+  margin-bottom: 20px;
+  background-color: #efefef;
+}
+#downloads .accordion-heading:hover {
+  background-color: #333;
+  border: 1px solid #000;
+}
+#downloads .accordion-heading a {
+  font-weight: bold;
+  color: #1c2028;
+}
+#downloads .accordion-heading a:hover {
+  color: #91bef3;
+  text-decoration: none;
+}
+#downloads .accordion-heading h4 {
+  border: 0;
+  font-weight: bold;
+}
+#downloads .accordion-inner {
+  background-color: #eee;
+  line-height: 40px;
+  margin-left: 20px;
+}
+#downloads .accordion-inner a {
+  text-decoration: none;
+}
+#downloads .accordion-inner .icon-large {
+  font-size: 18px;
+}
+#downloads .accordion-inner .download-row {
+  margin-left: 30px;
+  display: inline-block;
+}
+#downloads .accordion-inner .qgis-download,
+#downloads .accordion-inner .osgeo-download {
+  width: 60px;
+  height: 60px;
+  margin-bottom: -20px;
+}
+#downloads .accordion-inner .qgis-download {
+  background: url('images/qgis-logo.png') no-repeat left;
+}
+#downloads .accordion-inner .osgeo-download {
+  background: url('images/osgeo-logo.png') no-repeat left;
+}
+#downloads .accordion-inner .download-text {
+  margin-left: 10px;
+  font-weight: bold;
+}
+#downloads .accordion-inner button {
+  margin-left: 5px;
+}
 /********* Secondary Landing Pages *********/
 #color-identifier {
   height: 10px;
@@ -441,7 +503,7 @@ section.content h4 {
   background-color: #eff391;
 }
 #color-identifier.forusers {
-  background-color: #91bef3;
+  background-color: #0088cc;
 }
 #color-identifier.getinvolved {
   background-color: #129700;
