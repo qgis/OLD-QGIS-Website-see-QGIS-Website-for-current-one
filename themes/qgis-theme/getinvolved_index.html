@@ -1,13 +1,142 @@
-<h2>Get Involved with the QGIS Community</h2>
 
-QGIS is developed by a team of dedicated organizations and volunteers. You can get involved!
+<div class="getinvolved" id="color-identifier"></div>
 
-<h3><a href="{{ pathto('site/forusers/support') }}">Participate in QGIS Support Channels</a></h3>
+<section class="sub-landing-page banner" id="top">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="offset1 span5">
+				<h2>{{ _('Get Involved with the QGIS Community') }}</h2>
+				<p>{{ _('QGIS is developed by a team of dedicated organizations and volunteers.') }} <strong>{{ _('You can get involved!') }}</strong></p>
+				
+			</div>
+			<div class="span1"></div>
+			<div class="span4">
+				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+		</div>
+	</div>
+</section>
+<section class="sub-landing-page menu">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="span12">
+				<nav class="subnav">
+					<header>
+			            <h3>{{ _('GET INVOLVED') }}</h3>
+			        </header>				
 
-<h3><a href="{{ pathto('site/getinvolved/translate') }}">Translate QGIS into your Language</a></h3>
-
-<h3><a href="{{ pathto('site/getinvolved/plugindev') }}">Develop your own QGIS Plugin</a></h3>
-
-<h3><a href="{{ pathto('site/getinvolved/devenviro') }}">Get setup for QGIS Core Development</a></h3>
-
-<h3><a href="{{ pathto('site/about/sponsorship') }}">Support the QGIS Project Financially</a></h3>
+					<ul id="subnav">
+						<li>
+							<a href="#participate">{{ _('Participate in Support') }}</a>
+						</li>
+						<li>
+							<a href="#translate">{{ _('Translate') }}</a>
+						</li>
+						<li>
+							<a href="#plugin">{{ _('Develop a Plugin') }}</a>
+						</li>
+						<li>
+							<a href="#core">{{ _('QGIS Core Development') }}</a>
+						</li>
+						<li>
+							<a href="#donate">{{ _('Donate to QGIS') }}</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="sub-landing-page main" id="participate">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="offset1 span5">
+				<h3>{{ _('Participate in Support Channels') }}</h3>
+				<p>{{ _('There are several QGIS mailing lists, IRC channels, forums and user groups you can use to get help from fellow users and developers, or to keep up with current project events. You are welcome to subscribe to any of the lists. Please remember to contribute to the list by answering questions and sharing your experiences. We also provide a website to search the mailing list archives.') }}</p>
+				<h4 class="subsection-link"><a href="{{ pathto('site/forusers/support') }}">List of QGIS Support Channels</a></h4>
+			</div>
+			<div class="span1"></div>
+			<div class="span4">
+				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+		</div>
+		<hr>
+		<div class="row-fluid" id="translate">
+			<div class="offset1 span4">
+				<img class="about discover_img img-polaroid" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+			<div class="span5">
+				<h3>{{ _('Translate QGIS') }}</h3>
+				<p>{{ _('The QGIS project provides a gentle GIS introduction, a User Guide, a Coding and Compilation Guide and a API Documentation in english and in some cases also translated into several foreign languages. If you are interested in getting involved with the documentation effort, e.g. translating the english manual into another language, learn how to get started here:') }}</p>
+				<h4 class="subsection-link">
+					<a href="{{ pathto('site/getinvolved/translate') }}">{{ _('Translate QGIS into your Language') }}</a>
+				</h4>
+			</div>
+			<div class="span1"></div>
+		</div>
+		<hr>
+		<div class="row-fluid" id="plugin">
+			<div class="offset1 span5">
+				<h3>{{ _('QGIS Plugins') }}</h3>
+				<p>{{ _('A wide range of great plugins exist for QGIS via the ') }} <a href="http://plugins.qgis.org" target="_blank">{{ _('QGIS Plugin web portal') }}</a>. {{ _('If you would like to develop your own, you can get started here:') }}</p>
+				<h4 class="subsection-link">
+					<a href="{{ pathto('site/getinvolved/plugindev') }}">{{ _('Develop your own QGIS Plugin') }}</a>
+				</h4>
+			</div>
+			<div class="span1"></div>
+			<div class="span4">
+				<img class="about discover_img img-polaroid" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+		</div>
+		<hr>
+		<div class="row-fluid" id="core">
+			<div class="offset1 span4">
+				<img class="about discover_img img-circle" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+			<div class="span5">
+				<h3>{{ _('QGIS Core') }}</h3>
+				<p>{{ _('Core Plugins are maintained by the QGIS Development Team and are automatically part of every QGIS distribution. They are written in one of two languages: C++ or Python.') }}</p>
+				<h4 class="subsection-link">
+					<a href="{{ pathto('site/getinvolved/devenviro') }}">{{ _('Get Set Up for QGIS Core Development') }}</a>
+				</h4>
+			</div>
+			<div class="span1"></div>
+		</div>
+		<hr>
+		<div class="row-fluid" id="donate">
+			<div class="offset1 span5">
+				<h3>{{ _('Donate to QGIS') }}</h3>
+				<p>{{ _('There are two kinds of financial contributions, we accept:') }}</p>
+				<p><strong>{{ _('sponsorships:') }}</strong> {{ _('a sponsorship is an annual commitment of funds to the project.') }}</p>
+				<p><strong>{{ _('donations:') }}</strong> {{ _('a donation is a one-time financial contribution to the QGIS project.') }}</p>
+				<h4 class="subsection-link">
+					<a href="{{ pathto('site/about/sponsorship') }}">{{ _('Help Support the Project Financially') }}</a>
+				</h4>
+			</div>
+			<div class="span1"></div>
+			<div class="span4">
+				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+		</div>
+	</div>
+</section>
+<section class="sub-landing-page banner">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="offset5 span2">
+				<h5>
+					<a href="#top"> <i class="icon-arrow-up"></i>
+						{{ _('Back to Top') }}
+					</a>
+				</h5>
+			</div>
+			<div class="span5"></div>
+		</div>
+	</div>
+</section>

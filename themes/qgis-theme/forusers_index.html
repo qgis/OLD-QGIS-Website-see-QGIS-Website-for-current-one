@@ -5,7 +5,7 @@
 	<div class="container">
 		<div class="row-fluid">
 			<div class="offset1 span5">
-				<h2>{{ _('Learn about the resources available to help you become a proficient QGIS User') }}</h2>
+				<h2>{{ _('Resources to help you become a skilled QGIS User') }}</h2>
 			</div>
 			<div class="span1"></div>
 			<div class="span4">
@@ -29,7 +29,7 @@
 							<a href="#download">{{ _('Download') }}</a>
 						</li>
 						<li>
-							<a href="#commercial">{{ _('QGIS Plugins') }}</a>
+							<a href="#plugins">{{ _('QGIS Plugins') }}</a>
 						</li>
 						<li>
 							<a href="#docs">{{ _('Documentation') }}</a>
@@ -52,13 +52,16 @@
 		</div>
 	</div>
 </section>
-<section class="sub-landing-page download">
+<section class="sub-landing-page" id="download">
 	<div class="container">
 		<div class="row-fluid">
 			<div class="offset1 span5">
 				<h3>{{ _('Download QGIS') }}</h3>
 				<p>{{ _('QGIS is a cross-platform (Linux, Windows, Mac) open source Geographic Information system.') }}</p>
-				<p><a href="{{ pathto('site/forusers/download') }}" class="btn btn-large btn-primary">{{ _('Download QGIS') }}</a></p>
+				<h4>
+					<a href="{{ pathto('site/forusers/download') }}" class="btn btn-large btn-primary">{{ _('Download QGIS') }}</a>
+				</h4>
+				<p class="mute">{{ _('For Linux, Windows, Mac, Android and BSD.') }}</p>
 			</div>
 			<div class="span1"></div>
 			<div class="span4">
@@ -69,11 +72,13 @@
 		<hr>
 		<div class="row-fluid" id="plugins">
 			<div class="offset1 span5">
-				<h3>{{ _('QGIS Plugins') }}</h3>
-				<p>{{ _('QGIS Plugins TEXT') }}
+				<h3>{{ _('Get Plugins') }}</h3>
+				<p>{{ _('QGIS has been designed with a plugin architecture. This allows many new features/functions to be easily added to the application.') }}
+				</p>
+				<p>{{ _('Plugins can be added to QGIS using the QGIS Plugin Installer in the Plugins Menu of the QGIS Desktop.') }}
 				</p>
 				<h4>
-					<a href="{{ pathto('site/forusers/plugins') }}">Explore the plugins that make QGIS more powerful</a>
+					<a href="{{ pathto('site/forusers/plugins') }}">Explore Plugins that make QGIS powerful</a>
 				</h4>
 			</div>
 			<div class="span1"></div>
@@ -90,11 +95,17 @@
 			<div class="span1"></div>
 			<div class="span5">
 				<h3>{{ _('QGIS Documentation') }}</h3>
-				<p>{{ _('QGIS DOCS TEXT.') }}
+				<p>{{ _('The User manual contains all documentation needed for an user to get started. It will be updated with every update of QGIS.') }}
 				</p>
 				<h4>
-					<a href="{{ pathto('site/about/features') }}">{{ _('Read QGIS Documentation') }}</a>
+					<a href="{{ pathto('site/docs') }}">{{ _('Read QGIS Documentation') }}</a>
 				</h4>
+				<p>{{ _('Another good guide to getting started is:') }}
+				</p>
+				<h4>
+					<a href="{{ pathto('site/docs/gentle_gis_introduction') }}">{{ _('A Gentle Introduction to GIS') }}</a>
+				</h4>
+
 			</div>
 			<div class="span1"></div>
 		</div>
@@ -109,7 +120,7 @@
 				<p>{{ _('QGIS provides a continously grow-fluiding number of capabilities provided by core functions and plugins. You can visualize, manage, edit, analyse data, and compose printable maps. Get a first impression with a more detailed feature list.') }}
 				</p>
 				<h4>
-					<a href="{{ pathto('site/about/features') }}">{{ _('Learn about the features of QGIS') }}</a>
+					<a href="{{ pathto('site/about/features') }}">{{ _('Learn about QGIS Features') }}</a>
 				</h4>
 			</div>
 			<div class="span1"></div>
@@ -121,10 +132,10 @@
 			</div>
 			<div class="span1"></div>
 			<div class="span5">
-				<h3>{{ _('Finding Help') }}</h3>
-				<p>{{ _('The QGIS community has a number of resources for help...') }}</p>
+				<h3>{{ _('Getting Help') }}</h3>
+				<p>{{ _('There are several QGIS mailing lists, IRC channels, forums and user groups you can use to get help from fellow users and developers. You are welcome to subscribe to any of the lists.') }}</p>
 				<h4>
-					<a href="{{ pathto('site/forusers/support') }}">{{ _('Find where to get Support for QGIS') }}</a>
+					<a href="{{ pathto('site/forusers/support') }}">{{ _('Where to get support for QGIS') }}</a>
 				</h4>
 			</div>
 			<div class="span1"></div>
@@ -133,10 +144,12 @@
 		<div class="row-fluid" id="press">
 			<div class="offset1 span5">
 				<h3>{{ _('QGIS Press') }}</h3>
-				<p>{{ _('QGIS Press TEXT.') }}
 				</p>
 				<h4>
-					<a href="{{ pathto('site/about/press') }}">{{ _('Read about QGIS in the news from around the web.') }}</a>
+					<a href="{{ pathto('site/about/press') }}">{{ _('QGIS in the News') }}</a>
+				</h4>
+				<h4>
+					<a href="{{ pathto('site/about/press') }}">{{ _('QGIS Press Releases') }}</a>
 				</h4>
 			</div>
 			<div class="span1"></div>
@@ -149,10 +162,10 @@
 		<div class="row-fluid" id="organization">
 			<div class="offset1 span5">
 				<h3>{{ _('Organizations that Support QGIS') }}</h3>
-				<p>{{ _('QGIS is a volunteer driven project. We welcome contributions in the form of code contributions, bug fixes, bug reports, contributed documentation, advocacy and supporting other users on our mailing lists and gis.stackexchange.com. If you are interested in actively supporting the project, you can find more information under the development menu and on the QGIS Wiki. We also welcome financial contributions in the form of sponsoring and funding.') }}
+				<p>{{ _('QGIS is an entirely Open Source project. QGIS development is carried out largely by a group of volunteers, that in time have built up a large, valuable and useful code base, free to use and improve for everybody.') }}
 				</p>
 				<h4>
-					<a href="{{ pathto('site/about/sponsorship') }}">{{ _('Find out more about the organizations that support QGIS') }}</a>
+					<a href="{{ pathto('site/about/sponsorship') }}">{{ _('Learn about the organizations that support QGIS') }}</a>
 				</h4>
 			</div>
 			<div class="span1"></div>
@@ -169,10 +182,10 @@
 			<div class="span1"></div>
 			<div class="span5">
 				<h3>{{ _('Commercial Support') }}</h3>
-				<p>{{ _('Do you plan to use QGIS in your company or organization, but worry about whether there is commercial support available? Here is an alphabetical list, divided in categories, of support contractors.') }}
+				<p>{{ _('Do you plan to use QGIS in your company or organization, but worry about whether there is commercial support available? Here is an alphabetical list of support contractors.') }}
 				</p>
 				<h4>
-					<a href="{{ pathto('site/forusers/commercial_support') }}">{{ _('Learn about Commercial Support for QGIS') }}</a>
+					<a href="{{ pathto('site/forusers/commercial_support') }}">{{ _('Learn about finding Commercial Support for QGIS') }}</a>
 				</h4>
 			</div>
 			<div class="span1"></div>
@@ -184,8 +197,8 @@
 		<div class="row-fluid">
 			<div class="offset5 span2">
 				<h5>
-					<a href="#top"> <i class="icon-arrow-up"></i>
-						{{ _('Back to Top') }}
+					<a href="#top"> 
+						<i class="icon-arrow-up"></i> {{ _('Back to Top') }}
 					</a>
 				</h5>
 			</div>
