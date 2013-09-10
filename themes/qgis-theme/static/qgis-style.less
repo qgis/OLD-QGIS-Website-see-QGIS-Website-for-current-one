@@ -70,7 +70,7 @@ h4 {
 }
 
 .navbar-search {
-  margin: 10px 0 0 20px !important;
+  margin: 16px 0 0 20px !important;
   padding: 0 !important;
   border: none !important;
   .box-shadow(none) !important;
@@ -107,10 +107,11 @@ h4 {
       a {
         text-shadow: none !important;
         text-transform: uppercase;
-        color: white !important;
+        color: #ccc !important;
         font-weight: 400 !important;
         &:hover {
         text-decoration: none;
+        color: white;
         background: lighten(@blueDark, 15%);
       }
       }
@@ -120,7 +121,7 @@ h4 {
 
 select#languages {
   float: right;
-  margin: 10px 15px 0 0;
+  margin: 16px 15px 0 0;
   width: 100px;
   font-size: 12px;
 }
@@ -171,23 +172,43 @@ section {
   width: 100%;
 }
 
-.carousel-inner>.item>img {
+.carousel-inner > .item > img {
   width: 100%;
+}
+
+.carousel-caption {
+  padding-top: 0;
+  padding-bottom: 10px;
+  text-align: center;
+
+  .caption-headline {
+    font-weight: bold;
+    line-height: 18px;
+    color: white;
+  }
+  .caption-text {
+    color: #ccc;
+  }
+  .caption-link {
+    margin-left: 10px;
+    &:hover {
+      text-decoration: none;
+      color: @greenLight;
+    }
+  }
 }
 
 section.slideshow {
   background: white;
-  padding: 0 0 30px 0;
+  padding: 0 0 20px 0;
 }
 
 .info {
   text-align: center;
-  margin: 15px auto 0;
+  margin: 60px auto 30px;
 
   p {
-    font-size: 26px;
-    margin-top: 30px;
-    font-weight: bold;
+    margin-bottom: 30px;
   }
 
   span {
@@ -336,7 +357,7 @@ section.latest-news {
 
 section.sponsors {
   padding: 30px 0;
-  background: lighten(@grayDark, 10%);
+  background: @grayDark;
   color: white;
   text-align: center;
 
@@ -351,7 +372,7 @@ section.sponsors {
     text-transform: uppercase;
     display: inline-block;
     font-weight: 400;
-    background: lighten(@grayDark, 10%);
+    background: @grayDark;
     padding: 0 40px;
   }
 
@@ -440,18 +461,46 @@ section.content {
 
 
 
-/********* ABOUT *********/
-section.about {
+/********* Secondary Landing Pages *********/
+
+#color-identifier {
+  height: 10px;
+  position: fixed;
+  z-index: 1030;
+  right: 0;
+  left: 0;
+  overflow: visible;
+
+  &.about {
+    background-color: @greenLight; 
+  }
+  &.forusers {
+    background-color: @blueLight; 
+  }
+  &.getinvolved {
+    background-color: @green; 
+  }
+}
+
+
+
+section.sub-landing-page {
   font-size: 14px;
   line-height: 20px;
   color: #4d4e50;
   margin-bottom: 60px;
 
+  #top.banner {
+    background-color: #ccc;
+    width: 100%;
+    overflow-x: visible;
+  }
+
   .container {
     margin-right: auto;
     margin-left: auto;
-    background-color: #fcfcfb;
-    padding-top: 30px;
+    background-color: white;
+    padding-top: 50px;
     width: 940px;
     position: relative;
   }
@@ -459,13 +508,47 @@ section.about {
     clear: both;
   }
 
-  features_img {
-    margin-left: 60px;
-    margin-right: 60px;
+  hr {
+    margin: 70px 0;
   }
 }
 
-section.menu nav.subnav ul li {
-  display: inline;
-  margin: 0 10px;
+section.menu nav.subnav {
+  padding: 30px 0;
+  background: white;
+  color: @blueDark;
+  text-align: center;
+
+  header {
+    height: 30px;
+    overflow: visible;
+    border-bottom: 1px solid #bbb;
+    margin-bottom: 40px;
+  }
+
+  h3 {
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: 400;
+    background: white;
+    padding: 0 40px;
+  }
+
+  ul {
+    margin-top: 40px;
+    li {
+      display: inline;
+      margin: 0 10px;
+      a {
+        font-size: 1.2em;
+        font-weight: bold;
+        color: @blueDark;
+        &:hover { 
+          text-decoration: none;
+          color: @blueLight;
+        }
+      }
+    }
+  }
 }
+

@@ -1,6 +1,6 @@
 <section class="slideshow">
     <div class="container" id="carouselBox">
-        
+
         <div id="myCarousel" class="carousel slide">
             <ol class="carousel-indicators">
                 <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -13,9 +13,10 @@
                     <img src="{{pathto('_static/images/qgis20_header1.png', 1)}}" alt="">
                     <div class="container">
                         <div class="carousel-caption">
-                        <h1>Example headline.</h1>
-                        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                        <a class="btn btn-large btn-primary" href="#">Sign up today</a>
+                            <h5 class="caption-headline">QGIS 2.0 {{ _('Released') }}</h5>
+                            <p class="caption-text">
+                                {{ _('Version 2.0 Dufour is named after...') }}  <a class="caption-link" href="forusers/download.html" target="_blank">{{ _('more') }}</a>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -23,9 +24,10 @@
                     <img src="{{pathto('_static/images/qgis20_header2.png', 1)}}" alt="">
                     <div class="container">
                         <div class="carousel-caption">
-                        <h1>Example headline.</h1>
-                        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                        <a class="btn btn-large btn-primary" href="#">Sign up today</a>
+                            <h5 class="caption-headline">{{ _('Map Design') }}</h5>
+                            <p class="caption-text">
+                                &quot;{{ _('3 simple steps necessary to create a vintage-looking map using the blending feature in QGIS 2.0 print composer...') }} &quot;  <a class="caption-link" href="http://anitagraser.com/2013/07/29/vintage-map-design-using-qgis/" target="_blank">{{ _('more') }}</a>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -33,9 +35,10 @@
                     <img src="{{pathto('_static/images/qgis20_header3.png', 1)}}" alt="">
                     <div class="container">
                         <div class="carousel-caption">
-                        <h1>Example headline.</h1>
-                        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                        <a class="btn btn-large btn-primary" href="#">Sign up today</a>
+                            <h5 class="caption-headline">{{ _('Global Flight Paths - Europe') }}</h5>
+                            <p class="caption-text">
+                                &quot;{{ _('Map created using QGIS 2.0 Print Composer and blending modes feature...') }} &quot;   <a class="caption-link" href="http://anitagraser.com/2011/08/20/visualizing-global-connections/" target="_blank">{{ _('more') }}</a>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -43,9 +46,10 @@
                     <img src="{{pathto('_static/images/qgis20_header4.png', 1)}}" alt="">
                     <div class="container">
                         <div class="carousel-caption">
-                        <h1>Example headline.</h1>
-                        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                        <a class="btn btn-large btn-primary" href="#">Sign up today</a>
+                            <h5 class="caption-headline">{{ _('Unemployment By County') }}</h5>
+                            <p class="caption-text">
+                                &quot;{{ _('One of the new great features in the upcoming QGIS 2.0 is the ability to use data defined symbology and labelling...') }} &quot;  <a class="caption-link" href="http://nathanw.net/2013/06/27/alpha-by-value-choropleth/" target="_blank">{{ _('more') }}</a>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -55,10 +59,15 @@
         </div>
 
         <div class="info">
-            <p>{{ _('QGIS is a Free and Open Source Geographic Information System') }}</p>
-            <span class="lead muted">{{ _('Create, edit, visualise, analyse geospatial information.') }}</span>
-            <span>{{ _('For Windows, Mac, Linux, BSD and Android') }}</span>
-            <a href="{{ pathto('site/forusers/download') }}" class="btn btn-large">{{ _('Download Now') }}</a>
+            <h2>{{ _('Quantum GIS') }}</h2>
+            <h4>
+                {{ _('A Free and Open Source Geographic Information System') }}
+            </h4>
+            <span>
+                {{ _('Create, edit, visualise, analyse and publish geospatial information.') }}
+            </span>
+            <p class="muted">{{ _('For Windows, Mac, Linux, BSD and Android') }}</p>
+            <p><a href="{{ pathto('site/forusers/download') }}" class="btn btn-large">{{ _('Download Now') }}</a></p>
         </div>
     </div>
 </section>
@@ -72,7 +81,9 @@
                         <h4>{{ _('Get Started') }}</h4>
                         <div class="box-content">
                             <div class="highlights-icon" id="get-started"></div>
-                            <p>{{ _('Download and Install QGIS then follow the Quickstart.') }}</p>
+                            <p>
+                                {{ _('Download and Install QGIS then follow the Quickstart.') }}
+                            </p>
                         </div>
                     </div>
                 </a>
@@ -94,7 +105,9 @@
                         <h4>{{ _('Learn More') }}</h4>
                         <div class="box-content">
                             <div class="highlights-icon" id="learn-more"></div>
-                            <p>{{ _('Find training materials and reference documentation.') }}</p>
+                            <p>
+                                {{ _('Find training materials and reference documentation.') }}
+                            </p>
                         </div>
                     </div>
                 </a>
@@ -108,14 +121,18 @@
         <header>
             <h3>{{ _('Latest News') }}</h3>
         </header>
-        <p class="intro">{{ _('Find out what is going on with the QGIS project and its Community. Blog Posts, Case Studies, Tutorials, User Meetings and more') }}</p>
+        <p class="intro">
+            {{ _('Find out what is going on with the QGIS project and its Community. Blog Posts, Case Studies, Tutorials, User Meetings and more') }}
+        </p>
         <div class="row">
             <div class="span6">
                 <a href="{{ pathto('site/about/screenshots') }}">
                     <div class="info-box">
                         <img src="../_static/images/qgis-gallery.png" alt="QGIS Gallery">
                         <h4>{{ _('Gallery') }}</h4>
-                        <p>{{ _('Check out images and videos of interesting maps and projects from the Global QGIS Community.') }}</p>
+                        <p>
+                            {{ _('Check out images and videos of interesting maps and projects from the Global QGIS Community.') }}
+                        </p>
                     </div>
                 </a>
             </div>
@@ -124,7 +141,9 @@
                     <div class="info-box">
                         <img src="../_static/images/planet-qgis.png" alt="Planet QGIS">
                         <h4>{{ _('Planet QGIS') }}</h4>
-                        <p>{{ _('Read the latest blog posts about QGIS and its users from around the web.') }}</p>
+                        <p>
+                            {{ _('Read the latest blog posts about QGIS and its users from around the web.') }}
+                        </p>
                     </div>
                 </a>
             </div>

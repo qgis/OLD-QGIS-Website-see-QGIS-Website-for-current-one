@@ -1,125 +1,156 @@
-<section class="about banner">
+<div class="about" id="color-identifier"></div>
+
+<section class="sub-landing-page banner" id="top">
 	<div class="container">
-		<div class="row">
-			<div class="span6">
-				<h2>Discover what makes QGIS the leading Open Source Desktop GIS</h2>
+		<div class="row-fluid">
+			<div class="offset1 span5">
+				<h2>{{ _('Discover what makes QGIS the leading Open Source Desktop GIS') }}</h2>
 			</div>
-			<div class="span6">
-				<img class="about features_img" src="http://placehold.it/250x250" alt="" />
+			<div class="span1"></div>
+			<div class="span4">
+				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
 			</div>
+			<div class="span1"></div>
 		</div>
 	</div>
 </section>
-<section class="about menu">
+<section class="sub-landing-page menu">
 	<div class="container">
-		<div class="row">
-			<div class="span10">
+		<div class="row-fluid">
+			<div class="span12">
 				<nav class="subnav">
-					<h5>DISCOVER:</h5>
-					<ul class="unstyled" id="subnav">
-						<li><a href="#tour">QGIS Features</a></li>
-						<li><a href="#screenshots">QGIS Screenshots</a></li>
-						<li><a href="#casestudies">QGIS Case Studies</a></li>
-						<li><a href="#organization">QGIS Organization</a></li>
-						<li><a href="#commercial">Commerical Support</a></li>
+					<header>
+			            <h3>{{ _('DISCOVER') }}</h3>
+			        </header>				
+
+					<ul id="subnav">
+						<li>
+							<a href="#tour">{{ _('QGIS Features') }}</a>
+						</li>
+						<li>
+							<a href="#screenshots">{{ _('QGIS Screenshots') }}</a>
+						</li>
+						<li>
+							<a href="#casestudies">{{ _('QGIS Case Studies') }}</a>
+						</li>
+						<li>
+							<a href="#organization">{{ _('QGIS Organization') }}</a>
+						</li>
+						<li>
+							<a href="#commercial">{{ _('Commerical Support') }}</a>
+						</li>
 					</ul>
 				</nav>
 			</div>
-			<div class="span2">
-				
-			</div>
 		</div>
 	</div>
 </section>
-<section class="about main">
+<section class="sub-landing-page main">
 	<div class="container">
-		<div class="row">
-			<div class="span6">
-				<h3>About QGIS</h3>
-				<p>
-					QGIS (QGIS) is a user friendly Open Source Geographic Information System (GIS) licensed under the GNU General Public License. QGIS is an official project of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, Mac OSX, Windows and Android and supports numerous vector, raster, and database formats and functionalities.
+		<div class="row-fluid">
+			<div class="offset1 span5">
+				<h3>{{ _('About QGIS') }}</h3>
+				<p>{{ _('QGIS (QGIS) is a user friendly Open Source Geographic Information System (GIS) licensed under the GNU General Public License. QGIS is an official project of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, Mac OSX, Windows and Android and supports numerous vector, raster, and database formats and functionalities.
 				Our latest release is QGIS 1.8.0 you can read the release annoucement here
-				Learn more about QGIS
-				</p>
+				Learn more about QGIS') }}</p>
 			</div>
-			<div class="span6">
-				<img class="about features_img" src="http://placehold.it/250x250" alt="" />
+			<div class="span1"></div>
+			<div class="span4">
+				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
 			</div>
+			<div class="span1"></div>
 		</div>
 		<hr>
-		<div class="row" id="tour">
-			<div class="span6">
-				<img class="about features_img" src="http://placehold.it/250x250" alt="" />
+		<div class="row-fluid" id="tour">
+			<div class="offset1 span4">
+				<img class="about discover_img img-polaroid" src="http://placehold.it/300x250" alt="" />
 			</div>
-			<div class="span6">
-				<h3>Features</h3>
-				<p>
-					QGIS provides a continously growing number of capabilities provided by core functions and plugins. You can visualize, manage, edit, analyse data, and compose printable maps. Get a first impression with a more detailed feature list.
+			<div class="span1"></div>
+			<div class="span5">
+				<h3>{{ _('Features') }}</h3>
+				<p>{{ _('QGIS provides a continously grow-fluiding number of capabilities provided by core functions and plugins. You can visualize, manage, edit, analyse data, and compose printable maps. Get a first impression with a more detailed feature list.') }}
 				</p>
 				<h4>
-					<a href="{{ pathto('site/about/features') }}">Take the QGIS Feature Tour</a>
+					<a href="{{ pathto('site/about/features') }}">{{ _('Take the QGIS Feature Tour') }}</a>
 				</h4>
 			</div>
+			<div class="span1"></div>
 		</div>
 		<hr>
-		<div class="row" id="screenshots">
-			<div class="span6">
-				<h3>Screenshots</h3>
-				<p>
-					Screenshots TEXT
-				</p>
+		<div class="row-fluid" id="screenshots">
+			<div class="offset1 span5">
+				<h3>{{ _('Screenshots') }}</h3>
+				<p>{{ _('Screenshots TEXT') }}</p>
 				<h4>
-					<a href="{{ pathto('site/about/screenshots') }}">Check out QGIS Screenshots</a>
+					<a href="{{ pathto('site/about/screenshots') }}">{{ _('Check out QGIS Screenshots') }}</a>
 				</h4>
 			</div>
-			<div class="span6">
-				<img class="about features_img" src="http://placehold.it/250x250" alt="" />
+			<div class="span1"></div>
+			<div class="span4">
+				<img class="about discover_img img-polaroid" src="http://placehold.it/300x250" alt="" />
 			</div>
+			<div class="span1"></div>
 		</div>
 		<hr>
-		<div class="row" id="casestudies">
-			<div class="span6">
-				<img class="about features_img" src="http://placehold.it/250x250" alt="" />
+		<div class="row-fluid" id="casestudies">
+			<div class="offset1 span4">
+				<img class="about discover_img img-circle" src="http://placehold.it/300x250" alt="" />
 			</div>
-			<div class="span6">
-				<h3>Case Studies</h3>
-				<p>
-					The QGIS community has collected a number of case studies...
-				</p>
+			<div class="span1"></div>
+			<div class="span5">
+				<h3>{{ _('Case Studies') }}</h3>
+				<p>{{ _('The QGIS community has collected a number of case studies...') }}</p>
 				<h4>
-					<a href="{{ pathto('site/about/case_studies/index') }}">Review QGIS Case studies</a>
+					<a href="{{ pathto('site/about/case_studies/index') }}">{{ _('Review QGIS Case studies') }}</a>
 				</h4>
 			</div>
+			<div class="span1"></div>
 		</div>
 		<hr>
-		<div class="row" id="organization">
-			<div class="span6">
-				<h3>Organizations that Support QGIS</h3>
-				<p>
-					QGIS is a volunteer driven project. We welcome contributions in the form of code contributions, bug fixes, bug reports, contributed documentation, advocacy and supporting other users on our mailing lists and gis.stackexchange.com. If you are interested in actively supporting the project, you can find more information under the development menu and on the QGIS Wiki. We also welcome financial contributions in the form of sponsoring and funding.
+		<div class="row-fluid" id="organization">
+			<div class="offset1 span5">
+				<h3>{{ _('Organizations that Support QGIS') }}</h3>
+				<p>{{ _('QGIS is a volunteer driven project. We welcome contributions in the form of code contributions, bug fixes, bug reports, contributed documentation, advocacy and supporting other users on our mailing lists and gis.stackexchange.com. If you are interested in actively supporting the project, you can find more information under the development menu and on the QGIS Wiki. We also welcome financial contributions in the form of sponsoring and funding.') }}
 				</p>
 				<h4>
-					<a href="{{ pathto('site/about/sponsorship') }}">Learn about the organizations that Support QGIS</a>
+					<a href="{{ pathto('site/about/sponsorship') }}">{{ _('Learn about the organizations that Support QGIS') }}</a>
 				</h4>
 			</div>
-			<div class="span6">
-				<img class="about features_img" src="http://placehold.it/250x250" alt="" />
+			<div class="span1"></div>
+			<div class="span4">
+				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
 			</div>
+			<div class="span1"></div>
 		</div>
 		<hr>
-		<div class="row" id="commercial">
-			<div class="span6">
-				<img class="about features_img" src="http://placehold.it/250x250" alt="" />
+		<div class="row-fluid" id="commercial">
+			<div class="offset1 span4">
+				<img class="about discover_img img-circle" src="http://placehold.it/300x250" alt="" />
 			</div>
-			<div class="span6">
-				<h3>Commercial Support</h3>
-				<p>
-					Do you plan to use QGIS in your company or organization, but worry about whether there is commercial support available? Here is an alphabetical list, divided in categories, of support contractors.
+			<div class="span1"></div>
+			<div class="span5">
+				<h3>{{ _('Commercial Support') }}</h3>
+				<p>{{ _('Do you plan to use QGIS in your company or organization, but worry about whether there is commercial support available? Here is an alphabetical list, divided in categories, of support contractors.') }}
 				</p>
 				<h4>
-				<a href="{{ pathto('site/forusers/commercial_support') }}">Find out about Commercial Support for QGIS</a>
+					<a href="{{ pathto('site/forusers/commercial_support') }}">{{ _('Find out about Commercial Support for QGIS') }}</a>
 				</h4>
 			</div>
+			<div class="span1"></div>
+		</div>
+	</div>
+</section>
+<section class="sub-landing-page banner">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="offset5 span2">
+				<h5>
+					<a href="#top"> <i class="icon-arrow-up"></i>
+						{{ _('Back to Top') }}
+					</a>
+				</h5>
+			</div>
+			<div class="span5"></div>
 		</div>
 	</div>
 </section>

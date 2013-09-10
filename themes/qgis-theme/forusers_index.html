@@ -1,19 +1,195 @@
-<h2>Learn about the resources available to help you become a proficient QGIS User</h2>
 
-<p>QGIS is a cross-platform (Linux, Windows, Mac) open source Geographic Information system.</p>
+<div class="forusers" id="color-identifier"></div>
 
-<h3><a href="{{ pathto('site/forusers/download') }}">Download QGIS</a></h3>
+<section class="sub-landing-page banner" id="top">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="offset1 span5">
+				<h2>{{ _('Learn about the resources available to help you become a proficient QGIS User') }}</h2>
+			</div>
+			<div class="span1"></div>
+			<div class="span4">
+				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+		</div>
+	</div>
+</section>
+<section class="sub-landing-page menu">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="span12">
+				<nav class="subnav">
+					<header>
+			            <h3>{{ _('For Users') }}</h3>
+			        </header>				
 
-<h3><a href="{{ pathto('site/about/features') }}">Learn about the features of QGIS</a></h3>
-
-<h3><a href="{{ pathto('docs/index') }}">Read QGIS Documentation</a></h3>
-
-<h3><a href="{{ pathto('site/forusers/support') }}">Find where to get Support for QGIS</a></h3>
-
-<h3><a href="{{ pathto('site/forusers/commercial_support') }}">Learn about Commercial Support for QGIS</a></h3>
-
-<h3><a href="{{ pathto('site/forusers/plugins') }}">Explore the plugins that make QGIS more powerful</a></h3>
-
-<h3><a href="{{ pathto('site/about/sponsorship') }}">Find out more about the organizations that support QGIS</a></h3>
-
-<h3><a href="{{ pathto('site/about/press') }}">Read about QGIS in the news from around the web.</a></h3>
+					<ul id="subnav">
+						<li>
+							<a href="#download">{{ _('Download') }}</a>
+						</li>
+						<li>
+							<a href="#commercial">{{ _('QGIS Plugins') }}</a>
+						</li>
+						<li>
+							<a href="#docs">{{ _('Documentation') }}</a>
+						</li>
+						<li>
+							<a href="#features">{{ _('Features') }}</a>
+						</li>
+						<li>
+							<a href="#help">{{ _('Getting Help') }}</a>
+						</li>
+						<li>
+							<a href="#press">{{ _('Press') }}</a>
+						</li>
+						<li>
+							<a href="#organization">{{ _('Commercial Support') }}</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="sub-landing-page download">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="offset1 span5">
+				<h3>{{ _('Download QGIS') }}</h3>
+				<p>{{ _('QGIS is a cross-platform (Linux, Windows, Mac) open source Geographic Information system.') }}</p>
+				<p><a href="{{ pathto('site/forusers/download') }}" class="btn btn-large btn-primary">{{ _('Download QGIS') }}</a></p>
+			</div>
+			<div class="span1"></div>
+			<div class="span4">
+				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+		</div>
+		<hr>
+		<div class="row-fluid" id="plugins">
+			<div class="offset1 span5">
+				<h3>{{ _('QGIS Plugins') }}</h3>
+				<p>{{ _('QGIS Plugins TEXT') }}
+				</p>
+				<h4>
+					<a href="{{ pathto('site/forusers/plugins') }}">Explore the plugins that make QGIS more powerful</a>
+				</h4>
+			</div>
+			<div class="span1"></div>
+			<div class="span4">
+				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+		</div>
+		<hr>
+		<div class="row-fluid" id="docs">
+			<div class="offset1 span4">
+				<img class="about discover_img img-polaroid" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+			<div class="span5">
+				<h3>{{ _('QGIS Documentation') }}</h3>
+				<p>{{ _('QGIS DOCS TEXT.') }}
+				</p>
+				<h4>
+					<a href="{{ pathto('site/about/features') }}">{{ _('Read QGIS Documentation') }}</a>
+				</h4>
+			</div>
+			<div class="span1"></div>
+		</div>
+		<hr>
+		<div class="row-fluid" id="features">
+			<div class="offset1 span4">
+				<img class="about discover_img img-polaroid" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+			<div class="span5">
+				<h3>{{ _('Features') }}</h3>
+				<p>{{ _('QGIS provides a continously grow-fluiding number of capabilities provided by core functions and plugins. You can visualize, manage, edit, analyse data, and compose printable maps. Get a first impression with a more detailed feature list.') }}
+				</p>
+				<h4>
+					<a href="{{ pathto('site/about/features') }}">{{ _('Learn about the features of QGIS') }}</a>
+				</h4>
+			</div>
+			<div class="span1"></div>
+		</div>
+		<hr>
+		<div class="row-fluid" id="help">
+			<div class="offset1 span4">
+				<img class="about discover_img img-circle" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+			<div class="span5">
+				<h3>{{ _('Finding Help') }}</h3>
+				<p>{{ _('The QGIS community has a number of resources for help...') }}</p>
+				<h4>
+					<a href="{{ pathto('site/forusers/support') }}">{{ _('Find where to get Support for QGIS') }}</a>
+				</h4>
+			</div>
+			<div class="span1"></div>
+		</div>
+		<hr>
+		<div class="row-fluid" id="press">
+			<div class="offset1 span5">
+				<h3>{{ _('QGIS Press') }}</h3>
+				<p>{{ _('QGIS Press TEXT.') }}
+				</p>
+				<h4>
+					<a href="{{ pathto('site/about/press') }}">{{ _('Read about QGIS in the news from around the web.') }}</a>
+				</h4>
+			</div>
+			<div class="span1"></div>
+			<div class="span4">
+				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+		</div>
+		<hr>
+		<div class="row-fluid" id="organization">
+			<div class="offset1 span5">
+				<h3>{{ _('Organizations that Support QGIS') }}</h3>
+				<p>{{ _('QGIS is a volunteer driven project. We welcome contributions in the form of code contributions, bug fixes, bug reports, contributed documentation, advocacy and supporting other users on our mailing lists and gis.stackexchange.com. If you are interested in actively supporting the project, you can find more information under the development menu and on the QGIS Wiki. We also welcome financial contributions in the form of sponsoring and funding.') }}
+				</p>
+				<h4>
+					<a href="{{ pathto('site/about/sponsorship') }}">{{ _('Find out more about the organizations that support QGIS') }}</a>
+				</h4>
+			</div>
+			<div class="span1"></div>
+			<div class="span4">
+				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+		</div>
+		<hr>
+		<div class="row-fluid" id="commercial">
+			<div class="offset1 span4">
+				<img class="about discover_img img-circle" src="http://placehold.it/300x250" alt="" />
+			</div>
+			<div class="span1"></div>
+			<div class="span5">
+				<h3>{{ _('Commercial Support') }}</h3>
+				<p>{{ _('Do you plan to use QGIS in your company or organization, but worry about whether there is commercial support available? Here is an alphabetical list, divided in categories, of support contractors.') }}
+				</p>
+				<h4>
+					<a href="{{ pathto('site/forusers/commercial_support') }}">{{ _('Learn about Commercial Support for QGIS') }}</a>
+				</h4>
+			</div>
+			<div class="span1"></div>
+		</div>
+	</div>
+</section>
+<section class="sub-landing-page banner">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="offset5 span2">
+				<h5>
+					<a href="#top"> <i class="icon-arrow-up"></i>
+						{{ _('Back to Top') }}
+					</a>
+				</h5>
+			</div>
+			<div class="span5"></div>
+		</div>
+	</div>
+</section>
