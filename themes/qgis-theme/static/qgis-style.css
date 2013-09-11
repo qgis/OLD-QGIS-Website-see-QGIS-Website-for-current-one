@@ -41,9 +41,9 @@ h4 {
   .navbar-fixed-top {
     margin-bottom: 0 !important;
   }
-  .non-mobile-image {
-    visibility: hidden;
-  }
+  /*.non-mobile-image {
+      visibility: hidden;
+    }*/
 }
 .navbar-inverse .navbar-inner {
   background: #1c2028;
