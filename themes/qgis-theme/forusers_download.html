@@ -62,7 +62,13 @@
                   </div>
                   <div id="mac" class="accordion-body collapse">
                     <div class="accordion-inner">
-                      {{ _('Options:') }}
+                      <p>{{ _('Mac Installer Package for both OS X Lion (10.7) and Snow Leopard (10.6).') }}</p>
+                      <p>{{ _('This version requires') }} <strong> {{ _('separate installation of dependency frameworks (GDAL Complete and GSL)') }} </strong>{{ _(', also found at the download link below.') }}</p>
+
+                      <p class="download-text">
+                        <i class="icon-download-alt icon-large"></i> &nbsp; &nbsp;
+                        <a href="http://www.kyngchaos.com/software/qgis" class="external">{{ _('KyngChaos QGIS download page') }}</a> 
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -74,31 +80,20 @@
                   </div>
                   <div id="linux" class="accordion-body collapse">
                     <div class="accordion-inner">
-                      {{ _('Options:') }}
+                      <p>{{ _('For many flavors of GNU/Linux binary packages (rpm and deb) or software repositories to add to your installation manager are provided below') }}</p>
+                      <p class="download-text"><a href="{{ pathto('site/forusers/alldownloads') }}#linux">{{ _('Linux Installation Instructions') }}</a> (in QGIS Documentation)</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-group">
                   <div class="accordion-heading">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#unix">
-                      <h4>{{ _('Download for Other UNIX (BSD)') }}</h4>
+                      <h4>{{ _('Download for BSD') }}</h4>
                     </a>
                   </div>
                   <div id="unix" class="accordion-body collapse">
                     <div class="accordion-inner">
-                      {{ _('Options:') }}
-                    </div>
-                  </div>
-                </div>
-                <div class="accordion-group">
-                  <div class="accordion-heading">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#bsd">
-                      <h4>{{ _('Download for BSD') }}</h4>
-                    </a>
-                  </div>
-                  <div id="bsd" class="accordion-body collapse">
-                    <div class="accordion-inner">
-                      {{ _('Options:') }}
+                      <p class="download-text"><a href="{{ pathto('site/forusers/alldownloads') }}#freebsd">{{ _('BSD Installation Instructions') }}</a> (in QGIS Documentation)</p>
                     </div>
                   </div>
                 </div>
@@ -110,19 +105,19 @@
                   </div>
                   <div id="android" class="accordion-body collapse">
                     <div class="accordion-inner">
-                      {{ _('Options:') }}
+                      <p>{{ _('Alpha and nightly builds for Android as well as further documentation can be obtained at ') }}<a href="http://android.qgis.org"><strong>android.qgis.org</strong></a></p>
                     </div>
                   </div>
                 </div>
               </div>
               <!-- End Accordion -->
 
-              <h4><a href="{{ pathto('site/forusers/alldownloads') }}">All downloads') }}</a></h4>
-              <h4><a href="http://qgis.org/downloads/">Older releases') }}</a></h4>
+              <h4><a href="{{ pathto('site/forusers/alldownloads') }}">{{ _('All downloads') }}</a></h4>
+              <h4><a href="http://qgis.org/downloads/">{{ _('Older releases') }}</a></h4>
 
               <p>{{ _('QGIS is open source software available under the terms of the') }} <b>{{ _('GNU General Public License') }}</b> {{ _('meaning that its source code can be downloaded through tarballs or the git repository.') }}</p>
 
-              <p><b>{{ _('Datasets:') }}</b> {{ _('For testing and learning purposes, a sample dataset is available, which contains collections of data from different sources and in different formats.') }}</p>
+              <p><b>{{ _('Datasets:') }}</b> {{ _('For testing and learning purposes, a ') }} <a href="{{ pathto('docs/user_manual/introduction/getting_started') }}#sample-data"><strong>{{ ('sample dataset is available') }}</strong></a>, which contains collections of data from different sources and in different formats.') }}</p>
 
               <p><b>{{ _('Warning:') }}</b> {{ _('Development versions from master are provided for some platforms in addition to the released version. Master contains unreleased software that is currently being worked on. As such they are unsupported and only provided for testing purposes to early adopters to check if bugs have been resolved and that no new bugs have been introduced. At any given time it may not work, or may do bad things to your data.') }} <b>{{ _('Use at your own risk.') }}</b></p>
           </div>
@@ -132,7 +127,8 @@
           </div>
           <div class="tab-pane" id="tab3">
           <!-- Tab 3 -->
-              <p>{{ _('QGIS Source Code is available on github ') }} <a href="http://github.com/qgis/Quantum-GIS" class="external">{{ _('here') }}</a>{{ _('. Refer to the INSTALL guide for setting up the latest QGIS from source.') }}</p>
+              <p>{{ _('QGIS Source Code is available on github ') }} <a href="http://github.com/qgis/Quantum-GIS" class="external">{{ _('here') }}</a></p>
+              <p>{{ _('. Refer to the INSTALL guide for setting up the latest QGIS from source.') }}</p>
           </div>
         </div>
         <script>

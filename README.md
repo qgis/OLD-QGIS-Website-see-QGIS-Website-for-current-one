@@ -13,8 +13,7 @@ So install sphinx 1.2b1:
     pip install sphinx
 
 Sphinx bootstrap theme (http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html).
-We use 0.2.8 currently, 0.3 uses bootstrap 3.0 for which we have to upgrade our layouts first.
-That's why we stick with 0.2.8 for now:
+We use 0.3.0 currently.
 
     pip install sphinx_bootstrap_theme==0.2.8
 

@@ -15,12 +15,51 @@ a lot of people, please comment liberally/extensively.
 @blueLight: #91bef3;
 @blueLink: #08c;
 
-body {
-  padding-top: 60px !important;
+.font-face (@family, @file-base, @weight: normal, @style: normal) {
+  @font-face {
+    font-family: @family;
+    src: url("@{file-base}.eot");
+    src: url("@{file-base}.eot?#iefix") format("embedded-opentype"),
+         url("@{file-base}.woff") format("woff"),
+         url("@{file-base}.ttf") format("truetype"),
+         url("@{file-base}.svg#@{family}") format("svg");
+    font-weight: @weight;
+    font-style: @style;
+  }
 }
 
-h4 {
-  font-size: 20px;
+/* Monotype font for code */
+.font-face("Inconsolata", "fonts/inconsolata-regular-webfont", normal);
+.font-face("Inconsolata", "fonts/inconsolata-bold-webfont", bold);
+
+/* Open Sans font for everything else */
+.font-face("OpenSans", "fonts/OpenSans-Regular-webfont", normal);
+.font-face("OpenSans", "fonts/OpenSans-Italic-webfont", normal, italic);
+.font-face("OpenSans", "fonts/OpenSans-Bold-webfont", bold);
+.font-face("OpenSans", "fonts/OpenSans-BoldItalic-webfont", bold, italic);
+
+.font-face("OpenSans Light", "fonts/OpenSans-Light-webfont", 300);
+.font-face("OpenSans Light", "fonts/OpenSans-LightItalic-webfont", 300, italic);
+.font-face("OpenSans Semibold", "fonts/OpenSans-Semibold-webfont", 600);
+.font-face("OpenSans Semibold", "fonts/OpenSans-SemiboldItalic-webfont", 600, italic);
+
+body {
+  padding-top: 60px !important;
+  font: 62.5%/1.5  "Open Sans", "Helvetica Neue", Ubuntu, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: bold;
+}
+
+p, li, .button {
+    font-size: .9rem;
+    line-height: 1.4rem;
+ }
+
+pre, code {
+  font-family: "Andale Mono", "Ubuntu Mono", "Courier New", Courier, monospace;
+  line-height: 1.2rem;
 }
 
 @media (max-width: 979px) {
@@ -103,6 +142,10 @@ h4 {
   color: #999 !important;
 }
 
+.navbar-inner > select {
+  body, html {background:#444; text-align:center; padding:50px 0;}
+}
+
 .nav-collapse {
   height: auto;
   background-color: #63676f;
@@ -118,7 +161,7 @@ h4 {
         text-shadow: none !important;
         text-transform: uppercase;
         color: #ccc !important;
-        font-weight: 400 !important;
+        font-weight: bold !important;
         &:hover {
         text-decoration: none;
         color: white;
@@ -131,9 +174,31 @@ h4 {
 
 select#languages {
   float: right;
-  margin: 16px 15px 0 0;
-  width: 100px;
-  font-size: 12px;
+  margin: 16px 1px 0 4px;
+  width: 120px;
+
+  background: @blueDark;
+  color: white;
+  outline:none;
+  display: inline-block;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  cursor: pointer;
+  padding: 3px;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+
+  a {
+   outline: 0;
+  }
+
+  option {
+    outline: 0;
+    padding: 4px;
+  }
 }
 
 .navbar .brand {
@@ -159,7 +224,7 @@ select#languages {
   border: 0 !important;
 
   .credit {
-    font-size: 12px;
+    font-size: 0.8rem;
   }
 }
 
@@ -179,7 +244,7 @@ section {
 
 /*** LANDING ***/
 #carouselBox {
-  width: 100%;
+  margin-top: 20px;
 }
 
 .carousel-caption {
@@ -192,9 +257,9 @@ section {
     line-height: 18px;
     color: white;
   }
-  .caption-text {
-    color: #ccc;
-  }
+    .caption-text {
+      color: #ccc;
+    }
   .caption-link {
     margin-left: 10px;
     &:hover {
@@ -212,39 +277,29 @@ section.info {
   text-align: center;
   padding: 50px auto 25px;
 
-  h2, h4 {
+  h1 {
     text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
   }
 
+  h5 {
+    margin-top: 20px;
+  }
+
   p {
-    margin-bottom: 30px;
+    margin: 25px 0;
   }
 
   span {
     display: block;
     margin: 20px 0;
-    font-weight: normal;
-    font-size: 18px;
     color: lighten(@blueDark, 20%);
-    line-height: 20px;
   }
 
   .btn {
-    background: @green;
-    color: white;
-    text-shadow: none;
-    border: 0;
-    .border-radius(4);
-    text-transform: uppercase;
-    font-weight: normal;
-    font-size: 16px;
-
-    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 5px rgba(0,0,0,.25);
-    -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 5px rgba(0,0,0,.25);
-    box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 5px rgba(0,0,0,.25);
+    font-size: 1.4em;
 
     &:hover {
-      background: darken(@green, 3%);
+      background: darken(@green, 4%);
     }
   }
 }
@@ -278,6 +333,7 @@ section.highlights {
 
       img {
         margin-bottom: 10px;
+        width: 100%
       }
 
       p {
@@ -369,6 +425,10 @@ section.latest-news {
       font-size: 15px;
       color: #333;
     }
+
+    img {
+      width: 100%;
+    }
   }
 
   p.intro {
@@ -380,22 +440,8 @@ section.latest-news {
 
 section.sponsors {
   padding: 30px 0;
-  //background: @grayDark;
-  color: white;
   text-align: center;
-
-  // pretty gradient background! (feel free to remove)
-  background: #433ded;
-  background: -moz-linear-gradient(45deg, #433ded 0%, #68ac59 100%);
-  background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, #433ded), color-stop(100%, #68ac59));
-  background: -webkit-linear-gradient(45deg, #433ded 0%, #68ac59 100%);
-  background: -o-linear-gradient(45deg, #433ded 0%, #68ac59 100%);
-  background: -ms-linear-gradient(45deg, #433ded 0%, #68ac59 100%);
-  background: linear-gradient(45deg, #433ded 0%, #68ac59 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#020031', endColorstr='#68ac59', GradientType=1);
-  -webkit-box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.2), inset 0 -3px 7px rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.2), inset 0 -3px 7px rgba(0, 0, 0, 0.2);
-  box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.2), inset 0 -3px 7px rgba(0, 0, 0, 0.2);
+  background: #333 url('images/paper-texture.png') repeat;
 
 
   header {
@@ -409,6 +455,8 @@ section.sponsors {
     display: inline-block;
     font-weight: 400;
     padding: 0 40px;
+    text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
+
   }
 
   .sponsor {
@@ -575,7 +623,7 @@ section.content {
   overflow: visible;
   
   @media (max-width: 979px) {
-	  position: static;
+	  position: absolute;
   }
 
   &.about {
@@ -647,7 +695,6 @@ section.menu nav.subnav {
       display: inline;
       margin: 0 10px;
       a {
-        font-size: 1.2em;
         font-weight: bold;
         color: @blueDark;
         &:hover { 

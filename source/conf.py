@@ -116,6 +116,12 @@ html_theme_options = {
     'navbar_sidebarrel': True,
     # Render the current pages TOC in the navbar. (Default: true)
     'navbar_pagenav': True,
+    
+    'bootswatch_theme': "",
+    
+    # Choose Bootstrap version.
+    # Values: "3" (default) or "2" (in quotes)
+    'bootstrap_version': "2",
 }
 
 # Add any paths that contain custom themes here, relative to this directory.

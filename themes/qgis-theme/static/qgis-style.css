@@ -31,11 +31,99 @@ a lot of people, please comment liberally/extensively.
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+/* Monotype font for code */
+@font-face {
+  font-family: "Inconsolata";
+  src: url("fonts/inconsolata-regular-webfont.eot");
+  src: url("fonts/inconsolata-regular-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/inconsolata-regular-webfont.woff") format("woff"), url("fonts/inconsolata-regular-webfont.ttf") format("truetype"), url("fonts/inconsolata-regular-webfont.svg#Inconsolata") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Inconsolata";
+  src: url("fonts/inconsolata-bold-webfont.eot");
+  src: url("fonts/inconsolata-bold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/inconsolata-bold-webfont.woff") format("woff"), url("fonts/inconsolata-bold-webfont.ttf") format("truetype"), url("fonts/inconsolata-bold-webfont.svg#Inconsolata") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+/* Open Sans font for everything else */
+@font-face {
+  font-family: "OpenSans";
+  src: url("fonts/OpenSans-Regular-webfont.eot");
+  src: url("fonts/OpenSans-Regular-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-Regular-webfont.woff") format("woff"), url("fonts/OpenSans-Regular-webfont.ttf") format("truetype"), url("fonts/OpenSans-Regular-webfont.svg#OpenSans") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "OpenSans";
+  src: url("fonts/OpenSans-Italic-webfont.eot");
+  src: url("fonts/OpenSans-Italic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-Italic-webfont.woff") format("woff"), url("fonts/OpenSans-Italic-webfont.ttf") format("truetype"), url("fonts/OpenSans-Italic-webfont.svg#OpenSans") format("svg");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "OpenSans";
+  src: url("fonts/OpenSans-Bold-webfont.eot");
+  src: url("fonts/OpenSans-Bold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-Bold-webfont.woff") format("woff"), url("fonts/OpenSans-Bold-webfont.ttf") format("truetype"), url("fonts/OpenSans-Bold-webfont.svg#OpenSans") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "OpenSans";
+  src: url("fonts/OpenSans-BoldItalic-webfont.eot");
+  src: url("fonts/OpenSans-BoldItalic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-BoldItalic-webfont.woff") format("woff"), url("fonts/OpenSans-BoldItalic-webfont.ttf") format("truetype"), url("fonts/OpenSans-BoldItalic-webfont.svg#OpenSans") format("svg");
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: "OpenSans Light";
+  src: url("fonts/OpenSans-Light-webfont.eot");
+  src: url("fonts/OpenSans-Light-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-Light-webfont.woff") format("woff"), url("fonts/OpenSans-Light-webfont.ttf") format("truetype"), url("fonts/OpenSans-Light-webfont.svg#OpenSans Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "OpenSans Light";
+  src: url("fonts/OpenSans-LightItalic-webfont.eot");
+  src: url("fonts/OpenSans-LightItalic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-LightItalic-webfont.woff") format("woff"), url("fonts/OpenSans-LightItalic-webfont.ttf") format("truetype"), url("fonts/OpenSans-LightItalic-webfont.svg#OpenSans Light") format("svg");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "OpenSans Semibold";
+  src: url("fonts/OpenSans-Semibold-webfont.eot");
+  src: url("fonts/OpenSans-Semibold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-Semibold-webfont.woff") format("woff"), url("fonts/OpenSans-Semibold-webfont.ttf") format("truetype"), url("fonts/OpenSans-Semibold-webfont.svg#OpenSans Semibold") format("svg");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "OpenSans Semibold";
+  src: url("fonts/OpenSans-SemiboldItalic-webfont.eot");
+  src: url("fonts/OpenSans-SemiboldItalic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-SemiboldItalic-webfont.woff") format("woff"), url("fonts/OpenSans-SemiboldItalic-webfont.ttf") format("truetype"), url("fonts/OpenSans-SemiboldItalic-webfont.svg#OpenSans Semibold") format("svg");
+  font-weight: 600;
+  font-style: italic;
+}
 body {
   padding-top: 60px !important;
+  font: 62.5%/1.5 "Open Sans", "Helvetica Neue", Ubuntu, Arial, sans-serif;
 }
-h4 {
-  font-size: 20px;
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: bold;
+}
+p,
+li,
+.button {
+  font-size: .9rem;
+  line-height: 1.4rem;
+}
+pre,
+code {
+  font-family: "Andale Mono", "Ubuntu Mono", "Courier New", Courier, monospace;
+  line-height: 1.2rem;
 }
 @media (max-width: 979px) {
   .navbar-fixed-top {
@@ -108,6 +196,12 @@ h4 {
 .navbar-inverse .navbar-search .search-query::-webkit-input-placeholder {
   color: #999 !important;
 }
+.navbar-inner > select body,
+.navbar-inner > select html {
+  background: #444;
+  text-align: center;
+  padding: 50px 0;
+}
 .nav-collapse {
   height: auto;
   background-color: #63676f;
@@ -123,7 +217,7 @@ h4 {
   text-shadow: none !important;
   text-transform: uppercase;
   color: #ccc !important;
-  font-weight: 400 !important;
+  font-weight: bold !important;
 }
 .nav-collapse .nav > li a:hover {
   text-decoration: none;
@@ -132,9 +226,28 @@ h4 {
 }
 select#languages {
   float: right;
-  margin: 16px 15px 0 0;
-  width: 100px;
-  font-size: 12px;
+  margin: 16px 1px 0 4px;
+  width: 120px;
+  background: #1c2028;
+  color: white;
+  outline: none;
+  display: inline-block;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  cursor: pointer;
+  padding: 3px;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+select#languages a {
+  outline: 0;
+}
+select#languages option {
+  outline: 0;
+  padding: 4px;
 }
 .navbar .brand {
   display: block;
@@ -158,7 +271,7 @@ select#languages {
   border: 0 !important;
 }
 .footer .credit {
-  font-size: 12px;
+  font-size: 0.8rem;
 }
 /* this is the item in the TOC in sidebar which is currently active */
 .current.reference.internal {
@@ -174,7 +287,7 @@ section {
 }
 /*** LANDING ***/
 #carouselBox {
-  width: 100%;
+  margin-top: 20px;
 }
 .carousel-caption {
   padding-top: 0;
@@ -203,38 +316,25 @@ section.info {
   text-align: center;
   padding: 50px auto 25px;
 }
-section.info h2,
-section.info h4 {
+section.info h1 {
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 0 30px rgba(0, 0, 0, 0.075);
 }
+section.info h5 {
+  margin-top: 20px;
+}
 section.info p {
-  margin-bottom: 30px;
+  margin: 25px 0;
 }
 section.info span {
   display: block;
   margin: 20px 0;
-  font-weight: normal;
-  font-size: 18px;
   color: #465064;
-  line-height: 20px;
 }
 section.info .btn {
-  background: #129700;
-  color: white;
-  text-shadow: none;
-  border: 0;
-  -webkit-border-radius: 4;
-  -moz-border-radius: 4;
-  border-radius: 4;
-  text-transform: uppercase;
-  font-weight: normal;
-  font-size: 16px;
-  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 5px rgba(0, 0, 0, 0.25);
-  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 5px rgba(0, 0, 0, 0.25);
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 5px rgba(0, 0, 0, 0.25);
+  font-size: 1.4em;
 }
 section.info .btn:hover {
-  background: #108800;
+  background: #108300;
 }
 section.highlights {
   background: #404040;
@@ -263,6 +363,7 @@ section.highlights .info-box .box-content {
 }
 section.highlights .info-box .box-content img {
   margin-bottom: 10px;
+  width: 100%;
 }
 section.highlights .info-box .box-content p {
   padding: 0 10px;
@@ -350,6 +451,9 @@ section.latest-news .info-box p {
   font-size: 15px;
   color: #333;
 }
+section.latest-news .info-box img {
+  width: 100%;
+}
 section.latest-news p.intro {
   font-size: 16px;
   font-style: italic;
@@ -357,19 +461,8 @@ section.latest-news p.intro {
 }
 section.sponsors {
   padding: 30px 0;
-  color: white;
   text-align: center;
-  background: #433ded;
-  background: -moz-linear-gradient(45deg, #433ded 0%, #68ac59 100%);
-  background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, #433ded), color-stop(100%, #68ac59));
-  background: -webkit-linear-gradient(45deg, #433ded 0%, #68ac59 100%);
-  background: -o-linear-gradient(45deg, #433ded 0%, #68ac59 100%);
-  background: -ms-linear-gradient(45deg, #433ded 0%, #68ac59 100%);
-  background: linear-gradient(45deg, #433ded 0%, #68ac59 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#020031', endColorstr='#68ac59', GradientType=1);
-  -webkit-box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.2), inset 0 -3px 7px rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.2), inset 0 -3px 7px rgba(0, 0, 0, 0.2);
-  box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.2), inset 0 -3px 7px rgba(0, 0, 0, 0.2);
+  background: #333333 url('images/paper-texture.png') repeat;
 }
 section.sponsors header {
   height: 30px;
@@ -381,6 +474,7 @@ section.sponsors h3 {
   display: inline-block;
   font-weight: 400;
   padding: 0 40px;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 0 30px rgba(0, 0, 0, 0.075);
 }
 section.sponsors .sponsor {
   text-align: center;
@@ -528,7 +622,7 @@ section.content h4 {
 }
 @media (max-width: 979px) {
   #color-identifier {
-    position: static;
+    position: absolute;
   }
 }
 #color-identifier.about {
@@ -594,7 +688,6 @@ section.menu nav.subnav ul li {
   margin: 0 10px;
 }
 section.menu nav.subnav ul li a {
-  font-size: 1.2em;
   font-weight: bold;
   color: #1c2028;
 }
