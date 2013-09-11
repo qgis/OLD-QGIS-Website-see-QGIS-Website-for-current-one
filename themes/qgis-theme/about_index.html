@@ -1,16 +1,29 @@
 <div class="about" id="color-identifier"></div>
 
-<section class="sub-landing-page banner" id="top">
-	<div class="container">
+<section class="sub-landing-page" id="top">
+	<div class="container banner">
 		<div class="row-fluid">
 			<div class="offset1 span5">
-				<h2>{{ _('Discover what makes QGIS the leading open source desktop GIS') }}</h2>
+				<h2>{{ _('Discover What Makes QGIS the Leading Open Source Desktop GIS') }}</h2>
 			</div>
-			<div class="span1"></div>
-			<div class="span4">
-				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
+			<div class="span5">
+				<a data-toggle="modal" href="#myModal">
+					<img src="../../_static/images/about-top.png" id="processing" alt="qgis screenshot" class="img-polaroid non-mobile-img oveflow-img" />
+				</a>
+				<!-- Modal for image above-->
+				<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-header">
+				    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				    <h3 id="myModalLabel">Processing Support</h3>
+				  </div>
+				  <div class="modal-body">
+				  	<img src="../../_static/images/about-top.png" class="modal-img" alt="qgis screenshot" />
+				    <p>The SEXTANTE project has been ported to and incorporated into QGIS as core functionality. SEXTANTE has been renamed to 'Processing' and introduces a new menu in QGIS from where you can access a rich toolbox of spatial analysis tools. The processing toolbox has incredibly rich functionality - with a python programming API allowing you to easily add new tools, and hooks to provide access to analysis capabilities of many popular open source tools such as GRASS, OTB, SAGA etc.</p>
+				  </div>
+				</div>
+				<!-- end Modal -->
+
 			</div>
-			<div class="span1"></div>
 		</div>
 	</div>
 </section>
@@ -48,22 +61,21 @@
 <section class="sub-landing-page main">
 	<div class="container">
 		<div class="row-fluid">
-			<div class="offset1 span5">
-				<h3>{{ _('About QGIS') }}</h3>
-				<p>{{ _('QGIS (QGIS) is a user friendly Open Source Geographic Information System (GIS) licensed under the GNU General Public License. QGIS is an official project of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, Mac OSX, Windows and Android and supports numerous vector, raster, and database formats and functionalities.
-				Our latest release is QGIS 1.8.0 you can read the release annoucement here
-				Learn more about QGIS') }}</p>
+			<div class="offset2 span8">
+				<div class="text-center">
+					<img src='../../_static/images/about-about.png' class="text-center background-mask non-mobile-image" alt="compass icon" />
+					<h3>{{ _('About QGIS') }}</h3>
+				</div>
+				<p>{{ _('QGIS is a user friendly Open Source Geographic Information System (GIS) licensed under the GNU General Public License. QGIS is an official project of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, Mac OSX, Windows and Android and supports numerous vector, raster, and database formats and functionalities.') }}</p>
+				<p class="text-center">{{ _('Our latest release is QGIS 2.0.0. ') }}</p>
+				</p class="text-center"><a href="{{ pathto('site/forusers/download') }}">{{ _('Download it here.') }}</a></p>
 			</div>
-			<div class="span1"></div>
-			<div class="span4">
-				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
-			</div>
-			<div class="span1"></div>
+			<div class="span2"></div>
 		</div>
 		<hr>
 		<div class="row-fluid" id="tour">
 			<div class="offset1 span4">
-				<img class="about discover_img img-polaroid" src="http://placehold.it/300x250" alt="" />
+				<img src="../../_static/images/about-features.png" alt="features icon" class="background-mask non-mobile-image" />
 			</div>
 			<div class="span1"></div>
 			<div class="span5">
@@ -87,14 +99,14 @@
 			</div>
 			<div class="span1"></div>
 			<div class="span4">
-				<img class="about discover_img img-polaroid" src="http://placehold.it/300x250" alt="" />
+				<img src="../../_static/images/about-screenshots.png" alt="screenshots icon" class="background-mask non-mobile-image" />
 			</div>
 			<div class="span1"></div>
 		</div>
 		<hr>
 		<div class="row-fluid" id="casestudies">
 			<div class="offset1 span4">
-				<img class="about discover_img img-circle" src="http://placehold.it/300x250" alt="" />
+				<img src="../../_static/images/about-casestudies.png" alt="casestudies icon" class="background-mask non-mobile-image" />
 			</div>
 			<div class="span1"></div>
 			<div class="span5">
@@ -118,14 +130,14 @@
 			</div>
 			<div class="span1"></div>
 			<div class="span4">
-				<img class="about discover_img" src="http://placehold.it/300x250" alt="" />
+				<img src="../../_static/images/about-supporting.png" alt="supporting organizations icon" class="background-mask non-mobile-image" />
 			</div>
 			<div class="span1"></div>
 		</div>
 		<hr>
 		<div class="row-fluid" id="commercial">
 			<div class="offset1 span4">
-				<img class="about discover_img img-circle" src="http://placehold.it/300x250" alt="" />
+				<img src="../../_static/images/about-commercial.png" alt="commercial support icon" class="background-mask non-mobile-image" />
 			</div>
 			<div class="span1"></div>
 			<div class="span5">
@@ -140,8 +152,8 @@
 		</div>
 	</div>
 </section>
-<section class="sub-landing-page banner">
-	<div class="container">
+<section class="sub-landing-page">
+	<div class="container banner">
 		<div class="row-fluid">
 			<div class="offset5 span2">
 				<h5>

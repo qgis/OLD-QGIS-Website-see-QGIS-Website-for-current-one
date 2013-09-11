@@ -1,7 +1,6 @@
 {% extends "layout.html" %}
 
 {% set script_files = script_files + [
-    '_static/bootstrap-2.3.2/js/bootstrap.min.js',
     '_static/bootstrap-carousel.js',
     '_static/bootstrap-dropdown.js',
     '_static/bootstrap-tab.js'
@@ -20,6 +19,9 @@
   <footer class="footer">
     <div class="container">
         <p class="credit">{{ _('All content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>.') }}</p>
+    </div>
+    <div class="container">
+      <p class="credit">Select graphics from <a href="http://thenounproject.com" target="_blank">The Noun Project collection</a>.</p>
     </div>
   </footer>
 {% endblock %}

@@ -57,20 +57,24 @@
             <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
             <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
         </div>
-
-        <div class="info">
-            <h2>{{ _('QGIS') }}</h2>
-            <h4>
-                {{ _('A Free and Open Source Geographic Information System') }}
-            </h4>
-            <span>
-                {{ _('Create, edit, visualise, analyse and publish geospatial information.') }}
-            </span>
-            <p class="muted">{{ _('For Windows, Mac, Linux, BSD and Android') }}</p>
-            <p><a href="{{ pathto('site/forusers/download') }}" class="btn btn-large">{{ _('Download Now') }}</a></p>
-        </div>
     </div>
 </section>
+
+<section class="info">
+    <div class="container">
+        <h2>{{ _('QGIS') }}</h2>
+        <h4>
+            {{ _('A Free and Open Source Geographic Information System') }}
+        </h4>
+        <span>
+            {{ _('Create, edit, visualise, analyse and publish geospatial information.') }}
+        </span>
+        <p class="muted">{{ _('For Windows, Mac, Linux, BSD and Android') }}</p>
+        <p><a href="{{ pathto('site/forusers/download') }}" class="btn btn-large">{{ _('Download Now') }}</a></p>
+        <p class="muted">{{ _('Version 2.0.0 Dufour') }}</p>
+    </div>
+</section>
+
 
 <section class="highlights">
     <div class="container">
@@ -100,7 +104,7 @@
                 </a>
             </div>
             <div class="span4">
-                <a href="{{ pathto('docs/index') }}">
+                <a href="{{ pathto('site/docs') }}">
                     <div class="info-box">
                         <h4>{{ _('Learn More') }}</h4>
                         <div class="box-content">
@@ -122,7 +126,8 @@
             <h3>{{ _('Latest News') }}</h3>
         </header>
         <p class="intro">
-            {{ _('Find out what is going on with the QGIS project and its Community. Blog Posts, Case Studies, Tutorials, User Meetings and more') }}
+            {{ _('Find out what is going on with the QGIS project and its Community.') }}<br />
+            {{ _('Blog Posts, Case Studies, Tutorials, User Meetings and more') }}
         </p>
         <div class="row">
             <div class="span6">
@@ -158,6 +163,18 @@
         </header>
         <div class="row">
             <a href="{{ pathto('site/about/sponsorship') }}">
+               <!--<div class="span6">
+                    <div class="sponsor">
+                        <img src="{{pathto('_images/gold.png', 1)}}" width="90px" alt="">
+                        <h5>{{ _('Gold Sponsor') }}</h5>
+                    </div>
+                </div>
+                <div class="span6">
+                    <div class="sponsor">
+                        <img src="{{pathto('_images/silver.png', 1)}}" width="90px" alt="">
+                        <h5>{{ _('Silver Sponsors') }}</h5>
+                    </div>
+                </div>-->
                 <div class="span12">
                     <div class="sponsor">
                         <img src="{{pathto('_static/images/sponsors2013.png', 1)}}" width="900px" alt="">
