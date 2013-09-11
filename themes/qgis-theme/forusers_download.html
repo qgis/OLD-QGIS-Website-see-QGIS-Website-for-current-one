@@ -1,9 +1,9 @@
-<section class="intro">
+<section class="intro"
     <div class="container">
-        <h2>Download QGIS for your Platform</h2>
+        <h2>{{ _('Download QGIS for your Platform') }}</h2>
 
-        <p class="main">QGIS is available on Windows, MacOS X, Linux and Android. Binary packages are provided for the current version. The current version is QGIS 2.0.0 and was released in Septeber 2013.</p>
-        <p class="main">Plugins for QGIS are also available <a href="{{ pathto('site/forusers/plugins') }}">here</a>.</p>
+        <p class="main">{{ _('QGIS is available on Windows, MacOS X, Linux and Android. Binary packages are provided for the current version. The current version is QGIS 2.0.0 and was released in Septeber 2013.') }}</p>
+        <p class="main">{{ _('Plugins for QGIS are also available ') }}<a href="{{ pathto('site/forusers/plugins') }}">{{ _('here') }}</a>.</p>
     </div>
 </section>
 <section class="content">
@@ -15,117 +15,148 @@
         </ul>
         <div class="tab-content">
           <div class="tab-pane active" id="tab1">
+         	<!-- Tab 1 -->
             <!-- Downloads Accordion -->
               <div class="accordion" id="downloads">
                 <div class="accordion-group">
                   <div class="accordion-heading">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#collapseWindows">
-                      <h4>Download for Windows</h4>
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#windows">
+                      <h4>{{ _('Download for Windows') }}</h4>
                     </a>
                   </div>
-                  <div id="collapseWindows" class="accordion-body collapse in">
+                  <div id="windows" class="accordion-body collapse">
                     <div class="accordion-inner">
                       <div>
-                        <h5>For New Users:</h5> 
+                        <h5>{{ _('For New Users:') }}</h5> 
                         <a href="http://qgis.org/downloads/QGIS-OSGeo4W-2.0.0-Setup.exe" class="external">
                           <ul class="inline download-row">
                               <li class="qgis-download"></li>
-                              <li class="download-text">QGIS Standalone Installer Version 2.0.0</li>
+                              <li class="download-text">{{ _('QGIS Standalone Installer Version 2.0.0') }}</li>
                               <li><i class="icon-download-alt icon-large"></i></li>
                           </ul>
                         </a>
                         <ul class="inline download-row">
                           <button type="button" class="btn btn-default btn-mini" href="http://qgis.org/downloads/QGIS-OSGeo4W-2.0.0-Setup.exe.md5" class="external">md5</button>
-                          <button type="button" class="btn btn-default btn-mini" href="http://www.garyshood.com/virus/results.php?r=737a37f767c0b8d19a19e5360b467d62" class="external">Virus check</button>
+                          <button type="button" class="btn btn-default btn-mini" href="http://www.garyshood.com/virus/results.php?r=737a37f767c0b8d19a19e5360b467d62" class="external">{{ _('Virus check') }}</button>
                         </ul>
                       </div>
                       <div>
-                        <h5>For Advanced GIS:</h5> 
+                        <h5>{{ _('For Advanced GIS:') }}</h5> 
                         <a href="http://download.osgeo.org/osgeo4w/osgeo4w-setup.exe" class="external">
                         <ul class="inline download-row">
                           <li class="osgeo-download"></li>
-                          <li class="download-text">OSGeo4W Advanced Installer</li>
+                          <li class="download-text">{{ _('OSGeo4W Advanced Installer') }}</li>
                           <li><i class="icon-large icon-download-alt"></i></li>
                         </ul>
                         </a>
-                        <p>In the installer choose <strong>Desktop Express Install</strong> and select <strong>QGIS</strong> to install.</p>
+                        <p>{{ _('In the installer choose ') }}<strong>{{ _('Desktop Express Install') }}</strong> {{ _('and select') }} <strong>QGIS</strong> {{ _('to install.') }}</p>
                       </div>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-group">
                   <div class="accordion-heading">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseLinux">
-                      <h4>Download for Mac OS X</h4>
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#mac">
+                      <h4>{{ _('Download for Mac OS X') }}</h4>
                     </a>
                   </div>
-                  <div id="collapseLinux" class="accordion-body collapse">
+                  <div id="mac" class="accordion-body collapse">
                     <div class="accordion-inner">
-                      Options:
+                      {{ _('Options:') }}
                     </div>
                   </div>
                 </div>
                 <div class="accordion-group">
                   <div class="accordion-heading">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseMac">
-                      <h4>Download for Linux</h4>
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#linux">
+                      <h4>{{ _('Download for Linux') }}</h4>
                     </a>
                   </div>
-                  <div id="collapseMac" class="accordion-body collapse">
+                  <div id="linux" class="accordion-body collapse">
                     <div class="accordion-inner">
-                      Options:
+                      {{ _('Options:') }}
                     </div>
                   </div>
                 </div>
                 <div class="accordion-group">
                   <div class="accordion-heading">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseUnix">
-                      <h4>Download for Other UNIX (BSD)</h4>
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#unix">
+                      <h4>{{ _('Download for Other UNIX (BSD)') }}</h4>
                     </a>
                   </div>
-                  <div id="collapseUnix" class="accordion-body collapse">
+                  <div id="unix" class="accordion-body collapse">
                     <div class="accordion-inner">
-                      Options:
+                      {{ _('Options:') }}
                     </div>
                   </div>
                 </div>
                 <div class="accordion-group">
                   <div class="accordion-heading">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseAndroid">
-                      <h4>Download for Android</h4>
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#bsd">
+                      <h4>{{ _('Download for BSD') }}</h4>
                     </a>
                   </div>
-                  <div id="collapseAndroid" class="accordion-body collapse">
+                  <div id="bsd" class="accordion-body collapse">
                     <div class="accordion-inner">
-                      Options:
+                      {{ _('Options:') }}
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-group">
+                  <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#android">
+                      <h4>{{ _('Download for Android') }}</h4>
+                    </a>
+                  </div>
+                  <div id="android" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                      {{ _('Options:') }}
                     </div>
                   </div>
                 </div>
               </div>
               <!-- End Accordion -->
 
-              <h4><a href="{{ pathto('site/forusers/alldownloads') }}">All downloads</a></h4>
-              <h4><a href="http://qgis.org/downloads/">Older releases</a></h4>
+              <h4><a href="{{ pathto('site/forusers/alldownloads') }}">All downloads') }}</a></h4>
+              <h4><a href="http://qgis.org/downloads/">Older releases') }}</a></h4>
 
-              <p>Quantum GIS is open source software available under the terms of the <b>GNU General Public License</b> meaning that its source code can be downloaded through tarballs or the git repository.</p>
+              <p>{{ _('QGIS is open source software available under the terms of the') }} <b>{{ _('GNU General Public License') }}</b> {{ _('meaning that its source code can be downloaded through tarballs or the git repository.') }}</p>
 
-              <p><b>Datasets:</b> For testing and learning purposes, a sample dataset is available, which contains collections of data from different sources and in different formats</p>
+              <p><b>{{ _('Datasets:') }}</b> {{ _('For testing and learning purposes, a sample dataset is available, which contains collections of data from different sources and in different formats.') }}</p>
 
-              <p><b>Warning:</b> Development versions from master are provided for some platforms in addition to the released version. 'Master' contains unreleased software that is currently being worked on. As such they are unsupported and only provided for testing purposes to early adopters to check if bugs have been resolved and that no new bugs have been introduced. At any given time it may not work, or may do bad things to your data. <b>Use at your own risk.</b></p>
+              <p><b>{{ _('Warning:') }}</b> {{ _('Development versions from master are provided for some platforms in addition to the released version. Master contains unreleased software that is currently being worked on. As such they are unsupported and only provided for testing purposes to early adopters to check if bugs have been resolved and that no new bugs have been introduced. At any given time it may not work, or may do bad things to your data.') }} <b>{{ _('Use at your own risk.') }}</b></p>
           </div>
           <div class="tab-pane" id="tab2">
-              list of older releases
+          <!-- Tab 2 -->
+              <p>{{ _('Older releases of QGIS are available') }} <a href="http://qgis.org/downloads/">{{ _('here') }}</a>.</p>
           </div>
           <div class="tab-pane" id="tab3">
-              list of dev sources
+          <!-- Tab 3 -->
+              <p>{{ _('QGIS Source Code is available on github ') }} <a href="http://github.com/qgis/Quantum-GIS" class="external">{{ _('here') }}</a>{{ _('. Refer to the INSTALL guide for setting up the latest QGIS from source.') }}</p>
           </div>
         </div>
         <script>
+        
           $(function () {
             $('#tabs a').click(function (e) {
               e.preventDefault();
               $(this).tab('show');
-            })
+            });
+            
+            // Detect browser and open accordion tab for that os
+            var os = "unknown";
+			if (navigator.platform.toUpperCase().indexOf("WIN")!=-1) os="windows";
+			if (navigator.platform.toUpperCase().indexOf("MAC")!=-1) os="mac";
+			if (navigator.platform.toUpperCase().indexOf("X11")!=-1) os="unix";
+			if (navigator.platform.toUpperCase().indexOf("LINUX")!=-1) os="linux"; 
+			if (navigator.platform.toUpperCase().indexOf("BSD")!=-1) os="bsd"; 
+			if (navigator.platform.toUpperCase().indexOf("ANDROID")!=-1) os="android"; 
+		    
+			$('.accordion-body').each(function(){
+				if ($(this).attr('id').toLowerCase() == os) {
+					$(this).addClass('in');
+				}
+			});
           })
         </script>
     </div>

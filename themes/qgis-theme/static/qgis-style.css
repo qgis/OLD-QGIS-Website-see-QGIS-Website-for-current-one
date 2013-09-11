@@ -526,6 +526,11 @@ section.content h4 {
   left: 0;
   overflow: visible;
 }
+@media (max-width: 979px) {
+  #color-identifier {
+    position: static;
+  }
+}
 #color-identifier.about {
   background-color: #eff391;
 }
