@@ -676,10 +676,8 @@ section.sub-landing-page hr {
 section.sub-landing-page h4.subsection-link {
   margin-top: 20px;
 }
-section.banner {
-  margin-bottom: 40px;
-  width: 100% !important;
-  overflow-x: hidden;
+div.banner {
+  padding-top: 40px;
 }
 section.menu nav.subnav {
   padding: 30px 0;
@@ -724,15 +722,16 @@ section.menu nav.subnav ul li a:hover {
 .background-mask {
   background-color: #ccc;
 }
-img.overflow-img,
-#processing {
-  max-width: none !important;
-  overflow-x: hidden !important;
-}
 @media (max-width: 979px) {
   img.overflow-img,
   #processing {
-    max-width: 50%;
+    min-width: 100% !important;
+  }
+}
+@media (min-width: 980px) {
+  img.overflow-img,
+  #processing {
+    max-width: none !important;
   }
 }
 /* color for qgis version disclaimer (used when files need to be revised) */

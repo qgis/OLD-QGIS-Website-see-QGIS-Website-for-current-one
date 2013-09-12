@@ -685,10 +685,8 @@ section.sub-landing-page {
   }
 }
 
-section.banner {
-    margin-bottom: 40px;
-    width: 100% !important;
-    overflow-x: hidden;
+div.banner {
+    padding-top: 40px;
 }
 
 section.menu nav.subnav {
@@ -745,13 +743,16 @@ section.menu nav.subnav {
   background-color: #ccc;
 }
 
-img.overflow-img, #processing { //TODO fix specificity
-  max-width: none !important;
-  overflow-x: hidden !important;
+@media (max-width: 979px) {
+  img.overflow-img, #processing { 
+    min-width: 100% !important;
+  }
+} 
 
-  @media (max-width: 979px) {
-    max-width: 50%;
-  } 
+@media (min-width: 980px) {
+  img.overflow-img, #processing { 
+    max-width: none !important;
+  }
 }
 
 
