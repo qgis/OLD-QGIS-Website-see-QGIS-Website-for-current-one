@@ -38,10 +38,10 @@ a lot of people, please comment liberally/extensively.
 .font-face("OpenSans", "fonts/OpenSans-Bold-webfont", bold);
 .font-face("OpenSans", "fonts/OpenSans-BoldItalic-webfont", bold, italic);
 
-.font-face("OpenSans Light", "fonts/OpenSans-Light-webfont", 300);
-.font-face("OpenSans Light", "fonts/OpenSans-LightItalic-webfont", 300, italic);
-.font-face("OpenSans Semibold", "fonts/OpenSans-Semibold-webfont", 600);
-.font-face("OpenSans Semibold", "fonts/OpenSans-SemiboldItalic-webfont", 600, italic);
+.font-face("OpenSans", "fonts/OpenSans-Light-webfont", 300);
+.font-face("OpenSans", "fonts/OpenSans-LightItalic-webfont", 300, italic);
+.font-face("OpenSans", "fonts/OpenSans-Semibold-webfont", 600);
+.font-face("OpenSans", "fonts/OpenSans-SemiboldItalic-webfont", 600, italic);
 
 body {
   padding-top: 60px !important;
@@ -177,7 +177,8 @@ select#languages {
   margin: 16px 1px 0 4px;
   width: 120px;
 
-  background: @blueDark;
+  background: @blueDark url('images/down-arrow.png') no-repeat 95% 50%;
+  line-height: 20px;
   color: white;
   outline:none;
   display: inline-block;
@@ -248,9 +249,8 @@ section {
 }
 
 .carousel-caption {
-  padding-top: 0;
-  padding-bottom: 10px;
-  text-align: center;
+  padding: 0 20px 10px 20px;
+  text-align: left;
 
   .caption-headline {
     font-weight: bold;
@@ -275,7 +275,7 @@ section.slideshow {
 
 section.info {
   text-align: center;
-  padding: 50px auto 25px;
+  margin: 35px auto 25px auto;
 
   h1 {
     text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
@@ -337,25 +337,23 @@ section.highlights {
       }
 
       p {
-        padding: 0 10px;
-        font-size: 15px;
+        padding: 20px 10px 0 10px;
+        font-size: 1.4em;
         color: white;
       }
     }
     .highlights-icon {
-      width: 218px;  //TODO add media queries for responsive sizing
-      height: 200px;
+      width: 200px;  //TODO add media queries for responsive sizing
+      height: 142px;
       margin: 0 auto;
     }
     #get-started {
       background: #ccc url('images/get-started.png') no-repeat center center;
     }
     #get-involved {
-      width: 218px;
       background: #ccc url('images/get-involved.png') no-repeat center center;
     }
     #learn-more {
-      width: 218px;
       background: #ccc url('images/learn-more.png') no-repeat center center;
     }
 

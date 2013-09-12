@@ -1,11 +1,6 @@
 {% extends "layout.html" %}
 
-{% set script_files = script_files + [
-    '_static/bootstrap-carousel.js',
-    '_static/bootstrap-dropdown.js',
-    '_static/bootstrap-tab.js'
-  ]
-%}
+{% set favicon = '../../../favicon.ico?1322140996' %}
 
 {% set css_files = css_files + [
   '_static/qgis-style.css'
@@ -18,10 +13,23 @@
 {% block footer %}
   <footer class="footer">
     <div class="container">
+        <div>
+          <ul class="unstyled inline">
+            <li><a href="http://twitter.com/qgis" class="external">
+                <img src="../_static/images/footer-twitter.png" alt="twitter icon" /></a></li>
+            <li><a href="https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096" class="external">
+                <img src="../_static/images/footer-facebook.png" alt="facebook icon" /></a></li>
+            <li><a href="http://plus.google.com/communities/114776597176808981624" class="external">
+                <img src="../_static/images/footer-gplus.png" alt="google plus icon" /></a></li>
+            <li><a href="http://github.com/qgis/" class="external">
+                <img src="../_static/images/footer-github.png" alt="github icon" /></a></li>
+          </ul>
+        </div>
+
         <p class="credit">{{ _('All content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>.') }}</p>
     </div>
     <div class="container">
-      <p class="credit">Select graphics from <a href="http://thenounproject.com" target="_blank">The Noun Project collection</a>.</p>
+      <p class="credit">{{ _('Select graphics from <a href="http://thenounproject.com" target="_blank">The Noun Project collection</a>.') }}</p>
     </div>
   </footer>
 {% endblock %}

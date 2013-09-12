@@ -76,30 +76,30 @@ a lot of people, please comment liberally/extensively.
   font-style: italic;
 }
 @font-face {
-  font-family: "OpenSans Light";
+  font-family: "OpenSans";
   src: url("fonts/OpenSans-Light-webfont.eot");
-  src: url("fonts/OpenSans-Light-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-Light-webfont.woff") format("woff"), url("fonts/OpenSans-Light-webfont.ttf") format("truetype"), url("fonts/OpenSans-Light-webfont.svg#OpenSans Light") format("svg");
+  src: url("fonts/OpenSans-Light-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-Light-webfont.woff") format("woff"), url("fonts/OpenSans-Light-webfont.ttf") format("truetype"), url("fonts/OpenSans-Light-webfont.svg#OpenSans") format("svg");
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
-  font-family: "OpenSans Light";
+  font-family: "OpenSans";
   src: url("fonts/OpenSans-LightItalic-webfont.eot");
-  src: url("fonts/OpenSans-LightItalic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-LightItalic-webfont.woff") format("woff"), url("fonts/OpenSans-LightItalic-webfont.ttf") format("truetype"), url("fonts/OpenSans-LightItalic-webfont.svg#OpenSans Light") format("svg");
+  src: url("fonts/OpenSans-LightItalic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-LightItalic-webfont.woff") format("woff"), url("fonts/OpenSans-LightItalic-webfont.ttf") format("truetype"), url("fonts/OpenSans-LightItalic-webfont.svg#OpenSans") format("svg");
   font-weight: 300;
   font-style: italic;
 }
 @font-face {
-  font-family: "OpenSans Semibold";
+  font-family: "OpenSans";
   src: url("fonts/OpenSans-Semibold-webfont.eot");
-  src: url("fonts/OpenSans-Semibold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-Semibold-webfont.woff") format("woff"), url("fonts/OpenSans-Semibold-webfont.ttf") format("truetype"), url("fonts/OpenSans-Semibold-webfont.svg#OpenSans Semibold") format("svg");
+  src: url("fonts/OpenSans-Semibold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-Semibold-webfont.woff") format("woff"), url("fonts/OpenSans-Semibold-webfont.ttf") format("truetype"), url("fonts/OpenSans-Semibold-webfont.svg#OpenSans") format("svg");
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
-  font-family: "OpenSans Semibold";
+  font-family: "OpenSans";
   src: url("fonts/OpenSans-SemiboldItalic-webfont.eot");
-  src: url("fonts/OpenSans-SemiboldItalic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-SemiboldItalic-webfont.woff") format("woff"), url("fonts/OpenSans-SemiboldItalic-webfont.ttf") format("truetype"), url("fonts/OpenSans-SemiboldItalic-webfont.svg#OpenSans Semibold") format("svg");
+  src: url("fonts/OpenSans-SemiboldItalic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans-SemiboldItalic-webfont.woff") format("woff"), url("fonts/OpenSans-SemiboldItalic-webfont.ttf") format("truetype"), url("fonts/OpenSans-SemiboldItalic-webfont.svg#OpenSans") format("svg");
   font-weight: 600;
   font-style: italic;
 }
@@ -228,7 +228,8 @@ select#languages {
   float: right;
   margin: 16px 1px 0 4px;
   width: 120px;
-  background: #1c2028;
+  background: #1c2028 url('images/down-arrow.png') no-repeat 95% 50%;
+  line-height: 20px;
   color: white;
   outline: none;
   display: inline-block;
@@ -290,9 +291,8 @@ section {
   margin-top: 20px;
 }
 .carousel-caption {
-  padding-top: 0;
-  padding-bottom: 10px;
-  text-align: center;
+  padding: 0 20px 10px 20px;
+  text-align: left;
 }
 .carousel-caption .caption-headline {
   font-weight: bold;
@@ -314,7 +314,7 @@ section.slideshow {
 }
 section.info {
   text-align: center;
-  padding: 50px auto 25px;
+  margin: 35px auto 25px auto;
 }
 section.info h1 {
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 0 30px rgba(0, 0, 0, 0.075);
@@ -366,24 +366,22 @@ section.highlights .info-box .box-content img {
   width: 100%;
 }
 section.highlights .info-box .box-content p {
-  padding: 0 10px;
-  font-size: 15px;
+  padding: 20px 10px 0 10px;
+  font-size: 1.4em;
   color: white;
 }
 section.highlights .info-box .highlights-icon {
-  width: 218px;
-  height: 200px;
+  width: 200px;
+  height: 142px;
   margin: 0 auto;
 }
 section.highlights .info-box #get-started {
   background: #cccccc url('images/get-started.png') no-repeat center center;
 }
 section.highlights .info-box #get-involved {
-  width: 218px;
   background: #cccccc url('images/get-involved.png') no-repeat center center;
 }
 section.highlights .info-box #learn-more {
-  width: 218px;
   background: #cccccc url('images/learn-more.png') no-repeat center center;
 }
 section.highlights .info-box:hover h4,
