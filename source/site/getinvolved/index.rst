@@ -12,6 +12,8 @@ Get Involved / Development
     Plugins website <http://plugins.qgis.org>
     Mailinglist <mailinglists>
     QGIS Infrastructure <infrastructure>
+    governance/index
+    development/index
     faq/index
 
 .. note::

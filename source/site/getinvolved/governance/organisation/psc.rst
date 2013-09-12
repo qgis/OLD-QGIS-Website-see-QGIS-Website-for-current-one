@@ -1,30 +1,14 @@
-
-***********************************
-The QGIS Project Steering Committee
-***********************************
-
-The QGIS project is managed by the Project Steering Committee (PSC) which
-consists of 5 members (with their individual responsibilities listed in
-brackets):
-
-* Gary Sherman (Chair)
-* Marco Hugentobler (Technical Advisor)
-* Tim Sutton (Testing/QA Manager)
-* Otto Dassau (Community Advisor)
-* Paolo Cavallini (Financial and Marketing Advisor)
-* Anita Graser (Design Advisor)
-* Richard Duivenvoord (Infrastructure Manager)
-* Jürgen Fischer (Release Manager)
+.. _psc:
 
 Term of PSC members
-===================
+...................
 
 The PSC seats are non-expiring. PSC members may resign their position, or be
 asked to vacate their seat after a unanimous vote of no confidence from the
 remaining PSC members.
 
 Member's roles withing the PSC
-==============================
+..............................
 
 The PSC consists of 8 identified roles as follows:
 
@@ -60,7 +44,7 @@ The PSC consists of 8 identified roles as follows:
    icons, and other graphic elements common to both the application and the project's
    web presence.
 * **Infrastructure Manager**
-   Manage and oversee the QGIS project infrastructure, including servers, websites, 
+   Manage and oversee the QGIS project infrastructure, including servers, websites,
    source control, and issue tracking.
    Make recommendations for improvements, expansion, and consolidation of services.
    Guide and direct volunteers
@@ -70,14 +54,14 @@ The PSC consists of 8 identified roles as follows:
    Recruit and support build managers to create packages for supported platforms.
 
 Candidacy for the PSC
-=====================
+.....................
 
 All members have equal standing and voice in the PSC. To be eligible for
 membership in the PSC, a person should have a demonstrated and substantial
 involvement in QGIS.
 
 Election process for PSC members
-================================
+................................
 
 Anyone is eligible to be nominated to the QGIS PSC. Ideally nominees would be
 QGIS users or developers and have an understanding of GIS and the goals of the
@@ -109,7 +93,7 @@ name is added to the list of nominees.  You must submit all the information in
 item 4 for the nomination to be accepted.
 
 Expectations of PSC members
-===========================
+...........................
 
 * Be willing to commit to the QGIS development effort
 * Be responsive to requests for information from fellow members
@@ -117,7 +101,7 @@ Expectations of PSC members
 * Act in the best interests of the project
 
 Role of the PSC
-===============
+...............
 
 The PSC is intended to:
 
@@ -131,7 +115,7 @@ The PSC is intended to:
 * Provide a stable base of 'institutional knowledge' to the project
 
 The PSC is not:
-===============
+...............
 
 * A legal entity
 * Intended to deal with minutae of the project (these should be delegated to
