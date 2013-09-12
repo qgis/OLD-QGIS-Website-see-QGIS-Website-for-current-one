@@ -135,6 +135,7 @@ code {
 }
 .navbar-inverse .navbar-inner {
   background: #1c2028;
+  border: 0;
 }
 .navbar-inverse .btn-navbar {
   background: none;
@@ -329,7 +330,9 @@ section {
   color: #eff391;
 }
 section.slideshow {
-  background: white;
+  background: #9aa7ae;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 section.info {
   text-align: center;
