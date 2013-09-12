@@ -274,6 +274,25 @@ select#languages option {
 .footer .credit {
   font-size: 0.8rem;
 }
+.footer #social > li > a > div {
+  margin-right: 20px;
+  height: 30px;
+  width: 30px;
+  padding: 0;
+  outline: none;
+}
+.footer #twitter {
+  background: transparent url("images/footer-twitter.png") no-repeat 0 0;
+}
+.footer #facebook {
+  background: transparent url("images/footer-facebook.png") no-repeat 0 0;
+}
+.footer #gplus {
+  background: transparent url("images/footer-gplus.png") no-repeat 0 0;
+}
+.footer #github {
+  background: transparent url("images/footer-github.png") no-repeat 0 0;
+}
 /* this is the item in the TOC in sidebar which is currently active */
 .current.reference.internal {
   background-color: darkgray;
@@ -647,6 +666,9 @@ section.sub-landing-page .container {
 }
 section.sub-landing-page .container:after {
   clear: both;
+}
+section.sub-landing-page h2 {
+  line-height: 150%s;
 }
 section.sub-landing-page hr {
   margin: 70px 0;
