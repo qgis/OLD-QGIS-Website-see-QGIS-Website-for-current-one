@@ -23,31 +23,6 @@ Conclusion showing positive experiences/benefits using QGIS (length about 200 wo
 List of Case Studies
 --------------------
 
-..  NOTE: hidden toctree below is just for silencing all warning during build 
-    for all these documents not available in a toctree
-
-.. toctree::
-    :hidden:
-
-    portugal_pinhel
-    portugal_lisbon
-    portugal_ribeira
-    india_hyderabad
-    italy_vicenza
-    nigeria_jos
-    tanzania_udzungwa
-    malaysia_kuala
-    argentinia_chubut
-    suisse_uster
-    portugal_funchal
-    australia_queens
-    portugal_torres
-    czech_brno
-    mexico_jalisco
-    portugal_evora
-    suisse_basel
-    suisse_solothurn
-
 
 2013
 ....
@@ -55,47 +30,55 @@ List of Case Studies
 .. toctree::
     :maxdepth: 1
 
-    india_assam
-    usa_missouri
-    canada_brunswick
-
-* [2013/03] `QGIS for monitoring tigers using camera traps in Nameri Tiger Reserve`_, Assam, India by Rajendra  G Garawad
-* [2013/02] `QGIS Maps Historic Herpetofaunal Records in Missouri`_, USA by Brian Edmond
-* [2013/01] `Creating the Fundy Footpath Trail Map with QGIS`_, by Jarrett Totton
+    [2013/03] QGIS for monitoring tigers using camera traps in Nameri Tiger Reserve, Assam, India by Rajendra  G Garawad <india_assam>
+    [2013/02] QGIS Maps Historic Herpetofaunal Records in Missouri, USA by Brian Edmond <usa_missouri>
+    [2013/01] Creating the Fundy Footpath Trail Map with QGIS, by Jarrett Totton <canada_brunswick>
 
 2012
 ....
 
-* [2012/10] `QGIS and Forest Fire Risk Mapping in Portugal`_, by Pedro Venâncio
-* [2012/10] `Using QGIS to Map Hotspot Areas for Biodiversity and Ecosystem Services (HABEaS)`_, by Filipe Dias
-* [2012/07] `QGIS and GRASS for modelling ecological corridors for wolves in North Portugal`_ by Monica Almeida
-* [2012/07] `QGIS Trainings at NIRD Jaipur Centre, India`_ by Harish Kumar Solanki
-* [2012/05] `Using QGIS for urban planning in the municipality of Montecchio Maggiore, Vicenza, Italy`_ by Flavio Rigolon.
-* [2012/03] `Amurum forest reserve habitat and avifauna mapping with QGIS`_, Nigeria by Eelke Folmer et. al.
-* [2012/03] `Using QGIS for wildlife training in Tanzania`_ by Nick McWilliam.
-* [2012/01] `The growth of QGIS at the Federal Department of Town and Country Planning`_, Peninsular Malaysia by Abbas Abdul Wahab.
+.. toctree::
+    :maxdepth: 1
+
+    [2012/10] QGIS and Forest Fire Risk Mapping in Portugal, by Pedro Venâncio <portugal_pinhel>
+    [2012/10] Using QGIS to Map Hotspot Areas for Biodiversity and Ecosystem Services (HABEaS), by Filipe Dias <portugal_lisbon>
+    [2012/07] QGIS and GRASS for modelling ecological corridors for wolves in North Portugal by Monica Almeida <portugal_ribeira>
+    [2012/07] QGIS Trainings at NIRD Jaipur Centre, India by Harish Kumar Solanki <india_hyderabad>
+    [2012/05] Using QGIS for urban planning in the municipality of Montecchio Maggiore, Vicenza, Italy by Flavio Rigolon <italy_vicenza>
+    [2012/03] Amurum forest reserve habitat and avifauna mapping with QGIS, Nigeria by Eelke Folmer et. al. <nigeria_jos>
+    [2012/03] Using QGIS for wildlife training in Tanzania by Nick McWilliam <tanzania_udzungwa>
+    [2012/01] The growth of QGIS at the Federal Department of Town and Country Planning, Peninsular Malaysia by Abbas Abdul Wahab <malaysia_kuala>
 
 2011
 ....
 
-* [2011/09] `QGIS at high school`_ - urban green spaces in Rada Tilly Coastal Town, Argentina by Mauro Novara and Alberto Vázquez.
-* [2011/04] `The use of QGIS in the Geodata Infrastructure of the City of Uster`_ by Andreas Neumann
-* [2011/03] `Using a free GIS at Jaime Moniz Secondary School`_: QGIS by Fátima Vale
-* [2011/01] `QGIS and GRASS in Local Government Bushfire Hazard Mapping`_ by Nathan Woodrow
+.. toctree::
+    :maxdepth: 1
+    
+    [2011/09] QGIS at high school - urban green spaces in Rada Tilly Coastal Town, Argentina by Mauro Novara and Alberto Vázquez <argentinia_chubut>
+    [2011/04] The use of QGIS in the Geodata Infrastructure of the City of Uster by Andreas Neumann <suisse_uster>
+    [2011/03] Using a free GIS at Jaime Moniz Secondary School: QGIS by Fátima Vale <portugal_funchal>
+    [2011/01] QGIS and GRASS in Local Government Bushfire Hazard Mapping by Nathan Woodrow <australia_queens>
 
 2010
 ....
 
-* [2010/11] `QGIS and GRASS applied to paleontological survey in Western Portugal`_ by André Mano
-* [2010/11] `QGIS as major GIS software in the Laboratory on Experimental and Applied Geography`_ by Jakub Trojan
-* [2010/7] `Working with QGIS in a spatial data infrastructure of Jalisco`_ in Mexico by Carlos Ruiz
-* [2010/7] `QGIS and GRASS in Biogeographical Research in Spain`_ by Marcia Barbosa
-* [2010/6] `QGIS - an interesting instrument for forestry planning`_ concepts at local and regional level in Switzerland by Raphael Häner
+.. toctree::
+    :maxdepth: 1
+    
+    [2010/11] QGIS and GRASS applied to paleontological survey in Western Portugal by André Mano <portugal_torres>
+    [2010/11] QGIS as major GIS software in the Laboratory on Experimental and Applied Geography by Jakub Trojan <czech_brno>
+    [2010/07] Working with QGIS in a spatial data infrastructure of Jalisco in Mexico by Carlos Ruiz <mexico_jalisco>
+    [2010/07] QGIS and GRASS in Biogeographical Research in Spain by Marcia Barbosa <portugal_evora>
+    [2010/06] QGIS - an interesting instrument for forestry planning concepts at local and regional level in Switzerland by Raphael Häner <suisse_basel>
 
 2009
 ....
 
-* [2009/5] `QGIS in the governmental FOSSGIS stack`_ of the Canton of Solothurn in Switzerland by Dr. Horst Düster
+.. toctree::
+    :maxdepth: 1
+    
+    [2009/05] QGIS in the governmental FOSSGIS stack of the Canton of Solothurn in Switzerland by Dr. Horst Düster <suisse_solothurn>
 
 .. _`QGIS for monitoring tigers using camera traps in Nameri Tiger Reserve`: ./india_assam.html
 .. _`QGIS Maps Historic Herpetofaunal Records in Missouri`: ./usa_missouri.html
