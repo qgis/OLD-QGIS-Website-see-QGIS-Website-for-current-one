@@ -55,7 +55,7 @@ To gather all strings in a pot (.po) file:
 
 To update or create strings:
 
-    sphinx-intl update -p i18n/pot -c source/conf.py -l nl (es, zh_CN)
+    sphinx-intl update -p i18n/pot -c source/conf.py -l nl (es, zh_CN, ja, de)
 
 To create .mo files from the .po files then:
 
