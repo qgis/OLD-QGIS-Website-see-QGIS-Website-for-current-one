@@ -2,8 +2,9 @@
 #
 
 # You can set these variables from the command line
-LANG        = en
+LANG          = en
 SPHINXBUILD   = sphinx-build
+SPHINXINTL    = sphinx-intl
 PAPER         =
 SOURCEDIR     = source
 RESOURCEDIR   = resources
@@ -69,7 +70,12 @@ localizeresources: clean
 	@echo "Copy localized '$(LANG)' static content to $(SOURCEDIR)/static."
 	cp -r $(RESOURCEDIR)/$(LANG)/* $(SOURCEDIR)/static
 
+pretranslate: gettext
+	$(SPHINXINTL) update -p i18n/pot -c $(SOURCEDIR)/conf.py -l $(LANG)
+
 html: localizeresources
+	# compile .po files for this language to .mo files
+	$(SPHINXINTL) build -l $(LANG) -c $(SOURCEDIR)/conf.py
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
