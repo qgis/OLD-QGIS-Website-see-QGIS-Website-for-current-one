@@ -1,30 +1,17 @@
 <div class="forusers" id="color-identifier"></div>
 
 <section class="sub-landing-page" id="top">
-	<div class="row-fluid">
-		<div class="span5">
-			<a data-toggle="modal" href="#myModal">
-				<img src="{{pathto('_static/images/users-top.png', 1)}}" id="processing" alt="qgis screenshot" class="img-polaroid non-mobile-img oveflow-img banner-img" />
-			</a>
-			<!-- Modal for image above-->
-			<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-					<h3 id="myModalLabel">{{ _('Resources for Learning QGIS') }}</h3>
-				</div>
-				<div class="modal-body">
-					<img src="../../_static/images/users-top.png" class="modal-img" alt="qgis screenshot" />
-				</div>
-			</div>
-			<!-- end Modal -->
-		</div>
-		<div class="span7">
-			<article class="main-text">
-				<h2>{{ _('Resources for<br>Learning QGIS') }}</h2>
-				<p>{{ _('QGIS has an international support community of enthusiastic users, developers and supporters. To learn more there is a wealth of guides, tutorials, documentation and Planet QGIS blogs.') }}</p>
-			</article>
-		</div>
-	</div>
+    <div class="container-fluid banner">
+	    <div class="row-fluid">
+		    <div class="offset1 span5">
+			    <h2>{{ _('Resources for<br>Learning QGIS') }}</h2>
+			    <p>{{ _('QGIS has an international support community of enthusiastic users, developers and supporters. To learn more there is a wealth of guides, tutorials, documentation and Planet QGIS blogs.') }}</p>
+		    </div>
+		    <div class="span6">
+			    <img src="{{pathto('_static/images/users-top.png', 1)}}" id="processing" alt="qgis screenshot" class="img-polaroid non-mobile-img oveflow-img banner-img" width="100%"/>
+		    </div>
+	    </div>
+    </div>
 </section>
 
 <section class="sub-landing-page menu">
@@ -68,9 +55,6 @@
 	<div class="container-fluid">
 		<div class="row-fluid">
 			<div class="offset1 span5">
-				<div class="sm">
-					<img src='../../_static/images/users-download.png' class="text-center background-mask non-mobile-image" alt="download icon" />
-				</div>
 				<h3>{{ _('Download QGIS') }}</h3>
 				<p>{{ _('QGIS is a cross-platform (Linux, Windows, Mac) open source Geographic Information system.') }}</p>
 				<h4>
@@ -87,9 +71,6 @@
 		<hr>
 		<div class="row-fluid" id="plugins">
 			<div class="offset1 span5">
-				<div class="sm">
-					<img src='../../_static/images/users-plugins.png' class="text-center background-mask non-mobile-image" alt="plugins puzzle icon" />
-				</div>
 				<h3>{{ _('Get Plugins') }}</h3>
 				<p>{{ _('QGIS has been designed with a plugin architecture. This allows many new features/functions to be easily added to the application.') }}
 				</p>
@@ -112,9 +93,6 @@
 			</div>
 			<div class="span1"></div>
 			<div class="span5">
-				<div class="sm">
-					<img src='../../_static/images/users-docs.png' class="text-center background-mask non-mobile-image" alt="docs icon" />
-				</div>
 				<h3>{{ _('QGIS Documentation') }}</h3>
 				<p>{{ _('The User manual contains all documentation needed for an user to get started. It will be updated with every update of QGIS.') }}
 				</p>
@@ -137,9 +115,6 @@
 			</div>
 			<div class="span1"></div>
 			<div class="span5">
-				<div class="sm">
-					<img src='../../_static/images/about-features.png' class="text-center background-mask non-mobile-image" alt="features icon" />
-				</div>
 				<h3>{{ _('Features') }}</h3>
 				<p>{{ _('QGIS provides a continously grow-fluiding number of capabilities provided by core functions and plugins. You can visualize, manage, edit, analyse data, and compose printable maps. Get a first impression with a more detailed feature list.') }}
 				</p>
@@ -156,9 +131,6 @@
 			</div>
 			<div class="span1"></div>
 			<div class="span5">
-				<div class="sm">
-					<img src='../../_static/images/users-help.png' class="text-center background-mask non-mobile-image" alt="help talk bubbles icon" />
-				</div>
 				<h3>{{ _('Getting Help') }}</h3>
 				<p>{{ _('There are several QGIS mailing lists, IRC channels, forums and user groups you can use to get help from fellow users and developers. You are welcome to subscribe to any of the lists.') }}</p>
 				<h4>
@@ -170,11 +142,8 @@
 		<hr>
 		<div class="row-fluid" id="press">
 			<div class="offset1 span5">
-				<div class="sm">
-					<img src='../../_static/images/users-press.png' class="text-center background-mask non-mobile-image" alt="press sheet icon" />
-				</div>
 				<h3>{{ _('QGIS Press') }}</h3>
-				</p>
+				<p>Read all about what the QGIS Community is doing around the world.</p>
 				<h4>
 					<a href="{{ pathto('site/about/press') }}">{{ _('QGIS in the News') }}</a>
 				</h4>
@@ -194,9 +163,6 @@
 		<hr>
 		<div class="row-fluid" id="organization">
 			<div class="offset1 span5">
-				<div class="sm">
-					<img src='../../_static/images/users-orgs.png' class="text-center background-mask non-mobile-image" alt="support organizations icon" />
-				</div>
 				<h3>{{ _('Organizations that Support QGIS') }}</h3>
 				<p>{{ _('QGIS is an entirely Open Source project. QGIS development is carried out largely by a group of volunteers, that in time have built up a large, valuable and useful code base, free to use and improve for everybody.') }}
 				</p>
@@ -217,9 +183,6 @@
 			</div>
 			<div class="span1"></div>
 			<div class="span5">
-				<div class="sm">
-					<img src='../../_static/images/users-commercial.png' class="text-center background-mask non-mobile-image" alt="commercial support icon" />
-				</div>
 				<h3>{{ _('Commercial Support') }}</h3>
 				<p>{{ _('Do you plan to use QGIS in your company or organization, but worry about whether there is commercial support available? Here is an alphabetical list of support contractors.') }}
 				</p>
