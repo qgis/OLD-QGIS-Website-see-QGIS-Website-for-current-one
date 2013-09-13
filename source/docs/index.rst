@@ -19,7 +19,7 @@ Documentation for QGIS 2.0
 
    User guide/Manual for QGIS 2.0 <user_manual/index>
    PyQGIS cookbook for QGIS 2.0 <pyqgis_developer_cookbook/index>
-   Documentatino Guidelines (how to write the docs)<documentation_guidelines/index>
+   Documentation Guidelines (how to write the docs)<documentation_guidelines/index>
    A gentle introducton in GIS <gentle_gis_introduction/index>
 
 Documentation for QGIS 1.8
