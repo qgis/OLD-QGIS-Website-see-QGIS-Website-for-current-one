@@ -8,7 +8,22 @@ Sphinx coming with most distro's is just 1.1.3. You will get an error with those
 
 Best to run the make file in a virtual env (http://www.virtualenv.org/):
 
-So install sphinx 1.2b1:
+Move to a directory (~/myvirtualenvs/) and create a virtualenv enabled dir:
+
+    virtualenv sphinx  # one time action, only to create the environment
+    cd sphinx
+
+And activate this virtualenv
+
+    source bin/activate 
+    # now you will see sphinx before your prompt:
+    (sphinx)richard@mymachine
+
+Now always activate your environment before building. To deactivate, you can do:
+
+    deactivate
+
+So install sphinx 1.2b1 now in your virtual env:
 
     pip install sphinx
 
