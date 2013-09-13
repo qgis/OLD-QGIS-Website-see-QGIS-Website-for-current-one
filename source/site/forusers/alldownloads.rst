@@ -149,7 +149,7 @@ Android
 Alpha and nightly builds as well as further documentation can be obtained at
 http://android.qgis.org
 
-freeBSD
+FreeBSD
 .......
 
 To compile QGIS from binary packages type::
@@ -304,7 +304,7 @@ Mountain Lion (10.8) and OS X Lion (10.7), and separate one for OS X Snow Leopar
 
 Nightly build at http://qgis.dakotacarto.com provided by Dakota Cartography.
 
-freeBSD
+FreeBSD
 .......
 
 To compile QGIS from sources in FreeBSD you need to type::
