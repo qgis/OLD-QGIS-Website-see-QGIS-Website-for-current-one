@@ -25,7 +25,7 @@ Now always activate your environment before building. To deactivate, you can do:
 
 So install sphinx 1.2b1 now in your virtual env:
 
-    pip install sphinx
+    pip install sphinx==1.2b1
 
 Sphinx bootstrap theme (http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html).
 We use 0.3.0 currently.
