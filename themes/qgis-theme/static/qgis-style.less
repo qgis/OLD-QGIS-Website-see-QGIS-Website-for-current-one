@@ -252,7 +252,7 @@ select#languages {
 
 /* this is the item in the TOC in sidebar which is currently active */
 .current.reference.internal {
-  background-color: darkgray;
+  background-color: lightgray;
 }
 /* external link icon for external links */
 .reference.external {
@@ -759,13 +759,33 @@ section.menu nav.subnav {
 
 /********* QGIS-Documentation Pages *********/
 
+
+
+/* fixing the toc higher levels. Bootstraps makes the active lx tocs blue */
+.nav-list > .active > a, .nav-list > .active > a:hover, .nav-list > .active > a:focus {
+    background-color: #fff;
+    color:  #0088CC;
+    text-shadow: none;
+}
+
+.toctree-l2.current,
+.toctree-l3.current,
+.toctree-l4.current{
+    font-style: italic;
+}
+
+.toctree-l4{
+   font-size: 90%;
+}
+
+
 /* color for qgis version disclaimer (used when files need to be revised) */
 .disclaimer {
   display:block;
   margin-top:5px;
   color:red;
   border:2px solid red;
-  padding:5px 50px 5px 50px;
+  padding:5px 30px 5px 20px;
 
 }
 /* (Sphinx) admonition changes, as used in documentation */
