@@ -70,6 +70,7 @@ localizeresources: clean
 	cp -r $(RESOURCEDIR)/en/* $(SOURCEDIR)/static
 	@echo "Copy localized '$(LANG)' static content to $(SOURCEDIR)/static."
 	cp -r $(RESOURCEDIR)/$(LANG)/* $(SOURCEDIR)/static
+	scripts/pulldocsources.sh $(LANGUAGES)
 
 pretranslate: gettext
 	@echo "Generating the pot files for the QGIS-Website project (NOT including the docs)"
