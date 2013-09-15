@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 2.0\n"
@@ -10,246 +10,316 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Language: ja_JP\n"
 
 #: ../../source/site/forusers/alldownloads.rst:4
+#, fuzzy
 msgid "All Downloads"
-msgstr ""
+msgstr "すべてのダウンロード"
 
 #: ../../source/site/forusers/alldownloads.rst:6
+#, fuzzy
 msgid "How to obtain QGIS?"
-msgstr ""
+msgstr "どうやってQGISを入手するか?"
 
 #: ../../source/site/forusers/alldownloads.rst:8
+#, fuzzy
 msgid "QGIS is freely available on Windows, Linux, MacOS X, BSD, and Android."
-msgstr ""
+msgstr "QGISはフリーでWindows,Linux,MacOS X,BSD,Androidで利用可能です."
 
 #: ../../source/site/forusers/alldownloads.rst:11
+#, fuzzy
 msgid "Recommendend installers"
-msgstr ""
+msgstr "推奨インストーラ"
 
 #: ../../source/site/forusers/alldownloads.rst:14
 #: ../../source/site/forusers/alldownloads.rst:170
+#, fuzzy
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #: ../../source/site/forusers/alldownloads.rst:16
+#, fuzzy
 msgid ""
-"`Double-click installer <http://qgis.org/downloads/QGIS-"
-"OSGeo4W-1.8.0-2-Setup.exe>`_"
+"`Double-click installer "
+"<http://qgis.org/downloads/QGIS-OSGeo4W-1.8.0-2-Setup.exe>`_"
 msgstr ""
+"` インストーラをダブルクリックして下さい "
+"<http://qgis.org/downloads/QGIS-OSGeo4W-1.8.0-2-Setup.exe>`_"
 
 #: ../../source/site/forusers/alldownloads.rst:18
+#, fuzzy
 msgid ""
 "`Virus check results "
 "<http://www.garyshood.com/virus/results.php?r=737a37f767c0b8d19a19e5360b467d62>`_"
 msgstr ""
+"`ウィルスチェック結果 "
+"<http://www.garyshood.com/virus/results.php?r=737a37f767c0b8d19a19e5360b467d62>`_"
 
 #: ../../source/site/forusers/alldownloads.rst:21
 #: ../../source/site/forusers/alldownloads.rst:184
+#, fuzzy
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #: ../../source/site/forusers/alldownloads.rst:23
+#, fuzzy
 msgid ""
 "Most linux distributions split QGIS into several packages; you can decide "
-"not to install qgis-python, qgis-grass (or qgis-plugin-grass), or qgis-"
-"mapserver if you do not need it."
+"not to install qgis-python, qgis-grass (or qgis-plugin-grass), or "
+"qgis-mapserver if you do not need it."
 msgstr ""
+"ほとんどのlinuxディストリビューションではQGISを様々なパッケージに分割しています,qgis-python,qgis-grass(またはqgis-plugin-grass)またはqgis-mapserver等が必要でない場合はインストールしないこともできます."
 
 #: ../../source/site/forusers/alldownloads.rst:28
 #: ../../source/site/forusers/alldownloads.rst:188
+#, fuzzy
 msgid "Ubuntu"
-msgstr ""
+msgstr "Ubuntu"
 
 #: ../../source/site/forusers/alldownloads.rst:30
+#, fuzzy
 msgid ""
 "Get packages from the ubuntugis project for i386 and amd64 adding the "
 "appropriate lines to ``/etc/apt/sources.list``:"
 msgstr ""
+"i386とamd64向け用パッケージはubuntugisプロジェクトから取得できます,``/etc/apt/sources.list`` "
+"に適切な行を加えて下さい:"
 
 #: ../../source/site/forusers/alldownloads.rst:33
 #: ../../source/site/forusers/alldownloads.rst:213
+#, fuzzy
 msgid "Lucid::"
-msgstr ""
+msgstr "Lucid::"
 
 #: ../../source/site/forusers/alldownloads.rst:38
+#, fuzzy
 msgid "Natty::"
-msgstr ""
+msgstr "Natty::"
 
 #: ../../source/site/forusers/alldownloads.rst:43
 #: ../../source/site/forusers/alldownloads.rst:219
+#, fuzzy
 msgid "Oneiric::"
-msgstr ""
+msgstr "Oneiric::"
 
 #: ../../source/site/forusers/alldownloads.rst:48
 #: ../../source/site/forusers/alldownloads.rst:194
 #: ../../source/site/forusers/alldownloads.rst:225
+#, fuzzy
 msgid "Precise::"
-msgstr ""
+msgstr "Precise::"
 
 #: ../../source/site/forusers/alldownloads.rst:53
 #: ../../source/site/forusers/alldownloads.rst:204
 #: ../../source/site/forusers/alldownloads.rst:231
+#, fuzzy
 msgid ""
 "To add the the qgis.org repository public key to your apt keyring, type::"
-msgstr ""
+msgstr "qgis.orgリポジトリのパブリックキーをあなたのapt keyringに追加するため次のようにタイプして下さい::"
 
 #: ../../source/site/forusers/alldownloads.rst:58
+#, fuzzy
 msgid "Add also updated dependencies by typing::"
-msgstr ""
+msgstr "さらに更新された依存関係を追加するために次のようにタイプして下さい::"
 
 #: ../../source/site/forusers/alldownloads.rst:66
 #: ../../source/site/forusers/alldownloads.rst:237
+#, fuzzy
 msgid "Debian"
-msgstr ""
+msgstr "Debian"
 
 #: ../../source/site/forusers/alldownloads.rst:68
+#, fuzzy
 msgid ""
 "Packages for Debian *Squeeze, Wheezy and Unstable* for i386 and amd64 are "
 "available at:"
-msgstr ""
+msgstr "Debian *Sqeeze,Wheezy,とUnstable* のi386とamd64用パッケージは次の場所にあります:"
 
 #: ../../source/site/forusers/alldownloads.rst:71
 #: ../../source/site/forusers/alldownloads.rst:241
+#, fuzzy
 msgid "Squeeze::"
-msgstr ""
+msgstr "Squeeze::"
 
 #: ../../source/site/forusers/alldownloads.rst:76
 #: ../../source/site/forusers/alldownloads.rst:246
+#, fuzzy
 msgid "Wheezy::"
-msgstr ""
+msgstr "Wheezy::"
 
 #: ../../source/site/forusers/alldownloads.rst:81
 #: ../../source/site/forusers/alldownloads.rst:251
+#, fuzzy
 msgid "Unstable::"
-msgstr ""
+msgstr "Unstable::"
 
 #: ../../source/site/forusers/alldownloads.rst:86
+#, fuzzy
 msgid ""
 "To add the the http://qgis.org repository public key to your apt keyring, "
 "type::"
-msgstr ""
+msgstr "http://qgis.org リポジトリのパブリックキーをあなたのapt keyringに追加するために次のようにタイプして下さい::"
 
 #: ../../source/site/forusers/alldownloads.rst:91
+#, fuzzy
 msgid ""
 "Then add the lines for one of the repositories to your "
-"``/etc/apt/sources.list`` file (see below to choose the appropriate one) and"
-" type::"
+"``/etc/apt/sources.list`` file (see below to choose the appropriate one) and "
+"type::"
 msgstr ""
+"それからあなたの "
+"``/etc/apt/sources.list``　ファイルにリポジトリの１つを追加する行を加えて下さい(以下を見て適切なものを選んでください)そして次のようにタイプして下さい::"
 
 #: ../../source/site/forusers/alldownloads.rst:97
+#, fuzzy
 msgid ""
 "Please remove all the QGIS and GRASS packages you may have installed from "
 "other repositories before doing the update."
-msgstr ""
+msgstr "更新を行う前に他のリポジトリからインストールした全てのQGISとGRASSのパッケージを削除して下さい."
 
 #: ../../source/site/forusers/alldownloads.rst:100
 #: ../../source/site/forusers/alldownloads.rst:273
+#, fuzzy
 msgid "Fedora"
-msgstr ""
+msgstr "Fedora"
 
 #: ../../source/site/forusers/alldownloads.rst:102
+#, fuzzy
 msgid "Get packages for Fedora 16 and 17 by typing::"
-msgstr ""
+msgstr "Fedora 16と17用パッケージを取得するためには以下のようにタイプして下さい::"
 
 #: ../../source/site/forusers/alldownloads.rst:107
 #: ../../source/site/forusers/alldownloads.rst:281
+#, fuzzy
 msgid "RHEL, CentOS, Scientific Linux, ..."
-msgstr ""
+msgstr "RHEL, CentOS, Scientific Linux, ..."
 
 #: ../../source/site/forusers/alldownloads.rst:109
+#, fuzzy
 msgid "Try the ELGIS repository: http://elgis.argeo.org/"
-msgstr ""
+msgstr "ELGSリポジトリ  http://elgis.argeo.org/ を試してみてください"
 
 #: ../../source/site/forusers/alldownloads.rst:111
+#, fuzzy
 msgid ""
 "ELGIS requires the EPEL repo enabled, see "
 "http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL"
 msgstr ""
+"ELGSではEPELレポジトリを有効にする必要があります "
+"http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL "
+"を参照して下さい"
 
 #: ../../source/site/forusers/alldownloads.rst:114
 #: ../../source/site/forusers/alldownloads.rst:264
+#, fuzzy
 msgid "openSUSE"
-msgstr ""
+msgstr "openSUSE"
 
 #: ../../source/site/forusers/alldownloads.rst:116
+#, fuzzy
 msgid ""
 "Latest openSUSE package called qgis2 is available for 12.1, 12.2, 12.3, "
 "Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
 "installation manager. All packages include GRASS and Python support."
 msgstr ""
+"最新のopenSUSEパッケージではqgis2が12.1,12.2,12.3,FactoryとTumbleweed(32と64bit)で利用できます.以下のリポジトリをあなたのインストレーションマネージャに追加して下さい.すべてのパッケージがGRASSとPythonをサポートしています."
 
 #: ../../source/site/forusers/alldownloads.rst:120
 #: ../../source/site/forusers/alldownloads.rst:270
+#, fuzzy
 msgid "http://download.opensuse.org/repositories/Application:/Geo/<version>/"
-msgstr ""
+msgstr "http://download.opensuse.org/repositories/Application:/Geo/<version>/"
 
 #: ../../source/site/forusers/alldownloads.rst:123
+#, fuzzy
 msgid "Mandriva"
-msgstr ""
+msgstr "Mandriva"
 
 #: ../../source/site/forusers/alldownloads.rst:125
+#, fuzzy
 msgid "Current::"
-msgstr ""
+msgstr "Current::"
 
 #: ../../source/site/forusers/alldownloads.rst:130
+#, fuzzy
 msgid "Slackware"
-msgstr ""
+msgstr "Slackware"
 
 #: ../../source/site/forusers/alldownloads.rst:132
+#, fuzzy
 msgid "Packages on http://qgis.gotslack.org"
-msgstr ""
+msgstr "パッケージは http://qgis.gostack.org にあります"
 
 #: ../../source/site/forusers/alldownloads.rst:135
+#, fuzzy
 msgid "MacOS X"
-msgstr ""
+msgstr "MacOS X"
 
 #: ../../source/site/forusers/alldownloads.rst:137
+#, fuzzy
 msgid ""
 "Installing in OS X requires separate installation of `dependency frameworks "
 "<http://www.kyngchaos.com/software/frameworks>`_ (GDAL Complete and GSL). "
 "GRASS http://www.kyngchaos.com/software/grass is supported with this "
-"version. Some common Python modules http://www.kyngchaos.com/software/python"
-" available for QGIS plugin requirements. Single installer package are "
+"version. Some common Python modules http://www.kyngchaos.com/software/python "
+"available for QGIS plugin requirements. Single installer package are "
 "available for both OS X Lion (10.7) and Snow Leopard (10.6)."
 msgstr ""
+"OS Xが必要とする個別の `dependency frameworks "
+"<http://www.kyngchaos.com/software/frameworks>`_ (GDAL Complete と "
+"GSL)をインストールして下さい.GRASS http://www.kyngchaos.com/software/grass "
+"はこのバージョンでサポートされています. QGISプラグインではいくつかの共通Pythonモジュール "
+"http://www.kyngchaos.com/software/python が必要とされます.OS X Lion (10.7) と Snow "
+"Leopard (10.6)用の単独インストーラパッケージがあります."
 
 #: ../../source/site/forusers/alldownloads.rst:143
+#, fuzzy
 msgid ""
 "QGIS download page on KyngChaos http://www.kyngchaos.com/software/qgis "
 "(framework requirements listed here)."
 msgstr ""
+"KyngChaosのQGISのダウンロードページです  http://www.kyngchaos.com/software/qgis "
+"(必要なフレームワークがリストされています)."
 
 #: ../../source/site/forusers/alldownloads.rst:147
+#, fuzzy
 msgid "Android"
-msgstr ""
+msgstr "Android"
 
 #: ../../source/site/forusers/alldownloads.rst:149
+#, fuzzy
 msgid ""
-"Alpha and nightly builds as well as further documentation can be obtained at"
-" http://android.qgis.org"
-msgstr ""
+"Alpha and nightly builds as well as further documentation can be obtained at "
+"http://android.qgis.org"
+msgstr "アルファ版と毎晩のビルドがあり  http://android.qgis.org ここから詳細情報を取得できます"
 
 #: ../../source/site/forusers/alldownloads.rst:155
+#, fuzzy
 msgid "To compile QGIS from binary packages type::"
-msgstr ""
+msgstr "QGISをバイナリパッケージからコンパイルするためには次のようにタイプして下さい::"
 
 #: ../../source/site/forusers/alldownloads.rst:160
+#, fuzzy
 msgid "Development version"
-msgstr ""
+msgstr "開発バージョン"
 
 #: ../../source/site/forusers/alldownloads.rst:162
+#, fuzzy
 msgid ""
 "**Warning**: Development versions from master are provided for some "
 "platforms in addition to the released version. *Master* contains unreleased "
-"software that is currently being worked on. As such they are unsupported and"
-" only provided for testing purposes to early adopters to check if bugs have "
+"software that is currently being worked on. As such they are unsupported and "
+"only provided for testing purposes to early adopters to check if bugs have "
 "been resolved and that no new bugs have been introduced. At any given time "
 "it may not work, or may do bad things to your data. Use at your own risk. "
 "You have been warned!"
 msgstr ""
+"** 警告 "
+"**:マスターから作成した開発バージョンはいくつかのプラットフォームでリリースバージョンに加えて提供されています.*Master*には作業中でまだリリースされていないソフトウェアが含まれています.それらはサポートされておらず初期のユーザによってテストされバグの解決や新しいバグが見つからないようになるまでのために提供されています.それらはしばしば正しく動かずあなたのデータに悪い影響を与える可能性があります.利用される場合は自己責任でお願いします.ここで警告しておきます!"
 
 #: ../../source/site/forusers/alldownloads.rst:172
+#, fuzzy
 msgid ""
 "**OSGeo4W Installer**: The OSGeo4W repository contains a lot of software "
 "from OSGeo projects. QGIS and all dependencies are included, along with "
@@ -257,47 +327,60 @@ msgid ""
 "just download all needed packages beforehand. The downloaded files are kept "
 "in a local directory for future installations. Steps are:"
 msgstr ""
+"**OSGeo4W Installer** "
+"OSGeo4WリポジトリにはOSGeoプロジェクトの多くのソフトウェアが含まれています.QGISとそれが依存するPython,GRASS,GDAL等のソフトウェアが含まれています.インストーラはインターネットからインストールでき必要なパッケージをダウンロードします.ダウンロードされたファイルは次のインストールのためにローカルディレクトリに保存されます.手順は次の通りです:"
 
 #: ../../source/site/forusers/alldownloads.rst:178
+#, fuzzy
 msgid "Download OSGEO4W Installer"
-msgstr ""
+msgstr "OSGeo4Wインストーラをダウンロードして下さい"
 
 #: ../../source/site/forusers/alldownloads.rst:179
+#, fuzzy
 msgid "Start it"
-msgstr ""
+msgstr "それを実行して下さい"
 
 #: ../../source/site/forusers/alldownloads.rst:180
+#, fuzzy
 msgid ""
-"Select **Advanced Install** and then the *qgis-dev* package from the Desktop"
-" section. Also other libraries can be selected."
+"Select **Advanced Install** and then the *qgis-dev* package from the Desktop "
+"section. Also other libraries can be selected."
 msgstr ""
+" **Advanced Install** を選択してDesktop sectionから "
+"*qgis-dev*を選択して下さい.そうすると他の必要なライブラリが選択されます."
 
 #: ../../source/site/forusers/alldownloads.rst:190
+#, fuzzy
 msgid "On plain ubuntu"
-msgstr ""
+msgstr "通常のubuntuの場合"
 
 #: ../../source/site/forusers/alldownloads.rst:192
 #: ../../source/site/forusers/alldownloads.rst:239
+#, fuzzy
 msgid ""
 "Nightly builds of the Master are available from following repository (i386 "
 "and amd64):"
-msgstr ""
+msgstr "Masterの毎晩のビルドは以下のリポジトリで利用できます（i386とamd64)."
 
 #: ../../source/site/forusers/alldownloads.rst:199
+#, fuzzy
 msgid "Quantal::"
-msgstr ""
+msgstr "Quantal::"
 
 #: ../../source/site/forusers/alldownloads.rst:209
+#, fuzzy
 msgid "ubuntugis"
-msgstr ""
+msgstr "ubuntugis"
 
 #: ../../source/site/forusers/alldownloads.rst:211
+#, fuzzy
 msgid ""
 "There are also nightly builds that depend on updated dependencies found in "
 "ubuntugis:"
-msgstr ""
+msgstr "依存ソフトの更新に依存したナイティビルドはubuntugisにあります:"
 
 #: ../../source/site/forusers/alldownloads.rst:256
+#, fuzzy
 msgid ""
 "Although the nightly builds can be used to test newer versions, they are "
 "mainly meant to test, if the newer qgis versions still build fine on the "
@@ -306,77 +389,103 @@ msgid ""
 "current libraries. That means if you need current qgis version with more "
 "uptodate libraries you will have to build them yourself."
 msgstr ""
+"もちろんナイティビルドは新しいバージョンのテストに利用されます.それらは新しいQGISが様々なディストリビューションで多彩な（古い）バージョンのライブラリを利用していても大丈夫かどうかをテストします.それゆえ、多くの現在のライブラリに依存するバージョンをビルドすることを意図するものではありません.それゆえあなたがカレントQGISでさらにアップデートされたライブラリを利用したい場合はそれらを自分でビルドする必要があります."
 
 #: ../../source/site/forusers/alldownloads.rst:266
+#, fuzzy
 msgid ""
 "A regularly updated development package from qgis master called qgis-master "
 "is available for 12.1, 12.2, 12.3, Factory and Tumbleweed (32 and 64bit). "
 "Add the following repository to your installation manager. All packages "
 "include GRASS and Python support."
 msgstr ""
+"qgis-masterという名前のqgis "
+"masterを利用した定期的にアップデートされる開発パッケージが12.1,12.2,12.3,FactoryとTumbleweed(32と64bit)で利用できます.以下のリポジトリをあなたのインストレーションマネージャに追加して下さい.全てのパッケージがGRASSとPythonサポートを含みます."
 
 #: ../../source/site/forusers/alldownloads.rst:275
+#, fuzzy
 msgid ""
 "A newer version might be available in the testing repository -- usually "
 "around one week::"
-msgstr ""
+msgstr "新しいバージョンはテスティングリポジトリで利用できます--通常1週間ごとに更新します::"
 
 #: ../../source/site/forusers/alldownloads.rst:283
+#, fuzzy
 msgid ""
 "If you want to try the cutting edge: "
 "http://elgis.argeo.org/repos/testing/6/elgis/"
 msgstr ""
+"もし最先端をテストしたい場合は http://elgis.argeo.org/repos/testing/6/elgis/　を利用してみてください"
 
 #: ../../source/site/forusers/alldownloads.rst:285
+#, fuzzy
 msgid "They're happy if you provide feedback on their mailing list."
-msgstr ""
+msgstr "もし彼らのメーリングリストにフィードバックを送れば喜ばれるでしょう."
 
 #: ../../source/site/forusers/alldownloads.rst:287
+#, fuzzy
 msgid ""
 "If it does not work for you, you can try to rebuild the Fedora SRPM. The "
 "Fedora 15 version of QGIS builds in Mock for EPEL 6. Notice, this package "
 "will not support GRASS, because there is no GRASS package in RHEL/EPEL."
 msgstr ""
+"もしあなたのところでうまく動かない場合はFedora "
+"SRPMを使って再ビルドすることができます.Fedoraには15バージョンのQGISビルドがMock for EPEL 6にあります.注. "
+"このパッケージはGRASSをサポートしていません,何故なら RHEL/EPELにはGRASSパッケージが無いからです."
 
 #: ../../source/site/forusers/alldownloads.rst:291
+#, fuzzy
 msgid ""
 "argeo.org has a wiki on rebuilding their packages. For a more general quick "
 "guide in rebuilding, you can also take a look at "
 "http://zabbix.org/wiki/Docs/howto/rebuild_rpms"
 msgstr ""
+"argeo.orgには彼らのパッケージをリビルドするためのwikiがあります.さらに丁寧なリビルドクィックガイドが  "
+"http://zabbix.org/wiki/Docs/howto/rebuild_rpms にあります"
 
 #: ../../source/site/forusers/alldownloads.rst:294
+#, fuzzy
 msgid "More info from: Volker Fröhlich <volker27 AT gmx DOT at>"
-msgstr ""
+msgstr " Volker Fröhlich <volker27 AT gmx DOT at>からの詳細情報"
 
 #: ../../source/site/forusers/alldownloads.rst:297
+#, fuzzy
 msgid "Mac OS X"
-msgstr ""
+msgstr "Mac OS X"
 
 #: ../../source/site/forusers/alldownloads.rst:299
+#, fuzzy
 msgid "KyngChaos Qgis download page http://www.kyngchaos.com/software/qgis"
-msgstr ""
+msgstr "KyngChaos Qgis ダウンロードページ http://www.kyngchaos.com/software/qgis"
 
 #: ../../source/site/forusers/alldownloads.rst:301
+#, fuzzy
 msgid ""
 "Requirements and support same as for Mac OS X Release, above. Builds for OS "
 "X Mountain Lion (10.8) and OS X Lion (10.7), and separate one for OS X Snow "
 "Leopard (10.6). All are compiled for 64-bit Macs."
 msgstr ""
+"Mac OS X Releaseと同じ必要条件とサポート, OS X Mountain Lion (10.8) と OS X Lion "
+"(10.7),用上記のビルドと それとは別のOS X Snow Leopard (10.6)向けビルド.全ては64-bitMac用にコンパイルされます."
 
 #: ../../source/site/forusers/alldownloads.rst:305
+#, fuzzy
 msgid ""
 "Nightly build at http://qgis.dakotacarto.com provided by Dakota Cartography."
 msgstr ""
+"Dakota Cartography.によるナイティビルド http://qgis.dakotacarto.com  Dakota "
+"Cartographyによる提供."
 
 #: ../../source/site/forusers/alldownloads.rst:310
+#, fuzzy
 msgid "To compile QGIS from sources in FreeBSD you need to type::"
-msgstr ""
+msgstr "FreeBSDでQGISをソースからコンパイルする場合は次のようにタイプして下さい::"
 
 #: ../../source/site/forusers/alldownloads.rst:153
 #: ../../source/site/forusers/alldownloads.rst:308
+#, fuzzy
 msgid "FreeBSD"
-msgstr ""
+msgstr "FreeBSD"
 
 #~ msgid "freeBSD"
 #~ msgstr ""

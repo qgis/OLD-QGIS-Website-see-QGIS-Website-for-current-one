@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 2.0\n"
@@ -10,10 +10,11 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Language: ja_JP\n"
 
 #: ../../source/site/about/case_studies/index.rst:8
 msgid "Case Studies"
-msgstr ""
+msgstr "ケーススタディ"
 
 #: ../../source/site/about/case_studies/index.rst:11
 msgid ""
@@ -22,23 +23,26 @@ msgid ""
 "universities, authorities, and companies to write down their experience in "
 "using QGIS to solve their problems in a certain project or their every day "
 "live. Please contact the `QGIS community-team "
-"<http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_, if you want"
-" to send us your story."
+"<http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_, if you want "
+"to send us your story."
 msgstr ""
+"QGISプロジェクトでは常にQGISケーススタディ（ユーザーストーリー）をQGISウェッブサイトで発表してくれる人を探しています.それゆえ私たちは研究所、大学、官庁、企業にQGISを使って何らかのプロジェクトで問題を解決できたことがあるか尋ねています.もしあなたの事例を送りたい場合は "
+"`QGIS community-team "
+"<http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_,に連絡して下さい."
 
 #: ../../source/site/about/case_studies/index.rst:13
 msgid "**Structure**"
-msgstr ""
+msgstr "** 形式 **"
 
 #: ../../source/site/about/case_studies/index.rst:15
 msgid ""
 "The stories should follow a simple structure and we suggest to write about "
 "800 words including one or two screenshots."
-msgstr ""
+msgstr "事例は以下のシンプルな形式で約800ワードで2個のスクリーンショットを含むことを推奨します."
 
 #: ../../source/site/about/case_studies/index.rst:17
 msgid "**Title**"
-msgstr ""
+msgstr "** タイトル **"
 
 #: ../../source/site/about/case_studies/index.rst:19
 msgid ""
@@ -48,10 +52,11 @@ msgid ""
 "Conclusion showing positive experiences/benefits using QGIS (length about "
 "200 words)"
 msgstr ""
+"企業/研究所/官庁/大学のバックグラウンドを含んだ短い紹介（約200ワード).あなたのプロジェクト/アプリケーションの説明とその中でQGISがどのように使われているか(約400ワードの長さとスクリーンショット).結論としてQGISを使って得られたポジティブな経験/利益の記述(約200ワード)"
 
 #: ../../source/site/about/case_studies/index.rst:24
 msgid "List of Case Studies"
-msgstr ""
+msgstr "ケーススタディのリスト"
 
 #: ../../source/site/about/case_studies/index.rst:28
 msgid "2013"
@@ -99,8 +104,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "[2012/07] `QGIS and GRASS for modelling ecological corridors for wolves in "
-#~ "North Portugal`_ by Monica Almeida"
+#~ "[2012/07] `QGIS and GRASS for modelling ecological corridors for wolves "
+#~ "in North Portugal`_ by Monica Almeida"
 #~ msgstr ""
 
 #~ msgid ""
@@ -109,27 +114,28 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "[2012/05] `Using QGIS for urban planning in the municipality of Montecchio "
-#~ "Maggiore, Vicenza, Italy`_ by Flavio Rigolon."
+#~ "[2012/05] `Using QGIS for urban planning in the municipality of "
+#~ "Montecchio Maggiore, Vicenza, Italy`_ by Flavio Rigolon."
 #~ msgstr ""
 
 #~ msgid ""
-#~ "[2012/03] `Amurum forest reserve habitat and avifauna mapping with QGIS`_, "
-#~ "Nigeria by Eelke Folmer et. al."
+#~ "[2012/03] `Amurum forest reserve habitat and avifauna mapping with "
+#~ "QGIS`_, Nigeria by Eelke Folmer et. al."
 #~ msgstr ""
 
 #~ msgid ""
-#~ "[2012/03] `Using QGIS for wildlife training in Tanzania`_ by Nick McWilliam."
+#~ "[2012/03] `Using QGIS for wildlife training in Tanzania`_ by Nick "
+#~ "McWilliam."
 #~ msgstr ""
 
 #~ msgid ""
-#~ "[2012/01] `The growth of QGIS at the Federal Department of Town and Country "
-#~ "Planning`_, Peninsular Malaysia by Abbas Abdul Wahab."
+#~ "[2012/01] `The growth of QGIS at the Federal Department of Town and "
+#~ "Country Planning`_, Peninsular Malaysia by Abbas Abdul Wahab."
 #~ msgstr ""
 
 #~ msgid ""
-#~ "[2011/09] `QGIS at high school`_ - urban green spaces in Rada Tilly Coastal "
-#~ "Town, Argentina by Mauro Novara and Alberto Vázquez."
+#~ "[2011/09] `QGIS at high school`_ - urban green spaces in Rada Tilly "
+#~ "Coastal Town, Argentina by Mauro Novara and Alberto Vázquez."
 #~ msgstr ""
 
 #~ msgid ""
@@ -143,8 +149,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "[2011/01] `QGIS and GRASS in Local Government Bushfire Hazard Mapping`_ by "
-#~ "Nathan Woodrow"
+#~ "[2011/01] `QGIS and GRASS in Local Government Bushfire Hazard Mapping`_ "
+#~ "by Nathan Woodrow"
 #~ msgstr ""
 
 #~ msgid ""
@@ -153,13 +159,13 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "[2010/11] `QGIS as major GIS software in the Laboratory on Experimental and "
-#~ "Applied Geography`_ by Jakub Trojan"
+#~ "[2010/11] `QGIS as major GIS software in the Laboratory on Experimental "
+#~ "and Applied Geography`_ by Jakub Trojan"
 #~ msgstr ""
 
 #~ msgid ""
-#~ "[2010/7] `Working with QGIS in a spatial data infrastructure of Jalisco`_ in"
-#~ " Mexico by Carlos Ruiz"
+#~ "[2010/7] `Working with QGIS in a spatial data infrastructure of Jalisco`_ "
+#~ "in Mexico by Carlos Ruiz"
 #~ msgstr ""
 
 #~ msgid ""
@@ -168,8 +174,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "[2010/6] `QGIS - an interesting instrument for forestry planning`_ concepts "
-#~ "at local and regional level in Switzerland by Raphael Häner"
+#~ "[2010/6] `QGIS - an interesting instrument for forestry planning`_ "
+#~ "concepts at local and regional level in Switzerland by Raphael Häner"
 #~ msgstr ""
 
 #~ msgid ""
