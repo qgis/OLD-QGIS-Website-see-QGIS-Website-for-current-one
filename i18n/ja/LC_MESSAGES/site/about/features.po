@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 2.0\n"
@@ -12,87 +12,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Language: ja_JP\n"
 
-#: ../../source/site/about/features.rst:2
+#: ../../source/site/about/features.rst:6
 msgid "Features of QGIS"
 msgstr "QGISの特徴"
 
-#: ../../source/site/about/features.rst:5
+#: ../../source/site/about/features.rst:9
 msgid "QGIS Desktop"
 msgstr "QGISデスクトップ"
 
-#: ../../source/site/about/features.rst:31
+#: ../../source/site/about/features.rst:12
+msgid "QGIS Brower"
+msgstr "QGISブラウザ"
+
+#: ../../source/site/about/features.rst:15
 msgid "QGIS Server"
 msgstr "QGISサーバ"
 
-#: ../../source/site/about/features.rst:7
-msgid "Create, edit, visualise, analyse and publish geospatial information."
-msgstr ""
-
-#: ../../source/site/about/features.rst:9
-msgid "For Windows, Mac, Linux, BSD and Android."
-msgstr ""
-
-#: ../../source/site/about/features.rst:14
-msgid "A screenshot of QGIS Desktop"
-msgstr ""
-
 #: ../../source/site/about/features.rst:18
-msgid "QGIS Browser"
-msgstr ""
-
-#: ../../source/site/about/features.rst:20
-msgid "Browse and preview your data and metadata."
-msgstr ""
-
-#: ../../source/site/about/features.rst:22
-msgid "Drag and drop your data from one datastore into the other one."
-msgstr ""
-
-#: ../../source/site/about/features.rst:27
-msgid "A screenshot of QGIS Browser"
-msgstr ""
-
-#: ../../source/site/about/features.rst:33
-msgid ""
-"Publish your QGIS projects and layers as OGC compatible WMS and WFS "
-"services. Control which layers, attributes, layouts and coordinate systems "
-"are exported."
-msgstr ""
-
-#: ../../source/site/about/features.rst:40
-msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
-msgstr ""
-
-#: ../../source/site/about/features.rst:43
-msgid "QGIS Web Client"
-msgstr ""
-
-#: ../../source/site/about/features.rst:45
-msgid ""
-"Publish your QGIS projects on the web with ease. Benefit from the powerful "
-"symbology, labeling and blending features to impress with your maps."
-msgstr ""
-
-#: ../../source/site/about/features.rst:52
-msgid "A screenshot of QGIS Web Client"
-msgstr ""
-
-#: ../../source/site/about/features.rst:56
-msgid "QGIS on Android (beta!)"
-msgstr ""
-
-#: ../../source/site/about/features.rst:58
-msgid ""
-"Work is being done to use QGIS on Android devices. Current builds are very "
-"experimental, and not for the faint of heart."
-msgstr ""
-
-#: ../../source/site/about/features.rst:64
-msgid "A screenshot of QGIS on Android"
-msgstr ""
-
-#~ msgid "QGIS Brower"
-#~ msgstr "QGISブラウザ"
-
-#~ msgid "QGIS Client"
-#~ msgstr "QGISクライアント"
+msgid "QGIS Client"
+msgstr "QGISクライアント"

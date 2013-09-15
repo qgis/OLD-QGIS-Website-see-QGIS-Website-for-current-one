@@ -11,15 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:4
+#: ../../source/site/about/case_studies/usa_missouri.rst:8
 msgid "QGIS Maps Historic Herpetofaunal Records"
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:6
+#: ../../source/site/about/case_studies/usa_missouri.rst:10
 msgid "(in Missouri, USA)"
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:8
+#: ../../source/site/about/case_studies/usa_missouri.rst:12
 msgid ""
 "The Missouri Herpetological Atlas Project (MOHAP) was initiated in 1997 as a"
 " result of the desire to obtain and easily update detailed distribution maps"
@@ -30,7 +30,7 @@ msgid ""
 "records and \"county records\" for each species."
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:10
+#: ../../source/site/about/case_studies/usa_missouri.rst:14
 msgid ""
 "MOHAP hosts a web site at http://atlas.moherp.org/ that describes the "
 "project in detail and displays a variety of static maps, all produced by "
@@ -42,7 +42,7 @@ msgid ""
 "understand species' distributions in Missouri."
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:12
+#: ../../source/site/about/case_studies/usa_missouri.rst:16
 msgid ""
 "As of February 2013, the MOHAP database contained 31,495 entries "
 "representing the specimens housed in 34 museum collections and cited in 32 "
@@ -51,11 +51,11 @@ msgid ""
 "herpetofauna consists of 113 species."
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:15
+#: ../../source/site/about/case_studies/usa_missouri.rst:19
 msgid "Generate and Export Static Maps"
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:17
+#: ../../source/site/about/case_studies/usa_missouri.rst:21
 msgid ""
 "The process of creating maps with QGIS starts with data stored in several "
 "PostgreSQL tables, spatially-enabled with PostGIS. Because maps are static "
@@ -64,13 +64,13 @@ msgid ""
 "(Figures 1,2)."
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:24
+#: ../../source/site/about/case_studies/usa_missouri.rst:28
 msgid ""
 "Custom map generation and export user interface, maps are generated and "
 "exported in a batch process."
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:26
+#: ../../source/site/about/case_studies/usa_missouri.rst:30
 msgid ""
 "The final species maps have a clean and professional appearance (Figure 3). "
 "To better understand species' distributions, a series of base maps are also "
@@ -79,19 +79,19 @@ msgid ""
 "set of species maps with little extra effort."
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:33
+#: ../../source/site/about/case_studies/usa_missouri.rst:37
 msgid "Maps are displayed as static images."
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:40
+#: ../../source/site/about/case_studies/usa_missouri.rst:44
 msgid "Labelled Level III Ecoregion map for Missouri and surrounding states."
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:43
+#: ../../source/site/about/case_studies/usa_missouri.rst:47
 msgid "Conclusions"
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:45
+#: ../../source/site/about/case_studies/usa_missouri.rst:49
 msgid ""
 "At the beginning of the MOHAP project, several commercial and proprietary "
 "tools were used to store and process data and produce maps for publication. "
@@ -109,15 +109,15 @@ msgid ""
 "tackle larger and more complex projects."
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:50
+#: ../../source/site/about/case_studies/usa_missouri.rst:54
 msgid "Author"
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:57
+#: ../../source/site/about/case_studies/usa_missouri.rst:61
 msgid "Brian Edmond"
 msgstr ""
 
-#: ../../source/site/about/case_studies/usa_missouri.rst:59
+#: ../../source/site/about/case_studies/usa_missouri.rst:63
 msgid ""
 "This article was contributed by Brian Edmond in February 2013. He is a "
 "Senior Systems Analyst in Computer Services at Missouri State University.  "
