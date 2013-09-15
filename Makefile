@@ -95,6 +95,12 @@ all:
 		make LANG=$$LANG html; \
 	done
 
+lang:
+	@echo Creating a new Language: $(LANG)
+	mkdir -p i18n/${LANG}
+	mkdir -p resources/${LANG}
+	cp resources/de/README resources/${LANG}
+
 ################################################################################
 #
 # rules below either not tested or not working yet
