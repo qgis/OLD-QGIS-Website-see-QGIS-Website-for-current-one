@@ -2,7 +2,7 @@
 #
 
 # You can set these variables from the command line
-LANGUAGES     = en nl ja de it zh_CH
+LANGUAGES     = en nl ja de it zh_CN
 LANG          = en
 SPHINXBUILD   = sphinx-build
 SPHINXINTL    = sphinx-intl
