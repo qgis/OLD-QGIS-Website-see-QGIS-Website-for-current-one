@@ -55,6 +55,7 @@ clean:
 	rm -rf $(BUILDDIR)/*
 	rm -rf $(SOURCEDIR)/static
 	rm -rf i18n/*/LC_MESSAGES/docs/*/
+	rm -f $(SOURCEDIR)/docs_conf.py
 
 # remove all resources from source/static directory
 # copy english resources from resources/en to source/static directory

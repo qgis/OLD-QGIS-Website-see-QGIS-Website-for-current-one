@@ -14,6 +14,11 @@
 import sys, os
 import sphinx_bootstrap_theme
 
+# If extensions (or modules to document with autodoc) are in another directory,
+# add these directories to sys.path here. If the directory is relative to the
+# documentation root, use os.path.abspath to make it absolute, like shown here.
+sys.path.insert(0, os.path.abspath('.'))
+
 # IF THERE IS A docs.conf.py available import it FIRST
 # so we will be taking the config for docs first, and after override
 # those with ours
@@ -22,12 +27,6 @@ try:
     from docs_conf import *
 except ImportError:
     print "docs_conf.py not available, building website without documentation part"
-
-
-# If extensions (or modules to document with autodoc) are in another directory,
-# add these directories to sys.path here. If the directory is relative to the
-# documentation root, use os.path.abspath to make it absolute, like shown here.
-#sys.path.insert(0, os.path.abspath('.'))
 
 # -- General configuration -----------------------------------------------------
 
