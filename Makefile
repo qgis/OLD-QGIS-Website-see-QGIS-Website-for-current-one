@@ -2,7 +2,7 @@
 #
 
 # You can set these variables from the command line
-LANGUAGES     = en nl ja de it zh_CN
+LANGUAGES     = en es nl ja de it zh_CN
 LANG          = en
 SPHINXBUILD   = sphinx-build
 SPHINXINTL    = sphinx-intl
@@ -65,10 +65,10 @@ help:
 clean:
 	rm -rf $(SOURCEDIR)/static
 	rm -rf i18n/*/LC_MESSAGES/docs/*/
-	rm -f $(SOURCEDIR)/docs_conf.py
 
 springclean: clean
 	rm -rf $(BUILDDIR)/*
+	rm -f $(SOURCEDIR)/docs_conf.py
 
 # remove all resources from source/static directory
 # copy english resources from resources/en to source/static directory
@@ -116,7 +116,7 @@ all: pulldocsources
 	@echo Building html for the following languages: $(LANGUAGES)
 	@echo
 	@for LANG in $(LANGUAGES) ; do \
-		make LANG=$$LANG html; \
+		make LANG=$$LANG fullhtml; \
 	done
 
 createlang:
