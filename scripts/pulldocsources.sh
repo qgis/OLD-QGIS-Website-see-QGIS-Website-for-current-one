@@ -36,8 +36,8 @@ for LANG in ${LANGUAGES}
 do
     # copy sources of documentation into website source tree
     echo "Copying sources for '${LANG}' into website source tree"
-    cp -r ext/$QGIS_DOC_DIR/source/docs/* source/docs
+    cp -r ext/$QGIS_DOC_DIR/source/docs source/docs
     echo "Copying resources/images and translations for '${LANG}' into website source tree"
-    cp -r ext/$QGIS_DOC_DIR/resources/${LANG}/* resources/${LANG}
-    cp -r ext/$QGIS_DOC_DIR/i18n/${LANG}/LC_MESSAGES/docs i18n/${LANG}/LC_MESSAGES
+    cp -r ext/$QGIS_DOC_DIR/resources/${LANG} resources/${LANG}
+    cp -r ext/$QGIS_DOC_DIR/i18n/${LANG} i18n/${LANG}
 done
