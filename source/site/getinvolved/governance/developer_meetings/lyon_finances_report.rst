@@ -12,7 +12,7 @@ Situation
 * income 2011
 
   - donation & sponsor	17,000 € (avg 219 €, median 33 €, stdev 730 €)
-  - .. figure:: /static/qgis_governance/developer_meetings/2011_income.png
+  - .. figure:: /static/site/getinvolved/governance/developer_meetings/2011_income.png
        :align: center
 
 * expenses

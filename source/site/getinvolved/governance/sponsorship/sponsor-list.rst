@@ -13,7 +13,7 @@ Special sponsors
 
    * - Logo
      - Notes
-   * - .. figure:: /static/qgis_governance/sponsorship/abac_logo.png
+   * - .. figure:: /static/site/getinvolved/governance/sponsorship/abac_logo.png
         :align: center
         :width: 6 cm
         :alt: GFOSS.it
@@ -23,7 +23,7 @@ Special sponsors
         (at around 1,500 Euros annually) and project administration support in
         the form of financial services. Visit GFOSS.it for more information
         about the work they do (site mainly in Italian).
-   * - .. figure:: /static/qgis_governance/sponsorship/osgeo.png
+   * - .. figure:: /static/site/getinvolved/governance/sponsorship/osgeo.png
         :align: center
         :width: 6 cm
         :alt: OSGeo
@@ -42,27 +42,27 @@ Special sponsors
    * - Logo
      - Type
      - Notes
-   * -  .. figure:: /static/qgis_governance/sponsorship/logo_sogis.gif 
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/logo_sogis.gif 
            :width: 6 cm
            :alt: Kanton Solothurn
      - **Silver**
      - Kanton Solothurn, Switzerland (10.2012) http://www.agi.so.ch/
-   * -  .. figure:: /static/qgis_governance/sponsorship/fossgisev.png
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/fossgisev.png
            :width: 6 cm
            :alt: FOSSGIS e.V.
      - **Bronze**
      - FOSSGIS e.V., Germany (8.2012) http://www.fossgis.de/
-   * -  .. figure:: /static/qgis_governance/sponsorship/argus.jpg
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/argus.jpg
            :width: 6 cm
            :alt: Argusoft
      - **Bronze**
      - Argusoft, Germany (6.2012) http://www.argusoft.de/
-   * -  .. figure:: /static/qgis_governance/sponsorship/GeoSynergy.jpg
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/GeoSynergy.jpg
            :width: 6 cm
            :alt: GeoSynergy
      - **Bronze**
      - GeoSynergy, Australia (5.2012) http://www.geosynergy.com.au/
-   * -  .. figure:: /static/qgis_governance/sponsorship/ibW_BZWM.png
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/ibW_BZWM.png
            :width: 6 cm
            :alt: ibW Bildungszentrum Wald
      - **Bronze**
@@ -82,22 +82,22 @@ Special sponsors
    * - Logo
      - Type
      - Notes
-   * -  .. figure:: /static/qgis_governance/sponsorship/logo_sogis.gif 
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/logo_sogis.gif 
            :width: 6 cm
            :alt: Kanton Solothurn
      - **Silver**
      - Kanton Solothurn, Switzerland (4.2011) http://www.agi.so.ch/
-   * -  .. figure:: /static/qgis_governance/sponsorship/vorarlberg.jpg
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/vorarlberg.jpg
            :width: 6 cm
            :alt: Vorarlberg
      - **Silver**
      - State of Vorarlberg , Austria (11.2011) http://www.vorarlberg.at/
-   * -  .. figure:: /static/qgis_governance/sponsorship/uster.gif
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/uster.gif
            :width: 6 cm
            :alt: Uster
      - **Bronze**
      - City of Uster , Switzerland (11.2011) http://gis.uster.ch/
-   * -  .. figure:: /static/qgis_governance/sponsorship/Municipia-EM-SA-letring-Cinzento.jpg
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/Municipia-EM-SA-letring-Cinzento.jpg
            :width: 6 cm
            :alt: Municipia
      - **Bronze**
@@ -117,12 +117,12 @@ Special sponsors
    * - Logo
      - Type
      - Notes
-   * -  .. figure:: /static/qgis_governance/sponsorship/gfosservices.jpg
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/gfosservices.jpg
            :width: 6 cm
            :alt: Studio Associato Gfosservices
      - **Bronze**
      - Studio Associato Gfosservices, Italy (2.2010) http://www.gfosservices.com/
-   * -  .. figure:: /static/qgis_governance/sponsorship/nextgis.gif
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/nextgis.gif
            :width: 6 cm
            :alt: NextGIS
      - **Bronze**

@@ -14,7 +14,7 @@ categories, of support contractors.
 Core contributors
 -----------------
 
-.. |3liz| image:: /static/website/about/images/3liz.png
+.. |3liz| image:: /static/site/about/images/3liz.png
    :height: 80 px
 
 |3liz| `3liz <http://www.3liz.com/>`_ (based in France) offers a full range of
@@ -26,7 +26,7 @@ and consulting on QGIS.
 
 ----
 
-.. |bernaweb| image:: /static/website/about/images/bernaweb.png
+.. |bernaweb| image:: /static/site/about/images/bernaweb.png
    :width: 160 px
 
 |bernaweb| `bernawebdesign <http://bernawebdesign.ch/>`_ (Switzerland) provides
@@ -34,7 +34,7 @@ commercial support, training and programming for QGIS and QGIS on Android.
 
 ----
 
-.. |faunalia| image:: /static/website/about/images/faunalia.png
+.. |faunalia| image:: /static/site/about/images/faunalia.png
    :height: 80 px
 
 |faunalia| `Faunalia <http://www.faunalia.eu/>`_ (based in Italy, Portugal, and
@@ -43,7 +43,7 @@ training, and commercial support for QGIS, GRASS, GDAL/OGR, and PostgreSQL/PostG
 
 ----
 
-.. |gbd-consult| image:: /static/website/about/images/gbd-consult.png
+.. |gbd-consult| image:: /static/site/about/images/gbd-consult.png
    :width: 160 px
 
 |gbd-consult| `GBD-consult <http://www.gbd-consult.de/>`_ (based in Düsseldorf,
@@ -52,7 +52,7 @@ and other FOSS applications.
 
 ----
 
-.. |linfin| image:: /static/website/about/images/linfin.jpg
+.. |linfin| image:: /static/site/about/images/linfin.jpg
    :width: 160 px
 
 |linfin| `Linfiniti Consulting <http://linfiniti.com/>`_ (based in Swellendam,
@@ -60,7 +60,7 @@ South Africa), we provide commercial support and training for QGIS and GRASS.
 
 ----
 
-.. |nextgis| image:: /static/website/about/images/nextgis.gif
+.. |nextgis| image:: /static/site/about/images/nextgis.gif
    :width: 160 px
 
 |nextgis| `NextGIS <http://nextgis.org/>`_ (based in Moscow, Russia) provides
@@ -68,7 +68,7 @@ commercial support, custom programming and training for QGIS, PostGIS and GRASS.
 
 ----
 
-.. |norbit| image:: /static/website/about/images/norbit.png
+.. |norbit| image:: /static/site/about/images/norbit.png
    :width: 75 px
 
 |norbit| `norBIT GmbH <http://www.norbit.de/64>`_ (based in Norden, Germany)
@@ -76,7 +76,7 @@ provides commercial support and custom programming for QGIS.
 
 ----
 
-.. |oslandia| image:: /static/website/about/images/oslandia.png
+.. |oslandia| image:: /static/site/about/images/oslandia.png
    :height: 80 px
 
 |oslandia| `Oslandia <http://www.oslandia.com/?page_id=20>`_ (based in France)
@@ -85,7 +85,7 @@ development and consulting, namely on QGIS and PostGIS.
 
 ----
 
-.. |sourcepole| image:: /static/website/about/images/sourcepole.gif
+.. |sourcepole| image:: /static/site/about/images/sourcepole.gif
    :width: 151 px
 
 |sourcepole| `Sourcepole <http://www.sourcepole.com/>`_ (based in Zurich,
@@ -99,7 +99,7 @@ developments for QGIS.
 Contributors
 ------------
 
-.. |cartoexpert| image:: /static/website/about/images/cartoexpert.gif
+.. |cartoexpert| image:: /static/site/about/images/cartoexpert.gif
    :width: 75 px
 
 |cartoexpert| `Cartoexpert <http://www.cartoexpert.com/index.php/formations/qgis-formation-quantum-gis.html>`_
@@ -107,7 +107,7 @@ Contributors
 
 ----
 
-.. |camptocamp| image:: /static/website/about/images/camptocamp.png
+.. |camptocamp| image:: /static/site/about/images/camptocamp.png
    :width: 140 px
 
 |camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-solutions>`_ is
@@ -117,7 +117,7 @@ expertise.
 
 ----
 
-.. |dms| image:: /static/website/about/images/dms.gif
+.. |dms| image:: /static/site/about/images/dms.gif
    :width: 140 px
 
 |dms| `Digital Mapping Solutions <http://www.mapsolutions.com.au/>`_ (based in
@@ -127,7 +127,7 @@ advantage of your GIS investment.
 
 ----
 
-.. |gaia3d| image:: /static/website/about/images/gaia3d.png
+.. |gaia3d| image:: /static/site/about/images/gaia3d.png
    :width: 140 px
 
 |gaia3d| `Gaia3D, Inc. <http://www.gaia3d.com/>`_ (based in South Korea) is a
@@ -137,7 +137,7 @@ OpenLayers
 
 ----
 
-.. |itopen| image:: /static/website/about/images/itopen.png
+.. |itopen| image:: /static/site/about/images/itopen.png
    :width: 140 px
 
 |itopen| `IT Open <http://www.itopen.it/>`_ (based in Luserna san Giovanni (TO)
@@ -145,7 +145,7 @@ Italy) provides IT Solutions for free companies.
 
 ----
 
-.. |lutra_consulting| image:: /static/website/about/images/lutra_consulting.png
+.. |lutra_consulting| image:: /static/site/about/images/lutra_consulting.png
    :width: 86 px
 
 |lutra_consulting| `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ (based
@@ -154,7 +154,7 @@ for QGIS.
 
 ----
 
-.. |wmlogo| image:: /static/website/about/images/wmlogo.jpg
+.. |wmlogo| image:: /static/site/about/images/wmlogo.jpg
    :width: 140 px
 
 |wmlogo| `Webmapper <http://www.webmapper.nl/>`_ (Based in Utrecht, The
@@ -164,7 +164,7 @@ services in the fields of web cartography and GIS.
 Others
 ------
 
-.. |astun| image:: /static/website/about/images/astun.jpg
+.. |astun| image:: /static/site/about/images/astun.jpg
    :width: 120 px
 
 |astun| `Astun Technology <http://astuntechnology.com/>`_ (based in UK) provides
@@ -172,7 +172,7 @@ training for QGIS.
 
 ----
 
-.. |agx| image:: /static/website/about/images/agx.gif
+.. |agx| image:: /static/site/about/images/agx.gif
    :width: 120 px
 
 |agx| `AdventGX <http://www.adventgx.com/>`_ (based in College Station, TX)
@@ -180,7 +180,7 @@ provides installation, training, and implementation support for QGIS.
 
 ----
 
-.. |bev| image:: /static/website/about/images/bev.gif
+.. |bev| image:: /static/site/about/images/bev.gif
    :width: 120 px
 
 |bev| `Bird's Eye View GIS <http://www.adventgx.com/>`_ (Based in Albuquerque,
@@ -189,7 +189,7 @@ GRASS GIS and other FOSS GIS applications.
 
 ----
 
-.. |gis3w| image:: /static/website/about/images/gis3w.png
+.. |gis3w| image:: /static/site/about/images/gis3w.png
    :width: 120 px
 
 |gis3w| `GIS3W <http://www.gis3w.it/>`_ (based in Italy) provide geographic and
@@ -197,7 +197,7 @@ ecological analysis services and support and assistance with QGIS.
 
 ----
 
-.. |karttakeskus| image:: /static/website/about/images/karttakeskus.png
+.. |karttakeskus| image:: /static/site/about/images/karttakeskus.png
    :width: 120 px
 
 |karttakeskus| `Karttakeskus <http://www.karttakeskus.fi/>`_ (based in Finland)
@@ -205,7 +205,7 @@ provides commercial support and training for QGIS and open spatial data.
 
 ----
 
-.. |imt| image:: /static/website/about/images/imt.png
+.. |imt| image:: /static/site/about/images/imt.png
    :width: 120 px
 
 |imt| `The Institute For Mapping Technology <http://learninggis.com/>`_ (based
@@ -213,7 +213,7 @@ in Austin, TX) provides support and training for QGIS and PostGIS.
 
 ----
 
-.. |ngnuity| image:: /static/website/about/images/ngnuity.png
+.. |ngnuity| image:: /static/site/about/images/ngnuity.png
    :width: 120 px
 
 |ngnuity| `nGNUity.net- <http://ngnuity.net/>`_ FOSS advocate from the Philippines
@@ -224,7 +224,7 @@ services using the Open Data Kit / KoBo Toolbox software stack.
 
 ----
 
-.. |northriver| image:: /static/website/about/images/northriver.jpg
+.. |northriver| image:: /static/site/about/images/northriver.jpg
    :width: 60 px
 
 |northriver| `North River Geographic Systems, Inc <http://www.northrivergeographic.com/>`_
@@ -234,7 +234,7 @@ support, cartography, and data analysis.
 
 ----
 
-.. |sungis| image:: /static/website/about/images/sungis.png
+.. |sungis| image:: /static/site/about/images/sungis.png
    :width: 85 px
 
 |sungis| `SunGIS <http://www.sungis.lv/>`_ (based in Valmiera, Latvia) provides
@@ -243,7 +243,7 @@ GRASS GIS and FOSS GIS based SDI solutions.
 
 ----
 
-.. |terrestris| image:: /static/website/about/images/terrestris.png
+.. |terrestris| image:: /static/site/about/images/terrestris.png
    :width: 75 px
 
 |terrestris| `Terrestris <http://www.terrestris.de/dienstleistungen/schulungen/>`_
