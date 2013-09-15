@@ -182,12 +182,6 @@ submitting patches and suggestions.
 The number of Contributors to the project is unbounded. Get involved today.
 All contributions to the project are greatly appreciated.
 
-The following individuals are recognised as Project Committers and have full
-commit access to the
+This `individuals <https://github.com/qgis/Quantum-GIS/graphs/contributors>`_ 
+are recognised as Project Committers and have full commit access to the
 `github repository <https://github.com/qgis/Quantum-GIS>`_.
-
-.. csv-table::
-   :header: "Name", "Email", "github Id"
-   :widths: 30, 25, 15
-
-   "Garry ", "kimballa@apache.org", "kimballa"
