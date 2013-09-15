@@ -33,6 +33,7 @@ help:
 	@echo "  fullhtml     to pull QGIS-Documentation from github and build into the website"
 	@echo "  all          to create the website for ALL available languages"
 	@echo "  clean        to clean up all intermediate files"
+	@echo "  springclean  to also remove build output besides normal clean"
 	@echo "  createlang   to create (mostly directories) for a new language"
 	@echo "  pretranslate to gather all strings from sources, put in .pot files"
 	@echo "                  AND merge them with available .po files"
@@ -62,10 +63,12 @@ help:
 #	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 
 clean:
-	rm -rf $(BUILDDIR)/*
 	rm -rf $(SOURCEDIR)/static
 	rm -rf i18n/*/LC_MESSAGES/docs/*/
 	rm -f $(SOURCEDIR)/docs_conf.py
+
+springclean: clean
+	rm -rf $(BUILDDIR)/*
 
 # remove all resources from source/static directory
 # copy english resources from resources/en to source/static directory
