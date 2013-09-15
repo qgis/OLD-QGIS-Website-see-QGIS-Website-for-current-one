@@ -70,6 +70,7 @@ localizeresources: clean
 	cp -r $(RESOURCEDIR)/en/* $(SOURCEDIR)/static
 	@echo "Copy localized '$(LANG)' static content to $(SOURCEDIR)/static."
 	cp -r $(RESOURCEDIR)/$(LANG)/* $(SOURCEDIR)/static
+	pwd
 	scripts/pulldocsources.sh $(LANGUAGES)
 
 pretranslate: gettext

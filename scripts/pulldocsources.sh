@@ -36,8 +36,10 @@ for LANG in ${LANGUAGES}
 do
     # copy sources of documentation into website source tree
     echo "Copying sources for '${LANG}' into website source tree"
-    cp -r ext/$QGIS_DOC_DIR/source/docs source/docs
+    # we do NOT want the index.rst and index.po from the docs to override 
+    # those from website that is why we doe /*/ (we skip files in docs root)
+    cp -r ext/$QGIS_DOC_DIR/source/docs/*/ source/docs
     echo "Copying resources/images and translations for '${LANG}' into website source tree"
-    cp -r ext/$QGIS_DOC_DIR/resources/${LANG} resources/${LANG}
-    cp -r ext/$QGIS_DOC_DIR/i18n/${LANG} i18n/${LANG}
+    cp -r ext/$QGIS_DOC_DIR/resources/${LANG}/docs resources/${LANG}
+    cp -r ext/$QGIS_DOC_DIR/i18n/${LANG}/LC_MESSAGES/docs/*/ i18n/${LANG}/LC_MESSAGES
 done
