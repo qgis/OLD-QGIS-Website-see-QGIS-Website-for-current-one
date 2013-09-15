@@ -41,5 +41,6 @@ do
     cp -r ext/$QGIS_DOC_DIR/source/docs/*/ source/docs
     echo "Copying resources/images and translations for '${LANG}' into website source tree"
     cp -r ext/$QGIS_DOC_DIR/resources/${LANG}/docs resources/${LANG}
-    cp -r ext/$QGIS_DOC_DIR/i18n/${LANG}/LC_MESSAGES/docs/*/ i18n/${LANG}/LC_MESSAGES
+    mkdir -p i18n/${LANG}/LC_MESSAGES/docs
+    cp -r ext/$QGIS_DOC_DIR/i18n/${LANG}/LC_MESSAGES/docs/*/ i18n/${LANG}/LC_MESSAGES/docs
 done

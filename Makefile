@@ -54,6 +54,7 @@ help:
 clean:
 	rm -rf $(BUILDDIR)/*
 	rm -rf $(SOURCEDIR)/static
+	rm -rf i18n/*/LC_MESSAGES/docs/*/
 
 # remove all resources from source/static directory
 # copy english resources from resources/en to source/static directory
@@ -70,7 +71,6 @@ localizeresources: clean
 	cp -r $(RESOURCEDIR)/en/* $(SOURCEDIR)/static
 	@echo "Copy localized '$(LANG)' static content to $(SOURCEDIR)/static."
 	cp -r $(RESOURCEDIR)/$(LANG)/* $(SOURCEDIR)/static
-	pwd
 	scripts/pulldocsources.sh $(LANGUAGES)
 
 pretranslate: gettext
