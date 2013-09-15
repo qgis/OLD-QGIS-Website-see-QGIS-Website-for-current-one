@@ -27,9 +27,19 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) i18n/pot
 .PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext
 
 help:
-	@echo "Please use \`make <target>' where <target> is one of"
-	@echo "  html       to make standalone HTML files"
-	@echo "  gettext    to make PO message catalogs"
+	@echo "  "
+	@echo "Please use \`make <target>' where <target> is one of:"
+	@echo "  html         to build the website as html for enlish only"
+	@echo "  fullhtml     to pull QGIS-Documentation from github and build into the website"
+	@echo "  all          to create the website for ALL available languages"
+	@echo "  clean        to clean up all intermediate files"
+	@echo "  createlang   to create (mostly directories) for a new language"
+	@echo "  pretranslate to gather all strings from sources, put in .pot files"
+	@echo "                  AND merge them with available .po files"
+	@echo "  "
+	@echo "OPTION: use LANG=xx to do it only for one language, eg: make html LANG=de"
+	@echo "  "
+#	@echo "  gettext    to make PO message catalogs"
 #	@echo "  dirhtml    to make HTML files named index.html in directories"
 #	@echo "  singlehtml to make a single large HTML file"
 #	@echo "  pickle     to make pickle files"
@@ -76,6 +86,8 @@ localizeresources: clean
 	@echo "Copy localized '$(LANG)' static content to $(SOURCEDIR)/static."
 	cp -r $(RESOURCEDIR)/$(LANG)/site $(SOURCEDIR)/static
 	cp -r $(RESOURCEDIR)/$(LANG)/docs/* $(SOURCEDIR)/static
+
+pulldocsources:
 	scripts/pulldocsources.sh $(LANGUAGES)
 
 pretranslate: gettext
@@ -88,12 +100,7 @@ html: localizeresources
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
 
-gettext:
-	# be sure to remove possible available docs sources:
-	rm -rf $(SOURCEDIR)/docs/*/
-	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS)
-	@echo
-	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale."
+fullhtml: pulldocsources html
 
 all:
 	@echo
@@ -109,6 +116,13 @@ createlang:
 	mkdir -p resources/${LANG}
 	cp resources/de/README resources/${LANG}
 	cp i18n/de/README i18n/${LANG}
+
+gettext:
+	# be sure to remove possible available docs sources:
+	rm -rf $(SOURCEDIR)/docs/*/
+	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS)
+	@echo
+	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale."
 
 ################################################################################
 #

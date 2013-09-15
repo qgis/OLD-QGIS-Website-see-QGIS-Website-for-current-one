@@ -3,6 +3,11 @@
 
 # to be run from the root directory
 # scripts/pulldocsources.sh
+# it will pull documentation sources from Gith
+# and copy sources, images and translations for 'en' and 'de' into the source dir
+# you can also call it with a spaceseparted list of languages
+# scripts/pulldocsources.sh en de it nl
+# then only those images will be handled
 
 QGIS_DOC_DIR='QGIS-Documentation'
 QGIS_DOC_BRANCH='master'
