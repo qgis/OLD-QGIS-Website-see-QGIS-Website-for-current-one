@@ -1,3 +1,12 @@
+<section class="info">
+    <div class="container">
+        <h1>{{ _('QGIS') }}</h1>
+
+        <h3>
+            {{ _('A Free and Open Source Geographic Information System') }}
+        </h3>
+    </div>
+</section>
 <section class="slideshow">
     <div class="container" id="carouselBox">
 
@@ -74,18 +83,14 @@
 
 <section class="info">
     <div class="container">
-        <h1>{{ _('QGIS') }}</h1>
-        <h3>
-            {{ _('A Free and Open Source Geographic Information System.') }}
-        </h3>
         <h5>
             {{ _('Create, edit, visualise, analyse and publish geospatial
-            information on Windows, Mac, Linux, BSD (and Android coming soon!).') }}
+            information on Windows, Mac, Linux, BSD (Android coming soon)') }}
         </h5>
-        <p class="muted">{{ _('For Windows, Mac, Linux, BSD (and Android coming soon!)')
-            }}</p>
-        <h5>
-            {{ _('Desktop, Server, Web and as developer libraries.') }}
+        <h5 class="muted">
+            {{ _('For your desktop, server, in your web browser and as
+            developer libraries')
+            }}
         </h5>
         <p><a href="{{ pathto('site/forusers/download') }}" class="btn btn-large btn-success btn-flat">{{ _('Download Now') }}</a></p>
         <p class="muted">{{ _('Version 2.0.0 Dufour') }}</p>
