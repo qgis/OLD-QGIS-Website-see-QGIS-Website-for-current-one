@@ -85,10 +85,16 @@ localizeresources: clean
 	# historically the images for the docs sub project are not in a separate docs folder
 	# that is why we copy site (to site) and docs/* into root in separate steps
 	cp -r $(RESOURCEDIR)/en/site $(SOURCEDIR)/static
-	cp -r $(RESOURCEDIR)/en/docs/* $(SOURCEDIR)/static
+	@if [ -d "$(RESOURCEDIR)/en/docs" ]; then \
+		cp -r $(RESOURCEDIR)/en/docs/* $(SOURCEDIR)/static; \
+	fi
 	@echo "Copy localized '$(LANG)' static content to $(SOURCEDIR)/static."
-	cp -r $(RESOURCEDIR)/$(LANG)/site $(SOURCEDIR)/static
-	cp -r $(RESOURCEDIR)/$(LANG)/docs/* $(SOURCEDIR)/static
+	@if [ -d "$(RESOURCEDIR)/$(LANG)/site" ]; then \
+		cp -r $(RESOURCEDIR)/$(LANG)/site $(SOURCEDIR)/static; \
+	fi
+	@if [ -d "$(RESOURCEDIR)/$(LANG)/docs" ]; then \
+		cp -r $(RESOURCEDIR)/$(LANG)/docs/* $(SOURCEDIR)/static; \
+	fi
 
 pulldocsources:
 	scripts/pulldocsources.sh $(LANGUAGES)
