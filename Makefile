@@ -2,7 +2,7 @@
 #
 
 # You can set these variables from the command line
-LANGUAGES     = en nl ja
+LANGUAGES     = en nl ja de it zh_CH
 LANG          = en
 SPHINXBUILD   = sphinx-build
 SPHINXINTL    = sphinx-intl
@@ -95,11 +95,12 @@ all:
 		make LANG=$$LANG html; \
 	done
 
-lang:
+createlang:
 	@echo Creating a new Language: $(LANG)
 	mkdir -p i18n/${LANG}
 	mkdir -p resources/${LANG}
 	cp resources/de/README resources/${LANG}
+	cp i18n/de/README i18n/${LANG}
 
 ################################################################################
 #
