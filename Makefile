@@ -102,7 +102,7 @@ html: localizeresources
 
 fullhtml: pulldocsources html
 
-all:
+all: pulldocsources
 	@echo
 	@echo Building html for the following languages: $(LANGUAGES)
 	@echo
