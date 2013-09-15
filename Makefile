@@ -68,9 +68,13 @@ localizeresources: clean
 	rm -rf $(SOURCEDIR)/static
 	@echo "Copy 'en' (base) static content to $(SOURCEDIR)/static."
 	mkdir $(SOURCEDIR)/static
-	cp -r $(RESOURCEDIR)/en/* $(SOURCEDIR)/static
+	# historically the images for the docs sub project are not in a separate docs folder
+	# that is why we copy site (to site) and docs/* into root in separate steps
+	cp -r $(RESOURCEDIR)/en/site $(SOURCEDIR)/static
+	cp -r $(RESOURCEDIR)/en/docs/* $(SOURCEDIR)/static
 	@echo "Copy localized '$(LANG)' static content to $(SOURCEDIR)/static."
-	cp -r $(RESOURCEDIR)/$(LANG)/* $(SOURCEDIR)/static
+	cp -r $(RESOURCEDIR)/$(LANG)/site $(SOURCEDIR)/static
+	cp -r $(RESOURCEDIR)/$(LANG)/docs/* $(SOURCEDIR)/static
 	scripts/pulldocsources.sh $(LANGUAGES)
 
 pretranslate: gettext
