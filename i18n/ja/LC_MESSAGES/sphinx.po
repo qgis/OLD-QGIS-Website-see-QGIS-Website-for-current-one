@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 2.0\n"
@@ -48,10 +48,10 @@ msgstr "サポートチャンネルへ参加する"
 #: ../../themes/qgis-theme/getinvolved_index.html:58
 msgid ""
 "There are several QGIS mailing lists, IRC channels, forums and user groups "
-"you can use to get help from fellow users and developers, or to keep up with"
-" current project events. You are welcome to subscribe to any of the lists. "
-"Please remember to contribute to the list by answering questions and sharing"
-" your experiences. We also provide a website to search the mailing list "
+"you can use to get help from fellow users and developers, or to keep up with "
+"current project events. You are welcome to subscribe to any of the lists. "
+"Please remember to contribute to the list by answering questions and sharing "
+"your experiences. We also provide a website to search the mailing list "
 "archives."
 msgstr ""
 "QGISコミュニティには多くのメーリングリストがあります。IRCチャンネル、フォーラム、ユーザーグループなどを通じて、熟練者や開発者からのヘルプを得たり、進行中のプロジェクトやイベントについての最新の情報を得ることができます。是非お好きなリストを購読して下さい。そして、質問に応えたり、あなたの経験を共有することで、メーリングリストに貢献してもらえると助かります。また、ウェブサイトからメーリングリストの検索も行うことができます。"
@@ -65,8 +65,8 @@ msgid ""
 "The QGIS project provides a gentle GIS introduction, a User Guide, a Coding "
 "and Compilation Guide and a API Documentation in english and in some cases "
 "also translated into several foreign languages. If you are interested in "
-"getting involved with the documentation effort, e.g. translating the english"
-" manual into another language, learn how to get started here:"
+"getting involved with the documentation effort, e.g. translating the english "
+"manual into another language, learn how to get started here:"
 msgstr ""
 "QGISプロジェクトでは、親切なGISの解説を提供しています。ユーザーガイド、コーディングや編集のガイド、APIドキュメントなどで、英語だけでなく中には翻訳されたガイドも存在します。もしあなたがこのドキュメンテーション作業(例えば英語のマニュアルを他の言語に翻訳するなど)への参加に興味がある場合、ここから参加方法を知ることができます。"
 
@@ -176,8 +176,7 @@ msgid ""
 "was released in Septeber 2013."
 msgstr ""
 "QGISは、Windows、MacOS X、Linux そして Android "
-"版があります。カレントバージョンはバイナリパッケージで提供しています。カレントバージョンは QGIS 2.0.0 "
-"で、2013年9月にリリースされました。"
+"版があります。カレントバージョンはバイナリパッケージで提供しています。カレントバージョンは QGIS 2.0.0 で、2013年9月にリリースされました。"
 
 #: ../../themes/qgis-theme/forusers_download.html:6
 msgid "Plugins for QGIS are also available "
@@ -296,8 +295,8 @@ msgstr "Android 版のダウンロード"
 
 #: ../../themes/qgis-theme/forusers_download.html:108
 msgid ""
-"Alpha and nightly builds for Android as well as further documentation can be"
-" obtained at "
+"Alpha and nightly builds for Android as well as further documentation can be "
+"obtained at "
 msgstr "Alpha 及び nightly build 版、及び追加のドキュメントを次のリンクから入手できます。"
 
 #: ../../themes/qgis-theme/forusers_download.html:115
@@ -342,8 +341,8 @@ msgstr "注意:"
 
 #: ../../themes/qgis-theme/forusers_download.html:122
 msgid ""
-"Development versions from master are provided for some platforms in addition"
-" to the released version. Master contains unreleased software that is "
+"Development versions from master are provided for some platforms in addition "
+"to the released version. Master contains unreleased software that is "
 "currently being worked on. As such they are unsupported and only provided "
 "for testing purposes to early adopters to check if bugs have been resolved "
 "and that no new bugs have been introduced. At any given time it may not "
@@ -366,8 +365,7 @@ msgstr "QGISのソースコードは GitHub から入手できます。"
 #: ../../themes/qgis-theme/forusers_download.html:131
 msgid ""
 ". Refer to the INSTALL guide for setting up the latest QGIS from source."
-msgstr ""
-". Refer to the INSTALL guide for setting up the latest QGIS from source."
+msgstr "最新のQGISをソースコードからセットアップするには、INSTALLガイドを参照してください。"
 
 #: ../../themes/qgis-theme/about_index.html:8
 msgid ""
@@ -413,8 +411,8 @@ msgid ""
 "database formats and functionalities."
 msgstr ""
 "QGISは、GNU General Public License で提供されている、ユーザーフレンドリーなオープンソースの Geographic "
-"Information System (GIS) です。QGIS は、Open Source Geospatial Foundation (OSGeo)"
-" のオフィシャルプロジェクトで、Lunux, Unix, Mac OSX, Windows, Andoid "
+"Information System (GIS) です。QGIS は、Open Source Geospatial Foundation (OSGeo) "
+"のオフィシャルプロジェクトで、Lunux, Unix, Mac OSX, Windows, Andoid "
 "で動作し、数多くのベクター、ラスター、データベースフォーマットや機能をサポートしています。"
 
 #: ../../themes/qgis-theme/about_index.html:57
@@ -434,8 +432,8 @@ msgstr "機能"
 #: ../../themes/qgis-theme/about_index.html:69
 #: ../../themes/qgis-theme/forusers_index.html:119
 msgid ""
-"QGIS provides a continously grow-fluiding number of capabilities provided by"
-" core functions and plugins. You can visualize, manage, edit, analyse data, "
+"QGIS provides a continously grow-fluiding number of capabilities provided by "
+"core functions and plugins. You can visualize, manage, edit, analyse data, "
 "and compose printable maps. Get a first impression with a more detailed "
 "feature list."
 msgstr ""
@@ -480,14 +478,14 @@ msgid ""
 "code contributions, bug fixes, bug reports, contributed documentation, "
 "advocacy and supporting other users on our mailing lists and "
 "gis.stackexchange.com. If you are interested in actively supporting the "
-"project, you can find more information under the development menu and on the"
-" QGIS Wiki. We also welcome financial contributions in the form of "
-"sponsoring and funding."
+"project, you can find more information under the development menu and on the "
+"QGIS Wiki. We also welcome financial contributions in the form of sponsoring "
+"and funding."
 msgstr ""
-"QGISはボランティアにより進められているプロジェクトです。私達はコードを書くこと、バグを修正すること、バグをレポートすること、ドキュメンテーションを書くこと、メーリングリストや"
-" gis.stackexchange.com "
-"などで他のユーザーを導き、サポートすることなどによる貢献を歓迎しています。もしあなたがプロジェクトを積極的にサポートすることに興味がある場合、DevelopmenメニューやQGIS"
-" Wikiから追加の情報を知ることができます。私達はまた、スポンサーシップや寄付などからなる、金銭的な貢献も歓迎しています。"
+"QGISはボランティアにより進められているプロジェクトです。私達はコードを書くこと、バグを修正すること、バグをレポートすること、ドキュメンテーションを書くこと、メーリングリストや "
+"gis.stackexchange.com "
+"などで他のユーザーを導き、サポートすることなどによる貢献を歓迎しています。もしあなたがプロジェクトを積極的にサポートすることに興味がある場合、DevelopmenメニューやQGIS "
+"Wikiから追加の情報を知ることができます。私達はまた、スポンサーシップや寄付などからなる、金銭的な貢献も歓迎しています。"
 
 #: ../../themes/qgis-theme/about_index.html:114
 msgid "Organizations that support QGIS"
@@ -502,8 +500,8 @@ msgstr "商用サポート"
 #: ../../themes/qgis-theme/about_index.html:131
 msgid ""
 "Do you plan to use QGIS in your company or organization, but worry about "
-"whether there is commercial support available? Here is an alphabetical list,"
-" divided in categories, of support contractors."
+"whether there is commercial support available? Here is an alphabetical list, "
+"divided in categories, of support contractors."
 msgstr ""
 "QGISをあなたの会社や組織で使おうとしていて、商用サポートがあるか心配していますか？こちらに、カテゴリー毎に分かれた、アルファベット順のリストがあります。"
 
@@ -549,8 +547,7 @@ msgid "Global Flight Paths - Europe"
 msgstr "グローバフライト航路 - ヨーロッパ"
 
 #: ../../themes/qgis-theme/index.html:61
-msgid ""
-"Map created using QGIS 2.0 Print Composer and blending modes feature..."
+msgid "Map created using QGIS 2.0 Print Composer and blending modes feature..."
 msgstr "QGIS 2.0 のプリントコンポーザーのブレンディングモード機能を使って作られた地図..."
 
 #: ../../themes/qgis-theme/index.html:70
@@ -560,8 +557,8 @@ msgstr ""
 
 #: ../../themes/qgis-theme/index.html:72
 msgid ""
-"One of the new great features in the upcoming QGIS 2.0 is the ability to use"
-" data defined symbology and labelling..."
+"One of the new great features in the upcoming QGIS 2.0 is the ability to use "
+"data defined symbology and labelling..."
 msgstr "最新のQGIS2.0の素晴らしい機能の一つは、データによって定義された描画方法やラベリング機能です"
 
 #: ../../themes/qgis-theme/index.html:3
@@ -624,8 +621,8 @@ msgstr "ギャラリー"
 
 #: ../../themes/qgis-theme/index.html:161
 msgid ""
-"Check out images and videos of interesting maps and projects from the Global"
-" QGIS Community."
+"Check out images and videos of interesting maps and projects from the Global "
+"QGIS Community."
 msgstr "グローバルなQGISコミュニティからの興味深い地図の画像やビデオをチェックする"
 
 #: ../../themes/qgis-theme/index.html:170
@@ -660,20 +657,20 @@ msgstr "ページ"
 
 #: ../../themes/qgis-theme/page.html:25
 msgid ""
-"All content is licensed under <a href=\"http://creativecommons.org/licenses"
-"/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-"
-"SA)</a>."
+"All content is licensed under <a "
+"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
+"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>."
 msgstr ""
-"全てのコンテンツは<a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative"
-" Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a> の元提供されています。"
+"全てのコンテンツは<a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative "
+"Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a> の元提供されています。"
 
 #: ../../themes/qgis-theme/page.html:28
 msgid ""
 "Select graphics from <a href=\"http://thenounproject.com\" "
 "target=\"_blank\">The Noun Project collection</a>."
 msgstr ""
-"画像は <a href=\"http://thenounproject.com\" target=\"_blank\">The Noun Project"
-" collection</a> から選択しました"
+"画像は <a href=\"http://thenounproject.com\" target=\"_blank\">The Noun Project "
+"collection</a> から選択しました"
 
 #: ../../themes/qgis-theme/page.html:96
 msgid "Discover QGIS"
@@ -695,8 +692,8 @@ msgid ""
 "developers and supporters. To learn more there is a wealth of guides, "
 "tutorials, documentation and Planet QGIS blogs."
 msgstr ""
-"QGISは情熱的なユーザー、開発者、サポーター達による国際的なサポートコミュニティを持っています。豊富なガイド、チュートリアル、ドキュメント、Planet"
-" QGISブログなどを通じて、詳細を入手できます。"
+"QGISは情熱的なユーザー、開発者、サポーター達による国際的なサポートコミュニティを持っています。豊富なガイド、チュートリアル、ドキュメント、Planet "
+"QGISブログなどを通じて、詳細を入手できます。"
 
 #: ../../themes/qgis-theme/forusers_index.html:28
 msgid "Download"
@@ -734,8 +731,7 @@ msgstr "プラグインを入手する"
 msgid ""
 "QGIS has been designed with a plugin architecture. This allows many new "
 "features/functions to be easily added to the application."
-msgstr ""
-"QGISはプラグインアーキテクチャで設計されています。これにより、数多くの新たな特徴や機能を容易にアプリケーションに追加することができます。"
+msgstr "QGISはプラグインアーキテクチャで設計されています。これにより、数多くの新たな特徴や機能を容易にアプリケーションに追加することができます。"
 
 #: ../../themes/qgis-theme/forusers_index.html:77
 msgid ""
@@ -773,8 +769,8 @@ msgstr "QIGSの特徴について学ぶ"
 #: ../../themes/qgis-theme/forusers_index.html:135
 msgid ""
 "There are several QGIS mailing lists, IRC channels, forums and user groups "
-"you can use to get help from fellow users and developers. You are welcome to"
-" subscribe to any of the lists."
+"you can use to get help from fellow users and developers. You are welcome to "
+"subscribe to any of the lists."
 msgstr ""
 "QGISの様々なメーリングリスト、IRCチャンネル、フォーラム、ユーザーグループを通じて、先進的なユーザーや開発者から助けを得ることができます。どのメーリングリストも自由に購読することができます。"
 
@@ -827,35 +823,37 @@ msgid ""
 "Create, edit, visualise, analyse and publish geospatial\n"
 "            information on Windows, Mac, Linux, BSD (Android coming soon)"
 msgstr ""
+"地理空間情報の作成、編集、可視化、分析、そして公開。Windows、Mac、Linux、BSD対応。（Android coming soon）"
 
 #: ../../themes/qgis-theme/index.html:91
 msgid ""
 "For your desktop, server, in your web browser and as\n"
 "            developer libraries"
-msgstr ""
+msgstr "デスクトップ、サーバ、ウェブブラウザー、開発者要用ライブラリ用として利用できます"
 
 #: ../../themes/qgis-theme/about_index.html:7
 msgid "Discover what makes QGIS the leading Open Source desktop GIS"
-msgstr ""
+msgstr "QGISがオープンソースのデスクトップGISをリードしている理由"
 
 #: ../../themes/qgis-theme/forusers_index.html:7
 msgid "Resources for<br>learning QGIS"
-msgstr ""
+msgstr "QGISを学ぶための情報"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:8
 msgid "Get involved with the QGIS community"
-msgstr ""
+msgstr "QGISコミュニティに参加する"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:9
 msgid ""
 "QGIS is developed by a team of dedicated\n"
 "                    volunteers and organisations."
-msgstr ""
+msgstr "QGISは、熱心な組織とボランティアからなるチームによって開発されています。"
 
 #~ msgid "Get Involved with the QGIS Community"
 #~ msgstr "QGISコミュニティに参加する"
 
-#~ msgid "QGIS is developed by a team of dedicated organizations and volunteers."
+#~ msgid ""
+#~ "QGIS is developed by a team of dedicated organizations and volunteers."
 #~ msgstr "QGISは、熱心な組織とボランティアからなるチームによって開発されています。"
 
 #~ msgid "Discover What Makes QGIS the Leading Open Source Desktop GIS"
