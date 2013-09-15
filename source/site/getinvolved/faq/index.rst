@@ -14,16 +14,6 @@ User
 
 .. _how-to-ask-a-QGIS-question:
 
-Why is QGIS 2.0 named 'Dufour'
-..............................
-
-After a succesfull developer meeting in Zurich (Switzerland), we decided that
-the next release should be related to it. 
-`General Guillaume-Henri Dufour <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_
-was a famous and influential swiss cartographer. Furthermore Dufourspitze is the
-`highest peak <http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.hiks-dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_ in Switzerland.
-
-
 QGIS error on your machine. How to ask a question?
 ..................................................
 
