@@ -65,10 +65,10 @@ help:
 clean:
 	rm -rf $(SOURCEDIR)/static
 	rm -rf i18n/*/LC_MESSAGES/docs/*/
-	# something in i18n/pot dir creates havoc when using gettext: remove it
-	rm -rf i18n/pot
 
 springclean: clean
+	# something in i18n/pot dir creates havoc when using gettext: remove it
+	rm -rf i18n/pot
 	rm -rf $(BUILDDIR)/*
 	rm -f $(SOURCEDIR)/docs_conf.py
 

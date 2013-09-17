@@ -1,184 +1,409 @@
 [main]
 host = https://www.transifex.com
+
+[qgis-website.docs_index]
+file_filter = i18n/<lang>/LC_MESSAGES/docs/index.po
+source_file = i18n/en/LC_MESSAGES/docs/index.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/docs/index.po
 type = PO
 
-[qgis-website.index]
-file_filter = i18n/<lang>/LC_MESSAGES/index.po
-source_file = i18n/pot/index.pot
+[qgis-website.site_forusers_documentation]
+file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/documentation.po
+source_file = i18n/en/LC_MESSAGES/site/forusers/documentation.po
 source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/forusers/documentation.po
+type = PO
+
+[qgis-website.site_forusers_alldownloads]
+file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/alldownloads.po
+source_file = i18n/en/LC_MESSAGES/site/forusers/alldownloads.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/forusers/alldownloads.po
+type = PO
+
+[qgis-website.site_forusers_support]
+file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/support.po
+source_file = i18n/en/LC_MESSAGES/site/forusers/support.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/forusers/support.po
+type = PO
+
+[qgis-website.site_forusers_plugins]
+file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/plugins.po
+source_file = i18n/en/LC_MESSAGES/site/forusers/plugins.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/forusers/plugins.po
+type = PO
+
+[qgis-website.site_forusers_download]
+file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/download.po
+source_file = i18n/en/LC_MESSAGES/site/forusers/download.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/forusers/download.po
+type = PO
+
+[qgis-website.site_forusers_commercial-support]
+file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/commercial_support.po
+source_file = i18n/en/LC_MESSAGES/site/forusers/commercial_support.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/forusers/commercial_support.po
+type = PO
+
+[qgis-website.site_forusers_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/index.po
+source_file = i18n/en/LC_MESSAGES/site/forusers/index.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/forusers/index.po
+type = PO
+
+[qgis-website.site_getinvolved_development_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/development/index.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/development/index.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/development/index.po
+type = PO
+
+[qgis-website.site_getinvolved_mailinglists]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/mailinglists.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/mailinglists.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/mailinglists.po
+type = PO
+
+[qgis-website.site_getinvolved_faq_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/faq/index.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/faq/index.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/faq/index.po
+type = PO
+
+[qgis-website.site_getinvolved_plugindev]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/plugindev.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/plugindev.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/plugindev.po
+type = PO
+
+[qgis-website.site_getinvolved_translate]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/translate.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/translate.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/translate.po
+type = PO
+
+[qgis-website.site_getinvolved_devenviro]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/devenviro.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/devenviro.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/devenviro.po
+type = PO
+
+[qgis-website.site_getinvolved_infrastructure]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/infrastructure.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/infrastructure.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/infrastructure.po
+type = PO
+
+[qgis-website.site_getinvolved_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/index.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/index.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/index.po
+type = PO
+
+[qgis-website.site_getinvolved_governance_developer-meetings_lyon-finances-report]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/developer_meetings/lyon_finances_report.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/developer_meetings/lyon_finances_report.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/governance/developer_meetings/lyon_finances_report.po
+type = PO
+
+[qgis-website.site_getinvolved_governance_developer-meetings_reimbursements]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/developer_meetings/reimbursements.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/developer_meetings/reimbursements.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/governance/developer_meetings/reimbursements.po
+type = PO
+
+[qgis-website.site_getinvolved_governance_developer-meetings_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/developer_meetings/index.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/developer_meetings/index.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/governance/developer_meetings/index.po
+type = PO
+
+[qgis-website.site_getinvolved_governance_release-checklists_release-2-0]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/release_checklists/release-2.0.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/release_checklists/release-2.0.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/governance/release_checklists/release-2.0.po
+type = PO
+
+[qgis-website.site_getinvolved_governance_release-checklists_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/release_checklists/index.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/release_checklists/index.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/governance/release_checklists/index.po
+type = PO
+
+[qgis-website.site_getinvolved_governance_organisation_governance]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/organisation/governance.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/organisation/governance.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/governance/organisation/governance.po
+type = PO
+
+[qgis-website.site_getinvolved_governance_organisation_psc]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/organisation/psc.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/organisation/psc.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/governance/organisation/psc.po
+type = PO
+
+[qgis-website.site_getinvolved_governance_organisation_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/organisation/index.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/organisation/index.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/governance/organisation/index.po
+type = PO
+
+[qgis-website.site_getinvolved_governance_sponsorship_gold-sponsors]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/sponsorship/gold-sponsors.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/sponsorship/gold-sponsors.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/governance/sponsorship/gold-sponsors.po
+type = PO
+
+[qgis-website.site_getinvolved_governance_sponsorship_sponsor-list]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/sponsorship/sponsor-list.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/sponsorship/sponsor-list.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/governance/sponsorship/sponsor-list.po
+type = PO
+
+[qgis-website.site_getinvolved_governance_sponsorship_sponsorship]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/sponsorship/sponsorship.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/sponsorship/sponsorship.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/governance/sponsorship/sponsorship.po
+type = PO
+
+[qgis-website.site_getinvolved_governance_sponsorship_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/sponsorship/index.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/sponsorship/index.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/governance/sponsorship/index.po
+type = PO
+
+[qgis-website.site_getinvolved_governance_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/index.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/index.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/getinvolved/governance/index.po
+type = PO
+
+[qgis-website.site_about_screenshots]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/screenshots.po
+source_file = i18n/en/LC_MESSAGES/site/about/screenshots.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/screenshots.po
+type = PO
+
+[qgis-website.site_about_features]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/features.po
+source_file = i18n/en/LC_MESSAGES/site/about/features.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/features.po
+type = PO
+
+[qgis-website.site_about_press]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/press.po
+source_file = i18n/en/LC_MESSAGES/site/about/press.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/press.po
+type = PO
+
+[qgis-website.site_about_sponsorship]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/sponsorship.po
+source_file = i18n/en/LC_MESSAGES/site/about/sponsorship.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/sponsorship.po
+type = PO
+
+[qgis-website.site_about_case-studies_czech-brno]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/czech_brno.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/czech_brno.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/czech_brno.po
+type = PO
+
+[qgis-website.site_about_case-studies_nigeria-jos]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/nigeria_jos.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/nigeria_jos.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/nigeria_jos.po
+type = PO
+
+[qgis-website.site_about_case-studies_portugal-pinhel]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/portugal_pinhel.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/portugal_pinhel.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/portugal_pinhel.po
+type = PO
+
+[qgis-website.site_about_case-studies_australia-queens]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/australia_queens.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/australia_queens.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/australia_queens.po
+type = PO
+
+[qgis-website.site_about_case-studies_canada-brunswick]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/canada_brunswick.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/canada_brunswick.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/canada_brunswick.po
+type = PO
+
+[qgis-website.site_about_case-studies_suisse-solothurn]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/suisse_solothurn.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/suisse_solothurn.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/suisse_solothurn.po
+type = PO
+
+[qgis-website.site_about_case-studies_india-hyderabad]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/india_hyderabad.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/india_hyderabad.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/india_hyderabad.po
+type = PO
+
+[qgis-website.site_about_case-studies_portugal-lisbon]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/portugal_lisbon.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/portugal_lisbon.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/portugal_lisbon.po
+type = PO
+
+[qgis-website.site_about_case-studies_suisse-basel]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/suisse_basel.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/suisse_basel.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/suisse_basel.po
+type = PO
+
+[qgis-website.site_about_case-studies_india-assam]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/india_assam.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/india_assam.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/india_assam.po
+type = PO
+
+[qgis-website.site_about_case-studies_italy-vicenza]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/italy_vicenza.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/italy_vicenza.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/italy_vicenza.po
+type = PO
+
+[qgis-website.site_about_case-studies_malaysia-kuala]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/malaysia_kuala.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/malaysia_kuala.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/malaysia_kuala.po
+type = PO
+
+[qgis-website.site_about_case-studies_argentinia-chubut]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/argentinia_chubut.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/argentinia_chubut.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/argentinia_chubut.po
+type = PO
+
+[qgis-website.site_about_case-studies_portugal-funchal]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/portugal_funchal.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/portugal_funchal.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/portugal_funchal.po
+type = PO
+
+[qgis-website.site_about_case-studies_portugal-evora]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/portugal_evora.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/portugal_evora.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/portugal_evora.po
+type = PO
+
+[qgis-website.site_about_case-studies_portugal-torres]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/portugal_torres.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/portugal_torres.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/portugal_torres.po
+type = PO
+
+[qgis-website.site_about_case-studies_usa-missouri]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/usa_missouri.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/usa_missouri.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/usa_missouri.po
+type = PO
+
+[qgis-website.site_about_case-studies_portugal-ribeira]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/portugal_ribeira.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/portugal_ribeira.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/portugal_ribeira.po
+type = PO
+
+[qgis-website.site_about_case-studies_tanzania-udzungwa]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/tanzania_udzungwa.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/tanzania_udzungwa.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/tanzania_udzungwa.po
+type = PO
+
+[qgis-website.site_about_case-studies_mexico-jalisco]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/mexico_jalisco.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/mexico_jalisco.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/mexico_jalisco.po
+type = PO
+
+[qgis-website.site_about_case-studies_suisse-uster]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/suisse_uster.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/suisse_uster.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/suisse_uster.po
+type = PO
+
+[qgis-website.site_about_case-studies_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/index.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/index.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/case_studies/index.po
+type = PO
+
+[qgis-website.site_about_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/index.po
+source_file = i18n/en/LC_MESSAGES/site/about/index.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/about/index.po
+type = PO
+
+[qgis-website.site_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/index.po
+source_file = i18n/en/LC_MESSAGES/site/index.po
+source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/site/index.po
+type = PO
 
 [qgis-website.sphinx]
 file_filter = i18n/<lang>/LC_MESSAGES/sphinx.po
-source_file = i18n/pot/sphinx.pot
+source_file = i18n/en/LC_MESSAGES/sphinx.po
 source_lang = en
-
-[qgis-website.about--about]
-file_filter = i18n/<lang>/LC_MESSAGES/about/about.po
-source_file = i18n/pot/about/about.pot
-source_lang = en
-
-[qgis-website.about--index]
-file_filter = i18n/<lang>/LC_MESSAGES/about/index.po
-source_file = i18n/pot/about/index.pot
-source_lang = en
-
-[qgis-website.about--learn]
-file_filter = i18n/<lang>/LC_MESSAGES/about/learn.po
-source_file = i18n/pot/about/learn.pot
-source_lang = en
-
-[qgis-website.about--screenshots]
-file_filter = i18n/<lang>/LC_MESSAGES/about/screenshots.po
-source_file = i18n/pot/about/screenshots.pot
-source_lang = en
-
-[qgis-website.about--sponsorship]
-file_filter = i18n/<lang>/LC_MESSAGES/about/sponsorship.po
-source_file = i18n/pot/about/sponsorship.pot
-source_lang = en
-
-[qgis-website.about--case_studies--argentinia_chubut]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/argentinia_chubut.po
-source_file = i18n/pot/about/case_studies/argentinia_chubut.pot
-source_lang = en
-
-[qgis-website.about--case_studies--australia_queens]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/australia_queens.po
-source_file = i18n/pot/about/case_studies/australia_queens.pot
-source_lang = en
-
-[qgis-website.about--case_studies--canada_brunswick]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/canada_brunswick.po
-source_file = i18n/pot/about/case_studies/canada_brunswick.pot
-source_lang = en
-
-[qgis-website.about--case_studies--czech_brno]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/czech_brno.po
-source_file = i18n/pot/about/case_studies/czech_brno.pot
-source_lang = en
-
-[qgis-website.about--case_studies--index]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/index.po
-source_file = i18n/pot/about/case_studies/index.pot
-source_lang = en
-
-[qgis-website.about--case_studies--india_assam]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/india_assam.po
-source_file = i18n/pot/about/case_studies/india_assam.pot
-source_lang = en
-
-[qgis-website.about--case_studies--india_hyderabad]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/india_hyderabad.po
-source_file = i18n/pot/about/case_studies/india_hyderabad.pot
-source_lang = en
-
-[qgis-website.about--case_studies--italy_vicenza]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/italy_vicenza.po
-source_file = i18n/pot/about/case_studies/italy_vicenza.pot
-source_lang = en
-
-[qgis-website.about--case_studies--malaysia_kuala]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/malaysia_kuala.po
-source_file = i18n/pot/about/case_studies/malaysia_kuala.pot
-source_lang = en
-
-[qgis-website.about--case_studies--mexico_jalisco]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/mexico_jalisco.po
-source_file = i18n/pot/about/case_studies/mexico_jalisco.pot
-source_lang = en
-
-[qgis-website.about--case_studies--nigeria_jos]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/nigeria_jos.po
-source_file = i18n/pot/about/case_studies/nigeria_jos.pot
-source_lang = en
-
-[qgis-website.about--case_studies--portugal_evora]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/portugal_evora.po
-source_file = i18n/pot/about/case_studies/portugal_evora.pot
-source_lang = en
-
-[qgis-website.about--case_studies--portugal_funchal]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/portugal_funchal.po
-source_file = i18n/pot/about/case_studies/portugal_funchal.pot
-source_lang = en
-
-[qgis-website.about--case_studies--portugal_lisbon]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/portugal_lisbon.po
-source_file = i18n/pot/about/case_studies/portugal_lisbon.pot
-source_lang = en
-
-[qgis-website.about--case_studies--portugal_pinhel]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/portugal_pinhel.po
-source_file = i18n/pot/about/case_studies/portugal_pinhel.pot
-source_lang = en
-
-[qgis-website.about--case_studies--portugal_ribeira]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/portugal_ribeira.po
-source_file = i18n/pot/about/case_studies/portugal_ribeira.pot
-source_lang = en
-
-[qgis-website.about--case_studies--portugal_torres]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/portugal_torres.po
-source_file = i18n/pot/about/case_studies/portugal_torres.pot
-source_lang = en
-
-[qgis-website.about--case_studies--suisse_basel]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/suisse_basel.po
-source_file = i18n/pot/about/case_studies/suisse_basel.pot
-source_lang = en
-
-[qgis-website.about--case_studies--suisse_solothurn]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/suisse_solothurn.po
-source_file = i18n/pot/about/case_studies/suisse_solothurn.pot
-source_lang = en
-
-[qgis-website.about--case_studies--suisse_uster]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/suisse_uster.po
-source_file = i18n/pot/about/case_studies/suisse_uster.pot
-source_lang = en
-
-[qgis-website.about--case_studies--tanzania_udzungwa]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/tanzania_udzungwa.po
-source_file = i18n/pot/about/case_studies/tanzania_udzungwa.pot
-source_lang = en
-
-[qgis-website.about--case_studies--usa_missouri]
-file_filter = i18n/<lang>/LC_MESSAGES/about/case_studies/usa_missouri.po
-source_file = i18n/pot/about/case_studies/usa_missouri.pot
-source_lang = en
-
-[qgis-website.forusers--commercial_support]
-file_filter = i18n/<lang>/LC_MESSAGES/forusers/commercial_support.po
-source_file = i18n/pot/forusers/commercial_support.pot
-source_lang = en
-
-[qgis-website.forusers--download]
-file_filter = i18n/<lang>/LC_MESSAGES/forusers/download.po
-source_file = i18n/pot/forusers/download.pot
-source_lang = en
-
-[qgis-website.forusers--index]
-file_filter = i18n/<lang>/LC_MESSAGES/forusers/index.po
-source_file = i18n/pot/forusers/index.pot
-source_lang = en
-
-[qgis-website.forusers--users]
-file_filter = i18n/<lang>/LC_MESSAGES/forusers/users.po
-source_file = i18n/pot/forusers/users.pot
-source_lang = en
-
-[qgis-website.getinvolved--index]
-file_filter = i18n/<lang>/LC_MESSAGES/getinvolved/index.po
-source_file = i18n/pot/getinvolved/index.pot
-source_lang = en
-
-[qgis-website.getinvolved--mailinglists]
-file_filter = i18n/<lang>/LC_MESSAGES/getinvolved/mailinglists.po
-source_file = i18n/pot/getinvolved/mailinglists.pot
-source_lang = en
-
-[qgis-website.getinvolved--development--index]
-file_filter = i18n/<lang>/LC_MESSAGES/getinvolved/development/index.po
-source_file = i18n/pot/getinvolved/development/index.pot
-source_lang = en
+trans.nl = i18n/nl/LC_MESSAGES/sphinx.po
+type = PO
 
