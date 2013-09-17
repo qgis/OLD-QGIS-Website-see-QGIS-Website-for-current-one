@@ -63,6 +63,9 @@ To add a new language (the scripts will need some directory structure):
 
 See it in action: http://new.qgis.org/html/en/site (to be moved)
 
+Styling the website
+-------------------
+
 qgis-style.css is based on Less (see http://lesscss.org/ )
 
 To make changes to CSS on MacOsx
