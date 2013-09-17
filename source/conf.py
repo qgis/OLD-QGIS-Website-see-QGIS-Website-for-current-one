@@ -212,6 +212,24 @@ html_sidebars = {
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'QGISWebsitedoc'
 
+# if we have a conf.py from the QGIS-Documentation, most parameters can be
+# overriden, but we concat the rst_prolog and rst_epilig, to 
+#docs_rst_prolog = ""
+#if "rst_prolog" in locals():
+#    docs_rst_prolog = rst_prolog
+#rst_prolog = docs_rst_prolog + """
+#.. role:: disclaimer
+#.. |updatedisclaimer| replace:: :disclaimer:`DISCLAIMER: This section of the user guide has not yet been updated for QGIS 2.0`
+#"""
+#
+#docs_rst_epilog = ""
+#if "rst_epilog" in locals():
+#    docs_rst_epilog = rst_epilog
+#
+#rst_epilog = docs_rst_epilog + """
+#.. |checkbox| image:: /static/site/common/checkbox.png
+#.. |checkbox_unchecked| image:: /static/site/common/checkbox_unchecked.png
+#"""
 
 # -- Options for LaTeX output --------------------------------------------------
 
