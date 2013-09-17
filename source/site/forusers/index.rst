@@ -13,8 +13,7 @@ For Users
     documentation
     support
     commercial_support
-    plugins
-..    download (not here, download has it's own landingpage)
+    QGIS Plugins <http://plugins.qgis.org/plugins/>
 
 .. note::
 
