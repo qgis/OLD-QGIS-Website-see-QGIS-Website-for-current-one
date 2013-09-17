@@ -2,7 +2,7 @@
 #
 
 # You can set these variables from the command line
-LANGUAGES     = en es nl ja de it zh_CN
+LANGUAGES     = en es nl ja de it zh_CN fr ru
 LANG          = en
 SPHINXBUILD   = sphinx-build
 SPHINXINTL    = sphinx-intl
@@ -31,7 +31,7 @@ help:
 	@echo "Please use \`make <target>' where <target> is one of:"
 	@echo "  html         to build the website as html for enlish only"
 	@echo "  fullhtml     to pull QGIS-Documentation from github and build into the website"
-	@echo "  all          to create the website for ALL available languages"
+	@echo "  peace2world  to create the website for ALL available languages"
 	@echo "  clean        to clean up all intermediate files"
 	@echo "  springclean  to also remove build output besides normal clean"
 	@echo "  createlang   to create (mostly directories) for a new language"
@@ -112,6 +112,8 @@ html: localizeresources
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
 
 fullhtml: pulldocsources html
+
+peace2world: all
 
 all: pulldocsources
 	@echo
