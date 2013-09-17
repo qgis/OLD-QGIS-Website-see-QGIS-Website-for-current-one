@@ -11,8 +11,8 @@
 # Sphinx documentation first
 #
 
-#LOCALES=`ls docs/i18n`
-LOCALES=nl
+LOCALES=`ls i18n`
+#LOCALES=nl ja
 
 #for ITEM in site
 #do
@@ -23,7 +23,6 @@ LOCALES=nl
     #echo $GENERICFILE
     # Get the filename only part of the po file so we can use that
     # name when registering the resource
-    #BASE=`basename $GENERICFILE .po`
     BASE=`dirname $GENERICFILE`/`basename $GENERICFILE .po`
     # removing i18n/<lang>/LC_MESSAGES
     # replace _ in - in filenames
