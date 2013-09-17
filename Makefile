@@ -65,6 +65,8 @@ help:
 clean:
 	rm -rf $(SOURCEDIR)/static
 	rm -rf i18n/*/LC_MESSAGES/docs/*/
+	# something in i18n/pot dir creates havoc when using gettext: remove it
+	rm -rf i18n/pot
 
 springclean: clean
 	rm -rf $(BUILDDIR)/*
@@ -127,6 +129,8 @@ createlang:
 	cp i18n/de/README i18n/${LANG}
 
 gettext:
+	# something in i18n/pot dir creates havoc when using gettext: remove it
+	rm -rf i18n/pot
 	# be sure to remove possible available docs sources:
 	rm -rf $(SOURCEDIR)/docs/*/
 	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS)
