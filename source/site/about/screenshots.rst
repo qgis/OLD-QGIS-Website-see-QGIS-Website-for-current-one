@@ -4,7 +4,7 @@
 QGIS Screenshots
 ================
 
-Below are some screenshots from QGIS itself, ans dome of Maps which are created with QGIS:
+Below are some screenshots from QGIS itself, and some of Maps which are created with QGIS:
 
 
 Screen shots of QGIS
@@ -15,9 +15,11 @@ These screenshots from the `QGIS screenshots - Flickr Group <http://www.flickr.c
 .. role:: raw-html(raw)
    :format: html
 
-:raw-html:`<a href="http://www.flickr.com/photos/madmanwoo/9693517656/" title="qgis by Nathan Woodrow, on Flickr"><img src="http://farm3.staticflickr.com/2840/9693517656_d66efd5a87.jpg" width="500" height="396" alt="qgis"></a>`
+:raw-html:`<a href="http://www.flickr.com/photos/madmanwoo/9693517656/" title="QGIS by Nathan Woodrow, on Flickr"><img src="http://farm3.staticflickr.com/2840/9693517656_d66efd5a87.jpg" width="500" height="396" alt="qgis"></a>`
 
+:raw-html:`<a href="http://www.flickr.com/photos/44112305@N06/9764004532/" title="QGIS by Martin.Jung, on Flickr"><img src="http://farm6.staticflickr.com/5546/9764004532_674437b5a9.jpg" width="500" height="396" alt="qgis"></a>`
 
+:raw-html:`<a href="http://www.flickr.com/photos/88715463@N05/9790893953/" title="QGIS on android by mbernasocchi, on Flickr"><img src="http://farm3.staticflickr.com/2825/9790893953_0fcfe14d43.jpg" width="500" height="313" alt="QGIS on android"></a>`
 
 Maps created with QGIS
 ----------------------

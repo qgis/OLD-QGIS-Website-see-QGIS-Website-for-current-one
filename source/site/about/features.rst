@@ -58,7 +58,7 @@ QGIS on Android (beta!)
 Work is being done to use QGIS on Android devices. Current builds are very
 experimental, and not for the faint of heart.
 
-.. figure:: /static/site/about/images/qgisandroidscreenshot.png
+.. figure:: /static/site/about/images/qgisandroidscreenshot.jpg
    :alt: QGIS Android
 
    A screenshot of QGIS on Android
