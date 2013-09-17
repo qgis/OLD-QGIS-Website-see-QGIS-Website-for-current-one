@@ -23,48 +23,44 @@ Now always activate your environment before building. To deactivate, you can do:
 
     deactivate
 
-So install sphinx 1.2b1 now in your virtual env:
+You can install all tools in on go via the REQUIREMENTS.txt here in root of this repo:
+
+    pip install -r REQUIREMENTS.txt
+
+Alternatively do it one by one:
+
+Install sphinx 1.2b1 now in your virtual env:
 
     pip install sphinx==1.2b1
-
-Sphinx bootstrap theme (http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html).
+    
+Sphinx bootstrap theme ( http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html ).
 We use 0.3.0 currently.
 
     pip install sphinx_bootstrap_theme==0.3.0
 
-Sphinx intl extention (https://pypi.python.org/pypi/sphinx-intl):
+Sphinx intl extention ( https://pypi.python.org/pypi/sphinx-intl ):
 
     pip install sphinx-intl
 
 Then build:
 
-    make clean html (to build the english languag)
-    make clean LANG=nl html (to build the dutch version. Currently available: nl, es, zh_CN)
+    make html (to build the english languag)
+    make LANG=nl html (to build the dutch version. Currently available: en, nl, es, zh_CN, de, it)
 
 If you want add the QGIS-Documentation docs into the build, you need to manually copy the sources, resources and po files into the website project
 
-TODO: do this via scripting or Makefile
+    make fullhtml (english)
+    make LANG=nl fullhtml
 
-    # from the QGIS-Documentation / source / docs directory, copy all subdirs into the QGIS-Website /source / docs directory
-    # from the QGIS-Documentation / resources / en directory, copy all in to the QGIS-Website / resources / en directory
-    # from the QGIS-Documentation / i18n / <your language> / LC_MESSAGES / docs directory, copy all subdirs in the  QGIS-Website / i18n / <your language> / LC_MESSAGES / docs
+To gather new strings in a pot (.po) file for your language, and merge them with 
+excisting translations in the po files (normally to be ran by your language maintainer):
 
-To gather all strings in a pot (.po) file:
+    make LANG=xx pretranslate # where xx is your language code
 
-    make gettext
+To add a new language (the scripts will need some directory structure):
 
-To update or create strings:
+    make createlang
 
-    sphinx-intl update -p i18n/pot -c source/conf.py -l nl (es, zh_CN, ja, de)
-
-To create .mo files from the .po files then:
-
-    sphinx-intl build -c source/conf.py
-
-Then normal build
-
-    make clean LANG=nl html
-    
 See it in action: http://new.qgis.org/html/en/site (to be moved)
 
 qgis-style.css is based on Less (see http://lesscss.org/ )
