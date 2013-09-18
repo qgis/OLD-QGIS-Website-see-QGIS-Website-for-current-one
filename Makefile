@@ -31,7 +31,7 @@ help:
 	@echo "Please use \`make <target>' where <target> is one of:"
 	@echo "  html         to build the website as html for enlish only"
 	@echo "  fullhtml     to pull QGIS-Documentation from github and build into the website"
-	@echo "  peace2world  to create the website for ALL available languages"
+	@echo "  world        to create the website for ALL available languages"
 	@echo "  clean        to clean up all intermediate files"
 	@echo "  springclean  to also remove build output besides normal clean"
 	@echo "  createlang   to create (mostly directories) for a new language"
@@ -113,7 +113,7 @@ html: localizeresources
 
 fullhtml: pulldocsources html
 
-peace2world: all
+world: all
 
 all: pulldocsources
 	@echo
