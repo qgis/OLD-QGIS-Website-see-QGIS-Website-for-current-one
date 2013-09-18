@@ -6,7 +6,7 @@ Checklist for QGIS Release 2.0
 
 
 Key Dates:
-----------
+..........
 
 * **1 April 2013** - Feature freeze - no new features in master.
 * **15 April 2013** - API Freeze - no changes to API except where it is in
@@ -19,7 +19,7 @@ Key Dates:
 
 
 Blocking Features
------------------
+.................
 
  * Symbology overhaul
  * Labelling overhaul
@@ -43,7 +43,7 @@ Release Timeline
 * |checkbox_unchecked| Check that the QGIS icon 64x64 has master text removed.
 
 Three weeks before - feature freeze Date here
-..............................................
+.............................................
 
 * |checkbox_unchecked| Only bug fixes go into trunk from here forward, *no new features*.
 * |checkbox_unchecked| Complete merge of new features.
@@ -52,8 +52,8 @@ Three weeks before - feature freeze Date here
 * |checkbox_unchecked| Release team start writing press releases, making screenshots etc.
 * |checkbox_unchecked| Add link to visual changelog here.
 
-Two weeks before - string freeze - Date here 
-.............................................
+Two weeks before - string freeze - Date here
+............................................
 
 * Bug fixes can continue in trunk but no more strings can be changed.
   **Note:** the intent here is not for translators to *start* translating now,
@@ -89,7 +89,7 @@ Two weeks before - string freeze - Date here
   their ts files (see pro-forma email below) GUI Translation Team Lead
 
 One week before - branch & call for packaging Date here
-........................................................
+.......................................................
 
 * |checkbox_unchecked| No bug fixes, string changes etc. allowed in branch,
   only packaging related changes.
@@ -121,8 +121,8 @@ Day of release - Date
   at the top of this page).
 * |checkbox_unchecked| *Release team announce to press* and make packages available.
 
-Packaging Team 
-...............
+Packaging Team
+..............
 
 +------------------------------+---------------------------------------+----------------------------------------------+
 |Tim Sutton                    |tim at linfiniti.com                   |Release Manager                               |
@@ -157,8 +157,8 @@ After each package is uploaded, an entry should be created for it on the wiki
 page at http://download.qgis.org
 
 
-Post Release 
-.............
+Post Release
+............
 
 * |checkbox_unchecked| *qgis.org  Updates*
 * |checkbox_unchecked| Update the 'Current Release' link on the main menu
@@ -205,8 +205,8 @@ Post Release
 * |checkbox_unchecked| ppgis-scope@igc.org (spanish)
 
 
-Call for translators email 
-...........................
+Call for translators email
+..........................
 
 When translations call is made, an email based on the template below should
 be sent out to encourage translators to get there work submitted.::
@@ -237,7 +237,7 @@ be sent out to encourage translators to get there work submitted.::
    http://www.qgis.org/wiki/GUI_Translation_Progress#QGIS_Current_trunk_Version_Progress
 
 
-Branching and Tagging Details 
+Branching and Tagging Details
 .............................
 Branch the release using syntax below (update this with the actual commands you
 used to branch).::
@@ -251,8 +251,8 @@ Tag the release using a signed tag::
    git push origin final-2.0.0
 
 
-Bug Tracker System 
-...................
+Bug Tracker System
+..................
 
 All bugs that are intended to have been fixed in this release should have been
 marked as closed. All other bugs on the release branch should be marked for a
@@ -265,7 +265,7 @@ future release. To do this:
   the next release in the future. This can be done easily doing a batch update in redmine.
 
 
-Create the source tarball 
+Create the source tarball
 .........................
 
 This is best achieved by running this little script::
@@ -277,7 +277,7 @@ This is best achieved by running this little script::
   /var/www/downloads/qgis-2.0.0.tar.bz2.md5
 
 
-Generate the changelog 
+Generate the changelog
 ......................
 
 TODO: Add details here on how to generate the changelog.
@@ -347,7 +347,7 @@ mail::
  Best regards
 
 
-Windows Binary upload 
+Windows Binary upload
 .....................
 
 Put the binary onto the server::
@@ -393,19 +393,19 @@ Create an announcement template
 An announcement template will save you retypping the same text at the various places of announcement. The following text can be used as a basis:
 
 
-A Generic release subject 
+A Generic release subject
 +++++++++++++++++++++++++
 
 Announcing the release of QGIS 2.0.0 (unstable release).
 
 
-A generic 20 word summary 
+A generic 20 word summary
 +++++++++++++++++++++++++
 
 Quantum GIS is a user friendly Open Source Geographic Information System that runs on Linux, Unix, Mac OSX, and Windows.
 
 
-A mailing list announcement 
+A mailing list announcement
 +++++++++++++++++++++++++++
 
 We are very pleased to announce the release of QGIS 2.0.0 'Lisboa'. This release contains new features and extends the programmatic interface over QGIS 1.0.x and QGIS 1.7.x
@@ -442,14 +442,14 @@ If you would like to make a donation or sponsor our project, please visit http:/
 
 
 Visual tour of the new release:
-............................................
+...............................
 
 You can find a list of highlighted changes and new features listed on the detailed release announcement available here:
 
 http://qgis.org/index.php?option=com_content&view=article&id=149
 
 New features with this release:
-...............................................
+...............................
 
 
 Happy QGIS'ing!
@@ -460,7 +460,7 @@ The QGIS Team!
 
 
 
-A generic product description 
+A generic product description
 .............................
 
 Quantum GIS (QGIS) is a user friendly Open Source Geographic Information System
@@ -472,6 +472,6 @@ plugins to do things like display tracks from your GPS. QGIS is Open Source
 software and its free of cost.
 
 
-A generic features list 
+A generic features list
 .......................
 

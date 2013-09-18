@@ -14,7 +14,7 @@ User
 
 .. _how-to-ask-a-QGIS-question:
 
-Why is QGIS 2.0 named 'Dufour'
+Why is QGIS 2.0 named 'Dufour'?
 ..............................
 
 After a succesfull developer meeting in Zurich (Switzerland), we decided that
@@ -31,8 +31,8 @@ Please provide the following information:
 
 - preferably a descriptive title for your email
 - which Operating System and version
-- which QGIS version (exact)
-- how you installed it (osgeo4w? msi-installer? own build?)
+- which QGIS version you used at that moment (exact)
+- how you installed it (osgeo4w? standalone-installer? own build?)
 - at what time did it break (reinstall, new install, system update, project??)
 - what exactly is the error (not sure in the above if you mean that "python error' is the error, or you mean there is a python error which you did not write in you email
 
