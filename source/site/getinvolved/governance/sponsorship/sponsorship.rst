@@ -1,6 +1,6 @@
-******************************
-Sponsorship Programme Overview
-******************************
+****************************
+Sponsorship Program Overview
+****************************
 
 QGIS is an entirely Open Source project. QGIS development is carried out
 largely by a group of volunteers, that in time have built up a large, valuable

@@ -3,25 +3,7 @@
 QGIS Development
 ================
 
-.. toctree::
-    :maxdepth: 1
-
-    Pyqgis cookbook <pyqgis_developer_cookbook/index>
-
 Welcome to the QGIS Development pages
-
-
-
-.. all following sections will be in marketing div, below (optional) carousel !!!!!!!!!!!!!!!!!
-
-
-Test
-====
-
-This is a test for localisation. In dutch the image below should be in dutch:
-
-
-.. figure:: /static/site/getinvolved/development/test.png
 
 
 Bugs, Features and Issues
@@ -45,5 +27,6 @@ QGIS has a lot to offer for python developers too.
 
 QGIS has python bindings so you can automate tasks in QGIS via python.
 
-Interested in python plugin development, go here http://plugins.qgis.org
+Interested in python plugin development, go here http://plugins.qgis.org or have
+a look into the `PyQGIS cookbook <docs/pyqgis_developer_cookbook/index>`_
 

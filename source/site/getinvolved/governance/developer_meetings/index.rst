@@ -1,6 +1,6 @@
-====================================
-The QGIS Developer Meeting Programme
-====================================
+==================================
+The QGIS Developer Meeting Program
+==================================
 
 Contents:
 

@@ -9,7 +9,7 @@ Discover QGIS
     screenshots
     case_studies/index
     sponsorship
-    press
+    QGIS blogs<http://planet.qgis.org>
 
 .. note::
 
