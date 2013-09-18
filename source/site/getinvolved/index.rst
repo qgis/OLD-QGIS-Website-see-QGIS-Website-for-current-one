@@ -7,8 +7,6 @@ Get Involved / Development
     :maxdepth: 1
 
     translate
-    plugindev
-    devenviro
     Plugins website <http://plugins.qgis.org>
     Mailinglist <mailinglists>
     QGIS Infrastructure <infrastructure>
