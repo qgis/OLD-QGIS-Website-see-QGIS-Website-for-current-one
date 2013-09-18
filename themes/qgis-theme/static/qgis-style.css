@@ -434,9 +434,6 @@ section.highlights .info-box:active #learn-more {
 section.latest-news {
   text-align: center;
   padding: 30px 0;
-  -webkit-box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.2), inset 0 -3px 7px rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.2), inset 0 -3px 7px rgba(0, 0, 0, 0.2);
-  box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.2), inset 0 -3px 7px rgba(0, 0, 0, 0.2);
 }
 section.latest-news a:hover,
 section.latest-news a:active {
@@ -444,7 +441,7 @@ section.latest-news a:active {
 }
 section.latest-news a:hover .info-box,
 section.latest-news a:active .info-box {
-  background: #FFF;
+  background: #ECECEC;
 }
 section.latest-news header {
   height: 30px;
@@ -462,9 +459,7 @@ section.latest-news h3 {
 }
 section.latest-news .info-box {
   margin: 0 10px 40px;
-  background: #ccc;
-  -webkit-box-shadow: 1px 1px 1px 1px #999999;
-  box-shadow: 1px 1px 1px 1px #999999;
+  background: #fff;
   text-align: left;
   width: 100%;
 }
