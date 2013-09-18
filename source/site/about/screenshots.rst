@@ -7,7 +7,7 @@ QGIS Screenshots
 Below are some screenshots from QGIS itself, and some of Maps which are created with QGIS:
 
 
-Screen shots of QGIS
+Screenshots of QGIS
 --------------------
 
 These screenshots from the `QGIS screenshots - Flickr Group <http://www.flickr.com/groups/qgis-screenshots/>`_.
