@@ -92,7 +92,16 @@
                   <div id="linux" class="accordion-body collapse">
                     <div class="accordion-inner">
                       <p>{{ _('For many flavors of GNU/Linux binary packages (rpm and deb) or software repositories to add to your installation manager are provided below') }}</p>
-                      <p class="download-text"><a href="{{ pathto('site/forusers/alldownloads') }}#linux">{{ _('Linux Installation Instructions') }} </a></p>
+                      <ul>
+                      <li><a href="{{ pathto('site/forusers/alldownloads') }}#fedora">{{ _('Fedora') }}</a></li>
+                      <li><a href="{{ pathto('site/forusers/alldownloads') }}#ubuntu">{{ _('Ubuntu') }}</a></li>
+                      <li><a href="{{ pathto('site/forusers/alldownloads') }}#debian">{{ _('Debian') }}</a></li>
+                      <li><a href="{{ pathto('site/forusers/alldownloads') }}#opensuse">{{ _('openSUSE') }}</a></li>
+                      <li><a href="{{ pathto('site/forusers/alldownloads') }}#rhel-centos-scientific-linux">{{ _('RHEL, CentOS, Scientific Linux, ...') }}</a></li>
+                      <li><a href="{{ pathto('site/forusers/alldownloads') }}#mandriva">{{ _('Mandriva') }}</a></li>
+                      <li><a href="{{ pathto('site/forusers/alldownloads') }}#slackware">{{ _('Slackware') }}</a></li>
+                      </ul>
+                      <p class="download-text"><a href="{{ pathto('site/forusers/alldownloads') }}#linux">{{ _('Linux Installation Instructions') }}</a></p>
                     </div>
                   </div>
                 </div>
