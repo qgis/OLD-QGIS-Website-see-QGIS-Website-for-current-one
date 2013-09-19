@@ -213,6 +213,7 @@ bank account rather than PayPal.
 List of donors
 ++++++++++++++
 
+
 * Aaron Racicot
 * Adam Lane
 * Adrian Cooke
@@ -221,6 +222,8 @@ List of donors
 * Alessandro Fanna
 * Alessandro Pasotti
 * Alessandro Sarretta
+* Alessio Buccioli
+* Alex Thomas
 * Alexandre Leroux
 * Amedeo Fadini
 * Anders Skoglund
@@ -229,11 +232,16 @@ List of donors
 * Andreas Neumann
 * Andreas Schmid
 * Andrew Chapman
+* Andrew Flatman
+* Andrew Mcaninch
 * Andrew Rigby
 * Andrey Kuvshinov
+* Antimo Battistoni
+* Aris Dimopoulos
 * Associazione Monte Porzio Cultura
 * Attila Toth
 * Bayard Ewing
+* Benoit David
 * Bernd Vogelgesang
 * Birgit Konn
 * Boštjan Krapež
@@ -247,12 +255,14 @@ List of donors
 * Cristian Spieles
 * Christian Schwartze
 * D R Arbib
+* David Addy
 * David Vaarwerk
 * Dheeraj Chand
 * Didier Genier
 * Dirk Pflugmacher
 * David Enns
 * Dariusz Bobak
+* Dominique Pitt
 * Doswald Cornel
 * Douglas Lane
 * Dušan Pavlík
@@ -271,6 +281,7 @@ List of donors
 * Gabriele Monfardini
 * Gabriela Casares
 * Geoff Jones
+* Geoff Oxsen
 * George Smith
 * Gerald Bond
 * Gérald Fringeli
@@ -279,6 +290,7 @@ List of donors
 * Giovanni Fossà
 * Giuseppe Patti
 * Glasic S.r.l.
+* Grant Ogilvie
 * Gregorio Díaz-Marta Mateos
 * Guenther Moeller
 * Guillaume Raspini
@@ -286,6 +298,7 @@ List of donors
 * Heinrich Schweizer
 * Hiroshi Kawakami
 * Hiroto Okayama
+* Ian Allan
 * Ian Wusstig
 * Igor Zabelin
 * Ivan Mincik
@@ -293,13 +306,17 @@ List of donors
 * Jake Maier
 * James Larsen
 * James Crone
+* Jan Militzer
+* Janne Jakob Fleischer
 * Jaroslaw Kowalczyk
 * Jason Jorgenson
 * Jean Denis Giguère
 * Jean Roc Morreale
 * Jean Sébastien Dehecq
+* Jesus Aguilera Rubio
 * Jim Litts
 * Jim Mann
+* Joachim Aurbacher
 * Johannes Lauber
 * John C. Tull
 * John Dean
@@ -309,7 +326,6 @@ List of donors
 * Jose Augusto Faes
 * Junji Yamakawa
 * K Brock Riedell
-* Kai Li
 * Kanton Solothurn SOGIS
 * Kenton Ngo
 * Kevin Hansen
@@ -322,26 +338,34 @@ List of donors
 * Luca Casagrande
 * Luca Manganelli
 * Lutz Bornschein
+* M de Bresser
 * Maciej Sieczka
 * Maciej Latek
+* Manfred Schön
 * Marc Monnerat
 * Mark Siebel
 * Mark Douglas
 * Mark Hoschek
 * Maria Antonia Brovelli
 * Marselle Sjoden
+* Martin Kugler
 * Massimo Cuomo
 * Mateusz Loskot
 * Matt Foy
 * Matt Wilkie
 * Michael Schweizer
+* Michele Beneventi
 * Miguel Fernández Astudillo
 * Mikhail Sivakov
+* Mikko Suonio
 * Mohamed Al Merri
 * Murray Swanson
+* Nelson Silva
 * Niccolo Rigacci
+* Nikita Mozgunov
 * Nikolaos Alexandris
 * Nikolaou Konstantinos
+* Norman Trowell
 * Oliver Schonrock
 * Oriental Rugs Online
 * Osvaldo Mascetti
@@ -350,8 +374,10 @@ List of donors
 * Paolo Cavallini
 * Paolo Livio Craveri
 * Patti Giuseppe
+* Peter Brodersen
 * Peter Löwe
 * Peter Paudits
+* Peter Thuvander
 * Peter Wells
 * Planetek Italia s.r.l
 * Productive Water Services
@@ -375,11 +401,13 @@ List of donors
 * Spencer Gardner
 * Stefan Ziegler
 * Stefan Price
+* Stefan Sylla
 * Stefano Menegon
 * Steffen Götze
 * Stephan Holl
 * Sti Sas Di Meo
 * Thanasis Karathanasis
+* Thibaut Goelff
 * Thierry Gonon
 * Tim Baggett
 * Tishampati Dhar
@@ -394,6 +422,7 @@ List of donors
 * William Levering
 * Yves Jacolin
 * Zachary Patterson
+
 
 Your benefit sponsoring QGIS
 ----------------------------
