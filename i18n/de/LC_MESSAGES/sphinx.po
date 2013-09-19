@@ -1,15 +1,28 @@
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 2.0\n"
+"Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-13 12:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2013-09-17 08:12\n"
+"PO-Revision-Date: 2013-09-19 16:19+0000\n"
+"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:8
+msgid "Get involved with the QGIS community"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:9
+msgid ""
+"QGIS is developed by a team of dedicated\n"
+"                    volunteers and organisations."
+msgstr ""
 
 #: ../../themes/qgis-theme/getinvolved_index.html:11
 msgid "You can get involved!"
@@ -54,6 +67,10 @@ msgid ""
 "archives."
 msgstr ""
 
+#: ../../themes/qgis-theme/getinvolved_index.html:59
+msgid "List of QGIS Support Channels"
+msgstr ""
+
 #: ../../themes/qgis-theme/getinvolved_index.html:74
 msgid "Translate QGIS"
 msgstr ""
@@ -71,8 +88,8 @@ msgstr ""
 msgid "Translate QGIS into your Language"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:31
 #: ../../themes/qgis-theme/getinvolved_index.html:85
+#: ../../themes/qgis-theme/forusers_index.html:31
 msgid "QGIS Plugins"
 msgstr ""
 
@@ -131,10 +148,14 @@ msgstr ""
 msgid "Help Support the Project Financially"
 msgstr ""
 
+#: ../../themes/qgis-theme/getinvolved_index.html:137
 #: ../../themes/qgis-theme/about_index.html:147
 #: ../../themes/qgis-theme/forusers_index.html:203
-#: ../../themes/qgis-theme/getinvolved_index.html:137
 msgid "Back to Top"
+msgstr ""
+
+#: ../../themes/qgis-theme/searchbox.html:3
+msgid "Search"
 msgstr ""
 
 #: ../../themes/qgis-theme/languageswitch.html:2
@@ -159,6 +180,10 @@ msgstr ""
 
 #: ../../themes/qgis-theme/languageswitch.html:7
 msgid "German"
+msgstr ""
+
+#: ../../themes/qgis-theme/languageswitch.html:8
+msgid "Italian"
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:3
@@ -231,6 +256,11 @@ msgid "and select"
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:52
+#: ../../themes/qgis-theme/index.html:3
+msgid "QGIS"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:52
 msgid "to install."
 msgstr ""
 
@@ -271,6 +301,11 @@ msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:84
 msgid "Linux Installation Instructions"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:84
+#: ../../themes/qgis-theme/forusers_download.html:96
+msgid "(in QGIS Documentation)"
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:91
@@ -356,6 +391,10 @@ msgstr ""
 #: ../../themes/qgis-theme/forusers_download.html:131
 msgid ""
 ". Refer to the INSTALL guide for setting up the latest QGIS from source."
+msgstr ""
+
+#: ../../themes/qgis-theme/about_index.html:7
+msgid "Discover what makes QGIS the leading Open Source desktop GIS"
 msgstr ""
 
 #: ../../themes/qgis-theme/about_index.html:8
@@ -488,6 +527,14 @@ msgstr ""
 msgid "Learn about Commercial Support for QGIS"
 msgstr ""
 
+#: ../../themes/qgis-theme/index.html:6
+msgid "A Free and Open Source Geographic Information System"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:26
+msgid "QGIS 2.0"
+msgstr ""
+
 #: ../../themes/qgis-theme/index.html:28
 msgid "We think she looks ..."
 msgstr ""
@@ -497,7 +544,7 @@ msgid "nice"
 msgstr ""
 
 #: ../../themes/qgis-theme/index.html:37
-msgid "Released"
+msgid "QGIS 2.0 Released"
 msgstr ""
 
 #: ../../themes/qgis-theme/index.html:39
@@ -538,12 +585,16 @@ msgid ""
 " data defined symbology and labelling..."
 msgstr ""
 
-#: ../../themes/qgis-theme/index.html:3
-msgid "QGIS"
+#: ../../themes/qgis-theme/index.html:87
+msgid ""
+"Create, edit, visualise, analyse and publish geospatial\n"
+"            information on Windows, Mac, Linux, BSD (Android coming soon)"
 msgstr ""
 
-#: ../../themes/qgis-theme/index.html:6
-msgid "A Free and Open Source Geographic Information System"
+#: ../../themes/qgis-theme/index.html:91
+msgid ""
+"For your desktop, server, in your web browser and as\n"
+"            developer libraries"
 msgstr ""
 
 #: ../../themes/qgis-theme/index.html:95
@@ -657,6 +708,10 @@ msgstr ""
 msgid "Documentation"
 msgstr ""
 
+#: ../../themes/qgis-theme/forusers_index.html:7
+msgid "Resources for<br>learning QGIS"
+msgstr ""
+
 #: ../../themes/qgis-theme/forusers_index.html:8
 msgid ""
 "QGIS has an international support community of enthusiastic users, "
@@ -708,6 +763,10 @@ msgid ""
 "Menu of the QGIS Desktop."
 msgstr ""
 
+#: ../../themes/qgis-theme/forusers_index.html:80
+msgid "Explore Plugins that make QGIS powerful"
+msgstr ""
+
 #: ../../themes/qgis-theme/forusers_index.html:96
 msgid "QGIS Documentation"
 msgstr ""
@@ -749,6 +808,10 @@ msgstr ""
 msgid "QGIS Press"
 msgstr ""
 
+#: ../../themes/qgis-theme/forusers_index.html:146
+msgid ">Read all about what the QGIS Community is doing around the world."
+msgstr ""
+
 #: ../../themes/qgis-theme/forusers_index.html:148
 msgid "QGIS in the News"
 msgstr ""
@@ -782,51 +845,3 @@ msgstr ""
 #: ../../themes/qgis-theme/forusers_index.html:190
 msgid "Finding Commercial Support for QGIS"
 msgstr ""
-
-#: ../../themes/qgis-theme/index.html:87
-msgid ""
-"Create, edit, visualise, analyse and publish geospatial\n"
-"            information on Windows, Mac, Linux, BSD (Android coming soon)"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:91
-msgid ""
-"For your desktop, server, in your web browser and as\n"
-"            developer libraries"
-msgstr ""
-
-#: ../../themes/qgis-theme/about_index.html:7
-msgid "Discover what makes QGIS the leading Open Source desktop GIS"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_index.html:7
-msgid "Resources for<br>learning QGIS"
-msgstr ""
-
-#: ../../themes/qgis-theme/getinvolved_index.html:8
-msgid "Get involved with the QGIS community"
-msgstr ""
-
-#: ../../themes/qgis-theme/getinvolved_index.html:9
-msgid ""
-"QGIS is developed by a team of dedicated\n"
-"                    volunteers and organisations."
-msgstr ""
-
-#~ msgid "Get Involved with the QGIS Community"
-#~ msgstr ""
-
-#~ msgid "QGIS is developed by a team of dedicated organizations and volunteers."
-#~ msgstr ""
-
-#~ msgid "Discover What Makes QGIS the Leading Open Source Desktop GIS"
-#~ msgstr ""
-
-#~ msgid "Create, edit, visualise, analyse and publish geospatial information."
-#~ msgstr ""
-
-#~ msgid "For Windows, Mac, Linux, BSD and Android"
-#~ msgstr ""
-
-#~ msgid "Resources for<br>Learning QGIS"
-#~ msgstr ""
