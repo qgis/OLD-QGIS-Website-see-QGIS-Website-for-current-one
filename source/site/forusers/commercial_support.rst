@@ -26,11 +26,12 @@ and consulting on QGIS.
 
 ----
 
-.. |bernaweb| image:: /static/site/about/images/bernaweb.png
-   :width: 160 px
+.. |opengisch| image:: /static/site/about/images/opengis-logo.png
+   :width: 80 px
 
-|bernaweb| `bernawebdesign <http://bernawebdesign.ch/>`_ (Switzerland) provides
-commercial support, training and programming for QGIS and QGIS on Android.
+|opengisch| `opengis.ch <http://opengis.ch/>`_  (Switzerland, operating
+worldwide) provides commercial support, training and programming for
+QGIS and QGIS on Android.
 
 ----
 
