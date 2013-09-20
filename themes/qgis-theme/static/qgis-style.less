@@ -67,13 +67,10 @@ pre, code {
   line-height: 1.2rem;
 }
 
-@media (max-width: 979px) {
+@media (max-width: 983px) {
   .navbar-fixed-top {
     margin-bottom: 0 !important;
   }
-  /*.non-mobile-image {
-    visibility: hidden;
-  }*/
 }
 
 .navbar-inverse {
@@ -124,7 +121,7 @@ pre, code {
 }
 
 .navbar-search {
-  margin: 16px 0 0 20px !important;
+  margin: 16px 0 0 20px;
   padding: 0 !important;
   border: none !important;
   .box-shadow(none) !important;
@@ -135,7 +132,7 @@ pre, code {
     border-color: darken(@blueDark, 5%) !important;
     border-top-color: darken(@blueDark, 10%) !important;
     text-shadow: none !important;
-    width: 150px;
+    width: 120px;
   }
 }
 
@@ -159,21 +156,23 @@ pre, code {
   .nav {
     margin-top: 0px !important;
 
-    > li {
+     li {
       float: left !important;
-
       a {
         text-shadow: none !important;
         text-transform: uppercase;
         color: #ccc !important;
         font-weight: bold !important;
-        padding: 20px 15px 20px;
+        padding: 20px 15px 20px !important;
         &:hover {
         text-decoration: none;
         color: white;
         background: lighten(@blueDark, 15%);
+        }
       }
-      }
+      .navbar-search {
+          margin: 16px 0 20px 16px !important;
+        }
     }
   }
 }
@@ -213,6 +212,7 @@ select#languages {
   .square(60px);
   text-indent: -9999px;
   padding: 0 !important;
+  margin-left: .1%;
   background: transparent url("logo.png") no-repeat 0 0 !important;
 }
 
@@ -545,7 +545,7 @@ section.content {
 
 @media (min-width: 980px) {
   .navbar .container {
-    width: 940px !important;
+    width: 100% !important;
   }
 
   .bs-sidenav {
@@ -554,15 +554,9 @@ section.content {
   }
 }
 
-@media (max-width: 979px) {
+@media (max-width: 980px) {
   body {
     padding-top: 0 !important;
-  }
-}
-
-@media (max-width: 470px) {
-  .navbar-search input {
-    width: 120px;
   }
 }
 
@@ -747,13 +741,13 @@ section.menu nav.subnav {
   background-color: #ccc;
 }
 
-@media (max-width: 979px) {
+@media (max-width: 983px) {
   img.overflow-img, #processing {
     min-width: 100% !important;
   }
 }
 
-@media (min-width: 980px) {
+@media (min-width: 984px) {
   img.overflow-img, #processing {
     max-width: none !important;
   }

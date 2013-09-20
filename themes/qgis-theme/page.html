@@ -1,6 +1,6 @@
 {% extends "layout.html" %}
 
-{% set favicon = 'images/favicon.ico' %}
+{% set favicon = '../../../favicon.ico?1322140996' %}
 
 {% set css_files = css_files + [
   '_static/qgis-style.css'
@@ -85,9 +85,6 @@ http://stackoverflow.com/questions/13209597/override-html-page-template-for-a-sp
 
         <a class="brand" href="{{ pathto(master_doc) }}">{% if theme_navbar_title -%}{{ theme_navbar_title|e }}{%- else -%}{{ project|e }}{%- endif -%}</a>
         <span class="navbar-text pull-left"><b>{{ version|e }}</b></span>
-        {% block sidebarsearch %}
-          {% include "searchbox.html" %}
-        {% endblock %}
         {% block languageswitch %}
           {% include "languageswitch.html" %}
         {% endblock %}
@@ -97,6 +94,9 @@ http://stackoverflow.com/questions/13209597/override-html-page-template-for-a-sp
             <li><a href="{{ pathto('site/forusers/index') }}">{{_("For Users") }}</a></li>
             <li><a href="{{ pathto('site/getinvolved/index') }}">{{_("Get Involved") }}</a></li>
             <li><a href="{{ pathto('docs/index') }}">{{_("Documentation") }}</a></li>
+            <li>{% block sidebarsearch %}
+          {% include "searchbox.html" %}
+        {% endblock %}</li>
           </ul>
         </div>
       </div>
@@ -116,3 +116,4 @@ http://stackoverflow.com/questions/13209597/override-html-page-template-for-a-sp
       </div>
       {%- endif %}
 {%- endmacro %}
+

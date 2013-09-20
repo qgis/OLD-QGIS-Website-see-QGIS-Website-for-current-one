@@ -130,13 +130,10 @@ code {
   font-family: "Andale Mono", "Ubuntu Mono", "Courier New", Courier, monospace;
   line-height: 1.2rem;
 }
-@media (max-width: 979px) {
+@media (max-width: 983px) {
   .navbar-fixed-top {
     margin-bottom: 0 !important;
   }
-  /*.non-mobile-image {
-      visibility: hidden;
-    }*/
 }
 .navbar-inverse .navbar-inner {
   background: #1c2028;
@@ -180,7 +177,7 @@ code {
   background: #3c4455;
 }
 .navbar-search {
-  margin: 16px 0 0 20px !important;
+  margin: 16px 0 0 20px;
   padding: 0 !important;
   border: none !important;
   -webkit-box-shadow: none !important;
@@ -193,7 +190,7 @@ code {
   border-color: #111419 !important;
   border-top-color: #07080a !important;
   text-shadow: none !important;
-  width: 150px;
+  width: 120px;
 }
 .navbar-inverse .navbar-search .search-query:-ms-input-placeholder {
   color: #999 !important;
@@ -215,20 +212,23 @@ code {
 .nav-collapse .nav {
   margin-top: 0px !important;
 }
-.nav-collapse .nav > li {
+.nav-collapse .nav li {
   float: left !important;
 }
-.nav-collapse .nav > li a {
+.nav-collapse .nav li a {
   text-shadow: none !important;
   text-transform: uppercase;
   color: #ccc !important;
   font-weight: bold !important;
-  padding: 20px 15px 20px;
+  padding: 20px 15px 20px !important;
 }
-.nav-collapse .nav > li a:hover {
+.nav-collapse .nav li a:hover {
   text-decoration: none;
   color: white;
   background: #3c4455;
+}
+.nav-collapse .nav li .navbar-search {
+  margin: 16px 0 20px 16px !important;
 }
 select#languages {
   float: right;
@@ -262,6 +262,7 @@ select#languages option {
   height: 60px;
   text-indent: -9999px;
   padding: 0 !important;
+  margin-left: .1%;
   background: transparent url("logo.png") no-repeat 0 0 !important;
 }
 #main-body {
@@ -554,21 +555,16 @@ section.content h4 {
 }
 @media (min-width: 980px) {
   .navbar .container {
-    width: 940px !important;
+    width: 100% !important;
   }
   .bs-sidenav {
     width: 300px !important;
     margin: 0 !important;
   }
 }
-@media (max-width: 979px) {
+@media (max-width: 980px) {
   body {
     padding-top: 0 !important;
-  }
-}
-@media (max-width: 470px) {
-  .navbar-search input {
-    width: 120px;
   }
 }
 /********* Downloads by OS *********/
@@ -727,13 +723,13 @@ section.menu nav.subnav ul li a:hover {
 .background-mask {
   background-color: #ccc;
 }
-@media (max-width: 979px) {
+@media (max-width: 983px) {
   img.overflow-img,
   #processing {
     min-width: 100% !important;
   }
 }
-@media (min-width: 980px) {
+@media (min-width: 984px) {
   img.overflow-img,
   #processing {
     max-width: none !important;
