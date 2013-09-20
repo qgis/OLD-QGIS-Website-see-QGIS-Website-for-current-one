@@ -21,6 +21,8 @@ These screenshots from the `QGIS screenshots - Flickr Group <http://www.flickr.c
 
 :raw-html:`<a href="http://www.flickr.com/photos/88715463@N05/9790893953/" title="QGIS on android by mbernasocchi, on Flickr"><img src="http://farm3.staticflickr.com/2825/9790893953_0fcfe14d43.jpg" width="500" height="313" alt="QGIS on android"></a>`
 
+:raw-html:`<a href="http://www.flickr.com/photos/60284107@N00/9813100244/" title="QGIS Indic Script Support in Action by nIRV_, on Flickr"><img src="http://farm6.staticflickr.com/5323/9813100244_bcb4feeb07.jpg" width="500" height="340" alt="QGIS Indic Script Support in Action"></a>`
+
 Maps created with QGIS
 ----------------------
 
