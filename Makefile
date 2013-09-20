@@ -119,8 +119,12 @@ all: pulldocsources
 	@echo
 	@echo Building html for the following languages: $(LANGUAGES)
 	@echo
+	# after build quickly rename old live dir, mv output to live dir and then remove old dir
 	@for LANG in $(LANGUAGES) ; do \
 		make LANG=$$LANG fullhtml; \
+		mv live/html/$$LANG live/html/$$LANG.old; \
+		mv output/html/$$LANG live/html/$$LANG; \
+		rm -rf live/html/$$LANG.old; \
 	done
 
 createlang:
