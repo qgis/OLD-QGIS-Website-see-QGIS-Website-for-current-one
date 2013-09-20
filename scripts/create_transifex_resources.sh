@@ -14,6 +14,9 @@
 LOCALES=`ls i18n`
 #LOCALES=nl ja
 
+# to be sure there are not pot files left
+make clean
+
 #for ITEM in site
 #do
   for POFILE in `find i18n/en/LC_MESSAGES/${ITEM}/ -type f -name '*.po'`
