@@ -109,7 +109,7 @@ html: localizeresources
 	$(SPHINXINTL) build -l $(LANG) -c $(SOURCEDIR)/conf.py
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
 	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
+	@echo "Build finished. The HTML pages for '$(LANG)' are in $(BUILDDIR)/$(LANG)."
 
 fullhtml: pulldocsources html
 
