@@ -2,6 +2,39 @@
 Current and Past Sponsors of the QGIS Project
 *********************************************
 
+2013 Sponsors
+=============
+
+.. tabularcolumns:: |C|L| 
+.. list-table::
+   :header-rows: 1 
+   :widths: 10, 6, 20 
+   :class: center 
+
+   * - Logo
+     - Type
+     - Notes
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/aas.png 
+           :width: 6 cm
+           :alt: Asia Air Survey
+     - **Gold**
+     - Asia Air Survey, Japan (11.2012-10.2015) http://www.asiaairsurvey.com/
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/fossgisev.png
+           :width: 6 cm
+           :alt: FOSSGIS e.V.
+     - **Bronze**
+     - FOSSGIS e.V., Germany (10.2013) http://www.fossgis.de/
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/GeoSynergy.jpg
+           :width: 6 cm
+           :alt: GeoSynergy
+     - **Bronze**
+     - GeoSynergy, Australia (5.2012) http://www.geosynergy.com.au/
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/ibW_BZWM.png
+           :width: 6 cm
+           :alt: ibW Bildungszentrum Wald
+     - **Bronze**
+     - ibW Bildungszentrum Wald, Switzerland (3.2012) http://www.bzwmaienfeld.ch/
+
 Special sponsors
 ================
 
