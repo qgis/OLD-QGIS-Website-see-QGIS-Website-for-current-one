@@ -30,25 +30,35 @@ Ubuntu
 Get packages from the ubuntugis project for i386 and amd64 adding the appropriate
 lines to ``/etc/apt/sources.list``:
 
-Lucid::
+Raring::
 
- deb     http://qgis.org/debian lucid main
- deb-src http://qgis.org/debian lucid main
+ deb     http://qgis.org/debian raring main
+ deb-src http://qgis.org/debian raring main
 
-Natty::
+Quantal::
 
- deb     http://qgis.org/debian natty main
- deb-src http://qgis.org/debian natty main
+ deb     http://qgis.org/debian quantal main
+ deb-src http://qgis.org/debian quantal main
+
+Precise::
+
+ deb     http://qgis.org/debian precise main
+ deb-src http://qgis.org/debian precise main
 
 Oneiric::
 
  deb     http://qgis.org/debian oneiric main
  deb-src http://qgis.org/debian oneiric main
 
-Precise::
+Natty::
 
- deb     http://qgis.org/debian precise main
- deb-src http://qgis.org/debian precise main
+ deb     http://qgis.org/debian natty main
+ deb-src http://qgis.org/debian natty main
+
+Lucid::
+
+ deb     http://qgis.org/debian lucid main
+ deb-src http://qgis.org/debian lucid main
 
 To add the the qgis.org repository public key to your apt keyring, type::
 
