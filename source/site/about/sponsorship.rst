@@ -174,8 +174,9 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 .. |nextgis| image:: /static/site/about/images/nextgis.gif
    :width: 130 px
 
-Donation
---------
+List of donors
+--------------
+
 
 Donations can be of any amount, through the `Make A Donation PayPal <https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=AdBwoAp9yoTKrVYVX_a8x5uNGxn6jbzjkZVnJaTIqW6pVT4i_Ns6S3DVWym&dispatch=5885d80a13c0db1f8e263663d3faee8d96fc0752e9614158f04872d2f2ae25dc>`_
 link provided also in the menu of this website or through our bank account (write
@@ -184,9 +185,6 @@ difference and help to reach important project goals!
 
 If you wish to send us a larger donation, you are strongly encouraged to use the
 bank account rather than PayPal.
-
-List of donors
-..............
 
 
 * Aaron Racicot
