@@ -13,9 +13,7 @@ Recommendend installers
 Windows
 .......
 
-`Double-click installer <http://qgis.org/downloads/QGIS-OSGeo4W-1.8.0-2-Setup.exe>`_
-
-`Virus check results <http://www.garyshood.com/virus/results.php?r=737a37f767c0b8d19a19e5360b467d62>`_
+For Windows installers please go to `The main installers page <./download.html>`_.
 
 Linux
 .....

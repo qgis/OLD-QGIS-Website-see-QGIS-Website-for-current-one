@@ -270,7 +270,7 @@ Create the source tarball
 
 This is best achieved by running this little script::
 
-  cd ~/Quantum-GIS
+  cd ~/QGIS
   git archive --format=tar --prefix=qgis-2.0.0/ final-2_0_0 | \
   bzip2 > /var/www/downloads/qgis-2.0.0.tar.bz2
   md5sum /var/www/downloads/qgis-2.0.0.tar.bz2 > \
@@ -302,7 +302,7 @@ mail::
  I have branched QGIS 2.0.0 for release. The branch can be checked out like 
  this (as a tracking branch)
  
- git clone git://github.com/qgis/Quantum-GIS.git
+ git clone git://github.com/qgis/QGIS.git
  git branch --track release-2_0 origin/release-2_0
  git checkout release-2_0
  
@@ -380,7 +380,7 @@ Tim or Gary can update the IRC topic using this procedure:
 ::
 
   /msg chanserv op #qgis
-  /topic #qgis to: !!Quantum GIS "Wroclaw" 1.8.2 released Nov 2011! - http://download.qgis.org || Logs: http://irclogs.geoapt.com/qgis || All activity on this channel is logged !!
+  /topic #qgis to: !!QGIS "Dufoor" 2.0.1 released Sept 2013! - http://download.qgis.org || Logs: http://irclogs.geoapt.com/qgis || All activity on this channel is logged !!
 
 Update Version Text File
 ........................
@@ -402,7 +402,7 @@ Announcing the release of QGIS 2.0.0 (unstable release).
 A generic 20 word summary
 +++++++++++++++++++++++++
 
-Quantum GIS is a user friendly Open Source Geographic Information System that runs on Linux, Unix, Mac OSX, and Windows.
+QGIS is a user friendly Open Source Geographic Information System that runs on Linux, Unix, Mac OSX, and Windows.
 
 
 A mailing list announcement
@@ -463,7 +463,7 @@ The QGIS Team!
 A generic product description
 .............................
 
-Quantum GIS (QGIS) is a user friendly Open Source Geographic Information System
+QGIS (QGIS) is a user friendly Open Source Geographic Information System
 (GIS) that runs on Linux, Unix, Mac OSX, and Windows. QGIS supports vector,
 raster, and database formats. QGIS is licensed under the GNU General Public
 License. QGIS lets you browse and create map data on your computer. It supports
