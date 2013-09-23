@@ -15,7 +15,7 @@ User
 .. _how-to-ask-a-QGIS-question:
 
 Why is QGIS 2.0 named 'Dufour'?
-..............................
+...............................
 
 After a succesfull developer meeting in Zurich (Switzerland), we decided that
 the next release should be related to it. 

@@ -2,7 +2,7 @@
 #
 
 # You can set these variables from the command line
-LANGUAGES     = en es nl ja de it zh_CN fr ru da_DK ko_KR
+LANGUAGES     = en es nl ja de it zh_CN fr ru da_DK ko_KR fi
 LANG          = en
 SPHINXBUILD   = sphinx-build
 SPHINXINTL    = sphinx-intl
@@ -109,7 +109,7 @@ html: localizeresources
 	$(SPHINXINTL) build -l $(LANG) -c $(SOURCEDIR)/conf.py
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
 	@echo
-	@echo "Build finished. The HTML pages for '$(LANG)' are in $(BUILDDIR)/$(LANG)."
+	@echo "Build finished. The HTML pages for '$(LANG)' are in $(BUILDDIR)."
 
 fullhtml: pulldocsources html
 

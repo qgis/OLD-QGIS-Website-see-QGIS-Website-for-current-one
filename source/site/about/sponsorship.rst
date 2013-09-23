@@ -8,7 +8,17 @@ for our infrastructure and important development work, as well as finance develo
 meetings and promotion of QGIS in workshops and conferences.
 
 For information on becoming a sponsor, please visit 
-`our sponsorship page <../getinvolved/governance/sponsorship/sponsorship.html>` .
+`our sponsorship page <site/getinvolved/governance/sponsorship/sponsorship>` .
+
+
+.. |bronze| image:: /static/site/about/images/bronze.png
+   :width: 60 px
+
+.. |silver| image:: /static/site/about/images/silver.png
+   :width: 75 px
+
+.. |gold| image:: /static/site/about/images/gold.png
+   :width: 100 px
 
 
 .. _list_of_sponsors:
@@ -33,10 +43,10 @@ sponsorship page. These sponsors are listed below with our thanks!
 
 |silver| |gaia|
 
-`G.A.I.A. mbH`_, Germany (6.2013)
+`G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (6.2013)
 
-.. |land_f| image:: /static/site/about/images/gaia.png
-   :width: 290 px
+.. |gaia| image:: /static/site/about/images/gaia.png
+   :width: 191 px
 
 ----
 
