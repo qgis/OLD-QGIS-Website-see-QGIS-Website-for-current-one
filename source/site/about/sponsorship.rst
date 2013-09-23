@@ -28,8 +28,7 @@ List of sponsors
 
 Annually we also receive support from various organisations who appreciate the
 work we do and would like to facilitate the sustained development effort that
-goes into the project. For more information on sponsoring QGIS, please visit the
-sponsorship page. These sponsors are listed below with our thanks!
+goes into the project. These sponsors are listed below with our thanks!
 
 |gold|
 |aas_long|
@@ -43,7 +42,7 @@ sponsorship page. These sponsors are listed below with our thanks!
 
 |silver| |gaia|
 
-`G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (6.2013)
+`G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (06.2013-06.2014)
 
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 191 px
@@ -52,7 +51,7 @@ sponsorship page. These sponsors are listed below with our thanks!
 
 |silver| |land_f|
 
-`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (3.2013)
+`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-03.2014)
 
 .. |land_f| image:: /static/site/about/images/land_f.jpg
    :width: 290 px
@@ -81,7 +80,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 |silver| |sogis|
 
-`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012)
+`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013)
 
 .. |sogis| image:: /static/site/about/images/sogis.gif
    :width: 150 px
@@ -90,7 +89,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 |bronze| |fossgisev|
 
-`www.fossgis.de <http://www.fossgis.de/>`_, Germany (8.2012)
+`www.fossgis.de <http://www.fossgis.de/>`_, Germany (08.2012-08.2013)
 
 .. |fossgisev| image:: /static/site/about/images/fossgisev.png
    :width: 140 px
@@ -99,7 +98,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 |bronze| |argus|
 
-`www.argusoft.de <http://www.argusoft.de/>`_, Germany (6.2012)
+`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013)
 
 .. |argus| image:: /static/site/about/images/argus.jpg
    :width: 130 px
@@ -108,7 +107,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 |bronze| |geosynergy|
 
-`www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (5.2012)
+`www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (05.2012-05.2013)
 
 .. |geosynergy| image:: /static/site/about/images/geosynergy.jpg
    :width: 150 px
@@ -117,7 +116,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 |bronze| |ibw_bzwm|
 
-`ibW Bildungszentrum Wald <http://www.bzwmaienfeld.ch/>`_, Switzerland (3.2012)
+`ibW Bildungszentrum Wald <http://www.bzwmaienfeld.ch/>`_, Switzerland (03.2012-03.2013)
 
 .. |ibw_bzwm| image:: /static/site/about/images/ibw_bzwm.png
    :width: 150 px
@@ -126,7 +125,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 |silver| |sogis|
 
-`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (4.2011)
+`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (04.2011-04.2012)
 
 .. sogis as image already defined above
 
@@ -134,7 +133,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 |silver| |land_f|
 
-`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011)
+`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-11.2012)
 
 .. land_f image already defined above
 
@@ -142,7 +141,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 |bronze| |uster|
 
-`City of Uster <http://gis.uster.ch/>`_, Switzerland (11.2011)
+`City of Uster <http://gis.uster.ch/>`_, Switzerland (11.2011-11.2012)
 
 .. |uster| image:: /static/site/about/images/uster.gif
    :width: 100 px
@@ -151,7 +150,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 |bronze| |municipia|
 
-`Municípia, SA <http://www.municipia.pt/>`_, Portugal (2.2011)
+`Municípia, SA <http://www.municipia.pt/>`_, Portugal (02.2011-02.2012)
 
 .. |municipia| image:: /static/site/about/images/municipia.jpg
    :width: 78 px
@@ -160,7 +159,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 |bronze| |gfosservices|
 
-`Studio Associato Gfosservices <http://www.gfosservices.com/>`_, Italy (2.2010)
+`Studio Associato Gfosservices <http://www.gfosservices.com/>`_, Italy (02.2010-02.2011)
 
 .. |gfosservices| image:: /static/site/about/images/gfosservices.jpg
    :width: 55 px
@@ -169,7 +168,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 |bronze| |nextgis|
 
-`NextGIS <http://nextgis.org/>`_, Russia (3.2010)
+`NextGIS <http://nextgis.org/>`_, Russia (03.2010-03.2011)
 
 .. |nextgis| image:: /static/site/about/images/nextgis.gif
    :width: 130 px
