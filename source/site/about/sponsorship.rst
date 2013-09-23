@@ -1,4 +1,3 @@
-
 .. _QGIS-sponsoring:
 
 Supporting QGIS
@@ -72,6 +71,15 @@ sponsorship page. These sponsors are listed below with our thanks!
 
 .. |aas_long| image:: /static/site/about/images/aas_long.png
    :width: 600 px
+
+----
+
+|silver| |gaia|
+
+`G.A.I.A. mbH`_, Germany (6.2013)
+
+.. |land_f| image:: /static/site/about/images/gaia.png
+   :width: 290 px
 
 ----
 
