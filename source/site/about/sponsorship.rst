@@ -31,6 +31,15 @@ sponsorship page. These sponsors are listed below with our thanks!
 
 ----
 
+|silver| |gaia|
+
+`G.A.I.A. mbH`_, Germany (6.2013)
+
+.. |land_f| image:: /static/site/about/images/gaia.png
+   :width: 290 px
+
+----
+
 |silver| |land_f|
 
 `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (3.2013)
