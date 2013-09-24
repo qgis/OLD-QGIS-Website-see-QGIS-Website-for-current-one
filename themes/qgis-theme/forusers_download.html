@@ -17,14 +17,15 @@
           <div class="tab-pane active" id="tab1">
          	<!-- Tab 1 -->
             <!-- Downloads Accordion -->
+              <a name="windows"></a>
               <div class="accordion" id="downloads">
                 <div class="accordion-group">
                   <div class="accordion-heading">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#windows">
-                      <h4>{{ _('Download for Windows') }}</h4>
+                      <h4>{{ _('Download for Windows') }} <i class="icon-chevron-down pull-right"></i></h4>
                     </a>
                   </div>
-                  <div id="windows" class="accordion-body collapse">
+                  <div id="windows" class="accordion-body collapse in">
                     <div class="accordion-inner">
                       <div>
                         <h5>{{ _('For New Users:') }}</h5> 
@@ -65,13 +66,14 @@
                     </div>
                   </div>
                 </div>
+                <a name="mac"></a>
                 <div class="accordion-group">
                   <div class="accordion-heading">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#mac">
-                      <h4>{{ _('Download for Mac OS X') }}</h4>
+                      <h4>{{ _('Download for Mac OS X') }} <i class="icon-chevron-down pull-right"></i></h4>
                     </a>
                   </div>
-                  <div id="mac" class="accordion-body collapse">
+                  <div id="mac" class="accordion-body collapse in">
                     <div class="accordion-inner">
                       <p>{{ _('Mac Installer Package for both OS X Lion (10.7) and Snow Leopard (10.6).') }}</p>
                       <p>{{ _('This version requires') }} <strong> {{ _('separate installation of dependency frameworks (GDAL Complete and GSL)') }} </strong>{{ _(', also found at the download link below.') }}</p>
@@ -83,13 +85,14 @@
                     </div>
                   </div>
                 </div>
+                <a name="linux"></a>
                 <div class="accordion-group">
                   <div class="accordion-heading">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#linux">
-                      <h4>{{ _('Download for Linux') }}</h4>
+                      <h4>{{ _('Download for Linux') }} <i class="icon-chevron-down pull-right"></i></h4>
                     </a>
                   </div>
-                  <div id="linux" class="accordion-body collapse">
+                  <div id="linux" class="accordion-body collapse in">
                     <div class="accordion-inner">
                       <p>{{ _('For many flavors of GNU/Linux binary packages (rpm and deb) or software repositories to add to your installation manager are provided below') }}</p>
                       <ul>
@@ -105,25 +108,27 @@
                     </div>
                   </div>
                 </div>
+                <a name="bsd"></a>
                 <div class="accordion-group">
                   <div class="accordion-heading">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#unix">
-                      <h4>{{ _('Download for BSD') }}</h4>
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#bsd">
+                      <h4>{{ _('Download for BSD') }} <i class="icon-chevron-down pull-right"></i></h4>
                     </a>
                   </div>
-                  <div id="unix" class="accordion-body collapse">
+                  <div id="bsd" class="accordion-body collapse in">
                     <div class="accordion-inner">
                       <p class="download-text"><a href="{{ pathto('site/forusers/alldownloads') }}#freebsd">{{ _('BSD Installation Instructions') }} </a></p>
                     </div>
                   </div>
                 </div>
+                <a name="android"></a>
                 <div class="accordion-group">
                   <div class="accordion-heading">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#android">
-                      <h4>{{ _('Download for Android') }}</h4>
+                      <h4>{{ _('Download for Android') }} <i class="icon-chevron-down pull-right"></i></h4>
                     </a>
                   </div>
-                  <div id="android" class="accordion-body collapse">
+                  <div id="android" class="accordion-body collapse in">
                     <div class="accordion-inner">
                       <p>{{ _('Alpha and nightly builds for Android as well as further documentation can be obtained at ') }}<a href="http://android.qgis.org" classe="reference external" ><strong>android.qgis.org</strong></a></p>
                     </div>
@@ -161,18 +166,37 @@
             
             // Detect browser and open accordion tab for that os
             var os = "unknown";
-			if (navigator.platform.toUpperCase().indexOf("WIN")!=-1) os="windows";
-			if (navigator.platform.toUpperCase().indexOf("MAC")!=-1) os="mac";
-			if (navigator.platform.toUpperCase().indexOf("X11")!=-1) os="unix";
-			if (navigator.platform.toUpperCase().indexOf("LINUX")!=-1) os="linux"; 
-			if (navigator.platform.toUpperCase().indexOf("BSD")!=-1) os="bsd"; 
-			if (navigator.platform.toUpperCase().indexOf("ANDROID")!=-1) os="android"; 
-		    
-			$('.accordion-body').each(function(){
-				if ($(this).attr('id').toLowerCase() == os) {
-					$(this).addClass('in');
-				}
-			});
+      			if (navigator.platform.toUpperCase().indexOf("WIN")!=-1) os="windows";
+      			if (navigator.platform.toUpperCase().indexOf("MAC")!=-1) os="mac";
+      			if (navigator.platform.toUpperCase().indexOf("X11")!=-1) os="unix";
+      			if (navigator.platform.toUpperCase().indexOf("LINUX")!=-1) os="linux"; 
+      			if (navigator.platform.toUpperCase().indexOf("BSD")!=-1) os="bsd"; 
+      			if (navigator.platform.toUpperCase().indexOf("ANDROID")!=-1) os="android"; 
+      		    
+            // Add handler for accordion toggles
+            $('.accordion-toggle').click(function(){
+                var el = $(this).find("i");
+                if (el.hasClass("icon-chevron-down")) {
+                  el.removeClass("icon-chevron-down")
+                    .addClass("icon-chevron-left");
+                } else {
+                  el.removeClass("icon-chevron-left")
+                    .addClass("icon-chevron-down");
+                }
+            });
+
+            // Close unrelated if 1. hash tag is detected or 2. os is detected
+            var url = window.location.hash;
+            var hash = url.substring(url.lastIndexOf('#'), url.length);
+            var look_for = (hash == "" || hash == -1) ? os : hash.substring(1, hash.length);
+
+            $('.accordion-body').each(function(){
+              if ($(this).attr('id').toLowerCase() !== look_for) {
+                $(this).prev().children(":first-child").click();
+              }
+            });
+
+
           })
         </script>
     </div>
