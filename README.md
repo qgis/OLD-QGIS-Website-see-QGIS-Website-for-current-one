@@ -1,8 +1,6 @@
 QGIS-Website
 ============
 
-QGIS-Website
-
 To be able to run localisation targets you will need Sphinx 1.2b1 which comes with pip. 
 Sphinx coming with most distro's is just 1.1.3. You will get an error with those.
 
