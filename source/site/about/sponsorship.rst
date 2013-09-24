@@ -250,6 +250,7 @@ bank account rather than PayPal.
 * FOSSGIS e.V.
 * Fred Watchorn
 * Fred Ethève
+* Gabriele Baccini
 * Gabriele Monfardini
 * Gabriela Casares
 * Geoff Jones
