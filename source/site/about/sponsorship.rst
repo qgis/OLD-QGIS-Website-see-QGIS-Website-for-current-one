@@ -228,6 +228,7 @@ bank account rather than PayPal.
 * Christian Schwartze
 * D R Arbib
 * David Addy
+* David Horsey
 * David Vaarwerk
 * Dheeraj Chand
 * Didier Genier
@@ -240,6 +241,7 @@ bank account rather than PayPal.
 * Dušan Pavlík
 * Ecotrust
 * Emanuele Zamprogno
+* Erik Haß
 * Erwin Bauer
 * Evan Wolf
 * Fabian Frucht
@@ -297,6 +299,7 @@ bank account rather than PayPal.
 * Jorge Pintocorne
 * José Alfonso de Tomás Gargantilla
 * Jose Augusto Faes
+* Julien Villery
 * Junji Yamakawa
 * K Brock Riedell
 * Kanton Solothurn SOGIS
@@ -383,10 +386,12 @@ bank account rather than PayPal.
 * Thibaut Goelff
 * Thierry Gonon
 * Tim Baggett
+* Tim Gould
 * Tishampati Dhar
 * Tomas Trojacek
 * Thomas Dunz
 * Thomas Engleder
+* Tony MacLeod
 * Tyler Mitchell
 * Ujaval Gandhi
 * Umberto Zulian
