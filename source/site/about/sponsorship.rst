@@ -199,6 +199,7 @@ bank account rather than PayPal.
 * Alexandre Leroux
 * Amedeo Fadini
 * Anders Skoglund
+* Andrea Lau
 * Andrea Peri
 * Andreas Fuchs
 * Andreas Neumann
@@ -227,6 +228,7 @@ bank account rather than PayPal.
 * Cristian Spieles
 * Christian Schwartze
 * D R Arbib
+* Dan Karran
 * David Addy
 * David Horsey
 * David Vaarwerk
