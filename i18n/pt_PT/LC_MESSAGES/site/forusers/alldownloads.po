@@ -1,0 +1,386 @@
+# 
+# Translators:
+# AlexandreNeto <senhor.neto@gmail.com>, 2013
+# dncpax <dncarreira@gmail.com>, 2013
+# jonny_forest <joao.f.r.gaspar@gmail.com>, 2013
+# victorferreira <victor.mota.ferreira@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-17 08:12\n"
+"PO-Revision-Date: 2013-09-25 09:35+0000\n"
+"Last-Translator: AlexandreNeto <senhor.neto@gmail.com>\n"
+"Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/forusers/alldownloads.rst:4
+msgid "All Downloads"
+msgstr "Todos as Tranferências"
+
+#: ../../source/site/forusers/alldownloads.rst:6
+msgid "How to obtain QGIS?"
+msgstr "Como obter o QGIS?"
+
+#: ../../source/site/forusers/alldownloads.rst:8
+msgid "QGIS is freely available on Windows, Linux, MacOS X, BSD, and Android."
+msgstr "O QGIS está disponível gratuitamente para Windows, Linux, MacOS X, BSD, e Android."
+
+#: ../../source/site/forusers/alldownloads.rst:11
+msgid "Recommendend installers"
+msgstr "Instaladores recomendados"
+
+#: ../../source/site/forusers/alldownloads.rst:14
+#: ../../source/site/forusers/alldownloads.rst:170
+msgid "Windows"
+msgstr "Windows"
+
+#: ../../source/site/forusers/alldownloads.rst:16
+msgid ""
+"`Double-click installer <http://qgis.org/downloads/QGIS-"
+"OSGeo4W-1.8.0-2-Setup.exe>`_"
+msgstr "`Instalador simplificado <http://qgis.org/downloads/QGIS-OSGeo4W-1.8.0-2-Setup.exe>`_"
+
+#: ../../source/site/forusers/alldownloads.rst:18
+msgid ""
+"`Virus check results "
+"<http://www.garyshood.com/virus/results.php?r=737a37f767c0b8d19a19e5360b467d62>`_"
+msgstr "`Resultados da verificação antivirus <http://www.garyshood.com/virus/results.php?r=737a37f767c0b8d19a19e5360b467d62>`_"
+
+#: ../../source/site/forusers/alldownloads.rst:21
+#: ../../source/site/forusers/alldownloads.rst:184
+msgid "Linux"
+msgstr "Linux"
+
+#: ../../source/site/forusers/alldownloads.rst:23
+msgid ""
+"Most linux distributions split QGIS into several packages; you can decide "
+"not to install qgis-python, qgis-grass (or qgis-plugin-grass), or qgis-"
+"mapserver if you do not need it."
+msgstr "A maioria das distribuições linux dividem o QGIS em vários pacotes; pode decidir não instalar qgis-python, qgis-grass (ou qgis-plugin-grass), ou qgis-mapserver se não necessita deles."
+
+#: ../../source/site/forusers/alldownloads.rst:28
+#: ../../source/site/forusers/alldownloads.rst:188
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: ../../source/site/forusers/alldownloads.rst:30
+msgid ""
+"Get packages from the ubuntugis project for i386 and amd64 adding the "
+"appropriate lines to ``/etc/apt/sources.list``:"
+msgstr "Obtenha pacotes do projecto ubuntugis para i386 e amd64 adicionando as linhas apropriadas ao ``/etc/apt/sources.list``:"
+
+#: ../../source/site/forusers/alldownloads.rst:33
+#: ../../source/site/forusers/alldownloads.rst:213
+msgid "Lucid::"
+msgstr "Lucid::"
+
+#: ../../source/site/forusers/alldownloads.rst:38
+msgid "Natty::"
+msgstr "Natty::"
+
+#: ../../source/site/forusers/alldownloads.rst:43
+#: ../../source/site/forusers/alldownloads.rst:219
+msgid "Oneiric::"
+msgstr "Oneiric::"
+
+#: ../../source/site/forusers/alldownloads.rst:48
+#: ../../source/site/forusers/alldownloads.rst:194
+#: ../../source/site/forusers/alldownloads.rst:225
+msgid "Precise::"
+msgstr "Precise::"
+
+#: ../../source/site/forusers/alldownloads.rst:53
+#: ../../source/site/forusers/alldownloads.rst:204
+#: ../../source/site/forusers/alldownloads.rst:231
+msgid ""
+"To add the the qgis.org repository public key to your apt keyring, type::"
+msgstr "Para adicionar a chave pública do repositório qgis.org às suas chaves apt, tecle::"
+
+#: ../../source/site/forusers/alldownloads.rst:58
+msgid "Add also updated dependencies by typing::"
+msgstr "Adicione também dependências actualizadas teclando::"
+
+#: ../../source/site/forusers/alldownloads.rst:66
+#: ../../source/site/forusers/alldownloads.rst:237
+msgid "Debian"
+msgstr "Debian"
+
+#: ../../source/site/forusers/alldownloads.rst:68
+msgid ""
+"Packages for Debian *Squeeze, Wheezy and Unstable* for i386 and amd64 are "
+"available at:"
+msgstr "Pacotes para Debian *Squeeze, Wheezy e Unstable* para i386 e amd64 estão disponíveis em:"
+
+#: ../../source/site/forusers/alldownloads.rst:71
+#: ../../source/site/forusers/alldownloads.rst:241
+msgid "Squeeze::"
+msgstr "Squeeze::"
+
+#: ../../source/site/forusers/alldownloads.rst:76
+#: ../../source/site/forusers/alldownloads.rst:246
+msgid "Wheezy::"
+msgstr "Wheezy::"
+
+#: ../../source/site/forusers/alldownloads.rst:81
+#: ../../source/site/forusers/alldownloads.rst:251
+msgid "Unstable::"
+msgstr "Unstable::"
+
+#: ../../source/site/forusers/alldownloads.rst:86
+msgid ""
+"To add the the http://qgis.org repository public key to your apt keyring, "
+"type::"
+msgstr "Para adicionar a chave pública do repositório http://qgis.org às suas chaves do apt, tecle::"
+
+#: ../../source/site/forusers/alldownloads.rst:91
+msgid ""
+"Then add the lines for one of the repositories to your "
+"``/etc/apt/sources.list`` file (see below to choose the appropriate one) and"
+" type::"
+msgstr "Depois adicone as linhas para um dos repositórios ao seu ficheiro ``/etc/apt/sources.list`` (veja abaixo para escolher o mais apropriado) e tecle::"
+
+#: ../../source/site/forusers/alldownloads.rst:97
+msgid ""
+"Please remove all the QGIS and GRASS packages you may have installed from "
+"other repositories before doing the update."
+msgstr "Por favor, remova todos pacotes do QGIS e GRASS que possa ter instalado a partir de outros repositórios antes de efectuar a actualização."
+
+#: ../../source/site/forusers/alldownloads.rst:100
+#: ../../source/site/forusers/alldownloads.rst:273
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../../source/site/forusers/alldownloads.rst:102
+msgid "Get packages for Fedora 16 and 17 by typing::"
+msgstr "Obtenha os pacotes para Fedora 16 e 17 teclando::"
+
+#: ../../source/site/forusers/alldownloads.rst:107
+#: ../../source/site/forusers/alldownloads.rst:281
+msgid "RHEL, CentOS, Scientific Linux, ..."
+msgstr "RHEL, CentOs, Scientific Linux..."
+
+#: ../../source/site/forusers/alldownloads.rst:109
+msgid "Try the ELGIS repository: http://elgis.argeo.org/"
+msgstr "Experimente o repositório ELGIS: http://elgis.argeo.org/"
+
+#: ../../source/site/forusers/alldownloads.rst:111
+msgid ""
+"ELGIS requires the EPEL repo enabled, see "
+"http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL"
+msgstr "ELGIS exige que o repositório EPEL esteja activado, consulte http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL"
+
+#: ../../source/site/forusers/alldownloads.rst:114
+#: ../../source/site/forusers/alldownloads.rst:264
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: ../../source/site/forusers/alldownloads.rst:116
+msgid ""
+"Latest openSUSE package called qgis2 is available for 12.1, 12.2, 12.3, "
+"Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
+"installation manager. All packages include GRASS and Python support."
+msgstr "O pacote mais recente do openSUSE com o nome qgis2 está disponível para 12.1, 12.2, 12.3, Factory e Tumbleweed (32 e 64bit). Adicione o seguinte repositório ao seu gestor de instalações. Todos os pacotes incluem GRASS e suporte de Python."
+
+#: ../../source/site/forusers/alldownloads.rst:120
+#: ../../source/site/forusers/alldownloads.rst:270
+msgid "http://download.opensuse.org/repositories/Application:/Geo/<version>/"
+msgstr "http://download.opensuse.org/repositories/Application:/Geo/<version>/"
+
+#: ../../source/site/forusers/alldownloads.rst:123
+msgid "Mandriva"
+msgstr "Mandriva"
+
+#: ../../source/site/forusers/alldownloads.rst:125
+msgid "Current::"
+msgstr "Actual::"
+
+#: ../../source/site/forusers/alldownloads.rst:130
+msgid "Slackware"
+msgstr "Slackware"
+
+#: ../../source/site/forusers/alldownloads.rst:132
+msgid "Packages on http://qgis.gotslack.org"
+msgstr "Pacotes em http://qgis.gotslack.org"
+
+#: ../../source/site/forusers/alldownloads.rst:135
+msgid "MacOS X"
+msgstr "MacOS X"
+
+#: ../../source/site/forusers/alldownloads.rst:137
+msgid ""
+"Installing in OS X requires separate installation of `dependency frameworks "
+"<http://www.kyngchaos.com/software/frameworks>`_ (GDAL Complete and GSL). "
+"GRASS http://www.kyngchaos.com/software/grass is supported with this "
+"version. Some common Python modules http://www.kyngchaos.com/software/python"
+" available for QGIS plugin requirements. Single installer package are "
+"available for both OS X Lion (10.7) and Snow Leopard (10.6)."
+msgstr "Instalação em OS X exige a instalação prévia de 'dependências de base <http://www.kyngchaos.com/software/frameworks>`_ (GDAL Complete e GSL). O GRASS http://www.kyngchaos.com/software/grass é suportado com esta versão. Alguns módulos comuns de Python http://www.kyngchaos.com/software/python estão disponíveis para os requisitos de módulos QGIS. É disponibilizado um único instalador para ambos OS X Lion (10.7) e Snow Leopard (10.6)."
+
+#: ../../source/site/forusers/alldownloads.rst:143
+msgid ""
+"QGIS download page on KyngChaos http://www.kyngchaos.com/software/qgis "
+"(framework requirements listed here)."
+msgstr "Página de transferência do QGIS no KyngChaos http://www.kyngchaos.com/software/qgis (requisitos de base listados aqui)."
+
+#: ../../source/site/forusers/alldownloads.rst:147
+msgid "Android"
+msgstr "Android"
+
+#: ../../source/site/forusers/alldownloads.rst:149
+msgid ""
+"Alpha and nightly builds as well as further documentation can be obtained at"
+" http://android.qgis.org"
+msgstr "Versões Alfa e noturnas bem como documentação adicional podem ser obtidas em http://android.qgis.org"
+
+#: ../../source/site/forusers/alldownloads.rst:153
+#: ../../source/site/forusers/alldownloads.rst:308
+msgid "FreeBSD"
+msgstr "FreeBSD"
+
+#: ../../source/site/forusers/alldownloads.rst:155
+msgid "To compile QGIS from binary packages type::"
+msgstr "Para compilar QGIS a partir de pacotes binários tecle::"
+
+#: ../../source/site/forusers/alldownloads.rst:160
+msgid "Development version"
+msgstr "Versão de Desenvolvimento"
+
+#: ../../source/site/forusers/alldownloads.rst:162
+msgid ""
+"**Warning**: Development versions from master are provided for some "
+"platforms in addition to the released version. *Master* contains unreleased "
+"software that is currently being worked on. As such they are unsupported and"
+" only provided for testing purposes to early adopters to check if bugs have "
+"been resolved and that no new bugs have been introduced. At any given time "
+"it may not work, or may do bad things to your data. Use at your own risk. "
+"You have been warned!"
+msgstr "**Aviso**: Versões de Desenvolvimento criadas a partir da versão mestre ('master') são disponibilizadas para algumas plataformas para além da versão actual. A versão *Mestre* contém software ainda não lançado e é alvo de trabalho corrente. Como tal não são suportadas e apenas são disponibilizadas para testes por parte de utilizadores pioneiros para verificação da resolução de bugs e se nenhum novo bug foi introduzido. Em qualquer dado momento pode não ser funcional, ou provocar perda dos seus dados. Utilize sob sua conta e risco. Considere-se avisado!"
+
+#: ../../source/site/forusers/alldownloads.rst:172
+msgid ""
+"**OSGeo4W Installer**: The OSGeo4W repository contains a lot of software "
+"from OSGeo projects. QGIS and all dependencies are included, along with "
+"Python, GRASS, GDAL, etc. The installer is able to install from internet or "
+"just download all needed packages beforehand. The downloaded files are kept "
+"in a local directory for future installations. Steps are:"
+msgstr "**Instalador OSGeo4W**: O repositório OSGeo4W contém muito software de projetos OSGeo. QGis e todas as suas dependências estão incluídas, juntamente com Python, GRASS, GDAL, etc. O instalador é capaz de instalar a partir da internet ousimplesmente descarregar todos os pacotes necessários previamente. Os ficheiros transferidos são guardados numa directoria local para futuras instalações. Os passos são:"
+
+#: ../../source/site/forusers/alldownloads.rst:178
+msgid "Download OSGEO4W Installer"
+msgstr "Transferir o Instalador OSGEO4W"
+
+#: ../../source/site/forusers/alldownloads.rst:179
+msgid "Start it"
+msgstr "Iniciar"
+
+#: ../../source/site/forusers/alldownloads.rst:180
+msgid ""
+"Select **Advanced Install** and then the *qgis-dev* package from the Desktop"
+" section. Also other libraries can be selected."
+msgstr "Seleccione **Instalação Avançada** e de seguida o pacote *qgis-dev** da secção Desktop. Também podem ser seleccionadas outras livrarias."
+
+#: ../../source/site/forusers/alldownloads.rst:190
+msgid "On plain ubuntu"
+msgstr "EM ubuntu simples"
+
+#: ../../source/site/forusers/alldownloads.rst:192
+#: ../../source/site/forusers/alldownloads.rst:239
+msgid ""
+"Nightly builds of the Master are available from following repository (i386 "
+"and amd64):"
+msgstr "Compilações noturnas do Master estãodisponíveis no repositório seguinte (i386 e amd64):"
+
+#: ../../source/site/forusers/alldownloads.rst:199
+msgid "Quantal::"
+msgstr "Quantal::"
+
+#: ../../source/site/forusers/alldownloads.rst:209
+msgid "ubuntugis"
+msgstr "ubuntugis"
+
+#: ../../source/site/forusers/alldownloads.rst:211
+msgid ""
+"There are also nightly builds that depend on updated dependencies found in "
+"ubuntugis:"
+msgstr "Também existem compilações diárias que dependem de dependências actualizadas que se encontram no ubuntugis:"
+
+#: ../../source/site/forusers/alldownloads.rst:256
+msgid ""
+"Although the nightly builds can be used to test newer versions, they are "
+"mainly meant to test, if the newer qgis versions still build fine on the "
+"various distributions using the various (older) versions of libraries found "
+"there. Therefore it is not intended to build versions that depend on more "
+"current libraries. That means if you need current qgis version with more "
+"uptodate libraries you will have to build them yourself."
+msgstr "Embora as compilações diárias possam ser usadas para testar novas versões, estas servem principalmente para testar se novas versões do qgis compilam correctamente em várias distribuições usando as várias versões (antigas) de bibliotecas nelas encontradas."
+
+#: ../../source/site/forusers/alldownloads.rst:266
+msgid ""
+"A regularly updated development package from qgis master called qgis-master "
+"is available for 12.1, 12.2, 12.3, Factory and Tumbleweed (32 and 64bit). "
+"Add the following repository to your installation manager. All packages "
+"include GRASS and Python support."
+msgstr "Um pacote actualizado regularmente do qgis master chamado qgis-master está disponível para 12.1, 12.2, 12.3, Factory e Tumbleweed (32 e 64bit). Adicione o seguinte repositório ao seu gestor de instalações. Todos os pacotes incluem GRASS e suporte de Python."
+
+#: ../../source/site/forusers/alldownloads.rst:275
+msgid ""
+"A newer version might be available in the testing repository -- usually "
+"around one week::"
+msgstr "Um nova versão poderá estar disponível no repositório de testes -- em geral semanalment::"
+
+#: ../../source/site/forusers/alldownloads.rst:283
+msgid ""
+"If you want to try the cutting edge: "
+"http://elgis.argeo.org/repos/testing/6/elgis/"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:285
+msgid "They're happy if you provide feedback on their mailing list."
+msgstr "Estarão contentes se fornecer uma resposta nas listas de discussão deles."
+
+#: ../../source/site/forusers/alldownloads.rst:287
+msgid ""
+"If it does not work for you, you can try to rebuild the Fedora SRPM. The "
+"Fedora 15 version of QGIS builds in Mock for EPEL 6. Notice, this package "
+"will not support GRASS, because there is no GRASS package in RHEL/EPEL."
+msgstr "Se não funcionar, pode experimentar recompilar o SRPM do Fedora. A versão qgis para Fedora 15 compila em Mock para EPEL 6. Repare que, este pacote não suporta GRASS, pois não existem pacotes GRASS para RHEL/EPEL."
+
+#: ../../source/site/forusers/alldownloads.rst:291
+msgid ""
+"argeo.org has a wiki on rebuilding their packages. For a more general quick "
+"guide in rebuilding, you can also take a look at "
+"http://zabbix.org/wiki/Docs/howto/rebuild_rpms"
+msgstr "O argeo.org tem uma wiki sobre recompilação dos seus pacotes. Para um guia rápido de recompilação mais generalista pode também consultar http://zabbix.org/wiki/Docs/howto/rebuild_rpms"
+
+#: ../../source/site/forusers/alldownloads.rst:294
+msgid "More info from: Volker Fröhlich <volker27 AT gmx DOT at>"
+msgstr "Mais informação em: Volker Fröhlich <volker27 AT gmx DOT at>"
+
+#: ../../source/site/forusers/alldownloads.rst:297
+msgid "Mac OS X"
+msgstr "Mac OS X"
+
+#: ../../source/site/forusers/alldownloads.rst:299
+msgid "KyngChaos Qgis download page http://www.kyngchaos.com/software/qgis"
+msgstr "Página de Transferência QGIS KyngChaos  http://www.kyngchaos.com/software/qgis"
+
+#: ../../source/site/forusers/alldownloads.rst:301
+msgid ""
+"Requirements and support same as for Mac OS X Release, above. Builds for OS "
+"X Mountain Lion (10.8) and OS X Lion (10.7), and separate one for OS X Snow "
+"Leopard (10.6). All are compiled for 64-bit Macs."
+msgstr "Requisitos e suporte idênticos aos da versão Mac OS X acima. Compilações para OS X Mountain Lion (10.8) e OS X Lion (10.7), e  em separado para OS X Snow Leopard (10.6). Todas compiladas para Macs 64-bit."
+
+#: ../../source/site/forusers/alldownloads.rst:305
+msgid ""
+"Nightly build at http://qgis.dakotacarto.com provided by Dakota Cartography."
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:310
+msgid "To compile QGIS from sources in FreeBSD you need to type::"
+msgstr "Para compilar o QGIS das fontes no FreeBSD necessita de escrever::"
