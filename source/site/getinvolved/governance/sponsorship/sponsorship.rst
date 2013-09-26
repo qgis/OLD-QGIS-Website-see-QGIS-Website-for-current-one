@@ -1,3 +1,5 @@
+.. _QGIS_sponsorship_program:
+
 ****************************
 Sponsorship Program Overview
 ****************************

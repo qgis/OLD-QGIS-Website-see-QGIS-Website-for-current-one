@@ -70,7 +70,7 @@ springclean: clean
 	# something in i18n/pot dir creates havoc when using gettext: remove it
 	rm -rf i18n/pot
 	rm -rf $(BUILDDIR)/*
-	rm -f $(SOURCEDIR)/docs_conf.py
+	rm -f $(SOURCEDIR)/docs_conf.py*
 
 # remove all resources from source/static directory
 # copy english resources from resources/en to source/static directory

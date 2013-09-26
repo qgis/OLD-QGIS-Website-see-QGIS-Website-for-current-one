@@ -7,8 +7,7 @@ We thank our sponsors and donors who support the QGIS project and enable us to p
 for our infrastructure and important development work, as well as finance developer 
 meetings and promotion of QGIS in workshops and conferences.
 
-For information on becoming a sponsor, please visit 
-`our sponsorship page <site/getinvolved/governance/sponsorship/sponsorship>` .
+For information on becoming a sponsor, please visit :ref:`QGIS_sponsorship_program`.
 
 
 .. |bronze| image:: /static/site/about/images/bronze.png
@@ -177,8 +176,7 @@ List of donors
 --------------
 
 
-Donations can be of any amount, through the `Make A Donation PayPal <https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=AdBwoAp9yoTKrVYVX_a8x5uNGxn6jbzjkZVnJaTIqW6pVT4i_Ns6S3DVWym&dispatch=5885d80a13c0db1f8e263663d3faee8d96fc0752e9614158f04872d2f2ae25dc>`_
-link provided also in the menu of this website or through our bank account (write
+Donations can be of any amount, via the Paypal button on the frontpage, or through our bank account (write
 us for details: cavallini at faunalia dot it). Even a small donation can make a
 difference and help to reach important project goals!
 

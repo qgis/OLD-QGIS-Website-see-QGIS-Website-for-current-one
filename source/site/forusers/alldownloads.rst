@@ -1,7 +1,8 @@
+
 .. _QGIS-download:
 
 All Downloads
-=============
+^^^^^^^^^^^^^
 
 How to obtain QGIS?
 
@@ -135,7 +136,7 @@ Latest openSUSE package called qgis2 is available for 12.1, 12.2, 12.3, Factory 
 Tumbleweed (32 and 64bit). Add the following repository to your installation manager. 
 All packages include GRASS and Python support.
 
-http://download.opensuse.org/repositories/Application:/Geo/<version>/
+http://download.opensuse.org/repositories/Application:/Geo/VERSION/
 
 Mandriva
 ++++++++
@@ -285,7 +286,7 @@ A regularly updated development package from qgis master called qgis-master is a
 for 12.1, 12.2, 12.3, Factory and Tumbleweed (32 and 64bit). Add the following repository 
 to your installation manager. All packages include GRASS and Python support.
 
-http://download.opensuse.org/repositories/Application:/Geo/<version>/
+http://download.opensuse.org/repositories/Application:/Geo/VERSION/
 
 Fedora
 ++++++
@@ -329,3 +330,22 @@ To compile QGIS from sources in FreeBSD you need to type::
 
  cd /usr/ports/graphics/qgis
  make install clean
+
+
+Older versions
+--------------
+
+Windows builds and sourceballs: http://qgis.org/downloads
+
+Linux
+.....
+
+OpenSUSE
+++++++++
+
+OpenSUSE package for QGIS 1.8 is called qgis. It is available for 12.1,
+12.2, 12.3, Factory and Tumbleweed (32 and 64bit). Add the following
+repository to your installation manager. All packages include GRASS and
+Python support.
+
+http://download.opensuse.org/repositories/Application:/Geo/VERSION/
