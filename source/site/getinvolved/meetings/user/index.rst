@@ -9,7 +9,7 @@ Contents:
 
    Kassel_2013
    Melbourne_2013
-   Zürich_2013
+   Zurich_2013
    Perth_2013
    Lisboa_2012
    Kassel_2012
