@@ -10,6 +10,6 @@ Download QGIS
     here we put a toctree just to have the alldownloads page in a toc, thereby in the tocbar
 
 .. toctree::
-    :maxdepth: 4
+    :maxdepth: 3
 
     alldownloads

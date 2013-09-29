@@ -270,6 +270,30 @@ section {
   margin: 0;
 }
 
+/*
+our sphinx :refs: become anchors. But linking to an anchor in top of the page
+makes it hide it beneath our header/menu.
+To jump a little lower (below header/menu), we use a negative margin hack, see
+http://nicolasgallagher.com/jump-links-and-viewport-positioning/
+and
+http://coding.smashingmagazine.com/2009/07/27/the-definitive-guide-to-using-negative-margins/
+*/
+div.section:before {
+   content:"";
+   display:block;
+   height:60px;
+   margin:-60px 0 0 0;      /*this is working for non frontpages*/
+}
+/* span achors are a little more difficult,
+these are for internal refs, eg: en/docs/user_manual/working_with_vector/editing_geometry_attributes.html#sec-advanced-edit
+hopefully this is unique enough for the :ref: spans we use */
+div.section > span:before {
+   content:"";
+   display:block;
+   height:60px;
+   margin:0 0 0 0;
+}
+
 /*** LANDING ***/
 #carouselBox {
   margin-top: 20px;

@@ -2,20 +2,22 @@
     <div class="container">
         <h2>{{ _('Download QGIS for your Platform') }}</h2>
 
-        <p class="main">{{ _('QGIS is available on Windows, MacOS X, Linux and Android. Binary packages are provided for the current version. The current version is QGIS 2.0.1 and was released in September 2013.') }}</p>
-        <p class="main">{{ _('Plugins for QGIS are also available ') }}<a href="http://plugins.qgis.org/plugins/" class="reference external">{{ _('here') }}</a>.</p>
+        <p class="main">{{ _('QGIS is available on Windows, MacOS X, Linux and Android. Binary packages are provided for the current version.') }}</p>
+        <p class="main">{{ _('The current version is QGIS 2.0.1 and was released in September 2013.') }}</p>
     </div>
 </section>
 <section class="content">
     <div class="container">
         <ul class="nav nav-tabs" id="tabs">
-          <li class="active"><a href="#tab1">{{ _('All Downloads') }}</a></li>
-          <li><a href="#tab2">{{ _('Older Releases') }}</a></li>
-          <li><a href="#tab3">{{ _('Development Versions') }}</a></li>
+          <li class="active"><a href="#tab1">{{ _('Installation Downloads') }}</a></li>
+          <li><a href="#tab2">{{ _('All Releases') }}</a></li>
+          <li><a href="#tab3">{{ _('Sources') }}</a></li>
         </ul>
+
         <div class="tab-content">
+
+          <!-- Tab 1 -->
           <div class="tab-pane active" id="tab1">
-         	<!-- Tab 1 -->
             <!-- Downloads Accordion -->
               <a name="windows"></a>
               <div class="accordion" id="downloads">
@@ -103,6 +105,7 @@
                       <li><a href="{{ pathto('site/forusers/alldownloads') }}#rhel-centos-scientific-linux">{{ _('RHEL, CentOS, Scientific Linux, ...') }}</a></li>
                       <li><a href="{{ pathto('site/forusers/alldownloads') }}#mandriva">{{ _('Mandriva') }}</a></li>
                       <li><a href="{{ pathto('site/forusers/alldownloads') }}#slackware">{{ _('Slackware') }}</a></li>
+                      <li><a href="{{ pathto('site/forusers/alldownloads') }}#archlinux">{{ _('ArchLinux') }}</a></li>
                       </ul>
                       <p class="download-text"><a href="{{ pathto('site/forusers/alldownloads') }}#linux">{{ _('Linux Installation Instructions') }}</a></p>
                     </div>
@@ -138,32 +141,38 @@
               <!-- End Accordion -->
 
               <h4><a href="{{ pathto('site/forusers/alldownloads') }}">{{ _('All downloads') }}</a></h4>
-              <h4><a href="http://qgis.org/downloads/">{{ _('Older releases') }}</a></h4>
+              <p>
+                {{ _('More specific instructions about downloading QGIS stable vs QGIS development can be found in') }} <a href="{{ pathto('site/forusers/alldownloads') }}">{{ _('All downloads') }}</a>.
+              </p>
 
-              <p>{{ _('QGIS is open source software available under the terms of the') }} <b>{{ _('GNU General Public License') }}</b> {{ _('meaning that its source code can be downloaded through tarballs or the git repository.') }}</p>
+              <h4><a href="{{ pathto('docs/user_manual/introduction/getting_started') }}">{{ _('Datasets') }}</a></h4>
+              <p>{{ _('For testing and learning purposes, a ') }} <a href="{{ pathto('docs/user_manual/introduction/getting_started') }}#sample-data"><strong>{{ _('sample dataset is available') }}</strong></a>, {{ _('which contains collections of data from different sources and in different formats.') }}</p>
 
-              <p><b>{{ _('Datasets:') }}</b> {{ _('For testing and learning purposes, a ') }} <a href="{{ pathto('docs/user_manual/introduction/getting_started') }}#sample-data"><strong>{{ _('sample dataset is available') }}</strong></a>, {{ _('which contains collections of data from different sources and in different formats.') }}</p>
-
-              <p><b>{{ _('Warning:') }}</b> {{ _('Development versions from master are provided for some platforms in addition to the released version. Master contains unreleased software that is currently being worked on. As such they are unsupported and only provided for testing purposes to early adopters to check if bugs have been resolved and that no new bugs have been introduced. At any given time it may not work, or may do bad things to your data.') }} <b>{{ _('Use at your own risk.') }}</b></p>
           </div>
-          <div class="tab-pane" id="tab2">
+
           <!-- Tab 2 -->
-              <p>{{ _('Older releases of QGIS are available') }} <a href="http://qgis.org/downloads/">{{ _('here') }}</a>.</p>
+          <div class="tab-pane" id="tab2">
+              <p>{{ _('Older releases of QGIS are available') }} <a href="http://qgis.org/downloads/" class="reference external">{{ _('here') }}</a>.</p>
+              <p>{{ _('Plugins for QGIS are also available ') }}<a href="http://plugins.qgis.org/plugins/" class="reference external">{{ _('here') }}</a>.</p>
           </div>
-          <div class="tab-pane" id="tab3">
+
           <!-- Tab 3 -->
+          <div class="tab-pane" id="tab3">
+              <p>{{ _('QGIS is open source software available under the terms of the') }} <b>{{ _('GNU General Public License') }}</b> {{ _('meaning that its source code can be downloaded through tarballs or the git repository.') }}</p>
               <p>{{ _('QGIS Source Code is available on github ') }} <a href="http://github.com/qgis/Quantum-GIS" class="reference external">{{ _('here') }}</a></p>
-              <p>{{ _('. Refer to the INSTALL guide for setting up the latest QGIS from source.') }}</p>
+              <p>{{ _('Refer to the INSTALL guide on how to compile QGIS from source for the different platforms.') }}</p>
+              <p>{{ _('Plugins for QGIS are also available ') }}<a href="http://plugins.qgis.org/plugins/" class="reference external">{{ _('here') }}</a>.</p>
           </div>
         </div>
+
         <script>
-        
+
           $(function () {
             $('#tabs a').click(function (e) {
               e.preventDefault();
               $(this).tab('show');
             });
-            
+
             // Detect browser and open accordion tab for that os
             var os = "unknown";
       			if (navigator.platform.toUpperCase().indexOf("WIN")!=-1) os="windows";

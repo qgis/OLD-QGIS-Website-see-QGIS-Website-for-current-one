@@ -5,7 +5,6 @@
     about/index
     forusers/index
     getinvolved/index
-    forusers/download
     ../docs/index
 
 Welcome to the QGIS project!
