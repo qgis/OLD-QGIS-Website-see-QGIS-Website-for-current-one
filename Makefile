@@ -2,7 +2,7 @@
 #
 
 # You can set these variables from the command line
-LANGUAGES     = en es nl ja de it zh_CN fr ru da_DK ko_KR fi pt_PT
+LANGUAGES     = `ls i18n`
 LANG          = en
 SPHINXBUILD   = sphinx-build
 SPHINXINTL    = sphinx-intl
@@ -28,7 +28,7 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) i18n/pot
 
 help:
 	@echo "  "
-	@echo "Please use \`make <target>' where <target> is one of:"
+	@echo "Please use \`make <target> LANG=xx' where xx=language code and <target> is one of:"
 	@echo "  html         to build the website as html for enlish only"
 	@echo "  fullhtml     to pull QGIS-Documentation from github and build into the website"
 	@echo "  world        to create the website for ALL available languages"
