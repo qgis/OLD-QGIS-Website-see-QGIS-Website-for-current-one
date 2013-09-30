@@ -65,8 +65,8 @@ If you want the GRASS plugin make sure to install the optional package::
 
 In case of keyserver errors. To add the the qgis.org repository public key to your apt keyring, type::
 
- gpg --keyserver keyserver.ubuntu.com --recv 997D3880
- gpg --export --armor 997D3880 | sudo apt-key add -
+ gpg --keyserver keyserver.ubuntu.com --recv 47765B75
+ gpg --export --armor 47765B75 | sudo apt-key add -
 
 
 QGIS stable
@@ -74,6 +74,11 @@ QGIS stable
 
 On plain Ubuntu:
 ^^^^^^^^^^^^^^^^
+
+Saucy::
+
+ deb     http://qgis.org/debian saucy main
+ deb-src http://qgis.org/debian saucy main
 
 Raring::
 
@@ -89,16 +94,6 @@ Precise::
 
  deb     http://qgis.org/debian precise main
  deb-src http://qgis.org/debian precise main
-
-Oneiric::
-
- deb     http://qgis.org/debian oneiric main
- deb-src http://qgis.org/debian oneiric main
-
-Natty::
-
- deb     http://qgis.org/debian natty main
- deb-src http://qgis.org/debian natty main
 
 Lucid::
 
@@ -130,15 +125,15 @@ On plain Ubuntu:
 
 Nightly builds of QGIS development are available from following repository (i386 and amd64):
 
-Precise::
-
- deb     http://qgis.org/debian-nightly precise main
- deb-src http://qgis.org/debian-nightly precise main
-
 Quantal::
 
  deb     http://qgis.org/debian-nightly quantal main
  deb-src http://qgis.org/debian-nightly quantal main
+
+Precise::
+
+ deb     http://qgis.org/debian-nightly precise main
+ deb-src http://qgis.org/debian-nightly precise main
 
 
 Via ubuntugis:
@@ -147,23 +142,29 @@ Via ubuntugis:
 There are also nightly builds that depend on updated dependencies found in ubuntugis.
 Be sure to remove the http://qgis.org/debian ones first, otherwise you'll endup with a mix of dependencies.
 
-Lucid::
+Raring::
 
- deb     http://qgis.org/ubuntugis-nightly lucid main
- deb-src http://qgis.org/ubuntugis-nightly lucid main
- deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu lucid main
+ deb     http://qgis.org/ubuntugis-nightly raring main
+ deb-src http://qgis.org/ubuntugis-nightly raring main
+ deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu raring main
 
-Oneiric::
+Quantal::
 
- deb     http://qgis.org/ubuntugis-nightly oneiric main
- deb-src http://qgis.org/ubuntugis-nightly oneiric main
- deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu oneiric main
+ deb     http://qgis.org/ubuntugis-nightly quantal main
+ deb-src http://qgis.org/ubuntugis-nightly quantal main
+ deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu quantal main
 
 Precise::
 
  deb     http://qgis.org/ubuntugis-nightly precise main
  deb-src http://qgis.org/ubuntugis-nightly precise main
  deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu precise main
+
+Lucid::
+
+ deb     http://qgis.org/ubuntugis-nightly lucid main
+ deb-src http://qgis.org/ubuntugis-nightly lucid main
+ deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu lucid main
 
 
 Debian
@@ -172,28 +173,28 @@ Debian
 QGIS stable
 ...........
 
-Packages for Debian *Squeeze, Wheezy and Unstable* for i386 and amd64 are
+Packages for Debian *Wheezy, Jessie and Unstable* for i386 and amd64 are
 available at:
 
-Squeeze::
-
- deb     http://qgis.org/debian squeeze main
- deb-src http://qgis.org/debian squeeze main
-
-Wheezy::
+Wheezy (7.x)::
 
  deb     http://qgis.org/debian wheezy main
  deb-src http://qgis.org/debian wheezy main
 
-Unstable::
+Jessie (8.x)::
+
+ deb     http://qgis.org/debian jessie main
+ deb-src http://qgis.org/debian jessie main
+
+Sid (Unstable)::
 
  deb     http://qgis.org/debian sid main
  deb-src http://qgis.org/debian sid main
 
 To add the the http://qgis.org repository public key to your apt keyring, type::
 
- gpg --recv-key 997D3880
- gpg --export --armor 997D3880 | sudo apt-key add -
+ gpg --recv-key 47765B75
+ gpg --export --armor 47765B75 | sudo apt-key add -
 
 Then add the lines for one of the repositories to your ``/etc/apt/sources.list``
 file (see below to choose the appropriate one) and type::
@@ -209,17 +210,17 @@ QGIS development
 
 Nightly builds of QGIS development are available from following repository (i386 and amd64):
 
-Squeeze::
-
- deb     http://qgis.org/debian-nightly squeeze main
- deb-src http://qgis.org/debian-nightly squeeze main
-
-Wheezy::
+Wheezy (7.x)::
 
  deb     http://qgis.org/debian-nightly wheezy main
  deb-src http://qgis.org/debian-nightly wheezy main
 
-Unstable::
+Jessie (8.x)::
+
+ deb     http://qgis.org/debian-nightly jessie main
+ deb-src http://qgis.org/debian-nightly jessie main
+
+Sid (Unstable)::
 
  deb     http://qgis.org/debian-nightly sid main
  deb-src http://qgis.org/debian-nightly sid main
