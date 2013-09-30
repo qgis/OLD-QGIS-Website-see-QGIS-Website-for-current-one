@@ -56,7 +56,7 @@ Or add these repositories via your favourite Ubuntu software installation GUI.
 Then type::
 
  sudo apt-get update
- sudo apt-get install qgis, python-qgis
+ sudo apt-get install qgis python-qgis
 
 If you want the GRASS plugin make sure to install the optional package::
 
