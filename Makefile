@@ -118,17 +118,13 @@ world: all
 all: pulldocsources
 	@echo
 	@echo Building html for the following languages: $(LANGUAGES)
-
-# this one should work on when there is enough diskspace
-newall: pulldocsources
-	@echo
-	@echo Building html for the following languages: $(LANGUAGES)
 	@echo
 	# after build quickly rename old live dir, mv output to live dir and then remove old dir
 	@for LANG in $(LANGUAGES) ; do \
 		make LANG=$$LANG fullhtml; \
+		mkdir -p live/html; \
 		mv live/html/$$LANG live/html/$$LANG.old; \
-		mv output/html/$$LANG live/html/$$LANG; \
+		mv output/html/$$LANG live/html/; \
 		rm -rf live/html/$$LANG.old; \
 	done
 
