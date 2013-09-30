@@ -188,6 +188,7 @@ bank account rather than PayPal.
 * Adam Lane
 * Adrian Cooke
 * Adrian Matter
+* Aileen Heal
 * Albin Blaschka
 * Alessandro Fanna
 * Alessandro Pasotti
@@ -340,6 +341,7 @@ bank account rather than PayPal.
 * Niccolo Rigacci
 * Nikita Mozgunov
 * Nikolaos Alexandris
+* Nikolaos Christou
 * Nikolaou Konstantinos
 * Norman Trowell
 * Oliver Schonrock
@@ -371,6 +373,7 @@ bank account rather than PayPal.
 * Roberta Benetti
 * Russell Rew
 * Sake Wagenaar
+* Sebastian Cionoiu
 * Sergey Khokhlov
 * Shapesmart
 * Silvio Grosso
@@ -398,6 +401,7 @@ bank account rather than PayPal.
 * Wendelin Schmit
 * Werner Macho
 * William Levering
+* Yuan Harng Lee
 * Yves Jacolin
 * Zachary Patterson
 
