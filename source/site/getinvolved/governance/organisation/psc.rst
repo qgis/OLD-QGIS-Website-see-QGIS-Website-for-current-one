@@ -48,10 +48,13 @@ The PSC consists of 8 identified roles as follows:
    source control, and issue tracking.
    Make recommendations for improvements, expansion, and consolidation of services.
    Guide and direct volunteers
-* **Release Manager**
-   Oversee timely, regular, stable releases of QGIS on the various supported platforms.
-   With the PSC, determine timelines for freezes, releases, and general release and maintenance policies.
-   Recruit and support build managers to create packages for supported platforms.
+* **Testing and QA Manager**
+   To oversee the development of a Quality Assurance framework infrastructure
+   within QGIS so that we may present the best possible version of QGIS to the
+   world at large. The remit includes development of a comprehensive unit
+   testing framework, curation of the issue tracker, improving API
+   documentationm API consistency and generally supporting and promoting the
+   improvement of quality within the project.
 
 Candidacy for the PSC
 .....................
