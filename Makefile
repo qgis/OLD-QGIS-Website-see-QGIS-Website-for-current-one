@@ -71,6 +71,7 @@ springclean: clean
 	rm -rf i18n/pot
 	rm -rf $(BUILDDIR)/*
 	rm -f $(SOURCEDIR)/docs_conf.py*
+	rm -f $(SOURCEDIR)/docs/*/
 
 # remove all resources from source/static directory
 # copy english resources from resources/en to source/static directory

@@ -172,8 +172,9 @@ html_sidebars = {
     'site/forusers/**': ['myglobaltoc.html'],
     'site/forusers/index': [],
     'site/forusers/download': [],
-    'site/getinvolved/**': ['myglobaltoc.html'],
+    #'site/getinvolved/**': ['myglobaltoc.html'],
     'site/getinvolved/index': [],
+    'site/getinvolved/donations': [],
     'docs/**': ['myglobaltoc.html'],
     # for bootstrap theme: custom sidebar templates possible:
     'sidebars': []
