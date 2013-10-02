@@ -8,7 +8,7 @@ How to obtain QGIS?
 
 QGIS is freely available on Windows, Linux, MacOS X, BSD, and Android.
 
-.. warning:: QGIS development versions are provided for some platforms in addition to the QGIS stable version. QGIS development contains unreleased software that is currently being worked on. As such they are unsupported and only provided for testing purposes to early adopters to check if bugs have been resolved and that no new bugs have been introduced. At any given time it may not work, or may do bad things to your data. Use at your own risk. You have been warned!
+.. warning:: QGIS testing versions are provided for some platforms in addition to the QGIS stable version. QGIS testing contains unreleased software that is currently being worked on. As such they are unsupported and only provided for testing purposes to early adopters to check if bugs have been resolved and that no new bugs have been introduced. At any given time it may not work, or may do bad things to your data. Use at your own risk. You have been warned!
 
 Windows
 =======
@@ -42,7 +42,7 @@ can be skipped initially, or installed only when you need them.
 
 Below you find instructions to install per distro. For most distro's there are
 instructions to install QGIS stable and instructions to
-install a cutting edge QGIS development build (but mind the warning above!).
+install a cutting edge QGIS testing build (but mind the warning above!).
 
 Ubuntu
 ------
@@ -117,13 +117,13 @@ upgrade updated dependencies by typing::
  sudo apt-get install qgis python-qgis qgis-plugin-grass
 
 
-QGIS development
-................
+QGIS testing
+............
 
 On plain Ubuntu:
 ^^^^^^^^^^^^^^^^
 
-Nightly builds of QGIS development are available from following repository (i386 and amd64):
+Nightly builds of QGIS testing are available from following repository (i386 and amd64):
 
 Quantal::
 
@@ -205,10 +205,10 @@ file (see below to choose the appropriate one) and type::
 .. note:: Please remove all the QGIS and GRASS packages you may have installed from other repositories before doing the update.
 
 
-QGIS development
-................
+QGIS testing
+............
 
-Nightly builds of QGIS development are available from following repository (i386 and amd64):
+Nightly builds of QGIS testing are available from following repository (i386 and amd64):
 
 Wheezy (7.x)::
 
@@ -255,8 +255,8 @@ There is an alternative repository for QGIS 2.0 on Fedora 19 ::
  sudo yum install qgis qgis-python qgis-grass qgis-mapserver
 
 
-QGIS development
-................
+QGIS testing
+............
 
 A newer version might be available in the testing repository -- usually around
 one week::
@@ -275,8 +275,8 @@ Try the ELGIS repository: http://elgis.argeo.org/
 
 .. note:: ELGIS requires the EPEL repo enabled, see http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL
 
-QGIS development
-................
+QGIS testing
+............
 
 If you want to try the cutting edge: http://elgis.argeo.org/repos/testing/6/elgis/
 
@@ -304,8 +304,8 @@ All packages include GRASS and Python support.
 
 http://download.opensuse.org/repositories/Application:/Geo/VERSION/
 
-QGIS development
-................
+QGIS testing
+............
 
 A regularly updated development package from qgis master called qgis-master is available 
 for 12.1, 12.2, 12.3, Factory and Tumbleweed (32 and 64bit). Add the following repository 
@@ -374,10 +374,10 @@ QGIS download page on KyngChaos http://www.kyngchaos.com/software/qgis (framewor
 requirements listed there) has more information.
 
 
-QGIS development
-^^^^^^^^^^^^^^^^
+QGIS testing
+^^^^^^^^^^^^
 
-QGIS development builds (Nightly build) at http://qgis.dakotacarto.com are provided by Dakota Cartography.
+QGIS testing builds (Nightly build) at http://qgis.dakotacarto.com are provided by Dakota Cartography.
 
 
 FreeBSD
@@ -392,8 +392,8 @@ To compile QGIS from binary packages type::
  pkg_add -r qgis
 
 
-QGIS development
-^^^^^^^^^^^^^^^^
+QGIS testing
+^^^^^^^^^^^^
 
 To compile QGIS from sources in FreeBSD you need to type::
 
