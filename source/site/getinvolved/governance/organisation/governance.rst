@@ -18,7 +18,7 @@ brackets):
 * Otto Dassau (Community Advisor)
 * Paolo Cavallini (Financial and Marketing Advisor)
 * Anita Graser (Design Advisor)
-* Richard Duivenvoord (Infrastructure Manager)
+* Richard Duivenvoorde (Infrastructure Manager)
 * Jürgen Fischer (Release Manager)
 
 Read more about the responsibilities of the PSC :ref:`here <psc>`
