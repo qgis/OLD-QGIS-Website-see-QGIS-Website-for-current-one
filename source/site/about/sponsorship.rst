@@ -271,6 +271,7 @@ bank account rather than PayPal.
 * Guenther Moeller
 * Guillaume Raspini
 * Håvard Gåseidnes
+* Heiko Schmüser
 * Heinrich Schweizer
 * Hiroshi Kawakami
 * Hiroto Okayama
@@ -307,6 +308,7 @@ bank account rather than PayPal.
 * Kenton Ngo
 * Kevin Hansen
 * Kevin Shook
+* Klaus Weddeling
 * Klaus Sterzenbach
 * Kristian Stadelmayr
 * Kurt Esko
@@ -320,6 +322,7 @@ bank account rather than PayPal.
 * Maciej Latek
 * Manfred Schön
 * Marc Monnerat
+* Marcel Van Dorst
 * Mark Siebel
 * Mark Douglas
 * Mark Hoschek
@@ -336,6 +339,7 @@ bank account rather than PayPal.
 * Mikhail Sivakov
 * Mikko Suonio
 * Mohamed Al Merri
+* Moshe Dr. Shirav
 * Murray Swanson
 * Nelson Silva
 * Niccolo Rigacci
