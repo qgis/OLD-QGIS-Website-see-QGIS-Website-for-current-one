@@ -37,6 +37,7 @@ help:
 	@echo "  createlang   to create (mostly directories) for a new language"
 	@echo "  pretranslate to gather all strings from sources, put in .pot files"
 	@echo "                  AND merge them with available .po files"
+	@echo "  transifex_push (only for transifex Maintainers!): renew source files and push to transifex"
 	@echo "  "
 	@echo "OPTION: use LANG=xx to do it only for one language, eg: make html LANG=de"
 	@echo "  "
@@ -144,6 +145,16 @@ gettext:
 	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS)
 	@echo
 	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale."
+
+# ONLY to be done by a transifex Maintainer for the project, as it overwrites
+# the english source resources
+# 1) make springclean (removing all building cruft)
+# 2) make pretranslate (getting all strings from sources and create new pot files)
+# 3) tx push -fs --no-interactive (push the source (-f) files forcing (-f) overwriting the ones their without asking (--no-interactive)
+transifex_push:
+	make springclean
+	make pretranslate
+	tx push -f -s --no-interactive
 
 ################################################################################
 #
