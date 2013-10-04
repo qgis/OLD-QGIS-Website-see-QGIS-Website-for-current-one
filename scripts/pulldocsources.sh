@@ -11,7 +11,7 @@
 
 QGIS_DOC_DIR='QGIS-Documentation'
 QGIS_DOC_BRANCH='master'
-LANGUAGES='en de'
+LANGUAGES=`ls i18n`
 
 if [ $1 ]; then
   LANGUAGES="$@"
@@ -31,7 +31,6 @@ cd $QGIS_DOC_DIR
 git checkout $QGIS_DOC_BRANCH
 # pull latest
 git pull
-
 cd ../..
 # copy documentation conf.py as docs_conf.py into the sources dir
 cp ext/$QGIS_DOC_DIR/source/conf.py source/docs_conf.py

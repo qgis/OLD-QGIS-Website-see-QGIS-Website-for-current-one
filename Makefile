@@ -64,14 +64,14 @@ help:
 
 clean:
 	rm -rf $(SOURCEDIR)/static
-	rm -rf i18n/*/LC_MESSAGES/docs/*/
 
 springclean: clean
 	# something in i18n/pot dir creates havoc when using gettext: remove it
 	rm -rf i18n/pot
+	rm -rf i18n/*/LC_MESSAGES/docs/*/
 	rm -rf $(BUILDDIR)/*
 	rm -f $(SOURCEDIR)/docs_conf.py*
-	rm -f $(SOURCEDIR)/docs/*/
+	rm -rf $(SOURCEDIR)/docs/*/
 
 # remove all resources from source/static directory
 # copy english resources from resources/en to source/static directory
