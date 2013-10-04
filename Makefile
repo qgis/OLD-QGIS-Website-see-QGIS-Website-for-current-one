@@ -130,7 +130,7 @@ createlang: springclean
 	mkdir -p i18n/${LANG}
 	mkdir -p resources/${LANG}
 	cp resources/en/README resources/${LANG}
-	cp i18n/en/README i18n/${LANG}a
+	cp i18n/en/README i18n/${LANG}
 
 pretranslate: gettext
 	@echo "Generating the pot files for the QGIS-Website project (NOT including the docs)"
