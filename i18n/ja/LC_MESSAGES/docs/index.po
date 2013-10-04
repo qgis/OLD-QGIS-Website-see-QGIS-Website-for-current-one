@@ -1,37 +1,41 @@
 # 
+# Translators:
+# yoichi <yoichi.kayama@gmail.com>, 2013
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 2.0\n"
+"Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-13 12:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2013-09-17 08:12\n"
+"PO-Revision-Date: 2013-09-22 21:33+0000\n"
+"Last-Translator: yoichi <yoichi.kayama@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/projects/p/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/docs/index.rst:8
 msgid "Documentation"
-msgstr ""
+msgstr "文書"
 
 #: ../../source/docs/index.rst:11
 msgid ""
 "QGIS has a lot of documentation, partly translated. Please have a look into "
 "one of the documents below."
-msgstr ""
+msgstr "QGISは多くの文書があり,一部は翻訳されています.以下の文書を是非参照して下さい."
 
 #: ../../source/docs/index.rst:15
 msgid "Documentation for QGIS 2.0"
-msgstr ""
+msgstr "QGIS2.0の文書"
 
 #: ../../source/docs/index.rst:26
 msgid "Documentation for QGIS 1.8"
-msgstr ""
+msgstr "QGIS1.8の文書"
 
 #: ../../source/docs/index.rst:35
 msgid "Documentation for QGIS development/nightly"
-msgstr ""
+msgstr "QGIS開発者向け/更新中文書"
 
 #: ../../source/docs/index.rst:37
 msgid "TBD"
@@ -42,10 +46,4 @@ msgid ""
 "If you do not see working links to documentation above, it means that this "
 "documentation build did not copy the documentation sources into the website "
 "sources. See ..."
-msgstr ""
-
-#~ msgid ""
-#~ "If you do not see links to documentation here, it means that before the "
-#~ "build the documentation sources were not copied into the website sources. "
-#~ "See ..."
-#~ msgstr ""
+msgstr "もし上記の文書リンクをクリックしても表示されない場合ビルドされたドキュメントがドキュメントソースからwebサイトにまだコピーされていないことを示します.以下を参照して下さい..."

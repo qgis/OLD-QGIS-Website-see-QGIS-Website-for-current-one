@@ -1,12 +1,13 @@
 # 
 # Translators:
+# jonny_forest <joao.f.r.gaspar@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-21 20:36+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2013-09-27 13:38+0000\n"
+"Last-Translator: jonny_forest <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:4
 msgid "QGIS and GRASS applied to paleontological survey in Western Portugal"
-msgstr ""
+msgstr "QGIS e GRASS aplicado ao um levantamento palentológico no Oeste de Portugal"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:8
 msgid ""
@@ -26,11 +27,11 @@ msgid ""
 "from Upper Jurassic. One of the key issues in paleontological management is "
 "to assess spatial context of the sites from where the fossils are retrieved "
 "– hundreds of sites representing thousands of different specimens."
-msgstr ""
+msgstr "A Associação Leonel Trindade - Sociedade de História Natural (ALT-SHN) é uma instituição sem fins lucrativos sediada em Torres Vedras, Portugal especializada em paleontologia. A instituição gere uma colecção grande de fósseis, maioritariamente do Jurássico Superior. Um dos problemas chave da gestão paleontológica é avaliar o contexto espacial dos locais de onde os fósseis são recuperados - centenas de sítios que representam milhares de espécimes diferentes."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:12
 msgid "The Project"
-msgstr ""
+msgstr "O Projecto"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:19
 msgid ""
@@ -40,28 +41,28 @@ msgid ""
 "paleontology) [2]. The project, supported by public and private entities – "
 "mainly the Municipalty, Digiterra.hu and the Army's Geographic Institute "
 "(IGeoE), aimed three goals:"
-msgstr ""
+msgstr "Em 2008, nós sugerimos a ideia de explorar as tecnologias SIG para apoiar a investigação  e ter mais uma perspectiva holística da herança que estamos a lidar. A ideia foi impulsionada pelo Projecto SIGAP (SIG aplicados na paleontologia) [2]. O Projecto, apoia entidades públicas e privadas - principalmente os Municípios, Digiterra.hu e Instituto Geográfico Português (IGeoE), apontado três objectivos:"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:21
 msgid ""
 "Field Survey with Differencial GPS to gather the coordinates of the sites;"
-msgstr ""
+msgstr "Levantamentos de Campo com GPS diferencial para recolher as coordenadas dos locais;"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:22
 msgid ""
 "Build a Risk Model to identify hazards towards paleontological heritage and "
 "thus prevent them through regular field surveys;"
-msgstr ""
+msgstr "Construir um Modelo de Risco a identificar os perigos relacionados com a herança paleontológica e através disso prevenir através de levantamentos regulares no campo; "
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:23
 msgid ""
 "Build a Geographic Database to handle all the information and start the "
 "collection inventory."
-msgstr ""
+msgstr "Construir uma base de dados geográfica para gerir toda a informação e começar o inventário da colecção."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:26
 msgid "Software we used"
-msgstr ""
+msgstr "Softwares que usámos"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:28
 msgid ""
@@ -71,11 +72,11 @@ msgid ""
 "analyis on rasters in order to obtain the risk model we needed to plan our "
 "field work and future prospection. Furthermore it allowed us to import "
 "PostGIS layers and visualize them on QGIS."
-msgstr ""
+msgstr "QGIS foi o principal marco de todo o projecto. Os dados foram descarregados directamente para o QGIS, e, em seguida, editados e manipulados de forma a atingir os resultados desejados. A interface do GRASS fornecido pelo QGIS permitiu-nos realizar análises espaciais complexas em raster, a fim de obter o modelo de risco que precisávamos para planear o nosso trabalho de campo e as perspectivas futuras. Além disso, permitiu-nos importar camadas de PostGIS e visualizá-los no QGIS."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:36
 msgid "Vector point data editing and visualization"
-msgstr ""
+msgstr "Edição e visualização da informação vectorial do tipo ponto"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:38
 msgid ""
@@ -84,15 +85,15 @@ msgid ""
 "different systems – We have Mac, Windows PC and Linux PC, therefore it's of "
 "extreme importance that we have the freedom to install the software on any "
 "machine we want so we don't get stuck to a particular computer."
-msgstr ""
+msgstr "A escolha do QGIS também foi incentivada pelo suporte multi-plataforma. A instituição possui três unidades distintas, e cada uma dessas instalações tem sistemas diferentes - Temos Mac, Windows PC e Linux PC, por isso é de extrema importância que nós tenhamos a liberdade para instalar o software em qualquer máquina que queremos sem ficar preso a um computador particular."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:45
 msgid "Paleontological Risk Map"
-msgstr ""
+msgstr "Mapa de Risco Palentológico"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:48
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusão"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:50
 msgid ""
@@ -106,15 +107,15 @@ msgid ""
 "if you have to train first time users has we've done. The easyness of the "
 "interface makes production of maps an everyday task and brought people "
 "closer to spatial approaches [3]."
-msgstr ""
+msgstr "A experiência global com o QGIS só pode ser avaliado como muito bom e recomendável. Do nosso ponto de vista, a principal vantagem do QGIS é que ele não é apenas um software SIG - é uma suite de produtividade para dados espaciais. O QGIS permitiu-nos tirar proveito de outras ferramentas poderosas dentro de um ambiente de trabalho único. Do QGIS podemos trabalhar com o GRASS, com PostGIS, com dados de GPS, com serviços web e com dezenas de módulos úteis desenvolvidos por utilizadores de todo o mundo. A interface amigável do utilizador também é uma grande vantagem, especialmente se quer formar utilizadores pela primeira vez como fizemos. A facilidade da interface torna a produção de mapas uma tarefa diária e aproximou as pessoas às abordagens espaciais [3]."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:53
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:60
 msgid "André Mano"
-msgstr ""
+msgstr "André Mano"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:62
 msgid ""
@@ -123,15 +124,15 @@ msgid ""
 "Sociedade de História Natural. His area of interest is focused on "
 "geotechnology applications to the fields of paleontology, archeology and "
 "cultural heritage."
-msgstr ""
+msgstr "Este artigo foi contribuído em Novembro de 2010 pelo André Mano. Ele é responsável pelo Departamento Geográfico da Associação Leonel Trindade - Sociedade de História Natural. A sua área de interesse foca-se nas aplicações de geotecnologia nos campos de palentologia, arqueologia e heranças culturais."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:65
 msgid "References"
-msgstr ""
+msgstr "Referências"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:67
 msgid "[1] www.alt-shn.org (portuguese only)"
-msgstr ""
+msgstr "[1] www.alt-shn.org (portuguese only)"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:68
 msgid ""
@@ -139,11 +140,11 @@ msgid ""
 "Paleontologia. Paleolusitana: Revista de Paleontologia e Paleoecologia, "
 "Torres Vedras: Alt-Sociedade de História Natural. ISSN 1647-2756, n.º 1, p. "
 "245-250."
-msgstr ""
+msgstr "[2] MANO, André. (2009) – Sistema de Informação Geográfica Aplicado à Paleontologia. Paleolusitana: Revista de Paleontologia e Paleoecologia, Torres Vedras: Alt-Sociedade de História Natural. ISSN 1647-2756, n.º 1, p. 245-250."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:69
 msgid ""
 "[3] Mano, André. (2010) – Projecto SIGAP, Trabalho de Projecto apresentado "
 "como requisito parcial para a obtenção do grau de Mestre em Ciência e "
 "Sistemas de Informação Geográfica. ISEGI – UNL, Lisboa, 2010"
-msgstr ""
+msgstr "[3] Mano, André. (2010) – Projecto SIGAP, Trabalho de Projecto apresentado como requisito parcial para a obtenção do grau de Mestre em Ciência e Sistemas de Informação Geográfica. ISEGI – UNL, Lisboa, 2010"

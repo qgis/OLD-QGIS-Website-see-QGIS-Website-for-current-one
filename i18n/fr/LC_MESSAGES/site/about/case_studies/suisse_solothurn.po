@@ -1,12 +1,13 @@
 # 
 # Translators:
+# DelazJ <delazj@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-18 09:45+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2013-09-25 05:40+0000\n"
+"Last-Translator: DelazJ <delazj@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +21,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:6
 msgid "of the Canton of Solothurn in Switzerland"
-msgstr ""
+msgstr "du Canton de Solothurn en Suisse"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:13
 msgid ""
@@ -41,35 +42,35 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:17
 msgid "The decision was driven by the following aspects:"
-msgstr ""
+msgstr "La décision a été motivée par les aspects suivants :"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:19
 msgid ""
 "Due to our use of desktop GIS in a Linux Terminal Server environment, Java "
 "wasn't an option."
-msgstr ""
+msgstr "Du fait de l'utilisation de SIG bureautique dans un environnement Linux Terminal Server, Java n'était pas une option."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:20
 msgid "OSGeo Project-Organisation"
-msgstr ""
+msgstr "Organisation du projet OSGeo"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:21
 msgid "GUI translated in German language"
-msgstr ""
+msgstr "Interface traduite en allemand"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:22
 msgid "Documentation written in German language"
-msgstr ""
+msgstr "Documentation rédigée en allemand"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:23
 msgid "An Active developer (Marco Hugentobler) near Solothurn in Switzerland."
-msgstr ""
+msgstr "Un développeur actif (Marco Hugentobler) près de Solothurn en Suisse."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:24
 msgid ""
 "We could contract Marco Hugentobler to implement missing / lacking features "
 "like Digitizing and Mapcomposing."
-msgstr ""
+msgstr "Nous pouvions passer commande auprès de Marco Hugentobler pour l’implémentation des fonctionnalités manquantes comme la numérisation et la mise en page."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:25
 msgid "Application and Plugin developement with Python"
@@ -77,15 +78,15 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:26
 msgid "Growing user community"
-msgstr ""
+msgstr "Une communauté d'utilisateurs qui s'agrandit"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:27
 msgid "Very active developer community"
-msgstr ""
+msgstr "Une communauté de développeurs très active"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:28
 msgid "Independence from a single operating system"
-msgstr ""
+msgstr "Indépendance vis-à-vis d'un système d'exploitation"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:31
 msgid "Where do we use QGIS"
@@ -110,7 +111,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:42
 msgid "\"SO!GIS Layer\" plugin developed at the Canton of Solothurn"
-msgstr ""
+msgstr "Extension \"SO!GIS Layer\" développée au Canton de Solothurn"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:44
 msgid ""
@@ -126,7 +127,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:52
 msgid "\"SO!GIS Suche\" plugin developed at the Canton of Solothurn"
-msgstr ""
+msgstr "\"SO!GIS Suche\" extension développée au Canton de Solothurn"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:54
 msgid ""
@@ -138,11 +139,11 @@ msgid ""
 "analysis or mapping for different projects. Our in-development plugins cover"
 " topics  such as nature reserves, soil conservation, cadastral data "
 "verification, crisis management, abandoned sites and so on."
-msgstr ""
+msgstr "Une autre extension nécessaire que nous avons créée s'appelle 'SO!GIS Suche'. Il offre la possibilité de rechercher des lieux telles que des communes, des adresses ou des parcelles cadastrales (voir Figure 2). En conséquence, l'utilisateur est en mesure de naviguer très facilement vers le lieu recherché. Beaucoup d'autres extensions sont actuellement en développement. Elles porteront sur la cartographie, la manipulation et l'analyse de données et couvrent des thématiques diverses telles que les réserves naturelles, la conservation des sols, la vérification des données cadastrales, la gestion des crises, des sites abandonnés... "
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:58
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusion"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:60
 msgid ""
@@ -158,19 +159,19 @@ msgid ""
 "support into the black box of our former software provider. Apart from using"
 " FOSSGIS, the Canton of Solothurn also provides public geodata free of "
 "charge via the SO!ONLINE web portal."
-msgstr ""
+msgstr "Aujourd'hui, nous pouvons affirmer que le choix de QGIS était une bonne décision. QGIS offre la plupart des fonctionnalités dont nous avons besoin. Le Canton de Solothurn a sous-traité la création des fonctionnalités manquantes à des prestataires. Avec PyQgis et PyQt, il y a en effet d'excellentes possibilités pour développer des applications in-house. Un des grands bénéfices réside dans le nombre illimité d'installations. Quiconque a besoin de QGIS peut l'utiliser sans limite. Pour promouvoir le développement de QGIS, le Canton de Solothurn a investi chaque année près de 30 000$ depuis 2007. Ce financement  est beaucoup plus efficace et mieux ciblé que les paiements effectués à notre ancien fournisseur de logiciel. En dehors de l'utilisation de FOSSGIS, le Canton de Solothurn fournit également des données spatiales libres d'utilisation sur son portail web SO!ONLINE."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:63
 msgid "Author"
-msgstr ""
+msgstr "Auteur"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:70
 msgid "Horst Düster"
-msgstr ""
+msgstr "Horst Düster"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:72
 msgid ""
 "This article was contributed in May 2009 by Dr. Horst Düster. He is GIS "
 "coordinator at the Department of Geoinformation in the Canton of Solothurn, "
 "Switzerland."
-msgstr ""
+msgstr "Cet article a été rédigé en mai 2009 par le Dr. Horst Düster, coordinateur SIG au Departement of Geoinformation du Canton de Solothurn en Suisse."

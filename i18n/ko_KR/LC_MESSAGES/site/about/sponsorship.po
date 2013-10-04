@@ -1,11 +1,12 @@
 # 
 # Translators:
+# BJ Jang <qgis.tr.kr@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-19 16:04+0000\n"
+"PO-Revision-Date: 2013-10-04 11:24+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/qgis-website/language/ko_KR/)\n"
 "MIME-Version: 1.0\n"
@@ -14,1110 +15,1334 @@ msgstr ""
 "Language: ko_KR\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/site/about/sponsorship.rst:5
+#: ../../source/site/about/sponsorship.rst:4
 msgid "Supporting QGIS"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:7
-msgid ""
-"QGIS is an entirely Open Source project. QGIS development is carried out "
-"largely by a group of volunteers, that in time have built up a large, "
-"valuable and useful code base, free to use and improve for everybody. As a "
-"result, you have free access to the source code and binaries that we provide"
-" on our web site. As a result of this volunteer approach, a number of tasks,"
-" less interesting or important for the developers, are sometimes left "
-"behind. In addition, promoting QGIS requires our participation at congresses"
-" and conferences and the production of information material, sometimes very "
-"expensive for volunteer developers."
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:16
-msgid ""
-"Meanwhile, many organizations have made an investment in using QGIS as part "
-"of their operations, but have not had a way to directly contribute to the "
-"success and long-term health of the project."
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:20
-msgid ""
-"We would like to extend our activities and improve the quality of QGIS. Your"
-" financial contribution will support the maintenance, improvement, and "
-"promotion of QGIS. Sponsorship is not a way for individuals to control the "
-"development of the project, but rather a way of ensuring the longevity and "
-"overall health of the project."
-msgstr ""
+msgstr "QGIS 후원"
 
 #: ../../source/site/about/sponsorship.rst:26
-msgid ""
-"With your donations we were able to fund several developer meetings, "
-"starting rom that in Vienna, autumn 2009. Users donations, with the co-"
-"sponsoring of the Italian GFOSS.it association allow us to fund travel and "
-"accommodation costs of several key developers. Donations thus contributed "
-"effectively to the great success of the meeting."
-msgstr ""
+msgid "List of sponsors"
+msgstr "후원자 명단"
 
 #: ../../source/site/about/sponsorship.rst:32
-msgid "We encourage you to donate again to the upcoming developer meetings."
-msgstr ""
+msgid "|gold| |aas_long|"
+msgstr "|gold| |aas_long|"
 
 #: ../../source/site/about/sponsorship.rst:35
-msgid "How can you support the QGIS Development"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:37
-msgid "There are two kinds of financial contributions, we accept:"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:39
-msgid ""
-"**sponsorships**: a sponsorship is an annual commitment of funds to the "
-"project."
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:40
-msgid ""
-"**donation**: a donation is a once off financial contribution to the QGIS "
-"project."
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:43
-msgid "Sponsorship"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:45
-msgid ""
-"Sponsors can sponsor QGIS for any amount of money of at least 500 €/700 US$."
-" Sponsorships last one year, after which they may be continued with a new "
-"payment, or allowed to lapse. At or above the following levels a sponsor "
-"will be designated as being one of the following class:"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:50
-msgid "27,000+ €/39,000 US$: Platinum Sponsor"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:51
-msgid "9,000+ €/13,000 US$: Gold Sponsor"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:52
-msgid "3,000+ €/4,300 US$: Silver Sponsor"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:53
-msgid "500+ €/700 US$: Bronze Sponsor"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:61
-msgid "List of sponsors"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:63
-msgid ""
-"Annually we also receive support from various organisations who appreciate "
-"the work we do and would like to facilitate the sustained development effort"
-" that goes into the project. For more information on sponsoring QGIS, please"
-" visit the sponsorship page. These sponsors are listed below with our "
-"thanks!"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:68
-msgid "|gold| |aas_long|"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:71
 msgid ""
 "`ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, Japan (11.2012-10.2015)"
-msgstr ""
+msgstr "`ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, Japan (11.2012-10.2015)"
 
-#: ../../source/site/about/sponsorship.rst:78
-#: ../../source/site/about/sponsorship.rst:160
+#: ../../source/site/about/sponsorship.rst:51
+#: ../../source/site/about/sponsorship.rst:133
 msgid "|silver| |land_f|"
-msgstr ""
+msgstr "|silver| |land_f|"
 
-#: ../../source/site/about/sponsorship.rst:80
-msgid "`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (3.2013)"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:91
+#: ../../source/site/about/sponsorship.rst:64
 msgid ""
 "We would like to thank GFOSS.it, the Italian Free and Open Source Software "
 "organisation for the sponsorship they provided to the QGIS project until "
 "early 012. Visit `GFOSS.it <http://gfoss.it/>`_ for more information (site "
 "mainly in Italian)."
-msgstr ""
+msgstr "We would like to thank GFOSS.it, the Italian Free and Open Source Software organisation for the sponsorship they provided to the QGIS project until early 012. Visit `GFOSS.it <http://gfoss.it/>`_ for more information (site mainly in Italian)."
 
-#: ../../source/site/about/sponsorship.rst:102
+#: ../../source/site/about/sponsorship.rst:75
 msgid ""
 "Also `OSGeo <http://www.osgeo.org/>`_ is partly supporting our HackFests: "
 "2012.10 in Essen, Germany, and 2013.04 in Valmiera, Latvia."
-msgstr ""
+msgstr "Also `OSGeo <http://www.osgeo.org/>`_ is partly supporting our HackFests: 2012.10 in Essen, Germany, and 2013.04 in Valmiera, Latvia."
+
+#: ../../source/site/about/sponsorship.rst:80
+#: ../../source/site/about/sponsorship.rst:125
+msgid "|silver| |sogis|"
+msgstr "|silver| |sogis|"
+
+#: ../../source/site/about/sponsorship.rst:89
+msgid "|bronze| |fossgisev|"
+msgstr "|bronze| |fossgisev|"
+
+#: ../../source/site/about/sponsorship.rst:98
+msgid "|bronze| |argus|"
+msgstr "|bronze| |argus|"
 
 #: ../../source/site/about/sponsorship.rst:107
-#: ../../source/site/about/sponsorship.rst:152
-msgid "|silver| |sogis|"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:109
-msgid "`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012)"
-msgstr ""
+msgid "|bronze| |geosynergy|"
+msgstr "|bronze| |geosynergy|"
 
 #: ../../source/site/about/sponsorship.rst:116
-msgid "|bronze| |fossgisev|"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:118
-msgid "`www.fossgis.de <http://www.fossgis.de/>`_, Germany (8.2012)"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:125
-msgid "|bronze| |argus|"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:127
-msgid "`www.argusoft.de <http://www.argusoft.de/>`_, Germany (6.2012)"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:134
-msgid "|bronze| |geosynergy|"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:136
-msgid ""
-"`www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (5.2012)"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:143
 msgid "|bronze| |ibw_bzwm|"
-msgstr ""
+msgstr "|bronze| |ibw_bzwm|"
 
-#: ../../source/site/about/sponsorship.rst:145
-msgid ""
-"`ibW Bildungszentrum Wald <http://www.bzwmaienfeld.ch/>`_, Switzerland "
-"(3.2012)"
-msgstr ""
+#: ../../source/site/about/sponsorship.rst:141
+msgid "|bronze| |uster|"
+msgstr "|bronze| |uster|"
 
-#: ../../source/site/about/sponsorship.rst:154
-msgid "`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (4.2011)"
-msgstr ""
+#: ../../source/site/about/sponsorship.rst:150
+msgid "|bronze| |municipia|"
+msgstr "|bronze| |municipia|"
 
-#: ../../source/site/about/sponsorship.rst:162
-msgid "`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011)"
-msgstr ""
+#: ../../source/site/about/sponsorship.rst:159
+msgid "|bronze| |gfosservices|"
+msgstr "|bronze| |gfosservices|"
 
 #: ../../source/site/about/sponsorship.rst:168
-msgid "|bronze| |uster|"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:170
-msgid "`City of Uster <http://gis.uster.ch/>`_, Switzerland (11.2011)"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:177
-msgid "|bronze| |municipia|"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:179
-msgid "`Municípia, SA <http://www.municipia.pt/>`_, Portugal (2.2011)"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:186
-msgid "|bronze| |gfosservices|"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:188
-msgid ""
-"`Studio Associato Gfosservices <http://www.gfosservices.com/>`_, Italy "
-"(2.2010)"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:195
 msgid "|bronze| |nextgis|"
-msgstr ""
+msgstr "|bronze| |nextgis|"
 
-#: ../../source/site/about/sponsorship.rst:197
-msgid "`NextGIS <http://nextgis.org/>`_, Russia (3.2010)"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:203
-msgid "Donation"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:205
-msgid ""
-"Donations can be of any amount, through the `Make A Donation PayPal "
-"<https://www.paypal.com/us/cgi-"
-"bin/webscr?cmd=_flow&SESSION=AdBwoAp9yoTKrVYVX_a8x5uNGxn6jbzjkZVnJaTIqW6pVT4i_Ns6S3DVWym&dispatch=5885d80a13c0db1f8e263663d3faee8d96fc0752e9614158f04872d2f2ae25dc>`_"
-" link provided also in the menu of this website or through our bank account "
-"(write us for details: cavallini at faunalia dot it). Even a small donation "
-"can make a difference and help to reach important project goals!"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:210
+#: ../../source/site/about/sponsorship.rst:183
 msgid ""
 "If you wish to send us a larger donation, you are strongly encouraged to use"
 " the bank account rather than PayPal."
-msgstr ""
+msgstr "만약 큰 금액을기부해주시겠다면, PayPal 보다는 은행계좌를 이용해주실 것을 강하게 요청 드립니다."
+
+#: ../../source/site/about/sponsorship.rst:176
+msgid "List of donors"
+msgstr "기부자 명단"
+
+#: ../../source/site/about/sponsorship.rst:187
+msgid "Aaron Racicot"
+msgstr "Aaron Racicot"
+
+#: ../../source/site/about/sponsorship.rst:188
+msgid "Adam Lane"
+msgstr "Adam Lane"
+
+#: ../../source/site/about/sponsorship.rst:189
+msgid "Adrian Cooke"
+msgstr "Adrian Cooke"
+
+#: ../../source/site/about/sponsorship.rst:190
+msgid "Adrian Matter"
+msgstr "Adrian Matter"
+
+#: ../../source/site/about/sponsorship.rst:192
+msgid "Albin Blaschka"
+msgstr "Albin Blaschka"
+
+#: ../../source/site/about/sponsorship.rst:193
+msgid "Alessandro Fanna"
+msgstr "Alessandro Fanna"
+
+#: ../../source/site/about/sponsorship.rst:194
+msgid "Alessandro Pasotti"
+msgstr "Alessandro Pasotti"
+
+#: ../../source/site/about/sponsorship.rst:195
+msgid "Alessandro Sarretta"
+msgstr "Alessandro Sarretta"
+
+#: ../../source/site/about/sponsorship.rst:198
+msgid "Alexandre Leroux"
+msgstr "Alexandre Leroux"
+
+#: ../../source/site/about/sponsorship.rst:199
+msgid "Amedeo Fadini"
+msgstr "Amedeo Fadini"
+
+#: ../../source/site/about/sponsorship.rst:200
+msgid "Anders Skoglund"
+msgstr "Anders Skoglund"
+
+#: ../../source/site/about/sponsorship.rst:202
+msgid "Andrea Peri"
+msgstr "Andrea Peri"
+
+#: ../../source/site/about/sponsorship.rst:203
+msgid "Andreas Fuchs"
+msgstr "Andreas Fuchs"
+
+#: ../../source/site/about/sponsorship.rst:204
+msgid "Andreas Neumann"
+msgstr "Andreas Neumann"
+
+#: ../../source/site/about/sponsorship.rst:205
+msgid "Andreas Schmid"
+msgstr "Andreas Schmid"
+
+#: ../../source/site/about/sponsorship.rst:206
+msgid "Andrew Chapman"
+msgstr "Andrew Chapman"
+
+#: ../../source/site/about/sponsorship.rst:209
+msgid "Andrew Rigby"
+msgstr "Andrew Rigby"
+
+#: ../../source/site/about/sponsorship.rst:210
+msgid "Andrey Kuvshinov"
+msgstr "Andrey Kuvshinov"
+
+#: ../../source/site/about/sponsorship.rst:213
+msgid "Associazione Monte Porzio Cultura"
+msgstr "Associazione Monte Porzio Cultura"
 
 #: ../../source/site/about/sponsorship.rst:214
-msgid "List of donors"
-msgstr ""
+msgid "Attila Toth"
+msgstr "Attila Toth"
 
-#: ../../source/site/about/sponsorship.rst:216
-msgid "Aaron Racicot"
-msgstr ""
+#: ../../source/site/about/sponsorship.rst:215
+msgid "Bayard Ewing"
+msgstr "Bayard Ewing"
 
 #: ../../source/site/about/sponsorship.rst:217
-msgid "Adam Lane"
-msgstr ""
+msgid "Bernd Vogelgesang"
+msgstr "Bernd Vogelgesang"
 
 #: ../../source/site/about/sponsorship.rst:218
-msgid "Adrian Cooke"
-msgstr ""
+msgid "Birgit Konn"
+msgstr "Birgit Konn"
 
 #: ../../source/site/about/sponsorship.rst:219
-msgid "Adrian Matter"
-msgstr ""
+msgid "Boštjan Krapež"
+msgstr "Boštjan Krapež"
 
 #: ../../source/site/about/sponsorship.rst:220
-msgid "Albin Blaschka"
-msgstr ""
+msgid "Brian Kelly"
+msgstr "Brian Kelly"
 
 #: ../../source/site/about/sponsorship.rst:221
-msgid "Alessandro Fanna"
-msgstr ""
+msgid "Carl Nelson"
+msgstr "Carl Nelson"
 
 #: ../../source/site/about/sponsorship.rst:222
-msgid "Alessandro Pasotti"
-msgstr ""
+msgid "Carsten Fink"
+msgstr "Carsten Fink"
 
 #: ../../source/site/about/sponsorship.rst:223
-msgid "Alessandro Sarretta"
-msgstr ""
+msgid "Cheryle Shepstone"
+msgstr "Cheryle Shepstone"
 
 #: ../../source/site/about/sponsorship.rst:224
-msgid "Alexandre Leroux"
-msgstr ""
+msgid "Chipotle Coupons"
+msgstr "Chipotle Coupons"
 
 #: ../../source/site/about/sponsorship.rst:225
-msgid "Amedeo Fadini"
-msgstr ""
+msgid "Chris Talbot"
+msgstr "Chris Talbot"
 
 #: ../../source/site/about/sponsorship.rst:226
-msgid "Anders Skoglund"
-msgstr ""
+msgid "Christopher Kahler"
+msgstr "Christopher Kahler"
 
 #: ../../source/site/about/sponsorship.rst:227
-msgid "Andrea Peri"
-msgstr ""
+msgid "Cristian Spieles"
+msgstr "Cristian Spieles"
 
 #: ../../source/site/about/sponsorship.rst:228
-msgid "Andreas Fuchs"
-msgstr ""
+msgid "Christian Schwartze"
+msgstr "Christian Schwartze"
 
 #: ../../source/site/about/sponsorship.rst:229
-msgid "Andreas Neumann"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:230
-msgid "Andreas Schmid"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:231
-msgid "Andrew Chapman"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:232
-msgid "Andrew Rigby"
-msgstr ""
+msgid "D R Arbib"
+msgstr "D R Arbib"
 
 #: ../../source/site/about/sponsorship.rst:233
-msgid "Andrey Kuvshinov"
-msgstr ""
+msgid "David Vaarwerk"
+msgstr "David Vaarwerk"
 
 #: ../../source/site/about/sponsorship.rst:234
-msgid "Associazione Monte Porzio Cultura"
-msgstr ""
+msgid "Dheeraj Chand"
+msgstr "Dheeraj Chand"
 
 #: ../../source/site/about/sponsorship.rst:235
-msgid "Attila Toth"
-msgstr ""
+msgid "Didier Genier"
+msgstr "Didier Genier"
 
 #: ../../source/site/about/sponsorship.rst:236
-msgid "Bayard Ewing"
-msgstr ""
+msgid "Dirk Pflugmacher"
+msgstr "Dirk Pflugmacher"
 
 #: ../../source/site/about/sponsorship.rst:237
-msgid "Bernd Vogelgesang"
-msgstr ""
+msgid "David Enns"
+msgstr "David Enns"
 
 #: ../../source/site/about/sponsorship.rst:238
-msgid "Birgit Konn"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:239
-msgid "Boštjan Krapež"
-msgstr ""
+msgid "Dariusz Bobak"
+msgstr "Dariusz Bobak"
 
 #: ../../source/site/about/sponsorship.rst:240
-msgid "Brian Kelly"
-msgstr ""
+msgid "Doswald Cornel"
+msgstr "Doswald Cornel"
 
 #: ../../source/site/about/sponsorship.rst:241
-msgid "Carl Nelson"
-msgstr ""
+msgid "Douglas Lane"
+msgstr "Douglas Lane"
 
 #: ../../source/site/about/sponsorship.rst:242
-msgid "Carsten Fink"
-msgstr ""
+msgid "Dušan Pavlík"
+msgstr "Dušan Pavlík"
 
 #: ../../source/site/about/sponsorship.rst:243
-msgid "Cheryle Shepstone"
-msgstr ""
+msgid "Ecotrust"
+msgstr "Ecotrust"
 
 #: ../../source/site/about/sponsorship.rst:244
-msgid "Chipotle Coupons"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:245
-msgid "Chris Talbot"
-msgstr ""
+msgid "Emanuele Zamprogno"
+msgstr "Emanuele Zamprogno"
 
 #: ../../source/site/about/sponsorship.rst:246
-msgid "Christopher Kahler"
-msgstr ""
+msgid "Erwin Bauer"
+msgstr "Erwin Bauer"
 
 #: ../../source/site/about/sponsorship.rst:247
-msgid "Cristian Spieles"
-msgstr ""
+msgid "Evan Wolf"
+msgstr "Evan Wolf"
 
 #: ../../source/site/about/sponsorship.rst:248
-msgid "Christian Schwartze"
-msgstr ""
+msgid "Fabian Frucht"
+msgstr "Fabian Frucht"
 
 #: ../../source/site/about/sponsorship.rst:249
-msgid "D R Arbib"
-msgstr ""
+msgid "Ferdinando Urbano"
+msgstr "Ferdinando Urbano"
 
 #: ../../source/site/about/sponsorship.rst:250
-msgid "David Vaarwerk"
-msgstr ""
+msgid "Flavio Rigolon"
+msgstr "Flavio Rigolon"
 
 #: ../../source/site/about/sponsorship.rst:251
-msgid "Dheeraj Chand"
-msgstr ""
+msgid "Florian Hof"
+msgstr "Florian Hof"
 
 #: ../../source/site/about/sponsorship.rst:252
-msgid "Didier Genier"
-msgstr ""
+msgid "Fornat AG, Zürich"
+msgstr "Fornat AG, Zürich"
 
 #: ../../source/site/about/sponsorship.rst:253
-msgid "Dirk Pflugmacher"
-msgstr ""
+msgid "FOSSGIS e.V."
+msgstr "FOSSGIS e.V."
 
 #: ../../source/site/about/sponsorship.rst:254
-msgid "David Enns"
-msgstr ""
+msgid "Fred Watchorn"
+msgstr "Fred Watchorn"
 
 #: ../../source/site/about/sponsorship.rst:255
-msgid "Dariusz Bobak"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:256
-msgid "Doswald Cornel"
-msgstr ""
+msgid "Fred Ethève"
+msgstr "Fred Ethève"
 
 #: ../../source/site/about/sponsorship.rst:257
-msgid "Douglas Lane"
-msgstr ""
+msgid "Gabriele Monfardini"
+msgstr "Gabriele Monfardini"
 
 #: ../../source/site/about/sponsorship.rst:258
-msgid "Dušan Pavlík"
-msgstr ""
+msgid "Gabriela Casares"
+msgstr "Gabriela Casares"
 
 #: ../../source/site/about/sponsorship.rst:259
-msgid "Ecotrust"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:260
-msgid "Emanuele Zamprogno"
-msgstr ""
+msgid "Geoff Jones"
+msgstr "Geoff Jones"
 
 #: ../../source/site/about/sponsorship.rst:261
-msgid "Erwin Bauer"
-msgstr ""
+msgid "George Smith"
+msgstr "George Smith"
 
 #: ../../source/site/about/sponsorship.rst:262
-msgid "Evan Wolf"
-msgstr ""
+msgid "Gerald Bond"
+msgstr "Gerald Bond"
 
 #: ../../source/site/about/sponsorship.rst:263
-msgid "Fabian Frucht"
-msgstr ""
+msgid "Gérald Fringeli"
+msgstr "Gérald Fringeli"
 
 #: ../../source/site/about/sponsorship.rst:264
-msgid "Ferdinando Urbano"
-msgstr ""
+msgid "Gerhard Spieles"
+msgstr "Gerhard Spieles"
 
 #: ../../source/site/about/sponsorship.rst:265
-msgid "Flavio Rigolon"
-msgstr ""
+msgid "GFOSS.it"
+msgstr "GFOSS.it"
 
 #: ../../source/site/about/sponsorship.rst:266
-msgid "Florian Hof"
-msgstr ""
+msgid "Giovanni Fossà"
+msgstr "Giovanni Fossà"
 
 #: ../../source/site/about/sponsorship.rst:267
-msgid "Fornat AG, Zürich"
-msgstr ""
+msgid "Giuseppe Patti"
+msgstr "Giuseppe Patti"
 
 #: ../../source/site/about/sponsorship.rst:268
-msgid "FOSSGIS e.V."
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:269
-msgid "Fred Watchorn"
-msgstr ""
+msgid "Glasic S.r.l."
+msgstr "Glasic S.r.l."
 
 #: ../../source/site/about/sponsorship.rst:270
-msgid "Fred Ethève"
-msgstr ""
+msgid "Gregorio Díaz-Marta Mateos"
+msgstr "Gregorio Díaz-Marta Mateos"
 
 #: ../../source/site/about/sponsorship.rst:271
-msgid "Gabriele Monfardini"
-msgstr ""
+msgid "Guenther Moeller"
+msgstr "Guenther Moeller"
 
 #: ../../source/site/about/sponsorship.rst:272
-msgid "Gabriela Casares"
-msgstr ""
+msgid "Guillaume Raspini"
+msgstr "Guillaume Raspini"
 
 #: ../../source/site/about/sponsorship.rst:273
-msgid "Geoff Jones"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:274
-msgid "George Smith"
-msgstr ""
+msgid "Håvard Gåseidnes"
+msgstr "Håvard Gåseidnes"
 
 #: ../../source/site/about/sponsorship.rst:275
-msgid "Gerald Bond"
-msgstr ""
+msgid "Heinrich Schweizer"
+msgstr "Heinrich Schweizer"
 
 #: ../../source/site/about/sponsorship.rst:276
-msgid "Gérald Fringeli"
-msgstr ""
+msgid "Hiroshi Kawakami"
+msgstr "Hiroshi Kawakami"
 
 #: ../../source/site/about/sponsorship.rst:277
-msgid "Gerhard Spieles"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:278
-msgid "GFOSS.it"
-msgstr ""
+msgid "Hiroto Okayama"
+msgstr "Hiroto Okayama"
 
 #: ../../source/site/about/sponsorship.rst:279
-msgid "Giovanni Fossà"
-msgstr ""
+msgid "Ian Wusstig"
+msgstr "Ian Wusstig"
 
 #: ../../source/site/about/sponsorship.rst:280
-msgid "Giuseppe Patti"
-msgstr ""
+msgid "Igor Zabelin"
+msgstr "Igor Zabelin"
 
 #: ../../source/site/about/sponsorship.rst:281
-msgid "Glasic S.r.l."
-msgstr ""
+msgid "Ivan Mincik"
+msgstr "Ivan Mincik"
 
 #: ../../source/site/about/sponsorship.rst:282
-msgid "Gregorio Díaz-Marta Mateos"
-msgstr ""
+msgid "Ivan Marchesini"
+msgstr "Ivan Marchesini"
 
 #: ../../source/site/about/sponsorship.rst:283
-msgid "Guenther Moeller"
-msgstr ""
+msgid "Jake Maier"
+msgstr "Jake Maier"
 
 #: ../../source/site/about/sponsorship.rst:284
-msgid "Guillaume Raspini"
-msgstr ""
+msgid "James Larsen"
+msgstr "James Larsen"
 
 #: ../../source/site/about/sponsorship.rst:285
-msgid "Håvard Gåseidnes"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:286
-msgid "Heinrich Schweizer"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:287
-msgid "Hiroshi Kawakami"
-msgstr ""
+msgid "James Crone"
+msgstr "James Crone"
 
 #: ../../source/site/about/sponsorship.rst:288
-msgid "Hiroto Okayama"
-msgstr ""
+msgid "Jaroslaw Kowalczyk"
+msgstr "Jaroslaw Kowalczyk"
 
 #: ../../source/site/about/sponsorship.rst:289
-msgid "Ian Wusstig"
-msgstr ""
+msgid "Jason Jorgenson"
+msgstr "Jason Jorgenson"
 
 #: ../../source/site/about/sponsorship.rst:290
-msgid "Igor Zabelin"
-msgstr ""
+msgid "Jean Denis Giguère"
+msgstr "Jean Denis Giguère"
 
 #: ../../source/site/about/sponsorship.rst:291
-msgid "Ivan Mincik"
-msgstr ""
+msgid "Jean Roc Morreale"
+msgstr "Jean Roc Morreale"
 
 #: ../../source/site/about/sponsorship.rst:292
-msgid "Ivan Marchesini"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:293
-msgid "Jake Maier"
-msgstr ""
+msgid "Jean Sébastien Dehecq"
+msgstr "Jean Sébastien Dehecq"
 
 #: ../../source/site/about/sponsorship.rst:294
-msgid "James Larsen"
-msgstr ""
+msgid "Jim Litts"
+msgstr "Jim Litts"
 
 #: ../../source/site/about/sponsorship.rst:295
-msgid "James Crone"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:296
-msgid "Jaroslaw Kowalczyk"
-msgstr ""
+msgid "Jim Mann"
+msgstr "Jim Mann"
 
 #: ../../source/site/about/sponsorship.rst:297
-msgid "Jason Jorgenson"
-msgstr ""
+msgid "Johannes Lauber"
+msgstr "Johannes Lauber"
 
 #: ../../source/site/about/sponsorship.rst:298
-msgid "Jean Denis Giguère"
-msgstr ""
+msgid "John C. Tull"
+msgstr "John C. Tull"
 
 #: ../../source/site/about/sponsorship.rst:299
-msgid "Jean Roc Morreale"
-msgstr ""
+msgid "John Dean"
+msgstr "John Dean"
 
 #: ../../source/site/about/sponsorship.rst:300
-msgid "Jean Sébastien Dehecq"
-msgstr ""
+msgid "John Milligan"
+msgstr "John Milligan"
 
 #: ../../source/site/about/sponsorship.rst:301
-msgid "Jim Litts"
-msgstr ""
+msgid "Jorge Pintocorne"
+msgstr "Jorge Pintocorne"
 
 #: ../../source/site/about/sponsorship.rst:302
-msgid "Jim Mann"
-msgstr ""
+msgid "José Alfonso de Tomás Gargantilla"
+msgstr "José Alfonso de Tomás Gargantilla"
 
 #: ../../source/site/about/sponsorship.rst:303
-msgid "Johannes Lauber"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:304
-msgid "John C. Tull"
-msgstr ""
+msgid "Jose Augusto Faes"
+msgstr "Jose Augusto Faes"
 
 #: ../../source/site/about/sponsorship.rst:305
-msgid "John Dean"
-msgstr ""
+msgid "Junji Yamakawa"
+msgstr "Junji Yamakawa"
 
 #: ../../source/site/about/sponsorship.rst:306
-msgid "John Milligan"
-msgstr ""
+msgid "K Brock Riedell"
+msgstr "K Brock Riedell"
 
 #: ../../source/site/about/sponsorship.rst:307
-msgid "Jorge Pintocorne"
-msgstr ""
+msgid "Kanton Solothurn SOGIS"
+msgstr "Kanton Solothurn SOGIS"
 
 #: ../../source/site/about/sponsorship.rst:308
-msgid "José Alfonso de Tomás Gargantilla"
-msgstr ""
+msgid "Kenton Ngo"
+msgstr "Kenton Ngo"
 
 #: ../../source/site/about/sponsorship.rst:309
-msgid "Jose Augusto Faes"
-msgstr ""
+msgid "Kevin Hansen"
+msgstr "Kevin Hansen"
 
 #: ../../source/site/about/sponsorship.rst:310
-msgid "Junji Yamakawa"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:311
-msgid "K Brock Riedell"
-msgstr ""
+msgid "Kevin Shook"
+msgstr "Kevin Shook"
 
 #: ../../source/site/about/sponsorship.rst:312
-msgid "Kai Li"
-msgstr ""
+msgid "Klaus Sterzenbach"
+msgstr "Klaus Sterzenbach"
 
 #: ../../source/site/about/sponsorship.rst:313
-msgid "Kanton Solothurn SOGIS"
-msgstr ""
+msgid "Kristian Stadelmayr"
+msgstr "Kristian Stadelmayr"
 
 #: ../../source/site/about/sponsorship.rst:314
-msgid "Kenton Ngo"
-msgstr ""
+msgid "Kurt Esko"
+msgstr "Kurt Esko"
 
 #: ../../source/site/about/sponsorship.rst:315
-msgid "Kevin Hansen"
-msgstr ""
+msgid "Laura Burnette"
+msgstr "Laura Burnette"
 
 #: ../../source/site/about/sponsorship.rst:316
-msgid "Kevin Shook"
-msgstr ""
+msgid "Lorenzo Becchi"
+msgstr "Lorenzo Becchi"
 
 #: ../../source/site/about/sponsorship.rst:317
-msgid "Klaus Sterzenbach"
-msgstr ""
+msgid "Luca Casagrande"
+msgstr "Luca Casagrande"
 
 #: ../../source/site/about/sponsorship.rst:318
-msgid "Kristian Stadelmayr"
-msgstr ""
+msgid "Luca Manganelli"
+msgstr "Luca Manganelli"
 
 #: ../../source/site/about/sponsorship.rst:319
-msgid "Kurt Esko"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:320
-msgid "Laura Burnette"
-msgstr ""
+msgid "Lutz Bornschein"
+msgstr "Lutz Bornschein"
 
 #: ../../source/site/about/sponsorship.rst:321
-msgid "Lorenzo Becchi"
-msgstr ""
+msgid "Maciej Sieczka"
+msgstr "Maciej Sieczka"
 
 #: ../../source/site/about/sponsorship.rst:322
-msgid "Luca Casagrande"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:323
-msgid "Luca Manganelli"
-msgstr ""
+msgid "Maciej Latek"
+msgstr "Maciej Latek"
 
 #: ../../source/site/about/sponsorship.rst:324
-msgid "Lutz Bornschein"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:325
-msgid "Maciej Sieczka"
-msgstr ""
+msgid "Marc Monnerat"
+msgstr "Marc Monnerat"
 
 #: ../../source/site/about/sponsorship.rst:326
-msgid "Maciej Latek"
-msgstr ""
+msgid "Mark Siebel"
+msgstr "Mark Siebel"
 
 #: ../../source/site/about/sponsorship.rst:327
-msgid "Marc Monnerat"
-msgstr ""
+msgid "Mark Douglas"
+msgstr "Mark Douglas"
 
 #: ../../source/site/about/sponsorship.rst:328
-msgid "Mark Siebel"
-msgstr ""
+msgid "Mark Hoschek"
+msgstr "Mark Hoschek"
 
 #: ../../source/site/about/sponsorship.rst:329
-msgid "Mark Douglas"
-msgstr ""
+msgid "Maria Antonia Brovelli"
+msgstr "Maria Antonia Brovelli"
 
 #: ../../source/site/about/sponsorship.rst:330
-msgid "Mark Hoschek"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:331
-msgid "Maria Antonia Brovelli"
-msgstr ""
+msgid "Marselle Sjoden"
+msgstr "Marselle Sjoden"
 
 #: ../../source/site/about/sponsorship.rst:332
-msgid "Marselle Sjoden"
-msgstr ""
+msgid "Massimo Cuomo"
+msgstr "Massimo Cuomo"
 
 #: ../../source/site/about/sponsorship.rst:333
-msgid "Massimo Cuomo"
-msgstr ""
+msgid "Mateusz Loskot"
+msgstr "Mateusz Loskot"
 
 #: ../../source/site/about/sponsorship.rst:334
-msgid "Mateusz Loskot"
-msgstr ""
+msgid "Matt Foy"
+msgstr "Matt Foy"
 
 #: ../../source/site/about/sponsorship.rst:335
-msgid "Matt Foy"
-msgstr ""
+msgid "Matt Wilkie"
+msgstr "Matt Wilkie"
 
 #: ../../source/site/about/sponsorship.rst:336
-msgid "Matt Wilkie"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:337
 msgid "Michael Schweizer"
-msgstr ""
+msgstr "Michael Schweizer"
 
 #: ../../source/site/about/sponsorship.rst:338
 msgid "Miguel Fernández Astudillo"
-msgstr ""
+msgstr "Miguel Fernández Astudillo"
 
 #: ../../source/site/about/sponsorship.rst:339
 msgid "Mikhail Sivakov"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:340
-msgid "Mohamed Al Merri"
-msgstr ""
+msgstr "Mikhail Sivakov"
 
 #: ../../source/site/about/sponsorship.rst:341
+msgid "Mohamed Al Merri"
+msgstr "Mohamed Al Merri"
+
+#: ../../source/site/about/sponsorship.rst:343
 msgid "Murray Swanson"
+msgstr "Murray Swanson"
+
+#: ../../source/site/about/sponsorship.rst:345
+msgid "Niccolo Rigacci"
+msgstr "Niccolo Rigacci"
+
+#: ../../source/site/about/sponsorship.rst:347
+msgid "Nikolaos Alexandris"
+msgstr "Nikolaos Alexandris"
+
+#: ../../source/site/about/sponsorship.rst:349
+msgid "Nikolaou Konstantinos"
+msgstr "Nikolaou Konstantinos"
+
+#: ../../source/site/about/sponsorship.rst:351
+msgid "Oliver Schonrock"
+msgstr "Oliver Schonrock"
+
+#: ../../source/site/about/sponsorship.rst:352
+msgid "Oriental Rugs Online"
+msgstr "Oriental Rugs Online"
+
+#: ../../source/site/about/sponsorship.rst:353
+msgid "Osvaldo Mascetti"
+msgstr "Osvaldo Mascetti"
+
+#: ../../source/site/about/sponsorship.rst:354
+msgid "Otto Dassau"
+msgstr "Otto Dassau"
+
+#: ../../source/site/about/sponsorship.rst:355
+msgid "Pablo Torres Carreira"
+msgstr "Pablo Torres Carreira"
+
+#: ../../source/site/about/sponsorship.rst:356
+msgid "Paolo Cavallini"
+msgstr "Paolo Cavallini"
+
+#: ../../source/site/about/sponsorship.rst:357
+msgid "Paolo Livio Craveri"
+msgstr "Paolo Livio Craveri"
+
+#: ../../source/site/about/sponsorship.rst:358
+msgid "Patti Giuseppe"
+msgstr "Patti Giuseppe"
+
+#: ../../source/site/about/sponsorship.rst:360
+msgid "Peter Löwe"
+msgstr "Peter Löwe"
+
+#: ../../source/site/about/sponsorship.rst:361
+msgid "Peter Paudits"
+msgstr "Peter Paudits"
+
+#: ../../source/site/about/sponsorship.rst:363
+msgid "Peter Wells"
+msgstr "Peter Wells"
+
+#: ../../source/site/about/sponsorship.rst:364
+msgid "Planetek Italia s.r.l"
+msgstr "Planetek Italia s.r.l"
+
+#: ../../source/site/about/sponsorship.rst:365
+msgid "Productive Water Services"
+msgstr "Productive Water Services"
+
+#: ../../source/site/about/sponsorship.rst:366
+msgid "Radoslaw Pasiok"
+msgstr "Radoslaw Pasiok"
+
+#: ../../source/site/about/sponsorship.rst:367
+msgid "Ragnvald Larsen"
+msgstr "Ragnvald Larsen"
+
+#: ../../source/site/about/sponsorship.rst:368
+msgid "Ralph Hames"
+msgstr "Ralph Hames"
+
+#: ../../source/site/about/sponsorship.rst:369
+msgid "Ralph Williams"
+msgstr "Ralph Williams"
+
+#: ../../source/site/about/sponsorship.rst:370
+msgid "Ramon Andinach"
+msgstr "Ramon Andinach"
+
+#: ../../source/site/about/sponsorship.rst:371
+msgid "Raymond Warriner"
+msgstr "Raymond Warriner"
+
+#: ../../source/site/about/sponsorship.rst:372
+msgid "Reiko Hayashi"
+msgstr "Reiko Hayashi"
+
+#: ../../source/site/about/sponsorship.rst:373
+msgid "Riccardo Giaccari"
+msgstr "Riccardo Giaccari"
+
+#: ../../source/site/about/sponsorship.rst:374
+msgid "Richard Duivenvoorde"
+msgstr "Richard Duivenvoorde"
+
+#: ../../source/site/about/sponsorship.rst:375
+msgid "Robert Nuske"
+msgstr "Robert Nuske"
+
+#: ../../source/site/about/sponsorship.rst:376
+msgid "Robert Thurston"
+msgstr "Robert Thurston"
+
+#: ../../source/site/about/sponsorship.rst:377
+msgid "Roberta Benetti"
+msgstr "Roberta Benetti"
+
+#: ../../source/site/about/sponsorship.rst:378
+msgid "Russell Rew"
+msgstr "Russell Rew"
+
+#: ../../source/site/about/sponsorship.rst:379
+msgid "Sake Wagenaar"
+msgstr "Sake Wagenaar"
+
+#: ../../source/site/about/sponsorship.rst:381
+msgid "Sergey Khokhlov"
+msgstr "Sergey Khokhlov"
+
+#: ../../source/site/about/sponsorship.rst:382
+msgid "Shapesmart"
+msgstr "Shapesmart"
+
+#: ../../source/site/about/sponsorship.rst:383
+msgid "Silvio Grosso"
+msgstr "Silvio Grosso"
+
+#: ../../source/site/about/sponsorship.rst:384
+msgid "Spencer Gardner"
+msgstr "Spencer Gardner"
+
+#: ../../source/site/about/sponsorship.rst:385
+msgid "Stefan Ziegler"
+msgstr "Stefan Ziegler"
+
+#: ../../source/site/about/sponsorship.rst:386
+msgid "Stefan Price"
+msgstr "Stefan Price"
+
+#: ../../source/site/about/sponsorship.rst:388
+msgid "Stefano Menegon"
+msgstr "Stefano Menegon"
+
+#: ../../source/site/about/sponsorship.rst:389
+msgid "Steffen Götze"
+msgstr "Steffen Götze"
+
+#: ../../source/site/about/sponsorship.rst:390
+msgid "Stephan Holl"
+msgstr "Stephan Holl"
+
+#: ../../source/site/about/sponsorship.rst:391
+msgid "Sti Sas Di Meo"
+msgstr "Sti Sas Di Meo"
+
+#: ../../source/site/about/sponsorship.rst:392
+msgid "Thanasis Karathanasis"
+msgstr "Thanasis Karathanasis"
+
+#: ../../source/site/about/sponsorship.rst:394
+msgid "Thierry Gonon"
+msgstr "Thierry Gonon"
+
+#: ../../source/site/about/sponsorship.rst:395
+msgid "Tim Baggett"
+msgstr "Tim Baggett"
+
+#: ../../source/site/about/sponsorship.rst:397
+msgid "Tishampati Dhar"
+msgstr "Tishampati Dhar"
+
+#: ../../source/site/about/sponsorship.rst:398
+msgid "Tomas Trojacek"
+msgstr "Tomas Trojacek"
+
+#: ../../source/site/about/sponsorship.rst:399
+msgid "Thomas Dunz"
+msgstr "Thomas Dunz"
+
+#: ../../source/site/about/sponsorship.rst:400
+msgid "Thomas Engleder"
+msgstr "Thomas Engleder"
+
+#: ../../source/site/about/sponsorship.rst:402
+msgid "Tyler Mitchell"
+msgstr "Tyler Mitchell"
+
+#: ../../source/site/about/sponsorship.rst:403
+msgid "Ujaval Gandhi"
+msgstr "Ujaval Gandhi"
+
+#: ../../source/site/about/sponsorship.rst:404
+msgid "Umberto Zulian"
+msgstr "Umberto Zulian"
+
+#: ../../source/site/about/sponsorship.rst:405
+msgid "Wendelin Schmit"
+msgstr "Wendelin Schmit"
+
+#: ../../source/site/about/sponsorship.rst:406
+msgid "Werner Macho"
+msgstr "Werner Macho"
+
+#: ../../source/site/about/sponsorship.rst:407
+msgid "William Levering"
+msgstr "William Levering"
+
+#: ../../source/site/about/sponsorship.rst:409
+msgid "Yves Jacolin"
+msgstr "Yves Jacolin"
+
+#: ../../source/site/about/sponsorship.rst:410
+msgid "Zachary Patterson"
+msgstr "Zachary Patterson"
+
+#: ../../source/site/about/sponsorship.rst:196
+msgid "Alessio Buccioli"
+msgstr "Alessio Buccioli"
+
+#: ../../source/site/about/sponsorship.rst:197
+msgid "Alex Thomas"
+msgstr "Alex Thomas"
+
+#: ../../source/site/about/sponsorship.rst:207
+msgid "Andrew Flatman"
+msgstr "Andrew Flatman"
+
+#: ../../source/site/about/sponsorship.rst:208
+msgid "Andrew Mcaninch"
+msgstr "Andrew Mcaninch"
+
+#: ../../source/site/about/sponsorship.rst:211
+msgid "Antimo Battistoni"
+msgstr "Antimo Battistoni"
+
+#: ../../source/site/about/sponsorship.rst:212
+msgid "Aris Dimopoulos"
+msgstr "Aris Dimopoulos"
+
+#: ../../source/site/about/sponsorship.rst:216
+msgid "Benoit David"
+msgstr "Benoit David"
+
+#: ../../source/site/about/sponsorship.rst:231
+msgid "David Addy"
+msgstr "David Addy"
+
+#: ../../source/site/about/sponsorship.rst:239
+msgid "Dominique Pitt"
+msgstr "Dominique Pitt"
+
+#: ../../source/site/about/sponsorship.rst:260
+msgid "Geoff Oxsen"
+msgstr "Geoff Oxsen"
+
+#: ../../source/site/about/sponsorship.rst:269
+msgid "Grant Ogilvie"
+msgstr "Grant Ogilvie"
+
+#: ../../source/site/about/sponsorship.rst:278
+msgid "Ian Allan"
+msgstr "Ian Allan"
+
+#: ../../source/site/about/sponsorship.rst:286
+msgid "Jan Militzer"
+msgstr "Jan Militzer"
+
+#: ../../source/site/about/sponsorship.rst:287
+msgid "Janne Jakob Fleischer"
+msgstr "Janne Jakob Fleischer"
+
+#: ../../source/site/about/sponsorship.rst:293
+msgid "Jesus Aguilera Rubio"
+msgstr "Jesus Aguilera Rubio"
+
+#: ../../source/site/about/sponsorship.rst:296
+msgid "Joachim Aurbacher"
+msgstr "Joachim Aurbacher"
+
+#: ../../source/site/about/sponsorship.rst:320
+msgid "M de Bresser"
+msgstr "M de Bresser"
+
+#: ../../source/site/about/sponsorship.rst:323
+msgid "Manfred Schön"
+msgstr "Manfred Schön"
+
+#: ../../source/site/about/sponsorship.rst:331
+msgid "Martin Kugler"
+msgstr "Martin Kugler"
+
+#: ../../source/site/about/sponsorship.rst:337
+msgid "Michele Beneventi"
+msgstr "Michele Beneventi"
+
+#: ../../source/site/about/sponsorship.rst:340
+msgid "Mikko Suonio"
+msgstr "Mikko Suonio"
+
+#: ../../source/site/about/sponsorship.rst:344
+msgid "Nelson Silva"
+msgstr "Nelson Silva"
+
+#: ../../source/site/about/sponsorship.rst:346
+msgid "Nikita Mozgunov"
+msgstr "Nikita Mozgunov"
+
+#: ../../source/site/about/sponsorship.rst:350
+msgid "Norman Trowell"
+msgstr "Norman Trowell"
+
+#: ../../source/site/about/sponsorship.rst:359
+msgid "Peter Brodersen"
+msgstr "Peter Brodersen"
+
+#: ../../source/site/about/sponsorship.rst:362
+msgid "Peter Thuvander"
+msgstr "Peter Thuvander"
+
+#: ../../source/site/about/sponsorship.rst:387
+msgid "Stefan Sylla"
+msgstr "Stefan Sylla"
+
+#: ../../source/site/about/sponsorship.rst:393
+msgid "Thibaut Goelff"
+msgstr "Thibaut Goelff"
+
+#: ../../source/site/about/sponsorship.rst:6
+msgid ""
+"We thank our sponsors and donors who support the QGIS project and enable us "
+"to pay for our infrastructure and important development work, as well as "
+"finance developer meetings and promotion of QGIS in workshops and "
+"conferences."
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:10
+msgid ""
+"For information on becoming a sponsor, please visit "
+":ref:`QGIS_sponsorship_program`."
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:28
+msgid ""
+"Annually we also receive support from various organisations who appreciate "
+"the work we do and would like to facilitate the sustained development effort"
+" that goes into the project. These sponsors are listed below with our "
+"thanks!"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:42
+msgid "|silver| |gaia|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:44
+msgid "`G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (06.2013-06.2014)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:53
+msgid ""
+"`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria "
+"(03.2013-03.2014)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:82
+msgid ""
+"`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:91
+msgid "`www.fossgis.de <http://www.fossgis.de/>`_, Germany (08.2012-08.2013)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:100
+msgid ""
+"`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:109
+msgid ""
+"`www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia "
+"(05.2012-05.2013)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:118
+msgid ""
+"`ibW Bildungszentrum Wald <http://www.bzwmaienfeld.ch/>`_, Switzerland "
+"(03.2012-03.2013)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:127
+msgid ""
+"`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (04.2011-04.2012)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:135
+msgid ""
+"`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria "
+"(11.2011-11.2012)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:143
+msgid "`City of Uster <http://gis.uster.ch/>`_, Switzerland (11.2011-11.2012)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:152
+msgid ""
+"`Municípia, SA <http://www.municipia.pt/>`_, Portugal (02.2011-02.2012)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:161
+msgid ""
+"`Studio Associato Gfosservices <http://www.gfosservices.com/>`_, Italy "
+"(02.2010-02.2011)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:170
+msgid "`NextGIS <http://nextgis.org/>`_, Russia (03.2010-03.2011)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:179
+msgid ""
+"Donations can be of any amount, via the Paypal button on the frontpage, or "
+"through our bank account (write us for details: cavallini at faunalia dot "
+"it). Even a small donation can make a difference and help to reach important"
+" project goals!"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:191
+msgid "Aileen Heal"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:201
+msgid "Andrea Lau"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:230
+msgid "Dan Karran"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:232
+msgid "David Horsey"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:245
+msgid "Erik Haß"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:256
+msgid "Gabriele Baccini"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:274
+msgid "Heiko Schmüser"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:304
+msgid "Julien Villery"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:311
+msgid "Klaus Weddeling"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:325
+msgid "Marcel Van Dorst"
 msgstr ""
 
 #: ../../source/site/about/sponsorship.rst:342
-msgid "Niccolo Rigacci"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:343
-msgid "Nikolaos Alexandris"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:344
-msgid "Nikolaou Konstantinos"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:345
-msgid "Oliver Schonrock"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:346
-msgid "Oriental Rugs Online"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:347
-msgid "Osvaldo Mascetti"
+msgid "Moshe Dr. Shirav"
 msgstr ""
 
 #: ../../source/site/about/sponsorship.rst:348
-msgid "Otto Dassau"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:349
-msgid "Pablo Torres Carreira"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:350
-msgid "Paolo Cavallini"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:351
-msgid "Paolo Livio Craveri"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:352
-msgid "Patti Giuseppe"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:353
-msgid "Peter Löwe"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:354
-msgid "Peter Paudits"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:355
-msgid "Peter Wells"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:356
-msgid "Planetek Italia s.r.l"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:357
-msgid "Productive Water Services"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:358
-msgid "Radoslaw Pasiok"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:359
-msgid "Ragnvald Larsen"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:360
-msgid "Ralph Hames"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:361
-msgid "Ralph Williams"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:362
-msgid "Ramon Andinach"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:363
-msgid "Raymond Warriner"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:364
-msgid "Reiko Hayashi"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:365
-msgid "Riccardo Giaccari"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:366
-msgid "Richard Duivenvoorde"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:367
-msgid "Robert Nuske"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:368
-msgid "Robert Thurston"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:369
-msgid "Roberta Benetti"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:370
-msgid "Russell Rew"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:371
-msgid "Sake Wagenaar"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:372
-msgid "Sergey Khokhlov"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:373
-msgid "Shapesmart"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:374
-msgid "Silvio Grosso"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:375
-msgid "Spencer Gardner"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:376
-msgid "Stefan Ziegler"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:377
-msgid "Stefan Price"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:378
-msgid "Stefano Menegon"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:379
-msgid "Steffen Götze"
+msgid "Nikolaos Christou"
 msgstr ""
 
 #: ../../source/site/about/sponsorship.rst:380
-msgid "Stephan Holl"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:381
-msgid "Sti Sas Di Meo"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:382
-msgid "Thanasis Karathanasis"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:383
-msgid "Thierry Gonon"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:384
-msgid "Tim Baggett"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:385
-msgid "Tishampati Dhar"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:386
-msgid "Tomas Trojacek"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:387
-msgid "Thomas Dunz"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:388
-msgid "Thomas Engleder"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:389
-msgid "Tyler Mitchell"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:390
-msgid "Ujaval Gandhi"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:391
-msgid "Umberto Zulian"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:392
-msgid "Wendelin Schmit"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:393
-msgid "Werner Macho"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:394
-msgid "William Levering"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:395
-msgid "Yves Jacolin"
+msgid "Sebastian Cionoiu"
 msgstr ""
 
 #: ../../source/site/about/sponsorship.rst:396
-msgid "Zachary Patterson"
-msgstr ""
-
-#: ../../source/site/about/sponsorship.rst:399
-msgid "Your benefit sponsoring QGIS"
+msgid "Tim Gould"
 msgstr ""
 
 #: ../../source/site/about/sponsorship.rst:401
-msgid "Sponsoring the QGIS project provides the following benefits:"
+msgid "Tony MacLeod"
 msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:403
-msgid "Ensures the sustainability and health of the QGIS project."
+#: ../../source/site/about/sponsorship.rst:408
+msgid "Yuan Harng Lee"
 msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:404
-msgid ""
-"All sponsors will be listed on the project sponsor page, ordered by "
-"contribution class (Platinum, Gold, Silver, Bronze) with a link back to the "
-"sponsor."
-msgstr ""
+#~ msgid ""
+#~ "QGIS is an entirely Open Source project. QGIS development is carried out "
+#~ "largely by a group of volunteers, that in time have built up a large, "
+#~ "valuable and useful code base, free to use and improve for everybody. As a "
+#~ "result, you have free access to the source code and binaries that we provide"
+#~ " on our web site. As a result of this volunteer approach, a number of tasks,"
+#~ " less interesting or important for the developers, are sometimes left "
+#~ "behind. In addition, promoting QGIS requires our participation at congresses"
+#~ " and conferences and the production of information material, sometimes very "
+#~ "expensive for volunteer developers."
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:407
-msgid ""
-"*Platinum Sponsors* will have their logo placed on rotating banner on front "
-"page of qgis.osgeo.org"
-msgstr ""
+#~ msgid ""
+#~ "Meanwhile, many organizations have made an investment in using QGIS as part "
+#~ "of their operations, but have not had a way to directly contribute to the "
+#~ "success and long-term health of the project."
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:409
-msgid ""
-"*Gold Sponsors* will be listed on the sponsors page with a large logo (60k "
-"pixel, e.g. 300x200px)"
-msgstr ""
+#~ msgid ""
+#~ "We would like to extend our activities and improve the quality of QGIS. Your"
+#~ " financial contribution will support the maintenance, improvement, and "
+#~ "promotion of QGIS. Sponsorship is not a way for individuals to control the "
+#~ "development of the project, but rather a way of ensuring the longevity and "
+#~ "overall health of the project."
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:411
-msgid ""
-"*Silver sponsors* will be listed on the sponsors page with a medium size "
-"logo (30k pixel, e.g. 200x150px)"
-msgstr ""
+#~ msgid ""
+#~ "With your donations we were able to fund several developer meetings, "
+#~ "starting rom that in Vienna, autumn 2009. Users donations, with the co-"
+#~ "sponsoring of the Italian GFOSS.it association allow us to fund travel and "
+#~ "accommodation costs of several key developers. Donations thus contributed "
+#~ "effectively to the great success of the meeting."
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:413
-msgid ""
-"*Bronze sponsors* will be listed on the sponsors page with a small size logo"
-" (6k pixel, e.g. 100x60px)"
-msgstr ""
+#~ msgid "We encourage you to donate again to the upcoming developer meetings."
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:415
-msgid ""
-"after the expiring of the sponsorship year, logos will be kept until space "
-"will allow, reducing their size by a half"
-msgstr ""
+#~ msgid "How can you support the QGIS Development"
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:418
-msgid "Sponsors will be listed in the front matter of the QGIS manual"
-msgstr ""
+#~ msgid "There are two kinds of financial contributions, we accept:"
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:419
-msgid ""
-"Sponsors will be allowed to use a special version of the QGIS logo on their "
-"web site and promotional materials, which shows they are a sponsor of the "
-"QGIS project"
-msgstr ""
+#~ msgid ""
+#~ "**sponsorships**: a sponsorship is an annual commitment of funds to the "
+#~ "project."
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:423
-msgid "No advertising will be placed within the QGIS application itself."
-msgstr ""
+#~ msgid ""
+#~ "**donation**: a donation is a once off financial contribution to the QGIS "
+#~ "project."
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:426
-msgid "How do we use financial support"
-msgstr ""
+#~ msgid "Sponsorship"
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:428
-msgid ""
-"The sponsorship funds will be spent to directly improve the code base of the"
-" project, to fund tasks that generally receive less attention from "
-"developers, and to fund work on peripheral project tasks so that core "
-"contributors can focus efforts on QGIS improvements. As examples, we fund "
-"the following project activities:"
-msgstr ""
+#~ msgid ""
+#~ "Sponsors can sponsor QGIS for any amount of money of at least 500 €/700 US$."
+#~ " Sponsorships last one year, after which they may be continued with a new "
+#~ "payment, or allowed to lapse. At or above the following levels a sponsor "
+#~ "will be designated as being one of the following class:"
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:433
-msgid ""
-"**QGIS Developer Meetings** where we can meet in person and brainstorm, fix "
-"bugs and hold a week of intensive QGIS development work. Most QGIS "
-"developers will happily donate their time to such events, but we are looking"
-" for sponsors to cover travel, accommodation and subsistence costs for these"
-" events"
-msgstr ""
+#~ msgid "27,000+ €/39,000 US$: Platinum Sponsor"
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:437
-msgid ""
-"fund developers to work on specific aspects of QGIS including implementing "
-"**new features** and **fixing bugs**"
-msgstr ""
+#~ msgid "9,000+ €/13,000 US$: Gold Sponsor"
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:439
-msgid ""
-"attendance to other conferences. There are several high profile conferences "
-"held each year (such as the http://www.foss4g.org), and we would like to be "
-"able to fund QGIS team members to **represent QGIS at important "
-"conferences**, to promote it among users and raise interest and solicit code"
-" contributions from other developers."
-msgstr ""
+#~ msgid "3,000+ €/4,300 US$: Silver Sponsor"
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:445
-msgid ""
-"Decisions on spending of sponsorship funds will be made by the *QGIS Project"
-" Steering Committee*."
-msgstr ""
+#~ msgid "500+ €/700 US$: Bronze Sponsor"
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:449
-msgid ""
-"We regret that we cannot accept 'earmarked' funding as it creates many "
-"administrative issues. If you are interested in funding specific aspects of "
-"QGIS development, we encourage you to allocate additional human resources to"
-" the project, e.g. hiring a developer, or participating to our bug fixing "
-"initiative."
-msgstr ""
+#~ msgid ""
+#~ "Annually we also receive support from various organisations who appreciate "
+#~ "the work we do and would like to facilitate the sustained development effort"
+#~ " that goes into the project. For more information on sponsoring QGIS, please"
+#~ " visit the sponsorship page. These sponsors are listed below with our "
+#~ "thanks!"
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:456
-msgid ""
-"Acceptance of sponsorship offers is at the discretion of the QGIS PSC. We "
-"reserve the right to decline offers of sponsorship if the sponsoring "
-"organisation or party seems to be at odds with the ethos of our project. For"
-" example offers from marketing companies that have nothing to do with GIS / "
-"spatial services, or offers where we have reason to believe the presence of "
-"the sponsors logo and marketing materials on our site and other materials "
-"will degrade the experience of our users will be declined."
-msgstr ""
+#~ msgid "`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (3.2013)"
+#~ msgstr ""
 
-#: ../../source/site/about/sponsorship.rst:464
-msgid ""
-"Organizations or individuals interested in sponsoring the QGIS project "
-"should contact the **QGIS PSC Finance and Marketing advisor**, Paolo "
-"Cavallini at: cavallini at faunalia dot it (+39-348-3801953) with questions,"
-" or to make arrangements."
-msgstr ""
+#~ msgid "`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012)"
+#~ msgstr ""
+
+#~ msgid "`www.fossgis.de <http://www.fossgis.de/>`_, Germany (8.2012)"
+#~ msgstr ""
+
+#~ msgid "`www.argusoft.de <http://www.argusoft.de/>`_, Germany (6.2012)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (5.2012)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`ibW Bildungszentrum Wald <http://www.bzwmaienfeld.ch/>`_, Switzerland "
+#~ "(3.2012)"
+#~ msgstr ""
+
+#~ msgid "`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (4.2011)"
+#~ msgstr ""
+
+#~ msgid "`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011)"
+#~ msgstr ""
+
+#~ msgid "`City of Uster <http://gis.uster.ch/>`_, Switzerland (11.2011)"
+#~ msgstr ""
+
+#~ msgid "`Municípia, SA <http://www.municipia.pt/>`_, Portugal (2.2011)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Studio Associato Gfosservices <http://www.gfosservices.com/>`_, Italy "
+#~ "(2.2010)"
+#~ msgstr ""
+
+#~ msgid "`NextGIS <http://nextgis.org/>`_, Russia (3.2010)"
+#~ msgstr ""
+
+#~ msgid "Donation"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Donations can be of any amount, through the `Make A Donation PayPal "
+#~ "<https://www.paypal.com/us/cgi-"
+#~ "bin/webscr?cmd=_flow&SESSION=AdBwoAp9yoTKrVYVX_a8x5uNGxn6jbzjkZVnJaTIqW6pVT4i_Ns6S3DVWym&dispatch=5885d80a13c0db1f8e263663d3faee8d96fc0752e9614158f04872d2f2ae25dc>`_"
+#~ " link provided also in the menu of this website or through our bank account "
+#~ "(write us for details: cavallini at faunalia dot it). Even a small donation "
+#~ "can make a difference and help to reach important project goals!"
+#~ msgstr ""
+
+#~ msgid "Your benefit sponsoring QGIS"
+#~ msgstr ""
+
+#~ msgid "Sponsoring the QGIS project provides the following benefits:"
+#~ msgstr ""
+
+#~ msgid "Ensures the sustainability and health of the QGIS project."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "All sponsors will be listed on the project sponsor page, ordered by "
+#~ "contribution class (Platinum, Gold, Silver, Bronze) with a link back to the "
+#~ "sponsor."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*Platinum Sponsors* will have their logo placed on rotating banner on front "
+#~ "page of qgis.osgeo.org"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*Gold Sponsors* will be listed on the sponsors page with a large logo (60k "
+#~ "pixel, e.g. 300x200px)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*Silver sponsors* will be listed on the sponsors page with a medium size "
+#~ "logo (30k pixel, e.g. 200x150px)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*Bronze sponsors* will be listed on the sponsors page with a small size logo"
+#~ " (6k pixel, e.g. 100x60px)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "after the expiring of the sponsorship year, logos will be kept until space "
+#~ "will allow, reducing their size by a half"
+#~ msgstr ""
+
+#~ msgid "Sponsors will be listed in the front matter of the QGIS manual"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Sponsors will be allowed to use a special version of the QGIS logo on their "
+#~ "web site and promotional materials, which shows they are a sponsor of the "
+#~ "QGIS project"
+#~ msgstr ""
+
+#~ msgid "No advertising will be placed within the QGIS application itself."
+#~ msgstr ""
+
+#~ msgid "How do we use financial support"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The sponsorship funds will be spent to directly improve the code base of the"
+#~ " project, to fund tasks that generally receive less attention from "
+#~ "developers, and to fund work on peripheral project tasks so that core "
+#~ "contributors can focus efforts on QGIS improvements. As examples, we fund "
+#~ "the following project activities:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**QGIS Developer Meetings** where we can meet in person and brainstorm, fix "
+#~ "bugs and hold a week of intensive QGIS development work. Most QGIS "
+#~ "developers will happily donate their time to such events, but we are looking"
+#~ " for sponsors to cover travel, accommodation and subsistence costs for these"
+#~ " events"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "fund developers to work on specific aspects of QGIS including implementing "
+#~ "**new features** and **fixing bugs**"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "attendance to other conferences. There are several high profile conferences "
+#~ "held each year (such as the http://www.foss4g.org), and we would like to be "
+#~ "able to fund QGIS team members to **represent QGIS at important "
+#~ "conferences**, to promote it among users and raise interest and solicit code"
+#~ " contributions from other developers."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Decisions on spending of sponsorship funds will be made by the *QGIS Project"
+#~ " Steering Committee*."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We regret that we cannot accept 'earmarked' funding as it creates many "
+#~ "administrative issues. If you are interested in funding specific aspects of "
+#~ "QGIS development, we encourage you to allocate additional human resources to"
+#~ " the project, e.g. hiring a developer, or participating to our bug fixing "
+#~ "initiative."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Acceptance of sponsorship offers is at the discretion of the QGIS PSC. We "
+#~ "reserve the right to decline offers of sponsorship if the sponsoring "
+#~ "organisation or party seems to be at odds with the ethos of our project. For"
+#~ " example offers from marketing companies that have nothing to do with GIS / "
+#~ "spatial services, or offers where we have reason to believe the presence of "
+#~ "the sponsors logo and marketing materials on our site and other materials "
+#~ "will degrade the experience of our users will be declined."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Organizations or individuals interested in sponsoring the QGIS project "
+#~ "should contact the **QGIS PSC Finance and Marketing advisor**, Paolo "
+#~ "Cavallini at: cavallini at faunalia dot it (+39-348-3801953) with questions,"
+#~ " or to make arrangements."
+#~ msgstr ""
+
+#~ msgid "Kai Li"
+#~ msgstr ""

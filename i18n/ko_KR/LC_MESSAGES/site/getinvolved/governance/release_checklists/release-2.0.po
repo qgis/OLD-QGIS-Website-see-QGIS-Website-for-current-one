@@ -1,11 +1,13 @@
 # 
 # Translators:
+# BJ Jang <qgis.tr.kr@gmail.com>, 2013
+# Sean Moon <softmsh@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-19 16:04+0000\n"
+"PO-Revision-Date: 2013-10-04 11:23+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/qgis-website/language/ko_KR/)\n"
 "MIME-Version: 1.0\n"
@@ -16,41 +18,41 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:2
 msgid "Checklist for QGIS Release 2.0"
-msgstr ""
+msgstr "QGIS 2.0 의 점검 리스트"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:9
 msgid "Key Dates:"
-msgstr ""
+msgstr "주요 일정:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:11
 msgid "**1 April 2013** - Feature freeze - no new features in master."
-msgstr ""
+msgstr "**2013년 4월 1일** - 기능 확정 - 마스터에 새 기능 추가 금지."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:12
 msgid ""
 "**15 April 2013** - API Freeze - no changes to API except where it is in "
 "direct response to broken functionality."
-msgstr ""
+msgstr "**2013년 4월 15일** - API 확정 - 망가진 기능에 대한 직접적인 조치를 제외한 API 변경 금지"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:14
 msgid ""
 "**30 April** - GUI Freeze and String freeze - no changes to ui or strings "
 "except where required for critical bug fixes. Call for translations."
-msgstr ""
+msgstr "**4월 30일** - GUI 확정 및 문장 확정 - 심각한 버그 수정요청이 아닌 경우 UI 나 문장 수정 금지. 번역 요청 발송."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:16
 msgid ""
 "**1 June 2013** - Branch 2.0, code freeze (except for packaging related "
 "changes), call for packaging."
-msgstr ""
+msgstr "**2013년 6월 1일** 브랜치 2.0 코드 확정 (패키징과 관련된 변경 제외), 패키징 요청 발송."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:18
 msgid "**7 June 2013** - Public release of 2.0"
-msgstr ""
+msgstr "**2013년 6월 7일** - 2.0 일반 배포"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:22
 msgid "Blocking Features"
-msgstr ""
+msgstr "차단된 기능"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:24
 msgid "Symbology overhaul"
@@ -842,12 +844,6 @@ msgstr ""
 msgid "A generic 20 word summary"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:405
-msgid ""
-"Quantum GIS is a user friendly Open Source Geographic Information System "
-"that runs on Linux, Unix, Mac OSX, and Windows."
-msgstr ""
-
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:409
 msgid "A mailing list announcement"
 msgstr ""
@@ -979,17 +975,38 @@ msgstr ""
 msgid "A generic product description"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:466
-msgid ""
-"Quantum GIS (QGIS) is a user friendly Open Source Geographic Information "
-"System (GIS) that runs on Linux, Unix, Mac OSX, and Windows. QGIS supports "
-"vector, raster, and database formats. QGIS is licensed under the GNU General"
-" Public License. QGIS lets you browse and create map data on your computer. "
-"It supports many common spatial data formats (e.g. ESRI ShapeFile, geotiff)."
-" QGIS supports plugins to do things like display tracks from your GPS. QGIS "
-"is Open Source software and its free of cost."
-msgstr ""
-
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:476
 msgid "A generic features list"
 msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:405
+msgid ""
+"QGIS is a user friendly Open Source Geographic Information System that runs "
+"on Linux, Unix, Mac OSX, and Windows."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:466
+msgid ""
+"QGIS (QGIS) is a user friendly Open Source Geographic Information System "
+"(GIS) that runs on Linux, Unix, Mac OSX, and Windows. QGIS supports vector, "
+"raster, and database formats. QGIS is licensed under the GNU General Public "
+"License. QGIS lets you browse and create map data on your computer. It "
+"supports many common spatial data formats (e.g. ESRI ShapeFile, geotiff). "
+"QGIS supports plugins to do things like display tracks from your GPS. QGIS "
+"is Open Source software and its free of cost."
+msgstr ""
+
+#~ msgid ""
+#~ "Quantum GIS is a user friendly Open Source Geographic Information System "
+#~ "that runs on Linux, Unix, Mac OSX, and Windows."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Quantum GIS (QGIS) is a user friendly Open Source Geographic Information "
+#~ "System (GIS) that runs on Linux, Unix, Mac OSX, and Windows. QGIS supports "
+#~ "vector, raster, and database formats. QGIS is licensed under the GNU General"
+#~ " Public License. QGIS lets you browse and create map data on your computer. "
+#~ "It supports many common spatial data formats (e.g. ESRI ShapeFile, geotiff)."
+#~ " QGIS supports plugins to do things like display tracks from your GPS. QGIS "
+#~ "is Open Source software and its free of cost."
+#~ msgstr ""

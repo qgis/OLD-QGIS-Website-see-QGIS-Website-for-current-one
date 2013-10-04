@@ -1,13 +1,14 @@
 # 
 # Translators:
 # julien2291 <julien.francois1@hotmail.fr>, 2013
+# Cartoboy <cartographie@hotmail.fr>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-18 20:44+0000\n"
-"Last-Translator: julien2291 <julien.francois1@hotmail.fr>\n"
+"PO-Revision-Date: 2013-09-21 12:24+0000\n"
+"Last-Translator: Cartoboy <cartographie@hotmail.fr>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -45,14 +46,14 @@ msgid ""
 "verdant Minho, Ribeira de Pena is one of the municipalities that can work "
 "like an ecological corridor between areas with higher wolf concentration in "
 "the north with lower concentration in the south."
-msgstr ""
+msgstr "Ribeira de Pena est une municipalité dans le district de Vila Real, dans le nord du Portugal. Il s'agit d'une municipalité rurale, caractérisée par l'agriculture, le pâturage du bétail, des forêts, des montagnes, des vallées et une faune diversifiée, avec une faible densité humaine, qui offre un abri et de la nourriture pour les loups. Situé dans une zone de transition entre le rude et montagneux Tras-os-Montes et le verdoyant Minho, Ribeira de Pena est l'une des municipalités qui peut fonctionner comme un corridor écologique entre les zones à concentration élevée loup dans le nord avec une concentration plus faible dans le sud."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:17
 msgid ""
 "I started using GIS software during my biology course, and more often during"
 " my master thesis. At that time I used mainly proprietary software. After I "
 "finished my master degree, I lost access to the proprietary software."
-msgstr "J'ai commencé à utiliser les logiciels SIG pendant mes études de biologie, et plus souvent pendant ma mémoire de master. A cette époque j'utilisais principalement des logiciels propriétaires. Après la fin de mon master, j'ai perdu l'accès aux logiciels propriétaires."
+msgstr "J'ai commencé à utiliser les logiciels SIG pendant mes études de biologie, et plus souvent pendant mon mémoire de master. A cette époque j'utilisais principalement des logiciels propriétaires. Après la fin de mon master, j'ai perdu l'accès aux logiciels propriétaires."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:19
 msgid ""
@@ -65,7 +66,7 @@ msgid ""
 "already knew. I quickly realized how mistaken I was, and got really "
 "enthusiastic with the analytical capabilities QGIS provided, specially with "
 "GRASS integration."
-msgstr "En attendant, je suis entré dans le nouveau monde de Linux. Après ça, j'ai été contacté pour aidé des chercheurs à modéliser les corridors écologiques des loups à RIbeira de Pena, en utilisant les SIG,  puisqu'ils n'avaient jamais travaillé avec ce type de logiciel. Comme j'utilisais déjà Linux au lieu de Windows, mon premier problème fut de trouver quel logiciel utiliser. Après, j'ai entendu parler de QGIS et j'ai décidé de faire un essai, malgré qu'il me semblait très simpliste et incomplet quand je le comparait à ceux que je connaissais déjà. J'ai vite réalisé à quel point je m'étais trompé, et je fus vraiment enthousiaste aux vues des capacités analytique de QGIS, spécialement avec l’intégration de GRASS"
+msgstr "En attendant, je suis entrée dans le nouveau monde de Linux. Après ça, j'ai été contactée pour aidé des chercheurs à modéliser les corridors écologiques des loups à RIbeira de Pena, en utilisant les SIG,  puisqu'ils n'avaient jamais travaillé avec ce type de logiciel. Comme j'utilisais déjà Linux au lieu de Windows, mon premier problème fut de trouver quel logiciel utiliser. Après, j'ai entendu parler de QGIS et j'ai décidé de faire un essai, malgré qu'il me semblait très simpliste et incomplet quand je le comparais à ceux que je connaissais déjà. J'ai vite réalisé à quel point je m'étais trompée, et je fus vraiment enthousiaste aux vues des capacités analytiques de QGIS, spécialement avec l’intégration de GRASS"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:21
 msgid ""
@@ -93,13 +94,13 @@ msgid ""
 "like small villages, cities and roads. These areas must be considered "
 "critical for wolf conservation, and applied measures to reduce human impact "
 "in this species."
-msgstr ""
+msgstr "Pour modéliser les corridors écologiques, nous avons utilisé QGIS avec le plugin GRASS. Nous avons utilisé plusieurs informations géographiques avec les données de présence de l'espèce pour modéliser les corridors écologiques. Voici quelques-unes des fonctions des deux QGIS et GRASS utilisés dans ce cas, pour n'en nommer que quelques-uns: * Interpolation du plugin dans QGIS: créer un modèle numérique d'élévation * de r.watershed dans GRASS: pour créer des flux d'eau de DEM * r. grow.distance dans GRASS: génère un calque de carte raster de distance des objets dans la couche d'entrée * de r.reclass dans GRASS: de reclasser les couches cartographiques * r.slope.aspect.slope dans GRASS: pour calculer la pente de la DEM * r. mapcalculator dans GRASS: pour calculer une certaine carte algèbre simple * r.cost.coord dans GRASS: crée une carte raster montrant le coût cumulatif de se déplacer entre différents lieux géographiques sur une carte raster d'entrée dont les valeurs de catégories cellule représenter coût * r.drain dans GRASS : Traces d'un flux à travers un modèle d'élévation sur une carte matricielle - celle qui est utilisée pour créer des couloirs de ce travail nous avons obtenu une carte avec les corridors écologiques potentiels de loup à Ribeira de Pena. Ce sont des zones qui seront examinées par les techniciens du conseil municipal lors de la planification des mesures de conservation de l'espèce. Ces corridors sont d'une extrême importance, car ils peuvent relier les fragiles meutes de loups à Vila Real, dans le sud avec ceux du nord, qui sont en continuité avec ceux de Peneda-Gerês en Espagne de manière beaucoup plus stable. Il est particulièrement important de savoir que ces corridors traversent les établissements humains, comme les petits villages, les villes et les routes. Ces zones doivent être considérées comme essentielles pour la conservation des loups et des mesures appliquées pour réduire l'impact humain de cette espèce."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:38
 msgid ""
 "Ecological corridors and critical conservation areas for wolves in northern "
 "Portugal."
-msgstr ""
+msgstr "Les corridors écologiques et les zones de conservation critiques pour les loups dans le nord du Portugal."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:41
 msgid "Conclusion"
@@ -114,7 +115,7 @@ msgid ""
 "source software, usable in every computer or notebook without licenses, "
 "constant upgrades and the ultimate advantage to contribute to it's "
 "improvement and/or tip the developers about some essential function."
-msgstr ""
+msgstr "QGIS et le plugin GRASS sont très intuitifs et ont une interface conviviale, avec toutes les fonctions essentielles pour effectuer la plupart des analyses. Pour ce que j'ai pu voir, QGIS et GRASS s'utilisent tout aussi bien que sur les programmes propriétaires dont j'étais plus familier depuis longtemps, avec le gros avantage du logiciel libre open-source, utilisable dans n'importe quel ordinateur portable ou sans licences, avec des mises à jour régulières et l'avantage ultime de contribuer à son amélioration et / ou d'informer les développeurs sur une fonction essentielle."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:45
 msgid ""
@@ -122,7 +123,7 @@ msgid ""
 "although there can be some missing issues, easily resolved in the future "
 "with the developers, I don't regret my decision and advise everyone to use "
 "them."
-msgstr ""
+msgstr "Le passage à Linux et ensuite à QGIS et GRASS a été l'une de mes meilleures exigences, et bien qu'il puisse y avoir quelques problèmes ou fonctionnalités manquantes, elles seront facilement résolus dans l'avenir avec les développeurs, Je ne regrette pas ma décision et conseille à tous de les utiliser."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:48
 msgid "Author"
@@ -133,4 +134,4 @@ msgid ""
 "This article was contributed in July 2012 by Monica Almeida. She is "
 "conservation biologist working in an non-governmental organization in the "
 "preservation of wolf in Portugal."
-msgstr ""
+msgstr "Cet article a été rédigé en Juillet 2012 par Monica Almeida. Elle est biologiste de la conservation et travaille dans une organisation non gouvernementale pour la préservation du loup au Portugal."
