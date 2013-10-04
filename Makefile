@@ -102,10 +102,6 @@ localizeresources: clean
 pulldocsources:
 	scripts/pulldocsources.sh $(LANGUAGES)
 
-pretranslate: gettext
-	@echo "Generating the pot files for the QGIS-Website project (NOT including the docs)"
-	$(SPHINXINTL) update -p i18n/pot -c $(SOURCEDIR)/conf.py -l $(LANG)
-
 html: localizeresources
 	$(SPHINXINTL) build -l $(LANG) -c $(SOURCEDIR)/conf.py
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
@@ -129,12 +125,16 @@ all: pulldocsources
 		rm -rf live/html/$$LANG.old; \
 	done
 
-createlang:
+createlang: springclean
 	@echo Creating a new Language: $(LANG)
 	mkdir -p i18n/${LANG}
 	mkdir -p resources/${LANG}
-	cp resources/de/README resources/${LANG}
-	cp i18n/de/README i18n/${LANG}
+	cp resources/en/README resources/${LANG}
+	cp i18n/en/README i18n/${LANG}a
+
+pretranslate: gettext
+	@echo "Generating the pot files for the QGIS-Website project (NOT including the docs)"
+	$(SPHINXINTL) update -p i18n/pot -c $(SOURCEDIR)/conf.py -l $(LANG)
 
 gettext:
 	# something in i18n/pot dir creates havoc when using gettext: remove it
