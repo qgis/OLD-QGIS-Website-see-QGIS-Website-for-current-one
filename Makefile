@@ -120,7 +120,7 @@ all: pulldocsources
 	# after build quickly rename old live dir, mv output to live dir and then remove old dir
 	@for LANG in $(LANGUAGES) ; do \
 		make LANG=$$LANG fullhtml; \
-		mkdir -p live/html; \
+		mkdir -p live/html/$$LANG; \
 		mv live/html/$$LANG live/html/$$LANG.old; \
 		mv output/html/$$LANG live/html/; \
 		rm -rf live/html/$$LANG.old; \
