@@ -1,12 +1,13 @@
 # 
 # Translators:
+# jonny_forest <joao.f.r.gaspar@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-21 20:36+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2013-09-28 10:43+0000\n"
+"Last-Translator: jonny_forest <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,11 +17,11 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:4
 msgid "QGIS in the governmental FOSSGIS stack"
-msgstr ""
+msgstr "QGIS no conjunto de FOSSGIS governamentais"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:6
 msgid "of the Canton of Solothurn in Switzerland"
-msgstr ""
+msgstr "do Cantão de Solothurn na Suíça"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:13
 msgid ""
@@ -37,59 +38,59 @@ msgid ""
 "introduction was very successful, but an easy to use desktop GIS was "
 "lacking. After an evaluation of different Desktop GIS we decided to use QGIS"
 " in conjunction with GRASS, replacing ESRI ArcInfo and ArcView3 in the 2006."
-msgstr ""
+msgstr "O Cantão de Solothurn fornece serviços e infraestrutura a 250,000 cidadãos. No ano de 2001 o Estado Parlamentar decidiu migrar do Windows para Linux. As motivações foram a independência de um vendedor particular, e encorajar a iniciativa livra e reduzir custos de licenças. Como resultado o desenvolvimento do departamento SO!GIS no Cantão do Solothurn começou a entregar requirimentos SIG a mais de 3500 empregados com a estratégia  FOSSGIS. O primeiro passo que tomámos foi a introdução do UMN MapServer e a criação do SO!MAP cliente que oferece uma forma fácil de usar um WebSIG cliente para mais de 3500 empregados. O segundo passo foi a migração de toda a informação geoespacial das shapefiles para um motor de base de dados espacial PostGIS. A introdução foi muito bem sucedida, mas faltava um desktop SIG fácil de usar. Depois de uma avaliação de diferentes desktop SIG nós decidimos usar o QGIS em conjunto com o GRASS, substituindo o ESRI ArcInfo e o ArcView3 em 2006."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:17
 msgid "The decision was driven by the following aspects:"
-msgstr ""
+msgstr "A decisão foi conduzida pelos seguintes aspectos:"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:19
 msgid ""
 "Due to our use of desktop GIS in a Linux Terminal Server environment, Java "
 "wasn't an option."
-msgstr ""
+msgstr "Devido ao nosso uso de SIG desktop num ambiente de servidor com Terminal Linux, o Java não é opção."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:20
 msgid "OSGeo Project-Organisation"
-msgstr ""
+msgstr "Organização do Projecto OSGeo"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:21
 msgid "GUI translated in German language"
-msgstr ""
+msgstr "Tradução do GUI em língua alemã"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:22
 msgid "Documentation written in German language"
-msgstr ""
+msgstr "Documentação escrita em língua alemã"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:23
 msgid "An Active developer (Marco Hugentobler) near Solothurn in Switzerland."
-msgstr ""
+msgstr "Um programador activo (Marco Hugentobler) perto de Solothurn na Suíça."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:24
 msgid ""
 "We could contract Marco Hugentobler to implement missing / lacking features "
 "like Digitizing and Mapcomposing."
-msgstr ""
+msgstr "Nós podemos contratar o  Marco Hugentobler para implementar elementos perdidos /em falta como a Digitalização e a composição de mapas."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:25
 msgid "Application and Plugin developement with Python"
-msgstr ""
+msgstr "Desenvolvimento da Aplicação e Módulo em Python"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:26
 msgid "Growing user community"
-msgstr ""
+msgstr "Crescente comunidade de utilizadores"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:27
 msgid "Very active developer community"
-msgstr ""
+msgstr "Comunidade de programadores muito activa"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:28
 msgid "Independence from a single operating system"
-msgstr ""
+msgstr "Independência de um único sistema operativo"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:31
 msgid "Where do we use QGIS"
-msgstr ""
+msgstr "Onde usamos o QGIS"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:33
 msgid ""
@@ -106,11 +107,11 @@ msgid ""
 " called 'SO!DATA'. SO!DATA contains a human readable inventory of the data "
 "models and the non-GIS-Expert user is able to use this database to discover "
 "the information they need."
-msgstr ""
+msgstr "Em contraste com os mapas interactivos do UMN MapServer, o desktop SIG oferece uma vista flexível sobre a informação geoespacial de Solothurn. O Desktop SIG QGIS está em uso em mais de 50 utilizadores para o seu trabalho diário. Mas muito deles não são especialistas SIG. Eles querem visualizar e/ou capturar informação geoespacial com uma interface de utilizador intuitiva. Um problema importante no SIG Desktop é a seguinte questão: \"Como obtenho a informação do repositório geoespacial PostGIS que preciso?\". Uma vez que os nossos utilizadores finais não estão familiarizados com os modelos de dados e não compreendem as estruturas das bases de dados espaciais, oferecer aos utilizadores uma ligação bruta à PostGIS DB não é opção. Temos uma base de dados de metadados que armazena as descrições de toda a produção de informação que se chama 'SO!DATA!'. SO!DATA! contém um inventário humanamente legível para os modelos de dados e dos utilizadores não espcialistas em SIG que é capaz de usar esta base de dado para descobrir a informação que necessitam."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:42
 msgid "\"SO!GIS Layer\" plugin developed at the Canton of Solothurn"
-msgstr ""
+msgstr "Módulo \"SO!GIS Layer\" desenvolvida no Cantão de Solothurn"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:44
 msgid ""
@@ -122,11 +123,11 @@ msgid ""
 "find the data layers they need. With this infrastructure in place, our users"
 " are happy - they can prepare for geoprocessing, editing and map composing "
 "in an individual way."
-msgstr ""
+msgstr "Para remover a necessidade de os utilizadores finais interagirem directamente com as conexões e diálogos de tabelas de selecção do PostGIS, um módulo foi desenvolvido em python. O módulo chama-se \"SO!GIS Layer\" (Ver Figura 1). O módulo liga-se ao repositório SO!GIS PostGIS, adquire a informação de todas as informações publicadas das camadas geoespaciais do SO!DATA e oferece ao utilizador um GUI para encontrar as camadas de informação que precisa. Com esta infraestrutura no sítio, os nossos utilizadores estão contentes - eles podem preparar-se para geoprocessamento, edição e produção de mapas numa forma individual."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:52
 msgid "\"SO!GIS Suche\" plugin developed at the Canton of Solothurn"
-msgstr ""
+msgstr "Módulo \"SO!GIS Suche\" desenvolvido no Cantão de Solothurn"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:54
 msgid ""
@@ -138,11 +139,11 @@ msgid ""
 "analysis or mapping for different projects. Our in-development plugins cover"
 " topics  such as nature reserves, soil conservation, cadastral data "
 "verification, crisis management, abandoned sites and so on."
-msgstr ""
+msgstr "Outro requisito do módulo QGIS que criámos e chama-se 'SO!GIS Suche'. Este fornece a possibilidade de procurar por localizações como municípios, endereços ou parcelas cadastrais (ver Figura 2). Como resultado o utilizador é capaz de navegar facilmente para uma área de interesse. Até ao momento outros módulos estão em desenvolvimento. Este irá suportar a manipulação de dados, análises, ou mapeamento em diferentes projectos. Os nossos módulos em desenvolvimento abrangem temas como reservas naturais, conservação do solo, verificação de dados cadastrais, gestão de crises, locais abandonados e assim por diante."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:58
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusão"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:60
 msgid ""
@@ -158,19 +159,19 @@ msgid ""
 "support into the black box of our former software provider. Apart from using"
 " FOSSGIS, the Canton of Solothurn also provides public geodata free of "
 "charge via the SO!ONLINE web portal."
-msgstr ""
+msgstr "Hoje podemos dizer que usar o QGIS foi a decisão correcta para nós. O QGIS oferece a maioria dos recursos solicitados pelos nossos utilizadores. O cantão de Solothurn subcontrata a criação de funcionalidades que QGIS carece através de fornecedores com suporte comercial. Com p PyQgis e o PyQt existem excelentes opções para facilitar o desenvolvimento de aplicações in-house baseado no QGIS. Um grande benefício é o número ilimitado de instalações. Todos os que precisam usar o QGIS podem usá-lo sem quaisquer limitações. Para impulsionar o desenvolvimento do QGIS o cantão de Solothurn investiu aproximadamente $ 30.000 no QGIS todos os anos desde 2007. Isto é muito mais eficiente e orientado para objectivos que o pagamento do apoio numa caixa negra do nosso ex-fornecedor de software. Além de usar FOSSGIS, o cantão de Solothurn também fornece dados geográficos público gratuitamente através do Portal web SO!ONLINE."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:63
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:70
 msgid "Horst Düster"
-msgstr ""
+msgstr "Horst Düster"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:72
 msgid ""
 "This article was contributed in May 2009 by Dr. Horst Düster. He is GIS "
 "coordinator at the Department of Geoinformation in the Canton of Solothurn, "
 "Switzerland."
-msgstr ""
+msgstr "Este artigo foi contribuído em Maio de 2009 pelo Dr. Horst Düster. Ele é coordenador SIG no Departamento de Geoinformação no Cantão de Solothurn, Suíça."

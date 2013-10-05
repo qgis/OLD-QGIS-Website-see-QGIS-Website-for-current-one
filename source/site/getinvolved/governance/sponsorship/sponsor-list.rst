@@ -14,7 +14,7 @@ Current and Past Sponsors of the QGIS Project
    * - Logo
      - Type
      - Notes
-   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/aas.png 
+   * -  .. figure:: /static/site/getinvolved/governance/sponsorship/aas.png
            :width: 6 cm
            :alt: Asia Air Survey
      - **Gold**

@@ -1,16 +1,18 @@
-#
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 2.0\n"
+"Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-13 12:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2013-09-17 08:12\n"
+"PO-Revision-Date: 2013-09-17 15:02+0000\n"
+"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"Language-Team: Japanese (http://www.transifex.com/projects/p/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Language: ja_JP\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/site/about/features.rst:2
 msgid "Features of QGIS"
@@ -19,10 +21,6 @@ msgstr "QGISの特徴"
 #: ../../source/site/about/features.rst:5
 msgid "QGIS Desktop"
 msgstr "QGISデスクトップ"
-
-#: ../../source/site/about/features.rst:31
-msgid "QGIS Server"
-msgstr "QGISサーバ"
 
 #: ../../source/site/about/features.rst:7
 msgid "Create, edit, visualise, analyse and publish geospatial information."
@@ -52,13 +50,16 @@ msgstr "あなたのデータをあるデータストアから別のデータス
 msgid "A screenshot of QGIS Browser"
 msgstr "QGISブラウザのスクリーンショット"
 
+#: ../../source/site/about/features.rst:31
+msgid "QGIS Server"
+msgstr "QGISサーバ"
+
 #: ../../source/site/about/features.rst:33
 msgid ""
 "Publish your QGIS projects and layers as OGC compatible WMS and WFS "
 "services. Control which layers, attributes, layouts and coordinate systems "
 "are exported."
-msgstr ""
-"あなたのQGISプロジェクトとレイヤをOGC互換のWMSやWFSサービスとして公開しましょう.どのレイヤ、属性、レイアウト、座標系を使うかはコントロールできます."
+msgstr "あなたのQGISプロジェクトとレイヤをOGC互換のWMSやWFSサービスとして公開しましょう.どのレイヤ、属性、レイアウト、座標系を使うかはコントロールできます."
 
 #: ../../source/site/about/features.rst:40
 msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
@@ -72,8 +73,7 @@ msgstr "QGIS Webクライアント"
 msgid ""
 "Publish your QGIS projects on the web with ease. Benefit from the powerful "
 "symbology, labeling and blending features to impress with your maps."
-msgstr ""
-"あなたのQGISプロジェクトを簡単にWEBに公開できます.強力なシンボロジーやラべリング、地物の混合であなたの地図の表現力向上に役に立ちます."
+msgstr "あなたのQGISプロジェクトを簡単にWEBに公開できます.強力なシンボロジーやラべリング、地物の混合であなたの地図の表現力向上に役に立ちます."
 
 #: ../../source/site/about/features.rst:52
 msgid "A screenshot of QGIS Web Client"
@@ -92,9 +92,3 @@ msgstr "AndroidデバイスでQGISを動作させることもできます.カレ
 #: ../../source/site/about/features.rst:64
 msgid "A screenshot of QGIS on Android"
 msgstr "Android版QGISのスクリーンショット"
-
-#~ msgid "QGIS Brower"
-#~ msgstr "QGISブラウザ"
-
-#~ msgid "QGIS Client"
-#~ msgstr "QGISクライアント"

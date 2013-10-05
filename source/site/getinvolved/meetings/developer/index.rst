@@ -9,6 +9,7 @@ Contents:
 
    Brighton_2013
    Valmiera_2013
+   Lyon_2012
    Essen_2012
    Zurich_2011
    Lisbon_2011

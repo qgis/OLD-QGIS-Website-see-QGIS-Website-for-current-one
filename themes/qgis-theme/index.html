@@ -56,7 +56,7 @@
                         <div class="carousel-caption">
                             <h5 class="caption-headline">{{ _('Print') }}</h5>
                             <p class="caption-text">
-                                {{ _('QGIS 2 Print Composer has received a major face-lift ...') }} <a class="caption-link" href="../docs/user_manual/whats_new/whats_new.html#map-composer" target="_blank">{{ _('check out the new features') }}</a>
+                                {{ _('QGIS 2 Print Composer has received a major face-lift ...') }} <a class="caption-link" href="../docs/user_manual/preamble/whats_new.html#map-composer" target="_blank">{{ _('check out the new features') }}</a>
                             </p>
                         </div>
                     </div>
@@ -86,22 +86,8 @@
             <p class="muted">{{ _('Version 2.0 Dufour') }}</p>
         </div>
         <div class="span5">
-            <div>
-                <h5>Support QGIS!</h5>
-                    <div class="bannergroup">
-                        <div class="bannerheader">
-                            <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                            <input type="hidden" name="cmd" value="_s-xclick">
-                            <input type="hidden" name="hosted_button_id" value="27GAYFKF4U5EE">
-                            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
-                                border="0" name="submit" alt="Donate via PayPal.com">
-                            <input type="hidden" name="lc" value="us">
-                            <img alt="" border="0" align="center" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                            <!--<a href="http://www.qgis.org/en/sponsorship.html"><div style="margin-left:7px">more information</div></a>-->
-                            </form>
-                        </div>
-                    </div>
-            </div>
+            <p><a href="{{ pathto('site/getinvolved/donations') }}" class="btn btn-large btn-success btn-flat">{{ _('Support QGIS') }}</a></p>
+            <p class="muted">{{ _('Donate now!') }}</p>        
         </div>
     </div>
 </section>
@@ -164,7 +150,7 @@
             <div class="span6">
                 <a href="{{ pathto('site/about/screenshots') }}">
                     <div class="info-box">
-                        <img src="../_static/images/qgis-gallery.png" alt="QGIS Gallery">
+                        <img src="../_static/images/qgis-gallery.png" alt="{{ _('Gallery') }}">
                         <h4>{{ _('Gallery') }}</h4>
                         <p>
                             {{ _('Check out images and videos of interesting maps and projects from the Global QGIS Community.') }}
@@ -175,7 +161,7 @@
             <div class="span6">
                 <a href="http://planet.qgis.org" target="_blank">
                     <div class="info-box">
-                        <img src="../_static/images/planet-qgis.png" alt="Planet QGIS">
+                        <img src="../_static/images/planet-qgis.png" alt="{{ _('Planet QGIS') }}">
                         <h4>{{ _('Planet QGIS') }}</h4>
                         <p>
                             {{ _('Read the latest blog posts about QGIS and its users from around the web.') }}

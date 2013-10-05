@@ -9,7 +9,7 @@ Project Steering Commitee
 -------------------------
 
 The QGIS project is managed by the Project Steering Committee (PSC) which
-consists of 5 members (with their individual responsibilities listed in
+consists of 8 members (with their individual responsibilities listed in
 brackets):
 
 * Gary Sherman (Chair)
@@ -18,7 +18,7 @@ brackets):
 * Otto Dassau (Community Advisor)
 * Paolo Cavallini (Financial and Marketing Advisor)
 * Anita Graser (Design Advisor)
-* Richard Duivenvoord (Infrastructure Manager)
+* Richard Duivenvoorde (Infrastructure Manager)
 * Jürgen Fischer (Release Manager)
 
 Read more about the responsibilities of the PSC :ref:`here <psc>`
@@ -182,6 +182,6 @@ submitting patches and suggestions.
 The number of Contributors to the project is unbounded. Get involved today.
 All contributions to the project are greatly appreciated.
 
-This `individuals <https://github.com/qgis/Quantum-GIS/graphs/contributors>`_ 
+This `individuals <https://github.com/qgis/QGIS/graphs/contributors>`_
 are recognised as Project Committers and have full commit access to the
-`github repository <https://github.com/qgis/Quantum-GIS>`_.
+`github repository <https://github.com/qgis/QGIS>`_.

@@ -11,7 +11,7 @@
 
 QGIS_DOC_DIR='QGIS-Documentation'
 QGIS_DOC_BRANCH='master'
-LANGUAGES='en de'
+LANGUAGES=`ls i18n`
 
 if [ $1 ]; then
   LANGUAGES="$@"
@@ -31,20 +31,18 @@ cd $QGIS_DOC_DIR
 git checkout $QGIS_DOC_BRANCH
 # pull latest
 git pull
-
 cd ../..
 # copy documentation conf.py as docs_conf.py into the sources dir
 cp ext/$QGIS_DOC_DIR/source/conf.py source/docs_conf.py
-
+# copy sources of documentation into website source tree
+echo "Copying sources from documentation into website source tree"
+# we do NOT want the index.rst and index.po from the docs to override 
+# those from website that is why we doe /*/ (we skip files in docs root)
+cp -r ext/$QGIS_DOC_DIR/source/docs/*/ source/docs
 
 for LANG in ${LANGUAGES}
 do
-    # copy sources of documentation into website source tree
-    echo "Copying sources for '${LANG}' into website source tree"
-    # we do NOT want the index.rst and index.po from the docs to override 
-    # those from website that is why we doe /*/ (we skip files in docs root)
-    cp -r ext/$QGIS_DOC_DIR/source/docs/*/ source/docs
-    echo "Copying resources/images and translations for '${LANG}' into website source tree"
+    echo "Copying resources(images) and translations for '${LANG}' into website source tree"
     cp -r ext/$QGIS_DOC_DIR/resources/${LANG}/docs resources/${LANG}
     mkdir -p i18n/${LANG}/LC_MESSAGES/docs
     cp -r ext/$QGIS_DOC_DIR/i18n/${LANG}/LC_MESSAGES/docs/*/ i18n/${LANG}/LC_MESSAGES/docs

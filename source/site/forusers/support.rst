@@ -46,4 +46,4 @@ All issues can be browsed here: http://hub.qgis.org/projects/quantum-gis/issues
 Commercial Support
 ------------------
 
-You can also get support from commpanies near you, please visit this page: :ref:`QGIS-commercial_support`.
+You can also get support from companies near you, please visit this page: :ref:`QGIS-commercial_support`.

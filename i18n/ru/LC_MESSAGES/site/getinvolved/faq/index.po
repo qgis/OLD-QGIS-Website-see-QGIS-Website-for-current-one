@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-18 09:46+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2013-09-30 16:56+0000\n"
+"Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,21 +20,17 @@ msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:5
 msgid "Here we collect answers to question which come up very often."
-msgstr ""
+msgstr "Здесь собраны ответы на часто задаваемые вопросы."
 
 #: ../../source/site/getinvolved/faq/index.rst:7
 msgid ""
 "We will start of with this one page, maybe restructure it into sections, or "
 "even more pages if needed"
-msgstr ""
+msgstr "Пока всё будет на одной странице, возможно, в дальнейшем она будет разбита на разделы или даже превратится в несколько страниц."
 
 #: ../../source/site/getinvolved/faq/index.rst:12
 msgid "User"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:18
-msgid "Why is QGIS 2.0 named 'Dufour'"
-msgstr ""
+msgstr "Пользователю"
 
 #: ../../source/site/getinvolved/faq/index.rst:20
 msgid ""
@@ -47,69 +43,82 @@ msgid ""
 ".pixelkarte-farbe&layers=ch.swisstopo.hiks-"
 "dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_"
 " in Switzerland."
-msgstr ""
+msgstr "После успешной встречи разработчиков в Цюрихе (Швейцария), мы решили, что следующий выпуск должен иметь связанное с ним имя. `Генерал Гийом-Анри Дюрфур <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_ был известным и влиятельным швейцарским топографом. Кроме того Dufourspitze является `высочайшей вершиной <http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.hiks-dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_ Швейцарии."
 
 #: ../../source/site/getinvolved/faq/index.rst:28
 msgid "QGIS error on your machine. How to ask a question?"
-msgstr ""
+msgstr "При использовании QGIS возникает ошибка. Как задать вопрос?"
 
 #: ../../source/site/getinvolved/faq/index.rst:30
 msgid "Please provide the following information:"
-msgstr ""
+msgstr "Пожалуйста, предоставьте следующую информацию:"
 
 #: ../../source/site/getinvolved/faq/index.rst:32
 msgid "preferably a descriptive title for your email"
-msgstr ""
+msgstr "письмо должно иметь содержательную тему"
 
 #: ../../source/site/getinvolved/faq/index.rst:33
 msgid "which Operating System and version"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:34
-msgid "which QGIS version (exact)"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:35
-msgid "how you installed it (osgeo4w? msi-installer? own build?)"
-msgstr ""
+msgstr "укажите используемую операционную систему и её версию"
 
 #: ../../source/site/getinvolved/faq/index.rst:36
 msgid ""
 "at what time did it break (reinstall, new install, system update, project??)"
-msgstr ""
+msgstr "в какой момент возникает ошибка (переустановка, установка, обновление, работа с проектом??)"
 
 #: ../../source/site/getinvolved/faq/index.rst:37
 msgid ""
 "what exactly is the error (not sure in the above if you mean that \"python "
 "error' is the error, or you mean there is a python error which you did not "
 "write in you email"
-msgstr ""
+msgstr "какая именно ошибка возникает (не понятно, «python error» это ошибка которая возникает или вы имели в виду, что возникает ошибка при выполнении кода Python, текст которой вы в своем письме не привели)"
 
 #: ../../source/site/getinvolved/faq/index.rst:39
 msgid ""
 "Without this info, it is very hard to answer for anybody. Or, taking just "
 "too much time because the answer will be a question to you etc etc."
-msgstr ""
+msgstr "Без этой информации помочь очень трудно. Или же это займет очень много времени, т.к. ответом на ваш вопрос будет вопрос и т.д и т.п."
 
 #: ../../source/site/getinvolved/faq/index.rst:43
 msgid "Development"
-msgstr ""
+msgstr "Разработчику"
 
 #: ../../source/site/getinvolved/faq/index.rst:46
 msgid "Can I compile QGIS myself on Windows?"
-msgstr ""
+msgstr "Могу ли я самостоятельно собрать QGIS для Windows?"
 
 #: ../../source/site/getinvolved/faq/index.rst:48
 #: ../../source/site/getinvolved/faq/index.rst:54
 #: ../../source/site/getinvolved/faq/index.rst:60
 msgid ""
 "Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
-msgstr ""
+msgstr "Да. Пожалуйста, ознакомьтесь с: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 
 #: ../../source/site/getinvolved/faq/index.rst:52
 msgid "Can I compile QGIS myself on MacOS?"
-msgstr ""
+msgstr "Могу ли я самостоятельно собрать QGIS для MacOS?"
 
 #: ../../source/site/getinvolved/faq/index.rst:58
 msgid "Can I compile QGIS myself on Linux?"
-msgstr ""
+msgstr "Могу ли я самостоятельно собрать QGIS для Linux?"
+
+#: ../../source/site/getinvolved/faq/index.rst:18
+msgid "Why is QGIS 2.0 named 'Dufour'?"
+msgstr "Почему QGIS 2.0 названа «Dufour»?"
+
+#: ../../source/site/getinvolved/faq/index.rst:34
+msgid "which QGIS version you used at that moment (exact)"
+msgstr "какую версию QGIS вы используете (точный ответ)"
+
+#: ../../source/site/getinvolved/faq/index.rst:35
+msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
+msgstr "каким образом она была установлена (OSGeo4W? автономный установщик? собственная сборка?)"
+
+#~ msgid "Why is QGIS 2.0 named 'Dufour'"
+#~ msgstr ""
+
+#~ msgid "which QGIS version (exact)"
+#~ msgstr ""
+
+#~ msgid "how you installed it (osgeo4w? msi-installer? own build?)"
+#~ msgstr ""

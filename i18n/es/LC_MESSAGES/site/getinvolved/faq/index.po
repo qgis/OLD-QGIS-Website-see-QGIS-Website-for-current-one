@@ -1,11 +1,12 @@
 # 
 # Translators:
+# drgalindog <drgalindog@linuxmail.org>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-17 14:50+0000\n"
+"PO-Revision-Date: 2013-09-23 13:08+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -16,11 +17,11 @@ msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:3
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: ../../source/site/getinvolved/faq/index.rst:5
 msgid "Here we collect answers to question which come up very often."
-msgstr ""
+msgstr "Aquí recopilamos las respuestas a las preguntas más frecuentes."
 
 #: ../../source/site/getinvolved/faq/index.rst:7
 msgid ""
@@ -30,11 +31,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:12
 msgid "User"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:18
-msgid "Why is QGIS 2.0 named 'Dufour'"
-msgstr ""
+msgstr "Usuario"
 
 #: ../../source/site/getinvolved/faq/index.rst:20
 msgid ""
@@ -55,23 +52,15 @@ msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:30
 msgid "Please provide the following information:"
-msgstr ""
+msgstr "Por favor suministra la siguiente información:"
 
 #: ../../source/site/getinvolved/faq/index.rst:32
 msgid "preferably a descriptive title for your email"
-msgstr ""
+msgstr "preferiblemente un título descriptivo para tu e-mail"
 
 #: ../../source/site/getinvolved/faq/index.rst:33
 msgid "which Operating System and version"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:34
-msgid "which QGIS version (exact)"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:35
-msgid "how you installed it (osgeo4w? msi-installer? own build?)"
-msgstr ""
+msgstr "que Sistema Operativo y Versión"
 
 #: ../../source/site/getinvolved/faq/index.rst:36
 msgid ""
@@ -93,23 +82,44 @@ msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:43
 msgid "Development"
-msgstr ""
+msgstr "Desarrollo"
 
 #: ../../source/site/getinvolved/faq/index.rst:46
 msgid "Can I compile QGIS myself on Windows?"
-msgstr ""
+msgstr "¿Puedo compilar yo mismo QGIS en Windows?"
 
 #: ../../source/site/getinvolved/faq/index.rst:48
 #: ../../source/site/getinvolved/faq/index.rst:54
 #: ../../source/site/getinvolved/faq/index.rst:60
 msgid ""
 "Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
-msgstr ""
+msgstr "Sí, por favor lee: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 
 #: ../../source/site/getinvolved/faq/index.rst:52
 msgid "Can I compile QGIS myself on MacOS?"
-msgstr ""
+msgstr "¿Puedo compilar yo mismo QGIS en MacOS?"
 
 #: ../../source/site/getinvolved/faq/index.rst:58
 msgid "Can I compile QGIS myself on Linux?"
+msgstr "¿Puedo compilar yo mismo QGIS en Linux?"
+
+#: ../../source/site/getinvolved/faq/index.rst:18
+msgid "Why is QGIS 2.0 named 'Dufour'?"
 msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:34
+msgid "which QGIS version you used at that moment (exact)"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:35
+msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
+msgstr ""
+
+#~ msgid "Why is QGIS 2.0 named 'Dufour'"
+#~ msgstr ""
+
+#~ msgid "which QGIS version (exact)"
+#~ msgstr ""
+
+#~ msgid "how you installed it (osgeo4w? msi-installer? own build?)"
+#~ msgstr ""

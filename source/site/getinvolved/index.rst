@@ -12,6 +12,7 @@ Get Involved / Development
     QGIS Infrastructure <infrastructure>
     governance/index
     development/index
+    meetings/index
     faq/index
 
 .. note::

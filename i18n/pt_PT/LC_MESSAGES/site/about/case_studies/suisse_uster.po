@@ -1,12 +1,13 @@
 # 
 # Translators:
+# jonny_forest <joao.f.r.gaspar@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-21 20:36+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2013-09-27 10:44+0000\n"
+"Last-Translator: jonny_forest <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:3
 msgid "The use of QGIS in the Geodata Infrastructure of the City of Uster"
-msgstr ""
+msgstr "O uso do QGIS na Infraestrutra de Geoinformação na Cidade de Uster"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:5
 msgid ""
@@ -27,7 +28,7 @@ msgid ""
 "new features and by financially supporting the development. In return Uster "
 "receives a rapidly evolving and platform independent Desktop GIS and WebGIS "
 "solution backed by a worldwide user and development community."
-msgstr ""
+msgstr "A cidade de Uster tem vindo a usar o QGIS desde 2007. Encorajados pela decisão do Cantão de Solothurn em usar o QGIS como um substituto SIG Desktop para ArcView, a cidade de Uster decidiu também dar-lhe uma tentativa. A cidade juntou-se no esforço para o desenvolvimento do software QGIS, sugerindo e testando novos recursos e apoiando financeiramente o seu desenvolvimento. Em troca Uster recebe uma evolução rápida e independente de plataforma SIG Desktop e a solução WebSIG apoiado por uma comunidade de utilizador e desenvolvimento em todo o mundo."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
@@ -42,7 +43,7 @@ msgid ""
 "(University of Berne)) we coordinate and sponsor the improvements of these "
 "tools, along with some improvements in data driven symbolization, automated "
 "labeling, attribute handling and forms."
-msgstr ""
+msgstr "O Postgis/PostgreSQL é usado como um armazém central de geoinformação. Outras base de dados e fontes de dados são reproduzidos no PostgreSQL num intervalo regular, usando as ferramentas como o OGR r FME. No início o QGIS era apenas um visualizador. O primeiro utilizador QGIS foi um agricultor que tinha a tarefa de supervisionar as declarações feitas pelos agricultores locais para receberem os subsídios agrícolas. Mais tarde, o QGIS também introduziu um editor de informação e uma plataforma de publicação de mapas, juntamente com melhoramentos nas ferramentas de edição e no compositor de mapas. Juntos como outros utilizadores QGIS suíços (Solothurn, Thun e CDE (Universidade de Berne)) nós coordenámos e patrocinámos os melhoramentos para essas ferramentas, juntamente como algumas melhorias na informação orientada para a simbolização, rotulagem automática, manuseamento de atributos e formulários."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
@@ -52,7 +53,7 @@ msgid ""
 "electricity networks. However, these are expert systems in use by specially "
 "trained staff. All other GIS projects and the viewing of all data is handled"
 " by QGIS."
-msgstr ""
+msgstr "A administração da cidade também usa um software SIG comercial: Autodesk Topobase, para recolher e editar informação cadastral e de infraestrutra de desperdício de água, e GE Smallworld para a gestão de redes do gás, água e  electricidade. Contudo, estes são sistemas especialistas usados por pessoal especialmente formado. Todos os outros projectos de SIG e visualização de todos os dados é tratado pelo QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:21
 msgid ""
@@ -65,61 +66,61 @@ msgid ""
 "rich set of symbolization and labeling options and the consistent map "
 "rendering between the Desktop GIS application and the Web-GIS. The QGIS "
 "webclient can be tested and used at http://gis.uster.ch/"
-msgstr ""
+msgstr "No segundo semestre de 2010, os primeiros testes com o servidor do QGIS foram realizadas. Em 2011, introduziu-se um novo sistema WebSIG baseado no servidor WMS QGIS e GeoExt / OpenLayers como cliente web. As principais razões para a decisão de usar servidor do QGIS foi a considerável poupança de tempo possível graças reutilização das configurações existentes do projecto do QGIS desktop, em vez de de ter que gerir configurações de projecto Web paralelo. Outras vantagens são o seu rico conjunto de simbolização e as opções de rotulagem e consistência de renderização do mapa entre a aplicação SIG Desktop e do Web-SIG. O cliente web QGIS pode ser testado e utilizado em http://gis.uster.ch/"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:28
 msgid "Today, QGIS is used for the following GIS projects:"
-msgstr ""
+msgstr "Actualmente, o QGIS é usado para os seguintes projectos SIG:"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:30
 msgid ""
 "viewing of waste-water data, integration of additional databases and direct "
 "access to canal videos and inspection protocols"
-msgstr ""
+msgstr "visualização de informação de desperdício de água, integração de bases de dados adicionais e acesso directo a vídeos de canais e protocolos de inspecção"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:31
 msgid ""
 "viewing and editing for monitoring and the environmental and urban planning "
 "of the waste water and hydrology systems (german: Genereller "
 "Entwässerungsplan)"
-msgstr ""
+msgstr "visualização e edição para a monitorização do planeamento urbano e ambiental dos desperdícios de água e sistemas de hidrologia. (alemão:  Genereller Entwässerungsplan)"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:32
 msgid ""
 "viewing of underground cadastral data (waste water, water, gas and "
 "electricity networks, later also telecommunication) (german: "
 "Leitungskataster)"
-msgstr ""
+msgstr "visualização de dados cadastrais subterrâneos (desperdício de água, água, redes de electricidade e gás, e por fim telecomunicações) (alemão: Leitungskataster)"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:33
 msgid "viewing of cadastral and survey data"
-msgstr ""
+msgstr "visualização de dados cadastrais e levantamentos"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:34
 msgid ""
 "viewing and editing of the communal inventory of protected natural sites"
-msgstr ""
+msgstr "visualização e edição de inventários de baldios e sítios naturais de protecção"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:35
 msgid "viewing and editing of urban and regional planning data"
-msgstr ""
+msgstr "visualização e edição da informação do planeamento regional e urbano"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:36
 msgid "viewing and editing of road infrastructure data"
-msgstr ""
+msgstr "visualização e edição da informação da infraestrutura de rede viária"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:37
 msgid ""
 "viewing statistics generated directly from the database of current and past "
 "residents"
-msgstr ""
+msgstr "visualização de estatísticas geradas directamente da base de dados dos residentes actuais e do passado"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:39
 msgid ""
 "Planning and visualization for energy planning (gas supply regions, heat use"
 " from waste water, near-surface geothermal energy, block heating stations, "
 "etc.) Additional further projects are currently under development."
-msgstr ""
+msgstr "Planeamento e visualização do planeamento para a energia (regiões de fornecimento de gás, calor usado do desperdício de água, energia geotermal à superfície, estações de blocos de aquecimento, etc.) Projectos adicionais estão actualmente em desenvolvimento."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:47
 msgid ""
@@ -132,7 +133,7 @@ msgid ""
 "product management or sales team. The developers of these two companies are "
 "also lead developers of the QGIS project and have excellent knowledge of the"
 " code base."
-msgstr ""
+msgstr "Em 2007 não foi totalmente claro em que ritmo o QGIS seria desenvolvido e como a comunidade e o apoio comercial iriam evoluir. Hoje pode-se afirmar que a velocidade do desenvolvimento e as melhorias feitas pela comunidade QGIS superou as nossas expectativas. A comunidade e o suporte comercial das empresas Sourcepole e Norbit é excelente. Há uma comunicação directa com os programadores sem ser blindados pela gestão de produto ou equipa de vendas. Os programadores das duas empresas são também programadores líderes do projecto QGIS e têm um excelente conhecimento do código base."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:49
 msgid ""
@@ -145,18 +146,18 @@ msgid ""
 " having to deal with licensing management. We are looking forward to future "
 "collaboration with the QGIS community and our commercial supporters for the "
 "advancement of the QGIS project."
-msgstr ""
+msgstr "Os erros são muitas vezes fixados em horas ou dias após a notificação e as novos desenvolvimentos são implementados num curto espaço de tempo. As novas funcionalidades podem ser testados imediatamente após o desenvolvimento e distribuído para os utilizadores, sempre que a qualidade é boa e suficiente para o utilizador final. Não há necessidade de esperar por lançamentos oficiais de software. Nós apreciamos a liberdade de ser capaz de influenciar o projecto e instalar o software em quantos computadores que gostamos, sem ter que lidar com a gestão de licenciamento. Estamos a olhar para a frente para uma futura colaboração com a comunidade QGIS e os nossos apoiantes comerciais para o avanço do projecto QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:52
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:59
 msgid "Andreas Neumann"
-msgstr ""
+msgstr "Andreas Neumann"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:61
 msgid ""
 "This article was contributed in April 2011 by Dr. Andreas Neumann. He is GIS"
 " coordinator at the City of Uster, Switzerland."
-msgstr ""
+msgstr "Este artigo foi contribuído em Abril de 2011 pelo Dr. Andreas Neumann, Ele é coordenador SIG na Cidade de Uster, Suíça."

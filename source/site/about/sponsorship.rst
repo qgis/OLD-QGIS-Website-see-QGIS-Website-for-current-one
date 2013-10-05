@@ -188,6 +188,7 @@ bank account rather than PayPal.
 * Adam Lane
 * Adrian Cooke
 * Adrian Matter
+* Aileen Heal
 * Albin Blaschka
 * Alessandro Fanna
 * Alessandro Pasotti
@@ -270,6 +271,7 @@ bank account rather than PayPal.
 * Guenther Moeller
 * Guillaume Raspini
 * Håvard Gåseidnes
+* Heiko Schmüser
 * Heinrich Schweizer
 * Hiroshi Kawakami
 * Hiroto Okayama
@@ -306,6 +308,7 @@ bank account rather than PayPal.
 * Kenton Ngo
 * Kevin Hansen
 * Kevin Shook
+* Klaus Weddeling
 * Klaus Sterzenbach
 * Kristian Stadelmayr
 * Kurt Esko
@@ -319,6 +322,7 @@ bank account rather than PayPal.
 * Maciej Latek
 * Manfred Schön
 * Marc Monnerat
+* Marcel Van Dorst
 * Mark Siebel
 * Mark Douglas
 * Mark Hoschek
@@ -335,11 +339,13 @@ bank account rather than PayPal.
 * Mikhail Sivakov
 * Mikko Suonio
 * Mohamed Al Merri
+* Moshe Dr. Shirav
 * Murray Swanson
 * Nelson Silva
 * Niccolo Rigacci
 * Nikita Mozgunov
 * Nikolaos Alexandris
+* Nikolaos Christou
 * Nikolaou Konstantinos
 * Norman Trowell
 * Oliver Schonrock
@@ -371,6 +377,7 @@ bank account rather than PayPal.
 * Roberta Benetti
 * Russell Rew
 * Sake Wagenaar
+* Sebastian Cionoiu
 * Sergey Khokhlov
 * Shapesmart
 * Silvio Grosso
@@ -398,6 +405,7 @@ bank account rather than PayPal.
 * Wendelin Schmit
 * Werner Macho
 * William Levering
+* Yuan Harng Lee
 * Yves Jacolin
 * Zachary Patterson
 

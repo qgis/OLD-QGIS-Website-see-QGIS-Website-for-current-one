@@ -1,11 +1,12 @@
 # 
 # Translators:
+# parallax <vincent@stedema.nl>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-17 14:01+0000\n"
+"PO-Revision-Date: 2013-10-04 11:22+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Dutch <qgis-tr@lists.osgeo.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,41 +17,41 @@ msgstr ""
 
 #: ../../source/site/forusers/support.rst:2
 msgid "QGIS Support"
-msgstr ""
+msgstr "Ondersteuning voor QGIS"
 
 #: ../../source/site/forusers/support.rst:5
 msgid "Mailing Lists"
-msgstr ""
+msgstr "Mailinglijsten"
 
 #: ../../source/site/forusers/support.rst:7
 msgid ""
 "QGIS has a bunch of mailing lists. See :ref:`QGIS-mailinglists` for the "
 "different available lists."
-msgstr ""
+msgstr "Voor QGIS zijn er meerdere mailinglijsten. Kijk op :ref:`QGIS-mailinglists` voor de beschikbare lijsten."
 
 #: ../../source/site/forusers/support.rst:9
 msgid ""
 "If you are going to ask questions please read this: :ref:`how-to-ask-a-QGIS-"
 "question`."
-msgstr ""
+msgstr "Als je een vraag wilt gaan stellen, lees dan alsjeblieft dit: :ref:`how-to-ask-a-QGIS-question`."
 
 #: ../../source/site/forusers/support.rst:12
 msgid "Chat"
-msgstr ""
+msgstr "Chatten"
 
 #: ../../source/site/forusers/support.rst:14
 msgid "A lot of the development buzz will be spoken on IRC."
-msgstr ""
+msgstr "De ontwikkeling van QGIS wordt met name besproken op IRC."
 
 #: ../../source/site/forusers/support.rst:16
 msgid "There is a #qgis channel on freenode.net"
-msgstr ""
+msgstr "Er is een #qgis IRC-kanaal op freenode.net"
 
 #: ../../source/site/forusers/support.rst:18
 msgid ""
 "You can also use a web interface: "
 "http://webchat.freenode.net/?channels=#qgis"
-msgstr ""
+msgstr "Er is ook een web-versie beschikbaar: http://webchat.freenode.net/?channels=#qgis"
 
 #: ../../source/site/forusers/support.rst:20
 msgid "TODO: write something about the IRC ethiquette?"
@@ -58,19 +59,19 @@ msgstr ""
 
 #: ../../source/site/forusers/support.rst:24
 msgid "StackExchange"
-msgstr ""
+msgstr "StackExchange"
 
 #: ../../source/site/forusers/support.rst:26
 msgid "On http://gis.stackexchange.com you can ask QGIS questions also."
-msgstr ""
+msgstr "Ook op http://gis.stackexchange.com kun je vragen over QGIS stellen."
 
 #: ../../source/site/forusers/support.rst:29
 msgid "User Groups"
-msgstr ""
+msgstr "Gebruikersgroepen"
 
 #: ../../source/site/forusers/support.rst:31
 msgid "TODO"
-msgstr ""
+msgstr "TODO"
 
 #: ../../source/site/forusers/support.rst:35
 msgid "Issue Tracker"
@@ -85,20 +86,25 @@ msgstr ""
 #: ../../source/site/forusers/support.rst:39
 msgid ""
 "More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-msgstr ""
+msgstr "Meer informatie vind je op http://hub.qgis.org/wiki/quantum-gis/Bugreports"
 
 #: ../../source/site/forusers/support.rst:41
 msgid ""
 "All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
 "gis/issues"
-msgstr ""
+msgstr "Je kunt alle issues bekijken op http://hub.qgis.org/projects/quantum-gis/issues"
 
 #: ../../source/site/forusers/support.rst:47
 msgid "Commercial Support"
-msgstr ""
+msgstr "Betaalde ondersteuning"
 
 #: ../../source/site/forusers/support.rst:49
 msgid ""
-"You can also get support from commpanies near you, please visit this page: "
+"You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
 msgstr ""
+
+#~ msgid ""
+#~ "You can also get support from commpanies near you, please visit this page: "
+#~ ":ref:`QGIS-commercial_support`."
+#~ msgstr ""

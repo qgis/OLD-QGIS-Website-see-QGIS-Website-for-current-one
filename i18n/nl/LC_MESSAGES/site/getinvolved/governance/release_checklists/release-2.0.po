@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-17 14:01+0000\n"
+"PO-Revision-Date: 2013-10-04 11:23+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Dutch <qgis-tr@lists.osgeo.org>\n"
 "MIME-Version: 1.0\n"
@@ -842,12 +842,6 @@ msgstr ""
 msgid "A generic 20 word summary"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:405
-msgid ""
-"Quantum GIS is a user friendly Open Source Geographic Information System "
-"that runs on Linux, Unix, Mac OSX, and Windows."
-msgstr ""
-
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:409
 msgid "A mailing list announcement"
 msgstr ""
@@ -979,17 +973,38 @@ msgstr ""
 msgid "A generic product description"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:466
-msgid ""
-"Quantum GIS (QGIS) is a user friendly Open Source Geographic Information "
-"System (GIS) that runs on Linux, Unix, Mac OSX, and Windows. QGIS supports "
-"vector, raster, and database formats. QGIS is licensed under the GNU General"
-" Public License. QGIS lets you browse and create map data on your computer. "
-"It supports many common spatial data formats (e.g. ESRI ShapeFile, geotiff)."
-" QGIS supports plugins to do things like display tracks from your GPS. QGIS "
-"is Open Source software and its free of cost."
-msgstr ""
-
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:476
 msgid "A generic features list"
 msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:405
+msgid ""
+"QGIS is a user friendly Open Source Geographic Information System that runs "
+"on Linux, Unix, Mac OSX, and Windows."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:466
+msgid ""
+"QGIS (QGIS) is a user friendly Open Source Geographic Information System "
+"(GIS) that runs on Linux, Unix, Mac OSX, and Windows. QGIS supports vector, "
+"raster, and database formats. QGIS is licensed under the GNU General Public "
+"License. QGIS lets you browse and create map data on your computer. It "
+"supports many common spatial data formats (e.g. ESRI ShapeFile, geotiff). "
+"QGIS supports plugins to do things like display tracks from your GPS. QGIS "
+"is Open Source software and its free of cost."
+msgstr ""
+
+#~ msgid ""
+#~ "Quantum GIS is a user friendly Open Source Geographic Information System "
+#~ "that runs on Linux, Unix, Mac OSX, and Windows."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Quantum GIS (QGIS) is a user friendly Open Source Geographic Information "
+#~ "System (GIS) that runs on Linux, Unix, Mac OSX, and Windows. QGIS supports "
+#~ "vector, raster, and database formats. QGIS is licensed under the GNU General"
+#~ " Public License. QGIS lets you browse and create map data on your computer. "
+#~ "It supports many common spatial data formats (e.g. ESRI ShapeFile, geotiff)."
+#~ " QGIS supports plugins to do things like display tracks from your GPS. QGIS "
+#~ "is Open Source software and its free of cost."
+#~ msgstr ""

@@ -2,7 +2,7 @@
 #
 
 # You can set these variables from the command line
-LANGUAGES     = en es nl ja de it zh_CN fr ru da_DK ko_KR fi pt_PT
+LANGUAGES     = en `ls i18n`
 LANG          = en
 SPHINXBUILD   = sphinx-build
 SPHINXINTL    = sphinx-intl
@@ -28,7 +28,7 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) i18n/pot
 
 help:
 	@echo "  "
-	@echo "Please use \`make <target>' where <target> is one of:"
+	@echo "Please use \`make <target> LANG=xx' where xx=language code and <target> is one of:"
 	@echo "  html         to build the website as html for enlish only"
 	@echo "  fullhtml     to pull QGIS-Documentation from github and build into the website"
 	@echo "  world        to create the website for ALL available languages"
@@ -37,6 +37,7 @@ help:
 	@echo "  createlang   to create (mostly directories) for a new language"
 	@echo "  pretranslate to gather all strings from sources, put in .pot files"
 	@echo "                  AND merge them with available .po files"
+	@echo "  transifex_push (only for transifex Maintainers!): renew source files and push to transifex"
 	@echo "  "
 	@echo "OPTION: use LANG=xx to do it only for one language, eg: make html LANG=de"
 	@echo "  "
@@ -64,13 +65,14 @@ help:
 
 clean:
 	rm -rf $(SOURCEDIR)/static
-	rm -rf i18n/*/LC_MESSAGES/docs/*/
 
 springclean: clean
 	# something in i18n/pot dir creates havoc when using gettext: remove it
 	rm -rf i18n/pot
+	rm -rf i18n/*/LC_MESSAGES/docs/*/
 	rm -rf $(BUILDDIR)/*
 	rm -f $(SOURCEDIR)/docs_conf.py*
+	rm -rf $(SOURCEDIR)/docs/*/
 
 # remove all resources from source/static directory
 # copy english resources from resources/en to source/static directory
@@ -101,10 +103,6 @@ localizeresources: clean
 pulldocsources:
 	scripts/pulldocsources.sh $(LANGUAGES)
 
-pretranslate: gettext
-	@echo "Generating the pot files for the QGIS-Website project (NOT including the docs)"
-	$(SPHINXINTL) update -p i18n/pot -c $(SOURCEDIR)/conf.py -l $(LANG)
-
 html: localizeresources
 	$(SPHINXINTL) build -l $(LANG) -c $(SOURCEDIR)/conf.py
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
@@ -118,26 +116,26 @@ world: all
 all: pulldocsources
 	@echo
 	@echo Building html for the following languages: $(LANGUAGES)
-
-# this one should work on when there is enough diskspace
-newall: pulldocsources
-	@echo
-	@echo Building html for the following languages: $(LANGUAGES)
 	@echo
 	# after build quickly rename old live dir, mv output to live dir and then remove old dir
 	@for LANG in $(LANGUAGES) ; do \
 		make LANG=$$LANG fullhtml; \
+		mkdir -p live/html/$$LANG; \
 		mv live/html/$$LANG live/html/$$LANG.old; \
-		mv output/html/$$LANG live/html/$$LANG; \
+		mv output/html/$$LANG live/html/; \
 		rm -rf live/html/$$LANG.old; \
 	done
 
-createlang:
+createlang: springclean
 	@echo Creating a new Language: $(LANG)
 	mkdir -p i18n/${LANG}
 	mkdir -p resources/${LANG}
-	cp resources/de/README resources/${LANG}
-	cp i18n/de/README i18n/${LANG}
+	cp resources/en/README resources/${LANG}
+	cp i18n/en/README i18n/${LANG}
+
+pretranslate: gettext
+	@echo "Generating the pot files for the QGIS-Website project (NOT including the docs)"
+	$(SPHINXINTL) update -p i18n/pot -c $(SOURCEDIR)/conf.py -l $(LANG)
 
 gettext:
 	# something in i18n/pot dir creates havoc when using gettext: remove it
@@ -147,6 +145,16 @@ gettext:
 	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS)
 	@echo
 	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale."
+
+# ONLY to be done by a transifex Maintainer for the project, as it overwrites
+# the english source resources
+# 1) make springclean (removing all building cruft)
+# 2) make pretranslate (getting all strings from sources and create new pot files)
+# 3) tx push -fs --no-interactive (push the source (-f) files forcing (-f) overwriting the ones their without asking (--no-interactive)
+transifex_push:
+	make springclean
+	make pretranslate
+	tx push -f -s --no-interactive
 
 ################################################################################
 #
