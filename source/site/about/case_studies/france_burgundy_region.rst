@@ -7,9 +7,9 @@ An interdisciplinary group of researchers based at the University of North Carol
 
 .. figure:: ./images/france_burgundy.jpg
    :alt: Our research area in Southern Burgundy, France. This research was done in and around the commune of Uxeau, shown at center right.
-   :scale: 60%
-   :align: right
-   
+   :scale: 90%
+   :align: left
+      
    Our research area in Southern Burgundy, France. This research was done in and around the commune of Uxeau, shown at center right.
 
 
@@ -26,7 +26,7 @@ The data and types of analyses we are currently using to study this complex land
 
 .. figure:: ./images/france_burgundy2.jpg
    :alt: A view of our project QGIS database. At right is the eVis GPS ground photo and data of a recently drained pond dating back at least to 1834. In the GIS image at center top you can see the location of the pond as a yellow dot. Red dots show other eVis ground photos of mills and other historical or archaeological sites.
-   :scale: 60%
+   :scale: 90%
    :align: left
    
    A view of our project QGIS database. At right is the eVis GPS ground photo and data of a recently drained pond dating back at least to 1834. In the GIS image at center top you can see the location of the pond as a yellow dot. Red dots show other eVis ground photos of mills and other historical or archaeological sites.
@@ -44,7 +44,7 @@ Our research will continue to explore the long-term history of the inhabitantsâ€
 
 .. figure:: ./images/france_burgundy3.jpg
    :alt: From top left going clockwise: Some of the local Charolais cattle, doing ethnographic interviews with local farmers, a GIS map showing forest change from 1759 to 1983, and a book of Uxeau 1791 cadastral tax records. In the center is a color 1759 Cassini map of the area.
-   :scale: 60%
+   :scale: 90%
    :align: left
    
    From top left going clockwise: Some of the local Charolais cattle, doing ethnographic interviews with local farmers, a GIS map showing forest change from 1759 to 1983, and a book of Uxeau 1791 cadastral tax records. In the center is a color 1759 Cassini map of the area.
@@ -58,7 +58,7 @@ Contact
 Authors
 =======
 
-.. figure:: ./images/france_burgundy4.jpg
+.. figure:: ./images/france_burgundy4.png
    :alt: Jones, Tickner and Madry doing field work
    :height: 220
    :align: left

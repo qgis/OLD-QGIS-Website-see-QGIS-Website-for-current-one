@@ -5,15 +5,16 @@ Quantarctica: An Antarctic GIS package
 
 Quantarctica is a collection of Antarctic geographical datasets, such as base maps, satellite imagery, glaciology and geophysics data from data centres around the world, prepared for viewing in Quantum GIS (QGIS). The package is developed by the Norwegian Polar Institute, as a tool for the research community, for classrooms and for operational use in Antarctica – freely available for non-commercial purposes.
 
+About the project
+=================
+
 .. figure:: ./images/quantarctica.jpg
    :alt: Screenshot from Quantarctica, showing one of the subglacial lakes datasets.
-   :scale: 60%
+   :scale: 90%
    :align: right
    
    Screenshot from Quantarctica, showing one of the subglacial lakes datasets.
 
-About the project
-==================
 
 Quantarctica (Quantum GIS + Antarctica) was first developed for in-house use at the Norwegian Polar Institute, as a tool for our glaciologists. There was a need for a low or no cost complete GIS with essential datasets – ready-to-use, easy-to-use, functionality rich and with offline capabilities. QGIS seemed to be a perfect choice of GIS for the collected datasets.
 
@@ -21,7 +22,7 @@ Quantarctica has been used to examine geographical data from continental to loca
 
 .. figure:: ./images/quantarctica2.jpg
    :alt: Quantarctica is also useful when navigating on the Antarctic ice shelves thanks to the GPS tracking capabilities within QGIS.
-   :scale: 60%
+   :scale: 100%
    :align: left
    
    Quantarctica is also useful when navigating on the Antarctic ice shelves thanks to the GPS tracking capabilities within QGIS.
