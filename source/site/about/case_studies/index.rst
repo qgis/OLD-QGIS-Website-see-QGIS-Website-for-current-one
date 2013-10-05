@@ -29,7 +29,9 @@ List of Case Studies
 
 .. toctree::
     :maxdepth: 1
-
+    
+    [2013/08] The Burgundy Historical Landscapes Working Group by Scott Madry <france_burgundy_region>
+    [2013/08] Quantarctica: An Antarctic GIS package by Anders Skoglund and Kenichi Matsuoka <antarctica>
     [2013/03] QGIS for monitoring tigers using camera traps in Nameri Tiger Reserve, Assam, India by Rajendra  G Garawad <india_assam>
     [2013/02] QGIS Maps Historic Herpetofaunal Records in Missouri, USA by Brian Edmond <usa_missouri>
     [2013/01] Creating the Fundy Footpath Trail Map with QGIS, by Jarrett Totton <canada_brunswick>
