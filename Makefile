@@ -73,6 +73,8 @@ springclean: clean
 	rm -rf $(BUILDDIR)/*
 	rm -f $(SOURCEDIR)/docs_conf.py*
 	rm -rf $(SOURCEDIR)/docs/*/
+	# all .mo files
+	find i18n/*/LC_MESSAGES/ -type f -name '*.mo' -delete
 
 # remove all resources from source/static directory
 # copy english resources from resources/en to source/static directory
