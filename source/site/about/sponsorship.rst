@@ -263,6 +263,7 @@ bank account rather than PayPal.
 * Gérald Fringeli
 * Gerhard Spieles
 * GFOSS.it
+* Gianluca Massei
 * Giovanni Fossà
 * Giuseppe Patti
 * Glasic S.r.l.
