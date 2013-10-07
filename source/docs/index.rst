@@ -33,10 +33,10 @@ We keep a copy of the documentation of QGIS 1.8 around here: http://docs.qgis.or
 .. toctree::
    :maxdepth: 1
 
-   User guide/Manual for QGIS 1.8 <http://docs.qgis.org/2.0/en/docs/user_manual>
-   PyQGIS cookbook for QGIS 1.8 <http://docs.qgis.org/2.0/en/docs/pyqgis_developer_cookbook>
-   Documentation Guidelines (how to write the docs)<http://docs.qgis.org/2.0/en/docs/documentation_guidelines>
-   A gentle introduction in GIS <http://docs.qgis.org/2.0/en/docs/gentle_gis_introduction/>
+   User guide/Manual for QGIS 1.8 <http://docs.qgis.org/1.8/en/docs/user_manual>
+   PyQGIS cookbook for QGIS 1.8 <http://docs.qgis.org/1.8/en/docs/pyqgis_developer_cookbook>
+   Documentation Guidelines (how to write the docs)<http://docs.qgis.org/1.8/en/docs/documentation_guidelines>
+   A gentle introduction in GIS <http://docs.qgis.org/1.8/en/docs/gentle_gis_introduction/>
 
 
 Documentation for QGIS testing
