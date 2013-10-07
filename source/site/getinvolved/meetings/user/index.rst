@@ -17,3 +17,4 @@ Contents:
    Kassel_2011
    Rapperswil_2011
    Bern_2010
+   Moscow_2009
