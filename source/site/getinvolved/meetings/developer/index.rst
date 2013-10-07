@@ -15,6 +15,5 @@ Contents:
    Lisbon_2011
    Wroclaw_2010
    Pisa_2010
-   Moscow_2009
    Vienna_2009
    Hannover_2009
