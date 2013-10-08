@@ -103,7 +103,7 @@ localizeresources: clean
 	fi
 
 pulldocsources:
-	scripts/pulldocsources.sh $(LANGUAGES)
+	scripts/pulldocsources.sh $(LANG)
 
 html: localizeresources
 	$(SPHINXINTL) build -l $(LANG) -c $(SOURCEDIR)/conf.py
