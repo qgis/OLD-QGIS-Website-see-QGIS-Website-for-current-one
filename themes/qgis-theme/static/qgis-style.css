@@ -637,6 +637,8 @@ section.content h4 {
 }
 #downloads .accordion-inner a {
   text-decoration: none;
+  display: block;
+  margin-right: 10%;
 }
 #downloads .accordion-inner .icon-large {
   font-size: 18px;
