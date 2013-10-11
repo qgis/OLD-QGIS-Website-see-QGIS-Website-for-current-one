@@ -1,3 +1,4 @@
+.. _QGIS-donations:
 
 .. note::
 

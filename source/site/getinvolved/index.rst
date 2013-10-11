@@ -13,6 +13,7 @@ Get Involved / Development
     governance/index
     development/index
     meetings/index
+    donations
     faq/index
 
 .. note::
