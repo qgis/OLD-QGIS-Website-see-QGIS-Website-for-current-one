@@ -119,6 +119,9 @@ all: pulldocsources
 	@echo
 	@echo Building html for the following languages: $(LANGUAGES)
 	@echo
+	@echo Starting with pulling all translations from transifex
+	# only files which have at least 1% translation
+	tx pull --minimum-perc=1 --skip
 	# after build quickly rename old live dir, mv output to live dir and then remove old dir
 	@for LANG in $(LANGUAGES) ; do \
 		make LANG=$$LANG fullhtml; \
