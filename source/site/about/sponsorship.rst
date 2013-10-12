@@ -223,6 +223,7 @@ bank account rather than PayPal.
 * Cheryle Shepstone
 * Chipotle Coupons
 * Chris Talbot
+* Christos Mitsis
 * Christopher Kahler
 * Cristian Spieles
 * Christian Schwartze
@@ -314,6 +315,7 @@ bank account rather than PayPal.
 * Kristian Stadelmayr
 * Kurt Esko
 * Laura Burnette
+* Laurent Bréton
 * Lorenzo Becchi
 * Luca Casagrande
 * Luca Manganelli
@@ -376,6 +378,7 @@ bank account rather than PayPal.
 * Robert Nuske
 * Robert Thurston
 * Roberta Benetti
+* Roberto Facoetti
 * Russell Rew
 * Sake Wagenaar
 * Sebastian Cionoiu
