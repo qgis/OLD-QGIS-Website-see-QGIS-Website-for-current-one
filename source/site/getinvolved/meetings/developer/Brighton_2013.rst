@@ -2,7 +2,7 @@
 10th QGIS Developer Meeting in Brighton
 =======================================
 
-The 10th QGIS Developer Meeting from 12 - 16 September 2013 was organised by Lutra Consulting and held at University of Sussex in Brighton, Great Britain. The University sponsored the venue and internet access. We are extremely grateful to them for organising and helping us to make the whole event went very smoothly. 
+The 10th QGIS Developer Meeting from 12 - 16 September 2013 was organised by `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ and held at `University of Sussex <http://www.sussex.ac.uk/>`_ in Brighton, Great Britain. The University sponsored the venue and internet access. We are extremely grateful to them for organising and helping us to make the whole event went very smoothly. 
 
 We also want to thank our gold sponsor `ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, our silver sponsors `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, and `State of Vorarlberg <http://www.vorarlberg.at/>`_, the German `FOSSGIS e.V. <http://www.fossgis.de>`_ for sponsoring this event explicitly with 1500 Euros and the many people who have donated sums large and small to the QGIS project.
 
