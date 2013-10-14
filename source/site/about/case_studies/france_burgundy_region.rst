@@ -1,4 +1,3 @@
-
 ================================================
 The Burgundy Historical Landscapes Working Group 
 ================================================
@@ -30,10 +29,6 @@ The data and types of analyses we are currently using to study this complex land
    :align: left
    
    A view of our project QGIS database. At right is the eVis GPS ground photo and data of a recently drained pond dating back at least to 1834. In the GIS image at center top you can see the location of the pond as a yellow dot. Red dots show other eVis ground photos of mills and other historical or archaeological sites.
-
-Since Quantarctica first came in use by our glaciologists three years ago, there has been many requests in the research community outside the institute to share this product, and we started to develop a public and improved version to replace the in-house version. Following Antarctic field testing, and adding new relevant datasets, Quantarctica version 1.0 was finally completed and made available for download in July 2013.
-
-Quantarctica is to be all about community effort. With contributions we aim to expand with data from other disciplines, such as oceanography, atmospheric sciences, geology and biology, and hope and believe that this tool can be useful for the Antarctic community – as a complete Antarctic GIS package.
 
 Conclusion
 ==========
