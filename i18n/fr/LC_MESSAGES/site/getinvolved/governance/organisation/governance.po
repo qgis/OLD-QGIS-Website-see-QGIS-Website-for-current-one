@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-04 11:23+0000\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-13 18:58+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -31,9 +31,9 @@ msgstr "Comité de Pilotage du Projet"
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:11
 msgid ""
 "The QGIS project is managed by the Project Steering Committee (PSC) which "
-"consists of 5 members (with their individual responsibilities listed in "
+"consists of 8 members (with their individual responsibilities listed in "
 "brackets):"
-msgstr "Le projet QGIS est géré par le Comité de Pilotage du Projet (Project Steering Commitee - PSC), composé de 5 membres (charge listée entre parenthèses):"
+msgstr ""
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:15
 msgid "Gary Sherman (Chair)"
@@ -58,6 +58,10 @@ msgstr "Paolo Cavallini (Conseiller Finances et Marketing)"
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:20
 msgid "Anita Graser (Design Advisor)"
 msgstr "Anita Graser (Conseiller Design)"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:21
+msgid "Richard Duivenvoorde (Infrastructure Manager)"
+msgstr "Richard Duivenvoorde (Gestionnaire de l'Infrastructure)"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:22
 msgid "Jürgen Fischer (Release Manager)"
@@ -361,15 +365,7 @@ msgstr "Il n'y a pas de limites au nombre de contributeurs acceptés dans le pro
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:185
 msgid ""
-"This `individuals <https://github.com/qgis/Quantum-"
-"GIS/graphs/contributors>`_ are recognised as Project Committers and have "
-"full commit access to the `github repository <https://github.com/qgis"
-"/Quantum-GIS>`_."
-msgstr "Ces `contributeurs <https://github.com/qgis/Quantum-GIS/graphs/contributors>`_ sont reconnus comme des contributeurs officiels du projet (commiters)  et ont de fait les pleins droits de modification du code disponible dans le `dépôt github<https://github.com/qgis/Quantum-GIS>`_."
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:21
-msgid "Richard Duivenvoorde (Infrastructure Manager)"
+"This `individuals <https://github.com/qgis/QGIS/graphs/contributors>`_ are "
+"recognised as Project Committers and have full commit access to the `github "
+"repository <https://github.com/qgis/QGIS>`_."
 msgstr ""
-
-#~ msgid "Richard Duivenvoord (Infrastructure Manager)"
-#~ msgstr ""

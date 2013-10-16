@@ -1,15 +1,17 @@
 # 
 # Translators:
+# DelazJ <delazj@gmail.com>, 2013
 # julien2291 <julien.francois1@hotmail.fr>, 2013
+# RobinC <robin.cura@gmail.com>, 2013
 # RobinP <robin@georezo.net>, 2013
 # simogeo <simon.georget@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-23 13:59+0000\n"
-"Last-Translator: simogeo <simon.georget@gmail.com>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-15 15:11+0000\n"
+"Last-Translator: RobinC <robin.cura@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -43,33 +45,60 @@ msgstr "Développement"
 msgid "See https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 msgstr "Voir https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 
-#: ../../source/site/getinvolved/development/index.rst:24
+#: ../../source/site/getinvolved/development/index.rst:23
+msgid "Api Documentation"
+msgstr "Documentation de l'API"
+
+#: ../../source/site/getinvolved/development/index.rst:25
+msgid "You can find the API documentation for cpp here:"
+msgstr "Vous trouverez la documentation de l'API C++ ici : "
+
+#: ../../source/site/getinvolved/development/index.rst:27
+msgid "http://qgis.org/api/ (for QGIS testing)"
+msgstr "http://qgis.org/api/ (pour QGIS testing)"
+
+#: ../../source/site/getinvolved/development/index.rst:29
+msgid "http://qgis.org/api/2.0/ (for QGIS 2.0)"
+msgstr "http://qgis.org/api/2.0/ (pour QGIS 2.0)"
+
+#: ../../source/site/getinvolved/development/index.rst:31
+msgid "http://qgis.org/api/1.8/ (for QGIS 1.8)"
+msgstr "http://qgis.org/api/1.8/ (pour QGIS 1.8)"
+
+#: ../../source/site/getinvolved/development/index.rst:35
 msgid "Python Development"
 msgstr "Développement Python"
 
-#: ../../source/site/getinvolved/development/index.rst:26
+#: ../../source/site/getinvolved/development/index.rst:37
 msgid "QGIS has a lot to offer for python developers too."
 msgstr "QGIS a aussi beaucoup à offrir au développeur Python"
 
-#: ../../source/site/getinvolved/development/index.rst:28
+#: ../../source/site/getinvolved/development/index.rst:39
 msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
 msgstr "QGIS a des dépendances Python. Il est donc possible d'automatiser des tâches dans QGIS via Python"
 
-#: ../../source/site/getinvolved/development/index.rst:30
+#: ../../source/site/getinvolved/development/index.rst:41
 msgid ""
 "Interested in python plugin development, go here http://plugins.qgis.org or "
-"have a look into the `PyQGIS cookbook "
-"<docs/pyqgis_developer_cookbook/index>`_"
-msgstr "Le développement d'extensions Python vous intéresse, suivez le lien http://plugins.qgis.org ou jetez un œil à `PyQGIS cookbook <docs/pyqgis_developer_cookbook/index>`_"
+"have a look into the :ref:`PyQGIS-Developer-Cookbook`."
+msgstr "Le développement d'extensions Python vous intéresse, suivez le lien http://plugins.qgis.org ou jetez un coup d'œil à :ref:`PyQGIS-Developer-Cookbook`."
 
-#~ msgid "Test"
-#~ msgstr ""
+#: ../../source/site/getinvolved/development/index.rst:45
+msgid "Python iface documentation"
+msgstr "Documentation de l'API Python de l'interface"
 
-#~ msgid ""
-#~ "This is a test for localisation. In dutch the image below should be in "
-#~ "dutch:"
-#~ msgstr ""
+#: ../../source/site/getinvolved/development/index.rst:47
+msgid "You can find the QGIS-iface which you can use via python here:"
+msgstr "Vous trouverez la documentation de la classe QGIS-iface, à laquelle vous pouvez accéder en Python, à ces adresses :"
 
-#~ msgid ""
-#~ "Interested in python plugin development, go here http://plugins.qgis.org"
-#~ msgstr ""
+#: ../../source/site/getinvolved/development/index.rst:49
+msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
+msgstr "http://qgis.org/api/classQgisInterface.html (pour QGIS testing)"
+
+#: ../../source/site/getinvolved/development/index.rst:51
+msgid "http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
+msgstr "http://qgis.org/api/2.0/classQgisInterface.html (pour QGIS 2.0)"
+
+#: ../../source/site/getinvolved/development/index.rst:53
+msgid "http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
+msgstr "http://qgis.org/api/1.8/classQgisInterface.html (pour QGIS 1.8)"

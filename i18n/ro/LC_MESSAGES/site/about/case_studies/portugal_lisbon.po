@@ -1,12 +1,13 @@
 # 
 # Translators:
+# csorin <scalinica@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-01 17:11+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-07 09:43+0000\n"
+"Last-Translator: csorin <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +19,7 @@ msgstr ""
 msgid ""
 "Using QGIS to Map Hotspot Areas for Biodiversity and Ecosystem Services "
 "(HABEaS)"
-msgstr ""
+msgstr "Folosirea QGIS în marcarea zonelor de interes pentru Serviciile privind Biodiversitatea și Ecosistemul (HABEaS)"
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:6
 msgid ""
@@ -34,7 +35,7 @@ msgid ""
 "2013 it will be expanded to the north of Portugal and also to the Tuzla "
 "Canton in Bosnia & Herzegovina. In the long run we want to expand this tool "
 "to the entire Mediterranean Basin."
-msgstr ""
+msgstr "HABEaS - Zone de interes pentru Serviciile privind Biodiversitatea și Ecosistemul, reprezintă un sistem online de informații geografice (WebGIS), care a fost creat de către `Centrul pentru Ecologie Aplicată <http://www.isa.utl.pt/ceabn/content/2/123/homepage>`_ (`Institutul Superior de Agronomie <http://www.isa.utl.pt/home/>`_, Universitatea Tehnică din Lisabona), Fondul Mondial pentru Natură (WWF) și Faunalia. Scopul principal al acestei platforme este de a oferi acces gratuit la o mare varietate de date ale serviciilor privind biodiversitatea și ecosistemul bazinului mediteranean, fiind la dispoziția unui număr mare de entități publice și private. În prezent, HABEaS WebGIS acoperă partea de sud a Portugaliei, dar până la sfârșitul anului 2012/începutul anului 2013 se va extinde în nordul Portugaliei și, de asemenea, până la cantonul Tuzla, în Bosnia și Herțegovina. Pe termen lung, dorim ca acest instrument să acopere întregul bazin mediteranean."
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:13
 msgid ""
@@ -47,7 +48,7 @@ msgid ""
 "process and analyze the GIS that we obtained from several entities. We used "
 "both QGIS's native tools but also GRASS GIS and SAGA GIS tools through the "
 "GRASS plugin and SEXTANTE Toolbox."
-msgstr ""
+msgstr "Având în vedere că obiectivul principal al acestui instrument, este de a promova accesul gratuit și facil la informațiile serviciilor privind biodiversitatea și ecosistemul, ne-am decis să utilizăm numai software gratuit și cu sursă liberă, pe care orice persoană fizică sau juridică îl poate folosi, indiferent de locație sau de constrângerile financiare. Site-ul unde este găzduit HABEaS WebGIS are la bază un server care rulează Debian Linux și a fost dezvoltat cu Drupal CMS. PostgreSQL/PostGIS a fost utilizat pentru a stoca datele iar QGIS a fost folosit pentru a procesa și analiza informațiile geografice obținute de la mai multe entități. Am folosit atât instrumente native ale QGIS, cât și instrumente GRASS GIS și SAGA GIS, cu ajutorul plugin-ului GRASS și a casetei cu instrumente SEXTANTE."
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:19
 msgid ""
@@ -56,7 +57,7 @@ msgid ""
 "(HCVF) in the south of Portugal, which is a mandatory step for landowners "
 "that want their forests to receive Forest Stewardship Council (FSC) "
 "Certification."
-msgstr ""
+msgstr "Informațiile geografice cuprinse în HABEaS au fost, de asemenea, folosite de către WWF pentru a oferi sprijinul necesar identificării Pădurilor cu Valoare Ridicată de Conservare (HCVF), în partea de sud a Portugaliei, care constituie un pas obligatoriu pentru proprietarii de terenuri care doresc certificarea Forest Stewardship Council (FSC) pentru pădurile lor."
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:25
 msgid ""
@@ -65,11 +66,11 @@ msgid ""
 "the boundaries of the property. Using the same tool we were also able to "
 "create a script that automatically calculates the amount of carbon that is "
 "currently stored in each property."
-msgstr ""
+msgstr "Pentru a calcula valoarea de conservare a fiecărei proprietăți, am folosit SEXTANTE Modelator la crearea unui script care intersectează toate straturile HABEaS cu limitele de proprietate. Utilizând, de asemenea, același instrument, a fost posibilă crearea unui script pentru calcularea automată a cantității de carbon stocată, în prezent, în fiecare proprietate."
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:32
 msgid "Conclusions"
-msgstr ""
+msgstr "Concluzii"
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:34
 msgid ""
@@ -84,19 +85,19 @@ msgid ""
 "Reported bugs are usually resolved shortly after being reported by users and"
 " QGIS developers are always willing to listen to “end user's” needs and "
 "suggestions."
-msgstr ""
+msgstr "QGIS este ușor de folosit și are capacități de geoprocesare foarte puternice. Integrarea GRASS GIS și a instrumentelor SAGA GIS în caseta de instrumente SEXTANTE ne-a permis să efectuăm o serie de analize spațiale complexe și sa le interconectăm folosind SEXTANTE Modeler. A fost, de asemenea, foarte ușoară producerea de hărți de înaltă calitate cu noul Print Composer și exportarea lor în format SVG pentru editarea în continuare cu Inkscape, care este un puternic editor vectorial, gratuit. În general, experiența noastră cu QGIS a fost foarte pozitivă, software-ul funcționează bine, comunitatea utilizatorilor fiind foarte activă și receptivă la întrebări. Erorile sunt rezolvate, de obicei, la scurt timp dupa ce a fost raportate de către utilizatori și dezvoltatori QGIS sunt întotdeauna dispuși să asculte la nevoile si sugestiile 'utilizator final'."
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:38
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:45
 msgid "Filipe Dias"
-msgstr ""
+msgstr "Filipe Dias"
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:47
 msgid ""
 "Filipe Dias is a PhD student at the Center for Applied Ecology (Instituto "
 "Superior de Agronomia, Techinical University of Lisbon) and a consultant of "
 "the Mediterranean Programme of World Wide Fund for Nature (WWF)."
-msgstr ""
+msgstr "Filipe Dias este un doctorand la Centrul pentru Ecologie Aplicată (Institutul Superior de Agronomie, Universitatea Tehnică din Lisabona) și un consultant al Programului Mediteranean al Fondului Mondial pentru Natură (WWF)."

@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-04 11:13+0000\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-06 17:21+0000\n"
 "Last-Translator: jefi <jef@norbit.de>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -32,6 +32,10 @@ msgstr "Wir beginnen mit einer Seite und unterteilen sie bei Bedarf in Abschnitt
 #: ../../source/site/getinvolved/faq/index.rst:12
 msgid "User"
 msgstr "Benutzer"
+
+#: ../../source/site/getinvolved/faq/index.rst:18
+msgid "Why is QGIS 2.0 named 'Dufour'?"
+msgstr "Warum heißt QGIS 2.0 'Dufour'?"
 
 #: ../../source/site/getinvolved/faq/index.rst:20
 msgid ""
@@ -62,6 +66,14 @@ msgstr "bevorzugt E-Mails mit einem aussagekräftigen Betreff"
 msgid "which Operating System and version"
 msgstr "Welches Betriebsystem mit Version"
 
+#: ../../source/site/getinvolved/faq/index.rst:34
+msgid "which QGIS version you used at that moment (exact)"
+msgstr "Welche QGIS-Version sie gerade benutzen (genau)"
+
+#: ../../source/site/getinvolved/faq/index.rst:35
+msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
+msgstr "Wie Sie es installiert haben (OSGeo4W, Standalone? Selbst kompiliert?)"
+
 #: ../../source/site/getinvolved/faq/index.rst:36
 msgid ""
 "at what time did it break (reinstall, new install, system update, project??)"
@@ -72,13 +84,13 @@ msgid ""
 "what exactly is the error (not sure in the above if you mean that \"python "
 "error' is the error, or you mean there is a python error which you did not "
 "write in you email"
-msgstr "Was ist der genau Fehler (unsicher ob im obigen gemeint ist, dass der \"Python-Fehler\" der Fehler ist oder ob ein Python-Fehler gemeint war, der in der E-Mail nicht vorkam)"
+msgstr "Was ist der genaue Fehler?"
 
 #: ../../source/site/getinvolved/faq/index.rst:39
 msgid ""
 "Without this info, it is very hard to answer for anybody. Or, taking just "
 "too much time because the answer will be a question to you etc etc."
-msgstr "Ohne dies Informationen fällt die Antwort jedem schwer. Oder braucht nur zuviel Zeit, weil die Antwort nur aus einer Frage an Sie bestehen kann, usw. usf."
+msgstr "Ohne dies Informationen fällt die Antwort jedem schwer. Oder es braucht nur zuviel Zeit, weil die Antwort nur aus einer Frage an Sie bestehen kann, usw. usf."
 
 #: ../../source/site/getinvolved/faq/index.rst:43
 msgid "Development"
@@ -102,24 +114,3 @@ msgstr "Kann ich QGIS unter MacOS selbst kompilieren?"
 #: ../../source/site/getinvolved/faq/index.rst:58
 msgid "Can I compile QGIS myself on Linux?"
 msgstr "Kann ich QGIS unter Linux selbst kompilieren?"
-
-#: ../../source/site/getinvolved/faq/index.rst:18
-msgid "Why is QGIS 2.0 named 'Dufour'?"
-msgstr "Warum heißt QGIS 2.0 'Dufour'?"
-
-#: ../../source/site/getinvolved/faq/index.rst:34
-msgid "which QGIS version you used at that moment (exact)"
-msgstr "Welche QGIS-Version sie gerade benutzen (genau)"
-
-#: ../../source/site/getinvolved/faq/index.rst:35
-msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
-msgstr "Wie Sie es installiert haben (OSGeo4W, Standalone? Selbst kompiliert?)"
-
-#~ msgid "Why is QGIS 2.0 named 'Dufour'"
-#~ msgstr ""
-
-#~ msgid "which QGIS version (exact)"
-#~ msgstr ""
-
-#~ msgid "how you installed it (osgeo4w? msi-installer? own build?)"
-#~ msgstr ""

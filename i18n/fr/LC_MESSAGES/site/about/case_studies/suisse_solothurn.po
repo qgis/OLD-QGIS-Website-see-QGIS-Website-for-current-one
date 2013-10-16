@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-25 05:40+0000\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-10 05:15+0000\n"
 "Last-Translator: DelazJ <delazj@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -74,7 +74,7 @@ msgstr "Nous pouvions passer commande auprès de Marco Hugentobler pour l’impl
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:25
 msgid "Application and Plugin developement with Python"
-msgstr ""
+msgstr "Développement d'application et d'extension en Python"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:26
 msgid "Growing user community"
@@ -90,7 +90,7 @@ msgstr "Indépendance vis-à-vis d'un système d'exploitation"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:31
 msgid "Where do we use QGIS"
-msgstr ""
+msgstr "Notre utilisation de QGIS"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:33
 msgid ""
@@ -123,7 +123,7 @@ msgid ""
 "find the data layers they need. With this infrastructure in place, our users"
 " are happy - they can prepare for geoprocessing, editing and map composing "
 "in an individual way."
-msgstr ""
+msgstr "Pour éviter aux utilisateurs finaux de devoir interagir directement avec des connexions PostGIS et des fenêtres de sélection de tables, un plugin a été développé en python. Le plugin est appelé \"SO!GIS Layer\" (voir Figure 1). Le plugin se connecte à la base de données PostGIS SO!GIS, récupère les informations sur toutes les couches de données géospatiales publiées de SO!DATA et offre à l'utilisateur une interface graphique pour trouver les couches de données dont il a besoin. Avec cette infrastructure en place, nos utilisateurs sont heureux - ils peuvent préparer le géotraitement, l'édition et la mise en page des cartes de façon individuelle."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:52
 msgid "\"SO!GIS Suche\" plugin developed at the Canton of Solothurn"

@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-27 09:44+0000\n"
-"Last-Translator: RichardXIE <xiluoduyu@163.com>\n"
+"PO-Revision-Date: 2013-10-13 18:57+0000\n"
+"Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/qgis-website/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,21 +29,42 @@ msgstr "QGIS 有很多英文帮助文档，部分已被翻译成其他语言。�
 msgid "Documentation for QGIS 2.0"
 msgstr "QGIS 2.0帮助文档"
 
-#: ../../source/docs/index.rst:26
+#: ../../source/docs/index.rst:32
 msgid "Documentation for QGIS 1.8"
 msgstr "QGIS 1.8帮助文档"
 
-#: ../../source/docs/index.rst:35
-msgid "Documentation for QGIS development/nightly"
-msgstr "QGIS开发者手册"
-
-#: ../../source/docs/index.rst:37
-msgid "TBD"
-msgstr "TBD"
-
-#: ../../source/docs/index.rst:40
+#: ../../source/docs/index.rst:27
 msgid ""
 "If you do not see working links to documentation above, it means that this "
 "documentation build did not copy the documentation sources into the website "
-"sources. See ..."
-msgstr "如果上面的文档链接无效，说明网页源码中不包含该文档的副本。请参考..."
+"sources. You can also go to http://docs.qgis.org/2.0"
+msgstr ""
+
+#: ../../source/docs/index.rst:34
+msgid ""
+"We keep a copy of the documentation of QGIS 1.8 around here: "
+"http://docs.qgis.org/1.8"
+msgstr ""
+
+#: ../../source/docs/index.rst:47
+msgid "Documentation for QGIS testing"
+msgstr ""
+
+#: ../../source/docs/index.rst:49
+msgid ""
+"Although not translated we also build the documentation for the release QGIS"
+" which is currently developed. We call this version 'QGIS testing' and "
+"documentation can be found here: http://docs.qgis.org/testing"
+msgstr ""
+
+#~ msgid "Documentation for QGIS development/nightly"
+#~ msgstr ""
+
+#~ msgid "TBD"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you do not see working links to documentation above, it means that this "
+#~ "documentation build did not copy the documentation sources into the website "
+#~ "sources. See ..."
+#~ msgstr ""

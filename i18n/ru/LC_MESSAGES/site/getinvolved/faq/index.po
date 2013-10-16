@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-30 16:56+0000\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-12 14:17+0000\n"
 "Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:3
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: ../../source/site/getinvolved/faq/index.rst:5
 msgid "Here we collect answers to question which come up very often."
@@ -31,6 +31,10 @@ msgstr "Пока всё будет на одной странице, возмо�
 #: ../../source/site/getinvolved/faq/index.rst:12
 msgid "User"
 msgstr "Пользователю"
+
+#: ../../source/site/getinvolved/faq/index.rst:18
+msgid "Why is QGIS 2.0 named 'Dufour'?"
+msgstr "Почему QGIS 2.0 названа «Dufour»?"
 
 #: ../../source/site/getinvolved/faq/index.rst:20
 msgid ""
@@ -60,6 +64,14 @@ msgstr "письмо должно иметь содержательную тем
 #: ../../source/site/getinvolved/faq/index.rst:33
 msgid "which Operating System and version"
 msgstr "укажите используемую операционную систему и её версию"
+
+#: ../../source/site/getinvolved/faq/index.rst:34
+msgid "which QGIS version you used at that moment (exact)"
+msgstr "какую версию QGIS вы используете (точный ответ)"
+
+#: ../../source/site/getinvolved/faq/index.rst:35
+msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
+msgstr "каким образом она была установлена (OSGeo4W? автономный установщик? собственная сборка?)"
 
 #: ../../source/site/getinvolved/faq/index.rst:36
 msgid ""
@@ -101,24 +113,3 @@ msgstr "Могу ли я самостоятельно собрать QGIS для
 #: ../../source/site/getinvolved/faq/index.rst:58
 msgid "Can I compile QGIS myself on Linux?"
 msgstr "Могу ли я самостоятельно собрать QGIS для Linux?"
-
-#: ../../source/site/getinvolved/faq/index.rst:18
-msgid "Why is QGIS 2.0 named 'Dufour'?"
-msgstr "Почему QGIS 2.0 названа «Dufour»?"
-
-#: ../../source/site/getinvolved/faq/index.rst:34
-msgid "which QGIS version you used at that moment (exact)"
-msgstr "какую версию QGIS вы используете (точный ответ)"
-
-#: ../../source/site/getinvolved/faq/index.rst:35
-msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
-msgstr "каким образом она была установлена (OSGeo4W? автономный установщик? собственная сборка?)"
-
-#~ msgid "Why is QGIS 2.0 named 'Dufour'"
-#~ msgstr ""
-
-#~ msgid "which QGIS version (exact)"
-#~ msgstr ""
-
-#~ msgid "how you installed it (osgeo4w? msi-installer? own build?)"
-#~ msgstr ""

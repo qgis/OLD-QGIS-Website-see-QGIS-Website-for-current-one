@@ -3,6 +3,7 @@
 
 # You can set these variables from the command line
 LANGUAGES     = en `ls i18n`
+LANGUAGES     = fa
 LANG          = en
 SPHINXBUILD   = sphinx-build
 SPHINXINTL    = sphinx-intl

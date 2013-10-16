@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-26 14:04+0000\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-12 14:18+0000\n"
 "Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
@@ -14,13 +14,10 @@ msgstr ""
 "Language: ru\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: ../../source/site/getinvolved/governance/sponsorship/index.rst:6
-msgid "Contents:"
-msgstr "Содержание:"
-
 #: ../../source/site/getinvolved/governance/sponsorship/index.rst:4
 msgid "QGIS Sponsorship Program"
 msgstr "Спонсорская программа QGIS"
 
-#~ msgid "QGIS Sponsorship Programme"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/sponsorship/index.rst:6
+msgid "Contents:"
+msgstr "Содержание:"

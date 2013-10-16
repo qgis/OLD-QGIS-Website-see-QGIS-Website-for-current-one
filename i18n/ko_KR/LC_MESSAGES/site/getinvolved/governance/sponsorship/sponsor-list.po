@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
 "PO-Revision-Date: 2013-10-02 05:10+0000\n"
 "Last-Translator: BJ Jang <qgis.tr.kr@gmail.com>\n"
 "Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/qgis-website/language/ko_KR/)\n"
@@ -19,9 +19,9 @@ msgstr ""
 msgid "Current and Past Sponsors of the QGIS Project"
 msgstr "QGIS 프로젝트의 현재 및 과거 스폰서"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:39
-msgid "Special sponsors"
-msgstr "특별 스폰서"
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:6
+msgid "2013 Sponsors"
+msgstr "2013 스폰서"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:14
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:47
@@ -31,6 +31,13 @@ msgstr "특별 스폰서"
 msgid "Logo"
 msgstr "로고"
 
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:15
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:76
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:116
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:151
+msgid "Type"
+msgstr "종류"
+
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:16
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:48
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:77
@@ -38,6 +45,47 @@ msgstr "로고"
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:152
 msgid "Notes"
 msgstr "설명"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:20
+msgid "**Gold**"
+msgstr "**골드**"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:21
+msgid "Asia Air Survey, Japan (11.2012-10.2015) http://www.asiaairsurvey.com/"
+msgstr "Asia Air Survey, Japan (11.2012-10.2015) http://www.asiaairsurvey.com/"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:25
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:30
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:35
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:86
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:91
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:96
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:101
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:131
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:136
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:156
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:161
+msgid "**Bronze**"
+msgstr "**브론즈**"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:26
+msgid "FOSSGIS e.V., Germany (10.2013) http://www.fossgis.de/"
+msgstr "FOSSGIS e.V., Germany (10.2013) http://www.fossgis.de/"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:31
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:97
+msgid "GeoSynergy, Australia (5.2012) http://www.geosynergy.com.au/"
+msgstr "GeoSynergy, Australia (5.2012) http://www.geosynergy.com.au/"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:36
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:102
+msgid ""
+"ibW Bildungszentrum Wald, Switzerland (3.2012) http://www.bzwmaienfeld.ch/"
+msgstr "ibW Bildungszentrum Wald, Switzerland (3.2012) http://www.bzwmaienfeld.ch/"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:39
+msgid "Special sponsors"
+msgstr "특별 스폰서"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:53
 msgid ""
@@ -58,13 +106,6 @@ msgstr "또한 OSGeo는 10.2012년 독일 에센에서 열린 HackFest 에도 �
 msgid "2012 Sponsors"
 msgstr "2012 스폰서"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:15
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:76
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:116
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:151
-msgid "Type"
-msgstr "종류"
-
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:81
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:121
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:126
@@ -75,20 +116,6 @@ msgstr "**실버**"
 msgid "Kanton Solothurn, Switzerland (10.2012) http://www.agi.so.ch/"
 msgstr "Kanton Solothurn, Switzerland (10.2012) http://www.agi.so.ch/"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:25
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:30
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:35
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:86
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:91
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:96
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:101
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:131
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:136
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:156
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:161
-msgid "**Bronze**"
-msgstr "**브론즈**"
-
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:87
 msgid "FOSSGIS e.V., Germany (8.2012) http://www.fossgis.de/"
 msgstr "FOSSGIS e.V., Germany (8.2012) http://www.fossgis.de/"
@@ -96,17 +123,6 @@ msgstr "FOSSGIS e.V., Germany (8.2012) http://www.fossgis.de/"
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:92
 msgid "Argusoft, Germany (6.2012) http://www.argusoft.de/"
 msgstr "Argusoft, Germany (6.2012) http://www.argusoft.de/"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:31
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:97
-msgid "GeoSynergy, Australia (5.2012) http://www.geosynergy.com.au/"
-msgstr "GeoSynergy, Australia (5.2012) http://www.geosynergy.com.au/"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:36
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:102
-msgid ""
-"ibW Bildungszentrum Wald, Switzerland (3.2012) http://www.bzwmaienfeld.ch/"
-msgstr "ibW Bildungszentrum Wald, Switzerland (3.2012) http://www.bzwmaienfeld.ch/"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:107
 msgid "2011 Sponsors"
@@ -140,19 +156,3 @@ msgstr "Studio Associato Gfosservices, Italy (2.2010) http://www.gfosservices.co
 #: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:162
 msgid "NextGIS, Russia (3.2010) http://nextgis.org"
 msgstr "NextGIS, Russia (3.2010) http://nextgis.org"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:6
-msgid "2013 Sponsors"
-msgstr "2013 스폰서"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:20
-msgid "**Gold**"
-msgstr "**골드**"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:21
-msgid "Asia Air Survey, Japan (11.2012-10.2015) http://www.asiaairsurvey.com/"
-msgstr "Asia Air Survey, Japan (11.2012-10.2015) http://www.asiaairsurvey.com/"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsor-list.rst:26
-msgid "FOSSGIS e.V., Germany (10.2013) http://www.fossgis.de/"
-msgstr "FOSSGIS e.V., Germany (10.2013) http://www.fossgis.de/"

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
 "PO-Revision-Date: 2013-09-24 19:55+0000\n"
 "Last-Translator: jonny_forest <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
@@ -32,6 +32,10 @@ msgstr "Vamos começar nesta página, se calhar reestruturada em secções, ou m
 #: ../../source/site/getinvolved/faq/index.rst:12
 msgid "User"
 msgstr "Utilizador"
+
+#: ../../source/site/getinvolved/faq/index.rst:18
+msgid "Why is QGIS 2.0 named 'Dufour'?"
+msgstr "Porquê é que o QGIS 2.0 chama-se 'Dufour'?"
 
 #: ../../source/site/getinvolved/faq/index.rst:20
 msgid ""
@@ -61,6 +65,14 @@ msgstr "de preferência um título descritivo para o seu email"
 #: ../../source/site/getinvolved/faq/index.rst:33
 msgid "which Operating System and version"
 msgstr "qual o Sistema Operativo e versão"
+
+#: ../../source/site/getinvolved/faq/index.rst:34
+msgid "which QGIS version you used at that moment (exact)"
+msgstr "Que versão QGIS usa neste momento (exacto)"
+
+#: ../../source/site/getinvolved/faq/index.rst:35
+msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
+msgstr "como instalou (osgeo4w? instalador standalone? compilação própria?)"
 
 #: ../../source/site/getinvolved/faq/index.rst:36
 msgid ""
@@ -102,24 +114,3 @@ msgstr "Posso eu próprio compilar o QGIS no MacOS?"
 #: ../../source/site/getinvolved/faq/index.rst:58
 msgid "Can I compile QGIS myself on Linux?"
 msgstr "Posso eu próprio compilar o QGIS no Linux?"
-
-#: ../../source/site/getinvolved/faq/index.rst:18
-msgid "Why is QGIS 2.0 named 'Dufour'?"
-msgstr "Porquê é que o QGIS 2.0 chama-se 'Dufour'?"
-
-#: ../../source/site/getinvolved/faq/index.rst:34
-msgid "which QGIS version you used at that moment (exact)"
-msgstr "Que versão QGIS usa neste momento (exacto)"
-
-#: ../../source/site/getinvolved/faq/index.rst:35
-msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
-msgstr "como instalou (osgeo4w? instalador standalone? compilação própria?)"
-
-#~ msgid "Why is QGIS 2.0 named 'Dufour'"
-#~ msgstr ""
-
-#~ msgid "which QGIS version (exact)"
-#~ msgstr ""
-
-#~ msgid "how you installed it (osgeo4w? msi-installer? own build?)"
-#~ msgstr ""

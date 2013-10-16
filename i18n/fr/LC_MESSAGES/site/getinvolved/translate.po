@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-20 23:01+0000\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-10 21:17+0000\n"
 "Last-Translator: RobinP <robin@georezo.net>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -42,7 +42,7 @@ msgid ""
 "is currently working on your language you have to take a look in the "
 ":menuselection:`Help -> About -> Translators` Box in the QGIS Desktop "
 "Application."
-msgstr "Pour savoir si votre langue est déjà gérée par Qgis ou qui travaille sur cette traduction, vous pouvez regarder dans la fenêtre :menuselection:`Help -> About -> Translators` de QGIS Desktop."
+msgstr "Pour savoir si votre langue est déjà gérée par Qgis ou qui travaille sur cette traduction, vous pouvez regarder dans la fenêtre :menuselection:`Aide -> A propos -> Traducteurs` de QGIS Desktop."
 
 #: ../../source/site/getinvolved/translate.rst:21
 msgid ""
@@ -109,7 +109,7 @@ msgid ""
 "Please :ref:`contact <community-resources>` the Community Assistant or the "
 "GUI translation team leader to see you name entered in the about Box of "
 "QGIS."
-msgstr "S'il vous plaît,  :ref:`contactez <community-resources>` l'assistant communautaire ou le chef de l'équipe de traduction de l'interface afin d'ajouter votre nom à la fenêtre \"A Propos\" de QGIS."
+msgstr "Merci de  :ref:`contacter <community-resources>` l'assistant communautaire ou le chef de l'équipe de traduction de l'interface afin d'ajouter votre nom à la fenêtre \"A Propos\" de QGIS."
 
 #: ../../source/site/getinvolved/translate.rst:66
 msgid "Helping with an existing translation"
@@ -120,14 +120,14 @@ msgid ""
 "If you like to help translating QGIS into a your language please assign to "
 "the :ref:`translators mailing list <mailinglist-translation>` and ask who is"
 " already working on that language to coordinate and collaborate."
-msgstr "Si vous souhaitez tarduire QGIs dans votre langue, merci de vous référer à la :ref:`liste de diffusion des traducteurs <mailinglist-translation>` et demander à ceux qui travaillent déjà sur ce langage comment participer."
+msgstr "Si vous souhaitez traduire QGIS dans votre langue, merci de vous référer à la :ref:`liste de diffusion des traducteurs <mailinglist-translation>` et demander à ceux qui travaillent déjà sur ce langage comment participer."
 
 #: ../../source/site/getinvolved/translate.rst:72
 msgid ""
 "To start QGIS with the appropriate localization, run qgis with the option "
 "--lang=<language code> or change localization in QGIS under "
 ":menuselection:`Settings -> Options -> Locale`."
-msgstr "Pour démarrer QGIS avec la localisation appropriée, lancez QGIS  l'option --lang=<language code> ou modifié la localisation dans QGIS sous :menuselection:`Préférences -> Options -> Locale`."
+msgstr "Pour démarrer QGIS avec la localisation appropriée, lancez QGIS avec l'option --lang=<language code> ou modifiez la localisation dans QGIS sous :menuselection:`Préférences -> Options -> Langue`."
 
 #: ../../source/site/getinvolved/translate.rst:79
 msgid "HOWTO translate GUI"
@@ -149,13 +149,13 @@ msgid ""
 "<https://github.com/qgis/Quantum-GIS/tree/master/i18n/>`_ (look for your "
 "language code which is added at the end of the files: qgis_* .ts, where * is"
 " your language code)."
-msgstr "D'habitude, il suffit de télécharger le fichier .ts depuis le `github repository <https://github.com/qgis/Quantum-GIS/tree/master/i18n/>`_ (cherchez le code de votre langue indiqué à la fin du fichier : qgis_*.ts, où * est le code de votre langue)"
+msgstr "D'habitude, il suffit de télécharger le fichier .ts depuis le `dépôt github <https://github.com/qgis/Quantum-GIS/tree/master/i18n/>`_ (cherchez le code de votre langue indiqué à la fin du fichier : qgis_*.ts, où * est le code de votre langue)"
 
 #: ../../source/site/getinvolved/translate.rst:92
 msgid ""
 "If you click on your language a RAW Button will appear on the top right "
 "corner of that window where you can download your language file."
-msgstr "Si vous sélectionnez votre langue, un bouton apparaîtra dans le coin haut droit de votre fenêtre vous permettant de télécharger le fichier dans votre langue"
+msgstr "Si vous sélectionnez votre langue, un bouton RAW apparaîtra dans le coin haut droit de votre fenêtre vous permettant de télécharger le fichier dans votre langue"
 
 #: ../../source/site/getinvolved/translate.rst:96
 msgid "Work on the translatable file"
@@ -166,7 +166,7 @@ msgid ""
 "For now it is recommended to use Qt-Linguist for working on the translatable"
 " file. You can download and install that program (depending on your "
 "operating system) from:"
-msgstr "Pour l'instant, il est recommandé d'utiliser Qt-Linguist pour travailler sur les fichier traduisibles. Vous pouvez télécharger et installer ce programme (en fonction de votre système d’exploitation) depuis :"
+msgstr "Pour l'instant, il est recommandé d'utiliser Qt-Linguist pour travailler sur les fichiers à traduire. Vous pouvez télécharger et installer ce programme (en fonction de votre système d’exploitation) depuis :"
 
 #: ../../source/site/getinvolved/translate.rst:103
 msgid "http://qt-apps.org/content/show.php/Qt+Linguist+Download?content=89360"
@@ -185,7 +185,7 @@ msgid ""
 "menu and save it as a .qm version of the translation. Afterwards you only "
 "have to copy this .qm file to the correct folder within your QGIS "
 "installation to see your translation in action."
-msgstr "Il est possible de créer un fichier de traduction compilé à partir de votre traduction avec Linguist en allant dans :menuselection:`File > Release (As)` dans le menu de Linguist pour sauver un fichier .qm de la traduction. Ensuite, vous n'aurez qu'à copier ce fichier .qm dans le bon dossier de votre installation QGIS pour votre la traduction effective."
+msgstr "Il est possible de créer un fichier de traduction compilé à partir de votre traduction avec Linguist en allant dans :menuselection:`File > Release (As)` dans le menu de Linguist pour sauver un fichier .qm de la traduction. Ensuite, vous n'aurez qu'à copier ce fichier .qm dans le bon dossier de votre installation QGIS pour voir la traduction effective."
 
 #: ../../source/site/getinvolved/translate.rst:114
 msgid ""

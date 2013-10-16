@@ -1,12 +1,13 @@
 # 
 # Translators:
+# csorin <scalinica@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-01 17:11+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-15 18:05+0000\n"
+"Last-Translator: csorin <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,11 +17,11 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:4
 msgid "QGIS Maps Historic Herpetofaunal Records"
-msgstr ""
+msgstr "Înregistrări istorice ale herpetofaunei cartografiate în QGIS"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:6
 msgid "(in Missouri, USA)"
-msgstr ""
+msgstr "(În Missouri, USA)"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:8
 msgid ""
@@ -31,7 +32,7 @@ msgid ""
 "in historical literature sources and specimens vouchered from museums. From "
 "the database, a series of maps can be produced representing both locality "
 "records and \"county records\" for each species."
-msgstr ""
+msgstr "Proiectul Atlasului Herpetologic Missouri (MOHAP) a fost inițiat în 1997 ca urmare a dorinței de a obține și actualiza cu ușurință  hărțile detaliate despre distribuția amfibienilor și reptilelor în Missouri (Statele Unite ale Americii). O bază de date a fost instalată pentru a stoca toate localitățile valide, inclusiv înregistrările publicate în sursele literaturii istorice și specimenele expuse în muzee. Din baza de date, pot fi produse o serie de hărți care reprezintă atât înregistrările pe localitate și pe regiune, pentru fiecare specie."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:10
 msgid ""
@@ -43,7 +44,7 @@ msgid ""
 "Reptiles for 2011. <http://atlas.moherp.org/pubs/atlas11.pdf>).  Published "
 "maps are used by field biologists, land managers, and others to better "
 "understand species' distributions in Missouri."
-msgstr ""
+msgstr "MOHAP găzduiește un site web la adresa http://atlas.moherp.org/ care descrie proiectul în detaliu și afișează o varietate de hărți statice, toate produse cu QGIS. Un atlas, publicat în format PDF, descărcabil, este lansat periodic, fiind publicat gratuit, în spiritul accesului liber la cercetarea științifică (Daniel, R.E. and B.S. Edmond. 2012. Atlas of Missouri Amphibians and Reptiles for 2011. <http://atlas.moherp.org/pubs/atlas11.pdf>). Hărțile publicate sunt utilizate în munca de teren de către biologi  administratori de terenuri și alții, ajutându-i să înțeleagă mai bine distribuția speciilor din Missouri."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:12
 msgid ""
@@ -52,11 +53,11 @@ msgid ""
 "historical literature sources; 5,118 documented county records; 6,884 unique"
 " localities; and 12,866 unique species / locality combinations. The state's "
 "herpetofauna consists of 113 species."
-msgstr ""
+msgstr "În februarie 2013, baza de date MOHAP cuprinde 31495 intrări reprezentând exemplarele adăpostite în 34 de colecții muzeale și citate în 32 de surse ale literaturii istorice; 5118 înregistrări documentate la nivel de regiune; 6884 localități unice și 12866 combinații de specii/localitate. Herpetofauna la nivelul statului este formată din 113 de specii."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:15
 msgid "Generate and Export Static Maps"
-msgstr ""
+msgstr "Generarea și exportul hărților statice"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:17
 msgid ""
@@ -65,13 +66,13 @@ msgid ""
 "and ultimately destined for either the web or a printed atlas, they are "
 "generated automatically for each species using a custom QGIS Python plugin "
 "(Figures 1,2)."
-msgstr ""
+msgstr "Procesul de creare a hărților cu QGIS începe cu datele stocate în mai multe tabele PostgreSQL, având activată extensia spațială PostGIS. Deoarece hărțile sunt statice și, în cele din urmă, destinate să fie expuse pe web sau într-un atlas imprimat, acestea sunt generate automat pentru fiecare specie, folosind un  plugin QGIS scris în Python (Figurile 1,2)."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:24
 msgid ""
 "Custom map generation and export user interface, maps are generated and "
 "exported in a batch process."
-msgstr ""
+msgstr "Interfața cu utilizatorul, pentru generarea hărții personalizate, Hărțile sunt generate și exportate într-un proces în serie."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:26
 msgid ""
@@ -80,19 +81,19 @@ msgid ""
 "created and labelled (Figure 4). Because of the way styles are managed "
 "within each data layer, the base map layers can also be incorporated into a "
 "set of species maps with little extra effort."
-msgstr ""
+msgstr "Hărțile finale ale speciilor au un aspect curat și profesional (figura 3). Pentru a înțelege mai bine distribuția speciilor, sunt create și etichetate, de asemenea, o serie de hărți de bază (figura 4). Datorită modului în care sunt gestionate stilurile în cadrul fiecărui strat de date, straturile de bază ale hărții pot fi incluse într-un set de hărți al unei specii oarecare cu foarte puțin efort suplimentar."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:33
 msgid "Maps are displayed as static images."
-msgstr ""
+msgstr "Hărțile sunt afișate ca imagini statice."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:40
 msgid "Labelled Level III Ecoregion map for Missouri and surrounding states."
-msgstr ""
+msgstr " Harta ecoregiunii de nivelul III, etichetată, pentru Missouri și statele din jur."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:43
 msgid "Conclusions"
-msgstr ""
+msgstr "Concluzii"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:45
 msgid ""
@@ -110,15 +111,15 @@ msgid ""
 "and ready to use. Although we use QGIS in a small and specific way, its "
 "capabilities and extensibility using Python is more than sufficient to "
 "tackle larger and more complex projects."
-msgstr ""
+msgstr "La începutul proiectului MOHAP, mai multe instrumente comerciale și proprietare au fost folosite pentru a stoca și procesa datele si pentru a produce hărți pentru publicare. Începând cu 2007, am decis orientarea tuturor aspectelor proiectului înspre aplicațiile cu sursă deschisă. QGIS împreună cu PHP, PostgreSQL, PostGIS, Python, și ReportLab, formează fundamentul MOHAP, care permit proiectului și datelor să coexiste fără complicațiile soft-ului proprietar. QGIS conține suport nativ pentru PostGIS și o arhitectură de plugin-uri în Python, care au fost esențiale în automatizarea creării și exportului hărții. Documentația API vastă a fost utilizată alături de ghidul de dezvoltare a plugin-urilor pentru a crea exact ceea ce este necesar pentru automatizare. Sprijinul comunității este, de asemenea, foarte bun și include o gamă foarte mare de plugin-uri partajate, gata de utilizare. Deși am folosit QGIS doar într-un mod specific, capacitățile sale și extensibilitatea folosind Python, sunt mai mult decât suficiente pentru a aborda proiecte mai mari și mai complexe."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:50
 msgid "Author"
-msgstr ""
+msgstr "Autorul"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:57
 msgid "Brian Edmond"
-msgstr ""
+msgstr "Brian Edmond"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:59
 msgid ""
@@ -126,4 +127,4 @@ msgid ""
 "Senior Systems Analyst in Computer Services at Missouri State University.  "
 "He holds a BS in Wildlife Biology from the University of Missouri and has "
 "spent his career in the intergrade zone between biology and technology."
-msgstr ""
+msgstr "Acest articol a fost trimis de Brian Edmond în februarie 2013. Acesta este Senior Systems Analyst in Computer Services la Universitatea de Stat din Missouri. Deține un BS în Biologia Faunei Sălbatice la Universitatea din Missouri, petrecându-și cariera în zona de graniță dintre biologie și tehnologie."

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
 "PO-Revision-Date: 2013-09-23 13:08+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/qgis-website/language/es/)\n"
@@ -32,6 +32,10 @@ msgstr ""
 #: ../../source/site/getinvolved/faq/index.rst:12
 msgid "User"
 msgstr "Usuario"
+
+#: ../../source/site/getinvolved/faq/index.rst:18
+msgid "Why is QGIS 2.0 named 'Dufour'?"
+msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:20
 msgid ""
@@ -61,6 +65,14 @@ msgstr "preferiblemente un título descriptivo para tu e-mail"
 #: ../../source/site/getinvolved/faq/index.rst:33
 msgid "which Operating System and version"
 msgstr "que Sistema Operativo y Versión"
+
+#: ../../source/site/getinvolved/faq/index.rst:34
+msgid "which QGIS version you used at that moment (exact)"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:35
+msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
+msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:36
 msgid ""
@@ -102,24 +114,3 @@ msgstr "¿Puedo compilar yo mismo QGIS en MacOS?"
 #: ../../source/site/getinvolved/faq/index.rst:58
 msgid "Can I compile QGIS myself on Linux?"
 msgstr "¿Puedo compilar yo mismo QGIS en Linux?"
-
-#: ../../source/site/getinvolved/faq/index.rst:18
-msgid "Why is QGIS 2.0 named 'Dufour'?"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:34
-msgid "which QGIS version you used at that moment (exact)"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:35
-msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
-msgstr ""
-
-#~ msgid "Why is QGIS 2.0 named 'Dufour'"
-#~ msgstr ""
-
-#~ msgid "which QGIS version (exact)"
-#~ msgstr ""
-
-#~ msgid "how you installed it (osgeo4w? msi-installer? own build?)"
-#~ msgstr ""

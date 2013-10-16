@@ -1,11 +1,12 @@
 # 
 # Translators:
+# hal_sk <hal@plants-web.jp>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-23 13:13+0000\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-13 18:57+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Japanese (http://www.transifex.com/projects/p/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -16,57 +17,84 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:4
 msgid "QGIS Development"
-msgstr ""
+msgstr "QGIS 開発"
 
 #: ../../source/site/getinvolved/development/index.rst:6
 msgid "Welcome to the QGIS Development pages"
-msgstr ""
+msgstr "QGIS 開発者向けページへようこそ"
 
 #: ../../source/site/getinvolved/development/index.rst:10
 msgid "Bugs, Features and Issues"
-msgstr ""
+msgstr "Bugs, Features and Issues"
 
 #: ../../source/site/getinvolved/development/index.rst:12
 msgid ""
 "If you find a bug, please read `our hints on issueing bugs "
 "<http://hub.qgis.org/wiki/quantum-gis/Bugreports>`_"
-msgstr ""
+msgstr "もしバグを見つけた場合、`「バグ報告をするためのヒント」をご一読ください。\n <http://hub.qgis.org/wiki/quantum-gis/Bugreports>`_"
 
 #: ../../source/site/getinvolved/development/index.rst:17
 msgid "Development"
-msgstr ""
+msgstr "開発"
 
 #: ../../source/site/getinvolved/development/index.rst:19
 msgid "See https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
+msgstr "See https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
+
+#: ../../source/site/getinvolved/development/index.rst:23
+msgid "Api Documentation"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:24
+#: ../../source/site/getinvolved/development/index.rst:25
+msgid "You can find the API documentation for cpp here:"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:27
+msgid "http://qgis.org/api/ (for QGIS testing)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:29
+msgid "http://qgis.org/api/2.0/ (for QGIS 2.0)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:31
+msgid "http://qgis.org/api/1.8/ (for QGIS 1.8)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:35
 msgid "Python Development"
-msgstr ""
+msgstr "Python 開発"
 
-#: ../../source/site/getinvolved/development/index.rst:26
+#: ../../source/site/getinvolved/development/index.rst:37
 msgid "QGIS has a lot to offer for python developers too."
-msgstr ""
+msgstr "QGIS では、Python 開発者にも沢山の貢献領域があります。"
 
-#: ../../source/site/getinvolved/development/index.rst:28
+#: ../../source/site/getinvolved/development/index.rst:39
 msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
-msgstr ""
+msgstr "QGIS には Python bindings があり、QGIS タスクを Python を使って自動化することができます。"
 
-#: ../../source/site/getinvolved/development/index.rst:30
+#: ../../source/site/getinvolved/development/index.rst:41
 msgid ""
 "Interested in python plugin development, go here http://plugins.qgis.org or "
-"have a look into the `PyQGIS cookbook "
-"<docs/pyqgis_developer_cookbook/index>`_"
+"have a look into the :ref:`PyQGIS-Developer-Cookbook`."
 msgstr ""
 
-#~ msgid "Test"
-#~ msgstr ""
+#: ../../source/site/getinvolved/development/index.rst:45
+msgid "Python iface documentation"
+msgstr ""
 
-#~ msgid ""
-#~ "This is a test for localisation. In dutch the image below should be in "
-#~ "dutch:"
-#~ msgstr ""
+#: ../../source/site/getinvolved/development/index.rst:47
+msgid "You can find the QGIS-iface which you can use via python here:"
+msgstr ""
 
-#~ msgid ""
-#~ "Interested in python plugin development, go here http://plugins.qgis.org"
-#~ msgstr ""
+#: ../../source/site/getinvolved/development/index.rst:49
+msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:51
+msgid "http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:53
+msgid "http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
+msgstr ""

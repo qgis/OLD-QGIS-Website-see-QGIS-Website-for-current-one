@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
 "PO-Revision-Date: 2013-09-25 13:36+0000\n"
 "Last-Translator: BJ Jang <qgis.tr.kr@gmail.com>\n"
 "Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/qgis-website/language/ko_KR/)\n"
@@ -33,6 +33,10 @@ msgstr "지금은 이 한 페이지로 시작하지만, 아마도 섹션을 가�
 #: ../../source/site/getinvolved/faq/index.rst:12
 msgid "User"
 msgstr "사용자"
+
+#: ../../source/site/getinvolved/faq/index.rst:18
+msgid "Why is QGIS 2.0 named 'Dufour'?"
+msgstr "왜 QGIS 2.0 을 'Dufour'라고 이름을 붙였나요?"
 
 #: ../../source/site/getinvolved/faq/index.rst:20
 msgid ""
@@ -62,6 +66,14 @@ msgstr "당신의 이메일을 위한 명확한 설명된 제목"
 #: ../../source/site/getinvolved/faq/index.rst:33
 msgid "which Operating System and version"
 msgstr "운영체제와 버전"
+
+#: ../../source/site/getinvolved/faq/index.rst:34
+msgid "which QGIS version you used at that moment (exact)"
+msgstr "그 순간 어떤 QGIS 버전을 사용했는지 (정확히)"
+
+#: ../../source/site/getinvolved/faq/index.rst:35
+msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
+msgstr "어떻게 설치했는지 (osgeo4w? 독자 설치버전? 스스로 빌드?)"
 
 #: ../../source/site/getinvolved/faq/index.rst:36
 msgid ""
@@ -103,24 +115,3 @@ msgstr "MacOS 에서 QGIS 자체를 컴파일 할 수 있나요?"
 #: ../../source/site/getinvolved/faq/index.rst:58
 msgid "Can I compile QGIS myself on Linux?"
 msgstr "리눅스 환경에서 QGIS 자체를 컴파일 할 수 있나요?"
-
-#: ../../source/site/getinvolved/faq/index.rst:18
-msgid "Why is QGIS 2.0 named 'Dufour'?"
-msgstr "왜 QGIS 2.0 을 'Dufour'라고 이름을 붙였나요?"
-
-#: ../../source/site/getinvolved/faq/index.rst:34
-msgid "which QGIS version you used at that moment (exact)"
-msgstr "그 순간 어떤 QGIS 버전을 사용했는지 (정확히)"
-
-#: ../../source/site/getinvolved/faq/index.rst:35
-msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
-msgstr "어떻게 설치했는지 (osgeo4w? 독자 설치버전? 스스로 빌드?)"
-
-#~ msgid "Why is QGIS 2.0 named 'Dufour'"
-#~ msgstr ""
-
-#~ msgid "which QGIS version (exact)"
-#~ msgstr ""
-
-#~ msgid "how you installed it (osgeo4w? msi-installer? own build?)"
-#~ msgstr ""

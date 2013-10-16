@@ -1,14 +1,15 @@
 # 
 # Translators:
+# diethard.jansen <diethard.jansen@gmail.com>, 2013
 # parallax <vincent@stedema.nl>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-04 11:22+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Dutch <qgis-tr@lists.osgeo.org>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-05 19:58+0000\n"
+"Last-Translator: diethard.jansen <diethard.jansen@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -55,7 +56,7 @@ msgstr "Er is ook een web-versie beschikbaar: http://webchat.freenode.net/?chann
 
 #: ../../source/site/forusers/support.rst:20
 msgid "TODO: write something about the IRC ethiquette?"
-msgstr ""
+msgstr "Te doen: iets schrijven over de IRC etiquette"
 
 #: ../../source/site/forusers/support.rst:24
 msgid "StackExchange"
@@ -75,13 +76,13 @@ msgstr "TODO"
 
 #: ../../source/site/forusers/support.rst:35
 msgid "Issue Tracker"
-msgstr ""
+msgstr "Issue Tracker"
 
 #: ../../source/site/forusers/support.rst:37
 msgid ""
 "If you want to file bugs or issues, you need an osgeo ID. You can create an "
 "account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-msgstr ""
+msgstr "Wanneer je een fout of een issue wilt registreren, heeft u een osgeo ID nodig. Je kunt hier een account aanmaken: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
 
 #: ../../source/site/forusers/support.rst:39
 msgid ""
@@ -102,9 +103,4 @@ msgstr "Betaalde ondersteuning"
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
-msgstr ""
-
-#~ msgid ""
-#~ "You can also get support from commpanies near you, please visit this page: "
-#~ ":ref:`QGIS-commercial_support`."
-#~ msgstr ""
+msgstr "U kunt ook commerciële ondersteuning krijgen van een bedrijf, bezoek de pagina: :ref:`QGIS-commercial_support`."
