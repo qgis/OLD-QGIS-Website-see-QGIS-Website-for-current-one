@@ -1,12 +1,13 @@
 # 
 # Translators:
+# jonny_forest <joao.f.r.gaspar@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-21 20:36+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-09-27 11:08+0000\n"
+"Last-Translator: jonny_forest <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,11 +17,11 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:4
 msgid "QGIS Maps Historic Herpetofaunal Records"
-msgstr ""
+msgstr "Mapas QGIS Históricos de Registos de Herpetofauna"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:6
 msgid "(in Missouri, USA)"
-msgstr ""
+msgstr "(no Missouri, Estados Unidos da América)"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:8
 msgid ""
@@ -31,7 +32,7 @@ msgid ""
 "in historical literature sources and specimens vouchered from museums. From "
 "the database, a series of maps can be produced representing both locality "
 "records and \"county records\" for each species."
-msgstr ""
+msgstr "O Projecto Atlas Herpetológico do Missouri (MOHAP) foi iniciado em 1997 como resultado do desejo de obter e actualizar facilmente os mapas de distribuição pormenorizados para Missouri (Estados Unidos da América), de anfíbios e répteis. Uma base de dados foi criado para armazenar todas as localidades válidas, incluindo registos publicados em fontes bibliográficas históricas e espécimes referenciadas nos museus. A partir da base de dados, uma série de mapas podem ser produzidos representando ambos os registos de localidade e \"registos do condado\" para cada espécie."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:10
 msgid ""
@@ -43,7 +44,7 @@ msgid ""
 "Reptiles for 2011. <http://atlas.moherp.org/pubs/atlas11.pdf>).  Published "
 "maps are used by field biologists, land managers, and others to better "
 "understand species' distributions in Missouri."
-msgstr ""
+msgstr "MOHAP hospeda um site na http://atlas.moherp.org/ que descreve o projecto em detalhe e apresenta uma variedade de mapas estáticos, todos produzidos pelo QGIS. Está um atlas, publicado em formato PDF para transferência, é lançado periodicamente como uma publicação grátis tendo em conta o espírito do acesso aberto à investigação científica (Daniel, RE e BS Edmond. 2012. Atlas do Missouri de Anfíbios e Répteis para 2011. <http://atlas.moherp.org/pubs/atlas11.pdf>). Os mapas publicados são usados ​​por biólogos de campo, proprietários, e outros para entender melhor as distribuições das espécies no Missouri."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:12
 msgid ""
@@ -52,11 +53,11 @@ msgid ""
 "historical literature sources; 5,118 documented county records; 6,884 unique"
 " localities; and 12,866 unique species / locality combinations. The state's "
 "herpetofauna consists of 113 species."
-msgstr ""
+msgstr "Em Fevereiro de 2013, a base de dados MOHAP continha 31.495 entradas representadas por espécimes armazenados em 34 colecções de museus e citado em 32 fontes históricas da literatura; 5118 registos documentados do condado; 6.884 localidades únicas, e 12.866 espécies / combinações de localidade . A herpetofauna do estado é composta por 113 espécies."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:15
 msgid "Generate and Export Static Maps"
-msgstr ""
+msgstr "Gerar e Exportar Mapas Estáticos"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:17
 msgid ""
@@ -65,13 +66,13 @@ msgid ""
 "and ultimately destined for either the web or a printed atlas, they are "
 "generated automatically for each species using a custom QGIS Python plugin "
 "(Figures 1,2)."
-msgstr ""
+msgstr "O processo de criação de mapas com QGIS começa com dados armazenados em várias tabelas do PostgreSQL, habilitadas espacialmente com PostGIS. Porque os mapas são estáticos e finalmente destinados tanto para a web ou um atlas impresso, estes são gerados automaticamente para cada espécie, utilizando um módulo QGIS Python personalizado (Figuras 1,2)."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:24
 msgid ""
 "Custom map generation and export user interface, maps are generated and "
 "exported in a batch process."
-msgstr ""
+msgstr "Geração de mapa personalizado e a interface de exportação, os mapas são gerados e exportados num processo em conjunto de exportação."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:26
 msgid ""
@@ -80,19 +81,19 @@ msgid ""
 "created and labelled (Figure 4). Because of the way styles are managed "
 "within each data layer, the base map layers can also be incorporated into a "
 "set of species maps with little extra effort."
-msgstr ""
+msgstr "O mapa finas de espécies tinha uma aparência limpa e profissional (Figura 3). Para compreender as distribuições de espécies, foram criados e rotulados uma série de mapas base (Figura 4). Devido à maneira como geridos os estilos dos dados dentro de cada camada, as camadas do mapa de base podem também ser incorporado num conjunto de mapas espécies com pequeno esforço extra."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:33
 msgid "Maps are displayed as static images."
-msgstr ""
+msgstr "Os mapas são dispostos em imagens estáticas."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:40
 msgid "Labelled Level III Ecoregion map for Missouri and surrounding states."
-msgstr ""
+msgstr "Nível de rotulagem III Mapa de Eco-região para o Missouri e Estados limitrofes"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:43
 msgid "Conclusions"
-msgstr ""
+msgstr "Conclusões"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:45
 msgid ""
@@ -110,15 +111,15 @@ msgid ""
 "and ready to use. Although we use QGIS in a small and specific way, its "
 "capabilities and extensibility using Python is more than sufficient to "
 "tackle larger and more complex projects."
-msgstr ""
+msgstr "No início do projecto MOHAP, várias ferramentas comerciais e proprietárias foram usadas ​​para armazenar e processar dados e produzir mapas para publicação. A partir de 2007, começámos a mover todos os aspectos do projecto para software de código aberto. O QGIS, junto com PHP, PostgreSQL, PostGIS, Python, e ReportLab, formam o eixo de código aberto para MOHAP, permitindo efectivamente que o projecto e todos os dados existirem livrea de embaraços de software proprietário. O QGIS contém suporte nativo para o PostGIS e uma arquitectura de módulos Python, que foram fundamentais na criação do mapa geração automatizada e exportação. A documentação da API extensa foi utilizada juntamente com o livro de programador de módulos para criar exactamente o que precisávamos para a automatização. O apoio da comunidade também é muito bom e inclui uma grande variedade de módulos construídos  e compartilhados prontos para usar. Apesar de usarmos o QGIS numa pequena forma e específica, as suas capacidades e extensibilidade usando Python é mais do que suficiente para lidar com projectos maiores e mais complexos."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:50
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:57
 msgid "Brian Edmond"
-msgstr ""
+msgstr "Brian Edmond"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:59
 msgid ""
@@ -126,4 +127,4 @@ msgid ""
 "Senior Systems Analyst in Computer Services at Missouri State University.  "
 "He holds a BS in Wildlife Biology from the University of Missouri and has "
 "spent his career in the intergrade zone between biology and technology."
-msgstr ""
+msgstr "Este artigo foi contribuído pelo Brian Edmond em Fevereiro de 2013. Ele é Analista Sénior de Sistemas em Serviços Computacionais na Universidade do Estado do Missouri. Ele possui uma licenciatura em Biologia de Vida Selvagem da Universidade do Missouri e investiu a sua carreira na zona integrada entre a biologia e tecnologia."

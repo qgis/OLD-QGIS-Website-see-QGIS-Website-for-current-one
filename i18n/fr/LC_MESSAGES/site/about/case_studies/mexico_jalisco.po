@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-18 20:21+0000\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-09-19 12:23+0000\n"
 "Last-Translator: RobinP <robin@georezo.net>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -65,11 +65,11 @@ msgid ""
 "free applications don’t work with OGC standards, specially with WFS. After "
 "exploring many geographic information systems, I realized that QGIS was the "
 "only one which can connect to WMS, WCS and WFS successfully."
-msgstr ""
+msgstr "J'ai décidé d'utiliser MapServer et Postgre SQL avec l'extension PostGIS afin de pouvoir diffuser de l'imagerie satellite, des orthophotos, nos modèles numériques d'altimétrie, ainsi que des informations vecteur via des flux WMS dans le but de permettre à toute application de pouvoir utiliser nos services. Le problème est que de nombreuses applications gratuites et commerciales ne fonctionnent pas avec les standards OGC et en particulier avec le WFS. Après avoir testé de nombreux systèmes d'information géographiques, j'ai réalisé que QGIS était le seul qui puisse se connecter sans problème aux flux WMS, WCS et WFS."
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:33
 msgid "What we use QGIS for"
-msgstr ""
+msgstr "Notre utilisation de QGIS"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:35
 msgid ""
@@ -78,11 +78,11 @@ msgid ""
 "the Web services that we’ve created. Also, we have done many spatial "
 "analysis with QGIS pulling the data directly from our PostgreSQL spatial "
 "database, then, we export the results as shape files."
-msgstr ""
+msgstr "En interne, QGIS permet de vérifier les données vecteur et raster des agences avant de les publier. Après leur intégration, nous l'utilisons à nouveau pour tester les services web que l'on a créé. Nous avons également réalisé de nombreuses analyses spatiales avec QGIS en faisant des extractions directes de notre base spatiale PostgreSQL, puis en exportant les résultats sous forme de fichiers shapefile."
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:42
 msgid "Connecting to the Spatial Data Infrastructure with WFS"
-msgstr ""
+msgstr "Connexion à l'Infrastructure de Données Spatiales via un flux WFS"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:44
 msgid ""
@@ -91,11 +91,11 @@ msgid ""
 " supports OGC standards and has many interesting features like geoprocessing"
 " tools, which allow them to make analysis of their interest, and all this "
 "absolutely for free."
-msgstr ""
+msgstr "Nous encourageons les utilisateurs à télécharger QGIS et à faire le lien directement avec le Système d'Informations Territorial d'Etat en Ligne, principalement dû au fait que les standards OGC sont pleinement pris en charge et que QGIS dispose de nombreux outils de géo-traitement, ce qui leur permet de faire les analyses dont ils ont besoin, et ce gratuitement. "
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:47
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusion"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:49
 msgid ""
@@ -104,19 +104,19 @@ msgid ""
 "say that working with open source in all of our system’s cycle, has been "
 "satisfactory and trustworthy, the best choice that we have found to share "
 "our geographic information."
-msgstr ""
+msgstr "Ce projet considéré comme un composant technologique d'une Infrastructure de Données Spatiales a été considéré comme une étude de cas pour PostGIS, et je dois avouer que de travailler avec l'open source au sein du cycle de notre système a été satisfaisant et sécurisant, notre meilleur choix pour partager nos informations géographiques."
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:52
 msgid "Author"
-msgstr ""
+msgstr "Auteur"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:59
 msgid "Carlos Ruiz"
-msgstr ""
+msgstr "Carlos Ruiz"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:61
 msgid ""
 "This article was contributed in July 2010 by IC Carlos Ruiz. He works as "
 "project's coordinator at the Instituto de Información Territorial del Estado"
 " de Jalisco, Mexico."
-msgstr ""
+msgstr "Cet article a été soumis en juillet 2010 par Carlos Ruiz. Il travaille comme chef de projet à l'Institut de l'Information Territoriale d'Etat de Jalisco à Mexico"

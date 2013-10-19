@@ -1,12 +1,14 @@
 # 
 # Translators:
+# BJ Jang <qgis.tr.kr@gmail.com>, 2013
+# endofcap <endofcap@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-19 16:04+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-09-25 18:58+0000\n"
+"Last-Translator: endofcap <endofcap@gmail.com>\n"
 "Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/qgis-website/language/ko_KR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,11 +18,11 @@ msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:4
 msgid "Translate QGIS into your Language"
-msgstr ""
+msgstr "당신의 언어로 QGIS를 번역하십시오"
 
 #: ../../source/site/getinvolved/translate.rst:9
 msgid "Application (GUI)"
-msgstr ""
+msgstr "어플리케이션 (GUI)"
 
 #: ../../source/site/getinvolved/translate.rst:11
 msgid ""
@@ -28,7 +30,7 @@ msgid ""
 ":ref:`Translation team lead <gui-translation>`. Have a look at the "
 ":ref:`QGIS Governance <gui-translation>` to find out who is in charge of "
 "guiding you."
-msgstr ""
+msgstr "사용자 인터페이스(GUI) 번역은 :ref:`Translation team lead <gui-translation>`에 의해 관리되고 있습니다. :ref:`QGIS Governance <gui-translation>`를 살펴봄으로써 누가 당신의 길잡이인지 알 수 있습니다. "
 
 #: ../../source/site/getinvolved/translate.rst:16
 msgid ""
@@ -36,7 +38,7 @@ msgid ""
 "is currently working on your language you have to take a look in the "
 ":menuselection:`Help -> About -> Translators` Box in the QGIS Desktop "
 "Application."
-msgstr ""
+msgstr "만약 당신의 언어가 QGIS에 이미 있는지 혹은 누가 현재 당신의 언어에 대해 작업하고 있는지 알고 싶다면, QGIS 데스크탑 응용프로그램의 :menuselection:`Help -> About -> Translators`상자를 살펴 보십시오. "
 
 #: ../../source/site/getinvolved/translate.rst:21
 msgid ""
@@ -45,11 +47,11 @@ msgid ""
 "the current percentage of translation you will either have to install the "
 "nightly build of QGIS or checkout the source code of QGIS and start "
 "translating there."
-msgstr ""
+msgstr "당신은 또한 그곳에서 번역 진행 상황을 살펴볼 수도 있습니다.(다만 모든 \"안정적\" 버젼은 항상 번역 진행 상황이 특정한 레벨에 멈춰 있음을 기억하십시오. 현재 번역 진행율을 살펴보기 위해서 나이틀리 빌드 QGIS를 설치하시거나 혹은 QGIS의 소스 코드를 확인하신 뒤 거기서부터 번역을 시작하면 됩니다."
 
 #: ../../source/site/getinvolved/translate.rst:30
 msgid "Translators Mailing list"
-msgstr ""
+msgstr "번역자 메일링 리스트"
 
 #: ../../source/site/getinvolved/translate.rst:32
 msgid ""
@@ -58,37 +60,37 @@ msgid ""
 "questions, please contact the Translation Team Leader (see :ref:`Organigram "
 "<gui-translation>`) or subscribe with the `qgis-community-team "
 "<http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_ mailing list."
-msgstr ""
+msgstr "현재 존재하는 언어에 기여할 계획이 있거나 혹은 QGIS GUI를 현재 존재하지 않는 언어로 번역하고 싶고 번역과 관련된 질문이 있을 경우, 번역 팀 리더( :ref:`Organigram <gui-translation>` 참조) 와 접촉하거나 `qgis-community-team <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`메일링 리스트를 구독하십시오. "
 
 #: ../../source/site/getinvolved/translate.rst:39
 msgid ""
 "After subscribing to the mailing list you are able to send a mail directly "
 "to qgis-tr@lists.osgeo.org asking for help."
-msgstr ""
+msgstr "메일링 리스트를 구독한 뒤에 당신은 qgis-tr@lists.osgeo.org 로 직접 도움 요청 메일을 보낼 수 있습니다. "
 
 #: ../../source/site/getinvolved/translate.rst:42
 msgid ""
 "We strongly encourage anyone dealing with translations to join this list and"
 " promise that it is usually a very low traffic mailing list."
-msgstr ""
+msgstr "우리는 번역 작업을 수행하는 누구나 본 메일링 리스트에 합류하기를 권장하며, 해당 메일링 리스트는 매우 저수준 트래픽 메일링 리스트임을 약속합니다."
 
 #: ../../source/site/getinvolved/translate.rst:46
 msgid "Becoming a translator"
-msgstr ""
+msgstr "번역자 되기"
 
 #: ../../source/site/getinvolved/translate.rst:48
 msgid ""
 "The QGIS project is always looking for people who are willing to invest some"
 " more time translating QGIS into a foreign language - even perhaps to "
 "coordinate the translation effort."
-msgstr ""
+msgstr "QGIS 프로젝트는 항상 QGIS를 다른 언어로 번역하는데 시간을 투자할 사람 - 혹은 번역 작업을 조율할 사람 - 을 찾고 있습니다."
 
 #: ../../source/site/getinvolved/translate.rst:52
 msgid ""
 "We are trying to improve our project management process and spread the load "
 "more evenly between people who each have a specific area of responsibility, "
 "so any contribution you have to make will be greatly appreciated."
-msgstr ""
+msgstr "우리는 프로젝트 관리 과정을 개선하고 여러 부담을 특정 영역을 책임지는 사람들에게 균등하게 배분하려 노력 중입니다. 따라서 당신의 어떠한 노력도 높게 인정 받을 것입니다."
 
 #: ../../source/site/getinvolved/translate.rst:56
 msgid ""
@@ -96,46 +98,46 @@ msgid ""
 "please go ahead. If more than one person nominates themselves as coordinator"
 " for the same language, please contact each other and resolve how you will "
 "manage your efforts."
-msgstr ""
+msgstr "만약 당신이 새로운 언어 번역 조정자 역할을 하고 싶으시다면 그렇게 하십시오. 만약 같은 언어에 대해 한 명 이상의 사람이  번역 조정자 역할을 하고자 한다면 서로 접촉해서 어떻게 당신들의 노력을 관리할 것인지에 대해 논의하고 해결해 주십시오. "
 
 #: ../../source/site/getinvolved/translate.rst:62
 msgid ""
 "Please :ref:`contact <community-resources>` the Community Assistant or the "
 "GUI translation team leader to see you name entered in the about Box of "
 "QGIS."
-msgstr ""
+msgstr "커뮤니티 지원자  :ref:`contact <community-resources>`  나 GUI 번역팀 책임자와 접촉하여 당신의 이름이 QGIS의 정보 상자에 나오게 하십시오."
 
 #: ../../source/site/getinvolved/translate.rst:66
 msgid "Helping with an existing translation"
-msgstr ""
+msgstr "존재하는 번역 돕기"
 
 #: ../../source/site/getinvolved/translate.rst:68
 msgid ""
 "If you like to help translating QGIS into a your language please assign to "
 "the :ref:`translators mailing list <mailinglist-translation>` and ask who is"
 " already working on that language to coordinate and collaborate."
-msgstr ""
+msgstr "QGIS를 당신의 언어로 번역하기를 원하면, :ref:`번역자 메일링 리스트<mailinglist-translation>`에 가입한 뒤, 번역 작업의 조정과 협력을 위해 누가 해당 언어 번역 작업을 진행하는지 물어보십시오. "
 
 #: ../../source/site/getinvolved/translate.rst:72
 msgid ""
 "To start QGIS with the appropriate localization, run qgis with the option "
 "--lang=<language code> or change localization in QGIS under "
 ":menuselection:`Settings -> Options -> Locale`."
-msgstr ""
+msgstr "적절한 지역언어에 맞게 QGIS를 실행하려면, QGIS를 option --lang=<language code> 과 같이 실행하거나 QGIS의  :menuselection:`Settings -> Options -> Locale`을 지역언어에 맞도록 변경하십시오. "
 
 #: ../../source/site/getinvolved/translate.rst:79
 msgid "HOWTO translate GUI"
-msgstr ""
+msgstr "GUI 번역 방법"
 
 #: ../../source/site/getinvolved/translate.rst:81
 msgid ""
 "There are different \"levels\" for you in the way you'd like to contribute. "
 "Following steps are necessary to help translating QGIS user interface."
-msgstr ""
+msgstr "당신이 기여할 수 있는 다양한 \"수준\"이 있습니다. 다음 단계는 QGIS 사용자 인터페이스 번역에 필수적인 내용입니다."
 
 #: ../../source/site/getinvolved/translate.rst:85
 msgid "Get the translatable file"
-msgstr ""
+msgstr "번역가능한 파일 얻기"
 
 #: ../../source/site/getinvolved/translate.rst:87
 msgid ""
@@ -143,34 +145,34 @@ msgid ""
 "<https://github.com/qgis/Quantum-GIS/tree/master/i18n/>`_ (look for your "
 "language code which is added at the end of the files: qgis_* .ts, where * is"
 " your language code)."
-msgstr ""
+msgstr "대개는 .ts 파일을 `github 저장소 <https://github.com/qgis/Quantum-GIS/tree/master/i18n/>`에서 내려받는 것으로 충분합니다. (qgis_*.ts에서 당신의 언어 코드를 찾으십시오. *이 당신의 언어 코드입니다.)"
 
 #: ../../source/site/getinvolved/translate.rst:92
 msgid ""
 "If you click on your language a RAW Button will appear on the top right "
 "corner of that window where you can download your language file."
-msgstr ""
+msgstr "당신의 언어를 클릭하면 Raw 버튼이 윈도우 우상단 모서리에 나타나며 거기에서 당신의 언어 파일을 내려받을 수 있습니다."
 
 #: ../../source/site/getinvolved/translate.rst:96
 msgid "Work on the translatable file"
-msgstr ""
+msgstr "번역가능한 파일 작업하기"
 
 #: ../../source/site/getinvolved/translate.rst:98
 msgid ""
 "For now it is recommended to use Qt-Linguist for working on the translatable"
 " file. You can download and install that program (depending on your "
 "operating system) from:"
-msgstr ""
+msgstr "현재, Qt-Linguist를 이용하여 번역가능한 파일을 작업하기를 권장합니다. 해당 프로그램은 다음(운영체제마다 다릅니다.)에서 다운로드와 설치가 가능합니다:"
 
 #: ../../source/site/getinvolved/translate.rst:103
 msgid "http://qt-apps.org/content/show.php/Qt+Linguist+Download?content=89360"
-msgstr ""
+msgstr "http://qt-apps.org/content/show.php/Qt+Linguist+Download?content=89360"
 
 #: ../../source/site/getinvolved/translate.rst:105
 msgid ""
 "For the different Linux distributions you should find a package called \"qt4"
 "-dev-tools\" or similar."
-msgstr ""
+msgstr "여러 리눅스 배포판을 위해서는 \"qt4-dev-tools\" 혹은 이와 유사한 이름의 패키지를 찾으셔야 합니다. "
 
 #: ../../source/site/getinvolved/translate.rst:108
 msgid ""
@@ -179,7 +181,7 @@ msgid ""
 "menu and save it as a .qm version of the translation. Afterwards you only "
 "have to copy this .qm file to the correct folder within your QGIS "
 "installation to see your translation in action."
-msgstr ""
+msgstr "당신은 컴파일된 번역 파일을 당신의 번역으로부터 생성할 수 있으며, 이는 Linguist의 :menuselection:`File -> Release (As)`로 가서 번역을 .qm 번역 버전으로 저장하면 됩니다. 이후 .qm 파일을 정확한 QGIS 설치 폴더에 넣어서 당신의 번역이 작동함을 확인하면 됩니다."
 
 #: ../../source/site/getinvolved/translate.rst:114
 msgid ""
@@ -187,24 +189,24 @@ msgid ""
 ":ref:`current translations team leader <governance>` to have it committed to"
 " the source code repository. At this place we'd like to encourage you to "
 "follow the \"release often\" principe of open source."
-msgstr ""
+msgstr "번역을 마친 뒤에 .ts 파일을 :ref:`현재 번역팀 책임자  <governance>`에게 보내어 소스 코드 저장소에 반영되도록 할 수 있습니다. 이 시점에서 우리는 당신이 오픈 소스의 '자주 출시' 원칙을 따르기를 권장합니다. "
 
 #: ../../source/site/getinvolved/translate.rst:119
 msgid ""
 "An advanced level of helping with the translations would be to checkout the "
 "source code and create pull requests for the language file on github."
-msgstr ""
+msgstr "번역 작업에 대한 고급 수준의 도움은 소스 코드를 확인하고 github에서 해당 언어에 대한 pull request를 요청하는 것일 겁니다. "
 
 #: ../../source/site/getinvolved/translate.rst:122
 msgid ""
 "Working with github and checking out the source code is explained in the "
 ":ref:`Developer Section <reference-missing>'"
-msgstr ""
+msgstr "github에서 작업하고 소스 코드를 확인하는 방법은 :ref:`개발자 부분 <reference-missing>'에 설명되어 있습니다."
 
 #: ../../source/site/getinvolved/translate.rst:126
 msgid "Documentation"
-msgstr ""
+msgstr "문서"
 
 #: ../../source/site/getinvolved/translate.rst:129
 msgid "Website"
-msgstr ""
+msgstr "웹사이트"

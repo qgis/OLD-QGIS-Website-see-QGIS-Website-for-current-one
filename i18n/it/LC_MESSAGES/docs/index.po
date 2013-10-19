@@ -1,11 +1,12 @@
 # 
 # Translators:
+# ilcontegis <matteo.gismondi@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-17 14:49+0000\n"
+"PO-Revision-Date: 2013-10-13 18:57+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -16,33 +17,54 @@ msgstr ""
 
 #: ../../source/docs/index.rst:8
 msgid "Documentation"
-msgstr ""
+msgstr "Documentazione"
 
 #: ../../source/docs/index.rst:11
 msgid ""
 "QGIS has a lot of documentation, partly translated. Please have a look into "
 "one of the documents below."
-msgstr ""
+msgstr "QGIS ha un sacco di documentazione, in parte tradotta. Dai uno sguardo ad uno dei documenti seguenti."
 
 #: ../../source/docs/index.rst:15
 msgid "Documentation for QGIS 2.0"
-msgstr ""
+msgstr "Documentazione per QGIS 2.0"
 
-#: ../../source/docs/index.rst:26
+#: ../../source/docs/index.rst:32
 msgid "Documentation for QGIS 1.8"
-msgstr ""
+msgstr "Documentazione per QGIS 1.8"
 
-#: ../../source/docs/index.rst:35
-msgid "Documentation for QGIS development/nightly"
-msgstr ""
-
-#: ../../source/docs/index.rst:37
-msgid "TBD"
-msgstr ""
-
-#: ../../source/docs/index.rst:40
+#: ../../source/docs/index.rst:27
 msgid ""
 "If you do not see working links to documentation above, it means that this "
 "documentation build did not copy the documentation sources into the website "
-"sources. See ..."
+"sources. You can also go to http://docs.qgis.org/2.0"
 msgstr ""
+
+#: ../../source/docs/index.rst:34
+msgid ""
+"We keep a copy of the documentation of QGIS 1.8 around here: "
+"http://docs.qgis.org/1.8"
+msgstr ""
+
+#: ../../source/docs/index.rst:47
+msgid "Documentation for QGIS testing"
+msgstr ""
+
+#: ../../source/docs/index.rst:49
+msgid ""
+"Although not translated we also build the documentation for the release QGIS"
+" which is currently developed. We call this version 'QGIS testing' and "
+"documentation can be found here: http://docs.qgis.org/testing"
+msgstr ""
+
+#~ msgid "Documentation for QGIS development/nightly"
+#~ msgstr ""
+
+#~ msgid "TBD"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you do not see working links to documentation above, it means that this "
+#~ "documentation build did not copy the documentation sources into the website "
+#~ "sources. See ..."
+#~ msgstr ""

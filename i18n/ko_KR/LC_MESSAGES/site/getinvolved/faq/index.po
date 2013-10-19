@@ -1,12 +1,14 @@
 # 
 # Translators:
+# BJ Jang <qgis.tr.kr@gmail.com>, 2013
+# Sean Moon <softmsh@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-19 16:04+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-09-25 13:36+0000\n"
+"Last-Translator: BJ Jang <qgis.tr.kr@gmail.com>\n"
 "Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/qgis-website/language/ko_KR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,25 +18,25 @@ msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:3
 msgid "FAQ"
-msgstr ""
+msgstr "자주 묻는 질문"
 
 #: ../../source/site/getinvolved/faq/index.rst:5
 msgid "Here we collect answers to question which come up very often."
-msgstr ""
+msgstr "여기에 자주 발생하는 질문에 대한 답변을 모았습니다."
 
 #: ../../source/site/getinvolved/faq/index.rst:7
 msgid ""
 "We will start of with this one page, maybe restructure it into sections, or "
 "even more pages if needed"
-msgstr ""
+msgstr "지금은 이 한 페이지로 시작하지만, 아마도 섹션을 가지게 되거나 필요하면 페이지가 많아질 것입니다."
 
 #: ../../source/site/getinvolved/faq/index.rst:12
 msgid "User"
-msgstr ""
+msgstr "사용자"
 
 #: ../../source/site/getinvolved/faq/index.rst:18
-msgid "Why is QGIS 2.0 named 'Dufour'"
-msgstr ""
+msgid "Why is QGIS 2.0 named 'Dufour'?"
+msgstr "왜 QGIS 2.0 을 'Dufour'라고 이름을 붙였나요?"
 
 #: ../../source/site/getinvolved/faq/index.rst:20
 msgid ""
@@ -47,69 +49,69 @@ msgid ""
 ".pixelkarte-farbe&layers=ch.swisstopo.hiks-"
 "dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_"
 " in Switzerland."
-msgstr ""
+msgstr "취리히(스위스)에서의 성공적인 개발자 모임 후, 우리는 이에 관해서 다음 배포판에 언급하기로 결정했습니다. `General Guillaume-Henri Dufour <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_는 유명하고 영향력 있는 스위스인 지도 제작자입니다. 더욱이 Dufourspitze는 스위스의 `최고봉 <http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.hiks-dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_입니다."
 
 #: ../../source/site/getinvolved/faq/index.rst:28
 msgid "QGIS error on your machine. How to ask a question?"
-msgstr ""
+msgstr "QGIS에서 오류가 발생했습니다. 어떻게 질문해야 합니까?"
 
 #: ../../source/site/getinvolved/faq/index.rst:30
 msgid "Please provide the following information:"
-msgstr ""
+msgstr "다음 정보를 제공해 주시기 바랍니다:"
 
 #: ../../source/site/getinvolved/faq/index.rst:32
 msgid "preferably a descriptive title for your email"
-msgstr ""
+msgstr "당신의 이메일을 위한 명확한 설명된 제목"
 
 #: ../../source/site/getinvolved/faq/index.rst:33
 msgid "which Operating System and version"
-msgstr ""
+msgstr "운영체제와 버전"
 
 #: ../../source/site/getinvolved/faq/index.rst:34
-msgid "which QGIS version (exact)"
-msgstr ""
+msgid "which QGIS version you used at that moment (exact)"
+msgstr "그 순간 어떤 QGIS 버전을 사용했는지 (정확히)"
 
 #: ../../source/site/getinvolved/faq/index.rst:35
-msgid "how you installed it (osgeo4w? msi-installer? own build?)"
-msgstr ""
+msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
+msgstr "어떻게 설치했는지 (osgeo4w? 독자 설치버전? 스스로 빌드?)"
 
 #: ../../source/site/getinvolved/faq/index.rst:36
 msgid ""
 "at what time did it break (reinstall, new install, system update, project??)"
-msgstr ""
+msgstr "언제 문제가 발생했는지 (재설치, 신규 설치, 시스템 업데이트, 프로젝트??)"
 
 #: ../../source/site/getinvolved/faq/index.rst:37
 msgid ""
 "what exactly is the error (not sure in the above if you mean that \"python "
 "error' is the error, or you mean there is a python error which you did not "
 "write in you email"
-msgstr ""
+msgstr "오류가 정확히 무엇인지 (위의 경우 \"python error'가 오류인지, 아니면 이메일에 쓰지 않은 파이썬 오류인지 명확하지 않음"
 
 #: ../../source/site/getinvolved/faq/index.rst:39
 msgid ""
 "Without this info, it is very hard to answer for anybody. Or, taking just "
 "too much time because the answer will be a question to you etc etc."
-msgstr ""
+msgstr "이런 정보가 없으면, 누구도 답해주기 힘듭니다. 혹은 답변을 위해 당신에게 또 질문하고 질만해야 하기에 시간이 너무 많이 듭니다."
 
 #: ../../source/site/getinvolved/faq/index.rst:43
 msgid "Development"
-msgstr ""
+msgstr "개발"
 
 #: ../../source/site/getinvolved/faq/index.rst:46
 msgid "Can I compile QGIS myself on Windows?"
-msgstr ""
+msgstr "윈도우즈 환경에서 QGIS 자체적으로 컴파일 할 수 있나요?"
 
 #: ../../source/site/getinvolved/faq/index.rst:48
 #: ../../source/site/getinvolved/faq/index.rst:54
 #: ../../source/site/getinvolved/faq/index.rst:60
 msgid ""
 "Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
-msgstr ""
+msgstr "네, 이곳을 읽어보세요: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 
 #: ../../source/site/getinvolved/faq/index.rst:52
 msgid "Can I compile QGIS myself on MacOS?"
-msgstr ""
+msgstr "MacOS 에서 QGIS 자체를 컴파일 할 수 있나요?"
 
 #: ../../source/site/getinvolved/faq/index.rst:58
 msgid "Can I compile QGIS myself on Linux?"
-msgstr ""
+msgstr "리눅스 환경에서 QGIS 자체를 컴파일 할 수 있나요?"

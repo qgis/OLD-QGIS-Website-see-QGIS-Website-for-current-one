@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
 "PO-Revision-Date: 2013-09-24 13:48+0000\n"
 "Last-Translator: jonny_forest <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
@@ -19,11 +19,54 @@ msgstr ""
 msgid "QGIS Screenshots"
 msgstr "Capturas de ecrã QGIS"
 
+#: ../../source/site/about/screenshots.rst:7
+msgid ""
+"Below are some screenshots from QGIS itself, and some of Maps which are "
+"created with QGIS:"
+msgstr "Em baixo estão algumas capturas de ecrã do próprio QGIS, e alguns Mapas que foram criados com QGIS:"
+
+#: ../../source/site/about/screenshots.rst:11
+msgid "Screenshots of QGIS"
+msgstr "Capturas de Ecrã do QGIS"
+
 #: ../../source/site/about/screenshots.rst:13
 msgid ""
 "These screenshots from the `QGIS screenshots - Flickr Group "
 "<http://www.flickr.com/groups/qgis-screenshots/>`_."
 msgstr "Estas capturas de ecrã de `Capturas de ecrã QGIS - Grupo Flickr <http://www.flickr.com/groups/qgis-screenshots/>`_."
+
+#: ../../source/site/about/screenshots.rst:18
+msgid ""
+":raw-html:`<a href=\"http://www.flickr.com/photos/madmanwoo/9693517656/\" "
+"title=\"QGIS by Nathan Woodrow, on Flickr\"><img "
+"src=\"http://farm3.staticflickr.com/2840/9693517656_d66efd5a87.jpg\" "
+"width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/madmanwoo/9693517656/\" title=\"QGIS por Nathan Woodrow, no Flickr\"><img src=\"http://farm3.staticflickr.com/2840/9693517656_d66efd5a87.jpg\" width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
+
+#: ../../source/site/about/screenshots.rst:20
+msgid ""
+":raw-html:`<a href=\"http://www.flickr.com/photos/44112305@N06/9764004532/\""
+" title=\"QGIS by Martin.Jung, on Flickr\"><img "
+"src=\"http://farm6.staticflickr.com/5546/9764004532_674437b5a9.jpg\" "
+"width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/44112305@N06/9764004532/\" title=\"QGIS por Martin.Jung, no Flickr\"><img src=\"http://farm6.staticflickr.com/5546/9764004532_674437b5a9.jpg\" width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
+
+#: ../../source/site/about/screenshots.rst:22
+msgid ""
+":raw-html:`<a href=\"http://www.flickr.com/photos/88715463@N05/9790893953/\""
+" title=\"QGIS on android by mbernasocchi, on Flickr\"><img "
+"src=\"http://farm3.staticflickr.com/2825/9790893953_0fcfe14d43.jpg\" "
+"width=\"500\" height=\"313\" alt=\"QGIS on android\"></a>`"
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/88715463@N05/9790893953/\" title=\"QGIS no android por mbernasocchi, no Flickr\"><img src=\"http://farm3.staticflickr.com/2825/9790893953_0fcfe14d43.jpg\" width=\"500\" height=\"313\" alt=\"QGIS on android\"></a>`"
+
+#: ../../source/site/about/screenshots.rst:24
+msgid ""
+":raw-html:`<a href=\"http://www.flickr.com/photos/60284107@N00/9813100244/\""
+" title=\"QGIS Indic Script Support in Action by nIRV_, on Flickr\"><img "
+"src=\"http://farm6.staticflickr.com/5323/9813100244_bcb4feeb07.jpg\" "
+"width=\"500\" height=\"340\" alt=\"QGIS Indic Script Support in "
+"Action\"></a>`"
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/60284107@N00/9813100244/\" title=\"QGIS Roteiro Índico Suporte em Acção por nIRV_, no Flickr\"><img src=\"http://farm6.staticflickr.com/5323/9813100244_bcb4feeb07.jpg\" width=\"500\" height=\"340\" alt=\"QGIS Indic Script Support in Action\"></a>`"
 
 #: ../../source/site/about/screenshots.rst:27
 msgid "Maps created with QGIS"
@@ -98,61 +141,3 @@ msgid ""
 "width=\"500\" height=\"284\" alt=\"London, UK: mapping flickr tags to "
 "colours (draft)\"></a>`"
 msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/cvr70/5052588841/\" title=\"London, UK: mapping flickr tags to colours (draft) by TheVRChris, on Flickr\"><img src=\"http://farm5.staticflickr.com/4087/5052588841_eed5e63d66.jpg\" width=\"500\" height=\"284\" alt=\"London, UK: mapping flickr tags to colours (draft)\"></a>`"
-
-#: ../../source/site/about/screenshots.rst:7
-msgid ""
-"Below are some screenshots from QGIS itself, and some of Maps which are "
-"created with QGIS:"
-msgstr "Em baixo estão algumas capturas de ecrã do próprio QGIS, e alguns Mapas que foram criados com QGIS:"
-
-#: ../../source/site/about/screenshots.rst:11
-msgid "Screenshots of QGIS"
-msgstr "Capturas de Ecrã do QGIS"
-
-#: ../../source/site/about/screenshots.rst:18
-msgid ""
-":raw-html:`<a href=\"http://www.flickr.com/photos/madmanwoo/9693517656/\" "
-"title=\"QGIS by Nathan Woodrow, on Flickr\"><img "
-"src=\"http://farm3.staticflickr.com/2840/9693517656_d66efd5a87.jpg\" "
-"width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
-msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/madmanwoo/9693517656/\" title=\"QGIS por Nathan Woodrow, no Flickr\"><img src=\"http://farm3.staticflickr.com/2840/9693517656_d66efd5a87.jpg\" width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
-
-#: ../../source/site/about/screenshots.rst:20
-msgid ""
-":raw-html:`<a href=\"http://www.flickr.com/photos/44112305@N06/9764004532/\""
-" title=\"QGIS by Martin.Jung, on Flickr\"><img "
-"src=\"http://farm6.staticflickr.com/5546/9764004532_674437b5a9.jpg\" "
-"width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
-msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/44112305@N06/9764004532/\" title=\"QGIS por Martin.Jung, no Flickr\"><img src=\"http://farm6.staticflickr.com/5546/9764004532_674437b5a9.jpg\" width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
-
-#: ../../source/site/about/screenshots.rst:22
-msgid ""
-":raw-html:`<a href=\"http://www.flickr.com/photos/88715463@N05/9790893953/\""
-" title=\"QGIS on android by mbernasocchi, on Flickr\"><img "
-"src=\"http://farm3.staticflickr.com/2825/9790893953_0fcfe14d43.jpg\" "
-"width=\"500\" height=\"313\" alt=\"QGIS on android\"></a>`"
-msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/88715463@N05/9790893953/\" title=\"QGIS no android por mbernasocchi, no Flickr\"><img src=\"http://farm3.staticflickr.com/2825/9790893953_0fcfe14d43.jpg\" width=\"500\" height=\"313\" alt=\"QGIS on android\"></a>`"
-
-#: ../../source/site/about/screenshots.rst:24
-msgid ""
-":raw-html:`<a href=\"http://www.flickr.com/photos/60284107@N00/9813100244/\""
-" title=\"QGIS Indic Script Support in Action by nIRV_, on Flickr\"><img "
-"src=\"http://farm6.staticflickr.com/5323/9813100244_bcb4feeb07.jpg\" "
-"width=\"500\" height=\"340\" alt=\"QGIS Indic Script Support in "
-"Action\"></a>`"
-msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/60284107@N00/9813100244/\" title=\"QGIS Roteiro Índico Suporte em Acção por nIRV_, no Flickr\"><img src=\"http://farm6.staticflickr.com/5323/9813100244_bcb4feeb07.jpg\" width=\"500\" height=\"340\" alt=\"QGIS Indic Script Support in Action\"></a>`"
-
-#~ msgid ""
-#~ "Below are some screenshots from QGIS itself, ans dome of Maps which are "
-#~ "created with QGIS:"
-#~ msgstr ""
-
-#~ msgid "Screen shots of QGIS"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":raw-html:`<a href=\"http://www.flickr.com/photos/madmanwoo/9693517656/\" "
-#~ "title=\"qgis by Nathan Woodrow, on Flickr\"><img "
-#~ "src=\"http://farm3.staticflickr.com/2840/9693517656_d66efd5a87.jpg\" "
-#~ "width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
-#~ msgstr ""

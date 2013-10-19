@@ -1,0 +1,446 @@
+# 
+# Translators:
+# csorin <scalinica@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-15 18:33+0000\n"
+"Last-Translator: csorin <scalinica@gmail.com>\n"
+"Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: ../../source/site/forusers/alldownloads.rst:5
+msgid "QGIS Installers"
+msgstr "Pachete de instalare QGIS"
+
+#: ../../source/site/forusers/alldownloads.rst:7
+msgid "How to obtain QGIS?"
+msgstr "Cum puteți obține QGIS?"
+
+#: ../../source/site/forusers/alldownloads.rst:9
+msgid "QGIS is freely available on Windows, Linux, MacOS X, BSD, and Android."
+msgstr "QGIS este disponibil gratuit pentru Windows, Linux, MacOS X, BSD și Android."
+
+#: ../../source/site/forusers/alldownloads.rst:11
+msgid ""
+"QGIS testing versions are provided for some platforms in addition to the "
+"QGIS stable version. QGIS testing contains unreleased software that is "
+"currently being worked on. As such they are unsupported and only provided "
+"for testing purposes to early adopters to check if bugs have been resolved "
+"and that no new bugs have been introduced. At any given time it may not "
+"work, or may do bad things to your data. Use at your own risk. You have been"
+" warned!"
+msgstr "Versiunile de testare QGIS sunt elaborate pentru câteva platforme în plus față de versiunea QGIS stabilă. QGIS de testare conține software nelansat oficial, la care încă mai e de lucru. Ca atare, pentru aceste versiuni nu se asigură suport tehnic, ele fiind furnizate numai în scop de testare timpurie, pentru a se verifica dacă problemele au fost rezolvate și că nu au fost introduse noi erori. În orice moment ele ar putea să nu mai funcționeze sau afecteze într-un mod nedorit datele dumneavoastră. Utilizați-le pe propriul risc. Vi s-a adus la cunoștință!"
+
+#: ../../source/site/forusers/alldownloads.rst:14
+msgid "Windows"
+msgstr "Windows"
+
+#: ../../source/site/forusers/alldownloads.rst:16
+msgid ""
+"For Windows installers please go to `The main installers page "
+"<./download.html>`_."
+msgstr "Pentru instalarea pe Windows vă rog să mergeți la `Pagina principalelor kit-uri de instalare <./download.html>`_."
+
+#: ../../source/site/forusers/alldownloads.rst:18
+msgid "For new users we recommend the standalone installers."
+msgstr "Pentru noii utilizatori se recomandă kit-urile de instalare offline."
+
+#: ../../source/site/forusers/alldownloads.rst:20
+msgid ""
+"For more advanced QGIS users you can use the OSGeo4W package, which makes it"
+" possible to install both the latest stable version and/or the development "
+"(nightly) version (but not the warning above!)."
+msgstr "Utilizatorii QGIS avansați pot folosi pachetul OSGeo4W, cu ajutorul căreia pot instalara atât cea mai recentă versiune stabilă cât și compilației (nocturnă) de dezvoltare (dar țineți cont de avertizarea de mai sus!)."
+
+#: ../../source/site/forusers/alldownloads.rst:23
+msgid ""
+"The OSGeo4W repository contains a lot of software from OSGeo projects. QGIS "
+"and all dependencies are included, along with Python, GRASS, GDAL, etc. The "
+"installer is able to install from internet or just download all needed "
+"packages beforehand. The downloaded files are kept in a local directory for "
+"future installations. Steps are::"
+msgstr "Depozitul OSGeo4W conține o mulțime de software din proiectele OSGeo. QGIS și toate dependențele sunt incluse, alături de Python, GRASS, GDAL, etc. Aplicația permite efectuarea instalării direct de pe internet sau doar descărcarea prealabilă a tuturor pachetelor necesare. Fișierele descărcate sunt păstrate într-un director local, pentru instalarea ulterioară. Pașii necesari sunt ::"
+
+#: ../../source/site/forusers/alldownloads.rst:37
+msgid "Linux"
+msgstr "Linux"
+
+#: ../../source/site/forusers/alldownloads.rst:39
+msgid ""
+"Most linux distributions split QGIS into several packages; you'll probably "
+"need qgis and qgis-python (to run plugins). Packages like qgis-grass (or "
+"qgis-plugin-grass), qgis-mapserver can be skipped initially, or installed "
+"only when you need them."
+msgstr "Cele mai multe distribuții Linux împart QGIS în mai multe pachete; probabil veți avea nevoie de qgis și qgis-python (pentru a rula plugin-uri). Pachetele precum qgis-grass (sau qgis-plugin-grass), qgis-mapserver pot fi ignorate inițial, sau pot fi instalate numai atunci când aveți nevoie de ele."
+
+#: ../../source/site/forusers/alldownloads.rst:43
+msgid ""
+"Below you find instructions to install per distro. For most distro's there "
+"are instructions to install QGIS stable and instructions to install a "
+"cutting edge QGIS testing build (but mind the warning above!)."
+msgstr "In continuare veți găsi instrucțiuni pentru instalarea specifică fiecărei distribuții. Majoritatea distribuțiilor dispun de instrucțiuni de instalare atât pentru QGIS stabil cât și pentru un QGIS de ultimă oră pentru testare (dar luați în seamă avertismentul de mai sus!)."
+
+#: ../../source/site/forusers/alldownloads.rst:48
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: ../../source/site/forusers/alldownloads.rst:50
+msgid ""
+"Default Ubuntu software repositories often hold older versions of QGIS."
+msgstr "Depozitele software implicite ale Ubuntu, adesea, conțin versiuni mai vechi ale QGIS."
+
+#: ../../source/site/forusers/alldownloads.rst:52
+msgid ""
+"To have newer versions, you have to add alternative software repositories, "
+"by adding one of the deb-lines below to your /etc/apt/sources.list file. Or "
+"add these repositories via your favourite Ubuntu software installation GUI."
+msgstr "Pentru a obține versiunile noi, trebuie să apelați la depozite software alternative, prin adăugarea uneia din liniile deb, de mai jos, în fișierul /etc/apt/sources.list. Sau, puteți adăuga aceste depozite prin intefața grafică a aplicației de instalare pe care o preferați în Ubuntu."
+
+#: ../../source/site/forusers/alldownloads.rst:56
+msgid "Then type::"
+msgstr "Apoi, tastați::"
+
+#: ../../source/site/forusers/alldownloads.rst:61
+msgid ""
+"If you want the GRASS plugin make sure to install the optional package::"
+msgstr "Dacă doriți plugin-ul GRASS, asigurați-vă că veți instala pachetul opțional::"
+
+#: ../../source/site/forusers/alldownloads.rst:66
+msgid ""
+"In case of keyserver errors. To add the the qgis.org repository public key "
+"to your apt keyring, type::"
+msgstr "În caz de erori ale serverului de chei. Pentru a adăuga cheia publică a depozitului qgis.org la inelul de chei apt, tastați ::"
+
+#: ../../source/site/forusers/alldownloads.rst:73
+#: ../../source/site/forusers/alldownloads.rst:174
+#: ../../source/site/forusers/alldownloads.rst:241
+#: ../../source/site/forusers/alldownloads.rst:272
+#: ../../source/site/forusers/alldownloads.rst:299
+#: ../../source/site/forusers/alldownloads.rst:331
+#: ../../source/site/forusers/alldownloads.rst:344
+msgid "QGIS stable"
+msgstr "QGIS stabil"
+
+#: ../../source/site/forusers/alldownloads.rst:76
+#: ../../source/site/forusers/alldownloads.rst:124
+msgid "On plain Ubuntu:"
+msgstr "Pe Ubuntu simplu:"
+
+#: ../../source/site/forusers/alldownloads.rst:78
+msgid "Saucy::"
+msgstr "Saucy::"
+
+#: ../../source/site/forusers/alldownloads.rst:83
+#: ../../source/site/forusers/alldownloads.rst:145
+msgid "Raring::"
+msgstr "Raring::"
+
+#: ../../source/site/forusers/alldownloads.rst:88
+#: ../../source/site/forusers/alldownloads.rst:128
+#: ../../source/site/forusers/alldownloads.rst:151
+msgid "Quantal::"
+msgstr "Quantal::"
+
+#: ../../source/site/forusers/alldownloads.rst:93
+#: ../../source/site/forusers/alldownloads.rst:133
+#: ../../source/site/forusers/alldownloads.rst:157
+msgid "Precise::"
+msgstr "Precise::"
+
+#: ../../source/site/forusers/alldownloads.rst:98
+#: ../../source/site/forusers/alldownloads.rst:163
+msgid "Lucid::"
+msgstr "Lucid::"
+
+#: ../../source/site/forusers/alldownloads.rst:105
+#: ../../source/site/forusers/alldownloads.rst:140
+msgid "Via ubuntugis:"
+msgstr "Via ubuntugis:"
+
+#: ../../source/site/forusers/alldownloads.rst:107
+msgid ""
+"The ubuntugis project provides newer versions of various FOSSGIS packages, "
+"QGIS being one of them."
+msgstr "Proiectul ubuntugis oferă versiuni noi pentru diverse pachete FOSSGIS, QGIS fiind unul dintre ele."
+
+#: ../../source/site/forusers/alldownloads.rst:109
+msgid ""
+"Current packages available for lucid, maverick, natty, oneiric, precise and "
+"raring."
+msgstr "Pachetele disponibile în prezent pentru lucid, maverick, natty, oneiric, precise și raring."
+
+#: ../../source/site/forusers/alldownloads.rst:111
+msgid ""
+"If you want to use those packages, remove the http://qgis.org/debian lines "
+"from your sources.list and upgrade updated dependencies by typing::"
+msgstr "Dacă doriți să utilizați aceste pachete, eliminați liniile http://qgis.org/debian din sources.list și actualizați dependențele tastând::"
+
+#: ../../source/site/forusers/alldownloads.rst:121
+#: ../../source/site/forusers/alldownloads.rst:209
+#: ../../source/site/forusers/alldownloads.rst:259
+#: ../../source/site/forusers/alldownloads.rst:279
+#: ../../source/site/forusers/alldownloads.rst:308
+msgid "QGIS testing"
+msgstr "QGIS de testare"
+
+#: ../../source/site/forusers/alldownloads.rst:126
+#: ../../source/site/forusers/alldownloads.rst:211
+msgid ""
+"Nightly builds of QGIS testing are available from following repository (i386"
+" and amd64):"
+msgstr "Compilațiile nocturne QGIS, de testare, sunt disponibile la următoarele depozite (i386 și amd64):"
+
+#: ../../source/site/forusers/alldownloads.rst:142
+msgid ""
+"There are also nightly builds that depend on updated dependencies found in "
+"ubuntugis. Be sure to remove the http://qgis.org/debian ones first, "
+"otherwise you'll endup with a mix of dependencies."
+msgstr "Există, de asemenea, compilații de noapte care necesită dependențele actualizate din ubuntugis. Asigurați-vă că ați eliminat mai întâi http://qgis.org/debian, altfel veți obține un amestec de dependențe."
+
+#: ../../source/site/forusers/alldownloads.rst:171
+msgid "Debian"
+msgstr "Debian"
+
+#: ../../source/site/forusers/alldownloads.rst:176
+msgid ""
+"Packages for Debian *Wheezy, Jessie and Unstable* for i386 and amd64 are "
+"available at:"
+msgstr "Pachetele pentru Debian * Wheezy, Jessie și Unstable* pentru i386 și amd64 sunt disponibile la:"
+
+#: ../../source/site/forusers/alldownloads.rst:179
+#: ../../source/site/forusers/alldownloads.rst:213
+msgid "Wheezy (7.x)::"
+msgstr "Wheezy (7.x)::"
+
+#: ../../source/site/forusers/alldownloads.rst:184
+#: ../../source/site/forusers/alldownloads.rst:218
+msgid "Jessie (8.x)::"
+msgstr "Jessie (8.x)::"
+
+#: ../../source/site/forusers/alldownloads.rst:189
+#: ../../source/site/forusers/alldownloads.rst:223
+msgid "Sid (Unstable)::"
+msgstr "Sid (Instabil)::"
+
+#: ../../source/site/forusers/alldownloads.rst:194
+msgid ""
+"To add the the http://qgis.org repository public key to your apt keyring, "
+"type::"
+msgstr "Pentru a adăuga cheia publică a depozitului qgis.org la inelul dvs. de chei, tastați::"
+
+#: ../../source/site/forusers/alldownloads.rst:199
+msgid ""
+"Then add the lines for one of the repositories to your "
+"``/etc/apt/sources.list`` file (see below to choose the appropriate one) and"
+" type::"
+msgstr "Apoi adăugați liniile pentru unul dintre depozite la fișierul dvs. ``/etc/apt/sources.list`` (a se vedea mai jos pentru alegerea corespunzătoare) și tastați::"
+
+#: ../../source/site/forusers/alldownloads.rst:205
+msgid ""
+"Please remove all the QGIS and GRASS packages you may have installed from "
+"other repositories before doing the update."
+msgstr "Înainte de a face actualizarea, vă rog să eliminați toate pachetele QGIS și GRASS pe care este posibil să le aveți instalate din alte depozite,."
+
+#: ../../source/site/forusers/alldownloads.rst:228
+msgid ""
+"Although the nightly builds can be used to test newer versions, they are "
+"mainly meant to test, if the newer qgis versions still build fine on the "
+"various distributions using the various (older) versions of libraries found "
+"there. Therefore it is not intended to build versions that depend on more "
+"current libraries. That means if you need current qgis version with more "
+"uptodate libraries you will have to build them yourself."
+msgstr "Deși compilațiile de noapte pot fi folosite pentru testarea celor mai noi versiuni, menirea lor principală este de a verifica corectitudinea construirii versiunilor cele mai noi de QGIS pe diferitele distribuții, folosindu-se diverse versiuni (mai vechi) de biblioteci cu funcții. Prin urmare, nu se intenționează construirea de versiuni care depind de bibliotecile la zi. Asta înseamnă că dacă aveți nevoie de versiunea de QGIS curentă împreună cu cele mai noi biblioteci, va trebui să vi le construiți singur."
+
+#: ../../source/site/forusers/alldownloads.rst:238
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../../source/site/forusers/alldownloads.rst:243
+msgid "Get packages for any Fedora by typing::"
+msgstr "Obțineți pachete pentru orice versiune de Fedora tastând::"
+
+#: ../../source/site/forusers/alldownloads.rst:248
+msgid ""
+"Currently Fedora 18 and 19 have QGIS 1.8 while Fedora 20 is expected to have"
+" QGIS 2.0."
+msgstr "În prezent, Fedora 18 și 19 conțin QGIS 1.8, în timp ce Fedora 20 este de așteptat să aibă QGIS 2.0."
+
+#: ../../source/site/forusers/alldownloads.rst:250
+msgid "There is an alternative repository for QGIS 2.0 on Fedora 19 ::"
+msgstr "Există un depozit alternativ pentru QGIS 2.0 pe Fedora 19 ::"
+
+#: ../../source/site/forusers/alldownloads.rst:261
+msgid ""
+"A newer version might be available in the testing repository -- usually "
+"around one week::"
+msgstr "O nouă versiune ar putea fi disponibilă în depozitul de testare -- de obicei, în jur de o săptămână::"
+
+#: ../../source/site/forusers/alldownloads.rst:269
+msgid "RHEL, CentOS, Scientific Linux"
+msgstr "RHEL, CentOS, Scientific Linux"
+
+#: ../../source/site/forusers/alldownloads.rst:274
+msgid "Try the ELGIS repository: http://elgis.argeo.org/"
+msgstr "Încercați depozitul ELGIS: http://elgis.argeo.org/"
+
+#: ../../source/site/forusers/alldownloads.rst:276
+msgid ""
+"ELGIS requires the EPEL repo enabled, see "
+"http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL"
+msgstr "ELGIS necesită activarea depozitului EPEL, a se vedea http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL"
+
+#: ../../source/site/forusers/alldownloads.rst:281
+msgid ""
+"If you want to try the cutting edge: "
+"http://elgis.argeo.org/repos/testing/6/elgis/"
+msgstr "Dacă doriți să încercați ultima noutate: http://elgis.argeo.org/repos/testing/6/elgis/"
+
+#: ../../source/site/forusers/alldownloads.rst:283
+msgid "They're happy if you provide feedback on their mailing list."
+msgstr "Sunt fericiți dacă vă aduceți aportul pe lista lor de discuții."
+
+#: ../../source/site/forusers/alldownloads.rst:285
+msgid ""
+"If it does not work for you, you can try to rebuild the Fedora SRPM. The "
+"Fedora 15 version of QGIS builds in Mock for EPEL 6. Notice, this package "
+"will not support GRASS, because there is no GRASS package in RHEL/EPEL."
+msgstr "În cazul în care nu funcționează pentru dvs., puteți încerca să reconstruiți Fedora SRPM. Versiunea QGIS pentru Fedora 15 se construiește în Mock pentru EPEL 6. Rețineți că acest pachet nu va suporta GRASS, pentru că nu există nici un pachet GRASS în RHEL/EPEL."
+
+#: ../../source/site/forusers/alldownloads.rst:289
+msgid ""
+"argeo.org has a wiki on rebuilding their packages. For a more general quick "
+"guide in rebuilding, you can also take a look at "
+"http://zabbix.org/wiki/Docs/howto/rebuild_rpms"
+msgstr "argeo.org are un wiki despre refacerea pachetelor lor. Pentru un ghid rapid mai general, despre reconstrucție, puteți arunca, de asemenea, o privire la http://zabbix.org/wiki/Docs/howto/rebuild_rpms"
+
+#: ../../source/site/forusers/alldownloads.rst:292
+msgid "More info from: Volker Fröhlich <volker27 AT gmx DOT at>"
+msgstr "Mai multe informații de la: Volker Fröhlich <volker27 AT gmx DOT at>"
+
+#: ../../source/site/forusers/alldownloads.rst:296
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: ../../source/site/forusers/alldownloads.rst:301
+msgid ""
+"Latest openSUSE package called qgis2 is available for 12.1, 12.2, 12.3, "
+"Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
+"installation manager. All packages include GRASS and Python support."
+msgstr "Cel mai recent pachet denumit qgis2, pentru openSUSE, este disponibil pentru 12.1, 12.2, 12.3, Factory și Tumbleweed (32 și 64 de biți). Adăugați următorul depozit managerul dvs. de instalare. Toate pachetele includ suport GRASS și Python."
+
+#: ../../source/site/forusers/alldownloads.rst:305
+#: ../../source/site/forusers/alldownloads.rst:314
+#: ../../source/site/forusers/alldownloads.rst:324
+msgid "http://download.opensuse.org/repositories/Application:/Geo/VERSION/"
+msgstr "http://download.opensuse.org/repositories/Application:/Geo/VERSION/"
+
+#: ../../source/site/forusers/alldownloads.rst:310
+msgid ""
+"A regularly updated development package from qgis master called qgis-master "
+"is available for 12.1, 12.2, 12.3, Factory and Tumbleweed (32 and 64bit). "
+"Add the following repository to your installation manager. All packages "
+"include GRASS and Python support."
+msgstr "Un pachet QGIS de dezvoltare actualizat, numit QGIS-Master, este disponibil în mod regulat pentru versiunile 12.1, 12.2, 12.3 de Factory și Tumbleweed (32 și 64 de biți). Adaugă următorul depozit în managerul dvs. de instalare. Toate pachetele includ suport GRASS și Python."
+
+#: ../../source/site/forusers/alldownloads.rst:317
+msgid "QGIS 1.8"
+msgstr "QGIS 1.8"
+
+#: ../../source/site/forusers/alldownloads.rst:319
+msgid ""
+"OpenSUSE package for QGIS 1.8 is called qgis. It is available for 12.1, "
+"12.2, 12.3, Factory and Tumbleweed (32 and 64bit). Add the following "
+"repository to your installation manager. All packages include GRASS and "
+"Python support."
+msgstr "Pachetul OpenSUSE de QGIS 1.8 se numește qgis. Acesta este disponibil pentru versiunile 12.1, 12.2, 12.3, Factory și Tumbleweed (32 și 64 de biți). Adaugă următoarea arhivă în managerul dvs. de instalare. Toate pachetele includ suport GRASS și Python."
+
+#: ../../source/site/forusers/alldownloads.rst:328
+msgid "Mandriva"
+msgstr "Mandriva"
+
+#: ../../source/site/forusers/alldownloads.rst:333
+msgid "Current::"
+msgstr "Actual:"
+
+#: ../../source/site/forusers/alldownloads.rst:341
+msgid "Slackware"
+msgstr "Slackware"
+
+#: ../../source/site/forusers/alldownloads.rst:346
+msgid "Packages on http://qgis.gotslack.org"
+msgstr "Pachete de la http://qgis.gotslack.org"
+
+#: ../../source/site/forusers/alldownloads.rst:350
+msgid "ArchLinux"
+msgstr "ArchLinux"
+
+#: ../../source/site/forusers/alldownloads.rst:352
+msgid "Archlinux users are encouraged to use the Arch User Repository (AUR)."
+msgstr "Utilizatorii Archlinux sunt încurajați să utilizeze Arch User Repository (AUR)."
+
+#: ../../source/site/forusers/alldownloads.rst:354
+msgid ""
+"Information about available versions, bugs and archlinux specific "
+"instructions can be found at: https://aur.archlinux.org/packages/?O=0&K=qgis"
+msgstr "Informații despre versiunile disponibile, erorile și instrucțiunile specifice archlinux pot fi găsite la: https://aur.archlinux.org/packages/?O=0&K=qgis"
+
+#: ../../source/site/forusers/alldownloads.rst:359
+msgid "MacOS X"
+msgstr "MacOS X"
+
+#: ../../source/site/forusers/alldownloads.rst:361
+msgid ""
+"A single installer package is available for both OS X Lion (10.7) and Snow "
+"Leopard (10.6)."
+msgstr "Același pachet de instalare unic este disponibil pentru OS X Lion (10.7) și Snow Leopard (10.6)."
+
+#: ../../source/site/forusers/alldownloads.rst:366
+msgid ""
+"Installing QGIS stable in OS X requires separate installation of several "
+"`dependency frameworks <http://www.kyngchaos.com/software/frameworks>`_ "
+"(GDAL Complete and GSL). GRASS http://www.kyngchaos.com/software/grass is "
+"supported with this version. Some common Python modules "
+"http://www.kyngchaos.com/software/python are also available for common QGIS "
+"plugin requirements."
+msgstr "Instalarea QGIS stabil în OS X necesită instalarea separată a mai multor `cadre de lucru dependente <http://www.kyngchaos.com/software/frameworks>`_ (GDAL Complete și GSL). GRASS http://www.kyngchaos.com/software/grass este compatibil cu această versiune. Unele module de Python comune http://www.kyngchaos.com/software/python sunt de asemenea disponibile pentru cerințele obișnuite ale plugin-urilor QGIS."
+
+#: ../../source/site/forusers/alldownloads.rst:373
+msgid ""
+"QGIS download page on KyngChaos http://www.kyngchaos.com/software/qgis "
+"(framework requirements listed there) has more information."
+msgstr "Găsiți mai multe informații pe pagina de descărcare a QGIS de la KyngChaos http://www.kyngchaos.com/software/qgis (cerințele cadrului de lucru sunt listate acolo)."
+
+#: ../../source/site/forusers/alldownloads.rst:380
+msgid ""
+"QGIS testing builds (Nightly build) at http://qgis.dakotacarto.com are "
+"provided by Dakota Cartography."
+msgstr "QGIS de testare (compilațiile de noapte) de la http://qgis.dakotacarto.com sunt furnizate de către Dakota Cartography."
+
+#: ../../source/site/forusers/alldownloads.rst:384
+msgid "FreeBSD"
+msgstr "FreeBSD"
+
+#: ../../source/site/forusers/alldownloads.rst:390
+msgid "To compile QGIS from binary packages type::"
+msgstr "Pentru a compila QGIS din pachete binare tastați::"
+
+#: ../../source/site/forusers/alldownloads.rst:398
+msgid "To compile QGIS from sources in FreeBSD you need to type::"
+msgstr "Pentru a compila QGIS din surse, în FreeBSD este nevoie să tastați::"
+
+#: ../../source/site/forusers/alldownloads.rst:405
+msgid "Android"
+msgstr "Android"
+
+#: ../../source/site/forusers/alldownloads.rst:407
+msgid ""
+"Alpha and nightly builds as well as further documentation can be obtained at"
+" http://android.qgis.org"
+msgstr "Compilațile nocturne și alfa, precum și documentația suplimentară se pot obține de la http://android.qgis.org"

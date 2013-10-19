@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-24 13:55+0000\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-13 19:30+0000\n"
 "Last-Translator: jonny_forest <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
@@ -41,33 +41,60 @@ msgstr "Desenvolvimento"
 msgid "See https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 msgstr "Veja https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 
-#: ../../source/site/getinvolved/development/index.rst:24
+#: ../../source/site/getinvolved/development/index.rst:23
+msgid "Api Documentation"
+msgstr "Documentação API"
+
+#: ../../source/site/getinvolved/development/index.rst:25
+msgid "You can find the API documentation for cpp here:"
+msgstr "Pode encontrar a documentação API para cpp aqui:"
+
+#: ../../source/site/getinvolved/development/index.rst:27
+msgid "http://qgis.org/api/ (for QGIS testing)"
+msgstr "http://qgis.org/api/ (para a versão teste do QGIS)"
+
+#: ../../source/site/getinvolved/development/index.rst:29
+msgid "http://qgis.org/api/2.0/ (for QGIS 2.0)"
+msgstr "http://qgis.org/api/2.0/ (para o QGIS 2.0)"
+
+#: ../../source/site/getinvolved/development/index.rst:31
+msgid "http://qgis.org/api/1.8/ (for QGIS 1.8)"
+msgstr "http://qgis.org/api/1.8/ (para o QGIS 1.8)"
+
+#: ../../source/site/getinvolved/development/index.rst:35
 msgid "Python Development"
 msgstr "Desenvolvimento Python"
 
-#: ../../source/site/getinvolved/development/index.rst:26
+#: ../../source/site/getinvolved/development/index.rst:37
 msgid "QGIS has a lot to offer for python developers too."
 msgstr "O QGIS também tem muito a oferecer para desenvolvedores python."
 
-#: ../../source/site/getinvolved/development/index.rst:28
+#: ../../source/site/getinvolved/development/index.rst:39
 msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
 msgstr "O QGIS tem ligações com o python, portanto pode fazer tarefas autónomas no QGIS via python."
 
-#: ../../source/site/getinvolved/development/index.rst:30
+#: ../../source/site/getinvolved/development/index.rst:41
 msgid ""
 "Interested in python plugin development, go here http://plugins.qgis.org or "
-"have a look into the `PyQGIS cookbook "
-"<docs/pyqgis_developer_cookbook/index>`_"
-msgstr "Interessado no desenvolvimento de módulos python, entre aqui http://plugins.qgis.org ou dê uma vista de olhos em `Livro de Orientação PyQGIS <docs/pyqgis_developer_cookbook/index>`_"
+"have a look into the :ref:`PyQGIS-Developer-Cookbook`."
+msgstr "Interessado no desenvolvimento de módulos python, entre aqui http://plugins.qgis.org ou dê uma vista de olhos em :ref:`PyQGIS-Developer-Cookbook `."
 
-#~ msgid "Test"
-#~ msgstr ""
+#: ../../source/site/getinvolved/development/index.rst:45
+msgid "Python iface documentation"
+msgstr "Documentação Python iface"
 
-#~ msgid ""
-#~ "This is a test for localisation. In dutch the image below should be in "
-#~ "dutch:"
-#~ msgstr ""
+#: ../../source/site/getinvolved/development/index.rst:47
+msgid "You can find the QGIS-iface which you can use via python here:"
+msgstr "Pode encontrar o QGIS-iface que pode usar pelo python aqui:"
 
-#~ msgid ""
-#~ "Interested in python plugin development, go here http://plugins.qgis.org"
-#~ msgstr ""
+#: ../../source/site/getinvolved/development/index.rst:49
+msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
+msgstr "http://qgis.org/api/classQgisInterface.html (para a versão teste do QGIS)"
+
+#: ../../source/site/getinvolved/development/index.rst:51
+msgid "http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
+msgstr "http://qgis.org/api/2.0/classQgisInterface.html (para o QGIS 2.0)"
+
+#: ../../source/site/getinvolved/development/index.rst:53
+msgid "http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
+msgstr "http://qgis.org/api/1.8/classQgisInterface.html (para o QGIS 1.8)"

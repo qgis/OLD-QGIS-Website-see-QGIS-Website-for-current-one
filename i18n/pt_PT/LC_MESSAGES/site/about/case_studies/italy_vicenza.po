@@ -1,12 +1,13 @@
 # 
 # Translators:
+# jonny_forest <joao.f.r.gaspar@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-21 20:36+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-09-28 09:57+0000\n"
+"Last-Translator: jonny_forest <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,19 +28,19 @@ msgid ""
 "prospectus graphics. For this purpose it has used QGIS in addition to "
 "Postgresql/Postgis database, PHP code and Libreoffice suite, QCAD "
 "(LibreCAD)."
-msgstr ""
+msgstr "Usar o QGIS para o planeamento urbanístico no município de  Montecchio Maggiore, Vicenza, Itália. Montecchio Maggiore é uma pequena cidade no centro-Oeste de Vicenza (cerca de 24.000 habitantes). Como muitos outros municípios italianos, este gere o planeamento da cidade; em particular o planeamento urbanístico e o que chamamos de \"plano de recuperação\" aka PDR - Piani Di Recupero. Esta ferramenta urbanística é dedicada à área histórica no centro da cidade e requere um estudo específico: o estado e conservação do edifício, intenção de uso, conhecimento específico histórico via levantamento e restituição para produzir planimetria e prospecção gráfica. Para este fim, é usado o QGIS com a adição de base de dados Postgresql/Postgis, código PHP, ferramenta de produividade Libreoffice e QCAD (LibreCAD)."
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:6
 msgid "The task"
-msgstr ""
+msgstr "A tarefa"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:13
 msgid "Workflow Schema"
-msgstr ""
+msgstr "Esquema de Fluxo de Trabalho"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:15
 msgid "A schema will clarify the workflow:"
-msgstr ""
+msgstr "O esquema irá clarificar o fluxo de trabalho:"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:17
 msgid ""
@@ -48,39 +49,39 @@ msgid ""
 "via PHP form using canonical web browser (Firefox, Iceweasel as well). In a "
 "second moment the shape of every building was draw with QGIS and linked to "
 "the survey table via id key field (PostgreSQL/Postgis view)."
-msgstr ""
+msgstr "Toda a informação dos edifícios foi recuperado através de levantamento e escrita numa agenda. Uma vez no escritório, os dados foram intriduzidos para a base de dados Postgresql/Postgis através uma um formulário PHP usando um navegador de internet (Firefox e também o Iceweasel). NUm segundo momento a shapefile de cada efifício foi desenhada com o QGIS e ligada à tabela de levantamento através da chave de campo id (vista PostgreSQL/Postgis) "
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:19
 msgid ""
 "At the same time the facades of buildings were designed using QCAD "
 "(LibreCAD)."
-msgstr ""
+msgstr "Ao mesmo tempo as fachadas dos edifícios foram projectadas usando o QCAD (LibreCAD)."
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:21
 msgid ""
 "The PDR (piani di recupero) must follow strict rules that require specific "
 "graphics:"
-msgstr ""
+msgstr "O PDR (plano de recuperação) deve seguir regras restritas para adquirir gráficos específicos:"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:23
 msgid "Present state"
-msgstr ""
+msgstr "Estado Actual"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:24
 msgid "Project state"
-msgstr ""
+msgstr "Estado do Projecto"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:25
 msgid "Intended use (present)"
-msgstr ""
+msgstr "utilização pretendida (presente)"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:26
 msgid "Intended use (project)"
-msgstr ""
+msgstr "utilização pretendida (projecto)"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:27
 msgid "Type of intervention admitted"
-msgstr ""
+msgstr "Tipo de intervenção admitida"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:29
 msgid ""
@@ -94,11 +95,11 @@ msgid ""
 "calculation in percentage of the total planning area and other minor "
 "queries. All useful items for the design and planning study otherwise not "
 "possible without a very strength tool like gis (and QGIS in particular)."
-msgstr ""
+msgstr "Para cada mapa gráfico temático nós produzimos usando o atributo e data de recolha durante o levantamento (para o presente estado) e a data modificada durante o estudo na fase de design. De seguida, uma foto foi ligada a cada edifício para facilitar o design e análise do projecto sig (usando o recurso da \"acção\"). As ferramentas SQL (pgquery, postgismanager,  dbmanager entre outros) permitiram obter uma interrogação sofisticada e imediata na visualização do enquadramento do mapa assim como: cálculo do volume dividido pela construção de uso pretendido, cálculo de área padrão em percentagem da área total planeamento e outras interrogações menores. Todos os itens úteis para o planeamento da concepção e estudo não eram possível sem uma ferramenta forte como o sig (e o QGIS em particular)."
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:37
 msgid "QGIS project with building data viewing"
-msgstr ""
+msgstr "Projecto QGIS com construção de visualização de dados"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:39
 msgid ""
@@ -106,15 +107,15 @@ msgid ""
 "libreoffice suite. The report consists in a schedule summarise with photo, "
 "cartography extract which localize the building in the contest and data of "
 "the present state."
-msgstr ""
+msgstr "Finalmente um relatório sintetizado para cada edifício foi produzido usando a ferramenta de produtividade libreoffice. O relatório consiste no sumário da tarefa com fotografia, extracto da cartografia que está localizada no edifício em concurso e a data do seu actual estado."
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:46
 msgid "QGIS print composer for final graphic layout"
-msgstr ""
+msgstr "Compositor de Mapas QGIS para o layout gráfico final"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:49
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusão"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:51
 msgid ""
@@ -126,15 +127,15 @@ msgid ""
 "horizons. And last but not least: we worked on different platform (Windows 7"
 " 64 bit, Windows xp 32 bit, Debian server and Debian client) but we never "
 "encountered insurmountable problems."
-msgstr ""
+msgstr "A força do QGIS é a interface muito amigável juntamente com as várias ferramentas que ele oferece. A conexão com a variedade de formatos de dados (shapefile, SpatiaLite db, o PostgreSQL / PostGIS db, ...) facilita e aumenta a interoperabilidade entre mundos diferentes. E, assim, a liberdade oferecida pelo software livre (QGIS, PHP, LibreOffice, QCAD) estimula e abre novos horizontes. Por último mas não menos importante: nós trabalhamos em diferentes plataformas (Windows 7 de 64 bits, o Windows XP de 32 bits, o servidor Debian e cliente Debian), mas nunca encontrámos problemas intransponíveis."
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:55
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:62
 msgid "Flavio Rigolon"
-msgstr ""
+msgstr "Flavio Rigolon"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:64
 msgid ""
@@ -144,4 +145,4 @@ msgid ""
 "(QGIS, Postgresql/Postgis, Spatialite). He is a member of GFOSS.it "
 "(Associazione Italiana per l'Informazione Geografica Libera) since 2007 and "
 "was a member of the GFOSS.it board from 2010 to 2012."
-msgstr ""
+msgstr "Este artigo foi contribuído em Maio de 2012 pelo Flavio Rigolon. Ele vive em Vicenza (Itália) e trabalha no município de  Montecchio Maggiore   como gestor SIT. Ele migrou a maioria da informação sig da plataforma proprietária para gratuita (QGIS, Postgresql/Postgis, Spatialite). Ele é mebro do GFOSS.it (Associação Italiana para Informação Geográfica livre) desde 2007 e foi membro do quadro fo GFOSS.it de 2010 a 2012."

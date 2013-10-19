@@ -1,12 +1,13 @@
 # 
 # Translators:
+# BJ Jang <qgis.tr.kr@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-19 16:04+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-02 05:30+0000\n"
+"Last-Translator: BJ Jang <qgis.tr.kr@gmail.com>\n"
 "Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/qgis-website/language/ko_KR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,11 +15,11 @@ msgstr ""
 "Language: ko_KR\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:3
-msgid "Sponsorship Programme Overview"
-msgstr ""
-
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:5
+msgid "Sponsorship Program Overview"
+msgstr "후원 프로그램 설명"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:7
 msgid ""
 "QGIS is an entirely Open Source project. QGIS development is carried out "
 "largely by a group of volunteers, that in time have built up a large, "
@@ -29,260 +30,260 @@ msgid ""
 "behind. In addition, promoting QGIS requires our participation at congresses"
 " and conferences and the production of information material, sometimes very "
 "expensive for volunteer developers."
-msgstr ""
+msgstr "QGIS는 완전한 오픈 소스 프로젝트입니다. QGIS 개발은 거대한 자원 봉사 그룹에 의해 관리되고, 누구나 자유롭게 이용/개선할 수 있는 방대하고, 가치있고, 쓸모있는 코드를 기반으로 신속하게 제작되고 있습니다. 이 결과로 사용자들이 우리 웹 사이트에서 제공되는 소스 코드와 바이너리에 자유롭게 접근할 수 있습니다. 이런 자원 봉사에 기반한 접근의 결과로, 개발자들에게 덜 흥미롭거나 덜 중요한 많은 작업이 때때로 뒤에 남겨지게 됩니다. 더욱이 QGIS를 홍보하는 것에는 때때로 자원봉사 개발자에게는 매우 많은 비용이 드는 회의 참석과 컨퍼런스와 정보자료의 생산이 필요하게 됩니다."
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:15
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:17
 msgid ""
 "Meanwhile, many organizations have made an investment in using QGIS as part "
 "of their operations, but have not had a way to directly contribute to the "
 "success and long-term health of the project."
-msgstr ""
+msgstr "동시에, 많은 기관들이 QGIS를 작업에 이용하기 위해 투자를 했지만, 직접적으로 프로젝트의 성공과 장기적은 건강에 공헌할 수 있는 방법이 없었습니다."
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:19
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:21
 msgid ""
 "We would like to extend our activities and improve the quality of QGIS. Your"
 " financial contribution will support the maintenance, improvement, and "
 "promotion of QGIS. Sponsorship is not a way for individuals to control the "
 "development of the project, but rather a way of ensuring the longevity and "
 "overall health of the project."
-msgstr ""
+msgstr "우리는 우리의 활동을 확장하고 QGIS의 질을 향상하고 싶습니다. 당신의 재정적인 지원이 QGIS의 유지관리, 발전 및 홍보를 지원할 것입니다. 스폰서쉽은 개인이 프로젝트의 개발을 조정하기 위한 방법이 아닙니다. 하지만, 오히려 프로젝트의 수명과 전반적인 건강을 보장하는 방법입니다."
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:25
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:27
 msgid ""
 "With your donations we were able to fund several developer meetings, "
 "starting from that in Vienna, autumn 2009. Users donations, with the co-"
 "sponsoring of the Italian GFOSS.it association allow us to fund travel and "
 "accommodation costs of several key developers."
-msgstr ""
+msgstr "사용자들의 후원으로 우리는 2009년 가을 비엔나에서 부터 시작된 몇 몇 개발자 모임을 후원 할 수 있었습니다. 사용자들의 후원과 이탈리아 GFOSS.it 협회의 공동후원으로 몇 명의 중요 개발자의 여비와 숙박비를 제공할 수 있었습니다. "
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:30
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:32
 msgid ""
 "Donations thus contributed effectively to the great success of the meeting "
 "(see e.g. a report)."
-msgstr ""
+msgstr "후원이 이 모임의 큰 성공에 효과적으로 기여했습니다.(사례 보고를 보십시오)"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:33
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:35
 msgid "We encourage you to donate again to the upcoming developer meetings."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:36
-msgid "How can you support the QGIS Development"
-msgstr ""
+msgstr "우리는 곧 있을 개발자 모임에 사용자들이 또다시 기부해 주시기를 독려합니다."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:38
+msgid "How can you support the QGIS Development"
+msgstr "어떻게 QGIS 개발을 지원할 수 있는가"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:40
 msgid ""
 "There are two kinds of financial contributions, we accept: sponsorships: a "
 "sponsorship is an annual commitment of funds to the project.  donation: a "
 "donation is a once off financial contribution to the QGIS project."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:43
-msgid "Sponsorship"
-msgstr ""
+msgstr "두 가지의 재정적인 기여 방법이 있습니다. 우리는 다음을 허용: 합니다. 후원자: 는 매년 프로젝트에 자금을 댄다는 약속입니다. 기부자: 는 QGIS 프로젝트에 대한 일회성의 기부를 하는 것 입니다."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:45
+msgid "Sponsorship"
+msgstr "후원자"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
 msgid ""
 "Sponsors can sponsor Quantum GIS for any amount of money of at least 500 "
 "€/700 US$. Sponsorships last one year, after which they may be continued "
 "with a new payment, or allowed to lapse. At or above the following levels a "
 "sponsor will be designated as being one of the following class:"
-msgstr ""
+msgstr "후원자는 500 €/700 US$ 이상의 어떤 금액이라도 QGIS에 지원하실 수 있습니다. 후원자 자격은 1년 동안 지속됩니다. 이후에는 계속적으로 다시 후원금을 보내주셔야 하며 그렇지 않으면 자격을 상실합니다. 다음 수준 혹은 그 이상의 후원은 다음 클래스 중 하나로 지정됩니다:"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:51
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "euros"
-msgstr ""
+msgstr "유로"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:51
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "us dollars"
-msgstr ""
+msgstr "US 달러"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:51
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "sponsorship level"
-msgstr ""
+msgstr "후원자 등급"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:55
 msgid "27,000+"
-msgstr ""
+msgstr "27,000+"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:55
 msgid "39,000"
-msgstr ""
+msgstr "39,000"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:55
 msgid "Platinum Sponsor"
-msgstr ""
+msgstr "플리티늄 스폰서"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:54
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:56
 msgid "9,000+"
-msgstr ""
+msgstr "9,000+"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:54
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:56
 msgid "13,000"
-msgstr ""
+msgstr "13,000"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:54
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:56
 msgid "Gold Sponsor"
-msgstr ""
+msgstr "골드 스폰서"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:55
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:57
 msgid "3,000+"
-msgstr ""
+msgstr "3,000+"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:55
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:57
 msgid "4,300"
-msgstr ""
+msgstr "4,300"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:55
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:57
 msgid "Silver Sponsor"
-msgstr ""
+msgstr "실버 스폰서"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:56
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:58
 msgid "500+"
-msgstr ""
+msgstr "500+"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:56
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:58
 msgid "700"
-msgstr ""
+msgstr "700"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:56
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:58
 msgid "Bronze Sponsor"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:60
-msgid "Donation"
-msgstr ""
+msgstr "브론즈 스폰서"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:62
+msgid "Donation"
+msgstr "기부자"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:64
 msgid ""
 "Donations can be of any amount, through the Make A Donation PayPal link "
 "provided in the left-hand menu of this website or through our bank account "
 "(write us for details: cavallini at faunalia dot it). Even a small donation "
 "can make a big difference and help to reach important project goals!"
-msgstr ""
+msgstr "기부는 금액에 상관없이 가능합니다. 이 웹사이트에서 제공하는 메뉴에도 있는 Make A Donation PayPal 링크를 통하거나 우리 은행 계좌로 (다음처럼 보내는이 설명: 플로리다의 cavallini가 기부함) 보내실 수 있습니다. 아무리 작은 기부라도 중요한 프로젝트의 목표에 도달하기 위한 변화와 도움을 만듭니다!"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:67
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:69
 msgid ""
 "If you wish to send us a larger donation, you are strongly encouraged to use"
 " the bank account rather than PayPal."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:71
-msgid "What is your benefit sponsoring the QGIS Development?"
-msgstr ""
+msgstr "만약 큰 금액을기부해주시겠다면, PayPal 보다는 은행계좌를 이용해주실 것을 강하게 요청 드립니다."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:73
-msgid "Sponsoring the Quantum GIS project provides the following benefits:"
-msgstr ""
+msgid "What is your benefit sponsoring the QGIS Development?"
+msgstr "후원시의 사용자 이득은 무엇인가?"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
-msgid "Ensures the sustainability and health of the QGIS project."
-msgstr ""
+msgid "Sponsoring the Quantum GIS project provides the following benefits:"
+msgstr "QGIS 프로젝트를 후원하는 것에는 다음과 같은 이득이 있습니다:"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:76
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:77
+msgid "Ensures the sustainability and health of the QGIS project."
+msgstr "QGIS 프로젝트의 지속 가능성과 건강을 보장합니다."
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:78
 msgid ""
 "All sponsors will be listed on the project sponsor page, ordered by "
 "contribution class (Platinum, Gold, Silver, Bronze) with a link back to the "
 "sponsor."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:79
-msgid ""
-"Platinum Sponsors will have their logo placed on rotating banner on front "
-"page of qgis.osgeo.org"
-msgstr ""
+msgstr "모든 후원자가 프로젝트 후원자 페이지에 후원자에게 바로 연결되는 링크와 함께 기여도(플래티넘, 골드, 실버, 브론즈) 순으로 나열 됩니다."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:81
 msgid ""
-"Gold Sponsors will be listed on the sponsors page with a large logo (e.g. "
-"300x200px)"
-msgstr ""
+"Platinum Sponsors will have their logo placed on rotating banner on front "
+"page of qgis.osgeo.org"
+msgstr "플래티넘 스폰서는 qgis.osgeo.org 페이지의 첫 페이지에 돌아가며 로고가 나오게 됩니다."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:83
 msgid ""
-"Silver sponsors will be listed on the sponsors page with a medium size logo "
-"(e.g. 150x100px)"
-msgstr ""
+"Gold Sponsors will be listed on the sponsors page with a large logo (e.g. "
+"300x200px)"
+msgstr "골드 스폰서는 큰 로고(예: 300x200px)와 함께 후원자 페이지에 나열됩니다."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:85
 msgid ""
-"Bronze sponsors will be listed on the sponsors page with a small size logo "
-"(e.g. 64x64px)"
-msgstr ""
+"Silver sponsors will be listed on the sponsors page with a medium size logo "
+"(e.g. 150x100px)"
+msgstr "실버 스폰서는 중간 크기(150x100px)의 로고와 함께 스폰서 페이지에 나열됩니다."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:87
-msgid "Sponsors will be listed in the front matter of the QGIS manual"
-msgstr ""
+msgid ""
+"Bronze sponsors will be listed on the sponsors page with a small size logo "
+"(e.g. 64x64px)"
+msgstr "브론즈 스폰서는 작은 크기(예: 64x64px)의 로고와 함께 스폰서 페이지에 나열됩니다."
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:88
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:89
+msgid "Sponsors will be listed in the front matter of the QGIS manual"
+msgstr "후원자는 QGIS 지침서의 서문에 나열됩니다."
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:90
 msgid ""
 "Sponsors will be allowed to use a special version of the QGIS logo on their "
 "web site and promotional materials, which shows they are a sponsor of the "
 "QGIS project"
-msgstr ""
+msgstr "후원자는 그들이 QGIS 프로젝트의 후원자임을 보여줄 수 있는 특별한 버전의 QGIS 로고를 그들의 웹 사이트와 홍보자료에서 사용할 수 있습니다."
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:91
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:93
 msgid ""
 "Donors will be listed on the sponsors page, but do not receive the "
 "additional benefits listed above for sponsors"
-msgstr ""
+msgstr "기부자는 스폰서 페이지에 나열됩니다. 그러나 위에 나열된 후원자들 같은 추가적인 혜택은 없습니다."
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:93
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:95
 msgid "No advertising will be placed within the QGIS application itself."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:97
-msgid "How do we use financial support?"
-msgstr ""
+msgstr "QGIS 프로그램에는 어떤 광고도 들어가지 않을 것입니다."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:99
+msgid "How do we use financial support?"
+msgstr "어떻게 재정적 후원을 사용하는가?"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:101
 msgid ""
 "The sponsorship funds will be spent to directly improve the code base of the"
 " project, to fund tasks that generally receive less attention from "
 "developers, and to fund work on peripheral project tasks so that core "
 "contributors can focus efforts on QGIS improvements. As an example, we would"
 " like to fund the following project activities:"
-msgstr ""
+msgstr "후원 기금은 프로젝트의 코드 기반을 개선하는 자금으로, 일반적으로 개발자의 관심을 덜 받는 작업을 위한 자금으로, 주변 프로젝트 작업 자금으로 사용하여, 핵심 기여자가 QGIS의 발전에 집중할 수 있게 할 것입니다. 예를 들어 우리는 다음 프로젝트 활동에 지출합니다:"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:105
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:107
 msgid ""
 "fund developers to work on specific aspects of QGIS including implementing "
 "new features and fixing bugs"
-msgstr ""
+msgstr "새 기능과 버그 수정 수행을 포함한 특정 방향으로의 QGIS 작업을 위한 개발자 비용"
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:107
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:109
 msgid ""
 "an annual QGIS Developer Meeting where we can meet in person and brainstorm,"
 " fix bugs and hold a week of intensive QGIS development work. Most QGIS "
 "developers will happily donate their time to such events, but we are looking"
 " for sponsors to cover travel, accommodation and subsistence costs for these"
 " events."
-msgstr ""
+msgstr "QGIS 개발자 모임은 우리가 사람들을 만나고, 아이디어를 내고, 버그를 수정하고, 집약적인 QGIS 개발 작업에 한 주를 쓸 수 있게 해줍니다. 대부분의 QGIS 개발자는 이런 행사를 위해 기꺼이 시간을 기부합니다. 하지만 우리는 여비, 숙박비, 행사 주최비용을 위해 후원해줄 분을 찾고 있습니다."
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:112
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:114
 msgid ""
 "attendance to other conferences. There are several high profile conferences "
 "held each year (such as the http://www.foss4g.org), and we would like to be "
 "able to fund QGIS team members to represent QGIS at important conferences, "
 "to promote it among users and raise interest and solicit code contributions "
 "from other developers."
-msgstr ""
+msgstr "다른 컨퍼런스 참석. 매년 개최되는 인상적인 컨퍼런스(http://www.foss4g.org 같은)가 있습니다. 우리는 사용자들에게 홍보하고 관심도를 올리며 다른 개발자들에게 코드 공여를 간청하기 위해 중요 컨퍼런스에서 QGIS 대표 할 QGIS 팀 구성원에게 자금을 대고 싶습니다. "
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:117
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:119
 msgid ""
 "Decisions on spending of sponsorship funds will be made by the QGIS Project "
 "Steering Committee."
-msgstr ""
+msgstr "후원 기금의 지출에 대한 결정은 QGIS 프로젝트 운영위원회에 의해 이루어집니다."
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:120
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:122
 msgid ""
 "We regret that we cannot accept 'earmarked' funding as it creates many "
 "administrative issues. If you are interested in funding specific aspects of "
 "QGIS development, we encourage you to allocate additional human resources to"
 " the project, e.g. hiring a developer, or participating to our bug fixing "
 "initiative."
-msgstr ""
+msgstr "우리는 '누구 것인지를 표시한' 자금을 받을 수 없는 것을 유감으로 생각합니다. 이는 많은 행정상의 문제를 발생 시키기 때문입니다. 만약 QGIS 개발의 특정 방향에 대한 자금을 대는데 관심이 있으시다면, 프로젝트에 추가적인 인적 자원을 할당하는 것을 추천합니다. 예를 들어 개발자를 고용하거나, 버그 수정 주도에 참여해 주십시오."
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:126
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:128
 msgid ""
 "Acceptance of sponsorship offers is at the discretion of the QGIS PSC. We "
 "reserve the right to decline offers of sponsorship if the sponsoring "
@@ -291,12 +292,12 @@ msgid ""
 "spatial services, or offers where we have reason to believe the presence of "
 "the sponsors logo and marketing materials on our site and other materials "
 "will degrade the experience of our users will be declined."
-msgstr ""
+msgstr "후원 제안의 수용은 QGIS PSC의 재량입니다. 우리에게 후원 조직이나 관련자가 우리의 프로젝트의 기풍에 안 좋은 영향을 줄듯 하면 후원 제안을 거부 할 수 있습니다. 예를 들어, GIS / 공간 서비스와는 아무 상관 없는 마케팅 회사에서의 후원, 또는 우리 사이트 및 기타 자료에 사용자 경험을 저해할 것으로 판단되는 스폰서 로고 표시 요청은 거부될 것입니다."
 
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:134
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:136
 msgid ""
 "Organizations or individuals interested in sponsoring the QGIS project "
 "should contact the QGIS PSC Finance and Marketing advisor, Paolo Cavallini "
 "at: cavallini at faunalia dot it (+39-348-3801953) with questions, or to "
 "make arrangements."
-msgstr ""
+msgstr "QGIS 프로젝트 후원에 관심이 있는 기관이나 개인은 질문이나 계약을 위해 **QGIS PSC 금융 및 마케팅 자문**, Paolo Cavallini에게 연락 바랍니다. 연락처: cavallini @ faunalia . it (+39-348-3801953)"

@@ -1,13 +1,14 @@
 # 
 # Translators:
+# jonny_forest <joao.f.r.gaspar@gmail.com>, 2013
 # jgrocha <jgr@di.uminho.pt>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-25 22:37+0000\n"
-"Last-Translator: jgrocha <jgr@di.uminho.pt>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-13 22:55+0000\n"
+"Last-Translator: AlexandreNeto <senhor.neto@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +20,7 @@ msgstr ""
 msgid ""
 "QGIS and GRASS for modelling ecological corridors for wolves in North "
 "Portugal"
-msgstr ""
+msgstr "O uso do QGIS e GRASS para modelação de corredores ecológicos para lobos no Norte de Portugal"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:6
 msgid ""
@@ -29,11 +30,11 @@ msgid ""
 "“vulnerable” species in Spain and “endangered” in Portugal. Nowadays, there "
 "are only around 300 wolves in Portugal,  due to the high persecution, "
 "destruction and fragmentation of the habitat."
-msgstr ""
+msgstr "O lobo-ibérico é uma sub-espécie do lobo-cinzento que existe apenas no Norte da Península Ibérica, com pequenas populações isoladas a Sul do Rio Douro. Durante o último século sofreu uma elevada regressão, estando actualmente classificada como “vulnerável” em Espanha e “em perigo” em Portugal. Hoje em dia existem apenas cerca de 300 lobos em Portugal, devido à elevada perseguição que têm sofrido, destruição e fragmentação dos habitats."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:13
 msgid "Study area in Portugal"
-msgstr ""
+msgstr "Área de estudo em Portugal"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:15
 msgid ""
@@ -45,14 +46,14 @@ msgid ""
 "verdant Minho, Ribeira de Pena is one of the municipalities that can work "
 "like an ecological corridor between areas with higher wolf concentration in "
 "the north with lower concentration in the south."
-msgstr ""
+msgstr "Ribeira de Pena é um Concelho que pertence ao Distrito de Vila Real, no Norte de Portugal. É um Município rural, caracterizado pela agricultura, pastoreio, floresta, montanhas, vales e a mais diversa fauna, juntamente com baixa densidade humana, o que em conjunto providenciam abrigo e comida para os lobos. Localizada entre as zonas montanhosas de Trás-os-Montes e o verde Minho, Ribeira de Pena é um dos Concelhos que pode funcionar como corredor ecológico entre as áreas com maiores densidades de lobo a Norte e as áreas com menor concentração a Sul. "
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:17
 msgid ""
 "I started using GIS software during my biology course, and more often during"
 " my master thesis. At that time I used mainly proprietary software. After I "
 "finished my master degree, I lost access to the proprietary software."
-msgstr ""
+msgstr "Eu comecei a utilizar softwares SIG durante o meu curso de biologia, aprofundando conhecimentos durante o mestrado. Na altura utilizei maioritariamente programas proprietários, cujo acesso perdi após ter terminado o mestrado. "
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:19
 msgid ""
@@ -65,7 +66,7 @@ msgid ""
 "already knew. I quickly realized how mistaken I was, and got really "
 "enthusiastic with the analytical capabilities QGIS provided, specially with "
 "GRASS integration."
-msgstr ""
+msgstr "Entretanto tive o meu primeiro contacto com os sistemas operativos Linux. E logo depois fui contactada para ajudar uns investigadores na modelação de corredores ecológicos para lobos em Ribeira de Pena, utilizando SIG. O meu primeiro problema prendeu-se com a escolha do programa a utilizar, visto que já tinha substituído o sistema operativo para Linux. Foi na altura em que ouvi falar no QGIS e decidi experimentar, sendo que me parecia um programa muito simplista e incompleto, quando comparado ao que eu já conhecia. Depressa percebi que estava errada, e fiquei bastante entusiasmada com as capacidades analíticas que o QGIS oferecia, especialmente quando integrado com o GRASS."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:21
 msgid ""
@@ -93,17 +94,17 @@ msgid ""
 "like small villages, cities and roads. These areas must be considered "
 "critical for wolf conservation, and applied measures to reduce human impact "
 "in this species."
-msgstr ""
+msgstr "Para modelar os corredores ecológicos, utilizámos então o QGIS e o GRASS. Esta modelação foi feita utilizando várias informações geográficas juntamente com pontos de presença de lobo. A seguir indico algumas das funções utilizadas neste caso:\nplugin Interpolation in QGIS: criação de um Modelo de Elevação Digital  * r.watershed in GRASS: calcula linhas de água a partir do MED * r.grow.distance in GRASS: cria de um matricial de distâncias  * r.reclass in GRASS: responsável pela reclassificação de camadas * r.slope.aspect.slope in GRASS: calcula o declive a partir do DEM * r.mapcalculator in GRASS: calcula algumas operações simples de álgebra entre camadas * r.cost.coord in GRASS: cria um mapa matricial onde está representado o custo cumulativo da movimentação entre diferentes localizações geográficas, em que cada célula do mapa representa um custo para essa mesma movimentação * r.drain in GRASS: cria um fluxo a partir de um modelo de elevação num mapa matricial – função utilizada para originar os corredores ecológicos\nCom este trabalho obtivemos um mapa com os corredores ecológicos potenciais para o lobo no Concelho de Ribeira de Pena. Estas áreas devem ser tidas em conta pelos técnicos responsáveis pelo planeamento de medidas de conservação para a espécie. Estes corredores são de elevada importância pois podem ser importantes na conexão de alcateias fragilizadas a Sul com as alcateias mais estáveis a Norte, que se encontram em continuidade com as populações da Peneda-Gerês e Espanha. Os corredores modelados que atravessam núcleos rurais e estruturas humanas devem ser considerados como áreas criticas para a conservação do lobo, sendo aplicadas medidas para reduzir o impacto do homem sobre esta espécie. "
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:38
 msgid ""
 "Ecological corridors and critical conservation areas for wolves in northern "
 "Portugal."
-msgstr ""
+msgstr "Corredores Ecológicos e áreas críticas de conservação para lobos no Norte de Portugal."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:41
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusão"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:43
 msgid ""
@@ -114,7 +115,7 @@ msgid ""
 "source software, usable in every computer or notebook without licenses, "
 "constant upgrades and the ultimate advantage to contribute to it's "
 "improvement and/or tip the developers about some essential function."
-msgstr ""
+msgstr "Tanto o QGIS como o GRASS são programas bastante intuitivos com uma interface simples e fácil de utilizar. Possuem todas as funções para realizar a maior parte das análises. Do meu ponto de vista, tanto um como o outro têm um desempenho tão bom como os programas proprietários a que estava habituada a utilizar. Possuem ainda a vantagem de serem programas de livre acesso, podendo ser utilizados em qualquer computador sem a necessidade de licenças, com actualizações constantes e em último caso, a possibilidade de contactar com os programadores para contribuir para o seu melhoramento. "
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:45
 msgid ""
@@ -122,15 +123,15 @@ msgid ""
 "although there can be some missing issues, easily resolved in the future "
 "with the developers, I don't regret my decision and advise everyone to use "
 "them."
-msgstr ""
+msgstr "Mudar de sistema operativo para Linux e posteriormente para o QGIS e GRASS foi uma das minhas melhores decisões. Apesar de poderem haver ainda algumas questões por resolver, facilmente resolvidas no futuro com os programadores, não me arrependo da minha decisão e aconselho toda a gente a utilizá-los."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:48
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:55
 msgid ""
 "This article was contributed in July 2012 by Monica Almeida. She is "
 "conservation biologist working in an non-governmental organization in the "
 "preservation of wolf in Portugal."
-msgstr ""
+msgstr "Este artigo foi contribuído em Julho de 2012 pela Mónica Almeida. Ela é uma bióloga de conservação que trabalha numa organização não governamental de preservação do lobo em Portugal."

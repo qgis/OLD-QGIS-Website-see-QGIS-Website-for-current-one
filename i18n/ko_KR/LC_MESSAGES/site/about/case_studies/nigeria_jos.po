@@ -1,12 +1,13 @@
 # 
 # Translators:
+# aliasgis <aliasgis@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-19 16:04+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-02 09:16+0000\n"
+"Last-Translator: aliasgis <aliasgis@gmail.com>\n"
 "Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/qgis-website/language/ko_KR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +18,7 @@ msgstr ""
 #: ../../source/site/about/case_studies/nigeria_jos.rst:4
 msgid ""
 "Amurum forest reserve habitat and avifauna mapping with QGIS in Nigeria"
-msgstr ""
+msgstr "나이지리아에서는 Amurum 산림의 서식하고 있는 조류 정보와 서식지 정보를 QGIS를 이용하여\n지도로 나타내고 있습니다."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:6
 msgid ""
@@ -34,16 +35,16 @@ msgid ""
 "determinants of Amurum reserve and how the basic habitat maps were used to "
 "obtain strata for the purpose of efficiently determining the spatial "
 "distribution of the avifauna including the biodiversity."
-msgstr ""
+msgstr "Amurm 산림지역은 나이지리아의 도시지역인  Jos, Plateau state 과 인접해 있습니다. 이곳에는 자연보호, 교육 ,조사를 목적으로 하는 AP. Leventis Ornithological Research Institute (APLORI)  라는 연구기관이 설립되어 있습니다. APLOI는 JOS 대학의 동물학 연구 부서에서 주관하고있는 기관입니다. 해마다 이곳에서는 생태 보호의 강한 동기 를 가지고 있는 나이지리아 각지에서 올라온 아홉명정도의 학생들이 관련 교육을 받는 데 2011년에는 통계학 ( R 통계 패키지 프로그램 : 번역자 주)와 GIS 관련 교육을 진행할 수 있었습니다. 2011년 11월 2주간의 과정으로 우리는  나이지라아 학생들 에게 gis 기본교육 과\n생태계 보존을 위한 QGIS 의 다양한 응용법을 교육할 수 있었습니다.  우리는 QGIS를 이용하여 서식지정보를 지도화 하는 방법과  서식지 의 공간 정보를 취득하는 방법 , 조류 의 종다양성 정보를 공간 분석을 통하여 Amurm 지역의 생태적인 의사결정을 할 수 있는 방안등을 교육 하였습니다. "
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:13
 #: ../../source/site/about/case_studies/nigeria_jos.rst:47
 msgid "Training Group"
-msgstr ""
+msgstr "교육훈련 "
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:16
 msgid "Mapping elevation, hill shade, slope and habitats"
-msgstr ""
+msgstr "고도 , 음역기복, 경사, 서식지 정보의 공간 데이터 가시화"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:18
 msgid ""
@@ -52,7 +53,7 @@ msgid ""
 "area in which Amurum is located. (Information about the global elevation "
 "data set can be found here: http://www.cgiar-csi.org/data/elevation/item/45"
 "-srtm-90m-digital-elevation-database-v41)."
-msgstr ""
+msgstr "고도기복도와 자료 검수:  우리는  Amurum 지역의 NASA에서 무료로 제공하고 있는레이더 영상 으로\n부터 추출한 고도 데이터를 다운로드 받을 수 있었습니다. \n이 데이터 는 다음의 웹페이지에서 제공 받으실 수 있습니다.\n http://www.cgiar-csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:20
 msgid ""
@@ -60,7 +61,7 @@ msgid ""
 "area containing the reserve so that the raster data sets remained relatively"
 " small. By means of GPS we collected elevations at various locations in the "
 "reserve."
-msgstr ""
+msgstr "Gdal 툴을 이용하여  원본 데이터 셋에 대한 레이어 병합 및 비교적 소규모 지역에서의 레스터 정보를 추출하였습니다.  또한 우리는 수집한 다양한 위치의 고도 데이터는 GPS로 부터 취득 하였습니다."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:22
 msgid ""
@@ -69,11 +70,11 @@ msgid ""
 "hills hades and slopes for the area. These variables are important from an "
 "ecological point of view because they are strongly associated with the type "
 "of habitat."
-msgstr ""
+msgstr "그리고 레이다 영상의 고도정보를 GPS에서 수집된 고도정보와 비교검토 하여 일치 시키는 작업을 하였습니다.\n이과정을 통하여 만들어진 지형모델을 Gdal Tools릉 이용하여 해당지역의 음영기복  및 경사도를 공간연산하였습니다. 이러한 다양한 일련의 작업들은 생태학적 관점에서 시사하는 바가 크다고 할 수 있으며\n그이유는  서식지의 지형형태에 대한 강한 연관성을 보여주기 때문입니다."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:29
 msgid "QGIS screenshot"
-msgstr ""
+msgstr "관련 화면"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:31
 msgid ""
@@ -81,7 +82,7 @@ msgid ""
 "original (clipped) elevation map to obtain a higher resolution map. We used "
 "the warp tool in GdalTools. By means of the contour tool we obtained smooth "
 "contour lines."
-msgstr ""
+msgstr "우리는 보다 시각적으로 우수한 지도를 개발하려는 목표 때문에 고해상도 맵으로 부터 취득된 고도 기복도(클리핑 처리된)를 공간 보간 작업을 하였습니다. 우리는 GdalTOOLS 기능 중 Warp tool 기능을 사용하였습니다. \n그리고 보다 부드럽고 매끄러운 등고선을 취득하기 위하여 CONTOUR TOOL을 이용하였습니다."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:33
 msgid ""
@@ -90,7 +91,7 @@ msgid ""
 " the GPS were smoothly imported using the GPS Tools. The imported waypoints "
 "and tracks were used to construct a polygon shapefile. The tracks inside the"
 " reserve were mapped in a similar fashion."
-msgstr ""
+msgstr "대상지 구역으로 부터의 좌표 획득은  GPS 기기로부터 실측 자료자료로 부터 얻었졌다. 경유지와 경유 궤적은 GPS 도구를 사용하여 간단하게 얻어올 수 있었다. 취득된 경유지와 궤적을 토대로 폴리곤 셰이프 파일을 생성하였다. 생성된 파일의경유궤적정보는 실제 측정치와 유사한 형태대로 지도상에 도시 된다."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:35
 msgid ""
@@ -101,18 +102,18 @@ msgid ""
 "image we used the editor to draw polygons demarcating the three habitats. "
 "Setting the snapping options correctly allowed the construction of non-"
 "overlapping polygons."
-msgstr ""
+msgstr "우리는  오픈레이어스 플러그인의 구글영상지도를 사용하여 빠르고 정확하게 Amurum 지역의 서식지 지도를 제작할 수 있습니다. 서식지는 세가지 형태로 구분 될 수 있었습니다. 정의된 지역은사바나 기후지역, 열대림지역, 암석돌출 지역 으로 구분될 수 있었습니다.우리 는 구글영상 이미지를 기본으로 세가지 형태의 서식지를 폴리곤으로 분류하여 편집기능을 이용하요 폴리곤을그릴 수 있었다. 스냅핑 옵션 설정을 통하여 단알 폴리곤들을 구축 하였다."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:38
 msgid "Mapping bird distributions and diversity"
-msgstr ""
+msgstr "새의 분포와 다양성 을 지도화"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:40
 msgid ""
 "The habitat maps were used to generate random locations. The area of the "
 "various types of habitat were used to generate a number of locations "
 "proportional to the surface of each habitat type (stratification)."
-msgstr ""
+msgstr "서식지 주제도들은 일반적으로 위치가 불규칙하게 나타나게 되어 있습니다. 특정한 지역내의  산개 되어 있는 서식지 정보들을 특정한 형태 의 비율로 구성하여 표면정보로 표현하는 방법으로 분석 할 수 있었습니다.(분류계통화)"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:49
 msgid ""
@@ -126,11 +127,11 @@ msgid ""
 "text layer” tool. On the basis of the above mentioned layers a map was "
 "constructed presenting some of the most important landscape features and "
 "avian diversity of the Amurum reserve."
-msgstr ""
+msgstr "랜덤한 포인트 정보들을 위의 목적대로 분석하기 위하여  ftTools를 사용하였습니다. 이실습을 위해 2일간의 일정으로 오전에 4개의 그룹(2인1조)으로 구성하여 지역내의 흩어져 있는 임의의 총 38개 지역을 방문조사를 실시 하였습니다.  수집된 데이터는 스프레트 시트에 입력 하였으며. 입력 된 데이터는 \nR 프로그램을 사용하여 분석하였습니다. , the Shannon-Wiener diversity  지수를   R 프로그램으로 연산하였습니다. 이후 위치정보를 기록한 파일에 관측데이터를 병 합하여 QGIS 의 \" 구분된 테스트 레이어추가\" 기능으로 CSV 파일을 QGIS에 로딩 하였습니다.  이러한 방법을 기초로 하여 Amrum 지역 내의 몇가지 중요한 경관 구조와 조류의 종다양성을 표현 하는 맵을 구축할 수 있었습니다."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:52
 msgid "Conclusion"
-msgstr ""
+msgstr "결론"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:54
 msgid ""
@@ -141,19 +142,19 @@ msgid ""
 "allows for stratification and thus for better estimates of abundances of "
 "various kinds of organisms. Basically we are now able to do better "
 "ecological research using QGIS as an open source platform."
-msgstr ""
+msgstr "무엇보다 중요한것은  이과정이 큰 성과를 이루었다는 것입니다. 우리는 전혀 GIS 를 경험해보지 못한 \n그룹의 학생들에게 QGIS 의 많은 기능들을 즐겁게 실습해 보았다는 데에서 큰 의의를 둡니다.\n그리고 약 2주정도의 시간으로 지역내 에서 유용하게 쓰일 수 있는 지도를 개발 하였다는 점에서 \n도 시사하는 바가 큽니다 .이러한 성과 가운데  제한 된 지역 내의 다양한 서식처들을 추출하여 좀더 낮은 평가와 의사결정을 할 수 있게 된 것에 대하여 소기의 성과를 이루었다고 할 수 있었습니다.\n현재 시점에서도 우리는 오픈소스 플랫폼인 QGIS 를 이용하여 보다나은 생태학 연구를 할 수 있습니다. "
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:61
 msgid "QGIS map: Diversity of Amurum Forest Reserve"
-msgstr ""
+msgstr "QGIS   주제도: Amurum 산림지역의 종다양성"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:64
 msgid "Authors"
-msgstr ""
+msgstr "저자들"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:66
 msgid ""
 "Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, "
 "Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu "
 "Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"
-msgstr ""
+msgstr "참여한 Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu Chima Josiah, Onoja Joseph Daniel, Yadok Biplang 에게 행운이 함께하기를"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# jefi <jef@norbit.de>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-19 16:19+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-06 17:21+0000\n"
+"Last-Translator: jefi <jef@norbit.de>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,25 +17,25 @@ msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:3
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: ../../source/site/getinvolved/faq/index.rst:5
 msgid "Here we collect answers to question which come up very often."
-msgstr ""
+msgstr "Hier sammeln wir Antworten auf sehr häufig gestellte Fragen."
 
 #: ../../source/site/getinvolved/faq/index.rst:7
 msgid ""
 "We will start of with this one page, maybe restructure it into sections, or "
 "even more pages if needed"
-msgstr ""
+msgstr "Wir beginnen mit einer Seite und unterteilen sie bei Bedarf in Abschnitte oder mehrere Seiten."
 
 #: ../../source/site/getinvolved/faq/index.rst:12
 msgid "User"
-msgstr ""
+msgstr "Benutzer"
 
 #: ../../source/site/getinvolved/faq/index.rst:18
-msgid "Why is QGIS 2.0 named 'Dufour'"
-msgstr ""
+msgid "Why is QGIS 2.0 named 'Dufour'?"
+msgstr "Warum heißt QGIS 2.0 'Dufour'?"
 
 #: ../../source/site/getinvolved/faq/index.rst:20
 msgid ""
@@ -47,69 +48,69 @@ msgid ""
 ".pixelkarte-farbe&layers=ch.swisstopo.hiks-"
 "dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_"
 " in Switzerland."
-msgstr ""
+msgstr "Nach einem erfolgreichen Entwicklertreffen in Zürich (Schweiz) haben wir beschlossen, dass das nächste Release damit verbunden sein sollte. `General Guillaume-Henri Dufour <http://de.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_ war eine berühmter und einflußreicher Kartograph.  Desweiteren ist Dufourspitze der `höchste Gipfel <http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.hiks-dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_ der Schweiz."
 
 #: ../../source/site/getinvolved/faq/index.rst:28
 msgid "QGIS error on your machine. How to ask a question?"
-msgstr ""
+msgstr "QGIS-Fehler auf Ihrem Rechner?  Wie stellt man Fragen?"
 
 #: ../../source/site/getinvolved/faq/index.rst:30
 msgid "Please provide the following information:"
-msgstr ""
+msgstr "Bitte liefern Sie folgende Informationen:"
 
 #: ../../source/site/getinvolved/faq/index.rst:32
 msgid "preferably a descriptive title for your email"
-msgstr ""
+msgstr "bevorzugt E-Mails mit einem aussagekräftigen Betreff"
 
 #: ../../source/site/getinvolved/faq/index.rst:33
 msgid "which Operating System and version"
-msgstr ""
+msgstr "Welches Betriebsystem mit Version"
 
 #: ../../source/site/getinvolved/faq/index.rst:34
-msgid "which QGIS version (exact)"
-msgstr ""
+msgid "which QGIS version you used at that moment (exact)"
+msgstr "Welche QGIS-Version sie gerade benutzen (genau)"
 
 #: ../../source/site/getinvolved/faq/index.rst:35
-msgid "how you installed it (osgeo4w? msi-installer? own build?)"
-msgstr ""
+msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
+msgstr "Wie Sie es installiert haben (OSGeo4W, Standalone? Selbst kompiliert?)"
 
 #: ../../source/site/getinvolved/faq/index.rst:36
 msgid ""
 "at what time did it break (reinstall, new install, system update, project??)"
-msgstr ""
+msgstr "Wann trat der Fehler auf (Wiederholte Installation, Erstinstallation, Systemupdate, Projekt??)"
 
 #: ../../source/site/getinvolved/faq/index.rst:37
 msgid ""
 "what exactly is the error (not sure in the above if you mean that \"python "
 "error' is the error, or you mean there is a python error which you did not "
 "write in you email"
-msgstr ""
+msgstr "Was ist der genaue Fehler?"
 
 #: ../../source/site/getinvolved/faq/index.rst:39
 msgid ""
 "Without this info, it is very hard to answer for anybody. Or, taking just "
 "too much time because the answer will be a question to you etc etc."
-msgstr ""
+msgstr "Ohne dies Informationen fällt die Antwort jedem schwer. Oder es braucht nur zuviel Zeit, weil die Antwort nur aus einer Frage an Sie bestehen kann, usw. usf."
 
 #: ../../source/site/getinvolved/faq/index.rst:43
 msgid "Development"
-msgstr ""
+msgstr "Entwicklung"
 
 #: ../../source/site/getinvolved/faq/index.rst:46
 msgid "Can I compile QGIS myself on Windows?"
-msgstr ""
+msgstr "Kann ich QGIS unter Windows selbst kompilieren?"
 
 #: ../../source/site/getinvolved/faq/index.rst:48
 #: ../../source/site/getinvolved/faq/index.rst:54
 #: ../../source/site/getinvolved/faq/index.rst:60
 msgid ""
 "Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
-msgstr ""
+msgstr "Bitte lesen Sie: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 
 #: ../../source/site/getinvolved/faq/index.rst:52
 msgid "Can I compile QGIS myself on MacOS?"
-msgstr ""
+msgstr "Kann ich QGIS unter MacOS selbst kompilieren?"
 
 #: ../../source/site/getinvolved/faq/index.rst:58
 msgid "Can I compile QGIS myself on Linux?"
-msgstr ""
+msgstr "Kann ich QGIS unter Linux selbst kompilieren?"
