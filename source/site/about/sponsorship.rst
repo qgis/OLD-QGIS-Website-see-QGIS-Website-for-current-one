@@ -330,6 +330,7 @@ bank account rather than PayPal.
 * Mark Douglas
 * Mark Hoschek
 * Maria Antonia Brovelli
+* Mario Tarantola
 * Marselle Sjoden
 * Martin Kugler
 * Massimo Cuomo
@@ -351,6 +352,7 @@ bank account rather than PayPal.
 * Nikolaos Christou
 * Nikolaou Konstantinos
 * Norman Trowell
+* Ola Martin Krog
 * Oliver Schonrock
 * Oriental Rugs Online
 * Osvaldo Mascetti
@@ -364,6 +366,7 @@ bank account rather than PayPal.
 * Peter Paudits
 * Peter Thuvander
 * Peter Wells
+* Phebe Meyers
 * Planetek Italia s.r.l
 * Productive Water Services
 * Radoslaw Pasiok
@@ -379,6 +382,7 @@ bank account rather than PayPal.
 * Robert Thurston
 * Roberta Benetti
 * Roberto Facoetti
+* Russel Taylor
 * Russell Rew
 * Sake Wagenaar
 * Sebastian Cionoiu
@@ -400,6 +404,7 @@ bank account rather than PayPal.
 * Tim Gould
 * Tishampati Dhar
 * Tomas Trojacek
+* Thomas Blake
 * Thomas Dunz
 * Thomas Engleder
 * Tony MacLeod
