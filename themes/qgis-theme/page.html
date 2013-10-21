@@ -2,10 +2,12 @@
 
 {% set favicon = 'images/favicon.ico?1322140996' %}
 
-{% set css_files = css_files + [
-  '_static/qgis-style.css'
-  ]
-%}
+{% set css_files = css_files + [ '_static/qgis-style.css' ] %}
+{# 'language' as variable comes in via '-A language=xx', a sphinx-build option 
+we then can use this language to build language dependent switches #}
+{% if language in ["fa"] %}
+{% set css_files = css_files + [ '_static/qgis-style-rtl.css' ] %}
+{%- endif %}
 {% set script_files = script_files + ['_static/qgis-site.js']%}
 
 
