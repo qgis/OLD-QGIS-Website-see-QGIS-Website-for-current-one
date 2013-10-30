@@ -1,0 +1,100 @@
+# 
+# Translators:
+# masoud pashotan <masoud.ptn@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-22 10:09+0000\n"
+"Last-Translator: masoud pashotan <masoud.ptn@gmail.com>\n"
+"Language-Team: Persian (http://www.transifex.com/projects/p/qgis-website/language/fa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/getinvolved/development/index.rst:4
+msgid "QGIS Development"
+msgstr "توسعه کوانتم جی ای اس"
+
+#: ../../source/site/getinvolved/development/index.rst:6
+msgid "Welcome to the QGIS Development pages"
+msgstr "به صفحه توسعه کوانتم خوش آمدید"
+
+#: ../../source/site/getinvolved/development/index.rst:10
+msgid "Bugs, Features and Issues"
+msgstr "اشکالات، ویژگی ها و مسائل مربوط به"
+
+#: ../../source/site/getinvolved/development/index.rst:12
+msgid ""
+"If you find a bug, please read `our hints on issueing bugs "
+"<http://hub.qgis.org/wiki/quantum-gis/Bugreports>`_"
+msgstr "اگر شما با مشکلی برخورد کردید،`لطفا مارا برای پی گیری آن مطلع کنید <http://hub.qgis.org/wiki/quantum-gis/Bugreports>`_"
+
+#: ../../source/site/getinvolved/development/index.rst:17
+msgid "Development"
+msgstr "توسعه دهنده"
+
+#: ../../source/site/getinvolved/development/index.rst:19
+msgid "See https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
+msgstr "نمایش در https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
+
+#: ../../source/site/getinvolved/development/index.rst:23
+msgid "Api Documentation"
+msgstr "مستندات برنامه نویسی"
+
+#: ../../source/site/getinvolved/development/index.rst:25
+msgid "You can find the API documentation for cpp here:"
+msgstr "شما می توانید برای پیداکردن مستندات برنامه نویسی سی پلاس پلاس به اینجا بروید:"
+
+#: ../../source/site/getinvolved/development/index.rst:27
+msgid "http://qgis.org/api/ (for QGIS testing)"
+msgstr "(برای نسخه آزمایشی کوانتم)http://qgis.org/api/"
+
+#: ../../source/site/getinvolved/development/index.rst:29
+msgid "http://qgis.org/api/2.0/ (for QGIS 2.0)"
+msgstr "(برای نسخه 2.0 کوانتم) http://qgis.org/api/2.0/"
+
+#: ../../source/site/getinvolved/development/index.rst:31
+msgid "http://qgis.org/api/1.8/ (for QGIS 1.8)"
+msgstr "(برای نسخه 1.8 کوانتم)  http://qgis.org/api/1.8/"
+
+#: ../../source/site/getinvolved/development/index.rst:35
+msgid "Python Development"
+msgstr "توسعه دهنده پایتون"
+
+#: ../../source/site/getinvolved/development/index.rst:37
+msgid "QGIS has a lot to offer for python developers too."
+msgstr "در کوانتم امکانات بسیار زیادی برای توسعه در محیط پایتون فراهم شده است."
+
+#: ../../source/site/getinvolved/development/index.rst:39
+msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
+msgstr "کوانتم امکان اجرای دستورات پایتون را دارد، شما می توانید مجموعه از دستورات که به صورت اتوماتیک اجرا می شود را توسط پایتون در محیط کوانتم اجرا کنید."
+
+#: ../../source/site/getinvolved/development/index.rst:41
+msgid ""
+"Interested in python plugin development, go here http://plugins.qgis.org or "
+"have a look into the :ref:`PyQGIS-Developer-Cookbook`."
+msgstr "علاقه مندان به تولید و توسعه پلاگین های اختصاصی، به این لینک http://plugins.qgis.org نگاه کنید:ref:`PyQGIS-Developer-Cookbook`."
+
+#: ../../source/site/getinvolved/development/index.rst:45
+msgid "Python iface documentation"
+msgstr "مستندات رابط پایتون"
+
+#: ../../source/site/getinvolved/development/index.rst:47
+msgid "You can find the QGIS-iface which you can use via python here:"
+msgstr "مشا می توانید از پایتون در رابط گرافیکی استفاده نمائید در اینجا:"
+
+#: ../../source/site/getinvolved/development/index.rst:49
+msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
+msgstr "(برای نسخه آزمایشی کوانتم)http://qgis.org/api/classQgisInterface.html"
+
+#: ../../source/site/getinvolved/development/index.rst:51
+msgid "http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
+msgstr "(برای نسخه 2.0 کوانتم) http://qgis.org/api/2.0/classQgisInterface.html"
+
+#: ../../source/site/getinvolved/development/index.rst:53
+msgid "http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
+msgstr "(برای نسخه 1.8 کوانتم) http://qgis.org/api/1.8/classQgisInterface.html"
