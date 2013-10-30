@@ -181,15 +181,22 @@ Wheezy (7.x)::
  deb     http://qgis.org/debian wheezy main
  deb-src http://qgis.org/debian wheezy main
 
-Jessie (8.x)::
+Jessie (8.x) and Sid (Unstable)::
 
- deb     http://qgis.org/debian jessie main
- deb-src http://qgis.org/debian jessie main
+ Jessie and Sid have library changes all the time.
+ The QGIS stable package will break at a certain time.
+ Nightly/untested builds for QGIS stable would not be 'stable'.
 
-Sid (Unstable)::
+ As an alternative, please run QGIS testing on Jessie and Sid.
+ OR 
+ compile QGIS stable yourself on Jessie/Sid (see INSTALL)
 
- deb     http://qgis.org/debian sid main
- deb-src http://qgis.org/debian sid main
+.. deb     http://qgis.org/debian jessie main
+.. deb-src http://qgis.org/debian jessie main
+
+
+.. deb     http://qgis.org/debian sid main
+..  deb-src http://qgis.org/debian sid main
 
 To add the the http://qgis.org repository public key to your apt keyring, type::
 
