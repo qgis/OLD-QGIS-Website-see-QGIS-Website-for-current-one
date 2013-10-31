@@ -227,6 +227,7 @@ bank account rather than PayPal.
 * Christopher Kahler
 * Cristian Spieles
 * Christian Schwartze
+* Compagnie du vent
 * D R Arbib
 * Dan Karran
 * David Addy
@@ -283,6 +284,7 @@ bank account rather than PayPal.
 * Ivan Mincik
 * Ivan Marchesini
 * Jake Maier
+* Jacopo Ognibene
 * James Larsen
 * James Crone
 * Jan Militzer
@@ -337,6 +339,7 @@ bank account rather than PayPal.
 * Mateusz Loskot
 * Matt Foy
 * Matt Wilkie
+* Maximilian Lohse
 * Michael Schweizer
 * Michele Beneventi
 * Miguel Fernández Astudillo
@@ -360,6 +363,7 @@ bank account rather than PayPal.
 * Pablo Torres Carreira
 * Paolo Cavallini
 * Paolo Livio Craveri
+* Paul Hignett
 * Patti Giuseppe
 * Peter Brodersen
 * Peter Löwe
