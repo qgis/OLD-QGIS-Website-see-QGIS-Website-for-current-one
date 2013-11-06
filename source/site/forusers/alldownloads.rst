@@ -306,30 +306,41 @@ QGIS stable
 ...........
 
 Latest openSUSE package called qgis2 is available for 12.1, 12.2, 12.3, Factory and 
-Tumbleweed (32 and 64bit). Add the following repository to your installation manager. 
-All packages include GRASS and Python support.
+Tumbleweed (32 and 64bit). Add the following repository to your installation manager 
+together with the openSUSE VERSION you work with (e.g. openSUSE_12.3). 
 
-http://download.opensuse.org/repositories/Application:/Geo/VERSION/
+::
+
+  http://download.opensuse.org/repositories/Application:/Geo/<VERSION>/
+
+All packages include GRASS and Python support.
 
 QGIS testing
 ............
 
 A regularly updated development package from qgis master called qgis-master is available 
 for 12.1, 12.2, 12.3, Factory and Tumbleweed (32 and 64bit). Add the following repository 
-to your installation manager. All packages include GRASS and Python support.
+to your installation manager together with the openSUSE VERSION you work with (e.g. openSUSE_12.3). 
 
-http://download.opensuse.org/repositories/Application:/Geo/VERSION/
+::
+
+  http://download.opensuse.org/repositories/Application:/Geo/<VERSION>/
+
+All packages include GRASS and Python support.
 
 QGIS 1.8
 ........
 
 OpenSUSE package for QGIS 1.8 is called qgis. It is available for 12.1,
 12.2, 12.3, Factory and Tumbleweed (32 and 64bit). Add the following
-repository to your installation manager. All packages include GRASS and
-Python support.
+repository to your installation manager together with the openSUSE VERSION 
+you work with (e.g. openSUSE_12.3).
 
-http://download.opensuse.org/repositories/Application:/Geo/VERSION/
+::
 
+  http://download.opensuse.org/repositories/Application:/Geo/<VERSION>/
+
+All packages include GRASS and Python support.
 
 Mandriva
 --------
