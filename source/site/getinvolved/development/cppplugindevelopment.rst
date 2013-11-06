@@ -4,8 +4,6 @@
 Developing CPP plugins
 ----------------------
 
-http://hub.qgis.org/wiki/17/Writing_C++_Plugins_%5BNew%5D
-
 Preparing the Environment and Setting up the Repo
 
 Go to the QGIS repository in Github at https://github.com/qgis/QGIS/
