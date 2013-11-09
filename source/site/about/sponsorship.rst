@@ -230,15 +230,16 @@ bank account rather than PayPal.
 * Compagnie du vent
 * D R Arbib
 * Dan Karran
+* Dariusz Bobak
 * David Addy
+* David Enns
 * David Horsey
 * David Vaarwerk
 * Dheeraj Chand
 * Didier Genier
 * Dirk Pflugmacher
-* David Enns
-* Dariusz Bobak
 * Dominique Pitt
+* Don Williams
 * Doswald Cornel
 * Douglas Lane
 * Dušan Pavlík
@@ -274,6 +275,7 @@ bank account rather than PayPal.
 * Guenther Moeller
 * Guillaume Raspini
 * Håvard Gåseidnes
+* Harald Grote
 * Heiko Schmüser
 * Heinrich Schweizer
 * Hiroshi Kawakami
@@ -306,6 +308,7 @@ bank account rather than PayPal.
 * José Alfonso de Tomás Gargantilla
 * Jose Augusto Faes
 * Julien Villery
+* Julien-Pierre Guilloux
 * Junji Yamakawa
 * K Brock Riedell
 * Kanton Solothurn SOGIS
@@ -358,6 +361,7 @@ bank account rather than PayPal.
 * Ola Martin Krog
 * Oliver Schonrock
 * Oriental Rugs Online
+* Oronzo Antonio Longo
 * Osvaldo Mascetti
 * Otto Dassau
 * Pablo Torres Carreira
@@ -418,6 +422,7 @@ bank account rather than PayPal.
 * Wendelin Schmit
 * Werner Macho
 * William Levering
+* Wolfgang Dennhöfer
 * Yuan Harng Lee
 * Yves Jacolin
 * Zachary Patterson
