@@ -57,6 +57,15 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
+|bronze| |argus|
+
+`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 11.2013-11.2014)
+
+.. |argus| image:: /static/site/about/images/argus.jpg
+   :width: 150 px
+
+----
+
 .. image:: /static/site/about/images/gfoss.png
    :width: 150 px
    :align: left
@@ -92,15 +101,6 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 .. |fossgisev| image:: /static/site/about/images/fossgisev.png
    :width: 140 px
-
-----
-
-|bronze| |argus|
-
-`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013)
-
-.. |argus| image:: /static/site/about/images/argus.jpg
-   :width: 130 px
 
 ----
 
