@@ -10,7 +10,7 @@
 # then only those images will be handled
 
 QGIS_DOC_DIR='QGIS-Documentation'
-QGIS_DOC_BRANCH='master'
+QGIS_DOC_BRANCH='manual_en_v2.0'
 LANGUAGES=`ls i18n`
 
 if [ $1 ]; then
