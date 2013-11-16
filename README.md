@@ -1,6 +1,16 @@
 QGIS-Website
 ============
 
+Website is a static generated website using Sphinx, based on restructured text (rst).
+
+Most sources are in source/site. Only frontpage and landingpages are in theme/qgis-theme
+
+Styling is in theme/qgis-theme. This theme is used for website and documentation builds. 
+The Website version is the canonical one.
+
+Building the website
+--------------------
+
 To be able to run localisation targets you will need Sphinx 1.2b3 which comes with pip. 
 Sphinx coming with most distro's is just 1.1.3. You will get an gettext error with those.
 
@@ -67,7 +77,9 @@ See the website in action: http://www.qgis.org
 Styling the website
 -------------------
 
-qgis-style.css is based on Less (see http://lesscss.org/ )
+Most javascript and css is in theme/qgis-style/ files.
+
+theme/qgis-style/qgis-style.css is based on Less (see http://lesscss.org/ )
 
 To make changes to CSS on MacOsx
  
