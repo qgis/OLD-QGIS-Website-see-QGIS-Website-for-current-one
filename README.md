@@ -1,7 +1,9 @@
 QGIS-Website
 ============
 
-Website is a static generated website using Sphinx, based on restructured text (rst).
+Website is a static generated website using Sphinx (http://sphinx-doc.org/), 
+based on restructured text sources (rst: http://docutils.sourceforge.net/rst.html)
+and html (jinja2) templates.
 
 Most sources are in source/site. Only frontpage and landingpages are in theme/qgis-theme
 
@@ -10,6 +12,8 @@ The Website version is the canonical one.
 
 Building the website
 --------------------
+
+Building is only tested on Linux systems using make.
 
 To be able to run localisation targets you will need Sphinx 1.2b3 which comes with pip. 
 Sphinx coming with most distro's is just 1.1.3. You will get an gettext error with those.
