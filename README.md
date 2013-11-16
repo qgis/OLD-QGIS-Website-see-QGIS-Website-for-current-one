@@ -1,8 +1,8 @@
 QGIS-Website
 ============
 
-To be able to run localisation targets you will need Sphinx 1.2b1 which comes with pip. 
-Sphinx coming with most distro's is just 1.1.3. You will get an error with those.
+To be able to run localisation targets you will need Sphinx 1.2b3 which comes with pip. 
+Sphinx coming with most distro's is just 1.1.3. You will get an gettext error with those.
 
 Best to run the make file in a virtual env ( http://www.virtualenv.org/ ):
 
@@ -27,14 +27,14 @@ You can install all tools in on go via the REQUIREMENTS.txt here in root of this
 
 Alternatively do it one by one:
 
-Install sphinx 1.2b1 now in your virtual env:
+Install sphinx 1.2b3 now in your virtual env:
 
-    pip install sphinx==1.2b1
+    pip install sphinx==1.2b3
     
 Sphinx bootstrap theme ( http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html ).
-We use 0.3.0 currently.
+We use 0.3.2 currently.
 
-    pip install sphinx_bootstrap_theme==0.3.0
+    pip install sphinx_bootstrap_theme==0.3.2
 
 Sphinx intl extention ( https://pypi.python.org/pypi/sphinx-intl ):
 
@@ -43,23 +43,26 @@ Sphinx intl extention ( https://pypi.python.org/pypi/sphinx-intl ):
 Then build:
 
     make html (to build the english languag)
-    make LANG=nl html (to build the dutch version. Currently available: en, nl, es, zh_CN, de, it)
+    make LANG=nl html (to build the dutch version. Currently available: ca_ES  da_DK  de  en  es  fa  fi  fr  hi  id  it  ja  km_KH  ko_KR  nl  pt_PT  ro  ru  zh_CN  zh_TW)
 
-If you want add the QGIS-Documentation docs into the build, you need to manually copy the sources, resources and po files into the website project
+If you want add the QGIS-Documentation docs into the build, you either need to manually copy the sources, resources 
+and po files into the website project. Or use the fullhtml target of make (which will checkout the 2.0 branch):
 
-    make fullhtml (english)
+    # to build english:
+    make fullhtml
+    # to build eg dutch:
     make LANG=nl fullhtml
 
 To gather new strings in a pot (.po) file for your language, and merge them with 
 excisting translations in the po files (normally to be ran by your language maintainer):
 
-    make LANG=xx pretranslate # where xx is your language code
+    make pretranslate LANG=xx  # where xx is your language code
 
 To add a new language (the scripts will need some directory structure):
 
-    make createlang
+    make createlang LANG=xx
 
-See it in action: http://new.qgis.org/html/en/site (to be moved)
+See the website in action: http://www.qgis.org
 
 Styling the website
 -------------------
