@@ -1,13 +1,14 @@
 # 
 # Translators:
+# diethard.jansen <diethard.jansen@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-23 13:13+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Dutch <qgis-tr@lists.osgeo.org>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-27 08:19+0000\n"
+"Last-Translator: diethard.jansen <diethard.jansen@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,57 +17,84 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:4
 msgid "QGIS Development"
-msgstr ""
+msgstr "QGIS Ontwikkeling"
 
 #: ../../source/site/getinvolved/development/index.rst:6
 msgid "Welcome to the QGIS Development pages"
-msgstr ""
+msgstr "Welkom op de pagina Ontwikkeling QGIS"
 
 #: ../../source/site/getinvolved/development/index.rst:10
 msgid "Bugs, Features and Issues"
-msgstr ""
+msgstr "Bugs, Features en Issues"
 
 #: ../../source/site/getinvolved/development/index.rst:12
 msgid ""
 "If you find a bug, please read `our hints on issueing bugs "
 "<http://hub.qgis.org/wiki/quantum-gis/Bugreports>`_"
-msgstr ""
+msgstr "Een 'bug' is een fout, wanneer je een fout vind lees `onze hints voor het inbrengen van een fout <http://hub.qgis.org/wiki/quantum-gis/Bugreports>`_"
 
 #: ../../source/site/getinvolved/development/index.rst:17
 msgid "Development"
-msgstr ""
+msgstr "Ontwikkeling"
 
 #: ../../source/site/getinvolved/development/index.rst:19
 msgid "See https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
-msgstr ""
+msgstr "Zie https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 
-#: ../../source/site/getinvolved/development/index.rst:24
+#: ../../source/site/getinvolved/development/index.rst:23
+msgid "Api Documentation"
+msgstr "API Documentatie"
+
+#: ../../source/site/getinvolved/development/index.rst:25
+msgid "You can find the API documentation for cpp here:"
+msgstr "Je kunt de API documentatie (Application Program Interface, oftewel de programmafuncties die je kunt aanroepen) voor cpp hier vinden:"
+
+#: ../../source/site/getinvolved/development/index.rst:27
+msgid "http://qgis.org/api/ (for QGIS testing)"
+msgstr "http://qgis.org/api/ (voor QGIS testing: de huidige ontwikkelversie o.a. voor het testen van QGIS)"
+
+#: ../../source/site/getinvolved/development/index.rst:29
+msgid "http://qgis.org/api/2.0/ (for QGIS 2.0)"
+msgstr "http://qgis.org/api/2.0/ (voor QGIS 2.0, stabiele versie)"
+
+#: ../../source/site/getinvolved/development/index.rst:31
+msgid "http://qgis.org/api/1.8/ (for QGIS 1.8)"
+msgstr "http://qgis.org/api/1.8/ (voor QGIS 1.8, stabiele versie)"
+
+#: ../../source/site/getinvolved/development/index.rst:35
 msgid "Python Development"
-msgstr ""
+msgstr "Python Ontwikkeling"
 
-#: ../../source/site/getinvolved/development/index.rst:26
+#: ../../source/site/getinvolved/development/index.rst:37
 msgid "QGIS has a lot to offer for python developers too."
-msgstr ""
+msgstr "QGIS heeft ook veel te bieden voor Python ontwikkelaars."
 
-#: ../../source/site/getinvolved/development/index.rst:28
+#: ../../source/site/getinvolved/development/index.rst:39
 msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
-msgstr ""
+msgstr "Veel functies van QGIS kun je aanroepen via python zodat je taken in QGIS kunt automatiseren via python."
 
-#: ../../source/site/getinvolved/development/index.rst:30
+#: ../../source/site/getinvolved/development/index.rst:41
 msgid ""
 "Interested in python plugin development, go here http://plugins.qgis.org or "
-"have a look into the `PyQGIS cookbook "
-"<docs/pyqgis_developer_cookbook/index>`_"
-msgstr ""
+"have a look into the :ref:`PyQGIS-Developer-Cookbook`."
+msgstr "Wanneer je interesse hebt in het ontwikkelen van python plugins, ga naar http://plugins.qgis.org of kijk eens naar het :ref:`PyQGIS-Developer-Cookbook`."
 
-#~ msgid "Test"
-#~ msgstr ""
+#: ../../source/site/getinvolved/development/index.rst:45
+msgid "Python iface documentation"
+msgstr "Python iface documentatie"
 
-#~ msgid ""
-#~ "This is a test for localisation. In dutch the image below should be in "
-#~ "dutch:"
-#~ msgstr ""
+#: ../../source/site/getinvolved/development/index.rst:47
+msgid "You can find the QGIS-iface which you can use via python here:"
+msgstr "Je kunt informatie over QGIS iface, de interface waarmee je QGIS via python kunt benaderen hier:"
 
-#~ msgid ""
-#~ "Interested in python plugin development, go here http://plugins.qgis.org"
-#~ msgstr ""
+#: ../../source/site/getinvolved/development/index.rst:49
+msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
+msgstr "http://qgis.org/api/classQgisInterface.html (Laatste ontwikkelversie voor het testen van QGIS)"
+
+#: ../../source/site/getinvolved/development/index.rst:51
+msgid "http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
+msgstr "http://qgis.org/api/2.0/classQgisInterface.html (voor QGIS 2.0, stabiel)"
+
+#: ../../source/site/getinvolved/development/index.rst:53
+msgid "http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
+msgstr "http://qgis.org/api/1.8/classQgisInterface.html (voor QGIS 1.8, stabiel)"

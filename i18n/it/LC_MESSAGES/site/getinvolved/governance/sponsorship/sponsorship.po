@@ -1,18 +1,23 @@
 # 
 # Translators:
+# MDS77 <matteo_destefano@yahoo.it>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-23 13:13+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-11-10 22:30+0000\n"
+"Last-Translator: MDS77 <matteo_destefano@yahoo.it>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:5
+msgid "Sponsorship Program Overview"
+msgstr "Panoramica del Programma di Sponsorizzazione"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:7
 msgid ""
@@ -25,14 +30,14 @@ msgid ""
 "behind. In addition, promoting QGIS requires our participation at congresses"
 " and conferences and the production of information material, sometimes very "
 "expensive for volunteer developers."
-msgstr ""
+msgstr "QGIS è un progetto interamente Open Source. Lo sviluppo di QGIS è portato avanti soprattutto da un gruppo di volontari, che nel tempo hanno costruito un codice di base ampio, prezioso e utile, che tutti possono usare o migliorare liberamente. Infatti chiunque ha libero accesso al codice sorgente e binario, reso disponibile sul nostro sito. Come conseguenza di questo approccio volontaristico tuttavia, alcune delle attività considerate meno interessanti o importanti dagli sviluppatori vengono talvolta trascurate. Inoltre, promuovere QGIS richiede una partecipazione attiva a congressi e conferenze, e la produzione di materiale informativo è spesso troppo costosa per gli sviluppatori volontari."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:17
 msgid ""
 "Meanwhile, many organizations have made an investment in using QGIS as part "
 "of their operations, but have not had a way to directly contribute to the "
 "success and long-term health of the project."
-msgstr ""
+msgstr "Allo stesso tempo, molte organizzazioni hanno fatto investimenti sull'uso di QGIS come parte delle loro operazioni, ma non hanno offerto un contributo diretto al successo e alla sostenibilità di lungo termine del progetto."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:21
 msgid ""
@@ -41,7 +46,7 @@ msgid ""
 "promotion of QGIS. Sponsorship is not a way for individuals to control the "
 "development of the project, but rather a way of ensuring the longevity and "
 "overall health of the project."
-msgstr ""
+msgstr "Vorremmo estendere le nostre attività, e migliorare la qualità di QGIS. Il vostro contributo economico può supportare il mantenimento, il miglioramento e la promozione di QGIS. La sponsorizzazione non è uno strumento individuale di controllo dello sviluppo del progetto, ma piuttosto un modo per assicurarne la longevità e la sostenibilità complessiva."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:27
 msgid ""
@@ -49,32 +54,32 @@ msgid ""
 "starting from that in Vienna, autumn 2009. Users donations, with the co-"
 "sponsoring of the Italian GFOSS.it association allow us to fund travel and "
 "accommodation costs of several key developers."
-msgstr ""
+msgstr "Grazie alle vostre donazioni, siamo stati in grado di finanziare i meeting di sviluppatori, a partire da quello di Vienna, nell'autunno del 2009. Le donazioni degli utenti, assieme alla co-sponsorizzazione dell'associazione italiana GFOSS.it, ci hanno permesso di coprire le spese di viaggio e pernottamento di numerosi sviluppatori."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:32
 msgid ""
 "Donations thus contributed effectively to the great success of the meeting "
 "(see e.g. a report)."
-msgstr ""
+msgstr "Tali donazioni hanno effettivamente contribuito al grande successo dei meeting (vedi per esempio uno dei report)."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:35
 msgid "We encourage you to donate again to the upcoming developer meetings."
-msgstr ""
+msgstr "Ti incoraggiamo a donare nuovamente per i prossimi meeting di sviluppatori."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:38
 msgid "How can you support the QGIS Development"
-msgstr ""
+msgstr "Come puoi supportare lo sviluppo di QGIS"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:40
 msgid ""
 "There are two kinds of financial contributions, we accept: sponsorships: a "
 "sponsorship is an annual commitment of funds to the project.  donation: a "
 "donation is a once off financial contribution to the QGIS project."
-msgstr ""
+msgstr "Ci sono due modalità di contributo finanziario. Accettiamo: sponsorizzazioni, ovvero contributi con cadenza regolare annuale; donazioni, ovvero contributi singoli al progetto QGIS."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:45
 msgid "Sponsorship"
-msgstr ""
+msgstr "Sponsorizzazioni"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
 msgid ""
@@ -82,71 +87,71 @@ msgid ""
 "€/700 US$. Sponsorships last one year, after which they may be continued "
 "with a new payment, or allowed to lapse. At or above the following levels a "
 "sponsor will be designated as being one of the following class:"
-msgstr ""
+msgstr "Gli sponsor possono sponsorizzare Quantum GIS per un'ammontare di almeno 500 €/700 US$. Le sponsorizzazioni durano almeno un anno, dopo il quale possono continuare con un nuovo pagamento o cessare. A partire dalle soglie seguenti, uno sponsor viene intitolato a una delle seguenti classi:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "euros"
-msgstr ""
+msgstr "euro"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "us dollars"
-msgstr ""
+msgstr "dollari USA"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "sponsorship level"
-msgstr ""
+msgstr "livello di sponsorizzazione"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:55
 msgid "27,000+"
-msgstr ""
+msgstr "27,000+"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:55
 msgid "39,000"
-msgstr ""
+msgstr "39,000"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:55
 msgid "Platinum Sponsor"
-msgstr ""
+msgstr "Sponsor Platino"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:56
 msgid "9,000+"
-msgstr ""
+msgstr "9,000+"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:56
 msgid "13,000"
-msgstr ""
+msgstr "13,000"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:56
 msgid "Gold Sponsor"
-msgstr ""
+msgstr "Sponsor Oro"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:57
 msgid "3,000+"
-msgstr ""
+msgstr "3,000+"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:57
 msgid "4,300"
-msgstr ""
+msgstr "4,300"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:57
 msgid "Silver Sponsor"
-msgstr ""
+msgstr "Sponsor Argento"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:58
 msgid "500+"
-msgstr ""
+msgstr "500+"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:58
 msgid "700"
-msgstr ""
+msgstr "700"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:58
 msgid "Bronze Sponsor"
-msgstr ""
+msgstr "Sponsor Bronzo"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:62
 msgid "Donation"
-msgstr ""
+msgstr "Donazione"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:64
 msgid ""
@@ -154,81 +159,81 @@ msgid ""
 "provided in the left-hand menu of this website or through our bank account "
 "(write us for details: cavallini at faunalia dot it). Even a small donation "
 "can make a big difference and help to reach important project goals!"
-msgstr ""
+msgstr "Le donazioni possono essere di qualunque importo, tramite il link Fai Una Donazione PayPal che trovi nel menù a sinistra in questo sito, o tramite il nostro conto bancario (scrivici per i dettagli: cavallini at faunalia dot it). Anche una piccola donazione può fare una grande differenza e aiutarci a raggiungere importanti obiettivi del progetto!"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:69
 msgid ""
 "If you wish to send us a larger donation, you are strongly encouraged to use"
 " the bank account rather than PayPal."
-msgstr ""
+msgstr "Nel caso tu voglia inviarci una donazione più cospicua, ti consigliamo vivamente di usare un bonifico bancario piuttosto che l'account PayPal."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:73
 msgid "What is your benefit sponsoring the QGIS Development?"
-msgstr ""
+msgstr "Qual'è il tuo beneficio a sponsorizzare lo sviluppo di QGIS?"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
 msgid "Sponsoring the Quantum GIS project provides the following benefits:"
-msgstr ""
+msgstr "Sponsorizzare il progetto Quantum GIS offre i seguenti benefici:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:77
 msgid "Ensures the sustainability and health of the QGIS project."
-msgstr ""
+msgstr "Assicura la sostenibilità e la durata del progetto QGIS."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:78
 msgid ""
 "All sponsors will be listed on the project sponsor page, ordered by "
 "contribution class (Platinum, Gold, Silver, Bronze) with a link back to the "
 "sponsor."
-msgstr ""
+msgstr "Tutti gli sponsor verranno elencati alla pagina degli sponsor al progetto, in ordine di classe di contributo (Platino, Oro, Argento, Bronzo), con un link allo sponsor."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:81
 msgid ""
 "Platinum Sponsors will have their logo placed on rotating banner on front "
 "page of qgis.osgeo.org"
-msgstr ""
+msgstr "Gli sponsor Platino vedranno il loro logo visibile su un banner rotante alla pagina iniziale di qgis.osgeo.org"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:83
 msgid ""
 "Gold Sponsors will be listed on the sponsors page with a large logo (e.g. "
 "300x200px)"
-msgstr ""
+msgstr "Gli sponsor Oro saranno elencati alla pagina degli sponsor con un logo grande (es: 300X200px)"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:85
 msgid ""
 "Silver sponsors will be listed on the sponsors page with a medium size logo "
 "(e.g. 150x100px)"
-msgstr ""
+msgstr "Gli sponsor Argento saranno elencati alla pagina degli sponsor con un logo di dimensione media (es: 150X100px)"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:87
 msgid ""
 "Bronze sponsors will be listed on the sponsors page with a small size logo "
 "(e.g. 64x64px)"
-msgstr ""
+msgstr "Gli sponsor Bronzo verranno elencati alla pagina degli sponsor con un logo piccolo (es: 64X64px)"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:89
 msgid "Sponsors will be listed in the front matter of the QGIS manual"
-msgstr ""
+msgstr "Gli sponsor verranno elencati nell'introduzione del manuale QGIS"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:90
 msgid ""
 "Sponsors will be allowed to use a special version of the QGIS logo on their "
 "web site and promotional materials, which shows they are a sponsor of the "
 "QGIS project"
-msgstr ""
+msgstr "Gli sponsor potranno usare una versione speciale del logo QGIS sul loro sito web, oltre a materiale promozionale che mostra il loro contributo al progetto QGIS"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:93
 msgid ""
 "Donors will be listed on the sponsors page, but do not receive the "
 "additional benefits listed above for sponsors"
-msgstr ""
+msgstr "I donatori verranno elencati alla pagina degli sponsor, ma non riceveranno i benefit aggiuntivi appena descritti di cui beneficiano gli sponsor"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:95
 msgid "No advertising will be placed within the QGIS application itself."
-msgstr ""
+msgstr "Non ci sarà alcuna forma di pubblicità nel software di QGIS."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:99
 msgid "How do we use financial support?"
-msgstr ""
+msgstr "Come usiamo il supporto finanziario?"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:101
 msgid ""
@@ -237,13 +242,13 @@ msgid ""
 "developers, and to fund work on peripheral project tasks so that core "
 "contributors can focus efforts on QGIS improvements. As an example, we would"
 " like to fund the following project activities:"
-msgstr ""
+msgstr "I fondi della sponsorizzazione saranno spesi per migliorare direttamente il codice di base del progetto, per finanziare attività che ricevono minor attenzione dagli sviluppatori, e per finanziare il lavoro sugli aspetti marginali del progetto, consentendo agli sviluppatori principali di concentrarsi sui miglioramenti più importanti di QGIS. Ad esempio, ci piacerebbe finanziare le attività seguenti:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:107
 msgid ""
 "fund developers to work on specific aspects of QGIS including implementing "
 "new features and fixing bugs"
-msgstr ""
+msgstr "finanziare sviluppatori che lavorino su aspetti specifici di QGIS, tra cui l'implementazione di nuove funzionalità e la correzione di malfunzionamenti"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:109
 msgid ""
@@ -252,7 +257,7 @@ msgid ""
 "developers will happily donate their time to such events, but we are looking"
 " for sponsors to cover travel, accommodation and subsistence costs for these"
 " events."
-msgstr ""
+msgstr "Un meeting annuale degli sviluppatori dove ci si possa incontrare di persona e interagire attivamente, fissare malfunzionamenti, e passare una settimana di intenso lavoro di sviluppo di QGIS. La maggiorparte degli sviluppatori dona volentieri il proprio tempo per questi eventi, ma cerchiamo sponsor che ci permettano di coprire i costi di viaggio, vitto e alloggio."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:114
 msgid ""
@@ -261,13 +266,13 @@ msgid ""
 "able to fund QGIS team members to represent QGIS at important conferences, "
 "to promote it among users and raise interest and solicit code contributions "
 "from other developers."
-msgstr ""
+msgstr "partecipare ad ulteriori conferenze. Ci sono molte conferenze di alto profilo organizzate annualmente (come la http://www.foss4g.org), e ci piacerebbe poter finanziare i membri del team di QGIS perchè possano rappresentare QGIS alle conferenze più importanti, per promuoverlo tra gli utenti, generare interesse, e sollecitare contributi al codice da parte di nuovi sviluppatori."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:119
 msgid ""
 "Decisions on spending of sponsorship funds will be made by the QGIS Project "
 "Steering Committee."
-msgstr ""
+msgstr "Le decisioni su come spendere i fondi delle sponsorizzazioni vengono prese dallo Steering Committee di QGIS."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:122
 msgid ""
@@ -276,7 +281,7 @@ msgid ""
 "QGIS development, we encourage you to allocate additional human resources to"
 " the project, e.g. hiring a developer, or participating to our bug fixing "
 "initiative."
-msgstr ""
+msgstr "Ci spiace non essere in grado di accettare fondi vincolati, poiché creano molti problemi amministrativi. Se siete interessati a finanziare aspetti specifici dello sviluppo di QGIS, vi incoraggiamo ad allocare addizionali risorse umane al progetto, ad esempio assumendo uno sviluppatore, o partecipando a un'iniziativa di correzione di malfunzionamenti."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:128
 msgid ""
@@ -287,7 +292,7 @@ msgid ""
 "spatial services, or offers where we have reason to believe the presence of "
 "the sponsors logo and marketing materials on our site and other materials "
 "will degrade the experience of our users will be declined."
-msgstr ""
+msgstr "La decisione di accettare un'offerta di sponsorizzazione è a discrezione del Comitato Direttivo del Progetto di QGIS. Ci riserviamo il diritto di declinare le offerte di sponsorizzazione se l'ente sponsorizzante non si armonizza con l'etica alla base del nostro progetto. Per esempio rifiuteremo le offerte dalle compagnie di marketing che non hanno nulla a che vedere con i GIS o i servizi spaziali, o la cui presenza con loghi o materiale pubblicitario degradasse l'esperienza degli utenti."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:136
 msgid ""
@@ -295,11 +300,4 @@ msgid ""
 "should contact the QGIS PSC Finance and Marketing advisor, Paolo Cavallini "
 "at: cavallini at faunalia dot it (+39-348-3801953) with questions, or to "
 "make arrangements."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:5
-msgid "Sponsorship Program Overview"
-msgstr ""
-
-#~ msgid "Sponsorship Programme Overview"
-#~ msgstr ""
+msgstr "Le organizzazioni o gli individui che sono interessati a sponsorizzare il progetto QGIS possono contattare il Consigliere Finanziario e di Marketing del Comitato Direttivo del Progetto QGIS, Paolo Cavallini a: cavallini at faunalia dot it (+39-348-3801953) per qualunque domanda o per discutere eventuali accordi."

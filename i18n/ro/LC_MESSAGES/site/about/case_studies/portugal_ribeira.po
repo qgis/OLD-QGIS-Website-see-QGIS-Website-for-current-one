@@ -1,12 +1,13 @@
 # 
 # Translators:
+# csorin <scalinica@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-01 17:11+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-11-01 14:40+0000\n"
+"Last-Translator: csorin <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +19,7 @@ msgstr ""
 msgid ""
 "QGIS and GRASS for modelling ecological corridors for wolves in North "
 "Portugal"
-msgstr ""
+msgstr "QGIS și GRASS pentru modelarea coridoarelor ecologice pentru lupii din Portugalia de Nord"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:6
 msgid ""
@@ -28,11 +29,11 @@ msgid ""
 "“vulnerable” species in Spain and “endangered” in Portugal. Nowadays, there "
 "are only around 300 wolves in Portugal,  due to the high persecution, "
 "destruction and fragmentation of the habitat."
-msgstr ""
+msgstr "Lupul iberic este o sub-specie de lup gri care trăiește doar în nordul Portugaliei și Spaniei, în grupuri mici, izolate, în partea de sud a râului Douro. Pe parcursul secolului trecut, numărul lupilor s-a micșorat drastic, ajungând o specie “vulnerabilă” în Spania și “pe cale de dispariție” în Portugalia. În prezent, mai există doar aproximativ 300 de lupi în Portugalia, din cauza persecuțiilor și a distrugerii și fragmentării  habitatului."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:13
 msgid "Study area in Portugal"
-msgstr ""
+msgstr "Zona de studiu din Portugalia"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:15
 msgid ""
@@ -44,14 +45,14 @@ msgid ""
 "verdant Minho, Ribeira de Pena is one of the municipalities that can work "
 "like an ecological corridor between areas with higher wolf concentration in "
 "the north with lower concentration in the south."
-msgstr ""
+msgstr "Ribeira de Pena este o municipalitate din districtul Vila Real, în partea de nord a Portugaliei. Această municipialitate rurală este caracterizată de agricultură, erbivore, păduri, munți, văi și faună diversă, având o densitate scăzută a populației umane, având condiții de adăpost și hrană pentru lupi. Situată într-o zonă de tranziție între condițiile aspre ale munților Trás-os-Montes și înverzitul Minho, Ribeira de Pena este una dintre municipalitățile care pot funcționa ca și coridor ecologic între zonele de nord, cu o concentrare mai mare de lupi și zonele de sud, cu concentrație mai mică."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:17
 msgid ""
 "I started using GIS software during my biology course, and more often during"
 " my master thesis. At that time I used mainly proprietary software. After I "
 "finished my master degree, I lost access to the proprietary software."
-msgstr ""
+msgstr "Am început să utilizez programe GIS la cursul de biologie și, mai des, în teza mea de master. În acel moment am folosit în principal programe proprietare. După ce am terminat masteratul, nu am mai avut acces la programe proprietare."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:19
 msgid ""
@@ -64,7 +65,7 @@ msgid ""
 "already knew. I quickly realized how mistaken I was, and got really "
 "enthusiastic with the analytical capabilities QGIS provided, specially with "
 "GRASS integration."
-msgstr ""
+msgstr "Între timp, am intrat în noua lume Linux. Apoi mi s-a cerut să ofer ajutor unor cercetători, pentru modelarea coridoarelor ecologice pentru lupii din Ribeira de Pena, folosind GIS, deoarece nu lucraseră niciodată cu acest tip de program. Pentru că utilizam deja Linux în loc de Windows, prima mea problemă a fost software-ul pe care urma să-l utilizez. Apoi am auzit despre QGIS și am decis să-l încerc, deși părea foarte simplist și incomplet, în comparație cu ceea ce știam deja. Mi-am dat repede seama cât de greșită era concepția mea anterioară, fiind foarte entuziastă de capacitățile de analiză furnizate de QGIS, în special de integrarea cu GRASS."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:21
 msgid ""
@@ -92,17 +93,17 @@ msgid ""
 "like small villages, cities and roads. These areas must be considered "
 "critical for wolf conservation, and applied measures to reduce human impact "
 "in this species."
-msgstr ""
+msgstr "Pentru a modela coridoarele ecologice, am folosit QGIS împreună cu plugin-ul GRASS. Am folosit mai multe informații geografice, împreună cu datele despre prezența speciilor. Am folosit atât funcții de QGIS cât și de GRASS, pentru a numi doar câteva: * plugin-ul de interpolare QGIS: pentru a crea Modelul Digital de Elevație * r.watershed din Grass: pentru a generarea cursurilor de apă din DEM * r.grow.distance din Grass: pentru a genera  un strat cu distanțe pentru stratul raster de intrare * r.reclass din GRASS pentru a reclasifica straturile hărții * r.slope.aspect.slope in Grass: pentru a calcula panta DEM * r.mapcalculator din Grass: pentru simple calcule algebrice în cadrul hărții * r.cost.coord din Grass: creează o hartă raster care arată costul cumulat al deplasării între locații geografice diferite, de pe un raster de intrare ale cărui valori din celule reprezintă costul * r.drain din Grass : urmărește un flux printr-un model de elevație pe o hartă raster - cel folosit pentru a crea coridoare. Cu această lucrare am obținut o hartă cu potențiale coridoare ecologice pentru lupii din municipalitatea Ribeira de Pena. Acestea sunt domeniile care trebuie luate în considerare de către tehnicienii consiliului local atunci când se planifică măsuri de conservare pentru specii. Aceste coridoare sunt extrem de importante, deoarece acestea pot conecta fragilele haite de lupi din Vila Real, din sud, cu cei din nord, din Peneda-Gerês și Spania, care de departe sunt mult mai trainice. De o importanță deosebită sunt coridoarele care traversează așezări umane, cum ar fi mici sate, orașe și drumuri. Aceste zone trebuie să fie considerate critice pentru conservarea lupului, fiind necesară aplicarea de măsuri pentru a reduce impactul uman din această specie."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:38
 msgid ""
 "Ecological corridors and critical conservation areas for wolves in northern "
 "Portugal."
-msgstr ""
+msgstr "Coridoare ecologice și zone critice de conservare pentru lupii din nordul Portugaliei."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:41
 msgid "Conclusion"
-msgstr ""
+msgstr "Concluzie"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:43
 msgid ""
@@ -113,7 +114,7 @@ msgid ""
 "source software, usable in every computer or notebook without licenses, "
 "constant upgrades and the ultimate advantage to contribute to it's "
 "improvement and/or tip the developers about some essential function."
-msgstr ""
+msgstr "Atât QGIS cât și plugin-ul GRASS sunt foarte intuitive, având o interfață facilă și toate funcțiile esențiale pentru efectuarea celor mai multe analize. Din câte am văzut, QGIS și GRASS lucrează la fel de bine ca și programele comerciale cu care m-am familiarizat în anii de colegiu, cu marele avantaj al gratuității programelor open-source, fiind utilizabile în orice calculator sau laptop fără necesitatea unei licențe, beneficiind de actualizări constante și de marele avantaj de a putea contribui direct la dezvoltarea acestora sau prin informarea dezvoltatorilor despre o funcție esențială."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:45
 msgid ""
@@ -121,15 +122,15 @@ msgid ""
 "although there can be some missing issues, easily resolved in the future "
 "with the developers, I don't regret my decision and advise everyone to use "
 "them."
-msgstr ""
+msgstr "Trecerea pe Linux și apoi pe QGIS și GRASS a fost una dintre cele mai bune decizii, și, deși pot apărea unele dificultăți, ușor de rezolvat de către dezvoltatori, nu regret decizia luată și sfătuiesc pe oricine să folosească aceste produse."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:48
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:55
 msgid ""
 "This article was contributed in July 2012 by Monica Almeida. She is "
 "conservation biologist working in an non-governmental organization in the "
 "preservation of wolf in Portugal."
-msgstr ""
+msgstr "Acest articol a fost transmis în iulie 2012 de către Monica Almeida. Ea lucrează ca biolog într-o organizație non-guvernamentală, al cărei scop este menținerea populațiilor de lupi în Portugalia."

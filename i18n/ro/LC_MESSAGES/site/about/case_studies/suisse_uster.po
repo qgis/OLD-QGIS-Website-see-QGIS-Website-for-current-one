@@ -1,12 +1,13 @@
 # 
 # Translators:
+# csorin <scalinica@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-01 17:11+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-11-12 16:26+0000\n"
+"Last-Translator: csorin <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:3
 msgid "The use of QGIS in the Geodata Infrastructure of the City of Uster"
-msgstr ""
+msgstr "Utilizarea QGIS pentru infrastructura de date spațiale a orașului Uster"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:5
 msgid ""
@@ -27,7 +28,7 @@ msgid ""
 "new features and by financially supporting the development. In return Uster "
 "receives a rapidly evolving and platform independent Desktop GIS and WebGIS "
 "solution backed by a worldwide user and development community."
-msgstr ""
+msgstr "Orașul Uster folosește QGIS din 2007. Încurajată de decizia cantonului Solothurn de a utiliza QGIS ca un înlocuitor pentru ArcView, Uster a decis să facă, de asemenea, o încercare. Orașul s-a alăturat efortului de dezvoltare a cererii QGIS, sugerând și testând noi caracteristici și susținând financiar dezvoltarea. În schimb Uster a obținut o platformă GIS desktop, independentă, în evoluție rapidă, și o soluție WebGIS susținută de o comunitate mondială de utilizatori și dezvoltatori."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
@@ -42,7 +43,7 @@ msgid ""
 "(University of Berne)) we coordinate and sponsor the improvements of these "
 "tools, along with some improvements in data driven symbolization, automated "
 "labeling, attribute handling and forms."
-msgstr ""
+msgstr "Postgis/PostgreSQL servește ca depozit central de date geografice. Alte baze de date și surse de date sunt replicate în PostgreSQL, la intervale regulate, folosind instrumente ca OGR și FME. La început QGIS a fost folosit în principal pentru vizualizare. Primul utilizator QGIS a fost un agricultor care a avut sarcina de a superviza declarațiile făcute de către fermierii locali pentru primirea subvențiilor agricole. Mai târziu, QGIS a fost introdus ca editor de date și platformă de publicare a hărților, datorită îmbunătățirii instrumentelor de editare și editorului de hărți. Împreună cu alți utilizatori QGIS elvețieni (Solothurn, Thun și CDE (Universitatea din Berna)) coordonăm și sponsorizăm evoluția acestor instrumente, cum ar fi unele îmbunătățiri în simbolizare, etichetare automată, manipulare a atributelor și formelor."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
@@ -52,7 +53,7 @@ msgid ""
 "electricity networks. However, these are expert systems in use by specially "
 "trained staff. All other GIS projects and the viewing of all data is handled"
 " by QGIS."
-msgstr ""
+msgstr "Administrația orașului folosește, de asemenea, aplicații GIS comerciale: Autodesk Topobase, pentru captura și editarea datelor infrastructurii cadastrale și a apelor reziduale, și GE Smallworld pentru gestionarea rețelelor de gaze, apă și electricitate. Totuși, acestea sunt sisteme expert în folosința personalului special instruit. Toate celelalte proiecte GIS și vizualizarea tuturor datelor sunt asigurate de QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:21
 msgid ""
@@ -65,61 +66,61 @@ msgid ""
 "rich set of symbolization and labeling options and the consistent map "
 "rendering between the Desktop GIS application and the Web-GIS. The QGIS "
 "webclient can be tested and used at http://gis.uster.ch/"
-msgstr ""
+msgstr "În a doua jumătate a anului 2010, au fost efectuate primele teste cu serverul QGIS. În 2011 am introdus un nou sistem de WebGIS bazat pe server QGIS WMS și GeoExt/OpenLayers ca și client web. Principalele motive pentru decizia folosirii serverulului QGIS au fost economiile considerabile de timp făcute prin reutilizarea configurațiilor QGIS existente în proiectul desktop, comparativ cu gestionarea unei configurații de server web paralelă. Avantajele suplimentare sunt aduse de un set bogat de simbolizare, opțiuni de etichetare si de redare a hărții consecvente între aplicația GIS desktop și serverul web. QGIS WebClient poate fi testat și utilizat la http://gis.uster.ch/"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:28
 msgid "Today, QGIS is used for the following GIS projects:"
-msgstr ""
+msgstr "Astăzi, QGIS este utilizat pentru următoarele proiecte GIS:"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:30
 msgid ""
 "viewing of waste-water data, integration of additional databases and direct "
 "access to canal videos and inspection protocols"
-msgstr ""
+msgstr "vizualizarea datelor apelor uzate, integrarea baze de date suplimentare și accesul direct la clipurile video ale canalelor și la protocoalele de inspecție"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:31
 msgid ""
 "viewing and editing for monitoring and the environmental and urban planning "
 "of the waste water and hydrology systems (german: Genereller "
 "Entwässerungsplan)"
-msgstr ""
+msgstr "vizualizarea și editarea pentru monitorizare și planificare a mediului urban și a apelor uzate și sistemelor hidrologice (germană: Genereller Entwässerungsplan)"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:32
 msgid ""
 "viewing of underground cadastral data (waste water, water, gas and "
 "electricity networks, later also telecommunication) (german: "
 "Leitungskataster)"
-msgstr ""
+msgstr "vizualizarea datelor cadastrale subterane (rețele de electricitate, ape uzate, apă, gaz și, mai târziu, de telecomunicații) (germană: Leitungskataster)"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:33
 msgid "viewing of cadastral and survey data"
-msgstr ""
+msgstr "vizualizarea datelor cadastrale"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:34
 msgid ""
 "viewing and editing of the communal inventory of protected natural sites"
-msgstr ""
+msgstr "vizualizarea și editarea inventarului comunal al siturilor naturale protejate"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:35
 msgid "viewing and editing of urban and regional planning data"
-msgstr ""
+msgstr "vizualizarea și editarea datelor de planificare urbană și regională"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:36
 msgid "viewing and editing of road infrastructure data"
-msgstr ""
+msgstr "vizualizarea și editarea datelor infrastructurii rutiere"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:37
 msgid ""
 "viewing statistics generated directly from the database of current and past "
 "residents"
-msgstr ""
+msgstr "vizualizarea statisticilor generate direct din baza de date a rezidenților actuali și din trecut"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:39
 msgid ""
 "Planning and visualization for energy planning (gas supply regions, heat use"
 " from waste water, near-surface geothermal energy, block heating stations, "
 "etc.) Additional further projects are currently under development."
-msgstr ""
+msgstr "Planificare și vizualizarea planificării energetice (alimentarea cu gaze a regiunilor, utilizarea căldurii din apele uzate, energia geotermală aproape de suprafață, centralele termice de cartier, etc) Alte proiecte suplimentare sunt, în prezent, în curs de dezvoltare."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:47
 msgid ""
@@ -132,7 +133,7 @@ msgid ""
 "product management or sales team. The developers of these two companies are "
 "also lead developers of the QGIS project and have excellent knowledge of the"
 " code base."
-msgstr ""
+msgstr "În 2007 nu era foarte clar la ce ritm s-ar fi dezvoltat QGIS în continuare și cum vor evolua asistența comunitară și comercială. Astăzi se poate afirma că viteza de dezvoltare și îmbunătățirile aduse de comunitatea QGIS au depășit așteptările noastre. Suportul comunitar și comercial al companiilor Sourcepole și Norbit este excelent. Există o comunicare directă cu dezvoltatorii, fără a fi ținuți la distanță de managementul de produs sau de echipa de vânzări. Dezvoltatorii din aceste două societăți sunt, de asemenea, și dezvoltatori ai proiectului QGIS și au cunoștințe excelente despre codul de bază."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:49
 msgid ""
@@ -145,18 +146,18 @@ msgid ""
 " having to deal with licensing management. We are looking forward to future "
 "collaboration with the QGIS community and our commercial supporters for the "
 "advancement of the QGIS project."
-msgstr ""
+msgstr "Erorile sunt adesea remediate în termen de ore sau zile după raportare și noile evoluții sunt puse în aplicare într-un interval de timp scurt. Noile caracteristici pot fi testate imediat după dezvoltare, iar lansarea către utilizatori are loc ori de câte ori calitatea este destul de bună pentru utilizatorul final. Nu este nevoie să așteptați pentru versiunile oficiale. Ne bucurăm de libertatea de a fi în măsură să influențăm proiectul și de a instala softul pe oricât de multe calculatoare ne place, fără a avea de a face cu managementul licențelor. Așteptăm cu nerăbdare colaborarea viitoare cu comunitatea QGIS și cu suportul nostru comercial, pentru a merge înainte cu proiectul QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:52
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:59
 msgid "Andreas Neumann"
-msgstr ""
+msgstr "Andreas Neumann"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:61
 msgid ""
 "This article was contributed in April 2011 by Dr. Andreas Neumann. He is GIS"
 " coordinator at the City of Uster, Switzerland."
-msgstr ""
+msgstr "Acest articol a fost transmis în aprilie 2011 de către Dr. Andreas Neumann. El este coordonator GIS în orașul Uster, Elveția."

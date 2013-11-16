@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-13 19:00+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2013-10-31 01:07+0000\n"
+"Last-Translator: Carlos López Quintanilla <carlos.lopez@psig.es>\n"
 "Language-Team: Catalan (Spain) (http://www.transifex.com/projects/p/qgis-website/language/ca_ES/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -424,7 +424,7 @@ msgstr ""
 
 #: ../../themes/qgis-theme/about_index.html:102
 msgid "Review QGIS case studies"
-msgstr ""
+msgstr "Revisar casos d'estudi de QGIS"
 
 #: ../../themes/qgis-theme/about_index.html:111
 msgid ""
@@ -521,7 +521,7 @@ msgstr ""
 
 #: ../../themes/qgis-theme/index.html:143
 msgid "Latest News"
-msgstr ""
+msgstr "Notícies recents"
 
 #: ../../themes/qgis-theme/index.html:146
 msgid "Find out what is going on with the QGIS project and its Community."
@@ -555,15 +555,15 @@ msgstr ""
 
 #: ../../themes/qgis-theme/index.html:179
 msgid "Sponsors"
-msgstr ""
+msgstr "Patrocinadors"
 
 #: ../../themes/qgis-theme/index.html:186
 msgid "Gold Sponsor"
-msgstr ""
+msgstr "Patrocinador d'Or"
 
 #: ../../themes/qgis-theme/index.html:192
 msgid "Silver Sponsors"
-msgstr ""
+msgstr "Patrocinador Plata"
 
 #: ../../themes/qgis-theme/myglobaltoc.html:10
 msgid "Table Of Contents"
@@ -575,12 +575,12 @@ msgstr "Pàgina"
 
 #: ../../themes/qgis-theme/page.html:101
 msgid "Discover QGIS"
-msgstr ""
+msgstr "Descubreix QGIS"
 
 #: ../../themes/qgis-theme/page.html:102
 #: ../../themes/qgis-theme/forusers_index.html:23
 msgid "For Users"
-msgstr ""
+msgstr "Per usuaris"
 
 #: ../../themes/qgis-theme/page.html:104
 #: ../../themes/qgis-theme/forusers_index.html:34
@@ -614,39 +614,39 @@ msgstr "prémer"
 #: ../../themes/qgis-theme/forusers_index.html:58
 #: ../../themes/qgis-theme/forusers_index.html:62
 msgid "Download QGIS"
-msgstr ""
+msgstr "Descarrega QGIS"
 
 #: ../../themes/qgis-theme/forusers_index.html:80
 msgid "Get Plugins"
-msgstr ""
+msgstr "Obtenir Complements"
 
 #: ../../themes/qgis-theme/forusers_index.html:102
 msgid "QGIS Documentation"
-msgstr ""
+msgstr "Documentació de QGIS"
 
 #: ../../themes/qgis-theme/forusers_index.html:106
 msgid "Read QGIS Documentation"
-msgstr ""
+msgstr "Llegir Documentació de QGIS"
 
 #: ../../themes/qgis-theme/forusers_index.html:108
 msgid "Another good guide to getting started is:"
-msgstr ""
+msgstr "Una altra bona guia per començar és:"
 
 #: ../../themes/qgis-theme/forusers_index.html:111
 msgid "A Gentle Introduction to GIS"
-msgstr ""
+msgstr "Una introducció agradable al GIS"
 
 #: ../../themes/qgis-theme/forusers_index.html:128
 msgid "Learn about QGIS Features"
-msgstr ""
+msgstr "Apren sobre les Característiques de QGIS"
 
 #: ../../themes/qgis-theme/forusers_index.html:143
 msgid "Where to get support for QGIS"
-msgstr ""
+msgstr "On trobar suport per QGIS"
 
 #: ../../themes/qgis-theme/forusers_index.html:151
 msgid "QGIS Press"
-msgstr ""
+msgstr "Premsa QGIS"
 
 #: ../../themes/qgis-theme/forusers_index.html:152
 msgid ">Read all about what the QGIS Community is doing around the world."
@@ -736,7 +736,7 @@ msgstr ""
 
 #: ../../themes/qgis-theme/index.html:57
 msgid "Print"
-msgstr ""
+msgstr "Imprimir"
 
 #: ../../themes/qgis-theme/index.html:59
 msgid "QGIS 2 Print Composer has received a major face-lift ..."
@@ -748,7 +748,7 @@ msgstr ""
 
 #: ../../themes/qgis-theme/index.html:86
 msgid "Version 2.0 Dufour"
-msgstr ""
+msgstr "Versió 2.0 Dufour"
 
 #: ../../themes/qgis-theme/forusers_index.html:59
 msgid "QGIS is a cross-platform Open Source Geographic Information system."
@@ -800,89 +800,89 @@ msgstr ""
 
 #: ../../themes/qgis-theme/languageswitch.html:3
 msgid "Catalan"
-msgstr ""
+msgstr "Català"
 
 #: ../../themes/qgis-theme/languageswitch.html:7
 msgid "Finnish"
-msgstr ""
+msgstr "Finlandès"
 
 #: ../../themes/qgis-theme/languageswitch.html:13
 msgid "Portuguese"
-msgstr ""
+msgstr "Portuguès"
 
 #: ../../themes/qgis-theme/languageswitch.html:14
 msgid "Romanian"
-msgstr ""
+msgstr "Romanès"
 
 #: ../../themes/qgis-theme/languageswitch.html:16
 msgid "Chinese (China)"
-msgstr ""
+msgstr "Xinès (China)"
 
 #: ../../themes/qgis-theme/languageswitch.html:17
 msgid "Chinese (Taiwan)"
-msgstr ""
+msgstr "Xinés (Taiwan)"
 
 #: ../../themes/qgis-theme/forusers_download.html:5
 msgid ""
 "QGIS is available on Windows, MacOS X, Linux and Android. Binary packages "
 "are provided for the current version."
-msgstr ""
+msgstr "QGIS està disponible per Windows, MacOS X, Linux i Android. Els paquets binaris es proporcionen per a la versió actual."
 
 #: ../../themes/qgis-theme/forusers_download.html:6
 msgid "The current version is QGIS 2.0.1 and was released in September 2013."
-msgstr ""
+msgstr "La versió actual és QGIS 2.0.1 va ser llançat al setembre de 2013."
 
 #: ../../themes/qgis-theme/forusers_download.html:12
 msgid "Installation Downloads"
-msgstr ""
+msgstr "Descàrregues d'instal lació"
 
 #: ../../themes/qgis-theme/forusers_download.html:13
 msgid "All Releases"
-msgstr ""
+msgstr "Tots els llançaments"
 
 #: ../../themes/qgis-theme/forusers_download.html:14
 msgid "Sources"
-msgstr ""
+msgstr "Fonts"
 
 #: ../../themes/qgis-theme/forusers_download.html:63
 msgid "OSGeo4W Network Installer (32 bit)"
-msgstr ""
+msgstr "OSGeo4W Network Installer (32 bit)"
 
 #: ../../themes/qgis-theme/forusers_download.html:70
 msgid "OSGeo4W Network Installer (64 bit)"
-msgstr ""
+msgstr "OSGeo4W Network Installer (64 bit)"
 
 #: ../../themes/qgis-theme/forusers_download.html:108
 msgid "Fedora"
-msgstr ""
+msgstr "Fedora"
 
 #: ../../themes/qgis-theme/forusers_download.html:109
 msgid "Ubuntu"
-msgstr ""
+msgstr "Ubuntu"
 
 #: ../../themes/qgis-theme/forusers_download.html:110
 msgid "Debian"
-msgstr ""
+msgstr "Debian"
 
 #: ../../themes/qgis-theme/forusers_download.html:111
 msgid "openSUSE"
-msgstr ""
+msgstr "openSUSE"
 
 #: ../../themes/qgis-theme/forusers_download.html:112
 msgid "RHEL, CentOS, Scientific Linux, ..."
-msgstr ""
+msgstr "RHEL, CentOS, Scientific Linux, ..."
 
 #: ../../themes/qgis-theme/forusers_download.html:113
 msgid "Mandriva"
-msgstr ""
+msgstr "Mandriva"
 
 #: ../../themes/qgis-theme/forusers_download.html:114
 msgid "Slackware"
-msgstr ""
+msgstr "Slackware"
 
 #: ../../themes/qgis-theme/forusers_download.html:115
 msgid "ArchLinux"
-msgstr ""
+msgstr "ArchLinux"
 
 #: ../../themes/qgis-theme/forusers_download.html:152
 msgid ""
@@ -910,7 +910,7 @@ msgstr ""
 
 #: ../../themes/qgis-theme/getinvolved_donations.html:8
 msgid "QGIS Donations"
-msgstr ""
+msgstr "Donacions a QGIS"
 
 #: ../../themes/qgis-theme/getinvolved_donations.html:36
 msgid "Credit card and Paypal"
@@ -971,11 +971,11 @@ msgstr ""
 
 #: ../../themes/qgis-theme/index.html:89
 msgid "Support QGIS"
-msgstr ""
+msgstr "QGIS Suport"
 
 #: ../../themes/qgis-theme/index.html:90
 msgid "Donate now!"
-msgstr ""
+msgstr "Dona ara!"
 
 #: ../../themes/qgis-theme/page.html:26
 msgid ""
@@ -996,7 +996,7 @@ msgstr ""
 
 #: ../../themes/qgis-theme/forusers_index.html:68
 msgid "Visual Changelog for 2.0"
-msgstr ""
+msgstr "Canvis Visuals de 2.0"
 
 #~ msgid ""
 #~ "All content is licensed under <a href=\"http://creativecommons.org/licenses"

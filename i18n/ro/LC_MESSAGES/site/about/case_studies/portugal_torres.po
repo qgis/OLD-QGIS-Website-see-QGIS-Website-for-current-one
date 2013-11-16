@@ -1,12 +1,13 @@
 # 
 # Translators:
+# csorin <scalinica@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-01 17:11+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-11-12 19:25+0000\n"
+"Last-Translator: csorin <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:4
 msgid "QGIS and GRASS applied to paleontological survey in Western Portugal"
-msgstr ""
+msgstr "QGIS si GRASS folosite în studiul paleontologic din Portugalia de Vest"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:8
 msgid ""
@@ -26,11 +27,11 @@ msgid ""
 "from Upper Jurassic. One of the key issues in paleontological management is "
 "to assess spatial context of the sites from where the fossils are retrieved "
 "– hundreds of sites representing thousands of different specimens."
-msgstr ""
+msgstr "Asociația Leonel Trindade - Societatea de Istorie Naturală (ALT-SHN) este o instituție non-profit cu sediul în Torres Vedras, Portugalia, specializat în paleontologie. Instituția gestionează o colecție de fosile, în principal, din Jurasicul superior. Unul dintre aspectele cheie în managementul paleontologic este evaluarea contextului spațial al siturilor din care sunt preluate fosilele - sute de site-uri reprezentând mii de specimene diferite."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:12
 msgid "The Project"
-msgstr ""
+msgstr "Proiectul"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:19
 msgid ""
@@ -40,28 +41,28 @@ msgid ""
 "paleontology) [2]. The project, supported by public and private entities – "
 "mainly the Municipalty, Digiterra.hu and the Army's Geographic Institute "
 "(IGeoE), aimed three goals:"
-msgstr ""
+msgstr "În 2008, am venit cu ideea explorării tehnologiilor GIS pentru a sprijini investigațiile și pentru a obține o perspectivă holistică asupra patrimoniului cu care avem de-a face. Această idee a impulsionat proiectul SIGAP (GIS aplicat în paleontologie) [2]. Proiectul, susținut de entități publice și private - în special Municipalitatea, Digiterra.hu și Institutul Geografic al Armatei (IGeoE), vizează trei obiective:"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:21
 msgid ""
 "Field Survey with Differencial GPS to gather the coordinates of the sites;"
-msgstr ""
+msgstr "Vizită în teren cu GPS-ul diferențiat pentru a aduna coordonatele siturilor;"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:22
 msgid ""
 "Build a Risk Model to identify hazards towards paleontological heritage and "
 "thus prevent them through regular field surveys;"
-msgstr ""
+msgstr "Construirea unui model de risc pentru a identifica riscurile față de patrimoniul paleontologic și de a le preveni prin vizite periodice în teren;"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:23
 msgid ""
 "Build a Geographic Database to handle all the information and start the "
 "collection inventory."
-msgstr ""
+msgstr "Construirea unei baze de date geografice pentru a gestiona toate informațiile și a începe inventarul colecției."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:26
 msgid "Software we used"
-msgstr ""
+msgstr "Softurile folosite"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:28
 msgid ""
@@ -71,11 +72,11 @@ msgid ""
 "analyis on rasters in order to obtain the risk model we needed to plan our "
 "field work and future prospection. Furthermore it allowed us to import "
 "PostGIS layers and visualize them on QGIS."
-msgstr ""
+msgstr "QGIS a fost elementul de bază al tuturor proiectelor. Datele au fost descărcate direct în QGIS, apoi editate și manipulate pentru a atinge rezultatele dorite. Interfața GRASS furnizată de QGIS ne-a permis să efectuăm analize spațiale complexe pe rastere, pentru a obține modelul de risc de care avem nevoie pentru a ne planifica activitatea din teren și prospectările viitoare. Mai mult, ne-a permis să importăm straturi PostGIS și să le vizualizăm în QGIS."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:36
 msgid "Vector point data editing and visualization"
-msgstr ""
+msgstr "Editarea și vizualizarea datelor vectoriale de tip punct"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:38
 msgid ""
@@ -84,15 +85,15 @@ msgid ""
 "different systems – We have Mac, Windows PC and Linux PC, therefore it's of "
 "extreme importance that we have the freedom to install the software on any "
 "machine we want so we don't get stuck to a particular computer."
-msgstr ""
+msgstr "Alegerea QGIS a fost, de asemenea, încurajată de suportul multi platformă. Instituția are trei facilități distincte, și fiecare dintre aceste facilități are sisteme diferite - Mac, Windows și Linux, prin urmare, este extrem de important că avem libertatea de a instala software-ul pe orice mașină ne-o dorim, așa că nu trebuie să rămânem blocați la un anumit calculator."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:45
 msgid "Paleontological Risk Map"
-msgstr ""
+msgstr "Harta de risc paleontologic"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:48
 msgid "Conclusion"
-msgstr ""
+msgstr "Concluzie"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:50
 msgid ""
@@ -106,15 +107,15 @@ msgid ""
 "if you have to train first time users has we've done. The easyness of the "
 "interface makes production of maps an everyday task and brought people "
 "closer to spatial approaches [3]."
-msgstr ""
+msgstr "Experiența generală cu QGIS poate fi evaluată ca fiind foarte bună și recomandabilă. Din punctul nostru de vedere, avantajul principal al QGIS este că acesta nu este doar un software GIS - este o suită de productivitate pentru datele spațiale. Acest lucru ne-a permis să profităm de de alte instrumente puternice, într-un mediu de lucru unic. Din QGIS poate lucra cu GRASS, cu PostGIS, cu datele GPS, cu Servicii Web și cu zeci de plugin-uri utile, dezvoltate de către utilizatori din întreaga lume. Interfața prietenoasă este, de asemenea, un mare avantaj, mai ales dacă aveți de instruit utilizatorii, cum a fost în cazul nostru. Interfața facilă face producția de hărți o sarcină cotidiană care a adus oamenii mai aproape de abordările spațiale [3]."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:53
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:60
 msgid "André Mano"
-msgstr ""
+msgstr "André Mano"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:62
 msgid ""
@@ -123,15 +124,15 @@ msgid ""
 "Sociedade de História Natural. His area of interest is focused on "
 "geotechnology applications to the fields of paleontology, archeology and "
 "cultural heritage."
-msgstr ""
+msgstr "Acest articol a fost transmis în noiembrie 2010 de către André Mano. El este responsabil al Departamentului Geografic al Asociației Leonel Trindade - Societate de Istorie Naturală. Aria sa de interes este centrată pe aplicațiile geotehnicii în domeniile de paleontologie, arheologie și patrimoniu cultural."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:65
 msgid "References"
-msgstr ""
+msgstr "Referințe"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:67
 msgid "[1] www.alt-shn.org (portuguese only)"
-msgstr ""
+msgstr "[1] www.alt-shn.org (în portugheză)"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:68
 msgid ""
@@ -139,11 +140,11 @@ msgid ""
 "Paleontologia. Paleolusitana: Revista de Paleontologia e Paleoecologia, "
 "Torres Vedras: Alt-Sociedade de História Natural. ISSN 1647-2756, n.º 1, p. "
 "245-250."
-msgstr ""
+msgstr "[2] MANO, André. (2009) – Sistemul de informații geografice aplicate în Paleontologie. Paleolusitana: Jurnalul de Paleontologie și Paleoecologie, Torres Vedras: Alt-Societatea de Istorie Naturală. ISSN 1647-2756, n.º 1, p. 245-250."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:69
 msgid ""
 "[3] Mano, André. (2010) – Projecto SIGAP, Trabalho de Projecto apresentado "
 "como requisito parcial para a obtenção do grau de Mestre em Ciência e "
 "Sistemas de Informação Geográfica. ISEGI – UNL, Lisboa, 2010"
-msgstr ""
+msgstr "[3] Mano, André. (2010) – Proiectul SIGAP, lucrul la proiect a reprezentat  o condiție parțială pentru gradul de Master of Science în Sisteme Informatice Geografice. ISEGI – UNL, Lisabona, 2010"
