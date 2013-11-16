@@ -275,28 +275,24 @@ one week::
 RHEL, CentOS, Scientific Linux
 ------------------------------
 
-QGIS stable
+QGIS 1.8
 ...........
 
 Try the ELGIS repository: http://elgis.argeo.org/
 
 .. note:: ELGIS requires the EPEL repo enabled, see http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL
 
-QGIS testing
-............
+QGIS 2.0
+...........
 
-If you want to try the cutting edge: http://elgis.argeo.org/repos/testing/6/elgis/
+QGIS 2 can be installed from an alternative repository. Note: It requires, that ELGIS
+and EPEL are also installed. ::
 
-They're happy if you provide feedback on their mailing list.
+ sudo wget fedora.vitu.ch/EL/qgis.repo -P /etc/yum.repos.d/
+ sudo rpm --import http://fedora.vitu.ch/Fedora/RPM-GPG-Key-vitu
+ sudo yum update
+ sudo yum install qgis qgis-python qgis-grass qgis-mapserver
 
-If it does not work for you, you can try to rebuild the Fedora SRPM. The Fedora
-15 version of QGIS builds in Mock for EPEL 6. Notice, this package will not support
-GRASS, because there is no GRASS package in RHEL/EPEL.
-
-argeo.org has a wiki on rebuilding their packages. For a more general quick guide
-in rebuilding, you can also take a look at http://zabbix.org/wiki/Docs/howto/rebuild_rpms
-
-More info from: Volker Fröhlich <volker27 AT gmx DOT at>
 
 
 openSUSE
