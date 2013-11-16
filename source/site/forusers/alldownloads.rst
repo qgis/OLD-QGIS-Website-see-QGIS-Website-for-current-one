@@ -276,16 +276,16 @@ RHEL, CentOS, Scientific Linux
 ------------------------------
 
 QGIS 1.8
-...........
+........
 
 Try the ELGIS repository: http://elgis.argeo.org/
 
 .. note:: ELGIS requires the EPEL repo enabled, see http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL
 
-QGIS 2.0
+QGIS stable
 ...........
 
-QGIS 2 can be installed from an alternative repository. Note: It requires, that ELGIS
+QGIS stable can be installed from an alternative repository. Note: It requires, that ELGIS
 and EPEL are also installed. ::
 
  sudo wget fedora.vitu.ch/EL/qgis.repo -P /etc/yum.repos.d/
