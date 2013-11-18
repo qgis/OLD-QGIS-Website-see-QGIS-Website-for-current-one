@@ -239,7 +239,7 @@ support, cartography, and data analysis.
    :width: 60 px
 
 |liviostump| `Livio Stump <http://www.liviostump.ch>`_, based in Lucerne, Switzerland
-provides commercial GIS services and support and training in QGIS.
+provides commercial GIS consulting, support and training in QGIS.
 
 ----
 
