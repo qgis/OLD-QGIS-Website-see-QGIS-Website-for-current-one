@@ -1,12 +1,13 @@
 # 
 # Translators:
+# alexbruy <alexander.bruy@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-13 18:57+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2013-10-17 12:19+0000\n"
+"Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -37,24 +38,24 @@ msgid ""
 "If you do not see working links to documentation above, it means that this "
 "documentation build did not copy the documentation sources into the website "
 "sources. You can also go to http://docs.qgis.org/2.0"
-msgstr ""
+msgstr "Если какая-либо из вышеприведенных ссылок на документацию не работает, значит в процессе сборки исходные файлы документации не были скопированы в соответствующий раздел сайта. Попробуёте перейти на http://docs.qgis.org/2.0"
 
 #: ../../source/docs/index.rst:34
 msgid ""
 "We keep a copy of the documentation of QGIS 1.8 around here: "
 "http://docs.qgis.org/1.8"
-msgstr ""
+msgstr "Документация к QGIS 1.8 доступна по адресу: http://docs.qgis.org/1.8"
 
 #: ../../source/docs/index.rst:47
 msgid "Documentation for QGIS testing"
-msgstr ""
+msgstr "Документация к тестовой версии QGIS"
 
 #: ../../source/docs/index.rst:49
 msgid ""
 "Although not translated we also build the documentation for the release QGIS"
 " which is currently developed. We call this version 'QGIS testing' and "
 "documentation can be found here: http://docs.qgis.org/testing"
-msgstr ""
+msgstr "Не смотря на то, что она не переводится, мы также предоставляем документацию к разрабатываемой версии QGIS. Эту версию мы называем тестовой или «QGIS testing» и документацию к ней можно найти здесь http://docs.qgis.org/testing"
 
 #~ msgid "Documentation for QGIS development/nightly"
 #~ msgstr ""

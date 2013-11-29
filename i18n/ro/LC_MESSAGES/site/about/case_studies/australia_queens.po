@@ -1,12 +1,13 @@
 # 
 # Translators:
+# csorin <scalinica@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-01 17:11+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-11-06 19:24+0000\n"
+"Last-Translator: csorin <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,11 +17,11 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/australia_queens.rst:4
 msgid "QGIS and GRASS in Local Government Bushfire Hazard Mapping"
-msgstr ""
+msgstr "QGIS și GRASS, în Cartografierea de către Guvernele Locale a Pericolelor de aprindere a vegetației"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:7
 msgid "Introduction"
-msgstr ""
+msgstr "Introducere"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:9
 msgid ""
@@ -31,11 +32,11 @@ msgid ""
 "Region, and has resulted in the loss of life and property. This project will"
 " allow the council and the people of the region to be more aware of the risk"
 " and to allow for better decision making in the future."
-msgstr ""
+msgstr " Southern Downs (SDRC) este o administrație locală de dimensiuni mici și mijlocii, în sud-estul Queensland, Australia. Consiliul Regional, în special în partea de sud, suferă de incendii majore. Aprinderea vegetației este o preocupare reală permanentă pentru locuitorii și proprietarii de terenuri din regiunea Southern Downs, care a dus la pierderea de vieți și bunuri. Acest proiect va permite Consiliului și oamenilor din regiune să conștientizeze riscurile, pentru mai bunele decizii viitoare."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:18
 msgid "The Project"
-msgstr ""
+msgstr "Proiectul"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:20
 msgid ""
@@ -45,39 +46,39 @@ msgid ""
 "1/03 Mitigating the Adverse Impacts of Flood, Bushfire and Landslide [1]. "
 "This kind of job would normally be done using consultants but was instead "
 "done by the council itself using a combination of QGIS and GRASS."
-msgstr ""
+msgstr "Incendiile de vegetație nu sunt o problemă doar pentru SDRC, ci și pentru întregul Queensland, guvernul de stat cerând ca fiecare administrație locală să identifice vegetația aflată în pericol din zona lor, prin intermediul Politicii de Stat 1/03 de Atenuare a Efectelor Negative ale Inundațiilor, și de Prevenire a Incendiilor de Vegetație și a Alunecărilor de Teren [1]. Acest gen de muncă se face de obicei cu ajutorul consultanților, în schimb a fost realizat chiar de către Consiliu folosind o combinație de QGIS și GRASS."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:22
 msgid "The GIS side of the project project was broken down into 6 main steps"
-msgstr ""
+msgstr "Partea GIS a proiectului a fost împărțită în 6 etape principale"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:24
 msgid "Slope assessment and mapping"
-msgstr ""
+msgstr "Evaluarea pantelor și cartografierea"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:25
 msgid "Aspect assessment and mapping"
-msgstr ""
+msgstr "Evaluarea aspectului și cartografierea"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:26
 msgid "Vegetation assessment and mapping"
-msgstr ""
+msgstr "Evaluarea vegetației și cartografierea"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:27
 msgid "Combining scores to identify the severity of bushfire hazard"
-msgstr ""
+msgstr "Combinarea scorurilor pentru a identifica gradul de severitate a pericolului incendiilor de vegetație"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:28
 msgid "Field verification and qualitative assessment"
-msgstr ""
+msgstr "Verificarea terenului și evaluarea calitativă"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:29
 msgid "Final Maps"
-msgstr ""
+msgstr "Hărți Finale"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:32
 msgid "The use of QGIS and GRASS"
-msgstr ""
+msgstr "Folosirea QGIS și GRASS"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:40
 msgid ""
@@ -94,7 +95,7 @@ msgid ""
 " All the resulting raster maps were then combined using mapcalc and given a "
 "final risk hazard score. The risk scores are then divided into three main "
 "categories: high; medium; and low."
-msgstr ""
+msgstr "QGIS, folosind plugin-ul GRASS, a fost selectat deoarece poate furniza instrumentele necesare pentru a finaliza sarcinile, iar interacțiunea dintre QGIS și GRASS fac ușoară procesarea hărților raster, prezentându-le într-un mod inteligibil pentru utilizatori. SDRC foloseste MapInfo pentru sistemul GIS principal, cu toate acestea addon-urile MapInfo nu au fost la fel de puternice ca GRASS GIS pentru prelucrarea rasterelor. Plugin-ul GRASS QGIS a fost folosit pentru a importa 5 metri de contur din întreaga regiune în GRASS care au fost apoi transformați într-o hartă de contur raster folosind r.surf.contour. Panta și aspectul hărții au fost apoi generate folosind r.slope.aspect de pe conturul hărții raster. Categoriile au fost atribuite la diferite pante, variind ca aspect și având un scor de risc. Zonelor de vegetație li s-a dat, de asemenea, scoruri de risc diferite. Toate hartile raster rezultate au fost apoi combinate cu mapcalc, rezultând un scor final de risc. Scorurile de risc au fost apoi împărțite în trei categorii principale: mare, mediu și scăzut."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:43
 msgid ""
@@ -104,11 +105,11 @@ msgid ""
 "the commands that were needed to generate the bushfire hazard maps were "
 "recorded, for documentation purposes and for if the maps needed to be "
 "regenerated some time in the future."
-msgstr ""
+msgstr "Partea finală a procesului a fost verificarea în teren, prin intermediul serviciului de pompieri din mediul rural. După procesul de revizuire, QGIS a fost folosit pentru a imprima hărțile finale de prezentare. Deoarece toate comenzile GRASS pot fi rulate din linia de comandă, toate comenzile care au fost necesare pentru a genera hărțile de risc au fost înregistrate, pentru documentare și pentru cazul în care hărțile vor trebui regenerate."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:48
 msgid "Conclusion"
-msgstr ""
+msgstr "Concluzii"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:50
 msgid ""
@@ -119,28 +120,28 @@ msgid ""
 "integration is very seamless and maps can be made with ease. The project won"
 " an encouragement award at the Queensland Planning Institute of Australia "
 "state planning awards in 2010 [2]"
-msgstr ""
+msgstr "QGIS, împreună cu plugin-ul GRASS, a oferit o mare experiență și un câștig deosebit pentru Consiliu, care și-a făcut propria cartografiere. Plugin-ul GRASS oferă o interfață ușor de utilizat pentru GRASS, prin QGIS. Deoarece QGIS este capabil de a deschide formate raster native GRASS, integrarea este foarte ușoară, hărțile făcându-se cu ușurință. Proiectul a câștigat un premiu de încurajare de la  Institutul de Planificare Queensland din Australia, în 2010 [2]"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:54
 msgid "References"
-msgstr ""
+msgstr "Referințe"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:55
 msgid "[1] http://www.emergency.qld.gov.au/publications/spp/"
-msgstr ""
+msgstr "[1] http://www.emergency.qld.gov.au/publications/spp/"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:56
 msgid ""
 "[2]http://digital.crowtherblayne.com.au/default.aspx?xml=crowther_pia.xml"
-msgstr ""
+msgstr "[2]http://digital.crowtherblayne.com.au/default.aspx?xml=crowther_pia.xml"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:59
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:66
 msgid ""
 "This article was contributed in January 2011 by Nathan Woodrow. Nathan is a "
 "GIS officer at the Southern Downs Regional Council and is studying an "
 "associates degree in Spatial Science at University of Souther Queensland"
-msgstr ""
+msgstr "Acest articol a fost transmis în ianuarie 2011 de către Nathan Woodrow. Nathan este un ofițer GIS la Southern Downs Regional Council și studiază Științele Spațiale la Universitatea din Southern Queensland"

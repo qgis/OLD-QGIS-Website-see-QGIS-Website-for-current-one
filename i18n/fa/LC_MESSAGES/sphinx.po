@@ -1,12 +1,15 @@
 # 
 # Translators:
+# Arash_d <Arash.dnv@gmail.com>, 2013
+# hamedrezaei <hamedrezaei.ez@gmail.com>, 2013
+# masoud pashotan <masoud.ptn@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-15 07:32+0000\n"
-"Last-Translator: voodoo01 <masoud.ptn@gmail.com>\n"
+"PO-Revision-Date: 2013-10-30 21:25+0000\n"
+"Last-Translator: Arash_d <Arash.dnv@gmail.com>\n"
 "Language-Team: Persian (http://www.transifex.com/projects/p/qgis-website/language/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,14 +19,14 @@ msgstr ""
 
 #: ../../themes/qgis-theme/getinvolved_index.html:8
 msgid "Get involved with the QGIS community"
-msgstr "ارتباط گرفتن با بخشی از جامعه کوانتم"
+msgstr "پیوستن به جامعه کوانتم"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:9
 #: ../../themes/qgis-theme/getinvolved_donations.html:9
 msgid ""
 "QGIS is developed by a team of dedicated\n"
 "                    volunteers and organisations."
-msgstr "کوانتم توسط یک تیم توسعه اختصاصی\n                     داوطلبان و سازمان ها "
+msgstr "کوانتم توسط یک تیم اختصاصی داوطلبان و سازمان ها\nتوسعه پیدا می کند"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:11
 #: ../../themes/qgis-theme/getinvolved_donations.html:14
@@ -249,7 +252,7 @@ msgstr "این نسخه نیاز به"
 
 #: ../../themes/qgis-theme/forusers_download.html:88
 msgid "separate installation of dependency frameworks (GDAL Complete and GSL)"
-msgstr ""
+msgstr "نصب و راه اندازی بدون وابستگی به فریم ورک ها(GDAL کامل و GSL)"
 
 #: ../../themes/qgis-theme/forusers_download.html:88
 msgid ", also found at the download link below."
@@ -257,7 +260,7 @@ msgstr "، همچنین در لینک دانلود زیر یافت می شود."
 
 #: ../../themes/qgis-theme/forusers_download.html:92
 msgid "KyngChaos QGIS download page"
-msgstr ""
+msgstr "صفحه  دانلود KyngChaos QGIS"
 
 #: ../../themes/qgis-theme/forusers_download.html:101
 msgid "Download for Linux"
@@ -267,7 +270,7 @@ msgstr "دانلود برای لینوکس"
 msgid ""
 "For many flavors of GNU/Linux binary packages (rpm and deb) or software "
 "repositories to add to your installation manager are provided below"
-msgstr ""
+msgstr "در زیر بسته های باینری (rpm و deb) و یا منابع نرم افزاری، برای بسیاری از نسخه های GNU/Linux، برای افزودن به مدیریت نصب و راه اندازی ارائه شده است"
 
 #: ../../themes/qgis-theme/forusers_download.html:117
 msgid "Linux Installation Instructions"
@@ -318,7 +321,7 @@ msgstr "برای تست و یادگیری مقاصد،"
 msgid ""
 "which contains collections of data from different sources and in different "
 "formats."
-msgstr ""
+msgstr "مجموعه ای داده ها از منابع متفاوت که حاوی فرمت های مختلف است."
 
 #: ../../themes/qgis-theme/forusers_download.html:162
 msgid "Older releases of QGIS are available"
@@ -330,13 +333,13 @@ msgstr "کد منبع کوانتم جی ای اس در گیت هابک مجود 
 
 #: ../../themes/qgis-theme/about_index.html:7
 msgid "Discover what makes QGIS the leading Open Source desktop GIS"
-msgstr ""
+msgstr "چه چیزی باعث شده کوانتم جی ای اس پیشرو در زمینه نرم افزار های متن باز باشد"
 
 #: ../../themes/qgis-theme/about_index.html:8
 msgid ""
 "QGIS is the best GIS tool in the Free and open-source software (FOSS) "
 "community."
-msgstr ""
+msgstr "کوانتوم جی ای اس بهترین ابزار جی ای اسی  در جامعه نرم افزارهای متن باز و رایگان (FOSS) است."
 
 #: ../../themes/qgis-theme/about_index.html:23
 msgid "DISCOVER"
@@ -405,7 +408,7 @@ msgstr "عکس از محیط نرم افزار"
 #: ../../themes/qgis-theme/about_index.html:81
 msgid ""
 "Community-contributed screenshots of QGIS to help provide a quick overview:"
-msgstr ""
+msgstr "تصاویری از جامعه یاری رسان QGIS برای ارائه مروری سریع:"
 
 #: ../../themes/qgis-theme/about_index.html:83
 msgid "Check out QGIS screenshots"
@@ -491,7 +494,7 @@ msgstr "برای میزکار شما و سرور شما در مرورگر هست
 
 #: ../../themes/qgis-theme/index.html:85
 msgid "Download Now"
-msgstr "هماکنون دانلوذ کنید"
+msgstr "دانلود کنید"
 
 #: ../../themes/qgis-theme/index.html:102
 msgid "Get Started"
@@ -524,7 +527,7 @@ msgstr "آخرین اخبار"
 
 #: ../../themes/qgis-theme/index.html:146
 msgid "Find out what is going on with the QGIS project and its Community."
-msgstr ""
+msgstr "جستجو در جامعه کوانتم جی ای اس در باره اتفاقات که در جریان است."
 
 #: ../../themes/qgis-theme/index.html:147
 msgid "Blog Posts, Case Studies, Tutorials, User Meetings and more..."
@@ -668,7 +671,7 @@ msgid ""
 "QGIS is an entirely Open Source project. QGIS development is carried out "
 "largely by a group of volunteers, that in time have built up a large, "
 "valuable and useful code base, free to use and improve for everybody."
-msgstr ""
+msgstr "برنامه QGIS بصورت کامل متن باز می باشد. اکثر توسعه دهندگان QGIS داوطلبانه فعالیت دارند، که عرضه رایگان پایگاه کد برنامه، در زمان تکمیل QGIS برای توسعه دهندگان  به قصد بهبود بخشیدن آن، بسیار ارزشمند و مفید خواهد بود."
 
 #: ../../themes/qgis-theme/forusers_index.html:176
 msgid "Learn about Organizations that support QGIS"
@@ -761,7 +764,7 @@ msgstr "برای لینوکس، ویندوز، مک،نسخه آزمایشی ا�
 msgid ""
 "QGIS has a plugin architecture. This allows many new features/functions to "
 "be easily added to the application. "
-msgstr ""
+msgstr "معماری QGIS بصورت پلاگین می باشد. این ساختار به شما اجازه می دهد به راحتی تعداد زیادی ویژگی یا تابع به برنامه اضافه کنید."
 
 #: ../../themes/qgis-theme/forusers_index.html:83
 msgid ""
@@ -877,7 +880,7 @@ msgstr "Mandriva"
 
 #: ../../themes/qgis-theme/forusers_download.html:114
 msgid "Slackware"
-msgstr ""
+msgstr "Slackware"
 
 #: ../../themes/qgis-theme/forusers_download.html:115
 msgid "ArchLinux"
@@ -944,11 +947,11 @@ msgstr "شما می توانید از حساب پی پال برای کمکهای
 msgid ""
 "The swiss QGIS-user group is taking care of our bank account. You can make "
 "an international money transfer to:...."
-msgstr "گروه کوانتم جی ای اس در سوئیس سرپرستی می کند از حساب بانکی. شما می توانید پول را ارسال کنید از طریق های بین المللی به :...."
+msgstr "گروه کوانتم جی ای اس در سوئیس سرپرستی می کند از حساب بانکی ما. شما می توانید پول را ارسال کنید از طریق بین المللی به :...."
 
 #: ../../themes/qgis-theme/getinvolved_donations.html:89
 msgid "TODO"
-msgstr ""
+msgstr "باید انجام شود"
 
 #: ../../themes/qgis-theme/getinvolved_donations.html:98
 msgid ""
@@ -974,14 +977,14 @@ msgstr "پشتیبانی کوانتم جی ای اس"
 
 #: ../../themes/qgis-theme/index.html:90
 msgid "Donate now!"
-msgstr "اکنون کمک کنید!"
+msgstr "کمک کنید!"
 
 #: ../../themes/qgis-theme/page.html:26
 msgid ""
 "If not stated otherwise, all content is licensed under <a "
 "href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
 "Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
-msgstr ""
+msgstr "در صورتی که اعلام نشده بود، تمامی محتوا تحت مجوز <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\"> قرار دارند. سازمان Creative Commons Attribution-ShareAlike 3.0 مجوز (CC BY-SA)</a>"
 
 #: ../../themes/qgis-theme/page.html:30
 msgid ""

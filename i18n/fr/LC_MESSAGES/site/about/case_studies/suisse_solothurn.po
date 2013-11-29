@@ -1,13 +1,14 @@
 # 
 # Translators:
 # DelazJ <delazj@gmail.com>, 2013
+# RobinP <robin@georezo.net>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-10-10 05:15+0000\n"
-"Last-Translator: DelazJ <delazj@gmail.com>\n"
+"PO-Revision-Date: 2013-11-10 15:29+0000\n"
+"Last-Translator: RobinP <robin@georezo.net>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +18,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:4
 msgid "QGIS in the governmental FOSSGIS stack"
-msgstr ""
+msgstr "QGIS dans la liste FOSSGIS du gouvernement"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:6
 msgid "of the Canton of Solothurn in Switzerland"
@@ -38,7 +39,7 @@ msgid ""
 "introduction was very successful, but an easy to use desktop GIS was "
 "lacking. After an evaluation of different Desktop GIS we decided to use QGIS"
 " in conjunction with GRASS, replacing ESRI ArcInfo and ArcView3 in the 2006."
-msgstr ""
+msgstr "Le Canton de Salothurn gère l'accès à des services et une infrastructure pour 250 000 citoyens. En 2011 le Parlement d'Etat a décider de migrer de Windows vers Linux. Les motivations étaient d'acquérir l'indépendances vis à vis d'un éditeur particulier, d'encourager la libre entreprise et de réduire les coûts de licence. Le département SO!GIS du Canton de Solothurn a ainsi commencé à lister les besoins en SIG de plus de 3 500 employes via une stratégie de logiciels libres et open source (FOSSGIS). La première étape était de mettre en ligne un MapServer UMN ainsi que la création d'un client SO!Map qui permettait un usage facilité de sig web pour l'ensemble des 3 500 employés. La deuxième étape était la migration de toute les données spatiales depuis le format shapefile vers une base de donnée spatiale Postgis. Le démarrage a été un succès, mais il manquait un logiciel SIG bureautique convivial. Après une évaluation des différentes solutions existantes nous avons décider d'utiliser QGIs avec GRASS, remplaçant ainsi ArcInfo d'ESRI  et Arcview 3 en 2006."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:17
 msgid "The decision was driven by the following aspects:"
@@ -107,7 +108,7 @@ msgid ""
 " called 'SO!DATA'. SO!DATA contains a human readable inventory of the data "
 "models and the non-GIS-Expert user is able to use this database to discover "
 "the information they need."
-msgstr ""
+msgstr "Contrairement aux cartes interactives affichées par Mapserver UMN, le logiciel SIG bureautique devait offrir une vision flexible de la donnée spatiale de Solothurn. Le SIG bureautique QGIS est utilisé tous les jours par plus de 50 utilisateurs. Mais beaucoup d'entre eux ne sont pas des experts en SIG. Ils veulent juste visualiser et/ou saisir de la donnée spatiale avec une interface utilisateur intuitive. Une des questions les plus répandue vis à vis du SIG bureautique est la question suivante : \"Commentrécupérer la donnée spatiale dont j'ai besoin depuis la base de donnée spatiale PostGis ?\". Comme nos utilisateurs finaux ne sont pas habitués aux modèles de données et aux structures de notre base de donnée spatiale, permettre un accès direct à la base PostGis n'était pas possible. Nous avons donc une base de métadonnées qui stocke les descriptions de les les données de production appelée 'SO!DATA'. SO!DATA contient un inventaire facile à lire de tous les modèles de données et les utilisateurs non-experts en SIG sont capables ainsi de lire la base de donnée pour découvrir l'information dont ils ont besoin."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:42
 msgid "\"SO!GIS Layer\" plugin developed at the Canton of Solothurn"

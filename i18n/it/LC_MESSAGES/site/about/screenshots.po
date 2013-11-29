@@ -1,12 +1,13 @@
 # 
 # Translators:
+# mdeago <mattia.deagostino@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-23 13:14+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-31 09:19+0000\n"
+"Last-Translator: mdeago <mattia.deagostino@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,37 +17,80 @@ msgstr ""
 
 #: ../../source/site/about/screenshots.rst:5
 msgid "QGIS Screenshots"
-msgstr ""
+msgstr "Schermate di QGIS"
+
+#: ../../source/site/about/screenshots.rst:7
+msgid ""
+"Below are some screenshots from QGIS itself, and some of Maps which are "
+"created with QGIS:"
+msgstr "Qui sotto sono riportate alcune schermate di QGIS, oltre ad alcune mappe create utilizzando QGIS:"
+
+#: ../../source/site/about/screenshots.rst:11
+msgid "Screenshots of QGIS"
+msgstr "Schermate di QGIS"
 
 #: ../../source/site/about/screenshots.rst:13
 msgid ""
 "These screenshots from the `QGIS screenshots - Flickr Group "
 "<http://www.flickr.com/groups/qgis-screenshots/>`_."
-msgstr ""
+msgstr "Queste schermate sono tratte dal `Gruppo Flickr - QGIS screenshots <http://www.flickr.com/groups/qgis-screenshots/>`_."
+
+#: ../../source/site/about/screenshots.rst:18
+msgid ""
+":raw-html:`<a href=\"http://www.flickr.com/photos/madmanwoo/9693517656/\" "
+"title=\"QGIS by Nathan Woodrow, on Flickr\"><img "
+"src=\"http://farm3.staticflickr.com/2840/9693517656_d66efd5a87.jpg\" "
+"width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/madmanwoo/9693517656/\" title=\"QGIS, ad opera di Nathan Woodrow, su Flickr\"><img src=\"http://farm3.staticflickr.com/2840/9693517656_d66efd5a87.jpg\" width=\"500\" height=\"396\" alt=\"QGIS\"></a>`"
+
+#: ../../source/site/about/screenshots.rst:20
+msgid ""
+":raw-html:`<a href=\"http://www.flickr.com/photos/44112305@N06/9764004532/\""
+" title=\"QGIS by Martin.Jung, on Flickr\"><img "
+"src=\"http://farm6.staticflickr.com/5546/9764004532_674437b5a9.jpg\" "
+"width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/44112305@N06/9764004532/\" title=\"QGIS, ad opera di Martin.Jung, su Flickr\"><img src=\"http://farm6.staticflickr.com/5546/9764004532_674437b5a9.jpg\" width=\"500\" height=\"396\" alt=\"QGIS\"></a>`"
+
+#: ../../source/site/about/screenshots.rst:22
+msgid ""
+":raw-html:`<a href=\"http://www.flickr.com/photos/88715463@N05/9790893953/\""
+" title=\"QGIS on android by mbernasocchi, on Flickr\"><img "
+"src=\"http://farm3.staticflickr.com/2825/9790893953_0fcfe14d43.jpg\" "
+"width=\"500\" height=\"313\" alt=\"QGIS on android\"></a>`"
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/88715463@N05/9790893953/\" title=\"QGIS su Android, ad opera di mbernasocchi, su Flickr\"><img src=\"http://farm3.staticflickr.com/2825/9790893953_0fcfe14d43.jpg\" width=\"500\" height=\"313\" alt=\"QGIS su Android\"></a>`"
+
+#: ../../source/site/about/screenshots.rst:24
+msgid ""
+":raw-html:`<a href=\"http://www.flickr.com/photos/60284107@N00/9813100244/\""
+" title=\"QGIS Indic Script Support in Action by nIRV_, on Flickr\"><img "
+"src=\"http://farm6.staticflickr.com/5323/9813100244_bcb4feeb07.jpg\" "
+"width=\"500\" height=\"340\" alt=\"QGIS Indic Script Support in "
+"Action\"></a>`"
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/60284107@N00/9813100244/\" title=\"QGIS Indic Script Support in Action by nIRV_, on Flickr\"><img src=\"http://farm6.staticflickr.com/5323/9813100244_bcb4feeb07.jpg\" width=\"500\" height=\"340\" alt=\"QGIS Indic Script Support in Action\"></a>`"
 
 #: ../../source/site/about/screenshots.rst:27
 msgid "Maps created with QGIS"
-msgstr ""
+msgstr "Mappe create con QGIS"
 
 #: ../../source/site/about/screenshots.rst:29
 msgid "Below are some maps created with QGIS."
-msgstr ""
+msgstr "Qui sotto sono riportate alcune mappe create con QGIS."
 
 #: ../../source/site/about/screenshots.rst:31
 msgid ""
 "These maps come from the `QGIS maps - Flickr Group "
 "<http://www.flickr.com/groups/qgis/pool/>`_."
-msgstr ""
+msgstr "Queste mappe sono reperibili su `QGIS maps - Flickr Group <http://www.flickr.com/groups/qgis/pool/>`_."
 
 #: ../../source/site/about/screenshots.rst:33
 msgid ""
 "Map makers show off their creativity and the map making capabilities of "
 "QGIS:"
-msgstr ""
+msgstr "I mappatori mettono in risalto la loro creatività e le potenzialità di QGIS nel creare mappe:"
 
 #: ../../source/site/about/screenshots.rst:35
 msgid "Click on an image to see author and more information about the maps."
-msgstr ""
+msgstr "Clicca su un'immagine per vedere l'autore e avere maggiori informazioni sulle mappe."
 
 #: ../../source/site/about/screenshots.rst:40
 msgid ""
@@ -54,7 +98,7 @@ msgid ""
 " title=\"Flights from Kathmandu by underdarkGIS, on Flickr\"><img "
 "src=\"http://farm8.staticflickr.com/7358/8726673422_d8c83b634e.jpg\" "
 "width=\"500\" height=\"327\" alt=\"Flights from Kathmandu\"></a>`"
-msgstr ""
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/48244569@N02/8726673422/\" title=\"Voli in partenza da Kathmandu, ad opera di underdarkGIS, su Flickr\"><img src=\"http://farm8.staticflickr.com/7358/8726673422_d8c83b634e.jpg\" width=\"500\" height=\"327\" alt=\"Voli da Kathmandu\"></a>`"
 
 #: ../../source/site/about/screenshots.rst:42
 msgid ""
@@ -62,7 +106,7 @@ msgid ""
 " title=\"City Map by nIRV_, on Flickr\"><img "
 "src=\"http://farm8.staticflickr.com/7381/8725414390_05b9b92694.jpg\" "
 "width=\"500\" height=\"399\" alt=\"City Map\"></a>`"
-msgstr ""
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/60284107@N00/8725414390/\" title=\"Mappa della città, ad opera di nIRV_, su Flickr\"><img src=\"http://farm8.staticflickr.com/7381/8725414390_05b9b92694.jpg\" width=\"500\" height=\"399\" alt=\"Mappa della città\"></a>`"
 
 #: ../../source/site/about/screenshots.rst:44
 msgid ""
@@ -70,7 +114,7 @@ msgid ""
 " title=\"Mapping Phnom Penh Blackouts by nIRV_, on Flickr\"><img "
 "src=\"http://farm8.staticflickr.com/7390/8716717452_0689e2963c.jpg\" "
 "width=\"500\" height=\"354\" alt=\"Mapping Phnom Penh Blackouts\"></a>`"
-msgstr ""
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/60284107@N00/8716717452/\" title=\"Mappatura dei blackout di Phnom Penh, ad opera di nIRV_, su Flickr\"><img src=\"http://farm8.staticflickr.com/7390/8716717452_0689e2963c.jpg\" width=\"500\" height=\"354\" alt=\"Mappatura dei blackout di Phnom Penh\"></a>`"
 
 #: ../../source/site/about/screenshots.rst:46
 msgid ""
@@ -78,7 +122,7 @@ msgid ""
 "title=\"Geógrafos por ciudades by Miguel Sevilla-Callejo, on Flickr\"><img "
 "src=\"http://farm8.staticflickr.com/7284/8747385486_85a2975397.jpg\" "
 "width=\"500\" height=\"400\" alt=\"Geógrafos por ciudades\"></a>`"
-msgstr ""
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/msevilla/8747385486/\" title=\"Distribuzione dei geografi spagnoli per città, ad opera di Miguel Sevilla-Callejo, su Flickr\"><img src=\"http://farm8.staticflickr.com/7284/8747385486_85a2975397.jpg\" width=\"500\" height=\"400\" alt=\"Geografi per città\"></a>`"
 
 #: ../../source/site/about/screenshots.rst:48
 msgid ""
@@ -86,7 +130,7 @@ msgid ""
 "title=\"postcode_osm_export by mapperz1, on Flickr\"><img "
 "src=\"http://farm8.staticflickr.com/7292/8735762228_e81f064246.jpg\" "
 "width=\"500\" height=\"354\" alt=\"postcode_osm_export\"></a>`"
-msgstr ""
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/mapperz1/8735762228/\" title=\"Codici di aviamento postale su sfondo di OSM, ad opera di mapperz1, su Flickr\"><img src=\"http://farm8.staticflickr.com/7292/8735762228_e81f064246.jpg\" width=\"500\" height=\"354\" alt=\"postcode_osm_export\"></a>`"
 
 #: ../../source/site/about/screenshots.rst:50
 msgid ""
@@ -96,62 +140,4 @@ msgid ""
 "src=\"http://farm5.staticflickr.com/4087/5052588841_eed5e63d66.jpg\" "
 "width=\"500\" height=\"284\" alt=\"London, UK: mapping flickr tags to "
 "colours (draft)\"></a>`"
-msgstr ""
-
-#: ../../source/site/about/screenshots.rst:7
-msgid ""
-"Below are some screenshots from QGIS itself, and some of Maps which are "
-"created with QGIS:"
-msgstr ""
-
-#: ../../source/site/about/screenshots.rst:11
-msgid "Screenshots of QGIS"
-msgstr ""
-
-#: ../../source/site/about/screenshots.rst:18
-msgid ""
-":raw-html:`<a href=\"http://www.flickr.com/photos/madmanwoo/9693517656/\" "
-"title=\"QGIS by Nathan Woodrow, on Flickr\"><img "
-"src=\"http://farm3.staticflickr.com/2840/9693517656_d66efd5a87.jpg\" "
-"width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
-msgstr ""
-
-#: ../../source/site/about/screenshots.rst:20
-msgid ""
-":raw-html:`<a href=\"http://www.flickr.com/photos/44112305@N06/9764004532/\""
-" title=\"QGIS by Martin.Jung, on Flickr\"><img "
-"src=\"http://farm6.staticflickr.com/5546/9764004532_674437b5a9.jpg\" "
-"width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
-msgstr ""
-
-#: ../../source/site/about/screenshots.rst:22
-msgid ""
-":raw-html:`<a href=\"http://www.flickr.com/photos/88715463@N05/9790893953/\""
-" title=\"QGIS on android by mbernasocchi, on Flickr\"><img "
-"src=\"http://farm3.staticflickr.com/2825/9790893953_0fcfe14d43.jpg\" "
-"width=\"500\" height=\"313\" alt=\"QGIS on android\"></a>`"
-msgstr ""
-
-#: ../../source/site/about/screenshots.rst:24
-msgid ""
-":raw-html:`<a href=\"http://www.flickr.com/photos/60284107@N00/9813100244/\""
-" title=\"QGIS Indic Script Support in Action by nIRV_, on Flickr\"><img "
-"src=\"http://farm6.staticflickr.com/5323/9813100244_bcb4feeb07.jpg\" "
-"width=\"500\" height=\"340\" alt=\"QGIS Indic Script Support in "
-"Action\"></a>`"
-msgstr ""
-
-#~ msgid ""
-#~ "Below are some screenshots from QGIS itself, ans dome of Maps which are "
-#~ "created with QGIS:"
-#~ msgstr ""
-
-#~ msgid "Screen shots of QGIS"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":raw-html:`<a href=\"http://www.flickr.com/photos/madmanwoo/9693517656/\" "
-#~ "title=\"qgis by Nathan Woodrow, on Flickr\"><img "
-#~ "src=\"http://farm3.staticflickr.com/2840/9693517656_d66efd5a87.jpg\" "
-#~ "width=\"500\" height=\"396\" alt=\"qgis\"></a>`"
-#~ msgstr ""
+msgstr ":raw-html:`<a href=\"http://www.flickr.com/photos/cvr70/5052588841/\" title=\"Londra, UK: mappa dei tags Flickr (bozza), a cura di TheVRChris, su Flickr\"><img src=\"http://farm5.staticflickr.com/4087/5052588841_eed5e63d66.jpg\" width=\"500\" height=\"284\" alt=\"Londra, UK: mappa dei tags Flickr (bozza)\"></a>`"
