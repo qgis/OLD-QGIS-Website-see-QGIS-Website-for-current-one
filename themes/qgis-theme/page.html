@@ -14,6 +14,7 @@ we then can use this language to build language dependent switches #}
 {# Add some extra stuff before and use exiting with 'super()' call. #}
 {% block footer %}
   <footer class="footer">
+
     <div class="container">
         <div>
           <ul class="unstyled inline" id="social">
@@ -29,10 +30,12 @@ we then can use this language to build language dependent switches #}
     </div>
     <div class="container">
       <p class="credit">
-        {{ _('Select graphics from <a href="http://thenounproject.com" target="_blank">The Noun Project collection</a>') }} - 
-        {%- if last_updated %}
-        {% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}{% endtrans %}
-        {%- endif %}
+        {{ _('Select graphics from <a href="http://thenounproject.com" target="_blank">The Noun Project collection</a>') }}
+        {# only on the frontpage we show the 'last updated'-message, making it possible to rsync the sites #}
+        {% if pagename == 'site/index' and last_updated %}
+            {% trans last_updated=last_updated|e %} - Last updated on {{ last_updated }}{% endtrans %}
+        {% endif %}
+
       </p>
     </div>
   </footer>
@@ -45,6 +48,17 @@ we then can use this language to build language dependent switches #}
 {%- block content %}
 {# calling our own navbar macro !#}
     {{ qgis_navBar() }}
+
+    <div style="display:none;" class="container" id="nextprev" >
+    {% if prev %}
+    <a accesskey="p" href="{{ prev.link|e }}">&lt;&lt; prev</a>
+    {% endif %}
+    {% if next %}
+    <a accesskey="n" href="{{ next.link|e }}">next &gt;&gt;</a>
+    {% endif %}
+    </div>
+
+
 {# including html files (from template directory) in case of certain pagenames 
         this makes it possible for us to use those templates as translatable
         static html pages #}
@@ -79,6 +93,7 @@ http://stackoverflow.com/questions/13209597/override-html-page-template-for-a-sp
     {% endif %}
 
     <!--<a href="https://github.com/qgis/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10000;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>-->
+
 {%- endblock %}
 
 {# qgis_navBar macro: adding our menu and language switcher#}
@@ -114,7 +129,7 @@ http://stackoverflow.com/questions/13209597/override-html-page-template-for-a-sp
   </div>
 {% endmacro %}
 
-{# qgis_bsidebar macro: make sidebar span4 and sroll instead of affix #}
+{# qgis_bsidebar macro: make sidebar span4 and scroll instead of affix #}
 {%- macro qgis_bsidebar() %}
       {%- if render_sidebar %}
       <div class="span4">
