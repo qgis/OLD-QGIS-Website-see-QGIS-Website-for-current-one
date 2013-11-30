@@ -1,13 +1,14 @@
 # 
 # Translators:
 # RichardXIE <xiluoduyu@163.com>, 2013
+# sheriff, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-10-04 11:22+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2013-11-27 16:24+0000\n"
+"Last-Translator: sheriff\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/qgis-website/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +18,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:5
 msgid "QGIS Installers"
-msgstr ""
+msgstr "QGIS 安装程序"
 
 #: ../../source/site/forusers/alldownloads.rst:7
 msgid "How to obtain QGIS?"
@@ -126,43 +127,43 @@ msgstr ""
 #: ../../source/site/forusers/alldownloads.rst:331
 #: ../../source/site/forusers/alldownloads.rst:344
 msgid "QGIS stable"
-msgstr ""
+msgstr "QGIS 稳定版"
 
 #: ../../source/site/forusers/alldownloads.rst:76
 #: ../../source/site/forusers/alldownloads.rst:124
 msgid "On plain Ubuntu:"
-msgstr ""
+msgstr "在原版 Ubuntu 上："
 
 #: ../../source/site/forusers/alldownloads.rst:78
 msgid "Saucy::"
-msgstr ""
+msgstr "13.10 Saucy Salamander::"
 
 #: ../../source/site/forusers/alldownloads.rst:83
 #: ../../source/site/forusers/alldownloads.rst:145
 msgid "Raring::"
-msgstr ""
+msgstr "13.04 Raring Ringtail::"
 
 #: ../../source/site/forusers/alldownloads.rst:88
 #: ../../source/site/forusers/alldownloads.rst:128
 #: ../../source/site/forusers/alldownloads.rst:151
 msgid "Quantal::"
-msgstr ""
+msgstr "12.10 Quantal Quetzal::"
 
 #: ../../source/site/forusers/alldownloads.rst:93
 #: ../../source/site/forusers/alldownloads.rst:133
 #: ../../source/site/forusers/alldownloads.rst:157
 msgid "Precise::"
-msgstr "精度::"
+msgstr "12.04 Precise Pangolin::"
 
 #: ../../source/site/forusers/alldownloads.rst:98
 #: ../../source/site/forusers/alldownloads.rst:163
 msgid "Lucid::"
-msgstr ""
+msgstr "10.04 Lucid Lynx::"
 
 #: ../../source/site/forusers/alldownloads.rst:105
 #: ../../source/site/forusers/alldownloads.rst:140
 msgid "Via ubuntugis:"
-msgstr ""
+msgstr "通过 UbuntuGIS："
 
 #: ../../source/site/forusers/alldownloads.rst:107
 msgid ""
@@ -188,7 +189,7 @@ msgstr ""
 #: ../../source/site/forusers/alldownloads.rst:279
 #: ../../source/site/forusers/alldownloads.rst:308
 msgid "QGIS testing"
-msgstr ""
+msgstr "QGIS 测试版"
 
 #: ../../source/site/forusers/alldownloads.rst:126
 #: ../../source/site/forusers/alldownloads.rst:211
@@ -217,17 +218,17 @@ msgstr ""
 #: ../../source/site/forusers/alldownloads.rst:179
 #: ../../source/site/forusers/alldownloads.rst:213
 msgid "Wheezy (7.x)::"
-msgstr ""
+msgstr "Wheezy (7.x)::"
 
 #: ../../source/site/forusers/alldownloads.rst:184
 #: ../../source/site/forusers/alldownloads.rst:218
 msgid "Jessie (8.x)::"
-msgstr ""
+msgstr "Jessie (8.x)::"
 
 #: ../../source/site/forusers/alldownloads.rst:189
 #: ../../source/site/forusers/alldownloads.rst:223
 msgid "Sid (Unstable)::"
-msgstr ""
+msgstr "Sid (不稳定版本)::"
 
 #: ../../source/site/forusers/alldownloads.rst:194
 msgid ""
@@ -351,7 +352,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:317
 msgid "QGIS 1.8"
-msgstr ""
+msgstr "QGIS 1.8"
 
 #: ../../source/site/forusers/alldownloads.rst:319
 msgid ""
@@ -363,7 +364,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:328
 msgid "Mandriva"
-msgstr ""
+msgstr "Mandriva"
 
 #: ../../source/site/forusers/alldownloads.rst:333
 msgid "Current::"
@@ -371,11 +372,11 @@ msgstr "当前::"
 
 #: ../../source/site/forusers/alldownloads.rst:341
 msgid "Slackware"
-msgstr ""
+msgstr "Slackware"
 
 #: ../../source/site/forusers/alldownloads.rst:346
 msgid "Packages on http://qgis.gotslack.org"
-msgstr "http://qgis.gotslack.org上的安装包"
+msgstr "安装包位于 http://qgis.gotslack.org"
 
 #: ../../source/site/forusers/alldownloads.rst:350
 msgid "ArchLinux"
@@ -425,7 +426,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:384
 msgid "FreeBSD"
-msgstr ""
+msgstr "FreeBSD"
 
 #: ../../source/site/forusers/alldownloads.rst:390
 msgid "To compile QGIS from binary packages type::"
