@@ -12,6 +12,31 @@ Bugs, Features and Issues
 If you find a bug, please read
 `our hints on issueing bugs <http://hub.qgis.org/wiki/quantum-gis/Bugreports>`_
 
+Road Map
+========
+
+Since QGIS 2.0 further development will occur based on a timebased roadmap.
+
+Odd version numbers (2.1, 2.3 etc) are development versions.
+
+Even version numbers (2.2, 2.4 etc) are release version.
+
+Following is the planning for 2014
+
+==== ====== ==================
+Week Date   QGIS version
+==== ====== ==================
+4    24.01  QGIS Freeze  2.1
+8    21.02  QGIS Release 2.2
+21   23.05  QGIS Freeze  2.3
+25   20.06  QGIS Release 2.4
+39   26.09  QGIS Freeze  2.5
+43   24.10  QGIS Release 2.6
+==== ====== ==================
+
+
+Only in case of real problems a minor version (eg 2.0.1) update will be planned.
+
 
 Development
 ===========
