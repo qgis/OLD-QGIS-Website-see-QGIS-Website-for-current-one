@@ -281,6 +281,7 @@ bank account rather than PayPal.
 * Håvard Gåseidnes
 * Heiko Schmüser
 * Heinrich Schweizer
+* Henry Colomb
 * Hiroshi Kawakami
 * Hiroto Okayama
 * Hugo Rubio
