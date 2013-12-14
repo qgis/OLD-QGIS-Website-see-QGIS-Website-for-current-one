@@ -186,6 +186,7 @@ bank account rather than PayPal.
 
 * Aaron Racicot
 * Adam Lane
+* Adelchi Acampora
 * Adrian Cooke
 * Adrian Matter
 * Aileen Heal
@@ -230,6 +231,7 @@ bank account rather than PayPal.
 * Compagnie du vent
 * D R Arbib
 * Dan Karran
+* Daniel Wiesmann
 * Dariusz Bobak
 * David Addy
 * David Enns
@@ -274,12 +276,15 @@ bank account rather than PayPal.
 * Gregorio Díaz-Marta Mateos
 * Guenther Moeller
 * Guillaume Raspini
-* Håvard Gåseidnes
+* Hans Rudolf Wettstein
 * Harald Grote
+* Håvard Gåseidnes
 * Heiko Schmüser
 * Heinrich Schweizer
+* Henry Colomb
 * Hiroshi Kawakami
 * Hiroto Okayama
+* Hugo Rubio
 * Ian Allan
 * Ian Wusstig
 * Igor Zabelin
@@ -324,6 +329,7 @@ bank account rather than PayPal.
 * Lorenzo Becchi
 * Luca Casagrande
 * Luca Manganelli
+* Luca Mestroni
 * Lutz Bornschein
 * M de Bresser
 * Maciej Sieczka
