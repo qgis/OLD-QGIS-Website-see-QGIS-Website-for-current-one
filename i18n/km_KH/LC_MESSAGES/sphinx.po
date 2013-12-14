@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-11-01 07:38+0000\n"
+"PO-Revision-Date: 2013-12-13 22:12+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Khmer (Cambodia) (http://www.transifex.com/projects/p/qgis-website/language/km_KH/)\n"
 "MIME-Version: 1.0\n"
@@ -49,11 +49,12 @@ msgid "Develop a Plugin"
 msgstr "បង្កើតកម្មវិធីជំនួយ"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:42
+#: ../../themes/qgis-theme/getinvolved_index.html:103
 msgid "QGIS Core Development"
 msgstr "ការអភិវឌ្ឍន៍កម្មវិធីស្នូលQGIS "
 
 #: ../../themes/qgis-theme/getinvolved_index.html:45
-#: ../../themes/qgis-theme/getinvolved_index.html:116
+#: ../../themes/qgis-theme/getinvolved_index.html:117
 msgid "Donate to QGIS"
 msgstr "បរិច្ចាគសម្រាប់QGIS"
 
@@ -98,58 +99,46 @@ msgstr "បកប្រែQGISទៅជាភាសាជាតិរបស់�
 msgid "QGIS Plugins"
 msgstr "កម្មវិធីជំនួយQGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:86
+#: ../../themes/qgis-theme/getinvolved_index.html:88
 msgid "A wide range of great plugins exist for QGIS via the "
 msgstr "មានកម្មវិធីជំនួយទូលំទូលាយសម្រាប់QGISតាមរយៈ"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:86
+#: ../../themes/qgis-theme/getinvolved_index.html:88
 msgid "QGIS Plugin web portal"
 msgstr "គេហទំព័រកម្មវិធីជំនួយរបស់QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:87
-msgid "If you would like to develop your own, you can get started here:"
-msgstr "បើអ្នកចង់អភិវឌ្ឍដោយខ្លួនឯង អ្នកអាចចាប់ផ្តើមនៅទីនេះ៖"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:89
-msgid "Develop your own QGIS Plugin"
-msgstr "បង្កើតកម្មវិធីជំនួយQGISរបស់អ្នក"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:105
-msgid "QGIS Core"
-msgstr "កម្មវិធីស្នូលQGIS"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:108
+#: ../../themes/qgis-theme/getinvolved_index.html:106
 msgid "Get Set Up for QGIS Core Development"
 msgstr "ធ្វើការកំណត់សម្រាប់ការអភិវឌ្ឍន៍កម្មវិធីស្នូលQGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:117
+#: ../../themes/qgis-theme/getinvolved_index.html:118
 msgid "There are two kinds of financial contributions, we accept:"
 msgstr "យើងទទួលយកការឧបត្ថម្ភថវិការតាមពីរវិធី៖"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:118
+#: ../../themes/qgis-theme/getinvolved_index.html:119
 msgid "sponsorships:"
 msgstr "ការឧបត្ថម្ភ៖"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:118
+#: ../../themes/qgis-theme/getinvolved_index.html:119
 msgid "a sponsorship is an annual commitment of funds to the project."
 msgstr "ការឧបត្ថម្ភគឺជាការប្តេជ្ញាធ្វើជំនួយថវិការពេញមួយឆ្នាំសម្រាប់គម្រោង។"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:119
+#: ../../themes/qgis-theme/getinvolved_index.html:120
 msgid "donations:"
 msgstr "ការបរិច្ចាគ៖"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:119
+#: ../../themes/qgis-theme/getinvolved_index.html:120
 msgid "a donation is a one-time financial contribution to the QGIS project."
 msgstr "ការបរិច្ចាគគឺជាការធ្វើជំនួយថវិការតែម្តងសម្រាប់គម្រោងQGIS។"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:121
+#: ../../themes/qgis-theme/getinvolved_index.html:122
 msgid "Help Support the Project Financially"
 msgstr "ជួយគាំទ្រគម្រោងតាមរយៈថវិការ"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:141
+#: ../../themes/qgis-theme/getinvolved_index.html:142
+#: ../../themes/qgis-theme/getinvolved_donations.html:131
 #: ../../themes/qgis-theme/about_index.html:147
-#: ../../themes/qgis-theme/getinvolved_donations.html:119
-#: ../../themes/qgis-theme/forusers_index.html:209
+#: ../../themes/qgis-theme/forusers_index.html:210
 msgid "Back to Top"
 msgstr "ត្រឡប់ទៅខាងលើ"
 
@@ -157,27 +146,23 @@ msgstr "ត្រឡប់ទៅខាងលើ"
 msgid "Search"
 msgstr "ស្វែងរក"
 
-#: ../../themes/qgis-theme/languageswitch.html:2
+#: ../../themes/qgis-theme/languageswitch.html:4
 msgid "English"
 msgstr "ភាសាអង់គ្លេស"
 
-#: ../../themes/qgis-theme/languageswitch.html:12
-msgid "Nederlands"
-msgstr "ភាសាហូឡង់"
-
-#: ../../themes/qgis-theme/languageswitch.html:6
+#: ../../themes/qgis-theme/languageswitch.html:8
 msgid "Spanish"
 msgstr "ភាសាអេស្ប៉ាញ"
 
-#: ../../themes/qgis-theme/languageswitch.html:10
+#: ../../themes/qgis-theme/languageswitch.html:14
 msgid "Japanese"
 msgstr "ភាសាជប៉ុន"
 
-#: ../../themes/qgis-theme/languageswitch.html:5
+#: ../../themes/qgis-theme/languageswitch.html:7
 msgid "German"
 msgstr "ភាសាអាឡឺម៉ង់"
 
-#: ../../themes/qgis-theme/languageswitch.html:9
+#: ../../themes/qgis-theme/languageswitch.html:13
 msgid "Italian"
 msgstr "ភាសាអ៊ីតាលី"
 
@@ -210,10 +195,6 @@ msgstr "សម្រាប់អ្នកប្រើប្រាស់ថ្ម
 msgid "Virus check"
 msgstr "ត្រួតពិនិត្យមើលមេរោគ"
 
-#: ../../themes/qgis-theme/forusers_download.html:58
-msgid "For Advanced GIS:"
-msgstr "សម្រាប់GISស៊ីជំរៅ៖"
-
 #: ../../themes/qgis-theme/forusers_download.html:73
 msgid "In the installer choose "
 msgstr "នៅក្នុងការជ្រើសរើសយកកម្មវិធីដំឡើង"
@@ -226,8 +207,8 @@ msgstr "ដំឡើងនៅលើផ្ទាំងការងារភ្ល
 msgid "and select"
 msgstr "និង ជ្រើស"
 
-#: ../../themes/qgis-theme/forusers_download.html:73
 #: ../../themes/qgis-theme/index.html:3
+#: ../../themes/qgis-theme/forusers_download.html:73
 msgid "QGIS"
 msgstr "ប្រព័ន្ធព័ត៌មានភូមិសាស្រ្ដ"
 
@@ -263,12 +244,6 @@ msgstr "ទំព័រទាយយក KyngChaos QGIS"
 #: ../../themes/qgis-theme/forusers_download.html:101
 msgid "Download for Linux"
 msgstr "ទាញយកសម្រាប់លីនុច"
-
-#: ../../themes/qgis-theme/forusers_download.html:106
-msgid ""
-"For many flavors of GNU/Linux binary packages (rpm and deb) or software "
-"repositories to add to your installation manager are provided below"
-msgstr "ចំពោះលក្ខណៈជាច្រើនរបស់កញ្ចប់ប្រព័ន្ធគោលពីរ GNU/Linux  (rpm​ និង deb) ឬឃ្លាំងកម្មវិធីបន្ថែមសម្រាប់កម្មវិធីគ្រប់គ្រងការដំឡើងរបស់អ្នកគឺត្រូវបានផ្ដល់ជូននៅខាងក្រោម"
 
 #: ../../themes/qgis-theme/forusers_download.html:117
 msgid "Linux Installation Instructions"
@@ -360,10 +335,6 @@ msgstr "ករណីសិក្សាQGIS"
 msgid "Supporting Organizations"
 msgstr "អង្គការគាំទ្រ"
 
-#: ../../themes/qgis-theme/about_index.html:40
-msgid "Commerical Support"
-msgstr "គាំទ្រផ្នែកពាណិជ្ជកម្ម"
-
 #: ../../themes/qgis-theme/about_index.html:54
 msgid "About QGIS"
 msgstr "អំពីQGIS"
@@ -441,9 +412,10 @@ msgstr "QGISជាគម្រោងធ្វើការស្ម័គ្រ�
 msgid "Organizations that support QGIS"
 msgstr "អង្គការដែលគាំទ្រQGIS"
 
+#: ../../themes/qgis-theme/about_index.html:40
 #: ../../themes/qgis-theme/about_index.html:130
 #: ../../themes/qgis-theme/forusers_index.html:46
-#: ../../themes/qgis-theme/forusers_index.html:192
+#: ../../themes/qgis-theme/forusers_index.html:193
 msgid "Commercial Support"
 msgstr "គាំទ្រផ្នែកពាណិជ្ជកម្ម"
 
@@ -502,8 +474,8 @@ msgstr "ចាប់ផ្តើម"
 msgid "Download and Install QGIS then follow the Quickstart."
 msgstr "ទាញយកនិងដំឡើងQGISរួចហើយធ្វើតាមការចាប់ផ្តើមរហ័ស។"
 
+#: ../../themes/qgis-theme/page.html:120
 #: ../../themes/qgis-theme/index.html:115
-#: ../../themes/qgis-theme/page.html:103
 msgid "Get Involved"
 msgstr "ចូលរួម"
 
@@ -544,7 +516,7 @@ msgstr "ស្វែងរកមើលរូបភាពនិងវីដេអ
 
 #: ../../themes/qgis-theme/index.html:164
 #: ../../themes/qgis-theme/index.html:165
-#: ../../themes/qgis-theme/forusers_index.html:160
+#: ../../themes/qgis-theme/forusers_index.html:154
 msgid "Planet QGIS"
 msgstr "ពិភពQGIS"
 
@@ -573,16 +545,16 @@ msgstr "មាតិកា"
 msgid "Page"
 msgstr "ទំព័រ"
 
-#: ../../themes/qgis-theme/page.html:101
+#: ../../themes/qgis-theme/page.html:118
 msgid "Discover QGIS"
 msgstr "ស្វែងយល់ពី QGIS"
 
-#: ../../themes/qgis-theme/page.html:102
+#: ../../themes/qgis-theme/page.html:119
 #: ../../themes/qgis-theme/forusers_index.html:23
 msgid "For Users"
 msgstr "សម្រាប់អ្នកប្រើប្រាស់"
 
-#: ../../themes/qgis-theme/page.html:104
+#: ../../themes/qgis-theme/page.html:121
 #: ../../themes/qgis-theme/forusers_index.html:34
 msgid "Documentation"
 msgstr "ឯកសារ"
@@ -648,45 +620,33 @@ msgstr "តើស្វែងរកជំនួយសម្រាប់QGISន�
 msgid "QGIS Press"
 msgstr "QGISប្រកាសព័ត៌មាន"
 
-#: ../../themes/qgis-theme/forusers_index.html:152
-msgid ">Read all about what the QGIS Community is doing around the world."
-msgstr ">អានអ្វីទាំងអស់ពីសហគមន៍QGISដែលកំពុងធ្វើសកម្មភាពជុំវិញពិភពលោក។"
-
-#: ../../themes/qgis-theme/forusers_index.html:154
-msgid "QGIS in the News"
-msgstr "QGISនៅក្នុងសារព័ត៌មាន"
-
-#: ../../themes/qgis-theme/forusers_index.html:157
-msgid "QGIS Press Releases"
-msgstr "QGISសេចក្ដីប្រកាសព័ត៌មាន"
-
-#: ../../themes/qgis-theme/forusers_index.html:172
+#: ../../themes/qgis-theme/forusers_index.html:173
 msgid "Organizations that Support QGIS"
 msgstr "អង្គការដែលគាំទ្រQGIS"
 
-#: ../../themes/qgis-theme/forusers_index.html:173
+#: ../../themes/qgis-theme/forusers_index.html:174
 msgid ""
 "QGIS is an entirely Open Source project. QGIS development is carried out "
 "largely by a group of volunteers, that in time have built up a large, "
 "valuable and useful code base, free to use and improve for everybody."
 msgstr "QGISគឺជាគម្រោងប្រភពកូដបើកចំហមួយរយភាគរយ។ ការបង្កើតQGISគឺធ្វើឡើងដោយក្រុមអ្នកស្ម័គ្រចិត្ត ដែលប្រើប្រាស់ពេលវេលាក្នុងការសាងឡើងនូវកូដជាមូលដ្ឋានដែលមានទំហំធំហើយមានតម្លៃ ហើយផ្តល់ជូនប្រើប្រាស់ដោយឥតគិតថ្លៃនិងធ្វើការកែលម្អសម្រាប់គ្រប់គ្នា។"
 
-#: ../../themes/qgis-theme/forusers_index.html:176
+#: ../../themes/qgis-theme/forusers_index.html:177
 msgid "Learn about Organizations that support QGIS"
 msgstr "ស្វែងយល់ពីអង្គការដែលគាំទ្រQGIS"
 
-#: ../../themes/qgis-theme/forusers_index.html:193
+#: ../../themes/qgis-theme/forusers_index.html:194
 msgid ""
 "Do you plan to use QGIS in your company or organization, but worry about "
 "whether there is commercial support available? Here is an alphabetical list "
 "of support contractors."
 msgstr "តើអ្នកមានគម្រោងនឹងប្រើQGISនៅក្នុងក្រុមហ៊ុននិងអង្គការរបស់អ្នក ប៉ុន្តែមានការព្រួយបារម្ភថាតើមានជំនួយពាណិជ្ជកម្មឬទេ? នេះជាបញ្ជីអ្នកជំនួយម៉ៅការតាមលំដាប់តួព្យញ្ជនៈ ចែកជាផ្នែក។"
 
-#: ../../themes/qgis-theme/forusers_index.html:196
+#: ../../themes/qgis-theme/forusers_index.html:197
 msgid "Finding Commercial Support for QGIS"
 msgstr "ស្វែងរកជំនួយពាណិជ្ជកម្មសម្រាប់QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:106
+#: ../../themes/qgis-theme/getinvolved_index.html:104
 msgid ""
 "QGIS Core consists on the one hand of the libraries enabling you to build "
 "custom tailored application by  providing a powerful API. On the other hand "
@@ -694,19 +654,19 @@ msgid ""
 "possibilities offered by the libraries, offering a user friendly interface."
 msgstr "ស្នូលQGISដែលមាននៅក្នុងបណ្ណាល័យដែលអាចឲ្យអ្នកធ្វើការបង្កើត និង ផ្លាស់ប្តូរកម្មវិធីtailoredតាមបំណងដោយផ្តល់ជូននូវAPIដ៏មានប្រសិទ្ធិភាព។ មួយវិញទៀតគឺមានផ្ទាំងការងារ និង កម្មវិធីមេដែលផ្តល់នូវបណ្ណាល័យកូដនិងផ្ទាំងអ្នកប្រើប្រាស់យ៉ាងងាយស្រួល។"
 
-#: ../../themes/qgis-theme/languageswitch.html:8
+#: ../../themes/qgis-theme/languageswitch.html:11
 msgid "French"
 msgstr "ភាសាបារាំង"
 
-#: ../../themes/qgis-theme/languageswitch.html:15
+#: ../../themes/qgis-theme/languageswitch.html:20
 msgid "Russian"
 msgstr "ភាសារុស្ស៊ី"
 
-#: ../../themes/qgis-theme/languageswitch.html:4
+#: ../../themes/qgis-theme/languageswitch.html:6
 msgid "Danish"
 msgstr "ភាសាដាណឺម៉ាក"
 
-#: ../../themes/qgis-theme/languageswitch.html:11
+#: ../../themes/qgis-theme/languageswitch.html:16
 msgid "Korean"
 msgstr "ភាសាកូរ៉េ"
 
@@ -794,31 +754,32 @@ msgid ""
 "you can use to get help from fellow users and developers."
 msgstr "មានបញ្ជីរសំបុត្រQGISជាច្រើន ក្រុមIRC កន្លែងពិភាក្សា និង ក្រុមអ្នកប្រើប្រាស់ដែលអ្នកអាចទំនាក់ទំនងក្រុមអ្នកប្រើប្រាស់ និង ក្រុមអ្នកបង្កើតកម្មវិធី។"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:124
+#: ../../themes/qgis-theme/getinvolved_index.html:125
 msgid "New donations page"
 msgstr "ទំព័រឧបត្ថម្ភថ្មី"
 
-#: ../../themes/qgis-theme/languageswitch.html:3
+#: ../../themes/qgis-theme/languageswitch.html:5
 msgid "Catalan"
 msgstr "ភាសាកាតាឡាន"
 
-#: ../../themes/qgis-theme/languageswitch.html:7
+#: ../../themes/qgis-theme/languageswitch.html:10
 msgid "Finnish"
 msgstr "ភាសាហ្វាំងឡង់"
 
-#: ../../themes/qgis-theme/languageswitch.html:13
+#: ../../themes/qgis-theme/languageswitch.html:18
 msgid "Portuguese"
 msgstr "ភាសាព័រទុយហ្គាល់"
 
-#: ../../themes/qgis-theme/languageswitch.html:14
+#: ../../themes/qgis-theme/languageswitch.html:19
 msgid "Romanian"
 msgstr "ភាសារ៉ូម៉ានី"
 
-#: ../../themes/qgis-theme/languageswitch.html:16
+#: ../../themes/qgis-theme/languageswitch.html:21
 msgid "Chinese (China)"
 msgstr "ភាសាចិន (ចិន)"
 
-#: ../../themes/qgis-theme/languageswitch.html:17
+#: ../../themes/qgis-theme/languageswitch.html:22
+#: ../../themes/qgis-theme/languageswitch.html:22
 msgid "Chinese (Taiwan)"
 msgstr "ភាសាចិន​(តៃវ៉ាន់)"
 
@@ -922,7 +883,7 @@ msgid "Bank Transfer"
 msgstr "ផ្ញើតាមធនាគារ"
 
 #: ../../themes/qgis-theme/getinvolved_donations.html:42
-#: ../../themes/qgis-theme/getinvolved_donations.html:97
+#: ../../themes/qgis-theme/getinvolved_donations.html:109
 msgid "Flattr"
 msgstr "Flattr"
 
@@ -941,25 +902,11 @@ msgstr "អ្នកអាចប្រើ Paypal ដើម្បីធ្វើ�
 msgid "You can also use your own Paypal account to donate."
 msgstr "អ្នកអាចប្រើប្រាស់គណនីPaypalរបស់អ្នកដើម្បីបរិច្ចាគ។"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:87
-msgid ""
-"The swiss QGIS-user group is taking care of our bank account. You can make "
-"an international money transfer to:...."
-msgstr "ក្រុម អ្នកប្រើប្រាស់QGISរបស់ស្វ៊ីសជាអ្នកថែរក្សានៃគណនីធនាគាររបស់យើង។ អ្នកអាចធ្វើការផ្ទេរប្រាក់ជាអន្ដរជាតិទៅ: ...."
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:89
-msgid "TODO"
-msgstr "ការងារត្រូវធ្វើ"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:98
+#: ../../themes/qgis-theme/getinvolved_donations.html:110
 msgid ""
 "Flattr is a way to make donations to creators or developers. Read about it "
 "via the button below."
 msgstr "Flattr គឺជាមធ្យោបាយមួយដើម្បីធ្វើការបរិច្ចាកទៅឲ្យអ្នកបង្កើតឬអភិវឌ្ឍន៍។ អានអំពីវាតាមរយៈប៊ូតុងខាងក្រោម។"
-
-#: ../../themes/qgis-theme/page.html:32
-msgid "Last updated on %(last_updated)s"
-msgstr "ការធ្វើបច្ចុប្បន្នភាពចុងក្រោយនៅ %(last_updated)s"
 
 #: ../../themes/qgis-theme/forusers_download.html:38
 msgid "QGIS Standalone Installer Version 2.0.1 (32 bit)"
@@ -977,14 +924,14 @@ msgstr "គាំទ្រQGIS"
 msgid "Donate now!"
 msgstr "បរិច្ចាគឥឡូវនេះ!"
 
-#: ../../themes/qgis-theme/page.html:26
+#: ../../themes/qgis-theme/page.html:29
 msgid ""
 "If not stated otherwise, all content is licensed under <a "
 "href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
 "Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
 msgstr "ប្រសិនបើមិនបានបញ្ជាក់ បើមិនដូច្នោះទេមាតិកាទាំងអស់គឺនៅក្រោមអាជ្ញាប័ណ្ណ <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
 
-#: ../../themes/qgis-theme/page.html:30
+#: ../../themes/qgis-theme/page.html:33
 msgid ""
 "Select graphics from <a href=\"http://thenounproject.com\" "
 "target=\"_blank\">The Noun Project collection</a>"
@@ -997,6 +944,126 @@ msgstr "ពិនិត្យមើលផ្ទាំងគំហើញផ្ល
 #: ../../themes/qgis-theme/forusers_index.html:68
 msgid "Visual Changelog for 2.0"
 msgstr "ផ្ទាំងគំហើយផ្លាស់ប្ដូរសម្រាប់ 2.0"
+
+#: ../../themes/qgis-theme/languageswitch.html:9
+msgid "Persian"
+msgstr ""
+
+#: ../../themes/qgis-theme/languageswitch.html:17
+msgid "Dutch"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:106
+msgid ""
+"For many flavors of GNU/Linux binary packages (rpm and deb) or software "
+"repositories (to add to your installation manager) are available. Please "
+"select your choice of distro below:"
+msgstr ""
+
+#: ../../themes/qgis-theme/page.html:36
+msgid " - Last updated on %(last_updated)s"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:86
+msgid "Want to write your own Python plugin? Go here: "
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:86
+msgid "Developing Python plugins"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:87
+msgid "Want to develop a cpp plugin? Go here: "
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:87
+msgid "Developing CPP plugins"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:109
+msgid "QGIS roadmap"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:58
+msgid "For Advanced Users:"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_donations.html:87
+msgid ""
+"The swiss QGIS-user group is taking care of our bank account. \n"
+"                    Use the details below to make a donation via international money transfer:"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:152
+msgid "Read what the QGIS Community is doing around the world."
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:156
+msgid "Get the QGIS 2.0 brochure:"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:158
+msgid "QGIS 2.0 Brochure"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:160
+msgid "for a high-resolution print version get:"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:161
+msgid "Brochure print version (15MB)"
+msgstr ""
+
+#: ../../themes/qgis-theme/languageswitch.html:12
+msgid "Indonesian"
+msgstr ""
+
+#: ../../themes/qgis-theme/languageswitch.html:15
+msgid "Khmer"
+msgstr ""
+
+#~ msgid "If you would like to develop your own, you can get started here:"
+#~ msgstr ""
+
+#~ msgid "Develop your own QGIS Plugin"
+#~ msgstr ""
+
+#~ msgid "QGIS Core"
+#~ msgstr ""
+
+#~ msgid "For Advanced GIS:"
+#~ msgstr ""
+
+#~ msgid "Commerical Support"
+#~ msgstr ""
+
+#~ msgid ">Read all about what the QGIS Community is doing around the world."
+#~ msgstr ""
+
+#~ msgid "QGIS in the News"
+#~ msgstr ""
+
+#~ msgid "QGIS Press Releases"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The swiss QGIS-user group is taking care of our bank account. You can make "
+#~ "an international money transfer to:...."
+#~ msgstr ""
+
+#~ msgid "TODO"
+#~ msgstr ""
+
+#~ msgid "Last updated on %(last_updated)s"
+#~ msgstr ""
+
+#~ msgid "Nederlands"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For many flavors of GNU/Linux binary packages (rpm and deb) or software "
+#~ "repositories to add to your installation manager are provided below"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "All content is licensed under <a href=\"http://creativecommons.org/licenses"

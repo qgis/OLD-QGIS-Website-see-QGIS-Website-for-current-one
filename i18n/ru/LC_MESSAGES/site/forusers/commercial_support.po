@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-10-12 14:16+0000\n"
-"Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
+"PO-Revision-Date: 2013-12-13 22:12+0000\n"
+"Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -219,16 +219,23 @@ msgid ""
 "data analysis."
 msgstr "|northriver| `North River Geographic Systems, Inc <http://www.northrivergeographic.com/>`_ небольшая консалтинговая ГИС-компания, расположенная на юго-востоке США. Предоставляет такие ГИС-услуги как преобразование данных, поддержка ПО ESRI и FOSS4G, картография и анализ данных."
 
-#: ../../source/site/forusers/commercial_support.rst:241
+#: ../../source/site/forusers/commercial_support.rst:249
 msgid ""
 "|sungis| `SunGIS <http://www.sungis.lv/>`_ (based in Valmiera, Latvia) "
 "provides commercial support, consulting, data processing and custom "
 "programming for QGIS, GRASS GIS and FOSS GIS based SDI solutions."
 msgstr "|sungis| `SunGIS <http://www.sungis.lv/>`_ (Валмиера, Латвия) предлагает коммерческую поддержку, консультации, обработку данных и разработку для QGIS, GRASS GIS а такжеSDI решения на основе FOSS ГИС."
 
-#: ../../source/site/forusers/commercial_support.rst:250
+#: ../../source/site/forusers/commercial_support.rst:258
 msgid ""
 "|terrestris| `Terrestris "
 "<http://www.terrestris.de/dienstleistungen/schulungen/>`_ (Bonn, Germany) "
 "provides commercial services and training for QGIS."
 msgstr "|terrestris| `Terrestris <http://www.terrestris.de/dienstleistungen/schulungen/>`_ (Бонн, Германия) предоставляет коммерческую поддержку и обучение по QGIS."
+
+#: ../../source/site/forusers/commercial_support.rst:241
+msgid ""
+"|liviostump| `Livio Stump <http://www.liviostump.ch>`_ (based in Lucerne, "
+"Switzerland) provides commercial GIS consulting, support and training in "
+"QGIS."
+msgstr ""

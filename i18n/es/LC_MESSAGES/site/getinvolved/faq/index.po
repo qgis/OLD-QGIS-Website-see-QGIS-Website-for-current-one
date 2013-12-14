@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-09-23 13:08+0000\n"
+"PO-Revision-Date: 2013-12-13 22:06+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -33,11 +33,11 @@ msgstr ""
 msgid "User"
 msgstr "Usuario"
 
-#: ../../source/site/getinvolved/faq/index.rst:18
+#: ../../source/site/getinvolved/faq/index.rst:34
 msgid "Why is QGIS 2.0 named 'Dufour'?"
 msgstr ""
 
-#: ../../source/site/getinvolved/faq/index.rst:20
+#: ../../source/site/getinvolved/faq/index.rst:36
 msgid ""
 "After a succesfull developer meeting in Zurich (Switzerland), we decided "
 "that the next release should be related to it. `General Guillaume-Henri "
@@ -50,67 +50,100 @@ msgid ""
 " in Switzerland."
 msgstr ""
 
-#: ../../source/site/getinvolved/faq/index.rst:28
-msgid "QGIS error on your machine. How to ask a question?"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:30
-msgid "Please provide the following information:"
-msgstr "Por favor suministra la siguiente información:"
-
-#: ../../source/site/getinvolved/faq/index.rst:32
+#: ../../source/site/getinvolved/faq/index.rst:22
 msgid "preferably a descriptive title for your email"
 msgstr "preferiblemente un título descriptivo para tu e-mail"
 
-#: ../../source/site/getinvolved/faq/index.rst:33
+#: ../../source/site/getinvolved/faq/index.rst:23
 msgid "which Operating System and version"
 msgstr "que Sistema Operativo y Versión"
 
-#: ../../source/site/getinvolved/faq/index.rst:34
+#: ../../source/site/getinvolved/faq/index.rst:24
 msgid "which QGIS version you used at that moment (exact)"
 msgstr ""
 
-#: ../../source/site/getinvolved/faq/index.rst:35
+#: ../../source/site/getinvolved/faq/index.rst:25
 msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
 msgstr ""
 
-#: ../../source/site/getinvolved/faq/index.rst:36
+#: ../../source/site/getinvolved/faq/index.rst:26
 msgid ""
 "at what time did it break (reinstall, new install, system update, project??)"
 msgstr ""
 
-#: ../../source/site/getinvolved/faq/index.rst:37
-msgid ""
-"what exactly is the error (not sure in the above if you mean that \"python "
-"error' is the error, or you mean there is a python error which you did not "
-"write in you email"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:39
+#: ../../source/site/getinvolved/faq/index.rst:29
 msgid ""
 "Without this info, it is very hard to answer for anybody. Or, taking just "
 "too much time because the answer will be a question to you etc etc."
 msgstr ""
 
-#: ../../source/site/getinvolved/faq/index.rst:43
+#: ../../source/site/getinvolved/faq/index.rst:54
 msgid "Development"
 msgstr "Desarrollo"
 
-#: ../../source/site/getinvolved/faq/index.rst:46
+#: ../../source/site/getinvolved/faq/index.rst:57
 msgid "Can I compile QGIS myself on Windows?"
 msgstr "¿Puedo compilar yo mismo QGIS en Windows?"
 
-#: ../../source/site/getinvolved/faq/index.rst:48
-#: ../../source/site/getinvolved/faq/index.rst:54
-#: ../../source/site/getinvolved/faq/index.rst:60
+#: ../../source/site/getinvolved/faq/index.rst:59
+#: ../../source/site/getinvolved/faq/index.rst:65
+#: ../../source/site/getinvolved/faq/index.rst:71
 msgid ""
 "Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 msgstr "Sí, por favor lee: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 
-#: ../../source/site/getinvolved/faq/index.rst:52
+#: ../../source/site/getinvolved/faq/index.rst:63
 msgid "Can I compile QGIS myself on MacOS?"
 msgstr "¿Puedo compilar yo mismo QGIS en MacOS?"
 
-#: ../../source/site/getinvolved/faq/index.rst:58
+#: ../../source/site/getinvolved/faq/index.rst:69
 msgid "Can I compile QGIS myself on Linux?"
 msgstr "¿Puedo compilar yo mismo QGIS en Linux?"
+
+#: ../../source/site/getinvolved/faq/index.rst:17
+msgid "How to ask a QGIS question?"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:19
+msgid ""
+"If you are going to ask QGIS related question via the mailinglists, please "
+"provide the following information with it:"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:27
+msgid ""
+"what exactly is the error (if possible: screendump, stacktrace, copy of "
+"errortext)"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:44
+msgid "Can I open ECW files with QGIS?"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:46
+msgid ""
+"Yes you can... BUT depending on your Operating System, it is more or less "
+"difficult."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:48
+msgid "If you use the OSGeo4w 64 bit installer, it is included."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:50
+msgid ""
+"For other instructions, eg look here: http://www.faunalia.com/content"
+"/adding-ecw-support-quantum-gis"
+msgstr ""
+
+#~ msgid "QGIS error on your machine. How to ask a question?"
+#~ msgstr ""
+
+#~ msgid "Please provide the following information:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "what exactly is the error (not sure in the above if you mean that \"python "
+#~ "error' is the error, or you mean there is a python error which you did not "
+#~ "write in you email"
+#~ msgstr ""

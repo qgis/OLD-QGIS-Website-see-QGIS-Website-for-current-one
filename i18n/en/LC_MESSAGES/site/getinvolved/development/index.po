@@ -29,68 +29,219 @@ msgid ""
 "<http://hub.qgis.org/wiki/quantum-gis/Bugreports>`_"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:17
+#: ../../source/site/getinvolved/development/index.rst:42
 msgid "Development"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:19
+#: ../../source/site/getinvolved/development/index.rst:44
 msgid "See https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:23
+#: ../../source/site/getinvolved/development/index.rst:48
 msgid "Api Documentation"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:25
+#: ../../source/site/getinvolved/development/index.rst:50
 msgid "You can find the API documentation for cpp here:"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:27
+#: ../../source/site/getinvolved/development/index.rst:52
 msgid "http://qgis.org/api/ (for QGIS testing)"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:29
+#: ../../source/site/getinvolved/development/index.rst:54
 msgid "http://qgis.org/api/2.0/ (for QGIS 2.0)"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:31
+#: ../../source/site/getinvolved/development/index.rst:56
 msgid "http://qgis.org/api/1.8/ (for QGIS 1.8)"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:35
-msgid "Python Development"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:37
+#: ../../source/site/getinvolved/development/index.rst:80
 msgid "QGIS has a lot to offer for python developers too."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:39
+#: ../../source/site/getinvolved/development/index.rst:82
 msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:41
-msgid ""
-"Interested in python plugin development, go here http://plugins.qgis.org or "
-"have a look into the :ref:`PyQGIS-Developer-Cookbook`."
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:45
-msgid "Python iface documentation"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:47
+#: ../../source/site/getinvolved/development/index.rst:89
 msgid "You can find the QGIS-iface which you can use via python here:"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:49
+#: ../../source/site/getinvolved/development/index.rst:91
 msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:51
+#: ../../source/site/getinvolved/development/index.rst:93
 msgid "http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:53
+#: ../../source/site/getinvolved/development/index.rst:95
 msgid "http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
 msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:16
+msgid "Road Map"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:18
+msgid ""
+"Since QGIS 2.0 further development will occur based on a timebased roadmap."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:20
+msgid "Odd version numbers (2.1, 2.3 etc) are development versions."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:22
+msgid "Even version numbers (2.2, 2.4 etc) are release version."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:24
+msgid "Following is the planning for 2014"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:27
+msgid "Week"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:27
+msgid "Date"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:27
+msgid "QGIS version"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:29
+msgid "4"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:29
+msgid "24.01"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:29
+msgid "QGIS Freeze  2.1"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:30
+msgid "8"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:30
+msgid "21.02"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:30
+msgid "QGIS Release 2.2"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:31
+msgid "21"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:31
+msgid "23.05"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:31
+msgid "QGIS Freeze  2.3"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:32
+msgid "25"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:32
+msgid "20.06"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:32
+msgid "QGIS Release 2.4"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:33
+msgid "39"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:33
+msgid "26.09"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:33
+msgid "QGIS Freeze  2.5"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:34
+msgid "43"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:34
+msgid "24.10"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:34
+msgid "QGIS Release 2.6"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:38
+msgid ""
+"Only in case of real problems a minor version (eg 2.0.1) update will be "
+"planned."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:61
+msgid "Plugin Development"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:63
+msgid ""
+"QGIS has a plugin infrastructure. You can add a lot of new functionality by "
+"writing your own plugins."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:66
+msgid "These plugins can either be written in C++ or in Python"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:69
+msgid "Cpp plugin development"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:71
+msgid ""
+"To learn how to write your first cpp plugin, please go here: :ref:`QGIS-cpp-"
+"plugin-development`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:73
+msgid ""
+"Via a script you will generate a plugin stub which can be used further."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:78
+msgid "Python plugin development"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:84
+msgid ""
+"Interested in python plugin development, go to :ref:`QGIS-python-plugin-"
+"development` or have a look into the :ref:`PyQGIS-Developer-Cookbook`."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:87
+msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
+msgstr ""
+
+#~ msgid "Python Development"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Interested in python plugin development, go here http://plugins.qgis.org or "
+#~ "have a look into the :ref:`PyQGIS-Developer-Cookbook`."
+#~ msgstr ""
+
+#~ msgid "Python iface documentation"
+#~ msgstr ""

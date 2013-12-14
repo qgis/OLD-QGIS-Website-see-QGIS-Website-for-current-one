@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-11-19 16:27+0000\n"
+"PO-Revision-Date: 2013-12-13 22:12+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Japanese (http://www.transifex.com/projects/p/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -18,87 +18,119 @@ msgstr ""
 msgid "QGIS Support"
 msgstr "QGISサポート"
 
-#: ../../source/site/forusers/support.rst:5
+#: ../../source/site/forusers/support.rst:6
 msgid "Mailing Lists"
 msgstr "メーリングリスト"
 
-#: ../../source/site/forusers/support.rst:7
+#: ../../source/site/forusers/support.rst:8
 msgid ""
 "QGIS has a bunch of mailing lists. See :ref:`QGIS-mailinglists` for the "
 "different available lists."
 msgstr "QGISは多くのメーリングリストがあります.  :ref:`QGIS-mailinglists`　を参照して様々な利用可能なリストを探して下さい."
 
-#: ../../source/site/forusers/support.rst:9
+#: ../../source/site/forusers/support.rst:10
 msgid ""
 "If you are going to ask questions please read this: :ref:`how-to-ask-a-QGIS-"
 "question`."
 msgstr "もし質問をしたい場合は是非  :ref:`how-to-ask-a-QGIS-question` を読んでからお願いします."
 
-#: ../../source/site/forusers/support.rst:12
+#: ../../source/site/forusers/support.rst:40
 msgid "Chat"
 msgstr "チャット"
 
-#: ../../source/site/forusers/support.rst:14
+#: ../../source/site/forusers/support.rst:42
 msgid "A lot of the development buzz will be spoken on IRC."
 msgstr "多くの開発者のつぶやきがIRCで発せられてます."
 
-#: ../../source/site/forusers/support.rst:16
+#: ../../source/site/forusers/support.rst:44
 msgid "There is a #qgis channel on freenode.net"
 msgstr " freenode.net に #qgisチャンネルがあります"
 
-#: ../../source/site/forusers/support.rst:18
+#: ../../source/site/forusers/support.rst:46
 msgid ""
 "You can also use a web interface: "
 "http://webchat.freenode.net/?channels=#qgis"
 msgstr "WEBインターフェースを使うこともできます: http://webchat.freenode.net/?channels=#qgis"
 
-#: ../../source/site/forusers/support.rst:20
+#: ../../source/site/forusers/support.rst:48
 msgid "TODO: write something about the IRC ethiquette?"
 msgstr "TODO IRCのエチケットについて何か書くべきでしょうか?"
 
-#: ../../source/site/forusers/support.rst:24
+#: ../../source/site/forusers/support.rst:32
 msgid "StackExchange"
 msgstr "StackExchange"
 
-#: ../../source/site/forusers/support.rst:26
-msgid "On http://gis.stackexchange.com you can ask QGIS questions also."
-msgstr " http://gis.stackexchange.com こちらのWEBページでもQGISについての質問をすることができます."
-
-#: ../../source/site/forusers/support.rst:29
+#: ../../source/site/forusers/support.rst:53
 msgid "User Groups"
 msgstr "ユーザーグループ"
 
-#: ../../source/site/forusers/support.rst:31
+#: ../../source/site/forusers/support.rst:55
 msgid "TODO"
 msgstr "TODO"
 
-#: ../../source/site/forusers/support.rst:35
+#: ../../source/site/forusers/support.rst:59
 msgid "Issue Tracker"
 msgstr "課題トラッカー"
 
-#: ../../source/site/forusers/support.rst:37
+#: ../../source/site/forusers/support.rst:61
 msgid ""
 "If you want to file bugs or issues, you need an osgeo ID. You can create an "
 "account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
 msgstr "もしバグか課題を書き込みたい場合はosgeo IDが必要です. https://www2.osgeo.org/cgi-bin/ldap_create_user.py こちらのページでアカウントを作ることができます"
 
-#: ../../source/site/forusers/support.rst:39
+#: ../../source/site/forusers/support.rst:63
 msgid ""
 "More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
 msgstr "詳しい情報は http://hub.qgis.org/wiki/quantum-gis/Bugreports を参照して下さい"
 
-#: ../../source/site/forusers/support.rst:41
+#: ../../source/site/forusers/support.rst:65
 msgid ""
 "All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
 "gis/issues"
 msgstr "すべての課題は : http://hub.qgis.org/projects/quantum-gis/issues で参照できます"
 
-#: ../../source/site/forusers/support.rst:47
+#: ../../source/site/forusers/support.rst:71
 msgid "Commercial Support"
 msgstr "コマーシャルサポート"
 
-#: ../../source/site/forusers/support.rst:49
+#: ../../source/site/forusers/support.rst:73
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
 msgstr ""
+
+#: ../../source/site/forusers/support.rst:14
+msgid "Searchable Mailing Lists"
+msgstr ""
+
+#: ../../source/site/forusers/support.rst:16
+msgid "Nabble (http://nabble.com) keeps a history of a lot of mailinglists."
+msgstr ""
+
+#: ../../source/site/forusers/support.rst:18
+msgid ""
+"If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
+"you see there is a QGIS section also, where you can do a search over all "
+"QGIS lists, or refine it to eg only the users list."
+msgstr ""
+
+#: ../../source/site/forusers/support.rst:25
+msgid "Forums"
+msgstr ""
+
+#: ../../source/site/forusers/support.rst:27
+msgid ""
+"QGIS does not have a forum. Please either search in StackExchange (see "
+"below), or via http://nabble.com in the history of our Mailinglists (see "
+"above)"
+msgstr ""
+
+#: ../../source/site/forusers/support.rst:34
+msgid ""
+"On http://gis.stackexchange.com you can ask QGIS questions also. If you use "
+"the tag 'qgis' you'll see all QGIS related questions and answer: "
+"http://gis.stackexchange.com/?tags=qgis"
+msgstr ""
+
+#~ msgid "On http://gis.stackexchange.com you can ask QGIS questions also."
+#~ msgstr ""

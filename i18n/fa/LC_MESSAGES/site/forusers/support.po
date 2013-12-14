@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-11-19 16:27+0000\n"
-"Last-Translator: Arash_d <Arash.dnv@gmail.com>\n"
+"PO-Revision-Date: 2013-12-13 22:12+0000\n"
+"Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Persian (http://www.transifex.com/projects/p/qgis-website/language/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,87 +21,119 @@ msgstr ""
 msgid "QGIS Support"
 msgstr "پشتیبانی کوانتم جی ای اس"
 
-#: ../../source/site/forusers/support.rst:5
+#: ../../source/site/forusers/support.rst:6
 msgid "Mailing Lists"
 msgstr "لیست ایمیل ها"
 
-#: ../../source/site/forusers/support.rst:7
+#: ../../source/site/forusers/support.rst:8
 msgid ""
 "QGIS has a bunch of mailing lists. See :ref:`QGIS-mailinglists` for the "
 "different available lists."
 msgstr "لیست از ایمیل ها در کوانتم  وجود دارد : :ref:`QGIS-mailinglists` این ایمیل ها در دسترس هستند"
 
-#: ../../source/site/forusers/support.rst:9
+#: ../../source/site/forusers/support.rst:10
 msgid ""
 "If you are going to ask questions please read this: :ref:`how-to-ask-a-QGIS-"
 "question`."
 msgstr "اگر می خواهید سوالی بپرسید لطفا این لینک را مطالعه کنید: :ref:`how-to-ask-a-QGIS-question`."
 
-#: ../../source/site/forusers/support.rst:12
+#: ../../source/site/forusers/support.rst:40
 msgid "Chat"
 msgstr "چت کردن"
 
-#: ../../source/site/forusers/support.rst:14
+#: ../../source/site/forusers/support.rst:42
 msgid "A lot of the development buzz will be spoken on IRC."
 msgstr "در اتاق های گفتگو درباره بسیاری از مسائل توسعه بحث شده است ."
 
-#: ../../source/site/forusers/support.rst:16
+#: ../../source/site/forusers/support.rst:44
 msgid "There is a #qgis channel on freenode.net"
 msgstr "یک کانال گفتگو کوانتم در سایت  freenode.net هست"
 
-#: ../../source/site/forusers/support.rst:18
+#: ../../source/site/forusers/support.rst:46
 msgid ""
 "You can also use a web interface: "
 "http://webchat.freenode.net/?channels=#qgis"
 msgstr "شما می توانید استفاده از یک رابط وب : http://webchat.freenode.net/?channels=#qgis"
 
-#: ../../source/site/forusers/support.rst:20
+#: ../../source/site/forusers/support.rst:48
 msgid "TODO: write something about the IRC ethiquette?"
 msgstr "برای انجام: درباره پروتکل IRC چیزی بنویسید؟"
 
-#: ../../source/site/forusers/support.rst:24
+#: ../../source/site/forusers/support.rst:32
 msgid "StackExchange"
 msgstr "StackExchange"
 
-#: ../../source/site/forusers/support.rst:26
-msgid "On http://gis.stackexchange.com you can ask QGIS questions also."
-msgstr "همچنین در http://gis.stackexchange.com می توانید سوالات خودرا مطرح کنید."
-
-#: ../../source/site/forusers/support.rst:29
+#: ../../source/site/forusers/support.rst:53
 msgid "User Groups"
 msgstr "گروه های کاربری"
 
-#: ../../source/site/forusers/support.rst:31
+#: ../../source/site/forusers/support.rst:55
 msgid "TODO"
 msgstr "باید انجام شود"
 
-#: ../../source/site/forusers/support.rst:35
+#: ../../source/site/forusers/support.rst:59
 msgid "Issue Tracker"
 msgstr "پیگیری موضوعی"
 
-#: ../../source/site/forusers/support.rst:37
+#: ../../source/site/forusers/support.rst:61
 msgid ""
 "If you want to file bugs or issues, you need an osgeo ID. You can create an "
 "account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
 msgstr "اگر می خواهید یک پوشه برای مشکلات یا مسائل خود داشته باشید، می توانید یک حساب در osgeo ایجاد منید در اینجا : https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
 
-#: ../../source/site/forusers/support.rst:39
+#: ../../source/site/forusers/support.rst:63
 msgid ""
 "More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
 msgstr "اطلاعات بیشتر در اینجا یافت می شود: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
 
-#: ../../source/site/forusers/support.rst:41
+#: ../../source/site/forusers/support.rst:65
 msgid ""
 "All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
 "gis/issues"
 msgstr "همه مسائل را می توان در اینجا مرور کنید : http://hub.qgis.org/projects/quantum-gis/issues"
 
-#: ../../source/site/forusers/support.rst:47
+#: ../../source/site/forusers/support.rst:71
 msgid "Commercial Support"
 msgstr "پشتیبانی تجاری"
 
-#: ../../source/site/forusers/support.rst:49
+#: ../../source/site/forusers/support.rst:73
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
 msgstr "همچنین شما می توانید از شرکتهای نزدیک به خود راهنمائی بگیرید، لطفا به این صفحه مراجعه کنید: :ref:`QGIS-commercial_support`."
+
+#: ../../source/site/forusers/support.rst:14
+msgid "Searchable Mailing Lists"
+msgstr ""
+
+#: ../../source/site/forusers/support.rst:16
+msgid "Nabble (http://nabble.com) keeps a history of a lot of mailinglists."
+msgstr ""
+
+#: ../../source/site/forusers/support.rst:18
+msgid ""
+"If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
+"you see there is a QGIS section also, where you can do a search over all "
+"QGIS lists, or refine it to eg only the users list."
+msgstr ""
+
+#: ../../source/site/forusers/support.rst:25
+msgid "Forums"
+msgstr ""
+
+#: ../../source/site/forusers/support.rst:27
+msgid ""
+"QGIS does not have a forum. Please either search in StackExchange (see "
+"below), or via http://nabble.com in the history of our Mailinglists (see "
+"above)"
+msgstr ""
+
+#: ../../source/site/forusers/support.rst:34
+msgid ""
+"On http://gis.stackexchange.com you can ask QGIS questions also. If you use "
+"the tag 'qgis' you'll see all QGIS related questions and answer: "
+"http://gis.stackexchange.com/?tags=qgis"
+msgstr ""
+
+#~ msgid "On http://gis.stackexchange.com you can ask QGIS questions also."
+#~ msgstr ""
