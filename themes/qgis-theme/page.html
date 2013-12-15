@@ -82,6 +82,8 @@ http://stackoverflow.com/questions/13209597/override-html-page-template-for-a-sp
                             {% include 'getinvolved_donations.html' %}
                         {% elif pagename == 'site/about/index' %}
                             {% include 'about_index.html' %}
+                        {% elif pagename == 'docs/index' %}
+                            {% include 'docs_index.html' %}
                         {% else %}
                             {{ body }}
                         {% endif %}

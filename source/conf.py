@@ -176,6 +176,7 @@ html_sidebars = {
     'site/getinvolved/index': [],
     'site/getinvolved/donations': [],
     'docs/**': ['myglobaltoc.html'],
+    'docs/index': [],
     # for bootstrap theme: custom sidebar templates possible:
     'sidebars': []
 }
