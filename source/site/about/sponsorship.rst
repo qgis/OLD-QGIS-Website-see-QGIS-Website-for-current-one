@@ -212,6 +212,7 @@ bank account rather than PayPal.
 * Antimo Battistoni
 * Aris Dimopoulos
 * Associazione Monte Porzio Cultura
+* Athanasios Karathanasis
 * Attila Toth
 * Bayard Ewing
 * Benoit David
@@ -228,6 +229,7 @@ bank account rather than PayPal.
 * Christopher Kahler
 * Cristian Spieles
 * Christian Schwartze
+* Clifford Snow
 * Compagnie du vent
 * D R Arbib
 * Dan Karran
@@ -398,6 +400,7 @@ bank account rather than PayPal.
 * Roberto Facoetti
 * Russel Taylor
 * Russell Rew
+* S A Odell
 * Sake Wagenaar
 * Sebastian Cionoiu
 * Sergey Khokhlov
@@ -424,6 +427,7 @@ bank account rather than PayPal.
 * Tony MacLeod
 * Tyler Mitchell
 * Ujaval Gandhi
+* Uros Bernik
 * Umberto Zulian
 * Wendelin Schmit
 * Werner Macho
