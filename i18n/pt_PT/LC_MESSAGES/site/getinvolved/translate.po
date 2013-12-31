@@ -1,13 +1,14 @@
 # 
 # Translators:
+# João Gaspar <joao.f.r.gaspar@gmail.com>, 2013
 # victorferreira <victor.mota.ferreira@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-12-13 22:11+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2013-12-14 12:08+0000\n"
+"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -191,7 +192,7 @@ msgid ""
 " the current percentage of translation you will either have to install the "
 "nightly build of QGIS or checkout the source code of QGIS and start "
 "translating there."
-msgstr ""
+msgstr "Também encontrará lá o progresso da tradução (mas lembre-se que em todas as versões \"stable\" ficará sempre ao mesmo nível). Para encontrar a actual percentagem de tradução terá de instalar a compilação noturna do QGIS ou em alternativa fazer \"checkout\" do código fonte do QGIS e começar a traduzir aí."
 
 #: ../../source/site/getinvolved/translate.rst:32
 msgid ""
@@ -200,12 +201,12 @@ msgid ""
 "questions, please contact the Translation Team Leader (see :ref:`Organigram "
 "<gui-translation>`) or subscribe with the `qgis-gui-translation-team "
 "<http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_ mailing list."
-msgstr ""
+msgstr "Se planeia contribuir para uma determinada linguagem ou quer traduzir a GUI do QGIS para uma linguagem ainda não existente e por qualquer outra questão relacionada, por favor contacte o Líder da Equipa de Tradução (ver :ref:`Organigram <gui-translation>`) ou subscreva a lista de discussão do `qgis-gui-translation-team <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`."
 
 #: ../../source/site/getinvolved/translate.rst:45
 msgid ""
 "The other available mailingslist can be found at :ref:`QGIS-mailinglists`."
-msgstr ""
+msgstr "As outras listas de discussão disponíveis podem ser encontradas em :ref:`QGIS-mailinglists`."
 
 #: ../../source/site/getinvolved/translate.rst:89
 msgid ""
@@ -216,21 +217,21 @@ msgid ""
 " called qgis_de.ts. To further specify the language it is sometimes "
 "necessary to have two language codes defined but we'd like to avoid this as "
 "much as we can."
-msgstr ""
+msgstr "Normalmente é suficiente descarregar o ficheiro .ts a parir do `repositório github <https://github.com/qgis/Quantum-GIS/tree/master/i18n/>`_ Procure pelo código da sua língua que é adicionado ao fim dos ficheiros: qgis_*.ts, onde * é o código da sua língua. Por exemplo o ficheiro de tradução da língua alemã é chamada de qgis_de.ts. Para maior especificidade da língua por vezes é necessário ter dois códigos de língua definidos mas queremos evitar o mais possível esse tipo de situações."
 
 #: ../../source/site/getinvolved/translate.rst:134
 msgid ""
 "Description of how you can contribute in the translation of the "
 "Documentation are available in the README.md file which gets displayed on "
 "https://github.com/qgis/QGIS-Documentation"
-msgstr ""
+msgstr "A descrição de como pode contribuir na tradução da Documentação está disponível no ficheiro README.md que é exibida em https://github.com/qgis/QGIS-Documentation"
 
 #: ../../source/site/getinvolved/translate.rst:142
 msgid ""
 "Description of how you can contribute in the translation of the Webpage are "
 "available in the README.md file which gets displayed on "
 "https://github.com/qgis/QGIS-Website"
-msgstr ""
+msgstr "A descrição de como pode contribuir na tradução do Sítio na Internet está disponível no ficheiro README.md que é exibida em  https://github.com/qgis/QGIS-Website"
 
 #~ msgid ""
 #~ "You will also find the progress of the translation there (but remember in "

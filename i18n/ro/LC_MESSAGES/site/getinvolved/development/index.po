@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-12-13 22:09+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2013-12-15 11:53+0000\n"
+"Last-Translator: csorin <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -87,157 +87,157 @@ msgstr "http://qgis.org/api/1.8/classQgisInterface.html (pentru QGIS 1.8)"
 
 #: ../../source/site/getinvolved/development/index.rst:16
 msgid "Road Map"
-msgstr ""
+msgstr "Planficare"
 
 #: ../../source/site/getinvolved/development/index.rst:18
 msgid ""
 "Since QGIS 2.0 further development will occur based on a timebased roadmap."
-msgstr ""
+msgstr "Începând cu versiunea 2.0 dezvoltarea QGIS va continua conform datelor precizate în planificare."
 
 #: ../../source/site/getinvolved/development/index.rst:20
 msgid "Odd version numbers (2.1, 2.3 etc) are development versions."
-msgstr ""
+msgstr "Numerele impare (2.1, 2.3 etc) reprezintă versiuni de dezvoltare."
 
 #: ../../source/site/getinvolved/development/index.rst:22
 msgid "Even version numbers (2.2, 2.4 etc) are release version."
-msgstr ""
+msgstr "Numerele pare (2.2, 2.4 etc) reprezintă versiuni de lansare."
 
 #: ../../source/site/getinvolved/development/index.rst:24
 msgid "Following is the planning for 2014"
-msgstr ""
+msgstr "Pentru 2014 s-a conceput următoarea planificare "
 
 #: ../../source/site/getinvolved/development/index.rst:27
 msgid "Week"
-msgstr ""
+msgstr "Săptămâna"
 
 #: ../../source/site/getinvolved/development/index.rst:27
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: ../../source/site/getinvolved/development/index.rst:27
 msgid "QGIS version"
-msgstr ""
+msgstr "Versiunea QGIS"
 
 #: ../../source/site/getinvolved/development/index.rst:29
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../source/site/getinvolved/development/index.rst:29
 msgid "24.01"
-msgstr ""
+msgstr "24.01"
 
 #: ../../source/site/getinvolved/development/index.rst:29
 msgid "QGIS Freeze  2.1"
-msgstr ""
+msgstr "QGIS Freeze  2.1"
 
 #: ../../source/site/getinvolved/development/index.rst:30
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../../source/site/getinvolved/development/index.rst:30
 msgid "21.02"
-msgstr ""
+msgstr "21.02"
 
 #: ../../source/site/getinvolved/development/index.rst:30
 msgid "QGIS Release 2.2"
-msgstr ""
+msgstr "QGIS Release 2.2"
 
 #: ../../source/site/getinvolved/development/index.rst:31
 msgid "21"
-msgstr ""
+msgstr "21"
 
 #: ../../source/site/getinvolved/development/index.rst:31
 msgid "23.05"
-msgstr ""
+msgstr "23.05"
 
 #: ../../source/site/getinvolved/development/index.rst:31
 msgid "QGIS Freeze  2.3"
-msgstr ""
+msgstr "QGIS Freeze  2.3"
 
 #: ../../source/site/getinvolved/development/index.rst:32
 msgid "25"
-msgstr ""
+msgstr "25"
 
 #: ../../source/site/getinvolved/development/index.rst:32
 msgid "20.06"
-msgstr ""
+msgstr "20.06"
 
 #: ../../source/site/getinvolved/development/index.rst:32
 msgid "QGIS Release 2.4"
-msgstr ""
+msgstr "QGIS Release 2.4"
 
 #: ../../source/site/getinvolved/development/index.rst:33
 msgid "39"
-msgstr ""
+msgstr "39"
 
 #: ../../source/site/getinvolved/development/index.rst:33
 msgid "26.09"
-msgstr ""
+msgstr "26.09"
 
 #: ../../source/site/getinvolved/development/index.rst:33
 msgid "QGIS Freeze  2.5"
-msgstr ""
+msgstr "QGIS Freeze  2.5"
 
 #: ../../source/site/getinvolved/development/index.rst:34
 msgid "43"
-msgstr ""
+msgstr "43"
 
 #: ../../source/site/getinvolved/development/index.rst:34
 msgid "24.10"
-msgstr ""
+msgstr "24.10"
 
 #: ../../source/site/getinvolved/development/index.rst:34
 msgid "QGIS Release 2.6"
-msgstr ""
+msgstr "QGIS Release 2.6"
 
 #: ../../source/site/getinvolved/development/index.rst:38
 msgid ""
 "Only in case of real problems a minor version (eg 2.0.1) update will be "
 "planned."
-msgstr ""
+msgstr "Numai în caz de probleme reale va fi planificată o versiune minoră (de exemplu 2.0.1), de actualizare."
 
 #: ../../source/site/getinvolved/development/index.rst:61
 msgid "Plugin Development"
-msgstr ""
+msgstr "Dezvoltare Plugin-uri"
 
 #: ../../source/site/getinvolved/development/index.rst:63
 msgid ""
 "QGIS has a plugin infrastructure. You can add a lot of new functionality by "
 "writing your own plugins."
-msgstr ""
+msgstr "QGIS are o infrastructură de plugin-uri. Puteți adăuga o mulțime de funcțiuni noi prin scrierea de plugin-uri proprii."
 
 #: ../../source/site/getinvolved/development/index.rst:66
 msgid "These plugins can either be written in C++ or in Python"
-msgstr ""
+msgstr "Aceste plugin-uri pot fi scrise în C++ sau în Python"
 
 #: ../../source/site/getinvolved/development/index.rst:69
 msgid "Cpp plugin development"
-msgstr ""
+msgstr "Dezvoltarea plugin-urilor Cpp"
 
 #: ../../source/site/getinvolved/development/index.rst:71
 msgid ""
 "To learn how to write your first cpp plugin, please go here: :ref:`QGIS-cpp-"
 "plugin-development`"
-msgstr ""
+msgstr "Pentru a afla cum să scrieți primul dvs. plugin cpp, vă rugăm să mergeți aici: :ref:`QGIS-cpp-plugin-development`"
 
 #: ../../source/site/getinvolved/development/index.rst:73
 msgid ""
 "Via a script you will generate a plugin stub which can be used further."
-msgstr ""
+msgstr "Printr-un script se va genera un plugin minimal, care poate fi folosit în continuare."
 
 #: ../../source/site/getinvolved/development/index.rst:78
 msgid "Python plugin development"
-msgstr ""
+msgstr "Dezvoltarea plugin-urilor Python"
 
 #: ../../source/site/getinvolved/development/index.rst:84
 msgid ""
 "Interested in python plugin development, go to :ref:`QGIS-python-plugin-"
 "development` or have a look into the :ref:`PyQGIS-Developer-Cookbook`."
-msgstr ""
+msgstr "Dacă vă interesează dezvoltarea plugin-urilor python, mergeți la :ref:`QGIS-python-plugin-development` sau aruncați o privire în :ref:`PyQGIS-Developer-Cookbook`."
 
 #: ../../source/site/getinvolved/development/index.rst:87
 msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
-msgstr ""
+msgstr "Pentru a găsi exemple de plugin-uri Python, mergeți la http://plugins.qgis.org"
 
 #~ msgid "Python Development"
 #~ msgstr ""

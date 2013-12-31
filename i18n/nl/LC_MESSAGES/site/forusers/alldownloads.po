@@ -1,14 +1,15 @@
 # 
 # Translators:
 # diethard.jansen <diethard.jansen@gmail.com>, 2013
+# raymondnijssen <r.nijssen@terglobo.nl>, 2013
 # parallax <vincent@stedema.nl>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-12-13 22:07+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2013-12-14 14:47+0000\n"
+"Last-Translator: raymondnijssen <r.nijssen@terglobo.nl>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -358,24 +359,24 @@ msgid ""
 "Below you find instructions to install per distribution. For most distro's "
 "there are instructions to install QGIS stable and instructions to install a "
 "cutting edge QGIS testing build (but mind the warning above!)."
-msgstr ""
+msgstr "Hieronder vind je installatie-instructies per distributie. Voor de meeste distro's zijn instructies beschikbaar voor de stabiele versie en de testversie (maar denk aan bovengenoemde waarschuwing!)."
 
 #: ../../source/site/forusers/alldownloads.rst:78
 msgid ""
 "In case of keyserver errors add the qgis.org repository public key to your "
 "apt keyring, type::"
-msgstr ""
+msgstr "Voeg in geval van \"keyserver errors\" de  publieke sleutel van de qgis.org repository toe aan apt. Typ::"
 
 #: ../../source/site/forusers/alldownloads.rst:153
 msgid ""
 "There are also nightly builds that depend on updated dependencies found in "
 "ubuntugis. Be sure to remove the http://qgis.org/debian ones first, "
 "otherwise you'll end up with a mix of dependencies."
-msgstr ""
+msgstr "Er zijn ook nachtelijke builds die afhankelijk zijn van meer recente pakketten die aanwezig zijn in ubuntugis. Ben er zeker van om die van http://qgis.org/debian eerst te verwijderen, anders zul je eindigen met een mix van geïnstalleerde pakketten die niet lekker samenwerken."
 
 #: ../../source/site/forusers/alldownloads.rst:196
 msgid "Jessie (8.x) and Sid (Unstable)::"
-msgstr ""
+msgstr "Jessie (8.x) en Sid (Onstabiel)::"
 
 #: ../../source/site/forusers/alldownloads.rst:250
 msgid ""
@@ -385,13 +386,13 @@ msgid ""
 "there. Therefore it is not intended to build versions that depend on more "
 "current libraries. That means if you need current qgis version with more up "
 "to date libraries you will have to build them yourself."
-msgstr ""
+msgstr "Hoewel de \"nightly builds\" kunnen worden gebruikt om nieuwe versies te testen, worden ze voornamelijk gebruikt om te testen of de nieuwe qgis-ontwikkelversie nog steeds goed kan worden gecompileerd op verschillende systemen op basis van (oudere) functiebibliotheken. Daarom is het niet bedoeld om versies te compileren die afhankelijk zijn van nieuwere functiebibliotheken. Dat betekent dat je, wanneer je een nieuwe qgis-versie wilt op basis van de nieuwste functiebibliotheken, je die zelf moet compileren."
 
 #: ../../source/site/forusers/alldownloads.rst:304
 msgid ""
 "QGIS stable can be installed from an alternative repository. Note: It "
 "requires, that ELGIS and EPEL are also installed. ::"
-msgstr ""
+msgstr "De stabiele QGIS kan worden geïnstalleerd vanuit een alternatieve repository. Let op: Dit verëist dat ELGIS en EPEL ook zijn geïnstalleerd. ::"
 
 #: ../../source/site/forusers/alldownloads.rst:319
 msgid ""
@@ -399,13 +400,13 @@ msgid ""
 "Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
 "installation manager together with the openSUSE VERSION you work with (e.g. "
 "openSUSE_12.3). ::"
-msgstr ""
+msgstr "Het recente openSUSE pakket qgis2 is beschikbaar voor 12.1, 12.2, 12.3, Factory en Tumbleweed (32 en 64 bit). Voeg de volgende repository toe aan je installatie-manager samen et de openSUSE VERSION die je gebruikt (bijv. openSUSE_12_3). ::"
 
 #: ../../source/site/forusers/alldownloads.rst:327
 #: ../../source/site/forusers/alldownloads.rst:340
 #: ../../source/site/forusers/alldownloads.rst:353
 msgid "All packages include GRASS and Python support."
-msgstr ""
+msgstr "Alle pakketten bevatten GRASS- en Python-ondersteuning"
 
 #: ../../source/site/forusers/alldownloads.rst:332
 msgid ""
@@ -425,11 +426,11 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:414
 msgid "To compile QGIS from binary packages type ::"
-msgstr ""
+msgstr "Om QGIS te compileren uit binaire pakketten dien je het volgende in te typen ::"
 
 #: ../../source/site/forusers/alldownloads.rst:422
 msgid "To compile QGIS from sources in FreeBSD you need to type ::"
-msgstr ""
+msgstr "Om QGIS te compileren vanuit de broncode in FreeBSD dien je het volgende in te typen ::"
 
 #~ msgid ""
 #~ "Below you find instructions to install per distro. For most distro's there "

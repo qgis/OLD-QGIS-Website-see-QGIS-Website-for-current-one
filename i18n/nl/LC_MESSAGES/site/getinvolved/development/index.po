@@ -1,13 +1,14 @@
 # 
 # Translators:
 # diethard.jansen <diethard.jansen@gmail.com>, 2013
+# raymondnijssen <r.nijssen@terglobo.nl>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-12-13 22:09+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2013-12-14 09:22+0000\n"
+"Last-Translator: raymondnijssen <r.nijssen@terglobo.nl>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +18,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:4
 msgid "QGIS Development"
-msgstr "QGIS Ontwikkeling"
+msgstr "QGIS-ontwikkeling"
 
 #: ../../source/site/getinvolved/development/index.rst:6
 msgid "Welcome to the QGIS Development pages"
@@ -71,7 +72,7 @@ msgstr "Veel functies van QGIS kun je aanroepen via python zodat je taken in QGI
 
 #: ../../source/site/getinvolved/development/index.rst:89
 msgid "You can find the QGIS-iface which you can use via python here:"
-msgstr "Je kunt informatie over QGIS iface, de interface waarmee je QGIS via python kunt benaderen hier:"
+msgstr "Je kunt hier informatie vinden over QGIS-iface, de interface waarmee je QGIS via python kunt benaderen:"
 
 #: ../../source/site/getinvolved/development/index.rst:91
 msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
@@ -87,36 +88,36 @@ msgstr "http://qgis.org/api/1.8/classQgisInterface.html (voor QGIS 1.8, stabiel)
 
 #: ../../source/site/getinvolved/development/index.rst:16
 msgid "Road Map"
-msgstr ""
+msgstr "Stappenplan"
 
 #: ../../source/site/getinvolved/development/index.rst:18
 msgid ""
 "Since QGIS 2.0 further development will occur based on a timebased roadmap."
-msgstr ""
+msgstr "Vanaf QGIS 2.0 zal worden doorontwikkeld op basis van een tijdgebonden stappenplan."
 
 #: ../../source/site/getinvolved/development/index.rst:20
 msgid "Odd version numbers (2.1, 2.3 etc) are development versions."
-msgstr ""
+msgstr "Oneven versienummers (2.1, 2.3 enz) zijn voor ontwikkelversies."
 
 #: ../../source/site/getinvolved/development/index.rst:22
 msgid "Even version numbers (2.2, 2.4 etc) are release version."
-msgstr ""
+msgstr "Even versienummers (2.2, 2.4 enz) zijn voor stabiele versies."
 
 #: ../../source/site/getinvolved/development/index.rst:24
 msgid "Following is the planning for 2014"
-msgstr ""
+msgstr "De planning voor 2014"
 
 #: ../../source/site/getinvolved/development/index.rst:27
 msgid "Week"
-msgstr ""
+msgstr "Week"
 
 #: ../../source/site/getinvolved/development/index.rst:27
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: ../../source/site/getinvolved/development/index.rst:27
 msgid "QGIS version"
-msgstr ""
+msgstr "QGIS-versie"
 
 #: ../../source/site/getinvolved/development/index.rst:29
 msgid "4"
@@ -124,7 +125,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:29
 msgid "24.01"
-msgstr ""
+msgstr "24-01"
 
 #: ../../source/site/getinvolved/development/index.rst:29
 msgid "QGIS Freeze  2.1"
@@ -136,7 +137,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:30
 msgid "21.02"
-msgstr ""
+msgstr "21-02"
 
 #: ../../source/site/getinvolved/development/index.rst:30
 msgid "QGIS Release 2.2"
@@ -148,7 +149,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:31
 msgid "23.05"
-msgstr ""
+msgstr "23-05"
 
 #: ../../source/site/getinvolved/development/index.rst:31
 msgid "QGIS Freeze  2.3"
@@ -160,7 +161,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:32
 msgid "20.06"
-msgstr ""
+msgstr "20-06"
 
 #: ../../source/site/getinvolved/development/index.rst:32
 msgid "QGIS Release 2.4"
@@ -172,7 +173,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:33
 msgid "26.09"
-msgstr ""
+msgstr "26-09"
 
 #: ../../source/site/getinvolved/development/index.rst:33
 msgid "QGIS Freeze  2.5"
@@ -184,7 +185,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:34
 msgid "24.10"
-msgstr ""
+msgstr "24-10"
 
 #: ../../source/site/getinvolved/development/index.rst:34
 msgid "QGIS Release 2.6"
@@ -194,50 +195,50 @@ msgstr ""
 msgid ""
 "Only in case of real problems a minor version (eg 2.0.1) update will be "
 "planned."
-msgstr ""
+msgstr "Alleen in geval van grote problemen zullen \"minor\" versies (zoals 2.0.1) worden gepland."
 
 #: ../../source/site/getinvolved/development/index.rst:61
 msgid "Plugin Development"
-msgstr ""
+msgstr "Plugin-ontwikkeling"
 
 #: ../../source/site/getinvolved/development/index.rst:63
 msgid ""
 "QGIS has a plugin infrastructure. You can add a lot of new functionality by "
 "writing your own plugins."
-msgstr ""
+msgstr "QGIS bezit een plugin-infrastructuur. Je kunt veel functionaliteit toevoegen door je eigen plugins te schrijven."
 
 #: ../../source/site/getinvolved/development/index.rst:66
 msgid "These plugins can either be written in C++ or in Python"
-msgstr ""
+msgstr "Deze plugins kunnen in cpp (c++) of Python worden geschreven"
 
 #: ../../source/site/getinvolved/development/index.rst:69
 msgid "Cpp plugin development"
-msgstr ""
+msgstr "Cpp plugin-ontwikkeling"
 
 #: ../../source/site/getinvolved/development/index.rst:71
 msgid ""
 "To learn how to write your first cpp plugin, please go here: :ref:`QGIS-cpp-"
 "plugin-development`"
-msgstr ""
+msgstr "Volg deze link om te leren hoe je een cpp-pluging maakt: :ref:`QGIS-cpp-plugin-deveopment`"
 
 #: ../../source/site/getinvolved/development/index.rst:73
 msgid ""
 "Via a script you will generate a plugin stub which can be used further."
-msgstr ""
+msgstr "Met een script genereer je de plugin-basis van waaruit je verder ontwikkelt."
 
 #: ../../source/site/getinvolved/development/index.rst:78
 msgid "Python plugin development"
-msgstr ""
+msgstr "Python plugin-ontwikkeling"
 
 #: ../../source/site/getinvolved/development/index.rst:84
 msgid ""
 "Interested in python plugin development, go to :ref:`QGIS-python-plugin-"
 "development` or have a look into the :ref:`PyQGIS-Developer-Cookbook`."
-msgstr ""
+msgstr "Wil je python-plugins ontwikkelen, ga dan naar :ref:`QGIS-python-plugin-development` of kijk in het :ref:`PyQGIS-Developer-Cookbook`."
 
 #: ../../source/site/getinvolved/development/index.rst:87
 msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
-msgstr ""
+msgstr "Zoek je voorbeelden van python-plugins, kijk dan op http://plugins.qgis.org"
 
 #~ msgid "Python Development"
 #~ msgstr ""
