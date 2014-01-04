@@ -66,6 +66,15 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
+|bronze| |molitec|
+
+`www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2015)
+
+.. |argus| image:: /static/site/about/images/molitec.png
+   :width: 150 px
+
+----
+
 .. image:: /static/site/about/images/gfoss.png
    :width: 150 px
    :align: left
@@ -260,6 +269,7 @@ bank account rather than PayPal.
 * FOSSGIS e.V.
 * Fred Watchorn
 * Fred Ethève
+* G R Owen
 * Gabriele Baccini
 * Gabriele Monfardini
 * Gabriela Casares
@@ -391,6 +401,7 @@ bank account rather than PayPal.
 * Ralph Williams
 * Ramon Andinach
 * Raymond Warriner
+* Ravi
 * Reiko Hayashi
 * Riccardo Giaccari
 * Richard Duivenvoorde
@@ -424,6 +435,7 @@ bank account rather than PayPal.
 * Thomas Blake
 * Thomas Dunz
 * Thomas Engleder
+* Thomas Gunzelmann
 * Tony MacLeod
 * Tyler Mitchell
 * Ujaval Gandhi
