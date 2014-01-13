@@ -192,7 +192,6 @@ difference and help to reach important project goals!
 If you wish to send us a larger donation, you are strongly encouraged to use the
 bank account rather than PayPal.
 
-
 * Aaron Racicot
 * Adam Lane
 * Adelchi Acampora
@@ -242,6 +241,7 @@ bank account rather than PayPal.
 * Compagnie du vent
 * D R Arbib
 * Dan Karran
+* Daniel Silva Veras
 * Daniel Wiesmann
 * Dariusz Bobak
 * David Addy
@@ -316,6 +316,7 @@ bank account rather than PayPal.
 * Jesus Aguilera Rubio
 * Jim Litts
 * Jim Mann
+* Jiří Bělohlávek
 * Joachim Aurbacher
 * Johannes Lauber
 * John C. Tull
@@ -387,6 +388,7 @@ bank account rather than PayPal.
 * Paolo Livio Craveri
 * Paul Hignett
 * Patti Giuseppe
+* Per Sjöstrand
 * Peter Brodersen
 * Peter Löwe
 * Peter Paudits
@@ -417,6 +419,7 @@ bank account rather than PayPal.
 * Sergey Khokhlov
 * Shapesmart
 * Silvio Grosso
+* Simone Circosta
 * Spencer Gardner
 * Stefan Ziegler
 * Stefan Price
