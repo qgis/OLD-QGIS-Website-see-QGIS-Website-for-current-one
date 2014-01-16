@@ -36,7 +36,13 @@ msgid ""
 "and that no new bugs have been introduced. At any given time it may not "
 "work, or may do bad things to your data. Use at your own risk. You have been"
 " warned!"
-msgstr "Adicionalmente a la versión estable de QGIS existen versiones de prueba disponibles para algunas plataformas. Estas versiones de prueba contienen software que aún no ha sido lanzado oficialmente y que actualmente se encuentra en desarrollo. Están disponibles para chequear si han sido resueltos algunos bugs o si no se han introducidos nuevos. Úsalas bajo tu propia responsabilidad. Quedaste advertido."
+msgstr "Adicionalmente a la versión estable de QGIS existen versiones de prueba "
+"disponibles para algunas plataformas. Estas versiones de prueba contienen software "
+"que aún no ha sido lanzado oficialmente y que actualmente se encuentra en desarrollo. "
+"Como tal, no tienen soporte técnico y están disponibles solo para chequear si han "
+"sido resueltos algunos bugs o que no se han introducidos nuevos. En cualquier "
+"momento pueden fallar y pueden dañar tus datos. Úsalas bajo tu propia responsabilidad. "
+"Quedaste advertido."
 
 #: ../../source/site/forusers/alldownloads.rst:23
 msgid "Windows"
@@ -57,7 +63,9 @@ msgid ""
 "For more advanced QGIS users you can use the OSGeo4W package, which makes it"
 " possible to install both the latest stable version and/or the development "
 "(nightly) version (but not the warning above!)."
-msgstr ""
+msgstr "Para usuarios de QGIS más avanzados se puede usar el paquete OSGeo4W, "
+"que permite instalar tanto la versión estable más reciente como la versión "
+de desarrollo (nocturna) (¡pero no la advertencia de arriba!)."
 
 #: ../../source/site/forusers/alldownloads.rst:34
 msgid ""
@@ -78,7 +86,10 @@ msgid ""
 "need qgis and qgis-python (to run plugins). Packages like qgis-grass (or "
 "qgis-plugin-grass), qgis-mapserver can be skipped initially, or installed "
 "only when you need them."
-msgstr "La mayoría de las distribuciones dividen QGIS en varios paquetes. Probablemente necesitarás qgis y qgis python (para habilitar los complementos). Paquetes como qgis-grass (o qgis-plugin-grass), qgis-mapserver pueden ser omitidos inicialmente o ser instalados solamente cuando sea necesario."
+msgstr "La mayoría de las distribuciones dividen QGIS en varios paquetes. "
+"Probablemente necesitarás qgis y qgis-python (para habilitar los complementos). "
+"Paquetes como qgis-grass (o qgis-plugin-grass), qgis-mapserver pueden ser omitidos "
+"inicialmente o ser instalados solamente cuando sea necesario."
 
 #: ../../source/site/forusers/alldownloads.rst:61
 msgid "Ubuntu"
@@ -87,18 +98,21 @@ msgstr "Ubuntu"
 #: ../../source/site/forusers/alldownloads.rst:63
 msgid ""
 "Default Ubuntu software repositories often hold older versions of QGIS."
-msgstr ""
+msgstr "Los repositorios predeterminados de Ubunto a menudo ofrecen versiones antiguas de QGIS."
 
 #: ../../source/site/forusers/alldownloads.rst:65
 msgid ""
 "To have newer versions, you have to add alternative software repositories, "
 "by adding one of the deb-lines below to your /etc/apt/sources.list file. Or "
 "add these repositories via your favourite Ubuntu software installation GUI."
-msgstr ""
+msgstr "Para tener versiones más recientes hay que añadir repositorios de "
+"software alternativos, añadiendo una de las líneas deb de abajo al arhcivo "
+"/etc/apt/sources.list. O añadir estos repositorios mediente la interfaz de "
+instalación de software de Ubunto que se prefiera."
 
 #: ../../source/site/forusers/alldownloads.rst:69
 msgid "Then type::"
-msgstr ""
+msgstr "Luego teclea::"
 
 #: ../../source/site/forusers/alldownloads.rst:74
 msgid ""
@@ -120,16 +134,16 @@ msgstr "Versión estable de QGIS"
 #: ../../source/site/forusers/alldownloads.rst:88
 #: ../../source/site/forusers/alldownloads.rst:135
 msgid "On plain Ubuntu:"
-msgstr ""
+msgstr "En Ubunto sencillo"
 
 #: ../../source/site/forusers/alldownloads.rst:89
 msgid "Saucy::"
-msgstr ""
+msgstr "Saucy"
 
 #: ../../source/site/forusers/alldownloads.rst:94
 #: ../../source/site/forusers/alldownloads.rst:158
 msgid "Raring::"
-msgstr ""
+msgstr "Raring"
 
 #: ../../source/site/forusers/alldownloads.rst:99
 #: ../../source/site/forusers/alldownloads.rst:140
@@ -157,19 +171,20 @@ msgstr "Vía ubuntugis:"
 msgid ""
 "The ubuntugis project provides newer versions of various FOSSGIS packages, "
 "QGIS being one of them."
-msgstr "El proyecto ubuntugis provee nuevas versiones de varios paquetes FOSSGIS, QGIS es uno de ellos."
+msgstr "El proyecto ubuntugis provee versiones más recientes de varios paquetes FOSSGIS, QGIS es uno de ellos."
 
 #: ../../source/site/forusers/alldownloads.rst:120
 msgid ""
 "Current packages available for lucid, maverick, natty, oneiric, precise and "
 "raring."
-msgstr "Los paquetes actuales están disponibles para lucid, maverick, natty, oneiric, precise y raring."
+msgstr "Paquetes actuales disponibles para lucid, maverick, natty, oneiric, precise y raring."
 
 #: ../../source/site/forusers/alldownloads.rst:123
 msgid ""
 "If you want to use those packages, remove the http://qgis.org/debian lines "
 "from your sources.list and upgrade updated dependencies by typing::"
-msgstr ""
+msgstr "Si quieres usar esos paquetes, elimina las líneas http://qgis.org/debian "
+"del archivo sources.list y actualiza las dependencias tecleando::"
 
 #: ../../source/site/forusers/alldownloads.rst:132
 #: ../../source/site/forusers/alldownloads.rst:230
@@ -185,7 +200,8 @@ msgstr "Versiones de prueba de QGIS"
 msgid ""
 "Nightly builds of QGIS testing are available from following repository (i386"
 " and amd64):"
-msgstr ""
+msgstr "Las compilaciones nocturnas de QGIS de prueba están disponibles en "
+"el siguiente repositorio (i386 y amd64):"
 
 #: ../../source/site/forusers/alldownloads.rst:183
 msgid "Debian"
@@ -195,7 +211,7 @@ msgstr "Debian"
 msgid ""
 "Packages for Debian *Wheezy, Jessie and Unstable* for i386 and amd64 are "
 "available at:"
-msgstr "Paquetes para Debian *Wheezy, Jessie y Sid(Unstable)* para i386 y amd64 están disponibles en:"
+msgstr "Hay disponibles paquetes para Debian *Wheezy, Jessie y Sid(Unstable)* para i386 y amd64 en:"
 
 #: ../../source/site/forusers/alldownloads.rst:191
 #: ../../source/site/forusers/alldownloads.rst:235
@@ -214,20 +230,22 @@ msgstr "Sid (Unstable)::"
 msgid ""
 "To add the the http://qgis.org repository public key to your apt keyring, "
 "type::"
-msgstr "Para agregar la llave pública del repositorio http://qgis.org a tu lista apt keyring digita::"
+msgstr "Para agregar la llave pública del repositorio http://qgis.org a tu lista apt keyring teclea::"
 
 #: ../../source/site/forusers/alldownloads.rst:218
 msgid ""
 "Then add the lines for one of the repositories to your "
 "``/etc/apt/sources.list`` file (see below to choose the appropriate one) and"
 " type::"
-msgstr "Después, agrega las líneas de uno de los repositorios a tu archivo ``/etc/apt/sources.list` (Ve abajo para escoger el apropiado) y digita::"
+msgstr "Después, agrega las líneas de uno de los repositorios a tu archivo "
+"``/etc/apt/sources.list` (Ve arriba para escoger el apropiado) y teclea::"
 
 #: ../../source/site/forusers/alldownloads.rst:225
 msgid ""
 "Please remove all the QGIS and GRASS packages you may have installed from "
 "other repositories before doing the update."
-msgstr "Por favor remueve todos los paquetes de QGIS y grass que hayas instalado desde otros repositorios antes de realizar la actualización."
+msgstr "Por favor elimina todos los paquetes de QGIS y grass que hayas instalado "
+"desde otros repositorios antes de realizar la actualización."
 
 #: ../../source/site/forusers/alldownloads.rst:261
 msgid "Fedora"
