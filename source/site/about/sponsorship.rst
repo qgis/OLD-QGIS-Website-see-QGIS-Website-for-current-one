@@ -296,6 +296,7 @@ bank account rather than PayPal.
 * Henry Colomb
 * Hiroshi Kawakami
 * Hiroto Okayama
+* Howard Frederick
 * Hugo Rubio
 * Ian Allan
 * Ian Wusstig
