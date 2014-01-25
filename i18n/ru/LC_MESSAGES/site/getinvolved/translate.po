@@ -1,12 +1,13 @@
 # 
 # Translators:
+# alexbruy <alexander.bruy@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-12-13 22:11+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-01-03 14:59+0000\n"
+"Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -190,7 +191,7 @@ msgid ""
 " the current percentage of translation you will either have to install the "
 "nightly build of QGIS or checkout the source code of QGIS and start "
 "translating there."
-msgstr ""
+msgstr "В этом окне также отображается прогресс в переводе (но помните, что информация в «стабильных» выпусках всегда остаётся на одном и том же уровне). Узнать реальное положение можно установив ночную сборку QGIS или получив исходный код QGIS и начав перевод."
 
 #: ../../source/site/getinvolved/translate.rst:32
 msgid ""
@@ -199,12 +200,12 @@ msgid ""
 "questions, please contact the Translation Team Leader (see :ref:`Organigram "
 "<gui-translation>`) or subscribe with the `qgis-gui-translation-team "
 "<http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_ mailing list."
-msgstr ""
+msgstr "Если вы планируете работать над существующим переводом или хотите перевести интерфейс QGIS на новый язык, а также по всем связанным с этим вопросам, обращайтесь к координатору команды переводчиков (см. :ref:`Структура проекта <gui-translation>`) или подпишитесь на список рассылки `qgis-gui-translation-team <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
 
 #: ../../source/site/getinvolved/translate.rst:45
 msgid ""
 "The other available mailingslist can be found at :ref:`QGIS-mailinglists`."
-msgstr ""
+msgstr "Список всех доступных рассылок находится в :ref:`QGIS-mailinglists`."
 
 #: ../../source/site/getinvolved/translate.rst:89
 msgid ""
@@ -215,21 +216,21 @@ msgid ""
 " called qgis_de.ts. To further specify the language it is sometimes "
 "necessary to have two language codes defined but we'd like to avoid this as "
 "much as we can."
-msgstr ""
+msgstr "Обычно достаточно загрузить файл .ts из `репозитория github <https://github.com/qgis/QGIS/tree/master/i18n/>`_ Ищите файл с кодом вашего языка в конце: qgis_*.ts, где * это код вашего языка. Например, файл перевода на немецкий язык называется qgis_de.ts. Для более точного определения языка может потребоваться указание двух языковых кодов, но мы стараемся по возможности избегать этого."
 
 #: ../../source/site/getinvolved/translate.rst:134
 msgid ""
 "Description of how you can contribute in the translation of the "
 "Documentation are available in the README.md file which gets displayed on "
 "https://github.com/qgis/QGIS-Documentation"
-msgstr ""
+msgstr "Узнать о том, как присоединиться к переводу документации можно из файла README.md, который находится в репозитории https://github.com/qgis/QGIS-Documentation"
 
 #: ../../source/site/getinvolved/translate.rst:142
 msgid ""
 "Description of how you can contribute in the translation of the Webpage are "
 "available in the README.md file which gets displayed on "
 "https://github.com/qgis/QGIS-Website"
-msgstr ""
+msgstr "Узнать о том, как присоединиться к переводу веб-сайта можно из файла README.md, который находится в репозитории https://github.com/qgis/QGIS-Website"
 
 #~ msgid ""
 #~ "You will also find the progress of the translation there (but remember in "

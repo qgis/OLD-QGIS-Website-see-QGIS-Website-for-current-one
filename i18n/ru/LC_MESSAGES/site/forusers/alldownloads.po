@@ -1,12 +1,13 @@
 # 
 # Translators:
+# alexbruy <alexander.bruy@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-12-13 22:07+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-01-03 14:53+0000\n"
+"Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -356,24 +357,24 @@ msgid ""
 "Below you find instructions to install per distribution. For most distro's "
 "there are instructions to install QGIS stable and instructions to install a "
 "cutting edge QGIS testing build (but mind the warning above!)."
-msgstr ""
+msgstr "Ниже вы найдете инструкции по установке для различных дистрибутивов. В большинстве случаев доступны инструкции как по установке стабильной версии, так и последней тестовой версии (помните о предупреждении выше!)."
 
 #: ../../source/site/forusers/alldownloads.rst:78
 msgid ""
 "In case of keyserver errors add the qgis.org repository public key to your "
 "apt keyring, type::"
-msgstr ""
+msgstr "В случае ошибок сервера ключей добавьте публичного ключ репозитория qgis.org в связку ключей apt, выполнив::"
 
 #: ../../source/site/forusers/alldownloads.rst:153
 msgid ""
 "There are also nightly builds that depend on updated dependencies found in "
 "ubuntugis. Be sure to remove the http://qgis.org/debian ones first, "
 "otherwise you'll end up with a mix of dependencies."
-msgstr ""
+msgstr "Кроме того, доступна версия для разработчиков, использующая обновленные зависимости из ubuntugis. Прежде чем устанавливать её, убедитесь, что строки с http://qgis.org/debian удалены, иначе рискуете получить смесь зависимостей."
 
 #: ../../source/site/forusers/alldownloads.rst:196
 msgid "Jessie (8.x) and Sid (Unstable)::"
-msgstr ""
+msgstr "Jessie (8.x) и Sid (Unstable)::"
 
 #: ../../source/site/forusers/alldownloads.rst:250
 msgid ""
@@ -383,13 +384,13 @@ msgid ""
 "there. Therefore it is not intended to build versions that depend on more "
 "current libraries. That means if you need current qgis version with more up "
 "to date libraries you will have to build them yourself."
-msgstr ""
+msgstr "Хотя ночные сборки могут использоваться для тестирования новых версий, их основное назначение --- проверить, что новые версии QGIS собираются без ошибок в различных дистрибутивах и с использованием разных (старых) версий библиотек. Поэтому они не предназначены для сборки с самыми последними версиями библиотек. Это значит, что если вам требуется QGIS и последние версии библиотек, вы должны собрать всё самостоятельно."
 
 #: ../../source/site/forusers/alldownloads.rst:304
 msgid ""
 "QGIS stable can be installed from an alternative repository. Note: It "
 "requires, that ELGIS and EPEL are also installed. ::"
-msgstr ""
+msgstr "Стабильный выпуск QGIS можно установить из альтернативного репозитория. Примечание: для этого необходимо также установить ELGIS и EPEL. ::"
 
 #: ../../source/site/forusers/alldownloads.rst:319
 msgid ""
@@ -397,13 +398,13 @@ msgid ""
 "Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
 "installation manager together with the openSUSE VERSION you work with (e.g. "
 "openSUSE_12.3). ::"
-msgstr ""
+msgstr "Пакеты с последней версией, называющиеся qgis2, доступны для openSUSE 12.1, 12.2, 12.3, Factory и Tumbleweed (32 и 64-битные). Добавьте следующий репозиторий в ваш пакетный менеджер, указав openSUSE VERSION (например, openSUSE_12.3). ::"
 
 #: ../../source/site/forusers/alldownloads.rst:327
 #: ../../source/site/forusers/alldownloads.rst:340
 #: ../../source/site/forusers/alldownloads.rst:353
 msgid "All packages include GRASS and Python support."
-msgstr ""
+msgstr "Все пакеты имеют поддержку GRASS и Python."
 
 #: ../../source/site/forusers/alldownloads.rst:332
 msgid ""
@@ -411,7 +412,7 @@ msgid ""
 "is available for 12.1, 12.2, 12.3, Factory and Tumbleweed (32 and 64bit). "
 "Add the following repository to your installation manager together with the "
 "openSUSE VERSION you work with (e.g. openSUSE_12.3). ::"
-msgstr ""
+msgstr "Регулярно обновляемые пакеты из master, называющиеся qgis-master, доступны для openSUSE 12.1, 12.2, 12.3, Factory и Tumbleweed (32 и 64-битные). Добавьте следующий репозиторий в ваш пакетный менеджер, указав openSUSE VERSION (например, openSUSE_12.3). ::"
 
 #: ../../source/site/forusers/alldownloads.rst:345
 msgid ""
@@ -419,15 +420,15 @@ msgid ""
 "12.2, 12.3, Factory and Tumbleweed (32 and 64bit). Add the following "
 "repository to your installation manager together with the openSUSE VERSION "
 "you work with (e.g. openSUSE_12.3). ::"
-msgstr ""
+msgstr "Пакет с QGIS 1.8 для OpenSUSE называется qgis. Он доступен для версий 12.1, 12.2, 12.3, Factory и Tumbleweed (32 и 64-разрядные). Добавьте следующий репозиторий в свой пакетный менеждер, указав openSUSE VERSION (например, openSUSE_12.3). ::"
 
 #: ../../source/site/forusers/alldownloads.rst:414
 msgid "To compile QGIS from binary packages type ::"
-msgstr ""
+msgstr "Чтобы собрать QGIS из бинарного пакета выполните ::"
 
 #: ../../source/site/forusers/alldownloads.rst:422
 msgid "To compile QGIS from sources in FreeBSD you need to type ::"
-msgstr ""
+msgstr "Чтобы собрать QGIS из исходных кодов во FreeBSD выполните ::"
 
 #~ msgid ""
 #~ "Below you find instructions to install per distro. For most distro's there "

@@ -1,14 +1,14 @@
 # 
 # Translators:
-# diethard.jansen <diethard.jansen@gmail.com>, 2013
+# diethard.jansen <diethard.jansen@gmail.com>, 2013-2014
 # parallax <vincent@stedema.nl>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-12-13 22:11+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-01-03 21:06+0000\n"
+"Last-Translator: diethard.jansen <diethard.jansen@gmail.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -192,7 +192,7 @@ msgid ""
 " the current percentage of translation you will either have to install the "
 "nightly build of QGIS or checkout the source code of QGIS and start "
 "translating there."
-msgstr ""
+msgstr "Je zult daar ook de voortgang van de vertalingen vinden (maar onthoud dat in de \"stabiele\" versie deze hetzelfde blijft). Om de huidige voortgang van de vertaling te zien zul je de ontwikkelversie \"the nightly build\" van QGIS installeren of de bron code van QGIS uitchecken en beginnen met vertalen."
 
 #: ../../source/site/getinvolved/translate.rst:32
 msgid ""
@@ -201,12 +201,12 @@ msgid ""
 "questions, please contact the Translation Team Leader (see :ref:`Organigram "
 "<gui-translation>`) or subscribe with the `qgis-gui-translation-team "
 "<http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_ mailing list."
-msgstr ""
+msgstr "Wanneer je van plan bent om een bijdrage te leveren aan een bestaande taal in QGIS, of wanneer je naar een nog niet bestaande taal in QGIS en voor elke andere gerelateerde vragen, neem contact op met de Translation Team Leader (zie  :ref:`Organigram <gui-translation>`)  of schrijf je in voor de `qgis-gui-translation-team <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_ mailing lijst."
 
 #: ../../source/site/getinvolved/translate.rst:45
 msgid ""
 "The other available mailingslist can be found at :ref:`QGIS-mailinglists`."
-msgstr ""
+msgstr "De overige mailinglijsten kunnen hier worden gevonden :ref:`QGIS-mailinglists`."
 
 #: ../../source/site/getinvolved/translate.rst:89
 msgid ""
@@ -217,21 +217,21 @@ msgid ""
 " called qgis_de.ts. To further specify the language it is sometimes "
 "necessary to have two language codes defined but we'd like to avoid this as "
 "much as we can."
-msgstr ""
+msgstr "Normaal gesproken is het voldoende om het .ts bestand van de github repository <https://github.com/qgis/Quantum-GIS/tree/master/i18n/>`_  Voor het Nederlandse vertaalbestand zoek je naar de taalcode 'nl' die is is opgenomen in de naam van het bestand: qgis_*.ts waar * jouw taalcode is. Soms is het noodzakelijk twee taalcodes mee te geven maar indien mogelijk, liever niet!"
 
 #: ../../source/site/getinvolved/translate.rst:134
 msgid ""
 "Description of how you can contribute in the translation of the "
 "Documentation are available in the README.md file which gets displayed on "
 "https://github.com/qgis/QGIS-Documentation"
-msgstr ""
+msgstr "Een beschrijving hoe je kunt bijdragen aan de vertaling van de Documentatie is beschikbaar in het README.md bestand die getoond wordt op https://github.com/qgis/QGIS-Documentation"
 
 #: ../../source/site/getinvolved/translate.rst:142
 msgid ""
 "Description of how you can contribute in the translation of the Webpage are "
 "available in the README.md file which gets displayed on "
 "https://github.com/qgis/QGIS-Website"
-msgstr ""
+msgstr "Een beschrijving hoe je kunt bijdragen aan de vertaling van de website is beschikbaar in het README.md bestand die getoond wordt op https://github.com/qgis/QGIS-Website"
 
 #~ msgid ""
 #~ "You will also find the progress of the translation there (but remember in "

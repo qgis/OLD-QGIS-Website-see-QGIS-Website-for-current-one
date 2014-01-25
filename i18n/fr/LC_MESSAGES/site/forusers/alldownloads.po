@@ -5,6 +5,7 @@
 # jmarsac <jmarsac@azimut.fr>, 2013
 # julien2291 <julien.francois1@hotmail.fr>, 2013
 # PA <lenyconseil@gmail.com>, 2013
+# MarieSilvestre <marie.silvestre@gmail.com>, 2014
 # Cartoboy <cartographie@hotmail.fr>, 2013
 # RobinP <robin@georezo.net>, 2013
 # simogeo <simon.georget@gmail.com>, 2013
@@ -14,8 +15,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-12-21 13:21+0000\n"
-"Last-Translator: Guy Bara <bara.guy@gmail.com>\n"
+"PO-Revision-Date: 2014-01-09 13:01+0000\n"
+"Last-Translator: MarieSilvestre <marie.silvestre@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -371,18 +372,18 @@ msgstr "Ci-après, vous trouverez des instructions d'installation par distributi
 msgid ""
 "In case of keyserver errors add the qgis.org repository public key to your "
 "apt keyring, type::"
-msgstr ""
+msgstr "En cas d'erreurs de serveur de clés, ajoutez la clé publique du dépôt qgis.org à votre trousseau apt en tapant::"
 
 #: ../../source/site/forusers/alldownloads.rst:153
 msgid ""
 "There are also nightly builds that depend on updated dependencies found in "
 "ubuntugis. Be sure to remove the http://qgis.org/debian ones first, "
 "otherwise you'll end up with a mix of dependencies."
-msgstr ""
+msgstr "Il y a aussi des nightly builds liés à des dépendances de mise à jour figurant dans ubuntugis. Soyez certains d'avoir bien d'abord supprimé celles liées à http://qgis.org/debian, ou vous finirez par avoir un mélange de ces dépendances."
 
 #: ../../source/site/forusers/alldownloads.rst:196
 msgid "Jessie (8.x) and Sid (Unstable)::"
-msgstr ""
+msgstr "Jessie (8.x) et Sid (Unstable)::"
 
 #: ../../source/site/forusers/alldownloads.rst:250
 msgid ""
@@ -392,7 +393,7 @@ msgid ""
 "there. Therefore it is not intended to build versions that depend on more "
 "current libraries. That means if you need current qgis version with more up "
 "to date libraries you will have to build them yourself."
-msgstr ""
+msgstr "Bien que les nightly builds peuvent être utilisé pour tester de nouvelles versions, ils sont principalement destinés au test, si les versions les plus récentes de qgis sont bien compilées sur les différentes distributions utilisant les différentes versions (anciennes) de bibliothèques qui s'y trouvent. Par conséquent, les nighty builds ne sont pas destinées à compiler des versions qui dépendent de bibliothèques plus courants. Cela signifie que si vous avez besoin de la version actuelle de QGIS avec plus de bibliothèques mises jour, vous aurez à les compiler vous-même."
 
 #: ../../source/site/forusers/alldownloads.rst:304
 msgid ""
@@ -406,7 +407,7 @@ msgid ""
 "Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
 "installation manager together with the openSUSE VERSION you work with (e.g. "
 "openSUSE_12.3). ::"
-msgstr ""
+msgstr "Le dernier package openSUSE nommé qgis2 est disponible pour les versions 12.1, 12.2, 12.3, Factory et Tumbleweed (32 et 64bit). Ajoutez le dépôt suivant à votre manager de paquets ainsi que la version openSUSE avec laquelle vous travaillez (par exemple openSUSE_12.3)."
 
 #: ../../source/site/forusers/alldownloads.rst:327
 #: ../../source/site/forusers/alldownloads.rst:340
@@ -428,7 +429,7 @@ msgid ""
 "12.2, 12.3, Factory and Tumbleweed (32 and 64bit). Add the following "
 "repository to your installation manager together with the openSUSE VERSION "
 "you work with (e.g. openSUSE_12.3). ::"
-msgstr ""
+msgstr "Le package OpenSUSE pour QGIS 1.8 est appelé qgis. Il est disponible pour les versions 12.1, 12.2, 12.3, Factory et Tumbleweed (32 et 64bit). Ajoutez le dépôt suivant à votre gestionnaire de paquets ainsi que la version openSUSE avec laquelle vous travaillez (par exemple openSUSE_12.3). ::"
 
 #: ../../source/site/forusers/alldownloads.rst:414
 msgid "To compile QGIS from binary packages type ::"

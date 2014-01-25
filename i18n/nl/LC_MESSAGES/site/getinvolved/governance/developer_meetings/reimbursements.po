@@ -1,13 +1,14 @@
 # 
 # Translators:
+# diethard.jansen <diethard.jansen@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-17 14:01+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Dutch <qgis-tr@lists.osgeo.org>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2014-01-14 20:01+0000\n"
+"Last-Translator: diethard.jansen <diethard.jansen@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:3
 msgid "Reimbursements for Developer Meetings"
-msgstr ""
+msgstr "Onkostenvergoedingen voor Ontwikkelingsbijeenkomsten"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:5
 msgid ""
@@ -29,7 +30,7 @@ msgid ""
 "the meeting. Individual developers also co-fund the event by donating their "
 "time and in many cases financially supporting their visit to the meeting "
 "directly."
-msgstr ""
+msgstr "Het QGIS project houdt twee keer per jaar een bijeenkomst voor ontwikkelaars, meestal ergens in Europa. Het doel van deze bijeenkomsten is de ontwikkelaars gelegenheid te geven om elkaar persoonlijk te ontmoeten. Het is een forum waar nieuwe ideëen worden gepresenteerd, planningen worden besproken, problemen worden opgelost enzovoort. De fondsen gegenereerd via :doc:`../sponsorship/index` worden gebruikt om deze bijeenkomst te faciliteren, maar deels ook betaald door de organiserende partij die de ruimte en infrastructuur regelt voor de bijeenkomst. Ontwikkelaars dragen ook bij door hun tijd en in veel gevallen ook hun bezoek aan de bijeenkomst zelf te financieren."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:14
 msgid ""
@@ -38,18 +39,18 @@ msgid ""
 "increased funding through donations and our sponsorship programme, and a "
 "desire to promote new developers to get involved in the project, this policy"
 " has been updated as described below."
-msgstr ""
+msgstr "In het verleden was het beleid om alleen te voorzien in de kosten die ontwikkelaars van de basiscode van QGIS en de projectleden van het project maakten. Echter met de toename aan inkomsten door donatie en ons sponsorprogramma en het verlangen om nieuwe ontwikkelaars te werven voor het project, is dit beleid gewijzigd zoals hieronder beschreven."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:20
 msgid ""
 "The term 'developer' in this document refers to any person who contributes "
 "time and effort to the advancement of the project (e.g. through "
 "documentation, infrastructure maintenance, coding, administration etc.)"
-msgstr ""
+msgstr "Met de term 'ontwikkelaar' in dit document wordt eenieder bedoelt die tijd en moeite steekt in het verder helpen van het project (o.a. door documentatie, onderhoud infrastructuur, coderen, administratief werkt etc.)"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:25
 msgid "Policy for disbursement of funds to individual developers"
-msgstr ""
+msgstr "Beleid voor toekennen van onkostenvergoeding aan individuele ontwikkelaars"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:27
 msgid ""
@@ -60,14 +61,14 @@ msgid ""
 "indicate dissent, indifference and assent respectively. In the event of a "
 "tie-break, the PSC Chairman shall make the final decision. The devision made"
 " by the PSC shall be final."
-msgstr ""
+msgstr "De PSC (project steering committee) oftewel, de project stuurgroep zal elke vraag, klacht of aanvraag beoordelen omtrent verzoeken voor financiële ondersteuning door individuele ontwikkelaars. In het geval dat de stuurgroep gevraagd wordt om een beslissing te nemen, zal er een oplossing worden voorgesteld waarover gestemd zal worden gebruik makende van het -1 / 0 / +1 systeem om aan te geven tegen / geen mening / voor. In het geval er even veel voor als tegenstemmers zijn, zal de voorzitter van de stuurgroep de uiteindelijke beslissing nemen. De genomen beslissing is definitief."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:34
 msgid ""
 "Individual applications from non-core developers (i.e. those who do not have"
 " direct commit access to the QGIS repositories) of EUR200 or less may be "
 "decided on by the nominated PSC member without requiring a full PSC vote."
-msgstr ""
+msgstr "Bij individuele aanvragen van niet-core ontwikkelaars (diegene die niet direct wijzigingen kunnen committen in de QGIS code repositories) voor bedragen van 200 Euro of minder mag een lid van de project stuurgroep een beslissing nemen, zonder deze eerst in stemming te brengen bij de projectstuurgroep."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:37
 msgid ""
@@ -75,54 +76,54 @@ msgid ""
 "precident directly by the PSC Financial Representative (Paolo Cavallini). In"
 " the event of any uncertainty on his part, he may bring the matter to the "
 "PSC for a vote."
-msgstr ""
+msgstr "Individuele aanvragen van core-ontwikkelaars kunnen op basis van eerdere ervaringen direct door de financieel vertegenwoordiger van de stuurgroep (Paolo Cavallini) worden beoordeeld. Wanneer hij ergens onzeker over is kan hij de aanvraag in stemming brengen bij de stuurgroep."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:41
 msgid "All funding requests should be made **before** the meeting event."
-msgstr ""
+msgstr "Alle verzoeken voor financiële ondersteuning moeten **voor** de bijeenkomst gedaan worden."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:42
 msgid ""
 "Funding may be limited due to budgetary constraints, in which case funding "
 "will be provided on a first-come first-served basis."
-msgstr ""
+msgstr "Fondsen kunnen gelimiteerd zijn, waarbij in dat geval het principe wie het eerst aanvraagt het eerst krijgt wordt gehanteerd."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:44
 msgid ""
 "The PSC / PSC Finance Chair may offer to provide partial funding where "
 "funding resources are limited."
-msgstr ""
+msgstr "De project stuurgroep / financiële vertegenwoordiger kan gedeeltelijke financiering geven wanneer aanwezige fondsen beperkt zijn."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:46
 msgid ""
 "The PSC Financial Chair shall maintain complete financial records of what "
 "disbursements were made and to whom and these should be available on request"
 " to the PSC."
-msgstr ""
+msgstr "De Financieel vertegenwoordiger zal een boekhouding bijhouden van welke vergoedingen zijn verstrekt en aan wie en deze informatie moet op verzoek van de project stuurgroep beschikbaar zijn."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:52
 msgid "Procedure for funding applications - core developers"
-msgstr ""
+msgstr "Procedure voor aanvraag van vergoedingen - core ontwikkelaars"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:54
 msgid ""
 "A request for funding email should be submitted to the PSC Financial Chair "
 "before the event."
-msgstr ""
+msgstr "Een verzoek voor financiële ondersteuning moet, voor de bijeenkomst, per email zijn verzonden aan de Financieel vertegenwoordiger van de project stuurgroep."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:56
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:73
 msgid ""
 "The request should include the number of days that the developer will "
 "attend."
-msgstr ""
+msgstr "Het voorstel moet het aantal dagen bevatten dat de ontwikkelaar aanwezig zal zijn."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:57
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:74
 msgid ""
 "The request should include an expense breakdown covering travel and "
 "accommodation."
-msgstr ""
+msgstr "Het verzoek moet een gedetailleerde uitsplitsing van de kosten bevatten die de reis en verblijfskosten betreffen. "
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:59
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:76
@@ -130,26 +131,26 @@ msgid ""
 "The requestor should provide copies of reciepts for all expenditures as soon"
 " as possible after the event. No refunds should be made without accompanying"
 " receipts."
-msgstr ""
+msgstr "De aanvrager moet een kopie maken van ontvangen afschriften voor gemaakte uitgaven en deze zo spoedig mogelijk na de bijeenkomst insturen. Er worden geen kosten vergoed zonder begeleidende afschriften. "
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:65
 msgid "Procedure for funding applications - new developers"
-msgstr ""
+msgstr "Procedure voor aanvraag van vergoedingen van nieuwe ontwikkelaars"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:67
 msgid ""
 "A request for funding email should be submitted to the PSC Member designated"
 " to review funding requests **before** the meeting."
-msgstr ""
+msgstr "Een verzoek voor financiële ondersteuning moet, **voor** de bijeenkomst, per email zijn verzonden aan de een vertegenwoordiger van de project stuurgroep."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:69
 msgid ""
 "If the requestor is not happy with the funding requests reviewer's decision,"
 " they may request arbitration from the PSC as a whole."
-msgstr ""
+msgstr "Wanneer de aanvrager niet tevreden is over de beslissing van de vertegenwoordiger omtrent de aanvraag voor financiële ondersteuning kan deze de aanvraag voorleggen aan de gezamelijke project stuurgroep."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:71
 msgid ""
 "The request should include a **workplan** outlining how the developer plans "
 "to make use of their time at the meeting."
-msgstr ""
+msgstr "Het verzoek dient een **planning van werk** te bevatten die aangeeft hoe de ontwikkelaar zijn tijd zal besteden op de bijeenkomst."
