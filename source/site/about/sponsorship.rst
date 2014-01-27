@@ -230,6 +230,7 @@ bank account rather than PayPal.
 * Brian Kelly
 * Carl Nelson
 * Carsten Fink
+* Chartwell Consultants Ltd
 * Cheryle Shepstone
 * Chipotle Coupons
 * Chris Talbot
@@ -340,6 +341,7 @@ bank account rather than PayPal.
 * Kurt Esko
 * Laura Burnette
 * Laurent Bréton
+* Laurent Vidal
 * Lorenzo Becchi
 * Luca Casagrande
 * Luca Manganelli
@@ -363,6 +365,7 @@ bank account rather than PayPal.
 * Matt Foy
 * Matt Wilkie
 * Maximilian Lohse
+* Michael Hintzke
 * Michael Schweizer
 * Michele Beneventi
 * Miguel Fernández Astudillo
