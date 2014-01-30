@@ -432,6 +432,7 @@ bank account rather than PayPal.
 * Steffen Götze
 * Stephan Holl
 * Sti Sas Di Meo
+* Swampthing Environmental Inc.
 * Thanasis Karathanasis
 * Thibaut Goelff
 * Thierry Gonon
