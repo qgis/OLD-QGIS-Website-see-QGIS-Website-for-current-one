@@ -23,6 +23,13 @@ Conclusion showing positive experiences/benefits using QGIS (length about 200 wo
 List of Case Studies
 --------------------
 
+2014
+....
+
+.. toctree::
+    :maxdepth: 1
+    
+    [2014/01] The Research Institute for Geo-hydrological Protection of Turin - Aerial photo archive management by Danilo and Franco Godone <italy_turin>
 
 2013
 ....
