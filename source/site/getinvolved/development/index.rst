@@ -61,7 +61,7 @@ If you have a crash it might be useful to include a backtrace as the bug might b
 Depending on you distribution the automatic creation of core dumps might be disabled. In that case you only see for instance Segmentation fault and not ``Segmentation fault (core dumped)`` in the shell you started QGIS from and you need to run ``ulimit -c unlimited`` before starting QGIS. You could also include that in your ``.profile``.
 Start qgis from the shell and repeat the steps to reproduce the crash. After the crash the core file will be located in the current directory.
 To produce a backtrace from it you start ``gdb /path/to/the/qgis/binary core``. The binary is usually ``/usr/bin/qgis`` or ``/usr/bin/qgis.bin`` on Debian with the GRASS plugin installed.
-In @gdb@ you run ``bt`` which will produce the backtrace.
+In ``gdb`` you run ``bt`` which will produce the backtrace.
 
 Log output on Windows
 ---------------------
