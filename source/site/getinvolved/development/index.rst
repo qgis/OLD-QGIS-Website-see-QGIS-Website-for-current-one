@@ -81,29 +81,35 @@ Since QGIS 2.0 further development will occur based on a timebased roadmap.
 
 Odd version numbers (2.1, 2.3 etc) are development versions.
 
-Even version numbers (2.2, 2.4 etc) are release version.
+Even version numbers (2.2, 2.4 etc) are release versions.
 
-Following is the planning for 2014
+Release will happen every four month.  In the first three month new development
+is taking place.  Then a feature freeze is invoked and the final month is used
+for testing, bugfixing, translation and release preparations.  When the release
+happens, a branch with a even release number is created and the master branch
+advances to the next odd version.  After the release a call for packaging is
+issued.
 
-==== ====== ==================
-Week Date   QGIS version
-==== ====== ==================
-4    24.01  QGIS Freeze  2.1
-8    21.02  QGIS Release 2.2
-21   23.05  QGIS Freeze  2.3
-25   20.06  QGIS Release 2.4
-39   26.09  QGIS Freeze  2.5
-43   24.10  QGIS Release 2.6
-==== ====== ==================
+Following is the schedule for 2014
 
+==== ====== =================
+Week Date   Event
+==== ====== =================
+4    24.01  2.1 freeze begins
+8    21.02  2.2 is released
+21   23.05  2.3 freeze begins
+25   20.06  2.4 is released
+39   26.09  2.5 freeze begins
+43   24.10  2.6 is released
+==== ====== =================
 
-Only in case of real problems a minor version (eg 2.0.1) update will be planned.
+Only in case of real problems a point release (eg 2.0.1) will occur.
 
 
 Development
 ===========
 
-See https://github.com/qgis/Quantum-GIS/blob/master/INSTALL
+See http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html
 
 
 Api Documentation
