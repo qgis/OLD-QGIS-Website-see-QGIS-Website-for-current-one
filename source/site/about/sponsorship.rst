@@ -285,6 +285,7 @@ bank account rather than PayPal.
 * Giovanni Fossà
 * Giuseppe Patti
 * Glasic S.r.l.
+* Grant Fisher
 * Grant Ogilvie
 * Gregorio Díaz-Marta Mateos
 * Guenther Moeller
@@ -414,6 +415,7 @@ bank account rather than PayPal.
 * Robert Nuske
 * Robert Thurston
 * Roberta Benetti
+* Roberto Berchi
 * Roberto Facoetti
 * Russel Taylor
 * Russell Rew
