@@ -1,12 +1,12 @@
 # 
 # Translators:
-# csorin <scalinica@gmail.com>, 2013
+# csorin <scalinica@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-12-15 09:37+0000\n"
+"PO-Revision-Date: 2014-01-28 20:03+0000\n"
 "Last-Translator: csorin <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -49,20 +49,20 @@ msgid "Develop a Plugin"
 msgstr "Dezvoltați un plugin"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:42
-#: ../../themes/qgis-theme/getinvolved_index.html:103
+#: ../../themes/qgis-theme/getinvolved_index.html:106
 msgid "QGIS Core Development"
 msgstr "Dezvoltarea versiunii de bază a QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:45
-#: ../../themes/qgis-theme/getinvolved_index.html:117
+#: ../../themes/qgis-theme/getinvolved_index.html:48
+#: ../../themes/qgis-theme/getinvolved_index.html:136
 msgid "Donate to QGIS"
 msgstr "Faceți o donație către QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:57
+#: ../../themes/qgis-theme/getinvolved_index.html:60
 msgid "Participate in Support Channels"
 msgstr "Participați la Canalele de Suport"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:58
+#: ../../themes/qgis-theme/getinvolved_index.html:61
 msgid ""
 "There are several QGIS mailing lists, IRC channels, forums and user groups "
 "you can use to get help from fellow users and developers, or to keep up with"
@@ -72,16 +72,17 @@ msgid ""
 "archives."
 msgstr "Există mai multe liste de discuții QGIS, canale IRC, forumuri și grupuri de utilizatori pe care le puteți utiliza pentru a obține asistență de la colegii utilizatori sau dezvoltatori, sau pentru a ține pasul cu evenimentele curente ale proiectului. Sunteți bineveniți să vă abonați la oricare dintre liste. Vă rugăm să vă aduceți și dumneavoastră aportul, răspunzând la întrebări și împărtășindu-vă experiențele. Oferim, de asemenea, un site web pentru a căuta în arhivele listelor de discuții."
 
-#: ../../themes/qgis-theme/getinvolved_index.html:59
+#: ../../themes/qgis-theme/getinvolved_index.html:62
 #: ../../themes/qgis-theme/getinvolved_donations.html:60
+#: ../../themes/qgis-theme/docs_index.html:58
 msgid "List of QGIS Support Channels"
 msgstr "Lista Canalelor de Suport QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:74
+#: ../../themes/qgis-theme/getinvolved_index.html:77
 msgid "Translate QGIS"
 msgstr "Traduceți QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:75
+#: ../../themes/qgis-theme/getinvolved_index.html:78
 msgid ""
 "The QGIS project provides a gentle GIS introduction, a User Guide, a Coding "
 "and Compilation Guide and a API Documentation in english and in some cases "
@@ -90,55 +91,57 @@ msgid ""
 " manual into another language, learn how to get started here:"
 msgstr "Proiectul QGIS oferă o introducere lejeră în GIS, un Ghid de Utilizare, un Ghid de Programare și Compilare și o documentație API în limba engleză, traduse, în unele cazuri, în mai multe limbi străine. Dacă sunteți interesat în implicarea în efortul de documentare, cum ar fi, de exemplu, traducerea manualului engleză într-o altă limbă, învățați cum să faceți acest lucru aici:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:77
+#: ../../themes/qgis-theme/getinvolved_index.html:80
+#: ../../themes/qgis-theme/docs_index.html:81
 msgid "Translate QGIS into your Language"
 msgstr "Traduceți QGIS în limba dvs."
 
-#: ../../themes/qgis-theme/getinvolved_index.html:85
+#: ../../themes/qgis-theme/getinvolved_index.html:88
 #: ../../themes/qgis-theme/forusers_index.html:31
 msgid "QGIS Plugins"
 msgstr "Plugin-uri QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:88
+#: ../../themes/qgis-theme/getinvolved_index.html:91
 msgid "A wide range of great plugins exist for QGIS via the "
 msgstr "Există o largă varietate de plugin-uri pentru QGIS prin intermediul"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:88
+#: ../../themes/qgis-theme/getinvolved_index.html:91
 msgid "QGIS Plugin web portal"
 msgstr "Portalului web de plugin-uri QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:106
+#: ../../themes/qgis-theme/getinvolved_index.html:109
 msgid "Get Set Up for QGIS Core Development"
 msgstr "Instalarea unui mediu pentru lucrul la nucleul QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:118
+#: ../../themes/qgis-theme/getinvolved_index.html:137
 msgid "There are two kinds of financial contributions, we accept:"
 msgstr "Există două tipuri de contribuții financiare pe care le acceptăm:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:119
+#: ../../themes/qgis-theme/getinvolved_index.html:138
 msgid "sponsorships:"
 msgstr "sponsorizări:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:119
+#: ../../themes/qgis-theme/getinvolved_index.html:138
 msgid "a sponsorship is an annual commitment of funds to the project."
 msgstr "o sponsorizare reprezintă un angajament anual de finanțare a proiectului."
 
-#: ../../themes/qgis-theme/getinvolved_index.html:120
+#: ../../themes/qgis-theme/getinvolved_index.html:139
 msgid "donations:"
 msgstr "donații:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:120
+#: ../../themes/qgis-theme/getinvolved_index.html:139
 msgid "a donation is a one-time financial contribution to the QGIS project."
 msgstr "o donație reprezintă o contribuție financiară efectuată o singură dată pentru proiectul QGIS."
 
-#: ../../themes/qgis-theme/getinvolved_index.html:122
+#: ../../themes/qgis-theme/getinvolved_index.html:141
 msgid "Help Support the Project Financially"
 msgstr "Ajutați prin susținerea financiară a proiectului"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:142
+#: ../../themes/qgis-theme/getinvolved_index.html:161
 #: ../../themes/qgis-theme/getinvolved_donations.html:131
 #: ../../themes/qgis-theme/about_index.html:147
 #: ../../themes/qgis-theme/forusers_index.html:210
+#: ../../themes/qgis-theme/docs_index.html:115
 msgid "Back to Top"
 msgstr "La începutul paginii"
 
@@ -474,7 +477,7 @@ msgstr "Începeți"
 msgid "Download and Install QGIS then follow the Quickstart."
 msgstr "Descărcați și instalați QGIS, apoi urmați Ghidul de Inițiere rapidă."
 
-#: ../../themes/qgis-theme/page.html:120
+#: ../../themes/qgis-theme/page.html:122
 #: ../../themes/qgis-theme/index.html:115
 msgid "Get Involved"
 msgstr "Implicați-vă"
@@ -545,16 +548,16 @@ msgstr "Cuprins"
 msgid "Page"
 msgstr "Pagină"
 
-#: ../../themes/qgis-theme/page.html:118
+#: ../../themes/qgis-theme/page.html:120
 msgid "Discover QGIS"
 msgstr "Descoperiți QGIS"
 
-#: ../../themes/qgis-theme/page.html:119
+#: ../../themes/qgis-theme/page.html:121
 #: ../../themes/qgis-theme/forusers_index.html:23
 msgid "For Users"
 msgstr "Pentru utilizatori"
 
-#: ../../themes/qgis-theme/page.html:121
+#: ../../themes/qgis-theme/page.html:123
 #: ../../themes/qgis-theme/forusers_index.html:34
 msgid "Documentation"
 msgstr "Documentație"
@@ -593,6 +596,7 @@ msgid "Get Plugins"
 msgstr "Obțineți plugin-uri"
 
 #: ../../themes/qgis-theme/forusers_index.html:102
+#: ../../themes/qgis-theme/docs_index.html:8
 msgid "QGIS Documentation"
 msgstr "Documentație QGIS "
 
@@ -646,7 +650,7 @@ msgstr "Aveți de gând să folosiți QGIS în compania sau organizația dumneav
 msgid "Finding Commercial Support for QGIS"
 msgstr "Obțineți Suportul Comercial pentru QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:104
+#: ../../themes/qgis-theme/getinvolved_index.html:107
 msgid ""
 "QGIS Core consists on the one hand of the libraries enabling you to build "
 "custom tailored application by  providing a powerful API. On the other hand "
@@ -754,7 +758,7 @@ msgid ""
 "you can use to get help from fellow users and developers."
 msgstr "Există mai multe liste de discuții despre QGIS, canale IRC, forumuri și grupuri de utilizatori prin intermediul cărora puteți obține ajutor de la colegii utilizatori și dezvoltatori."
 
-#: ../../themes/qgis-theme/getinvolved_index.html:125
+#: ../../themes/qgis-theme/getinvolved_index.html:144
 msgid "New donations page"
 msgstr "Pagina noilor donații"
 
@@ -964,23 +968,23 @@ msgstr "Pentru diversele distribuții de GNU/Linux sunt disponibile pachete bina
 msgid " - Last updated on %(last_updated)s"
 msgstr "- Ultima actualizare: %(last_updated)s"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:86
+#: ../../themes/qgis-theme/getinvolved_index.html:89
 msgid "Want to write your own Python plugin? Go here: "
 msgstr "Vreau să scrieți propriul plugin Python? Mergeți aici:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:86
+#: ../../themes/qgis-theme/getinvolved_index.html:89
 msgid "Developing Python plugins"
 msgstr "Dezvoltarea plugin-urilor Python"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:87
+#: ../../themes/qgis-theme/getinvolved_index.html:90
 msgid "Want to develop a cpp plugin? Go here: "
 msgstr "Doriți să dezvoltați un plugin cpp? Mergeți aici:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:87
+#: ../../themes/qgis-theme/getinvolved_index.html:90
 msgid "Developing CPP plugins"
 msgstr "Dezvoltarea plugin-urilor CPP"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:109
+#: ../../themes/qgis-theme/getinvolved_index.html:112
 msgid "QGIS roadmap"
 msgstr "Evoluția QGIS"
 
@@ -1021,6 +1025,129 @@ msgstr "Indoneziană"
 #: ../../themes/qgis-theme/languageswitch.html:15
 msgid "Khmer"
 msgstr "Khmeră"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:45
+#: ../../themes/qgis-theme/getinvolved_index.html:124
+msgid "Report Bugs"
+msgstr "Raportarea Erorilor"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:125
+msgid ""
+"If you find an issue working with QGIS please report it so developers can "
+"check and fix it."
+msgstr "Dacă găsiți o problemă în lucrul cu QGIS, vă rugăm să o raportați,  pentru ca dezvoltatorii să o poată verifica și repara."
+
+#: ../../themes/qgis-theme/getinvolved_index.html:127
+msgid "Report a bug"
+msgstr "Raportați o eroare"
+
+#: ../../themes/qgis-theme/docs_index.html:9
+msgid ""
+"QGIS has a lot of documentation, partly translated. Please have a look into "
+"one of the documents below"
+msgstr "QGIS dispune de multă documentație, parțial tradusă. Vă rugăm să aruncați o privire într-unul din documentele de mai jos"
+
+#: ../../themes/qgis-theme/docs_index.html:10
+msgid "Soon: a QGIS training manual!"
+msgstr "Curând: un manual de instruire în QGIS!"
+
+#: ../../themes/qgis-theme/docs_index.html:27
+msgid "DOCUMENTATION"
+msgstr "DOCUMENTAȚIE"
+
+#: ../../themes/qgis-theme/docs_index.html:32
+#: ../../themes/qgis-theme/docs_index.html:51
+msgid "for QGIS 2.0"
+msgstr "pentru QGIS 2.0"
+
+#: ../../themes/qgis-theme/docs_index.html:35
+#: ../../themes/qgis-theme/docs_index.html:74
+msgid "for QGIS 1.8"
+msgstr "pentru QGIS 1.8"
+
+#: ../../themes/qgis-theme/docs_index.html:38
+#: ../../themes/qgis-theme/docs_index.html:90
+msgid "for QGIS testing"
+msgstr "pentru testarea QGIS"
+
+#: ../../themes/qgis-theme/docs_index.html:52
+msgid "QGIS User guide/Manual"
+msgstr "Ghid de utilizare / Manual QGIS"
+
+#: ../../themes/qgis-theme/docs_index.html:53
+msgid "PyQGIS cookbook (for plugins and scripting)"
+msgstr "Cartea de rețete PyQGIS (pentru plugin-uri și script-uri)"
+
+#: ../../themes/qgis-theme/docs_index.html:54
+msgid "Documentation Guidelines"
+msgstr "Ghidul documentației"
+
+#: ../../themes/qgis-theme/docs_index.html:55
+#: ../../themes/qgis-theme/docs_index.html:79
+#: ../../themes/qgis-theme/docs_index.html:95
+msgid "A gentle introduction in GIS"
+msgstr "O introducere lejeră în GIS"
+
+#: ../../themes/qgis-theme/docs_index.html:56
+#: ../../themes/qgis-theme/docs_index.html:80
+#: ../../themes/qgis-theme/docs_index.html:96
+msgid "PDF versions of all above, eg for printing are available here: "
+msgstr "Versiunile PDF ale celor de mai sus, pentru imprimare, de exemplu, sunt disponibile aici:"
+
+#: ../../themes/qgis-theme/docs_index.html:56
+msgid "http://docs.qgis.org/2.0/pdf"
+msgstr "http://docs.qgis.org/2.0/pdf"
+
+#: ../../themes/qgis-theme/docs_index.html:57
+msgid ""
+"Documentation for QGIS 2.0 is part of the website. But also availabe at: "
+msgstr "Documentația pentru QGIS 2.0 este parte a site-ului. Dar, de asemenea, este disponibilă și la:"
+
+#: ../../themes/qgis-theme/docs_index.html:57
+msgid "http://docs.qgis.org/2.0"
+msgstr "http://docs.qgis.org/2.0"
+
+#: ../../themes/qgis-theme/docs_index.html:75
+msgid "We keep a copy of the documentation of QGIS 1.8 around here: "
+msgstr "Păstrăm o copie a documentației QGIS 1.8 aici:"
+
+#: ../../themes/qgis-theme/docs_index.html:75
+msgid "http://docs.qgis.org/1.8"
+msgstr "http://docs.qgis.org/1.8"
+
+#: ../../themes/qgis-theme/docs_index.html:76
+#: ../../themes/qgis-theme/docs_index.html:92
+msgid "User guide/Manual"
+msgstr "Ghid de utilizare / Manual"
+
+#: ../../themes/qgis-theme/docs_index.html:77
+#: ../../themes/qgis-theme/docs_index.html:93
+msgid "PyQGIS cookbook"
+msgstr "Cartea de rețete PyQGIS "
+
+#: ../../themes/qgis-theme/docs_index.html:78
+#: ../../themes/qgis-theme/docs_index.html:94
+msgid "Documentation Guidelines (how to write the docs)"
+msgstr "Ghidul documentației (cum să scrieți documente)"
+
+#: ../../themes/qgis-theme/docs_index.html:80
+msgid "http://docs.qgis.org/1.8/pdf"
+msgstr "http://docs.qgis.org/1.8/pdf"
+
+#: ../../themes/qgis-theme/docs_index.html:91
+msgid ""
+"Although not translated we also build the documentation for QGIS which is "
+"currently developed. We call this version 'QGIS testing' and documentation "
+"can be found here: "
+msgstr "Deși nu este tradusă, am construit, de asemenea, documentația pentru versiunea de QGIS aflată, în prezent, în dezvoltare. Numim această versiune 'QGIS de testare', iar documentația poate fi găsită aici:"
+
+#: ../../themes/qgis-theme/docs_index.html:91
+msgid "http://docs.qgis.org/testing"
+msgstr "http://docs.qgis.org/testing"
+
+#: ../../themes/qgis-theme/docs_index.html:96
+msgid "http://docs.qgis.org/testing/pdf"
+msgstr "http://docs.qgis.org/testing/pdf"
 
 #~ msgid "If you would like to develop your own, you can get started here:"
 #~ msgstr ""
