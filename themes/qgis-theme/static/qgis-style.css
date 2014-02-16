@@ -491,7 +491,7 @@ section.latest-news h3 {
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 0 30px rgba(0, 0, 0, 0.075);
 }
 section.latest-news .info-box {
-  margin: 0 10px 40px;
+  margin: 0 10px 0px;
   background: #fff;
   text-align: left;
   width: 100%;
@@ -511,8 +511,12 @@ section.latest-news .info-box img {
 }
 section.latest-news p.intro {
   font-size: 16px;
-  font-style: italic;
   margin: 0 40px 30px;
+}
+#qgisflickratom .span2 p,
+#qgisflickratom .span2 h4 {
+  color: white;
+  text-align: center;
 }
 section.sponsors {
   padding: 30px 0;
