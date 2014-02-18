@@ -176,7 +176,12 @@
        <div id="qgisflickrmapsatom" class="row">
             <div class="span2">
                 <a href="{{ pathto('site/about/screenshots') }}#maps-created-with-qgis">
-                    <h4>New Maps:</h4>
+                    <div class="info-box">
+                        <h4>New Maps:</h4>
+                        <div class="box-content">
+                            <p></p>
+                        </div>
+                    </div>
                 </a>
             </div>
             <!-- filled via reading of atom (javascript) -->
@@ -263,7 +268,7 @@
                     else if (counter<=maxitems){
                         html+='<a class="external" href="'+link+'">';
                         html+='<div class="info-box" style="padding:10px;color:#666;">'+title+'';
-                        if (showcontent) { html+=' - '+content; };
+                        if (showcontent) { html+=' – '+content; };
                         html+='</div></a>\n';
                     }
                 });
