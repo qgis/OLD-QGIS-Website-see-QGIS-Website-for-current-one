@@ -137,6 +137,21 @@ On plain Ubuntu:
 Nightly builds of QGIS testing are available from following repository (i386
 and amd64):
 
+Trusty::
+
+ deb     http://qgis.org/debian-nightly trusty main
+ deb-src http://qgis.org/debian-nightly trusty main
+
+Saucy::
+
+ deb     http://qgis.org/debian-nightly saucy main
+ deb-src http://qgis.org/debian-nightly saucy main
+
+Raring::
+
+ deb     http://qgis.org/debian-nightly raring main
+ deb-src http://qgis.org/debian-nightly raring main
+
 Quantal::
 
  deb     http://qgis.org/debian-nightly quantal main
@@ -147,8 +162,8 @@ Precise::
  deb     http://qgis.org/debian-nightly precise main
  deb-src http://qgis.org/debian-nightly precise main
 
-Via ubuntugis:
-^^^^^^^^^^^^^^
+Base on dependencies from ubuntugis:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 There are also nightly builds that depend on updated dependencies found in
 ubuntugis.
@@ -193,21 +208,24 @@ Wheezy (7.x)::
  deb     http://qgis.org/debian wheezy main
  deb-src http://qgis.org/debian wheezy main
 
-Jessie (8.x) and Sid (Unstable)::
-
- Jessie and Sid have library changes all the time.
- The QGIS stable package will break at a certain time.
- Nightly/untested builds for QGIS stable would not be 'stable'.
-
- As an alternative, please run QGIS testing on Jessie and Sid.
- OR
- compile QGIS stable yourself on Jessie/Sid (see INSTALL)
+Jessie (8.x; testing, not yet released)::
 
  deb     http://qgis.org/debian jessie main
  deb-src http://qgis.org/debian jessie main
 
+Unstable::
+
  deb     http://qgis.org/debian sid main
  deb-src http://qgis.org/debian sid main
+
+
+.. note:: The packages are only produced once shortly after a new version has
+   been released.  As unstable and not yet released debian versions can have
+   library changes the packages might sooner or later be broken, when the
+   development in debian moves on.  If that's the case you can either move to a
+   stable debian version and use the released packages for it, rebuild the
+   packages for the current state of debian (see INSTALL) or switch to the
+   testing packages which are rebuild on regular basis.
 
 To add the the http://qgis.org repository public key to your apt keyring,
 type::
