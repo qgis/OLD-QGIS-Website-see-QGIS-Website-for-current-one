@@ -354,6 +354,7 @@ bank account rather than PayPal.
 * Manfred Schön
 * Marc Monnerat
 * Marcel Van Dorst
+* Marcelo Soares Souza
 * Mark Siebel
 * Mark Douglas
 * Mark Hoschek
@@ -365,6 +366,7 @@ bank account rather than PayPal.
 * Mateusz Loskot
 * Matt Foy
 * Matt Wilkie
+* Matteo Ghetta
 * Maximilian Lohse
 * Michael Hintzke
 * Michael Schweizer
@@ -396,6 +398,7 @@ bank account rather than PayPal.
 * Per Sjöstrand
 * Peter Brodersen
 * Peter Löwe
+* Peter Moore
 * Peter Paudits
 * Peter Thuvander
 * Peter Wells
