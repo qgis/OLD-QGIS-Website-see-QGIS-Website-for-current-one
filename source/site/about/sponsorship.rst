@@ -50,7 +50,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 |silver| |land_f|
 
-`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-03.2014)
+`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-03.2015)
 
 .. |land_f| image:: /static/site/about/images/land_f.jpg
    :width: 290 px
