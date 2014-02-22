@@ -2,13 +2,17 @@
 
 {% set favicon = 'images/favicon.ico?1322140996' %}
 
+{% set css_files = css_files + [ '_static/bootstrap-2.3.2/css/bootstrap.min.css' ] %}
 {% set css_files = css_files + [ '_static/qgis-style.css' ] %}
+{% set css_files = css_files + [ '_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css' ] %}
+{% set css_files = css_files + [ '_static/bootstrap-sphinx.css' ] %}
 {# 'language' as variable comes in via '-A language=xx', a sphinx-build option 
 we then can use this language to build language dependent switches #}
 {% if language in ["fa"] %}
 {% set css_files = css_files + [ '_static/qgis-style-rtl.css' ] %}
 {%- endif %}
 {% set script_files = script_files + ['_static/qgis-site.js']%}
+{% set script_files = script_files + ['_static/bootstrap-2.3.2/js/bootstrap.min.js']%}
 
 
 {# Add some extra stuff before and use exiting with 'super()' call. #}
@@ -100,7 +104,7 @@ http://stackoverflow.com/questions/13209597/override-html-page-template-for-a-sp
 
 {# qgis_navBar macro: adding our menu and language switcher#}
 {% macro qgis_navBar() %}
-  <div id="navbar" class="{{ theme_navbar_class }} {% if theme_navbar_fixed_top == 'true' -%} navbar-fixed-top{%- endif -%}">
+  <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
     <div class="navbar-inner">
       <div class="container">
         <!-- .btn-navbar is used as the toggle for collapsed navbar content -->

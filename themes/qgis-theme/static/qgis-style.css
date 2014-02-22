@@ -205,6 +205,10 @@ code {
   text-align: center;
   padding: 50px 0;
 }
+.navbar-inner {
+  padding-left: 12px !important;
+  padding-right: 12px !important;
+}
 .nav-collapse {
   height: auto;
   background-color: #63676f;
@@ -315,6 +319,9 @@ select#languages option {
 }
 section {
   margin: 0;
+}
+div.related {
+  display: none;
 }
 /*
 our sphinx :refs: become anchors. But linking to an anchor in top of the page
