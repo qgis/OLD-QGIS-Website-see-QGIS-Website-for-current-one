@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2014-01-28 20:03+0000\n"
-"Last-Translator: csorin <scalinica@gmail.com>\n"
+"PO-Revision-Date: 2014-02-22 10:35+0000\n"
+"Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -73,8 +73,8 @@ msgid ""
 msgstr "Există mai multe liste de discuții QGIS, canale IRC, forumuri și grupuri de utilizatori pe care le puteți utiliza pentru a obține asistență de la colegii utilizatori sau dezvoltatori, sau pentru a ține pasul cu evenimentele curente ale proiectului. Sunteți bineveniți să vă abonați la oricare dintre liste. Vă rugăm să vă aduceți și dumneavoastră aportul, răspunzând la întrebări și împărtășindu-vă experiențele. Oferim, de asemenea, un site web pentru a căuta în arhivele listelor de discuții."
 
 #: ../../themes/qgis-theme/getinvolved_index.html:62
+#: ../../themes/qgis-theme/docs_index.html:57
 #: ../../themes/qgis-theme/getinvolved_donations.html:60
-#: ../../themes/qgis-theme/docs_index.html:58
 msgid "List of QGIS Support Channels"
 msgstr "Lista Canalelor de Suport QGIS"
 
@@ -92,7 +92,7 @@ msgid ""
 msgstr "Proiectul QGIS oferă o introducere lejeră în GIS, un Ghid de Utilizare, un Ghid de Programare și Compilare și o documentație API în limba engleză, traduse, în unele cazuri, în mai multe limbi străine. Dacă sunteți interesat în implicarea în efortul de documentare, cum ar fi, de exemplu, traducerea manualului engleză într-o altă limbă, învățați cum să faceți acest lucru aici:"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:80
-#: ../../themes/qgis-theme/docs_index.html:81
+#: ../../themes/qgis-theme/docs_index.html:82
 msgid "Translate QGIS into your Language"
 msgstr "Traduceți QGIS în limba dvs."
 
@@ -138,10 +138,10 @@ msgid "Help Support the Project Financially"
 msgstr "Ajutați prin susținerea financiară a proiectului"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:161
-#: ../../themes/qgis-theme/getinvolved_donations.html:131
 #: ../../themes/qgis-theme/about_index.html:147
+#: ../../themes/qgis-theme/docs_index.html:121
+#: ../../themes/qgis-theme/getinvolved_donations.html:131
 #: ../../themes/qgis-theme/forusers_index.html:210
-#: ../../themes/qgis-theme/docs_index.html:115
 msgid "Back to Top"
 msgstr "La începutul paginii"
 
@@ -210,8 +210,8 @@ msgstr "Desktop Express Install"
 msgid "and select"
 msgstr "și selectați"
 
-#: ../../themes/qgis-theme/index.html:3
 #: ../../themes/qgis-theme/forusers_download.html:73
+#: ../../themes/qgis-theme/index.html:3
 msgid "QGIS"
 msgstr "QGIS"
 
@@ -477,8 +477,8 @@ msgstr "Începeți"
 msgid "Download and Install QGIS then follow the Quickstart."
 msgstr "Descărcați și instalați QGIS, apoi urmați Ghidul de Inițiere rapidă."
 
-#: ../../themes/qgis-theme/page.html:122
 #: ../../themes/qgis-theme/index.html:115
+#: ../../themes/qgis-theme/page.html:122
 msgid "Get Involved"
 msgstr "Implicați-vă"
 
@@ -506,37 +506,19 @@ msgstr "Aflați ce se întâmplă cu proiectul QGIS și Comunitatea sa."
 msgid "Blog Posts, Case Studies, Tutorials, User Meetings and more..."
 msgstr "Postări pe blog, Studii de Caz, Tutoriale, Întâlniri ale Utilizatorilor și multe altele..."
 
-#: ../../themes/qgis-theme/index.html:153
-#: ../../themes/qgis-theme/index.html:154
-msgid "Gallery"
-msgstr "Galerie"
-
-#: ../../themes/qgis-theme/index.html:156
-msgid ""
-"Check out images and videos of interesting maps and projects from the Global"
-" QGIS Community."
-msgstr "Examinați imaginile și clipurile video de hărți interesante și proiecte din Comunitatea Globală QGIS."
-
-#: ../../themes/qgis-theme/index.html:164
-#: ../../themes/qgis-theme/index.html:165
 #: ../../themes/qgis-theme/forusers_index.html:154
 msgid "Planet QGIS"
 msgstr "Planeta QGIS"
 
-#: ../../themes/qgis-theme/index.html:167
-msgid ""
-"Read the latest blog posts about QGIS and its users from around the web."
-msgstr "Citiți cele mai recente postări pe blogurile despre QGIS și utilizatorii acestuia de pe web."
-
-#: ../../themes/qgis-theme/index.html:179
+#: ../../themes/qgis-theme/index.html:203
 msgid "Sponsors"
 msgstr "Sponsori"
 
-#: ../../themes/qgis-theme/index.html:186
+#: ../../themes/qgis-theme/index.html:210
 msgid "Gold Sponsor"
 msgstr "Sponsori de aur"
 
-#: ../../themes/qgis-theme/index.html:192
+#: ../../themes/qgis-theme/index.html:216
 msgid "Silver Sponsors"
 msgstr "Sponsori de argint"
 
@@ -595,8 +577,8 @@ msgstr "Descărcați QGIS"
 msgid "Get Plugins"
 msgstr "Obțineți plugin-uri"
 
-#: ../../themes/qgis-theme/forusers_index.html:102
 #: ../../themes/qgis-theme/docs_index.html:8
+#: ../../themes/qgis-theme/forusers_index.html:102
 msgid "QGIS Documentation"
 msgstr "Documentație QGIS "
 
@@ -710,10 +692,6 @@ msgstr "Editorul de hărți al QGIS 2 a fost remodelat în întregime ..."
 msgid "check out the new features"
 msgstr "examinați noile funcționalități"
 
-#: ../../themes/qgis-theme/index.html:86
-msgid "Version 2.0 Dufour"
-msgstr "Versiunea 2.0 Dufour"
-
 #: ../../themes/qgis-theme/forusers_index.html:59
 msgid "QGIS is a cross-platform Open Source Geographic Information system."
 msgstr "QGIS este un Sistem de Informații Geografice multi-platformă."
@@ -792,10 +770,6 @@ msgid ""
 "QGIS is available on Windows, MacOS X, Linux and Android. Binary packages "
 "are provided for the current version."
 msgstr "QGIS este disponibil pentru Windows, MacOS X, Linux și Android. Pachetele binare sunt furnizate pentru versiunea curentă."
-
-#: ../../themes/qgis-theme/forusers_download.html:6
-msgid "The current version is QGIS 2.0.1 and was released in September 2013."
-msgstr "Versiunea curentă este QGIS 2.0.1, fiind lansată în septembrie 2013."
 
 #: ../../themes/qgis-theme/forusers_download.html:12
 msgid "Installation Downloads"
@@ -1047,107 +1021,153 @@ msgid ""
 "one of the documents below"
 msgstr "QGIS dispune de multă documentație, parțial tradusă. Vă rugăm să aruncați o privire într-unul din documentele de mai jos"
 
-#: ../../themes/qgis-theme/docs_index.html:10
-msgid "Soon: a QGIS training manual!"
-msgstr "Curând: un manual de instruire în QGIS!"
-
-#: ../../themes/qgis-theme/docs_index.html:27
+#: ../../themes/qgis-theme/docs_index.html:25
 msgid "DOCUMENTATION"
 msgstr "DOCUMENTAȚIE"
 
-#: ../../themes/qgis-theme/docs_index.html:32
-#: ../../themes/qgis-theme/docs_index.html:51
+#: ../../themes/qgis-theme/docs_index.html:30
+#: ../../themes/qgis-theme/docs_index.html:49
 msgid "for QGIS 2.0"
 msgstr "pentru QGIS 2.0"
 
-#: ../../themes/qgis-theme/docs_index.html:35
-#: ../../themes/qgis-theme/docs_index.html:74
+#: ../../themes/qgis-theme/docs_index.html:33
+#: ../../themes/qgis-theme/docs_index.html:75
 msgid "for QGIS 1.8"
 msgstr "pentru QGIS 1.8"
 
-#: ../../themes/qgis-theme/docs_index.html:38
-#: ../../themes/qgis-theme/docs_index.html:90
+#: ../../themes/qgis-theme/docs_index.html:36
+#: ../../themes/qgis-theme/docs_index.html:93
 msgid "for QGIS testing"
 msgstr "pentru testarea QGIS"
 
-#: ../../themes/qgis-theme/docs_index.html:52
+#: ../../themes/qgis-theme/docs_index.html:50
 msgid "QGIS User guide/Manual"
 msgstr "Ghid de utilizare / Manual QGIS"
 
-#: ../../themes/qgis-theme/docs_index.html:53
+#: ../../themes/qgis-theme/docs_index.html:52
 msgid "PyQGIS cookbook (for plugins and scripting)"
 msgstr "Cartea de rețete PyQGIS (pentru plugin-uri și script-uri)"
 
-#: ../../themes/qgis-theme/docs_index.html:54
+#: ../../themes/qgis-theme/docs_index.html:53
 msgid "Documentation Guidelines"
 msgstr "Ghidul documentației"
 
-#: ../../themes/qgis-theme/docs_index.html:55
-#: ../../themes/qgis-theme/docs_index.html:79
-#: ../../themes/qgis-theme/docs_index.html:95
+#: ../../themes/qgis-theme/docs_index.html:54
+#: ../../themes/qgis-theme/docs_index.html:80
+#: ../../themes/qgis-theme/docs_index.html:99
 msgid "A gentle introduction in GIS"
 msgstr "O introducere lejeră în GIS"
 
-#: ../../themes/qgis-theme/docs_index.html:56
-#: ../../themes/qgis-theme/docs_index.html:80
-#: ../../themes/qgis-theme/docs_index.html:96
+#: ../../themes/qgis-theme/docs_index.html:55
+#: ../../themes/qgis-theme/docs_index.html:81
+#: ../../themes/qgis-theme/docs_index.html:100
 msgid "PDF versions of all above, eg for printing are available here: "
 msgstr "Versiunile PDF ale celor de mai sus, pentru imprimare, de exemplu, sunt disponibile aici:"
 
-#: ../../themes/qgis-theme/docs_index.html:56
+#: ../../themes/qgis-theme/docs_index.html:55
 msgid "http://docs.qgis.org/2.0/pdf"
 msgstr "http://docs.qgis.org/2.0/pdf"
 
-#: ../../themes/qgis-theme/docs_index.html:57
+#: ../../themes/qgis-theme/docs_index.html:56
 msgid ""
 "Documentation for QGIS 2.0 is part of the website. But also availabe at: "
 msgstr "Documentația pentru QGIS 2.0 este parte a site-ului. Dar, de asemenea, este disponibilă și la:"
 
-#: ../../themes/qgis-theme/docs_index.html:57
+#: ../../themes/qgis-theme/docs_index.html:56
 msgid "http://docs.qgis.org/2.0"
 msgstr "http://docs.qgis.org/2.0"
 
-#: ../../themes/qgis-theme/docs_index.html:75
+#: ../../themes/qgis-theme/docs_index.html:76
 msgid "We keep a copy of the documentation of QGIS 1.8 around here: "
 msgstr "Păstrăm o copie a documentației QGIS 1.8 aici:"
 
-#: ../../themes/qgis-theme/docs_index.html:75
+#: ../../themes/qgis-theme/docs_index.html:76
 msgid "http://docs.qgis.org/1.8"
 msgstr "http://docs.qgis.org/1.8"
 
-#: ../../themes/qgis-theme/docs_index.html:76
-#: ../../themes/qgis-theme/docs_index.html:92
+#: ../../themes/qgis-theme/docs_index.html:77
+#: ../../themes/qgis-theme/docs_index.html:95
 msgid "User guide/Manual"
 msgstr "Ghid de utilizare / Manual"
 
-#: ../../themes/qgis-theme/docs_index.html:77
-#: ../../themes/qgis-theme/docs_index.html:93
+#: ../../themes/qgis-theme/docs_index.html:78
+#: ../../themes/qgis-theme/docs_index.html:97
 msgid "PyQGIS cookbook"
 msgstr "Cartea de rețete PyQGIS "
 
-#: ../../themes/qgis-theme/docs_index.html:78
-#: ../../themes/qgis-theme/docs_index.html:94
+#: ../../themes/qgis-theme/docs_index.html:79
+#: ../../themes/qgis-theme/docs_index.html:98
 msgid "Documentation Guidelines (how to write the docs)"
 msgstr "Ghidul documentației (cum să scrieți documente)"
 
-#: ../../themes/qgis-theme/docs_index.html:80
+#: ../../themes/qgis-theme/docs_index.html:81
 msgid "http://docs.qgis.org/1.8/pdf"
 msgstr "http://docs.qgis.org/1.8/pdf"
 
-#: ../../themes/qgis-theme/docs_index.html:91
+#: ../../themes/qgis-theme/docs_index.html:94
 msgid ""
 "Although not translated we also build the documentation for QGIS which is "
 "currently developed. We call this version 'QGIS testing' and documentation "
 "can be found here: "
 msgstr "Deși nu este tradusă, am construit, de asemenea, documentația pentru versiunea de QGIS aflată, în prezent, în dezvoltare. Numim această versiune 'QGIS de testare', iar documentația poate fi găsită aici:"
 
-#: ../../themes/qgis-theme/docs_index.html:91
+#: ../../themes/qgis-theme/docs_index.html:94
 msgid "http://docs.qgis.org/testing"
 msgstr "http://docs.qgis.org/testing"
 
-#: ../../themes/qgis-theme/docs_index.html:96
+#: ../../themes/qgis-theme/docs_index.html:100
 msgid "http://docs.qgis.org/testing/pdf"
 msgstr "http://docs.qgis.org/testing/pdf"
+
+#: ../../themes/qgis-theme/forusers_download.html:6
+msgid "The current version is QGIS 2.2.0 and was released in February 2014."
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:86
+msgid "Version 2.2 Valmiera"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:161
+msgid "Latest Blog Posts"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:51
+#: ../../themes/qgis-theme/docs_index.html:96
+msgid "QGIS Training manual"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:58
+#: ../../themes/qgis-theme/docs_index.html:83
+#: ../../themes/qgis-theme/docs_index.html:101
+msgid "C++ Api documentation"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:59
+#: ../../themes/qgis-theme/docs_index.html:84
+#: ../../themes/qgis-theme/docs_index.html:102
+msgid "Python (iface) Api documentation"
+msgstr ""
+
+#~ msgid "Gallery"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Check out images and videos of interesting maps and projects from the Global"
+#~ " QGIS Community."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Read the latest blog posts about QGIS and its users from around the web."
+#~ msgstr ""
+
+#~ msgid "Version 2.0 Dufour"
+#~ msgstr ""
+
+#~ msgid "The current version is QGIS 2.0.1 and was released in September 2013."
+#~ msgstr ""
+
+#~ msgid "Soon: a QGIS training manual!"
+#~ msgstr ""
 
 #~ msgid "If you would like to develop your own, you can get started here:"
 #~ msgstr ""

@@ -1,12 +1,12 @@
 # 
 # Translators:
-# BJ Jang <qgis.tr.kr@gmail.com>, 2013
+# BJ Jang <qgis.tr.kr@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2014-01-25 11:20+0000\n"
+"PO-Revision-Date: 2014-02-22 10:35+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/qgis-website/language/ko_KR/)\n"
 "MIME-Version: 1.0\n"
@@ -73,8 +73,8 @@ msgid ""
 msgstr "QGIS에는 많은 메일링 리스트가 있습니다. IRC 채널, 포럼, 사용자 그룹 등을 통해 숙련된 개발자의 도움을 받거나 진행중인 프로젝트와 이벤트에 대한 최신 정보를 얻을 수 있습니다. 어떤 메일링 리스트에 참여하셔도 좋습니다. 질문에 답하거나 당신의 경험을 공유함으로써 메일링 리스트에 기여하실 수 있습니다. 또한 메일링 리스트 목록을 검색하기 위한 웹사이트도 제공합니다."
 
 #: ../../themes/qgis-theme/getinvolved_index.html:62
+#: ../../themes/qgis-theme/docs_index.html:57
 #: ../../themes/qgis-theme/getinvolved_donations.html:60
-#: ../../themes/qgis-theme/docs_index.html:58
 msgid "List of QGIS Support Channels"
 msgstr "QGIS  지원 채널 목록"
 
@@ -92,7 +92,7 @@ msgid ""
 msgstr "QGIS 프로젝트는 친절한 GIS 소개를 제공합니다. 사용자 가이드, 코딩 및 편집 가이드, API 문서 등을 영어로 제공하고 몇몇 경우에는 다른 언어들로 번역된 문서도 있습니다. 만약 당신이 영어 문서를 다른 언어로 번역하는 등의 문서 작업 참여에 관심이 있다면, 다음에서 참여하는 방법을 배울 수 있습니다:"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:80
-#: ../../themes/qgis-theme/docs_index.html:81
+#: ../../themes/qgis-theme/docs_index.html:82
 msgid "Translate QGIS into your Language"
 msgstr "QGIS를 당신의 언어로 번역"
 
@@ -138,10 +138,10 @@ msgid "Help Support the Project Financially"
 msgstr "재정적으로 프로젝트 지원하기"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:161
-#: ../../themes/qgis-theme/getinvolved_donations.html:131
 #: ../../themes/qgis-theme/about_index.html:147
+#: ../../themes/qgis-theme/docs_index.html:121
+#: ../../themes/qgis-theme/getinvolved_donations.html:131
 #: ../../themes/qgis-theme/forusers_index.html:210
-#: ../../themes/qgis-theme/docs_index.html:115
 msgid "Back to Top"
 msgstr "맨 위로 가기"
 
@@ -210,8 +210,8 @@ msgstr "Desktop Express Install"
 msgid "and select"
 msgstr "과"
 
-#: ../../themes/qgis-theme/index.html:3
 #: ../../themes/qgis-theme/forusers_download.html:73
+#: ../../themes/qgis-theme/index.html:3
 msgid "QGIS"
 msgstr "QGIS"
 
@@ -477,8 +477,8 @@ msgstr "시작하기"
 msgid "Download and Install QGIS then follow the Quickstart."
 msgstr "빠른 시작을 따라 QGIS를 다운로드하고 설치."
 
-#: ../../themes/qgis-theme/page.html:122
 #: ../../themes/qgis-theme/index.html:115
+#: ../../themes/qgis-theme/page.html:122
 msgid "Get Involved"
 msgstr "참여하기"
 
@@ -506,37 +506,19 @@ msgstr "QGIS 프로젝트와 커뮤니티에서 어떤 일이 일어나고 있�
 msgid "Blog Posts, Case Studies, Tutorials, User Meetings and more..."
 msgstr "블로그, 케이스 스터디, 실습, 사용자 모임 및 기타 등등..."
 
-#: ../../themes/qgis-theme/index.html:153
-#: ../../themes/qgis-theme/index.html:154
-msgid "Gallery"
-msgstr "갤러리"
-
-#: ../../themes/qgis-theme/index.html:156
-msgid ""
-"Check out images and videos of interesting maps and projects from the Global"
-" QGIS Community."
-msgstr "전세계 QGIS 커뮤니티에서 재미있는 지도 이미지 및 비디오를 확인."
-
-#: ../../themes/qgis-theme/index.html:164
-#: ../../themes/qgis-theme/index.html:165
 #: ../../themes/qgis-theme/forusers_index.html:154
 msgid "Planet QGIS"
 msgstr "QGIS 플래닛"
 
-#: ../../themes/qgis-theme/index.html:167
-msgid ""
-"Read the latest blog posts about QGIS and its users from around the web."
-msgstr "전체 웹에서 QGIS와 사용자에 관한 최신 블로그 기사보기."
-
-#: ../../themes/qgis-theme/index.html:179
+#: ../../themes/qgis-theme/index.html:203
 msgid "Sponsors"
 msgstr "후원자"
 
-#: ../../themes/qgis-theme/index.html:186
+#: ../../themes/qgis-theme/index.html:210
 msgid "Gold Sponsor"
 msgstr "골드 스폰서"
 
-#: ../../themes/qgis-theme/index.html:192
+#: ../../themes/qgis-theme/index.html:216
 msgid "Silver Sponsors"
 msgstr "실버 스폰서"
 
@@ -595,8 +577,8 @@ msgstr "QGIS 다운로드 "
 msgid "Get Plugins"
 msgstr "플러그인 받기"
 
-#: ../../themes/qgis-theme/forusers_index.html:102
 #: ../../themes/qgis-theme/docs_index.html:8
+#: ../../themes/qgis-theme/forusers_index.html:102
 msgid "QGIS Documentation"
 msgstr "QGIS 문서"
 
@@ -710,10 +692,6 @@ msgstr "QGIS 2의 인쇄 구성에는 중요한 많은 변경이 있었습니다
 msgid "check out the new features"
 msgstr "새로운 기능 보기"
 
-#: ../../themes/qgis-theme/index.html:86
-msgid "Version 2.0 Dufour"
-msgstr "버전2.0 Dufour"
-
 #: ../../themes/qgis-theme/forusers_index.html:59
 msgid "QGIS is a cross-platform Open Source Geographic Information system."
 msgstr "QGIS는 크로스 플랫폼 오픈 소스 지리정보 시스템 입니다."
@@ -792,10 +770,6 @@ msgid ""
 "QGIS is available on Windows, MacOS X, Linux and Android. Binary packages "
 "are provided for the current version."
 msgstr "QGIS는 윈도우, Mac OS X, 리눅스 및 안드로이드 용이 있습니다. 바이너리 패키지가 현재 버전용으로 제공됩니다."
-
-#: ../../themes/qgis-theme/forusers_download.html:6
-msgid "The current version is QGIS 2.0.1 and was released in September 2013."
-msgstr "현재 버전은 QGIS 2.0.1 이며, 2013년 9월에 배포되었습니다."
 
 #: ../../themes/qgis-theme/forusers_download.html:12
 msgid "Installation Downloads"
@@ -1029,125 +1003,171 @@ msgstr "Khmer"
 #: ../../themes/qgis-theme/getinvolved_index.html:45
 #: ../../themes/qgis-theme/getinvolved_index.html:124
 msgid "Report Bugs"
-msgstr ""
+msgstr "버그 보고하기"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:125
 msgid ""
 "If you find an issue working with QGIS please report it so developers can "
 "check and fix it."
-msgstr ""
+msgstr "만약 QGIS 사용 중 문제점을 발견하신다면, 이를 확인하고 고칠 수 있도록 개발자에게 알려주십시오."
 
 #: ../../themes/qgis-theme/getinvolved_index.html:127
 msgid "Report a bug"
-msgstr ""
+msgstr "버그 보고하기"
 
 #: ../../themes/qgis-theme/docs_index.html:9
 msgid ""
 "QGIS has a lot of documentation, partly translated. Please have a look into "
 "one of the documents below"
-msgstr ""
+msgstr "QGIS에는 많은 문서가 있고, 부분적으로 번역되었습니다. 아래의 문서들을 살펴봐 주십시오."
 
-#: ../../themes/qgis-theme/docs_index.html:10
-msgid "Soon: a QGIS training manual!"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:27
+#: ../../themes/qgis-theme/docs_index.html:25
 msgid "DOCUMENTATION"
-msgstr ""
+msgstr "문서"
 
-#: ../../themes/qgis-theme/docs_index.html:32
-#: ../../themes/qgis-theme/docs_index.html:51
+#: ../../themes/qgis-theme/docs_index.html:30
+#: ../../themes/qgis-theme/docs_index.html:49
 msgid "for QGIS 2.0"
-msgstr ""
+msgstr "QGIS 2.0 용"
 
-#: ../../themes/qgis-theme/docs_index.html:35
-#: ../../themes/qgis-theme/docs_index.html:74
+#: ../../themes/qgis-theme/docs_index.html:33
+#: ../../themes/qgis-theme/docs_index.html:75
 msgid "for QGIS 1.8"
-msgstr ""
+msgstr "QGIS 1.8 용"
 
-#: ../../themes/qgis-theme/docs_index.html:38
-#: ../../themes/qgis-theme/docs_index.html:90
+#: ../../themes/qgis-theme/docs_index.html:36
+#: ../../themes/qgis-theme/docs_index.html:93
 msgid "for QGIS testing"
-msgstr ""
+msgstr "QGIS 테스트 버전용"
+
+#: ../../themes/qgis-theme/docs_index.html:50
+msgid "QGIS User guide/Manual"
+msgstr "QGIS 사용자 가이드/매뉴얼"
 
 #: ../../themes/qgis-theme/docs_index.html:52
-msgid "QGIS User guide/Manual"
-msgstr ""
+msgid "PyQGIS cookbook (for plugins and scripting)"
+msgstr "PyQGIS 쿡북 (플러그인과 스크립트 용)"
 
 #: ../../themes/qgis-theme/docs_index.html:53
-msgid "PyQGIS cookbook (for plugins and scripting)"
-msgstr ""
+msgid "Documentation Guidelines"
+msgstr "문서화 가이드라인"
 
 #: ../../themes/qgis-theme/docs_index.html:54
-msgid "Documentation Guidelines"
-msgstr ""
+#: ../../themes/qgis-theme/docs_index.html:80
+#: ../../themes/qgis-theme/docs_index.html:99
+msgid "A gentle introduction in GIS"
+msgstr "GIS에 대한 친절한 소개"
 
 #: ../../themes/qgis-theme/docs_index.html:55
-#: ../../themes/qgis-theme/docs_index.html:79
-#: ../../themes/qgis-theme/docs_index.html:95
-msgid "A gentle introduction in GIS"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:56
-#: ../../themes/qgis-theme/docs_index.html:80
-#: ../../themes/qgis-theme/docs_index.html:96
+#: ../../themes/qgis-theme/docs_index.html:81
+#: ../../themes/qgis-theme/docs_index.html:100
 msgid "PDF versions of all above, eg for printing are available here: "
-msgstr ""
+msgstr "인쇄 등의 목적으로 사용가능 한 PDF 버전은 여기에 있습니다:"
+
+#: ../../themes/qgis-theme/docs_index.html:55
+msgid "http://docs.qgis.org/2.0/pdf"
+msgstr "http://docs.qgis.org/2.0/pdf"
 
 #: ../../themes/qgis-theme/docs_index.html:56
-msgid "http://docs.qgis.org/2.0/pdf"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:57
 msgid ""
 "Documentation for QGIS 2.0 is part of the website. But also availabe at: "
-msgstr ""
+msgstr "QGIS 2.0 용 문서는 웹사이트의 일부로 들어와 있습니다. 하지만 다음에서도 볼 수 있습니다:"
 
-#: ../../themes/qgis-theme/docs_index.html:57
+#: ../../themes/qgis-theme/docs_index.html:56
 msgid "http://docs.qgis.org/2.0"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:75
-msgid "We keep a copy of the documentation of QGIS 1.8 around here: "
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:75
-msgid "http://docs.qgis.org/1.8"
-msgstr ""
+msgstr "http://docs.qgis.org/2.0"
 
 #: ../../themes/qgis-theme/docs_index.html:76
-#: ../../themes/qgis-theme/docs_index.html:92
-msgid "User guide/Manual"
-msgstr ""
+msgid "We keep a copy of the documentation of QGIS 1.8 around here: "
+msgstr "우리는 QGIS 1.8의 문서를 다음 경로에 보존하고 있습니다:"
+
+#: ../../themes/qgis-theme/docs_index.html:76
+msgid "http://docs.qgis.org/1.8"
+msgstr "http://docs.qgis.org/1.8"
 
 #: ../../themes/qgis-theme/docs_index.html:77
-#: ../../themes/qgis-theme/docs_index.html:93
-msgid "PyQGIS cookbook"
-msgstr ""
+#: ../../themes/qgis-theme/docs_index.html:95
+msgid "User guide/Manual"
+msgstr "사용자 가이드/매뉴얼"
 
 #: ../../themes/qgis-theme/docs_index.html:78
-#: ../../themes/qgis-theme/docs_index.html:94
+#: ../../themes/qgis-theme/docs_index.html:97
+msgid "PyQGIS cookbook"
+msgstr "PyQGIS 쿡북"
+
+#: ../../themes/qgis-theme/docs_index.html:79
+#: ../../themes/qgis-theme/docs_index.html:98
 msgid "Documentation Guidelines (how to write the docs)"
-msgstr ""
+msgstr "문서화 가이드라인 (문서 작성 방법)"
 
-#: ../../themes/qgis-theme/docs_index.html:80
+#: ../../themes/qgis-theme/docs_index.html:81
 msgid "http://docs.qgis.org/1.8/pdf"
-msgstr ""
+msgstr "http://docs.qgis.org/1.8/pdf"
 
-#: ../../themes/qgis-theme/docs_index.html:91
+#: ../../themes/qgis-theme/docs_index.html:94
 msgid ""
 "Although not translated we also build the documentation for QGIS which is "
 "currently developed. We call this version 'QGIS testing' and documentation "
 "can be found here: "
-msgstr ""
+msgstr "비록 번역되지 않았지만 우리는 현재 개발중인 배포본 QGIS의 문서도 만들었습니다. 우리는 이 버전을 'QGIS 테스팅'이라 부르고 문서는 다음에서 찾으실 수 있습니다:"
 
-#: ../../themes/qgis-theme/docs_index.html:91
+#: ../../themes/qgis-theme/docs_index.html:94
 msgid "http://docs.qgis.org/testing"
+msgstr "http://docs.qgis.org/testing"
+
+#: ../../themes/qgis-theme/docs_index.html:100
+msgid "http://docs.qgis.org/testing/pdf"
+msgstr "http://docs.qgis.org/testing/pdf"
+
+#: ../../themes/qgis-theme/forusers_download.html:6
+msgid "The current version is QGIS 2.2.0 and was released in February 2014."
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:96
-msgid "http://docs.qgis.org/testing/pdf"
+#: ../../themes/qgis-theme/index.html:86
+msgid "Version 2.2 Valmiera"
 msgstr ""
+
+#: ../../themes/qgis-theme/index.html:161
+msgid "Latest Blog Posts"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:51
+#: ../../themes/qgis-theme/docs_index.html:96
+msgid "QGIS Training manual"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:58
+#: ../../themes/qgis-theme/docs_index.html:83
+#: ../../themes/qgis-theme/docs_index.html:101
+msgid "C++ Api documentation"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:59
+#: ../../themes/qgis-theme/docs_index.html:84
+#: ../../themes/qgis-theme/docs_index.html:102
+msgid "Python (iface) Api documentation"
+msgstr ""
+
+#~ msgid "Gallery"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Check out images and videos of interesting maps and projects from the Global"
+#~ " QGIS Community."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Read the latest blog posts about QGIS and its users from around the web."
+#~ msgstr ""
+
+#~ msgid "Version 2.0 Dufour"
+#~ msgstr ""
+
+#~ msgid "The current version is QGIS 2.0.1 and was released in September 2013."
+#~ msgstr ""
+
+#~ msgid "Soon: a QGIS training manual!"
+#~ msgstr ""
 
 #~ msgid "If you would like to develop your own, you can get started here:"
 #~ msgstr ""

@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-12-13 22:07+0000\n"
+"PO-Revision-Date: 2014-02-22 10:32+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -106,14 +106,14 @@ msgid ""
 msgstr "Si quieres el complemento de GRASS asegúrate de instalar el paquete opcional::"
 
 #: ../../source/site/forusers/alldownloads.rst:85
-#: ../../source/site/forusers/alldownloads.rst:186
-#: ../../source/site/forusers/alldownloads.rst:264
-#: ../../source/site/forusers/alldownloads.rst:302
-#: ../../source/site/forusers/alldownloads.rst:317
-#: ../../source/site/forusers/alldownloads.rst:359
-#: ../../source/site/forusers/alldownloads.rst:369
-#: ../../source/site/forusers/alldownloads.rst:389
-#: ../../source/site/forusers/alldownloads.rst:412
+#: ../../source/site/forusers/alldownloads.rst:201
+#: ../../source/site/forusers/alldownloads.rst:282
+#: ../../source/site/forusers/alldownloads.rst:320
+#: ../../source/site/forusers/alldownloads.rst:335
+#: ../../source/site/forusers/alldownloads.rst:377
+#: ../../source/site/forusers/alldownloads.rst:387
+#: ../../source/site/forusers/alldownloads.rst:407
+#: ../../source/site/forusers/alldownloads.rst:430
 msgid "QGIS stable"
 msgstr "Versión estable de QGIS"
 
@@ -123,33 +123,34 @@ msgid "On plain Ubuntu:"
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:89
+#: ../../source/site/forusers/alldownloads.rst:145
 msgid "Saucy::"
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:94
-#: ../../source/site/forusers/alldownloads.rst:158
+#: ../../source/site/forusers/alldownloads.rst:150
+#: ../../source/site/forusers/alldownloads.rst:173
 msgid "Raring::"
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:99
-#: ../../source/site/forusers/alldownloads.rst:140
-#: ../../source/site/forusers/alldownloads.rst:164
+#: ../../source/site/forusers/alldownloads.rst:155
+#: ../../source/site/forusers/alldownloads.rst:179
 msgid "Quantal::"
 msgstr "Quantal::"
 
 #: ../../source/site/forusers/alldownloads.rst:104
-#: ../../source/site/forusers/alldownloads.rst:145
-#: ../../source/site/forusers/alldownloads.rst:170
+#: ../../source/site/forusers/alldownloads.rst:160
+#: ../../source/site/forusers/alldownloads.rst:185
 msgid "Precise::"
 msgstr "Precise::"
 
 #: ../../source/site/forusers/alldownloads.rst:109
-#: ../../source/site/forusers/alldownloads.rst:176
+#: ../../source/site/forusers/alldownloads.rst:191
 msgid "Lucid::"
 msgstr "Lucid::"
 
 #: ../../source/site/forusers/alldownloads.rst:115
-#: ../../source/site/forusers/alldownloads.rst:151
 msgid "Via ubuntugis:"
 msgstr "Vía ubuntugis:"
 
@@ -172,151 +173,151 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:132
-#: ../../source/site/forusers/alldownloads.rst:230
-#: ../../source/site/forusers/alldownloads.rst:283
-#: ../../source/site/forusers/alldownloads.rst:330
-#: ../../source/site/forusers/alldownloads.rst:402
+#: ../../source/site/forusers/alldownloads.rst:248
+#: ../../source/site/forusers/alldownloads.rst:301
+#: ../../source/site/forusers/alldownloads.rst:348
 #: ../../source/site/forusers/alldownloads.rst:420
+#: ../../source/site/forusers/alldownloads.rst:438
 msgid "QGIS testing"
 msgstr "Versiones de prueba de QGIS"
 
 #: ../../source/site/forusers/alldownloads.rst:137
-#: ../../source/site/forusers/alldownloads.rst:232
+#: ../../source/site/forusers/alldownloads.rst:250
 msgid ""
 "Nightly builds of QGIS testing are available from following repository (i386"
 " and amd64):"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:183
+#: ../../source/site/forusers/alldownloads.rst:198
 msgid "Debian"
 msgstr "Debian"
 
-#: ../../source/site/forusers/alldownloads.rst:188
+#: ../../source/site/forusers/alldownloads.rst:203
 msgid ""
 "Packages for Debian *Wheezy, Jessie and Unstable* for i386 and amd64 are "
 "available at:"
 msgstr "Paquetes para Debian *Wheezy, Jessie y Sid(Unstable)* para i386 y amd64 están disponibles en:"
 
-#: ../../source/site/forusers/alldownloads.rst:191
-#: ../../source/site/forusers/alldownloads.rst:235
+#: ../../source/site/forusers/alldownloads.rst:206
+#: ../../source/site/forusers/alldownloads.rst:253
 msgid "Wheezy (7.x)::"
 msgstr "Wheezy (7.x)::"
 
-#: ../../source/site/forusers/alldownloads.rst:240
+#: ../../source/site/forusers/alldownloads.rst:258
 msgid "Jessie (8.x)::"
 msgstr "Jessie (8.x)::"
 
-#: ../../source/site/forusers/alldownloads.rst:245
+#: ../../source/site/forusers/alldownloads.rst:263
 msgid "Sid (Unstable)::"
 msgstr "Sid (Unstable)::"
 
-#: ../../source/site/forusers/alldownloads.rst:212
+#: ../../source/site/forusers/alldownloads.rst:230
 msgid ""
 "To add the the http://qgis.org repository public key to your apt keyring, "
 "type::"
 msgstr "Para agregar la llave pública del repositorio http://qgis.org a tu lista apt keyring digita::"
 
-#: ../../source/site/forusers/alldownloads.rst:218
+#: ../../source/site/forusers/alldownloads.rst:236
 msgid ""
 "Then add the lines for one of the repositories to your "
 "``/etc/apt/sources.list`` file (see below to choose the appropriate one) and"
 " type::"
 msgstr "Después, agrega las líneas de uno de los repositorios a tu archivo ``/etc/apt/sources.list` (Ve abajo para escoger el apropiado) y digita::"
 
-#: ../../source/site/forusers/alldownloads.rst:225
+#: ../../source/site/forusers/alldownloads.rst:243
 msgid ""
 "Please remove all the QGIS and GRASS packages you may have installed from "
 "other repositories before doing the update."
 msgstr "Por favor remueve todos los paquetes de QGIS y grass que hayas instalado desde otros repositorios antes de realizar la actualización."
 
-#: ../../source/site/forusers/alldownloads.rst:261
+#: ../../source/site/forusers/alldownloads.rst:279
 msgid "Fedora"
 msgstr "Fedora"
 
-#: ../../source/site/forusers/alldownloads.rst:266
+#: ../../source/site/forusers/alldownloads.rst:284
 msgid "Get packages for any Fedora by typing::"
 msgstr "Obtén paquetes para cualquier versión de Fedora digitando::"
 
-#: ../../source/site/forusers/alldownloads.rst:271
+#: ../../source/site/forusers/alldownloads.rst:289
 msgid ""
 "Currently Fedora 18 and 19 have QGIS 1.8 while Fedora 20 is expected to have"
 " QGIS 2.0."
 msgstr "Actualmente Fedora 18 y 19 tienen QGIS 1.8. Se espera que Fedora 20 tenga QGIS 2.0."
 
-#: ../../source/site/forusers/alldownloads.rst:274
+#: ../../source/site/forusers/alldownloads.rst:292
 msgid "There is an alternative repository for QGIS 2.0 on Fedora 19 ::"
 msgstr "Hay un repositorio alternativo para QGIS 2.0 en Fedora 19::"
 
-#: ../../source/site/forusers/alldownloads.rst:285
+#: ../../source/site/forusers/alldownloads.rst:303
 msgid ""
 "A newer version might be available in the testing repository -- usually "
 "around one week::"
 msgstr "Una versión más reciente podría estar disponible en el repositorio de prueba -- generalmente alrededor de una semana::"
 
-#: ../../source/site/forusers/alldownloads.rst:291
+#: ../../source/site/forusers/alldownloads.rst:309
 msgid "RHEL, CentOS, Scientific Linux"
 msgstr "RHEL, CentOS, Scientific Linux"
 
-#: ../../source/site/forusers/alldownloads.rst:296
+#: ../../source/site/forusers/alldownloads.rst:314
 msgid "Try the ELGIS repository: http://elgis.argeo.org/"
 msgstr "Prueba el repositorio ELGIS: http://elgis.argeo.org/"
 
-#: ../../source/site/forusers/alldownloads.rst:298
+#: ../../source/site/forusers/alldownloads.rst:316
 msgid ""
 "ELGIS requires the EPEL repo enabled, see "
 "http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL"
 msgstr "ELGIS requiere el repositorio EPEL habilitado, consulta (en inglés) http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL"
 
-#: ../../source/site/forusers/alldownloads.rst:314
+#: ../../source/site/forusers/alldownloads.rst:332
 msgid "openSUSE"
 msgstr "openSUSE"
 
-#: ../../source/site/forusers/alldownloads.rst:294
-#: ../../source/site/forusers/alldownloads.rst:343
+#: ../../source/site/forusers/alldownloads.rst:312
+#: ../../source/site/forusers/alldownloads.rst:361
 msgid "QGIS 1.8"
 msgstr "QGIS 1.8"
 
-#: ../../source/site/forusers/alldownloads.rst:356
+#: ../../source/site/forusers/alldownloads.rst:374
 msgid "Mandriva"
 msgstr "Mandriva"
 
-#: ../../source/site/forusers/alldownloads.rst:361
+#: ../../source/site/forusers/alldownloads.rst:379
 msgid "Current::"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:366
+#: ../../source/site/forusers/alldownloads.rst:384
 msgid "Slackware"
 msgstr "Slackware"
 
-#: ../../source/site/forusers/alldownloads.rst:371
+#: ../../source/site/forusers/alldownloads.rst:389
 msgid "Packages on http://qgis.gotslack.org"
 msgstr "Paquetes en http://qgis.gotslack.org"
 
-#: ../../source/site/forusers/alldownloads.rst:374
+#: ../../source/site/forusers/alldownloads.rst:392
 msgid "ArchLinux"
 msgstr "ArchLinux"
 
-#: ../../source/site/forusers/alldownloads.rst:376
+#: ../../source/site/forusers/alldownloads.rst:394
 msgid "Archlinux users are encouraged to use the Arch User Repository (AUR)."
 msgstr "Invitamos a los usuarios de Archlinux a usar el Arch User Repository (AUR)"
 
-#: ../../source/site/forusers/alldownloads.rst:378
+#: ../../source/site/forusers/alldownloads.rst:396
 msgid ""
 "Information about available versions, bugs and archlinux specific "
 "instructions can be found at: https://aur.archlinux.org/packages/?O=0&K=qgis"
 msgstr "La información acerca de nuevas versiones, bugs e instrucciones específicas para archlinux las puedes encontrar en: https://aur.archlinux.org/packages/?O=0&K=qgis"
 
-#: ../../source/site/forusers/alldownloads.rst:383
+#: ../../source/site/forusers/alldownloads.rst:401
 msgid "MacOS X"
 msgstr "MacOS X"
 
-#: ../../source/site/forusers/alldownloads.rst:385
+#: ../../source/site/forusers/alldownloads.rst:403
 msgid ""
 "A single installer package is available for both OS X Lion (10.7) and Snow "
 "Leopard (10.6)."
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:391
+#: ../../source/site/forusers/alldownloads.rst:409
 msgid ""
 "Installing QGIS stable in OS X requires separate installation of several "
 "`dependency frameworks <http://www.kyngchaos.com/software/frameworks>`_ "
@@ -326,27 +327,27 @@ msgid ""
 "plugin requirements."
 msgstr "Instalar la versión estable de QGIS en OS X requiere una instalación independiente de varios `dependency frameworks <http://www.kyngchaos.com/software/frameworks>`. Algunos modulos comunes de Python http://www.kyngchaos.com/software/python también está disponibles para los requerimientos de los complementos de QGIS"
 
-#: ../../source/site/forusers/alldownloads.rst:398
+#: ../../source/site/forusers/alldownloads.rst:416
 msgid ""
 "QGIS download page on KyngChaos http://www.kyngchaos.com/software/qgis "
 "(framework requirements listed there) has more information."
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:404
+#: ../../source/site/forusers/alldownloads.rst:422
 msgid ""
 "QGIS testing builds (Nightly build) at http://qgis.dakotacarto.com are "
 "provided by Dakota Cartography."
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:409
+#: ../../source/site/forusers/alldownloads.rst:427
 msgid "FreeBSD"
 msgstr "FreeBSD"
 
-#: ../../source/site/forusers/alldownloads.rst:429
+#: ../../source/site/forusers/alldownloads.rst:447
 msgid "Android"
 msgstr "Android"
 
-#: ../../source/site/forusers/alldownloads.rst:431
+#: ../../source/site/forusers/alldownloads.rst:449
 msgid ""
 "Alpha and nightly builds as well as further documentation can be obtained at"
 " http://android.qgis.org"
@@ -365,18 +366,14 @@ msgid ""
 "apt keyring, type::"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:153
+#: ../../source/site/forusers/alldownloads.rst:168
 msgid ""
 "There are also nightly builds that depend on updated dependencies found in "
 "ubuntugis. Be sure to remove the http://qgis.org/debian ones first, "
 "otherwise you'll end up with a mix of dependencies."
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:196
-msgid "Jessie (8.x) and Sid (Unstable)::"
-msgstr ""
-
-#: ../../source/site/forusers/alldownloads.rst:250
+#: ../../source/site/forusers/alldownloads.rst:268
 msgid ""
 "Although the nightly builds can be used to test newer versions, they are "
 "mainly meant to test, if the newer qgis versions still build fine on the "
@@ -386,13 +383,13 @@ msgid ""
 "to date libraries you will have to build them yourself."
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:304
+#: ../../source/site/forusers/alldownloads.rst:322
 msgid ""
 "QGIS stable can be installed from an alternative repository. Note: It "
 "requires, that ELGIS and EPEL are also installed. ::"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:319
+#: ../../source/site/forusers/alldownloads.rst:337
 msgid ""
 "Latest openSUSE package called qgis2 is available for 12.1, 12.2, 12.3, "
 "Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
@@ -400,13 +397,13 @@ msgid ""
 "openSUSE_12.3). ::"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:327
-#: ../../source/site/forusers/alldownloads.rst:340
-#: ../../source/site/forusers/alldownloads.rst:353
+#: ../../source/site/forusers/alldownloads.rst:345
+#: ../../source/site/forusers/alldownloads.rst:358
+#: ../../source/site/forusers/alldownloads.rst:371
 msgid "All packages include GRASS and Python support."
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:332
+#: ../../source/site/forusers/alldownloads.rst:350
 msgid ""
 "A regularly updated development package from qgis master called qgis-master "
 "is available for 12.1, 12.2, 12.3, Factory and Tumbleweed (32 and 64bit). "
@@ -414,7 +411,7 @@ msgid ""
 "openSUSE VERSION you work with (e.g. openSUSE_12.3). ::"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:345
+#: ../../source/site/forusers/alldownloads.rst:363
 msgid ""
 "OpenSUSE package for QGIS 1.8 is called qgis. It is available for 12.1, "
 "12.2, 12.3, Factory and Tumbleweed (32 and 64bit). Add the following "
@@ -422,13 +419,43 @@ msgid ""
 "you work with (e.g. openSUSE_12.3). ::"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:414
+#: ../../source/site/forusers/alldownloads.rst:432
 msgid "To compile QGIS from binary packages type ::"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:422
+#: ../../source/site/forusers/alldownloads.rst:440
 msgid "To compile QGIS from sources in FreeBSD you need to type ::"
 msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:140
+msgid "Trusty::"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:166
+msgid "Base on dependencies from ubuntugis:"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:211
+msgid "Jessie (8.x; testing, not yet released)::"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:216
+msgid "Unstable::"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:222
+msgid ""
+"The packages are only produced once shortly after a new version has been "
+"released.  As unstable and not yet released debian versions can have library"
+" changes the packages might sooner or later be broken, when the development "
+"in debian moves on.  If that's the case you can either move to a stable "
+"debian version and use the released packages for it, rebuild the packages "
+"for the current state of debian (see INSTALL) or switch to the testing "
+"packages which are rebuild on regular basis."
+msgstr ""
+
+#~ msgid "Jessie (8.x) and Sid (Unstable)::"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Below you find instructions to install per distro. For most distro's there "
