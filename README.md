@@ -44,11 +44,6 @@ Alternatively do it one by one:
 Install sphinx 1.2b3 now in your virtual env:
 
     pip install sphinx==1.2b3
-    
-Sphinx bootstrap theme ( http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html ).
-We use 0.3.2 currently.
-
-    pip install sphinx_bootstrap_theme==0.3.2
 
 Sphinx intl extention ( https://pypi.python.org/pypi/sphinx-intl ):
 
