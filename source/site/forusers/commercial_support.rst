@@ -26,12 +26,13 @@ and consulting on QGIS.
 
 ----
 
-.. |opengisch| image:: /static/site/about/images/opengis-logo.png
-   :width: 100 px
+.. |dms| image:: /static/site/about/images/dms.gif
+   :width: 150 px
 
-|opengisch| `opengis.ch <http://opengis.ch/>`_  (Switzerland, operating
-worldwide) provides commercial support, training and programming for
-QGIS and QGIS on Android.
+|dms| `Digital Mapping Solutions <http://www.mapsolutions.com.au/>`_ (based in
+Australia) has been working with Government and Commercial organisations for over
+15 years and have the products, services and skills to help you take full
+advantage of your GIS investment.
 
 ----
 
@@ -61,6 +62,15 @@ South Africa), we provide commercial support and training for QGIS and GRASS.
 
 ----
 
+.. |lutra_consulting| image:: /static/site/about/images/lutra_consulting.png
+   :width: 90 px
+
+|lutra_consulting| `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ (based
+in the UK) provide training, support and bespoke software development services
+for QGIS.
+
+----
+
 .. |nextgis| image:: /static/site/about/images/nextgis.gif
    :width: 200 px
 
@@ -74,6 +84,15 @@ commercial support, custom programming and training for QGIS, PostGIS and GRASS.
 
 |norbit| `norBIT GmbH <http://www.norbit.de/64>`_ (based in Norden, Germany)
 provides commercial support and custom programming for QGIS.
+
+----
+
+.. |opengisch| image:: /static/site/about/images/opengis-logo.png
+   :width: 100 px
+
+|opengisch| `opengis.ch <http://opengis.ch/>`_  (Switzerland, operating
+worldwide) provides commercial support, training and programming for
+QGIS and QGIS on Android.
 
 ----
 
@@ -118,16 +137,6 @@ expertise.
 
 ----
 
-.. |dms| image:: /static/site/about/images/dms.gif
-   :width: 150 px
-
-|dms| `Digital Mapping Solutions <http://www.mapsolutions.com.au/>`_ (based in
-Australia) has been working with Government and Commercial organisations for over
-15 years and have the products, services and skills to help you take full
-advantage of your GIS investment.
-
-----
-
 .. |gaia3d| image:: /static/site/about/images/gaia3d.png
    :width: 150 px
 
@@ -143,15 +152,6 @@ OpenLayers
 
 |itopen| `IT Open <http://www.itopen.it/>`_ (based in Luserna san Giovanni (TO)
 Italy) provides IT Solutions for free companies.
-
-----
-
-.. |lutra_consulting| image:: /static/site/about/images/lutra_consulting.png
-   :width: 90 px
-
-|lutra_consulting| `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ (based
-in the UK) provide training, support and bespoke software development services
-for QGIS.
 
 ----
 

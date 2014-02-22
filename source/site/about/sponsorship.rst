@@ -22,8 +22,8 @@ For information on becoming a sponsor, please visit :ref:`QGIS_sponsorship_progr
 
 .. _list_of_sponsors:
 
-List of sponsors
-----------------
+List of current sponsors
+------------------------
 
 Annually we also receive support from various organisations who appreciate the
 work we do and would like to facilitate the sustained development effort that
@@ -72,6 +72,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. |argus| image:: /static/site/about/images/argus.jpg
    :width: 150 px
+
+
+List of past sponsors
+---------------------
 
 ----
 
