@@ -143,8 +143,7 @@
             <h3>{{ _('Latest News') }}</h3>
         </header>
         <p class="intro">
-            {{ _('Find out what is going on with the QGIS project and its Community.') }}<br />
-            {{ _('Blog Posts, Case Studies, Tutorials, User Meetings and more...') }}
+            {{ _('Find out what is going on with the QGIS project and its Community.') }}
         </p>
         <div class="row">
             <div class="span6">
@@ -282,8 +281,8 @@
         $('.carousel').carousel();
 
         // load atomfeeds
-        atom('/feeds/qugsnews.atom', '#qugsatom', 4, true);
-        atom('/feeds/qgisplanet.atom', '#qgisplanetatom', 4, false);
+        atom('/feeds/qugsnews.atom', '#qugsatom', 3, true);
+        atom('/feeds/qgisplanet.atom', '#qgisplanetatom', 3, false);
         atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 5, false);
 
     });
