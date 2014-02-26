@@ -86,30 +86,20 @@ QGIS stable
 
 On plain Ubuntu:
 ^^^^^^^^^^^^^^^^
+Trusty::
+
+ deb     http://qgis.org/debian trusty main
+ deb-src http://qgis.org/debian trusty main
+
 Saucy::
 
  deb     http://qgis.org/debian saucy main
  deb-src http://qgis.org/debian saucy main
 
-Raring::
-
- deb     http://qgis.org/debian raring main
- deb-src http://qgis.org/debian raring main
-
-Quantal::
-
- deb     http://qgis.org/debian quantal main
- deb-src http://qgis.org/debian quantal main
-
 Precise::
 
  deb     http://qgis.org/debian precise main
  deb-src http://qgis.org/debian precise main
-
-Lucid::
-
- deb     http://qgis.org/debian lucid main
- deb-src http://qgis.org/debian lucid main
 
 Via ubuntugis:
 ^^^^^^^^^^^^^^
@@ -117,8 +107,7 @@ Via ubuntugis:
 The ubuntugis project provides newer versions of various FOSSGIS packages,
 QGIS being one of them.
 
-Current packages available for lucid, maverick, natty, oneiric,
-precise and raring.
+Current packages available for precise and saucy.
 
 If you want to use those packages, remove the http://qgis.org/debian lines
 from your sources.list and upgrade updated dependencies by typing::
@@ -170,6 +159,12 @@ ubuntugis.
 Be sure to remove the http://qgis.org/debian ones first, otherwise you'll end
 up with a mix of dependencies.
 
+Saucy::
+
+ deb     http://qgis.org/ubuntugis-nightly saucy main
+ deb-src http://qgis.org/ubuntugis-nightly saucy main
+ deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu saucy main
+
 Raring::
 
  deb     http://qgis.org/ubuntugis-nightly raring main
@@ -187,12 +182,6 @@ Precise::
  deb     http://qgis.org/ubuntugis-nightly precise main
  deb-src http://qgis.org/ubuntugis-nightly precise main
  deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu precise main
-
-Lucid::
-
- deb     http://qgis.org/ubuntugis-nightly lucid main
- deb-src http://qgis.org/ubuntugis-nightly lucid main
- deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu lucid main
 
 Debian
 ------
