@@ -1,13 +1,14 @@
 # 
 # Translators:
 # jefi <jef@norbit.de>, 2013-2014
+# dassau <dassau@gbd-consult.de>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-02-22 10:32+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-02-22 12:35+0000\n"
+"Last-Translator: dassau <dassau@gbd-consult.de>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -395,7 +396,7 @@ msgid ""
 "Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
 "installation manager together with the openSUSE VERSION you work with (e.g. "
 "openSUSE_12.3). ::"
-msgstr "Das OpenSUSE-Pakete für QGIS 1.8 heißt QGIS. Es steht für 12.1, 12.2, 12.3, Factory und Tumbleweed (32 und 64bit) zur Verfügung. Fügen Sie das folgende Repositorien zu der openSUSE-Version, die Sie nutzen, Ihrem Installationsmanager hinzu (z.B. openSUSE_12.3). ::"
+msgstr "Das OpenSUSE-Pakete für QGIS 2.2 heißt qgis2. Es steht für 12.2, 12.3, 13.1,Factory und Tumbleweed (32 und 64bit) zur Verfügung. Fügen Sie das folgende Repositorien zu der openSUSE-Version, die Sie nutzen, Ihrem Installationsmanager hinzu (z.B. openSUSE_13.1). ::"
 
 #: ../../source/site/forusers/alldownloads.rst:345
 #: ../../source/site/forusers/alldownloads.rst:358
@@ -409,7 +410,7 @@ msgid ""
 "is available for 12.1, 12.2, 12.3, Factory and Tumbleweed (32 and 64bit). "
 "Add the following repository to your installation manager together with the "
 "openSUSE VERSION you work with (e.g. openSUSE_12.3). ::"
-msgstr "Eine regelmäßig aktualisiertes Entwickungspaket von QGIS Master names qgis-master ist für 12.1, 12.2, 12.3, Factory und Tumbleweed (32 und 64bit) verfügbar. Ergänzen Sie das zur der openSUSE-Version die Sie benutzen passende Repositorium zum Installationsmanager hinzu (z.B. openSUSE_12.3). ::"
+msgstr "Eine regelmäßig aktualisiertes Entwickungspaket von QGIS Master mit dem Namen qgis-master ist für 12.2, 12.3, 13.1, Factory und Tumbleweed (32 und 64bit) verfügbar. Ergänzen Sie das zur der openSUSE-Version die Sie benutzen passende Repositorium zum Installationsmanager hinzu (z.B. openSUSE_13.1). ::"
 
 #: ../../source/site/forusers/alldownloads.rst:363
 msgid ""
@@ -417,7 +418,7 @@ msgid ""
 "12.2, 12.3, Factory and Tumbleweed (32 and 64bit). Add the following "
 "repository to your installation manager together with the openSUSE VERSION "
 "you work with (e.g. openSUSE_12.3). ::"
-msgstr "Das OpenSUSE-Pakete für QGIS 1.8 heißt QGIS. Es steht für 12.1, 12.2, 12.3, Factory und Tumbleweed (32 und 64bit) zur Verfügung. Fügen Sie das zu Ihrer openSUSE-Version passende Repositorien in Ihrem Installationsmanager hinzu (z.B. openSUSE_12.3). ::"
+msgstr "Das OpenSUSE-Pakete für QGIS 1.8 heißt QGIS. Es steht für 12.2, 12.3, 13.1, Factory und Tumbleweed (32 und 64bit) zur Verfügung. Fügen Sie das zu Ihrer openSUSE-Version passende Repositorien in Ihrem Installationsmanager hinzu (z.B. openSUSE_13.1). ::"
 
 #: ../../source/site/forusers/alldownloads.rst:432
 msgid "To compile QGIS from binary packages type ::"
