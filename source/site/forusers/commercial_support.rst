@@ -166,7 +166,7 @@ Others
 ------
 
 .. |astun| image:: /static/site/about/images/astun.jpg
-   :width: 100 px
+   :width: 75 px
 
 |astun| `Astun Technology <http://astuntechnology.com/>`_ (based in UK) provides
 training for QGIS.
@@ -174,7 +174,7 @@ training for QGIS.
 ----
 
 .. |agx| image:: /static/site/about/images/agx.gif
-   :width: 100 px
+   :width: 75 px
 
 |agx| `AdventGX <http://www.adventgx.com/>`_ (based in College Station, TX)
 provides installation, training, and implementation support for QGIS.
@@ -182,7 +182,7 @@ provides installation, training, and implementation support for QGIS.
 ----
 
 .. |bev| image:: /static/site/about/images/bev.gif
-   :width: 100 px
+   :width: 75 px
 
 |bev| `Bird's Eye View GIS <http://www.adventgx.com/>`_ (Based in Albuquerque,
 New Mexico) provides commercial GIS services and support and training in QGIS,
@@ -191,7 +191,7 @@ GRASS GIS and other FOSS GIS applications.
 ----
 
 .. |gis3w| image:: /static/site/about/images/gis3w.png
-   :width: 100 px
+   :width: 75 px
 
 |gis3w| `GIS3W <http://www.gis3w.it/>`_ (based in Italy) provide geographic and
 ecological analysis services and support and assistance with QGIS.
@@ -199,7 +199,7 @@ ecological analysis services and support and assistance with QGIS.
 ----
 
 .. |karttakeskus| image:: /static/site/about/images/karttakeskus.png
-   :width: 100 px
+   :width: 75 px
 
 |karttakeskus| `Karttakeskus <http://www.karttakeskus.fi/>`_ (based in Finland)
 provides commercial support and training for QGIS and open spatial data.
@@ -207,7 +207,7 @@ provides commercial support and training for QGIS and open spatial data.
 ----
 
 .. |imt| image:: /static/site/about/images/imt.png
-   :width: 100 px
+   :width: 75 px
 
 |imt| `The Institute For Mapping Technology <http://learninggis.com/>`_ (based
 in Austin, TX) provides support and training for QGIS and PostGIS.
@@ -215,7 +215,7 @@ in Austin, TX) provides support and training for QGIS and PostGIS.
 ----
 
 .. |ngnuity| image:: /static/site/about/images/ngnuity.png
-   :width: 100 px
+   :width: 75 px
 
 |ngnuity| `nGNUity.net- <http://ngnuity.net/>`_ FOSS advocate from the Philippines
 providing commercial GIS services, training, and consulting for QGIS, spatial data
@@ -226,7 +226,7 @@ services using the Open Data Kit / KoBo Toolbox software stack.
 ----
 
 .. |northriver| image:: /static/site/about/images/northriver.jpg
-   :width: 50 px
+   :width: 75 px
 
 |northriver| `North River Geographic Systems, Inc <http://www.northrivergeographic.com/>`_
 is a small GIS Consulting firm located in the Southeastern United States. We
@@ -252,11 +252,11 @@ GRASS GIS and FOSS GIS based SDI solutions.
 
 ----
 
-.. |taxussi| image:: /static/site/about/images/taxussi.gif
+.. |taxusit| image:: /static/site/about/images/taxusit.png
    :width: 75 px
 
-|taxussi| `Taxussi <http://taxussi.com.pl>`_
-(Warszawa, Poland) provides commercial services and training for QGIS.
+|taxusit| `Taxussi <http://taxusit.com.pl>`_
+(based in Warszawa, Poland) provides commercial GIS services also support and training in QGIS and GRASS.
 
 ----
 
