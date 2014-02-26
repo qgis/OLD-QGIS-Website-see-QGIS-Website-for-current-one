@@ -252,6 +252,14 @@ GRASS GIS and FOSS GIS based SDI solutions.
 
 ----
 
+.. |taxussi| image:: /static/site/about/images/taxussi.gif
+   :width: 75 px
+
+|taxussi| `Taxussi <http://taxussi.com.pl>`_
+(Warszawa, Poland) provides commercial services and training for QGIS.
+
+----
+
 .. |terrestris| image:: /static/site/about/images/terrestris.png
    :width: 75 px
 
