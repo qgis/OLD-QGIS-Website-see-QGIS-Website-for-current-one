@@ -17,7 +17,7 @@ http://lists.osgeo.org/mailman/listinfo/qgis-user
 
 
 QGIS UX (User Experience) list
----------------
+------------------------------
 
 A dedicated mailing list where people can chime in and collect and discuss QGIS
 related UX (User Experience) / usability issues.

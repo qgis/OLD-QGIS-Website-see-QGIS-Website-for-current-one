@@ -147,7 +147,7 @@ Packaging Team
 +------------------------------+---------------------------------------+----------------------------------------------+
 |Jim Hammack                   |hammack AT gotslack.org                |Slackware 13.0                                |
 +------------------------------+---------------------------------------+----------------------------------------------+
-|Tim Sutton                    |tim at linfiniti.com                   |Source @ qgis.org/dowloads/                   |
+|Tim Sutton                    |tim at linfiniti.com                   |Source @ qgis.org/downloads/                   |
 +------------------------------+---------------------------------------+----------------------------------------------+
 
 Packages should be uploaded to qgis.org into the appropriate subdirs under

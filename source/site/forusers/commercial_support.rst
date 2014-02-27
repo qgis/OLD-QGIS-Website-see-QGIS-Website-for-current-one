@@ -255,7 +255,7 @@ GRASS GIS and FOSS GIS based SDI solutions.
 .. |taxusit| image:: /static/site/about/images/taxusit.png
    :width: 75 px
 
-|taxusit| `Taxussi <http://taxusit.com.pl>`_
+|taxusit| `TAXUS IT <http://taxusit.com.pl>`_
 (based in Warszawa, Poland) provides commercial GIS services also support and training in QGIS and GRASS.
 
 ----
