@@ -1,12 +1,13 @@
 # 
 # Translators:
+# ecosyd <kari.salovaara@pp1.inet.fi>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-22 06:45+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-02-26 21:13+0000\n"
+"Last-Translator: ecosyd <kari.salovaara@pp1.inet.fi>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/qgis-website/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,33 +17,54 @@ msgstr ""
 
 #: ../../source/docs/index.rst:8
 msgid "Documentation"
-msgstr ""
+msgstr "Dokumentaatio"
 
 #: ../../source/docs/index.rst:11
 msgid ""
 "QGIS has a lot of documentation, partly translated. Please have a look into "
 "one of the documents below."
-msgstr ""
+msgstr "QGIS ohjelmistolle on paljon dokumentaatiota, josta osa on kääntämätöntä. Ole hyvä ja katso jotain alla olevista dokumenteista."
 
 #: ../../source/docs/index.rst:15
 msgid "Documentation for QGIS 2.0"
-msgstr ""
+msgstr "Dokumentaatio QGIS 2.0 versiolle."
 
-#: ../../source/docs/index.rst:26
+#: ../../source/docs/index.rst:33
 msgid "Documentation for QGIS 1.8"
-msgstr ""
+msgstr "Dokumentaatio QGIS 1.8 versiolle."
 
-#: ../../source/docs/index.rst:35
-msgid "Documentation for QGIS development/nightly"
-msgstr ""
-
-#: ../../source/docs/index.rst:37
-msgid "TBD"
-msgstr ""
-
-#: ../../source/docs/index.rst:40
+#: ../../source/docs/index.rst:28
 msgid ""
 "If you do not see working links to documentation above, it means that this "
 "documentation build did not copy the documentation sources into the website "
-"sources. See ..."
-msgstr ""
+"sources. You can also go to http://docs.qgis.org/2.0"
+msgstr "Jos et näe yllä toimivia linkkejä dokumentaatioon, tarkoittaa se ettei tämän dokumentaation luonti tuonut kopioita dokumentaation lähteistä websivuston lähdekoodiin. Voit mennä myös osoitteeseen http://docs.qgis.org/2.0"
+
+#: ../../source/docs/index.rst:35
+msgid ""
+"We keep a copy of the documentation of QGIS 1.8 around here: "
+"http://docs.qgis.org/1.8"
+msgstr "Pidämme QGIS 1.8 dokumentaation kopiota täällä: http://docs.qgis.org/1.8"
+
+#: ../../source/docs/index.rst:48
+msgid "Documentation for QGIS testing"
+msgstr "Dokumentaatio QGIS testaukselle"
+
+#: ../../source/docs/index.rst:50
+msgid ""
+"Although not translated we also build the documentation for the release QGIS"
+" which is currently developed. We call this version 'QGIS testing' and "
+"documentation can be found here: http://docs.qgis.org/testing"
+msgstr "Vaikkakaan ei käännettynä, muodostimme myös julkaistavan, nyt kehitettävänä olevan, QGIS version dokumentaation. Kutsumme tätä versiota 'QGIS testauksessa' ja sen dokumentaation voit löytää täältä: http://docs.qgis.org/testing"
+
+#~ msgid "Documentation for QGIS development/nightly"
+#~ msgstr ""
+
+#~ msgid "TBD"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you do not see working links to documentation above, it means that this "
+#~ "documentation build did not copy the documentation sources into the website "
+#~ "sources. See ..."
+#~ msgstr ""

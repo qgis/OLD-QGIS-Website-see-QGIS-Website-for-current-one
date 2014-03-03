@@ -1,12 +1,13 @@
 # 
 # Translators:
+# tneskovic <antoine_ecuador@yahoo.fr>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-04 11:24+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2014-02-24 11:15+0000\n"
+"Last-Translator: tneskovic <antoine_ecuador@yahoo.fr>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -31,18 +32,18 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:13
 msgid "The PSC consists of 8 identified roles as follows:"
-msgstr ""
+msgstr "Le PSC est constitué de 8 rôles identifiés comme suit :"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:17
 msgid "**Chair**"
-msgstr ""
+msgstr "**Chaire**"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:16
 msgid ""
 "To support the activities and present a public face to the project. To issue"
 " press releases, conduct interviews, collaborate with PSC members and "
 "provide stability and guidance to the project."
-msgstr ""
+msgstr "Pour soutenir les activités et avoir un visage à présenter au public. Pour diffuser des communiqués de presse, réaliser des interview, collaborer avec les membres du PSC et fournir stabilité et direction au projet."
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:23
 msgid "**Community Adviser**"
@@ -86,6 +87,14 @@ msgstr ""
 msgid "**Release Manager**"
 msgstr ""
 
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:38
+msgid ""
+"To oversee timely, regular, stable releases of QGIS on the various supported"
+" platforms.  With the PSC, determine timelines for freezes, releases, and "
+"general release and maintenance policies.  Recruit and support build "
+"managers to create packages for supported platforms."
+msgstr ""
+
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:44
 msgid "**Design Advisor**"
 msgstr ""
@@ -107,6 +116,20 @@ msgid ""
 "websites, source control, and issue tracking. Make recommendations for "
 "improvements, expansion, and consolidation of services. Guide and direct "
 "volunteers"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:57
+msgid "**Testing and QA Manager**"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:52
+msgid ""
+"To oversee the development of a Quality Assurance framework infrastructure "
+"within QGIS so that we may present the best possible version of QGIS to the "
+"world at large. The remit includes development of a comprehensive unit "
+"testing framework, curation of the issue tracker, improving API "
+"documentationm API consistency and generally supporting and promoting the "
+"improvement of quality within the project."
 msgstr ""
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:60
@@ -134,7 +157,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:74
 msgid "To nominate someone:"
-msgstr ""
+msgstr "Pour nomminer quelqu'un :"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:76
 msgid ""
@@ -262,39 +285,3 @@ msgid ""
 "Intended to deal with minutae of the project (these should be delegated to "
 "trusted members)"
 msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:38
-msgid ""
-"To oversee timely, regular, stable releases of QGIS on the various supported"
-" platforms.  With the PSC, determine timelines for freezes, releases, and "
-"general release and maintenance policies.  Recruit and support build "
-"managers to create packages for supported platforms."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:57
-msgid "**Testing and QA Manager**"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:52
-msgid ""
-"To oversee the development of a Quality Assurance framework infrastructure "
-"within QGIS so that we may present the best possible version of QGIS to the "
-"world at large. The remit includes development of a comprehensive unit "
-"testing framework, curation of the issue tracker, improving API "
-"documentationm API consistency and generally supporting and promoting the "
-"improvement of quality within the project."
-msgstr ""
-
-#~ msgid ""
-#~ "To oversee timely, regular, stable releases of QGIS on the various supported"
-#~ " platforms. To recruit and support build managers to create packages for "
-#~ "supported platforms. To oversee the maintenance of the trac bug tracking "
-#~ "system."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Oversee timely, regular, stable releases of QGIS on the various supported "
-#~ "platforms. With the PSC, determine timelines for freezes, releases, and "
-#~ "general release and maintenance policies. Recruit and support build managers"
-#~ " to create packages for supported platforms."
-#~ msgstr ""

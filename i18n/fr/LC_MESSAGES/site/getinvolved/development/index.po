@@ -1,5 +1,6 @@
 # 
 # Translators:
+# tneskovic <antoine_ecuador@yahoo.fr>, 2014
 # Guy Bara <bara.guy@gmail.com>, 2014
 # DelazJ <delazj@gmail.com>, 2013
 # julien2291 <julien.francois1@hotmail.fr>, 2013
@@ -12,8 +13,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-02-22 18:48+0000\n"
-"Last-Translator: Guy Bara <bara.guy@gmail.com>\n"
+"PO-Revision-Date: 2014-02-27 11:18+0000\n"
+"Last-Translator: tneskovic <antoine_ecuador@yahoo.fr>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -223,7 +224,7 @@ msgid ""
 "Completion of a Milestone not only requires closing bugs, but completing "
 "other tasks related to a release such as documentation, web site updates, "
 "packaging, and announcements."
-msgstr ""
+msgstr "Les tickets sont utilisés pour reporté les bogues, demander des améliorations et envoyer des patchs. Redmine est plus qu'un simple système de report de bogues. Les tickets peuvent être associés à des versions de QGIS, vous permettant ainsi de suivre les avancées jusqu'à la fin de la tâche. La réalisation d'une nouvelle version -Milestone- ne nécesite pas uniquement de corriger tous les bogues, mais également de compléter d'autres tâches relatives à cette version telle que la documentation, les mises à jour du site internet, le packaging, ainsi que les annonces officielles."
 
 #: ../../source/site/getinvolved/development/index.rst:25
 msgid "Opening a Ticket"
@@ -241,7 +242,7 @@ msgid ""
 " problems. If you have installed any, you should also verify that the "
 "problem is still reproducible without them. Please don't report multiple "
 "unrelated bugs in a single bug report."
-msgstr ""
+msgstr "Avant de reporter un bogue, vérifiez ceux déjà signalés pour vous assurer que vous n'êtes pas en train de créer un doublon. Si vous avez des informations supplémentaires sur un problème, vous pouvez les ajouter à un ticket existant. Les extensions tierces peuvent également poser des problèmes. Si vous en avez installées, vérifiez que le problème persiste en leur absence. Ne signalez pas de multiples bogues non reliés entre eux dans un même ticket."
 
 #: ../../source/site/getinvolved/development/index.rst:34
 msgid "Plugin bugs"
@@ -254,7 +255,7 @@ msgid ""
 "plugins/ If so, click on the plugin name then click \"New issue\". "
 "Otherwise, consult the plugin documentation to find the address of the "
 "relevant bug tracking system or a developer to contact."
-msgstr ""
+msgstr "Les bogues concernant les plugins doivent être rapportés dans leur système de report respectifs. Vérifiez d'abord si le plugin est listé à l'adresse http://hub.qgis.org/projects/qgis-user-plugins/. Si c'est le cas, cliquez sur le nom du plugin puis sur \"New Issue\". Autrement, consultez la documentation du plugin afin de trouver l'adresse du système de rapport de bogues, ou celle du développeur à contacter."
 
 #: ../../source/site/getinvolved/development/index.rst:40
 msgid "Steps"
@@ -274,7 +275,7 @@ msgstr "Informations importantes nécessaires à l'ouverture d'un billet:"
 msgid ""
 "Tracker - choose the ticket type from the drop-down list: Bug, Feature (new "
 "feature request) or Bounty (ticket for which a bounty has been defined)"
-msgstr ""
+msgstr "Tracker - choisissez le type de ticket à partir de la liste déroulante : Bogue, Fonctionnalité (demande de nouvelle fonctionnalité) ou Bounty (ticket pour lequel un bounty a été défini)."
 
 #: ../../source/site/getinvolved/development/index.rst:47
 msgid "Subject - a short description of the issue"
@@ -292,7 +293,7 @@ msgid ""
 "which the developer can reproduce the bug. If you make that hard for the "
 "developer, chances are the bug will be given up on or ignored for quite a "
 "while."
-msgstr ""
+msgstr "Description - Fournissez une description complète du problème en incluant les étapes pour le répéter ; si vous pensez que le bogue peut être lié à une certaine plateforme, version ou dépendances (GDAL, OGR, GEOS etc) incluez le également. Si votre QGIS crashe cela peut être utilise d'inclure un backtrace (voir ci-dessous). Une chose très important lorsqu'on reporte un bogue est de donner un exemple minimum afin de reproduire le bug. Les chances qu'un bogue soit résolu de manière rapide sont directement liées à la vitesse avec laquelle un développeur peur reproduire le bug. Si vous rendez le travail compliqué pour le développeur, il y'a des chances que le bogue soit laissé de côté ou ignoré durant un certain temps."
 
 #: ../../source/site/getinvolved/development/index.rst:49
 msgid ""
@@ -302,38 +303,38 @@ msgid ""
 "has a major effect on the usability of a package), or Blocker (a bug that "
 "makes QGIS totally unusable, causes serious data loss or a regression from a"
 " previous QGIS version)"
-msgstr ""
+msgstr "Priorité - Fournissez une estimation de la sévérité du problème : Low (un problème qui n'affecte pas l'utilistion de QGIS), Normal (la valeur par défaut, applicable à la plupart des bogues et à presque toutes les demandes de fonctionnalités), Haute (un bug qui a un effet majeur sur le fonctionnement ou un package), ou Bloquant (un bug qui rend QGIS totalement inutilisable, qui pose des pertes de données une régression par rapport à une version précédente de QGIS)."
 
 #: ../../source/site/getinvolved/development/index.rst:50
 msgid ""
 "Component - Choose the aspect of the application that is most closely "
 "associated with the problem"
-msgstr ""
+msgstr "Composant - Choisissez la partie de l'application la plus proche du problème rencontré"
 
 #: ../../source/site/getinvolved/development/index.rst:51
 msgid ""
 "Milestone - If this issue affects a particular Milestone in the project "
 "choose it from the drop-down list"
-msgstr ""
+msgstr "Milestone - Si ce problème affecte un Milestone particulier du projet, merci de le choisir dans la liste déroulante"
 
 #: ../../source/site/getinvolved/development/index.rst:52
 msgid "Version - Version of QGIS this issue affects"
-msgstr ""
+msgstr "Version - Version de QGIS affectée par ce problème"
 
 #: ../../source/site/getinvolved/development/index.rst:53
 msgid "Platform - Choose the platform you are using"
-msgstr ""
+msgstr "Plateforme - Choisissez la plateforme que vous utilisez"
 
 #: ../../source/site/getinvolved/development/index.rst:55
 msgid ""
 "Before sending the bug, please check the formatting of your report by "
 "clicking on \"Preview\". Please avoid editing existing reports, if not for "
 "typos. Better add further comments in any other case."
-msgstr ""
+msgstr "Avant d'envoyer un rapport de bogue, merci de vérifier le format de votre report en cliquant sur \"Prévisualiser\". Merci d'éviter de modifier les rapports existants, à part pour les coquilles. Dans tous les autres cas, il est préférable de rajouter un commentaire."
 
 #: ../../source/site/getinvolved/development/index.rst:58
 msgid "Creating a backtrace"
-msgstr ""
+msgstr "Créer une backtrace"
 
 #: ../../source/site/getinvolved/development/index.rst:60
 msgid ""
@@ -351,11 +352,11 @@ msgid ""
 "/path/to/the/qgis/binary core``. The binary is usually ``/usr/bin/qgis`` or "
 "``/usr/bin/qgis.bin`` on Debian with the GRASS plugin installed. In ``gdb`` "
 "you run ``bt`` which will produce the backtrace."
-msgstr ""
+msgstr "Si vous avez un crash, il est peut être pratique d'inclure un backtrace comme le bogue peut ne pas être reproductible sur une autre machine. Sur Unix vous pouvez créer un backtrace en utilisant un core dump et gdb. Un core dump et un dump de l'état de la mémoire au moment ou le processus a crashé. Selon votre distribution la création d'un core dump peut être automatique ou désactivée. Dans ce cas vous verrez seulement écrit Segmentation fault et pas ``Segmentation fault (core dumped)`` dans le shell depuis lequel vous avez démarré QGIS et vous aurez besion de taper ``ulimit -c unlimited`` avant de lancer QGIS. Vous pouvez aussi le rajouter dans votre ``.profile``. Démarrez qgis depuis le shell et répéter les étapes afin d'obtenir le crash. Après le crash le fichier core devrait être situé dans le répertoire courant. Pour reproduire un backtrace à partir de ce fichier, vous pouvez lancer  ``gdb /path/to/the/qgis/binary core``. Le binaire est généralement ``/usr/bin/qgis`` ou ``/usr/bin/qgis.bin`` sur Debian avec le plugin GRASS installé. Dans ``gdb`` tapez ``bt`` pour reproduire le backtrace."
 
 #: ../../source/site/getinvolved/development/index.rst:67
 msgid "Log output on Windows"
-msgstr ""
+msgstr "Sauvegarder la sortie sur Windows"
 
 #: ../../source/site/getinvolved/development/index.rst:70
 msgid ""
@@ -364,11 +365,11 @@ msgid ""
 "<http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx>`_.  If the "
 "problem is not easy to reproduce the output might shed some light about "
 "where QGIS crashes."
-msgstr ""
+msgstr "Les compilations noctures de `OSGeo4W <http://trac.osgeo.org/osgeo4w>`_ (package qgis-dev) ont la sortie de debug activée, que vous pouvez consulter avec  `DebugView <http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx>`_. Si le problème est difficile à reproduire, la sortie pourra donner quelques indications sur l'endroit où QGIS crashe."
 
 #: ../../source/site/getinvolved/development/index.rst:73
 msgid "Creating a patch"
-msgstr ""
+msgstr "Créer un patch"
 
 #: ../../source/site/getinvolved/development/index.rst:75
 msgid "To be done"

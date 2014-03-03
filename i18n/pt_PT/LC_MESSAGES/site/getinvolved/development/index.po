@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-02-22 19:50+0000\n"
+"PO-Revision-Date: 2014-02-25 21:22+0000\n"
 "Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
@@ -217,7 +217,7 @@ msgid ""
 "Completion of a Milestone not only requires closing bugs, but completing "
 "other tasks related to a release such as documentation, web site updates, "
 "packaging, and announcements."
-msgstr ""
+msgstr "Os Bilhetes são usados para relatar erros, pedidos de melhorias e submissão de patches. O Redmine é mais que um sistema de relatório de erros. Os Bilhetes podem ser associados a uma Etapa do QGIS, permitindo que veja o progresso. A conclusão de uma etapa não requer apenas corrigir erros, requer também a conclusão de outras tarefas relacionadas com o lançamento tal como a documentação, actualizações do sítio da internet, packaging, e anúncios."
 
 #: ../../source/site/getinvolved/development/index.rst:25
 msgid "Opening a Ticket"
@@ -235,7 +235,7 @@ msgid ""
 " problems. If you have installed any, you should also verify that the "
 "problem is still reproducible without them. Please don't report multiple "
 "unrelated bugs in a single bug report."
-msgstr ""
+msgstr "Depois de preencher um erro, reveja o problema actualmente aberto e tenha a certeza que não está a criar um duplicado. Se tiver informação adicional do problema, pode adicioná-lo ao Bilhete existente. Módulos de terceiros podem também causar problemas. Se instalou algum, deve também verificar se o problema mantém reproduzido sem ele. Por favor não relate múltiplos erros quem não têm ligação num único relatório de erro."
 
 #: ../../source/site/getinvolved/development/index.rst:34
 msgid "Plugin bugs"
@@ -248,7 +248,7 @@ msgid ""
 "plugins/ If so, click on the plugin name then click \"New issue\". "
 "Otherwise, consult the plugin documentation to find the address of the "
 "relevant bug tracking system or a developer to contact."
-msgstr ""
+msgstr "Os erros de módulos devem ser abertos no seu respectivo sistema de rastreio de erros. Verifique primeiro se o módulo está na lista em http://hub.qgis.org/projects/qgis-user-plugins/ Se sim, clique no nome do módulo e de seguida clique em \"New issue\". Caso contrário, consulte a documentação do módulo para encontrar o endereço mais relevante para o sistema de rastreio de erros ou um programador para contactar."
 
 #: ../../source/site/getinvolved/development/index.rst:40
 msgid "Steps"
@@ -258,21 +258,21 @@ msgstr "Passos"
 msgid ""
 "To report a bug choose New Issue from the menu bar. Note: You can also "
 "request an enhancement or submit a patch using the Ticket system."
-msgstr ""
+msgstr "Para relatar um erro escolha New Issue a partir da barra de menu. Nota: Pode também pedir uma melhoria ou enviar um patch usando o sistema de Bilhetes."
 
 #: ../../source/site/getinvolved/development/index.rst:44
 msgid "Important information needed when opening a ticket:"
-msgstr ""
+msgstr "Informação importante necessária quando abre um bilhete:"
 
 #: ../../source/site/getinvolved/development/index.rst:46
 msgid ""
 "Tracker - choose the ticket type from the drop-down list: Bug, Feature (new "
 "feature request) or Bounty (ticket for which a bounty has been defined)"
-msgstr ""
+msgstr "Tracker - escolha o tipo de bilhete da lista: Bug, Feature (new feature request) ou Bounty (bilhete para que bounty foi definido)"
 
 #: ../../source/site/getinvolved/development/index.rst:47
 msgid "Subject - a short description of the issue"
-msgstr ""
+msgstr "Subject - uma descrição do problema"
 
 #: ../../source/site/getinvolved/development/index.rst:48
 msgid ""
@@ -286,7 +286,7 @@ msgid ""
 "which the developer can reproduce the bug. If you make that hard for the "
 "developer, chances are the bug will be given up on or ignored for quite a "
 "while."
-msgstr ""
+msgstr "Description - Forneça um descrição completa do problema incluindo as etapas para o repetir; se acha que é um erro que pode ser relatado numa versão de uma certa plataforma ou numa versão de pacotes de dependências (GDAL, OGR, GEOS etc) inclua também. Se o seu QGIS for abaixo poderá ser útil incluir um backtrace (veja em baixo). Uma coisa importante quando relata um erro é simplificar ao mínimo o exemplo que é necessário para reproduzir o erro. A chance de um erro ser direccionado atempadamente está directamente relacionado com a velocidade que cada programador pode reproduzir o erro. Se descrevê-lo de forma confusa o programador, é provável que o erro seja desistido ou ignorado por um bom tempo."
 
 #: ../../source/site/getinvolved/development/index.rst:49
 msgid ""
@@ -296,38 +296,38 @@ msgid ""
 "has a major effect on the usability of a package), or Blocker (a bug that "
 "makes QGIS totally unusable, causes serious data loss or a regression from a"
 " previous QGIS version)"
-msgstr ""
+msgstr "Priority - fornece uma estimativa de severidade do problema: Low (um problema que não afecta o funcionamento do QGIS), Normal (o valor padrão, aplicável para muitos erros e pedidos de características), High (um erro que tem um efeito grande na utilidade de um pacote), ou Blocker (um erro que torna o QGIS totalmente inutilizável, que causa perdas sérias de dados ou uma regressão de uma versão anterior do QGIS)"
 
 #: ../../source/site/getinvolved/development/index.rst:50
 msgid ""
 "Component - Choose the aspect of the application that is most closely "
 "associated with the problem"
-msgstr ""
+msgstr "Component - Escolha a expressão da aplicação que está mais próximo do problema."
 
 #: ../../source/site/getinvolved/development/index.rst:51
 msgid ""
 "Milestone - If this issue affects a particular Milestone in the project "
 "choose it from the drop-down list"
-msgstr ""
+msgstr "Milestone - Se um problema particular afecta uma etapa do projecto escolha-o na lista"
 
 #: ../../source/site/getinvolved/development/index.rst:52
 msgid "Version - Version of QGIS this issue affects"
-msgstr ""
+msgstr "Version - Versão do QGIS onde ocorre o problema"
 
 #: ../../source/site/getinvolved/development/index.rst:53
 msgid "Platform - Choose the platform you are using"
-msgstr ""
+msgstr "Platform - Escolha a plataforma que está a usar"
 
 #: ../../source/site/getinvolved/development/index.rst:55
 msgid ""
 "Before sending the bug, please check the formatting of your report by "
 "clicking on \"Preview\". Please avoid editing existing reports, if not for "
 "typos. Better add further comments in any other case."
-msgstr ""
+msgstr "Antes de mandar um erro, por favor verifique a formatação do seu aviso clicando em \"Preview\". Por favor evita editar avisos existentes, se não há erros de escrita. Melhor será adicionar comentários posteriores noutro outro caso."
 
 #: ../../source/site/getinvolved/development/index.rst:58
 msgid "Creating a backtrace"
-msgstr ""
+msgstr "Criando um registo"
 
 #: ../../source/site/getinvolved/development/index.rst:60
 msgid ""
@@ -345,11 +345,11 @@ msgid ""
 "/path/to/the/qgis/binary core``. The binary is usually ``/usr/bin/qgis`` or "
 "``/usr/bin/qgis.bin`` on Debian with the GRASS plugin installed. In ``gdb`` "
 "you run ``bt`` which will produce the backtrace."
-msgstr ""
+msgstr "Se tem uma falha poderá ser útil incluí-la no backtrace como um erro que pode ser ou não reproduzida noutra máquina. No Unix pode criar um backtrace usando um core dump e gdb. Um core dump é a memória da informação do estado do processo quando vai abaixo. Dependendo da sua distribuição a criação automática do core dumps pode estar desactivado. Nesse caso apenas vê a falha na instância de Segmentação e não ``Segmentation fault (core dumped)`` na shell você inicia o QGIS de onde precisa correr ``ulimit -c unlimited`` antes de correr o QGIS. Pode também incluir isto no seu ``.profile``. Inicie o qgis a partir da linha de comandos e repita os passos para reproduzir o erro que provoca a quebra. Após a quebra o ficheiro core serár armazenado no directório actual. Para produzir o backtrace a partir do seu começo ``gdb /path/to/the/qgis/binary core``. No binário é normalmente ``/usr/bin/qgis`` ou ``/usr/bin/qgis.bin`` no Debian com o módulo GRASS instalado. Non ``gdb`` você corre ``bt`` que irá produzir o backtrace."
 
 #: ../../source/site/getinvolved/development/index.rst:67
 msgid "Log output on Windows"
-msgstr ""
+msgstr "Registo de saída no Windows"
 
 #: ../../source/site/getinvolved/development/index.rst:70
 msgid ""
@@ -358,19 +358,19 @@ msgid ""
 "<http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx>`_.  If the "
 "problem is not easy to reproduce the output might shed some light about "
 "where QGIS crashes."
-msgstr ""
+msgstr "A compilação nightly no `OSGeo4W <http://trac.osgeo.org/osgeo4w>`_ (package qgis-dev) é uma compilação com saída de erros, que pode ser vista com o `DebugView <http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx>`_.  Se o problema não for fácil de reproduzir na saída pode clarificar onde o QGIS dá erro."
 
 #: ../../source/site/getinvolved/development/index.rst:73
 msgid "Creating a patch"
-msgstr ""
+msgstr "Criando um patch"
 
 #: ../../source/site/getinvolved/development/index.rst:75
 msgid "To be done"
-msgstr ""
+msgstr "Por fazer"
 
 #: ../../source/site/getinvolved/development/index.rst:84
 msgid "Even version numbers (2.2, 2.4 etc) are release versions."
-msgstr ""
+msgstr "Os números pares da versão (2.2, 2.4 etc) são versões de lançamento."
 
 #: ../../source/site/getinvolved/development/index.rst:86
 msgid ""
@@ -380,49 +380,49 @@ msgid ""
 "  When the release happens, a branch with a even release number is created "
 "and the master branch advances to the next odd version.  After the release a"
 " call for packaging is issued."
-msgstr ""
+msgstr "O lançamento acontece de quatro em quatro meses. Os primeiros três meses são dedicados ao desenvolvimento, De seguida é feito o freeze de características e o mês final é usado para testar, correcção de erros, tradução e preparações para o lançamento. Quando é feito o lançamento, um ramo com o número par de lançamento é criado e o ramo master avança para a próxima versão ímpar. Após o lançamento  é feito a chamada para o packaging."
 
 #: ../../source/site/getinvolved/development/index.rst:93
 msgid "Following is the schedule for 2014"
-msgstr ""
+msgstr "Segue-se o planeamento para 2014"
 
 #: ../../source/site/getinvolved/development/index.rst:96
 msgid "Event"
-msgstr ""
+msgstr "Evento"
 
 #: ../../source/site/getinvolved/development/index.rst:98
 msgid "2.1 freeze begins"
-msgstr ""
+msgstr "2.1 começa o freeze"
 
 #: ../../source/site/getinvolved/development/index.rst:99
 msgid "2.2 is released"
-msgstr ""
+msgstr "2.2 é lançado"
 
 #: ../../source/site/getinvolved/development/index.rst:100
 msgid "2.3 freeze begins"
-msgstr ""
+msgstr "2.3 começa o freeze"
 
 #: ../../source/site/getinvolved/development/index.rst:101
 msgid "2.4 is released"
-msgstr ""
+msgstr "2.4 é lançado"
 
 #: ../../source/site/getinvolved/development/index.rst:102
 msgid "2.5 freeze begins"
-msgstr ""
+msgstr "2.5 começa o freeze"
 
 #: ../../source/site/getinvolved/development/index.rst:103
 msgid "2.6 is released"
-msgstr ""
+msgstr "2.6 é lançado"
 
 #: ../../source/site/getinvolved/development/index.rst:106
 msgid "Only in case of real problems a point release (eg 2.0.1) will occur."
-msgstr ""
+msgstr "Apenas em caso de problemas maiores uma versão menor actualizável (ex.: 2.0.1) será planeado."
 
 #: ../../source/site/getinvolved/development/index.rst:112
 msgid ""
 "See "
 "http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html"
-msgstr ""
+msgstr "Veja http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html"
 
 #~ msgid ""
 #~ "If you find a bug, please read `our hints on issueing bugs "

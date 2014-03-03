@@ -1,12 +1,13 @@
 # 
 # Translators:
+# ecosyd <kari.salovaara@pp1.inet.fi>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-22 06:45+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2014-02-26 22:03+0000\n"
+"Last-Translator: ecosyd <kari.salovaara@pp1.inet.fi>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/qgis-website/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/index.rst:8
 msgid "Case Studies"
-msgstr ""
+msgstr "Esimerkit"
 
 #: ../../source/site/about/case_studies/index.rst:11
 msgid ""
@@ -27,21 +28,21 @@ msgid ""
 "live. Please contact the `QGIS community-team "
 "<http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_, if you want"
 " to send us your story."
-msgstr ""
+msgstr "QGIS hanke on aina valmis julkaisemaan QGIS esimerkkejä (käyttäjän kertomuksia) QGIS kotisivuilla. Siksi pyydämmekin ystävällisesti instituutioita, yliopistoja, viranomaisia ja yrityksiä kirjaamaan kokemuksensa QGIS käytöstä ongelmien ratkaisuista hankkeissa ja joka päiväisessä käytössä. Ole ystävällinen ja ota yhteyttä `QGIS community-team <http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_, jos haluat lähettää meille kertomuksesi."
 
 #: ../../source/site/about/case_studies/index.rst:13
 msgid "**Structure**"
-msgstr ""
+msgstr "**Rakenne**"
 
 #: ../../source/site/about/case_studies/index.rst:15
 msgid ""
 "The stories should follow a simple structure and we suggest to write about "
 "800 words including one or two screenshots."
-msgstr ""
+msgstr "Kertomuksen tulee noudattaa yksinkertaista rakennetta ja ehdotammekin kertomuksen pituudeksi noin 800 sanaa sekä paria asiaan liittyvää näyttökuvaa asiasta."
 
 #: ../../source/site/about/case_studies/index.rst:17
 msgid "**Title**"
-msgstr ""
+msgstr "**Otsikko**"
 
 #: ../../source/site/about/case_studies/index.rst:19
 msgid ""
@@ -50,28 +51,32 @@ msgid ""
 "and what QGIS is used for (length about 400 words plus screenshots) "
 "Conclusion showing positive experiences/benefits using QGIS (length about "
 "200 words)"
-msgstr ""
+msgstr "Lyhyt johdanto jossa taustatiedot yrityksestä / instituutiosta / viranomaisesta / yliopistosta (pituus noin 200 sanaa). Kertomus hankkeestasi/sovellutuksestasi ja kuinka QGIS ohjelmistoa käytettiin (pituus noin 400 sanaa plus näyttökuvat). Loppupäätelmät tuoden esille myönteiset kokemukset/hyödyt QGIS ohjelman käytöstä (pituus noin 200 sanaa)."
 
 #: ../../source/site/about/case_studies/index.rst:24
 msgid "List of Case Studies"
-msgstr ""
+msgstr "Luettelo esimerkeistä"
 
-#: ../../source/site/about/case_studies/index.rst:28
+#: ../../source/site/about/case_studies/index.rst:35
 msgid "2013"
-msgstr ""
+msgstr "2013"
 
-#: ../../source/site/about/case_studies/index.rst:38
+#: ../../source/site/about/case_studies/index.rst:47
 msgid "2012"
-msgstr ""
+msgstr "2012"
 
-#: ../../source/site/about/case_studies/index.rst:53
+#: ../../source/site/about/case_studies/index.rst:62
 msgid "2011"
-msgstr ""
+msgstr "2011"
 
-#: ../../source/site/about/case_studies/index.rst:64
+#: ../../source/site/about/case_studies/index.rst:73
 msgid "2010"
-msgstr ""
+msgstr "2010"
 
-#: ../../source/site/about/case_studies/index.rst:76
+#: ../../source/site/about/case_studies/index.rst:85
 msgid "2009"
-msgstr ""
+msgstr "2009"
+
+#: ../../source/site/about/case_studies/index.rst:27
+msgid "2014"
+msgstr "2014"

@@ -1,5 +1,6 @@
 # 
 # Translators:
+# tneskovic <antoine_ecuador@yahoo.fr>, 2014
 # DelazJ <delazj@gmail.com>, 2013
 # julien2291 <julien.francois1@hotmail.fr>, 2013
 msgid ""
@@ -7,8 +8,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-09-25 11:00+0000\n"
-"Last-Translator: DelazJ <delazj@gmail.com>\n"
+"PO-Revision-Date: 2014-02-27 10:50+0000\n"
+"Last-Translator: tneskovic <antoine_ecuador@yahoo.fr>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,7 +31,7 @@ msgid ""
 "The Footpath takes hikers through the coastal Acadian Forest, home to the "
 "world’s highest tides, old growth forests, and several rare and unique types"
 " of flora and fauna."
-msgstr ""
+msgstr "Le  `Fundy Footpath <http://fundyfootpath.info/>`_ est un chemin de randonnée situé le long de la côte Fundy au Nouveau Brunswick, au Canada. Il fait partie des membres de la `UNESCO Fundy Biosphere Reserve <http://fundy-biosphere.ca/en/about-us/the-reserve>`_ et est affilié au  `NB Trails Council Inc. <http://www.sentiernbtrail.com/>`_ ainsi qu'au Trans Canada Trail. Le chemin emmène les randonneurs à travers à la Forêt Acadienne côtière, l'endroit des plus grandes marées du mondes, des plus anciennes forêts ainsi qu'une faune et une flore riche, rare et unique."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:13
 msgid ""
@@ -43,7 +44,7 @@ msgid ""
 "editing data and for final map layout. Through the efforts of myself and "
 "members of the FHTA the new official map of the Fundy Footpath included with"
 " the guidebook was created from start to finish with QGIS."
-msgstr ""
+msgstr "Le chemin a été créé en 1975, il est maintenu et diffusé par un groupe de volontaires connus sous le nom de l'association Fundy Hiking (Fundy Hiking Trail Association Inc., FHTA). En tant que qu'association à but non lucratif la FHTA lève des fonds pour ses activités à travers la vente de guide incluant des cartes des sentiers. En 2011, j'ai contacté la FHTA pour être volontaire afin de mettre à jour la carte officiel du chemin. En tant que volontaire réalisant une carte pour une association à but non lucratif QGIS a été parfait tant en tant qu'outil pour éditer les données que pour la réalisation finale de la carte. Grâce à mes efforts ainsi qu'aux membres de la FHTA la nouvelle carte du Fundy Footpath incluse dans le guide a été créé de A à Z avec QGIS."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:20
 msgid "QGIS GPS Tools Plugin for data collection"
@@ -82,7 +83,7 @@ msgid ""
 "<http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-"
 "54CD-8349-C95E-1A4D03172FDF>`_ website and from `Service New Brunswick (SNB)"
 " online <http://www.snb.ca/gdam-igec/e/2900e_1.asp>`_."
-msgstr ""
+msgstr "Les données ont été collectées à partir d'appareil GPS et également d'autre sources de données gratuites. Les données du chemin (ex: le chemin en lui même, les zone de camping, les passages de marées) ont été collectés avec un Garmin GPSMap 60CSX. Ces données ont ensuite été transférées du GPS et du format shapefile dans AGIS en utilisant le plugin GPS. Les données libres de vecteurs de formats ont été obtenues auprès du site de la  `Natural Resources Canada (NRCan) CanVec <http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF>`_ et du `Service New Brunswick (SNB) online <http://www.snb.ca/gdam-igec/e/2900e_1.asp>`_."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:39
 msgid "Creation of the footpath map in QGIS"
@@ -148,7 +149,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:66
 msgid "The final Fundy Footpath map with accompanying guidebook"
-msgstr ""
+msgstr "La carte finale du Fundy Footpath accompagnant le guide."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:69
 msgid "Author"

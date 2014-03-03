@@ -1,13 +1,13 @@
 # 
 # Translators:
-# BJ Jang <qgis.tr.kr@gmail.com>, 2013
+# BJ Jang <qgis.tr.kr@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-02-22 10:33+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-02-25 14:32+0000\n"
+"Last-Translator: BJ Jang <qgis.tr.kr@gmail.com>\n"
 "Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/qgis-website/language/ko_KR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -41,7 +41,7 @@ msgstr "사용자는 C++을 위한 문서를 다음에서 찾으실 수 있습�
 
 #: ../../source/site/getinvolved/development/index.rst:120
 msgid "http://qgis.org/api/ (for QGIS testing)"
-msgstr "http://qgis.org/api/ (QGIS 테스팅용)"
+msgstr "http://qgis.org/api/ (QGIS 테스팅 용)"
 
 #: ../../source/site/getinvolved/development/index.rst:122
 msgid "http://qgis.org/api/2.0/ (for QGIS 2.0)"
@@ -53,7 +53,7 @@ msgstr "http://qgis.org/api/1.8/ (QGIS 1.8 용)"
 
 #: ../../source/site/getinvolved/development/index.rst:148
 msgid "QGIS has a lot to offer for python developers too."
-msgstr "QGIS에는 파이썬 개발자를 위해서도 많은 제안이 있습니다."
+msgstr "QGIS에는 파이썬 개발자를 위해서도 많은 지원이 있습니다."
 
 #: ../../source/site/getinvolved/development/index.rst:150
 msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
@@ -189,25 +189,25 @@ msgstr "파이썬 플러그인을 찾으시려면, 다음을 보십시오: http:
 
 #: ../../source/site/getinvolved/development/index.rst:12
 msgid "If you find a bug, please report it!"
-msgstr ""
+msgstr "만약 버그를 발견하시면, 알려주십시오!"
 
 #: ../../source/site/getinvolved/development/index.rst:14
 msgid ""
 "You need an OSGeo account and login in order to submit bug reports. To get "
 "started, first create an OSGeo account. https://www2.osgeo.org/cgi-"
 "bin/ldap_create_user.py"
-msgstr ""
+msgstr "버그를 보고하시려면 OSGeo 계정과 로그인이 필요합니다. 시작을 위해, 먼저 OSGeo 계정을 만드십시오. https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
 
 #: ../../source/site/getinvolved/development/index.rst:17
 msgid ""
 "Once you have your account, use http://hub.qgis.org/projects/quantum-"
 "gis/issues to login and search if the issue you'd like to report is probably"
 " already entered."
-msgstr ""
+msgstr "만약 계정이 있으시면, http://hub.qgis.org/projects/quantum-gis/issues 를 이용해 로그인 하시고 보고하시려는 이슈가 이미 올라와 있는지 검색해 주십시오."
 
 #: ../../source/site/getinvolved/development/index.rst:20
 msgid "Tickets"
-msgstr ""
+msgstr "티켓"
 
 #: ../../source/site/getinvolved/development/index.rst:22
 msgid ""
@@ -217,15 +217,15 @@ msgid ""
 "Completion of a Milestone not only requires closing bugs, but completing "
 "other tasks related to a release such as documentation, web site updates, "
 "packaging, and announcements."
-msgstr ""
+msgstr "티켓은 버그를 보고하고, 개선과 패치를 반영을 요구하는데 사용됩니다. 레드마인에는 단순한 버그 리포팅 시스템보다 더 많은 기능이 있습니다. 티켓은 QGIS 마일스톤과 연관될 수 있으며, 완료를 향해 발전하는 것을 볼 수 있게 해줄 것입니다.  마일스톤의 완료는 버그를 제거할 것을 요구할 분만 아니라, 문서 배포, 웹사이트 업데이트, 패키징, 홍보 등 관련 배포 과정의 완료까지도 의미합니다."
 
 #: ../../source/site/getinvolved/development/index.rst:25
 msgid "Opening a Ticket"
-msgstr ""
+msgstr "티겟 발행하기"
 
 #: ../../source/site/getinvolved/development/index.rst:28
 msgid "Before filing a bug"
-msgstr ""
+msgstr "버그를 기록하기 전에"
 
 #: ../../source/site/getinvolved/development/index.rst:30
 msgid ""
@@ -235,11 +235,11 @@ msgid ""
 " problems. If you have installed any, you should also verify that the "
 "problem is still reproducible without them. Please don't report multiple "
 "unrelated bugs in a single bug report."
-msgstr ""
+msgstr "버그를 기록하기 전에, 중복된 것을 만들지 않는 것을 확실히 하기 위해 현재 발행된 이슈를 검토합니다. 만약 어떤 이슈에 대해 추가적인 정보가 있다면,  사용자는 기존 티켓에 이를 채워 넣을 수 있습니다. 서드 파티 플러그인 역시 문제의 원인일 수 있습니다. 만약 설치하신 것이 있다면, 그것 들 없이도 문제를 재연 가능한지 검증하셔야만 합니다. 제발 한 개의 버그 리포트 안에 관계 없은 여러 버그를 보고하지 말아 주십시오."
 
 #: ../../source/site/getinvolved/development/index.rst:34
 msgid "Plugin bugs"
-msgstr ""
+msgstr "플러그인 버그"
 
 #: ../../source/site/getinvolved/development/index.rst:36
 msgid ""
@@ -248,31 +248,31 @@ msgid ""
 "plugins/ If so, click on the plugin name then click \"New issue\". "
 "Otherwise, consult the plugin documentation to find the address of the "
 "relevant bug tracking system or a developer to contact."
-msgstr ""
+msgstr "플러그인 버그 티켓은 그것들이 가진 저마다의 버그 추적 시스템에 발행되어야 합니다. 먼저 플러그인이 http://hub.qgis.org/projects/qgis-user-plugins/ 의 리스트에 있는지 확인합니다. 만약 그렇다면, 플러그인 이름을 클릭하고 \"New issue\"를 클릭합니다. 리스트에서 찾지 못한 경우에는, 버그 추적 시스템의 역할을 하거나 개발자에게 연락하기 위한 주소를 찾기 위해 플러그인 문서의 도움을 받아야 합니다."
 
 #: ../../source/site/getinvolved/development/index.rst:40
 msgid "Steps"
-msgstr ""
+msgstr "보고 과정"
 
 #: ../../source/site/getinvolved/development/index.rst:42
 msgid ""
 "To report a bug choose New Issue from the menu bar. Note: You can also "
 "request an enhancement or submit a patch using the Ticket system."
-msgstr ""
+msgstr "버그를 보고하려면 메뉴 바에서 '새 일감만들기'를 선택하셔야 합니다. 참고: 티켓 시스템을 통하여 개선이나 패치 반영을 요구하실 수도 있습니다."
 
 #: ../../source/site/getinvolved/development/index.rst:44
 msgid "Important information needed when opening a ticket:"
-msgstr ""
+msgstr "티켓을 발행할 때 필요한 중요 정보:"
 
 #: ../../source/site/getinvolved/development/index.rst:46
 msgid ""
 "Tracker - choose the ticket type from the drop-down list: Bug, Feature (new "
 "feature request) or Bounty (ticket for which a bounty has been defined)"
-msgstr ""
+msgstr "유형 - 티켓 유형을 드랍 다운 리스트에서 선택: Bug, Feature (새 기능 요청) 혹은 Bounty (현상금이 걸린 티켓 용)"
 
 #: ../../source/site/getinvolved/development/index.rst:47
 msgid "Subject - a short description of the issue"
-msgstr ""
+msgstr "제목 - 이슈에 대한 간단한 설명"
 
 #: ../../source/site/getinvolved/development/index.rst:48
 msgid ""
@@ -286,7 +286,7 @@ msgid ""
 "which the developer can reproduce the bug. If you make that hard for the "
 "developer, chances are the bug will be given up on or ignored for quite a "
 "while."
-msgstr ""
+msgstr "설명 - 재현 방법을 포함한 문제에 대한 전체 설명을 기술. 만약 버그가 특정 플랫폼이나 의존성 있는 패키지(GDAL, OGR, GEOS etc 등) 버전과 관계 있다고 생각된다면 그것도 포함. 만약 QGIS가 충돌을 일으켰을 때 쓸만하다 생각하면 backtrace(아래를 보시라)를 포함. 버그를 보고할 때 아주 중요한 것은 버그를 재현하는데 필요한 최소한의 사례로 줄여서 보내 달라는 것입니다. 버그가 적시에 처리될 가능성은 개발자가 그 버글 얼마나 빨리 재연할 수 있는 가와 직접적으로 관련이 있습니다. 만약 개발자를 위해 이렇게 하는 것이 어렵다면, 버그가 아주 잠시 동안 무시되거나 포기될 수 있습니다."
 
 #: ../../source/site/getinvolved/development/index.rst:49
 msgid ""
@@ -296,38 +296,38 @@ msgid ""
 "has a major effect on the usability of a package), or Blocker (a bug that "
 "makes QGIS totally unusable, causes serious data loss or a regression from a"
 " previous QGIS version)"
-msgstr ""
+msgstr "우선순위 - 문제가 얼마나 심각한지 추정치를 제공: Low (QGIS의 유용성에 영향을 미치지 않음), Normal (기본값, 대부분의 버그와 거의 모든 기능에 적절함), High (패키지의 유용성에 중요한 영향이 있는 버그), 혹은 Blocker (QGIS를 전혀 사용할 수 없게 만드는 버그, 심각한 데이터 손상을 일으키거나 이전 버전의 QGIS 보다 퇴보하게 하는 원인이 됨)"
 
 #: ../../source/site/getinvolved/development/index.rst:50
 msgid ""
 "Component - Choose the aspect of the application that is most closely "
 "associated with the problem"
-msgstr ""
+msgstr "범주 - 이 문제와 가장 밀접하게 관련이 있는 어플리케이션의 형태를 선택"
 
 #: ../../source/site/getinvolved/development/index.rst:51
 msgid ""
 "Milestone - If this issue affects a particular Milestone in the project "
 "choose it from the drop-down list"
-msgstr ""
+msgstr "마일스톤 - 이 이슈가 프로젝트의 특정 마일스톤에 영향을 미치는 경우 드랍다운 리스트에서 선택"
 
 #: ../../source/site/getinvolved/development/index.rst:52
 msgid "Version - Version of QGIS this issue affects"
-msgstr ""
+msgstr "버전 - 이 이슈가 영향을 미치는 QGIS 버전"
 
 #: ../../source/site/getinvolved/development/index.rst:53
 msgid "Platform - Choose the platform you are using"
-msgstr ""
+msgstr "Platform - 사용중인 플랫폼을 선택"
 
 #: ../../source/site/getinvolved/development/index.rst:55
 msgid ""
 "Before sending the bug, please check the formatting of your report by "
 "clicking on \"Preview\". Please avoid editing existing reports, if not for "
 "typos. Better add further comments in any other case."
-msgstr ""
+msgstr "버그를 보내기 전에, \"미리보기\"를 클릭해 보고서의 포맷을 확인해 주십시오. 오타가 아니라면, 기존 리포트를 수정하는 것은 피해 주십시오. 기타의 경우에는 추가적인 댓글을 다는 것이 더 좋습니다."
 
 #: ../../source/site/getinvolved/development/index.rst:58
 msgid "Creating a backtrace"
-msgstr ""
+msgstr "backtrace 만들기"
 
 #: ../../source/site/getinvolved/development/index.rst:60
 msgid ""
@@ -345,11 +345,11 @@ msgid ""
 "/path/to/the/qgis/binary core``. The binary is usually ``/usr/bin/qgis`` or "
 "``/usr/bin/qgis.bin`` on Debian with the GRASS plugin installed. In ``gdb`` "
 "you run ``bt`` which will produce the backtrace."
-msgstr ""
+msgstr "만약 충돌이 일어난 경우 이 버그를 다른 컴퓨터에서 재현할 수 없다면 backtrace를 포함하는 것 유용할 수 있습니다. 유닉스에서 사용자는 cord dump와 gdb를 이용해 backtrace를 만들 수 있습니다. 중요 덤프는 충돌이 발생했을 때의 프로세스의 메모리 덤프입니다. 당신의 방식에 따라 코어 덤프의 자동 생성이 비활성화 될 수 있습니다. 이런 경우 사용자는 instance Segmentation fault와 not ``Segmentation fault (core dumped)`` 만을 사용자가 QGIS를 실행한 쉘에서 볼 수 있으며, QGIS를 시작하기 전에 ``ulimit -c unlimited``를 실행할 필요가 있습니다. 사용자의 ``.profile`` 또한 포함시켜야 합니다. 이 쉘에서 QGIS를 실행하고 충돌을 재현하기 위해 과정을 반복합니다. 충돌이 발행 후 코어 파일이 현재 디렉토리에 생기게 됩니다. \n여기에서 backtrace 를 만들기 위해 ``gdb /path/to/the/qgis/binary core``를 시작하십시오. 이 바이너리는 데비안에서 GRASS 플러그인 설치본과 함께 흔히 ``/usr/bin/qgis`` 혹은 ``/usr/bin/qgis.bin``에 있습니다. ``gdb``에서 ``bt``를 실행하면 backtrace가 만들어 집니다.."
 
 #: ../../source/site/getinvolved/development/index.rst:67
 msgid "Log output on Windows"
-msgstr ""
+msgstr "윈도우에서의 로그 출력"
 
 #: ../../source/site/getinvolved/development/index.rst:70
 msgid ""
@@ -358,19 +358,19 @@ msgid ""
 "<http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx>`_.  If the "
 "problem is not easy to reproduce the output might shed some light about "
 "where QGIS crashes."
-msgstr ""
+msgstr "`OSGeo4W <http://trac.osgeo.org/osgeo4w>`_ (package qgis-dev)의 나이틀리 빌드는 디버깅 출력이 생기도록 빌드되며, 이를 `DebugView <http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx>`_ 를 이용해 볼 수 있습니다.  만약 문제를 재연하기 힘들다면  이 출력이 QGIS 충돌에 대한 어떤 희망을 보여 줄 수 있습니다."
 
 #: ../../source/site/getinvolved/development/index.rst:73
 msgid "Creating a patch"
-msgstr ""
+msgstr "패치 만들기"
 
 #: ../../source/site/getinvolved/development/index.rst:75
 msgid "To be done"
-msgstr ""
+msgstr "작성 예정"
 
 #: ../../source/site/getinvolved/development/index.rst:84
 msgid "Even version numbers (2.2, 2.4 etc) are release versions."
-msgstr ""
+msgstr "짝수 버전 넘버(2.2, 2.4 등)이 배포 버전임."
 
 #: ../../source/site/getinvolved/development/index.rst:86
 msgid ""
@@ -380,49 +380,49 @@ msgid ""
 "  When the release happens, a branch with a even release number is created "
 "and the master branch advances to the next odd version.  After the release a"
 " call for packaging is issued."
-msgstr ""
+msgstr "배포판은 매 4달 마다 만들어집니다. 처음 3달 동안 새로운 개발이 진행됩니다. 이후에 기능이 확정되고 마지막 달은 테스트, 버그수정, 번역, 배포 준비 용도로 사용됩니다. 배포판이 만들어지면, 짝수 배포 번호를 가지는 브랜치가 만들어지고 마스터 브랜치가 다음 홀수 버전으로 변경됩니다. 배포판 생성 후 패키징 요청이 발생됩니다."
 
 #: ../../source/site/getinvolved/development/index.rst:93
 msgid "Following is the schedule for 2014"
-msgstr ""
+msgstr "다음은 2014년의 스케줄 임"
 
 #: ../../source/site/getinvolved/development/index.rst:96
 msgid "Event"
-msgstr ""
+msgstr "이벤트"
 
 #: ../../source/site/getinvolved/development/index.rst:98
 msgid "2.1 freeze begins"
-msgstr ""
+msgstr "2.1 확정 시작"
 
 #: ../../source/site/getinvolved/development/index.rst:99
 msgid "2.2 is released"
-msgstr ""
+msgstr "2.2 배포됨"
 
 #: ../../source/site/getinvolved/development/index.rst:100
 msgid "2.3 freeze begins"
-msgstr ""
+msgstr "2.3 확정 시작"
 
 #: ../../source/site/getinvolved/development/index.rst:101
 msgid "2.4 is released"
-msgstr ""
+msgstr "2.4 배포 됨"
 
 #: ../../source/site/getinvolved/development/index.rst:102
 msgid "2.5 freeze begins"
-msgstr ""
+msgstr "2.5 확정 시작"
 
 #: ../../source/site/getinvolved/development/index.rst:103
 msgid "2.6 is released"
-msgstr ""
+msgstr "2.6 배포 됨"
 
 #: ../../source/site/getinvolved/development/index.rst:106
 msgid "Only in case of real problems a point release (eg 2.0.1) will occur."
-msgstr ""
+msgstr "진짜 문제인 경우에만 소수점(예 2.0.1) 배포판을 만들 것임."
 
 #: ../../source/site/getinvolved/development/index.rst:112
 msgid ""
 "See "
 "http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html"
-msgstr ""
+msgstr "http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html 를 보십시오"
 
 #~ msgid ""
 #~ "If you find a bug, please read `our hints on issueing bugs "
