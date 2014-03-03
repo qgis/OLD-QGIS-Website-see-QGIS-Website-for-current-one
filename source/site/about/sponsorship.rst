@@ -284,6 +284,7 @@ bank account rather than PayPal.
 * Gerald Bond
 * Gérald Fringeli
 * Gerhard Spieles
+* Gertjan Geerling
 * GFOSS.it
 * Gianluca Massei
 * Giovanni Fossà
@@ -413,6 +414,7 @@ bank account rather than PayPal.
 * Ragnvald Larsen
 * Ralph Hames
 * Ralph Williams
+* Ramaswamy Nagarajan
 * Ramon Andinach
 * Raymond Warriner
 * Ravi
@@ -461,6 +463,7 @@ bank account rather than PayPal.
 * Wendelin Schmit
 * Werner Macho
 * William Levering
+* William Pallies
 * Wolfgang Dennhöfer
 * Yuan Harng Lee
 * Yves Jacolin
