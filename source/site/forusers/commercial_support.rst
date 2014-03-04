@@ -248,7 +248,7 @@ provides commercial GIS consulting, support and training in QGIS.
 |Dr.-Ing. Claas Leiner| `Praxis f. Geodatenmanagement und freie Geoinformationssysteme <http://www.eschenlaub.de>`_ 
 provides training, services and support around the free geographic information systems QGIS, GRASS, Saga, PostGIS, 
 GDAL / OGR, and spatial data management, analysis and Kartograpie. 
-Subdivision training and telephone support in German language, Dr.-Ing. Claas Leiner, Kassel, Germany
+On-site training and telephone support in German language, Dr.-Ing. Claas Leiner, Kassel, Germany
 
 ----
 
