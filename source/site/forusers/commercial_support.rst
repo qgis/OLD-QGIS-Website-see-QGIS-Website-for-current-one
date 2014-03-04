@@ -1,4 +1,3 @@
-
 .. _QGIS-commercial_support:
 
 ==================
@@ -134,6 +133,16 @@ Contributors
 an Open Source service company based in Europe offering training, support and
 development around QGIS, mobiles apps, 3D, geoportails and GeoBI using a high
 expertise.
+
+----
+
+.. |Dr.-Ing. Claas Leiner| image:: /static/site/about/images/logo_Claas_Leiner.png
+   :width: 150 px
+
+|Dr.-Ing. Claas Leiner| `Praxis f. Geodatenmanagement und freie Geoinformationssysteme <http://www.eschenlaub.de>`_ bietet 
+Schulungen, Dienstleistungen und Support rund um die freien Geoinformationssysteme 
+QGIS, GRASS, Saga, Postgis, GDAL/OGR sowie Geodatenmanagement, -analysen und Kartograpie.
+Vorortschulungen uns Telefonsupport in deutscher Sprache, Dr.-Ing. Claas leiner, Kassel, Germany
 
 ----
 
