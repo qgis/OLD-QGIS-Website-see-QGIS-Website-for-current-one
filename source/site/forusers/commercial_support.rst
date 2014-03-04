@@ -136,16 +136,6 @@ expertise.
 
 ----
 
-.. |Dr.-Ing. Claas Leiner| image:: /static/site/about/images/logo_Claas_Leiner.png
-   :width: 150 px
-
-|Dr.-Ing. Claas Leiner| `Praxis f. Geodatenmanagement und freie Geoinformationssysteme <http://www.eschenlaub.de>`_ bietet 
-Schulungen, Dienstleistungen und Support rund um die freien Geoinformationssysteme 
-QGIS, GRASS, Saga, Postgis, GDAL/OGR sowie Geodatenmanagement, -analysen und Kartograpie.
-Vorortschulungen uns Telefonsupport in deutscher Sprache, Dr.-Ing. Claas leiner, Kassel, Germany
-
-----
-
 .. |gaia3d| image:: /static/site/about/images/gaia3d.png
    :width: 150 px
 
@@ -241,6 +231,16 @@ services using the Open Data Kit / KoBo Toolbox software stack.
 is a small GIS Consulting firm located in the Southeastern United States. We
 provide Geospatial services such as data conversion, ESRI and FOSS4G software
 support, cartography, and data analysis.
+
+----
+
+.. |Dr.-Ing. Claas Leiner| image:: /static/site/about/images/logo_Claas_Leiner.png
+   :width: 150 px
+
+|Dr.-Ing. Claas Leiner| `Praxis f. Geodatenmanagement und freie Geoinformationssysteme <http://www.eschenlaub.de>`_ 
+provides training, services and support around the free geographic information systems QGIS, GRASS, Saga, PostGIS, 
+GDAL / OGR, and spatial data management, analysis and Kartograpie. 
+Subdivision training and telephone support in German language, Dr.-Ing. Claas Leiner, Kassel, Germany
 
 ----
 
