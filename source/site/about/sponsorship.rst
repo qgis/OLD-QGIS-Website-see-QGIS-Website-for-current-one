@@ -74,10 +74,19 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 150 px
 
 
+----
+
+|bronze| |claasleinert|
+
+`www.eschenlaub.de <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2015)
+
+.. |claasleinert| image:: /static/site/about/images/claas_leinert.png
+..   :width: 150 px
+
+
 List of past sponsors
 ---------------------
 
-----
 
 .. image:: /static/site/about/images/gfoss.png
    :width: 150 px
