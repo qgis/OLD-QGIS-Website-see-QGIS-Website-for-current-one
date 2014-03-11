@@ -74,10 +74,19 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 150 px
 
 
+----
+
+|bronze| |claasleinert|
+
+`www.eschenlaub.de <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2015)
+
+.. |claasleinert| image:: /static/site/about/images/claas_leinert.png
+..   :width: 150 px
+
+
 List of past sponsors
 ---------------------
 
-----
 
 .. image:: /static/site/about/images/gfoss.png
    :width: 150 px
@@ -281,6 +290,7 @@ bank account rather than PayPal.
 * Geoff Jones
 * Geoff Oxsen
 * George Smith
+* George Tom
 * Gerald Bond
 * Gérald Fringeli
 * Gerhard Spieles
@@ -380,6 +390,7 @@ bank account rather than PayPal.
 * Mikhail Sivakov
 * Mikko Suonio
 * Mohamed Al Merri
+* Mohamed Kamal
 * Moshe Dr. Shirav
 * Murray Swanson
 * Nelson Silva
@@ -397,6 +408,7 @@ bank account rather than PayPal.
 * Otto Dassau
 * Pablo Torres Carreira
 * Paolo Cavallini
+* Paolo Corti
 * Paolo Livio Craveri
 * Paul Hignett
 * Patti Giuseppe
