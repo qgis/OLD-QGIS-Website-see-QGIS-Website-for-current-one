@@ -290,6 +290,7 @@ bank account rather than PayPal.
 * Geoff Jones
 * Geoff Oxsen
 * George Smith
+* George Tom
 * Gerald Bond
 * Gérald Fringeli
 * Gerhard Spieles
@@ -389,6 +390,7 @@ bank account rather than PayPal.
 * Mikhail Sivakov
 * Mikko Suonio
 * Mohamed Al Merri
+* Mohamed Kamal
 * Moshe Dr. Shirav
 * Murray Swanson
 * Nelson Silva
@@ -406,6 +408,7 @@ bank account rather than PayPal.
 * Otto Dassau
 * Pablo Torres Carreira
 * Paolo Cavallini
+* Paolo Corti
 * Paolo Livio Craveri
 * Paul Hignett
 * Patti Giuseppe
