@@ -46,7 +46,7 @@ training, and commercial support for QGIS, GRASS, GDAL/OGR, and PostgreSQL/PostG
 ----
 
 .. |gbd-consult| image:: /static/site/about/images/gbd-consult.png
-   :width: 200 px
+   :width: 158 px
 
 |gbd-consult| `Geoinformatikbüro Dassau <http://www.gbd-consult.de/>`_ (based in Düsseldorf,
 Germany) provides commercial consulting, training, support and programing for QGIS, GRASS
