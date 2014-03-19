@@ -394,6 +394,7 @@ bank account rather than PayPal.
 * Moshe Dr. Shirav
 * Murray Swanson
 * Nelson Silva
+* Niccolò Marchi
 * Niccolo Rigacci
 * Nikita Mozgunov
 * Nikolaos Alexandris
