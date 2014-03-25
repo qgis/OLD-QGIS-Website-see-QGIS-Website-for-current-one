@@ -315,6 +315,7 @@ bank account rather than PayPal.
 * Henry Colomb
 * Hiroshi Kawakami
 * Hiroto Okayama
+* Horst Machguth
 * Howard Frederick
 * Hugo Rubio
 * Ian Allan
@@ -331,6 +332,7 @@ bank account rather than PayPal.
 * Jaroslaw Kowalczyk
 * Jason Jorgenson
 * Jean Denis Giguère
+* Jean Francois Mas Caussel
 * Jean Roc Morreale
 * Jean Sébastien Dehecq
 * Jesus Aguilera Rubio
