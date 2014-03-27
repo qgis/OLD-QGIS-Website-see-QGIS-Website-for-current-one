@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2014-02-26 21:03+0000\n"
-"Last-Translator: jefi <jef@norbit.de>\n"
+"PO-Revision-Date: 2014-03-03 06:37+0000\n"
+"Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -72,8 +72,8 @@ msgid ""
 msgstr "Es gibt mehrere QGIS-Mailinglist, einen IRC-Kanal, Foren und Benutzergruppen von denen Sie Hilfe von Mitbenutzerns und Entwicklern erhalten oder sich über aktuelle Projektereignisse auf dem Laufenden halten können.  Sie können diese Listen gerne abonnieren. Bitte beteiligen Sie sich an der Liste mit dem Beantworten von Fragen und lassen Sie andere an Ihren Erfahrungen teilhaben. Wie haben auch eine Website auf der die Mailinglisten durchsucht werden können."
 
 #: ../../themes/qgis-theme/getinvolved_index.html:61
-#: ../../themes/qgis-theme/docs_index.html:56
 #: ../../themes/qgis-theme/getinvolved_donations.html:60
+#: ../../themes/qgis-theme/docs_index.html:56
 msgid "List of QGIS Support Channels"
 msgstr "Listen von QGIS-Supportkanälen"
 
@@ -137,10 +137,10 @@ msgid "Help Support the Project Financially"
 msgstr "Das Projekt finanziell unterstützen"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:160
-#: ../../themes/qgis-theme/about_index.html:147
-#: ../../themes/qgis-theme/docs_index.html:121
 #: ../../themes/qgis-theme/getinvolved_donations.html:131
+#: ../../themes/qgis-theme/about_index.html:147
 #: ../../themes/qgis-theme/forusers_index.html:210
+#: ../../themes/qgis-theme/docs_index.html:121
 msgid "Back to Top"
 msgstr "Zurück nach Oben"
 
@@ -211,8 +211,8 @@ msgstr "Desktop-Schnellinstallation"
 msgid "and select"
 msgstr "und wählen dann"
 
-#: ../../themes/qgis-theme/forusers_download.html:74
 #: ../../themes/qgis-theme/index.html:3
+#: ../../themes/qgis-theme/forusers_download.html:74
 msgid "QGIS"
 msgstr "QGIS"
 
@@ -468,8 +468,8 @@ msgstr "Beginnen"
 msgid "Download and Install QGIS then follow the Quickstart."
 msgstr "QGIS herunterladen, Installieren und dann dem Schnellstart folgen."
 
-#: ../../themes/qgis-theme/index.html:115
 #: ../../themes/qgis-theme/page.html:133
+#: ../../themes/qgis-theme/index.html:115
 msgid "Get Involved"
 msgstr "Sich beteiligen"
 
@@ -549,8 +549,8 @@ msgstr "QGIS herunterladen"
 msgid "Get Plugins"
 msgstr "Erweiterungen bekommen"
 
-#: ../../themes/qgis-theme/docs_index.html:7
 #: ../../themes/qgis-theme/forusers_index.html:102
+#: ../../themes/qgis-theme/docs_index.html:7
 msgid "QGIS Documentation"
 msgstr "QGIS-Dokumentation"
 
@@ -992,7 +992,6 @@ msgstr "Dokumentations-Richtlinien"
 msgid "A gentle introduction in GIS"
 msgstr "Eine sanften Einführung in GIS"
 
-#: ../../themes/qgis-theme/docs_index.html:54
 #: ../../themes/qgis-theme/docs_index.html:80
 #: ../../themes/qgis-theme/docs_index.html:100
 msgid "PDF versions of all above, eg for printing are available here: "
@@ -1003,17 +1002,8 @@ msgid "http://docs.qgis.org/2.0/pdf"
 msgstr "http://docs.qgis.org/2.0/pdf"
 
 #: ../../themes/qgis-theme/docs_index.html:55
-msgid ""
-"Documentation for QGIS 2.0 is part of the website. But also availabe at: "
-msgstr "Dokumentation für QGIS 2.0 ist Teil dieser Webseite und zusätzlich erhältlich unter:"
-
-#: ../../themes/qgis-theme/docs_index.html:55
 msgid "http://docs.qgis.org/2.0"
 msgstr "http://docs.qgis.org/2.0"
-
-#: ../../themes/qgis-theme/docs_index.html:75
-msgid "We keep a copy of the documentation of QGIS 1.8 around here: "
-msgstr "Wir halten eine Kopie der QGIS-1.8-Dokumentation vor unter:"
 
 #: ../../themes/qgis-theme/docs_index.html:75
 msgid "http://docs.qgis.org/1.8"
@@ -1175,6 +1165,46 @@ msgid ""
 "QGIS plugin architecture allows many new features/functions to be easily "
 "added to the application. "
 msgstr "QGIS hat eine Erweiterungsarchitektur. Damit können der Anwendung einfach viele neue Funktionen hinzugefügt werden."
+
+#: ../../themes/qgis-theme/docs_index.html:49
+msgid "Read the"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:50
+msgid "Do the QGIS training:"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:51
+msgid "Go Python, study the"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:52
+msgid "Learn how to write docs in"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:53
+msgid "Intro GIS in"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:54
+msgid "PDF versions of all above, eg for printing are available here:"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:55
+msgid ""
+"Documentation for QGIS 2.0 is part of the website. But also availabe at:"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:75
+msgid "We keep a copy of the documentation of QGIS 1.8 around here:"
+msgstr ""
+
+#~ msgid ""
+#~ "Documentation for QGIS 2.0 is part of the website. But also availabe at: "
+#~ msgstr ""
+
+#~ msgid "We keep a copy of the documentation of QGIS 1.8 around here: "
+#~ msgstr ""
 
 #~ msgid "QGIS Core Development"
 #~ msgstr ""

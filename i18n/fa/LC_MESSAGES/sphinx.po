@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2014-02-26 20:34+0000\n"
+"PO-Revision-Date: 2014-03-03 06:37+0000\n"
 "Last-Translator: rduivenvoorde <richard@duif.net>\n"
 "Language-Team: Persian (http://www.transifex.com/projects/p/qgis-website/language/fa/)\n"
 "MIME-Version: 1.0\n"
@@ -70,8 +70,8 @@ msgid ""
 msgstr "شما با کمک گرفتن از لیست ها ، کانالها و انجمن ها گروهی کاربران کوانتم جی ای اس،توسعه دهندگان و همکاران می توانید در جریان رویدادها مربوط به سیستم قرار گرفته و همچنین راهنمائی بگیرید جهت استفاده از سیستم. شما می توانید در هر یک از لیست های مورد نیاز عضو بشوید که ما به شما خوش آمد می گوئیم ، امکان پرسش و پاسخ و به اشتراک گذاری تجربیات در این لیست ها برای شما وجود دارد، در نهایت آرشیوی از لیست های پستی برای جستجو مطالب مورد بحث نیز وجود دارد."
 
 #: ../../themes/qgis-theme/getinvolved_index.html:61
-#: ../../themes/qgis-theme/docs_index.html:56
 #: ../../themes/qgis-theme/getinvolved_donations.html:60
+#: ../../themes/qgis-theme/docs_index.html:56
 msgid "List of QGIS Support Channels"
 msgstr "لیست مجراهای پشتیبانی کوانتم جی ای اس"
 
@@ -135,10 +135,10 @@ msgid "Help Support the Project Financially"
 msgstr "حمایت مالی از پروژه"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:160
-#: ../../themes/qgis-theme/about_index.html:147
-#: ../../themes/qgis-theme/docs_index.html:121
 #: ../../themes/qgis-theme/getinvolved_donations.html:131
+#: ../../themes/qgis-theme/about_index.html:147
 #: ../../themes/qgis-theme/forusers_index.html:210
+#: ../../themes/qgis-theme/docs_index.html:121
 msgid "Back to Top"
 msgstr "برگشت به بالای صفحه"
 
@@ -209,8 +209,8 @@ msgstr "نصب اکسپرس دسکتاپ"
 msgid "and select"
 msgstr "و انتخاب"
 
-#: ../../themes/qgis-theme/forusers_download.html:74
 #: ../../themes/qgis-theme/index.html:3
+#: ../../themes/qgis-theme/forusers_download.html:74
 msgid "QGIS"
 msgstr "کوانتم جی ای اس"
 
@@ -466,8 +466,8 @@ msgstr "شروع به کار"
 msgid "Download and Install QGIS then follow the Quickstart."
 msgstr "دانلود و نصب کوانتم جی ای اس و شروع سریع کار با نرم افزار"
 
-#: ../../themes/qgis-theme/index.html:115
 #: ../../themes/qgis-theme/page.html:133
+#: ../../themes/qgis-theme/index.html:115
 msgid "Get Involved"
 msgstr "ارتباط برقرار کردن"
 
@@ -547,8 +547,8 @@ msgstr "دانلود کوانتم جی ای اس"
 msgid "Get Plugins"
 msgstr "گرفتن پلاگین ها"
 
-#: ../../themes/qgis-theme/docs_index.html:7
 #: ../../themes/qgis-theme/forusers_index.html:102
+#: ../../themes/qgis-theme/docs_index.html:7
 msgid "QGIS Documentation"
 msgstr "مستندات کوانتم جی ای اس"
 
@@ -990,7 +990,6 @@ msgstr ""
 msgid "A gentle introduction in GIS"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:54
 #: ../../themes/qgis-theme/docs_index.html:80
 #: ../../themes/qgis-theme/docs_index.html:100
 msgid "PDF versions of all above, eg for printing are available here: "
@@ -1001,17 +1000,8 @@ msgid "http://docs.qgis.org/2.0/pdf"
 msgstr "http://docs.qgis.org/2.0/pdf"
 
 #: ../../themes/qgis-theme/docs_index.html:55
-msgid ""
-"Documentation for QGIS 2.0 is part of the website. But also availabe at: "
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:55
 msgid "http://docs.qgis.org/2.0"
 msgstr "http://docs.qgis.org/2.0"
-
-#: ../../themes/qgis-theme/docs_index.html:75
-msgid "We keep a copy of the documentation of QGIS 1.8 around here: "
-msgstr ""
 
 #: ../../themes/qgis-theme/docs_index.html:75
 msgid "http://docs.qgis.org/1.8"
@@ -1173,6 +1163,46 @@ msgid ""
 "QGIS plugin architecture allows many new features/functions to be easily "
 "added to the application. "
 msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:49
+msgid "Read the"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:50
+msgid "Do the QGIS training:"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:51
+msgid "Go Python, study the"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:52
+msgid "Learn how to write docs in"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:53
+msgid "Intro GIS in"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:54
+msgid "PDF versions of all above, eg for printing are available here:"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:55
+msgid ""
+"Documentation for QGIS 2.0 is part of the website. But also availabe at:"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:75
+msgid "We keep a copy of the documentation of QGIS 1.8 around here:"
+msgstr ""
+
+#~ msgid ""
+#~ "Documentation for QGIS 2.0 is part of the website. But also availabe at: "
+#~ msgstr ""
+
+#~ msgid "We keep a copy of the documentation of QGIS 1.8 around here: "
+#~ msgstr ""
 
 #~ msgid "QGIS Core Development"
 #~ msgstr ""
