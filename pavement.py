@@ -67,9 +67,9 @@ To exit the environment:
    $ deactivate
 
 To enter the virtual environment on Windows, run:
-   $ virtualenv/Scripts/activate.bat
+   $ virtualenv\Scripts\activate
 To exit the environment:
-   $ virtualenv/Scripts/deactivate.bat
+   $ deactivate
 """
 
 @task
