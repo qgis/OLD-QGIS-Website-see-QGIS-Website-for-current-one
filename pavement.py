@@ -153,9 +153,9 @@ def setup():
     staticdir = os.path.join(options.sphinx.sourcedir, "static")
     os.mkdir(staticdir)
     # copy english site resources to static dir
+    english_site_resources = os.path.join(options.sphinx.resourcedir, "en", "site")
     if os.path.exists(english_site_resources):
-        english_site_resources = os.path.join(options.sphinx.resourcedir, "en", "site")
-    distutils.dir_util.copy_tree(english_site_resources, os.path.join(staticdir, "site"))
+        distutils.dir_util.copy_tree(english_site_resources, os.path.join(staticdir, "site"))
     # copy (optional) localized site resources in static dir
     translated_site_resources = os.path.join(options.sphinx.resourcedir, options.setup.lang, "site")
     if os.path.exists(translated_site_resources):
