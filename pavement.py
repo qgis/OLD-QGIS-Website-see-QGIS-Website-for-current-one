@@ -9,7 +9,6 @@ import distutils.core
 
 setup(
     name="QGIS-Website",
-    #packages=['mycool'],
     version="1.0",
     url="http://qgis.org/",
     author="Richard Duivenvoorde",
@@ -18,22 +17,26 @@ setup(
 
 
 options(
-    setupstatic=Bunch(
+    setup=Bunch(
         lang='en',
     ),
-    html=Bunch(
+    clean=Bunch(
+        lang='en',
+    ),
+    sphinx=Bunch(
         sphinxbuildbin='sphinx-build',
         builder='html',
-        builddir="build",
-        sourcedir="source",
-        resourcedir="resources",
-        conf="source/conf.py"
+        builddir='build',
+        sourcedir='source',
+        i18ndir='i18n',
+        resourcedir='resources',
+        conf='source/conf.py'
     ),
     sphinxintl=Bunch(
         sphinxintlbin='sphinx-intl'
     ),
     virtualenv=Bunch(
-        script_name="bootstrap.py",
+        script_name='bootstrap.py',
         dest_dir="virtualenv",
         packages_to_install = [
             # Project dependencies
@@ -84,6 +87,28 @@ def virtual_env_init():
     print INSTRUCTIONS
 
 
+@task
+@cmdopts([
+    ('lang=', 'l', 'Optional language param (iso code, like "nl") to build for. If ommitted all languages in i18n dir will be build')
+])
+def clean(options):
+    # all static stuff which is copied in source
+    staticdir = os.path.join(options.sphinx.sourcedir, "static")
+    if os.path.exists(staticdir):
+        shutil.rmtree(staticdir)
+    # something in i18n/pot dir creates havoc when using gettext: remove it
+    potdir = os.path.join(options.sphinx.i18ndir, "pot")
+    if os.path.exists(potdir):
+        shutil.rmtree(potdir)
+
+
+# rm -rf i18n/*/LC_MESSAGES/docs/*/
+# rm -rf output/html/en/*
+# rm -f source/docs_conf.py*
+# rm -rf source/docs/*/
+# # all .mo files
+# find i18n/*/LC_MESSAGES/ -type f -name '*.mo' -delete
+
 # remove all resources from source/static directory
 # copy english resources from resources/en to source/static directory
 # IF we have a localized build (LANG != en) then
@@ -113,47 +138,49 @@ def virtual_env_init():
 
 @task
 @cmdopts([
-    ('lang=', 'l', 'Optional language param (iso code, like "nl") to build for. If ommitted all languages in i18n dir will be build')
+    ('lang=', 'l', 'Language param (iso code, like "nl"), defaults to "en"')
 ])
-def setupstatic():
+def setup():
     """Setting up static resources (like images).
     Starting with the english version and overwriting with localized
     resources if available.
     """
-    # remove static (images) from source/static dir
-    staticdir = os.path.join(options.html.sourcedir, "static")
-    if os.path.exists(staticdir):
-        shutil.rmtree(staticdir)
+    # first clean for this language
+    options.clean.lang = options.setup.lang
+    clean()
+
     # create an empty static dir again
+    staticdir = os.path.join(options.sphinx.sourcedir, "static")
     os.mkdir(staticdir)
-    # copy english resources in static dir
-    english_site_resources = os.path.join(options.html.resourcedir, "en", "site")
+    # copy english site resources to static dir
+    if os.path.exists(english_site_resources):
+        english_site_resources = os.path.join(options.sphinx.resourcedir, "en", "site")
     distutils.dir_util.copy_tree(english_site_resources, os.path.join(staticdir, "site"))
-    # copy (optional) localized resource in static dir
-    translated_site_resources = os.path.join(options.html.resourcedir, options.setupstatic.lang, "site")
+    # copy (optional) localized site resources in static dir
+    translated_site_resources = os.path.join(options.sphinx.resourcedir, options.setup.lang, "site")
     if os.path.exists(translated_site_resources):
         distutils.dir_util.copy_tree(translated_site_resources, os.path.join(staticdir, "site"))
     # historically the images for the docs sub project are not in a separate 'docs' folder
     # that is why we copy docs/* into root instead of docs to docs
-    english_docs_resources = os.path.join(options.html.resourcedir, "en", "docs")
+    english_docs_resources = os.path.join(options.sphinx.resourcedir, "en", "docs")
     if os.path.exists(english_docs_resources):
         distutils.dir_util.copy_tree(english_docs_resources, staticdir)
-    translated_docs_resources = os.path.join(options.html.resourcedir, options.setupstatic.lang, "docs")
+    translated_docs_resources = os.path.join(options.sphinx.resourcedir, options.setup.lang, "docs")
     if os.path.exists(translated_docs_resources):
         distutils.dir_util.copy_tree(translated_docs_resources, staticdir)
 
     # we also need to set the proper sphinx binaries
     if currentos == 'win32':
         options.sphinxintl.sphinxintlbin = 'virtualenv\Scripts\sphinx-intl.exe' 
-        options.html.sphinxbuildbin = 'virtualenv\Scripts\sphinx-build.exe'
+        options.sphinx.sphinxbuildbin = 'virtualenv\Scripts\sphinx-build.exe'
 
 
 
 @task
 @cmdopts([
     ('lang=', 'l', 'Optional language param (iso code, like "nl") to build for. If ommitted all languages in i18n dir will be build')
-], share_with=['setupstatic'])
-@needs(['setupstatic'])
+], share_with=['setup'])
+@needs(['setup'])
 @no_help
 def sphinxintl(options):
     """Generate .mo files from .po files of this language."""
@@ -161,7 +188,7 @@ def sphinxintl(options):
     # sphinx-intl uses 'locale-dir' from conf.py
     # -c = pointing to conf.py
     # -l = language
-    sh('%s build -l %s -c %s' % (options.sphinxintl.sphinxintlbin, options.setupstatic.lang, options.html.conf))
+    sh('%s build -l %s -c %s' % (options.sphinxintl.sphinxintlbin, options.setup.lang, options.sphinx.conf))
 
 
 @task
@@ -169,7 +196,7 @@ def sphinxintl(options):
 @cmdopts([
     ('lang=', 'l', 'Optional language param (defaults to "en") to build for.'),
     ('builder=', 'b', 'Sphinx builder to use (defaults to "html").')
-], share_with=['setupstatic'])
+], share_with=['setup'])
 def html(options):
     """Generate html in output dir."""
     #print "Running sphinx-build"
@@ -180,12 +207,11 @@ def html(options):
     # -A = pass a value into the templates, for HTML builder
     # sphinx-build -b html -d output/html/doctrees  -D language=en -A language=en source output/html/en
     sh('%s -b %s -d %s -D language=%s -A language=%s, %s %s' % ( \
-        options.html.sphinxbuildbin,      \
-        options.html.builder,             \
-        os.path.join(options.html.builddir, options.html.builder, "doctrees"), \
-        options.setupstatic.lang,         \
-        options.setupstatic.lang,         \
-        options.html.sourcedir,   \
-        os.path.join(options.html.builddir, options.html.builder, options.setupstatic.lang) ))
-
+        options.sphinx.sphinxbuildbin,      \
+        options.sphinx.builder,             \
+        os.path.join(options.sphinx.builddir, options.sphinx.builder, "doctrees"), \
+        options.setup.lang,         \
+        options.setup.lang,         \
+        options.sphinx.sourcedir,   \
+        os.path.join(options.sphinx.builddir, options.sphinx.builder, options.setup.lang) ))
 
