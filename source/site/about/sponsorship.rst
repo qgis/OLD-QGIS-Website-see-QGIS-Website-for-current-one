@@ -367,6 +367,7 @@ bank account rather than PayPal.
 * Luca Casagrande
 * Luca Manganelli
 * Luca Mestroni
+* Luis Fermin Turiel Peredo
 * Lutz Bornschein
 * M de Bresser
 * Maciej Sieczka
