@@ -10,10 +10,10 @@ Most sources are in source/site. Only frontpage and landingpages are in theme/qg
 Styling is in theme/qgis-theme. This theme is used for website and documentation builds. 
 The Website version is the canonical one.
 
-Building the website
---------------------
+Building the website using Make
+-------------------------------
 
-Building is only tested on Linux systems using make.
+Building is only tested on Linux systems using make, on windows we now started a Paver setup (seel below)
 
 To be able to run localisation targets you will need Sphinx 1.2b3 which comes with pip. 
 Sphinx coming with most distro's is just 1.1.3. You will get an gettext error with those.
@@ -73,6 +73,49 @@ To add a new language (the scripts will need some directory structure):
 
 See the website in action: http://www.qgis.org
 
+
+Building the website using Paver
+--------------------------------
+
+Paver is a python based Make-like tool (http://paver.github.io/paver/)
+
+Paver can be used on Linux and Windows.
+
+There are two scripts available:
+
+- bootstrap.py (for setting up the python related stuff)
+- pavement.py (the config file for Paver)
+
+General use:
+
+    # first let bootstrap.py install all stuff    
+    python bootstrap.py
+    
+    # if the script is complaining about easysetup missing:
+    # download: https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py
+    # and install that first:
+    python ez_setup.py
+
+    # after succesfull running of bootstrap.py you have all wheels on place to
+    # 1) create a virtual environment with all Sphinx related python machinery
+    # 2) run the actual script to build the website
+    
+    # to go into the virtual environment:
+    # on Windows:
+    virtualenv\Scripts\activate
+    # on Linux:
+    source virtualenv/bin/activate
+    
+    # now build (only website, no included Documentation yet):
+    # eg english only:
+    paver html
+    # or the dutch version:
+    paver html -l nl
+    # german:
+    paver html -l de
+    
+    
+    
 Styling the website
 -------------------
 
