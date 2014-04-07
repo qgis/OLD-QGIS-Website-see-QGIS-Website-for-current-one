@@ -322,8 +322,9 @@ bank account rather than PayPal.
 * Ivan Marchesini
 * Jake Maier
 * Jacopo Ognibene
-* James Larsen
 * James Crone
+* James Goetz
+* James Larsen
 * Jan Militzer
 * Janne Jakob Fleischer
 * Jaroslaw Kowalczyk
