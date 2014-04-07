@@ -271,6 +271,7 @@ bank account rather than PayPal.
 * Douglas Lane
 * Dušan Pavlík
 * Ecotrust
+* Els Keunen
 * Emanuele Zamprogno
 * Erik Haß
 * Erwin Bauer
@@ -302,6 +303,7 @@ bank account rather than PayPal.
 * Glasic S.r.l.
 * Grant Fisher
 * Grant Ogilvie
+* GreeniX Computer
 * Gregorio Díaz-Marta Mateos
 * Guenther Moeller
 * Guillaume Raspini
@@ -313,6 +315,7 @@ bank account rather than PayPal.
 * Henry Colomb
 * Hiroshi Kawakami
 * Hiroto Okayama
+* Horst Machguth
 * Howard Frederick
 * Hugo Rubio
 * Ian Allan
@@ -330,9 +333,11 @@ bank account rather than PayPal.
 * Jaroslaw Kowalczyk
 * Jason Jorgenson
 * Jean Denis Giguère
+* Jean Francois Mas Caussel
 * Jean Roc Morreale
 * Jean Sébastien Dehecq
 * Jesus Aguilera Rubio
+* Jesús Gómez Fernández
 * Jim Litts
 * Jim Mann
 * Jiří Bělohlávek
@@ -363,6 +368,7 @@ bank account rather than PayPal.
 * Luca Casagrande
 * Luca Manganelli
 * Luca Mestroni
+* Luis Fermin Turiel Peredo
 * Lutz Bornschein
 * M de Bresser
 * Maciej Sieczka

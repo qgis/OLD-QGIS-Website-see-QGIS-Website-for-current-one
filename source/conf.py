@@ -73,7 +73,7 @@ release = '2.2'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['../output', "../i18n", "../resources", "../scripts", "../ext"]
+exclude_patterns = ['../output', "../i18n", "../resources", "../scripts", "../ext", "../virtualenv"]
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None
@@ -137,7 +137,7 @@ html_static_path = ['../themes/qgis-theme/static']
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-html_last_updated_fmt = '%k:%M %b %d, %Y'
+html_last_updated_fmt = '%H:%M %b %d, %Y'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
@@ -201,14 +201,14 @@ htmlhelp_basename = 'QGISWebsitedoc'
 #.. |updatedisclaimer| replace:: :disclaimer:`DISCLAIMER: This section of the user guide has not yet been updated for QGIS 2.0`
 #"""
 #
-#docs_rst_epilog = ""
-#if "rst_epilog" in locals():
-#    docs_rst_epilog = rst_epilog
-#
-#rst_epilog = docs_rst_epilog + """
-#.. |checkbox| image:: /static/site/common/checkbox.png
-#.. |checkbox_unchecked| image:: /static/site/common/checkbox_unchecked.png
-#"""
+docs_rst_epilog = ""
+if "rst_epilog" in locals():
+    docs_rst_epilog = rst_epilog
+
+rst_epilog = docs_rst_epilog + """
+.. |checkbox| image:: /static/site/common/checkbox.png
+.. |checkbox_unchecked| image:: /static/site/common/checkbox_unchecked.png
+"""
 
 # -- Options for LaTeX output --------------------------------------------------
 

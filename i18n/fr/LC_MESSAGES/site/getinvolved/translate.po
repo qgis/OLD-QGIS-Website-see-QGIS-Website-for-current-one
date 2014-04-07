@@ -1,10 +1,12 @@
 # 
 # Translators:
+# tneskovic <antoine_ecuador@yahoo.fr>, 2014
 # DelazJ <delazj@gmail.com>, 2013
 # barb4papa <jeremiecornet@gmail.com>, 2013
 # julien2291 <julien.francois1@hotmail.fr>, 2013
 # MarieSilvestre <marie.silvestre@gmail.com>, 2014
 # RobinP <robin@georezo.net>, 2013
+# DelazJ <delazj@gmail.com>, 2014
 # simogeo <simon.georget@gmail.com>, 2013
 # thibault.sylvain <sylvain-j.thibault@orne.gouv.fr>, 2013
 msgid ""
@@ -12,8 +14,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-01-09 13:03+0000\n"
-"Last-Translator: MarieSilvestre <marie.silvestre@gmail.com>\n"
+"PO-Revision-Date: 2014-03-08 21:15+0000\n"
+"Last-Translator: DelazJ <delazj@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -211,7 +213,7 @@ msgstr "Si vous souhaitez contribuer à la traduction d'une langue déjà entam�
 #: ../../source/site/getinvolved/translate.rst:45
 msgid ""
 "The other available mailingslist can be found at :ref:`QGIS-mailinglists`."
-msgstr ""
+msgstr "Les autres listes de diffusion disponibles peuvent être consultées sur :ref:`QGIS-mailinglists`."
 
 #: ../../source/site/getinvolved/translate.rst:89
 msgid ""
@@ -222,21 +224,21 @@ msgid ""
 " called qgis_de.ts. To further specify the language it is sometimes "
 "necessary to have two language codes defined but we'd like to avoid this as "
 "much as we can."
-msgstr ""
+msgstr "D'habitude, il suffit de télécharger le fichier .ts depuis le `dépôt github <https://github.com/qgis/Quantum-GIS/tree/master/i18n/>`_ Recherchez le code de votre langue, ajouté a la fin du nom du fichier : qgis_*.ts, où * désigne le code de langue. Par exemple, le fichier de traduction en allemand est appelé qgis_de.ts. Pour spécifier plus précisément la langue, il est parfois nécessaire d'avoir deux codes de langue définis, mais nous voudrions éviter cela autant que possible."
 
 #: ../../source/site/getinvolved/translate.rst:134
 msgid ""
 "Description of how you can contribute in the translation of the "
 "Documentation are available in the README.md file which gets displayed on "
 "https://github.com/qgis/QGIS-Documentation"
-msgstr ""
+msgstr "Une description de la manière dont vous pouvez contribuer à la traduction de la Documentation est disponible dans le fichier README.md qui est consultable sur https://github.com/qgis/QGIS-Documentation"
 
 #: ../../source/site/getinvolved/translate.rst:142
 msgid ""
 "Description of how you can contribute in the translation of the Webpage are "
 "available in the README.md file which gets displayed on "
 "https://github.com/qgis/QGIS-Website"
-msgstr ""
+msgstr "Une description de la manière dont vous pouvez contribuer à la traduction du site internet est disponible dans le fichier README.md qui est consultable sur https://github.com/qgis/QGIS-Website"
 
 #~ msgid ""
 #~ "You will also find the progress of the translation there (but remember in "
