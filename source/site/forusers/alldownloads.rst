@@ -8,17 +8,6 @@ How to obtain QGIS?
 
 QGIS is freely available on Windows, Linux, MacOS X, BSD, and Android.
 
-.. warning:: QGIS testing versions are provided for some platforms in
-   addition to the QGIS stable version.
-   QGIS testing contains unreleased software that is currently being worked
-   on.
-   As such they are unsupported and only provided for testing purposes to
-   early adopters to check if bugs have been resolved and that no new bugs
-   have been introduced.
-   At any given time it may not work, or may do bad things to your data. Use
-   at your own risk.
-   You have been warned!
-
 Windows
 =======
 
@@ -54,8 +43,8 @@ skipped initially, or installed only when you need them.
 
 Below you find instructions to install per distribution.
 For most distro's there are instructions to install QGIS stable and
-instructions to install a cutting edge QGIS testing build (but mind the
-warning above!).
+instructions to install a cutting edge QGIS testing build (note the
+warning on the bottom of this page!).
 
 Ubuntu
 ------
@@ -119,6 +108,8 @@ from your sources.list and upgrade updated dependencies by typing::
 
 QGIS testing
 ............
+
+Note the warning on the bottom of this page!
 
 On plain Ubuntu:
 ^^^^^^^^^^^^^^^^
@@ -236,6 +227,8 @@ type::
 QGIS testing
 ............
 
+Note the warning on the bottom of this page!
+
 Nightly builds of QGIS testing are available from following repository (i386
 and amd64):
 
@@ -288,6 +281,8 @@ There is an alternative repository for QGIS 2.2 on Fedora 19 and Fedora 20
 QGIS testing
 ............
 
+Note the warning on the bottom of this page!
+
 A newer version might be available in the testing repository -- usually around
 one week::
 
@@ -334,6 +329,8 @@ All packages include GRASS and Python support.
 
 QGIS testing
 ............
+
+Note the warning on the bottom of this page!
 
 A regularly updated development package from qgis master called qgis-master
 is available for 12.2, 12.3, 13.1, Factory and Tumbleweed (32 and 64bit).
@@ -406,6 +403,8 @@ QGIS download page on KyngChaos http://www.kyngchaos.com/software/qgis
 QGIS testing
 ------------
 
+Note the warning on the bottom of this page!
+
 QGIS testing builds (Nightly build) at http://qgis.dakotacarto.com are
 provided by Dakota Cartography.
 
@@ -424,6 +423,8 @@ To compile QGIS from binary packages type
 QGIS testing
 ------------
 
+Note the warning on the bottom of this page!
+
 To compile QGIS from sources in FreeBSD you need to type
 ::
 
@@ -435,3 +436,15 @@ Android
 
 Alpha and nightly builds as well as further documentation can be obtained at
 http://android.qgis.org
+
+.. warning:: QGIS testing versions are provided for some platforms in
+   addition to the QGIS stable version.
+   QGIS testing contains unreleased software that is currently being worked
+   on.
+   As such they are unsupported and only provided for testing purposes to
+   early adopters to check if bugs have been resolved and that no new bugs
+   have been introduced.
+   At any given time it may not work, or may do bad things to your data. Use
+   at your own risk.
+   You have been warned!
+
