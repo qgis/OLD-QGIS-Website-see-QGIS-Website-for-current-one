@@ -122,8 +122,13 @@ Contributors
 .. |cartoexpert| image:: /static/site/about/images/cartoexpert.gif
    :width: 75 px
 
-|cartoexpert| `Cartoexpert <http://www.cartoexpert.com/index.php/formations/qgis-formation-quantum-gis.html>`_
-(based in France) provides training for QGIS.
+|cartoexpert| `CartoExpert <http://www.cartoexpert.com/index.php/formations/qgis-formation-quantum-gis.html>`_
+based in France) is a geomatics
+competence center offering both national and international services,
+consulting in cartography as well as geographical information systems.
+CartoExpert provide with technical support on QGIS, assistance in
+implementing QGIS within your organization, as well as GIS training on QGIS
+(Initiation, Improvement, workshops, mobile etc).
 
 ----
 
