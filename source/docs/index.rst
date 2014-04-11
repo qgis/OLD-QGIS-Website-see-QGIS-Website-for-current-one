@@ -22,7 +22,7 @@ Documentation for QGIS 2.0
    Documentation Guidelines (how to write the docs)<documentation_guidelines/index>
    A gentle introduction in GIS <gentle_gis_introduction/index>
    PDF versions for printing <http://docs.qgis.org/2.0/pdf>
-   Trainings manual <training_manual/index>
+   Trainings manual <http://docs.qgis.org/2.0/en/docs/training_manual>
 
 .. note::
     If you do not see working links to documentation above, 
@@ -59,7 +59,7 @@ can be found here: http://docs.qgis.org/testing
    Documentation Guidelines (how to write the docs)<http://docs.qgis.org/testing/en/docs/documentation_guidelines>
    A gentle introduction in GIS <http://docs.qgis.org/testing/en/docs/gentle_gis_introduction/>
    PDF versions for printing <http://docs.qgis.org/testing/pdf>
-   Trainings manual <training_manual/index>
+   Trainings manual <http://docs.qgis.org/testing/en/docs/training_manual/>
 
 
 
