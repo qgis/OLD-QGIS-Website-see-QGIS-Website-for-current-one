@@ -352,6 +352,7 @@ bank account rather than PayPal.
 * Julien Villery
 * Julien-Pierre Guilloux
 * Junji Yamakawa
+* Justin Schuetz
 * K Brock Riedell
 * Kanton Solothurn SOGIS
 * Kenton Ngo
@@ -394,6 +395,7 @@ bank account rather than PayPal.
 * Michael Schweizer
 * Michele Beneventi
 * Miguel Fernández Astudillo
+* Miguel Fernandes
 * Mikhail Sivakov
 * Mikko Suonio
 * Mohamed Al Merri
@@ -446,6 +448,7 @@ bank account rather than PayPal.
 * Roberta Benetti
 * Roberto Berchi
 * Roberto Facoetti
+* Rui Pedro Henriques
 * Russel Taylor
 * Russell Rew
 * S A Odell
