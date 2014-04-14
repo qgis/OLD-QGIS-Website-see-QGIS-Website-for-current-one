@@ -220,6 +220,7 @@ bank account rather than PayPal.
 * Alexandre Leroux
 * Amedeo Fadini
 * Anders Skoglund
+* André Barriguinha
 * Andrea Lau
 * Andrea Peri
 * Andreas Fuchs
@@ -395,7 +396,6 @@ bank account rather than PayPal.
 * Michael Schweizer
 * Michele Beneventi
 * Miguel Fernández Astudillo
-* Miguel Fernandes
 * Mikhail Sivakov
 * Mikko Suonio
 * Mohamed Al Merri
