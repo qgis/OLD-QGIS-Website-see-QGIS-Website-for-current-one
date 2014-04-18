@@ -1,6 +1,6 @@
 # 
 # Translators:
-# AlexandreNeto <senhor.neto@gmail.com>, 2013
+# AlexandreNeto <senhor.neto@gmail.com>, 2013-2014
 # dncpax <dncarreira@gmail.com>, 2013
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
 # rphenriques <henriques.rui@gmail.com>, 2013
@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-02-27 19:00+0000\n"
-"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
+"PO-Revision-Date: 2014-04-04 15:19+0000\n"
+"Last-Translator: AlexandreNeto <senhor.neto@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -70,7 +70,7 @@ msgid ""
 "installer is able to install from internet or just download all needed "
 "packages beforehand. The downloaded files are kept in a local directory for "
 "future installations. Steps are::"
-msgstr "O repositório do OSGeo4W contém diversos softwares provenientes de projectos da OSGeo. O QGIS e todas as suas dependências estão incluídas, juntamente com o Python, GRASS, GDAL, etc. O instalador permite instalar pela internet ou transferir todos os pacotes necessários de antemão. Os ficheiros transferidos são mantidos numa directoria local para instalações futuras. Os passos são::"
+msgstr "O repositório do OSGeo4W contém muitos softwares provenientes de projectos da OSGeo. O QGIS e todas as suas dependências estão incluídas, juntamente com Python, GRASS, GDAL, etc. O instalador permite instalar pela internet ou transferir todos os pacotes necessários de antemão. Os ficheiros transferidos são mantidos numa directoria local para instalações futuras. Os passos são::"
 
 #: ../../source/site/forusers/alldownloads.rst:48
 msgid "Linux"
@@ -82,7 +82,7 @@ msgid ""
 "need qgis and qgis-python (to run plugins). Packages like qgis-grass (or "
 "qgis-plugin-grass), qgis-mapserver can be skipped initially, or installed "
 "only when you need them."
-msgstr "A maioria das distribuições de linux separam o QGIS em vários pacotes; provavelmente irá necessitar do qgis e do qgis-python (para executar módulos). Pacotes como o qgis-grass (ou qgis-plugin-grass) ou o qgis-mapserver podem ser ignorados inicialmente, e instalados apenas quando forem necessários."
+msgstr "A maioria das distribuições linux separam o QGIS em vários pacotes; provavelmente irá necessitar do qgis e do qgis-python (para executar módulos). Pacotes como o qgis-grass (ou qgis-plugin-grass) ou o qgis-mapserver podem ser ignorados inicialmente, e instalados apenas quando forem necessários."
 
 #: ../../source/site/forusers/alldownloads.rst:61
 msgid "Ubuntu"
@@ -91,14 +91,14 @@ msgstr "Ubuntu"
 #: ../../source/site/forusers/alldownloads.rst:63
 msgid ""
 "Default Ubuntu software repositories often hold older versions of QGIS."
-msgstr "Os repositórios de software padrão do Ubuntu contêm frequentemente versões mais antigas do QGIS."
+msgstr "Por defeito, os repositórios de software do Ubuntu contêm frequentemente versões mais antigas do QGIS."
 
 #: ../../source/site/forusers/alldownloads.rst:65
 msgid ""
 "To have newer versions, you have to add alternative software repositories, "
 "by adding one of the deb-lines below to your /etc/apt/sources.list file. Or "
 "add these repositories via your favourite Ubuntu software installation GUI."
-msgstr "Para obter versões mais recentes, necessita adicionar repositórios de software alternativos acrescentando uma das linhas deb- abaixo no seu ficheiro /etc/apt/sources.list. Alternativamente, adicione estes repositórios através da sua interface de instalação de software do Ubuntu preferida."
+msgstr "Para obter versões mais recentes, necessita de adicionar repositórios alternativos acrescentando uma das linhas deb- abaixo no seu ficheiro /etc/apt/sources.list. Ou adicione estes repositórios através da sua interface preferida de instalação de software no Ubuntu."
 
 #: ../../source/site/forusers/alldownloads.rst:69
 msgid "Then type::"
@@ -107,7 +107,7 @@ msgstr "De seguida digite::"
 #: ../../source/site/forusers/alldownloads.rst:74
 msgid ""
 "If you want the GRASS plugin make sure to install the optional package::"
-msgstr "Se pretende o módulo GRASS assegure que instala o pacote opcional::"
+msgstr "Se pretender o módulo GRASS assegure-se que instala o pacote opcional::"
 
 #: ../../source/site/forusers/alldownloads.rst:85
 #: ../../source/site/forusers/alldownloads.rst:190
@@ -162,7 +162,7 @@ msgstr "O projeto ubuntugis disponibiliza versões mais recentes de vários paco
 msgid ""
 "If you want to use those packages, remove the http://qgis.org/debian lines "
 "from your sources.list and upgrade updated dependencies by typing::"
-msgstr "Se pretende usar esses pacotes, remova as linhas http://qgis.org/debian do seu ficheiro sources.list e atualize para as depências mais atuais digitando::"
+msgstr "Se pretender usar esses pacotes, remova as linhas http://qgis.org/debian do ficheiro sources.list e actualize para as dependências mais actuais digitando::"
 
 #: ../../source/site/forusers/alldownloads.rst:121
 #: ../../source/site/forusers/alldownloads.rst:237
