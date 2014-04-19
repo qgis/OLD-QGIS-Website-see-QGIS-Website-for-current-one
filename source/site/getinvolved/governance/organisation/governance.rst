@@ -125,8 +125,8 @@ code added into the git code repository.
 
 .. _community-resources:
 
-Community Resources¶
---------------------
+Community Resources
+-------------------
 
 Current Community Team Lead:
 Otto Dassau <dassau[at]gbd-consult.de>
