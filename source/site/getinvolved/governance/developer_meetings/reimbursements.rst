@@ -2,7 +2,7 @@
 Reimbursements for Developer Meetings
 *************************************
 
-The Quantum GIS project holds twice-yearly developer meetings, typically somewhere
+The QGIS project holds twice-yearly developer meetings, typically somewhere
 in Europe. The purpose of the meetings is to provide face-to-face time for
 developers. It is a forum for presenting new ideas, planning, putting heads
 together to solve problems and so on. We use funding from our :doc:`../sponsorship/index`
@@ -33,7 +33,7 @@ Policy for disbursement of funds to individual developers
   by the PSC shall be final.
 * Individual applications from non-core developers (i.e. those who do not have
   direct commit access to the QGIS repositories) of EUR200 or less may be
-  decided on by the nominated PSC member without requiring a full PSC vote. 
+  decided on by the nominated PSC member without requiring a full PSC vote.
 * Individual applications from core-developers may be granted based on
   precident directly by the PSC Financial Representative (Paolo Cavallini). In
   the event of any uncertainty on his part, he may bring the matter to the PSC
@@ -43,7 +43,7 @@ Policy for disbursement of funds to individual developers
   will be provided on a first-come first-served basis.
 * The PSC / PSC Finance Chair may offer to provide partial funding where
   funding resources are limited.
-* The PSC Financial Chair shall maintain complete financial records of what 
+* The PSC Financial Chair shall maintain complete financial records of what
   disbursements were made and to whom and these should be available on request
   to the PSC.
 
@@ -64,11 +64,11 @@ Procedure for funding applications - core developers
 Procedure for funding applications - new developers
 ---------------------------------------------------
 
-* A request for funding email should be submitted to the PSC Member designated to 
+* A request for funding email should be submitted to the PSC Member designated to
   review funding requests **before** the meeting.
 * If the requestor is not happy with the funding requests reviewer's decision, they
   may request arbitration from the PSC as a whole.
-* The request should include a **workplan** outlining how the developer plans to 
+* The request should include a **workplan** outlining how the developer plans to
   make use of their time at the meeting.
 * The request should include the number of days that the developer will attend.
 * The request should include an expense breakdown covering travel and
