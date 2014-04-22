@@ -73,6 +73,14 @@ your apt keyring, type::
 QGIS stable
 ...........
 
+.. note:: The following packages are only produced once shortly after a new
+   version has been released.  As not yet released ubuntu versions can have
+   library changes the packages might sooner or later be broken, when the
+   development in ubuntu moves on.  If that's the case you can either move to a
+   stable ubuntu version and use the released packages for it, rebuild the
+   packages for the current state of debian (see INSTALL) or switch to the
+   testing packages which are rebuild on regular basis.
+
 On plain Ubuntu:
 ^^^^^^^^^^^^^^^^
 Trusty::
@@ -180,6 +188,14 @@ Debian
 QGIS stable
 ...........
 
+.. note:: The packages are only produced once shortly after a new version has
+   been released.  As unstable and not yet released debian versions can have
+   library changes the packages might sooner or later be broken, when the
+   development in debian moves on.  If that's the case you can either move to a
+   stable debian version and use the released packages for it, rebuild the
+   packages for the current state of debian (see INSTALL) or switch to the
+   testing packages which are rebuild on regular basis.
+
 Packages for Debian *Wheezy, Jessie and Unstable* for i386 and amd64 are
 available at:
 
@@ -199,13 +215,6 @@ Unstable::
  deb-src http://qgis.org/debian sid main
 
 
-.. note:: The packages are only produced once shortly after a new version has
-   been released.  As unstable and not yet released debian versions can have
-   library changes the packages might sooner or later be broken, when the
-   development in debian moves on.  If that's the case you can either move to a
-   stable debian version and use the released packages for it, rebuild the
-   packages for the current state of debian (see INSTALL) or switch to the
-   testing packages which are rebuild on regular basis.
 
 To add the the http://qgis.org repository public key to your apt keyring,
 type::
