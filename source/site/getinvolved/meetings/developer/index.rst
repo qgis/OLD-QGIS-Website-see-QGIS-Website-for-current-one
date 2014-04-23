@@ -7,6 +7,8 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
+   Essen_2014
+   Vienna_2014
    Brighton_2013
    Valmiera_2013
    Lyon_2012
