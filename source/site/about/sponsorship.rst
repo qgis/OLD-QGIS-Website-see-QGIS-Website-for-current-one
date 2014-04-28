@@ -236,6 +236,7 @@ bank account rather than PayPal.
 * Associazione Monte Porzio Cultura
 * Athanasios Karathanasis
 * Attila Toth
+* Barascu Tudor
 * Bayard Ewing
 * Benoit David
 * Bernd Vogelgesang
@@ -306,6 +307,7 @@ bank account rather than PayPal.
 * Grant Ogilvie
 * GreeniX Computer
 * Gregorio Díaz-Marta Mateos
+* Gregory J Crowder
 * Guenther Moeller
 * Guillaume Raspini
 * Hans Rudolf Wettstein
@@ -346,6 +348,7 @@ bank account rather than PayPal.
 * Johannes Lauber
 * John C. Tull
 * John Dean
+* John Gooderham
 * John Milligan
 * Jorge Pintocorne
 * José Alfonso de Tomás Gargantilla
@@ -379,6 +382,7 @@ bank account rather than PayPal.
 * Marc Monnerat
 * Marcel Van Dorst
 * Marcelo Soares Souza
+* Marcus Håkansson
 * Mark Siebel
 * Mark Douglas
 * Mark Hoschek
