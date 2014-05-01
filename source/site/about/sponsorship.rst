@@ -250,6 +250,7 @@ bank account rather than PayPal.
 * Chipotle Coupons
 * Chris Talbot
 * Christos Mitsis
+* Christoph Rupprecht
 * Christopher Kahler
 * Cristian Spieles
 * Christian Schwartze
@@ -400,6 +401,7 @@ bank account rather than PayPal.
 * Michael Schweizer
 * Michele Beneventi
 * Miguel Fernández Astudillo
+* Miguel Iturralde
 * Mikhail Sivakov
 * Mikko Suonio
 * Mohamed Al Merri
