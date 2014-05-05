@@ -249,11 +249,12 @@ bank account rather than PayPal.
 * Cheryle Shepstone
 * Chipotle Coupons
 * Chris Talbot
-* Christos Mitsis
+* Christian Houle
+* Christian Schwartze
 * Christoph Rupprecht
 * Christopher Kahler
+* Christos Mitsis
 * Cristian Spieles
-* Christian Schwartze
 * Clifford Snow
 * Compagnie du vent
 * D R Arbib
@@ -489,6 +490,7 @@ bank account rather than PayPal.
 * Ujaval Gandhi
 * Uros Bernik
 * Umberto Zulian
+* Vittorio Dell'Aquila
 * Wendelin Schmit
 * Werner Macho
 * William Levering
