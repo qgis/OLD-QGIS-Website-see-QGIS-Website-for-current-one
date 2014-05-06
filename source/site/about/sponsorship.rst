@@ -412,6 +412,7 @@ bank account rather than PayPal.
 * Nelson Silva
 * Niccolò Marchi
 * Niccolo Rigacci
+* Nicolai Trefzger
 * Nikita Mozgunov
 * Nikolaos Alexandris
 * Nikolaos Christou
