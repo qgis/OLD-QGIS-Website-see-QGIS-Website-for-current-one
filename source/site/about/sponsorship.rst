@@ -418,6 +418,7 @@ bank account rather than PayPal.
 * Nikolaos Christou
 * Nikolaou Konstantinos
 * Norman Trowell
+* Oana Mihaela Stoleriu
 * Ola Martin Krog
 * Oliver Schonrock
 * Oriental Rugs Online
@@ -475,6 +476,7 @@ bank account rather than PayPal.
 * Stephan Holl
 * Sti Sas Di Meo
 * Swampthing Environmental Inc.
+* Test Gurus
 * Thanasis Karathanasis
 * Thibaut Goelff
 * Thierry Gonon
