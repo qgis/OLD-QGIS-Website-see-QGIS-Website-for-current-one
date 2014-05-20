@@ -311,8 +311,9 @@ Try the ELGIS repository: http://elgis.argeo.org/
 QGIS stable
 ...........
 
-QGIS stable can be installed from an alternative repository. Note: It
-requires, that ELGIS and EPEL are also installed.
+QGIS stable can be installed from an alternative repository.
+Python support is strongly limited due to old dependencies.
+Note: It requires, that ELGIS and EPEL are also installed.
 ::
 
  sudo wget fedora.vitu.ch/EL/qgis.repo -P /etc/yum.repos.d/
