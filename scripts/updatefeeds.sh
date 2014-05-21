@@ -19,3 +19,11 @@ curl "http://api.flickr.com/services/feeds/groups_pool.gne?id=2327386@N22&lang=e
 mv qgisplanet.atom qgisplanet.atom.0
 # get latest planet feed
 curl -o qgisplanet.atom "http://planet.qgis.org/planet/feed/atom/"
+
+# change logs
+# for 2.2
+mv visualchangelog22.atom visualchangelog22.atom.0
+curl "http://changelog.linfiniti.com/qgis/version/21/atom" -o visualchangelog22.atom
+# for 2.0
+mv visualchangelog20.atom visualchangelog20.atom.0
+curl "http://changelog.linfiniti.com/qgis/version/200/atom" -o visualchangelog20.atom
