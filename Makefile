@@ -2,7 +2,6 @@
 #
 
 # You can set these variables from the command line
-LANGUAGES     = en `ls i18n`
 LANG          = en
 SPHINXBUILD   = sphinx-build
 SPHINXINTL    = sphinx-intl
@@ -105,7 +104,8 @@ localizeresources: clean
 	fi
 
 pulldocsources:
-	scripts/pulldocsources.sh $(LANG)
+	# may 21 2014: no more incorporating of docs IN the website
+	#scripts/pulldocsources.sh $(LANG)
 
 html: localizeresources
 	$(SPHINXINTL) build -l $(LANG) -c $(SOURCEDIR)/conf.py
@@ -115,7 +115,18 @@ html: localizeresources
 
 fullhtml: pulldocsources html
 
-world: all
+full:
+	@-if [ $(LANG) != "en" ]; then \
+		echo; \
+		echo Pulling $$LANG from transifex; \
+		# --minimum-perc=1 so only files which have at least 1% translation are pulled \
+		# -f to force, --skip to not stop with errors \
+		# -l lang \
+		tx pull --minimum-perc=1 --skip -f -l $$LANG; \
+        fi
+	make html
+
+world: full
 
 all: pulldocsources
 	@echo
