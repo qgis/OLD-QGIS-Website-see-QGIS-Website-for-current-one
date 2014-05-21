@@ -1,13 +1,13 @@
 # 
 # Translators:
-# drgalindog <drgalindog@linuxmail.org>, 2013
+# drgalindog <drgalindog@linuxmail.org>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-02-22 10:33+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-04-19 20:16+0000\n"
+"Last-Translator: drgalindog <drgalindog@linuxmail.org>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:4
 msgid "QGIS Development"
-msgstr ""
+msgstr "Desarrollo QGIS"
 
 #: ../../source/site/getinvolved/development/index.rst:6
 msgid "Welcome to the QGIS Development pages"
@@ -41,11 +41,11 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:120
 msgid "http://qgis.org/api/ (for QGIS testing)"
-msgstr ""
+msgstr "http://qgis.org/api/ (para QGIS testing)"
 
 #: ../../source/site/getinvolved/development/index.rst:122
 msgid "http://qgis.org/api/2.0/ (for QGIS 2.0)"
-msgstr ""
+msgstr "http://qgis.org/api/2.0/ (Para QGIS 2.0)"
 
 #: ../../source/site/getinvolved/development/index.rst:124
 msgid "http://qgis.org/api/1.8/ (for QGIS 1.8)"
@@ -90,59 +90,59 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:96
 msgid "Week"
-msgstr ""
+msgstr "Semana"
 
 #: ../../source/site/getinvolved/development/index.rst:96
 msgid "Date"
-msgstr ""
+msgstr "Fecha"
 
 #: ../../source/site/getinvolved/development/index.rst:98
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../source/site/getinvolved/development/index.rst:98
 msgid "24.01"
-msgstr ""
+msgstr "24.01"
 
 #: ../../source/site/getinvolved/development/index.rst:99
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../../source/site/getinvolved/development/index.rst:99
 msgid "21.02"
-msgstr ""
+msgstr "21.02"
 
 #: ../../source/site/getinvolved/development/index.rst:100
 msgid "21"
-msgstr ""
+msgstr "21"
 
 #: ../../source/site/getinvolved/development/index.rst:100
 msgid "23.05"
-msgstr ""
+msgstr "23.05"
 
 #: ../../source/site/getinvolved/development/index.rst:101
 msgid "25"
-msgstr ""
+msgstr "25"
 
 #: ../../source/site/getinvolved/development/index.rst:101
 msgid "20.06"
-msgstr ""
+msgstr "20.06"
 
 #: ../../source/site/getinvolved/development/index.rst:102
 msgid "39"
-msgstr ""
+msgstr "39"
 
 #: ../../source/site/getinvolved/development/index.rst:102
 msgid "26.09"
-msgstr ""
+msgstr "26.09"
 
 #: ../../source/site/getinvolved/development/index.rst:103
 msgid "43"
-msgstr ""
+msgstr "43"
 
 #: ../../source/site/getinvolved/development/index.rst:103
 msgid "24.10"
-msgstr ""
+msgstr "24.10"
 
 #: ../../source/site/getinvolved/development/index.rst:129
 msgid "Plugin Development"
@@ -156,7 +156,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:134
 msgid "These plugins can either be written in C++ or in Python"
-msgstr ""
+msgstr "Estos complementos pueden ser desarrollados en C++ o Python"
 
 #: ../../source/site/getinvolved/development/index.rst:137
 msgid "Cpp plugin development"
@@ -166,7 +166,7 @@ msgstr ""
 msgid ""
 "To learn how to write your first cpp plugin, please go here: :ref:`QGIS-cpp-"
 "plugin-development`"
-msgstr ""
+msgstr "Para saber como desarrollar tu primer complemento cpp, por favor ve a: :ref:`QGIS-cpp-plugin-development`"
 
 #: ../../source/site/getinvolved/development/index.rst:141
 msgid ""
@@ -175,39 +175,39 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:146
 msgid "Python plugin development"
-msgstr ""
+msgstr "Desarrollo de complementos en Pythong"
 
 #: ../../source/site/getinvolved/development/index.rst:152
 msgid ""
 "Interested in python plugin development, go to :ref:`QGIS-python-plugin-"
 "development` or have a look into the :ref:`PyQGIS-Developer-Cookbook`."
-msgstr ""
+msgstr "Si estás interesado en desarrollar complementos en Python ve a: :ref:`QGIS-python-plugin-development` o echa un vistazo al :ref:`PyQGIS-Developer-Cookbook`."
 
 #: ../../source/site/getinvolved/development/index.rst:155
 msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
-msgstr ""
+msgstr "Si buscas ejemplo de complementos desarrollados en Python ve a: http://plugins.qgis.org"
 
 #: ../../source/site/getinvolved/development/index.rst:12
 msgid "If you find a bug, please report it!"
-msgstr ""
+msgstr "Si encuentras un error de programación por favor repórtalo!"
 
 #: ../../source/site/getinvolved/development/index.rst:14
 msgid ""
 "You need an OSGeo account and login in order to submit bug reports. To get "
 "started, first create an OSGeo account. https://www2.osgeo.org/cgi-"
 "bin/ldap_create_user.py"
-msgstr ""
+msgstr "Para reportar errores de programación debes tener una cuenta y haberte logueado en OSGeo. Para crear la cuenta ve a: https://www2.osgeo.org/cgi-bin/ldap_create_user.py "
 
 #: ../../source/site/getinvolved/development/index.rst:17
 msgid ""
 "Once you have your account, use http://hub.qgis.org/projects/quantum-"
 "gis/issues to login and search if the issue you'd like to report is probably"
 " already entered."
-msgstr ""
+msgstr "Una vez tienes una cuenta usa http://hub.qgis.org/projects/quantum-gis/issues para loguearte y chequea si el problema que intentas reportar no ha sido ingresado."
 
 #: ../../source/site/getinvolved/development/index.rst:20
 msgid "Tickets"
-msgstr ""
+msgstr "Tickets"
 
 #: ../../source/site/getinvolved/development/index.rst:22
 msgid ""
@@ -396,7 +396,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:99
 msgid "2.2 is released"
-msgstr ""
+msgstr "2.2 ha sido lanzado"
 
 #: ../../source/site/getinvolved/development/index.rst:100
 msgid "2.3 freeze begins"
@@ -404,7 +404,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:101
 msgid "2.4 is released"
-msgstr ""
+msgstr "2.4 ha sido lanzado"
 
 #: ../../source/site/getinvolved/development/index.rst:102
 msgid "2.5 freeze begins"
@@ -412,7 +412,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:103
 msgid "2.6 is released"
-msgstr ""
+msgstr "2.6 ha sido lanzado"
 
 #: ../../source/site/getinvolved/development/index.rst:106
 msgid "Only in case of real problems a point release (eg 2.0.1) will occur."
@@ -422,7 +422,7 @@ msgstr ""
 msgid ""
 "See "
 "http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html"
-msgstr ""
+msgstr "Mira http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html"
 
 #~ msgid ""
 #~ "If you find a bug, please read `our hints on issueing bugs "

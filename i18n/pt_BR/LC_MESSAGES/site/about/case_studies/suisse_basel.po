@@ -1,0 +1,139 @@
+# 
+# Translators:
+# João Gaspar <joao.f.r.gaspar@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2014-05-13 04:33+0000\n"
+"Last-Translator: Narcélio de Sá <narceliosapereira@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/qgis-website/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:4
+msgid "QGIS - an interesting instrument for forestry planning"
+msgstr "QGIS - um instrumento interessante para o planeamento florestal"
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:6
+msgid "concepts at local and regional level"
+msgstr "Conceitos ao nível local e regional"
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:8
+msgid ""
+"Almost 35% of Switzerland's surface is covered by forests. Changing demands "
+"upon the forest and the poor financial situation of forest enterprises in "
+"Switzerland led to the development of a new forestry planning concept about "
+"fifteen years ago. This concept introduced a clear distinction between "
+"planning at the level of the authorities and planning at the level of the "
+"owners1. As a new forestry planning office, guaraci works primarily in the "
+"region of Basel (Switzerland) on both mentioned planning levels. This case "
+"study discusses the use of QGIS at the forest owner level. On this level, a "
+"simple, dynamic and compatible geographic information system is required for"
+" the establishment of a forest management plan. This plan covers about 1000 "
+"ha of forests, will be valid for about 20 years and is implemented by the "
+"local forest manager. The area is situated in the region of Basel (see "
+"google maps)."
+msgstr "Quase 35% '% o' da superfície da Suíça é coberto por florestas. Novas exigências sobre a floresta e a má situação financeira das empresas florestais na Suíça, levou ao desenvolvimento de um novo conceito de planeamento florestal à cerca de quinze anos atrás. Este conceito introduziu uma distinção clara entre o planeamento ao nível das autoridades e do planeamento ao nível do proprietários. Como novo escritório de planeamento florestal, o Guaraci trabalha principalmente na região de Basel (Suíça), em ambos os níveis de planeamento mencionados. Este caso de estudo discute o uso do QGIS ao nível do proprietário florestal. A este nível, um sistema de informação geográfica simples, dinâmica e compatível é necessário para o estabelecimento de um plano de gestão florestal. Este plano abrange cerca de 1000 ha de florestas, será válido para cerca de 20 anos e é implementado pelo gestor florestal local. A área está situada na região de Basileia (ver google maps)."
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:11
+msgid "How QGIS was used"
+msgstr "Como o QGIS é usado"
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:13
+msgid ""
+"Within the whole planning process QGIS was used for the following four "
+"tasks:"
+msgstr "Dentro do planeamento de todo o processo, o QGIS foi utilizado para as seguintes quatro tarefas:"
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:15
+msgid ""
+"Import of existing data. The data includes geo-referenced background maps "
+"(\\*.tif) along with polygon, line and point shape files. For the forest "
+"manager, the visualization of existing thematic data (for example ground- "
+"and drinking water resources, nature protection zones) are important for his"
+" daily work."
+msgstr "Importação de dados existentes. Os dados incluem mapas de fundo geo-referenciados (\\ *. Tif), juntamente com os arquivos do tipo polígono, linha e ponto. Para o gestor da floresta, a visualização de dados temáticos existentes (por exemplo, os recursos hídricos, solo e água potável, zonas de protecção da natureza) são importantes para o seu trabalho diário."
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:16
+msgid ""
+"Digitizing. The forestry measurements planned by the forest manager had been"
+" digitized. The QGIS digitizing tools with the advanced snapping options are"
+" very useful and user friendly. The „delimited text“ plugin enabled the "
+"import of additional data tables."
+msgstr "Digitalização. As medições florestais previstas pelo gestor florestal foram digitalizadas. As ferramentas de digitalização do QGIS com as opções avançadas de atracção são muito úteis e amigáveis. O módulo de \"camadas de texto delimitado\" permitiu a importação de tabelas de dados adicionais."
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:17
+msgid ""
+"Analysis. The areas of the different measurement categories had been "
+"calculated. Starting from certain line features such as train tracks or "
+"roads, corresponding protection forests were determined with the help of a "
+"buffer."
+msgstr "Análise. Foram calculadas as áreas das diferentes categorias de medição. A partir de certas características da linha, como trilhos de comboio ou estradas, as florestas de protecção foram determinadas com a ajuda de uma área envolvente dessas linhas."
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:18
+msgid ""
+"Print and export. The print composer supported the map layout creation. The "
+"map was exported as PDF and image files."
+msgstr "Impressão e exportação. O compositor de mapas suporta  criação de um layout para o mapa. O mapa foi exportado em ficheiro PDF e imagem."
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:25
+msgid "Extract of the forestry measurements map"
+msgstr "Extracção do mapa das medidas florestais"
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:28
+msgid "Conclusion"
+msgstr "Conclusão"
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:30
+msgid ""
+"QGIS is an interesting tool for small planning offices, such as guaraci, as "
+"well as for the forest managers and owners. It can be used in a professional"
+" context and the presented output result was appreciated by all parties "
+"involved. For the mentioned tasks the present QGIS version “1.4 Enceladus” "
+"offers all necessary GIS tools. The most important qualities of QGIS are the"
+" intuitive user interface and the compatibility with different file formats."
+" It is an ideal tool for projects that are on one hand based on existing "
+"geographic data and on the other hand require the acquisition of new data. "
+"The user-manual is helpful and easy to understand. Both from the technical "
+"as well as the financial perspective QGIS is an interesting alternative to "
+"other GIS software."
+msgstr "QGIS é uma ferramenta interessante para pequenos escritórios de planeamento, como o Guaraci, bem como para os gestores florestais e proprietários. Ele pode ser usado num contexto profissional e o resultado de saída apresentada foi apreciada por todas as partes envolvidas. Para as tarefas mencionadas na presente versão QGIS \"1,4 Enceladus\", oferece todas as ferramentas SIG necessárias. As qualidades mais importantes do QGIS são a interface de utilizador intuitiva e compatibilidade com diferentes formatos de arquivos. É uma ferramenta ideal para projectos que, por um lado devido aos dados geográficos existentes e, por outro lado, ser necessário para a aquisição de novos dados. O manual é útil e fácil de entender. Tanto em termos técnicos, bem como em perspectivas financeiras o QGIS é uma alternativa interessante comparado com o outro software SIG."
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:33
+msgid "Perspective"
+msgstr "Perspectiva"
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:35
+msgid ""
+"The core tasks of a forestry planning concept can be worked out with the "
+"mentioned basic GIS tools. Guaraci will continue to use QGIS for forestry "
+"planning at the forest owner level. Based on the experiences with the "
+"presented project, QGIS can also be recommended for forestry concepts at the"
+" level of local authorities. Larger, and more complex projects with detailed"
+" analysis requirements could be handled by the combination of QGIS with the "
+"Postgis spatial database server. New logging zones as well as forest "
+"reservates and protection zones can be easily digitized. Hopefully, forest "
+"owners and managers will increasingly use the potential of QGIS also for "
+"their yearly planning as well as the documentation of their forest "
+"activities."
+msgstr "As tarefas principais do planeamento florestal podem ser trabalhadas com as ferramentas básicas SIG mencionadas. O Guaraci vai continuar a usar QGIS para o planeamento florestal, a nível do proprietário florestal. Com base nas experiências com o projecto apresentado, o QGIS também pode ser recomendado para conceitos florestais ao nível das autoridades locais. Projectos maiores e mais complexos, com requisitos de análise detalhadas poderiam ser tratadas com a combinação do QGIS com o servidor de base de dados espaciais Postgis. Novas zonas de madeira, bem como florestas reservadas e zonas de protecção podem ser facilmente digitalizadas. Felizmente, os proprietários e gestores florestais utilizarão cada vez mais o potencial do QGIS para seu planeamento anual, bem como a documentação das suas actividades florestais."
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:38
+msgid "Author"
+msgstr "Autor"
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:45
+msgid "Raphael Häner"
+msgstr "Raphael Häner"
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:47
+msgid ""
+"This article was contributed in June 2010 by Raphael Häner. He is  Dipl. "
+"Forst Ing. at ETH Zürich, Switzerland and founded his one-man company "
+"guaraci in 2009."
+msgstr "Este artigo foi contribuido em Junho de 2010 por Raphael Häner. Ele é diplomado pela Escola de Engenheiros Florestais de Zurique, Suíça e fundou a sua empresa Guaraci em 2009."

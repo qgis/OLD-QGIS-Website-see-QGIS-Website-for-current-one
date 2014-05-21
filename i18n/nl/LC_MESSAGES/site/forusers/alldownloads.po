@@ -1,7 +1,7 @@
 # 
 # Translators:
 # diethard.jansen <diethard.jansen@gmail.com>, 2013-2014
-# raymondnijssen <r.nijssen@terglobo.nl>, 2013
+# raymondnijssen <r.nijssen@terglobo.nl>, 2013-2014
 # rduivenvoorde <richard@duif.net>, 2014
 # parallax <vincent@stedema.nl>, 2013
 msgid ""
@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-03-06 16:20+0000\n"
-"Last-Translator: diethard.jansen <diethard.jansen@gmail.com>\n"
+"PO-Revision-Date: 2014-05-20 11:59+0000\n"
+"Last-Translator: raymondnijssen <r.nijssen@terglobo.nl>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -391,7 +391,7 @@ msgstr "Trusty::"
 
 #: ../../source/site/forusers/alldownloads.rst:110
 msgid "Current packages available for precise and saucy."
-msgstr ""
+msgstr "Recente pakketten beschikbaar voor Precise en Saucy."
 
 #: ../../source/site/forusers/alldownloads.rst:155
 msgid "Base on dependencies from ubuntugis:"
@@ -414,18 +414,18 @@ msgid ""
 "debian version and use the released packages for it, rebuild the packages "
 "for the current state of debian (see INSTALL) or switch to the testing "
 "packages which are rebuild on regular basis."
-msgstr ""
+msgstr "De pakketten worden eenmalig gemaakt kort nadat een nieuwe versie wordt uitgebracht. Omdat onstabiele of nog niet uitgebrachte Debian versies verschillen in onderliggende functiebibliotheken kunnen bevatten, kunnen deze na verloop van tijd niet meer werken. In dat geval kun je overstappen op een stabiele Debian versie, het pakket opnieuw compileren (zie INSTALLEREN) of overstappen op de testversie van die regelmatig opnieuw wordt gecompileerd."
 
 #: ../../source/site/forusers/alldownloads.rst:278
 msgid ""
 "Currently Fedora 18 and 19 have QGIS 1.8 while Fedora 20 ships QGIS 2.0."
-msgstr ""
+msgstr "Momenteel bevatten Fedora 18 en 19 QGIS 1.8 en Fedora 20 bevat QGIS 2.0."
 
 #: ../../source/site/forusers/alldownloads.rst:280
 msgid ""
 "There is an alternative repository for QGIS 2.2 on Fedora 19 and Fedora 20 "
 "::"
-msgstr ""
+msgstr "Er is een alternatieve repository voor QGIS 2.2 voor Fedora 19 en 20 ::"
 
 #: ../../source/site/forusers/alldownloads.rst:325
 msgid ""
@@ -433,7 +433,7 @@ msgid ""
 "Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
 "installation manager together with the openSUSE VERSION you work with (e.g. "
 "openSUSE_13.1). ::"
-msgstr ""
+msgstr "Het laatste openSUSE pakket heet qgis2 en is beschikbaar voor 12.2, 12.3, 13.1 Factory en Tumbleweed (32 en 64 bit). Voeg de volgende repository toe aan je installatiemanager in combinatie met de openSUSE-versie die je gebruikt (b.v. openSUSE_13.1). ::"
 
 #: ../../source/site/forusers/alldownloads.rst:338
 msgid ""

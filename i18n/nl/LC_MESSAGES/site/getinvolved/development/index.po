@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-02-27 17:55+0000\n"
+"PO-Revision-Date: 2014-05-17 09:29+0000\n"
 "Last-Translator: diethard.jansen <diethard.jansen@gmail.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -18,11 +18,11 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:4
 msgid "QGIS Development"
-msgstr "QGIS-ontwikkeling"
+msgstr "QGIS ontwikkeling"
 
 #: ../../source/site/getinvolved/development/index.rst:6
 msgid "Welcome to the QGIS Development pages"
-msgstr "Welkom op de pagina Ontwikkeling QGIS"
+msgstr "Welkom op de pagina QGIS Ontwikkeling"
 
 #: ../../source/site/getinvolved/development/index.rst:10
 msgid "Bugs, Features and Issues"
@@ -218,15 +218,15 @@ msgid ""
 "Completion of a Milestone not only requires closing bugs, but completing "
 "other tasks related to a release such as documentation, web site updates, "
 "packaging, and announcements."
-msgstr ""
+msgstr "Tickets worden gebruikt om fouten te melden, om verzoeken voor verbetering in te brengen en om patches in te dienen waarmee problemen worden opgelost. Redmine is meer dan alleen een fouten registratie-volg systeem. Elke ticket kan toegewezen worden aan een QGIS Mijlpaal (Milestone), waarmee je ook de voortgang kunt volgen tot die mijlpaal. Het bereiken van een mijlpaal houdt niet alleen het oplossen van fouten, maar ook het voltooien van andere taken zoals de documentatie en de website bijwerken, het maken van de installatiepakketten en de aankondigingen. "
 
 #: ../../source/site/getinvolved/development/index.rst:25
 msgid "Opening a Ticket"
-msgstr ""
+msgstr "Het inbrengen van een Ticket"
 
 #: ../../source/site/getinvolved/development/index.rst:28
 msgid "Before filing a bug"
-msgstr ""
+msgstr "Voor het registreren van een fout"
 
 #: ../../source/site/getinvolved/development/index.rst:30
 msgid ""
@@ -236,11 +236,11 @@ msgid ""
 " problems. If you have installed any, you should also verify that the "
 "problem is still reproducible without them. Please don't report multiple "
 "unrelated bugs in a single bug report."
-msgstr ""
+msgstr "Controleer, voordat u een fout gaat registreren, of deze niet al bestaat zodat een fout niet twee keer wordt geregistreerd. Wanneer u aanvullende informatie heeft voor een bestaande ticket kunt u die hieraan toevoegen. Plugins van derden kunnen ook leiden tot problemen. Wanneer u plugins geïnstalleerd, controleer of de fout zich ook voordoet zonder geïnstalleerde plugins. Breng niet meerdere fouten in op één ticket wanneer die niets met elkaar te maken hebben. "
 
 #: ../../source/site/getinvolved/development/index.rst:34
 msgid "Plugin bugs"
-msgstr ""
+msgstr "Fouten in Plugins"
 
 #: ../../source/site/getinvolved/development/index.rst:36
 msgid ""
@@ -249,7 +249,7 @@ msgid ""
 "plugins/ If so, click on the plugin name then click \"New issue\". "
 "Otherwise, consult the plugin documentation to find the address of the "
 "relevant bug tracking system or a developer to contact."
-msgstr ""
+msgstr "Wanneer in een plugin een fout wordt gevonden dan moet deze worden ingebracht in het bug Tracking systeem van de plugin. Controleer eerst of de plugin bekend is op http://hub.qgis.org/projects/qgis-user-plugins. Wanneer bekend, klik op de naam van de plugin en klic vervolgens op \"New issue\". Wanneer de plugin niet bekend is, raadpleeg dan de documentatie om het adres te achterhalen van het bug tracking systeem of van de ontwikkelaar van de plugin."
 
 #: ../../source/site/getinvolved/development/index.rst:40
 msgid "Steps"

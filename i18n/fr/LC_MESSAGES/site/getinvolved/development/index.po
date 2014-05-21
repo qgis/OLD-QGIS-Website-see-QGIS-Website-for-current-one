@@ -7,14 +7,15 @@
 # MarieSilvestre <marie.silvestre@gmail.com>, 2014
 # RobinC <robin.cura@gmail.com>, 2013
 # RobinP <robin@georezo.net>, 2013-2014
+# DelazJ <delazj@gmail.com>, 2014
 # simogeo <simon.georget@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-02-27 11:18+0000\n"
-"Last-Translator: tneskovic <antoine_ecuador@yahoo.fr>\n"
+"PO-Revision-Date: 2014-05-10 23:47+0000\n"
+"Last-Translator: DelazJ <delazj@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -203,14 +204,14 @@ msgid ""
 "You need an OSGeo account and login in order to submit bug reports. To get "
 "started, first create an OSGeo account. https://www2.osgeo.org/cgi-"
 "bin/ldap_create_user.py"
-msgstr "Il vous faut un compte OSGEO et vous identifier dans le but de soumettre un rapport de bogue. Pour commencer, créer tout d'abord un compte OSGEO. https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
+msgstr "Il vous faut un compte OSGEO et vous identifier dans le but de soumettre un rapport de bogue. Pour commencer, créez tout d'abord un compte OSGEO. https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
 
 #: ../../source/site/getinvolved/development/index.rst:17
 msgid ""
 "Once you have your account, use http://hub.qgis.org/projects/quantum-"
 "gis/issues to login and search if the issue you'd like to report is probably"
 " already entered."
-msgstr "Une fois que vous avez votre compte, utiliser http://hub.qgis.org/projects/quantum-gis/issues pour vous identifier et rechercher si le problème que vous voulez rapporter n'est pas déjà présent."
+msgstr "Une fois que vous avez votre compte, utilisez http://hub.qgis.org/projects/quantum-gis/issues pour vous identifier et rechercher si le problème que vous voulez rapporter n'est pas déjà signalé."
 
 #: ../../source/site/getinvolved/development/index.rst:20
 msgid "Tickets"
@@ -224,7 +225,7 @@ msgid ""
 "Completion of a Milestone not only requires closing bugs, but completing "
 "other tasks related to a release such as documentation, web site updates, "
 "packaging, and announcements."
-msgstr "Les tickets sont utilisés pour reporté les bogues, demander des améliorations et envoyer des patchs. Redmine est plus qu'un simple système de report de bogues. Les tickets peuvent être associés à des versions de QGIS, vous permettant ainsi de suivre les avancées jusqu'à la fin de la tâche. La réalisation d'une nouvelle version -Milestone- ne nécesite pas uniquement de corriger tous les bogues, mais également de compléter d'autres tâches relatives à cette version telle que la documentation, les mises à jour du site internet, le packaging, ainsi que les annonces officielles."
+msgstr "Les tickets sont utilisés pour reporter les bogues, demander des améliorations et envoyer des patchs. Redmine est plus qu'un simple système de report de bogues. Les tickets peuvent être associés à des versions de QGIS, vous permettant ainsi de suivre les avancées jusqu'à la fin de la tâche. La réalisation d'une nouvelle version -Milestone- ne nécessite pas uniquement de corriger tous les bogues, mais également de compléter d'autres tâches relatives à cette version telles que la documentation, les mises à jour du site internet, le packaging, ainsi que les annonces officielles."
 
 #: ../../source/site/getinvolved/development/index.rst:25
 msgid "Opening a Ticket"
@@ -293,7 +294,7 @@ msgid ""
 "which the developer can reproduce the bug. If you make that hard for the "
 "developer, chances are the bug will be given up on or ignored for quite a "
 "while."
-msgstr "Description - Fournissez une description complète du problème en incluant les étapes pour le répéter ; si vous pensez que le bogue peut être lié à une certaine plateforme, version ou dépendances (GDAL, OGR, GEOS etc) incluez le également. Si votre QGIS crashe cela peut être utilise d'inclure un backtrace (voir ci-dessous). Une chose très important lorsqu'on reporte un bogue est de donner un exemple minimum afin de reproduire le bug. Les chances qu'un bogue soit résolu de manière rapide sont directement liées à la vitesse avec laquelle un développeur peur reproduire le bug. Si vous rendez le travail compliqué pour le développeur, il y'a des chances que le bogue soit laissé de côté ou ignoré durant un certain temps."
+msgstr "Description - Fournissez une description complète du problème en incluant les étapes pour le répéter ; si vous pensez que le bogue peut être lié à une certaine plateforme, version ou dépendances (GDAL, OGR, GEOS etc) incluez le également. Si votre QGIS plante, il peut être utile d'inclure un backtrace (voir ci-dessous). Une chose très important lorsqu'on reporte un bogue est de donner un exemple minimum afin de reproduire le bug. Les chances qu'un bogue soit résolu de manière rapide sont directement liées à la vitesse avec laquelle un développeur peut reproduire le bogue. Si vous rendez le travail compliqué pour le développeur, il y a des chances que le bogue soit laissé de côté ou ignoré durant un certain temps."
 
 #: ../../source/site/getinvolved/development/index.rst:49
 msgid ""
