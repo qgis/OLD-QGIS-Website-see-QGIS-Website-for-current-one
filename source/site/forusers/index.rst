@@ -9,6 +9,8 @@ For Users
 .. toctree::
     :maxdepth: 4
 
+    visualchangelog20
+    visualchangelog22
     download
     documentation
     support

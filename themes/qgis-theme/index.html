@@ -240,53 +240,6 @@
 
 <script type="text/javascript">
 
-        function atom(url, holder, count, showcont){
-            $.get(url, function (data) {
-                var html = "";
-                var maxitems = 7;
-                if(count)maxitems=count;
-                var showcontent = false;
-                if(showcont)showcontent=showcont;
-                var counter = 0;
-                $(data).find("entry").each(function () {
-                    var el = $(this);
-                    var title = el.find('title').text();
-                    var author = el.find('name').text();
-                    var content = el.find('content').text();
-                    var imglink='#';
-                    var link='#';
-                    el.find('link').each(
-                        function(){
-                            // flickr image for maps
-                            if ($(this).attr('rel') == 'enclosure'){
-                                imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
-                            }
-                            // links
-                            else if ($(this).attr('rel') == 'alternate'){
-                                link = $(this).attr('href');
-                            }
-                        }
-                    )
-                    counter++;
-
-
-                    if (counter<=maxitems && holder == '#qgisflickrmapsatom'){
-                        // html for flickr maps
-                        html+='<div class="span2"><p><a class="external" href="'+link+'">';
-                        if(imglink!='#'){ html+='<img src="'+imglink+'"/>'; }
-                        html+='</a></p></div>\n';
-                    }
-                    else if (counter<=maxitems){
-                        html+='<a class="external" href="'+link+'">';
-                        html+='<div class="info-box" style="padding:10px;color:#666;">'+title+'';
-                        if (showcontent) { html+=' - '+content; };
-                        html+='</div></a>\n';
-                    }
-                });
-                $(holder).append(html);
-            });
-        }
-
 
     $(function(){
         // create/start carousel
