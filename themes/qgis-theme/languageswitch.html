@@ -75,6 +75,10 @@
             //atom('http://localhost/qgis/feeds/visualchangelog22.atom', $('#changelog-for-version-2-2-0 p'), 100, true);
             atom('/feeds/visualchangelog22.atom', $('#changelog-for-version-2-2-0 p'), 100, true);
         }
+        else if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false);
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false);
+        }
 
     });
 
@@ -112,8 +116,14 @@
                 var link='#';
                 el.find('link').each(
                     function(){
-                        // flickr image for maps
+                        // flickr image for maps and qgis screenshots
                         if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
                             imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
                         }
                         // links
@@ -124,11 +134,11 @@
                 )
                 counter++;
 
-
-                if (counter<=maxitems && holder == '#qgisflickrmapsatom'){
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
                     // html for flickr maps
                     html+='<div class="span2"><p><a class="external" href="'+link+'">';
-                    if(imglink!='#'){ html+='<img src="'+imglink+'"/>'; }
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
                     html+='</a></p></div>\n';
                 }
                 else if (counter<=maxitems){
