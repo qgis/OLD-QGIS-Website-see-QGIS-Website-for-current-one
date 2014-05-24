@@ -1,10 +1,16 @@
 <section class="intro">
     <div class="container">
-        <h2>{{ _('Download QGIS for your Platform') }}</h2>
+        <h2>{{ _('Download QGIS for your platform') }}</h2>
 
         <p class="main">{{ _('The current version is QGIS 2.2 and was released in February 2014.') }}</p>
         <p class="main">{{ _('QGIS is available on Windows, MacOS X, Linux and Android.') }}</p>
         <p class="main">{{ _('Binary packages (installers) for current stable version 2.2 can be downloaded here.') }}</p>
+<!-- Comment out after release -->
+        <p class="main">
+          {{ _('We are currently in feature freeze preceding the release of QGIS 2.4. <b>Please consider testing the preleases</b>. See ') }}
+	  <a href="{{ pathto('site/getinvolved/development/index') }}#feature-freeze">{{ _("road map") }}</a>.
+        </p>
+<!-- -->
     </div>
 </section>
 <section class="content">

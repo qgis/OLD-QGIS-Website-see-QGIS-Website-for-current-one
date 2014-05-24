@@ -56,17 +56,18 @@ Development
 Can I compile QGIS myself on Windows?
 .....................................
 
-Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL
+Yes, please read: INSTALL_
 
 
 Can I compile QGIS myself on MacOS?
 ...................................
 
-Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL
+Yes, please read: INSTALL_
 
 
 Can I compile QGIS myself on Linux?
 ...................................
 
-Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL
+Yes, please read: INSTALL_
 
+.. _INSTALL: http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html

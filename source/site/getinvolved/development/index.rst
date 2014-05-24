@@ -1,31 +1,35 @@
 
-================
 QGIS Development
 ================
 
 Welcome to the QGIS Development pages
 
 
+.. _QGIS-bugreporting:
+
 Bugs, Features and Issues
 =========================
 
 If you find a bug, please report it!
 
-You need an OSGeo account and login in order to submit bug reports. To get started, first create an OSGeo account.
-https://www2.osgeo.org/cgi-bin/ldap_create_user.py
+You need an OSGeo account and login in order to submit bug reports. To get
+started, first create `Create an OSGeo4 account
+<https://www.osgeo.org/cgi-bin/ldap_create_user.py>`_.
 
-Once you have your account, use http://hub.qgis.org/projects/quantum-gis/issues to login and search if the issue you'd like to report is probably already entered.
+Once you have your account, use `QGIS issue tracking
+<http://hub.qgis.org/projects/quantum-gis/issues>`_ to search if the issue
+you'd like to report is probably already entered.
 
-Tickets
--------
+Issues
+------
 
-Tickets are used to report bugs, request enhancements and submit patches. Redmine is more than a bug reporting system. Tickets can be associated with a  QGIS Milestone, allowing you to see progress towards completion. Completion of a Milestone not only requires closing bugs, but completing other tasks related to a release such as documentation, web site updates, packaging, and announcements.
+Issues are used to report bugs, request enhancements and submit patches. Redmine is more than a bug reporting system. Issues can be associated with a QGIS Milestone, allowing you to see progress towards completion. Completion of a Milestone not only requires closing bugs, but completing other tasks related to a release such as documentation, web site updates, packaging, and announcements.
 
-Opening a Ticket
-----------------
+Filing an Issue
+---------------
 
-Before filing a bug
-...................
+Before reporting a bug
+......................
 
 Before filing a bug, review the currently open issues to make sure that you aren't creating a duplicate. If you have additional information on an issue, you can add it to the existing ticket. Third party plugins might also cause problems. If you have installed any, you should also verify that the problem is still reproducible without them.
 Please don't report multiple unrelated bugs in a single bug report.
@@ -33,7 +37,7 @@ Please don't report multiple unrelated bugs in a single bug report.
 Plugin bugs
 ...........
 
-Plugin bugs must be opened in their respective bug tracking system. Check first if the plugin is listed at http://hub.qgis.org/projects/qgis-user-plugins/ 
+Plugin bugs must be opened in their respective bug tracking system. Check first if the plugin is listed in the `plugin overview <http://hub.qgis.org/projects/qgis-user-plugins/>`_.
 If so, click on the plugin name then click "New issue". Otherwise, consult the plugin documentation to find the address of the relevant bug tracking system or a developer to contact.
 
 Steps
@@ -66,13 +70,19 @@ In ``gdb`` you run ``bt`` which will produce the backtrace.
 Log output on Windows
 ---------------------
 
+The nightly build in OSGeo4W_ (package qgis-dev) is built with debugging
+output, that you can view with DebugView_.  If the problem is not easy to
+reproduce the output might shed some light about where QGIS crashes.
 
-The nightly build in `OSGeo4W <http://trac.osgeo.org/osgeo4w>`_ (package qgis-dev) is built with debugging output, that you can view with `DebugView <http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx>`_.  If the problem is not easy to reproduce the output might shed some light about where QGIS crashes.
+.. _OSGeo4W: http://trac.osgeo.org/osgeo4w
+.. _DebugView: http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx
 
 Creating a patch
 ----------------
 
 To be done
+
+.. _QGIS-roadmap:
 
 Road Map
 ========
@@ -90,6 +100,42 @@ happens, a branch with a even release number is created and the master branch
 advances to the next odd version.  After the release a call for packaging is
 issued.
 
+Development phase
+-----------------
+
+In the development phase developers work on adding new features for the next
+release. Early adopters can use the nightly builds we have for all major
+platforms to see the development progress, do preliminary testing and provide
+bug reports and their thoughts to help with development.
+
+Feature freeze
+--------------
+
+In the feature freeze phase new features are not allowed in anymore and the
+focus of everyone moves from enhancing QGIS to stablizing it.  This also turns
+the nightly builds effectively into :ref:`prereleases <QGIS-prereleases>`.
+
+**Users** should start extensive testing of these prereleases in their
+environment to verify that there are no issues, they wouldn't want to see in
+the upcoming release.  All such issues should be reported (see `Bugs, Features
+and Issues`_).  Everything that goes unnoticed, will also end up in the next
+release.  Only in case of serious problems a point release (eg 2.4.1) will
+occur.  Therefore testing of the prereleases and reporting issues is very
+important.
+
+In the feature freeze **Developers** monitor the hub and start working on
+fixing the reported issues.
+
+With the begin of the feature freeze the translation files will be updated so
+that **translators** can start their work. Note that this might be an
+incremental process as although the features are frozen, bug fixes might still
+introduce translation string changes.
+
+.. _QGIS-release-schedule:
+
+Release schedule
+----------------
+
 Following is the schedule for 2014
 
 ==== ====== =================
@@ -103,26 +149,34 @@ Week Date   Event
 43   24.10  2.6 is released
 ==== ====== =================
 
-Only in case of real problems a point release (eg 2.0.1) will occur.
+.. _QGIS-prereleases:
+
+Location of prereleases / nightly builds
+----------------------------------------
+
+======== ============================================================================================
+Platform Location
+======== ============================================================================================
+Windows  :ref:`Weekly release candidate <QGIS-windows-weekly>` (standalone installer)
+\ 	 :ref:`OSGeo4W <QGIS-windows-testing>`
+Linux    :ref:`Debian <QGIS-debian-testing>`
+\        :ref:`Ubuntu <QGIS-ubuntu-testing>`
+MacOS    :ref:`Mac OS <QGIS-macos-testing>`
+======== ============================================================================================
+
+To learn how to write your first C++ plugin, please go here: :ref:`QGIS-cpp-plugin-development`
 
 
 Development
 ===========
 
-See http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html
+See INSTALL_
 
 
-Api Documentation
+API Documentation
 -----------------
 
-You can find the API documentation for cpp here:
-
-http://qgis.org/api/ (for QGIS testing)
-
-http://qgis.org/api/2.0/ (for QGIS 2.0)
-
-http://qgis.org/api/1.8/ (for QGIS 1.8)
-
+There is `API documentation <http://qgis.org/api/>`_ for C++.
 
 
 Plugin Development
@@ -133,10 +187,10 @@ writing your own plugins.
 
 These plugins can either be written in C++ or in Python
 
-Cpp plugin development
+C++ plugin development
 ----------------------
 
-To learn how to write your first cpp plugin, please go here: :ref:`QGIS-cpp-plugin-development`
+To learn how to write your first C++ plugin, please go here: :ref:`QGIS-cpp-plugin-development`
 
 Via a script you will generate a plugin stub which can be used further.
 
@@ -161,3 +215,5 @@ http://qgis.org/api/classQgisInterface.html (for QGIS testing)
 http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)
 
 http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)
+
+.. _INSTALL: http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html
