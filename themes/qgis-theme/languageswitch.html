@@ -76,8 +76,8 @@
             atom('/feeds/visualchangelog22.atom', $('#changelog-for-version-2-2-0 p'), 100, true);
         }
         else if (currentPage == "site/about/screenshots.html"){
-            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false);
-            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false);
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
         }
 
     });
@@ -95,9 +95,12 @@
     //
     // function to load an atom feed, an put it in an element
     //
-    function atom(url, holder, count, showcont){
+    function atom(url, holder, count, showcont, spanclass){
         $.get(url, function (data) {
             var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
             var maxitems = 7;
             if(count)maxitems=count;
             var showcontent = false;
@@ -137,7 +140,7 @@
                 if (counter<=maxitems && 
                     (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
                     // html for flickr maps
-                    html+='<div class="span2"><p><a class="external" href="'+link+'">';
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
                     if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
                     html+='</a></p></div>\n';
                 }
