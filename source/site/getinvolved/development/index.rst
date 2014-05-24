@@ -154,17 +154,15 @@ Week Date   Event
 Location of prereleases / nightly builds
 ----------------------------------------
 
-======== ============================================================================================
+======== =============================================================================
 Platform Location
-======== ============================================================================================
+======== =============================================================================
 Windows  :ref:`Weekly release candidate <QGIS-windows-weekly>` (standalone installer)
 \ 	 :ref:`OSGeo4W <QGIS-windows-testing>`
 Linux    :ref:`Debian <QGIS-debian-testing>`
 \        :ref:`Ubuntu <QGIS-ubuntu-testing>`
 MacOS    :ref:`Mac OS <QGIS-macos-testing>`
-======== ============================================================================================
-
-To learn how to write your first C++ plugin, please go here: :ref:`QGIS-cpp-plugin-development`
+======== =============================================================================
 
 
 Development
