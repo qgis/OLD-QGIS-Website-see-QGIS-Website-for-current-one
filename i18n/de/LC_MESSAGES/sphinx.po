@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2014-03-03 06:37+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-05-25 18:30+0000\n"
+"Last-Translator: jefi <jef@norbit.de>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -40,15 +40,15 @@ msgstr "Sie können sich beteiligen!"
 msgid "GET INVOLVED"
 msgstr "BETEILIGEN SIE SICH"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:32
+#: ../../themes/qgis-theme/getinvolved_index.html:35
 msgid "Participate in Support"
 msgstr "Am Support teilnehmen"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:35
+#: ../../themes/qgis-theme/getinvolved_index.html:38
 msgid "Translate"
 msgstr "Übersetzen"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:38
+#: ../../themes/qgis-theme/getinvolved_index.html:41
 msgid "Develop a Plugin"
 msgstr "Eine Erweiterung entwickeln"
 
@@ -57,11 +57,11 @@ msgstr "Eine Erweiterung entwickeln"
 msgid "Donate to QGIS"
 msgstr "QGIS spenden"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:59
+#: ../../themes/qgis-theme/getinvolved_index.html:75
 msgid "Participate in Support Channels"
 msgstr "An den Unterstützungskanälen teilnehmen"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:60
+#: ../../themes/qgis-theme/getinvolved_index.html:76
 msgid ""
 "There are several QGIS mailing lists, IRC channels, forums and user groups "
 "you can use to get help from fellow users and developers, or to keep up with"
@@ -71,17 +71,16 @@ msgid ""
 "archives."
 msgstr "Es gibt mehrere QGIS-Mailinglist, einen IRC-Kanal, Foren und Benutzergruppen von denen Sie Hilfe von Mitbenutzerns und Entwicklern erhalten oder sich über aktuelle Projektereignisse auf dem Laufenden halten können.  Sie können diese Listen gerne abonnieren. Bitte beteiligen Sie sich an der Liste mit dem Beantworten von Fragen und lassen Sie andere an Ihren Erfahrungen teilhaben. Wie haben auch eine Website auf der die Mailinglisten durchsucht werden können."
 
-#: ../../themes/qgis-theme/getinvolved_index.html:61
+#: ../../themes/qgis-theme/getinvolved_index.html:77
 #: ../../themes/qgis-theme/getinvolved_donations.html:60
-#: ../../themes/qgis-theme/docs_index.html:56
 msgid "List of QGIS Support Channels"
 msgstr "Listen von QGIS-Supportkanälen"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:76
+#: ../../themes/qgis-theme/getinvolved_index.html:92
 msgid "Translate QGIS"
 msgstr "QGIS übersetzen"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:77
+#: ../../themes/qgis-theme/getinvolved_index.html:93
 msgid ""
 "The QGIS project provides a gentle GIS introduction, a User Guide, a Coding "
 "and Compilation Guide and a API Documentation in english and in some cases "
@@ -90,25 +89,25 @@ msgid ""
 " manual into another language, learn how to get started here:"
 msgstr "Das QGIS-Projekt stellt eine einfache GIS-Einführung, ein Benutzerhandbuch, eine Programmier- und Kompilationsanweisung und eine Schnittstellendokumentation in Englisch und in einigen Fällen auch in andere Sprachen übersetzt zur Verfügung. Wenn Sie an einer Beteiligung am Dokumentationsprojekt interessiert sind, z.B. durch die Übersetzung des englischen Handbuchs in eine andere Sprache, können Sie im Folgenden Informationen dazu finden:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:79
-#: ../../themes/qgis-theme/docs_index.html:81
+#: ../../themes/qgis-theme/getinvolved_index.html:95
+#: ../../themes/qgis-theme/docs_index.html:116
 msgid "Translate QGIS into your Language"
 msgstr "QGIS in Ihre Sprache übersetzen"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:87
+#: ../../themes/qgis-theme/getinvolved_index.html:103
 #: ../../themes/qgis-theme/forusers_index.html:31
 msgid "QGIS Plugins"
 msgstr "QGIS-Erweiterungen"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:90
+#: ../../themes/qgis-theme/getinvolved_index.html:106
 msgid "A wide range of great plugins exist for QGIS via the "
 msgstr "Eine breite Auswahl von guten Erweitungen für QGIS über das "
 
-#: ../../themes/qgis-theme/getinvolved_index.html:90
+#: ../../themes/qgis-theme/getinvolved_index.html:106
 msgid "QGIS Plugin web portal"
 msgstr "QGIS-Erweiterungsportal"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:108
+#: ../../themes/qgis-theme/getinvolved_index.html:124
 msgid "Get Set Up for QGIS Core Development"
 msgstr "Vorbereitungen zur QGIS-Kernentwicklung"
 
@@ -137,10 +136,10 @@ msgid "Help Support the Project Financially"
 msgstr "Das Projekt finanziell unterstützen"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:160
-#: ../../themes/qgis-theme/getinvolved_donations.html:131
 #: ../../themes/qgis-theme/about_index.html:147
-#: ../../themes/qgis-theme/forusers_index.html:210
-#: ../../themes/qgis-theme/docs_index.html:121
+#: ../../themes/qgis-theme/docs_index.html:156
+#: ../../themes/qgis-theme/getinvolved_donations.html:131
+#: ../../themes/qgis-theme/forusers_index.html:216
 msgid "Back to Top"
 msgstr "Zurück nach Oben"
 
@@ -154,157 +153,148 @@ msgstr "Suchen"
 msgid "English"
 msgstr "Englisch"
 
-#: ../../themes/qgis-theme/languageswitch.html:8
+#: ../../themes/qgis-theme/languageswitch.html:6
 msgid "Spanish"
 msgstr "Spanisch"
 
-#: ../../themes/qgis-theme/languageswitch.html:14
+#: ../../themes/qgis-theme/languageswitch.html:12
 msgid "Japanese"
 msgstr "Japanisch"
 
-#: ../../themes/qgis-theme/languageswitch.html:7
+#: ../../themes/qgis-theme/languageswitch.html:5
 msgid "German"
 msgstr "Deutsch"
 
-#: ../../themes/qgis-theme/languageswitch.html:13
+#: ../../themes/qgis-theme/languageswitch.html:11
 msgid "Italian"
 msgstr "Italienisch"
 
-#: ../../themes/qgis-theme/forusers_download.html:3
-msgid "Download QGIS for your Platform"
-msgstr "QGIS für Ihre Plattform herunterladen"
-
-#: ../../themes/qgis-theme/forusers_download.html:164
-#: ../../themes/qgis-theme/forusers_download.html:172
+#: ../../themes/qgis-theme/forusers_download.html:170
+#: ../../themes/qgis-theme/forusers_download.html:178
 msgid "Plugins for QGIS are also available "
 msgstr "Erweiterungen für QGIS sind ebenso verfügbar "
 
-#: ../../themes/qgis-theme/forusers_download.html:163
-#: ../../themes/qgis-theme/forusers_download.html:164
+#: ../../themes/qgis-theme/forusers_download.html:169
 #: ../../themes/qgis-theme/forusers_download.html:170
-#: ../../themes/qgis-theme/forusers_download.html:172
+#: ../../themes/qgis-theme/forusers_download.html:176
+#: ../../themes/qgis-theme/forusers_download.html:178
 msgid "here"
 msgstr "hier"
 
-#: ../../themes/qgis-theme/forusers_download.html:28
+#: ../../themes/qgis-theme/forusers_download.html:34
 msgid "Download for Windows"
 msgstr "Für Windows herunterladen"
 
-#: ../../themes/qgis-theme/forusers_download.html:34
+#: ../../themes/qgis-theme/forusers_download.html:40
 msgid "For New Users:"
 msgstr "Für neue Benutzer:"
 
-#: ../../themes/qgis-theme/forusers_download.html:44
-#: ../../themes/qgis-theme/forusers_download.html:55
+#: ../../themes/qgis-theme/forusers_download.html:50
+#: ../../themes/qgis-theme/forusers_download.html:61
 msgid "Virus check"
 msgstr "Virusprüfung"
 
-#: ../../themes/qgis-theme/forusers_download.html:74
+#: ../../themes/qgis-theme/forusers_download.html:80
 msgid "In the installer choose "
 msgstr "Wählen Sie im Installer "
 
-#: ../../themes/qgis-theme/forusers_download.html:74
+#: ../../themes/qgis-theme/forusers_download.html:80
 msgid "Desktop Express Install"
 msgstr "Desktop-Schnellinstallation"
 
-#: ../../themes/qgis-theme/forusers_download.html:74
+#: ../../themes/qgis-theme/forusers_download.html:80
 msgid "and select"
 msgstr "und wählen dann"
 
+#: ../../themes/qgis-theme/forusers_download.html:80
 #: ../../themes/qgis-theme/index.html:3
-#: ../../themes/qgis-theme/forusers_download.html:74
 msgid "QGIS"
 msgstr "QGIS"
 
-#: ../../themes/qgis-theme/forusers_download.html:74
+#: ../../themes/qgis-theme/forusers_download.html:80
 msgid "to install."
 msgstr "zur Installation."
 
-#: ../../themes/qgis-theme/forusers_download.html:83
+#: ../../themes/qgis-theme/forusers_download.html:89
 msgid "Download for Mac OS X"
 msgstr "Für Mac OS X herunterladen"
 
-#: ../../themes/qgis-theme/forusers_download.html:88
-msgid ""
-"Mac Installer Package for both OS X Lion (10.7) and Snow Leopard (10.6)."
-msgstr "Mac-Installationspaket sowohl für OS X Lion (10.7) and Snow Leopard (10.6)."
-
-#: ../../themes/qgis-theme/forusers_download.html:89
+#: ../../themes/qgis-theme/forusers_download.html:95
 msgid "This version requires"
 msgstr "Dies Version erfordert"
 
-#: ../../themes/qgis-theme/forusers_download.html:89
+#: ../../themes/qgis-theme/forusers_download.html:95
 msgid "separate installation of dependency frameworks (GDAL Complete and GSL)"
 msgstr "die gesonderte Installation von weitere Frameworks (GDAL-Komplett und GSL)"
 
-#: ../../themes/qgis-theme/forusers_download.html:89
+#: ../../themes/qgis-theme/forusers_download.html:95
 msgid ", also found at the download link below."
 msgstr ", ebenfalls verfügbar über den Download-Link unten."
 
-#: ../../themes/qgis-theme/forusers_download.html:93
+#: ../../themes/qgis-theme/forusers_download.html:99
 msgid "KyngChaos QGIS download page"
 msgstr "KyngChaos QGIS download page"
 
-#: ../../themes/qgis-theme/forusers_download.html:102
+#: ../../themes/qgis-theme/forusers_download.html:108
 msgid "Download for Linux"
 msgstr "Für Linux herunterladen"
 
-#: ../../themes/qgis-theme/forusers_download.html:118
+#: ../../themes/qgis-theme/forusers_download.html:124
 msgid "Linux Installation Instructions"
 msgstr "Linux-Installationsanweisungen"
 
-#: ../../themes/qgis-theme/forusers_download.html:126
+#: ../../themes/qgis-theme/forusers_download.html:132
 msgid "Download for BSD"
 msgstr "Für BSD herunterladen"
 
-#: ../../themes/qgis-theme/forusers_download.html:131
+#: ../../themes/qgis-theme/forusers_download.html:137
 msgid "BSD Installation Instructions"
 msgstr "BSD-installationsanweisungen"
 
-#: ../../themes/qgis-theme/forusers_download.html:139
+#: ../../themes/qgis-theme/forusers_download.html:145
 msgid "Download for Android"
 msgstr "Für Android herunterladen"
 
-#: ../../themes/qgis-theme/forusers_download.html:144
+#: ../../themes/qgis-theme/forusers_download.html:150
 msgid ""
 "Alpha and nightly builds for Android as well as further documentation can be"
 " obtained at "
 msgstr "Alpha and nächtlichtliche Builds für Android wie auf weitere Dokumentation sind verfügbar unter "
 
-#: ../../themes/qgis-theme/forusers_download.html:151
-#: ../../themes/qgis-theme/forusers_download.html:153
+#: ../../themes/qgis-theme/forusers_download.html:157
+#: ../../themes/qgis-theme/forusers_download.html:159
 msgid "All downloads"
 msgstr "Alle Downloads"
 
-#: ../../themes/qgis-theme/forusers_download.html:169
+#: ../../themes/qgis-theme/forusers_download.html:175
 msgid "QGIS is open source software available under the terms of the"
 msgstr "QGIS ist Open-Source-Software die uner den Bedinungen der "
 
-#: ../../themes/qgis-theme/forusers_download.html:169
+#: ../../themes/qgis-theme/forusers_download.html:175
 msgid "GNU General Public License"
 msgstr "GNU-General-Public-License"
 
-#: ../../themes/qgis-theme/forusers_download.html:169
+#: ../../themes/qgis-theme/forusers_download.html:175
 msgid ""
 "meaning that its source code can be downloaded through tarballs or the git "
 "repository."
 msgstr "d.h. das sein Quelltext als Tarball oder aus dem GIT-Repositorium heruntergeladen werden kann."
 
-#: ../../themes/qgis-theme/forusers_download.html:157
+#: ../../themes/qgis-theme/forusers_download.html:163
 msgid "For testing and learning purposes, a "
 msgstr "Zum Testen und zum Lernen, ein"
 
-#: ../../themes/qgis-theme/forusers_download.html:157
+#: ../../themes/qgis-theme/forusers_download.html:163
 msgid ""
 "which contains collections of data from different sources and in different "
 "formats."
 msgstr "deer Datensammlungen aus verschiedenen Quellen und in verschiedenene Formaten enthält."
 
-#: ../../themes/qgis-theme/forusers_download.html:163
+#: ../../themes/qgis-theme/forusers_download.html:169
 msgid "Older releases of QGIS are available"
 msgstr "Ältere Versionen von QGIS sind verfügbar"
 
-#: ../../themes/qgis-theme/forusers_download.html:170
+#: ../../themes/qgis-theme/forusers_download.html:176
 msgid "QGIS Source Code is available on github "
 msgstr "QGIS-Quelletext ist auf github verfügbar "
 
@@ -352,7 +342,7 @@ msgstr "Laden Sie es hier herunter."
 
 #: ../../themes/qgis-theme/about_index.html:68
 #: ../../themes/qgis-theme/forusers_index.html:37
-#: ../../themes/qgis-theme/forusers_index.html:124
+#: ../../themes/qgis-theme/forusers_index.html:130
 msgid "Features"
 msgstr "Funktionen"
 
@@ -413,7 +403,7 @@ msgstr "Organisationen, die QGIS unterstützen"
 #: ../../themes/qgis-theme/about_index.html:40
 #: ../../themes/qgis-theme/about_index.html:130
 #: ../../themes/qgis-theme/forusers_index.html:46
-#: ../../themes/qgis-theme/forusers_index.html:193
+#: ../../themes/qgis-theme/forusers_index.html:199
 msgid "Commercial Support"
 msgstr "Kommerzielle Unterstützung"
 
@@ -432,80 +422,80 @@ msgstr "Erfahren Sie mehr über kommerziellen QGIS-Support"
 msgid "A Free and Open Source Geographic Information System"
 msgstr "Ein freies Open-Source-Geographisches-Informationssystem"
 
-#: ../../themes/qgis-theme/index.html:35
+#: ../../themes/qgis-theme/index.html:48
 msgid "QGIS 2.0 Released"
 msgstr "QGIS 2.0 freigeben"
 
-#: ../../themes/qgis-theme/index.html:37
+#: ../../themes/qgis-theme/index.html:50
 msgid "Version 2.0 Dufour is named after..."
 msgstr "Version 2.0 Dufour ist benannt nach..."
 
-#: ../../themes/qgis-theme/index.html:37
+#: ../../themes/qgis-theme/index.html:50
 msgid "more"
 msgstr "mehr"
 
-#: ../../themes/qgis-theme/index.html:74
+#: ../../themes/qgis-theme/index.html:87
 msgid ""
 "Create, edit, visualise, analyse and publish geospatial\n"
 "            information on Windows, Mac, Linux, BSD (Android coming soon)"
 msgstr "Erstellen, bearbeiten, anzeigen, analysieren räumlicher\n            Information unter Windows, Mac, Linux, BSD (bald auch Android)"
 
-#: ../../themes/qgis-theme/index.html:78
+#: ../../themes/qgis-theme/index.html:91
 msgid ""
 "For your desktop, server, in your web browser and as\n"
 "            developer libraries"
 msgstr "Für Ihren Desktop, Server, im Webbrowser und als\n          Bibliothek zur Entwicklung"
 
-#: ../../themes/qgis-theme/index.html:85
+#: ../../themes/qgis-theme/index.html:98
 msgid "Download Now"
 msgstr "Jetzt herunterladen"
 
-#: ../../themes/qgis-theme/index.html:102
+#: ../../themes/qgis-theme/index.html:127
 msgid "Get Started"
 msgstr "Beginnen"
 
-#: ../../themes/qgis-theme/index.html:106
+#: ../../themes/qgis-theme/index.html:131
 msgid "Download and Install QGIS then follow the Quickstart."
 msgstr "QGIS herunterladen, Installieren und dann dem Schnellstart folgen."
 
+#: ../../themes/qgis-theme/index.html:140
 #: ../../themes/qgis-theme/page.html:133
-#: ../../themes/qgis-theme/index.html:115
 msgid "Get Involved"
 msgstr "Sich beteiligen"
 
-#: ../../themes/qgis-theme/index.html:118
+#: ../../themes/qgis-theme/index.html:143
 msgid "Shape the future of QGIS with your contributions."
 msgstr "Gestalten Sie die Zukunft von QGIS mit Ihren Beiträgen."
 
-#: ../../themes/qgis-theme/index.html:126
+#: ../../themes/qgis-theme/index.html:151
 msgid "Learn More"
 msgstr "Mehr erfahren"
 
-#: ../../themes/qgis-theme/index.html:130
+#: ../../themes/qgis-theme/index.html:155
 msgid "Find training materials and reference documentation."
 msgstr "Trainingsunterlagen und Referenzdokumentation."
 
-#: ../../themes/qgis-theme/index.html:143
+#: ../../themes/qgis-theme/index.html:168
 msgid "Latest News"
 msgstr "Aktuelle Nachrichten"
 
-#: ../../themes/qgis-theme/index.html:146
+#: ../../themes/qgis-theme/index.html:171
 msgid "Find out what is going on with the QGIS project and its Community."
 msgstr "Erfahren Sie mehr über das was im QGIS-Projekt und seiner Community los ist."
 
-#: ../../themes/qgis-theme/forusers_index.html:154
+#: ../../themes/qgis-theme/forusers_index.html:160
 msgid "Planet QGIS"
 msgstr "Planet QGIS"
 
-#: ../../themes/qgis-theme/index.html:202
+#: ../../themes/qgis-theme/index.html:227
 msgid "Sponsors"
 msgstr "Sponsoren"
 
-#: ../../themes/qgis-theme/index.html:209
+#: ../../themes/qgis-theme/index.html:234
 msgid "Gold Sponsor"
 msgstr "Gold-Sponsoren"
 
-#: ../../themes/qgis-theme/index.html:215
+#: ../../themes/qgis-theme/index.html:240
 msgid "Silver Sponsors"
 msgstr "Silber-Sponsoren"
 
@@ -536,7 +526,7 @@ msgid "Download"
 msgstr "Herunterladen"
 
 #: ../../themes/qgis-theme/forusers_index.html:40
-#: ../../themes/qgis-theme/forusers_index.html:140
+#: ../../themes/qgis-theme/forusers_index.html:146
 msgid "Getting Help"
 msgstr "Hilfe finden"
 
@@ -545,66 +535,66 @@ msgstr "Hilfe finden"
 msgid "Download QGIS"
 msgstr "QGIS herunterladen"
 
-#: ../../themes/qgis-theme/forusers_index.html:80
+#: ../../themes/qgis-theme/forusers_index.html:86
 msgid "Get Plugins"
 msgstr "Erweiterungen bekommen"
 
-#: ../../themes/qgis-theme/forusers_index.html:102
 #: ../../themes/qgis-theme/docs_index.html:7
+#: ../../themes/qgis-theme/forusers_index.html:108
 msgid "QGIS Documentation"
 msgstr "QGIS-Dokumentation"
 
-#: ../../themes/qgis-theme/forusers_index.html:106
+#: ../../themes/qgis-theme/forusers_index.html:112
 msgid "Read QGIS Documentation"
 msgstr "QGIS-Dokumentation lesen"
 
-#: ../../themes/qgis-theme/forusers_index.html:108
+#: ../../themes/qgis-theme/forusers_index.html:114
 msgid "Another good guide to getting started is:"
 msgstr "Eine weiteres gutes Handbuch zum Beginnen ist:"
 
-#: ../../themes/qgis-theme/forusers_index.html:111
+#: ../../themes/qgis-theme/forusers_index.html:117
 msgid "A Gentle Introduction to GIS"
 msgstr "A Gentle Introduction to GIS (Englisch)"
 
-#: ../../themes/qgis-theme/forusers_index.html:128
+#: ../../themes/qgis-theme/forusers_index.html:134
 msgid "Learn about QGIS Features"
 msgstr "Mehr über QGIS-Funktionen erfahren"
 
-#: ../../themes/qgis-theme/forusers_index.html:143
+#: ../../themes/qgis-theme/forusers_index.html:149
 msgid "Where to get support for QGIS"
 msgstr "Wo Support für QGIS zu bekommen ist"
 
-#: ../../themes/qgis-theme/forusers_index.html:151
+#: ../../themes/qgis-theme/forusers_index.html:157
 msgid "QGIS Press"
 msgstr "QGIS-Presse"
 
-#: ../../themes/qgis-theme/forusers_index.html:173
+#: ../../themes/qgis-theme/forusers_index.html:179
 msgid "Organizations that Support QGIS"
 msgstr "Organisationen die QGIS unterstützen"
 
-#: ../../themes/qgis-theme/forusers_index.html:174
+#: ../../themes/qgis-theme/forusers_index.html:180
 msgid ""
 "QGIS is an entirely Open Source project. QGIS development is carried out "
 "largely by a group of volunteers, that in time have built up a large, "
 "valuable and useful code base, free to use and improve for everybody."
 msgstr "QGIS ist ein vollständiges Open-Source-Projekt.  Die QGIS-Entwicklung wird von einer großen Gruppen von Freiwilligen durchgeführt, die schnell eine grosse, wertvolle und nützliche Codebase erstellt haben. Frei zur Benutzung und Verbessung durch Jedermann."
 
-#: ../../themes/qgis-theme/forusers_index.html:177
+#: ../../themes/qgis-theme/forusers_index.html:183
 msgid "Learn about Organizations that support QGIS"
 msgstr "Organisationen die QGIS unterstützen"
 
-#: ../../themes/qgis-theme/forusers_index.html:194
+#: ../../themes/qgis-theme/forusers_index.html:200
 msgid ""
 "Do you plan to use QGIS in your company or organization, but worry about "
 "whether there is commercial support available? Here is an alphabetical list "
 "of support contractors."
 msgstr "Wenn Sie planen QGIS in Ihrer Firma oder Organisation einzusetzen, aber machen sich Sorgen, dass es keine kommerzielle Unterstützung gibt?  Hier ist eine alphabetische Liste von Supportfirmen."
 
-#: ../../themes/qgis-theme/forusers_index.html:197
+#: ../../themes/qgis-theme/forusers_index.html:203
 msgid "Finding Commercial Support for QGIS"
 msgstr "Kommerzielen Support für QGIS finden"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:106
+#: ../../themes/qgis-theme/getinvolved_index.html:122
 msgid ""
 "QGIS Core consists on the one hand of the libraries enabling you to build "
 "custom tailored application by  providing a powerful API. On the other hand "
@@ -612,79 +602,65 @@ msgid ""
 "possibilities offered by the libraries, offering a user friendly interface."
 msgstr "Der QGIS-Kern besteht einerseits aus den Bibliotheken, die die Erstellung von angepaßten Applikationen mit Hilfe der mächtigen API ermöglichen und andererseits aus einer Desktop- und einer Server-Applikation, die die Möglichkeiten der Bibliotheken in einer benutzerfreudlichen Oberfläche anbieten."
 
-#: ../../themes/qgis-theme/languageswitch.html:11
+#: ../../themes/qgis-theme/languageswitch.html:9
 msgid "French"
 msgstr "Französisch"
 
-#: ../../themes/qgis-theme/languageswitch.html:20
+#: ../../themes/qgis-theme/languageswitch.html:21
 msgid "Russian"
 msgstr "Russisch"
 
-#: ../../themes/qgis-theme/languageswitch.html:6
-msgid "Danish"
-msgstr "Dänisch"
-
-#: ../../themes/qgis-theme/languageswitch.html:16
+#: ../../themes/qgis-theme/languageswitch.html:14
 msgid "Korean"
 msgstr "Koreanisch"
 
-#: ../../themes/qgis-theme/forusers_download.html:157
+#: ../../themes/qgis-theme/forusers_download.html:163
 msgid "sample dataset is available"
 msgstr "Ein Beispieldatensatz ist verfügbar"
 
-#: ../../themes/qgis-theme/index.html:26
+#: ../../themes/qgis-theme/index.html:38
 msgid "QGIS 2 has a fresh new look ..."
 msgstr "QGIS 2 hat ein frisches neues Aussehen..."
 
-#: ../../themes/qgis-theme/index.html:26
+#: ../../themes/qgis-theme/index.html:39
 msgid "check out some screenshots"
 msgstr "Gucken Sie sich ein paar Screenshots an"
 
-#: ../../themes/qgis-theme/index.html:46
+#: ../../themes/qgis-theme/index.html:59
 msgid "Edit"
 msgstr "Bearbeiten"
 
-#: ../../themes/qgis-theme/index.html:48
+#: ../../themes/qgis-theme/index.html:61
 msgid "QGIS 2 has rich vector editing features ..."
 msgstr "QGIS 2 hat mächtige Vektorbearbeitungsfunktionen..."
 
-#: ../../themes/qgis-theme/index.html:48
+#: ../../themes/qgis-theme/index.html:61
 msgid "check out our manual"
 msgstr "Gucken Sie sich unser Handbuch an"
 
-#: ../../themes/qgis-theme/index.html:57
+#: ../../themes/qgis-theme/index.html:70
 msgid "Print"
 msgstr "Drucken"
 
-#: ../../themes/qgis-theme/index.html:59
+#: ../../themes/qgis-theme/index.html:72
 msgid "QGIS 2 Print Composer has received a major face-lift ..."
 msgstr "Die QGIS 2-Druckzusammenstellung hat ein großes Facelifting erhalten..."
 
-#: ../../themes/qgis-theme/index.html:59
+#: ../../themes/qgis-theme/index.html:72
 msgid "check out the new features"
 msgstr "Gucken Sie sich die neuen Funktionen an"
 
-#: ../../themes/qgis-theme/forusers_index.html:60
-msgid "For Linux, Windows, OSX, BSD and beta Android."
-msgstr "Für Linux, Windows, Mac, BSD und als Beta für Android."
-
-#: ../../themes/qgis-theme/forusers_index.html:83
-msgid ""
-"The integrated plugin manager in QGIS lets you download and install from a "
-"vast collection of free plugins."
-msgstr "Die integrierte Erweiterungsverwaltung in QGIS erlaubt das Herunterladen und die Installation einer großen Fülle von Erweiterungen."
-
-#: ../../themes/qgis-theme/forusers_index.html:86
+#: ../../themes/qgis-theme/forusers_index.html:92
 msgid "Explore the plugins that make QGIS so powerful."
 msgstr "Lernen Sie die Erweiterungen kennen, die QGIS so stark machen."
 
-#: ../../themes/qgis-theme/forusers_index.html:103
+#: ../../themes/qgis-theme/forusers_index.html:109
 msgid ""
 "The User manual contains all documentation needed for a user to get started."
 " The documentation is updated with every update of QGIS."
 msgstr "Das Benutzerhandbuch enthält alle benötigte Dokumentation, die ein Benutzer zu Beginn braucht. Die Dokumentation wird mit jedem QGIS-Update aktualisiert."
 
-#: ../../themes/qgis-theme/forusers_index.html:125
+#: ../../themes/qgis-theme/forusers_index.html:131
 msgid ""
 "QGIS provides a wide and growing range of capabilities via its core "
 "functions and plugins. You can visualize, manage, edit, analyse data, and "
@@ -692,7 +668,7 @@ msgid ""
 "list."
 msgstr "QGIS stellt eine breite, ständig größer werdende Fülle von Funktionen im Kern und Erweiterungen zur Verfügung. Sie können Daten anzeigen, verwalten, bearbeiten, analysieren und druckfertige Karten zusammenstellen. Verschaffen Sie sich über eine detailliertere Funktionsliste einen Überblick."
 
-#: ../../themes/qgis-theme/forusers_index.html:141
+#: ../../themes/qgis-theme/forusers_index.html:147
 msgid ""
 "There are several QGIS mailing lists, IRC channels, forums and user groups "
 "you can use to get help from fellow users and developers."
@@ -702,11 +678,7 @@ msgstr "Es gibt mehrere QGIS-Mailinglisten, einen IRC-Kanal, Foren und Benutzerg
 msgid "New donations page"
 msgstr "Neue Spendenseite"
 
-#: ../../themes/qgis-theme/languageswitch.html:5
-msgid "Catalan"
-msgstr "Katalanisch"
-
-#: ../../themes/qgis-theme/languageswitch.html:10
+#: ../../themes/qgis-theme/languageswitch.html:8
 msgid "Finnish"
 msgstr "Finnisch"
 
@@ -718,78 +690,73 @@ msgstr "Portugiesisch"
 msgid "Romanian"
 msgstr "Rumänisch"
 
-#: ../../themes/qgis-theme/languageswitch.html:21
+#: ../../themes/qgis-theme/languageswitch.html:23
 msgid "Chinese (China)"
 msgstr "Chinesisch (China)"
 
-#: ../../themes/qgis-theme/languageswitch.html:22
-#: ../../themes/qgis-theme/languageswitch.html:22
-msgid "Chinese (Taiwan)"
-msgstr "Chinesisch (Taiwan)"
-
-#: ../../themes/qgis-theme/forusers_download.html:13
+#: ../../themes/qgis-theme/forusers_download.html:19
 msgid "Installation Downloads"
 msgstr "Installationsdownloads "
 
-#: ../../themes/qgis-theme/forusers_download.html:14
+#: ../../themes/qgis-theme/forusers_download.html:20
 msgid "All Releases"
 msgstr "Alle Versionen"
 
-#: ../../themes/qgis-theme/forusers_download.html:15
+#: ../../themes/qgis-theme/forusers_download.html:21
 msgid "Sources"
 msgstr "Quellen"
 
-#: ../../themes/qgis-theme/forusers_download.html:64
+#: ../../themes/qgis-theme/forusers_download.html:70
 msgid "OSGeo4W Network Installer (32 bit)"
 msgstr "OSGeo4W Netzwerkinstallation (32 bit)"
 
-#: ../../themes/qgis-theme/forusers_download.html:71
+#: ../../themes/qgis-theme/forusers_download.html:77
 msgid "OSGeo4W Network Installer (64 bit)"
 msgstr "OSGeo4W-Netzwerkinstallation (64 bit)"
 
-#: ../../themes/qgis-theme/forusers_download.html:111
+#: ../../themes/qgis-theme/forusers_download.html:117
 msgid "Fedora"
 msgstr "Fedora"
 
-#: ../../themes/qgis-theme/forusers_download.html:109
+#: ../../themes/qgis-theme/forusers_download.html:115
 msgid "Ubuntu"
 msgstr "Ubuntu"
 
-#: ../../themes/qgis-theme/forusers_download.html:110
+#: ../../themes/qgis-theme/forusers_download.html:116
 msgid "Debian"
 msgstr "Debian"
 
-#: ../../themes/qgis-theme/forusers_download.html:112
+#: ../../themes/qgis-theme/forusers_download.html:118
 msgid "openSUSE"
 msgstr "openSUSE"
 
-#: ../../themes/qgis-theme/forusers_download.html:113
+#: ../../themes/qgis-theme/forusers_download.html:119
 msgid "RHEL, CentOS, Scientific Linux, ..."
 msgstr "RHEL, CentOS, Scientific Linux, ..."
 
-#: ../../themes/qgis-theme/forusers_download.html:114
+#: ../../themes/qgis-theme/forusers_download.html:120
 msgid "Mandriva"
 msgstr "Mandriva"
 
-#: ../../themes/qgis-theme/forusers_download.html:115
+#: ../../themes/qgis-theme/forusers_download.html:121
 msgid "Slackware"
 msgstr "Slackware"
 
-#: ../../themes/qgis-theme/forusers_download.html:116
+#: ../../themes/qgis-theme/forusers_download.html:122
 msgid "ArchLinux"
 msgstr "ArchLinux"
 
-#: ../../themes/qgis-theme/forusers_download.html:153
+#: ../../themes/qgis-theme/forusers_download.html:159
 msgid ""
 "More specific instructions about downloading QGIS stable vs QGIS development"
 " can be found in"
 msgstr "Genauere Anweisung zum Herunterladen der stabilen und der QGIS-Entwicklungsversionen sind hier zu finden"
 
-#: ../../themes/qgis-theme/forusers_download.html:156
+#: ../../themes/qgis-theme/forusers_download.html:162
 msgid "Datasets"
 msgstr "Datensätze"
 
-#: ../../themes/qgis-theme/forusers_download.html:171
+#: ../../themes/qgis-theme/forusers_download.html:177
 msgid ""
 "Refer to the INSTALL guide on how to compile QGIS from source for the "
 "different platforms."
@@ -838,11 +805,11 @@ msgid ""
 "via the button below."
 msgstr "Flattr eine eine Möglichkeit an Entwickler zu spenden. Lesen Sie mehr über den Knopf unten."
 
-#: ../../themes/qgis-theme/index.html:89
+#: ../../themes/qgis-theme/index.html:102
 msgid "Support QGIS"
 msgstr "QGIS unterstützen"
 
-#: ../../themes/qgis-theme/index.html:90
+#: ../../themes/qgis-theme/index.html:103
 msgid "Donate now!"
 msgstr "Jetzt spenden!"
 
@@ -859,50 +826,46 @@ msgid ""
 "target=\"_blank\">The Noun Project collection</a>"
 msgstr "Ausgewählte Grafik von <a href=\"http://thenounproject.com\" target=\"_blank\">The Noun Project collection</a>"
 
-#: ../../themes/qgis-theme/forusers_index.html:65
-msgid "Check out our visual changelog, for what is changed since QGIS 1.8"
-msgstr "Für die Änderungen seit QGIS 1.8, sehen Sie sich bitte unser visuelles Änderungsprotokoll an"
-
-#: ../../themes/qgis-theme/forusers_index.html:68
+#: ../../themes/qgis-theme/forusers_index.html:71
 msgid "Visual Changelog for 2.0"
 msgstr "Visuelles Änderungsprotokoll für 2.0"
 
-#: ../../themes/qgis-theme/languageswitch.html:9
+#: ../../themes/qgis-theme/languageswitch.html:7
 msgid "Persian"
 msgstr "Persisch"
 
-#: ../../themes/qgis-theme/languageswitch.html:17
+#: ../../themes/qgis-theme/languageswitch.html:15
 msgid "Dutch"
 msgstr "Holländisch"
 
-#: ../../themes/qgis-theme/forusers_download.html:107
+#: ../../themes/qgis-theme/forusers_download.html:113
 msgid ""
 "For many flavors of GNU/Linux binary packages (rpm and deb) or software "
 "repositories (to add to your installation manager) are available. Please "
 "select your choice of distro below:"
 msgstr "Für viele GNU/Linux Varianten sind Pakete (deb und rpm) oder Softwarerepositorien (um Sie Ihrem Installationsmanager hinzuzufügen)  verfügbar. Bitte wählen Sie unten Ihre Distribution:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:88
+#: ../../themes/qgis-theme/getinvolved_index.html:104
 msgid "Want to write your own Python plugin? Go here: "
 msgstr "Wollen Sie eine Python-Erweiterung schreiben?  Gehen Sie nach:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:88
+#: ../../themes/qgis-theme/getinvolved_index.html:104
 msgid "Developing Python plugins"
 msgstr "Python-Erweiterungen entwickeln"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:89
+#: ../../themes/qgis-theme/getinvolved_index.html:105
 msgid "Want to develop a cpp plugin? Go here: "
 msgstr "Wollen Sie eine C++-Erweiterung schreiben?  Gehen Sie nach:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:89
+#: ../../themes/qgis-theme/getinvolved_index.html:105
 msgid "Developing CPP plugins"
 msgstr "Eine C++-Erweiterung entwickeln"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:111
+#: ../../themes/qgis-theme/getinvolved_index.html:127
 msgid "QGIS roadmap"
 msgstr "QGIS-Entwicklungsplan"
 
-#: ../../themes/qgis-theme/forusers_download.html:59
+#: ../../themes/qgis-theme/forusers_download.html:65
 msgid "For Advanced Users:"
 msgstr "Für fortgeschrittene Anwender:"
 
@@ -912,139 +875,132 @@ msgid ""
 "                    Use the details below to make a donation via international money transfer:"
 msgstr "Die schweizer QGIS-Anwendergruppe kümmert sich um unser Bankkonto.\nRichten Sie sich nach den untenstehenden Detail, um per Auslandsüberweisung zu spenden:"
 
-#: ../../themes/qgis-theme/forusers_index.html:152
+#: ../../themes/qgis-theme/forusers_index.html:158
 msgid "Read what the QGIS Community is doing around the world."
 msgstr "Lesen was die QGIS-Gemeinschaft weltweit tut."
 
-#: ../../themes/qgis-theme/forusers_index.html:156
+#: ../../themes/qgis-theme/forusers_index.html:162
 msgid "Get the QGIS 2.0 brochure:"
 msgstr "Die QGIS 2.0-Broschüre bekommen:"
 
-#: ../../themes/qgis-theme/forusers_index.html:158
+#: ../../themes/qgis-theme/forusers_index.html:164
 msgid "QGIS 2.0 Brochure"
 msgstr "QGIS 2.0 Broschüre"
 
-#: ../../themes/qgis-theme/forusers_index.html:160
+#: ../../themes/qgis-theme/forusers_index.html:166
 msgid "for a high-resolution print version get:"
 msgstr "Eine Druckversion in hoher Auflösung:"
 
-#: ../../themes/qgis-theme/forusers_index.html:161
+#: ../../themes/qgis-theme/forusers_index.html:167
 msgid "Brochure print version (15MB)"
 msgstr "Druckversion der Broschüre (15MB)"
 
-#: ../../themes/qgis-theme/languageswitch.html:12
+#: ../../themes/qgis-theme/languageswitch.html:10
 msgid "Indonesian"
 msgstr "Indonesisch"
 
-#: ../../themes/qgis-theme/languageswitch.html:15
+#: ../../themes/qgis-theme/languageswitch.html:13
 msgid "Khmer"
 msgstr "Khmer"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:44
-#: ../../themes/qgis-theme/getinvolved_index.html:123
+#: ../../themes/qgis-theme/getinvolved_index.html:32
+#: ../../themes/qgis-theme/getinvolved_index.html:63
 msgid "Report Bugs"
 msgstr "Fehler melden"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:124
+#: ../../themes/qgis-theme/getinvolved_index.html:64
 msgid ""
 "If you find an issue working with QGIS please report it so developers can "
 "check and fix it."
 msgstr "Wenn Sie einen Fehler beim Arbeiten mit QGIS finden, melden Sie diesen bitte an die Entwickler, sodass diese ihn prüfen und beheben können."
 
-#: ../../themes/qgis-theme/getinvolved_index.html:126
+#: ../../themes/qgis-theme/getinvolved_index.html:66
 msgid "Report a bug"
 msgstr "Einen Fehler melden"
 
-#: ../../themes/qgis-theme/docs_index.html:24
+#: ../../themes/qgis-theme/docs_index.html:25
 msgid "DOCUMENTATION"
 msgstr "DOKUMENTATION"
 
-#: ../../themes/qgis-theme/docs_index.html:29
-#: ../../themes/qgis-theme/docs_index.html:48
-msgid "for QGIS 2.0"
-msgstr "für QGIS 2.0"
-
-#: ../../themes/qgis-theme/docs_index.html:32
-#: ../../themes/qgis-theme/docs_index.html:74
-msgid "for QGIS 1.8"
-msgstr "für QGIS 1.8"
-
-#: ../../themes/qgis-theme/docs_index.html:35
-#: ../../themes/qgis-theme/docs_index.html:92
+#: ../../themes/qgis-theme/docs_index.html:127
 msgid "for QGIS testing"
 msgstr "für QGIS-Testversion"
 
-#: ../../themes/qgis-theme/docs_index.html:49
+#: ../../themes/qgis-theme/docs_index.html:85
 msgid "QGIS User guide/Manual"
 msgstr "QGIS-Benutzerhandbuch"
 
-#: ../../themes/qgis-theme/docs_index.html:51
+#: ../../themes/qgis-theme/docs_index.html:71
+#: ../../themes/qgis-theme/docs_index.html:87
 msgid "PyQGIS cookbook (for plugins and scripting)"
 msgstr "PyQGIS-Kochbuch (für Erweiterungen und Skripte)"
 
-#: ../../themes/qgis-theme/docs_index.html:52
+#: ../../themes/qgis-theme/docs_index.html:66
+#: ../../themes/qgis-theme/docs_index.html:88
 msgid "Documentation Guidelines"
 msgstr "Dokumentations-Richtlinien"
 
-#: ../../themes/qgis-theme/docs_index.html:53
-#: ../../themes/qgis-theme/docs_index.html:79
-#: ../../themes/qgis-theme/docs_index.html:99
+#: ../../themes/qgis-theme/docs_index.html:61
+#: ../../themes/qgis-theme/docs_index.html:89
+#: ../../themes/qgis-theme/docs_index.html:114
+#: ../../themes/qgis-theme/docs_index.html:134
 msgid "A gentle introduction in GIS"
 msgstr "Eine sanften Einführung in GIS"
 
-#: ../../themes/qgis-theme/docs_index.html:80
-#: ../../themes/qgis-theme/docs_index.html:100
+#: ../../themes/qgis-theme/docs_index.html:115
+#: ../../themes/qgis-theme/docs_index.html:135
 msgid "PDF versions of all above, eg for printing are available here: "
 msgstr "PDF-Versionen (z.B. zum Drucken) sind hier erhältlich:"
 
-#: ../../themes/qgis-theme/docs_index.html:54
+#: ../../themes/qgis-theme/docs_index.html:90
 msgid "http://docs.qgis.org/2.0/pdf"
 msgstr "http://docs.qgis.org/2.0/pdf"
 
-#: ../../themes/qgis-theme/docs_index.html:55
+#: ../../themes/qgis-theme/docs_index.html:84
+#: ../../themes/qgis-theme/docs_index.html:91
 msgid "http://docs.qgis.org/2.0"
 msgstr "http://docs.qgis.org/2.0"
 
-#: ../../themes/qgis-theme/docs_index.html:75
+#: ../../themes/qgis-theme/docs_index.html:110
 msgid "http://docs.qgis.org/1.8"
 msgstr "http://docs.qgis.org/1.8"
 
-#: ../../themes/qgis-theme/docs_index.html:76
-#: ../../themes/qgis-theme/docs_index.html:94
+#: ../../themes/qgis-theme/docs_index.html:111
+#: ../../themes/qgis-theme/docs_index.html:129
 msgid "User guide/Manual"
 msgstr "Benutzerhandbuch"
 
-#: ../../themes/qgis-theme/docs_index.html:77
-#: ../../themes/qgis-theme/docs_index.html:96
+#: ../../themes/qgis-theme/docs_index.html:112
+#: ../../themes/qgis-theme/docs_index.html:131
 msgid "PyQGIS cookbook"
 msgstr "PyQGIS-Kochbuch"
 
-#: ../../themes/qgis-theme/docs_index.html:78
-#: ../../themes/qgis-theme/docs_index.html:97
+#: ../../themes/qgis-theme/docs_index.html:113
+#: ../../themes/qgis-theme/docs_index.html:132
 msgid "Documentation Guidelines (how to write the docs)"
 msgstr "Dokumentations-Richtlinien (wie schreibt man Doku)"
 
-#: ../../themes/qgis-theme/docs_index.html:80
+#: ../../themes/qgis-theme/docs_index.html:115
 msgid "http://docs.qgis.org/1.8/pdf"
 msgstr "http://docs.qgis.org/1.8/pdf"
 
-#: ../../themes/qgis-theme/docs_index.html:93
+#: ../../themes/qgis-theme/docs_index.html:128
 msgid ""
 "Although not translated we also build the documentation for QGIS which is "
 "currently developed. We call this version 'QGIS testing' and documentation "
 "can be found here: "
 msgstr "Obgleich es nicht übersetzt ist, erzeugen wir auch die Dokumentation für die QGIS-Version, die gerade entwickelt wird. Wir nennen diese Version QGIS-Test und seine Dokumentation ist zu finden unter:"
 
-#: ../../themes/qgis-theme/docs_index.html:93
+#: ../../themes/qgis-theme/docs_index.html:128
 msgid "http://docs.qgis.org/testing"
 msgstr "http://docs.qgis.org/testing"
 
-#: ../../themes/qgis-theme/docs_index.html:100
+#: ../../themes/qgis-theme/docs_index.html:135
 msgid "http://docs.qgis.org/testing/pdf"
 msgstr "http://docs.qgis.org/testing/pdf"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:41
-#: ../../themes/qgis-theme/getinvolved_index.html:105
+#: ../../themes/qgis-theme/getinvolved_index.html:44
+#: ../../themes/qgis-theme/getinvolved_index.html:121
 msgid "Develop QGIS Core"
 msgstr "QGIS-Kernentwicklung"
 
@@ -1062,11 +1018,11 @@ msgid ""
 "downloaded here."
 msgstr "Softwarepakete (Installer) für die aktuelle stabile Version 2.2 können hier heruntergeladen werden."
 
-#: ../../themes/qgis-theme/forusers_download.html:39
+#: ../../themes/qgis-theme/forusers_download.html:45
 msgid "QGIS Standalone Installer Version 2.2 (32 bit)"
 msgstr "Eigenständige QGIS-Installation Version 2.2 (32bit)"
 
-#: ../../themes/qgis-theme/forusers_download.html:50
+#: ../../themes/qgis-theme/forusers_download.html:56
 msgid "QGIS Standalone Installer Version 2.2 (64 bit)"
 msgstr "Eigenständige QGIS-Installation Version 2.2 (64bit)"
 
@@ -1080,38 +1036,35 @@ msgstr "QGIS ist das beste freie GIS-Werkzeug."
 msgid "Our latest release is QGIS "
 msgstr "Unsere aktuelleste QGIS-Version ist"
 
-#: ../../themes/qgis-theme/index.html:24
+#: ../../themes/qgis-theme/index.html:36
 msgid "QGIS 2"
 msgstr "QGIS 2"
 
-#: ../../themes/qgis-theme/index.html:86
+#: ../../themes/qgis-theme/index.html:99
 msgid "Version 2.2 Valmiera"
 msgstr "Version 2.2 Valmiera"
 
-#: ../../themes/qgis-theme/index.html:160
+#: ../../themes/qgis-theme/index.html:185
 msgid "Latest Blog Posts"
 msgstr "Aktuelle Blog Posts"
 
-#: ../../themes/qgis-theme/docs_index.html:8
-msgid ""
-"QGIS has a lot of documentation. Most documentation is in English but some "
-"documents such as the user guide are also available in other languages."
-msgstr "QGIS hat viel Dokumentation. Meist ist die Dokumentation auf englisch, aber einige Dokumente, wie beispielsweise das Benutzerhandbuch gibt es auch in anderen Sprachen."
-
-#: ../../themes/qgis-theme/docs_index.html:50
-#: ../../themes/qgis-theme/docs_index.html:95
+#: ../../themes/qgis-theme/docs_index.html:60
+#: ../../themes/qgis-theme/docs_index.html:86
+#: ../../themes/qgis-theme/docs_index.html:130
 msgid "QGIS Training manual"
 msgstr "QGIS-Trainingshandbuch"
 
-#: ../../themes/qgis-theme/docs_index.html:57
-#: ../../themes/qgis-theme/docs_index.html:82
-#: ../../themes/qgis-theme/docs_index.html:101
+#: ../../themes/qgis-theme/docs_index.html:73
+#: ../../themes/qgis-theme/docs_index.html:92
+#: ../../themes/qgis-theme/docs_index.html:117
+#: ../../themes/qgis-theme/docs_index.html:136
 msgid "C++ Api documentation"
 msgstr "C++-API-Dokumentation"
 
-#: ../../themes/qgis-theme/docs_index.html:58
-#: ../../themes/qgis-theme/docs_index.html:83
-#: ../../themes/qgis-theme/docs_index.html:102
+#: ../../themes/qgis-theme/docs_index.html:72
+#: ../../themes/qgis-theme/docs_index.html:93
+#: ../../themes/qgis-theme/docs_index.html:118
+#: ../../themes/qgis-theme/docs_index.html:137
 msgid "Python (iface) Api documentation"
 msgstr "Python (iface)-API-Dokumentation"
 
@@ -1160,44 +1113,221 @@ msgstr "QGIS ist eine Open-Source geographisches Informationssystem mit einer in
 msgid "In the Press"
 msgstr "In der Presse"
 
-#: ../../themes/qgis-theme/forusers_index.html:81
+#: ../../themes/qgis-theme/forusers_index.html:87
 msgid ""
 "QGIS plugin architecture allows many new features/functions to be easily "
 "added to the application. "
 msgstr "QGIS hat eine Erweiterungsarchitektur. Damit können der Anwendung einfach viele neue Funktionen hinzugefügt werden."
 
-#: ../../themes/qgis-theme/docs_index.html:49
+#: ../../themes/qgis-theme/docs_index.html:85
 msgid "Read the"
-msgstr ""
+msgstr "Lesen Sie"
 
-#: ../../themes/qgis-theme/docs_index.html:50
+#: ../../themes/qgis-theme/docs_index.html:86
 msgid "Do the QGIS training:"
-msgstr ""
+msgstr "Machen Sie die QGIS-Schulung:"
 
-#: ../../themes/qgis-theme/docs_index.html:51
+#: ../../themes/qgis-theme/docs_index.html:71
+#: ../../themes/qgis-theme/docs_index.html:87
 msgid "Go Python, study the"
-msgstr ""
+msgstr "Python vor. Studieren Sie das"
 
-#: ../../themes/qgis-theme/docs_index.html:52
+#: ../../themes/qgis-theme/docs_index.html:88
 msgid "Learn how to write docs in"
-msgstr ""
+msgstr "Wie Dokumentation zu schreiben ist, können Sie lernen unter:"
 
-#: ../../themes/qgis-theme/docs_index.html:53
+#: ../../themes/qgis-theme/docs_index.html:89
 msgid "Intro GIS in"
-msgstr ""
+msgstr "GIS-Einführung unter"
 
-#: ../../themes/qgis-theme/docs_index.html:54
+#: ../../themes/qgis-theme/docs_index.html:90
 msgid "PDF versions of all above, eg for printing are available here:"
-msgstr ""
+msgstr "PDF-Version von allem obigen, z.B. zum Ausdrucken sind verfügbar unter:"
 
-#: ../../themes/qgis-theme/docs_index.html:55
-msgid ""
-"Documentation for QGIS 2.0 is part of the website. But also availabe at:"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:75
+#: ../../themes/qgis-theme/docs_index.html:110
 msgid "We keep a copy of the documentation of QGIS 1.8 around here:"
-msgstr ""
+msgstr "Wir halten die Dokumentation zu QGIS 1.8 bereit unter:"
+
+#: ../../themes/qgis-theme/docs_index.html:33
+#: ../../themes/qgis-theme/docs_index.html:83
+msgid "QGIS 2.0"
+msgstr "QGIS 2.0"
+
+#: ../../themes/qgis-theme/forusers_download.html:3
+msgid "Download QGIS for your platform"
+msgstr "Laden Sie QGIS für Ihre Plattform herunter"
+
+#: ../../themes/qgis-theme/forusers_download.html:10
+msgid ""
+"We are currently in feature freeze preceding the release of QGIS 2.4. "
+"<b>Please consider testing the preleases</b>. See "
+msgstr "Wir sind gegenwärtig im Feature Freeze der dem Release von QGIS 2.4 vorangeht. <b>Bitte testen Sie die Vorabversionen</b>. Siehe"
+
+#: ../../themes/qgis-theme/forusers_download.html:11
+msgid "road map"
+msgstr "Zeitplan"
+
+#: ../../themes/qgis-theme/forusers_download.html:94
+msgid ""
+"Mac Installer Package for both OS X Mavericks (10.9), Mountain Lion (10.8) "
+"and Lion (10.7)."
+msgstr "Mac-Installationspaket für sowohl OS X Mavericks (10.9) also auch Mountain Lion (10.8) und Lion (10.7)."
+
+#: ../../themes/qgis-theme/index.html:24
+msgid "QGIS 2.4 Release Candidate"
+msgstr "QGIS 2.4 Release-Kandidat"
+
+#: ../../themes/qgis-theme/index.html:26
+msgid "Please test ..."
+msgstr "Bitte testen..."
+
+#: ../../themes/qgis-theme/index.html:27
+msgid ""
+"get the release candidate for your Operating System and report any issue you"
+" find, so it get's fixed for the 2.4 final release!"
+msgstr "Holen Sie sich den Release-Kandidaten für Ihr Betriebssystem und berichten Sie alle Probleme, die Sie finden, damit es zum 2.4 Release korrigiert werden kann."
+
+#: ../../themes/qgis-theme/index.html:176
+msgid "Upcoming User & Developer Meetings"
+msgstr "Kommende Benutzer- & Entwicklertreffen"
+
+#: ../../themes/qgis-theme/index.html:207
+msgid "See More Maps and Screenshots"
+msgstr "Mehr Karten und Bildschirmfotos ansehen"
+
+#: ../../themes/qgis-theme/docs_index.html:8
+msgid ""
+"QGIS has a lot of documentation. All documentation is in English but some "
+"documents such as the user guide are also available in other languages."
+msgstr "QGIS hat eine Menge Dokumentation. Die Dokumentation ist englisch, aber einige Dokumente wie das Benutzerhandbuch sind auch in anderen Sprachen verfügbar."
+
+#: ../../themes/qgis-theme/docs_index.html:9
+msgid ""
+"You will find documentation for every QGIS release on the respective "
+"documentation website."
+msgstr "Für jede QGIS-Version werden Sie die jeweilige Dokumentation auf der Dokumentationswebsite finden."
+
+#: ../../themes/qgis-theme/docs_index.html:30
+#: ../../themes/qgis-theme/docs_index.html:56
+msgid "QGIS 2.2"
+msgstr "QGIS 2.2"
+
+#: ../../themes/qgis-theme/docs_index.html:36
+#: ../../themes/qgis-theme/docs_index.html:109
+msgid "QGIS 1.8"
+msgstr "QGIS 1.8"
+
+#: ../../themes/qgis-theme/docs_index.html:39
+msgid "QGIS testing"
+msgstr "QGIS-Testversion"
+
+#: ../../themes/qgis-theme/docs_index.html:59
+msgid "Get the"
+msgstr "Holen Sie sich"
+
+#: ../../themes/qgis-theme/docs_index.html:59
+msgid "QGIS User guide"
+msgstr "QGIS-Benutzerhandbuch"
+
+#: ../../themes/qgis-theme/docs_index.html:60
+msgid "Follow the tutorials in the"
+msgstr "Folgen Sie den Tutorien in"
+
+#: ../../themes/qgis-theme/docs_index.html:61
+msgid "Learn GIS basics in"
+msgstr "Lernen Sie GIS-Grundlagen aus"
+
+#: ../../themes/qgis-theme/docs_index.html:66
+msgid "Learn how to write docs using the"
+msgstr "Lernen Sie Dokumentationschreiben mittels"
+
+#: ../../themes/qgis-theme/docs_index.html:84
+msgid "We keep a copy of the documentation of QGIS 2.0 around here:"
+msgstr "Wir halten eine Kopie der QGIS-2-0-Dokumentation vor unter:"
+
+#: ../../themes/qgis-theme/docs_index.html:91
+msgid ""
+"Documentation for QGIS 2.0 is part of the website. But also available at:"
+msgstr "Dokumentation für QGIS 2.0 ist Teil dieser Webseite und zusätzlich erhältlich unter:"
+
+#: ../../themes/qgis-theme/forusers_index.html:60
+msgid "For Linux, Windows, OSX, BSD and (in beta) Android."
+msgstr "Für Linux, Windows, Mac, BSD und als Beta für Android."
+
+#: ../../themes/qgis-theme/forusers_index.html:65
+msgid ""
+"Check out our visual changelog, for what has changed since the previous "
+"release"
+msgstr "Für die sichtbare Änderungen, sehen Sie sich bitte unser visuelles Änderungsprotokoll seit dem letzten Release an"
+
+#: ../../themes/qgis-theme/forusers_index.html:68
+#: ../../themes/qgis-theme/forusers_index.html:74
+msgid "Visual Changelog for 2.2"
+msgstr "Visuelles Änderungsprotokoll für 2.2"
+
+#: ../../themes/qgis-theme/forusers_index.html:89
+msgid ""
+"The integrated QGIS plugin manager lets you download and install from a vast"
+" collection of free plugins."
+msgstr "Die integrierte Erweiterungsverwaltung in QGIS erlaubt das Herunterladen und die Installation einer großen Fülle von Erweiterungen."
+
+#: ../../themes/qgis-theme/languageswitch.html:16
+msgid "Polish"
+msgstr "Polnisch"
+
+#: ../../themes/qgis-theme/languageswitch.html:17
+msgid "Portuguesei (Brazil)"
+msgstr "Portugisisch (Brasilianisch)"
+
+#: ../../themes/qgis-theme/languageswitch.html:20
+msgid "Turkish"
+msgstr "Türkisch"
+
+#: ../../themes/qgis-theme/languageswitch.html:22
+msgid "Ukrainian"
+msgstr "Ukraninisch"
+
+#~ msgid "Download QGIS for your Platform"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Mac Installer Package for both OS X Lion (10.7) and Snow Leopard (10.6)."
+#~ msgstr ""
+
+#~ msgid "Danish"
+#~ msgstr ""
+
+#~ msgid "For Linux, Windows, OSX, BSD and beta Android."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The integrated plugin manager in QGIS lets you download and install from a "
+#~ "vast collection of free plugins."
+#~ msgstr ""
+
+#~ msgid "Catalan"
+#~ msgstr ""
+
+#~ msgid "Chinese (Taiwan)"
+#~ msgstr ""
+
+#~ msgid "Check out our visual changelog, for what is changed since QGIS 1.8"
+#~ msgstr ""
+
+#~ msgid "for QGIS 2.0"
+#~ msgstr ""
+
+#~ msgid "for QGIS 1.8"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS has a lot of documentation. Most documentation is in English but some "
+#~ "documents such as the user guide are also available in other languages."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Documentation for QGIS 2.0 is part of the website. But also availabe at:"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Documentation for QGIS 2.0 is part of the website. But also availabe at: "
@@ -1212,9 +1342,6 @@ msgstr ""
 #~ msgid ""
 #~ "QGIS is the best GIS tool in the Free and open-source software (FOSS) "
 #~ "community."
-#~ msgstr ""
-
-#~ msgid "QGIS 2.0"
 #~ msgstr ""
 
 #~ msgid "Blog Posts, Case Studies, Tutorials, User Meetings and more..."

@@ -1,14 +1,14 @@
 # 
 # Translators:
-# jefi <jef@norbit.de>, 2013
+# jefi <jef@norbit.de>, 2013-2014
 # macho <werner.macho@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2014-02-12 02:08+0000\n"
-"Last-Translator: macho <werner.macho@gmail.com>\n"
+"PO-Revision-Date: 2014-05-25 17:14+0000\n"
+"Last-Translator: jefi <jef@norbit.de>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,37 +26,46 @@ msgid ""
 "one of the documents below."
 msgstr "QGIS stellt eine Vielzahl an teilweise übersetzter Dokumentation bereit. Bitte wählen Sie weiter unten ein Dokument aus."
 
-#: ../../source/docs/index.rst:15
+#: ../../source/docs/index.rst:29
 msgid "Documentation for QGIS 2.0"
 msgstr "Dokumentation für QGIS 2.0"
 
-#: ../../source/docs/index.rst:33
+#: ../../source/docs/index.rst:45
 msgid "Documentation for QGIS 1.8"
 msgstr "Dokumentation für QGIS 1.8"
 
-#: ../../source/docs/index.rst:28
-msgid ""
-"If you do not see working links to documentation above, it means that this "
-"documentation build did not copy the documentation sources into the website "
-"sources. You can also go to http://docs.qgis.org/2.0"
-msgstr "Wenn Sie oben keine funktionierenden Links zur Dokumentation sehen, bedeutet das, dass der Dokumentationserzeugungsprozeß die Dokumentationsquelle nicht in die Website-Quellen kopiert hat. Sie können auch http://docs.qgis.org/2.0 besuchen."
-
-#: ../../source/docs/index.rst:35
+#: ../../source/docs/index.rst:47
 msgid ""
 "We keep a copy of the documentation of QGIS 1.8 around here: "
 "http://docs.qgis.org/1.8"
 msgstr "Wir halten eine Kopie der QGIS-1.8-Dokumentation unter http://docs.qgis.org/1.8 vor."
 
-#: ../../source/docs/index.rst:48
+#: ../../source/docs/index.rst:60
 msgid "Documentation for QGIS testing"
 msgstr "Dokumentation für QGIS-Test"
 
-#: ../../source/docs/index.rst:50
+#: ../../source/docs/index.rst:62
 msgid ""
 "Although not translated we also build the documentation for the release QGIS"
 " which is currently developed. We call this version 'QGIS testing' and "
 "documentation can be found here: http://docs.qgis.org/testing"
 msgstr "Obwohl es nicht übersetzt ist, erzeugen wir auch die Dokumentation für jene QGIS-Version, die gerade entwickelt wird. Wir nennen diese Version QGIS-Test und deren Dokumentation ist unter http://docs.qgis.org/testing zu finden."
+
+#: ../../source/docs/index.rst:15
+msgid "Documentation for QGIS 2.2"
+msgstr "Dokumentation zu QGIS 2.2"
+
+#: ../../source/docs/index.rst:31
+msgid ""
+"We keep a copy of the documentation of QGIS 2.0 around here: "
+"http://docs.qgis.org/2.0"
+msgstr "Wir haten eine Kopie der Dokumentation für QGIS 2.0 vor unter:\nhttp://docs.qgis.org/2.0"
+
+#~ msgid ""
+#~ "If you do not see working links to documentation above, it means that this "
+#~ "documentation build did not copy the documentation sources into the website "
+#~ "sources. You can also go to http://docs.qgis.org/2.0"
+#~ msgstr ""
 
 #~ msgid "Documentation for QGIS development/nightly"
 #~ msgstr ""
