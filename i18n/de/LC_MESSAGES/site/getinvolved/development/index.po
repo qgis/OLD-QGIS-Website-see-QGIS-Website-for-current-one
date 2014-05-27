@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-26 07:27+0000\n"
+"PO-Revision-Date: 2014-05-27 20:01+0000\n"
 "Last-Translator: jefi <jef@norbit.de>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -183,7 +183,7 @@ msgstr "Schritte"
 msgid ""
 "To report a bug choose New Issue from the menu bar. Note: You can also "
 "request an enhancement or submit a patch using the Ticket system."
-msgstr ""
+msgstr "Um einen Fehler zu melden wählen sie \"Neues Ticket\" aus der Menüleiste. Hinweis: Sie können mit dem Ticketsystem auch Erweiterungswünsche und Patches einreichen."
 
 #: ../../source/site/getinvolved/development/index.rst:48
 msgid "Important information needed when opening a ticket:"
@@ -193,11 +193,11 @@ msgstr "Wichtig zum Eröffnen eines Berichte notwendige Informationen:"
 msgid ""
 "Tracker - choose the ticket type from the drop-down list: Bug, Feature (new "
 "feature request) or Bounty (ticket for which a bounty has been defined)"
-msgstr ""
+msgstr "Tracker - wählen Sie den Tickettyp aus der Dropdownliste: Bug report oder Feature request."
 
 #: ../../source/site/getinvolved/development/index.rst:51
 msgid "Subject - a short description of the issue"
-msgstr ""
+msgstr "Thema - eine Kurzbeschreibung des Problems."
 
 #: ../../source/site/getinvolved/development/index.rst:52
 msgid ""
@@ -211,7 +211,7 @@ msgid ""
 "which the developer can reproduce the bug. If you make that hard for the "
 "developer, chances are the bug will be given up on or ignored for quite a "
 "while."
-msgstr ""
+msgstr "Beschreibung - liefern Sie eine vollständige Beschreibung des Problems mit Schritte im es zu reproduzieren; Wenn sie denken, dass der Fehler auf ein bestimmte Plattform oder -version oder abhängige Bibliotheken (GDAL/OGR, GEOS etc.) betroffen sind, geben Sie auch dies an. Wenn QGIS abstürzt kann es nützlich sein eine Backtrace beizulegen (siehe unten). Ein sehr wichtiger Punkt in einem Fehlerbericht ist es ein Minimalbeispiel zu bestimmen mit dem sich der Fehler reproduzieren läßt.  Wie groß die Chance das ein Fehler schnell behoben wird, hängt direkt mit der Geschwindigkeit zusammen wie schnell ein Entwicker das Problem nachvollziehen kann. Wenn Sie es dem Entwickler schwer machen, kann es sein, dass der Entwickler ihn für ein Weile ignoriert oder gar aufgibt."
 
 #: ../../source/site/getinvolved/development/index.rst:53
 msgid ""
@@ -221,34 +221,34 @@ msgid ""
 "has a major effect on the usability of a package), or Blocker (a bug that "
 "makes QGIS totally unusable, causes serious data loss or a regression from a"
 " previous QGIS version)"
-msgstr ""
+msgstr "Priorität - schätzen Sie die Schweregrad des Problems ein.  Low (ein Problem, dass die Benutzbarkeit von QGIS nicht beeinflußt), Normal (der Vorgabewert, gültig für die meisten Fehler und fast alle Funktionswünsche), High (ein Fehler starke Auswirkungen auf die Benutzbarkeit hat) oder Blocker (ein Fehler der QGIS komplett unbenutzbar macht, schwerwiegende Datenverluste oder Regressionen von vorherigen QGIS-Versionen)"
 
 #: ../../source/site/getinvolved/development/index.rst:54
 msgid ""
 "Component - Choose the aspect of the application that is most closely "
 "associated with the problem"
-msgstr ""
+msgstr "Kategorie - wählen Sie einen Bereich der Anwendung an mit dem das Problem am meisten zu tun hat."
 
 #: ../../source/site/getinvolved/development/index.rst:55
 msgid ""
 "Milestone - If this issue affects a particular Milestone in the project "
 "choose it from the drop-down list"
-msgstr ""
+msgstr "Affected version - geben Sie an mit welche QGIS-Version das Problem hat."
 
 #: ../../source/site/getinvolved/development/index.rst:56
 msgid "Version - Version of QGIS this issue affects"
-msgstr ""
+msgstr "Affected version - geben Sie an mit welche QGIS-Version das Problem hat."
 
 #: ../../source/site/getinvolved/development/index.rst:57
 msgid "Platform - Choose the platform you are using"
-msgstr ""
+msgstr "Platform - Plattform, die Sie benutzen"
 
 #: ../../source/site/getinvolved/development/index.rst:59
 msgid ""
 "Before sending the bug, please check the formatting of your report by "
 "clicking on \"Preview\". Please avoid editing existing reports, if not for "
 "typos. Better add further comments in any other case."
-msgstr ""
+msgstr "Bevor Sie den Fehler abschicken, prüfen Sie die Formatierung Ihres Berichts mit \"Vorschau\".  Bitte vermeiden Sie vorhandene Berichte zu bearbeiten, wenn es nicht um Tippfehler geht. Geben Sie lieber Kommentare ab."
 
 #: ../../source/site/getinvolved/development/index.rst:62
 msgid "Creating a backtrace"
@@ -270,7 +270,7 @@ msgid ""
 "/path/to/the/qgis/binary core``. The binary is usually ``/usr/bin/qgis`` or "
 "``/usr/bin/qgis.bin`` on Debian with the GRASS plugin installed. In ``gdb`` "
 "you run ``bt`` which will produce the backtrace."
-msgstr ""
+msgstr "Wenn Sie einen Absturz haben kann es sinnvoll sein einen Backtrace mitzuliefern, da der Fehler möglichweise nicht auf anderen Rechnern nachvollziehbar ist.  Unter Unix können Sie einen Backtrace mit Hilfe eines Coredumps und gdb erzeugen. Ein Coredump ist ein Speicherabzug des Prozeßstatus als der Absturz passiert. Abhängig von Ihrer Distribution kann die automatische Erzeugung von Coredumps abgeschaltet sein. In diesem Fall erscheint ``Segmentation fault`` statt ``Segmentation fault (core dumped)`` in dem Terminal aus dem Sie QGIS gestartet haben und Sie müssen ``ulimit -c unlimited` eingeben bevor Sie QGIS starten. Sie können dies auch in Ihr `.profile` schreiben. Starten Sie QGIS aus diesem Terminal und wiederholen Sie die Schritte, die zum Absturz geführt haben. Nach dem Absturz wird eine Datei namens core im aktuellen Verzeichnis erzeugt.  Um einen Backtrace zu erzeugen rufen Sie ``gdb /pfad/zum/qgis/programm/binary core`` ein. Das Programm ist normalerweise ``/usr/bin/qgis`` oder ``/usr/bin/qgis.bin`` unter Debian, wenn die GRASS-Erweiterung installiert ist. In ``gdb`` führen Sie ``bt`` aus, dass dann den Backtrace erzeugt."
 
 #: ../../source/site/getinvolved/development/index.rst:71
 msgid "Log output on Windows"
