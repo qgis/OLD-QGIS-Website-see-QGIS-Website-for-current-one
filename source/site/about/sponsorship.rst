@@ -82,7 +82,6 @@ goes into the project. These sponsors are listed below with our thanks!
 .. |argus| image:: /static/site/about/images/argus.jpg
    :width: 150 px
 
-
 ----
 
 |bronze| |claasleinert|
@@ -90,7 +89,7 @@ goes into the project. These sponsors are listed below with our thanks!
 `www.eschenlaub.de <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2015)
 
 .. |claasleinert| image:: /static/site/about/images/claas_leinert.png
-..   :width: 150 px
+   :width: 150 px
 
 
 List of past sponsors
