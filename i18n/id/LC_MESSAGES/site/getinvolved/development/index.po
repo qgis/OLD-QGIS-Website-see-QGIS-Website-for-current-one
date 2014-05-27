@@ -1,0 +1,475 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2014-05-10 06:03+0000\n"
+"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
+"Language-Team: Indonesian (http://www.transifex.com/projects/p/qgis-website/language/id/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/getinvolved/development/index.rst:4
+msgid "QGIS Development"
+msgstr "Pengembangan QGIS"
+
+#: ../../source/site/getinvolved/development/index.rst:6
+msgid "Welcome to the QGIS Development pages"
+msgstr "Selamat datang di halaman Pengembangan QGIS"
+
+#: ../../source/site/getinvolved/development/index.rst:10
+msgid "Bugs, Features and Issues"
+msgstr "Kesalahan, Fitur dan Isu"
+
+#: ../../source/site/getinvolved/development/index.rst:110
+msgid "Development"
+msgstr "Pengembangan"
+
+#: ../../source/site/getinvolved/development/index.rst:116
+msgid "Api Documentation"
+msgstr "Dokumentasi Api"
+
+#: ../../source/site/getinvolved/development/index.rst:118
+msgid "You can find the API documentation for cpp here:"
+msgstr "Anda dapat menemukan dokumentasi API untuk cpp disini:"
+
+#: ../../source/site/getinvolved/development/index.rst:120
+msgid "http://qgis.org/api/ (for QGIS testing)"
+msgstr "http://qgis.org/api/ (untuk pengujian QGIS)"
+
+#: ../../source/site/getinvolved/development/index.rst:122
+msgid "http://qgis.org/api/2.0/ (for QGIS 2.0)"
+msgstr "http://qgis.org/api/2.0/ (untuk QGIS 2.0)"
+
+#: ../../source/site/getinvolved/development/index.rst:124
+msgid "http://qgis.org/api/1.8/ (for QGIS 1.8)"
+msgstr "http://qgis.org/api/1.8/ (untuk QGIS 1.8)"
+
+#: ../../source/site/getinvolved/development/index.rst:148
+msgid "QGIS has a lot to offer for python developers too."
+msgstr "QGIS memiliki banyak hal yang ditawarkan untuk pengembang python juga."
+
+#: ../../source/site/getinvolved/development/index.rst:150
+msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
+msgstr "QGIS memiliki binding python sehingga Anda dapat mengotomatisasi tugas-tugas di QGIS lewat python."
+
+#: ../../source/site/getinvolved/development/index.rst:157
+msgid "You can find the QGIS-iface which you can use via python here:"
+msgstr "Anda dapat menemukan QGIS-iface dimana Anda dapat menggunakan lewat Python disini:"
+
+#: ../../source/site/getinvolved/development/index.rst:159
+msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
+msgstr "http://qgis.org/api/classQgisInterface.html (untuk pengujian QGIS)"
+
+#: ../../source/site/getinvolved/development/index.rst:161
+msgid "http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
+msgstr "http://qgis.org/api/2.0/classQgisInterface.html (untuk QGIS 2.0)"
+
+#: ../../source/site/getinvolved/development/index.rst:163
+msgid "http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
+msgstr "http://qgis.org/api/1.8/classQgisInterface.html (untuk QGIS 1.8)"
+
+#: ../../source/site/getinvolved/development/index.rst:78
+msgid "Road Map"
+msgstr "Peta Jalan"
+
+#: ../../source/site/getinvolved/development/index.rst:80
+msgid ""
+"Since QGIS 2.0 further development will occur based on a timebased roadmap."
+msgstr "Sejak QGIS 2.0 pengembangan lebih lanjut akan dilakukan berdasarkan berbasis peta jalan."
+
+#: ../../source/site/getinvolved/development/index.rst:82
+msgid "Odd version numbers (2.1, 2.3 etc) are development versions."
+msgstr "Nomor versi ganjil (2,1, 2,3 dll) adalah versi pengembangan."
+
+#: ../../source/site/getinvolved/development/index.rst:96
+msgid "Week"
+msgstr "Minggu"
+
+#: ../../source/site/getinvolved/development/index.rst:96
+msgid "Date"
+msgstr "Tanggal"
+
+#: ../../source/site/getinvolved/development/index.rst:98
+msgid "4"
+msgstr "4"
+
+#: ../../source/site/getinvolved/development/index.rst:98
+msgid "24.01"
+msgstr "24.01"
+
+#: ../../source/site/getinvolved/development/index.rst:99
+msgid "8"
+msgstr "8"
+
+#: ../../source/site/getinvolved/development/index.rst:99
+msgid "21.02"
+msgstr "21.02"
+
+#: ../../source/site/getinvolved/development/index.rst:100
+msgid "21"
+msgstr "21"
+
+#: ../../source/site/getinvolved/development/index.rst:100
+msgid "23.05"
+msgstr "23.05"
+
+#: ../../source/site/getinvolved/development/index.rst:101
+msgid "25"
+msgstr "25"
+
+#: ../../source/site/getinvolved/development/index.rst:101
+msgid "20.06"
+msgstr "20.06"
+
+#: ../../source/site/getinvolved/development/index.rst:102
+msgid "39"
+msgstr "39"
+
+#: ../../source/site/getinvolved/development/index.rst:102
+msgid "26.09"
+msgstr "26.09"
+
+#: ../../source/site/getinvolved/development/index.rst:103
+msgid "43"
+msgstr "43"
+
+#: ../../source/site/getinvolved/development/index.rst:103
+msgid "24.10"
+msgstr "24.10"
+
+#: ../../source/site/getinvolved/development/index.rst:129
+msgid "Plugin Development"
+msgstr "Pengembangan Plugin"
+
+#: ../../source/site/getinvolved/development/index.rst:131
+msgid ""
+"QGIS has a plugin infrastructure. You can add a lot of new functionality by "
+"writing your own plugins."
+msgstr "QGIS memiliki infrastruktur Plugin. Anda dapat menambahkan banyak fungsi baru dengan menulis plugins Anda sendiri."
+
+#: ../../source/site/getinvolved/development/index.rst:134
+msgid "These plugins can either be written in C++ or in Python"
+msgstr "Plugin dapat ditulis dalam C++ atau Python"
+
+#: ../../source/site/getinvolved/development/index.rst:137
+msgid "Cpp plugin development"
+msgstr "Pengembangan plugin Cpp"
+
+#: ../../source/site/getinvolved/development/index.rst:139
+msgid ""
+"To learn how to write your first cpp plugin, please go here: :ref:`QGIS-cpp-"
+"plugin-development`"
+msgstr "Untuk mempelajari bagaimana menulis Plugin cpp pertama Anda, silakan kunjungi: :ref:`QGIS-cpp-plugin-development`"
+
+#: ../../source/site/getinvolved/development/index.rst:141
+msgid ""
+"Via a script you will generate a plugin stub which can be used further."
+msgstr "Melalui skrip Anda akan menghasilkan Plugin stub yang dapat digunakan lebih lanjut."
+
+#: ../../source/site/getinvolved/development/index.rst:146
+msgid "Python plugin development"
+msgstr "Pengembangan plugin Python"
+
+#: ../../source/site/getinvolved/development/index.rst:152
+msgid ""
+"Interested in python plugin development, go to :ref:`QGIS-python-plugin-"
+"development` or have a look into the :ref:`PyQGIS-Developer-Cookbook`."
+msgstr "Tertarik pada pengembangan plugin python, pergi ke: :ref:`QGIS-python-plugin-development` atau lihat ke :ref:`PyQGIS-Developer-Cookbook`."
+
+#: ../../source/site/getinvolved/development/index.rst:155
+msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
+msgstr "Mencari contoh plugin python, lihat http://plugins.qgis.org"
+
+#: ../../source/site/getinvolved/development/index.rst:12
+msgid "If you find a bug, please report it!"
+msgstr "Jika Anda menemukan kesalahan, silakan melaporkannya!"
+
+#: ../../source/site/getinvolved/development/index.rst:14
+msgid ""
+"You need an OSGeo account and login in order to submit bug reports. To get "
+"started, first create an OSGeo account. https://www2.osgeo.org/cgi-"
+"bin/ldap_create_user.py"
+msgstr "Anda perlu akun OSGeo dan login untuk mengirimkan laporan eror. Untuk memulai, pertama kali membuat akun OSGeo. https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
+
+#: ../../source/site/getinvolved/development/index.rst:17
+msgid ""
+"Once you have your account, use http://hub.qgis.org/projects/quantum-"
+"gis/issues to login and search if the issue you'd like to report is probably"
+" already entered."
+msgstr "Setelah Anda memiliki account Anda, gunakan http://hub.qgis.org/projects/quantum-gis/issues untuk login dan pencarian jika eror yang Anda ingin laporkan mungkin sudah dimasukkan."
+
+#: ../../source/site/getinvolved/development/index.rst:20
+msgid "Tickets"
+msgstr "Tiket"
+
+#: ../../source/site/getinvolved/development/index.rst:22
+msgid ""
+"Tickets are used to report bugs, request enhancements and submit patches. "
+"Redmine is more than a bug reporting system. Tickets can be associated with "
+"a  QGIS Milestone, allowing you to see progress towards completion. "
+"Completion of a Milestone not only requires closing bugs, but completing "
+"other tasks related to a release such as documentation, web site updates, "
+"packaging, and announcements."
+msgstr "Tiket digunakan untuk melaporkan eror, peningkatan permintaan dan mengirimkan patch. Redmine lebih dari sistem pelaporan eror. Tiket dapat dikaitkan dengan Milestone QGIS, memungkinkan Anda untuk melihat kemajuan penyelesaian. Milestone penyelesaian tidak hanya membutuhkan penutupan bug, tapi menyelesaikan tugas-tugas lain yang berkaitan dengan rilis seperti dokumentasi, update situs web, kemasan, dan pengumuman."
+
+#: ../../source/site/getinvolved/development/index.rst:25
+msgid "Opening a Ticket"
+msgstr "Membuka tiket"
+
+#: ../../source/site/getinvolved/development/index.rst:28
+msgid "Before filing a bug"
+msgstr "Sebelum mengajukan bug"
+
+#: ../../source/site/getinvolved/development/index.rst:30
+msgid ""
+"Before filing a bug, review the currently open issues to make sure that you "
+"aren't creating a duplicate. If you have additional information on an issue,"
+" you can add it to the existing ticket. Third party plugins might also cause"
+" problems. If you have installed any, you should also verify that the "
+"problem is still reproducible without them. Please don't report multiple "
+"unrelated bugs in a single bug report."
+msgstr "Sebelum mengajukan bug, meninjau isu-isu saat ini untuk memastikan bahwa Anda tidak membuat duplikat. Jika Anda memiliki informasi tambahan tentang suatu masalah, Anda dapat menambahkannya ke tiket yang ada. Plugin pihak ketiga juga dapat menimbulkan masalah. Jika Anda telah memasang apapun, Anda juga harus memastikan bahwa masalahnya masih direproduksi tanpa mereka. Harap tidak melaporkan beberapa bug yang tidak terkait dalam laporan bug tunggal."
+
+#: ../../source/site/getinvolved/development/index.rst:34
+msgid "Plugin bugs"
+msgstr "Plugin bug"
+
+#: ../../source/site/getinvolved/development/index.rst:36
+msgid ""
+"Plugin bugs must be opened in their respective bug tracking system. Check "
+"first if the plugin is listed at http://hub.qgis.org/projects/qgis-user-"
+"plugins/ If so, click on the plugin name then click \"New issue\". "
+"Otherwise, consult the plugin documentation to find the address of the "
+"relevant bug tracking system or a developer to contact."
+msgstr "Bug Plugin harus dibuka dalam sistem pelacakan bug masing-masing. Pertama kali periksa jika plugin terdaftar di http://hub.qgis.org/projects/qgis-user-plugins/ jika demikian, klik pada nama plugin kemudian klik \"New issue\". Jika tidak, konsultasikan dokumentasi plugin untuk menemukan alamat dari sistem pelacakan bug yang relevan atau menghubungi pengembang."
+
+#: ../../source/site/getinvolved/development/index.rst:40
+msgid "Steps"
+msgstr "Tahap"
+
+#: ../../source/site/getinvolved/development/index.rst:42
+msgid ""
+"To report a bug choose New Issue from the menu bar. Note: You can also "
+"request an enhancement or submit a patch using the Ticket system."
+msgstr "Untuk melaporkan bug pilih Isu Baru dari menu bar. Catatan: Anda juga dapat meminta perangkat tambahan atau mengirimkan patch menggunakan sistem tiket."
+
+#: ../../source/site/getinvolved/development/index.rst:44
+msgid "Important information needed when opening a ticket:"
+msgstr "Informasi penting yang dibutuhkan saat membuka tiket:"
+
+#: ../../source/site/getinvolved/development/index.rst:46
+msgid ""
+"Tracker - choose the ticket type from the drop-down list: Bug, Feature (new "
+"feature request) or Bounty (ticket for which a bounty has been defined)"
+msgstr "Pelacak (tracker) - memilih jenis tiket dari daftar drop-down: Bug, Fitur (permintaan fitur baru) atau Bounty (tiket yang telah didefinisikan)"
+
+#: ../../source/site/getinvolved/development/index.rst:47
+msgid "Subject - a short description of the issue"
+msgstr "Subyek - deskripsi sigkat tentang isu"
+
+#: ../../source/site/getinvolved/development/index.rst:48
+msgid ""
+"Description - Provide a full description of the problem including steps to "
+"repeat it; if you think the bug could be related to a certain platform "
+"version or dependencies package version (GDAL, OGR, GEOS etc) include that "
+"as well. If your QGIS crashes if might be useful to include a backtrace (see"
+" below).  A very important thing when reporting a bug is to boil down a "
+"minimum example that is needed to reproduce the bug. The chances of a bug "
+"being addressed in a timely manner is directly related to the speed with "
+"which the developer can reproduce the bug. If you make that hard for the "
+"developer, chances are the bug will be given up on or ignored for quite a "
+"while."
+msgstr "Deskripsi - Memberikan keterangan lengkap tentang masalah termasuk langkah-langkah untuk mengulanginya; jika Anda berpikir bug bisa berhubungan dengan versi platform tertentu atau versi paket dependensi (GDAL, OGR, GEOS dll) termasuk itu juga. Jika QGIS Anda crash mungkin berguna untuk menyertakan backtrace (lihat di bawah). Suatu hal yang sangat penting ketika melaporkan bug adalah contoh minimum yang diperlukan untuk mereproduksi bug. Kemungkinan bug akan dibahas dalam waktu tepat berkaitan dengan kecepatan pengembang dapat mereproduksi bug. Jika Anda membuat sulit bagi pengembang, kemungkinan bug akan diabaikan selama beberapa waktu."
+
+#: ../../source/site/getinvolved/development/index.rst:49
+msgid ""
+"Priority - provide an estimate of the severity of the problem: Low (a "
+"problem which doesn't affect QGIS usefulness), Normal (the default value, "
+"applicable to most bugs and nearly all feature requests), High (a bug which "
+"has a major effect on the usability of a package), or Blocker (a bug that "
+"makes QGIS totally unusable, causes serious data loss or a regression from a"
+" previous QGIS version)"
+msgstr "Prioritas - memberikan perkiraan tingkat keparahan masalah: Rendah (masalah yang tidak mempengaruhi kegunaan QGIS), Normal (nilai default, yang berlaku untuk sebagian besar bug dan hampir semua permintaan fitur), Tinggi (bug yang memiliki pengaruh besar pada kegunaan dari paket), atau Blocker (bug yang membuat QGIS benar-benar tidak dapat digunakan, menyebabkan hilangnya data yang serius atau regresi dari QGIS versi sebelumnya)"
+
+#: ../../source/site/getinvolved/development/index.rst:50
+msgid ""
+"Component - Choose the aspect of the application that is most closely "
+"associated with the problem"
+msgstr "Komponen - Pilih aspek dari aplikasi yang paling erat terkait dengan masalah"
+
+#: ../../source/site/getinvolved/development/index.rst:51
+msgid ""
+"Milestone - If this issue affects a particular Milestone in the project "
+"choose it from the drop-down list"
+msgstr "Milestone - Jika masalah ini mempengaruhi Milestone tertentu dalam proyek memilih daftar drop-down"
+
+#: ../../source/site/getinvolved/development/index.rst:52
+msgid "Version - Version of QGIS this issue affects"
+msgstr "Versi - Versi QGIS masalah ini mempengaruhi"
+
+#: ../../source/site/getinvolved/development/index.rst:53
+msgid "Platform - Choose the platform you are using"
+msgstr "Platform - Pilih platform yang Anda gunakan"
+
+#: ../../source/site/getinvolved/development/index.rst:55
+msgid ""
+"Before sending the bug, please check the formatting of your report by "
+"clicking on \"Preview\". Please avoid editing existing reports, if not for "
+"typos. Better add further comments in any other case."
+msgstr "Sebelum mengirim bug, silahkan cek format laporan Anda dengan mengklik \"Preview\". Harap menghindari mengedit laporan yang ada, jika tidak untuk kesalahan ketik. Lebih baik menambahkan komentar lebih lanjut."
+
+#: ../../source/site/getinvolved/development/index.rst:58
+msgid "Creating a backtrace"
+msgstr "Membuat backtrace"
+
+#: ../../source/site/getinvolved/development/index.rst:60
+msgid ""
+"If you have a crash it might be useful to include a backtrace as the bug "
+"might be not reproducible on an other machine. On Unix you can create a "
+"backtrace using a core dump and gdb. A core dump is a memory dump of the "
+"state of the process when the crash happened. Depending on you distribution "
+"the automatic creation of core dumps might be disabled. In that case you "
+"only see for instance Segmentation fault and not ``Segmentation fault (core "
+"dumped)`` in the shell you started QGIS from and you need to run ``ulimit -c"
+" unlimited`` before starting QGIS. You could also include that in your "
+"``.profile``. Start qgis from the shell and repeat the steps to reproduce "
+"the crash. After the crash the core file will be located in the current "
+"directory. To produce a backtrace from it you start ``gdb "
+"/path/to/the/qgis/binary core``. The binary is usually ``/usr/bin/qgis`` or "
+"``/usr/bin/qgis.bin`` on Debian with the GRASS plugin installed. In ``gdb`` "
+"you run ``bt`` which will produce the backtrace."
+msgstr "Jika Anda memiliki kecelakaan (crash) hal ini mungkin berguna untuk memasukkan backtrace sebagai bug mungkin tidak direproduksi pada mesin lainnya. Pada Unix Anda dapat membuat backtrace menggunakan dump inti dan gdb. Sebuah dump inti adalah dump memori dari proses ketika kecelakaan (crash) itu terjadi. Tergantung pada distribusi Anda penciptaan otomatis dump inti mungkin dinonaktifkan. Dalam hal ini Anda hanya melihat misalnya Segmentation fault dan tidak ``Segmentation fault (core dumped)`` di shell Anda mulai QGIS dan Anda perlu menjalankan ``ulimit -c unlimited`` sebelum mulai QGIS. Anda juga dapat mencakup dalam ``.profile`` Anda. Mulai qgis dari shell dan ulangi langkah-langkah untuk mereproduksi kecelakaan (crash). Setelah kecelakaan (crash) itu berkas inti akan berada di direktori saat ini. Untuk menghasilkan backtrace, Anda mulai ``gdb /path/to/the/qgis/binary core``. Binari biasanya di ``/usr/bin/qgis`` atau ``/usr/bin/qgis.bin`` di Debian dengan plugin GRASS terpasang. Di ``gdb`` Anda jalankan ``bt`` yang akan menghasilkan backtrace."
+
+#: ../../source/site/getinvolved/development/index.rst:67
+msgid "Log output on Windows"
+msgstr "Keluaran Log pada Windows"
+
+#: ../../source/site/getinvolved/development/index.rst:70
+msgid ""
+"The nightly build in `OSGeo4W <http://trac.osgeo.org/osgeo4w>`_ (package "
+"qgis-dev) is built with debugging output, that you can view with `DebugView "
+"<http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx>`_.  If the "
+"problem is not easy to reproduce the output might shed some light about "
+"where QGIS crashes."
+msgstr "Pengembangan nightly di `OSGeo4W <http://trac.osgeo.org/osgeo4w>`_ (paket qgis-dev) dibangun dengan keluaran debugging, Anda dapat melihatnya `DebugView <http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx>`_. Jika masalah tidak mudah mereproduksi keluaran titik terang tentang di mana kecelakaan (crash) QGIS."
+
+#: ../../source/site/getinvolved/development/index.rst:73
+msgid "Creating a patch"
+msgstr "Membuat patch"
+
+#: ../../source/site/getinvolved/development/index.rst:75
+msgid "To be done"
+msgstr "Untuk diselesaikan"
+
+#: ../../source/site/getinvolved/development/index.rst:84
+msgid "Even version numbers (2.2, 2.4 etc) are release versions."
+msgstr "Bahkan nomor versi (2.2, 2.4 dll) adalah versi rilis."
+
+#: ../../source/site/getinvolved/development/index.rst:86
+msgid ""
+"Release will happen every four month.  In the first three month new "
+"development is taking place.  Then a feature freeze is invoked and the final"
+" month is used for testing, bugfixing, translation and release preparations."
+"  When the release happens, a branch with a even release number is created "
+"and the master branch advances to the next odd version.  After the release a"
+" call for packaging is issued."
+msgstr "Rilis akan terjadi setiap empat bulan. Dalam tiga bulan pengembangan baru berlangsung. Kemudian pembekuan fitur dan bulan terakhir digunakan untuk pengujian, penyelesaian masalah, terjemahan dan persiapan rilis. Ketika rilis terjadi, cabang bahkan dengan nomor rilis dibuat dan kemajuan cabang master ke versi berikutnya."
+
+#: ../../source/site/getinvolved/development/index.rst:93
+msgid "Following is the schedule for 2014"
+msgstr "Berikut ini adalah jadwal untuk 2014"
+
+#: ../../source/site/getinvolved/development/index.rst:96
+msgid "Event"
+msgstr "Peristiwa"
+
+#: ../../source/site/getinvolved/development/index.rst:98
+msgid "2.1 freeze begins"
+msgstr "2.1 freeze dimulai"
+
+#: ../../source/site/getinvolved/development/index.rst:99
+msgid "2.2 is released"
+msgstr "2.2 dirilis"
+
+#: ../../source/site/getinvolved/development/index.rst:100
+msgid "2.3 freeze begins"
+msgstr "2.3 freeze dimulai"
+
+#: ../../source/site/getinvolved/development/index.rst:101
+msgid "2.4 is released"
+msgstr "2.4 dirilis"
+
+#: ../../source/site/getinvolved/development/index.rst:102
+msgid "2.5 freeze begins"
+msgstr "2.5 freeze dimulai"
+
+#: ../../source/site/getinvolved/development/index.rst:103
+msgid "2.6 is released"
+msgstr "2.6 dirilis"
+
+#: ../../source/site/getinvolved/development/index.rst:106
+msgid "Only in case of real problems a point release (eg 2.0.1) will occur."
+msgstr "Hanya dalam kasus nyata rilis titik (misalnya 2.0.1) akan terjadi."
+
+#: ../../source/site/getinvolved/development/index.rst:112
+msgid ""
+"See "
+"http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html"
+msgstr "Lihat http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html"
+
+#~ msgid ""
+#~ "If you find a bug, please read `our hints on issueing bugs "
+#~ "<http://hub.qgis.org/wiki/quantum-gis/Bugreports>`_"
+#~ msgstr ""
+
+#~ msgid "See https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
+#~ msgstr ""
+
+#~ msgid "Even version numbers (2.2, 2.4 etc) are release version."
+#~ msgstr ""
+
+#~ msgid "Following is the planning for 2014"
+#~ msgstr ""
+
+#~ msgid "QGIS version"
+#~ msgstr ""
+
+#~ msgid "QGIS Freeze  2.1"
+#~ msgstr ""
+
+#~ msgid "QGIS Release 2.2"
+#~ msgstr ""
+
+#~ msgid "QGIS Freeze  2.3"
+#~ msgstr ""
+
+#~ msgid "QGIS Release 2.4"
+#~ msgstr ""
+
+#~ msgid "QGIS Freeze  2.5"
+#~ msgstr ""
+
+#~ msgid "QGIS Release 2.6"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Only in case of real problems a minor version (eg 2.0.1) update will be "
+#~ "planned."
+#~ msgstr ""
+
+#~ msgid "Python Development"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Interested in python plugin development, go here http://plugins.qgis.org or "
+#~ "have a look into the :ref:`PyQGIS-Developer-Cookbook`."
+#~ msgstr ""
+
+#~ msgid "Python iface documentation"
+#~ msgstr ""

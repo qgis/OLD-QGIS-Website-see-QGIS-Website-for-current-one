@@ -18,12 +18,25 @@
             </ol>
             <div class="carousel-inner">
                 <div class="item active">
+                    <img src="{{pathto('_static/images/qgis_headers_releasecandidate.jpg', 1)}}" alt="">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h5 class="caption-headline">{{ _('QGIS 2.4 Release Candidate') }}</h5>
+                            <p class="caption-text">
+                                {{ _('Please test ...') }}
+                                <a class="caption-link" href="getinvolved/development/index.html#location-of-prereleases-nightly-builds" target="_blank">{{ _('get the release candidate for your Operating System and report any issue you find, so it gets fixed for the 2.4 final release!')}}</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
                     <img src="{{pathto('_static/images/qgis20_headers_cartography.jpg', 1)}}" alt="">
                     <div class="container">
                         <div class="carousel-caption">
                             <h5 class="caption-headline">{{ _('QGIS 2') }}</h5>
                             <p class="caption-text">
-                                {{ _('QGIS 2 has a fresh new look ...') }}  <a class="caption-link" href="about/screenshots.html" target="_blank">{{ _('check out some screenshots') }}</a>
+                                {{ _('QGIS 2 has a fresh new look ...') }}
+                                <a class="caption-link" href="about/screenshots.html" target="_blank">{{ _('check out some screenshots') }}</a>
                             </p>
                         </div>
                     </div>
@@ -45,7 +58,7 @@
                         <div class="carousel-caption">
                             <h5 class="caption-headline">{{ _('Edit') }}</h5>
                             <p class="caption-text">
-                                {{ _('QGIS 2 has rich vector editing features ...') }} <a class="caption-link" href="../docs/user_manual/working_with_vector/editing_geometry_attributes.html?highlight=editing" target="_blank">{{ _('check out our manual') }}</a>
+                                {{ _('QGIS 2 has rich vector editing features ...') }} <a class="caption-link" href="http://docs.qgis.org/2.2/en/docs/user_manual/working_with_vector/editing_geometry_attributes.html" target="_blank">{{ _('check out our manual') }}</a>
                             </p>
                         </div>
                     </div>
@@ -56,7 +69,7 @@
                         <div class="carousel-caption">
                             <h5 class="caption-headline">{{ _('Print') }}</h5>
                             <p class="caption-text">
-                                {{ _('QGIS 2 Print Composer has received a major face-lift ...') }} <a class="caption-link" href="../docs/user_manual/preamble/whats_new.html#map-composer" target="_blank">{{ _('check out the new features') }}</a>
+                                {{ _('QGIS 2 Print Composer has received a major face-lift ...') }} <a class="caption-link" href="http://docs.qgis.org/2.0/en/docs/user_manual/preamble/whats_new.html#map-composer" target="_blank">{{ _('check out the new features') }}</a>
                             </p>
                         </div>
                     </div>
@@ -87,7 +100,7 @@
         </div>
         <div class="span5">
             <p><a href="{{ pathto('site/getinvolved/donations') }}" class="btn btn-large btn-success btn-flat">{{ _('Support QGIS') }}</a></p>
-            <p class="muted">{{ _('Donate now!') }}</p>        
+            <p class="muted">{{ _('Donate now!') }}</p>
         </div>
     </div>
 </section>
@@ -96,7 +109,10 @@
 <section class="info">
     <div class="container">
         <div class="span12">
-            <p><a href="https://2014.foss4g.org/" class="external" ><img src="https://raw.githubusercontent.com/pdxosgeo/foss4g2014-wordpress/master/logo_images/PNGs/logo_horiz_trans_500x231.png"/></a></p>
+            <p>
+          <a href="http://www.osgeo.org" class="external" ><img src="http://www.osgeo.org/sites/all/themes/osgeo/logo.png"/></a>
+          <a href="https://2014.foss4g.org/" class="external" ><img src="https://raw.githubusercontent.com/pdxosgeo/foss4g2014-wordpress/master/logo_images/PNGs/logo_horiz_trans_500x231.png"/></a>
+        </p>
         </div>
     </div>
 </section>
@@ -107,7 +123,7 @@
         <div class="row">
             <div class="span4">
                 <a href="{{ pathto('site/forusers/download') }}">
-                    <div class="info-box">
+                <div class="info-box">
                         <h4>{{ _('Get Started') }}</h4>
                         <div class="box-content">
                             <div class="highlights-icon" id="get-started"></div>
@@ -130,7 +146,7 @@
                 </a>
             </div>
             <div class="span4">
-                <a href="{{ pathto('site/about/index') }}">
+                <a href="{{ pathto('site/docs/index') }}">
                     <div class="info-box">
                         <h4>{{ _('Learn More') }}</h4>
                         <div class="box-content">
@@ -157,7 +173,7 @@
         <div class="row">
             <div class="span6">
                 <div class="info-box">
-                    <h4>Upcoming User & Developer Meetings</h4>
+                    <h4>{{ _('Upcoming User & Developer Meetings') }}</h4>
                 </div>
                 <div id="qugsatom">
                     <!-- to be filled via javascript loading of atom feed -->
@@ -183,12 +199,12 @@
 
        <div id="qgisflickrmapsatom" class="row">
             <div class="span2">
-                <a href="{{ pathto('site/about/screenshots') }}#maps-created-with-qgis">
+                <a href="{{ pathto('site/about/screenshots') }}">
                     <div class="info-box">
-                        <h4>New Maps:</h4>
                         <div class="box-content">
                             <p></p>
                         </div>
+                        <h4>{{ _('See More Maps and Screenshots') }}</h4>
                     </div>
                 </a>
             </div>
@@ -236,53 +252,6 @@
 </section>
 
 <script type="text/javascript">
-
-        function atom(url, holder, count, showcont){
-            $.get(url, function (data) {
-                var html = "";
-                var maxitems = 7;
-                if(count)maxitems=count;
-                var showcontent = false;
-                if(showcont)showcontent=showcont;
-                var counter = 0;
-                $(data).find("entry").each(function () {
-                    var el = $(this);
-                    var title = el.find('title').text();
-                    var author = el.find('name').text();
-                    var content = el.find('content').text();
-                    var imglink='#';
-                    var link='#';
-                    el.find('link').each(
-                        function(){
-                            // flickr image for maps
-                            if ($(this).attr('rel') == 'enclosure'){
-                                imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
-                            }
-                            // links
-                            else if ($(this).attr('rel') == 'alternate'){
-                                link = $(this).attr('href');
-                            }
-                        }
-                    )
-                    counter++;
-
-
-                    if (counter<=maxitems && holder == '#qgisflickrmapsatom'){
-                        // html for flickr maps
-                        html+='<div class="span2"><p><a class="external" href="'+link+'">';
-                        if(imglink!='#'){ html+='<img src="'+imglink+'"/>'; }
-                        html+='</a></p></div>\n';
-                    }
-                    else if (counter<=maxitems){
-                        html+='<a class="external" href="'+link+'">';
-                        html+='<div class="info-box" style="padding:10px;color:#666;">'+title+'';
-                        if (showcontent) { html+=' - '+content; };
-                        html+='</div></a>\n';
-                    }
-                });
-                $(holder).append(html);
-            });
-        }
 
 
     $(function(){

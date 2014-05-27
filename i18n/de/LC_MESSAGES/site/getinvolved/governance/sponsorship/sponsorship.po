@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-03-04 21:37+0000\n"
+"PO-Revision-Date: 2014-05-25 17:25+0000\n"
 "Last-Translator: jefi <jef@norbit.de>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:5
 msgid "Sponsorship Program Overview"
-msgstr ""
+msgstr "Sponsorenprogrammüberblick"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:7
 msgid ""
@@ -80,14 +80,6 @@ msgstr "Es gibt zwei Arten von finanziellen Beiträgen, wir akzeptieren: Förder
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:45
 msgid "Sponsorship"
 msgstr "Förderung"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
-msgid ""
-"Sponsors can sponsor Quantum GIS for any amount of money of at least 500 "
-"€/700 US$. Sponsorships last one year, after which they may be continued "
-"with a new payment, or allowed to lapse. At or above the following levels a "
-"sponsor will be designated as being one of the following class:"
-msgstr "Förderer können QGIS einen beliebigen Betrag ab 500€ / 700 US$ leisten. Die Förderung dauert ein Jahr, nach dem sie mit einer neuen Zahlung verlängert oder ruhen gelassen werden kann. Bei folgenden Höhen wird ein Förderer folgenden Klassen zugeordnet:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "euros"
@@ -170,10 +162,6 @@ msgstr "Wenn Sie uns eine größere Spende zukommen lassen wollen, empfehlen wir
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:73
 msgid "What is your benefit sponsoring the QGIS Development?"
 msgstr "Was haben Sie von der Förderung der QGIS-Entwicklung?"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
-msgid "Sponsoring the Quantum GIS project provides the following benefits:"
-msgstr "Das QGIS-Projekt zu fördern bringt folgende Vorteile:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:77
 msgid "Ensures the sustainability and health of the QGIS project."
@@ -266,13 +254,13 @@ msgid ""
 "able to fund QGIS team members to represent QGIS at important conferences, "
 "to promote it among users and raise interest and solicit code contributions "
 "from other developers."
-msgstr ""
+msgstr "Teilnahme an anderen Konferenzen. In jedem Jahr gibt mehrere wichtige Konferenzen (wie http://www.foss4g.org) und wir würden gerne in der Lage sein QGIS-Teammitgliedern zu ermöglichen QGIS bei wichtigen Konferenzen zu vertreten, um es bei seinen Anwendern zu fördern, Interesse zu wecken und Programmierbeiträge von anderen Entwicklern zu erbitten."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:119
 msgid ""
 "Decisions on spending of sponsorship funds will be made by the QGIS Project "
 "Steering Committee."
-msgstr ""
+msgstr "Entscheidungen wie Sponsorgelder ausgegeben werden, wird das QGIS-Projektsteuerungskommitee fällen."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:122
 msgid ""
@@ -281,7 +269,7 @@ msgid ""
 "QGIS development, we encourage you to allocate additional human resources to"
 " the project, e.g. hiring a developer, or participating to our bug fixing "
 "initiative."
-msgstr ""
+msgstr "Wir bedauern keine zweckgebundenen Förderungen annehmen zu können, da diese viele Probleme verwaltungstechnischer Art mit sich bringen. Wenn Sie bestimmte Aspekte der QGIS-Entwicklung fördern wollen, empfehlen wir Ihnen dem Projekt zusätzliche personelle Kapazitäten zur Verfügung zu stellen, z.B. in dem Sie einen Entwickler beauftragen oder an unserer Fehlerbehebungsinitiative teilzunehmen."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:128
 msgid ""
@@ -292,7 +280,7 @@ msgid ""
 "spatial services, or offers where we have reason to believe the presence of "
 "the sponsors logo and marketing materials on our site and other materials "
 "will degrade the experience of our users will be declined."
-msgstr ""
+msgstr "Die Annahme von Sponsorangeboten obliegt dem QGIS PSC. Wir behalten und das Recht vor Sponsorangebote abzulehnen, wenn der Sponsor den Anschein erweckt nicht im Einklang mit dem Ethos des Projekts zu sein.  Z.B. werden Angebote von Marketingunternehmen, die nichts mit GIS zu tun haben oder Angebote, die nur darauf abzielen Logos, Werbung oder anderes Material auf unsere Website zu bringen, und damit den Eindruck unserer Nutzer herabsetzen, abgelehnt."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:136
 msgid ""
@@ -300,4 +288,26 @@ msgid ""
 "should contact the QGIS PSC Finance and Marketing advisor, Paolo Cavallini "
 "at: cavallini at faunalia dot it (+39-348-3801953) with questions, or to "
 "make arrangements."
-msgstr ""
+msgstr "Organisationen und Einzelpersonen, die daran Interesse haben Sponsoren zu werden, sollten sich an den QGIS-PSC Finanz- und Marketingberater Paolo Cavallini unter cavallini at faunalia dot it (+39-348-3801953) wenden."
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
+msgid ""
+"Sponsors can sponsor QGIS for any amount of money of at least 500 €/700 US$."
+" Sponsorships last one year, after which they may be continued with a new "
+"payment, or allowed to lapse. At or above the following levels a sponsor "
+"will be designated as being one of the following class:"
+msgstr "Sponsoren können QGIS mit jedem Betrag ab mindestens 500 €/700 US$ unterstützen. Das Sponsoring dauert ein Jahr und kann danach mit einer weiteren Zahlung fortgesetzt werden oder ruhen gelassen werden. Ein Sponsor wird auf diesem oder folgenden Stufen folgenden Klassen zugeordnet:"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
+msgid "Sponsoring the QGIS project provides the following benefits:"
+msgstr "Das QGIS-Projekt zu sponsorn bringt folgende Vorteile:"
+
+#~ msgid ""
+#~ "Sponsors can sponsor Quantum GIS for any amount of money of at least 500 "
+#~ "€/700 US$. Sponsorships last one year, after which they may be continued "
+#~ "with a new payment, or allowed to lapse. At or above the following levels a "
+#~ "sponsor will be designated as being one of the following class:"
+#~ msgstr ""
+
+#~ msgid "Sponsoring the Quantum GIS project provides the following benefits:"
+#~ msgstr ""

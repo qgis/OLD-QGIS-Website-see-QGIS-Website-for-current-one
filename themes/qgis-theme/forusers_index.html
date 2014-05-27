@@ -57,16 +57,22 @@
             <div class="offset1 span5">
                 <h3>{{ _('Download QGIS') }}</h3>
               
-                <p class="mute">{{ _('For Linux, Windows, OSX, BSD and beta Android.') }}</p>
+                <p class="mute">{{ _('For Linux, Windows, OSX, BSD and (in beta) Android.') }}</p>
                 <h4>
                     <a href="{{ pathto('site/forusers/download') }}" class="btn btn-large btn-primary">{{ _('Download QGIS') }}</a>
                 </h4>
 
-                <p>{{ _('Check out our visual changelog, for what is changed since QGIS 1.8') }}
+                <p>{{ _('Check out our visual changelog, for what has changed since the previous release') }}
                 </p>
                 <h4>
-                    <a href="http://changelog.linfiniti.com/qgis/version/200/">{{ _('Visual Changelog for 2.0') }}</a>
+                    <a href="http://changelog.linfiniti.com/qgis/version/21/">{{ _('Visual Changelog for 2.2') }}</a>
                 </h4>
+                <!--<h4>
+                    <a href="{{ pathto('site/forusers/visualchangelog20') }}">{{ _('Visual Changelog for 2.0') }}</a>
+                </h4>
+                <h4>
+                    <a href="{{ pathto('site/forusers/visualchangelog22') }}">{{ _('Visual Changelog for 2.2') }}</a>
+                </h4>-->
             </div>
             <div class="span1"></div>
             <div class="span4">
@@ -80,7 +86,7 @@
                 <h3>{{ _('Get Plugins') }}</h3>
                 <p>{{ _('QGIS plugin architecture allows many new features/functions to be easily added to the application. ') }}
                 </p>
-                <p>{{ _('The integrated plugin manager in QGIS lets you download and install from a vast collection of free plugins.') }}
+                <p>{{ _('The integrated QGIS plugin manager lets you download and install from a vast collection of free plugins.') }}
                 </p>
                 <h4>
                     <a href="http://plugins.qgis.org/plugins/" class="reference external">{{ _('Explore the plugins that make QGIS so powerful.') }}</a>
@@ -103,12 +109,12 @@
                 <p>{{ _('The User manual contains all documentation needed for a user to get started. The documentation is updated with every update of QGIS.') }}
                 </p>
                 <h4>
-                    <a href="{{ pathto('docs/user_manual/index') }}">{{ _('Read QGIS Documentation') }}</a>
+                    <a href="http://docs.qgis.org/{{version}}/en/docs/user_manual/index.html">{{ _('Read QGIS Documentation') }}</a>
                 </h4>
                 <p>{{ _('Another good guide to getting started is:') }}
                 </p>
                 <h4>
-                    <a href="{{ pathto('docs/gentle_gis_introduction/index') }}">{{ _('A Gentle Introduction to GIS') }}</a>
+                    <a href="http://docs.qgis.org/{{version}}/en/docs/gentle_gis_introduction/index.html">{{ _('A Gentle Introduction to GIS') }}</a>
                 </h4>
 
             </div>

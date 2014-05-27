@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-01-08 23:11+0000\n"
+"PO-Revision-Date: 2014-05-25 17:16+0000\n"
 "Last-Translator: jefi <jef@norbit.de>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -170,12 +170,6 @@ msgid ""
 "source code and create pull requests for the language file on github."
 msgstr "Eine fortgeschrittene Stufe bei der Übersetzungshilfe wäre den Sourcecode selbst auszuchecken und Pullrequest für die Übersetzungsdatei auf github zu erstellen."
 
-#: ../../source/site/getinvolved/translate.rst:128
-msgid ""
-"Working with github and checking out the source code is explained in the "
-":ref:`Developer Section <reference-missing>'"
-msgstr "Die Arbeit mit github und der Bezug des Quellcodes it im  :ref:`Entwicklerabschnitt <reference-missing>' erklärt."
-
 #: ../../source/site/getinvolved/translate.rst:132
 msgid "Documentation"
 msgstr "Dokumentation"
@@ -231,6 +225,17 @@ msgid ""
 "available in the README.md file which gets displayed on "
 "https://github.com/qgis/QGIS-Website"
 msgstr " Beschreibungen wie Sie zu der Übersetzung der Webseite beitragen können, finden Sie in der Datei README.ml, die auf https://github.com/qgis/QGIS-Website angezeigt wird"
+
+#: ../../source/site/getinvolved/translate.rst:128
+msgid ""
+"Working with github and checking out the source code is explained in the "
+":ref:`Developer Section <reference-missing>`."
+msgstr "Arbeiten mit github und das Auschecken des Quelltextes ist im Abschnitt  :ref:`Entwickler <reference-missing>` beschrieben."
+
+#~ msgid ""
+#~ "Working with github and checking out the source code is explained in the "
+#~ ":ref:`Developer Section <reference-missing>'"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "You will also find the progress of the translation there (but remember in "

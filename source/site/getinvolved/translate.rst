@@ -126,7 +126,7 @@ An advanced level of helping with the translations would be to checkout the
 source code and create pull requests for the language file on github.
 
 Working with github and checking out the source code is explained in the
-:ref:`Developer Section <reference-missing>'
+:ref:`Developer Section <reference-missing>`.
 
 Documentation
 -------------

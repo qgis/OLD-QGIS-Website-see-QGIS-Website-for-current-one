@@ -8,6 +8,18 @@ How to obtain QGIS?
 
 QGIS is freely available on Windows, Linux, MacOS X, BSD, and Android.
 
+We recommend installing the packages of the released software.
+
+To evaluate the upcoming release and to allow non-developers to support
+development we also provide testing packages (note the
+warning_).
+
+In the feature frozen phase preceding a release (see
+:ref:`QGIS-release-schedule`) these packages are effectively **pre-releases,
+which we strongly urge users to test**.
+
+.. _QGIS-windows-testing:
+
 Windows
 =======
 
@@ -18,20 +30,37 @@ For new users we recommend the standalone installers.
 
 For more advanced QGIS users you can use the OSGeo4W package, which makes it
 possible to install both the latest stable version and/or the development
-(nightly) version (but not the warning above!).
+(nightly) version.
 
 The OSGeo4W repository contains a lot of software from OSGeo projects.
 QGIS and all dependencies are included, along with Python, GRASS, GDAL, etc.
 The installer is able to install from internet or just download all needed
 packages beforehand.
 The downloaded files are kept in a local directory for future installations.
-Steps are::
+Steps are:
 
- Download OSGEO4W Installer
- Start it
- Select **Advanced Install** and then the *qgis* or *qgis-dev* package from
- the Desktop section.
- Also other libraries can be selected.
+- Download OSGeo4W Installer and start it
+
+- Select *Advanced Install*,
+
+- navigate to the *Desktop* section and
+
+- pick the *qgis* (release) and/or *qgis-dev* (nightly build) package.
+
+.. _QGIS-windows-weekly:
+
+For users that cannot use OSGeo4W for some reason or just prefer it there is
+also a `weekly snapshot <http://qgis.org/downloads/weekly/?C=M;O=D>`_ of
+qgis-dev from OSGeo4W as *standalone installer* (taken on monday).  In the
+feature freeze phase that also acts as **release candidate**.
+
+Note the warning_.
+
+.. note:: Don't blindly do a full install of OSGeo4W. Only install QGIS and
+   maybe other components you like.  Dependencies will be included
+   automatically.  A full install pulls in components that require third party
+   additions, which need to be installed manually.  These components render the
+   installation unusable without those additions.
 
 Linux
 =====
@@ -41,10 +70,10 @@ need qgis and qgis-python (to run plugins).
 Packages like qgis-grass (or qgis-plugin-grass), qgis-mapserver can be
 skipped initially, or installed only when you need them.
 
-Below you find instructions to install per distribution.
-For most distro's there are instructions to install QGIS stable and
-instructions to install a cutting edge QGIS testing build (note the
-warning on the bottom of this page!).
+Below you find instructions to install per distribution.  For most distro's
+there are instructions to install QGIS stable and instructions to install a
+cutting edge QGIS testing build (note the warning_).
+
 
 Ubuntu
 ------
@@ -78,8 +107,10 @@ QGIS stable
    library changes the packages might sooner or later be broken, when the
    development in ubuntu moves on.  If that's the case you can either move to a
    stable ubuntu version and use the released packages for it, rebuild the
-   packages for the current state of debian (see INSTALL) or switch to the
+   packages for the current state of debian (see INSTALL_ or switch to the
    testing packages which are rebuild on regular basis.
+
+.. _INSTALL: http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html
 
 On plain Ubuntu:
 ^^^^^^^^^^^^^^^^
@@ -114,10 +145,12 @@ from your sources.list and upgrade updated dependencies by typing::
  sudo apt-get update
  sudo apt-get install qgis python-qgis qgis-plugin-grass
 
+.. _QGIS-ubuntu-testing:
+
 QGIS testing
 ............
 
-Note the warning on the bottom of this page!
+Note the warning_.
 
 On plain Ubuntu:
 ^^^^^^^^^^^^^^^^
@@ -150,8 +183,8 @@ Precise::
  deb     http://qgis.org/debian-nightly precise main
  deb-src http://qgis.org/debian-nightly precise main
 
-Base on dependencies from ubuntugis:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Based on dependencies from ubuntugis:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 There are also nightly builds that depend on updated dependencies found in
 ubuntugis.
@@ -193,7 +226,7 @@ QGIS stable
    library changes the packages might sooner or later be broken, when the
    development in debian moves on.  If that's the case you can either move to a
    stable debian version and use the released packages for it, rebuild the
-   packages for the current state of debian (see INSTALL) or switch to the
+   packages for the current state of debian (see INSTALL_) or switch to the
    testing packages which are rebuild on regular basis.
 
 Packages for Debian *Wheezy, Jessie and Unstable* for i386 and amd64 are
@@ -233,10 +266,12 @@ type::
    installed from other repositories before doing the update.
 
 
+.. _QGIS-debian-testing:
+
 QGIS testing
 ............
 
-Note the warning on the bottom of this page!
+Note the warning_.
 
 Nightly builds of QGIS testing are available from following repository (i386
 and amd64):
@@ -290,7 +325,7 @@ There is an alternative repository for QGIS 2.2 on Fedora 19 and Fedora 20
 QGIS testing
 ............
 
-Note the warning on the bottom of this page!
+Note the warning_.
 
 A newer version might be available in the testing repository -- usually around
 one week::
@@ -311,8 +346,9 @@ Try the ELGIS repository: http://elgis.argeo.org/
 QGIS stable
 ...........
 
-QGIS stable can be installed from an alternative repository. Note: It
-requires, that ELGIS and EPEL are also installed.
+QGIS stable can be installed from an alternative repository.
+Python support is strongly limited due to old dependencies.
+Note: It requires, that ELGIS and EPEL are also installed.
 ::
 
  sudo wget fedora.vitu.ch/EL/qgis.repo -P /etc/yum.repos.d/
@@ -339,7 +375,7 @@ All packages include GRASS and Python support.
 QGIS testing
 ............
 
-Note the warning on the bottom of this page!
+Note the warning_.
 
 A regularly updated development package from qgis master called qgis-master
 is available for 12.2, 12.3, 13.1, Factory and Tumbleweed (32 and 64bit).
@@ -409,14 +445,15 @@ available for common QGIS plugin requirements.
 QGIS download page on KyngChaos http://www.kyngchaos.com/software/qgis
 (framework requirements listed there) has more information.
 
+.. _QGIS-macos-testing:
+
 QGIS testing
 ------------
-
-Note the warning on the bottom of this page!
 
 QGIS testing builds (Nightly build) at http://qgis.dakotacarto.com are
 provided by Dakota Cartography.
 
+Note the warning_.
 
 FreeBSD
 =======
@@ -432,13 +469,13 @@ To compile QGIS from binary packages type
 QGIS testing
 ------------
 
-Note the warning on the bottom of this page!
-
 To compile QGIS from sources in FreeBSD you need to type
 ::
 
  cd /usr/ports/graphics/qgis
  make install clean
+
+Note the warning_.
 
 Android
 =======
@@ -446,14 +483,16 @@ Android
 Alpha and nightly builds as well as further documentation can be obtained at
 http://android.qgis.org
 
-.. warning:: QGIS testing versions are provided for some platforms in
+.. _warning:
+
+.. warning::
+   QGIS testing packages are provided for some platforms in
    addition to the QGIS stable version.
    QGIS testing contains unreleased software that is currently being worked
    on.
-   As such they are unsupported and only provided for testing purposes to
-   early adopters to check if bugs have been resolved and that no new bugs
-   have been introduced.
-   At any given time it may not work, or may do bad things to your data. Use
-   at your own risk.
-   You have been warned!
+   They are only provided for testing purposes to early adopters
+   to check if bugs have been resolved and that no new bugs have been
+   introduced.  Although we carefully try to avoid breakages, it may at any
+   given time not work, or may do bad things to your data.
+   Take care. You have been warned!
 

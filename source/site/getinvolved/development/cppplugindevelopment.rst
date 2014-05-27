@@ -1,7 +1,7 @@
 
 .. _QGIS-cpp-plugin-development:
 
-Developing CPP plugins
+Developing C++ plugins
 ----------------------
 
 Preparing the Environment and Setting up the Repo

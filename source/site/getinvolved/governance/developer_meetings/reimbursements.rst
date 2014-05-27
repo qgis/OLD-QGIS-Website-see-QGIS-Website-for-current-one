@@ -56,7 +56,7 @@ Procedure for funding applications - core developers
 * The request should include the number of days that the developer will attend.
 * The request should include an expense breakdown covering travel and
   accommodation.
-* The requestor should provide copies of reciepts for all expenditures as soon
+* The requestor should provide copies of receipts for all expenditures as soon
   as possible after the event. No refunds should be made without accompanying
   receipts.
 
@@ -73,6 +73,6 @@ Procedure for funding applications - new developers
 * The request should include the number of days that the developer will attend.
 * The request should include an expense breakdown covering travel and
   accommodation.
-* The requestor should provide copies of reciepts for all expenditures as soon
+* The requestor should provide copies of receipts for all expenditures as soon
   as possible after the event. No refunds should be made without accompanying
   receipts.

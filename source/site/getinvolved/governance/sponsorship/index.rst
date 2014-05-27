@@ -9,5 +9,4 @@ Contents:
    :maxdepth: 2
 
    sponsorship
-   sponsor-list
    gold-sponsors

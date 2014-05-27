@@ -2,8 +2,6 @@
   <!-- note on the options here: the 'title' string is to be translated in your
   language, but the element text is supposed to stay in native lang/txt -->
   <option value="en" title="{{ _('English') }}">English</option>
-  <option value="ca_ES" title="{{ _('Catalan') }}">Catalan</option>
-  <option value="da_DK" title="{{ _('Danish') }}">Dansk</option>
   <option value="de" title="{{ _('German') }}">Deutsch</option>
   <option value="es" title="{{ _('Spanish') }}">Español</option>
   <option value="fa" title="{{ _('Persian') }}">فارسی</option>
@@ -13,14 +11,16 @@
   <option value="it" title="{{ _('Italian') }}">Italiano</option>
   <option value="ja" title="{{ _('Japanese') }}">日本語</option>
   <option value="km_KH" title="{{ _('Khmer') }}">ភាសាខ្មែរ    </option>
-  <option value="ko_KR" title="{{ _('Korean') }}">한국어</option>
+  <option value="ko" title="{{ _('Korean') }}">한국어</option>
   <option value="nl" title="{{ _('Dutch') }}">Nederlands</option>
   <option value="pl" title="{{ _('Polish') }}">Polski</option>
+  <option value="pt_BR" title="{{ _('Portuguesei (Brazil)') }}">Português (Brasil)</option>
   <option value="pt_PT" title="{{ _('Portuguese') }}">Português</option>
   <option value="ro" title="{{ _('Romanian') }}">Română</option>
+  <option value="tr" title="{{ _('Turkish') }}">Turkish</option>
   <option value="ru" title="{{ _('Russian') }}">Русский</option>
+  <option value="uk" title="{{ _('Ukrainian') }}">Українська</option>
   <option value="zh_CN" title="{{ _('Chinese (China)') }}">中文</option>
-  <option value="zh_TW" title="{{ _('Chinese (Taiwan)') }}">{{ _('Chinese (Taiwan)') }}</option>
 </select>
 
 <script>
@@ -65,12 +65,93 @@
             gotoLang($(this).val());
         });
 
+        if (currentPage == "site/forusers/visualchangelog20.html"){
+            // http://changelog.linfiniti.com/qgis/version/200/atom
+            //atom('http://localhost/qgis/feeds/visualchangelog20.atom', $('#changelog-for-version-2-0-0 p'), 100, true);
+            atom('/feeds/visualchangelog20.atom', $('#changelog-for-version-2-0-0 p'), 100, true);
+        }
+        else if (currentPage == "site/forusers/visualchangelog22.html"){
+            // http://changelog.linfiniti.com/qgis/version/21/atom
+            //atom('http://localhost/qgis/feeds/visualchangelog22.atom', $('#changelog-for-version-2-2-0 p'), 100, true);
+            atom('/feeds/visualchangelog22.atom', $('#changelog-for-version-2-2-0 p'), 100, true);
+        }
+        else if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
+        }
+
     });
 
+
+    //
     // load current page in a different language
+    //
     function gotoLang(lang){
         var currentUrl = window.location.href;
         var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
         window.location.href = newUrl;
+    }
+
+    //
+    // function to load an atom feed, an put it in an element
+    //
+    function atom(url, holder, count, showcont, spanclass){
+        $.get(url, function (data) {
+            var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+            $(data).find("entry").each(function () {
+                var el = $(this);
+                var title = el.find('title').text();
+                var author = el.find('name').text();
+                var content = el.find('content').text();
+                if (content.length==0){
+                    // try summary
+                    content = el.find('summary').text();
+                }
+                var imglink='#';
+                var link='#';
+                el.find('link').each(
+                    function(){
+                        // flickr image for maps and qgis screenshots
+                        if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
+                            imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
+                        }
+                        // links
+                        else if ($(this).attr('rel') == 'alternate'){
+                            link = $(this).attr('href');
+                        }
+                    }
+                )
+                counter++;
+
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
+                    // html for flickr maps
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
+                    html+='</a></p></div>\n';
+                }
+                else if (counter<=maxitems){
+                    html+='<a class="external" href="'+link+'">';
+                    html+='<div class="info-box" style="padding:10px;color:#666;">'+title+'';
+                    if (showcontent) { html+=' - '+content; };
+                    html+='</div></a>\n';
+                }
+            });
+            $(holder).append(html);
+        });
     }
 </script>
