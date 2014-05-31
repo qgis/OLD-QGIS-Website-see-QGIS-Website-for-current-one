@@ -1,7 +1,12 @@
 
-# update planet first
-/home/web/qgis-django/update_planet.sh
+# script to be run on server serving the static content of the website
+# doc root in /ar/www/qgis_new_web/QGIS-Website/live/html
 
+
+# update planet first
+#/home/web/qgis-django/update_planet.sh
+
+mkdir -p /var/www/qgis_new_web/QGIS-Website/live/html/feeds
 # cd to feed output dir
 cd /var/www/qgis_new_web/QGIS-Website/live/html/feeds
 
@@ -27,3 +32,4 @@ curl "http://changelog.linfiniti.com/qgis/version/21/atom" -o visualchangelog22.
 # for 2.0
 mv visualchangelog20.atom visualchangelog20.atom.0
 curl "http://changelog.linfiniti.com/qgis/version/200/atom" -o visualchangelog20.atom
+
