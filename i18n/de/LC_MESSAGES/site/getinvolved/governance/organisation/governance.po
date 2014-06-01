@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-27 20:14+0000\n"
+"PO-Revision-Date: 2014-06-01 17:17+0000\n"
 "Last-Translator: jefi <jef@norbit.de>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgid ""
 "The QGIS project is managed by the Project Steering Committee (PSC) which "
 "consists of 8 members (with their individual responsibilities listed in "
 "brackets):"
-msgstr ""
+msgstr "Das QGIS-Projekt wird vom Projektsteuerungskommitee (PSC) gesteuert, dass aus acht Mitgliedern besteht (mit Ihren einzelnen Verantwortungsbereichen in Klammern):"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:15
 msgid "Gary Sherman (Chair)"
@@ -60,7 +60,7 @@ msgstr "Anita Graser (Designberater)"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:21
 msgid "Richard Duivenvoorde (Infrastructure Manager)"
-msgstr ""
+msgstr "Richard Duivenvoorde (Infrastruktur-Manager)"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:22
 msgid "Jürgen Fischer (Release Manager)"
@@ -107,7 +107,7 @@ msgstr "Windows-Team: Jürgen E. Fischer <jef[at]norbit.de>, Tim Sutton <tim[at]
 msgid ""
 "OS X Team: William Kyngesburye <kyngchaos[at]kyngchaos.com>, Tom Elwertowski"
 " <telwertowski[at]comcast.net>"
-msgstr ""
+msgstr "OS X Team: William Kyngesburye <kyngchaos[at]kyngchaos.com>, Tom Elwertowski <telwertowski[at]comcast.net>"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:52
 msgid "Linux Team:"
@@ -195,7 +195,7 @@ msgstr "Code Maintainer sind für bestimmte Bereiche des QGIS-Quellcodes zustän
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:103
 msgid "Core library: Martin Dobias <wonder.sk[at]gmail.com>"
-msgstr "Kernbilbiothek: Martin Dobias <wonder.sk[at]gmail.com>"
+msgstr "Kernbibliothek: Martin Dobias <wonder.sk[at]gmail.com>"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:104
 msgid "Gui library: Martin Dobias <wonder.sk[at]gmail.com>"
@@ -293,22 +293,22 @@ msgid ""
 " community, take care of QGIS documentation and GUI translations, and ensure"
 " smooth running of the QGIS.org online experience including web sites, blog,"
 " mailing lists, forums etc."
-msgstr ""
+msgstr "Die QGIS-Gemeinschaftsresourcen werden vom Gemeinschaftsteam (Gemeinschaftsverwalter und -assistenten). Mit zahllosen Beteiligten halten sie Verbindung zur Gemeinschaft, kümmern sich um die QGIS-Dokumentation und den reibungslosen Betrieb von QGIS.org, Blog, Mailinglisten, Foren usw."
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:140
 msgid ""
 "Find the list of documentation and website translators at: "
 "https://github.com/qgis/QGIS-Documentation"
-msgstr ""
+msgstr "Die Dokumentationsliste und die Website-Übersetzer finden sie unter: https://github.com/qgis/QGIS-Documentation"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:146
 msgid "GUI Translation"
-msgstr ""
+msgstr "GUI-Übersetzung"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:148
 msgid ""
 "Current GUI Translation Team Lead: Werner Macho <werner.macho[at]gmail.com>"
-msgstr ""
+msgstr "Aktueller Leiter des GUI-Übersetzungsteam: Werner Macho <werner.macho[at]gmail.com>"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:151
 msgid ""
@@ -316,22 +316,22 @@ msgid ""
 "Translation Team Lead) and supported by additional language specific teams. "
 "Information about the current documentation status and the translation "
 "process are provided at the TranslatorsCorner."
-msgstr ""
+msgstr "Die QGIS GUI-Übersetzung wird vom Gemeinschaftsassistenten (GUI-Übersetzungsteamleiter) und weiteren sprachabhängigen Teams durchgeführt. Informationen zum derzeitigen Dokumentationsstand und dem Übersetzungsprozeß sind in der TranslatorsCorner zu finden."
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:156
 msgid ""
 "Contact : `qgis-community-team <http://lists.osgeo .org/mailman/listinfo"
 "/qgis-community-team>`_ list or `QGIS Translation Mailing list "
 "<http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_"
-msgstr ""
+msgstr "Kontakt : `qgis-community-team <http://lists.osgeo .org/mailman/listinfo/qgis-community-team>`_ Liste oder  `QGIS Übersetzungsmailingliste <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:165
 msgid "Press Material + Translation"
-msgstr ""
+msgstr "Pressematerial und Übersetzung"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:167
 msgid "Current Press Material Team Lead: Anita Graser <anitagraser[at]gmx.at>"
-msgstr ""
+msgstr "Aktuelle Leiterin des Pressematerialteams: Anita Graser <anitagraser[at]gmx.at>"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:170
 msgid ""
@@ -339,7 +339,7 @@ msgid ""
 "Assistant (Press Material Team Lead) and supported by additional language "
 "specific teams. Information about current activities and the translation "
 "process are provided at the Press Centre."
-msgstr ""
+msgstr "QGIS-Pressematerial und seine Übersetzung werden von der Gemeinschaftsassistentin (Pressematerialteamleiterin) und weiteren sprachabhängigen Teams durchgeführt. Informationen über die gegenwärtigen Aktivitäten und den Übersetzungsprozeß finden sie im Pressezentrum."
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:176
 msgid "TEAM"
@@ -363,11 +363,11 @@ msgid ""
 "This `individuals <https://github.com/qgis/QGIS/graphs/contributors>`_ are "
 "recognised as Project Committers and have full commit access to the `github "
 "repository <https://github.com/qgis/QGIS>`_."
-msgstr ""
+msgstr "Diese `Personen <https://github.com/qgis/QGIS/graphs/contributors>`_ sind Projektcommitter und haben vollen Commit-Zugriff auf das `github-Repositorium  <https://github.com/qgis/QGIS>`_."
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:129
 msgid "Community Resources"
-msgstr ""
+msgstr "Gemeinschaftsresourcen"
 
 #~ msgid "Community Resources¶"
 #~ msgstr ""
