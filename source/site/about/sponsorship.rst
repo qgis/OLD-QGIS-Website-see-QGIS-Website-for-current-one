@@ -286,6 +286,7 @@ bank account rather than PayPal.
 * Ecotrust
 * Els Keunen
 * Emanuele Zamprogno
+* Eric Thouvenin
 * Erik Haß
 * Erwin Bauer
 * Evan Wolf
