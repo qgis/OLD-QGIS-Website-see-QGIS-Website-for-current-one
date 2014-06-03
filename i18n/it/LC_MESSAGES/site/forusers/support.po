@@ -1,4 +1,4 @@
-# 
+#
 # Translators:
 # ghtmtt <matteo.ghetta@gmail.com>, 2013
 # ilcontegis <matteo.gismondi@gmail.com>, 2013
@@ -15,6 +15,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: it_IT\n"
+"X-Source-Language: C\n"
 
 #: ../../source/site/forusers/support.rst:2
 msgid "QGIS Support"
@@ -28,13 +30,17 @@ msgstr "Mailing Lists"
 msgid ""
 "QGIS has a bunch of mailing lists. See :ref:`QGIS-mailinglists` for the "
 "different available lists."
-msgstr "QGIS ha un sacco di mailing lists. Vedi: ref:`QGIS-mailinglists` per i diversi elenchi disponibili."
+msgstr ""
+"QGIS ha varie mailing lists. Vedi: :ref:`QGIS-mailinglists` per i diversi "
+"elenchi disponibili."
 
 #: ../../source/site/forusers/support.rst:10
 msgid ""
-"If you are going to ask questions please read this: :ref:`how-to-ask-a-QGIS-"
-"question`."
-msgstr "Se avete intenzione di fare domande si prega di leggere il link seguente : :ref:`how-to-ask-a-QGIS-question`."
+"If you are going to ask questions please read this: "
+":ref:`how-to-ask-a-QGIS-question`."
+msgstr ""
+"Se avete intenzione di fare domande si prega di leggere il link seguente : "
+":ref:`how-to-ask-a-QGIS-question`."
 
 #: ../../source/site/forusers/support.rst:40
 msgid "Chat"
@@ -42,7 +48,8 @@ msgstr "Chat"
 
 #: ../../source/site/forusers/support.rst:42
 msgid "A lot of the development buzz will be spoken on IRC."
-msgstr "La maggior parte dei discorsi riguardanti lo sviluppo saranno fatti su IRC."
+msgstr ""
+"La maggior parte dei discorsi riguardanti lo sviluppo saranno fatti su IRC."
 
 #: ../../source/site/forusers/support.rst:44
 msgid "There is a #qgis channel on freenode.net"
@@ -50,9 +57,10 @@ msgstr "Puoi trovare il canale #qgis su freenode.net"
 
 #: ../../source/site/forusers/support.rst:46
 msgid ""
-"You can also use a web interface: "
+"You can also use a web interface: http://webchat.freenode.net/?channels=#qgis"
+msgstr ""
+"Puoi anche usare un'interfaccia web: "
 "http://webchat.freenode.net/?channels=#qgis"
-msgstr "Puoi anche usare un'interfaccia web: http://webchat.freenode.net/?channels=#qgis"
 
 #: ../../source/site/forusers/support.rst:48
 msgid "TODO: write something about the IRC ethiquette?"
@@ -78,18 +86,25 @@ msgstr "Issue Tracker"
 msgid ""
 "If you want to file bugs or issues, you need an osgeo ID. You can create an "
 "account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-msgstr "Se si desidera segnalare bug o problemi, è necessario un ID OSGeo. È possibile creare un account qui: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
+msgstr ""
+"Se si desidera segnalare bug o problemi, è necessario un ID OSGeo. È "
+"possibile creare un account qui: "
+"https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
 
 #: ../../source/site/forusers/support.rst:63
 msgid ""
 "More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-msgstr "Informazioni aggiuntive possono essere trovate qui: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
+msgstr ""
+"Informazioni aggiuntive possono essere trovate qui: "
+"http://hub.qgis.org/wiki/quantum-gis/Bugreports"
 
 #: ../../source/site/forusers/support.rst:65
 msgid ""
-"All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
-"gis/issues"
-msgstr "Tutti i problemi possono essere trovati qui: http://hub.qgis.org/projects/quantum-gis/issues"
+"All issues can be browsed here: "
+"http://hub.qgis.org/projects/quantum-gis/issues"
+msgstr ""
+"Tutti i problemi possono essere trovati qui: "
+"http://hub.qgis.org/projects/quantum-gis/issues"
 
 #: ../../source/site/forusers/support.rst:71
 msgid "Commercial Support"
@@ -99,7 +114,9 @@ msgstr "Supporto Commerciale"
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
-msgstr "Puoi anche ricevere supporto da compagnie vicine a te, dai uno sguardo a questa pagina: :ref:`QGIS-commercial_support`."
+msgstr ""
+"Puoi anche ricevere supporto da compagnie vicine a te, dai uno sguardo a "
+"questa pagina: :ref:`QGIS-commercial_support`."
 
 #: ../../source/site/forusers/support.rst:14
 msgid "Searchable Mailing Lists"
@@ -118,7 +135,7 @@ msgstr ""
 
 #: ../../source/site/forusers/support.rst:25
 msgid "Forums"
-msgstr ""
+msgstr "Forum"
 
 #: ../../source/site/forusers/support.rst:27
 msgid ""
