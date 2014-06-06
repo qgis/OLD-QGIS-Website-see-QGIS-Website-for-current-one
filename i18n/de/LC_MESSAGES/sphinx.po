@@ -1,17 +1,17 @@
 # 
 # Translators:
 # Daniel Kastl, 2013
-# jefi <jef@norbit.de>, 2013
-# jefi <jef@norbit.de>, 2013-2014
-# jefi <jef@norbit.de>, 2013
+# Jürgen E. Fischer <jef@norbit.de>, 2013
+# Jürgen E. Fischer <jef@norbit.de>, 2013-2014
+# Jürgen E. Fischer <jef@norbit.de>, 2013
 # simon04 <simon.legner@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2014-05-25 18:30+0000\n"
-"Last-Translator: jefi <jef@norbit.de>\n"
+"PO-Revision-Date: 2014-06-06 19:24+0000\n"
+"Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -90,7 +90,7 @@ msgid ""
 msgstr "Das QGIS-Projekt stellt eine einfache GIS-Einführung, ein Benutzerhandbuch, eine Programmier- und Kompilationsanweisung und eine Schnittstellendokumentation in Englisch und in einigen Fällen auch in andere Sprachen übersetzt zur Verfügung. Wenn Sie an einer Beteiligung am Dokumentationsprojekt interessiert sind, z.B. durch die Übersetzung des englischen Handbuchs in eine andere Sprache, können Sie im Folgenden Informationen dazu finden:"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:95
-#: ../../themes/qgis-theme/docs_index.html:116
+#: ../../themes/qgis-theme/docs_index.html:115
 msgid "Translate QGIS into your Language"
 msgstr "QGIS in Ihre Sprache übersetzen"
 
@@ -137,7 +137,7 @@ msgstr "Das Projekt finanziell unterstützen"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:160
 #: ../../themes/qgis-theme/about_index.html:147
-#: ../../themes/qgis-theme/docs_index.html:156
+#: ../../themes/qgis-theme/docs_index.html:155
 #: ../../themes/qgis-theme/getinvolved_donations.html:131
 #: ../../themes/qgis-theme/forusers_index.html:216
 msgid "Back to Top"
@@ -922,7 +922,7 @@ msgstr "Einen Fehler melden"
 msgid "DOCUMENTATION"
 msgstr "DOKUMENTATION"
 
-#: ../../themes/qgis-theme/docs_index.html:127
+#: ../../themes/qgis-theme/docs_index.html:126
 msgid "for QGIS testing"
 msgstr "für QGIS-Testversion"
 
@@ -942,13 +942,13 @@ msgstr "Dokumentations-Richtlinien"
 
 #: ../../themes/qgis-theme/docs_index.html:61
 #: ../../themes/qgis-theme/docs_index.html:89
-#: ../../themes/qgis-theme/docs_index.html:114
-#: ../../themes/qgis-theme/docs_index.html:134
+#: ../../themes/qgis-theme/docs_index.html:113
+#: ../../themes/qgis-theme/docs_index.html:133
 msgid "A gentle introduction in GIS"
 msgstr "Eine sanften Einführung in GIS"
 
-#: ../../themes/qgis-theme/docs_index.html:115
-#: ../../themes/qgis-theme/docs_index.html:135
+#: ../../themes/qgis-theme/docs_index.html:114
+#: ../../themes/qgis-theme/docs_index.html:134
 msgid "PDF versions of all above, eg for printing are available here: "
 msgstr "PDF-Versionen (z.B. zum Drucken) sind hier erhältlich:"
 
@@ -957,45 +957,44 @@ msgid "http://docs.qgis.org/2.0/pdf"
 msgstr "http://docs.qgis.org/2.0/pdf"
 
 #: ../../themes/qgis-theme/docs_index.html:84
-#: ../../themes/qgis-theme/docs_index.html:91
 msgid "http://docs.qgis.org/2.0"
 msgstr "http://docs.qgis.org/2.0"
 
-#: ../../themes/qgis-theme/docs_index.html:110
+#: ../../themes/qgis-theme/docs_index.html:109
 msgid "http://docs.qgis.org/1.8"
 msgstr "http://docs.qgis.org/1.8"
 
-#: ../../themes/qgis-theme/docs_index.html:111
-#: ../../themes/qgis-theme/docs_index.html:129
+#: ../../themes/qgis-theme/docs_index.html:110
+#: ../../themes/qgis-theme/docs_index.html:128
 msgid "User guide/Manual"
 msgstr "Benutzerhandbuch"
 
-#: ../../themes/qgis-theme/docs_index.html:112
-#: ../../themes/qgis-theme/docs_index.html:131
+#: ../../themes/qgis-theme/docs_index.html:111
+#: ../../themes/qgis-theme/docs_index.html:130
 msgid "PyQGIS cookbook"
 msgstr "PyQGIS-Kochbuch"
 
-#: ../../themes/qgis-theme/docs_index.html:113
-#: ../../themes/qgis-theme/docs_index.html:132
+#: ../../themes/qgis-theme/docs_index.html:112
+#: ../../themes/qgis-theme/docs_index.html:131
 msgid "Documentation Guidelines (how to write the docs)"
 msgstr "Dokumentations-Richtlinien (wie schreibt man Doku)"
 
-#: ../../themes/qgis-theme/docs_index.html:115
+#: ../../themes/qgis-theme/docs_index.html:114
 msgid "http://docs.qgis.org/1.8/pdf"
 msgstr "http://docs.qgis.org/1.8/pdf"
 
-#: ../../themes/qgis-theme/docs_index.html:128
+#: ../../themes/qgis-theme/docs_index.html:127
 msgid ""
 "Although not translated we also build the documentation for QGIS which is "
 "currently developed. We call this version 'QGIS testing' and documentation "
 "can be found here: "
 msgstr "Obgleich es nicht übersetzt ist, erzeugen wir auch die Dokumentation für die QGIS-Version, die gerade entwickelt wird. Wir nennen diese Version QGIS-Test und seine Dokumentation ist zu finden unter:"
 
-#: ../../themes/qgis-theme/docs_index.html:128
+#: ../../themes/qgis-theme/docs_index.html:127
 msgid "http://docs.qgis.org/testing"
 msgstr "http://docs.qgis.org/testing"
 
-#: ../../themes/qgis-theme/docs_index.html:135
+#: ../../themes/qgis-theme/docs_index.html:134
 msgid "http://docs.qgis.org/testing/pdf"
 msgstr "http://docs.qgis.org/testing/pdf"
 
@@ -1050,21 +1049,21 @@ msgstr "Aktuelle Blog Posts"
 
 #: ../../themes/qgis-theme/docs_index.html:60
 #: ../../themes/qgis-theme/docs_index.html:86
-#: ../../themes/qgis-theme/docs_index.html:130
+#: ../../themes/qgis-theme/docs_index.html:129
 msgid "QGIS Training manual"
 msgstr "QGIS-Trainingshandbuch"
 
 #: ../../themes/qgis-theme/docs_index.html:73
-#: ../../themes/qgis-theme/docs_index.html:92
-#: ../../themes/qgis-theme/docs_index.html:117
-#: ../../themes/qgis-theme/docs_index.html:136
+#: ../../themes/qgis-theme/docs_index.html:91
+#: ../../themes/qgis-theme/docs_index.html:116
+#: ../../themes/qgis-theme/docs_index.html:135
 msgid "C++ Api documentation"
 msgstr "C++-API-Dokumentation"
 
 #: ../../themes/qgis-theme/docs_index.html:72
-#: ../../themes/qgis-theme/docs_index.html:93
-#: ../../themes/qgis-theme/docs_index.html:118
-#: ../../themes/qgis-theme/docs_index.html:137
+#: ../../themes/qgis-theme/docs_index.html:92
+#: ../../themes/qgis-theme/docs_index.html:117
+#: ../../themes/qgis-theme/docs_index.html:136
 msgid "Python (iface) Api documentation"
 msgstr "Python (iface)-API-Dokumentation"
 
@@ -1144,7 +1143,7 @@ msgstr "GIS-Einführung unter"
 msgid "PDF versions of all above, eg for printing are available here:"
 msgstr "PDF-Version von allem obigen, z.B. zum Ausdrucken sind verfügbar unter:"
 
-#: ../../themes/qgis-theme/docs_index.html:110
+#: ../../themes/qgis-theme/docs_index.html:109
 msgid "We keep a copy of the documentation of QGIS 1.8 around here:"
 msgstr "Wir halten die Dokumentation zu QGIS 1.8 bereit unter:"
 
@@ -1156,12 +1155,6 @@ msgstr "QGIS 2.0"
 #: ../../themes/qgis-theme/forusers_download.html:3
 msgid "Download QGIS for your platform"
 msgstr "Laden Sie QGIS für Ihre Plattform herunter"
-
-#: ../../themes/qgis-theme/forusers_download.html:10
-msgid ""
-"We are currently in feature freeze preceding the release of QGIS 2.4. "
-"<b>Please consider testing the preleases</b>. See "
-msgstr "Wir sind gegenwärtig im Feature Freeze der dem Release von QGIS 2.4 vorangeht. <b>Bitte testen Sie die Vorabversionen</b>. Siehe"
 
 #: ../../themes/qgis-theme/forusers_download.html:11
 msgid "road map"
@@ -1180,12 +1173,6 @@ msgstr "QGIS 2.4 Release-Kandidat"
 #: ../../themes/qgis-theme/index.html:26
 msgid "Please test ..."
 msgstr "Bitte testen..."
-
-#: ../../themes/qgis-theme/index.html:27
-msgid ""
-"get the release candidate for your Operating System and report any issue you"
-" find, so it get's fixed for the 2.4 final release!"
-msgstr "Holen Sie sich den Release-Kandidaten für Ihr Betriebssystem und berichten Sie alle Probleme, die Sie finden, damit es zum 2.4 Release korrigiert werden kann."
 
 #: ../../themes/qgis-theme/index.html:176
 msgid "Upcoming User & Developer Meetings"
@@ -1213,7 +1200,7 @@ msgid "QGIS 2.2"
 msgstr "QGIS 2.2"
 
 #: ../../themes/qgis-theme/docs_index.html:36
-#: ../../themes/qgis-theme/docs_index.html:109
+#: ../../themes/qgis-theme/docs_index.html:108
 msgid "QGIS 1.8"
 msgstr "QGIS 1.8"
 
@@ -1244,11 +1231,6 @@ msgstr "Lernen Sie Dokumentationschreiben mittels"
 #: ../../themes/qgis-theme/docs_index.html:84
 msgid "We keep a copy of the documentation of QGIS 2.0 around here:"
 msgstr "Wir halten eine Kopie der QGIS-2-0-Dokumentation vor unter:"
-
-#: ../../themes/qgis-theme/docs_index.html:91
-msgid ""
-"Documentation for QGIS 2.0 is part of the website. But also available at:"
-msgstr "Dokumentation für QGIS 2.0 ist Teil dieser Webseite und zusätzlich erhältlich unter:"
 
 #: ../../themes/qgis-theme/forusers_index.html:60
 msgid "For Linux, Windows, OSX, BSD and (in beta) Android."
@@ -1286,6 +1268,32 @@ msgstr "Türkisch"
 #: ../../themes/qgis-theme/languageswitch.html:22
 msgid "Ukrainian"
 msgstr "Ukraninisch"
+
+#: ../../themes/qgis-theme/forusers_download.html:10
+msgid ""
+"We are currently in feature freeze preceding the release of QGIS 2.4. "
+"<b>Please consider testing the prereleases</b>. See "
+msgstr "Wir sind gegenwärtig im Feature Freeze der dem Release von QGIS 2.4 vorangeht. <b>Bitte testen Sie die Vorabversionen</b>. Siehe"
+
+#: ../../themes/qgis-theme/index.html:27
+msgid ""
+"get the release candidate for your Operating System and report any issue you"
+" find, so it gets fixed for the 2.4 final release!"
+msgstr "Holen Sie sich den Release-Kandidaten für Ihr Betriebssystem und berichten Sie alle Probleme, die Sie finden, damit es zum 2.4 Release korrigiert werden kann."
+
+#~ msgid ""
+#~ "We are currently in feature freeze preceding the release of QGIS 2.4. "
+#~ "<b>Please consider testing the preleases</b>. See "
+#~ msgstr ""
+
+#~ msgid ""
+#~ "get the release candidate for your Operating System and report any issue you"
+#~ " find, so it get's fixed for the 2.4 final release!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Documentation for QGIS 2.0 is part of the website. But also available at:"
+#~ msgstr ""
 
 #~ msgid "Download QGIS for your Platform"
 #~ msgstr ""
