@@ -6,9 +6,9 @@
 # update planet first
 #/home/web/qgis-django/update_planet.sh
 
-mkdir -p /var/www/qgis_new_web/QGIS-Website/live/html/feeds
+mkdir -p /var/www/qgisdata/QGIS-Website/live/html/feeds
 # cd to feed output dir
-cd /var/www/qgis_new_web/QGIS-Website/live/html/feeds
+cd /var/www/qgisdata/QGIS-Website/live/html/feeds
 
 # make backup
 mv qgisflickrmaps.atom qgisflickrmaps.atom.0
