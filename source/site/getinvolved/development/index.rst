@@ -215,3 +215,8 @@ http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)
 http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)
 
 .. _INSTALL: http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html
+
+Adding GRASS tools
+------------------
+
+:ref:`adding-grass-tools`

@@ -322,6 +322,7 @@ bank account rather than PayPal.
 * Gregory J Crowder
 * Guenther Moeller
 * Guillaume Raspini
+* Guzmán López Orrego
 * Hans Rudolf Wettstein
 * Harald Grote
 * Håvard Gåseidnes
