@@ -1,3 +1,6 @@
+
+.. _adding-grass-tools:
+
 GRASS modules can be run from QGIS *GRASS Tools* if QGIS was  started from a GRASS shell or if a GRASS mapset was opened from QGIS. The modules work with GRASS data only.
 
 It is easy to modify the menu and add new modules because both the menu and the modules are defined in XML configuration files. Below is described how to write new modules and modify menu tree.
