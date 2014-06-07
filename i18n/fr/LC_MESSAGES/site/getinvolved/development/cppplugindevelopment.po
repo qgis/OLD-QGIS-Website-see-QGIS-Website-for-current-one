@@ -1,0 +1,59 @@
+# 
+# Translators:
+# DelazJ <delazj@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-22 11:32+0100\n"
+"PO-Revision-Date: 2014-05-29 08:10+0000\n"
+"Last-Translator: DelazJ <delazj@gmail.com>\n"
+"Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:7
+msgid "Preparing the Environment and Setting up the Repo"
+msgstr "Préparation de l'environnement et configuration du répertoire"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:9
+msgid ""
+"Go to the QGIS repository in Github at https://github.com/qgis/QGIS/ Make a "
+"Fork for yourself. Learn more about forking and keeping your repo in sync "
+"with the main development repo at http://help.github.com/fork-a-repo/ Clone "
+"your personal copy of the repository to your system, and add upstream as "
+"mentioned in above provided link Read the "
+"https://github.com/qgis/QGIS/blob/master/INSTALL about setting up the "
+"installation environment and make a compilation with ccache enabled."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:14
+msgid "Setting up the Plugin Directory"
+msgstr "Configuration du dossier de l'extension"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:16
+msgid "Inside the QGIS folder::"
+msgstr "A l'intérieur du dossier QGIS::"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:22
+msgid ""
+"Now follow the instructions in the screen wizard to create a folder for your"
+" plugin. After the required input is given, a folder for the plugin is "
+"created. Read the README inside the plugin folder to create a plugin."
+msgstr "Maintenant, suivez les instructions à l'écran afin de créer un dossier pour votre extension. Une fois les informations requises fournies, un dossier est créé pour votre extension. Lisez le fichier README à l'intérieur du dossier afin de créer votre extension."
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:26
+msgid ""
+"Building QGIS now will also build your plugin. After starting QGIS enable "
+"the plugin to see it and show it's dialog."
+msgstr "Maintenant, la compilation de QGIS va aussi compiler votre extension. Après le démarrage de QGIS, activez l'extension afin de la voir et d'afficher sa boîte de dialogue."
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:5
+msgid "Developing C++ plugins"
+msgstr "Développer des extensions C++"
+
+#~ msgid "Developing CPP plugins"
+#~ msgstr ""

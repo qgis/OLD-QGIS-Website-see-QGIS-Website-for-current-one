@@ -1,0 +1,180 @@
+# 
+# Translators:
+# csorin <scalinica@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-22 11:32+0100\n"
+"PO-Revision-Date: 2014-06-02 12:52+0000\n"
+"Last-Translator: csorin <scalinica@gmail.com>\n"
+"Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:3
+msgid ""
+"The Research Institute for Geo-hydrological Protection of Turin - Aerial "
+"photo archive management"
+msgstr "Institutul de Cercetare pentru Protecția Geo-hidrologică din Torino - Gestionarea arhivei foto aeriene"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:5
+msgid ""
+"The Research Institute for Geo-hydrological Protection of Turin (IRPI), "
+"member of the Italian National Research Council (CNR), started its "
+"activities in 1970. The skills gathered since its foundation concern various"
+" following investigation sectors, e.g. the study of geological and "
+"hydrogeological features of the Alpine-Po river system (Northern Italy) or "
+"the monitoring, prediction and prevention of natural disasters. These tasks "
+"are carried out by the employment of a multidisciplinary approach including "
+"hearth sciences, engineering and geomatic."
+msgstr "Institutul de Cercetare pentru Protecția Geo-hidrologică din Torino (IRPI), membru al Consiliului Național Italian de Cercetare (CNR), și-a început activitatea în 1970. Competențele s-au conturat încă de la înființare, în diverse sectoare de cercetare, cum ar fi, în studiul proprietăților geologice și hidrogeologice ale sistemului de râuri Alpine-Po (nordul Italiei) sau în monitorizarea, predicția și prevenirea dezastrelor naturale. Aceste sarcini sunt efectuate printr-o abordare multidisciplinară, incluzând științele cheie, ingineria și geomatica."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:7
+msgid ""
+"In order to carry out exhaustive researches and studies, in addition to "
+"field survey, modelling and historical records analysis, aerial photograms "
+"are employed. Their use varies, from “simple” visual analyses to complex "
+"processing as stereoplotting or image segmentation."
+msgstr "În scopul efectuării de cercetări exhaustive și studii, în plus față de lucrul efectiv în teren, modelarea și analiză istorică a înregistrărilor, se folosesc și fotogramele aeriene. Utilizarea lor variază, de la \"simple\" analize vizuale, până la procesare complexă, cum ar fi ca plotarea stereo sau  segmentarea imaginii."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:9
+msgid ""
+"The institute, for the explained purposes, keeps in its archive about "
+"170000, recent and historical, photograms - the oldest one dating back to "
+"1920s (Figure 1) - covering, in different years, the Po basin or part of it."
+" Some photograms cover other basins in northern Italy. In addition the "
+"archives keeps flight plans of the described photograms (Figure 1)."
+msgstr "În ideea de mai sus, institutul, păstrează în arhiva sa aproximativ 170000 fotograme, mai mult sau mai puțin recente, - cea mai veche una datând din 1920 (Figura 1) - care acoperă, în ani diferiți, bazinul Po sau o parte din el. Unele fotograme acoperă alte bazine din nordul Italiei. În plus, în arhive se păstrează și planurile de zbor ale fotogramelor descrise (Figura 1)."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:16
+msgid "1929 photogram (left) and 1954 flight plan (right)."
+msgstr "Fotogramă din 1929 (stânga) și plan de zbor din 1954 (dreapta)."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:19
+msgid "Archive management"
+msgstr "Managementul arhivei"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:21
+msgid ""
+"In order to cope with such amount of data a GIS approach was adopted. First "
+"each flight plan, showing photograms’ footprints, was scanned, georeferenced"
+" and digitized in shapefile format. Then photograms were scanned, at 600 "
+"DpI, and files were named according to a code including map sheet, year of "
+"acquisition, strip number, photogram’s serial number and code of property "
+"(IRPI’s or external)."
+msgstr "Pentru a face față acestei cantități enorme de date a fost adoptată o anumită strategie GIS. În primul rând, fiecare plan de zbor, în care se pot observa originea fiecărei fotograme, este scanat, georeferențiat și digitizat în format shape. Apoi, fotogramele sunt scanate, la 600 dpi, iar fișierele sunt denumite în conformitate cu numărul trapezului, anul de achiziție, numărul de benzi, numărul de serie al fotogramei și codul de proprietate (IRPI sau extern)."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:23
+msgid ""
+"Each footprint in digitized flight plan was provided, in its attributes, "
+"with the previous codes in order to link shapefile to scanned photograms, by"
+" the use of eVis plugin (Horning et al, 2009), and to allow a user friendly "
+"interface to search and refer to (Figure 2). Data concerning photogram code "
+"were stored in attribute table fields than, by field calculator, a “Link” "
+"field was created storing photograms’ file paths."
+msgstr "Fiecare amprentă din planul digitizat de zbor are o referință, în atributele sale, către codurile precedente, în scopul legării fișierelor shape cu fotogramele scanate, prin utilizarea plugin-ului eVis (Horning et al, 2009), și pentru a permite o interfață de căutare prietenoasă (Figura 2). Datele privind codul fotogramelor au fost stocate în câmpurile tabelului de atribute, cu ajutorul calculatorului de câmpuri realizându-se o legătură către calea de stocare a fișierelor."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:30
+msgid "Photogram display (eVis Plugin)"
+msgstr "Afișare fotogramă (cu plugin-ul eVis)"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:32
+msgid ""
+"Moreover, due to the amount of searchable data a geographical search "
+"interface was developed. Thanks to the graphical modeler (in Processing, "
+"formerly SEXTANTE, plugin) capabilities, the developed tool, by different "
+"selection masks and input boxes, allows the user to select among three "
+"layers (administrative boundaries, map sheets and rivers), find a feature by"
+" querying its table and employ it to spatially query a digitized flight plan"
+" with the purpose of selecting photograms’ footprints intersecting the "
+"selected feature (Figure 3). With this procedure, is then possible to point "
+"out selected photogram and simply display them with the previously described"
+" tool or extract, by their filenames and path, photograms’ files for further"
+" processing."
+msgstr "Mai mult decât atât, datorită cantității mari de date, a fost dezvoltată o interfață de căutare geografică. Mulțumită capabilităților modelatorului grafic (din Processing, fostul plugin Sextante), instrumentul dezvoltat, utilizând diverse filtre de selecție și casete de introducere a textului, permite utilizatorului selectarea din cele trei straturi (limitele administrative, trapezele și râurile) și găsirea unei caracteristici prin interogarea unui plan digitizat de zbor, în scopul selectării originii fotogramei care intersectează entitățile spațiale selectate (Figura 3). Datorită acestei proceduri, este posibilă afișarea fotogramei selectate și deschiderea ei cu instrumentul descris anterior sau extragerea fișierului fotogramei pentru prelucrarea ulterioară."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:39
+msgid ""
+"Graphic modeler scheme used in the selection tool (in background: purple "
+"polygons-map sheets; labeled orange polygons-photogram footprints; brown "
+"polygons-municipalities administrative borders)"
+msgstr "Schema modelatorului grafic folosit în instrumentul de selecție (în fundal: cu violet trapezele hărții; cu portocaliu locațiile fotogramelor; cu maro granițele administrative ale municipalităților)"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:41
+msgid ""
+"The photogram collection is of great interest both in research (e.g. Godone "
+"et al, 2014) and professional environments (Figure 4). Now thanks to the "
+"described procedures and tools the collection is fully accessible and since "
+"2009 the photograms were employed in several projects both internal and "
+"external to the Institute. QGIS features and plugins allowed developing "
+"tools and procedures to optimize photogram archive both in the "
+"implementation of its management and in its exploitation."
+msgstr "Colectarea fotogramelor este de mare interes, atât în ​​cercetare (Godone et al, 2014) cât și în mediile profesionale (Figura 4). Acum, datorită procedurilor și instrumentelor descrise, colectarea este pe deplin accesibilă iar din 2009 fotogramele au fost folosite în mai multe proiecte ale Institutului, atât interne cât și externe. Funcțiile QGIS precum și plugin-urile sale au permis dezvoltarea unor instrumente și proceduri de optimizare a gestiunii și exploatării arhivei fotogramelor."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:49
+msgid ""
+"Pie chart showing different area of interest employing photograms in year "
+"2013"
+msgstr "Diagramă cu structură radială, afișând o zonă de interes acoperită de fotogramele anului 2013"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:53
+msgid "References"
+msgstr "Referințe"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:55
+msgid ""
+"Godone D., Garbarino M., Sibona E., Garnero G., Godone F. (2014) "
+"“Progressive fragmentation of a traditional Mediterranean landscape by "
+"hazelnut plantations: The impact of CAP over time in the Langhe region (NW "
+"Italy)”, Land use policy, ISSN: 0264-8377"
+msgstr "Godone D., Garbarino M., Sibona E., Garnero G., Godone F. (2014) \"Fragmentarea progresivă a unui peisaj mediteranean tradițional, prin plantarea de aluni: Impactul CAP lungul timpului, în regiunea Langhe (NV Italiei)\", Politica de utilizare a terenurilor, ISSN: 0264-8377"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:56
+msgid ""
+"Horning N., Koy K., Ersts P. (2009) “eVis (v1.1.0) User's Guide. American "
+"Museum of Natural History, Center for Biodiversity and Conservation” "
+"Available from http://biodiversityinformatics.amnh.org/"
+msgstr "Horning N., Koy K., Ersts P. (2009) “eVis (v1.1.0) Ghidul utilizatorului. Muzeul American de Istorie Naturală, Centrul pentru conservarea biodiversității\" Disponibil la http://biodiversityinformatics.amnh.org/"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:59
+msgid "Links"
+msgstr "Legături"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:61
+msgid ""
+"Aerial photo archive website: "
+"http://www.irpi.to.cnr.it/index_en.php?page=aerofototeca_en"
+msgstr "Site-ul web al arhivei foto aeriene: http://www.irpi.to.cnr.it/index_en.php?page=aerofototeca_en"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:64
+msgid "Authors"
+msgstr "Autori"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:71
+msgid "Danilo Godone"
+msgstr "Danilo Godone"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:73
+msgid ""
+"Danilo Godone is a Postdoc grant holder, at Turin University, studying "
+"geomatic contribution in landslide, glacier and, more generally, natural "
+"disasters monitoring. He is a member of NATRISK - Research Centre on Natural"
+" Risks in Mountain and Hilly Environments, in the same University. He acts "
+"as a freelance consultant in the same topics, too."
+msgstr "Danilo Godone este post-doctorand, de la Universitatea din Torino, studiind contribuția geomaticii în alunecările de teren, ale ghețarilor și, în general, în monitorizarea dezastrelor naturale. Activează ca membru al NATRISK - Centrul de Cercetare asupra riscurilor naturale în mediile montane și colinare, în cadrul aceleiași universități. De asemenea, acționează ca și consultant independent, pe aceleași subiecte."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:80
+msgid "Franco Godone"
+msgstr "Franco Godone"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:82
+msgid ""
+"Franco Godone is a specialized technician at Research Institute for Geo-"
+"hydrological Protection of Turin (IRPI-CNR) since 1972. He is involved in "
+"topographical and aerophotogrammetrical surveys and data analysis in the "
+"alpine regions."
+msgstr "Franco Godone lucrează ca tehnician specialist la Institutul de Cercetare pentru Protecția Geo-hidrologică din Torino (IRPI-CNR), încă din anul 1972. El este implicat în studii topografice, aerofotogrammetrie și analiza datelor în regiunile alpine."

@@ -1,0 +1,30 @@
+# 
+# Translators:
+# csorin <scalinica@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-22 11:32+0100\n"
+"PO-Revision-Date: 2014-05-30 17:04+0000\n"
+"Last-Translator: csorin <scalinica@gmail.com>\n"
+"Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: ../../source/site/getinvolved/development/pythonplugindevelopment.rst:5
+msgid "Developing Python plugins"
+msgstr "Dezvoltarea plugin-urilor Python"
+
+#: ../../source/site/getinvolved/development/pythonplugindevelopment.rst:7
+msgid "Easiest way to start is using the Plugin Builder plugin in QGIS."
+msgstr "Cel mai simplu mod de a începe este cu ajutorul plugin-ului Plugin Builder din QGIS."
+
+#: ../../source/site/getinvolved/development/pythonplugindevelopment.rst:9
+msgid ""
+"Search for 'Plugin Builder' in the plugin manager of QGIS, or read up here: "
+"http://plugins.qgis.org/plugins/pluginbuilder/"
+msgstr "Căutați 'Plugin Builder' în managerul de plugin-uri din QGIS, sau aici: http://plugins.qgis.org/plugins/pluginbuilder/"

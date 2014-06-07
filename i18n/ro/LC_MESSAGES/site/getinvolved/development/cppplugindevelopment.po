@@ -1,0 +1,59 @@
+# 
+# Translators:
+# csorin <scalinica@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-22 11:32+0100\n"
+"PO-Revision-Date: 2014-05-31 13:08+0000\n"
+"Last-Translator: csorin <scalinica@gmail.com>\n"
+"Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:7
+msgid "Preparing the Environment and Setting up the Repo"
+msgstr "Pregătirea mediului și configurarea depozitului"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:9
+msgid ""
+"Go to the QGIS repository in Github at https://github.com/qgis/QGIS/ Make a "
+"Fork for yourself. Learn more about forking and keeping your repo in sync "
+"with the main development repo at http://help.github.com/fork-a-repo/ Clone "
+"your personal copy of the repository to your system, and add upstream as "
+"mentioned in above provided link Read the "
+"https://github.com/qgis/QGIS/blob/master/INSTALL about setting up the "
+"installation environment and make a compilation with ccache enabled."
+msgstr "Accesați depozitul QGIS de pe Github, la adresa https://github.com/qgis/QGIS/. Creați-vă o ramificație. Aflați mai multe despre ramificare și despre modalitatea de sincronizare a acestuia cu depozitul principal de dezvoltare la http://help.github.com/fork-a-repo/. Clonați aceste depozit pe sistemul dvs., și adăugați toate elementele suplimentare, după cum se menționează în link-ul furnizat. Accesați https://github.com/qgis/QGIS/blob/master/INSTALL pentru a afla mai multe despre setarea mediului de instalare și pentru a face o compilație cu cache activat."
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:14
+msgid "Setting up the Plugin Directory"
+msgstr "Configurarea directorului plugin-urilor"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:16
+msgid "Inside the QGIS folder::"
+msgstr "În interiorul folder-ului QGIS ::"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:22
+msgid ""
+"Now follow the instructions in the screen wizard to create a folder for your"
+" plugin. After the required input is given, a folder for the plugin is "
+"created. Read the README inside the plugin folder to create a plugin."
+msgstr "Apoi, urmați instrucțiunile de pe ecran pentru a crea un folder pentru plugin-ul dvs. În urma acestora este creat un folder pentru plugin. Citiți, de asemenea, și fișierul README din dosarul plugin-urilor."
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:26
+msgid ""
+"Building QGIS now will also build your plugin. After starting QGIS enable "
+"the plugin to see it and show it's dialog."
+msgstr "Compilarea QGIS va compila, de asemenea, și plugin-ul dvs. După startarea QGIS activați plugin-ul pentru a-i vedea fereastra de dialog."
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:5
+msgid "Developing C++ plugins"
+msgstr "Dezvoltarea plugin-urilor C++"
+
+#~ msgid "Developing CPP plugins"
+#~ msgstr ""
