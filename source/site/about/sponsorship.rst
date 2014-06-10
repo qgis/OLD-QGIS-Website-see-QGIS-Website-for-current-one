@@ -254,9 +254,11 @@ bank account rather than PayPal.
 * Brian Kelly
 * Carl Nelson
 * Carsten Fink
+* Casper Peter Szilas
 * Chartwell Consultants Ltd
 * Cheryle Shepstone
 * Chipotle Coupons
+* Chris Sanderson
 * Chris Talbot
 * Christian Houle
 * Christian Schwartze
