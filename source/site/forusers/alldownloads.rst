@@ -191,6 +191,12 @@ ubuntugis.
 Be sure to remove the http://qgis.org/debian ones first, otherwise you'll end
 up with a mix of dependencies.
 
+Trusty::
+
+ deb     http://qgis.org/ubuntugis-nightly trusty main
+ deb-src http://qgis.org/ubuntugis-nightly trusty main
+ deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu trusty main
+
 Saucy::
 
  deb     http://qgis.org/ubuntugis-nightly saucy main
