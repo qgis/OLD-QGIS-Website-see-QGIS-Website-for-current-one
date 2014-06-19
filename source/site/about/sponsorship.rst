@@ -443,7 +443,7 @@ bank account rather than PayPal.
 * Paolo Corti
 * Paolo Livio Craveri
 * Paul Hignett
-* Patti Giuseppe
+* Paul Pitman
 * Per Sjöstrand
 * Peter Brodersen
 * Peter Löwe
@@ -481,9 +481,10 @@ bank account rather than PayPal.
 * Silvio Grosso
 * Simone Circosta
 * Spencer Gardner
-* Stefan Ziegler
+* Stefan Goen
 * Stefan Price
 * Stefan Sylla
+* Stefan Ziegler
 * Stefano Menegon
 * Steffen Götze
 * Stephan Holl
