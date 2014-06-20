@@ -26,6 +26,9 @@ mv qgisplanet.atom qgisplanet.atom.0
 curl -o qgisplanet.atom "http://planet.qgis.org/planet/feed/atom/"
 
 # change logs
+# for 2.4
+mv visualchangelog24.atom visualchangelog24.atom.0
+curl "http://changelog.linfiniti.com/qgis/version/2.4.0/atom" -o visualchangelog24.atom
 # for 2.2
 mv visualchangelog22.atom visualchangelog22.atom.0
 curl "http://changelog.linfiniti.com/qgis/version/21/atom" -o visualchangelog22.atom
