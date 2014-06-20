@@ -144,7 +144,7 @@ Week Date   Event
 4    24.01  2.1 freeze begins
 8    21.02  2.2 is released
 21   23.05  2.3 freeze begins
-25   20.06  2.4 is released
+26   27.06  2.4 is released
 39   26.09  2.5 freeze begins
 43   24.10  2.6 is released
 ==== ====== =================
