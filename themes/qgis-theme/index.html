@@ -182,7 +182,7 @@
             <div class="span6">
                 <div class="info-box">
                     <a href="http://planet.qgis.org" target="_blank">
-                        <h4>{{ _('Latest Blog Posts') }}</h4>
+                        <h4>{{ _('Latest Blog Posts (planet.qgis.org)') }}</h4>
                     </a>
                 </div>
                 <div id="qgisplanetatom">
@@ -260,7 +260,7 @@
 
         // load atomfeeds
         atom('/feeds/qugsnews.atom', '#qugsatom', 5, true);
-        atom('/feeds/qgisplanet.atom', '#qgisplanetatom', 5, false);
+        atom('/feeds/qgisplanet.atom', '#qgisplanetatom', 5, true);
         atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 5, false);
 
     });
