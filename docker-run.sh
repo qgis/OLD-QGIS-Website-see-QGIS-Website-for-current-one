@@ -4,7 +4,7 @@
 # and removed after build
 # maybe better to create a qgisdocker transifex user?
 
-cp /home/rduivenvoorde/.transifexrc .
+cp ~/.transifexrc .
 pwd=$(pwd)
 docker run -v $pwd:/site -w="/site" qgis/sphinx:1.0 make $@
 rm -rf .transifexrc
