@@ -11,6 +11,7 @@ For Users
 
     visualchangelog20
     visualchangelog22
+    visualchangelog24
     download
     documentation
     support
