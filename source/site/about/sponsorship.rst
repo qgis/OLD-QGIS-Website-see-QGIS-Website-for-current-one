@@ -347,6 +347,7 @@ bank account rather than PayPal.
 * James Goetz
 * James Larsen
 * Jan Militzer
+* Jan-Willem Aalst
 * Janne Jakob Fleischer
 * Jaroslaw Kowalczyk
 * Jason Jorgenson
@@ -474,6 +475,7 @@ bank account rather than PayPal.
 * Russel Taylor
 * Russell Rew
 * S A Odell
+* Sakari Salonen
 * Sake Wagenaar
 * Sebastian Cionoiu
 * Sergey Khokhlov
