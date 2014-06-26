@@ -304,6 +304,7 @@ bank account rather than PayPal.
 * Gabriele Baccini
 * Gabriele Monfardini
 * Gabriela Casares
+* Gasanov Gadzhi
 * Geoff Jones
 * Geoff Oxsen
 * George Smith
@@ -464,6 +465,7 @@ bank account rather than PayPal.
 * Raymond Warriner
 * Ravi
 * Reiko Hayashi
+* Ricard Peret Vendrell
 * Riccardo Giaccari
 * Richard Duivenvoorde
 * Robert Nuske
