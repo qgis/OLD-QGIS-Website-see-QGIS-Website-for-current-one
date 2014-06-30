@@ -227,6 +227,7 @@ bank account rather than PayPal.
 * Alessio Buccioli
 * Alex Thomas
 * Alexandre Leroux
+* Alvin Laurio
 * Amedeo Fadini
 * Anders Skoglund
 * André Barriguinha
@@ -246,6 +247,7 @@ bank account rather than PayPal.
 * Athanasios Karathanasis
 * Attila Toth
 * Barascu Tudor
+* Barry Dyer
 * Bayard Ewing
 * Benoit David
 * Bernd Vogelgesang
@@ -352,8 +354,10 @@ bank account rather than PayPal.
 * Janne Jakob Fleischer
 * Jaroslaw Kowalczyk
 * Jason Jorgenson
+* Jasja Dekker
 * Jean Denis Giguère
 * Jean Francois Mas Caussel
+* Jean Marc Michalowski
 * Jean Roc Morreale
 * Jean Sébastien Dehecq
 * Jesus Aguilera Rubio
@@ -368,6 +372,7 @@ bank account rather than PayPal.
 * John Gooderham
 * John Milligan
 * Jorge Pintocorne
+* Jorge Vera Morales
 * José Alfonso de Tomás Gargantilla
 * Jose Augusto Faes
 * Julien Villery
@@ -414,7 +419,9 @@ bank account rather than PayPal.
 * Matteo Ghetta
 * Maximilian Lohse
 * Michael Hintzke
+* Michael Joseph
 * Michael Schweizer
+* Michał Czepkiewicz
 * Michele Beneventi
 * Miguel Fernández Astudillo
 * Miguel Iturralde
@@ -424,6 +431,7 @@ bank account rather than PayPal.
 * Mohamed Kamal
 * Moshe Dr. Shirav
 * Murray Swanson
+* Neil Ross
 * Nelson Silva
 * Niccolò Marchi
 * Niccolo Rigacci
@@ -501,16 +509,18 @@ bank account rather than PayPal.
 * Tim Baggett
 * Tim Gould
 * Tishampati Dhar
-* Tomas Trojacek
 * Thomas Blake
 * Thomas Dunz
 * Thomas Engleder
 * Thomas Gunzelmann
+* Tomas Trojacek
 * Tony MacLeod
+* Tore Pedersen
 * Tyler Mitchell
 * Ujaval Gandhi
 * Uros Bernik
 * Umberto Zulian
+* Vincenzo Sale
 * Vittorio Dell'Aquila
 * Wendelin Schmit
 * Werner Macho
