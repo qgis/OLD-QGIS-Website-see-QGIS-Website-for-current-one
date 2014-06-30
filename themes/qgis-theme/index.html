@@ -1,3 +1,8 @@
+<section class="clock" style="float:right;">
+<br>
+Time until 2.5 freeze <span data-countdown="2014/09/26 12:00:00 UTC"></span> &nbsp; <br>
+Time until 2.6 release <span data-countdown="2014/10/24 12:00:00 UTC"></span> &nbsp;
+</section>
 <section class="info">
     <div class="container">
         <h1>{{ _('QGIS') }}</h1>
@@ -243,7 +248,7 @@
                 </div>-->
                 <div class="span12">
                     <div class="sponsor">
-                        <img src="{{pathto('_static/images/sponsors2014.png', 1)}}" width="900px" alt="">
+                        <img src="{{ pathto('_static/images/sponsors2014.png', 1) }}" width="900px" alt="">
                     </div>
                 </div>
             </a>
@@ -253,8 +258,6 @@
 </section>
 
 <script type="text/javascript">
-
-
     $(function(){
         // create/start carousel
         $('.carousel').carousel();
@@ -264,5 +267,11 @@
         atom('/feeds/qgisplanet.atom', '#qgisplanetatom', 5, true);
         atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 5, false);
 
+        $('[data-countdown]').each(function() {
+          var $this = $(this), finalDate = $(this).data('countdown');
+          $this.countdown(finalDate, function(event) {
+            $this.html( finalDate + " " + event.strftime('%-Dd %-Hh %-Mm'));
+          });
+        });
     });
 </script>
