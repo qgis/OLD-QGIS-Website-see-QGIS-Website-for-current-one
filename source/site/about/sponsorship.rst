@@ -243,9 +243,11 @@ bank account rather than PayPal.
 * Andrey Kuvshinov
 * Antimo Battistoni
 * Aris Dimopoulos
+* Arni Geirsson
 * Associazione Monte Porzio Cultura
 * Athanasios Karathanasis
 * Attila Toth
+* Aurélia Lachaud
 * Barascu Tudor
 * Barry Dyer
 * Bayard Ewing
@@ -334,6 +336,7 @@ bank account rather than PayPal.
 * Heiko Schmüser
 * Heinrich Schweizer
 * Henry Colomb
+* Henry R Moyer III
 * Hiroshi Kawakami
 * Hiroto Okayama
 * Horst Machguth
@@ -346,6 +349,7 @@ bank account rather than PayPal.
 * Ivan Marchesini
 * Jake Maier
 * Jacopo Ognibene
+* James Betts
 * James Crone
 * James Goetz
 * James Larsen
@@ -391,6 +395,7 @@ bank account rather than PayPal.
 * Laura Burnette
 * Laurent Bréton
 * Laurent Vidal
+* Lorenz Jenni
 * Lorenzo Becchi
 * Luca Casagrande
 * Luca Manganelli
@@ -409,6 +414,7 @@ bank account rather than PayPal.
 * Mark Douglas
 * Mark Hoschek
 * Maria Antonia Brovelli
+* Mario Martínez González
 * Mario Tarantola
 * Marselle Sjoden
 * Martin Kugler
@@ -449,6 +455,7 @@ bank account rather than PayPal.
 * Osvaldo Mascetti
 * Otto Dassau
 * Pablo Torres Carreira
+* Paloma Lopez Lara
 * Paolo Cavallini
 * Paolo Corti
 * Paolo Livio Craveri
@@ -502,6 +509,7 @@ bank account rather than PayPal.
 * Stephan Holl
 * Sti Sas Di Meo
 * Swampthing Environmental Inc.
+* Tanya Haddad
 * Test Gurus
 * Thanasis Karathanasis
 * Thibaut Goelff
@@ -517,6 +525,7 @@ bank account rather than PayPal.
 * Tony MacLeod
 * Tore Pedersen
 * Tyler Mitchell
+* Udo Lenz
 * Ujaval Gandhi
 * Uros Bernik
 * Umberto Zulian
