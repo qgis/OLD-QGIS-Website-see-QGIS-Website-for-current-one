@@ -439,6 +439,7 @@ bank account rather than PayPal.
 * Murray Swanson
 * Neil Ross
 * Nelson Silva
+* Niccolò Iandelli
 * Niccolò Marchi
 * Niccolo Rigacci
 * Nicolai Trefzger
@@ -459,6 +460,7 @@ bank account rather than PayPal.
 * Paolo Cavallini
 * Paolo Corti
 * Paolo Livio Craveri
+* Patryk Wójtowicz
 * Paul Hignett
 * Paul Pitman
 * Per Sjöstrand
