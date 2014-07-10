@@ -14,7 +14,6 @@
 * Alvin Laurio
 * Amedeo Fadini
 * Anders Skoglund
-* André Barriguinha
 * Andrea Lau
 * Andrea Peri
 * Andreas Fuchs
@@ -25,6 +24,7 @@
 * Andrew Mcaninch
 * Andrew Rigby
 * Andrey Kuvshinov
+* André Barriguinha
 * Antimo Battistoni
 * Aris Dimopoulos
 * Arni Geirsson
@@ -53,9 +53,9 @@
 * Christoph Rupprecht
 * Christopher Kahler
 * Christos Mitsis
-* Cristian Spieles
 * Clifford Snow
 * Compagnie du vent
+* Cristian Spieles
 * D R Arbib
 * Dan Karran
 * Daniel Silva Veras
@@ -64,6 +64,7 @@
 * David Addy
 * David Enns
 * David Horsey
+* David Sabalete Valenzuela
 * David Vaarwerk
 * Dheeraj Chand
 * Didier Genier
@@ -86,19 +87,18 @@
 * Florian Hof
 * Fornat AG, Zürich
 * FOSSGIS e.V.
-* Fred Watchorn
 * Fred Ethève
+* Fred Watchorn
 * G R Owen
+* Gabriela Casares
 * Gabriele Baccini
 * Gabriele Monfardini
-* Gabriela Casares
 * Gasanov Gadzhi
 * Geoff Jones
 * Geoff Oxsen
 * George Smith
 * George Tom
 * Gerald Bond
-* Gérald Fringeli
 * Gerhard Spieles
 * Gertjan Geerling
 * GFOSS.it
@@ -114,9 +114,9 @@
 * Guenther Moeller
 * Guillaume Raspini
 * Guzmán López Orrego
+* Gérald Fringeli
 * Hans Rudolf Wettstein
 * Harald Grote
-* Håvard Gåseidnes
 * Heiko Schmüser
 * Heinrich Schweizer
 * Henry Colomb
@@ -126,13 +126,14 @@
 * Horst Machguth
 * Howard Frederick
 * Hugo Rubio
+* Håvard Gåseidnes
 * Ian Allan
 * Ian Wusstig
 * Igor Zabelin
-* Ivan Mincik
 * Ivan Marchesini
-* Jake Maier
+* Ivan Mincik
 * Jacopo Ognibene
+* Jake Maier
 * James Betts
 * James Crone
 * James Goetz
@@ -141,8 +142,8 @@
 * Jan-Willem Aalst
 * Janne Jakob Fleischer
 * Jaroslaw Kowalczyk
-* Jason Jorgenson
 * Jasja Dekker
+* Jason Jorgenson
 * Jean Denis Giguère
 * Jean Francois Mas Caussel
 * Jean Marc Michalowski
@@ -161,8 +162,8 @@
 * John Milligan
 * Jorge Pintocorne
 * Jorge Vera Morales
-* José Alfonso de Tomás Gargantilla
 * Jose Augusto Faes
+* José Alfonso de Tomás Gargantilla
 * Julien Villery
 * Julien-Pierre Guilloux
 * Junji Yamakawa
@@ -172,8 +173,8 @@
 * Kenton Ngo
 * Kevin Hansen
 * Kevin Shook
-* Klaus Weddeling
 * Klaus Sterzenbach
+* Klaus Weddeling
 * Kristian Stadelmayr
 * Kurt Esko
 * Laura Burnette
@@ -187,19 +188,19 @@
 * Luis Fermin Turiel Peredo
 * Lutz Bornschein
 * M de Bresser
-* Maciej Sieczka
 * Maciej Latek
+* Maciej Sieczka
 * Manfred Schön
 * Marc Monnerat
 * Marcel Van Dorst
 * Marcelo Soares Souza
 * Marcus Håkansson
-* Mark Siebel
-* Mark Douglas
-* Mark Hoschek
 * Maria Antonia Brovelli
 * Mario Martínez González
 * Mario Tarantola
+* Mark Douglas
+* Mark Hoschek
+* Mark Siebel
 * Marselle Sjoden
 * Martin Kugler
 * Massimo Cuomo
@@ -223,9 +224,9 @@
 * Murray Swanson
 * Neil Ross
 * Nelson Silva
+* Niccolo Rigacci
 * Niccolò Iandelli
 * Niccolò Marchi
-* Niccolo Rigacci
 * Nicolai Trefzger
 * Nikita Mozgunov
 * Nikolaos Alexandris
@@ -263,8 +264,8 @@
 * Ralph Williams
 * Ramaswamy Nagarajan
 * Ramon Andinach
-* Raymond Warriner
 * Ravi
+* Raymond Warriner
 * Reiko Hayashi
 * Ricard Peret Vendrell
 * Riccardo Giaccari
@@ -300,21 +301,21 @@
 * Thanasis Karathanasis
 * Thibaut Goelff
 * Thierry Gonon
-* Tim Baggett
-* Tim Gould
-* Tishampati Dhar
 * Thomas Blake
 * Thomas Dunz
 * Thomas Engleder
 * Thomas Gunzelmann
+* Tim Baggett
+* Tim Gould
+* Tishampati Dhar
 * Tomas Trojacek
 * Tony MacLeod
 * Tore Pedersen
 * Tyler Mitchell
 * Udo Lenz
 * Ujaval Gandhi
-* Uros Bernik
 * Umberto Zulian
+* Uros Bernik
 * Vincenzo Sale
 * Vittorio Dell'Aquila
 * Wendelin Schmit
