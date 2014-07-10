@@ -3,14 +3,15 @@
 * Adelchi Acampora
 * Adrian Cooke
 * Adrian Matter
+* Agile Geoscience
 * Aileen Heal
 * Albin Blaschka
 * Alessandro Fanna
 * Alessandro Pasotti
 * Alessandro Sarretta
 * Alessio Buccioli
-* Alex Thomas
 * Alexandre Leroux
+* Alex Thomas
 * Alvin Laurio
 * Amedeo Fadini
 * Anders Skoglund
@@ -19,12 +20,13 @@
 * Andreas Fuchs
 * Andreas Neumann
 * Andreas Schmid
+* André Barriguinha
 * Andrew Chapman
 * Andrew Flatman
 * Andrew Mcaninch
 * Andrew Rigby
 * Andrey Kuvshinov
-* André Barriguinha
+* Anthony VAN ZUYLEN
 * Antimo Battistoni
 * Aris Dimopoulos
 * Arni Geirsson
@@ -50,38 +52,44 @@
 * Chris Talbot
 * Christian Houle
 * Christian Schwartze
-* Christoph Rupprecht
 * Christopher Kahler
+* Christoph Rinne
+* Christoph Rupprecht
 * Christos Mitsis
 * Clifford Snow
 * Compagnie du vent
 * Cristian Spieles
-* D R Arbib
-* Dan Karran
 * Daniel Silva Veras
 * Daniel Wiesmann
+* Dan Karran
 * Dariusz Bobak
 * David Addy
 * David Enns
 * David Horsey
 * David Sabalete Valenzuela
 * David Vaarwerk
+* Deyan Vasilev
 * Dheeraj Chand
 * Didier Genier
+* Dieter Wachsmuth
 * Dirk Pflugmacher
 * Dominique Pitt
 * Don Williams
 * Doswald Cornel
 * Douglas Lane
+* D R Arbib
 * Dušan Pavlík
+* D V Sypersma
 * Ecotrust
 * Els Keunen
 * Emanuele Zamprogno
+* enrico antonio chiaradia
 * Eric Thouvenin
 * Erik Haß
 * Erwin Bauer
 * Evan Wolf
 * Fabian Frucht
+* Fabio Giacomazzi
 * Ferdinando Urbano
 * Flavio Rigolon
 * Florian Hof
@@ -89,7 +97,6 @@
 * FOSSGIS e.V.
 * Fred Ethève
 * Fred Watchorn
-* G R Owen
 * Gabriela Casares
 * Gabriele Baccini
 * Gabriele Monfardini
@@ -99,6 +106,7 @@
 * George Smith
 * George Tom
 * Gerald Bond
+* Gérald Fringeli
 * Gerhard Spieles
 * Gertjan Geerling
 * GFOSS.it
@@ -111,12 +119,13 @@
 * GreeniX Computer
 * Gregorio Díaz-Marta Mateos
 * Gregory J Crowder
+* G R Owen
 * Guenther Moeller
 * Guillaume Raspini
 * Guzmán López Orrego
-* Gérald Fringeli
 * Hans Rudolf Wettstein
 * Harald Grote
+* Håvard Gåseidnes
 * Heiko Schmüser
 * Heinrich Schweizer
 * Henry Colomb
@@ -126,7 +135,6 @@
 * Horst Machguth
 * Howard Frederick
 * Hugo Rubio
-* Håvard Gåseidnes
 * Ian Allan
 * Ian Wusstig
 * Igor Zabelin
@@ -139,8 +147,8 @@
 * James Goetz
 * James Larsen
 * Jan Militzer
-* Jan-Willem Aalst
 * Janne Jakob Fleischer
+* Jan-Willem Aalst
 * Jaroslaw Kowalczyk
 * Jasja Dekker
 * Jason Jorgenson
@@ -156,27 +164,32 @@
 * Jiří Bělohlávek
 * Joachim Aurbacher
 * Johannes Lauber
+* John Bartram
 * John C. Tull
 * John Dean
 * John Gooderham
 * John Milligan
 * Jorge Pintocorne
 * Jorge Vera Morales
-* Jose Augusto Faes
 * José Alfonso de Tomás Gargantilla
-* Julien Villery
+* Jose Augusto Faes
 * Julien-Pierre Guilloux
+* Julien Villery
 * Junji Yamakawa
 * Justin Schuetz
-* K Brock Riedell
+* Kamil Svoboda
 * Kanton Solothurn SOGIS
+* Kazantsev Nikolay
+* K Brock Riedell
 * Kenton Ngo
 * Kevin Hansen
 * Kevin Shook
+* Khokhlov Sergey
 * Klaus Sterzenbach
 * Klaus Weddeling
 * Kristian Stadelmayr
 * Kurt Esko
+* Lasse Wikars
 * Laura Burnette
 * Laurent Bréton
 * Laurent Vidal
@@ -187,13 +200,13 @@
 * Luca Mestroni
 * Luis Fermin Turiel Peredo
 * Lutz Bornschein
-* M de Bresser
 * Maciej Latek
 * Maciej Sieczka
+* MAIN Trust NZ
 * Manfred Schön
-* Marc Monnerat
-* Marcel Van Dorst
 * Marcelo Soares Souza
+* Marcel Van Dorst
+* Marc Monnerat
 * Marcus Håkansson
 * Maria Antonia Brovelli
 * Mario Martínez González
@@ -203,12 +216,14 @@
 * Mark Siebel
 * Marselle Sjoden
 * Martin Kugler
+* Martin Langer
 * Massimo Cuomo
 * Mateusz Loskot
+* Matteo Ghetta
 * Matt Foy
 * Matt Wilkie
-* Matteo Ghetta
 * Maximilian Lohse
+* M de Bresser
 * Michael Hintzke
 * Michael Joseph
 * Michael Schweizer
@@ -224,9 +239,9 @@
 * Murray Swanson
 * Neil Ross
 * Nelson Silva
-* Niccolo Rigacci
 * Niccolò Iandelli
 * Niccolò Marchi
+* Niccolo Rigacci
 * Nicolai Trefzger
 * Nikita Mozgunov
 * Nikolaos Alexandris
@@ -270,28 +285,34 @@
 * Ricard Peret Vendrell
 * Riccardo Giaccari
 * Richard Duivenvoorde
-* Robert Nuske
-* Robert Thurston
+* Rita Carone
 * Roberta Benetti
+* Robert Nuske
 * Roberto Berchi
 * Roberto Facoetti
+* Robert Thurston
+* Rob Scott
+* Ronaldo Auletta Jr
+* Rosário Dilo
 * Rui Pedro Henriques
-* Russel Taylor
 * Russell Rew
-* S A Odell
+* Russel Taylor
 * Sakari Salonen
 * Sake Wagenaar
+* S A Odell
+* Sebastian Badowski
 * Sebastian Cionoiu
+* Sébastien GOMBAULT
 * Sergey Khokhlov
 * Shapesmart
 * Silvio Grosso
 * Simone Circosta
 * Spencer Gardner
 * Stefan Goen
+* Stefano Menegon
 * Stefan Price
 * Stefan Sylla
 * Stefan Ziegler
-* Stefano Menegon
 * Steffen Götze
 * Stephan Holl
 * Sti Sas Di Meo
@@ -303,6 +324,7 @@
 * Thierry Gonon
 * Thomas Blake
 * Thomas Dunz
+* thomas engleder
 * Thomas Engleder
 * Thomas Gunzelmann
 * Tim Baggett
@@ -314,6 +336,7 @@
 * Tyler Mitchell
 * Udo Lenz
 * Ujaval Gandhi
+* Ulrich von Wulffen
 * Umberto Zulian
 * Uros Bernik
 * Vincenzo Sale
