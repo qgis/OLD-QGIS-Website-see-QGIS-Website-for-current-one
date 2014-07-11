@@ -213,6 +213,7 @@
 * Marcel Van Dorst
 * Marcelo Soares Souza
 * Marcus Håkansson
+* Marek Slowinski
 * Maria Antonia Brovelli
 * Mario Martínez González
 * Mario Tarantola
