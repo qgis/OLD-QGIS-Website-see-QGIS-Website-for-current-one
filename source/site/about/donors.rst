@@ -262,6 +262,7 @@
 * Paolo Cavallini
 * Paolo Corti
 * Paolo Livio Craveri
+* Paolo Piatti
 * Patryk Wójtowicz
 * Paul Hignett
 * Paul Pitman
@@ -317,6 +318,7 @@
 * Stefano Menegon
 * Steffen Götze
 * Stephan Holl
+* steven feldman
 * Sti Sas Di Meo
 * Swampthing Environmental Inc.
 * Sébastien GOMBAULT
