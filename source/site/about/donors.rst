@@ -317,6 +317,7 @@
 * Stefano Menegon
 * Steffen Götze
 * Stephan Holl
+* steven feldman
 * Sti Sas Di Meo
 * Swampthing Environmental Inc.
 * Sébastien GOMBAULT
