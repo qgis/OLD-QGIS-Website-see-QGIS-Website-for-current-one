@@ -261,6 +261,7 @@
 * Paolo Cavallini
 * Paolo Corti
 * Paolo Livio Craveri
+* Paolo Piatti
 * Patryk Wójtowicz
 * Paul Hignett
 * Paul Pitman
