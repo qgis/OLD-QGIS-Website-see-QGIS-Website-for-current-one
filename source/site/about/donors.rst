@@ -169,6 +169,7 @@
 * John Dean
 * John Gooderham
 * John Milligan
+* Jonathan Gross
 * Jorge Pintocorne
 * Jorge Vera Morales
 * Jose Augusto Faes
