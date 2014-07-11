@@ -174,6 +174,7 @@
 * Jorge Pintocorne
 * Jorge Vera Morales
 * Jose Augusto Faes
+* Josef Rattinger
 * José Alfonso de Tomás Gargantilla
 * Julien Villery
 * Julien-Pierre Guilloux
