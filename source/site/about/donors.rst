@@ -133,6 +133,7 @@
 * Hiroto Okayama
 * Horst Machguth
 * Howard Frederick
+* Hugh Gladwin
 * Hugo Rubio
 * Håvard Gåseidnes
 * Ian Allan
