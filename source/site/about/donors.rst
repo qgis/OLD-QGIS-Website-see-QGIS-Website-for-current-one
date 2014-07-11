@@ -57,7 +57,7 @@
 * Christopher Kahler
 * Christos Mitsis
 * Clifford Snow
-* Compagnie du vent
+* Compagnie Du Vent
 * Cristian Spieles
 * D R Arbib
 * D V Sypersma
@@ -83,7 +83,7 @@
 * Ecotrust
 * Els Keunen
 * Emanuele Zamprogno
-* enrico antonio chiaradia
+* Enrico Antonio Chiaradia
 * Eric Thouvenin
 * Erik Haß
 * Erwin Bauer
@@ -176,7 +176,7 @@
 * Jorge Vera Morales
 * Jose Augusto Faes
 * Josef Rattinger
-* José Alfonso de Tomás Gargantilla
+* José Alfonso De Tomás Gargantilla
 * Julien Villery
 * Julien-Pierre Guilloux
 * Junji Yamakawa
@@ -204,7 +204,7 @@
 * Luca Mestroni
 * Luis Fermin Turiel Peredo
 * Lutz Bornschein
-* M de Bresser
+* M De Bresser
 * Maciej Latek
 * Maciej Sieczka
 * MAIN Trust NZ
@@ -276,7 +276,7 @@
 * Peter Thuvander
 * Peter Wells
 * Phebe Meyers
-* Planetek Italia s.r.l
+* Planetek Italia S.r.l
 * Productive Water Services
 * Radoslaw Pasiok
 * Ragnvald Larsen
@@ -320,7 +320,7 @@
 * Stefano Menegon
 * Steffen Götze
 * Stephan Holl
-* steven feldman
+* Steven Feldman
 * Sti Sas Di Meo
 * Swampthing Environmental Inc.
 * Sébastien GOMBAULT
@@ -331,7 +331,6 @@
 * Thierry Gonon
 * Thomas Blake
 * Thomas Dunz
-* thomas engleder
 * Thomas Engleder
 * Thomas Gunzelmann
 * Tim Baggett
@@ -343,7 +342,7 @@
 * Tyler Mitchell
 * Udo Lenz
 * Ujaval Gandhi
-* Ulrich von Wulffen
+* Ulrich Von Wulffen
 * Umberto Zulian
 * Uros Bernik
 * Vincenzo Sale
