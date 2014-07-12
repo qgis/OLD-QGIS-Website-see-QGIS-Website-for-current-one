@@ -199,6 +199,7 @@
 * Laurent Vidal
 * Lorenz Jenni
 * Lorenzo Becchi
+* Loris Duclos
 * Luca Casagrande
 * Luca Manganelli
 * Luca Mestroni
