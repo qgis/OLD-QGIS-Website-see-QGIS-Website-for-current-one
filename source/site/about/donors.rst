@@ -43,6 +43,7 @@
 * Boštjan Krapež
 * Brian Kelly
 * Carl Nelson
+* Carlos Tavares
 * Carsten Fink
 * Casper Peter Szilas
 * Chartwell Consultants Ltd
