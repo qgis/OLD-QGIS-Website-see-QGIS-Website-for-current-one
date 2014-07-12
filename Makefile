@@ -161,7 +161,10 @@ gettext:
 	rm -rf i18n/pot
 	# be sure to remove possible available docs sources:
 	rm -rf $(SOURCEDIR)/docs/*/
+	# remove donors.inc (no translation necessery)
+	rm source/site/about/donors.inc
 	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS)
+	git checkout source/site/about/donors.inc
 	@echo
 	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale."
 

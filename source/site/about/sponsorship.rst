@@ -214,4 +214,4 @@ difference and help to reach important project goals!
 If you wish to send us a larger donation, you are strongly encouraged to use the
 bank account rather than PayPal.
 
-.. include:: donors.rst
+.. include:: donors.inc
