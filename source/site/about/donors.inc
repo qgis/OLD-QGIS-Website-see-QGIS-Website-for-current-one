@@ -236,6 +236,7 @@
 * Maximilian Lohse
 * Michael Hintzke
 * Michael Joseph
+* Michael Major
 * Michael Schweizer
 * Michał Czepkiewicz
 * Michele Beneventi
