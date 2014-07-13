@@ -188,6 +188,7 @@
 * Kazantsev Nikolay
 * Kenton Ngo
 * Kevin Hansen
+* Kevin Shackleton
 * Kevin Shook
 * Khokhlov Sergey
 * Klaus Sterzenbach
