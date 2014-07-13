@@ -312,6 +312,7 @@
 * Russel Taylor
 * Russell Rew
 * S A Odell
+* S M Johnson
 * Sakari Salonen
 * Sake Wagenaar
 * Sascha Langenstein
