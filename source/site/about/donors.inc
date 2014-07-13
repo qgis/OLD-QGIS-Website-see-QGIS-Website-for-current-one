@@ -190,7 +190,6 @@
 * Kevin Hansen
 * Kevin Shackleton
 * Kevin Shook
-* Khokhlov Sergey
 * Klaus Sterzenbach
 * Klaus Weddeling
 * Kristian Stadelmayr
@@ -331,7 +330,7 @@
 * Steven Feldman
 * Sti Sas Di Meo
 * Swampthing Environmental Inc.
-* Sébastien GOMBAULT
+* Sébastien Gombault
 * Tanya Haddad
 * Test Gurus
 * Thanasis Karathanasis
