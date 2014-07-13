@@ -67,6 +67,7 @@
 * Daniel Wiesmann
 * Dariusz Bobak
 * David Addy
+* David Duncan
 * David Enns
 * David Horsey
 * David Sabalete Valenzuela
