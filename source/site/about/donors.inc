@@ -331,6 +331,7 @@
 * Steffen Götze
 * Stephan Holl
 * Stephen Titchenal
+* Steve Weeks
 * Steven Feldman
 * Sti Sas Di Meo
 * Swampthing Environmental Inc.
