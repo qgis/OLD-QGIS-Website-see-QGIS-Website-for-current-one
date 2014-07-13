@@ -214,6 +214,7 @@
 * Marc Monnerat
 * Marcel Van Dorst
 * Marcelo Soares Souza
+* Marcin Wasilewski
 * Marcus Håkansson
 * Marek Slowinski
 * Maria Antonia Brovelli
