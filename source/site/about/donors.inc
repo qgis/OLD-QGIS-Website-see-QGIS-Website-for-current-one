@@ -346,6 +346,7 @@
 * Thomas Dunz
 * Thomas Engleder
 * Thomas Gunzelmann
+* Thomas Richter
 * Tim Baggett
 * Tim Gould
 * Tishampati Dhar
