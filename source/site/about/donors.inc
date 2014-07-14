@@ -323,6 +323,7 @@
 * Shapesmart
 * Silvio Grosso
 * Simone Circosta
+* Soma Horvath
 * Spencer Gardner
 * Stefan Goen
 * Stefan Price
