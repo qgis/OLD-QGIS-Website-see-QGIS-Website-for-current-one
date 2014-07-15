@@ -5,6 +5,7 @@
 * Adrian Matter
 * Agile Geoscience
 * Aileen Heal
+* AivlaSoft GmbH
 * Albin Blaschka
 * Alessandro Fanna
 * Alessandro Pasotti
