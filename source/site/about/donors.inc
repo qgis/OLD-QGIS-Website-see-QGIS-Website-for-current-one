@@ -368,8 +368,7 @@
 * Werner Macho
 * William Levering
 * William Pallies
-* Wolfgang DennhÃ¶fer
-* Yasmina Bashti
+* Wolfgang Dennhöfer
 * Yuan Harng Lee
 * Yves Jacolin
 * Zachary Patterson
