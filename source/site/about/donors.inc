@@ -124,7 +124,7 @@
 * Gregory J Crowder
 * Guenther Moeller
 * Guillaume Raspini
-* Guillermo C�rdoba Recio
+* Guillermo Córdoba Recio
 * Guzmán López Orrego
 * Gérald Fringeli
 * Hans Rudolf Wettstein
@@ -368,7 +368,7 @@
 * Werner Macho
 * William Levering
 * William Pallies
-* Wolfgang Dennh�fer
+* Wolfgang Dennhöfer
 * Yuan Harng Lee
 * Yves Jacolin
 * Zachary Patterson
