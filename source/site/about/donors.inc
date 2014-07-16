@@ -368,6 +368,7 @@
 * William Levering
 * William Pallies
 * Wolfgang Dennhöfer
+* Yasmina Bashti
 * Yuan Harng Lee
 * Yves Jacolin
 * Zachary Patterson
