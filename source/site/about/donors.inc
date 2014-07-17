@@ -137,6 +137,7 @@
 * Hiroto Okayama
 * Horst Machguth
 * Howard Frederick
+* Hrishikesh Ballal
 * Hugh Gladwin
 * Hugo Rubio
 * Håvard Gåseidnes
