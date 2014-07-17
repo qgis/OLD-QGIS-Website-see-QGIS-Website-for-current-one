@@ -34,6 +34,7 @@
 * Associazione Monte Porzio Cultura
 * Athanasios Karathanasis
 * Attila Toth
+* Augusto Sisa
 * Aurélia Lachaud
 * Barascu Tudor
 * Barry Dyer
