@@ -171,6 +171,7 @@
 * Jim Mann
 * Jiří Bělohlávek
 * Joachim Aurbacher
+* Joanne Kaye
 * Johannes Lauber
 * John Bartram
 * John C. Tull
