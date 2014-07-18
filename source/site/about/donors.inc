@@ -116,6 +116,7 @@
 * GFOSS.it
 * Gianluca Massei
 * Giovanni Fossà
+* Giovanni Pecora
 * Giuseppe Patti
 * Glasic S.r.l.
 * Grant Fisher
