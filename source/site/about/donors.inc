@@ -271,6 +271,7 @@
 * Oliver Schonrock
 * Oriental Rugs Online
 * Oronzo Antonio Longo
+* Oscar González Martínez
 * Osvaldo Mascetti
 * Otto Dassau
 * Pablo Torres Carreira
