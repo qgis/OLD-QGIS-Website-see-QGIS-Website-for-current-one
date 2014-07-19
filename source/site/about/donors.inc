@@ -207,6 +207,7 @@
 * Laura Burnette
 * Laurent Bréton
 * Laurent Vidal
+* Leo Millonig
 * Lorenz Jenni
 * Lorenzo Becchi
 * Loris Duclos
