@@ -168,15 +168,10 @@ Saucy::
  deb     http://qgis.org/debian-nightly saucy main
  deb-src http://qgis.org/debian-nightly saucy main
 
-Raring::
+Utopic::
 
- deb     http://qgis.org/debian-nightly raring main
- deb-src http://qgis.org/debian-nightly raring main
-
-Quantal::
-
- deb     http://qgis.org/debian-nightly quantal main
- deb-src http://qgis.org/debian-nightly quantal main
+ deb     http://qgis.org/debian-nightly utopic main
+ deb-src http://qgis.org/debian-nightly utopic main
 
 Precise::
 
@@ -202,18 +197,6 @@ Saucy::
  deb     http://qgis.org/ubuntugis-nightly saucy main
  deb-src http://qgis.org/ubuntugis-nightly saucy main
  deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu saucy main
-
-Raring::
-
- deb     http://qgis.org/ubuntugis-nightly raring main
- deb-src http://qgis.org/ubuntugis-nightly raring main
- deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu raring main
-
-Quantal::
-
- deb     http://qgis.org/ubuntugis-nightly quantal main
- deb-src http://qgis.org/ubuntugis-nightly quantal main
- deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu quantal main
 
 Precise::
 
