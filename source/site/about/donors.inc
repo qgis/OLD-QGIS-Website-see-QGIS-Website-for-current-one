@@ -190,6 +190,7 @@
 * Julien Villery
 * Julien-Pierre Guilloux
 * Junji Yamakawa
+* Jussi Rasinmaki
 * Justin Schuetz
 * K Brock Riedell
 * Kamil Svoboda
