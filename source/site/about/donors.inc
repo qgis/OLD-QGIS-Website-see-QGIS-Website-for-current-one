@@ -84,6 +84,7 @@
 * Doswald Cornel
 * Douglas Lane
 * Dušan Pavlík
+* Dwayne Chesnut
 * Ecotrust
 * Els Keunen
 * Emanuele Zamprogno
