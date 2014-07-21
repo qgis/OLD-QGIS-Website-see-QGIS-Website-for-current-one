@@ -156,6 +156,7 @@
 * James Crone
 * James Goetz
 * James Larsen
+* James Morrison
 * Jan Militzer
 * Jan-Willem Aalst
 * Janne Jakob Fleischer
