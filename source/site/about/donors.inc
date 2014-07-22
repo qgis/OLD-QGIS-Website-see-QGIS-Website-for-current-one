@@ -122,6 +122,7 @@
 * Glasic S.r.l.
 * Grant Fisher
 * Grant Ogilvie
+* GreenInfo Network
 * GreeniX Computer
 * Gregorio Díaz-Marta Mateos
 * Gregory J Crowder
