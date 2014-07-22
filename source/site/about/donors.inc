@@ -175,6 +175,7 @@
 * Jiří Bělohlávek
 * Joachim Aurbacher
 * Joanne Kaye
+* Johannes De Groeve
 * Johannes Lauber
 * John Bartram
 * John C. Tull
