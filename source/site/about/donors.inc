@@ -125,6 +125,7 @@
 * GreeniX Computer
 * Gregorio Díaz-Marta Mateos
 * Gregory J Crowder
+* Grigorijs Goldbergs
 * Guenther Moeller
 * Guillaume Raspini
 * Guillermo Córdoba Recio
