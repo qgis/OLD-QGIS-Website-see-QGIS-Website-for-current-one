@@ -35,6 +35,7 @@
 * Athanasios Karathanasis
 * Attila Toth
 * Augusto Sisa
+* AURELIEN BERINGS
 * Aurélia Lachaud
 * Barascu Tudor
 * Barry Dyer
