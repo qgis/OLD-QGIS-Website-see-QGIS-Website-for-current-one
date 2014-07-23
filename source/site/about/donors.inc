@@ -27,7 +27,7 @@
 * Andrew Rigby
 * Andrey Kuvshinov
 * André Barriguinha
-* Anthony VAN ZUYLEN
+* Anthony Van Zuylen
 * Antimo Battistoni
 * Aris Dimopoulos
 * Arni Geirsson
@@ -35,7 +35,7 @@
 * Athanasios Karathanasis
 * Attila Toth
 * Augusto Sisa
-* AURELIEN BERINGS
+* Aurelien Berings
 * Aurélia Lachaud
 * Barascu Tudor
 * Barry Dyer
@@ -342,7 +342,7 @@
 * Shapesmart
 * Silvio Grosso
 * Simone Circosta
-* SOBOLEV KIRILL
+* Kirill Sobolev
 * Soma Horvath
 * Spencer Gardner
 * Stefan Goen
