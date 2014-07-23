@@ -117,6 +117,7 @@
 * Gertjan Geerling
 * GFOSS.it
 * Gianluca Massei
+* Gildas Lilbert
 * Giovanni Fossà
 * Giovanni Pecora
 * Giuseppe Patti
@@ -206,6 +207,7 @@
 * Kevin Hansen
 * Kevin Shackleton
 * Kevin Shook
+* Kirill Sobolev
 * Klaus Sterzenbach
 * Klaus Weddeling
 * Kristian Stadelmayr
@@ -342,7 +344,6 @@
 * Shapesmart
 * Silvio Grosso
 * Simone Circosta
-* Kirill Sobolev
 * Soma Horvath
 * Spencer Gardner
 * Stefan Goen
