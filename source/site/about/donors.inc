@@ -15,6 +15,7 @@
 * Alexandre Leroux
 * Alvin Laurio
 * Amedeo Fadini
+* Amira El-shal
 * Anders Skoglund
 * Andrea Lau
 * Andrea Peri
@@ -27,7 +28,7 @@
 * Andrew Rigby
 * Andrey Kuvshinov
 * André Barriguinha
-* Anthony VAN ZUYLEN
+* Anthony Van Zuylen
 * Antimo Battistoni
 * Aris Dimopoulos
 * Arni Geirsson
@@ -35,6 +36,7 @@
 * Athanasios Karathanasis
 * Attila Toth
 * Augusto Sisa
+* Aurelien Berings
 * Aurélia Lachaud
 * Barascu Tudor
 * Barry Dyer
@@ -116,12 +118,14 @@
 * Gertjan Geerling
 * GFOSS.it
 * Gianluca Massei
+* Gildas Lilbert
 * Giovanni Fossà
 * Giovanni Pecora
 * Giuseppe Patti
 * Glasic S.r.l.
 * Grant Fisher
 * Grant Ogilvie
+* GreenInfo Network
 * GreeniX Computer
 * Gregorio Díaz-Marta Mateos
 * Gregory J Crowder
@@ -193,6 +197,7 @@
 * José Alfonso De Tomás Gargantilla
 * Julien Villery
 * Julien-Pierre Guilloux
+* Julien-pierre Guilloux
 * Junji Yamakawa
 * Jussi Rasinmaki
 * Justin Schuetz
@@ -204,6 +209,7 @@
 * Kevin Hansen
 * Kevin Shackleton
 * Kevin Shook
+* Kirill Sobolev
 * Klaus Sterzenbach
 * Klaus Weddeling
 * Kristian Stadelmayr
@@ -332,6 +338,7 @@
 * S M Johnson
 * Sakari Salonen
 * Sake Wagenaar
+* Sander Huizing
 * Sascha Langenstein
 * Sebastian Badowski
 * Sebastian Cionoiu
