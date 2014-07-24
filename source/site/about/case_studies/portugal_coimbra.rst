@@ -46,6 +46,15 @@ Conclusion
 
 It was possible to determine the landscape metrics using the LecoS plugin noting that the study area presents problems of fragmentation due to the high degree of human disturbance. Qgis proved to be quite intuitive and very practical in the calculation of landscape metrics in the absence of any constraint. It is indeed a robust and viable compared to proprietary software solution. In the future we intend to apply this method to areas that have problems with invasive species to study their behavior in the landscape. 
 
+References
+==========
+
+* Fidalgo, B., R. Salas, et al. (2009). "Estimation of plant diversity in a forested mosaic landscape: the role of landscape, habitat and patch features." Revista Latinoamericana de Recursos Naturales 5 (2): 65-73.
+* Viana, Hélder; Aranha, José (2008) - Estudo da alteração da cobertura do solo no Parque Nacional da Peneda Gerês (1995 e 2007). Análise temporal dos padrões espaciais e avaliação quantitativa da estrutura da paisagem. X Encontro de Utilizadores de Sistemas de Informação Geográfica, 14 a 16 de Maio de 2008 – Oeiras.
+* Martin Jung (2012) LecoS - A QGIS plugin to conduct landscape ecology statistics, http://plugins.qgis.org/plugins/LecoS.
+* Olsen, L., V. Dale, et al. (2007). "Landscape patterns as indicators of ecological change at Fort Benning, Georgia, USA." Landscape and urban planning 79: 137-149.
+* Turner, M. G., R. Gardner, et al. (2001). Landscape ecology in theory and practice: pattern and process. New York.
+
 Authors
 =======
 
