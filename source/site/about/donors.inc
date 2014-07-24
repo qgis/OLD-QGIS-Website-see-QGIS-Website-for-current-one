@@ -15,6 +15,7 @@
 * Alexandre Leroux
 * Alvin Laurio
 * Amedeo Fadini
+* Amira El-shal
 * Anders Skoglund
 * Andrea Lau
 * Andrea Peri
