@@ -29,6 +29,7 @@ List of Case Studies
 .. toctree::
     :maxdepth: 1
     
+    [2014/07] Using open source tools for characterization of a landscape. The LecosS plugin by André Duarte <portugal_coimbra>
     [2014/05] Use of python console to prepare offline map from WMS (tile downloader) by Prashant Kadgi <india_pune>
     [2014/01] The Research Institute for Geo-hydrological Protection of Turin - Aerial photo archive management by Danilo and Franco Godone <italy_turin>
 
