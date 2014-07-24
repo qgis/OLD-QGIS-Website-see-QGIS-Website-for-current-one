@@ -197,6 +197,7 @@
 * José Alfonso De Tomás Gargantilla
 * Julien Villery
 * Julien-Pierre Guilloux
+* Julien-pierre Guilloux
 * Junji Yamakawa
 * Jussi Rasinmaki
 * Justin Schuetz
