@@ -51,6 +51,7 @@
 * Carsten Fink
 * Casper Peter Szilas
 * Chartwell Consultants Ltd
+* Chase Sherret
 * Cheryle Shepstone
 * Chipotle Coupons
 * Chris Sanderson
@@ -84,6 +85,7 @@
 * Dominique Pitt
 * Don Williams
 * Doswald Cornel
+* Douglas Hamilton
 * Douglas Lane
 * Dušan Pavlík
 * Dwayne Chesnut
@@ -370,6 +372,7 @@
 * Thomas Blake
 * Thomas Dunz
 * Thomas Engleder
+* Thomas Frohberg
 * Thomas Gunzelmann
 * Thomas Richter
 * Tim Baggett
