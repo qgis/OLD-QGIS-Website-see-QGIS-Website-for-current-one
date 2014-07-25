@@ -372,6 +372,7 @@
 * Thomas Blake
 * Thomas Dunz
 * Thomas Engleder
+* Thomas Frohberg
 * Thomas Gunzelmann
 * Thomas Richter
 * Tim Baggett
