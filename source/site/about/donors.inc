@@ -51,6 +51,7 @@
 * Carsten Fink
 * Casper Peter Szilas
 * Chartwell Consultants Ltd
+* Chase Sherret
 * Cheryle Shepstone
 * Chipotle Coupons
 * Chris Sanderson
