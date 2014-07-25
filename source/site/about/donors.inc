@@ -85,6 +85,7 @@
 * Dominique Pitt
 * Don Williams
 * Doswald Cornel
+* Douglas Hamilton
 * Douglas Lane
 * Dušan Pavlík
 * Dwayne Chesnut
