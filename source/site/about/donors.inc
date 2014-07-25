@@ -75,6 +75,7 @@
 * David Duncan
 * David Enns
 * David Horsey
+* David Mangold
 * David Sabalete Valenzuela
 * David Vaarwerk
 * Deyan Vasilev
