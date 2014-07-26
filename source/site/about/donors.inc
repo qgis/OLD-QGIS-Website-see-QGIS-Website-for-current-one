@@ -198,6 +198,7 @@
 * Jose Augusto Faes
 * Josef Rattinger
 * José Alfonso De Tomás Gargantilla
+* Juan Vega Figueroa
 * Julien Villery
 * Julien-Pierre Guilloux
 * Julien-pierre Guilloux
