@@ -172,6 +172,7 @@
 * Jaroslaw Kowalczyk
 * Jasja Dekker
 * Jason Jorgenson
+* Jason Millard
 * Jean Denis Giguère
 * Jean Francois Mas Caussel
 * Jean Marc Michalowski
