@@ -361,6 +361,7 @@
 * Steffen Götze
 * Stephan Holl
 * Stephen Titchenal
+* Steve Ostaseski
 * Steve Weeks
 * Steven Feldman
 * Sti Sas Di Meo
