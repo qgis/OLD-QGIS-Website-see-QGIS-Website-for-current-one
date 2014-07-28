@@ -360,6 +360,7 @@
 * Stefano Menegon
 * Steffen Götze
 * Stephan Holl
+* Stephen Scott
 * Stephen Titchenal
 * Steve Ostaseski
 * Steve Weeks
