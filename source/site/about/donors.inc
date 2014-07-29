@@ -105,6 +105,7 @@
 * Florian Hof
 * Fornat AG, Zürich
 * FOSSGIS e.V.
+* François De Palma
 * Fred Ethève
 * Fred Watchorn
 * G R Owen
