@@ -227,6 +227,7 @@
 * Laurent Bréton
 * Laurent Vidal
 * Leo Millonig
+* Leslie Gordon
 * Lorenz Jenni
 * Lorenzo Becchi
 * Loris Duclos
