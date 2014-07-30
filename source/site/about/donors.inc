@@ -58,6 +58,7 @@
 * Chris Talbot
 * Christian Houle
 * Christian Schwartze
+* Christina Makarona
 * Christoph Rinne
 * Christoph Rupprecht
 * Christopher Kahler
