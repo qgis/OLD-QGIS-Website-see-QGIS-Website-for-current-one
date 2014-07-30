@@ -103,6 +103,7 @@
 * Fabian Frucht
 * Fabio Giacomazzi
 * Ferdinando Urbano
+* Fethi M'rad
 * Flavio Rigolon
 * Florian Hof
 * Fornat AG, Zürich
