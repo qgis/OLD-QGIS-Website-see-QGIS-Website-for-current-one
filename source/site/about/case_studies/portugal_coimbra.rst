@@ -6,7 +6,7 @@ This case study results from the final draft of the Graduate Geographic Informat
 
 .. figure:: ./images/portugal_coimbra1.png
    :alt: Geographic location of the municipally of Coimbra.
-   :scale: 90%
+   :scale: 50%
    :align: left
       
    Geographic location of the municipally of Coimbra.
@@ -34,7 +34,7 @@ From analysis of the landscape metrics calculated it was found that there was an
 
 .. figure:: ./images/portugal_coimbra3.png
    :alt: Landscape metrics calculated for diferent years (1990 and 2006).
-   :scale: 90%
+   :scale: 60%
    :align: left
       
    Landscape metrics calculated for diferent years (1990 and 2006).
@@ -60,7 +60,7 @@ Authors
 
 .. figure:: ./images/portugal_coimbra4.png
    :alt: André Duarte 
-   :scale: 30%
+   :scale: 10%
    :align: left
       
    André Duarte 
