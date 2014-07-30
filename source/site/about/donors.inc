@@ -26,6 +26,7 @@
 * Andrew Flatman
 * Andrew Mcaninch
 * Andrew Rigby
+* Andrew Smith
 * Andrey Kuvshinov
 * André Barriguinha
 * Anthony Van Zuylen
