@@ -47,6 +47,7 @@
 * Birgit Konn
 * Boštjan Krapež
 * Brian Kelly
+* Bryan Kennedy
 * Carl Nelson
 * Carlos Tavares
 * Carsten Fink
