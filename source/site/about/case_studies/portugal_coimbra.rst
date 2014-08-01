@@ -18,12 +18,12 @@ Methods
 
 Landscape metrics was calculated using the Corine Land Cover (CLC) of the years 1990 and 2006. For this purpose it was necessary to transform the coverages in raster format with cell size  50x50 meters. We use r.to.raster tool the Grass Gis module that were present in processing toolbox and the CLC classification level used it´s the first.  After transform coverages we calculate the metrics  in Landscape Ecology plugin (LecoS) using the graphical modeler (Figure 2).
 
-.. figure:: ./images/portugal_coimbra2.png
-   :alt: Model to calculate landscape metrics in 1990.
-   :scale: 90%
+.. figure:: ./images/portugal_coimbra3.png
+   :alt: Landscape metrics calculated for diferent years (1990 and 2006).
+   :scale: 60%
    :align: left
       
-   Model to calculate landscape metrics in 1990.
+   Landscape metrics calculated for diferent years (1990 and 2006).
 
 We calculate land cover area, Landscape Proportion, edge density, Number of patches, Greatest patch area, Smallest patch area , Mean patch distance and the Effective mesh size (Table 1). Measures of diversity of the landscape were calculated the Shannon index, Uniformity and the Simpson index.
 
@@ -32,12 +32,12 @@ Results
 
 From analysis of the landscape metrics calculated it was found that there was an increase in the degree of human disturbance and therefore a greater fragmentation of uses between 1990 and 2006. The number of patches of “Forest Semi Natural areas” and “Agricultural areas” decreased between 1990 and 2006 (Table 1). This metric can give us some indication of ecological processes increasing or decreasing relationships between populations and habitats (Viana and Aranha, 2008). Also of note is the average distance between spots, one measure that allows us to understand the degree of landscape fragmentation, the decline of “Forest and Semi Natural areas” 1990 to 2006 at the expense of increased “Artificial areas” (Table 1).
 
-.. figure:: ./images/portugal_coimbra3.png
-   :alt: Landscape metrics calculated for diferent years (1990 and 2006).
-   :scale: 60%
+.. figure:: ./images/portugal_coimbra2.png
+   :alt: Model to calculate landscape metrics in 1990.
+   :scale: 90%
    :align: left
       
-   Landscape metrics calculated for diferent years (1990 and 2006).
+   Model to calculate landscape metrics in 1990.
 
 From 1990 to 2006 diversity increased, however it is known that this result is directly related to the transfer between land cover, in particular loss of “Agricultural areas” and “Forest and Semi Natural areas”. The same happened with uniformity. 
 
