@@ -13,6 +13,7 @@
 * Alessio Buccioli
 * Alex Thomas
 * Alexandre Leroux
+* Alicus Viorel
 * Alvin Laurio
 * Amedeo Fadini
 * Amira El-shal
