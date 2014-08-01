@@ -400,6 +400,7 @@
 * Ujaval Gandhi
 * Ulrich Von Wulffen
 * Umberto Zulian
+* Urban Modelling Solutions N A Matthew
 * Uros Bernik
 * Vincenzo Sale
 * Vittorio Dell'Aquila
