@@ -163,6 +163,7 @@
 * Ian Wusstig
 * Igor Zabelin
 * Interlink Web Works
+* Isabelle Didierjean
 * Ivan Marchesini
 * Ivan Mincik
 * Ivica Serdar
