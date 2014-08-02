@@ -104,6 +104,7 @@
 * Evan Wolf
 * Fabian Frucht
 * Fabio Giacomazzi
+* Faira Insan Technology
 * Ferdinando Urbano
 * Fethi M'rad
 * Flavio Rigolon
