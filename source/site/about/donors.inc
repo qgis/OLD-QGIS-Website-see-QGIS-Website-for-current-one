@@ -231,6 +231,7 @@
 * Laura Burnette
 * Laurent Bréton
 * Laurent Vidal
+* Lawrence Lass
 * Leo Millonig
 * Leslie Gordon
 * Lorenz Jenni
