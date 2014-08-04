@@ -51,6 +51,7 @@
 * Brian Kelly
 * Bryan Kennedy
 * Carl Nelson
+* Carlo Oliverio
 * Carlos Tavares
 * Carsten Fink
 * Casper Peter Szilas
