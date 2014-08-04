@@ -275,6 +275,7 @@
 * Matteo Ghetta
 * Maximilian Lohse
 * Michael Hintzke
+* Michael Hogarth
 * Michael Joseph
 * Michael Layden
 * Michael Major
