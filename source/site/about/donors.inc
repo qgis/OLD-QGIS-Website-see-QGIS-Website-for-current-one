@@ -14,6 +14,7 @@
 * Alessio Buccioli
 * Alex Thomas
 * Alexandre Leroux
+* Alexandre Xavier
 * Alicus Viorel
 * Alvin Laurio
 * Amedeo Fadini
