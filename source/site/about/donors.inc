@@ -260,6 +260,7 @@
 * Marcus Håkansson
 * Marek Slowinski
 * Maria Antonia Brovelli
+* Maria Chiara Turrini
 * Mario Martínez González
 * Mario Tarantola
 * Mark Douglas
