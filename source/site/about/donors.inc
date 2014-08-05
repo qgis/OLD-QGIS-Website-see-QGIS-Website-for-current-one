@@ -84,6 +84,7 @@
 * David Horsey
 * David Mangold
 * David Sabalete Valenzuela
+* David Squires
 * David Vaarwerk
 * Deyan Vasilev
 * Dheeraj Chand
