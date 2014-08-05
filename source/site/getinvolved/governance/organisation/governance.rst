@@ -15,11 +15,11 @@ brackets):
 * Gary Sherman (Chair)
 * Marco Hugentobler (Technical Advisor)
 * Tim Sutton (Testing/QA Manager)
-* Otto Dassau (Community Advisor)
-* Paolo Cavallini (Financial and Marketing Advisor)
-* Anita Graser (Design Advisor)
-* Richard Duivenvoorde (Infrastructure Manager)
-* Jürgen Fischer (Release Manager)
+* Otto Dassau (Community Advisor) [since June 2007]
+* Paolo Cavallini (Financial and Marketing Advisor) [since January 2008]
+* Anita Graser (Design Advisor) [since September 2013]
+* Richard Duivenvoorde (Infrastructure Manager) [since September 2013]
+* Jürgen Fischer (Release Manager) [since September 2013]
 
 Read more about the responsibilities of the PSC :ref:`here <psc>`
 
