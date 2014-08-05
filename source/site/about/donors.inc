@@ -305,7 +305,7 @@
 * Nikolaos Christou
 * Nikolaou Konstantinos
 * Norman Trowell
-* Oana Mihaela Stoleriu
+* Cristian Stoleriu
 * Ola Martin Krog
 * Oliver Schonrock
 * Oriental Rugs Online
