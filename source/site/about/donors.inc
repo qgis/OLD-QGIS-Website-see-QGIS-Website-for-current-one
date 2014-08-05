@@ -8,6 +8,7 @@
 * Aileen Heal
 * AivlaSoft GmbH
 * Albin Blaschka
+* Alejandro Zarate Lupercio
 * Alessandro Fanna
 * Alessandro Pasotti
 * Alessandro Sarretta
@@ -72,6 +73,7 @@
 * Clifford Snow
 * Compagnie Du Vent
 * Cristian Spieles
+* Cristian Stoleriu
 * D R Arbib
 * D V Sypersma
 * Dan Karran
@@ -305,7 +307,6 @@
 * Nikolaos Christou
 * Nikolaou Konstantinos
 * Norman Trowell
-* Cristian Stoleriu
 * Ola Martin Krog
 * Oliver Schonrock
 * Oriental Rugs Online
