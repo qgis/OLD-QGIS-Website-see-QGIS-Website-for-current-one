@@ -195,6 +195,7 @@
 * Jean Sébastien Dehecq
 * Jesus Aguilera Rubio
 * Jesús Gómez Fernández
+* Jim Cory
 * Jim Litts
 * Jim Mann
 * Jiří Bělohlávek
