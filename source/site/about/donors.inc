@@ -51,6 +51,7 @@
 * Birgit Konn
 * Boštjan Krapež
 * Brian Kelly
+* Brian Tolley
 * Bryan Kennedy
 * Carl Nelson
 * Carlo Oliverio
