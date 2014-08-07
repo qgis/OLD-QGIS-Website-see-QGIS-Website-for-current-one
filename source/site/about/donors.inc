@@ -182,6 +182,7 @@
 * James Goetz
 * James Larsen
 * James Morrison
+* Jan Buijs
 * Jan Militzer
 * Jan-Willem Aalst
 * Janne Jakob Fleischer
