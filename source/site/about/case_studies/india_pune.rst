@@ -33,7 +33,7 @@ The script works in two simple for loops first which defines the extent of map i
 
 .. figure:: ./images/india_pune2.png
    :alt: Python script and directory where tiles are stored
-   :scale: 90%
+   :scale: 60%
    :align: left
       
    Python script and directory where tiles are stored

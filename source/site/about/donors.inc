@@ -1,3 +1,4 @@
+* A Brian Hollinshead
 * Aaron Racicot
 * Adam Lane
 * Adelchi Acampora
@@ -7,12 +8,15 @@
 * Aileen Heal
 * AivlaSoft GmbH
 * Albin Blaschka
+* Alejandro Zarate Lupercio
 * Alessandro Fanna
 * Alessandro Pasotti
 * Alessandro Sarretta
 * Alessio Buccioli
 * Alex Thomas
 * Alexandre Leroux
+* Alexandre Xavier
+* Alicus Viorel
 * Alvin Laurio
 * Amedeo Fadini
 * Amira El-shal
@@ -26,6 +30,7 @@
 * Andrew Flatman
 * Andrew Mcaninch
 * Andrew Rigby
+* Andrew Smith
 * Andrey Kuvshinov
 * André Barriguinha
 * Anthony Van Zuylen
@@ -46,7 +51,10 @@
 * Birgit Konn
 * Boštjan Krapež
 * Brian Kelly
+* Brian Tolley
+* Bryan Kennedy
 * Carl Nelson
+* Carlo Oliverio
 * Carlos Tavares
 * Carsten Fink
 * Casper Peter Szilas
@@ -58,6 +66,7 @@
 * Chris Talbot
 * Christian Houle
 * Christian Schwartze
+* Christina Makarona
 * Christoph Rinne
 * Christoph Rupprecht
 * Christopher Kahler
@@ -65,6 +74,7 @@
 * Clifford Snow
 * Compagnie Du Vent
 * Cristian Spieles
+* Cristian Stoleriu
 * D R Arbib
 * D V Sypersma
 * Dan Karran
@@ -77,6 +87,7 @@
 * David Horsey
 * David Mangold
 * David Sabalete Valenzuela
+* David Squires
 * David Vaarwerk
 * Deyan Vasilev
 * Dheeraj Chand
@@ -98,13 +109,17 @@
 * Erik Haß
 * Erwin Bauer
 * Evan Wolf
+* Evelyn Craigie
 * Fabian Frucht
 * Fabio Giacomazzi
+* Faira Insan Technology
 * Ferdinando Urbano
+* Fethi M'rad
 * Flavio Rigolon
 * Florian Hof
 * Fornat AG, Zürich
 * FOSSGIS e.V.
+* François De Palma
 * Fred Ethève
 * Fred Watchorn
 * G R Owen
@@ -156,6 +171,7 @@
 * Ian Wusstig
 * Igor Zabelin
 * Interlink Web Works
+* Isabelle Didierjean
 * Ivan Marchesini
 * Ivan Mincik
 * Ivica Serdar
@@ -166,6 +182,7 @@
 * James Goetz
 * James Larsen
 * James Morrison
+* Jan Buijs
 * Jan Militzer
 * Jan-Willem Aalst
 * Janne Jakob Fleischer
@@ -180,6 +197,7 @@
 * Jean Sébastien Dehecq
 * Jesus Aguilera Rubio
 * Jesús Gómez Fernández
+* Jim Cory
 * Jim Litts
 * Jim Mann
 * Jiří Bělohlávek
@@ -195,10 +213,12 @@
 * John Roach
 * John Stuart
 * Jonathan Gross
+* Jonathan Webb
 * Jorge Pintocorne
 * Jorge Vera Morales
 * Jose Augusto Faes
 * Josef Rattinger
+* Joshua Voss
 * José Alfonso De Tomás Gargantilla
 * Juan Vega Figueroa
 * Julien Villery
@@ -224,7 +244,9 @@
 * Laura Burnette
 * Laurent Bréton
 * Laurent Vidal
+* Lawrence Lass
 * Leo Millonig
+* Leslie Gordon
 * Lorenz Jenni
 * Lorenzo Becchi
 * Loris Duclos
@@ -246,6 +268,7 @@
 * Marcus Håkansson
 * Marek Slowinski
 * Maria Antonia Brovelli
+* Maria Chiara Turrini
 * Mario Martínez González
 * Mario Tarantola
 * Mark Douglas
@@ -260,8 +283,10 @@
 * Matt Foy
 * Matt Wilkie
 * Matteo Ghetta
+* Maurice Mccabe
 * Maximilian Lohse
 * Michael Hintzke
+* Michael Hogarth
 * Michael Joseph
 * Michael Layden
 * Michael Major
@@ -287,7 +312,6 @@
 * Nikolaos Christou
 * Nikolaou Konstantinos
 * Norman Trowell
-* Oana Mihaela Stoleriu
 * Ola Martin Krog
 * Oliver Schonrock
 * Oriental Rugs Online
@@ -393,6 +417,7 @@
 * Ujaval Gandhi
 * Ulrich Von Wulffen
 * Umberto Zulian
+* Urban Modelling Solutions N A Matthew
 * Uros Bernik
 * Vincenzo Sale
 * Vittorio Dell'Aquila
