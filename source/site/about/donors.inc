@@ -109,6 +109,7 @@
 * Erik Haß
 * Erwin Bauer
 * Evan Wolf
+* Evelyn Craigie
 * Fabian Frucht
 * Fabio Giacomazzi
 * Faira Insan Technology
