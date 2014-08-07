@@ -15,20 +15,20 @@ msgstr ""
 msgid "Get involved with the QGIS community"
 msgstr ""
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:9
 #: ../../themes/qgis-theme/getinvolved_index.html:8
+#: ../../themes/qgis-theme/getinvolved_donations.html:9
 msgid ""
 "QGIS is developed by a team of dedicated\n"
 "                    volunteers and organisations."
 msgstr ""
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:14
 #: ../../themes/qgis-theme/getinvolved_index.html:10
+#: ../../themes/qgis-theme/getinvolved_donations.html:14
 msgid "You can get involved!"
 msgstr ""
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:31
 #: ../../themes/qgis-theme/getinvolved_index.html:27
+#: ../../themes/qgis-theme/getinvolved_donations.html:31
 msgid "GET INVOLVED"
 msgstr ""
 
@@ -63,8 +63,8 @@ msgid ""
 "archives."
 msgstr ""
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:60
 #: ../../themes/qgis-theme/getinvolved_index.html:77
+#: ../../themes/qgis-theme/getinvolved_donations.html:60
 msgid "List of QGIS Support Channels"
 msgstr ""
 
@@ -81,13 +81,13 @@ msgid ""
 " manual into another language, learn how to get started here:"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:115
 #: ../../themes/qgis-theme/getinvolved_index.html:95
+#: ../../themes/qgis-theme/docs_index.html:115
 msgid "Translate QGIS into your Language"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:31
 #: ../../themes/qgis-theme/getinvolved_index.html:103
+#: ../../themes/qgis-theme/forusers_index.html:31
 msgid "QGIS Plugins"
 msgstr ""
 
@@ -127,11 +127,11 @@ msgstr ""
 msgid "Help Support the Project Financially"
 msgstr ""
 
-#: ../../themes/qgis-theme/about_index.html:147
-#: ../../themes/qgis-theme/getinvolved_donations.html:131
-#: ../../themes/qgis-theme/docs_index.html:155
-#: ../../themes/qgis-theme/forusers_index.html:219
 #: ../../themes/qgis-theme/getinvolved_index.html:160
+#: ../../themes/qgis-theme/about_index.html:147
+#: ../../themes/qgis-theme/docs_index.html:155
+#: ../../themes/qgis-theme/getinvolved_donations.html:131
+#: ../../themes/qgis-theme/forusers_index.html:219
 msgid "Back to Top"
 msgstr ""
 
@@ -435,10 +435,6 @@ msgstr ""
 msgid "Get Started"
 msgstr ""
 
-#: ../../themes/qgis-theme/index.html:138
-msgid "Download and Install QGIS then follow the Quickstart."
-msgstr ""
-
 #: ../../themes/qgis-theme/index.html:147
 #: ../../themes/qgis-theme/page.html:134
 msgid "Get Involved"
@@ -458,10 +454,6 @@ msgstr ""
 
 #: ../../themes/qgis-theme/index.html:175
 msgid "Latest News"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:178
-msgid "Find out what is going on with the QGIS project and its Community."
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_index.html:163
@@ -492,13 +484,13 @@ msgstr ""
 msgid "Discover QGIS"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:23
 #: ../../themes/qgis-theme/page.html:133
+#: ../../themes/qgis-theme/forusers_index.html:23
 msgid "For Users"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:34
 #: ../../themes/qgis-theme/page.html:135
+#: ../../themes/qgis-theme/forusers_index.html:34
 msgid "Documentation"
 msgstr ""
 
@@ -1314,6 +1306,20 @@ msgstr ""
 #: ../../themes/qgis-theme/index.html:4
 msgid "Time until 2.6 release"
 msgstr ""
+
+#: ../../themes/qgis-theme/index.html:138
+msgid "Download and install QGIS then follow the quickstart."
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:178
+msgid "Find out what is going on with the QGIS project and its community."
+msgstr ""
+
+#~ msgid "Download and Install QGIS then follow the Quickstart."
+#~ msgstr ""
+
+#~ msgid "Find out what is going on with the QGIS project and its Community."
+#~ msgstr ""
 
 #~ msgid "QGIS Source Code is available on github "
 #~ msgstr ""
