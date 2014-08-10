@@ -115,6 +115,7 @@
 * Fabio Giacomazzi
 * Faira Insan Technology
 * Ferdinando Urbano
+* Ferenc Keresztessy
 * Fethi M'rad
 * Flavio Rigolon
 * Florian Hof
