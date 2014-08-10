@@ -78,6 +78,7 @@
 * Cristian Stoleriu
 * D R Arbib
 * D V Sypersma
+* Dan Homerick
 * Dan Karran
 * Daniel Silva Veras
 * Daniel Wiesmann
