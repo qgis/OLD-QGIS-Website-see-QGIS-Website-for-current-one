@@ -95,6 +95,7 @@
 * Dheeraj Chand
 * Didier Genier
 * Dieter Wachsmuth
+* Dimap Sl Felipe Garcia
 * Dirk Pflugmacher
 * Dominique Pitt
 * Don Williams
