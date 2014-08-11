@@ -251,7 +251,7 @@ provides commercial GIS consulting, support and training in QGIS.
 .. |claasleiner| image:: /static/site/about/images/claasleiner.png
    :width: 75 px
 
-|claasleiner| `GKG Kassel <http://www.eschenlaub.de/>`_, Germany (Dr.-Ing. Claas Leiner) 
+|claasleiner| `GKG Kassel, Germany (Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_
 provides training, services and support around the free geographic information systems QGIS, 
 GRASS, SAGA and PostGIS as well as spatial data management, analysis and cartography.
 
