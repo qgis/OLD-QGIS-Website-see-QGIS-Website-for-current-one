@@ -108,6 +108,7 @@
 * Els Keunen
 * Emanuele Zamprogno
 * Enrico Antonio Chiaradia
+* Eric Hamilton
 * Eric Thouvenin
 * Erik Haß
 * Erwin Bauer
