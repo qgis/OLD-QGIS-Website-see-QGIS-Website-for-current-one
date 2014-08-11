@@ -322,6 +322,9 @@ section {
 }
 div.related {
   display: none;
+  /* NOTE: for website: NO related bar, for docs: YES related bar! */
+
+  padding-top: 10px;
 }
 /*
 our sphinx :refs: become anchors. But linking to an anchor in top of the page
@@ -335,7 +338,9 @@ div.section:before {
   content: "";
   display: block;
   height: 60px;
-  margin: -60px 0 0 0;
+  /*margin: -60px 0 0 0;*/
+  /*nice hack, but this breaks responsiveness for related bar*/
+
   /*this is working for non frontpages*/
 
 }
