@@ -87,9 +87,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 |bronze| |claasleinert|
 
-`www.eschenlaub.de <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2015)
+`GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2015)
 
-.. |claasleinert| image:: /static/site/about/images/claas_leinert.png
+.. |claasleinert| image:: /static/site/about/images/claasleiner.png
 ..   :width: 150 px
 
 
