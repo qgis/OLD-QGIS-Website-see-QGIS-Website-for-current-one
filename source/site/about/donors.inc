@@ -124,6 +124,7 @@
 * Florian Hof
 * Fornat AG, Zürich
 * FOSSGIS e.V.
+* Francis Harvey
 * François De Palma
 * Fred Ethève
 * Fred Watchorn
