@@ -208,6 +208,7 @@
 * Jiří Bělohlávek
 * Joachim Aurbacher
 * Joanne Kaye
+* Joern Struwe
 * Johannes De Groeve
 * Johannes Lauber
 * John Bartram
