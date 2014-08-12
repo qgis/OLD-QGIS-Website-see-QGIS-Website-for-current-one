@@ -7,6 +7,7 @@
 * Agile Geoscience
 * Aileen Heal
 * AivlaSoft GmbH
+* Alain Brunon
 * Albin Blaschka
 * Alejandro Zarate Lupercio
 * Alessandro Fanna
