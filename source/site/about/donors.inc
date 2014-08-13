@@ -282,6 +282,7 @@
 * Maria Chiara Turrini
 * Mario Martínez González
 * Mario Tarantola
+* Marius Fankhauser
 * Mark Douglas
 * Mark Hoschek
 * Mark Murphy
