@@ -167,6 +167,7 @@
 * Heinrich Schweizer
 * Henry Colomb
 * Henry R Moyer III
+* Hike 734
 * Hiroshi Kawakami
 * Hiroto Okayama
 * Horst Machguth
