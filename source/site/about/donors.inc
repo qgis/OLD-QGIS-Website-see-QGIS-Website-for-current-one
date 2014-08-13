@@ -188,6 +188,7 @@
 * Jake Maier
 * James Betts
 * James Crone
+* James Gardiner
 * James Goetz
 * James Larsen
 * James Morrison
