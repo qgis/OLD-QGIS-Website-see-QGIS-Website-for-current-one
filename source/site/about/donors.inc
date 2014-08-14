@@ -216,6 +216,7 @@
 * Joern Struwe
 * Johannes De Groeve
 * Johannes Lauber
+* Johannes Richthofen
 * John Bartram
 * John C. Tull
 * John Dean
