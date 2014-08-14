@@ -96,6 +96,7 @@
 * David Sabalete Valenzuela
 * David Squires
 * David Vaarwerk
+* Dc-3 Dreams, Sp
 * Deyan Vasilev
 * Dheeraj Chand
 * Didier Genier
