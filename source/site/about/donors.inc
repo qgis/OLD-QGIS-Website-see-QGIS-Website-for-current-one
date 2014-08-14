@@ -188,6 +188,7 @@
 * Ivan Mincik
 * Ivica Serdar
 * Jacopo Ognibene
+* Jairo Belli
 * Jake Maier
 * James Betts
 * James Crone
