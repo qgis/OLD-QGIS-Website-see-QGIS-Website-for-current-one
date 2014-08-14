@@ -52,6 +52,7 @@
 * Benoit David
 * Bernd Vogelgesang
 * Birgit Konn
+* Bouchard Consulting Services
 * Boštjan Krapež
 * Brian Kelly
 * Brian Tolley
