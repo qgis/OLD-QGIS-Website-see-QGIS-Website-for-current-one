@@ -37,6 +37,7 @@
 * André Barriguinha
 * Anthony Van Zuylen
 * Antimo Battistoni
+* Antonio Vitulano
 * Aris Dimopoulos
 * Arni Geirsson
 * Associazione Monte Porzio Cultura
