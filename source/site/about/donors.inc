@@ -76,6 +76,7 @@
 * Christopher Kahler
 * Christos Mitsis
 * Clifford Snow
+* Cmi Dr. Daniela Ersch
 * Compagnie Du Vent
 * Cristian Spieles
 * Cristian Stoleriu
