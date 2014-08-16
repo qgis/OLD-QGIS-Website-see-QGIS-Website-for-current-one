@@ -450,6 +450,7 @@
 * William Levering
 * William Pallies
 * Wolfgang Dennhöfer
+* Wolfgang Stoessel
 * Yuan Harng Lee
 * Yves Jacolin
 * Zachary Patterson
