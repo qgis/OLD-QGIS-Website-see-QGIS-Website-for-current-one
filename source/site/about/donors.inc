@@ -88,6 +88,7 @@
 * D V Sypersma
 * Dan Homerick
 * Dan Karran
+* Dan Wilt
 * Daniel Silva Veras
 * Daniel Wiesmann
 * Dariusz Bobak
