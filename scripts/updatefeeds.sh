@@ -36,3 +36,6 @@ curl "http://changelog.linfiniti.com/qgis/version/21/atom" -o visualchangelog22.
 mv visualchangelog20.atom visualchangelog20.atom.0
 curl "http://changelog.linfiniti.com/qgis/version/200/atom" -o visualchangelog20.atom
 
+# qugsnews
+mv qugsnews.atom qugsnews.atom.0
+curl https://raw.githubusercontent.com/qgis/QGIS-Website/master/source/feeds/qugsnews.atom -o qugsnews.atom
