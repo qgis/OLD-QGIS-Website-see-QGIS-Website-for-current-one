@@ -1,14 +1,15 @@
 # 
 # Translators:
-# diethard.jansen <diethard.jansen@gmail.com>, 2013-2014
-# parallax <vincent@stedema.nl>, 2013
+# Dick Groskamp <dikgro@yahoo.co.uk>, 2014
+# Diethard Jansen <diethard.jansen@gmail.com>, 2013-2014
+# Vincent <vincent@stedema.nl>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-01-03 21:06+0000\n"
-"Last-Translator: diethard.jansen <diethard.jansen@gmail.com>\n"
+"PO-Revision-Date: 2014-07-09 18:48+0000\n"
+"Last-Translator: Dick Groskamp <dikgro@yahoo.co.uk>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -171,12 +172,6 @@ msgid ""
 "source code and create pull requests for the language file on github."
 msgstr "Een meer geavanceerde manier van helpen met de vertaling is om de broncode uit te checken en vervolgens pull requests voor het vertaalbestand te doen op github."
 
-#: ../../source/site/getinvolved/translate.rst:128
-msgid ""
-"Working with github and checking out the source code is explained in the "
-":ref:`Developer Section <reference-missing>'"
-msgstr "Het werken met github en het uitchecken van de broncode is uitgelegd in het :ref:`Ontwikkelaars deel <reference-missing>"
-
 #: ../../source/site/getinvolved/translate.rst:132
 msgid "Documentation"
 msgstr "Documentatie"
@@ -232,6 +227,17 @@ msgid ""
 "available in the README.md file which gets displayed on "
 "https://github.com/qgis/QGIS-Website"
 msgstr "Een beschrijving hoe je kunt bijdragen aan de vertaling van de website is beschikbaar in het README.md bestand die getoond wordt op https://github.com/qgis/QGIS-Website"
+
+#: ../../source/site/getinvolved/translate.rst:128
+msgid ""
+"Working with github and checking out the source code is explained in the "
+":ref:`Developer Section <reference-missing>`."
+msgstr "Werken met Github en uitchecken van de broncode wordt uitgelegd in het gedeelte :ref:`Developer Section <reference-missing>`."
+
+#~ msgid ""
+#~ "Working with github and checking out the source code is explained in the "
+#~ ":ref:`Developer Section <reference-missing>'"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "You will also find the progress of the translation there (but remember in "

@@ -1,14 +1,15 @@
 # 
 # Translators:
 # BelenMP <Beln1@hotmail.com>, 2014
-# drgalindog <drgalindog@linuxmail.org>, 2014
+# Diana Galindo <drgalindog@linuxmail.org>, 2014
+# minemak <mine_tod@yahoo.com.mx>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-06 09:00+0000\n"
-"Last-Translator: BelenMP <Beln1@hotmail.com>\n"
+"PO-Revision-Date: 2014-08-13 18:33+0000\n"
+"Last-Translator: minemak <mine_tod@yahoo.com.mx>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,7 +60,7 @@ msgstr "Cálculo y mapeo de pendientes"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:25
 msgid "Aspect assessment and mapping"
-msgstr ""
+msgstr "Evalucaión de aspecto y cartografía"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:26
 msgid "Vegetation assessment and mapping"
@@ -71,7 +72,7 @@ msgstr "Combinación de puntajes para identificar la intensidad del riesgo de in
 
 #: ../../source/site/about/case_studies/australia_queens.rst:28
 msgid "Field verification and qualitative assessment"
-msgstr ""
+msgstr "Verificación de campo y evaluación cualitativa"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:29
 msgid "Final Maps"
@@ -96,7 +97,7 @@ msgid ""
 " All the resulting raster maps were then combined using mapcalc and given a "
 "final risk hazard score. The risk scores are then divided into three main "
 "categories: high; medium; and low."
-msgstr ""
+msgstr "QGIS, con el complemento GRASS, que fue seleccionada ya que proporciona las herramientas necesarias para completar el trabajo y la interacción entre QGIS y GRASS hizo fácil procesar los mapas ráster y procesarlos de manera significativa a los usuarios. SDRC utiliza MapInfo para su sistema principal de SIG, sin embargo los complementos de MapInfo no son tan potentes como SIG GRASS para el procesamiento ráster. El complemento GRASS de QGIS se utilizó para importar isolíneas cada 5 metros de toda la región a GRASS que luego se convierte en un mapa ráster de isolíneas utilizando r.surf.contour. Los mapas de pendientes y orientación de laderas se generaron luego de usar r.slope.aspect desde el mapa ráster de isolíneas. Las categorías fueron asignadas a diferentes rangos de pendientes y orientación de laderas que da un riesgo de desastre. A las zonas de vegetación también se les dio diferentes escalas de riesgo. Todos los mapas ráster resultantes se combinaron utilizando mapcalc y dan una puntuación final de riesgo de desastre. Las puntuaciones de riesgo se dividen en tres categorías principales: alta; media; y baja."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:43
 msgid ""
@@ -145,4 +146,4 @@ msgid ""
 "This article was contributed in January 2011 by Nathan Woodrow. Nathan is a "
 "GIS officer at the Southern Downs Regional Council and is studying an "
 "associates degree in Spatial Science at University of Souther Queensland"
-msgstr ""
+msgstr "Este artículo fue aportado en enero de 2011 por Nathan Woodrow. Nathan es un oficial de SIG en el Consejo Regional de Southern Downs y está estudiando un grado asociado en Ciencia Espacial en la Universidad de Queenslad Souther"

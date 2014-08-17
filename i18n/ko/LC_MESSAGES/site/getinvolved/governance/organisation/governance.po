@@ -1,14 +1,14 @@
 # 
 # Translators:
-# BJ Jang <qgis.tr.kr@gmail.com>, 2013
-# Sean Moon <softmsh@gmail.com>, 2013
+# BJ Jang <qgis.tr.kr@gmail.com>, 2013-2014
+# 문수현 <softmsh@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-21 10:26+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-08-07 13:52+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Korean (http://www.transifex.com/projects/p/qgis-website/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -46,26 +46,6 @@ msgstr "Marco Hugentobler (기술 고문)"
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:17
 msgid "Tim Sutton (Testing/QA Manager)"
 msgstr "Tim Sutton (테스팅/품질 관리)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:18
-msgid "Otto Dassau (Community Advisor)"
-msgstr "Otto Dassau (커뮤니티 고문)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:19
-msgid "Paolo Cavallini (Financial and Marketing Advisor)"
-msgstr "Paolo Cavallini (재정 및 마케팅 고문)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:20
-msgid "Anita Graser (Design Advisor)"
-msgstr "Anita Graser (디자인 고문)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:21
-msgid "Richard Duivenvoorde (Infrastructure Manager)"
-msgstr "Richard Duivenvoorde (인프라스트럭처 관리자)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:22
-msgid "Jürgen Fischer (Release Manager)"
-msgstr "Jürgen Fischer (배포 관리)"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:24
 msgid "Read more about the responsibilities of the PSC :ref:`here <psc>`"
@@ -283,10 +263,6 @@ msgstr "Processing Toolbox (SEXTANTE): Victor Olaya <volayaf[at]gmail.com>"
 msgid "Topology plugin: Vinayan Parameswaran <vinayan123[at]gmail.com>"
 msgstr "Topology plugin: Vinayan Parameswaran <vinayan123[at]gmail.com>"
 
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:129
-msgid "Community Resources¶"
-msgstr "커뮤니티 리소스"
-
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:131
 msgid "Current Community Team Lead: Otto Dassau <dassau[at]gbd-consult.de>"
 msgstr "현재 커뮤니티 팀 리더: Otto Dassau <dassau[at]gbd-consult.de>"
@@ -369,3 +345,45 @@ msgid ""
 "recognised as Project Committers and have full commit access to the `github "
 "repository <https://github.com/qgis/QGIS>`_."
 msgstr "이 `구성원들 <https://github.com/qgis/QGIS/graphs/contributors>`_ 은 프로젝트 커미터로 인정되어 `github repository <https://github.com/qgis/QGIS>`_에 완전한 커밋 권한을 가지고 있습니다."
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:129
+msgid "Community Resources"
+msgstr "커뮤니티 리소스"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:18
+msgid "Otto Dassau (Community Advisor) [since June 2007]"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:19
+msgid "Paolo Cavallini (Financial and Marketing Advisor) [since January 2008]"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:20
+msgid "Anita Graser (Design Advisor) [since September 2013]"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:21
+msgid "Richard Duivenvoorde (Infrastructure Manager) [since September 2013]"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:22
+msgid "Jürgen Fischer (Release Manager) [since September 2013]"
+msgstr ""
+
+#~ msgid "Otto Dassau (Community Advisor)"
+#~ msgstr ""
+
+#~ msgid "Paolo Cavallini (Financial and Marketing Advisor)"
+#~ msgstr ""
+
+#~ msgid "Anita Graser (Design Advisor)"
+#~ msgstr ""
+
+#~ msgid "Richard Duivenvoorde (Infrastructure Manager)"
+#~ msgstr ""
+
+#~ msgid "Jürgen Fischer (Release Manager)"
+#~ msgstr ""
+
+#~ msgid "Community Resources¶"
+#~ msgstr ""

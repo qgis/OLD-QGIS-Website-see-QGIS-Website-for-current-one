@@ -1,13 +1,13 @@
 # 
 # Translators:
-# csorin <scalinica@gmail.com>, 2013
+# Sorin Călinică <scalinica@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-12-15 10:36+0000\n"
-"Last-Translator: csorin <scalinica@gmail.com>\n"
+"PO-Revision-Date: 2014-05-30 15:16+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -170,12 +170,6 @@ msgid ""
 "source code and create pull requests for the language file on github."
 msgstr "Un nivel avansat de a ajuta la traducere ar fi să verificați codul sursă și să formulați cereri de urcare a fișierului de limbă pe GitHub."
 
-#: ../../source/site/getinvolved/translate.rst:128
-msgid ""
-"Working with github and checking out the source code is explained in the "
-":ref:`Developer Section <reference-missing>'"
-msgstr "Lucrul cu github și verificarea codului sursă este explicată în :ref:`Developer Section <reference-missing>'"
-
 #: ../../source/site/getinvolved/translate.rst:132
 msgid "Documentation"
 msgstr "Documentație"
@@ -231,6 +225,17 @@ msgid ""
 "available in the README.md file which gets displayed on "
 "https://github.com/qgis/QGIS-Website"
 msgstr "Descrierile modului în care puteți contribui la traducerea paginilor web sunt disponibile în fișierul README.md, al cărui con ținut este afișat în https://github.com/qgis/QGIS-Website"
+
+#: ../../source/site/getinvolved/translate.rst:128
+msgid ""
+"Working with github and checking out the source code is explained in the "
+":ref:`Developer Section <reference-missing>`."
+msgstr "Lucrul cu github și modul de verificare a codului sursă este explicat în :ref:`Secțiunea dezvoltatorilor <reference-missing>`."
+
+#~ msgid ""
+#~ "Working with github and checking out the source code is explained in the "
+#~ ":ref:`Developer Section <reference-missing>'"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "You will also find the progress of the translation there (but remember in "

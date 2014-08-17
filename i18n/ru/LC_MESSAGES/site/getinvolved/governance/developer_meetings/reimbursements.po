@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-10-12 14:17+0000\n"
-"Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
+"PO-Revision-Date: 2014-05-25 16:00+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,19 +17,6 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:3
 msgid "Reimbursements for Developer Meetings"
 msgstr "Возмещение расходов для встреч разработчиков"
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:5
-msgid ""
-"The Quantum GIS project holds twice-yearly developer meetings, typically "
-"somewhere in Europe. The purpose of the meetings is to provide face-to-face "
-"time for developers. It is a forum for presenting new ideas, planning, "
-"putting heads together to solve problems and so on. We use funding from our "
-":doc:`../sponsorship/index` to facilitate the event, with co-funding from "
-"the host who usually supplies the venue and the infrastructure for hosting "
-"the meeting. Individual developers also co-fund the event by donating their "
-"time and in many cases financially supporting their visit to the meeting "
-"directly."
-msgstr "Проектом Quantum GIS дважды в год проводятся встречи разработчиков, обычно где-нибудь в Европе. Цель этих встреч — дать разработчикам возможность встретиться, пообщаться лицом к лицу. Это форум, на котором анонсируются новые идеи, обсуждаются планы, совместно решаются проблемы. Для проведения этих мероприятий используются средства от :doc:`../sponsorship/index` и финансовая поддержка встречающей стороны, которая обычно обеспечивает место и необходимую инфраструктуру. Разработчики также вкладывают в свое личное время, а зачастую и деньги, оплачивая своё участие."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:14
 msgid ""
@@ -124,14 +111,6 @@ msgid ""
 "accommodation."
 msgstr "Запрос должен содержать информацию о предполагаемых расходах на проезд и проживание."
 
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:59
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:76
-msgid ""
-"The requestor should provide copies of reciepts for all expenditures as soon"
-" as possible after the event. No refunds should be made without accompanying"
-" receipts."
-msgstr "Проситель должен предоставить копии всех счетов после окончания мероприятия и как можно скорее. Рефинансирование без предоставления соответствующих счетов не проводится."
-
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:65
 msgid "Procedure for funding applications - new developers"
 msgstr "Запрос о рефинансировании — сторонние разработчики"
@@ -153,3 +132,42 @@ msgid ""
 "The request should include a **workplan** outlining how the developer plans "
 "to make use of their time at the meeting."
 msgstr "Заявка должна содержать **рабочий план**, описывающий как разработчик планирует использовать свое время на встрече."
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:5
+msgid ""
+"The QGIS project holds twice-yearly developer meetings, typically somewhere "
+"in Europe. The purpose of the meetings is to provide face-to-face time for "
+"developers. It is a forum for presenting new ideas, planning, putting heads "
+"together to solve problems and so on. We use funding from our "
+":doc:`../sponsorship/index` to facilitate the event, with co-funding from "
+"the host who usually supplies the venue and the infrastructure for hosting "
+"the meeting. Individual developers also co-fund the event by donating their "
+"time and in many cases financially supporting their visit to the meeting "
+"directly."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:59
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:76
+msgid ""
+"The requestor should provide copies of receipts for all expenditures as soon"
+" as possible after the event. No refunds should be made without accompanying"
+" receipts."
+msgstr ""
+
+#~ msgid ""
+#~ "The Quantum GIS project holds twice-yearly developer meetings, typically "
+#~ "somewhere in Europe. The purpose of the meetings is to provide face-to-face "
+#~ "time for developers. It is a forum for presenting new ideas, planning, "
+#~ "putting heads together to solve problems and so on. We use funding from our "
+#~ ":doc:`../sponsorship/index` to facilitate the event, with co-funding from "
+#~ "the host who usually supplies the venue and the infrastructure for hosting "
+#~ "the meeting. Individual developers also co-fund the event by donating their "
+#~ "time and in many cases financially supporting their visit to the meeting "
+#~ "directly."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The requestor should provide copies of reciepts for all expenditures as soon"
+#~ " as possible after the event. No refunds should be made without accompanying"
+#~ " receipts."
+#~ msgstr ""

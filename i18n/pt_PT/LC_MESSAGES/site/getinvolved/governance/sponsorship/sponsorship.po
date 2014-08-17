@@ -1,13 +1,13 @@
 # 
 # Translators:
-# João Gaspar <joao.f.r.gaspar@gmail.com>, 2013
+# João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-09-25 14:15+0000\n"
-"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
+"PO-Revision-Date: 2014-05-25 17:00+0000\n"
+"Last-Translator: João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,14 +80,6 @@ msgstr "Existem dois tipos de contribuições financeiras, que aceitamos: Patroc
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:45
 msgid "Sponsorship"
 msgstr "Patrocínio"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
-msgid ""
-"Sponsors can sponsor Quantum GIS for any amount of money of at least 500 "
-"€/700 US$. Sponsorships last one year, after which they may be continued "
-"with a new payment, or allowed to lapse. At or above the following levels a "
-"sponsor will be designated as being one of the following class:"
-msgstr "Os patrocinadores podem patrocinar o Quantum GIS por qualquer quantia mas com um mínimo de 500€/700 US$. O patrocínio dura um ano, depois é mantido consoante novo pagamento ou então expira. Igual ou superior os seguintes níveis de um patrocinador serão designado como sendo uma das seguintes classes:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "euros"
@@ -170,10 +162,6 @@ msgstr "Se deseja nos enviar um donativo grande, nós encorajamos a usar uma con
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:73
 msgid "What is your benefit sponsoring the QGIS Development?"
 msgstr "Qual são os benefícios de patrocinar o Desenvolvimento do QGIS?"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
-msgid "Sponsoring the Quantum GIS project provides the following benefits:"
-msgstr "Patrocinar o projecto QGIS fornece os seguintes benefícios:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:77
 msgid "Ensures the sustainability and health of the QGIS project."
@@ -301,3 +289,25 @@ msgid ""
 "at: cavallini at faunalia dot it (+39-348-3801953) with questions, or to "
 "make arrangements."
 msgstr "Organizações ou indíviduos interessados em patrocinar o projecto QGIS deve contactar o Conselheiro PSC de Finanças e Marketing QGIS, Paolo Cavallini at: cavallini at faunalia dot it (+39-348-3801953) com questões, ou para fazer acordos."
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
+msgid ""
+"Sponsors can sponsor QGIS for any amount of money of at least 500 €/700 US$."
+" Sponsorships last one year, after which they may be continued with a new "
+"payment, or allowed to lapse. At or above the following levels a sponsor "
+"will be designated as being one of the following class:"
+msgstr "Os patrocinadores podem patrocinar o QGIS por qualquer quantia mas com um mínimo de 500€/700 US$. O patrocínio duram um ano, depois é mantindo consoante novo pagamento ou então expira. Igual ou superior os seguintes níveis de um patrocinador será designado como sendo uma das seguintes classes:"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
+msgid "Sponsoring the QGIS project provides the following benefits:"
+msgstr "Patrocinar o projecto QGIS fornece os seguintes benefícios:"
+
+#~ msgid ""
+#~ "Sponsors can sponsor Quantum GIS for any amount of money of at least 500 "
+#~ "€/700 US$. Sponsorships last one year, after which they may be continued "
+#~ "with a new payment, or allowed to lapse. At or above the following levels a "
+#~ "sponsor will be designated as being one of the following class:"
+#~ msgstr ""
+
+#~ msgid "Sponsoring the Quantum GIS project provides the following benefits:"
+#~ msgstr ""

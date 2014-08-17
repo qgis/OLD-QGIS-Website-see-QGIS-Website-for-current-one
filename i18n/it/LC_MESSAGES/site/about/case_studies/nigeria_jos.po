@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Luca M. <luca76@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-17 14:49+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2014-06-17 10:04+0000\n"
+"Last-Translator: Luca M. <luca76@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +18,7 @@ msgstr ""
 #: ../../source/site/about/case_studies/nigeria_jos.rst:4
 msgid ""
 "Amurum forest reserve habitat and avifauna mapping with QGIS in Nigeria"
-msgstr ""
+msgstr "Riserva forestale Amurum e mappatura dell'avifauna con QGIS in Nigeria"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:6
 msgid ""
@@ -34,16 +35,16 @@ msgid ""
 "determinants of Amurum reserve and how the basic habitat maps were used to "
 "obtain strata for the purpose of efficiently determining the spatial "
 "distribution of the avifauna including the biodiversity."
-msgstr ""
+msgstr "La riserva forestale Amurum si trova vicino alla città di Jos, Stato di Plateau, in Nigeria.  È stata istituita in concomitanza con l'avvio della AP Leventis Ornitologico Research Institute (APLORI) ai fini della conservazione, l'istruzione e la ricerca della natura. APLORI è ospitato dal Dipartimento di Zoologia presso l'Università di Jos. Ogni anno un gruppo di circa otto studenti altamente motivati, ​provenienti da tutta la Nigeria, fanno una formazione sulla biologia della conservazione, sulla statistica (con R), e dal 2011 anche su GIS. Nel corso di due settimane in dicembre 2011 abbiamo studiato i concetti GIS di base e applicata con QGIS per gli studi sulla conservazione. In questo articolo descriviamo il modo in cui abbiamo usato QGIS per mappare gli habitat e i suoi determinanti della riserva Amurum e come le mappe di base dell'habitat sono state utilizzate per ottenere strati al fine di determinare in modo efficiente la distribuzione spaziale della avifauna tra cui la biodiversità."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:13
 #: ../../source/site/about/case_studies/nigeria_jos.rst:47
 msgid "Training Group"
-msgstr ""
+msgstr "Gruppo del corso"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:16
 msgid "Mapping elevation, hill shade, slope and habitats"
-msgstr ""
+msgstr "Mappatura dell'elevazione, sfumatura del terreno, pendenza e habitat"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:18
 msgid ""
@@ -52,7 +53,7 @@ msgid ""
 "area in which Amurum is located. (Information about the global elevation "
 "data set can be found here: http://www.cgiar-csi.org/data/elevation/item/45"
 "-srtm-90m-digital-elevation-database-v41)."
-msgstr ""
+msgstr "Mappatura dell'elevazione e classificazione del terreno: Abbiamo scaricato (gratuitamente) i dati di elevazione provenienti dal radar della NASA Shuttle Radar Topographic Mission (SRTM) per la zona in cui si trova Amurum. (le Informazioni sul set di dati di elevazione globale possono essere trovate qui: http://www.cgiar-csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41)."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:20
 msgid ""
@@ -60,7 +61,7 @@ msgid ""
 "area containing the reserve so that the raster data sets remained relatively"
 " small. By means of GPS we collected elevations at various locations in the "
 "reserve."
-msgstr ""
+msgstr "I GdalTools sono stati usati per fondere set di dati originali e per ritagliare una piccola area che contiene la riserva in modo che i dati raster siano ritagliati in quella zona. Per mezzo di GPS abbiamo raccolto elevazioni, in varie zone della riserva."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:22
 msgid ""
@@ -69,11 +70,11 @@ msgid ""
 "hills hades and slopes for the area. These variables are important from an "
 "ecological point of view because they are strongly associated with the type "
 "of habitat."
-msgstr ""
+msgstr "Nel complesso, le elevazioni del set di dati SRTM corrispondevano bene alle elevazioni raccolte con gps. I Modelli di terreno in GdalTools sono stati usati per calcolare le colline e piste per la zona. Queste variabili sono importanti da un punto di vista ecologico, perché sono fortemente associati con il tipo di habitat."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:29
 msgid "QGIS screenshot"
-msgstr ""
+msgstr "QGIS"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:31
 msgid ""
@@ -81,7 +82,7 @@ msgid ""
 "original (clipped) elevation map to obtain a higher resolution map. We used "
 "the warp tool in GdalTools. By means of the contour tool we obtained smooth "
 "contour lines."
-msgstr ""
+msgstr "Dal momento che abbiamo intenzione di sviluppare una bella mappa, abbiamo interpolato l'originale (ritagliato) elevazione della mappa per ottenere una risoluzione più elevata mappa. Abbiamo usato lo strumento altera in GdalTools. Mediante lo strumento di contorno abbiamo ottenuto linee di contorno lisce."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:33
 msgid ""
@@ -90,7 +91,7 @@ msgid ""
 " the GPS were smoothly imported using the GPS Tools. The imported waypoints "
 "and tracks were used to construct a polygon shapefile. The tracks inside the"
 " reserve were mapped in a similar fashion."
-msgstr ""
+msgstr "Le coordinate del confine della riserva sono state ottenuti camminando lungo i confini della riserva con un GPS. I punti d'interesse e le tracce memorizzate in GPS sono state importate utilizzando gli strumenti GPS, per costruire un shapefile di tipo poligono. I sentieri all'interno della riserva sono stati mappati in modo simile."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:35
 msgid ""
@@ -101,18 +102,18 @@ msgid ""
 "image we used the editor to draw polygons demarcating the three habitats. "
 "Setting the snapping options correctly allowed the construction of non-"
 "overlapping polygons."
-msgstr ""
+msgstr "Siamo stati in grado di costruire rapidamente e con precisione una mappa dell'habitat di Amurum utilizzando un'immagine satellitare di Google che abbiamo ottenuto con il plugin Openlayers. La riserva ha tre tipi di habitat distinti: Savannah, Gallery forest e Rocky outcrop. Sulla base dell'immagine satellite abbiamo usato l'editor per disegnare i poligoni che delimitano i tre habitat. Le impostazioni delle opzioni di snap hanno permesso di costruire correttamente poligoni non sovrapposti."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:38
 msgid "Mapping bird distributions and diversity"
-msgstr ""
+msgstr "Mappatura della distribuzione degli uccelli e diversità"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:40
 msgid ""
 "The habitat maps were used to generate random locations. The area of the "
 "various types of habitat were used to generate a number of locations "
 "proportional to the surface of each habitat type (stratification)."
-msgstr ""
+msgstr "Le mappe degli habitat sono state usate per generare posizioni casuali. L'area dei vari tipi di habitat sono stati usati per generare un numero di posizioni proporzionale alla superficie di ciascun tipo di habitat (stratificazione)."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:49
 msgid ""
@@ -126,11 +127,11 @@ msgid ""
 "text layer” tool. On the basis of the above mentioned layers a map was "
 "constructed presenting some of the most important landscape features and "
 "avian diversity of the Amurum reserve."
-msgstr ""
+msgstr "I punti casuali in fTools sono stati usati per questo scopo. Tutti i luoghi sono stati visitati nel corso di due mattinate di quattro gruppi di studenti (due per gruppo) per un totale di 38 posizioni casuali sparsi in tutta la riserva. I dati di osservazione sono stati inseriti in un foglio di calcolo e analizzati utilizzando R. Inoltre è stato calcolato l'indice di diversità di Shannon-Wiener, utilizzando R. Dopo la fusione con il file posizione con i dati di osservazione risultante, è stato esportato come file CSV che è stato caricato in QGIS usando funzione \"Aggiungi layer di testo delimitato\". Sulla base degli strati di cui sopra la mappa è stata costruita presentando alcune delle più importanti caratteristiche del paesaggio e diversità aviaria della riserva Amurum."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:52
 msgid "Conclusion"
-msgstr ""
+msgstr "In conclusione"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:54
 msgid ""
@@ -141,19 +142,19 @@ msgid ""
 "allows for stratification and thus for better estimates of abundances of "
 "various kinds of organisms. Basically we are now able to do better "
 "ecological research using QGIS as an open source platform."
-msgstr ""
+msgstr "Nel complesso, il corso è stato un grande successo. Noi - un gruppo di studenti con nessuna esperienza precedente GIS - abbiamo apprezzato molto il lavoro con QGIS. In due settimane di tempo siamo stati in grado di sviluppare una mappa estremamente utile della riserva. Tra gli altri, le estensioni dei vari habitat consentono una migliore stratificazione e quindi per una previsione delle abbondanze di vari tipi di organismi. In fondo siamo ora in grado di fare meglio della ricerca ecologica utilizzando QGIS come una piattaforma open source."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:61
 msgid "QGIS map: Diversity of Amurum Forest Reserve"
-msgstr ""
+msgstr "Mappa con QGIS: divesrità della Amurum Forest Reserve"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:64
 msgid "Authors"
-msgstr ""
+msgstr "Autori"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:66
 msgid ""
 "Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, "
 "Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu "
 "Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"
-msgstr ""
+msgstr "Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"

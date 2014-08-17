@@ -1,14 +1,15 @@
 # 
 # Translators:
-# diethard.jansen <diethard.jansen@gmail.com>, 2013-2014
-# raymondnijssen <r.nijssen@terglobo.nl>, 2013
+# Dick Groskamp <dikgro@yahoo.co.uk>, 2014
+# Diethard Jansen <diethard.jansen@gmail.com>, 2013-2014
+# Raymond Nijssen <r.nijssen@terglobo.nl>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-17 09:29+0000\n"
-"Last-Translator: diethard.jansen <diethard.jansen@gmail.com>\n"
+"PO-Revision-Date: 2014-07-20 14:45+0000\n"
+"Last-Translator: Dick Groskamp <dikgro@yahoo.co.uk>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,219 +17,145 @@ msgstr ""
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/getinvolved/development/index.rst:4
+#: ../../source/site/getinvolved/development/index.rst:3
 msgid "QGIS Development"
 msgstr "QGIS ontwikkeling"
 
-#: ../../source/site/getinvolved/development/index.rst:6
+#: ../../source/site/getinvolved/development/index.rst:5
 msgid "Welcome to the QGIS Development pages"
 msgstr "Welkom op de pagina QGIS Ontwikkeling"
 
-#: ../../source/site/getinvolved/development/index.rst:10
+#: ../../source/site/getinvolved/development/index.rst:11
 msgid "Bugs, Features and Issues"
 msgstr "Bugs, Features en Issues"
 
-#: ../../source/site/getinvolved/development/index.rst:110
+#: ../../source/site/getinvolved/development/index.rst:169
 msgid "Development"
 msgstr "Ontwikkeling"
 
-#: ../../source/site/getinvolved/development/index.rst:116
-msgid "Api Documentation"
-msgstr "API Documentatie"
-
-#: ../../source/site/getinvolved/development/index.rst:118
-msgid "You can find the API documentation for cpp here:"
-msgstr "Je kunt de API documentatie (Application Program Interface, oftewel de programmafuncties die je kunt aanroepen) voor cpp hier vinden:"
-
-#: ../../source/site/getinvolved/development/index.rst:120
-msgid "http://qgis.org/api/ (for QGIS testing)"
-msgstr "http://qgis.org/api/ (voor QGIS testing: de huidige ontwikkelversie o.a. voor het testen van QGIS)"
-
-#: ../../source/site/getinvolved/development/index.rst:122
-msgid "http://qgis.org/api/2.0/ (for QGIS 2.0)"
-msgstr "http://qgis.org/api/2.0/ (voor QGIS 2.0, stabiele versie)"
-
-#: ../../source/site/getinvolved/development/index.rst:124
-msgid "http://qgis.org/api/1.8/ (for QGIS 1.8)"
-msgstr "http://qgis.org/api/1.8/ (voor QGIS 1.8, stabiele versie)"
-
-#: ../../source/site/getinvolved/development/index.rst:148
+#: ../../source/site/getinvolved/development/index.rst:200
 msgid "QGIS has a lot to offer for python developers too."
 msgstr "QGIS heeft ook veel te bieden voor Python ontwikkelaars."
 
-#: ../../source/site/getinvolved/development/index.rst:150
+#: ../../source/site/getinvolved/development/index.rst:202
 msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
 msgstr "Veel functies van QGIS kun je aanroepen via python zodat je taken in QGIS kunt automatiseren via python."
 
-#: ../../source/site/getinvolved/development/index.rst:157
+#: ../../source/site/getinvolved/development/index.rst:209
 msgid "You can find the QGIS-iface which you can use via python here:"
 msgstr "Je kunt hier informatie vinden over QGIS-iface, de interface waarmee je QGIS via python kunt benaderen:"
 
-#: ../../source/site/getinvolved/development/index.rst:159
+#: ../../source/site/getinvolved/development/index.rst:211
 msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
 msgstr "http://qgis.org/api/classQgisInterface.html (Laatste ontwikkelversie voor het testen van QGIS)"
 
-#: ../../source/site/getinvolved/development/index.rst:161
+#: ../../source/site/getinvolved/development/index.rst:213
 msgid "http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
 msgstr "http://qgis.org/api/2.0/classQgisInterface.html (voor QGIS 2.0, stabiel)"
 
-#: ../../source/site/getinvolved/development/index.rst:163
+#: ../../source/site/getinvolved/development/index.rst:215
 msgid "http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
 msgstr "http://qgis.org/api/1.8/classQgisInterface.html (voor QGIS 1.8, stabiel)"
 
-#: ../../source/site/getinvolved/development/index.rst:78
+#: ../../source/site/getinvolved/development/index.rst:88
 msgid "Road Map"
 msgstr "Stappenplan"
 
-#: ../../source/site/getinvolved/development/index.rst:80
+#: ../../source/site/getinvolved/development/index.rst:90
 msgid ""
 "Since QGIS 2.0 further development will occur based on a timebased roadmap."
 msgstr "Vanaf QGIS 2.0 zal worden doorontwikkeld op basis van een tijdgebonden stappenplan."
 
-#: ../../source/site/getinvolved/development/index.rst:82
+#: ../../source/site/getinvolved/development/index.rst:92
 msgid "Odd version numbers (2.1, 2.3 etc) are development versions."
 msgstr "Oneven versienummers (2.1, 2.3 enz) zijn voor ontwikkelversies."
 
-#: ../../source/site/getinvolved/development/index.rst:96
+#: ../../source/site/getinvolved/development/index.rst:142
 msgid "Week"
 msgstr "Week"
 
-#: ../../source/site/getinvolved/development/index.rst:96
+#: ../../source/site/getinvolved/development/index.rst:142
 msgid "Date"
 msgstr "Datum"
 
-#: ../../source/site/getinvolved/development/index.rst:98
+#: ../../source/site/getinvolved/development/index.rst:144
 msgid "4"
 msgstr "4"
 
-#: ../../source/site/getinvolved/development/index.rst:98
+#: ../../source/site/getinvolved/development/index.rst:144
 msgid "24.01"
 msgstr "24-01"
 
-#: ../../source/site/getinvolved/development/index.rst:99
+#: ../../source/site/getinvolved/development/index.rst:145
 msgid "8"
 msgstr "8"
 
-#: ../../source/site/getinvolved/development/index.rst:99
+#: ../../source/site/getinvolved/development/index.rst:145
 msgid "21.02"
 msgstr "21-02"
 
-#: ../../source/site/getinvolved/development/index.rst:100
+#: ../../source/site/getinvolved/development/index.rst:146
 msgid "21"
 msgstr "21"
 
-#: ../../source/site/getinvolved/development/index.rst:100
+#: ../../source/site/getinvolved/development/index.rst:146
 msgid "23.05"
 msgstr "23-05"
 
-#: ../../source/site/getinvolved/development/index.rst:101
-msgid "25"
-msgstr "25"
-
-#: ../../source/site/getinvolved/development/index.rst:101
-msgid "20.06"
-msgstr "20-06"
-
-#: ../../source/site/getinvolved/development/index.rst:102
+#: ../../source/site/getinvolved/development/index.rst:148
 msgid "39"
 msgstr "39"
 
-#: ../../source/site/getinvolved/development/index.rst:102
+#: ../../source/site/getinvolved/development/index.rst:148
 msgid "26.09"
 msgstr "26-09"
 
-#: ../../source/site/getinvolved/development/index.rst:103
+#: ../../source/site/getinvolved/development/index.rst:149
 msgid "43"
 msgstr "43"
 
-#: ../../source/site/getinvolved/development/index.rst:103
+#: ../../source/site/getinvolved/development/index.rst:149
 msgid "24.10"
 msgstr "24-10"
 
-#: ../../source/site/getinvolved/development/index.rst:129
+#: ../../source/site/getinvolved/development/index.rst:181
 msgid "Plugin Development"
 msgstr "Plugin-ontwikkeling"
 
-#: ../../source/site/getinvolved/development/index.rst:131
+#: ../../source/site/getinvolved/development/index.rst:183
 msgid ""
 "QGIS has a plugin infrastructure. You can add a lot of new functionality by "
 "writing your own plugins."
 msgstr "QGIS bezit een plugin-infrastructuur. Je kunt veel functionaliteit toevoegen door je eigen plugins te schrijven."
 
-#: ../../source/site/getinvolved/development/index.rst:134
+#: ../../source/site/getinvolved/development/index.rst:186
 msgid "These plugins can either be written in C++ or in Python"
 msgstr "Deze plugins kunnen in cpp (c++) of Python worden geschreven"
 
-#: ../../source/site/getinvolved/development/index.rst:137
-msgid "Cpp plugin development"
-msgstr "Cpp plugin-ontwikkeling"
-
-#: ../../source/site/getinvolved/development/index.rst:139
-msgid ""
-"To learn how to write your first cpp plugin, please go here: :ref:`QGIS-cpp-"
-"plugin-development`"
-msgstr "Volg deze link om te leren hoe je een cpp-pluging maakt: :ref:`QGIS-cpp-plugin-deveopment`"
-
-#: ../../source/site/getinvolved/development/index.rst:141
+#: ../../source/site/getinvolved/development/index.rst:193
 msgid ""
 "Via a script you will generate a plugin stub which can be used further."
 msgstr "Met een script genereer je de plugin-basis van waaruit je verder ontwikkelt."
 
-#: ../../source/site/getinvolved/development/index.rst:146
+#: ../../source/site/getinvolved/development/index.rst:198
 msgid "Python plugin development"
 msgstr "Python plugin-ontwikkeling"
 
-#: ../../source/site/getinvolved/development/index.rst:152
+#: ../../source/site/getinvolved/development/index.rst:204
 msgid ""
 "Interested in python plugin development, go to :ref:`QGIS-python-plugin-"
 "development` or have a look into the :ref:`PyQGIS-Developer-Cookbook`."
 msgstr "Wil je python-plugins ontwikkelen, ga dan naar :ref:`QGIS-python-plugin-development` of kijk in het :ref:`PyQGIS-Developer-Cookbook`."
 
-#: ../../source/site/getinvolved/development/index.rst:155
+#: ../../source/site/getinvolved/development/index.rst:207
 msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
 msgstr "Zoek je voorbeelden van python-plugins, kijk dan op http://plugins.qgis.org"
 
-#: ../../source/site/getinvolved/development/index.rst:12
+#: ../../source/site/getinvolved/development/index.rst:13
 msgid "If you find a bug, please report it!"
 msgstr "Wanneer je een fout vindt rapporteer deze!"
 
-#: ../../source/site/getinvolved/development/index.rst:14
-msgid ""
-"You need an OSGeo account and login in order to submit bug reports. To get "
-"started, first create an OSGeo account. https://www2.osgeo.org/cgi-"
-"bin/ldap_create_user.py"
-msgstr "Je hebt een OSGeo account nodig en dient in te loggen om een fout te rapporteren. Maak, om te beginnen, eerst een OSGeo account aan. https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-
-#: ../../source/site/getinvolved/development/index.rst:17
-msgid ""
-"Once you have your account, use http://hub.qgis.org/projects/quantum-"
-"gis/issues to login and search if the issue you'd like to report is probably"
-" already entered."
-msgstr "Wanneer je een account hebt, log in via http://hub.qgis.org/projects/quantum-gis/issues en controleer of het gevonden probleem niet al geregistreerd is. "
-
-#: ../../source/site/getinvolved/development/index.rst:20
-msgid "Tickets"
-msgstr "Tickets"
-
-#: ../../source/site/getinvolved/development/index.rst:22
-msgid ""
-"Tickets are used to report bugs, request enhancements and submit patches. "
-"Redmine is more than a bug reporting system. Tickets can be associated with "
-"a  QGIS Milestone, allowing you to see progress towards completion. "
-"Completion of a Milestone not only requires closing bugs, but completing "
-"other tasks related to a release such as documentation, web site updates, "
-"packaging, and announcements."
-msgstr "Tickets worden gebruikt om fouten te melden, om verzoeken voor verbetering in te brengen en om patches in te dienen waarmee problemen worden opgelost. Redmine is meer dan alleen een fouten registratie-volg systeem. Elke ticket kan toegewezen worden aan een QGIS Mijlpaal (Milestone), waarmee je ook de voortgang kunt volgen tot die mijlpaal. Het bereiken van een mijlpaal houdt niet alleen het oplossen van fouten, maar ook het voltooien van andere taken zoals de documentatie en de website bijwerken, het maken van de installatiepakketten en de aankondigingen. "
-
-#: ../../source/site/getinvolved/development/index.rst:25
-msgid "Opening a Ticket"
-msgstr "Het inbrengen van een Ticket"
-
-#: ../../source/site/getinvolved/development/index.rst:28
-msgid "Before filing a bug"
-msgstr "Voor het registreren van een fout"
-
-#: ../../source/site/getinvolved/development/index.rst:30
+#: ../../source/site/getinvolved/development/index.rst:34
 msgid ""
 "Before filing a bug, review the currently open issues to make sure that you "
 "aren't creating a duplicate. If you have additional information on an issue,"
@@ -238,44 +165,35 @@ msgid ""
 "unrelated bugs in a single bug report."
 msgstr "Controleer, voordat u een fout gaat registreren, of deze niet al bestaat zodat een fout niet twee keer wordt geregistreerd. Wanneer u aanvullende informatie heeft voor een bestaande ticket kunt u die hieraan toevoegen. Plugins van derden kunnen ook leiden tot problemen. Wanneer u plugins geïnstalleerd, controleer of de fout zich ook voordoet zonder geïnstalleerde plugins. Breng niet meerdere fouten in op één ticket wanneer die niets met elkaar te maken hebben. "
 
-#: ../../source/site/getinvolved/development/index.rst:34
+#: ../../source/site/getinvolved/development/index.rst:38
 msgid "Plugin bugs"
 msgstr "Fouten in Plugins"
 
-#: ../../source/site/getinvolved/development/index.rst:36
-msgid ""
-"Plugin bugs must be opened in their respective bug tracking system. Check "
-"first if the plugin is listed at http://hub.qgis.org/projects/qgis-user-"
-"plugins/ If so, click on the plugin name then click \"New issue\". "
-"Otherwise, consult the plugin documentation to find the address of the "
-"relevant bug tracking system or a developer to contact."
-msgstr "Wanneer in een plugin een fout wordt gevonden dan moet deze worden ingebracht in het bug Tracking systeem van de plugin. Controleer eerst of de plugin bekend is op http://hub.qgis.org/projects/qgis-user-plugins. Wanneer bekend, klik op de naam van de plugin en klic vervolgens op \"New issue\". Wanneer de plugin niet bekend is, raadpleeg dan de documentatie om het adres te achterhalen van het bug tracking systeem of van de ontwikkelaar van de plugin."
-
-#: ../../source/site/getinvolved/development/index.rst:40
-msgid "Steps"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:42
-msgid ""
-"To report a bug choose New Issue from the menu bar. Note: You can also "
-"request an enhancement or submit a patch using the Ticket system."
-msgstr ""
-
 #: ../../source/site/getinvolved/development/index.rst:44
-msgid "Important information needed when opening a ticket:"
-msgstr ""
+msgid "Steps"
+msgstr "Stappen"
 
 #: ../../source/site/getinvolved/development/index.rst:46
 msgid ""
-"Tracker - choose the ticket type from the drop-down list: Bug, Feature (new "
-"feature request) or Bounty (ticket for which a bounty has been defined)"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:47
-msgid "Subject - a short description of the issue"
-msgstr ""
+"To report a bug choose New Issue from the menu bar. Note: You can also "
+"request an enhancement or submit a patch using the Ticket system."
+msgstr "Kies New Issue uit de menubalk om een probleem te rapporteren. Opmerking: U kunt ook een verbetering verzoeken of een patch indienen met behulp van het Ticketsysteem."
 
 #: ../../source/site/getinvolved/development/index.rst:48
+msgid "Important information needed when opening a ticket:"
+msgstr "Belangrijke informatie die nodig is bij het opneen van een ticket:"
+
+#: ../../source/site/getinvolved/development/index.rst:50
+msgid ""
+"Tracker - choose the ticket type from the drop-down list: Bug, Feature (new "
+"feature request) or Bounty (ticket for which a bounty has been defined)"
+msgstr "Tracker - kies het type ticket uit de keuzelijst: Bug, Feature (verzoek voor nieuwe mogelijkheid) of Bounty (ticket waarvoor een beloning is gedefinieerd)"
+
+#: ../../source/site/getinvolved/development/index.rst:51
+msgid "Subject - a short description of the issue"
+msgstr "Subject - een korte beschrijving van het probleem"
+
+#: ../../source/site/getinvolved/development/index.rst:52
 msgid ""
 "Description - Provide a full description of the problem including steps to "
 "repeat it; if you think the bug could be related to a certain platform "
@@ -287,9 +205,9 @@ msgid ""
 "which the developer can reproduce the bug. If you make that hard for the "
 "developer, chances are the bug will be given up on or ignored for quite a "
 "while."
-msgstr ""
+msgstr "Description - Geef een volledige beschrijving van het probleem inclusief de stappen om het te herhalen; als u denkt dat het probleem is gerelateerd aan een bepaalde platformversie of versie van pakket met afhankelijkheden (GDAL, OGR, GEOS etc) vermeld dat dan ook. Als uw QGIS crasht zou het handig zijn om een backtrace mee te sturen (zie hieronder).  Een zeer belangrijk ding bij het rapporteren van een probleem is het terugbrengen van het probleem tot een minimaal voorbeeld dat nodig is om het probleem te reproduceren. De kansen dat een probleem tijdig wordt behandeld is direct gerelateerd aan de snelheid waarmee de ontwikkelaar het probleem kan reproduceren. Als u dat moeilijk maakt voor de ontwikkelaar is de kans groot dat die het oplossen van het probleem opgeeft of gedurende langere tijd zal negeren."
 
-#: ../../source/site/getinvolved/development/index.rst:49
+#: ../../source/site/getinvolved/development/index.rst:53
 msgid ""
 "Priority - provide an estimate of the severity of the problem: Low (a "
 "problem which doesn't affect QGIS usefulness), Normal (the default value, "
@@ -297,40 +215,40 @@ msgid ""
 "has a major effect on the usability of a package), or Blocker (a bug that "
 "makes QGIS totally unusable, causes serious data loss or a regression from a"
 " previous QGIS version)"
-msgstr ""
+msgstr "Priority - geef een schatting van de ernst van het probleem: Low (een probleem dat de betrouwbaarheid van QGIS niet beïnvloed), Normal (de standaard waarde, toepasbaar voor de meeste problemen en nagenoeg alle verzoeken om verbetering), High (een probleem die een belangrijk effect heeft op de bruikbaarheid van een pakket), of Blocker (een probleem dat QGIS totaal onbruikbaar maakt, ernstig gegevensverlies veroorzaakt of een regressie uit een eerdere versie van QGIS)"
 
-#: ../../source/site/getinvolved/development/index.rst:50
+#: ../../source/site/getinvolved/development/index.rst:54
 msgid ""
 "Component - Choose the aspect of the application that is most closely "
 "associated with the problem"
-msgstr ""
+msgstr "Component - Kies welk aspect van de toepassing het meest is te associëren met het probleem"
 
-#: ../../source/site/getinvolved/development/index.rst:51
+#: ../../source/site/getinvolved/development/index.rst:55
 msgid ""
 "Milestone - If this issue affects a particular Milestone in the project "
 "choose it from the drop-down list"
-msgstr ""
+msgstr "Milestone - Als dit probleem een bepaalde Milestone in het project beïnvloedt, kies die uit de keuzelijst"
 
-#: ../../source/site/getinvolved/development/index.rst:52
+#: ../../source/site/getinvolved/development/index.rst:56
 msgid "Version - Version of QGIS this issue affects"
-msgstr ""
+msgstr "Version - Versie van QGIS dat dit probleem beïnvloedt"
 
-#: ../../source/site/getinvolved/development/index.rst:53
+#: ../../source/site/getinvolved/development/index.rst:57
 msgid "Platform - Choose the platform you are using"
-msgstr ""
+msgstr "Platform - Kies het platform dat u gebruikt"
 
-#: ../../source/site/getinvolved/development/index.rst:55
+#: ../../source/site/getinvolved/development/index.rst:59
 msgid ""
 "Before sending the bug, please check the formatting of your report by "
 "clicking on \"Preview\". Please avoid editing existing reports, if not for "
 "typos. Better add further comments in any other case."
-msgstr ""
+msgstr "Controleer de opmaak van uw rapport door te klikken op \"Preview\" vóór u het probleem verzendt. Vermijd het bewerken van bestaande rapporten, met uitzondering van typefouten. Voeg verder opmerkingen liever in een afzonderlijke aanvulling toe."
 
-#: ../../source/site/getinvolved/development/index.rst:58
+#: ../../source/site/getinvolved/development/index.rst:62
 msgid "Creating a backtrace"
-msgstr ""
+msgstr "Maken van een backtrace"
 
-#: ../../source/site/getinvolved/development/index.rst:60
+#: ../../source/site/getinvolved/development/index.rst:64
 msgid ""
 "If you have a crash it might be useful to include a backtrace as the bug "
 "might be not reproducible on an other machine. On Unix you can create a "
@@ -346,34 +264,25 @@ msgid ""
 "/path/to/the/qgis/binary core``. The binary is usually ``/usr/bin/qgis`` or "
 "``/usr/bin/qgis.bin`` on Debian with the GRASS plugin installed. In ``gdb`` "
 "you run ``bt`` which will produce the backtrace."
-msgstr ""
+msgstr "Als u een crash heeft is het misschien handig om een backtrace op te nemen omdat het probleem misschien niet te reproduceren is op een andere machine. Op Unix kunt u een backtrace makenmet behulp van een core dump en gdb. Een core dump is een geheugendump van de status van het proces toen de crash gebeurde. Afhankelijk van uw distributie kan het automatisch maken van core dumps zijn uitgeschakeld. In dat geval ziet u bijvoorbeeld alleen Segmentation fault en niet ``Segmentation fault (core dumped)`` in de shell waaruit u QGIS startte en moet u ``ulimit -c unlimited``  uitvoeren voor het starten van QGIS. U zou dat ook kunnen opnemen in uw ``.profile``. Start qgis vanuit de shell en herhaal de stappen om de crash te reproduceren. Na de crash zal het core-bestand zijn opgeslagen in de huidige map.  Start ``gdb /path/to/the/qgis/binary core`` om er een backtrace van te produceren. De binary is gewoonlijk ``/usr/bin/qgis`` of ``/usr/bin/qgis.bin`` op Debian met de plug-in GRASS geïnstalleerd. In ``gdb`` voert u ``bt`` uit dat de backtrace zal produceren."
 
-#: ../../source/site/getinvolved/development/index.rst:67
+#: ../../source/site/getinvolved/development/index.rst:71
 msgid "Log output on Windows"
-msgstr ""
+msgstr "Log uitvoer op Windows"
 
-#: ../../source/site/getinvolved/development/index.rst:70
-msgid ""
-"The nightly build in `OSGeo4W <http://trac.osgeo.org/osgeo4w>`_ (package "
-"qgis-dev) is built with debugging output, that you can view with `DebugView "
-"<http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx>`_.  If the "
-"problem is not easy to reproduce the output might shed some light about "
-"where QGIS crashes."
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:73
+#: ../../source/site/getinvolved/development/index.rst:81
 msgid "Creating a patch"
-msgstr ""
+msgstr "Een patch maken"
 
-#: ../../source/site/getinvolved/development/index.rst:75
+#: ../../source/site/getinvolved/development/index.rst:83
 msgid "To be done"
-msgstr ""
+msgstr "Nog te doen"
 
-#: ../../source/site/getinvolved/development/index.rst:84
+#: ../../source/site/getinvolved/development/index.rst:94
 msgid "Even version numbers (2.2, 2.4 etc) are release versions."
-msgstr ""
+msgstr "Even versienummers (2.2, 2.4 etc) zijn uitgaveversies."
 
-#: ../../source/site/getinvolved/development/index.rst:86
+#: ../../source/site/getinvolved/development/index.rst:96
 msgid ""
 "Release will happen every four month.  In the first three month new "
 "development is taking place.  Then a feature freeze is invoked and the final"
@@ -381,49 +290,316 @@ msgid ""
 "  When the release happens, a branch with a even release number is created "
 "and the master branch advances to the next odd version.  After the release a"
 " call for packaging is issued."
-msgstr ""
+msgstr "Elke vier maanden zal er een uitgave zijn.  In de eerste drie maanden vind nieuwe ontwikkeling plaats.  Dan wordt een bevriezing van de mogelijkheden ingevoerd en de laatste maand wordt gebruikt voor het testen, oplossen van problemen, vertalen en voorbereidingen voor de uitgave.  Bij de uitgave wordt een tak met een even uitgavenummer gemaakt en de hoofdtak promoveert naar de volgende oneven versie.  Na de uitgave wordt een oproep uitgegeven voor het maken van de pakketten."
 
-#: ../../source/site/getinvolved/development/index.rst:93
+#: ../../source/site/getinvolved/development/index.rst:139
 msgid "Following is the schedule for 2014"
-msgstr ""
+msgstr "Hieronder volgt het schema voor 2014"
 
-#: ../../source/site/getinvolved/development/index.rst:96
+#: ../../source/site/getinvolved/development/index.rst:142
 msgid "Event"
-msgstr ""
+msgstr "Gebeurtenis"
 
-#: ../../source/site/getinvolved/development/index.rst:98
+#: ../../source/site/getinvolved/development/index.rst:144
 msgid "2.1 freeze begins"
-msgstr ""
+msgstr "2.1 freeze begint"
 
-#: ../../source/site/getinvolved/development/index.rst:99
+#: ../../source/site/getinvolved/development/index.rst:145
 msgid "2.2 is released"
-msgstr ""
+msgstr "2.2 wordt uitgegeven"
 
-#: ../../source/site/getinvolved/development/index.rst:100
+#: ../../source/site/getinvolved/development/index.rst:146
 msgid "2.3 freeze begins"
-msgstr ""
+msgstr "2.3 freeze begint"
 
-#: ../../source/site/getinvolved/development/index.rst:101
+#: ../../source/site/getinvolved/development/index.rst:147
 msgid "2.4 is released"
-msgstr ""
+msgstr "2.4 wordt uitgegeven"
 
-#: ../../source/site/getinvolved/development/index.rst:102
+#: ../../source/site/getinvolved/development/index.rst:148
 msgid "2.5 freeze begins"
-msgstr ""
+msgstr "2.5 freeze begint"
 
-#: ../../source/site/getinvolved/development/index.rst:103
+#: ../../source/site/getinvolved/development/index.rst:149
 msgid "2.6 is released"
-msgstr ""
+msgstr "2.6 wordt uitgegeven"
+
+#: ../../source/site/getinvolved/development/index.rst:15
+msgid ""
+"You need an OSGeo account and login in order to submit bug reports. To get "
+"started, first create `Create an OSGeo4 account <https://www.osgeo.org/cgi-"
+"bin/ldap_create_user.py>`_."
+msgstr "U heeft een account voor OSGeo nodig en moet inloggen om problemen te kunnen rapporteren. Maak, om te beginnen,, eerst een `Create an OSGeo4 account <https://www.osgeo.org/cgi-bin/ldap_create_user.py>`_ aan."
+
+#: ../../source/site/getinvolved/development/index.rst:19
+msgid ""
+"Once you have your account, use `QGIS issue tracking "
+"<http://hub.qgis.org/projects/quantum-gis/issues>`_ to search if the issue "
+"you'd like to report is probably already entered."
+msgstr "Wanneer je een account hebt, gebruik dan `QGIS issue tracking http://hub.qgis.org/projects/quantum-gis/issues`_ om te controleren of het probleem dat u wilt rapporteren niet al is geregistreerd. "
+
+#: ../../source/site/getinvolved/development/index.rst:24
+msgid "Issues"
+msgstr "Problemen"
+
+#: ../../source/site/getinvolved/development/index.rst:26
+msgid ""
+"Issues are used to report bugs, request enhancements and submit patches. "
+"Redmine is more than a bug reporting system. Issues can be associated with a"
+" QGIS Milestone, allowing you to see progress towards completion. Completion"
+" of a Milestone not only requires closing bugs, but completing other tasks "
+"related to a release such as documentation, web site updates, packaging, and"
+" announcements."
+msgstr "Tickets worden gebruikt om problemen te melden, om verzoeken voor verbetering in te brengen en om patches in te dienen. Redmine is meer dan alleen een volgsysteem voor problemen. Elk ticket kan toegewezen worden aan een QGIS Mijlpaal (Milestone), waarmee je ook de voortgang kunt volgen tot het voltooien. Voltooien van een mijlpaal houdt niet alleen het oplossen van problemen in, maar ook het voltooien van andere taken die zijn gerelateerd aan een uitgave, zoals de documentatie en het bijwerken van de website, het maken van de installatiepakketten en de aankondigingen. "
+
+#: ../../source/site/getinvolved/development/index.rst:29
+msgid "Filing an Issue"
+msgstr "Indien van een probleem"
+
+#: ../../source/site/getinvolved/development/index.rst:32
+msgid "Before reporting a bug"
+msgstr "Vóór het rapporteren van een probleem"
+
+#: ../../source/site/getinvolved/development/index.rst:40
+msgid ""
+"Plugin bugs must be opened in their respective bug tracking system. Check "
+"first if the plugin is listed in the `plugin overview "
+"<http://hub.qgis.org/projects/qgis-user-plugins/>`_. If so, click on the "
+"plugin name then click \"New issue\". Otherwise, consult the plugin "
+"documentation to find the address of the relevant bug tracking system or a "
+"developer to contact."
+msgstr "Problemen in een plug-in moeten worden ingebracht in hun respectievelijke volgsysteem voor problemen. Controleer eerst of de plug-in bekend is op `plugin overview http://hub.qgis.org/projects/qgis-user-plugins`_. Als dat zo is, klik dan op de naam van de plug-in en klik vervolgens op \"New issue\". Raadpleeg anders de documentatie van de plug-in om het adres te achterhalen van het volgsysteem voor problemen of van de ontwikkelaar om contact met hem op te nemen."
+
+#: ../../source/site/getinvolved/development/index.rst:73
+msgid ""
+"The nightly build in OSGeo4W_ (package qgis-dev) is built with debugging "
+"output, that you can view with DebugView_.  If the problem is not easy to "
+"reproduce the output might shed some light about where QGIS crashes."
+msgstr "De nachtelijke build in OSGeo4W_ (package qgis-dev) wordt gebouwd met uitvoer als debuggen, die u kunt bekijken met DebugView_.  Als het probleem niet eenvoudig is te reproduceren zou de uitvoer misschien enig licht kunnen schijnen over waar QGIS crasht."
+
+#: ../../source/site/getinvolved/development/index.rst:104
+msgid "Development phase"
+msgstr "Ontwikkelingsfase"
 
 #: ../../source/site/getinvolved/development/index.rst:106
-msgid "Only in case of real problems a point release (eg 2.0.1) will occur."
-msgstr ""
+msgid ""
+"In the development phase developers work on adding new features for the next"
+" release. Early adopters can use the nightly builds we have for all major "
+"platforms to see the development progress, do preliminary testing and "
+"provide bug reports and their thoughts to help with development."
+msgstr "In de ontwikkelingsfase werken ontwikkelaars aan het toevoegen van nieuwe mogelijkheden voor de volgende uitgave. vroege deelnemers kunnen de nachtelijke builds, die we voor alle belangrijke platformen hebben, gebruiken om de voortgang van de ontwikkeling te bekijken, vroege testen te doen en rapporten voor problemen indienen en hun gedachten delen om met de ontwikkeling te helpen."
 
 #: ../../source/site/getinvolved/development/index.rst:112
+msgid "Feature freeze"
+msgstr "Bevriezing"
+
+#: ../../source/site/getinvolved/development/index.rst:114
 msgid ""
-"See "
-"http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html"
-msgstr ""
+"In the feature freeze phase new features are not allowed in anymore and the "
+"focus of everyone moves from enhancing QGIS to stablizing it.  This also "
+"turns the nightly builds effectively into :ref:`prereleases <QGIS-"
+"prereleases>`."
+msgstr "In de fase bevriezing worden nieuwe mogelijkheden niet meer toegestaan en de focus van iedereen verplaatst zich van het verbeteren van QGIS naar het stabiliseren ervan.  Dit wijzigt ook effectief de nachtelijke builds naar :ref:`prereleases <QGIS-pre-uitgaven>`."
+
+#: ../../source/site/getinvolved/development/index.rst:118
+msgid ""
+"**Users** should start extensive testing of these prereleases in their "
+"environment to verify that there are no issues, they wouldn't want to see in"
+" the upcoming release.  All such issues should be reported (see `Bugs, "
+"Features and Issues`_).  Everything that goes unnoticed, will also end up in"
+" the next release.  Only in case of serious problems a point release (eg "
+"2.4.1) will occur.  Therefore testing of the prereleases and reporting "
+"issues is very important."
+msgstr "**Gebruikers** zouden moeten beginnen met uitgebreid testen van deze pre-uitgaven in hun omgeving om te verifiëren dat er geen problemen zijn, die zij in de komende uitgave niet terug zouden willen zien.  Dergelijke problemen zouden allemaal moeten worden gerapporteerd (zie `Bugs, Features and Issues`_).  Alles wat niet wordt opgemerkt zal ook in de volgende uitgave zitten.  Alleen in geval van serieuze problemen zal een punt-uitgave (bijv 2.4.1) plaatsvinden.  Daarom is het testen van de pre-uitgaven en het rapporteren van problemen bijzonder belangrijk."
+
+#: ../../source/site/getinvolved/development/index.rst:126
+msgid ""
+"In the feature freeze **Developers** monitor the hub and start working on "
+"fixing the reported issues."
+msgstr "In de fase Bevriezing monitoren  **Ontwikkelaars** de hub en beginnen met het herstellen van de gerapporteerde problemen."
+
+#: ../../source/site/getinvolved/development/index.rst:129
+msgid ""
+"With the begin of the feature freeze the translation files will be updated "
+"so that **translators** can start their work. Note that this might be an "
+"incremental process as although the features are frozen, bug fixes might "
+"still introduce translation string changes."
+msgstr "Aan het begin van de bevriezing zullen de te vertalen bestanden worden bijgewerkt zodat **vertalers** hun werk kunnen beginnen. Onthoud dat dit een voortdurend proces kan zijn omdat, hoewel de mogelijkheden zijn bevroren, oplossingen van problemen nog steeds wijzigingen zouden kunnen opleveren in te vertalen tekenreeksen."
+
+#: ../../source/site/getinvolved/development/index.rst:137
+msgid "Release schedule"
+msgstr "Uitgaveschema"
+
+#: ../../source/site/getinvolved/development/index.rst:155
+msgid "Location of prereleases / nightly builds"
+msgstr "Locatie van pre-uitgaven / nachtelijke builds"
+
+#: ../../source/site/getinvolved/development/index.rst:158
+msgid "Platform"
+msgstr "Platform"
+
+#: ../../source/site/getinvolved/development/index.rst:158
+msgid "Location"
+msgstr "Locatie"
+
+#: ../../source/site/getinvolved/development/index.rst:160
+msgid "Windows"
+msgstr "Windows"
+
+#: ../../source/site/getinvolved/development/index.rst:160
+msgid ""
+":ref:`Weekly release candidate <QGIS-windows-weekly>` (standalone installer)"
+msgstr ":ref:`Weekly release candidate <QGIS-windows-weekly>` (standalone installer)"
+
+#: ../../source/site/getinvolved/development/index.rst:161
+#: ../../source/site/getinvolved/development/index.rst:163
+msgid "\\"
+msgstr "\\"
+
+#: ../../source/site/getinvolved/development/index.rst:161
+msgid ":ref:`OSGeo4W <QGIS-windows-testing>`"
+msgstr ":ref:`OSGeo4W <QGIS-windows-testing>`"
+
+#: ../../source/site/getinvolved/development/index.rst:162
+msgid "Linux"
+msgstr "Linux"
+
+#: ../../source/site/getinvolved/development/index.rst:162
+msgid ":ref:`Debian <QGIS-debian-testing>`"
+msgstr ":ref:`Debian <QGIS-debian-testing>`"
+
+#: ../../source/site/getinvolved/development/index.rst:163
+msgid ":ref:`Ubuntu <QGIS-ubuntu-testing>`"
+msgstr ":ref:`Ubuntu <QGIS-ubuntu-testing>`"
+
+#: ../../source/site/getinvolved/development/index.rst:164
+msgid "MacOS"
+msgstr "MacOS"
+
+#: ../../source/site/getinvolved/development/index.rst:164
+msgid ":ref:`Mac OS <QGIS-macos-testing>`"
+msgstr ":ref:`Mac OS <QGIS-macos-testing>`"
+
+#: ../../source/site/getinvolved/development/index.rst:171
+msgid "See INSTALL_"
+msgstr "Zie INSTALL_"
+
+#: ../../source/site/getinvolved/development/index.rst:175
+msgid "API Documentation"
+msgstr "API-documentatie"
+
+#: ../../source/site/getinvolved/development/index.rst:177
+msgid "There is `API documentation <http://qgis.org/api/>`_ for C++."
+msgstr "Er is `API documentation <http://qgis.org/api/>`_ voor C++."
+
+#: ../../source/site/getinvolved/development/index.rst:189
+msgid "C++ plugin development"
+msgstr "C++ plug-in ontwikkeling"
+
+#: ../../source/site/getinvolved/development/index.rst:191
+msgid ""
+"To learn how to write your first C++ plugin, please go here: :ref:`QGIS-cpp-"
+"plugin-development`"
+msgstr "Kijk hier: :ref:`QGIS-cpp-plugin-development` om te leren hoe u zelf uw eerste plug-in in C++ schrijft."
+
+#: ../../source/site/getinvolved/development/index.rst:147
+msgid "26"
+msgstr "26"
+
+#: ../../source/site/getinvolved/development/index.rst:147
+msgid "27.06"
+msgstr "27.06"
+
+#: ../../source/site/getinvolved/development/index.rst:220
+msgid "Adding GRASS tools"
+msgstr "GRASS-gereedschappen toevoegen"
+
+#: ../../source/site/getinvolved/development/index.rst:222
+msgid ":ref:`adding-grass-tools`"
+msgstr ":ref:`adding-grass-tools`"
+
+#~ msgid "25"
+#~ msgstr ""
+
+#~ msgid "20.06"
+#~ msgstr ""
+
+#~ msgid "Api Documentation"
+#~ msgstr ""
+
+#~ msgid "You can find the API documentation for cpp here:"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/api/ (for QGIS testing)"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/api/2.0/ (for QGIS 2.0)"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/api/1.8/ (for QGIS 1.8)"
+#~ msgstr ""
+
+#~ msgid "Cpp plugin development"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To learn how to write your first cpp plugin, please go here: :ref:`QGIS-cpp-"
+#~ "plugin-development`"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You need an OSGeo account and login in order to submit bug reports. To get "
+#~ "started, first create an OSGeo account. https://www2.osgeo.org/cgi-"
+#~ "bin/ldap_create_user.py"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Once you have your account, use http://hub.qgis.org/projects/quantum-"
+#~ "gis/issues to login and search if the issue you'd like to report is probably"
+#~ " already entered."
+#~ msgstr ""
+
+#~ msgid "Tickets"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Tickets are used to report bugs, request enhancements and submit patches. "
+#~ "Redmine is more than a bug reporting system. Tickets can be associated with "
+#~ "a  QGIS Milestone, allowing you to see progress towards completion. "
+#~ "Completion of a Milestone not only requires closing bugs, but completing "
+#~ "other tasks related to a release such as documentation, web site updates, "
+#~ "packaging, and announcements."
+#~ msgstr ""
+
+#~ msgid "Opening a Ticket"
+#~ msgstr ""
+
+#~ msgid "Before filing a bug"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Plugin bugs must be opened in their respective bug tracking system. Check "
+#~ "first if the plugin is listed at http://hub.qgis.org/projects/qgis-user-"
+#~ "plugins/ If so, click on the plugin name then click \"New issue\". "
+#~ "Otherwise, consult the plugin documentation to find the address of the "
+#~ "relevant bug tracking system or a developer to contact."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The nightly build in `OSGeo4W <http://trac.osgeo.org/osgeo4w>`_ (package "
+#~ "qgis-dev) is built with debugging output, that you can view with `DebugView "
+#~ "<http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx>`_.  If the "
+#~ "problem is not easy to reproduce the output might shed some light about "
+#~ "where QGIS crashes."
+#~ msgstr ""
+
+#~ msgid "Only in case of real problems a point release (eg 2.0.1) will occur."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "See "
+#~ "http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "If you find a bug, please read `our hints on issueing bugs "

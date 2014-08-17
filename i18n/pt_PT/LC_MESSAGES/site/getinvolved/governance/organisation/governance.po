@@ -1,15 +1,15 @@
 # 
 # Translators:
-# AlexandreNeto <senhor.neto@gmail.com>, 2013
-# João Gaspar <joao.f.r.gaspar@gmail.com>, 2013
-# jgrocha <jgr@di.uminho.pt>, 2013
+# Alexandre Neto <senhor.neto@gmail.com>, 2013
+# João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
+# Jorge Rocha <jgr@di.uminho.pt>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-10-13 19:13+0000\n"
-"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
+"PO-Revision-Date: 2014-08-08 07:44+0000\n"
+"Last-Translator: João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -47,26 +47,6 @@ msgstr "Marco Hugentobler (Technical Advisor)"
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:17
 msgid "Tim Sutton (Testing/QA Manager)"
 msgstr "Tim Sutton (Testing/QA Manager)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:18
-msgid "Otto Dassau (Community Advisor)"
-msgstr "Otto Dassau (Community Advisor)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:19
-msgid "Paolo Cavallini (Financial and Marketing Advisor)"
-msgstr "Paolo Cavallini (Financial and Marketing Advisor)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:20
-msgid "Anita Graser (Design Advisor)"
-msgstr "Anita Graser (Design Advisor)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:21
-msgid "Richard Duivenvoorde (Infrastructure Manager)"
-msgstr "Richard Duivenvoord (Gestor da Infraestrutura)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:22
-msgid "Jürgen Fischer (Release Manager)"
-msgstr "Jürgen Fischer (Release Manager)"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:24
 msgid "Read more about the responsibilities of the PSC :ref:`here <psc>`"
@@ -284,10 +264,6 @@ msgstr "Processing Toolbox (SEXTANTE): Victor Olaya <volayaf[at]gmail.com>"
 msgid "Topology plugin: Vinayan Parameswaran <vinayan123[at]gmail.com>"
 msgstr "Topology plugin: Vinayan Parameswaran <vinayan123[at]gmail.com>"
 
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:129
-msgid "Community Resources¶"
-msgstr "Recursos da comunidade"
-
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:131
 msgid "Current Community Team Lead: Otto Dassau <dassau[at]gbd-consult.de>"
 msgstr "Current Community Team Lead: Otto Dassau <dassau[at]gbd-consult.de>"
@@ -370,3 +346,45 @@ msgid ""
 "recognised as Project Committers and have full commit access to the `github "
 "repository <https://github.com/qgis/QGIS>`_."
 msgstr "Estes `indivíduos <https://github.com/qgis/QGIS/graphs/contributors>`_ são conhecidos como Comissários do Projecto e têm completo acesso ao `repositório github <https://github.com/qgis/QGIS>`_."
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:129
+msgid "Community Resources"
+msgstr "Recursos da Comunidade"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:18
+msgid "Otto Dassau (Community Advisor) [since June 2007]"
+msgstr "Otto Dassau (Conselheiro da Comunidade) [desde Junho de 2007]"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:19
+msgid "Paolo Cavallini (Financial and Marketing Advisor) [since January 2008]"
+msgstr "Paolo Cavallini (Conselheiro Financeiro e Marketing) [desde Janeiro de 2008]"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:20
+msgid "Anita Graser (Design Advisor) [since September 2013]"
+msgstr "Anita Graser (Conselheira no Design) [desde Setembro de 2013]"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:21
+msgid "Richard Duivenvoorde (Infrastructure Manager) [since September 2013]"
+msgstr "Richard Duivenvoord (Gestor da Infraestrutura) [desde Setembro de 2013]"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:22
+msgid "Jürgen Fischer (Release Manager) [since September 2013]"
+msgstr "Jürgen Fischer (Gestor de Lançamentos) [desde Setembro de 2013]"
+
+#~ msgid "Otto Dassau (Community Advisor)"
+#~ msgstr ""
+
+#~ msgid "Paolo Cavallini (Financial and Marketing Advisor)"
+#~ msgstr ""
+
+#~ msgid "Anita Graser (Design Advisor)"
+#~ msgstr ""
+
+#~ msgid "Richard Duivenvoorde (Infrastructure Manager)"
+#~ msgstr ""
+
+#~ msgid "Jürgen Fischer (Release Manager)"
+#~ msgstr ""
+
+#~ msgid "Community Resources¶"
+#~ msgstr ""

@@ -1,13 +1,15 @@
 # 
 # Translators:
-# João Gaspar <joao.f.r.gaspar@gmail.com>, 2013
+# Brenda Galdino <brendatgaldinor@gmail.com>, 2014
+# Brenda Galdino <brendatgaldinor@gmail.com>, 2014
+# João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-13 04:23+0000\n"
-"Last-Translator: Narcélio de Sá <narceliosapereira@gmail.com>\n"
+"PO-Revision-Date: 2014-07-08 19:38+0000\n"
+"Last-Translator: Brenda Galdino <brendatgaldinor@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +19,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:4
 msgid "Creating the Fundy Footpath Trail Map with QGIS"
-msgstr "Criando o Mapa de Trilhos do Fundy Footpath com QGIS"
+msgstr "Criando o Mapa de Trilhas do Fundy Footpath com QGIS"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:11
 msgid ""
@@ -29,7 +31,7 @@ msgid ""
 "The Footpath takes hikers through the coastal Acadian Forest, home to the "
 "world’s highest tides, old growth forests, and several rare and unique types"
 " of flora and fauna."
-msgstr "O `Fundy Footpath <http://fundyfootpath.info/>` _ é um trilho de caminhada no meio selvagem localizado ao longo da costa Fundy de New Brunswick, no Canadá. É um membro fundador da `Reserva da Biosfera UNESCO de Fundy <http://fundy-biosphere.ca/en/about-us/the-reserve>` _ e filiado no `Conselho de Trilhos Inc. de NB <http:// www.sentiernbtrail.com/> `_ e os Trilhos Trans Canada. O passeio leva os caminhantes através da floresta costeira acadiana, lar das marés mais altas do mundo, florestas primárias, e vários tipos raros e únicos de flora e fauna."
+msgstr "O `Fundy Footpath <http://fundyfootpath.info/>` _ é uma trilha de caminhadas no meio selvagem localizada ao longo da costa Fundy de New Brunswick, no Canadá. É um membro fundador da `Reserva da Biosfera UNESCO de Fundy <http://fundy-biosphere.ca/en/about-us/the-reserve>` _ e filiado no `Conselho de Trilhos Inc. de NB <http:// www.sentiernbtrail.com/> `_ e os Trilhos Trans Canada. O passeio leva os caminhantes através da floresta costeira acadiana, lar das marés mais altas do mundo, florestas primárias, e vários tipos raros e únicos de flora e fauna."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:13
 msgid ""
@@ -42,25 +44,25 @@ msgid ""
 "editing data and for final map layout. Through the efforts of myself and "
 "members of the FHTA the new official map of the Fundy Footpath included with"
 " the guidebook was created from start to finish with QGIS."
-msgstr "O trilho foi criado, e é mantido e promovido por um grupo de voluntários conhecido como a Associação Fundy de Trilhos e Caminhadas Inc. (AFTC) (1975). Como uma organização sem fins lucrativos AFTC recolhe os seus fundos para as actividades através da venda de guias que incluem um mapa do trilho. Em 2011, eu abordei a AFTC para me voluntariar na actualização do mapa oficial do trilho. Como voluntário criar um mapa para uma organização sem fins lucrativos com Quantum GIS (QGIS) foi ideal tanto como uma ferramenta de edição de dados e como para a produção final do mapa. Através dos meus esforços e dos membros da AFTC o novo mapa oficial do Trilho de Fundy foi criado do início ao fim com QGIS e incluído com o guia."
+msgstr "A trilha foi criada, e é mantida e promovida por um grupo de voluntários conhecido como a Associação Fundy de Trilhos e Caminhadas Inc. (AFTC) (1975). Como uma organização sem fins lucrativos AFTC recolhe os seus fundos para as atividades através da venda de guias que incluem um mapa da trilha. Em 2011, eu abordei a AFTC para me voluntariar na atualização do mapa oficial da trilha. Como voluntário, criar um mapa para uma organização sem fins lucrativos com Quantum GIS (QGIS) foi ideal tanto como uma ferramenta de edição de dados como para a produção final do mapa. Através dos meus esforços e dos membros da AFTC, o novo mapa oficial da Trilha de Fundy foi criado do início ao fim com QGIS e incluído com o guia."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:20
 msgid "QGIS GPS Tools Plugin for data collection"
-msgstr "Extensão QGIS de Ferramentas  GPS para recolha de dados"
+msgstr "Extensão QGIS de Ferramentas  GPS para coleta de dados"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:23
 msgid "The Project"
-msgstr "O Projecto"
+msgstr "O Projeto"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:25
 msgid ""
 "The process of creating the new Fundy Footpath map with QGIS can be broken "
 "down into three different parts:"
-msgstr "O processo de criação do novo mapa do FUndy Footpath com o QGIS pode ser dividido em três diferentes partes:"
+msgstr "O processo de criação do novo mapa do Fundy Footpath com o QGIS pode ser dividido em três diferentes partes:"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:27
 msgid "Data collection."
-msgstr "Recolha de dados."
+msgstr "Coleta de dados."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:28
 msgid "Data editing and preparation."
@@ -81,7 +83,7 @@ msgid ""
 "<http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-"
 "54CD-8349-C95E-1A4D03172FDF>`_ website and from `Service New Brunswick (SNB)"
 " online <http://www.snb.ca/gdam-igec/e/2900e_1.asp>`_."
-msgstr "Os dados foram recolhidos usando GPS portáteis e diversas fontes de dados livres. Os dados dos trilhos (por exemplo, trilha central, locais de acampamento, e travessias de maré) foram recolhidos com um Garmin GPSMap 60CSX. Estes dados foram então transferidos do GPS em formato shapefile para o QGIS usando a extensão do GPS. Os dados gratuitos em formatos vectoriais foram obtidos a partir do sítio de internet `Recursos Naturais do Canadá (RNCan) CanVec <http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF>`_ e do `Serviço New Brunswick (SNB) on-line <http://www.snb.ca/gdam-igec/e/2900e_1.asp>` _."
+msgstr "Os dados foram coletados usando GPS portáteis e diversas fontes de dados livres. Os dados das trilhas (por exemplo, trilha central, locais de acampamento, e travessias de maré) foram coletados com um Garmin GPSMap 60CSX. Estes dados foram então transferidos do GPS em formato shapefile para o QGIS usando a extensão do GPS. Os dados gratuitos em formatos vetoriais foram obtidos a partir do sítio de internet `Recursos Naturais do Canadá (RNCan) CanVec <http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF>`_ e do `Serviço New Brunswick (SNB) on-line <http://www.snb.ca/gdam-igec/e/2900e_1.asp>` _."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:39
 msgid "Creation of the footpath map in QGIS"
@@ -95,13 +97,13 @@ msgstr "Para preparar os dados na versão final do mapa as seguintes ferramentas
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:43
 msgid "The data collected with GPS was cleaned using the editing toolbar."
-msgstr "Os dados recolhidos com o GPS foram corrigidos usando a barra de ferramentas de edição."
+msgstr "Os dados coletados com o GPS foram corrigidos usando a barra de ferramentas de edição."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:44
 msgid ""
 "The vector data obtained from NRCan and SNB was merged together, queried, "
 "and clipped for the final map area using the vector tools."
-msgstr "A informação vectorial através do NRCan e SNB foi junta, interrogada e cortada para o mapa final da área usando ferramentas vectoriais."
+msgstr "A informação vetorial através do NRCan e SNB foi junta, interrogada e cortada para o mapa final da área usando ferramentas vetoriais."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:45
 msgid ""
@@ -110,7 +112,7 @@ msgid ""
 "was used to create an elevation raster that was then used to create a "
 "hillshade raster and elevation contour layer with the GDAL raster tools "
 "plugin."
-msgstr "O ficheiro separado por vírgulas obtido do SNB foi importado para o QGIS como uma camada de pontos usando a extensão Adicionar Camadada Delimitada por Texto, a extensão de Interpolação foi usada para criar um raster de elevação que foi usado para criar um raster de sombreamento e para criar a camada de curvas de nível  com a extensão de ferramentas raster do GDAL."
+msgstr "O arquivo separado por vírgulas obtido do SNB foi importado para o QGIS como uma camada de pontos usando a extensão Adicionar Camada Delimitada por Texto, a extensão de Interpolação foi usada para criar um raster de elevação que foi usado para criar um raster de sombreamento e para criar a camada de curvas de nível  com a extensão de ferramentas raster do GDAL."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:52
 msgid "Footpath map in the Print Composer"
@@ -127,7 +129,7 @@ msgid ""
 "arrow and elevation profile in the print composer. Two layouts were created "
 "since it was to be a double-sided map. Once both layouts were created they "
 "were exported as PDF files and sent to the printers."
-msgstr "Uma vez obtidos os dados necessários para criar o mapa foi montado num formato utilizável a criação do mapa final foi iniciado. Para criar os dados do mapa de caminhadas foi simbolizado e rotulados com a caixa de diálogo Propriedades de simbolização e rotulados com a extensão de rótulo muito funcional do QGIS. Uma vez que os rótulos e simbolização estavam no local a ferramenta compositor do mapa foi executado para criar o layout. Foi muito fácil de adicionar elementos úteis no mapa, como por exemplo uma seta de norte personalizada e perfil de elevação no compositor de impressão. Dois layouts foram criados, uma vez que era para ser um mapa de duas páginas. Uma vez que ambos os layouts foram criados, eles foram exportados como arquivos PDF e enviados para as impressoras."
+msgstr "Uma vez obtidos os dados necessários para criar o mapa foram montados num formato utilizável, a criação do mapa final foi iniciada. Para criar os dados do mapa de caminhadas foi simbolizado e rotulado com a caixa de diálogo Propriedades de simbolização e rotulados com a Extensão de rótulo muito funcional do QGIS. Uma vez que os rótulos e simbolização estavam no local, a ferramenta Compositor do mapa foi executada para criar o layout. Foi muito fácil adicionar elementos úteis no mapa, como por exemplo uma seta de norte personalizada e perfil de elevação no compositor de impressão. Dois layouts foram criados, uma vez que era para ser um mapa de duas páginas. Uma vez criados os layouts , eles foram exportados como arquivos PDF e enviados para as impressoras."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:57
 msgid "Conclusion"
@@ -143,11 +145,11 @@ msgid ""
 "had all of the functionality and tools required to create a highly useful "
 "and detailed hiking map from start to finish. I would highly recommend QGIS "
 "to both experienced and beginning GIS users alike."
-msgstr "O mapa de caminhadas foi impresso em papel à prova de água, dobrado e inserido na parte de trás da nova edição do Guia do Trilho de Fundy Footpath. O QGIS foi a melhor e mais funcional escolha para a criação deste mapa. Sendo software livre o preço estava certo para um voluntário criar um mapa para uma organização sem fins lucrativos. Mas a verdadeira vantagem do QGIS foi que ela tinha todas as funcionalidades e ferramentas necessárias para criar um mapa de caminhadas muito útil e detalhado do início ao fim. Eu recomendo QGIS tanto para os utilizadores de SIG principiantes ou experientes e afins.O mapa de caminhadas foi impresso em papel à prova de água, dobrado e inserido na parte de trás da nova edição do Guia do Trilho de Fundy Footpath. O Quantum GIS foi a melhor e mais funcional escolha para a criação deste mapa. Sendo software livre o preço estava certo para um voluntário criar um mapa para uma organização sem fins lucrativos. Mas a verdadeira vantagem do QGIS foi que ela tinha todas as funcionalidades e ferramentas necessárias para criar um mapa de caminhadas muito útil e detalhado do início ao fim. Eu recomendo QGIS tanto para os utilizadores de SIG principiantes ou experientes e afins."
+msgstr "O mapa de caminhadas foi impresso em papel à prova de água, dobrado e inserido na parte de trás da nova edição do Guia da Trilhoa de Fundy Footpath. O QGIS foi a melhor e mais funcional escolha para a criação deste mapa. Por ser um software livre, é o ideal para um voluntário criar um mapa para uma organização sem fins lucrativos. Mas a verdadeira vantagem do QGIS foi que ele tinha todas as funcionalidades e ferramentas necessárias para criar um mapa de caminhadas muito útil e detalhado do início ao fim. Eu recomendo QGIS tanto para os utilizadores de SIG principiantes ou experientes e afins.O mapa de caminhadas foi impresso em papel à prova de água, dobrado e inserido na parte de trás da nova edição do Guia do Trilho de Fundy Footpath. O Quantum GIS foi a melhor e mais funcional escolha para a criação deste mapa. Sendo software livre o preço estava certo para um voluntário criar um mapa para uma organização sem fins lucrativos. Mas a verdadeira vantagem do QGIS foi que ela tinha todas as funcionalidades e ferramentas necessárias para criar um mapa de caminhadas muito útil e detalhado do início ao fim. Eu recomendo QGIS tanto para os utilizadores de SIG principiantes ou experientes e afins."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:66
 msgid "The final Fundy Footpath map with accompanying guidebook"
-msgstr "O mapa final Fundy Footpath acompanhado com um guia"
+msgstr "O mapa final Fundy Footpath vem acompanhado com um guia"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:69
 msgid "Author"
@@ -161,7 +163,7 @@ msgstr "A contribuição deste artigo foi feita por Jarrett Totton em Janeiro de
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:79
 msgid "Websites:"
-msgstr "Sítios na Internet:"
+msgstr "Sites na Internet:"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:81
 msgid "http://fundyfootpath.info/"

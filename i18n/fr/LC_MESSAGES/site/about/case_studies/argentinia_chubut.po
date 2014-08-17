@@ -1,14 +1,15 @@
 # 
 # Translators:
-# DelazJ <delazj@gmail.com>, 2013
-# DelazJ <delazj@gmail.com>, 2014
+# Sant-anna <delazj@gmail.com>, 2013
+# MarieSilvestre <marie.silvestre@gmail.com>, 2014
+# Sant-anna <delazj@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-03-14 21:21+0000\n"
-"Last-Translator: DelazJ <delazj@gmail.com>\n"
+"PO-Revision-Date: 2014-07-29 09:38+0000\n"
+"Last-Translator: MarieSilvestre <marie.silvestre@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +19,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:3
 msgid "QGIS at high school"
-msgstr ""
+msgstr "QGIS au lycée"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:5
 msgid ""
@@ -59,7 +60,7 @@ msgid ""
 " in the implementation of a GIS as tool to optimize and enhance the "
 "management of spatial information, and to provide a support to the decision "
 "making process."
-msgstr ""
+msgstr "L'objectif principal de ce projet était d'étudier avec des élèves de terminale (12th grade) l'implémentation d'un outil SIG pour optimiser et améliorer la gestion de l'information géographique et fournir un appui au processus de prise de décision."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:18
 msgid "**Specific objectives:**"
@@ -70,7 +71,7 @@ msgid ""
 "Student´s appropriation of a local issue (the Rada Tilly´s green areas "
 "related the 9m2 by inhabitant proposed by WHO) from a geographical "
 "perspective through GIS tools."
-msgstr ""
+msgstr "L'appropriation par les élèves d'une problématique locale (les espaces verts de Rada Tilly en comparaison avec la recommandation de l'OMS de 9m² par habitant) d'un point de vue géographique à travers l'utilisation d'outils SIG."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:21
 msgid ""
@@ -81,7 +82,7 @@ msgstr "Utilisation du SIG comme outil technique de validation d'hypothèses soc
 msgid ""
 "Verification of the viability of capture, processing, storage, analysis, "
 "recovery and updating of spatial data using a FOSS QuantumGIS."
-msgstr ""
+msgstr "Vérification de la faisabilité de la saisie, le traitement, le stockage, l'analyse et la mise à jour de données en utilisant le logiciel libre QGIS."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:24
 msgid "**Methodology:**"
@@ -112,7 +113,7 @@ msgid ""
 "Vector digitizing of urban cadastral blocks and the tree´s canopies, using a"
 " Google Earth (GeoEye) image. In order to consider the amount inhabitants by"
 " cadastral block, we assigned an average value of 4 inhabitants by plot."
-msgstr ""
+msgstr "Numérisation des parcelles cadastrales urbaines et des zones forestières en utilisant des images Google Earth (GeoEye). Afin de calculer le nombre d'habitants par parcelle cadastrale, nous avons assigné une valeur de 4 habitants par parcelle."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:32
 msgid "Results presentation through thematic cartography."
@@ -120,7 +121,7 @@ msgstr "Présentation des résultats à travers des cartes thématiques"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:39
 msgid "Attribute table of “blocks” vector layer"
-msgstr ""
+msgstr "Table d'attributs de la couche vectorielle de parcelles"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:42
 msgid "Conclusion"

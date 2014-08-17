@@ -1,13 +1,13 @@
 # 
 # Translators:
 # BelenMP <Beln1@hotmail.com>, 2014
-# drgalindog <drgalindog@linuxmail.org>, 2013
+# Diana Galindo <drgalindog@linuxmail.org>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-13 09:45+0000\n"
+"PO-Revision-Date: 2014-05-28 15:57+0000\n"
 "Last-Translator: BelenMP <Beln1@hotmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr "Aquí recopilamos las respuestas a las preguntas más frecuentes."
 msgid ""
 "We will start of with this one page, maybe restructure it into sections, or "
 "even more pages if needed"
-msgstr ""
+msgstr "Empezaremos con esta única página, quizá reestructurarla en secciones, o incluso más páginas si es necesario"
 
 #: ../../source/site/getinvolved/faq/index.rst:12
 msgid "User"
@@ -86,13 +86,6 @@ msgstr "Desarrollo"
 msgid "Can I compile QGIS myself on Windows?"
 msgstr "¿Puedo compilar yo mismo QGIS en Windows?"
 
-#: ../../source/site/getinvolved/faq/index.rst:59
-#: ../../source/site/getinvolved/faq/index.rst:65
-#: ../../source/site/getinvolved/faq/index.rst:71
-msgid ""
-"Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
-msgstr "Sí, por favor lee: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
-
 #: ../../source/site/getinvolved/faq/index.rst:63
 msgid "Can I compile QGIS myself on MacOS?"
 msgstr "¿Puedo compilar yo mismo QGIS en MacOS?"
@@ -129,13 +122,23 @@ msgstr "Sí, puedes... PERO dependiendo de tu Sistema Operativo, es más o menos
 
 #: ../../source/site/getinvolved/faq/index.rst:48
 msgid "If you use the OSGeo4w 64 bit installer, it is included."
-msgstr ""
+msgstr "Si utilizas el instalador de 64 bits OSGeo4w, está incluido."
 
 #: ../../source/site/getinvolved/faq/index.rst:50
 msgid ""
 "For other instructions, eg look here: http://www.faunalia.com/content"
 "/adding-ecw-support-quantum-gis"
 msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:59
+#: ../../source/site/getinvolved/faq/index.rst:65
+#: ../../source/site/getinvolved/faq/index.rst:71
+msgid "Yes, please read: INSTALL_"
+msgstr "Sí, por favor lee: INSTALL_ "
+
+#~ msgid ""
+#~ "Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
+#~ msgstr ""
 
 #~ msgid "QGIS error on your machine. How to ask a question?"
 #~ msgstr ""

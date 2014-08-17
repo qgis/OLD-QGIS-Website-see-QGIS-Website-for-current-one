@@ -1,13 +1,13 @@
 # 
 # Translators:
-# João Gaspar <joao.f.r.gaspar@gmail.com>, 2013
+# João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-09-24 21:32+0000\n"
-"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
+"PO-Revision-Date: 2014-05-25 17:48+0000\n"
+"Last-Translator: João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,19 +18,6 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:3
 msgid "Reimbursements for Developer Meetings"
 msgstr "Reembolsos dos Encontros de Programadores"
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:5
-msgid ""
-"The Quantum GIS project holds twice-yearly developer meetings, typically "
-"somewhere in Europe. The purpose of the meetings is to provide face-to-face "
-"time for developers. It is a forum for presenting new ideas, planning, "
-"putting heads together to solve problems and so on. We use funding from our "
-":doc:`../sponsorship/index` to facilitate the event, with co-funding from "
-"the host who usually supplies the venue and the infrastructure for hosting "
-"the meeting. Individual developers also co-fund the event by donating their "
-"time and in many cases financially supporting their visit to the meeting "
-"directly."
-msgstr "O projecto Quantum GIS assegura duas vezes por ano encontros de programadores, tipicamente algures na Europa. O propósito destes encontros é disponibilizar encontros cara-a-cara com os programadores. É um forúm para apresentar novas ideias, planear, usar a cabeça juntos para resolver problemas entre outros. Nós usamos fundos do nosso :doc:`../sponsorship/index` para facilitar o evento, com o co-financiamento do anfitrião que usualmente fornece o local e a infraestrutura para sediar a reunião. Programadores individuais também co-financiam o evento através da doção do seu tempo e em vários casos com suporte financeiro da sua visita directamente para o encontro."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:14
 msgid ""
@@ -125,14 +112,6 @@ msgid ""
 "accommodation."
 msgstr "O pedido deve incluir despesas de viagem e acomodação."
 
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:59
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:76
-msgid ""
-"The requestor should provide copies of reciepts for all expenditures as soon"
-" as possible after the event. No refunds should be made without accompanying"
-" receipts."
-msgstr "O solicitador deve fornecer cópias dos recibos de todas as despesas assim que possível antes depois do evento, Não serão feitos reembolsos sem recibos."
-
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:65
 msgid "Procedure for funding applications - new developers"
 msgstr "Procedimento para financiamento de aplicações - novos programadores"
@@ -154,3 +133,42 @@ msgid ""
 "The request should include a **workplan** outlining how the developer plans "
 "to make use of their time at the meeting."
 msgstr "O pedido deve conter um **plano de trabalho** descrevendo como o programador planeia usar o seu tempo no encontro."
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:5
+msgid ""
+"The QGIS project holds twice-yearly developer meetings, typically somewhere "
+"in Europe. The purpose of the meetings is to provide face-to-face time for "
+"developers. It is a forum for presenting new ideas, planning, putting heads "
+"together to solve problems and so on. We use funding from our "
+":doc:`../sponsorship/index` to facilitate the event, with co-funding from "
+"the host who usually supplies the venue and the infrastructure for hosting "
+"the meeting. Individual developers also co-fund the event by donating their "
+"time and in many cases financially supporting their visit to the meeting "
+"directly."
+msgstr "O projecto QGIS assegura duas vezes por ano encontros de programadores, tipicamente algures na Europa. O propósito destes encontros é disponibilizar encontros cara-a-cara com os programadores. É um forúm para apresentar novas ideias, planear, usar a cabeça juntos para resolver problemas entre outros. Nós usamos fundos do nosso :doc:`../sponsorship/index` para facilitar o evento, com o co-financiamento do anfitrião que usualmente fornece o local e a infraestrutura para sediar a reunião. Programadores individuais também co-financiam o evento através da doação do seu tempo e em vários casos com suporte financeiro da sua visita directamente para o encontro."
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:59
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:76
+msgid ""
+"The requestor should provide copies of receipts for all expenditures as soon"
+" as possible after the event. No refunds should be made without accompanying"
+" receipts."
+msgstr "O solicitador deve fornecer cópias dos recibos de todas as despesas assim que possível antes depois do evento, Não serão feitos reembolsos sem recibos."
+
+#~ msgid ""
+#~ "The Quantum GIS project holds twice-yearly developer meetings, typically "
+#~ "somewhere in Europe. The purpose of the meetings is to provide face-to-face "
+#~ "time for developers. It is a forum for presenting new ideas, planning, "
+#~ "putting heads together to solve problems and so on. We use funding from our "
+#~ ":doc:`../sponsorship/index` to facilitate the event, with co-funding from "
+#~ "the host who usually supplies the venue and the infrastructure for hosting "
+#~ "the meeting. Individual developers also co-fund the event by donating their "
+#~ "time and in many cases financially supporting their visit to the meeting "
+#~ "directly."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The requestor should provide copies of reciepts for all expenditures as soon"
+#~ " as possible after the event. No refunds should be made without accompanying"
+#~ " receipts."
+#~ msgstr ""

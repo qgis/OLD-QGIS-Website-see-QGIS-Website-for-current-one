@@ -1,18 +1,18 @@
 # 
 # Translators:
-# BJ Jang <qgis.tr.kr@gmail.com>, 2013
+# BJ Jang <qgis.tr.kr@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-10-02 05:30+0000\n"
+"PO-Revision-Date: 2014-05-26 02:25+0000\n"
 "Last-Translator: BJ Jang <qgis.tr.kr@gmail.com>\n"
-"Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/qgis-website/language/ko_KR/)\n"
+"Language-Team: Korean (http://www.transifex.com/projects/p/qgis-website/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ko_KR\n"
+"Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:5
@@ -80,14 +80,6 @@ msgstr "두 가지의 재정적인 기여 방법이 있습니다. 우리는 다�
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:45
 msgid "Sponsorship"
 msgstr "후원자"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
-msgid ""
-"Sponsors can sponsor Quantum GIS for any amount of money of at least 500 "
-"€/700 US$. Sponsorships last one year, after which they may be continued "
-"with a new payment, or allowed to lapse. At or above the following levels a "
-"sponsor will be designated as being one of the following class:"
-msgstr "후원자는 500 €/700 US$ 이상의 어떤 금액이라도 QGIS에 지원하실 수 있습니다. 후원자 자격은 1년 동안 지속됩니다. 이후에는 계속적으로 다시 후원금을 보내주셔야 하며 그렇지 않으면 자격을 상실합니다. 다음 수준 혹은 그 이상의 후원은 다음 클래스 중 하나로 지정됩니다:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "euros"
@@ -170,10 +162,6 @@ msgstr "만약 큰 금액을기부해주시겠다면, PayPal 보다는 은행계
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:73
 msgid "What is your benefit sponsoring the QGIS Development?"
 msgstr "후원시의 사용자 이득은 무엇인가?"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
-msgid "Sponsoring the Quantum GIS project provides the following benefits:"
-msgstr "QGIS 프로젝트를 후원하는 것에는 다음과 같은 이득이 있습니다:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:77
 msgid "Ensures the sustainability and health of the QGIS project."
@@ -301,3 +289,25 @@ msgid ""
 "at: cavallini at faunalia dot it (+39-348-3801953) with questions, or to "
 "make arrangements."
 msgstr "QGIS 프로젝트 후원에 관심이 있는 기관이나 개인은 질문이나 계약을 위해 **QGIS PSC 금융 및 마케팅 자문**, Paolo Cavallini에게 연락 바랍니다. 연락처: cavallini @ faunalia . it (+39-348-3801953)"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
+msgid ""
+"Sponsors can sponsor QGIS for any amount of money of at least 500 €/700 US$."
+" Sponsorships last one year, after which they may be continued with a new "
+"payment, or allowed to lapse. At or above the following levels a sponsor "
+"will be designated as being one of the following class:"
+msgstr "후원자는 500 €/700 US$ 이상의 금액을 어떤 금액이라도 후원하실 수 있습니다. 스폰서쉽은 1년간 지속되며, 이후에는 새로 지불함으로써 연장될 수 있고, 아니면 자격이 상실될 수 있습니다. 다음 수준에 따라 스폰서는 다음 등급 중 하나로 지정됩니다:"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
+msgid "Sponsoring the QGIS project provides the following benefits:"
+msgstr "QGIS 프로젝트를 지원하는 것은 다음과 같은 이익을 제공합니다:"
+
+#~ msgid ""
+#~ "Sponsors can sponsor Quantum GIS for any amount of money of at least 500 "
+#~ "€/700 US$. Sponsorships last one year, after which they may be continued "
+#~ "with a new payment, or allowed to lapse. At or above the following levels a "
+#~ "sponsor will be designated as being one of the following class:"
+#~ msgstr ""
+
+#~ msgid "Sponsoring the Quantum GIS project provides the following benefits:"
+#~ msgstr ""

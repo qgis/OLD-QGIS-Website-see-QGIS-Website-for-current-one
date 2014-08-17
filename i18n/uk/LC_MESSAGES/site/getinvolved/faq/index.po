@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-04-15 13:20+0000\n"
+"PO-Revision-Date: 2014-06-01 08:43+0000\n"
 "Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
@@ -84,13 +84,6 @@ msgstr "Розробнику"
 msgid "Can I compile QGIS myself on Windows?"
 msgstr "Чи можу я зкомпілювати QGIS самостійно на Windows?"
 
-#: ../../source/site/getinvolved/faq/index.rst:59
-#: ../../source/site/getinvolved/faq/index.rst:65
-#: ../../source/site/getinvolved/faq/index.rst:71
-msgid ""
-"Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
-msgstr "Так. Будь ласка, прочитайте https://github.com/qgis/Quantum-GIS/blob/master/INSTALL."
-
 #: ../../source/site/getinvolved/faq/index.rst:63
 msgid "Can I compile QGIS myself on MacOS?"
 msgstr "Чи можу я зкомпілювати QGIS самостійно на MacOS?"
@@ -134,6 +127,16 @@ msgid ""
 "For other instructions, eg look here: http://www.faunalia.com/content"
 "/adding-ecw-support-quantum-gis"
 msgstr "У всіх інших випадках ознайомтесь з цим документом http://www.faunalia.com/content/adding-ecw-support-quantum-gis."
+
+#: ../../source/site/getinvolved/faq/index.rst:59
+#: ../../source/site/getinvolved/faq/index.rst:65
+#: ../../source/site/getinvolved/faq/index.rst:71
+msgid "Yes, please read: INSTALL_"
+msgstr "Так. Будь-ласка, прочитайте INSTALL_"
+
+#~ msgid ""
+#~ "Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
+#~ msgstr ""
 
 #~ msgid "QGIS error on your machine. How to ask a question?"
 #~ msgstr ""

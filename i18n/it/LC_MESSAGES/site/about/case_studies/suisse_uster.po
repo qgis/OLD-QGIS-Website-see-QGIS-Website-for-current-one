@@ -1,12 +1,14 @@
 # 
 # Translators:
+# Flavio Rigolon <flavio.rigolon@gmail.com>, 2014
+# Luca M. <luca76@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-17 14:49+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2014-06-09 13:30+0000\n"
+"Last-Translator: Flavio Rigolon <flavio.rigolon@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +18,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:3
 msgid "The use of QGIS in the Geodata Infrastructure of the City of Uster"
-msgstr ""
+msgstr "L'uso di QGIS nella città di Uster"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:5
 msgid ""
@@ -27,7 +29,7 @@ msgid ""
 "new features and by financially supporting the development. In return Uster "
 "receives a rapidly evolving and platform independent Desktop GIS and WebGIS "
 "solution backed by a worldwide user and development community."
-msgstr ""
+msgstr "La città di Uster utilizza QGIS dal 2007. Incoraggiata dalla decisione del Cantone di Soletta di usare QGIS come sostituto di ArcView, la città di Uster ha deciso di fare una prova. La città si è unita allo sforzo per lo sviluppo di QGIS, proponendo e testando nuove funzionalità e sostenendo finanziariamente lo sviluppo. In cambio Uster riceve un software GIS in rapida evoluzione e multi-piattaforma, comprendente un WebGIS sostenuta da una comunità mondiale."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
@@ -42,7 +44,7 @@ msgid ""
 "(University of Berne)) we coordinate and sponsor the improvements of these "
 "tools, along with some improvements in data driven symbolization, automated "
 "labeling, attribute handling and forms."
-msgstr ""
+msgstr "PostGIS / PostgreSQL è usato come database spaziale centrale. Altri database e fonti di dati vengono replicati in PostgreSQL a intervalli regolari, utilizzando strumenti come OGR e FME. In principio QGIS stato utilizzato principalmente come visualizzatore. Il primo utente QGIS era un contadino che aveva il compito di vigilare le dichiarazioni rilasciate da agricoltori locali per ricevere i sussidi agricoli. Più tardi, in QGIS è stato introdotto anche un editor di dati e una piattaforma per la pubblicazione di mappe, insieme con i miglioramenti agli strumenti di editing e al compositore di stampa. Insieme con altri utenti QGIS svizzeri (Solothurn, Thun e CDE (Università di Berna)), coordiniamo e sponsorizziamo i miglioramenti di questi strumenti, e alcuni perfezionamenti neila simbologia, nell'etichettatura automatica, nella gestione degli attributi e dei moduli."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
@@ -52,7 +54,7 @@ msgid ""
 "electricity networks. However, these are expert systems in use by specially "
 "trained staff. All other GIS projects and the viewing of all data is handled"
 " by QGIS."
-msgstr ""
+msgstr "L'amministrazione comunale utilizza anche software commerciale: Autodesk Topobase, per la cattura e la modifica dei dati catastali e delle infrastrutture delle acque reflue, e GE Smallworld per la gestione di gas, acqua e reti elettriche. Tuttavia, questi sono sistemi complessi in uso da parte di personale specializzato. Tutti gli altri progetti di GIS e la visualizzazione di tutti i dati sono gestiti da QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:21
 msgid ""
@@ -65,61 +67,61 @@ msgid ""
 "rich set of symbolization and labeling options and the consistent map "
 "rendering between the Desktop GIS application and the Web-GIS. The QGIS "
 "webclient can be tested and used at http://gis.uster.ch/"
-msgstr ""
+msgstr "Nella seconda metà del 2010, vengono effettuati i primi test con il server QGIS. Nel 2011 abbiamo introdotto un nuovo sistema WebGIS basato sul server QGIS Server e GeoExt/OpenLayers come client web. I motivi principali per la decisione di utilizzare il server QGIS sono stati i notevoli risparmi di tempo resi possibili riutilizzando i progetti QGIS esistenti, piuttosto che dover gestire i progetti Web in parallelo. Ulteriori vantaggi sono il ricco set di opzioni di simbolizzazione e l'etichettatura e la mappa resa coerente tra l'applicazione desktop e Web-GIS. Il WebClient QGIS può essere testato e utilizzato su http://gis.uster.ch/"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:28
 msgid "Today, QGIS is used for the following GIS projects:"
-msgstr ""
+msgstr "Oggi, QGIS viene usato per i seguenti progetti GIS:"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:30
 msgid ""
 "viewing of waste-water data, integration of additional databases and direct "
 "access to canal videos and inspection protocols"
-msgstr ""
+msgstr "visualizzazione dei dati delle acque reflue, l'integrazione di banche dati complementari e l'accesso diretto ai video del canale e protocolli di ispezione"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:31
 msgid ""
 "viewing and editing for monitoring and the environmental and urban planning "
 "of the waste water and hydrology systems (german: Genereller "
 "Entwässerungsplan)"
-msgstr ""
+msgstr "visualizzazione e la modifica per il monitoraggio e la pianificazione ambientale e urbanistica delle acque reflue e dei sistemi idrologici (in tedesco: Genereller Entwässerungsplan)"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:32
 msgid ""
 "viewing of underground cadastral data (waste water, water, gas and "
 "electricity networks, later also telecommunication) (german: "
 "Leitungskataster)"
-msgstr ""
+msgstr "visualizzazione dei dati catastali sotterranee (reti di acque reflue, acqua, gas ed elettricità, in seguito anche di telecomunicazione) (tedesco: Leitungskataster)"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:33
 msgid "viewing of cadastral and survey data"
-msgstr ""
+msgstr "visualizzazione dei catastali e dati di rilievo"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:34
 msgid ""
 "viewing and editing of the communal inventory of protected natural sites"
-msgstr ""
+msgstr "visualizzazione e modifica dell'inventario comunale di siti naturali protetti"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:35
 msgid "viewing and editing of urban and regional planning data"
-msgstr ""
+msgstr "visualizzazione e modifica dei dati di pianificazione urbana e regionale"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:36
 msgid "viewing and editing of road infrastructure data"
-msgstr ""
+msgstr "visualizzazione e modifica dei dati delle infrastrutture stradali"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:37
 msgid ""
 "viewing statistics generated directly from the database of current and past "
 "residents"
-msgstr ""
+msgstr "visualizzazione delle statistiche generate direttamente dal database di residenti attuali e passati"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:39
 msgid ""
 "Planning and visualization for energy planning (gas supply regions, heat use"
 " from waste water, near-surface geothermal energy, block heating stations, "
 "etc.) Additional further projects are currently under development."
-msgstr ""
+msgstr "Progettazione e visualizzazione per la pianificazione energetica (regioni di approvvigionamento del gas, l'uso del calore dalle acque di scarico, in prossimità della superficie di energia geotermica, centrali di riscaldamento a blocchi, ecc). Inoltre ulteriori progetti sono attualmente in fase di sviluppo."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:47
 msgid ""
@@ -132,7 +134,7 @@ msgid ""
 "product management or sales team. The developers of these two companies are "
 "also lead developers of the QGIS project and have excellent knowledge of the"
 " code base."
-msgstr ""
+msgstr "Nel 2007 non era del tutto chiaro a quale ritmo QGIS sarebbe stato sviluppato e di come si sarebbero evoluti la comunità e il supporto commerciale. Oggi si può affermare che la velocità di sviluppo e le migliorie apportate dalla comunità QGIS superato le nostre aspettative. La comunità e supporto commerciale delle aziende Sourcepole e Norbit è eccellente. C'è una comunicazione diretta con gli sviluppatori, senza essere schermato via da una gestione del prodotto o team di vendita. Gli sviluppatori di queste due società stanno anche portare sviluppatori del progetto QGIS ed avere un'ottima conoscenza della base di codice."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:49
 msgid ""
@@ -145,18 +147,18 @@ msgid ""
 " having to deal with licensing management. We are looking forward to future "
 "collaboration with the QGIS community and our commercial supporters for the "
 "advancement of the QGIS project."
-msgstr ""
+msgstr "I bug sono spesso risolti entro poche ore o giorni dopo la segnalazione e nuovi sviluppi sono implementati in un breve lasso di tempo. Le nuove caratteristiche possono essere testati immediatamente dopo lo sviluppo e distribuiti agli utenti ogni volta che la qualità è abbastanza buona per l'utente finale. Non c'è bisogno di aspettare per i rilasci software ufficiali. Ci godiamo la libertà di essere in grado di influenzare il progetto e di installare il software su tutti i computer che vogliamo, senza avere a che fare con la gestione delle licenze. Siamo lieti per la futura collaborazione con la comunità QGIS ed i nostri fornitori commerciali per lo sviluppo del progetto QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:52
 msgid "Author"
-msgstr ""
+msgstr "Autore"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:59
 msgid "Andreas Neumann"
-msgstr ""
+msgstr "Andreas Neumann"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:61
 msgid ""
 "This article was contributed in April 2011 by Dr. Andreas Neumann. He is GIS"
 " coordinator at the City of Uster, Switzerland."
-msgstr ""
+msgstr "Questo articolo è stato scritto nel mese di aprile del 2011 dal Dott. Andreas Neumann. È coordinatore GIS presso la città di Uster, Svizzera."

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Luca M. <luca76@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-17 14:49+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2014-06-17 10:19+0000\n"
+"Last-Translator: Luca M. <luca76@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:3
 msgid "QGIS and Forest Fire Risk Mapping in Portugal"
-msgstr ""
+msgstr "QGIS e la mappatura del rischio dell'ncendio boschivo in Portogallo"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:5
 msgid ""
@@ -26,7 +27,7 @@ msgid ""
 " a few years ago, to create technical offices allocated to local governments"
 " which, among other skills, must prepare Municipal Plans for Forest Fire "
 "Protection and Operational Response."
-msgstr ""
+msgstr "Il Portogallo è stato colpito da grandi incendi che causano perdite enormi, non solo ambientali, ma anche economiche e sociali. Per far fronte a questo rischio, il governo portoghese, attraverso l'Autorità National Forest (AFN), ha deciso, qualche anno fa, per creare uffici tecnici assegnati ai governi locali che, tra le altre competenze, devono preparare piani comunali per la protezione dagli incendi boschivi e la risposta operativa ."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:7
 msgid ""
@@ -38,7 +39,7 @@ msgid ""
 "local administrations and so, it was decided to create and make available a "
 "guide with a methodology for developing Hazard and Risk cartography using "
 "only Free and Open Source Software [http://goo.gl/TSv2E]."
-msgstr ""
+msgstr "Al fine di sostenere l'elaborazione di questi documenti, l'AFN ha fornito guide tecniche di una metodologia per il calcolo e la mappatura del rischio dell'ncendio boschivo. Inoltre, sono stati offerti corsi per seguire questa metodologia, utilizzando software proprietario. Tuttavia, i costi di acquisizione e di licenza di questo software sono inaccessibili per la maggior parte delle piccole amministrazioni locali e così, si è deciso di creare e mettere a disposizione una guida con una metodologia per lo sviluppo della cartografia del rischio e pericolo utilizzando solo Software Open Source e libero [http://goo.gl/TSv2E]."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:9
 msgid ""
@@ -50,7 +51,7 @@ msgid ""
 "developed with GRASS. gvSIG was used for network analysis, with its Network "
 "Analysis extension, and GDAL/OGR libraries were used for transformations "
 "between coordinate reference systems."
-msgstr ""
+msgstr "È stato proposto di utilizzare la seguente serie di software: QGIS, GRASS GIS, gvSIG e librerie GDAL/OGR. Tale guida descrive tutte le operazioni di geoprocessing necessarie per l'elaborazione dei piani, secondo la metodologia AFN. Una gran parte dei compiti sono stati sviluppati con QGIS, e l'analisi spaziale nel modello raster è stato sviluppato con GRASS. gvSIG è stato utilizzato per l'analisi di rete, con la sua estensione Network Analysis, e le librerie GDAL/OGR sono state utilizzate per trasformazioni tra sistemi di coordinate di riferimento."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:11
 msgid ""
@@ -62,13 +63,13 @@ msgid ""
 "the relative simplicity of the conceptual model, its predictive ability is "
 "quite good, and that the model implementation in Open Source Software does "
 "not interfere negatively with the results, quite the opposite."
-msgstr ""
+msgstr "Con una suite completa di test della metodologia e tre anni di loro reale applicazione nella preparazione del Piano Operativo per il comune di Pinhel, si può dire che le alternative proposte permettono di sostituire, con molti vantaggi, software proprietario che di solito è utilizzato per svolgere questo compito. La validità dei risultati dimostra che, nonostante la relativa semplicità del modello concettuale, la sua capacità predittiva è abbastanza buona, e che l'implementazione del modello Open Source Software non interferisce negativamente con i risultati."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:23
 msgid ""
 "Forest Fire Hazard and Risk Maps of Pinhel, implemented with Open Source "
 "Software."
-msgstr ""
+msgstr "Mappa del rischio nei Pirenei, fatta con Software Open Source."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:25
 msgid ""
@@ -81,13 +82,13 @@ msgid ""
 "Forest Defense Plans, for just a few minutes, in which the human "
 "intervention boils down to the selection of input data and the indication of"
 " the place where we intend to keep the output data."
-msgstr ""
+msgstr "In una seconda fase, si è cercato di accelerare questo processo, utilizzando modelli per stabilire un flusso di lavoro che eseguono una vasta serie di attività, quasi senza intervento umano. Questa seconda fase consisteva essenzialmente nella automazione di tutta la procedura descritta nella Guida pratica risultante dalla prima fase. Tale automazione potrebbe comportare una riduzione di alcune ore di lavoro da parte del tecnico che intende produrre annualmente i piani di difesa forestale, a pochi minuti, in cui l'intervento umano si riduce alla selezione dei dati di ingresso e l'indicazione il luogo in cui intendiamo avere i dati in uscita."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:32
 msgid ""
 "Interface of the Sextante Model to calculate the Probability of the Forest "
 "Fire Hazard."
-msgstr ""
+msgstr "Interfaccia del modello Sextante per calcolare la probabilità del rischio di incendi."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:34
 msgid ""
@@ -100,13 +101,13 @@ msgid ""
 "advantage of the modules offered by any of those softwares which aggregates."
 " So, we've created a model to automate the process of producing Forest Fire "
 "Hazard and Risk maps, using GRASS, SAGA, fTools and MMQGIS tools."
-msgstr ""
+msgstr "Nel perseguimento di questa seconda fase, abbiamo utilizzato la versione di Python del software Sextante, che è integrato in QGIS e aggiunge una vasta gamma di applicazioni indipendenti (GRASS GIS, SAGA GIS, OTB, R, GDAL / OGR, Pymorph, LASTools, scrips Python, ecc.) in un'unica interfaccia che fornisce un enorme strumento di geoprocessing per gli utenti QGIS. Oltre l'integrazione di queste applicazioni in QGIS, Sextante dispone di uno strumento per la creazione di modelli, approfittando dei moduli offerti da uno qualsiasi di questi software che aggrega. Quindi, abbiamo creato un modello per automatizzare il processo di produzione forestale Incendio e mappe del rischio, utilizzando GRASS, SAGA, fTools e strumenti MMQGIS."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:41
 msgid ""
 "Part of the model developed for automation of the production of cartography "
 "for Forest Fire Hazard and Risk."
-msgstr ""
+msgstr "Parte del modello sviluppato per l'automazione della produzione di cartografia."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:43
 msgid ""
@@ -121,11 +122,11 @@ msgid ""
 "Upon completion of the second phase and the realization of a sufficient set "
 "of tests that can validate the results obtained, it is our intention to "
 "provide the model free and openly."
-msgstr ""
+msgstr "I risultati ottenuti finora sono molto promettenti, come già può essere raggiunto automaticamente la creazione delle mappe del rischio [2]. Tenendo conto che la versione di Python di Sextante è ancora molto recente ed è in lavorazione, ci sono alcuni problemi che devono essere corretti in modo che i modelli possono essere completati, questo certamente accadrà molto presto, dato lo sviluppo del progetto Sextante. Nel futuro abbiamo intenzione di applicare, anche automaticamente, la simbologia dei risultati, oltre a fornire i layout finali con QGIS Composer, pronti per l'esportazione e/o stampare. Al termine della seconda fase e di un insieme sufficiente di verifiche, è nostra intenzione di condividere a tutti il nostro modello."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:46
 msgid "Conclusions"
-msgstr ""
+msgstr "In conclusione"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:48
 msgid ""
@@ -140,7 +141,7 @@ msgid ""
 "Hazard and Risk cartography using, exclusively, Open Source Software is "
 "fully consolidated, after several years of testing and application in the "
 "municipality of Pinhel."
-msgstr ""
+msgstr "Le alternative prese in esame si sono rivelate di enorme qualità, permettendo tutte le operazioni consigliate nelle guide tecniche dell'Autorità National Forest, in molti modi, più efficientemente rispetto al software proprietario. In termini di facilità di utilizzo, è stato osservato che questo tipo di software non è, in alcun modo, più complesso del software proprietario, che richiede una conoscenza solo più tecnica dei modelli e degli algoritmi implementati che, tuttavia, consentono un grado di libertà più alto, rendendo possibile esplorare e mettere a punto i modelli ad ogni situazione particolare. Il processo di produzione della mappa forestale degli Incendi e della cartografia dei rischi utilizzando, esclusivamente, Open Source Software è completato, dopo diversi anni di sperimentazione e di applicazione nel comune di Pinhel."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:50
 msgid ""
@@ -154,15 +155,15 @@ msgid ""
 "FOSS4G solution, and whose project is more dynamic, with rapid correction of"
 " bugs and with almost daily implementation of new plugins that adds specific"
 " functionalities to the most diverse areas of activities."
-msgstr ""
+msgstr "Il fatto che il software Open Source è basato su standard e supporta la maggior parte dei formati di dati aperti, permette la completa interoperabilità tra software, che consente all'utente di optare per lo strumento più adatto in ogni momento. Nonostante la nostra proposta che riguarda un insieme specifico di software, nulla impedisce di essere sostituito da una qualsiasi delle alternative esistenti nella vasta gamma di proposte per Software Open Source e Libero. Tuttavia, QGIS si presenta sempre più come la soluzione più completa, stabile e facile da usare, e il cui progetto è più dinamico, con una rapida correzione di bug e con l'implementazione quasi quotidiana di nuovi plugin che aggiunge funzionalità specifiche per le più diverse aree di attività."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:53
 msgid "Author"
-msgstr ""
+msgstr "Autore"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:60
 msgid "Pedro Venâncio"
-msgstr ""
+msgstr "Pedro Venâncio"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:62
 msgid ""
@@ -172,4 +173,4 @@ msgid ""
 "Civil Engineering and is currently responsible for the service of "
 "Cartography and Geographic Information Systems at the Municipality of "
 "Pinhel."
-msgstr ""
+msgstr "Pedro Venâncio Laureato in Geologia, Specializzazione in Software Libero e M.Sc. in Sistemi Informativi Territoriali. È stato ricercatore presso il Centro di Geofisica dell'Università di Coimbra, presso il Laboratorio Nazionale di Ingegneria Civile ed è attualmente responsabile del servizio di Cartografia e Sistemi Informativi Territoriali presso il Comune di Pinhel."

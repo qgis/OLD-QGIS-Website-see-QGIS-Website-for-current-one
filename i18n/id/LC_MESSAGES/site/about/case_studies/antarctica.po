@@ -1,14 +1,15 @@
 # 
 # Translators:
-# danylaksono <thalibul.ilm@gmail.com>, 2013
-# ivanbusthomi <ivanbusthomi@gmail.com>, 2013
+# Dany Laksono <thalibul.ilm@gmail.com>, 2013
+# Imron Fauzi <imronfauzi@gmail.com>, 2014
+# Ivan Busthomi <ivanbusthomi@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-10-22 11:05+0000\n"
-"Last-Translator: ivanbusthomi <ivanbusthomi@gmail.com>\n"
+"PO-Revision-Date: 2014-06-04 02:48+0000\n"
+"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/qgis-website/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,35 +21,16 @@ msgstr ""
 msgid "Quantarctica: An Antarctic GIS package"
 msgstr "Quantartica: Sebuah paket GIS Antartika"
 
-#: ../../source/site/about/case_studies/antarctica.rst:6
-msgid ""
-"Quantarctica is a collection of Antarctic geographical datasets, such as "
-"base maps, satellite imagery, glaciology and geophysics data from data "
-"centres around the world, prepared for viewing in Quantum GIS (QGIS). The "
-"package is developed by the Norwegian Polar Institute, as a tool for the "
-"research community, for classrooms and for operational use in Antarctica – "
-"freely available for non-commercial purposes."
-msgstr "Quantartica adalah sebuah kumpulan dataset geografis Antartika, seperti peta dasar, citra satelit, data geofisik dan glasiologi dari pusat data yang tersebar di seluruh dunia, yang dipersiapkan untuk bisa ditampilkan di dalam Quantum GIS (QGIS). Paket ini dikembangkan oleh Norwegian Polar Institute, sebuah institut nasional Norwegia yang berhubungan dengan penelitian kutub, sebagai alat bantu dalam melakukan penelitian,sebagai penggunaan bagi kepentingan pendidikan maupun penggunaan operasional di Antartika. Paket ini tersedia secara bebas untuk kepentingan non-komersial."
-
-#: ../../source/site/about/case_studies/antarctica.rst:9
+#: ../../source/site/about/case_studies/antarctica.rst:14
 msgid "About the project"
 msgstr "Tentang Quantartica"
 
-#: ../../source/site/about/case_studies/antarctica.rst:16
+#: ../../source/site/about/case_studies/antarctica.rst:21
 msgid ""
 "Screenshot from Quantarctica, showing one of the subglacial lakes datasets."
 msgstr "Tampilan dari Quantartica, menampilkan salah satu dataset danau subglasial."
 
-#: ../../source/site/about/case_studies/antarctica.rst:19
-msgid ""
-"Quantarctica (Quantum GIS + Antarctica) was first developed for in-house use"
-" at the Norwegian Polar Institute, as a tool for our glaciologists. There "
-"was a need for a low or no cost complete GIS with essential datasets – "
-"ready-to-use, easy-to-use, functionality rich and with offline capabilities."
-" QGIS seemed to be a perfect choice of GIS for the collected datasets."
-msgstr "Quantartica (Quantum GIS + Antartica) pertama kali dikembangkan untuk penggunaan internal dari Norwegian Polar Institute, sebagai alat pendukung bagi para glasiologis kami. Faktor yang mendorong dikembangkannya Quantartica adalah adanya kebutuhan akan sebuah Sistem Informasi Geografis dengan biaya rendah dengan dataset esensial, siap guna, mudah guna, kaya fungsionalitas dan dapat digunakan tanpa perlu terhubung dengan jaringan internet. Dari pertimbangan tersebut, QGIS hadir sebagai pilihan GIS yang sempurna  bagi dataset-dataset yang telah dikumpulkan."
-
-#: ../../source/site/about/case_studies/antarctica.rst:21
+#: ../../source/site/about/case_studies/antarctica.rst:30
 msgid ""
 "Quantarctica has been used to examine geographical data from continental to "
 "local scales, for viewing scientific project data on top of base maps or "
@@ -58,13 +40,13 @@ msgid ""
 "It has provided new opportunities for our researchers in their daily work."
 msgstr "Quantartica telah digunakan untuk menguji data geografis dari berbagai skala, mulai dari skala benua hingga skala lokal. Selain itu, ia juga digunakan untuk melihat data ilmiah diatas peta dasar maupun dataset lainnya, serta untuk mempersiapkan peta untuk tujuan proposal dan publikasi. Sejauh ini Quantartica terbukti telah menjadi alat pendukung yang ampuh, serta menjadi alternatif dan alat pendukung yang sangat baik  bagi software lainnya yang digunakan oleh para peneliti. Quantartica telah menyediakan banyaki kemudahan bagi para peneliti kami dalam melakukan pekerjaan kesehariaannya."
 
-#: ../../source/site/about/case_studies/antarctica.rst:28
+#: ../../source/site/about/case_studies/antarctica.rst:42
 msgid ""
 "Quantarctica is also useful when navigating on the Antarctic ice shelves "
 "thanks to the GPS tracking capabilities within QGIS."
 msgstr "Melalui kemampuan GPS tracking yang terdapat pada QGIS, Quantartica juga dapat digunakan sebagai alat navigasi pada saat melakukan eksplorasi di Antartika."
 
-#: ../../source/site/about/case_studies/antarctica.rst:30
+#: ../../source/site/about/case_studies/antarctica.rst:45
 msgid ""
 "Since Quantarctica first came in use by our glaciologists three years ago, "
 "there has been many requests in the research community outside the institute"
@@ -74,38 +56,82 @@ msgid ""
 "completed and made available for download in July 2013."
 msgstr "Sejak Quantartica pertama kali digunakan oleh para glasiologis kami tiga tahun lalu, ada banyak permintaan dari komunitas para peneliti diluar institusi untuk membagikan Quantartica untuk konsumsi umum. Hal tersebut kemudian mendasari kami untuk mengembangkan Quantartica versi publik yang telah ditingkatkan sebagai pengganti dari Quantartica versi internal institusi. Quantartica versi 1.0 akhirnya tersedia pada Juli 2013 setelah dilakukan pengujian lapangan di Antartika dan penambahan dataset baru yang relevan."
 
-#: ../../source/site/about/case_studies/antarctica.rst:32
-msgid ""
-"Quantarctica is to be all about community effort. With contributions we aim "
-"to expand with data from other disciplines, such as oceanography, "
-"atmospheric sciences, geology and biology, and hope and believe that this "
-"tool can be useful for the Antarctic community – as a complete Antarctic GIS"
-" package."
-msgstr "Quantartica secara keseluruhan merupakan produk bersama dari berbagai pihak yang memberikan berbagai kontribusi dalam pengembangannya. Kami bertujuan untuk mengembangkan Quantartica dengan mengintegrasikan dengan data-data dari disiplin ilmu lain seperti oseanografi, keilmuan atmosfer, geologi dan biologi. Kami berharap dan percaya bahwa Quantartica akan sangat berguna bagi komunitas Antartika, sebagai Paket GIS Antartika yang lengkap."
-
-#: ../../source/site/about/case_studies/antarctica.rst:35
+#: ../../source/site/about/case_studies/antarctica.rst:58
 msgid "Links"
 msgstr "Tautan"
 
-#: ../../source/site/about/case_studies/antarctica.rst:37
+#: ../../source/site/about/case_studies/antarctica.rst:60
 msgid "Quantarctica website: http://quantarctica.org/"
 msgstr "Website Quantarctica : http://quantarctica.org/"
 
-#: ../../source/site/about/case_studies/antarctica.rst:38
+#: ../../source/site/about/case_studies/antarctica.rst:61
 msgid "Norwegian Polar Institute: http://www.npolar.no/en/"
 msgstr "Norwegian Polar Institute: http://www.npolar.no/en/"
 
-#: ../../source/site/about/case_studies/antarctica.rst:41
+#: ../../source/site/about/case_studies/antarctica.rst:64
 msgid "Authors"
 msgstr "Penulis"
 
-#: ../../source/site/about/case_studies/antarctica.rst:48
+#: ../../source/site/about/case_studies/antarctica.rst:71
 msgid "Anders Skoglund and Kenichi Matsuoka"
 msgstr "Anders Skoglund dan Kenichi Matsuoka"
 
-#: ../../source/site/about/case_studies/antarctica.rst:50
+#: ../../source/site/about/case_studies/antarctica.rst:73
 msgid ""
 "This article was contributed in August 2013 by Anders Skoglund (left), GIS "
 "specialist, and Kenichi Matsuoka (right), glaciologist, both at the "
 "Norwegian Polar Institute."
 msgstr "Artikel ini dikontribusikan pada bulan Agustus 2013 oleh  spesialis GIS, Anders Skoglund (kiri), dan glasiolog, Kenichi Matsuoka (kanan) pada Norwegian Polar Institute."
+
+#: ../../source/site/about/case_studies/antarctica.rst:6
+msgid ""
+"Quantarctica is a collection of Antarctic geographical datasets, such as "
+"base maps, satellite imagery, glaciology and geophysics data from data "
+"centres around the world, prepared for viewing in QGIS. The package is "
+"developed by the Norwegian Polar Institute, as a tool for the research "
+"community, for classrooms and for operational use in Antarctica –-- freely "
+"available for non-commercial purposes."
+msgstr "Quantartica adalah sebuah kumpulan dataset geografis Antartika, seperti peta dasar, citra satelit, data geofisik dan glasiologi dari pusat data yang tersebar di seluruh dunia, yang dipersiapkan untuk bisa ditampilkan di dalam QGIS. Paket ini dikembangkan oleh Norwegian Polar Institute, sebuah institut nasional Norwegia yang berhubungan dengan penelitian kutub, sebagai alat bantu bagi komunitas peneliti, kepentingan pendidikan maupun penggunaan operasional di Antartika. Paket ini tersedia secara bebas untuk kepentingan non-komersial."
+
+#: ../../source/site/about/case_studies/antarctica.rst:24
+msgid ""
+"Quantarctica (QGIS + Antarctica) was first developed for in-house use at the"
+" Norwegian Polar Institute, as a tool for our glaciologists. There was a "
+"need for a low or no cost complete GIS with essential datasets –-- ready-to-"
+"use, easy-to-use, functionality rich and with offline capabilities. QGIS "
+"seemed to be a perfect choice of GIS for the collected datasets."
+msgstr "Quantartica (QGIS + Antartica) pertama kali dikembangkan untuk penggunaan internal dari Norwegian Polar Institute, sebagai alat pendukung bagi para glasiologis. Faktor yang mendorong dikembangkannya Quantartica adalah adanya kebutuhan akan sebuah Sistem Informasi Geografis dengan biaya rendah dengan dataset esensial, siap guna, mudah guna, kaya fungsionalitas dan dapat digunakan tanpa perlu terhubung dengan jaringan internet. Dari pertimbangan tersebut, QGIS nampaknya menjadi pilihan GIS yang sempurna  bagi dataset-dataset yang telah dikumpulkan."
+
+#: ../../source/site/about/case_studies/antarctica.rst:52
+msgid ""
+"Quantarctica is to be all about community effort. With contributions we aim "
+"to expand with data from other disciplines, such as oceanography, "
+"atmospheric sciences, geology and biology, and hope and believe that this "
+"tool can be useful for the Antarctic community –-- as a complete Antarctic "
+"GIS package."
+msgstr "Quantartica secara keseluruhan merupakan usaha bersama dari semua pihak yang tergabung dalam komunitas. Kami bertujuan untuk mengembangkan Quantartica dengan mengintegrasikan dengan data-data dari disiplin ilmu lain seperti oseanografi, keilmuan atmosfer, geologi dan biologi. Kami berharap dan percaya bahwa Quantartica akan sangat berguna bagi komunitas Antartika -- sebagai Paket GIS Antartika yang lengkap."
+
+#~ msgid ""
+#~ "Quantarctica is a collection of Antarctic geographical datasets, such as "
+#~ "base maps, satellite imagery, glaciology and geophysics data from data "
+#~ "centres around the world, prepared for viewing in Quantum GIS (QGIS). The "
+#~ "package is developed by the Norwegian Polar Institute, as a tool for the "
+#~ "research community, for classrooms and for operational use in Antarctica – "
+#~ "freely available for non-commercial purposes."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Quantarctica (Quantum GIS + Antarctica) was first developed for in-house use"
+#~ " at the Norwegian Polar Institute, as a tool for our glaciologists. There "
+#~ "was a need for a low or no cost complete GIS with essential datasets – "
+#~ "ready-to-use, easy-to-use, functionality rich and with offline capabilities."
+#~ " QGIS seemed to be a perfect choice of GIS for the collected datasets."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Quantarctica is to be all about community effort. With contributions we aim "
+#~ "to expand with data from other disciplines, such as oceanography, "
+#~ "atmospheric sciences, geology and biology, and hope and believe that this "
+#~ "tool can be useful for the Antarctic community – as a complete Antarctic GIS"
+#~ " package."
+#~ msgstr ""

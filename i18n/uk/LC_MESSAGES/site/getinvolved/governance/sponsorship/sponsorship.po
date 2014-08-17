@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-04-20 16:40+0000\n"
+"PO-Revision-Date: 2014-06-01 08:42+0000\n"
 "Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
@@ -80,14 +80,6 @@ msgstr "Існує два способи підтримати проект: сп
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:45
 msgid "Sponsorship"
 msgstr "Спонсорство"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
-msgid ""
-"Sponsors can sponsor Quantum GIS for any amount of money of at least 500 "
-"€/700 US$. Sponsorships last one year, after which they may be continued "
-"with a new payment, or allowed to lapse. At or above the following levels a "
-"sponsor will be designated as being one of the following class:"
-msgstr "Спонсори можуть зробити пожертву будь-якого розміру, але не менше ніж 500 €/700 US$. Статус спонсора дійсний протягом одного року, після цього його необхідно подовжити, зробивши новий внесок, в протилежному випадку він стає недійсним. Існують такі категорії спонсорів:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "euros"
@@ -170,10 +162,6 @@ msgstr "Якщо ви бажаєте зробити велику пожертв�
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:73
 msgid "What is your benefit sponsoring the QGIS Development?"
 msgstr "Яка мені користь від спонсорування QGIS?"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
-msgid "Sponsoring the Quantum GIS project provides the following benefits:"
-msgstr "Спонсорування QGIS дає наступні переваги:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:77
 msgid "Ensures the sustainability and health of the QGIS project."
@@ -301,3 +289,25 @@ msgid ""
 "at: cavallini at faunalia dot it (+39-348-3801953) with questions, or to "
 "make arrangements."
 msgstr "Організації та приватні особи, зацікавлені в тому, щоб стати спонсорами QGIS, у випадку питань повинні звертатися до радника з фінансів та маркетингу Paolo Cavallini: cavallini at faunalia dot it (+39-348-3801953)."
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
+msgid ""
+"Sponsors can sponsor QGIS for any amount of money of at least 500 €/700 US$."
+" Sponsorships last one year, after which they may be continued with a new "
+"payment, or allowed to lapse. At or above the following levels a sponsor "
+"will be designated as being one of the following class:"
+msgstr "Спонсори можуть зробити пожертву будь-якого розміру, але не менше ніж 500 €/700 US$. Статус спонсора дійсний протягом одного року, після цього його необхідно подовжити, зробивши новий внесок, в протилежному випадку він стає недійсним. Існують такі категорії спонсорів:"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
+msgid "Sponsoring the QGIS project provides the following benefits:"
+msgstr "Спонсорування QGIS дає наступні переваги:"
+
+#~ msgid ""
+#~ "Sponsors can sponsor Quantum GIS for any amount of money of at least 500 "
+#~ "€/700 US$. Sponsorships last one year, after which they may be continued "
+#~ "with a new payment, or allowed to lapse. At or above the following levels a "
+#~ "sponsor will be designated as being one of the following class:"
+#~ msgstr ""
+
+#~ msgid "Sponsoring the Quantum GIS project provides the following benefits:"
+#~ msgstr ""

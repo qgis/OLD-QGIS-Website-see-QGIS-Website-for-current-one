@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-02-22 11:32+0100\n"
-"PO-Revision-Date: 2014-06-04 04:50+0000\n"
+"PO-Revision-Date: 2014-07-10 17:32+0000\n"
 "Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/qgis-website/language/id/)\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgid ""
 "the monitoring, prediction and prevention of natural disasters. These tasks "
 "are carried out by the employment of a multidisciplinary approach including "
 "hearth sciences, engineering and geomatic."
-msgstr ""
+msgstr "Research Institute for Geo-hydrological Protection of Turin (IRPI), anggota dari Italian National Research Council (CNR), memulai aktivitas sejak 1970. Keterampilan yang dikumpulkan sejak berdirinya berbagai sektor penyelidikan berikut, misalnya studi geologi dan hidrogeologi dari sistem Alpine-Po sungai (Italia Utara) atau pemantauan, prediksi dan pencegahan bencana alam. Tugas ini dilakukan oleh tenaga kerja dari pendekatan multidisiplin termasuk ilmu perapian, teknik dan geomatika."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:7
 msgid ""
@@ -39,7 +39,7 @@ msgid ""
 "field survey, modelling and historical records analysis, aerial photograms "
 "are employed. Their use varies, from “simple” visual analyses to complex "
 "processing as stereoplotting or image segmentation."
-msgstr ""
+msgstr "Dalam rangka melaksanakan penelitian dan studi mendalam, selain survei lapangan, pemodelan dan analisis catatan sejarah, fotogram udara bekerja. Penggunaannya bervariasi, dari yang \"sederhana\" analisis visual untuk proses yang kompleks sebagai stereoplotting atau segmentasi citra."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:9
 msgid ""
@@ -48,15 +48,15 @@ msgid ""
 "1920s (Figure 1) - covering, in different years, the Po basin or part of it."
 " Some photograms cover other basins in northern Italy. In addition the "
 "archives keeps flight plans of the described photograms (Figure 1)."
-msgstr ""
+msgstr "Lembaga ini, tujuannya menjelaskan, menjaga sekitar 170000 arsip, terbaru dan sejarah, fotogram - yang tertua kembali ke tahun 1920-an (Gambar 1) - yang meliputi, dalam tahun yang berbeda, cekungan Po atau bagian dari itu. beberapa fotogram mencakup cekungan lain di Italia utara. Selain arsip membuat rencana penerbangan dari fotogram yang dijelaskan (Gambar 1)."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:16
 msgid "1929 photogram (left) and 1954 flight plan (right)."
-msgstr ""
+msgstr "1929 Fotogram (kiri) dan 1954 rencana penerbangan (kanan)."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:19
 msgid "Archive management"
-msgstr ""
+msgstr "Manajemen Arsip"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:21
 msgid ""
@@ -66,7 +66,7 @@ msgid ""
 "DpI, and files were named according to a code including map sheet, year of "
 "acquisition, strip number, photogram’s serial number and code of property "
 "(IRPI’s or external)."
-msgstr ""
+msgstr "Dalam rangka mengatasi jumlah tersebut data pendekatan GIS diadopsi. Pertama setiap rencana penerbangan, menunjukkan jejak kaki fotogram ', di-scan, rujukan geografis dan digital dalam format shapefile. Kemudian fotogram dipindai, pada 600 dpi, dan berkas diberi nama sesuai dengan kode termasuk lembar peta, tahun akuisisi, jumlah strip, nomor seri Fotogram dan kode properti (IRPI atau eksternal)."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:23
 msgid ""
@@ -76,11 +76,11 @@ msgid ""
 "interface to search and refer to (Figure 2). Data concerning photogram code "
 "were stored in attribute table fields than, by field calculator, a “Link” "
 "field was created storing photograms’ file paths."
-msgstr ""
+msgstr "Setiap jejak dalam rencana penerbangan digital diberikan, dalam atribut, dengan kode sebelumnya dalam rangka menghubungkan shapefile dipindai fotogram, dengan menggunakan plugin Evis (Horning et al, 2009), dan memungkinkan antarmuka pengguna yang ramah untuk mencari dan mengacu pada (Gambar 2). Data mengenai kode Fotogram disimpan dalam bidang tabel atribut dari, oleh medan kalkulator, \"Link\" lapangan diciptakan menyimpan path file fotogram '."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:30
 msgid "Photogram display (eVis Plugin)"
-msgstr ""
+msgstr "Tampilan Photogram (Plugin eVis)"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:32
 msgid ""
@@ -95,14 +95,14 @@ msgid ""
 "out selected photogram and simply display them with the previously described"
 " tool or extract, by their filenames and path, photograms’ files for further"
 " processing."
-msgstr ""
+msgstr "Moreover, due to the amount of searchable data a geographical search interface was developed. Thanks to the graphical modeler (in Processing, formerly SEXTANTE, plugin) capabilities, the developed tool, by different selection masks and input boxes, allows the user to select among three layers (administrative boundaries, map sheets and rivers), find a feature by querying its table and employ it to spatially query a digitized flight plan with the purpose of selecting photograms’ footprints intersecting the selected feature (Figure 3). With this procedure, is then possible to point out selected photogram and simply display them with the previously described tool or extract, by their filenames and path, photograms’ files for further processing."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:39
 msgid ""
 "Graphic modeler scheme used in the selection tool (in background: purple "
 "polygons-map sheets; labeled orange polygons-photogram footprints; brown "
 "polygons-municipalities administrative borders)"
-msgstr ""
+msgstr "Skema modeler grafis yang digunakan pada alat seleksi (di latar belakang: lembar ungu peta-poligon; berlabel oranye jejak kaki poligon-Fotogram, coklat poligon-kota perbatasan administratif)"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:41
 msgid ""
@@ -113,17 +113,17 @@ msgid ""
 "external to the Institute. QGIS features and plugins allowed developing "
 "tools and procedures to optimize photogram archive both in the "
 "implementation of its management and in its exploitation."
-msgstr ""
+msgstr "The photogram collection is of great interest both in research (e.g. Godone et al, 2014) and professional environments (Figure 4). Now thanks to the described procedures and tools the collection is fully accessible and since 2009 the photograms were employed in several projects both internal and external to the Institute. QGIS features and plugins allowed developing tools and procedures to optimize photogram archive both in the implementation of its management and in its exploitation."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:49
 msgid ""
 "Pie chart showing different area of interest employing photograms in year "
 "2013"
-msgstr ""
+msgstr "Grafik Pie menunjukkan daerah yang berbeda kepentingan mempekerjakan fotogram di tahun 2013"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:53
 msgid "References"
-msgstr ""
+msgstr "Referensi"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:55
 msgid ""
@@ -131,32 +131,32 @@ msgid ""
 "“Progressive fragmentation of a traditional Mediterranean landscape by "
 "hazelnut plantations: The impact of CAP over time in the Langhe region (NW "
 "Italy)”, Land use policy, ISSN: 0264-8377"
-msgstr ""
+msgstr "Godone D., Garbarino M., Sibona E., Garnero G., Godone F. (2014) “Progressive fragmentation of a traditional Mediterranean landscape by hazelnut plantations: The impact of CAP over time in the Langhe region (NW Italy)”, Land use policy, ISSN: 0264-8377"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:56
 msgid ""
 "Horning N., Koy K., Ersts P. (2009) “eVis (v1.1.0) User's Guide. American "
 "Museum of Natural History, Center for Biodiversity and Conservation” "
 "Available from http://biodiversityinformatics.amnh.org/"
-msgstr ""
+msgstr "Horning N., Koy K., Ersts P. (2009) “eVis (v1.1.0) User's Guide. American Museum of Natural History, Center for Biodiversity and Conservation” Available from http://biodiversityinformatics.amnh.org/"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:59
 msgid "Links"
-msgstr ""
+msgstr "Tautan"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:61
 msgid ""
 "Aerial photo archive website: "
 "http://www.irpi.to.cnr.it/index_en.php?page=aerofototeca_en"
-msgstr ""
+msgstr "Aerial photo archive website: http://www.irpi.to.cnr.it/index_en.php?page=aerofototeca_en"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:64
 msgid "Authors"
-msgstr ""
+msgstr "Penulis"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:71
 msgid "Danilo Godone"
-msgstr ""
+msgstr "Danilo Godone"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:73
 msgid ""
@@ -165,11 +165,11 @@ msgid ""
 "disasters monitoring. He is a member of NATRISK - Research Centre on Natural"
 " Risks in Mountain and Hilly Environments, in the same University. He acts "
 "as a freelance consultant in the same topics, too."
-msgstr ""
+msgstr "Danilo Godone adalah pemegang hibah Postdoc, di Turin University, mempelajari kontribusi geomatika dalam longsor, gletser dan, lebih umum, monitoring bencana alam. Dia adalah anggota dari NATRISK - Pusat Penelitian Risiko Alam di Mountain dan Berbukit Lingkungan, di Universitas yang sama. Ia bertindak sebagai konsultan freelance di topik yang sama, juga."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:80
 msgid "Franco Godone"
-msgstr ""
+msgstr "Franco Godone"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:82
 msgid ""
@@ -177,4 +177,4 @@ msgid ""
 "hydrological Protection of Turin (IRPI-CNR) since 1972. He is involved in "
 "topographical and aerophotogrammetrical surveys and data analysis in the "
 "alpine regions."
-msgstr ""
+msgstr "Franco Godone adalah teknisi khusus di Research Institute for Geo-hydrological Protection of Turin (IRPI-CNR) sejak 1972. Ia terlibat dalam survei topografi dan aerophotogrammetrical dan analisis data di daerah pegunungan."

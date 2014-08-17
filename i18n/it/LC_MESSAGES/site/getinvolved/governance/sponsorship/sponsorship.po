@@ -1,13 +1,14 @@
 # 
 # Translators:
-# MDS77 <matteo_destefano@yahoo.it>, 2013-2014
+# Luca M. <luca76@gmail.com>, 2014
+# Matteo <matteo_destefano@yahoo.it>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-01-18 19:58+0000\n"
-"Last-Translator: MDS77 <matteo_destefano@yahoo.it>\n"
+"PO-Revision-Date: 2014-06-12 08:20+0000\n"
+"Last-Translator: Luca M. <luca76@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,14 +81,6 @@ msgstr "Ci sono due modalità di contributo finanziario. Accettiamo: sponsorizza
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:45
 msgid "Sponsorship"
 msgstr "Sponsorizzazioni"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
-msgid ""
-"Sponsors can sponsor Quantum GIS for any amount of money of at least 500 "
-"€/700 US$. Sponsorships last one year, after which they may be continued "
-"with a new payment, or allowed to lapse. At or above the following levels a "
-"sponsor will be designated as being one of the following class:"
-msgstr "Gli sponsor possono sponsorizzare Quantum GIS per un'ammontare di almeno 500 €/700 US$. Le sponsorizzazioni durano almeno un anno, dopo il quale possono continuare con un nuovo pagamento o cessare. A partire dalle soglie seguenti, uno sponsor viene intitolato a una delle seguenti classi:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "euros"
@@ -170,10 +163,6 @@ msgstr "Nel caso tu voglia inviarci una donazione più cospicua, ti consigliamo 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:73
 msgid "What is your benefit sponsoring the QGIS Development?"
 msgstr "Qual'è il tuo beneficio a sponsorizzare lo sviluppo di QGIS?"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
-msgid "Sponsoring the Quantum GIS project provides the following benefits:"
-msgstr "Sponsorizzare il progetto Quantum GIS offre i seguenti benefici:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:77
 msgid "Ensures the sustainability and health of the QGIS project."
@@ -301,3 +290,25 @@ msgid ""
 "at: cavallini at faunalia dot it (+39-348-3801953) with questions, or to "
 "make arrangements."
 msgstr "Le organizzazioni o gli individui che sono interessati a sponsorizzare il progetto QGIS possono contattare il Consigliere Finanziario e di Marketing del Comitato Direttivo del Progetto QGIS, Paolo Cavallini a: cavallini at faunalia dot it (+39-348-3801953) per qualunque domanda o per discutere eventuali accordi."
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
+msgid ""
+"Sponsors can sponsor QGIS for any amount of money of at least 500 €/700 US$."
+" Sponsorships last one year, after which they may be continued with a new "
+"payment, or allowed to lapse. At or above the following levels a sponsor "
+"will be designated as being one of the following class:"
+msgstr "Gli sponsor possono sponsorizzare QGIS per un'ammontare di almeno 500 €/700 US$. Le sponsorizzazioni durano almeno un anno, dopo il quale possono continuare con un nuovo pagamento o cessare. A partire dalle soglie seguenti, uno sponsor viene intitolato a una delle seguenti classi:"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
+msgid "Sponsoring the QGIS project provides the following benefits:"
+msgstr "Sponsorizzare il progetto QGIS offre i seguenti benefici:"
+
+#~ msgid ""
+#~ "Sponsors can sponsor Quantum GIS for any amount of money of at least 500 "
+#~ "€/700 US$. Sponsorships last one year, after which they may be continued "
+#~ "with a new payment, or allowed to lapse. At or above the following levels a "
+#~ "sponsor will be designated as being one of the following class:"
+#~ msgstr ""
+
+#~ msgid "Sponsoring the Quantum GIS project provides the following benefits:"
+#~ msgstr ""

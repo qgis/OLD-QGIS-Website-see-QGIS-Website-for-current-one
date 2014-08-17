@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Kari Salovaara <kari.salovaara@pp1.inet.fi>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-23 13:13+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2014-08-11 19:26+0000\n"
+"Last-Translator: Kari Salovaara <kari.salovaara@pp1.inet.fi>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/qgis-website/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,59 +15,637 @@ msgstr ""
 "Language: fi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/getinvolved/development/index.rst:4
+#: ../../source/site/getinvolved/development/index.rst:3
 msgid "QGIS Development"
-msgstr ""
+msgstr "QGIS kehittäminen"
 
-#: ../../source/site/getinvolved/development/index.rst:6
+#: ../../source/site/getinvolved/development/index.rst:5
 msgid "Welcome to the QGIS Development pages"
-msgstr ""
+msgstr "Tervetuloa QGIS kehittämisen sivuille"
 
-#: ../../source/site/getinvolved/development/index.rst:10
+#: ../../source/site/getinvolved/development/index.rst:11
 msgid "Bugs, Features and Issues"
-msgstr ""
+msgstr "Virheet, ominaisuudet ja näkökulmat"
 
-#: ../../source/site/getinvolved/development/index.rst:12
-msgid ""
-"If you find a bug, please read `our hints on issueing bugs "
-"<http://hub.qgis.org/wiki/quantum-gis/Bugreports>`_"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:17
+#: ../../source/site/getinvolved/development/index.rst:169
 msgid "Development"
+msgstr "Kehittäminen"
+
+#: ../../source/site/getinvolved/development/index.rst:200
+msgid "QGIS has a lot to offer for python developers too."
+msgstr "QGIS tarjoaa paljon myös python kehittäjille."
+
+#: ../../source/site/getinvolved/development/index.rst:202
+msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
+msgstr "QGIS:ssä on myös python sidokset joten voit automatisoida tehtäviä QGIS:ssä käyttämällä pythonia."
+
+#: ../../source/site/getinvolved/development/index.rst:209
+msgid "You can find the QGIS-iface which you can use via python here:"
+msgstr "Löydät QGIS-iface:n jota voit käyttää pythonilla täältä:"
+
+#: ../../source/site/getinvolved/development/index.rst:211
+msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
+msgstr "http://qgis.org/api/classQgisInterface.html (QGIS testaukseen)"
+
+#: ../../source/site/getinvolved/development/index.rst:213
+msgid "http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
+msgstr "http://qgis.org/api/2.0/classQgisInterface.html (QGIS 2.0:lle)"
+
+#: ../../source/site/getinvolved/development/index.rst:215
+msgid "http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
+msgstr "http://qgis.org/api/1.8/classQgisInterface.html (QGIS 1.8:lle)"
+
+#: ../../source/site/getinvolved/development/index.rst:88
+msgid "Road Map"
+msgstr "Tiekartta"
+
+#: ../../source/site/getinvolved/development/index.rst:90
+msgid ""
+"Since QGIS 2.0 further development will occur based on a timebased roadmap."
+msgstr "QGIS 2.0 lähtien kehitys tapahtuu perustuen aikaan sidottuun tiekarttaan."
+
+#: ../../source/site/getinvolved/development/index.rst:92
+msgid "Odd version numbers (2.1, 2.3 etc) are development versions."
+msgstr "Parittomat version numerot (2.1, 2.3, 2.5 jne) ovat kehitysversioita."
+
+#: ../../source/site/getinvolved/development/index.rst:142
+msgid "Week"
+msgstr "Viikko"
+
+#: ../../source/site/getinvolved/development/index.rst:142
+msgid "Date"
+msgstr "Päiväys"
+
+#: ../../source/site/getinvolved/development/index.rst:144
+msgid "4"
+msgstr "4"
+
+#: ../../source/site/getinvolved/development/index.rst:144
+msgid "24.01"
+msgstr "24.01"
+
+#: ../../source/site/getinvolved/development/index.rst:145
+msgid "8"
+msgstr "8"
+
+#: ../../source/site/getinvolved/development/index.rst:145
+msgid "21.02"
+msgstr "21.02"
+
+#: ../../source/site/getinvolved/development/index.rst:146
+msgid "21"
+msgstr "21"
+
+#: ../../source/site/getinvolved/development/index.rst:146
+msgid "23.05"
+msgstr "23.05"
+
+#: ../../source/site/getinvolved/development/index.rst:148
+msgid "39"
+msgstr "39"
+
+#: ../../source/site/getinvolved/development/index.rst:148
+msgid "26.09"
+msgstr "26.09"
+
+#: ../../source/site/getinvolved/development/index.rst:149
+msgid "43"
+msgstr "43"
+
+#: ../../source/site/getinvolved/development/index.rst:149
+msgid "24.10"
+msgstr "24.10"
+
+#: ../../source/site/getinvolved/development/index.rst:181
+msgid "Plugin Development"
+msgstr "Liitännäisten kehittäminen"
+
+#: ../../source/site/getinvolved/development/index.rst:183
+msgid ""
+"QGIS has a plugin infrastructure. You can add a lot of new functionality by "
+"writing your own plugins."
+msgstr "QGIS käyttää liitännäisten arkkitehtuuria. Voit lisätä runsaasti uutta toiminnallisuutta kirjoittamalla omia liitännäisiä."
+
+#: ../../source/site/getinvolved/development/index.rst:186
+msgid "These plugins can either be written in C++ or in Python"
+msgstr "Nämä liitännäiset voi kirjoittaa joko C++ tai Python ohjelmointikielillä."
+
+#: ../../source/site/getinvolved/development/index.rst:193
+msgid ""
+"Via a script you will generate a plugin stub which can be used further."
+msgstr "Skriptin kirjoittamall voit luoda liitännäisen tyngän, jota voidaan käyttää edelleen."
+
+#: ../../source/site/getinvolved/development/index.rst:198
+msgid "Python plugin development"
+msgstr "Python liitännäisen kehittäminen"
+
+#: ../../source/site/getinvolved/development/index.rst:204
+msgid ""
+"Interested in python plugin development, go to :ref:`QGIS-python-plugin-"
+"development` or have a look into the :ref:`PyQGIS-Developer-Cookbook`."
+msgstr "Jos olet kiinnostunut python liitännäisen kehittämisestä, siirry joko ref:`QGIS-python-plugin-development` tai katso the :ref:`PyQGIS-Developer-Cookbook`."
+
+#: ../../source/site/getinvolved/development/index.rst:207
+msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
+msgstr "Etsitkö python liitännäisten esimerkkejä, katso http://plugins.qgis.org"
+
+#: ../../source/site/getinvolved/development/index.rst:13
+msgid "If you find a bug, please report it!"
+msgstr "Jos löysit virheen, ole hyvä ja raportoi!"
+
+#: ../../source/site/getinvolved/development/index.rst:34
+msgid ""
+"Before filing a bug, review the currently open issues to make sure that you "
+"aren't creating a duplicate. If you have additional information on an issue,"
+" you can add it to the existing ticket. Third party plugins might also cause"
+" problems. If you have installed any, you should also verify that the "
+"problem is still reproducible without them. Please don't report multiple "
+"unrelated bugs in a single bug report."
+msgstr "Ennen virheen kirjaamista, arvioi nykyiset avoimet ilmoitukset varmistaaksesi ettet avaa duplikaattia olemassa olevalle virheilmoitukselle. Jos Sinulla on olemassa olevall virheilmoitukselle lisätietoja niin voit lisätä ne ao. ilmoitukselle Kolmennen osapuolen liitännäiset voivat myös aiheuttaa virheitä. Jos olet asentanut niitä tullee Sinun varmistaa että ongelma esiintyy myös kun et käytä näitä liitännäisiä. Ole ystävällinen äläkä ilmoita useita toisiinsa liittyviä virheitä samalla ilmoituksella."
+
+#: ../../source/site/getinvolved/development/index.rst:38
+msgid "Plugin bugs"
+msgstr "Liitännäisen virheet"
+
+#: ../../source/site/getinvolved/development/index.rst:44
+msgid "Steps"
+msgstr "Askeleet"
+
+#: ../../source/site/getinvolved/development/index.rst:46
+msgid ""
+"To report a bug choose New Issue from the menu bar. Note: You can also "
+"request an enhancement or submit a patch using the Ticket system."
+msgstr "Raportoidaksesi virheen valitse New Issue valikosta. Huomautus:  Voit pyytää myös ohjlemisto-ominaisuuden lisäämistä tai lähettää korjauskoodin käyttäen Ilmoitusjärjestelmää."
+
+#: ../../source/site/getinvolved/development/index.rst:48
+msgid "Important information needed when opening a ticket:"
+msgstr "Tärkeät tiedot avattessa uutta ilmoitusta:"
+
+#: ../../source/site/getinvolved/development/index.rst:50
+msgid ""
+"Tracker - choose the ticket type from the drop-down list: Bug, Feature (new "
+"feature request) or Bounty (ticket for which a bounty has been defined)"
+msgstr "Tracker - valitse ilmoituksen tyyppi alasvetolistasta: Bug, Feature (uuden ominaisuuden pyyntö) tai Bounty (ilmoke jolle luvattu lahja määritelty)"
+
+#: ../../source/site/getinvolved/development/index.rst:51
+msgid "Subject - a short description of the issue"
+msgstr "Subject - lyhyt kuvaus ilmoituksen aiheesta"
+
+#: ../../source/site/getinvolved/development/index.rst:52
+msgid ""
+"Description - Provide a full description of the problem including steps to "
+"repeat it; if you think the bug could be related to a certain platform "
+"version or dependencies package version (GDAL, OGR, GEOS etc) include that "
+"as well. If your QGIS crashes if might be useful to include a backtrace (see"
+" below).  A very important thing when reporting a bug is to boil down a "
+"minimum example that is needed to reproduce the bug. The chances of a bug "
+"being addressed in a timely manner is directly related to the speed with "
+"which the developer can reproduce the bug. If you make that hard for the "
+"developer, chances are the bug will be given up on or ignored for quite a "
+"while."
+msgstr "Description - Anna koko kuvaus ongelmasta mukaan lukien kaikki askeleet jotka johtavat siihen; jos mielestäsi virhe on riippuvainen käyttöympäristöstä tai muiden pakettien riippuvaisuuksista (GDAL, OGR, GEOS jne) sisällytä myös nänä tiedot. If jos QGIS ohjelmasi kaatuu voi olle hyödyllistä sisällyttää myös jäljitys (backtrace, katso alla). Erittäin tärkeä seikka kun raportoidaan virhettä on supistaa minimiin esimerkki mitä tarvitaan virheen toistamiseksi. Mahdollisuudet virheen osoittamiseksi nopeasti on suoraan riippuvainen kuinka kehittäjä voi sen toistaa. Jos tee sen vaikeaksi kehittäjälle mahdollisuudet että virheen korjaajat antavat periksi kasvavat tai ohittavat sen määräämättömäsi ajaksi."
+
+#: ../../source/site/getinvolved/development/index.rst:53
+msgid ""
+"Priority - provide an estimate of the severity of the problem: Low (a "
+"problem which doesn't affect QGIS usefulness), Normal (the default value, "
+"applicable to most bugs and nearly all feature requests), High (a bug which "
+"has a major effect on the usability of a package), or Blocker (a bug that "
+"makes QGIS totally unusable, causes serious data loss or a regression from a"
+" previous QGIS version)"
+msgstr "Priority - anna ongelman ankaruuden arvio: Matala (ongelma joka ei vaikuta QGIS käyttökelpoisuuteen). Normaali (oletusarvo, sopii useimpiin ongelmiin ja lähes kaikkii ominaisuuspyyntöihin),  Korkea (virhe jolla on suuri vaikutus ohjelman käyttökelpoisuuteen),  tai Blocker (virhe joka tekee QGIS:stä käyttökelvottoman, aiheuttaa data menetyksiä tai taantuminen edellisestä QGIS versiosta)"
+
+#: ../../source/site/getinvolved/development/index.rst:54
+msgid ""
+"Component - Choose the aspect of the application that is most closely "
+"associated with the problem"
+msgstr "Komponentti - Valitse sovelluksen piirre joka läheisimmin liittyy ongelmaan"
+
+#: ../../source/site/getinvolved/development/index.rst:55
+msgid ""
+"Milestone - If this issue affects a particular Milestone in the project "
+"choose it from the drop-down list"
+msgstr "Merkkipaalu - Jos tämä seikka vaikuttaa erityisesti tiettyyn merkkipaaluun hankkeessa valitse se alasvetoluettelosta"
+
+#: ../../source/site/getinvolved/development/index.rst:56
+msgid "Version - Version of QGIS this issue affects"
+msgstr "Versio - QGIS versio johon tämä seikka vaikuttaa"
+
+#: ../../source/site/getinvolved/development/index.rst:57
+msgid "Platform - Choose the platform you are using"
+msgstr "Alusta - Valitse alusta jota käytät"
+
+#: ../../source/site/getinvolved/development/index.rst:59
+msgid ""
+"Before sending the bug, please check the formatting of your report by "
+"clicking on \"Preview\". Please avoid editing existing reports, if not for "
+"typos. Better add further comments in any other case."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:62
+msgid "Creating a backtrace"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:64
+msgid ""
+"If you have a crash it might be useful to include a backtrace as the bug "
+"might be not reproducible on an other machine. On Unix you can create a "
+"backtrace using a core dump and gdb. A core dump is a memory dump of the "
+"state of the process when the crash happened. Depending on you distribution "
+"the automatic creation of core dumps might be disabled. In that case you "
+"only see for instance Segmentation fault and not ``Segmentation fault (core "
+"dumped)`` in the shell you started QGIS from and you need to run ``ulimit -c"
+" unlimited`` before starting QGIS. You could also include that in your "
+"``.profile``. Start qgis from the shell and repeat the steps to reproduce "
+"the crash. After the crash the core file will be located in the current "
+"directory. To produce a backtrace from it you start ``gdb "
+"/path/to/the/qgis/binary core``. The binary is usually ``/usr/bin/qgis`` or "
+"``/usr/bin/qgis.bin`` on Debian with the GRASS plugin installed. In ``gdb`` "
+"you run ``bt`` which will produce the backtrace."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:71
+msgid "Log output on Windows"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:81
+msgid "Creating a patch"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:83
+msgid "To be done"
+msgstr "Tehdään lähitulevaisuudessa"
+
+#: ../../source/site/getinvolved/development/index.rst:94
+msgid "Even version numbers (2.2, 2.4 etc) are release versions."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:96
+msgid ""
+"Release will happen every four month.  In the first three month new "
+"development is taking place.  Then a feature freeze is invoked and the final"
+" month is used for testing, bugfixing, translation and release preparations."
+"  When the release happens, a branch with a even release number is created "
+"and the master branch advances to the next odd version.  After the release a"
+" call for packaging is issued."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:139
+msgid "Following is the schedule for 2014"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:142
+msgid "Event"
+msgstr "Tapahtuma"
+
+#: ../../source/site/getinvolved/development/index.rst:144
+msgid "2.1 freeze begins"
+msgstr "2.1 jäädytys alkaa"
+
+#: ../../source/site/getinvolved/development/index.rst:145
+msgid "2.2 is released"
+msgstr "2.2 on julkaistu"
+
+#: ../../source/site/getinvolved/development/index.rst:146
+msgid "2.3 freeze begins"
+msgstr "2.3 jäädytys alkaa"
+
+#: ../../source/site/getinvolved/development/index.rst:147
+msgid "2.4 is released"
+msgstr "2.4 on julkaistu"
+
+#: ../../source/site/getinvolved/development/index.rst:148
+msgid "2.5 freeze begins"
+msgstr "2.5 jäädytys alkaa"
+
+#: ../../source/site/getinvolved/development/index.rst:149
+msgid "2.6 is released"
+msgstr "2.6 on julkaistu"
+
+#: ../../source/site/getinvolved/development/index.rst:15
+msgid ""
+"You need an OSGeo account and login in order to submit bug reports. To get "
+"started, first create `Create an OSGeo4 account <https://www.osgeo.org/cgi-"
+"bin/ldap_create_user.py>`_."
 msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:19
-msgid "See https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
+msgid ""
+"Once you have your account, use `QGIS issue tracking "
+"<http://hub.qgis.org/projects/quantum-gis/issues>`_ to search if the issue "
+"you'd like to report is probably already entered."
 msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:24
-msgid "Python Development"
-msgstr ""
+msgid "Issues"
+msgstr "Näkökulmat"
 
 #: ../../source/site/getinvolved/development/index.rst:26
-msgid "QGIS has a lot to offer for python developers too."
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:28
-msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:30
 msgid ""
-"Interested in python plugin development, go here http://plugins.qgis.org or "
-"have a look into the `PyQGIS cookbook "
-"<docs/pyqgis_developer_cookbook/index>`_"
+"Issues are used to report bugs, request enhancements and submit patches. "
+"Redmine is more than a bug reporting system. Issues can be associated with a"
+" QGIS Milestone, allowing you to see progress towards completion. Completion"
+" of a Milestone not only requires closing bugs, but completing other tasks "
+"related to a release such as documentation, web site updates, packaging, and"
+" announcements."
 msgstr ""
 
-#~ msgid "Test"
+#: ../../source/site/getinvolved/development/index.rst:29
+msgid "Filing an Issue"
+msgstr "Kirjaa näkökulma"
+
+#: ../../source/site/getinvolved/development/index.rst:32
+msgid "Before reporting a bug"
+msgstr "Ennen virheen raportointia"
+
+#: ../../source/site/getinvolved/development/index.rst:40
+msgid ""
+"Plugin bugs must be opened in their respective bug tracking system. Check "
+"first if the plugin is listed in the `plugin overview "
+"<http://hub.qgis.org/projects/qgis-user-plugins/>`_. If so, click on the "
+"plugin name then click \"New issue\". Otherwise, consult the plugin "
+"documentation to find the address of the relevant bug tracking system or a "
+"developer to contact."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:73
+msgid ""
+"The nightly build in OSGeo4W_ (package qgis-dev) is built with debugging "
+"output, that you can view with DebugView_.  If the problem is not easy to "
+"reproduce the output might shed some light about where QGIS crashes."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:104
+msgid "Development phase"
+msgstr "Kehitysvaihe"
+
+#: ../../source/site/getinvolved/development/index.rst:106
+msgid ""
+"In the development phase developers work on adding new features for the next"
+" release. Early adopters can use the nightly builds we have for all major "
+"platforms to see the development progress, do preliminary testing and "
+"provide bug reports and their thoughts to help with development."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:112
+msgid "Feature freeze"
+msgstr "Ominaisuuden jäädytys"
+
+#: ../../source/site/getinvolved/development/index.rst:114
+msgid ""
+"In the feature freeze phase new features are not allowed in anymore and the "
+"focus of everyone moves from enhancing QGIS to stablizing it.  This also "
+"turns the nightly builds effectively into :ref:`prereleases <QGIS-"
+"prereleases>`."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:118
+msgid ""
+"**Users** should start extensive testing of these prereleases in their "
+"environment to verify that there are no issues, they wouldn't want to see in"
+" the upcoming release.  All such issues should be reported (see `Bugs, "
+"Features and Issues`_).  Everything that goes unnoticed, will also end up in"
+" the next release.  Only in case of serious problems a point release (eg "
+"2.4.1) will occur.  Therefore testing of the prereleases and reporting "
+"issues is very important."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:126
+msgid ""
+"In the feature freeze **Developers** monitor the hub and start working on "
+"fixing the reported issues."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:129
+msgid ""
+"With the begin of the feature freeze the translation files will be updated "
+"so that **translators** can start their work. Note that this might be an "
+"incremental process as although the features are frozen, bug fixes might "
+"still introduce translation string changes."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:137
+msgid "Release schedule"
+msgstr "Julkistusten suunnitelma"
+
+#: ../../source/site/getinvolved/development/index.rst:155
+msgid "Location of prereleases / nightly builds"
+msgstr "Esijulkaisujen / yöllisten versioiden sijainti"
+
+#: ../../source/site/getinvolved/development/index.rst:158
+msgid "Platform"
+msgstr "Ympäristö"
+
+#: ../../source/site/getinvolved/development/index.rst:158
+msgid "Location"
+msgstr "Sijainti"
+
+#: ../../source/site/getinvolved/development/index.rst:160
+msgid "Windows"
+msgstr "Windows"
+
+#: ../../source/site/getinvolved/development/index.rst:160
+msgid ""
+":ref:`Weekly release candidate <QGIS-windows-weekly>` (standalone installer)"
+msgstr ":ref:`Weekly release candidate <QGIS-windows-weekly>` (erillinen asennus)"
+
+#: ../../source/site/getinvolved/development/index.rst:161
+#: ../../source/site/getinvolved/development/index.rst:163
+msgid "\\"
+msgstr "\\"
+
+#: ../../source/site/getinvolved/development/index.rst:161
+msgid ":ref:`OSGeo4W <QGIS-windows-testing>`"
+msgstr ":ref:`OSGeo4W <QGIS-windows-testing>`"
+
+#: ../../source/site/getinvolved/development/index.rst:162
+msgid "Linux"
+msgstr "Linux"
+
+#: ../../source/site/getinvolved/development/index.rst:162
+msgid ":ref:`Debian <QGIS-debian-testing>`"
+msgstr ":ref:`Debian <QGIS-debian-testing>`"
+
+#: ../../source/site/getinvolved/development/index.rst:163
+msgid ":ref:`Ubuntu <QGIS-ubuntu-testing>`"
+msgstr ":ref:`Ubuntu <QGIS-ubuntu-testing>`"
+
+#: ../../source/site/getinvolved/development/index.rst:164
+msgid "MacOS"
+msgstr "MacOS"
+
+#: ../../source/site/getinvolved/development/index.rst:164
+msgid ":ref:`Mac OS <QGIS-macos-testing>`"
+msgstr ":ref:`Mac OS <QGIS-macos-testing>`"
+
+#: ../../source/site/getinvolved/development/index.rst:171
+msgid "See INSTALL_"
+msgstr "Katso INSTALL_"
+
+#: ../../source/site/getinvolved/development/index.rst:175
+msgid "API Documentation"
+msgstr "API Dokumentaatio"
+
+#: ../../source/site/getinvolved/development/index.rst:177
+msgid "There is `API documentation <http://qgis.org/api/>`_ for C++."
+msgstr "Löytyy `API documentation <http://qgis.org/api/>`_ C++ ohjelmointikielelle."
+
+#: ../../source/site/getinvolved/development/index.rst:189
+msgid "C++ plugin development"
+msgstr "C++ liitännäisen kehitys"
+
+#: ../../source/site/getinvolved/development/index.rst:191
+msgid ""
+"To learn how to write your first C++ plugin, please go here: :ref:`QGIS-cpp-"
+"plugin-development`"
+msgstr "Opi kuinka kirjoitat ensimmäisen C++ liitännäisen, ele ystävällinen ja siirry: :ref:`QGIS-cpp-plugin-development`"
+
+#: ../../source/site/getinvolved/development/index.rst:147
+msgid "26"
+msgstr "26"
+
+#: ../../source/site/getinvolved/development/index.rst:147
+msgid "27.06"
+msgstr "27.06"
+
+#: ../../source/site/getinvolved/development/index.rst:220
+msgid "Adding GRASS tools"
+msgstr "GRASS työkalujen lisääminen"
+
+#: ../../source/site/getinvolved/development/index.rst:222
+msgid ":ref:`adding-grass-tools`"
+msgstr ":ref:`adding-grass-tools`"
+
+#~ msgid "25"
+#~ msgstr ""
+
+#~ msgid "20.06"
+#~ msgstr ""
+
+#~ msgid "Api Documentation"
+#~ msgstr ""
+
+#~ msgid "You can find the API documentation for cpp here:"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/api/ (for QGIS testing)"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/api/2.0/ (for QGIS 2.0)"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/api/1.8/ (for QGIS 1.8)"
+#~ msgstr ""
+
+#~ msgid "Cpp plugin development"
 #~ msgstr ""
 
 #~ msgid ""
-#~ "This is a test for localisation. In dutch the image below should be in "
-#~ "dutch:"
+#~ "To learn how to write your first cpp plugin, please go here: :ref:`QGIS-cpp-"
+#~ "plugin-development`"
 #~ msgstr ""
 
 #~ msgid ""
-#~ "Interested in python plugin development, go here http://plugins.qgis.org"
+#~ "You need an OSGeo account and login in order to submit bug reports. To get "
+#~ "started, first create an OSGeo account. https://www2.osgeo.org/cgi-"
+#~ "bin/ldap_create_user.py"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Once you have your account, use http://hub.qgis.org/projects/quantum-"
+#~ "gis/issues to login and search if the issue you'd like to report is probably"
+#~ " already entered."
+#~ msgstr ""
+
+#~ msgid "Tickets"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Tickets are used to report bugs, request enhancements and submit patches. "
+#~ "Redmine is more than a bug reporting system. Tickets can be associated with "
+#~ "a  QGIS Milestone, allowing you to see progress towards completion. "
+#~ "Completion of a Milestone not only requires closing bugs, but completing "
+#~ "other tasks related to a release such as documentation, web site updates, "
+#~ "packaging, and announcements."
+#~ msgstr ""
+
+#~ msgid "Opening a Ticket"
+#~ msgstr ""
+
+#~ msgid "Before filing a bug"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Plugin bugs must be opened in their respective bug tracking system. Check "
+#~ "first if the plugin is listed at http://hub.qgis.org/projects/qgis-user-"
+#~ "plugins/ If so, click on the plugin name then click \"New issue\". "
+#~ "Otherwise, consult the plugin documentation to find the address of the "
+#~ "relevant bug tracking system or a developer to contact."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The nightly build in `OSGeo4W <http://trac.osgeo.org/osgeo4w>`_ (package "
+#~ "qgis-dev) is built with debugging output, that you can view with `DebugView "
+#~ "<http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx>`_.  If the "
+#~ "problem is not easy to reproduce the output might shed some light about "
+#~ "where QGIS crashes."
+#~ msgstr ""
+
+#~ msgid "Only in case of real problems a point release (eg 2.0.1) will occur."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "See "
+#~ "http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you find a bug, please read `our hints on issueing bugs "
+#~ "<http://hub.qgis.org/wiki/quantum-gis/Bugreports>`_"
+#~ msgstr ""
+
+#~ msgid "See https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
+#~ msgstr ""
+
+#~ msgid "Even version numbers (2.2, 2.4 etc) are release version."
+#~ msgstr ""
+
+#~ msgid "Following is the planning for 2014"
+#~ msgstr ""
+
+#~ msgid "QGIS version"
+#~ msgstr ""
+
+#~ msgid "QGIS Freeze  2.1"
+#~ msgstr ""
+
+#~ msgid "QGIS Release 2.2"
+#~ msgstr ""
+
+#~ msgid "QGIS Freeze  2.3"
+#~ msgstr ""
+
+#~ msgid "QGIS Release 2.4"
+#~ msgstr ""
+
+#~ msgid "QGIS Freeze  2.5"
+#~ msgstr ""
+
+#~ msgid "QGIS Release 2.6"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Only in case of real problems a minor version (eg 2.0.1) update will be "
+#~ "planned."
+#~ msgstr ""
+
+#~ msgid "Python Development"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Interested in python plugin development, go here http://plugins.qgis.org or "
+#~ "have a look into the :ref:`PyQGIS-Developer-Cookbook`."
+#~ msgstr ""
+
+#~ msgid "Python iface documentation"
 #~ msgstr ""

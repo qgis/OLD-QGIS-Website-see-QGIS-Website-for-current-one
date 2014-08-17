@@ -1,13 +1,13 @@
 # 
 # Translators:
-# danylaksono <thalibul.ilm@gmail.com>, 2013
+# Dany Laksono <thalibul.ilm@gmail.com>, 2013
 # Imron Fauzi <imronfauzi@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2014-05-10 01:57+0000\n"
+"PO-Revision-Date: 2014-08-15 04:10+0000\n"
 "Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/qgis-website/language/id/)\n"
 "MIME-Version: 1.0\n"
@@ -37,15 +37,15 @@ msgstr "Anda dapat turut berperan!"
 msgid "GET INVOLVED"
 msgstr "TURUT BERPERAN"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:32
+#: ../../themes/qgis-theme/getinvolved_index.html:35
 msgid "Participate in Support"
 msgstr "Berpartisipasi dalam Dukungan"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:35
+#: ../../themes/qgis-theme/getinvolved_index.html:38
 msgid "Translate"
 msgstr "Penerjemahan"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:38
+#: ../../themes/qgis-theme/getinvolved_index.html:41
 msgid "Develop a Plugin"
 msgstr "Pembuatan Plugin"
 
@@ -54,11 +54,11 @@ msgstr "Pembuatan Plugin"
 msgid "Donate to QGIS"
 msgstr "Donasi ke QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:59
+#: ../../themes/qgis-theme/getinvolved_index.html:75
 msgid "Participate in Support Channels"
 msgstr "Berpartisipasi dalam Saluran Dukungan"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:60
+#: ../../themes/qgis-theme/getinvolved_index.html:76
 msgid ""
 "There are several QGIS mailing lists, IRC channels, forums and user groups "
 "you can use to get help from fellow users and developers, or to keep up with"
@@ -68,17 +68,16 @@ msgid ""
 "archives."
 msgstr "Terdapat beberapa milis QGIS, Channel IRC, Forum dan Grup pengguna yang dapat anda pergunakan untuk memperoleh bantuan dari pengguna atau developer yang lain, atau untuk terus mengikuti perkembangan proyek saat ini. Anda dipersilahkan untuk mendaftar pada saluran yang tersedia. Ingatlah untuk berkontribusi dengan memberikan jawaban dan membagikan pengalaman Anda. Kami juga menyediakan website untuk mencari arsip-arsip pada milis."
 
-#: ../../themes/qgis-theme/getinvolved_index.html:61
+#: ../../themes/qgis-theme/getinvolved_index.html:77
 #: ../../themes/qgis-theme/getinvolved_donations.html:60
-#: ../../themes/qgis-theme/docs_index.html:56
 msgid "List of QGIS Support Channels"
 msgstr "Daftar Saluran Dukungan QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:76
+#: ../../themes/qgis-theme/getinvolved_index.html:92
 msgid "Translate QGIS"
 msgstr "Terjemahkan QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:77
+#: ../../themes/qgis-theme/getinvolved_index.html:93
 msgid ""
 "The QGIS project provides a gentle GIS introduction, a User Guide, a Coding "
 "and Compilation Guide and a API Documentation in english and in some cases "
@@ -87,25 +86,25 @@ msgid ""
 " manual into another language, learn how to get started here:"
 msgstr "Proyek QGIS menyediakan pengenalan awal GIS, Panduan Pengguna, Panduan Coding dan Kompilasi serta Dokumentasi API dalam bahasa Inggris yang pada beberapa kasus juga diterjemahkan dalam berbagai bahasa asing. Apabila anda tertarik untuk turut bergabung dengan usaha penerjemahan, seperti menterjemahkan manual bahasa Inggris dalam bahasa lain, pelajari lebih dulu bagaimana melakukannya di sini:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:79
-#: ../../themes/qgis-theme/docs_index.html:81
+#: ../../themes/qgis-theme/getinvolved_index.html:95
+#: ../../themes/qgis-theme/docs_index.html:115
 msgid "Translate QGIS into your Language"
 msgstr "Terjemahkan QGIS dalam bahasa anda"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:87
+#: ../../themes/qgis-theme/getinvolved_index.html:103
 #: ../../themes/qgis-theme/forusers_index.html:31
 msgid "QGIS Plugins"
 msgstr "Plugin QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:90
+#: ../../themes/qgis-theme/getinvolved_index.html:106
 msgid "A wide range of great plugins exist for QGIS via the "
 msgstr "Sejumlah besar plugin yang bagus tersedia untuk QGIS di"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:90
+#: ../../themes/qgis-theme/getinvolved_index.html:106
 msgid "QGIS Plugin web portal"
 msgstr "QGIS Plugin web portal"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:108
+#: ../../themes/qgis-theme/getinvolved_index.html:124
 msgid "Get Set Up for QGIS Core Development"
 msgstr "Mulai untuk Pembangunan inti QGIS"
 
@@ -134,10 +133,10 @@ msgid "Help Support the Project Financially"
 msgstr "Bantu dukungan finansial untuk proyek"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:160
-#: ../../themes/qgis-theme/getinvolved_donations.html:131
 #: ../../themes/qgis-theme/about_index.html:147
-#: ../../themes/qgis-theme/forusers_index.html:210
-#: ../../themes/qgis-theme/docs_index.html:121
+#: ../../themes/qgis-theme/docs_index.html:155
+#: ../../themes/qgis-theme/getinvolved_donations.html:131
+#: ../../themes/qgis-theme/forusers_index.html:219
 msgid "Back to Top"
 msgstr "Kembali ke Atas"
 
@@ -151,159 +150,147 @@ msgstr "Cari"
 msgid "English"
 msgstr "Inggris"
 
-#: ../../themes/qgis-theme/languageswitch.html:8
+#: ../../themes/qgis-theme/languageswitch.html:6
 msgid "Spanish"
 msgstr "Spanyol"
 
-#: ../../themes/qgis-theme/languageswitch.html:14
+#: ../../themes/qgis-theme/languageswitch.html:12
 msgid "Japanese"
 msgstr "Jepang"
 
-#: ../../themes/qgis-theme/languageswitch.html:7
+#: ../../themes/qgis-theme/languageswitch.html:5
 msgid "German"
 msgstr "Jerman"
 
-#: ../../themes/qgis-theme/languageswitch.html:13
+#: ../../themes/qgis-theme/languageswitch.html:11
 msgid "Italian"
 msgstr "Italia"
 
-#: ../../themes/qgis-theme/forusers_download.html:3
-msgid "Download QGIS for your Platform"
-msgstr "Unduh QGIS untuk platform anda"
-
-#: ../../themes/qgis-theme/forusers_download.html:164
-#: ../../themes/qgis-theme/forusers_download.html:172
+#: ../../themes/qgis-theme/forusers_download.html:170
+#: ../../themes/qgis-theme/forusers_download.html:178
 msgid "Plugins for QGIS are also available "
 msgstr "Plugin untuk QGIS juga tersedia"
 
-#: ../../themes/qgis-theme/forusers_download.html:163
-#: ../../themes/qgis-theme/forusers_download.html:164
+#: ../../themes/qgis-theme/forusers_download.html:169
 #: ../../themes/qgis-theme/forusers_download.html:170
-#: ../../themes/qgis-theme/forusers_download.html:172
+#: ../../themes/qgis-theme/forusers_download.html:176
+#: ../../themes/qgis-theme/forusers_download.html:177
+#: ../../themes/qgis-theme/forusers_download.html:178
 msgid "here"
 msgstr "di sini"
 
-#: ../../themes/qgis-theme/forusers_download.html:28
+#: ../../themes/qgis-theme/forusers_download.html:34
 msgid "Download for Windows"
 msgstr "Unduh untuk Windows"
 
-#: ../../themes/qgis-theme/forusers_download.html:34
+#: ../../themes/qgis-theme/forusers_download.html:40
 msgid "For New Users:"
 msgstr "Untuk pengguna baru:"
 
-#: ../../themes/qgis-theme/forusers_download.html:44
-#: ../../themes/qgis-theme/forusers_download.html:55
+#: ../../themes/qgis-theme/forusers_download.html:50
+#: ../../themes/qgis-theme/forusers_download.html:61
 msgid "Virus check"
 msgstr "Pemeriksaan virus"
 
-#: ../../themes/qgis-theme/forusers_download.html:74
+#: ../../themes/qgis-theme/forusers_download.html:80
 msgid "In the installer choose "
 msgstr "Pada installer, pilih"
 
-#: ../../themes/qgis-theme/forusers_download.html:74
+#: ../../themes/qgis-theme/forusers_download.html:80
 msgid "Desktop Express Install"
 msgstr "Desktop Express Install"
 
-#: ../../themes/qgis-theme/forusers_download.html:74
+#: ../../themes/qgis-theme/forusers_download.html:80
 msgid "and select"
 msgstr "dan pilih"
 
-#: ../../themes/qgis-theme/index.html:3
-#: ../../themes/qgis-theme/forusers_download.html:74
+#: ../../themes/qgis-theme/forusers_download.html:80
+#: ../../themes/qgis-theme/index.html:8
 msgid "QGIS"
 msgstr "QGIS"
 
-#: ../../themes/qgis-theme/forusers_download.html:74
+#: ../../themes/qgis-theme/forusers_download.html:80
 msgid "to install."
 msgstr "untuk menginstal."
 
-#: ../../themes/qgis-theme/forusers_download.html:83
+#: ../../themes/qgis-theme/forusers_download.html:89
 msgid "Download for Mac OS X"
 msgstr "Unduh untuk Mac OS X"
 
-#: ../../themes/qgis-theme/forusers_download.html:88
-msgid ""
-"Mac Installer Package for both OS X Lion (10.7) and Snow Leopard (10.6)."
-msgstr "Paket instalasi Mac untuk OS X Lion (10.7) dan Snow Leopard (10.6)."
-
-#: ../../themes/qgis-theme/forusers_download.html:89
+#: ../../themes/qgis-theme/forusers_download.html:95
 msgid "This version requires"
 msgstr "Versi ini memerlukan"
 
-#: ../../themes/qgis-theme/forusers_download.html:89
+#: ../../themes/qgis-theme/forusers_download.html:95
 msgid "separate installation of dependency frameworks (GDAL Complete and GSL)"
 msgstr "instalasi terpisah dari dependency framework (GDAL Lengkap dan GSL)"
 
-#: ../../themes/qgis-theme/forusers_download.html:89
+#: ../../themes/qgis-theme/forusers_download.html:95
 msgid ", also found at the download link below."
 msgstr ", juga ditemukan pada link unduhan di bawah."
 
-#: ../../themes/qgis-theme/forusers_download.html:93
+#: ../../themes/qgis-theme/forusers_download.html:99
 msgid "KyngChaos QGIS download page"
 msgstr "KyngChaos QGIS download page"
 
-#: ../../themes/qgis-theme/forusers_download.html:102
+#: ../../themes/qgis-theme/forusers_download.html:108
 msgid "Download for Linux"
 msgstr "Unduh untuk Linux"
 
-#: ../../themes/qgis-theme/forusers_download.html:118
+#: ../../themes/qgis-theme/forusers_download.html:124
 msgid "Linux Installation Instructions"
 msgstr "Intruksi instalasi Linux"
 
-#: ../../themes/qgis-theme/forusers_download.html:126
+#: ../../themes/qgis-theme/forusers_download.html:132
 msgid "Download for BSD"
 msgstr "Unduh untuk BSD"
 
-#: ../../themes/qgis-theme/forusers_download.html:131
+#: ../../themes/qgis-theme/forusers_download.html:137
 msgid "BSD Installation Instructions"
 msgstr "Instruksi instalasi BSD"
 
-#: ../../themes/qgis-theme/forusers_download.html:139
+#: ../../themes/qgis-theme/forusers_download.html:145
 msgid "Download for Android"
 msgstr "Unduh untuk Android"
 
-#: ../../themes/qgis-theme/forusers_download.html:144
+#: ../../themes/qgis-theme/forusers_download.html:150
 msgid ""
 "Alpha and nightly builds for Android as well as further documentation can be"
 " obtained at "
 msgstr "Alpha dan nightly build untuk Android serta dokumentasi lebih jauh dapat diperoleh di"
 
-#: ../../themes/qgis-theme/forusers_download.html:151
-#: ../../themes/qgis-theme/forusers_download.html:153
+#: ../../themes/qgis-theme/forusers_download.html:157
+#: ../../themes/qgis-theme/forusers_download.html:159
 msgid "All downloads"
 msgstr "Semua unduhan"
 
-#: ../../themes/qgis-theme/forusers_download.html:169
+#: ../../themes/qgis-theme/forusers_download.html:175
 msgid "QGIS is open source software available under the terms of the"
 msgstr "QGIS merupakan perangkat lunak open source yang tersedia berdasarkan"
 
-#: ../../themes/qgis-theme/forusers_download.html:169
+#: ../../themes/qgis-theme/forusers_download.html:175
 msgid "GNU General Public License"
 msgstr "GNU General Public License"
 
-#: ../../themes/qgis-theme/forusers_download.html:169
+#: ../../themes/qgis-theme/forusers_download.html:175
 msgid ""
 "meaning that its source code can be downloaded through tarballs or the git "
 "repository."
 msgstr "artinya, kode sumbernya dapat diunduh melalui tarball atau repositori git."
 
-#: ../../themes/qgis-theme/forusers_download.html:157
+#: ../../themes/qgis-theme/forusers_download.html:163
 msgid "For testing and learning purposes, a "
 msgstr "Untuk keperluan testing dan pembelajaran, sebuah"
 
-#: ../../themes/qgis-theme/forusers_download.html:157
+#: ../../themes/qgis-theme/forusers_download.html:163
 msgid ""
 "which contains collections of data from different sources and in different "
 "formats."
 msgstr "yang memuat kumpulan data dari berbagai sumber dan dalam berbagai format."
 
-#: ../../themes/qgis-theme/forusers_download.html:163
+#: ../../themes/qgis-theme/forusers_download.html:169
 msgid "Older releases of QGIS are available"
 msgstr "Rilis QGIS yang lebih lama tersedia"
-
-#: ../../themes/qgis-theme/forusers_download.html:170
-msgid "QGIS Source Code is available on github "
-msgstr "Source Code QGIS tersedia di Github"
 
 #: ../../themes/qgis-theme/about_index.html:7
 msgid "Discover what makes QGIS the leading Open Source desktop GIS"
@@ -349,17 +336,9 @@ msgstr "Unduh di sini."
 
 #: ../../themes/qgis-theme/about_index.html:68
 #: ../../themes/qgis-theme/forusers_index.html:37
-#: ../../themes/qgis-theme/forusers_index.html:124
+#: ../../themes/qgis-theme/forusers_index.html:133
 msgid "Features"
 msgstr "Fitur"
-
-#: ../../themes/qgis-theme/about_index.html:69
-msgid ""
-"QGIS provides a continously grow-fluiding number of capabilities provided by"
-" core functions and plugins. You can visualize, manage, edit, analyse data, "
-"and compose printable maps. Get a first impression with a more detailed "
-"feature list."
-msgstr "QGIS menyediakan sejumlah besar kemampuan yang terus tumbuh dari fungsi inti QGIS dan plugin-plugin tambahan. Anda dapat menampilkan, memanajemen, mengedit, menganalisis data, dan menyusun peta yang dapat dicetak. Dapatkan kesan pertama dengan daftar fitur yang lebih lengkap."
 
 #: ../../themes/qgis-theme/about_index.html:72
 msgid "Take the QGIS feature tour"
@@ -410,7 +389,7 @@ msgstr "Organisasi yang mendukung QGIS"
 #: ../../themes/qgis-theme/about_index.html:40
 #: ../../themes/qgis-theme/about_index.html:130
 #: ../../themes/qgis-theme/forusers_index.html:46
-#: ../../themes/qgis-theme/forusers_index.html:193
+#: ../../themes/qgis-theme/forusers_index.html:202
 msgid "Commercial Support"
 msgstr "Dukungan Komersial"
 
@@ -425,84 +404,76 @@ msgstr "Apakah anda berencana untuk menggunakan QGIS pada perusahaan atau organi
 msgid "Learn about Commercial Support for QGIS"
 msgstr "Pelajari mengenai Dukungan Komersial untuk QGIS"
 
-#: ../../themes/qgis-theme/index.html:6
+#: ../../themes/qgis-theme/index.html:11
 msgid "A Free and Open Source Geographic Information System"
 msgstr "Sistem Informasi Geografis yang Gratis dan Terbuka"
 
-#: ../../themes/qgis-theme/index.html:35
+#: ../../themes/qgis-theme/index.html:55
 msgid "QGIS 2.0 Released"
 msgstr "QGIS 2.0 Telah Dirilis"
 
-#: ../../themes/qgis-theme/index.html:37
+#: ../../themes/qgis-theme/index.html:57
 msgid "Version 2.0 Dufour is named after..."
 msgstr "Versi 2.0 Dufour dinamakan berdasarkan pada..."
 
-#: ../../themes/qgis-theme/index.html:37
+#: ../../themes/qgis-theme/index.html:57
 msgid "more"
 msgstr "lebih lanjut"
 
-#: ../../themes/qgis-theme/index.html:74
+#: ../../themes/qgis-theme/index.html:94
 msgid ""
 "Create, edit, visualise, analyse and publish geospatial\n"
 "            information on Windows, Mac, Linux, BSD (Android coming soon)"
 msgstr "Buat, edit, tampilkan, analisa dan terbitkan informasi\ngeospasial di Windows, Mac, Linux, BSD (Android segera menyusul)"
 
-#: ../../themes/qgis-theme/index.html:78
+#: ../../themes/qgis-theme/index.html:98
 msgid ""
 "For your desktop, server, in your web browser and as\n"
 "            developer libraries"
 msgstr "Untuk desktop anda, server, pada web browser dan\nsebagai pustaka developer"
 
-#: ../../themes/qgis-theme/index.html:85
+#: ../../themes/qgis-theme/index.html:105
 msgid "Download Now"
 msgstr "Unduh Sekarang"
 
-#: ../../themes/qgis-theme/index.html:102
+#: ../../themes/qgis-theme/index.html:134
 msgid "Get Started"
 msgstr "Mulai"
 
-#: ../../themes/qgis-theme/index.html:106
-msgid "Download and Install QGIS then follow the Quickstart."
-msgstr "Unduh dan Install QGIS kemudian ikuti Quickstart."
-
-#: ../../themes/qgis-theme/page.html:133
-#: ../../themes/qgis-theme/index.html:115
+#: ../../themes/qgis-theme/index.html:147
+#: ../../themes/qgis-theme/page.html:134
 msgid "Get Involved"
 msgstr "Turut terlibat"
 
-#: ../../themes/qgis-theme/index.html:118
+#: ../../themes/qgis-theme/index.html:150
 msgid "Shape the future of QGIS with your contributions."
 msgstr "Turut membentuk masa depan QGIS dengan kontribusi anda."
 
-#: ../../themes/qgis-theme/index.html:126
+#: ../../themes/qgis-theme/index.html:158
 msgid "Learn More"
 msgstr "Pelajari Lagi"
 
-#: ../../themes/qgis-theme/index.html:130
+#: ../../themes/qgis-theme/index.html:162
 msgid "Find training materials and reference documentation."
 msgstr "Temukan materi pelatihan dan dokumentasi dengan rujukan."
 
-#: ../../themes/qgis-theme/index.html:143
+#: ../../themes/qgis-theme/index.html:175
 msgid "Latest News"
 msgstr "Kabar Terakhir"
 
-#: ../../themes/qgis-theme/index.html:146
-msgid "Find out what is going on with the QGIS project and its Community."
-msgstr "Cari tahu apa yang sedang terjadi dengan proyek QGIS dan komunitasnya."
-
-#: ../../themes/qgis-theme/forusers_index.html:154
+#: ../../themes/qgis-theme/forusers_index.html:163
 msgid "Planet QGIS"
 msgstr "Planet QGIS"
 
-#: ../../themes/qgis-theme/index.html:202
+#: ../../themes/qgis-theme/index.html:234
 msgid "Sponsors"
 msgstr "Sponsor"
 
-#: ../../themes/qgis-theme/index.html:209
+#: ../../themes/qgis-theme/index.html:241
 msgid "Gold Sponsor"
 msgstr "Sponsor Emas"
 
-#: ../../themes/qgis-theme/index.html:215
+#: ../../themes/qgis-theme/index.html:247
 msgid "Silver Sponsors"
 msgstr "Sponsor Perak"
 
@@ -514,16 +485,16 @@ msgstr "Daftar Isi"
 msgid "Page"
 msgstr "Halaman"
 
-#: ../../themes/qgis-theme/page.html:131
+#: ../../themes/qgis-theme/page.html:132
 msgid "Discover QGIS"
 msgstr "Jelajahi QGIS"
 
-#: ../../themes/qgis-theme/page.html:132
+#: ../../themes/qgis-theme/page.html:133
 #: ../../themes/qgis-theme/forusers_index.html:23
 msgid "For Users"
 msgstr "Untuk pengguna"
 
-#: ../../themes/qgis-theme/page.html:134
+#: ../../themes/qgis-theme/page.html:135
 #: ../../themes/qgis-theme/forusers_index.html:34
 msgid "Documentation"
 msgstr "Dokumentasi"
@@ -533,7 +504,7 @@ msgid "Download"
 msgstr "Unduh"
 
 #: ../../themes/qgis-theme/forusers_index.html:40
-#: ../../themes/qgis-theme/forusers_index.html:140
+#: ../../themes/qgis-theme/forusers_index.html:149
 msgid "Getting Help"
 msgstr "Cari Bantuan"
 
@@ -542,66 +513,66 @@ msgstr "Cari Bantuan"
 msgid "Download QGIS"
 msgstr "Unduh QGIS"
 
-#: ../../themes/qgis-theme/forusers_index.html:80
+#: ../../themes/qgis-theme/forusers_index.html:89
 msgid "Get Plugins"
 msgstr "Dapatkan Plugin"
 
-#: ../../themes/qgis-theme/forusers_index.html:102
 #: ../../themes/qgis-theme/docs_index.html:7
+#: ../../themes/qgis-theme/forusers_index.html:111
 msgid "QGIS Documentation"
 msgstr "Dokumentasi QGIS"
 
-#: ../../themes/qgis-theme/forusers_index.html:106
+#: ../../themes/qgis-theme/forusers_index.html:115
 msgid "Read QGIS Documentation"
 msgstr "Baca Dokumentasi QGIS"
 
-#: ../../themes/qgis-theme/forusers_index.html:108
+#: ../../themes/qgis-theme/forusers_index.html:117
 msgid "Another good guide to getting started is:"
 msgstr "Panduan lain yang baik untuk memulai:"
 
-#: ../../themes/qgis-theme/forusers_index.html:111
+#: ../../themes/qgis-theme/forusers_index.html:120
 msgid "A Gentle Introduction to GIS"
 msgstr "A Gentle Introduction to GIS"
 
-#: ../../themes/qgis-theme/forusers_index.html:128
+#: ../../themes/qgis-theme/forusers_index.html:137
 msgid "Learn about QGIS Features"
 msgstr "Pelajari tentang Fitur-fitur QGIS"
 
-#: ../../themes/qgis-theme/forusers_index.html:143
+#: ../../themes/qgis-theme/forusers_index.html:152
 msgid "Where to get support for QGIS"
 msgstr "Di mana mendapatkan bantuan QGIS"
 
-#: ../../themes/qgis-theme/forusers_index.html:151
+#: ../../themes/qgis-theme/forusers_index.html:160
 msgid "QGIS Press"
 msgstr "QGIS Press"
 
-#: ../../themes/qgis-theme/forusers_index.html:173
+#: ../../themes/qgis-theme/forusers_index.html:182
 msgid "Organizations that Support QGIS"
 msgstr "Organisasi yang mendukung QGIS"
 
-#: ../../themes/qgis-theme/forusers_index.html:174
+#: ../../themes/qgis-theme/forusers_index.html:183
 msgid ""
 "QGIS is an entirely Open Source project. QGIS development is carried out "
 "largely by a group of volunteers, that in time have built up a large, "
 "valuable and useful code base, free to use and improve for everybody."
 msgstr "QGIS merupakan proyek yang sepenuhnya open source. Pembangunan QGIS ditangani sebagian besar oleh kelompok sukarelawan, yang seiring waktu membangun basis kode yang besar, bernilai dan berguna serta dapat digunakan secara gratis dan ditingkatkan oleh siapa saja."
 
-#: ../../themes/qgis-theme/forusers_index.html:177
+#: ../../themes/qgis-theme/forusers_index.html:186
 msgid "Learn about Organizations that support QGIS"
 msgstr "Pelajari tentang Organisasi yang mendukung QGIS"
 
-#: ../../themes/qgis-theme/forusers_index.html:194
+#: ../../themes/qgis-theme/forusers_index.html:203
 msgid ""
 "Do you plan to use QGIS in your company or organization, but worry about "
 "whether there is commercial support available? Here is an alphabetical list "
 "of support contractors."
 msgstr "Apakah anda berencana untuk menggunakan QGIS pada perusahaan atau organisasi anda, tetapi khawatir mengenai apakah ada dukungan komersial yang ada? Berikut ini kontraktor pendukung dalam daftar alfabetik, dibagi dalam masing-masing kategori."
 
-#: ../../themes/qgis-theme/forusers_index.html:197
+#: ../../themes/qgis-theme/forusers_index.html:206
 msgid "Finding Commercial Support for QGIS"
 msgstr "Temukan Dukungan Komersial untuk QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:106
+#: ../../themes/qgis-theme/getinvolved_index.html:122
 msgid ""
 "QGIS Core consists on the one hand of the libraries enabling you to build "
 "custom tailored application by  providing a powerful API. On the other hand "
@@ -609,79 +580,65 @@ msgid ""
 "possibilities offered by the libraries, offering a user friendly interface."
 msgstr "QGIS Core terdiri dari sekumpulan pustaka yang memungkinkan anda untuk membuat aplikasi sendiri dengan menyediakan API yang ampuh di satu sisi, Di sisi yang lain ia terdiri dari aplikasi desktop dan server yang mengungkap kemungkinan yang ditawarkan oleh pustaka, memungkinkan suatu antarmuka yang user friendly."
 
-#: ../../themes/qgis-theme/languageswitch.html:11
+#: ../../themes/qgis-theme/languageswitch.html:9
 msgid "French"
 msgstr "Prancis"
 
-#: ../../themes/qgis-theme/languageswitch.html:20
+#: ../../themes/qgis-theme/languageswitch.html:21
 msgid "Russian"
 msgstr "Rusia"
 
-#: ../../themes/qgis-theme/languageswitch.html:6
-msgid "Danish"
-msgstr "Denmark"
-
-#: ../../themes/qgis-theme/languageswitch.html:16
+#: ../../themes/qgis-theme/languageswitch.html:14
 msgid "Korean"
 msgstr "Korea"
 
-#: ../../themes/qgis-theme/forusers_download.html:157
+#: ../../themes/qgis-theme/forusers_download.html:163
 msgid "sample dataset is available"
 msgstr "set data contoh tersedia"
 
-#: ../../themes/qgis-theme/index.html:26
+#: ../../themes/qgis-theme/index.html:45
 msgid "QGIS 2 has a fresh new look ..."
 msgstr "QGIS 2 memiliki tampilan baru yang segar.."
 
-#: ../../themes/qgis-theme/index.html:26
+#: ../../themes/qgis-theme/index.html:46
 msgid "check out some screenshots"
 msgstr "Lihat beberapa Screenshot QGIS"
 
-#: ../../themes/qgis-theme/index.html:46
+#: ../../themes/qgis-theme/index.html:66
 msgid "Edit"
 msgstr "Edit"
 
-#: ../../themes/qgis-theme/index.html:48
+#: ../../themes/qgis-theme/index.html:68
 msgid "QGIS 2 has rich vector editing features ..."
 msgstr "QGIS 2 memiliki fitur editing vektor yang kaya..."
 
-#: ../../themes/qgis-theme/index.html:48
+#: ../../themes/qgis-theme/index.html:68
 msgid "check out our manual"
 msgstr "lihat manual kami"
 
-#: ../../themes/qgis-theme/index.html:57
+#: ../../themes/qgis-theme/index.html:77
 msgid "Print"
 msgstr "Cetak"
 
-#: ../../themes/qgis-theme/index.html:59
+#: ../../themes/qgis-theme/index.html:79
 msgid "QGIS 2 Print Composer has received a major face-lift ..."
 msgstr "Print Composer pada QGIS 2 telah mengalami banyak perbaikan..."
 
-#: ../../themes/qgis-theme/index.html:59
+#: ../../themes/qgis-theme/index.html:79
 msgid "check out the new features"
 msgstr "lihat fitur-fitur terbaru"
 
-#: ../../themes/qgis-theme/forusers_index.html:60
-msgid "For Linux, Windows, OSX, BSD and beta Android."
-msgstr "Untuk Linux, Windows, OSX BSD dan beta Android."
-
-#: ../../themes/qgis-theme/forusers_index.html:83
-msgid ""
-"The integrated plugin manager in QGIS lets you download and install from a "
-"vast collection of free plugins."
-msgstr "Plugin manager yang terintegrasi di QGIS memungkinkan anda mengunduh dan menginstal dari koleksi plugin yang sangat banyak."
-
-#: ../../themes/qgis-theme/forusers_index.html:86
+#: ../../themes/qgis-theme/forusers_index.html:95
 msgid "Explore the plugins that make QGIS so powerful."
 msgstr "Jelajahi plugin-plugin yang membuat QGIS begitu canggih."
 
-#: ../../themes/qgis-theme/forusers_index.html:103
+#: ../../themes/qgis-theme/forusers_index.html:112
 msgid ""
 "The User manual contains all documentation needed for a user to get started."
 " The documentation is updated with every update of QGIS."
 msgstr "Panduan Pengguna memuat semua dokumentasi yang diperlukan bagi pengguna untuk memulai. Dokumentasi diperbarui pada setiap update dari QGIS."
 
-#: ../../themes/qgis-theme/forusers_index.html:125
+#: ../../themes/qgis-theme/forusers_index.html:134
 msgid ""
 "QGIS provides a wide and growing range of capabilities via its core "
 "functions and plugins. You can visualize, manage, edit, analyse data, and "
@@ -689,7 +646,7 @@ msgid ""
 "list."
 msgstr "QGIS menyediakan sejumlah besar kemampuan yang terus tumbuh dari fungsi inti QGIS dan plugin tambahan. Anda dapat menampilkan, memanajemen, mengedit, menganalisis data, dan menyusun peta yang dapat dicetak. Dapatkan kesan pertama dengan daftar fitur yang lebih lengkap."
 
-#: ../../themes/qgis-theme/forusers_index.html:141
+#: ../../themes/qgis-theme/forusers_index.html:150
 msgid ""
 "There are several QGIS mailing lists, IRC channels, forums and user groups "
 "you can use to get help from fellow users and developers."
@@ -699,11 +656,7 @@ msgstr "Terdapat sejumlah milis QGIS, Channel IRC, forum dan grup pengguna yang 
 msgid "New donations page"
 msgstr "Halaman donasi baru."
 
-#: ../../themes/qgis-theme/languageswitch.html:5
-msgid "Catalan"
-msgstr "Catalunia"
-
-#: ../../themes/qgis-theme/languageswitch.html:10
+#: ../../themes/qgis-theme/languageswitch.html:8
 msgid "Finnish"
 msgstr "Finlandia"
 
@@ -715,82 +668,71 @@ msgstr "Portugis"
 msgid "Romanian"
 msgstr "Romania"
 
-#: ../../themes/qgis-theme/languageswitch.html:21
+#: ../../themes/qgis-theme/languageswitch.html:23
 msgid "Chinese (China)"
 msgstr "Mandarin (China)"
 
-#: ../../themes/qgis-theme/languageswitch.html:22
-#: ../../themes/qgis-theme/languageswitch.html:22
-msgid "Chinese (Taiwan)"
-msgstr "Mandarin (Taiwan)"
-
-#: ../../themes/qgis-theme/forusers_download.html:13
+#: ../../themes/qgis-theme/forusers_download.html:19
 msgid "Installation Downloads"
 msgstr "Unduh Instalase"
 
-#: ../../themes/qgis-theme/forusers_download.html:14
+#: ../../themes/qgis-theme/forusers_download.html:20
 msgid "All Releases"
 msgstr "Semua Rilis"
 
-#: ../../themes/qgis-theme/forusers_download.html:15
+#: ../../themes/qgis-theme/forusers_download.html:21
 msgid "Sources"
 msgstr "Sumber"
 
-#: ../../themes/qgis-theme/forusers_download.html:64
+#: ../../themes/qgis-theme/forusers_download.html:70
 msgid "OSGeo4W Network Installer (32 bit)"
 msgstr "Installer OSGeo4W Network (32 bit)"
 
-#: ../../themes/qgis-theme/forusers_download.html:71
+#: ../../themes/qgis-theme/forusers_download.html:77
 msgid "OSGeo4W Network Installer (64 bit)"
 msgstr "Installer OSGeo4W Network (64 bit)"
 
-#: ../../themes/qgis-theme/forusers_download.html:111
+#: ../../themes/qgis-theme/forusers_download.html:117
 msgid "Fedora"
 msgstr "Fedora"
 
-#: ../../themes/qgis-theme/forusers_download.html:109
+#: ../../themes/qgis-theme/forusers_download.html:115
 msgid "Ubuntu"
 msgstr "Ubuntu"
 
-#: ../../themes/qgis-theme/forusers_download.html:110
+#: ../../themes/qgis-theme/forusers_download.html:116
 msgid "Debian"
 msgstr "Debian"
 
-#: ../../themes/qgis-theme/forusers_download.html:112
+#: ../../themes/qgis-theme/forusers_download.html:118
 msgid "openSUSE"
 msgstr "openSUSE"
 
-#: ../../themes/qgis-theme/forusers_download.html:113
+#: ../../themes/qgis-theme/forusers_download.html:119
 msgid "RHEL, CentOS, Scientific Linux, ..."
 msgstr "RHEL, CentOS, Scientific Linux, ..."
 
-#: ../../themes/qgis-theme/forusers_download.html:114
+#: ../../themes/qgis-theme/forusers_download.html:120
 msgid "Mandriva"
 msgstr "Mandriva"
 
-#: ../../themes/qgis-theme/forusers_download.html:115
+#: ../../themes/qgis-theme/forusers_download.html:121
 msgid "Slackware"
 msgstr "Slackware"
 
-#: ../../themes/qgis-theme/forusers_download.html:116
+#: ../../themes/qgis-theme/forusers_download.html:122
 msgid "ArchLinux"
 msgstr "ArchLinux"
 
-#: ../../themes/qgis-theme/forusers_download.html:153
+#: ../../themes/qgis-theme/forusers_download.html:159
 msgid ""
 "More specific instructions about downloading QGIS stable vs QGIS development"
 " can be found in"
 msgstr "Instruksi yang lebih spesifik mengenai cara mengunduh QGIS stabil dan QGIS development dapat ditemukan di"
 
-#: ../../themes/qgis-theme/forusers_download.html:156
+#: ../../themes/qgis-theme/forusers_download.html:162
 msgid "Datasets"
 msgstr "Dataset"
-
-#: ../../themes/qgis-theme/forusers_download.html:171
-msgid ""
-"Refer to the INSTALL guide on how to compile QGIS from source for the "
-"different platforms."
-msgstr "Rujuklah panduan INSTALL mengenai bagaimana mengkompilasi QGIS dari sumbernya pada platform yang berbeda."
 
 #: ../../themes/qgis-theme/getinvolved_donations.html:66
 msgid "Donate via PayPal.com"
@@ -835,71 +777,67 @@ msgid ""
 "via the button below."
 msgstr "Flattr merupakan satu cara untuk membuat donasi bagi pembuat atau developer. Baca melalui tombol di bawah."
 
-#: ../../themes/qgis-theme/index.html:89
+#: ../../themes/qgis-theme/index.html:109
 msgid "Support QGIS"
 msgstr "Dukung QGIS"
 
-#: ../../themes/qgis-theme/index.html:90
+#: ../../themes/qgis-theme/index.html:110
 msgid "Donate now!"
 msgstr "Donasi sekarang!"
 
-#: ../../themes/qgis-theme/page.html:39
+#: ../../themes/qgis-theme/page.html:40
 msgid ""
 "If not stated otherwise, all content is licensed under <a "
 "href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
 "Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
 msgstr "Apabila tidak ada pernyataan lain, semua konten memiliki lisensi di bawah <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
 
-#: ../../themes/qgis-theme/page.html:43
+#: ../../themes/qgis-theme/page.html:44
 msgid ""
 "Select graphics from <a href=\"http://thenounproject.com\" "
 "target=\"_blank\">The Noun Project collection</a>"
 msgstr "Gambar-gambar dari  <a href=\"http://thenounproject.com\" target=\"_blank\">The Noun Project collection</a>"
 
-#: ../../themes/qgis-theme/forusers_index.html:65
-msgid "Check out our visual changelog, for what is changed since QGIS 1.8"
-msgstr "Lihat visual changelog kami mengenai apa yang telah diperbarui sejak QGIS 1.8"
-
-#: ../../themes/qgis-theme/forusers_index.html:68
+#: ../../themes/qgis-theme/forusers_index.html:74
 msgid "Visual Changelog for 2.0"
 msgstr "Visual Changelog untuk 2.0"
 
-#: ../../themes/qgis-theme/languageswitch.html:9
+#: ../../themes/qgis-theme/languageswitch.html:7
 msgid "Persian"
 msgstr "Persia"
 
-#: ../../themes/qgis-theme/languageswitch.html:17
+#: ../../themes/qgis-theme/languageswitch.html:15
 msgid "Dutch"
 msgstr "Belanda"
 
-#: ../../themes/qgis-theme/forusers_download.html:107
+#: ../../themes/qgis-theme/forusers_download.html:113
 msgid ""
 "For many flavors of GNU/Linux binary packages (rpm and deb) or software "
 "repositories (to add to your installation manager) are available. Please "
 "select your choice of distro below:"
 msgstr "Bagi banyak paket binari GNU/Linux (rpm dan deb) atau repositori perangkat lunak (untuk menambah manajer pemasangan) yang tersedia. Silakan pilih distro Anda di bawah ini:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:88
+#: ../../themes/qgis-theme/getinvolved_index.html:104
 msgid "Want to write your own Python plugin? Go here: "
 msgstr "Ingin menulis Plugin Python? Silakan ke sini:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:88
+#: ../../themes/qgis-theme/getinvolved_index.html:104
 msgid "Developing Python plugins"
 msgstr "Mengembangkan Plugin Python"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:89
+#: ../../themes/qgis-theme/getinvolved_index.html:105
 msgid "Want to develop a cpp plugin? Go here: "
 msgstr "Ingin mengembangkan plugin cpp? Silakan kesini:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:89
+#: ../../themes/qgis-theme/getinvolved_index.html:105
 msgid "Developing CPP plugins"
 msgstr "Mengembangkan plugin CPP"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:111
+#: ../../themes/qgis-theme/getinvolved_index.html:127
 msgid "QGIS roadmap"
 msgstr "Peta jalan QGIS"
 
-#: ../../themes/qgis-theme/forusers_download.html:59
+#: ../../themes/qgis-theme/forusers_download.html:65
 msgid "For Advanced Users:"
 msgstr "Untuk Pengguna tingkat lanjut:"
 
@@ -909,163 +847,137 @@ msgid ""
 "                    Use the details below to make a donation via international money transfer:"
 msgstr "Grup pengguna QGIS Swiss mengurus akun bank kami. Anda dapat melakukan transfer uang internasional ke:"
 
-#: ../../themes/qgis-theme/forusers_index.html:152
+#: ../../themes/qgis-theme/forusers_index.html:161
 msgid "Read what the QGIS Community is doing around the world."
 msgstr "Baca tentang apa yang dilakukan komunitas QGIS di seluruh dunia."
 
-#: ../../themes/qgis-theme/forusers_index.html:156
+#: ../../themes/qgis-theme/forusers_index.html:165
 msgid "Get the QGIS 2.0 brochure:"
 msgstr "Dapatkan brosur QGIS 2.0:"
 
-#: ../../themes/qgis-theme/forusers_index.html:158
+#: ../../themes/qgis-theme/forusers_index.html:167
 msgid "QGIS 2.0 Brochure"
 msgstr "Brosur QGIS 2.0"
 
-#: ../../themes/qgis-theme/forusers_index.html:160
+#: ../../themes/qgis-theme/forusers_index.html:169
 msgid "for a high-resolution print version get:"
 msgstr "untuk mendapatkan versi cetak resolusi tinggi:"
 
-#: ../../themes/qgis-theme/forusers_index.html:161
+#: ../../themes/qgis-theme/forusers_index.html:170
 msgid "Brochure print version (15MB)"
 msgstr "Brosur versi cetak (15MB)"
 
-#: ../../themes/qgis-theme/languageswitch.html:12
+#: ../../themes/qgis-theme/languageswitch.html:10
 msgid "Indonesian"
 msgstr "Indonesia"
 
-#: ../../themes/qgis-theme/languageswitch.html:15
+#: ../../themes/qgis-theme/languageswitch.html:13
 msgid "Khmer"
 msgstr "Khmer"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:44
-#: ../../themes/qgis-theme/getinvolved_index.html:123
+#: ../../themes/qgis-theme/getinvolved_index.html:32
+#: ../../themes/qgis-theme/getinvolved_index.html:63
 msgid "Report Bugs"
 msgstr "Laporan Kesalahan"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:124
+#: ../../themes/qgis-theme/getinvolved_index.html:64
 msgid ""
 "If you find an issue working with QGIS please report it so developers can "
 "check and fix it."
 msgstr "Jika Anda menemukan masalah saat menggunakan QGIS tolong laporkan sehingga para pengembang dapat memeriksa dan memperbaikinya."
 
-#: ../../themes/qgis-theme/getinvolved_index.html:126
+#: ../../themes/qgis-theme/getinvolved_index.html:66
 msgid "Report a bug"
 msgstr "Laporkan kesalahan"
 
-#: ../../themes/qgis-theme/docs_index.html:24
+#: ../../themes/qgis-theme/docs_index.html:25
 msgid "DOCUMENTATION"
 msgstr "DOKUMENTASI"
 
-#: ../../themes/qgis-theme/docs_index.html:29
-#: ../../themes/qgis-theme/docs_index.html:48
-msgid "for QGIS 2.0"
-msgstr "untuk QGIS 2.0"
-
-#: ../../themes/qgis-theme/docs_index.html:32
-#: ../../themes/qgis-theme/docs_index.html:74
-msgid "for QGIS 1.8"
-msgstr "untuk QGIS 1.8"
-
-#: ../../themes/qgis-theme/docs_index.html:35
-#: ../../themes/qgis-theme/docs_index.html:92
+#: ../../themes/qgis-theme/docs_index.html:126
 msgid "for QGIS testing"
 msgstr "untuk ujicoba QGIS"
 
-#: ../../themes/qgis-theme/docs_index.html:49
+#: ../../themes/qgis-theme/docs_index.html:85
 msgid "QGIS User guide/Manual"
 msgstr "Panduan Pengguna QGIS"
 
-#: ../../themes/qgis-theme/docs_index.html:51
+#: ../../themes/qgis-theme/docs_index.html:71
+#: ../../themes/qgis-theme/docs_index.html:87
 msgid "PyQGIS cookbook (for plugins and scripting)"
 msgstr "PyQGIS cookbook (untuk plugin dan menulis skrip)"
 
-#: ../../themes/qgis-theme/docs_index.html:52
+#: ../../themes/qgis-theme/docs_index.html:66
+#: ../../themes/qgis-theme/docs_index.html:88
 msgid "Documentation Guidelines"
 msgstr "Panduan Dokumentasi"
 
-#: ../../themes/qgis-theme/docs_index.html:53
-#: ../../themes/qgis-theme/docs_index.html:79
-#: ../../themes/qgis-theme/docs_index.html:99
+#: ../../themes/qgis-theme/docs_index.html:61
+#: ../../themes/qgis-theme/docs_index.html:89
+#: ../../themes/qgis-theme/docs_index.html:113
+#: ../../themes/qgis-theme/docs_index.html:133
 msgid "A gentle introduction in GIS"
 msgstr "Pengantar QGIS"
 
-#: ../../themes/qgis-theme/docs_index.html:80
-#: ../../themes/qgis-theme/docs_index.html:100
+#: ../../themes/qgis-theme/docs_index.html:114
+#: ../../themes/qgis-theme/docs_index.html:134
 msgid "PDF versions of all above, eg for printing are available here: "
 msgstr "Versi PDF dari semua di atas, misalnya untuk mencetak tersedia di sini:"
 
-#: ../../themes/qgis-theme/docs_index.html:54
+#: ../../themes/qgis-theme/docs_index.html:90
 msgid "http://docs.qgis.org/2.0/pdf"
 msgstr "http://docs.qgis.org/2.0/pdf"
 
-#: ../../themes/qgis-theme/docs_index.html:55
+#: ../../themes/qgis-theme/docs_index.html:84
 msgid "http://docs.qgis.org/2.0"
 msgstr "http://docs.qgis.org/2.0"
 
-#: ../../themes/qgis-theme/docs_index.html:75
+#: ../../themes/qgis-theme/docs_index.html:109
 msgid "http://docs.qgis.org/1.8"
 msgstr "http://docs.qgis.org/1.8"
 
-#: ../../themes/qgis-theme/docs_index.html:76
-#: ../../themes/qgis-theme/docs_index.html:94
+#: ../../themes/qgis-theme/docs_index.html:110
+#: ../../themes/qgis-theme/docs_index.html:128
 msgid "User guide/Manual"
 msgstr "Panduan Pengguna"
 
-#: ../../themes/qgis-theme/docs_index.html:77
-#: ../../themes/qgis-theme/docs_index.html:96
+#: ../../themes/qgis-theme/docs_index.html:111
+#: ../../themes/qgis-theme/docs_index.html:130
 msgid "PyQGIS cookbook"
 msgstr "PyQGIS cookbook"
 
-#: ../../themes/qgis-theme/docs_index.html:78
-#: ../../themes/qgis-theme/docs_index.html:97
+#: ../../themes/qgis-theme/docs_index.html:112
+#: ../../themes/qgis-theme/docs_index.html:131
 msgid "Documentation Guidelines (how to write the docs)"
 msgstr "Panduan Dokumentasi (cara menulis dokumentasi)"
 
-#: ../../themes/qgis-theme/docs_index.html:80
+#: ../../themes/qgis-theme/docs_index.html:114
 msgid "http://docs.qgis.org/1.8/pdf"
 msgstr "http://docs.qgis.org/1.8/pdf"
 
-#: ../../themes/qgis-theme/docs_index.html:93
+#: ../../themes/qgis-theme/docs_index.html:127
 msgid ""
 "Although not translated we also build the documentation for QGIS which is "
 "currently developed. We call this version 'QGIS testing' and documentation "
 "can be found here: "
 msgstr "Walaupun belum diterjemahkan, kami juga menyusun dokumentasi untuk rilis QGIS yang sedang dikembangkan. Kami menamai versi 'QGIS Testing' dan dokumentasinya bisa anda temukan disini: "
 
-#: ../../themes/qgis-theme/docs_index.html:93
+#: ../../themes/qgis-theme/docs_index.html:127
 msgid "http://docs.qgis.org/testing"
 msgstr "http://docs.qgis.org/testing"
 
-#: ../../themes/qgis-theme/docs_index.html:100
+#: ../../themes/qgis-theme/docs_index.html:134
 msgid "http://docs.qgis.org/testing/pdf"
 msgstr "http://docs.qgis.org/testing/pdf"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:41
-#: ../../themes/qgis-theme/getinvolved_index.html:105
+#: ../../themes/qgis-theme/getinvolved_index.html:44
+#: ../../themes/qgis-theme/getinvolved_index.html:121
 msgid "Develop QGIS Core"
 msgstr "Pengembangan Inti QGIS"
-
-#: ../../themes/qgis-theme/forusers_download.html:5
-msgid "The current version is QGIS 2.2 and was released in February 2014."
-msgstr "QGIS 2.2 versi saat ini dan dirilis pada Februari 2014"
 
 #: ../../themes/qgis-theme/forusers_download.html:6
 msgid "QGIS is available on Windows, MacOS X, Linux and Android."
 msgstr "QGIS tersedia untuk Windows, MacOS X, Linux dan Android."
-
-#: ../../themes/qgis-theme/forusers_download.html:7
-msgid ""
-"Binary packages (installers) for current stable version 2.2 can be "
-"downloaded here."
-msgstr "Paket binari (installer) untuk versi stabil 2.2 saat ini bisa diunduh disini."
-
-#: ../../themes/qgis-theme/forusers_download.html:39
-msgid "QGIS Standalone Installer Version 2.2 (32 bit)"
-msgstr "QGIS Standalone Installer Version 2.2 (32 bit)"
-
-#: ../../themes/qgis-theme/forusers_download.html:50
-msgid "QGIS Standalone Installer Version 2.2 (64 bit)"
-msgstr "QGIS Standalone Installer Version 2.2 (64 bit)"
 
 #: ../../themes/qgis-theme/about_index.html:8
 msgid ""
@@ -1077,42 +989,31 @@ msgstr "QGIS adalah perangkat GIS terbaik pada komunitas Free and open-source so
 msgid "Our latest release is QGIS "
 msgstr "Rilis terbaru kami adalah QGIS"
 
-#: ../../themes/qgis-theme/index.html:24
+#: ../../themes/qgis-theme/index.html:43
 msgid "QGIS 2"
 msgstr "QGIS 2"
 
-#: ../../themes/qgis-theme/index.html:86
-msgid "Version 2.2 Valmiera"
-msgstr "Versi 2.2 Valmiera"
-
-#: ../../themes/qgis-theme/index.html:160
-msgid "Latest Blog Posts"
-msgstr "Tulisan Blog Terbaru"
-
-#: ../../themes/qgis-theme/docs_index.html:8
-msgid ""
-"QGIS has a lot of documentation. Most documentation is in English but some "
-"documents such as the user guide are also available in other languages."
-msgstr "QGIS memiliki banyak dokumentasi. Sebagian besar dokumentasi dalam bahasa Inggris tetapi beberapa dokumen seperti buku panduan juga tersedia dalam bahasa lain."
-
-#: ../../themes/qgis-theme/docs_index.html:50
-#: ../../themes/qgis-theme/docs_index.html:95
+#: ../../themes/qgis-theme/docs_index.html:60
+#: ../../themes/qgis-theme/docs_index.html:86
+#: ../../themes/qgis-theme/docs_index.html:129
 msgid "QGIS Training manual"
 msgstr "Panduan Pelatihan QGIS"
 
-#: ../../themes/qgis-theme/docs_index.html:57
-#: ../../themes/qgis-theme/docs_index.html:82
-#: ../../themes/qgis-theme/docs_index.html:101
+#: ../../themes/qgis-theme/docs_index.html:73
+#: ../../themes/qgis-theme/docs_index.html:91
+#: ../../themes/qgis-theme/docs_index.html:116
+#: ../../themes/qgis-theme/docs_index.html:135
 msgid "C++ Api documentation"
 msgstr "Dokumentasi API C++"
 
-#: ../../themes/qgis-theme/docs_index.html:58
-#: ../../themes/qgis-theme/docs_index.html:83
-#: ../../themes/qgis-theme/docs_index.html:102
+#: ../../themes/qgis-theme/docs_index.html:72
+#: ../../themes/qgis-theme/docs_index.html:92
+#: ../../themes/qgis-theme/docs_index.html:117
+#: ../../themes/qgis-theme/docs_index.html:136
 msgid "Python (iface) Api documentation"
 msgstr "Dokumentasi API Python (iface)"
 
-#: ../../themes/qgis-theme/page.html:47
+#: ../../themes/qgis-theme/page.html:48
 msgid " - Last updated on "
 msgstr "- Update terakhir pada"
 
@@ -1157,44 +1058,378 @@ msgstr "QGIS adalah Sistem Informasi Geografis Open Source  cross-platform denga
 msgid "In the Press"
 msgstr "Dalam Pers"
 
-#: ../../themes/qgis-theme/forusers_index.html:81
+#: ../../themes/qgis-theme/forusers_index.html:90
 msgid ""
 "QGIS plugin architecture allows many new features/functions to be easily "
 "added to the application. "
 msgstr "QGIS arsitektur plugin memungkinkan banyak fitur/fungsi baru dengan mudah ditambahkan pada aplikasi."
 
-#: ../../themes/qgis-theme/docs_index.html:49
+#: ../../themes/qgis-theme/docs_index.html:59
+#: ../../themes/qgis-theme/docs_index.html:85
 msgid "Read the"
 msgstr "Baca"
 
-#: ../../themes/qgis-theme/docs_index.html:50
+#: ../../themes/qgis-theme/docs_index.html:86
 msgid "Do the QGIS training:"
 msgstr "Lakukan pelatihan QGIS:"
 
-#: ../../themes/qgis-theme/docs_index.html:51
+#: ../../themes/qgis-theme/docs_index.html:71
+#: ../../themes/qgis-theme/docs_index.html:87
 msgid "Go Python, study the"
 msgstr "Python, pelajari"
 
-#: ../../themes/qgis-theme/docs_index.html:52
+#: ../../themes/qgis-theme/docs_index.html:88
 msgid "Learn how to write docs in"
 msgstr "Pelajari bagaimana menulis dokumentasi di "
 
-#: ../../themes/qgis-theme/docs_index.html:53
+#: ../../themes/qgis-theme/docs_index.html:89
 msgid "Intro GIS in"
 msgstr "Intro GIS di"
 
-#: ../../themes/qgis-theme/docs_index.html:54
+#: ../../themes/qgis-theme/docs_index.html:90
 msgid "PDF versions of all above, eg for printing are available here:"
 msgstr "Versi PDF dari semua di atas, misalnya untuk mencetak tersedia di sini:"
 
-#: ../../themes/qgis-theme/docs_index.html:55
-msgid ""
-"Documentation for QGIS 2.0 is part of the website. But also availabe at:"
-msgstr "Dokumentasi untuk QGIS 2.0 merupakan bagian dari website. Tetapi juga tersedia di:"
-
-#: ../../themes/qgis-theme/docs_index.html:75
+#: ../../themes/qgis-theme/docs_index.html:109
 msgid "We keep a copy of the documentation of QGIS 1.8 around here:"
 msgstr "Kami menyimpan salinan dokumentasi QGIS 1.8 di sini:"
+
+#: ../../themes/qgis-theme/docs_index.html:33
+#: ../../themes/qgis-theme/docs_index.html:83
+msgid "QGIS 2.0"
+msgstr "QGIS 2.0"
+
+#: ../../themes/qgis-theme/forusers_download.html:3
+msgid "Download QGIS for your platform"
+msgstr "Unduh QGIS untuk platform Anda"
+
+#: ../../themes/qgis-theme/forusers_download.html:11
+msgid "road map"
+msgstr "peta jalan"
+
+#: ../../themes/qgis-theme/forusers_download.html:94
+msgid ""
+"Mac Installer Package for both OS X Mavericks (10.9), Mountain Lion (10.8) "
+"and Lion (10.7)."
+msgstr "Paket pemasang Mac OS X Mavericks (10.9), Mountain Lion (10.8) dan Lion (10.7)."
+
+#: ../../themes/qgis-theme/index.html:183
+msgid "Upcoming User & Developer Meetings"
+msgstr "Rapat Pengguna & Pengembang Mendatang"
+
+#: ../../themes/qgis-theme/index.html:214
+msgid "See More Maps and Screenshots"
+msgstr "Lihat Peta dan Cuplikan Layar"
+
+#: ../../themes/qgis-theme/docs_index.html:8
+msgid ""
+"QGIS has a lot of documentation. All documentation is in English but some "
+"documents such as the user guide are also available in other languages."
+msgstr "QGIS memiliki banyak dokumentasi. Semua dokumentasi dalam bahasa Inggris tetapi beberapa dokumen seperti buku petunjuk juga tersedia dalam bahasa lain."
+
+#: ../../themes/qgis-theme/docs_index.html:9
+msgid ""
+"You will find documentation for every QGIS release on the respective "
+"documentation website."
+msgstr "Anda akan menemukan dokumentasi untuk setiap rilis QGIS di situs dokumentasi masing-masing."
+
+#: ../../themes/qgis-theme/docs_index.html:30
+#: ../../themes/qgis-theme/docs_index.html:56
+msgid "QGIS 2.2"
+msgstr "QGIS 2.2"
+
+#: ../../themes/qgis-theme/docs_index.html:36
+#: ../../themes/qgis-theme/docs_index.html:108
+msgid "QGIS 1.8"
+msgstr "QGIS 1.8"
+
+#: ../../themes/qgis-theme/docs_index.html:39
+msgid "QGIS testing"
+msgstr "Pengujian QGIS"
+
+#: ../../themes/qgis-theme/docs_index.html:59
+msgid "QGIS User guide"
+msgstr "Panduan Pengguna QGIS"
+
+#: ../../themes/qgis-theme/docs_index.html:60
+msgid "Follow the tutorials in the"
+msgstr "Ikuti tutorial di"
+
+#: ../../themes/qgis-theme/docs_index.html:61
+msgid "Learn GIS basics in"
+msgstr "Pelajari dasar GIS dalam"
+
+#: ../../themes/qgis-theme/docs_index.html:66
+msgid "Learn how to write docs using the"
+msgstr "Pelajari bagaimana menulis docs menggunakan"
+
+#: ../../themes/qgis-theme/docs_index.html:84
+msgid "We keep a copy of the documentation of QGIS 2.0 around here:"
+msgstr "Kami menyimpan salinan dokumentasi QGIS 2.0 di sini:"
+
+#: ../../themes/qgis-theme/forusers_index.html:60
+msgid "For Linux, Windows, OSX, BSD and (in beta) Android."
+msgstr "Untuk Linux, Windows, OSX, BSD dan (beta) Android."
+
+#: ../../themes/qgis-theme/forusers_index.html:65
+msgid ""
+"Check out our visual changelog, for what has changed since the previous "
+"release"
+msgstr "Lihat changelog visual kita, untuk apa yang telah berubah sejak rilis sebelumnya"
+
+#: ../../themes/qgis-theme/forusers_index.html:71
+#: ../../themes/qgis-theme/forusers_index.html:77
+msgid "Visual Changelog for 2.2"
+msgstr "Visual Changelog 2.2"
+
+#: ../../themes/qgis-theme/forusers_index.html:92
+msgid ""
+"The integrated QGIS plugin manager lets you download and install from a vast"
+" collection of free plugins."
+msgstr "Manajer plugin QGIS terintegrasi memungkinkan Anda mengunduh dan menginstal dari koleksi besar plugin gratis."
+
+#: ../../themes/qgis-theme/languageswitch.html:16
+msgid "Polish"
+msgstr "Polish"
+
+#: ../../themes/qgis-theme/languageswitch.html:17
+msgid "Portuguesei (Brazil)"
+msgstr "Portuguesei (Brazil)"
+
+#: ../../themes/qgis-theme/languageswitch.html:20
+msgid "Turkish"
+msgstr "Turkish"
+
+#: ../../themes/qgis-theme/languageswitch.html:22
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+#: ../../themes/qgis-theme/forusers_download.html:10
+msgid ""
+"We are currently in feature freeze preceding the release of QGIS 2.4. "
+"<b>Please consider testing the prereleases</b>. See "
+msgstr "Kami sedang dalam fitur freeze sebelum rilis QGIS 2.4. <b>Silakan mempertimbangkan pengujian pra rilis</b>. Lihat "
+
+#: ../../themes/qgis-theme/forusers_download.html:5
+msgid "The current version is QGIS 2.4 and was released in June 2014."
+msgstr "QGIS 2.4 versi saat ini dan dirilis pada Juni 2014."
+
+#: ../../themes/qgis-theme/forusers_download.html:7
+msgid ""
+"Binary packages (installers) for current stable version 2.4 can be "
+"downloaded here."
+msgstr "Paket binari (installer) untuk versi stabil 2.4 saat ini bisa diunduh disini."
+
+#: ../../themes/qgis-theme/forusers_download.html:45
+msgid "QGIS Standalone Installer Version 2.4 (32 bit)"
+msgstr "Installer QGIS Standalone Versi 2.4 (32 bit)"
+
+#: ../../themes/qgis-theme/forusers_download.html:56
+msgid "QGIS Standalone Installer Version 2.4 (64 bit)"
+msgstr "Installer QGIS Standalone Versi 2.4 (64 bit)"
+
+#: ../../themes/qgis-theme/forusers_download.html:176
+msgid "QGIS Source Code is available "
+msgstr "Sumber Kode QGIS tersedia "
+
+#: ../../themes/qgis-theme/forusers_download.html:177
+msgid ""
+"Refer to the INSTALL guide on how to compile QGIS from source for the "
+"different platforms:"
+msgstr "Rujuklah panduan INSTALL mengenai bagaimana mengkompilasi QGIS dari sumbernya pada platform yang berbeda:"
+
+#: ../../themes/qgis-theme/about_index.html:69
+msgid ""
+"QGIS provides a continously growing number of capabilities provided by core "
+"functions and plugins. You can visualize, manage, edit, analyse data, and "
+"compose printable maps. Get a first impression with a more detailed feature "
+"list."
+msgstr "QGIS menyediakan sejumlah besar kemampuan yang terus tumbuh dari fungsi inti QGIS dan plugin tambahan. Anda dapat menampilkan, memanajemen, mengedit, menganalisis data, dan menyusun peta yang dapat dicetak. Dapatkan kesan pertama dengan daftar fitur yang lebih lengkap."
+
+#: ../../themes/qgis-theme/index.html:31
+msgid "QGIS 2.4 Released"
+msgstr "QGIS 2.4 telah Dirilis"
+
+#: ../../themes/qgis-theme/index.html:33
+msgid "Get it ..."
+msgstr "Dapatkan ..."
+
+#: ../../themes/qgis-theme/index.html:34
+msgid "download QGIS 2.4 Chugiak"
+msgstr "unduh QGIS 2.4 Chugiak"
+
+#: ../../themes/qgis-theme/index.html:106
+msgid "Version 2.4 Chugiak"
+msgstr "Versi 2.4 Chugiak"
+
+#: ../../themes/qgis-theme/index.html:192
+msgid "Latest Blog Posts (planet.qgis.org)"
+msgstr "Tulisan Blog Terbaru (planet.qgis.org)"
+
+#: ../../themes/qgis-theme/docs_index.html:59
+#: ../../themes/qgis-theme/docs_index.html:60
+#: ../../themes/qgis-theme/docs_index.html:71
+msgid "or as PDF"
+msgstr "atau sebagai PDF"
+
+#: ../../themes/qgis-theme/forusers_index.html:68
+msgid "Visual Changelog for 2.4"
+msgstr "Visual Logperubahan untuk 2.4"
+
+#: ../../themes/qgis-theme/languageswitch.html:85
+msgid "Thank you!"
+msgstr "Terimakasih!"
+
+#: ../../themes/qgis-theme/languageswitch.html:87
+msgid ""
+"Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and "
+"will always be free of charge if downloaded from QGIS.org. If you can afford"
+" to support the project and people making this software, please consider "
+"making <a href=\"http://qgis.org/en/site/getinvolved/donations.html\">a "
+"small donation to support</a> our efforts. Whether you choose to donate or "
+"not, we hope that you enjoy using our labour of love and encourage you to "
+"share and spread your downloaded copy far and wide so that others may enjoy "
+"it too. Our very best regards!"
+msgstr "Salinan baru Anda dari QGIS sedang diunduh. QGIS adalah gratis, dan akan selalu gratis jika diunduh dari QGIS.org. Jika Anda mampu mendukung proyek dan orang-orang yang membuat software ini, silakan mempertimbangkan membuat <a href=\"http://qgis.org/en/site/getinvolved/donations.html\">sumbangan kecil untuk mendukung</a> kerja kami. Apakah Anda memilih untuk menyumbangkan atau tidak, kami berharap Anda menikmati dalam menggunakan kerja kami dengan cinta dan mendorong Anda untuk berbagi dan menyebarkan salinan dengan jauh dan luas sehingga orang lain dapat menikmatinya juga. Salam terbaik dari kami!"
+
+#: ../../themes/qgis-theme/languageswitch.html:88
+msgid "The QGIS Team"
+msgstr "Tim QGIS"
+
+#: ../../themes/qgis-theme/languageswitch.html:90
+msgid "Donate Now"
+msgstr "Donasi Sekarang"
+
+#: ../../themes/qgis-theme/languageswitch.html:91
+msgid "Close this message"
+msgstr "Tutup pesan ini"
+
+#: ../../themes/qgis-theme/index.html:3
+msgid "Time until 2.5 freeze"
+msgstr "Waktu sampai 2.5 freeze"
+
+#: ../../themes/qgis-theme/index.html:4
+msgid "Time until 2.6 release"
+msgstr "Waktu sampai 2.6 rilis"
+
+#: ../../themes/qgis-theme/index.html:138
+msgid "Download and install QGIS then follow the quickstart."
+msgstr "Unduh dan pasang QGIS kemudian ikuti mulaisingkat."
+
+#: ../../themes/qgis-theme/index.html:178
+msgid "Find out what is going on with the QGIS project and its community."
+msgstr "Cari tahu apa yang terjadi dengan proyek QGIS dan komunitasnya."
+
+#~ msgid "Download and Install QGIS then follow the Quickstart."
+#~ msgstr ""
+
+#~ msgid "Find out what is going on with the QGIS project and its Community."
+#~ msgstr ""
+
+#~ msgid "QGIS Source Code is available on github "
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS provides a continously grow-fluiding number of capabilities provided by"
+#~ " core functions and plugins. You can visualize, manage, edit, analyse data, "
+#~ "and compose printable maps. Get a first impression with a more detailed "
+#~ "feature list."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Refer to the INSTALL guide on how to compile QGIS from source for the "
+#~ "different platforms."
+#~ msgstr ""
+
+#~ msgid "The current version is QGIS 2.2 and was released in February 2014."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Binary packages (installers) for current stable version 2.2 can be "
+#~ "downloaded here."
+#~ msgstr ""
+
+#~ msgid "QGIS Standalone Installer Version 2.2 (32 bit)"
+#~ msgstr ""
+
+#~ msgid "QGIS Standalone Installer Version 2.2 (64 bit)"
+#~ msgstr ""
+
+#~ msgid "Version 2.2 Valmiera"
+#~ msgstr ""
+
+#~ msgid "Latest Blog Posts"
+#~ msgstr ""
+
+#~ msgid "QGIS 2.4 Release Candidate"
+#~ msgstr ""
+
+#~ msgid "Please test ..."
+#~ msgstr ""
+
+#~ msgid "Get the"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "get the release candidate for your Operating System and report any issue you"
+#~ " find, so it gets fixed for the 2.4 final release!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We are currently in feature freeze preceding the release of QGIS 2.4. "
+#~ "<b>Please consider testing the preleases</b>. See "
+#~ msgstr ""
+
+#~ msgid ""
+#~ "get the release candidate for your Operating System and report any issue you"
+#~ " find, so it get's fixed for the 2.4 final release!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Documentation for QGIS 2.0 is part of the website. But also available at:"
+#~ msgstr ""
+
+#~ msgid "Download QGIS for your Platform"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Mac Installer Package for both OS X Lion (10.7) and Snow Leopard (10.6)."
+#~ msgstr ""
+
+#~ msgid "Danish"
+#~ msgstr ""
+
+#~ msgid "For Linux, Windows, OSX, BSD and beta Android."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The integrated plugin manager in QGIS lets you download and install from a "
+#~ "vast collection of free plugins."
+#~ msgstr ""
+
+#~ msgid "Catalan"
+#~ msgstr ""
+
+#~ msgid "Chinese (Taiwan)"
+#~ msgstr ""
+
+#~ msgid "Check out our visual changelog, for what is changed since QGIS 1.8"
+#~ msgstr ""
+
+#~ msgid "for QGIS 2.0"
+#~ msgstr ""
+
+#~ msgid "for QGIS 1.8"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS has a lot of documentation. Most documentation is in English but some "
+#~ "documents such as the user guide are also available in other languages."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Documentation for QGIS 2.0 is part of the website. But also availabe at:"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Documentation for QGIS 2.0 is part of the website. But also availabe at: "
@@ -1209,9 +1444,6 @@ msgstr "Kami menyimpan salinan dokumentasi QGIS 1.8 di sini:"
 #~ msgid ""
 #~ "QGIS is the best GIS tool in the Free and open-source software (FOSS) "
 #~ "community."
-#~ msgstr ""
-
-#~ msgid "QGIS 2.0"
 #~ msgstr ""
 
 #~ msgid "Blog Posts, Case Studies, Tutorials, User Meetings and more..."

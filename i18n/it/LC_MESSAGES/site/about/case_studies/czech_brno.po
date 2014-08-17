@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Luca M. <luca76@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-17 14:49+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2014-06-05 13:51+0000\n"
+"Last-Translator: Luca M. <luca76@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,15 +17,15 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/czech_brno.rst:4
 msgid "QGIS as major GIS software in the Laboratory"
-msgstr ""
+msgstr "QGIS è il software GIS più utilizzato nel laboratorio"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:6
 msgid "on Experimental and Applied Geography"
-msgstr ""
+msgstr "sulla Geografia Sperimentale ed Applicata"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:9
 msgid "Introduction"
-msgstr ""
+msgstr "Introduzione"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:11
 msgid ""
@@ -34,11 +35,11 @@ msgid ""
 "business and hotel management. LEAG is focused on modeling socio-economic "
 "spatial processes, analyzing spatial patterns, describing and monitoring the"
 " reality of localities and regions."
-msgstr ""
+msgstr "Il laboratorio di Geografia Sperimentale ed Applicata (LEAG) fa parte del \"College of Hotel and Business Management, Ltd.\" a Brno, nella Repubblica Ceca (Vysoká škola obchodní a hotelová, s.r.o.), che offre istruzione superiore sul turismo, affari e gestione alberghiera. LEAG è focalizzata sulla modellazione di processi spaziali socio-economici, analizzando modelli spaziali, sulla descrizione e contro della realtà delle località e regioni."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:18
 msgid "QGIS while modeling 3D objects (interpolation), terrain analysis"
-msgstr ""
+msgstr "QGIS durante la modellazione degli oggetti 3D (interpolazione), analisi del terreno"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:20
 msgid ""
@@ -49,64 +50,64 @@ msgid ""
 "source SW such as LibreOffice, GIMP, Inkscape and QGIS. QGIS does not stand "
 "alone – we use MapWindow, OpenJump, gvSIG, SAGA and others. But QGIS plays "
 "the major role."
-msgstr ""
+msgstr "LEAG gioca un ruolo importante nella ricerca accademica al College of Business and Hotel Management. La modellazione spaziale complessa richiede un buon software. La filosofia del minimo costo e la massima efficienza ha portato alla scelta di soluzioni open source. Questo passaggio ha permesso di utilizzare software come LibreOffice, GIMP, Inkscape e QGIS. QGIS non sta in piedi da sola: usiamo MapWindow, OpenJump, gvSIG, Saga e altri. Ma QGIS gioca il ruolo principale."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:23
 msgid "Use of QGIS"
-msgstr ""
+msgstr "Utilizzo di QGIS"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:25
 msgid ""
 "QGIS is the leading software and stands in current versions (because of the "
 "“experimental” character of LEAG we are using the latest unstable releases "
 "instead of LTS versions) for several reasons:"
-msgstr ""
+msgstr "QGIS è il software leader ed è sempre aggiornato all'ultima versione (a causa del carattere \"sperimentale\" di LEAG, stiamo usando le ultime versioni instabili) per diversi motivi:"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:27
 msgid "Graphical User Interface (close to commercial products)"
-msgstr ""
+msgstr "Interfaccia utente grafica (simile ai prodotti commerciali)"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:28
 msgid "Quick development and integrating user-wanted features"
-msgstr ""
+msgstr "Sviluppo veloce e integrazione di funzioni desiderate dagli utenti"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:29
 msgid ""
 "Stability and interoperability (we are using Windows and Ubuntu Linux "
 "platforms)"
-msgstr ""
+msgstr "Stabilità e interoperabilità (noi utilizziamo PC con Windows ed Ubuntu)"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:30
 msgid "Others (mentioned e.g. in the case study written by Dr. Horst Düster)"
-msgstr ""
+msgstr "Altro (menzionato, ad esempio, nel caso di studio scritto dal Dr. Horst Düster)"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:32
 msgid ""
 "Spatial analysis are done mainly using basic geoprocessing functions and "
 "python-based plugins. Recent projects where QGIS was used:"
-msgstr ""
+msgstr "L'analisi spaziale è svolta principalmente utilizzando le funzioni di geoprocessing di base e plugin scritti in python. Ecco i progetti recenti, in cui è stato utilizzato QGIS:"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:34
 msgid "Modeling patterns between spatial location and inhabitants"
-msgstr ""
+msgstr "Modelli di pattern tra posizione spaziale e abitanti"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:35
 msgid ""
 "Creating 3D models for terrain visualization (and further use as hill-"
 "shadowing)"
-msgstr ""
+msgstr "Creazione di modelli 3D per la visualizzazione del terreno (e ulteriore utilizzo come hill-shadowing)"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:36
 msgid ""
 "Storing, creating and editing database of small and medium enterprises (+ "
 "further visualization)"
-msgstr ""
+msgstr "Memorizzazione, creazione e modifica di database di piccole e medie imprese (+ ulteriore visualizzazione)"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:37
 msgid ""
 "Homogenizing of free-to-use geodata and creation of “geo-data-bank” for "
 "students and researchers at College of Business and Hotel Management"
-msgstr ""
+msgstr "Omogeneizzazione di geodati e la creazione di \"geo-data-bank\" per gli studenti e ricercatori College of Business e Hotel Management, liberi per l'uso"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:39
 msgid ""
@@ -120,15 +121,15 @@ msgid ""
 "students how to use GIS and how to produce high-quality maps. Recently, the "
 "QGIS was used as main product during GIS Day held at our school on November "
 "2010."
-msgstr ""
+msgstr "QGIS viene usato in sinergia con gli altri prodotti open source. Ad esempio, il layout finale viene elaborato con Inkscape o GIMP (meno con LibreOffice Draw). Le mappe sul web vengono modificate con Inkscape (dopo l'esportazione SVG) e le mappe raster sono elaborate utilizzando GIMP. QGIS è anche un ottimo strumento educativo. College of Business and Hotel Management offre agli studenti argomenti come \"Geographical Information Systems I. e II.\" e \"Alfabetizzazione geoinformatica\", dove QGIS è utilizzato come principale piattaforma per insegnare agli studenti come utilizzare GIS e come produrre mappe di alta qualità. Recentemente, il QGIS è stato utilizzato come prodotto principale durante la Giornata GIS presso la nostra scuola, nel novembre del 2010."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:47
 msgid "Using diagrams comparing population between two censuses"
-msgstr ""
+msgstr "Utilizzo di diagrammi di confronto della popolazione tra due censimenti"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:50
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusioni"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:52
 msgid ""
@@ -139,15 +140,15 @@ msgid ""
 "seen in education – QGIS is the first software, which is presented to "
 "students. During regular workshops students learn how to legally work with "
 "QGIS and how to create their own maps."
-msgstr ""
+msgstr "Senza alcun costo e con un'alta efficienza, il Laboratorio di Geografia sperimentale ed applicata produce analisi di alta qualità, mappe e visualizzazioni. Sono stati creati database di grandi dimensioni con QGIS, e vengono fatti ulteriori test delle nuove funzioni. Infine, uno dei più grandi impatti nell'utilizzo di QGIS potrebbe essere nella formazione - QGIS è il primo software che viene presentato agli studenti. Durante i workshop, gli studenti imparano a lavorare con QGIS e a creare le proprie mappe."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:55
 msgid "Author"
-msgstr ""
+msgstr "Autore"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:62
 msgid "Jakub Trojan"
-msgstr ""
+msgstr "Jakub Trojan"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:64
 msgid ""
@@ -156,4 +157,4 @@ msgid ""
 " CZ) where he founded and leads Laboratory on Experimental and Applied "
 "Geography. He is also a doctoral student at Institute of Geography, Faculty "
 "of Science, Masaryk university (Brno, CZ)."
-msgstr ""
+msgstr "Questo articolo è stato scritto nel novembre 2010 da Jakub Trojan. Egli è un ricercatore universitario presso la Facolta di Economia e Hotel Management, Ltd. (Brno, CZ), dove ha fondato e conduce il Laboratorio di geografia sperimentale e applicata. Egli è anche uno studente di dottorato presso l'Istituto di Geografia, Facoltà di Scienze, Università Masaryk (Brno, CZ)."

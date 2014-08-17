@@ -1,12 +1,14 @@
 # 
 # Translators:
+# Imron Fauzi <imronfauzi@gmail.com>, 2014
+# iqnaul <iqnaulhaq@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-11-20 09:24+0000\n"
-"Last-Translator: ivanbusthomi <ivanbusthomi@gmail.com>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2014-08-15 04:15+0000\n"
+"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/qgis-website/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,56 +16,12 @@ msgstr ""
 "Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/docs/index.rst:8
-msgid "Documentation"
-msgstr "Dokumentasi"
+#: ../../source/site/index.rst:11
+msgid "Welcome to the QGIS project!"
+msgstr "Selamat Datang di proyek QGIS!"
 
-#: ../../source/docs/index.rst:11
+#: ../../source/site/index.rst:15
 msgid ""
-"QGIS has a lot of documentation, partly translated. Please have a look into "
-"one of the documents below."
-msgstr "QGIS memiliki banyak dokumentasi, yang sebagian telah diterjemahkan. Silakan lihat salah satu dokumen dibawah ini."
-
-#: ../../source/docs/index.rst:15
-msgid "Documentation for QGIS 2.0"
-msgstr "Dokumentasi untuk QGIS 2.0"
-
-#: ../../source/docs/index.rst:33
-msgid "Documentation for QGIS 1.8"
-msgstr "Dokumentasi untuk QGIS 1.8"
-
-#: ../../source/docs/index.rst:28
-msgid ""
-"If you do not see working links to documentation above, it means that this "
-"documentation build did not copy the documentation sources into the website "
-"sources. You can also go to http://docs.qgis.org/2.0"
-msgstr "Jika anda mendapati link yang bekerja pada dokumentasi diatas, itu berarti bahwa dokumentasi tersebut belum terhubung dengan website ini. Anda juga dapat mengunjungi situs http://docs.qgis.org/2.0"
-
-#: ../../source/docs/index.rst:35
-msgid ""
-"We keep a copy of the documentation of QGIS 1.8 around here: "
-"http://docs.qgis.org/1.8"
-msgstr "Kami menyimpan dokumentasi untuk QGIS 1.8 dialamat ini:http://docs.qgis.org/1.8"
-
-#: ../../source/docs/index.rst:48
-msgid "Documentation for QGIS testing"
-msgstr "Dokumentasi untuk QGIS Testing"
-
-#: ../../source/docs/index.rst:50
-msgid ""
-"Although not translated we also build the documentation for the release QGIS"
-" which is currently developed. We call this version 'QGIS testing' and "
-"documentation can be found here: http://docs.qgis.org/testing"
-msgstr "Walaupun belum diterjemahkan, kami juga menyusun dokumentasi untuk rilis QGIS yang saat ini sedang dikembangkan. Kami menamai versi ini 'QGIS Testing' dan dokumentasinya bisa anda temukan disini: http://docs.qgis.org/testing"
-
-#~ msgid "Documentation for QGIS development/nightly"
-#~ msgstr ""
-
-#~ msgid "TBD"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you do not see working links to documentation above, it means that this "
-#~ "documentation build did not copy the documentation sources into the website "
-#~ "sources. See ..."
-#~ msgstr ""
+"Content is not used, it is overridden by themes/qgis-theme/index.html. TOC "
+"is used."
+msgstr "Isi tidak digunakan, ditutupi oleh themes/qgis-theme/index.html. TOC yang digunakan."

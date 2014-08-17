@@ -1,13 +1,13 @@
 # 
 # Translators:
-# csorin <scalinica@gmail.com>, 2013
+# Sorin Călinică <scalinica@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-11-02 12:48+0000\n"
-"Last-Translator: csorin <scalinica@gmail.com>\n"
+"PO-Revision-Date: 2014-05-30 17:56+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,14 +80,6 @@ msgstr "Acceptăm două tipuri de contribuții financiare: Sponsorizări: o spon
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:45
 msgid "Sponsorship"
 msgstr "Sponsorizare"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
-msgid ""
-"Sponsors can sponsor Quantum GIS for any amount of money of at least 500 "
-"€/700 US$. Sponsorships last one year, after which they may be continued "
-"with a new payment, or allowed to lapse. At or above the following levels a "
-"sponsor will be designated as being one of the following class:"
-msgstr "Sponsorii pot transmite către QGIS orice sumă de bani de minimum 500 €/700 US$. Sponsorizarea se poate face pentru un an, după care poate expira sau poate continua cu o nouă plată. În funcție de nivelurile de mai jos, un sponsor se va încadra într-una din următoarele clase:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "euros"
@@ -170,10 +162,6 @@ msgstr "Dacă doriți să faceți o donație mai mare, vă încurajăm să folos
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:73
 msgid "What is your benefit sponsoring the QGIS Development?"
 msgstr "Care este beneficiul dumneavoastră prin sponsorizarea dezvoltării QGIS?"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
-msgid "Sponsoring the Quantum GIS project provides the following benefits:"
-msgstr "Sponsorizarea proiectului GIS Quantum oferă următoarele beneficii:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:77
 msgid "Ensures the sustainability and health of the QGIS project."
@@ -301,3 +289,25 @@ msgid ""
 "at: cavallini at faunalia dot it (+39-348-3801953) with questions, or to "
 "make arrangements."
 msgstr "Organizațiile sau persoanele fizice interesate în sponsorizarea proiectului QGIS trebuie să contacteze Consultantul în Finanțe și Marketing al PSC QGIS, Paolo Cavallini la: cavallini at faunalia dot it (+39-348-3801953) cu întrebări sau pentru a face aranjamentele."
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:47
+msgid ""
+"Sponsors can sponsor QGIS for any amount of money of at least 500 €/700 US$."
+" Sponsorships last one year, after which they may be continued with a new "
+"payment, or allowed to lapse. At or above the following levels a sponsor "
+"will be designated as being one of the following class:"
+msgstr "Sponsorii pot transmite către QGIS orice sumă de bani de minimum 500 €/700 US$. Sponsorizarea se poate face pentru un an, după care poate expira sau poate continua cu o nouă plată. În funcție de nivelurile de mai jos un sponsor va fi desemnat ca intrând într-una din următoarele clase:"
+
+#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:75
+msgid "Sponsoring the QGIS project provides the following benefits:"
+msgstr "Sponsorizarea proiectului QGIS oferă următoarele beneficii:"
+
+#~ msgid ""
+#~ "Sponsors can sponsor Quantum GIS for any amount of money of at least 500 "
+#~ "€/700 US$. Sponsorships last one year, after which they may be continued "
+#~ "with a new payment, or allowed to lapse. At or above the following levels a "
+#~ "sponsor will be designated as being one of the following class:"
+#~ msgstr ""
+
+#~ msgid "Sponsoring the Quantum GIS project provides the following benefits:"
+#~ msgstr ""

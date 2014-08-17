@@ -1,13 +1,14 @@
 # 
 # Translators:
-# diethard.jansen <diethard.jansen@gmail.com>, 2014
+# Dick Groskamp <dikgro@yahoo.co.uk>, 2014
+# Diethard Jansen <diethard.jansen@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-17 09:02+0000\n"
-"Last-Translator: diethard.jansen <diethard.jansen@gmail.com>\n"
+"PO-Revision-Date: 2014-07-21 11:32+0000\n"
+"Last-Translator: Dick Groskamp <dikgro@yahoo.co.uk>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +18,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:2
 msgid "Checklist for QGIS Release 2.0"
-msgstr "Checklist voor QGIS Release 2.0"
+msgstr "Checklist voor QGIS uitgave 2.0"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:9
 msgid "Key Dates:"
@@ -47,783 +48,821 @@ msgstr "**1 juni 2013** - Branch 2.0, code freeze (behalve voor wijzigingen nodi
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:18
 msgid "**7 June 2013** - Public release of 2.0"
-msgstr ""
+msgstr "**7 juni 2013** - Publieke uitgave van 2.0"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:22
 msgid "Blocking Features"
-msgstr ""
+msgstr "Blokkerende mogelijkheden"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:24
 msgid "Symbology overhaul"
-msgstr ""
+msgstr "Vernieuwen symbologie"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:25
 msgid "Labelling overhaul"
-msgstr ""
+msgstr "Vernieuwen labellen"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:26
 msgid "New web site and docs"
-msgstr ""
+msgstr "Nieuwe website en documenten"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:27
 msgid "SEXTANTE integration"
-msgstr ""
+msgstr "Integratie van SEXTANTE"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:28
 msgid "Interface cleanup and consistency"
-msgstr ""
+msgstr "Opruimen en consistentie van de interface"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:29
 msgid "Plugins migration"
-msgstr ""
+msgstr "Migratie van plug-ins"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:30
 msgid "Merge new_vector_api branch"
-msgstr ""
+msgstr "Samenvoegen tak new_vector_api"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:33
 msgid "Release Timeline"
-msgstr ""
+msgstr "Tijdlijn uitgave"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:35
 msgid ""
 "|checkbox_unchecked| Small enhancements and bug fixes can continue in trunk"
-msgstr ""
+msgstr "|checkbox_unchecked| Kleine verbeteringen en oplossen van problemen kan in trunk"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:36
 msgid ""
 "|checkbox_unchecked| Set date for next release about two months into the "
 "future."
-msgstr ""
+msgstr "|checkbox_unchecked| Instellen datum voor volgende uitgave over ongeveer twee maanden."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:38
 msgid ""
 "|checkbox_unchecked| Discuss with PSC & Developers which features should be "
 "merged into release (in future this will be trunk)."
-msgstr ""
+msgstr "|checkbox_unchecked| Bespreken met PSC & ontwikkelaars welke mogelijkheden in de uitgave zouden moeten worden samengevoegd (in de toekomst zal dit in trunk zijn)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:40
 msgid ""
 "|checkbox_unchecked| Update the splash screen (minor and major releases!)"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken van het beginscherm (kleine en grote uitgaven!)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:41
 msgid ""
 "|checkbox_unchecked| Update top level CMakeLists.txt with release name and "
 "version"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken van topniveau CMakeLists.txt met uitgavenaam en versienummer"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:42
 msgid ""
 "|checkbox_unchecked| Update the About -> authors panel with a more recent "
 "hackfest image"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken van het paneel Over -> auteurs met ene meer recente afbeelding van het hackfest"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:43
 msgid ""
 "|checkbox_unchecked| Check that the QGIS icon 64x64 has master text removed."
-msgstr ""
+msgstr "|checkbox_unchecked| Controleren dat de hoofdtekst uit het pictogram QGIS 64x64 is verwijderd."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:46
 msgid "Three weeks before - feature freeze Date here"
-msgstr ""
+msgstr "Drie weken vóór - Datum bevriezing hier"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:48
 msgid ""
 "|checkbox_unchecked| Only bug fixes go into trunk from here forward, *no new"
 " features*."
-msgstr ""
+msgstr "|checkbox_unchecked| Alleen oplossingen voor problemen gaan in trunk vanaf nu voorwaarts, *geen nieuwe mogelijkheden*."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:49
 msgid "|checkbox_unchecked| Complete merge of new features."
-msgstr ""
+msgstr "|checkbox_unchecked| Samenvoegen van nieuwe mogelijkheden voltooien."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:50
 msgid ""
 "|checkbox_unchecked| Call for document managers to update docs based on new "
 "features in Git."
-msgstr ""
+msgstr "|checkbox_unchecked| Oproep aan beheerders van documenten om documenten in Git bij te werken, gebaseerd op nieuwe mogelijkheden."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:51
 msgid ""
 "|checkbox_unchecked| Check for changes in project file structure that needs "
 "to be handled."
-msgstr ""
+msgstr "|checkbox_unchecked| Controleren op wijzigingen in de structuur van de projectbestanden die moeten worden afgehandeld."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:52
 msgid ""
 "|checkbox_unchecked| Release team start writing press releases, making "
 "screenshots etc."
-msgstr ""
+msgstr "|checkbox_unchecked| Uitgave-team begint met schrijven van persberichten, maken van schermafdrukken etc."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:53
 msgid "|checkbox_unchecked| Add link to visual changelog here."
-msgstr ""
+msgstr "|checkbox_unchecked| Koppeling naar visueel log van wijzigingen hier toevoegen."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:56
 msgid "Two weeks before - string freeze - Date here"
-msgstr ""
+msgstr "Twee weken vóór - bevriezing tekenreeksen - Datum hier"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:58
 msgid ""
 "Bug fixes can continue in trunk but no more strings can be changed. "
 "**Note:** the intent here is not for translators to *start* translating now,"
 " but to finalise their work."
-msgstr ""
+msgstr "Oplossingen voor problemen mogen doorgaan in trunk maar er mogen geen wijzigingen in tekenreeksen worden aangebracht. **Opmerking:** de bedoeling hier is dat vertalers niet nu *beginnen* met vertalen, maar hun werk afmaken."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:61
 msgid ""
 "|checkbox_unchecked| Ensure any new contributors have been added to AUTHORS "
 "along with their mugshot if available (reserved for SVN committers)"
-msgstr ""
+msgstr "|checkbox_unchecked| Zorg er voor dat nieuwe deelnemers zijn toegevoegd aan AUTHORS samen met hun pasfoto, indien beschikbaar (gereserveerd voor bijdragen aan SVN)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:64
 msgid ""
 "|checkbox_unchecked| Ensure any new contributors have been added to "
 "CONTRIBUTORS (reserved for non GIT committers)"
-msgstr ""
+msgstr "|checkbox_unchecked| Zorg er voor dat nieuwe deelnemers zijn toegevoegd aan CONTRIBUTORS (gereserveerd voor niet-GIT bijdragen)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:66
 msgid ""
 "|checkbox_unchecked| Ensure any new sponsors have been added to SPONSORS"
-msgstr ""
+msgstr "|checkbox_unchecked| Zorg er voor dat nieuwe sponsors zijn toegevoegd aan SPONSORS"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:67
 msgid ""
 "|checkbox_unchecked| Update the ChangeLog with a list of changes implemented"
 " in this release (complete changelog section below)"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken van ChangeLog met ene lijst van geïmplementeerde wijzigingen in deze uitgave (completeer het gedeelte changelog hieronder)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:69
 msgid ""
 "|checkbox_unchecked| Update index.html to reflect *what's new*, "
 "*requirements*, and *documentation* (see current index.html in ./doc of the "
 "source tree)"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken van index.html om *wat is er nieuw*, *vereisten* en *documentatie* weer te geven (zie huidige index.html in ./doc van de bronboom)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:72
 msgid ""
 "|checkbox_unchecked| Update the *whatsNew* string in qgisapp.cpp to reflect "
 "changes (used to display in about box)"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken van de tekenreeks *whatsNew* in qgisapp.cpp om wijzigingen weer te geven (gebruikt om weer te geven in het vak Over)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:74
 msgid ""
 "|checkbox_unchecked| Check that INSTALL.t2t install docs are up to date"
-msgstr ""
+msgstr "|checkbox_unchecked| Controleren dat installatiedocumenten INSTALL.t2t up to date zijn"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:75
 msgid ""
 "|checkbox_unchecked| Update index.html to reflect GRASS and related lib "
 "versions in the win build (see current index.html in ./doc of the source "
 "tree)"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken van index.html om GRASS en gerelateerde versies van lib weer te geven in de win build (zie huidige index.html in ./doc van de bronboom)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:78
 msgid ""
 "|checkbox_unchecked| Check that cmake is deploying all headers required to "
 "build apps using libqgis_*"
-msgstr ""
+msgstr "|checkbox_unchecked| Controleren dat cmake alle koppen uitrolt die nodig zijn om apps te bouwen met behulp van libqgis_*"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:80
 msgid ""
 "|checkbox_unchecked| Apply any pending patches or mark them for a future "
 "release in the tracker (see bug tracker section below)"
-msgstr ""
+msgstr "|checkbox_unchecked| Toepassen van wachtende patches of ze markeren voor een toekomstige uitgave in het volgsysteem (zie gedeelte volgsysteem hieronder)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:82
 msgid ""
 "|checkbox_unchecked| Apply fixes for any pending bugs or mark them against a"
 " future milestone (see bug tracker section below)"
-msgstr ""
+msgstr "|checkbox_unchecked| Toepassen van oplossingen voor wachtende problemen of ze markeren voor een toekomstige milestone (zie gedeelte volgsysteem hieronder)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:84
 msgid "|checkbox_unchecked| String freeze announcement for UI"
-msgstr ""
+msgstr "|checkbox_unchecked| Aankondiging bevriezen tekenreeksen voor UI"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:85
 msgid ""
 "|checkbox_unchecked| Update and commit ts files using "
 "scripts/update_ts_files.sh (GUI Translation Team Lead) after announcement "
 "above"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken en indienen van ts-bestanden met behulp van scripts/update_ts_files.sh (Coördinator vertaalteam GUI) na bovenstaande aankondiging"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:88
 msgid ""
 "|checkbox_unchecked| *Call for translators* to update translations and "
 "submit their ts files (see pro-forma email below) GUI Translation Team Lead"
-msgstr ""
+msgstr "|checkbox_unchecked| *Oproep aan vertalers* om vertalingen bij te werken en hun ts-bestanden in te dienen (zie pro-forma e-mail hieronder) Coördinator vertaalteam GUI"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:92
 msgid "One week before - branch & call for packaging Date here"
-msgstr ""
+msgstr "Eén week vóór - aftakken & oproep voor maken pakketten Datum hier"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:94
 msgid ""
 "|checkbox_unchecked| No bug fixes, string changes etc. allowed in branch, "
 "only packaging related changes."
-msgstr ""
+msgstr "|checkbox_unchecked| Geen oplossingen voor problemen, wijzigingen in tekenreeksen etc. toegestaan in de tak, alleen wijzigingen gerelateerd aan het maken van pakketten."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:96
 msgid ""
 "|checkbox_unchecked| Ensure all submitted translation updates have been "
 "applied (GUI Translation Team Lead)."
-msgstr ""
+msgstr "|checkbox_unchecked| Zorg er voor dat alle ingediende bijgewerkte vertalingen zijn toegepast (Coördinator vertaalteam GUI)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:98
 msgid ""
 "|checkbox_unchecked| Make source tarball before *call for packaging* (see "
 "notes below)."
-msgstr ""
+msgstr "|checkbox_unchecked| Maken van source tarball vóór *oproep tot maken van pakketten* (zie opmerkingen hieronder)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:100
 msgid ""
 "|checkbox_unchecked| Branch GIT and *call for packaging* (see branching "
 "notes below) and record revision here: XXXXXX"
-msgstr ""
+msgstr "|checkbox_unchecked| Tak maken van GIT en *oproep tot maken van pakketten* (zie opmerkingen voor aftakken hieronder) en opnemen van revisie hier: XXXXXX"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:102
 msgid ""
 "|checkbox_unchecked| Edit build_debian_package.sh and set @dch -v 2.0.0@ to "
 "the apropriate version number."
-msgstr ""
+msgstr "|checkbox_unchecked| Bewerken build_debian_package.sh en @dch -v 2.0.0@ instellen op het toepasselijke versienummer."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:104
 msgid ""
 "|checkbox_unchecked| Update the NSIS installer (win_build/qgis.nsis) to "
 "reflect the correct version."
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken van de NSIS-installer (win_build/qgis.nsis) om de juiste versie weer te geven."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:106
 msgid ""
 "|checkbox_unchecked| Release team prepare press releases in various formats "
 "in anticipation of release (don't publish yet)."
-msgstr ""
+msgstr "|checkbox_unchecked| Voorbereiden door uitgaveteam van persberichten in verschillende indelingen om te anticiperen op de uitgave (nog niet publiceren)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:110
 msgid "Day of release - Date"
-msgstr ""
+msgstr "Uitgavedatum - Datum"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:112
 msgid ""
 "|checkbox_unchecked| Close off release branch and announce release to the "
 "world. Date is dependent on package readiness."
-msgstr ""
+msgstr "|checkbox_unchecked| Afsluiten van de tak voor de uitgave en uitgave bekendmaken aan de wereld. Datum is afhankelijk van de beschikbaarheid van de pakketten."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:114
 msgid ""
 "|checkbox_unchecked| Tag the branch as final release (see tag section "
 "below)."
-msgstr ""
+msgstr "|checkbox_unchecked| Taggen van de tak als uiteindelijke uitgave (zie gedeelte over tags hieronder)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:115
 msgid "|checkbox_unchecked| Make tag and branch read only (see notes below)."
-msgstr ""
+msgstr "|checkbox_unchecked| Maken van tag en tak alleen-lezen maken (zie opmerkingen hieronder)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:116
 msgid ""
 "|checkbox_unchecked| Note the GIT revision hash for the tagged release here:"
-msgstr ""
+msgstr "|checkbox_unchecked| Onthoud de hash voor de revisie van GIT voor de getagde uitgave hier:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:117
 msgid "XXXXXXX."
-msgstr ""
+msgstr "XXXXXXX."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:118
 msgid ""
 "|checkbox_unchecked| Generate API documentation and upload to download area "
 "(using doxygen)."
-msgstr ""
+msgstr "|checkbox_unchecked| Genereren van documenten voor de API en uploaden naar het gebied voor downloaden (met behulp van doxygen)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:120
 msgid ""
 "|checkbox_unchecked| Upload release packages to download area (see checklist"
 " at the top of this page)."
-msgstr ""
+msgstr "|checkbox_unchecked| Uploaden van pakketten voor de uitgave naar het gebied om te downloaden (zie controlelijst aan het begin van deze pagina)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:122
 msgid ""
 "|checkbox_unchecked| *Release team announce to press* and make packages "
 "available."
-msgstr ""
+msgstr "|checkbox_unchecked| *bekend maken door uitgaveteam aan pers* en pakketten beschikbaar maken."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:125
 msgid "Packaging Team"
-msgstr ""
+msgstr "Team voor de pakketten"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:153
 msgid ""
 "Packages should be uploaded to qgis.org into the appropriate subdirs under "
 ":file:`/var/www/downloads`"
-msgstr ""
+msgstr "Pakketten zouden moeten worden geüpload naar qgis.org in de toepasselijke subdirs onder :file:`/var/www/downloads`"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:156
 msgid ""
 "After each package is uploaded, an entry should be created for it on the "
 "wiki page at http://download.qgis.org"
-msgstr ""
+msgstr "Nadat elk pakket is geüpload, zou er een item voor moeten worden gemaakt op de pagina van de wiki op http://download.qgis.org"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:161
 msgid "Post Release"
-msgstr ""
+msgstr "Na de uitgave"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:163
 msgid "|checkbox_unchecked| *qgis.org  Updates*"
-msgstr ""
+msgstr "|checkbox_unchecked| *qgis.org  Updates*"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:165
 msgid ""
 "|checkbox_unchecked| Update the 'Current Release' link on the main menu"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken van de koppeling 'Current Release' in het hoofdmenu"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:166
 msgid "|checkbox_unchecked| Update the 'Download' link on the top menu bar"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken van de koppeling 'Download' in de balk van het bovenste menu"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:167
 msgid "|checkbox_unchecked| Add release newsflash"
-msgstr ""
+msgstr "|checkbox_unchecked| Toevoegen van nieuwsbericht over de uitgave"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:168
 msgid "|checkbox_unchecked| Current version page to be updated"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken van de pagina voor de huidige versie"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:169
 msgid "|checkbox_unchecked| svn download of tagged release updated"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken van de svn-download van de getagde uitgave"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:170
 msgid "|checkbox_unchecked| download page updated"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken pagina voor downloaden"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:171
 msgid "|checkbox_unchecked| screenshots updated"
-msgstr ""
+msgstr "|checkbox_unchecked| Bijwerken schermafdrukken"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:173
 msgid ""
 "|checkbox_unchecked| *Publicising (see announcing the release section "
 "below)*"
-msgstr ""
+msgstr "|checkbox_unchecked| *Publiceren (zie het gedeelte aankondigen van de uitgave hieronder)*"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:175
 msgid "|checkbox_unchecked| http://freshmeat.net"
-msgstr ""
+msgstr "|checkbox_unchecked| http://freshmeat.net"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:176
 msgid "|checkbox_unchecked| http://kde-apps.org"
-msgstr ""
+msgstr "|checkbox_unchecked| http://kde-apps.org"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:177
 msgid "|checkbox_unchecked| http://qt-apps.org"
-msgstr ""
+msgstr "|checkbox_unchecked| http://qt-apps.org"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:178
 msgid "|checkbox_unchecked| http://freegis.org"
-msgstr ""
+msgstr "|checkbox_unchecked| http://freegis.org"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:179
 msgid "|checkbox_unchecked| http://apple.com"
-msgstr ""
+msgstr "|checkbox_unchecked| http://apple.com"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:180
 msgid "|checkbox_unchecked| http://slashgeo.org/submit.pl"
-msgstr ""
+msgstr "|checkbox_unchecked| http://slashgeo.org/submit.pl"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:181
 msgid "|checkbox_unchecked| http://lxer.com/module/newswire/stories/add.php"
-msgstr ""
+msgstr "|checkbox_unchecked| http://lxer.com/module/newswire/stories/add.php"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:182
 msgid "|checkbox_unchecked| http://www.freemacware.com/let-us-know"
-msgstr ""
+msgstr "|checkbox_unchecked| http://www.freemacware.com/let-us-know"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:183
 msgid "|checkbox_unchecked| http://www.osnews.com/submit.php"
-msgstr ""
+msgstr "|checkbox_unchecked| http://www.osnews.com/submit.php"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:184
 msgid "|checkbox_unchecked| http://directory.fsf.org/project/QGIS/"
-msgstr ""
+msgstr "|checkbox_unchecked| http://directory.fsf.org/project/QGIS/"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:186
 msgid "|checkbox_unchecked| *Announcements on mailing lists*"
-msgstr ""
+msgstr "|checkbox_unchecked| *Aankondigingen op mailinglijsten*"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:188
 msgid ""
 "|checkbox_unchecked| freegis-list: http://intevation.de/mailman/listinfo"
 "/freegis-list"
-msgstr ""
+msgstr "|checkbox_unchecked| freegis-list: http://intevation.de/mailman/listinfo/freegis-list"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:189
 msgid ""
 "|checkbox_unchecked| grassuser: "
 "http://grass.itc.it/mailman/listinfo/grassuser"
-msgstr ""
+msgstr "|checkbox_unchecked| grassuser: http://grass.itc.it/mailman/listinfo/grassuser"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:190
 msgid ""
 "|checkbox_unchecked| qgis-user: http://lists.osgeo.org/mailman/listinfo"
 "/qgis-user"
-msgstr ""
+msgstr "|checkbox_unchecked| qgis-user: http://lists.osgeo.org/mailman/listinfo/qgis-user"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:191
 msgid ""
 "|checkbox_unchecked| qgis-developer: "
 "https://lists.sourceforge.net/lists/listinfo/qgis-developer"
-msgstr ""
+msgstr "|checkbox_unchecked| qgis-developer: https://lists.sourceforge.net/lists/listinfo/qgis-developer"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:192
 msgid ""
 "|checkbox_unchecked| pkg-grass-general: "
 "http://lists.alioth.debian.org/mailman/listinfo/pkg-grass-general"
-msgstr ""
+msgstr "|checkbox_unchecked| pkg-grass-general: http://lists.alioth.debian.org/mailman/listinfo/pkg-grass-general"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:193
 msgid "|checkbox_unchecked| osgeo-announce: news_item@osgeo.org"
-msgstr ""
+msgstr "|checkbox_unchecked| osgeo-announce: news_item@osgeo.org"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:194
 msgid ""
 "|checkbox_unchecked| osgeo-discuss: "
 "http://lists.osgeo.org/mailman/listinfo/discuss"
-msgstr ""
+msgstr "|checkbox_unchecked| osgeo-discuss: http://lists.osgeo.org/mailman/listinfo/discuss"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:195
 msgid ""
 "|checkbox_unchecked| osgeo-africa: "
 "http://lists.osgeo.org/mailman/listinfo/africa"
-msgstr ""
+msgstr "|checkbox_unchecked| osgeo-africa: http://lists.osgeo.org/mailman/listinfo/africa"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:196
 msgid "|checkbox_unchecked| ppgis: ppgis@dgroups.org"
-msgstr ""
+msgstr "|checkbox_unchecked| ppgis: ppgis@dgroups.org"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:197
 msgid ""
 "|checkbox_unchecked| gav-talk: http://www.grass-verein.de/ml_irc.html "
 "(german)"
-msgstr ""
+msgstr "|checkbox_unchecked| gav-talk: http://www.grass-verein.de/ml_irc.html (german)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:198
 msgid ""
 "|checkbox_unchecked| grass-de: http://www.grass-verein.de/ml_irc.html "
 "(german)"
-msgstr ""
+msgstr "|checkbox_unchecked| grass-de: http://www.grass-verein.de/ml_irc.html (german)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:199
 msgid ""
 "|checkbox_unchecked| viscom-de: http://lists.osgeo.org/mailman/listinfo"
 "/viscom-discuss-de (german)"
-msgstr ""
+msgstr "|checkbox_unchecked| viscom-de: http://lists.osgeo.org/mailman/listinfo/viscom-discuss-de (german)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:200
 msgid ""
 "|checkbox_unchecked| gfoss.it: http://www.faunalia.com/cgi-"
 "bin/mailman/listinfo/gfoss (italian)"
-msgstr ""
+msgstr "|checkbox_unchecked| gfoss.it: http://www.faunalia.com/cgi-bin/mailman/listinfo/gfoss (italian)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:201
 msgid "|checkbox_unchecked| info@aet.org.es (spanish)"
-msgstr ""
+msgstr "|checkbox_unchecked| info@aet.org.es (spanish)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:202
 msgid "|checkbox_unchecked| TELEDETECCION@LISTSERV.REDIRIS.ES (spanish)"
-msgstr ""
+msgstr "|checkbox_unchecked| TELEDETECCION@LISTSERV.REDIRIS.ES (spanish)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:203
 msgid "|checkbox_unchecked| telenet@latuv.uva.es (spanish)"
-msgstr ""
+msgstr "|checkbox_unchecked| telenet@latuv.uva.es (spanish)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:204
 msgid "|checkbox_unchecked| SIG@LISTSERV.REDIRIS.ES (spanish)"
-msgstr ""
+msgstr "|checkbox_unchecked| SIG@LISTSERV.REDIRIS.ES (spanish)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:205
 msgid "|checkbox_unchecked| ecespa@ecologiaespacial.es (spanish)"
-msgstr ""
+msgstr "|checkbox_unchecked| ecespa@ecologiaespacial.es (spanish)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:206
 msgid "|checkbox_unchecked| infogeo@eListas.net (spanish)"
-msgstr ""
+msgstr "|checkbox_unchecked| infogeo@eListas.net (spanish)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:207
 msgid "|checkbox_unchecked| map-mac@avenza.com (spanish)"
-msgstr ""
+msgstr "|checkbox_unchecked| map-mac@avenza.com (spanish)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:208
 msgid "|checkbox_unchecked| ppgis-scope@igc.org (spanish)"
-msgstr ""
+msgstr "|checkbox_unchecked| ppgis-scope@igc.org (spanish)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:212
 msgid "Call for translators email"
-msgstr ""
+msgstr "Oproep voor vertalers e-mail"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:214
 msgid ""
 "When translations call is made, an email based on the template below should "
 "be sent out to encourage translators to get there work submitted.::"
-msgstr ""
+msgstr "Wanneer de oproep voor vertalers is gedaan zou een e-mail, die is gebaseerd op de sjabloon hieronder, moeten worden erzonden om vertalers aan te moedigen hun werk in te dienen.::"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:244
 msgid "Branching and Tagging Details"
-msgstr ""
+msgstr "Details voor aftakken en taggen "
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:246
 msgid ""
 "Branch the release using syntax below (update this with the actual commands "
 "you used to branch).::"
-msgstr ""
+msgstr "tak de uitgave af met behulp van de syntaxis hieronder (werk dit bij met de echte opdrachten die u gebruikte om af te takken).::"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:252
 msgid "Tag the release using a signed tag::"
-msgstr ""
+msgstr "Tag de uitgave met behulp van een ondertekende tag::"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:259
 msgid "Bug Tracker System"
-msgstr ""
+msgstr "Volgsysteem"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:261
 msgid ""
 "All bugs that are intended to have been fixed in this release should have "
 "been marked as closed. All other bugs on the release branch should be marked"
 " for a future release. To do this:"
-msgstr ""
+msgstr "Alle problemen, waarvan de bedoeling is dat ze zijn opgelost voor deze uitgave, zouden moeten zijn gemarkeerd als closed. Alle andere problemen voor de tak van de uitgave zouden moeten zijn gemarkeerd voor een toekomstige uitgave. Om dat te doen:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:265
 msgid ""
 "create a new milestone and version e.g. we are releasing 2.0.0 now so create"
 " a new milestone in redmine for 2.0.0. Create the milestone here:"
-msgstr ""
+msgstr "maak een nieuwe milestone en versie bijv. we geven nu 2.4.0 uit, dus maken we een nieuwe milestone in redmine voor 2.4.0. maak de milestone hier:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:268
 msgid ""
 "Now you need to update each open bug on the branch and reset its milestone "
 "for the next release in the future. This can be done easily doing a batch "
 "update in redmine."
-msgstr ""
+msgstr "Nu dient u elk geopend probleem voor de tak bij te werken en de milestone er voor te wijzigen naar d volgende toekomstige uitgave. Dit kan eenvoudig worden gedaan met een batch update in redmine."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:274
 msgid "Create the source tarball"
-msgstr ""
+msgstr "Maken van de source tarball"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:276
 msgid "This is best achieved by running this little script::"
-msgstr ""
+msgstr "Dit wordt het beste gedaan door dit kleine script uit te voeren:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:286
 msgid "Generate the changelog"
-msgstr ""
+msgstr "Genereren van het log met wijzigingen"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:288
 msgid "TODO: Add details here on how to generate the changelog."
-msgstr ""
+msgstr "TODO: Voeg hier details toe over hoe het log van wijzigingen te genereren."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:292
 msgid "Pro-forma call for packaging announcement"
-msgstr ""
+msgstr "Pro-forma oproep voor de aankdiging voor het maken van de pakketten"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:294
 msgid "mail::"
-msgstr ""
+msgstr "mail::"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:357
 msgid "Windows Binary upload"
-msgstr ""
+msgstr "Windows Binary upload"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:359
 msgid "Put the binary onto the server::"
-msgstr ""
+msgstr "Plaatsen van de binary op de server::"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:365
 msgid "Now do a virus check on it. First make a note of the url:"
-msgstr ""
+msgstr "Doe er nu een viruscheck op. Noteer eerst de url:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:367
 msgid "http://download.osgeo.org/qgis/win32/QGIS-2.0.0-0-No-GrassSetup.exe"
-msgstr ""
+msgstr "http://download.osgeo.org/qgis/win32/QGIS-2.0.0-0-No-GrassSetup.exe"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:369
 msgid ""
 "Now go to GarysHood online virus checker or similar to double check the "
 "binary is virus free:"
-msgstr ""
+msgstr "Ga nu naar de GarysHood online viruscontrole of soortgelijke om nogmaals te controleren of de binary vrij van virussen is:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:372
 msgid "`Gary Shood Virus Checker <http://www.garyshood.com/virus/>`_"
-msgstr ""
+msgstr "`Gary Shood Virus Checker <http://www.garyshood.com/virus/>`_"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:376
 msgid "Announcing the release"
-msgstr ""
+msgstr "Aankondigen van de uitgave"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:379
 msgid "Note you can get stats for the previous release like with \"awstats\":"
-msgstr ""
+msgstr "Onthoud dat u statistieken kunt verkrijgen voor de vorige uitgave zoals van \"awstats\":"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:379
 msgid ""
 "http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-"
 "OSGeo4W-2.0.0-.*-Setup.exe&urlfilterex=&output=urldetail&config=qgis&framename=mainright&month=all&year=2011"
-msgstr ""
+msgstr "http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-OSGeo4W-2.0.0-.*-Setup.exe&urlfilterex=&output=urldetail&config=qgis&framename=mainright&month=all&year=2011"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:382
 msgid "IRC TOPIC update"
-msgstr ""
+msgstr "IRC TOPIC update"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:384
 msgid "Tim or Gary can update the IRC topic using this procedure:"
-msgstr ""
+msgstr "Tim of Gary kunnen het onderwerp voor IRC bijwerken met behulp van deze procedure:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:392
 msgid "Update Version Text File"
-msgstr ""
+msgstr "Bijwerken versie-tekstbestand"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:394
 msgid ""
 "The file accessed from the :menuselection:`Help --> Check QGIS Version` menu"
 " is located at http://qgis.org/version.txt. This should be updated to "
 "reflect the current release."
-msgstr ""
+msgstr "Het bestand dat wordt benaderd via het menu :menuselection:`Help --> Info` bevindt zich op http://qgis.org/version.txt. Dit zou moeten wordne bijgewerkt naar de huidige uitgave."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:399
 msgid "Create an announcement template"
-msgstr ""
+msgstr "Maken van een sjabloon voor aankondigingen"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:401
 msgid ""
 "An announcement template will save you retypping the same text at the "
 "various places of announcement. The following text can be used as a basis:"
-msgstr ""
+msgstr "Een sjabloon voor aankondigingen zal u het opnieuw typen van dezelfde tekst op verschillende plaatsen in de aankondiging besparen. De volgende tekst kan als basis worden gebruikt:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:406
 msgid "A Generic release subject"
-msgstr ""
+msgstr "Een algmeen onderwerp voor de uitgave"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:414
 msgid "A generic 20 word summary"
-msgstr ""
+msgstr "Een algemeen overzicht van ongeveer 20 woorden generic 20 word summary"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:423
 msgid "A mailing list announcement"
-msgstr ""
+msgstr "Een aankondiging voor de mailinglijst"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:442
 msgid "A word of thanks to our contributors, donors and sponsors"
-msgstr ""
+msgstr "Een dankwoord voor degenen die bijdroegen, donoren en sponsors"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:479
 msgid "Visual tour of the new release:"
-msgstr ""
+msgstr "Visuele tour door de nieuwe uitgave:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:490
 msgid "New features with this release:"
-msgstr ""
+msgstr "Nieuwe mogelijkheden met deze uitgave:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:501
 msgid "A generic product description"
-msgstr ""
+msgstr "Een algemene productbeschrijving"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:515
 msgid "A generic features list"
-msgstr ""
+msgstr "Een algemene lijst met mogelijkheden"
 
-#~ msgid "Tim Sutton"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:128
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:150
+msgid "Tim Sutton"
+msgstr "Tim Sutton"
 
-#~ msgid "tim at linfiniti.com"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:128
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:150
+msgid "tim at linfiniti.com"
+msgstr "tim at linfiniti.com"
 
-#~ msgid "Release Manager"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:128
+msgid "Release Manager"
+msgstr "Uitgave-manager"
 
-#~ msgid "Jürgen E. Fischer"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:130
+msgid "Jürgen E. Fischer"
+msgstr "Jürgen E. Fischer"
 
-#~ msgid "jef at norbit.de"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:130
+msgid "jef at norbit.de"
+msgstr "jef at norbit.de"
 
-#~ msgid "Ubuntu Packages"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:130
+msgid "Ubuntu Packages"
+msgstr "Ubuntu-pakketten"
 
-#~ msgid "Jürgen E. Fischer / Tim Sutton"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:132
+msgid "Jürgen E. Fischer / Tim Sutton"
+msgstr "Jürgen E. Fischer / Tim Sutton"
 
-#~ msgid "jef at norbit.de / tim at linfiniti.com"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:132
+msgid "jef at norbit.de / tim at linfiniti.com"
+msgstr "jef at norbit.de / tim at linfiniti.com"
 
-#~ msgid "Windows packaging"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:132
+msgid "Windows packaging"
+msgstr "Windows-pakketten"
 
-#~ msgid "Otto Dassau"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:134
+msgid "Otto Dassau"
+msgstr "Otto Dassau"
 
-#~ msgid "otto.dassau at gmx.de"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:134
+msgid "otto.dassau at gmx.de"
+msgstr "otto.dassau at gmx.de"
 
-#~ msgid "openSUSE Packaging"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:134
+msgid "openSUSE Packaging"
+msgstr "openSUSE-pakketten"
 
-#~ msgid "William"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:136
+msgid "William"
+msgstr "William"
 
-#~ msgid "kyngchaos at kyngchaos.com"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:136
+msgid "kyngchaos at kyngchaos.com"
+msgstr "kyngchaos at kyngchaos.com"
 
-#~ msgid "OSX Frameworks Build and OSX all in one bundle"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:136
+msgid "OSX Frameworks Build and OSX all in one bundle"
+msgstr "OSX Frameworks Build en OSX alles in één-bundel"
 
-#~ msgid "Niccolo Rigacci"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:138
+msgid "Niccolo Rigacci"
+msgstr "Niccolo Rigacci"
 
-#~ msgid "qgis at rigacci.org"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:138
+msgid "qgis at rigacci.org"
+msgstr "qgis at rigacci.org"
 
-#~ msgid "Debian Lenny"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:138
+msgid "Debian Lenny"
+msgstr "Debian Lenny"
 
-#~ msgid "Volker Fröhlich"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:140
+msgid "Volker Fröhlich"
+msgstr "Volker Fröhlich"
 
-#~ msgid "volker27 at gmx.at"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:140
+msgid "volker27 at gmx.at"
+msgstr "volker27 at gmx.at"
 
-#~ msgid "Fedora packaging"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:140
+msgid "Fedora packaging"
+msgstr "Fedora-pakketten"
 
-#~ msgid "BABA Yoshihiko"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:142
+msgid "BABA Yoshihiko"
+msgstr "BABA Yoshihiko"
 
-#~ msgid "babayoshihiko at mac.com"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:142
+msgid "babayoshihiko at mac.com"
+msgstr "babayoshihiko at mac.com"
 
-#~ msgid "OSX via Fink"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:142
+msgid "OSX via Fink"
+msgstr "OSX via Fink"
 
-#~ msgid "Antonio Chay"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:144
+msgid "Antonio Chay"
+msgstr "Antonio Chay"
 
-#~ msgid "antonio.chay at gmail.com"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:144
+msgid "antonio.chay at gmail.com"
+msgstr "antonio.chay at gmail.com"
 
-#~ msgid "CentOS 5.x"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:144
+msgid "CentOS 5.x"
+msgstr "CentOS 5.x"
 
-#~ msgid "Jeremy Spykerman"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:146
+msgid "Jeremy Spykerman"
+msgstr "Jeremy Spykerman"
 
-#~ msgid "jeremy.spykerman at gmail.com"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:146
+msgid "jeremy.spykerman at gmail.com"
+msgstr "jeremy.spykerman at gmail.com"
 
-#~ msgid "Jim Hammack"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:148
+msgid "Jim Hammack"
+msgstr "Jim Hammack"
 
-#~ msgid "hammack AT gotslack.org"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:148
+msgid "hammack AT gotslack.org"
+msgstr "hammack AT gotslack.org"
 
-#~ msgid "Slackware 13.0"
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:148
+msgid "Slackware 13.0"
+msgstr "Slackware 13.0"
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:150
+msgid "Source @ qgis.org/downloads/"
+msgstr "Source @ qgis.org/downloads/"
 
 #~ msgid "Source @ qgis.org/dowloads/"
 #~ msgstr ""

@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-21 07:09+0000\n"
+"PO-Revision-Date: 2014-08-15 04:13+0000\n"
 "Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/qgis-website/language/id/)\n"
 "MIME-Version: 1.0\n"
@@ -45,26 +45,6 @@ msgstr "Marco Hugentobler (Penasihat Tekhnik)"
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:17
 msgid "Tim Sutton (Testing/QA Manager)"
 msgstr "Tim Sutton (Manajer Penguji/QA)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:18
-msgid "Otto Dassau (Community Advisor)"
-msgstr "Otto Dassau (Penasehat Komunitas)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:19
-msgid "Paolo Cavallini (Financial and Marketing Advisor)"
-msgstr "Paolo Cavallini (Penasehat Keuangan dan Pemasaran)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:20
-msgid "Anita Graser (Design Advisor)"
-msgstr "Anita Graser (Penasehat Disain)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:21
-msgid "Richard Duivenvoorde (Infrastructure Manager)"
-msgstr "Richard Duivenvoorde (Manajer Infrastruktur)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:22
-msgid "Jürgen Fischer (Release Manager)"
-msgstr "Jürgen Fischer (Manajer Rilis)"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:24
 msgid "Read more about the responsibilities of the PSC :ref:`here <psc>`"
@@ -282,10 +262,6 @@ msgstr "Processing Toolbox (SEXTANTE): Victor Olaya <volayaf[at]gmail.com>"
 msgid "Topology plugin: Vinayan Parameswaran <vinayan123[at]gmail.com>"
 msgstr "Topology plugin: Vinayan Parameswaran <vinayan123[at]gmail.com>"
 
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:129
-msgid "Community Resources¶"
-msgstr "Sumberdaya Komunitas¶"
-
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:131
 msgid "Current Community Team Lead: Otto Dassau <dassau[at]gbd-consult.de>"
 msgstr "Pemimpin Tim Komunitas Sekarang: Otto Dassau <dassau[at]gbd-consult.de>"
@@ -368,3 +344,45 @@ msgid ""
 "recognised as Project Committers and have full commit access to the `github "
 "repository <https://github.com/qgis/QGIS>`_."
 msgstr "`individuals <https://github.com/qgis/QGIS/graphs/contributors>`_ diakui sebagai Project Commiter dan telah komit penuh akses ke `github repository <https://github.com/qgis/QGIS>`_."
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:129
+msgid "Community Resources"
+msgstr "Sumberdaya Komunitas"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:18
+msgid "Otto Dassau (Community Advisor) [since June 2007]"
+msgstr "Otto Dassau (Penasehat Komunitas) [sejak Juni 2007]"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:19
+msgid "Paolo Cavallini (Financial and Marketing Advisor) [since January 2008]"
+msgstr "Paolo Cavallini (Penasehat Keuangan dan Pemasaran) [sejak Januari 2008]"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:20
+msgid "Anita Graser (Design Advisor) [since September 2013]"
+msgstr "Anita Graser (Penasehat Disain) [sejak September 2013]"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:21
+msgid "Richard Duivenvoorde (Infrastructure Manager) [since September 2013]"
+msgstr "Richard Duivenvoorde (Manajer Infrastruktur) [sejak September 2013]"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:22
+msgid "Jürgen Fischer (Release Manager) [since September 2013]"
+msgstr "Jürgen Fischer (Manajer Rilis) [sejak September 2013]"
+
+#~ msgid "Otto Dassau (Community Advisor)"
+#~ msgstr ""
+
+#~ msgid "Paolo Cavallini (Financial and Marketing Advisor)"
+#~ msgstr ""
+
+#~ msgid "Anita Graser (Design Advisor)"
+#~ msgstr ""
+
+#~ msgid "Richard Duivenvoorde (Infrastructure Manager)"
+#~ msgstr ""
+
+#~ msgid "Jürgen Fischer (Release Manager)"
+#~ msgstr ""
+
+#~ msgid "Community Resources¶"
+#~ msgstr ""

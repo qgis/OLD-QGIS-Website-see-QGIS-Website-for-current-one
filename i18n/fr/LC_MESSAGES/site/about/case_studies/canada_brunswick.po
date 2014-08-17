@@ -1,15 +1,16 @@
 # 
 # Translators:
 # tneskovic <antoine_ecuador@yahoo.fr>, 2014
-# DelazJ <delazj@gmail.com>, 2013
-# julien2291 <julien.francois1@hotmail.fr>, 2013
+# Sant-anna <delazj@gmail.com>, 2013
+# Julien Francois <julien.francois1@hotmail.fr>, 2013
+# MarieSilvestre <marie.silvestre@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-02-27 10:50+0000\n"
-"Last-Translator: tneskovic <antoine_ecuador@yahoo.fr>\n"
+"PO-Revision-Date: 2014-07-28 13:06+0000\n"
+"Last-Translator: MarieSilvestre <marie.silvestre@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +20,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:4
 msgid "Creating the Fundy Footpath Trail Map with QGIS"
-msgstr "Créer la carte des sentier de Fundy avec QGIS"
+msgstr "Créer la carte des sentiers de Fundy avec QGIS"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:11
 msgid ""
@@ -103,7 +104,7 @@ msgstr "Les données collectées par GPS ont été nettoyées en utilisant la ba
 msgid ""
 "The vector data obtained from NRCan and SNB was merged together, queried, "
 "and clipped for the final map area using the vector tools."
-msgstr ""
+msgstr "Les données vectorielles obtenues de NRCan et SNB ont été fusionnées, requêtées et découpées avec les outils vectoriels pour la carte finale."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:45
 msgid ""
@@ -112,11 +113,11 @@ msgid ""
 "was used to create an elevation raster that was then used to create a "
 "hillshade raster and elevation contour layer with the GDAL raster tools "
 "plugin."
-msgstr ""
+msgstr "Un fichier texte délimité provenant de SNB a été importé dans QGIS en couche de point en utilisant l'extension d'Ajout de texte délimité. L'extension d'Interpolation a été utilisée pour créer un raster d'altitude ensuite utilisé pour créer un raster d'ombrage et des courbes de niveau avec les outils raster de GDAL."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:52
 msgid "Footpath map in the Print Composer"
-msgstr ""
+msgstr "La carte des sentiers dans le Composeur d'Impression"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:54
 msgid ""
@@ -129,7 +130,7 @@ msgid ""
 "arrow and elevation profile in the print composer. Two layouts were created "
 "since it was to be a double-sided map. Once both layouts were created they "
 "were exported as PDF files and sent to the printers."
-msgstr ""
+msgstr "Une fois les données nécessaires pour réaliser la carte assemblées et dans un format utilisable, la création de la carte finale a commencé. Pour créer la carte de randonnée, les données ont été mises en forme et étiquetées grâce aux propriétés de Style et au moteur d'étiquetage de QGIS. Une fois cela fait, le Composeur d'Impression a été utilisé pour la mise en page. Il a été très simple d'ajouter des éléments indispensables à la carte tels que la flèche du nord et le profil d'altitude. Deux mises en page ont été créées car il s'agit d'une carte recto-verso. Une fois terminées, elle ont été exportées en PDF et envoyées aux imprimeurs."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:57
 msgid "Conclusion"
@@ -145,7 +146,7 @@ msgid ""
 "had all of the functionality and tools required to create a highly useful "
 "and detailed hiking map from start to finish. I would highly recommend QGIS "
 "to both experienced and beginning GIS users alike."
-msgstr ""
+msgstr "La carte de randonnées a été imprimée sur du papier résistant et imperméable, pliée puis insérée au dos de la nouvelle édition du Guide de Randonnée du \"Fundy Footpath\". QGIS fut le meilleur et le plus fonctionnel des choix pour la réalisation de cette carte. Étant un logiciel libre, le coût semblait juste pour qu'un volontaire crée la carte pour une organisation non lucrative. Mais le véritable avantage de QGIS est qu'il propose toutes les fonctionnalités et outils requis pour créer une carte très utile et détaillée de A à Z. Je recommanderais donc vivement QGIS pour les utilisateurs novices ou expérimentés."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:66
 msgid "The final Fundy Footpath map with accompanying guidebook"

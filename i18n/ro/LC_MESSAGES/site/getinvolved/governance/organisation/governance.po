@@ -1,13 +1,13 @@
 # 
 # Translators:
-# csorin <scalinica@gmail.com>, 2013
+# Sorin Călinică <scalinica@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-11-05 16:10+0000\n"
-"Last-Translator: csorin <scalinica@gmail.com>\n"
+"PO-Revision-Date: 2014-08-07 15:24+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -45,26 +45,6 @@ msgstr "Marco Hugentobler (Consilier Tehnic)"
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:17
 msgid "Tim Sutton (Testing/QA Manager)"
 msgstr "Tim Sutton (Manager testare/AQ)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:18
-msgid "Otto Dassau (Community Advisor)"
-msgstr "Otto Dassau (Consilier din partea comunității)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:19
-msgid "Paolo Cavallini (Financial and Marketing Advisor)"
-msgstr "Paolo Cavallini (Consultant Financiar și de Marketing )"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:20
-msgid "Anita Graser (Design Advisor)"
-msgstr "Anita Graser (Consultant în Design)"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:21
-msgid "Richard Duivenvoorde (Infrastructure Manager)"
-msgstr "Richard Duivenvoorde (Manager Infrastructură )"
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:22
-msgid "Jürgen Fischer (Release Manager)"
-msgstr "Jürgen Fischer (Manager de lansare)"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:24
 msgid "Read more about the responsibilities of the PSC :ref:`here <psc>`"
@@ -282,10 +262,6 @@ msgstr "Caseta cu instrumente de procesare (SEXTANTE): Victor Olaya <volayaf[at]
 msgid "Topology plugin: Vinayan Parameswaran <vinayan123[at]gmail.com>"
 msgstr "Plugin-ul topologic: Vinayan Parameswaran <vinayan123[at]gmail.com>"
 
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:129
-msgid "Community Resources¶"
-msgstr "Resurse ale comunității¶"
-
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:131
 msgid "Current Community Team Lead: Otto Dassau <dassau[at]gbd-consult.de>"
 msgstr "Liderul Actual al Echipei Comunitare: Otto Dassau <dassau[at]gbd-consult.de>"
@@ -368,3 +344,45 @@ msgid ""
 "recognised as Project Committers and have full commit access to the `github "
 "repository <https://github.com/qgis/QGIS>`_."
 msgstr "Aceste `persoane <https://github.com/qgis/QGIS/graphs/contributors>`_ sunt recunoscute ca Autori ai proiectului având drepturi depline de acces la `depozitul github <https://github.com/qgis/QGIS>`_."
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:129
+msgid "Community Resources"
+msgstr "Resurse comunitare"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:18
+msgid "Otto Dassau (Community Advisor) [since June 2007]"
+msgstr "Otto Dassau (Consilier din partea comunității) [din iunie 2007]"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:19
+msgid "Paolo Cavallini (Financial and Marketing Advisor) [since January 2008]"
+msgstr "Paolo Cavallini (Consultant Financiar și de Marketing) [din ianuarie 2008]"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:20
+msgid "Anita Graser (Design Advisor) [since September 2013]"
+msgstr "Anita Graser (Consultant în Design) [din septembrie 2013]"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:21
+msgid "Richard Duivenvoorde (Infrastructure Manager) [since September 2013]"
+msgstr "Richard Duivenvoorde (Manager Infrastructură) [din septembrie 2013]"
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:22
+msgid "Jürgen Fischer (Release Manager) [since September 2013]"
+msgstr "Jürgen Fischer (Manager de lansare) [din septembrie 2013]"
+
+#~ msgid "Otto Dassau (Community Advisor)"
+#~ msgstr ""
+
+#~ msgid "Paolo Cavallini (Financial and Marketing Advisor)"
+#~ msgstr ""
+
+#~ msgid "Anita Graser (Design Advisor)"
+#~ msgstr ""
+
+#~ msgid "Richard Duivenvoorde (Infrastructure Manager)"
+#~ msgstr ""
+
+#~ msgid "Jürgen Fischer (Release Manager)"
+#~ msgstr ""
+
+#~ msgid "Community Resources¶"
+#~ msgstr ""

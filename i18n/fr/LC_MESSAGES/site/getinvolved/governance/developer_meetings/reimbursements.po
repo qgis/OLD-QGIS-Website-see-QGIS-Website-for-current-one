@@ -1,14 +1,16 @@
 # 
 # Translators:
 # tneskovic <antoine_ecuador@yahoo.fr>, 2014
-# DelazJ <delazj@gmail.com>, 2013
+# Guy BARA <bara.guy@gmail.com>, 2014
+# Sant-anna <delazj@gmail.com>, 2013
 # MarieSilvestre <marie.silvestre@gmail.com>, 2014
+# Sant-anna <delazj@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-04-24 12:37+0000\n"
+"PO-Revision-Date: 2014-07-29 12:52+0000\n"
 "Last-Translator: MarieSilvestre <marie.silvestre@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -20,19 +22,6 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:3
 msgid "Reimbursements for Developer Meetings"
 msgstr "Remboursements lors des Rencontres Développeurs"
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:5
-msgid ""
-"The Quantum GIS project holds twice-yearly developer meetings, typically "
-"somewhere in Europe. The purpose of the meetings is to provide face-to-face "
-"time for developers. It is a forum for presenting new ideas, planning, "
-"putting heads together to solve problems and so on. We use funding from our "
-":doc:`../sponsorship/index` to facilitate the event, with co-funding from "
-"the host who usually supplies the venue and the infrastructure for hosting "
-"the meeting. Individual developers also co-fund the event by donating their "
-"time and in many cases financially supporting their visit to the meeting "
-"directly."
-msgstr "Le projet Quantum GIS tient des réunions deux fois par an, généralement en Europe. Le but de ces réunions et de permettre aux développeurs de se rencontrer de visu. C'est un forum qui permet de présenter de nouvelles idées, de s'organiser, de réfléchir tous ensemble à la résolution de problèmes etc. Nous utilisons les fonds de notre :doc:`../sponsorship/index` pour organiser l'évènement ainsi que le co-financement des hôtes qui assurent généralement l'insfrastructure pour les meetings. Les développeuts cofinance également l'évènement en donnant de leur temps et la plupart du temps en payant leur voyage directement."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:14
 msgid ""
@@ -52,7 +41,7 @@ msgstr "Le terme 'développeur' dans ce document se réfère à toute personne q
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:25
 msgid "Policy for disbursement of funds to individual developers"
-msgstr ""
+msgstr "Politique de remboursement pour les développeurs individuels"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:27
 msgid ""
@@ -63,14 +52,14 @@ msgid ""
 "indicate dissent, indifference and assent respectively. In the event of a "
 "tie-break, the PSC Chairman shall make the final decision. The devision made"
 " by the PSC shall be final."
-msgstr ""
+msgstr "Le comité de pilotage arbitrera chaque requête ou plainte concernant le remboursement des frais pour les développeurs individuels. Si le comité de pilotage doit arbitrer, il proposera un arbitrage et chacun des membres votera en utilisant le système -1 / 0 / +1 pour signifier respectivement son désaccord, son indifférence ou son accord. En cas d'égalité, le président du comité prendra la décision finale. La décision prise par le comité de pilotage est ensuite sans appel."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:34
 msgid ""
 "Individual applications from non-core developers (i.e. those who do not have"
 " direct commit access to the QGIS repositories) of EUR200 or less may be "
 "decided on by the nominated PSC member without requiring a full PSC vote."
-msgstr ""
+msgstr "Les demandes individuelles venant de développeurs non principaux (c-à-d ceux qui n'ont pas d'accès direct en écriture au dépôt QGIS) de mois de 200 € seront examinées par un membre nommé du comité de pilotage dans nécessiter de vote de tout le comité."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:37
 msgid ""
@@ -78,7 +67,7 @@ msgid ""
 "precident directly by the PSC Financial Representative (Paolo Cavallini). In"
 " the event of any uncertainty on his part, he may bring the matter to the "
 "PSC for a vote."
-msgstr ""
+msgstr "Les demandes individuelles venant de développeurs principaux seront gérées par le trésorier du comité de pilotage (Paolo Cavallini). En cas de doute de sa part, il pourra soumettre la demande au vote du comité."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:41
 msgid "All funding requests should be made **before** the meeting event."
@@ -88,24 +77,24 @@ msgstr "Toutes les demandes de financement devraient être effectuées **avant**
 msgid ""
 "Funding may be limited due to budgetary constraints, in which case funding "
 "will be provided on a first-come first-served basis."
-msgstr ""
+msgstr "Les remboursements peuvent être limités en cas de contraintes budgétaires et dans ce cas les remboursements seront effectués par ordre chronologique des demandes. "
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:44
 msgid ""
 "The PSC / PSC Finance Chair may offer to provide partial funding where "
 "funding resources are limited."
-msgstr ""
+msgstr "Le comité de pilotage et son trésorier peuvent proposer un remboursement partiel lorsque les ressources sont limitées."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:46
 msgid ""
 "The PSC Financial Chair shall maintain complete financial records of what "
 "disbursements were made and to whom and these should be available on request"
 " to the PSC."
-msgstr ""
+msgstr "Le trésorier du comité de pilotage doit maintenir un relevé financier complet des remboursements effectués et leurs destinataires et il sera mis à la disposition du comité de pilotage à la demande."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:52
 msgid "Procedure for funding applications - core developers"
-msgstr ""
+msgstr "Procédure pour les demandes de financement - développeurs principaux"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:54
 msgid ""
@@ -118,22 +107,14 @@ msgstr "Une demande de financement par mail devrait être soumise au directeur f
 msgid ""
 "The request should include the number of days that the developer will "
 "attend."
-msgstr ""
+msgstr "La demande devrait inclure le nombre de jours pendant lesquels le développeur sera présent."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:57
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:74
 msgid ""
 "The request should include an expense breakdown covering travel and "
 "accommodation."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:59
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:76
-msgid ""
-"The requestor should provide copies of reciepts for all expenditures as soon"
-" as possible after the event. No refunds should be made without accompanying"
-" receipts."
-msgstr ""
+msgstr "La demande doit inclure une ventilation des dépenses couvrant les déplacements et l'hébergement."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:65
 msgid "Procedure for funding applications - new developers"
@@ -143,16 +124,55 @@ msgstr "Procédure pour les demandes de financement - nouveaux développeurs"
 msgid ""
 "A request for funding email should be submitted to the PSC Member designated"
 " to review funding requests **before** the meeting."
-msgstr ""
+msgstr "Une demande de financement par courriel devrait être soumise au membre PSC désigné pour examiner les demandes de financement **avant** la rencontre."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:69
 msgid ""
 "If the requestor is not happy with the funding requests reviewer's decision,"
 " they may request arbitration from the PSC as a whole."
-msgstr ""
+msgstr "Si le demandeur n'est pas satisfait de la décision de l'évaluateur du financement des demandes, il peut demander l'arbitrage du PSC dans son ensemble."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:71
 msgid ""
 "The request should include a **workplan** outlining how the developer plans "
 "to make use of their time at the meeting."
-msgstr ""
+msgstr "La demande doit comprendre un **plan de travail** décrivant comment le développeur prévoit de faire usage de leur temps lors de la rencontre."
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:5
+msgid ""
+"The QGIS project holds twice-yearly developer meetings, typically somewhere "
+"in Europe. The purpose of the meetings is to provide face-to-face time for "
+"developers. It is a forum for presenting new ideas, planning, putting heads "
+"together to solve problems and so on. We use funding from our "
+":doc:`../sponsorship/index` to facilitate the event, with co-funding from "
+"the host who usually supplies the venue and the infrastructure for hosting "
+"the meeting. Individual developers also co-fund the event by donating their "
+"time and in many cases financially supporting their visit to the meeting "
+"directly."
+msgstr "Le projet QGIS tient des réunions deux fois par an, généralement en Europe. Le but de ces réunions et de permettre aux développeurs de se rencontrer de visu. C'est un forum qui permet de présenter de nouvelles idées, de s'organiser, de réfléchir tous ensemble à la résolution de problèmes etc. Nous utilisons les fonds de notre :doc:`../sponsorship/index` pour organiser l'évènement ainsi que le co-financement des hôtes qui assurent généralement l'insfrastructure pour les meetings. Les développeuts cofinance également l'évènement en donnant de leur temps et la plupart du temps en payant leur voyage directement."
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:59
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:76
+msgid ""
+"The requestor should provide copies of receipts for all expenditures as soon"
+" as possible after the event. No refunds should be made without accompanying"
+" receipts."
+msgstr "Le demandeur doit fournir des copies des reçus de toutes les dépenses dès que possible après l'événement. Aucun remboursement ne sera fait pour des dépenses non justifiées par des reçus."
+
+#~ msgid ""
+#~ "The Quantum GIS project holds twice-yearly developer meetings, typically "
+#~ "somewhere in Europe. The purpose of the meetings is to provide face-to-face "
+#~ "time for developers. It is a forum for presenting new ideas, planning, "
+#~ "putting heads together to solve problems and so on. We use funding from our "
+#~ ":doc:`../sponsorship/index` to facilitate the event, with co-funding from "
+#~ "the host who usually supplies the venue and the infrastructure for hosting "
+#~ "the meeting. Individual developers also co-fund the event by donating their "
+#~ "time and in many cases financially supporting their visit to the meeting "
+#~ "directly."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The requestor should provide copies of reciepts for all expenditures as soon"
+#~ " as possible after the event. No refunds should be made without accompanying"
+#~ " receipts."
+#~ msgstr ""

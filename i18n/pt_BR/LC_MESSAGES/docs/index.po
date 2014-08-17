@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2014-05-15 03:28+0000\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2014-08-13 21:47+0000\n"
 "Last-Translator: Narcélio de Sá <narceliosapereira@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -15,56 +15,12 @@ msgstr ""
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: ../../source/docs/index.rst:8
-msgid "Documentation"
-msgstr "Documentação"
+#: ../../source/site/index.rst:11
+msgid "Welcome to the QGIS project!"
+msgstr "Bem Vindo ao Projeto QGIS!"
 
-#: ../../source/docs/index.rst:11
+#: ../../source/site/index.rst:15
 msgid ""
-"QGIS has a lot of documentation, partly translated. Please have a look into "
-"one of the documents below."
-msgstr "O QGIS tem possui uma grande documentação, parcialmente traduzida. Veja por favor um dos documentos abaixo."
-
-#: ../../source/docs/index.rst:15
-msgid "Documentation for QGIS 2.0"
-msgstr "Documentação do QGIS 2.0"
-
-#: ../../source/docs/index.rst:33
-msgid "Documentation for QGIS 1.8"
-msgstr "Documentação do QGIS 1.8"
-
-#: ../../source/docs/index.rst:28
-msgid ""
-"If you do not see working links to documentation above, it means that this "
-"documentation build did not copy the documentation sources into the website "
-"sources. You can also go to http://docs.qgis.org/2.0"
-msgstr "Se na documentação acima você não conseguir acessar os links, significa que esta compilação da documentação não copiou a fonte da documentação para as fontes do website. Você pode ir também a http://docs.qgis.org/2.0"
-
-#: ../../source/docs/index.rst:35
-msgid ""
-"We keep a copy of the documentation of QGIS 1.8 around here: "
-"http://docs.qgis.org/1.8"
-msgstr "Nós mantemos uma cópia da documentação do QGIS 1.8 aqui: http://docs.qgis.org/1.8"
-
-#: ../../source/docs/index.rst:48
-msgid "Documentation for QGIS testing"
-msgstr "Documentação para testar o QGIS"
-
-#: ../../source/docs/index.rst:50
-msgid ""
-"Although not translated we also build the documentation for the release QGIS"
-" which is currently developed. We call this version 'QGIS testing' and "
-"documentation can be found here: http://docs.qgis.org/testing"
-msgstr "Embora não traduzido nós também compilamos a documentação para o lançamento do QGIS que atualmente está sendo desenvolvido. Nós chamamos esta versão de 'Versão de teste do QGIS' e a documentação pode ser encontrada aqui: http://docs.qgis.org/testing"
-
-#~ msgid "Documentation for QGIS development/nightly"
-#~ msgstr ""
-
-#~ msgid "TBD"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you do not see working links to documentation above, it means that this "
-#~ "documentation build did not copy the documentation sources into the website "
-#~ "sources. See ..."
-#~ msgstr ""
+"Content is not used, it is overridden by themes/qgis-theme/index.html. TOC "
+"is used."
+msgstr "Conteúdo não utilizado, é sobreposto por themes/qgis-theme/index.html. TOC é utilizada."

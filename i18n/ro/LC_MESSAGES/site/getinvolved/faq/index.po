@@ -1,13 +1,13 @@
 # 
 # Translators:
-# csorin <scalinica@gmail.com>, 2013
+# Sorin Călinică <scalinica@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-12-15 11:07+0000\n"
-"Last-Translator: csorin <scalinica@gmail.com>\n"
+"PO-Revision-Date: 2014-05-30 16:35+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -85,13 +85,6 @@ msgstr "Dezvoltare"
 msgid "Can I compile QGIS myself on Windows?"
 msgstr "Pot compila QGIS pe Windows?"
 
-#: ../../source/site/getinvolved/faq/index.rst:59
-#: ../../source/site/getinvolved/faq/index.rst:65
-#: ../../source/site/getinvolved/faq/index.rst:71
-msgid ""
-"Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
-msgstr "Da, citiți, vă rog: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
-
 #: ../../source/site/getinvolved/faq/index.rst:63
 msgid "Can I compile QGIS myself on MacOS?"
 msgstr "Pot compila QGIS pe MacOS?"
@@ -135,6 +128,16 @@ msgid ""
 "For other instructions, eg look here: http://www.faunalia.com/content"
 "/adding-ecw-support-quantum-gis"
 msgstr "Pentru alte instrucțiuni, vă puteți uita aici: http://www.faunalia.com/content/adding-ecw-support-quantum-gis"
+
+#: ../../source/site/getinvolved/faq/index.rst:59
+#: ../../source/site/getinvolved/faq/index.rst:65
+#: ../../source/site/getinvolved/faq/index.rst:71
+msgid "Yes, please read: INSTALL_"
+msgstr "Da, citiți vă rog: INSTALL_"
+
+#~ msgid ""
+#~ "Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
+#~ msgstr ""
 
 #~ msgid "QGIS error on your machine. How to ask a question?"
 #~ msgstr ""

@@ -1,19 +1,19 @@
 # 
 # Translators:
-# BJ Jang <qgis.tr.kr@gmail.com>, 2013
-# endofcap <endofcap@gmail.com>, 2013
+# BJ Jang <qgis.tr.kr@gmail.com>, 2013-2014
+# Sanghee Shin <endofcap@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-12-26 02:28+0000\n"
+"PO-Revision-Date: 2014-05-26 00:51+0000\n"
 "Last-Translator: BJ Jang <qgis.tr.kr@gmail.com>\n"
-"Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/qgis-website/language/ko_KR/)\n"
+"Language-Team: Korean (http://www.transifex.com/projects/p/qgis-website/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ko_KR\n"
+"Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/site/getinvolved/translate.rst:4
@@ -171,12 +171,6 @@ msgid ""
 "source code and create pull requests for the language file on github."
 msgstr "번역 작업에 대한 고급 수준의 도움은 소스 코드를 확인하고 github에서 해당 언어에 대한 pull request를 요청하는 것일 겁니다. "
 
-#: ../../source/site/getinvolved/translate.rst:128
-msgid ""
-"Working with github and checking out the source code is explained in the "
-":ref:`Developer Section <reference-missing>'"
-msgstr "github에서 작업하고 소스 코드를 확인하는 방법은 :ref:`개발자 부분 <reference-missing>'에 설명되어 있습니다."
-
 #: ../../source/site/getinvolved/translate.rst:132
 msgid "Documentation"
 msgstr "문서"
@@ -232,6 +226,17 @@ msgid ""
 "available in the README.md file which gets displayed on "
 "https://github.com/qgis/QGIS-Website"
 msgstr "웹사이트 번역에 기여하는 방법에 대한 설명은 README.md 파일에 있습니다. 이는 https://github.com/qgis/QGIS-Website 에서 보실 수 있습니다."
+
+#: ../../source/site/getinvolved/translate.rst:128
+msgid ""
+"Working with github and checking out the source code is explained in the "
+":ref:`Developer Section <reference-missing>`."
+msgstr "Github를 이용한 작업과 소스크드 테크아웃은 :ref:`개발자 섹션 <reference-missing>`에 설명되어 있습니다."
+
+#~ msgid ""
+#~ "Working with github and checking out the source code is explained in the "
+#~ ":ref:`Developer Section <reference-missing>'"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "You will also find the progress of the translation there (but remember in "

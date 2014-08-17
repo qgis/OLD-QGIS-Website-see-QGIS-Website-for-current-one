@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Imron Fauzi <imronfauzi@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-10 10:46+0000\n"
+"PO-Revision-Date: 2014-06-03 12:07+0000\n"
 "Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/qgis-website/language/id/)\n"
 "MIME-Version: 1.0\n"
@@ -169,12 +170,6 @@ msgid ""
 "source code and create pull requests for the language file on github."
 msgstr "Tingkat lanjutan membantu dengan terjemahan akan memeriksa sumber kode dan membuat permintaan untuk berkas bahasa pada github."
 
-#: ../../source/site/getinvolved/translate.rst:128
-msgid ""
-"Working with github and checking out the source code is explained in the "
-":ref:`Developer Section <reference-missing>'"
-msgstr "Bekerja dengan github dan memeriksa kode sumber dijelaskan dalam :ref:`Bagian Pengembang <reference-missing>'"
-
 #: ../../source/site/getinvolved/translate.rst:132
 msgid "Documentation"
 msgstr "Dokumentasi"
@@ -230,6 +225,17 @@ msgid ""
 "available in the README.md file which gets displayed on "
 "https://github.com/qgis/QGIS-Website"
 msgstr "Deskripsi tentang bagaimana Anda dapat berkontribusi dalam penerjemahan halaman web tersedia dalam berkas README.md yang akan ditampilkan pada https://github.com/qgis/QGIS-Website"
+
+#: ../../source/site/getinvolved/translate.rst:128
+msgid ""
+"Working with github and checking out the source code is explained in the "
+":ref:`Developer Section <reference-missing>`."
+msgstr "Bekerja dengan github dan memeriksa kode sumber dijelaskan dalam :ref:`Bagian Pengambang <reference-missing>`."
+
+#~ msgid ""
+#~ "Working with github and checking out the source code is explained in the "
+#~ ":ref:`Developer Section <reference-missing>'"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "You will also find the progress of the translation there (but remember in "

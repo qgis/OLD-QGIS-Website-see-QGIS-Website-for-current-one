@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-03-23 11:05+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-08-10 08:17+0000\n"
+"Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,11 +16,11 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:4
 msgid "QGIS in the governmental FOSSGIS stack"
-msgstr ""
+msgstr "QGIS в урядовому стеку FOSSGIS"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:6
 msgid "of the Canton of Solothurn in Switzerland"
-msgstr ""
+msgstr "кантона Золотурн у Швейцарії"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:13
 msgid ""
@@ -37,59 +37,59 @@ msgid ""
 "introduction was very successful, but an easy to use desktop GIS was "
 "lacking. After an evaluation of different Desktop GIS we decided to use QGIS"
 " in conjunction with GRASS, replacing ESRI ArcInfo and ArcView3 in the 2006."
-msgstr ""
+msgstr "Кантон Золотурн надає послуги та забезпечує інфраструктурою 250000 мешканців. У 2001 році парламент вирішив мігрувати з Windows на Linux. Основними причинами були незалежність від конкретного постачальника, розвиток приватного підприємництва та зменшення витрат на ліцензії. В результаті відділ SO!GIS кантону Золотурн почав розробляти вимоги до ГІС з врахуванням потреб більше ніж 3500 співробітників та стратегії FOSSGIS. Першим кроком стало впровадження UMN MapServer та розробка клієнта SO!MAP, який є простим у використанні WebGIS-клієнтом для всіх 3500 співробітників. Другим кроком став перенос всіх геопросторових даних у форматі shape-файлів у просторову базу даних PostGIS. Перші кроки були дуже успішними, але бракувало зручної у використанні настільної ГІС. Після оцінки різних варіантів ми вирішили використовувати QGIS в поєднанні з GRASS, замінивши ними ESRI ArcInfo та ArcView3 у 2006 році."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:17
 msgid "The decision was driven by the following aspects:"
-msgstr ""
+msgstr "Рішення було прийняте з огляду на наступне:"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:19
 msgid ""
 "Due to our use of desktop GIS in a Linux Terminal Server environment, Java "
 "wasn't an option."
-msgstr ""
+msgstr "Java не підходить, оскільки настільна ГІС буде використовуватися на термінальному сервері Linux"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:20
 msgid "OSGeo Project-Organisation"
-msgstr ""
+msgstr "проект OSGeo"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:21
 msgid "GUI translated in German language"
-msgstr ""
+msgstr "інтерфейс перекладено на німецьку"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:22
 msgid "Documentation written in German language"
-msgstr ""
+msgstr "документацію перекладено на німецьку"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:23
 msgid "An Active developer (Marco Hugentobler) near Solothurn in Switzerland."
-msgstr ""
+msgstr "активний розробник (Marco Hugentobler) проживає у Швейцарії поблизу Золотурну"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:24
 msgid ""
 "We could contract Marco Hugentobler to implement missing / lacking features "
 "like Digitizing and Mapcomposing."
-msgstr ""
+msgstr "ми можемо укласти контракт з Marco Hugentobler щодо реалізації відсутнього функціоналу, наприклад оцифровки та підготовки друкованих карт"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:25
 msgid "Application and Plugin developement with Python"
-msgstr ""
+msgstr "розробка програм та плагінів на Python"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:26
 msgid "Growing user community"
-msgstr ""
+msgstr "співтовариство користувачів постійно зростає"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:27
 msgid "Very active developer community"
-msgstr ""
+msgstr "дуже активна спільнота розбників"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:28
 msgid "Independence from a single operating system"
-msgstr ""
+msgstr "відсутня залежність від одніє операційної системи"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:31
 msgid "Where do we use QGIS"
-msgstr ""
+msgstr "Де ми використовуємо QGIS"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:33
 msgid ""
@@ -106,11 +106,11 @@ msgid ""
 " called 'SO!DATA'. SO!DATA contains a human readable inventory of the data "
 "models and the non-GIS-Expert user is able to use this database to discover "
 "the information they need."
-msgstr ""
+msgstr "На відміну від інтерактивних карт, що обслуговуються UMN MapServer, настільна ГІС повинна забезпечувати гнучке відображення просторових даних Золотурну. QGIS використовується у повсякденній роботі більше ніж 50 користувачів. Вони хочуть відображати та/або обробляти просторові дані за допомогою інтіїтивно зрозумілого інтерфейсу. Одне з найважливіших питань під час роботи з настільною ГІС це: «Як я можу отримати необхідну інформацію з бази PostGIS?». Оскільки наші користувачі не знайомі з моделями даних та структурою нашої просторової бази, пряме підключення до бази даних PostGIS не вихід. У нас є спеціальна база метаданих SO!DATA, де зібрано інформацію про всі дані. SO!DATA містить зрозумілу людями інформацію про модель даних, і звичайні користувачі можуть використовувати цю базу для пошуку необхідної інформації."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:42
 msgid "\"SO!GIS Layer\" plugin developed at the Canton of Solothurn"
-msgstr ""
+msgstr "Плагін «SO!GIS Layer», розроблений у кантоні Золотурн"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:44
 msgid ""
@@ -122,11 +122,11 @@ msgid ""
 "find the data layers they need. With this infrastructure in place, our users"
 " are happy - they can prepare for geoprocessing, editing and map composing "
 "in an individual way."
-msgstr ""
+msgstr "Щоб позбавити кінцевих користувачів необхідності взаємодіяти з підключеннями PostGIS та діалогами вибору таблиць, було розроблено плагін на Python. Він називається «SO!GIS Layer» (див. малюнок 1). Плагін підключається до PostGIS-репозиторія SO!GIS, отримує з SO!DATA інформацію про всі опубліковані просторові дані та дозволяє користувачам за допомогою GUI знайти необхідні шари даних. Така інфраструктура повністю задовольнила потреби наших користувачів --- вони можуть виконувати геообробку, редагувати та готувати друковані карти в індивідуальному порядку."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:52
 msgid "\"SO!GIS Suche\" plugin developed at the Canton of Solothurn"
-msgstr ""
+msgstr "Плагін «SO!GIS Suche», розроблений кантоном Золотурн"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:54
 msgid ""
@@ -138,11 +138,11 @@ msgid ""
 "analysis or mapping for different projects. Our in-development plugins cover"
 " topics  such as nature reserves, soil conservation, cadastral data "
 "verification, crisis management, abandoned sites and so on."
-msgstr ""
+msgstr "Інший важливий плагін, який ми розробили, називається «SO!GIS Suche». Він дозволяє швидко знаходити різні об'єкти карти, наприклад, містечка, адреси або кадастрові ділянки (див. малюнок 2). В результаті користувачі можуть легко знаходити потрібні області. Також в розробці знаходиться багато інших плагінів. Вони будуть забезпечувати обробку даних, аналіз або картографування для різних проектів. Плагіни, які ми розробляємо, охоплюють такі теми як заповідники, збереження ґрунтів, перевірка кадастрових даних, кризове управління, покинуті території тощо."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:58
 msgid "Conclusion"
-msgstr ""
+msgstr "Підсумки"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:60
 msgid ""
@@ -158,19 +158,19 @@ msgid ""
 "support into the black box of our former software provider. Apart from using"
 " FOSSGIS, the Canton of Solothurn also provides public geodata free of "
 "charge via the SO!ONLINE web portal."
-msgstr ""
+msgstr "Сьогодні ми можемо сказати, що вибір QGIS був правильним рішенням для нас. QGIS реалізує більшість функцій, необхідних нашим користувачам. Кантон Золотурн укладає контракти з постачальниками комерційної підтримки на реалізацію можливостей, яких не вистачає у QGIS. Завдяки PyQGIS та PyQt дуже просто виконувати розробку власних інструментів на основі QGIS. Величезною перевагою є необмежена кількість інсталяцій. Кожний, кому потрібна QGIS, може встановити та використовувати її без обмежень. Кантон Золотурн щорічно інвестує приблизно $30000, починаючи з 2007 року. Це набагато ефективніше та дієвіше ніж оплата підтримки у чорну скриньку нашого попереднього постачальника програмного забезпечення. Крім використання FOSSGIS, кантон Золотурн також надає вільний доступ до просторових даних на порталі SO!ONLINE."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:63
 msgid "Author"
-msgstr ""
+msgstr "Автор"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:70
 msgid "Horst Düster"
-msgstr ""
+msgstr "Horst Düster"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:72
 msgid ""
 "This article was contributed in May 2009 by Dr. Horst Düster. He is GIS "
 "coordinator at the Department of Geoinformation in the Canton of Solothurn, "
 "Switzerland."
-msgstr ""
+msgstr "Dr. Horst Düster опублікував цю статтю у травні 2009 року. Він працює ГІС-координатором Департаменту геоінформатики кантону Золотурн, Швейцарія."
