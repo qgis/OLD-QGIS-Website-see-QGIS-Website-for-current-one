@@ -22,6 +22,7 @@
 * Amedeo Fadini
 * Amira El-shal
 * Anders Skoglund
+* Anders Stig-jørgensen
 * Andre Langenberg
 * Andrea Lau
 * Andrea Peri
