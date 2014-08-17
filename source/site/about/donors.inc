@@ -71,6 +71,7 @@
 * Chris Cowen
 * Chris Sanderson
 * Chris Talbot
+* Christian Holm
 * Christian Houle
 * Christian Schwartze
 * Christina Makarona
