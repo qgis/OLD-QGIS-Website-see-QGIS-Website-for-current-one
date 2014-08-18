@@ -59,6 +59,7 @@
 * Brian Kelly
 * Brian Tolley
 * Bryan Kennedy
+* Børge Odden
 * Carl Nelson
 * Carlo Oliverio
 * Carlos Tavares
