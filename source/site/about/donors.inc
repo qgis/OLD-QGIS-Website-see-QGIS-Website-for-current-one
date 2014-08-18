@@ -215,6 +215,7 @@
 * Jean Marc Michalowski
 * Jean Roc Morreale
 * Jean Sébastien Dehecq
+* Jeremy Wetterwald
 * Jesus Aguilera Rubio
 * Jesús Gómez Fernández
 * Jim Cory
