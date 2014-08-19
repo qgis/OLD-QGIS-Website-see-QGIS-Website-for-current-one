@@ -53,6 +53,7 @@
 * Bayard Ewing
 * Benoit David
 * Bernd Vogelgesang
+* Bill Howard
 * Birgit Konn
 * Bouchard Consulting Services
 * Boštjan Krapež
