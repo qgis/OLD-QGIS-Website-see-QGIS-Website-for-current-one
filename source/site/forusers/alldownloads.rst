@@ -96,8 +96,8 @@ If you want the GRASS plugin make sure to install the optional package::
 In case of keyserver errors add the qgis.org repository public key to
 your apt keyring, type::
 
- gpg --keyserver keyserver.ubuntu.com --recv 47765B75
- gpg --export --armor 47765B75 | sudo apt-key add -
+ gpg --keyserver keyserver.ubuntu.com --recv DD45F6C3
+ gpg --export --armor DD45F6C3 | sudo apt-key add -
 
 QGIS stable
 ...........
@@ -241,8 +241,8 @@ Unstable::
 To add the the http://qgis.org repository public key to your apt keyring,
 type::
 
- gpg --recv-key 47765B75
- gpg --export --armor 47765B75 | sudo apt-key add -
+ gpg --recv-key DD45F6C3
+ gpg --export --armor DD45F6C3 | sudo apt-key add -
 
 Then add the lines for one of the repositories to your
 ``/etc/apt/sources.list`` file (see below to choose the appropriate one) and
