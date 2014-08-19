@@ -110,7 +110,7 @@ QGIS stable
    packages for the current state of debian (see INSTALL_ or switch to the
    testing packages which are rebuild on regular basis.
 
-.. _INSTALL: http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html
+.. _INSTALL: http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html
 
 On plain Ubuntu:
 ^^^^^^^^^^^^^^^^

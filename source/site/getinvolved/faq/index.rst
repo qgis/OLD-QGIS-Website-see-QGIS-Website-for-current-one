@@ -70,4 +70,4 @@ Can I compile QGIS myself on Linux?
 
 Yes, please read: INSTALL_
 
-.. _INSTALL: http://htmlpreview.github.io/?http://github.com/qgis/QGIS/blob/master/doc/INSTALL.html
+.. _INSTALL: http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html
