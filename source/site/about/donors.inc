@@ -204,6 +204,7 @@
 * James Goetz
 * James Larsen
 * James Morrison
+* James Newsome
 * Jan Buijs
 * Jan Militzer
 * Jan-Willem Aalst
