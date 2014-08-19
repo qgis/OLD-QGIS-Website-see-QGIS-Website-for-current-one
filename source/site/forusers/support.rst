@@ -45,10 +45,6 @@ There is a #qgis channel on freenode.net
 
 You can also use a web interface: http://webchat.freenode.net/?channels=#qgis 
 
-TODO: write something about the IRC ethiquette?
-
-
-
 User Groups
 -----------
 

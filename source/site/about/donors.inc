@@ -53,12 +53,14 @@
 * Bayard Ewing
 * Benoit David
 * Bernd Vogelgesang
+* Bill Howard
 * Birgit Konn
 * Bouchard Consulting Services
 * Boštjan Krapež
 * Brian Kelly
 * Brian Tolley
 * Bryan Kennedy
+* Børge Odden
 * Carl Nelson
 * Carlo Oliverio
 * Carlos Tavares
@@ -202,6 +204,7 @@
 * James Goetz
 * James Larsen
 * James Morrison
+* James Newsome
 * Jan Buijs
 * Jan Militzer
 * Jan-Willem Aalst
@@ -215,6 +218,7 @@
 * Jean Marc Michalowski
 * Jean Roc Morreale
 * Jean Sébastien Dehecq
+* Jeremy Wetterwald
 * Jesus Aguilera Rubio
 * Jesús Gómez Fernández
 * Jim Cory
