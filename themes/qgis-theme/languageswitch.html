@@ -65,19 +65,7 @@
             gotoLang($(this).val());
         });
 
-        if (currentPage == "site/forusers/visualchangelog20.html"){
-            // http://changelog.linfiniti.com/qgis/version/200/atom
-            atom('/feeds/visualchangelog20.atom', $('#changelog-for-version-2-0-0 p'), 100, true);
-        }
-        else if (currentPage == "site/forusers/visualchangelog22.html"){
-            // http://changelog.linfiniti.com/qgis/version/21/atom
-            atom('/feeds/visualchangelog22.atom', $('#changelog-for-version-2-2-0 p'), 100, true);
-        }
-        else if (currentPage == "site/forusers/visualchangelog24.html"){
-            // http://changelog.linfiniti.com/qgis/version/2.4.0/atom
-            atom('/feeds/visualchangelog24.atom', $('#changelog-for-version-2-4-0 p'), 100, true);
-        }
-        else if (currentPage == "site/about/screenshots.html"){
+        if (currentPage == "site/about/screenshots.html"){
             atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
             atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
         }

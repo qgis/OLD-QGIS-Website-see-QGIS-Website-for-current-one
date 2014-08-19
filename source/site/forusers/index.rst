@@ -9,11 +9,11 @@ For Users
 .. toctree::
     :maxdepth: 4
 
-    visualchangelog20
-    visualchangelog22
-    visualchangelog24
+    visualchangelog200/QGIS-2.0.0
+    visualchangelog220/QGIS-2.2.0
+    visualchangelog240/QGIS-2.4.0
     download
-    documentation
+    ../../docs/index
     support
     commercial_support
     QGIS Plugins <http://plugins.qgis.org/plugins/>
