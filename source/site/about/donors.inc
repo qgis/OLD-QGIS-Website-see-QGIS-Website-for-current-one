@@ -184,6 +184,7 @@
 * Horst Machguth
 * Howard Frederick
 * Hrishikesh Ballal
+* Hubert Peer
 * Hugh Gladwin
 * Hugo Rubio
 * Håvard Gåseidnes
