@@ -290,6 +290,7 @@
 * M De Bresser
 * Maciej Latek
 * Maciej Sieczka
+* Maciej Strak
 * Mahko Blackburn
 * MAIN Trust NZ
 * Manfred Schön
