@@ -124,6 +124,7 @@
 * Eric Hamilton
 * Eric Thouvenin
 * Erik Haß
+* Erik Rorsch
 * Erwin Bauer
 * Evan Wolf
 * Evelyn Craigie
