@@ -350,6 +350,7 @@
 * Nikolaou Konstantinos
 * Norman Trowell
 * Ola Martin Krog
+* Oleg Smirnov
 * Oliver Schonrock
 * Oriental Rugs Online
 * Oronzo Antonio Longo
