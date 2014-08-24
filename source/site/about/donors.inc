@@ -295,6 +295,7 @@
 * Maciej Strak
 * Mahko Blackburn
 * MAIN Trust NZ
+* Manfred Knorr
 * Manfred Schön
 * Marc Monnerat
 * Marcel Van Dorst
