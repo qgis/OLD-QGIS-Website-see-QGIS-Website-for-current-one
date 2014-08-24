@@ -94,6 +94,7 @@
 * Dan Wilt
 * Daniel Silva Veras
 * Daniel Wiesmann
+* Daniele Samez
 * Dariusz Bobak
 * David Addy
 * David Duncan
