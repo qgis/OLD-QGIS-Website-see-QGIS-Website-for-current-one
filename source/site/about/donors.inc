@@ -276,6 +276,7 @@
 * Kristian Stadelmayr
 * Kurt Esko
 * Lasse Wikars
+* Laura Bryson
 * Laura Burnette
 * Laurent Bréton
 * Laurent Vidal
