@@ -148,6 +148,7 @@
 * Gabriela Casares
 * Gabriele Baccini
 * Gabriele Monfardini
+* Gary Rigozzi
 * Gasanov Gadzhi
 * Geoff Jones
 * Geoff Oxsen
