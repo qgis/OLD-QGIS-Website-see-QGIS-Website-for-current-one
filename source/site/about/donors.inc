@@ -396,6 +396,7 @@
 * Ricard Peret Vendrell
 * Riccardo Giaccari
 * Richard Duivenvoorde
+* Richard Kelaart
 * Rita Carone
 * Rob Scott
 * Robert Nuske
