@@ -294,6 +294,7 @@
 * Maciej Latek
 * Maciej Sieczka
 * Maciej Strak
+* Madeleine Kerr
 * Mahko Blackburn
 * MAIN Trust NZ
 * Manfred Knorr
