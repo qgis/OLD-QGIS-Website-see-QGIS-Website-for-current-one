@@ -174,6 +174,7 @@
 * Gregory J Crowder
 * Grigorijs Goldbergs
 * Guenther Moeller
+* Guillaume Léveillé
 * Guillaume Raspini
 * Guillermo Córdoba Recio
 * Guzmán López Orrego
