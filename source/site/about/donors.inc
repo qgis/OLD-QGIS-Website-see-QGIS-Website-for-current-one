@@ -107,6 +107,7 @@
 * Dc-3 Dreams, Sp
 * Deyan Vasilev
 * Dheeraj Chand
+* Diane Perez
 * Didier Genier
 * Dieter Wachsmuth
 * Dimap Sl Felipe Garcia
