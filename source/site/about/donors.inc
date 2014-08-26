@@ -143,6 +143,7 @@
 * FOSSGIS e.V.
 * Francis Harvey
 * François De Palma
+* Fred Emmer
 * Fred Ethève
 * Fred Watchorn
 * G R Owen
