@@ -411,6 +411,7 @@
 * Roberta Benetti
 * Roberto Berchi
 * Roberto Facoetti
+* Rolland Paillat
 * Ronaldo Auletta Jr
 * Rosário Dilo
 * Rui Pedro Henriques
