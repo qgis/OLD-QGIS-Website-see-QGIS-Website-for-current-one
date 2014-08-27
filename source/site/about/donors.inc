@@ -370,6 +370,7 @@
 * Otto Dassau
 * Pablo Torres Carreira
 * Paloma Lopez Lara
+* Paola Flamini
 * Paolo Cavallini
 * Paolo Corti
 * Paolo Livio Craveri
