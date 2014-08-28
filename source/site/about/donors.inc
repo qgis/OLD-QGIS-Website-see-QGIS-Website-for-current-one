@@ -146,6 +146,7 @@
 * Fred Emmer
 * Fred Ethève
 * Fred Watchorn
+* Frédéric Mony
 * G R Owen
 * Gabriela Casares
 * Gabriele Baccini
