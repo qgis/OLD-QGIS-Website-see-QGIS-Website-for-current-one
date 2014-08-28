@@ -432,6 +432,7 @@
 * Simone Circosta
 * Soma Horvath
 * Spencer Gardner
+* St. Sultans Trail International
 * Stefan Goen
 * Stefan Price
 * Stefan Sylla
