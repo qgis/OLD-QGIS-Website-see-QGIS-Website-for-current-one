@@ -340,6 +340,7 @@
 * Michael Joseph
 * Michael Layden
 * Michael Major
+* Michael Naughton
 * Michael Schweizer
 * Michał Czepkiewicz
 * Michele Beneventi
