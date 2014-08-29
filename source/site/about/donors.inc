@@ -479,6 +479,7 @@
 * Urban Modelling Solutions N A Matthew
 * Uros Bernik
 * Vincenzo Sale
+* Vitor Pereira
 * Vittorio Dell'Aquila
 * Wendelin Schmit
 * Werner Macho
