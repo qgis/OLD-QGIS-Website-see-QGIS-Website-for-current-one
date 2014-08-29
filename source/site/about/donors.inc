@@ -345,6 +345,7 @@
 * Miguel Iturralde
 * Mikhail Sivakov
 * Mikko Suonio
+* Mir Ornel Rodriguez Lombardo
 * Mohamed Al Merri
 * Mohamed Kamal
 * Moshe Dr. Shirav
