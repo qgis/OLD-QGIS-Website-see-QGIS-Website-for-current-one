@@ -174,6 +174,7 @@
 * Gregorio Díaz-Marta Mateos
 * Gregory J Crowder
 * Grigorijs Goldbergs
+* Guenter Foersterra
 * Guenther Moeller
 * Guillaume Léveillé
 * Guillaume Raspini
