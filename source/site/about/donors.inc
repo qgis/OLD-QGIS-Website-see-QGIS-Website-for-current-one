@@ -288,6 +288,7 @@
 * Laurent Vidal
 * Lawrence Lass
 * Leo Millonig
+* Leonidas Carrasco-letelier
 * Leslie Gordon
 * Lorenz Jenni
 * Lorenzo Becchi
