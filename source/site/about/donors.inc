@@ -243,6 +243,7 @@
 * Johannes Richthofen
 * John Bartram
 * John C. Tull
+* John Carey
 * John Dean
 * John Gooderham
 * John Mcguire
