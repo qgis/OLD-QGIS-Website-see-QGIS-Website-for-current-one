@@ -4,6 +4,7 @@
 * Adelchi Acampora
 * Adolfo Ballesteros
 * Adrian Cooke
+* Adrian Gayo Rodriguez
 * Adrian Matter
 * Agile Geoscience
 * Agustin Graterole
