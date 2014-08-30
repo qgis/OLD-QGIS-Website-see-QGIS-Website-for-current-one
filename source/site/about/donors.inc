@@ -6,6 +6,7 @@
 * Adrian Cooke
 * Adrian Matter
 * Agile Geoscience
+* Agustin Graterole
 * Aileen Heal
 * AivlaSoft GmbH
 * Alain Brunon
