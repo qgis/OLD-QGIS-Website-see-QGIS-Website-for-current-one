@@ -290,6 +290,7 @@
 * Laurent Bréton
 * Laurent Vidal
 * Lawrence Lass
+* Lee Wrenn
 * Leo Millonig
 * Leonidas Carrasco-letelier
 * Leslie Gordon
