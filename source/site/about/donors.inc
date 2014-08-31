@@ -143,6 +143,7 @@
 * Florian Hof
 * Fornat AG, Zürich
 * FOSSGIS e.V.
+* Francesco Cometa
 * Francis Harvey
 * François De Palma
 * Fred Emmer
