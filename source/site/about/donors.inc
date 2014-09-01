@@ -33,6 +33,7 @@
 * Andreas Ilias
 * Andreas Neumann
 * Andreas Schmid
+* Andres Iriso Calle
 * Andrew Chapman
 * Andrew Flatman
 * Andrew Mcaninch
@@ -150,6 +151,7 @@
 * Fred Ethève
 * Fred Watchorn
 * Frédéric Mony
+* Fundación Almanaque Azul
 * G R Owen
 * Gabriela Casares
 * Gabriele Baccini
@@ -352,7 +354,6 @@
 * Miguel Iturralde
 * Mikhail Sivakov
 * Mikko Suonio
-* Fundación Almanaque Azul
 * Mohamed Al Merri
 * Mohamed Kamal
 * Moshe Dr. Shirav
