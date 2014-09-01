@@ -138,6 +138,7 @@
 * Evelyn Craigie
 * Fabian Frucht
 * Fabio Giacomazzi
+* Fabio Peruzzi
 * Faira Insan Technology
 * Ferdinando Urbano
 * Ferenc Keresztessy
