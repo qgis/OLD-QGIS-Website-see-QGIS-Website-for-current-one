@@ -352,7 +352,7 @@
 * Miguel Iturralde
 * Mikhail Sivakov
 * Mikko Suonio
-* Mir Ornel Rodriguez Lombardo
+* Fundación Almanaque Azul
 * Mohamed Al Merri
 * Mohamed Kamal
 * Moshe Dr. Shirav
