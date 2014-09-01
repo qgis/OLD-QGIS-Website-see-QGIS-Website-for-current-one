@@ -3,6 +3,7 @@
 * Adam Lane
 * Adelchi Acampora
 * Adolfo Ballesteros
+* Adon Metcalfe
 * Adrian Cooke
 * Adrian Gayo Rodriguez
 * Adrian Matter
@@ -344,6 +345,7 @@
 * Michael Hintzke
 * Michael Hogarth
 * Michael Joseph
+* Michael Keller
 * Michael Layden
 * Michael Major
 * Michael Naughton
