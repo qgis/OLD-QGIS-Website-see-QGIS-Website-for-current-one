@@ -14,6 +14,7 @@
 * AivlaSoft GmbH
 * Alain Brunon
 * Albin Blaschka
+* Alejandro Ruete
 * Alejandro Zarate Lupercio
 * Alessandro Fanna
 * Alessandro Pasotti
