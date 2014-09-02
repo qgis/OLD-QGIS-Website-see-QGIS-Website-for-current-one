@@ -171,6 +171,7 @@
 * GFOSS.it
 * Gianluca Massei
 * Gildas Lilbert
+* Giovanna Bartoleschi
 * Giovanni Fossà
 * Giovanni Pecora
 * Giuseppe Patti
