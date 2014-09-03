@@ -2,14 +2,14 @@
 Using open source tools for characterization of a landscape. The LecosS plugin 
 ==============================================================================
 
-This case study results from the final draft of the Graduate Geographic Information Systems taught by GeoPoint. We proposed to study a landscape using Landscape Ecology plugin (LecoS)  in Qgis 2.01 Dufour. The study was conduted in a region of central Portugal, Municipality of Coimbra, with an total area of 31940ha and it has geographic coordinates 40°12'11 .84 "North, 8°24'37 .15" West. Because the new administrative reorganization this municipally are divided into 18 parishes, which are mostly urban areas (Figure 1).
+This case study results from the final draft of the Graduate Geographic Information Systems taught by GeoPoint. We proposed to study a landscape using Landscape Ecology plugin (LecoS)  in Qgis 2.01 Dufour. The study was conduted in a region of central Portugal, Municipality of Coimbra, with an total area of 31940ha and it has geographic coordinates 40°12'11 .84 "North, 8°24'37 .15" West. Because the new administrative reorganization this municipality are divided into 18 parishes, which are mostly urban areas (Figure 1).
 
 .. figure:: ./images/portugal_coimbra1.png
-   :alt: Geographic location of the municipally of Coimbra.
+   :alt: Geographic location of the municipality of Coimbra.
    :scale: 50%
    :align: left
       
-   Geographic location of the municipally of Coimbra.
+   Geographic location of the municipality of Coimbra.
 
 The characterization of a landscape is conducted using quantitative indices designed by landscape metrics. These indices are then used to describe the structural characteristics of landscape, to document the change and their relationship with the occurrence of several species or group of species (Turner et al, 2001;. Olsen et al, 2007;. Fidalgo et al. , 2009). The number of metrics is extremely large and can be calculated at the landscape level, class and stain (Turner et al, 2001;. Fidalgo et al, 2009.). Metrics can be calculated from the Corine Land Cover, Land use (COS 90 and COS2006) or maps of Land cover produced by us. According to Martin Jung (2012), the Landscape Ecology Stistics (Lecos) is a module of Qgis used to calculate landscape metrics in raster layers. The result can be available in CSV format.
 
