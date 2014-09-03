@@ -318,6 +318,7 @@
 * Madeleine Kerr
 * Mahko Blackburn
 * MAIN Trust NZ
+* Maja Bitenc
 * Manfred Knorr
 * Manfred Schön
 * Marc Monnerat
