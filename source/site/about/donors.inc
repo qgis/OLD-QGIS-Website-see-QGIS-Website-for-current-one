@@ -141,6 +141,7 @@
 * Fabio Giacomazzi
 * Fabio Peruzzi
 * Faira Insan Technology
+* Federico De Piccoli
 * Ferdinando Urbano
 * Ferenc Keresztessy
 * Fethi M'rad
