@@ -330,6 +330,7 @@
 * Marek Slowinski
 * Maria Antonia Brovelli
 * Maria Chiara Turrini
+* Maria Rita Celestini
 * Mario Martínez González
 * Mario Tarantola
 * Marius Fankhauser
