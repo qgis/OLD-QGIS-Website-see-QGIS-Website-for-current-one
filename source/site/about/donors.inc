@@ -342,6 +342,7 @@
 * Martin Kugler
 * Martin Langer
 * Martin Schneppmüller
+* Martine Marchand
 * Massimo Cuomo
 * Mateusz Loskot
 * Matt Foy
