@@ -212,6 +212,7 @@
 * Ian Allan
 * Ian Wusstig
 * Igor Zabelin
+* Imre Kugler
 * Interlink Web Works
 * Isabelle Didierjean
 * Ivan Marchesini
