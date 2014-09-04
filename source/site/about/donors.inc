@@ -333,6 +333,7 @@
 * Maria Rita Celestini
 * Mario Martínez González
 * Mario Tarantola
+* Mario Tovo
 * Marius Fankhauser
 * Mark Douglas
 * Mark Hoschek
