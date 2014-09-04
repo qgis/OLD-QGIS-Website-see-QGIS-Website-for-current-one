@@ -58,6 +58,7 @@
 * Barascu Tudor
 * Barry Dyer
 * Bayard Ewing
+* Ben Visser
 * Benoit David
 * Bernd Vogelgesang
 * Bill Howard
