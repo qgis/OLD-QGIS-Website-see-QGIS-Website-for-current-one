@@ -44,6 +44,7 @@
 * Andrew Smith
 * Andrey Kuvshinov
 * André Barriguinha
+* Angel Muñoz
 * Anthony Van Zuylen
 * Antimo Battistoni
 * Antonio Vitulano
