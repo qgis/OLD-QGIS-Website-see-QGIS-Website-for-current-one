@@ -141,6 +141,7 @@
 * Evelyn Craigie
 * Fabian Frucht
 * Fabio Giacomazzi
+* Fabio Meletti De Oliveira Barros
 * Fabio Peruzzi
 * Faira Insan Technology
 * Federico De Piccoli
