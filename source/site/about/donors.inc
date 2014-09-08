@@ -50,6 +50,7 @@
 * Antonio Vitulano
 * Aris Dimopoulos
 * Arni Geirsson
+* Arsin Gruenig
 * Associazione Monte Porzio Cultura
 * Athanasios Karathanasis
 * Attila Toth
