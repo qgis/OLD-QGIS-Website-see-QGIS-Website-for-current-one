@@ -460,6 +460,7 @@
 * Sergey Khokhlov
 * Shapesmart
 * Silvio Grosso
+* Simone Bianchi
 * Simone Circosta
 * Soma Horvath
 * Spencer Gardner
