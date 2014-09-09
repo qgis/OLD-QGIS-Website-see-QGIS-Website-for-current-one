@@ -470,6 +470,7 @@
 * Stefan Goen
 * Stefan Price
 * Stefan Sylla
+* Stefan Widmer
 * Stefan Ziegler
 * Stefano Menegon
 * Steffen Götze
