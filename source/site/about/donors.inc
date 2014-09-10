@@ -433,6 +433,7 @@
 * Ramon Andinach
 * Ravi
 * Raymond Warriner
+* Rebecca Eivers
 * Reiko Hayashi
 * Ricard Peret Vendrell
 * Riccardo Giaccari
