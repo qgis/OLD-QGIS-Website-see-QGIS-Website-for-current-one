@@ -107,6 +107,7 @@
 * Daniele Samez
 * Dariusz Bobak
 * David Addy
+* David Dettrick
 * David Duncan
 * David Enns
 * David Horsey
