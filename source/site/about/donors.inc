@@ -519,6 +519,7 @@
 * Vincenzo Sale
 * Vitor Pereira
 * Vittorio Dell'Aquila
+* Walter Hesse
 * Wendelin Schmit
 * Werner Macho
 * William Levering
