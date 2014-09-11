@@ -132,10 +132,8 @@ Precise::
 Via ubuntugis:
 ^^^^^^^^^^^^^^
 
-The ubuntugis project provides newer versions of various FOSSGIS packages,
+The ubuntugis_ project provides newer versions of various FOSSGIS packages,
 QGIS being one of them.
-
-Current packages available for precise and saucy.
 
 If you want to use those packages, remove the http://qgis.org/debian lines
 from your sources.list and upgrade updated dependencies by typing::
@@ -144,6 +142,8 @@ from your sources.list and upgrade updated dependencies by typing::
  sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
  sudo apt-get update
  sudo apt-get install qgis python-qgis qgis-plugin-grass
+
+.. _ubuntugis: https://launchpad.net/~ubuntugis/+archive/ubuntu/ubuntugis-unstable
 
 .. _QGIS-ubuntu-testing:
 
