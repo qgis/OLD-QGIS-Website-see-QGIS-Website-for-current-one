@@ -462,6 +462,7 @@
 * Sake Wagenaar
 * Sander Huizing
 * Sascha Langenstein
+* Sebastiaan Van De Bunt
 * Sebastian Badowski
 * Sebastian Cionoiu
 * Sergey Khokhlov
