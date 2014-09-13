@@ -88,6 +88,7 @@
 * Christian Houle
 * Christian Schwartze
 * Christina Makarona
+* Christine Henry
 * Christoph Rinne
 * Christoph Rupprecht
 * Christopher Kahler
