@@ -91,6 +91,7 @@
 * Christoph Rinne
 * Christoph Rupprecht
 * Christopher Kahler
+* Christopher Thorpe-dixon
 * Christos Mitsis
 * Clifford Snow
 * Cmi Dr. Daniela Ersch
