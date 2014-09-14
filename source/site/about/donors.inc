@@ -203,6 +203,7 @@
 * Gérald Fringeli
 * Hans Rudolf Wettstein
 * Harald Grote
+* Hebenor Bermudez Banchero
 * Heiko Schmüser
 * Heinrich Schweizer
 * Henry Colomb
