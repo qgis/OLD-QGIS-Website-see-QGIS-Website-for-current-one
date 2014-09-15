@@ -132,6 +132,7 @@
 * Douglas Lane
 * Dušan Pavlík
 * Dwayne Chesnut
+* E R Plus
 * Ecotrust
 * Els Keunen
 * Emanuele Zamprogno
