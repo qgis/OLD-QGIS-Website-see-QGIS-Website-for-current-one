@@ -51,7 +51,7 @@
 * Aris Dimopoulos
 * Arni Geirsson
 * Arsin Gruenig
-* Ashworth Ashworth@yahoo.com
+* Ashworth
 * Associazione Monte Porzio Cultura
 * Athanasios Karathanasis
 * Attila Toth
