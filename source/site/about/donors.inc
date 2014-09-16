@@ -538,4 +538,5 @@
 * Yuan Harng Lee
 * Yves Jacolin
 * Zachary Patterson
+* Ângela Seixas
 * ç°ä¸­ åµå¹³
