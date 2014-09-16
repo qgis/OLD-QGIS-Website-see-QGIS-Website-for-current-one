@@ -405,6 +405,7 @@
 * Oleg Smirnov
 * Oliver Schonrock
 * Oriental Rugs Online
+* Orlado Monteiro Freitas
 * Oronzo Antonio Longo
 * Oscar González Martínez
 * Osvaldo Mascetti
