@@ -298,6 +298,7 @@
 * Katie Peek
 * Kazantsev Nikolay
 * Kenton Ngo
+* Kevin Barry
 * Kevin Hansen
 * Kevin Johnson
 * Kevin Shackleton
