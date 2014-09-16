@@ -215,6 +215,7 @@
 * Horst Machguth
 * Howard Frederick
 * Hrishikesh Ballal
+* Hualiu Yang
 * Hubert Peer
 * Hugh Gladwin
 * Hugo Rubio
