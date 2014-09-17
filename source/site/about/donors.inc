@@ -219,6 +219,7 @@
 * Hubert Peer
 * Hugh Gladwin
 * Hugo Rubio
+* Hugo Sørensen
 * Håvard Gåseidnes
 * Ian Allan
 * Ian Wusstig
