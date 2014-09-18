@@ -70,6 +70,7 @@
 * Boštjan Krapež
 * Brian Kelly
 * Brian Tolley
+* Bruce Clemens
 * Bryan Kennedy
 * Børge Odden
 * Carl Nelson
