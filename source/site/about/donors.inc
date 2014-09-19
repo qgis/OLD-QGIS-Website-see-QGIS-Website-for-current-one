@@ -375,6 +375,7 @@
 * Michael Corcoran
 * Michael Hintzke
 * Michael Hogarth
+* Michael Howard
 * Michael Joseph
 * Michael Keller
 * Michael Layden
