@@ -73,6 +73,7 @@
 * Brian Kelly
 * Brian Tolley
 * Bruce Clemens
+* Bruce Price
 * Bryan Kennedy
 * Børge Odden
 * Carl Nelson
