@@ -28,6 +28,7 @@
 * Alvin Laurio
 * Amedeo Fadini
 * Amira El-shal
+* Ana Carolina Coca Acosta
 * Anders Skoglund
 * Anders Stig-jørgensen
 * Andre Langenberg
