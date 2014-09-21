@@ -166,6 +166,7 @@
 * FOSSGIS e.V.
 * Francesco Cometa
 * Francis Harvey
+* Franko Sokolic
 * François De Palma
 * Fred Emmer
 * Fred Ethève
