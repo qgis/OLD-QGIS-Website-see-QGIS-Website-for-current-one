@@ -544,6 +544,7 @@
 * Vitor Pereira
 * Vittorio Dell'Aquila
 * Walter Hesse
+* Wayne Bulmer
 * Wendelin Schmit
 * Werner Macho
 * William Levering
