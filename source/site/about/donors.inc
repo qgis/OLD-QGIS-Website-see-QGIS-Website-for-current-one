@@ -49,6 +49,7 @@
 * Angel Muñoz
 * Anthony Van Zuylen
 * Antimo Battistoni
+* Antonio Baisi
 * Antonio Vitulano
 * Aris Dimopoulos
 * Arni Geirsson
