@@ -186,6 +186,7 @@
 * George Smith
 * George Tom
 * Gerald Bond
+* Gerald Griesebner
 * Gerhard Spieles
 * Gertjan Geerling
 * GFOSS.it
