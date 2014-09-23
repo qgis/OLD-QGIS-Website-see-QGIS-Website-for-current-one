@@ -466,6 +466,7 @@
 * Riccardo Giaccari
 * Richard Duivenvoorde
 * Richard Kelaart
+* Richard Reese
 * Rita Carone
 * Rob Scott
 * Robert Nuske
