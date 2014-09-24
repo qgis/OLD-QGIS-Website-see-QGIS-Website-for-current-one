@@ -83,6 +83,7 @@
 * Carsten Fink
 * Carsten Rymon-lipinski
 * Casper Peter Szilas
+* Charlton Coles
 * Chartwell Consultants Ltd
 * Chase Sherret
 * Cheryle Shepstone
