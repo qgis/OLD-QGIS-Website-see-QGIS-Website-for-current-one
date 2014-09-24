@@ -525,6 +525,7 @@
 * THEBFL
 * Thibaut Goelff
 * Thierry Gonon
+* Thinus Glitz
 * Thomas Blake
 * Thomas Dunz
 * Thomas Engleder
