@@ -266,6 +266,7 @@
 * Jean Sébastien Dehecq
 * Jeremy Wetterwald
 * Jesus Aguilera Rubio
+* Jesus Jurado Estevez
 * Jesús Gómez Fernández
 * Jim Cory
 * Jim Litts
