@@ -233,6 +233,7 @@
 * Hugo Sørensen
 * Håvard Gåseidnes
 * Ian Allan
+* Ian H Townend
 * Ian Wusstig
 * Igor Zabelin
 * Imre Kugler
