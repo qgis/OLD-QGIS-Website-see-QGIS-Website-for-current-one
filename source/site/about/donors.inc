@@ -485,6 +485,7 @@
 * Rubén Darío Godoy
 * Rui Pedro Henriques
 * Russel Taylor
+* Russell Plume
 * Russell Rew
 * S A Odell
 * S M Johnson
