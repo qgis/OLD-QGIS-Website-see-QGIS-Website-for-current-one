@@ -65,6 +65,7 @@
 * Barry Dyer
 * Bayard Ewing
 * Ben Visser
+* Benedict Alexander
 * Benoit David
 * Bernd Vogelgesang
 * Bill Howard
