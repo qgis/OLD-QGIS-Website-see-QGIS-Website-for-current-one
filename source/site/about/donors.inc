@@ -62,6 +62,7 @@
 * Aurelien Berings
 * Aurélia Lachaud
 * Barascu Tudor
+* Barbara M Keating
 * Barry Dyer
 * Bayard Ewing
 * Ben Visser
