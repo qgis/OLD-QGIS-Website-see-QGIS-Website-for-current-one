@@ -137,6 +137,7 @@
 * Dirk Pflugmacher
 * Dominique Pitt
 * Don Williams
+* Dorothea Hackman
 * Doswald Cornel
 * Douglas Hamilton
 * Douglas Lane
