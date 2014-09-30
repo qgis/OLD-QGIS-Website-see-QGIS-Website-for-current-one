@@ -82,6 +82,7 @@
 * Carl Nelson
 * Carlo Oliverio
 * Carlos Tavares
+* Carmine D'adamo
 * Carsten Fink
 * Carsten Rymon-lipinski
 * Casper Peter Szilas
