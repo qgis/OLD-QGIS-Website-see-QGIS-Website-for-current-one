@@ -340,6 +340,7 @@
 * Leonidas Carrasco-letelier
 * Leslie Gordon
 * Lorenz Jenni
+* Lorenzo Bambi
 * Lorenzo Becchi
 * Loris Duclos
 * Luca Casagrande
