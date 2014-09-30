@@ -399,6 +399,7 @@
 * Michael Layden
 * Michael Major
 * Michael Naughton
+* Michael O'connell
 * Michael Schweizer
 * Michał Czepkiewicz
 * Michele Beneventi
