@@ -514,6 +514,7 @@
 * Soma Horvath
 * Spencer Gardner
 * St. Sultans Trail International
+* Stefan Eberlein
 * Stefan Goen
 * Stefan Price
 * Stefan Sylla
