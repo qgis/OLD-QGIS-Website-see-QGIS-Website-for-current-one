@@ -207,6 +207,12 @@ Precise::
 Debian
 ------
 
+To add the public key for any of the http://qgis.org debian repositories below, type::
+
+ gpg --recv-key DD45F6C3
+ gpg --export --armor DD45F6C3 | sudo apt-key add -
+
+
 QGIS stable
 ...........
 
@@ -237,14 +243,7 @@ Unstable::
  deb-src http://qgis.org/debian sid main
 
 
-
-To add the the http://qgis.org repository public key to your apt keyring,
-type::
-
- gpg --recv-key DD45F6C3
- gpg --export --armor DD45F6C3 | sudo apt-key add -
-
-Then add the lines for one of the repositories to your
+Add the lines for one of the repositories to your
 ``/etc/apt/sources.list`` file (see below to choose the appropriate one) and
 type::
 
