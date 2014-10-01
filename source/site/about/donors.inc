@@ -315,6 +315,7 @@
 * Kamil Svoboda
 * Kanton Solothurn SOGIS
 * Karen Owen
+* Karim Sadr
 * Katie Peek
 * Kazantsev Nikolay
 * Kelly Proctor
