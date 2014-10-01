@@ -534,6 +534,7 @@
 * Steve Weeks
 * Steven Feldman
 * Sti Sas Di Meo
+* Stig Malmose
 * Swampthing Environmental Inc.
 * Sébastien Gombault
 * Tanya Haddad
