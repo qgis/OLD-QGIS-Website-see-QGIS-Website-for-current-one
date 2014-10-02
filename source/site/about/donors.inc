@@ -47,6 +47,7 @@
 * Andrey Kuvshinov
 * André Barriguinha
 * Angel Muñoz
+* Anna Lazzarini
 * Anthony Van Zuylen
 * Antimo Battistoni
 * Antonio Baisi
