@@ -584,6 +584,7 @@
 * Wolfgang Dennhöfer
 * Wolfgang Stoessel
 * Yuan Harng Lee
+* Yven Dickhörner
 * Yves Jacolin
 * Zachary Patterson
 * Ângela Seixas
