@@ -5,8 +5,15 @@
         <div class="row-fluid">
             <div class="offset1 span5">
                 <h2>{{ _('Get involved with the QGIS community') }}</h2>
-                <p>{{ _('QGIS is developed by a team of dedicated
-                    volunteers and organisations.') }}</p>
+                <p>{{ _('QGIS is developed by a team of dedicated volunteers and 
+                organisations. QGIS strives to be a welcoming community for 
+                people of all race, creed, gender and walks of life. 
+                Please read our ') }}
+                <a href="{{ pathto('site/getinvolved/governance/codeofconduct/diversitystatement') }}">{{ _('diversity statement') }}</a>
+                {{ _('and') }}
+                <a href="{{ pathto('site/getinvolved/governance/codeofconduct/codeofconduct') }}">{{ _('code of conduct') }}</a>.
+                </p>
+
                 <p><strong>{{ _('You can get involved!') }}</strong></p>
 
             </div>
