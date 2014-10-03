@@ -14,6 +14,7 @@ For Users
     visualchangelog240/index
     download
     ../../docs/index
+    trainingmaterial/index
     support
     commercial_support
     QGIS Plugins <http://plugins.qgis.org/plugins/>
