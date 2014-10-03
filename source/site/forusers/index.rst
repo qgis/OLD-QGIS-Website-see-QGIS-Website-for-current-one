@@ -9,9 +9,9 @@ For Users
 .. toctree::
     :maxdepth: 4
 
-    visualchangelog200/QGIS-2.0.0
-    visualchangelog220/QGIS-2.2.0
-    visualchangelog240/QGIS-2.4.0
+    visualchangelog200/index
+    visualchangelog220/index
+    visualchangelog240/index
     download
     ../../docs/index
     support
