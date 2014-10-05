@@ -6,7 +6,7 @@ QGIS Trademark
 More info
 ----------
 
-The QGIS name and logo are now protected under European law from unauthorized and confusing uses of the trademark [https://oami.europa.eu/eSearch/#details/trademarks/012702643]. We can authorize proper uses of the mark upon request. Please write to our Financial and Marketing Advisor (cavallini@faunalia.it).
+The QGIS name and logo are now protected under European law from unauthorized and confusing uses of the trademark [https://oami.europa.eu/eSearch/#details/trademarks/012702643]. We can authorize proper uses of the mark upon request. Please write to our Financial and Marketing Advisor (trademark@qgis.org).
 
 In cases of fair use, members of the public may use or refer to a registered trademark without a license from the owner.
 
@@ -24,12 +24,12 @@ A sublicence is not a formal endorsement of QGIS project and doesn't mean anythi
 
 **If in Doubt, Find Out**
 
-Many questions are answered in the FAQ. If you are unable to locate an answer to your question, please contact our Financial and Marketing Advisor (cavallini@faunalia.it).
+Many questions are answered in the FAQ. If you are unable to locate an answer to your question, please contact our Financial and Marketing Advisor (trademark@qgis.org).
 
 Report abuse
 ----------------
   
-If you know of people, organizations or companies using the QGIS name or logo as part of a trademark without a sublicense, or if you see references to QGIS without the proper attributions, please feel free to let them know about our trademark. We would appreciate if you could notify us through a mail to our Financial and Marketing Advisor (cavallini@faunalia.it).
+If you know of people, organizations or companies using the QGIS name or logo as part of a trademark without a sublicense, or if you see references to QGIS without the proper attributions, please feel free to let them know about our trademark. We would appreciate if you could notify us through a mail to our Financial and Marketing Advisor (trademark@qgis.org).
 
 Frequently Asked Questions 
 -----------------------------
