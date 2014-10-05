@@ -26,6 +26,7 @@
 * Alexandre Xavier
 * Alicus Viorel
 * Alvin Laurio
+* Amandine Poncin
 * Amedeo Fadini
 * Amira El-shal
 * Ana Carolina Coca Acosta
