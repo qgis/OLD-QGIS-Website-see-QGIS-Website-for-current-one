@@ -452,7 +452,7 @@ QGIS stable
 To compile QGIS from binary packages type
 ::
 
- pkg_add -r qgis
+ pkg install qgis
 
 QGIS testing
 ------------
