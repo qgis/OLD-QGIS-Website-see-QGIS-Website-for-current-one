@@ -151,6 +151,7 @@
 * Ecotrust
 * Els Keunen
 * Emanuele Zamprogno
+* Emilie Lefevre
 * Enrico Antonio Chiaradia
 * Eric Dick
 * Eric Hamilton
