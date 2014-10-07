@@ -83,6 +83,7 @@
 * Bruce Price
 * Bryan Kennedy
 * Børge Odden
+* Calogero Pizzo
 * Carl Nelson
 * Carlo Oliverio
 * Carlos Tavares
