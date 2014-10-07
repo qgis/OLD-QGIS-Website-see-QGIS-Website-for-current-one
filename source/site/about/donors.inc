@@ -74,6 +74,7 @@
 * Bernd Vogelgesang
 * Bill Howard
 * Birgit Konn
+* Boris Figueroa Henriquez
 * Bouchard Consulting Services
 * Boštjan Krapež
 * Brian Kelly
