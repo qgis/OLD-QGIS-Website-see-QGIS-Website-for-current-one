@@ -463,6 +463,7 @@
 * Paolo Corti
 * Paolo Livio Craveri
 * Paolo Piatti
+* Patrice Morgallet
 * Patryk Wójtowicz
 * Paul Hignett
 * Paul Pitman
