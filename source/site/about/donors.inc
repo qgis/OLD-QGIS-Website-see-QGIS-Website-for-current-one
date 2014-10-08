@@ -35,6 +35,7 @@
 * Andre Langenberg
 * Andrea Lau
 * Andrea Peri
+* Andreas Douvalis
 * Andreas Fuchs
 * Andreas Ilias
 * Andreas Neumann
