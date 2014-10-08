@@ -349,6 +349,7 @@
 * Laurent Vidal
 * Lawrence Lass
 * Lee Wrenn
+* Leigh Mellor
 * Leo Millonig
 * Leonidas Carrasco-letelier
 * Leslie Gordon
