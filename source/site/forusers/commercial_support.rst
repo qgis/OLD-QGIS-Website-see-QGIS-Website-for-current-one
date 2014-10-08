@@ -54,11 +54,14 @@ and other FOSS applications.
 
 ----
 
-.. |linfin| image:: /static/site/about/images/linfin.jpg
+.. |kartoza| image:: /static/site/about/images/kartoza.png
    :width: 200 px
 
-|linfin| `Linfiniti Consulting <http://linfiniti.com/>`_ (based in Swellendam,
-South Africa), we provide commercial support and training for QGIS and GRASS.
+|kartoza| `Kartoza (Pty) Ltd. <http://kartoza.com>`_ (with offices in Swellendam and Paarl 
+in the Western Cape Provice of South Africa). We provide commercial support and training for 
+QGIS Desktop and Server and carry out feature development for QGIS on a contract basis. 
+We also develop plugins in Python and C++ for QGIS. **Note:** Kartoza was formerly known as
+Linfiniti Consulting.
 
 ----
 
