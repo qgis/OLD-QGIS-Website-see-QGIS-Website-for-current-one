@@ -353,6 +353,7 @@
 * Leo Millonig
 * Leonidas Carrasco-letelier
 * Leslie Gordon
+* Lorefolk, Llc
 * Lorenz Jenni
 * Lorenzo Bambi
 * Lorenzo Becchi
