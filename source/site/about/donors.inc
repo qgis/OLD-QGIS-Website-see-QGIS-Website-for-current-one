@@ -337,6 +337,7 @@
 * Kevin Shackleton
 * Kevin Shook
 * Kirill Sobolev
+* Klaus Buecherl
 * Klaus Sterzenbach
 * Klaus Weddeling
 * Kristian Stadelmayr
