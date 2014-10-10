@@ -140,6 +140,7 @@
 * Deyan Vasilev
 * Dheeraj Chand
 * Diane Perez
+* Dianne Hoy
 * Didier Genier
 * Dieter Wachsmuth
 * Dimap Sl Felipe Garcia
