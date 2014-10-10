@@ -153,6 +153,7 @@
 * Dwayne Chesnut
 * E R Plus
 * Ecotrust
+* Elogika Di Fanna Alessandro
 * Els Keunen
 * Emanuele Zamprogno
 * Emilie Lefevre
