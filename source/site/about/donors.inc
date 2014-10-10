@@ -179,6 +179,7 @@
 * Florian Hof
 * Fornat AG, Zürich
 * FOSSGIS e.V.
+* Francesco Campagnari
 * Francesco Cometa
 * Francis Harvey
 * Franko Sokolic
