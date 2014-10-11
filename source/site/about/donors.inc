@@ -362,6 +362,7 @@
 * Lorenz Jenni
 * Lorenzo Bambi
 * Lorenzo Becchi
+* Lorenzo Luisi
 * Loris Duclos
 * Luca Casagrande
 * Luca Manganelli
