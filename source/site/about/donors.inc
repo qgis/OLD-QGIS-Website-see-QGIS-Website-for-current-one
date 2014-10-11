@@ -33,6 +33,7 @@
 * Anders Skoglund
 * Anders Stig-jørgensen
 * Andre Langenberg
+* Andrea Garelli
 * Andrea Lau
 * Andrea Peri
 * Andreas Douvalis
