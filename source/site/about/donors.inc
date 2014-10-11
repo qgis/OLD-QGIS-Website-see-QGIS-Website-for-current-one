@@ -517,6 +517,7 @@
 * Roberto Berchi
 * Roberto Facoetti
 * Robin Watson
+* Roel Van De Wetering
 * Rolland Paillat
 * Ronaldo Auletta Jr
 * Ross Mcdonald
