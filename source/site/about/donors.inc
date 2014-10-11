@@ -69,6 +69,7 @@
 * Barascu Tudor
 * Barbara M Keating
 * Barry Dyer
+* Barry Tennison
 * Bayard Ewing
 * Ben Visser
 * Benedict Alexander
