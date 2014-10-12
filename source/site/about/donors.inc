@@ -572,6 +572,7 @@
 * Sébastien Gombault
 * Tanya Haddad
 * Test Gurus
+* Thaddäus Schneider
 * Thanasis Karathanasis
 * THEBFL
 * Thibaut Goelff
