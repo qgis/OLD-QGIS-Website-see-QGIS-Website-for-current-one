@@ -127,6 +127,7 @@
 * Dan Wilt
 * Daniel Silva Veras
 * Daniel Wiesmann
+* Daniele Alami
 * Daniele Samez
 * Dariusz Bobak
 * David Addy
