@@ -233,6 +233,7 @@
 * Gérald Fringeli
 * Hans Rudolf Wettstein
 * Harald Grote
+* Havard Gaseidnes
 * Hebenor Bermudez Banchero
 * Heiko Schmüser
 * Heinrich Schweizer
