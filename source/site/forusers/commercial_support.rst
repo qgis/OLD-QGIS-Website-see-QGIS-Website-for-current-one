@@ -54,6 +54,17 @@ and other FOSS applications.
 
 ----
 
+.. |itopen| image:: /static/site/about/images/itopen.png
+   :width: 200 px
+
+|itopen| `It Open <http://www.itopen.it/>`_ (based in Italy) provides commercial support
+and C++/Python development services for QGIS Desktop and Server, PostGIS, Django and other free 
+and open source software packages for both the web and the server side.
+
+
+
+----
+
 .. |kartoza| image:: /static/site/about/images/kartoza.png
    :width: 200 px
 
@@ -152,14 +163,6 @@ expertise.
 leading Open Source GIS company in Korea. Gaia3D offers professional development
 services, training, consulting and supports for QGIS, PostGIS, GeoServer and
 OpenLayers
-
-----
-
-.. |itopen| image:: /static/site/about/images/itopen.png
-   :width: 150 px
-
-|itopen| `IT Open <http://www.itopen.it/>`_ (based in Luserna san Giovanni (TO)
-Italy) provides IT Solutions for free companies.
 
 ----
 
