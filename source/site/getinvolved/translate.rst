@@ -42,7 +42,7 @@ qgis-tr@lists.osgeo.org asking for help.
 We strongly encourage anyone dealing with translations to join this list and
 promise that it is usually a very low traffic mailing list.
 
-The other available mailingslist can be found at :ref:`QGIS-mailinglists`.
+The other available mailing list can be found at :ref:`QGIS-mailinglists`.
 
 Becoming a translator
 .....................
@@ -57,12 +57,12 @@ so any contribution you have to make will be greatly appreciated.
 
 If you would like to nominate yourself as a coordinator for a new language
 please go ahead.
-If more than one person nominates themselves as coordinator for the same
+If more than one person nominate themselves as coordinator for the same
 language, please contact each other and resolve how you will manage your
 efforts.
 
 Please :ref:`contact <community-resources>` the Community Assistant or the GUI
-translation team leader to see you name entered in the about Box of QGIS.
+translation team leader to see you name entered in the About Box of QGIS.
 
 Helping with an existing translation
 ....................................
@@ -77,8 +77,8 @@ To start QGIS with the appropriate localization, run qgis with the option
 
 .. _howto-translate-gui:
 
-HOWTO translate GUI
-...................
+HOWTO translate
+...............
 
 There are different "levels" for you in the way you'd like to contribute.
 Following steps are necessary to help translating QGIS user interface.
