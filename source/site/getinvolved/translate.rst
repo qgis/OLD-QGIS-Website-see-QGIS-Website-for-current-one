@@ -99,8 +99,8 @@ translations; the desktop application itself (or GUI), the documentation and
 the web site. So the first thing you need is an account to login and get
 started.
 
-Get a Transifex account
-^^^^^^^^^^^^^^^^^^^^^^^
+Get an account
+^^^^^^^^^^^^^^
 
 - Go to www.transifex.com and create a new account
 - Verify your account by the link in the email you will receive
@@ -111,51 +111,21 @@ Get a Transifex account
 Some QGIS organisations are listed now, among them are QGIS Desktop, Website and
 Documentation.
 
+- Choose in which part of the project you would like to participate
+- You can be part of all projects and help everywhere too
+- If the language of your choice is listed, click it and request to Join the team.
+- If your language is not listed yet, click “Request language” and choose your
+language. Keep in mind that translating the entire Desktop Application will take
+days of work, if not weeks!
 
+Now you will need to wait for the maintainers to process your request. You will be
+notified by email when your request has been accepted.
 
+Note on new languages
+^^^^^^^^^^^^^^^^^^^^^
 
+With requesting a new language please bear in mind that we try to make it as simple
+as possible. Just ask for the language you want to translate (regardless in which
+country you reside). Only if there are notable differences in the languages (for
+example portuguese in Portugal in Brazil) we will create its own version.
 
-
-
-For now it is recommended to use Qt-Linguist for working on the translatable
-file.
-You can download and install that program (depending on your operating
-system) from:
-
-http://qt-apps.org/content/show.php/Qt+Linguist+Download?content=89360
-
-For the different Linux distributions you should find a package called
-"qt4-dev-tools" or similar.
-
-You can create the compiled translation file out of your translation with
-Linguist by going to :menuselection:`File -> Release (As)` in the Linguist
-menu and save it as a .qm version of the translation.
-Afterwards you only have to copy this .qm file to the correct folder within
-your QGIS installation to see your translation in action.
-
-Once you finished the translation you can send the .ts file to the
-:ref:`current translations team leader <governance>` to have it committed to
-the source code repository.
-At this place we'd like to encourage you to follow the "release often"
-principe of open source.
-
-An advanced level of helping with the translations would be to checkout the
-source code and create pull requests for the language file on github.
-
-Working with github and checking out the source code is explained in the
-:ref:`Developer Section <reference-missing>`.
-
-Documentation
--------------
-
-Description of how you can contribute in the translation of the Documentation
-are available in the README.md file which gets displayed on
-https://github.com/qgis/QGIS-Documentation
-
-
-Website
--------
-
-Description of how you can contribute in the translation of the Webpage are
-available in the README.md file which gets displayed on
-https://github.com/qgis/QGIS-Website
