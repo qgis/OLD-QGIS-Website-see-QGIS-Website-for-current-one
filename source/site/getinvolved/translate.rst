@@ -80,25 +80,42 @@ To start QGIS with the appropriate localization, run qgis with the option
 HOWTO translate
 ...............
 
-There are different "levels" for you in the way you'd like to contribute.
-Following steps are necessary to help translating QGIS user interface.
+The QGIS interface is natively programmed in English. However, it is designed
+to be translated into any language quite easily. At this moment over fifty
+other languages are already available (though not all well maintained).
 
-Get the translatable file
-^^^^^^^^^^^^^^^^^^^^^^^^^
+All available languages are listed in the QGIS About dialog. It also shows
+how much of it has been translated yet. The entire interface contains over
+ten thousand pieces of text and a complete translation will take days if not
+weeks to be finished. Besides that, the rapid development of the application
+continuously causes new and edited texts to be translated. A huge effort and
+your help will be appreciated!
 
-Usually it is enough to download the .ts file from the
-`github repository <https://github.com/qgis/Quantum-GIS/tree/master/i18n/>`_
-Look for your language code which is added at the end of the files: qgis_*
-.ts, where * is your language code.
-For example the translation file for german language is called qgis_de.ts.
-To further specify the language it is sometimes necessary to have two
-language codes defined but we'd like to avoid this as much as we can.
+Transifex
+^^^^^^^^^
 
-If you click on your language a RAW Button will appear on the top right
-corner of that window where you can download your language file.
+The web-based translating platform Transifex is used for all QGIS
+translations; the desktop application itself (or GUI), the documentation and
+the web site. So the first thing you need is an account to login and get
+started.
 
-Work on the translatable file
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Get a Transifex account
+^^^^^^^^^^^^^^^^^^^^^^^
+
+- Go to www.transifex.com and create a new account
+- Verify your account by the link in the email you will receive
+- Login
+- Choose your role as “Translator” and answer some other questions about yourself
+- At your dashboard page click “Join an existing organisation” and search for “qgis”
+
+Some QGIS organisations are listed now, among them are QGIS Desktop, Website and
+Documentation.
+
+
+
+
+
+
 
 For now it is recommended to use Qt-Linguist for working on the translatable
 file.
