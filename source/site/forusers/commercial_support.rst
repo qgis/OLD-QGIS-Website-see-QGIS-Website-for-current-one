@@ -236,7 +236,7 @@ services using the Open Data Kit / KoBo Toolbox software stack.
 
 ----
 
-.. |northriver| image:: /static/site/about/images/northriver.jpgi
+.. |northriver| image:: /static/site/about/images/northriver.jpg
    :width: 75 px
 
 |northriver| `North River Geographic Systems, Inc <http://www.northrivergeographic.com/>`_
