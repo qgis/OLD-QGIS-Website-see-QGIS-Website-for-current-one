@@ -55,7 +55,7 @@ and other FOSS applications.
 ----
 
 .. |itopen| image:: /static/site/about/images/itopen.png
-   :width: 150 px
+   :width: 200 px
 
 |itopen| `It Open <http://www.itopen.it/>`_ (based in Italy) provides commercial support
 and C++/Python development services for QGIS Desktop and Server, PostGIS, Django and other free 
