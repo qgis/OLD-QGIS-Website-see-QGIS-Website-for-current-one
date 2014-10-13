@@ -54,6 +54,17 @@ and other FOSS applications.
 
 ----
 
+.. |itopen| image:: /static/site/about/images/itopen.png
+   :width: 150 px
+
+|itopen| `It Open <http://www.itopen.it/>`_ (based in Italy) provides commercial support
+and C++/Python development services for QGIS Desktop and Server, PostGIS, Django and other free 
+and open source software packages for both the web and the server side.
+
+
+
+----
+
 .. |kartoza| image:: /static/site/about/images/kartoza.png
    :width: 200 px
 
@@ -155,14 +166,6 @@ OpenLayers
 
 ----
 
-.. |itopen| image:: /static/site/about/images/itopen.png
-   :width: 150 px
-
-|itopen| `IT Open <http://www.itopen.it/>`_ (based in Luserna san Giovanni (TO)
-Italy) provides IT Solutions for free companies.
-
-----
-
 .. |wmlogo| image:: /static/site/about/images/wmlogo.jpg
    :width: 170 px
 
@@ -233,7 +236,7 @@ services using the Open Data Kit / KoBo Toolbox software stack.
 
 ----
 
-.. |northriver| image:: /static/site/about/images/northriver.jpg
+.. |northriver| image:: /static/site/about/images/northriver.jpgi
    :width: 75 px
 
 |northriver| `North River Geographic Systems, Inc <http://www.northrivergeographic.com/>`_
