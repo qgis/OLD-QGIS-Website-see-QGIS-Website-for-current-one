@@ -113,10 +113,10 @@ Documentation.
 
 - Choose in which part of the project you would like to participate
 - You can be part of all projects and help everywhere too
-- If the language of your choice is listed, click it and request to Join the team.
+- If the language of your choice is listed, click it and request to join the team.
 - If your language is not listed yet, click “Request language” and choose your
-language. Keep in mind that translating the entire Desktop Application will take
-days of work, if not weeks!
+  language. Keep in mind that translating the entire Desktop Application will take
+  days of work, if not weeks!
 
 Now you will need to wait for the maintainers to process your request. You will be
 notified by email when your request has been accepted.
