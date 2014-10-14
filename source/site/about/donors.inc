@@ -400,6 +400,7 @@
 * Mario Tarantola
 * Mario Tovo
 * Marius Fankhauser
+* Marius Semaska
 * Mark Douglas
 * Mark Hoschek
 * Mark Murphy
