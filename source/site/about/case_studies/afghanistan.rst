@@ -7,7 +7,7 @@ In Afghanistan, mineclearance activities are coordinated through the Mine Action
 
 .. figure:: ./images/afghanistan1.png
    :alt: Digital elevation models allow DDG to get an idea of the location of a minefield.
-   :scale: 70%
+   :scale: 80%
    :align: right
 
    Digital elevation models allow DDG to get an idea of the location of a minefield
