@@ -477,6 +477,7 @@
 * Paolo Cavallini
 * Paolo Corti
 * Paolo Livio Craveri
+* Paolo Parroni
 * Paolo Piatti
 * Patrice Morgallet
 * Patryk Wójtowicz
