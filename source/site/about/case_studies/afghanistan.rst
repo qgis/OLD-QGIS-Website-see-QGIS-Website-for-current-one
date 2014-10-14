@@ -7,7 +7,7 @@ In Afghanistan, mineclearance activities are coordinated through the Mine Action
 
 .. figure:: ./images/afghanistan1.png
    :alt: Digital elevation models allow DDG to get an idea of the location of a minefield.
-   :scale: 90%
+   :scale: 70%
    :align: right
 
    Digital elevation models allow DDG to get an idea of the location of a minefield
@@ -15,11 +15,11 @@ In Afghanistan, mineclearance activities are coordinated through the Mine Action
 The use of geospatial data is most useful in the planning and survey phases. In Afghanistan, security problems and rugged terrain mean that physical re-survey of known sites is not always easy. Instead, the use of a mixture of data – satellite or aerial photography underlays, digitized Soviet-era topographic maps, hazard shapefiles and digital elevation models – allow DDG to get an idea of the location of a minefield in relation to the terrain and surrounding natural and physical features before sending in a survey team. QGIS plugins add useful capabilities, like the ability to visualise terrain in 3D. The attached screenshot above – made using the plugin Qgis2threejs - shows an area just south of the Darulaman Palace in Kabul, with active minefields (along the ridgelines on the left) shown in red over a Soviet topographic raster layer combined with SRTM data. Minefields already cleared show as light green.
 
 .. figure:: ./images/afghanistan2.jpg
-   :alt: Digital elevation models allow DDG to get an idea of the location of a minefield.
+   :alt: Active hazardous areas shown in red. Hazardous areas already cleared show as light green.
    :scale: 90%
    :align: right
 
-   Active minefields shown in red. Minefields already cleared show as light green. 
+   Active hazardous areas shown in red. Hazardous areas already cleared show as light green.
 
 
 Kabul University’s campus is still contaminated with suspected hazardous areas – thought to comprise of air-dropped bombs or similar ordnance. While not posing any immediate threat to students or staff, these hazards will require eventual clearance to allow future construction within an educational institution vital to Afghanistan’s future development. The hazards are also notable as among the last significant remaining hazardous areas in the Kabul metropolitan area. By using QGIS to combine the hazard polygons from earlier surveys with highly accurate aerial photography provided by the USGS, discrepancies can be noted – e.g. where the polygons do not match the shape of the buildings, as evident in the northwest part of the campus - which can direct survey teams to places to first conduct a more accurate re-survey. 
