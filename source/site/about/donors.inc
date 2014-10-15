@@ -25,6 +25,7 @@
 * Alexandre Leroux
 * Alexandre Xavier
 * Alicus Viorel
+* Alina - Mihaela Ciocan
 * Alvin Laurio
 * Amandine Poncin
 * Amedeo Fadini
