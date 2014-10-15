@@ -29,7 +29,7 @@ List of Case Studies
 .. toctree::
     :maxdepth: 1
 
-    [2014/10] Danish Demining Group (DDG) usinf QGIS in Kabul, Afghanistan by Edward Crowther <afghanistan>
+    [2014/10] Danish Demining Group (DDG) using QGIS in Kabul, Afghanistan by Edward Crowther <afghanistan>
     [2014/08] Trainings & Research activities using QGIS at NIRD&PR-NERC in Guwahati, India by Alajangi Simhachalam <india_guwahati>
     [2014/07] Using open source tools for characterization of a landscape. The LecosS plugin by André Duarte <portugal_coimbra>
     [2014/05] Use of python console to prepare offline map from WMS (tile downloader) by Prashant Kadgi <india_pune>
