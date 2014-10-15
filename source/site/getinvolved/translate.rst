@@ -42,7 +42,7 @@ qgis-tr@lists.osgeo.org asking for help.
 We strongly encourage anyone dealing with translations to join this list and
 promise that it is usually a very low traffic mailing list.
 
-The other available mailingslist can be found at :ref:`QGIS-mailinglists`.
+The other available mailing list can be found at :ref:`QGIS-mailinglists`.
 
 Becoming a translator
 .....................
@@ -57,12 +57,12 @@ so any contribution you have to make will be greatly appreciated.
 
 If you would like to nominate yourself as a coordinator for a new language
 please go ahead.
-If more than one person nominates themselves as coordinator for the same
+If more than one person nominate themselves as coordinator for the same
 language, please contact each other and resolve how you will manage your
 efforts.
 
 Please :ref:`contact <community-resources>` the Community Assistant or the GUI
-translation team leader to see you name entered in the about Box of QGIS.
+translation team leader to see you name entered in the About Box of QGIS.
 
 Helping with an existing translation
 ....................................
@@ -77,68 +77,55 @@ To start QGIS with the appropriate localization, run qgis with the option
 
 .. _howto-translate-gui:
 
-HOWTO translate GUI
-...................
+HOWTO translate
+...............
 
-There are different "levels" for you in the way you'd like to contribute.
-Following steps are necessary to help translating QGIS user interface.
+The QGIS interface is natively programmed in English. However, it is designed
+to be translated into any language quite easily. At this moment over fifty
+other languages are already available (though not all well maintained).
 
-Get the translatable file
-^^^^^^^^^^^^^^^^^^^^^^^^^
+All available languages are listed in the QGIS About dialog. It also shows
+how much of it has been translated yet. The entire interface contains over
+ten thousand pieces of text and a complete translation will take days if not
+weeks to be finished. Besides that, the rapid development of the application
+continuously causes new and edited texts to be translated. A huge effort and
+your help will be appreciated!
 
-Usually it is enough to download the .ts file from the
-`github repository <https://github.com/qgis/Quantum-GIS/tree/master/i18n/>`_
-Look for your language code which is added at the end of the files: qgis_*
-.ts, where * is your language code.
-For example the translation file for german language is called qgis_de.ts.
-To further specify the language it is sometimes necessary to have two
-language codes defined but we'd like to avoid this as much as we can.
+Transifex
+^^^^^^^^^
 
-If you click on your language a RAW Button will appear on the top right
-corner of that window where you can download your language file.
+The web-based translating platform Transifex is used for all QGIS
+translations; the desktop application itself (or GUI), the documentation and
+the web site. So the first thing you need is an account to login and get
+started.
 
-Work on the translatable file
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Get an account
+^^^^^^^^^^^^^^
 
-For now it is recommended to use Qt-Linguist for working on the translatable
-file.
-You can download and install that program (depending on your operating
-system) from:
+- Go to www.transifex.com and create a new account
+- Verify your account by the link in the email you will receive
+- Login
+- Choose your role as “Translator” and answer some other questions about yourself
+- At your dashboard page click “Join an existing organisation” and search for “qgis”
 
-http://qt-apps.org/content/show.php/Qt+Linguist+Download?content=89360
+Some QGIS organisations are listed now, among them are QGIS Desktop, Website and
+Documentation.
 
-For the different Linux distributions you should find a package called
-"qt4-dev-tools" or similar.
+- Choose in which part of the project you would like to participate
+- You can be part of all projects and help everywhere too
+- If the language of your choice is listed, click it and request to join the team.
+- If your language is not listed yet, click “Request language” and choose your
+  language. Keep in mind that translating the entire Desktop Application will take
+  days of work, if not weeks!
 
-You can create the compiled translation file out of your translation with
-Linguist by going to :menuselection:`File -> Release (As)` in the Linguist
-menu and save it as a .qm version of the translation.
-Afterwards you only have to copy this .qm file to the correct folder within
-your QGIS installation to see your translation in action.
+Now you will need to wait for the maintainers to process your request. You will be
+notified by email when your request has been accepted.
 
-Once you finished the translation you can send the .ts file to the
-:ref:`current translations team leader <governance>` to have it committed to
-the source code repository.
-At this place we'd like to encourage you to follow the "release often"
-principe of open source.
+Note on new languages
+^^^^^^^^^^^^^^^^^^^^^
 
-An advanced level of helping with the translations would be to checkout the
-source code and create pull requests for the language file on github.
+With requesting a new language please bear in mind that we try to make it as simple
+as possible. Just ask for the language you want to translate (regardless in which
+country you reside). Only if there are notable differences in the languages (for
+example portuguese in Portugal in Brazil) we will create its own version.
 
-Working with github and checking out the source code is explained in the
-:ref:`Developer Section <reference-missing>`.
-
-Documentation
--------------
-
-Description of how you can contribute in the translation of the Documentation
-are available in the README.md file which gets displayed on
-https://github.com/qgis/QGIS-Documentation
-
-
-Website
--------
-
-Description of how you can contribute in the translation of the Webpage are
-available in the README.md file which gets displayed on
-https://github.com/qgis/QGIS-Website

@@ -277,6 +277,7 @@
 * Jan Buijs
 * Jan Militzer
 * Jan-Willem Aalst
+* Janet Anstee
 * Janne Jakob Fleischer
 * Jaroslaw Kowalczyk
 * Jasja Dekker
@@ -400,6 +401,7 @@
 * Mario Tarantola
 * Mario Tovo
 * Marius Fankhauser
+* Marius Semaska
 * Mark Douglas
 * Mark Hoschek
 * Mark Murphy
@@ -476,6 +478,7 @@
 * Paolo Cavallini
 * Paolo Corti
 * Paolo Livio Craveri
+* Paolo Parroni
 * Paolo Piatti
 * Patrice Morgallet
 * Patryk Wójtowicz
