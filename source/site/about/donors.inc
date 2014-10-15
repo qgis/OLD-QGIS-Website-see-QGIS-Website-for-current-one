@@ -541,6 +541,7 @@
 * Sakari Salonen
 * Sake Wagenaar
 * Sander Huizing
+* Sarah Cottam
 * Sascha Langenstein
 * Sean Nickerson
 * Sebastiaan Van De Bunt
