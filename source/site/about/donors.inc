@@ -404,6 +404,7 @@
 * Mario Tovo
 * Marius Fankhauser
 * Marius Semaska
+* Mark Daniels
 * Mark Douglas
 * Mark Hoschek
 * Mark Murphy
