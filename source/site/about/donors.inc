@@ -388,6 +388,7 @@
 * Maja Bitenc
 * Manfred Knorr
 * Manfred Schön
+* Marc Cohen
 * Marc Monnerat
 * Marcel Van Dorst
 * Marcelo Soares Souza
