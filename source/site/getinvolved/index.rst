@@ -6,6 +6,7 @@ Get Involved / Development
     :maxdepth: 1
 
     translate
+    document
     Plugins website <http://plugins.qgis.org>
     Mailinglist <mailinglists>
     QGIS Infrastructure <infrastructure>
