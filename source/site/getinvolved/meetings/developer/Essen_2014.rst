@@ -8,7 +8,7 @@ We also want to thank our gold sponsor `ASIA AIR SURVEY <http://www.asiaairsurve
 
 The money from donations was put to very good use funding the travel, accomodation and eating of most of the participants of the developer meeting. We would like to thank the virtual particpants present on IRC, the developer meeting was all the better for having your comments, testing and insights.
 
-.. figure:: http://www.qgis.org/en/site/getinvolved/meetings/developer/images/2014_linuxhotel_group.jpg
+.. figure:: /static/site/getinvolved/governance/developer_meetings/2014_linuxhotel_group.jpg
    :alt: Group picture Linuxhotel Essen 2014
    
 Summary of what happened at the hackfest
