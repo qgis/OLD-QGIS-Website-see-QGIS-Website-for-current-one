@@ -624,6 +624,7 @@
 * William Levering
 * William Pallies
 * Wolfgang Dennhöfer
+* Wolfgang Scheffler
 * Wolfgang Stoessel
 * Yuan Harng Lee
 * Yven Dickhörner
