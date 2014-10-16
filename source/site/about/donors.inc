@@ -596,6 +596,7 @@
 * Thomas Engleder
 * Thomas Frohberg
 * Thomas Gunzelmann
+* Thomas Hilger
 * Thomas Richter
 * Tim Baggett
 * Tim Gould
