@@ -62,7 +62,7 @@ Further links
 
 * `Wiki page of the QGIS Hackfest in Essen 2014 <http://hub.qgis.org/wiki/quantum-gis/12_QGIS_Developer_Meeting_in_Essen_2014>`_ 
 * `Pictures from the QGIS Hackfest in Essen 2014 by Alessandro Pasotti <https://www.flickr.com/photos/45502883@N06/sets/72157648185718289/>`_ 
-* `Pictures from the QGIS Hackfest in Essen 2014 collected by Anita Graser<https://www.flickr.com/groups/2286344@N25/>`_ 
+* `Pictures from the QGIS Hackfest in Essen 2014 collected by Anita Graser <https://www.flickr.com/groups/2286344@N25/>`_ 
 * `General information on Sponsoring a QGIS Hackfest <http://qgis.org/en/site/getinvolved/governance/sponsorship/sponsorship.html#qgis-sponsorship-program>`_
 
 
