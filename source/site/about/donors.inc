@@ -160,6 +160,7 @@
 * Dwayne Chesnut
 * E R Plus
 * Ecotrust
+* Ekiden Concept
 * Elogika Di Fanna Alessandro
 * Els Keunen
 * Emanuele Zamprogno
