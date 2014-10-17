@@ -324,6 +324,7 @@
 * Joshua Voss
 * José Alfonso De Tomás Gargantilla
 * João Rodrigues
+* Juan Daniel Montejo Montejo
 * Juan Vega Figueroa
 * Judith Yang
 * Julien Villery
