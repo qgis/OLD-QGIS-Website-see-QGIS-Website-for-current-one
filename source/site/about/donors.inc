@@ -339,6 +339,7 @@
 * Kanton Solothurn SOGIS
 * Karen Owen
 * Karim Sadr
+* Katharina Jacob
 * Kathleen Skead
 * Katie Peek
 * Katrin Tirok
