@@ -396,6 +396,7 @@
 * Marcel Van Dorst
 * Marcelo Soares Souza
 * Marcin Wasilewski
+* Marco Carraro
 * Marcus Håkansson
 * Marek Slowinski
 * Maria Antonia Brovelli
