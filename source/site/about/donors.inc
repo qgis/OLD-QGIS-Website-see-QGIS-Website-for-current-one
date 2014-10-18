@@ -127,6 +127,7 @@
 * Dan Homerick
 * Dan Karran
 * Dan Wilt
+* Daniel Marin
 * Daniel Silva Veras
 * Daniel Wiesmann
 * Daniele Alami
