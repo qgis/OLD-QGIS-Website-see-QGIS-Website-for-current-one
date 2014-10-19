@@ -14,7 +14,7 @@
 LOCALES=`ls i18n`
 #LOCALES=nl ja
 
-# to be sure there are not pot files left
+# to be sure there are no pot files left
 make springclean
 
 #for ITEM in site
