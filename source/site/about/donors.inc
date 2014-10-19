@@ -253,6 +253,7 @@
 * Hualiu Yang
 * Hubert Peer
 * Hugh Gladwin
+* Hugo Martins
 * Hugo Rubio
 * Hugo Sørensen
 * Håvard Gåseidnes
