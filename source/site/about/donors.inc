@@ -442,6 +442,7 @@
 * Michael Major
 * Michael Naughton
 * Michael O'connell
+* Michael Pedini
 * Michael Schweizer
 * Michał Czepkiewicz
 * Michele Beneventi
