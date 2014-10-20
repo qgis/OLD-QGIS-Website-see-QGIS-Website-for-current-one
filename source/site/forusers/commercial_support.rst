@@ -77,7 +77,7 @@ Linfiniti Consulting.
 ----
 
 .. |lutra_consulting| image:: /static/site/about/images/lutra_consulting.png
-   :width: 90 px
+   :width: 200 px
 
 |lutra_consulting| `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ (based
 in the UK) provide training, support and bespoke software development services
