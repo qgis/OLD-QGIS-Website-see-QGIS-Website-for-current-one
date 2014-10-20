@@ -61,7 +61,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (09.2014-09.2015)
 
-.. |openrunner| image:: /static/site/about/images/lutra_consulting.png
+.. |lutra| image:: /static/site/about/images/lutra_consulting.png
    :width: 200 px
 
 ----
