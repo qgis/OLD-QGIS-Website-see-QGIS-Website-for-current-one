@@ -323,7 +323,6 @@ section {
 div.related {
   display: none;
   /* NOTE: for website: NO related bar, for docs: YES related bar! */
-
   padding-top: 10px;
 }
 /*
@@ -340,9 +339,7 @@ div.section:before {
   height: 60px;
   /*margin: -60px 0 0 0;*/
   /*nice hack, but this breaks responsiveness for related bar*/
-
   /*this is working for non frontpages*/
-
 }
 /* span achors are a little more difficult,
 these are for internal refs, eg: en/docs/user_manual/working_with_vector/editing_geometry_attributes.html#sec-advanced-edit
@@ -719,6 +716,9 @@ section.content h4 {
 }
 #color-identifier.getinvolved {
   background-color: #129700;
+}
+#color-identifier.documentation {
+  background-color: #971800;
 }
 section.sub-landing-page {
   font-size: 14px;
