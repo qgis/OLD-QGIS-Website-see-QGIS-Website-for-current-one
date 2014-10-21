@@ -337,6 +337,7 @@
 * Jussi Rasinmaki
 * Justin Schuetz
 * K Brock Riedell
+* Kai Kotzian
 * Kamil Svoboda
 * Kanton Solothurn SOGIS
 * Karen Owen
