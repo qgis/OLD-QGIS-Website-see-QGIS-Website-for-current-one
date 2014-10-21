@@ -39,12 +39,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
-|silver| |gaia|
+|silver| |sourcepole|
 
-`G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (06.2013-06.2014)
+`Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2015)
 
-.. |gaia| image:: /static/site/about/images/gaia.png
-   :width: 191 px
+.. |sourcepole| image:: /static/site/about/images/sourcepole.png
+   :width: 290 px
 
 ----
 
@@ -54,6 +54,15 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. |land_f| image:: /static/site/about/images/land_f.jpg
    :width: 290 px
+
+----
+
+|bronze| |lutra|
+
+`Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (09.2014-09.2015)
+
+.. |lutra| image:: /static/site/about/images/lutra_consulting.png
+   :width: 200 px
 
 ----
 
@@ -123,6 +132,15 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 .. |sogis| image:: /static/site/about/images/sogis.gif
    :width: 150 px
+
+----
+
+|silver| |gaia|
+
+`G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (06.2013-06.2014)
+
+.. |gaia| image:: /static/site/about/images/gaia.png
+   :width: 191 px
 
 ----
 
