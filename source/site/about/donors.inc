@@ -608,6 +608,7 @@
 * Thomas Frohberg
 * Thomas Gunzelmann
 * Thomas Hilger
+* Thomas Leahy
 * Thomas Richter
 * Tim Baggett
 * Tim Gould
