@@ -596,6 +596,7 @@
 * Stig Malmose
 * Swampthing Environmental Inc.
 * Sébastien Gombault
+* Tam Nguyen Van
 * Tanya Haddad
 * Test Gurus
 * Thaddäus Schneider
