@@ -1,4 +1,3 @@
-
 ======================================
 Quantarctica: An Antarctic GIS package
 ======================================
@@ -73,4 +72,3 @@ Authors
 This article was contributed in August 2013 by Anders Skoglund (left), GIS
 specialist, and Kenichi Matsuoka (right), glaciologist, both at the Norwegian
 Polar Institute.
-

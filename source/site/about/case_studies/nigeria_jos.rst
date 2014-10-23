@@ -1,4 +1,3 @@
-
 =======================================================================
 Amurum forest reserve habitat and avifauna mapping with QGIS in Nigeria
 =======================================================================
@@ -15,9 +14,9 @@ Amurum forest reserve is located near the city of Jos, Plateau state, Nigeria. I
 Mapping elevation, hill shade, slope and habitats
 =================================================
 
-1) Mapping elevation and groundtruthing: We downloaded (free) elevation data originating from the NASA Shuttle Radar Topographic Mission (SRTM) for the area in which Amurum is located. (Information about the global elevation data set can be found here: http://www.cgiar-csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41). 
+1) Mapping elevation and groundtruthing: We downloaded (free) elevation data originating from the NASA Shuttle Radar Topographic Mission (SRTM) for the area in which Amurum is located. (Information about the global elevation data set can be found here: http://www.cgiar-csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41).
 
-2) The GdalTools were used to merge original data sets and to clip a smaller area containing the reserve so that the raster data sets remained relatively small. By means of GPS we collected elevations at various locations in the reserve. 
+2) The GdalTools were used to merge original data sets and to clip a smaller area containing the reserve so that the raster data sets remained relatively small. By means of GPS we collected elevations at various locations in the reserve.
 
 3) Overall, the elevations of the SRTM data set corresponded well to the gps-collected elevations. Terrain models in GdalTools were used to calculate hills hades and slopes for the area. These variables are important from an ecological point of view because they are strongly associated with the type of habitat.
 
@@ -51,7 +50,7 @@ The random points in fTools were used for this purpose. All the locations were v
 Conclusion
 ==========
 
-Overall, the course was a great success. We - a group of students with no previous GIS experience - enjoyed working with QGIS a lot. Within just two weeks time we were able to develop an extremely useful map of the reserve. Amongst others, the extents of the various habitats were determined which allows for stratification and thus for better estimates of abundances of various kinds of organisms. Basically we are now able to do better ecological research using QGIS as an open source platform.
+Overall, the course was a great success. We - a group of students with no previous GIS experience --- enjoyed working with QGIS a lot. Within just two weeks time we were able to develop an extremely useful map of the reserve. Amongst others, the extents of the various habitats were determined which allows for stratification and thus for better estimates of abundances of various kinds of organisms. Basically we are now able to do better ecological research using QGIS as an open source platform.
 
 .. figure:: ./images/nigeria_jos4.png
    :alt: QGIS print composer for final graphic layout
@@ -62,5 +61,5 @@ Overall, the course was a great success. We - a group of students with no previo
 
 Authors
 =======
- 
+
 Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill
