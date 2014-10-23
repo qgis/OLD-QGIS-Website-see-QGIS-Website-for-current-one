@@ -35,8 +35,9 @@ Today, QGIS is used for the following GIS projects:
 * viewing and editing of urban and regional planning data
 * viewing and editing of road infrastructure data
 * viewing statistics generated directly from the database of current and past residents
+* planning and visualization for energy planning (gas supply regions, heat use from waste water, near-surface geothermal energy, block heating stations, etc.)
 
-Planning and visualization for energy planning (gas supply regions, heat use from waste water, near-surface geothermal energy, block heating stations, etc.). Additional further projects are currently under development.
+Additional further projects are currently under development.
 
 .. figure:: ./images/suisse_uster4.png
    :alt: uster location
