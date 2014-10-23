@@ -5,7 +5,7 @@ QGIS at high school --- the urban green spaces in Rada Tilly coastal town, Chubu
 Introduction
 ============
 
-In our region, Argentinean Patagonia, we have very few references about the application of GIS in High School for the construction of geographical knowledge as a mean to face territorial and environmental issues. The case of the urban green spaces in Rada Tilly coastal town analyzed by QuantumGIS, tends to demonstrate a methodology of an academic exercise that can project, with important reaches, as formative instances related to the geographical reasoning in students of 12th grade of the Abraham Lincoln School.
+In our region, Argentinean Patagonia, we have very few references about the application of GIS in High School for the construction of geographical knowledge as a mean to face territorial and environmental issues. The case of the urban green spaces in Rada Tilly coastal town analyzed by QGIS, tends to demonstrate a methodology of an academic exercise that can project, with important reaches, as formative instances related to the geographical reasoning in students of 12th grade of the Abraham Lincoln School.
 
 We started by the observation (inventory), digitizing the cadastral blocks and the green areas (tree´s canopy) using Google Earth satellite images. As a conceptual framework, we lectured about cartographic design, satellite images reading and interpretation, and specially, location analysis to contrast the situation (in m\ :sup:`2`) of the urban green spaces by inhabitant in Rada Villa coastal town, with values suggested by the World Health Organization, WHO (a  minimum of 9 m\ :sup:`2` of green areas, by person, in urban areas).
 
