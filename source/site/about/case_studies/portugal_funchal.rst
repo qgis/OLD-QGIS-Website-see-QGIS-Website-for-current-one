@@ -30,7 +30,7 @@ At present, some students are still using the QGIS to make different work plans 
 Decision for QGIS
 =================
 
-Number of the inhabitants (example) Generally speaking, QGIS allured the students: “to accomplish basic functions of GIS through exercise associations of graphic and non-graphic elements”; “to upload alphanumeric data”; “use functions of spacial analysis”; “to make thematic maps”; “to make a Digital Elevation Model” and, last but not least, “to recognize the relevance of a free GIS for the analysis of geographical  information, as well for the sustainable management of the territory”. These theoretical and practical purposes are achieved together along with other goals, extremely important in the education context, such as: “creating a diversified educational experience”; “being in contact with local reality” and “developing a constructive, positive and critical mind”.
+Generally speaking, QGIS allured the students: “to accomplish basic functions of GIS through exercise associations of graphic and non-graphic elements”; “to upload alphanumeric data”; “use functions of spacial analysis”; “to make thematic maps”; “to make a Digital Elevation Model” and, last but not least, “to recognize the relevance of a free GIS for the analysis of geographical  information, as well for the sustainable management of the territory”. These theoretical and practical purposes are achieved together along with other goals, extremely important in the education context, such as: “creating a diversified educational experience”; “being in contact with local reality” and “developing a constructive, positive and critical mind”.
 
 From the class room to the education community
 ==============================================
