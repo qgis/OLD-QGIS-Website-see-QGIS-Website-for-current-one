@@ -617,6 +617,7 @@
 * Thomas Hilger
 * Thomas Leahy
 * Thomas Richter
+* Thomas Vieira
 * Tim Baggett
 * Tim Gould
 * Tishampati Dhar
