@@ -378,6 +378,7 @@
 * Lorenzo Becchi
 * Lorenzo Luisi
 * Loris Duclos
+* Louis Maniere
 * Luca Casagrande
 * Luca Manganelli
 * Luca Mestroni
