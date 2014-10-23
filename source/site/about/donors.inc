@@ -466,6 +466,7 @@
 * Niccolo Rigacci
 * Niccolò Iandelli
 * Niccolò Marchi
+* Nicholas Bedworth
 * Nicolai Trefzger
 * Nikita Mozgunov
 * Nikki Macleod
