@@ -626,6 +626,7 @@
 * Tom Morrison
 * Tomas Trojacek
 * Tony MacLeod
+* Tor Mikalsen
 * Tore Pedersen
 * Travis Hammond
 * Tyler Mitchell
