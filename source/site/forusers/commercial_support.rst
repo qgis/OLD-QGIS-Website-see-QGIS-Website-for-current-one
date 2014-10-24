@@ -285,3 +285,19 @@ GRASS GIS and FOSS GIS based SDI solutions.
 
 |terrestris| `Terrestris <http://www.terrestris.de/dienstleistungen/schulungen/>`_
 (Bonn, Germany) provides commercial services and training for QGIS.
+
+
+
+----
+
+.. |thinkwhere| image:: /static/site/about/images/thinkwhere.png
+   :width: 75 px
+
+|thinkwhere| `thinkWhere <http://www.thinkwhere.com/>`_
+(Stirling, Scotland) thinkWhere is one of the leading independent GIS
+consultancies in the UK.  We provide a broad range of innovative GIS products
+and services including "Location Centre" (a hosted Cloud-based GIS built from
+OpenSource technologies). As a QGIS site, our team of geospatial experts use
+QGIS on a daily basis and provide QGIS Support to customers.  We also run
+regular QGIS and PostGIS Training courses. 
+
