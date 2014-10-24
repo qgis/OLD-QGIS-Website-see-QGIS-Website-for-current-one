@@ -139,6 +139,7 @@
 * David Duncan
 * David Enns
 * David Horsey
+* David Leedal
 * David Mangold
 * David Sabalete Valenzuela
 * David Squires
