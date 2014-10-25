@@ -644,6 +644,7 @@
 * Wayne Bulmer
 * Wendelin Schmit
 * Werner Macho
+* William Jesdale
 * William Levering
 * William Pallies
 * Wolfgang Dennhöfer
