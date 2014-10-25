@@ -155,6 +155,7 @@
 * Dieter Wachsmuth
 * Dimap Sl Felipe Garcia
 * Dirk Pflugmacher
+* Dominique Bornhoeft
 * Dominique Pitt
 * Don Williams
 * Dorothea Hackman
