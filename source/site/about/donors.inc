@@ -58,6 +58,7 @@
 * Antimo Battistoni
 * Antonio Baisi
 * Antonio Ceribelli
+* Antonio Locandro Herrera
 * Antonio Vitulano
 * Aris Dimopoulos
 * Arni Geirsson
