@@ -95,6 +95,7 @@
 * Calum Robertson
 * Carl Nelson
 * Carlo Oliverio
+* Carlos Siordia
 * Carlos Tavares
 * Carmine D'adamo
 * Carsten Fink
