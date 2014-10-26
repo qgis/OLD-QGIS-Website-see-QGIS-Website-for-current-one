@@ -658,5 +658,5 @@
 * Yves Jacolin
 * Zachary Patterson
 * Ângela Seixas
-* åå ä½
 * 田中 創平
+* 吉原 佑
