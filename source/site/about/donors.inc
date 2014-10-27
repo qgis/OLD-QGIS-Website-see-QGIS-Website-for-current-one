@@ -621,6 +621,7 @@
 * Thomas Gunzelmann
 * Thomas Hilger
 * Thomas Leahy
+* Thomas Papiernik
 * Thomas Richter
 * Thomas Vieira
 * Tim Baggett
@@ -658,5 +659,5 @@
 * Yves Jacolin
 * Zachary Patterson
 * Ângela Seixas
-* 田中 創平
 * 吉原 佑
+* 田中 創平
