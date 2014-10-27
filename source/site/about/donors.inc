@@ -607,6 +607,7 @@
 * Sébastien Gombault
 * Tam Nguyen Van
 * Tanya Haddad
+* Tereza KutiÅ¡ovÃ¡
 * Test Gurus
 * Thaddäus Schneider
 * Thanasis Karathanasis
