@@ -198,6 +198,7 @@
 * FOSSGIS e.V.
 * Francesco Campagnari
 * Francesco Cometa
+* Francesco Gervasi
 * Francis Harvey
 * Franko Sokolic
 * Franz-josef Behr
