@@ -192,6 +192,7 @@
 * Ferdinando Urbano
 * Ferenc Keresztessy
 * Fethi M'rad
+* Fjm Van Baar
 * Flavio Rigolon
 * Florian Hof
 * Fornat AG, Zürich
