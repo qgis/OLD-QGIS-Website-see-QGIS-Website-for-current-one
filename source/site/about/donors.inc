@@ -119,6 +119,7 @@
 * Christoph Rinne
 * Christoph Rupprecht
 * Christopher Kahler
+* Christopher Meade
 * Christopher Thorpe-dixon
 * Christos Mitsis
 * Clifford Snow
