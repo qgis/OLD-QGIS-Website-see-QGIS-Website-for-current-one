@@ -310,6 +310,7 @@
 * Jim Cory
 * Jim Litts
 * Jim Mann
+* Jiri Kadlec
 * Jiří Bělohlávek
 * Joachim Aurbacher
 * Joanne Kaye
