@@ -54,6 +54,7 @@
 * André Barriguinha
 * Angel Muñoz
 * Anna Lazzarini
+* Anthony Pezzotti
 * Anthony Van Zuylen
 * Antimo Battistoni
 * Antonio Baisi
