@@ -554,6 +554,7 @@
 * Roel Van De Wetering
 * Rolland Paillat
 * Ronaldo Auletta Jr
+* Rosario Negusse
 * Ross Mcdonald
 * Rosário Dilo
 * Rubén Darío Godoy
