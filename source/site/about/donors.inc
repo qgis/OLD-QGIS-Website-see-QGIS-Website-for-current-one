@@ -65,6 +65,7 @@
 * Aris Dimopoulos
 * Arni Geirsson
 * Arsin Gruenig
+* Artur Klein
 * Ashworth
 * Associazione Monte Porzio Cultura
 * Athanasios Karathanasis
