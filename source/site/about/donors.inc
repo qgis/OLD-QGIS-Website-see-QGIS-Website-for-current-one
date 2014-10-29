@@ -80,6 +80,7 @@
 * Bayard Ewing
 * Ben Visser
 * Benedict Alexander
+* Benjamin Smith
 * Benoit David
 * Bernd Vogelgesang
 * Bill Howard
