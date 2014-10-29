@@ -139,6 +139,7 @@
 * Daniele Alami
 * Daniele Samez
 * Dariusz Bobak
+* Dariusz Strojecki
 * David Addy
 * David Dettrick
 * David Duncan
