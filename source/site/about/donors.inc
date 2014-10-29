@@ -587,6 +587,7 @@
 * Sebastian Cionoiu
 * Sergey Khokhlov
 * Shapesmart
+* Sian Grant
 * Silvia Terziotti
 * Silvio Grosso
 * Simone Bianchi
