@@ -419,6 +419,7 @@
 * Maria Antonia Brovelli
 * Maria Chiara Turrini
 * Maria Rita Celestini
+* Marina Boschini
 * Marinko Franin
 * Mario Martínez González
 * Mario Tarantola
