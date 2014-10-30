@@ -293,6 +293,7 @@
 * James Larsen
 * James Morrison
 * James Newsome
+* Jamie Anderson
 * Jan Buijs
 * Jan Militzer
 * Jan-Willem Aalst
