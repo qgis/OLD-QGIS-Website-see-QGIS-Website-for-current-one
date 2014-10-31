@@ -81,6 +81,7 @@
 * Bayard Ewing
 * Ben Visser
 * Benedict Alexander
+* Benjamin Allen
 * Benjamin Smith
 * Benoit David
 * Bernd Vogelgesang
