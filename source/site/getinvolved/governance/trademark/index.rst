@@ -8,7 +8,7 @@ Our main aim is to encourage those who do business using QGIS name and logo to p
 
 **When you can use the QGIS trademark without asking for a permission**
 
-In cases of fair use, you may use or refer to QGIS trademark without an explicit permission from us. For instance::
+In cases of fair use, you may use or refer to QGIS trademark without an explicit permission from us. For instance:
 
 * If you write articles, books, blog articles, tutorials, study materials for university, and similar, you do not need a permission to cite QGIS name and use the logo in it
 
@@ -21,13 +21,13 @@ In cases of fair use, you may use or refer to QGIS trademark without an explicit
 .. note:: Please routinely explain in your course that QGIS is free and open source software, and actively encourage anyone to contribute, directyl or indirectly, to the project
 
 * If you provide services (support, development) on QGIS, you can use QGIS trademark to describe or advertise your services or products relating to QGIS, provided this is done in a way that is not misleading
-* If you use the QGIS logo on a website linking to qgis.org <http://qgis.org> or any of our domains, or github, you do not need a permission
+* If you use the QGIS logo on a website linking to our websites (http://qgis.org or any of our domains, or github), you do not need a permission
 * You can make t-shirts, desktop wallpapers, caps, or other merchandise with QGIS trademark for non-commercial usage
 * You can also make merchandise with QGIS trademark for commercial usage. In case of commercial usage, we recommend that you truthfully advertise to customers which part of the selling price, if any, will be donated to the QGIS project. See our donations page for more information on how to donate to the QGIS project
 
 **Examples of use requiring a permission**
 
-Some uses of QGIS require the user to obtain a permission. For instance::
+Some uses of QGIS require the user to obtain a permission. For instance:
 
 * If you plan to market a QGIS-based product or service to the public using a trademark that includes the element "QGIS," such as "Super QGIS" or "Professional QGIS" you are required to apply for and obtain a permission from the QGIS Project Steering Committee (QGIS-PSC). This is true whether or not you apply to register your trademark with a government
 * If you use QGIS trademark in a domain name, with or without commercial intent
