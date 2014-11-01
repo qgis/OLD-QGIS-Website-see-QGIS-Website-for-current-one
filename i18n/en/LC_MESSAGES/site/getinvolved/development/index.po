@@ -23,31 +23,31 @@ msgstr ""
 msgid "Bugs, Features and Issues"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:169
+#: ../../source/site/getinvolved/development/index.rst:174
 msgid "Development"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:200
+#: ../../source/site/getinvolved/development/index.rst:205
 msgid "QGIS has a lot to offer for python developers too."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:202
+#: ../../source/site/getinvolved/development/index.rst:207
 msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:209
+#: ../../source/site/getinvolved/development/index.rst:214
 msgid "You can find the QGIS-iface which you can use via python here:"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:211
+#: ../../source/site/getinvolved/development/index.rst:216
 msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:213
+#: ../../source/site/getinvolved/development/index.rst:218
 msgid "http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:215
+#: ../../source/site/getinvolved/development/index.rst:220
 msgid "http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
 msgstr ""
 
@@ -64,84 +64,48 @@ msgstr ""
 msgid "Odd version numbers (2.1, 2.3 etc) are development versions."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:142
+#: ../../source/site/getinvolved/development/index.rst:145
 msgid "Week"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:142
+#: ../../source/site/getinvolved/development/index.rst:145
 msgid "Date"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:144
-msgid "4"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:144
-msgid "24.01"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:145
-msgid "8"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:145
-msgid "21.02"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:146
-msgid "21"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:146
-msgid "23.05"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:148
-msgid "39"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:148
+#: ../../source/site/getinvolved/development/index.rst:152
 msgid "26.09"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:149
-msgid "43"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:149
-msgid "24.10"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:181
+#: ../../source/site/getinvolved/development/index.rst:186
 msgid "Plugin Development"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:183
+#: ../../source/site/getinvolved/development/index.rst:188
 msgid ""
 "QGIS has a plugin infrastructure. You can add a lot of new functionality by "
 "writing your own plugins."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:186
+#: ../../source/site/getinvolved/development/index.rst:191
 msgid "These plugins can either be written in C++ or in Python"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:193
+#: ../../source/site/getinvolved/development/index.rst:198
 msgid ""
 "Via a script you will generate a plugin stub which can be used further."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:198
+#: ../../source/site/getinvolved/development/index.rst:203
 msgid "Python plugin development"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:204
+#: ../../source/site/getinvolved/development/index.rst:209
 msgid ""
 "Interested in python plugin development, go to :ref:`QGIS-python-plugin-"
 "development` or have a look into the :ref:`PyQGIS-Developer-Cookbook`."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:207
+#: ../../source/site/getinvolved/development/index.rst:212
 msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
 msgstr ""
 
@@ -286,36 +250,8 @@ msgid ""
 " call for packaging is issued."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:139
-msgid "Following is the schedule for 2014"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:142
-msgid "Event"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:144
-msgid "2.1 freeze begins"
-msgstr ""
-
 #: ../../source/site/getinvolved/development/index.rst:145
-msgid "2.2 is released"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:146
-msgid "2.3 freeze begins"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:147
-msgid "2.4 is released"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:148
-msgid "2.5 freeze begins"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:149
-msgid "2.6 is released"
+msgid "Event"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:15
@@ -371,11 +307,11 @@ msgid ""
 "reproduce the output might shed some light about where QGIS crashes."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:104
+#: ../../source/site/getinvolved/development/index.rst:107
 msgid "Development phase"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:106
+#: ../../source/site/getinvolved/development/index.rst:109
 msgid ""
 "In the development phase developers work on adding new features for the next"
 " release. Early adopters can use the nightly builds we have for all major "
@@ -383,11 +319,11 @@ msgid ""
 "provide bug reports and their thoughts to help with development."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:112
+#: ../../source/site/getinvolved/development/index.rst:115
 msgid "Feature freeze"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:114
+#: ../../source/site/getinvolved/development/index.rst:117
 msgid ""
 "In the feature freeze phase new features are not allowed in anymore and the "
 "focus of everyone moves from enhancing QGIS to stablizing it.  This also "
@@ -395,7 +331,7 @@ msgid ""
 "prereleases>`."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:118
+#: ../../source/site/getinvolved/development/index.rst:121
 msgid ""
 "**Users** should start extensive testing of these prereleases in their "
 "environment to verify that there are no issues, they wouldn't want to see in"
@@ -406,13 +342,13 @@ msgid ""
 "issues is very important."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:126
+#: ../../source/site/getinvolved/development/index.rst:129
 msgid ""
 "In the feature freeze **Developers** monitor the hub and start working on "
 "fixing the reported issues."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:129
+#: ../../source/site/getinvolved/development/index.rst:132
 msgid ""
 "With the begin of the feature freeze the translation files will be updated "
 "so that **translators** can start their work. Note that this might be an "
@@ -420,99 +356,229 @@ msgid ""
 "still introduce translation string changes."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:137
+#: ../../source/site/getinvolved/development/index.rst:140
 msgid "Release schedule"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:155
+#: ../../source/site/getinvolved/development/index.rst:160
 msgid "Location of prereleases / nightly builds"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:158
+#: ../../source/site/getinvolved/development/index.rst:163
 msgid "Platform"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:158
+#: ../../source/site/getinvolved/development/index.rst:163
 msgid "Location"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:160
+#: ../../source/site/getinvolved/development/index.rst:165
 msgid "Windows"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:160
+#: ../../source/site/getinvolved/development/index.rst:165
 msgid ""
 ":ref:`Weekly release candidate <QGIS-windows-weekly>` (standalone installer)"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:161
-#: ../../source/site/getinvolved/development/index.rst:163
+#: ../../source/site/getinvolved/development/index.rst:166
+#: ../../source/site/getinvolved/development/index.rst:168
 msgid "\\"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:161
+#: ../../source/site/getinvolved/development/index.rst:166
 msgid ":ref:`OSGeo4W <QGIS-windows-testing>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:162
+#: ../../source/site/getinvolved/development/index.rst:167
 msgid "Linux"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:162
+#: ../../source/site/getinvolved/development/index.rst:167
 msgid ":ref:`Debian <QGIS-debian-testing>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:163
+#: ../../source/site/getinvolved/development/index.rst:168
 msgid ":ref:`Ubuntu <QGIS-ubuntu-testing>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:164
+#: ../../source/site/getinvolved/development/index.rst:169
 msgid "MacOS"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:164
+#: ../../source/site/getinvolved/development/index.rst:169
 msgid ":ref:`Mac OS <QGIS-macos-testing>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:171
+#: ../../source/site/getinvolved/development/index.rst:176
 msgid "See INSTALL_"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:175
+#: ../../source/site/getinvolved/development/index.rst:180
 msgid "API Documentation"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:177
+#: ../../source/site/getinvolved/development/index.rst:182
 msgid "There is `API documentation <http://qgis.org/api/>`_ for C++."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:189
+#: ../../source/site/getinvolved/development/index.rst:194
 msgid "C++ plugin development"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:191
+#: ../../source/site/getinvolved/development/index.rst:196
 msgid ""
 "To learn how to write your first C++ plugin, please go here: :ref:`QGIS-cpp-"
 "plugin-development`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:147
-msgid "26"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:147
-msgid "27.06"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:220
+#: ../../source/site/getinvolved/development/index.rst:225
 msgid "Adding GRASS tools"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:222
+#: ../../source/site/getinvolved/development/index.rst:227
 msgid ":ref:`adding-grass-tools`"
 msgstr ""
 
-#~ msgid "25"
+#: ../../source/site/getinvolved/development/index.rst:151
+msgid "25"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:103
+msgid ""
+"Every third release (starting with 2.8) is a long-term-release (LTR) that is"
+" maintained until the next long-term-release occurs."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:142
+msgid "Following is the schedule for 2015"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:147
+msgid "(30"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:147
+msgid "31.10"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:147
+msgid "2.6 was released)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:148
+msgid "3"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:148
+#: ../../source/site/getinvolved/development/index.rst:153
+msgid "23.01"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:148
+msgid "2.7 freeze begins"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:149
+msgid "7"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:149
+msgid "20.02"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:149
+msgid "2.8 is released (LTR)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:150
+msgid "20"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:150
+msgid "22.05"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:150
+msgid "2.9 freeze begins"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:151
+msgid "26.06"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:151
+msgid "2.10 is released"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:152
+msgid "38"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:152
+msgid "2.11 freeze begins"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:153
+msgid "42"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:153
+msgid "2.12 is released"
+msgstr ""
+
+#~ msgid "4"
+#~ msgstr ""
+
+#~ msgid "24.01"
+#~ msgstr ""
+
+#~ msgid "8"
+#~ msgstr ""
+
+#~ msgid "21.02"
+#~ msgstr ""
+
+#~ msgid "21"
+#~ msgstr ""
+
+#~ msgid "23.05"
+#~ msgstr ""
+
+#~ msgid "39"
+#~ msgstr ""
+
+#~ msgid "43"
+#~ msgstr ""
+
+#~ msgid "24.10"
+#~ msgstr ""
+
+#~ msgid "Following is the schedule for 2014"
+#~ msgstr ""
+
+#~ msgid "2.1 freeze begins"
+#~ msgstr ""
+
+#~ msgid "2.2 is released"
+#~ msgstr ""
+
+#~ msgid "2.3 freeze begins"
+#~ msgstr ""
+
+#~ msgid "2.4 is released"
+#~ msgstr ""
+
+#~ msgid "2.5 freeze begins"
+#~ msgstr ""
+
+#~ msgid "2.6 is released"
+#~ msgstr ""
+
+#~ msgid "26"
+#~ msgstr ""
+
+#~ msgid "27.06"
 #~ msgstr ""
 
 #~ msgid "20.06"
