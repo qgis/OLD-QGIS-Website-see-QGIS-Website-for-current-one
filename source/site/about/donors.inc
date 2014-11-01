@@ -1,5 +1,5 @@
 * A Brian Hollinshead
-* A. Francisco Gomez Tagle Rojas Gomez Tagle Rojas
+* A. Francisco Gomez Tagle Rojas
 * Aaron Racicot
 * Abraham Gibson
 * Adam Lane
@@ -478,7 +478,7 @@
 * Mohamed Al Merri
 * Mohamed Kamal
 * Moshe Dr. Shirav
-* Murat AkÄ±n
+* Murat Akın
 * Murray Swanson
 * Nathan Saylor
 * Neil Ross
@@ -623,7 +623,7 @@
 * Sébastien Gombault
 * Tam Nguyen Van
 * Tanya Haddad
-* Tereza KutiÅ¡ovÃ¡
+* Tereza Kutišová
 * Test Gurus
 * Thaddäus Schneider
 * Thanasis Karathanasis
