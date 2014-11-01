@@ -658,6 +658,7 @@
 * Umberto Zulian
 * Urban Modelling Solutions N A Matthew
 * Uros Bernik
+* Valerio Franchino
 * Vincenzo Sale
 * Vitor Pereira
 * Vittorio Dell'Aquila
