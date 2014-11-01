@@ -12,6 +12,7 @@ For Users
     visualchangelog200/index
     visualchangelog220/index
     visualchangelog240/index
+    visualchangelog260/index
     download
     ../../docs/index
     trainingmaterial/index
