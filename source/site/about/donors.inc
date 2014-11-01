@@ -1,5 +1,5 @@
 * A Brian Hollinshead
-* A. Francisco Gomez Tagle Rojas Gomez Tagle Rojas
+* A. Francisco Gomez Tagle Rojas
 * Aaron Racicot
 * Abraham Gibson
 * Adam Lane
@@ -48,20 +48,25 @@
 * Andrew Chapman
 * Andrew Flatman
 * Andrew Mcaninch
+* Andrew Mckenna-foster
 * Andrew Rigby
 * Andrew Smith
 * Andrey Kuvshinov
 * André Barriguinha
 * Angel Muñoz
 * Anna Lazzarini
+* Anna Torrent Martinez
+* Anthony Pezzotti
 * Anthony Van Zuylen
 * Antimo Battistoni
 * Antonio Baisi
 * Antonio Ceribelli
+* Antonio Locandro Herrera
 * Antonio Vitulano
 * Aris Dimopoulos
 * Arni Geirsson
 * Arsin Gruenig
+* Artur Klein
 * Ashworth
 * Associazione Monte Porzio Cultura
 * Athanasios Karathanasis
@@ -76,6 +81,8 @@
 * Bayard Ewing
 * Ben Visser
 * Benedict Alexander
+* Benjamin Allen
+* Benjamin Smith
 * Benoit David
 * Bernd Vogelgesang
 * Bill Howard
@@ -94,6 +101,7 @@
 * Calum Robertson
 * Carl Nelson
 * Carlo Oliverio
+* Carlos Siordia
 * Carlos Tavares
 * Carmine D'adamo
 * Carsten Fink
@@ -105,6 +113,7 @@
 * Cheryle Shepstone
 * Chipotle Coupons
 * Chris Cowen
+* Chris Noble
 * Chris Sanderson
 * Chris Talbot
 * Christian Holm
@@ -115,6 +124,7 @@
 * Christoph Rinne
 * Christoph Rupprecht
 * Christopher Kahler
+* Christopher Meade
 * Christopher Thorpe-dixon
 * Christos Mitsis
 * Clifford Snow
@@ -134,11 +144,13 @@
 * Daniele Alami
 * Daniele Samez
 * Dariusz Bobak
+* Dariusz Strojecki
 * David Addy
 * David Dettrick
 * David Duncan
 * David Enns
 * David Horsey
+* David Leedal
 * David Mangold
 * David Sabalete Valenzuela
 * David Squires
@@ -152,6 +164,7 @@
 * Dieter Wachsmuth
 * Dimap Sl Felipe Garcia
 * Dirk Pflugmacher
+* Dominique Bornhoeft
 * Dominique Pitt
 * Don Williams
 * Dorothea Hackman
@@ -181,17 +194,20 @@
 * Fabio Giacomazzi
 * Fabio Meletti De Oliveira Barros
 * Fabio Peruzzi
+* Fabrizio Tambussa
 * Faira Insan Technology
 * Federico De Piccoli
 * Ferdinando Urbano
 * Ferenc Keresztessy
 * Fethi M'rad
+* Fjm Van Baar
 * Flavio Rigolon
 * Florian Hof
 * Fornat AG, Zürich
 * FOSSGIS e.V.
 * Francesco Campagnari
 * Francesco Cometa
+* Francesco Gervasi
 * Francis Harvey
 * Franko Sokolic
 * Franz-josef Behr
@@ -280,6 +296,7 @@
 * James Larsen
 * James Morrison
 * James Newsome
+* Jamie Anderson
 * Jan Buijs
 * Jan Militzer
 * Jan-Willem Aalst
@@ -302,6 +319,7 @@
 * Jim Cory
 * Jim Litts
 * Jim Mann
+* Jiri Kadlec
 * Jiří Bělohlávek
 * Joachim Aurbacher
 * Joanne Kaye
@@ -403,11 +421,13 @@
 * Marcelo Soares Souza
 * Marcin Wasilewski
 * Marco Carraro
+* Marcos Correa Neves
 * Marcus Håkansson
 * Marek Slowinski
 * Maria Antonia Brovelli
 * Maria Chiara Turrini
 * Maria Rita Celestini
+* Marina Boschini
 * Marinko Franin
 * Mario Martínez González
 * Mario Tarantola
@@ -459,7 +479,7 @@
 * Mohamed Al Merri
 * Mohamed Kamal
 * Moshe Dr. Shirav
-* Murat AkÄ±n
+* Murat Akın
 * Murray Swanson
 * Nathan Saylor
 * Neil Ross
@@ -548,6 +568,7 @@
 * Roel Van De Wetering
 * Rolland Paillat
 * Ronaldo Auletta Jr
+* Rosario Negusse
 * Ross Mcdonald
 * Rosário Dilo
 * Rubén Darío Godoy
@@ -571,6 +592,7 @@
 * Sebastian Cionoiu
 * Sergey Khokhlov
 * Shapesmart
+* Sian Grant
 * Silvia Terziotti
 * Silvio Grosso
 * Simone Bianchi
@@ -602,6 +624,7 @@
 * Sébastien Gombault
 * Tam Nguyen Van
 * Tanya Haddad
+* Tereza Kutišová
 * Test Gurus
 * Thaddäus Schneider
 * Thanasis Karathanasis
@@ -616,6 +639,7 @@
 * Thomas Gunzelmann
 * Thomas Hilger
 * Thomas Leahy
+* Thomas Papiernik
 * Thomas Richter
 * Thomas Vieira
 * Tim Baggett
@@ -625,6 +649,7 @@
 * Tom Morrison
 * Tomas Trojacek
 * Tony MacLeod
+* Tor Mikalsen
 * Tore Pedersen
 * Travis Hammond
 * Tyler Mitchell
@@ -634,6 +659,7 @@
 * Umberto Zulian
 * Urban Modelling Solutions N A Matthew
 * Uros Bernik
+* Valerio Franchino
 * Vincenzo Sale
 * Vitor Pereira
 * Vittorio Dell'Aquila
@@ -641,6 +667,7 @@
 * Wayne Bulmer
 * Wendelin Schmit
 * Werner Macho
+* William Jesdale
 * William Levering
 * William Pallies
 * Wolfgang Dennhöfer
@@ -651,4 +678,5 @@
 * Yves Jacolin
 * Zachary Patterson
 * Ângela Seixas
+* 吉原 佑
 * 田中 創平

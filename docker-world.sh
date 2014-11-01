@@ -1,3 +1,4 @@
+TARGET=${1:-full}
 
 # cd to script dir
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
@@ -16,6 +17,6 @@ git pull
 
 for l in $langs
   do
-    /bin/bash ./docker-run.sh full LANG=$l
+    /bin/bash ./docker-run.sh $TARGET LANG=$l
     rsync -hvrz -e ssh --progress output/html/$l qgis.osgeo.osuosl.org:/var/www/qgisdata/QGIS-Website/live/html
   done

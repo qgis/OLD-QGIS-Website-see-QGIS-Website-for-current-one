@@ -54,7 +54,7 @@ Important information needed when opening a ticket:
 * Component - Choose the aspect of the application that is most closely associated with the problem
 * Milestone - If this issue affects a particular Milestone in the project choose it from the drop-down list
 * Version - Version of QGIS this issue affects
-* Platform - Choose the platform you are using 
+* Platform - Choose the platform you are using
 
 Before sending the bug, please check the formatting of your report by clicking on "Preview". Please avoid editing existing reports, if not for typos. Better add further comments in any other case.
 
@@ -100,6 +100,9 @@ happens, a branch with a even release number is created and the master branch
 advances to the next odd version.  After the release a call for packaging is
 issued.
 
+Every third release (starting with 2.8) is a long-term-release (LTR) that is
+maintained until the next long-term-release occurs.
+
 Development phase
 -----------------
 
@@ -136,18 +139,20 @@ introduce translation string changes.
 Release schedule
 ----------------
 
-Following is the schedule for 2014
+Following is the schedule for 2015
 
-==== ====== =================
-Week Date   Event
-==== ====== =================
-4    24.01  2.1 freeze begins
-8    21.02  2.2 is released
-21   23.05  2.3 freeze begins
-26   27.06  2.4 is released
-39   26.09  2.5 freeze begins
-43   24.10  2.6 is released
-==== ====== =================
+==== ======= =======================
+Week Date    Event
+==== ======= =======================
+(30  31.10   2.6 was released)
+3    23.01   2.7 freeze begins
+7    20.02   2.8 is released (LTR)
+20   22.05   2.9 freeze begins
+25   26.06   2.10 is released
+38   26.09   2.11 freeze begins
+42   23.01   2.12 is released
+==== ======= =======================
+
 
 .. _QGIS-prereleases:
 
