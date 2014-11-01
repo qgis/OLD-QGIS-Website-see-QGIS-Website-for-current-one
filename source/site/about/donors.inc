@@ -144,6 +144,7 @@
 * Daniel Wiesmann
 * Daniele Alami
 * Daniele Samez
+* Danny Jensen
 * Dariusz Bobak
 * Dariusz Strojecki
 * David Addy
