@@ -151,7 +151,7 @@ Week Date    Event
 25   26.06   2.10 is released
 38   26.09   2.11 freeze begins
 42   23.01   2.12 is released
-==== ======= ========================
+==== ======= =======================
 
 
 .. _QGIS-prereleases:
