@@ -211,6 +211,7 @@
 * Francesco Campagnari
 * Francesco Cometa
 * Francesco Gervasi
+* Francesco Saliola
 * Francis Harvey
 * Franko Sokolic
 * Franz-josef Behr
