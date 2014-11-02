@@ -86,6 +86,7 @@
 * Benjamin Smith
 * Benoit David
 * Bernd Vogelgesang
+* Bernhard Seubert
 * Bill Howard
 * Birgit Konn
 * Boris Figueroa Henriquez
