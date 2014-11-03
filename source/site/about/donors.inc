@@ -535,6 +535,7 @@
 * Peter Löwe
 * Peter Moore
 * Peter Paudits
+* Peter Rosamilia
 * Peter Thuvander
 * Peter Wells
 * Phebe Meyers
