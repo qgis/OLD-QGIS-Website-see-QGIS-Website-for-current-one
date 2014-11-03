@@ -511,6 +511,7 @@
 * Norman Trowell
 * Nuno Silva
 * Ola Martin Krog
+* Olav Peeters
 * Oleg Smirnov
 * Oliver Schonrock
 * Omur Saygin
