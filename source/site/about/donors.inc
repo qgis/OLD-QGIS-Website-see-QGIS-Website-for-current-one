@@ -345,6 +345,7 @@
 * John Milligan
 * John Roach
 * John Stuart
+* Jonas Svensson
 * Jonathan Gross
 * Jonathan Webb
 * Jorge Pintocorne
