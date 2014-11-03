@@ -518,6 +518,7 @@
 * Oriental Rugs Online
 * Orlado Monteiro Freitas
 * Oronzo Antonio Longo
+* Oscar Gilberto Cardenas Hernandez
 * Oscar González Martínez
 * Osvaldo Mascetti
 * Otto Dassau
