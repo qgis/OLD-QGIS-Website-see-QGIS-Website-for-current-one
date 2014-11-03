@@ -160,6 +160,7 @@
 * David Squires
 * David Vaarwerk
 * Dc-3 Dreams, Sp
+* De Pietri Stefano
 * Deyan Vasilev
 * Dheeraj Chand
 * Diane Perez
