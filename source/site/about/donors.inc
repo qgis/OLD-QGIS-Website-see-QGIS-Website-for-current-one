@@ -317,6 +317,7 @@
 * Jean Marc Michalowski
 * Jean Roc Morreale
 * Jean Sébastien Dehecq
+* Jean-pierre Roche
 * Jeremy Wetterwald
 * Jesus Aguilera Rubio
 * Jesus Jurado Estevez
