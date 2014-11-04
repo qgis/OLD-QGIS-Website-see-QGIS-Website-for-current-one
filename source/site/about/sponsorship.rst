@@ -53,8 +53,8 @@ goes into the project. These sponsors are listed below with our thanks!
 `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-03.2015)
 
 .. |land_f| image:: /static/site/about/images/land_f.jpg
-
    :width: 290 px
+
 ----
 
 |bronze| |urbsol|
