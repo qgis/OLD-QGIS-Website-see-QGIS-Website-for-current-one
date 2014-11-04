@@ -69,6 +69,7 @@
 * Arni Geirsson
 * Arsin Gruenig
 * Artur Klein
+* Arturo Ruiz Luna
 * Ashworth
 * Associazione Monte Porzio Cultura
 * Athanasios Karathanasis
