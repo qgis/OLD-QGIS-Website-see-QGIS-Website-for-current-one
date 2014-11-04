@@ -289,6 +289,7 @@
 * Ian H Townend
 * Ian Wusstig
 * Igor Zabelin
+* Imanol Arruti Ezeitza
 * Imre Kugler
 * Interlink Web Works
 * Isabelle Didierjean
