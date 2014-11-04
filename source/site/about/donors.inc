@@ -265,6 +265,7 @@
 * Harald Grote
 * Havard Gaseidnes
 * Hebenor Bermudez Banchero
+* Hector Orengo
 * Heiko Schmüser
 * Heinrich Schweizer
 * Henry Colomb
