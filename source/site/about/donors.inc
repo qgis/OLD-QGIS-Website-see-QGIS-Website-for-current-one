@@ -268,6 +268,7 @@
 * Hector Orengo
 * Heiko Schmüser
 * Heinrich Schweizer
+* Helder Garcao
 * Henry Colomb
 * Henry R Moyer III
 * Herman Felderhof
