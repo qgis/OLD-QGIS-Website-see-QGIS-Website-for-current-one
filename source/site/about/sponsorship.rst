@@ -53,7 +53,25 @@ goes into the project. These sponsors are listed below with our thanks!
 `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-03.2015)
 
 .. |land_f| image:: /static/site/about/images/land_f.jpg
+
    :width: 290 px
+----
+
+|bronze| |urbsol|
+
+`Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2015)
+
+.. |urbsol| image:: /static/site/about/images/urbsol.png
+   :width: 200 px
+
+----
+
+|bronze| |mappinggis|
+
+`MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2015)
+
+.. |mappinggis| image:: /static/site/about/images/mappinggis.png
+   :width: 200 px
 
 ----
 
