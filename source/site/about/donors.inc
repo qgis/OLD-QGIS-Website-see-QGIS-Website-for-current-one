@@ -398,6 +398,7 @@
 * Lasse Wikars
 * Laura Bryson
 * Laura Burnette
+* Laura Lotero Vélez
 * Laurent Bréton
 * Laurent Vidal
 * Lawrence Lass
