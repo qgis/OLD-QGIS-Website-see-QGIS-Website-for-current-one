@@ -57,6 +57,7 @@
 * Angel Muñoz
 * Anna Lazzarini
 * Anna Torrent Martinez
+* Anthony Crowley
 * Anthony Pezzotti
 * Anthony Van Zuylen
 * Antimo Battistoni
@@ -264,8 +265,10 @@
 * Harald Grote
 * Havard Gaseidnes
 * Hebenor Bermudez Banchero
+* Hector Orengo
 * Heiko Schmüser
 * Heinrich Schweizer
+* Helder Garcao
 * Henry Colomb
 * Henry R Moyer III
 * Herman Felderhof
@@ -602,6 +605,7 @@
 * Saber Razmjooei
 * Sakari Salonen
 * Sake Wagenaar
+* Salvatore Livreri Console
 * Sander Huizing
 * Sandra Torres
 * Sarah Cottam
