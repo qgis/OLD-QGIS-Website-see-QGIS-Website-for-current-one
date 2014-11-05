@@ -354,6 +354,7 @@
 * Jonas Svensson
 * Jonathan Gross
 * Jonathan Webb
+* Jorge Fernandez
 * Jorge Pintocorne
 * Jorge Vera Morales
 * Jose Augusto Faes
