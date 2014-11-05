@@ -477,6 +477,7 @@
 * Maximilian Lohse
 * Mercedes Rubi Jimenez
 * Michael Corcoran
+* Michael Gieding
 * Michael Hedley
 * Michael Hintzke
 * Michael Hogarth
