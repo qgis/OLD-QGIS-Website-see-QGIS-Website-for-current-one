@@ -61,11 +61,44 @@ Before sending the bug, please check the formatting of your report by clicking o
 Creating a backtrace
 --------------------
 
-If you have a crash it might be useful to include a backtrace as the bug might be not reproducible on an other machine. On Unix you can create a backtrace using a core dump and gdb. A core dump is a memory dump of the state of the process when the crash happened.
-Depending on you distribution the automatic creation of core dumps might be disabled. In that case you only see for instance Segmentation fault and not ``Segmentation fault (core dumped)`` in the shell you started QGIS from and you need to run ``ulimit -c unlimited`` before starting QGIS. You could also include that in your ``.profile``.
-Start qgis from the shell and repeat the steps to reproduce the crash. After the crash the core file will be located in the current directory.
-To produce a backtrace from it you start ``gdb /path/to/the/qgis/binary core``. The binary is usually ``/usr/bin/qgis`` or ``/usr/bin/qgis.bin`` on Debian with the GRASS plugin installed.
-In ``gdb`` you run ``bt`` which will produce the backtrace.
+If you have a crash it might be useful to include a backtrace as the bug might
+be not reproducible on an other machine.
+
+On Linux QGIS automatically tries to use ``gdb`` to connect to the crashing
+process to produce a backtrace.   But some distributions disable the possiblity
+to connect debuggers to a running processes.  In that case ``gdb`` only
+produces a rather useless message like::
+
+ QGIS died on signal 11Could not attach to process.  If your uid matches the uid of the target
+ process, check the setting of /proc/sys/kernel/yama/ptrace_scope, or try
+ again as the root user.  For more details, see /etc/sysctl.d/10-ptrace.conf
+ ptrace: Operation not permitted.
+ No thread selected
+ No stack.
+ gdb returned 0
+ Aborted (core dumped)
+
+In that case you should reenable that option by setting
+``kernel.yama.ptrace_scope`` to 0 in ``/etc/sysctl.d/10-ptrace.conf`` (or
+``/etc/sysctl.conf`` or some other file in ``/etc/sysctl.d/``) and run ``sysctl
+-p`` as root.  When you reproduce the crash after that, a backtrace will be
+printed instead.
+
+If you cannot reproduce the crash, there should still be a core dump in the
+current directory, that can be analysed after the process has already
+terminated.  It's called ``core`` (on some systems a dot and the process id is
+append to the filename).
+
+On some distributions the creation of core dumps is also disabled.  In the
+event that you just get ``Aborted`` instead of ``Aborted (core dumped)`` when the crash
+occurs. Then you need to run ``ulimit -c unlimited`` before starting QGIS.  You
+can also include that in your ``.profile``, so that it's always enabled when
+you login.
+
+To produce a backtrace from the core file it you start ``gdb
+/path/to/the/qgis/binary core``.  The binary is usually ``/usr/bin/qgis`` or
+``/usr/bin/qgis.bin`` on Debian with the GRASS plugin installed.  In ``gdb``
+you run ``bt`` which will produce the backtrace.
 
 Log output on Windows
 ---------------------
