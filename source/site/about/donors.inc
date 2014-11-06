@@ -14,6 +14,7 @@
 * Aileen Heal
 * AivlaSoft GmbH
 * Alain Brunon
+* Alan Fielding
 * Albert Steiner
 * Albin Blaschka
 * Alejandro Ruete
