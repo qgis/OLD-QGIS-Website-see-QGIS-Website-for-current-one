@@ -294,6 +294,7 @@
 * Imanol Arruti Ezeitza
 * Imre Kugler
 * Interlink Web Works
+* Irene Weiland
 * Isabelle Didierjean
 * Ivan Marchesini
 * Ivan Mincik
