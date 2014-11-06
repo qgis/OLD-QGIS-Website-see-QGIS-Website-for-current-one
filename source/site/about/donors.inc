@@ -526,6 +526,7 @@
 * Norbert Dismon
 * Norman Trowell
 * Nuno Silva
+* Oki Shindo
 * Ola Martin Krog
 * Olav Peeters
 * Oleg Smirnov
