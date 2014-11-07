@@ -550,6 +550,7 @@
 * Paolo Parroni
 * Paolo Piatti
 * Patrice Morgallet
+* Patrizia Tomstis
 * Patryk Wójtowicz
 * Paul Hignett
 * Paul Pitman
