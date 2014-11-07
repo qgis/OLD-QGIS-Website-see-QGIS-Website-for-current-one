@@ -264,6 +264,7 @@
 * Guillermo Córdoba Recio
 * Guzmán López Orrego
 * Gérald Fringeli
+* H Szutkowski
 * Hans Rudolf Wettstein
 * Harald Grote
 * Havard Gaseidnes
