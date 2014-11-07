@@ -627,6 +627,7 @@
 * Sebastian Badowski
 * Sebastian Cionoiu
 * Sergey Khokhlov
+* Shane Moran-kelly
 * Shapesmart
 * Sian Grant
 * Silvia Terziotti
