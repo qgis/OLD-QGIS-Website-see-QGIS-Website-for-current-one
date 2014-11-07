@@ -234,6 +234,7 @@
 * Gabriele Monfardini
 * Gary Rigozzi
 * Gasanov Gadzhi
+* Gentelet Boris
 * Geoff Jones
 * Geoff Oxsen
 * George Smith
