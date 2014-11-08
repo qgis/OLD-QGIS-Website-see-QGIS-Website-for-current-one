@@ -355,6 +355,7 @@
 * John Mcguire
 * John Milligan
 * John Roach
+* John Stalker
 * John Stuart
 * Jonas Svensson
 * Jonathan Gross
