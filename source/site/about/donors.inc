@@ -20,6 +20,7 @@
 * Alejandro Ruete
 * Alejandro Schwedhelm
 * Alejandro Zarate Lupercio
+* Aleks Dushevsky
 * Alessandro Fanna
 * Alessandro Pasotti
 * Alessandro Sarretta
