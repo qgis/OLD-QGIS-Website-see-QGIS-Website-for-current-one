@@ -591,6 +591,7 @@
 * Reg Nelson
 * Reiko Hayashi
 * Ricard Peret Vendrell
+* Riccardo D'amato
 * Riccardo Giaccari
 * Richard Duivenvoorde
 * Richard Kelaart
