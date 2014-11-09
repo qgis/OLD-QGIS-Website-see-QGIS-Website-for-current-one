@@ -175,6 +175,7 @@
 * Dieter Wachsmuth
 * Dimap Sl Felipe Garcia
 * Dirk Pflugmacher
+* Dmitriy Chubarov
 * Dominique Bornhoeft
 * Dominique Pitt
 * Don Williams
