@@ -672,6 +672,7 @@
 * Steven Feldman
 * Sti Sas Di Meo
 * Stig Malmose
+* Stuart Anderson
 * Swampthing Environmental Inc.
 * Sébastien Gombault
 * Tam Nguyen Van
