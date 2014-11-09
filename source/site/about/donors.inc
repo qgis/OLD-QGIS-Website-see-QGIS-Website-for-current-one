@@ -183,6 +183,7 @@
 * Doswald Cornel
 * Douglas Hamilton
 * Douglas Lane
+* Dudley R Hartel
 * Dušan Pavlík
 * Dwayne Chesnut
 * E R Plus
