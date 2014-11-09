@@ -568,6 +568,7 @@
 * Per Sjöstrand
 * Perennial Solutions
 * Peter Brodersen
+* Peter Diggle
 * Peter Löwe
 * Peter Moore
 * Peter Paudits
