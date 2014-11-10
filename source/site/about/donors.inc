@@ -139,6 +139,7 @@
 * Cmi Dr. Daniela Ersch
 * Compagnie Du Vent
 * Cormac Murphy
+* Cornel Doswald
 * Cornel Epuran
 * Craig Arnall
 * Cristian Spieles
