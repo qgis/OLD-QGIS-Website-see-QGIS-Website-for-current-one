@@ -483,6 +483,7 @@
 * Massimo Cuomo
 * Mateusz Loskot
 * Mathias März
+* Mats Norén
 * Matt Foy
 * Matt Wilkie
 * Matteo Ghetta
