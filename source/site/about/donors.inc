@@ -250,6 +250,7 @@
 * Gerhard Spieles
 * Gertjan Geerling
 * GFOSS.it
+* Gian Andrea Riedi
 * Gianluca Massei
 * Gildas Lilbert
 * Giovanna Bartoleschi
