@@ -57,6 +57,15 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
+|bronze| |canal|
+
+`Customer Analytics <http://www.customeranalytics.com/>`_, USA (11.2014-11.2015)
+
+.. |canal| image:: /static/site/about/images/canal.png
+   :width: 200 px
+
+----
+
 |bronze| |urbsol|
 
 `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2015)
