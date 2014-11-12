@@ -411,6 +411,7 @@
 * Klaus Buecherl
 * Klaus Sterzenbach
 * Klaus Weddeling
+* Kominote Project, Inc.
 * Kristian Stadelmayr
 * Kulik Vladimir
 * Kurt Esko
