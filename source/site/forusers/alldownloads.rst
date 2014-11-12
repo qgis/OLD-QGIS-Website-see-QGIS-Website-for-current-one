@@ -302,7 +302,7 @@ Get packages for any Fedora by typing::
 
 Currently Fedora 18 and 19 have QGIS 1.8 while Fedora 20 ships QGIS 2.0.
 
-There is an alternative repository for QGIS 2.4 on Fedora 19 and Fedora 20
+There is an alternative repository for QGIS 2.6 on Fedora 19 and Fedora 20
 ::
 
  sudo wget fedora.vitu.ch/QGIS/qgis.repo -P /etc/yum.repos.d/
