@@ -38,6 +38,7 @@
 * Anders Skoglund
 * Anders Stig-jørgensen
 * Andre Langenberg
+* Andrea Cappelletti
 * Andrea Garelli
 * Andrea Lau
 * Andrea Mazzetti
