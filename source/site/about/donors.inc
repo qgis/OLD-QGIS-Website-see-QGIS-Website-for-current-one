@@ -388,6 +388,7 @@
 * Junji Yamakawa
 * Jussi Rasinmaki
 * Justin Schuetz
+* József Hegedüs
 * K Brock Riedell
 * Kai Kotzian
 * Kamil Svoboda
