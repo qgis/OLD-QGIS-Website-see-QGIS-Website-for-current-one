@@ -616,6 +616,7 @@
 * Riccardo D'amato
 * Riccardo Giaccari
 * Richard Duivenvoorde
+* Richard Houghton
 * Richard Kelaart
 * Richard Reese
 * Rita Carone
