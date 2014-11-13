@@ -494,6 +494,7 @@
 * Mathias März
 * Mats Norén
 * Matt Foy
+* Matt Von Wahlde
 * Matt Wilkie
 * Matteo Ghetta
 * Maurice Mccabe
