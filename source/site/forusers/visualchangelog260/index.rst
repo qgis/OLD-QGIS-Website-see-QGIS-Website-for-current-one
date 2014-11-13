@@ -42,7 +42,7 @@ financial support they provide to this project:
 A current list of donors who have made financial contributions large and
 small to the project can be seen on our `donors
 list <http://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_.
-If you would like to become and official project sponsor, please visit
+If you would like to become an official project sponsor, please visit
 `our sponsorship
 page <http://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for
 details. Sponsoring QGIS helps us to fund our six monthly developer
