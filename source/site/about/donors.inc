@@ -747,6 +747,7 @@
 * Yven Dickhörner
 * Yves Jacolin
 * Zachary Patterson
+* Åenol Ã¶zgÃ¼r
 * Ângela Seixas
 * 吉原 佑
 * 田中 創平
