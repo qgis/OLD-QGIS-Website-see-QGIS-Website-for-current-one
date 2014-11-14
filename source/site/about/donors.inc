@@ -524,6 +524,7 @@
 * Mikhail Sivakov
 * Mikko Suonio
 * Milan Macoun
+* Miss A C Bromley
 * Miss P Bamborough
 * Mohamed Al Merri
 * Mohamed Kamal
