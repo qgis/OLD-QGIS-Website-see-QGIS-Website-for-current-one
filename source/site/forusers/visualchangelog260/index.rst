@@ -113,7 +113,7 @@ We have made a number of improvements to the editor widgets:
 Feature: Optionally use just a subset of fields from the joined layer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You can now use just a subset a related fields when creating a vector
+You can now use just a subset of related fields when creating a vector
 join.
 
 .. figure:: images/entries/14023cf2ee768960d9c4a43da6e2a1624d10b3c3.png
