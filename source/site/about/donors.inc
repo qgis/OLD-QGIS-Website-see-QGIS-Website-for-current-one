@@ -442,6 +442,7 @@
 * Luciano Sabiu
 * Luigi Brazzini
 * Luigi Josi
+* Luis Escalante Galan
 * Luis Fermin Turiel Peredo
 * Luis G Podgornik
 * Lukas Paysen-petersen
