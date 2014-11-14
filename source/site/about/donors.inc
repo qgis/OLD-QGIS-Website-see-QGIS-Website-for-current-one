@@ -596,6 +596,7 @@
 * Philippe Blanc
 * Piergiorgio Rocchi
 * Piero Rubiu
+* Pietro Blu Giandonato
 * Planetek Italia S.r.l
 * Productive Water Services
 * Qinli Huang
@@ -747,7 +748,7 @@
 * Yven Dickhörner
 * Yves Jacolin
 * Zachary Patterson
-* Åenol Ã¶zgÃ¼r
 * Ângela Seixas
+* Åenol Ã¶zgÃ¼r
 * 吉原 佑
 * 田中 創平
