@@ -116,6 +116,7 @@
 * Carsten Fink
 * Carsten Rymon-lipinski
 * Casper Peter Szilas
+* Chad Otto
 * Charlton Coles
 * Chartwell Consultants Ltd
 * Chase Sherret
