@@ -653,6 +653,7 @@
 * Sakari Salonen
 * Sake Wagenaar
 * Salvatore Livreri Console
+* Samuel Maurer
 * Sander Huizing
 * Sandra Torres
 * Sarah Cottam
