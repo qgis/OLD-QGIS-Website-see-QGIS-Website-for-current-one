@@ -523,6 +523,7 @@
 * Michael Pedini
 * Michael Schweizer
 * Michał Czepkiewicz
+* Michel Bollore
 * Michele Beneventi
 * Miguel Fernández Astudillo
 * Miguel Iturralde
