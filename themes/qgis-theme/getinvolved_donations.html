@@ -9,7 +9,7 @@
                 <p>{{ _('QGIS is developed by a team of dedicated
                     volunteers and organisations.') }}</p>
                 <p>{{ ('We rely on donations for much of our funding. If you would like to support us donations are very welcome.
-                        Donations can be made by credit card, Flattr, by PayPal, or by electronic funds transfer.') }}
+                        Donations can be made by electronic funds transfer, by credit card, or by PayPal.') }}
                 </p>
                 <p><strong>{{ _('You can get involved!') }}</strong></p>
 
@@ -33,13 +33,10 @@
 
                     <ul id="subnav">
                         <li>
-                            <a href="#paypal">{{ _('Credit card and Paypal') }}</a>
-                        </li>
-                        <li>
                             <a href="#bank">{{ _('Bank Transfer') }}</a>
                         </li>
                         <li>
-                            <a href="#flattr">{{ _('Flattr') }}</a>
+                            <a href="#paypal">{{ _('Credit card and Paypal') }}</a>
                         </li>
                     </ul>
                 </nav>
@@ -48,36 +45,9 @@
     </div>
 </section>
 
-<section class="sub-landing-page main" id="paypal">
+<section class="sub-landing-page main" id="bank">
     <div class="container-fluid">
         <div class="row-fluid">
-            <div class="offset1 span5">
-                <h3>{{ _('Paypal') }}</h3>
-                <p>{{ _("You can use Paypal to donate using your own credit card. 
-                    The payment is processed by PayPal but you don't need to have a PayPal account 
-                    or sign-up for one if you are paying by credit card.") }}</p>
-                <p>{{ _('You can also use your own Paypal account to donate.') }}</p>
-                <!--<h4 class="subsection-link"><a href="{{ pathto('site/forusers/support') }}">{{ _('List of QGIS Support Channels') }}</a></h4>-->
-                <div>
-                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                    <input type="hidden" name="cmd" value="_s-xclick">
-                    <input type="hidden" name="hosted_button_id" value="27GAYFKF4U5EE">
-                    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
-                        border="0" name="submit" alt="{{ _('Donate via PayPal.com') }}">
-                    <input type="hidden" name="lc" value="us">
-                    <img alt="" border="0" align="center" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                    <!--<a href="http://www.qgis.org/en/sponsorship.html"><div style="margin-left:7px">more information</div></a>-->
-                    </form>
-                </div>
-            </div>
-            <div class="span1"></div>
-            <div class="span4">
-                <img src="../../_static/images/paypal-logo.jpg" class="text-center background-mask non-mobile-image wd" alt="participate icon" />
-            </div>
-            <div class="span1"></div>
-        </div>
-        <hr>
-        <div class="row-fluid" id="bank">
             <div class="offset1 span4">
                 <img src='../../_static/images/get-involved-translate.png' class="text-center background-mask non-mobile-image wd" alt="translate bubbles icon" />
             </div>
@@ -104,22 +74,33 @@ Bank address: Hauptgasse 49,
             <div class="span1"></div>
         </div>
         <hr>
-        <div class="row-fluid" id="flattr">
+        <div class="row-fluid" id="paypal">
             <div class="offset1 span5">
-                <h3>{{ _('Flattr') }}</h3>
-                <p>{{ _('Flattr is a way to make donations to creators or developers. Read about it via the button below.') }}</p>
-                <p>
-<!--                    <script id='fbbm1gq'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=qgis&button=compact&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbbm1gq');</script>  -->
-                    <script id='fb3thlv'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=qgis&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=75;f.width=100;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fb3thlv');</script>
-                </p>
+                <h3>{{ _('Paypal') }}</h3>
+                <p>{{ _("You can use Paypal to donate using your own credit card. 
+                    The payment is processed by PayPal but you don't need to have a PayPal account 
+                    or sign-up for one if you are paying by credit card.") }}</p>
+                <p>{{ _('You can also use your own Paypal account to donate.') }}</p>
+                <!--<h4 class="subsection-link"><a href="{{ pathto('site/forusers/support') }}">{{ _('List of QGIS Support Channels') }}</a></h4>-->
+                <div>
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                    <input type="hidden" name="cmd" value="_s-xclick">
+                    <input type="hidden" name="hosted_button_id" value="27GAYFKF4U5EE">
+                    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
+                        border="0" name="submit" alt="{{ _('Donate via PayPal.com') }}">
+                    <input type="hidden" name="lc" value="us">
+                    <img alt="" border="0" align="center" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                    <!--<a href="http://www.qgis.org/en/sponsorship.html"><div style="margin-left:7px">more information</div></a>-->
+                    </form>
+                </div>
             </div>
             <div class="span1"></div>
             <div class="span4">
-                <!--<img src='https://static3.flattr.net/_static/styles/img/aut11/logo.png' class="text-center background-mask non-mobile-image wd" alt="plugins puzzle icon" />-->
-                <img src="../../_static/images/flattr-logo.jpg" class="text-center background-mask non-mobile-image wd" alt="plugins puzzle icon" />
+                <img src="../../_static/images/paypal-logo.jpg" class="text-center background-mask non-mobile-image wd" alt="participate icon" />
             </div>
             <div class="span1"></div>
         </div>
+        <hr>
     </div>
 </section>
 <section class="sub-landing-page">
