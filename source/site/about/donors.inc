@@ -336,6 +336,7 @@
 * Jasja Dekker
 * Jason Jorgenson
 * Jason Millard
+* Jayanta Ganguly
 * Jean Denis Giguère
 * Jean Francois Mas Caussel
 * Jean Marc Michalowski
