@@ -153,6 +153,7 @@
 * Dan Karran
 * Dan Wilt
 * Daniel Marin
+* Daniel Miranda
 * Daniel Silva Veras
 * Daniel Wiesmann
 * Daniele Alami
