@@ -149,6 +149,7 @@
 * Cristian Stoleriu
 * D R Arbib
 * D V Sypersma
+* Damien Bachmann
 * Dan Homerick
 * Dan Karran
 * Dan Wilt
