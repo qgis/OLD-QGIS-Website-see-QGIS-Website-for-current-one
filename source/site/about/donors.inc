@@ -174,6 +174,7 @@
 * David Vaarwerk
 * Dc-3 Dreams, Sp
 * De Pietri Stefano
+* Deepak Patni
 * Deyan Vasilev
 * Dheeraj Chand
 * Diane Perez
