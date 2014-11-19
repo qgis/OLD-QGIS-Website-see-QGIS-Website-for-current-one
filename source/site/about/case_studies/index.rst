@@ -1,7 +1,4 @@
-
 .. _QGIS-case-studies:
-
-
 
 ============
 Case Studies
@@ -40,7 +37,7 @@ List of Case Studies
 
 .. toctree::
     :maxdepth: 1
-    
+
     [2013/08] The Burgundy Historical Landscapes Working Group by Scott Madry <france_burgundy_region>
     [2013/08] Quantarctica: An Antarctic GIS package by Anders Skoglund and Kenichi Matsuoka <antarctica>
     [2013/03] QGIS for monitoring tigers using camera traps in Nameri Tiger Reserve, Assam, India by Rajendra  G Garawad <india_assam>
@@ -67,8 +64,8 @@ List of Case Studies
 
 .. toctree::
     :maxdepth: 1
-    
-    [2011/09] QGIS at high school - urban green spaces in Rada Tilly Coastal Town, Argentina by Mauro Novara and Alberto Vázquez <argentinia_chubut>
+
+    [2011/09] QGIS at high school --- urban green spaces in Rada Tilly Coastal Town, Argentina by Mauro Novara and Alberto Vázquez <argentinia_chubut>
     [2011/04] The use of QGIS in the Geodata Infrastructure of the City of Uster by Andreas Neumann <suisse_uster>
     [2011/03] Using a free GIS at Jaime Moniz Secondary School: QGIS by Fátima Vale <portugal_funchal>
     [2011/01] QGIS and GRASS in Local Government Bushfire Hazard Mapping by Nathan Woodrow <australia_queens>
@@ -78,19 +75,19 @@ List of Case Studies
 
 .. toctree::
     :maxdepth: 1
-    
+
     [2010/11] QGIS and GRASS applied to paleontological survey in Western Portugal by André Mano <portugal_torres>
     [2010/11] QGIS as major GIS software in the Laboratory on Experimental and Applied Geography by Jakub Trojan <czech_brno>
     [2010/07] Working with QGIS in a spatial data infrastructure of Jalisco in Mexico by Carlos Ruiz <mexico_jalisco>
     [2010/07] QGIS and GRASS in Biogeographical Research in Spain by Marcia Barbosa <portugal_evora>
-    [2010/06] QGIS - an interesting instrument for forestry planning concepts at local and regional level in Switzerland by Raphael Häner <suisse_basel>
+    [2010/06] QGIS --- an interesting instrument for forestry planning concepts at local and regional level in Switzerland by Raphael Häner <suisse_basel>
 
 2009
 ....
 
 .. toctree::
     :maxdepth: 1
-    
+
     [2009/05] QGIS in the governmental FOSSGIS stack of the Canton of Solothurn in Switzerland by Dr. Horst Düster <suisse_solothurn>
 
 .. _`QGIS for monitoring tigers using camera traps in Nameri Tiger Reserve`: ./india_assam.html
@@ -112,5 +109,5 @@ List of Case Studies
 .. _`QGIS as major GIS software in the Laboratory on Experimental and Applied Geography`: ./czech_brno.html
 .. _`Working with QGIS in a spatial data infrastructure of Jalisco`: ./mexico_jalisco.html
 .. _`QGIS and GRASS in Biogeographical Research in Spain`: ./portugal_evora.html
-.. _`QGIS - an interesting instrument for forestry planning`: ./suisse_basel.html
+.. _`QGIS --- an interesting instrument for forestry planning`: ./suisse_basel.html
 .. _`QGIS in the governmental FOSSGIS stack`: ./suisse_solothurn.html

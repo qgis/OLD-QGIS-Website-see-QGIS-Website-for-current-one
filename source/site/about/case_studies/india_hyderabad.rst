@@ -1,7 +1,6 @@
-
-==================================================
+===========================================
 QGIS Trainings at NIRD Jaipur Centre, India
-==================================================
+===========================================
 
 
 .. figure:: ./images/india_hyderabad1.png
@@ -22,9 +21,9 @@ QGIS is used for all GIS training courses
 
    QGIS training course at NIRD Jaipur Centre
 
-Since creation of NIRD Jaipur centre, only QuantumGIS is being used for all GIS trainings at the centre. Further it is being messaged and advised in all trainings that no commercial GIS software should be purchased at District (administrative unit in India after Nation and State) and below, if real requirement is not felt and this saving may be used for purchase of hardware like GPSs, computers etc. 
+Since creation of NIRD Jaipur centre, only QuantumGIS is being used for all GIS trainings at the centre. Further it is being messaged and advised in all trainings that no commercial GIS software should be purchased at District (administrative unit in India after Nation and State) and below, if real requirement is not felt and this saving may be used for purchase of hardware like GPSs, computers etc.
 
-There is a question why QGIS only when other software like uDig, MapWindow, gvSIG, GRASS are also there. The answer lies in the facts that QGIS is an OSGeo incubated project, less complex, its development is very fast and associated with huge community of users and developers and lastly authors expertise. With its latest version of 1.8, software is capable of satisfying the all needs of grass root rural development executors in India with satisfying the present queries and wishes for future. 
+There is a question why QGIS only when other software like uDig, MapWindow, gvSIG, GRASS are also there. The answer lies in the facts that QGIS is an OSGeo incubated project, less complex, its development is very fast and associated with huge community of users and developers and lastly authors expertise. With its latest version of 1.8, software is capable of satisfying the all needs of grass root rural development executors in India with satisfying the present queries and wishes for future.
 
 The applications of software during training are generally concentrated on Watershed and Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS) as these two are land based flagships of Government of India. Local Open Source Raster and Vector data are used in exercises. Participants are encouraged to come with their own or departmental data if available to work. Training is provided in lab equipped with 15 computers of i5, 8GB RAM and Windows7 OS. Per training number of trainees remains between 20-30.
 
@@ -35,15 +34,15 @@ The applications of software during training are generally concentrated on Water
 
    Conducted QGIS training courses and participants
 
-General topics covered are basic introduction to the GIS and QGIS software , major tool bars, plug-in structure, geo-referencing, creation/editing of vector data, clip (Raster/Vector), merge, terrain analysis, contours, .csv to .shp layer, .shp to .kml and vice versa, handling GPS data, Interpolation, table editing/query, field calculator, print composer etc. and some basic analysis on vector data. Apart from introduction to various help links available, a LinkedIn group for participants has been created for post training support. 
+General topics covered are basic introduction to the GIS and QGIS software , major tool bars, plug-in structure, geo-referencing, creation/editing of vector data, clip (Raster/Vector), merge, terrain analysis, contours, .csv to .shp layer, .shp to .kml and vice versa, handling GPS data, Interpolation, table editing/query, field calculator, print composer etc. and some basic analysis on vector data. Apart from introduction to various help links available, a LinkedIn group for participants has been created for post training support.
 
-Number of QGIS Based trainings conducted by author with participants’ details is shown in the table:
+Number of QGIS-based trainings conducted by author with participants’ details is shown in the table:
 
 Success
 =======
 
-Every month training is conducted with 20-30 participants so this number is increasing every month. Training feedbacks are remaining very positive and encouraging. Certificates are provided to the participants after completion of training. 
-Presently handouts are being supplied to the participants in hard copy and tutorial, software and practice data in soft copies but plan is there to create DVDs containing screen-recorded lectures/demo of various topics in Hindi and English language.  In future certificate and diploma programmes may also be initiated.
+Every month training is conducted with 20-30 participants so this number is increasing every month. Training feedbacks are remaining very positive and encouraging. Certificates are provided to the participants after completion of training.
+Presently handouts are being supplied to the participants in hard copy and tutorial, software and practice data in soft copies but plan is there to create DVDs containing screen-recorded lectures/demo of various topics in Hindi and English language. In future certificate and diploma programmes may also be initiated.
 
 Author
 ======
@@ -52,7 +51,7 @@ Author
    :alt: Conducted QGIS training courses and participants
    :scale: 60%
    :align: left
-   
+
    H K Solanki
 
 This article was contributed in July 2012 by H K Solanki, Assistant professor, NIRD Jaipur centre, Website: http://www.nird.org.in

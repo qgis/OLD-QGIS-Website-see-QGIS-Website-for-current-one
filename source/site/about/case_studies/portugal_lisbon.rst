@@ -1,9 +1,9 @@
-
-=======================================================================================
+================================================================================
 Using QGIS to Map Hotspot Areas for Biodiversity and Ecosystem Services (HABEaS)
-=======================================================================================
+================================================================================
 
-HABEaS - Hotspot Areas for Biodiversity and Ecosystem Services is an online geographic information system (WebGIS) that was created by the `Centre for Applied Ecology <http://www.isa.utl.pt/ceabn/content/2/123/homepage>`_ (`Instituto Superior de Agronomia <http://www.isa.utl.pt/home/>`_, Technical University of Lisbon), Worldwide Fund for Nature (WWF) and Faunalia.
+HABEaS --- Hotspot Areas for Biodiversity and Ecosystem Services is an online geographic information system (WebGIS) that was created by the `Centre for Applied Ecology <http://www.isa.utl.pt/ceabn/content/2/123/homepage>`_ (`Instituto Superior de Agronomia <http://www.isa.utl.pt/home/>`_, Technical University of Lisbon), Worldwide Fund for Nature (WWF) and Faunalia.
+
 The main goal of this platform is to provide free access to a wide variety of data on biodiversity and ecosystem services for the Mediterranean Basin that was scattered across a number of public and private entities. Presently HABEaS WebGIS covers the south of Portugal, but by the end of 2012/early 2013 it will be expanded to the north of Portugal and also to the Tuzla Canton in Bosnia & Herzegovina. In the long run we want to expand this tool to the entire Mediterranean Basin.
 
 .. figure:: ./images/portugal_lisbon1.jpg
@@ -32,6 +32,7 @@ Conclusions
 ===========
 
 QGIS is easy to use and has very powerful geoprocessing capabilities. The integration of GRASS GIS and SAGA GIS tools through SEXTANTE Toolbox allowed us to perform a number of complex spatial analyzes and to pipeline them using SEXTANTE Modeler. It was also very easy to produce high quality maps with the new Print Composer and to export them in SVG format for further editing with Inkscape which is a powerful open source vector graphics editor.
+
 In general, our experience with QGIS has been very positive, the software runs smoothly and the community is very active and supportive. Reported bugs are usually resolved shortly after being reported by users and QGIS developers are always willing to listen to “end user's” needs and suggestions.
 
 Author
