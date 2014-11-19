@@ -262,6 +262,7 @@
 * Gianluca Massei
 * Gildas Lilbert
 * Giovanna Bartoleschi
+* Giovanni Di Piazza
 * Giovanni Fossà
 * Giovanni Pecora
 * Giuseppe Patti
