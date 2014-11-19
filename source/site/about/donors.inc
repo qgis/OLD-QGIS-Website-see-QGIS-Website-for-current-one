@@ -258,6 +258,7 @@
 * Gertjan Geerling
 * GFOSS.it
 * Gian Andrea Riedi
+* Giancarlo Gualato
 * Gianluca Massei
 * Gildas Lilbert
 * Giovanna Bartoleschi
