@@ -360,6 +360,7 @@
 * Jiří Bělohlávek
 * Joachim Aurbacher
 * Joanne Kaye
+* Joel Sholtes
 * Joern Struwe
 * Johannes De Groeve
 * Johannes Lauber
