@@ -751,6 +751,7 @@
 * Vincenzo Sale
 * Vitor Pereira
 * Vittorio Dell'Aquila
+* Voyages à Vélo
 * Walter Hesse
 * Wasin Bukaew
 * Wayne Bulmer
