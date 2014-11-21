@@ -681,6 +681,7 @@
 * Sian Grant
 * Silvia Terziotti
 * Silvio Grosso
+* Simon Bohnenblust
 * Simone Bianchi
 * Simone Circosta
 * Soma Horvath
