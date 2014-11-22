@@ -287,6 +287,7 @@
 * Hans Rudolf Wettstein
 * Harald Grote
 * Havard Gaseidnes
+* Heather Holmes
 * Hebenor Bermudez Banchero
 * Hector Orengo
 * Heiko Schmüser
