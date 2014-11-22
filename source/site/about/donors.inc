@@ -310,6 +310,7 @@
 * Håvard Gåseidnes
 * Ian Allan
 * Ian H Townend
+* Ian Reid
 * Ian Wusstig
 * Igor Zabelin
 * Imanol Arruti Ezeitza
