@@ -467,6 +467,7 @@
 * Lukas Schack
 * Lukasz Tracewski
 * Luke Stull
+* Luke Taylor
 * Lutz Bornschein
 * M De Bresser
 * Maciej Latek
