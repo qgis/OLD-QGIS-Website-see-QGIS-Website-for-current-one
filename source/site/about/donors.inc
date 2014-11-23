@@ -135,6 +135,7 @@
 * Christine Henry
 * Christoph Rinne
 * Christoph Rupprecht
+* Christopher Harding
 * Christopher Kahler
 * Christopher Meade
 * Christopher Thorpe-dixon
