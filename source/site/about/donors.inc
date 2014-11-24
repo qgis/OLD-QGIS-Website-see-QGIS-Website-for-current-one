@@ -706,6 +706,7 @@
 * Steph Nelson
 * Stephan Holl
 * Stephen Frank
+* Stephen Hoskins
 * Stephen Madama
 * Stephen Scott
 * Stephen Siedo
