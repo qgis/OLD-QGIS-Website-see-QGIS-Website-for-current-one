@@ -203,6 +203,7 @@
 * Ekiden Concept
 * Elogika Di Fanna Alessandro
 * Els Keunen
+* Emanuele Paroni
 * Emanuele Zamprogno
 * Emilie Lefevre
 * Enrico Antonio Chiaradia
