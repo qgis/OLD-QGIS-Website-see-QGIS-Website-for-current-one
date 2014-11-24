@@ -65,6 +65,8 @@ make a big difference and help to reach important project goals!
 If you wish to send us a larger donation, you are strongly encouraged to use
 the bank account rather than PayPal.
 
+Donations to QGIS are tax-deductible in several countries. Please refer to your local tax office for details.
+
 What is your benefit sponsoring the QGIS Development?
 =====================================================
 
