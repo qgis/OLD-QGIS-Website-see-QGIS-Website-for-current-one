@@ -70,6 +70,7 @@
 * Antonio Ceribelli
 * Antonio Locandro Herrera
 * Antonio Vitulano
+* Ari T K Ikonen
 * Aris Dimopoulos
 * Arni Geirsson
 * Arsin Gruenig
