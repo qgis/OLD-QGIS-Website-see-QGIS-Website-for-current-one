@@ -198,6 +198,7 @@
 * Dustin Benton
 * Dušan Pavlík
 * Dwayne Chesnut
+* Dwi Hariyanto
 * E R Plus
 * Ecotrust
 * Ekiden Concept
