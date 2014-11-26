@@ -274,6 +274,7 @@
 * Giovanni Pecora
 * Giuseppe Patti
 * Glasic S.r.l.
+* Glen Lowrie
 * Grant Fisher
 * Grant Ogilvie
 * GreenInfo Network
