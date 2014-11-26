@@ -648,6 +648,7 @@
 * Ricard Peret Vendrell
 * Riccardo D'amato
 * Riccardo Giaccari
+* Richard Conolly
 * Richard Duivenvoorde
 * Richard Houghton
 * Richard Kelaart
