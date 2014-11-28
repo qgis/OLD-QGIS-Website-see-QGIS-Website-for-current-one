@@ -96,6 +96,7 @@
 * Benjamin Allen
 * Benjamin Smith
 * Benoit David
+* Benoit Vivier
 * Bernd Vogelgesang
 * Bernhard Seubert
 * Bill Howard
