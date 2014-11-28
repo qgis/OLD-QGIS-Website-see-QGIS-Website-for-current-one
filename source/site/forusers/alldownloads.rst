@@ -469,7 +469,7 @@ Android
 =======
 
 Alpha and nightly builds as well as further documentation can be obtained at
-http://android.qgis.org
+http://hub.qgis.org/android-qgis/Download/
 
 .. _warning:
 
