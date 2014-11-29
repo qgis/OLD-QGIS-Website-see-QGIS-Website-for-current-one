@@ -776,6 +776,7 @@
 * Uros Bernik
 * Valerio Franchino
 * Vincenzo Sale
+* Vito Latorraca
 * Vitor Pereira
 * Vittorio Dell'Aquila
 * Vladimir Vrabel
