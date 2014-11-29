@@ -38,6 +38,7 @@
 * Amedeo Fadini
 * Amira El-shal
 * Ana Carolina Coca Acosta
+* Anastasios Anagnostopoulos
 * Anders Skoglund
 * Anders Stig-jørgensen
 * Andre Langenberg
