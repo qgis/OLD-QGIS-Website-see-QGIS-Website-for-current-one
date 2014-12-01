@@ -701,6 +701,7 @@
 * Sebastian Badowski
 * Sebastian Cionoiu
 * Sergey Khokhlov
+* Servulo Costa
 * Shane Moran-kelly
 * Shapesmart
 * Sian Grant
