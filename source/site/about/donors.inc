@@ -162,6 +162,7 @@
 * Dan Wilt
 * Daniel Marin
 * Daniel Miranda
+* Daniel Rich
 * Daniel Silva Veras
 * Daniel Wiesmann
 * Daniele Alami
