@@ -265,12 +265,6 @@ msgstr ""
 msgid "Android"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:471
-msgid ""
-"Alpha and nightly builds as well as further documentation can be obtained at"
-" http://android.qgis.org"
-msgstr ""
-
 #: ../../source/site/forusers/alldownloads.rst:96
 msgid ""
 "In case of keyserver errors add the qgis.org repository public key to your "
@@ -325,30 +319,6 @@ msgstr ""
 #: ../../source/site/forusers/alldownloads.rst:303
 msgid ""
 "Currently Fedora 18 and 19 have QGIS 1.8 while Fedora 20 ships QGIS 2.0."
-msgstr ""
-
-#: ../../source/site/forusers/alldownloads.rst:353
-msgid ""
-"Latest openSUSE package called qgis2 is available for 12.2, 12.3, 13.1 "
-"Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
-"installation manager together with the openSUSE VERSION you work with (e.g. "
-"openSUSE_13.1). ::"
-msgstr ""
-
-#: ../../source/site/forusers/alldownloads.rst:368
-msgid ""
-"A regularly updated development package from qgis master called qgis-master "
-"is available for 12.2, 12.3, 13.1, Factory and Tumbleweed (32 and 64bit). "
-"Add the following repository to your installation manager together with the "
-"openSUSE VERSION you work with (e.g. openSUSE_13.1). ::"
-msgstr ""
-
-#: ../../source/site/forusers/alldownloads.rst:381
-msgid ""
-"Old OpenSUSE package for QGIS 1.8 is called qgis. It is available for 12.1 "
-"and 12.2 (32 and 64bit). Add the following repository to your installation "
-"manager together with the openSUSE VERSION you work with (e.g. "
-"openSUSE_12.2). ::"
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:11
@@ -478,12 +448,6 @@ msgid ""
 "have been warned!"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:305
-msgid ""
-"There is an alternative repository for QGIS 2.4 on Fedora 19 and Fedora 20 "
-"::"
-msgstr ""
-
 #: ../../source/site/forusers/alldownloads.rst:171
 msgid "Utopic::"
 msgstr ""
@@ -505,6 +469,73 @@ msgid ""
 "Add the lines for one of the repositories to your ``/etc/apt/sources.list`` "
 "file (see below to choose the appropriate one) and type::"
 msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:305
+msgid ""
+"There is an alternative repository for QGIS 2.6 on Fedora 19 and Fedora 20 "
+"::"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:353
+msgid ""
+"Latest openSUSE package called qgis2 is available for 12.3, 13.1, 13.2, "
+"Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
+"installation manager together with the openSUSE VERSION you work with (e.g. "
+"openSUSE_13.2). ::"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:368
+msgid ""
+"A regularly updated development package from qgis master called qgis-master "
+"is available for 12.3, 13.1, 13.2, Factory and Tumbleweed (32 and 64bit). "
+"Add the following repository to your installation manager together with the "
+"openSUSE VERSION you work with (e.g. openSUSE_13.1). ::"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:381
+msgid ""
+"Old OpenSUSE package for QGIS 1.8 is called qgis. It is only available for "
+"12.3 (32 and 64bit). Add the following repository to your installation "
+"manager together with the openSUSE VERSION you work with (e.g. "
+"openSUSE_12.3). ::"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:471
+msgid ""
+"Alpha and nightly builds as well as further documentation can be obtained at"
+" http://hub.qgis.org/android-qgis/Download/"
+msgstr ""
+
+#~ msgid ""
+#~ "Alpha and nightly builds as well as further documentation can be obtained at"
+#~ " http://android.qgis.org"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Latest openSUSE package called qgis2 is available for 12.2, 12.3, 13.1 "
+#~ "Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
+#~ "installation manager together with the openSUSE VERSION you work with (e.g. "
+#~ "openSUSE_13.1). ::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A regularly updated development package from qgis master called qgis-master "
+#~ "is available for 12.2, 12.3, 13.1, Factory and Tumbleweed (32 and 64bit). "
+#~ "Add the following repository to your installation manager together with the "
+#~ "openSUSE VERSION you work with (e.g. openSUSE_13.1). ::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Old OpenSUSE package for QGIS 1.8 is called qgis. It is available for 12.1 "
+#~ "and 12.2 (32 and 64bit). Add the following repository to your installation "
+#~ "manager together with the openSUSE VERSION you work with (e.g. "
+#~ "openSUSE_12.2). ::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "There is an alternative repository for QGIS 2.4 on Fedora 19 and Fedora 20 "
+#~ "::"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "The ubuntugis project provides newer versions of various FOSSGIS packages, "
