@@ -64,6 +64,7 @@
 * Angel Muñoz
 * Anna Lazzarini
 * Anna Torrent Martinez
+* Ansgar Schäfer
 * Anthony Crowley
 * Anthony Pezzotti
 * Anthony Van Zuylen
