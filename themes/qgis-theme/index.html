@@ -134,7 +134,7 @@
     <div class="container">
         <div class="span6">
             <p><a href="{{ pathto('site/forusers/download') }}" class="btn btn-large btn-success btn-flat">{{ _('Download Now') }}</a></p>
-            <p class="muted">{{ _('Version 2.6 Brighton') }}</p>
+            <p class="muted">{{ _('Version') }} {{ release|e }}</p>
         </div>
         <div class="span5">
             <p><a href="{{ pathto('site/getinvolved/index') }}#donate" class="btn btn-large btn-success btn-flat">{{ _('Support QGIS') }}</a></p>
@@ -274,18 +274,6 @@
         </header>
         <div class="row">
             <a href="{{ pathto('site/about/sponsorship') }}">
-               <!--<div class="span6">
-                    <div class="sponsor">
-                        <img src="{{pathto('_images/gold.png', 1)}}" width="90px" alt="">
-                        <h5>{{ _('Gold Sponsor') }}</h5>
-                    </div>
-                </div>
-                <div class="span6">
-                    <div class="sponsor">
-                        <img src="{{pathto('_images/silver.png', 1)}}" width="90px" alt="">
-                        <h5>{{ _('Silver Sponsors') }}</h5>
-                    </div>
-                </div>-->
                 <div class="span12">
                     <div class="sponsor">
                         <img src="{{ pathto('_static/images/sponsors.png', 1) }}" width="900px" alt="">
