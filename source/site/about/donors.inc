@@ -321,6 +321,7 @@
 * Hugo Martins
 * Hugo Rubio
 * Hugo Sørensen
+* Håvard Berg
 * Håvard Gåseidnes
 * Ian Allan
 * Ian H Townend
