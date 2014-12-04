@@ -25,19 +25,14 @@ hand!
 Finally we would like to thank our official sponsors for the invaluable
 financial support they provide to this project:
 
--  **GOLD Sponsor: `Asia Air Survey,
-   Japan <http://www.asiaairsurvey.com/>`_**
--  SILVER Sponsor: `Sourcepole AG,
-   Switzerland <http://www.sourcepole.com/>`_
--  SILVER Sponsor: `State of Vorarlberg,
-   Austria <http://www.vorarlberg.at/>`_
-   BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_
+-  **GOLD Sponsor: `Asia Air Survey, Japan <http://www.asiaairsurvey.com/>`_**
+-  SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_
+-  SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_
+-  BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_
 -  BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_
 -  BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_
--  BRONZE Sponsor: `www.openrunner.com,
-   France <http://www.openrunner.com>`_
--  BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner),
-   Germany <http://www.eschenlaub.de/>`_
+-  BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_
+-  BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www.eschenlaub.de/>`_
 
 A current list of donors who have made financial contributions large and
 small to the project can be seen on our `donors
