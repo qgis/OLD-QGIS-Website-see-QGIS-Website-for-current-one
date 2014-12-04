@@ -545,6 +545,7 @@
 * Maurice Mccabe
 * Maximilian Lohse
 * Mercedes Rubi Jimenez
+* Michael Barr
 * Michael Corcoran
 * Michael Gieding
 * Michael Goldstein
