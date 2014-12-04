@@ -62,7 +62,7 @@ goes into the project. These sponsors are listed below with our thanks!
 `Customer Analytics <http://www.customeranalytics.com/>`_, USA (11.2014-11.2015)
 
 .. |canal| image:: /static/site/about/images/canal.png
-   :width: 200 px
+   :width: 100 px
 
 ----
 
