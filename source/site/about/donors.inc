@@ -14,6 +14,7 @@
 * Agustin Graterole
 * Aileen Heal
 * AivlaSoft GmbH
+* Ajosenildo Nunes Da Silva
 * Alain Brunon
 * Alan Beck
 * Alan Fielding
