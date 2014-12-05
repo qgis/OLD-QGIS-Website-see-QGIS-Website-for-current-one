@@ -61,6 +61,7 @@
 * Andrew Mcaninch
 * Andrew Mckenna-foster
 * Andrew Rigby
+* Andrew Simmons
 * Andrew Smith
 * Andrey Kuvshinov
 * André Barriguinha
