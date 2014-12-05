@@ -755,6 +755,7 @@
 * Test Gurus
 * Thaddäus Schneider
 * Thanasis Karathanasis
+* The Ip Voice
 * THEBFL
 * Thibaut Goelff
 * Thierry Gonon
