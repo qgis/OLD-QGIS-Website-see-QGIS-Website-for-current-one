@@ -305,6 +305,7 @@
 * H Szutkowski
 * Hans Rudolf Wettstein
 * Harald Grote
+* Hartmut Schlepps
 * Havard Gaseidnes
 * Heather Holmes
 * Hebenor Bermudez Banchero
