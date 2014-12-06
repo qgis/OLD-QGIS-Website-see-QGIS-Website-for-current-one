@@ -27,7 +27,7 @@ the project.
 With your donations we are able to:
 
 * fund developer meetings, starting from that in Vienna, autumn 2009. Users donations contributed effectively to the great success of the meetings, allowing us to fund travel and accommodation costs of key developers
-* support pre-release bugfixing, in order to imporve the reliability of each new QGIS version.
+* support pre-release bugfixing, in order to improve the reliability of each new QGIS version.
 
 How can you support the QGIS Development
 ========================================
