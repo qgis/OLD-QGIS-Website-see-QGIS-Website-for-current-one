@@ -795,6 +795,7 @@
 * Urban Modelling Solutions N A Matthew
 * Uros Bernik
 * Valerio Franchino
+* Vincent Verweij
 * Vincenzo Sale
 * Vito Latorraca
 * Vitor Pereira
