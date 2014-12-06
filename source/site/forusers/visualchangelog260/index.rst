@@ -179,7 +179,7 @@ completed. This includes:
    does not contain entries for items not currently in the map view. It
    is available in the main map legend and in map composer and for WMS
    layers.
--  Rule-based renderer legends can now be displayed in in a pseudo-tree
+-  Rule-based renderer legends can now be displayed in a pseudo-tree
 
 .. figure:: images/entries/363048a7d08ac76d35463abbef514c65031922e7.png
    :align: center
