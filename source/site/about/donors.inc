@@ -718,6 +718,7 @@
 * Servulo Costa
 * Shane Moran-kelly
 * Shapesmart
+* Sheng Ye
 * Sian Grant
 * Silvia Terziotti
 * Silvio Grosso
