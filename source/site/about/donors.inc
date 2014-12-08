@@ -103,6 +103,7 @@
 * Benjamin Smith
 * Benoit David
 * Benoit Vivier
+* Bernardo Portilla
 * Bernd Vogelgesang
 * Bernhard Seubert
 * Bill Howard
