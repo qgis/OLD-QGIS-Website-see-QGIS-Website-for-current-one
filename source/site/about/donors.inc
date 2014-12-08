@@ -187,6 +187,7 @@
 * David Sabalete Valenzuela
 * David Squires
 * David Vaarwerk
+* Davis Surveys
 * Dc-3 Dreams, Sp
 * De Pietri Stefano
 * Deepak Patni
