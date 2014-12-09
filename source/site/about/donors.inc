@@ -689,6 +689,7 @@
 * Roberta Benetti
 * Roberto Berchi
 * Roberto Facoetti
+* Roberto Sattanino
 * Robin Watson
 * Roel Van De Wetering
 * Rolland Paillat
