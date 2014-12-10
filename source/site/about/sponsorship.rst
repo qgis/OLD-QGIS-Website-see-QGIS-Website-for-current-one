@@ -57,9 +57,19 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
+|bronze| |wwgios|
+
+`Faculty of Geology, Geophysics and Environmental Protection,
+AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Poland (11.2014-11.2015)
+
+.. |wwgios| image:: /static/site/about/images/wwgios.png
+   :width: 200 px
+
+----
+
 |bronze| |canal|
 
-`Customer Analytics <http://www.customeranalytics.com/>`_, USA (11.2014-11.2015)
+`Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
 
 .. |canal| image:: /static/site/about/images/canal.png
    :width: 100 px
