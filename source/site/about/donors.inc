@@ -700,6 +700,7 @@
 * Rosario Negusse
 * Ross Mcdonald
 * Rosário Dilo
+* Ruben Jarych
 * Rubén Darío Godoy
 * Rui Pedro Henriques
 * Russel Taylor
