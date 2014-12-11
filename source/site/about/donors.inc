@@ -407,6 +407,7 @@
 * John Milligan
 * John Nethery
 * John Roach
+* John Sowles
 * John Stalker
 * John Stuart
 * Jonas Svensson
