@@ -818,6 +818,7 @@
 * Wasin Bukaew
 * Wayne Bulmer
 * Wendelin Schmit
+* Werner Hentschel
 * Werner Macho
 * William Jesdale
 * William Levering
