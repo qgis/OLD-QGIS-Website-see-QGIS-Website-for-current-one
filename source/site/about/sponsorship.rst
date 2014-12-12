@@ -57,12 +57,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
-|bronze| |wwgios|
+|bronze| |wggios|
 
 `Faculty of Geology, Geophysics and Environmental Protection,
 AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Poland (11.2014-11.2015)
 
-.. |wwgios| image:: /static/site/about/images/wwgios.png
+.. |wggios| image:: /static/site/about/images/wwgios.png
    :width: 200 px
 
 ----
