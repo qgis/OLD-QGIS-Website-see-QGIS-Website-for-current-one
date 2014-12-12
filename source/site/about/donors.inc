@@ -407,6 +407,7 @@
 * John Milligan
 * John Nethery
 * John Roach
+* John Sowles
 * John Stalker
 * John Stuart
 * Jonas Svensson
@@ -699,6 +700,7 @@
 * Rosario Negusse
 * Ross Mcdonald
 * Rosário Dilo
+* Ruben Jarych
 * Rubén Darío Godoy
 * Rui Pedro Henriques
 * Russel Taylor
@@ -804,6 +806,7 @@
 * Urban Modelling Solutions N A Matthew
 * Uros Bernik
 * Valerio Franchino
+* Victor Saldaña
 * Vincent Verweij
 * Vincenzo Sale
 * Vito Latorraca
@@ -815,6 +818,7 @@
 * Wasin Bukaew
 * Wayne Bulmer
 * Wendelin Schmit
+* Werner Hentschel
 * Werner Macho
 * William Jesdale
 * William Levering

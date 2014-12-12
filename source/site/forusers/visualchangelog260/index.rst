@@ -1,6 +1,6 @@
 .. figure:: images/projects/qgis-icon_2.png
    :align: center
-   :alt: 
+   :alt:
 
 Changelog for version: 2.6.0
 ============================
@@ -73,7 +73,7 @@ properties dialog.
 
 .. figure:: images/entries/8662dc4a69298f603dd9038d1199ab16fd25f786.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Allow removing last point while measuring via del/backspace keys
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,7 +83,7 @@ vertices from your measurement line using the delete or backspace keys.
 
 .. figure:: images/entries/ed471908937cb068e2f004e7b3311f2bdf307042.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: select related feature on the canvas from the relation reference widget
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -95,7 +95,7 @@ We have made a number of improvements to the editor widgets:
 
 -  new edit widget for date/time capable of setting null dates
 -  filter line edit
-    Proper handling of NULL values for edit widgets
+-  Proper handling of NULL values for edit widgets
 -  Photo widget preserves NULL value
 -  Web widget preserves NULL value
 -  Attribute table can distinguish between 0 and NULL
@@ -103,7 +103,7 @@ We have made a number of improvements to the editor widgets:
 
 .. figure:: images/entries/78fd27b2cf736f37bdf97694a5018f29c609c6cb.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Optionally use just a subset of fields from the joined layer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -113,7 +113,7 @@ join.
 
 .. figure:: images/entries/14023cf2ee768960d9c4a43da6e2a1624d10b3c3.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Expression field (virtual fields)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -125,7 +125,7 @@ expression.
 
 .. figure:: images/entries/5fe53ad54b8d0cf8b7a22b90e733a421bb929506.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Actions can now have an associated icon
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -135,7 +135,7 @@ icon to be used for the action too.
 
 .. figure:: images/entries/e7bd5b306e3a72cc111a81f86a053b42679aa2f8.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Additional expressions types and options
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -149,7 +149,7 @@ Feature: Additional expressions types and options
 
 .. figure:: images/entries/e2e079bec87be65ccc97055251fc2544be91aaab.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Classes within graduated and categorised renderers can be toggled
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -159,7 +159,7 @@ categorised renderers without actually removing them.
 
 .. figure:: images/entries/84d11c6d978775d92f6a1902092795735d1f32b3.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Legend improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -168,7 +168,6 @@ The second phase of the legend / table of contents overhaul has been
 completed. This includes:
 
 -  API cleanup (for developers)
--  Scale-based filtering of legend nodes (in WMS)
 -  Visibility groups of map layers in layer tree. This new toolbar
    button allows quick changes between the groups of layers that should
    be visible.
@@ -183,7 +182,7 @@ completed. This includes:
 
 .. figure:: images/entries/363048a7d08ac76d35463abbef514c65031922e7.png
    :align: center
-   :alt: 
+   :alt:
 
 Data Providers
 --------------
@@ -201,7 +200,7 @@ Feature: DXF export improvements
 
 .. figure:: images/entries/4f615505e3fd6ec0b619278e42ecc5a3e79ac827.png
    :align: center
-   :alt: 
+   :alt:
 
 Map Composer
 ------------
@@ -215,7 +214,7 @@ unchecked it will be visible at composition design time only.
 
 .. figure:: images/entries/f334447d13ee49a6c4c5cb4322e3f12824643416.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Control over page printing for empty composer frames
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -225,7 +224,7 @@ page should be exported when the frame is empty.
 
 .. figure:: images/entries/1500ba6abdf5b314c760ebfc63e460731dcc5110.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Item tree panel
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -236,7 +235,7 @@ to edit item id. You can also use drag and drop to reorder items.
 
 .. figure:: images/entries/52b70bdf87d21a13c00798458bab6347dddd7910.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: More control over appearance of composer arrow/line items
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -247,7 +246,7 @@ Feature: More control over appearance of composer arrow/line items
 
 .. figure:: images/entries/49757b3cc09839edb8af38f1cb1317458f279110.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Data defined control of composer items
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -264,7 +263,7 @@ binding. These include:
 
 .. figure:: images/entries/9f321489cd9c90eb4d66e577680fc5467756e58e.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Composer images can be specifed as remote URLS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -274,7 +273,7 @@ source. This source can also be data defined.
 
 .. figure:: images/entries/05cd7008c231df3b3af874753b840669a605cb0f.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Composer Table improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -299,7 +298,7 @@ readded to a composition for the new settings to appear.
 
 .. figure:: images/entries/9ccb75b2110daf0c95a3fba31ac18144c1345f0e.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Composer improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -322,7 +321,7 @@ received a number of improvements in QGIS 2.6.
 
 .. figure:: images/entries/a7267ed637121bc9be70c5fa0afd2a63f9790bc7.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Improved item snapping
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -333,7 +332,7 @@ and resizing of items when zoomed in to a composition.
 
 .. figure:: images/entries/8e43479380c28942345f3d9500dd956bd13f43e8.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Multiple overviews for a map item
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -347,7 +346,7 @@ composition.
 
 .. figure:: images/entries/88b55cc5f5e7cfb62486fe3b4867b7133ae66953.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: HTML item improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -362,7 +361,7 @@ There are a number of useful new options for the HTML composer item:
 
 .. figure:: images/entries/7ed388f0c775b738648b2bd6eb6be0a75fa5816a.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Composer map grid improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -384,7 +383,7 @@ Feature: Composer map grid improvements
 
 .. figure:: images/entries/eeb61d7da3d3f95283b1bb47545cbdff9cc334ae.png
    :align: center
-   :alt: 
+   :alt:
 
 Processing
 ----------
@@ -398,7 +397,7 @@ expanded with new scripts and models provided by Processing users.
 
 .. figure:: images/entries/23e357ca0e559a33a7872206b306c0b1fbdb4b7d.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: New modeler implementation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -411,7 +410,7 @@ algorithms onto the modeler graph.
 
 .. figure:: images/entries/72bb8beaf97133424d1e68da67ae6fe79ea6faf6.png
    :align: center
-   :alt: 
+   :alt:
 
 Programmability
 ---------------
@@ -460,7 +459,7 @@ that the colours generated are more visually distinct from each other.
 
 .. figure:: images/entries/ec29c9d6eb23d01b4dbbae32a6e20fe0b1f48198.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Symbology user interface improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -481,7 +480,7 @@ Feature: Symbology user interface improvements
 
 .. figure:: images/entries/08305d5131c28c45b400662267ff0d174ef9c8ce.png
    :align: center
-   :alt: 
+   :alt:
 
 User Interface
 --------------
@@ -494,7 +493,7 @@ HTML and CSS editors
 
 .. figure:: images/entries/54b470a064d65d6d65aa66a8feece43ba8cbf6c4.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Color palettes
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -508,31 +507,31 @@ You can now define your own custom color palettes for use in QGIS.
 
 .. figure:: images/entries/a156f408d7a87fc930095c8fd68e9fba0fc0a817.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: New color picker dialog
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 There is a new custom QGIS color picker dialog. Features include:
  - Sliders for hue, saturation, value, red, green, blue color
-components.
+   components.
  - Alpha slider.
  - Option to copy/paste html color codes (in a variety of formats).
  - Before/after color preview, with alpha preview.
  - Interactive 2D color ramp widget.
  - Hue wheel/triangle widget.
  - Editable color palettes, including the ability to create new palettes
-and import/export colors to a GPL palette file.
+   and import/export colors to a GPL palette file.
  - Live color sampler with option to sample over a set radius (OS
-support dependant).
+   support dependant).
  - Supports interaction with other apps via drag and drop of colors (OS
-support dependant).
+   support dependant).
  - Option to disable the dialog and use the native picker dialog
-instead.
+   instead.
 
 .. figure:: images/entries/7189c0fe2d1ff3fdc63c531a02f74b5d32b70bfd.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Single select feature tool merged into select by rectangle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -543,7 +542,7 @@ then single click (rather than dragging a rectangle) a feature.
 
 .. figure:: images/entries/f8a68fcdfcaa59e6162185acb5c92edb9145c881.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Add layer to map canvas behaviour
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -554,7 +553,7 @@ automatically gets added to the map.
 
 .. figure:: images/entries/f36f5912d2422a439d67b1a743fe81588e709dfb.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Add icon size 48 and 64
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -564,7 +563,7 @@ icons), you can now set the icons up to 64 x 64 pixels in size.
 
 .. figure:: images/entries/3be3f51da2f54a8395f054f757f9fae1948a6103.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: New colour buttons
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -579,7 +578,7 @@ dialog.
 
 .. figure:: images/entries/54c211513bc86d00a5bce01a17476481937e0fbe.png
    :align: center
-   :alt: 
+   :alt:
 
 Feature: Context menu for identify tool
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -590,6 +589,4 @@ define which feature types you wish to identify (all all if you like).
 
 .. figure:: images/entries/c395c2ce4964826458a721a8a3f89cb7dc2853b5.png
    :align: center
-   :alt: 
-
-
+   :alt:
