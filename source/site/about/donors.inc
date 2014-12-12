@@ -805,6 +805,7 @@
 * Umberto Zulian
 * Urban Modelling Solutions N A Matthew
 * Uros Bernik
+* Valeria Zusi
 * Valerio Franchino
 * Victor Saldaña
 * Vincent Verweij
