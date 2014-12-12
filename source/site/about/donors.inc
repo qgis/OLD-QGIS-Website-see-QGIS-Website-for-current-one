@@ -204,6 +204,7 @@
 * Dominique Bornhoeft
 * Dominique Pitt
 * Don Williams
+* Donald Moir
 * Dorothea Hackman
 * Doswald Cornel
 * Douglas Hamilton
