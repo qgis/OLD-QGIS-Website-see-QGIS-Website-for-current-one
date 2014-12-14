@@ -515,6 +515,7 @@
 * Marc Cohen
 * Marc Monnerat
 * Marcel Van Dorst
+* Marcelo Moro
 * Marcelo Soares Souza
 * Marcin Wasilewski
 * Marco Carraro
