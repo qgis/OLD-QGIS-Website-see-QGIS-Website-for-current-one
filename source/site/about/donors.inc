@@ -518,6 +518,7 @@
 * Marcelo Moro
 * Marcelo Soares Souza
 * Marcin Wasilewski
+* Marco Aloi
 * Marco Carraro
 * Marcos Correa Neves
 * Marcus Håkansson
