@@ -581,6 +581,7 @@
 * Michał Czepkiewicz
 * Michel Bollore
 * Michele Beneventi
+* Michele Todaro
 * Miguel Fernández Astudillo
 * Miguel Iturralde
 * Mike Mccann
