@@ -244,6 +244,7 @@
 * Ferenc Keresztessy
 * Fernando Medina
 * Fethi M'rad
+* Filippo Angeli
 * Fjm Van Baar
 * Flavio Rigolon
 * Florian Hof
