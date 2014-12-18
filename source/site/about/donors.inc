@@ -522,6 +522,7 @@
 * Marcin Wasilewski
 * Marco Aloi
 * Marco Carraro
+* Marco Orsi
 * Marcos Correa Neves
 * Marcus Håkansson
 * Marek MarczyÅski
