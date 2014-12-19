@@ -152,6 +152,7 @@
 * Christopher Meade
 * Christopher Thorpe-dixon
 * Christos Mitsis
+* Claudia Huertas
 * Clifford Snow
 * Cmi Dr. Daniela Ersch
 * Compagnie Du Vent
