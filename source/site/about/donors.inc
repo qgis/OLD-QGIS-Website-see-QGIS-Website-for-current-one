@@ -629,6 +629,7 @@
 * Olav Peeters
 * Oleg Smirnov
 * Oliver Schonrock
+* Oliver Stark
 * Omur Saygin
 * Oriental Rugs Online
 * Orlado Monteiro Freitas
