@@ -95,6 +95,7 @@
 * Barry Dyer
 * Barry Tennison
 * Bayard Ewing
+* Ben Hall
 * Ben Visser
 * Ben Wouda
 * Benedict Alexander
