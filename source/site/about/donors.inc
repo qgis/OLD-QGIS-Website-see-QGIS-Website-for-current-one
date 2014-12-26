@@ -313,6 +313,7 @@
 * Guzmán López Orrego
 * Gérald Fringeli
 * H Szutkowski
+* Hannah Horn
 * Hans Rudolf Wettstein
 * Harald Grote
 * Hartmut Schlepps
