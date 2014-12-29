@@ -390,6 +390,7 @@
 * Jean-pierre Roche
 * Jeff Jalbrzikowski
 * Jen Dunster
+* Jens-peter Stadie
 * Jeremy Wetterwald
 * Jesus Aguilera Rubio
 * Jesus Jurado Estevez
