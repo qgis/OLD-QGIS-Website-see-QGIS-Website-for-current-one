@@ -349,6 +349,7 @@
 * Igor Zabelin
 * Imanol Arruti Ezeitza
 * Imre Kugler
+* Ina Blanke
 * Interlink Web Works
 * Irene Weiland
 * Isabelle Didierjean
