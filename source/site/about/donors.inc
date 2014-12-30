@@ -728,6 +728,7 @@
 * Russell Derrick
 * Russell Plume
 * Russell Rew
+* Rutger De Koning
 * S A Odell
 * S M Johnson
 * Saber Razmjooei
