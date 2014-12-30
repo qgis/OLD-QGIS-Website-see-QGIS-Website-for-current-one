@@ -78,26 +78,32 @@ cutting edge QGIS testing build (note the warning_).
 Ubuntu
 ------
 
-Default Ubuntu software repositories often hold older versions of QGIS.
+Default Ubuntu software repositories often hold older versions of QGIS. To have the most up-to-date version, add the official QGIS repository to your sources.list file:
 
-To have newer versions, you have to add alternative software repositories, by
-adding one of the deb-lines below to your /etc/apt/sources.list file.
-Or add these repositories via your favourite Ubuntu software installation GUI.
+For Ubuntu 14.04 (Trusty), type::
 
-Then type::
+ sudo sh -c 'echo "deb http://qgis.org/debian trusty main" >> /etc/apt/sources.list' 
 
- sudo apt-get update
- sudo apt-get install qgis python-qgis
+ sudo sh -c 'echo "deb-src http://qgis.org/debian trusty main " >> /etc/apt/sources.list' 
+
+(*For previous versions of Ubuntu, see the list below*)
+
+Then, add the qgis.org repository public key to
+your apt keyring (this prevents keyserver errors but might not be necessary) ::
+
+ gpg --keyserver keyserver.ubuntu.com --recv DD45F6C3
+
+ gpg --export --armor DD45F6C3 | sudo apt-key add -
+
+Now install QGIS::
+
+ sudo apt-get update 
+
+ sudo apt-get install qgis python-qgis 
 
 If you want the GRASS plugin make sure to install the optional package::
 
  sudo apt-get install qgis-plugin-grass
-
-In case of keyserver errors add the qgis.org repository public key to
-your apt keyring, type::
-
- gpg --keyserver keyserver.ubuntu.com --recv DD45F6C3
- gpg --export --armor DD45F6C3 | sudo apt-key add -
 
 QGIS stable
 ...........
@@ -112,7 +118,7 @@ QGIS stable
 
 .. _INSTALL: http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html
 
-On plain Ubuntu:
+Repositories for plain Ubuntu:
 ^^^^^^^^^^^^^^^^
 Trusty::
 
@@ -129,8 +135,7 @@ Precise::
  deb     http://qgis.org/debian precise main
  deb-src http://qgis.org/debian precise main
 
-Via ubuntugis:
-^^^^^^^^^^^^^^
+ VIA ubuntugis:
 
 The ubuntugis_ project provides newer versions of various FOSSGIS packages,
 QGIS being one of them.
