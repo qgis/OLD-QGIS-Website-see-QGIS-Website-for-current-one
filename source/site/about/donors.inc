@@ -292,6 +292,7 @@
 * Giovanna Bartoleschi
 * Giovanni Di Piazza
 * Giovanni Fossà
+* Giovanni Pani
 * Giovanni Pecora
 * Giuseppe Patti
 * Glasic S.r.l.
