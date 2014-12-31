@@ -227,6 +227,7 @@
 * Emanuele Paroni
 * Emanuele Zamprogno
 * Emilie Lefevre
+* Emily Heinlein
 * Enrico Antonio Chiaradia
 * Eric Dick
 * Eric Hamilton
