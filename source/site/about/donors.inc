@@ -786,6 +786,7 @@
 * Sti Sas Di Meo
 * Stig Malmose
 * Stuart Anderson
+* Susan M Carlson
 * Susan V Cousineau
 * Swampthing Environmental Inc.
 * Sébastien Gombault
