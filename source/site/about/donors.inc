@@ -231,6 +231,7 @@
 * Enrico Antonio Chiaradia
 * Eric Dick
 * Eric Hamilton
+* Eric Sargeant
 * Eric Thouvenin
 * Erik Haß
 * Erik Rorsch
