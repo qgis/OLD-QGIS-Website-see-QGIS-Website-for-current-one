@@ -57,6 +57,15 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
+|bronze| |molitec|
+
+`www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)
+
+.. |molitec| image:: /static/site/about/images/molitec.png
+   :width: 150 px
+
+----
+
 |bronze| |wggios|
 
 `Faculty of Geology, Geophysics and Environmental Protection,
@@ -108,15 +117,6 @@ AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Po
 `www.openrunner.com <http://www.openrunner.com/>`_, France (05.2014-05.2015)
 
 .. |openrunner| image:: /static/site/about/images/openrunner.png
-   :width: 150 px
-
-----
-
-|bronze| |molitec|
-
-`www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2015)
-
-.. |molitec| image:: /static/site/about/images/molitec.png
    :width: 150 px
 
 ----
