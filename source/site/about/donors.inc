@@ -37,7 +37,7 @@
 * Alicus Viorel
 * Alina - Mihaela Ciocan
 * Alvin Laurio
-* AlÅ¾bÄta ManukjanovÃ¡
+* Alžběta Manukjanová
 * Amandine Poncin
 * Amedeo Fadini
 * Amira El-shal
