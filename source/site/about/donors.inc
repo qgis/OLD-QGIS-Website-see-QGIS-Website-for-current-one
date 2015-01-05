@@ -427,6 +427,7 @@
 * John Stalker
 * John Stuart
 * Jonas Svensson
+* Jonathan Clough
 * Jonathan Duckworth
 * Jonathan Gross
 * Jonathan Webb
