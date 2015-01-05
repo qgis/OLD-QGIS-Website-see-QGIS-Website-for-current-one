@@ -576,6 +576,7 @@
 * Matteo Ghetta
 * Maureen Maus
 * Maurice Mccabe
+* Maurizio Gioiosa
 * Mauro Mussin
 * Maximilian Lohse
 * Mercedes Rubi Jimenez
