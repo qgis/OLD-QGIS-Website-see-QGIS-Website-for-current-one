@@ -156,6 +156,7 @@
 * Christopher Meade
 * Christopher Thorpe-dixon
 * Christos Mitsis
+* Chrysoula Lalazisi
 * Claassen Benjamin
 * Claudia Huertas
 * Clifford Snow
