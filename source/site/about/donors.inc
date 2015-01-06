@@ -264,6 +264,7 @@
 * Francesco Radrizzani
 * Francesco Saliola
 * Francis Harvey
+* Frank Stremke
 * Franko Sokolic
 * Franz-josef Behr
 * François De Palma
