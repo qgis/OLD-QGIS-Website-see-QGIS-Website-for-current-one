@@ -559,6 +559,7 @@
 * Mario Tovo
 * Marius Fankhauser
 * Marius Semaska
+* Marje Talvis
 * Mark Daniels
 * Mark Douglas
 * Mark Hoschek
