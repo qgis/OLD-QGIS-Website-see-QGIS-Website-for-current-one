@@ -200,6 +200,7 @@
 * Dc-3 Dreams, Sp
 * De Pietri Stefano
 * Deepak Patni
+* Detlev Finke
 * Dewey Dunnington
 * Deyan Vasilev
 * Dheeraj Chand
