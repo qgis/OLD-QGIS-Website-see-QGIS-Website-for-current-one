@@ -273,6 +273,7 @@
 * Frank Stremke
 * Franko Sokolic
 * Franz-josef Behr
+* Franziska Knüsel
 * François De Palma
 * Fred Emmer
 * Fred Ethève
