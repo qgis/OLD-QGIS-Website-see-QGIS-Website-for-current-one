@@ -478,6 +478,7 @@
 * Kazantsev Nikolay
 * Keith Kie
 * Kelly Proctor
+* Kenneth Lake
 * Kenton Ngo
 * Kevin Barry
 * Kevin Hansen
