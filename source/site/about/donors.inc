@@ -454,6 +454,7 @@
 * Juan Daniel Montejo Montejo
 * Juan Vega Figueroa
 * Judith Yang
+* Julian Schmid
 * Julie Moncorger
 * Julien Villery
 * Julien-Pierre Guilloux
