@@ -741,6 +741,7 @@
 * Roberto Sattanino
 * Robin Watson
 * Roel Van De Wetering
+* Roland Pesch
 * Rolland Paillat
 * Ronaldo Auletta Jr
 * Rosario Negusse
