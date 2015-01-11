@@ -861,6 +861,7 @@
 * Valerio Franchino
 * Victor Saldaña
 * Vincent Verweij
+* Vincenzo Lomurno
 * Vincenzo Sale
 * Vito Latorraca
 * Vitor Pereira
