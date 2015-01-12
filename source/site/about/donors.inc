@@ -158,6 +158,7 @@
 * Christos Mitsis
 * Chrysoula Lalazisi
 * Claassen Benjamin
+* Clare Nolan
 * Claudia Huertas
 * Clifford Snow
 * Cmi Dr. Daniela Ersch
