@@ -378,6 +378,7 @@
 * Jake Maier
 * James Betts
 * James Crone
+* James Davidson
 * James Dennis
 * James Gardiner
 * James Goetz
