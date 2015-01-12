@@ -776,6 +776,7 @@
 * Sebastian Badowski
 * Sebastian Cionoiu
 * Sergey Khokhlov
+* Sergio Maria Remoli
 * Servulo Costa
 * Shane Moran-kelly
 * Shapesmart
