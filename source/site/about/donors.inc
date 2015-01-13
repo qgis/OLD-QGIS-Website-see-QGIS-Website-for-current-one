@@ -510,6 +510,7 @@
 * Leo Millonig
 * Leonidas Carrasco-letelier
 * Leslie Gordon
+* Life Laboratorio De Investigaciones Fotónicas Y Energía
 * Linden Blaisus
 * Lorefolk, Llc
 * Lorenz Jenni
