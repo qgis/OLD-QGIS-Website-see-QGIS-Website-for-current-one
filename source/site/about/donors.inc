@@ -34,6 +34,7 @@
 * Alex Thomas
 * Alexandre Leroux
 * Alexandre Xavier
+* Alfonso Russo
 * Alice Flaherty
 * Alicus Viorel
 * Alina - Mihaela Ciocan
