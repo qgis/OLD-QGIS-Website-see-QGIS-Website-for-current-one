@@ -239,6 +239,7 @@
 * Emanuele Zamprogno
 * Emilie Lefevre
 * Emily Heinlein
+* Enol Özgür
 * Enrico Antonio Chiaradia
 * Eric Dick
 * Eric Hamilton
@@ -559,7 +560,7 @@
 * Marco Orsi
 * Marcos Correa Neves
 * Marcus Håkansson
-* Marek MarczyÅski
+* Marek Marczyski
 * Marek Slowinski
 * Maria Antonia Brovelli
 * Maria Chiara Turrini
@@ -893,6 +894,5 @@
 * Yven Dickhörner
 * Yves Jacolin
 * Zachary Patterson
-* Åenol Ã¶zgÃ¼r
 * 吉原 佑
 * 田中 創平
