@@ -383,6 +383,7 @@
 * James Dennis
 * James Gardiner
 * James Goetz
+* James Hayes
 * James Larsen
 * James Morrison
 * James Newsome
