@@ -1,5 +1,10 @@
 .. _psc:
 
+PSC Project Steering Committee
+..............................
+
+Current members of the PSC can be found :ref:`here <governance>`
+
 Term of PSC members
 ...................
 
@@ -7,8 +12,8 @@ The PSC seats are non-expiring. PSC members may resign their position, or be
 asked to vacate their seat after a unanimous vote of no confidence from the
 remaining PSC members.
 
-Member's roles withing the PSC
-..............................
+Member's roles within the PSC
+.............................
 
 The PSC consists of 8 identified roles as follows:
 
