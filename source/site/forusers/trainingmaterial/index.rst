@@ -31,6 +31,17 @@ http://foss4geo.wordpress.com/gst-101/
 Tutorial material, originally developed as part of a workshop for the Ecology and Evolutionary Biology Program at Texas A&M University (produced and maintained by Mike Treglia):
 http://mltconsecol.github.io/QGIS-Tutorial/
 
+
+French
+......
+
+The French Ministry of Environment supports the QGIS project. Training material from them is available here:
+http://www.geoinformations.developpement-durable.gouv.fr/qgis-supports-pedagogiques-r947.html
+
+Other resources from them are available here:
+http://www.geoinformations.developpement-durable.gouv.fr/qgis-r625.html 
+
+
 German
 ......
 
