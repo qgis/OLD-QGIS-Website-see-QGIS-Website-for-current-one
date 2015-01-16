@@ -1,3 +1,13 @@
+#!/bin/bash
+
+if [ -f running ]; then
+	echo "$0 still running"
+	exit 1
+fi
+
+touch running
+trap "rm $PWD/running" EXIT
+
 TARGET=${1:-full}
 
 # cd to script dir
