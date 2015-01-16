@@ -101,12 +101,14 @@ provides commercial support and custom programming for QGIS.
 
 ----
 
-.. |opengisch| image:: /static/site/about/images/opengis-logo.png
-   :width: 100 px
+.. |opengisch| image:: /static/site/about/images/opengisch-logo.png
+   :width: 200 px
 
-|opengisch| `opengis.ch <http://opengis.ch/>`_  (Switzerland, operating
-worldwide) provides commercial support, training and programming for
-QGIS and QGIS on Android.
+|opengisch| `OPENGIS.ch <http://opengis.ch/>`_ (based near Bern and Chur,
+Switzerland, operating worldwide) provides support, training and development
+for your opensource GIS stack. Our QGIS core developers are proficient in
+C++, Python, SQL, geospatial analysis, mobile development (including Android)
+and more.
 
 ----
 
