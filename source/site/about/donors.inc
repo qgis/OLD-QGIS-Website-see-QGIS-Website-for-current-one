@@ -166,6 +166,7 @@
 * Clifford Snow
 * Cmi Dr. Daniela Ersch
 * Compagnie Du Vent
+* Constantin Prigoreanu
 * Cormac Murphy
 * Cornel Doswald
 * Cornel Epuran
