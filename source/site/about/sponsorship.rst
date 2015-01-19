@@ -57,11 +57,29 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
+|bronze| |claasleinert|
+
+`GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2016)
+
+.. |claasleinert| image:: /static/site/about/images/claasleiner.png
+..   :width: 150 px
+
+----
+
 |bronze| |molitec|
 
 `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)
 
 .. |molitec| image:: /static/site/about/images/molitec.png
+   :width: 150 px
+
+----
+
+|bronze| |argus|
+
+`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 11.2013-11.2016)
+
+.. |argus| image:: /static/site/about/images/argus.jpg
    :width: 150 px
 
 ----
@@ -118,26 +136,6 @@ AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Po
 
 .. |openrunner| image:: /static/site/about/images/openrunner.png
    :width: 150 px
-
-----
-
-|bronze| |argus|
-
-`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 11.2013-11.2014)
-
-.. |argus| image:: /static/site/about/images/argus.jpg
-   :width: 150 px
-
-
-----
-
-|bronze| |claasleinert|
-
-`GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2015)
-
-.. |claasleinert| image:: /static/site/about/images/claasleiner.png
-..   :width: 150 px
-
 
 List of past sponsors
 ---------------------
