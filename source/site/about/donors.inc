@@ -70,7 +70,6 @@
 * Andrey Kuvshinov
 * André Barriguinha
 * Angel Muñoz
-* Ângela Seixas
 * Anna Lazzarini
 * Anna Torrent Martinez
 * Ansgar Schäfer
@@ -173,6 +172,7 @@
 * Craig Langbein
 * Cristian Spieles
 * Cristian Stoleriu
+* Cristiano Jose Maia Nascimento
 * D R Arbib
 * D V Sypersma
 * Damien Bachmann
@@ -691,7 +691,6 @@
 * Paolo Livio Craveri
 * Paolo Parroni
 * Paolo Piatti
-* Паршин Александр
 * Patrice Morgallet
 * Patrizia Tomstis
 * Patryk Wójtowicz
@@ -899,5 +898,7 @@
 * Yven Dickhörner
 * Yves Jacolin
 * Zachary Patterson
+* Ângela Seixas
+* Паршин Александр
 * 吉原 佑
 * 田中 創平
