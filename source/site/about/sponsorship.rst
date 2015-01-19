@@ -39,6 +39,15 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
+|silver| |opw|
+
+`Office of Public Works, Ireland http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
+
+.. |opw| image:: /static/site/about/images/opw.jpg
+   :width: 290 px
+
+----
+
 |silver| |sourcepole|
 
 `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2015)
