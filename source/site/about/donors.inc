@@ -34,6 +34,7 @@
 * Alex Thomas
 * Alexandre Leroux
 * Alexandre Xavier
+* Alexis Cahuzac
 * Alfonso Russo
 * Alice Flaherty
 * Alicus Viorel
@@ -249,6 +250,7 @@
 * Erik Rorsch
 * Ernesto Correa Da Silva
 * Erwin Bauer
+* Esbern Holmes
 * Evan Wolf
 * Evelyn Craigie
 * Fabian Frucht
@@ -372,10 +374,12 @@
 * Isabelle Didierjean
 * Ivan Marchesini
 * Ivan Mincik
+* Иваненко Андрей
 * Ivica Serdar
 * J Palmer
 * Jacob Brestel
 * Jacopo Ognibene
+* Jacques Bordon
 * Jafar Zahir
 * Jairo Belli
 * Jake Maier
@@ -858,6 +862,7 @@
 * Torsten Christensen
 * Travis Hammond
 * Treechai Anuwongjaroen
+* Трифонова Евгения
 * Tyler Mitchell
 * Udo Lenz
 * Ujaval Gandhi
