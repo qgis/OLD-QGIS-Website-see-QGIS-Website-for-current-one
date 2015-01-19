@@ -70,6 +70,7 @@
 * Andrey Kuvshinov
 * André Barriguinha
 * Angel Muñoz
+* Anna Chiara Migliardi
 * Anna Lazzarini
 * Anna Torrent Martinez
 * Ansgar Schäfer
@@ -374,7 +375,6 @@
 * Isabelle Didierjean
 * Ivan Marchesini
 * Ivan Mincik
-* Иваненко Андрей
 * Ivica Serdar
 * J Palmer
 * Jacob Brestel
@@ -861,7 +861,6 @@
 * Torsten Christensen
 * Travis Hammond
 * Treechai Anuwongjaroen
-* Трифонова Евгения
 * Tyler Mitchell
 * Udo Lenz
 * Ujaval Gandhi
@@ -899,6 +898,8 @@
 * Yves Jacolin
 * Zachary Patterson
 * Ângela Seixas
+* Иваненко Андрей
 * Паршин Александр
+* Трифонова Евгения
 * 吉原 佑
 * 田中 創平
