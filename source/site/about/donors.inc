@@ -174,7 +174,6 @@
 * Craig Langbein
 * Cristian Spieles
 * Cristian Stoleriu
-* Cristiano Jose Maia Nascimento
 * D R Arbib
 * D V Sypersma
 * Damien Bachmann
