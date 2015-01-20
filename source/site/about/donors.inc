@@ -756,6 +756,7 @@
 * Roel Van De Wetering
 * Roland Pesch
 * Rolland Paillat
+* Romain Barrière
 * Ronaldo Auletta Jr
 * Rosario Negusse
 * Ross Mcdonald
