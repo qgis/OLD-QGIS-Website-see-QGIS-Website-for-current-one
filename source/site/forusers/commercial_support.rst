@@ -106,7 +106,7 @@ provides commercial support and custom programming for QGIS.
 
 |opengisch| `OPENGIS.ch <http://opengis.ch/>`_ (based near Bern and Chur,
 Switzerland, operating worldwide) provides support, training and development
-for your opensource GIS stack. Our QGIS core developers are proficient in
+for your open source GIS stack. Our QGIS core developers are proficient in
 C++, Python, SQL, geospatial analysis, mobile development (including Android)
 and more.
 
@@ -116,7 +116,7 @@ and more.
    :height: 100 px
 
 |oslandia| `Oslandia <http://www.oslandia.com/?page_id=20>`_ (based in France)
-provides services on OpenSource GIS. Oslandia offers training, support,
+provides services on open source GIS. Oslandia offers training, support,
 development and consulting, namely on QGIS and PostGIS.
 
 ----
@@ -152,7 +152,7 @@ implementing QGIS within your organization, as well as GIS training on QGIS
    :width: 150 px
 
 |camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-solutions>`_ is
-an Open Source service company based in Europe offering training, support and
+an open source service company based in Europe offering training, support and
 development around QGIS, mobiles apps, 3D, geoportails and GeoBI using a high
 expertise.
 
@@ -162,7 +162,7 @@ expertise.
    :width: 150 px
 
 |gaia3d| `Gaia3D, Inc. <http://www.gaia3d.com/>`_ (based in South Korea) is a
-leading Open Source GIS company in Korea. Gaia3D offers professional development
+leading open source GIS company in Korea. Gaia3D offers professional development
 services, training, consulting and supports for QGIS, PostGIS, GeoServer and
 OpenLayers
 
@@ -299,7 +299,7 @@ GRASS GIS and FOSS GIS based SDI solutions.
 (Stirling, Scotland) thinkWhere is one of the leading independent GIS
 consultancies in the UK.  We provide a broad range of innovative GIS products
 and services including "Location Centre" (a hosted Cloud-based GIS built from
-OpenSource technologies). As a QGIS site, our team of geospatial experts use
+open source technologies). As a QGIS site, our team of geospatial experts use
 QGIS on a daily basis and provide QGIS Support to customers.  We also run
 regular QGIS and PostGIS Training courses. 
 
