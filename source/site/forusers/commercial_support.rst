@@ -168,12 +168,14 @@ OpenLayers
 
 ----
 
-.. |wmlogo| image:: /static/site/about/images/wmlogo.jpg
-   :width: 170 px
+.. |zuidtlogo| image:: /static/site/about/images/zuidt.png
+   :width: 75 px
 
-|wmlogo| `Webmapper <http://www.webmapper.nl/>`_ (Based in Utrecht, The
-Netherlands). We focus on creating usable web mapping solutions and consultancy
-services in the fields of web cartography and GIS.
+|zuidtlogo| `Zuidt <http://zuidt.nl/>`_ based in Haarlem The Netherlands, 
+wants Geographical Information to be open and simple. 
+Zuidt wants to be THE dutch (international) QGIS specialist, and provides
+consulting, plugin coding and training services.
+
 
 Others
 ------
