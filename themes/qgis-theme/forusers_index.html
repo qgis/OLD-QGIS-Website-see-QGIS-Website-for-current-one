@@ -28,10 +28,10 @@
                             <a href="#download">{{ _('Download') }}</a>
                         </li>
                         <li>
-                            <a href="#plugins">{{ _('QGIS Plugins') }}</a>
+                            <a href="#trainingmaterial">{{ _('Documentation') }}</a>
                         </li>
                         <li>
-                            <a href="#trainingmaterial">{{ _('Training material') }}</a>
+                            <a href="#plugins">{{ _('QGIS Plugins') }}</a>
                         </li>
                         <li>
                             <a href="#help">{{ _('Getting Help') }}</a>
@@ -81,6 +81,23 @@
             <div class="span1"></div>
         </div>
         <hr>
+        <div class="row-fluid" id="trainingmaterial">
+            <div class="offset1 span4">
+                <img src='../../_static/images/users-docs.png' class="text-center background-mask non-mobile-image wd" alt="docs icon" />
+            </div>
+            <div class="span1"></div>
+            <div class="span5">
+                <h3>{{ _('Documentation') }}</h3>
+                <h4>
+                    <a href="{{ pathto('docs/index') }}" class="btn btn-large btn-primary">{{ _('Check our documentation') }}</a>
+                </h4>
+                <p>{{ _('We provide a Training manual in the documentation. Additionally, there is an index of external material available:') }}
+                <a href="{{ pathto('site/forusers/trainingmaterial/index') }}">{{ _('Training material index') }}</a>
+                </p>
+            </div>
+            <div class="span1"></div>
+        </div>
+        <hr>
         <div class="row-fluid" id="plugins">
             <div class="offset1 span5">
                 <h3>{{ _('Get Plugins') }}</h3>
@@ -95,23 +112,6 @@
             <div class="span1"></div>
             <div class="span4">
                 <img src='../../_static/images/users-plugins.png' class="text-center background-mask non-mobile-image wd" alt="plugins puzzle icon" />
-            </div>
-            <div class="span1"></div>
-        </div>
-        <hr>
-        <div class="row-fluid" id="trainingmaterial">
-            <div class="offset1 span4">
-                <img src='../../_static/images/users-docs.png' class="text-center background-mask non-mobile-image wd" alt="docs icon" />
-            </div>
-            <div class="span1"></div>
-            <div class="span5">
-                <h3>{{ _('Training Material index') }}</h3>
-                <p>{{ _('We provide our Training manual in the documentation. But here is an index of external material available:') }}
-                </p>
-                <h4>
-                    <a href="{{ pathto('site/forusers/trainingmaterial/index') }}">{{ _('Training material index') }}</a>
-                </h4>
-
             </div>
             <div class="span1"></div>
         </div>
