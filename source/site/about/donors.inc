@@ -731,6 +731,7 @@
 * Ramil Ismagilov
 * Ramji Srimurugan
 * Ramon Andinach
+* Raphaël Payet-burin
 * Ravi
 * Raymond Warriner
 * Rebecca Eivers
