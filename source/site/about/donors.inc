@@ -503,6 +503,7 @@
 * Klaus Sterzenbach
 * Klaus Weddeling
 * Kominote Project, Inc.
+* Kristen Hanich
 * Kristian Stadelmayr
 * Kulik Vladimir
 * Kurt Esko
