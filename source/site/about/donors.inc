@@ -286,6 +286,7 @@
 * Fred Emmer
 * Fred Ethève
 * Fred Watchorn
+* Frederic Casado
 * Frédéric Mony
 * Fundación Almanaque Azul
 * G R Owen
