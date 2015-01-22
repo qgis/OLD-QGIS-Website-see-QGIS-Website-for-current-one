@@ -137,6 +137,7 @@
 * Carsten Fink
 * Carsten Rymon-lipinski
 * Casper Peter Szilas
+* Cavan Gates
 * Cesar Oriol Pedrocchi
 * Chad Otto
 * Charlton Coles
