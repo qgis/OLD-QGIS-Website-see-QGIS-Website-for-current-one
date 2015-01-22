@@ -527,6 +527,7 @@
 * Lorenz Jenni
 * Lorenzo Bambi
 * Lorenzo Becchi
+* Lorenzo Costantini
 * Lorenzo Luisi
 * Loris Duclos
 * Louis Maniere
