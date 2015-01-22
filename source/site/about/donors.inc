@@ -278,6 +278,7 @@
 * Francesco Radrizzani
 * Francesco Saliola
 * Francis Harvey
+* Franco Gottero
 * Frank Stremke
 * Franko Sokolic
 * Franz-josef Behr
