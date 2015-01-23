@@ -498,6 +498,7 @@
 * Kenton Ngo
 * Kevin Barry
 * Kevin Hansen
+* Kevin Hyde
 * Kevin Johnson
 * Kevin Shackleton
 * Kevin Shook
