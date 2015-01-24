@@ -337,6 +337,7 @@
 * Guillermo Córdoba Recio
 * Guzmán López Orrego
 * Gérald Fringeli
+* Gérard Charmet
 * H Szutkowski
 * Hannah Horn
 * Hans Rudolf Wettstein
