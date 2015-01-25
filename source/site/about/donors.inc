@@ -883,6 +883,7 @@
 * Urban Modelling Solutions N A Matthew
 * Uros Bernik
 * Ursula Baaser
+* Ute Twer
 * Valeria Zusi
 * Valerio Franchino
 * Victor Saldaña
