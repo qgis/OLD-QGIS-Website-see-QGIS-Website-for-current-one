@@ -906,6 +906,7 @@
 * Wolfgang Dennhöfer
 * Wolfgang Scheffler
 * Wolfgang Stoessel
+* Yann Lepage
 * Yuan Harng Lee
 * Yven Dickhörner
 * Yves Jacolin
