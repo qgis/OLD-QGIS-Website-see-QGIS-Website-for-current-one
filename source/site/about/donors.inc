@@ -43,6 +43,7 @@
 * Alvin Laurio
 * Alžběta Manukjanová
 * Amandine Poncin
+* Amber Yates
 * Amedeo Fadini
 * Amira El-shal
 * Ana Carolina Coca Acosta
