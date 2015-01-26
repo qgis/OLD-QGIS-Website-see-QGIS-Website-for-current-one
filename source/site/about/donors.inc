@@ -702,6 +702,7 @@
 * Paolo Livio Craveri
 * Paolo Parroni
 * Paolo Piatti
+* Patipat Susumpow
 * Patrice Morgallet
 * Patrizia Tomstis
 * Patryk Wójtowicz
