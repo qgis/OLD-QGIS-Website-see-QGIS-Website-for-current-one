@@ -802,6 +802,7 @@
 * Sergey Khokhlov
 * Sergio Maria Remoli
 * Servulo Costa
+* Seth Barker
 * Shane Moran-kelly
 * Shapesmart
 * Sheng Ye
