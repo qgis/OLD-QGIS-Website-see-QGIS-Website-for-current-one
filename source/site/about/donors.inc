@@ -211,6 +211,7 @@
 * Dc-3 Dreams, Sp
 * De Pietri Stefano
 * Deepak Patni
+* Deirdre Brown
 * Detlev Finke
 * Dewey Dunnington
 * Deyan Vasilev
