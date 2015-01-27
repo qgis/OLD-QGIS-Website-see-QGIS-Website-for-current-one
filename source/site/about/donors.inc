@@ -34,6 +34,7 @@
 * Alessio Buccioli
 * Alex Thomas
 * Alexandre Leroux
+* Alexandre Santos
 * Alexandre Xavier
 * Alexis Cahuzac
 * Alfonso Russo
