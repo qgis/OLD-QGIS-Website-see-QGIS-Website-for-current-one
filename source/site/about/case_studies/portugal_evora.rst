@@ -42,9 +42,9 @@ Author
 
 .. figure:: ./images/portugal_evoraaut.png
    :alt: A. Márcia Barbosa
-   :height: 200
    :align: left
-
-   A. Márcia Barbosa
+   :height: 200
+   
+   A Márcia Barbosa
 
 This article was contributed in July 2010 by A. Márcia Barbosa. She is a post-doctoral researcher at Imperial College London (UK) and the University of Évora (Portugal).

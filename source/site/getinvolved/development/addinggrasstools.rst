@@ -1,5 +1,8 @@
 
-.. _adding-grass-tools:
+.. _addinggrasstools:
+
+Adding GRASS Tools
+==================
 
 GRASS modules can be run from QGIS *GRASS Tools* if QGIS was  started from a
 GRASS shell or if a GRASS mapset was opened from QGIS. The modules work with

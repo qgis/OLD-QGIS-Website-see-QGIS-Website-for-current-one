@@ -44,14 +44,14 @@ A current list of donors who have made financial contributions large and
 small to the project can be seen on our `donors
 list <http://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__.
 
-| If you would like to make a donation or sponsor our project, please
+If you would like to make a donation or sponsor our project, please
 visit `our sponsorship
 page <http://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for
 details. QGIS is
-|  Free software and you are under no obligation to do so. Sponsoring
+Free software and you are under no obligation to do so. Sponsoring
 QGIS helps us to fund our six monthly developer meetings, maintain
 project infrastructure
-|  and fund bug fixing efforts.
+and fund bug fixing efforts.
 
 .. contents::
    :local:
@@ -291,11 +291,11 @@ and generate an automatic mask in Atlas map generation.
 Feature: Saving and recovering styles with Spatialite layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| In the previous version was possible to save style with postgres
+In the previous version was possible to save style with postgres
 layers, now will be possible for Spatialite layers too.
-|  This functions allow to embed different styles inside a spatialite
+This functions allow to embed different styles inside a spatialite
 container simplifying sharing data and their presentation.
-|  A video tutorial of this funcionality can be found here
+A video tutorial of this funcionality can be found here
 http://pvanb.wordpress.com/2014/05/15/saving-layer-styles-to-your-spatialite-database/
 
 |image18|

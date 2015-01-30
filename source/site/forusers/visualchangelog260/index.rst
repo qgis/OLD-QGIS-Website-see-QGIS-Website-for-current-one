@@ -328,7 +328,7 @@ Feature: Improved item snapping
 
 Snapping thresholds are now set in pixels, allowing for finer movement
 and resizing of items when zoomed in to a composition.
- Items within a group are no longer used for auto snap lines.
+Items within a group are no longer used for auto snap lines.
 
 .. figure:: images/entries/8e43479380c28942345f3d9500dd956bd13f43e8.png
    :align: center

@@ -1,6 +1,15 @@
 
+================
 QGIS Development
 ================
+
+.. toctree::
+    :maxdepth: 1
+
+    addinggrasstools
+    cppplugindevelopment
+    pythonplugindevelopment
+
 
 Welcome to the QGIS Development pages
 
@@ -240,7 +249,7 @@ QGIS has a lot to offer for python developers too.
 QGIS has python bindings so you can automate tasks in QGIS via python.
 
 Interested in python plugin development, go to :ref:`QGIS-python-plugin-development`
-or have a look into the :ref:`PyQGIS-Developer-Cookbook`.
+or have a look into the Python Cookbook in our Documentation site: http://docs.qgis.org.
 
 Looking for examples of python plugins, see http://plugins.qgis.org
 
@@ -257,4 +266,4 @@ http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)
 Adding GRASS tools
 ------------------
 
-:ref:`adding-grass-tools`
+see :ref:`Adding GRASS tools <addinggrasstools>`

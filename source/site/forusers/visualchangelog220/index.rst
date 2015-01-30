@@ -40,14 +40,14 @@ A current list of donors who have made financial contributions large and
 small to the project can be seen on our `donors
 list <http://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__.
 
-| If you would like to make a donation or sponsor our project, please
+If you would like to make a donation or sponsor our project, please
 visit `our sponsorship
 page <http://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for
 details. QGIS is
-|  Free software and you are under no obligation to do so. Sponsoring
+Free software and you are under no obligation to do so. Sponsoring
 QGIS helps us to fund our six monthly developer meetings, maintain
 project infrastructure
-|  and fund bug fixing efforts.
+and fund bug fixing efforts.
 
 .. contents::
    :local:
@@ -212,7 +212,7 @@ items by a larger amount.
 Feature: Atlas enhancements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| You can now preview the individual pages of the map atlas that will be
+You can now preview the individual pages of the map atlas that will be
 generated in composer. While in atlas preview mode you can output the
 current page without outputting the entire atlas. You can also tweak the
 map extent or scale for each feature while previewing the atlas page.
@@ -220,7 +220,7 @@ Atlas map settings have been moved from the atlas panel to the map
 properties panel, so now more than one map can be controlled by the
 atlas generation. There's a new option to automatically centre an
 overview map, which comes in handy when creating atlas based maps.
-|  More context information is now available so that you can adjust your
+More context information is now available so that you can adjust your
 symbology based on whether the feature is the current atlas feature or
 not. See `this article for more
 info <http://nathanw.net/2013/12/02/waiting-for-qgis-22-highlighting-current-atlas-feature/>`__.

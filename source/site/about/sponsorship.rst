@@ -41,7 +41,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 |silver| |opw|
 
-`Office of Public Works, Ireland http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
+`Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
 
 .. |opw| image:: /static/site/about/images/opw.jpg
    :width: 290 px
@@ -106,7 +106,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
 
-.. |argus| image:: /static/site/about/images/avioportolano.jpg
+.. |avioportolano| image:: /static/site/about/images/avioportolano.png
    :width: 150 px
 
 ----
