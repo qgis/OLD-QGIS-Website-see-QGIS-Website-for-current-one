@@ -47,6 +47,7 @@
 * Amber Yates
 * Amedeo Fadini
 * Amira El-shal
+* Amy Taylor
 * Ana Carolina Coca Acosta
 * Anastasios Anagnostopoulos
 * Anders Skoglund
