@@ -12,5 +12,6 @@ QGIS Governance
    codeofconduct/diversitystatement
    trademark/index
    sponsorship/index
+   finance/index
    developer_meetings/index
    release_checklists/index
