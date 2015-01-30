@@ -344,6 +344,7 @@
 * Gérald Fringeli
 * Gérard Charmet
 * H Szutkowski
+* Hakim Naas
 * Hannah Horn
 * Hans Rudolf Wettstein
 * Harald Grote
