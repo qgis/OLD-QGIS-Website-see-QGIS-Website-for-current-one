@@ -66,12 +66,21 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
+|bronze| |adlares|
+
+`ADLARES GmbH <www.adlares.com/>`_, Germany (01.2015-03.2016)
+
+.. |adlares| image:: /static/site/about/images/adlares.png
+   :width: 150 px
+
+----
+
 |bronze| |claasleinert|
 
 `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2016)
 
 .. |claasleinert| image:: /static/site/about/images/claasleiner.png
-..   :width: 150 px
+   :width: 150 px
 
 ----
 
@@ -89,6 +98,15 @@ goes into the project. These sponsors are listed below with our thanks!
 `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 11.2013-11.2016)
 
 .. |argus| image:: /static/site/about/images/argus.jpg
+   :width: 150 px
+
+----
+
+|bronze| |avioportolano|
+
+`Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
+
+.. |argus| image:: /static/site/about/images/avioportolano.jpg
    :width: 150 px
 
 ----
