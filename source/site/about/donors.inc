@@ -482,6 +482,7 @@
 * Juan Vega Figueroa
 * Judith Yang
 * Julian Schmid
+* Julie Ebersole
 * Julie Moncorger
 * Julien Villery
 * Julien-Pierre Guilloux
