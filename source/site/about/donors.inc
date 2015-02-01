@@ -442,6 +442,7 @@
 * Joachim Aurbacher
 * Joanne Kaye
 * Joel Sholtes
+* Joerg Dannenberg
 * Joern Struwe
 * Johan Ploeg
 * Johannes De Groeve
