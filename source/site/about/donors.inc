@@ -857,6 +857,7 @@
 * Swampthing Environmental Inc.
 * Sébastien Gombault
 * Tam Nguyen Van
+* Tanja Wolf
 * Tanya Haddad
 * Tereza Kutišová
 * Test Gurus
