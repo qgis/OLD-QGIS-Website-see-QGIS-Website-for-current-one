@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-06-01 08:45+0000\n"
+"PO-Revision-Date: 2014-12-16 09:33+0000\n"
 "Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
@@ -74,7 +74,7 @@ msgstr "Реорганізація  графічного інтерфейсу"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:29
 msgid "Plugins migration"
-msgstr "Міграція модулів"
+msgstr "Міграція плаґінів"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:30
 msgid "Merge new_vector_api branch"
@@ -87,7 +87,7 @@ msgstr "Графік випуску"
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:35
 msgid ""
 "|checkbox_unchecked| Small enhancements and bug fixes can continue in trunk"
-msgstr "|checkbox_unchecked| Доззовляються невеликі вдосконалення та виправлення помилок в trunk"
+msgstr "|checkbox_unchecked| Дозволяються невеликі вдосконалення та виправлення помилок в master"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:36
 msgid ""
@@ -99,12 +99,12 @@ msgstr "|checkbox_unchecked| Встановити дату наступного 
 msgid ""
 "|checkbox_unchecked| Discuss with PSC & Developers which features should be "
 "merged into release (in future this will be trunk)."
-msgstr "|checkbox_unchecked| Обговорити з PSC та розробниками список функцій, які увійдуть у цей випуск (в майбутньому це буде trunk)."
+msgstr "|checkbox_unchecked| Обговорити з PSC та розробниками список функцій, які увійдуть у цей випуск (в майбутньому це буде master)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:40
 msgid ""
 "|checkbox_unchecked| Update the splash screen (minor and major releases!)"
-msgstr "|checkbox_unchecked| Оновити заставку (оснвні та проміжні випуски!)"
+msgstr "|checkbox_unchecked| Оновити заставку (основні та проміжні випуски!)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:41
 msgid ""
@@ -116,12 +116,12 @@ msgstr "|checkbox_unchecked| Оновити в кореневому CMakeLists.t
 msgid ""
 "|checkbox_unchecked| Update the About -> authors panel with a more recent "
 "hackfest image"
-msgstr "|checkbox_unchecked| Оновити фотографію у вікні «About -> Authors» фотографією з останьої зустрічі"
+msgstr "|checkbox_unchecked| Оновити фотографію у вікні «About -> Authors» фотографією з останньої зустрічі"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:43
 msgid ""
 "|checkbox_unchecked| Check that the QGIS icon 64x64 has master text removed."
-msgstr "|checkbox_unchecked| Переконатися, що з іконки QGIS розміром 64x64 видалено текст «master»."
+msgstr "|checkbox_unchecked| Переконатися, що з іконки QGIS розміром 64x64 видалений текст «master»."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:46
 msgid "Three weeks before - feature freeze Date here"
@@ -131,7 +131,7 @@ msgstr "За три тижні --- заморозка коду (вказати �
 msgid ""
 "|checkbox_unchecked| Only bug fixes go into trunk from here forward, *no new"
 " features*."
-msgstr "|checkbox_unchecked| У trunk приймаються лише виправлення помилок, *нові функції не додаються*."
+msgstr "|checkbox_unchecked| У master приймаються лише виправлення помилок, *нові функції не додаються*."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:49
 msgid "|checkbox_unchecked| Complete merge of new features."
@@ -168,7 +168,7 @@ msgid ""
 "Bug fixes can continue in trunk but no more strings can be changed. "
 "**Note:** the intent here is not for translators to *start* translating now,"
 " but to finalise their work."
-msgstr "Виправлення помилок у trunk продовжується, але вносити зміни у рядки заборонено. **Примітка:** цей етап локалізатори повинні використовувати не для того, щоб *почати* переклад, а для завершення своєї роботи."
+msgstr "Виправлення помилок у master продовжується, але вносити зміни у рядки заборонено. **Примітка:** цей етап локалізатори повинні використовувати не для того, щоб *почати* переклад, а для завершення своєї роботи."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:61
 msgid ""
@@ -180,7 +180,7 @@ msgstr "|checkbox_unchecked| Переконатися, що всі нові уч
 msgid ""
 "|checkbox_unchecked| Ensure any new contributors have been added to "
 "CONTRIBUTORS (reserved for non GIT committers)"
-msgstr "|checkbox_unchecked| Переконатися, що всі нові учасники були внесені до файлу CONTRIBUTORS (зарезервовано для тих, хто не має доступу до GIT-репозиторія)"
+msgstr "|checkbox_unchecked| Переконатися, що всі нові учасники були внесені до файлу CONTRIBUTORS (зарезервовано для тих, хто не має доступу до GIT-репозиторію)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:66
 msgid ""
@@ -228,13 +228,13 @@ msgstr "|checkbox_unchecked| Переконатися, що cmake встанов
 msgid ""
 "|checkbox_unchecked| Apply any pending patches or mark them for a future "
 "release in the tracker (see bug tracker section below)"
-msgstr "|checkbox_unchecked| Накласти всі висячі патчі або позначити їх як такі, що будуть включені у наступний випуск (дивись роздел «Багтрекер» нижче)"
+msgstr "|checkbox_unchecked| Накласти всі висячі патчі або позначити їх як такі, що будуть включені у наступний випуск (дивись розділ «Багтрекер» нижче)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:82
 msgid ""
 "|checkbox_unchecked| Apply fixes for any pending bugs or mark them against a"
 " future milestone (see bug tracker section below)"
-msgstr "|checkbox_unchecked| Прийняти виправлення для помилок, що мають виправлення або позначити їх як такі, що будут виправлені у наступному випуску (дивись розділ «Багтрекер» нижче)"
+msgstr "|checkbox_unchecked| Прийняти виправлення для помилок, що мають виправлення або позначити їх як такі, що будуть виправлені у наступному випуску (дивись розділ «Багтрекер» нижче)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:84
 msgid "|checkbox_unchecked| String freeze announcement for UI"
@@ -251,17 +251,17 @@ msgstr "|checkbox_unchecked| Оновити файли ts за допомого�
 msgid ""
 "|checkbox_unchecked| *Call for translators* to update translations and "
 "submit their ts files (see pro-forma email below) GUI Translation Team Lead"
-msgstr "|checkbox_unchecked| *Звернення до локалізаторів* щодо оновлення локалізацій та надсилання файлів ts (дивись шаблон листа нижче) --- координатор команди локалізаторів"
+msgstr "|checkbox_unchecked| *Звернення до локалізаторів* щодо оновлення локалізації та надсилання файлів ts (дивись шаблон листа нижче) --- координатор команди локалізаторів"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:92
 msgid "One week before - branch & call for packaging Date here"
-msgstr "За один тиждень --- створення гілки та звернення до пакетувальників (вказати дату)"
+msgstr "За один тиждень --- створення гілки та звернення до пакувальників (вказати дату)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:94
 msgid ""
 "|checkbox_unchecked| No bug fixes, string changes etc. allowed in branch, "
 "only packaging related changes."
-msgstr "|checkbox_unchecked| у гілкі заборонені будь-які виправлення за винятком необхідних для створення пакетів."
+msgstr "|checkbox_unchecked| у гілці заборонені будь-які виправлення за винятком необхідних для створення пакетів."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:96
 msgid ""
@@ -344,11 +344,11 @@ msgstr "|checkbox_unchecked| Розмістити пакети у розділі
 msgid ""
 "|checkbox_unchecked| *Release team announce to press* and make packages "
 "available."
-msgstr "|checkbox_unchecked| *Випускаюча команда робить анонс нової версії*, пакети доступні для скачування."
+msgstr "|checkbox_unchecked| *Випускаюча команда робить анонс нової версії*, пакети доступні для завантаження."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:125
 msgid "Packaging Team"
-msgstr "Команда пакетувальників"
+msgstr "Команда пакувальників"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:153
 msgid ""
@@ -567,7 +567,7 @@ msgstr "Звернення до локалізаторів з проханням
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:244
 msgid "Branching and Tagging Details"
-msgstr "Створення гілок та тегів"
+msgstr "Створення гілок та теґів"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:246
 msgid ""

@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-06-08 05:31+0000\n"
-"Last-Translator: Luca M. <luca76@gmail.com>\n"
+"PO-Revision-Date: 2014-12-02 14:51+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,13 +15,13 @@ msgstr ""
 "Language: it\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:4
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:3
 msgid ""
 "QGIS and GRASS for modelling ecological corridors for wolves in North "
 "Portugal"
 msgstr "QGIS e GRASS per la modellazione di corridoi ecologici per i lupi nel Nord del Portogallo"
 
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:6
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:5
 msgid ""
 "The Iberian wolf is a sub-species of the gray wolf that exists only in north"
 " of Portugal and Spain, with small isolated groups in the south of Douro "
@@ -31,11 +31,11 @@ msgid ""
 "destruction and fragmentation of the habitat."
 msgstr "Il lupo iberico è una sottospecie del lupo grigio che vive solo nel nord del Portogallo e della Spagna, con piccoli gruppi isolati nel sud del fiume Douro. Durante il secolo scorso, subì una grossa caccia, essendo una specie \"vulnerabile\" in Spagna ed \"in pericolo\" in Portogallo. Al giorno d'oggi, ci sono solo circa 300 lupi in Portogallo, a causa della elevata caccia, distruzione e frammentazione dell'habitat."
 
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:13
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:12
 msgid "Study area in Portugal"
 msgstr "Area di studio nel Portogallo"
 
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:15
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:14
 msgid ""
 "Ribeira de Pena is a municipality in the Vila Real district in the north of "
 "Portugal. It is a rural municipality, characterized by agriculture, grazing "
@@ -47,14 +47,14 @@ msgid ""
 "the north with lower concentration in the south."
 msgstr "Ribeira de Pena è un comune nel distretto di Vila Real nel nord del Portogallo. E 'un comune rurale, caratterizzato da agricoltura, pascolo, foreste, montagne, valli e diversificata fauna e da bassa densità umana, che offre rifugio e cibo per lupi. Situato in una zona di transizione tra l'aspro e montuoso Trás-os-Montes e il verdeggiante Minho, Ribeira de Pena è uno dei comuni che possono offrire un corridoio ecologico tra le aree con una concentrazione maggiore del lupo a nord con la più bassa concentrazione nel sud."
 
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:17
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:16
 msgid ""
 "I started using GIS software during my biology course, and more often during"
 " my master thesis. At that time I used mainly proprietary software. After I "
 "finished my master degree, I lost access to the proprietary software."
 msgstr "Ho iniziato a usare il software GIS durante il mio corso di biologia, e più spesso durante la mia tesi di laurea. In quel momento ho usato principalmente il software proprietario. Dopo che ho finito la mia laurea, non ho più utilizzato il software proprietario."
 
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:19
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:18
 msgid ""
 "Meanwhile, I entered in the new world of Linux. After that I was contacted "
 "to help some researchers to model ecological corridors for wolves in Ribeira"
@@ -67,45 +67,17 @@ msgid ""
 "GRASS integration."
 msgstr "Nel frattempo, sono entrato nel nuovo mondo di Linux. Dopo di che sono stato contattato per aiutare alcuni ricercatori di modellare corridoi ecologici per i lupi a Ribeira de Pena, utilizzando GIS, in quanto non hanno mai lavorato con questo tipo di software. Poiché stavo già usando Linux invece di Windows, il mio primo problema era che il software da utilizzare. Poi ho sentito parlare di QGIS e ho deciso di fare un tentativo, anche se sembrava molto riduttivo e incompleto, rispetto a ciò che già sapevo. Ho subito capito che mi sbagliavo, e sono davvero entusiasta per la capacità analitica di QGIS, specialmente con l'integrazione GRASS."
 
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:21
-msgid ""
-"To model the ecological corridors, we used the QGIS along with the GRASS "
-"plugin. We used several geographic information along with presence data of "
-"the species to model the ecological corridors. Here are some of the "
-"functions of both QGIS and GRASS used in this case, just to name a few: * "
-"plugin Interpolation in QGIS: to create a Digital Elevation Model * "
-"r.watershed in GRASS: to create water streams from DEM * r.grow.distance in "
-"GRASS: generates a raster map layer of distance to features in input layer *"
-" r.reclass in GRASS: to reclassify map layers * r.slope.aspect.slope in "
-"GRASS: to calculate the slope from the DEM * r.mapcalculator in GRASS: to "
-"calculate some simple map algebra * r.cost.coord in GRASS: creates a raster "
-"map showing the cumulative cost of moving between different geographic "
-"locations on an input raster map whose cell category values represent cost *"
-" r.drain in GRASS: Traces a flow through an elevation model on a raster map "
-"– the one used to create the corridors With this work we obtained a map with"
-" the potential ecological corridors for wolf in Ribeira de Pena "
-"municipality. These are areas to be considered by the city council "
-"technicians when planning conservation measures for the species. These "
-"corridors are of extreme importance because they can connect the fragile "
-"wolf packs in Vila Real in the south with those in the north, which are "
-"continuous with those from Peneda-Gerês and Spain far more stable. It is "
-"from particular importance those corridors that cross human settlements, "
-"like small villages, cities and roads. These areas must be considered "
-"critical for wolf conservation, and applied measures to reduce human impact "
-"in this species."
-msgstr "Per modellare i corridoi ecologici, abbiamo usato QGIS insieme con il plugin GRASS. Abbiamo usato diverse informazioni geografiche con i dati di presenza della specie per modellare i corridoi ecologici. Ecco alcune delle funzioni sia di QGIS e GRASS utilizzato in questo caso, solo per citarne alcuni: * plugin di interpolazione in QGIS: per creare un modello di elevazione digitale * r.watershed in GRASS: per creare flussi d'acqua provenienti da DEM * r. grow.distance in GRASS: genera un layer raster di distanza dalle feature nel layer in ingresso * r.reclass in GRASS: riclassificare livelli della mappa * r.slope.aspect.slope in GRASS: per calcolare la pendenza del DEM * r. mapcalculator in GRASS: per calcolare alcune semplici funzioni algebriche della mappa * r.cost.coord in GRASS: crea una mappa raster che mostra il costo cumulativo di muoversi tra le diverse aree geografiche su una mappa raster di input i cui valori rappresentano un costo * r.drain in GRASS : Tracce di un flusso attraverso un modello di elevazione su una mappa raster - quello utilizzato per creare i corridoi. Con questo lavoro abbiamo ottenuto una mappa con i potenziali corridoi ecologici per il lupo in comune Ribeira de Pena. Si tratta di aree da prendere in considerazione da parte dei tecnici del consiglio comunale al momento di pianificare le misure di conservazione per le specie. Questi corridoi sono di estrema importanza perché possono collegare i branchi di lupi fragili a Vila Real a sud con quelli del nord, che sono in continuità con quelli di Peneda-Gers e Spagna molto più stabile. Sono di particolare importanza quei corridoi che attraversano insediamenti umani, come i piccoli villaggi, città e strade. Queste aree devono essere considerati critici per la conservazione del lupo, e misure per ridurre l'impatto umano in questa specie applicata."
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:38
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:39
 msgid ""
 "Ecological corridors and critical conservation areas for wolves in northern "
 "Portugal."
 msgstr "Corridoi ecologici e zone di conservazione critiche per i lupi nel nord del Portogallo."
 
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:41
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:42
 msgid "Conclusion"
 msgstr "In conclusione"
 
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:43
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:44
 msgid ""
 "Both QGIS and plugin GRASS are very intuitive with user-friendly interface, "
 "with all essential functions to perform most analysis. For what I could see,"
@@ -116,7 +88,7 @@ msgid ""
 "improvement and/or tip the developers about some essential function."
 msgstr "QGIS e il suo plugin GRASS sono molto intuitivi con interfaccia amichevole, con tutte le funzioni essenziali per eseguire le analisi. Per quello che ho potuto vedere, QGIS e GRASS svolgono bene il lavoro come i programmi proprietari che avevo utilizzato ai tempi del college, con il grande vantaggio di software open-source, utilizzabili in ogni computer o notebook senza licenza, aggiornamenti costanti e il vantaggio finale di contribuire ad essa di miglioramento e/o chiedere agli sviluppatori alcuni funzione essenziali."
 
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:45
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:46
 msgid ""
 "Changing to Linux and then to QGIS and GRASS was one of my best calls, and "
 "although there can be some missing issues, easily resolved in the future "
@@ -124,13 +96,105 @@ msgid ""
 "them."
 msgstr "Il passaggio a Linux e poi a QGIS e GRASS è stata uno delle mie migliori mosse, e anche se ci possono essere alcuni problemi, risolti poi con gli sviluppatori, non mi pento della mia scelta e consiglio a tutti di usarli."
 
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:48
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:49
 msgid "Author"
 msgstr "Autore"
 
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:55
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:58
 msgid ""
 "This article was contributed in July 2012 by Monica Almeida. She is "
 "conservation biologist working in an non-governmental organization in the "
 "preservation of wolf in Portugal."
 msgstr "Questo articolo è stato scritto nel mese di luglio del 2012 da Monica Almeida. È una biologa che lavora in un'organizzazione non governativa per la conservazione del lupo in Portogallo."
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:20
+msgid ""
+"To model the ecological corridors, we used the QGIS along with the GRASS "
+"plugin. We used several geographic information along with presence data of "
+"the species to model the ecological corridors. Here are some of the "
+"functions of both QGIS and GRASS used in this case, just to name a few:"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:23
+msgid "plugin Interpolation in QGIS: to create a Digital Elevation Model"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:24
+msgid "r.watershed in GRASS: to create water streams from DEM"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:25
+msgid ""
+"r.grow.distance in GRASS: generates a raster map layer of distance to "
+"features in input layer"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:26
+msgid "r.reclass in GRASS: to reclassify map layers"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:27
+msgid "r.slope.aspect.slope in GRASS: to calculate the slope from the DEM"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:28
+msgid "r.mapcalculator in GRASS: to calculate some simple map algebra"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:29
+msgid ""
+"r.cost.coord in GRASS: creates a raster map showing the cumulative cost of "
+"moving between different geographic locations on an input raster map whose "
+"cell category values represent cost"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:30
+msgid ""
+"r.drain in GRASS: Traces a flow through an elevation model on a raster map "
+"--– the one used to create the corridors"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:32
+msgid ""
+"With this work we obtained a map with the potential ecological corridors for"
+" wolf in Ribeira de Pena municipality. These are areas to be considered by "
+"the city council technicians when planning conservation measures for the "
+"species. These corridors are of extreme importance because they can connect "
+"the fragile wolf packs in Vila Real in the south with those in the north, "
+"which are continuous with those from Peneda-Gerês and Spain far more stable."
+" It is from particular importance those corridors that cross human "
+"settlements, like small villages, cities and roads. These areas must be "
+"considered critical for wolf conservation, and applied measures to reduce "
+"human impact in this species."
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:56
+msgid "Monica Almeida"
+msgstr ""
+
+#~ msgid ""
+#~ "To model the ecological corridors, we used the QGIS along with the GRASS "
+#~ "plugin. We used several geographic information along with presence data of "
+#~ "the species to model the ecological corridors. Here are some of the "
+#~ "functions of both QGIS and GRASS used in this case, just to name a few: * "
+#~ "plugin Interpolation in QGIS: to create a Digital Elevation Model * "
+#~ "r.watershed in GRASS: to create water streams from DEM * r.grow.distance in "
+#~ "GRASS: generates a raster map layer of distance to features in input layer *"
+#~ " r.reclass in GRASS: to reclassify map layers * r.slope.aspect.slope in "
+#~ "GRASS: to calculate the slope from the DEM * r.mapcalculator in GRASS: to "
+#~ "calculate some simple map algebra * r.cost.coord in GRASS: creates a raster "
+#~ "map showing the cumulative cost of moving between different geographic "
+#~ "locations on an input raster map whose cell category values represent cost *"
+#~ " r.drain in GRASS: Traces a flow through an elevation model on a raster map "
+#~ "– the one used to create the corridors With this work we obtained a map with"
+#~ " the potential ecological corridors for wolf in Ribeira de Pena "
+#~ "municipality. These are areas to be considered by the city council "
+#~ "technicians when planning conservation measures for the species. These "
+#~ "corridors are of extreme importance because they can connect the fragile "
+#~ "wolf packs in Vila Real in the south with those in the north, which are "
+#~ "continuous with those from Peneda-Gerês and Spain far more stable. It is "
+#~ "from particular importance those corridors that cross human settlements, "
+#~ "like small villages, cities and roads. These areas must be considered "
+#~ "critical for wolf conservation, and applied measures to reduce human impact "
+#~ "in this species."
+#~ msgstr ""

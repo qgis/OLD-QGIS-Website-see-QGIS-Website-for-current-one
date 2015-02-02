@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-03-23 11:05+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-12-16 09:23+0000\n"
+"Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,11 +14,11 @@ msgstr ""
 "Language: uk\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:4
+#: ../../source/site/about/case_studies/portugal_funchal.rst:3
 msgid "Using a free GIS at Jaime Moniz Secondary School: QGIS"
-msgstr ""
+msgstr "Використання вільних ГІС у середній школі Jaime Moniz: QGIS"
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:6
+#: ../../source/site/about/case_studies/portugal_funchal.rst:5
 msgid ""
 "There will be democratic teaching in our schools or education communities "
 "when we generalize the use of Open Source software. This demands not only a "
@@ -37,13 +37,9 @@ msgid ""
 "plug-ins and the quality of the product in its final stage. (One should bear"
 " in mind that these academic works were done by students who belong to a "
 "very young age group.)"
-msgstr ""
+msgstr "Навчання в школах та освітніх співтовариствах стане більш демократичним коли використання вільного програмного забезпечення стане ширшим. Це вимагає не тільки змін у людському мисленні (яке часто сформоване рекламою), але також стійкого управління витратами та, побічно, боротьби з комп'ютерним піратством. Ці, притаманні філософії вільного програмного забезпечення, переваги повинні стати прикладом для наслідування, якщо ми хочемо отримати якісну освіту без меж та будь-яких залежностей. Виходячи з цього, клас 35 12го ступеню середньої школи Jaime Moniz використовує QGIS для виконання робіт, що пропонуються курсами «Географічні інформаційні системи», «Прикладні інформаційні системи». Вибір QGIS серед великої кількості інших вільних ГІС обумовлений трьома причинами: зручний та зрозумілий інтерфейс користувача, наявність підтримки на онлайн ресурсах, велика кількість плаґінів та якість програми (не забувайте, що всі ці роботи виконані молодими студентами)."
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:9
-msgid "The Project - Expectation"
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_funchal.rst:11
+#: ../../source/site/about/case_studies/portugal_funchal.rst:10
 msgid ""
 "Expectation was the most dominating feeling in the firth lessons! The group "
 "of students had only a theoretical and somewhat vague knowledge about the "
@@ -53,71 +49,56 @@ msgid ""
 "later, by using a GPS, concerning the area surrounding the school. In "
 "figures 1 and 2 it is possible to view some of the activities developed in "
 "class."
-msgstr ""
+msgstr "Очікування було основним відчуттям на перших уроках! Студенти мали лише теоретичне і дещо розмите уявлення про ГІС. Тому було необхідно зв'язати практичні заняття з цими знаннями --- спочатку через збір географічної інформації навколо школи за допомогою карти, потім --- з використанням GPS. На малюках 1 та 2 можна побачити деякі роботи, зроблені студентами."
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:19
+#: ../../source/site/about/case_studies/portugal_funchal.rst:18
 msgid ""
 "Distribution of dustbins (green) and garden benches (yellow) at Jaime Moniz "
 "Secondary School"
-msgstr ""
+msgstr "РОзміщення смітників (зелений) та садочків (жовтий) навколо середньої школи Jaime Moniz"
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:21
+#: ../../source/site/about/case_studies/portugal_funchal.rst:20
 msgid ""
 "At present, some students are still using the QGIS to make different work "
 "plans during their training period. In figure 3, a student's work stands "
 "out: it is related to the distribution regarding the number of the "
 "inhabitants of Santo António, including a placement proposal for recycle "
 "containers, in a parish of Funchal."
-msgstr ""
+msgstr "Сьогодні деякі студенти продовжують використовувати QGIS для виконання різних робіт. На малюнку 3 показано ще одну роботу: вона пов'язана з розподілом жителів Сан-Антоніо, в тому числі містить пропозиції з розміщення смітників у приході Фуншал."
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:28
+#: ../../source/site/about/case_studies/portugal_funchal.rst:27
 msgid ""
 "Functional map of an area in the old part of the town of Funchal, "
 "surrounding Jaime Moniz Secondary School"
-msgstr ""
+msgstr "Карта частини старого міста Фуншал навколо середньої школи Jaime Moniz"
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:32
+#: ../../source/site/about/case_studies/portugal_funchal.rst:31
 msgid "Decision for QGIS"
-msgstr ""
+msgstr "Вибір QGIS"
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:34
-msgid ""
-"Number of the inhabitants (example) Generally speaking, QGIS allured the "
-"students: “to accomplish basic functions of GIS through exercise "
-"associations of graphic and non-graphic elements”; “to upload alphanumeric "
-"data”; “use functions of spacial analysis”; “to make thematic maps”; “to "
-"make a Digital Elevation Model” and, last but not least, “to recognize the "
-"relevance of a free GIS for the analysis of geographical  information, as "
-"well for the sustainable management of the territory”. These theoretical and"
-" practical purposes are achieved together along with other goals, extremely "
-"important in the education context, such as: “creating a diversified "
-"educational experience”; “being in contact with local reality” and "
-"“developing a constructive, positive and critical mind”."
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_funchal.rst:37
+#: ../../source/site/about/case_studies/portugal_funchal.rst:36
 msgid "From the class room to the education community"
-msgstr ""
+msgstr "Від класу до освітнього співтовариства"
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:39
+#: ../../source/site/about/case_studies/portugal_funchal.rst:38
 msgid ""
 "The idea of creating a website: http://www.sig-na-jaime-moniz.webnode.pt "
 "implied two main purposes: “spreading the word about project works done by "
 "the students” and, simultaneously, “show the importance of Open Source QGIS "
 "for the accomplishment of these school works”. At present, the website is a "
 "motivation source for the follow up of the whole teaching process."
-msgstr ""
+msgstr "Ідея створення сайту http://www.sig-na-jaime-moniz.webnode.pt переслідувала два основні цілі: «поширення інформації про роботи, виконані студентами» та «показати важливість вільних ГІС для виконання цих шкільних робіт». На сьогодні, сайт виступає в якості джерела мотивації для подальшого навчання."
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:47
+#: ../../source/site/about/case_studies/portugal_funchal.rst:45
 msgid ""
 "Placement proposal for recycle containers in the parish of Santo António"
-msgstr ""
+msgstr "Пропозиції щодо розміщення смітників у приході Сан-Антоніо"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:48
+msgid "Conclusion"
+msgstr "Підсумки"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:50
-msgid "Conclusion"
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_funchal.rst:52
 msgid ""
 "In a flashback analysis of the whole process, I feel that the idea of using "
 "QGIS, as a tool, to accomplish some teaching purposes, was an excellent "
@@ -130,36 +111,72 @@ msgid ""
 "without any extra expenses. At present, students use QGIS almost on their "
 "own to accomplish their different work plans. I hope the final result shows "
 "the amount of effort involved in the whole learning process."
-msgstr ""
+msgstr "Аналізуючи процес я відчуваю, що ідея використовувати QGIS в якості інструменту навчального процесу була правильною. Я ніколи раніше не працювала з ГІС, тому я вчилась разом зі студентами. Той факт, що QGIS має простий та зрозумілий інтерфейс та наявність великої кількості документації були для мене справжнім подарунком. Крім того, школа не повинна витрачати кошти на ще одну ліцензію на програмне забезпечення і потреба в оновлені ліцензії відсутня і таким чином підвищує якість навчання буз жодних витрат. На сьогоднішній день студенти використовують QGIS практично самостійно та виконують свої власні проекти. Я сподіваюсь, що кінцевий результат покаже кількість покладених у навчання зусиль."
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:55
+#: ../../source/site/about/case_studies/portugal_funchal.rst:61
 msgid "Author"
-msgstr ""
+msgstr "Автор"
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:62
+#: ../../source/site/about/case_studies/portugal_funchal.rst:68
 msgid "Fátima Vale"
-msgstr ""
+msgstr "Fátima Vale"
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:64
+#: ../../source/site/about/case_studies/portugal_funchal.rst:70
 msgid ""
 "This article was elaborated in March 2011 by Fátima Vale with the support of"
 " Luís Antunes (supervisor of the students in the DRIGOT). In that moment, "
 "she is teacher in the Jaime Moniz Secondary School and supervisor teacher "
 "during the training period of students in the different Institutions."
-msgstr ""
+msgstr "Fátima Vale надіслала цю статтю у березні 2011 р. Стаття підготована за підтримки Luís Antunes (науковий керівник студентів у DRIGOT). Fátima працює вчителем у середній школі Jaime Moniz та науковим керівником протягом студентської практики у різних інститутах."
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:68
+#: ../../source/site/about/case_studies/portugal_funchal.rst:53
 msgid "References"
-msgstr ""
+msgstr "Посилання"
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:70
+#: ../../source/site/about/case_studies/portugal_funchal.rst:55
 msgid "http://sitio.dgidc.min-edu.pt"
-msgstr ""
+msgstr "http://sitio.dgidc.min-edu.pt"
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:71
+#: ../../source/site/about/case_studies/portugal_funchal.rst:56
 msgid "http://www.sres.pt/?page=drgc_loc_atend&separador=6&buttons=1"
-msgstr ""
+msgstr "http://www.sres.pt/?page=drgc_loc_atend&separador=6&buttons=1"
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:72
+#: ../../source/site/about/case_studies/portugal_funchal.rst:57
 msgid "http://www.sig-na-jaime-moniz.webnode.pt"
-msgstr ""
+msgstr "http://www.sig-na-jaime-moniz.webnode.pt"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:8
+msgid "The Project --- Expectation"
+msgstr "Проект --- Очікування"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:33
+msgid ""
+"Generally speaking, QGIS allured the students: “to accomplish basic "
+"functions of GIS through exercise associations of graphic and non-graphic "
+"elements”; “to upload alphanumeric data”; “use functions of spacial "
+"analysis”; “to make thematic maps”; “to make a Digital Elevation Model” and,"
+" last but not least, “to recognize the relevance of a free GIS for the "
+"analysis of geographical  information, as well for the sustainable "
+"management of the territory”. These theoretical and practical purposes are "
+"achieved together along with other goals, extremely important in the "
+"education context, such as: “creating a diversified educational experience”;"
+" “being in contact with local reality” and “developing a constructive, "
+"positive and critical mind”."
+msgstr "QGIS зацікавила студентів: «вивчення основних функцій ГІС шляхом виконання вправ з об'єднання графічних та не графічних елементів»; «завантаження алфавітно-цифрових даних»; «використання функцій просторового аналізу»; «створення тематичних карт»; «створення цифрової моделі рельєфу» та «визначення актуальності вільних ГІС для аналізу географічних даних, та управління територіями». Ці теоретичні та практичні завдання виконуються разом з іншими, надзвичайно важливими в освітньому контексті, завданнями: «створення диверсифікованого освітнього досвіду», «знаходитися у контакті місцевої реальності», «розвиток конструктивного, позитивного та критичного мислення»."
+
+#~ msgid "The Project - Expectation"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Number of the inhabitants (example) Generally speaking, QGIS allured the "
+#~ "students: “to accomplish basic functions of GIS through exercise "
+#~ "associations of graphic and non-graphic elements”; “to upload alphanumeric "
+#~ "data”; “use functions of spacial analysis”; “to make thematic maps”; “to "
+#~ "make a Digital Elevation Model” and, last but not least, “to recognize the "
+#~ "relevance of a free GIS for the analysis of geographical  information, as "
+#~ "well for the sustainable management of the territory”. These theoretical and"
+#~ " practical purposes are achieved together along with other goals, extremely "
+#~ "important in the education context, such as: “creating a diversified "
+#~ "educational experience”; “being in contact with local reality” and "
+#~ "“developing a constructive, positive and critical mind”."
+#~ msgstr ""

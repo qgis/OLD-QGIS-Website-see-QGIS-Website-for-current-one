@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-08-09 14:32+0000\n"
+"PO-Revision-Date: 2014-12-16 09:31+0000\n"
 "Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgid ""
 "The QGIS project is managed by the Project Steering Committee (PSC) which "
 "consists of 8 members (with their individual responsibilities listed in "
 "brackets):"
-msgstr "Проект QGIS управляется керівним комітетом (Project Steering Committee, PSC), який складається з 8 членів (у дужках вказано посади):"
+msgstr "Проект QGIS управляється керівним комітетом (Project Steering Committee, PSC), який складається з 8 членів (у дужках вказано посади):"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:15
 msgid "Gary Sherman (Chair)"
@@ -75,7 +75,7 @@ msgstr "Збірочна команда"
 msgid ""
 "QGIS is being packaged for different type of operating systems. The people "
 "responsible for that packages are as following:"
-msgstr "QGIS випускається для багатьох операційних систем. За створення та підтримку пакетів відовідають наступні люди:"
+msgstr "QGIS випускається для багатьох операційних систем. За створення та підтримку пакетів відповідають наступні люди:"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:48
 msgid ""
@@ -164,14 +164,14 @@ msgstr "За технічну складову проекту відповіда
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:97
 msgid "Code Maintainers"
-msgstr "Супроводжуючі коду"
+msgstr "Супроводжувачі коду"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:99
 msgid ""
 "Code Maintainers are responsible for discrete areas of the QGIS source code "
 "(core, gui, plugins, providers, tests) and ensure consistency and quality of"
 " code added into the git code repository."
-msgstr "Супроводжуючі відповідають за окремі ділянки коду QGIS (ядро, інтерфейс користувача, провайдери, тести) та забезпечують одноманітність та якість коду, що додається до git-репозиторія."
+msgstr "Супроводжувачі відповідають за окремі ділянки коду QGIS (ядро, інтерфейс користувача, провайдери, тести) та забезпечують одноманітність та якість коду, що додається до git-репозиторію."
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:103
 msgid "Core library: Martin Dobias <wonder.sk[at]gmail.com>"
@@ -199,7 +199,7 @@ msgstr "Консоль Python: Salvatore Larosa <lrssvtml[at]gmail.com>"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:109
 msgid "Plugin installer: Borys Jurgiel <info[at]borysjurgiel.pl>"
-msgstr "Менеджер модулів: Borys Jurgiel <info[at]borysjurgiel.pl>"
+msgstr "Менеджер плаґінів: Borys Jurgiel <info[at]borysjurgiel.pl>"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:110
 msgid "OGR, Postgres-, Oracle- provider: Jürgen E. Fischer <jef[at]norbit.de>"
@@ -227,12 +227,12 @@ msgstr "Інструменти GDAL: Giuseppe Sucameli <brush.tyler[at]gmail.com
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:116
 msgid "Offline editing plugin: Mathias Walker <mwa[at]sourcepole.ch>"
-msgstr "Модуль офлайнового редагування: Mathias Walker <mwa[at]sourcepole.ch>"
+msgstr "Плаґін оффлайнового редагування: Mathias Walker <mwa[at]sourcepole.ch>"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:117
 msgid ""
 "SQL anywhere plugin and provider: David DeHaan <Dave.DeHaan[at]sap.com>"
-msgstr "Модуль та провайдер SQL Anywhere: David DeHaan <Dave.DeHaan[at]sap.com>"
+msgstr "Плаґін та провайдер SQL Anywhere: David DeHaan <Dave.DeHaan[at]sap.com>"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:118
 msgid "QgisWebClient: Andreas Neumann <a.neumann[at]carto.net>"
@@ -260,7 +260,7 @@ msgstr "Платформа Processing (SEXTANTE): Victor Olaya <volayaf[at]gmail
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:124
 msgid "Topology plugin: Vinayan Parameswaran <vinayan123[at]gmail.com>"
-msgstr "Модуль перевірки топології: Vinayan Parameswaran <vinayan123[at]gmail.com>"
+msgstr "Плаґін перевірки топології: Vinayan Parameswaran <vinayan123[at]gmail.com>"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:131
 msgid "Current Community Team Lead: Otto Dassau <dassau[at]gbd-consult.de>"
@@ -319,7 +319,7 @@ msgid ""
 "Assistant (Press Material Team Lead) and supported by additional language "
 "specific teams. Information about current activities and the translation "
 "process are provided at the Press Centre."
-msgstr "Прес-релізи QGIS та їх переклад координується асистентом суспільного радника (координатором команди прес-релізів) за підтрики додаткових мовних команд. Інформацію про поточні події та стан перекладу можна отримати у куточку прес-центру."
+msgstr "Прес-релізи QGIS та їх переклад координується асистентом суспільного радника (координатором команди прес-релізів) за підтримки додаткових мовних команд. Інформацію про поточні події та стан перекладу можна отримати у куточку прес-центру."
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:176
 msgid "TEAM"
@@ -343,7 +343,7 @@ msgid ""
 "This `individuals <https://github.com/qgis/QGIS/graphs/contributors>`_ are "
 "recognised as Project Committers and have full commit access to the `github "
 "repository <https://github.com/qgis/QGIS>`_."
-msgstr "Ці`учасники <https://github.com/qgis/QGIS/graphs/contributors>`_ є основними розробниками та мають повний доступ до `git-репозиторія <https://github.com/qgis/QGIS>`_."
+msgstr "Ці `учасники <https://github.com/qgis/QGIS/graphs/contributors>`_ є основними розробниками та мають повний доступ до `git-репозиторія <https://github.com/qgis/QGIS>`_."
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:129
 msgid "Community Resources"

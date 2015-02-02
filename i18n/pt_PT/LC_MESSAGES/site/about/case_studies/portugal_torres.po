@@ -1,13 +1,13 @@
 # 
 # Translators:
-# João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013
+# João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-10-12 23:28+0000\n"
-"Last-Translator: Alexandre Neto <senhor.neto@gmail.com>\n"
+"PO-Revision-Date: 2014-12-05 23:40+0000\n"
+"Last-Translator: João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,11 +15,11 @@ msgstr ""
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:4
+#: ../../source/site/about/case_studies/portugal_torres.rst:3
 msgid "QGIS and GRASS applied to paleontological survey in Western Portugal"
 msgstr "QGIS e GRASS aplicados à gestão paleontológica na costa Oeste de Portugal"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:8
+#: ../../source/site/about/case_studies/portugal_torres.rst:5
 msgid ""
 "The Associação Leonel Trindade – Sociedade de História Natural (ALT-SHN) is "
 "a non profit institution headquarted in Torres Vedras, Portugal, specialized"
@@ -29,11 +29,11 @@ msgid ""
 "– hundreds of sites representing thousands of different specimens."
 msgstr "A Sociedade de História Natural (ALT-SHN) é uma organização sem fins lucrativos especializada em paleontologia e sediada em Torres Vedras, Portugal. Esta instituição gere uma grande colecção de fósseis maioritariamente do Jurássico Superior. Um dos aspectos fundamentais da gestão paleontológica é compreender o contexto espacial de onde os fósseis foram retirados – centenas de sítios representando milhares de espécimenes diferentes."
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:12
+#: ../../source/site/about/case_studies/portugal_torres.rst:8
 msgid "The Project"
 msgstr "O Projecto"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:19
+#: ../../source/site/about/case_studies/portugal_torres.rst:15
 msgid ""
 "Back in 2008, we came up with the idea of exploring GIS technologies to "
 "support the investigation and get a more holistic perspective on the "
@@ -43,28 +43,28 @@ msgid ""
 "(IGeoE), aimed three goals:"
 msgstr "Em 2008 decidimos explorar tecnologia SIG como suporte à investigação de modo a obter uma perspectiva mais abrangente do património com que se estava a lidar. Este deu origem ao Projecto SIGAP (SIG aplicado à Paleontologia) [2]. O projecto, apoiado por entidades privadas e públicas, com destaque para o o Município de Torres Vedras, Digiterra.hu e o Instituto Geográfico do Exército (IGeoE), tinha três objectivos fundamentais:"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:21
+#: ../../source/site/about/case_studies/portugal_torres.rst:17
 msgid ""
 "Field Survey with Differencial GPS to gather the coordinates of the sites;"
 msgstr "Levantamentos de campo com recurso a GPS diferencial de modo a recolher as coordenadas dos sítios;"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:22
+#: ../../source/site/about/case_studies/portugal_torres.rst:18
 msgid ""
 "Build a Risk Model to identify hazards towards paleontological heritage and "
 "thus prevent them through regular field surveys;"
 msgstr "Construir um modelo de risco para identificar ameaças ao património paleontológico;"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:23
+#: ../../source/site/about/case_studies/portugal_torres.rst:19
 msgid ""
 "Build a Geographic Database to handle all the information and start the "
 "collection inventory."
 msgstr "Montar uma base de dados para gerir toda esta informação e posteriormente iniciar a inventariação da colecção."
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:26
+#: ../../source/site/about/case_studies/portugal_torres.rst:22
 msgid "Software we used"
 msgstr "Software utilizado"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:28
+#: ../../source/site/about/case_studies/portugal_torres.rst:24
 msgid ""
 "QGIS was the mainframe of all the project. Data was dumped directly to QGIS,"
 " and then edited and manipulated in order to achieve the desired outputs. "
@@ -74,50 +74,27 @@ msgid ""
 "PostGIS layers and visualize them on QGIS."
 msgstr "O QGIS foi a plataforma central de todo projecto. Os dados de campo eram descarregados directamente no QGIS e posteriormente editados e manipulados de modo a obter a informação final. A interface GRASS providenciada pelo QGIS permitiu-nos levar a cabo análises espaciais complexas sobre rasters e assim obter o modelo de risco que necessitávamos para planear futuramente o trabalho de campo. Além disso, QGIS também nos permitiu importar dados de uma base de dados PostGIS e visualizá-los no QGIS."
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:36
+#: ../../source/site/about/case_studies/portugal_torres.rst:31
 msgid "Vector point data editing and visualization"
 msgstr "Edição e visualização da informação de pontos vectoriais"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:38
-msgid ""
-"The choice for QGIS was also encouraged by the multi platform support. The "
-"institution has three distinct facilities, and each of those facilities has "
-"different systems – We have Mac, Windows PC and Linux PC, therefore it's of "
-"extreme importance that we have the freedom to install the software on any "
-"machine we want so we don't get stuck to a particular computer."
-msgstr "A escolha do QGIS foi encorajada pelo facto de estar disponível para várias plataformas. A instituição tem computadores Mac, e PC com Windows e Linux. Consequentemente, é extremamente importante que possamos ter a liberdade de instalar o software nas máquinas que desejarmos de modo a não ficarmos presos a um único computador."
-
-#: ../../source/site/about/case_studies/portugal_torres.rst:45
+#: ../../source/site/about/case_studies/portugal_torres.rst:40
 msgid "Paleontological Risk Map"
 msgstr "Mapa de Risco Palentológico"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:48
+#: ../../source/site/about/case_studies/portugal_torres.rst:43
 msgid "Conclusion"
 msgstr "Conclusão"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:50
-msgid ""
-"The overall experience with QGIS can only be rated has being very good and "
-"recommendable. From our point of view, the main advantage of QGIS is that "
-"it's not just a GIS software – it's a productivity suite for spatial data. "
-"It allowed us to take advantage of other powerful tools within a single work"
-" environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
-"data, with webservices and with tens of useful plug-ins developed by users "
-"worldwide. The user friendly interface is also a big advantage, especially "
-"if you have to train first time users has we've done. The easyness of the "
-"interface makes production of maps an everyday task and brought people "
-"closer to spatial approaches [3]."
-msgstr "No geral, a experiência com o QGIS apenas pode ser considerada como sendo muito boa e recomendável. Do nosso ponto de vista, a principal vantagem do QGIS é que não ser apenas um software SIG – é uma plataforma produtiva para dados espaciais. Permite-nos tirar partido de outras ferramentas poderosas sempre dentro de um único ambiente de análise. A partir do QGIS pode-se trabalhar com GRASS; PostGIS, dados GPS, Webservices e dezenas de complementos úteis desenvolvidos por utilizadores de todo o mundo. A interface amigável é também uma grande vantagem, principalmente se for necessário ensinar pessoas que nunca tiveram contacto com SIG, como nós o fizemos. A facilidade da interface fez da produção de mapas uma tarefa banal e aproximou as pessoas de abordagens espaciais [3]."
-
-#: ../../source/site/about/case_studies/portugal_torres.rst:53
+#: ../../source/site/about/case_studies/portugal_torres.rst:55
 msgid "Author"
 msgstr "Autor"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:60
+#: ../../source/site/about/case_studies/portugal_torres.rst:62
 msgid "André Mano"
 msgstr "André Mano"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:62
+#: ../../source/site/about/case_studies/portugal_torres.rst:64
 msgid ""
 "This article was contributed in November 2010 by André Mano. He is "
 "responsible for the Geopraphic Department of Associação Leonel Trindade – "
@@ -126,15 +103,15 @@ msgid ""
 "cultural heritage."
 msgstr "Este artigo foi contribuído em Novembro de 2010 pelo André Mano. Ele é responsável pelo Departamento Geográfico da Associação Leonel Trindade - Sociedade de História Natural. A sua área de interesse foca-se nas aplicações de geotecnologia nos campos de palentologia, arqueologia e heranças culturais."
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:65
+#: ../../source/site/about/case_studies/portugal_torres.rst:48
 msgid "References"
 msgstr "Referências"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:67
+#: ../../source/site/about/case_studies/portugal_torres.rst:50
 msgid "[1] www.alt-shn.org (portuguese only)"
 msgstr "[1] www.alt-shn.org (portuguese only)"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:68
+#: ../../source/site/about/case_studies/portugal_torres.rst:51
 msgid ""
 "[2] MANO, André. (2009) – Sistema de Informação Geográfica Aplicado à "
 "Paleontologia. Paleolusitana: Revista de Paleontologia e Paleoecologia, "
@@ -142,9 +119,53 @@ msgid ""
 "245-250."
 msgstr "[2] MANO, André. (2009) – Sistema de Informação Geográfica Aplicado à Paleontologia. Paleolusitana: Revista de Paleontologia e Paleoecologia, Torres Vedras: Alt-Sociedade de História Natural. ISSN 1647-2756, n.º 1, p. 245-250."
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:69
+#: ../../source/site/about/case_studies/portugal_torres.rst:52
 msgid ""
 "[3] Mano, André. (2010) – Projecto SIGAP, Trabalho de Projecto apresentado "
 "como requisito parcial para a obtenção do grau de Mestre em Ciência e "
 "Sistemas de Informação Geográfica. ISEGI – UNL, Lisboa, 2010"
 msgstr "[3] Mano, André. (2010) – Projecto SIGAP, Trabalho de Projecto apresentado como requisito parcial para a obtenção do grau de Mestre em Ciência e Sistemas de Informação Geográfica. ISEGI – UNL, Lisboa, 2010"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:33
+msgid ""
+"The choice for QGIS was also encouraged by the multi platform support. The "
+"institution has three distinct facilities, and each of those facilities has "
+"different systems --– we have Mac, Windows PC and Linux PC, therefore it's "
+"of extreme importance that we have the freedom to install the software on "
+"any machine we want so we don't get stuck to a particular computer."
+msgstr "A escolha do QGIS também foi incentivada pelo suporte multi-plataforma. A instituição possui três unidades distintas, e cada uma dessas instalações tem sistemas diferentes - Temos Mac, Windows PC e Linux PC, por isso é de extrema importância que nós tenhamos a liberdade para instalar o software em qualquer máquina que queremos sem ficar preso a um computador particular."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:45
+msgid ""
+"The overall experience with QGIS can only be rated has being very good and "
+"recommendable. From our point of view, the main advantage of QGIS is that "
+"it's not just a GIS software –-- it's a productivity suite for spatial data."
+" It allowed us to take advantage of other powerful tools within a single "
+"work environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
+"data, with webservices and with tens of useful plug-ins developed by users "
+"worldwide. The user friendly interface is also a big advantage, especially "
+"if you have to train first time users has we've done. The easyness of the "
+"interface makes production of maps an everyday task and brought people "
+"closer to spatial approaches [3]."
+msgstr "A experiência global com o QGIS só pode ser avaliado como muito bom e recomendável. Do nosso ponto de vista, a principal vantagem do QGIS é que ele não é apenas um software SIG - é uma suite de produtividade para dados espaciais. O QGIS permitiu-nos tirar proveito de outras ferramentas poderosas dentro de um ambiente de trabalho único. Do QGIS podemos trabalhar com o GRASS, com PostGIS, com dados de GPS, com serviços web e com dezenas de módulos úteis desenvolvidos por utilizadores de todo o mundo. A interface amigável do utilizador também é uma grande vantagem, especialmente se quer formar utilizadores pela primeira vez como fizemos. A facilidade da interface torna a produção de mapas uma tarefa diária e aproximou as pessoas às abordagens espaciais [3]."
+
+#~ msgid ""
+#~ "The choice for QGIS was also encouraged by the multi platform support. The "
+#~ "institution has three distinct facilities, and each of those facilities has "
+#~ "different systems – We have Mac, Windows PC and Linux PC, therefore it's of "
+#~ "extreme importance that we have the freedom to install the software on any "
+#~ "machine we want so we don't get stuck to a particular computer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The overall experience with QGIS can only be rated has being very good and "
+#~ "recommendable. From our point of view, the main advantage of QGIS is that "
+#~ "it's not just a GIS software – it's a productivity suite for spatial data. "
+#~ "It allowed us to take advantage of other powerful tools within a single work"
+#~ " environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
+#~ "data, with webservices and with tens of useful plug-ins developed by users "
+#~ "worldwide. The user friendly interface is also a big advantage, especially "
+#~ "if you have to train first time users has we've done. The easyness of the "
+#~ "interface makes production of maps an everyday task and brought people "
+#~ "closer to spatial approaches [3]."
+#~ msgstr ""

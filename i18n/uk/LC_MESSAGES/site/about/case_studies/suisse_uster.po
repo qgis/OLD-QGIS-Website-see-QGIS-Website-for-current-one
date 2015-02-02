@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-03-23 11:05+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-12-16 09:25+0000\n"
+"Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:3
 msgid "The use of QGIS in the Geodata Infrastructure of the City of Uster"
-msgstr ""
+msgstr "Використання QGIS у просторовій інфраструктурі м. Устер"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:5
 msgid ""
@@ -27,7 +27,7 @@ msgid ""
 "new features and by financially supporting the development. In return Uster "
 "receives a rapidly evolving and platform independent Desktop GIS and WebGIS "
 "solution backed by a worldwide user and development community."
-msgstr ""
+msgstr "м. Устер використовує QGIS з 2007 року. Рішення кантону Золотурн використовувати QGIS в якості заміни ArcView надихнуло м. Устер спробувати її. Місто приєдналось до зусиль з підтримки процесу розробки QGIS шляхом внесення пропозиції, тестування нового функціоналу та надання фінансової підтримки. В свою чергу місто отримало багатоплатформову настільну ГІС та веб-ГІС, яка швидко розвивається та супроводжується світовим співтовариством користувачів та розробників."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
@@ -42,7 +42,7 @@ msgid ""
 "(University of Berne)) we coordinate and sponsor the improvements of these "
 "tools, along with some improvements in data driven symbolization, automated "
 "labeling, attribute handling and forms."
-msgstr ""
+msgstr "В якості сховища даних використовується PostgreSQL/PostGIS. Інші бази та джерела даних регулярно реплікуються у PostgreSQL за допомогою таких інструментів як OGR та FME. Спочатку QGIS в основному використовувалась лише для перегляду даних. Першим користувачем QGIS став фермер, який повинен був переглядати заявки інших фермерів на отримання сільськогосподарських субсидій. Згодом, в процесі вдосконалення інструментів редагування та редактора макетів, QGIS почала використовуватись для редагування даних та публікації карт. Разом з іншими швейцарськими користувачами QGIS (Золотурн, Тун та CDE (Університет Берна)) ми координували та фінансово підтримували вдосконалення цих інструментів разом з іншими вдосконаленнями в оздобленні, яке залежить від даних, автоматичному підписуванні, управлінні атрибутами та формами."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
@@ -52,7 +52,7 @@ msgid ""
 "electricity networks. However, these are expert systems in use by specially "
 "trained staff. All other GIS projects and the viewing of all data is handled"
 " by QGIS."
-msgstr ""
+msgstr "Адміністрація міста також використовує власницькі ГІС: Autodesk Topobase для картографування та редагування кадастрових даних та даних про інфраструктуру стічних вод, GE Smallworld для управління газовими, водними та електричними мережами. Однак ці експертні системи використовуються лише фахівцями. Всі інші ГІС-проекти та перегляд даних виконуються в QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:21
 msgid ""
@@ -65,61 +65,54 @@ msgid ""
 "rich set of symbolization and labeling options and the consistent map "
 "rendering between the Desktop GIS application and the Web-GIS. The QGIS "
 "webclient can be tested and used at http://gis.uster.ch/"
-msgstr ""
+msgstr "У другій половині 2010 року проводились перші тести QGIS Server. А в 2011 році ми запровадили нову веб-ГІС на базі QGIS Server з використанням GeoExt/OpenLayers в якості клієнта. Основною причиною використання QGIS Server була велика економія часу, яка забезпечувалась використанням наявних конфігурацій проектів настільної QGIS. Таким чином відпадала необхідність у паралельній підтримці конфігурацій Web-проектів. Додатковими перевагами стали багаті можливості оздоблення та підписування та однаковий вигляд карт у настільній та веб-ГІС. Ознайомитись з QGIS WebClient та протестувати його можна на http://gis.uster.ch/."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:28
 msgid "Today, QGIS is used for the following GIS projects:"
-msgstr ""
+msgstr "Сьогодні QGIS використовується у наступних ГІС-проектах:"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:30
 msgid ""
 "viewing of waste-water data, integration of additional databases and direct "
 "access to canal videos and inspection protocols"
-msgstr ""
+msgstr "перегляд даних по стічним водам, інтеграція додаткових баз даних та прямий доступ до відео камер в каналах та протоколів перевірки"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:31
 msgid ""
 "viewing and editing for monitoring and the environmental and urban planning "
 "of the waste water and hydrology systems (german: Genereller "
 "Entwässerungsplan)"
-msgstr ""
+msgstr "перегляд та редагування даних моніторингу охорони навколишнього середовища та міського планування стічних вод та гідросистем (німецькою: Genereller Entwässerungsplan)"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:32
 msgid ""
 "viewing of underground cadastral data (waste water, water, gas and "
 "electricity networks, later also telecommunication) (german: "
 "Leitungskataster)"
-msgstr ""
+msgstr "перегляд даних підземного кадастру (стічні води, мережі водо-, газо- та електропостачання, згодом і комунікаційні мережі) (німецькою: Leitungskataster)"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:33
 msgid "viewing of cadastral and survey data"
-msgstr ""
+msgstr "перегляд даних кадастру та польових робіт"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:34
 msgid ""
 "viewing and editing of the communal inventory of protected natural sites"
-msgstr ""
+msgstr "перегляд та редагування реєстру природоохоронних територій"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:35
 msgid "viewing and editing of urban and regional planning data"
-msgstr ""
+msgstr "перегляд та редагування даних міського та регіонального планування і розвитку"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:36
 msgid "viewing and editing of road infrastructure data"
-msgstr ""
+msgstr "перегляд та редагування даних дорожньої інфраструктури"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:37
 msgid ""
 "viewing statistics generated directly from the database of current and past "
 "residents"
-msgstr ""
-
-#: ../../source/site/about/case_studies/suisse_uster.rst:39
-msgid ""
-"Planning and visualization for energy planning (gas supply regions, heat use"
-" from waste water, near-surface geothermal energy, block heating stations, "
-"etc.) Additional further projects are currently under development."
-msgstr ""
+msgstr "перегляд статистики, що генерується з бази даних поточних та колишніх мешканців"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:47
 msgid ""
@@ -132,7 +125,7 @@ msgid ""
 "product management or sales team. The developers of these two companies are "
 "also lead developers of the QGIS project and have excellent knowledge of the"
 " code base."
-msgstr ""
+msgstr "У 2007 році було не зовсім зрозуміло якими темпами буде вестись розробка QGIS та як розвиватимуться суспільна та комерційна підтримки. Сьогодні можна впевнено говорити, що швидкість розробки та вдосконалення, зроблені співтовариством QGIS перевершили наші очікування. Некомерційна та комерційна підтримка від компаній Sourcepole та Norbit знаходяться на відмінному рівні. Існує прямий зв'язок з розробниками без перешкод з боку відділів маркетингу та продажу. Розробники цих двох компаній також є провідними розробниками проекту QGIS та мають чудове знання кодової бази."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:49
 msgid ""
@@ -145,18 +138,35 @@ msgid ""
 " having to deal with licensing management. We are looking forward to future "
 "collaboration with the QGIS community and our commercial supporters for the "
 "advancement of the QGIS project."
-msgstr ""
+msgstr "Після повідомлення помилки часто виправляються протягом годин або днів, а нові можливості реалізуються у стислий термін. Новий функціонал можна спробувати одразу після його реалізації та запровадити як тільки вони стануть достатньо стабільними для повсякденного використання. Відпадає необхідність в очікувані офіційного випуску. Ми насолоджуємось свободою та можливістю впливати на розвиток проекту, можливість встановлювати програму на будь-яку кількість комп'ютерів без необхідності ліцензування. Ми з нетерпінням чекаємо на подальшу плідну співпрацю зі спільнотою QGIS та нашими комерційними партнерами в просуванні проекту QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:52
 msgid "Author"
-msgstr ""
+msgstr "Автор"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:59
 msgid "Andreas Neumann"
-msgstr ""
+msgstr "Andreas Neumann"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:61
 msgid ""
 "This article was contributed in April 2011 by Dr. Andreas Neumann. He is GIS"
 " coordinator at the City of Uster, Switzerland."
-msgstr ""
+msgstr "Dr. Andreas Neumann надіслав цю статтю у квітні 2011. Він ГІС-координатор в адміністрації м. Устер, Швейцарія."
+
+#: ../../source/site/about/case_studies/suisse_uster.rst:38
+msgid ""
+"planning and visualization for energy planning (gas supply regions, heat use"
+" from waste water, near-surface geothermal energy, block heating stations, "
+"etc.)"
+msgstr "планування та візуалізація енергетичних ресурсів (газоносні райони, тепло від стічних вод, приповерхнева геотермальна енергія, блоки теплових станцій тощо)"
+
+#: ../../source/site/about/case_studies/suisse_uster.rst:40
+msgid "Additional further projects are currently under development."
+msgstr "Багато інших проектів знаходиться в розробці."
+
+#~ msgid ""
+#~ "Planning and visualization for energy planning (gas supply regions, heat use"
+#~ " from waste water, near-surface geothermal energy, block heating stations, "
+#~ "etc.) Additional further projects are currently under development."
+#~ msgstr ""

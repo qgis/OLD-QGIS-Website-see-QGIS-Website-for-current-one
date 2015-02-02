@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-07-10 17:31+0000\n"
-"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
+"PO-Revision-Date: 2014-12-02 14:54+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/qgis-website/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,125 +27,89 @@ msgstr "Selamat datang di halaman Pengembangan QGIS"
 msgid "Bugs, Features and Issues"
 msgstr "Kesalahan, Fitur dan Isu"
 
-#: ../../source/site/getinvolved/development/index.rst:169
+#: ../../source/site/getinvolved/development/index.rst:207
 msgid "Development"
 msgstr "Pengembangan"
 
-#: ../../source/site/getinvolved/development/index.rst:200
+#: ../../source/site/getinvolved/development/index.rst:238
 msgid "QGIS has a lot to offer for python developers too."
 msgstr "QGIS memiliki banyak hal yang ditawarkan untuk pengembang python juga."
 
-#: ../../source/site/getinvolved/development/index.rst:202
+#: ../../source/site/getinvolved/development/index.rst:240
 msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
 msgstr "QGIS memiliki binding python sehingga Anda dapat mengotomatisasi tugas-tugas di QGIS lewat python."
 
-#: ../../source/site/getinvolved/development/index.rst:209
+#: ../../source/site/getinvolved/development/index.rst:247
 msgid "You can find the QGIS-iface which you can use via python here:"
 msgstr "Anda dapat menemukan QGIS-iface dimana Anda dapat menggunakan lewat Python disini:"
 
-#: ../../source/site/getinvolved/development/index.rst:211
+#: ../../source/site/getinvolved/development/index.rst:249
 msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
 msgstr "http://qgis.org/api/classQgisInterface.html (untuk pengujian QGIS)"
 
-#: ../../source/site/getinvolved/development/index.rst:213
+#: ../../source/site/getinvolved/development/index.rst:251
 msgid "http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
 msgstr "http://qgis.org/api/2.0/classQgisInterface.html (untuk QGIS 2.0)"
 
-#: ../../source/site/getinvolved/development/index.rst:215
+#: ../../source/site/getinvolved/development/index.rst:253
 msgid "http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
 msgstr "http://qgis.org/api/1.8/classQgisInterface.html (untuk QGIS 1.8)"
 
-#: ../../source/site/getinvolved/development/index.rst:88
+#: ../../source/site/getinvolved/development/index.rst:121
 msgid "Road Map"
 msgstr "Peta Jalan"
 
-#: ../../source/site/getinvolved/development/index.rst:90
+#: ../../source/site/getinvolved/development/index.rst:123
 msgid ""
 "Since QGIS 2.0 further development will occur based on a timebased roadmap."
 msgstr "Sejak QGIS 2.0 pengembangan lebih lanjut akan dilakukan berdasarkan berbasis peta jalan."
 
-#: ../../source/site/getinvolved/development/index.rst:92
+#: ../../source/site/getinvolved/development/index.rst:125
 msgid "Odd version numbers (2.1, 2.3 etc) are development versions."
 msgstr "Nomor versi ganjil (2,1, 2,3 dll) adalah versi pengembangan."
 
-#: ../../source/site/getinvolved/development/index.rst:142
+#: ../../source/site/getinvolved/development/index.rst:178
 msgid "Week"
 msgstr "Minggu"
 
-#: ../../source/site/getinvolved/development/index.rst:142
+#: ../../source/site/getinvolved/development/index.rst:178
 msgid "Date"
 msgstr "Tanggal"
 
-#: ../../source/site/getinvolved/development/index.rst:144
-msgid "4"
-msgstr "4"
-
-#: ../../source/site/getinvolved/development/index.rst:144
-msgid "24.01"
-msgstr "24.01"
-
-#: ../../source/site/getinvolved/development/index.rst:145
-msgid "8"
-msgstr "8"
-
-#: ../../source/site/getinvolved/development/index.rst:145
-msgid "21.02"
-msgstr "21.02"
-
-#: ../../source/site/getinvolved/development/index.rst:146
-msgid "21"
-msgstr "21"
-
-#: ../../source/site/getinvolved/development/index.rst:146
-msgid "23.05"
-msgstr "23.05"
-
-#: ../../source/site/getinvolved/development/index.rst:148
-msgid "39"
-msgstr "39"
-
-#: ../../source/site/getinvolved/development/index.rst:148
+#: ../../source/site/getinvolved/development/index.rst:185
 msgid "26.09"
 msgstr "26.09"
 
-#: ../../source/site/getinvolved/development/index.rst:149
-msgid "43"
-msgstr "43"
-
-#: ../../source/site/getinvolved/development/index.rst:149
-msgid "24.10"
-msgstr "24.10"
-
-#: ../../source/site/getinvolved/development/index.rst:181
+#: ../../source/site/getinvolved/development/index.rst:219
 msgid "Plugin Development"
 msgstr "Pengembangan Plugin"
 
-#: ../../source/site/getinvolved/development/index.rst:183
+#: ../../source/site/getinvolved/development/index.rst:221
 msgid ""
 "QGIS has a plugin infrastructure. You can add a lot of new functionality by "
 "writing your own plugins."
 msgstr "QGIS memiliki infrastruktur Plugin. Anda dapat menambahkan banyak fungsi baru dengan menulis plugins Anda sendiri."
 
-#: ../../source/site/getinvolved/development/index.rst:186
+#: ../../source/site/getinvolved/development/index.rst:224
 msgid "These plugins can either be written in C++ or in Python"
 msgstr "Plugin dapat ditulis dalam C++ atau Python"
 
-#: ../../source/site/getinvolved/development/index.rst:193
+#: ../../source/site/getinvolved/development/index.rst:231
 msgid ""
 "Via a script you will generate a plugin stub which can be used further."
 msgstr "Melalui skrip Anda akan menghasilkan Plugin stub yang dapat digunakan lebih lanjut."
 
-#: ../../source/site/getinvolved/development/index.rst:198
+#: ../../source/site/getinvolved/development/index.rst:236
 msgid "Python plugin development"
 msgstr "Pengembangan plugin Python"
 
-#: ../../source/site/getinvolved/development/index.rst:204
+#: ../../source/site/getinvolved/development/index.rst:242
 msgid ""
 "Interested in python plugin development, go to :ref:`QGIS-python-plugin-"
 "development` or have a look into the :ref:`PyQGIS-Developer-Cookbook`."
 msgstr "Tertarik pada pengembangan plugin python, pergi ke: :ref:`QGIS-python-plugin-development` atau lihat ke :ref:`PyQGIS-Developer-Cookbook`."
 
-#: ../../source/site/getinvolved/development/index.rst:207
+#: ../../source/site/getinvolved/development/index.rst:245
 msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
 msgstr "Mencari contoh plugin python, lihat http://plugins.qgis.org"
 
@@ -246,41 +210,23 @@ msgstr "Sebelum mengirim bug, silahkan cek format laporan Anda dengan mengklik \
 msgid "Creating a backtrace"
 msgstr "Membuat backtrace"
 
-#: ../../source/site/getinvolved/development/index.rst:64
-msgid ""
-"If you have a crash it might be useful to include a backtrace as the bug "
-"might be not reproducible on an other machine. On Unix you can create a "
-"backtrace using a core dump and gdb. A core dump is a memory dump of the "
-"state of the process when the crash happened. Depending on you distribution "
-"the automatic creation of core dumps might be disabled. In that case you "
-"only see for instance Segmentation fault and not ``Segmentation fault (core "
-"dumped)`` in the shell you started QGIS from and you need to run ``ulimit -c"
-" unlimited`` before starting QGIS. You could also include that in your "
-"``.profile``. Start qgis from the shell and repeat the steps to reproduce "
-"the crash. After the crash the core file will be located in the current "
-"directory. To produce a backtrace from it you start ``gdb "
-"/path/to/the/qgis/binary core``. The binary is usually ``/usr/bin/qgis`` or "
-"``/usr/bin/qgis.bin`` on Debian with the GRASS plugin installed. In ``gdb`` "
-"you run ``bt`` which will produce the backtrace."
-msgstr "Jika Anda memiliki kecelakaan (crash) hal ini mungkin berguna untuk memasukkan backtrace sebagai bug mungkin tidak direproduksi pada mesin lainnya. Pada Unix Anda dapat membuat backtrace menggunakan dump inti dan gdb. Sebuah dump inti adalah dump memori dari proses ketika kecelakaan (crash) itu terjadi. Tergantung pada distribusi Anda penciptaan otomatis dump inti mungkin dinonaktifkan. Dalam hal ini Anda hanya melihat misalnya Segmentation fault dan tidak ``Segmentation fault (core dumped)`` di shell Anda mulai QGIS dan Anda perlu menjalankan ``ulimit -c unlimited`` sebelum mulai QGIS. Anda juga dapat mencakup dalam ``.profile`` Anda. Mulai qgis dari shell dan ulangi langkah-langkah untuk mereproduksi kecelakaan (crash). Setelah kecelakaan (crash) itu berkas inti akan berada di direktori saat ini. Untuk menghasilkan backtrace, Anda mulai ``gdb /path/to/the/qgis/binary core``. Binari biasanya di ``/usr/bin/qgis`` atau ``/usr/bin/qgis.bin`` di Debian dengan plugin GRASS terpasang. Di ``gdb`` Anda jalankan ``bt`` yang akan menghasilkan backtrace."
-
-#: ../../source/site/getinvolved/development/index.rst:71
+#: ../../source/site/getinvolved/development/index.rst:104
 msgid "Log output on Windows"
 msgstr "Keluaran Log pada Windows"
 
-#: ../../source/site/getinvolved/development/index.rst:81
+#: ../../source/site/getinvolved/development/index.rst:114
 msgid "Creating a patch"
 msgstr "Membuat patch"
 
-#: ../../source/site/getinvolved/development/index.rst:83
+#: ../../source/site/getinvolved/development/index.rst:116
 msgid "To be done"
 msgstr "Untuk diselesaikan"
 
-#: ../../source/site/getinvolved/development/index.rst:94
+#: ../../source/site/getinvolved/development/index.rst:127
 msgid "Even version numbers (2.2, 2.4 etc) are release versions."
 msgstr "Bahkan nomor versi (2.2, 2.4 dll) adalah versi rilis."
 
-#: ../../source/site/getinvolved/development/index.rst:96
+#: ../../source/site/getinvolved/development/index.rst:129
 msgid ""
 "Release will happen every four month.  In the first three month new "
 "development is taking place.  Then a feature freeze is invoked and the final"
@@ -290,37 +236,9 @@ msgid ""
 " call for packaging is issued."
 msgstr "Rilis akan terjadi setiap empat bulan. Dalam tiga bulan pengembangan baru berlangsung. Kemudian pembekuan fitur dan bulan terakhir digunakan untuk pengujian, penyelesaian masalah, terjemahan dan persiapan rilis. Ketika rilis terjadi, cabang bahkan dengan nomor rilis dibuat dan kemajuan cabang master ke versi berikutnya."
 
-#: ../../source/site/getinvolved/development/index.rst:139
-msgid "Following is the schedule for 2014"
-msgstr "Berikut ini adalah jadwal untuk 2014"
-
-#: ../../source/site/getinvolved/development/index.rst:142
+#: ../../source/site/getinvolved/development/index.rst:178
 msgid "Event"
 msgstr "Peristiwa"
-
-#: ../../source/site/getinvolved/development/index.rst:144
-msgid "2.1 freeze begins"
-msgstr "2.1 freeze dimulai"
-
-#: ../../source/site/getinvolved/development/index.rst:145
-msgid "2.2 is released"
-msgstr "2.2 dirilis"
-
-#: ../../source/site/getinvolved/development/index.rst:146
-msgid "2.3 freeze begins"
-msgstr "2.3 freeze dimulai"
-
-#: ../../source/site/getinvolved/development/index.rst:147
-msgid "2.4 is released"
-msgstr "2.4 dirilis"
-
-#: ../../source/site/getinvolved/development/index.rst:148
-msgid "2.5 freeze begins"
-msgstr "2.5 freeze dimulai"
-
-#: ../../source/site/getinvolved/development/index.rst:149
-msgid "2.6 is released"
-msgstr "2.6 dirilis"
 
 #: ../../source/site/getinvolved/development/index.rst:15
 msgid ""
@@ -368,18 +286,18 @@ msgid ""
 "developer to contact."
 msgstr "Bug Plugin harus dibuka dalam sistem pelacakan bug masing-masing. Pertama kali periksa plugin terdaftar di `pratinjau plugin <http://hub.qgis.org/projects/qgis-user-plugins/>`_. Jika demikian, klik pada nama plugin kemudian klik \"New issue\". Jika tidak, konsultasikan dokumentasi plugin untuk menemukan alamat dari sistem pelacakan bug yang relevan atau menghubungi pengembang."
 
-#: ../../source/site/getinvolved/development/index.rst:73
+#: ../../source/site/getinvolved/development/index.rst:106
 msgid ""
 "The nightly build in OSGeo4W_ (package qgis-dev) is built with debugging "
 "output, that you can view with DebugView_.  If the problem is not easy to "
 "reproduce the output might shed some light about where QGIS crashes."
 msgstr "Pembangunan nightly dalam OSGeo4W_ (paket qgis-dev) is built dibangun dengan keluaran debugging, Anda dapat melihatnya DebugView_.  Jika masalah tidak mudah membuat ulang keluaran mungkin titik terang tentang lokasi di mana konflik dalam QGIS."
 
-#: ../../source/site/getinvolved/development/index.rst:104
+#: ../../source/site/getinvolved/development/index.rst:140
 msgid "Development phase"
 msgstr "Fase Pengembangan"
 
-#: ../../source/site/getinvolved/development/index.rst:106
+#: ../../source/site/getinvolved/development/index.rst:142
 msgid ""
 "In the development phase developers work on adding new features for the next"
 " release. Early adopters can use the nightly builds we have for all major "
@@ -387,11 +305,11 @@ msgid ""
 "provide bug reports and their thoughts to help with development."
 msgstr "Dalam tahap pengembangan, pengembang bekerja menambahkan fitur baru untuk rilis berikutnya. Pengadopsi awal dapat menggunakan bangun nightly yang kita miliki untuk semua platform utama melihat kemajuan pembangunan, melakukan pengujian awal dan memberikan laporan bug dan pikiran mereka membantu pembangunan."
 
-#: ../../source/site/getinvolved/development/index.rst:112
+#: ../../source/site/getinvolved/development/index.rst:148
 msgid "Feature freeze"
 msgstr "Fitur freeze"
 
-#: ../../source/site/getinvolved/development/index.rst:114
+#: ../../source/site/getinvolved/development/index.rst:150
 msgid ""
 "In the feature freeze phase new features are not allowed in anymore and the "
 "focus of everyone moves from enhancing QGIS to stablizing it.  This also "
@@ -399,7 +317,7 @@ msgid ""
 "prereleases>`."
 msgstr "Pada tahap fitur freeze, fitur baru tidak diperbolehkan lagi dan fokus semua orang bergerak meningkatkan QGIS untuk menstabilkannya. Hal ini juga ternyata efektif dalam membangun nightly :ref:`prereleases <QGIS-prereleases>`."
 
-#: ../../source/site/getinvolved/development/index.rst:118
+#: ../../source/site/getinvolved/development/index.rst:154
 msgid ""
 "**Users** should start extensive testing of these prereleases in their "
 "environment to verify that there are no issues, they wouldn't want to see in"
@@ -410,13 +328,13 @@ msgid ""
 "issues is very important."
 msgstr "**Pengguna** harus mulai pengujian ekstensif dari pre rilis ini di lingkungan mereka memverifikasi bahwa tidak ada masalah, mereka tidak ingin melihat dalam rilis yang akan datang. Semua masalah tersebut harus dilaporkan (lihat `Bugs, Features and Issues`_). Segala sesuatu yang terjadi tanpa disadari, juga akan berakhir di rilis berikutnya. Hanya dalam kasus masalah serius rilis titik (misalnya 2.4.1) akan terjadi. Oleh karena itu pengujian dari pra rilis dan melaporkan masalah ini sangat penting."
 
-#: ../../source/site/getinvolved/development/index.rst:126
+#: ../../source/site/getinvolved/development/index.rst:162
 msgid ""
 "In the feature freeze **Developers** monitor the hub and start working on "
 "fixing the reported issues."
 msgstr "Dalam fitur freeze **Pengembang** memantau hub dan mulai bekerja memperbaiki masalah yang dilaporkan."
 
-#: ../../source/site/getinvolved/development/index.rst:129
+#: ../../source/site/getinvolved/development/index.rst:165
 msgid ""
 "With the begin of the feature freeze the translation files will be updated "
 "so that **translators** can start their work. Note that this might be an "
@@ -424,99 +342,294 @@ msgid ""
 "still introduce translation string changes."
 msgstr "Dengan mulai dari fitur freeze berkas terjemahan akan diperbarui sehingga **penerjemah** dapat memulai pekerjaan mereka. Catatan bahwa ini mungkin merupakan sebagai proses inkremental meskipun fitur dibekukan, perbaikan bug mungkin masih diperkenalkan perubahan string terjemahan."
 
-#: ../../source/site/getinvolved/development/index.rst:137
+#: ../../source/site/getinvolved/development/index.rst:173
 msgid "Release schedule"
 msgstr "Jadwal rilis"
 
-#: ../../source/site/getinvolved/development/index.rst:155
+#: ../../source/site/getinvolved/development/index.rst:193
 msgid "Location of prereleases / nightly builds"
 msgstr "Lokasi pra rilis / bangun nightly"
 
-#: ../../source/site/getinvolved/development/index.rst:158
+#: ../../source/site/getinvolved/development/index.rst:196
 msgid "Platform"
 msgstr "Platform"
 
-#: ../../source/site/getinvolved/development/index.rst:158
+#: ../../source/site/getinvolved/development/index.rst:196
 msgid "Location"
 msgstr "Lokasi"
 
-#: ../../source/site/getinvolved/development/index.rst:160
+#: ../../source/site/getinvolved/development/index.rst:198
 msgid "Windows"
 msgstr "Windows"
 
-#: ../../source/site/getinvolved/development/index.rst:160
+#: ../../source/site/getinvolved/development/index.rst:198
 msgid ""
 ":ref:`Weekly release candidate <QGIS-windows-weekly>` (standalone installer)"
 msgstr ":ref:`Minggu rilis kandidat <QGIS-windows-weekly>` (pemasang mandiri)"
 
-#: ../../source/site/getinvolved/development/index.rst:161
-#: ../../source/site/getinvolved/development/index.rst:163
+#: ../../source/site/getinvolved/development/index.rst:199
+#: ../../source/site/getinvolved/development/index.rst:201
 msgid "\\"
 msgstr "\\"
 
-#: ../../source/site/getinvolved/development/index.rst:161
+#: ../../source/site/getinvolved/development/index.rst:199
 msgid ":ref:`OSGeo4W <QGIS-windows-testing>`"
 msgstr ":ref:`OSGeo4W <QGIS-windows-testing>`"
 
-#: ../../source/site/getinvolved/development/index.rst:162
+#: ../../source/site/getinvolved/development/index.rst:200
 msgid "Linux"
 msgstr "Linux"
 
-#: ../../source/site/getinvolved/development/index.rst:162
+#: ../../source/site/getinvolved/development/index.rst:200
 msgid ":ref:`Debian <QGIS-debian-testing>`"
 msgstr ":ref:`Debian <QGIS-debian-testing>`"
 
-#: ../../source/site/getinvolved/development/index.rst:163
+#: ../../source/site/getinvolved/development/index.rst:201
 msgid ":ref:`Ubuntu <QGIS-ubuntu-testing>`"
 msgstr ":ref:`Ubuntu <QGIS-ubuntu-testing>`"
 
-#: ../../source/site/getinvolved/development/index.rst:164
+#: ../../source/site/getinvolved/development/index.rst:202
 msgid "MacOS"
 msgstr "MacOS"
 
-#: ../../source/site/getinvolved/development/index.rst:164
+#: ../../source/site/getinvolved/development/index.rst:202
 msgid ":ref:`Mac OS <QGIS-macos-testing>`"
 msgstr ":ref:`Mac OS <QGIS-macos-testing>`"
 
-#: ../../source/site/getinvolved/development/index.rst:171
+#: ../../source/site/getinvolved/development/index.rst:209
 msgid "See INSTALL_"
 msgstr "Lihat INSTALL_"
 
-#: ../../source/site/getinvolved/development/index.rst:175
+#: ../../source/site/getinvolved/development/index.rst:213
 msgid "API Documentation"
 msgstr "Dokumentasi API"
 
-#: ../../source/site/getinvolved/development/index.rst:177
+#: ../../source/site/getinvolved/development/index.rst:215
 msgid "There is `API documentation <http://qgis.org/api/>`_ for C++."
 msgstr "`Dokumentasi API <http://qgis.org/api/>`_ untuk C++."
 
-#: ../../source/site/getinvolved/development/index.rst:189
+#: ../../source/site/getinvolved/development/index.rst:227
 msgid "C++ plugin development"
 msgstr "Pengembangan plugin C++"
 
-#: ../../source/site/getinvolved/development/index.rst:191
+#: ../../source/site/getinvolved/development/index.rst:229
 msgid ""
 "To learn how to write your first C++ plugin, please go here: :ref:`QGIS-cpp-"
 "plugin-development`"
 msgstr "Untuk mempelajari bagaimana menulis Plugin C++ pertama Anda, silakan kunjungi: :ref:`QGIS-cpp-plugin-development`"
 
-#: ../../source/site/getinvolved/development/index.rst:147
-msgid "26"
-msgstr "26"
-
-#: ../../source/site/getinvolved/development/index.rst:147
-msgid "27.06"
-msgstr "27.06"
-
-#: ../../source/site/getinvolved/development/index.rst:220
+#: ../../source/site/getinvolved/development/index.rst:258
 msgid "Adding GRASS tools"
 msgstr "Menambahkan peralatan GRASS"
 
-#: ../../source/site/getinvolved/development/index.rst:222
+#: ../../source/site/getinvolved/development/index.rst:260
 msgid ":ref:`adding-grass-tools`"
 msgstr ":ref:`adding-grass-tools`"
 
-#~ msgid "25"
+#: ../../source/site/getinvolved/development/index.rst:184
+msgid "25"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:136
+msgid ""
+"Every third release (starting with 2.8) is a long-term-release (LTR) that is"
+" maintained until the next long-term-release occurs."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:175
+msgid "Following is the schedule for 2015"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:180
+msgid "(30"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:180
+msgid "31.10"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:180
+msgid "2.6 was released)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:181
+msgid "3"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:181
+#: ../../source/site/getinvolved/development/index.rst:186
+msgid "23.01"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:181
+msgid "2.7 freeze begins"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:182
+msgid "7"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:182
+msgid "20.02"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:182
+msgid "2.8 is released (LTR)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:183
+msgid "20"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:183
+msgid "22.05"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:183
+msgid "2.9 freeze begins"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:184
+msgid "26.06"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:184
+msgid "2.10 is released"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:185
+msgid "38"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:185
+msgid "2.11 freeze begins"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:186
+msgid "42"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:186
+msgid "2.12 is released"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:64
+msgid ""
+"If you have a crash it might be useful to include a backtrace as the bug "
+"might be not reproducible on an other machine."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:67
+msgid ""
+"On Linux QGIS automatically tries to use ``gdb`` to connect to the crashing "
+"process to produce a backtrace.   But some distributions disable the "
+"possiblity to connect debuggers to a running processes.  In that case "
+"``gdb`` only produces a rather useless message like::"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:81
+msgid ""
+"In that case you should reenable that option by setting "
+"``kernel.yama.ptrace_scope`` to 0 in ``/etc/sysctl.d/10-ptrace.conf`` (or "
+"``/etc/sysctl.conf`` or some other file in ``/etc/sysctl.d/``) and run "
+"``sysctl -p`` as root.  When you reproduce the crash after that, a backtrace"
+" will be printed instead."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:87
+msgid ""
+"If you cannot reproduce the crash, there should still be a core dump in the "
+"current directory, that can be analysed after the process has already "
+"terminated.  It's called ``core`` (on some systems a dot and the process id "
+"is append to the filename)."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:92
+msgid ""
+"On some distributions the creation of core dumps is also disabled.  In the "
+"event that you just get ``Aborted`` instead of ``Aborted (core dumped)`` "
+"when the crash occurs. Then you need to run ``ulimit -c unlimited`` before "
+"starting QGIS.  You can also include that in your ``.profile``, so that it's"
+" always enabled when you login."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:98
+msgid ""
+"To produce a backtrace from the core file it you start ``gdb "
+"/path/to/the/qgis/binary core``.  The binary is usually ``/usr/bin/qgis`` or"
+" ``/usr/bin/qgis.bin`` on Debian with the GRASS plugin installed.  In "
+"``gdb`` you run ``bt`` which will produce the backtrace."
+msgstr ""
+
+#~ msgid ""
+#~ "If you have a crash it might be useful to include a backtrace as the bug "
+#~ "might be not reproducible on an other machine. On Unix you can create a "
+#~ "backtrace using a core dump and gdb. A core dump is a memory dump of the "
+#~ "state of the process when the crash happened. Depending on you distribution "
+#~ "the automatic creation of core dumps might be disabled. In that case you "
+#~ "only see for instance Segmentation fault and not ``Segmentation fault (core "
+#~ "dumped)`` in the shell you started QGIS from and you need to run ``ulimit -c"
+#~ " unlimited`` before starting QGIS. You could also include that in your "
+#~ "``.profile``. Start qgis from the shell and repeat the steps to reproduce "
+#~ "the crash. After the crash the core file will be located in the current "
+#~ "directory. To produce a backtrace from it you start ``gdb "
+#~ "/path/to/the/qgis/binary core``. The binary is usually ``/usr/bin/qgis`` or "
+#~ "``/usr/bin/qgis.bin`` on Debian with the GRASS plugin installed. In ``gdb`` "
+#~ "you run ``bt`` which will produce the backtrace."
+#~ msgstr ""
+
+#~ msgid "4"
+#~ msgstr ""
+
+#~ msgid "24.01"
+#~ msgstr ""
+
+#~ msgid "8"
+#~ msgstr ""
+
+#~ msgid "21.02"
+#~ msgstr ""
+
+#~ msgid "21"
+#~ msgstr ""
+
+#~ msgid "23.05"
+#~ msgstr ""
+
+#~ msgid "39"
+#~ msgstr ""
+
+#~ msgid "43"
+#~ msgstr ""
+
+#~ msgid "24.10"
+#~ msgstr ""
+
+#~ msgid "Following is the schedule for 2014"
+#~ msgstr ""
+
+#~ msgid "2.1 freeze begins"
+#~ msgstr ""
+
+#~ msgid "2.2 is released"
+#~ msgstr ""
+
+#~ msgid "2.3 freeze begins"
+#~ msgstr ""
+
+#~ msgid "2.4 is released"
+#~ msgstr ""
+
+#~ msgid "2.5 freeze begins"
+#~ msgstr ""
+
+#~ msgid "2.6 is released"
+#~ msgstr ""
+
+#~ msgid "26"
+#~ msgstr ""
+
+#~ msgid "27.06"
 #~ msgstr ""
 
 #~ msgid "20.06"

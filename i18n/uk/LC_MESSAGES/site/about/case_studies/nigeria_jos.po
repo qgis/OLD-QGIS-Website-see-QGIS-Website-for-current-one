@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-03-23 11:05+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-12-16 09:23+0000\n"
+"Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,12 +14,12 @@ msgstr ""
 "Language: uk\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:4
+#: ../../source/site/about/case_studies/nigeria_jos.rst:3
 msgid ""
 "Amurum forest reserve habitat and avifauna mapping with QGIS in Nigeria"
-msgstr ""
+msgstr "Картографування місцевості та орнітофауни в заповіднику Amurum у Нігерії"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:6
+#: ../../source/site/about/case_studies/nigeria_jos.rst:5
 msgid ""
 "Amurum forest reserve is located near the city of Jos, Plateau state, "
 "Nigeria. It was established in conjunction with the initiation of the A.P. "
@@ -34,65 +34,65 @@ msgid ""
 "determinants of Amurum reserve and how the basic habitat maps were used to "
 "obtain strata for the purpose of efficiently determining the spatial "
 "distribution of the avifauna including the biodiversity."
-msgstr ""
+msgstr "Лісовий заповідник Amurum знаходиться неподалік від міста Джос, штат Плато, Нігерія. Його було створено за поданням A.P. Leventis Ornithological Research Institute (APLORI) для задач збереження природи,навчання та наукових досліджень. APLORI створено на кафедрі зоології університету м. Джос. Щорічно група мотивованих студентів з усієї Нігерії проходить там навчання з природоохоронної біології, статистики (з використанням R), а з 2011 р. і з ГІС. Протягом двох тижнів 2011 р. ми вивчали базові поняття ГІС та вчились застосовувати ці знання для вирішення різних природоохоронних задач у QGIS. У цій статті ми опишемо як саме ми використовували QGIS для картографування території заповідника та як ці карти використовувались для визначення просторового розподілу орнітофауни та біорізноманіття."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:13
-#: ../../source/site/about/case_studies/nigeria_jos.rst:47
+#: ../../source/site/about/case_studies/nigeria_jos.rst:12
+#: ../../source/site/about/case_studies/nigeria_jos.rst:46
 msgid "Training Group"
-msgstr ""
+msgstr "Учасники курсу"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:16
+#: ../../source/site/about/case_studies/nigeria_jos.rst:15
 msgid "Mapping elevation, hill shade, slope and habitats"
-msgstr ""
+msgstr "Картографування висот та ареалів"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:18
+#: ../../source/site/about/case_studies/nigeria_jos.rst:17
 msgid ""
 "Mapping elevation and groundtruthing: We downloaded (free) elevation data "
 "originating from the NASA Shuttle Radar Topographic Mission (SRTM) for the "
 "area in which Amurum is located. (Information about the global elevation "
 "data set can be found here: http://www.cgiar-csi.org/data/elevation/item/45"
 "-srtm-90m-digital-elevation-database-v41)."
-msgstr ""
+msgstr "Рельєф: ми завантажити вільні шари висот (NASA Shuttle Radar Topographic Mission, SRTM) на територію заповідника (докладніше про SRTM тут: http://www.cgiar-csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41)."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:20
+#: ../../source/site/about/case_studies/nigeria_jos.rst:19
 msgid ""
 "The GdalTools were used to merge original data sets and to clip a smaller "
 "area containing the reserve so that the raster data sets remained relatively"
 " small. By means of GPS we collected elevations at various locations in the "
 "reserve."
-msgstr ""
+msgstr "За допомогою GDALTools ми об'єднали тайли, а потім обрізали растр по межі заповідника, і таким чином отримали відносно невеликий шар. За допомогою GPS було зібрано дані про висоту різних точок заповідника."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:22
+#: ../../source/site/about/case_studies/nigeria_jos.rst:21
 msgid ""
 "Overall, the elevations of the SRTM data set corresponded well to the gps-"
 "collected elevations. Terrain models in GdalTools were used to calculate "
 "hills hades and slopes for the area. These variables are important from an "
 "ecological point of view because they are strongly associated with the type "
 "of habitat."
-msgstr ""
+msgstr "Загалом, дані SRTM узгоджуються з даними GPS. За допомогою GDALTools були розраховані тіньова відмивка та крутизна схилів. Ці величини є важливими, оскільки вони пов'язані з типом ареалу."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:29
+#: ../../source/site/about/case_studies/nigeria_jos.rst:28
 msgid "QGIS screenshot"
-msgstr ""
+msgstr "Знімок екрана QGIS"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:31
+#: ../../source/site/about/case_studies/nigeria_jos.rst:30
 msgid ""
 "Since we intended to develop a good-looking map, we interpolated the "
 "original (clipped) elevation map to obtain a higher resolution map. We used "
 "the warp tool in GdalTools. By means of the contour tool we obtained smooth "
 "contour lines."
-msgstr ""
+msgstr "Так як ми хотіли створити високоякісну карту, ми інтерполювали вихідну (обрізану) карту висот. Для цього ми використовували інструмент warp з набору GDALTools. А за допомогою інструменту contours ми отримали горизонталі."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:33
+#: ../../source/site/about/case_studies/nigeria_jos.rst:32
 msgid ""
 "Coordinates of the boundary of the reserve were obtained by walking along "
 "the boundaries of the reserve with a GPS. The waypoints and tracks stored in"
 " the GPS were smoothly imported using the GPS Tools. The imported waypoints "
 "and tracks were used to construct a polygon shapefile. The tracks inside the"
 " reserve were mapped in a similar fashion."
-msgstr ""
+msgstr "Координати меж заповідника було отримано за допомогою GPS. Маршрутні точки та треки були завантажені з GPS за допомогою плаґіна «Інструменти GPS». З них ми створили полігональний shape-файл. Так само було отримано дороги на території заповідника."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:35
+#: ../../source/site/about/case_studies/nigeria_jos.rst:34
 msgid ""
 "We were able to quickly and precisely construct a habitat map of Amurum "
 "using a Google satellite image which we got into the workspace with the "
@@ -101,20 +101,20 @@ msgid ""
 "image we used the editor to draw polygons demarcating the three habitats. "
 "Setting the snapping options correctly allowed the construction of non-"
 "overlapping polygons."
-msgstr ""
+msgstr "Ми швидко створили карту ареалів заповідника, використовуючи в якості основи супутниковий знімок Google, який був завантажений у проект за допомогою плаґіна OpenLayers. У заповіднику можна виділити три ареали: савани, галерейний ліс та скельна порода. З супутникового знімку були оцифровані межі цих трьох ареалів. Правильне налаштування прилипання дозволило уникнути топологічних помилок."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:38
+#: ../../source/site/about/case_studies/nigeria_jos.rst:37
 msgid "Mapping bird distributions and diversity"
-msgstr ""
+msgstr "Розповсюдження птахів та різноманітність"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:40
+#: ../../source/site/about/case_studies/nigeria_jos.rst:39
 msgid ""
 "The habitat maps were used to generate random locations. The area of the "
 "various types of habitat were used to generate a number of locations "
 "proportional to the surface of each habitat type (stratification)."
-msgstr ""
+msgstr "На основі карти ареалів було згенеровано випадкові точки. Число точок у кожному ареалі залежало від його площі."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:49
+#: ../../source/site/about/case_studies/nigeria_jos.rst:48
 msgid ""
 "The random points in fTools were used for this purpose. All the locations "
 "were visited during two mornings by four groups of students (2 per group) "
@@ -126,34 +126,44 @@ msgid ""
 "text layer” tool. On the basis of the above mentioned layers a map was "
 "constructed presenting some of the most important landscape features and "
 "avian diversity of the Amurum reserve."
-msgstr ""
+msgstr "Для цього ми скористалися інструментом «Випадкові точки» плаґіна fTools. Протягом двох днів групи студентів (по 2 у кожній) відвідали всі точки, що в цілому складає 38 точок на весь заповідник. Дані спостережень були внесені у таблицю та проаналізовані за допомогою R. Крім того, був розрахований індекс різноманітності Шеннона-Вінера. Після об'єднання даних спостережень та координат точок, вони були експортовані у файл CSV, який в свою чергу був завантажений у QGIS. На основі вищезазначених шарів ми створили карту найбільш важливих ареалів та пташиного різноманіття заповідника."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:52
+#: ../../source/site/about/case_studies/nigeria_jos.rst:51
 msgid "Conclusion"
-msgstr ""
+msgstr "Підсумки"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:54
-msgid ""
-"Overall, the course was a great success. We - a group of students with no "
-"previous GIS experience - enjoyed working with QGIS a lot. Within just two "
-"weeks time we were able to develop an extremely useful map of the reserve. "
-"Amongst others, the extents of the various habitats were determined which "
-"allows for stratification and thus for better estimates of abundances of "
-"various kinds of organisms. Basically we are now able to do better "
-"ecological research using QGIS as an open source platform."
-msgstr ""
-
-#: ../../source/site/about/case_studies/nigeria_jos.rst:61
+#: ../../source/site/about/case_studies/nigeria_jos.rst:60
 msgid "QGIS map: Diversity of Amurum Forest Reserve"
-msgstr ""
+msgstr "Карта: Пташине різноманіття заповідника"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:64
+#: ../../source/site/about/case_studies/nigeria_jos.rst:63
 msgid "Authors"
-msgstr ""
+msgstr "Автор"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:66
+#: ../../source/site/about/case_studies/nigeria_jos.rst:65
 msgid ""
 "Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, "
 "Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu "
 "Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"
-msgstr ""
+msgstr "Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"
+
+#: ../../source/site/about/case_studies/nigeria_jos.rst:53
+msgid ""
+"Overall, the course was a great success. We - a group of students with no "
+"previous GIS experience --- enjoyed working with QGIS a lot. Within just two"
+" weeks time we were able to develop an extremely useful map of the reserve. "
+"Amongst others, the extents of the various habitats were determined which "
+"allows for stratification and thus for better estimates of abundances of "
+"various kinds of organisms. Basically we are now able to do better "
+"ecological research using QGIS as an open source platform."
+msgstr "В цілому курс був дуже успішним. Ми --- група студентів без досвіду використання ГІС --- із задоволенням працювали в QGIS. За декілька тижнів ми змогли створити надзвичайно корисну карту заповідника. Крім того, було визначено межі різних ареалів, що дозволяє провести стратифікацію і отримати більш точну оцінку поширеності різних видів. Тепер, з використанням QGIS, ми можемо проводити екологічні дослідження набагато краще."
+
+#~ msgid ""
+#~ "Overall, the course was a great success. We - a group of students with no "
+#~ "previous GIS experience - enjoyed working with QGIS a lot. Within just two "
+#~ "weeks time we were able to develop an extremely useful map of the reserve. "
+#~ "Amongst others, the extents of the various habitats were determined which "
+#~ "allows for stratification and thus for better estimates of abundances of "
+#~ "various kinds of organisms. Basically we are now able to do better "
+#~ "ecological research using QGIS as an open source platform."
+#~ msgstr ""

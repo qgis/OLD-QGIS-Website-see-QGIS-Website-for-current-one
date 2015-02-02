@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2013
+# Sorin Călinică <scalinica@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-11-04 09:49+0000\n"
+"PO-Revision-Date: 2014-12-03 19:27+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -15,19 +15,11 @@ msgstr ""
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:4
-msgid "QGIS as major GIS software in the Laboratory"
-msgstr "QGIS ca software de bază în laboratorul GIS"
-
 #: ../../source/site/about/case_studies/czech_brno.rst:6
-msgid "on Experimental and Applied Geography"
-msgstr "de Geografie Experimentală și Aplicată"
-
-#: ../../source/site/about/case_studies/czech_brno.rst:9
 msgid "Introduction"
 msgstr "Introducere"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:11
+#: ../../source/site/about/case_studies/czech_brno.rst:8
 msgid ""
 "Laboratory on Experimental and Applied Geography (LEAG) is part of College "
 "of Hotel and Business Management, Ltd. In Brno, Czech Republic (Vysoká škola"
@@ -37,120 +29,78 @@ msgid ""
 " reality of localities and regions."
 msgstr "Laboratorul de Geografie Experimentală și Aplicată (LEAG) face parte din Colegiul de Business și Management Hotelier, Ltd. din Brno, Republica Cehă (Vysoká škola obchodní un hotelová, sro), oferind învățământ superior în management turistic, de afaceri și hotelier. LEAG este axat pe modelarea proceselor socio-economice spațiale, analiza modelelor spațiale, descrierea și monitorizarea realității localităților și regiunilor."
 
-#: ../../source/site/about/case_studies/czech_brno.rst:18
+#: ../../source/site/about/case_studies/czech_brno.rst:15
 msgid "QGIS while modeling 3D objects (interpolation), terrain analysis"
 msgstr "Modelare 3D (interpolare) și analiză a terenului în QGIS"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:20
-msgid ""
-"LEAG plays important role in academic research held in College of Business "
-"and Hotel Management. The need of spatial modeling requires also excellent "
-"software. The philosophy of minimum cost and maximum efficiency led to "
-"choice of open source solutions. This step resulted in using core open "
-"source SW such as LibreOffice, GIMP, Inkscape and QGIS. QGIS does not stand "
-"alone – we use MapWindow, OpenJump, gvSIG, SAGA and others. But QGIS plays "
-"the major role."
-msgstr "LEAG joacă un rol important în cercetarea academică care a avut loc la Colegiul de Business și Management Hotelier. Nevoia de modelare spațială necesită, de asemenea, un software excelent. Filozofia costurilor minime și a maximei eficiențe a dus la alegerea de soluții open source. Acest pas a dus la utilizarea aplicațiilor open source, cum ar fi LibreOffice, GIMP, Inkscape și QGIS. QGIS nu este singular - folosim MapWindow, OpenJump, gvSIG, SAGA și altele. Dar QGIS joacă rolul major."
-
-#: ../../source/site/about/case_studies/czech_brno.rst:23
 msgid "Use of QGIS"
 msgstr "Utilizare QGIS"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:25
+#: ../../source/site/about/case_studies/czech_brno.rst:22
 msgid ""
 "QGIS is the leading software and stands in current versions (because of the "
 "“experimental” character of LEAG we are using the latest unstable releases "
 "instead of LTS versions) for several reasons:"
 msgstr "QGIS este pricipala aplicație, ea fiind instalată la zi (din cauza caracterului “experimental” al LEAG folosim cele mai recente versiuni instabile în locul versiunilor LTS - Long Term Support) din mai multe motive:"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:27
+#: ../../source/site/about/case_studies/czech_brno.rst:24
 msgid "Graphical User Interface (close to commercial products)"
 msgstr "Interfața grafică (mai aproapiară de cea a produselor comerciale)"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:28
+#: ../../source/site/about/case_studies/czech_brno.rst:25
 msgid "Quick development and integrating user-wanted features"
 msgstr "Rapida dezvoltare și integrare a funcțiilor cerute de utilizatori"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:29
+#: ../../source/site/about/case_studies/czech_brno.rst:26
 msgid ""
 "Stability and interoperability (we are using Windows and Ubuntu Linux "
 "platforms)"
 msgstr "Stabilitatea și interoperabilitatea (folosim platformele Windows și Ubuntu Linux)"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:30
+#: ../../source/site/about/case_studies/czech_brno.rst:27
 msgid "Others (mentioned e.g. in the case study written by Dr. Horst Düster)"
 msgstr "Altele (menționate în studiul de caz scris de către Dr. Horst Düster)"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:32
-msgid ""
-"Spatial analysis are done mainly using basic geoprocessing functions and "
-"python-based plugins. Recent projects where QGIS was used:"
-msgstr "Analiza spațială se face folosind în principal utilizând funcțiile de geoprocesare de bază și plugin-urile scrise în python. Proiecte recente în care a fost utilizat QGIS:"
-
-#: ../../source/site/about/case_studies/czech_brno.rst:34
+#: ../../source/site/about/case_studies/czech_brno.rst:31
 msgid "Modeling patterns between spatial location and inhabitants"
 msgstr "Modelarea paternurilor dintre locuitori și localizarea spațială a acestora "
 
-#: ../../source/site/about/case_studies/czech_brno.rst:35
+#: ../../source/site/about/case_studies/czech_brno.rst:32
 msgid ""
 "Creating 3D models for terrain visualization (and further use as hill-"
 "shadowing)"
 msgstr "Crearea de modele 3D pentru vizualizarea terenului (utilizabile ulterior pentru umbrire)"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:36
+#: ../../source/site/about/case_studies/czech_brno.rst:33
 msgid ""
 "Storing, creating and editing database of small and medium enterprises (+ "
 "further visualization)"
 msgstr "Stocarea, crearea și editarea de baze de date pentru întreprinderile mici și mijlocii (+ vizualizare)"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:37
+#: ../../source/site/about/case_studies/czech_brno.rst:34
 msgid ""
 "Homogenizing of free-to-use geodata and creation of “geo-data-bank” for "
 "students and researchers at College of Business and Hotel Management"
 msgstr "Omogenizarea datelor geografice cu utilizare liberă și crearea de 'geo-bănci-de-date' pentru studenții și cercetătorii de la Colegiul de Business și Management Hotelier"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:39
-msgid ""
-"QGIS is used with synergy to other open source products. For example the "
-"final layout is mostly create using Inkscape or GIMP (less in LibreOffice "
-"Draw). Web-based maps are editing using Inkscape (after SVG export) and "
-"raster maps are pre-edited using GIMP. QGIS is also great educational tool. "
-"College of Business and Hotel Management offers students subjects like "
-"“Geographical Information Systems I. and II.” or “Selected chapters from "
-"geoinformatic literacy” where QGIS is used as main platform for teaching "
-"students how to use GIS and how to produce high-quality maps. Recently, the "
-"QGIS was used as main product during GIS Day held at our school on November "
-"2010."
-msgstr "QGIS este utilizat în sinergie cu alte produse cu sursă deschisă. De exemplu, aspectul final este finisat, în cea mai mare parte, folosind Inkscape sau GIMP (mai puțin LibreOffice Draw). Hărțile bazate pe web sunt editate folosind Inkscape (după exportul în SVG) iar hărțile raster sunt pre-editate folosind GIMP. QGIS este, de asemenea, un minunat instrument educațional. Colegiul de Business și Management Hotelier oferă studenților cursuri de “Sisteme de Informații Geografice I și II” sau “Capitole selectate din alfabetizarea geoinformatică”, folosind QGIS ca platformă principală pentru a-i învăța pe studenți cum să folosească GIS și cum să producă hărți de înaltă calitate. Recent, QGIS a fost folosit ca produs principal pe durata Zilei GIS, care a avut loc la instituția noastră în noiembrie 2010."
-
-#: ../../source/site/about/case_studies/czech_brno.rst:47
+#: ../../source/site/about/case_studies/czech_brno.rst:45
 msgid "Using diagrams comparing population between two censuses"
 msgstr "Diagrame de comparare a populației între două recensăminte"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:50
+#: ../../source/site/about/case_studies/czech_brno.rst:48
 msgid "Conclusion"
 msgstr "Concluzii"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:52
-msgid ""
-"With no cost and high efficiency the Laboratory on Experimental and Applied "
-"Geography produces high-quality analysis, maps and visualizations. Using "
-"QGIS large databases are being created and further testing of new functions "
-"are being done. Finally, one of the highest impact of using QGIS could be "
-"seen in education – QGIS is the first software, which is presented to "
-"students. During regular workshops students learn how to legally work with "
-"QGIS and how to create their own maps."
-msgstr "Fără nici un cost, dar cu înaltă eficiență, Laboratorul de Geografie Experimentală și Aplicată produce analize de înaltă calitate, hărți și vizualizări. Utilizând QGIS a bazelor mari de date sunt create și teste suplimentare de noi funcții sunt realizate. În cele din urmă, unul dintre cel mai mare impact al folosind QGIS poate fi văzut în educație - QGIS este prima aplicație care este prezentată studenților. În timpul laboratoarelor, studenții învață cum să lucreze în mod legal cu QGIS și cum să-și creeze propriile hărți."
-
-#: ../../source/site/about/case_studies/czech_brno.rst:55
+#: ../../source/site/about/case_studies/czech_brno.rst:53
 msgid "Author"
 msgstr "Autor"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:62
+#: ../../source/site/about/case_studies/czech_brno.rst:60
 msgid "Jakub Trojan"
 msgstr "Jakub Trojan"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:64
+#: ../../source/site/about/case_studies/czech_brno.rst:62
 msgid ""
 "This article was contributed in November 2010 by Jakub Trojan. He is an "
 "academic researcher at College of Business and Hotel Management, Ltd. (Brno,"
@@ -158,3 +108,99 @@ msgid ""
 "Geography. He is also a doctoral student at Institute of Geography, Faculty "
 "of Science, Masaryk university (Brno, CZ)."
 msgstr "Acest articol a fost transmis în noiembrie 2010 de către Jakub Trojan. El este un cercetător academic la Colegiul de Business și Management Hotelier, Ltd. (Brno, CZ), unde a fondat și conduce Laboratorul de Geografie Experimentală și Aplicată. El este, de asemenea, student la doctorat la Institutul de Geografie, Facultatea de Științe, Universitatea Masaryk (Brno, CZ)."
+
+#: ../../source/site/about/case_studies/czech_brno.rst:3
+msgid ""
+"QGIS as major GIS software in the Laboratory on Experimental and Applied "
+"Geography"
+msgstr "QGIS ca software de bază în laboratorul GIS de Geografie Aplicată și Experimentală"
+
+#: ../../source/site/about/case_studies/czech_brno.rst:17
+msgid ""
+"LEAG plays important role in academic research held in College of Business "
+"and Hotel Management. The need of spatial modeling requires also excellent "
+"software. The philosophy of minimum cost and maximum efficiency led to "
+"choice of open source solutions. This step resulted in using core open "
+"source SW such as LibreOffice, GIMP, Inkscape and QGIS. QGIS does not stand "
+"alone –-- we use MapWindow, OpenJump, gvSIG, SAGA and others. But QGIS plays"
+" the major role."
+msgstr "LEAG joacă un rol important în cercetarea academică care a avut loc la Colegiul de Afaceri și Management Hotelier. Nevoia de modelare spațială cere, de asemenea, și un software excelent. Filozofia costurilor minime și eficiența maximă a dus la alegerea de soluții cu sursă  deschisă. Acest pas a dus la utilizarea aplicațiilor open source, cum ar fi LibreOffice, GIMP, Inkscape și QGIS. QGIS nu este singur –-- folosim MapWindow, OpenJump, gvSIG, SAGA și altele. Dar QGIS joacă rolul major."
+
+#: ../../source/site/about/case_studies/czech_brno.rst:29
+msgid ""
+"Spatial analysis are done mainly using basic geoprocessing functions and "
+"Python-based plugins. Recent projects where QGIS was used:"
+msgstr "Analiza spațială se face folosind, în principal, funcțiile de geoprocesare de bază și plugin-urile scrise în Python. Proiecte recente în care a fost utilizat QGIS:"
+
+#: ../../source/site/about/case_studies/czech_brno.rst:36
+msgid ""
+"QGIS is used with synergy to other open source products. For example the "
+"final layout is mostly create using Inkscape or GIMP (less in LibreOffice "
+"Draw). Web-based maps are editing using Inkscape (after SVG export) and "
+"raster maps are pre-edited using GIMP."
+msgstr "QGIS este utilizat în sinergie cu alte produse cu sursă deschisă. De exemplu, aspectul final este finisat, în cea mai mare parte, folosindu-se Inkscape sau GIMP (mai puțin LibreOffice Draw). Hărțile bazate pe web sunt editate în Inkscape (după exportul în SVG) iar hărțile raster sunt pre-editate cu GIMP. "
+
+#: ../../source/site/about/case_studies/czech_brno.rst:38
+msgid ""
+"QGIS is also great educational tool. College of Business and Hotel "
+"Management offers students subjects like “Geographical Information Systems "
+"I. and II.” or “Selected chapters from geoinformatic literacy” where QGIS is"
+" used as main platform for teaching students how to use GIS and how to "
+"produce high-quality maps. Recently, the QGIS was used as main product "
+"during GIS Day held at our school on November 2010."
+msgstr "QGIS este, de asemenea, un minunat instrument educațional. Colegiul de Afaceri și Management Hotelier oferă studenților cursuri de “Sisteme de Informații Geografice I și II” sau “Capitole selectate din alfabetizarea geoinformatică”, folosind QGIS ca platformă principală pentru a-i învăța pe studenți cum să utilizeze GIS și cum să producă hărți de înaltă calitate. Recent, QGIS a fost folosit ca produs principal pe durata Zilei GIS, care a avut loc la instituția noastră în noiembrie 2010."
+
+#: ../../source/site/about/case_studies/czech_brno.rst:50
+msgid ""
+"With no cost and high efficiency the Laboratory on Experimental and Applied "
+"Geography produces high-quality analysis, maps and visualizations. Using "
+"QGIS large databases are being created and further testing of new functions "
+"are being done. Finally, one of the highest impact of using QGIS could be "
+"seen in education --- QGIS is the first software, which is presented to "
+"students. During regular workshops students learn how to legally work with "
+"QGIS and how to create their own maps."
+msgstr "Fără nici un cost, dar cu multă eficiență, Laboratorul de Geografie Experimentală și Aplicată produce analize de înaltă calitate, hărți și prezentări. Utilizând QGIS sunt create mari baze de date și se realizează teste suplimentare pentru noi funcții. În cele din urmă, unul dintre marile impacte pe care îl are folosirea QGIS se poate observa în educație - QGIS este prima aplicație care este prezentată studenților. Pe durata laboratoarelor, studenții învață cum să lucreze în mod legal cu QGIS și cum să-și creeze propriile hărți."
+
+#~ msgid "QGIS as major GIS software in the Laboratory"
+#~ msgstr ""
+
+#~ msgid "on Experimental and Applied Geography"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "LEAG plays important role in academic research held in College of Business "
+#~ "and Hotel Management. The need of spatial modeling requires also excellent "
+#~ "software. The philosophy of minimum cost and maximum efficiency led to "
+#~ "choice of open source solutions. This step resulted in using core open "
+#~ "source SW such as LibreOffice, GIMP, Inkscape and QGIS. QGIS does not stand "
+#~ "alone – we use MapWindow, OpenJump, gvSIG, SAGA and others. But QGIS plays "
+#~ "the major role."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Spatial analysis are done mainly using basic geoprocessing functions and "
+#~ "python-based plugins. Recent projects where QGIS was used:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS is used with synergy to other open source products. For example the "
+#~ "final layout is mostly create using Inkscape or GIMP (less in LibreOffice "
+#~ "Draw). Web-based maps are editing using Inkscape (after SVG export) and "
+#~ "raster maps are pre-edited using GIMP. QGIS is also great educational tool. "
+#~ "College of Business and Hotel Management offers students subjects like "
+#~ "“Geographical Information Systems I. and II.” or “Selected chapters from "
+#~ "geoinformatic literacy” where QGIS is used as main platform for teaching "
+#~ "students how to use GIS and how to produce high-quality maps. Recently, the "
+#~ "QGIS was used as main product during GIS Day held at our school on November "
+#~ "2010."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "With no cost and high efficiency the Laboratory on Experimental and Applied "
+#~ "Geography produces high-quality analysis, maps and visualizations. Using "
+#~ "QGIS large databases are being created and further testing of new functions "
+#~ "are being done. Finally, one of the highest impact of using QGIS could be "
+#~ "seen in education – QGIS is the first software, which is presented to "
+#~ "students. During regular workshops students learn how to legally work with "
+#~ "QGIS and how to create their own maps."
+#~ msgstr ""

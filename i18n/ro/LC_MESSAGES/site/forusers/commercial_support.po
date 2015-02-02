@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-30 16:33+0000\n"
+"PO-Revision-Date: 2014-11-02 06:15+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -46,7 +46,7 @@ msgid ""
 "proposes support, development and consulting on QGIS."
 msgstr "|3liz| `3liz <http://www.3liz.com/>`_ (cu sediul în Franța) oferă o gamă completă de servicii centrate pe QGIS, pentru toate categoriile de utilizatori, de la începător până la avansat. În funcție de nevoile dumneavoastră, 3Liz oferă sesiuni de instruire în QGIS, cartografiere web prin portal LizMap --- bazat pe QGIS Desktop & QGIS server --- care permite publicarea ușoară a datelor pe Web, asigurându-vă, de asemenea, consultanță și asistență pentru dezvoltarea cu ajutorul QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:93
+#: ../../source/site/forusers/commercial_support.rst:107
 msgid ""
 "|opengisch| `opengis.ch <http://opengis.ch/>`_  (Switzerland, operating "
 "worldwide) provides commercial support, training and programming for QGIS "
@@ -61,34 +61,27 @@ msgid ""
 "PostgreSQL/PostGIS."
 msgstr "|faunalia| `Faunalia <http://www.faunalia.eu/>`_ (cu sedii în Italia și Portugalia, dar operează în întreaga lume) oferă servicii de dezvoltare (a nucleului de bază dar și a plugin-urilor), instruire și suport comercial pentru QGIS, GRASS, GDAL/OGR și PostgreSQL/PostGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:60
-msgid ""
-"|linfin| `Linfiniti Consulting <http://linfiniti.com/>`_ (based in "
-"Swellendam, South Africa), we provide commercial support and training for "
-"QGIS and GRASS."
-msgstr "|linfin| `Linfiniti Consulting <http://linfiniti.com/>`_ (cu sediul în Swellendam, Africa de Sud), oferim suport comercial și formare pentru QGIS și GRASS."
-
-#: ../../source/site/forusers/commercial_support.rst:77
+#: ../../source/site/forusers/commercial_support.rst:91
 msgid ""
 "|nextgis| `NextGIS <http://nextgis.org/>`_ (based in Moscow, Russia) "
 "provides commercial support, custom programming and training for QGIS, "
 "PostGIS and GRASS."
 msgstr "|nextgis| `NextGIS <http://nextgis.org/>`_ (cu sediul la Moscova, Rusia) oferă suport comercial, programare personalizată și instruire pentru QGIS, PostGIS și GRASS."
 
-#: ../../source/site/forusers/commercial_support.rst:85
+#: ../../source/site/forusers/commercial_support.rst:99
 msgid ""
 "|norbit| `norBIT GmbH <http://www.norbit.de/64>`_ (based in Norden, Germany)"
 " provides commercial support and custom programming for QGIS."
 msgstr "|norbit| `norBIT GmbH <http://www.norbit.de/64>`_ (cu sediul în Norden, Germania) oferă asistență comercială și programare personalizată pentru QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:102
+#: ../../source/site/forusers/commercial_support.rst:116
 msgid ""
 "|oslandia| `Oslandia <http://www.oslandia.com/?page_id=20>`_ (based in "
 "France) provides services on OpenSource GIS. Oslandia offers training, "
 "support, development and consulting, namely on QGIS and PostGIS."
 msgstr "|oslandia| `Oslandia <http://www.oslandia.com/?page_id=20>`_ (cu sediul în Franța) oferă servicii OpenSource GIS. Oslandia oferă instruire, asistență, dezvoltare și consultanță, pentru QGIS și PostGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:111
+#: ../../source/site/forusers/commercial_support.rst:125
 msgid ""
 "|sourcepole| `Sourcepole <http://www.sourcepole.com/>`_ (based in Zurich, "
 "Switzerland and operating worldwide) provides FOSSGIS training, commercial "
@@ -97,11 +90,11 @@ msgid ""
 "sophisticated developments for QGIS."
 msgstr "|sourcepole| `Sourcepole <http://www.sourcepole.com/>`_ (cu sedii în Zurich, Elveția, dar operează la nivel mondial) oferă instruire FOSSGIS, suport comercial și contracte de întreținere, precum și geo-găzduire în cloud pentru QGIS. Alături de trei dezvoltatori de bază Sourcepole este capabilă să ofere dezvoltări complexe bazate pe QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:120
+#: ../../source/site/forusers/commercial_support.rst:134
 msgid "Contributors"
 msgstr "Colaboratori"
 
-#: ../../source/site/forusers/commercial_support.rst:138
+#: ../../source/site/forusers/commercial_support.rst:152
 msgid ""
 "|camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-"
 "solutions>`_ is an Open Source service company based in Europe offering "
@@ -117,7 +110,7 @@ msgid ""
 "take full advantage of your GIS investment."
 msgstr "|dms| `Digital Mapping Solutions <http://www.mapsolutions.com.au/>`_ (cu sediul în Australia) lucrează cu organizații guvernamentale și comerciale de peste 15 ani, oferindu-și produsele, serviciile și abilitățile pentru a vă ajuta să profitați din plin de investițiile dumneavoastră în GIS."
 
-#: ../../source/site/forusers/commercial_support.rst:148
+#: ../../source/site/forusers/commercial_support.rst:162
 msgid ""
 "|gaia3d| `Gaia3D, Inc. <http://www.gaia3d.com/>`_ (based in South Korea) is "
 "a leading Open Source GIS company in Korea. Gaia3D offers professional "
@@ -125,69 +118,63 @@ msgid ""
 "GeoServer and OpenLayers"
 msgstr "|gaia3d| `Gaia3D, Inc. <http://www.gaia3d.com/>`_ (cu sediul în Coreea de Sud) este un lider în lumea companiilor GIS cu sursă deschisă din Coreea. Gaia3D oferă servicii de dezvoltare profesională, instruire, consultanță și suport pentru QGIS, PostGIS, GeoServer și OpenLayers."
 
-#: ../../source/site/forusers/commercial_support.rst:158
-msgid ""
-"|itopen| `IT Open <http://www.itopen.it/>`_ (based in Luserna san Giovanni "
-"(TO) Italy) provides IT Solutions for free companies."
-msgstr "|itopen| `IT Open <http://www.itopen.it/>`_ (cu sediul în Luserna san Giovanni (TO), Italia) oferă soluții IT pentru companii care utilizează aplicații gratuite."
-
-#: ../../source/site/forusers/commercial_support.rst:68
+#: ../../source/site/forusers/commercial_support.rst:82
 msgid ""
 "|lutra_consulting| `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ "
 "(based in the UK) provide training, support and bespoke software development"
 " services for QGIS."
 msgstr "|lutra_consulting| `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ (cu sediul în Marea Britanie) oferă pregătire, suport și servicii de dezvoltare personalizată de software pentru QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:166
+#: ../../source/site/forusers/commercial_support.rst:172
 msgid ""
 "|wmlogo| `Webmapper <http://www.webmapper.nl/>`_ (Based in Utrecht, The "
 "Netherlands). We focus on creating usable web mapping solutions and "
 "consultancy services in the fields of web cartography and GIS."
 msgstr "|wmlogo| `Webmapper <http://www.webmapper.nl/>`_ (cu sediul în Utrecht, Olanda). Ne concentrăm pe crearea de soluții utilizabile de cartografiere web și servicii de consultanță în domeniul cartografiei web și GIS."
 
-#: ../../source/site/forusers/commercial_support.rst:171
+#: ../../source/site/forusers/commercial_support.rst:177
 msgid "Others"
 msgstr "Alții"
 
-#: ../../source/site/forusers/commercial_support.rst:176
+#: ../../source/site/forusers/commercial_support.rst:182
 msgid ""
 "|astun| `Astun Technology <http://astuntechnology.com/>`_ (based in UK) "
 "provides training for QGIS."
 msgstr "|astun| `Astun Technology <http://astuntechnology.com/>`_ (cu sediul în Marea Britanie) oferă cursuri de formare pentru QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:184
+#: ../../source/site/forusers/commercial_support.rst:190
 msgid ""
 "|agx| `AdventGX <http://www.adventgx.com/>`_ (based in College Station, TX) "
 "provides installation, training, and implementation support for QGIS."
 msgstr "|agx| `AdventGX <http://www.adventgx.com/>`_ (cu sediul în College Station, TX) oferă o suport pentru instalare, instruire și  implementare QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:192
+#: ../../source/site/forusers/commercial_support.rst:198
 msgid ""
 "|bev| `Bird's Eye View GIS <http://www.adventgx.com/>`_ (Based in "
 "Albuquerque, New Mexico) provides commercial GIS services and support and "
 "training in QGIS, GRASS GIS and other FOSS GIS applications."
 msgstr "|bev| `Bird's Eye View GIS <http://www.adventgx.com/>`_ (cu sediul în Albuquerque, New Mexico) oferă servicii comerciale de asistență și instruire în QGIS, GRASS GIS și alte aplicații FOSS GIS."
 
-#: ../../source/site/forusers/commercial_support.rst:201
+#: ../../source/site/forusers/commercial_support.rst:207
 msgid ""
 "|gis3w| `GIS3W <http://www.gis3w.it/>`_ (based in Italy) provide geographic "
 "and ecological analysis services and support and assistance with QGIS."
 msgstr "|gis3w| `GIS3W <http://www.gis3w.it/>`_ (cu sediul în Italia) oferă servicii de analiză geografice și ecologice, precum și asistență pentru QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:209
+#: ../../source/site/forusers/commercial_support.rst:215
 msgid ""
 "|karttakeskus| `Karttakeskus <http://www.karttakeskus.fi/>`_ (based in "
 "Finland) provides commercial support and training for QGIS and open spatial "
 "data."
 msgstr "|karttakeskus| `Karttakeskus <http://www.karttakeskus.fi/>`_ (cu sediul în Finlanda) oferă sprijin comercial și instruire pentru QGIS și date spațiale deschise."
 
-#: ../../source/site/forusers/commercial_support.rst:217
+#: ../../source/site/forusers/commercial_support.rst:223
 msgid ""
 "|imt| `The Institute For Mapping Technology <http://learninggis.com/>`_ "
 "(based in Austin, TX) provides support and training for QGIS and PostGIS."
 msgstr "|imt| `lnstitutul pentru Tehnologia Cartografiei <http://learninggis.com/>`_ (cu sediul în Austin, TX) oferă suport și instruire pentru QGIS și PostGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:225
+#: ../../source/site/forusers/commercial_support.rst:231
 msgid ""
 "|ngnuity| `nGNUity.net- <http://ngnuity.net/>`_ FOSS advocate from the "
 "Philippines providing commercial GIS services, training, and consulting for "
@@ -197,7 +184,7 @@ msgid ""
 "Toolbox software stack."
 msgstr "|ngnuity| `nGNUity.net- <http://ngnuity.net/>`_ susținători FOSS din Filipine furnizează încă din 2007 servicii comerciale GIS, instruire și consultanță pentru QGIS, asistență în vizualizarea datelor spațiale pentru autorități locale, organizații non-profit, agenții de cercetare și grupuri comunitare. Oferă diverse colecții de date mobile și servicii de cartografiere folosind pachetul software Open Data Kit / KoBo Toolbox."
 
-#: ../../source/site/forusers/commercial_support.rst:236
+#: ../../source/site/forusers/commercial_support.rst:242
 msgid ""
 "|northriver| `North River Geographic Systems, Inc "
 "<http://www.northrivergeographic.com/>`_ is a small GIS Consulting firm "
@@ -206,28 +193,28 @@ msgid ""
 "data analysis."
 msgstr "|northriver| `North River Geographic Systems, Inc <http://www.northrivergeographic.com/>`_ este o mică firmă de consultanță GIS situată în sud-estul Statelor Unite. Oferim servicii geospațiale, cum ar fi conversia datelor, și suport pentru aplicațiile ESRI sau FOSS4G, cartografierea și analiza datelor."
 
-#: ../../source/site/forusers/commercial_support.rst:264
+#: ../../source/site/forusers/commercial_support.rst:269
 msgid ""
 "|sungis| `SunGIS <http://www.sungis.lv/>`_ (based in Valmiera, Latvia) "
 "provides commercial support, consulting, data processing and custom "
 "programming for QGIS, GRASS GIS and FOSS GIS based SDI solutions."
 msgstr "|sungis| `SunGIS <http://www.sungis.lv/>`_ (cu sediul în Valmiera, Letonia) oferă suport comercial, consultanță, prelucrarea datelor și programare personalizată pentru soluțiile pentru Infrastructura Datelor Spațiale, QGIS, GRASS GIS și FOSS GIS."
 
-#: ../../source/site/forusers/commercial_support.rst:281
+#: ../../source/site/forusers/commercial_support.rst:286
 msgid ""
 "|terrestris| `Terrestris "
 "<http://www.terrestris.de/dienstleistungen/schulungen/>`_ (Bonn, Germany) "
 "provides commercial services and training for QGIS."
 msgstr "|terrestris| `Terrestris <http://www.terrestris.de/dienstleistungen/schulungen/>`_ (Bonn, Germania) oferă servicii comerciale și instruire pentru QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:246
+#: ../../source/site/forusers/commercial_support.rst:252
 msgid ""
 "|liviostump| `Livio Stump <http://www.liviostump.ch>`_ (based in Lucerne, "
 "Switzerland) provides commercial GIS consulting, support and training in "
 "QGIS."
 msgstr "|liviostump| `Livio Stump <http://www.liviostump.ch>`_ (cu sediul în Lucerna, Elveția) oferă servicii de consultanță comercială, asistență și instruire în QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:273
+#: ../../source/site/forusers/commercial_support.rst:278
 msgid ""
 "|taxusit| `TAXUS IT <http://taxusit.com.pl>`_ (based in Warszawa, Poland) "
 "provides commercial GIS services also support and training in QGIS and "
@@ -241,7 +228,7 @@ msgid ""
 "support and programing for QGIS, GRASS and other FOSS applications."
 msgstr "|gbd-consult| `Geoinformatikbüro Dassau <http://www.gbd-consult.de/>`_ (cu sediul în Düsseldorf, Germania) oferă consultanță comercială, instruire, programare și suport pentru QGIS, GRASS și alte aplicații FOSS."
 
-#: ../../source/site/forusers/commercial_support.rst:125
+#: ../../source/site/forusers/commercial_support.rst:139
 msgid ""
 "|cartoexpert| `CartoExpert <http://www.cartoexpert.com/index.php/formations"
 "/qgis-formation-quantum-gis.html>`_ based in France) is a geomatics "
@@ -252,14 +239,61 @@ msgid ""
 "(Initiation, Improvement, workshops, mobile etc)."
 msgstr "|cartoexpert| `CartoExpert <http://www.cartoexpert.com/index.php/formations/qgis-formation-quantum-gis.html>`_ cu sediul în Franța) este un centru de competență în geomatică,  oferind atât servicii naționale cât și internaționale, consultanță în cartografie și în sistemele de informații geografice. CartoExpert oferă suport tehnic pentru QGIS, asistență în implementarea QGIS în cadrul organizației dvs. precum și instruire în GIS cu ajotorul QGIS (inițiere, perfecționare, ateliere de lucru, etc)."
 
-#: ../../source/site/forusers/commercial_support.rst:254
+#: ../../source/site/forusers/commercial_support.rst:260
 msgid ""
-"|claasleiner| `Praxis für Geodatenmanagement und freie "
-"Geoinformationssysteme <http://www.eschenlaub.de/>`_ (Based in Kassel, "
-"Germany) provides training, services and support around the free geographic "
-"information systems QGIS, GRASS, SAGA and PostGIS as well as spatial data "
-"management, analysis and cartography."
-msgstr "|claasleiner| `Praxis für Geodatenmanagement und freie Geoinformationssysteme <http://www.eschenlaub.de/>`_ (\\cu sediul în Kassel, Germania) oferă cursuri de formare, servicii și suport pentru sistemele de informații geografice gratuite QGIS, GRASS, SAGA și PostGIS, precum și analiza, cartografia și gestiunea datelor spațiale."
+"|claasleiner| `GKG Kassel, Germany (Dr.-Ing. Claas Leiner) "
+"<http://www.eschenlaub.de/>`_ provides training, services and support around"
+" the free geographic information systems QGIS, GRASS, SAGA and PostGIS as "
+"well as spatial data management, analysis and cartography."
+msgstr "|claasleiner| `GKG Kassel, Germany (Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_ oferă cursuri de formare, servicii și suport pentru sistemele de informații geografice gratuite QGIS, GRASS, SAGA și PostGIS, precum și analiză, cartografie și gestiune a datelor spațiale."
+
+#: ../../source/site/forusers/commercial_support.rst:60
+msgid ""
+"|itopen| `It Open <http://www.itopen.it/>`_ (based in Italy) provides "
+"commercial support and C++/Python development services for QGIS Desktop and "
+"Server, PostGIS, Django and other free and open source software packages for"
+" both the web and the server side."
+msgstr "|itopen| `It Open <http://www.itopen.it/>`_ (cu sediul în Italia) oferă suport comercial și servicii de dezvoltare în C++/Python pentru QGIS Desktop și Server, PostGIS, Django și alte pachete software gratuite și open source, atât pentru web cât și pe parte de server."
+
+#: ../../source/site/forusers/commercial_support.rst:71
+msgid ""
+"|kartoza| `Kartoza (Pty) Ltd. <http://kartoza.com>`_ (with offices in "
+"Swellendam and Paarl in the Western Cape Provice of South Africa). We "
+"provide commercial support and training for QGIS Desktop and Server and "
+"carry out feature development for QGIS on a contract basis. We also develop "
+"plugins in Python and C++ for QGIS. **Note:** Kartoza was formerly known as "
+"Linfiniti Consulting."
+msgstr "|kartoza| `Kartoza (Pty) Ltd. <http://kartoza.com>`_ (cu birouri în localitățile Swellendam și Paarl din provincia Western Cape, Africa de Sud). Oferim suport comercial și instruire pentru QGIS Desktop și Server, și dezvoltăm funcționalități pentru QGIS pe bază de contract. De asemenea, construim plugin-uri în Python și C++ pentru QGIS. **Notă:** Kartoza fost cunoscută anterior sub denumirea de Linfiniti Consulting."
+
+#: ../../source/site/forusers/commercial_support.rst:296
+msgid ""
+"|thinkwhere| `thinkWhere <http://www.thinkwhere.com/>`_ (Stirling, Scotland)"
+" thinkWhere is one of the leading independent GIS consultancies in the UK.  "
+"We provide a broad range of innovative GIS products and services including "
+"\"Location Centre\" (a hosted Cloud-based GIS built from OpenSource "
+"technologies). As a QGIS site, our team of geospatial experts use QGIS on a "
+"daily basis and provide QGIS Support to customers.  We also run regular QGIS"
+" and PostGIS Training courses."
+msgstr "|thinkwhere| `thinkWhere <http://www.thinkwhere.com/>`_ (Stirling, Scoția) thinkWhere este una dintre cele mai importante companii de consultanță GIS, independente, din Marea Britanie. Oferim o gamă largă de produse și servicii inovatoare, inclusiv un \"Centru Locativ\" (un GIS găzduit în cloud, construit cu tehnologii OpenSource). Echipa noastră de experți geospațiali folosește zilnic QGIS, și oferă asistență de specialitate clienților. Organizăm, de asemenea, în mod regulat Cursuri de instruire în QGIS și PostGIS."
+
+#~ msgid ""
+#~ "|linfin| `Linfiniti Consulting <http://linfiniti.com/>`_ (based in "
+#~ "Swellendam, South Africa), we provide commercial support and training for "
+#~ "QGIS and GRASS."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "|itopen| `IT Open <http://www.itopen.it/>`_ (based in Luserna san Giovanni "
+#~ "(TO) Italy) provides IT Solutions for free companies."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "|claasleiner| `Praxis für Geodatenmanagement und freie "
+#~ "Geoinformationssysteme <http://www.eschenlaub.de/>`_ (Based in Kassel, "
+#~ "Germany) provides training, services and support around the free geographic "
+#~ "information systems QGIS, GRASS, SAGA and PostGIS as well as spatial data "
+#~ "management, analysis and cartography."
+#~ msgstr ""
 
 #~ msgid ""
 #~ "|gbd-consult| `GBD-consult <http://www.gbd-consult.de/>`_ (based in "

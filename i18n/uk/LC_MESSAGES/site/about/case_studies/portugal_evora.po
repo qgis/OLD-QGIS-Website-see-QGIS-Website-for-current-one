@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-03-23 11:05+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2014-12-16 09:23+0000\n"
+"Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,28 +14,115 @@ msgstr ""
 "Language: uk\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: ../../source/site/about/case_studies/portugal_evora.rst:4
+#: ../../source/site/about/case_studies/portugal_evora.rst:3
 msgid "QGIS and GRASS in Biogeographical Research in the Iberian Peninsula"
-msgstr ""
+msgstr "QGIS та GRASS у біогеографічних дослідженнях Піренейського півострова"
 
-#: ../../source/site/about/case_studies/portugal_evora.rst:6
+#: ../../source/site/about/case_studies/portugal_evora.rst:11
+msgid ""
+"Distribution of Spanish algyroides (Algyroides marchi) at three spatial "
+"scales and from two different data sources."
+msgstr "Розповсюдження Spanish algyroides (Algyroides marchi) у трьох просторових масштабах з двох різних джерел."
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:21
+msgid ""
+"Environmental suitability for the Pyrenean desman (Galemys pyrenaicus) "
+"together with presence, absence, and random points in north Catalonia "
+"(Spain)."
+msgstr "Екологічна придатність для піренейської хохулі(Galemys pyrenaicus) на півночі Каталонії (Іспанія) разом з даним про наявність, відсутність та випадковими точками."
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:25
+msgid "Conclusion"
+msgstr "Підсумки"
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:27
+msgid ""
+"All in all, switching to QGIS/GRASS brought me nothing but advantages. I can"
+" now work freely at work, at home and on my laptop on the move, without "
+"having to worry about software licenses or moving to new institutions. Open-"
+"source software covers all my research needs and gives me the freedom I "
+"longed for."
+msgstr "В цілому перехід на QGIS/GRASS не приніс мені нічого крім переваг. Тепер я можу вільно працювати на роботі, вдома, та на своєму ноутбуку під час подорожей і не перейматися з приводу ліцензій або перехід у інший університет. Вільне програмне забезпечення задовольняє всі потреби моїх досліджень та дає мені свободу, яку я хотіла."
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:41
+msgid "Author"
+msgstr "Автор"
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:50
+msgid ""
+"This article was contributed in July 2010 by A. Márcia Barbosa. She is a "
+"post-doctoral researcher at Imperial College London (UK) and the University "
+"of Évora (Portugal)."
+msgstr "A. Márcia Barbosa надіслала цю статтю у липні 2010 року. Вона є науковим співробітником Лондонського королівського коледжу (Велика Британія) та університету Евора (Португалія)."
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:30
+msgid "References"
+msgstr "Посилання"
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:32
+msgid ""
+"[1] Barbosa A.M., Fontaneto D., Marini L. & Pautasso M. (2010) Is the human "
+"population a large-scale indicator of the species richness of ground "
+"beetles? Animal Conservation, early view. doi: "
+"10.1111/j.1469-1795.2010.00363.x."
+msgstr "[1] Barbosa A.M., Fontaneto D., Marini L. & Pautasso M. (2010) Is the human population a large-scale indicator of the species richness of ground beetles? Animal Conservation, early view. doi: 10.1111/j.1469-1795.2010.00363.x."
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:33
+msgid ""
+"[2] Fontaneto D., Barbosa A.M., Pautasso M. & Segers H. (submitted) The "
+"'rotiferologist' effect and the drivers of species richness in rotifers."
+msgstr "[2] Fontaneto D., Barbosa A.M., Pautasso M. & Segers H. (submitted) The 'rotiferologist' effect and the drivers of species richness in rotifers."
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:34
+msgid ""
+"[3] Barbosa, A.M., R. Real, J. Olivero & J.M. Vargas, 2003. Otter (Lutra "
+"lutra) distribution modeling at two resolution scales suited to conservation"
+" planning in the Iberian Peninsula. Biological Conservation, 114:377-387."
+msgstr "[3] Barbosa, A.M., R. Real, J. Olivero & J.M. Vargas, 2003. Otter (Lutra lutra) distribution modeling at two resolution scales suited to conservation planning in the Iberian Peninsula. Biological Conservation, 114:377-387."
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:35
+msgid ""
+"[4] Barbosa A.M., Real R. & Vargas J.M. (2009) Transferability of "
+"environmental favourability models in geographic space: the case of the "
+"Iberian desman (Galemys pyrenaicus) in Portugal and Spain. Ecological "
+"Modelling 220: 747-754. doi: 10.1016/j.ecolmodel.2008.12.004"
+msgstr "[4] Barbosa A.M., Real R. & Vargas J.M. (2009) Transferability of environmental favourability models in geographic space: the case of the Iberian desman (Galemys pyrenaicus) in Portugal and Spain. Ecological Modelling 220: 747-754. doi: 10.1016/j.ecolmodel.2008.12.004"
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:36
+msgid ""
+"[5] Barbosa A.M., Real R. & Vargas J.M. (2010) Use of coarse-resolution "
+"models of species' distributions to guide local conservation inferences. "
+"Conservation Biology, early vew. doi: 10.1111/j.1523-1739.2010.01517.x"
+msgstr "[5] Barbosa A.M., Real R. & Vargas J.M. (2010) Use of coarse-resolution models of species' distributions to guide local conservation inferences. Conservation Biology, early vew. doi: 10.1111/j.1523-1739.2010.01517.x"
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:37
+msgid ""
+"[6] Real R., A. M. Barbosa, A. Rodríguez, F. J. García, J. M. Vargas, L. J. "
+"Palomo & M. Delibes, 2008. Conservation biogeography of ecologically-"
+"interacting species: the case of the Iberian lynx and the European rabbit. "
+"Diversity and Distributions, 15: 390–400. doi: "
+"10.1111/j.1472-4642.2008.00546.x."
+msgstr "[6] Real R., A. M. Barbosa, A. Rodríguez, F. J. García, J. M. Vargas, L. J. Palomo & M. Delibes, 2008. Conservation biogeography of ecologically-interacting species: the case of the Iberian lynx and the European rabbit. Diversity and Distributions, 15: 390–400. doi: 10.1111/j.1472-4642.2008.00546.x."
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:38
+msgid ""
+"[7] Barbosa, A.M. & Real, R. (in press) Favourable areas for expansion and "
+"reintroduction of Iberian lynx accounting for distribution trends and "
+"genetic diversity of the European rabbit. Wildlife Biology in Practice.\""
+msgstr "[7] Barbosa, A.M. & Real, R. (in press) Favourable areas for expansion and reintroduction of Iberian lynx accounting for distribution trends and genetic diversity of the European rabbit. Wildlife Biology in Practice.\""
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:5
 msgid ""
 "I started applying GIS to my work in biogeography about 10 years ago. "
 "Through my graduate internship, PhD work and two other research jobs, I used"
 " the proprietary software packages that were available and used at my "
-"workplaces – mainly CartaLinx, Idrisi, ArcView and ArcGIS. But I found it "
+"workplaces --– mainly CartaLinx, Idrisi, ArcView and ArcGIS. But I found it "
 "rather annoying that we were constantly dealing with license renewal issues,"
 " and that I could not use the software away from the workplace unless I "
 "acquired my own license."
-msgstr ""
+msgstr "Я почала використовувати ГІС у своїй роботі з біогеографіі близько 10 років тому. Під час стажування, написання кандидатської дисертації та виконання двох інших дослідницьких робіт я використовувала власницьке програмне забезпечення, яке було встановлене та використовувалось на робочому місці --- в основному CartaLinx, Idrisi, ArcView та ArcGIS. Але мене дратувало те, що нам постійно доводиться повертатися до питань поновлення ліцензій а також те, що я не можу використовувати це програмне забезпечення деінде, якщо не придбаю свою власну ліцензію."
 
-#: ../../source/site/about/case_studies/portugal_evora.rst:12
-msgid ""
-"Distribution of Spanish algyroides (Algyroides marchi) at three spatial "
-"scales and from two different data sources."
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:14
+#: ../../source/site/about/case_studies/portugal_evora.rst:13
 msgid ""
 "It crossed my mind on several occasions that switching to free software "
 "would spare me those problems. However, there was prejudice against the "
@@ -47,107 +134,59 @@ msgid ""
 "QGIS and GRASS. It was probably the best decision of my professional life! I"
 " found that QGIS provided a very intuitive interface for GRASS, hat they "
 "complemented each other perfectly, and they provided all the analytical "
-"capabilities I needed. I started using both programs immediately after the "
-"course. Not only did I begin all my new GIS work with QGIS/GRASS [e.g. 1,2],"
-" but I also did follow-up analyses on previous works that I had done with "
-"commercial software. For example, I had built models of otter [3] and desman"
-" [4] distribution in the Iberian Peninsula. After switching to QGIS-GRASS, I"
-" analysed how those models behaved when downscaled to a finer resolution "
-"[5]. Another previous work on biogeographic relationships between Iberian "
-"lynx and rabbit [6] had a follow-up after I switched to QGIS-GRASS [7]. Not "
-"only did I not have any problems with the migration of the data and previous"
-" results: I also found it much easier to do the things I wanted to do with "
+"capabilities I needed."
+msgstr "Декілька разів я думала про те, що перехід на вільне програмне забезпечення може позбавити мене цих проблем. Однак, було упереджене ставлення до аналітичних можливостей вільного програмного забезпечення. І навіть після того, як я почула про потенціал GRASS, я все ще сумнівалась, оскільки думала, що навчитися працювати у нових програмах буде важко. Також я побоювалась, що перенесення всіх карт та методів аналізу, що я вже створила, буде важким та тривалим. На початку навчання в аспірантурі у 2008 році, я нарешті вирішила спробувати та пройшла курс по роботі в QGIS та GRASS. Це було чи не найкращим рішенням у моєму професійному житті! Я виявила, що QGIS має дуже зручний та зрозумілий інтерфейс до GRASS, вони ідеально доповнюють одна одну та мають всі необхідні для мене аналітичні можливості."
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:15
+msgid ""
+"I started using both programs immediately after the course. Not only did I "
+"begin all my new GIS work with QGIS/GRASS [e.g. 1, 2], but I also did "
+"follow-up analyses on previous works that I had done with commercial "
+"software. For example, I had built models of otter [3] and desman [4] "
+"distribution in the Iberian Peninsula. After switching to QGIS-GRASS, I "
+"analysed how those models behaved when downscaled to a finer resolution [5]."
+" Another previous work on biogeographic relationships between Iberian lynx "
+"and rabbit [6] had a follow-up after I switched to QGIS-GRASS [7]. Not only "
+"did I not have any problems with the migration of the data and previous "
+"results: I also found it much easier to do the things I wanted to do with "
 "the new software, and was able to do extra analyses which I could not have "
 "done with the programs I used before."
-msgstr ""
+msgstr "Я почала використовувати обидві програми одразу після курсу. Я не тільки почала виконувати всі нові роботи в QGIS/GRASS [наприклад, 1, 2], але також використовувала їх у продовженні попередніх робіт, які починала виконувати у власницькому програмному забезпеченні. Наприклад, я створила моделі розповсюдження видри [3] та хохулі [4] на Піренейському півострові. Після переходу на QGIS-GRASS я проаналізувала як ці моделі працюють на більше детальних масштабах [5]. Інша робота про біогеографічний зв'язок іберійської рисі та кролів [6] отримала своє продовження після переходу на QGIS-GRASS [7]. Я не тільки не мала жодних проблем з переносом даних та результатів, виявилось що виконувати необхідні дії у новому програмному забезпечені значно легше і, крім того, я можу робити додаткові види аналізу, які були недоступні в раніше використовуваних програмах."
 
-#: ../../source/site/about/case_studies/portugal_evora.rst:21
-msgid ""
-"Environmental suitability for the Pyrenean desman (Galemys pyrenaicus) "
-"together with presence, absence, and random points in north Catalonia "
-"(Spain)."
-msgstr ""
+#~ msgid ""
+#~ "I started applying GIS to my work in biogeography about 10 years ago. "
+#~ "Through my graduate internship, PhD work and two other research jobs, I used"
+#~ " the proprietary software packages that were available and used at my "
+#~ "workplaces – mainly CartaLinx, Idrisi, ArcView and ArcGIS. But I found it "
+#~ "rather annoying that we were constantly dealing with license renewal issues,"
+#~ " and that I could not use the software away from the workplace unless I "
+#~ "acquired my own license."
+#~ msgstr ""
 
-#: ../../source/site/about/case_studies/portugal_evora.rst:25
-msgid "Conclusion"
-msgstr ""
+#~ msgid ""
+#~ "It crossed my mind on several occasions that switching to free software "
+#~ "would spare me those problems. However, there was prejudice against the "
+#~ "analytical capabilities of free software, and even after I heard about the "
+#~ "potential of GRASS, I was still reluctant because I thought it would be too "
+#~ "difficult to learn. I was also afraid it would be cumbersome to migrate all "
+#~ "the maps and analyses that I had done so far. At the beginning of my post-"
+#~ "doc in 2008, I finally gave it an opportunity and took a training course on "
+#~ "QGIS and GRASS. It was probably the best decision of my professional life! I"
+#~ " found that QGIS provided a very intuitive interface for GRASS, hat they "
+#~ "complemented each other perfectly, and they provided all the analytical "
+#~ "capabilities I needed. I started using both programs immediately after the "
+#~ "course. Not only did I begin all my new GIS work with QGIS/GRASS [e.g. 1,2],"
+#~ " but I also did follow-up analyses on previous works that I had done with "
+#~ "commercial software. For example, I had built models of otter [3] and desman"
+#~ " [4] distribution in the Iberian Peninsula. After switching to QGIS-GRASS, I"
+#~ " analysed how those models behaved when downscaled to a finer resolution "
+#~ "[5]. Another previous work on biogeographic relationships between Iberian "
+#~ "lynx and rabbit [6] had a follow-up after I switched to QGIS-GRASS [7]. Not "
+#~ "only did I not have any problems with the migration of the data and previous"
+#~ " results: I also found it much easier to do the things I wanted to do with "
+#~ "the new software, and was able to do extra analyses which I could not have "
+#~ "done with the programs I used before."
+#~ msgstr ""
 
-#: ../../source/site/about/case_studies/portugal_evora.rst:27
-msgid ""
-"All in all, switching to QGIS/GRASS brought me nothing but advantages. I can"
-" now work freely at work, at home and on my laptop on the move, without "
-"having to worry about software licenses or moving to new institutions. Open-"
-"source software covers all my research needs and gives me the freedom I "
-"longed for."
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:30
-msgid "Author"
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:37
-msgid "Márcia Barbosa"
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:39
-msgid ""
-"This article was contributed in July 2010 by A. Márcia Barbosa. She is a "
-"post-doctoral researcher at Imperial College London (UK) and the University "
-"of Évora (Portugal)."
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:42
-msgid "References"
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:44
-msgid ""
-"[1] Barbosa A.M., Fontaneto D., Marini L. & Pautasso M. (2010) Is the human "
-"population a large-scale indicator of the species richness of ground "
-"beetles? Animal Conservation, early view. doi: "
-"10.1111/j.1469-1795.2010.00363.x."
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:45
-msgid ""
-"[2] Fontaneto D., Barbosa A.M., Pautasso M. & Segers H. (submitted) The "
-"'rotiferologist' effect and the drivers of species richness in rotifers."
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:46
-msgid ""
-"[3] Barbosa, A.M., R. Real, J. Olivero & J.M. Vargas, 2003. Otter (Lutra "
-"lutra) distribution modeling at two resolution scales suited to conservation"
-" planning in the Iberian Peninsula. Biological Conservation, 114:377-387."
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:47
-msgid ""
-"[4] Barbosa A.M., Real R. & Vargas J.M. (2009) Transferability of "
-"environmental favourability models in geographic space: the case of the "
-"Iberian desman (Galemys pyrenaicus) in Portugal and Spain. Ecological "
-"Modelling 220: 747-754. doi: 10.1016/j.ecolmodel.2008.12.004"
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:48
-msgid ""
-"[5] Barbosa A.M., Real R. & Vargas J.M. (2010) Use of coarse-resolution "
-"models of species' distributions to guide local conservation inferences. "
-"Conservation Biology, early vew. doi: 10.1111/j.1523-1739.2010.01517.x"
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:49
-msgid ""
-"[6] Real R., A. M. Barbosa, A. Rodríguez, F. J. García, J. M. Vargas, L. J. "
-"Palomo & M. Delibes, 2008. Conservation biogeography of ecologically-"
-"interacting species: the case of the Iberian lynx and the European rabbit. "
-"Diversity and Distributions, 15: 390–400. doi: "
-"10.1111/j.1472-4642.2008.00546.x."
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:50
-msgid ""
-"[7] Barbosa, A.M. & Real, R. (in press) Favourable areas for expansion and "
-"reintroduction of Iberian lynx accounting for distribution trends and "
-"genetic diversity of the European rabbit. Wildlife Biology in Practice.\""
-msgstr ""
+#~ msgid "Márcia Barbosa"
+#~ msgstr ""

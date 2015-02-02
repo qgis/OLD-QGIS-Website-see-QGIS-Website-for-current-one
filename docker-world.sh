@@ -1,5 +1,8 @@
 #!/bin/bash
 
+now =`date1`
+echo "Starting $now"
+
 if [ -f running ]; then
 	echo "$0 still running"
 	exit 1
@@ -27,6 +30,6 @@ git pull
 
 for l in $langs
   do
-    /bin/bash ./docker-run.sh $TARGET LANG=$l
-    rsync -hvrz -e ssh --progress output/html/$l qgis.osgeo.osuosl.org:/var/www/qgisdata/QGIS-Website/live/html
+    time /bin/bash ./docker-run.sh $TARGET LANG=$l
+    time rsync -hvrzc -e ssh --progress output/html/$l qgis.osgeo.osuosl.org:/var/www/qgisdata/QGIS-Website/live/html
   done

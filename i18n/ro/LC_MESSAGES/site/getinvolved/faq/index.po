@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-30 16:35+0000\n"
+"PO-Revision-Date: 2014-11-22 17:29+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -27,11 +27,11 @@ msgstr "Aici se colectează răspunsurile pentru întrebările care apar foarte 
 msgid ""
 "We will start of with this one page, maybe restructure it into sections, or "
 "even more pages if needed"
-msgstr "Vom începe cu această singură pagină, poate o vom restructura în secțiuni, sau chiar pe mai multe pagini, dacă este necesar"
+msgstr "Vom începe cu această pagină, pe care, la nevoie, o vom restructura în secțiuni, sau căreia îi vom adăuga pagini suplimentare"
 
 #: ../../source/site/getinvolved/faq/index.rst:12
 msgid "User"
-msgstr "Utilizator"
+msgstr "Utilizare"
 
 #: ../../source/site/getinvolved/faq/index.rst:34
 msgid "Why is QGIS 2.0 named 'Dufour'?"
@@ -48,11 +48,11 @@ msgid ""
 ".pixelkarte-farbe&layers=ch.swisstopo.hiks-"
 "dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_"
 " in Switzerland."
-msgstr "După întâlnirea cu succes a dezvoltatorilor în Zurich (), am decis că următoarea versiune ar trebui să se raporteze la acesta. `Generalul Guillaume-Henri Dufour <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_ a fost un faimos și influent cartograf elvețian. Mai mult, Dufourspitze este `cel mai înalt vârf <http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.hiks-dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_ din Elveția."
+msgstr "După întâlnirea cu succes a dezvoltatorilor în Zurich (Elveția), am decis că următoarea versiune ar trebui să se raporteze la aceasta. `Generalul Guillaume-Henri Dufour <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_ a fost un faimos și influent cartograf elvețian. Mai mult, Dufourspitze este `cel mai înalt vârf <http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.hiks-dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_ din Elveția."
 
 #: ../../source/site/getinvolved/faq/index.rst:22
 msgid "preferably a descriptive title for your email"
-msgstr "preferabil, un titlu descriptiv pentru e-mail"
+msgstr "preferabil, un titlu descriptiv pentru mesaj"
 
 #: ../../source/site/getinvolved/faq/index.rst:23
 msgid "which Operating System and version"
@@ -60,7 +60,7 @@ msgstr "Sistemul de Operare și versiunea"
 
 #: ../../source/site/getinvolved/faq/index.rst:24
 msgid "which QGIS version you used at that moment (exact)"
-msgstr "ce versiune de QGIS a fost folosită la acel moment (exact)"
+msgstr "versiunea (exactă) de QGIS, care a fost folosită la acel moment"
 
 #: ../../source/site/getinvolved/faq/index.rst:25
 msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
@@ -69,13 +69,13 @@ msgstr "cum ați instalat-o (osgeo4w? instalare offline? compilație proprie?)"
 #: ../../source/site/getinvolved/faq/index.rst:26
 msgid ""
 "at what time did it break (reinstall, new install, system update, project??)"
-msgstr "la ce oră a apărut eroarea (reinstalare, instalare nouă, actualizare de sistem, de proiect??)"
+msgstr "în ce moment a apărut eroarea (reinstalare, instalare nouă, actualizare de sistem, la deschiderea proiectului?)"
 
 #: ../../source/site/getinvolved/faq/index.rst:29
 msgid ""
 "Without this info, it is very hard to answer for anybody. Or, taking just "
 "too much time because the answer will be a question to you etc etc."
-msgstr "Fără aceste informații, este foarte dificil pentru oricine să vă transmită un răspuns. Sau, ar dura prea mult timp, deoarece răspunsul ar consta într-o întrebare pentru dvs. etc, etc"
+msgstr "În lipsa acestor informații va fi foarte dificil să primiți un răspuns. Pur si simplu, s-ar pierde prea mult timp, deoarece răspunsul ar consta într-o întrebare pentru dumneavoastră etc."
 
 #: ../../source/site/getinvolved/faq/index.rst:54
 msgid "Development"
@@ -87,7 +87,7 @@ msgstr "Pot compila QGIS pe Windows?"
 
 #: ../../source/site/getinvolved/faq/index.rst:63
 msgid "Can I compile QGIS myself on MacOS?"
-msgstr "Pot compila QGIS pe MacOS?"
+msgstr "Can I compile QGIS myself on MacOS?"
 
 #: ../../source/site/getinvolved/faq/index.rst:69
 msgid "Can I compile QGIS myself on Linux?"
@@ -101,7 +101,7 @@ msgstr "Cum se pune o întrebare despre QGIS?"
 msgid ""
 "If you are going to ask QGIS related question via the mailinglists, please "
 "provide the following information with it:"
-msgstr "Dacă doriți să postați în listele de corespondență o întrebare legată referitoare la QGIS, vă rugăm să transmiteți și următoarele informații:"
+msgstr "Dacă doriți să postați în listele de corespondență o întrebare referitoare la QGIS, vă rugăm să transmiteți și următoarele informații:"
 
 #: ../../source/site/getinvolved/faq/index.rst:27
 msgid ""
@@ -117,11 +117,11 @@ msgstr "QGIS poate deschide fișiere ECW?"
 msgid ""
 "Yes you can... BUT depending on your Operating System, it is more or less "
 "difficult."
-msgstr "Da, poate... DAR în funcție de sistemul dvs. de operare, este mai mult sau mai puțin dificil."
+msgstr "Da, poate... DAR, în funcție de sistemul dvs. de operare, este mai mult sau mai puțin dificil."
 
 #: ../../source/site/getinvolved/faq/index.rst:48
 msgid "If you use the OSGeo4w 64 bit installer, it is included."
-msgstr "Dacă utilizați instalatorul OSGeo4w 64 biți, acesta este inclus."
+msgstr "Dacă utilizați kit-ul de instalare OSGeo4w 64 biți, această funcționalitate este inclusă."
 
 #: ../../source/site/getinvolved/faq/index.rst:50
 msgid ""

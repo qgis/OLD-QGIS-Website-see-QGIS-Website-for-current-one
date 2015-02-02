@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Kari Salovaara <kari.salovaara@pp1.inet.fi>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-23 13:08+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2014-11-04 21:35+0000\n"
+"Last-Translator: Kari Salovaara <kari.salovaara@pp1.inet.fi>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/qgis-website/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,23 +17,27 @@ msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:3
 msgid "FAQ"
-msgstr ""
+msgstr "UKK"
 
 #: ../../source/site/getinvolved/faq/index.rst:5
 msgid "Here we collect answers to question which come up very often."
-msgstr ""
+msgstr "Tänne keräämme vastauksia kysymyksiin jotka tulevat usein esille."
 
 #: ../../source/site/getinvolved/faq/index.rst:7
 msgid ""
 "We will start of with this one page, maybe restructure it into sections, or "
 "even more pages if needed"
-msgstr ""
+msgstr "Aloitamme tällä yhdellä sivulla, ehkä jäsennämme uudelle kappaleisiin, tai tarpeen mukaan jaamme useisiin sivuihin."
 
 #: ../../source/site/getinvolved/faq/index.rst:12
 msgid "User"
-msgstr ""
+msgstr "Käyttäjä"
 
-#: ../../source/site/getinvolved/faq/index.rst:20
+#: ../../source/site/getinvolved/faq/index.rst:34
+msgid "Why is QGIS 2.0 named 'Dufour'?"
+msgstr "Miksi QGIS 2.0 on nimeltään "
+
+#: ../../source/site/getinvolved/faq/index.rst:36
 msgid ""
 "After a succesfull developer meeting in Zurich (Switzerland), we decided "
 "that the next release should be related to it. `General Guillaume-Henri "
@@ -43,82 +48,105 @@ msgid ""
 ".pixelkarte-farbe&layers=ch.swisstopo.hiks-"
 "dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_"
 " in Switzerland."
-msgstr ""
+msgstr "Onnistuneen kehittäjä kokouksen jälkeen Zurichissä (Sveitsi) päätimme seuraavan julkaisun liittyvän tähän.`General Guillaume-Henri Dufour <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_ oli kuuluisa ja vaikutusvaltainen sveitsiläinen kartografi. Lisäksi Dufourspitze on `korkein huippu <http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.hiks-dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_ Sveitsissä."
 
-#: ../../source/site/getinvolved/faq/index.rst:28
-msgid "QGIS error on your machine. How to ask a question?"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:30
-msgid "Please provide the following information:"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:32
+#: ../../source/site/getinvolved/faq/index.rst:22
 msgid "preferably a descriptive title for your email"
-msgstr ""
+msgstr "mieluiten kuvaava otsikko sähköpostiisi"
 
-#: ../../source/site/getinvolved/faq/index.rst:33
+#: ../../source/site/getinvolved/faq/index.rst:23
 msgid "which Operating System and version"
-msgstr ""
+msgstr "mikä käyttöjärjestelmä ja versio"
 
-#: ../../source/site/getinvolved/faq/index.rst:36
+#: ../../source/site/getinvolved/faq/index.rst:24
+msgid "which QGIS version you used at that moment (exact)"
+msgstr "mitä QGIS versiota käytät parhaillaan (tarkka)"
+
+#: ../../source/site/getinvolved/faq/index.rst:25
+msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
+msgstr "kuinka asensit sen (osgeow4? itsenäinen asentaja? oma käännös?)"
+
+#: ../../source/site/getinvolved/faq/index.rst:26
 msgid ""
 "at what time did it break (reinstall, new install, system update, project??)"
-msgstr ""
+msgstr "kpska ohjelma kaatui (uudelleen asennus, uusi asennus, järjestelmän päivitys, projektissa??)"
 
-#: ../../source/site/getinvolved/faq/index.rst:37
-msgid ""
-"what exactly is the error (not sure in the above if you mean that \"python "
-"error' is the error, or you mean there is a python error which you did not "
-"write in you email"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:39
+#: ../../source/site/getinvolved/faq/index.rst:29
 msgid ""
 "Without this info, it is very hard to answer for anybody. Or, taking just "
 "too much time because the answer will be a question to you etc etc."
-msgstr ""
+msgstr "Ilman tätä informaatiota on hyvin vaikeaa vastata kenellekään. Tai, se vie aivan liian paljon aikaa koska vastaus kysymykseesi tulee olemaan kysymys sinulle jne. jne."
 
-#: ../../source/site/getinvolved/faq/index.rst:43
+#: ../../source/site/getinvolved/faq/index.rst:54
 msgid "Development"
-msgstr ""
+msgstr "Kehitys"
+
+#: ../../source/site/getinvolved/faq/index.rst:57
+msgid "Can I compile QGIS myself on Windows?"
+msgstr "Voinko kääntää QGIS:n itse Windowsissa?"
+
+#: ../../source/site/getinvolved/faq/index.rst:63
+msgid "Can I compile QGIS myself on MacOS?"
+msgstr "Voinko kääntää QGIS:n itse MacOS:ssa?"
+
+#: ../../source/site/getinvolved/faq/index.rst:69
+msgid "Can I compile QGIS myself on Linux?"
+msgstr "Voinko kääntää QGIS itse Linuxissa?"
+
+#: ../../source/site/getinvolved/faq/index.rst:17
+msgid "How to ask a QGIS question?"
+msgstr "Kuinka kysyä QGIS kysymys?"
+
+#: ../../source/site/getinvolved/faq/index.rst:19
+msgid ""
+"If you are going to ask QGIS related question via the mailinglists, please "
+"provide the following information with it:"
+msgstr "Jos aiot kysyä QGIS:iin liittyvän kysymyksen sähköpostilistalle, ole ystävällinen ja kirjoita seuraavat tiedot kysymyksesi ohessa:"
+
+#: ../../source/site/getinvolved/faq/index.rst:27
+msgid ""
+"what exactly is the error (if possible: screendump, stacktrace, copy of "
+"errortext)"
+msgstr "mikä on tarkasti ottaen virhe (jos mahdollista: näyttödumppi, jäljitysloki, virheviestin kopio)"
+
+#: ../../source/site/getinvolved/faq/index.rst:44
+msgid "Can I open ECW files with QGIS?"
+msgstr "Voinko avata ECW tiedostot käyttäen QGIS:ä?"
 
 #: ../../source/site/getinvolved/faq/index.rst:46
-msgid "Can I compile QGIS myself on Windows?"
-msgstr ""
+msgid ""
+"Yes you can... BUT depending on your Operating System, it is more or less "
+"difficult."
+msgstr "Kyllä voit ... MUTTA se riippuu käyttöjärjestelmästäsi, ja se on enemmän tai vähemmän vaikeaa."
 
 #: ../../source/site/getinvolved/faq/index.rst:48
-#: ../../source/site/getinvolved/faq/index.rst:54
-#: ../../source/site/getinvolved/faq/index.rst:60
+msgid "If you use the OSGeo4w 64 bit installer, it is included."
+msgstr "Jos käytät OSGeo4W 64-bittistä asentajaa on se mukana."
+
+#: ../../source/site/getinvolved/faq/index.rst:50
 msgid ""
-"Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
-msgstr ""
+"For other instructions, eg look here: http://www.faunalia.com/content"
+"/adding-ecw-support-quantum-gis"
+msgstr "Muita ohjeita löydät esim. katsomalla"
 
-#: ../../source/site/getinvolved/faq/index.rst:52
-msgid "Can I compile QGIS myself on MacOS?"
-msgstr ""
+#: ../../source/site/getinvolved/faq/index.rst:59
+#: ../../source/site/getinvolved/faq/index.rst:65
+#: ../../source/site/getinvolved/faq/index.rst:71
+msgid "Yes, please read: INSTALL_"
+msgstr "Kyllä, ole ystävälline ja lue: INSTALL_"
 
-#: ../../source/site/getinvolved/faq/index.rst:58
-msgid "Can I compile QGIS myself on Linux?"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:18
-msgid "Why is QGIS 2.0 named 'Dufour'?"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:34
-msgid "which QGIS version you used at that moment (exact)"
-msgstr ""
-
-#: ../../source/site/getinvolved/faq/index.rst:35
-msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
-msgstr ""
-
-#~ msgid "Why is QGIS 2.0 named 'Dufour'"
+#~ msgid ""
+#~ "Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"
 #~ msgstr ""
 
-#~ msgid "which QGIS version (exact)"
+#~ msgid "QGIS error on your machine. How to ask a question?"
 #~ msgstr ""
 
-#~ msgid "how you installed it (osgeo4w? msi-installer? own build?)"
+#~ msgid "Please provide the following information:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "what exactly is the error (not sure in the above if you mean that \"python "
+#~ "error' is the error, or you mean there is a python error which you did not "
+#~ "write in you email"
 #~ msgstr ""

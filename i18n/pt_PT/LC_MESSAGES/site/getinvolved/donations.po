@@ -1,12 +1,12 @@
 # 
 # Translators:
-# João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013
+# João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-10-13 19:37+0000\n"
+"PO-Revision-Date: 2014-12-05 23:01+0000\n"
 "Last-Translator: João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
@@ -15,12 +15,17 @@ msgstr ""
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/getinvolved/donations.rst:5
-msgid ""
-"Content is not used, it is overridden by themes/qgis-"
-"theme/getinvolved_index.html."
-msgstr "O conteúdo não é usado, é substítuido por  themes/qgis-theme/getinvolved_index.html."
-
 #: ../../source/site/getinvolved/donations.rst:9
 msgid "QGIS Donations"
 msgstr "Doações ao QGIS"
+
+#: ../../source/site/getinvolved/donations.rst:5
+msgid ""
+"Content is not used, it is overridden by themes/qgis-"
+"theme/getinvolved_donations.html."
+msgstr "O conteúdo não é usado, é substítuido por  themes/qgis-theme/getinvolved_donations.html."
+
+#~ msgid ""
+#~ "Content is not used, it is overridden by themes/qgis-"
+#~ "theme/getinvolved_index.html."
+#~ msgstr ""

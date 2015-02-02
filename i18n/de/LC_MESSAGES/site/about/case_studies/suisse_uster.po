@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Jürgen E. Fischer <jef@norbit.de>, 2013
+# Jürgen E. Fischer <jef@norbit.de>, 2013,2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-10-06 01:45+0000\n"
+"PO-Revision-Date: 2015-01-10 18:52+0000\n"
 "Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -115,13 +115,6 @@ msgid ""
 "residents"
 msgstr "Anzeige von direkt aus der Datenbank erzeugten Statistiken zu aktuellen und verzogenen Einwohner."
 
-#: ../../source/site/about/case_studies/suisse_uster.rst:39
-msgid ""
-"Planning and visualization for energy planning (gas supply regions, heat use"
-" from waste water, near-surface geothermal energy, block heating stations, "
-"etc.) Additional further projects are currently under development."
-msgstr "Planung und Visualisierung für die Energieplanung (Gasversorgungsgebiete, Wärmenutzung von Abwasser,  oberflächennahe Geothermie, Blockheizkraftwerke, usw.).  Weitere Projekte sind derzeit in der Entwicklung."
-
 #: ../../source/site/about/case_studies/suisse_uster.rst:47
 msgid ""
 "In 2007 it was not entirely clear at what pace QGIS would be further "
@@ -161,3 +154,20 @@ msgid ""
 "This article was contributed in April 2011 by Dr. Andreas Neumann. He is GIS"
 " coordinator at the City of Uster, Switzerland."
 msgstr "Dieser Artikel wurden Im April 2011 von Dr. Andreas Neumann beigetragen. Er ist GIS-Koordinator bei der Stadt Uster in der Schweiz."
+
+#: ../../source/site/about/case_studies/suisse_uster.rst:38
+msgid ""
+"planning and visualization for energy planning (gas supply regions, heat use"
+" from waste water, near-surface geothermal energy, block heating stations, "
+"etc.)"
+msgstr "Planung und Visualisierung für die Energieplanung (Gasversorgungsgebiete, Wärmenutzung von Abwasser,  oberflächennahe Geothermie, Blockheizkraftwerke, usw.)."
+
+#: ../../source/site/about/case_studies/suisse_uster.rst:40
+msgid "Additional further projects are currently under development."
+msgstr "Weitere Projekte sind derzeit in der Entwicklung."
+
+#~ msgid ""
+#~ "Planning and visualization for energy planning (gas supply regions, heat use"
+#~ " from waste water, near-surface geothermal energy, block heating stations, "
+#~ "etc.) Additional further projects are currently under development."
+#~ msgstr ""

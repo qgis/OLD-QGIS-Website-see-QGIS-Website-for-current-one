@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Diana Galindo <drgalindog@linuxmail.org>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-04 11:23+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2015-01-10 15:30+0000\n"
+"Last-Translator: Diana Galindo <drgalindog@linuxmail.org>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +30,7 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:11
 msgid ""
 "The QGIS project is managed by the Project Steering Committee (PSC) which "
-"consists of 5 members (with their individual responsibilities listed in "
+"consists of 8 members (with their individual responsibilities listed in "
 "brackets):"
 msgstr ""
 
@@ -43,22 +44,6 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:17
 msgid "Tim Sutton (Testing/QA Manager)"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:18
-msgid "Otto Dassau (Community Advisor)"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:19
-msgid "Paolo Cavallini (Financial and Marketing Advisor)"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:20
-msgid "Anita Graser (Design Advisor)"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:22
-msgid "Jürgen Fischer (Release Manager)"
 msgstr ""
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:24
@@ -110,7 +95,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:54
 msgid "OpenSuSE RPM Maintainer: Otto Dassau <dassau[at]gbd-consult.de>"
-msgstr ""
+msgstr "Mantenedor RPM OpenSuSE : Otto Dassau <dassau[at]gbd-consult.de>"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:55
 msgid "Fedora RPM Maintainer: Douglas E. Warner <silfreed[at]silfreed.net>"
@@ -277,10 +262,6 @@ msgstr ""
 msgid "Topology plugin: Vinayan Parameswaran <vinayan123[at]gmail.com>"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/organisation/governance.rst:129
-msgid "Community Resources¶"
-msgstr ""
-
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:131
 msgid "Current Community Team Lead: Otto Dassau <dassau[at]gbd-consult.de>"
 msgstr ""
@@ -359,15 +340,49 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:185
 msgid ""
-"This `individuals <https://github.com/qgis/Quantum-"
-"GIS/graphs/contributors>`_ are recognised as Project Committers and have "
-"full commit access to the `github repository <https://github.com/qgis"
-"/Quantum-GIS>`_."
+"This `individuals <https://github.com/qgis/QGIS/graphs/contributors>`_ are "
+"recognised as Project Committers and have full commit access to the `github "
+"repository <https://github.com/qgis/QGIS>`_."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:129
+msgid "Community Resources"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:18
+msgid "Otto Dassau (Community Advisor) [since June 2007]"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:19
+msgid "Paolo Cavallini (Financial and Marketing Advisor) [since January 2008]"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:20
+msgid "Anita Graser (Design Advisor) [since September 2013]"
 msgstr ""
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:21
-msgid "Richard Duivenvoorde (Infrastructure Manager)"
+msgid "Richard Duivenvoorde (Infrastructure Manager) [since September 2013]"
 msgstr ""
 
-#~ msgid "Richard Duivenvoord (Infrastructure Manager)"
+#: ../../source/site/getinvolved/governance/organisation/governance.rst:22
+msgid "Jürgen Fischer (Release Manager) [since September 2013]"
+msgstr ""
+
+#~ msgid "Otto Dassau (Community Advisor)"
+#~ msgstr ""
+
+#~ msgid "Paolo Cavallini (Financial and Marketing Advisor)"
+#~ msgstr ""
+
+#~ msgid "Anita Graser (Design Advisor)"
+#~ msgstr ""
+
+#~ msgid "Richard Duivenvoorde (Infrastructure Manager)"
+#~ msgstr ""
+
+#~ msgid "Jürgen Fischer (Release Manager)"
+#~ msgstr ""
+
+#~ msgid "Community Resources¶"
 #~ msgstr ""

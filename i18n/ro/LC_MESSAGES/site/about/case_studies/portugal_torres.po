@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2013
+# Sorin Călinică <scalinica@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-11-12 19:25+0000\n"
+"PO-Revision-Date: 2014-12-03 12:18+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -15,11 +15,11 @@ msgstr ""
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:4
+#: ../../source/site/about/case_studies/portugal_torres.rst:3
 msgid "QGIS and GRASS applied to paleontological survey in Western Portugal"
 msgstr "QGIS si GRASS folosite în studiul paleontologic din Portugalia de Vest"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:8
+#: ../../source/site/about/case_studies/portugal_torres.rst:5
 msgid ""
 "The Associação Leonel Trindade – Sociedade de História Natural (ALT-SHN) is "
 "a non profit institution headquarted in Torres Vedras, Portugal, specialized"
@@ -29,11 +29,11 @@ msgid ""
 "– hundreds of sites representing thousands of different specimens."
 msgstr "Asociația Leonel Trindade - Societatea de Istorie Naturală (ALT-SHN) este o instituție non-profit cu sediul în Torres Vedras, Portugalia, specializat în paleontologie. Instituția gestionează o colecție de fosile, în principal, din Jurasicul superior. Unul dintre aspectele cheie în managementul paleontologic este evaluarea contextului spațial al siturilor din care sunt preluate fosilele - sute de site-uri reprezentând mii de specimene diferite."
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:12
+#: ../../source/site/about/case_studies/portugal_torres.rst:8
 msgid "The Project"
 msgstr "Proiectul"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:19
+#: ../../source/site/about/case_studies/portugal_torres.rst:15
 msgid ""
 "Back in 2008, we came up with the idea of exploring GIS technologies to "
 "support the investigation and get a more holistic perspective on the "
@@ -43,28 +43,28 @@ msgid ""
 "(IGeoE), aimed three goals:"
 msgstr "În 2008, am venit cu ideea explorării tehnologiilor GIS pentru a sprijini investigațiile și pentru a obține o perspectivă holistică asupra patrimoniului cu care avem de-a face. Această idee a impulsionat proiectul SIGAP (GIS aplicat în paleontologie) [2]. Proiectul, susținut de entități publice și private - în special Municipalitatea, Digiterra.hu și Institutul Geografic al Armatei (IGeoE), vizează trei obiective:"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:21
+#: ../../source/site/about/case_studies/portugal_torres.rst:17
 msgid ""
 "Field Survey with Differencial GPS to gather the coordinates of the sites;"
 msgstr "Vizită în teren cu GPS-ul diferențiat pentru a aduna coordonatele siturilor;"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:22
+#: ../../source/site/about/case_studies/portugal_torres.rst:18
 msgid ""
 "Build a Risk Model to identify hazards towards paleontological heritage and "
 "thus prevent them through regular field surveys;"
 msgstr "Construirea unui model de risc pentru a identifica riscurile față de patrimoniul paleontologic și de a le preveni prin vizite periodice în teren;"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:23
+#: ../../source/site/about/case_studies/portugal_torres.rst:19
 msgid ""
 "Build a Geographic Database to handle all the information and start the "
 "collection inventory."
 msgstr "Construirea unei baze de date geografice pentru a gestiona toate informațiile și a începe inventarul colecției."
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:26
+#: ../../source/site/about/case_studies/portugal_torres.rst:22
 msgid "Software we used"
 msgstr "Softurile folosite"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:28
+#: ../../source/site/about/case_studies/portugal_torres.rst:24
 msgid ""
 "QGIS was the mainframe of all the project. Data was dumped directly to QGIS,"
 " and then edited and manipulated in order to achieve the desired outputs. "
@@ -74,50 +74,27 @@ msgid ""
 "PostGIS layers and visualize them on QGIS."
 msgstr "QGIS a fost elementul de bază al tuturor proiectelor. Datele au fost descărcate direct în QGIS, apoi editate și manipulate pentru a atinge rezultatele dorite. Interfața GRASS furnizată de QGIS ne-a permis să efectuăm analize spațiale complexe pe rastere, pentru a obține modelul de risc de care avem nevoie pentru a ne planifica activitatea din teren și prospectările viitoare. Mai mult, ne-a permis să importăm straturi PostGIS și să le vizualizăm în QGIS."
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:36
+#: ../../source/site/about/case_studies/portugal_torres.rst:31
 msgid "Vector point data editing and visualization"
 msgstr "Editarea și vizualizarea datelor vectoriale de tip punct"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:38
-msgid ""
-"The choice for QGIS was also encouraged by the multi platform support. The "
-"institution has three distinct facilities, and each of those facilities has "
-"different systems – We have Mac, Windows PC and Linux PC, therefore it's of "
-"extreme importance that we have the freedom to install the software on any "
-"machine we want so we don't get stuck to a particular computer."
-msgstr "Alegerea QGIS a fost, de asemenea, încurajată de suportul multi platformă. Instituția are trei facilități distincte, și fiecare dintre aceste facilități are sisteme diferite - Mac, Windows și Linux, prin urmare, este extrem de important că avem libertatea de a instala software-ul pe orice mașină ne-o dorim, așa că nu trebuie să rămânem blocați la un anumit calculator."
-
-#: ../../source/site/about/case_studies/portugal_torres.rst:45
+#: ../../source/site/about/case_studies/portugal_torres.rst:40
 msgid "Paleontological Risk Map"
 msgstr "Harta de risc paleontologic"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:48
+#: ../../source/site/about/case_studies/portugal_torres.rst:43
 msgid "Conclusion"
 msgstr "Concluzie"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:50
-msgid ""
-"The overall experience with QGIS can only be rated has being very good and "
-"recommendable. From our point of view, the main advantage of QGIS is that "
-"it's not just a GIS software – it's a productivity suite for spatial data. "
-"It allowed us to take advantage of other powerful tools within a single work"
-" environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
-"data, with webservices and with tens of useful plug-ins developed by users "
-"worldwide. The user friendly interface is also a big advantage, especially "
-"if you have to train first time users has we've done. The easyness of the "
-"interface makes production of maps an everyday task and brought people "
-"closer to spatial approaches [3]."
-msgstr "Experiența generală cu QGIS poate fi evaluată ca fiind foarte bună și recomandabilă. Din punctul nostru de vedere, avantajul principal al QGIS este că acesta nu este doar un software GIS - este o suită de productivitate pentru datele spațiale. Acest lucru ne-a permis să profităm de de alte instrumente puternice, într-un mediu de lucru unic. Din QGIS poate lucra cu GRASS, cu PostGIS, cu datele GPS, cu Servicii Web și cu zeci de plugin-uri utile, dezvoltate de către utilizatori din întreaga lume. Interfața prietenoasă este, de asemenea, un mare avantaj, mai ales dacă aveți de instruit utilizatorii, cum a fost în cazul nostru. Interfața facilă face producția de hărți o sarcină cotidiană care a adus oamenii mai aproape de abordările spațiale [3]."
-
-#: ../../source/site/about/case_studies/portugal_torres.rst:53
+#: ../../source/site/about/case_studies/portugal_torres.rst:55
 msgid "Author"
 msgstr "Autor"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:60
+#: ../../source/site/about/case_studies/portugal_torres.rst:62
 msgid "André Mano"
 msgstr "André Mano"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:62
+#: ../../source/site/about/case_studies/portugal_torres.rst:64
 msgid ""
 "This article was contributed in November 2010 by André Mano. He is "
 "responsible for the Geopraphic Department of Associação Leonel Trindade – "
@@ -126,15 +103,15 @@ msgid ""
 "cultural heritage."
 msgstr "Acest articol a fost transmis în noiembrie 2010 de către André Mano. El este responsabil al Departamentului Geografic al Asociației Leonel Trindade - Societate de Istorie Naturală. Aria sa de interes este centrată pe aplicațiile geotehnicii în domeniile de paleontologie, arheologie și patrimoniu cultural."
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:65
+#: ../../source/site/about/case_studies/portugal_torres.rst:48
 msgid "References"
 msgstr "Referințe"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:67
+#: ../../source/site/about/case_studies/portugal_torres.rst:50
 msgid "[1] www.alt-shn.org (portuguese only)"
 msgstr "[1] www.alt-shn.org (în portugheză)"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:68
+#: ../../source/site/about/case_studies/portugal_torres.rst:51
 msgid ""
 "[2] MANO, André. (2009) – Sistema de Informação Geográfica Aplicado à "
 "Paleontologia. Paleolusitana: Revista de Paleontologia e Paleoecologia, "
@@ -142,9 +119,53 @@ msgid ""
 "245-250."
 msgstr "[2] MANO, André. (2009) – Sistemul de informații geografice aplicate în Paleontologie. Paleolusitana: Jurnalul de Paleontologie și Paleoecologie, Torres Vedras: Alt-Societatea de Istorie Naturală. ISSN 1647-2756, n.º 1, p. 245-250."
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:69
+#: ../../source/site/about/case_studies/portugal_torres.rst:52
 msgid ""
 "[3] Mano, André. (2010) – Projecto SIGAP, Trabalho de Projecto apresentado "
 "como requisito parcial para a obtenção do grau de Mestre em Ciência e "
 "Sistemas de Informação Geográfica. ISEGI – UNL, Lisboa, 2010"
 msgstr "[3] Mano, André. (2010) – Proiectul SIGAP, lucrul la proiect a reprezentat  o condiție parțială pentru gradul de Master of Science în Sisteme Informatice Geografice. ISEGI – UNL, Lisabona, 2010"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:33
+msgid ""
+"The choice for QGIS was also encouraged by the multi platform support. The "
+"institution has three distinct facilities, and each of those facilities has "
+"different systems --– we have Mac, Windows PC and Linux PC, therefore it's "
+"of extreme importance that we have the freedom to install the software on "
+"any machine we want so we don't get stuck to a particular computer."
+msgstr "Alegerea QGIS a fost, de asemenea, încurajată de suportul multi platformă. Instituția are trei facilități distincte, iar fiecare dintre aceste facilități are sisteme diferite --– Mac, Windows și Linux, și prin urmare, este extrem de important că avem libertatea de a instala software-ul pe orice mașină ne-o dorim, nefiind necesar să rămânem blocați pe un anumit calculator."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:45
+msgid ""
+"The overall experience with QGIS can only be rated has being very good and "
+"recommendable. From our point of view, the main advantage of QGIS is that "
+"it's not just a GIS software –-- it's a productivity suite for spatial data."
+" It allowed us to take advantage of other powerful tools within a single "
+"work environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
+"data, with webservices and with tens of useful plug-ins developed by users "
+"worldwide. The user friendly interface is also a big advantage, especially "
+"if you have to train first time users has we've done. The easyness of the "
+"interface makes production of maps an everyday task and brought people "
+"closer to spatial approaches [3]."
+msgstr "Experiența generală cu QGIS poate fi evaluată ca fiind foarte bună și recomandabilă. Din punctul nostru de vedere, avantajul principal al QGIS este faptul că acesta nu este doar un software GIS –-- el fiind o suită de productivitate pentru datele spațiale. Acest lucru ne permite să profităm de prezența altor instrumente puternice, grupate în acest mediu de lucru unic. Din QGIS puteți apela GRASS, PostGIS, date GPS, Servicii Web și zeci de plugin-uri utile, dezvoltate de către utilizatori din întreaga lume. Interfața prietenoasă este, de asemenea, un mare avantaj, mai ales dacă aveți de instruit utilizatorii, cum a fost cazul nostru. Interfața facilă a transformat producția de hărți într-o sarcină cotidiană, care a adus oamenii mai aproape de abordările spațiale [3]."
+
+#~ msgid ""
+#~ "The choice for QGIS was also encouraged by the multi platform support. The "
+#~ "institution has three distinct facilities, and each of those facilities has "
+#~ "different systems – We have Mac, Windows PC and Linux PC, therefore it's of "
+#~ "extreme importance that we have the freedom to install the software on any "
+#~ "machine we want so we don't get stuck to a particular computer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The overall experience with QGIS can only be rated has being very good and "
+#~ "recommendable. From our point of view, the main advantage of QGIS is that "
+#~ "it's not just a GIS software – it's a productivity suite for spatial data. "
+#~ "It allowed us to take advantage of other powerful tools within a single work"
+#~ " environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
+#~ "data, with webservices and with tens of useful plug-ins developed by users "
+#~ "worldwide. The user friendly interface is also a big advantage, especially "
+#~ "if you have to train first time users has we've done. The easyness of the "
+#~ "interface makes production of maps an everyday task and brought people "
+#~ "closer to spatial approaches [3]."
+#~ msgstr ""

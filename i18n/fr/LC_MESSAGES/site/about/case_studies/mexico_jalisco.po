@@ -15,23 +15,23 @@ msgstr ""
 "Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:4
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:3
 msgid ""
 "Working with QGIS in a spatial data infrastructure of Jalisco in Mexico"
 msgstr "Travailler avec QGIS dans une infrastructure de données spatiales à Jalisco à Mexico"
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:6
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:5
 msgid ""
 "The Instituto de Información Territorial del Estado de Jalisco is a "
 "government organization which was founded in 1998 to share geographical "
 "information between the government agencies of Jalisco in México."
 msgstr "L'Instituto de Información Territorial del Estado de Jalisco est une organisation gouvernementale créée en 1998 pour partager l'information géographique entre les agences du gouvernement de Jalisco à Mexico."
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:13
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:12
 msgid "Exploring the data with its online viewer"
 msgstr "Exploration des données avec le visualisateur en ligne"
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:15
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:14
 msgid ""
 "Within the years, the institution has gathered loads of information in "
 "several formats such as SHP, DWG, DXF, GeoTIFF and ECW, among others. So, "
@@ -40,11 +40,11 @@ msgid ""
 "over the Internet."
 msgstr "Pendant des années, l'institution a collecté des masses d'informations dans différents formats comme entre autres des fichiers SHP, DWG, GeoTiff, ou ECW. Ce que nous voulions alors était d'avoir cette information disponible et organisée dans un format commun afin de pouvoir l'afficher sur Internet."
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:22
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:21
 msgid "Connecting to the Spatial Data Infrastructure with WMS"
 msgstr "Connexion à l'infrastructure de données spatiales en WMS"
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:24
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:23
 msgid ""
 "That's how it was developed the Sistema de Información Territorial Estatal "
 "en Línea, with the main target to build a spatial data infrastructure which "
@@ -52,11 +52,11 @@ msgid ""
 "included in their own projects as health, security or mobility."
 msgstr "C'est ainsi qu'a été développé le Système d'Information Territoriale d'État en Ligne, avec pour objectif principal de construire une infrastructure de données spatiales qui permettrait à nos agences gouvernementales de partager ces informations pour les inclure dans leurs propres projets dans les domaines de la santé, la sécurité ou la mobilité."
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:27
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:26
 msgid "Decision for QGIS"
 msgstr "La décision d'utiliser QGIS"
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:29
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:28
 msgid ""
 "I decided to use Mapserver and PostgreSQL with PostGIS extension to be able "
 "to deliver our satellite imagery, orthopothos, digital elevation models and "
@@ -67,11 +67,11 @@ msgid ""
 "only one which can connect to WMS, WCS and WFS successfully."
 msgstr "J'ai décidé d'utiliser MapServer et Postgre SQL avec l'extension PostGIS afin de pouvoir diffuser de l'imagerie satellite, des orthophotos, nos modèles numériques d'altimétrie, ainsi que des informations vecteur via des flux WMS dans le but de permettre à toute application de pouvoir utiliser nos services. Le problème est que de nombreuses applications gratuites et commerciales ne fonctionnent pas avec les standards OGC et en particulier avec le WFS. Après avoir testé de nombreux systèmes d'information géographiques, j'ai réalisé que QGIS était le seul qui puisse se connecter sans problème aux flux WMS, WCS et WFS."
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:33
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:31
 msgid "What we use QGIS for"
 msgstr "Notre utilisation de QGIS"
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:35
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:33
 msgid ""
 "Internally, we use QGIS to check the raster and vector data of the agencies "
 "before publishing it, and after its integration, we used it again to test "
@@ -80,11 +80,11 @@ msgid ""
 "database, then, we export the results as shape files."
 msgstr "En interne, QGIS permet de vérifier les données vecteur et raster des agences avant de les publier. Après leur intégration, nous l'utilisons à nouveau pour tester les services web que l'on a créé. Nous avons également réalisé de nombreuses analyses spatiales avec QGIS en faisant des extractions directes de notre base spatiale PostgreSQL, puis en exportant les résultats sous forme de fichiers shapefile."
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:42
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:40
 msgid "Connecting to the Spatial Data Infrastructure with WFS"
 msgstr "Connexion à l'Infrastructure de Données Spatiales via un flux WFS"
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:44
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:42
 msgid ""
 "We’re encouraging our users to download QGIS and link directly with our "
 "Sistema de Información Territorial Estatal en Línea, mainly because it fully"
@@ -93,11 +93,11 @@ msgid ""
 "absolutely for free."
 msgstr "Nous encourageons les utilisateurs à télécharger QGIS et à faire le lien directement avec le Système d'Informations Territorial d'Etat en Ligne, principalement dû au fait que les standards OGC sont pleinement pris en charge et que QGIS dispose de nombreux outils de géo-traitement, ce qui leur permet de faire les analyses dont ils ont besoin, et ce gratuitement. "
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:47
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:45
 msgid "Conclusion"
 msgstr "Conclusion"
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:49
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:47
 msgid ""
 "This project understood as the technological component of a Spatial Data "
 "Infrastructure, has been considered as a PostGIS case study, and I have to "
@@ -106,15 +106,15 @@ msgid ""
 "our geographic information."
 msgstr "Ce projet considéré comme un composant technologique d'une Infrastructure de Données Spatiales a été considéré comme une étude de cas pour PostGIS, et je dois avouer que de travailler avec l'open source au sein du cycle de notre système a été satisfaisant et sécurisant, notre meilleur choix pour partager nos informations géographiques."
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:52
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:50
 msgid "Author"
 msgstr "Auteur"
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:59
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:57
 msgid "Carlos Ruiz"
 msgstr "Carlos Ruiz"
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:61
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:59
 msgid ""
 "This article was contributed in July 2010 by IC Carlos Ruiz. He works as "
 "project's coordinator at the Instituto de Información Territorial del Estado"

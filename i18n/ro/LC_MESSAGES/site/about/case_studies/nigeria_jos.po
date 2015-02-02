@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2013
+# Sorin Călinică <scalinica@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-11-05 17:47+0000\n"
+"PO-Revision-Date: 2014-12-02 19:08+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -15,12 +15,12 @@ msgstr ""
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:4
+#: ../../source/site/about/case_studies/nigeria_jos.rst:3
 msgid ""
 "Amurum forest reserve habitat and avifauna mapping with QGIS in Nigeria"
 msgstr "Cartografiere a habitatului și a avifaunei din Amurum Forest Reserve, Nigeria, cu ajutorul QGIS"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:6
+#: ../../source/site/about/case_studies/nigeria_jos.rst:5
 msgid ""
 "Amurum forest reserve is located near the city of Jos, Plateau state, "
 "Nigeria. It was established in conjunction with the initiation of the A.P. "
@@ -37,16 +37,16 @@ msgid ""
 "distribution of the avifauna including the biodiversity."
 msgstr "Amurum Forest Reserve se află în apropiere de orașul Jos, statul Plateau, Nigeria. Înființarea sa a avut loc  în conjuncție cu o inițiativă a Institutului de Cercetare Ornitologică Leventis (APLORI), având scopuri de conservare a naturii, educație și cercetare. APLORI ține de Departamentul de Zoologie al Universității Jos. Anual, un grup de aproximativ opt studenți foarte motivați din întreaga Nigerie sunt instruiți în conservarea diversității biologice, statistică (în limbajul R) și, din 2011, în GIS. Timp de două săptămâni, în luna decembrie 2011, am studiat conceptele de bază ale GIS și cu ajutorul QGIS le-am aplicat în practică, în diverse scopuri de conservare. În acest articol vom descrie modul în care am folosit QGIS la cartografierea habitatelor și cauzele determinante ale acestora, precum și modul în care hărțile habitatelor de bază s-au folosit în scopul determinării eficiente a distribuției spațiale a avifaunei, inclusiv biodiversitatea."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:13
-#: ../../source/site/about/case_studies/nigeria_jos.rst:47
+#: ../../source/site/about/case_studies/nigeria_jos.rst:12
+#: ../../source/site/about/case_studies/nigeria_jos.rst:46
 msgid "Training Group"
 msgstr "Grupul de studenți"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:16
+#: ../../source/site/about/case_studies/nigeria_jos.rst:15
 msgid "Mapping elevation, hill shade, slope and habitats"
 msgstr "Cartografierea altitudinii, umbrire deal, pante și habitate"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:18
+#: ../../source/site/about/case_studies/nigeria_jos.rst:17
 msgid ""
 "Mapping elevation and groundtruthing: We downloaded (free) elevation data "
 "originating from the NASA Shuttle Radar Topographic Mission (SRTM) for the "
@@ -55,7 +55,7 @@ msgid ""
 "-srtm-90m-digital-elevation-database-v41)."
 msgstr "Cartografierea altitudinii și a datelor culese din teren: Am descărcat (gratuit) date de elevație care provin de la NASA Shuttle Radar Topographic Mission (SRTM) pentru zona în care se află Amurum. (Informații despre setul global cu date de altitudine poate fi găsit aici:  http://www.cgiar-csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41)."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:20
+#: ../../source/site/about/case_studies/nigeria_jos.rst:19
 msgid ""
 "The GdalTools were used to merge original data sets and to clip a smaller "
 "area containing the reserve so that the raster data sets remained relatively"
@@ -63,7 +63,7 @@ msgid ""
 "reserve."
 msgstr "Instrumentele Gdal au fost folosite pentru a unifica seturile de date originale și pentru a decupa o zonă mai mică conținând pădurea, astfel încât seturile de date raster au rămas relativ mici. Prin intermediul GPS-ul am colectat elevațiile în diverse locații ale pădurii."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:22
+#: ../../source/site/about/case_studies/nigeria_jos.rst:21
 msgid ""
 "Overall, the elevations of the SRTM data set corresponded well to the gps-"
 "collected elevations. Terrain models in GdalTools were used to calculate "
@@ -72,11 +72,11 @@ msgid ""
 "of habitat."
 msgstr "În general, cotele din setul de date SRTM corespund cotelor GPS-colectate. Modele ale terenului în GdalTools au fost utilizate pentru a calcula umbrele și pantele dealurilor din zonă. Aceste variabile sunt importante din punct de vedere ecologic, deoarece ele sunt puternic asociate tipului de habitat."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:29
+#: ../../source/site/about/case_studies/nigeria_jos.rst:28
 msgid "QGIS screenshot"
 msgstr "Capturi de ecran QGIS"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:31
+#: ../../source/site/about/case_studies/nigeria_jos.rst:30
 msgid ""
 "Since we intended to develop a good-looking map, we interpolated the "
 "original (clipped) elevation map to obtain a higher resolution map. We used "
@@ -84,7 +84,7 @@ msgid ""
 "contour lines."
 msgstr "Din moment ce ne-am propus să dezvoltăm o hartă aspectuoasă, am interpolat harta originalâ (decupată) a elevațiilor pentru a obține o hartă de rezoluție mai mare. Am folosit Warp Tool din GdalTools. Prin intermediul instrumentului de contur am obținut curbe mai netede."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:33
+#: ../../source/site/about/case_studies/nigeria_jos.rst:32
 msgid ""
 "Coordinates of the boundary of the reserve were obtained by walking along "
 "the boundaries of the reserve with a GPS. The waypoints and tracks stored in"
@@ -93,7 +93,7 @@ msgid ""
 " reserve were mapped in a similar fashion."
 msgstr "Coordonatele limitelor pădurii au fost obținute mergând pe jos de-a lungul perimetrului zonei, și folosind un GPS. Punctele stocate în GPS au fost importate folosind instrumente GPS. Punctele intermediare importate au fost folosite pentru a construi un fișier shape de tip poligon. Curbele din interiorul pădurii au fost trasate într-un mod similar."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:35
+#: ../../source/site/about/case_studies/nigeria_jos.rst:34
 msgid ""
 "We were able to quickly and precisely construct a habitat map of Amurum "
 "using a Google satellite image which we got into the workspace with the "
@@ -104,18 +104,18 @@ msgid ""
 "overlapping polygons."
 msgstr "Am fost capabili de a construi rapid și precis o hartă a habitatului din Amurum, folosind o imagine de satelit de la Google, pe care am afișat-o în spațiul de lucru prin intermediul plugin-ului OpenLayers. Rezerva are trei tipuri de habitat distincte: savană, coridor împădurit și afloriment stâncos. Deasupra imaginii din satelit am folosit editorul pentru a desena poligoanele care delimitează cele trei habitate. Setarea opțiunilor de snapping au permis corecta construire a poligoanelor evitând suprapunerile."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:38
+#: ../../source/site/about/case_studies/nigeria_jos.rst:37
 msgid "Mapping bird distributions and diversity"
 msgstr "Cartografierea distribuției păsărilor și a biodiversității"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:40
+#: ../../source/site/about/case_studies/nigeria_jos.rst:39
 msgid ""
 "The habitat maps were used to generate random locations. The area of the "
 "various types of habitat were used to generate a number of locations "
 "proportional to the surface of each habitat type (stratification)."
 msgstr "Hărțile de habitat au fost utilizate pentru a genera puncte aleatorii. Zonele diferitelor tipuri de habitat au fost utilizate pentru a genera un număr de locații, proporțional cu suprafața fiecărui tip de habitat (stratificare)."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:49
+#: ../../source/site/about/case_studies/nigeria_jos.rst:48
 msgid ""
 "The random points in fTools were used for this purpose. All the locations "
 "were visited during two mornings by four groups of students (2 per group) "
@@ -129,32 +129,42 @@ msgid ""
 "avian diversity of the Amurum reserve."
 msgstr "Punctele aleatoare din fTools au fost utilizate în acest scop. Toate locațiile au fost vizitate în două dimineți de către patru grupe de studenți (2 per grup), ajungându-se la un total de 38 de puncte aleatorii dispersate în toată pădureaa. Datele de observare au fost introduse într-o foaie de calcul și analizate cu ajutorul R. În plus, indicele de diversitate Shannon-Wiener a fost calculat folosind R. După unificarea locației fișierului cu datele de observare rezultate, s-a efectuat un export într-un fișier csv care a fost încărcat în QGIS utilizând instrumentul 'Adăugare strat pentru textul delimitat'. Pe baza straturilor de mai sus o hartă a fost construită, arătând unele dintre cele mai importante caracteristici ale peisajului și diversitatea zonei Amurum."
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:52
+#: ../../source/site/about/case_studies/nigeria_jos.rst:51
 msgid "Conclusion"
 msgstr "Concluzii"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:54
-msgid ""
-"Overall, the course was a great success. We - a group of students with no "
-"previous GIS experience - enjoyed working with QGIS a lot. Within just two "
-"weeks time we were able to develop an extremely useful map of the reserve. "
-"Amongst others, the extents of the various habitats were determined which "
-"allows for stratification and thus for better estimates of abundances of "
-"various kinds of organisms. Basically we are now able to do better "
-"ecological research using QGIS as an open source platform."
-msgstr "În general, cursul a fost un mare succes. Nouă - unui grup de studenți fără experiență anterioară în GIS - ne-a făcut mare plăcere lucrul în QGIS. În doar două săptămâni a fost posibil să dezvoltăm o hartă extrem de utilă a pădurii. Printre altele, s-au determinat limitele diverselor habitate, care au permis stratificarea și, astfel, estimări mai bune ale abundenței diverselor tipuri de organisme. Practic, acum avem posibilitatea de a face cercetări ecologice mai bune folosind QGIS ca o platformă cu sursă deschisă."
-
-#: ../../source/site/about/case_studies/nigeria_jos.rst:61
+#: ../../source/site/about/case_studies/nigeria_jos.rst:60
 msgid "QGIS map: Diversity of Amurum Forest Reserve"
 msgstr "Hartă QGIS: Diversitatea Amurum Forest Reserve"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:64
+#: ../../source/site/about/case_studies/nigeria_jos.rst:63
 msgid "Authors"
 msgstr "Autori"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:66
+#: ../../source/site/about/case_studies/nigeria_jos.rst:65
 msgid ""
 "Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, "
 "Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu "
 "Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"
 msgstr "Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"
+
+#: ../../source/site/about/case_studies/nigeria_jos.rst:53
+msgid ""
+"Overall, the course was a great success. We - a group of students with no "
+"previous GIS experience --- enjoyed working with QGIS a lot. Within just two"
+" weeks time we were able to develop an extremely useful map of the reserve. "
+"Amongst others, the extents of the various habitats were determined which "
+"allows for stratification and thus for better estimates of abundances of "
+"various kinds of organisms. Basically we are now able to do better "
+"ecological research using QGIS as an open source platform."
+msgstr "În general, cursul a înregistrat un mare succes. Noi - un grup de studenți fără experiență anterioară în GIS --- am lucrat cu plăcere în QGIS. În doar două săptămâni a fost posibil să dezvoltăm o hartă extrem de utilă a pădurii. Printre altele, s-au determinat limitele diverselor habitate, care au permis stratificarea și, totodată, estimări mai bune ale abundenței diverselor tipuri de organisme. Practic, acum avem posibilitatea de a face cercetări ecologice mai bune, folosind platforma cu sursă deschisă QGIS."
+
+#~ msgid ""
+#~ "Overall, the course was a great success. We - a group of students with no "
+#~ "previous GIS experience - enjoyed working with QGIS a lot. Within just two "
+#~ "weeks time we were able to develop an extremely useful map of the reserve. "
+#~ "Amongst others, the extents of the various habitats were determined which "
+#~ "allows for stratification and thus for better estimates of abundances of "
+#~ "various kinds of organisms. Basically we are now able to do better "
+#~ "ecological research using QGIS as an open source platform."
+#~ msgstr ""

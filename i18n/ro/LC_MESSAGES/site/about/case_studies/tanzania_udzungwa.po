@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2013
+# Sorin Călinică <scalinica@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-10-11 10:17+0000\n"
+"PO-Revision-Date: 2014-12-04 19:00+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -15,15 +15,15 @@ msgstr ""
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:4
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:3
 msgid "Using QGIS for wildlife training in Tanzania"
 msgstr "Folosirea QGIS pentru formarea profesională în protejarea faunei sălbatice din Tanzania"
 
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:7
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:6
 msgid "Introduction"
 msgstr "Introducere"
 
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:9
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:8
 msgid ""
 "Working in southern Tanzania, the Udzungwa Elephant Project (UEP) is using "
 "QGIS for its training in wildlife research and conservation. In February "
@@ -32,11 +32,11 @@ msgid ""
 "of the Udzungwa Ecological Monitoring Centre."
 msgstr "Operând în sudul Tanzaniei, Proiectul de Protejare a Elefanților din Udzungwa (UEP) utilizează QGIS în formarea lucrătorilor în domeniile cercetării și conservării faunei sălbatice. În februarie 2012, a avut loc un atelier de lucru de două zile pentru personalul departamentelor Ecologie și Protecție (anti-braconaj) din Parcul Național din munții Udzungwa, împreună cu membrii Centrului de Monitorizare Ecologică Udzungwa."
 
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:12
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:11
 msgid "About the Training"
 msgstr "Despre programul de formare profesională"
 
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:14
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:13
 msgid ""
 "Trainees used their own laptops and were provided with the installer for "
 "QGIS 1.7.3 along with key data layers covering the National Park: protected "
@@ -44,24 +44,9 @@ msgid ""
 "habitat types."
 msgstr "Stagiarii folosesc laptop-urile proprii care au fost prevăzute cu programul de instalare pentru QGIS 1.7.3, împreună cu straturile cu datele cheie care acoperă Parcul Național: limitele zonei protejate, hărți topografice scanate, un DEM - model digital al terenului , drumuri, posturi de pază și tipuri de habitate."
 
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:21
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:20
 msgid "QGIS Udzungwa"
 msgstr "QGIS Udzungwa"
-
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:23
-msgid ""
-"By the end of the two days, everyone was able to add GPS download data, "
-"create and edit new layers, save map projects, design print composers, and "
-"save graphics files for inclusion in reports and presentations - this last "
-"feature is specially useful in using GIS to help in normal workflows. Even "
-"during the course, National Park staff were using the GIS to view the GPS "
-"locations of new-reported elephant carcass locations - the result of "
-"poaching - and to start planning responses. QGIS offered us several "
-"attractions: not only is it completely free, but its open source nature "
-"makes it responsive to particular development needs; it runs well on older "
-"computers and has a relatively small installer; and in general we have found"
-" it user-friendly for newcomers to GIS."
-msgstr "Până la sfârșitul celor două zile, toată lumea a fost capabilă de adăuga date descărcate de pe GPS, de a crea și edita noi straturi, de a salva proiecte, de a lucra în Editorul de Hărți și de a salva fișiere grafice pentru a le include în rapoarte și prezentări - această ultimă caracteristică fiind utilă în special la utilizarea GIS în procesul de lucru curent. Chiar și în timpul cursului, personalul National Park a folosit GIS pentru a vedea coordonatele înregistrate  în GPS ale ultimelor locații de carcase de elefant - raportate ca rezultat al braconajului - și pentru a începe planificarea acțiunilor de răspuns. QGIS oferă mai multe beneficii: nu numai că este complet gratuit, dar codul său sursă deschis îl face receptiv la nevoile speciale de dezvoltare, rulează bine pe calculatoare mai vechi și are o instalare relativ mică, și, în general, este ușor de utilizat pentru nou-veniții în GIS."
 
 #: ../../source/site/about/case_studies/tanzania_udzungwa.rst:26
 msgid ""
@@ -79,24 +64,15 @@ msgstr "Proiectul de Protecție a Elefanților din Udzungwa se desfășoară lâ
 msgid "QGIS Udzungwa 2"
 msgstr "QGIS Udzungwa 2"
 
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:35
-msgid ""
-"Special thanks to the US Fish and Wildlife Service African Elephant Fund for"
-" supporting this training. Links http://www.facebook.com/pages/Udzungwa-"
-"Elephant-Project/157164174392263 "
-"http://udzungwa.wildlifedirect.org/2012/02/10/qgis-training-for-park-staff/ "
-"http://www.udzungwacentre.org/"
-msgstr "Mulțumiri speciale adresate Fundației pentru Salvarea Elefanților Africani din cadrul Serviciului pentru Fauna Sălbatică și Piscicultură din Statele Unite, pentru sprijinul acordat programului de training. Link-uri: http://www.facebook.com/pages/Udzungwa-Elephant-Project/157164174392263 http://udzungwa.wildlifedirect.org/2012/02/10/qgis-training-for-park-staff/ http://www.udzungwacentre.org/"
-
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:42
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:45
 msgid "Author"
 msgstr "Autor"
 
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:49
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:52
 msgid "Nick McWilliam"
 msgstr "Nick McWilliam"
 
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:51
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:54
 msgid ""
 "This article was contributed in March 2012 by Nick McWilliam. UK-based, he "
 "has been visiting Tanzania since 1996 to work with GIS in National parks and"
@@ -107,3 +83,68 @@ msgid ""
 "Antarctic Survey,  United Nations, Royal Geographical Society, and as a GIS "
 "Lecturer."
 msgstr "Acest articol a fost transmis în martie 2012 de către Nick McWilliam. Originar din Marea Britanie, el a fost vizitat Tanzania din 1996 pentru a lucra cu GIS în parcurile naționale și rezerve de joc, cu un accent pe formare, sisteme de low-cost, și utilizarea GIS pentru a ajuta în cercetarea aplicată, de gestionare și conservare. El, de asemenea, voluntarii cu MapAction ONG-urilor, oferind suport GIS pentru organizațiile umanitare în situații de urgență, și a lucrat anterior cu British Antarctic Survey, Organizația Națiunilor Unite, Royal Geographical Society, cât și ca lector GIS."
+
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:22
+msgid ""
+"By the end of the two days, everyone was able to add GPS download data, "
+"create and edit new layers, save map projects, design print composers, and "
+"save graphics files for inclusion in reports and presentations --- this last"
+" feature is specially useful in using GIS to help in normal workflows. Even "
+"during the course, National Park staff were using the GIS to view the GPS "
+"locations of new-reported elephant carcass locations --- the result of "
+"poaching --- and to start planning responses."
+msgstr "Până la sfârșitul celor două zile, toți au fost capabili de a încărca datele luate de pe GPS, de a crea și edita noi straturi, de a salva proiecte, de a lucra în Editorul de Hărți și de a salva fișiere grafice pentru a le include în rapoarte și prezentări --- această ultimă caracteristică fiind utilă în special la utilizarea GIS în procesul de lucru curent. Chiar și în timpul cursului, personalul National Park a folosit GIS pentru a vedea coordonatele înregistrate în GPS, ale ultimelor locații de carcase de elefant --- raportate ca rezultat al braconajului --- și pentru a începe planificarea acțiunilor de răspuns."
+
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:24
+msgid ""
+"QGIS offered us several attractions: not only is it completely free, but its"
+" open source nature makes it responsive to particular development needs; it "
+"runs well on older computers and has a relatively small installer; and in "
+"general we have found it user-friendly for newcomers to GIS."
+msgstr "QGIS oferă mai multe beneficii: nu numai că este complet gratuit, dar codul său sursă deschis îl face receptiv la nevoile speciale de dezvoltare, rulează bine pe calculatoare mai vechi și are o instalare relativ mică, și, în general, este ușor de utilizat pentru nou-veniții în GIS."
+
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:35
+msgid ""
+"Special thanks to the US Fish and Wildlife Service African Elephant Fund for"
+" supporting this training."
+msgstr "Mulțumiri speciale cătreUS Fish and Wildlife Service African Elephant Fund  pentru susținerea acestei instruiri."
+
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:38
+msgid "Links"
+msgstr "Legături"
+
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:40
+msgid ""
+"http://www.facebook.com/pages/Udzungwa-Elephant-Project/157164174392263"
+msgstr "http://www.facebook.com/pages/Udzungwa-Elephant-Project/157164174392263"
+
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:41
+msgid ""
+"http://udzungwa.wildlifedirect.org/2012/02/10/qgis-training-for-park-staff/"
+msgstr "http://udzungwa.wildlifedirect.org/2012/02/10/qgis-training-for-park-staff/"
+
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:42
+msgid "http://www.udzungwacentre.org/"
+msgstr "http://www.udzungwacentre.org/"
+
+#~ msgid ""
+#~ "By the end of the two days, everyone was able to add GPS download data, "
+#~ "create and edit new layers, save map projects, design print composers, and "
+#~ "save graphics files for inclusion in reports and presentations - this last "
+#~ "feature is specially useful in using GIS to help in normal workflows. Even "
+#~ "during the course, National Park staff were using the GIS to view the GPS "
+#~ "locations of new-reported elephant carcass locations - the result of "
+#~ "poaching - and to start planning responses. QGIS offered us several "
+#~ "attractions: not only is it completely free, but its open source nature "
+#~ "makes it responsive to particular development needs; it runs well on older "
+#~ "computers and has a relatively small installer; and in general we have found"
+#~ " it user-friendly for newcomers to GIS."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Special thanks to the US Fish and Wildlife Service African Elephant Fund for"
+#~ " supporting this training. Links http://www.facebook.com/pages/Udzungwa-"
+#~ "Elephant-Project/157164174392263 "
+#~ "http://udzungwa.wildlifedirect.org/2012/02/10/qgis-training-for-park-staff/ "
+#~ "http://www.udzungwacentre.org/"
+#~ msgstr ""

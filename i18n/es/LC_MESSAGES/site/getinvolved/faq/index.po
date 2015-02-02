@@ -2,13 +2,14 @@
 # Translators:
 # BelenMP <Beln1@hotmail.com>, 2014
 # Diana Galindo <drgalindog@linuxmail.org>, 2013
+# Minerva Durán Martínez <mine_tod@yahoo.com.mx>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-28 15:57+0000\n"
-"Last-Translator: BelenMP <Beln1@hotmail.com>\n"
+"PO-Revision-Date: 2014-12-30 17:50+0000\n"
+"Last-Translator: Minerva Durán Martínez <mine_tod@yahoo.com.mx>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -49,7 +50,7 @@ msgid ""
 ".pixelkarte-farbe&layers=ch.swisstopo.hiks-"
 "dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_"
 " in Switzerland."
-msgstr ""
+msgstr "Después de una reunión de desarrolladores exitosa en Zurich (Suiza), decidimos que la próxima versión debe estar relacionado con ella.`General Guillaume-Henri Dufour <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_ fue un famoso e influyente cartógrafo suizo. Ademas Dufourspitze  es el `pico más alto <http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.hiks-dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_ en Suiza"
 
 #: ../../source/site/getinvolved/faq/index.rst:22
 msgid "preferably a descriptive title for your email"
@@ -65,18 +66,18 @@ msgstr "Qué versión de QGIS (exacta) utilizaste en ese momento"
 
 #: ../../source/site/getinvolved/faq/index.rst:25
 msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
-msgstr ""
+msgstr "Cómo lo instalo (osgeo4w? instalador independiente? compilación propia?)"
 
 #: ../../source/site/getinvolved/faq/index.rst:26
 msgid ""
 "at what time did it break (reinstall, new install, system update, project??)"
-msgstr ""
+msgstr "a qué hora se rompe (reinstalar, nueva instalación, actualizar sistema, proyecto??)"
 
 #: ../../source/site/getinvolved/faq/index.rst:29
 msgid ""
 "Without this info, it is very hard to answer for anybody. Or, taking just "
 "too much time because the answer will be a question to you etc etc."
-msgstr ""
+msgstr "Sin esta información, es muy difícil de responder para nadie. O, toma demasiado tiempo, porque la respuesta será una pregunta para usted, etc, etc."
 
 #: ../../source/site/getinvolved/faq/index.rst:54
 msgid "Development"
@@ -102,13 +103,13 @@ msgstr "¿Cómo enviar una pregunta sobre QGIS?"
 msgid ""
 "If you are going to ask QGIS related question via the mailinglists, please "
 "provide the following information with it:"
-msgstr ""
+msgstr "Si va a hacer QGIS una pregunta relacionada a través de las listas de correo, por favor proporcione la siguiente información con el mismo:"
 
 #: ../../source/site/getinvolved/faq/index.rst:27
 msgid ""
 "what exactly is the error (if possible: screendump, stacktrace, copy of "
 "errortext)"
-msgstr ""
+msgstr "cual es el error exactamente (si es posible: imagen de la pantalla, seguimiento de pila, copia del texto de error)"
 
 #: ../../source/site/getinvolved/faq/index.rst:44
 msgid "Can I open ECW files with QGIS?"
@@ -128,7 +129,7 @@ msgstr "Si utilizas el instalador de 64 bits OSGeo4w, está incluido."
 msgid ""
 "For other instructions, eg look here: http://www.faunalia.com/content"
 "/adding-ecw-support-quantum-gis"
-msgstr ""
+msgstr "Para otras instrucciones, ejemplo, vea aquí http://www.faunalia.com/content/adding-ecw-support-quantum-gis"
 
 #: ../../source/site/getinvolved/faq/index.rst:59
 #: ../../source/site/getinvolved/faq/index.rst:65

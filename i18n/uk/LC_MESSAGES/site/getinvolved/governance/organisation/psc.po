@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-04-19 14:04+0000\n"
+"PO-Revision-Date: 2014-12-16 09:32+0000\n"
 "Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
@@ -67,7 +67,7 @@ msgid ""
 "include recruiting and facilitating 'managers' for discrete areas of the "
 "code based (core, gui, plugins, providers, tests) who will ensure "
 "consistency and quality of code added into the SVN code repository."
-msgstr "Контролює та координує діяльність розробників. Набирає «менеджерів», які будуть відповідати за окремі ділянки коду (ядро, інтерфейс, модулі, провайдери тощо), та координує їх роботу."
+msgstr "Контролює та координує діяльність розробників. Набирає «менеджерів», які будуть відповідати за окремі ділянки коду (ядро, інтерфейс, плаґіни, провайдери тощо), та координує їх роботу."
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:35
 msgid "**Financial and Marketing advisor**"
@@ -103,7 +103,7 @@ msgid ""
 "To oversee activities related to QGIS branding, including logo, user "
 "experience, icons, and other graphic elements common to both the application"
 " and the project's web presence."
-msgstr "Здійснює контроль над діяльністью, пов'язаною з брендом QGIS включаючи логотип, досвід використання, значки та інші графічні елементи, спільні для програми та веб-ресурсів."
+msgstr "Здійснює контроль над діяльністю, пов'язаною з брендом QGIS включаючи логотип, досвід використання, значки та інші графічні елементи, спільні для програми та веб-ресурсів."
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:49
 msgid "**Infrastructure Manager**"
@@ -115,7 +115,7 @@ msgid ""
 "websites, source control, and issue tracking. Make recommendations for "
 "improvements, expansion, and consolidation of services. Guide and direct "
 "volunteers"
-msgstr "Керує та здійснює контроль за інфраструктурою проекту QGIS включаючи сервери, сайти, системи контролю версій та відстеження помилок. Надає рекомендації з покращення та консолідації сервісів. Допомогає добровольцям та координує їх роботу."
+msgstr "Керує та здійснює контроль за інфраструктурою проекту QGIS включаючи сервери, сайти, системи контролю версій та відстеження помилок. Надає рекомендації з покращення та консолідації сервісів. Допомагає добровольцям та координує їх роботу."
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:57
 msgid "**Testing and QA Manager**"
@@ -162,7 +162,7 @@ msgstr "Для висування чиєїсь кандидатури:"
 msgid ""
 "Nominator checks with the nominee to make sure they are willing to serve on "
 "the PSC and commit to the goals and duties described in this document"
-msgstr "Висувач повинен обговорити з кандидатом його готовніть до участі в PSC і виконання обов'язків відповідної ролі"
+msgstr "Висувач повинен обговорити з кандидатом його готовність до участі в PSC і виконання обов'язків відповідної ролі"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:78
 msgid "Nominator submits the nomination via email to the PSC mailing list."
@@ -204,14 +204,14 @@ msgstr "електрона пошта висувач"
 msgid ""
 "Justification why the person should be a member of the PSC. This can be just"
 " a sentence or two in length."
-msgstr "Обґгрунтування кандидатури. Одного-двух речень цілком достатньо"
+msgstr "Обґрунтування кандидатури. Одного - двох речень цілком достатньо"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:94
 msgid ""
 "The PSC contacts the nominee to confirm their willingness to serve and their"
 " name is added to the list of nominees.  You must submit all the information"
 " in item 4 for the nomination to be accepted."
-msgstr "PSC зв'яжеться з кандидатом, щоб підтвердити його бажання, після чого його ім'я буде додано до списку кандидатів. Для розгляду заявки необхідно надати всю вищезазначену інфромацію."
+msgstr "PSC зв'яжеться з кандидатом, щоб підтвердити його бажання, після чого його ім'я буде додано до списку кандидатів. Для розгляду заявки необхідно надати всю вищезазначену інформацію."
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:99
 msgid "Expectations of PSC members"
@@ -257,7 +257,7 @@ msgstr "слідкує, щоб очікування та сподівання, �
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:115
 msgid "Vote on issues relating to project governance"
-msgstr "голосування з питань, пов'язанних з управлянням проектом"
+msgstr "голосування з питань, пов'язаних з управлянням проектом"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:116
 msgid "Arbitrate disputes"
@@ -265,7 +265,7 @@ msgstr "вирішення конфліктних ситуацій"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:117
 msgid "Deal with confidential and legal matters that may arise"
-msgstr "вирішення різноманітних правових питаннь, якщо такі будуть"
+msgstr "вирішення різноманітних правових питань, якщо такі будуть"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:118
 msgid "Provide a stable base of 'institutional knowledge' to the project"
@@ -283,4 +283,4 @@ msgstr "юридичною особою"
 msgid ""
 "Intended to deal with minutae of the project (these should be delegated to "
 "trusted members)"
-msgstr "ограном, для вирішення дрібних питань проекту (вони делегуються довіреним особам)"
+msgstr "органом, для вирішення дрібних питань проекту (вони делегуються довіреним особам)"

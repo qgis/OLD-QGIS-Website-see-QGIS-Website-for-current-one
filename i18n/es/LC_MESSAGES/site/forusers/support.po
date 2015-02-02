@@ -3,14 +3,14 @@
 # BelenMP <Beln1@hotmail.com>, 2014
 # Diana Galindo <drgalindog@linuxmail.org>, 2013
 # Eduardo Gonzalez Latorre <eg@gismood.com>, 2014
-# minemak <mine_tod@yahoo.com.mx>, 2014
+# Minerva Durán Martínez <mine_tod@yahoo.com.mx>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-08-13 19:58+0000\n"
-"Last-Translator: minemak <mine_tod@yahoo.com.mx>\n"
+"PO-Revision-Date: 2014-08-21 18:21+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,44 +56,40 @@ msgid ""
 "http://webchat.freenode.net/?channels=#qgis"
 msgstr "También puedes usar una interfaz web: http://webchat.freenode.net/?channels=#qgis"
 
-#: ../../source/site/forusers/support.rst:48
-msgid "TODO: write something about the IRC ethiquette?"
-msgstr "PORHACER: escribir algo acerca del código de comportamiento en IRC?"
-
 #: ../../source/site/forusers/support.rst:32
 msgid "StackExchange"
 msgstr "StackExchange"
 
-#: ../../source/site/forusers/support.rst:53
+#: ../../source/site/forusers/support.rst:49
 msgid "User Groups"
 msgstr "Grupos de Usuario"
 
-#: ../../source/site/forusers/support.rst:109
+#: ../../source/site/forusers/support.rst:105
 msgid "Issue Tracker"
 msgstr "Rastreador de problemas"
 
-#: ../../source/site/forusers/support.rst:111
+#: ../../source/site/forusers/support.rst:107
 msgid ""
 "If you want to file bugs or issues, you need an osgeo ID. You can create an "
 "account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
 msgstr "Si quieres informar de un error o problema, necesitas una ID de osgeo. Puedes crear una cuenta aquí: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
 
-#: ../../source/site/forusers/support.rst:113
+#: ../../source/site/forusers/support.rst:109
 msgid ""
 "More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
 msgstr "Más información en: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
 
-#: ../../source/site/forusers/support.rst:115
+#: ../../source/site/forusers/support.rst:111
 msgid ""
 "All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
 "gis/issues"
 msgstr "Todos los asuntos pueden consultarse aquí: http://hub.qgis.org/projects/quantum-gis/issues"
 
-#: ../../source/site/forusers/support.rst:121
+#: ../../source/site/forusers/support.rst:117
 msgid "Commercial Support"
 msgstr "Soporte Comercial"
 
-#: ../../source/site/forusers/support.rst:123
+#: ../../source/site/forusers/support.rst:119
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
@@ -132,31 +128,31 @@ msgid ""
 "http://gis.stackexchange.com/?tags=qgis"
 msgstr "En http://gis.stackexchange.com puedes preguntar sobre QGIS también. Si utilizas la etiquéta 'qgis' verás todas las preguntas y respuestas referentes a QGIS: http://gis.stackexchange.com/?tags=qgis"
 
-#: ../../source/site/forusers/support.rst:56
+#: ../../source/site/forusers/support.rst:52
 msgid "Goals of a user group"
 msgstr "Metas para un grupo de usuarios"
 
-#: ../../source/site/forusers/support.rst:58
+#: ../../source/site/forusers/support.rst:54
 msgid "Organization of user meetings"
 msgstr "Organización para reuniones de usuarios"
 
-#: ../../source/site/forusers/support.rst:59
+#: ../../source/site/forusers/support.rst:55
 msgid ""
 "Coordination of development, taking into account regional/national standards"
 " and requirements"
 msgstr "Coordinación de desarrollo, teniendo en cuenta los estándares regionales/nacionales y los requisitos"
 
-#: ../../source/site/forusers/support.rst:60
+#: ../../source/site/forusers/support.rst:56
 msgid ""
 "QGIS information: meetings, articles in GIS magazines, QGIS information in "
 "social media, GIS discussion boards, etc."
 msgstr "Información QGIS: reuniones, artículos en revistas GIS, información de QGIS en medios sociales, tablones de discusión GIS, etc."
 
-#: ../../source/site/forusers/support.rst:61
+#: ../../source/site/forusers/support.rst:57
 msgid "Collection of case studies of local QGIS usage"
 msgstr "Colección de casos de estudio de uso local de QGIS"
 
-#: ../../source/site/forusers/support.rst:62
+#: ../../source/site/forusers/support.rst:58
 msgid ""
 "Sponsoring: a local user group could collect reasonable annual membership "
 "fees (depending on the country). This collected funds could be used to pay "
@@ -164,48 +160,48 @@ msgid ""
 " the international QGIS project."
 msgstr "Patrocinar: un grupo de usuarios locas podría recaudar una cuota de anual razonable (dependendiendo el país). Estos fondos recaudados podrían ser utilizados para pagar el desarrollo de ciertas funcionalidades, para ayudar con la corrección de errores o como donación al proyecto internacional QGIS."
 
-#: ../../source/site/forusers/support.rst:63
+#: ../../source/site/forusers/support.rst:59
 msgid ""
 "establishment of interest groups, e.g. surveying, urban planning, server/web"
 " client, etc."
 msgstr "creación de grupos de interés, por ejemplo estudios, planificación urbana, servidores y clientes web, etc."
 
-#: ../../source/site/forusers/support.rst:64
+#: ../../source/site/forusers/support.rst:60
 msgid ""
 "initialization/coordination of application modules, e.g. surveying, urban "
 "planning, server/web client, etc."
 msgstr "inicialización/coordinación de los módulos de aplicaciones, por ejemplo, estudios, planificación urbana, servidor y cliente web,etc."
 
-#: ../../source/site/forusers/support.rst:67
+#: ../../source/site/forusers/support.rst:63
 msgid "General assumptions/recommendations"
 msgstr "Suposiciones generales/recomendaciones"
 
-#: ../../source/site/forusers/support.rst:69
+#: ../../source/site/forusers/support.rst:65
 msgid "stay vendor/company neutral"
 msgstr "quedarse como vendedor/compañía neutral"
 
-#: ../../source/site/forusers/support.rst:70
+#: ../../source/site/forusers/support.rst:66
 msgid ""
 "establish democratic structures for the steering committee, voting and "
 "important decision"
 msgstr "establecer estructuras democráticas para el comité de dirección, la votación y decisión importante"
 
-#: ../../source/site/forusers/support.rst:71
+#: ../../source/site/forusers/support.rst:67
 msgid ""
 "stay transparent, esp. if you deal with membership-fees and how you spend it"
 msgstr "permanecer transparente, especialmente si ocupa una membresia de honorarios y cómo lo gasta."
 
-#: ../../source/site/forusers/support.rst:72
+#: ../../source/site/forusers/support.rst:68
 msgid ""
 "inform the international project from time to time about your local "
 "activities"
 msgstr "informar al proyecto internacional sobre tus actividades locales cada cierto tiempo"
 
-#: ../../source/site/forusers/support.rst:75
+#: ../../source/site/forusers/support.rst:71
 msgid "Organization"
 msgstr "Organización"
 
-#: ../../source/site/forusers/support.rst:77
+#: ../../source/site/forusers/support.rst:73
 msgid ""
 "Depending on your country, a smaller legal entity, e.g. an association, "
 "could be established. Depending on local legislation such an entity implies "
@@ -214,57 +210,57 @@ msgid ""
 "also implies the creation of statutes."
 msgstr "Dependiendo de su país, una entidad jurídica más pequeña, por ejemplo, una asociación, se podría establecer. En función de la legislación local tal entidad implica que cumple al menos una vez al año (asamblea general), publicará un informe anual y hace un informe financiero a disposición de sus miembros. A menudo, esto también implica la creación de estatutos."
 
-#: ../../source/site/forusers/support.rst:79
+#: ../../source/site/forusers/support.rst:75
 msgid "Statutes of the Swiss QGIS user group as an example:"
 msgstr "Estatutos del grupo de usuarios QGIS suizo como ejemplo:"
 
-#: ../../source/site/forusers/support.rst:81
+#: ../../source/site/forusers/support.rst:77
 msgid ""
 "german (master): http://www.qgis.ch/de/verein/statuten-der-qgis-"
 "anwendergruppe-schweiz"
 msgstr "alemán (master): http://www.qgis.ch/de/verein/statuten-der-qgis-anwendergruppe-schweiz"
 
-#: ../../source/site/forusers/support.rst:82
+#: ../../source/site/forusers/support.rst:78
 msgid ""
 "english (translation): http://www.qgis.ch/en/association/statutes-of-the-"
 "swiss-qgis-user-group"
 msgstr "inglés (traducción): http://www.qgis.ch/en/association/statutes-of-the-swiss-qgis-user-group"
 
-#: ../../source/site/forusers/support.rst:83
+#: ../../source/site/forusers/support.rst:79
 msgid ""
 "french (translation): http://www.qgis.ch/fr/association/statuts-du-groupe-"
 "d2019utilisateurs-qgis-suisse"
 msgstr "francés (traducción): http://www.qgis.ch/fr/association/statuts-du-groupe-d2019utilisateurs-qgis-suisse"
 
-#: ../../source/site/forusers/support.rst:85
+#: ../../source/site/forusers/support.rst:81
 msgid "Membership application forms:"
 msgstr "Formularios de aplicación para ser miembro:"
 
-#: ../../source/site/forusers/support.rst:87
+#: ../../source/site/forusers/support.rst:83
 msgid "german: http://www.qgis.ch/de/verein/beitrittserklaerung"
 msgstr "alemán: http://www.qgis.ch/de/verein/beitrittserklaerung"
 
-#: ../../source/site/forusers/support.rst:88
+#: ../../source/site/forusers/support.rst:84
 msgid ""
 "english: http://www.qgis.ch/en/association/qgis-usergroup-switzerland-"
 "membership-application-form"
 msgstr "inglés: http://www.qgis.ch/en/association/qgis-usergroup-switzerland-membership-application-form"
 
-#: ../../source/site/forusers/support.rst:89
+#: ../../source/site/forusers/support.rst:85
 msgid "french: http://www.qgis.ch/fr/association/declaration-d2019adhesion"
 msgstr "francés: http://www.qgis.ch/fr/association/declaration-d2019adhesion"
 
-#: ../../source/site/forusers/support.rst:91
+#: ../../source/site/forusers/support.rst:87
 msgid ""
 "You can use these statutes and membership application forms as an idea or "
 "reference and change them to your local situation."
 msgstr "Puede utilizar estos estatutos y y formularios de solicitud de afiliación como una idea o referencia y cambiarlos a su situación actual."
 
-#: ../../source/site/forusers/support.rst:95
+#: ../../source/site/forusers/support.rst:91
 msgid "Local Country domain qgis.xx"
 msgstr "Dominio local por países qgis.xx"
 
-#: ../../source/site/forusers/support.rst:97
+#: ../../source/site/forusers/support.rst:93
 msgid ""
 "It is recommended to register your local country domains, e.g. qgis.ch or "
 "qgis.uk. If the domain is already taken by someone other organization, "
@@ -273,11 +269,11 @@ msgid ""
 " a trademark, which should help you during your negotations."
 msgstr "Se recomienda registrar sus dominios locales por ejemplo, qgis.ch o qgis.uk. Si el dominio ya está en uso por una persona distinta a la organización, empresa o persona, negocie por favor si puede transferir el propietario para el grupo de usuarios de QGIS local. El proyecto internacional QGIS ha registrado QGIS como una marca comercial, que debe ayudar durante sus negociaciones. "
 
-#: ../../source/site/forusers/support.rst:100
+#: ../../source/site/forusers/support.rst:96
 msgid "Website"
 msgstr "Sitio Web"
 
-#: ../../source/site/forusers/support.rst:102
+#: ../../source/site/forusers/support.rst:98
 msgid ""
 "The website should be used to publish any material in relation to the "
 "information and management of the user group. Examples include the user "
@@ -289,13 +285,16 @@ msgid ""
 " the QGIS user group."
 msgstr "El sitio web debe ser utilizado para publicar cualquier material con relación a la información y la gestión del grupo de usuarios. Los ejemplos incluyen las reuniones de usuarios, casos de estudios, material compartido, foros de discusión, etc. El material público deben estar disponible sin requisitos de inicio de sesión (por ejemplo, no requieren que las personas interesadas a ser miembro de una red de medios sociales como Facebook o Google+). Se recomienda el uso de los medios sociales, pero no debe ser el único canal de información. Los canales RSS deberían estar disponibles en el sitio web del grupo de usuarios de QGIS."
 
-#: ../../source/site/forusers/support.rst:105
+#: ../../source/site/forusers/support.rst:101
 msgid ""
 "Good luck with the organization of your local user group. Please inform the "
 "international QGIS team by registering at the QGIS community list and "
 "reporting about your progress. Please do not hesitate to ask questions "
 "regarding the establishment and maintenance of your local user group."
 msgstr "Buena suerte con la organización de su grupo de usuarios local. Por favor, informe al equipo QGIS internacional para registrarse en la lista de la comunidad QGIS y presentación de informes sobre su progreso. Por favor, no dude en hacer preguntas con respecto a la creación y el mantenimiento de su grupo de usuarios local."
+
+#~ msgid "TODO: write something about the IRC ethiquette?"
+#~ msgstr ""
 
 #~ msgid "TODO"
 #~ msgstr ""
