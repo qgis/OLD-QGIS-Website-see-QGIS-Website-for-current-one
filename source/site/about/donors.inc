@@ -275,6 +275,7 @@
 * Fernando Medina
 * Fethi M'rad
 * Filippo Angeli
+* Filippo Petrocelli
 * Fjm Van Baar
 * Flavio Rigolon
 * Florian Hof
