@@ -834,6 +834,7 @@
 * St. Sultans Trail International
 * Stefan Eberlein
 * Stefan Goen
+* Stefan Kapeller
 * Stefan Price
 * Stefan Sylla
 * Stefan Widmer
