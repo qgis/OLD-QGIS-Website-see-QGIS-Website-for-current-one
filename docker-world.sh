@@ -1,7 +1,11 @@
 #!/bin/bash
 
+# cd to script dir
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+cd $DIR
+
 now=`date`
-echo "Starting $now"
+echo "Starting: $now"
 
 if [ -f running ]; then
 	echo "$0 still running"
@@ -13,9 +17,6 @@ trap "rm $PWD/running" EXIT
 
 TARGET=${1:-full}
 
-# cd to script dir
-DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-cd $DIR
 # throw away building artefacts
 git stash
 git stash drop
@@ -33,3 +34,6 @@ for l in $langs
     time /bin/bash ./docker-run.sh $TARGET LANG=$l
     time rsync -hvrzc -e ssh --progress output/html/$l qgis.osgeo.osuosl.org:/var/www/qgisdata/QGIS-Website/live/html
   done
+
+now=`date`
+echo "Finished: $now"
