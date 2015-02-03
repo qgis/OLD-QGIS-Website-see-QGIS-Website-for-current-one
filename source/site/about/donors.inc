@@ -320,6 +320,7 @@
 * Giancarlo Gualato
 * Gianluca Massei
 * Gildas Lilbert
+* Gilles Boka
 * Giovanna Bartoleschi
 * Giovanni Di Piazza
 * Giovanni Fossà
