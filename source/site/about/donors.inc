@@ -218,6 +218,7 @@
 * Dewey Dunnington
 * Deyan Vasilev
 * Dheeraj Chand
+* Diana Jones
 * Diane Perez
 * Dianne Hoy
 * Didier Genier
