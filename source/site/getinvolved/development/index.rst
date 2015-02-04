@@ -29,6 +29,12 @@ Once you have your account, use `QGIS issue tracking
 <http://hub.qgis.org/projects/quantum-gis/issues>`_ to search if the issue
 you'd like to report is probably already entered.
 
+.. note:: On the `OSGEO userid page <http://www.osgeo.org/osgeo_userid>`_ you can
+ find more information about the OSGEO id we use. For example to 
+ `change your password <https://www.osgeo.org/cgi-bin/auth/ldap_edit_user.py>`_
+ or email address. Lost your password? Then request a password reset
+ via info at osgeo.org
+
 Issues
 ------
 
