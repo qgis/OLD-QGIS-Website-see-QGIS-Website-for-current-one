@@ -106,6 +106,7 @@
 * Barry Dyer
 * Barry Tennison
 * Bayard Ewing
+* Beatriz Manotas Hidalgo
 * Ben Hall
 * Ben Visser
 * Ben Wouda
