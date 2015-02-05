@@ -739,6 +739,7 @@
 * Peter Dempster
 * Peter Diggle
 * Peter Löwe
+* Peter M Dziuk
 * Peter Moore
 * Peter Paudits
 * Peter Rosamilia
