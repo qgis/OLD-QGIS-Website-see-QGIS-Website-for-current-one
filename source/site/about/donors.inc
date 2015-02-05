@@ -902,6 +902,7 @@
 * Udo Lenz
 * Ujaval Gandhi
 * Ulrich Kulle
+* Ulrich Steinrücken
 * Ulrich Von Wulffen
 * Umberto Zulian
 * Urban Modelling Solutions N A Matthew
