@@ -927,6 +927,7 @@
 * Wendelin Schmit
 * Werner Hentschel
 * Werner Macho
+* Wilker De Jesus Silva
 * William Jesdale
 * William Levering
 * William Pallies
