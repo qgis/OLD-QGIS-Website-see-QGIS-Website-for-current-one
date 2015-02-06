@@ -447,6 +447,7 @@
 * Jiri Kadlec
 * Jiří Bělohlávek
 * Joachim Aurbacher
+* Joachim Me Lücke
 * Joanne Kaye
 * Joel Sholtes
 * Joerg Dannenberg
