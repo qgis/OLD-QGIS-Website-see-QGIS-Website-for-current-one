@@ -216,6 +216,7 @@
 * De Pietri Stefano
 * Deepak Patni
 * Deirdre Brown
+* Denis Vickers
 * Detlev Finke
 * Dewey Dunnington
 * Deyan Vasilev
