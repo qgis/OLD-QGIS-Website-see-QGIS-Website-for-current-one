@@ -269,6 +269,7 @@
 * Evelyn Craigie
 * Fabian Frucht
 * Fabio Giacomazzi
+* Fabio Mazzucco
 * Fabio Meletti De Oliveira Barros
 * Fabio Peruzzi
 * Fabrizio Tambussa
