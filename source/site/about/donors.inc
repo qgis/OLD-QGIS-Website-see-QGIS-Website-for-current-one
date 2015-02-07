@@ -841,6 +841,7 @@
 * Simone Bianchi
 * Simone Circosta
 * Soma Horvath
+* Song Yutao
 * Spencer Gardner
 * St. Sultans Trail International
 * Stefan Eberlein
