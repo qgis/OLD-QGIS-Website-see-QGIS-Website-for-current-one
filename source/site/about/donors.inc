@@ -531,6 +531,7 @@
 * Kim Ferm
 * Kirill Sobolev
 * Klaus Buecherl
+* Klaus Heimlich
 * Klaus Sterzenbach
 * Klaus Weddeling
 * Kominote Project, Inc.
