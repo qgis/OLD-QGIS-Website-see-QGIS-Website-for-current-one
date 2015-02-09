@@ -544,6 +544,7 @@
 * Laura Burnette
 * Laura Lotero Vélez
 * Laurent Bréton
+* Laurent Hoarau
 * Laurent Vidal
 * Lawrence Lass
 * Lee Wrenn
