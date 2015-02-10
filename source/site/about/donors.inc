@@ -163,6 +163,7 @@
 * Christine Henry
 * Christoph Rinne
 * Christoph Rupprecht
+* Christopher Dalo
 * Christopher Harding
 * Christopher Kahler
 * Christopher Meade
