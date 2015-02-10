@@ -12,6 +12,7 @@
 * Adrian Cooke
 * Adrian Gayo Rodriguez
 * Adrian Matter
+* Adrian Rasmussen
 * Agile Geoscience
 * Agustin Graterole
 * Aileen Heal
