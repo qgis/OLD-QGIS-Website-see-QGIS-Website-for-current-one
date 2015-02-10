@@ -200,6 +200,7 @@
 * Daniel Wiesmann
 * Daniele Alami
 * Daniele Samez
+* Danilo Antonelli
 * Danny Jensen
 * Dariusz Bobak
 * Dariusz Strojecki
