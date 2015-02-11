@@ -955,6 +955,7 @@
 * Wolfgang Stoessel
 * Yann Lepage
 * Yuan Harng Lee
+* Yuan-kee Lee
 * Yven Dickhörner
 * Yves Jacolin
 * Zachary Patterson
