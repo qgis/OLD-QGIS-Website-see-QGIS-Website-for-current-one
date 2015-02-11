@@ -806,6 +806,7 @@
 * Roland Pesch
 * Rolland Paillat
 * Romain Barrière
+* Romano Fistola
 * Ronaldo Auletta Jr
 * Rosario Negusse
 * Ross Mcdonald
