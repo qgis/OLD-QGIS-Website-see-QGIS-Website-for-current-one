@@ -68,7 +68,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 |bronze| |adlares|
 
-`ADLARES GmbH <www.adlares.com/>`_, Germany (01.2015-03.2016)
+`ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-03.2016)
 
 .. |adlares| image:: /static/site/about/images/adlares.png
    :width: 150 px
