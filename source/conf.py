@@ -146,14 +146,15 @@ html_last_updated_fmt = '%H:%M %b %d, %Y'
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
     'site/index': [],
-    'site/about/**': ['myglobaltoc.html'],
-    'site/about/index': [],
-    'site/forusers/**': ['myglobaltoc.html'],
-    'site/forusers/index': [],
-    'site/forusers/download': [],
-    'site/getinvolved/**': ['myglobaltoc.html'],
-    'site/getinvolved/index': [],
-    'site/getinvolved/donations': [],
+    'site/**': ['myglobaltoc.html'],
+    #'site/about/**': ['myglobaltoc.html'],
+    #'site/about/index': [],
+    #'site/forusers/**': ['myglobaltoc.html'],
+    #'site/forusers/index': [],
+    #'site/forusers/download': [],
+    #'site/getinvolved/**': ['myglobaltoc.html'],
+    #'site/getinvolved/index': [],
+    #'site/getinvolved/donations': [],
     'docs/**': ['myglobaltoc.html'],
     'docs/index': [],
 }
