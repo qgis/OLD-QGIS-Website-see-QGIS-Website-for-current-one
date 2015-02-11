@@ -47,7 +47,10 @@ we then can use this language to build language dependent switches #}
             {# % trans last_updated=last_updated|e %} - Last updated on {{ last_updated }}{% endtrans % #}
             {{ _(' - Last updated on ') }} {{ last_updated|e }}
         {% endif %}
-
+      </p>
+      <p class="credit">
+        Untranslated page? Or you spot a translation error:
+        <a id="fix_translation_link" target="_blank" href="https://www.transifex.com/projects/p/qgis-website/">fix me</a>
       </p>
     </div>
   </footer>
