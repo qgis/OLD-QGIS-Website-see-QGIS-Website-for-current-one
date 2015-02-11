@@ -23,6 +23,7 @@
 * Alan Beck
 * Alan Fielding
 * Alban Poncet
+* Albert Barrufet Rosinach
 * Albert Steiner
 * Albin Blaschka
 * Alejandro Ruete
