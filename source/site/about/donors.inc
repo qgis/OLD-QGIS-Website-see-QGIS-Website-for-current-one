@@ -957,6 +957,7 @@
 * Wolfgang Dennhöfer
 * Wolfgang Scheffler
 * Wolfgang Stoessel
+* Xuejing Zuo
 * Yann Lepage
 * Yuan Harng Lee
 * Yuan-kee Lee
