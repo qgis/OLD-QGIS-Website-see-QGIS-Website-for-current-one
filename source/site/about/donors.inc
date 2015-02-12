@@ -438,6 +438,7 @@
 * Jayanta Ganguly
 * Jean Denis Giguère
 * Jean Francois Mas Caussel
+* Jean Marc Lefevre
 * Jean Marc Michalowski
 * Jean Roc Morreale
 * Jean Sébastien Dehecq
