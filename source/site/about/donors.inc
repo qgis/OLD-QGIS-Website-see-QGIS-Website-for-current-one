@@ -188,6 +188,7 @@
 * Craig Langbein
 * Cristian Spieles
 * Cristian Stoleriu
+* Csaba Balogh
 * D R Arbib
 * D V Sypersma
 * Damien Bachmann
