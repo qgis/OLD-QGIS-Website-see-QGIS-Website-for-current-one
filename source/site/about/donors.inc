@@ -866,6 +866,7 @@
 * Stefan Goen
 * Stefan Kapeller
 * Stefan Price
+* Stefan Strehlow
 * Stefan Sylla
 * Stefan Widmer
 * Stefan Ziegler
