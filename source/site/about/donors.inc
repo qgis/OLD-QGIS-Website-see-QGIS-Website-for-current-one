@@ -127,6 +127,7 @@
 * Boris Figueroa Henriquez
 * Bouchard Consulting Services
 * Boštjan Krapež
+* Branislav Balko
 * Brian Kelly
 * Brian Tolley
 * Bruce Clemens
