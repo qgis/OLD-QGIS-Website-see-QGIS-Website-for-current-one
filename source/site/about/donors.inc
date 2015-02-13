@@ -949,6 +949,7 @@
 * Vitor Pereira
 * Vittorio Dell'Aquila
 * Vladimir Vrabel
+* Volker Römer
 * Voyages à Vélo
 * Walter Hesse
 * Wasin Bukaew
