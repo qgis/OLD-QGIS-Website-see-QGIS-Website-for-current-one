@@ -361,6 +361,7 @@
 * Gérald Fringeli
 * Gérard Charmet
 * H Szutkowski
+* Hakan Kocaman
 * Hakim Naas
 * Hannah Horn
 * Hans Rudolf Wettstein
