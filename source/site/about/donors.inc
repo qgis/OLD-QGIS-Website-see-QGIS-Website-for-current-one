@@ -647,6 +647,7 @@
 * Matt Wilkie
 * Matteo Facchini
 * Matteo Ghetta
+* Matthias Voigtlaender
 * Maureen Maus
 * Maurice Mccabe
 * Maurizio Gioiosa
