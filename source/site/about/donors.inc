@@ -222,6 +222,7 @@
 * Davis Surveys
 * Dc-3 Dreams, Sp
 * De Pietri Stefano
+* Dean Olsen
 * Deepak Patni
 * Deirdre Brown
 * Denis Vickers
