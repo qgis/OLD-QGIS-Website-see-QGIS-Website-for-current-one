@@ -924,6 +924,7 @@
 * Toby Wilkinson
 * Tom Morrison
 * Tomas Trojacek
+* Tommaso Gavazza
 * Tony MacLeod
 * Tor Mikalsen
 * Tore Pedersen
@@ -974,8 +975,8 @@
 * Yven Dickhörner
 * Yves Jacolin
 * Zachary Patterson
-* ÐÐ¾ÑÐ¾Ð±ÐµÐ¹Ð½Ð¸ÐºÐ¾Ð² ÐÐ½Ð´ÑÐµÐ¹
 * Ângela Seixas
+* ÐÐ¾ÑÐ¾Ð±ÐµÐ¹Ð½Ð¸ÐºÐ¾Ð² ÐÐ½Ð´ÑÐµÐ¹
 * Иваненко Андрей
 * Паршин Александр
 * Трифонова Евгения
