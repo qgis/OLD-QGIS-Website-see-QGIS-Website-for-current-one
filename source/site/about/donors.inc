@@ -676,6 +676,7 @@
 * Michael O'connell
 * Michael Pedini
 * Michael Schweizer
+* MichaÅ Czepkiewicz
 * Michał Czepkiewicz
 * Michel Bollore
 * Michele Beneventi
