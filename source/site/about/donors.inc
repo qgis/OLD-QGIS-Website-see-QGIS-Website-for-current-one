@@ -791,6 +791,7 @@
 * Ramil Ismagilov
 * Ramji Srimurugan
 * Ramon Andinach
+* Randolph Wynne
 * Raphaël Payet-burin
 * Ravi
 * Raymond Warriner
