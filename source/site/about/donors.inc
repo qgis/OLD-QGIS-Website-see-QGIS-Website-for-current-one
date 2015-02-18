@@ -578,6 +578,7 @@
 * Luca Manganelli
 * Luca Mestroni
 * Luca Salamon
+* Luciano Aiello
 * Luciano Sabiu
 * Luigi Brazzini
 * Luigi Josi
