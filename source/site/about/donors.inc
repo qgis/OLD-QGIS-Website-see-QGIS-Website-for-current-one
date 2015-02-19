@@ -360,6 +360,7 @@
 * Guillaume Léveillé
 * Guillaume Raspini
 * Guillermo Córdoba Recio
+* Gunnar Kristinsson
 * Guzmán López Orrego
 * Gérald Fringeli
 * Gérard Charmet
