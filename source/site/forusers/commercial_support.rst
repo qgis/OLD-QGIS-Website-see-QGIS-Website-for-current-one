@@ -39,7 +39,7 @@ advantage of your GIS investment.
 .. |faunalia| image:: /static/site/about/images/faunalia.png
    :height: 100 px
 
-|faunalia| `Faunalia <http://www.faunalia.eu/>`_ (based in Italy, Portugal, and
+|faunalia| `Faunalia <http://www.faunalia.eu/>`_ (based in Italy and
 operating worldwide) provides development services (both core and plugins),
 training, and commercial support for QGIS, GRASS, GDAL/OGR, and PostgreSQL/PostGIS.
 
@@ -82,6 +82,16 @@ Linfiniti Consulting.
 |lutra_consulting| `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ (based
 in the UK) provide training, support and bespoke software development services
 for QGIS.
+
+----
+
+.. |naturalgis| image:: /static/site/about/images/naturalgis.png
+   :height: 100 px
+
+|naturalgis| `NaturalGIS <http://www.naturalgis.pt/>`_ (based in Portugal) 
+provides training, development and commercial 
+support for a number of Open Source GIS software. We specialize in QGIS 
+(Desktop, Server and Web), PostGIS and custom WebGIS development.
 
 ----
 
