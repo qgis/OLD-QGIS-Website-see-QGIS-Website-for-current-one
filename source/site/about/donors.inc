@@ -659,6 +659,7 @@
 * Maurizio Gioiosa
 * Mauro Mussin
 * Maximilian Lohse
+* Maximilian Reuss
 * Mercedes Rubi Jimenez
 * Michael Barr
 * Michael Corcoran
