@@ -415,6 +415,7 @@
 * Jacob Brestel
 * Jacopo Ognibene
 * Jacques Bordon
+* Jacques Labregere
 * Jafar Zahir
 * Jairo Belli
 * Jake Maier
