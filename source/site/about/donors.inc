@@ -798,6 +798,7 @@
 * Ramon Andinach
 * Randolph Wynne
 * Raphaël Payet-burin
+* Raul Nanclares Da Veiga
 * Ravi
 * Raymond Warriner
 * Rebecca Eivers
