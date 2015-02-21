@@ -681,7 +681,6 @@
 * Michael O'connell
 * Michael Pedini
 * Michael Schweizer
-* MichaÅ Czepkiewicz
 * Michał Czepkiewicz
 * Michel Bollore
 * Michele Beneventi
@@ -988,7 +987,7 @@
 * Yves Jacolin
 * Zachary Patterson
 * Ângela Seixas
-* ÐÐ¾ÑÐ¾Ð±ÐµÐ¹Ð½Ð¸ÐºÐ¾Ð² ÐÐ½Ð´ÑÐµÐ¹
+* Коробейников Андрей
 * Иваненко Андрей
 * Паршин Александр
 * Трифонова Евгения
