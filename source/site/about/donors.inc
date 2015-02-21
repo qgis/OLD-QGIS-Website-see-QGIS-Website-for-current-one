@@ -342,6 +342,7 @@
 * Giovanni Fossà
 * Giovanni Pani
 * Giovanni Pecora
+* Giulia Lucangeli
 * Giuseppe Patti
 * Glasic S.r.l.
 * Glen Boise
