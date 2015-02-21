@@ -114,17 +114,23 @@ QGIS stable
 
 On plain Ubuntu:
 ^^^^^^^^^^^^^^^^
-Trusty::
+
+Trusty Tar (14.04 LTS)::
 
  deb     http://qgis.org/debian trusty main
  deb-src http://qgis.org/debian trusty main
 
-Saucy::
+Utopic Unicorn (14.10)::
 
- deb     http://qgis.org/debian saucy main
- deb-src http://qgis.org/debian saucy main
+ deb     http://qgis.org/debian utopic main
+ deb-src http://qgis.org/debian utopic main
 
-Precise::
+Vivid Vervet (15.04)::
+
+ deb     http://qgis.org/debian vivid main
+ deb-src http://qgis.org/debian vivid main
+
+Precise Pangolin (12.04 LTS)::
 
  deb     http://qgis.org/debian precise main
  deb-src http://qgis.org/debian precise main
@@ -158,22 +164,27 @@ On plain Ubuntu:
 Nightly builds of QGIS testing are available from following repository (i386
 and amd64):
 
-Trusty::
+Trusty Tar (14.04 LTS)::
 
  deb     http://qgis.org/debian-nightly trusty main
  deb-src http://qgis.org/debian-nightly trusty main
 
-Saucy::
+Saucy Salamander (13.10)::
 
  deb     http://qgis.org/debian-nightly saucy main
  deb-src http://qgis.org/debian-nightly saucy main
 
-Utopic::
+Utopic Unicorn (14.10)::
 
  deb     http://qgis.org/debian-nightly utopic main
  deb-src http://qgis.org/debian-nightly utopic main
 
-Precise::
+Vivid Vervet (15.04)::
+
+ deb     http://qgis.org/debian-nightly vivid main
+ deb-src http://qgis.org/debian-nightly vivid main
+
+Precise Pangolin (12.04 LTS)::
 
  deb     http://qgis.org/debian-nightly precise main
  deb-src http://qgis.org/debian-nightly precise main
@@ -186,19 +197,13 @@ ubuntugis.
 Be sure to remove the http://qgis.org/debian ones first, otherwise you'll end
 up with a mix of dependencies.
 
-Trusty::
+Trusty Tar (14.04 LTS)::
 
  deb     http://qgis.org/ubuntugis-nightly trusty main
  deb-src http://qgis.org/ubuntugis-nightly trusty main
  deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu trusty main
 
-Saucy::
-
- deb     http://qgis.org/ubuntugis-nightly saucy main
- deb-src http://qgis.org/ubuntugis-nightly saucy main
- deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu saucy main
-
-Precise::
+Precise Pangolin (12.04 LTS)::
 
  deb     http://qgis.org/ubuntugis-nightly precise main
  deb-src http://qgis.org/ubuntugis-nightly precise main
