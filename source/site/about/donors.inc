@@ -82,6 +82,7 @@
 * Anna Lazzarini
 * Anna Torrent Martinez
 * Ansgar Schäfer
+* Ante Bosnjak Sinus
 * Anthony Crowley
 * Anthony Johns
 * Anthony Pezzotti
