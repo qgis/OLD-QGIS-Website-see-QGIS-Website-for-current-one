@@ -577,6 +577,7 @@
 * Lorenzo Becchi
 * Lorenzo Costantini
 * Lorenzo Luisi
+* Lorenzo Pote'
 * Loris Duclos
 * Louis Maniere
 * Luca Casagrande
