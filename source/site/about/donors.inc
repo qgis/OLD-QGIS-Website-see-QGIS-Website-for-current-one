@@ -136,6 +136,7 @@
 * Bruce Clemens
 * Bruce Price
 * Bruce Ralston
+* Bruno Eduardo Moreira Montezano
 * Bruno Saphy
 * Bryan Kennedy
 * Børge Odden
