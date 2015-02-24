@@ -66,9 +66,18 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
+|bronze| |gis_supp|
+
+`GIS-Support <http://www.gis-support.pl/>`_, Poland (02.2015-02.2016)
+
+.. |gis_supp| image:: /static/site/about/images/gis_supp.png
+   :width: 150 px
+
+----
+
 |bronze| |adlares|
 
-`ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-03.2016)
+`ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
 
 .. |adlares| image:: /static/site/about/images/adlares.png
    :width: 150 px
