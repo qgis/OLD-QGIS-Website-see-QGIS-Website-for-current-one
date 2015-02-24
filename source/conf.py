@@ -60,11 +60,12 @@ copyright = u'{0}, QGIS Contributors'.format( datetime.now().year )
 # built documents.
 #
 # The short X.Y version.
-version = '2.8'
+version = '2.6'
 # The full version, including alpha/beta/rc tags.
-release = '2.8.1'
-codename = 'Wien'
-releasedate = date(2015,2,20)
+release = '2.6.1'
+codename = 'Brighton'
+#releasedate = date(2015,2,20)
+releasedate = date(2014,11,02)
 nextfreezedate = datetime(2015, 5, 22, 12, 0, 0).strftime('%Y/%m/%d %H:%M:%S UTC')
 nextreleasedate = datetime(2015, 6, 26, 12, 0, 0).strftime('%Y/%m/%d %H:%M:%S UTC')
 
