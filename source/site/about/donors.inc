@@ -774,6 +774,7 @@
 * Peter Brodersen
 * Peter Dempster
 * Peter Diggle
+* Peter Dowling
 * Peter Löwe
 * Peter M Dziuk
 * Peter Moore
