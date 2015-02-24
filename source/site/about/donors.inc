@@ -310,6 +310,7 @@
 * Frank Stremke
 * Franko Sokolic
 * Franz-josef Behr
+* Franziska Baumgartner
 * Franziska Knüsel
 * François De Palma
 * Fred Emmer
