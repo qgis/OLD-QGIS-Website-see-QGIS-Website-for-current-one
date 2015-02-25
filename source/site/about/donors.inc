@@ -611,6 +611,7 @@
 * Mahko Blackburn
 * MAIN Trust NZ
 * Maja Bitenc
+* Malcolm Dent
 * Mammoth Mapping
 * Manfred Knorr
 * Manfred Schön
