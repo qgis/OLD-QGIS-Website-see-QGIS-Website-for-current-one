@@ -883,6 +883,7 @@
 * Simon Bohnenblust
 * Simone Bianchi
 * Simone Circosta
+* Simão Voloch Neto
 * Soma Horvath
 * Song Yutao
 * Spencer Gardner
