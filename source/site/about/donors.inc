@@ -625,6 +625,7 @@
 * Marco Aloi
 * Marco Carraro
 * Marco Orsi
+* Marco Vizzari
 * Marcos Correa Neves
 * Marcus Håkansson
 * Marek Marczyski
