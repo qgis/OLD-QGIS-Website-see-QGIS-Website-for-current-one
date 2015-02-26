@@ -9,11 +9,11 @@ For Users
 .. toctree::
     :maxdepth: 4
 
-    visualchangelog200/index
-    visualchangelog220/index
-    visualchangelog240/index
-    visualchangelog260/index
     visualchangelog28/index
+    visualchangelog260/index
+    visualchangelog240/index
+    visualchangelog220/index
+    visualchangelog200/index
     download
     ../../docs/index
     trainingmaterial/index

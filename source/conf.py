@@ -60,15 +60,11 @@ copyright = u'{0}, QGIS Contributors'.format( datetime.now().year )
 # built documents.
 #
 # The short X.Y version.
-#version = '2.6'
 version = '2.8'
-# The full version, including alpha/beta/rc tags.
-#release = '2.6.1'
+devversion = '2.9'
+releasedate = date(2015,2,20)
 release = '2.8.1'
-#codename = 'Brighton'
-codename = 'Vienna'
-releasedate = date(2015,2,28)
-#releasedate = date(2014,11,02)
+codename = 'Wien'
 nextfreezedate = datetime(2015, 5, 22, 12, 0, 0).strftime('%Y/%m/%d %H:%M:%S UTC')
 nextreleasedate = datetime(2015, 6, 26, 12, 0, 0).strftime('%Y/%m/%d %H:%M:%S UTC')
 
@@ -303,7 +299,8 @@ locale_dirs = ['../i18n/']
 gettext_compact = False
 
 def setup(app):
-    app.add_config_value('codename', 'Wien', 'env')
+    app.add_config_value('codename', None, 'env')
+    app.add_config_value('devversion', None, 'env')
     app.add_config_value('releasedate', None, 'env')
     app.add_config_value('nextfreezedate', None, 'env')
     app.add_config_value('nextreleasedate', None, 'env')
@@ -311,6 +308,7 @@ def setup(app):
 context = {
 	'codename': codename,
 	'releasedate': releasedate,
+	'devversion': devversion,
 	'nextfreezedate': nextfreezedate,
 	'nextreleasedate': nextreleasedate,
 }
