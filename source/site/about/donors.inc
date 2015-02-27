@@ -209,6 +209,7 @@
 * Daniel Wiesmann
 * Daniele Alami
 * Daniele Samez
+* Danijel Zuzic
 * Danilo Antonelli
 * Danny Jensen
 * Dariusz Bobak
