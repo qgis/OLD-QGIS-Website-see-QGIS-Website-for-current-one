@@ -617,6 +617,7 @@
 * Manfred Knorr
 * Manfred Schön
 * Manodhya Wanniarachchi
+* Manuel Trujillo Carmona
 * Marc Cohen
 * Marc Monnerat
 * Marcel Van Dorst
