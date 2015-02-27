@@ -338,6 +338,7 @@
 * Gerhard Spieles
 * Gertjan Geerling
 * GFOSS.it
+* Gia Biagi
 * Gian Andrea Riedi
 * Giancarlo Gualato
 * Gianluca Massei
