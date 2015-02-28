@@ -231,6 +231,14 @@ provides commercial support and training for QGIS and open spatial data.
 
 ----
 
+.. |soltig| image:: /static/site/about/images/soltig.png
+   :width: 75 px
+
+|soltig| `Soluciones en Tecnologías de Información Geográfica (SOLTIG)  <http://www.soltig.net/>`_ 
+(based in Costa Rica) provides training, support, consulting and programming for QGIS and other FOSS applications.
+
+----
+
 .. |imt| image:: /static/site/about/images/imt.png
    :width: 75 px
 
