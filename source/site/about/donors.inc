@@ -108,6 +108,7 @@
 * Aurelien Berings
 * Aurélia Lachaud
 * Barascu Tudor
+* Barbara Dilucchio
 * Barbara M Keating
 * Barry Dyer
 * Barry Tennison
