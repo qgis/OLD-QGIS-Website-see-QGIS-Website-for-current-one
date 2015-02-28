@@ -176,7 +176,7 @@ gettext:
 transifex_push:
 	make springclean
 	make pretranslate
-	tx push -f -s --no-interactive
+	#tx push -f -s --no-interactive
 
 ################################################################################
 #

@@ -11,10 +11,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:6
-msgid "Changelog for version: 2.6.0"
-msgstr ""
-
 #: ../../source/site/forusers/visualchangelog260/index.rst:8
 msgid ""
 "Change log for the next release of QGIS 2.6.0. We have added many new "
@@ -47,11 +43,6 @@ msgstr ""
 msgid ""
 "Finally we would like to thank our official sponsors for the invaluable "
 "financial support they provide to this project:"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:28
-msgid ""
-"**GOLD Sponsor: `Asia Air Survey, Japan <http://www.asiaairsurvey.com/>`_**"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:29
@@ -488,16 +479,6 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:327
 msgid "Feature: Improved item snapping"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:329
-msgid ""
-"Snapping thresholds are now set in pixels, allowing for finer movement and "
-"resizing of items when zoomed in to a composition."
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:331
-msgid "Items within a group are no longer used for auto snap lines."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:338
@@ -940,6 +921,36 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog260/index.rst:529
 msgid "Option to disable the dialog and use the native picker dialog instead."
 msgstr ""
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:6
+msgid "Changelog for QGIS: 2.6.0"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:28
+msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:329
+msgid ""
+"Snapping thresholds are now set in pixels, allowing for finer movement and "
+"resizing of items when zoomed in to a composition. Items within a group are "
+"no longer used for auto snap lines."
+msgstr ""
+
+#~ msgid "Changelog for version: 2.6.0"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**GOLD Sponsor: `Asia Air Survey, Japan <http://www.asiaairsurvey.com/>`_**"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Snapping thresholds are now set in pixels, allowing for finer movement and "
+#~ "resizing of items when zoomed in to a composition."
+#~ msgstr ""
+
+#~ msgid "Items within a group are no longer used for auto snap lines."
+#~ msgstr ""
 
 #~ msgid "Scale-based filtering of legend nodes (in WMS)"
 #~ msgstr ""
