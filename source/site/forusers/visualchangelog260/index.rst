@@ -2,8 +2,8 @@
    :align: center
    :alt:
 
-Changelog for version: 2.6.0
-============================
+Changelog for QGIS: 2.6.0
+=========================
 
 Change log for the next release of QGIS 2.6.0. We have added many new
 features, tweaks and enhancements to make the most popular Free desktop
@@ -25,7 +25,7 @@ hand!
 Finally we would like to thank our official sponsors for the invaluable
 financial support they provide to this project:
 
--  **GOLD Sponsor: `Asia Air Survey, Japan <http://www.asiaairsurvey.com/>`_**
+-  **GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/
 -  SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_
 -  SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_
 -  BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_
