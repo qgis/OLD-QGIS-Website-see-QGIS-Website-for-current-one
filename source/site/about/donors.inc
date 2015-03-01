@@ -384,6 +384,7 @@
 * Havard Gaseidnes
 * Heather Holmes
 * Hebenor Bermudez Banchero
+* Hector Morales Trujillo
 * Hector Orengo
 * Heiko Schmüser
 * Heinrich Schweizer
