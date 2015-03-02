@@ -131,6 +131,7 @@
 * Bill Howard
 * Birgit Konn
 * Boris Figueroa Henriquez
+* Boualem Ghoul
 * Bouchard Consulting Services
 * Boštjan Krapež
 * Branislav Balko
