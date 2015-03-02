@@ -824,6 +824,7 @@
 * Raymond Warriner
 * Rebecca Eivers
 * Rebecca Houtman
+* Rebecca Trevithick
 * Reg Nelson
 * Reiko Hayashi
 * Ricard Peret Vendrell
