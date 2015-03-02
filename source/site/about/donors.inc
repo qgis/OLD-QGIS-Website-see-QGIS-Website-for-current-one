@@ -790,6 +790,7 @@
 * Peter Dempster
 * Peter Diggle
 * Peter Dowling
+* Peter John Wilkinson
 * Peter Löwe
 * Peter M Dziuk
 * Peter Moore
