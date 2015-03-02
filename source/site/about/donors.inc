@@ -836,6 +836,7 @@
 * Richard Duivenvoorde
 * Richard Houghton
 * Richard Kelaart
+* Richard Males
 * Richard Reese
 * Rita Carone
 * Rob Scott
