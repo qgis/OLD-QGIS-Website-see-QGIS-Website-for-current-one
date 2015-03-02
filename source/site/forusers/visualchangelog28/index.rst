@@ -41,11 +41,11 @@ financial support they provide to this project:
 -  SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_
 -  SILVER Sponsor: `Office of Public Works, Ireland, Ireland <http://www.opw.ie/>`_
 
+-  BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_ 
 -  BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_
 -  BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_
 -  BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_
 -  BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www.eschenlaub.de/>`_
-
 -  BRONZE Sponsor: `Customer Analytics, USA <http://www.customeranalytics.com/>`_
 -  BRONZE Sponsor: `Urbsol, Australia <http://www.urbsol.com.au/>`_
 -  BRONZE Sponsor: `MappingGIS, Spain <http://www.mappinggis.com/>`_
