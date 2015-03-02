@@ -494,7 +494,7 @@ Feature: Map rotation in canvas, improved rotation in composer
 
 This release includes preliminary support for rotation in the map canvas. You can rotate the canvas using the new rotation widget in the status bar. Rotation support has been extended into the map composer too so that it correctly handles labelling and symbology, etc.
 
-**This feature was funded by:** `Georepublic Japan <http://georepublic.co.jp/>`_
+**This feature was funded by:** `Japan Space Imaging Corporation (nJSI) <http://www.spaceimaging.co.jp/>`_
 
 **This feature was developed by:** `Faunalia <http://www.faunalia.eu/>`_
 
