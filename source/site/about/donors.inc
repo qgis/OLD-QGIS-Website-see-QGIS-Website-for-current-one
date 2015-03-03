@@ -110,6 +110,7 @@
 * Aurélia Lachaud
 * Barascu Tudor
 * Barbara Dilucchio
+* Barbara Gonano
 * Barbara M Keating
 * Barry Dyer
 * Barry Tennison
