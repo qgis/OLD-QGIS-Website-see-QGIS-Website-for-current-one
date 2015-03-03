@@ -810,6 +810,7 @@
 * Philippe Mazure
 * Piergiorgio Rocchi
 * Piero Rubiu
+* Pierre-yves Hagneré
 * Pietro Blu Giandonato
 * Planetek Italia S.r.l
 * Productive Water Services
