@@ -583,6 +583,7 @@
 * Laurent Vidal
 * Lawrence Lass
 * Lee Wrenn
+* Leif Isaksen
 * Leigh Mellor
 * Leo Millonig
 * Leonidas Carrasco-letelier
