@@ -187,6 +187,7 @@
 * Christos Mitsis
 * Chrysoula Lalazisi
 * Claassen Benjamin
+* Clara Santamaria
 * Clare Nolan
 * Claudia Huertas
 * Clemens Raffler
