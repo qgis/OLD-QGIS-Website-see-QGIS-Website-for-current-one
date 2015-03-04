@@ -151,6 +151,7 @@ AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Po
 
 .. |canal| image:: /static/site/about/images/canal.png
    :width: 100 px
+
 ----
 
 |bronze| |adlares|
