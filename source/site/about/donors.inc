@@ -495,6 +495,7 @@
 * John C. Tull
 * John Carey
 * John Dean
+* John Degroote
 * John Gooderham
 * John Lundquist
 * John Mcguire
