@@ -906,6 +906,7 @@
 * Simon Bohnenblust
 * Simone Bianchi
 * Simone Circosta
+* Simone Geißler
 * Simão Voloch Neto
 * Soma Horvath
 * Song Yutao
