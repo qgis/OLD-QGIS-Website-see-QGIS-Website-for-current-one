@@ -10,3 +10,4 @@ Contents:
 
    sponsorship
    gold-sponsors
+   management
