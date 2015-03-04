@@ -29,6 +29,10 @@ Annually we also receive support from various organisations who appreciate the
 work we do and would like to facilitate the sustained development effort that
 goes into the project. These sponsors are listed below with our thanks!
 
+
+.. Gold sponsors: NOTE !!! keep these sorted please so it is easy to check validity
+
+
 |gold|
 |aas_long|
 
@@ -37,14 +41,21 @@ goes into the project. These sponsors are listed below with our thanks!
 .. |aas_long| image:: /static/site/about/images/aas_long.png
    :width: 600 px
 
+
+
+
+.. Silver sponsors: NOTE !!! keep these sorted please so it is easy to check validity
+
+
 ----
 
-|silver| |opw|
+|silver| |land_f|
 
-`Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
+`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-03.2015)
 
-.. |opw| image:: /static/site/about/images/opw.jpg
+.. |land_f| image:: /static/site/about/images/land_f.jpg
    :width: 290 px
+
 
 ----
 
@@ -57,56 +68,42 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
-|silver| |land_f|
+|silver| |opw|
 
-`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-03.2015)
+`Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
 
-.. |land_f| image:: /static/site/about/images/land_f.jpg
-   :width: 290 px
+.. |opw| image:: /static/site/about/images/opw.jpg
+   :width: 200 px
 
-----
 
-|bronze| |gis_supp|
 
-`GIS-Support <http://www.gis-support.pl/>`_, Poland (02.2015-02.2016)
 
-.. |gis_supp| image:: /static/site/about/images/gis_supp.png
+.. Bronze sponsors: NOTE !!! keep these sorted please so it is easy to check validity
+
+
+|bronze| |openrunner|
+
+`www.openrunner.com <http://www.openrunner.com/>`_, France (05.2014-05.2015)
+
+.. |openrunner| image:: /static/site/about/images/openrunner.png
    :width: 150 px
 
 ----
 
-|bronze| |adlares|
+|bronze| |lutra|
 
-`ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
+`Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (09.2014-09.2015)
 
-.. |adlares| image:: /static/site/about/images/adlares.png
-   :width: 150 px
-
-----
-
-|bronze| |claasleinert|
-
-`GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2016)
-
-.. |claasleinert| image:: /static/site/about/images/claasleiner.png
-   :width: 150 px
+.. |lutra| image:: /static/site/about/images/lutra_consulting.png
+   :width: 200 px
 
 ----
 
-|bronze| |molitec|
+|bronze| |gis3w|
 
-`www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)
+`GIS3W <http://www.gis3w.it/>`_, Italy (10.2014-10.2015)
 
-.. |molitec| image:: /static/site/about/images/molitec.png
-   :width: 150 px
-
-----
-
-|bronze| |argus|
-
-`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 11.2013-11.2016)
-
-.. |argus| image:: /static/site/about/images/argus.jpg
+.. |gis3w| image:: /static/site/about/images/gis3w.png
    :width: 150 px
 
 ----
@@ -130,15 +127,6 @@ AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Po
 
 ----
 
-|bronze| |canal|
-
-`Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
-
-.. |canal| image:: /static/site/about/images/canal.png
-   :width: 100 px
-
-----
-
 |bronze| |urbsol|
 
 `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2015)
@@ -157,21 +145,58 @@ AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Po
 
 ----
 
-|bronze| |lutra|
+|bronze| |canal|
 
-`Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (09.2014-09.2015)
+`Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
 
-.. |lutra| image:: /static/site/about/images/lutra_consulting.png
-   :width: 200 px
+.. |canal| image:: /static/site/about/images/canal.png
+   :width: 100 px
+----
+
+|bronze| |adlares|
+
+`ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
+
+.. |adlares| image:: /static/site/about/images/adlares.png
+   :width: 150 px
 
 ----
 
-|bronze| |openrunner|
+|bronze| |molitec|
 
-`www.openrunner.com <http://www.openrunner.com/>`_, France (05.2014-05.2015)
+`www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)
 
-.. |openrunner| image:: /static/site/about/images/openrunner.png
+.. |molitec| image:: /static/site/about/images/molitec.png
    :width: 150 px
+
+----
+
+|bronze| |gis_supp|
+
+`GIS-Support <http://www.gis-support.pl/>`_, Poland (02.2015-02.2016)
+
+.. |gis_supp| image:: /static/site/about/images/gis_supp.png
+   :width: 150 px
+
+----
+
+|bronze| |claasleinert|
+
+`GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2016)
+
+.. |claasleinert| image:: /static/site/about/images/claasleiner.png
+   :width: 150 px
+
+----
+
+|bronze| |argus|
+
+`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 11.2013-11.2016)
+
+.. |argus| image:: /static/site/about/images/argus.jpg
+   :width: 150 px
+
+
 
 List of past sponsors
 ---------------------
