@@ -228,6 +228,7 @@
 * David Duncan
 * David Enns
 * David Horsey
+* David Hostetler
 * David Leedal
 * David Mangold
 * David Sabalete Valenzuela
