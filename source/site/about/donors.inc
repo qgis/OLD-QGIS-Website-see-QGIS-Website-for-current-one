@@ -694,6 +694,7 @@
 * Mauro Mussin
 * Maximilian Lohse
 * Maximilian Reuss
+* Maximilien Delemotte
 * Mercedes Rubi Jimenez
 * Michael Barr
 * Michael Corcoran
