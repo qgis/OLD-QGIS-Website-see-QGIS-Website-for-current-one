@@ -86,6 +86,7 @@
 * Ansgar Schäfer
 * Ante Bosnjak Sinus
 * Anthony Crowley
+* Anthony Habberley
 * Anthony Johns
 * Anthony Pezzotti
 * Anthony Van Zuylen
