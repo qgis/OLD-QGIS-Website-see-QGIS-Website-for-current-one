@@ -529,6 +529,7 @@
 * José Alfonso De Tomás Gargantilla
 * João Rodrigues
 * Jrpepper Consulting
+* Juan Arjona
 * Juan Daniel Montejo Montejo
 * Juan Vega Figueroa
 * Judith Yang
