@@ -844,6 +844,7 @@
 * Rebecca Trevithick
 * Reg Nelson
 * Reiko Hayashi
+* Remigio Cammarano
 * Ricard Peret Vendrell
 * Riccardo D'amato
 * Riccardo Giaccari
