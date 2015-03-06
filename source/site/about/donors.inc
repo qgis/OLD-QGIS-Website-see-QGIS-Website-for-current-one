@@ -433,6 +433,7 @@
 * Ivan Mincik
 * Ivica Serdar
 * J Palmer
+* J Paul Krystyniak
 * Jacob Brestel
 * Jacopo Ognibene
 * Jacques Bordon
