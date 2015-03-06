@@ -292,6 +292,7 @@
 * Ernesto Correa Da Silva
 * Erwin Bauer
 * Esbern Holmes
+* Eugenio De Zárraga Fernández
 * Evan Wolf
 * Evelyn Craigie
 * Fabian Frucht
