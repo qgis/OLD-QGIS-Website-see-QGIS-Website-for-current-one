@@ -889,6 +889,7 @@
 * Saber Razmjooei
 * Sakari Salonen
 * Sake Wagenaar
+* Salvatore Borgo
 * Salvatore Livreri Console
 * Samuel Maurer
 * Sander Huizing
