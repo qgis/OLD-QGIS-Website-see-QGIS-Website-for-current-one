@@ -879,6 +879,7 @@
 * Rosário Dilo
 * Roy Brander
 * Ruben Jarych
+* Ruben Smelik
 * Rubén Darío Godoy
 * Rui Pedro Henriques
 * Russel Taylor
