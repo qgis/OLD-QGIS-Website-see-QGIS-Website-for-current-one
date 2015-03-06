@@ -510,6 +510,7 @@
 * John Trawick
 * Jonas Svensson
 * Jonathan Clough
+* Jonathan Daisley
 * Jonathan Duckworth
 * Jonathan Gross
 * Jonathan Webb
