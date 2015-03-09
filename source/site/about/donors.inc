@@ -866,6 +866,7 @@
 * Richard Kelaart
 * Richard Males
 * Richard Reese
+* Rinat Yafa Calvo
 * Rita Carone
 * Rob Scott
 * Robert Nuske
