@@ -349,6 +349,7 @@
 * George Tom
 * Gerald Bond
 * Gerald Griesebner
+* Gerard Fitzgerald
 * Gerhard Spieles
 * Gertjan Geerling
 * GFOSS.it
