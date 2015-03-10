@@ -407,6 +407,7 @@
 * Henry R Moyer III
 * Herman Felderhof
 * Hike 734
+* Hilliard Wood
 * Hiroshi Kawakami
 * Hiroto Okayama
 * Horst Machguth
