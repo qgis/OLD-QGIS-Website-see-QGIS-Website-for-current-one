@@ -458,6 +458,7 @@
 * James Morrison
 * James Newsome
 * James O'leary
+* James Welsh
 * James Wood
 * Jamie Anderson
 * Jan Buijs
