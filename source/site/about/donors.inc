@@ -479,6 +479,7 @@
 * Jean-pierre Roche
 * Jeff Jalbrzikowski
 * Jen Dunster
+* Jennifer Hatlauf
 * Jens-peter Stadie
 * Jeremy Wetterwald
 * Jesus Aguilera Rubio
