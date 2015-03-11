@@ -394,6 +394,7 @@
 * Hannah Horn
 * Hans Rudolf Wettstein
 * Harald Grote
+* Harald Hofmann
 * Hartmut Schlepps
 * Havard Gaseidnes
 * Heather Campbell
