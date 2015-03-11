@@ -245,8 +245,6 @@ To learn how to write your first C++ plugin, please go here: :ref:`QGIS-cpp-plug
 
 Via a script you will generate a plugin stub which can be used further.
 
-
-
 Python plugin development
 -------------------------
 
@@ -273,3 +271,20 @@ Adding GRASS tools
 ------------------
 
 see :ref:`Adding GRASS tools <addinggrasstools>`
+
+Credits for contributions
+==========================
+
+Contributors of new functions are encouraged to let people know about their contribution by:
+
+* adding a note to the changelog for the first version where the code has been incorporated, of the type::
+
+    This feature was funded by: Olmiomland http://olmiomland.ol
+    This feature was developed by: Chuck Norris http://chucknorris.kr
+
+* writing an article about the new feature on a blog, and add it to the QGIS planet http://plugins.qgis.org/planet/
+* adding their name to:
+
+  * https://github.com/qgis/QGIS/blob/master/doc/CONTRIBUTORS
+  * https://github.com/qgis/QGIS/blob/master/doc/AUTHORS
+  * https://github.com/qgis/QGIS/blob/master/doc/contributors.json

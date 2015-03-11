@@ -10,6 +10,7 @@ QGIS Governance
    organisation/index
    codeofconduct/codeofconduct
    codeofconduct/diversitystatement
+   codeofconduct/credits
    trademark/index
    sponsorship/index
    finance/index
