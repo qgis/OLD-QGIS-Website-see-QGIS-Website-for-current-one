@@ -323,6 +323,7 @@
 * Francesco Saliola
 * Francis Harvey
 * Franco Gottero
+* Frank Koconis
 * Frank Stremke
 * Franko Sokolic
 * Franz-josef Behr
