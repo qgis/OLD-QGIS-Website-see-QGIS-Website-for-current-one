@@ -471,6 +471,7 @@
 * Janne Jakob Fleischer
 * Jaroslaw Kowalczyk
 * Jasja Dekker
+* Jason Fernandez
 * Jason Jorgenson
 * Jason Millard
 * Jayanta Ganguly
