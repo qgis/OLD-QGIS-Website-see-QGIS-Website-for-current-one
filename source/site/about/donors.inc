@@ -1017,6 +1017,7 @@
 * Ulrich Kulle
 * Ulrich Steinrücken
 * Ulrich Von Wulffen
+* Ulrike Sommer
 * Umberto Zulian
 * Urban Modelling Solutions N A Matthew
 * Uros Bernik
