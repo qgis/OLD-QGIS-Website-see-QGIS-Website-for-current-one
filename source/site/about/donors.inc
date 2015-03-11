@@ -928,6 +928,7 @@
 * Sergio Maria Remoli
 * Servulo Costa
 * Seth Barker
+* Severino Simone Borrini
 * Shane Moran-kelly
 * Shapesmart
 * Sheng Ye
