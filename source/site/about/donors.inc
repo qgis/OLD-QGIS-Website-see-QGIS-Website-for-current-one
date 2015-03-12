@@ -169,6 +169,7 @@
 * Chipotle Coupons
 * Chistophe Révillion
 * Chris Cowen
+* Chris Moore
 * Chris Noble
 * Chris Sanderson
 * Chris Talbot
