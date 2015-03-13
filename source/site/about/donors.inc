@@ -267,6 +267,7 @@
 * Doswald Cornel
 * Douglas Hamilton
 * Douglas Lane
+* Douglas Norgord
 * Dr Gh Griffiths
 * Dudley R Hartel
 * Dustin Benton
