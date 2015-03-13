@@ -946,6 +946,7 @@
 * Silvia Terziotti
 * Silvio Grosso
 * Simon Bohnenblust
+* Simon Harrison
 * Simone Bianchi
 * Simone Circosta
 * Simone Geißler
