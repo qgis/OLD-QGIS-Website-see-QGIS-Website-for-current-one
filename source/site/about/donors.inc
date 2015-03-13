@@ -892,6 +892,7 @@
 * Robin Watson
 * Roel Van De Wetering
 * Roland Pesch
+* Rolf Böker
 * Rolland Paillat
 * Romain Barrière
 * Romano Fistola
