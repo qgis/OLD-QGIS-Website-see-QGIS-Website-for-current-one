@@ -20,6 +20,14 @@ Conclusion showing positive experiences/benefits using QGIS (length about 200 wo
 List of Case Studies
 --------------------
 
+2015
+....
+
+.. toctree::
+    :maxdepth: 1
+
+    [2015/03] QGIS geoprocessing model to simplify first level seismic microzonation analysis by Giuseppe Cosentino and Francesco Pennica <italy_rome>.
+
 2014
 ....
 
