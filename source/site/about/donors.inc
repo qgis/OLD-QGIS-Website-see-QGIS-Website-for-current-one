@@ -772,6 +772,7 @@
 * Nicholas Bedworth
 * Nicola Mancinelli
 * Nicolai Trefzger
+* Nicolas Blanc
 * Niels Lund
 * Niels Schøler Hjørnholm
 * Nikita Mozgunov
