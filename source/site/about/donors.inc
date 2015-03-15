@@ -194,6 +194,7 @@
 * Clara Santamaria
 * Clare Nolan
 * Claudia Huertas
+* Claudio Losa Lopez
 * Clemens Raffler
 * Clifford Snow
 * Cmi Dr. Daniela Ersch
