@@ -157,6 +157,7 @@
 * Carlos Siordia
 * Carlos Tavares
 * Carmine D'adamo
+* Carole Ledda
 * Carsten Fink
 * Carsten Rymon-lipinski
 * Casper Peter Szilas
