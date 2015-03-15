@@ -47,7 +47,7 @@ The model makes use of different open source software and libraries (GRASS1, GDA
    :scale: 90%
    :align: right
 
-   Screenshot from the geoprocessing model.
+   (Fig. 1) Screenshot from the geoprocessing model.
    
 The model takes as input (Fig. 2):
 
@@ -62,7 +62,7 @@ The model takes as input (Fig. 2):
    :scale: 90%
    :align: right
 
-   Model input form (left) and execution log (right).
+   (Fig. 2) Model input form (left) and execution log (right).
 
 When launched, the model performs the following operations:
 
@@ -85,7 +85,7 @@ The result is a polygon layer with areas prone to instability due to a slope val
    :scale: 90%
    :align: right
 
-   The model output (in red) shows highly unstable areas extracted from a landslides layer (orange).
+   (Fig. 3) The model output (in red) shows highly unstable areas extracted from a landslides layer (orange).
 
 Conclusions
 ===========
@@ -99,8 +99,7 @@ References
 ==========
 
 * G. Baldassarre; Gallicchio, S.; Giannandrea, P. & Tropeano, M.: "Relazione Finale Geolitologica per la microzonazione sismica di livello 1dei Comuni della Provincia di Foggia Dipartimento di Geologia e Geofisica dell'Università di Bari, 2011"
-* Cavinato,G.P.; Cavuoto, G.; Coltella, M.; Cosentino, G.; Paolucci, E.; Peronace, E. & Simionato, M.: "Studio di fattibilità per il monitoraggio e la messa in sicurezza delle aree urbane a rischio di stabilità statica e vulnerabilità strutturale del Comune e della Provincia di Foggia - CIPE 20/2004
-Consiglio Nazionale delle Ricerche - Istituto di Geologia Ambientale e Geoingegneria, 2013, 526"
+* Cavinato,G.P.; Cavuoto, G.; Coltella, M.; Cosentino, G.; Paolucci, E.; Peronace, E. & Simionato, M.: "Studio di fattibilità per il monitoraggio e la messa in sicurezza delle aree urbane a rischio di stabilità statica e vulnerabilità strutturale del Comune e della Provincia di Foggia - CIPE 20/2004 Consiglio Nazionale delle Ricerche - Istituto di Geologia Ambientale e Geoingegneria, 2013, 526"
 * Contributi per l'aggiornamento degli "Indirizzi e criteri per la microzonazione sismica " 2008. Ingegneria sismica, Pàtron Editore Bologna, 2011 (http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB28083)
 * Gruppo di lavoro MS, 2008. Indirizzi e criteri per la microzonazione sismica. Conferenza delle Regioni e delle Province autonome - Dipartimento della protezione civile, Roma, 3 vol. e Dvd, Presidenza del Consiglio dei Ministri, Dipartimento di Protezione Civile, 2008, 424. (http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137)
 

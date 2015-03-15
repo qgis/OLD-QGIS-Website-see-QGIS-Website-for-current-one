@@ -26,7 +26,7 @@ List of Case Studies
 .. toctree::
     :maxdepth: 1
 
-    [2015/03] QGIS geoprocessing model to simplify first level seismic microzonation analysis by Giuseppe Cosentino and Francesco Pennica <italy_rome>.
+    [2015/03] QGIS geoprocessing model to simplify first level seismic microzonation analysis by Giuseppe Cosentino and Francesco Pennica <italy_rome>
 
 2014
 ....
