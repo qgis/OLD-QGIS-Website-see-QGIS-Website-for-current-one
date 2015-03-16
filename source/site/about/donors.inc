@@ -634,6 +634,7 @@
 * Louis Maniere
 * Luca Casagrande
 * Luca Manganelli
+* Luca Maurino
 * Luca Mestroni
 * Luca Salamon
 * Luciano Aiello
