@@ -411,6 +411,7 @@
 * Hector Orengo
 * Heiko Schmüser
 * Heinrich Schweizer
+* Heitor Kooji Mello Matsui
 * Helder Garcao
 * Henry Colomb
 * Henry R Moyer III
