@@ -123,7 +123,7 @@ AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Po
 `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2015)
 
 .. |urbsol| image:: /static/site/about/images/urbsol.png
-   :width: 200 px
+   :width: 64 px
 
 ----
 
