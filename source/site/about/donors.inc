@@ -1060,6 +1060,7 @@
 * Wasin Bukaew
 * Wayne Bulmer
 * Wendelin Schmit
+* Wendell Rodrigues Feliciano
 * Werner Hentschel
 * Werner Macho
 * Wilker De Jesus Silva
