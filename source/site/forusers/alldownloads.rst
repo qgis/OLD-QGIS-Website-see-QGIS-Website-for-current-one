@@ -305,15 +305,19 @@ Get packages for any Fedora by typing::
  sudo yum update
  sudo yum install qgis qgis-python qgis-grass qgis-mapserver
 
-Currently Fedora 18 and 19 have QGIS 1.8 while Fedora 20 ships QGIS 2.0.
+Currently Fedora 20 ships QGIS 2.0 and Fedora 21 ships QGIS 2.6.
 
-There is an alternative repository for QGIS 2.6 on Fedora 19 and Fedora 20
+There is an alternative repository for QGIS 2.8.1 on Fedora 20 and Fedora 21
 ::
 
  sudo wget fedora.vitu.ch/QGIS/qgis.repo -P /etc/yum.repos.d/
  sudo rpm --import http://fedora.vitu.ch/Fedora/RPM-GPG-Key-vitu
  sudo yum update
- sudo yum install qgis qgis-python qgis-grass qgis-mapserver
+ sudo yum install qgis qgis-python qgis-grass
+ # For mapserver on Fedora 20
+ sudo yum install qgis-mapserver
+ # For mapserver on Fedora 21
+ sudo yum install qgis-server
 
 QGIS testing
 ............
