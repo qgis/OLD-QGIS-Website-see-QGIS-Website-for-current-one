@@ -1048,6 +1048,7 @@
 * Valeria Zusi
 * Valerio Franchino
 * Victor Saldaña
+* Vincent Mercier
 * Vincent Verweij
 * Vincenzo Lomurno
 * Vincenzo Sale
