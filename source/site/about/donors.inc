@@ -102,6 +102,7 @@
 * Arni Geirsson
 * Arsin Gruenig
 * Artur Klein
+* Arturo Echalar
 * Arturo Ruiz Luna
 * Ashworth
 * Associazione Monte Porzio Cultura
