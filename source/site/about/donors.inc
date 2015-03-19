@@ -817,6 +817,7 @@
 * Pablo Torres Carreira
 * Paloma Lopez Lara
 * Paola Flamini
+* Paola Mazzette
 * Paolo Cavallini
 * Paolo Corti
 * Paolo Livio Craveri
