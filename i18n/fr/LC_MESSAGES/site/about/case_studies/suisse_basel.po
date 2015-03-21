@@ -2,13 +2,14 @@
 # Translators:
 # tneskovic <antoine_ecuador@yahoo.fr>, 2014
 # Julien Francois <julien.francois1@hotmail.fr>, 2013
+# Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-12-02 14:52+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2015-02-10 13:51+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -31,7 +32,7 @@ msgid ""
 "ha of forests, will be valid for about 20 years and is implemented by the "
 "local forest manager. The area is situated in the region of Basel (see "
 "google maps)."
-msgstr ""
+msgstr "Environ 35% de la surface de la Suisse est couverte par des forêts. Des demandes de changement sur la forêt ainsi que le faible niveau financier des entreprises suisses du secteur forestier ont conduit au développement d'un nouveau concept de planification forestière il y a environ une quinzaine d'années. Ce concept introduit une distinction claire entre la planification au niveau des autorités et celle au niveau des propriétéaires1. En tant que nouveau bureau de la planification forestière, guaraci travaille principalement dans la région de Basel (Suisse) sur les deux niveaux de planification mentionnés. Ce cas d'étude parle de l'utilisation de QGIS au niveau du propriétaire forestier. A ce niveau, un système d'information géographique simple, dynamique et compatible est un pré-requis dans l'établissement d'un plan de gestion forestière. Ce plan couvre environ 1000ha de forêts, il sera validé pour environ 20 ans et géré par le gestionnaire forestier local. Son emplacement est situé dans la région de Basel (consultez Google Maps)."
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:8
 msgid "How QGIS was used"
@@ -41,7 +42,7 @@ msgstr "Comment QGIS a été utilisé"
 msgid ""
 "Within the whole planning process QGIS was used for the following four "
 "tasks:"
-msgstr ""
+msgstr "Au sein du processus de planification, QGIS a été utilisé pour les quatre tâches suivantes:"
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:12
 msgid ""
@@ -50,7 +51,7 @@ msgid ""
 "manager, the visualization of existing thematic data (for example ground- "
 "and drinking water resources, nature protection zones) are important for his"
 " daily work."
-msgstr ""
+msgstr "Import des données existantes. Les données incluent les fonds de plans géo-référencés (\\*.tif) ainsi que les fichiers Shape de polygone de lignes et de point. Pour le gestionnaire forestier, la visualisation des données existantes (par exemple les ressources en eau, les zones de protection de la nature) est important dans le travail quotidien."
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:13
 msgid ""
@@ -58,7 +59,7 @@ msgid ""
 " digitized. The QGIS digitizing tools with the advanced snapping options are"
 " very useful and user friendly. The „delimited text“ plugin enabled the "
 "import of additional data tables."
-msgstr ""
+msgstr "Numérisation. Les opérations forestières planifiées par le gestionnaire forestier ont été numérisée. Les outils de numérisation de QGIS combinés aux options d'accrochage ont été très utiles et simples à utiliser. L'extension \"couche de texte délimité\" a permis l'import de tables de données additionnelles."
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:14
 msgid ""
@@ -66,13 +67,13 @@ msgid ""
 "calculated. Starting from certain line features such as train tracks or "
 "roads, corresponding protection forests were determined with the help of a "
 "buffer."
-msgstr ""
+msgstr "Analyse. Les surfaces des différentes catégories de mesures ont été calculées. Des protections foretières ont été définies par un tampon autour de certains objets linéaires comme les voies de chemin de fer ou les routes,."
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:15
 msgid ""
 "Print and export. The print composer supported the map layout creation. The "
 "map was exported as PDF and image files."
-msgstr ""
+msgstr "Impression et export. Le composeur d'impression gère la création des présentations cartographiques. La carte a été exporté au format PDF et dans des fichiers image."
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:22
 msgid "Extract of the forestry measurements map"
@@ -99,7 +100,7 @@ msgid ""
 "owners and managers will increasingly use the potential of QGIS also for "
 "their yearly planning as well as the documentation of their forest "
 "activities."
-msgstr ""
+msgstr "Les tâches principales de la planification forestière peuvent être conduites à l'aide des outils SIG basiques mentionnés. Guaraci continuera à utiliser QGIS pour la planification forestière au niveau des propriétaires. Sur la base des expériences du présent projet, QGIS peut également être recommandé pour les concepts forestiers au niveau des autorités locales. Des projets plus larges et plus complexes avec des besoins d'analyse détaillée pourraient être mis en place en combinant QGIS et le serveur de base de données spatiale PostGIS. Les nouvelles zones d'exploitation ainsi que les réserves forestières et les zones de protection pourraient être facilement numérisées. J'ai l'espoir que les propriétaires et les gestionnaires forestiers s'intéressent de plus en plus au potentiel de QGIS, y compris pour leurs plans annuels ainsi que pour documenter leurs activités forestières."
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:35
 msgid "Author"
@@ -120,7 +121,7 @@ msgstr "Cet article a été rédigé en Juin 2010 par Raphael Häner. Il est dip
 msgid ""
 "QGIS --- an interesting instrument for forestry planning concepts at local "
 "and regional level"
-msgstr ""
+msgstr "QIGS, un instrument d'intérêt pour les concepts de planification forestière au niveau local et régional"
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:27
 msgid ""
@@ -135,7 +136,7 @@ msgid ""
 "The user-manual is helpful and easy to understand. Both from the technical "
 "as well as the financial perspective QGIS is an interesting alternative to "
 "other GIS software."
-msgstr ""
+msgstr "QGIS est un outil intéressant pour les petits bureaux de planification comme Guaraci ainsi que pour les gestionnaires forestiers et les propriétaires. Il peut être utilisé dans un contexte professionnel et présenter des résultats appréciés par tous les acteurs concernés. Pour les tâches mentionnées, QGIS version 1.4 \"Enceladus\" offre tous les outils nécessaires. Les qualités les plus intéressantes de QGIS sont situées dans son interface utilisateur intuitive et dans sa compatibilité avec de nombreux formats de fichier. Il est un outil idéal pour les projets basés sur des données géographiques existantes et qui requiert l'acquisition de nouvelles données. Le guide utilisateur apporter de l'aide et reste facile à comprendre. D'un point de technique comme financier, QGIS est une alternative intéressante par rapport aux autres logiciels de SIG."
 
 #~ msgid "QGIS - an interesting instrument for forestry planning"
 #~ msgstr ""

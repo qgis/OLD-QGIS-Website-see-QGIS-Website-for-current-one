@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-01-02 17:27+0000\n"
+"PO-Revision-Date: 2015-02-08 14:18+0000\n"
 "Last-Translator: Dick Groskamp <dikgro@yahoo.co.uk>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -44,19 +44,19 @@ msgstr "Wanneer je er achter wilt komen of je taal al aanwezig is in QGIS of wie
 
 #: ../../source/site/getinvolved/translate.rst:30
 msgid "Translators Mailing list"
-msgstr "Mailing lijst Vertalers"
+msgstr "Mailinglijst Vertalers"
 
 #: ../../source/site/getinvolved/translate.rst:39
 msgid ""
 "After subscribing to the mailing list you are able to send a mail directly "
 "to qgis-tr@lists.osgeo.org asking for help."
-msgstr "Na inschrijving aan de mailing lijst kun je rechtsstreeks een mail sturen naar qgis-tr@lists.osgeo.org  om voor ondersteuning te vragen (in het Engels)."
+msgstr "Na inschrijving aan de mailinglijst kun je rechtstreeks een mail sturen naar qgis-tr@lists.osgeo.org om ondersteuning te vragen (in het Engels)."
 
 #: ../../source/site/getinvolved/translate.rst:42
 msgid ""
 "We strongly encourage anyone dealing with translations to join this list and"
 " promise that it is usually a very low traffic mailing list."
-msgstr "Wij willen iedereen die iets doet met vertalingen om lid te worden van deze mailing lijst en kunnen beloven dat het aantal mailtjes van die mailing lijst beperkt is."
+msgstr "Wij willen iedereen die iets doet met vertalingen oproepen om lid te worden van deze mailinglijst en kunnen beloven dat het aantal mailtjes van die mailinglijst beperkt is."
 
 #: ../../source/site/getinvolved/translate.rst:48
 msgid "Becoming a translator"
@@ -67,14 +67,14 @@ msgid ""
 "The QGIS project is always looking for people who are willing to invest some"
 " more time translating QGIS into a foreign language - even perhaps to "
 "coordinate the translation effort."
-msgstr "Het QGIS project is altijd op zoek naar mensen die bereid zijn om wat tijd te steken in het vertalen van QGIS naar een eigen taal - en wellicht om de vertaling voor een taal te coördineren."
+msgstr "Het project QGIS is altijd op zoek naar mensen die bereid zijn om wat tijd te steken in het vertalen van QGIS naar een eigen taal - en wellicht om de vertaling voor een taal te coördineren."
 
 #: ../../source/site/getinvolved/translate.rst:54
 msgid ""
 "We are trying to improve our project management process and spread the load "
 "more evenly between people who each have a specific area of responsibility, "
 "so any contribution you have to make will be greatly appreciated."
-msgstr "Wij proberen ons project management proces te verbeteren en om de taken zoveel mogelijk te verdelen over mensen waarbij ieder een specifieke verantwoordelijkheid krijgt, elke bijdrage die je kunt leveren zal erg worden gewaardeerd. "
+msgstr "Wij proberen ons proces voor projectmanagement te verbeteren en om de taken zoveel mogelijk te verdelen over mensen, waarbij ieder een specifieke verantwoordelijkheid krijgt. Elke bijdrage die je kunt leveren zal erg worden gewaardeerd. "
 
 #: ../../source/site/getinvolved/translate.rst:68
 msgid "Helping with an existing translation"
@@ -92,7 +92,7 @@ msgid ""
 "To start QGIS with the appropriate localization, run qgis with the option "
 "--lang=<language code> or change localization in QGIS under "
 ":menuselection:`Settings -> Options -> Locale`."
-msgstr "Om QGIS te starten in de goede taal, start qgis vanaf de commandoregel met de optie --lang=<language code> of wijzig in QGIS de ingestelde taal/locale onder :menuselection:`Extra -> Opties -> Locale`. "
+msgstr "Start, om QGIS te starten in de goede taal, QGIS op vanaf de commandoregel met de optie --lang=<language code> of wijzig in QGIS de ingestelde taal/locale onder :menuselection:`Extra -> Opties -> Locale`. "
 
 #: ../../source/site/getinvolved/translate.rst:21
 msgid ""
@@ -101,7 +101,7 @@ msgid ""
 " the current percentage of translation you will either have to install the "
 "nightly build of QGIS or checkout the source code of QGIS and start "
 "translating there."
-msgstr "Je zult daar ook de voortgang van de vertalingen vinden (maar onthoud dat in de \"stabiele\" versie deze hetzelfde blijft). Om de huidige voortgang van de vertaling te zien zul je de ontwikkelversie \"the nightly build\" van QGIS installeren of de bron code van QGIS uitchecken en beginnen met vertalen."
+msgstr "Je zult daar ook de voortgang van de vertalingen vinden (maar onthoud dat in de \"stabiele\" versie deze hetzelfde blijft). Om de huidige voortgang van de vertaling te zien zul je de ontwikkelversie \"the nightly build\" van QGIS moeten installeren of de broncode van QGIS uitchecken en beginnen met vertalen."
 
 #: ../../source/site/getinvolved/translate.rst:32
 msgid ""
@@ -110,12 +110,12 @@ msgid ""
 "questions, please contact the Translation Team Leader (see :ref:`Organigram "
 "<gui-translation>`) or subscribe with the `qgis-gui-translation-team "
 "<http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_ mailing list."
-msgstr "Wanneer je van plan bent om een bijdrage te leveren aan een bestaande taal in QGIS, of wanneer je naar een nog niet bestaande taal in QGIS en voor elke andere gerelateerde vragen, neem contact op met de Translation Team Leader (zie  :ref:`Organigram <gui-translation>`)  of schrijf je in voor de `qgis-gui-translation-team <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_ mailing lijst."
+msgstr "Wanneer je van plan bent om een bijdrage te leveren aan een bestaande taal in QGIS, of wanneer je naar een nog niet bestaande taal in QGIS en voor alle andere gerelateerde vragen, neem contact op met de Translation Team Leader (zie  :ref:`Organigram <gui-translation>`)  of schrijf je in voor de `qgis-gui-translation-team <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_ mailinglijst."
 
 #: ../../source/site/getinvolved/translate.rst:45
 msgid ""
 "The other available mailing list can be found at :ref:`QGIS-mailinglists`."
-msgstr "De andere mailing-lijst vindt u hier :ref:`QGIS-mailinglists`."
+msgstr "De andere beschikbare mailinglijst vindt u hier :ref:`QGIS-mailinglists`."
 
 #: ../../source/site/getinvolved/translate.rst:58
 msgid ""
@@ -142,7 +142,7 @@ msgid ""
 "designed to be translated into any language quite easily. At this moment "
 "over fifty other languages are already available (though not all well "
 "maintained)."
-msgstr "De QGIS applicatie wordt geprogrammeerd in het Engels. Het is echter zo ontworpen dat het eenvouding kan worden vertaald naar elke andere taal. Momenteel zijn er al ruim 50 talen beschikbaar (hoewel niet allemaal even goed worden bijgehouden)."
+msgstr "De toepassing QGIS wordt geprogrammeerd in het Engels. Het is echter zo ontworpen dat het eenvoudig kan worden vertaald naar elke andere taal. Momenteel zijn er al ruim 50 talen beschikbaar (hoewel ze niet allemaal even goed worden bijgehouden)."
 
 #: ../../source/site/getinvolved/translate.rst:87
 msgid ""
@@ -152,7 +152,7 @@ msgid ""
 " weeks to be finished. Besides that, the rapid development of the "
 "application continuously causes new and edited texts to be translated. A "
 "huge effort and your help will be appreciated!"
-msgstr "Alle beschikbare talen zijn vermeld in het QGIS dialoogvenster Over. Het geeft ook weer hoeveel momenteel al vertaald is. De gehele interface bevat meer dan tienduizend stukken tekst en een volledige vertaling zal dagen, maar eerder weken duren om te voltooien. Daarnaast zorgt de snelle ontwikkeling van de toepassing er doorlopend voor dat nieuwe n bewerkte teksten moeten worden vertaald. Een enorme inspanning en uw hulp wordt zeer op prijs gesteld!"
+msgstr "Alle beschikbare talen zijn vermeld in het dialoogvenster Over van QGIS. Het geeft ook weer hoeveel momenteel al vertaald is. De gehele interface bevat meer dan tienduizend stukken tekst en een volledige vertaling zal dagen, maar eerder weken duren om te voltooien. Daarnaast zorgt de snelle ontwikkeling van de toepassing er doorlopend voor dat nieuwe en bewerkte teksten moeten worden vertaald. Een enorme inspanning en uw hulp wordt zeer op prijs gesteld!"
 
 #: ../../source/site/getinvolved/translate.rst:95
 msgid "Transifex"
@@ -164,7 +164,7 @@ msgid ""
 "translations; the desktop application itself (or GUI), the documentation and"
 " the web site. So the first thing you need is an account to login and get "
 "started."
-msgstr "De online-applicatie Transifex wordt gebruikt voor het vertalen van het QGIS project; de desktop applicatie zelf, de documentatie en de website. Dus het eerste wat nodig hebt is een account om in te loggen."
+msgstr "De online toepassing Transifex wordt gebruikt voor het vertalen van het project QGIS; de toepassing voor de desktop zelf, de documentatie en de website. Dus het eerste wat u nodig heeft is een account om in te loggen."
 
 #: ../../source/site/getinvolved/translate.rst:103
 msgid "Get an account"
@@ -176,11 +176,11 @@ msgstr "Ga naar www.transifex.com en maak een nieuw account"
 
 #: ../../source/site/getinvolved/translate.rst:106
 msgid "Verify your account by the link in the email you will receive"
-msgstr "Bevestig je aanvraag met de email die je daarna ontvangt"
+msgstr "Bevestig uw aanvraag met de e-mail die u daarna ontvangt"
 
 #: ../../source/site/getinvolved/translate.rst:107
 msgid "Login"
-msgstr "Log in"
+msgstr "Inloggen"
 
 #: ../../source/site/getinvolved/translate.rst:108
 msgid ""
@@ -192,7 +192,7 @@ msgstr "Kies de rol \"Translator\" en beantwoord nog wat vragen over jezelf"
 msgid ""
 "At your dashboard page click “Join an existing organisation” and search for "
 "“qgis”"
-msgstr "Klik op uw pagina Dashboard op “Join an existing organisation” en zoek naar “qgis”"
+msgstr "Klik op uw pagina Dashboard op “Join an existing organisation” en zoek naar “QGIS”"
 
 #: ../../source/site/getinvolved/translate.rst:111
 msgid ""
@@ -225,7 +225,7 @@ msgstr "Als uw taal nog niet is vermeld, klik dan op “Request language” en k
 msgid ""
 "Now you will need to wait for the maintainers to process your request. You "
 "will be notified by email when your request has been accepted."
-msgstr "Nu zult u op de beheerders moeten wachten om uw verzoek te verwerken. U zult per email in kennis wordne gesteld als uw verzoek is geaccepteerd."
+msgstr "Nu zult u op de beheerders moeten wachten om uw verzoek te verwerken. U zult per e-mail in kennis worden gesteld als uw verzoek is geaccepteerd."
 
 #: ../../source/site/getinvolved/translate.rst:125
 msgid "Note on new languages"

@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>, 2015
 # Sant-anna <delazj@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-02-22 11:32+0100\n"
-"PO-Revision-Date: 2014-05-29 08:10+0000\n"
-"Last-Translator: Sant-anna <delazj@gmail.com>\n"
+"PO-Revision-Date: 2015-02-09 09:05+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +18,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/cppplugindevelopment.rst:7
 msgid "Preparing the Environment and Setting up the Repo"
-msgstr "Préparation de l'environnement et configuration du répertoire"
+msgstr "Préparation de l'environnement et configuration du répertoire."
 
 #: ../../source/site/getinvolved/development/cppplugindevelopment.rst:9
 msgid ""
@@ -28,7 +29,7 @@ msgid ""
 "mentioned in above provided link Read the "
 "https://github.com/qgis/QGIS/blob/master/INSTALL about setting up the "
 "installation environment and make a compilation with ccache enabled."
-msgstr ""
+msgstr "Allez dans le dépôt QGIS sur Github sur https://github.com/qgis/QGIS/. Créer un fork pour vous-même. Vous pouvez en apprendre davantage sur l'opération de fork et la conservation de la synchronisation de votre dépôt avec le dépôt principal sur http://help.github.com/fork-a-repo/. Clonez votre copie personnelle du dépôt sur votre système et ajoutez une source amont comme indiqué dans le lien ci-dessus. Lisez le fichier https://github.com/qgis/QGIS/blob/master/INSTALL pour paramétrer votre environnement d'installation et pour lancer une compilation avec ccache activé."
 
 #: ../../source/site/getinvolved/development/cppplugindevelopment.rst:14
 msgid "Setting up the Plugin Directory"

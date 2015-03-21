@@ -2,14 +2,15 @@
 # Translators:
 # tneskovic <antoine_ecuador@yahoo.fr>, 2014
 # Sant-anna <delazj@gmail.com>, 2013
+# Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>, 2015
 # Sant-anna <delazj@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-12-02 14:51+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2015-02-10 14:14+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -44,7 +45,7 @@ msgid ""
 "QGIS is the leading software and stands in current versions (because of the "
 "“experimental” character of LEAG we are using the latest unstable releases "
 "instead of LTS versions) for several reasons:"
-msgstr ""
+msgstr "QGIS est le logiciel le plus important et fonctionne dans sa dernière version (en raison du caractère expérimental du LEAG, nous utilisons les version de test au lieu des versions à support de long terme) pour les raisons suivantes:"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:24
 msgid "Graphical User Interface (close to commercial products)"
@@ -66,13 +67,13 @@ msgstr "Autres (mentionné par exemple dans l'étude de cas rédigée par le Dr 
 
 #: ../../source/site/about/case_studies/czech_brno.rst:31
 msgid "Modeling patterns between spatial location and inhabitants"
-msgstr ""
+msgstr "Motifs de modèles entre l'emplacement spatial et les habitants."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:32
 msgid ""
 "Creating 3D models for terrain visualization (and further use as hill-"
 "shadowing)"
-msgstr ""
+msgstr "Création de modèles 3D pour la visualisation de terrain (et l'utilisation future des ombres portées)."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:33
 msgid ""
@@ -84,11 +85,11 @@ msgstr "Stockage, création et édition de base de données de petites et moyenn
 msgid ""
 "Homogenizing of free-to-use geodata and creation of “geo-data-bank” for "
 "students and researchers at College of Business and Hotel Management"
-msgstr ""
+msgstr "L'homogénéisation des données libres et la création d'une \"banque de données spatiales\" pour les étudiants et les chercheurs de l'école de commerce et de gestion hôtelière."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:45
 msgid "Using diagrams comparing population between two censuses"
-msgstr ""
+msgstr "Utilisation des diagrammes de comparaison de population entre deux recensements."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:48
 msgid "Conclusion"
@@ -109,13 +110,13 @@ msgid ""
 " CZ) where he founded and leads Laboratory on Experimental and Applied "
 "Geography. He is also a doctoral student at Institute of Geography, Faculty "
 "of Science, Masaryk university (Brno, CZ)."
-msgstr ""
+msgstr "Cette article a été rédigé en novembre 2010 avec la contribution de Jakub Trojan. Il est chercheur au College of Business and Hotel Management, Ltd (Brno, CZ) où il a fondé et dirige le Laboratoire de Géographie Appliquée et Expérimentale. Il est également un étudiant doctorant à l'institut de géographie de la faculté des sciences de l'université Masaryk (Brno, CZ)."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:3
 msgid ""
 "QGIS as major GIS software in the Laboratory on Experimental and Applied "
 "Geography"
-msgstr ""
+msgstr "QGIS comme logiciel SIG principal pour le Laboratoire de Géographie Expérimentale et Appliquée"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:17
 msgid ""
@@ -126,13 +127,13 @@ msgid ""
 "source SW such as LibreOffice, GIMP, Inkscape and QGIS. QGIS does not stand "
 "alone –-- we use MapWindow, OpenJump, gvSIG, SAGA and others. But QGIS plays"
 " the major role."
-msgstr ""
+msgstr "Le LEAG joue un rôle important dans les recherches académiques effectuées dans les écoles de commerce et de gestion des hôtels. Les besoins de modélisation spatiale requièrent d'excellents logiciels. La philosophie du coût minimum et de l'efficacité maximum mène au choix de solutions open source. Ces choix résultent dans l'utilisation de solution logicielle open source telles que LibreOffice, GIMP, Inkscape et QGIS. Nous n'est pas utilisé uniquement, nous employons également MapWindow, OpenJump, gvSIG, SAGA, et d'autres. Néanmoins, QGIS tient un rôle majeur."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:29
 msgid ""
 "Spatial analysis are done mainly using basic geoprocessing functions and "
 "Python-based plugins. Recent projects where QGIS was used:"
-msgstr ""
+msgstr "Les analyses spatiales sont réalisées principalement avec les fonctions basiques de géo-traitement et avec des extensions python. Projets récents où QGIS a été utilisé :"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:36
 msgid ""
@@ -140,7 +141,7 @@ msgid ""
 "final layout is mostly create using Inkscape or GIMP (less in LibreOffice "
 "Draw). Web-based maps are editing using Inkscape (after SVG export) and "
 "raster maps are pre-edited using GIMP."
-msgstr ""
+msgstr "QGIS est utilisé en synergie avec d'autres outils open source. Par exemple la mise en page finale est principalement créée avec Inkscape ou GIMP (un peu moins sous LibreOffice Draw). Les cartes web sont éditées avec Inkscape (après un epxort SVG) et les cartes rasters sont pré-éditées en utilisant GIMP."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:38
 msgid ""
@@ -150,7 +151,7 @@ msgid ""
 " used as main platform for teaching students how to use GIS and how to "
 "produce high-quality maps. Recently, the QGIS was used as main product "
 "during GIS Day held at our school on November 2010."
-msgstr ""
+msgstr "QGis est également un outil d'intérêt pour l'éducation. L'école de commerce et de gestion hôtelière offre des sujets à ses étudiants tels que \"Systèmes Information Géographique I et II\" ou \"Chapitres choisis sur la littérature de l'informatio géographique\" où QGIS est utilisé comme plate-forme principale d'enseignement pour montrer comment utiliser des SIG et produire des cartes de haute-qualité. Récemment, QGIS a été utilisé comme produit principal durant la Journée SIG qui s'est déroulée à l'école en novembre 2010."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:50
 msgid ""
@@ -161,7 +162,7 @@ msgid ""
 "seen in education --- QGIS is the first software, which is presented to "
 "students. During regular workshops students learn how to legally work with "
 "QGIS and how to create their own maps."
-msgstr ""
+msgstr "Sans coût supplémentaire et avec une grande efficacité, le Laboratoire de Géographie Appliquée et Expérimentale produit des analyses de haute-qualité, des cartes ainsi que des visualisations en utilisant QGIS. Des bases de données volumineuses sont créées et des tests sur les nouvelles fonctions sont en cours de réalisation. Finalement, un des plus grands impacts de l'utilisation de QGIS a été repéré au niveau de l'éduction: QGIS est le premier logiciel présenté aux étudiants. Lors des travaux dirigés, les étudiants apprennent à travailler légalement avec QGIS pour créer leurs propres cartes."
 
 #~ msgid "QGIS as major GIS software in the Laboratory"
 #~ msgstr ""

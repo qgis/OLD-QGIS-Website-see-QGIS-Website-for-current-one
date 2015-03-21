@@ -2,14 +2,15 @@
 # Translators:
 # cheznouscarte <b.veler@laposte.net>, 2013
 # Sant-anna <delazj@gmail.com>, 2013
+# Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>, 2015
 # Robin PREST <robin@georezo.net>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-12-02 14:51+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2015-03-01 09:29+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -123,7 +124,7 @@ msgid ""
 "rather annoying that we were constantly dealing with license renewal issues,"
 " and that I could not use the software away from the workplace unless I "
 "acquired my own license."
-msgstr ""
+msgstr "J'ai commencé à utiliser les SIG dans mes travaux de biogéographie il y a environ 10 ans. Lors de mon doctorat, mon travail de thèse et deux autres emplois dans la recherche, j'ai utilisé des logiciels propriétaires qui était disponibles et utilisés sur mon lieu de travail - principalement CartaLinx, Idrisi, ArcView et ArcGIS. Mais je trouvais pénible les problèmes de renouvellement de licence, ainsi que le fait que je ne pouvais pas utiliser de logiciel hors de mon lieu de travail sans devoir acquérir ma propre licence."
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:13
 msgid ""
@@ -138,7 +139,7 @@ msgid ""
 " found that QGIS provided a very intuitive interface for GRASS, hat they "
 "complemented each other perfectly, and they provided all the analytical "
 "capabilities I needed."
-msgstr ""
+msgstr "Il m'est venu à l'esprit que l'utilisation de logiciels libres m'éviterait ces problèmes. Cependant, les capacités d'analyse des logiciels libres paraissaient peut-être un peu moins puissantes, et même après avoir entendu parler du potentiel de GRASS, je restais assez hésitante à cause de la difficulté d'apprentissage de ce logiciel. J'étais également un peu ennuyée par le fait de devoir faire la migration de toutes les cartes et analyses que j'avais faites jusqu'à présent. Au début de mon post-doc en 2008, j'ai finalement choisi de saisir l'opportunité de faire une formation sur QGIS et GRASS. Cela a été probablement la meilleure décision de ma vie professionnelle ! J'ai découvert que QGIS apportait une interface très intuitive au logiciel GRASS, qu'ils étaient parfaitement complémentaires, et qu'ils proposaient toutes les capacités analytiques dont j'avais besoin."
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:15
 msgid ""
@@ -154,7 +155,11 @@ msgid ""
 "results: I also found it much easier to do the things I wanted to do with "
 "the new software, and was able to do extra analyses which I could not have "
 "done with the programs I used before."
-msgstr ""
+msgstr "J'ai commencé à utiliser ces deux programmes immédiatement après la formation. J'ai non seulement commencé à travailler sur QGIS/GRASS [e.g. 1, 2], mais j'ai également relancé des analyses que j'avais déjà faites avec des logiciels commerciaux. Par exemple, j'avais construit des modèles de distribution de loutres [3] et de desman [4] dans la péninsule ibérique, Après être passée sur QGIS-GRASS, j'ai analysé comment ces modèles se comportaient, lorsqu'ils étaient réalisés à une meilleure résolution [5]. \nUn autre travail sur les relations biogéographiques entre le lynx Ibérique et le lapin [6] a donné lieu à un suivi après que j'aie basculé sous QGIS-GRASS [7]. Non seulement je n'ai pas eu de problème avec la migration des données et des résultats précédents, mais j'ai aussi trouvé beaucoup plus facile de faire ce que je souhaitais avec le nouveau logiciel, et j'ai en plus été capable de faire des analyses supplémentaires que je ne pouvais pas réaliser avec les programmes que j'utilisais précédemment. "
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:48
+msgid "A Márcia Barbosa"
+msgstr "A Márcia Barbosa"
 
 #~ msgid ""
 #~ "I started applying GIS to my work in biogeography about 10 years ago. "

@@ -2,14 +2,15 @@
 # Translators:
 # BADEY Sylvain <mali2003@free.fr>, 2014
 # MarieSilvestre <marie.silvestre@gmail.com>, 2013
+# Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>, 2015
 # Sant-anna <delazj@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-06-24 21:00+0000\n"
-"Last-Translator: BADEY Sylvain <mali2003@free.fr>\n"
+"PO-Revision-Date: 2015-02-11 15:32+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -64,7 +65,7 @@ msgid ""
 "field surveys, oral history and ethnographic interviews, documentary "
 "research in various librariesarchives, and geological and ecological "
 "analysis (see Figure 3)."
-msgstr ""
+msgstr "Notre recherche, organisé par le cadre théorique de l'écologie historique, se concentre sur l'interaction entre les personnes, leurs sociétés, les environnements naturels et construits et comment ces derniers ont évolué au cours du temps. En utilisant une collection de cartes historiques remontant à 1659 sur l'aire d'étude, nous avons scanné, numérisé et extrait les objets de 21 cartes au total dans notre projet de base de données SIG extensive. Les objets de la base de données incluent la couverture du sol (forêts, vignobles, prairies et surfaces de cultures agricoles), les étangs et les cours d'eau, les moulins, les routes et les bâtiments de ces différentes dates, lorsque c'était possible. Nous avions aussi des données du parcellaire cadastral de 1834, 1964 et 2012 qui nous a fourni des informations sur l'évolution de l'utilisation du territoire de la commune d'Uxeau (voir l'emplacement dans l'image 1). Notre projet est interdisciplinaire et nous avons mené des enquêtes de terrain extensives, des recueils historiques oraux et des interviews ethnographiques, de la documentation de recherche dans différentes archives de bibliothèque ainsi que des analyses géologiques et écologiques (voir l'image 3)."
 
 #: ../../source/site/about/case_studies/france_burgundy_region.rst:20
 msgid ""
@@ -84,7 +85,7 @@ msgid ""
 "historical data, test new GIS and GPS technologies, and better understand "
 "the conditions and changing function of these features in the present "
 "economy."
-msgstr ""
+msgstr "Un objet important du paysage est l'eau et sur elle que nous focalisons nos recherches actuelles. L'aire d'étude est entrelacée de cours d'eau qui ont été déviés pour former des étangs dont beaucoup datent du moyen-âge. La création et la maintenance de ces étangs et de leur barrage en terre requérait de grandes dépenses et de grandes quantités de travail. Notre recherche a montré que ces étangs construits par la main de l'homme étaient utilisés pour fournir de l'eau au bétail, élever du poisson pour la consommation domestique, pour le lavage du linge, le trempage du chanvre et pour l'amusement. Une des plus importantes fonctions des étangs dans le passé était la fonctionnement des moulins, principalement pour moudre le grain mais aussi pour presser l'huile ou couper le bois. Beaucoup de ces moulins ont disparu et de nombreux moulins encore debout sont en danger du fait de la négligence de leur entretien. Notre enquête de terrain récente des étangs et des sites de moulins identifiés à partir des cartes historiques a été construite pour documenter les sites encore présents des moulins et des étangs, pour vérifier nos données historiques, tester les nouvelles technologies SIG et GPS et mieux comprendre les conditions et l'évolution de ces entités dans l'économie actuelle."
 
 #: ../../source/site/about/case_studies/france_burgundy_region.rst:22
 msgid ""
@@ -94,7 +95,7 @@ msgid ""
 "Figure 2). We also conducted interviews with some of the present owners of "
 "pond and mill sites. Our work has documented 52 ponds and 27 mills in the "
 "region."
-msgstr ""
+msgstr "Nos enquêtes de terrain incluent l'évaluation, la prise de vidéos et de photographies des sites, la vérification de leur localisation par relevé GPS et, grâce à notre GPS Garmin, l'alignement des cartes historiques avec le paysage actuel (voir image 2). Nous avons également mené des interviews avec quelques-uns des propriétaires d'étang ou de moulins. Nos travaux ont ainsi documenté 52 étangs et 27 moulins dans la région."
 
 #: ../../source/site/about/case_studies/france_burgundy_region.rst:24
 msgid ""
@@ -105,7 +106,7 @@ msgid ""
 "censuses and parish/civil registers, environmental data from ponds (pollen, "
 "sediment geochemistry, grain size, stable isotopes), and oral "
 "history/ethnographic interviews with local rural inhabitants."
-msgstr ""
+msgstr "Les données et les types d'analyses que nous utilisons actuellement pour étudier ce paysage complexe incluent une série de cartes qui s'étalent de 1759 à 2012, qui sont intégrées dans notre base de données SIG, les enregistrements historiques comme les relevés cadastraux des taxes, les rapports agricoles et les données de population des recensements et des registres paroissiaux et civils, les donnés environnementales des étangs (pollen, chimie des sédiments, taille des grains, isotopes stables) ainsi que les interviews historiques et ethnographies avec les habitants ruraux locaux."
 
 #: ../../source/site/about/case_studies/france_burgundy_region.rst:31
 msgid ""
@@ -114,7 +115,7 @@ msgid ""
 " image at center top you can see the location of the pond as a yellow dot. "
 "Red dots show other eVis ground photos of mills and other historical or "
 "archaeological sites."
-msgstr ""
+msgstr "Voici une vue de notre base de données QGIS. A droite, on trouve l'espace photo GPS d'eVis et les données d'un étang récemment drainé qui datait au moins de 1834. Dans l'image SIG au centre, vous pouvez voir l'emplacement de l'étang par un point jaune. Les points rouges montrent d'autres emplacement eVis de photos de moulins et d'autres sites historiques ou archéologiques."
 
 #: ../../source/site/about/case_studies/france_burgundy_region.rst:34
 msgid "Conclusion"
@@ -134,7 +135,7 @@ msgid ""
 "important effort, developing and sharing many capabilities. I have taught "
 "several 4-day QGIS/GRASS/R short courses in France over the years, sharing "
 "these tools with many archaeologists from throughout France."
-msgstr ""
+msgstr "Notre projet a démarré en utilisant GRASS en 1986 et a continué à l'utiliser en combinaison avec le logiciel commercial ArcGIS ainsi que d'autre outils comme Photoshop, BaseCamp de Garmin, eVis, etc. . Utiliser des outils libres ou open-source prend beaucoup de sens lorsqu'on travaille avec des collaborateurs de plusieurs institutions américaines et européennes ainsi qu'avec des étudiants qui vont et qui viennent. Nous avons trouvé que la combinaison de QGIS et de GRASS fournit des outils d'analyse et de visualisation de données de bon niveau, une facilité d'utilisation, de l'interopérabilité et de la portabilité à notre projet. Les archéologues avaient déjà une bonne expérience sur GRASS et sur les communautés SIG libres depuis plusieurs années et ils ont beaucoup contribué à cet important effort de développement et de partage de fonctionnalités. J'ai bénéficié d'une formation courte de 4 jours sur QGIS/GRASS/R en France sur plusieurs années en partageant ces outils avec de nombreux archéologques à travers la France."
 
 #: ../../source/site/about/case_studies/france_burgundy_region.rst:38
 msgid ""
@@ -142,7 +143,7 @@ msgid ""
 "inhabitants’ relationship with this landscape and we will expand our work "
 "beyond our current focus on mills and ponds to include changing patterns of "
 "forests, pastures and meadows, croplands and former vineyards in the area."
-msgstr ""
+msgstr "Notre recherche continuera à explorer l'histoire à long terme de la relation entre les habitants et leur paysage et nous allons étendre notre travail au delà de notre focalisation sur les moulins et les étangs en incluant les évolutions sur les forêts, les prairies et les haies, les cultures agricoles et les anciens vignobles de notre aire d'étude."
 
 #: ../../source/site/about/case_studies/france_burgundy_region.rst:45
 msgid ""
@@ -150,7 +151,7 @@ msgid ""
 "ethnographic interviews with local farmers, a GIS map showing forest change "
 "from 1759 to 1983, and a book of Uxeau 1791 cadastral tax records. In the "
 "center is a color 1759 Cassini map of the area."
-msgstr ""
+msgstr "A partir du coin gauche supérieur dans le sens des aiguilles d'une montre: un cheptel local Charolais, réalisation d'interviews ethnographiques avec les fermiers locaux, une carte SIG montrant l'évolution de la forêt de 1759 à 1983 et un livre sur les enregistrements de taxe cadastrale de 1791 d'Uxeau. Dans le centre, il y a une carte couleur de Cassini de 1759 de l'aire d'étude."
 
 #: ../../source/site/about/case_studies/france_burgundy_region.rst:48
 msgid "Contact"
@@ -187,7 +188,7 @@ msgid ""
 "research project is conducted collaboratively with Dr. Elizabeth A. Jones, "
 "historical anthropologist (UNC), Dr. Amanda B. Tickner, paleoethnobotanist "
 "(UNC) and Dr. D. Seth Murray, ethnographer and oral historian (NCSU)."
-msgstr ""
+msgstr "Cette article a été rédigé en août 2013 avec la contribution du Dr Scott Madry. Il est professeur associé de recherche dans le programme d'étude en Archéologie de l'Université de Caroline du Nord au Laboratoire de Recherche en Archéologie de Chapel Hill. Il travaille à l'Université Internationale de l'Espace de Strasbourg en France et il est également chercheur associé au Laboratoire Archéologie et Territoires de l'UMR 7324 CITERES, Université François-Rabelais/CNRS. Ce projet de recherche est conduit collaborativement avec le Dr. Elizabeth A. Jones, anthropologiste en histoire (UNC), le Dr. Amanda B. Tickner, paléo-ethno-botaniste (UNC) et le Dr. D. Seth Murray, ethnographe et historien oral (NCSU)."
 
 #~ msgid ""
 #~ "Since Quantarctica first came in use by our glaciologists three years ago, "

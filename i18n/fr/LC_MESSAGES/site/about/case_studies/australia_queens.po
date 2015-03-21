@@ -2,13 +2,14 @@
 # Translators:
 # Geopan <gdeboyer@gmail.com>, 2013
 # Sant-anna <delazj@gmail.com>, 2013
+# Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-12-02 14:51+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2015-02-07 11:53+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -36,31 +37,31 @@ msgid ""
 "1/03 Mitigating the Adverse Impacts of Flood, Bushfire and Landslide [1]. "
 "This kind of job would normally be done using consultants but was instead "
 "done by the council itself using a combination of QGIS and GRASS."
-msgstr ""
+msgstr "Un incendie de brousse n'est pas uniquement un problème pour le SDRC mais également pour l'ensemble du Queensland, le gouvernement fédéral impose que chaque gouvernement local identifie le risque de feu de brousse dans leur aire de compétence via le \"State Planning Policy 1/03 Mitigating the Adverse Impacts of Flood, Bushfire and Landslide\" [1]. Ce genre de travail s'effectue généralement via des consultants mais il a été réalisé en régie par le conseil lui-même en utilisant QGIS et GRASS."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:22
 msgid "The GIS side of the project project was broken down into 6 main steps"
-msgstr ""
+msgstr "Le côté SIG du projet a été divisé en 6 grandes étapes."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:24
 msgid "Slope assessment and mapping"
-msgstr ""
+msgstr "Evaluation de la pente et cartographie"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:25
 msgid "Aspect assessment and mapping"
-msgstr ""
+msgstr "Evaluation de l'aspect et cartographie"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:26
 msgid "Vegetation assessment and mapping"
-msgstr ""
+msgstr "Evaluation de la végétation et cartographie"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:27
 msgid "Combining scores to identify the severity of bushfire hazard"
-msgstr ""
+msgstr "Combinaison des résultats pour identifier le niveau de risque d'incendie de brousse"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:28
 msgid "Field verification and qualitative assessment"
-msgstr ""
+msgstr "Vérification sur le terrain et évaluation qualité"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:29
 msgid "Final Maps"
@@ -91,7 +92,7 @@ msgid ""
 "This article was contributed in January 2011 by Nathan Woodrow. Nathan is a "
 "GIS officer at the Southern Downs Regional Council and is studying an "
 "associates degree in Spatial Science at University of Souther Queensland"
-msgstr ""
+msgstr "Cet article a été publié en janvier 2011 par Nathan Woodrow. Nathan est un agent SIG au conseil régional des Southern Downs (SDRC) et il effectue des études en alternance à l'univertisé des sciences spatiales du Southern Queensland."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:8
 msgid ""
@@ -100,13 +101,13 @@ msgid ""
 "the southern part, suffers from major bushfires. Bushfire is a real and "
 "present concern for the residents and landowners in the Southern Downs "
 "Region, and has resulted in the loss of life and property."
-msgstr ""
+msgstr "Le conseil régional des Southern Downs (SDRC) est une administration locale de taille intermédiaire située dans le sud-est du Queensland en Australie. L'aire de compétence du conseil, principalement la zone sud, souffre de nombreux feux de brousse. Les feux de brousse sont un réel problème pour les résidents et les propriétaires de la région du Southern Downs et ils ont entraînés des morts et des atteintes aux mobilier."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:10
 msgid ""
 "This project will allow the council and the people of the region to be more "
 "aware of the risk and to allow for better decision making in the future."
-msgstr ""
+msgstr "Ce projet permettra au conseil et aux gens de la région d'être plus au courant des risques et de prendre de meilleures décisions à l'avenir."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:40
 msgid ""
@@ -115,7 +116,7 @@ msgid ""
 "to process the raster maps and present them in a meaningful way to users. "
 "SDRC uses MapInfo for its main GIS system, however MapInfo’s addons were not"
 " as powerful as GRASS GIS for raster processing."
-msgstr ""
+msgstr "QGIS, combiné à l'extension GRASS, a été retenu car il fournit l'ensemble des outils nécessaire à l'achèvement du travail. L'interaction entre QGIS et GRASS rend plus facile le processus de traitement des cartes raster et les représente de manière plus significative aux utilisateurs. Le SRDC utilise MapInfo pour son principal SIG néanmoins les extensions de MapInfo ne sont pas aussi performantes que celle offertes par GRASS en ce qui concerne le traitement des rasters."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:42
 msgid ""
@@ -128,14 +129,14 @@ msgid ""
 "were then combined using mapcalc and given a final risk hazard score. The "
 "risk scores are then divided into three main categories: high; medium; and "
 "low."
-msgstr ""
+msgstr "L'extension QGIS GRASS a été utilisé pour importer des courbes de niveau d'une résolution de 5 mètres dans GRASS. Ces courbes ont été converties dans une couche raster en utilisant r.surf.contour. Des cartes de pente et d'aspect ont été ensuite générées en utilisant r.slope.aspect à partir du raster des courbes de niveau. Des catégories ont été attribuées à différentes plages de pentes et d'aspect et un niveau de risque a été calculé. Les surfaces en végétation ont également reçu des niveaux de risque. Les cartes résultantes ont été combinées en utilisant mapcalc pour donner un niveau de risque final. Ces niveaux ont été ensuite divisés en trois catégories: haut, moyen et faible."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:44
 msgid ""
 "The final part of the process was field verification via the rural fire "
 "service. After the review process, QGIS was used to print the final maps for"
 " presentation."
-msgstr ""
+msgstr "La partie finale du processus a été la vérification sur le terrain via le service rural d'incendie. Après la revue du processus, QGIS a été utilisé pour imprimer des cartes de présentation."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:46
 msgid ""
@@ -143,7 +144,7 @@ msgid ""
 "that were needed to generate the bushfire hazard maps were recorded, for "
 "documentation purposes and for if the maps needed to be regenerated some "
 "time in the future."
-msgstr ""
+msgstr "Toutes les commandes de GRASS peuvent être lancées depuis la ligne de commande, toutes les commandes nécessaire pour générer les cartes de risque de feu de brousse ont été enregistrées à des fins de documentation et en cas de besoin de générer à nouveau les cartes à l'avenir."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:51
 msgid ""
@@ -152,22 +153,22 @@ msgid ""
 "mapping. The GRASS plugin provides a very easy to use interface to GRASS "
 "through QGIS. As QGIS is able to open the GRASS raster format natively, "
 "integration is very seamless and maps can be made with ease."
-msgstr ""
+msgstr "Au final, l'utilisation de QGIS combiné à l'extension GRASS a été une bonne expérience avec l'intérêt pour le conseil de réaliser sa cartographie de risque incendie en régie. L'extension GRASS fournit une interface vers GRASS qui est facile à utiliser, à travers QGIS. Etant donné que QGIS est capable d'ouvrir nativement les rasters au format GRASS, l'intégration s'est déroulé assez naturellement et les cartes ont pu être facilement réalisées."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:53
 msgid ""
 "The project won an encouragement award at the Queensland Planning Institute "
 "of Australia state planning awards in 2010 [2]"
-msgstr ""
+msgstr "Le projet a reçu un prix du Queensland Planning Institute of Australia en 2010 [2]."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:58
 msgid ""
 "[2] http://digital.crowtherblayne.com.au/default.aspx?xml=crowther_pia.xml"
-msgstr ""
+msgstr "[2] http://digital.crowtherblayne.com.au/default.aspx?xml=crowther_pia.xml"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:68
 msgid "Nathan Woodrow"
-msgstr ""
+msgstr "Nathan Woodrow"
 
 #~ msgid ""
 #~ "The Southern Downs Regional Council (SDRC) is a small-to-medium sized local "

@@ -1,13 +1,14 @@
 # 
 # Translators:
 # BADEY Sylvain <mali2003@free.fr>, 2013
+# Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-12-02 14:51+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2015-02-09 09:22+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -110,7 +111,7 @@ msgstr "Cet article a été rédigé par G. Rajendra Garawad en Mars 2013. Il es
 msgid ""
 "QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
 "Assam, India Sonitpur District)"
-msgstr ""
+msgstr "Utilisation de QGIS pour le suivi des tigres (à l'aide de pièges photographiques dans la réserve de tigres de Nameri, Etat de l'Assam, District de Sonitpur, Inde) "
 
 #: ../../source/site/about/case_studies/india_assam.rst:26
 msgid ""
@@ -124,7 +125,7 @@ msgid ""
 "transferred to QGIS using GPS tools for further processing and for "
 "finalizing camera trap locations. A shape file containing the tiger signs "
 "and probable camera trap locations was prepared."
-msgstr ""
+msgstr "Durant les années 2012-13, nous avons mis en place ce nouveau protocole de suivi des tigres au sein de la réserve en utilisant QGIS. Pour commencer, nous avons numérisé les limites de la réserve dans QGIS et enregistré celle-ci en tant que polygone. Ce polygone de délimitation a été exporté dans un GPS à des fins de navigation pour les enquêtes de terrain. Nous avons mené une vaste enquête dans la réserve à la recherche d'indices de présence de tigre  tels que des empreintes, des griffures et des excréments. Les coordonnées GPS des indices de présence de tigre ainsi que des emplacements appropriés pour des pièges photographiques ont été enregistrées. Après l'achèvement de l'enquête, les données ont été transférées dans QGIS, à l'aide des outils GPS, pour un traitement ultérieur et pour finaliser l'emplacement de pièges photographiques. Un fichier Shape contenant les indices de présence de tigres et les emplacements probables des pièges photographiques a été préparé."
 
 #: ../../source/site/about/case_studies/india_assam.rst:46
 msgid ""
@@ -141,7 +142,7 @@ msgid ""
 "software. We believe that QGIS has great potential for empowering "
 "individuals/institutions/ involved in conserving endangered wildlife in the "
 "developing world by offering GIS technology at little or no cost."
-msgstr ""
+msgstr "Pour la première fois dans l'histoire de cette petite réserve du Nord-Est de l'Inde, il a été possible de suivre les tigres à l'aide de pièges photographiques principalement grâce à QGIS.  Les résultats de cet exercice de surveillance indiquent la présence de 8 à 15 tigres dans ce paysage. En plus des tigres, plusieurs espèces difficilement repérables ont également été documentées photographiquement. En dehors de la surveillance des tigres, nous utilisons également QGIS pour des activités telles que la planification des travaux de gestion de l'habitat, la révision des horaires de patrouille, et pour la conception de cartes pour les visiteurs. L'interface conviviale, riche en fonctionnalités, la documentation \"en profondeur\", le support en ligne et la philosophie du libre/open source sont les quelques qualités de QGIS qui ont fait que nous l'avons sélectionné par rapport à d'autres logiciels propriétaires. Nous croyons que QGIS a un grand potentiel pour l'autonomisation des individus / institutions impliqués dans la conservation de la faune en voie de disparition dans le monde en développement en leur offrant la technologie des SIG à coût faible ou nul."
 
 #~ msgid "QGIS for monitoring tigers"
 #~ msgstr ""

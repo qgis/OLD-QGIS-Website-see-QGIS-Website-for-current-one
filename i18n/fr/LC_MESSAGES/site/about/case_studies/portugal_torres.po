@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Julien Francois <julien.francois1@hotmail.fr>, 2013
+# Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>, 2015
 # Sant-anna <delazj@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-12-02 14:52+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2015-02-11 14:39+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,7 +29,7 @@ msgid ""
 "from Upper Jurassic. One of the key issues in paleontological management is "
 "to assess spatial context of the sites from where the fossils are retrieved "
 "– hundreds of sites representing thousands of different specimens."
-msgstr ""
+msgstr "L'association Leonel Trindade, société d'histoire naturelle (ALT-SHN)  est un organisation à but non lucratif située à Torres Vedras au Portugal et qui est spécialisée dans la paléontologie. L'institution gère une grande collection de fossiles issus principalement du Jurassique supérieur. L'une des clefs des problèmes dans la gestion de la paléontologie est d'évaluer le contexte spatial des sites où les fossiles sont extraits, des centaines de sites représentant des milliers de spécimens différents."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:8
 msgid "The Project"
@@ -42,18 +43,18 @@ msgid ""
 "paleontology) [2]. The project, supported by public and private entities – "
 "mainly the Municipalty, Digiterra.hu and the Army's Geographic Institute "
 "(IGeoE), aimed three goals:"
-msgstr ""
+msgstr "En 2008, nous avions l'idée d'explorer les technologies des SIG pour gérer l'investigation et pour disposer d'une perspective plus globale du patrimoine que nous gérions. L'idée a engendré le projet SIGAP (SIG appliqué à la paléontologie) [2]. Le projet, financé par des fonds publics et privés, principalement la Municipalité, Digiterra.hu et l'Institut Géographique Militaire ((IGeoE) visait trois obectifs:"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:17
 msgid ""
 "Field Survey with Differencial GPS to gather the coordinates of the sites;"
-msgstr ""
+msgstr "Enquête de terrain avec un GPS différentiel pour collecter les coordonnées des sites;"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:18
 msgid ""
 "Build a Risk Model to identify hazards towards paleontological heritage and "
 "thus prevent them through regular field surveys;"
-msgstr ""
+msgstr "Construction d'un modèle de risque pour identifier les dangers sur le patrimoine paléotonlogique et les prévenir par la réalisation d'enquêtes de terrains régulières."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:19
 msgid ""
@@ -73,7 +74,7 @@ msgid ""
 "analyis on rasters in order to obtain the risk model we needed to plan our "
 "field work and future prospection. Furthermore it allowed us to import "
 "PostGIS layers and visualize them on QGIS."
-msgstr ""
+msgstr "QGIS a été le cadre principal du projet. Les données ont été injectées directement dans QGIS puis éditées et manipulées dans l'objectif de réaliser les sorties désirées. L'interface GRASS fournie par QGIS nous a permis de lancer les analyses spatiales complexes sur des rasters pour obtenir un modèle de risque dont nous avions besoin pour préparer notre travail sur le terrain et notre prospection future. De plus, QGIS nous a permis d'importer des couches PostGIS et de les visualiser dans l'outil."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:31
 msgid "Vector point data editing and visualization"
@@ -81,7 +82,7 @@ msgstr "Edition et visualisation des données vecteur point"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:40
 msgid "Paleontological Risk Map"
-msgstr ""
+msgstr "Carte de risque paléontologique"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:43
 msgid "Conclusion"
@@ -102,7 +103,7 @@ msgid ""
 "Sociedade de História Natural. His area of interest is focused on "
 "geotechnology applications to the fields of paleontology, archeology and "
 "cultural heritage."
-msgstr ""
+msgstr "Cet article a été rédigé en novembre 2010 avec la contribution de André Mano. Il est responsable du Département de Géographie de l'Association Leonel Trindade – Sociedade de História Natural. Il s'intéresse principalement aux applications géo-technologiques dans les champs de la paléontologie, de l'arcéologie et du patrimoine culturel."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:48
 msgid "References"
@@ -134,7 +135,7 @@ msgid ""
 "different systems --– we have Mac, Windows PC and Linux PC, therefore it's "
 "of extreme importance that we have the freedom to install the software on "
 "any machine we want so we don't get stuck to a particular computer."
-msgstr ""
+msgstr "QGIS a été retenu par le fait qu'il gère plusieurs plate-formes. L'institut dispose de trois aménagements distincts et chacun de ces aménagements est équipé d'un système d'exploitation différent. Nous avons des machines sous Mac, sous Windows et sous GNU/Linux et il était très important de pouvoir installer le logiciel sur n'importe laquelle de ces machines de manière à ne pas être obligé de travailler sur une machine en particulier."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:45
 msgid ""
@@ -148,7 +149,7 @@ msgid ""
 "if you have to train first time users has we've done. The easyness of the "
 "interface makes production of maps an everyday task and brought people "
 "closer to spatial approaches [3]."
-msgstr ""
+msgstr "L'expérience globale de QGIS a été jugée très bonne et recommandée. De notre point de vue, l'avantage principal de QGIS est qu'il n'est pas juste un logiciel de SIG mais bien une suite pour les données spatiales. Il nous a permis de tirer parti d'autres outils puissant au sein d'un seul et même environnement. Depuis QGIS, nous pouvons travailler avec GRASS, avec PostGIS, avec des données GPS, avec des services Web et avec une dizaine d'extensions développées de par le monde par d'autres utilisateurs. L'interface utilisateur accueillante est également un avantage énorme, spécialement lorsque vous devez former des utilisateurs de base comme nous avons dû le faire. L'interface simplifiée transforme la production de cartes en une activité simple au quotidien et permet de rapprocher les gens avec l'approche spatiale [3]."
 
 #~ msgid ""
 #~ "The choice for QGIS was also encouraged by the multi platform support. The "

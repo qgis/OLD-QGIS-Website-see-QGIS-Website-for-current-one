@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Julien Francois <julien.francois1@hotmail.fr>, 2013
+# Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>, 2015
 # Mehdi SEMCHAOUI <info@cartoexpert.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-12-02 14:51+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2015-02-11 09:49+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -114,46 +115,46 @@ msgid ""
 "plugin. We used several geographic information along with presence data of "
 "the species to model the ecological corridors. Here are some of the "
 "functions of both QGIS and GRASS used in this case, just to name a few:"
-msgstr ""
+msgstr "Pour modéliser les corridors écologiques, nous avons utilisé QGIS avec l'extension GRASS. Nous avons utilisé plusieurs informations géographiques combinées avec les données de présence des espèces pour modéliser les corridors écologiques. Voici quelques fonctions de QGIS et de GRASS que nous avons utilisées dans ce cas d'étude:"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:23
 msgid "plugin Interpolation in QGIS: to create a Digital Elevation Model"
-msgstr ""
+msgstr "Extension Interpolation de QGIS: pour créer un Modèle d'Elévation Numérique."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:24
 msgid "r.watershed in GRASS: to create water streams from DEM"
-msgstr ""
+msgstr "r.watershed sous GRASS: pour créer les cours d'eau à partir du MEN."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:25
 msgid ""
 "r.grow.distance in GRASS: generates a raster map layer of distance to "
 "features in input layer"
-msgstr ""
+msgstr "r.grow.distance sous GRASS: génère une couche raster de la distance aux entités de la couche d'entrée."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:26
 msgid "r.reclass in GRASS: to reclassify map layers"
-msgstr ""
+msgstr "r.reclass sous GRASS: pour re-classifier les couches cartographiques."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:27
 msgid "r.slope.aspect.slope in GRASS: to calculate the slope from the DEM"
-msgstr ""
+msgstr "r.slope.aspect.slope sous GRASS: pour calculer les bassins versants à partir du MEN."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:28
 msgid "r.mapcalculator in GRASS: to calculate some simple map algebra"
-msgstr ""
+msgstr "r.mapcalculator sous GRASS: pour calculer des cartes avec de l'alggèbre simple."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:29
 msgid ""
 "r.cost.coord in GRASS: creates a raster map showing the cumulative cost of "
 "moving between different geographic locations on an input raster map whose "
 "cell category values represent cost"
-msgstr ""
+msgstr "r.cost.coord sous GRASS: créé une carte raster qui affiche le coût cumulé du déplacement entre plusieurs positions géographiques d'une couche raster d'entrée ou les valeurs des cellules représentent le coût."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:30
 msgid ""
 "r.drain in GRASS: Traces a flow through an elevation model on a raster map "
 "--– the one used to create the corridors"
-msgstr ""
+msgstr "r.drain sous GRASS: Trace un flux à travers un modèle d'élévation sur une carte raster, celle utilisée pour créer les corridors."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:32
 msgid ""
@@ -167,11 +168,11 @@ msgid ""
 "settlements, like small villages, cities and roads. These areas must be "
 "considered critical for wolf conservation, and applied measures to reduce "
 "human impact in this species."
-msgstr ""
+msgstr "Avec ce travail, nous avons obtenu une carte avec les corridors écologiques potentiels pour les populations de loups dans la municipalité de Ribeira de Pena. Il s'agit de surfaces qui peuvent être prises en compte par les techniciens de la ville lors de la planification de mesures de conservation des espèces. Ces corridors sont d'une extrême importance car il permettent de connecter la population fragile des loups de Vila Real dans le sud avec celles du nord qui sont en communication avec celles de Peneda-Gerês et de l'Espagne qui sont beaucoup plus stables. Les corridors qui croisent des installation humaines comme des petits villages, des villes, des routes sont d'une importance particulière. Ces territoires sont considérés comme critiques pour la conservation du loup et des mesures doivent y être appliquées pour réduire l'impact de l'homme sur ces espèces."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:56
 msgid "Monica Almeida"
-msgstr ""
+msgstr "Monica Almeida"
 
 #~ msgid ""
 #~ "To model the ecological corridors, we used the QGIS along with the GRASS "

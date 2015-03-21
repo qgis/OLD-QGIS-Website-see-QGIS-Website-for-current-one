@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>, 2015
 # Sant-anna <delazj@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-02-22 11:32+0100\n"
-"PO-Revision-Date: 2014-12-02 14:52+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2015-02-09 12:10+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux@medspx.homenet.org>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +26,7 @@ msgid ""
 "the monitoring, prediction and prevention of natural disasters. These tasks "
 "are carried out by the employment of a multidisciplinary approach including "
 "hearth sciences, engineering and geomatic."
-msgstr ""
+msgstr "L'Institut de Recherche pour la protection géo-hydrologique de Turin (IRPI), membre du conseil national de recherche italien (CNR) a démarré ses activités en 1970. Les compétences accumulées depuis sa fondation concernent plusieurs secteurs d'investigation, par exemple l'étude géologique et hydrogéologique des entités du bassin versant Alpine-Po (Italie du Nord) ou la surveillance, la prédiction et la prévention des risques naturels. Ces tâches sont gérées par le recours à une approche multi-disciplinaire qui inclue les sciences de la terre, l'ingénierie et la géomatique."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:7
 msgid ""
@@ -33,15 +34,15 @@ msgid ""
 "field survey, modelling and historical records analysis, aerial photograms "
 "are employed. Their use varies, from “simple” visual analyses to complex "
 "processing as stereoplotting or image segmentation."
-msgstr ""
+msgstr "Pour gérer des études et des recherches exhaustives, des photogrammétries aériennes sont utilisée en plus des enquêtes de terrain et des analyses des modèles et des enregistrements historiques. Leur utilisation varie d'une \"simple\" analyse visuelle à un processus complexe comme la numérisation stéréo ou la segmentation d'images."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:16
 msgid "1929 photogram (left) and 1954 flight plan (right)."
-msgstr ""
+msgstr "Photogrammétrie de 1929 (gauche) et plan aérien de 1954 (droite)."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:19
 msgid "Archive management"
-msgstr ""
+msgstr "Gestion des archives"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:21
 msgid ""
@@ -51,7 +52,7 @@ msgid ""
 "DpI, and files were named according to a code including map sheet, year of "
 "acquisition, strip number, photogram’s serial number and code of property "
 "(IRPI’s or external)."
-msgstr ""
+msgstr "Pour gérer autant de données, une approche SIG a été adoptée. Chaque plan de vol, montrant les empreintes photogrammétriques ont d'abord été scannés, géoréférencés et numérisés au format Shape. Les photogrammétries ont été scannées à 600dpi et les fichiers ont été nommés en fonction d'un code incluant la feuille de la carte, l'année d'acquisition, le numéro de bande, le numéro de série de la photogrammétrie et un code de propriété (IRPI ou externe)."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:23
 msgid ""
@@ -61,11 +62,11 @@ msgid ""
 "interface to search and refer to (Figure 2). Data concerning photogram code "
 "were stored in attribute table fields than, by field calculator, a “Link” "
 "field was created storing photograms’ file paths."
-msgstr ""
+msgstr "Sur chaque empreinte numérisée des plans de vol on a ajouté un attribut avec les codes précédents pour établir un lien entre le fichier Shape et les photogrammétries scannées, en utilisant l'extension eVis (Horning et al, 2009) tout en affichant une interface utilisateur sympathique pour la recherche et le référencement (Figure 2). La donnée du code de la photogrammétrie était stockée dans les champs de la table d'attributs et un simple calcul sur le champ a permis de créer un champ \"Link\" contenant le chemin complet vers l'emplacement de stockage des photos."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:30
 msgid "Photogram display (eVis Plugin)"
-msgstr ""
+msgstr "Affichage d'une photogrammétrie (extension eVis)"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:32
 msgid ""
@@ -80,14 +81,14 @@ msgid ""
 "out selected photogram and simply display them with the previously described"
 " tool or extract, by their filenames and path, photograms’ files for further"
 " processing."
-msgstr ""
+msgstr "De plus, état donné la quantité importante de données à rechercher, une interface de recherche géographique a été développée. Grâce aux capacités fournie par le modeleur graphique (par l'extension Traitements, anciennement SEXTANTE), l'outil développé avec différents masques de sélections et de boîtes d'entrée permet à l'utilisateur d'effectuer des sélections sur trois niveaux (limites administratives, feuilles de carte, rivières), de trouver une entité en interrogeant sa table et d'utiliser des requêtes spatiales sur le plan de vol numérisé dans l'objectif de sélectionner les empreintes photogrammétriques intersectant l'entité sélectionnée (Figure 3). A l'aide de cette procédure, il est alors possible de pointer une photogrammétrie et de l'afficher avec l'outil précédemment décrit ou d'extraire, par leur nom de fichier et leur chemin les fichiers des photogrammétries pour plus d'analyse."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:39
 msgid ""
 "Graphic modeler scheme used in the selection tool (in background: purple "
 "polygons-map sheets; labeled orange polygons-photogram footprints; brown "
 "polygons-municipalities administrative borders)"
-msgstr ""
+msgstr "Schéma de modeleur graphique utilisé pour l'outil de sélection (en fond de page: la feuille violette des polygones de carte; les polygones des empreintes photogrammétriques en orange et en marron, les polygones des limites administratives des municipalités)."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:41
 msgid ""
@@ -98,13 +99,13 @@ msgid ""
 "external to the Institute. QGIS features and plugins allowed developing "
 "tools and procedures to optimize photogram archive both in the "
 "implementation of its management and in its exploitation."
-msgstr ""
+msgstr "La collection de photogrammétries est très précieuse pour la recherche (ex: Godone et al, 2014) ainsi que pour les environnements professionnels (Figure 4). Grâce aux procédures décrites et aux outils, la collection est totalement accessible et depuis 2009, les photogrammétries ont été utilisées dans plusieurs projets internes et externes à l'Institut. Les fonctionnalités de QGIS et ses extensions permettent de développer des outils et des procédures pour optimiser l'archivage de photogrammétries, tant dans son implémentation, que dans sa gestion ou son exploitation."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:49
 msgid ""
 "Pie chart showing different area of interest employing photograms in year "
 "2013"
-msgstr ""
+msgstr "Camembert indiquant les différentes utilisations des photogrammétries dans le courant de l'année 2013."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:53
 msgid "References"
@@ -133,7 +134,7 @@ msgstr "Liens"
 msgid ""
 "Aerial photo archive website: "
 "http://www.irpi.to.cnr.it/index_en.php?page=aerofototeca_en"
-msgstr ""
+msgstr "Site web des archives photo-aériennes: http://www.irpi.to.cnr.it/index_en.php?page=aerofototeca_en"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:64
 msgid "Authors"
@@ -153,13 +154,13 @@ msgid ""
 "hydrological Protection of Turin (IRPI-CNR) since 1972. He is involved in "
 "topographical and aerophotogrammetrical surveys and data analysis in the "
 "alpine regions."
-msgstr ""
+msgstr "Franco Godone est un technicien spécialisé de l'Institut de Recherche pour la Protection Géo-hydrologique de Turin (IRPI-CNR) depuis 1972. Il est impliqué dans les enquêtes topologiques et aéro-photogrammétriques ainsi que dans les analyses spatiales des régions alpines."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:3
 msgid ""
 "The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
 "photo archive management"
-msgstr ""
+msgstr "L'Institut de Recherche pour la Protection Géo-hydrologique de Turin -- Gestion des archives photo"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:9
 msgid ""
@@ -168,7 +169,7 @@ msgid ""
 "1920s (Figure 1) --- covering, in different years, the Po basin or part of "
 "it. Some photograms cover other basins in northern Italy. In addition the "
 "archives keeps flight plans of the described photograms (Figure 1)."
-msgstr ""
+msgstr "L'institut stocke dans ses archives, pour les objectifs auparavant explicités, environ 170000 photogrammétries, récentes ou plus anciennes (la plus vieille date des années 20 (Figure 1) qui couvrent, sur plusieurs années, le basin versant du Po ou une partie de ce dernier. Certaines photogrammétries couvrent d'autres bassins du nord de l'Italie. En plus des photogrammétries, les archives conservent également les plans de vols des campagnes des relevés photogrammétriques (Figure 1)."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:73
 msgid ""
@@ -177,7 +178,7 @@ msgid ""
 "disasters monitoring. He is a member of NATRISK --- Research Centre on "
 "Natural Risks in Mountain and Hilly Environments, in the same University. He"
 " acts as a freelance consultant in the same topics, too."
-msgstr ""
+msgstr "Danilo Godone est titulaire d'un postdoc à l'Université de Turin où il étudie les aspects géomatiques des glissements de terrain, des glacier et plus généralement de la prévention des risques naturels. Il est membre du NATRISK, le Centre de Recherche sur les Risques Naturels en Montagne et dans les Environnements Vallonés au sein de la même université. Il est également consultant indépendant sur les sujets sus-mentionnés."
 
 #~ msgid ""
 #~ "The Research Institute for Geo-hydrological Protection of Turin - Aerial "

@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2013
+# Sorin Călinică <scalinica@gmail.com>, 2013,2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-11-02 16:33+0000\n"
+"PO-Revision-Date: 2015-02-28 20:08+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -15,41 +15,37 @@ msgstr ""
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:4
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:9
 msgid "Term of PSC members"
 msgstr "Mandatul membrilor PSC"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:6
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:11
 msgid ""
 "The PSC seats are non-expiring. PSC members may resign their position, or be"
 " asked to vacate their seat after a unanimous vote of no confidence from the"
 " remaining PSC members."
 msgstr "Funcțiile PSC nu au termen de expirare. Membrii PSC pot demisiona din poziția lor, sau li se poate cere să-și părăsească funcția, după un vot unanim de neîncredere din partea celorlalți membri PSC."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:11
-msgid "Member's roles withing the PSC"
-msgstr "Atribuțiunile membrilor PSC"
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:13
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:18
 msgid "The PSC consists of 8 identified roles as follows:"
 msgstr "PSC conține 8 locuri, după cum urmează:"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:17
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:22
 msgid "**Chair**"
 msgstr "**Președinte**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:16
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:21
 msgid ""
 "To support the activities and present a public face to the project. To issue"
 " press releases, conduct interviews, collaborate with PSC members and "
 "provide stability and guidance to the project."
 msgstr "Sprijină activitățile și reprezintă o față publică a proiectului. Emite comunicate de presă, realizează interviuri, colaborează cu membrii CPS și oferă stabilitate și orientare pentru proiect."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:23
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:28
 msgid "**Community Adviser**"
 msgstr "**Consilier al Comunității**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:20
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:25
 msgid ""
 "To further building of relations with the community. To ensure smooth "
 "running of the QGIS.org online experience including web sites, blog, mailing"
@@ -58,11 +54,11 @@ msgid ""
 "for their activities."
 msgstr "Promovează construirea de relații cu comunitatea. Asigură buna funcționare a experienței online pe QGIS.org, blog, liste de discuții, forumuri, etc. Pentru a atinge aceste obiective el / ea va recruta și sfătui 'managerii' cum să întrețină aceste servicii online individuale și cum să le supravegheze activitatea."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:28
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:33
 msgid "**Technical Adviser**"
 msgstr "**Consilier tehnic**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:26
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:31
 msgid ""
 "To provide oversight and guidance to the development effort. This will "
 "include recruiting and facilitating 'managers' for discrete areas of the "
@@ -70,11 +66,11 @@ msgid ""
 "consistency and quality of code added into the SVN code repository."
 msgstr "Asigură supravegherea și îndrumarea efortului de dezvoltare. Recrutează 'manageri' și le facilitează accesul în zone distincte ale codului sursă (nucleu, gui, plugin-uri, furnizori, teste), în scopul asigurării coerenței și calității codului din depozitul SVN."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:35
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:40
 msgid "**Financial and Marketing advisor**"
 msgstr "**Consultant Financiar și de Marketing**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:31
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:36
 msgid ""
 "To provide reporting and explore avenues of revenue for the QGIS project. To"
 " interface with business to secure funding for future efforts. To identify "
@@ -83,11 +79,11 @@ msgid ""
 "with financial options for any initiative requiring funding."
 msgstr "Asigură raportarea și explorează noi căi de venituri pentru proiectul QGIS. Constituie o interfață cu mediul de afaceri care va asigura finanțarea pentru eforturile viitoare. Identifică domeniile în care este nevoie de finanțare și decide acțiunile pentru a obține această finanțare. Ține evidența fondurilor cheltuite, gestionate de OSGeo. Prezintă către CPS opțiunile financiare pentru orice inițiativă care cere fonduri."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:40
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:45
 msgid "**Release Manager**"
 msgstr "**Manager de lansare**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:38
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:43
 msgid ""
 "To oversee timely, regular, stable releases of QGIS on the various supported"
 " platforms.  With the PSC, determine timelines for freezes, releases, and "
@@ -95,22 +91,22 @@ msgid ""
 "managers to create packages for supported platforms."
 msgstr "Însărcinat cu supravegherea lansării regulate a versiunilor stabile de QGIS pe diversele platforme suportate. PSC stabilește termene pentru înghețarea de versiuni, comunicate și politicile generale de lansare și de întreținere. Recruții și asistenții managerilor răspund de crearea pachetelor pentru platformele suportate."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:44
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:49
 msgid "**Design Advisor**"
 msgstr "**Consilierul de proiectare**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:43
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:48
 msgid ""
 "To oversee activities related to QGIS branding, including logo, user "
 "experience, icons, and other graphic elements common to both the application"
 " and the project's web presence."
 msgstr "Supraveghează activitățile de legate de produsul QGIS, inclusiv logo-ul, interfața cu utilizatorul, iconițele și alte elemente grafice comune atât aplicației cât și prezenței web a proiectului."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:49
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:54
 msgid "**Infrastructure Manager**"
 msgstr "**Administratorul infrastructurii**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:47
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:52
 msgid ""
 "Manage and oversee the QGIS project infrastructure, including servers, "
 "websites, source control, and issue tracking. Make recommendations for "
@@ -118,11 +114,11 @@ msgid ""
 "volunteers"
 msgstr "Gestionează și supraveghează infrastructura proiectului QGIS, inclusiv serverele, site-urile web, controlul sursei și evidența problemelor. Face recomandări pentru îmbunătățirea, extinderea și consolidarea serviciilor. Ghidează și direcționează voluntarii"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:57
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:62
 msgid "**Testing and QA Manager**"
 msgstr "**Responsabil de Testare și AQ**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:52
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:57
 msgid ""
 "To oversee the development of a Quality Assurance framework infrastructure "
 "within QGIS so that we may present the best possible version of QGIS to the "
@@ -132,22 +128,22 @@ msgid ""
 "improvement of quality within the project."
 msgstr "Supraveghează dezvoltarea unui cadru de asigurare a calității în QGIS, astfel încât să putem prezenta la nivel global versiunea cea mai bună de QGIS. Mandatul include dezvoltarea unei unități de testare cuprinzătoare, eliminarea problemelor, îmbunătățirea documentației API, asigurarea coerenței API și, în general, susținerea și promovarea necesității de îmbunătățire a calității în cadrul proiectului."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:60
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:65
 msgid "Candidacy for the PSC"
 msgstr "Candidatura pentru PSC"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:62
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:67
 msgid ""
 "All members have equal standing and voice in the PSC. To be eligible for "
 "membership in the PSC, a person should have a demonstrated and substantial "
 "involvement in QGIS."
 msgstr "Toți membrii au drepturi de exprimare egală în PSC. Pentru a fi eligibil în calitatea de membru PSC, o persoană ar trebui să aibă o implicare substanțială și demonstrată în QGIS."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:67
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:72
 msgid "Election process for PSC members"
 msgstr "Procesul de alegere a membrilor PSC"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:69
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:74
 msgid ""
 "Anyone is eligible to be nominated to the QGIS PSC. Ideally nominees would "
 "be QGIS users or developers and have an understanding of GIS and the goals "
@@ -155,133 +151,148 @@ msgid ""
 "set forth in this document. Anyone can submit a nomination."
 msgstr "Oricine este eligibil pentru a fi nominalizat în PSC QGIS. În mod ideal, candidații ar fi utilizatorii QGIS sau dezvoltatorii cu o bună înțelegere a GIS și a obiectivelor proiectului QGIS. În plus, candidații trebuie să îndeplinească calificările prevăzute în acest document. Oricine poate depune o nominalizare."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:74
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:79
 msgid "To nominate someone:"
 msgstr "Pentru a nominaliza pe cineva:"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:76
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:81
 msgid ""
 "Nominator checks with the nominee to make sure they are willing to serve on "
 "the PSC and commit to the goals and duties described in this document"
 msgstr "Cel care face recomandarea îl verifică pe cel nominalizat pentru a se asigura că este dispus să lucreze în cadrul PSC și să se angajeze la obiectivele și funcțiile descrise în acest document"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:78
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:83
 msgid "Nominator submits the nomination via email to the PSC mailing list."
 msgstr "Persoana care face recomandarea trimite nominalizarea prin e-mail către lista de discuții PSC."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:79
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:84
 msgid "The subject line of your email must be **Nomination for QGIS PSC**"
 msgstr "Subiectul e-mail-ului trebuie să fie **Nomination for QGIS PSC**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:80
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:85
 msgid "Nominations without the correct subject line will be rejected"
 msgstr "Nominalizările fără linia de subiect corectă vor fi respinse"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:81
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:86
 msgid "Nominations without complete information will be rejected"
 msgstr "Nominalizarile fără informații complete vor fi respinse"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:84
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:89
 msgid "Complete information includes:"
 msgstr "Informațiile complete includ:"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:86
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:91
 msgid "Full name of the nominator"
 msgstr "Numele complet al persoanei care face recomandarea"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:87
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:92
 msgid "Email address of the nominator"
 msgstr "Adresa de e-mail a celui care face recomandarea"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:88
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:93
 msgid "Full name of the nominee"
 msgstr "Numele complet al persoanei nominalizate"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:89
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:94
 msgid "Email address of the nominee"
 msgstr "Adresa de e-mail completă a persoanei nominalizate"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:90
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:95
 msgid ""
 "Justification why the person should be a member of the PSC. This can be just"
 " a sentence or two in length."
 msgstr "Motivele pentru care persoana nominalizată ar trebui să fie un membru al PSC. Acest lucru poate avea o lungime de numai  una sau două propoziții."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:94
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:99
 msgid ""
 "The PSC contacts the nominee to confirm their willingness to serve and their"
 " name is added to the list of nominees.  You must submit all the information"
 " in item 4 for the nomination to be accepted."
 msgstr "PSC contactează candidatul pentru a le confirma disponibilitatea de a colabora, apoi numele acestuia se adaugă la lista de nominalizați. Trebuie să prezentați toate informațiile de la punctul 4 pentru ca o nominalizare să fie acceptată."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:99
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:104
 msgid "Expectations of PSC members"
 msgstr "Așteptările membrilor PSC"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:101
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:106
 msgid "Be willing to commit to the QGIS development effort"
 msgstr "Disponibilitate de angajare în efortul de dezvoltare QGIS"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:102
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:107
 msgid "Be responsive to requests for information from fellow members"
 msgstr "Receptivitate la solicitările de informații din partea celorlalți membrii "
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:103
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:108
 msgid "Be able and willing to attend online meetings"
 msgstr "Capabilitate și disponibilitate de participare la reuniunile on-line"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:104
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:109
 msgid "Act in the best interests of the project"
 msgstr "Acțiune în purul interes al proiectului"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:107
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:112
 msgid "Role of the PSC"
 msgstr "Rolul PSC"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:109
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:114
 msgid "The PSC is intended to:"
 msgstr "Intențiile PSC sunt:"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:111
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:116
 msgid "Provide guidance to the general direction of the project"
 msgstr "De a oferi îndrumare pentru direcția generală a proiectului"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:112
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:117
 msgid "Provide a central point of contact for the project"
 msgstr "De a oferi un punct central de contact pentru proiect"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:113
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:118
 msgid ""
 "Ensure that the various expectations placed on the project by its members "
 "and the users of QGIS are met to the best degree possible"
 msgstr "De a se asigura că diversele așteptări din partea membrilor și utilizatorilor QGIS, cu privire la proiect, sunt îndeplinite la cel mai bun nivel posibil"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:115
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:120
 msgid "Vote on issues relating to project governance"
 msgstr "De a vota cu privire la aspecte legate de guvernarea proiectului"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:116
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:121
 msgid "Arbitrate disputes"
 msgstr "De a arbitra disputele"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:117
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:122
 msgid "Deal with confidential and legal matters that may arise"
 msgstr "De a rezolva chestiunile confidențiale și juridice care pot apărea"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:118
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:123
 msgid "Provide a stable base of 'institutional knowledge' to the project"
 msgstr "De a furniza proiectului o bază stabilă de 'cunoștințe instituționale'"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:121
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:126
 msgid "The PSC is not:"
 msgstr "PSC nu este:"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:123
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:128
 msgid "A legal entity"
 msgstr "O entitate juridică"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:124
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:129
 msgid ""
 "Intended to deal with minutae of the project (these should be delegated to "
 "trusted members)"
 msgstr "Destinat de a rezolva minutele a proiectului (acestea ar trebui să fie delegate către membrii de încredere)"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:4
+msgid "PSC Project Steering Committee"
+msgstr "PSC - Comitetul de Dirijare a Proiectului"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:6
+msgid "Current members of the PSC can be found :ref:`here <governance>`"
+msgstr "Membrii actuali ai PSC pot fi găsiți :ref:`aici <governance>`"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:16
+msgid "Member's roles within the PSC"
+msgstr "Rolurile membrilor, în cadrul PSC"
+
+#~ msgid "Member's roles withing the PSC"
+#~ msgstr ""

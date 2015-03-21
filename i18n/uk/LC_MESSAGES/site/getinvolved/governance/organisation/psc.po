@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-12-16 09:32+0000\n"
-"Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
+"PO-Revision-Date: 2015-02-28 18:31+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,41 +14,37 @@ msgstr ""
 "Language: uk\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:4
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:9
 msgid "Term of PSC members"
 msgstr "Термін членства у PSC"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:6
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:11
 msgid ""
 "The PSC seats are non-expiring. PSC members may resign their position, or be"
 " asked to vacate their seat after a unanimous vote of no confidence from the"
 " remaining PSC members."
 msgstr "Членство у PSC є безстроковим. Член PSC може скласти свої повноваження за власним бажанням або звільнити своє місце після одностайного вотуму недовіри вираженого іншими членами PSC."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:11
-msgid "Member's roles withing the PSC"
-msgstr "Ролі членів PSC"
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:13
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:18
 msgid "The PSC consists of 8 identified roles as follows:"
 msgstr "У PSC визначено 8 ролей:"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:17
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:22
 msgid "**Chair**"
 msgstr "**Голова**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:16
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:21
 msgid ""
 "To support the activities and present a public face to the project. To issue"
 " press releases, conduct interviews, collaborate with PSC members and "
 "provide stability and guidance to the project."
 msgstr "Підтримує діяльність проекту та є публічним обличчям проекту. Займається оприлюдненням прес-релізів, дає інтерв'ю, співпрацює з іншими членами PSC, забезпечує стабільність та загальне керівництво проектом."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:23
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:28
 msgid "**Community Adviser**"
 msgstr "**Суспільний радник**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:20
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:25
 msgid ""
 "To further building of relations with the community. To ensure smooth "
 "running of the QGIS.org online experience including web sites, blog, mailing"
@@ -57,11 +53,11 @@ msgid ""
 "for their activities."
 msgstr "Займається налагодженням та підтримкою стосунків зі спільнотою. Забезпечує безперебійну роботу онлайн-інфраструктури QGIS включаючи сайт, блог, списки розсилки, форум тощо. Для виконання цих задач він / вона може набирати на подавати на затвердження до PSC «менеджерів», які будуть наглядати за певним сервісом, а також контролювати і забезпечувати їх діяльність."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:28
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:33
 msgid "**Technical Adviser**"
 msgstr "**Технічний радник**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:26
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:31
 msgid ""
 "To provide oversight and guidance to the development effort. This will "
 "include recruiting and facilitating 'managers' for discrete areas of the "
@@ -69,11 +65,11 @@ msgid ""
 "consistency and quality of code added into the SVN code repository."
 msgstr "Контролює та координує діяльність розробників. Набирає «менеджерів», які будуть відповідати за окремі ділянки коду (ядро, інтерфейс, плаґіни, провайдери тощо), та координує їх роботу."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:35
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:40
 msgid "**Financial and Marketing advisor**"
 msgstr "**Радник з фінансів та маркетингу**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:31
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:36
 msgid ""
 "To provide reporting and explore avenues of revenue for the QGIS project. To"
 " interface with business to secure funding for future efforts. To identify "
@@ -82,11 +78,11 @@ msgid ""
 "with financial options for any initiative requiring funding."
 msgstr "Готує звітність, вивчає можливості фінансування проекту. Підтримує зв'язок з компаніями для забезпечення подальшого фінансування проекту. Виявляє області, що потребують фінансування та забезпечує його. Веде облік коштів, отриманих від OSGeo. На вимогу PSC надає інформацію щодо можливих джерел фінансування ініціатив, які його потребують."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:40
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:45
 msgid "**Release Manager**"
 msgstr "**Реліз-менеджер**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:38
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:43
 msgid ""
 "To oversee timely, regular, stable releases of QGIS on the various supported"
 " platforms.  With the PSC, determine timelines for freezes, releases, and "
@@ -94,22 +90,22 @@ msgid ""
 "managers to create packages for supported platforms."
 msgstr "Забезпечує регулярні, своєчасні та стабільні випуски QGIS для підтримуваних платформ. Разом з PSC визначає дати заморозки, випуску та розробляє та супроводжує політику випуску. Набирає та підтримує помічників з підготовки пакетів для підтримуваних платформ."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:44
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:49
 msgid "**Design Advisor**"
 msgstr "**Радник з питан дизайну**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:43
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:48
 msgid ""
 "To oversee activities related to QGIS branding, including logo, user "
 "experience, icons, and other graphic elements common to both the application"
 " and the project's web presence."
 msgstr "Здійснює контроль над діяльністю, пов'язаною з брендом QGIS включаючи логотип, досвід використання, значки та інші графічні елементи, спільні для програми та веб-ресурсів."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:49
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:54
 msgid "**Infrastructure Manager**"
 msgstr "**Менеджер інфраструктури**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:47
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:52
 msgid ""
 "Manage and oversee the QGIS project infrastructure, including servers, "
 "websites, source control, and issue tracking. Make recommendations for "
@@ -117,11 +113,11 @@ msgid ""
 "volunteers"
 msgstr "Керує та здійснює контроль за інфраструктурою проекту QGIS включаючи сервери, сайти, системи контролю версій та відстеження помилок. Надає рекомендації з покращення та консолідації сервісів. Допомагає добровольцям та координує їх роботу."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:57
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:62
 msgid "**Testing and QA Manager**"
 msgstr "**Відповідальний за тестування та забезпечення якості**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:52
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:57
 msgid ""
 "To oversee the development of a Quality Assurance framework infrastructure "
 "within QGIS so that we may present the best possible version of QGIS to the "
@@ -131,22 +127,22 @@ msgid ""
 "improvement of quality within the project."
 msgstr "Займається створенням та вдосконаленням засобів вдосконалення якості та тестування з метою випуску максимально стабільних версій QGIS. До обов'язків входить розробка всебічного набору unit-тестів, моніторинг системи відслідковування помилок, вдосконалення API (документація та узгодженність), а також загальна підтримка та сприяння підвищенню якості в проекті."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:60
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:65
 msgid "Candidacy for the PSC"
 msgstr "Членство у PSC"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:62
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:67
 msgid ""
 "All members have equal standing and voice in the PSC. To be eligible for "
 "membership in the PSC, a person should have a demonstrated and substantial "
 "involvement in QGIS."
 msgstr "Всі члени мають рівні права та голос у PSC. Щоб отримати можливість членства у PSC людина повинна підтвердити свою активну участь в проекті."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:67
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:72
 msgid "Election process for PSC members"
 msgstr "Вибори членів PSC"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:69
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:74
 msgid ""
 "Anyone is eligible to be nominated to the QGIS PSC. Ideally nominees would "
 "be QGIS users or developers and have an understanding of GIS and the goals "
@@ -154,133 +150,148 @@ msgid ""
 "set forth in this document. Anyone can submit a nomination."
 msgstr "Будь-хто має право бути висунутим кандидатом в члени PSC. В ідеалі кандидати повинні бути розробниками або користувачами QGIS, мати уявлення про ГІС та розуміти цілі проекту. Крім того, кандидати повинні відповідати вимогам, вказаним нижче. Висунути кандидата може будь-який член спільноти."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:74
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:79
 msgid "To nominate someone:"
 msgstr "Для висування чиєїсь кандидатури:"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:76
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:81
 msgid ""
 "Nominator checks with the nominee to make sure they are willing to serve on "
 "the PSC and commit to the goals and duties described in this document"
 msgstr "Висувач повинен обговорити з кандидатом його готовність до участі в PSC і виконання обов'язків відповідної ролі"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:78
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:83
 msgid "Nominator submits the nomination via email to the PSC mailing list."
 msgstr "Висувач представляє кандидатуру шляхом направлення листа у список розсилки PSC"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:79
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:84
 msgid "The subject line of your email must be **Nomination for QGIS PSC**"
 msgstr "Тема листа повинна бути вказана як **Nomination for QGIS PSC**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:80
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:85
 msgid "Nominations without the correct subject line will be rejected"
 msgstr "Номінації без правильної теми відхиляються"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:81
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:86
 msgid "Nominations without complete information will be rejected"
 msgstr "Неповні номінації відхиляються"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:84
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:89
 msgid "Complete information includes:"
 msgstr "Повна інформація включає в себе:"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:86
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:91
 msgid "Full name of the nominator"
 msgstr "повне ім'я кандидата"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:87
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:92
 msgid "Email address of the nominator"
 msgstr "електрона пошта кандидата"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:88
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:93
 msgid "Full name of the nominee"
 msgstr "повне ім'я висувача"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:89
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:94
 msgid "Email address of the nominee"
 msgstr "електрона пошта висувач"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:90
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:95
 msgid ""
 "Justification why the person should be a member of the PSC. This can be just"
 " a sentence or two in length."
 msgstr "Обґрунтування кандидатури. Одного - двох речень цілком достатньо"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:94
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:99
 msgid ""
 "The PSC contacts the nominee to confirm their willingness to serve and their"
 " name is added to the list of nominees.  You must submit all the information"
 " in item 4 for the nomination to be accepted."
 msgstr "PSC зв'яжеться з кандидатом, щоб підтвердити його бажання, після чого його ім'я буде додано до списку кандидатів. Для розгляду заявки необхідно надати всю вищезазначену інформацію."
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:99
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:104
 msgid "Expectations of PSC members"
 msgstr "Вимоги до членів PSC"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:101
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:106
 msgid "Be willing to commit to the QGIS development effort"
 msgstr "бути готовим докласти зусиль для розвитку QGIS"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:102
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:107
 msgid "Be responsive to requests for information from fellow members"
 msgstr "оперативно реагувати на запити колег"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:103
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:108
 msgid "Be able and willing to attend online meetings"
 msgstr "мати можливість та бути готовим до участі в онлайн-зустрічах"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:104
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:109
 msgid "Act in the best interests of the project"
 msgstr "діяти в інтересах проекту"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:107
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:112
 msgid "Role of the PSC"
 msgstr "Призначення PSC"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:109
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:114
 msgid "The PSC is intended to:"
 msgstr "PSC був створений для:"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:111
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:116
 msgid "Provide guidance to the general direction of the project"
 msgstr "надання рекомендацій з розвитку проекту"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:112
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:117
 msgid "Provide a central point of contact for the project"
 msgstr "забезпечення центральної точки контакту"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:113
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:118
 msgid ""
 "Ensure that the various expectations placed on the project by its members "
 "and the users of QGIS are met to the best degree possible"
 msgstr "слідкує, щоб очікування та сподівання, які покладаються на проект його членами та користувачами QGIS, були реалізовані якомога краще"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:115
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:120
 msgid "Vote on issues relating to project governance"
 msgstr "голосування з питань, пов'язаних з управлянням проектом"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:116
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:121
 msgid "Arbitrate disputes"
 msgstr "вирішення конфліктних ситуацій"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:117
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:122
 msgid "Deal with confidential and legal matters that may arise"
 msgstr "вирішення різноманітних правових питань, якщо такі будуть"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:118
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:123
 msgid "Provide a stable base of 'institutional knowledge' to the project"
 msgstr "створення «інституційних знань» до проекту"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:121
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:126
 msgid "The PSC is not:"
 msgstr "PSC не є:"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:123
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:128
 msgid "A legal entity"
 msgstr "юридичною особою"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:124
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:129
 msgid ""
 "Intended to deal with minutae of the project (these should be delegated to "
 "trusted members)"
 msgstr "органом, для вирішення дрібних питань проекту (вони делегуються довіреним особам)"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:4
+msgid "PSC Project Steering Committee"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:6
+msgid "Current members of the PSC can be found :ref:`here <governance>`"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:16
+msgid "Member's roles within the PSC"
+msgstr ""
+
+#~ msgid "Member's roles withing the PSC"
+#~ msgstr ""

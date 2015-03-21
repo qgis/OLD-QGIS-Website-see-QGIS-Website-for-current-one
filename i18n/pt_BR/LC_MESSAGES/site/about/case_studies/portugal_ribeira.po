@@ -2,13 +2,14 @@
 # Translators:
 # Jorge Rocha <jgr@di.uminho.pt>, 2013
 # João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013
+# Jorge Rocha <jgr@di.uminho.pt>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-12-02 14:51+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2015-02-20 03:07+0000\n"
+"Last-Translator: Leônidas Luiz Volcato Descovi Filho <leonidasfilho2000@yahoo.com.br>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -114,46 +115,46 @@ msgid ""
 "plugin. We used several geographic information along with presence data of "
 "the species to model the ecological corridors. Here are some of the "
 "functions of both QGIS and GRASS used in this case, just to name a few:"
-msgstr ""
+msgstr "Para modelar os corredores ecológicos, usámos o QGIS com o módulo GRASS. Usámos muita informação geográfica juntamente com dados de avistamentos de espécies para modelar os corredores ecológicos. Aqui estão algumas funções do QGIS e GRASS que usámos neste caso, apenas nomeando alguns:"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:23
 msgid "plugin Interpolation in QGIS: to create a Digital Elevation Model"
-msgstr ""
+msgstr "módulo de Interpolação no QGIS: para criar o Modelo Digital do Terreno"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:24
 msgid "r.watershed in GRASS: to create water streams from DEM"
-msgstr ""
+msgstr "r.watershed no GRASS: para criar as linhas de água do MDT"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:25
 msgid ""
 "r.grow.distance in GRASS: generates a raster map layer of distance to "
 "features in input layer"
-msgstr ""
+msgstr "r.grow.distance no GRASS: gera um mapa raster de distância para os elementos da camada de entrada"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:26
 msgid "r.reclass in GRASS: to reclassify map layers"
-msgstr ""
+msgstr "r.reclass no GRASS: para reclassificar as camadas do mapa"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:27
 msgid "r.slope.aspect.slope in GRASS: to calculate the slope from the DEM"
-msgstr ""
+msgstr "r.slope.aspect.slope no GRASS: para calcular o declive a partir do MDT"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:28
 msgid "r.mapcalculator in GRASS: to calculate some simple map algebra"
-msgstr ""
+msgstr "r.mapcalculator no GRASS: para calcular alguma algebra simples de mapas"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:29
 msgid ""
 "r.cost.coord in GRASS: creates a raster map showing the cumulative cost of "
 "moving between different geographic locations on an input raster map whose "
 "cell category values represent cost"
-msgstr ""
+msgstr "r.cost.coord no GRASS: crua um mapa raster exibindo o custo cumulativo de mudanças entre diferentes localizações geográficas no mapa raster de entrada onde os valores das suas células representam o custo"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:30
 msgid ""
 "r.drain in GRASS: Traces a flow through an elevation model on a raster map "
 "--– the one used to create the corridors"
-msgstr ""
+msgstr "r.drain no GRASS: Traça o fluxo pelo modelo de elevação num mapa raster --– o que é usado para criar os corredores"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:32
 msgid ""
@@ -167,11 +168,11 @@ msgid ""
 "settlements, like small villages, cities and roads. These areas must be "
 "considered critical for wolf conservation, and applied measures to reduce "
 "human impact in this species."
-msgstr ""
+msgstr "Com este trabalho obtivemos um mapa com zonas potenciais a corredores ecológicos para lobos no município da Ribeira da Pena. Estas áreas deverão ser consideras pela técnicos municipais aquando do planeamento de medidas de conservação para estas espécies. estes corredores são de extrema importância porque podem ligar as frágeis alcateias de lobos do sul com o norte de Vila Real, que são contínuos com os que vêm da Peneda-Gerês e Espanha onde são mais estáveis. É de extrema importância estes corredores que cruzam áreas sociais, como pequenas aldeias, cidades e rede viária. Estas áreas devem ser consideradas críticas para conservação do lobo, e aplicar medidas para reduzir o impacto humano nestas espécies."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:56
 msgid "Monica Almeida"
-msgstr ""
+msgstr "Monica Almeida"
 
 #~ msgid ""
 #~ "To model the ecological corridors, we used the QGIS along with the GRASS "
