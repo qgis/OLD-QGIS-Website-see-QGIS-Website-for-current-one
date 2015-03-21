@@ -32,8 +32,9 @@ git pull
 for l in $langs
   do
     time /bin/bash ./docker-run.sh $TARGET LANG=$l
-    #time rsync -hvrzc -e ssh --progress output/html/$l qgis.osgeo.osuosl.org:/var/www/qgisdata/QGIS-Website/live/html
-    time rsync -hvrzc --progress output/html/$l /var/www/qgisdata/QGIS-Website/live/html
+    time rsync -hvrzc -e ssh --progress output/html/$l qgis.osgeo.osuosl.org:/var/www/qgisdata/QGIS-Website/live/html
+    # 21 mar 2015: commented local fall back server www2, and rsync with osgeo server again
+    #time rsync -hvrzc --progress output/html/$l /var/www/qgisdata/QGIS-Website/live/html
   done
 
 now=`date`
