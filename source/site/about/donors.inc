@@ -422,6 +422,7 @@
 * Hilliard Wood
 * Hiroshi Kawakami
 * Hiroto Okayama
+* Holger Stahl
 * Horst Machguth
 * Howard Frederick
 * Hrishikesh Ballal
