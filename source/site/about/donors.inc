@@ -621,6 +621,7 @@
 * Laurent Hoarau
 * Laurent Vidal
 * Lawrence Lass
+* Lech KarÅowicz
 * Lee Wrenn
 * Leif Isaksen
 * Leigh Mellor
