@@ -11,17 +11,18 @@ supplies the venue and the infrastructure for hosting the meeting. Individual
 developers also co-fund the event by donating their time and in many cases
 financially supporting their visit to the meeting directly.
 
-In the past, the policy was that funding will only be directly provided to
-'core' committers and community members of the project. However with increased
-funding through donations and our sponsorship programme, and a desire to
-promote new developers to get involved in the project, this policy has been
-updated as described below.
+Need a refund for QGIS HF expenses?
+---------------------------------------------
 
-.. note:: The term 'developer' in this document refers to any person who
-   contributes time and effort to the advancement of the project (e.g. through
-   documentation, infrastructure maintenance, coding, administration etc.)
+1.If you are a contributor to the project (to either code, documentation, translation, or infrastructure), you think your participation to the HF will be useful for the project, and you do not have funds to cover for travelling and lodging, you can apply for refund, at least 40 days in advance
+2. When applying, please let us know (i) an estimate of the total amount required, and (ii) how your participation will contribute to QGIS
+3. Later applications (<40 days) will be taken into account, based on the budget available and the priorities of the PSC
+4. Please note that our funds are limited, so we'll generally not be able to refund all participants
+5. Core devs (anyone with direct commit rights to the repository') and psc members will have priority on the allocation of funds
+6. At least 30 days in advance, PSC will communicate a decision to all those who applied
+7. The refund will be sent to your bank account after the HF, on the basis of the bills actually paid and sent to our Treasurer.
 
-Policy for disbursement of funds to individual developers
+In case of doubt
 ---------------------------------------------------------
 
 * The project steering committee shall provide arbitration for any query,
@@ -31,48 +32,3 @@ Policy for disbursement of funds to individual developers
   indicate dissent, indifference and assent respectively. In the event of a
   tie-break, the PSC Chairman shall make the final decision. The devision made
   by the PSC shall be final.
-* Individual applications from non-core developers (i.e. those who do not have
-  direct commit access to the QGIS repositories) of EUR200 or less may be
-  decided on by the nominated PSC member without requiring a full PSC vote.
-* Individual applications from core-developers may be granted based on
-  precident directly by the PSC Financial Representative (Paolo Cavallini). In
-  the event of any uncertainty on his part, he may bring the matter to the PSC
-  for a vote.
-* All funding requests should be made **before** the meeting event.
-* Funding may be limited due to budgetary constraints, in which case funding
-  will be provided on a first-come first-served basis.
-* The PSC / PSC Finance Chair may offer to provide partial funding where
-  funding resources are limited.
-* The PSC Financial Chair shall maintain complete financial records of what
-  disbursements were made and to whom and these should be available on request
-  to the PSC.
-
-
-Procedure for funding applications - core developers
-----------------------------------------------------
-
-* A request for funding email should be submitted to the PSC Financial Chair
-  before the event.
-* The request should include the number of days that the developer will attend.
-* The request should include an expense breakdown covering travel and
-  accommodation.
-* The requestor should provide copies of receipts for all expenditures as soon
-  as possible after the event. No refunds should be made without accompanying
-  receipts.
-
-
-Procedure for funding applications - new developers
----------------------------------------------------
-
-* A request for funding email should be submitted to the PSC Member designated to
-  review funding requests **before** the meeting.
-* If the requestor is not happy with the funding requests reviewer's decision, they
-  may request arbitration from the PSC as a whole.
-* The request should include a **workplan** outlining how the developer plans to
-  make use of their time at the meeting.
-* The request should include the number of days that the developer will attend.
-* The request should include an expense breakdown covering travel and
-  accommodation.
-* The requestor should provide copies of receipts for all expenditures as soon
-  as possible after the event. No refunds should be made without accompanying
-  receipts.
