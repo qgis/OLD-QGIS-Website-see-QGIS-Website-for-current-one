@@ -73,15 +73,6 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
-|bronze| |argus|
-
-`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 11.2013-11.2016)
-
-.. |argus| image:: /static/site/about/images/argus.jpg
-   :width: 64 px
-
-----
-
 |bronze| |tragewegen|
 
 `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2016)
@@ -132,6 +123,15 @@ goes into the project. These sponsors are listed below with our thanks!
 `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)
 
 .. |molitec| image:: /static/site/about/images/molitec.png
+   :width: 64 px
+
+----
+
+|bronze| |argus|
+
+`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
+
+.. |argus| image:: /static/site/about/images/argus.jpg
    :width: 64 px
 
 ----
