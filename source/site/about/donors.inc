@@ -559,6 +559,7 @@
 * Jrpepper Consulting
 * Juan Arjona
 * Juan Daniel Montejo Montejo
+* Juan Espinosa
 * Juan Jaramillo
 * Juan Vega Figueroa
 * Judith Yang
