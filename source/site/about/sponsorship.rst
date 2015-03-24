@@ -225,7 +225,7 @@ List of past sponsors
 
 We would like to thank GFOSS.it, the Italian Free and Open Source Software
 organisation for the sponsorship they provided to the QGIS project until early
-012. Visit `GFOSS.it <http://gfoss.it/>`_ for more information (site mainly in
+2012. Visit `GFOSS.it <http://gfoss.it/>`_ for more information (site mainly in
 Italian).
 
 ----
