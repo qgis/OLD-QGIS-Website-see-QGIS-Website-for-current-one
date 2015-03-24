@@ -95,7 +95,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 `GFI - Gesellschaft für Informationstechnologie mbH <www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
 
-.. |tragewegen| image:: /static/site/about/images/gfi.png
+.. |gfi| image:: /static/site/about/images/gfi.png
    :width: 64 px
 
 ----
