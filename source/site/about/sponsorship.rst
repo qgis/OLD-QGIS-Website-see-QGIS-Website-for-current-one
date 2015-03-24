@@ -73,6 +73,15 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
+|bronze| |chartwell|
+
+`Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2016)
+
+.. |chartwell| image:: /static/site/about/images/chartwell.png
+   :width: 64 px
+
+----
+
 |bronze| |tragewegen|
 
 `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2016)
