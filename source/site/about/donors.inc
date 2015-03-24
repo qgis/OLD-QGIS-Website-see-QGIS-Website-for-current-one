@@ -583,6 +583,7 @@
 * Kamil Svoboda
 * Kanton Solothurn SOGIS
 * Karen Owen
+* Kari Salovaara
 * Karim Sadr
 * Katharina Jacob
 * Kathleen Skead
