@@ -508,6 +508,7 @@
 * Jill Baty
 * Jim Cory
 * Jim Litts
+* Jim Lucas
 * Jim Mann
 * Jiri Kadlec
 * Jiří Bělohlávek
