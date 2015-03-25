@@ -93,7 +93,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 |bronze| |gfi|
 
-`GFI - Gesellschaft für Informationstechnologie mbH <www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
+`GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
 
 .. |gfi| image:: /static/site/about/images/gfi.png
    :width: 64 px
