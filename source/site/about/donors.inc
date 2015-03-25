@@ -286,6 +286,7 @@
 * Ecotrust
 * Edilson Oliveira
 * Ekiden Concept
+* Elizabeth Gellenbeck
 * Elogika Di Fanna Alessandro
 * Els Keunen
 * Emanuele Paroni
