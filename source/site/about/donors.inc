@@ -543,6 +543,7 @@
 * Jonathan Duckworth
 * Jonathan Gross
 * Jonathan Webb
+* Joona Lehtomäki
 * Jordan Golubov
 * Jorge Fernandez
 * Jorge Luciano Quesnel Serafini
@@ -559,6 +560,7 @@
 * Jrpepper Consulting
 * Juan Arjona
 * Juan Daniel Montejo Montejo
+* Juan Espinosa
 * Juan Jaramillo
 * Juan Vega Figueroa
 * Judith Yang
@@ -581,6 +583,7 @@
 * Kamil Svoboda
 * Kanton Solothurn SOGIS
 * Karen Owen
+* Kari Salovaara
 * Karim Sadr
 * Katharina Jacob
 * Kathleen Skead
