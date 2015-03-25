@@ -863,6 +863,7 @@
 * Philip Bright
 * Philip Dowd
 * Philippe Blanc
+* Philippe Crist
 * Philippe Mazure
 * Piergiorgio Rocchi
 * Piero Rubiu
