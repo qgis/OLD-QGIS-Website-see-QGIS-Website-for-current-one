@@ -1048,6 +1048,7 @@
 * Torsten Christensen
 * Travis Hammond
 * Treechai Anuwongjaroen
+* Trine Dale
 * Tyler Mitchell
 * Udo Lenz
 * Ujaval Gandhi
