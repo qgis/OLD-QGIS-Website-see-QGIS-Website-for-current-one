@@ -623,6 +623,7 @@
 * Laura Burnette
 * Laura Lotero Vélez
 * Laurent Bréton
+* Laurent Deschaumes
 * Laurent Hoarau
 * Laurent Vidal
 * Lawrence Lass
