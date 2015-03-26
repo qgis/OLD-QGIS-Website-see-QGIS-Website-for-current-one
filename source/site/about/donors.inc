@@ -289,6 +289,7 @@
 * Elizabeth Gellenbeck
 * Elogika Di Fanna Alessandro
 * Els Keunen
+* Emanuel Rocchia
 * Emanuele Paroni
 * Emanuele Zamprogno
 * Emilie Lefevre
