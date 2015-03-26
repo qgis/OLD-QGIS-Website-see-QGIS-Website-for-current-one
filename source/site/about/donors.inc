@@ -190,6 +190,7 @@
 * Christopher Kahler
 * Christopher Meade
 * Christopher Thorpe-dixon
+* Christopher Will
 * Christos Mitsis
 * Chrysoula Lalazisi
 * Claassen Benjamin
