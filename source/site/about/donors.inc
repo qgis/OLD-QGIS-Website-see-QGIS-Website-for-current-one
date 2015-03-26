@@ -593,6 +593,7 @@
 * Kathleen Skead
 * Kathryn Owens
 * Katie Peek
+* Katja Schmidt
 * Katrin Tirok
 * Kazantsev Nikolay
 * Keith Kie
