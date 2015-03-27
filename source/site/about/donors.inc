@@ -433,6 +433,7 @@
 * Hrishikesh Ballal
 * Hualiu Yang
 * Hubert Peer
+* Hubertus Paetow
 * Hugh Gladwin
 * Hugo Martins
 * Hugo Rubio
