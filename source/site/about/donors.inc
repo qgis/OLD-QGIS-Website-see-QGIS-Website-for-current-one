@@ -733,6 +733,7 @@
 * Matt Foy
 * Matt Von Wahlde
 * Matt Wilkie
+* Matteo Barca
 * Matteo Facchini
 * Matteo Ghetta
 * Matthias Voigtlaender
