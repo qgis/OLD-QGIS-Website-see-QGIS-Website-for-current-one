@@ -464,6 +464,7 @@
 * Jacopo Ognibene
 * Jacques Bordon
 * Jacques Labregere
+* Jacques Laffont
 * Jafar Zahir
 * Jairo Belli
 * Jake Maier
