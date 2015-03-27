@@ -804,6 +804,7 @@
 * Nicola Mancinelli
 * Nicolai Trefzger
 * Nicolas Blanc
+* Nicolas Ferchat
 * Niels Lund
 * Niels Schøler Hjørnholm
 * Nikita Mozgunov
