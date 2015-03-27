@@ -560,6 +560,7 @@
 * Josef Rattinger
 * Joshua Houston
 * Joshua Voss
+* Joshua Wells
 * José Alfonso De Tomás Gargantilla
 * João Rodrigues
 * Jrpepper Consulting
