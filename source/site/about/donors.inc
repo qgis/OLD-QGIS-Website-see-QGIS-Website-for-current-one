@@ -355,6 +355,7 @@
 * Gabriele Monfardini
 * Gary Rigozzi
 * Gasanov Gadzhi
+* Gavin Kinsley
 * Gentelet Boris
 * Geoff Jones
 * Geoff Osborn
