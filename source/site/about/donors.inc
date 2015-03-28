@@ -1098,6 +1098,7 @@
 * Wolfgang Dennhöfer
 * Wolfgang Scheffler
 * Wolfgang Stoessel
+* Xabier Albizu Zabala
 * Xuejing Zuo
 * Yann Lepage
 * Yuan Harng Lee
