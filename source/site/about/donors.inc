@@ -61,6 +61,7 @@
 * Anders Stig-jørgensen
 * Andre Langenberg
 * Andrea Cappelletti
+* Andrea Esposito
 * Andrea Garelli
 * Andrea Lau
 * Andrea Mazzetti
