@@ -48,6 +48,7 @@
 * Alicus Viorel
 * Alina - Mihaela Ciocan
 * Alvin Laurio
+* Alyssa Goldberg
 * Alžběta Manukjanová
 * Amandine Poncin
 * Amber Yates
