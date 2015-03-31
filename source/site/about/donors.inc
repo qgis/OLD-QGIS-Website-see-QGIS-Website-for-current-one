@@ -166,6 +166,7 @@
 * Carsten Rymon-lipinski
 * Casper Peter Szilas
 * Cavan Gates
+* Cedric Pellaton
 * Cesar Oriol Pedrocchi
 * Chad Otto
 * Charlton Coles
