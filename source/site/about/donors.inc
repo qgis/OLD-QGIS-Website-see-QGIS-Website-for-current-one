@@ -28,6 +28,7 @@
 * Albert Steiner
 * Alberto Fraguas
 * Alberto Grava
+* Alberto Vazquez Martin
 * Albin Blaschka
 * Alejandro Ruete
 * Alejandro Schwedhelm
@@ -270,6 +271,7 @@
 * Dominique Bornhoeft
 * Dominique Pitt
 * Don Williams
+* Donald Anderson
 * Donald Broussard
 * Donald Moir
 * Dorothea Hackman
@@ -581,7 +583,6 @@
 * Julie Moncorger
 * Julien Villery
 * Julien-Pierre Guilloux
-* Julien-pierre Guilloux
 * Julius Schröder
 * Junji Yamakawa
 * Jussi Rasinmaki
@@ -732,6 +733,7 @@
 * Martine Marchand
 * Martti Cade
 * Massimo Cuomo
+* Matei Domnita
 * Mateusz Loskot
 * Mathias März
 * Mats Norén
@@ -946,6 +948,7 @@
 * Ruben Smelik
 * Rubén Darío Godoy
 * Rui Pedro Henriques
+* Russ Duncan
 * Russel Taylor
 * Russell Derrick
 * Russell Plume
@@ -1003,6 +1006,7 @@
 * Stefano Menegon
 * Steffen Götze
 * Steph Nelson
+* Stephane Burgos
 * Stephan Holl
 * Stephen Frank
 * Stephen Hoskins
