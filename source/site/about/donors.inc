@@ -754,6 +754,7 @@
 * Maximilien Delemotte
 * Mercedes Rubi Jimenez
 * Michael Barr
+* Michael Burrows
 * Michael Corcoran
 * Michael Eder
 * Michael Gieding
@@ -1006,8 +1007,8 @@
 * Stefano Menegon
 * Steffen Götze
 * Steph Nelson
-* Stephane Burgos
 * Stephan Holl
+* Stephane Burgos
 * Stephen Frank
 * Stephen Hoskins
 * Stephen Madama
