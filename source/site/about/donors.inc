@@ -803,6 +803,7 @@
 * Niccolò Iandelli
 * Niccolò Marchi
 * Nicholas Bedworth
+* Nicholas Jacobson
 * Nicola Mancinelli
 * Nicolai Trefzger
 * Nicolas Blanc
@@ -964,6 +965,7 @@
 * Sarah Gregg
 * Sarah Wakeford
 * Sascha Langenstein
+* Sascha Picard
 * Saw Min Aung
 * Sean Nickerson
 * Sebastiaan Van De Bunt
@@ -1048,6 +1050,7 @@
 * Thorpong Kungsworn
 * Tim Baggett
 * Tim Gould
+* Tine Ningal
 * Tishampati Dhar
 * Toby Wilkinson
 * Tom Morrison
