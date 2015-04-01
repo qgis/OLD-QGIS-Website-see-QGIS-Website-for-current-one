@@ -334,6 +334,7 @@
 * Florian Hof
 * Fornat AG, Zürich
 * FOSSGIS e.V.
+* Francesco Bartolini
 * Francesco Campagnari
 * Francesco Cometa
 * Francesco Gervasi
