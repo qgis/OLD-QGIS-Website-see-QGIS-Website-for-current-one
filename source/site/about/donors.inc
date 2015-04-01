@@ -647,6 +647,7 @@
 * Leonidas Carrasco-letelier
 * Leslie Gordon
 * Life Laboratorio De Investigaciones Fotónicas Y Energía
+* Linda Moore
 * Linden Blaisus
 * Lorefolk, Llc
 * Lorenz Jenni
