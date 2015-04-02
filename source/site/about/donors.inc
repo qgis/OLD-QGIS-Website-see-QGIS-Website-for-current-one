@@ -131,6 +131,7 @@
 * Benjamin Smith
 * Benoit David
 * Benoit Vivier
+* Bernard Cavalie
 * Bernard Prouvost
 * Bernardo Portilla
 * Bernd Vogelgesang
