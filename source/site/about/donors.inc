@@ -54,6 +54,7 @@
 * Amandine Poncin
 * Amber Yates
 * Amedeo Fadini
+* Amelia A Fox
 * Amira El-shal
 * Amy Taylor
 * Ana Carolina Coca Acosta
