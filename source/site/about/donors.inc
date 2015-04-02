@@ -747,6 +747,7 @@
 * Matteo Barca
 * Matteo Facchini
 * Matteo Ghetta
+* Matthias Bormann
 * Matthias Voigtlaender
 * Matthieu Guitteaud
 * Maureen Maus
