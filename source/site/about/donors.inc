@@ -341,6 +341,7 @@
 * Francesco Bartolini
 * Francesco Campagnari
 * Francesco Cometa
+* Francesco Di Giuseppe
 * Francesco Gervasi
 * Francesco Radrizzani
 * Francesco Saliola
