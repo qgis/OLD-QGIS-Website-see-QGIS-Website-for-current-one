@@ -153,6 +153,7 @@
 * Bruno Saphy
 * Bryan Kennedy
 * Børge Odden
+* C R Simon
 * Calogero Pizzo
 * Calum Robertson
 * Campbell Godfrey
