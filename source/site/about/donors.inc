@@ -785,6 +785,7 @@
 * Michael Obrien
 * Michael Pedini
 * Michael Schweizer
+* Michal SeÄanskÃ½
 * Michał Czepkiewicz
 * Michel Bollore
 * Michele Beneventi
