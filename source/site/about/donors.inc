@@ -652,6 +652,7 @@
 * Leigh Mellor
 * Leo Millonig
 * Leonidas Carrasco-letelier
+* Leonie Stubbs
 * Leslie Gordon
 * Life Laboratorio De Investigaciones Fotónicas Y Energía
 * Linda Moore
