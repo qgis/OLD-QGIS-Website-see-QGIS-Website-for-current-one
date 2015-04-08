@@ -620,6 +620,7 @@
 * Kenman Liu
 * Kenneth Lake
 * Kenneth Quan
+* Kent Lassacher-busk
 * Kenton Ngo
 * Kevin Barry
 * Kevin Hansen
