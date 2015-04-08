@@ -383,6 +383,7 @@
 * Gia Biagi
 * Gian Andrea Riedi
 * Giancarlo Gualato
+* Giancarlo Mao
 * Gianluca Massei
 * Gildas Lilbert
 * Gilles Boka
