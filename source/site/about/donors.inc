@@ -894,6 +894,7 @@
 * Peter Rosamilia
 * Peter Thuvander
 * Peter Wells
+* Petr BureÅ¡
 * Phebe Meyers
 * Phil Wyatt
 * Philip Bright
