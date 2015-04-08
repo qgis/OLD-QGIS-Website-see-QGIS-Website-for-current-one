@@ -97,7 +97,7 @@ In case of keyserver errors add the qgis.org repository public key to
 your apt keyring, type::
 
  gpg --keyserver keyserver.ubuntu.com --recv DD45F6C3
- gpg --export --armor DD45F6C3 | sudo apt-key add -
+ gpg --export --armor DD45F6C3 | sudo apt-key adv -    #to my understanding "sudo apt-key add" was not working, while "sudo apt-key adv" actually adds the key
 
 QGIS stable
 ...........
