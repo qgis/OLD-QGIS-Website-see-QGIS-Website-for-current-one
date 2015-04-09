@@ -1,5 +1,5 @@
-Features of QGIS
-================
+QGIS Applications
+=================
 
 QGIS Desktop
 ------------
