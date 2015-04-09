@@ -1,7 +1,7 @@
 |image0|
 
-Changelog for QGIS 2.4.0
-========================
+Changelog for QGIS 2.4
+======================
 
 Change log for the next release of QGIS 2.4.0. The emphasis on this
 release has been very much on polish and performance - we have added
