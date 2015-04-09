@@ -2,8 +2,8 @@
    :align: center
    :alt:
 
-Changelog for QGIS: 2.6.0
-=========================
+Changelog for QGIS 2.6
+======================
 
 Change log for the next release of QGIS 2.6.0. We have added many new
 features, tweaks and enhancements to make the most popular Free desktop
