@@ -73,6 +73,15 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
+|bronze| |windsor|
+
+`Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2016)
+
+.. |windsor| image:: /static/site/about/images/windsor.png
+   :width: 64 px
+
+----
+
 |bronze| |chartwell|
 
 `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2016)
