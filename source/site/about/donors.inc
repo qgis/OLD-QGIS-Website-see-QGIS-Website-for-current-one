@@ -33,6 +33,7 @@
 * Alejandro Ruete
 * Alejandro Schwedhelm
 * Alejandro Zarate Lupercio
+* Alejandro ZÃrate Lupercio
 * Aleks Dushevsky
 * Alessandro Fanna
 * Alessandro Pasotti
