@@ -379,6 +379,7 @@
 * Gerald Griesebner
 * Gerard Fitzgerald
 * Gerhard Spieles
+* German Iglesias Peralta
 * Gertjan Geerling
 * GFOSS.it
 * Gia Biagi
