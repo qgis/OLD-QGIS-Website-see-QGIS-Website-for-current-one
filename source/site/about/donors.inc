@@ -33,6 +33,7 @@
 * Alejandro Ruete
 * Alejandro Schwedhelm
 * Alejandro Zarate Lupercio
+* Alejandro ZÃrate Lupercio
 * Aleks Dushevsky
 * Alessandro Fanna
 * Alessandro Pasotti
@@ -894,6 +895,7 @@
 * Peter Rosamilia
 * Peter Thuvander
 * Peter Wells
+* Petr BureÅ¡
 * Phebe Meyers
 * Phil Wyatt
 * Philip Bright
