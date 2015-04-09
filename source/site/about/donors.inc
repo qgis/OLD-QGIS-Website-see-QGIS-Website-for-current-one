@@ -909,6 +909,7 @@
 * Pietro Blu Giandonato
 * Planetek Italia S.r.l
 * Productive Water Services
+* Przemyslaw Ryszka
 * Qinli Huang
 * Rachel Harwood
 * Radoslaw Pasiok
