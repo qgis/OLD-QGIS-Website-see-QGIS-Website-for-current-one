@@ -372,8 +372,6 @@ All packages include GRASS and Python support.
 QGIS testing
 ............
 
-Note the warning_.
-
 A regularly updated development package from qgis master called qgis-master
 is available for 13.1, 13.2, Factory_PowerPC and Tumbleweed (32 and 64bit).
 Add the following repository to your installation manager together with the
