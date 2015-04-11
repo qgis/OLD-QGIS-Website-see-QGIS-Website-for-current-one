@@ -1116,6 +1116,7 @@
 * Vladimir Vrabel
 * Volker Römer
 * Voyages à Vélo
+* Walter Dellisanti
 * Walter Hesse
 * Wasin Bukaew
 * Wayne Bulmer
