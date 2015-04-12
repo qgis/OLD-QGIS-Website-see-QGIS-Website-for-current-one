@@ -102,6 +102,7 @@
 * Antonio Locandro Herrera
 * Antonio MuÃ±oz Fernandez
 * Antonio Vitulano
+* Aquaphoto
 * Ardhianto Adhi Nugroho
 * Ari T K Ikonen
 * Aris Dimopoulos
