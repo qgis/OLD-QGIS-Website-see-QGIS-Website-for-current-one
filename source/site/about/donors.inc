@@ -964,6 +964,7 @@
 * Romain Barrière
 * Romano Fistola
 * Ronaldo Auletta Jr
+* Rory O Sullivan
 * Rosario Negusse
 * Ross Mcdonald
 * Rosário Dilo
