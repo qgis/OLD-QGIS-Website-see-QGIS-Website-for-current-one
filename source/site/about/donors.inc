@@ -769,6 +769,7 @@
 * Maureen Maus
 * Maurice Mccabe
 * Maurizio Gioiosa
+* Mauro Baglioni
 * Mauro Mussin
 * Maximilian Lohse
 * Maximilian Reuss
