@@ -41,6 +41,7 @@
 * Alessio Buccioli
 * Alex Thomas
 * Alexander Von Lünen
+* Alexandre Kurth
 * Alexandre Leroux
 * Alexandre Santos
 * Alexandre Xavier
