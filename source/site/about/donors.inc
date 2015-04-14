@@ -244,6 +244,7 @@
 * Danny Jensen
 * Dariusz Bobak
 * Dariusz Strojecki
+* Darrick Allen
 * Daryl Garton
 * David Addy
 * David Dettrick
