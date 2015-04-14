@@ -613,6 +613,7 @@
 * Kari Salovaara
 * Karim Sadr
 * Katharina Jacob
+* Katherine Raines
 * Kathleen Skead
 * Kathryn Owens
 * Katie Peek
