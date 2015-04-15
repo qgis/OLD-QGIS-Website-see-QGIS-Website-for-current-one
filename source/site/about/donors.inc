@@ -1117,6 +1117,7 @@
 * Valerio Franchino
 * Victor Saldaña
 * Vincent Mercier
+* Vincent Prioul
 * Vincent Verweij
 * Vincenzo Lomurno
 * Vincenzo Sale
