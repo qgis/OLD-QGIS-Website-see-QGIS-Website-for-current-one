@@ -44,10 +44,13 @@
                               <li class="download-text">{{ _('QGIS Standalone Installer Version %s (32 bit)')|format( version ) }}</li>
                           </ul>
                         </a>
-                        <!-- <ul class="inline download-row">
-                          <button type="button" class="btn btn-default btn-mini" href="http://qgis.org/downloads/QGIS-OSGeo4W-2.0.0-Setup.exe.md5" class="reference external">md5</button>
-                          <button type="button" class="btn btn-default btn-mini" href="http://www.garyshood.com/virus/results.php?r=737a37f767c0b8d19a19e5360b467d62" class="reference external">{{ _('Virus check') }}</button>
-                        </ul>-->
+                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-1-Setup-x86.exe.md5sum" class="reference external button">
+                          <ul class="inline download-row">
+                              <li></li>
+                              <li></li>
+                              <li class="download-text">md5</li>
+                          </ul>
+                        </a>
                         <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-1-Setup-x86_64.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
@@ -55,10 +58,13 @@
                               <li class="download-text">{{ _('QGIS Standalone Installer Version %s (64 bit)')|format( version ) }}</li>
                           </ul>
                         </a>
-                        <!--<ul class="inline download-row">
-                          <button type="button" class="btn btn-default btn-mini" href="http://qgis.org/downloads/QGIS-OSGeo4W-2.0.0-Setup.exe.md5" class="reference external">md5</button>
-                          <button type="button" class="btn btn-default btn-mini" href="http://www.garyshood.com/virus/results.php?r=737a37f767c0b8d19a19e5360b467d62" class="reference external">{{ _('Virus check') }}</button>
-                        </ul>-->
+                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-1-Setup-x86_64.exe.md5sum" class="reference external button">
+                          <ul class="inline download-row">
+                              <li></li>
+                              <li></li>
+                              <li class="download-text">md5</li>
+                          </ul>
+                        </a>
                       </div>
                       <div>
                         <h5>{{ _('For Advanced Users:') }}</h5>
