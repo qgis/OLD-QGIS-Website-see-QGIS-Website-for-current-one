@@ -212,8 +212,7 @@ Platform Location
 ======== =============================================================================
 Windows  :ref:`Weekly release candidate <QGIS-windows-weekly>` (standalone installer)
 \ 	 :ref:`OSGeo4W <QGIS-windows-testing>`
-Linux    :ref:`Debian <QGIS-debian-testing>`
-\        :ref:`Ubuntu <QGIS-ubuntu-testing>`
+Linux    :ref:`Debian/Ubuntu <QGIS-debian-testing>`
 MacOS    :ref:`Mac OS <QGIS-macos-testing>`
 ======== =============================================================================
 

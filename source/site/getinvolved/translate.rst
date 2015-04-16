@@ -24,7 +24,7 @@ For finding the current percentage of translation you will either have to
 install the nightly build of QGIS or checkout the source code of QGIS and
 start translating there.
 
-.. _mailinglist-translation:
+.. _mailinglist-translation-gui:
 
 Translators Mailing list
 ........................
@@ -68,7 +68,7 @@ Helping with an existing translation
 ....................................
 
 If you like to help translating QGIS into a your language please assign
-to the :ref:`translators mailing list <mailinglist-translation>` and ask who
+to the :ref:`translators mailing list <mailinglist-translation-gui>` and ask who
 is already working on that language to coordinate and collaborate.
 
 To start QGIS with the appropriate localization, run qgis with the option

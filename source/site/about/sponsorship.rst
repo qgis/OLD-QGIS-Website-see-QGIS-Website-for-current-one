@@ -297,7 +297,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 `Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (04.2011-04.2012)
 
-.. |sogis_s| image:: /static/site/about/images/ibw_bzwm.png
+.. |sogis_s| image:: /static/site/about/images/sogis.gif
    :width: 100 px
 
 .. sogis as image already defined above
@@ -308,8 +308,8 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-11.2012)
 
-.. |sogis_s| image:: /static/site/about/images/ibw_bzwm.png
-   :width: 100 px
+.. |vorarlberg_s| image:: /static/site/about/images/land_f.jpg
+   :width: 150 px
 
 .. land_f image already defined above
 

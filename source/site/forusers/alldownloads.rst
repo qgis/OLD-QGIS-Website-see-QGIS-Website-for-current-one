@@ -100,6 +100,8 @@ adding one of the deb-lines below to your /etc/apt/sources.list file.
 
 We provide multiple lines of packages for several version of Debian and Ubuntu.
 
+.. _QGIS-debian-testing:
+
 Lines of packages:
 
 +-----------------------+------------------------+------------------------+-------------------------------------------+

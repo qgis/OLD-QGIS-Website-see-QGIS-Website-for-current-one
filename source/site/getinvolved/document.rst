@@ -11,7 +11,7 @@ The complete list of documents managed by the QGIS documentation team can be fou
 at www.qgis.org/en/docs/index.html. A list of documenters can be found at 
 https://github.com/qgis/QGIS-Documentation/graphs/contributors.
 
-.. _mailinglist-translation:
+.. _mailinglist-translation-docs:
 
 Documentation Mailing list
 ...........................
@@ -52,10 +52,10 @@ Helping with an existing translation
 ....................................
 
 If you like to help translating an existing QGIS manual into a your language 
-please assign to the :ref:`qgis-community-team mailing list <mailinglist-translation>` 
+please assign to the :ref:`qgis-community-team mailing list <mailinglist-translation-docs>` 
 and ask who is already working on that language to coordinate and collaborate.
 
-.. _howto-translate-gui:
+.. _howto-translate-docs:
 
 HOWTO translate
 ...............
