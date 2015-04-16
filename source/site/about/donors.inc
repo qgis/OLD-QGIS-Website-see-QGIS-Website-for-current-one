@@ -71,6 +71,7 @@
 * Andrea Mazzetti
 * Andrea Peri
 * Andreas Douvalis
+* Andreas Frenzel
 * Andreas Fuchs
 * Andreas Ilias
 * Andreas Neumann
