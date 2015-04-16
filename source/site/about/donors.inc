@@ -17,6 +17,7 @@
 * Agile Geoscience
 * Agustin Graterole
 * Aileen Heal
+* Aimeric Ferlay
 * Airborne Scientific
 * AivlaSoft GmbH
 * Ajosenildo Nunes Da Silva
