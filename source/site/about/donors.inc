@@ -732,6 +732,7 @@
 * Marek Slowinski
 * Maria Antonia Brovelli
 * Maria Chiara Turrini
+* Maria Eugenia Moreira Costa Ferreira
 * Maria Rita Celestini
 * Marina Boschini
 * Marinko Franin
