@@ -1000,6 +1000,7 @@
 * Salvatore Livreri Console
 * Samuel Maurer
 * Sander Huizing
+* Sandra Carolina Lastra Zuluaga
 * Sandra Torres
 * Sarah Cottam
 * Sarah Gregg
