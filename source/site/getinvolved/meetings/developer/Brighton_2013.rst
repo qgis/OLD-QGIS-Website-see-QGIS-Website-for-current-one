@@ -8,7 +8,7 @@ We also want to thank our gold sponsor `ASIA AIR SURVEY <http://www.asiaairsurve
 
 The money from donations was put to very good use funding the travel, accomodation and eating of most of the participants of the developer meeting. We would like to thank the virtual particpants present on IRC, the developer meeting was all the better for having your comments, testing and insights.
 
-.. figure:: https://lh6.googleusercontent.com/-h1AmkqewtPM/UjXHfZ0YmoI/AAAAAAAAAiI/QvK2RhxvQaQ/w898-h601-no/DSC09964.JPG
+.. figure:: Brighton_2013_group_picture.jpg
    :alt: Group picture
    
 Summary of what happened at the hackfest

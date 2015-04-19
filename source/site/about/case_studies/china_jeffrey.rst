@@ -5,7 +5,7 @@ Using QGIS in Afghanistan ...
 I work for a urban planning company in China.  It is often difficult to design proper environmental protection because the common sources of data may be a state secret or may not even exist.  Frequently, we are asked to do designs without proper survey data.   In addition there is usually not enough time for a proper study.  My background is in Urban Planning with a minor in Environmental Science. 
 
 
-.. figure:: ./images/
+.. figure:: ./images/404
    :alt: 
    :scale: 80%
    :align: right
@@ -14,7 +14,7 @@ I work for a urban planning company in China.  It is often difficult to design p
 
 The task was plan a conservation park on the Chinese side of the Ili River which supplies 80% of the water to Lake Balkhash.  FOSS GIS application + FOSS GIS data stores + FOSS GIS education were all critical to reconstruct and model the Hydrological and Ecological processes necessary for authentic conservation planning.  As a non-scientist with no prior training or experience I could not have done it without all three.  My company did not and would not pay to purchase GIS software to run the industry standard arcHYDRO
    
-.. figure:: ./images/
+.. figure:: ./images/404
    :alt: 
    :scale: 90%
    :align: right
@@ -38,7 +38,7 @@ I began using QGIS out of desperation for lack of arcMAP but now I never want to
 Author
 ======
 
-.. figure:: ./images/
+.. figure:: ./images/404
    :alt: Andrew Jeffrey
    :height: 220
    :align: left
