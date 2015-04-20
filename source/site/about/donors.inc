@@ -1086,6 +1086,7 @@
 * Thomas Gunzelmann
 * Thomas Hilger
 * Thomas Klein
+* Thomas Le Berre
 * Thomas Leahy
 * Thomas Papiernik
 * Thomas Richter
