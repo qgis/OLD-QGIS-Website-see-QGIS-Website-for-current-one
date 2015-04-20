@@ -478,6 +478,7 @@
 * Interlink Web Works
 * Irene Weiland
 * Isabelle Didierjean
+* Ivailo Karamanolev
 * Ivan Gaddari
 * Ivan Marchesini
 * Ivan Mincik
