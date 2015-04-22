@@ -742,6 +742,7 @@
 * Marinko Franin
 * Mario Martínez Bueso
 * Mario Martínez González
+* Mario Mureddu
 * Mario Tarantola
 * Mario Tovo
 * Marius Fankhauser
