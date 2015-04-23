@@ -551,6 +551,7 @@
 * Joachim Aurbacher
 * Joachim Me Lücke
 * Joanne Kaye
+* Jochen Weigand
 * Joel Sholtes
 * Joerg Dannenberg
 * Joern Struwe
