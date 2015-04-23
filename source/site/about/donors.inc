@@ -41,6 +41,7 @@
 * Alessandro Sarretta
 * Alessio Buccioli
 * Alex Thomas
+* Alexander King
 * Alexander Von Lünen
 * Alexandre Kurth
 * Alexandre Leroux
