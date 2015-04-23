@@ -1015,6 +1015,7 @@
 * Sascha Langenstein
 * Sascha Picard
 * Saw Min Aung
+* Sayo-art
 * Sean Nickerson
 * Sebastiaan Van De Bunt
 * Sebastian Badowski
