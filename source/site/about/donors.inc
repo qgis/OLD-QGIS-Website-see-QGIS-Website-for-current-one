@@ -176,6 +176,7 @@
 * Carsten Fink
 * Carsten Rymon-lipinski
 * Casper Peter Szilas
+* Casper Szilas
 * Cavan Gates
 * Cedric Pellaton
 * Cesar Oriol Pedrocchi
