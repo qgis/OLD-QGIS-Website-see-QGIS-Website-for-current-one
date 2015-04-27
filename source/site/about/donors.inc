@@ -933,6 +933,7 @@
 * Pierre-yves Hagneré
 * Pietro Blu Giandonato
 * Planetek Italia S.r.l
+* Praveen Bhamidipati
 * Productive Water Services
 * Przemyslaw Ryszka
 * Qinli Huang
