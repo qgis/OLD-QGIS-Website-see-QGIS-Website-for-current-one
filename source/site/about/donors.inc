@@ -1169,6 +1169,7 @@
 * Yven Dickhörner
 * Yves Jacolin
 * Zachary Patterson
+* Ð¡Ð»Ð¸Ð½ÐºÐ¸Ð½ Ð¤Ð¸Ð»Ð¸Ð¿Ð¿
 * Ângela Seixas
 * Иваненко Андрей
 * Коробейников Андрей
