@@ -1055,6 +1055,7 @@
 * Stefan Ziegler
 * Stefano Menegon
 * Steffen Götze
+* Stelios Lamprinos
 * Steph Nelson
 * Stephan Holl
 * Stephane Burgos
@@ -1169,8 +1170,8 @@
 * Yven Dickhörner
 * Yves Jacolin
 * Zachary Patterson
-* Ð¡Ð»Ð¸Ð½ÐºÐ¸Ð½ Ð¤Ð¸Ð»Ð¸Ð¿Ð¿
 * Ângela Seixas
+* Ð¡Ð»Ð¸Ð½ÐºÐ¸Ð½ Ð¤Ð¸Ð»Ð¸Ð¿Ð¿
 * Иваненко Андрей
 * Коробейников Андрей
 * Паршин Александр
