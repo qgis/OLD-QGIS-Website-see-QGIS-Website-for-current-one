@@ -237,6 +237,7 @@
 * Dan Homerick
 * Dan Karran
 * Dan Wilt
+* Daniel Andrade Varela
 * Daniel Buckley
 * Daniel Constable
 * Daniel Marin
