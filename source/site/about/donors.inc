@@ -819,6 +819,7 @@
 * Michel Bollore
 * Michele Beneventi
 * Michele Todaro
+* Mieke Muyllaert
 * Miguel Fernández Astudillo
 * Miguel Iturralde
 * Mike Mccann
