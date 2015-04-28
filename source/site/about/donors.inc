@@ -842,6 +842,7 @@
 * Nathan Saylor
 * Neil Macdonald
 * Neil Ross
+* Nelson Pires
 * Nelson Silva
 * Nic Gellie
 * Niccolo Rigacci
