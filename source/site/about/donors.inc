@@ -263,6 +263,7 @@
 * David Horsey
 * David Hostetler
 * David Leedal
+* David M. Lawrence
 * David Mangold
 * David Sabalete Valenzuela
 * David Squires
