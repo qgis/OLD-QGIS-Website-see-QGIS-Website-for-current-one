@@ -27,6 +27,7 @@
 * Alban Poncet
 * Albert Barrufet Rosinach
 * Albert Steiner
+* Alberto Bernardini
 * Alberto Fraguas
 * Alberto Grava
 * Alberto Vazquez Martin
