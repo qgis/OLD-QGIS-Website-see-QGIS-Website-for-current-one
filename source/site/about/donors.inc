@@ -973,6 +973,7 @@
 * Richard Conolly
 * Richard Duivenvoorde
 * Richard Houghton
+* Richard Jansen
 * Richard Kelaart
 * Richard Males
 * Richard Reese
