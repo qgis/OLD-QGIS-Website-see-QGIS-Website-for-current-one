@@ -286,6 +286,7 @@
 * Didier Genier
 * Dieter Wachsmuth
 * Dimap Sl Felipe Garcia
+* Dimitri Giunchi
 * Dirk Pflugmacher
 * Dmitriy Chubarov
 * Dominique Bornhoeft
