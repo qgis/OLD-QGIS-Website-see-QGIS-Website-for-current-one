@@ -450,6 +450,7 @@
 * Hector Morales Trujillo
 * Hector Orengo
 * Heiko Schmüser
+* Heinrich Johannes Gantenbrink
 * Heinrich Schweizer
 * Heitor Kooji Mello Matsui
 * Helder Garcao
