@@ -26,6 +26,7 @@
 * Alan Fielding
 * Alban Poncet
 * Albert Barrufet Rosinach
+* Albert Harris
 * Albert Steiner
 * Alberto Bernardini
 * Alberto Fraguas
