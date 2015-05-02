@@ -45,14 +45,14 @@ Sponsorships last one year, after which they may be continued with a new
 payment, or allowed to lapse. At or above the following levels a sponsor will
 be designated as being one of the following class:
 
-======== ========== =================
-euros    us dollars sponsorship level
-======== ========== =================
-27,000+  39,000     Platinum Sponsor
-9,000+   13,000     Gold Sponsor
-3,000+   4,300      Silver Sponsor
-500+     700        Bronze Sponsor
-======== ========== =================
+======== =================
+euros    sponsorship level
+======== =================
+27,000+  Platinum Sponsor
+9,000+   Gold Sponsor
+3,000+   Silver Sponsor
+500+     Bronze Sponsor
+======== =================
 
 Donation
 --------
