@@ -1,7 +1,7 @@
 |image0|
 
-Changelog for QGIS 2.0.0
-========================
+Changelog for QGIS 2.0
+======================
 
 .. contents::
    :local:
