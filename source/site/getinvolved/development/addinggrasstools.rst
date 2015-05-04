@@ -4,7 +4,7 @@
 Adding GRASS Tools
 ==================
 
-GRASS modules can be run from QGIS *GRASS Tools* if QGIS was  started from a
+GRASS modules can be run from QGIS *GRASS Tools* if QGIS was started from a
 GRASS shell or if a GRASS mapset was opened from QGIS. The modules work with
 GRASS data only.
 
@@ -37,8 +37,8 @@ Some GRASS modules have too many options which can be confusing for beginners.
 In QGM it is possible to define only some of them and possibly set some default
 values and/or hide some options with certain value. That means that more
 QGIS-GRASS modules can be defined for each GRASS module. For example the module
-r.to.vect was devided into three QGIS-GRASS modules with predefined "feature"
-option.The QGM definition is written in XML format file with extension .qgm,
+r.to.vect was divided into three QGIS-GRASS modules with predefined "feature"
+option. The QGM definition is written in XML format file with extension .qgm,
 one for each QGIS-GRASS module. Configuration files are stored in
 _*qgis/src/plugins/grass/modules*_ directory and installed in
 _*share/qgis/grass/modules*_ directory. The name of the file should start with
@@ -93,7 +93,7 @@ Each qgisgrassmodule tag can contain one or more option tags:
   to define list of GRASS vector categories using QGIS interface. Features (and
   their categories, GRASS feature ID equivalent) can be selected either with
   'Select Features' tool or in the attribute table. The list of categories is
-  updated dynamicaly. Example (v.extract.list.qgm):
+  updated dynamically. Example (v.extract.list.qgm):
 
 ::
 
@@ -125,7 +125,7 @@ Option tag specific attributes
 
     <option key="ainput" typeoption="atype" layeroption="alayer" typemask="area,line" />
 
-  It means that if a layer is selected form combobox of this option the
+  It means that if a layer is selected from combobox of this option the
   _*atype*_ option is automaticaly set to the layer's type, and thus _*atype*_
   does not have to be added at all.
 
@@ -154,9 +154,9 @@ Field tag specific attributes
 Behind the scene
 ----------------
 
-The idea QGIS-GRASS modules implementation is to use maximum informations from
+The idea QGIS-GRASS modules implementation is to use maximum information from
 GMO and only simplify the interface. Here are described some rules how
-informations from GMO are used and in which order if not all of them are defined
+information from GMO are used and in which order if not all of them are defined
 in GMO.
 
 * *label* --- if label attribute is defined in QGM it is used as option label,
@@ -164,7 +164,7 @@ in GMO.
   option description tag is used
 * *tooltip* --- (appeares on mouseover the option) if label is defined (either
   in QGM or GMO) and description is defined in GMO (thus label and description
-  differ) the GMO decription tag is used for tooltip
+  differ) the GMO description tag is used for tooltip
 * *multiple values* label --- if an option is type multiple with defined list of
   possible values (like upload option of v.distance) and description tag is
   defined for value tag in GMO then it is used as checkbox label
@@ -184,12 +184,12 @@ Currently there are supported 3 schemas for the picture:
 
 The name of the picture starts with QGIS-GRASS module name to which is appended
 picture number, for example: v.overlay.and.1.svg, v.overlay.and.2.svg,
-v.overlay.and.3.svg It is possible to combine SVG and PNG pictures.
+v.overlay.and.3.svg. It is possible to combine SVG and PNG pictures.
 
 SVG and PNG pictures can be generated from QGIS using *Map Composer*. The size
 of PNG images should be larger than the expected icon size, because it is
-expected to be later used in automaticaly generated documentation, where
-pictures  will be used in larger size.
+expected to be later used in automatically generated documentation, where
+pictures will be used in larger size.
 
 QGIS GRASS scripts
 ------------------
@@ -217,7 +217,7 @@ Here is an example of a record for r.to.vect.line.qgm module
    </section>
 
 
-For section/module it is possible to specify  GRASS version for which it is valid
+For section/module it is possible to specify GRASS version for which it is valid
 using version_min/version_max attributes:
 
 * *version_min* --- minimum GRASS version for which this section/module is valid
@@ -272,7 +272,7 @@ qgis development mailing list, and list hereafter the modules you think are most
 important to be added.
 
 You should post the name of a new QGIS-GRASS module, the name of the GRASS
-module and  the options which you want to use. For example:
+module and the options which you want to use. For example:
 
 ::
 
