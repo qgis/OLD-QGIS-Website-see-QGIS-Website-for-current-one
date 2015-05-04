@@ -106,6 +106,7 @@ code added into the git code repository.
   * Print composer: Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>
   * PyQGIS: Martin Dobias <wonder.sk[at]gmail.com>
   * Python console: Salvatore Larosa <lrssvtml[at]gmail.com>
+  * Python plugins for QGIS Server: Alessandro Pasotti <elpaso[at]itopen.it>
   * Plugin installer: Borys Jurgiel <info[at]borysjurgiel.pl>
   * OGR, Postgres-, Oracle- provider: Jürgen E. Fischer <jef[at]norbit.de>
   * WMS provider: Jürgen E. Fischer <jef[at]norbit.de>
