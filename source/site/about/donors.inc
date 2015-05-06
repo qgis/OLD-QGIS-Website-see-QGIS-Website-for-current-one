@@ -315,6 +315,7 @@
 * Eclipse Plantation
 * Ecotrust
 * Edilson Oliveira
+* Edoardo Zaccagnini
 * Eileen Divringi
 * Ekiden Concept
 * Elizabeth Gellenbeck
