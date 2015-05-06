@@ -1107,6 +1107,7 @@
 * Thanasis Karathanasis
 * The Ip Voice
 * THEBFL
+* Thiago Carvalho Bayerlein
 * Thibaut Goelff
 * Thierry Gonon
 * Think Green S.n.c.
