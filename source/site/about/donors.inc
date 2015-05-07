@@ -219,6 +219,7 @@
 * Claudia Huertas
 * Claudio Losa Lopez
 * Clemens Raffler
+* Cleverson Machado
 * Clifford Snow
 * Cmi Dr. Daniela Ersch
 * Colin Reckord
