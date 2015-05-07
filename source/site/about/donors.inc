@@ -412,6 +412,7 @@
 * Giovanna Bartoleschi
 * Giovanni Di Piazza
 * Giovanni Fossà
+* Giovanni Manghi
 * Giovanni Pani
 * Giovanni Pecora
 * Giulia Lucangeli
