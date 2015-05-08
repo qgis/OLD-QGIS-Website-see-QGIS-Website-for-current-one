@@ -73,6 +73,15 @@ goes into the project. These sponsors are listed below with our thanks!
 
 ----
 
+|bronze| |gaia3d|
+
+`Gaia3D, Inc. <http://www.gaia3d.com/>`_, S Korea (05.2015-05.2016)
+
+.. |gaia3d| image:: /static/site/about/images/gaia3d.png
+   :width: 64 px
+
+----
+
 |bronze| |windsor|
 
 `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2016)
