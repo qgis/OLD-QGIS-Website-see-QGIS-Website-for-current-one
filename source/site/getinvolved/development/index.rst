@@ -197,8 +197,8 @@ Week Date    Event
 7    20.02   2.8 is released (LTR)
 20   22.05   2.9 freeze begins
 25   26.06   2.10 is released
-38   26.09   2.11 freeze begins
-42   23.01   2.12 is released
+38   26.09   TBD freeze begins
+42   23.10   TBD is released
 ==== ======= =======================
 
 
