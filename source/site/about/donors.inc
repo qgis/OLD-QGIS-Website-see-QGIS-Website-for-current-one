@@ -88,6 +88,7 @@
 * Andrew Rigby
 * Andrew Simmons
 * Andrew Smith
+* Andrew Stroud
 * Andrew Zolnai
 * Andrey Kuvshinov
 * André Barriguinha
