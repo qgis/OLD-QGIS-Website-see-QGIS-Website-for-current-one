@@ -590,6 +590,7 @@
 * John Stalker
 * John Stuart
 * John Trawick
+* John Wood
 * Jonas Svensson
 * Jonathan Clough
 * Jonathan Daisley
