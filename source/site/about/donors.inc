@@ -106,10 +106,10 @@
 * Antonio Baisi
 * Antonio Ceribelli
 * Antonio Locandro Herrera
-* António Figueiredo Monteiro
 * Antonio Muñoz Fernandez
 * Antonio Vitulano
 * AntÃ³nio Viana
+* António Figueiredo Monteiro
 * Aquaphoto
 * Ardhianto Adhi Nugroho
 * Ari T K Ikonen
@@ -795,6 +795,7 @@
 * Matteo Barca
 * Matteo Facchini
 * Matteo Ghetta
+* Matthew Sidor
 * Matthias Bormann
 * Matthias Voigtlaender
 * Matthieu Guitteaud
@@ -1200,10 +1201,10 @@
 * Yves Jacolin
 * Zachary Patterson
 * Ângela Seixas
-* Слинкин Филипп
 * Иваненко Андрей
 * Коробейников Андрей
 * Паршин Александр
+* Слинкин Филипп
 * Трифонова Евгения
 * เฉลิมศักดิ์ ผมพันธ์
 * 吉原 佑
