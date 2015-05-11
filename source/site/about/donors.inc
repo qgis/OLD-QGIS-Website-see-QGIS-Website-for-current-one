@@ -36,7 +36,6 @@
 * Alejandro Ruete
 * Alejandro Schwedhelm
 * Alejandro Zarate Lupercio
-* Alejandro ZÃrate Lupercio
 * Aleks Dushevsky
 * Alessandro Fanna
 * Alessandro Pasotti
@@ -107,7 +106,8 @@
 * Antonio Baisi
 * Antonio Ceribelli
 * Antonio Locandro Herrera
-* Antonio MuÃ±oz Fernandez
+* António Figueiredo Monteiro
+* Antonio Muñoz Fernandez
 * Antonio Vitulano
 * AntÃ³nio Viana
 * Aquaphoto
@@ -414,7 +414,6 @@
 * Giovanna Bartoleschi
 * Giovanni Di Piazza
 * Giovanni Fossà
-* Giovanni Manghi
 * Giovanni Pani
 * Giovanni Pecora
 * Giulia Lucangeli
@@ -527,7 +526,7 @@
 * James Wood
 * Jamie Anderson
 * Jan Buijs
-* Jan LiÅ¡ka
+* Jan Liška
 * Jan Militzer
 * Jan-Willem Aalst
 * Janet Anstee
@@ -645,7 +644,7 @@
 * Kathleen Skead
 * Kathryn Owens
 * Katie Peek
-* Katja EÃer
+* Katja Eßer
 * Katja Schmidt
 * Katrin Tirok
 * Kazantsev Nikolay
@@ -685,7 +684,7 @@
 * Laurent Hoarau
 * Laurent Vidal
 * Lawrence Lass
-* Lech KarÅowicz
+* Lech Karłowicz
 * Lee Wrenn
 * Leif Isaksen
 * Leigh Mellor
@@ -829,7 +828,7 @@
 * Michael Obrien
 * Michael Pedini
 * Michael Schweizer
-* Michal SeÄanskÃ½
+* Michal Sečanský
 * Michał Czepkiewicz
 * Michel Bollore
 * Michele Beneventi
@@ -1201,7 +1200,7 @@
 * Yves Jacolin
 * Zachary Patterson
 * Ângela Seixas
-* Ð¡Ð»Ð¸Ð½ÐºÐ¸Ð½ Ð¤Ð¸Ð»Ð¸Ð¿Ð¿
+* Слинкин Филипп
 * Иваненко Андрей
 * Коробейников Андрей
 * Паршин Александр
