@@ -129,7 +129,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 |bronze| |gis_supp|
 
-`GIS-Support <http://www.gis-support.pl/>`_, Poland (02.2015-02.2016)
+`GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-02.2016)
 
 .. |gis_supp| image:: /static/site/about/images/gis_supp.png
    :width: 64 px
