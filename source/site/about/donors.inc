@@ -185,6 +185,7 @@
 * Cedric Pellaton
 * Cesar Oriol Pedrocchi
 * Chad Otto
+* Changivy Louis-guy
 * Charlton Coles
 * Chartwell Consultants Ltd
 * Chase Sherret
