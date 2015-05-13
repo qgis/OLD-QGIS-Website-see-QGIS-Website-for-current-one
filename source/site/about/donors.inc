@@ -1204,7 +1204,7 @@
 * Yuan-kee Lee
 * Yven Dickhörner
 * Yves Jacolin
-* Za.miastem Sylwia CichociÅska
+* za.miastem Sylwia Cichocińska
 * Zachary Patterson
 * Ângela Seixas
 * Иваненко Андрей
