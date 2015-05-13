@@ -108,7 +108,7 @@
 * Antonio Locandro Herrera
 * Antonio Muñoz Fernandez
 * Antonio Vitulano
-* AntÃ³nio Viana
+* António Viana
 * António Figueiredo Monteiro
 * Aquaphoto
 * Ardhianto Adhi Nugroho
@@ -945,7 +945,7 @@
 * Peter Rosamilia
 * Peter Thuvander
 * Peter Wells
-* Petr BureÅ¡
+* Petr Bureš
 * Phebe Meyers
 * Phil Wyatt
 * Philip Bright
