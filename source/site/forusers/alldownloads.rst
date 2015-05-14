@@ -99,6 +99,12 @@ adding one of the deb-lines below to your /etc/apt/sources.list file.
 
 We provide multiple lines of packages for several version of Debian and Ubuntu.
 
+For Ubuntu we also provide packages that are based on ubuntugis, which holds
+more uptodate versions of other GIS packages than Ubuntu itself. If you want
+those you also need to include ubuntugis ppa in your /etc/apt/sources.list
+file.
+
+
 .. _QGIS-debian-testing:
 
 Lines of packages:
@@ -140,36 +146,38 @@ Lines of packages:
 
 Supported distribution versions:
 
-+---------------+-------------+----------+------------+
-| Distribution  | Version     | Codename | UbuntuGIS? |
-+===============+=============+==========+============+
-| Debian        | 7.x         | wheezy   |            |
-|               +-------------+----------+            |
-|               | 8.x         | jessie   |            |
-|               +-------------+----------+            |
-|               | unstable    | sid      |            |
-+---------------+-------------+----------+------------+
-| Ubuntu        | 14.04 (LTS) | trusty   | yes        |
-|               +-------------+----------+------------+
-|               | 14.10       | utopic   |            |
-|               +-------------+----------+            |
-|               | 15.04       | vivid    |            |
-|               +-------------+----------+------------+
-|               | 12.04 (LTS) | precise  | yes        |
-+---------------+-------------+----------+------------+
++---------------+-------------+----------+-----------------------+
+| Distribution  | Version     | Codename | Also available based  |
+|               |             |          | on ubuntugis          |
+|               |             |          | dependencies?         |
++===============+=============+==========+=======================+
+| Debian        | 7.x         | wheezy   |                       |
+|               +-------------+----------+                       |
+|               | 8.x         | jessie   |                       |
+|               +-------------+----------+                       |
+|               | unstable    | sid      |                       |
++---------------+-------------+----------+-----------------------+
+| Ubuntu        | 14.04 (LTS) | trusty   | yes                   |
+|               +-------------+----------+-----------------------+
+|               | 14.10       | utopic   |                       |
+|               +-------------+----------+                       |
+|               | 15.04       | vivid    |                       |
+|               +-------------+----------+-----------------------+
+|               | 12.04 (LTS) | precise  | yes                   |
++---------------+-------------+----------+-----------------------+
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
 
  deb     *repository* *codename* main
  deb-src *repository* *codename* main
 
-Example latest release for Debian wheezy::
+Example latest release for Debian jessie::
 
- deb     http://qgis.org/debian wheezy main
- deb-src http://qgis.org/debian wheezy main
+ deb     http://qgis.org/debian jessie main
+ deb-src http://qgis.org/debian jessie main
 
-If you want packages based on ubuntugis dependencies you also need to add
-following lines::
+If you use one of our ubuntugis based repositories you also need to add
+following line::
 
  deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu *codename* main
 
