@@ -4,7 +4,7 @@ Supporting QGIS
 ===============
 
 We thank our sponsors and donors who support the QGIS project and enable us to pay
-for our infrastructure and important development work, as well as finance developer 
+for our infrastructure and important development work, as well as finance developer
 meetings and promotion of QGIS in workshops and conferences.
 
 For information on becoming a sponsor, please visit :ref:`QGIS_sponsorship_program`.
@@ -42,194 +42,133 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. Silver sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
-----
+.. list-table:: Silver sponsors
 
-|silver| |opw|
+   * - |silver| |opw|
 
-`Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
+       `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
+   * - |silver| |sourcepole|
+
+       `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2015)
+   * - |silver| |vorarlberg|
+
+       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-03.2015)
 
 .. |opw| image:: /static/site/about/images/opw.jpg
    :width: 150 px
 
-----
-
-|silver| |sourcepole|
-
-`Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2015)
-
 .. |sourcepole| image:: /static/site/about/images/sourcepole.png
-   :width: 150 px
-
-----
-
-|silver| |land_f|
-
-`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-03.2015)
-
-.. |land_f| image:: /static/site/about/images/land_f.jpg
    :width: 150 px
 
 .. Bronze sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
-----
+.. list-table:: Bronze sponsors
 
-|bronze| |gaia3d|
+   * - |bronze| |gaia3d|
 
-`Gaia3D, Inc. <http://www.gaia3d.com/>`_, S Korea (05.2015-05.2016)
+       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2016)
+     - |bronze| |windsor|
+
+       `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2016)
+   * - |bronze| |chartwell|
+
+       `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2016)
+     - |bronze| |tragewegen|
+
+       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2016)
+   * - |bronze| |gfi|
+
+       `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
+     - |bronze| |claasleinert|
+
+       `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2016)
+   * - |bronze| |gis_supp|
+
+       `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-02.2016)
+     - |bronze| |adlares|
+
+       `ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
+   * - |bronze| |molitec|
+
+       `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)
+     - |bronze| |argus|
+
+       `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
+   * - |bronze| |canal|
+
+       `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
+     - |bronze| |avioportolano|
+
+       `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
+   * - |bronze| |wggios|
+
+       `Faculty of Geology, Geophysics and Environmental Protection, AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Poland (11.2014-11.2015)
+     - |bronze| |urbsol|
+
+       `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2015)
+   * - |bronze| |mappinggis|
+
+       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2015)
+     - |bronze| |gis3w|
+
+       `GIS3W <http://www.gis3w.it/>`_, Italy (10.2014-10.2015)
+   * - |bronze| |lutra|
+
+       `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (09.2014-09.2015)
+     - |bronze| |openrunner|
+
+       `www.openrunner.com <http://www.openrunner.com/>`_, France (05.2014-05.2015)
 
 .. |gaia3d| image:: /static/site/about/images/gaia3d.png
    :width: 64 px
 
-----
-
-|bronze| |windsor|
-
-`Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2016)
-
 .. |windsor| image:: /static/site/about/images/windsor.png
    :width: 64 px
-
-----
-
-|bronze| |chartwell|
-
-`Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2016)
 
 .. |chartwell| image:: /static/site/about/images/chartwell.png
    :width: 64 px
 
-----
-
-|bronze| |tragewegen|
-
-`Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2016)
-
 .. |tragewegen| image:: /static/site/about/images/tragewegen.png
    :width: 64 px
-
-----
-
-|bronze| |gfi|
-
-`GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
 
 .. |gfi| image:: /static/site/about/images/gfi.png
    :width: 64 px
 
-----
-
-|bronze| |claasleinert|
-
-`GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2016)
-
 .. |claasleinert| image:: /static/site/about/images/claasleiner.png
    :width: 64 px
-
-----
-
-|bronze| |gis_supp|
-
-`GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-02.2016)
 
 .. |gis_supp| image:: /static/site/about/images/gis_supp.png
    :width: 64 px
 
-----
-
-|bronze| |adlares|
-
-`ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
-
 .. |adlares| image:: /static/site/about/images/adlares.png
    :width: 64 px
-
-----
-
-|bronze| |molitec|
-
-`www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)
 
 .. |molitec| image:: /static/site/about/images/molitec.png
    :width: 64 px
 
-----
-
-|bronze| |argus|
-
-`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
-
 .. |argus| image:: /static/site/about/images/argus.jpg
    :width: 64 px
-
-----
-
-|bronze| |canal|
-
-`Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
 
 .. |canal| image:: /static/site/about/images/canal.png
    :width: 64 px
 
-----
-
-|bronze| |avioportolano|
-
-`Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
-
 .. |avioportolano| image:: /static/site/about/images/avioportolano.png
    :width: 64 px
-
-----
-
-|bronze| |wggios|
-
-`Faculty of Geology, Geophysics and Environmental Protection,
-AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Poland (11.2014-11.2015)
 
 .. |wggios| image:: /static/site/about/images/wggios.png
    :width: 64 px
 
-----
-
-|bronze| |urbsol|
-
-`Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2015)
-
 .. |urbsol| image:: /static/site/about/images/urbsol.png
    :width: 64 px
-
-----
-
-|bronze| |mappinggis|
-
-`MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2015)
 
 .. |mappinggis| image:: /static/site/about/images/mappinggis.png
    :width: 64 px
 
-----
-
-|bronze| |gis3w|
-
-`GIS3W <http://www.gis3w.it/>`_, Italy (10.2014-10.2015)
-
 .. |gis3w| image:: /static/site/about/images/gis3w.png
    :width: 64 px
 
-----
-
-|bronze| |lutra|
-
-`Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (09.2014-09.2015)
-
 .. |lutra| image:: /static/site/about/images/lutra_consulting.png
    :width: 64 px
-
-----
-
-|bronze| |openrunner|
-
-`www.openrunner.com <http://www.openrunner.com/>`_, France (05.2014-05.2015)
 
 .. |openrunner| image:: /static/site/about/images/openrunner.png
    :width: 64 px
@@ -257,103 +196,69 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 ----
 
-|silver| |sogis|
+.. list-table:: Past silver sponsors
 
-`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013)
+  * - |silver| |sogis|
+
+      `Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013 and 04.2011-04.2012)
+  * - |silver| |gaia|
+
+      `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (06.2013-06.2014)
+  * - |silver| |vorarlberg|
+
+      `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-11.2012)
 
 .. |sogis| image:: /static/site/about/images/sogis.gif
    :width: 100 px
 
-----
-
-|silver| |gaia|
-
-`G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (06.2013-06.2014)
-
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 100 px
 
-----
+.. |vorarlberg| image:: /static/site/about/images/land_f.jpg
+   :width: 150 px
 
-|bronze| |fossgisev|
+.. list-table:: Past bronze sponsors
 
-`www.fossgis.de <http://www.fossgis.de/>`_, Germany (08.2012-08.2013)
+  * - |bronze| |fossgisev|
+
+      `www.fossgis.de <http://www.fossgis.de/>`_, Germany (08.2012-08.2013)
+    - |bronze| |geosynergy|
+
+      `www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (05.2012-05.2013)
+  * - |bronze| |ibw_bzwm|
+
+      `ibW Bildungszentrum Wald <http://www.bzwmaienfeld.ch/>`_, Switzerland (03.2012-03.2013)
+    - |bronze| |uster|
+
+      `City of Uster <http://gis.uster.ch/>`_, Switzerland (11.2011-11.2012)
+  * - |bronze| |municipia|
+
+      `Municípia, SA <http://www.municipia.pt/>`_, Portugal (02.2011-02.2012)
+    - |bronze| |gfosservices|
+
+      `Studio Associato Gfosservices <http://www.gfosservices.com/>`_, Italy (02.2010-02.2011)
+  * - |bronze| |nextgis|
+
+      `NextGIS <http://nextgis.org/>`_, Russia (03.2010-03.2011)
+    -
 
 .. |fossgisev| image:: /static/site/about/images/fossgisev.png
    :width: 48 px
 
-----
-
-|bronze| |geosynergy|
-
-`www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (05.2012-05.2013)
-
 .. |geosynergy| image:: /static/site/about/images/geosynergy.jpg
    :width: 48 px
-
-----
-
-|bronze| |ibw_bzwm|
-
-`ibW Bildungszentrum Wald <http://www.bzwmaienfeld.ch/>`_, Switzerland (03.2012-03.2013)
 
 .. |ibw_bzwm| image:: /static/site/about/images/ibw_bzwm.png
    :width: 48 px
 
-----
-
-|silver| |sogis_s|
-
-`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (04.2011-04.2012)
-
-.. |sogis_s| image:: /static/site/about/images/sogis.gif
-   :width: 100 px
-
-.. sogis as image already defined above
-
-----
-
-|silver| |land_f|
-
-`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-11.2012)
-
-.. |vorarlberg_s| image:: /static/site/about/images/land_f.jpg
-   :width: 150 px
-
-.. land_f image already defined above
-
-----
-
-|bronze| |uster|
-
-`City of Uster <http://gis.uster.ch/>`_, Switzerland (11.2011-11.2012)
-
 .. |uster| image:: /static/site/about/images/uster.gif
    :width: 48 px
-
-----
-
-|bronze| |municipia|
-
-`Municípia, SA <http://www.municipia.pt/>`_, Portugal (02.2011-02.2012)
 
 .. |municipia| image:: /static/site/about/images/municipia.jpg
    :width: 48 px
 
-----
-
-|bronze| |gfosservices|
-
-`Studio Associato Gfosservices <http://www.gfosservices.com/>`_, Italy (02.2010-02.2011)
-
 .. |gfosservices| image:: /static/site/about/images/gfosservices.jpg
    :width: 48 px
-
-----
-
-|bronze| |nextgis|
-
-`NextGIS <http://nextgis.org/>`_, Russia (03.2010-03.2011)
 
 .. |nextgis| image:: /static/site/about/images/nextgis.gif
    :width: 48 px
