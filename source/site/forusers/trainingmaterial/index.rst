@@ -25,9 +25,6 @@ English
 The official Training Manual can be found here:
 http://docs.qgis.org/latest/en/docs/training_manual/index.html
 
-Courses from foss4geo:
-http://foss4geo.wordpress.com/gst-101/
-
 Tutorial material, originally developed as part of a workshop for the Ecology and Evolutionary Biology Program at Texas A&M University (produced and maintained by Mike Treglia):
 http://mltconsecol.github.io/QGIS-Tutorial/
 
