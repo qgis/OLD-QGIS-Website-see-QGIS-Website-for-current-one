@@ -52,7 +52,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2015)
    * - |silver| |vorarlberg|
 
-       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-03.2015)
+       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-03.2016)
 
 .. |opw| image:: /static/site/about/images/opw.jpg
    :width: 150 px
