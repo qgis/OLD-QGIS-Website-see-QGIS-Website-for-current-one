@@ -195,7 +195,7 @@ Week Date    Event
 (30  31.10   2.6 was released)
 3    23.01   2.7 freeze begins
 7    20.02   2.8 is released (LTR)
-20   22.05   2.9 freeze begins
+21   26.05   2.9 freeze begins
 25   26.06   2.10 is released
 38   26.09   TBD freeze begins
 42   23.10   TBD is released
