@@ -709,7 +709,7 @@ canvas.
 Feature: Drag and drop form builder
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-QGIS 2.0 sports a great new system for creating data entry forms. With
+QGIS 2.0 supports a great new system for creating data entry forms. With
 the drag and drop form designer you can create smart looking forms with
 tabs to group common fields together. Now it is much easier to control
 the data entry experience for your users.
