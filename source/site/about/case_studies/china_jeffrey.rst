@@ -28,7 +28,7 @@ This network was ranked by r.stream extension in GRASS to build Hortons and Hack
 
 After the basic hydrologic network was finished I used UN FAO soils database with table joins to classify soils.  Then using query functions in QGIS the FAO soils were converted to USDA soils.  A previously downloaded USGS ETM7+ grid was classified with the i.cluser and r.maxlik in GRASS into a NLCD grid.  By using reclassification tables I converted the landcover to Manning's n-value grid for overland flow.  Finally I wrote a lookup table in r.mapcalc and merged the soil and landcover grids into and NRCS TR-55 curve numbers following the arcHYDRO methodolg
 
-To create the rainfall grids I performed statistical analysis on GHCN tables to find rainfall depths for design storms of 1,2,5,10,50,100 year returns. Then I downloaded a free sample grid of PRISM for China and assuming a linear relationship, conveted average cell values to maximum cell values in order to to build maximum rainfall intensity grids.
+To create the rainfall grids I performed statistical analysis on GHCN tables to find rainfall depths for design storms of 1,2,5,10,50,100 year returns. Then I downloaded a free sample grid of PRISM for China and assuming a linear relationship, converted average cell values to maximum cell values in order to build maximum rainfall intensity grids.
 
 Conclusion
 ==========
