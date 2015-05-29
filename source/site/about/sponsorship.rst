@@ -47,17 +47,22 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |opw|
 
        `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
-   * - |silver| |sourcepole|
-
-       `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2015)
-   * - |silver| |vorarlberg|
-
-       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-03.2016)
 
 .. |opw| image:: /static/site/about/images/opw.jpg
    :width: 150 px
 
+   * - |silver| |sourcepole|
+
+       `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2015)
+
 .. |sourcepole| image:: /static/site/about/images/sourcepole.png
+   :width: 150 px
+
+   * - |silver| |vorarlberg|
+
+       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-05.2016)
+
+.. |vorarlberg| image:: /static/site/about/images/land_f.jpg
    :width: 150 px
 
 .. Bronze sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
@@ -204,7 +209,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
   * - |silver| |gaia|
 
       `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (06.2013-06.2014)
-  * - |silver| |vorarlberg|
+  * - |silver| |vorarlberg2|
 
       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-11.2012)
 
@@ -214,8 +219,8 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 100 px
 
-.. |vorarlberg| image:: /static/site/about/images/land_f.jpg
-   :width: 150 px
+.. |vorarlberg2| image:: /static/site/about/images/land_f.jpg
+   :width: 100 px
 
 .. list-table:: Past bronze sponsors
 
