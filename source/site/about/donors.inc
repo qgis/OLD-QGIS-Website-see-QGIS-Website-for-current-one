@@ -1092,168 +1092,168 @@
    * - Sebastian Cionoiu
      - Seif Ali
      - Sergey Khokhlov
-   * - Sergio Maria Remoli
+   * - Sergio Giovannini
+     - Sergio Maria Remoli
      - Servulo Costa
-     - Seth Barker
-   * - Severino Simone Borrini
+   * - Seth Barker
+     - Severino Simone Borrini
      - Shane Moran-kelly
-     - Shapesmart
-   * - Sheng Ye
+   * - Shapesmart
+     - Sheng Ye
      - Sian Grant
-     - Silvia Terziotti
-   * - Silvio Grosso
+   * - Silvia Terziotti
+     - Silvio Grosso
      - Simon Bohnenblust
-     - Simon Harrison
-   * - Simone Bianchi
+   * - Simon Harrison
+     - Simone Bianchi
      - Simone Circosta
-     - Simone Geißler
-   * - Simão Voloch Neto
+   * - Simone Geißler
+     - Simão Voloch Neto
      - Soma Horvath
-     - Song Yutao
-   * - Spencer Gardner
+   * - Song Yutao
+     - Spencer Gardner
      - St. Sultans Trail International
-     - Stefan Eberlein
-   * - Stefan Goen
+   * - Stefan Eberlein
+     - Stefan Goen
      - Stefan Kapeller
-     - Stefan Price
-   * - Stefan Strehlow
+   * - Stefan Price
+     - Stefan Strehlow
      - Stefan Sylla
-     - Stefan Widmer
-   * - Stefan Ziegler
+   * - Stefan Widmer
+     - Stefan Ziegler
      - Stefania Demurtas
-     - Stefano Menegon
-   * - Steffen Götze
+   * - Stefano Menegon
+     - Steffen Götze
      - Stelios Lamprinos
-     - Steph Nelson
-   * - Stephan Holl
+   * - Steph Nelson
+     - Stephan Holl
      - Stephane Burgos
-     - Stephen Frank
-   * - Stephen Hoskins
+   * - Stephen Frank
+     - Stephen Hoskins
      - Stephen Madama
-     - Stephen Scott
-   * - Stephen Siedo
+   * - Stephen Scott
+     - Stephen Siedo
      - Stephen Titchenal
-     - Steve Lewis
-   * - Steve Ostaseski
+   * - Steve Lewis
+     - Steve Ostaseski
      - Steve Weeks
-     - Steven Feldman
-   * - Sti Sas Di Meo
+   * - Steven Feldman
+     - Sti Sas Di Meo
      - Stig Malmose
-     - Stuart Anderson
-   * - Susan Berry
+   * - Stuart Anderson
+     - Susan Berry
      - Susan M Carlson
-     - Susan V Cousineau
-   * - Swampthing Environmental Inc.
+   * - Susan V Cousineau
+     - Swampthing Environmental Inc.
      - Sã©bastien Lorge
-     - Sébastien Gombault
-   * - Tad Robinette
+   * - Sébastien Gombault
+     - Tad Robinette
      - Tam Nguyen Van
-     - Tamarind Media Limited
-   * - Tanja Wolf
+   * - Tamarind Media Limited
+     - Tanja Wolf
      - Tanya Haddad
-     - Tee Kok Keong
-   * - Tereza Kutišová
+   * - Tee Kok Keong
+     - Tereza Kutišová
      - Terran Imaging Pty Ltd
-     - Test Gurus
-   * - Thaddäus Schneider
+   * - Test Gurus
+     - Thaddäus Schneider
      - Thanasis Karathanasis
-     - The Ip Voice
-   * - THEBFL
+   * - The Ip Voice
+     - THEBFL
      - Thiago Carvalho Bayerlein
-     - Thibaut Goelff
-   * - Thierry Gonon
+   * - Thibaut Goelff
+     - Thierry Gonon
      - Think Green S.n.c.
-     - Thinus Glitz
-   * - Thomas Blake
+   * - Thinus Glitz
+     - Thomas Blake
      - Thomas Dunz
-     - Thomas Engleder
-   * - Thomas Frohberg
+   * - Thomas Engleder
+     - Thomas Frohberg
      - Thomas Gunzelmann
-     - Thomas Hilger
-   * - Thomas Klein
+   * - Thomas Hilger
+     - Thomas Klein
      - Thomas Le Berre
-     - Thomas Leahy
-   * - Thomas Papiernik
+   * - Thomas Leahy
+     - Thomas Papiernik
      - Thomas Richter
-     - Thomas Vieira
-   * - Thorpong Kungsworn
+   * - Thomas Vieira
+     - Thorpong Kungsworn
      - Tim Baggett
-     - Tim Gould
-   * - Tine Ningal
+   * - Tim Gould
+     - Tine Ningal
      - Tishampati Dhar
-     - Toby Wilkinson
-   * - Tom Morrison
+   * - Toby Wilkinson
+     - Tom Morrison
      - Tomas Trojacek
-     - Tommaso Gavazza
-   * - Tony MacLeod
+   * - Tommaso Gavazza
+     - Tony MacLeod
      - Tor Mikalsen
-     - Tore Pedersen
-   * - Torsten Christensen
+   * - Tore Pedersen
+     - Torsten Christensen
      - Travis Hammond
-     - Treechai Anuwongjaroen
-   * - Trine Dale
+   * - Treechai Anuwongjaroen
+     - Trine Dale
      - Tyler Mitchell
-     - Udo Lenz
-   * - Ujaval Gandhi
+   * - Udo Lenz
+     - Ujaval Gandhi
      - Ukrainskiy Pavel
-     - Ulf Rahmel
-   * - Ulrich Kulle
+   * - Ulf Rahmel
+     - Ulrich Kulle
      - Ulrich Steinrücken
-     - Ulrich Von Wulffen
-   * - Ulrike Sommer
+   * - Ulrich Von Wulffen
+     - Ulrike Sommer
      - Umberto Zulian
-     - Urban Modelling Solutions N A Matthew
-   * - Uros Bernik
+   * - Urban Modelling Solutions N A Matthew
+     - Uros Bernik
      - Ursula Baaser
-     - Ute Twer
-   * - Valeria Zusi
+   * - Ute Twer
+     - Valeria Zusi
      - Valerio Franchino
-     - Victor Saldaña
-   * - Vincent Mercier
+   * - Victor Saldaña
+     - Vincent Mercier
      - Vincent Prioul
-     - Vincent Verweij
-   * - Vincenzo Lomurno
+   * - Vincent Verweij
+     - Vincenzo Lomurno
      - Vincenzo Sale
-     - Vital J Pinheiro Jr J Pinheiro Jr
-   * - Vito Latorraca
+   * - Vital J Pinheiro Jr J Pinheiro Jr
+     - Vito Latorraca
      - Vitor Pereira
-     - Vittorio Dell'Aquila
-   * - Vladimir Vrabel
+   * - Vittorio Dell'Aquila
+     - Vladimir Vrabel
      - Volker Römer
-     - Voyages à Vélo
-   * - Walter Dellisanti
+   * - Voyages à Vélo
+     - Walter Dellisanti
      - Walter Hesse
-     - Wasin Bukaew
-   * - Wayne Bulmer
+   * - Wasin Bukaew
+     - Wayne Bulmer
      - Wendelin Schmit
-     - Wendell Rodrigues Feliciano
-   * - Werner Hentschel
+   * - Wendell Rodrigues Feliciano
+     - Werner Hentschel
      - Werner Macho
-     - Wilker De Jesus Silva
-   * - William Carleton
+   * - Wilker De Jesus Silva
+     - William Carleton
      - William Colson
-     - William Jesdale
-   * - William Levering
+   * - William Jesdale
+     - William Levering
      - William Pallies
-     - Wolfgang Dennhöfer
-   * - Wolfgang Scheffler
+   * - Wolfgang Dennhöfer
+     - Wolfgang Scheffler
      - Wolfgang Stoessel
-     - Xabier Albizu Zabala
-   * - Xuejing Zuo
+   * - Xabier Albizu Zabala
+     - Xuejing Zuo
      - Yann Lepage
-     - Yuan Harng Lee
-   * - Yuan-kee Lee
+   * - Yuan Harng Lee
+     - Yuan-kee Lee
      - Yven Dickhörner
-     - Yves Jacolin
-   * - za.miastem Sylwia Cichocińska
+   * - Yves Jacolin
+     - za.miastem Sylwia Cichocińska
      - Zachary Patterson
-     - Ângela Seixas
-   * - Иваненко Андрей
+   * - Ângela Seixas
+     - Иваненко Андрей
      - Коробейников Андрей
-     - Паршин Александр
-   * - Слинкин Филипп
+   * - Паршин Александр
+     - Слинкин Филипп
      - Трифонова Евгения
-     - เฉลิมศักดิ์ ผมพันธ์
-   * - 吉原 佑
+   * - เฉลิมศักดิ์ ผมพันธ์
+     - 吉原 佑
      - 田中 創平
-     -
