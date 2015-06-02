@@ -45,11 +45,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |vorarlberg|
 
        `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-05.2016)
-
      - |silver| |opw|
 
        `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
-
    * - |silver| |sourcepole|
 
        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2015)
