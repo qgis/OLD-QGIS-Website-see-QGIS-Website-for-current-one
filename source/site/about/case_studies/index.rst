@@ -27,6 +27,8 @@ List of Case Studies
     :maxdepth: 1
 
     [2015/03] QGIS geoprocessing model to simplify first level seismic microzonation analysis by Giuseppe Cosentino and Francesco Pennica <italy_rome>
+    [2015/02] Using the processing toolbox to automate snow classification by Andrew Jeffrey <australia_snowyhydro>
+    [2015/02] Producing an arcHYDRO like output with QGIS by Robert <china_hydro>
 
 2014
 ....
