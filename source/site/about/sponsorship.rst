@@ -30,14 +30,6 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. Gold sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
-|gold|
-|aas_long|
-
-`ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, Japan (11.2012-10.2015)
-
-.. |aas_long| image:: /static/site/about/images/aas_long.png
-   :width: 300 px
-
 .. Silver sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
 .. list-table:: Silver sponsors
@@ -196,6 +188,14 @@ Also `OSGeo <http://www.osgeo.org/>`_ is partly supporting our HackFests: 2012.1
 in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 ----
+
+|gold|
+|aas_long|
+
+`ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, Japan (11.2012-10.2015)
+
+.. |aas_long| image:: /static/site/about/images/aas_long.png
+   :width: 150 px
 
 .. list-table:: Past silver sponsors
 
