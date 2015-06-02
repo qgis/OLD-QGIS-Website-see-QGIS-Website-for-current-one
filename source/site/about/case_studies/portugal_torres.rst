@@ -55,7 +55,7 @@ Author
 ======
 
 .. figure:: ./images/portugal_torresaut.png
-   :alt: Nathan Woodrow
+   :alt: André Mano
    :height: 200
    :align: left
 
