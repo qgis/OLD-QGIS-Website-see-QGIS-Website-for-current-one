@@ -19,7 +19,6 @@ For information on becoming a sponsor, please visit :ref:`QGIS_sponsorship_progr
 .. |gold| image:: /static/site/about/images/gold.png
    :width: 100 px
 
-
 .. _list_of_sponsors:
 
 List of current sponsors
@@ -28,7 +27,6 @@ List of current sponsors
 Annually we also receive support from various organisations who appreciate the
 work we do and would like to facilitate the sustained development effort that
 goes into the project. These sponsors are listed below with our thanks!
-
 
 .. Gold sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
@@ -44,23 +42,23 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
-   * - |silver| |opw|
+   * - |silver| |vorarlberg|
+
+       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-05.2016)
+
+     - |silver| |opw|
 
        `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
-
-.. |opw| image:: /static/site/about/images/opw.jpg
-   :width: 150 px
 
    * - |silver| |sourcepole|
 
        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2015)
 
-.. |sourcepole| image:: /static/site/about/images/sourcepole.png
+.. |opw| image:: /static/site/about/images/opw.jpg
    :width: 150 px
 
-   * - |silver| |vorarlberg|
-
-       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-05.2016)
+.. |sourcepole| image:: /static/site/about/images/sourcepole.png
+   :width: 150 px
 
 .. |vorarlberg| image:: /static/site/about/images/land_f.jpg
    :width: 150 px
