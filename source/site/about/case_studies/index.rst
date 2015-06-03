@@ -29,7 +29,7 @@ List of Case Studies
     [2015/04] Water Observation and Information System: Enabling the Use of Earth Observation Data for Integrated Water Resource Management in Africa by Radoslaw Guzinski <africa_tiger>
     [2015/03] QGIS geoprocessing model to simplify first level seismic microzonation analysis by Giuseppe Cosentino and Francesco Pennica <italy_rome>
     [2015/02] Using the processing toolbox to automate snow classification by Andrew Jeffrey <australia_snowyhydro>
-    [2015/02] Producing an arcHYDRO like output with QGIS by Robert <china_hydro>
+    [2015/02] Producing an arcHYDRO like output with QGIS by Robert Ward <china_hydro>
 
 2014
 ....
