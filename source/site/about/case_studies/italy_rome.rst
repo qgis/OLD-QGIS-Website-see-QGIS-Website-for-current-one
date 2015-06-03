@@ -40,7 +40,7 @@ The scope of this work is to contribute to the creation of a methodology for pro
 
 The Graphical Modeler tool integrated in the latest version of QGIS (2.8.1 as of writing) has been used for the creation of a simple geoprocessing model. This tool is useful to automate one of the analysis commonly performed for the creation of level 1 seismic microzonation maps, in particular to identify unstable zones as polygon features.
 
-The model makes use of different open source software and libraries (GRASS1, GDAL2, QGIS), demonstrating the usefulness of QGIS as a simplified and unified interface for heterogeneous GFOSS (Geospatial Free and Open Source Software) tools (Fig. 1).
+The model makes use of different open source software and libraries (GRASS, GDAL, QGIS), demonstrating the usefulness of QGIS as a simplified and unified interface for heterogeneous GFOSS (Geospatial Free and Open Source Software) tools (Fig. 1).
 
 .. figure:: ./images/italy_igag1.png
    :alt: Geoprocessing model
