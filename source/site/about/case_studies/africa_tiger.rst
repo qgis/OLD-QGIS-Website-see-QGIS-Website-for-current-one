@@ -23,7 +23,7 @@ A key advantage of the Processing Toolbox is the ability to seamlessly use funct
 
 The operational and practical use of the WOIS to support integrated water resource management in Africa has been demonstrated via a series of user specific demonstration cases covering a wide range of themes and information products. These include: lake water quality; flood monitoring; land degradation and land cover characterization; water bodies mapping and hydrological modelling. The demonstration cases have several stages. First, customized end-to-end processing workflows are developed for the requested products and applications. Those workflows are subsequently used for product derivation over significant areas and time periods as requested by the users. In the final step, the workflows (i.e. their stability/performance and ease of use) as well as the product outcomes are being evaluated in close dialogue with the users.
 
-.. figure:: ./images/africa_tiger1.jpg
+.. figure:: ./images/africa_tiger2.jpg
    :alt: Sentinel-1 flood monitoring of Caprivi flood plain, Namibia.
    :scale: 600
    :align: center
