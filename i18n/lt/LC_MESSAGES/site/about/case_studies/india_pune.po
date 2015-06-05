@@ -1,0 +1,182 @@
+# 
+# Translators:
+# Tomas Straupis, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-07 15:40+0200\n"
+"PO-Revision-Date: 2015-02-08 18:27+0000\n"
+"Last-Translator: Tomas Straupis\n"
+"Language-Team: Lithuanian (http://www.transifex.com/projects/p/qgis-website/language/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: ../../source/site/about/case_studies/india_pune.rst:3
+msgid ""
+"Use of python console to prepare offline map from WMS (tile downloader)"
+msgstr "Python'o konsolės naudojimas ruošiant be prisijungimo veikiantį žemėlapį iš WMS (kaladėlių atsiuntimas)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:10
+msgid "Use of QGIS"
+msgstr "QGIS naudojimas"
+
+#: ../../source/site/about/case_studies/india_pune.rst:12
+msgid ""
+"QGIS provides a tool to connect/access any WMS service. WMS connection is "
+"based on simple URL and once connection is established map can be seen on "
+"QGIS mapview. If we save the map of visible extent from QGIS mapview as jpg "
+"(File > Save as Image) it creates world file which has the geographic "
+"coordinate information of particular region E.g. sample.jpg is the map and "
+"sample.jpgw have the coordinates. That means the downloaded image is "
+"georeferenced. We can download tiles in grid format manually and use later "
+"offline. Manual downloading is possible if the area is very small or low "
+"resolution images are fine."
+msgstr "QGIS turi priemones, leidžiančias prisijungti/prieiti prie bet kokios WMS paslaugos. WMS jungties pagrindas - paprastas URL ir iš karto po prisijungimo QGIS vaizde galima matyti žemėlapį. Jei įrašome QGIS matomo vaizdo žemėlapį kaip jpg (projektas->įrašyti kaip piešinį), bus sukurtas pasaulio failas, turintis konkretaus regiono geografinių koordinačių informaciją. Pavyzdžiui faile pavyzdys.jpg bus žemėlapis, o faile pavyzdys.jpgw bus koordinatės. Tai reiškia, kad atsiųstas vaizdas yra geografiškai pririštas. Mes galime rankomis atsisiųsti kaladėles tinklelio formatu ir vėliau naudoti jas be interneto. Galima siųsti rankomis, jei plotas yra nedidelis arba tinka žemos rezoliucijos piešiniai."
+
+#: ../../source/site/about/case_studies/india_pune.rst:19
+msgid "QGIS with WMS tiles"
+msgstr "QGIS su WMS kaladėlėmis"
+
+#: ../../source/site/about/case_studies/india_pune.rst:23
+msgid "Python Console"
+msgstr "Python'o konsolė"
+
+#: ../../source/site/about/case_studies/india_pune.rst:25
+msgid ""
+"A short script was written in “Python Console” with help available on QGIS "
+"official website in PyQGIS Developer Cookbook. Script consists of basically "
+"4 components as following,"
+msgstr "„Python'o konsolėje“ buvo parašytas trumpas scenarijus, o jo aprašymą galima rasti oficialioje QGIS svetainėje PyQGIS Kūrėjo receptuose. Scenarijus sudarytas iš 4 toliau išvardintų dalių:"
+
+#: ../../source/site/about/case_studies/india_pune.rst:27
+msgid "X,Y coordinate (top left and bottom right) of first tile"
+msgstr "Pirmos kaladėlės X,Y koordinatė (viršutinis kairys ir apatinis dešinys kampai)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:28
+msgid "Size of tile to be downloaded (e.g. 0.001 X 0.001 degrees)"
+msgstr "Atsiunčiamos kaladėlės dydis (pvz. 0.001 X 0.001 laipsnių)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:29
+msgid ""
+"No of tiles to download (calculated based on full extent of map and size of "
+"tile)"
+msgstr "Atsiunčiamų kaladėlių skaičius (paskaičiuojamas pagal pilną žemėlapio apimtį ir kaladėlės dydį)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:30
+msgid "Output directory to store the output tiles/files"
+msgstr "Išvesties aplankas, į kurį įrašomos kaladėlės/failai"
+
+#: ../../source/site/about/case_studies/india_pune.rst:32
+msgid ""
+"The script works in two simple for loops first which defines the extent of "
+"map in QGIS map view and run row/columns. Once the map extent is set then "
+"map is loaded in QGIS. The delay of 3 seconds (depends on internet "
+"connection) was introduced before saving map as jpg in user defined "
+"directory. Once the script is executed all the tiles created in directory "
+"can be directly loaded in QGIS or single mosaic is prepared from Raster > "
+"Miscellaneous > Merge or Build Virtual Raster (Catalog). Both tools "
+"generates mosaic but basic difference in Merge creates an image independent "
+"of tiles whereas Virtual raster generates a link in all individual tiles "
+"(tiles are required)."
+msgstr "Scenarijuje dirba du paprasti ciklai, pirmas kurių nustato žemėlapio apimtį QGIS rodinyje ir vykdo eilutes/stulpelius. Nustačius žemėlapio apimtį, žemėlapis įkeliamas į QGIS. Prieš įrašant žemėlapį kaip jpg į naudotojo nurodytą aplanką pridėtas 3 sekundžių uždelsimas (priklausomai nuo interneto jungties). Po scenarijaus įvykdymo visos kaladėlės, sukurtos aplanke, gali būti tiesiogiai įkeltos į QGIS arba viena mozaika yra paruošiame iš Rastras -> Įvairūs -> Sulieti arba kurti virtualų rastrą (katalogas). Abu įrankiai sukuria mozaiką, bet pagrindinis skirtumas tame, kad suliejimas sukuria paveikslą, nepriklausantį nuo kaladėlių, o virtualus rastras sukuria nuorodą į visas konkrečias kaladėles (kaladėlės reikalingos)."
+
+#: ../../source/site/about/case_studies/india_pune.rst:40
+msgid "Python script and directory where tiles are stored"
+msgstr "Python'o scenarijus ir aplankas, į kurį įrašytos kaladėlės."
+
+#: ../../source/site/about/case_studies/india_pune.rst:42
+msgid ""
+"The method has limitation that, changes in map at server end will not "
+"reflect in offline (downloaded map). In this case user will have to repeat "
+"the process and generate new offline map. Second limitation is the offline "
+"map created will be image format; it cannot be used for thematic mapping or "
+"image classification. With some extra efforts some landuse maps can be "
+"converted to vector with some data loss."
+msgstr "Šio metodo apribojimas tas, kad žemėlapiui pasikeitus serveryje, pakeitimai nesimatys atsisiųstoje versijoje (be prisijungimo prie interneto). Tokiu atveju naudotojas turės pakartoti procesą` ir sukurti/atsisiųsti naują žemėlapį. Antras apribojimas - sukurtas ne internetinis žemėlapis bus piešinių formato, tai reiškia, kad jo negalima bus naudoti tematiniams žemėlapiams ar klasifikacijai. Pridėjus šiek tiek papildomų pastangų kai kuriuos žemėnaudos žemėlapius galima konvertuoti į vektorinius žemėlapius prarandant šiek tiek duomenų."
+
+#: ../../source/site/about/case_studies/india_pune.rst:45
+msgid "Scope"
+msgstr "Apimtis"
+
+#: ../../source/site/about/case_studies/india_pune.rst:47
+msgid ""
+"The generated mosaic is pure image even if it is downloaded from thematic "
+"map (7-8 color). Using advance tool like reclassification, layer/band "
+"stacking this raster can be converted to polygon vector. WMS has several "
+"requests such as getcapabilities, getmap, getfeatureinfo etc. Using the "
+"getgeatureinfo attribute information for each polygon can be retrieved. The "
+"script can be converted to plugin so that anyone without scripting knowledge"
+" will be able to use the script."
+msgstr "Sukurta mozaika yra grynas paveikslas, net jei ji atsiųsta iš tematinio žemėlapio (7-8 spalvų). Naudojant sudėtingesnį įrankį, tokį kaip perklasifikavimas, sluoksnių/juostų sukrovimas, šį rastrą galima konvertuoti į poligonų vektorius. WMS turi kelias užklausas, tokias kaip getcapabilities, getpam, getfeatureinfo ir pan. Naudojant getfeatureinfo galima gauti kiekvieno poligono atributų informaciją. Scenarijus gali būti konvertuotas į priedą, kad net tie, kas neturi scenarijų žinių, galėtų jį naudoti."
+
+#: ../../source/site/about/case_studies/india_pune.rst:50
+msgid "Conclusion"
+msgstr "Išvada"
+
+#: ../../source/site/about/case_studies/india_pune.rst:52
+msgid ""
+"The above experiences shows that QGIS can be used at any advanced level. "
+"With basic programming skills one can write a small script or a plug-in to "
+"improve the quality of work and save time. Within QGIS, access to a "
+"repository of plug-ins developed worldwide is the best of QGIS. The PyQGIS "
+"Developer Cookbook is a great resource to write a script and raster data "
+"processing is much easy now with help of GDAL tools."
+msgstr "Aukščiau pateiktas pavyzdys rodo, kad QGIS galima naudoti bet kokio sudėtingumo lygmenyje. Turint bazines programavimo žinias bet kas gali parašyti nedidelį scenarijų arba priedą, kuris keltų darbo kokybę ir taupytų laiką. QGIS viena geriausių pusių - priėjimas prie viso pasaulio programuotojų sukurtų priedų skirtų QGIS. PyQGIS programuotojo receptai - puiki medžiaga rašant scenarijų, o rastro duomenų apdorojimas dabar daug paprastesnis, kai naudojami GDAL įrankiai."
+
+#: ../../source/site/about/case_studies/india_pune.rst:55
+msgid "Authors"
+msgstr "Autoriai"
+
+#: ../../source/site/about/case_studies/india_pune.rst:57
+msgid ""
+"This article was contributed May 2014 by Prashant Kadgi, based in Pune "
+"(India) and currently works as consultant in GIS APP Consultancy Services. "
+"Since 2009 he is using GIS & RS in NRM, forestry, e-governance, software "
+"development projects in different regions of India and the world."
+msgstr "Šį straipsnį 2014 gegužę parašė Prashant Kadgi, gyvenantis Pune (Indija) ir šiuo metu dirbantis konsultantu GIS APP Consultancy Services. Nuo 2009 jis naudoja GIS ir RS NRM, miškų, e-valdymo, programinės įrangos kūrimo projektuose skirtinguose Indijos regionuose ir likusiame pasaulyje."
+
+#: ../../source/site/about/case_studies/india_pune.rst:59
+msgid "Contact: kadgiprashant@gmail.com"
+msgstr "Kontaktai: kadgiprashant@gmail.com"
+
+#: ../../source/site/about/case_studies/india_pune.rst:60
+msgid "Website www.gisappco.com (under construction)"
+msgstr "Svetainė www.gisappco.com (kuriama)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:5
+msgid ""
+"This study explains how to prepare offline maps from WMS/WFS or any map "
+"loaded in QGIS map view by downloading tiles with the help of a script in "
+"python console. The skript also generates a mosaic of all tiles for further "
+"use."
+msgstr "Ši studija paaiškina, kaip paruošti be interneto veikiantį žemėlapį iš WMS/WFS arba bet kokio žemėlapio, įkelto į QGIS rodinį, atsiunčiant kaladėles python'o konsolės scenarijumi. Scenarijus taipogi sukuria visų kaladėlių mozaiką, kurią galima naudoti vėliau."
+
+#: ../../source/site/about/case_studies/india_pune.rst:7
+msgid ""
+"Accessing raster/vector maps through Web Mapping Service (WMS) service is "
+"very common and efficient. It has several advantages such as security, "
+"centralized and flexible map styles. Example is Google maps, Yahoo, Bing, "
+"MODIS, Landsat, maps published by NASA, NRSC (India). The "
+"disadvantage/limitation of WMS is it works via internet or intranet. It may "
+"not be possible to get internet connection always especially in the field "
+"during survey. Also WMS works slow, compared to any offline image format "
+"such as GeoTiff, jpg, img etc."
+msgstr "Prieiga prie žemėlapių per Web Mapping Service (WMS) paslaugas labai populiari ir efektyvi. Jos pranašumai yra saugumas, centralizuoti ir lankstūs žemėlapių stiliai. Šių paslaugų pavyzdžiai yra Google žemėlapiai, Yahoo, Bing, MODIS, Landsat, NASA publikuojami žemėlapiai, NRSC (Indija). WMS apribojimas yra tai, kad jis veikia tik prisijungus prie interneto ar intraneto. Deja internetas ne visur pasiekiamas, ypač vykdant apžiūras lauke. Taipogi WMS yra lėtas, lyginant su kitais ne internetinių vaizdų formatais, tokiais kaip GeoTiff, jpg, img ir pan."
+
+#~ msgid ""
+#~ "This study explains how to prepare offline maps from WMS/WFS or any map "
+#~ "loaded in QGIS map view by downloading tiles with the help of a script in "
+#~ "python console. The skript also generates a mosaic of all tiles for further "
+#~ "use. Accessing raster/vector maps through Web Mapping Service (WMS) service "
+#~ "is very common and efficient. It has several advantages such as security, "
+#~ "centralized and flexible map styles. Example is Google maps, Yahoo, Bing, "
+#~ "MODIS, Landsat, maps published by NASA, NRSC (India). The "
+#~ "disadvantage/limitation of WMS is it works via internet or intranet. It may "
+#~ "not be possible to get internet connection always especially in the field "
+#~ "during survey. Also WMS works slow, compared to any offline image format "
+#~ "such as GeoTiff, jpg, img etc."
+#~ msgstr ""
