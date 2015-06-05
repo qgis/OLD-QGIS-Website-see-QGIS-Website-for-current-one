@@ -1233,7 +1233,7 @@
    * - Walter Hesse
      - Wasin Bukaew
      - Wayne Bulmer
-   * - Wendelin Schmit
+   * - Wendelin Schmitt
      - Wendell Rodrigues Feliciano
      - Werner Hentschel
    * - Werner Macho
@@ -1264,5 +1264,44 @@
      - เฉลิมศักดิ์ ผมพันธ์
      - 吉原 佑
    * - 田中 創平
-     -
-     -
+     - Paul Tjard Fremer
+     - Juan Ignacio Ferreiro Prieto
+   * - Richard Graf
+     - Bassi Elena
+     - Jörg Detlef Benkenstein
+   * - Julia Günzel
+     - Hannu Tapani Huikkola
+     - Gertec GmbH
+   * - Julia Günzel
+     - Southeast Engineering
+     - Martin Dotzauer
+   * - Anne Meillet
+     - Mihaly Csoto
+     - Gabriele und Gustav Herzog
+   * - Swiss QGIS usergroup
+     - Delaite et Ramaekers
+     - Nicolas Fabian Schoof
+   * - Achim Baldus Benet
+     - Dominik Wiehl
+     - Laura Sutcliffe
+   * - Informus GmbH
+     - Ecologisch Adviesbureau B. Kruijsen
+     - Jaak-Albert Metsoja
+   * - Dan Erik Vesterback
+     - Midvatten AB
+     - Leonardi Ugo
+   * - Lutz Vetter, Prof. Dr.
+     - Walter di Lorenzetti (GIS3W)
+     - Avioportolano
+   * - Stephane Felder
+     - Maria Felder-Korshunova
+     - Pier Francesco Costantini
+   * - Corinna Friedrich
+     - Klaus Baumgardt, Dr.
+     - ASOC Universitaria Grupo de Program
+   * - Xhaustless B V B A
+     - Elise Kaiser
+     - Mori Matjaz
+   * - Xhaustless B V B A
+     - HG Büro für Hydrogeologie u. Umwelt Giessen
+     - Yahya Mohatar Abderrahman
