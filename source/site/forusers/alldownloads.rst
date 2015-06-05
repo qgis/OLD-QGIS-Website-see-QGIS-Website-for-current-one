@@ -366,8 +366,20 @@ Note the warning_.
 Android
 =======
 
-Alpha and nightly builds as well as further documentation can be obtained at
-http://hub.qgis.org/android-qgis/Download/
+There is an experimental version available on google play store.
+
+https://play.google.com/store/apps/details?id=org.qgis.qgis
+
+.. warning::
+   There is currently no support for Android 5. Best support is given for
+   Android 4.3 and 4.4.x.
+   This is a direct port of the QGIS desktop application. It is only slightly
+   optimized for touch devices and therefore needs to be carefully evaluated
+   for its suitability in day-to-day use. There are other apps available which
+   are designed and optimized specifically for touch devices.
+
+QGIS Testing warning
+====================
 
 .. _warning:
 
