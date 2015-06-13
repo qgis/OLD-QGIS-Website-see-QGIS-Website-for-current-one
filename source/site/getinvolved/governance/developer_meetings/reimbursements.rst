@@ -14,7 +14,7 @@ financially supporting their visit to the meeting directly.
 Need a refund for QGIS HF expenses?
 ---------------------------------------------
 
-1.If you are a contributor to the project (to either code, documentation, translation, or infrastructure), you think your participation to the HF will be useful for the project, and you do not have funds to cover for travelling and lodging, you can apply for refund, at least 40 days in advance
+1. If you are a contributor to the project (to either code, documentation, translation, or infrastructure), you think your participation to the HF will be useful for the project, and you do not have funds to cover for travelling and lodging, you can apply for refund, at least 40 days in advance
 2. When applying, please let us know (i) an estimate of the total amount required, and (ii) how your participation will contribute to QGIS
 3. Later applications (<40 days) will be taken into account, based on the budget available and the priorities of the PSC
 4. Please note that our funds are limited, so we'll generally not be able to refund all participants
@@ -25,10 +25,10 @@ Need a refund for QGIS HF expenses?
 In case of doubt
 ---------------------------------------------------------
 
-* The project steering committee shall provide arbitration for any query,
-  complaint or appeal relating to funding requests by individual developers. In
-  the event that the PSC is called apon to arbitrate, a resolution shall be
-  proposed and the PSC members shall vote using the -1 / 0 / +1 system to
-  indicate dissent, indifference and assent respectively. In the event of a
-  tie-break, the PSC Chairman shall make the final decision. The devision made
-  by the PSC shall be final.
+The project steering committee shall provide arbitration for any query,
+complaint or appeal relating to funding requests by individual developers. In
+the event that the PSC is called apon to arbitrate, a resolution shall be
+proposed and the PSC members shall vote using the -1 / 0 / +1 system to
+indicate dissent, indifference and assent respectively. In the event of a
+tie-break, the PSC Chairman shall make the final decision. The decision made
+by the PSC shall be final.
