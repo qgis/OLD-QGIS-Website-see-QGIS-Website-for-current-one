@@ -1035,285 +1035,288 @@
    * - Philippe Blanc
      - Philippe Crist
      - Philippe Mazure
-   * - Pier Francesco Costantini
+   * - Pier Cesare Mecarozzi
+     - Pier Francesco Costantini
      - Piergiorgio Rocchi
-     - Piero Rubiu
-   * - Pierre-yves Hagneré
+   * - Piero Rubiu
+     - Pierre-yves Hagneré
      - Pietro Blu Giandonato
-     - Piya Changmai
-   * - Planetek Italia S.r.l
+   * - Piya Changmai
+     - Planetek Italia S.r.l
      - Praveen Bhamidipati
-     - Productive Water Services
-   * - Przemyslaw Ryszka
+   * - Productive Water Services
+     - Przemyslaw Ryszka
      - Qinli Huang
-     - Rachel Harwood
-   * - Radoslaw Pasiok
+   * - Rachel Harwood
+     - Radoslaw Pasiok
      - Ragnvald Larsen
-     - Rainer Jeske
-   * - Rakhmanov Damir
+   * - Rainer Jeske
+     - Rakhmanov Damir
      - Ralph Hames
-     - Ralph Kiesewalter
-   * - Ralph Williams
+   * - Ralph Kiesewalter
+     - Ralph Williams
      - Raman Rao
-     - Ramaswamy Nagarajan
-   * - Ramil Ismagilov
+   * - Ramaswamy Nagarajan
+     - Ramil Ismagilov
      - Ramji Srimurugan
-     - Ramon Andinach
-   * - Randolph Wynne
+   * - Ramon Andinach
+     - Randolph Wynne
      - Randy Morris
-     - Raphaël Payet-burin
-   * - Raul Nanclares Da Veiga
+   * - Raphaël Payet-burin
+     - Raul Nanclares Da Veiga
      - Ravi
-     - Raymond Warriner
-   * - Rebecca Eivers
+   * - Raymond Warriner
+     - Rebecca Eivers
      - Rebecca Houtman
-     - Rebecca Trevithick
-   * - Rebekah Liebermann
+   * - Rebecca Trevithick
+     - Rebekah Liebermann
      - Reg Nelson
-     - Reiko Hayashi
-   * - Remigio Cammarano
+   * - Reiko Hayashi
+     - Remigio Cammarano
      - Renato Saboya
-     - Ricard Peret Vendrell
-   * - Ricardo Corbella Tena
+   * - Ricard Peret Vendrell
+     - Ricardo Corbella Tena
      - Riccardo D'amato
-     - Riccardo Giaccari
-   * - Riccardo Torri
+   * - Riccardo Giaccari
+     - Riccardo Torri
      - Richard Conolly
-     - Richard Duivenvoorde
-   * - Richard Graf
+   * - Richard Duivenvoorde
+     - Richard Graf
      - Richard Houghton
-     - Richard Jansen
-   * - Richard Kelaart
+   * - Richard Jansen
+     - Richard Kelaart
      - Richard Males
-     - Richard Reese
-   * - Rinat Yafa Calvo
+   * - Richard Reese
+     - Rinat Yafa Calvo
      - Rita Carone
-     - Rob Scott
-   * - Robert Nuske
+   * - Rob Scott
+     - Robert Nuske
      - Robert Seli
-     - Robert Thurston
-   * - Roberta Benetti
+   * - Robert Thurston
+     - Roberta Benetti
      - Roberto Berchi
-     - Roberto Facoetti
-   * - Roberto Sattanino
+   * - Roberto Facoetti
+     - Roberto Sattanino
      - Robin Watson
-     - Roel Van De Wetering
-   * - Roland Pesch
+   * - Roel Van De Wetering
+     - Roland Pesch
      - Rolf Böker
-     - Rolland Paillat
-   * - Romain Barrière
+   * - Rolland Paillat
+     - Romain Barrière
      - Romano Fistola
-     - Ronaldo Auletta Jr
-   * - Rory O Sullivan
+   * - Ronaldo Auletta Jr
+     - Rory O Sullivan
      - Rosario Mare
-     - Rosario Negusse
-   * - Ross Mcdonald
+   * - Rosario Negusse
+     - Ross Mcdonald
      - Rosário Dilo
-     - Roy Brander
-   * - Ruben Jarych
+   * - Roy Brander
+     - Ruben Jarych
      - Ruben Smelik
-     - Rubén Darío Godoy
-   * - Rui Pedro Henriques
+   * - Rubén Darío Godoy
+     - Rui Pedro Henriques
      - Russ Duncan
-     - Russel Taylor
-   * - Russell Derrick
+   * - Russel Taylor
+     - Russell Derrick
      - Russell Plume
-     - Russell Rew
-   * - Rutger De Koning
+   * - Russell Rew
+     - Rutger De Koning
      - S A Odell
-     - S M Johnson
-   * - Saber Razmjooei
+   * - S M Johnson
+     - Saber Razmjooei
      - Sakari Salonen
-     - Sake Wagenaar
-   * - Salvatore Borgo
+   * - Sake Wagenaar
+     - Salvatore Borgo
      - Salvatore Livreri Console
-     - Samuel Maurer
-   * - Sandeep Sabu
+   * - Samuel Maurer
+     - Sandeep Sabu
      - Sander Huizing
-     - Sandra Carolina Lastra Zuluaga
-   * - Sandra Torres
+   * - Sandra Carolina Lastra Zuluaga
+     - Sandra Torres
      - Sarah Cottam
-     - Sarah Gregg
-   * - Sarah Wakeford
+   * - Sarah Gregg
+     - Sarah Wakeford
      - Sascha Langenstein
-     - Sascha Picard
-   * - Saw Min Aung
+   * - Sascha Picard
+     - Saw Min Aung
      - Sayo-art
-     - Sean Nickerson
-   * - Sebastiaan Van De Bunt
+   * - Sean Nickerson
+     - Sebastiaan Van De Bunt
      - Sebastian Badowski
-     - Sebastian Cionoiu
-   * - Seif Ali
+   * - Sebastian Cionoiu
+     - Seif Ali
      - Sergey Khokhlov
-     - Sergio Giovannini
-   * - Sergio Maria Remoli
+   * - Sergio Giovannini
+     - Sergio Maria Remoli
      - Servulo Costa
-     - Seth Barker
-   * - Severino Simone Borrini
+   * - Seth Barker
+     - Severino Simone Borrini
      - Shane Moran-kelly
-     - Shapesmart
-   * - Sheng Ye
+   * - Shapesmart
+     - Sheng Ye
      - Sian Grant
-     - Silvia Terziotti
-   * - Silvio Grosso
+   * - Silvia Terziotti
+     - Silvio Grosso
      - Simon Bohnenblust
-     - Simon Harrison
-   * - Simone Bianchi
+   * - Simon Harrison
+     - Simone Bianchi
      - Simone Circosta
-     - Simone Geißler
-   * - Simão Voloch Neto
+   * - Simone Geißler
+     - Simão Voloch Neto
      - Soma Horvath
-     - Song Yutao
-   * - Southeast Engineering
+   * - Song Yutao
+     - Southeast Engineering
      - Spencer Gardner
-     - St. Sultans Trail International
-   * - Stefan Eberlein
+   * - St. Sultans Trail International
+     - Stefan Eberlein
      - Stefan Goen
-     - Stefan Kapeller
-   * - Stefan Price
+   * - Stefan Kapeller
+     - Stefan Price
      - Stefan Strehlow
-     - Stefan Sylla
-   * - Stefan Widmer
+   * - Stefan Sylla
+     - Stefan Widmer
      - Stefan Ziegler
-     - Stefania Demurtas
-   * - Stefano Menegon
+   * - Stefania Demurtas
+     - Stefano Menegon
      - Steffen Götze
-     - Stelios Lamprinos
-   * - Steph Nelson
+   * - Stelios Lamprinos
+     - Steph Nelson
      - Stephan Holl
-     - Stephane Burgos
-   * - Stephane Felder
+   * - Stephane Burgos
+     - Stephane Felder
      - Stephen Frank
-     - Stephen Hoskins
-   * - Stephen Madama
+   * - Stephen Hoskins
+     - Stephen Madama
      - Stephen Scott
-     - Stephen Siedo
-   * - Stephen Titchenal
+   * - Stephen Siedo
+     - Stephen Titchenal
      - Steve Lewis
-     - Steve Ostaseski
-   * - Steve Weeks
+   * - Steve Ostaseski
+     - Steve Weeks
      - Steven Feldman
-     - Sti Sas Di Meo
-   * - Stig Malmose
+   * - Sti Sas Di Meo
+     - Stig Malmose
      - Stuart Anderson
-     - Susan Berry
-   * - Susan M Carlson
+   * - Susan Berry
+     - Susan M Carlson
      - Susan V Cousineau
-     - Swampthing Environmental Inc.
-   * - Swiss QGIS usergroup
+   * - Swampthing Environmental Inc.
+     - Swiss QGIS usergroup
      - Sã©bastien Lorge
-     - Sébastien Gombault
-   * - Tad Robinette
+   * - Sébastien Gombault
+     - Tad Robinette
      - Tam Nguyen Van
-     - Tamarind Media Limited
-   * - Tanja Wolf
+   * - Tamarind Media Limited
+     - Tanja Wolf
      - Tanya Haddad
-     - Tee Kok Keong
-   * - Tereza Kutišová
+   * - Tee Kok Keong
+     - Tereza Kutišová
      - Terran Imaging Pty Ltd
-     - Test Gurus
-   * - Thaddäus Schneider
+   * - Test Gurus
+     - Thaddäus Schneider
      - Thanasis Karathanasis
-     - The Ip Voice
-   * - THEBFL
+   * - The Ip Voice
+     - THEBFL
      - Thiago Carvalho Bayerlein
-     - Thibaut Goelff
-   * - Thierry Gonon
+   * - Thibaut Goelff
+     - Thierry Gonon
      - Think Green S.n.c.
-     - Thinus Glitz
-   * - Thomas Blake
+   * - Thinus Glitz
+     - Thomas Blake
      - Thomas Dunz
-     - Thomas Engleder
-   * - Thomas Flatman
+   * - Thomas Engleder
+     - Thomas Flatman
      - Thomas Frohberg
-     - Thomas Gunzelmann
-   * - Thomas Hilger
+   * - Thomas Gunzelmann
+     - Thomas Hilger
      - Thomas Klein
-     - Thomas Le Berre
-   * - Thomas Leahy
+   * - Thomas Le Berre
+     - Thomas Leahy
      - Thomas Papiernik
-     - Thomas Richter
-   * - Thomas Vieira
+   * - Thomas Richter
+     - Thomas Vieira
      - Thorpong Kungsworn
-     - Tim Baggett
-   * - Tim Gould
+   * - Tim Baggett
+     - Tim Gould
      - Tine Ningal
-     - Tishampati Dhar
-   * - Toby Wilkinson
+   * - Tishampati Dhar
+     - Toby Wilkinson
      - Tom Morrison
-     - Tomas Trojacek
-   * - Tommaso Gavazza
+   * - Tomas Trojacek
+     - Tommaso Gavazza
      - Tony MacLeod
-     - Tor Mikalsen
-   * - Tore Pedersen
+   * - Tor Mikalsen
+     - Tore Pedersen
      - Torsten Christensen
-     - Travis Hammond
-   * - Treechai Anuwongjaroen
+   * - Travis Hammond
+     - Treechai Anuwongjaroen
      - Trine Dale
-     - Tyler Mitchell
-   * - Udo Lenz
+   * - Tyler Mitchell
+     - Udo Lenz
      - Ujaval Gandhi
-     - Ukrainskiy Pavel
-   * - Ulf Rahmel
+   * - Ukrainskiy Pavel
+     - Ulf Rahmel
      - Ulrich Kulle
-     - Ulrich Steinrücken
-   * - Ulrich Von Wulffen
+   * - Ulrich Steinrücken
+     - Ulrich Von Wulffen
      - Ulrike Sommer
-     - Umberto Zulian
-   * - Urban Modelling Solutions N A Matthew
+   * - Umberto Zulian
+     - Urban Modelling Solutions N A Matthew
      - Uros Bernik
-     - Ursula Baaser
-   * - Ute Twer
+   * - Ursula Baaser
+     - Ute Twer
      - Valeria Zusi
-     - Valerio Franchino
-   * - Victor Saldaña
+   * - Valerio Franchino
+     - Victor Saldaña
      - Vincent Mercier
-     - Vincent Prioul
-   * - Vincent Verweij
+   * - Vincent Prioul
+     - Vincent Verweij
      - Vincenzo Lomurno
-     - Vincenzo Sale
-   * - Vital J Pinheiro Jr J Pinheiro Jr
+   * - Vincenzo Sale
+     - Vital J Pinheiro Jr J Pinheiro Jr
      - Vito Latorraca
-     - Vitor Pereira
-   * - Vittorio Dell'Aquila
+   * - Vitor Pereira
+     - Vittorio Dell'Aquila
      - Vladimir Vrabel
-     - Volker Römer
-   * - Voyages à Vélo
+   * - Volker Römer
+     - Voyages à Vélo
      - Walter Dellisanti
-     - Walter di Lorenzetti (GIS3W)
-   * - Walter Hesse
+   * - Walter di Lorenzetti (GIS3W)
+     - Walter Hesse
      - Wasin Bukaew
-     - Wayne Bulmer
-   * - Wendelin Schmitt
+   * - Wayne Bulmer
+     - Wendelin Schmitt
      - Wendell Rodrigues Feliciano
-     - Werner Hentschel
-   * - Werner Macho
+   * - Werner Hentschel
+     - Werner Macho
      - Wilker De Jesus Silva
-     - William Carleton
-   * - William Colson
+   * - William Carleton
+     - William Colson
      - William Jesdale
-     - William Levering
-   * - William Pallies
+   * - William Levering
+     - William Pallies
      - Wolfgang Dennhöfer
-     - Wolfgang Scheffler
-   * - Wolfgang Stoessel
+   * - Wolfgang Scheffler
+     - Wolfgang Stoessel
      - Xabier Albizu Zabala
-     - Xhaustless B V B A
-   * - Xuejing Zuo
+   * - Xhaustless B V B A
+     - Xuejing Zuo
      - Yahya Mohatar Abderrahman
-     - Yann Lepage
-   * - Yuan Harng Lee
+   * - Yann Lepage
+     - Yuan Harng Lee
      - Yuan-kee Lee
-     - Yven Dickhörner
-   * - Yves Jacolin
+   * - Yven Dickhörner
+     - Yves Jacolin
      - za.miastem Sylwia Cichocińska
-     - Zachary Patterson
-   * - Ângela Seixas
+   * - Zachary Patterson
+     - Ângela Seixas
      - Иваненко Андрей
-     - Коробейников Андрей
-   * - Паршин Александр
+   * - Коробейников Андрей
+     - Паршин Александр
      - Слинкин Филипп
-     - Трифонова Евгения
-   * - เฉลิมศักดิ์ ผมพันธ์
+   * - Трифонова Евгения
+     - เฉลิมศักดิ์ ผมพันธ์
      - 吉原 佑
-     - 田中 創平
+   * - 田中 創平
+     -
+     -
