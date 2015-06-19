@@ -23,31 +23,31 @@ msgstr ""
 msgid "Bugs, Features and Issues"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:222
+#: ../../source/site/getinvolved/development/index.rst:221
 msgid "Development"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:253
+#: ../../source/site/getinvolved/development/index.rst:250
 msgid "QGIS has a lot to offer for python developers too."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:255
+#: ../../source/site/getinvolved/development/index.rst:252
 msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:262
+#: ../../source/site/getinvolved/development/index.rst:259
 msgid "You can find the QGIS-iface which you can use via python here:"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:264
+#: ../../source/site/getinvolved/development/index.rst:261
 msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:266
+#: ../../source/site/getinvolved/development/index.rst:263
 msgid "http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:268
+#: ../../source/site/getinvolved/development/index.rst:265
 msgid "http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
 msgstr ""
 
@@ -76,30 +76,30 @@ msgstr ""
 msgid "26.09"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:234
+#: ../../source/site/getinvolved/development/index.rst:233
 msgid "Plugin Development"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:236
+#: ../../source/site/getinvolved/development/index.rst:235
 msgid ""
 "QGIS has a plugin infrastructure. You can add a lot of new functionality by "
 "writing your own plugins."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:239
+#: ../../source/site/getinvolved/development/index.rst:238
 msgid "These plugins can either be written in C++ or in Python"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:246
+#: ../../source/site/getinvolved/development/index.rst:245
 msgid ""
 "Via a script you will generate a plugin stub which can be used further."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:251
+#: ../../source/site/getinvolved/development/index.rst:248
 msgid "Python plugin development"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:260
+#: ../../source/site/getinvolved/development/index.rst:257
 msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
 msgstr ""
 
@@ -358,7 +358,6 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:214
-#: ../../source/site/getinvolved/development/index.rst:216
 msgid "\\"
 msgstr ""
 
@@ -370,45 +369,37 @@ msgstr ""
 msgid "Linux"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:215
-msgid ":ref:`Debian <QGIS-debian-testing>`"
-msgstr ""
-
 #: ../../source/site/getinvolved/development/index.rst:216
-msgid ":ref:`Ubuntu <QGIS-ubuntu-testing>`"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:217
 msgid "MacOS"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:217
+#: ../../source/site/getinvolved/development/index.rst:216
 msgid ":ref:`Mac OS <QGIS-macos-testing>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:224
+#: ../../source/site/getinvolved/development/index.rst:223
 msgid "See INSTALL_"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:228
+#: ../../source/site/getinvolved/development/index.rst:227
 msgid "API Documentation"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:230
+#: ../../source/site/getinvolved/development/index.rst:229
 msgid "There is `API documentation <http://qgis.org/api/>`_ for C++."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:242
+#: ../../source/site/getinvolved/development/index.rst:241
 msgid "C++ plugin development"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:244
+#: ../../source/site/getinvolved/development/index.rst:243
 msgid ""
 "To learn how to write your first C++ plugin, please go here: :ref:`QGIS-cpp-"
 "plugin-development`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:273
+#: ../../source/site/getinvolved/development/index.rst:270
 msgid "Adding GRASS tools"
 msgstr ""
 
@@ -443,7 +434,6 @@ msgid "3"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:196
-#: ../../source/site/getinvolved/development/index.rst:201
 msgid "23.01"
 msgstr ""
 
@@ -464,14 +454,6 @@ msgid "2.8 is released (LTR)"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:198
-msgid "20"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:198
-msgid "22.05"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:198
 msgid "2.9 freeze begins"
 msgstr ""
 
@@ -487,16 +469,8 @@ msgstr ""
 msgid "38"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:200
-msgid "2.11 freeze begins"
-msgstr ""
-
 #: ../../source/site/getinvolved/development/index.rst:201
 msgid "42"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:201
-msgid "2.12 is released"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:79
@@ -556,16 +530,96 @@ msgid ""
 "osgeo.org"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:257
+#: ../../source/site/getinvolved/development/index.rst:254
 msgid ""
 "Interested in python plugin development, go to :ref:`QGIS-python-plugin-"
 "development` or have a look into the Python Cookbook in our Documentation "
 "site: http://docs.qgis.org."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:275
+#: ../../source/site/getinvolved/development/index.rst:272
 msgid "see :ref:`Adding GRASS tools <addinggrasstools>`"
 msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:198
+msgid "21"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:198
+msgid "26.05"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:200
+msgid "TBD freeze begins"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:201
+msgid "23.10"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:201
+msgid "TBD is released"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:215
+msgid ":ref:`Debian/Ubuntu <QGIS-debian-testing>`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:275
+msgid "Credits for contributions"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:277
+msgid ""
+"Contributors of new functions are encouraged to let people know about their "
+"contribution by:"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:279
+msgid ""
+"adding a note to the changelog for the first version where the code has been"
+" incorporated, of the type::"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:284
+msgid ""
+"writing an article about the new feature on a blog, and add it to the QGIS "
+"planet http://plugins.qgis.org/planet/"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:285
+msgid "adding their name to:"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:287
+msgid "https://github.com/qgis/QGIS/blob/master/doc/CONTRIBUTORS"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:288
+msgid "https://github.com/qgis/QGIS/blob/master/doc/AUTHORS"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:289
+msgid "https://github.com/qgis/QGIS/blob/master/doc/contributors.json"
+msgstr ""
+
+#~ msgid ":ref:`Debian <QGIS-debian-testing>`"
+#~ msgstr ""
+
+#~ msgid ":ref:`Ubuntu <QGIS-ubuntu-testing>`"
+#~ msgstr ""
+
+#~ msgid "20"
+#~ msgstr ""
+
+#~ msgid "22.05"
+#~ msgstr ""
+
+#~ msgid "2.11 freeze begins"
+#~ msgstr ""
+
+#~ msgid "2.12 is released"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Interested in python plugin development, go to :ref:`QGIS-python-plugin-"
@@ -602,9 +656,6 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "21.02"
-#~ msgstr ""
-
-#~ msgid "21"
 #~ msgstr ""
 
 #~ msgid "23.05"

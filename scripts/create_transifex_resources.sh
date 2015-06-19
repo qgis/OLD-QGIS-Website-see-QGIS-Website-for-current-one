@@ -12,7 +12,6 @@
 #
 
 LOCALES=`ls i18n`
-#LOCALES=nl ja
 
 # to be sure there are no pot files left
 make springclean
@@ -51,9 +50,11 @@ make springclean
     # this resource.
     for LOCALE in $LOCALES
     do
-        LOCALEFILE=`echo $POFILE | sed "s/\/en\//\/$LOCALE\//g"`
-        #echo "$LOCALEFILE"
-        tx set -r $RESOURCE -l $LOCALE  "$LOCALEFILE"
+        if [ "$LOCALE" != "en" -a "$LOCALE" != "pot" ]; then
+            LOCALEFILE=`echo $POFILE | sed "s/\/en\//\/$LOCALE\//g"`
+            #echo "$LOCALEFILE"
+            tx set -r $RESOURCE -l $LOCALE  "$LOCALEFILE"
+        fi
     done
     # When we are done in this block we should have created a section in the
     # .tx/config file that looks like this:
