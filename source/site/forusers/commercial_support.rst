@@ -58,7 +58,7 @@ and other FOSS applications.
    :width: 200 px
 
 |itopen| `It Open <http://www.itopen.it/>`_ (based in Italy) provides commercial support
-and C++/Python development services for QGIS Desktop and Server, PostGIS, Django and other free 
+and C++/Python development services for QGIS Desktop and Server, PostGIS, Django and other free
 and open source software packages for both the web and the server side.
 
 
@@ -68,9 +68,9 @@ and open source software packages for both the web and the server side.
 .. |kartoza| image:: /static/site/about/images/kartoza.png
    :width: 200 px
 
-|kartoza| `Kartoza (Pty) Ltd. <http://kartoza.com>`_ (with offices in Swellendam and Paarl 
-in the Western Cape Provice of South Africa). We provide commercial support and training for 
-QGIS Desktop and Server and carry out feature development for QGIS on a contract basis. 
+|kartoza| `Kartoza (Pty) Ltd. <http://kartoza.com>`_ (with offices in Swellendam and Paarl
+in the Western Cape Provice of South Africa). We provide commercial support and training for
+QGIS Desktop and Server and carry out feature development for QGIS on a contract basis.
 We also develop plugins in Python and C++ for QGIS. **Note:** Kartoza was formerly known as
 Linfiniti Consulting.
 
@@ -88,18 +88,10 @@ for QGIS.
 .. |naturalgis| image:: /static/site/about/images/naturalgis.png
    :height: 100 px
 
-|naturalgis| `NaturalGIS <http://www.naturalgis.pt/>`_ (based in Portugal) 
-provides training, development and commercial 
-support for a number of Open Source GIS software. We specialize in QGIS 
+|naturalgis| `NaturalGIS <http://www.naturalgis.pt/>`_ (based in Portugal)
+provides training, development and commercial
+support for a number of Open Source GIS software. We specialize in QGIS
 (Desktop, Server and Web), PostGIS and custom WebGIS development.
-
-----
-
-.. |nextgis| image:: /static/site/about/images/nextgis.gif
-   :width: 200 px
-
-|nextgis| `NextGIS <http://nextgis.org/>`_ (based in Moscow, Russia) provides
-commercial support, custom programming and training for QGIS, PostGIS and GRASS.
 
 ----
 
@@ -181,11 +173,18 @@ OpenLayers
 .. |zuidtlogo| image:: /static/site/about/images/zuidt.png
    :width: 75 px
 
-|zuidtlogo| `Zuidt <http://zuidt.nl/>`_ based in Haarlem The Netherlands, 
-wants Geographical Information to be open and simple. 
+|zuidtlogo| `Zuidt <http://zuidt.nl/>`_ based in Haarlem The Netherlands,
+wants Geographical Information to be open and simple.
 Zuidt wants to be THE dutch (international) QGIS specialist, and provides
 consulting, plugin coding and training services.
 
+----
+
+.. |nextgis| image:: /static/site/about/images/nextgis.gif
+   :width: 200 px
+
+|nextgis| `NextGIS <http://nextgis.org/>`_ (based in Moscow, Russia) provides
+commercial support, custom programming and training for QGIS, PostGIS and GRASS.
 
 Others
 ------
@@ -234,7 +233,7 @@ provides commercial support and training for QGIS and open spatial data.
 .. |soltig| image:: /static/site/about/images/soltig.png
    :width: 75 px
 
-|soltig| `Soluciones en Tecnologías de Información Geográfica (SOLTIG)  <http://www.soltig.net/>`_ 
+|soltig| `Soluciones en Tecnologías de Información Geográfica (SOLTIG)  <http://www.soltig.net/>`_
 (based in Costa Rica) provides training, support, consulting and programming for QGIS and other FOSS applications.
 
 ----
@@ -280,7 +279,7 @@ provides commercial GIS consulting, support and training in QGIS.
    :width: 75 px
 
 |claasleiner| `GKG Kassel, Germany (Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_
-provides training, services and support around the free geographic information systems QGIS, 
+provides training, services and support around the free geographic information systems QGIS,
 GRASS, SAGA and PostGIS as well as spatial data management, analysis and cartography.
 
 ----
@@ -321,5 +320,5 @@ consultancies in the UK.  We provide a broad range of innovative GIS products
 and services including "Location Centre" (a hosted Cloud-based GIS built from
 open source technologies). As a QGIS site, our team of geospatial experts use
 QGIS on a daily basis and provide QGIS Support to customers.  We also run
-regular QGIS and PostGIS Training courses. 
+regular QGIS and PostGIS Training courses.
 
