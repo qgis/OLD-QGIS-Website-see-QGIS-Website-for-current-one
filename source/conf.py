@@ -72,7 +72,7 @@ ltrversion = '2.8'
 ltrrelease = '2.8.2'
 ltrcodename = 'Wien'
 
-devversion = '2.12'
+devversion = '2.11'
 
 nextfreezedate = datetime(2015, 9, 26, 12, 0, 0).strftime('%Y/%m/%d %H:%M:%S UTC')
 nextreleasedate = datetime(2015, 10, 23, 12, 0, 0).strftime('%Y/%m/%d %H:%M:%S UTC')
@@ -318,15 +318,17 @@ def setup(app):
     app.add_config_value('nextreleasedate', None, 'env')
 
 context = {
-	'codename': codename,
-	'releasedate': releasedate,
-	'ltrversion': ltrversion,
-	'ltrrelease': ltrrelease,
-	'ltrcodename': ltrcodename,
-	'devversion': devversion,
-	'nextfreezedate': nextfreezedate,
-	'nextreleasedate': nextreleasedate,
+    'codename': codename,
+    'releasedate': releasedate,
+    'ltrversion': ltrversion,
+    'ltrrelease': ltrrelease,
+    'ltrcodename': ltrcodename,
+    'devversion': devversion,
+    'nextfreezedate': nextfreezedate,
+    'nextreleasedate': nextreleasedate,
 }
+
+rst_epilog += "\n".join( map( lambda x: ".. |%s| replace:: %s" % (x,context[x]), context.keys()) )
 
 if 'html_context' in globals():
     html_context.update(context)
