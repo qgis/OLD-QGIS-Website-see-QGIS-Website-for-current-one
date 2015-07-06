@@ -104,11 +104,7 @@ Good luck with the organization of your local user group. Please inform the inte
 Issue Tracker
 -------------
 
-If you want to file bugs or issues, you need an osgeo ID. You can create an account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py
-
-More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports
-
-All issues can be browsed here: http://hub.qgis.org/projects/quantum-gis/issues
+If you want to file bugs or issues, see :ref:`QGIS-bugreporting`.
 
 
 
