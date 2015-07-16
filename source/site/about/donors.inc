@@ -825,7 +825,7 @@
    * - Luke Stull
      - Luke Taylor
      - Lutz Bornschein
-   * - Lutz Vetter, Prof. Dr.
+   * - Lutz Vetter
      - M De Bresser
      - M.arch Architects
    * - Maciej Latek
