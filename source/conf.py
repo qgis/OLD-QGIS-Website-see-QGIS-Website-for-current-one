@@ -63,7 +63,7 @@ copyright = u'{0}, QGIS Contributors'.format( datetime.now().year )
 
 # latest release
 version = '2.10'
-release = '2.10.0'
+release = '2.10.1'
 codename = 'Pisa'
 releasedate = date(2015,6,26)
 
