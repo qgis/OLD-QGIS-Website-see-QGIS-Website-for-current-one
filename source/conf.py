@@ -69,7 +69,7 @@ releasedate = date(2015,6,26)
 
 # long term release
 ltrversion = '2.8'
-ltrrelease = '2.8.2'
+ltrrelease = '2.8.3'
 ltrcodename = 'Wien'
 
 devversion = '2.11'
