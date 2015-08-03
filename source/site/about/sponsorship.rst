@@ -71,7 +71,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
-   * - |bronze|
+   * - |bronze| |npa|
 
        `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
      - |bronze| |qpolska|
@@ -135,6 +135,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
        `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (09.2014-09.2015)
      - 
+
+.. |npa| image:: /static/site/about/images/npa.jpg
+   :width: 64 px
 
 .. |qpolska| image:: /static/site/about/images/qpolska.png
    :width: 64 px
