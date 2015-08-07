@@ -92,7 +92,7 @@
             '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="../getinvolved/donations.html">{{ _("Donate Now") }}</a></p><p class="muted"></p></div>'+
             '<div class="span5"><p><a id="closeteaser"class="btn btn-large btn-success btn-flat" href="#">{{ _("Close this message") }}</a></p><p class="muted"></p></div>'+
             '</div>'+
-            '<br/><p><img src="https://raw.githubusercontent.com/qgis/QGIS/master/images/splash/splash.png"/></p></div>');
+            '<br/><p><img src="{{pathto('_static/images/splash.png', 1)}}"/></p></div>');
             $('#teaser').click(function(){ $('#teaser').hide(); });
             $('#closeteaser').click(function(){ $('#teaser').hide(); });
             $('a.reference').click(function(){
