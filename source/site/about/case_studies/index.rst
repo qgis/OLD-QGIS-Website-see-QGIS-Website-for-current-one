@@ -26,6 +26,7 @@ List of Case Studies
 .. toctree::
     :maxdepth: 1
 
+    [2015/08] Lynx habitat analysis in the Southern Carpathians by Angela Dichte, Luca Ehrminger, Silvana Garcia Travesi Reyes, Tobias Hoppe and David Winger <europe_lynx>
     [2015/04] Water Observation and Information System: Enabling the Use of Earth Observation Data for Integrated Water Resource Management in Africa by Radoslaw Guzinski <africa_tiger>
     [2015/03] QGIS geoprocessing model to simplify first level seismic microzonation analysis by Giuseppe Cosentino and Francesco Pennica <italy_rome>
     [2015/02] Using the processing toolbox to automate snow classification by Andrew Jeffrey <australia_snowyhydro>
