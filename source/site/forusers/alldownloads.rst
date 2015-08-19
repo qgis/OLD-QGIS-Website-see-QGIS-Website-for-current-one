@@ -192,9 +192,24 @@ After that type::
 In case of keyserver errors add the qgis.org repository public key to
 your apt keyring, type::
 
- gpg --keyserver keyserver.ubuntu.com --recv DD45F6C3
- gpg --export --armor DD45F6C3 | sudo apt-key add -
+ wget -O - http://qgis.org/downloads/qgis-2015.gpg.key | gpg --import
+ gpg --fingerprint 3FF5FFCAD71472C4
 
+Should output::
+
+ pub   2048R/D71472C4 2015-08-19 [expires: 2016-08-18]
+      Key fingerprint = D004 063C BF60 B252 6363  19AA 3FF5 FFCA D714 72C4
+ uid                  QGIS Archive Automatic Signing Key (2015) <qgis-developer@lists.osgeo.org>
+ sub   2048R/3B45F5E8 2015-08-19 [expires: 2016-08-18]
+
+After you have verified the fingerprint you can add the key to apt with::
+
+ gpg --export --armor 3FF5FFCAD71472C4 | sudo apt-key add -
+
+Alternatively you can download the key from a keyserver and add the key to apt
+in one go (without manual fingerprint verification)::
+
+ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key 3FF5FFCAD71472C4
 
 
 Fedora
