@@ -20,6 +20,8 @@ Click on an image to see author and more information about the maps.
 :raw-html:`<p id="qgisflickrmapsatom">&nbsp;</p>`
 
 
+:raw-html:`<p style="clear:both">&nbsp;</p>`
+
 QGIS Screenshots
 ================
 
