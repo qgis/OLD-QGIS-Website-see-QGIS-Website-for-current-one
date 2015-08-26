@@ -45,39 +45,25 @@ Packaging Team
 QGIS is being packaged for different type of operating systems. The people
 responsible for that packages are as following:
 
-  * Windows Team: Jürgen E. Fischer <jef[at]norbit.de>,
-    Tim Sutton <tim[at]linfiniti.com>
-  * OS X Team: William Kyngesburye <kyngchaos[at]kyngchaos.com>,
-    Tom Elwertowski <telwertowski[at]comcast.net>
-  * Linux Team:
+* Windows Team: Jürgen E. Fischer <jef[at]norbit.de>, Tim Sutton <tim[at]linfiniti.com>
+* OS X Team: William Kyngesburye <kyngchaos[at]kyngchaos.com>, Tom Elwertowski <telwertowski[at]comcast.net>
+* Linux Team:
 
-    * OpenSuSE RPM Maintainer: Otto Dassau <dassau[at]gbd-consult.de>
-    * Fedora RPM Maintainer: Douglas E. Warner <silfreed[at]silfreed.net>
-    * Ubuntu Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>,
-      Tim Sutton <tim[at]linfiniti.com>,
-      Jachym Cepicky <jachym.cepicky[at]gmail.com>
-    * Debian Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>,
-      Tim Sutton <tim[at]linfiniti.com> [Etch],
-      Niccolo Rigacci <qgis[at]rigacci.org> [Lenny]
+  * OpenSuSE RPM Maintainer: Otto Dassau <dassau[at]gbd-consult.de>
+  * Fedora RPM Maintainer: Douglas E. Warner <silfreed[at]silfreed.net>
+  * Ubuntu Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>, Tim Sutton <tim[at]linfiniti.com>, Jachym Cepicky <jachym.cepicky[at]gmail.com>
+  * Debian Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>, Tim Sutton <tim[at]linfiniti.com> [Etch], Niccolo Rigacci <qgis[at]rigacci.org> [Lenny]
 
 .. _testing-team:
 
 Testing Team
 ............
 
-  * Ubuntu Linux: Ricardo Soares Garcia
-    <ricardo.garcia.silva[at]gmail.com>,
-    Giovanni Manghi <giovanni.manghi[at]faunalia.pt>,
-    Luís de Sousa <luis.a.de.sousa[at]gmail.com>
-  * Debian Linux: Paolo Cavallini <cavallini[at]cavallini.it>,
-    Pedro Venâncio <pedrongvenancio[at]gmail.com>,
-    Ivan Mincik <ivan.mincik[at]gmail.com>
-  * Windows: Giovanni Manghi <giovanni.manghi[at]faunalia.pt>,
-    Pedro Venâncio <pedrongvenancio[at]gmail.com>,
-    Duarte Carreira <dncarreira[at]gmail.com>,
-    Andre Mano <andre.s.mano[at]gmail.com>
-  * OS X: Larry Shaffer <larrys[at]dakotacarto.com>
-  * Windows 8: Rui Pedro Henriques <henriques.rui[at]gmail.com>
+* Ubuntu Linux: Ricardo Soares Garcia <ricardo.garcia.silva[at]gmail.com>, Giovanni Manghi <giovanni.manghi[at]faunalia.pt>, Luís de Sousa <luis.a.de.sousa[at]gmail.com>
+* Debian Linux: Paolo Cavallini <cavallini[at]cavallini.it>, Pedro Venâncio <pedrongvenancio[at]gmail.com>, Ivan Mincik <ivan.mincik[at]gmail.com>
+* Windows: Giovanni Manghi <giovanni.manghi[at]faunalia.pt>, Pedro Venâncio <pedrongvenancio[at]gmail.com>, Duarte Carreira <dncarreira[at]gmail.com>, Andre Mano <andre.s.mano[at]gmail.com>
+* OS X: Larry Shaffer <larrys[at]dakotacarto.com>
+* Windows 8: Rui Pedro Henriques <henriques.rui[at]gmail.com>
 
 .. _technical-resources:
 
@@ -100,29 +86,29 @@ Code Maintainers are responsible for discrete areas of the QGIS source code
 (core, gui, plugins, providers, tests) and ensure consistency and quality of
 code added into the git code repository.
 
-  * Core library: Martin Dobias <wonder.sk[at]gmail.com>
-  * Gui library: Martin Dobias <wonder.sk[at]gmail.com>
-  * App (dialogs): Tim Sutton <tim[at]linfiniti.com>
-  * Print composer: Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>
-  * PyQGIS: Martin Dobias <wonder.sk[at]gmail.com>
-  * Python console: Salvatore Larosa <lrssvtml[at]gmail.com>
-  * Python plugins for QGIS Server: Alessandro Pasotti <elpaso[at]itopen.it>
-  * Plugin installer: Borys Jurgiel <info[at]borysjurgiel.pl>
-  * OGR, Postgres-, Oracle- provider: Jürgen E. Fischer <jef[at]norbit.de>
-  * WMS provider: Jürgen E. Fischer <jef[at]norbit.de>
-  * WFS provider: Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>
-  * WMS server: Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>
-  * WFS server: René-Luc D'Hont <rldhont[at]gmail.com>
-  * GDAL tools: Giuseppe Sucameli <brush.tyler[at]gmail.com>
-  * Offline editing plugin: Mathias Walker <mwa[at]sourcepole.ch>
-  * SQL anywhere plugin and provider: David DeHaan <Dave.DeHaan[at]sap.com>
-  * QgisWebClient: Andreas Neumann <a.neumann[at]carto.net>
-  * MSsql provider: Nathan Woodrow <madmanwoo[at]gmail.com>
-  * Labelling engine: Larry Shaffer <larrys[at]dakotacarto.com>
-  * Diagrams: Matthias Kuhn <matthias.kuhn[at]gmx.ch>
-  * Attribute table: Matthias Kuhn <matthias.kuhn[at]gmx.ch>
-  * Processing Toolbox (SEXTANTE): Victor Olaya <volayaf[at]gmail.com>
-  * Topology plugin: Vinayan Parameswaran <vinayan123[at]gmail.com>
+* Core library: Martin Dobias <wonder.sk[at]gmail.com>
+* Gui library: Martin Dobias <wonder.sk[at]gmail.com>
+* App (dialogs): Tim Sutton <tim[at]linfiniti.com>
+* Print composer: Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>
+* PyQGIS: Martin Dobias <wonder.sk[at]gmail.com>
+* Python console: Salvatore Larosa <lrssvtml[at]gmail.com>
+* Python plugins for QGIS Server: Alessandro Pasotti <elpaso[at]itopen.it>
+* Plugin installer: Borys Jurgiel <info[at]borysjurgiel.pl>
+* OGR, Postgres-, Oracle- provider: Jürgen E. Fischer <jef[at]norbit.de>
+* WMS provider: Jürgen E. Fischer <jef[at]norbit.de>
+* WFS provider: Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>
+* WMS server: Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>
+* WFS server: René-Luc D'Hont <rldhont[at]gmail.com>
+* GDAL tools: Giuseppe Sucameli <brush.tyler[at]gmail.com>
+* Offline editing plugin: Mathias Walker <mwa[at]sourcepole.ch>
+* SQL anywhere plugin and provider: David DeHaan <Dave.DeHaan[at]sap.com>
+* QgisWebClient: Andreas Neumann <a.neumann[at]carto.net>
+* MSsql provider: Nathan Woodrow <madmanwoo[at]gmail.com>
+* Labelling engine: Larry Shaffer <larrys[at]dakotacarto.com>
+* Diagrams: Matthias Kuhn <matthias.kuhn[at]gmx.ch>
+* Attribute table: Matthias Kuhn <matthias.kuhn[at]gmx.ch>
+* Processing Toolbox (SEXTANTE): Victor Olaya <volayaf[at]gmail.com>
+* Topology plugin: Vinayan Parameswaran <vinayan123[at]gmail.com>
 
 .. _community-resources:
 
