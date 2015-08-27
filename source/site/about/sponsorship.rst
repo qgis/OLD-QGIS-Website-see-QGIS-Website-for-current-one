@@ -73,7 +73,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |bronze| |whg|
 
-       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, UK (08.2015-08.2016)
+       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, DE (08.2015-08.2016)
      - |bronze| |npa|
 
        `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
@@ -139,7 +139,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (09.2014-09.2015)
 
 .. |whg| image:: /static/site/about/images/whg.jpg
-   :width: 64 px
+   :width: 90 px
 
 .. |npa| image:: /static/site/about/images/npa.jpg
    :width: 64 px
@@ -151,13 +151,13 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 64 px
 
 .. |geosynergy| image:: /static/site/about/images/geosynergy.jpg
-   :width: 64 px
+   :width: 90 px
 
 .. |gaia3d| image:: /static/site/about/images/gaia3d.png
    :width: 64 px
 
 .. |windsor| image:: /static/site/about/images/windsor.png
-   :width: 64 px
+   :width: 90 px
 
 .. |chartwell| image:: /static/site/about/images/chartwell.png
    :width: 64 px
