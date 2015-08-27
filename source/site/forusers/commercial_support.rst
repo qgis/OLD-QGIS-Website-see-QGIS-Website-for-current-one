@@ -208,7 +208,7 @@ provides installation, training, and implementation support for QGIS.
 .. |bev| image:: /static/site/about/images/bev.gif
    :width: 75 px
 
-|bev| `Bird's Eye View GIS <http://www.adventgx.com/>`_ (Based in Albuquerque,
+|bev| `Bird's Eye View GIS <http://www.birdseyeviewgis.com/>`_ (Based in Albuquerque,
 New Mexico) provides commercial GIS services and support and training in QGIS,
 GRASS GIS and other FOSS GIS applications.
 
