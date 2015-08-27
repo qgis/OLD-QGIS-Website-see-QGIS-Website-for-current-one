@@ -73,7 +73,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |bronze| |whg|
 
-       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, DE (08.2015-08.2016)
+       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2015-08.2016)
      - |bronze| |npa|
 
        `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
