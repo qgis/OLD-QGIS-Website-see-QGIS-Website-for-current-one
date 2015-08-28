@@ -4,7 +4,6 @@
 Case Studies
 ============
 
-
 The QGIS project is always looking for people to publish QGIS case studies (user stories) on the QGIS website. Therefore we kindly ask institutions, universities, authorities, and companies to write down their experience in using QGIS to solve their problems in a certain project or their every day live. Please contact the `QGIS community-team <http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_, if you want to send us your story.
 
 **Structure**
@@ -17,10 +16,7 @@ Short Introduction with background of the company / institute / authority / univ
 Story about your project/application and what QGIS is used for (length about 400 words plus screenshots)
 Conclusion showing positive experiences/benefits using QGIS (length about 200 words)
 
-List of Case Studies
---------------------
-
-2015
+2015 
 ....
 
 .. toctree::
