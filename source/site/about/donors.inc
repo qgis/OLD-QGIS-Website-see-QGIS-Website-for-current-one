@@ -1343,160 +1343,163 @@
      - Stefan Ziegler
    * - Stefania Demurtas
      - Stefano Menegon
-     - Steffen Götze
-   * - Stelios Lamprinos
+     - Stefano Tasin
+   * - Steffen Götze
+     - Stelios Lamprinos
      - Steph Nelson
-     - Stephan Holl
-   * - Stephan Schröder
+   * - Stephan Holl
+     - Stephan Schröder
      - Stephane Burgos
-     - Stephane Felder
-   * - Stephen Frank
+   * - Stephane Felder
+     - Stephen Frank
      - Stephen Hoskins
-     - Stephen Madama
-   * - Stephen Romero
+   * - Stephen Madama
+     - Stephen Romero
      - Stephen Scott
-     - Stephen Siedo
-   * - Stephen Titchenal
+   * - Stephen Siedo
+     - Stephen Titchenal
      - Steve Lewis
-     - Steve Noble
-   * - Steve Ostaseski
+   * - Steve Noble
+     - Steve Ostaseski
      - Steve Weeks
-     - Steven Feldman
-   * - Sti Sas Di Meo
+   * - Steven Feldman
+     - Sti Sas Di Meo
      - Stig Malmose
-     - Stuart Anderson
-   * - Susan Berry
+   * - Stuart Anderson
+     - Susan Berry
      - Susan Lucking
-     - Susan M Carlson
-   * - Susan V Cousineau
+   * - Susan M Carlson
+     - Susan V Cousineau
      - Suzanne A Pierce
-     - Swampthing Environmental Inc.
-   * - Swiss QGIS usergroup
+   * - Swampthing Environmental Inc.
+     - Swiss QGIS usergroup
      - Sã©bastien Lorge
-     - Sébastien Gombault
-   * - Tad Robinette
+   * - Sébastien Gombault
+     - Tad Robinette
      - Tam Nguyen Van
-     - Tamarind Media Limited
-   * - Tanja Wolf
+   * - Tamarind Media Limited
+     - Tanja Wolf
      - Tanya Haddad
-     - Tariq Rashid
-   * - Teddy Baumberger
+   * - Tariq Rashid
+     - Teddy Baumberger
      - Tee Kok Keong
-     - Tereza Kutišová
-   * - Terran Imaging Pty Ltd
+   * - Tereza Kutišová
+     - Terran Imaging Pty Ltd
      - Test Gurus
-     - Thaddäus Schneider
-   * - Thanasis Karathanasis
+   * - Thaddäus Schneider
+     - Thanasis Karathanasis
      - The Ip Voice
-     - THEBFL
-   * - Thiago Carvalho Bayerlein
+   * - THEBFL
+     - Thiago Carvalho Bayerlein
      - Thibaut Goelff
-     - Thierry Gonon
-   * - Think Green S.n.c.
+   * - Thierry Gonon
+     - Think Green S.n.c.
      - Thinus Glitz
-     - Thomas Blake
-   * - Thomas Dunz
+   * - Thomas Blake
+     - Thomas Dunz
      - Thomas Engleder
-     - Thomas Flatman
-   * - Thomas Frohberg
+   * - Thomas Flatman
+     - Thomas Frohberg
      - Thomas Gunzelmann
-     - Thomas Hilger
-   * - Thomas Klein
+   * - Thomas Hilger
+     - Thomas Klein
      - Thomas Le Berre
-     - Thomas Leahy
-   * - Thomas Mönkemeier
+   * - Thomas Leahy
+     - Thomas Mönkemeier
      - Thomas Papiernik
-     - Thomas Richter
-   * - Thomas Thiel
+   * - Thomas Richter
+     - Thomas Thiel
      - Thomas Vieira
-     - Thorpong Kungsworn
-   * - Tim Baggett
+   * - Thorpong Kungsworn
+     - Tim Baggett
      - Tim Gould
-     - Tine Ningal
-   * - Tishampati Dhar
+   * - Tine Ningal
+     - Tishampati Dhar
      - Tobias Riboldi Vieira
-     - Toby Wilkinson
-   * - Tom Morrison
+   * - Toby Wilkinson
+     - Tom Morrison
      - Tomas Trojacek
-     - Tommaso Gavazza
-   * - Tony MacLeod
+   * - Tommaso Gavazza
+     - Tony MacLeod
      - Tor Mikalsen
-     - Tore Pedersen
-   * - Torsten Christensen
+   * - Tore Pedersen
+     - Torsten Christensen
      - Travis Hammond
-     - Treechai Anuwongjaroen
-   * - Trine Dale
+   * - Treechai Anuwongjaroen
+     - Trine Dale
      - Turq Brown
-     - Tyler Mitchell
-   * - Udo Lenz
+   * - Tyler Mitchell
+     - Udo Lenz
      - Ujaval Gandhi
-     - Ukrainskiy Pavel
-   * - Ulf Rahmel
+   * - Ukrainskiy Pavel
+     - Ulf Rahmel
      - Ulrich Kulle
-     - Ulrich Steinrücken
-   * - Ulrich Von Wulffen
+   * - Ulrich Steinrücken
+     - Ulrich Von Wulffen
      - Ulrike Burgmer
-     - Ulrike Sommer
-   * - Umberto Zulian
+   * - Ulrike Sommer
+     - Umberto Zulian
      - Urban Modelling Solutions N A Matthew
-     - Uros Bernik
-   * - Ursula Baaser
+   * - Uros Bernik
+     - Ursula Baaser
      - Ute Twer
-     - Valdinei Gonçalves
-   * - Valentina Accoto
+   * - Valdinei Gonçalves
+     - Valentina Accoto
      - Valeria Leticia Franco Salvi
-     - Valeria Zusi
-   * - Valerio Franchino
+   * - Valeria Zusi
+     - Valerio Franchino
      - Victor Saldaña
-     - Vincent Mercier
-   * - Vincent Prioul
+   * - Vincent Mercier
+     - Vincent Prioul
      - Vincent Verweij
-     - Vincenzo Lomurno
-   * - Vincenzo Sale
+   * - Vincenzo Lomurno
+     - Vincenzo Sale
      - Vital J Pinheiro Jr J Pinheiro Jr
-     - Vito Latorraca
-   * - Vitor Pereira
+   * - Vito Latorraca
+     - Vitor Pereira
      - Vittorio Dell'Aquila
-     - Vladimir Vrabel
-   * - Volker Römer
+   * - Vladimir Vrabel
+     - Volker Römer
      - Voyages à Vélo
-     - Walter Dellisanti
-   * - Walter di Lorenzetti (GIS3W)
+   * - Walter Dellisanti
+     - Walter di Lorenzetti (GIS3W)
      - Walter Hesse
-     - Wasin Bukaew
-   * - Wayne Bulmer
+   * - Wasin Bukaew
+     - Wayne Bulmer
      - Wendelin Schmitt
-     - Wendell Rodrigues Feliciano
-   * - Werner Hentschel
+   * - Wendell Rodrigues Feliciano
+     - Werner Hentschel
      - Werner Macho
-     - Werner Nienstedt
-   * - Wilker De Jesus Silva
+   * - Werner Nienstedt
+     - Wilker De Jesus Silva
      - William Carleton
-     - William Colson
-   * - William Jesdale
+   * - William Colson
+     - William Jesdale
      - William Levering
-     - William Pallies
-   * - Wolfgang Dennhöfer
+   * - William Pallies
+     - Wolfgang Dennhöfer
      - Wolfgang Scheffler
-     - Wolfgang Stoessel
-   * - Xabier Albizu Zabala
+   * - Wolfgang Stoessel
+     - Xabier Albizu Zabala
      - Xhaustless B V B A
-     - Xuejing Zuo
-   * - Yahya Mohatar Abderrahman
+   * - Xuejing Zuo
+     - Yahya Mohatar Abderrahman
      - Yann Lepage
-     - Yuan Harng Lee
-   * - Yuan-kee Lee
+   * - Yuan Harng Lee
+     - Yuan-kee Lee
      - Yven Dickhörner
-     - Yves Jacolin
-   * - za.miastem Sylwia Cichocińska
+   * - Yves Jacolin
+     - za.miastem Sylwia Cichocińska
      - Zachary Patterson
-     - Zweli Moya
-   * - Ângela Seixas
+   * - Zweli Moya
+     - Ângela Seixas
      - Иваненко Андрей
-     - Коробейников Андрей
-   * - Паршин Александр
+   * - Коробейников Андрей
+     - Паршин Александр
      - Слинкин Филипп
-     - Трифонова Евгения
-   * - เฉลิมศักดิ์ ผมพันธ์
+   * - Трифонова Евгения
+     - เฉลิมศักดิ์ ผมพันธ์
      - 吉原 佑
-     - 田中 創平
+   * - 田中 創平
+     -
+     -
