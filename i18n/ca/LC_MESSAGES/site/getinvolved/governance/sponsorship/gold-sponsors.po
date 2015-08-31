@@ -1,33 +1,28 @@
 # 
 # Translators:
+# josep constanti <iceberg.jcm@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-29 11:34+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Catalan (Spain) (http://www.transifex.com/projects/p/qgis-website/language/ca_ES/)\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2015-08-29 19:34+0000\n"
+"Last-Translator: josep constanti <iceberg.jcm@gmail.com>\n"
+"Language-Team: Catalan (http://www.transifex.com/qgis/qgis-website/language/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ca_ES\n"
+"Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:3
 msgid "Standard agreement for QGIS Gold Sponsors"
-msgstr ""
+msgstr "Agraïment estàndard pels Patrocinadors Or de QGIS"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:5
 msgid ""
 "Sponsors who contribute an amount exceeding *9,000* euros (*13,000* USD) "
 "will be denoted 'Gold Sponsor' status."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:8
-msgid ""
-"A gold sponsor will revieve the following recognition within the various "
-"media produced by the QGIS project:"
 msgstr ""
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:11
@@ -48,7 +43,7 @@ msgstr ""
 msgid ""
 "A rotating banner on the front of QGIS.org which links over to the sponsor's"
 " page"
-msgstr ""
+msgstr "Un bàner rotatiu al front de QGIS.org que enllaça a la pàgina de patrocinadors"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:17
 msgid "Place on our official  poster"
@@ -62,11 +57,11 @@ msgstr ""
 msgid ""
 "Place on an inside dedicated page in the manual (cover to remain clean QGIS "
 "branding)"
-msgstr ""
+msgstr "Situeu a l'interior una pàgina dedicada en el manual (a la portada s'ha de mantenir neta  la marca QGIS)"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:21
 msgid "Place on our downloads page"
-msgstr ""
+msgstr "Posa a la nostra pàgina de baixades"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:22
 msgid "Place on our tracker front page"
@@ -109,3 +104,14 @@ msgid ""
 "try to offer a number of centralised places where these contributors can be "
 "acknowledged, as listed above."
 msgstr ""
+
+#: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:8
+msgid ""
+"A gold sponsor will receive the following recognition within the various "
+"media produced by the QGIS project:"
+msgstr "Un patrocinador d'or rebrà el següent reconeixement dins els diferents mitjans produïts pel projecte QGIS:"
+
+#~ msgid ""
+#~ "A gold sponsor will revieve the following recognition within the various "
+#~ "media produced by the QGIS project:"
+#~ msgstr ""
