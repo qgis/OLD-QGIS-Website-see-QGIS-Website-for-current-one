@@ -189,17 +189,17 @@ Release schedule
 
 Following is the schedule for 2015
 
-==== ======= =======================
-Week Date    Event
-==== ======= =======================
-(30  31.10   2.6 was released)
-3    23.01   2.7 freeze begins
-7    20.02   2.8 is released (LTR)
-21   26.05   2.9 freeze begins
-25   26.06   2.10 is released
-38   26.09   TBD freeze begins
-42   23.10   TBD is released
-==== ======= =======================
+==== ========   =======================
+Week Date       Event
+==== ========   =======================
+30   31.10.14   2.6 was released
+3    23.01.15   2.7 freeze begins
+7    20.02.15   2.8 is released (LTR)
+21   26.05.15   2.9 freeze begins
+25   26.06.15   2.10 is released
+38   26.09.15   2.12 freeze begins
+42   23.10.15   2.12 is released
+==== ========   =======================
 
 
 .. _QGIS-prereleases:
