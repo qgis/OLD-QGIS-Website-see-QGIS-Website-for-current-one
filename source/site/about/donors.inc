@@ -299,7 +299,6 @@
      - Christopher Will
    * - Christos Mitsis
      - Chrysoula Lalazisi
-     - Ciro Sugameli
    * - Claassen Benjamin
      - Claire Moore
      - Clara Santamaria
