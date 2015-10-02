@@ -8,7 +8,7 @@ Changelog for QGIS 2.10
 This is the change log for the next release of QGIS - version 2.10.0 '
 Pisa' - host city to our developer meet up in March 2010.
 
-**Development Release**
+**Latest Release**
 
 This is the next release in our 4-monthly release series. It gives you
 early access to the new features we have been working on and represents
