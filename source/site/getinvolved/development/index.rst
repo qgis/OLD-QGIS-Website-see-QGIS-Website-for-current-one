@@ -3,14 +3,6 @@
 QGIS Development
 ================
 
-.. toctree::
-    :maxdepth: 1
-
-    addinggrasstools
-    cppplugindevelopment
-    pythonplugindevelopment
-
-
 Welcome to the QGIS Development pages
 
 
@@ -174,7 +166,7 @@ release.  Only in case of serious problems a point release (eg 2.4.1) will
 occur.  Therefore testing of the prereleases and reporting issues is very
 important.
 
-In the feature freeze **Developers** monitor the hub and start working on
+In the feature freeze **developers** monitor the hub and start working on
 fixing the reported issues.
 
 With the begin of the feature freeze the translation files will be updated so
@@ -187,20 +179,53 @@ introduce translation string changes.
 Release schedule
 ----------------
 
-Following is the schedule for 2015
+The schedule is aligned to produce roughly the same dates for each year given
+our four monthly releases with LTRs in late february.
 
-==== ======= =======================
-Week Date    Event
-==== ======= =======================
-(30  31.10   2.6 was released)
-3    23.01   2.7 freeze begins
-7    20.02   2.8 is released (LTR)
-21   26.05   2.9 freeze begins
-25   26.06   2.10 is released
-38   26.09   2.11 freeze begins
-42   23.10   2.12 is released
-==== ======= =======================
+Beginning after 2.12 the development phase is always 12 weeks and the freeze
+phase is 5 weeks.  Remainders are used to extend the freeze phase of LTR
+releases.
 
+Future version numbers are subject to change in case of a major releases.
+
+Schedule:
+
+======= ===== ========== =========== =====
+Version Event Date       Week number Weeks
+======= ===== ========== =========== =====
+2.8     LTR   20.02.2015 7           14
+(2.9)   DEV   29.05.2015 21          4
+2.10    LR    26.06.2015 25          13
+(2.11)  DEV   25.09.2015 38          4
+2.12    LR    23.10.2015 42          12
+(2.13)  DEV   15.01.2016 2           6
+2.14    LTR   26.02.2016 8           12
+(2.15)  DEV   20.05.2016 20          5
+2.16    LR    24.06.2016 25          12
+(2.17)  DEV   16.09.2016 37          5
+2.18    LR    21.10.2016 42          12
+(2.19)  DEV   13.01.2017 2           6
+2.20    LTR   24.02.2017 8           12
+======= ===== ========== =========== =====
+
+.. (2.21)  DEV   19.05.2017 20          5
+.. 2.22    LR    23.06.2017 25          12
+.. (2.23)  DEV   15.09.2017 37          5
+.. 2.24    LR    20.10.2017 42          12
+.. (2.25)  DEV   12.01.2018 2           6
+.. 2.26    LTR   23.02.2018 8           12
+.. (2.27)  DEV   18.05.2018 20          5
+.. 2.28    LR    22.06.2018 25
+
+Event legend:
+
+===== =================================================
+Event Description
+===== =================================================
+LTR   Long term release, begin of new development phase
+LR    Regular release, begin of new development phase
+DEV   Feature freeze, end of development phase
+===== =================================================
 
 .. _QGIS-prereleases:
 
@@ -211,11 +236,10 @@ Location of prereleases / nightly builds
 Platform Location
 ======== =============================================================================
 Windows  :ref:`Weekly release candidate <QGIS-windows-weekly>` (standalone installer)
-\ 	 :ref:`OSGeo4W <QGIS-windows-testing>`
+\        :ref:`OSGeo4W <QGIS-windows-testing>`
 Linux    :ref:`Debian/Ubuntu <QGIS-debian-testing>`
 MacOS    :ref:`Mac OS <QGIS-macos-testing>`
 ======== =============================================================================
-
 
 Development
 ===========
@@ -227,7 +251,6 @@ API Documentation
 -----------------
 
 There is `API documentation <http://qgis.org/api/>`_ for C++.
-
 
 Plugin Development
 ==================
@@ -287,3 +310,10 @@ Contributors of new functions are encouraged to let people know about their cont
   * https://github.com/qgis/QGIS/blob/master/doc/CONTRIBUTORS
   * https://github.com/qgis/QGIS/blob/master/doc/AUTHORS
   * https://github.com/qgis/QGIS/blob/master/doc/contributors.json
+
+.. toctree::
+    :maxdepth: 1
+
+    cppplugindevelopment
+    pythonplugindevelopment
+    addinggrasstools
