@@ -1457,7 +1457,7 @@
      - Svetlana Usenyuk
    * - Swampthing Environmental Inc.
      - Swiss QGIS usergroup
-     - Sã©bastien Lorge
+     - Sébastien Lorge
    * - Sébastien Gombault
      - Tad Robinette
      - Tam Nguyen Van
