@@ -1604,4 +1604,17 @@
      - เฉลิมศักดิ์ ผมพันธ์
    * - 吉原 佑
      - 田中 創平
-     -
+     - Florian Hamm
+     - Piergiovanna Grossi
+     - UIH Ingenieur- und Planungsbüro
+     - Marianne Gütler
+     - Pedro Faria
+     - Pereira Brito
+     - Manuel Arriaga
+     - G.A. Odding
+     - Christian Heine
+     - Giacomo Antolini
+     - Antonella Flor
+     - Albert Kilian
+     - Jutta Baumgart
+     - Fondation Rurale de Wallonie
