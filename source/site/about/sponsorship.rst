@@ -118,8 +118,8 @@ goes into the project. These sponsors are listed below with our thanks!
        `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)
      - |bronze| |argus|
 
-      `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
-   *  - |bronze| |canal|
+       `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
+   * - |bronze| |canal|
 
        `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
      - |bronze| |avioportolano|
