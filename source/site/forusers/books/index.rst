@@ -37,7 +37,8 @@ help you develop maps and applications that let you explore the world in new
 ways.
 
 * https://www.packtpub.com/application-development/mastering-qgis
-* Author(s): Kurt Menke, GISP et al.
+* Author(s): Kurt Menke, GISP - Dr. Richard Smith Jr., GISP - Dr. Luigi Pirelli 
+  - Dr John Van Hoesen, GISP
 * Date: March 2015
 
 QGIS Blueprints
@@ -47,7 +48,7 @@ Develop analytical location-based web applications with QGIS
 
 * https://www.packtpub.com/hardware-and-creative/qgis-blueprints
 * Author(s): Ben Mearn
-* Date: Sseptember 2015
+* Date: September 2015
 
 QGIS By Example
 ****************
