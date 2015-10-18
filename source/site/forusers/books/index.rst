@@ -18,6 +18,8 @@ Or you edit this page in github and do a pull request.
 English
 =======
 
+Note: Books order is newest firt.
+
 QGIS Map Design 
 ****************
 
