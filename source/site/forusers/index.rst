@@ -21,6 +21,7 @@ For Users
     support
     commercial_support
     QGIS Plugins <http://plugins.qgis.org/plugins/>
+    books/index
 
 .. note::
 
