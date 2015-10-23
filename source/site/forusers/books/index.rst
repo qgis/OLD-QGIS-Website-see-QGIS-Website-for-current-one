@@ -18,7 +18,7 @@ Or you edit this page in github and do a pull request.
 English
 =======
 
-Note: Books order is newest firt.
+Note: Books order is newest first.
 
 QGIS Map Design 
 ****************
