@@ -73,6 +73,7 @@ ltrrelease = '2.8.3'
 ltrcodename = 'Wien'
 
 devversion = '2.11'
+nextversion = '2.12'
 
 nextfreezedate = datetime(2015, 9, 26, 12, 0, 0).strftime('%Y/%m/%d %H:%M:%S UTC')
 nextreleasedate = datetime(2015, 10, 23, 12, 0, 0).strftime('%Y/%m/%d %H:%M:%S UTC')
@@ -324,6 +325,7 @@ context = {
     'ltrrelease': ltrrelease,
     'ltrcodename': ltrcodename,
     'devversion': devversion,
+    'nextversion': nextversion,
     'nextfreezedate': nextfreezedate,
     'nextreleasedate': nextreleasedate,
 }

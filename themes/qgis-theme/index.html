@@ -1,7 +1,7 @@
 <section class="clock" style="float:right;">
 <br>
-{{ _('Time until feature freeze') }} <span data-countdown="{{ nextfreezedate }}"></span> &nbsp; <br>
-{{ _('Time until next release') }} <span data-countdown="{{ nextreleasedate }}"></span> &nbsp;
+<span id="nextfeaturefreeze"> {{ _('Time until feature freeze') }} <span data-countdown="{{ nextfreezedate }}"></span> &nbsp; <br/> </span>
+<span id="nextrelease"> {{ _('Time until next release') }} <span data-countdown="{{ nextreleasedate }}"></span> &nbsp; </span>
 </section>
 <section class="info">
     <div class="container">
@@ -298,9 +298,18 @@
 
         $('[data-countdown]').each(function() {
           var $this = $(this), finalDate = $(this).data('countdown');
-          $this.countdown(finalDate, function(event) {
-            $this.html( finalDate + " " + event.strftime('%-Dd %-Hh %-Mm'));
-          });
+          $this.countdown(finalDate)
+		.on("update.countdown", function(event) {
+                        $this.html( finalDate + " " + event.strftime('%-Dd %-Hh %-Mm'));
+                })
+		.on("finish.countdown", function(event) {
+                        if( $this.parent().attr('id') == 'nextfeaturefreeze' ) {
+                                $this.parent().html( "{{ devversion|e }} {{ _("in feature freeze since") }} " + event.finalDate.toLocaleString() + "<br/>" );
+                        } else if( $this.parent().attr('id') == 'nextrelease' ) {
+                                $('#nextfeaturefreeze').html("");
+                                $('#nextrelease').html( "{{ nextversion|e }} {{ _("in packaging since" ) }} " + event.finalDate.toLocaleString() );
+                        }
+		})
         });
     });
 </script>
