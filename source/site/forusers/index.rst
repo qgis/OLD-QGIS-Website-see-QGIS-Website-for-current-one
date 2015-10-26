@@ -9,6 +9,7 @@ For Users
 .. toctree::
     :maxdepth: 4
 
+    visualchangelog212/index
     visualchangelog210/index
     visualchangelog28/index
     visualchangelog260/index
