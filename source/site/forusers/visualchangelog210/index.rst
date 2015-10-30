@@ -154,7 +154,7 @@ modification date of a loaded project has changed. This is useful if
 more than one user or session has the same project file open and are
 both attempting to save edits to the project file.
 
-**This feature was developed by:** `Jrgen Fischer
+**This feature was developed by:** `Jürgen Fischer
 (norBIT) <http://www.norbit.de/>`__
 
 |image17|
@@ -278,7 +278,7 @@ See also `this article on
 qgis.ch <http://www.qgis.ch/en/projects/dxf-export>`__ explaining what
 is supported and what not.
 
-**This feature was developed by:** `Jrgen Fischer
+**This feature was developed by:** `Jürgen Fischer
 (norBIT) <http://www.norbit.de/>`__
 
 **This feature was funded by:** Communities of Morges, Uster, Vevey
