@@ -1640,16 +1640,19 @@
      - Yuan Harng Lee
    * - Yuan-kee Lee
      - Yven Dickhörner
-     - Yves Jacolin
-   * - za.miastem Sylwia Cichocińska
+     - Yves Froissart
+   * - Yves Jacolin
+     - za.miastem Sylwia Cichocińska
      - Zachary Patterson
-     - Zweli Moya
-   * - Ângela Seixas
+   * - Zweli Moya
+     - Ângela Seixas
      - Иваненко Андрей
-     - Коробейников Андрей
-   * - Паршин Александр
+   * - Коробейников Андрей
+     - Паршин Александр
      - Слинкин Филипп
-     - Трифонова Евгения
-   * - เฉลิมศักดิ์ ผมพันธ์
+   * - Трифонова Евгения
+     - เฉลิมศักดิ์ ผมพันธ์
      - 吉原 佑
-     - 田中 創平
+   * - 田中 創平
+     -
+     -
