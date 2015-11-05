@@ -1,8 +1,8 @@
 .. _QGIS-Training-material:
 
-======================
-QGIS Training material
-======================
+=================
+Training material
+=================
 
 .. toctree::
    :maxdepth: 2

@@ -1,4 +1,5 @@
-|image0|
+.. _changelog22:
+
 
 Changelog for QGIS 2.2
 ======================

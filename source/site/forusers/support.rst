@@ -1,5 +1,5 @@
-QGIS Support
-============
+Support
+=======
 
 
 Mailing Lists

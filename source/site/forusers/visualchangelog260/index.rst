@@ -1,6 +1,4 @@
-.. figure:: images/projects/qgis-icon_2.png
-   :align: center
-   :alt:
+.. _changelog26:
 
 Changelog for QGIS 2.6
 ======================

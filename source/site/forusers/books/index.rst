@@ -1,8 +1,8 @@
 .. _QGIS-Books:
 
-============
-QGIS Books
-============
+=====
+Books
+=====
 
 .. toctree::
    :maxdepth: 2

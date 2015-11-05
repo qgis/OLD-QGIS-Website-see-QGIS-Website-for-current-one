@@ -1,10 +1,10 @@
-.. figure:: images/projects/qgis-icon_2.png
-    :align: center
-    :alt:
-
+.. _changelog212:
 
 Changelog for QGIS 2.12
 =======================
+
+|image1|
+
 
 This is the change log for the next release of QGIS - version 2.12.0
 'Lyon' - host city to our developer meet up in April 2012.
@@ -109,8 +109,6 @@ use it - in fact we want to encourage people far and wide to use it
 regardless of what your financial or social status is - we believe
 empowering people with spatial decision making tools will result in a
 better society for all of humanity.
-
-|image1|
 
 .. contents::
    :local:
@@ -253,13 +251,12 @@ application level variables set. You can use these variables to build
 text strings or other custom expressions. For example in composer
 creating a label with this content:
 
-| ``This map was made using QGIS [% @qgis_version %].``
-|  ``The project file for this map is:  [% @project_path %]``
+``This map was made using QGIS [% @qgis_version %].``
+``The project file for this map is:  [% @project_path %]``
 
 Will render the label like this:
 
-| ``This map was made using QGIS 2.12.``
-| 
+``This map was made using QGIS 2.12.``
 ``The project file for this map is:  /gis/qgis-user-conference-2015.qgs``
 
 You can manage global variables from the ``Settings -> Options`` menu,
@@ -497,10 +494,8 @@ improvements to the digitising tools were also added in QGIS 2.12:
 Additionally, more of the geometry editing and modification tools were
 updated to work correctly with layers containing z or m dimensions.
 
-| **This feature was developed by:** Marco Hugentobler at `Sourcepole
-AG <http://www.sourcepole.ch/>`__
-|  **This feature was funded by:** `Canton of
-Solothurn <http://www.sogis.so.ch/>`__
+**This feature was developed by:** Marco Hugentobler at `Sourcepole AG <http://www.sourcepole.ch/>`__
+**This feature was funded by:** `Canton of Solothurn <http://www.sogis.so.ch/>`__
 
 |image10|
 
@@ -835,8 +830,7 @@ exception occurs, it will rollBack() all the changes.
 Feature: New API for labeling engine (QgsLabelingEngineV2)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| The idea is to make the engine more flexible compared to
-QgsPalLabeling implementation:
+| The idea is to make the engine more flexible compared to QgsPalLabeling implementation:
 |  - abstract dealing with text labels / diagrams from the engine itself
 |  - allow multiple types of labels per layer
 |  - support custom label providers (e.g. implemented by plugins)
@@ -908,8 +902,7 @@ desktop. With the same limitations.
 |  ``FORMAT_OPTIONS=SCALE:500;MODE:SYMBOLLAYERSYMBOLOGY&``
 |  ``FILE_NAME=youroutputfilename.dxf&``
 |  ``CRS=EPSG:EPSG:21781&``
-| 
-``BBOX=695558.73070825,244430.77224034,697158.88528251,245722.25976142&``
+|  ``BBOX=695558.73070825,244430.77224034,697158.88528251,245722.25976142&``
 |  ``WIDTH=1042&``
 |  ``HEIGHT=841&``
 |  ``LAYERS=yourdxfexportlayers``
