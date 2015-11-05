@@ -98,7 +98,7 @@ match the class name.
 
 Example:
 Class ``QgsFeatureAttribute`` source files are
-``qgsfeatureattribute.cpp` and :code-block:`qgsfeatureattribute.h``
+``qgsfeatureattribute.cpp`` and :code-block:`qgsfeatureattribute.h``
 
 .. note:: In case it is not clear from the statement above, for a filename
   to match a class name it implicitly means that each class should be declared
