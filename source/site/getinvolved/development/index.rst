@@ -244,8 +244,7 @@ MacOS    :ref:`Mac OS <QGIS-macos-testing>`
 Development
 ===========
 
-See INSTALL_
-
+We have Developer Guidelines on this page: 
 
 API Documentation
 -----------------
@@ -287,7 +286,6 @@ http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)
 
 http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)
 
-.. _INSTALL: http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html
 
 Adding GRASS tools
 ------------------
@@ -317,3 +315,4 @@ Contributors of new functions are encouraged to let people know about their cont
     cppplugindevelopment
     pythonplugindevelopment
     addinggrasstools
+    qgisdevelopersguide
