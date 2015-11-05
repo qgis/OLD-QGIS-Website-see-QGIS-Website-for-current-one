@@ -6,18 +6,14 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-11-27 17:21+0000\n"
-"Last-Translator: Sheriff Xie\n"
-"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/qgis-website/language/zh_CN/)\n"
+"PO-Revision-Date: 2015-10-30 11:18+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/qgis/qgis-website/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: ../../source/site/about/features.rst:2
-msgid "Features of QGIS"
-msgstr "QGIS 的特性"
 
 #: ../../source/site/about/features.rst:5
 msgid "QGIS Desktop"
@@ -93,3 +89,10 @@ msgstr "在 Android 设备上使用 QGIS 完成工作。当前版本仍处于实
 #: ../../source/site/about/features.rst:64
 msgid "A screenshot of QGIS on Android"
 msgstr "Android 上的 QGIS 截图"
+
+#: ../../source/site/about/features.rst:2
+msgid "QGIS Applications"
+msgstr ""
+
+#~ msgid "Features of QGIS"
+#~ msgstr ""
