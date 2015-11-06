@@ -3,13 +3,17 @@
 <section class="sub-landing-page" id="top">
     <div class="container-fluid banner">
         <div class="row-fluid">
-            <div class="offset1 span5">
-                <h2>{{ _('Get started<br>using QGIS') }}</h2>
-                <p>{{ _('QGIS is a cross-platform Open Source Geographic Information system with an international support community of enthusiastic users, developers and supporters.') }}</p>
+            <div class="offset1 span11">
+                <h2>{{ _('Get started using QGIS') }}</h2>
+
+                <p><a href="#download">{{ _('Step 1: Download QGIS') }}</a></p>
+
+                <p><a href="#trainingmaterial">{{ _('Step 2: Check our documentation') }}</a><p>
+
+                <p><a href="#help">{{ _('Step 3: Connect with the QGIS community') }}</a><p>
+
             </div>
-            <div class="span6">
-                <img src="{{pathto('_static/images/users-top.png', 1)}}" id="processing" alt="qgis screenshot" class="img-polaroid non-mobile-img oveflow-img banner-img" width="100%"/>
-            </div>
+
         </div>
     </div>
 </section>
@@ -52,133 +56,115 @@
 <section class="sub-landing-page" id="download">
     <div class="container-fluid">
         <div class="row-fluid">
-            <div class="offset1 span5">
+            <div class="offset1 span6">
                 <h3>{{ _('Download QGIS') }}</h3>
 
-                <p class="mute">{{ _('For Linux, Windows, OSX, BSD and (in beta) Android.') }}</p>
+                <p class="mute">{{ _('for your operating system.') }}</p>
+
                 <h4>
-                    <a href="{{ pathto('site/forusers/download') }}" class="btn btn-large btn-primary">{{ _('Download QGIS') }}</a>
+                    <a href="{{ pathto('site/forusers/download') }}" class="btn btn-large btn-primary">{{ _('Get the installer') }}</a>
                 </h4>
 
-                <p>{{ _('Check out our visual changelog, for what has changed since the previous release') }}
+                <p>{{ _('Check out our roadmap for future versions: ') }} <a href="{{ pathto('site/getinvolved/development/index') }}#release-schedule">{{ _('QGIS roadmap') }}</a>
                 </p>
-                    <h4>
-                        <a href="{{ pathto('site/forusers/visualchangelog212/index') }}">{{ _('Visual Changelog for 2.12') }}</a>
-                    </h4>                
-                    <h4>
-                        <a href="{{ pathto('site/forusers/visualchangelog210/index') }}">{{ _('Visual Changelog for 2.10') }}</a>
-                    </h4>                
-                    <h4>
-                        <a href="{{ pathto('site/forusers/visualchangelog28/index') }}">{{ _('Visual Changelog for 2.8 (LTR, Long Term Release)') }}</a>
-                    </h4>
-                    <h4>
-                        <a href="{{ pathto('site/forusers/visualchangelog260/index') }}">{{ _('Visual Changelog for 2.6') }}</a>
-                    </h4>
-                    <h4>
-                        <a href="{{ pathto('site/forusers/visualchangelog240/index') }}">{{ _('Visual Changelog for 2.4') }}</a>
-                    </h4>
-                    <h4>
-                        <a href="{{ pathto('site/forusers/visualchangelog220/index') }}">{{ _('Visual Changelog for 2.2') }}</a>
-                    </h4>
-                    <h4>
-                        <a href="{{ pathto('site/forusers/visualchangelog200/index') }}">{{ _('Visual Changelog for 2.0') }}</a>
-                    </h4>
-                <p>{{ _('Check out our Roadmap for future versions: ') }} <a href="{{ pathto('site/getinvolved/development/index') }}#release-schedule">{{ _('QGIS roadmap') }}</a>
-                </p>
+
+                <h4>
+                    <a href="{{ pathto('site/forusers/visualchangelog212/index') }}">{{ _('See the latest features in the visual changelog') }}</a>
+                </h4>
+
             </div>
             <div class="span1"></div>
-            <div class="span4">
+            <div class="span3">
                 <img src='../../_static/images/users-download.png' class="text-center background-mask non-mobile-image wd" alt="download icon" />
             </div>
             <div class="span1"></div>
         </div>
         <hr>
         <div class="row-fluid" id="trainingmaterial">
-            <div class="offset1 span4">
+            <div class="offset1 span3">
                 <img src='../../_static/images/users-docs.png' class="text-center background-mask non-mobile-image wd" alt="docs icon" />
             </div>
             <div class="span1"></div>
-            <div class="span5">
+            <div class="span6">
                 <h3>{{ _('Documentation') }}</h3>
-                <h4>
-                    <a href="{{ pathto('docs/index') }}" class="btn btn-large btn-primary">{{ _('Check our documentation') }}</a>
-                </h4>
-                <p>{{ _('We provide a Training manual in the documentation. Additionally, there is an index of external material available:') }}
-                <a href="{{ pathto('site/forusers/trainingmaterial/index') }}">{{ _('Training material index') }}</a>
-                </p>
+
+
+                <p>{{ _('Our main documentation is the') }}</p>
+                <h4><a href="http://docs.qgis.org/latest/en/docs/user_manual/">{{ _('QGIS user guide') }}</a></h4>
+
+                <p>{{ _('We also provide step by step tutorials in the') }}</p>
+                <h4><a href="http://docs.qgis.org/latest/en/docs/training_manual/">{{ _('Training manual') }}</a></h4>
+
+                <p>{{ _('External parties also provide') }}</p>
+                <h4><a href="{{ pathto('site/forusers/trainingmaterial/index') }}">{{ _('QGIS tutorials') }}</a></h4>
             </div>
             <div class="span1"></div>
         </div>
-        <hr>
-        <div class="row-fluid" id="plugins">
-            <div class="offset1 span5">
-                <h3>{{ _('Get Plugins') }}</h3>
-                <p>{{ _('QGIS plugin architecture allows many new features/functions to be easily added to the application. ') }}
-                </p>
-                <p>{{ _('The integrated QGIS plugin manager lets you download and install from a vast collection of free plugins.') }}
-                </p>
-                <h4>
-                    <a href="http://plugins.qgis.org/plugins/" class="reference external">{{ _('Explore the plugins that make QGIS so powerful.') }}</a>
-                </h4>
-            </div>
-            <div class="span1"></div>
-            <div class="span4">
-                <img src='../../_static/images/users-plugins.png' class="text-center background-mask non-mobile-image wd" alt="plugins puzzle icon" />
-            </div>
-            <div class="span1"></div>
-        </div>
-        <hr>
-        <div class="row-fluid" id="help">
-            <div class="offset1 span4">
-                <img src='../../_static/images/users-help.png' class="text-center background-mask non-mobile-image wd" alt="help talk bubbles icon" />
-            </div>
-            <div class="span1"></div>
-            <div class="span5">
-                <h3>{{ _('Getting Help') }}</h3>
-                <p>{{ _('There are several QGIS mailing lists, IRC channels, forums and user groups you can use to get help from fellow users and developers.') }}</p>
-                <h4>
-                    <a href="{{ pathto('site/forusers/support') }}">{{ _('Where to get support for QGIS') }}</a>
-                </h4>
-            </div>
-            <div class="span1"></div>
-        </div>
-        <hr>
+        <hr/>
         <div class="row-fluid" id="press">
-            <div class="offset1 span5">
-                <h3>{{ _('QGIS Press') }}</h3>
-                <p>{{ _('Read what the QGIS Community is doing around the world.') }}</p>
+            <div class="offset1 span6">
+                <h3>{{ _('QGIS Publications') }}</h3>
+
+                <p>{{ _('Read what the QGIS community is doing around the world') }}</p>
                 <h4>
-                    <a href="http://planet.qgis.org" class="reference external">{{ _('Planet QGIS') }}</a>
+                    <a href="http://planet.qgis.org" class="reference external">{{ _('in our blogs') }}</a>
                 </h4>
-                <p>{{ _('Get the QGIS 2.0 brochure:') }}</p>
+                <p>{{ _('For more in-depth reading, get some') }}</p>
                 <h4>
-                    <a href="http://download.osgeo.org/qgis/doc/brochure/qgis20_brochure_screen.pdf" class="reference external">{{ _('QGIS 2.0 Brochure') }}</a>
+                    <a href="{{ pathto('site/forusers/books') }}">{{ _('books on QGIS') }}</a>
                 </h4>
-                <p>{{ _('for a high-resolution print version get:') }} <br/>
-                    <a href="http://download.osgeo.org/qgis/doc/brochure/qgis20_brochure_print.pdf" class="reference external">{{ _('Brochure print version (15MB)') }}</a>
-                </p>
-                <p>({_('Find Commercial Books on QGIS:') }) <br/>
-                    <a href="{{ pathto('site/forusers/books') }}">{{ _('Finding Commercial Books on QGIS') }}</a>
-                </p>
+
             </div>
             <div class="span1"></div>
-            <div class="span4">
+            <div class="span3">
                 <img src='../../_static/images/users-press.png' class="text-center background-mask non-mobile-image wd" alt="press sheet icon" />
             </div>
             <div class="span1"></div>
         </div>
-        <hr>
+        <hr/>
+        <div class="row-fluid" id="help">
+            <div class="offset1 span3">
+                <img src='../../_static/images/users-help.png' class="text-center background-mask non-mobile-image wd" alt="help talk bubbles icon" />
+            </div>
+            <div class="span1"></div>
+            <div class="span6">
+                <h3>{{ _('Getting Help') }}</h3>
+                <p>{{ _('You can get in touch with fellow users and developers via') }}</p>
+                <h4>
+                    <a href="{{ pathto('site/forusers/support') }}">{{ _('our community support channels') }}</a>
+                </h4>
+            </div>
+            <div class="span1"></div>
+        </div>
+        <hr/>
+        <div class="row-fluid" id="plugins">
+            <div class="offset1 span6">
+                <h3>{{ _('Get Plugins') }}</h3>
+                <p>{{ _('QGIS plugins allow you to add many new features and functions. Get them from') }}
+                </p>
+                <h4>
+                    <a href="http://plugins.qgis.org/plugins/" class="reference external">{{ _('the plugin repository') }}</a>
+                </h4>
+            </div>
+            <div class="span1"></div>
+            <div class="span3">
+                <img src='../../_static/images/users-plugins.png' class="text-center background-mask non-mobile-image wd" alt="plugins puzzle icon" />
+            </div>
+            <div class="span1"></div>
+        </div>
+        <hr/>
         <div class="row-fluid" id="commercial">
-            <div class="offset1 span4">
+            <div class="offset1 span3">
                 <img src='../../_static/images/users-commercial.png' class="text-center background-mask non-mobile-image wd" alt="commercial support icon" />
             </div>
             <div class="span1"></div>
-            <div class="span5">
+            <div class="span6">
                 <h3>{{ _('Commercial Support') }}</h3>
-                <p>{{ _('Do you plan to use QGIS in your company or organization, but worry about whether there is commercial support available? Here is an alphabetical list of support contractors.') }}
+                <p>{{ _('Do you plan to use QGIS in your company or organization, but worry about whether there is
+                    commercial support available? Here is an alphabetical') }}
                 </p>
                 <h4>
-                    <a href="{{ pathto('site/forusers/commercial_support') }}">{{ _('Finding Commercial Support for QGIS') }}</a>
+                    <a href="{{ pathto('site/forusers/commercial_support') }}">{{ _('list of support contractors') }}</a>
                 </h4>
             </div>
             <div class="span1"></div>
