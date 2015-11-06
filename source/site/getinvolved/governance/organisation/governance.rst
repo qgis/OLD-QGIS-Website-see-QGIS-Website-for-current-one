@@ -101,7 +101,6 @@ code added into the git code repository.
 * WFS server: René-Luc D'Hont <rldhont[at]gmail.com>
 * GDAL tools: Giuseppe Sucameli <brush.tyler[at]gmail.com>
 * Offline editing plugin: Mathias Walker <mwa[at]sourcepole.ch>
-* SQL anywhere plugin and provider: David DeHaan <Dave.DeHaan[at]sap.com>
 * QgisWebClient: Andreas Neumann <a.neumann[at]carto.net>
 * MSsql provider: Nathan Woodrow <madmanwoo[at]gmail.com>
 * Labelling engine: Larry Shaffer <larrys[at]dakotacarto.com>
