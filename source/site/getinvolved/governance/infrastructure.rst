@@ -1,5 +1,5 @@
 
-QGIS infrastructure
+Infrastructure
 ===================
 
 This page should show you all the infrastructure and services that QGIS uses,

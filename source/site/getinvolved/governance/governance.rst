@@ -1,12 +1,12 @@
-.. _governance:
+.. _whoiswho:
 
-QGIS Governance
-===============
+Who is who in the project
+=========================
 
 QGIS as a Project is currently organised in this way:
 
-Project Steering Commitee
--------------------------
+Project Steering Committee
+--------------------------
 
 The QGIS project is managed by the Project Steering Committee (PSC) which
 consists of 8 members (with their individual responsibilities listed in

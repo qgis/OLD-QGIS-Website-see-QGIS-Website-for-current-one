@@ -1,7 +1,7 @@
 .. _translate-qgis:
 
-Translate QGIS into your Language
-=================================
+Translation
+===========
 
 .. _translate-gui:
 

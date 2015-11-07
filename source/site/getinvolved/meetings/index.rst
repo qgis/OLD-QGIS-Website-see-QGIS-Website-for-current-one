@@ -1,8 +1,8 @@
 .. _QGIS-Meetings:
 
-=============
-QGIS Meetings
-=============
+========
+Meetings
+========
 
 .. toctree::
    :maxdepth: 2

@@ -1,7 +1,7 @@
 
-========================
-QGIS Sponsorship Program
-========================
+===================
+Sponsorship Program
+===================
 
 Contents:
 

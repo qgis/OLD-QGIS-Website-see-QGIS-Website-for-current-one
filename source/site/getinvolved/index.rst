@@ -8,8 +8,7 @@ Get Involved / Development
     translate
     document
     Plugins website <http://plugins.qgis.org>
-    Mailinglist <mailinglists>
-    QGIS Infrastructure <infrastructure>
+    mailinglists
     governance/index
     development/index
     meetings/index

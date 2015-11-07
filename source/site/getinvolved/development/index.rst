@@ -1,7 +1,7 @@
 
-================
-QGIS Development
-================
+===========
+Development
+===========
 
 Welcome to the QGIS Development pages
 

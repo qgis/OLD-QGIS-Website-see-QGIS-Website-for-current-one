@@ -1,7 +1,7 @@
 
-=======================
-QGIS Release Checklists
-=======================
+==================
+Release Checklists
+==================
 
 Contents:
 

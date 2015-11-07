@@ -1,7 +1,7 @@
 .. _creditforcontributors:
 
-QGIS Credits for Contributors
-===============================
+Credits for Contributors
+========================
 
 Individuals, institutions and firms who contributed code to QGIS can let
 people know about their contribution by:

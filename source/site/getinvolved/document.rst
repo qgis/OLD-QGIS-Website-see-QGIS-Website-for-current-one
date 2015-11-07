@@ -1,7 +1,7 @@
 .. _update-qgis-docs:
 
-Update QGIS Documentation
-=========================
+Update Documentation
+====================
 
 The update of the QGIS documentation is managed by the :ref:`Community Team Lead <gui-translation>`.
 Have a look at the :ref:`QGIS Governance <gui-translation>` to find out who is in charge 

@@ -1,9 +1,9 @@
 .. _psc:
 
-PSC Project Steering Committee
-..............................
+What is the PSC
+===============
 
-Current members of the PSC can be found :ref:`here <governance>`
+Current members of the (Project Steering Committee) PSC can be found :ref:`here <whoiswho>`
 
 Term of PSC members
 ...................
