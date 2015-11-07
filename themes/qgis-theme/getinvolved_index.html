@@ -3,25 +3,28 @@
 <section class="sub-landing-page" id="top">
     <div class="container-fluid banner">
         <div class="row-fluid">
-            <div class="offset1 span5">
+            <div class="offset1 span11">
                 <h2>{{ _('Get involved with the QGIS community') }}</h2>
                 <p>{{ _('QGIS is developed by a team of dedicated volunteers and 
-                organisations. QGIS strives to be a welcoming community for 
-                people of all race, creed, gender and walks of life. 
-                Please read our ') }}
+                organisations. We strive to be a welcoming community for
+                people of all race, creed, gender and walks of life.') }} </p>
+
+                <p><strong>{{ _('You can get involved!') }}</strong></p>
+
+                <p>{{ _('For more information, please read our ') }}
                 <a href="{{ pathto('site/getinvolved/governance/codeofconduct/diversitystatement') }}">{{ _('diversity statement') }}</a>
                 {{ _('and') }}
                 <a href="{{ pathto('site/getinvolved/governance/codeofconduct/codeofconduct') }}">{{ _('code of conduct') }}</a>.
                 </p>
 
-                <p><strong>{{ _('You can get involved!') }}</strong></p>
+
 
             </div>
-            <div class="span1"></div>
+            <!--<div class="span1"></div>
             <div class="span4">
                 <img src='../../_static/images/get-involved-top.png' class="text-center background-mask non-mobile-image overflow-img" alt="get involved garden icon" width="100%" />
             </div>
-            <div class="span1"></div>
+            <div class="span1"></div>-->
         </div>
     </div>
 </section>
@@ -63,40 +66,52 @@
 <section class="sub-landing-page main" id="participate">
     <div class="container-fluid">
         <div class="row-fluid" id="bugs">
-            <div class="offset1 span4">
+            <div class="offset1 span3">
                 <img src='../../_static/images/about-features.png' class="text-center background-mask non-mobile-image wd" alt="features icon" />
             </div>
             <div class="span1"></div>
-            <div class="span5">
+            <div class="span6">
                 <h3>{{ _('Report Bugs') }}</h3>
-                <p>{{ _('If you find an issue working with QGIS please report it so developers can check and fix it.') }}</p>
+                <p>{{ _('If you find an issue working with QGIS, please ') }}</p>
                 <h4 class="subsection-link">
-                    <a href="{{ pathto('site/getinvolved/development/index') }}#bugs-features-and-issues">{{ _('Report a bug') }}</a>
+                    <a href="{{ pathto('site/getinvolved/development/index') }}#bugs-features-and-issues">{{ _('report it') }}</a>
                 </h4>
-
+                <p>{{ _('so developers can check and fix it.  ') }}</p>
             </div>
             <div class="span1"></div>
         </div>
         <hr>    
         <div class="row-fluid">
-            <div class="offset1 span5">
+            <div class="offset1 span6">
                 <h3>{{ _('Participate in Support Channels') }}</h3>
-                <p>{{ _('There are several QGIS mailing lists, IRC channels, forums and user groups you can use to get help from fellow users and developers, or to keep up with current project events. You are welcome to subscribe to any of the lists. Please remember to contribute to the list by answering questions and sharing your experiences. We also provide a website to search the mailing list archives.') }}</p>
-                <h4 class="subsection-link"><a href="{{ pathto('site/forusers/support') }}">{{ _('List of QGIS Support Channels') }}</a></h4>
+                <p>{{ _('There are several ') }}
+                    <ul>
+                    <li><a href="{{ pathto('site/forusers/support') }}#mailing-lists">{{ _('QGIS mailing lists') }}</a>,</li>
+                    <li><a href="{{ pathto('site/forusers/support') }}#chat">{{ _('IRC chats') }}</a>,</li>
+                    <li><a href="{{ pathto('site/forusers/support') }}#forums">{{ _('forums') }}</a>, {{ _('and') }}</li>
+                    <li><a href="{{ pathto('site/forusers/support') }}#user-groups">{{ _('user groups') }}</a></li>
+                    </ul>
+                    {{ _('you can use to get help from fellow users and developers, or to keep up with current project events.
+                    You are welcome to subscribe to any of the lists. Please remember to contribute to the list by
+                    answering questions and sharing your experiences. We also provide a ') }}
+                    <a href="{{ pathto('site/forusers/support') }}#searchable-mailing-lists">{{ _('website to search the mailing list archives') }}</a>.
+                    {{ _('For the full list see') }}
+                </p>
+                <h4 class="subsection-link"><a href="{{ pathto('site/forusers/support') }}">{{ _('our community support channels page') }}</a></h4>
             </div>
             <div class="span1"></div>
-            <div class="span4">
+            <div class="span3">
                 <img src='../../_static/images/get-involved-participate.png' class="text-center background-mask non-mobile-image wd" alt="participate icon" />
             </div>
             <div class="span1"></div>
         </div>
         <hr>
         <div class="row-fluid" id="translate">
-            <div class="offset1 span4">
+            <div class="offset1 span3">
                 <img src='../../_static/images/get-involved-translate.png' class="text-center background-mask non-mobile-image wd" alt="translate bubbles icon" />
             </div>
             <div class="span1"></div>
-            <div class="span5">
+            <div class="span6">
                 <h3>{{ _('Translate QGIS') }}</h3>
                 <p>{{ _('The QGIS project provides a gentle GIS introduction, a User Guide, a Coding and Compilation Guide and a API Documentation in english and in some cases also translated into several foreign languages. If you are interested in getting involved with the documentation effort, e.g. translating the english manual into another language, learn how to get started here:') }}</p>
                 <h4 class="subsection-link">
@@ -107,25 +122,25 @@
         </div>
         <hr>
         <div class="row-fluid" id="plugin">
-            <div class="offset1 span5">
+            <div class="offset1 span6">
                 <h3>{{ _('Develop a Plugin') }}</h3>
                 <p>{{ _('Want to write your own Python plugin? Go here: ') }} <a href="http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/" >{{ _('Developing Python plugins') }}</a>
                 <p>{{ _('Want to develop a C++ plugin? Go here: ') }} <a href="{{ pathto('site/getinvolved/development/cppplugindevelopment') }}" >{{ _('Developing CPP plugins') }}</a>.
                 <p>{{ _('A wide range of great plugins exist for QGIS via the ') }} <a href="http://plugins.qgis.org" target="_blank">{{ _('QGIS Plugin web portal') }}</a>.
             </div>
             <div class="span1"></div>
-            <div class="span4">
+            <div class="span3">
                 <img src='../../_static/images/get-involved-plugin.png' class="text-center background-mask non-mobile-image wd" alt="plugins puzzle icon" />
             </div>
             <div class="span1"></div>
         </div>
         <hr>
         <div class="row-fluid" id="core">
-            <div class="offset1 span4">
+            <div class="offset1 span3">
                 <img src='../../_static/images/get-involved-core.png' class="text-center background-mask non-mobile-image wd" alt="core gears icon" />
             </div>
             <div class="span1"></div>
-            <div class="span5">
+            <div class="span6">
                 <h3>{{ _('Develop QGIS Core') }}</h3>
                 <p>{{ _('QGIS Core consists on the one hand of the libraries enabling you to build custom tailored application by  providing a powerful API. On the other hand it consists of a desktop and server application which expose the possibilities offered by the libraries, offering a user friendly interface.') }}</p>
                 <h4 class="subsection-link">
@@ -139,14 +154,14 @@
         </div>
         <hr>
         <div class="row-fluid" id="donate">
-            <div class="offset1 span5">
+            <div class="offset1 span6">
                 <h3>{{ _('Sponsor & Donate') }}</h3>
                 <p>{{ _('There are two kinds of financial contributions, we accept:') }}</p>
                 <p><strong>{{ _('sponsorships:') }}</strong> {{ _(' annual commitments of funds to the project') }} - <a href="{{ pathto('site/about/sponsorship') }}">{{ _('more information and a list of our sponsors') }}</a></p>
                 <p><strong>{{ _('donations:') }}</strong> {{ _(' one-time financial contributions to the project') }} - we accept <a href="{{ pathto('site/getinvolved/donations') }}">{{ _('donations via a variety of channels') }}</a></p>
             </div>
             <div class="span1"></div>
-            <div class="span4">
+            <div class="span3">
                 <img src='../../_static/images/get-involved-donate.png' class="text-center background-mask non-mobile-image wd" alt="donate icon" />
             </div>
             <div class="span1"></div>

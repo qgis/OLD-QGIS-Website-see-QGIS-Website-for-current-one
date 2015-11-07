@@ -13,6 +13,7 @@ For Users
     download
     trainingmaterial/index
     support
+    usergroups
     commercial_support
     Plugins <http://plugins.qgis.org/plugins/>
     books/index
