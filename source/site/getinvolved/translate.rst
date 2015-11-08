@@ -5,8 +5,6 @@ Translation
 
 .. _translate-gui:
 
-Application (GUI)
------------------
 
 The translation of the user interface (GUI) is managed by the :ref:`Translation
 team lead <gui-translation>`.
@@ -77,8 +75,8 @@ To start QGIS with the appropriate localization, run qgis with the option
 
 .. _howto-translate-gui:
 
-HOWTO translate
-...............
+Documentation
+-------------
 
 The QGIS interface is natively programmed in English. However, it is designed
 to be translated into any language quite easily. At this moment over fifty
@@ -128,4 +126,3 @@ With requesting a new language please bear in mind that we try to make it as sim
 as possible. Just ask for the language you want to translate (regardless in which
 country you reside). Only if there are notable differences in the languages (for
 example portuguese in Portugal in Brazil) we will create its own version.
-

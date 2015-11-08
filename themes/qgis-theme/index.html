@@ -1,7 +1,7 @@
 <section class="clock" style="float:right;">
 <br>
 <span id="nextfeaturefreeze"> {{ _('Time until feature freeze') }} <span data-countdown="{{ nextfreezedate }}"></span> &nbsp; <br/> </span>
-<span id="nextrelease"> {{ _('Time until next release') }} <span data-countdown="{{ nextreleasedate }}"></span> &nbsp; </span>
+<span id="nextrelease"> {{ _('Time until packaging') }} <span data-countdown="{{ nextreleasedate }}"></span> &nbsp; </span>
 </section>
 <section class="info">
     <div class="container">
@@ -140,13 +140,13 @@
     <div class="container">
         <div class="row">
             <div class="span4">
-                <a href="{{ pathto('site/forusers/download') }}">
+                <a href="{{ pathto('site/forusers/index') }}">
                 <div class="info-box">
                         <h4>{{ _('Get Started') }}</h4>
                         <div class="box-content">
                             <div class="highlights-icon" id="get-started"></div>
                             <p>
-                                {{ _('Download and install QGIS then follow the quickstart.') }}
+                                {{ _('Started using QGIS for your GIS tasks.') }}
                             </p>
                         </div>
                     </div>

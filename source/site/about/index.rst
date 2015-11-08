@@ -10,7 +10,7 @@ Discover QGIS
     case_studies/index
     sponsorship
     shop_goodies
-    QGIS blogs<http://planet.qgis.org>
+    Blogs<http://planet.qgis.org>
 
 .. note::
 

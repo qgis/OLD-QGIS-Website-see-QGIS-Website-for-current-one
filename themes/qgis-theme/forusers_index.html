@@ -3,8 +3,8 @@
 <section class="sub-landing-page" id="top">
     <div class="container-fluid banner">
         <div class="row-fluid">
-            <div class="offset1 span11">
-                <h2>{{ _('Get started using QGIS') }}</h2>
+            <div class="span12">
+                <h2>{{ _('Get Started Using QGIS') }}</h2>
 
                 <p><a href="#download">{{ _('Step 1: Download QGIS') }}</a></p>
 
@@ -56,7 +56,7 @@
 <section class="sub-landing-page" id="download">
     <div class="container-fluid">
         <div class="row-fluid">
-            <div class="offset1 span6">
+            <div class="span8">
                 <h3>{{ _('Download QGIS') }}</h3>
 
                 <p class="mute">{{ _('for your operating system.') }}</p>
@@ -77,15 +77,14 @@
             <div class="span3">
                 <img src='../../_static/images/users-download.png' class="text-center background-mask non-mobile-image wd" alt="download icon" />
             </div>
-            <div class="span1"></div>
         </div>
         <hr>
         <div class="row-fluid" id="trainingmaterial">
-            <div class="offset1 span3">
+            <div class="span3">
                 <img src='../../_static/images/users-docs.png' class="text-center background-mask non-mobile-image wd" alt="docs icon" />
             </div>
             <div class="span1"></div>
-            <div class="span6">
+            <div class="span8">
                 <h3>{{ _('Documentation') }}</h3>
 
 
@@ -98,11 +97,10 @@
                 <p>{{ _('External parties also provide') }}</p>
                 <h4><a href="{{ pathto('site/forusers/trainingmaterial/index') }}">{{ _('QGIS tutorials') }}</a></h4>
             </div>
-            <div class="span1"></div>
         </div>
         <hr/>
         <div class="row-fluid" id="press">
-            <div class="offset1 span6">
+            <div class="span8">
                 <h3>{{ _('QGIS Publications') }}</h3>
 
                 <p>{{ _('Read what the QGIS community is doing around the world') }}</p>
@@ -119,46 +117,25 @@
             <div class="span3">
                 <img src='../../_static/images/users-press.png' class="text-center background-mask non-mobile-image wd" alt="press sheet icon" />
             </div>
-            <div class="span1"></div>
         </div>
         <hr/>
         <div class="row-fluid" id="help">
-            <div class="offset1 span3">
+            <div class="span3">
                 <img src='../../_static/images/users-help.png' class="text-center background-mask non-mobile-image wd" alt="help talk bubbles icon" />
             </div>
             <div class="span1"></div>
-            <div class="span6">
+            <div class="span8">
                 <h3>{{ _('Getting Help') }}</h3>
                 <p>{{ _('You can get in touch with fellow users and developers via') }}</p>
                 <h4>
                     <a href="{{ pathto('site/forusers/support') }}">{{ _('our community support channels') }}</a>
                 </h4>
             </div>
-            <div class="span1"></div>
         </div>
-        <hr/>
-        <div class="row-fluid" id="plugins">
-            <div class="offset1 span6">
-                <h3>{{ _('Get Plugins') }}</h3>
-                <p>{{ _('QGIS plugins allow you to add many new features and functions. Get them from') }}
-                </p>
-                <h4>
-                    <a href="http://plugins.qgis.org/plugins/" class="reference external">{{ _('the plugin repository') }}</a>
-                </h4>
-            </div>
-            <div class="span1"></div>
-            <div class="span3">
-                <img src='../../_static/images/users-plugins.png' class="text-center background-mask non-mobile-image wd" alt="plugins puzzle icon" />
-            </div>
-            <div class="span1"></div>
-        </div>
+
         <hr/>
         <div class="row-fluid" id="commercial">
-            <div class="offset1 span3">
-                <img src='../../_static/images/users-commercial.png' class="text-center background-mask non-mobile-image wd" alt="commercial support icon" />
-            </div>
-            <div class="span1"></div>
-            <div class="span6">
+            <div class="span8">
                 <h3>{{ _('Commercial Support') }}</h3>
                 <p>{{ _('Do you plan to use QGIS in your company or organization, but worry about whether there is
                     commercial support available? Here is an alphabetical') }}
@@ -168,7 +145,27 @@
                 </h4>
             </div>
             <div class="span1"></div>
+            <div class="span3">
+                <img src='../../_static/images/users-commercial.png' class="text-center background-mask non-mobile-image wd" alt="commercial support icon" />
+            </div>
         </div>
+
+        <hr/>
+        <div class="row-fluid" id="plugins">
+            <div class="span3">
+                <img src='../../_static/images/users-plugins.png' class="text-center background-mask non-mobile-image wd" alt="plugins puzzle icon" />
+            </div>
+            <div class="span1"></div>
+            <div class="span8">
+                <h3>{{ _('Get Plugins') }}</h3>
+                <p>{{ _('QGIS plugins allow you to add many new features and functions. Get them from') }}
+                </p>
+                <h4>
+                    <a href="http://plugins.qgis.org/plugins/" class="reference external">{{ _('the plugin repository') }}</a>
+                </h4>
+            </div>
+        </div>
+
     </div>
 </section>
 <section class="sub-landing-page">

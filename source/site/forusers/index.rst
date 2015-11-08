@@ -9,8 +9,9 @@ For Users
 .. toctree::
     :maxdepth: 3
 
-    visualchangelogs
+
     download
+    visualchangelogs
     trainingmaterial/index
     support
     usergroups

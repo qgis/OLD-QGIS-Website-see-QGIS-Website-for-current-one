@@ -1,7 +1,7 @@
 .. _QGIS-sponsoring:
 
-Supporting QGIS
-===============
+Sponsors and Donors
+===================
 
 We thank our sponsors and donors who support the QGIS project and enable us to pay
 for our infrastructure and important development work, as well as finance developer

@@ -1,5 +1,7 @@
-QGIS Applications
-=================
+Applications
+============
+
+QGIS is not only a desktop GIS. We also provide a spatial file browser, a server application, and web applications.
 
 QGIS Desktop
 ------------

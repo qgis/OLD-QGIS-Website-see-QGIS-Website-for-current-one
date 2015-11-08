@@ -5,7 +5,7 @@
 Mailinglists
 ============
 
-QGIS has a set of mailing lists. 
+We communicate on mailing lists divided by topics and target groups. Feel free to subscribe to any of these lists.
 
 
 QGIS users list
