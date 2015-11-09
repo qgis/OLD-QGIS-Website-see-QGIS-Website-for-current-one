@@ -30,14 +30,6 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. Gold sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
-|gold|
-|aas_long|
-
-`ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, Japan (11.2012-10.2015)
-
-.. |aas_long| image:: /static/site/about/images/aas_long.png
-   :width: 300 px
-
 .. Silver sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
 .. list-table:: Silver sponsors
@@ -71,73 +63,72 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
-   * - |bronze| |lutra|
+   * - |bronze| |urbsol|
+
+       `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)
+     - |bronze| |lutra|
 
        `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2016)
-     - |bronze| |whg|
+   * - |bronze| |whg|
 
        `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2015-08.2016)
-   * - |bronze| |npa|
+     - |bronze| |npa|
 
        `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
-     - |bronze| |qpolska|
+   * - |bronze| |qpolska|
 
        `QGIS Poland <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
-   * - |bronze| |terrelogiche|
+     - |bronze| |terrelogiche|
 
        `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2016)
-     - |bronze| |geosynergy|
+   * - |bronze| |geosynergy|
 
        `www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (05.2012-05.2013+06.2015-06-2016)
-   * - |bronze| |gaia3d|
+     - |bronze| |gaia3d|
 
        `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2016)
-     - |bronze| |windsor|
+   * - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2016)
-   * - |bronze| |chartwell|
+     - |bronze| |chartwell|
 
        `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2016)
-     - |bronze| |tragewegen|
+   * - |bronze| |tragewegen|
 
        `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2016)
-   * - |bronze| |gfi|
+     - |bronze| |gfi|
 
        `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
-     - |bronze| |claasleinert|
+   * - |bronze| |claasleinert|
 
        `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2016)
-   * - |bronze| |gis_supp|
+     - |bronze| |gis_supp|
 
        `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-02.2016)
-     - |bronze| |adlares|
+   * - |bronze| |adlares|
 
        `ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
-   * - |bronze| |molitec|
+     - |bronze| |molitec|
 
        `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)
-     - |bronze| |argus|
+   * - |bronze| |argus|
 
        `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
-   * - |bronze| |canal|
+     - |bronze| |canal|
 
        `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
-     - |bronze| |avioportolano|
+   * - |bronze| |avioportolano|
 
        `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
-   * - |bronze| |wggios|
+     - |bronze| |wggios|
 
        `Faculty of Geology, Geophysics and Environmental Protection, AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Poland (11.2014-11.2015)
-     - |bronze| |urbsol|
-
-       `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2015)
    * - |bronze| |mappinggis|
 
        `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2015)
      - |bronze| |gis3w|
 
        `GIS3W <http://www.gis3w.it/>`_, Italy (10.2014-10.2015)
-
 
 .. |whg| image:: /static/site/about/images/whg.jpg
    :width: 90 px
@@ -227,6 +218,15 @@ Also `OSGeo <http://www.osgeo.org/>`_ is partly supporting our HackFests: 2012.1
 in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 ----
+
+.. list-table:: Past gold sponsors
+
+  * - |gold| |aas_long|
+
+      `ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, Japan (11.2012-10.2015)
+
+.. |aas_long| image:: /static/site/about/images/aas_long.png
+   :width: 160 px
 
 .. list-table:: Past silver sponsors
 

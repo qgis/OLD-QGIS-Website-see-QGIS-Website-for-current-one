@@ -1609,7 +1609,6 @@
      - Ulrike Burgmer
      - Ulrike Sommer
    * - Umberto Zulian
-     - Urban Modelling Solutions N A Matthew
      - Uros Bernik
    * - Ursula Baaser
      - Ute Twer
