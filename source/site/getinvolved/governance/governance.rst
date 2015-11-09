@@ -137,7 +137,7 @@ Werner Macho <werner.macho[at]gmail.com>
 The QGIS GUI Translation is managed by the Community Assistant (GUI
 Translation Team Lead) and supported by additional language specific teams.
 Information about the current documentation status and the translation
-process are provided at the TranslatorsCorner.
+process are provided at the :ref:`Translators Corner <translate-qgis>`.
 
 Contact : `qgis-community-team <http://lists.osgeo
 .org/mailman/listinfo/qgis-community-team>`_ list
