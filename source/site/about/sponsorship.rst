@@ -35,20 +35,20 @@ goes into the project. These sponsors are listed below with our thanks!
 .. list-table:: Silver sponsors
 
   * - |silver| |gaia|
-        `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (11.2015-11.2016)
   
+  `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (11.2015-11.2016)
   - |silver| |sourcepole|
-        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2016)
 
+  `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2016)
   *  - |silver| |agh|
-       `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
 
+  `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
   - |silver| |vorarlberg|
-       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-05.2016)
- 
+
+  `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-05.2016)
   *  - |silver| |opw|
 
-       `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
+  `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
 
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 150 px
