@@ -166,8 +166,12 @@ members write code or documentation, while others are valuable as testers,
 submitting patches and suggestions.
 
 The number of Contributors to the project is unbounded. Get involved today.
-All contributions to the project are greatly appreciated.
+All contributions (adding code or documentation, fixing typo error, reporting issues...) to the project are greatly appreciated.
 
-This `individuals <https://github.com/qgis/QGIS/graphs/contributors>`_
-are recognised as Project Committers and have full commit access to the
+These `individuals <https://github.com/qgis/QGIS/graphs/contributors>`_
+are recognised as Contributors to the main code
 `github repository <https://github.com/qgis/QGIS>`_.
+
+..
+   TODO : add list of translators, bug reporters (is that possible?)
+  
