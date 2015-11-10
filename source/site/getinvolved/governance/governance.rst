@@ -172,6 +172,8 @@ These `individuals <https://github.com/qgis/QGIS/graphs/contributors>`_
 are recognised as Contributors to the main code
 `github repository <https://github.com/qgis/QGIS>`_.
 
+Follow the lists of maintainers of the `documentation <https://github.com/qgis/QGIS-Documentation/graphs/contributors>`_ and the `website <https://github.com/qgis/QGIS-Website/graphs/contributors>`_. Feel free to join any of those teams.
+
 ..
    TODO : add list of translators, bug reporters (is that possible?)
   
