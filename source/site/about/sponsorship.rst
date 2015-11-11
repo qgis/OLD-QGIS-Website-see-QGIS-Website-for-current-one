@@ -28,32 +28,26 @@ Annually we also receive support from various organisations who appreciate the
 work we do and would like to facilitate the sustained development effort that
 goes into the project. These sponsors are listed below with our thanks!
 
-.. Gold sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
-
 .. Silver sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
 .. list-table:: Silver sponsors
 
-  * - |silver| |gaia|
-  
-  `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (11.2015-11.2016)
-  - |silver| |sourcepole|
+   * - |silver| |gaia|
+        `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (11.2015-11.2016)
 
-  `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2016)
-  *  - |silver| |agh|
+   * - |silver| |sourcepole|
+        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2016)
 
-  `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
-  - |silver| |vorarlberg|
+   * - |silver| |agh|
+       `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
 
-  `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-05.2016)
-  *  - |silver| |opw|
+   * - |silver| |vorarlberg|
+       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-05.2016)
 
-  `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
+   *  - |silver| |opw|
+        `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
 
 .. |gaia| image:: /static/site/about/images/gaia.png
-   :width: 150 px
-
-.. |sourcepole| image:: /static/site/about/images/sourcepole.png
    :width: 150 px
 
 .. |sourcepole| image:: /static/site/about/images/sourcepole.png
@@ -243,7 +237,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
   * - |silver| |sogis|
 
       `Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013 and 04.2011-04.2012)
-  * - |silver| |gaia|
+  * - |silver| |gaiasilver|
 
       `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (06.2013-06.2014)
   * - |silver| |vorarlberg2|
@@ -253,7 +247,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 .. |sogis| image:: /static/site/about/images/sogis.gif
    :width: 100 px
 
-.. |gaia| image:: /static/site/about/images/gaia.png
+.. |gaiasilver| image:: /static/site/about/images/gaia.png
    :width: 100 px
 
 .. |vorarlberg2| image:: /static/site/about/images/land_f.jpg
