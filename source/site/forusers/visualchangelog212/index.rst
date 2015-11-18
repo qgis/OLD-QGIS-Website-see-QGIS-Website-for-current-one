@@ -263,7 +263,7 @@ You can manage global variables from the ``Settings -> Options`` menu,
 and project level variables from ``Project properties`` (including
 adding your own custom variables).
 
-**This feature was developed by:** Nyall Dawson
+**This feature was developed by:** `Nyall Dawson <http://nyalldawson.net/>`__
 
 |image18|
 
@@ -495,6 +495,7 @@ Additionally, more of the geometry editing and modification tools were
 updated to work correctly with layers containing z or m dimensions.
 
 **This feature was developed by:** Marco Hugentobler at `Sourcepole AG <http://www.sourcepole.ch/>`__
+
 **This feature was funded by:** `Canton of Solothurn <http://www.sogis.so.ch/>`__
 
 |image10|
@@ -830,12 +831,13 @@ exception occurs, it will rollBack() all the changes.
 Feature: New API for labeling engine (QgsLabelingEngineV2)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| The idea is to make the engine more flexible compared to QgsPalLabeling implementation:
-|  - abstract dealing with text labels / diagrams from the engine itself
-|  - allow multiple types of labels per layer
-|  - support custom label providers (e.g. implemented by plugins)
-|  - make the labeling engine independent from map rendering engine
-|  - make it easier to auto-test the labeling engine and its components
+The idea is to make the engine more flexible compared to QgsPalLabeling implementation:
+
+  - abstract dealing with text labels / diagrams from the engine itself
+  - allow multiple types of labels per layer
+  - support custom label providers (e.g. implemented by plugins)
+  - make the labeling engine independent from map rendering engine
+  - make it easier to auto-test the labeling engine and its components
 
 See `blogpost <http://www.lutraconsulting.co.uk/blog/2015/10/25/rule-based-labeling/>`__ for more details
 
