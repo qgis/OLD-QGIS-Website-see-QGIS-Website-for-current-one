@@ -274,7 +274,7 @@ Analysis tools
 Feature: Added number of vertices to derived fields in identify tool
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Using the identify tool one a line feature will now show the number of
+Using the identify tool on a line feature will now show the number of
 vertices in the feature as an additional derived attribute.
 
 Feature: Raster alignment tool
