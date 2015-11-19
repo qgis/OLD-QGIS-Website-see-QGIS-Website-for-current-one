@@ -204,15 +204,15 @@ functions for finding the similarity of two strings and also for
 performing phonetic matching between strings, and allow you to perform
 filters for records which "nearly match" a specified string.
 
-More geometry based functions have been added, including
+More geometry based functions have been added, including:
 
--  ``num_points(geometry)`` for calculating the number of nodes in a
+-  ``num_points(geom)`` for calculating the number of nodes in a
    geometry
 -  ``area(geom)``, ``length(geom)`` and ``perimeter(geom)``, for
    calculating the area, length and perimeter of any geometry object.
    Previously only calculation of the area, length and perimeter of the
    current feature's geometry was possible.
--  ``start_point(geom)``, ``end_point(geom)``, ``point_n(geom)``, for
+-  ``start_point(geom)``, ``end_point(geom)``, ``point_n(geom, n)``, for
    retrieving the first, last and numbered points from a geometry
 -  ``make_point(x,y)``, for manual creation of a point geometry
 -  ``x(geom)``, ``y(geom)`` functions which return the x and y
