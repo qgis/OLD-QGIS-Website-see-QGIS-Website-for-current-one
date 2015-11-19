@@ -325,7 +325,7 @@ Feature: Encrypted password management
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 QGIS 2.12 introduces a new authentication system (see `PR 2330, QEP
-14 <https://github.com/dakcarto/QGIS-Enhancement-Proposals/blob/auth-system/qep-14-authentication-system.rst>`__.
+14 <https://github.com/dakcarto/QGIS-Enhancement-Proposals/blob/auth-system/qep-14-authentication-system.rst>`__).
 Here's what is included:
 
 -  Master-password-encrypted authentication configurations stored in an
@@ -421,7 +421,7 @@ Data management
 Feature: DBManager Improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-There have been a number of improvements to the DB Manger tool:
+There have been a number of improvements to the DB Manager tool:
 
 -  In the DB Manager you can now export your data to any OGR supported
    data format instead of the Shapefile only that was available in the
@@ -799,7 +799,7 @@ See also `QGIS GRASS Plugin Upgrade project page <http://www.gissula.eu/qgis-gra
 Programmability
 ---------------
 
-Feature: Maptools moved from app->gui
+Feature: Map tools moved from app->gui
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This change allows reuse of map tools from within PyQGIS scripts and
