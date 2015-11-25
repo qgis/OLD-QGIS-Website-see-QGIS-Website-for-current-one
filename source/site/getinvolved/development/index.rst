@@ -183,7 +183,7 @@ The schedule is aligned to produce roughly the same dates for each year given
 our four monthly releases with LTRs in late february.
 
 Beginning after 2.12 the development phase is always 12 weeks and the freeze
-phase is 5 weeks or more.  Remainders are used to extend the freeze phase of
+phase is at least 5 weeks.  Remainders are used to extend the freeze phase of
 LTR releases.
 
 Point releases will happen every months on the latest release branch and the
@@ -203,7 +203,7 @@ DEV   (2.11)        25.09.2015 38          4
 LR    2.12          23.10.2015 42          12
 PR    2.8.x/2.12.x  27.11.2015 47
 PR    2.8.x/2.12.x  18.12.2015 50
-PR    2.8.x/2.12.x  15.01.2015 2
+PR    2.8.x/2.12.x  15.01.2016 2
 DEV   (2.13)        15.01.2016 2           6
 LTR   2.14          26.02.2016 8           12
 PR    2.8.x         26.02.2016 8
@@ -221,7 +221,7 @@ LR    3.2           21.10.2016 42          12
 PR    2.14.x        21.10.2016 42
 PR    2.14.x/3.2.x  25.11.2016 47
 PR    2.14.x/3.2.x  16.12.2016 50
-PR    2.14.x/3.2.x  13.01.2016 50
+PR    2.14.x/3.2.x  13.01.2017 50
 DEV   (3.3)         13.01.2017 2           6
 LTR   3.4           24.02.2017 8           12
 ===== ============= ========== =========== =====
