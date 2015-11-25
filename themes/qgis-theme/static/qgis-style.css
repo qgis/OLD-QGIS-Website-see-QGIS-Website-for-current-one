@@ -601,9 +601,6 @@ section.content h4 {
   -moz-box-shadow: none;
   box-shadow: none;
 }
-.bs-sidenav > ul {
-  padding-top: 60px;
-}
 @media (min-width: 980px) {
   .navbar .container {
     width: 100% !important;
@@ -612,10 +609,16 @@ section.content h4 {
     width: 300px !important;
     margin: 0 !important;
   }
+  .bs-sidenav > ul {
+    padding-top: 60px;
+  }
 }
 @media (max-width: 980px) {
   body {
     padding-top: 0 !important;
+  }
+  .bs-sidenav.well {
+    border-right: none;
   }
 }
 #core-contributors a.reference.internal,
