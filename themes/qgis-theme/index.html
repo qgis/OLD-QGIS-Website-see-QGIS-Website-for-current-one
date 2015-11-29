@@ -1,7 +1,8 @@
 <section class="clock" style="float:right;">
 <br>
 <span id="nextfeaturefreeze"> {{ _('Time until feature freeze') }} <span data-countdown="{{ nextfreezedate }}"></span> &nbsp; <br/> </span>
-<span id="nextrelease"> {{ _('Time until packaging') }} <span data-countdown="{{ nextreleasedate }}"></span> &nbsp; </span>
+<span id="nextrelease"> {{ _('Time until packaging') }} <span data-countdown="{{ nextreleasedate }}"></span> &nbsp; <br/> </span>
+<span id="nextpointreleasedate"> {{ _('Time until next pointrelease') }} <span data-countdown="{{ nextpointreleasedate }}"></span> &nbsp; </span>
 </section>
 <section class="info">
     <div class="container">
@@ -108,7 +109,7 @@
     <div class="container">
         <div class="span6">
             <p><a href="{{ pathto('site/forusers/download') }}" class="btn btn-large btn-success btn-flat">{{ _('Download Now') }}</a></p>
-            <p class="muted">{{ _('Version') }} {{ release|e }}</p>
+            <p class="muted">{{ _('Version') }} {{ release|e }} <br/> {{ _('LTR Version') }} {{ ltrrelease|e }}</p>
         </div>
         <div class="span5">
             <p><a href="{{ pathto('site/getinvolved/index') }}#donate" class="btn btn-large btn-success btn-flat">{{ _('Support QGIS') }}</a></p>

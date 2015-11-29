@@ -107,11 +107,14 @@ pulldocsources:
 	# may 21 2014: no more incorporating of docs IN the website
 	#scripts/pulldocsources.sh $(LANG)
 
-html: localizeresources
+html: localizeresources output/html/version.txt
 	$(SPHINXINTL) build -l $(LANG) -c $(SOURCEDIR)/conf.py
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
 	@echo
 	@echo "Build finished. The HTML pages for '$(LANG)' are in $(BUILDDIR)."
+
+output/html/version.txt: source/conf.py
+	python scripts/mkversion.py
 
 fullhtml: pulldocsources html
 
