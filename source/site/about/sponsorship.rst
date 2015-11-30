@@ -105,7 +105,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
    * - |bronze| |claasleinert|
 
-       `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2016)
+       `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2016)
      - |bronze| |gis_supp|
 
        `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-02.2016)
