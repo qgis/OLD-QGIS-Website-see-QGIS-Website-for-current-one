@@ -67,6 +67,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |hfacts|
+
+       `HostingFacts.com <https://hostingfacts.com/>`_, Estonia (12.2015-12.2016)
+     - |bronze| |kela|
+
+       `Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, Germany (12.2015-12.2016)
    * - |bronze| |urbsol|
 
        `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)
@@ -133,6 +139,12 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |gis3w|
 
        `GIS3W <http://www.gis3w.it/>`_, Italy (10.2014-10.2015)
+
+.. |kea| image:: /static/site/about/images/kela.png
+   :width: 64 px
+
+.. |hfacts| image:: /static/site/about/images/hfacts.png
+   :width: 90 px
 
 .. |whg| image:: /static/site/about/images/whg.jpg
    :width: 90 px
