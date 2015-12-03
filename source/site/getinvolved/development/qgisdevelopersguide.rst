@@ -129,6 +129,11 @@ example:
    *
    ***************************************************************************/
 
+.. note:: There is a template for Qt Creator in git. To use it, copy it from
+``doc/qt_creator_license_template`` to a local location, adjust the
+mail address and - if required - the name and configure QtCreator to use it:
+``Tools`` -> ``Options`` -> ``C++`` -> ``File Naming``.
+
 Keyword Substitution
 ....................
 
