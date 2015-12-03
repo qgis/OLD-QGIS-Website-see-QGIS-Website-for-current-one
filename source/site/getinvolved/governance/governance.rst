@@ -5,21 +5,22 @@ Who is who in the project
 
 QGIS as a Project is currently organised in this way:
 
-Project Steering Committee
---------------------------
+Board (Project Steering Committee)
+-----------------------------------
 
-The QGIS project is managed by the Project Steering Committee (PSC) which
-consists of 8 members (with their individual responsibilities listed in
+The QGIS project is managed by the Board (Project Steering Committee; PSC)
+which consists of 9 members (with their individual responsibilities listed in
 brackets):
 
-* Gary Sherman (Chair)
+* Tim Sutton (Chair; Testing/QA Manager)
+* Paolo Cavallini (Co-Chair; Marketing Advisor) [since January 2008]
+* Andreas Neumann (Treasurer) [since November 2015]
 * Marco Hugentobler (Technical Advisor)
-* Tim Sutton (Testing/QA Manager)
 * Otto Dassau (Community Advisor) [since June 2007]
-* Paolo Cavallini (Financial and Marketing Advisor) [since January 2008]
 * Anita Graser (Design Advisor) [since September 2013]
 * Richard Duivenvoorde (Infrastructure Manager) [since September 2013]
 * Jürgen Fischer (Release Manager) [since September 2013]
+* Gary Sherman (Founder and lifetime Honarary Member)
 
 Read more about the responsibilities of the PSC :ref:`here <psc>`
 
