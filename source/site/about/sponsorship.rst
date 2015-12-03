@@ -140,7 +140,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
        `GIS3W <http://www.gis3w.it/>`_, Italy (10.2014-10.2015)
 
-.. |kea| image:: /static/site/about/images/kela.png
+.. |kela| image:: /static/site/about/images/kela.png
    :width: 64 px
 
 .. |hfacts| image:: /static/site/about/images/hfacts.png

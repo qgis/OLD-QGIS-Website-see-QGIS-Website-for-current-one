@@ -129,7 +129,7 @@ http://stackoverflow.com/questions/13209597/override-html-page-template-for-a-sp
         </button>
 
         <a class="brand" href="{{ pathto(master_doc) }}">{% if theme_navbar_title -%}{{ theme_navbar_title|e }}{%- else -%}{{ project|e }}{%- endif -%}</a>
-        <span class="navbar-text pull-left"><p><br/><b>{{ release|e }} <br/> {{ ltrrelease|e }} (LTR)</b></p></span>
+        <span class="navbar-text pull-left"><p><b>{{ release|e }} <br/> {{ ltrrelease|e }} (LTR)</b></p></span>
         {% block languageswitch %}
           {% include "languageswitch.html" %}
         {% endblock %}
