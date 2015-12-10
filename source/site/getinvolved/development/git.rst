@@ -150,6 +150,7 @@ changes, you can propse to integrate them back into the master branch. First
 you will need to push your changes to github.
 
 .. code::
+
   # Replace `gh-mku` with your remote name and `myfeature` with your branch name
   git push -u gh-mku myfeature
 
