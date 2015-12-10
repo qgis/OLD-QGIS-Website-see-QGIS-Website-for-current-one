@@ -61,6 +61,8 @@ run this script automatically to make your life easier.
 .. code::
 
   ln -s scripts/prepare-commit.sh .git/hooks/pre-commit
+  
+The script needs a customized version of `artistic style <http://astyle.sourceforge.net/>`_. You should enable the option `WITH_ASTYLE` in cmake.
 
 Setup remote repositories
 .........................
