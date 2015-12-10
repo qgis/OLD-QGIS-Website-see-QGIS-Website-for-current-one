@@ -157,7 +157,14 @@ you will need to push your changes to github.
   git push -u gh-mku myfeature
 
 Now the code will be uploaded to github and you can use your favorite web
-browser to make a pull request.
+browser to make a pull request. Whenever you want to change something on the pull request you can add some commits while on the branch `myfeature`. If you push these changes, they will appear automatically in an existing pull request for this branch.
+
+.. code::
+
+  # Make some changes
+  git add test/src/python/test_qgsawesomefunctionality.py
+  git commit -m 'Add test for awesome functionality'
+  git push
 
 Pull Requests
 -------------
