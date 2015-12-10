@@ -21,12 +21,16 @@ to QGIS it is sufficient to `clone the repository
 <https://help.github.com/articles/cloning-a-repository/>`_. Cloning is a
 one-time operation to initialize your local copy.
 
-``git clone https://github.com/qgis/QGIS.git``
+.. code::
+
+  git clone https://github.com/qgis/QGIS.git
 
 In the future, if you want to keep up to date with the latest changes you will
 have to `pull <https://help.github.com/articles/fetching-a-remote/#pull>`_.
 
-``git pull``
+.. code::
+
+  git pull
 
 
 Developing with git
@@ -54,7 +58,9 @@ There is a nice script that comes with the QGIS source code and does not only
 check but also fix various formatting problems with your changes. You should
 run this script automatically to make your life easier.
 
-``ln -s scripts/prepare-commit.sh .git/hooks/pre-commit``
+.. code::
+
+  ln -s scripts/prepare-commit.sh .git/hooks/pre-commit
 
 Setup remote repositories
 .........................
@@ -68,12 +74,15 @@ work with two remotes:
 
 To check which remotes are currently setup, you may use the following command:
 
-``git remote -v``
+.. code::
+
+  git remote -v
 
 Normally the first remote which gets added gets the name ``origin``. I renamed
 it here (in the file ``.git/config``) to avoid confusion and give explicit names.
 
 .. code::
+
   qgis  git@github.com:qgis/QGIS.git (fetch)
   qgis  git@github.com:qgis/QGIS.git (push)
   gh-mku  git@github.com:m-kuhn/QGIS.git (fetch)
@@ -90,6 +99,7 @@ First of all, let's make sure we are up to date with our master branch, since
 that's where we start off and we don't want to be starting with an old version.
 
 .. code::
+
   git checkout master
   git pull
 
@@ -98,17 +108,20 @@ sync with the status quo of the source code. Therefore we create a new branch,
 starting from the current state of master.
 
 .. code::
+
   git checkout -b myfeature
 
 You can verify that you are now on this new branch with
 
 .. code::
+
   git status
 
 So let's go and change some files. After you have done some changes, you want
 to commit them. This is a local operation, we will bring this to github later.
 
 .. code::
+
   git add .
   git commit -m 'A descriptive message here'
 
@@ -116,6 +129,7 @@ Please note, that you should always give descriptive commit messages. Avoid
 messages like "fixed a bug". It's better to use a message like this:
 
 .. code::
+
   Do not crash when opening shp files on windows
 
   Although QGIS is free and open source software it should respect that there
