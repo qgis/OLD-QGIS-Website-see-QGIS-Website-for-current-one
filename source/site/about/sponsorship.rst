@@ -135,7 +135,10 @@ goes into the project. These sponsors are listed below with our thanks!
        `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
    * - |bronze| |wggios|
 
-       `Faculty of Geology, Geophysics and Environmental Protection, AGH University of Science and Technology <http://www.avioportolano.it/>`_, Poland (11.2014-11.2015)
+       `Faculty of Geology, Geophysics and Environmental Protection, AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Poland (11.2014-11.2015)
+     - |bronze| |Currently Empty|
+
+       `Currently Empty <http://www.nowhere.com/>`_, xx (11.2014-11.2015)
 
 .. |kela| image:: /static/site/about/images/kela.png
    :width: 64 px
@@ -269,7 +272,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
        `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
     - |bronze| |empty entry|
 
-      `Empty Entry <http://www.nowhere.org/>`_, XX (period)
+      `Empty Entry <http://www.nowhere.org/>`_, XX (11.2014-11.2015)
   * - |bronze| |openrunner|
 
       `www.openrunner.com <http://www.openrunner.com/>`_, France (05.2014-05.2015)
