@@ -33,7 +33,7 @@ goes into the project. These sponsors are listed below with our thanks!
 .. list-table:: Silver sponsors
 
    * - |silver| |gaia|
-       `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (11.2015-11.2016)
+       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (11.2015-11.2016)
 
    * - |silver| |sourcepole|
        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2016)
@@ -133,12 +133,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |canal|
 
        `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
-   * - |bronze| |avioportolano|
+   * - |bronze| |wggios|
 
-       `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
-     - |bronze| |wggios|
-
-       `Faculty of Geology, Geophysics and Environmental Protection, AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Poland (11.2014-11.2015)
+       `Faculty of Geology, Geophysics and Environmental Protection, AGH University of Science and Technology <http://www.avioportolano.it/>`_, Poland (11.2014-11.2015)
 
 .. |kela| image:: /static/site/about/images/kela.png
    :width: 64 px
@@ -267,6 +264,12 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 .. list-table:: Past bronze sponsors
 
+   * - |bronze| |avioportolano|
+
+       `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
+    - |bronze| |empty entry|
+
+      `Empty Entry <http://www.nowhere.org/>`_, XX (period)
   * - |bronze| |openrunner|
 
       `www.openrunner.com <http://www.openrunner.com/>`_, France (05.2014-05.2015)
