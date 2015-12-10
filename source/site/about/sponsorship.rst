@@ -73,6 +73,12 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |kela|
 
        `Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, Germany (12.2015-12.2016)
+   * - |bronze| |mappinggis|
+
+       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2015-11.2016)
+     - |bronze| |Currently Empty|
+
+       `Currently Empty <http://www.nowhere.com/>`_, xx (11.2014-11.2015)
    * - |bronze| |urbsol|
 
        `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)
@@ -133,12 +139,6 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |wggios|
 
        `Faculty of Geology, Geophysics and Environmental Protection, AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Poland (11.2014-11.2015)
-   * - |bronze| |mappinggis|
-
-       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2015)
-     - |bronze| |gis3w|
-
-       `GIS3W <http://www.gis3w.it/>`_, Italy (10.2014-10.2015)
 
 .. |kela| image:: /static/site/about/images/kela.png
    :width: 64 px
