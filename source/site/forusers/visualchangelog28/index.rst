@@ -44,7 +44,7 @@ financial support they provide to this project:
 -  BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_
 -  BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_
 -  BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_
--  BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www.eschenlaub.de/>`_
+-  BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www.gkg-kassel.de/>`_
 -  BRONZE Sponsor: `Customer Analytics, USA <http://www.customeranalytics.com/>`_
 -  BRONZE Sponsor: `Urbsol, Australia <http://www.urbsol.com.au/>`_
 -  BRONZE Sponsor: `MappingGIS, Spain <http://www.mappinggis.com/>`_
