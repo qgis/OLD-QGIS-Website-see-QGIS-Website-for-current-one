@@ -79,7 +79,7 @@ financial support they provide to this project:
 -  BRONZE Sponsor: `GFI - Gesellschaft fr Informations technologie mbH,
    Germany <http://www.gfi-gis.de/>`__
 -  BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner),
-   Germany <http://www.eschenlaub.de/>`__
+   Germany <http://www.gkg-kassel.de/>`__
 -  BRONZE Sponsor: `GIS-Support, Poland <http://www.gis-support.com/>`__
 -  BRONZE Sponsor: `ADLARES GmbH, Germany <http://www.adlares.com/>`__
 -  BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`__
