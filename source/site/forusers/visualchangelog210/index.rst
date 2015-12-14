@@ -62,7 +62,7 @@ financial support they provide to this project:
 -  BRONZE Sponsor: `www.openrunner.com,
    France <http://www.openrunner.com>`__
 -  BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner),
-   Germany <http://www.eschenlaub.de/>`__
+   Germany <http://www.gkg-kassel.de/>`__
 -  BRONZE Sponsor: `Customer Analytics,
    USA <http://www.customeranalytics.com/>`__
 -  BRONZE Sponsor: `Urbsol, Australia <http://www.urbsol.com.au/>`__
