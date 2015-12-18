@@ -1,7 +1,7 @@
 
 .. _QGIS-roadmap:
 
-=========
+
 Road Map
 =========
 
@@ -22,7 +22,7 @@ Every third release (starting with 2.8) is a long-term-release (LTR) that is
 maintained until the next long-term-release occurs.
 
 Development phase
-=================
+-----------------
 
 In the development phase developers work on adding new features for the next
 release. Early adopters can use the nightly builds we have for all major
@@ -30,7 +30,7 @@ platforms to see the development progress, do preliminary testing and provide
 bug reports and their thoughts to help with development.
 
 Feature freeze
-==============
+--------------
 
 In the feature freeze phase new features are not allowed in anymore and the
 focus of everyone moves from enhancing QGIS to stablizing it.  This also turns
@@ -56,7 +56,7 @@ introduce translation string changes.
 .. _QGIS-release-schedule:
 
 Release schedule
-================
+----------------
 
 The schedule is aligned to produce roughly the same dates for each year given
 our four monthly releases with LTRs in late february.
@@ -128,7 +128,7 @@ PR    Point release of latest release and LTR branch
 .. _QGIS-prereleases:
 
 Location of prereleases / nightly builds
-========================================
+----------------------------------------
 
 ======== =============================================================================
 Platform Location
