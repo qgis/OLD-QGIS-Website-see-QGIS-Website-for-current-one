@@ -7,7 +7,7 @@ Welcome to the QGIS Development pages
 
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     roadmap
     bugreporting
