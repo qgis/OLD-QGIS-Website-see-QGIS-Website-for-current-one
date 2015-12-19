@@ -143,7 +143,3 @@ reproduce the output might shed some light about where QGIS crashes.
 .. _OSGeo4W: http://trac.osgeo.org/osgeo4w
 .. _DebugView: http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx
 
-Creating a patch
-----------------
-
-To be done
