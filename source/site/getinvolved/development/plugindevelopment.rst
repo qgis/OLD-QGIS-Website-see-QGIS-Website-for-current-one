@@ -1,4 +1,4 @@
-
+.. _plugin-development:
 
 Plugin Development
 ===================
