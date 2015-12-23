@@ -279,7 +279,7 @@ module and the options which you want to use. For example:
   r.to.vect.area: r.to.vect input output feature=area
 
 
-See also here for discussion on "GRASS-QGIS relevant module list":http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list.
+See also here for discussion on `GRASS-QGIS relevant module list <http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list>`_.
 
 
 Modules to be deprecated

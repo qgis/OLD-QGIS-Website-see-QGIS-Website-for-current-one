@@ -204,15 +204,15 @@ functions for finding the similarity of two strings and also for
 performing phonetic matching between strings, and allow you to perform
 filters for records which "nearly match" a specified string.
 
-More geometry based functions have been added, including
+More geometry based functions have been added, including:
 
--  ``num_points(geometry)`` for calculating the number of nodes in a
+-  ``num_points(geom)`` for calculating the number of nodes in a
    geometry
 -  ``area(geom)``, ``length(geom)`` and ``perimeter(geom)``, for
    calculating the area, length and perimeter of any geometry object.
    Previously only calculation of the area, length and perimeter of the
    current feature's geometry was possible.
--  ``start_point(geom)``, ``end_point(geom)``, ``point_n(geom)``, for
+-  ``start_point(geom)``, ``end_point(geom)``, ``point_n(geom, n)``, for
    retrieving the first, last and numbered points from a geometry
 -  ``make_point(x,y)``, for manual creation of a point geometry
 -  ``x(geom)``, ``y(geom)`` functions which return the x and y
@@ -263,7 +263,7 @@ You can manage global variables from the ``Settings -> Options`` menu,
 and project level variables from ``Project properties`` (including
 adding your own custom variables).
 
-**This feature was developed by:** Nyall Dawson
+**This feature was developed by:** `Nyall Dawson <http://nyalldawson.net/>`__
 
 |image18|
 
@@ -274,7 +274,7 @@ Analysis tools
 Feature: Added number of vertices to derived fields in identify tool
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Using the identify tool one a line feature will now show the number of
+Using the identify tool on a line feature will now show the number of
 vertices in the feature as an additional derived attribute.
 
 Feature: Raster alignment tool
@@ -325,7 +325,7 @@ Feature: Encrypted password management
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 QGIS 2.12 introduces a new authentication system (see `PR 2330, QEP
-14 <https://github.com/dakcarto/QGIS-Enhancement-Proposals/blob/auth-system/qep-14-authentication-system.rst>`__.
+14 <https://github.com/dakcarto/QGIS-Enhancement-Proposals/blob/auth-system/qep-14-authentication-system.rst>`__).
 Here's what is included:
 
 -  Master-password-encrypted authentication configurations stored in an
@@ -421,7 +421,7 @@ Data management
 Feature: DBManager Improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-There have been a number of improvements to the DB Manger tool:
+There have been a number of improvements to the DB Manager tool:
 
 -  In the DB Manager you can now export your data to any OGR supported
    data format instead of the Shapefile only that was available in the
@@ -495,6 +495,7 @@ Additionally, more of the geometry editing and modification tools were
 updated to work correctly with layers containing z or m dimensions.
 
 **This feature was developed by:** Marco Hugentobler at `Sourcepole AG <http://www.sourcepole.ch/>`__
+
 **This feature was funded by:** `Canton of Solothurn <http://www.sogis.so.ch/>`__
 
 |image10|
@@ -798,7 +799,7 @@ See also `QGIS GRASS Plugin Upgrade project page <http://www.gissula.eu/qgis-gra
 Programmability
 ---------------
 
-Feature: Maptools moved from app->gui
+Feature: Map tools moved from app->gui
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This change allows reuse of map tools from within PyQGIS scripts and
@@ -830,12 +831,13 @@ exception occurs, it will rollBack() all the changes.
 Feature: New API for labeling engine (QgsLabelingEngineV2)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| The idea is to make the engine more flexible compared to QgsPalLabeling implementation:
-|  - abstract dealing with text labels / diagrams from the engine itself
-|  - allow multiple types of labels per layer
-|  - support custom label providers (e.g. implemented by plugins)
-|  - make the labeling engine independent from map rendering engine
-|  - make it easier to auto-test the labeling engine and its components
+The idea is to make the engine more flexible compared to QgsPalLabeling implementation:
+
+  - abstract dealing with text labels / diagrams from the engine itself
+  - allow multiple types of labels per layer
+  - support custom label providers (e.g. implemented by plugins)
+  - make the labeling engine independent from map rendering engine
+  - make it easier to auto-test the labeling engine and its components
 
 See `blogpost <http://www.lutraconsulting.co.uk/blog/2015/10/25/rule-based-labeling/>`__ for more details
 
