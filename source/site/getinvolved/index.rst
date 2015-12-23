@@ -7,10 +7,10 @@ Get Involved / Development
 
     document
     translate
+    development/index
     Plugins website <http://plugins.qgis.org>
     mailinglists
     governance/index
-    development/index
     meetings/index
     donations
     faq/index
