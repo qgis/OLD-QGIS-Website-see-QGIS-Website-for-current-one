@@ -1779,42 +1779,42 @@
    * - Werner Macho
      - Werner Nedon
      - Werner Nienstedt
-   * - Wiktor Zalewski
+   * - Wesley Ward
+     - Wiktor Zalewski
      - Wilker De Jesus Silva
-     - William Carleton
-   * - William Colson
+   * - William Carleton
+     - William Colson
      - William Jesdale
-     - William Kelleher
-   * - William Levering
+   * - William Kelleher
+     - William Levering
      - William Pallies
-     - Winifred Frick
-   * - Wolfgang Dennhöfer
+   * - Winifred Frick
+     - Wolfgang Dennhöfer
      - Wolfgang Scheffler
-     - Wolfgang Stoessel
-   * - Xabier Albizu Zabala
+   * - Wolfgang Stoessel
+     - Xabier Albizu Zabala
      - Xhaustless B V B A
-     - Xuejing Zuo
-   * - Yahya Mohatar Abderrahman
+   * - Xuejing Zuo
+     - Yahya Mohatar Abderrahman
      - Yann Lepage
-     - Yorck Neumann
-   * - Yuan Harng Lee
+   * - Yorck Neumann
+     - Yuan Harng Lee
      - Yuan-kee Lee
-     - Yven Dickhörner
-   * - Yves Froissart
+   * - Yven Dickhörner
+     - Yves Froissart
      - Yves Jacolin
-     - za.miastem Sylwia Cichocińska
-   * - Zachary Patterson
+   * - za.miastem Sylwia Cichocińska
+     - Zachary Patterson
      - Zebra On Wheels
-     - Zsolt Gal
-   * - Zweli Moya
+   * - Zsolt Gal
+     - Zweli Moya
      - Ângela Seixas
-     - Иваненко Андрей
-   * - Коробейников Андрей
+   * - Иваненко Андрей
+     - Коробейников Андрей
      - Кравцов Сергей
-     - Паршин Александр
-   * - Слинкин Филипп
+   * - Паршин Александр
+     - Слинкин Филипп
      - Трифонова Евгения
-     - เฉลิมศักดิ์ ผมพันธ์
-   * - 吉原 佑
+   * - เฉลิมศักดิ์ ผมพันธ์
+     - 吉原 佑
      - 田中 創平
-     -
