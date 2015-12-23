@@ -92,13 +92,13 @@ C++ Files
 Names
 .....
 
-C++ implementation and header files should be have a .cpp and .h extension
-respectively.Filename should be all lowercase and, in the case of classes,
+C++ implementation and header files should have a .cpp and .h extension
+respectively. Filename should be all lowercase and, in the case of classes,
 match the class name.
 
 Example:
 Class ``QgsFeatureAttribute`` source files are
-``qgsfeatureattribute.cpp`` and :code-block:``qgsfeatureattribute.h``
+``qgsfeatureattribute.cpp`` and ``qgsfeatureattribute.h``
 
 .. note:: In case it is not clear from the statement above, for a filename
   to match a class name it implicitly means that each class should be declared
@@ -130,9 +130,9 @@ example:
    ***************************************************************************/
 
 .. note:: There is a template for Qt Creator in git. To use it, copy it from
-``doc/qt_creator_license_template`` to a local location, adjust the
-mail address and - if required - the name and configure QtCreator to use it:
-``Tools`` -> ``Options`` -> ``C++`` -> ``File Naming``.
+  ``doc/qt_creator_license_template`` to a local location, adjust the
+  mail address and - if required - the name and configure QtCreator to use it:
+  ``Tools`` -> ``Options`` -> ``C++`` -> ``File Naming``.
 
 Keyword Substitution
 ....................
@@ -168,7 +168,7 @@ Enumerated types should be named in CamelCase with a leading capital e.g.:
   };
 
 Do not use generic type names that will conflict with other types. e.g. use
-``UnkownUnit` rather than ``Unknown``
+``UnkownUnit`` rather than ``Unknown``
 
 Global Constants & Macros
 --------------------------
@@ -196,10 +196,10 @@ spaces.
 Indentation
 ...........
 
-Source code should be indented to improve readability.There is a
-scripts/prepare-commit.sh that looks up the changed files and reindents them
-using astyle.This should be run before committing.You can also use
-scripts/astyle.sh to indent individual files.
+Source code should be indented to improve readability. There is a
+``scripts/prepare-commit.sh`` that looks up the changed files and reindents them
+using astyle. This should be run before committing. You can also use
+``scripts/astyle.sh`` to indent individual files.
 
 As newer versions of astyle indent differently than the version used to do a
 complete reindentation of the source, the script uses an old astyle version,
@@ -267,7 +267,7 @@ Coding Style
 
 
 Here are described some programming hints and tips that will hopefully reduce
-errors, development time, and maintenance.
+errors, development time and maintenance.
 
 
 Where-ever Possible Generalize Code
@@ -290,11 +290,11 @@ Prefer Having Constants First in Predicates
 
 Prefer to put constants first in predicates.
 
-``0 == value` instead of :code-block:`value == 0``
+``0 == value`` instead of ``value == 0``
 
 This will help prevent programmers from accidentally using ``=`` when they meant
 to use ``==``, which can introduce very subtle logic bugs.The compiler will
-generate an error if you accidentally use ``=` instead of :code-block:`==`` for comparisons
+generate an error if you accidentally use ``=` instead of `==`` for comparisons
 since constants inherently cannot be assigned values.
 
 Whitespace Can Be Your Friend
@@ -335,7 +335,7 @@ Consider:
     baz();
 
 Adding code after bar() or baz() without adding enclosing braces would create
-broken code.Though most programmers would naturally do that, some may forget
+broken code. Though most programmers would naturally do that, some may forget
 to do so in haste.
 
 So, prefer this:
@@ -355,13 +355,13 @@ Book recommendations
 ....................
 
 
-- Effective C++ (http://www.awprofessional.com/title/0321334876), Scott Meyers
-- More Effective C++ (http://www.awprofessional.com/bookstore/product.asp?isbn=020163371X&rl=1), Scott Meyers
-- Effective STL (http://www.awprofessional.com/title/0201749629), Scott Meyers
-- Design Patterns (http://www.awprofessional.com/title/0201634988), GoF
+- `Effective C++ <http://www.awprofessional.com/title/0321334876>`_, Scott Meyers
+- `More Effective C++ <http://www.awprofessional.com/bookstore/product.asp?isbn=020163371X&rl=1>`_, Scott Meyers
+- `Effective STL <http://www.awprofessional.com/title/0201749629>`_, Scott Meyers
+- `Design Patterns <http://www.awprofessional.com/title/0201634988>`_, GoF
 
 You should also really read this article from Qt Quarterly on
-[designing Qt style (APIs)](http://doc.trolltech.com/qq/qq13-apis.html)
+`designing Qt style (APIs) <http://doc.trolltech.com/qq/qq13-apis.html>`_
 
 
 GIT Access
@@ -387,23 +387,23 @@ Debian based distro users can do:
 Install git for Windows
 .......................
 
-Windows users can obtain [msys git](http://code.google.com/p/msysgit/) or use git distributed with [cygwin](http://cygwin.com).
+Windows users can obtain `msys git <http://code.google.com/p/msysgit/>`_ or use git distributed with `cygwin <http://cygwin.com>`_.
 
 
 Install git for OSX
 ...................
 
-The [git project](http://git-scm.com/) has a downloadable build of git.
+The `git project <http://git-scm.com/>`_ has a downloadable build of git.
 Make sure to get the package matching your processor (x86_64 most likely, only the first Intel Macs need the i386 package).
 
 Once downloaded open the disk image and run the installer.
 
 PPC/source note
 
-The git site does not offer PPC builds.If you need a PPC build, or you just want
+The git site does not offer PPC builds. If you need a PPC build, or you just want
 a little more control over the installation, you need to compile it yourself.
 
-Download the source from http://git-scm.com/.Unzip it, and in a Terminal cd to the source folder, then:
+Download the source from http://git-scm.com/. Unzip it, and in a Terminal cd to the source folder, then:
 
 .. code-block:: bash
 
@@ -545,7 +545,7 @@ Testing before merging back to master
 .....................................
 
 When you are finished with the new feature and happy with the stability, make
-an announcement on the developer list.Before merging back, the changes will
+an announcement on the developer list. Before merging back, the changes will
 be tested by developers and users.
 
 
@@ -564,14 +564,14 @@ Pull Requests
 
 In general it is easier for developers if you submit GitHub pull
 requests. We do not describe Pull Requests here, but rather refer you to the
-[GitHub pull request documentation](https://help.github.com/articles/using-pull-requests).
+`GitHub pull request documentation <https://help.github.com/articles/using-pull-requests>`_.
 
 If you make a pull request we ask that you please merge master to your PR
 branch regularly so that your PR is always mergable to the upstream master
 branch.
 
 If you are a developer and wish to evaluate the pull request queue, there is a
-very nice [tool that lets you do this from the command line](http://thechangelog.com/git-pulls-command-line-tool-for-github-pull-requests/)
+very nice `tool that lets you do this from the command line <http://thechangelog.com/git-pulls-command-line-tool-for-github-pull-requests/>`_
 
 Please see the section below on 'getting your patch noticed'. In general when
 you submit a PR you should take the responsibility to follow it through to
@@ -595,16 +595,17 @@ Best practice for creating a pull request
 
 
 * Always start a feature branch from current master.
-* If you are coding a feature branch, don't "merge" anything in to that branch,
+* If you are coding a feature branch, don't "merge" anything into that branch,
   rather rebase as described in the next point to keep your history clean.
-* Before you create a pull request do `git fetch origin` and `git rebase origin/master`
-  (given origin is the remote for upstream and not your own
-  remote, check your .git/config or do `git remote -v | grep github.com/qgis`).
-* You may do a `git rebase` like in the last line repeatedly without doing any
+* Before you create a pull request do ``git fetch origin`` and ``git rebase origin/master``
+  (given origin is the remote for upstream   and not your own remote, check your
+  ``.git/config`` or do ``git remote -v | grep github.com/qgis``).
+
+* You may do a git rebase like in the last line repeatedly without doing any
   damage (as long as the only purpose of your branch is to get merged into
   master).
-* Attention: After a rebase you need to `git push -f` to your forked repo.
-  CORE DEVS: DO NOT DO THIS ON THE QGIS PUBLIC REPOSITORY!
+* Attention: After a rebase you need to ``git push -f`` to your forked repo. 
+  **CORE DEVS: DO NOT DO THIS ON THE QGIS PUBLIC REPOSITORY!**
 
 
 For merging a pull request
@@ -616,22 +617,22 @@ Option A:
 
 Option B:
 
-* [Checkout the pull request](https://gist.github.com/piscisaureus/3342247)
+* `Checkout the pull request <https://gist.github.com/piscisaureus/3342247>`_
 * Test (Also required for option A, obviously)
 * checkout master, git merge pr/1234
-* Optional: `git pull --rebase`: Creates a fast-forward, no "merge commit" is
+* Optional: ``git pull --rebase``: Creates a fast-forward, no "merge commit" is
   made. Cleaner history, but it is harder to revert the merge.
-* `git push` (NEVER EVER use the -f option here)
+* ``git push`` (NEVER EVER use the -f option here)
 
 
 Patch file naming
 -----------------
 
 If the patch is a fix for a specific bug, please name the file with the bug
-number in it e.g.bug777fix.patch, and attach it to the [original bug report in trac](http://hub.qgis.org/projects/quantum-gis).
+number in it e.g. bug777fix.patch, and attach it to the `original bug report in trac <http://hub.qgis.org/projects/quantum-gis>`_.
 
 If the bug is an enhancement or new feature, its usually a good idea to create
-a [ticket in trac](http://hub.qgis.org/projects/quantum-gis) first and then attach you
+a `ticket in trac <http://hub.qgis.org/projects/quantum-gis>`_ first and then attach your patch.
 
 
 Create your patch in the top level QGIS source dir
@@ -661,8 +662,8 @@ Getting your patch noticed
 ..........................
 
 QGIS developers are busy folk. We do scan the incoming patches on bug reports
-but sometimes we miss things.Don't be offended or alarmed. Try to identify a
-developer to help you - using the [Technical Resources](http://qgis.org/en/site/getinvolved/governance/organisation/governance.html#community-resources) and contact them
+but sometimes we miss things. Don't be offended or alarmed. Try to identify a
+developer to help you - using the `Technical Resources <http://qgis.org/en/site/getinvolved/governance/organisation/governance.html#community-resources>`_ and contact them
 asking them if they can look at your patch. If you don't get any response, you
 can escalate your query to one of the Project Steering Committee members
 (contact details also available in the Technical Resources).
@@ -687,7 +688,7 @@ conventions, one of the PSC members or other existing developers can nominate
 that person to the PSC for granting of write access. The nominator should give
 a basic promotional paragraph of why they think that person should gain write
 access. In some cases we will grant write access to non C++ developers e.g. for
-translators and documentors.In these cases, the person should still have
+translators and documentors. In these cases, the person should still have
 demonstrated ability to submit patches and should ideally have submitted several
 substantial patches that demonstrate their understanding of modifying the code
 base without breaking things, etc.
@@ -697,13 +698,13 @@ base without breaking things, etc.
   then issuing pull requests.
 
 Always check that everything compiles before making any commits / pull
-requests.Try to be aware of possible breakages your commits may cause for
+requests. Try to be aware of possible breakages your commits may cause for
 people building on other platforms and with older / newer versions of
 libraries.
 
 When making a commit, your editor (as defined in $EDITOR environment variable)
 will appear and you should make a comment at the top of the file (above the
-area that says 'don't change this'. Put a descriptive comment and rather do
+area that says 'don't change this'). Put a descriptive comment and rather do
 several small commits if the changes across a number of files are unrelated.
 Conversely we prefer you to group related changes into a single commit.
 
@@ -723,7 +724,7 @@ The QGIS testing framework - an overview
 
 Unit testing is carried out using a combination of QTestLib (the Qt testing
 library) and CTest (a framework for compiling and running tests as part of the
-CMake build process).Lets take an overview of the process before I delve into
+CMake build process). Lets take an overview of the process before I delve into
 the details:
 
 - There is some code you want to test, e.g. a class or function. Extreme
@@ -734,7 +735,7 @@ the details:
   since we are starting with a testing framework well after much application
   logic has already been implemented.
 
-- You create a unit test. This happens under <QGIS Source Dir>/tests/src/core
+- You create a unit test. This happens under ``<QGIS Source Dir>/tests/src/core``
   in the case of the core lib. The test is basically a client that creates an
   instance of a class and calls some methods on that class. It will check the
   return from each method to make sure it matches the expected value. If any
@@ -747,10 +748,10 @@ the details:
 - You add a section to the CMakeLists.txt in your tests directory that will
   build your test.
 
-- You ensure you have ENABLE_TESTING enabled in ccmake / cmakesetup. This
+- You ensure you have ``ENABLE_TESTING`` enabled in ccmake / cmakesetup. This
   will ensure your tests actually get compiled when you type make.
 
-- You optionally add test data to <QGIS Source Dir>/tests/testdata if your
+- You optionally add test data to ``<QGIS Source Dir>/tests/testdata`` if your
   test is data driven (e.g. needs to load a shapefile). These test data should
   be as small as possible and wherever possible you should use the existing
   datasets already there. Your tests should never modify this data in situ,
@@ -777,7 +778,7 @@ single .cpp file (not .h file is used) and implement all your test methods as
 public methods that return void. I'll use a simple test class for
 QgsRasterLayer throughout the section that follows to illustrate. By convention
 we will name our test with the same name as the class they are testing but
-prefixed with 'Test'.So our test implementation goes in a file called
+prefixed with 'Test'. So our test implementation goes in a file called
 testqgsrasterlayer.cpp and the class itself will be TestQgsRasterLayer. First
 we add our standard copyright banner:
 
@@ -844,7 +845,7 @@ All our test methods are implemented as private slots. The QtTest framework
 will sequentially call each private slot method in the test class. There are
 four 'special' methods which if implemented will be called at the start of the
 unit test (initTestCase), at the end of the unit test
-(cleanupTestCase).Before each test method is called, the init()
+(cleanupTestCase). Before each test method is called, the init()
 method will be called and after each test method is called the cleanup()
 method is called. These methods are handy in that they allow you to allocate
 and cleanup resources prior to running each test, and the test unit as a whole.
@@ -862,8 +863,8 @@ and cleanup resources prior to running each test, and the test unit as a whole.
     void cleanup();
 
 Then come your test methods, all of which should take no parameters and
-should return void. The methods will be called in order of declaration.I
-am implementing two methods here which illustrates to types of testing. In the
+should return void. The methods will be called in order of declaration. I
+am implementing two methods here which illustrates two types of testing. In the
 first case I want to generally test the various parts of the class are working,
 I can use a functional testing approach. Once again, extreme programmers
 would advocate writing these tests before implementing the class. Then as
@@ -873,7 +874,7 @@ class implementation work progresses, and when the whole unit test passes, your
 new class is done and is now complete with a repeatable way to validate it.
 
 Typically your unit tests would only cover the public API of your class,
-and normally you do not need to write tests for accessors and mutators.If it
+and normally you do not need to write tests for accessors and mutators. If it
 should happen that an acccessor or mutator is not working as expected you would
 normally implement a regression test to check for this (see lower down).
 
@@ -902,7 +903,7 @@ regressed. Better yet before committing any changes in the future, running our
 tests will ensure our changes don't have unexpected side effects - like breaking
 existing functionality.
 
-There is one more benifit to regression tests - they can save you time.If you
+There is one more benefit to regression tests - they can save you time. If you
 ever fixed a bug that involved making changes to the source, and then running
 the application and performing a series of convoluted steps to replicate the
 issue, it will be immediately apparent that simply implementing your regression
@@ -911,7 +912,7 @@ resolution in an efficient manner.
 
 To implement your regression test, you should follow the naming convention of
 regression<TicketID> for your test functions. If no redmine ticket exists for the
-regression, you should create one first.Using this approach allows the person
+regression, you should create one first. Using this approach allows the person
 running a failed regression test easily go and find out more information.
 
 .. code-block:: cpp
@@ -935,7 +936,7 @@ layer will be created in the initTestCase() function which is run before any
 other tests, and then destroyed using cleanupTestCase() which is run after all
 tests. By declaring helper methods (which may be called by various test
 functions) privately, you can ensure that they wont be automatically run by the
-QTest executeable that is created when we compile our test.
+QTest executable that is created when we compile our test.
 
 .. code-block:: cpp
 
@@ -990,15 +991,15 @@ The above init function illustrates a couple of interesting things.
    QGIS unit tests. If you need test data for your test, commit it
    under ``<QGIS Source Root>/tests/testdata``. You should only commit
    very small datasets here. If your test needs to modify the test
-   data, it should make a copy of if first.
+   data, it should make a copy of it first.
 
 Qt also provides some other interesting mechanisms for data driven
 testing, so if you are interested to know more on the topic, consult
 the Qt documentation.
 
 Next lets look at our functional test. The isValid() test simply checks the
-raster layer was correctly loaded in the initTestCase.QVERIFY is a Qt macro
-that you can use to evaluate a test condition.There are a few other use
+raster layer was correctly loaded in the initTestCase. QVERIFY is a Qt macro
+that you can use to evaluate a test condition. There are a few other use
 macros Qt provide for use in your tests including:
 
 * `QCOMPARE ( actual, expected )`
@@ -1017,7 +1018,7 @@ macros Qt provide for use in your tests including:
 Some of these macros are useful only when using the Qt framework for data
 driven testing (see the Qt docs for more detail).
 
-.. code-block:: bash
+.. code-block:: cpp
 
   void TestQgsRasterLayer::isValid()
   {
@@ -1028,11 +1029,11 @@ Normally your functional tests would cover all the range of functionality of
 your classes public API where feasible. With our functional tests out the way,
 we can look at our regression test example.
 
-Since the issue in bug #832 is a misreported cell count, writing our test if
+Since the issue in bug #832 is a misreported cell count, writing our test is
 simply a matter of using QVERIFY to check that the cell count meets the
 expected value:
 
-.. code-block:: bash
+.. code-block:: cpp
 
   void TestQgsRasterLayer::regression832()
   {
@@ -1046,7 +1047,7 @@ expected value:
 With all the unit test functions implemented, there one final thing we need to
 add to our test class:
 
-.. code-block:: bash
+.. code-block:: cpp
 
   QTEST_MAIN(TestQgsRasterLayer)
   #include "testqgsrasterlayer.moc"
@@ -1063,7 +1064,7 @@ Adding your unit test to CMakeLists.txt
 
 Adding your unit test to the build system is simply a matter of editing the
 CMakeLists.txt in the test directory, cloning one of the existing test blocks,
-and then replacing your test class name into it.For example:
+and then replacing your test class name into it. For example:
 
 # QgsRasterLayer test
 ADD_QGIS_TEST(rasterlayertest testqgsrasterlayer.cpp)
@@ -1126,18 +1127,18 @@ we need to provide a couple of lines to make that happen too:
   QT4_WRAP_CPP(qgis_${testname}_MOC_SRCS ${qgis_${testname}_MOC_CPPS})
   ADD_CUSTOM_TARGET(qgis_${testname}moc ALL DEPENDS ${qgis_${testname}_MOC_SRCS})
 
-Next we tell cmake that it must make an executeable from the test class.
+Next we tell cmake that it must make an executable from the test class.
 Remember in the previous section on the last line of the class implementation I
 included the moc outputs directly into our test class, so that will give it
 (among other things) a main method so the class can be compiled as an
-executeable:
+executable:
 
 .. code-block:: bash
 
   ADD_EXECUTABLE(qgis_${testname} ${qgis_${testname}_SRCS})
   ADD_DEPENDENCIES(qgis_${testname} qgis_${testname}moc)
 
-Next we need to specify any library dependencies. At the moment classes have
+Next we need to specify any library dependencies. At the moment, classes have
 been implemented with a catch-all QT_LIBRARIES dependency, but I will be
 working to replace that with the specific Qt libraries that each class needs
 only. Of course you also need to link to the relevant qgis libraries as
@@ -1176,13 +1177,13 @@ run directly from inside the source tree.
 
 Finally the above uses ``ADD_TEST`` to register the test with cmake / ctest.
 Here is where the best magic happens - we register the class with ctest. If you
-recall in the overview I gave in the beginning of this section we are using
+recall in the overview I gave in the beginning of this section, we are using
 both QtTest and CTest together. To recap, QtTest adds a main method to your
 test unit and handles calling your test methods within the class. It also
 provides some macros like ``QVERIFY`` that you can use as to test for
 failure of the tests using conditions. The output from a QtTest unit test is an
-executeable which you can run from the command line. However when you have a
-suite of tests and you want to run each executeable in turn, and better yet
+executable which you can run from the command line. However when you have a
+suite of tests and you want to run each executable in turn, and better yet
 integrate running tests into the build process, the CTest is what we use.
 
 
@@ -1192,8 +1193,8 @@ Building your unit test
 To build the unit test you need only to make sure that ``ENABLE_TESTS=true``
 in the cmake configuration. There are two ways to do this:
 
-1. Run ``ccmake ..` (:code-block:`cmakesetup ..`` under windows) and interactively set
-   the ``ENABLE_TESTS` flag to :code-block:`ON``.
+1. Run ``ccmake ..`` ( or ``cmakesetup ..`` under windows) and interactively set
+   the ``ENABLE_TESTS`` flag to ``ON``.
 2. Add a command line flag to cmake e.g. ``cmake -DENABLE_TESTS=true ..``
 
 Other than that, just build QGIS as per normal and the tests should build too.
@@ -1309,9 +1310,9 @@ Setting up your project
 
 I'm assuming you have already got a local QGIS clone containing the
 source code, and have installed all needed build dependencies etc. There are
-[detailed instructions](http://github.com/qgis/QGIS/blob/master/CODING.md).
+`detailed instructions <http://github.com/qgis/QGIS/blob/master/CODING.md>`_.
 
-On my system I have checked out the code into $HOME/dev/cpp/QGIS and the
+On my system I have checked out the code into ``$HOME/dev/cpp/QGIS`` and the
 rest of the article is written assuming that, you should update these paths as
 appropriate for your local system.
 
@@ -1339,6 +1340,7 @@ branches if you can afford the disk space.
 
 .. image:: images/image02.jpeg
 
+
 Next you will be asked if you have any CMake build options to pass to CMake. We
 will tell CMake that we want a debug build by adding this option:
 
@@ -1348,7 +1350,8 @@ will tell CMake that we want a debug build by adding this option:
 
 .. image:: images/image03.jpeg
 
-Thats the basics of it. When you complete the Wizard, QtCreator will start
+
+That's the basics of it. When you complete the Wizard, QtCreator will start
 scanning the source tree for autocompletion support and do some other
 housekeeping stuff in the background. We want to tweak a few things before we
 start to build though.
@@ -1367,7 +1370,7 @@ Select the build settings tab (normally active by default).
 
 We now want to add a custom process step. Why? Because QGIS can currently only
 run from an install directory, not its build directory, so we need to ensure
-that it is installed whenever we build it.Under 'Build Steps', click on the
+that it is installed whenever we build it. Under 'Build Steps', click on the
 'Add BuildStep' combo button and choose 'Custom Process Step'.
 
 .. image:: images/image06.jpeg
@@ -1385,8 +1388,8 @@ Now we set the following details:
 .. image:: images/image07.jpeg
 
 You are almost ready to build. Just one note: QtCreator will need write
-permissions on the install prefix.By default (which I am using here) QGIS is
-going to get installed to /usr/local. For my purposes on my development
+permissions on the install prefix. By default (which I am using here) QGIS is
+going to get installed to ``/usr/local/``. For my purposes on my development
 machine, I just gave myself write permissions to the /usr/local directory.
 
 To start the build, click that big hammer icon on the bottom left of the
@@ -1433,7 +1436,7 @@ Now in the properties area set the following details:
 
  Qml [no]
 
-Then click the 'Rename' button and give your custom executable a meaning full
+Then click the 'Rename' button and give your custom executable a meaningful
 name e.g. 'Installed QGIS'
 
 .. image:: images/image12.jpeg
@@ -1461,7 +1464,7 @@ guidelines are followed in layout and design of GUIs.
 
 1.  Group related elements using group boxes:
     Try to identify elements that can be grouped together and then use group
-    boxes with a label to identify the topic of that group.Avoid using group
+    boxes with a label to identify the topic of that group. Avoid using group
     boxes with only a single widget / item inside.
 2.  Capitalise first letter only in labels:
     Labels (and group box labels) should be written as a phrase with leading
