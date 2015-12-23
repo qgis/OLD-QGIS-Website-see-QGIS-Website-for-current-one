@@ -1748,67 +1748,70 @@
      - Valerio Franchino
    * - Victor Saldaña
      - Victoria Cooper
-     - Vincent Mercier
-   * - Vincent Prioul
+     - Vincent Auvigne
+   * - Vincent Mercier
+     - Vincent Prioul
      - Vincent Verweij
-     - Vincenzo Lomurno
-   * - Vincenzo Sale
+   * - Vincenzo Lomurno
+     - Vincenzo Sale
      - Vincenzo Trivigno
-     - Vital J Pinheiro Jr J Pinheiro Jr
-   * - Vito Latorraca
+   * - Vital J Pinheiro Jr J Pinheiro Jr
+     - Vito Latorraca
      - Vitor Pereira
-     - Vittorio Dell'Aquila
-   * - Vladimir Mikik
+   * - Vittorio Dell'Aquila
+     - Vladimir Mikik
      - Vladimir Vrabel
-     - Volker Luetzenkirchen
-   * - Volker Römer
+   * - Volker Luetzenkirchen
+     - Volker Römer
      - Voyages à Vélo
-     - Walter Dellisanti
-   * - Walter di Lorenzetti (GIS3W)
+   * - Walter Dellisanti
+     - Walter di Lorenzetti (GIS3W)
      - Walter Hesse
-     - Wasin Bukaew
-   * - Wayne Bulmer
+   * - Wasin Bukaew
+     - Wayne Bulmer
      - Wendelin Schmitt
-     - Wendell Rodrigues Feliciano
-   * - Werner Hentschel
+   * - Wendell Rodrigues Feliciano
+     - Werner Hentschel
      - Werner Macho
-     - Werner Nedon
-   * - Werner Nienstedt
+   * - Werner Nedon
+     - Werner Nienstedt
      - Wiktor Zalewski
-     - Wilker De Jesus Silva
-   * - William Carleton
+   * - Wilker De Jesus Silva
+     - William Carleton
      - William Colson
-     - William Jesdale
-   * - William Kelleher
+   * - William Jesdale
+     - William Kelleher
      - William Levering
-     - William Pallies
-   * - Winifred Frick
+   * - William Pallies
+     - Winifred Frick
      - Wolfgang Dennhöfer
-     - Wolfgang Scheffler
-   * - Wolfgang Stoessel
+   * - Wolfgang Scheffler
+     - Wolfgang Stoessel
      - Xabier Albizu Zabala
-     - Xhaustless B V B A
-   * - Xuejing Zuo
+   * - Xhaustless B V B A
+     - Xuejing Zuo
      - Yahya Mohatar Abderrahman
-     - Yann Lepage
-   * - Yorck Neumann
+   * - Yann Lepage
+     - Yorck Neumann
      - Yuan Harng Lee
-     - Yuan-kee Lee
-   * - Yven Dickhörner
+   * - Yuan-kee Lee
+     - Yven Dickhörner
      - Yves Froissart
-     - Yves Jacolin
-   * - za.miastem Sylwia Cichocińska
+   * - Yves Jacolin
+     - za.miastem Sylwia Cichocińska
      - Zachary Patterson
-     - Zebra On Wheels
-   * - Zsolt Gal
+   * - Zebra On Wheels
+     - Zsolt Gal
      - Zweli Moya
-     - Ângela Seixas
-   * - Иваненко Андрей
+   * - Ângela Seixas
+     - Иваненко Андрей
      - Коробейников Андрей
-     - Кравцов Сергей
-   * - Паршин Александр
+   * - Кравцов Сергей
+     - Паршин Александр
      - Слинкин Филипп
-     - Трифонова Евгения
-   * - เฉลิมศักดิ์ ผมพันธ์
+   * - Трифонова Евгения
+     - เฉลิมศักดิ์ ผมพันธ์
      - 吉原 佑
-     - 田中 創平
+   * - 田中 創平
+     -
+     -
