@@ -800,7 +800,7 @@ Programmability
 ---------------
 
 Feature: Map tools moved from app->gui
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This change allows reuse of map tools from within PyQGIS scripts and
 Python plugins.
