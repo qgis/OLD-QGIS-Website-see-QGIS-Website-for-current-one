@@ -356,8 +356,10 @@ Adding your unit test to the build system is simply a matter of editing the
 CMakeLists.txt in the test directory, cloning one of the existing test blocks,
 and then replacing your test class name into it. For example:
 
-# QgsRasterLayer test
-ADD_QGIS_TEST(rasterlayertest testqgsrasterlayer.cpp)
+.. code-block:: cmake
+
+  # QgsRasterLayer test
+  ADD_QGIS_TEST(rasterlayertest testqgsrasterlayer.cpp)
 
 
 The ADD_QGIS_TEST macro explained
