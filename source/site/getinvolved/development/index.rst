@@ -335,3 +335,4 @@ Contributors of new functions are encouraged to let people know about their cont
     pythonplugindevelopment
     addinggrasstools
     qgisdevelopersguide
+    qtcreator.rst
