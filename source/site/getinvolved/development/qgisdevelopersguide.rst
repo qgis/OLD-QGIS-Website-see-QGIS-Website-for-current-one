@@ -294,7 +294,7 @@ Prefer to put constants first in predicates.
 
 This will help prevent programmers from accidentally using ``=`` when they meant
 to use ``==``, which can introduce very subtle logic bugs.The compiler will
-generate an error if you accidentally use ``=` instead of `==`` for comparisons
+generate an error if you accidentally use ``=`` instead of ``==`` for comparisons
 since constants inherently cannot be assigned values.
 
 Whitespace Can Be Your Friend
@@ -1066,8 +1066,10 @@ Adding your unit test to the build system is simply a matter of editing the
 CMakeLists.txt in the test directory, cloning one of the existing test blocks,
 and then replacing your test class name into it. For example:
 
-# QgsRasterLayer test
-ADD_QGIS_TEST(rasterlayertest testqgsrasterlayer.cpp)
+.. code-block:: cmake
+
+  # QgsRasterLayer test
+  ADD_QGIS_TEST(rasterlayertest testqgsrasterlayer.cpp)
 
 
 The ADD_QGIS_TEST macro explained
