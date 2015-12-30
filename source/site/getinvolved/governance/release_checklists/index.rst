@@ -3,7 +3,7 @@
 Release Checklists
 ==================
 
-Contents:
+
 
 .. toctree::
    :maxdepth: 2
