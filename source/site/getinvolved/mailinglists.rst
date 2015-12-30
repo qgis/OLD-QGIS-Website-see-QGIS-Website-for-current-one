@@ -2,10 +2,11 @@
 
 .. _QGIS-mailinglists:
 
-Mailinglists
-============
+Mailing lists
+=============
 
-We communicate on mailing lists divided by topics and target groups. Feel free to subscribe to any of these lists.
+We communicate on mailing lists divided by topics and target groups. 
+Feel free to subscribe to any of these lists.
 
 
 QGIS users list
@@ -46,7 +47,7 @@ http://lists.osgeo.org/mailman/listinfo/qgis-community-team
 QGIS translation
 -----------------
 
-List for translators of either the website, or the QGIS itself
+List for translators of either the website, the documentation or the QGIS itself
 
 
 http://lists.osgeo.org/mailman/listinfo/qgis-tr
