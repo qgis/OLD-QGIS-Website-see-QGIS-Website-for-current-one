@@ -1,3 +1,4 @@
+.. _git_access:
 
 GIT Access
 ===========
@@ -105,6 +106,18 @@ If you're interested in checking out QGIS documentation sources:
 You can also take a look at the readme included with the documentation repo for more information.
 
 
+QGIS website sources
+--------------------------
+
+If you're interested in checking out QGIS website sources:
+
+.. code-block:: bash
+
+  git clone git@github.com:qgis/QGIS-Website.git
+
+You can also take a look at the readme included with the website repo for more information.
+
+
 GIT Documentation
 -----------------
 
@@ -183,6 +196,7 @@ When you are finished with the new feature and happy with the stability, make
 an announcement on the developer list. Before merging back, the changes will
 be tested by developers and users.
 
+.. _submit_patch:
 
 Submitting Patches and Pull Requests
 ------------------------------------
