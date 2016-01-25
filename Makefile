@@ -116,6 +116,7 @@ html: localizeresources output/html/version.txt
 	@echo "Build finished. The HTML pages for '$(LANG)' are in $(BUILDDIR)."
 
 output/html/version.txt: source/conf.py
+	mkdir -p $(BUILDDIR)
 	python scripts/mkversion.py
 
 fullhtml: pulldocsources html
