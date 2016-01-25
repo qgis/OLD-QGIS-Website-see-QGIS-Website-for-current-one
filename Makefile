@@ -109,7 +109,9 @@ pulldocsources:
 
 html: localizeresources output/html/version.txt
 	$(SPHINXINTL) build -l $(LANG) -c $(SOURCEDIR)/conf.py
-	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
+	#  -n   Run in nit-picky mode. Currently, this generates warnings for all missing references.
+	#  -W   Turn warnings into errors. This means that the build stops at the first warning and sphinx-build exits with exit status 1.
+	$(SPHINXBUILD) -nW -b html $(ALLSPHINXOPTS) $(BUILDDIR)
 	@echo
 	@echo "Build finished. The HTML pages for '$(LANG)' are in $(BUILDDIR)."
 
