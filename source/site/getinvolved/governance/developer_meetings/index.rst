@@ -2,7 +2,6 @@
 The QGIS Developer Meeting Program
 ==================================
 
-Contents:
 
 .. toctree::
    :maxdepth: 2

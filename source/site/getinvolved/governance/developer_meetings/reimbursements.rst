@@ -13,13 +13,21 @@ financially supporting their visit to the meeting directly.
 Need a refund for QGIS HF expenses?
 ---------------------------------------------
 
-#. If you are a contributor to the project (to either code, documentation, translation, or infrastructure), you think your participation to the HF will be useful for the project, and you do not have funds to cover for travelling and lodging, you can apply for refund, at least 40 days in advance
-#. When applying, please let us know (i) an estimate of the total amount required, and (ii) how your participation will contribute to QGIS
-#. Later applications (<40 days) will be taken into account, based on the budget available and the priorities of the PSC
-#. Please note that our funds are limited, so we'll generally not be able to refund all participants
-#. Core devs (anyone with direct commit rights to the repository) and psc members will have priority on the allocation of funds
+#. If you are a contributor to the project (to either code, documentation, 
+   translation, or infrastructure), you think your participation to the HF 
+   will be useful for the project, and you do not have funds to cover for 
+   travelling and lodging, you can apply for refund, at least 40 days in advance
+#. When applying, please let us know (i) an estimate of the total amount required,
+   and (ii) how your participation will contribute to QGIS
+#. Later applications (<40 days) will be taken into account, based on the 
+   budget available and the priorities of the PSC
+#. Please note that our funds are limited, so we'll generally not be able to 
+   refund all participants
+#. Core devs (anyone with direct commit rights to the repository) and psc members
+   will have priority on the allocation of funds
 #. At least 30 days in advance, PSC will communicate a decision to all those who applied
-#. The refund will be sent to your bank account after the HF, on the basis of the bills actually paid and sent to our Treasurer.
+#. The refund will be sent to your bank account after the HF, on the basis of 
+   the bills actually paid and sent to our Treasurer.
 
 In case of doubt
 ---------------------------------------------------------
