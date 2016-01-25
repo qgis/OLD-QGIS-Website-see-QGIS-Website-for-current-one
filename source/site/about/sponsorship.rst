@@ -204,6 +204,9 @@ goes into the project. These sponsors are listed below with our thanks!
 .. |mappinggis| image:: /static/site/about/images/mappinggis.png
    :width: 64 px
 
+.. |2d3dgis| image:: /static/site/about/images/2d3dgis.png
+   :width: 64 px
+
 .. |gis3w| image:: /static/site/about/images/gis3w.png
    :width: 64 px
 
