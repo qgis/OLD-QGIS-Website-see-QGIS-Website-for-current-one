@@ -1,6 +1,8 @@
 QGIS-Website
 ============
 
+[![Build Status](https://travis-ci.org/qgis/QGIS-Website.svg?branch=master)](https://travis-ci.org/qgis/QGIS-Website)
+
 Website is a static generated website using Sphinx (http://sphinx-doc.org/), 
 based on restructured text sources (rst: http://docutils.sourceforge.net/rst.html)
 and html (jinja2) templates.
