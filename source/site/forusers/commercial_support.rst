@@ -26,6 +26,19 @@ and consulting on QGIS.
 
 ----
 
+.. |boundless| image:: /static/site/about/images/boundless.png
+   :width: 250 px
+
+|boundless| `Boundless Spatial <http://boundlessgeo.com/>`_ (based in
+Washington, D.C., USA and operating worldwide) provides commercially supported,
+open source, geospatial software. OpenGeo Suite and QGIS enable a feature-rich,
+enterprise GIS without the high licensing costs associated with proprietary
+software. The experts at Boundless reduce the cost and time of deploying and
+managing spatial software with packaging, support, maintenance, professional
+services, and expert training.
+
+----
+
 .. |dms| image:: /static/site/about/images/dms.gif
    :width: 150 px
 
