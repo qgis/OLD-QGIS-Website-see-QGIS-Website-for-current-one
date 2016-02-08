@@ -48,7 +48,7 @@ All the documentation sources are hosted in `QGIS-Documentation Github repositor
 <https://github.com/qgis/QGIS-Documentation>`_. If you want to update some features
 in QGIS or document new ones, you need to:
 
-- have a `Github account <https://www.osgeo.org/cgi-bin/ldap_create_user.py>`_
+- have a `GitHub account <https://github.com/join>`_
 - `fork the repository <https://help.github.com/articles/working-with-forks/>`_
 - do your changes : guidelines for writing QGIS documentation are available at
   http://docs.qgis.org/testing/en/docs/documentation_guidelines/index.html
