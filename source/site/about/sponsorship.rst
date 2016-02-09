@@ -319,8 +319,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 List of donors
 --------------
 
-Donations can be of any amount, via the Paypal button on the frontpage, or through our bank account (write
-us for details: cavallini at faunalia dot it). Even a small donation can make a
+Donations can be of any amount, via the Paypal button on the frontpage, or through our bank account (see /site/getinvolved/donations.html). Even a small donation can make a
 difference and help to reach important project goals!
 
 If you wish to send us a larger donation, you are strongly encouraged to use the
