@@ -270,30 +270,30 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
   * - |bronze| |avioportolano|
 
-       `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
-    -
-  * - |bronze| |openrunner|
+      `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
+
+    - |bronze| |openrunner|
 
       `www.openrunner.com <http://www.openrunner.com/>`_, France (05.2014-05.2015)
-    - |bronze| |fossgisev|
+  * - |bronze| |fossgisev|
 
       `www.fossgis.de <http://www.fossgis.de/>`_, Germany (08.2012-08.2013)
-  * - |bronze| |ibw_bzwm|
+    - |bronze| |ibw_bzwm|
 
       `ibW Bildungszentrum Wald <http://www.bzwmaienfeld.ch/>`_, Switzerland (03.2012-03.2013)
-    - |bronze| |uster|
+  * - |bronze| |uster|
 
       `City of Uster <http://gis.uster.ch/>`_, Switzerland (11.2011-11.2012)
-  * - |bronze| |municipia|
+    - |bronze| |municipia|
 
       `Municípia, SA <http://www.municipia.pt/>`_, Portugal (02.2011-02.2012)
-    - |bronze| |gfosservices|
+  * - |bronze| |gfosservices|
 
       `Studio Associato Gfosservices <http://www.gfosservices.com/>`_, Italy (02.2010-02.2011)
-  * - |bronze| |nextgis|
+    - |bronze| |nextgis|
 
       `NextGIS <http://nextgis.org/>`_, Russia (03.2010-03.2011)
-    - 
+
 
 .. |openrunner| image:: /static/site/about/images/openrunner.png
    :width: 48 px
