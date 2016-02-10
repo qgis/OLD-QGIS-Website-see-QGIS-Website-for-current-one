@@ -20,6 +20,15 @@ English
 
 Note: Books order is newest first.
 
+Discover QGIS
+*************
+
+The Workbook for the Award Winning GeoAcademy Curriculum
+
+* https://locatepress.com/dqw
+* Author(s): Kurt Menke
+* Date: to be published!
+
 QGIS Map Design 
 ****************
 
