@@ -320,7 +320,7 @@ List of donors
 --------------
 
 Donations can be of any amount, via Paypal or through our bank account
-(information available at :ref:`QGIS-donations` page).
+(information available at :ref:`Donations <QGIS-donations>` page).
 Even a small donation can make a difference and help to reach important project goals!
 
 If you wish to send us a larger donation, you are strongly encouraged to use the
