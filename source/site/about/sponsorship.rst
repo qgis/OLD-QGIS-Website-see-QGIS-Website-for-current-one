@@ -319,10 +319,14 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 List of donors
 --------------
 
-Donations can be of any amount, via the Paypal button on the frontpage, or through our bank account (see /site/getinvolved/donations.html). Even a small donation can make a
-difference and help to reach important project goals!
+Donations can be of any amount, via Paypal or through our bank account
+(information available at :ref:`QGIS-donations` page).
+Even a small donation can make a difference and help to reach important project goals!
 
 If you wish to send us a larger donation, you are strongly encouraged to use the
 bank account rather than PayPal.
+
+Donations to QGIS are tax-deductible in several countries.
+Please refer to your local tax office for details.
 
 .. include:: donors.inc
