@@ -57,15 +57,15 @@ euros    sponsorship level
 Donation
 --------
 
-Donations can be of any amount, through the Make A Donation PayPal link
-provided in the left-hand menu of this website or through our bank account
-(write us for details: cavallini@faunalia.it). Even a small donation can
-make a big difference and help to reach important project goals!
+Donations can be of any amount, via Paypal or through our bank account
+(information available at :ref:`QGIS-donations` page).
+Even a small donation can make a difference and help to reach important project goals!
 
-If you wish to send us a larger donation, you are strongly encouraged to use
-the bank account rather than PayPal.
+If you wish to send us a larger donation, you are strongly encouraged to use the
+bank account rather than PayPal.
 
-Donations to QGIS are tax-deductible in several countries. Please refer to your local tax office for details.
+Donations to QGIS are tax-deductible in several countries.
+Please refer to your local tax office for details.
 
 What is your benefit sponsoring the QGIS Development?
 =====================================================
@@ -90,7 +90,8 @@ Sponsoring the QGIS project provides the following benefits:
   QGIS project
 * No advertising will be placed within the QGIS application itself.
 
-Donors will be listed on the donors page, but do not receive the additional benefits listed above for sponsors.
+Donors will be listed on the :ref:`QGIS-sponsoring` page,
+but do not receive the additional benefits listed above for sponsors.
 
 How do we use financial support?
 ================================
@@ -116,6 +117,10 @@ following project activities:
 
 Decisions on spending of sponsorship funds will be made by the QGIS Project Steering Committee.
 
+Organizations or individuals interested in sponsoring the QGIS project should
+contact the QGIS PSC Finance and Marketing advisor, Paolo Cavallini
+(trademark@qgis.org) with questions, or to make arrangements.
+
 .. note:: We regret that we cannot accept 'earmarked' funding as it creates
     many administrative issues. If you are interested in funding specific aspects
     of QGIS development, we encourage you to allocate additional human resources to
@@ -130,6 +135,3 @@ Decisions on spending of sponsorship funds will be made by the QGIS Project Stee
    the sponsors logo and marketing materials on our site and other materials will
    degrade the experience of our users will be declined.
 
-Organizations or individuals interested in sponsoring the QGIS project should
-contact the QGIS PSC Finance and Marketing advisor, Paolo Cavallini at:
-cavallini@faunalia.it (+39-348-3801953) with questions, or to make arrangements.
