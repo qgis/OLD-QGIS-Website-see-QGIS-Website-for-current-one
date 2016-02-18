@@ -26,7 +26,9 @@ the project.
 
 With your donations we are able to:
 
-* fund developer meetings, starting from that in Vienna, autumn 2009. Users donations contributed effectively to the great success of the meetings, allowing us to fund travel and accommodation costs of key developers
+* fund developer meetings, starting from that in Vienna, autumn 2009. 
+  Users donations contributed effectively to the great success of the meetings, 
+  allowing us to fund travel and accommodation costs of key developers
 * support pre-release bugfixing, in order to improve the reliability of each new QGIS version.
 
 How can you support the QGIS Development
@@ -58,7 +60,7 @@ Donation
 --------
 
 Donations can be of any amount, via Paypal or through our bank account
-(information available at :ref:`QGIS-donations` page).
+(information available at :ref:`Donations <QGIS-donations>` page).
 Even a small donation can make a difference and help to reach important project goals!
 
 If you wish to send us a larger donation, you are strongly encouraged to use the
