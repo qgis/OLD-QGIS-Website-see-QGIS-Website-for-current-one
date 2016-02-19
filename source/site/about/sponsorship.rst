@@ -71,6 +71,10 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |claasleinert|
 
        `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2017)
+     - 
+   * - |bronze| |cawdor_forestry|
+
+       `CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, Scotland (02.2016-02.2017)
      - |bronze| |chameleon_john|
 
        `ChameleonJohn <http://www.chameleonjohn.com/>`_, USA (02.2016-02.2017)
@@ -140,6 +144,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |canal|
 
        `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
+
+.. |cawdor_forestry| image:: /static/site/about/images/cawdor_forestry_logo.png
+   :width: 90 px
 
 .. |chameleon_john| image:: /static/site/about/images/chameleon-john-logo.png
    :width: 90 px
