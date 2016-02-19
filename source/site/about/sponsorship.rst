@@ -32,6 +32,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
+   * - |silver| |opw|
+       `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2016)
+
    * - |silver| |gaia|
        `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (11.2015-11.2016)
 
@@ -44,8 +47,6 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |vorarlberg|
        `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-05.2016)
 
-   * - |silver| |opw|
-       `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
 
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 150 px
@@ -67,6 +68,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |claasleinert|
+
+       `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2017)
+     - |bronze| |chameleon_john|
+
+       `ChameleonJohn <http://www.chameleonjohn.com/>`_, USA (02.2015-02.2016)
    * - |bronze| |2d3dgis|
 
        `2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2016)
@@ -133,10 +140,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |canal|
 
        `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
-   * - |bronze| |wggios|
 
-       `Faculty of Geology, Geophysics and Environmental Protection, AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Poland (11.2014-11.2015)
-     -
+.. |chameleon_john| image:: /static/site/about/images/chameleon-john-logo.png
+   :width: 90 px
 
 .. |kela| image:: /static/site/about/images/kela.png
    :width: 64 px
