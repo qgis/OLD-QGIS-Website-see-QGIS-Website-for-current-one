@@ -73,7 +73,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2017)
      - |bronze| |chameleon_john|
 
-       `ChameleonJohn <http://www.chameleonjohn.com/>`_, USA (02.2015-02.2016)
+       `ChameleonJohn <http://www.chameleonjohn.com/>`_, USA (02.2016-02.2017)
    * - |bronze| |2d3dgis|
 
        `2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2016)
