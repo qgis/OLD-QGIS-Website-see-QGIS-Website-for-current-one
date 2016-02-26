@@ -68,7 +68,13 @@ LTR releases.
 Point releases will happen every months on the latest release branch and the
 LTR branch, if there are backports.
 
-Future version numbers are subject to change in case of a major releases.
+After the release of 2.16 the work on the new major release 3.0 will begin.
+This will involve a switch from our fixed release schedule to an open release.
+
+3.0 will involve many wide-ranging changes, so it not clear in advance how many
+time it will take.  We think it should take between 8-12 month to get to
+3.0.  After that we'll return to the old method.
+
 
 Schedule:
 
@@ -90,19 +96,16 @@ PR    2.8.x/2.14.x  25.03.2016 12
 PR    2.8.x/2.14.x  29.04.2016 17
 PR    2.8.x/2.14.x  20.05.2016 20
 DEV   (2.15)        20.05.2016 20          5
-LR    3.0           24.06.2016 25          12
-PR    2.14.x        24.06.2016 25
-PR    2.14.x/3.0.x  29.07.2016 30
-PR    2.14.x/3.0.x  26.08.2016 34
-PR    2.14.x/3.0.x  16.09.2016 37
-DEV   (3.1)         16.09.2016 37          5
-LR    3.2           21.10.2016 42          12
-PR    2.14.x        21.10.2016 42
-PR    2.14.x/3.2.x  25.11.2016 47
-PR    2.14.x/3.2.x  16.12.2016 50
-PR    2.14.x/3.2.x  13.01.2017 50
-DEV   (3.3)         13.01.2017 2           6
-LTR   3.4           24.02.2017 8           12
+LR    2.16          24.06.2016 25          12
+PR    2.14.x/2.16.x 24.06.2016 25
+PR    2.14.x/2.16.x 29.07.2016 30
+PR    2.14.x/2.16.x 26.08.2016 34
+PR    2.14.x/?      16.09.2016 37
+PR    2.14.x/?      21.10.2016 42
+PR    2.14.x/?      25.11.2016 47
+PR    2.14.x/?      16.12.2016 50
+PR    2.14.x/?      13.01.2017 2
+PR    2.14.x/?      24.02.2017 8
 ===== ============= ========== =========== =====
 
 .. (3.5)  DEV   19.05.2017 20          5
