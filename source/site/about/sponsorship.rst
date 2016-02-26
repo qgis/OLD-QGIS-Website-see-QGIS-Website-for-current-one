@@ -151,9 +151,6 @@ goes into the project. These sponsors are listed below with our thanks!
 .. |chameleon_john| image:: /static/site/about/images/chameleon-john-logo.png
    :width: 90 px
 
-.. |2d3dgis| image:: /static/site/about/images/2d3dgis.png
-   :width: 60 px
-
 .. |kela| image:: /static/site/about/images/kela.png
    :width: 64 px
 
