@@ -279,7 +279,7 @@
                                 $this.parent().html( "{{ devversion|e }} {{ _("in feature freeze since") }} " + event.finalDate.toLocaleString() + "<br/>" );
                         } else if( $this.parent().attr('id') == 'nextrelease' ) {
                                 $('#nextfeaturefreeze').html("");
-                                $('#nextrelease').html( "{{ nextversion|e }} {{ _("in packaging since" ) }} " + event.finalDate.toLocaleString() );
+                                $('#nextrelease').html( "{{ nextversion|e }} {{ _("in packaging since" ) }} " + event.finalDate.toLocaleString() + "<br/>" );
                         }
 		})
         });
