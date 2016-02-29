@@ -71,64 +71,60 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |claasleinert|
 
        `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2017)
-     - 
-   * - |bronze| |cawdor_forestry|
+     - |bronze| |cawdor_forestry|
 
        `CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, Scotland (02.2016-02.2017)
-     - |bronze| |chameleon_john|
+   * - |bronze| |chameleon_john|
 
        `ChameleonJohn <http://www.chameleonjohn.com/>`_, USA (02.2016-02.2017)
-   * - |bronze| |2d3dgis|
+     - |bronze| |2d3dgis|
 
        `2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2016)
-     - |bronze| |kela|
+   * - |bronze| |kela|
 
        `Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, Germany (12.2015-12.2016)
-   * - |bronze| |mappinggis|
+     - |bronze| |mappinggis|
 
        `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2015-11.2016)
-     - |bronze| |hfacts|
+   * - |bronze| |hfacts|
 
        `HostingFacts.com <https://hostingfacts.com/>`_, Estonia (12.2015-12.2016)
-   * - |bronze| |urbsol|
+     - |bronze| |urbsol|
 
        `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)
-     - |bronze| |lutra|
+   * - |bronze| |lutra|
 
        `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2016)
-   * - |bronze| |whg|
+     - |bronze| |whg|
 
        `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2015-08.2016)
-     - |bronze| |npa|
+   * - |bronze| |npa|
 
        `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
-   * - |bronze| |qpolska|
+     - |bronze| |qpolska|
 
-       `QGIS Poland <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
-     - |bronze| |terrelogiche|
+       `QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
+   * - |bronze| |terrelogiche|
 
        `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2016)
-   * - |bronze| |geosynergy|
+     - |bronze| |geosynergy|
 
        `www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (05.2012-05.2013+06.2015-06-2016)
-     - |bronze| |gaia3d|
+   * - |bronze| |gaia3d|
 
        `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2016)
-   * - |bronze| |windsor|
+     - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2016)
-     - |bronze| |chartwell|
+   * - |bronze| |chartwell|
 
        `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2016)
-   * - |bronze| |tragewegen|
+     - |bronze| |tragewegen|
 
        `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2016)
-     - |bronze| |gfi|
+   * - |bronze| |gfi|
 
        `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
-   * - |bronze| |claasleinert|
-
-       `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2016)
      - |bronze| |gis_supp|
 
        `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-02.2016)
