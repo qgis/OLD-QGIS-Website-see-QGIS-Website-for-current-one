@@ -294,7 +294,7 @@ set the resultant attribute values. The include Q1, Q3, inter-quartile
 ranges, majority and minority values, and number of unique values,
 amongst others.
 
-|image26|
+|image27|
 
 This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
@@ -308,7 +308,7 @@ show the vertex number and x/y/z/m for the nearest vertex to the
 identified point. The identify tool now also shows the number of parts
 and part number for collections.
 
-|image27|
+|image28|
 
 This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
@@ -335,7 +335,7 @@ including:
 -  It's now possible to show the coordinates in latitude and longitude
    in the status bar even when using a projected CRS.
 
-|image28|
+|image29|
 
 This feature was funded by QGIS sponsored bug fixing program
 
@@ -359,7 +359,7 @@ window). Two useful new improvements were added for this release:
 -  **Load projects directly from the browser** - now you can drag and
    drop a whole project into the QGIS map canvas and it will be loaded.
 
-|image29|
+|image30|
 
 This feature was developed by Nathan Woodrow
 
@@ -375,7 +375,7 @@ subsequent use response times will be quicker when using that service.
 By default the cache period is 24 hours, but you can adjust this in the
 ``Network`` tab of the QGIS Settings dialog.
 
-|image30|
+|image31|
 
 This feature was developed by Jürgen Fischer
 
@@ -389,7 +389,7 @@ for curved geometries. Additionally, if QGIS has been built using GDAL
 versions 2.0 and up then QGIS will fully support curved geometries in
 supported file types (eg GML files).
 
-|image31|
+|image32|
 
 This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
@@ -409,7 +409,7 @@ including:
 -  Saving layers to vector files will preserve time fields if supported
    by vector layer format (eg MapInfo .tab files)
 
-|image32|
+|image33|
 
 This feature was developed by Jürgen Fischer, Nyall Dawson
 
@@ -421,7 +421,7 @@ The delimited text provider has gained support for WKT strings
 containing Z and M coordinates. For example you can express a point with
 z and measure elements like this : ``POINT ZM (1 1 5 60)``.
 
-|image33|
+|image34|
 
 This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
@@ -450,6 +450,8 @@ them <https://www.qgis.org/en/site/getinvolved/development/bugreporting.html>`__
 
 This is only implemented for postgres databases at the moment.
 
+|image35|
+
 This feature was funded by `SIGE <http://www.sige.ch/>`__
 
 This feature was developed by `Matthias Kuhn, OPENGIS.ch, based on work
@@ -465,7 +467,7 @@ Postgres using basic or PKI authentication, with the credentials stored
 in the QGIS configuration. The new Postgres provider authentication can
 also be used in the DB manager.
 
-|image34|
+|image36|
 
 This feature was funded by `Boundless Spatial <boundlesgeo.com>`__
 
@@ -494,7 +496,7 @@ different data providers to make joins.
 Support for virtual layers has also been added to DB Manager as well as
 to the Processing toolbox where a new 'Execute SQL' tool is available.
 
-|image35|
+|image37|
 
 This feature was funded by `MEDDE (French Ministry of Sustainable
 Development) <http://www.developpement-durable.gouv.fr>`__
@@ -547,7 +549,7 @@ have been added to GDAL and OGR file selector filters:
 
 -  .ovr for vrt raster file format
 
-|image36|
+|image38|
 
 This feature was developed by `Médéric Ribreux <https://medspx.fr>`__
 
@@ -564,7 +566,7 @@ This method will decrease the number of vertices of the geometries that
 QGIS needs to download from the server, which will increase rendering
 speed and save bandwith between QGIS and the PostgreSQL server.
 
-|image37|
+|image39|
 
 This feature was developed by `Michaël Douchin
 @kimaidou <http://3liz.com>`__
@@ -580,7 +582,7 @@ The "SPIT" plugin is no longer bundled with QGIS, as the plugin was
 unmaintained and has been surpassed by DB Manager and the processing
 database import algorithms.
 
-|image38|
+|image40|
 
 This feature was developed by Nathan Woodrow
 
@@ -588,7 +590,9 @@ Feature: DXF export: option to use title instead of name as DXF layer name in ap
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-|image39|
+|image41|
+
+This feature was funded by `City of Uster <http://gis.uster.ch/>`__
 
 This feature was developed by Jürgen Fischer
 
@@ -604,45 +608,13 @@ joins or other workarounds.
 Additionally, options have been added for forcing the output file to be
 multi type, or include a z-dimension.
 
-|image40|
+|image42|
 
 This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
 Feature: Vector joins are now saved within QLR layer-definition-files
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-Feature: N:M relation editing
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-This adds the possibility to manage data on a normalised relational
-database in N:M (many to many) relations. On the relation editor in a
-form, the tools to add, delete, link and unlink also work on the linking
-table if a relation is visualized as a N:M relation.
-
-Configuration is done through the fields tab where on the relation a
-second relation can be chosen (if there is a suitable relation in terms
-of a second relation on the linking table).
-
-**Limitations:**
-
-QGIS is not a database management system.
-
-| It is based on assumptions about the underlying database system. In
-|  particular:
-
--  it expects a ``ON DELETE CASCADE`` or similar measure on the second
-   relation
--  does not take care of setting the primary key when adding features.
-    Either users need to be instructed to set them manually or - if it's
-   a
-    database derived value - the layers need to be in transaction mode
-
-This feature was funded by République et canton de Neuchâtel, Ville de
-Pully, Ville de Vevey
-
-This feature was developed by `Matthias Kuhn <http://opengis.ch>`__
 
 Feature: External Resource widget
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -700,7 +672,41 @@ projects to use the new 'External Resource' widget now.
 -  Matthias Kuhn at `OPENGIS.ch <https://opengis.ch>`__
 -  `Médéric Ribreux <https://medspx.fr>`__
 
-|image41|
+|image43|
+
+Feature: N:M relation editing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+This adds the possibility to manage data on a normalised relational
+database in N:M (many to many) relations. On the relation editor in a
+form, the tools to add, delete, link and unlink also work on the linking
+table if a relation is visualized as a N:M relation.
+
+Configuration is done through the fields tab where on the relation a
+second relation can be chosen (if there is a suitable relation in terms
+of a second relation on the linking table).
+
+**Limitations:**
+
+QGIS is not a database management system.
+
+It is based on assumptions about the underlying database system. In
+particular:
+
+-  it expects a ``ON DELETE CASCADE`` or similar measure on the second
+   relation
+-  does not take care of setting the primary key when adding features.
+    Either users need to be instructed to set them manually or - if it's
+   a
+    database derived value - the layers need to be in transaction mode
+
+|image44|
+
+This feature was funded by République et canton de Neuchâtel, Ville de
+Pully, Ville de Vevey
+
+This feature was developed by `Matthias Kuhn <http://opengis.ch>`__
 
 Digitising
 ----------
@@ -711,7 +717,7 @@ Feature: Configurable rubber band color
 
 You can now set the rubber band width and colour used for digitising.
 
-|image42|
+|image45|
 
 Feature: Trace digitising tool
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -740,7 +746,7 @@ Neath Port Talbot County Borough Council, Ujaval Gandhi, Surrey Heath
 Borough Council, Matias Arnold, Northumberland National Park Authority,
 Buccleuch Estates Limited, Countryscape
 
-|image43|
+|image46|
 
 This feature was developed by `Lutra
 Consulting <http://www.lutraconsulting.co.uk>`__
@@ -761,7 +767,7 @@ mean no-match and other return values represented the character position
 Project files from earlier QGIS versions will need to be updated to
 reflect this change.
 
-|image44|
+|image47|
 
 This feature was developed by Jürgen Fischer
 
@@ -773,7 +779,7 @@ You can now zoom to any feature from within the attribute table (without
 having to select it first) by right-clicking and selecting zoom to
 feature.
 
-|image45|
+|image48|
 
 Feature: Speed and memory improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -826,7 +832,10 @@ added:
 -  ``@user_full_name``: current user's name from operating system
    account (if available)
 
-|image46|
+|image49|
+
+This feature was funded by Andreas Neumann (the OS and user related
+variables)
 
 This feature was developed by Nyall Dawson, Matthias Kuhn
 
@@ -839,7 +848,7 @@ scale bars and copyright notices on the main map canvas. You can now
 precisely set the position of these elements using a variety of units
 (including millimeters, pixels and percent).
 
-|image47|
+|image50|
 
 Feature: Paid bugfixing programme
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1035,7 +1044,7 @@ do operations such as apply a buffer to a group of selected features,
 and together with all the newly added geometry functions in 2.14 makes
 for a very handy way to manipulate your geometries!
 
-|image48|
+|image51|
 
 This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
@@ -1093,28 +1102,10 @@ Other improvements:
    ``case when $geometry then ... else ...`` and
    ``case when get_feature(...) then ... else ...``
 
-|image49|
+|image52|
 
 Labelling
 ---------
-
-Feature: Actual rendered symbol is now considered as an obstacle for point feature labels
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-Previously, only the point feature itself was treated as an obstacle for
-label candidates. If a large or offset symbol was used for the point,
-then labels were allowed to overlap this symbol without incurring the
-obstacle cost.
-
-Now, the actual size and offset of the rendered symbol are considered
-when detecting whether a label collides with a point feature. The result
-is that QGIS now avoids drawing labels over point symbols in more
-circumstances.
-
-This feature was funded by City of Uster
-
-This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
 Feature: "Cartographic" placement mode for point labels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1141,7 +1132,7 @@ data defined list of prioritised positions. This also allows for only
 certain placements to be used, so eg for coastal features you could
 prevent labels being placed over the land.
 
-|image50|
+|image53|
 
 This feature was funded by Andreas Neumann
 
@@ -1160,7 +1151,7 @@ renderer.
 Note that this setting is only available with the new Cartographic point
 label placement mode.
 
-|image51|
+|image54|
 
 This feature was funded by Andreas Neumann
 
@@ -1192,7 +1183,27 @@ Note that this does *NOT* allow labels to be drawn below the features
 from other layers, it just controls the order in which labels are drawn
 on top of your map.
 
-|image52|
+|image55|
+
+This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
+
+Feature: Actual rendered symbol is now considered as an obstacle for point feature labels
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Previously, only the point feature itself was treated as an obstacle for
+label candidates. If a large or offset symbol was used for the point,
+then labels were allowed to overlap this symbol without incurring the
+obstacle cost.
+
+Now, the actual size and offset of the rendered symbol are considered
+when detecting whether a label collides with a point feature. The result
+is that QGIS now avoids drawing labels over point symbols in more
+circumstances.
+
+|image56|
+
+This feature was funded by City of Uster
 
 This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
@@ -1206,7 +1217,7 @@ Feature: Paste a style to multiple selected layers or to all layers in a legend 
 This feature adds the possibility to paste the style of one layer to a
 layer group or selected layers.
 
-|image53|
+|image57|
 
 This feature was developed by Salvatore Larosa
 
@@ -1224,7 +1235,7 @@ duplicate http://changelog.qgis.org/en/entry/update/441 ?**
 The second filter option allows a composer legend to be filtered to only
 include items which are contained within the current atlas polygon.
 
-|image54|
+|image58|
 
 This feature was developed by `Hugo Mercier
 (Oslandia) <http://oslandia.com/>`__
@@ -1240,7 +1251,7 @@ symbology in mind.
 The legend filtering is available in the legend of the main application
 as well as for legend components of the QGIS composer.
 
-|image55|
+|image59|
 
 This feature was funded by `Agence de l'Eau Adour-Garonne (Adour-Garonne
 Water Agency) <http://www.eau-adour-garonne.fr>`__
@@ -1262,7 +1273,7 @@ in addition to the local ones that exist on their own system. To manage
 the composer template search paths, look in
 ``Settings -> Options -> Composer``
 
-|image56|
+|image60|
 
 This feature was developed by Nathan Woodrow
 
@@ -1275,7 +1286,7 @@ compositions at the same time. You can now open or delete multiple
 compositions at once by using the Ctrl key and selecting multiple
 compositions from the list.
 
-|image57|
+|image61|
 
 This feature was developed by `Médéric Ribreux <https://medspx.fr>`__
 
@@ -1292,7 +1303,7 @@ connections to plugin repositories, and system administrators to create
 authenticated access to plugin repositories and/or the download packages
 of plugins.
 
-|image58|
+|image62|
 
 This feature was funded by `Boundless
 Spatial <http://boundlessgeo.com>`__
@@ -1336,7 +1347,7 @@ It is possible - and desired - that more tests are added. You can read
 more about `how to
 participate <www.opengis.ch/2016/02/04/increasing-the-stability-of-processing-algorithms/>`__.
 
-|image59|
+|image63|
 
 This feature was funded by `The QGIS Project <https://www.qgis.org>`__
 
@@ -1352,7 +1363,7 @@ user-friendly system of managing providers has been added. The algorithm
 search functionality now searches also in providers that are not active,
 and suggests activating them.
 
-|image60|
+|image64|
 
 This feature was funded by `Boundless
 Spatial <http://boundlessgeo.com/>`__
@@ -1363,7 +1374,7 @@ Feature: Batch processes can be saved and later recovered from the batch process
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-|image61|
+|image65|
 
 Feature: More informative algorithm dialog
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1375,7 +1386,7 @@ making it easy to understand the purpose of the algorithm.
 Also, batch processes can be now started from the algorithm dialog,
 using the “Run as batch process…” button
 
-|image62|
+|image66|
 
 Feature: GRASS7 v.net modules
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1450,7 +1461,7 @@ read `the official GRASS7
 documentation <https://grass.osgeo.org/grass70/manuals/topic_network.html>`__
 for more information.
 
-|image63|
+|image67|
 
 This feature was developed by `Médéric Ribreux <https://medspx.fr>`__
 
@@ -1463,7 +1474,7 @@ Feature: Redesign expression function editor
 
 With auto save
 
-|image64|
+|image68|
 
 Feature: Store python init code into the project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1472,7 +1483,7 @@ Feature: Store python init code into the project
 Adds an option and code editor to store python form init code into the
 project (and the DB, since it's in the style section)
 
-|image65|
+|image69|
 
 Feature: New filtering and sorting options for QgsFeatureRequest
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1488,7 +1499,7 @@ returned features. Again, in many cases this ordering is delegated to
 the provider so that it is performed "server side" for optimal
 performance.
 
-|image66|
+|image70|
 
 Feature: Custom feature form Python code options
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1504,7 +1515,7 @@ The configuration options, including the custom Python code entered in
 the dialog are stored in the project as well as in the style QML
 settings and can be exported/restored from a DB.
 
-|image67|
+|image71|
 
 This feature was funded by `ARPA
 Piemonte <http://www.arpa.piemonte.gov.it/>`__
@@ -1612,7 +1623,7 @@ or *1*.
 
 This feature needs a fake X server.
 
-|image68|
+|image72|
 
 This feature was developed by `3Liz <http://3liz.com>`__
 
@@ -1620,7 +1631,7 @@ Feature: Option to avoid rendering artefacts at edges of tiles
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-|image69|
+|image73|
 
 Feature: Configuration checker in project properties
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1635,7 +1646,7 @@ The checker tests for errors like:
 -  invalid OWS names
 -  missing vector layer encodings
 
-|image70|
+|image74|
 
 This feature was funded by
 `Ifremer <http://wwz.ifremer.fr/institut_eng/>`__
@@ -1655,7 +1666,7 @@ In the project properties the user can:
 
 The WMS 1.3.0 capabilities reflects the INSPIRE configuration.
 
-|image71|
+|image75|
 
 This feature was developed by `3Liz <http://3liz.com>`__
 
@@ -1663,7 +1674,7 @@ Feature: Add short name to layers, groups and project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-A number of elements have both a **Name** and a **Title**. The Name is text
+A number of elements have both a **Name** and a **Title**. The Name is a text
 string used for machine-to-machine communication while the Title is for the
 benefit of humans. For example, a dataset might have the descriptive Title
 *Maximum Atmospheric Temperature* and be requested using the abbreviated Name
@@ -1687,7 +1698,7 @@ machine-to-machine communication, this feature adds:
 If a short name has been set for layers, groups and project it is used
 by QGIS Sever as the layer name.
 
-|image72|
+|image76|
 
 This feature was developed by `3Liz <http://3liz.com>`__
 
@@ -1698,7 +1709,7 @@ Feature: Size assistant for varying line width
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-|image73|
+|image77|
 
 Feature: Support for transparency in SVG color parameters
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1723,7 +1734,7 @@ Feature: Easy duplication of symbol layers
 A new "duplicate" button has been added to the symbol properties dialog,
 which allows symbol layers to be easily duplicated.
 
-|image74|
+|image78|
 
 This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
@@ -1754,7 +1765,7 @@ improve the style to your needs.
 -  Ville de Nyon
 -  Wetu GIT cc
 
-|image75|
+|image79|
 
 This feature was funded by Regional Council of Picardy, ADUGA, Ville de
 Nyon, Wetu GIT cc
@@ -1793,7 +1804,7 @@ This is also available for plugins:
 **This feature was funded by**: Regional Council of Picardy, ADUGA,
 Ville de Nyon, Wetu GIT cc
 
-|image76|
+|image80|
 
 This feature was developed by `Matthias Kuhn,
 OPENGIS.ch <https://opengis.ch>`__
@@ -1836,7 +1847,7 @@ Different symbol layers can contain different geometry generators, this
 allows displaying different versions of a geometry at the same time. The
 2.5D renderer serves as an example.
 
-|image77|
+|image81|
 
 This feature was funded by Regional Council of Picardy, ADUGA, Ville de
 Nyon, Wetu GIT cc
@@ -1854,7 +1865,7 @@ Feature: Attribute table can be refreshed
 An option to reload attributes within the attribute table is now
 available.
 
-|image78|
+|image82|
 
 Feature: Directly set renderer and class symbol colors from context menu in legend
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1864,7 +1875,7 @@ Shows a color wheel widget in the menu, which allows you to
 interactively edit the color for a symbol without having to even open a
 single dialog!
 
-|image79|
+|image83|
 
 This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
@@ -1879,7 +1890,7 @@ editing the classes symbol. It's much faster than opening the layer
 properties and going through the style tab. You can also double click on
 a child item to immediately open the symbol editor.
 
-|image80|
+|image84|
 
 This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
@@ -1891,122 +1902,128 @@ Allows toggling on/off all the symbol items for
 categorized/graduated/rule based layers via the right click menu on an
 item. Previously you'd have to manually toggle each item one-by-one.
 
-|image81|
+|image85|
 
 This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
 .. |image1| image:: images/projects/596e7e353771d2802f065352548e512b8d902d83.png
 .. |donate here| image:: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
    :target: http://qgis.org/en/site/getinvolved/donations.html
-.. |image26| image:: images/entries/thumbnails/3820507f3bffdaab2bafe7285a8c51791f0b1fdb.png.400x300_q85_crop.png
+.. |image27| image:: images/entries/thumbnails/3820507f3bffdaab2bafe7285a8c51791f0b1fdb.png.400x300_q85_crop.png
    :target: images/entries/3820507f3bffdaab2bafe7285a8c51791f0b1fdb.png
-.. |image27| image:: images/entries/thumbnails/c9813d351340f46e28e6a0cb576a4b2ca72466a9.png.400x300_q85_crop.jpg
+.. |image28| image:: images/entries/thumbnails/c9813d351340f46e28e6a0cb576a4b2ca72466a9.png.400x300_q85_crop.jpg
    :target: images/entries/c9813d351340f46e28e6a0cb576a4b2ca72466a9.png
-.. |image28| image:: images/entries/thumbnails/b086f236720ecb5cac0aa8bb7383275799affff4.png.400x300_q85_crop.jpg
+.. |image29| image:: images/entries/thumbnails/b086f236720ecb5cac0aa8bb7383275799affff4.png.400x300_q85_crop.jpg
    :target: images/entries/b086f236720ecb5cac0aa8bb7383275799affff4.png
-.. |image29| image:: images/entries/thumbnails/8479ec7c4077c9602d6eacdb11d518bd55922074.png.400x300_q85_crop.png
+.. |image30| image:: images/entries/thumbnails/8479ec7c4077c9602d6eacdb11d518bd55922074.png.400x300_q85_crop.png
    :target: images/entries/8479ec7c4077c9602d6eacdb11d518bd55922074.png
-.. |image30| image:: images/entries/thumbnails/743840449ddf09f45251e9710e9666cf4da86081.png.400x300_q85_crop.png
+.. |image31| image:: images/entries/thumbnails/743840449ddf09f45251e9710e9666cf4da86081.png.400x300_q85_crop.png
    :target: images/entries/743840449ddf09f45251e9710e9666cf4da86081.png
-.. |image31| image:: images/entries/thumbnails/79f4b8256ab3507b192277c4f14d3bb04423dc52.png.400x300_q85_crop.jpg
+.. |image32| image:: images/entries/thumbnails/79f4b8256ab3507b192277c4f14d3bb04423dc52.png.400x300_q85_crop.jpg
    :target: images/entries/79f4b8256ab3507b192277c4f14d3bb04423dc52.png
-.. |image32| image:: images/entries/thumbnails/2511118cd31ca53892ef5764cf8e80d9491d131a.png.400x300_q85_crop.png
+.. |image33| image:: images/entries/thumbnails/2511118cd31ca53892ef5764cf8e80d9491d131a.png.400x300_q85_crop.png
    :target: images/entries/2511118cd31ca53892ef5764cf8e80d9491d131a.png
-.. |image33| image:: images/entries/thumbnails/41d5c223ac43b4f8f392894109414e9d053c9136.png.400x300_q85_crop.png
+.. |image34| image:: images/entries/thumbnails/41d5c223ac43b4f8f392894109414e9d053c9136.png.400x300_q85_crop.png
    :target: images/entries/41d5c223ac43b4f8f392894109414e9d053c9136.png
-.. |image34| image:: images/entries/thumbnails/6e8f65042bd5981e585812ce2d957d0c6055ba3f.jpg.400x300_q85_crop.jpg
+.. |image35| image:: images/entries/thumbnails/bb8a03f09c9675985409cf4360308509830d38d4.png.400x300_q85_crop.png
+   :target: images/entries/bb8a03f09c9675985409cf4360308509830d38d4.png
+.. |image36| image:: images/entries/thumbnails/6e8f65042bd5981e585812ce2d957d0c6055ba3f.jpg.400x300_q85_crop.jpg
    :target: images/entries/6e8f65042bd5981e585812ce2d957d0c6055ba3f.jpg
-.. |image35| image:: images/entries/thumbnails/58bc1a2fea31fe8d6ab70ff33c763c9ddac40ade.png.400x300_q85_crop.png
+.. |image37| image:: images/entries/thumbnails/58bc1a2fea31fe8d6ab70ff33c763c9ddac40ade.png.400x300_q85_crop.png
    :target: images/entries/58bc1a2fea31fe8d6ab70ff33c763c9ddac40ade.png
-.. |image36| image:: images/entries/thumbnails/7a628a66f2f63454bd65fbedda309ff5a7d25f1e.png.400x300_q85_crop.png
+.. |image38| image:: images/entries/thumbnails/7a628a66f2f63454bd65fbedda309ff5a7d25f1e.png.400x300_q85_crop.png
    :target: images/entries/7a628a66f2f63454bd65fbedda309ff5a7d25f1e.png
-.. |image37| image:: images/entries/thumbnails/bea701efeedd257314f507dfb2689fbf95403095.png.400x300_q85_crop.jpg
+.. |image39| image:: images/entries/thumbnails/bea701efeedd257314f507dfb2689fbf95403095.png.400x300_q85_crop.jpg
    :target: images/entries/bea701efeedd257314f507dfb2689fbf95403095.png
-.. |image38| image:: images/entries/thumbnails/b496fc25b098575ece2a38ea5a601caf75bb51dc.png.400x300_q85_crop.jpg
+.. |image40| image:: images/entries/thumbnails/b496fc25b098575ece2a38ea5a601caf75bb51dc.png.400x300_q85_crop.jpg
    :target: images/entries/b496fc25b098575ece2a38ea5a601caf75bb51dc.png
-.. |image39| image:: images/entries/thumbnails/e09652676e15a883821ca9b269c03ab0239aacb3.png.400x300_q85_crop.jpg
+.. |image41| image:: images/entries/thumbnails/e09652676e15a883821ca9b269c03ab0239aacb3.png.400x300_q85_crop.jpg
    :target: images/entries/e09652676e15a883821ca9b269c03ab0239aacb3.png
-.. |image40| image:: images/entries/thumbnails/886630cb835b72865c5442a73a79b46cc5a7b60f.png.400x300_q85_crop.jpg
+.. |image42| image:: images/entries/thumbnails/886630cb835b72865c5442a73a79b46cc5a7b60f.png.400x300_q85_crop.jpg
    :target: images/entries/886630cb835b72865c5442a73a79b46cc5a7b60f.png
-.. |image41| image:: images/entries/thumbnails/d20edab2103d774f548a55552ca2dbe20ac39e67.png.400x300_q85_crop.png
+.. |image43| image:: images/entries/thumbnails/d20edab2103d774f548a55552ca2dbe20ac39e67.png.400x300_q85_crop.png
    :target: images/entries/d20edab2103d774f548a55552ca2dbe20ac39e67.png
-.. |image42| image:: images/entries/thumbnails/40ef6c2f93c7697133ebede324fe9dafe40f42f0.png.400x300_q85_crop.png
+.. |image44| image:: images/entries/thumbnails/9f033883617b01432aae23c35be54070c1a9f5b3.png.400x300_q85_crop.png
+   :target: images/entries/9f033883617b01432aae23c35be54070c1a9f5b3.png
+.. |image45| image:: images/entries/thumbnails/40ef6c2f93c7697133ebede324fe9dafe40f42f0.png.400x300_q85_crop.png
    :target: images/entries/40ef6c2f93c7697133ebede324fe9dafe40f42f0.png
-.. |image43| image:: images/entries/thumbnails/357ff84cf7685a2686a019ebe42f0012b495f79a.png.400x300_q85_crop.png
+.. |image46| image:: images/entries/thumbnails/357ff84cf7685a2686a019ebe42f0012b495f79a.png.400x300_q85_crop.png
    :target: images/entries/357ff84cf7685a2686a019ebe42f0012b495f79a.png
-.. |image44| image:: images/entries/thumbnails/74ddb567a30e840405ca83656e76dd6476d00226.png.400x300_q85_crop.jpg
+.. |image47| image:: images/entries/thumbnails/74ddb567a30e840405ca83656e76dd6476d00226.png.400x300_q85_crop.jpg
    :target: images/entries/74ddb567a30e840405ca83656e76dd6476d00226.png
-.. |image45| image:: images/entries/thumbnails/7a400f577a7d554f309297f8a1af05a61e448a27.png.400x300_q85_crop.jpg
+.. |image48| image:: images/entries/thumbnails/7a400f577a7d554f309297f8a1af05a61e448a27.png.400x300_q85_crop.jpg
    :target: images/entries/7a400f577a7d554f309297f8a1af05a61e448a27.png
-.. |image46| image:: images/entries/thumbnails/b2e29d9df21795416961b8b548f98078386eeecf.png.400x300_q85_crop.jpg
+.. |image49| image:: images/entries/thumbnails/b2e29d9df21795416961b8b548f98078386eeecf.png.400x300_q85_crop.jpg
    :target: images/entries/b2e29d9df21795416961b8b548f98078386eeecf.png
-.. |image47| image:: images/entries/thumbnails/e2390ce8f4bc93ebf00228e1545b192315d2cb57.png.400x300_q85_crop.jpg
+.. |image50| image:: images/entries/thumbnails/e2390ce8f4bc93ebf00228e1545b192315d2cb57.png.400x300_q85_crop.jpg
    :target: images/entries/e2390ce8f4bc93ebf00228e1545b192315d2cb57.png
-.. |image48| image:: images/entries/thumbnails/ba37e2e778a2349c7099e09fcf648238090d8af4.png.400x300_q85_crop.jpg
+.. |image51| image:: images/entries/thumbnails/ba37e2e778a2349c7099e09fcf648238090d8af4.png.400x300_q85_crop.jpg
    :target: images/entries/ba37e2e778a2349c7099e09fcf648238090d8af4.png
-.. |image49| image:: images/entries/thumbnails/98616590f44281e09aa24f6c30d7f668c8665c31.png.400x300_q85_crop.jpg
+.. |image52| image:: images/entries/thumbnails/98616590f44281e09aa24f6c30d7f668c8665c31.png.400x300_q85_crop.jpg
    :target: images/entries/98616590f44281e09aa24f6c30d7f668c8665c31.png
-.. |image50| image:: images/entries/thumbnails/23cdbb38f45b05ea930fbeec8ad461e2616ef2a9.png.400x300_q85_crop.jpg
+.. |image53| image:: images/entries/thumbnails/23cdbb38f45b05ea930fbeec8ad461e2616ef2a9.png.400x300_q85_crop.jpg
    :target: images/entries/23cdbb38f45b05ea930fbeec8ad461e2616ef2a9.png
-.. |image51| image:: images/entries/thumbnails/9469a985c317ec310e8506e27da5148cedbb93c0.png.400x300_q85_crop.jpg
+.. |image54| image:: images/entries/thumbnails/9469a985c317ec310e8506e27da5148cedbb93c0.png.400x300_q85_crop.jpg
    :target: images/entries/9469a985c317ec310e8506e27da5148cedbb93c0.png
-.. |image52| image:: images/entries/thumbnails/52f3e941b047714fbaf81adc7a226e4808a82d09.png.400x300_q85_crop.jpg
+.. |image55| image:: images/entries/thumbnails/52f3e941b047714fbaf81adc7a226e4808a82d09.png.400x300_q85_crop.jpg
    :target: images/entries/52f3e941b047714fbaf81adc7a226e4808a82d09.png
-.. |image53| image:: images/entries/thumbnails/63fd1bfff18a108796c400edf127367f30f93c4b.png.400x300_q85_crop.jpg
+.. |image56| image:: images/entries/thumbnails/7d4d3117427f938ec3a5a4a1ed013e8e4445db60.png.400x300_q85_crop.png
+   :target: images/entries/7d4d3117427f938ec3a5a4a1ed013e8e4445db60.png
+.. |image57| image:: images/entries/thumbnails/63fd1bfff18a108796c400edf127367f30f93c4b.png.400x300_q85_crop.jpg
    :target: images/entries/63fd1bfff18a108796c400edf127367f30f93c4b.png
-.. |image54| image:: images/entries/thumbnails/cf32cc889370df205de51af684c4e683c3ec2dc4.png.400x300_q85_crop.jpg
+.. |image58| image:: images/entries/thumbnails/cf32cc889370df205de51af684c4e683c3ec2dc4.png.400x300_q85_crop.jpg
    :target: images/entries/cf32cc889370df205de51af684c4e683c3ec2dc4.png
-.. |image55| image:: images/entries/thumbnails/8c957ae820bc98f0a23a7d660abd40264af6e31d.png.400x300_q85_crop.png
+.. |image59| image:: images/entries/thumbnails/8c957ae820bc98f0a23a7d660abd40264af6e31d.png.400x300_q85_crop.png
    :target: images/entries/8c957ae820bc98f0a23a7d660abd40264af6e31d.png
-.. |image56| image:: images/entries/thumbnails/bd36891d76ee01ee79e516b0167f403a89fa49de.png.400x300_q85_crop.jpg
+.. |image60| image:: images/entries/thumbnails/bd36891d76ee01ee79e516b0167f403a89fa49de.png.400x300_q85_crop.jpg
    :target: images/entries/bd36891d76ee01ee79e516b0167f403a89fa49de.png
-.. |image57| image:: images/entries/thumbnails/2603b37c6a6ccec10f56f37951d9494cb44c8d0a.png.400x300_q85_crop.jpg
+.. |image61| image:: images/entries/thumbnails/2603b37c6a6ccec10f56f37951d9494cb44c8d0a.png.400x300_q85_crop.jpg
    :target: images/entries/2603b37c6a6ccec10f56f37951d9494cb44c8d0a.png
-.. |image58| image:: images/entries/thumbnails/7b66e68eb37b27b0ecabcab7d0656985e222e8c0.png.400x300_q85_crop.jpg
+.. |image62| image:: images/entries/thumbnails/7b66e68eb37b27b0ecabcab7d0656985e222e8c0.png.400x300_q85_crop.jpg
    :target: images/entries/7b66e68eb37b27b0ecabcab7d0656985e222e8c0.png
-.. |image59| image:: images/entries/thumbnails/4121e58bd51cfe5c8b2c0cd14d1420eaeb1f4473.png.400x300_q85_crop.png
+.. |image63| image:: images/entries/thumbnails/4121e58bd51cfe5c8b2c0cd14d1420eaeb1f4473.png.400x300_q85_crop.png
    :target: images/entries/4121e58bd51cfe5c8b2c0cd14d1420eaeb1f4473.png
-.. |image60| image:: images/entries/thumbnails/2a135d5384f592e77938c59c0563cc2d0f6c3ebf.jpg.400x300_q85_crop.jpg
+.. |image64| image:: images/entries/thumbnails/2a135d5384f592e77938c59c0563cc2d0f6c3ebf.jpg.400x300_q85_crop.jpg
    :target: images/entries/2a135d5384f592e77938c59c0563cc2d0f6c3ebf.jpg
-.. |image61| image:: images/entries/thumbnails/f8dec7fbc9e74dc3f4078f9710984d44b26c4fa3.jpg.400x300_q85_crop.jpg
+.. |image65| image:: images/entries/thumbnails/f8dec7fbc9e74dc3f4078f9710984d44b26c4fa3.jpg.400x300_q85_crop.jpg
    :target: images/entries/f8dec7fbc9e74dc3f4078f9710984d44b26c4fa3.jpg
-.. |image62| image:: images/entries/thumbnails/c4039a87ddc906921e5e3ce47f8c7aadc7ab2263.jpg.400x300_q85_crop.jpg
+.. |image66| image:: images/entries/thumbnails/c4039a87ddc906921e5e3ce47f8c7aadc7ab2263.jpg.400x300_q85_crop.jpg
    :target: images/entries/c4039a87ddc906921e5e3ce47f8c7aadc7ab2263.jpg
-.. |image63| image:: images/entries/thumbnails/655bbfccc4997a5a3e3d1f5c709da5277eef6000.png.400x300_q85_crop.png
+.. |image67| image:: images/entries/thumbnails/655bbfccc4997a5a3e3d1f5c709da5277eef6000.png.400x300_q85_crop.png
    :target: images/entries/655bbfccc4997a5a3e3d1f5c709da5277eef6000.png
-.. |image64| image:: images/entries/thumbnails/b42e959476310932713777f75f5eced4826df20a.png.400x300_q85_crop.jpg
+.. |image68| image:: images/entries/thumbnails/b42e959476310932713777f75f5eced4826df20a.png.400x300_q85_crop.jpg
    :target: images/entries/b42e959476310932713777f75f5eced4826df20a.png
-.. |image65| image:: images/entries/thumbnails/67bad1306d40aa9b32b64f4d025b77649ae2f775.png.400x300_q85_crop.jpg
+.. |image69| image:: images/entries/thumbnails/67bad1306d40aa9b32b64f4d025b77649ae2f775.png.400x300_q85_crop.jpg
    :target: images/entries/67bad1306d40aa9b32b64f4d025b77649ae2f775.png
-.. |image66| image:: images/entries/thumbnails/6e136c8a4bdf4361b9307f88175369b62d4648d6.png.400x300_q85_crop.jpg
+.. |image70| image:: images/entries/thumbnails/6e136c8a4bdf4361b9307f88175369b62d4648d6.png.400x300_q85_crop.jpg
    :target: images/entries/6e136c8a4bdf4361b9307f88175369b62d4648d6.png
-.. |image67| image:: images/entries/thumbnails/65e82ab529ee1287c631712127e1ac75f78d05c6.png.400x300_q85_crop.png
+.. |image71| image:: images/entries/thumbnails/65e82ab529ee1287c631712127e1ac75f78d05c6.png.400x300_q85_crop.png
    :target: images/entries/65e82ab529ee1287c631712127e1ac75f78d05c6.png
-.. |image68| image:: images/entries/thumbnails/95f13aa3a1f4cb4ca8cbf7ce30e6bb278e6b9cd8.png.400x300_q85_crop.png
+.. |image72| image:: images/entries/thumbnails/95f13aa3a1f4cb4ca8cbf7ce30e6bb278e6b9cd8.png.400x300_q85_crop.png
    :target: images/entries/95f13aa3a1f4cb4ca8cbf7ce30e6bb278e6b9cd8.png
-.. |image69| image:: images/entries/thumbnails/1ded32aa2bb962fde1b9f00b891b2a04406be621.png.400x300_q85_crop.jpg
+.. |image73| image:: images/entries/thumbnails/1ded32aa2bb962fde1b9f00b891b2a04406be621.png.400x300_q85_crop.jpg
    :target: images/entries/1ded32aa2bb962fde1b9f00b891b2a04406be621.png
-.. |image70| image:: images/entries/thumbnails/c548fc562785f400d3000e7ae1f61705c333026c.png.400x300_q85_crop.jpg
+.. |image74| image:: images/entries/thumbnails/c548fc562785f400d3000e7ae1f61705c333026c.png.400x300_q85_crop.jpg
    :target: images/entries/c548fc562785f400d3000e7ae1f61705c333026c.png
-.. |image71| image:: images/entries/thumbnails/4ee445bcb5e9eab3fb9bf2eda8f9b1b81bbe21c0.png.400x300_q85_crop.jpg
+.. |image75| image:: images/entries/thumbnails/4ee445bcb5e9eab3fb9bf2eda8f9b1b81bbe21c0.png.400x300_q85_crop.jpg
    :target: images/entries/4ee445bcb5e9eab3fb9bf2eda8f9b1b81bbe21c0.png
-.. |image72| image:: images/entries/thumbnails/e2345455bda9f0ed3da5e1c2750d6e2239ab8a86.png.400x300_q85_crop.jpg
+.. |image76| image:: images/entries/thumbnails/e2345455bda9f0ed3da5e1c2750d6e2239ab8a86.png.400x300_q85_crop.jpg
    :target: images/entries/e2345455bda9f0ed3da5e1c2750d6e2239ab8a86.png
-.. |image73| image:: images/entries/thumbnails/1d891425b0e1b9927ced6aab3e0353aed92608de.png.400x300_q85_crop.jpg
+.. |image77| image:: images/entries/thumbnails/1d891425b0e1b9927ced6aab3e0353aed92608de.png.400x300_q85_crop.jpg
    :target: images/entries/1d891425b0e1b9927ced6aab3e0353aed92608de.png
-.. |image74| image:: images/entries/thumbnails/a6e2ad682852a2fb8b635395ec75f83ef584621d.png.400x300_q85_crop.jpg
+.. |image78| image:: images/entries/thumbnails/a6e2ad682852a2fb8b635395ec75f83ef584621d.png.400x300_q85_crop.jpg
    :target: images/entries/a6e2ad682852a2fb8b635395ec75f83ef584621d.png
-.. |image75| image:: images/entries/thumbnails/8d66f8838011e7bc8fae540d56bf9ef6db20db68.jpg.400x300_q85_crop.jpg
+.. |image79| image:: images/entries/thumbnails/8d66f8838011e7bc8fae540d56bf9ef6db20db68.jpg.400x300_q85_crop.jpg
    :target: images/entries/8d66f8838011e7bc8fae540d56bf9ef6db20db68.jpg
-.. |image76| image:: images/entries/thumbnails/e06cf21a35e070a28ce5b3b98c92f2fb1c1b881d.png.400x300_q85_crop.png
+.. |image80| image:: images/entries/thumbnails/e06cf21a35e070a28ce5b3b98c92f2fb1c1b881d.png.400x300_q85_crop.png
    :target: images/entries/e06cf21a35e070a28ce5b3b98c92f2fb1c1b881d.png
-.. |image77| image:: images/entries/thumbnails/b06b6bc93644c051c13de162b45d9486b7af769a.png.400x300_q85_crop.png
+.. |image81| image:: images/entries/thumbnails/b06b6bc93644c051c13de162b45d9486b7af769a.png.400x300_q85_crop.png
    :target: images/entries/b06b6bc93644c051c13de162b45d9486b7af769a.png
-.. |image78| image:: images/entries/thumbnails/4623399cb1f63e2c6fa80c72a6aea17b6c63bb3e.png.400x300_q85_crop.jpg
+.. |image82| image:: images/entries/thumbnails/4623399cb1f63e2c6fa80c72a6aea17b6c63bb3e.png.400x300_q85_crop.jpg
    :target: images/entries/4623399cb1f63e2c6fa80c72a6aea17b6c63bb3e.png
-.. |image79| image:: images/entries/thumbnails/3159457a414ea61f8f40659af5c9561882a44fe1.png.400x300_q85_crop.jpg
+.. |image83| image:: images/entries/thumbnails/3159457a414ea61f8f40659af5c9561882a44fe1.png.400x300_q85_crop.jpg
    :target: images/entries/3159457a414ea61f8f40659af5c9561882a44fe1.png
-.. |image80| image:: images/entries/thumbnails/e7b2447e329507f0b27e855111ffa038b1ccc353.png.400x300_q85_crop.jpg
+.. |image84| image:: images/entries/thumbnails/e7b2447e329507f0b27e855111ffa038b1ccc353.png.400x300_q85_crop.jpg
    :target: images/entries/e7b2447e329507f0b27e855111ffa038b1ccc353.png
-.. |image81| image:: images/entries/thumbnails/c526cf9c28c92dde193490a2707c1fe2e0a58ea6.png.400x300_q85_crop.jpg
+.. |image85| image:: images/entries/thumbnails/c526cf9c28c92dde193490a2707c1fe2e0a58ea6.png.400x300_q85_crop.jpg
    :target: images/entries/c526cf9c28c92dde193490a2707c1fe2e0a58ea6.png
