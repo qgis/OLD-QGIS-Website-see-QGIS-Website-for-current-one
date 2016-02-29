@@ -46,8 +46,8 @@ a hand!
 Finally we would like to thank our official sponsors for the invaluable
 financial support they provide to this project:
 
--  **GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/
-
+-  **GOLD Sponsor:** `Asia Air Survey,
+   Japan, <http://www.asiaairsurvey.com/>`__
 -  SILVER Sponsor: `Sourcepole AG,
    Switzerland <http://www.sourcepole.com/>`__
 -  SILVER Sponsor: `State of Vorarlberg,
