@@ -277,7 +277,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
   * - |bronze| |avioportolano|
 
        `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
-     - |bronze| |canal|
+    - |bronze| |canal|
 
        `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
   * - |bronze| |openrunner|
@@ -301,7 +301,6 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
   * - |bronze| |nextgis|
 
       `NextGIS <http://nextgis.org/>`_, Russia (03.2010-03.2011)
-    - 
 
 .. |openrunner| image:: /static/site/about/images/openrunner.png
    :width: 48 px
