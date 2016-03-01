@@ -68,6 +68,18 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+  *  - |bronze| |gis_supp|
+
+       `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2017)
+     - |bronze| |molitec|
+
+       `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-03.2017)
+   * - |bronze| |chartwell|
+
+       `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2017)
+     - |bronze| |tragewegen|
+
+       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2017)
    * - |bronze| |claasleinert|
 
        `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2017)
@@ -116,30 +128,6 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2016)
-   * - |bronze| |chartwell|
-
-       `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2016)
-     - |bronze| |tragewegen|
-
-       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2016)
-   * - |bronze| |gfi|
-
-       `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
-     - |bronze| |gis_supp|
-
-       `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-02.2016)
-   * - |bronze| |adlares|
-
-       `ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
-     - |bronze| |molitec|
-
-       `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)
-   * - |bronze| |argus|
-
-       `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
-     - |bronze| |canal|
-
-       `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
 
 .. |cawdor_forestry| image:: /static/site/about/images/cawdor_forestry_logo.png
    :width: 90 px
@@ -277,10 +265,22 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 .. list-table:: Past bronze sponsors
 
+   * - |bronze| |gfi|
+
+       `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
+    - | 
+   * - |bronze| |argus|
+
+       `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
+     - |bronze| |adlares|
+
+       `ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
   * - |bronze| |avioportolano|
 
        `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
-    -
+     - |bronze| |canal|
+
+       `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
   * - |bronze| |openrunner|
 
       `www.openrunner.com <http://www.openrunner.com/>`_, France (05.2014-05.2015)
