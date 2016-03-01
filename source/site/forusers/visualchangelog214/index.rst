@@ -1229,8 +1229,7 @@ This introduces two new options to filter legend elements.
 
 The first, filter by expression, allows users to set an expression for
 filtering which features should be shown in the legend. Only symbols
-with a matching feature will be shown in the legend. **Is it not a
-duplicate http://changelog.qgis.org/en/entry/update/441 ?**
+with a matching feature will be shown in the legend.
 
 The second filter option allows a composer legend to be filtered to only
 include items which are contained within the current atlas polygon.
@@ -1910,120 +1909,61 @@ This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 .. |donate here| image:: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
    :target: http://qgis.org/en/site/getinvolved/donations.html
 .. |image27| image:: images/entries/thumbnails/3820507f3bffdaab2bafe7285a8c51791f0b1fdb.png.400x300_q85_crop.png
-   :target: images/entries/3820507f3bffdaab2bafe7285a8c51791f0b1fdb.png
 .. |image28| image:: images/entries/thumbnails/c9813d351340f46e28e6a0cb576a4b2ca72466a9.png.400x300_q85_crop.jpg
-   :target: images/entries/c9813d351340f46e28e6a0cb576a4b2ca72466a9.png
 .. |image29| image:: images/entries/thumbnails/b086f236720ecb5cac0aa8bb7383275799affff4.png.400x300_q85_crop.jpg
-   :target: images/entries/b086f236720ecb5cac0aa8bb7383275799affff4.png
 .. |image30| image:: images/entries/thumbnails/8479ec7c4077c9602d6eacdb11d518bd55922074.png.400x300_q85_crop.png
-   :target: images/entries/8479ec7c4077c9602d6eacdb11d518bd55922074.png
 .. |image31| image:: images/entries/thumbnails/743840449ddf09f45251e9710e9666cf4da86081.png.400x300_q85_crop.png
-   :target: images/entries/743840449ddf09f45251e9710e9666cf4da86081.png
 .. |image32| image:: images/entries/thumbnails/79f4b8256ab3507b192277c4f14d3bb04423dc52.png.400x300_q85_crop.jpg
-   :target: images/entries/79f4b8256ab3507b192277c4f14d3bb04423dc52.png
 .. |image33| image:: images/entries/thumbnails/2511118cd31ca53892ef5764cf8e80d9491d131a.png.400x300_q85_crop.png
-   :target: images/entries/2511118cd31ca53892ef5764cf8e80d9491d131a.png
 .. |image34| image:: images/entries/thumbnails/41d5c223ac43b4f8f392894109414e9d053c9136.png.400x300_q85_crop.png
-   :target: images/entries/41d5c223ac43b4f8f392894109414e9d053c9136.png
 .. |image35| image:: images/entries/thumbnails/bb8a03f09c9675985409cf4360308509830d38d4.png.400x300_q85_crop.png
-   :target: images/entries/bb8a03f09c9675985409cf4360308509830d38d4.png
 .. |image36| image:: images/entries/thumbnails/6e8f65042bd5981e585812ce2d957d0c6055ba3f.jpg.400x300_q85_crop.jpg
-   :target: images/entries/6e8f65042bd5981e585812ce2d957d0c6055ba3f.jpg
 .. |image37| image:: images/entries/thumbnails/58bc1a2fea31fe8d6ab70ff33c763c9ddac40ade.png.400x300_q85_crop.png
-   :target: images/entries/58bc1a2fea31fe8d6ab70ff33c763c9ddac40ade.png
 .. |image38| image:: images/entries/thumbnails/7a628a66f2f63454bd65fbedda309ff5a7d25f1e.png.400x300_q85_crop.png
-   :target: images/entries/7a628a66f2f63454bd65fbedda309ff5a7d25f1e.png
 .. |image39| image:: images/entries/thumbnails/bea701efeedd257314f507dfb2689fbf95403095.png.400x300_q85_crop.jpg
-   :target: images/entries/bea701efeedd257314f507dfb2689fbf95403095.png
 .. |image40| image:: images/entries/thumbnails/b496fc25b098575ece2a38ea5a601caf75bb51dc.png.400x300_q85_crop.jpg
-   :target: images/entries/b496fc25b098575ece2a38ea5a601caf75bb51dc.png
 .. |image41| image:: images/entries/thumbnails/e09652676e15a883821ca9b269c03ab0239aacb3.png.400x300_q85_crop.jpg
-   :target: images/entries/e09652676e15a883821ca9b269c03ab0239aacb3.png
 .. |image42| image:: images/entries/thumbnails/886630cb835b72865c5442a73a79b46cc5a7b60f.png.400x300_q85_crop.jpg
-   :target: images/entries/886630cb835b72865c5442a73a79b46cc5a7b60f.png
 .. |image43| image:: images/entries/thumbnails/d20edab2103d774f548a55552ca2dbe20ac39e67.png.400x300_q85_crop.png
-   :target: images/entries/d20edab2103d774f548a55552ca2dbe20ac39e67.png
 .. |image44| image:: images/entries/thumbnails/9f033883617b01432aae23c35be54070c1a9f5b3.png.400x300_q85_crop.png
-   :target: images/entries/9f033883617b01432aae23c35be54070c1a9f5b3.png
 .. |image45| image:: images/entries/thumbnails/40ef6c2f93c7697133ebede324fe9dafe40f42f0.png.400x300_q85_crop.png
-   :target: images/entries/40ef6c2f93c7697133ebede324fe9dafe40f42f0.png
 .. |image46| image:: images/entries/thumbnails/357ff84cf7685a2686a019ebe42f0012b495f79a.png.400x300_q85_crop.png
-   :target: images/entries/357ff84cf7685a2686a019ebe42f0012b495f79a.png
 .. |image47| image:: images/entries/thumbnails/74ddb567a30e840405ca83656e76dd6476d00226.png.400x300_q85_crop.jpg
-   :target: images/entries/74ddb567a30e840405ca83656e76dd6476d00226.png
 .. |image48| image:: images/entries/thumbnails/7a400f577a7d554f309297f8a1af05a61e448a27.png.400x300_q85_crop.jpg
-   :target: images/entries/7a400f577a7d554f309297f8a1af05a61e448a27.png
 .. |image49| image:: images/entries/thumbnails/b2e29d9df21795416961b8b548f98078386eeecf.png.400x300_q85_crop.jpg
-   :target: images/entries/b2e29d9df21795416961b8b548f98078386eeecf.png
 .. |image50| image:: images/entries/thumbnails/e2390ce8f4bc93ebf00228e1545b192315d2cb57.png.400x300_q85_crop.jpg
-   :target: images/entries/e2390ce8f4bc93ebf00228e1545b192315d2cb57.png
 .. |image51| image:: images/entries/thumbnails/ba37e2e778a2349c7099e09fcf648238090d8af4.png.400x300_q85_crop.jpg
-   :target: images/entries/ba37e2e778a2349c7099e09fcf648238090d8af4.png
 .. |image52| image:: images/entries/thumbnails/98616590f44281e09aa24f6c30d7f668c8665c31.png.400x300_q85_crop.jpg
-   :target: images/entries/98616590f44281e09aa24f6c30d7f668c8665c31.png
 .. |image53| image:: images/entries/thumbnails/23cdbb38f45b05ea930fbeec8ad461e2616ef2a9.png.400x300_q85_crop.jpg
-   :target: images/entries/23cdbb38f45b05ea930fbeec8ad461e2616ef2a9.png
 .. |image54| image:: images/entries/thumbnails/9469a985c317ec310e8506e27da5148cedbb93c0.png.400x300_q85_crop.jpg
-   :target: images/entries/9469a985c317ec310e8506e27da5148cedbb93c0.png
 .. |image55| image:: images/entries/thumbnails/52f3e941b047714fbaf81adc7a226e4808a82d09.png.400x300_q85_crop.jpg
-   :target: images/entries/52f3e941b047714fbaf81adc7a226e4808a82d09.png
 .. |image56| image:: images/entries/thumbnails/7d4d3117427f938ec3a5a4a1ed013e8e4445db60.png.400x300_q85_crop.png
-   :target: images/entries/7d4d3117427f938ec3a5a4a1ed013e8e4445db60.png
 .. |image57| image:: images/entries/thumbnails/63fd1bfff18a108796c400edf127367f30f93c4b.png.400x300_q85_crop.jpg
-   :target: images/entries/63fd1bfff18a108796c400edf127367f30f93c4b.png
 .. |image58| image:: images/entries/thumbnails/cf32cc889370df205de51af684c4e683c3ec2dc4.png.400x300_q85_crop.jpg
-   :target: images/entries/cf32cc889370df205de51af684c4e683c3ec2dc4.png
 .. |image59| image:: images/entries/thumbnails/8c957ae820bc98f0a23a7d660abd40264af6e31d.png.400x300_q85_crop.png
-   :target: images/entries/8c957ae820bc98f0a23a7d660abd40264af6e31d.png
 .. |image60| image:: images/entries/thumbnails/bd36891d76ee01ee79e516b0167f403a89fa49de.png.400x300_q85_crop.jpg
-   :target: images/entries/bd36891d76ee01ee79e516b0167f403a89fa49de.png
 .. |image61| image:: images/entries/thumbnails/2603b37c6a6ccec10f56f37951d9494cb44c8d0a.png.400x300_q85_crop.jpg
-   :target: images/entries/2603b37c6a6ccec10f56f37951d9494cb44c8d0a.png
 .. |image62| image:: images/entries/thumbnails/7b66e68eb37b27b0ecabcab7d0656985e222e8c0.png.400x300_q85_crop.jpg
-   :target: images/entries/7b66e68eb37b27b0ecabcab7d0656985e222e8c0.png
 .. |image63| image:: images/entries/thumbnails/4121e58bd51cfe5c8b2c0cd14d1420eaeb1f4473.png.400x300_q85_crop.png
-   :target: images/entries/4121e58bd51cfe5c8b2c0cd14d1420eaeb1f4473.png
 .. |image64| image:: images/entries/thumbnails/2a135d5384f592e77938c59c0563cc2d0f6c3ebf.jpg.400x300_q85_crop.jpg
-   :target: images/entries/2a135d5384f592e77938c59c0563cc2d0f6c3ebf.jpg
 .. |image65| image:: images/entries/thumbnails/f8dec7fbc9e74dc3f4078f9710984d44b26c4fa3.jpg.400x300_q85_crop.jpg
-   :target: images/entries/f8dec7fbc9e74dc3f4078f9710984d44b26c4fa3.jpg
 .. |image66| image:: images/entries/thumbnails/c4039a87ddc906921e5e3ce47f8c7aadc7ab2263.jpg.400x300_q85_crop.jpg
-   :target: images/entries/c4039a87ddc906921e5e3ce47f8c7aadc7ab2263.jpg
 .. |image67| image:: images/entries/thumbnails/655bbfccc4997a5a3e3d1f5c709da5277eef6000.png.400x300_q85_crop.png
-   :target: images/entries/655bbfccc4997a5a3e3d1f5c709da5277eef6000.png
 .. |image68| image:: images/entries/thumbnails/b42e959476310932713777f75f5eced4826df20a.png.400x300_q85_crop.jpg
-   :target: images/entries/b42e959476310932713777f75f5eced4826df20a.png
 .. |image69| image:: images/entries/thumbnails/67bad1306d40aa9b32b64f4d025b77649ae2f775.png.400x300_q85_crop.jpg
-   :target: images/entries/67bad1306d40aa9b32b64f4d025b77649ae2f775.png
 .. |image70| image:: images/entries/thumbnails/6e136c8a4bdf4361b9307f88175369b62d4648d6.png.400x300_q85_crop.jpg
-   :target: images/entries/6e136c8a4bdf4361b9307f88175369b62d4648d6.png
 .. |image71| image:: images/entries/thumbnails/65e82ab529ee1287c631712127e1ac75f78d05c6.png.400x300_q85_crop.png
-   :target: images/entries/65e82ab529ee1287c631712127e1ac75f78d05c6.png
 .. |image72| image:: images/entries/thumbnails/95f13aa3a1f4cb4ca8cbf7ce30e6bb278e6b9cd8.png.400x300_q85_crop.png
-   :target: images/entries/95f13aa3a1f4cb4ca8cbf7ce30e6bb278e6b9cd8.png
 .. |image73| image:: images/entries/thumbnails/1ded32aa2bb962fde1b9f00b891b2a04406be621.png.400x300_q85_crop.jpg
-   :target: images/entries/1ded32aa2bb962fde1b9f00b891b2a04406be621.png
 .. |image74| image:: images/entries/thumbnails/c548fc562785f400d3000e7ae1f61705c333026c.png.400x300_q85_crop.jpg
-   :target: images/entries/c548fc562785f400d3000e7ae1f61705c333026c.png
 .. |image75| image:: images/entries/thumbnails/4ee445bcb5e9eab3fb9bf2eda8f9b1b81bbe21c0.png.400x300_q85_crop.jpg
-   :target: images/entries/4ee445bcb5e9eab3fb9bf2eda8f9b1b81bbe21c0.png
 .. |image76| image:: images/entries/thumbnails/e2345455bda9f0ed3da5e1c2750d6e2239ab8a86.png.400x300_q85_crop.jpg
-   :target: images/entries/e2345455bda9f0ed3da5e1c2750d6e2239ab8a86.png
 .. |image77| image:: images/entries/thumbnails/1d891425b0e1b9927ced6aab3e0353aed92608de.png.400x300_q85_crop.jpg
-   :target: images/entries/1d891425b0e1b9927ced6aab3e0353aed92608de.png
 .. |image78| image:: images/entries/thumbnails/a6e2ad682852a2fb8b635395ec75f83ef584621d.png.400x300_q85_crop.jpg
-   :target: images/entries/a6e2ad682852a2fb8b635395ec75f83ef584621d.png
 .. |image79| image:: images/entries/thumbnails/8d66f8838011e7bc8fae540d56bf9ef6db20db68.jpg.400x300_q85_crop.jpg
-   :target: images/entries/8d66f8838011e7bc8fae540d56bf9ef6db20db68.jpg
 .. |image80| image:: images/entries/thumbnails/e06cf21a35e070a28ce5b3b98c92f2fb1c1b881d.png.400x300_q85_crop.png
-   :target: images/entries/e06cf21a35e070a28ce5b3b98c92f2fb1c1b881d.png
 .. |image81| image:: images/entries/thumbnails/b06b6bc93644c051c13de162b45d9486b7af769a.png.400x300_q85_crop.png
-   :target: images/entries/b06b6bc93644c051c13de162b45d9486b7af769a.png
 .. |image82| image:: images/entries/thumbnails/4623399cb1f63e2c6fa80c72a6aea17b6c63bb3e.png.400x300_q85_crop.jpg
-   :target: images/entries/4623399cb1f63e2c6fa80c72a6aea17b6c63bb3e.png
 .. |image83| image:: images/entries/thumbnails/3159457a414ea61f8f40659af5c9561882a44fe1.png.400x300_q85_crop.jpg
-   :target: images/entries/3159457a414ea61f8f40659af5c9561882a44fe1.png
 .. |image84| image:: images/entries/thumbnails/e7b2447e329507f0b27e855111ffa038b1ccc353.png.400x300_q85_crop.jpg
-   :target: images/entries/e7b2447e329507f0b27e855111ffa038b1ccc353.png
 .. |image85| image:: images/entries/thumbnails/c526cf9c28c92dde193490a2707c1fe2e0a58ea6.png.400x300_q85_crop.jpg
-   :target: images/entries/c526cf9c28c92dde193490a2707c1fe2e0a58ea6.png
