@@ -68,7 +68,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
-  *  - |bronze| |gis_supp|
+   * - |bronze| |gis_supp|
 
        `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2017)
      - |bronze| |molitec|
