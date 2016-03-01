@@ -265,7 +265,7 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 .. list-table:: Past Bronze sponsors
 
-   * - |bronze| |gfi|
+  * - |bronze| |gfi|
 
        `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
   * - |bronze| |argus|
