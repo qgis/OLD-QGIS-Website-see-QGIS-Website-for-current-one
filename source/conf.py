@@ -229,6 +229,14 @@ if "rst_epilog" in locals():
 rst_epilog = docs_rst_epilog + """
 .. |checkbox| image:: /static/site/common/checkbox.png
 .. |checkbox_unchecked| image:: /static/site/common/checkbox_unchecked.png
+.. |nix| image:: /static/common/nix.png
+   :width: 1em
+.. |win| image:: /static/common/win.png
+   :width: 1em
+.. |osx| image:: /static/common/osx.png
+   :width: 1em
+.. |QG| replace:: QGIS
+.. |qg| replace:: QGIS
 """
 
 # -- Options for LaTeX output --------------------------------------------------
