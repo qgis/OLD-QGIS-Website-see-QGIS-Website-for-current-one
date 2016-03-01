@@ -2,7 +2,7 @@
 QGIS geoprocessing model to simplify first level seismic microzonation analysis
 ===============================================================================
 
-The Institute of Environmental Geology and Geoengineering (IGAG) of the National Research Council (CNR) is located in Rome, in the Area of Research “Roma 1”. It was founded in 2002 by regrouping five former research Institutes and Centers that had been active for more than 40 years in their field of expertise.
+The Institute of Environmental Geology and Geoengineering (IGAG) of the National Research Council (CNR) is located in Rome, in the Area of Research "Roma 1". It was founded in 2002 by regrouping five former research Institutes and Centers that had been active for more than 40 years in their field of expertise.
 IGAG covers a wide range of scientific topics in the field of Earth sciences, mainly focusing towards the study of:
 
 * Environmental geochemistry and remediation of contaminated soils and waters;
