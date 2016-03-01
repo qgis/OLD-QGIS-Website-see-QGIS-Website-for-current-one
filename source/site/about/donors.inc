@@ -1,5 +1,23 @@
 .. list-table:: List of Donors
 
+   * - Eric Wyss
+     - Theo Wilken
+     - J. Tielemann
+   * - E.M. Sauter Ortiz
+     - Paul Fleuret
+     - Johannes Bouchain
+   * - Michal Jankulxxr
+     - Klaus Wedelling
+     - ESCO Conseil Sarl
+   * - Jakob Geipel
+     - Oliver Kracht
+     - Francesco Vescovi
+   * - Gregoire Stigler
+     - Franklin Patricio Estupinan
+     - Alexander Malcolm Garitaonandia
+   * - Andreas Natuschke
+     - Christian Herbe
+     - Dominik Keller
    * - 3w Lenses
      - 7d Enterprises
      - A Brian Hollinshead
@@ -1973,4 +1991,7 @@
      - 吉原 佑
    * - 江 秋蓉
      - 田中 創平
-     -
+     - Andreas Natuschke
+   * - Christian Herbe
+     - 
+     - 
