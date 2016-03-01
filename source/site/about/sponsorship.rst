@@ -263,16 +263,16 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 .. |vorarlberg2| image:: /static/site/about/images/land_f.jpg
    :width: 100 px
 
-.. list-table:: Past bronze sponsors
+.. list-table:: Past Bronze sponsors
 
-  * - |bronze| |gfi|
+   * - |bronze| |gfi|
 
        `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
     - 
   * - |bronze| |argus|
 
        `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
-     - |bronze| |adlares|
+    - |bronze| |adlares|
 
        `ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
   * - |bronze| |avioportolano|
