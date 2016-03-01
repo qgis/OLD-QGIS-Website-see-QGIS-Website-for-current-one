@@ -1221,24 +1221,6 @@ layer group or selected layers.
 
 This feature was developed by Salvatore Larosa
 
-Feature: New options for filtering legend elements
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-This introduces two new options to filter legend elements.
-
-The first, filter by expression, allows users to set an expression for
-filtering which features should be shown in the legend. Only symbols
-with a matching feature will be shown in the legend.
-
-The second filter option allows a composer legend to be filtered to only
-include items which are contained within the current atlas polygon.
-
-|image58|
-
-This feature was developed by `Hugo Mercier
-(Oslandia) <http://oslandia.com/>`__
-
 Feature: Filter legend by expression
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1260,6 +1242,24 @@ Oslandia <http://oslandia.com>`__
 
 Map Composer
 ------------
+
+Feature: New options for filtering legend elements
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+This introduces two new options to filter legend elements.
+
+The first, filter by expression, allows users to set an expression for
+filtering which features should be shown in the legend. Only symbols
+with a matching feature will be shown in the legend.
+
+The second filter option allows a composer legend to be filtered to only
+include items which are contained within the current atlas polygon.
+
+|image58|
+
+This feature was developed by `Hugo Mercier
+(Oslandia) <http://oslandia.com/>`__
 
 Feature: Additional paths for composer templates
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
