@@ -68,7 +68,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
-   * - |bronze| |gis_supp|
+   * - |bronze| |geoinnova|
 
        `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2017)
      - |bronze| |gis3w|
