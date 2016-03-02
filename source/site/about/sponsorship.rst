@@ -70,6 +70,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |bronze| |gis_supp|
 
+       `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2017)
+     - |bronze| |gis3w|
+
+       `Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-01.2017)
+   * - |bronze| |gis_supp|
+
        `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2017)
      - |bronze| |molitec|
 
@@ -128,6 +134,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2016)
+
+.. |geoinnova| image:: /static/site/about/images/geoinnova.jpg
+   :width: 90 px
 
 .. |cawdor_forestry| image:: /static/site/about/images/cawdor_forestry_logo.png
    :width: 90 px
