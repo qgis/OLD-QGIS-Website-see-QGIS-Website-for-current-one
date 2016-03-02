@@ -47,22 +47,29 @@ QGIS is being packaged for different type of operating systems. The people
 responsible for that packages are as following:
 
 * Windows Team: Jürgen E. Fischer <jef[at]norbit.de>, Tim Sutton <tim[at]linfiniti.com>
-* OS X Team: William Kyngesburye <kyngchaos[at]kyngchaos.com>, Tom Elwertowski <telwertowski[at]comcast.net>
+* OS X Team: William Kyngesburye <kyngchaos[at]kyngchaos.com>, 
+  Tom Elwertowski <telwertowski[at]comcast.net>
 * Linux Team:
 
   * OpenSuSE RPM Maintainer: Otto Dassau <dassau[at]gbd-consult.de>
   * Fedora RPM Maintainer: Douglas E. Warner <silfreed[at]silfreed.net>
-  * Ubuntu Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>, Tim Sutton <tim[at]linfiniti.com>, Jachym Cepicky <jachym.cepicky[at]gmail.com>
-  * Debian Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>, Tim Sutton <tim[at]linfiniti.com> [Etch], Niccolo Rigacci <qgis[at]rigacci.org> [Lenny]
+  * Ubuntu Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>, 
+    Tim Sutton <tim[at]linfiniti.com>, Jachym Cepicky <jachym.cepicky[at]gmail.com>
+  * Debian Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>, 
+    Tim Sutton <tim[at]linfiniti.com> [Etch], Niccolo Rigacci <qgis[at]rigacci.org> [Lenny]
 
 .. _testing-team:
 
 Testing Team
 ............
 
-* Ubuntu Linux: Ricardo Soares Garcia <ricardo.garcia.silva[at]gmail.com>, Giovanni Manghi <giovanni.manghi[at]faunalia.pt>, Luís de Sousa <luis.a.de.sousa[at]gmail.com>
-* Debian Linux: Paolo Cavallini <cavallini[at]cavallini.it>, Pedro Venâncio <pedrongvenancio[at]gmail.com>, Ivan Mincik <ivan.mincik[at]gmail.com>
-* Windows: Giovanni Manghi <giovanni.manghi[at]faunalia.pt>, Pedro Venâncio <pedrongvenancio[at]gmail.com>, Duarte Carreira <dncarreira[at]gmail.com>, Andre Mano <andre.s.mano[at]gmail.com>
+* Ubuntu Linux: Ricardo Soares Garcia <ricardo.garcia.silva[at]gmail.com>, Giovanni 
+  Manghi <giovanni.manghi[at]faunalia.pt>, Luís de Sousa <luis.a.de.sousa[at]gmail.com>
+* Debian Linux: Paolo Cavallini <cavallini[at]cavallini.it>, Pedro Venâncio 
+  <pedrongvenancio[at]gmail.com>, Ivan Mincik <ivan.mincik[at]gmail.com>
+* Windows: Giovanni Manghi <giovanni.manghi[at]faunalia.pt>, Pedro Venâncio 
+  <pedrongvenancio[at]gmail.com>, Duarte Carreira <dncarreira[at]gmail.com>, 
+  Andre Mano <andre.s.mano[at]gmail.com>
 * OS X: Larry Shaffer <larrys[at]dakotacarto.com>
 * Windows 8: Rui Pedro Henriques <henriques.rui[at]gmail.com>
 
@@ -118,7 +125,7 @@ Community Resources
 Current Community Team Lead:
 Otto Dassau <dassau[at]gbd-consult.de>
 
-The QGIS community resources are managed by the CommunityTeam (Community
+The QGIS community resources are managed by the Community Team (Community
 Manager and Assistants). With numerous contributors they keep contact to the
 community, take care of QGIS documentation and GUI translations,
 and ensure smooth running of the QGIS.org online experience including web
@@ -129,14 +136,14 @@ https://github.com/qgis/QGIS-Documentation
 
 .. _gui-translation:
 
-GUI Translation
-...............
+Translation
+...........
 
-Current GUI Translation Team Lead:
+Current Translation Team Lead:
 Werner Macho <werner.macho[at]gmail.com>
 
-The QGIS GUI Translation is managed by the Community Assistant (GUI
-Translation Team Lead) and supported by additional language specific teams.
+The QGIS Translation is managed by the Community Assistant (Translation
+Team Lead) and supported by additional language specific teams.
 Information about the current documentation status and the translation
 process are provided at the :ref:`Translators Corner <translate-qgis>`.
 
@@ -167,13 +174,17 @@ members write code or documentation, while others are valuable as testers,
 submitting patches and suggestions.
 
 The number of Contributors to the project is unbounded. Get involved today.
-All contributions (adding code or documentation, fixing typo error, reporting issues...) to the project are greatly appreciated.
+All contributions (adding code or documentation, fixing typo error, reporting 
+issues...) to the project are greatly appreciated.
 
 These `individuals <https://github.com/qgis/QGIS/graphs/contributors>`_
 are recognised as Contributors to the main code
 `github repository <https://github.com/qgis/QGIS>`_.
 
-Follow the lists of maintainers of the `documentation <https://github.com/qgis/QGIS-Documentation/graphs/contributors>`_ and the `website <https://github.com/qgis/QGIS-Website/graphs/contributors>`_. Feel free to join any of those teams.
+Follow the lists of maintainers of the `documentation 
+<https://github.com/qgis/QGIS-Documentation/graphs/contributors>`_ and the 
+`website <https://github.com/qgis/QGIS-Website/graphs/contributors>`_. 
+Feel free to join any of those teams.
 
 ..
    TODO : add list of translators, bug reporters (is that possible?)
