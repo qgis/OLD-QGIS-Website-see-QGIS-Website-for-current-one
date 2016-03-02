@@ -126,6 +126,12 @@ Current QGIS Sponsors
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |geoinnova|
+
+       `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2017)
+     - |bronze| |gis3w|
+
+       `Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-01.2017)
    * - |bronze| |claasleinert|
 
        `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2017)
@@ -198,6 +204,9 @@ Current QGIS Sponsors
      - |bronze| |canal|
 
        `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
+
+.. |geoinnova| image:: /static/site/about/images/geoinnova.jpg
+   :width: 90 px
 
 .. |cawdor_forestry| image:: /static/site/about/images/cawdor_forestry_logo.png
    :width: 90 px
