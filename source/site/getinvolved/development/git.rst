@@ -60,7 +60,7 @@ run this script automatically to make your life easier.
 
 .. code::
 
-  ln -s scripts/prepare-commit.sh .git/hooks/pre-commit
+  ln -s ../../scripts/prepare-commit.sh .git/hooks/pre-commit
   
 For the script to work properly you will need to enable the `WITH_ASTYLE` option in cmake when you build QGIS.
 
