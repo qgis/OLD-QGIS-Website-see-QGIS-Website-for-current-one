@@ -1,3 +1,6 @@
+.. _changelog214:
+
+
 Changelog for QGIS 2.14
 =======================
 
@@ -83,6 +86,12 @@ can |donate here|
 
 .. |gold| image:: /static/site/about/images/gold.png
           :width: 100 px
+
+
+
+.. contents::
+   :local:
+
 
 
 Current QGIS Sponsors
@@ -288,6 +297,361 @@ Current QGIS Sponsors
 
 .. |lutra| image:: /static/site/about/images/lutra_consulting.png
    :width: 64 px
+
+
+
+General
+-------
+
+Feature: Changed behaviour of strpos function
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+The strpos function behaviour has been altered, so that no match now
+results in a "0" value and a non-zero value means a match at the
+specified character position. In older QGIS versions, a "-1" value would
+mean no-match and other return values represented the character position
+- 1.
+
+Project files from earlier QGIS versions will need to be updated to
+reflect this change.
+
+|image47|
+
+This feature was developed by Jürgen Fischer
+
+Feature: Zoom to feature with right-click in attribute table
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+You can now zoom to any feature from within the attribute table (without
+having to select it first) by right-clicking and selecting zoom to
+feature.
+
+|image48|
+
+Feature: Speed and memory improvements
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+-  **Saving a set of selected features** from a large layer is now much
+   faster
+-  Updating only selected features using the **field calculator** is
+   faster
+-  **Faster zoom** to selected on large layers
+-  Much faster ``get_feature`` expression function (especially when the
+   an indexed column in the referenced layer is used)
+-  ``SelectByAttribute`` and ``ExtractByAttribute`` processing
+   algorithms are orders of magnitude faster, and can take advantage of
+   database indices created on an attribute
+-  ``PointsInPolygon`` processing algorithm is many magnitudes faster
+-  **Filtering the categories in a categorised renderer** (eg, only
+   showing some categories and unchecking others) is much faster, as now
+   only the matching features are fetched from the data provider
+-  Significant **reduction in the memory** required for opening large
+   vector layers
+
+Feature: More expression variables
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+During rendering, new variables will be available:
+
+-  ``@geometry_part_count``: The part count of the currently rendered
+   geometry (interesting for multi-part features)
+-  ``@geometry_part_num``: 1-based index of the currently rendered
+   geometry part
+
+These are useful to apply different styles to different parts of
+multipart features:
+
+-  ``@map_extent_width``: The width of the currently rendered map in map
+   units
+-  ``@map_extent_height``: The height of the currently rendered map in
+   map units
+-  ``@map_extent_center``: The center point of the currently rendered
+   map in map units
+
+Variables relating to the operating system environment have also been
+added:
+
+-  ``@qgis_os_name``: eg 'Linux','Windows' or 'OSX'
+-  ``@qgis_platform``: eg 'Desktop' or 'Server'
+-  ``@user_account_name``: current user's operating system account name
+-  ``@user_full_name``: current user's name from operating system
+   account (if available)
+
+|image49|
+
+This feature was funded by Andreas Neumann (the OS and user related
+variables)
+
+This feature was developed by Nyall Dawson, Matthias Kuhn
+
+Feature: Better control over placement of map elements
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+QGIS 2.14 has gained finer control over the placement of north arrows,
+scale bars and copyright notices on the main map canvas. You can now
+precisely set the position of these elements using a variety of units
+(including millimeters, pixels and percent).
+
+|image50|
+
+Feature: Paid bugfixing programme
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Prior to each release, we hold a paid bugfixing programme where we fund
+developers to clean up as many bugs as possible. We have decided to
+start including a report back on paid bugfixing programme as part of our
+changelog report. Note that this list is **not exhaustive**.
+
+-  Sandro Santilli: `Postgis Connection freeze if you press "Set filter"
+   during loading of data <http://hub.qgis.org/issues/13141>`__
+-  Sandro Santilli: `db\_manager is unable to load rasters from
+   connections with no dbname
+   specified <http://hub.qgis.org/issues/10600>`__
+-  Sandro Santilli: `Plugin layers do not work correctly with
+   rotation <http://hub.qgis.org/issues/11900>`__
+-  Sandro Santilli: Crash in QgsGeomColumnTypeThread stopping connection
+   scan `#14140 <http://hub.qgis.org/issues/14140>`__
+   `#13806 <http://hub.qgis.org/issues/13806>`__
+-  Sandro Santilli: `Crash after bulk change of attribute value in
+   shapefile <http://hub.qgis.org/issues/11422>`__
+-  Sandro Santilli: `KMZ causes QGIS application crash
+   (Mac) <http://hub.qgis.org/issues/13865>`__
+-  Sandro Santilli: `QGIS 2.8.1 crash opening FileGDB
+   (openGDB-Driver) <http://hub.qgis.org/issues/12416>`__
+-  Sandro Santilli: `QGIS crashes when removing vertex of a multipart
+   geometry <http://hub.qgis.org/issues/14188>`__
+-  Sandro Santilli: `test -V -R qgis\_analyzertest
+   segfaults <http://hub.qgis.org/issues/14176>`__
+-  Sandro Santilli: `output/bin/qgis\_diagramtest
+   segfaults <http://hub.qgis.org/issues/14212>`__
+-  Sandro Santilli: Overflow on primary key with negative values;
+   crashes QGIS when editing
+   `#13958 <http://hub.qgis.org/issues/13958>`__
+   `#14262 <http://hub.qgis.org/issues/14262>`__
+-  Sandro Santilli: `PyQgsPostgresProvider test hangs in absence of test
+   database <http://hub.qgis.org/issues/14269>`__
+-  Sandro Santilli: `TestVectorLayerJoinBuffer hangs if database is not
+   available <http://hub.qgis.org/issues/14308>`__
+-  Nyall Dawson: `BLOCKER: Crash when opening layer properties dialog
+   for geometryless vector layer <http://hub.qgis.org/issues/14116>`__
+-  Nyall Dawson: Broken server side filtering for OGR, Oracle and
+   Spatialite layers
+-  Nyall Dawson: `BLOCKER: Bad polygon digitizing in
+   master <http://hub.qgis.org/issues/14117>`__
+-  Nyall Dawson: `BLOCKER: Heatmap with expression triggers
+   segfault <http://hub.qgis.org/issues/14127>`__
+-  Nyall Dawson: `BLOCKER: unchecking one sub-layer of a categorized
+   symbology leads to no features being
+   drawn <http://hub.qgis.org/issues/14118>`__
+-  Nyall Dawson: `HIGH: A Multiband image(e.g. landsat5,7,8) cannot be
+   displayed in windows8 <http://hub.qgis.org/issues/13155>`__
+-  Nyall Dawson: `BLOCKER: CurvePolygons not
+   drawn <http://hub.qgis.org/issues/14028>`__
+-  Nyall Dawson: `BLOCKER: "Merge Attributes" tool doesn't change values
+   when they are typed <http://hub.qgis.org/issues/14146>`__
+-  Nyall Dawson: `HIGH: Filter legend by content is broken when renderer
+   contains duplicate symbols <http://hub.qgis.org/issues/14131>`__
+-  Nyall Dawson: Fix issues with conversion of renderers to rule based
+   renderer resulting in broken renderer
+-  Nyall Dawson: Fix categorised renderer does not store changes to the
+   source symbol
+-  Nyall Dawson: `HIGH: Avoid crash with raster calculator and huge
+   raster inputs <http://hub.qgis.org/issues/13336>`__
+-  Nyall Dawson: `HIGH: @value variable of simple symbol fill color
+   wrongly gets modified in data-defined
+   expression <http://hub.qgis.org/issues/14148>`__
+-  Nyall Dawson: `HIGH: Editing Composer legend while filtered does not
+   work <http://hub.qgis.org/issues/11459>`__
+-  Nyall Dawson: `NORMAL: Deleting nodes - inconsistent
+   behaviour <http://hub.qgis.org/issues/14168>`__
+-  Nyall Dawson: Fix handling of time value in attributes
+-  Nyall Dawson: Dialog tab order fixes
+-  Nyall Dawson: `BLOCKER: crash when adding multiple files from browser
+   panel <http://hub.qgis.org/issues/14223>`__
+-  Nyall Dawson: `HIGH: Merge selected features tool corrupts data when
+   columns are defined as "hidden" <http://hub.qgis.org/issues/14235>`__
+-  Nyall Dawson: Correctly handle LongLong fields in merge attribute
+   dialog
+-  Nyall Dawson: Fix misleading display of calculation details in
+   measure tool dialog (was misleading and inaccurate for many CRS/unit
+   combinations)
+-  Nyall Dawson: `NORMAL: max value for option "increase size of small
+   diagrams" not sufficient <http://hub.qgis.org/issues/14282>`__
+-  Nyall Dawson: `BLOCKER: Area not calculated correctly with OTF
+   on <http://hub.qgis.org/issues/13209>`__
+-  Nyall Dawson: `NORMAL: Incoherent lat/lon coordinates in a projected
+   coordinate system project <http://hub.qgis.org/issues/9730>`__
+-  Nyall Dawson: NORMAL: make the field calculator compute areas and
+   lengths in units other than map units
+   `#12939 <http://hub.qgis.org/issues/12939>`__
+   `#2402 <http://hub.qgis.org/issues/2402>`__
+   `#4857 <http://hub.qgis.org/issues/4857>`__
+-  Nyall Dawson: `NORMAL: different built-in tools calculate
+   inconsistent polygon areas <http://hub.qgis.org/issues/4252>`__
+-  Nyall Dawson: `NORMAL: In virtual fields $area function computes
+   always values using "None/planimetric"
+   ellipsoid <http://hub.qgis.org/issues/12622>`__
+-  Martin Dobias: raster layer drawn as garbage
+-  Martin Dobias: HIGH: Multi-threaded rendering and OTF reprojection
+   issues `#11441 <http://hub.qgis.org/issues/11441>`__
+   `#11746 <http://hub.qgis.org/issues/11746>`__
+-  Martin Dobias: `BLOCKER: Regression in "save as" dialog for
+   shapefiles <http://hub.qgis.org/issues/14158>`__
+-  Martin Dobias: Slow loading of attribute table in debug mode
+-  Martin Dobias: `BLOCKER: Crash when changing renderer
+   type <http://hub.qgis.org/issues/14164>`__
+-  Martin Dobias: `HIGH: Custom python renderer issues
+   #1 <http://hub.qgis.org/issues/14025>`__
+-  Martin Dobias: `HIGH: Custom python renderer issues
+   #2 <http://hub.qgis.org/issues/13973>`__
+-  Martin Dobias: 2.5d renderer fixes
+-  Martin Dobias: `HIGH: Long freeze when initializing
+   snapping <http://hub.qgis.org/issues/12578>`__
+-  Martin Dobias: `NORMAL: Loading of data-defined from
+   xml <http://hub.qgis.org/issues/14177>`__
+-  Martin Dobias: Fix DB manager to work with SpatiaLite < 4.2
+-  Martin Dobias: `NORMAL: Crash while rendering in debug
+   mode <http://hub.qgis.org/issues/14369>`__
+-  Martin Dobias: BLOCKER: Fix selection / identification in spatialite
+   views `#14232 <http://hub.qgis.org/issues/14232>`__
+   `#14233 <http://hub.qgis.org/issues/14233>`__
+-  Martin Dobias: `BLOCKER: Fix drag&drop of spatialite
+   tables <http://hub.qgis.org/issues/14237>`__
+-  Jürgen Fischer:\ `Zoom to layer works incorrectly while layer
+   editing <http://hub.qgis.org/issues/3155>`__
+-  Jürgen Fischer:\ `Help viewer process running in the background with
+   no help viewer (or even QGIS)
+   open <http://hub.qgis.org/issues/8305>`__
+-  Jürgen Fischer:\ `Spatialindex include path missing in some
+   components <http://hub.qgis.org/issues/13197>`__
+-  Jürgen Fischer:\ `compile fails attempting to generate
+   qgsversion.h <http://hub.qgis.org/issues/13680>`__
+-  Jürgen Fischer:\ `Edit widget configuration is stored
+   twice <http://hub.qgis.org/issues/13960>`__
+-  Jürgen Fischer:\ `Extra space in "IS NOT" operator makes the
+   expression return wrong
+   selection <http://hub.qgis.org/issues/13938>`__
+-  Jürgen Fischer:\ `QGIS greadily allocates memory and crashes when
+   editing moderately large shapefiles with the node
+   tool <http://hub.qgis.org/issues/13963>`__
+-  Jürgen Fischer:\ `French reprojection use ntf\_r93.gsb (IGNF:LAMBE
+   etc ..) <http://hub.qgis.org/issues/14101>`__
+-  Jürgen Fischer:\ `Digitizing: "Reuse last entered attribute values"
+   should not overwrite primary key
+   column <http://hub.qgis.org/issues/14154>`__
+-  Jürgen Fischer:\ `Issues in Case expression
+   description <http://hub.qgis.org/issues/14189>`__
+-  Jürgen Fischer:\ `shapefile vector writer: datetime field saved as
+   date resulting in data loss of
+   time <http://hub.qgis.org/issues/14190>`__
+-  Jürgen Fischer:\ `Add help for some variable
+   functions <http://hub.qgis.org/issues/14259>`__
+-  Jürgen Fischer:\ `Virtual layers not working in
+   Processing <http://hub.qgis.org/issues/14313>`__
+-  Jürgen Fischer:\ `layer definition file load
+   error <http://hub.qgis.org/issues/14340>`__
+-  Jürgen Fischer:\ `QgsGeometry::fromWkb fails if WKB is different
+   endian representation <http://hub.qgis.org/issues/14204>`__
+-  Jürgen Fischer:\ `Debian build
+   failure. <http://hub.qgis.org/issues/14248>`__
+-  Jürgen Fischer:\ `PyQgsPostgresProvider test hangs in absence of test
+   database <http://hub.qgis.org/issues/14269>`__
+-  Jürgen Fischer:\ `wkb access out of
+   bounds <http://hub.qgis.org/issues/14315>`__
+-  Jürgen Fischer:\ `QGIS under Windows netCDF import reverses Y axis,
+   Linux doesn't <http://hub.qgis.org/issues/14316>`__ `OSGeo4W
+   #483 <https://trac.osgeo.org/osgeo4w/ticket/483>`__
+-  Jürgen Fischer:\ `OSGEO4W: Running offline install crashes
+   installer <https://trac.osgeo.org/osgeo4w/ticket/105>`__
+-  Jürgen Fischer:\ `OSGEO4W: Dependencies are not tracking on Windows
+   Server 2003 x64 <https://trac.osgeo.org/osgeo4w/ticket/117>`__
+-  Jürgen Fischer:\ `OSGEO4W: installation from local package don't
+   check the dependencies <https://trac.osgeo.org/osgeo4w/ticket/151>`__
+-  Jürgen Fischer:\ `OSGEO4W: Setup starts downloading and installing
+   packages before showing you a list to choose
+   from <https://trac.osgeo.org/osgeo4w/ticket/262>`__
+-  Jürgen Fischer:\ `OSGEO4W: Using -a for Advanced selects two options
+   (command line install) <https://trac.osgeo.org/osgeo4w/ticket/351>`__
+-  Jürgen Fischer:\ `OSGEO4W: Infinite license download during quite
+   installation of szip <https://trac.osgeo.org/osgeo4w/ticket/486>`__
+-  Jürgen Fischer:Oracle provider deadlock
+-  Jürgen Fischer:fix saga path setting
+
+Feature: Field calculator can be used to update feature's geometry
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+The field calculator can now be used to update a feature geometries
+using the result of a geometric expression. This is a handy shortcut to
+do operations such as apply a buffer to a group of selected features,
+and together with all the newly added geometry functions in 2.14 makes
+for a very handy way to manipulate your geometries!
+
+|image51|
+
+This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
+
+Feature: New expression functions in 2.14
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Lots of new expression functions have been added for version 2.14:
+
+-  ``relate``: performs DE-9IM geometry relations by either returning
+   the DE-9IM representation of the relationship between two geometries,
+   or by testing whether the DE-9IM relationship matches a specified
+   pattern.
+-  the ``make_point`` function now accepts optional z and m values, and
+   a new ``make_point_m`` function has been added for creation of PointM
+   geometries.
+-  ``m`` and ``z`` functions for retrieving the m and z values from a
+   point geometry
+-  new ``make_line`` and ``make_polygon`` functions, for creation of
+   line and polygon geometries from a set of points
+-  ``reverse``, for reversing linestrings
+-  ``eval`` function, which can evaluate a string as though it is an
+   expression of its own
+-  ``translate`` function, for translating geometries by and x/y offset
+-  ``darker`` and ``lighter`` functions, which take a color argument and
+   make it darker or lighter by a specified amount
+-  ``radians`` and ``degrees``: for converting angles between radians
+   and degrees
+-  ``point_on_surface``: returns a point on the surface of a geometry
+-  ``exterior_ring``: returns the exterior ring for a polygon geometry
+-  ``is_closed``: returns true if a linestring is closed
+-  new geometry accessor functions: ``geometry_n`` (returns a specific
+   geometry from within a collection), ``interior_ring_n`` (returns an
+   interior ring from within a polygon)
+-  ``num_geometries``: returns number of geometries inside a collection
+-  ``num_rings``: returns number of rings in a polygon geometry object
+-  ``num_interior_rings``: returns number of interior rings in a polygon
+-  ``nodes_to_points``, for converting every node in a geometry to a
+   multipoint geometry
+-  ``segments_to_lines``, for converting every segment in a geometry to
+   a multiline geometry
+-  ``closest_point``: returns closest point a geometry to a second
+   geometry
+-  ``shortest_line``: returns the shortest possible line joining two
+   geometries
+
+``nodes_to_points`` and ``segments_to_lines`` are intended for use with
+geometry generator symbology, eg to allow use of m and z values for
+nodes/lines with data defined symbology.
+
+Other improvements:
+
+-  geometries and features can now be used in conditional functions. For
+   instances, this allows expressions like
+   ``case when $geometry then ... else ...`` and
+   ``case when get_feature(...) then ... else ...``
+
+|image52|
 
 
 Analysis tools
@@ -760,358 +1124,6 @@ Buccleuch Estates Limited, Countryscape
 This feature was developed by `Lutra
 Consulting <http://www.lutraconsulting.co.uk>`__
 
-General
--------
-
-Feature: Changed behaviour of strpos function
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-The strpos function behaviour has been altered, so that no match now
-results in a "0" value and a non-zero value means a match at the
-specified character position. In older QGIS versions, a "-1" value would
-mean no-match and other return values represented the character position
-- 1.
-
-Project files from earlier QGIS versions will need to be updated to
-reflect this change.
-
-|image47|
-
-This feature was developed by Jürgen Fischer
-
-Feature: Zoom to feature with right-click in attribute table
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-You can now zoom to any feature from within the attribute table (without
-having to select it first) by right-clicking and selecting zoom to
-feature.
-
-|image48|
-
-Feature: Speed and memory improvements
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
--  **Saving a set of selected features** from a large layer is now much
-   faster
--  Updating only selected features using the **field calculator** is
-   faster
--  **Faster zoom** to selected on large layers
--  Much faster ``get_feature`` expression function (especially when the
-   an indexed column in the referenced layer is used)
--  ``SelectByAttribute`` and ``ExtractByAttribute`` processing
-   algorithms are orders of magnitude faster, and can take advantage of
-   database indices created on an attribute
--  ``PointsInPolygon`` processing algorithm is many magnitudes faster
--  **Filtering the categories in a categorised renderer** (eg, only
-   showing some categories and unchecking others) is much faster, as now
-   only the matching features are fetched from the data provider
--  Significant **reduction in the memory** required for opening large
-   vector layers
-
-Feature: More expression variables
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-During rendering, new variables will be available:
-
--  ``@geometry_part_count``: The part count of the currently rendered
-   geometry (interesting for multi-part features)
--  ``@geometry_part_num``: 1-based index of the currently rendered
-   geometry part
-
-These are useful to apply different styles to different parts of
-multipart features:
-
--  ``@map_extent_width``: The width of the currently rendered map in map
-   units
--  ``@map_extent_height``: The height of the currently rendered map in
-   map units
--  ``@map_extent_center``: The center point of the currently rendered
-   map in map units
-
-Variables relating to the operating system environment have also been
-added:
-
--  ``@qgis_os_name``: eg 'Linux','Windows' or 'OSX'
--  ``@qgis_platform``: eg 'Desktop' or 'Server'
--  ``@user_account_name``: current user's operating system account name
--  ``@user_full_name``: current user's name from operating system
-   account (if available)
-
-|image49|
-
-This feature was funded by Andreas Neumann (the OS and user related
-variables)
-
-This feature was developed by Nyall Dawson, Matthias Kuhn
-
-Feature: Better control over placement of map elements
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-QGIS 2.14 has gained finer control over the placement of north arrows,
-scale bars and copyright notices on the main map canvas. You can now
-precisely set the position of these elements using a variety of units
-(including millimeters, pixels and percent).
-
-|image50|
-
-Feature: Paid bugfixing programme
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-Prior to each release, we hold a paid bugfixing programme where we fund
-developers to clean up as many bugs as possible. We have decided to
-start including a report back on paid bugfixing programme as part of our
-changelog report. Note that this list is **not exhaustive**.
-
--  Sandro Santilli: `Postgis Connection freeze if you press "Set filter"
-   during loading of data <http://hub.qgis.org/issues/13141>`__
--  Sandro Santilli: `db\_manager is unable to load rasters from
-   connections with no dbname
-   specified <http://hub.qgis.org/issues/10600>`__
--  Sandro Santilli: `Plugin layers do not work correctly with
-   rotation <http://hub.qgis.org/issues/11900>`__
--  Sandro Santilli: Crash in QgsGeomColumnTypeThread stopping connection
-   scan `#14140 <http://hub.qgis.org/issues/14140>`__
-   `#13806 <http://hub.qgis.org/issues/13806>`__
--  Sandro Santilli: `Crash after bulk change of attribute value in
-   shapefile <http://hub.qgis.org/issues/11422>`__
--  Sandro Santilli: `KMZ causes QGIS application crash
-   (Mac) <http://hub.qgis.org/issues/13865>`__
--  Sandro Santilli: `QGIS 2.8.1 crash opening FileGDB
-   (openGDB-Driver) <http://hub.qgis.org/issues/12416>`__
--  Sandro Santilli: `QGIS crashes when removing vertex of a multipart
-   geometry <http://hub.qgis.org/issues/14188>`__
--  Sandro Santilli: `test -V -R qgis\_analyzertest
-   segfaults <http://hub.qgis.org/issues/14176>`__
--  Sandro Santilli: `output/bin/qgis\_diagramtest
-   segfaults <http://hub.qgis.org/issues/14212>`__
--  Sandro Santilli: Overflow on primary key with negative values;
-   crashes QGIS when editing
-   `#13958 <http://hub.qgis.org/issues/13958>`__
-   `#14262 <http://hub.qgis.org/issues/14262>`__
--  Sandro Santilli: `PyQgsPostgresProvider test hangs in absence of test
-   database <http://hub.qgis.org/issues/14269>`__
--  Sandro Santilli: `TestVectorLayerJoinBuffer hangs if database is not
-   available <http://hub.qgis.org/issues/14308>`__
--  Nyall Dawson: `BLOCKER: Crash when opening layer properties dialog
-   for geometryless vector layer <http://hub.qgis.org/issues/14116>`__
--  Nyall Dawson: Broken server side filtering for OGR, Oracle and
-   Spatialite layers
--  Nyall Dawson: `BLOCKER: Bad polygon digitizing in
-   master <http://hub.qgis.org/issues/14117>`__
--  Nyall Dawson: `BLOCKER: Heatmap with expression triggers
-   segfault <http://hub.qgis.org/issues/14127>`__
--  Nyall Dawson: `BLOCKER: unchecking one sub-layer of a categorized
-   symbology leads to no features being
-   drawn <http://hub.qgis.org/issues/14118>`__
--  Nyall Dawson: `HIGH: A Multiband image(e.g. landsat5,7,8) cannot be
-   displayed in windows8 <http://hub.qgis.org/issues/13155>`__
--  Nyall Dawson: `BLOCKER: CurvePolygons not
-   drawn <http://hub.qgis.org/issues/14028>`__
--  Nyall Dawson: `BLOCKER: "Merge Attributes" tool doesn't change values
-   when they are typed <http://hub.qgis.org/issues/14146>`__
--  Nyall Dawson: `HIGH: Filter legend by content is broken when renderer
-   contains duplicate symbols <http://hub.qgis.org/issues/14131>`__
--  Nyall Dawson: Fix issues with conversion of renderers to rule based
-   renderer resulting in broken renderer
--  Nyall Dawson: Fix categorised renderer does not store changes to the
-   source symbol
--  Nyall Dawson: `HIGH: Avoid crash with raster calculator and huge
-   raster inputs <http://hub.qgis.org/issues/13336>`__
--  Nyall Dawson: `HIGH: @value variable of simple symbol fill color
-   wrongly gets modified in data-defined
-   expression <http://hub.qgis.org/issues/14148>`__
--  Nyall Dawson: `HIGH: Editing Composer legend while filtered does not
-   work <http://hub.qgis.org/issues/11459>`__
--  Nyall Dawson: `NORMAL: Deleting nodes - inconsistent
-   behaviour <http://hub.qgis.org/issues/14168>`__
--  Nyall Dawson: Fix handling of time value in attributes
--  Nyall Dawson: Dialog tab order fixes
--  Nyall Dawson: `BLOCKER: crash when adding multiple files from browser
-   panel <http://hub.qgis.org/issues/14223>`__
--  Nyall Dawson: `HIGH: Merge selected features tool corrupts data when
-   columns are defined as "hidden" <http://hub.qgis.org/issues/14235>`__
--  Nyall Dawson: Correctly handle LongLong fields in merge attribute
-   dialog
--  Nyall Dawson: Fix misleading display of calculation details in
-   measure tool dialog (was misleading and inaccurate for many CRS/unit
-   combinations)
--  Nyall Dawson: `NORMAL: max value for option "increase size of small
-   diagrams" not sufficient <http://hub.qgis.org/issues/14282>`__
--  Nyall Dawson: `BLOCKER: Area not calculated correctly with OTF
-   on <http://hub.qgis.org/issues/13209>`__
--  Nyall Dawson: `NORMAL: Incoherent lat/lon coordinates in a projected
-   coordinate system project <http://hub.qgis.org/issues/9730>`__
--  Nyall Dawson: NORMAL: make the field calculator compute areas and
-   lengths in units other than map units
-   `#12939 <http://hub.qgis.org/issues/12939>`__
-   `#2402 <http://hub.qgis.org/issues/2402>`__
-   `#4857 <http://hub.qgis.org/issues/4857>`__
--  Nyall Dawson: `NORMAL: different built-in tools calculate
-   inconsistent polygon areas <http://hub.qgis.org/issues/4252>`__
--  Nyall Dawson: `NORMAL: In virtual fields $area function computes
-   always values using "None/planimetric"
-   ellipsoid <http://hub.qgis.org/issues/12622>`__
--  Martin Dobias: raster layer drawn as garbage
--  Martin Dobias: HIGH: Multi-threaded rendering and OTF reprojection
-   issues `#11441 <http://hub.qgis.org/issues/11441>`__
-   `#11746 <http://hub.qgis.org/issues/11746>`__
--  Martin Dobias: `BLOCKER: Regression in "save as" dialog for
-   shapefiles <http://hub.qgis.org/issues/14158>`__
--  Martin Dobias: Slow loading of attribute table in debug mode
--  Martin Dobias: `BLOCKER: Crash when changing renderer
-   type <http://hub.qgis.org/issues/14164>`__
--  Martin Dobias: `HIGH: Custom python renderer issues
-   #1 <http://hub.qgis.org/issues/14025>`__
--  Martin Dobias: `HIGH: Custom python renderer issues
-   #2 <http://hub.qgis.org/issues/13973>`__
--  Martin Dobias: 2.5d renderer fixes
--  Martin Dobias: `HIGH: Long freeze when initializing
-   snapping <http://hub.qgis.org/issues/12578>`__
--  Martin Dobias: `NORMAL: Loading of data-defined from
-   xml <http://hub.qgis.org/issues/14177>`__
--  Martin Dobias: Fix DB manager to work with SpatiaLite < 4.2
--  Martin Dobias: `NORMAL: Crash while rendering in debug
-   mode <http://hub.qgis.org/issues/14369>`__
--  Martin Dobias: BLOCKER: Fix selection / identification in spatialite
-   views `#14232 <http://hub.qgis.org/issues/14232>`__
-   `#14233 <http://hub.qgis.org/issues/14233>`__
--  Martin Dobias: `BLOCKER: Fix drag&drop of spatialite
-   tables <http://hub.qgis.org/issues/14237>`__
--  Jürgen Fischer:\ `Zoom to layer works incorrectly while layer
-   editing <http://hub.qgis.org/issues/3155>`__
--  Jürgen Fischer:\ `Help viewer process running in the background with
-   no help viewer (or even QGIS)
-   open <http://hub.qgis.org/issues/8305>`__
--  Jürgen Fischer:\ `Spatialindex include path missing in some
-   components <http://hub.qgis.org/issues/13197>`__
--  Jürgen Fischer:\ `compile fails attempting to generate
-   qgsversion.h <http://hub.qgis.org/issues/13680>`__
--  Jürgen Fischer:\ `Edit widget configuration is stored
-   twice <http://hub.qgis.org/issues/13960>`__
--  Jürgen Fischer:\ `Extra space in "IS NOT" operator makes the
-   expression return wrong
-   selection <http://hub.qgis.org/issues/13938>`__
--  Jürgen Fischer:\ `QGIS greadily allocates memory and crashes when
-   editing moderately large shapefiles with the node
-   tool <http://hub.qgis.org/issues/13963>`__
--  Jürgen Fischer:\ `French reprojection use ntf\_r93.gsb (IGNF:LAMBE
-   etc ..) <http://hub.qgis.org/issues/14101>`__
--  Jürgen Fischer:\ `Digitizing: "Reuse last entered attribute values"
-   should not overwrite primary key
-   column <http://hub.qgis.org/issues/14154>`__
--  Jürgen Fischer:\ `Issues in Case expression
-   description <http://hub.qgis.org/issues/14189>`__
--  Jürgen Fischer:\ `shapefile vector writer: datetime field saved as
-   date resulting in data loss of
-   time <http://hub.qgis.org/issues/14190>`__
--  Jürgen Fischer:\ `Add help for some variable
-   functions <http://hub.qgis.org/issues/14259>`__
--  Jürgen Fischer:\ `Virtual layers not working in
-   Processing <http://hub.qgis.org/issues/14313>`__
--  Jürgen Fischer:\ `layer definition file load
-   error <http://hub.qgis.org/issues/14340>`__
--  Jürgen Fischer:\ `QgsGeometry::fromWkb fails if WKB is different
-   endian representation <http://hub.qgis.org/issues/14204>`__
--  Jürgen Fischer:\ `Debian build
-   failure. <http://hub.qgis.org/issues/14248>`__
--  Jürgen Fischer:\ `PyQgsPostgresProvider test hangs in absence of test
-   database <http://hub.qgis.org/issues/14269>`__
--  Jürgen Fischer:\ `wkb access out of
-   bounds <http://hub.qgis.org/issues/14315>`__
--  Jürgen Fischer:\ `QGIS under Windows netCDF import reverses Y axis,
-   Linux doesn't <http://hub.qgis.org/issues/14316>`__ `OSGeo4W
-   #483 <https://trac.osgeo.org/osgeo4w/ticket/483>`__
--  Jürgen Fischer:\ `OSGEO4W: Running offline install crashes
-   installer <https://trac.osgeo.org/osgeo4w/ticket/105>`__
--  Jürgen Fischer:\ `OSGEO4W: Dependencies are not tracking on Windows
-   Server 2003 x64 <https://trac.osgeo.org/osgeo4w/ticket/117>`__
--  Jürgen Fischer:\ `OSGEO4W: installation from local package don't
-   check the dependencies <https://trac.osgeo.org/osgeo4w/ticket/151>`__
--  Jürgen Fischer:\ `OSGEO4W: Setup starts downloading and installing
-   packages before showing you a list to choose
-   from <https://trac.osgeo.org/osgeo4w/ticket/262>`__
--  Jürgen Fischer:\ `OSGEO4W: Using -a for Advanced selects two options
-   (command line install) <https://trac.osgeo.org/osgeo4w/ticket/351>`__
--  Jürgen Fischer:\ `OSGEO4W: Infinite license download during quite
-   installation of szip <https://trac.osgeo.org/osgeo4w/ticket/486>`__
--  Jürgen Fischer:Oracle provider deadlock
--  Jürgen Fischer:fix saga path setting
-
-Feature: Field calculator can be used to update feature's geometry
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-The field calculator can now be used to update a feature geometries
-using the result of a geometric expression. This is a handy shortcut to
-do operations such as apply a buffer to a group of selected features,
-and together with all the newly added geometry functions in 2.14 makes
-for a very handy way to manipulate your geometries!
-
-|image51|
-
-This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
-
-Feature: New expression functions in 2.14
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-Lots of new expression functions have been added for version 2.14:
-
--  ``relate``: performs DE-9IM geometry relations by either returning
-   the DE-9IM representation of the relationship between two geometries,
-   or by testing whether the DE-9IM relationship matches a specified
-   pattern.
--  the ``make_point`` function now accepts optional z and m values, and
-   a new ``make_point_m`` function has been added for creation of PointM
-   geometries.
--  ``m`` and ``z`` functions for retrieving the m and z values from a
-   point geometry
--  new ``make_line`` and ``make_polygon`` functions, for creation of
-   line and polygon geometries from a set of points
--  ``reverse``, for reversing linestrings
--  ``eval`` function, which can evaluate a string as though it is an
-   expression of its own
--  ``translate`` function, for translating geometries by and x/y offset
--  ``darker`` and ``lighter`` functions, which take a color argument and
-   make it darker or lighter by a specified amount
--  ``radians`` and ``degrees``: for converting angles between radians
-   and degrees
--  ``point_on_surface``: returns a point on the surface of a geometry
--  ``exterior_ring``: returns the exterior ring for a polygon geometry
--  ``is_closed``: returns true if a linestring is closed
--  new geometry accessor functions: ``geometry_n`` (returns a specific
-   geometry from within a collection), ``interior_ring_n`` (returns an
-   interior ring from within a polygon)
--  ``num_geometries``: returns number of geometries inside a collection
--  ``num_rings``: returns number of rings in a polygon geometry object
--  ``num_interior_rings``: returns number of interior rings in a polygon
--  ``nodes_to_points``, for converting every node in a geometry to a
-   multipoint geometry
--  ``segments_to_lines``, for converting every segment in a geometry to
-   a multiline geometry
--  ``closest_point``: returns closest point a geometry to a second
-   geometry
--  ``shortest_line``: returns the shortest possible line joining two
-   geometries
-
-``nodes_to_points`` and ``segments_to_lines`` are intended for use with
-geometry generator symbology, eg to allow use of m and z values for
-nodes/lines with data defined symbology.
-
-Other improvements:
-
--  geometries and features can now be used in conditional functions. For
-   instances, this allows expressions like
-   ``case when $geometry then ... else ...`` and
-   ``case when get_feature(...) then ... else ...``
-
-|image52|
 
 Labelling
 ---------
