@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Levente Juhasz <jlevente89@gmail.com>, 2015
 # Zoltan Siki <siki@agt.bme.hu>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-29 10:59+0200\n"
-"PO-Revision-Date: 2015-08-19 07:00+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2015-09-05 20:37+0000\n"
+"Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +21,7 @@ msgid ""
 "It is easy to modify the menu and add new modules because both the menu and "
 "the modules are defined in XML configuration files. Below is described how "
 "to write new modules and modify menu tree."
-msgstr ""
+msgstr "A menüt egyszerűen lehet módosítani és új modulokat hozzáadni, mivel a menüket és a modulokat XML konfigurációs fájlokban definiálhatjuk. Lentebb leírjuk hogyan írjunk új modulokat és módosítsuk a menü fát."
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:17
 msgid "Module configuration"
@@ -39,11 +40,11 @@ msgid ""
 "often useful if not necessary to see GMO. GMO are output by GRASS module if "
 "it is run with _*--interface-description_* option, the output is in XML "
 "format, for example:"
-msgstr ""
+msgstr "A különböző modulok paraméterei (melyeket a _*Beállítások_*fülön találunk) automatikusan generálódnak az előre definiált QGM (QGIS GRASS module) fájl és magának a GRASS modul vagy a GRASS script --GMO (GRASS module options) beállításainak függvényében. \nMivel minden paraméter a QGM fájlban kapcsolódik a megfelelő (vagy több) GMO-hoz, ezért ajánlatos (illetve inkább szükséges) a GMO-k böngészése is. A GMO nem más, mint a GRASS modul kimenete, az _*--interface-description_* kapcsolóval, XML formátumban. Pl.:"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:48
 msgid "Here is an example of a configuration file:"
-msgstr ""
+msgstr "Itt van egy példa konfiguráció fájl:"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:61
 msgid "qgisgrassmodule tag attributes"
@@ -51,11 +52,11 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:63
 msgid "*label* --- description used in menu tree"
-msgstr ""
+msgstr "*címke* --- a menü fában használt leírás"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:64
 msgid "*module* --- name of GRASS module executable or script."
-msgstr ""
+msgstr "*modul* --- végrehajtható GRASS modul vagy szkript."
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:67
 msgid "Option tags"
@@ -77,7 +78,7 @@ msgstr ""
 msgid ""
 "*field* --- for vector layers defines attribute field, the option is created"
 " as combobox with available fields. For example (v.to.db.qgm):"
-msgstr ""
+msgstr "*mező* --- vektor réteghez mező megadása, egy legördülő listaként jön létre az elérhető mezőkkel. Például (v.to.db.qgm):"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:103
 msgid "Common option/flag tag attributes"
@@ -167,7 +168,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:155
 msgid "Behind the scene"
-msgstr ""
+msgstr "A színfalak mögött"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:162
 msgid ""
@@ -185,7 +186,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:173
 msgid "Picture"
-msgstr ""
+msgstr "Kép"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:175
 msgid ""
@@ -212,7 +213,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:195
 msgid "QGIS GRASS scripts"
-msgstr ""
+msgstr "QGIS GRASS szkriptek"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:197
 msgid ""
@@ -225,7 +226,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:204
 msgid "Menu configuration"
-msgstr ""
+msgstr "Menü konfiguráció"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:206
 msgid ""
@@ -243,17 +244,17 @@ msgstr ""
 msgid ""
 "*version_min* --- minimum GRASS version for which this section/module is "
 "valid"
-msgstr ""
+msgstr "*version_min* --- minimum GRASS verzió, melyhez a modul használható"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:224
 msgid ""
 "*version_max* --- maximum GRASS version for which this section/module is "
 "valid"
-msgstr ""
+msgstr "*version_max* --- maximum GRASS verzió, melyhez a modul használható"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:228
 msgid "General rules for new modules"
-msgstr ""
+msgstr "Általános szabályok a új modulokhoz"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:230
 msgid ""
@@ -276,51 +277,51 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:241
 msgid "Specific rules for module descriptions"
-msgstr ""
+msgstr "Speciális szabályok a modul leírásokhoz"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:243
 msgid ""
 "Avoid 3rd person for verbs, e.g. \"Export raster\" instead of \"Exports "
 "raster\""
-msgstr ""
+msgstr "Kerülje a 3. személyt az igéknél, pl. \"Export raster\" az \"Exports raster\" helyett"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:244
 msgid ""
 "Avoid unnecessary \"map\", \"layer\" and \"file\", e.g. \"Export raster\" "
 "instead of \"Export raster map layer\""
-msgstr ""
+msgstr "Kerülje a szükségtelen  \"map\", \"layer\" és \"file\" szavakat, pl. \"Export raster\" az \"Export raster map layer\" helyett"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:246
 msgid ""
 "Avoid unnecessary \"GRASS\", e.g. \"Export raster\" instead of \"Export "
 "GRASS raster\""
-msgstr ""
+msgstr "Kerülje a szükségtelen \"GRASS\"-t, pl. \"Export raster\" az \"Export GRASS raster\" helyett"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:247
 msgid "Avoid \"a|an\", e.g. \"Export raster\" instead of \"Exports a raster\""
-msgstr ""
+msgstr "Kerülje az \"a\" vagy \"an\"-t, pl. \"Export raster\" az \"Exports a raster\" helyett"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:248
 msgid ""
 "Avoid padding words, e.g. \"Export raster\" instead of \"Allows the export "
 "of a raster\""
-msgstr ""
+msgstr "Kerülje a kitöltő szavakat, pl. \"Export raster\" az \"Allows the export of a raster\" helyett"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:249
 msgid ""
 "Avoid \"Convert\": use \"Export\" or \"Import\" instead. Convert should be "
 "used for internal GRASS conversions (e.g. from raster to vector)"
-msgstr ""
+msgstr "Kerülje a \"Convert\" szót: használja az \"Export\" vagy \"Import\" szavakat helyette. A konvertálást a a GRASS-on belüli konverziókra kellene használni (pl. raszterből vektorba)"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:251
 msgid "Acronyms should be upper case, e.g. ASCII instead of ascii"
-msgstr ""
+msgstr "A mozaik szavakat írja nagybetűvel, pl. ASCII az ascii helyett"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:252
 msgid ""
 "In case of doubt, please check the existing similar plugins to maintain "
 "consistency"
-msgstr ""
+msgstr "Kétségek esetén ellenőrizze a már létező, hasonló modult a következetesség fentartásáért"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:257
 msgid "Options which cannot be currently used"
@@ -340,7 +341,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:268
 msgid "Modules which can be added"
-msgstr ""
+msgstr "Hozzáadható modulok"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:270
 msgid ""
@@ -357,7 +358,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:286
 msgid "Modules to be deprecated"
-msgstr ""
+msgstr "Elavult modulok"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:288
 msgid ""

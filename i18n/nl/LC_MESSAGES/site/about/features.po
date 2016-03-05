@@ -1,23 +1,20 @@
 # 
 # Translators:
+# Dick Groskamp, 2015
 # Diethard Jansen <diethard.jansen@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-10-27 08:45+0000\n"
-"Last-Translator: Diethard Jansen <diethard.jansen@gmail.com>\n"
-"Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
+"PO-Revision-Date: 2015-12-25 14:00+0000\n"
+"Last-Translator: Dick Groskamp\n"
+"Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: ../../source/site/about/features.rst:2
-msgid "Features of QGIS"
-msgstr "De sterke eigenschappen van QGIS"
 
 #: ../../source/site/about/features.rst:5
 msgid "QGIS Desktop"
@@ -41,11 +38,11 @@ msgstr "QGIS Browser"
 
 #: ../../source/site/about/features.rst:20
 msgid "Browse and preview your data and metadata."
-msgstr "Hiermee kun je geodata / gegevensbestanden sneller vinden en deze ( inclusief metadata) eerst bekijken."
+msgstr "Hiermee kunt u uw gegevens en metadata sneller vinden en deze eerst bekijken."
 
 #: ../../source/site/about/features.rst:22
 msgid "Drag and drop your data from one datastore into the other one."
-msgstr "Gebruik \"drag and drop\" functionaliteit (\"slepen en neerzetten/sleur en pleur\") gegevens van de ene dataset in een andere."
+msgstr "Gebruik de functionaliteit \"slepen en neerzetten\" (\"sleur en pleur\") om gegevens van de ene gegevensset in een andere te plaatsen."
 
 #: ../../source/site/about/features.rst:27
 msgid "A screenshot of QGIS Browser"
@@ -60,7 +57,7 @@ msgid ""
 "Publish your QGIS projects and layers as OGC compatible WMS and WFS "
 "services. Control which layers, attributes, layouts and coordinate systems "
 "are exported."
-msgstr "Publiceer je QGIS projecten en lagen gebruik makende WMS en WFS (overeenkomstig open standaarden gepubliceerd door OGC). Volledige controle over welke lagen, attribuutwaarden, layouts en coördinatensystemen er worden geëxporteerd."
+msgstr "Publiceer uw projecten en lagen van QGIS als OGC-compatibel WMS- en WFS-services. Volledig beheer over welke lagen, attribuutwaarden, lay-outs en coördinatensystemen zullen worden geëxporteerd."
 
 #: ../../source/site/about/features.rst:40
 msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
@@ -68,17 +65,17 @@ msgstr "Een schermafbeelding van QGIS Server configuratie in QGIS Desktop"
 
 #: ../../source/site/about/features.rst:43
 msgid "QGIS Web Client"
-msgstr "QGIS Web Client"
+msgstr "QGIS Webcliënt"
 
 #: ../../source/site/about/features.rst:45
 msgid ""
 "Publish your QGIS projects on the web with ease. Benefit from the powerful "
 "symbology, labeling and blending features to impress with your maps."
-msgstr "Het is eenvoudig om QGIS projecten op het web te publiceren. Maak gebruik van de krachtige symbologie, labeling en blending functionaliteit waarmee je indruk kunt maken met jouw kaarten."
+msgstr "Het is eenvoudig om projecten van QGIS op het web te publiceren. Maak gebruik van de krachtige symbologie, labeling en functionaliteit blending waarmee u indruk kunt maken met uw kaarten."
 
 #: ../../source/site/about/features.rst:52
 msgid "A screenshot of QGIS Web Client"
-msgstr "Een schermafbeelding van de QGIS Web Client"
+msgstr "Een schermafbeelding van de QGIS Webcliënt"
 
 #: ../../source/site/about/features.rst:56
 msgid "QGIS on Android (beta!)"
@@ -88,8 +85,15 @@ msgstr "QGIS op Android (beta!)"
 msgid ""
 "Work is being done to use QGIS on Android devices. Current builds are very "
 "experimental, and not for the faint of heart."
-msgstr "De nieuwste ontwikkeling is om QGIS ook goed te laten werken op Android apparaten. De huidige \"builds\" zijn nog erg experimenteel, en niet geschikt voor de gevoelige mens. "
+msgstr "De nieuwste ontwikkeling is om QGIS ook goed te laten werken op apparaten met Android. De huidige \"builds\" zijn nog erg experimenteel, en niet geschikt voor de gevoelige mens. "
 
 #: ../../source/site/about/features.rst:64
 msgid "A screenshot of QGIS on Android"
 msgstr "Een schermafbeelding van QGIS op Android"
+
+#: ../../source/site/about/features.rst:2
+msgid "QGIS Applications"
+msgstr "QGIS toepassingen"
+
+#~ msgid "Features of QGIS"
+#~ msgstr ""

@@ -6,9 +6,9 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2015-01-22 11:25+0000\n"
+"PO-Revision-Date: 2015-10-30 11:56+0000\n"
 "Last-Translator: Tomas Straupis\n"
-"Language-Team: Lithuanian (http://www.transifex.com/projects/p/qgis-website/language/lt/)\n"
+"Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -52,10 +52,6 @@ msgid ""
 msgstr "Oficialią mokymo medžiagą rasite čia: http://docs.qgis.org/latest/en/docs/training_manual/index.html"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:28
-msgid "Courses from foss4geo: http://foss4geo.wordpress.com/gst-101/"
-msgstr "Foss4geo kursai: http://foss4geo.wordpress.com/gst-101/"
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:31
 msgid ""
 "Tutorial material, originally developed as part of a workshop for the "
 "Ecology and Evolutionary Biology Program at Texas A&M University (produced "
@@ -70,19 +66,28 @@ msgstr "Vokiškai"
 msgid "HSR material: http://giswiki.hsr.ch/QGIS-Materialien"
 msgstr "HSR medžiaga: http://giswiki.hsr.ch/QGIS-Materialien"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:36
+#: ../../source/site/forusers/trainingmaterial/index.rst:33
 msgid "French"
 msgstr "Prancūziškai"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:38
+#: ../../source/site/forusers/trainingmaterial/index.rst:35
 msgid ""
 "The French Ministry of Environment supports the QGIS project. Training "
 "material from them is available here: http://www.geoinformations"
 ".developpement-durable.gouv.fr/qgis-supports-pedagogiques-r947.html"
 msgstr "Prancūzijos aplinkos ministerija palaiko QGIS projektą. Jų mokymo medžiagą rasite: http://www.geoinformations.developpement-durable.gouv.fr/qgis-supports-pedagogiques-r947.html"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:41
+#: ../../source/site/forusers/trainingmaterial/index.rst:38
 msgid ""
 "Other resources from them are available here: http://www.geoinformations"
 ".developpement-durable.gouv.fr/qgis-r625.html"
 msgstr "Kitus jų resursus rasite čia: http://www.geoinformations.developpement-durable.gouv.fr/qgis-r625.html"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:41
+msgid ""
+"The french National Center for Scientific Research (CNRS), created an online"
+" QGIS tutorial: http://www.ades.cnrs.fr/tutoqgis/index.php"
+msgstr "Prancūzų nacionalinis mokslinių tyrimų centras (CNRS) sukūrė internetines QGIS pamokas: http://www.ades.cnrs.fr/tutoqgis/index.php"
+
+#~ msgid "Courses from foss4geo: http://foss4geo.wordpress.com/gst-101/"
+#~ msgstr ""

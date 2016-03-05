@@ -2,118 +2,110 @@
 # Translators:
 # alexbruy <alexander.bruy@gmail.com>, 2013-2014
 # Mikhail <sivakov.mp@gmail.com>, 2014
-# Марина Павлова <pavlova.marina.v@gmail.com>, 2015
+# Марина Павлова <pavlova.marina.v@gmail.com>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-02-28 18:30+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
-"Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
+"PO-Revision-Date: 2016-02-18 09:26+0000\n"
+"Last-Translator: Марина Павлова <pavlova.marina.v@gmail.com>\n"
+"Language-Team: Russian (http://www.transifex.com/qgis/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: ../../source/site/getinvolved/development/index.rst:4
 msgid "QGIS Development"
 msgstr "Разработка QGIS"
 
-#: ../../source/site/getinvolved/development/index.rst:14
+#: ../../source/site/getinvolved/development/index.rst:6
 msgid "Welcome to the QGIS Development pages"
 msgstr "Добро пожаловать в раздел разработчиков"
 
-#: ../../source/site/getinvolved/development/index.rst:20
+#: ../../source/site/getinvolved/development/index.rst:12
 msgid "Bugs, Features and Issues"
 msgstr "Ошибки, предложения и проблемы"
 
-#: ../../source/site/getinvolved/development/index.rst:222
+#: ../../source/site/getinvolved/development/index.rst:245
 msgid "Development"
 msgstr "Разработка"
 
-#: ../../source/site/getinvolved/development/index.rst:253
+#: ../../source/site/getinvolved/development/index.rst:273
 msgid "QGIS has a lot to offer for python developers too."
 msgstr "QGIS также может заинтересовать и разработчиков на Python."
 
-#: ../../source/site/getinvolved/development/index.rst:255
+#: ../../source/site/getinvolved/development/index.rst:275
 msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
 msgstr "Так как QGIS имеет привязки к Python, вы можете автоматизировать выполнение различных задач в QGIS при помощи Python."
 
-#: ../../source/site/getinvolved/development/index.rst:262
+#: ../../source/site/getinvolved/development/index.rst:282
 msgid "You can find the QGIS-iface which you can use via python here:"
 msgstr "Описание элементов интерфейса QGIS, которые можно использовать из Python, доступно по ссылкам:"
 
-#: ../../source/site/getinvolved/development/index.rst:264
+#: ../../source/site/getinvolved/development/index.rst:284
 msgid "http://qgis.org/api/classQgisInterface.html (for QGIS testing)"
 msgstr "http://qgis.org/api/classQgisInterface.html (для QGIS testing)"
 
-#: ../../source/site/getinvolved/development/index.rst:266
+#: ../../source/site/getinvolved/development/index.rst:286
 msgid "http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
 msgstr "http://qgis.org/api/2.0/classQgisInterface.html (для QGIS 2.0)"
 
-#: ../../source/site/getinvolved/development/index.rst:268
+#: ../../source/site/getinvolved/development/index.rst:288
 msgid "http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
 msgstr "http://qgis.org/api/1.8/classQgisInterface.html (для QGIS 1.8)"
 
-#: ../../source/site/getinvolved/development/index.rst:136
+#: ../../source/site/getinvolved/development/index.rst:128
 msgid "Road Map"
 msgstr "План разработки"
 
-#: ../../source/site/getinvolved/development/index.rst:138
+#: ../../source/site/getinvolved/development/index.rst:130
 msgid ""
 "Since QGIS 2.0 further development will occur based on a timebased roadmap."
 msgstr "Начиная с QGIS 2.0 дальнейшая разработка будет вестись в соответствии с планом."
 
-#: ../../source/site/getinvolved/development/index.rst:140
+#: ../../source/site/getinvolved/development/index.rst:132
 msgid "Odd version numbers (2.1, 2.3 etc) are development versions."
 msgstr "Нечётные номера версий (2.1, 2.3 и т.д.) являются версиями для разработчиков."
 
-#: ../../source/site/getinvolved/development/index.rst:193
-msgid "Week"
-msgstr "Неделя"
-
-#: ../../source/site/getinvolved/development/index.rst:193
+#: ../../source/site/getinvolved/development/index.rst:194
 msgid "Date"
 msgstr "Дата"
 
-#: ../../source/site/getinvolved/development/index.rst:200
-msgid "26.09"
-msgstr "26.09"
-
-#: ../../source/site/getinvolved/development/index.rst:234
+#: ../../source/site/getinvolved/development/index.rst:256
 msgid "Plugin Development"
 msgstr "Разработка расширений"
 
-#: ../../source/site/getinvolved/development/index.rst:236
+#: ../../source/site/getinvolved/development/index.rst:258
 msgid ""
 "QGIS has a plugin infrastructure. You can add a lot of new functionality by "
 "writing your own plugins."
 msgstr "QGIS имеет инфраструктуру расширений. Новый функционал можно добавлять, написав соответствующий модуль. "
 
-#: ../../source/site/getinvolved/development/index.rst:239
+#: ../../source/site/getinvolved/development/index.rst:261
 msgid "These plugins can either be written in C++ or in Python"
 msgstr "Модули можно разрабатывать на C++ и Python"
 
-#: ../../source/site/getinvolved/development/index.rst:246
+#: ../../source/site/getinvolved/development/index.rst:268
 msgid ""
 "Via a script you will generate a plugin stub which can be used further."
 msgstr "При помощи скрипта создаётся заготовка модуля, которая затем расширяется."
 
-#: ../../source/site/getinvolved/development/index.rst:251
+#: ../../source/site/getinvolved/development/index.rst:271
 msgid "Python plugin development"
 msgstr "Разработка расширений на Python"
 
-#: ../../source/site/getinvolved/development/index.rst:260
+#: ../../source/site/getinvolved/development/index.rst:280
 msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
 msgstr "В качестве примеров можно использовать существующие модули на http://plugins.qgis.org"
 
-#: ../../source/site/getinvolved/development/index.rst:22
+#: ../../source/site/getinvolved/development/index.rst:14
 msgid "If you find a bug, please report it!"
 msgstr "Если вы нашли ошибку, пожалуйста, сообщите о ней!"
 
-#: ../../source/site/getinvolved/development/index.rst:49
+#: ../../source/site/getinvolved/development/index.rst:41
 msgid ""
 "Before filing a bug, review the currently open issues to make sure that you "
 "aren't creating a duplicate. If you have additional information on an issue,"
@@ -123,35 +115,35 @@ msgid ""
 "unrelated bugs in a single bug report."
 msgstr "Прежде чем написать об ошибке, просмотрите текущие открытые задачи для того, чтобы убедиться, что вы не создадите дубликат. Если у вас есть дополнительная информация по задаче, вы можете добавить её к существующей записи. Также источником ошибок могут быть сторонние расширения. Если у вас установлено одно из низ, необходимо проверить, что ошибка повторяется и без этого расширения. Пожалуйста, не сообщайте о нескольких несвязанных ошибках в одном сообщении."
 
-#: ../../source/site/getinvolved/development/index.rst:53
+#: ../../source/site/getinvolved/development/index.rst:45
 msgid "Plugin bugs"
-msgstr "Ошибки в расширениях"
+msgstr "Ошибки в модулях"
 
-#: ../../source/site/getinvolved/development/index.rst:59
+#: ../../source/site/getinvolved/development/index.rst:51
 msgid "Steps"
 msgstr "Пошаговое руководство"
 
-#: ../../source/site/getinvolved/development/index.rst:61
+#: ../../source/site/getinvolved/development/index.rst:53
 msgid ""
 "To report a bug choose New Issue from the menu bar. Note: You can also "
 "request an enhancement or submit a patch using the Ticket system."
 msgstr "Чтобы сообщить об ошибке, щёлкните \"Новая задача\" в строке меню. Замечание: Вы также можете запросить усовершенствование функциональности или предложить исправление используя систему Заявок (Ticket). "
 
-#: ../../source/site/getinvolved/development/index.rst:63
+#: ../../source/site/getinvolved/development/index.rst:55
 msgid "Important information needed when opening a ticket:"
 msgstr "Важная информация, необходимая при открытии заявки:"
 
-#: ../../source/site/getinvolved/development/index.rst:65
+#: ../../source/site/getinvolved/development/index.rst:57
 msgid ""
 "Tracker - choose the ticket type from the drop-down list: Bug, Feature (new "
 "feature request) or Bounty (ticket for which a bounty has been defined)"
 msgstr "Трекер - выберите тип заявки из выпадающего списка: ошибка (Bug report), запрос новой функциональности (Feature request) или награда (Bounty, заявка, за закрытие которой предусмотрена награда)"
 
-#: ../../source/site/getinvolved/development/index.rst:66
+#: ../../source/site/getinvolved/development/index.rst:58
 msgid "Subject - a short description of the issue"
 msgstr "Тема - краткое описание ошибки"
 
-#: ../../source/site/getinvolved/development/index.rst:67
+#: ../../source/site/getinvolved/development/index.rst:59
 msgid ""
 "Description - Provide a full description of the problem including steps to "
 "repeat it; if you think the bug could be related to a certain platform "
@@ -165,7 +157,7 @@ msgid ""
 "while."
 msgstr "Описание - полное описание проблемы, включая шаги по её воспроизведению; если вы считаете, что ошибка относится к версии для определённой платформы или к версии зависимого пакета (GDAL, OGR, GEOS и так далее), также включите эту информацию. Если  QGIS закрывается (\"падает\"), может быть полезным приложить трассировку (backtrace) (см. далее). При сообщении об ошибке очень важно привести минимальный пример, необходимый для воспроизведения ошибки. Шансы на то, что ошибка будет своевременно исправлена, напрямую зависят от скорости, с которой разработчик сможет воспроизвести её. Если вы сделаете это затруднительным для разработчика, есть шанс того, что ошибка будет игнорироваться долгое время."
 
-#: ../../source/site/getinvolved/development/index.rst:68
+#: ../../source/site/getinvolved/development/index.rst:60
 msgid ""
 "Priority - provide an estimate of the severity of the problem: Low (a "
 "problem which doesn't affect QGIS usefulness), Normal (the default value, "
@@ -175,54 +167,54 @@ msgid ""
 " previous QGIS version)"
 msgstr "Приоритет - показывает оценку серьёзности проблемы: Low - низкий (проблема, которая не влияет на полезность QGIS), Normal - нормальный (значение по-умолчанию, применим к большинству ошибок и почти ко всем запросам новой функциональности), High - высокий (ошибка, которая оказывает сильный эффект на удобство использования (usability) программного обеспечения), или Blocker - блокирующий, препятствующий (ошибка, которая делает QGIS непригодной к использованию, приводит к потерям данных или к снижению функциональности (регрессии), по сравнению с предыдущей версии QGIS)"
 
-#: ../../source/site/getinvolved/development/index.rst:69
+#: ../../source/site/getinvolved/development/index.rst:61
 msgid ""
 "Component - Choose the aspect of the application that is most closely "
 "associated with the problem"
 msgstr "Категория - выберите компонент приложения, который наиболее тесно ассоциирован с проблемой"
 
-#: ../../source/site/getinvolved/development/index.rst:70
+#: ../../source/site/getinvolved/development/index.rst:62
 msgid ""
 "Milestone - If this issue affects a particular Milestone in the project "
 "choose it from the drop-down list"
 msgstr "Контрольная точка - если ошибка относится к конкретной контрольной точке в проекте, укажите её - выбрав в выпадающем меню"
 
-#: ../../source/site/getinvolved/development/index.rst:71
+#: ../../source/site/getinvolved/development/index.rst:63
 msgid "Version - Version of QGIS this issue affects"
 msgstr "Версия - версия QGIS, в которой возникает ошибка "
 
-#: ../../source/site/getinvolved/development/index.rst:72
+#: ../../source/site/getinvolved/development/index.rst:64
 msgid "Platform - Choose the platform you are using"
 msgstr "Platform (платформа) - укажите используемую вами платформу"
 
-#: ../../source/site/getinvolved/development/index.rst:74
+#: ../../source/site/getinvolved/development/index.rst:66
 msgid ""
 "Before sending the bug, please check the formatting of your report by "
 "clicking on \"Preview\". Please avoid editing existing reports, if not for "
 "typos. Better add further comments in any other case."
 msgstr "Перед отправкой отчёта об ошибке, пожалуйста, проверьте форматирование отчёта, щёлкнув по ссылке \"Предварительный просмотр\". Пожалуйста, избегайте редактирования существующих отчётов, лучше добавьте дополнительный комментарий."
 
-#: ../../source/site/getinvolved/development/index.rst:77
+#: ../../source/site/getinvolved/development/index.rst:69
 msgid "Creating a backtrace"
 msgstr "Создание трассировки (backtrace)"
 
-#: ../../source/site/getinvolved/development/index.rst:119
+#: ../../source/site/getinvolved/development/index.rst:111
 msgid "Log output on Windows"
 msgstr "Создание лог-файлов в Windows"
 
-#: ../../source/site/getinvolved/development/index.rst:129
+#: ../../source/site/getinvolved/development/index.rst:121
 msgid "Creating a patch"
 msgstr "Создание патча"
 
-#: ../../source/site/getinvolved/development/index.rst:131
+#: ../../source/site/getinvolved/development/index.rst:123
 msgid "To be done"
 msgstr "В разработке..."
 
-#: ../../source/site/getinvolved/development/index.rst:142
+#: ../../source/site/getinvolved/development/index.rst:134
 msgid "Even version numbers (2.2, 2.4 etc) are release versions."
 msgstr "Чётные номера версий (2.2, 2.4 и т.д.) являются стабильными выпусками."
 
-#: ../../source/site/getinvolved/development/index.rst:144
+#: ../../source/site/getinvolved/development/index.rst:136
 msgid ""
 "Release will happen every four month.  In the first three month new "
 "development is taking place.  Then a feature freeze is invoked and the final"
@@ -232,29 +224,30 @@ msgid ""
 " call for packaging is issued."
 msgstr "Новые версии будут выпускаться каждые четыре месяца. В первые три месяца идёт процесс разработки. Затем функциональность замораживается и последний месяц используется для тестирования, исправления ошибок, перевода на другие языки и подготовку релиза. При выходе релиза создаётся новая ветка с чётным номером и ветка \"master\" получает следующую нечётную версию. После релиза начинается подготовка пакетов для инсталляторов."
 
-#: ../../source/site/getinvolved/development/index.rst:193
+#: ../../source/site/getinvolved/development/index.rst:194
+#: ../../source/site/getinvolved/development/index.rst:223
 msgid "Event"
 msgstr "Событие"
 
-#: ../../source/site/getinvolved/development/index.rst:24
+#: ../../source/site/getinvolved/development/index.rst:16
 msgid ""
 "You need an OSGeo account and login in order to submit bug reports. To get "
 "started, first create `Create an OSGeo4 account <https://www.osgeo.org/cgi-"
 "bin/ldap_create_user.py>`_."
 msgstr "Вам необходима учётная запись OSGeo для подачи отчётов об ошибках.     Для начала  `Создайте учётную запись OSGeo4 <https://www.osgeo.org/cgi-bin/ldap_create_user.py>`_."
 
-#: ../../source/site/getinvolved/development/index.rst:28
+#: ../../source/site/getinvolved/development/index.rst:20
 msgid ""
 "Once you have your account, use `QGIS issue tracking "
 "<http://hub.qgis.org/projects/quantum-gis/issues>`_ to search if the issue "
 "you'd like to report is probably already entered."
 msgstr "После того, как вы создали учётную запись, воспользуйтесь `Трекер задач QGIS <http://hub.qgis.org/projects/quantum-gis/issues>`_ для уточнения, не существует ли уже задача по той ошибке, о которой вы хотите сообщить."
 
-#: ../../source/site/getinvolved/development/index.rst:39
+#: ../../source/site/getinvolved/development/index.rst:31
 msgid "Issues"
 msgstr "Задачи"
 
-#: ../../source/site/getinvolved/development/index.rst:41
+#: ../../source/site/getinvolved/development/index.rst:33
 msgid ""
 "Issues are used to report bugs, request enhancements and submit patches. "
 "Redmine is more than a bug reporting system. Issues can be associated with a"
@@ -264,15 +257,15 @@ msgid ""
 " announcements."
 msgstr "Задачи используются для сообщения об ошибках, запросов на усовершенствование функциональности и предложений о необходимых исправлениях. Redmine - это не просто система сообщений об ошибках. Задачи могут быть связаны с вехами (контрольными точками, Milestone) в процессе разработки QGIS, позволяющими видеть прогресс в завершении процесса разработки. Достижение контрольной точки разработки (Milestone) требует не только исправления ошибок, но и завершения других связанных с выпуском релиза задач, таких как написание документации, обновление информации на веб-сайте, создание установочных пакетов и анонсирование выпуска программного обеспечения."
 
-#: ../../source/site/getinvolved/development/index.rst:44
+#: ../../source/site/getinvolved/development/index.rst:36
 msgid "Filing an Issue"
 msgstr "Создание задачи"
 
-#: ../../source/site/getinvolved/development/index.rst:47
+#: ../../source/site/getinvolved/development/index.rst:39
 msgid "Before reporting a bug"
 msgstr "Прежде чем сообщить об ошибке"
 
-#: ../../source/site/getinvolved/development/index.rst:55
+#: ../../source/site/getinvolved/development/index.rst:47
 msgid ""
 "Plugin bugs must be opened in their respective bug tracking system. Check "
 "first if the plugin is listed in the `plugin overview "
@@ -282,18 +275,18 @@ msgid ""
 "developer to contact."
 msgstr "Об ошибках в расширениях необходимо сообщать в соответствующие им системы отслеживания ошибок. В первую очередь, проверьте, присутствует ли расширение в `перечень расширений <http://hub.qgis.org/projects/qgis-user-plugins/>`_. Если присутствует, щёлкните на названии расширения, а затем щёлкните \"Новая задача\". В противном случае, сверьтесь с документацией по расширению, чтобы найти адрес необходимой системы отслеживания ошибок или контакты разработчика."
 
-#: ../../source/site/getinvolved/development/index.rst:121
+#: ../../source/site/getinvolved/development/index.rst:113
 msgid ""
 "The nightly build in OSGeo4W_ (package qgis-dev) is built with debugging "
 "output, that you can view with DebugView_.  If the problem is not easy to "
 "reproduce the output might shed some light about where QGIS crashes."
 msgstr "В ночной сборке OSGeo4W_ (package qgis-dev) включена запись ошибок, результаты которой можно посмотреть с помощью DebugView_. Если ошибку не так просто воспроизвести, это может помочь в обнаружении проблемы."
 
-#: ../../source/site/getinvolved/development/index.rst:155
+#: ../../source/site/getinvolved/development/index.rst:147
 msgid "Development phase"
 msgstr "Стадия разработки"
 
-#: ../../source/site/getinvolved/development/index.rst:157
+#: ../../source/site/getinvolved/development/index.rst:149
 msgid ""
 "In the development phase developers work on adding new features for the next"
 " release. Early adopters can use the nightly builds we have for all major "
@@ -301,11 +294,11 @@ msgid ""
 "provide bug reports and their thoughts to help with development."
 msgstr "На этой стадии разработчики добавляют новую функциональность в следующий выпуск. При необходимости, можно использовать ночные сборки, которые создаются для всех основных платформ, для предварительного тестирования, выявления ошибок и для высказывания своих соображений, которые могут помочь в разработке."
 
-#: ../../source/site/getinvolved/development/index.rst:163
+#: ../../source/site/getinvolved/development/index.rst:155
 msgid "Feature freeze"
 msgstr "Заморозка"
 
-#: ../../source/site/getinvolved/development/index.rst:165
+#: ../../source/site/getinvolved/development/index.rst:157
 msgid ""
 "In the feature freeze phase new features are not allowed in anymore and the "
 "focus of everyone moves from enhancing QGIS to stablizing it.  This also "
@@ -313,7 +306,7 @@ msgid ""
 "prereleases>`."
 msgstr "На этой стадии не разрешается добавление новой функциональности, все усилия перенаправляются с совершенствования QGIS на его стабилизацию. Ночные сборки превращаются в :ref:`релиз-кандидаты <QGIS-prereleases>`."
 
-#: ../../source/site/getinvolved/development/index.rst:169
+#: ../../source/site/getinvolved/development/index.rst:161
 msgid ""
 "**Users** should start extensive testing of these prereleases in their "
 "environment to verify that there are no issues, they wouldn't want to see in"
@@ -324,13 +317,7 @@ msgid ""
 "issues is very important."
 msgstr "**Пользователи** должны начать всестороннее тестирование в своём рабочем окружении для проверки на отсутствие ошибок, которые не хотелось бы видеть в предстоящем выпуске. Обо всех таких ошибках необходимо сообщать (см. `Bugs, Features and Issues`_). Всё, что останется незамеченным, в конечном итоге будет в следующем выпуске. Только в случае возникновения серьёзных проблем будет выпущен корректирующий выпуск (например, 2.4.1). Поэтому тестирование релиз-кандидатов и сообщения об ошибках являются очень важными этапами."
 
-#: ../../source/site/getinvolved/development/index.rst:177
-msgid ""
-"In the feature freeze **Developers** monitor the hub and start working on "
-"fixing the reported issues."
-msgstr "На стадии заморозки **Разработчики** осуществляют мониторинг системы отслеживания ошибок и начинают работу над исправлением выявленных ошибок."
-
-#: ../../source/site/getinvolved/development/index.rst:180
+#: ../../source/site/getinvolved/development/index.rst:172
 msgid ""
 "With the begin of the feature freeze the translation files will be updated "
 "so that **translators** can start their work. Note that this might be an "
@@ -338,180 +325,108 @@ msgid ""
 "still introduce translation string changes."
 msgstr "С началом стадии заморозки обновляются файлы для перевода, поэтому **переводчики** могут начинать свою работу. Обратите внимание, возможно, что некоторые строки необходимо будет переводить неоднократно, в связи с тем, что исправление ошибок может вносить изменения в переводимые строки."
 
-#: ../../source/site/getinvolved/development/index.rst:188
+#: ../../source/site/getinvolved/development/index.rst:180
 msgid "Release schedule"
 msgstr "Порядок выпусков"
 
-#: ../../source/site/getinvolved/development/index.rst:208
+#: ../../source/site/getinvolved/development/index.rst:233
 msgid "Location of prereleases / nightly builds"
 msgstr "Размещение релиз-кандидатов/ночных сборок"
 
-#: ../../source/site/getinvolved/development/index.rst:211
+#: ../../source/site/getinvolved/development/index.rst:236
 msgid "Platform"
 msgstr "Платформа"
 
-#: ../../source/site/getinvolved/development/index.rst:211
+#: ../../source/site/getinvolved/development/index.rst:236
 msgid "Location"
 msgstr "Расположение"
 
-#: ../../source/site/getinvolved/development/index.rst:213
+#: ../../source/site/getinvolved/development/index.rst:238
 msgid "Windows"
 msgstr "Windows"
 
-#: ../../source/site/getinvolved/development/index.rst:213
+#: ../../source/site/getinvolved/development/index.rst:238
 msgid ""
 ":ref:`Weekly release candidate <QGIS-windows-weekly>` (standalone installer)"
 msgstr ":ref:`Еженедельный релиз-кандидат <QGIS-windows-weekly>` (автономный установщик)"
 
-#: ../../source/site/getinvolved/development/index.rst:214
-#: ../../source/site/getinvolved/development/index.rst:216
+#: ../../source/site/getinvolved/development/index.rst:239
 msgid "\\"
 msgstr "\\"
 
-#: ../../source/site/getinvolved/development/index.rst:214
+#: ../../source/site/getinvolved/development/index.rst:239
 msgid ":ref:`OSGeo4W <QGIS-windows-testing>`"
 msgstr ":ref:`OSGeo4W <QGIS-windows-testing>`"
 
-#: ../../source/site/getinvolved/development/index.rst:215
+#: ../../source/site/getinvolved/development/index.rst:240
 msgid "Linux"
 msgstr "Linux"
 
-#: ../../source/site/getinvolved/development/index.rst:215
-msgid ":ref:`Debian <QGIS-debian-testing>`"
-msgstr ":ref:`Debian <QGIS-debian-testing>`"
-
-#: ../../source/site/getinvolved/development/index.rst:216
-msgid ":ref:`Ubuntu <QGIS-ubuntu-testing>`"
-msgstr ":ref:`Ubuntu <QGIS-ubuntu-testing>`"
-
-#: ../../source/site/getinvolved/development/index.rst:217
+#: ../../source/site/getinvolved/development/index.rst:241
 msgid "MacOS"
 msgstr "MacOS"
 
-#: ../../source/site/getinvolved/development/index.rst:217
+#: ../../source/site/getinvolved/development/index.rst:241
 msgid ":ref:`Mac OS <QGIS-macos-testing>`"
 msgstr ":ref:`Mac OS <QGIS-macos-testing>`"
 
-#: ../../source/site/getinvolved/development/index.rst:224
+#: ../../source/site/getinvolved/development/index.rst:247
 msgid "See INSTALL_"
 msgstr "Смотрите INSTALL_"
 
-#: ../../source/site/getinvolved/development/index.rst:228
+#: ../../source/site/getinvolved/development/index.rst:251
 msgid "API Documentation"
 msgstr "API-документация"
 
-#: ../../source/site/getinvolved/development/index.rst:230
+#: ../../source/site/getinvolved/development/index.rst:253
 msgid "There is `API documentation <http://qgis.org/api/>`_ for C++."
 msgstr "Здесь размещена `API-документация <http://qgis.org/api/>`_ для C++."
 
-#: ../../source/site/getinvolved/development/index.rst:242
+#: ../../source/site/getinvolved/development/index.rst:264
 msgid "C++ plugin development"
-msgstr "Разработка расширений на C++"
+msgstr "Разработка модулей на C++"
 
-#: ../../source/site/getinvolved/development/index.rst:244
+#: ../../source/site/getinvolved/development/index.rst:266
 msgid ""
 "To learn how to write your first C++ plugin, please go here: :ref:`QGIS-cpp-"
 "plugin-development`"
-msgstr "Для создания вашего первого расширения на C++, воспользуйтесь: :ref:`QGIS-cpp-plugin-development`"
+msgstr "Для создания вашего первого модуля на C++, воспользуйтесь: :ref:`QGIS-cpp-plugin-development`"
 
-#: ../../source/site/getinvolved/development/index.rst:273
+#: ../../source/site/getinvolved/development/index.rst:293
 msgid "Adding GRASS tools"
 msgstr "Добавление инструментов GRASS"
 
-#: ../../source/site/getinvolved/development/index.rst:199
+#: ../../source/site/getinvolved/development/index.rst:198
+#: ../../source/site/getinvolved/development/index.rst:204
 msgid "25"
 msgstr "25"
 
-#: ../../source/site/getinvolved/development/index.rst:151
+#: ../../source/site/getinvolved/development/index.rst:143
 msgid ""
 "Every third release (starting with 2.8) is a long-term-release (LTR) that is"
 " maintained until the next long-term-release occurs."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:190
-msgid "Following is the schedule for 2015"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:195
-msgid "(30"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:195
-msgid "31.10"
-msgstr "31.10"
-
-#: ../../source/site/getinvolved/development/index.rst:195
-msgid "2.6 was released)"
-msgstr ""
-
 #: ../../source/site/getinvolved/development/index.rst:196
-msgid "3"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:196
-#: ../../source/site/getinvolved/development/index.rst:201
-msgid "23.01"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:196
-msgid "2.7 freeze begins"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:197
 msgid "7"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:197
-msgid "20.02"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:197
-msgid "2.8 is released (LTR)"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:198
-msgid "20"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:198
-msgid "22.05"
-msgstr "22.05"
-
-#: ../../source/site/getinvolved/development/index.rst:198
-msgid "2.9 freeze begins"
-msgstr ""
+msgstr "7"
 
 #: ../../source/site/getinvolved/development/index.rst:199
-msgid "26.06"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:199
-msgid "2.10 is released"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:200
 msgid "38"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/index.rst:200
-msgid "2.11 freeze begins"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:201
+#: ../../source/site/getinvolved/development/index.rst:206
 msgid "42"
 msgstr "42"
 
-#: ../../source/site/getinvolved/development/index.rst:201
-msgid "2.12 is released"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/index.rst:79
+#: ../../source/site/getinvolved/development/index.rst:71
 msgid ""
 "If you have a crash it might be useful to include a backtrace as the bug "
 "might be not reproducible on an other machine."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:82
+#: ../../source/site/getinvolved/development/index.rst:74
 msgid ""
 "On Linux QGIS automatically tries to use ``gdb`` to connect to the crashing "
 "process to produce a backtrace.   But some distributions disable the "
@@ -519,7 +434,7 @@ msgid ""
 "``gdb`` only produces a rather useless message like::"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:96
+#: ../../source/site/getinvolved/development/index.rst:88
 msgid ""
 "In that case you should reenable that option by setting "
 "``kernel.yama.ptrace_scope`` to 0 in ``/etc/sysctl.d/10-ptrace.conf`` (or "
@@ -528,7 +443,7 @@ msgid ""
 " will be printed instead."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:102
+#: ../../source/site/getinvolved/development/index.rst:94
 msgid ""
 "If you cannot reproduce the crash, there should still be a core dump in the "
 "current directory, that can be analysed after the process has already "
@@ -536,7 +451,7 @@ msgid ""
 "is append to the filename)."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:107
+#: ../../source/site/getinvolved/development/index.rst:99
 msgid ""
 "On some distributions the creation of core dumps is also disabled.  In the "
 "event that you just get ``Aborted`` instead of ``Aborted (core dumped)`` "
@@ -545,7 +460,7 @@ msgid ""
 " always enabled when you login."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:113
+#: ../../source/site/getinvolved/development/index.rst:105
 msgid ""
 "To produce a backtrace from the core file it you start ``gdb "
 "/path/to/the/qgis/binary core``.  The binary is usually ``/usr/bin/qgis`` or"
@@ -553,7 +468,7 @@ msgid ""
 "``gdb`` you run ``bt`` which will produce the backtrace."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:32
+#: ../../source/site/getinvolved/development/index.rst:24
 msgid ""
 "On the `OSGEO userid page <http://www.osgeo.org/osgeo_userid>`_ you can find"
 " more information about the OSGEO id we use. For example to `change your "
@@ -562,16 +477,374 @@ msgid ""
 "osgeo.org"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:257
+#: ../../source/site/getinvolved/development/index.rst:277
 msgid ""
 "Interested in python plugin development, go to :ref:`QGIS-python-plugin-"
 "development` or have a look into the Python Cookbook in our Documentation "
 "site: http://docs.qgis.org."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/index.rst:275
+#: ../../source/site/getinvolved/development/index.rst:295
 msgid "see :ref:`Adding GRASS tools <addinggrasstools>`"
 msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:197
+msgid "21"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:240
+msgid ":ref:`Debian/Ubuntu <QGIS-debian-testing>`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:298
+msgid "Credits for contributions"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:300
+msgid ""
+"Contributors of new functions are encouraged to let people know about their "
+"contribution by:"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:302
+msgid ""
+"adding a note to the changelog for the first version where the code has been"
+" incorporated, of the type::"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:307
+msgid ""
+"writing an article about the new feature on a blog, and add it to the QGIS "
+"planet http://plugins.qgis.org/planet/"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:308
+msgid "adding their name to:"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:310
+msgid "https://github.com/qgis/QGIS/blob/master/doc/CONTRIBUTORS"
+msgstr "https://github.com/qgis/QGIS/blob/master/doc/CONTRIBUTORS"
+
+#: ../../source/site/getinvolved/development/index.rst:311
+msgid "https://github.com/qgis/QGIS/blob/master/doc/AUTHORS"
+msgstr "https://github.com/qgis/QGIS/blob/master/doc/AUTHORS"
+
+#: ../../source/site/getinvolved/development/index.rst:312
+msgid "https://github.com/qgis/QGIS/blob/master/doc/contributors.json"
+msgstr "https://github.com/qgis/QGIS/blob/master/doc/contributors.json"
+
+#: ../../source/site/getinvolved/development/index.rst:203
+msgid "20"
+msgstr "20"
+
+#: ../../source/site/getinvolved/development/index.rst:197
+#: ../../source/site/getinvolved/development/index.rst:199
+msgid "4"
+msgstr "4"
+
+#: ../../source/site/getinvolved/development/index.rst:202
+#: ../../source/site/getinvolved/development/index.rst:208
+msgid "8"
+msgstr "8"
+
+#: ../../source/site/getinvolved/development/index.rst:169
+msgid ""
+"In the feature freeze **developers** monitor the hub and start working on "
+"fixing the reported issues."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:182
+msgid ""
+"The schedule is aligned to produce roughly the same dates for each year "
+"given our four monthly releases with LTRs in late february."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:185
+msgid ""
+"Beginning after 2.12 the development phase is always 12 weeks and the freeze"
+" phase is 5 weeks.  Remainders are used to extend the freeze phase of LTR "
+"releases."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:189
+msgid ""
+"Future version numbers are subject to change in case of a major releases."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:191
+msgid "Schedule:"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:194
+msgid "Version"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:194
+msgid "Week number"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:194
+msgid "Weeks"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:196
+msgid "2.8"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:196
+#: ../../source/site/getinvolved/development/index.rst:202
+#: ../../source/site/getinvolved/development/index.rst:208
+#: ../../source/site/getinvolved/development/index.rst:225
+msgid "LTR"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:196
+msgid "20.02.2015"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:196
+msgid "14"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:197
+msgid "(2.9)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:197
+#: ../../source/site/getinvolved/development/index.rst:199
+#: ../../source/site/getinvolved/development/index.rst:201
+#: ../../source/site/getinvolved/development/index.rst:203
+#: ../../source/site/getinvolved/development/index.rst:205
+#: ../../source/site/getinvolved/development/index.rst:207
+#: ../../source/site/getinvolved/development/index.rst:227
+msgid "DEV"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:197
+msgid "29.05.2015"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:198
+msgid "2.10"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:198
+#: ../../source/site/getinvolved/development/index.rst:200
+#: ../../source/site/getinvolved/development/index.rst:204
+#: ../../source/site/getinvolved/development/index.rst:206
+#: ../../source/site/getinvolved/development/index.rst:226
+msgid "LR"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:198
+msgid "26.06.2015"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:198
+msgid "13"
+msgstr "13"
+
+#: ../../source/site/getinvolved/development/index.rst:199
+msgid "(2.11)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:199
+msgid "25.09.2015"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:200
+msgid "2.12"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:200
+msgid "23.10.2015"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:200
+#: ../../source/site/getinvolved/development/index.rst:202
+#: ../../source/site/getinvolved/development/index.rst:204
+#: ../../source/site/getinvolved/development/index.rst:206
+#: ../../source/site/getinvolved/development/index.rst:208
+msgid "12"
+msgstr "12"
+
+#: ../../source/site/getinvolved/development/index.rst:201
+msgid "(2.13)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:201
+msgid "15.01.2016"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:201
+#: ../../source/site/getinvolved/development/index.rst:207
+msgid "2"
+msgstr "2"
+
+#: ../../source/site/getinvolved/development/index.rst:201
+#: ../../source/site/getinvolved/development/index.rst:207
+msgid "6"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:202
+msgid "2.14"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:202
+msgid "26.02.2016"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:203
+msgid "(2.15)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:203
+msgid "20.05.2016"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:203
+#: ../../source/site/getinvolved/development/index.rst:205
+msgid "5"
+msgstr "5"
+
+#: ../../source/site/getinvolved/development/index.rst:204
+msgid "2.16"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:204
+msgid "24.06.2016"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:205
+msgid "(2.17)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:205
+msgid "16.09.2016"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:205
+msgid "37"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:206
+msgid "2.18"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:206
+msgid "21.10.2016"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:207
+msgid "(2.19)"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:207
+msgid "13.01.2017"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:208
+msgid "2.20"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:208
+msgid "24.02.2017"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:220
+msgid "Event legend:"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:223
+msgid "Description"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:225
+msgid "Long term release, begin of new development phase"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:226
+msgid "Regular release, begin of new development phase"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/index.rst:227
+msgid "Feature freeze, end of development phase"
+msgstr ""
+
+#~ msgid "Week"
+#~ msgstr ""
+
+#~ msgid "26.09"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the feature freeze **Developers** monitor the hub and start working on "
+#~ "fixing the reported issues."
+#~ msgstr ""
+
+#~ msgid "Following is the schedule for 2015"
+#~ msgstr ""
+
+#~ msgid "(30"
+#~ msgstr ""
+
+#~ msgid "31.10"
+#~ msgstr ""
+
+#~ msgid "2.6 was released)"
+#~ msgstr ""
+
+#~ msgid "3"
+#~ msgstr ""
+
+#~ msgid "23.01"
+#~ msgstr ""
+
+#~ msgid "2.7 freeze begins"
+#~ msgstr ""
+
+#~ msgid "20.02"
+#~ msgstr ""
+
+#~ msgid "2.8 is released (LTR)"
+#~ msgstr ""
+
+#~ msgid "2.9 freeze begins"
+#~ msgstr ""
+
+#~ msgid "26.06"
+#~ msgstr ""
+
+#~ msgid "2.10 is released"
+#~ msgstr ""
+
+#~ msgid "26.05"
+#~ msgstr ""
+
+#~ msgid "TBD freeze begins"
+#~ msgstr ""
+
+#~ msgid "23.10"
+#~ msgstr ""
+
+#~ msgid "TBD is released"
+#~ msgstr ""
+
+#~ msgid ":ref:`Debian <QGIS-debian-testing>`"
+#~ msgstr ""
+
+#~ msgid ":ref:`Ubuntu <QGIS-ubuntu-testing>`"
+#~ msgstr ""
+
+#~ msgid "22.05"
+#~ msgstr ""
+
+#~ msgid "2.11 freeze begins"
+#~ msgstr ""
+
+#~ msgid "2.12 is released"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Interested in python plugin development, go to :ref:`QGIS-python-plugin-"
@@ -598,19 +871,10 @@ msgstr ""
 #~ "you run ``bt`` which will produce the backtrace."
 #~ msgstr ""
 
-#~ msgid "4"
-#~ msgstr ""
-
 #~ msgid "24.01"
 #~ msgstr ""
 
-#~ msgid "8"
-#~ msgstr ""
-
 #~ msgid "21.02"
-#~ msgstr ""
-
-#~ msgid "21"
 #~ msgstr ""
 
 #~ msgid "23.05"

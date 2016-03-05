@@ -1,14 +1,14 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2013-2014
+# Sorin Călinică <scalinica@gmail.com>, 2013-2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-11-23 17:11+0000\n"
+"PO-Revision-Date: 2015-09-08 07:55+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
-"Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
+"Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -65,28 +65,11 @@ msgstr "Grupuri de utilizatori"
 msgid "Issue Tracker"
 msgstr "Urmărire Probleme"
 
-#: ../../source/site/forusers/support.rst:107
-msgid ""
-"If you want to file bugs or issues, you need an osgeo ID. You can create an "
-"account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-msgstr "Dacă doriți să semnalați erori sau probleme, aveți nevoie de un ID osgeo. Aveți posibilitatea să vă creați un cont aici: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-
-#: ../../source/site/forusers/support.rst:109
-msgid ""
-"More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-msgstr "Mai multe informații pot fi găsite la: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-
-#: ../../source/site/forusers/support.rst:111
-msgid ""
-"All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
-"gis/issues"
-msgstr "Toate problemele pot fi accesate la: http://hub.qgis.org/projects/quantum-gis/issues"
-
-#: ../../source/site/forusers/support.rst:117
+#: ../../source/site/forusers/support.rst:113
 msgid "Commercial Support"
 msgstr "Asistență Comercială"
 
-#: ../../source/site/forusers/support.rst:119
+#: ../../source/site/forusers/support.rst:115
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
@@ -289,6 +272,24 @@ msgid ""
 "reporting about your progress. Please do not hesitate to ask questions "
 "regarding the establishment and maintenance of your local user group."
 msgstr "Vă urăm noroc cu organizarea grupului de utilizatori locali. Vă rugăm să informați echipa internațională QGIS, prin înscrierea în lista comunității QGIS și prin raporte cu privire la progresele înregistrate. Vă rugăm să nu ezitați să puneți întrebări cu privire la crearea și menținerea grupului dvs. de utilizatori locali."
+
+#: ../../source/site/forusers/support.rst:107
+msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
+msgstr "Dacă doriți să semnalați erori sau probleme, parcurgeți :ref:`QGIS-bugreporting`."
+
+#~ msgid ""
+#~ "If you want to file bugs or issues, you need an osgeo ID. You can create an "
+#~ "account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
+#~ "gis/issues"
+#~ msgstr ""
 
 #~ msgid "TODO: write something about the IRC ethiquette?"
 #~ msgstr ""

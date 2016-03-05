@@ -1,6 +1,7 @@
 # 
 # Translators:
-# Arthur Nanni <arthur.nanni@gmail.com>, 2015
+# Armando Vulcano Junior <vulcano@uol.com.br>, 2015
+# QGISBrasil <comunidade@qgisbrasil.org>, 2015
 # João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013
 # Narcélio de Sá <narceliosapereira@gmail.com>, 2014
 # Victor Ferreira <victor.mota.ferreira@gmail.com>, 2013
@@ -9,9 +10,9 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-02-18 22:43+0000\n"
-"Last-Translator: Arthur Nanni <arthur.nanni@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/qgis-website/language/pt_BR/)\n"
+"PO-Revision-Date: 2015-09-08 15:48+0000\n"
+"Last-Translator: Armando Vulcano Junior <vulcano@uol.com.br>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -79,13 +80,6 @@ msgstr "Estamos tentando melhorar o nosso processo de gestão de projetos e a di
 #: ../../source/site/getinvolved/translate.rst:68
 msgid "Helping with an existing translation"
 msgstr "Ajudando com uma tradução existente"
-
-#: ../../source/site/getinvolved/translate.rst:70
-msgid ""
-"If you like to help translating QGIS into a your language please assign to "
-"the :ref:`translators mailing list <mailinglist-translation>` and ask who is"
-" already working on that language to coordinate and collaborate."
-msgstr "Se quiser ajudar a traduzir o QGIS para a sua linguagem por favor entre na :ref:`lista de correio dos tradutores <mailinglist-translation>` e pergunte quem já está a trabalhar nessa linguagem para coordenar e colaborar."
 
 #: ../../source/site/getinvolved/translate.rst:74
 msgid ""
@@ -239,6 +233,19 @@ msgid ""
 "differences in the languages (for example portuguese in Portugal in Brazil) "
 "we will create its own version."
 msgstr "Ao solicitar um novo idioma, por favor, tenha em mente que nós tentaremos fazer o mais simples como possível. Apenas solicite o idioma que deseja traduzir (independente do país que você mora ou reside). Apenas se existirem diferenças notáveis nos idiomas (por exemplo, português em Portugal e no Brasil), nós criaremos sua versão de trabalho."
+
+#: ../../source/site/getinvolved/translate.rst:70
+msgid ""
+"If you like to help translating QGIS into a your language please assign to "
+"the :ref:`translators mailing list <mailinglist-translation-gui>` and ask "
+"who is already working on that language to coordinate and collaborate."
+msgstr "Se você gostaria de ajudar a traduzir QGIS em um seu idioma, por favor atribuir o: ref: `translators mailing list <mailinglist-tradução-gui>` e perguntar quem já está trabalhando na linguagem para coordenar e colaborar."
+
+#~ msgid ""
+#~ "If you like to help translating QGIS into a your language please assign to "
+#~ "the :ref:`translators mailing list <mailinglist-translation>` and ask who is"
+#~ " already working on that language to coordinate and collaborate."
+#~ msgstr ""
 
 #~ msgid ""
 #~ "If you would like to nominate yourself as a coordinator for a new language "

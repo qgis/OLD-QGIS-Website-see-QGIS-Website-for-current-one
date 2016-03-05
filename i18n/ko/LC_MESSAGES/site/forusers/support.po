@@ -1,15 +1,16 @@
 # 
 # Translators:
 # BJ Jang <qgis.tr.kr@gmail.com>, 2013-2014
+# Richard Duivenvoorde <richard@duif.net>, 2016
 # 문수현 <softmsh@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-08-21 18:21+0000\n"
+"PO-Revision-Date: 2016-03-05 09:49+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
-"Language-Team: Korean (http://www.transifex.com/projects/p/qgis-website/language/ko/)\n"
+"Language-Team: Korean (http://www.transifex.com/qgis/qgis-website/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -34,7 +35,7 @@ msgstr "QGIS에는 분야별 메일링 리스트가 있습니다. 어떤 차이�
 msgid ""
 "If you are going to ask questions please read this: :ref:`how-to-ask-a-QGIS-"
 "question`."
-msgstr "질문이 있으면 'QGIS 질문하기'를 참조하세요"
+msgstr ""
 
 #: ../../source/site/forusers/support.rst:40
 msgid "Chat"
@@ -66,32 +67,15 @@ msgstr "사용자 그룹"
 msgid "Issue Tracker"
 msgstr "이슈 추적기"
 
-#: ../../source/site/forusers/support.rst:107
-msgid ""
-"If you want to file bugs or issues, you need an osgeo ID. You can create an "
-"account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-msgstr "버그나 이슈를 작성하길 원하신다면 osgeo ID가 필요하합니다. 다음 사이트에서 계정을 생성하실 수 있습니다:  https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-
-#: ../../source/site/forusers/support.rst:109
-msgid ""
-"More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-msgstr "추가적인 정보는 다음에 있습니다 : http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-
-#: ../../source/site/forusers/support.rst:111
-msgid ""
-"All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
-"gis/issues"
-msgstr "모든 이슈는 이곳에서 확인할 수 있습니다 : http://hub.qgis.org/projects/quantum-gis/issues"
-
-#: ../../source/site/forusers/support.rst:117
+#: ../../source/site/forusers/support.rst:113
 msgid "Commercial Support"
 msgstr "상업적인 지원"
 
-#: ../../source/site/forusers/support.rst:119
+#: ../../source/site/forusers/support.rst:115
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
-msgstr "사용자는 주변의 회사로부터 지원을 받을 수 있습니다. 다음 페이지를 방문해 주십시오: :ref:`QGIS 상업적인 지원`."
+msgstr "사용자는 주변의 회사로부터 지원을 받을 수 있습니다. 다음 페이지를 방문해 주십시오: :ref:`QGIS-commercial_support`."
 
 #: ../../source/site/forusers/support.rst:14
 msgid "Searchable Mailing Lists"
@@ -290,6 +274,24 @@ msgid ""
 "reporting about your progress. Please do not hesitate to ask questions "
 "regarding the establishment and maintenance of your local user group."
 msgstr ""
+
+#: ../../source/site/forusers/support.rst:107
+msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
+msgstr ""
+
+#~ msgid ""
+#~ "If you want to file bugs or issues, you need an osgeo ID. You can create an "
+#~ "account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
+#~ "gis/issues"
+#~ msgstr ""
 
 #~ msgid "TODO: write something about the IRC ethiquette?"
 #~ msgstr ""

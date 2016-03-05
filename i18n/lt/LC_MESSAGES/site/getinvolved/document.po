@@ -1,14 +1,15 @@
 # 
 # Translators:
+# Richard Duivenvoorde <richard@duif.net>, 2016
 # Tomas Straupis, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2015-03-18 15:51+0000\n"
-"Last-Translator: Tomas Straupis\n"
-"Language-Team: Lithuanian (http://www.transifex.com/projects/p/qgis-website/language/lt/)\n"
+"PO-Revision-Date: 2016-03-01 19:23+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -62,7 +63,7 @@ msgstr "Mes stipriai rekomenduojame visus, susijusius su dokumentacija ir jos ve
 #: ../../source/site/getinvolved/document.rst:30
 msgid ""
 "The other available mailing lists can be found at :ref:`QGIS-mailinglists`."
-msgstr "Kitus sąrašynus rasite :ref:`QGIS-sąrašynai`."
+msgstr "Kitus sąrašynus rasite :ref:`QGIS-mailinglists`."
 
 #: ../../source/site/getinvolved/document.rst:33
 msgid "Becoming a documenter"
@@ -100,14 +101,6 @@ msgstr "Prašome :ref:`susisiekti <community-resources>` su bendruomenės pagalb
 #: ../../source/site/getinvolved/document.rst:52
 msgid "Helping with an existing translation"
 msgstr "Pagalba egzistuojančiam vertimui"
-
-#: ../../source/site/getinvolved/document.rst:54
-msgid ""
-"If you like to help translating an existing QGIS manual into a your language"
-" please assign to the :ref:`qgis-community-team mailing list <mailinglist-"
-"translation>` and ask who is already working on that language to coordinate "
-"and collaborate."
-msgstr "Jei norite pad4ti versti jau esamą QGIS vadovą į jūsų kalbą, prašome prisijungti prie  :ref:`qgis-community-team sąrašyno <mailinglist-translation>` ir paklausti, kas jau dirba su šia kalba, kad galėtumėte koordinuoti pastangas ir bendradarbiauti."
 
 #: ../../source/site/getinvolved/document.rst:61
 msgid "HOWTO translate"
@@ -216,3 +209,18 @@ msgid ""
 "differences in the languages (for example portuguese in Portugal in Brazil) "
 "we will create its own version."
 msgstr "Prašydami naujos kalbos turėkite omeny, kad mes stengiamės, kad viskas būtų kaip galima paprasčiau. Tiesiog paprašykite kalbos, į kurią norite versti (nepriklausomai nuo to, kurioje šalyje esate). Tik jei yra žymių skirtumų kalbose (pavyzdžiui portugalų kalba Portugalijoje ir Brazilijoje), mes sukursime atskirą versiją."
+
+#: ../../source/site/getinvolved/document.rst:54
+msgid ""
+"If you like to help translating an existing QGIS manual into a your language"
+" please assign to the :ref:`qgis-community-team mailing list <mailinglist-"
+"translation-docs>` and ask who is already working on that language to "
+"coordinate and collaborate."
+msgstr "Jei norite pad4ti versti jau esamą QGIS vadovą į jūsų kalbą, prašome prisijungti prie  :ref:`qgis-community-team sąrašyno <mailinglist-translation>` ir paklausti, kas jau dirba su šia kalba, kad galėtumėte koordinuoti pastangas ir bendradarbiauti."
+
+#~ msgid ""
+#~ "If you like to help translating an existing QGIS manual into a your language"
+#~ " please assign to the :ref:`qgis-community-team mailing list <mailinglist-"
+#~ "translation>` and ask who is already working on that language to coordinate "
+#~ "and collaborate."
+#~ msgstr ""

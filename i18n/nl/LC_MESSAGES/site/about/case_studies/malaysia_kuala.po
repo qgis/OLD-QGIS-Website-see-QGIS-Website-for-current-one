@@ -1,32 +1,25 @@
 # 
 # Translators:
+# Dick Groskamp, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-17 14:01+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Dutch <qgis-tr@lists.osgeo.org>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2015-11-30 12:32+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:4
-msgid "QGIS at the Federal Department of Town and Country Planning"
-msgstr ""
-
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:5
-msgid "Peninsular Malaysia"
-msgstr ""
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:6
+msgid "Introduction"
+msgstr "Introductie"
 
 #: ../../source/site/about/case_studies/malaysia_kuala.rst:8
-msgid "Introduction"
-msgstr ""
-
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:10
 msgid ""
 "The Federal Department of Town and Country Planning, Peninsular Malaysia "
 "(JPBD) is a federal agency that advises matters on town and country "
@@ -45,32 +38,121 @@ msgid ""
 "of State Structure Plans, District Local Plans and Special Area Plans. As "
 "public agencies were traditionally established base on their specialization,"
 " JPBD is the custodian of landuse information."
-msgstr ""
+msgstr "Het Federal Department of Town and Country Planning, Peninsular Malaysia (JPBD) is een federaal agentschap dat adviseert over zaken met betrekking tot de planning van steden en landschappen. Het doel van de administratie voor het departement is echter beperkt tot het schiereiland van Maleisië omdat Sabah en Sarawak in Oost-Maleisië hhun eigen respectievelijke agentschappen voor planning van steden en landschappen hebben. Planning van steden en landschappen staat op de huidige lijst in de federale wetgeving, dus, op federaal niveau, JPBD adviseert de Housing and Local Government Minister onder wiens gezag de JPBD staat en adviseert ook de National Physical Planning Council, die wordt voorgezeten door de Premier. Op het niveau van de staat adviseert de state director de State Planning Committee, voorgezeten door de Chief Minister. Op lokaal niveau adviseert JPBD lokale planning-autoriteiten over zaken met betrekking tot planning door betrokken te zijn bij de voorbereiding van voorgeschreven plannen voor ontwikkeling. Op het hoofdkwartier bereidt de National Physical Plan Division het National Physical Plan voor terwijl vier regionale projectkantoren assisteren bij de voorbereiding van State Structure Plans, District Local Plans en Special Area Plans. Omdat publieke agentschappen traditioneel werden ingesteld op basis van hun specialisatie, is JPBD de beheerder van informatie over landgebruik."
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:11
+msgid "The Project"
+msgstr "Het project"
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:20
+msgid "MyGOSSCON, 2009"
+msgstr "MyGOSSCON, 2009"
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:26
+msgid ""
+"The department eventually promoted the QGIS-GRASS package instead of merely "
+"QGIS as it was found to be most powerful and helpful for town planning "
+"purposes such as cleaning topology error and overcoming limitations of the "
+"default standard inputs. That was merely the beginning."
+msgstr "Het departement promootte uiteindelijk het pakket QGIS-GRASS in plaats van alleen QGIS omdat dat het meest krachtige en nuttige werd bevonden voor doeleinden met betrekking tot planning van steden, zoals het opschonen van fouten in topologie en het overwinnen van de beperkingen van standaard invoer. Dat was slechts het begin."
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:33
+msgid "Northern Project Office get QGIS training"
+msgstr "Noordelijke projectkantoor krijgt training in QGIS"
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:44
+msgid "Outcome from using QGIS"
+msgstr "Uitkomsten van het gebruiken van QGIS"
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:46
+msgid ""
+"On the assumption of RM10,000 per proprietary GIS licence, the use of 320 "
+"QGIS installations will help save the federal government RM3,200,000;"
+msgstr "Uitgaande van RM10,000 per merkgebonden licentie voor GIS, zal het gebruiken van 320 QGIS installaties de federale overheid een bedrag besparen van RM3,200,000;"
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:47
+msgid ""
+"A total eradication of pirate GIS and increasing trust and confidence in the"
+" use of OSS in general and specifically OSS GIS;"
+msgstr "Een totaal uitbanning van illegale GIS en het vergroten van het vertrouwen in het gebruiken van OSS in het algemeen en specifiek OSS GIS;"
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:48
+msgid ""
+"QGIS training has been simplier to manage. This means cross-learning between"
+" staff, divisions, public agencies and even local planning authorities that "
+"use QGIS can be more effective because the GIS used is uniform;"
+msgstr "QGIS-training was eenvoudiger te beheren. Dit betekent kruisend leren tussen staf, divisies, publieke agentschappen en zelfs lokale planningsautoriteiten die QGIS gebruiken kan meer effectief zijn omdat het GIS uniform wordt gebruikt;"
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:49
+msgid ""
+"The use of QGIS helps towards synergy with a PostgreSQL-PostGIS geodatabase "
+"which the department is planning to use as the foundation of landuse "
+"geodatabase throughout Peninsular Malaysia."
+msgstr "Het gebruiken van QGIS helpt bij het zoeken naar de synergie met een geodatabase van PostgreSQL-PostGIS die het departement van plan is te gaan gebruiken als fundering voor geodatabase voor landgebruik op het gehele schiereiland van Maleisië."
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:50
+msgid ""
+"It has been faster to process data verification and clean topology error."
+msgstr "Het was sneller om gegevens te verifiëren en fouten in topologie op te schonen."
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:51
+msgid ""
+"Users become more courageous and begin to venture into Google Maps and other"
+" Internet sources for secondary information;"
+msgstr "Gebruikers worden moediger en duiken in Google Maps en andere internetbronnen voor aanvullende informatie;"
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:52
+msgid ""
+"QGIS being user-friendly encourages users to be more adventureous and "
+"explore the many plugins available to their advantage and make their task "
+"easier."
+msgstr "Omdat QGIS zo gebruikersvriendelijk is moedigt het gebruikers aan avontuurlijker te worden en de vele beschikbare plug-ins in hun voordeel te verkennen en hun taak eenvoudiger te maken."
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:53
+msgid "GIS a complex tool becomes a friend rather than a hinderance."
+msgstr "GIS: een complex gereedschap wordt meer ene vriend dan een hindernis."
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:56
+msgid "Author"
+msgstr "Auteur"
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:63
+msgid "Abbas Abdul Wahab"
+msgstr "Abbas Abdul Wahab"
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:65
+msgid ""
+"This article was contributed in January 2012 by Abbas Abdul Wahab. Abbas  "
+"graduated as a town planner from Gloucestershire College of Arts & Design, "
+"United Kingdom in 1980 and has a Masters of Science in GIS & Geomatic "
+"Engineering from Putra University Malaysia in 2002. He is currently the Head"
+" of the National Landuse Information Unit at the National Landuse "
+"Information Division of the Federal Department of Town & Country Planning, "
+"Peninsular Malaysia."
+msgstr "Dit artikel werd bijgedragen in januari 2012 door Abbas Abdul Wahab. Abbas, afgestudeerd als stadsplanner aan het Gloucestershire College of Arts & Design, United Kingdom in 1980 en heeft een Masters of Science in GIS & Geomatic Engineering van de Putra University Malaysia in 2002. Hij is momenteel Head of the National Landuse Information Unit aan het National Landuse Information Division van het Federal Department of Town & Country Planning, Peninsular Malaysia."
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:3
+msgid ""
+"QGIS at the Federal Department of Town and Country Planning, Peninsular "
+"Malaysia"
+msgstr "QGIS aan het Federal Department of Town and Country Planning, Peninsular Malaysia"
 
 #: ../../source/site/about/case_studies/malaysia_kuala.rst:13
-msgid "The Project"
-msgstr ""
-
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:15
 msgid ""
-"QGIS (QGIS) was first introduced to the Malaysian Open Source community as a"
-" viable alternative to proprietary GIS for public agencies by JPBD at the "
-"Malaysian Government Open Source Conference (MyGOSSCON) in 2009 and to the "
-"Malaysian GIS community at the 4th National GIS Conference and Exhibition "
-"(NGIS) in 2010. JPBD has traditionally been a user of proprietary GIS thus "
-"the introduction of QGIS was a real eye opener not only from the point-of-"
-"view of Open Source Software (OSS), what more, OSS GIS. Open source "
-"philosophy was different thus QGIS felt alien, unsure and unsafe, not "
-"surprisingly the idea to use QGIS did not receive much support internally, "
-"in fact, it faced resistance in 2010 from the top managment all the way down"
-" to the support group."
-msgstr ""
+"QGIS was first introduced to the Malaysian Open Source community as a viable"
+" alternative to proprietary GIS for public agencies by JPBD at the Malaysian"
+" Government Open Source Conference (MyGOSSCON) in 2009 and to the Malaysian "
+"GIS community at the 4th National GIS Conference and Exhibition (NGIS) in "
+"2010. JPBD has traditionally been a user of proprietary GIS thus the "
+"introduction of QGIS was a real eye opener not only from the point-of-view "
+"of Open Source Software (OSS), what more, OSS GIS. Open source philosophy "
+"was different thus QGIS felt alien, unsure and unsafe, not surprisingly the "
+"idea to use QGIS did not receive much support internally, in fact, it faced "
+"resistance in 2010 from the top managment all the way down to the support "
+"group."
+msgstr "QGIS werd als eerste geïntroduceerd aan de Maleisische Open Source-gemeenschap als een waardig alternatief voor merkgebonden GIS voor publieke agentschappen door JPBD op de Maleisische Government Open Source Conference (MyGOSSCON) in 2009 en aan de Maleisische GIS-gemeenschap aan de 4e National GIS Conference and Exhibition (NGIS) in 2010. JPBD was van oudsher ene gebruiker van merkgebonden GIS dus de introductie van QGIS was een echte eye opener, biet alleen vanuit het oogpunt van Open Source Software (OSS), maar ook OSS GIS. Open source filosofie was anders dus QGIS voelde buitenaards, onzeker en onveilig, niet verrassend dus dar het idee om QGIS te gebruiken intern op niet veel steun kon rekenen, in feite werd weerstand ondervonden in 2010 vanaf het management aan de top tot onder in de ondersteuningsgroep."
 
 #: ../../source/site/about/case_studies/malaysia_kuala.rst:22
-msgid "MyGOSSCON, 2009"
-msgstr ""
-
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:24
 msgid ""
 "On the opposite side, request for technical talks on QGIS came from other "
 "technical agencies which JPBD gave to the Ministry of Works and the "
@@ -80,26 +162,19 @@ msgid ""
 "introducing QGIS to the Survey Department's GIS Bulletin and the Ministry of"
 " Natural Resource's Public Sector GeoSpatial Bulletin. In the meantime, JPBD"
 " researched on developing a slope analysis module for QGIS's Windows and "
-"Ubuntu version. The study highlighted pros and cons of customizing a module "
-"and the high level of commitment from the management needed to ensure its "
-"continual success and adoption. In 2011, JPBD began to further research on "
-"QGIS more as an analytical tool rather than a mapping tool in order to "
-"pioneer untapped modules or new approaches at exploiting QGIS."
-msgstr ""
+"Ubuntu version."
+msgstr "Aan de andere kant kwamen verzoeken voor technische verhalen over QGIS van andere technische agentschappen, die JPBD gaf aan het Ministry of Works en het Department of Irrigation and Drainage. Ander werken om QGIS te promoten vanuit JPBD kwam in de vorm van artikelen in een nieuwsbrief over QGIS aan het Open Source Competency Centre (OSCC) van het departement van de premier en artikelen die QGIS introduceerden in het Survey Department's GIS Bulletin en het Ministry of Natural Resource's Public Sector GeoSpatial Bulletin. In de tussenliggende tijd onderzocht JPBD het ontwikkelen van een hellingsanalysemodel voor QGIS's versies van Windows en Ubuntu."
 
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:27
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:24
 msgid ""
-"The department eventually promoted the QGIS-GRASS package instead of merely "
-"QGIS as it was found to be most powerful and helpful for town planning "
-"purposes such as cleaning topology error and overcoming limitations of the "
-"default standard inputs. That was merely the beginning."
-msgstr ""
+"The study highlighted pros and cons of customizing a module and the high "
+"level of commitment from the management needed to ensure its continual "
+"success and adoption. In 2011, JPBD began to further research on QGIS more "
+"as an analytical tool rather than a mapping tool in order to pioneer "
+"untapped modules or new approaches at exploiting QGIS."
+msgstr "De studie accentueerde de voors en tegens van het aanpassen van een module en het benodigde hoge niveau van betrokkenheid van het management om het voortgaande succes en adoptie te verzekeren. In 2011 begon JPBD met verder onderzoek naar QGIS meer als een analytisch gereedschap in plaats van een kaartgereedschap om te pionieren in nog niet uitgewerkte modules of nieuwe benaderingen bij het exploiteren van QGIS."
 
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:34
-msgid "Northern Project Office get QGIS training"
-msgstr ""
-
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:36
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:35
 msgid ""
 "In order to centralize and share findings in the use of QGIS for town "
 "planning purpose which could also be use in other fields dealing with "
@@ -108,14 +183,18 @@ msgid ""
 "QGIS community in Malaysia. External agencies seem to have more interest in "
 "QGIS than JPBD itself and upon their request, JPBD gave QGIS training to the"
 " Fire and Safety Department as well as to the Ministry of Education whom "
-"later was convinced QGIS will be their de facto GIS tool. Hearing this, "
-"JPBD's Research and Development Division took the initiative and requested "
-"for QGIS training and subsequently 12 persons were trained. Word of mouth (a"
-" godsend thing, though at times, extremely detrimental) spread that QGIS was"
-" indeed user-friendly, easy to use and at par with proprietary GIS in "
-"mapping task and could take on proprietary GIS when optimized with GRASS "
-"modules."
-msgstr ""
+"later was convinced QGIS will be their de facto GIS tool."
+msgstr "Om bevindingen te centraliseren en te delen met betrekking tot het gebruiken van QGIS voor doeleinden van stedelijke planning die ook op andere gebieden, die werken met ruimtelijke analyses, zouden kunnen worden gebruikt, werd een niet officieel blog opgestart door de auteur, genaamd “QGIS MALAYSIA” op http://www.qgismalaysia.blogspot.com om een QGIS-gemeenschap in Maleisië op te bouwen. Externe agentschappen leken meer interesse te hebben in QGIS dan JPBD zelf en op hun verzoek gaf JPBD QGIS-training aan het Fire and Safety Department en ook het Ministry of Education dat later was overtuigd dat QGIS hun de facto gereedschap voor GIS zal zijn."
+
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:37
+msgid ""
+"Hearing this, JPBD's Research and Development Division took the initiative "
+"and requested for QGIS training and subsequently 12 persons were trained. "
+"Word of mouth (a godsend thing, though at times, extremely detrimental) "
+"spread that QGIS was indeed user-friendly, easy to use and at par with "
+"proprietary GIS in mapping task and could take on proprietary GIS when "
+"optimized with GRASS modules."
+msgstr "JPBD's Research and Development Division, dat hiervan hoorde, nam het initiatief en verzocht QGIS-training en aansluitend werden 12 personen getraind. Mon tot mond reclame (een door God gegeven ding, hoewel soms extreem nadelig) gaf door dat QGIS inderdaad gebruikersvriendelijk, eenvoudig te gebruiken en te vergelijken was met merkgebonden GIS bij taken vor het in kaart brengen en een waardig tegenstander was voor merkgebonden GIS indien geoptimaliseerd met modules van GRASS."
 
 #: ../../source/site/about/case_studies/malaysia_kuala.rst:39
 msgid ""
@@ -124,84 +203,87 @@ msgid ""
 "Information Division that spearheaded QGIS to train the 4 project offices as"
 " they hold the greatest number of GIS users. By the end of 2012, it is "
 "anticipated that at least 320 staff throughout JPBD will use QGIS which "
-"accounts for approximately 90 % of GIS users in the department. That is not "
-"all. States town planning departments have also requested QGIS training such"
-" as Perak including strong interest from poorer states like Perlis and "
-"Kelantan. If this catches on, it is anticipated that the use of QGIS may "
-"dominate states planning departments and even extend to local planning "
-"authorities, many of which are not wealthy. In the meantime, JPBD is "
-"seriously studying the use of the QGIS-PosgreSQL-PostGIS package for every "
-"planning office's client GIS-geodatabase server structure to serve as the "
-"foundation of JPBD's integrated landuse (iPLAN) network."
-msgstr ""
+"accounts for approximately 90 % of GIS users in the department."
+msgstr "Interesse in QGIS steeg en in 2012, met ondersteuning van alle directeuren van de projectkantoren, werd een alles of niets poging ondernomen bij de National Landuse Information Division dat het voortouw nam voor QGIS om de 4 projectkantoren te trainen omdat zij het grootste aantal GIS-gebruikers huisvesten. Aan het eind van 2012, wordt verwacht, dat ten minste 320 stafleden, over geheel JPBD, QGIS zullen gebruiken wat geldt vals ongeveer 90% van de GIS-gebruikers in het gehele departement."
 
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:43
-msgid "Outcome from using QGIS"
-msgstr ""
-
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:45
+#: ../../source/site/about/case_studies/malaysia_kuala.rst:41
 msgid ""
-"On the assumption of RM10,000 per proprietary GIS licence, the use of 320 "
-"QGIS installations will help save the federal government RM3,200,000;"
-msgstr ""
+"That is not all. States town planning departments have also requested QGIS "
+"training such as Perak including strong interest from poorer states like "
+"Perlis and Kelantan. If this catches on, it is anticipated that the use of "
+"QGIS may dominate states planning departments and even extend to local "
+"planning authorities, many of which are not wealthy. In the meantime, JPBD "
+"is seriously studying the use of the QGIS-PosgreSQL-PostGIS package for "
+"every planning office's client GIS-geodatabase server structure to serve as "
+"the foundation of JPBD's integrated landuse (iPLAN) network."
+msgstr "Dat is niet alles. Departementen van stedelijke planning voor de staat hebben ook training in QGIS verzocht, zoals Perak inclusief sterk interesse uit armere staten zoals Perlis en Kelantan. Als dit aanslaat wordt verwacht dat het gebruiken van QGIS de staatsdepartementen voor planning zal domineren en zelfs wordne uitgebreid tot lokale planningsautoriteiten, waarvan vele niet rijk zijn. In de tussenliggende tijd studeert JPBD serieus naar het gebruiken van het pakket QGIS-PosgreSQL-PostGIS voor elk planningskantoor cliënt-GIS-geodatabase server structuur om te dienen als de fundering voor JPBD's geïntegreerde netwerk voor landgebruik (iPLAN)."
 
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:46
-msgid ""
-"A total eradication of pirate GIS and increasing trust and confidence in the"
-" use of OSS in general and specifically OSS GIS;"
-msgstr ""
+#~ msgid "QGIS at the Federal Department of Town and Country Planning"
+#~ msgstr ""
 
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:47
-msgid ""
-"QGIS training has been simplier to manage. This means cross-learning between"
-" staff, divisions, public agencies and even local planning authorities that "
-"use QGIS can be more effective because the GIS used is uniform;"
-msgstr ""
+#~ msgid "Peninsular Malaysia"
+#~ msgstr ""
 
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:48
-msgid ""
-"The use of QGIS helps towards synergy with a PostgreSQL-PostGIS geodatabase "
-"which the department is planning to use as the foundation of landuse "
-"geodatabase throughout Peninsular Malaysia."
-msgstr ""
+#~ msgid ""
+#~ "QGIS (QGIS) was first introduced to the Malaysian Open Source community as a"
+#~ " viable alternative to proprietary GIS for public agencies by JPBD at the "
+#~ "Malaysian Government Open Source Conference (MyGOSSCON) in 2009 and to the "
+#~ "Malaysian GIS community at the 4th National GIS Conference and Exhibition "
+#~ "(NGIS) in 2010. JPBD has traditionally been a user of proprietary GIS thus "
+#~ "the introduction of QGIS was a real eye opener not only from the point-of-"
+#~ "view of Open Source Software (OSS), what more, OSS GIS. Open source "
+#~ "philosophy was different thus QGIS felt alien, unsure and unsafe, not "
+#~ "surprisingly the idea to use QGIS did not receive much support internally, "
+#~ "in fact, it faced resistance in 2010 from the top managment all the way down"
+#~ " to the support group."
+#~ msgstr ""
 
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:49
-msgid ""
-"It has been faster to process data verification and clean topology error."
-msgstr ""
+#~ msgid ""
+#~ "On the opposite side, request for technical talks on QGIS came from other "
+#~ "technical agencies which JPBD gave to the Ministry of Works and the "
+#~ "Department of Irrigation and Drainage. Other works to promote QGIS from JPBD"
+#~ " came in the form of newsletter articles on QGIS to the Open Source "
+#~ "Competency Centre (OSCC) at the Prime Minister's Department and articles "
+#~ "introducing QGIS to the Survey Department's GIS Bulletin and the Ministry of"
+#~ " Natural Resource's Public Sector GeoSpatial Bulletin. In the meantime, JPBD"
+#~ " researched on developing a slope analysis module for QGIS's Windows and "
+#~ "Ubuntu version. The study highlighted pros and cons of customizing a module "
+#~ "and the high level of commitment from the management needed to ensure its "
+#~ "continual success and adoption. In 2011, JPBD began to further research on "
+#~ "QGIS more as an analytical tool rather than a mapping tool in order to "
+#~ "pioneer untapped modules or new approaches at exploiting QGIS."
+#~ msgstr ""
 
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:50
-msgid ""
-"Users become more courageous and begin to venture into Google Maps and other"
-" Internet sources for secondary information;"
-msgstr ""
+#~ msgid ""
+#~ "In order to centralize and share findings in the use of QGIS for town "
+#~ "planning purpose which could also be use in other fields dealing with "
+#~ "spatial analysis, an unofficial blog established by the author called “QGIS "
+#~ "MALAYSIA” at http://www.qgismalaysia.blogspot.com was made to generate a "
+#~ "QGIS community in Malaysia. External agencies seem to have more interest in "
+#~ "QGIS than JPBD itself and upon their request, JPBD gave QGIS training to the"
+#~ " Fire and Safety Department as well as to the Ministry of Education whom "
+#~ "later was convinced QGIS will be their de facto GIS tool. Hearing this, "
+#~ "JPBD's Research and Development Division took the initiative and requested "
+#~ "for QGIS training and subsequently 12 persons were trained. Word of mouth (a"
+#~ " godsend thing, though at times, extremely detrimental) spread that QGIS was"
+#~ " indeed user-friendly, easy to use and at par with proprietary GIS in "
+#~ "mapping task and could take on proprietary GIS when optimized with GRASS "
+#~ "modules."
+#~ msgstr ""
 
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:51
-msgid ""
-"QGIS being user-friendly encourages users to be more adventureous and "
-"explore the many plugins available to their advantage and make their task "
-"easier."
-msgstr ""
-
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:52
-msgid "GIS a complex tool becomes a friend rather than a hinderance."
-msgstr ""
-
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:55
-msgid "Author"
-msgstr ""
-
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:62
-msgid "Abbas Abdul Wahab"
-msgstr ""
-
-#: ../../source/site/about/case_studies/malaysia_kuala.rst:64
-msgid ""
-"This article was contributed in January 2012 by Abbas Abdul Wahab. Abbas  "
-"graduated as a town planner from Gloucestershire College of Arts & Design, "
-"United Kingdom in 1980 and has a Masters of Science in GIS & Geomatic "
-"Engineering from Putra University Malaysia in 2002. He is currently the Head"
-" of the National Landuse Information Unit at the National Landuse "
-"Information Division of the Federal Department of Town & Country Planning, "
-"Peninsular Malaysia."
-msgstr ""
+#~ msgid ""
+#~ "Interest in QGIS stirred and in 2012, with the support of all project office"
+#~ " directors, an all-out effort was undertaken by the National Landuse "
+#~ "Information Division that spearheaded QGIS to train the 4 project offices as"
+#~ " they hold the greatest number of GIS users. By the end of 2012, it is "
+#~ "anticipated that at least 320 staff throughout JPBD will use QGIS which "
+#~ "accounts for approximately 90 % of GIS users in the department. That is not "
+#~ "all. States town planning departments have also requested QGIS training such"
+#~ " as Perak including strong interest from poorer states like Perlis and "
+#~ "Kelantan. If this catches on, it is anticipated that the use of QGIS may "
+#~ "dominate states planning departments and even extend to local planning "
+#~ "authorities, many of which are not wealthy. In the meantime, JPBD is "
+#~ "seriously studying the use of the QGIS-PosgreSQL-PostGIS package for every "
+#~ "planning office's client GIS-geodatabase server structure to serve as the "
+#~ "foundation of JPBD's integrated landuse (iPLAN) network."
+#~ msgstr ""

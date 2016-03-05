@@ -1,14 +1,15 @@
 # 
 # Translators:
+# Armando Vulcano Junior <vulcano@uol.com.br>, 2015
 # Narcélio de Sá <narceliosapereira@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-12-02 14:51+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/qgis-website/language/pt_BR/)\n"
+"PO-Revision-Date: 2015-12-07 01:57+0000\n"
+"Last-Translator: Armando Vulcano Junior <vulcano@uol.com.br>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -99,13 +100,13 @@ msgid ""
 "the southern part, suffers from major bushfires. Bushfire is a real and "
 "present concern for the residents and landowners in the Southern Downs "
 "Region, and has resulted in the loss of life and property."
-msgstr ""
+msgstr "O Conselho Regional Centro Sul (SDRC) é um governo local de pequeno-a-médio porte no sudeste de Queenland, Austrália. O conselho regional principalmente na parte sul, sofre de grandes incêndios florestais. Incêndio florestal é uma preocupação real e presente para os moradores e proprietários de terra na Região Centro Sul, e já resultou na perda de vidas e bens."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:10
 msgid ""
 "This project will allow the council and the people of the region to be more "
 "aware of the risk and to allow for better decision making in the future."
-msgstr ""
+msgstr "Este projeto irá permitir que o Conselho e as pessoas da região a serem mais conscientes do risco e permitir uma melhor tomada de decisão no futuro."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:40
 msgid ""
@@ -114,7 +115,7 @@ msgid ""
 "to process the raster maps and present them in a meaningful way to users. "
 "SDRC uses MapInfo for its main GIS system, however MapInfo’s addons were not"
 " as powerful as GRASS GIS for raster processing."
-msgstr ""
+msgstr "QGIS, usando o plugin GRASS, foi selecionado uma vez que forneceu as ferramentas necessárias para concluir o trabalho e a interação entre QGIS e GRASS, tornou fácil para processar os mapas raster e apresentá-los de uma forma significativa para os usuários. SDRC usa MapInfo para o seu sistema SIG principal, no entanto addons do MapInfo não eram tão poderosos quanto SIG GRASS para o processamento raster."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:42
 msgid ""
@@ -127,14 +128,14 @@ msgid ""
 "were then combined using mapcalc and given a final risk hazard score. The "
 "risk scores are then divided into three main categories: high; medium; and "
 "low."
-msgstr ""
+msgstr "O plugin QGIS GRASS foi usado para importar 5 metros de contornos de toda a região para o GRASS, que foram então convertidos em um mapa de contorno raster usando r.surf.contour. Uma inclinação e o aspecto do mapa foram então gerados utilizando r.slope.aspect do mapa de contorno raster. Categorias foram atribuídas a diferentes faixas de declividade e aspecto e tendo em conta um risco de perigo. Áreas de vegetação foram também dadas diferentes pontuações de risco. Todos os mapas raster resultantes foram então combinados utilizando mapcalc e dado uma pontuação final de risco. As pontuações de risco são divididas em três categorias principais: alta; média; e baixa."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:44
 msgid ""
 "The final part of the process was field verification via the rural fire "
 "service. After the review process, QGIS was used to print the final maps for"
 " presentation."
-msgstr ""
+msgstr "A parte final do processo era a verificação em campo através do serviço de incêndio rural. Após o processo de revisão, QGIS foi usado para imprimir os mapas finais para a apresentação."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:46
 msgid ""
@@ -142,7 +143,7 @@ msgid ""
 "that were needed to generate the bushfire hazard maps were recorded, for "
 "documentation purposes and for if the maps needed to be regenerated some "
 "time in the future."
-msgstr ""
+msgstr "Como todos os comandos GRASS podem ser executados a partir da linha de comando, todos os comandos que foram necessários para gerar os mapas de risco de incêndio foram guardados, para fins de documentação e se for necessário regerar os mapas em algum momento no futuro."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:51
 msgid ""
@@ -151,22 +152,22 @@ msgid ""
 "mapping. The GRASS plugin provides a very easy to use interface to GRASS "
 "through QGIS. As QGIS is able to open the GRASS raster format natively, "
 "integration is very seamless and maps can be made with ease."
-msgstr ""
+msgstr "Em geral QGIS, juntamente com o plugin GRASS, cria uma grande experiência e um grande resultado final para o Conselho a fazer o seu próprio mapeamento de risco de incêndios florestais. O plugin GRASS fornece uma interface muito fácil de usar para GRASS através QGIS. Como QGIS é capaz de abrir o formato GRASS raster nativamente, a integração é muito transparente e mapas podem ser feitos com facilidade."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:53
 msgid ""
 "The project won an encouragement award at the Queensland Planning Institute "
 "of Australia state planning awards in 2010 [2]"
-msgstr ""
+msgstr "O projeto ganhou um prêmio incentivo no Instituto Queensland de Planejamento de prêmios de planejamento do estado da Austrália em 2010 [2]"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:58
 msgid ""
 "[2] http://digital.crowtherblayne.com.au/default.aspx?xml=crowther_pia.xml"
-msgstr ""
+msgstr "[2] http://digital.crowtherblayne.com.au/default.aspx?xml=crowther_pia.xml"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:68
 msgid "Nathan Woodrow"
-msgstr ""
+msgstr "Nathan Woodrow"
 
 #~ msgid ""
 #~ "The Southern Downs Regional Council (SDRC) is a small-to-medium sized local "

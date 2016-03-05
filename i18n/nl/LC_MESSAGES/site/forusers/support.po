@@ -1,6 +1,6 @@
 # 
 # Translators:
-# Dick Groskamp <dikgro@yahoo.co.uk>, 2014
+# Dick Groskamp, 2014-2015
 # Diethard Jansen <diethard.jansen@gmail.com>, 2013
 # Raymond Nijssen <r.nijssen@terglobo.nl>, 2013-2014
 # Vincent <vincent@stedema.nl>, 2013
@@ -9,9 +9,9 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-08-21 18:21+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
-"Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
+"PO-Revision-Date: 2015-09-09 15:56+0000\n"
+"Last-Translator: Dick Groskamp\n"
+"Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -68,28 +68,11 @@ msgstr "Gebruikersgroepen"
 msgid "Issue Tracker"
 msgstr "Issue Tracker"
 
-#: ../../source/site/forusers/support.rst:107
-msgid ""
-"If you want to file bugs or issues, you need an osgeo ID. You can create an "
-"account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-msgstr "Wanneer je een fout of een issue wilt registreren, heeft u een osgeo ID nodig. Je kunt hier een account aanmaken: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-
-#: ../../source/site/forusers/support.rst:109
-msgid ""
-"More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-msgstr "Meer informatie vind je op http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-
-#: ../../source/site/forusers/support.rst:111
-msgid ""
-"All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
-"gis/issues"
-msgstr "Je kunt alle issues bekijken op http://hub.qgis.org/projects/quantum-gis/issues"
-
-#: ../../source/site/forusers/support.rst:117
+#: ../../source/site/forusers/support.rst:113
 msgid "Commercial Support"
 msgstr "Betaalde ondersteuning"
 
-#: ../../source/site/forusers/support.rst:119
+#: ../../source/site/forusers/support.rst:115
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
@@ -292,6 +275,24 @@ msgid ""
 "reporting about your progress. Please do not hesitate to ask questions "
 "regarding the establishment and maintenance of your local user group."
 msgstr "Veel succes met de organisatie van uw lokale gebruikersgroep. Informeer het international team van QGIS door te registreren op de gemeenschapslijst van QGIS en rapporteer over uw voortgang. Aarzel niet om vragen te stellen met betrekking tot het instellen en onderhouden van uw lokale gebruikersgroep."
+
+#: ../../source/site/forusers/support.rst:107
+msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
+msgstr "Indien u problemen wilt rapporteren, bekijk :ref:`QGIS-bugreporting`."
+
+#~ msgid ""
+#~ "If you want to file bugs or issues, you need an osgeo ID. You can create an "
+#~ "account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
+#~ "gis/issues"
+#~ msgstr ""
 
 #~ msgid "TODO: write something about the IRC ethiquette?"
 #~ msgstr ""

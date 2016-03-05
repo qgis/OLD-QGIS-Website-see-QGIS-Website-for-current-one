@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Diana Galindo <drgalindog@linuxmail.org>, 2015
+# Eric Armijo, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-01-10 15:30+0000\n"
-"Last-Translator: Diana Galindo <drgalindog@linuxmail.org>\n"
-"Language-Team: Spanish (http://www.transifex.com/projects/p/qgis-website/language/es/)\n"
+"PO-Revision-Date: 2016-02-20 14:00+0000\n"
+"Last-Translator: Eric Armijo\n"
+"Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -31,11 +32,11 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/czech_brno.rst:15
 msgid "QGIS while modeling 3D objects (interpolation), terrain analysis"
-msgstr ""
+msgstr "QGIS mientras se modela objetos 3D (interpolación), análisis de terreno"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:20
 msgid "Use of QGIS"
-msgstr ""
+msgstr "Uso de QGIS"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:22
 msgid ""
@@ -46,25 +47,25 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/czech_brno.rst:24
 msgid "Graphical User Interface (close to commercial products)"
-msgstr ""
+msgstr "Interfaz Gráfico de Usuario (cercano a los productos comerciales)"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:25
 msgid "Quick development and integrating user-wanted features"
-msgstr ""
+msgstr "Desarrollo rápido e integración de características pedidas por el usuario"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:26
 msgid ""
 "Stability and interoperability (we are using Windows and Ubuntu Linux "
 "platforms)"
-msgstr ""
+msgstr "Estabilidad e interoperabilidad (estamos usando plataformas Windows y Ubuntu Linux)"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:27
 msgid "Others (mentioned e.g. in the case study written by Dr. Horst Düster)"
-msgstr ""
+msgstr "Otros (mencionado por ej. en el estudio de caso escrito por Dr. Horst Düster)"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:31
 msgid "Modeling patterns between spatial location and inhabitants"
-msgstr ""
+msgstr "Modelando patrones entre la ubicación espacial y habitantes"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:32
 msgid ""
@@ -86,15 +87,15 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/czech_brno.rst:45
 msgid "Using diagrams comparing population between two censuses"
-msgstr ""
+msgstr "Usando diagramas para comparar población entre dos censos"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:48
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusión"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:53
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:60
 msgid "Jakub Trojan"
@@ -130,7 +131,7 @@ msgstr ""
 msgid ""
 "Spatial analysis are done mainly using basic geoprocessing functions and "
 "Python-based plugins. Recent projects where QGIS was used:"
-msgstr ""
+msgstr "El análisis espacial se hace principalmente usando funciones básicas de geoprocesamiento y complementos basados en Python. Los proyectos recientes en que QGIS se usó:"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:36
 msgid ""
@@ -138,7 +139,7 @@ msgid ""
 "final layout is mostly create using Inkscape or GIMP (less in LibreOffice "
 "Draw). Web-based maps are editing using Inkscape (after SVG export) and "
 "raster maps are pre-edited using GIMP."
-msgstr ""
+msgstr "Se usa QGIS en sinergia con otros productos código abierto. Por ejemplo el diseño final se crea mayormente usando Inkscape o GIMP (menos en LibreOffice Draw). Los mapas basados en web son editados usando Inkscape (después de exportación SVG) y los mapas ráster son pre-editados usando GIMP."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:38
 msgid ""

@@ -1,5 +1,7 @@
 # 
 # Translators:
+# Alessandro Fanna <alex@rospus.org>, 2015
+# amefad <fame@libero.it>, 2015
 # Claudia Zelaschi <cla.zelaschi@gmail.com>, 2014
 # Luca M. <luca76@gmail.com>, 2014
 # Matteo Gismondi <matteo.gismondi@gmail.com>, 2013
@@ -9,22 +11,75 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-01-18 09:35+0000\n"
-"Last-Translator: p0l <paolo.rossini@technicalwriting.tk>\n"
-"Language-Team: Italian (http://www.transifex.com/projects/p/qgis-website/language/it/)\n"
+"POT-Creation-Date: 2013-09-17 08:12\n"
+"PO-Revision-Date: 2015-10-30 22:33+0000\n"
+"Last-Translator: Alessandro Fanna <alex@rospus.org>\n"
+"Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/index.rst:11
-msgid "Welcome to the QGIS project!"
-msgstr "Benvenuti al progetto QGIS!"
+#: ../../source/docs/index.rst:8
+msgid "Documentation"
+msgstr "Documentazione"
 
-#: ../../source/site/index.rst:15
+#: ../../source/docs/index.rst:11
 msgid ""
-"Content is not used, it is overridden by themes/qgis-theme/index.html. TOC "
-"is used."
-msgstr "Il contenuto non viene utilizzato, viene sovrascritto da temi / qgis-theme / index.html. Viene utilizzata la TOC."
+"QGIS has a lot of documentation, partly translated. Please have a look into "
+"one of the documents below."
+msgstr "QGIS ha un sacco di documentazione parzialmente tradotta. Dai uno sguardo ad uno dei documenti seguenti."
+
+#: ../../source/docs/index.rst:29
+msgid "Documentation for QGIS 2.0"
+msgstr "Documentazione per QGIS 2.0"
+
+#: ../../source/docs/index.rst:45
+msgid "Documentation for QGIS 1.8"
+msgstr "Documentazione per QGIS 1.8"
+
+#: ../../source/docs/index.rst:47
+msgid ""
+"We keep a copy of the documentation of QGIS 1.8 around here: "
+"http://docs.qgis.org/1.8"
+msgstr "Abbiamo conservato una copia della documentazione di QGIS 1.8 qui: http://docs.qgis.org/1.8"
+
+#: ../../source/docs/index.rst:60
+msgid "Documentation for QGIS testing"
+msgstr "Documentazione per la versione testing di QGIS"
+
+#: ../../source/docs/index.rst:62
+msgid ""
+"Although not translated we also build the documentation for the release QGIS"
+" which is currently developed. We call this version 'QGIS testing' and "
+"documentation can be found here: http://docs.qgis.org/testing"
+msgstr "Anche se non tradotta, compiliamo la documentazione per la versione di QGIS attualmente in sviluppo. Questa versione è nota come \"QGIS testing\" e la sua documentazione può essere trovata qui: http://docs.qgis.org/testing"
+
+#: ../../source/docs/index.rst:15
+msgid "Documentation for QGIS 2.2"
+msgstr "Documentazione su QGIS 2.2"
+
+#: ../../source/docs/index.rst:31
+msgid ""
+"We keep a copy of the documentation of QGIS 2.0 around here: "
+"http://docs.qgis.org/2.0"
+msgstr "Abbiamo conservato una copia della documentazione di QGIS 2.0 qui: http://docs.qgis.org/2.0"
+
+#~ msgid ""
+#~ "If you do not see working links to documentation above, it means that this "
+#~ "documentation build did not copy the documentation sources into the website "
+#~ "sources. You can also go to http://docs.qgis.org/2.0"
+#~ msgstr ""
+
+#~ msgid "Documentation for QGIS development/nightly"
+#~ msgstr ""
+
+#~ msgid "TBD"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you do not see working links to documentation above, it means that this "
+#~ "documentation build did not copy the documentation sources into the website "
+#~ "sources. See ..."
+#~ msgstr ""

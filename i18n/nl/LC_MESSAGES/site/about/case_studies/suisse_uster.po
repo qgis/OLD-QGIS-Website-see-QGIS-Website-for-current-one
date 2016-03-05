@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Dick Groskamp, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-17 14:02+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Dutch <qgis-tr@lists.osgeo.org>\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2015-11-30 12:32+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:3
 msgid "The use of QGIS in the Geodata Infrastructure of the City of Uster"
-msgstr ""
+msgstr "Het gebruiken van QGIS in de infrastructuur voor geogegevens in de stad Uster"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:5
 msgid ""
@@ -27,7 +28,7 @@ msgid ""
 "new features and by financially supporting the development. In return Uster "
 "receives a rapidly evolving and platform independent Desktop GIS and WebGIS "
 "solution backed by a worldwide user and development community."
-msgstr ""
+msgstr "De stad Uster gebruikt QGIS sinds 2007. Aangemoedigd door de beslissing van het kanton Solothurn om QGIS te gebruiken als Desktop GIS als vervanging voor ArcView, Uster besloot om et ook een kans te geven. De stad sloot aan bij de inspanningen voor verdere ontwikkeling van de toepassing QGIS, door nieuwe mogelijkheden voor te stellen en te testen en door de ontwikkeling financieel te steunen. Als tegenprestatie ontving Uster een snel evoluerend en platformonafhankelijk Desktop GIS en oplossing voor WebGIS, gesteund door een wereldwijde gebruikers- en ontwikkelgemeenschap."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
@@ -42,7 +43,7 @@ msgid ""
 "(University of Berne)) we coordinate and sponsor the improvements of these "
 "tools, along with some improvements in data driven symbolization, automated "
 "labeling, attribute handling and forms."
-msgstr ""
+msgstr "Postgis/PostgreSQL wordt gebruikt als centrale opslag voor geogegevens. Andere databases en gegevensbronnen worden gerepliceerd naar PostgreSQL met een regelmatige, met behulp van gereedschappen als OGR en FME. In het begin werd QGIS voornamelijk gebruikt als een viewer. De eerste QGIS-gebruiker was een boer die de taak had om de declaraties die werden ingediend door lokale boeren voor het ontvangen van landbouwsubsidies te controleren. Later werd QGIS ook geïntroduceerd als een gegevensbewerker en platform voor het publiceren van kaarten, tezamen met de verbeteringen aan de gereedschappen voor bewerken en de printvormgeving. Samenmet andere Zwitserse QGIS-gebruikers (Solothurn, Thun en CDE (Universiteit van Bern)) coördineren en sponsoren wij de verbeteringen van deze gereedschappen, naast enkele verbeteringen in de door gegevens gestuurde symbolisering, geautomatiseerd labelen, afhandeling van attributen en formulieren."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
@@ -52,7 +53,7 @@ msgid ""
 "electricity networks. However, these are expert systems in use by specially "
 "trained staff. All other GIS projects and the viewing of all data is handled"
 " by QGIS."
-msgstr ""
+msgstr "De stadsadministratie gebruikt ook commerciële GIS software: Autodesk Topobase, voor het vastleggen en bewerken van gegevens van de kadastrale en afvalwater-infrastructuur, en GE Smallworld voor het beheren van netwerken voor gas, water en elektriciteit. Dit zijn echter expertsystemen die in gebruik zijn bij speciaal getrainde werknemers. Alle andere GIS-projecten en het bekijken van alle gegevens wordt afgehandeld door QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:21
 msgid ""
@@ -65,61 +66,54 @@ msgid ""
 "rich set of symbolization and labeling options and the consistent map "
 "rendering between the Desktop GIS application and the Web-GIS. The QGIS "
 "webclient can be tested and used at http://gis.uster.ch/"
-msgstr ""
+msgstr "In de tweede helft van 2010 werden de eerste testen met QGIS-server uitgevoerd. In 2011 introduceerden we een nieuw WebGIS-systeem, gebaseerd op de QGIS WMSserver en GeoExt/OpenLayers als de webcliënt. De voornaamste reden voor de beslissing om QGIS-server te gebruiken was de aanzienlijke besparing in tijd die mogelijk was door de bestaande projectconfiguraties voor QGIS desktop opnieuw te kunnen gebruiken, in plaats van het beheren van parallelle Web projectconfiguraties. Aanvullende voordelen waren de rijke set voor symbologie en opties voor labelen en het consistente renderen van kaarten tussen de toepassing voor de Desktop GIS en de Web-GIS. De QGIS webcliënt kan worden getest en gebruikt op http://gis.uster.ch/"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:28
 msgid "Today, QGIS is used for the following GIS projects:"
-msgstr ""
+msgstr "Tegenwoordig wordt QGIS gebruikt voor de volgende GIS-projecten:"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:30
 msgid ""
 "viewing of waste-water data, integration of additional databases and direct "
 "access to canal videos and inspection protocols"
-msgstr ""
+msgstr "bekijken van gegevens voor afvalwater, integratie van aanvullende databases en directe toegang tot video's van afvoerkanalen en protocollen voor inspectie"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:31
 msgid ""
 "viewing and editing for monitoring and the environmental and urban planning "
 "of the waste water and hydrology systems (german: Genereller "
 "Entwässerungsplan)"
-msgstr ""
+msgstr "bekijken en bewerken voor het monitoren en de milieutechnische en stedelijke planning van afvalwater en hydrologische systemen (Duits: Genereller Entwässerungsplan)"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:32
 msgid ""
 "viewing of underground cadastral data (waste water, water, gas and "
 "electricity networks, later also telecommunication) (german: "
 "Leitungskataster)"
-msgstr ""
+msgstr "bekijken van ondergrondse kadastrale gegevens (afvalwater, netwerken voor water, gas en elektriciteit, later ook telecommunicatie) (Duits: Leitungskataster)"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:33
 msgid "viewing of cadastral and survey data"
-msgstr ""
+msgstr "bekijken van kadastrale en onderzoeksgegevens"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:34
 msgid ""
 "viewing and editing of the communal inventory of protected natural sites"
-msgstr ""
+msgstr "bekijken en bewerken van de communale inventaris van beschermde natuurgebieden"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:35
 msgid "viewing and editing of urban and regional planning data"
-msgstr ""
+msgstr "bekijken en bewerken van gegevens voor stedelijke en regionale planning"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:36
 msgid "viewing and editing of road infrastructure data"
-msgstr ""
+msgstr "bekijken en bewerken van gegevens van de infrastructuur voor wegen"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:37
 msgid ""
 "viewing statistics generated directly from the database of current and past "
 "residents"
-msgstr ""
-
-#: ../../source/site/about/case_studies/suisse_uster.rst:39
-msgid ""
-"Planning and visualization for energy planning (gas supply regions, heat use"
-" from waste water, near-surface geothermal energy, block heating stations, "
-"etc.) Additional further projects are currently under development."
-msgstr ""
+msgstr "bekijken van statistieken, direct gegenereerd vanuit de database voor huidige en oudere inwoners"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:47
 msgid ""
@@ -132,7 +126,7 @@ msgid ""
 "product management or sales team. The developers of these two companies are "
 "also lead developers of the QGIS project and have excellent knowledge of the"
 " code base."
-msgstr ""
+msgstr "In 2007 was nog niet geheel duidelijk met welke snelheid QGIS verder zou worden ontwikkeld en hoe zowel de gemeenschap als de commerciële ondersteuning zou evolueren. Vandaag kan worden gezegd dat de snelheid van ontwikkeling en de door de gemeenschap van QGIS gemaakte verbeteringen onze verwachtingen overtroffen. Gemeenschap en commerciële ondersteuning van de bedrijven Sourcepole en Norbit is fantastisch. Er is directe communicatie met ontwikkelaars zonder te worden afgeschermd door productmanagement of verkoopteam. De ontwikkelaars van deze twee bedrijven zijn ook hoofdontwikkelaars van het project QGIS en hebben een uitstekende kennis van de codebasis."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:49
 msgid ""
@@ -145,18 +139,35 @@ msgid ""
 " having to deal with licensing management. We are looking forward to future "
 "collaboration with the QGIS community and our commercial supporters for the "
 "advancement of the QGIS project."
-msgstr ""
+msgstr "Problemen worden vaak binnen uren of dagen na het melden opgelost en nieuwe ontwikkelen worden binnen een kort tijdframe geïmplementeerd. Nieuwe mogelijkheden kunnen direct worden getest nadat ze zijn ontwikkeld en zijn uitgezet voor de gebruikers als de kwaliteit goed genoeg is voor de eindgebruiker. Er is geen reden om te wachten op officiële uitgaven van de software. We waarderen de vrijheid om het project te kunnen beïnvloeden en de software te kunnen installeren op zoveel computers als we willen zonder afhankelijk te zijn van het beheer van licenties. We kijken uit naar de toekomstige samenwerking met de gemeenschap van QGIS en onze commerciële ondersteuners voor de voortgang van het project QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:52
 msgid "Author"
-msgstr ""
+msgstr "Auteur"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:59
 msgid "Andreas Neumann"
-msgstr ""
+msgstr "Andreas Neumann"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:61
 msgid ""
 "This article was contributed in April 2011 by Dr. Andreas Neumann. He is GIS"
 " coordinator at the City of Uster, Switzerland."
-msgstr ""
+msgstr "Dit artikel werd bijgedragen in april 2011 door Dr. Andreas Neumann. Hij is de GIS-coördinator van de stad Uster, Zwitserland."
+
+#: ../../source/site/about/case_studies/suisse_uster.rst:38
+msgid ""
+"planning and visualization for energy planning (gas supply regions, heat use"
+" from waste water, near-surface geothermal energy, block heating stations, "
+"etc.)"
+msgstr "planning en visualisatie voor planning van energie  (regionale gasvoorziening, gebruiken van warmte uit afvalwater, geothermische energie nabij oppervlakte, blokverwarming van stations, etc.)"
+
+#: ../../source/site/about/case_studies/suisse_uster.rst:40
+msgid "Additional further projects are currently under development."
+msgstr "Aanvullende projecten zijn momenteel in ontwikkeling."
+
+#~ msgid ""
+#~ "Planning and visualization for energy planning (gas supply regions, heat use"
+#~ " from waste water, near-surface geothermal energy, block heating stations, "
+#~ "etc.) Additional further projects are currently under development."
+#~ msgstr ""

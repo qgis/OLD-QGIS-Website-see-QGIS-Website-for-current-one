@@ -1,140 +1,25 @@
 # 
 # Translators:
-# Jürgen E. Fischer <jef@norbit.de>, 2014
+# Jürgen E. Fischer <jef@norbit.de>, 2014-2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-25 18:22+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
-"Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
+"PO-Revision-Date: 2015-09-08 07:39+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:3
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:2
 msgid "Reimbursements for Developer Meetings"
 msgstr "Kostenerstattung für Entwicklertreffen"
 
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:14
-msgid ""
-"In the past, the policy was that funding will only be directly provided to "
-"'core' committers and community members of the project. However with "
-"increased funding through donations and our sponsorship programme, and a "
-"desire to promote new developers to get involved in the project, this policy"
-" has been updated as described below."
-msgstr "In der Vergangenheit wurde finanzielle Förderungen nur `Kernentwicklern` und Mitglieder der Projektgemeinde zu Teil. Jedoch wurde, weil durch Spenden und unserer Sponsorenprogramm mehr Mittel zusammengekommen sind und den Wunsch neue Entwickler zur Teilnahme am Projekt zu motivieren, die Vorgehensweise wie folgt geändert. "
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:20
-msgid ""
-"The term 'developer' in this document refers to any person who contributes "
-"time and effort to the advancement of the project (e.g. through "
-"documentation, infrastructure maintenance, coding, administration etc.)"
-msgstr "Der Begriff `Entwickler' in diesem Dokument bezieht sich auf jede Person, die Zeit und Arbeit zum Projektfortschritt beiträgt (z.B. durch Dokumentation, Wartung der Infrastruktur, Programmierung, Administration usw.)"
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:25
-msgid "Policy for disbursement of funds to individual developers"
-msgstr "Vorgehensweise für Ausgabe von Mitteln an einzelne Entwickler"
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:27
-msgid ""
-"The project steering committee shall provide arbitration for any query, "
-"complaint or appeal relating to funding requests by individual developers. "
-"In the event that the PSC is called apon to arbitrate, a resolution shall be"
-" proposed and the PSC members shall vote using the -1 / 0 / +1 system to "
-"indicate dissent, indifference and assent respectively. In the event of a "
-"tie-break, the PSC Chairman shall make the final decision. The devision made"
-" by the PSC shall be final."
-msgstr "Das Projektsteuerungskommitee (PSC) muß Entscheidungen zu jeder Anfrage, Beschwerde oder Bitte zu Förderungsanträge von einzelnen Entwicklern fällen.  Zu diesem Zweck soll eine Lösung vorgeschlagen und über das -1 / 0 / +1 System abgestimmt werden  (Ablehnung, Enthaltung, Zustimmung).  Der PSC-Vorsitzende trifft die entgültige Entscheidung. Die Entscheidung des PSC ist entgültig."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:34
-msgid ""
-"Individual applications from non-core developers (i.e. those who do not have"
-" direct commit access to the QGIS repositories) of EUR200 or less may be "
-"decided on by the nominated PSC member without requiring a full PSC vote."
-msgstr "Einzelne Bewerbungen von Nicht-Kern-Entwicklern (d.h. jemandem der kein Commit-Recht auf QGIS-Repositorien hat) für bis zu 200 EUR können vom nominierten PSC-Mitglied ohne die Notwendigkeit einer Abstimmung entschieden werden."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:37
-msgid ""
-"Individual applications from core-developers may be granted based on "
-"precident directly by the PSC Financial Representative (Paolo Cavallini). In"
-" the event of any uncertainty on his part, he may bring the matter to the "
-"PSC for a vote."
-msgstr "Einzelne Bewerbungen von Kern-Entwicklern können vom PSC-Finanzmitglied (Paolo Cavallini) direkt genehmigt werden. Falls er unsicher ist, kann er sie dem PSC zur Abstimmung vorlegen."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:41
-msgid "All funding requests should be made **before** the meeting event."
-msgstr "Alle Förderanträge müssen **vor** dem Treffen gestellt werden."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:42
-msgid ""
-"Funding may be limited due to budgetary constraints, in which case funding "
-"will be provided on a first-come first-served basis."
-msgstr "Die Förderung kann durch Budgetierung beschränkt sein, in diesem Fall wird in Reihenfolge der Anträge entschieden."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:44
-msgid ""
-"The PSC / PSC Finance Chair may offer to provide partial funding where "
-"funding resources are limited."
-msgstr "Das PSC / PSC Finanzvorstand kann teilweise Förderung anbieten, wenn nur begrenzte Mittel vorhanden sind."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:46
-msgid ""
-"The PSC Financial Chair shall maintain complete financial records of what "
-"disbursements were made and to whom and these should be available on request"
-" to the PSC."
-msgstr "Der PSC-Finanzvorstand muß vollständige Finanzunterlagen zur den gemachten Förderausgaben und an wen diese erfolgten vorhalten und sie dem PSC auf Anfrage verfügbar machen."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:52
-msgid "Procedure for funding applications - core developers"
-msgstr "Vorgehensweise für die Förderanträge - Kern-Entwickler"
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:54
-msgid ""
-"A request for funding email should be submitted to the PSC Financial Chair "
-"before the event."
-msgstr "Ein Förderantrag muß beim PSC-Finanzvorstand vor dem Ereignis per E-Mail eingereicht werden. "
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:56
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:73
-msgid ""
-"The request should include the number of days that the developer will "
-"attend."
-msgstr "Der Antrag sollte die Anzahl der Tage, an denen der Entwickler teilnimmt, enthalten."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:57
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:74
-msgid ""
-"The request should include an expense breakdown covering travel and "
-"accommodation."
-msgstr "Der Antrag sollte eine Aufstellung der Ausgaben für Reise und Unterkunft enthalten."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:65
-msgid "Procedure for funding applications - new developers"
-msgstr "Vorgehensweise für Förderanträge - Neue Entwickler"
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:67
-msgid ""
-"A request for funding email should be submitted to the PSC Member designated"
-" to review funding requests **before** the meeting."
-msgstr "Ein Förderantrag muß beim PSC-Finanzvorstand **vor** dem Treffen per E-Mail eingereicht werden. "
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:69
-msgid ""
-"If the requestor is not happy with the funding requests reviewer's decision,"
-" they may request arbitration from the PSC as a whole."
-msgstr "Wenn der Antragsteller nicht mit der Entscheidung des Finanzvorstands einverstanden ist, kann er die Entscheidung des PSC als Ganzes verlangen."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:71
-msgid ""
-"The request should include a **workplan** outlining how the developer plans "
-"to make use of their time at the meeting."
-msgstr "Der Antrag sollte einen **Arbeitsplan** enthalten, der darlegt wie der Entwickler seine Zeit beim Treffen verwenden will."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:5
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:4
 msgid ""
 "The QGIS project holds twice-yearly developer meetings, typically somewhere "
 "in Europe. The purpose of the meetings is to provide face-to-face time for "
@@ -147,13 +32,187 @@ msgid ""
 "directly."
 msgstr "Das QGIS-Projekte veranstaltet zweimal jährlich Entwicklertreffen, typischerweise irgendwo in Europa.Der Zweck dieser Treffen ist den Entwicklern Zeit in Angesicht zu ermöglichen. Es ist ein Forum für neue Ideen, Planungen und sich zur Lösung von Problem usw. zusammenzusetzen. Wir nutzen dazu Mittel aus unserem :doc:`../sponsorship/index` mit weiteren Mitteln der Gastgeber, die normalerweise für den Veranstaltungsort und die Infrastruktur aufkommen. Die Entwickler bringen ihre Zeit ein und kommen in vielen Fällen auch für ihren Besuch selbst auf."
 
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:59
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:76
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:14
+msgid "Need a refund for QGIS HF expenses?"
+msgstr "Möchten Sie QGIS-HF-Aufwendung erstattet haben?"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:25
+msgid "In case of doubt"
+msgstr "Im Zweifel"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:16
 msgid ""
-"The requestor should provide copies of receipts for all expenditures as soon"
-" as possible after the event. No refunds should be made without accompanying"
-" receipts."
-msgstr "Der Antragsteller sollte so früh als möglich nach der Veranstaltung Belegkopien für alle Ausgaben einreichen. Es werden keine Auszahlungen ohne die dazugehörigen Belege getätigt."
+"If you are a contributor to the project (to either code, documentation, "
+"translation, or infrastructure), you think your participation to the HF will"
+" be useful for the project, and you do not have funds to cover for "
+"travelling and lodging, you can apply for refund, at least 40 days in "
+"advance"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:17
+msgid ""
+"When applying, please let us know (i) an estimate of the total amount "
+"required, and (ii) how your participation will contribute to QGIS"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:18
+msgid ""
+"Later applications (<40 days) will be taken into account, based on the "
+"budget available and the priorities of the PSC"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:19
+msgid ""
+"Please note that our funds are limited, so we'll generally not be able to "
+"refund all participants"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:20
+msgid ""
+"Core devs (anyone with direct commit rights to the repository) and psc "
+"members will have priority on the allocation of funds"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:21
+msgid ""
+"At least 30 days in advance, PSC will communicate a decision to all those "
+"who applied"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:22
+msgid ""
+"The refund will be sent to your bank account after the HF, on the basis of "
+"the bills actually paid and sent to our Treasurer."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:27
+msgid ""
+"The project steering committee shall provide arbitration for any query, "
+"complaint or appeal relating to funding requests by individual developers. "
+"In the event that the PSC is called apon to arbitrate, a resolution shall be"
+" proposed and the PSC members shall vote using the -1 / 0 / +1 system to "
+"indicate dissent, indifference and assent respectively. In the event of a "
+"tie-break, the PSC Chairman shall make the final decision. The decision made"
+" by the PSC shall be final."
+msgstr ""
+
+#~ msgid ""
+#~ "The project steering committee shall provide arbitration for any query, "
+#~ "complaint or appeal relating to funding requests by individual developers. "
+#~ "In the event that the PSC is called apon to arbitrate, a resolution shall be"
+#~ " proposed and the PSC members shall vote using the -1 / 0 / +1 system to "
+#~ "indicate dissent, indifference and assent respectively. In the event of a "
+#~ "tie-break, the PSC Chairman shall make the final decision. The devision made"
+#~ " by the PSC shall be final."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "1.If you are a contributor to the project (to either code, documentation, "
+#~ "translation, or infrastructure), you think your participation to the HF will"
+#~ " be useful for the project, and you do not have funds to cover for "
+#~ "travelling and lodging, you can apply for refund, at least 40 days in "
+#~ "advance 2. When applying, please let us know (i) an estimate of the total "
+#~ "amount required, and (ii) how your participation will contribute to QGIS 3. "
+#~ "Later applications (<40 days) will be taken into account, based on the "
+#~ "budget available and the priorities of the PSC 4. Please note that our funds"
+#~ " are limited, so we'll generally not be able to refund all participants 5. "
+#~ "Core devs (anyone with direct commit rights to the repository') and psc "
+#~ "members will have priority on the allocation of funds 6. At least 30 days in"
+#~ " advance, PSC will communicate a decision to all those who applied 7. The "
+#~ "refund will be sent to your bank account after the HF, on the basis of the "
+#~ "bills actually paid and sent to our Treasurer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the past, the policy was that funding will only be directly provided to "
+#~ "'core' committers and community members of the project. However with "
+#~ "increased funding through donations and our sponsorship programme, and a "
+#~ "desire to promote new developers to get involved in the project, this policy"
+#~ " has been updated as described below."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The term 'developer' in this document refers to any person who contributes "
+#~ "time and effort to the advancement of the project (e.g. through "
+#~ "documentation, infrastructure maintenance, coding, administration etc.)"
+#~ msgstr ""
+
+#~ msgid "Policy for disbursement of funds to individual developers"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Individual applications from non-core developers (i.e. those who do not have"
+#~ " direct commit access to the QGIS repositories) of EUR200 or less may be "
+#~ "decided on by the nominated PSC member without requiring a full PSC vote."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Individual applications from core-developers may be granted based on "
+#~ "precident directly by the PSC Financial Representative (Paolo Cavallini). In"
+#~ " the event of any uncertainty on his part, he may bring the matter to the "
+#~ "PSC for a vote."
+#~ msgstr ""
+
+#~ msgid "All funding requests should be made **before** the meeting event."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Funding may be limited due to budgetary constraints, in which case funding "
+#~ "will be provided on a first-come first-served basis."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The PSC / PSC Finance Chair may offer to provide partial funding where "
+#~ "funding resources are limited."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The PSC Financial Chair shall maintain complete financial records of what "
+#~ "disbursements were made and to whom and these should be available on request"
+#~ " to the PSC."
+#~ msgstr ""
+
+#~ msgid "Procedure for funding applications - core developers"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A request for funding email should be submitted to the PSC Financial Chair "
+#~ "before the event."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The request should include the number of days that the developer will "
+#~ "attend."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The request should include an expense breakdown covering travel and "
+#~ "accommodation."
+#~ msgstr ""
+
+#~ msgid "Procedure for funding applications - new developers"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A request for funding email should be submitted to the PSC Member designated"
+#~ " to review funding requests **before** the meeting."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If the requestor is not happy with the funding requests reviewer's decision,"
+#~ " they may request arbitration from the PSC as a whole."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The request should include a **workplan** outlining how the developer plans "
+#~ "to make use of their time at the meeting."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The requestor should provide copies of receipts for all expenditures as soon"
+#~ " as possible after the event. No refunds should be made without accompanying"
+#~ " receipts."
+#~ msgstr ""
 
 #~ msgid ""
 #~ "The Quantum GIS project holds twice-yearly developer meetings, typically "

@@ -6,22 +6,75 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-03-01 09:49+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
-"Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
+"POT-Creation-Date: 2013-09-17 08:12\n"
+"PO-Revision-Date: 2015-08-19 06:59+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
-#: ../../source/site/index.rst:11
-msgid "Welcome to the QGIS project!"
-msgstr "Bine ați venit la proiectul QGIS!"
+#: ../../source/docs/index.rst:8
+msgid "Documentation"
+msgstr "Documentație"
 
-#: ../../source/site/index.rst:15
+#: ../../source/docs/index.rst:11
 msgid ""
-"Content is not used, it is overridden by themes/qgis-theme/index.html. TOC "
-"is used."
-msgstr "Conținutul nu este folosit, fiind înlocuită de themes/qgis-theme/index.html. Se folosește cuprinsul."
+"QGIS has a lot of documentation, partly translated. Please have a look into "
+"one of the documents below."
+msgstr "QGIS dispune de foarte multă documentație, parțial tradusă. Vă rugăm să aruncați o privire într-unul din documentele de mai jos."
+
+#: ../../source/docs/index.rst:29
+msgid "Documentation for QGIS 2.0"
+msgstr "Documentație pentru QGIS 2.0"
+
+#: ../../source/docs/index.rst:45
+msgid "Documentation for QGIS 1.8"
+msgstr "Documentație pentru QGIS 1.8"
+
+#: ../../source/docs/index.rst:47
+msgid ""
+"We keep a copy of the documentation of QGIS 1.8 around here: "
+"http://docs.qgis.org/1.8"
+msgstr "Păstrăm o copie a documentației de QGIS 1.8 aici: http://docs.qgis.org/1.8"
+
+#: ../../source/docs/index.rst:60
+msgid "Documentation for QGIS testing"
+msgstr "Documentație pentru testarea QGIS"
+
+#: ../../source/docs/index.rst:62
+msgid ""
+"Although not translated we also build the documentation for the release QGIS"
+" which is currently developed. We call this version 'QGIS testing' and "
+"documentation can be found here: http://docs.qgis.org/testing"
+msgstr "Deși nu este tradusă, am elaborat deja documentația pentru versiunea de QGIS care se află în dezvoltare în prezent. Această versiune este denumită 'QGIS pentru testare', a cărui documentație poate fi găsită aici: http://docs.qgis.org/testing"
+
+#: ../../source/docs/index.rst:15
+msgid "Documentation for QGIS 2.2"
+msgstr "Documentație pentru QGIS 2.2"
+
+#: ../../source/docs/index.rst:31
+msgid ""
+"We keep a copy of the documentation of QGIS 2.0 around here: "
+"http://docs.qgis.org/2.0"
+msgstr "Păstrăm o copie a documentației pentru QGIS 2.0 aici: http://docs.qgis.org/2.0"
+
+#~ msgid ""
+#~ "If you do not see working links to documentation above, it means that this "
+#~ "documentation build did not copy the documentation sources into the website "
+#~ "sources. You can also go to http://docs.qgis.org/2.0"
+#~ msgstr ""
+
+#~ msgid "Documentation for QGIS development/nightly"
+#~ msgstr ""
+
+#~ msgid "TBD"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you do not see working links to documentation above, it means that this "
+#~ "documentation build did not copy the documentation sources into the website "
+#~ "sources. See ..."
+#~ msgstr ""

@@ -1,13 +1,14 @@
 # 
 # Translators:
-# Zoltan Siki <siki@agt.bme.hu>, 2015
+# Faludi Zoltán, 2015
+# Zoltan Siki <siki@agt.bme.hu>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2015-08-19 07:00+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2016-01-02 07:25+0000\n"
+"Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,23 +24,23 @@ msgstr "QGIS oktató anyag"
 msgid ""
 "In this directory page, you can get listed if you provide FREE training "
 "material for QGIS."
-msgstr ""
+msgstr "Ezen a könyvtárlapon megjelenhetsz, ha SZABAD oktató anyagot teszel közzé a QGIS-hez."
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:14
 msgid "The general idea is to be able to (re)use material from each other."
-msgstr ""
+msgstr "Az alapötlet, az volt, hogy egy más anyagait (újra) fel tudjuk használni."
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:16
 msgid ""
 "Educators are encouraged to use/mix/add material to the QGIS Training "
 "Manual."
-msgstr ""
+msgstr "Az oktatókat bátorítjuk, hogy a QGIS oktatási kézikönyvet használják/részben használják/bővítsék."
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:18
 msgid ""
 "Please write to richard@qgis.org if you want to have something added here. "
 "Or you edit this page in github and do a pull request."
-msgstr ""
+msgstr "Ha valamit közzétennél itt, akkor írj a richard@qgis.org címre. Vagy akár te is szerkesztheted ezt az oldalt a githubon és csak egy pull request-et kell csinálnod."
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:23
 msgid "English"
@@ -49,39 +50,45 @@ msgstr "Angol"
 msgid ""
 "The official Training Manual can be found here: "
 "http://docs.qgis.org/latest/en/docs/training_manual/index.html"
-msgstr ""
+msgstr "A hivatalos oktatási kézikönyv itt található: http://docs.qgis.org/latest/en/docs/training_manual/index.html"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:28
 msgid ""
 "Tutorial material, originally developed as part of a workshop for the "
 "Ecology and Evolutionary Biology Program at Texas A&M University (produced "
 "and maintained by Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:43
-msgid "German"
-msgstr ""
+msgstr "Oktató anyag, melyet eredetileg az Texas A&M egyetemen az Ekológiai és Evolúciós Biológiai programban tartott workshop részére dolgozták ki (készítette és működteti Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:46
+msgid "German"
+msgstr "Dokumentáció íróvá válni"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:49
 msgid "HSR material: http://giswiki.hsr.ch/QGIS-Materialien"
-msgstr ""
+msgstr "HSR anyag: http://giswiki.hsr.ch/QGIS-Materialien"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:33
 msgid "French"
-msgstr ""
+msgstr "Francia"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:35
 msgid ""
 "The French Ministry of Environment supports the QGIS project. Training "
 "material from them is available here: http://www.geoinformations"
 ".developpement-durable.gouv.fr/qgis-supports-pedagogiques-r947.html"
-msgstr ""
+msgstr "A Francia Környezetvédelmi Minisztérium támogatja a QGIS projektet. Az oktató anyagaikat itt lehet elérni: http://www.geoinformations.developpement-durable.gouv.fr/qgis-supports-pedagogiques-r947.html"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:38
 msgid ""
 "Other resources from them are available here: http://www.geoinformations"
 ".developpement-durable.gouv.fr/qgis-r625.html"
-msgstr ""
+msgstr "További, tőlük számazó anyagot itt lehet találni: http://www.geoinformations.developpement-durable.gouv.fr/qgis-r625.html"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:41
+msgid ""
+"The french National Center for Scientific Research (CNRS), created an online"
+" QGIS tutorial: http://www.ades.cnrs.fr/tutoqgis/index.php"
+msgstr "A francia  National Center for Scientific Research (CNRS), létrehozott egy online oktatóanyagot: http://www.ades.cnrs.fr/tutoqgis/index.php"
 
 #~ msgid "Courses from foss4geo: http://foss4geo.wordpress.com/gst-101/"
 #~ msgstr ""

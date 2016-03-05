@@ -5,18 +5,14 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-09-17 15:02+0000\n"
+"PO-Revision-Date: 2015-10-30 11:18+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
-"Language-Team: Japanese (http://www.transifex.com/projects/p/qgis-website/language/ja/)\n"
+"Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: ../../source/site/about/features.rst:2
-msgid "Features of QGIS"
-msgstr "QGISの特徴"
 
 #: ../../source/site/about/features.rst:5
 msgid "QGIS Desktop"
@@ -92,3 +88,10 @@ msgstr "AndroidデバイスでQGISを動作させることもできます.カレ
 #: ../../source/site/about/features.rst:64
 msgid "A screenshot of QGIS on Android"
 msgstr "Android版QGISのスクリーンショット"
+
+#: ../../source/site/about/features.rst:2
+msgid "QGIS Applications"
+msgstr ""
+
+#~ msgid "Features of QGIS"
+#~ msgstr ""

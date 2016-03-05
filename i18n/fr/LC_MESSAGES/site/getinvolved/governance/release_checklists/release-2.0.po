@@ -5,14 +5,15 @@
 # Sant-anna <delazj@gmail.com>, 2013
 # Robin Cura <robin.cura@gmail.com>, 2013
 # Robin PREST <robin@georezo.net>, 2013
+# Sant-anna <delazj@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-26 08:26+0000\n"
-"Last-Translator: Guy BARA <bara.guy@gmail.com>\n"
-"Language-Team: French (http://www.transifex.com/projects/p/qgis-website/language/fr/)\n"
+"PO-Revision-Date: 2015-08-19 07:01+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -121,7 +122,7 @@ msgstr "Mise à jour de haut niveau de CMakeLists.txt avec nom de sortie et vers
 msgid ""
 "|checkbox_unchecked| Update the About -> authors panel with a more recent "
 "hackfest image"
-msgstr "|checkbox_unchecked|Mettre à jour l'onglet A propos -> Auteurs avec une image plus récente du hackfest"
+msgstr "|checkbox_unchecked| Mise à jour de l'onglet A propos -> Auteurs avec une image plus récente du hackfest"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:43
 msgid ""
@@ -398,11 +399,11 @@ msgstr "|checkbox_unchecked| Téléchargement svn de la version mise à jour"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:170
 msgid "|checkbox_unchecked| download page updated"
-msgstr "|checkbox_unchecked|Télécharger la page mise à jour"
+msgstr "|checkbox_unchecked| Télécharger la page mise à jour"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:171
 msgid "|checkbox_unchecked| screenshots updated"
-msgstr "|checkbox_unchecked|Captures d'écran mises à jour"
+msgstr "|checkbox_unchecked| Captures d'écran mises à jour"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:173
 msgid ""
@@ -689,7 +690,7 @@ msgid ""
 "The file accessed from the :menuselection:`Help --> Check QGIS Version` menu"
 " is located at http://qgis.org/version.txt. This should be updated to "
 "reflect the current release."
-msgstr "Le fichier consulté depuis le menu :menuselection:`Aide --> Vérifiez la version de QGIS`est situé à l'adresse http://qgis.org/version.txt. Celui-ci devrait être actualisé pour correspondre à la version actuelle."
+msgstr "Le fichier consulté depuis le menu :menuselection:`Aide --> Vérifier la version de QGIS` est situé à l'adresse http://qgis.org/version.txt. Celui-ci devrait être actualisé pour correspondre à la version actuelle."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:399
 msgid "Create an announcement template"

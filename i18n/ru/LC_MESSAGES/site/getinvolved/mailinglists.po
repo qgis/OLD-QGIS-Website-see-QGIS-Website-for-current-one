@@ -1,19 +1,19 @@
 # 
 # Translators:
-# Марина Павлова <pavlova.marina.v@gmail.com>, 2014
+# Марина Павлова <pavlova.marina.v@gmail.com>, 2014-2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-12-02 11:07+0000\n"
-"Last-Translator: Марина Павлова <pavlova.marina.v@gmail.com>\n"
-"Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
+"PO-Revision-Date: 2015-08-19 07:01+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Russian (http://www.transifex.com/qgis/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: ../../source/site/getinvolved/mailinglists.rst:6
 msgid "Mailinglists"
@@ -25,7 +25,7 @@ msgstr "Существует ряд списков рассылки по QGIS."
 
 #: ../../source/site/getinvolved/mailinglists.rst:12
 msgid "QGIS users list"
-msgstr "QGIS users list"
+msgstr "Пользовательский список рассылки QGIS"
 
 #: ../../source/site/getinvolved/mailinglists.rst:14
 msgid "The main list for user questions:"
@@ -37,7 +37,7 @@ msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-user"
 
 #: ../../source/site/getinvolved/mailinglists.rst:29
 msgid "QGIS developers list"
-msgstr "QGIS developers list"
+msgstr "Список рассылки для разработчиков QGIS"
 
 #: ../../source/site/getinvolved/mailinglists.rst:31
 msgid ""
@@ -50,7 +50,7 @@ msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-developer"
 
 #: ../../source/site/getinvolved/mailinglists.rst:38
 msgid "QGIS community team"
-msgstr "QGIS community team"
+msgstr "Команда QGIS community team"
 
 #: ../../source/site/getinvolved/mailinglists.rst:40
 msgid "List for managing the community: websites, documentation etc"
@@ -62,11 +62,11 @@ msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-community-team"
 
 #: ../../source/site/getinvolved/mailinglists.rst:47
 msgid "QGIS translation"
-msgstr "QGIS translation"
+msgstr "Перевод QGIS"
 
 #: ../../source/site/getinvolved/mailinglists.rst:49
 msgid "List for translators of either the website, or the QGIS itself"
-msgstr "Список раасылки для переводчиков вебсайта или самой QGIS"
+msgstr "Список рассылки для переводчиков веб-сайта или самой QGIS"
 
 #: ../../source/site/getinvolved/mailinglists.rst:52
 msgid "http://lists.osgeo.org/mailman/listinfo/qgis-tr"
@@ -74,7 +74,7 @@ msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-tr"
 
 #: ../../source/site/getinvolved/mailinglists.rst:56
 msgid "QGIS education"
-msgstr "QGIS education"
+msgstr "Обучение QGIS"
 
 #: ../../source/site/getinvolved/mailinglists.rst:58
 msgid "http://lists.osgeo.org/pipermail/qgis-edu/"
@@ -98,13 +98,13 @@ msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-psc"
 
 #: ../../source/site/getinvolved/mailinglists.rst:20
 msgid "QGIS UX (User Experience) list"
-msgstr ""
+msgstr "Список рассылки пользовательского опыта QGIS"
 
 #: ../../source/site/getinvolved/mailinglists.rst:22
 msgid ""
 "A dedicated mailing list where people can chime in and collect and discuss "
 "QGIS related UX (User Experience) / usability issues."
-msgstr ""
+msgstr "Выделенный список рассылки, на который могут подписаться люди для сбора и обсуждения связанных с QGIS вопросов пользовательского опыта и юзабилити."
 
 #: ../../source/site/getinvolved/mailinglists.rst:25
 msgid "http://lists.osgeo.org/mailman/listinfo/qgis-ux"

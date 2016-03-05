@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-08-28 07:48+0000\n"
+"PO-Revision-Date: 2015-11-25 12:51+0000\n"
 "Last-Translator: josep constanti <iceberg.jcm@gmail.com>\n"
 "Language-Team: Catalan (http://www.transifex.com/qgis/qgis-website/language/ca/)\n"
 "MIME-Version: 1.0\n"
@@ -15,17 +15,13 @@ msgstr ""
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/about/features.rst:2
-msgid "Features of QGIS"
-msgstr "Característiques de QGIS"
-
 #: ../../source/site/about/features.rst:5
 msgid "QGIS Desktop"
 msgstr "QGIS Desktop"
 
 #: ../../source/site/about/features.rst:7
 msgid "Create, edit, visualise, analyse and publish geospatial information."
-msgstr "Crea, edita, visualitza, analitza i publica informació geoespacial."
+msgstr "Creeu, editeu, visualitzeu, analitzeu i publiqueu informació georeferenciada."
 
 #: ../../source/site/about/features.rst:9
 msgid "For Windows, Mac, Linux, BSD and Android."
@@ -41,7 +37,7 @@ msgstr "Explorador del QGIS"
 
 #: ../../source/site/about/features.rst:20
 msgid "Browse and preview your data and metadata."
-msgstr ""
+msgstr "Exploreu i previsualitzeu les vostres dades i metadades."
 
 #: ../../source/site/about/features.rst:22
 msgid "Drag and drop your data from one datastore into the other one."
@@ -93,3 +89,10 @@ msgstr ""
 #: ../../source/site/about/features.rst:64
 msgid "A screenshot of QGIS on Android"
 msgstr "Una captura de pantalla de QGIS a Android"
+
+#: ../../source/site/about/features.rst:2
+msgid "QGIS Applications"
+msgstr "Aplicacions QGIS"
+
+#~ msgid "Features of QGIS"
+#~ msgstr ""

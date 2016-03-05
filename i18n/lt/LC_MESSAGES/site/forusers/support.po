@@ -6,9 +6,9 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-01-22 11:11+0000\n"
+"PO-Revision-Date: 2015-10-30 08:57+0000\n"
 "Last-Translator: Tomas Straupis\n"
-"Language-Team: Lithuanian (http://www.transifex.com/projects/p/qgis-website/language/lt/)\n"
+"Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -65,28 +65,11 @@ msgstr "Naudotojų grupės"
 msgid "Issue Tracker"
 msgstr "Problemų sekiklis"
 
-#: ../../source/site/forusers/support.rst:107
-msgid ""
-"If you want to file bugs or issues, you need an osgeo ID. You can create an "
-"account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-msgstr "Jei norite registruoti klaidas ar problemas, jums reikia osgeo ID. Paskyrą galite sukurti čia: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-
-#: ../../source/site/forusers/support.rst:109
-msgid ""
-"More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-msgstr "Daugiau informacijos rasite čia: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-
-#: ../../source/site/forusers/support.rst:111
-msgid ""
-"All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
-"gis/issues"
-msgstr "Visas problemas galima peržiūrėti čia: http://hub.qgis.org/projects/quantum-gis/issues"
-
-#: ../../source/site/forusers/support.rst:117
+#: ../../source/site/forusers/support.rst:113
 msgid "Commercial Support"
 msgstr "Komercinis palaikymas"
 
-#: ../../source/site/forusers/support.rst:119
+#: ../../source/site/forusers/support.rst:115
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
@@ -289,6 +272,24 @@ msgid ""
 "reporting about your progress. Please do not hesitate to ask questions "
 "regarding the establishment and maintenance of your local user group."
 msgstr "Sėkmės organizuojant jūsų vietinę naudotojų grupę. Prašome informuoti tarptautinę QGIS komandą prisiregistruojant QGIS bendruomenės sąrašyne ir pranešant apie jūsų progresą. Nebijokite klausti apie naudotojų grupės įkūrimą ir palaikymą."
+
+#: ../../source/site/forusers/support.rst:107
+msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
+msgstr "Jei norite pranešti apie klaidas ar problemas, žiūrėkite :ref:`QGIS-bugreporting`."
+
+#~ msgid ""
+#~ "If you want to file bugs or issues, you need an osgeo ID. You can create an "
+#~ "account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
+#~ "gis/issues"
+#~ msgstr ""
 
 #~ msgid "TODO: write something about the IRC ethiquette?"
 #~ msgstr ""

@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Angéla Olasz <angela.olasz@gmail.com>, 2015
 # Zoltan Siki <siki@agt.bme.hu>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-08-19 06:59+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2016-01-17 19:05+0000\n"
+"Last-Translator: Angéla Olasz <angela.olasz@gmail.com>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +18,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:3
 msgid "Creating the Fundy Footpath Trail Map with QGIS"
-msgstr ""
+msgstr "Fundy Gyalogtúra útvonaltérkép létrehozás QGIS segítségével"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:10
 msgid ""
@@ -33,7 +34,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:19
 msgid "QGIS GPS Tools Plugin for data collection"
-msgstr ""
+msgstr "QGIS GPS Tools beépülő modul adatgyűjtésre"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:22
 msgid "The Project"
@@ -43,19 +44,19 @@ msgstr "A projekt"
 msgid ""
 "The process of creating the new Fundy Footpath map with QGIS can be broken "
 "down into three different parts:"
-msgstr ""
+msgstr "A Fundy Gyalogtúra térkép előállítása QGIS-ben három fő lépésre csoportosítható:"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:26
 msgid "Data collection."
-msgstr ""
+msgstr "Adatgyűjtés."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:27
 msgid "Data editing and preparation."
-msgstr ""
+msgstr "Adat-előkészítés és szerkesztés."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:28
 msgid "Map production."
-msgstr ""
+msgstr "Térkép előállítás."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:30
 msgid ""
@@ -72,23 +73,23 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:38
 msgid "Creation of the footpath map in QGIS"
-msgstr ""
+msgstr "Túraútvonal előállítása QGIS-ben"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:40
 msgid ""
 "To prepare the data for use in the final map product the following tools "
 "within QGIS were used to accomplish specific tasks:"
-msgstr ""
+msgstr "A végleges térkép előállításához szükséges adat-előkészítést a következő QGIS eszközökkel végeztük a specifikus feladatok megvalósítása érdekében:"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:42
 msgid "The data collected with GPS was cleaned using the editing toolbar."
-msgstr ""
+msgstr "A GPS-es adatgyűjtés után az adatok tisztítottuk a szerkesztő eszköztár segítségével."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:43
 msgid ""
 "The vector data obtained from NRCan and SNB was merged together, queried, "
 "and clipped for the final map area using the vector tools."
-msgstr ""
+msgstr "A vektor adatok az NRCan és a SNB szervezetketől kerültek beszerzésre, lekérdezés, egyesítés és levágás műveletek elvégzése után állt elő a végleges térkép a vektor eszközök felhasználásával."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:44
 msgid ""
@@ -101,7 +102,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:51
 msgid "Footpath map in the Print Composer"
-msgstr ""
+msgstr "Gyalogtúra térkép elkészítése a Nyomtató Lap Összeállítás Kezelő használatával"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:53
 msgid ""
@@ -118,7 +119,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:56
 msgid "Conclusion"
-msgstr ""
+msgstr "Következtetés"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:58
 msgid ""
@@ -134,11 +135,11 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:65
 msgid "The final Fundy Footpath map with accompanying guidebook"
-msgstr ""
+msgstr "A végleges Fundy Gyalogtúra térkép és a hozzátartozó  útikönyv"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:78
 msgid "Author"
-msgstr ""
+msgstr "Szerző"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:87
 msgid ""
@@ -148,25 +149,25 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:70
 msgid "http://fundyfootpath.info/"
-msgstr ""
+msgstr "http://fundyfootpath.info/"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:71
 msgid "http://fundy-biosphere.ca/en/about-us/the-reserve"
-msgstr ""
+msgstr "http://fundy-biosphere.ca/en/about-us/the-reserve"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:72
 msgid "http://www.sentiernbtrail.com"
-msgstr ""
+msgstr "http://www.sentiernbtrail.com"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:73
 msgid ""
 "http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-"
 "54CD-8349-C95E-1A4D03172FDF"
-msgstr ""
+msgstr "http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:74
 msgid "http://www.snb.ca/gdam-igec/e/2900e_1.asp"
-msgstr ""
+msgstr "http://www.snb.ca/gdam-igec/e/2900e_1.asp"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:12
 msgid ""
@@ -183,11 +184,11 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:68
 msgid "Links"
-msgstr ""
+msgstr "Linkek"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:85
 msgid "Jarrett Totton"
-msgstr ""
+msgstr "Jarrett Totton"
 
 #~ msgid ""
 #~ "The trail was created, is maintained, and promoted by a group of volunteers "

@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Angéla Olasz <angela.olasz@gmail.com>, 2015
 # Zoltan Siki <siki@agt.bme.hu>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-07 15:40+0200\n"
-"PO-Revision-Date: 2015-08-19 06:59+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2015-10-15 08:42+0000\n"
+"Last-Translator: Angéla Olasz <angela.olasz@gmail.com>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,11 +20,11 @@ msgstr ""
 msgid ""
 "Using open source tools for characterization of a landscape. The LecosS "
 "plugin"
-msgstr ""
+msgstr "Táj meghatározás nyílt forráskódú szoftverek felhasználásával. A LecoS modul"
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:17
 msgid "Methods"
-msgstr ""
+msgstr "Módszerek"
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:19
 msgid ""
@@ -34,11 +35,11 @@ msgid ""
 "CLC classification level used it´s the first.  After transform coverages we "
 "calculate the metrics  in Landscape Ecology plugin (LecoS) using the "
 "graphical modeler (Figure 2)."
-msgstr ""
+msgstr "A tájmetrikák a Corine felszínborítás (CLC) 1990-es és 2006-os adatok felhasználásával készültek. A felhasznált fedvényeket először raszter formátumba konvertáltuk 50x50 méteres felbontással. A konvertáláshoz a r.to.raster GRASS GIS modulját használtuk a CLC osztályozásban. A raszterkonvertálás után a Tájökológiai (LecoS) modul grafikus modellezőjével végeztük el a metrikák számítását (2. ábra). "
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:26
 msgid "Landscape metrics calculated for diferent years (1990 and 2006)."
-msgstr ""
+msgstr "Különböző évekre számított tájmetrikák (1990 és 2006)"
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:28
 msgid ""
@@ -46,7 +47,7 @@ msgid ""
 "patches, Greatest patch area, Smallest patch area , Mean patch distance and "
 "the Effective mesh size (Table 1). Measures of diversity of the landscape "
 "were calculated the Shannon index, Uniformity and the Simpson index."
-msgstr ""
+msgstr "A következők kerültek kiszámításra: a felszínborítási egységek területe, tájarány, élsűrűség, foltok száma, legnagyobb folt területe, legkisebb folt területe, átlagos folt távolság és optimális rácsméret (1. Táblázat). A diverzitás számításokban a Shannon, a Uniformity és Simpson indexeket használtuk fel. "
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:31
 msgid "Results"
@@ -64,11 +65,11 @@ msgid ""
 "between spots, one measure that allows us to understand the degree of "
 "landscape fragmentation, the decline of “Forest and Semi Natural areas” 1990"
 " to 2006 at the expense of increased “Artificial areas” (Table 1)."
-msgstr ""
+msgstr "A tájmetriai elemzések eredményei alapján egyértelműen megállapítható, hogy az emberi beavatkozás megnövekedett a tájban, ezáltal a felszínborítási egységek nagymértékű töredezettsége figyelhető meg 1990 és 2006 között. Az erdős-féltermészetes foltok és a mezőgazdasági területek csökkentek 1990 és 2006 között (1. Táblázat). Ezek a mérőszámok szolgáltatnak jelzéseket ökológiai folyamatokról az ember és a természetes élőhelyek közötti kapcsolatok növekedéséről vagy csökkenéséről (Viana és Aranha, 2008). Kiemelhető az egyes elemek közötti átlag távolságok átalakulása, ez a vizsgálat lehetővé teszi a táj töredezettségi mértékének megértését, az erdős-féltermészetes területek 1990-2006 időszakot vizsgálva csökkentek a mesterséges felszínek növekedésével (1. Táblázat)."
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:40
 msgid "Model to calculate landscape metrics in 1990."
-msgstr ""
+msgstr "1990-es tájmetria számításához használt modell."
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:42
 msgid ""
@@ -76,22 +77,22 @@ msgid ""
 "is directly related to the transfer between land cover, in particular loss "
 "of “Agricultural areas” and “Forest and Semi Natural areas”. The same "
 "happened with uniformity."
-msgstr ""
+msgstr "1990 és 2006 között a növekedett a diverzitás, ugyanakkor ez az eredmény a felszínborítás átalakulásában egyértelműen a mezőgazdasági és erdős-féltermészetes területek rovására történt. Ugyanez az eredmény figyelhető meg ha az egységességben történt változásokat vizsgáljuk."
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:45
 msgid "Conclusion"
-msgstr ""
+msgstr "Következtetés"
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:50
 msgid "References"
-msgstr ""
+msgstr "Hivatkozások"
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:52
 msgid ""
 "Fidalgo, B., R. Salas, et al. (2009). \"Estimation of plant diversity in a "
 "forested mosaic landscape: the role of landscape, habitat and patch "
 "features.\" Revista Latinoamericana de Recursos Naturales 5 (2): 65-73."
-msgstr ""
+msgstr "Fidalgo, B., R. Salas, et al. (2009). \"Estimation of plant diversity in a forested mosaic landscape: the role of landscape, habitat and patch features.\" Revista Latinoamericana de Recursos Naturales 5 (2): 65-73."
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:53
 msgid ""
@@ -100,34 +101,34 @@ msgid ""
 "padrões espaciais e avaliação quantitativa da estrutura da paisagem. X "
 "Encontro de Utilizadores de Sistemas de Informação Geográfica, 14 a 16 de "
 "Maio de 2008 – Oeiras."
-msgstr ""
+msgstr "Viana, Hélder; Aranha, José (2008) - Estudo da alteração da cobertura do solo no Parque Nacional da Peneda Gerês (1995 e 2007). Análise temporal dos padrões espaciais e avaliação quantitativa da estrutura da paisagem. X Encontro de Utilizadores de Sistemas de Informação Geográfica, 14 a 16 de Maio de 2008 – Oeiras."
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:54
 msgid ""
 "Martin Jung (2012) LecoS - A QGIS plugin to conduct landscape ecology "
 "statistics, http://plugins.qgis.org/plugins/LecoS."
-msgstr ""
+msgstr "Martin Jung (2012) LecoS - A QGIS plugin to conduct landscape ecology statistics, http://plugins.qgis.org/plugins/LecoS."
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:55
 msgid ""
 "Olsen, L., V. Dale, et al. (2007). \"Landscape patterns as indicators of "
 "ecological change at Fort Benning, Georgia, USA.\" Landscape and urban "
 "planning 79: 137-149."
-msgstr ""
+msgstr "Olsen, L., V. Dale, et al. (2007). \"Landscape patterns as indicators of ecological change at Fort Benning, Georgia, USA.\" Landscape and urban planning 79: 137-149."
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:56
 msgid ""
 "Turner, M. G., R. Gardner, et al. (2001). Landscape ecology in theory and "
 "practice: pattern and process. New York."
-msgstr ""
+msgstr "Turner, M. G., R. Gardner, et al. (2001). Landscape ecology in theory and practice: pattern and process. New York."
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:59
 msgid "Authors"
-msgstr ""
+msgstr "Szerzők"
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:66
 msgid "André Duarte"
-msgstr ""
+msgstr "André Duarte"
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:68
 msgid ""
@@ -135,11 +136,11 @@ msgid ""
 "Engineering Degree in Forest Resources and Master of Forestry Resources from"
 " the Escola Superior Agrária de Coimbra. Graduate in Geographic Information "
 "Systems by Geopoint. Currently collaborates with Grupo Portucel Soporcel."
-msgstr ""
+msgstr "Ez a cikk  André Duarte közreműködésével készült 2014. júliusban. A szerző erdész mérnöki diplomával rendelkezik és mester képzést végzett szintén erdészeti területen a Coimbrai Mezőgazdasági Főiskolán. A Geopoint portugál térinformatikai továbbképzési központjában szerzett GIS ismereteket. Jelenleg a Grupo Portucel Soporcel portugál papírgyárban közreműködik."
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:12
 msgid "Geographic location of the municipality of Coimbra."
-msgstr ""
+msgstr "Coimbra település földrajzi elhelyezkedése."
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:5
 msgid ""
@@ -151,7 +152,7 @@ msgid ""
 " 8°24'37.15\" West. Because the new administrative reorganization this "
 "municipality are divided into 18 parishes, which are mostly urban areas "
 "(Figure 1)."
-msgstr ""
+msgstr "Ez az esettanulmány tartalmazza a GeoPoint által graduális képzésben oktatott Földrajzi Információs Rendszerek tárgy eredményeinek végleges vázlatát. A tájak tanulmányozását a Landscape Ecology (LecoS) QGIS 2.01 Dufour beépülő moduljával végeztük el. A vizsgálatokat Portugália középső régiójában végeztük, Coimbra település területén, teljes területe 31940 ha és É sz. 40°12'11.84\" NY h. 8°24'37.15\" földrajzi koordináták környezetében.  Az új közigazgatási átszervezés a település területét 18 egyházközségre osztja, amelyek többnyire a városi területek (1. ábra)."
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:14
 msgid ""
@@ -167,7 +168,7 @@ msgid ""
 "Landscape Ecology Stistics (Lecos) is a module of QGIS used to calculate "
 "landscape metrics in raster layers. The result can be available in CSV "
 "format."
-msgstr ""
+msgstr "A tájak jellemzésének meghatározása a tájmetrika mennyiségi indexeinek felhasználásával készült. Ezen indexek segítségével leírhatóak a tájak strukturális jellemzői, a változások és azok összegfüggéseinek dokumentálása egyes fajok vagy faj csoportok előfordulásában (Turner et al, 2001;. Olsen et al, 2007;. Fidalgo et al. , 2009). Az extrém nagy számú mutatók  számíthatóak így táj, osztály és folt szintekre is (Turner et al, 2001;. Fidalgo et al, 2009.). A számításokban felhasználásra került a Corine Felszínborítás és földhasználat (COS 90 és COS2006) és a saját készítésű felszínborítási térképek. Martin Jung szerint (2012) a Landscape Ecology Statisctics (LecoS) QGIS beépülő modul felhasználásával készültek a tájmutatókat tartalmazó raszter rétegek. Az eredmények CSV formátum is elérhetőek. "
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:47
 msgid ""
@@ -179,7 +180,7 @@ msgid ""
 "software solution. In the future we intend to apply this method to areas "
 "that have problems with invasive species to study their behavior in the "
 "landscape."
-msgstr ""
+msgstr "A LecoS beépülő modul felhasználásával megállapíthatók a tájmetrikák, meg kell jegyezni, hogy a vizsgált területen töredezettségi problémákkal szembesültünk a nagy fokú emberi beavatkozásnak köszönhetően. A QGIS szoftver intuitívnak és nagyon praktikusnak bizonyult a tájmetrikák számításában, bármilyen megkötés nélkül. Valóban erős és működőképes szabadalmazott szoftver megoldás. A jövőben szeretnénk a kidolgozott eljárást felhasználni új területeken ahol az invazív fajok okoznak problémát és megfigyelni a viselkedésünket a tájban. "
 
 #~ msgid ""
 #~ "The characterization of a landscape is conducted using quantitative indices "

@@ -1,14 +1,14 @@
 # 
 # Translators:
-# Jürgen E. Fischer <jef@norbit.de>, 2013-2014
+# Jürgen E. Fischer <jef@norbit.de>, 2013-2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-08-21 18:21+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
-"Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
+"PO-Revision-Date: 2015-09-08 07:59+0000\n"
+"Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
+"Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -65,28 +65,11 @@ msgstr "Benutzergruppen"
 msgid "Issue Tracker"
 msgstr "Fehlerverfolgung"
 
-#: ../../source/site/forusers/support.rst:107
-msgid ""
-"If you want to file bugs or issues, you need an osgeo ID. You can create an "
-"account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-msgstr "Wenn Sie Fehler- oder Problemberichte melden wollen, brauchen Sie eine OSGeo-ID. Sie können sie hier erzeugen: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-
-#: ../../source/site/forusers/support.rst:109
-msgid ""
-"More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-msgstr "Weitere Informationen finden Sie hier: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-
-#: ../../source/site/forusers/support.rst:111
-msgid ""
-"All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
-"gis/issues"
-msgstr "Alle Berichte können hier eingesehen werden: http://hub.qgis.org/projects/quantum-gis/issues"
-
-#: ../../source/site/forusers/support.rst:117
+#: ../../source/site/forusers/support.rst:113
 msgid "Commercial Support"
 msgstr "Kommerzielle Unterstützung"
 
-#: ../../source/site/forusers/support.rst:119
+#: ../../source/site/forusers/support.rst:115
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
@@ -155,7 +138,7 @@ msgid ""
 "fees (depending on the country). This collected funds could be used to pay "
 "development of certain features, to help with bug-fixing or as a donation to"
 " the international QGIS project."
-msgstr "Sponsoren: eine lokale Anwendergruppe könnte angemessene jährliche Mitgliedsbeiträge erheben (abhängig vom Land). Die gesammelten Mittel könnte zur Bezahlung der Entwicklung bestimmter Funktionen verwendet werden, zur Unterstützung von Fehlerkorrektur oder für Spenden an das internationale QGIS-Projekt verwendet werden."
+msgstr "Förderung: eine lokale Anwendergruppe könnte angemessene jährliche Mitgliedsbeiträge erheben (abhängig vom Land). Die gesammelten Mittel könnte zur Bezahlung der Entwicklung bestimmter Funktionen verwendet werden, zur Unterstützung von Fehlerkorrektur oder für Spenden an das internationale QGIS-Projekt verwendet werden."
 
 #: ../../source/site/forusers/support.rst:59
 msgid ""
@@ -289,6 +272,24 @@ msgid ""
 "reporting about your progress. Please do not hesitate to ask questions "
 "regarding the establishment and maintenance of your local user group."
 msgstr "Viel Glück bei der Organisation Ihrer lokalen Anwendergruppe. Bitte informieren Sie das internationale QGIS-Team durch Registrierung in der Community-Mailinglist und berichten Sie von Ihrem Fortschritten. Bitte zögern Sie nicht Fragen zur Etablierung und Pflege Ihrer lokalen Anwendergruppe zu stellen."
+
+#: ../../source/site/forusers/support.rst:107
+msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
+msgstr "Informationen zum Melden von Fehler oder Problemen unter :ref:`QGIS-bugreporting`."
+
+#~ msgid ""
+#~ "If you want to file bugs or issues, you need an osgeo ID. You can create an "
+#~ "account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
+#~ "gis/issues"
+#~ msgstr ""
 
 #~ msgid "TODO: write something about the IRC ethiquette?"
 #~ msgstr ""

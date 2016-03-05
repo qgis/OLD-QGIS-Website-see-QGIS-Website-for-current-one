@@ -1,14 +1,14 @@
 # 
 # Translators:
-# João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
+# João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-02-22 19:37+0000\n"
-"Last-Translator: João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>\n"
-"Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/qgis-website/language/pt_PT/)\n"
+"PO-Revision-Date: 2016-01-03 15:21+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,7 +19,7 @@ msgstr ""
 msgid "Case Studies"
 msgstr "Casos de Estudo"
 
-#: ../../source/site/about/case_studies/index.rst:8
+#: ../../source/site/about/case_studies/index.rst:7
 msgid ""
 "The QGIS project is always looking for people to publish QGIS case studies "
 "(user stories) on the QGIS website. Therefore we kindly ask institutions, "
@@ -30,21 +30,21 @@ msgid ""
 " to send us your story."
 msgstr "O projecto QGIS está sempre à procura de pessoas que publiquem casos de estudo QGIS (histórias de utilizadores) no sítio da internet do QGIS. Portanto nós pedimos gentilmente a instituições, universidades, autoridades, e empresas para escreverem as suas próprias experiências no uso do QGIS para resolver os seus problemas em certos projectos ou na sua vida diária. Por favor contacte a `Equipa de Comunidade QGIS <http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_, se quiser mandar a sua história."
 
-#: ../../source/site/about/case_studies/index.rst:10
+#: ../../source/site/about/case_studies/index.rst:9
 msgid "**Structure**"
 msgstr "**Estrutura**"
 
-#: ../../source/site/about/case_studies/index.rst:12
+#: ../../source/site/about/case_studies/index.rst:11
 msgid ""
 "The stories should follow a simple structure and we suggest to write about "
 "800 words including one or two screenshots."
 msgstr "As histórias devem seguir uma estrutura simples e nós sugerimos que escreva cerca de 800 palavras incluindo uma ou duas capturas de ecrã."
 
-#: ../../source/site/about/case_studies/index.rst:14
+#: ../../source/site/about/case_studies/index.rst:13
 msgid "**Title**"
 msgstr "**Título**"
 
-#: ../../source/site/about/case_studies/index.rst:16
+#: ../../source/site/about/case_studies/index.rst:15
 msgid ""
 "Short Introduction with background of the company / institute / authority / "
 "university (length about 200 words). Story about your project/application "
@@ -53,30 +53,33 @@ msgid ""
 "200 words)"
 msgstr "Pequena Introdução com o passado da empresa/ instituto/ autoridade/ univerdiade (com cerca de 200 palavras). A história do seu projecto/ aplicação e para que foi usado o QGIS (com cerca de 400 palavras mais capturas de ecrã) Conclusão a demonstrar experiências/ benefícios positivos usando o QGIS (com cerca de 200 palavras)"
 
-#: ../../source/site/about/case_studies/index.rst:21
-msgid "List of Case Studies"
-msgstr "Lista de Casos de Estudo"
-
-#: ../../source/site/about/case_studies/index.rst:36
+#: ../../source/site/about/case_studies/index.rst:44
 msgid "2013"
 msgstr "2013"
 
-#: ../../source/site/about/case_studies/index.rst:48
+#: ../../source/site/about/case_studies/index.rst:56
 msgid "2012"
 msgstr "2012"
 
-#: ../../source/site/about/case_studies/index.rst:63
+#: ../../source/site/about/case_studies/index.rst:71
 msgid "2011"
 msgstr "2011"
 
-#: ../../source/site/about/case_studies/index.rst:74
+#: ../../source/site/about/case_studies/index.rst:82
 msgid "2010"
 msgstr "2010"
 
-#: ../../source/site/about/case_studies/index.rst:86
+#: ../../source/site/about/case_studies/index.rst:94
 msgid "2009"
 msgstr "2009"
 
-#: ../../source/site/about/case_studies/index.rst:24
+#: ../../source/site/about/case_studies/index.rst:32
 msgid "2014"
 msgstr "2014"
+
+#: ../../source/site/about/case_studies/index.rst:20
+msgid "2015"
+msgstr "2015"
+
+#~ msgid "List of Case Studies"
+#~ msgstr ""

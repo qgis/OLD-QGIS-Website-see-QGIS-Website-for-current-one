@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Angéla Olasz <angela.olasz@gmail.com>, 2015
 # Zoltan Siki <siki@agt.bme.hu>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-08-19 06:59+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2015-10-26 09:31+0000\n"
+"Last-Translator: Angéla Olasz <angela.olasz@gmail.com>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,65 +30,65 @@ msgid ""
 " in the implementation of a GIS as tool to optimize and enhance the "
 "management of spatial information, and to provide a support to the decision "
 "making process."
-msgstr ""
+msgstr "A kísérlet fő célja az volt, hogy 12. osztályos tanulókat tanítsunk a GIS eszközök használatára a térbeli információk kezelésének elősegítése érdekében, valamint döntéshozási folyamat támogatása."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:17
 msgid "**Specific objectives:**"
-msgstr ""
+msgstr "**Speciális célok:**"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:20
 msgid ""
 "Usage of GIS as a technical tool to validate of socio-spatial hypothesis."
-msgstr ""
+msgstr "Felhasználni a térinformatikai eszközöket a felállított térbeli-társadalmi hipotézisek validálásában. "
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:23
 msgid "**Methodology:**"
-msgstr ""
+msgstr "**Módszertan:**"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:25
 msgid "To generate the project we continue the following methodology:"
-msgstr ""
+msgstr "A projekt létrehozáskor a következő módszertant követtük:"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:27
 msgid ""
 "Practical and theoretical lectures; mainly about the usage of QGIS and the "
 "benefits of urban green spaces and its territorial implications."
-msgstr ""
+msgstr "Gyakorlati és elméleti előadások; Főleg a QGIS használatáról és a városi zöldterületek és azok területi hatásainak előnyeiről. "
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:28
 msgid ""
 "Cartographic modeling, vector layers definition, development of GIS "
 "databases."
-msgstr ""
+msgstr "Térképészeti modellezés, vektor rétegek létrehozása, GIS adatbázisok fejlesztése."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:29
 msgid "Field work (trees data records and GPS locations)."
-msgstr ""
+msgstr "Terepi munka (fakataszter GPS koordinátákkal)."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:30
 msgid ""
 "Vector digitizing of urban cadastral blocks and the tree´s canopies, using a"
 " Google Earth (GeoEye) image. In order to consider the amount inhabitants by"
 " cadastral block, we assigned an average value of 4 inhabitants by plot."
-msgstr ""
+msgstr "Google Earth (GeoEye) felvételekről vektorizáltunk városi kataszteri blokkokat és fa lombkoronákat. A lakosok számának összesítése érdekében egy kataszteri blokkra átlagosan 4 lakost számoltunk telkenként."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:31
 msgid "Results presentation through thematic cartography."
-msgstr ""
+msgstr "Eredményeket bemutató tematikus térképek."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:38
 msgid "Attribute table of “blocks” vector layer"
-msgstr ""
+msgstr "Blokkok vektor réteg attribútum táblája"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:41
 msgid "Conclusion"
-msgstr ""
+msgstr "Következtetés"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:52
 msgid ""
 "Distribution of urban green spaces (green) and population density by blocks "
 "(white to brown) at Rada Tilly coastal town, Chubut Provinc, Argentina."
-msgstr ""
+msgstr "A városi zöldterületek eloszlása (zöld) és népűrűség blokkonként (fehértől barnáig)  Rada Tilly parti városban, Chubut tartomány, Argentína."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:54
 msgid ""
@@ -96,15 +97,15 @@ msgid ""
 "academic rigor and seriousness, showing appropriation of the thematic (urban"
 " green spaces) and also of the tool (QGIS). It was a very enriching "
 "experience for them and also for the educational staff involved."
-msgstr ""
+msgstr "Bár a projekt tudományos kísérlet volt a középiskolákban, a QGIS felhasználásával kapott eredményeket nagyra értékeljük. A tanulók nagy pontossággal és tudományos feltételeknek megfelelően dolgoztak, és megmutatva a kapott tematikus térképeket (városi zöldterület) és a (QGIS) eszköz használatát. Ez a tapasztalat gazdagította a tanulók tudását de az oktatóknak is fejlődést hozott."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:59
 msgid "Authors"
-msgstr ""
+msgstr "Szerzők"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:68
 msgid "Mauro Novara"
-msgstr ""
+msgstr "Mauro Novara"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:70
 msgid ""
@@ -116,7 +117,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:77
 msgid "Alberto Vázquez"
-msgstr ""
+msgstr "Alberto Vázquez"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:61
 msgid ""

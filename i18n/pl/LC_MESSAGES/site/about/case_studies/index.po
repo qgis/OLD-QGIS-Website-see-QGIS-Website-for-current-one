@@ -1,15 +1,15 @@
 # 
 # Translators:
-# Michał Kułach <michal.kulach@gmail.com>, 2014
+# Michał Kułach <michal.kulach@gmail.com>, 2014-2015
 # Milena Nowotarska <do.milenki@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-12-16 06:56+0000\n"
-"Last-Translator: Michał Kułach <michal.kulach@gmail.com>\n"
-"Language-Team: Polish (http://www.transifex.com/projects/p/qgis-website/language/pl/)\n"
+"PO-Revision-Date: 2015-09-08 07:38+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Polish (http://www.transifex.com/qgis/qgis-website/language/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +20,7 @@ msgstr ""
 msgid "Case Studies"
 msgstr "Przykłady użycia"
 
-#: ../../source/site/about/case_studies/index.rst:8
+#: ../../source/site/about/case_studies/index.rst:7
 msgid ""
 "The QGIS project is always looking for people to publish QGIS case studies "
 "(user stories) on the QGIS website. Therefore we kindly ask institutions, "
@@ -31,21 +31,21 @@ msgid ""
 " to send us your story."
 msgstr "Projekt QGIS zawsze szuka osób mogących opublikować przykłady użycia (historie użytkowników) na stronie QGIS. W związku z tym prosimy instytucje, uniwersytety, władze i firmy o opisanie ich doświadczeń z używania QGIS do rozwiązywania swoich problemów w konkretnym projekcie w codziennym użytkowaniu. Prosimy o kontakt z `zespołem społeczności QGIS <http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_, aby opublikować swoją historię."
 
-#: ../../source/site/about/case_studies/index.rst:10
+#: ../../source/site/about/case_studies/index.rst:9
 msgid "**Structure**"
 msgstr "**Struktura**"
 
-#: ../../source/site/about/case_studies/index.rst:12
+#: ../../source/site/about/case_studies/index.rst:11
 msgid ""
 "The stories should follow a simple structure and we suggest to write about "
 "800 words including one or two screenshots."
 msgstr "Przykłady użycia powinny korzystać z prostej struktury. Zalecamy objętość około 800 słów oraz jeden lub dwa zrzuty ekranu."
 
-#: ../../source/site/about/case_studies/index.rst:14
+#: ../../source/site/about/case_studies/index.rst:13
 msgid "**Title**"
 msgstr "**Tytuł**"
 
-#: ../../source/site/about/case_studies/index.rst:16
+#: ../../source/site/about/case_studies/index.rst:15
 msgid ""
 "Short Introduction with background of the company / institute / authority / "
 "university (length about 200 words). Story about your project/application "
@@ -54,30 +54,33 @@ msgid ""
 "200 words)"
 msgstr "Krótkie wprowadzenie z informacją o firmie / instytucji / uniwersytecie (około 200 słów). Opis swojego projektu i zastosowania QGIS (około 400 słów i zrzuty ekranu). Podsumowanie wskazujące na korzyści i pozytywne doświadczenia płynące z zastosowania QGIS (około 200 słów)"
 
-#: ../../source/site/about/case_studies/index.rst:21
-msgid "List of Case Studies"
-msgstr "Lista przykładów użycia"
-
-#: ../../source/site/about/case_studies/index.rst:36
+#: ../../source/site/about/case_studies/index.rst:44
 msgid "2013"
 msgstr "2013"
 
-#: ../../source/site/about/case_studies/index.rst:48
+#: ../../source/site/about/case_studies/index.rst:56
 msgid "2012"
 msgstr "2012"
 
-#: ../../source/site/about/case_studies/index.rst:63
+#: ../../source/site/about/case_studies/index.rst:71
 msgid "2011"
 msgstr "2011"
 
-#: ../../source/site/about/case_studies/index.rst:74
+#: ../../source/site/about/case_studies/index.rst:82
 msgid "2010"
 msgstr "2010"
 
-#: ../../source/site/about/case_studies/index.rst:86
+#: ../../source/site/about/case_studies/index.rst:94
 msgid "2009"
 msgstr "2009"
 
-#: ../../source/site/about/case_studies/index.rst:24
+#: ../../source/site/about/case_studies/index.rst:32
 msgid "2014"
 msgstr "2014"
+
+#: ../../source/site/about/case_studies/index.rst:20
+msgid "2015"
+msgstr "2015"
+
+#~ msgid "List of Case Studies"
+#~ msgstr ""

@@ -3,14 +3,15 @@
 # yasuto.furukawa <furushare@gmail.com>, 2014
 # Kayama Yoichi <yoichi.kayama@gmail.com>, 2014
 # nyampire <nyampire@gmail.com>, 2014
+# Richard Duivenvoorde <richard@duif.net>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-10-15 08:49+0000\n"
-"Last-Translator: Kayama Yoichi <yoichi.kayama@gmail.com>\n"
-"Language-Team: Japanese (http://www.transifex.com/projects/p/qgis-website/language/ja/)\n"
+"PO-Revision-Date: 2016-03-01 18:45+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -67,28 +68,11 @@ msgstr "ユーザーグループ"
 msgid "Issue Tracker"
 msgstr "課題トラッカー"
 
-#: ../../source/site/forusers/support.rst:107
-msgid ""
-"If you want to file bugs or issues, you need an osgeo ID. You can create an "
-"account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-msgstr "もしバグか課題を書き込みたい場合はosgeo IDが必要です. https://www2.osgeo.org/cgi-bin/ldap_create_user.py こちらのページでアカウントを作ることができます"
-
-#: ../../source/site/forusers/support.rst:109
-msgid ""
-"More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-msgstr "詳しい情報は http://hub.qgis.org/wiki/quantum-gis/Bugreports を参照して下さい"
-
-#: ../../source/site/forusers/support.rst:111
-msgid ""
-"All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
-"gis/issues"
-msgstr "すべての課題は : http://hub.qgis.org/projects/quantum-gis/issues で参照できます"
-
-#: ../../source/site/forusers/support.rst:117
+#: ../../source/site/forusers/support.rst:113
 msgid "Commercial Support"
 msgstr "コマーシャルサポート"
 
-#: ../../source/site/forusers/support.rst:119
+#: ../../source/site/forusers/support.rst:115
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
@@ -125,7 +109,7 @@ msgid ""
 "On http://gis.stackexchange.com you can ask QGIS questions also. If you use "
 "the tag 'qgis' you'll see all QGIS related questions and answer: "
 "http://gis.stackexchange.com/?tags=qgis"
-msgstr "http://gis.stackexchange.com ではQGISに関する質問も受け付けています。 `qgis`タグを利用すると、QGISに関するすべての質問を確認することができます: http://gis.stackexchange.com/?tags=qgis"
+msgstr "http://gis.stackexchange.com ではQGISに関する質問も受け付けています。 'qgis'タグを利用すると、QGISに関するすべての質問を確認することができます: http://gis.stackexchange.com/?tags=qgis"
 
 #: ../../source/site/forusers/support.rst:52
 msgid "Goals of a user group"
@@ -291,6 +275,24 @@ msgid ""
 "reporting about your progress. Please do not hesitate to ask questions "
 "regarding the establishment and maintenance of your local user group."
 msgstr ""
+
+#: ../../source/site/forusers/support.rst:107
+msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
+msgstr ""
+
+#~ msgid ""
+#~ "If you want to file bugs or issues, you need an osgeo ID. You can create an "
+#~ "account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
+#~ "gis/issues"
+#~ msgstr ""
 
 #~ msgid "TODO: write something about the IRC ethiquette?"
 #~ msgstr ""

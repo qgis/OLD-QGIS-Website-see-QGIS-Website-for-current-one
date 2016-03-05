@@ -2,19 +2,20 @@
 # Translators:
 # alexbruy <alexander.bruy@gmail.com>, 2014
 # alexbruy <alexander.bruy@gmail.com>, 2014
+# Mikhail <sivakov.mp@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-25 15:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
-"Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
+"PO-Revision-Date: 2016-02-27 16:59+0000\n"
+"Last-Translator: Mikhail <sivakov.mp@gmail.com>\n"
+"Language-Team: Russian (http://www.transifex.com/qgis/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: ../../source/site/getinvolved/faq/index.rst:3
 msgid "FAQ"
@@ -134,7 +135,7 @@ msgstr "В остальных случаях стоит ознакомиться
 #: ../../source/site/getinvolved/faq/index.rst:65
 #: ../../source/site/getinvolved/faq/index.rst:71
 msgid "Yes, please read: INSTALL_"
-msgstr ""
+msgstr "Да, следует читать: INSTALL_"
 
 #~ msgid ""
 #~ "Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"

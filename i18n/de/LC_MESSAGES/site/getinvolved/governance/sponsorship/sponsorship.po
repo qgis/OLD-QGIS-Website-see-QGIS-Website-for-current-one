@@ -6,9 +6,9 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-01-16 12:31+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
-"Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
+"PO-Revision-Date: 2015-11-07 06:27+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:5
 msgid "Sponsorship Program Overview"
-msgstr "Sponsorenprogrammüberblick"
+msgstr "Förderprogrammüberblick"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:7
 msgid ""
@@ -61,20 +61,12 @@ msgid "euros"
 msgstr "Euro"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:49
-msgid "us dollars"
-msgstr "US-Dollar"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:49
 msgid "sponsorship level"
 msgstr "Förderungsebenen"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:51
 msgid "27,000+"
 msgstr "27.000+"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:51
-msgid "39,000"
-msgstr "39.000"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:51
 msgid "Platinum Sponsor"
@@ -85,10 +77,6 @@ msgid "9,000+"
 msgstr "9.000+"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:52
-msgid "13,000"
-msgstr "13.000"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:52
 msgid "Gold Sponsor"
 msgstr "Gold-Förderer"
 
@@ -97,20 +85,12 @@ msgid "3,000+"
 msgstr "3.000+"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
-msgid "4,300"
-msgstr "4.300"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "Silver Sponsor"
 msgstr "Siber-Förderer"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:54
 msgid "500+"
 msgstr "500+"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:54
-msgid "700"
-msgstr "700"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:54
 msgid "Bronze Sponsor"
@@ -145,7 +125,7 @@ msgstr "Alle Förder werden in die Fördererseite in Reihenfolge ihrer Ebene (Pl
 msgid ""
 "Platinum Sponsors will have their logo placed on rotating banner on front "
 "page of qgis.osgeo.org"
-msgstr "Das Logo von Platin-Sponsoren wird in eine rotierendes Banner auf der Hauptseite qgis.osgeo.org aufgenommen."
+msgstr "Das Logo von Platin-Förderer wird in eine rotierendes Banner auf der Hauptseite qgis.osgeo.org aufgenommen."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:81
 msgid ""
@@ -167,14 +147,14 @@ msgstr "Bronze-Förderer werden auf der Förderliste mit einem Logo kleiner Grö
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:87
 msgid "Sponsors will be listed in the front matter of the QGIS manual"
-msgstr "Sponsoren werden auf den Titelseiten des QGIS-Handbuchs aufgeführt."
+msgstr "Förderer werden auf den Titelseiten des QGIS-Handbuchs aufgeführt."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:88
 msgid ""
 "Sponsors will be allowed to use a special version of the QGIS logo on their "
 "web site and promotional materials, which shows they are a sponsor of the "
 "QGIS project"
-msgstr "Sponsoren ist es gestattet ein spezielle Version des QGIS-Logo auf Ihrer Webseite und in Werbematerial zu verwenden, die Ihre Förderung des QGIS-Projekts anzeigen."
+msgstr "Förderern ist es gestattet ein spezielle Version des QGIS-Logo auf Ihrer Webseite und in Werbematerial zu verwenden, die Ihre Förderung des QGIS-Projekts anzeigen."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:91
 msgid "No advertising will be placed within the QGIS application itself."
@@ -203,7 +183,7 @@ msgstr "Entwickler für bestimmte QGIS-Aspekte einschließlich neuer Funktionen 
 msgid ""
 "Decisions on spending of sponsorship funds will be made by the QGIS Project "
 "Steering Committee."
-msgstr "Entscheidungen wie Sponsorgelder ausgegeben werden, wird das QGIS-Projektsteuerungskommitee fällen."
+msgstr "Entscheidungen wie Fördergeldern ausgegeben werden, wird das QGIS-Projektsteuerungskommitee fällen."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:119
 msgid ""
@@ -223,7 +203,7 @@ msgid ""
 "spatial services, or offers where we have reason to believe the presence of "
 "the sponsors logo and marketing materials on our site and other materials "
 "will degrade the experience of our users will be declined."
-msgstr "Die Annahme von Sponsorangeboten obliegt dem QGIS PSC. Wir behalten und das Recht vor Sponsorangebote abzulehnen, wenn der Sponsor den Anschein erweckt nicht im Einklang mit dem Ethos des Projekts zu sein.  Z.B. werden Angebote von Marketingunternehmen, die nichts mit GIS zu tun haben oder Angebote, die nur darauf abzielen Logos, Werbung oder anderes Material auf unsere Website zu bringen, und damit den Eindruck unserer Nutzer herabsetzen, abgelehnt."
+msgstr "Die Annahme von Förderangeboten obliegt dem QGIS PSC. Wir behalten und das Recht vor Förderangebote abzulehnen, wenn der Förderer den Anschein erweckt nicht im Einklang mit dem Ethos des Projekts zu sein.  Z.B. werden Angebote von Marketingunternehmen, die nichts mit GIS zu tun haben oder Angebote, die nur darauf abzielen Logos, Werbung oder anderes Material auf unsere Website zu bringen, und damit den Eindruck unserer Nutzer herabsetzen, abgelehnt."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:43
 msgid ""
@@ -231,11 +211,11 @@ msgid ""
 " Sponsorships last one year, after which they may be continued with a new "
 "payment, or allowed to lapse. At or above the following levels a sponsor "
 "will be designated as being one of the following class:"
-msgstr "Sponsoren können QGIS mit jedem Betrag ab mindestens 500 €/700 US$ unterstützen. Das Sponsoring dauert ein Jahr und kann danach mit einer weiteren Zahlung fortgesetzt werden oder ruhen gelassen werden. Ein Sponsor wird auf diesem oder folgenden Stufen folgenden Klassen zugeordnet:"
+msgstr "Förderer können QGIS mit jedem Betrag ab mindestens 500 €/700 US$ unterstützen. Die Förderung dauert ein Jahr und kann danach mit einer weiteren Zahlung fortgesetzt werden oder ruhen gelassen werden. Ein Förderer wird auf diesem oder folgenden Stufen folgenden Klassen zugeordnet:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:73
 msgid "Sponsoring the QGIS project provides the following benefits:"
-msgstr "Das QGIS-Projekt zu sponsorn bringt folgende Vorteile:"
+msgstr "Das QGIS-Projekt zu fördern bringt folgende Vorteile:"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:27
 msgid "With your donations we are able to:"
@@ -255,7 +235,7 @@ msgstr "Es gibt zwei Arten von finanziellen Beiträgen, wir akzeptieren:"
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:37
 msgid ""
 "sponsorships: a sponsorship is an annual commitment of funds to the project."
-msgstr "Sponsoren: erklären sich bereit das Projekt für ein Jahr zu unterstützen"
+msgstr "Förderer: erklären sich bereit das Projekt für ein Jahr zu unterstützen"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:38
 msgid ""
@@ -307,13 +287,28 @@ msgid ""
 "should contact the QGIS PSC Finance and Marketing advisor, Paolo Cavallini "
 "at: cavallini@faunalia.it (+39-348-3801953) with questions, or to make "
 "arrangements."
-msgstr "Organisationen und Einzelpersonen, die daran Interesse haben Sponsoren zu werden, sollten sich an den QGIS-PSC Finanz- und Marketingberater Paolo Cavallini unter cavallini@faunalia.it (+39-348-3801953) wenden."
+msgstr "Organisationen und Einzelpersonen, die daran Interesse haben Förderer zu werden, sollten sich an den QGIS-PSC Finanz- und Marketingberater Paolo Cavallini unter cavallini@faunalia.it (+39-348-3801953) wenden."
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:30
 msgid ""
 "support pre-release bugfixing, in order to improve the reliability of each "
 "new QGIS version."
 msgstr "Unterstützen Sie die Fehlerbehebung vor Freigabe, um die Zuverlässigkeit jeder neuen QGIS-Version zu verbessern."
+
+#~ msgid "us dollars"
+#~ msgstr ""
+
+#~ msgid "39,000"
+#~ msgstr ""
+
+#~ msgid "13,000"
+#~ msgstr ""
+
+#~ msgid "4,300"
+#~ msgstr ""
+
+#~ msgid "700"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "support pre-release bugfixing, in order to imporve the reliability of each "

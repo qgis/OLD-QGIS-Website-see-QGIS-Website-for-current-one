@@ -1,14 +1,14 @@
 # 
 # Translators:
-# Kari Salovaara <kari.salovaara@pp1.inet.fi>, 2014
+# Kari Salovaara <kari.salovaara@pp1.inet.fi>, 2014-2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-11-07 22:28+0000\n"
-"Last-Translator: Kari Salovaara <kari.salovaara@pp1.inet.fi>\n"
-"Language-Team: Finnish (http://www.transifex.com/projects/p/qgis-website/language/fi/)\n"
+"PO-Revision-Date: 2015-08-19 07:02+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Finnish (http://www.transifex.com/qgis/qgis-website/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -76,13 +76,6 @@ msgstr "Yritämme parantaa hankkeemme hallintaprosessia ja levittää kuormitust
 #: ../../source/site/getinvolved/translate.rst:68
 msgid "Helping with an existing translation"
 msgstr "Avustaminen olemassa olevassa käännöksessä"
-
-#: ../../source/site/getinvolved/translate.rst:70
-msgid ""
-"If you like to help translating QGIS into a your language please assign to "
-"the :ref:`translators mailing list <mailinglist-translation>` and ask who is"
-" already working on that language to coordinate and collaborate."
-msgstr "Jos haluat auttaa kääntämällä QGIS omalle kielellesi ole ystävällinen ja liity :ref:`translators mailing list <mailinglist-translation>` ja kysy kuka on jo työskentelemässä kielen kanssa koordinoinnin ja yhteistyön vuoksi."
 
 #: ../../source/site/getinvolved/translate.rst:74
 msgid ""
@@ -236,6 +229,19 @@ msgid ""
 "differences in the languages (for example portuguese in Portugal in Brazil) "
 "we will create its own version."
 msgstr "Pyytäessäsi uutta kieltä pidä mielessäsi että yritämme tehdä sen niin yksinkertaiseksi kuin mahdollista. Pyydät vain kieltä jonka haluat kääntää (riippumatta missä maassa asutkin). Luomme uuden version kielestä vain jos siinä on merkittävästi eroja alkuperäiseen (esimerkiksi portugalinkielinen Portugalissa ja Brasiliassa)."
+
+#: ../../source/site/getinvolved/translate.rst:70
+msgid ""
+"If you like to help translating QGIS into a your language please assign to "
+"the :ref:`translators mailing list <mailinglist-translation-gui>` and ask "
+"who is already working on that language to coordinate and collaborate."
+msgstr "Jos haluat auttaa QGIS:n kääntämistä omalle kielellesi, ole hyvä, ja käytä  :ref:`kääntäjien sähköpostilistaa <mailinglist-translation-gui>` ja tiedustele kuka koordinoi ja voi työskennellä yhdessä kanssasi omalla kielelläsi. "
+
+#~ msgid ""
+#~ "If you like to help translating QGIS into a your language please assign to "
+#~ "the :ref:`translators mailing list <mailinglist-translation>` and ask who is"
+#~ " already working on that language to coordinate and collaborate."
+#~ msgstr ""
 
 #~ msgid ""
 #~ "If you would like to nominate yourself as a coordinator for a new language "

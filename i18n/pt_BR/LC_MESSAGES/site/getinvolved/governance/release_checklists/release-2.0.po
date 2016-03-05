@@ -2,14 +2,15 @@
 # Translators:
 # João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013
 # Narcélio de Sá <narceliosapereira@gmail.com>, 2014
+# Richard Duivenvoorde <richard@duif.net>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-06-19 01:27+0000\n"
-"Last-Translator: Narcélio de Sá <narceliosapereira@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/qgis-website/language/pt_BR/)\n"
+"PO-Revision-Date: 2016-03-04 22:05+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -118,7 +119,7 @@ msgstr "|checkbox_unchecked| Actualizar o nível do topo CMakeLists.txt com o no
 msgid ""
 "|checkbox_unchecked| Update the About -> authors panel with a more recent "
 "hackfest image"
-msgstr "|checkbox_unchecked|Actualizar o Sobre -> painel de autores com a imagem mais recente do hackfest"
+msgstr "|checkbox_unchecked| Actualizar o Sobre -> painel de autores com a imagem mais recente do hackfest"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:43
 msgid ""
@@ -143,7 +144,7 @@ msgstr "|checkbox_unchecked| Junção completa de novas funcionalidades."
 msgid ""
 "|checkbox_unchecked| Call for document managers to update docs based on new "
 "features in Git."
-msgstr "|checkbox_unchecked|Chamada para os gestores de documento para actualizar documentos baseados nas novas funcionalidades no Git."
+msgstr "|checkbox_unchecked| Chamada para os gestores de documento para actualizar documentos baseados nas novas funcionalidades no Git."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:51
 msgid ""
@@ -187,7 +188,7 @@ msgstr "|checkbox_unchecked| Assegurar que os novos contribuidores são adiciona
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:66
 msgid ""
 "|checkbox_unchecked| Ensure any new sponsors have been added to SPONSORS"
-msgstr "|checkbox_unchecked|Assegurar que qualquer novo patrocinador é adicionado aos PATROCINADORES"
+msgstr "|checkbox_unchecked| Assegurar que qualquer novo patrocinador é adicionado aos PATROCINADORES"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:67
 msgid ""
@@ -247,7 +248,7 @@ msgid ""
 "|checkbox_unchecked| Update and commit ts files using "
 "scripts/update_ts_files.sh (GUI Translation Team Lead) after announcement "
 "above"
-msgstr "|checkbox_unchecked|Actualizar e entregar os ficheiros ts usando scripts/update_ts_files.sh (Líder da Equipa de Tradução GUI) depois do anúncio abaixo"
+msgstr "|checkbox_unchecked| Actualizar e entregar os ficheiros ts usando scripts/update_ts_files.sh (Líder da Equipa de Tradução GUI) depois do anúncio abaixo"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:88
 msgid ""
@@ -275,7 +276,7 @@ msgstr "|checkbox_unchecked| Assegurar que todas as actualizações das traduç�
 msgid ""
 "|checkbox_unchecked| Make source tarball before *call for packaging* (see "
 "notes below)."
-msgstr "|checkbox_unchecked|Fazer fonte tarball antes da *chamada para empacotamento* (ver notas em baixo)."
+msgstr "|checkbox_unchecked| Fazer fonte tarball antes da *chamada para empacotamento* (ver notas em baixo)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:100
 msgid ""
@@ -324,7 +325,7 @@ msgstr "|checkbox_unchecked| Marcar a etiqueta e marcar o branch como leitura (v
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:116
 msgid ""
 "|checkbox_unchecked| Note the GIT revision hash for the tagged release here:"
-msgstr "|checkbox_unchecked|Nota de revisão do GIT hash para o lançamento marcado aqui:"
+msgstr "|checkbox_unchecked| Nota de revisão do GIT hash para o lançamento marcado aqui:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:117
 msgid "XXXXXXX."
@@ -387,7 +388,7 @@ msgstr "|checkbox_unchecked| Adicionar notícias rápidas do lançamento"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:168
 msgid "|checkbox_unchecked| Current version page to be updated"
-msgstr "|checkbox_unchecked|Página da versão atual a ser atualizado"
+msgstr "|checkbox_unchecked| Página da versão atual a ser atualizado"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:169
 msgid "|checkbox_unchecked| svn download of tagged release updated"

@@ -1,14 +1,15 @@
 # 
 # Translators:
+# Michał Kułach <michal.kulach@gmail.com>, 2015
 # Milena Nowotarska <do.milenki@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-03-26 10:52+0000\n"
-"Last-Translator: Milena Nowotarska <do.milenki@gmail.com>\n"
-"Language-Team: Polish (http://www.transifex.com/projects/p/qgis-website/language/pl/)\n"
+"PO-Revision-Date: 2015-08-19 07:01+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Polish (http://www.transifex.com/qgis/qgis-website/language/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,113 +24,113 @@ msgstr "Infrastruktura QGIS"
 msgid ""
 "This page should show you all the infrastructure and services that QGIS "
 "uses, and current contacts or owners."
-msgstr ""
+msgstr "Pakiet powinien zawierać wszystkie usługi i całą infrastrukturę, z której korzystają użytkownicy QGIS oraz obecnych właścicieli lub osoby do kontaktu."
 
 #: ../../source/site/getinvolved/infrastructure.rst:8
 msgid ""
 "I think it is not wise to put accountnames here, but let me know if that is "
 "better. We can also use nicks"
-msgstr ""
+msgstr "Myślę, że używanie nazw kont nie jest dobrym pomysłem, ale proszę dać znać co jest lepsze. Możemy również używać nicków."
 
 #: ../../source/site/getinvolved/infrastructure.rst:10
 msgid "Please add (yourself) and or change"
-msgstr ""
+msgstr "Proszę dodać (się) lub zmienić"
 
 #: ../../source/site/getinvolved/infrastructure.rst:12
 msgid ""
 "Some sources: http://app.wisemapping.com/c/maps/81444/edit and "
 "http://docs.qgis.org/2.0/html/en/docs/qgis_governance/"
-msgstr ""
+msgstr "Trochę źródeł: http://app.wisemapping.com/c/maps/81444/edit and http://docs.qgis.org/2.0/html/en/docs/qgis_governance/"
 
 #: ../../source/site/getinvolved/infrastructure.rst:15
 msgid "Domains"
-msgstr ""
+msgstr "Domeny"
 
 #: ../../source/site/getinvolved/infrastructure.rst:17
 msgid "Gary"
-msgstr ""
+msgstr "Gary"
 
 #: ../../source/site/getinvolved/infrastructure.rst:20
 msgid "Main server"
-msgstr ""
+msgstr "Główny serwer"
 
 #: ../../source/site/getinvolved/infrastructure.rst:22
 msgid "http://documentation.qgis.org"
-msgstr ""
+msgstr "http://documentation.qgis.org"
 
 #: ../../source/site/getinvolved/infrastructure.rst:23
 msgid ""
 "access: Alessandro P, Werner M, Richard D, Frank W, Martin, Otto D, Gary S, "
 "Jurgen F, Tim S, Pirmin K"
-msgstr ""
+msgstr "dostęp: Alessandro P, Werner M, Richard D, Frank W, Martin, Otto D, Gary S, Jurgen F, Tim S, Pirmin K"
 
 #: ../../source/site/getinvolved/infrastructure.rst:24
 msgid "root: Jurgen F"
-msgstr ""
+msgstr "root: Jurgen F"
 
 #: ../../source/site/getinvolved/infrastructure.rst:25
 msgid "sudo: Richard D"
-msgstr ""
+msgstr "sudo: Richard D"
 
 #: ../../source/site/getinvolved/infrastructure.rst:29
 msgid "Documentation and website"
-msgstr ""
+msgstr "Dokumentacja i strona internetowa"
 
 #: ../../source/site/getinvolved/infrastructure.rst:31
 msgid "http://docs.qgis.org http://new.qgis.org"
-msgstr ""
+msgstr "http://docs.qgis.org http://new.qgis.org"
 
 #: ../../source/site/getinvolved/infrastructure.rst:32
 msgid "Otto D, Richard D, ..."
-msgstr ""
+msgstr "Otto D, Richard D, ..."
 
 #: ../../source/site/getinvolved/infrastructure.rst:36
 msgid "Wiki and Redmine"
-msgstr ""
+msgstr "Wiki i Redmine"
 
 #: ../../source/site/getinvolved/infrastructure.rst:38
 msgid "http://hub.qgis.org/projects/quantum-gis/issues"
-msgstr ""
+msgstr "http://hub.qgis.org/projects/quantum-gis/issues"
 
 #: ../../source/site/getinvolved/infrastructure.rst:39
 msgid "Pirmin K, ?"
-msgstr ""
+msgstr "Pirmin K, ?"
 
 #: ../../source/site/getinvolved/infrastructure.rst:43
 msgid "Github management"
-msgstr ""
+msgstr "Zarządzanie Githubem"
 
 #: ../../source/site/getinvolved/infrastructure.rst:45
 msgid "https://github.com/qgis"
-msgstr ""
+msgstr "https://github.com/qgis"
 
 #: ../../source/site/getinvolved/infrastructure.rst:46
 msgid "owners: https://github.com/organizations/qgis/teams/24203"
-msgstr ""
+msgstr "właściciele: https://github.com/organizations/qgis/teams/24203"
 
 #: ../../source/site/getinvolved/infrastructure.rst:47
 msgid "admin: Otto D, Gary S, Marco H, Paolo C, Pirmin K, Tim L, Richard D"
-msgstr ""
+msgstr "administratorzy: Otto D, Gary S, Marco H, Paolo C, Pirmin K, Tim L, Richard D"
 
 #: ../../source/site/getinvolved/infrastructure.rst:48
 msgid "QGIS push rights depending on sub project plz contact admins"
-msgstr ""
+msgstr "Prawa wykonania pusha do QGIS zależą od podprojektów, prosimy o kontakt z administratorami"
 
 #: ../../source/site/getinvolved/infrastructure.rst:52
 msgid "Flickr Groups"
-msgstr ""
+msgstr "Grupy Flickr"
 
 #: ../../source/site/getinvolved/infrastructure.rst:54
 msgid "groupstarters: Nathan W, Anita G, Matieu"
-msgstr ""
+msgstr "Twórcy grup: Nathan W, Anita G, Matieu"
 
 #: ../../source/site/getinvolved/infrastructure.rst:55
 msgid "screenshots http://www.flickr.com/groups/qgis-screenshots/"
-msgstr ""
+msgstr "zrzuty ekranów http://www.flickr.com/groups/qgis-screenshots/"
 
 #: ../../source/site/getinvolved/infrastructure.rst:56
 msgid "maps http://www.flickr.com/groups/qgis/pool/"
-msgstr ""
+msgstr "mapy http://www.flickr.com/groups/qgis/pool/"
 
 #: ../../source/site/getinvolved/infrastructure.rst:60
 msgid "Twitter"
@@ -142,7 +143,7 @@ msgstr "https://twitter.com/qgis"
 #: ../../source/site/getinvolved/infrastructure.rst:63
 #: ../../source/site/getinvolved/infrastructure.rst:68
 msgid "Nathan W"
-msgstr ""
+msgstr "Nathan W"
 
 #: ../../source/site/getinvolved/infrastructure.rst:66
 msgid "Facebook"
@@ -150,11 +151,11 @@ msgstr "Facebook"
 
 #: ../../source/site/getinvolved/infrastructure.rst:71
 msgid "Finance"
-msgstr ""
+msgstr "Finanse"
 
 #: ../../source/site/getinvolved/infrastructure.rst:73
 msgid "Paolo C"
-msgstr ""
+msgstr "Paolo C"
 
 #: ../../source/site/getinvolved/infrastructure.rst:77
 msgid "IRC"
@@ -162,16 +163,16 @@ msgstr "IRC"
 
 #: ../../source/site/getinvolved/infrastructure.rst:79
 msgid "Jurgen F"
-msgstr ""
+msgstr "Jurgen F"
 
 #: ../../source/site/getinvolved/infrastructure.rst:83
 msgid "Planet feeds"
-msgstr ""
+msgstr "Kanały planety QGIS"
 
 #: ../../source/site/getinvolved/infrastructure.rst:85
 msgid "Gary S"
-msgstr ""
+msgstr "Gary S"
 
 #: ../../source/site/getinvolved/infrastructure.rst:87
 msgid "..."
-msgstr ""
+msgstr "..."

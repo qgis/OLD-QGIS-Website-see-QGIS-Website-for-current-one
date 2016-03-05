@@ -1,24 +1,20 @@
 # 
 # Translators:
-# Falu.Me, 2015
+# Faludi Zoltán, 2015
 # Zoltan Siki <siki@agt.bme.hu>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-08-19 07:00+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2015-12-01 20:50+0000\n"
+"Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: ../../source/site/about/features.rst:2
-msgid "Features of QGIS"
-msgstr "QGIS jellemzők"
 
 #: ../../source/site/about/features.rst:5
 msgid "QGIS Desktop"
@@ -61,11 +57,11 @@ msgid ""
 "Publish your QGIS projects and layers as OGC compatible WMS and WFS "
 "services. Control which layers, attributes, layouts and coordinate systems "
 "are exported."
-msgstr ""
+msgstr "Publikálja a QGIS projektjét és rétegeit OGC kompatibilis WMS és WFS szolgáltatásként. Ellenőrizze, hogy mely rétegeket, attribútumokat és koordináta-rendszereket exportálja."
 
 #: ../../source/site/about/features.rst:40
 msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
-msgstr ""
+msgstr "Egy képernyőkép a QGIS Server konfigurációról a QGIS asztali alkalmazásban"
 
 #: ../../source/site/about/features.rst:43
 msgid "QGIS Web Client"
@@ -75,7 +71,7 @@ msgstr "QGIS Web Kliens"
 msgid ""
 "Publish your QGIS projects on the web with ease. Benefit from the powerful "
 "symbology, labeling and blending features to impress with your maps."
-msgstr ""
+msgstr "Publikálja a QGIS projektjeit egyszerűen a hálózaton. Használja ki a hatékony jelkulcs lehetőségeket, címkézéseket és színkeverési lehetőségeket, hogy lenyűgöző térképeket hozzon létre."
 
 #: ../../source/site/about/features.rst:52
 msgid "A screenshot of QGIS Web Client"
@@ -89,8 +85,15 @@ msgstr "QGIS Androindon (béta!)"
 msgid ""
 "Work is being done to use QGIS on Android devices. Current builds are very "
 "experimental, and not for the faint of heart."
-msgstr ""
+msgstr "Dolgozunk az Android eszközökön használható QGIS-en. A jelenlegi változat még kísérleti jellegű és nem a gyenge idegzetűeknek való."
 
 #: ../../source/site/about/features.rst:64
 msgid "A screenshot of QGIS on Android"
 msgstr "QGIS Android képernyőképe"
+
+#: ../../source/site/about/features.rst:2
+msgid "QGIS Applications"
+msgstr "QGIS alkalmazások"
+
+#~ msgid "Features of QGIS"
+#~ msgstr ""

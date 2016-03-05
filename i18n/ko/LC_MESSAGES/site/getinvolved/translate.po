@@ -7,9 +7,9 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-10-19 09:23+0000\n"
+"PO-Revision-Date: 2015-08-19 07:02+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
-"Language-Team: Korean (http://www.transifex.com/projects/p/qgis-website/language/ko/)\n"
+"Language-Team: Korean (http://www.transifex.com/qgis/qgis-website/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -77,13 +77,6 @@ msgstr "우리는 프로젝트 관리 과정을 개선하고 여러 부담을 �
 #: ../../source/site/getinvolved/translate.rst:68
 msgid "Helping with an existing translation"
 msgstr "존재하는 번역 돕기"
-
-#: ../../source/site/getinvolved/translate.rst:70
-msgid ""
-"If you like to help translating QGIS into a your language please assign to "
-"the :ref:`translators mailing list <mailinglist-translation>` and ask who is"
-" already working on that language to coordinate and collaborate."
-msgstr "QGIS를 당신의 언어로 번역하기를 원하면, :ref:`번역자 메일링 리스트<mailinglist-translation>`에 가입한 뒤, 번역 작업의 조정과 협력을 위해 누가 해당 언어 번역 작업을 진행하는지 물어보십시오. "
 
 #: ../../source/site/getinvolved/translate.rst:74
 msgid ""
@@ -237,6 +230,19 @@ msgid ""
 "differences in the languages (for example portuguese in Portugal in Brazil) "
 "we will create its own version."
 msgstr ""
+
+#: ../../source/site/getinvolved/translate.rst:70
+msgid ""
+"If you like to help translating QGIS into a your language please assign to "
+"the :ref:`translators mailing list <mailinglist-translation-gui>` and ask "
+"who is already working on that language to coordinate and collaborate."
+msgstr ""
+
+#~ msgid ""
+#~ "If you like to help translating QGIS into a your language please assign to "
+#~ "the :ref:`translators mailing list <mailinglist-translation>` and ask who is"
+#~ " already working on that language to coordinate and collaborate."
+#~ msgstr ""
 
 #~ msgid ""
 #~ "If you would like to nominate yourself as a coordinator for a new language "

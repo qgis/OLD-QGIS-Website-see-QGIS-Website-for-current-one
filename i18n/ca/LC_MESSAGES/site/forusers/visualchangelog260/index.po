@@ -1,13 +1,14 @@
 # 
 # Translators:
 # josep constanti <iceberg.jcm@gmail.com>, 2015
+# Richard Duivenvoorde <richard@duif.net>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-01 17:28+0100\n"
-"PO-Revision-Date: 2015-08-29 18:39+0000\n"
-"Last-Translator: josep constanti <iceberg.jcm@gmail.com>\n"
+"PO-Revision-Date: 2016-03-01 15:35+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Catalan (http://www.transifex.com/qgis/qgis-website/language/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,14 +21,14 @@ msgid ""
 "Change log for the next release of QGIS 2.6.0. We have added many new "
 "features, tweaks and enhancements to make the most popular Free desktop GIS "
 "even more feature filled and useful."
-msgstr ""
+msgstr "Registre de canvis del nou llançament de QGIS 2.6.0. Hem afegit noves característiques, ajustaments i millores per fer al més popular GIS d'escriptori lliure encara més pràctic i ple de característiques."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:12
 msgid ""
 "Whenever new features are added to software they introduce the possibility "
 "of new bugs - if you encounter any problems with this release, please file a"
 " ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`_."
-msgstr ""
+msgstr "Sempre que s'afegeixen noves característiques hi ha la possibilitat d'introduir nous errors al programari - si trobes qualsevol problema amb aquest llançament omple un tiquet en el  registre de seguiment d'errors de QGIS  <http://hub.qgis.org>`_."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:16
 msgid ""
@@ -56,22 +57,22 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:32
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
-msgstr ""
+msgstr "Patrocinador BRONZE:  `www.molitec.it, Itàlia <http://www.molitec.it/>`_"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:33
 msgid "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_"
-msgstr ""
+msgstr "Patrocinador BRONZE: `www.argusoft.de, Alemanya <http://www.argusoft.de>`_"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:34
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
-msgstr ""
+msgstr "Patrocinador BRONZE:  `www.openrunner.com, França <http://www.openrunner.com>`_"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:35
 msgid ""
 "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
 "<http://www.eschenlaub.de/>`_"
-msgstr ""
+msgstr "Patrocinador BRONZE:  `GKG Kassel,(Dr.-Ing. Claas Leiner), Alemanya <http://www.eschenlaub.de/>`_"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:46
 msgid ""
@@ -97,11 +98,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:66
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:69
 msgid "Feature: Project filename in properties"
-msgstr ""
+msgstr "Característica: Nom del fitxer del projecte a les propietats"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:71
 msgid ""
@@ -132,7 +133,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:94
 msgid "We have made a number of improvements to the editor widgets:"
-msgstr ""
+msgstr "Hem fet forces millores en l'editor de ginys:"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:96
 msgid "new edit widget for date/time capable of setting null dates"
@@ -164,11 +165,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:109
 msgid "Feature: Optionally use just a subset of fields from the joined layer"
-msgstr ""
+msgstr "Característica: Utilitza opcionalment només un subconjunt de camps de la capa unida"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:119
 msgid "Feature: Expression field (virtual fields)"
-msgstr ""
+msgstr "Característica: Camps resultat d'una expressió (camps virtuals)"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:121
 msgid ""
@@ -179,7 +180,7 @@ msgstr "A vegades voldreu tenir un atribut que sigui calculat i que es refresqui
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:131
 msgid "Feature: Actions can now have an associated icon"
-msgstr ""
+msgstr "Característica: Ara les accions poden tenir una icona associada"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:133
 msgid ""
@@ -193,7 +194,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:143
 msgid "Allow using ``+`` for string concatenation."
-msgstr ""
+msgstr "Permet utilitzar ``+`` per la concatenació de cadenes."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:144
 msgid ""
@@ -203,15 +204,15 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:146
 msgid "New keyword: ``$currentfeature`` - returns the current feature."
-msgstr ""
+msgstr "Nova paraula clau: ``$currentfeature`` - retorna l'objecte actual."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:147
 msgid "New keyword: ``$atlasfeature`` - returns the atlas feature."
-msgstr ""
+msgstr "Nova paraula clau: ``$atlasfeature`` - retorna l'objecte atles."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:148
 msgid "New keyword: ``getFeature`` - gets a matching feature from a layer."
-msgstr ""
+msgstr "Nova paraula clau: ``getFeature`` - obté de la capa un objecte concordant."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:155
 msgid ""
@@ -226,7 +227,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:165
 msgid "Feature: Legend improvements"
-msgstr ""
+msgstr "Característica: Millores en les llegendes"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:167
 msgid ""
@@ -263,7 +264,7 @@ msgstr "Proveïdors de dades"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:191
 msgid "Feature: DXF export improvements"
-msgstr ""
+msgstr "Característica: Millores d'exportació DXF"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:193
 msgid "tree view and attribute selection for layer assigment in dialog"
@@ -271,7 +272,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:194
 msgid "support fill polygons/HATCH"
-msgstr ""
+msgstr "suport d'emplenat de polígons/HATCH"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:195
 msgid ""
@@ -280,7 +281,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:197
 msgid "support for RGB colors when there's no exact color match"
-msgstr ""
+msgstr "s'admet l'ajust RGB pels colors si no coincideixen exactament amb un color"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:198
 msgid "use AutoCAD 2000 DXF (R15) instead of R12"
@@ -292,7 +293,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:206
 msgid "Map Composer"
-msgstr ""
+msgstr "Composició de Mapa"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:209
 msgid "Feature: Control over hiding print composer items from prints/exports"
@@ -378,7 +379,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:269
 msgid "Feature: Composer images can be specifed as remote URLS"
-msgstr ""
+msgstr "Característica: El compositor d'imatges es pot especificar com URLs remotes"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:271
 msgid ""
@@ -392,7 +393,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:281
 msgid "You can now set table header and content font colors."
-msgstr ""
+msgstr "Ara podeu establir l'encapçalament de la taula i els colors del tipus de lletra del contingut."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:282
 msgid ""
@@ -530,7 +531,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:369
 msgid "You can now have multiple grids with different properties."
-msgstr ""
+msgstr "Ara ja podeu tenir varies graelles amb propietats diferents."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:370
 msgid "You can mix reprojected grids and Lat/Long grids."
@@ -588,7 +589,7 @@ msgstr "Models i scripts es poden baixar de la col·lecció en línia i instal·
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:403
 msgid "Feature: New modeler implementation"
-msgstr ""
+msgstr "característica: Implementació d'un modelador nou"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:405
 msgid ""
@@ -601,7 +602,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:416
 msgid "Programmability"
-msgstr ""
+msgstr "Programabilitat"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:419
 msgid "Feature: API changes for QGIS widgets"
@@ -624,7 +625,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:427
 msgid "QgsColorWidget -> QgsColorWidgetWrapper"
-msgstr ""
+msgstr "QgsColorWidget -> QgsColorWidgetWrapper"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:428
 msgid "QgsEnumerationWidget -> QgsEnumerationWidgetWrapper"
@@ -636,11 +637,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:430
 msgid "QgsHiddenWidget -> QgsHiddenWidgetWrapper"
-msgstr ""
+msgstr "QgsHiddenWidget -> QgsHiddenWidgetWrapper"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:431
 msgid "QgsPhotoWidget -> QgsPhotoWidgetWrapper"
-msgstr ""
+msgstr "QgsPhotoWidget -> QgsPhotoWidgetWrapper"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:432
 msgid "QgsRangeWidget -> QgsRangeWidgetWrapper"
@@ -652,11 +653,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:434
 msgid "QgsUniquevalueWidget -> QgsUniquevalueWidgetWrapper"
-msgstr ""
+msgstr "QgsUniquevalueWidget -> QgsUniquevalueWidgetWrapper"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:435
 msgid "QgsUuidWidget -> QgsUuidWidgetWrapper"
-msgstr ""
+msgstr "QgsUuidWidget -> QgsUuidWidgetWrapper"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:436
 msgid "QgsValuemapWidget -> QgsValuemapWidgetWrapper"
@@ -664,11 +665,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:437
 msgid "QgsValuerelationWidget -> QgsValuerelationWidgetWrapper"
-msgstr ""
+msgstr "QgsValuerelationWidget -> QgsValuerelationWidgetWrapper"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:438
 msgid "QgsWebviewWidget -> QgsWebviewWidgetWrapper"
-msgstr ""
+msgstr "QgsWebviewWidget -> QgsWebviewWidgetWrapper"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:441
 msgid "QGIS Server"
@@ -690,11 +691,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:452
 msgid "Symbology"
-msgstr ""
+msgstr "Simbologia"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:455
 msgid "Feature: Better random colour choice"
-msgstr ""
+msgstr "Característica: Selecció aleatòria d'acoloriment millorada"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:457
 msgid ""
@@ -704,13 +705,13 @@ msgstr "Hem millorat l'algoritme d'acoloriment aleatori al renderitzador de clas
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:465
 msgid "Feature: Symbology user interface improvements"
-msgstr ""
+msgstr "Característica: Millores de simbologia a la interfície d'usuari"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:467
 msgid ""
 "Where possible, properties of symbol layer are maintained when changing "
 "symbol layer type."
-msgstr ""
+msgstr "On sigui possible es mantindran les propietats de la capa de símbols quan es canviï  el tipus de capa de símbols."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:469
 msgid "Added an edit button for shapeburst and gradient color ramps."
@@ -748,7 +749,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:486
 msgid "User Interface"
-msgstr ""
+msgstr "Interfície d'usuari"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:489
 msgid "Feature: Syntax highlighting code editor"
@@ -762,7 +763,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:499
 msgid "Feature: Color palettes"
-msgstr ""
+msgstr "Característica: Paletes de colors"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:501
 msgid "You can now define your own custom color palettes for use in QGIS."
@@ -894,7 +895,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog260/index.rst:31
 msgid ""
 "BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
-msgstr ""
+msgstr "Patrocinador BRONZE: : `Lutra Consulting, GB <http://www.lutraconsulting.co.uk/>`_"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:181
 msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"

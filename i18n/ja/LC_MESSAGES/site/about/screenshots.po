@@ -1,68 +1,73 @@
 # 
 # Translators:
+# Minoru Akagi <akaginch@gmail.com>, 2015
 # nyampire <nyampire@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-07-05 07:19+0000\n"
-"Last-Translator: nyampire <nyampire@gmail.com>\n"
-"Language-Team: Japanese (http://www.transifex.com/projects/p/qgis-website/language/ja/)\n"
+"PO-Revision-Date: 2015-10-24 01:10+0000\n"
+"Last-Translator: Minoru Akagi <akaginch@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/site/about/screenshots.rst:8
+#: ../../source/site/about/screenshots.rst:26
 msgid "QGIS Screenshots"
 msgstr "QGISスクリーンショット"
 
-#: ../../source/site/about/screenshots.rst:23
+#: ../../source/site/about/screenshots.rst:11
 msgid "Below are some maps created with QGIS."
 msgstr "以下はQGISで作った地図です."
 
-#: ../../source/site/about/screenshots.rst:25
+#: ../../source/site/about/screenshots.rst:13
 msgid ""
 "These maps come from the `QGIS maps - Flickr Group "
 "<http://www.flickr.com/groups/qgis/pool/>`_."
-msgstr "これらの地図は `QGIS maps - Flickr Group <http://www.flickr.com/groups/qgis/pool/>`_にあるものです."
+msgstr "これらの地図は `QGIS maps - Flickr Group <http://www.flickr.com/groups/qgis/pool/>`_ にあるものです."
 
-#: ../../source/site/about/screenshots.rst:27
+#: ../../source/site/about/screenshots.rst:15
 msgid ""
 "Map makers show off their creativity and the map making capabilities of "
 "QGIS:"
 msgstr "地図の作者の創造性とQGISの地図作成能力が地図に表れています:"
 
-#: ../../source/site/about/screenshots.rst:29
+#: ../../source/site/about/screenshots.rst:17
 msgid "Click on an image to see author and more information about the maps."
 msgstr "イメージをクリックすると作者と地図の詳細情報が表示されます."
 
-#: ../../source/site/about/screenshots.rst:10
+#: ../../source/site/about/screenshots.rst:28
 msgid ""
 "Below are some screenshots from QGIS itself and a selection of Maps which "
 "are created with QGIS."
 msgstr "ここでは、QGIS本体とQGISを使って作成された地図の例をご紹介します。"
 
-#: ../../source/site/about/screenshots.rst:13
+#: ../../source/site/about/screenshots.rst:31
 msgid ""
 "These screenshots come from the `QGIS screenshots - Flickr Group "
 "<http://www.flickr.com/groups/qgis-screenshots/>`_. Click on an image to "
 "view more information."
 msgstr "スクリーンショットは `QGIS screenshots - Flickr Group <http://www.flickr.com/groups/qgis-screenshots/>`_ から利用しています。より詳しい情報を表示するには画像をクリックしてください。"
 
-#: ../../source/site/about/screenshots.rst:17
+#: ../../source/site/about/screenshots.rst:35
 msgid ":raw-html:`<p id=\"qgisflickrscreenshotsatom\">&nbsp;</p>`"
 msgstr ":raw-html:`<p id=\"qgisflickrscreenshotsatom\">&nbsp;</p>`"
 
-#: ../../source/site/about/screenshots.rst:21
+#: ../../source/site/about/screenshots.rst:9
 msgid "QGIS created Maps"
 msgstr "QGISで作成された地図"
 
-#: ../../source/site/about/screenshots.rst:32
+#: ../../source/site/about/screenshots.rst:20
 msgid ":raw-html:`<p id=\"qgisflickrmapsatom\">&nbsp;</p>`"
 msgstr ":raw-html:`<p id=\"qgisflickrmapsatom\">&nbsp;</p>`"
+
+#: ../../source/site/about/screenshots.rst:23
+msgid ":raw-html:`<p style=\"clear:both\">&nbsp;</p>`"
+msgstr ""
 
 #~ msgid ""
 #~ "Below are some screenshots from QGIS itself, and some of Maps which are "

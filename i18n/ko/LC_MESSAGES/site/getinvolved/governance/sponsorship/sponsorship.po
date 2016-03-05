@@ -6,9 +6,9 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-01-16 11:15+0000\n"
+"PO-Revision-Date: 2015-08-19 07:01+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
-"Language-Team: Korean (http://www.transifex.com/projects/p/qgis-website/language/ko/)\n"
+"Language-Team: Korean (http://www.transifex.com/qgis/qgis-website/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -61,20 +61,12 @@ msgid "euros"
 msgstr "유로"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:49
-msgid "us dollars"
-msgstr "US 달러"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:49
 msgid "sponsorship level"
 msgstr "후원자 등급"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:51
 msgid "27,000+"
 msgstr "27,000+"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:51
-msgid "39,000"
-msgstr "39,000"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:51
 msgid "Platinum Sponsor"
@@ -85,10 +77,6 @@ msgid "9,000+"
 msgstr "9,000+"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:52
-msgid "13,000"
-msgstr "13,000"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:52
 msgid "Gold Sponsor"
 msgstr "골드 스폰서"
 
@@ -97,20 +85,12 @@ msgid "3,000+"
 msgstr "3,000+"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
-msgid "4,300"
-msgstr "4,300"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:53
 msgid "Silver Sponsor"
 msgstr "실버 스폰서"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:54
 msgid "500+"
 msgstr "500+"
-
-#: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:54
-msgid "700"
-msgstr "700"
 
 #: ../../source/site/getinvolved/governance/sponsorship/sponsorship.rst:54
 msgid "Bronze Sponsor"
@@ -314,6 +294,21 @@ msgid ""
 "support pre-release bugfixing, in order to improve the reliability of each "
 "new QGIS version."
 msgstr ""
+
+#~ msgid "us dollars"
+#~ msgstr ""
+
+#~ msgid "39,000"
+#~ msgstr ""
+
+#~ msgid "13,000"
+#~ msgstr ""
+
+#~ msgid "4,300"
+#~ msgstr ""
+
+#~ msgid "700"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "support pre-release bugfixing, in order to imporve the reliability of each "

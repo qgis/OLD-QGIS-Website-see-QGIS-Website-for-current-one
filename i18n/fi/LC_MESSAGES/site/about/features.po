@@ -1,23 +1,19 @@
 # 
 # Translators:
-# Kari Salovaara <kari.salovaara@pp1.inet.fi>, 2014
+# Kari Salovaara <kari.salovaara@pp1.inet.fi>, 2014-2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-06-21 16:09+0000\n"
+"PO-Revision-Date: 2015-11-14 10:23+0000\n"
 "Last-Translator: Kari Salovaara <kari.salovaara@pp1.inet.fi>\n"
-"Language-Team: Finnish (http://www.transifex.com/projects/p/qgis-website/language/fi/)\n"
+"Language-Team: Finnish (http://www.transifex.com/qgis/qgis-website/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: ../../source/site/about/features.rst:2
-msgid "Features of QGIS"
-msgstr "QGIS ominaisuudet"
 
 #: ../../source/site/about/features.rst:5
 msgid "QGIS Desktop"
@@ -93,3 +89,10 @@ msgstr "Työskentelemme QGIS:n käyttämiseksi Android laitteissa. Nykyiset vers
 #: ../../source/site/about/features.rst:64
 msgid "A screenshot of QGIS on Android"
 msgstr "Näytönkaappaus QGIS Androidissa"
+
+#: ../../source/site/about/features.rst:2
+msgid "QGIS Applications"
+msgstr "QGIS Sovellutukset"
+
+#~ msgid "Features of QGIS"
+#~ msgstr ""

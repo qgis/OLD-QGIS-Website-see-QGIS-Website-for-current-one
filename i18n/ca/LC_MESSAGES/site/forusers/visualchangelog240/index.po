@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2015-08-29 18:32+0000\n"
+"PO-Revision-Date: 2015-11-25 19:51+0000\n"
 "Last-Translator: josep constanti <iceberg.jcm@gmail.com>\n"
 "Language-Team: Catalan (http://www.transifex.com/qgis/qgis-website/language/ca/)\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:1
 msgid "|image0|"
-msgstr ""
+msgstr "|image0|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:6
 msgid ""
@@ -72,21 +72,21 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:36
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`__"
-msgstr ""
+msgstr "Patrocinador BRONZE:  `www.molitec.it, Itàlia <http://www.molitec.it/>`__"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:37
 msgid "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`__"
-msgstr ""
+msgstr "Patrocinador BRONZE:  `www.argusoft.de, Alemanya <http://www.argusoft.de>`__"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:38
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`__"
-msgstr ""
+msgstr "Patrocinador BRONZE:  `www.openrunner.com, França <http://www.openrunner.com>`__"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:40
 msgid ""
 "BRONZE Sponsor: `www.eschenlaub.de, Germany <http://www.eschenlaub.de>`__"
-msgstr ""
+msgstr "Patrocinador BRONZE:  `www.eschenlaub.de, Alemanya <http://www.eschenlaub.de>`__"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:43
 msgid ""
@@ -97,7 +97,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:61
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:64
 msgid "Feature: Generate band name with NetCDF EXTRA\\_DIM"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:73
 msgid "|image1|"
-msgstr ""
+msgstr "|image1|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:76
 msgid "Feature: Applying scale and offset to raster data"
@@ -130,7 +130,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:83
 msgid "|image2|"
-msgstr ""
+msgstr "|image2|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:86
 msgid "Feature: Quick field field calc bar in attribute table"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:92
 msgid "|image3|"
-msgstr ""
+msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:95
 msgid "Feature: Colour preview modes in composer and map canvas"
@@ -163,7 +163,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:104
 msgid "|image4|"
-msgstr ""
+msgstr "|image4|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:107
 msgid "Feature: QLR QGIS Layer files"
@@ -182,11 +182,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:118
 msgid "Feature: New expression functions"
-msgstr ""
+msgstr "Característica: Noves funcions definides amb una expressió"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:120
 msgid "We have some new functions available in the expression builder."
-msgstr ""
+msgstr "Tenim disponibles algunes funcions noves al generador d'expressions."
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:122
 msgid "bounding box (bounds)"
@@ -198,7 +198,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:124
 msgid "min/max x/y coordinates (xmin/xmax/ymin/ymax)"
-msgstr ""
+msgstr "mín/màx coordenades x/y (xmín/xmàx/ymín/ymàx)"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:125
 msgid ""
@@ -208,7 +208,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:128
 msgid "|image5|"
-msgstr ""
+msgstr "|image5|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:131
 msgid "Feature: Copy, paste and drag and drop colours"
@@ -225,11 +225,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:140
 msgid "|image6|"
-msgstr ""
+msgstr "|image6|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:143
 msgid "Feature: Multi-threaded rendering"
-msgstr ""
+msgstr "Característica: Renderització multi-thread"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:145
 msgid ""
@@ -249,11 +249,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:158
 msgid "|image7|"
-msgstr ""
+msgstr "|image7|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:161
 msgid "Labelling"
-msgstr ""
+msgstr "Etiquetatge"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:164
 msgid "Feature: Label features multiple times"
@@ -269,15 +269,15 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:172
 msgid "|image8|"
-msgstr ""
+msgstr "|image8|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:175
 msgid "Map Composer"
-msgstr ""
+msgstr "Composició de Mapa"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:178
 msgid "Feature: Improvements to composer picture items"
-msgstr ""
+msgstr "Característica: Millores en els elements imatge de la composició"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:180
 msgid ""
@@ -291,7 +291,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:187
 msgid "|image9|"
-msgstr ""
+msgstr "|image9|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:190
 msgid "Feature: Predefined scales mode for atlas maps"
@@ -308,7 +308,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:198
 msgid "|image10|"
-msgstr ""
+msgstr "|image10|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:201
 msgid "Feature: Improved attribute tables in composer"
@@ -322,7 +322,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:206
 msgid "Support has been added for reordering columns within a table"
-msgstr ""
+msgstr "S'ha afegit suport per reordenar columnes dins una taula"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:207
 msgid "Added support for expression based columns"
@@ -336,15 +336,15 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:210
 msgid "Table contents can be filtered by an expression"
-msgstr ""
+msgstr "Els continguts de la taula es poden filtrar amb una expressió"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:212
 msgid "|image11|"
-msgstr ""
+msgstr "|image11|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:215
 msgid "Feature: General composer improvements"
-msgstr ""
+msgstr "Característica: Millores generals del compositor"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:217
 msgid ""
@@ -358,7 +358,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:221
 msgid "Ability to export SVG images from composer with layers"
-msgstr ""
+msgstr "Possibilitat d'exportar imatges SVG del compositor amb capes"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:222
 msgid "Set line join and cap style for scalebars"
@@ -370,7 +370,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:225
 msgid "|image12|"
-msgstr ""
+msgstr "|image12|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:228
 msgid "Feature: Improvements to HTML frames"
@@ -387,11 +387,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:236
 msgid "|image13|"
-msgstr ""
+msgstr "|image13|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:239
 msgid "Plugins"
-msgstr ""
+msgstr "Connectors"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:242
 msgid "Feature: MetaSearch Catalogue Client Plugin"
@@ -408,11 +408,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:250
 msgid "|image14|"
-msgstr ""
+msgstr "|image14|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:253
 msgid "Symbology"
-msgstr ""
+msgstr "Simbologia"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:256
 msgid "Feature: Shapeburst fill style"
@@ -430,7 +430,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:263
 msgid "|image15|"
-msgstr ""
+msgstr "|image15|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:266
 msgid "Feature: Option to shift marker line placement"
@@ -447,7 +447,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:274
 msgid "|image16|"
-msgstr ""
+msgstr "|image16|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:277
 msgid "Feature: New Inverted Polygon renderer"
@@ -470,7 +470,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:289
 msgid "|image17|"
-msgstr ""
+msgstr "|image17|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:292
 msgid "Feature: Saving and recovering styles with Spatialite layers"
@@ -478,7 +478,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:301
 msgid "|image18|"
-msgstr ""
+msgstr "|image18|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:47
 msgid ""
