@@ -842,7 +842,7 @@ also be used in the DB manager.
 
 |image36|
 
-This feature was funded by `Boundless Spatial <boundlesgeo.com>`__
+This feature was funded by `Boundless Spatial <boundlessgeo.com>`__
 
 This feature was developed by Luigi Pirelli
 
