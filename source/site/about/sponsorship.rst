@@ -152,7 +152,7 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 90 px
 
 .. |kela| image:: /static/site/about/images/kela.png
-   :width: 64 px
+   :width: 90 px
 
 .. |hfacts| image:: /static/site/about/images/hfacts.png
    :width: 90 px
@@ -161,70 +161,70 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 90 px
 
 .. |npa| image:: /static/site/about/images/npa.jpg
-   :width: 64 px
+   :width: 75 px
 
 .. |qpolska| image:: /static/site/about/images/qpolska.png
    :width: 64 px
 
 .. |terrelogiche| image:: /static/site/about/images/terrelogiche.jpg
-   :width: 64 px
+   :width: 90 px
 
 .. |geosynergy| image:: /static/site/about/images/geosynergy.jpg
    :width: 90 px
 
 .. |gaia3d| image:: /static/site/about/images/gaia3d.png
-   :width: 64 px
-
-.. |windsor| image:: /static/site/about/images/windsor.png
    :width: 90 px
 
+.. |windsor| image:: /static/site/about/images/windsor.png
+   :width: 120 px
+
 .. |chartwell| image:: /static/site/about/images/chartwell.png
-   :width: 64 px
+   :width: 90 px
 
 .. |tragewegen| image:: /static/site/about/images/tragewegen.png
-   :width: 64 px
+   :width: 90 px
 
 .. |gfi| image:: /static/site/about/images/gfi.png
-   :width: 64 px
+   :width: 90 px
 
 .. |claasleinert| image:: /static/site/about/images/claasleiner.png
-   :width: 64 px
+   :width: 90 px
 
 .. |gis_supp| image:: /static/site/about/images/gis_supp.png
    :width: 64 px
 
 .. |adlares| image:: /static/site/about/images/adlares.png
-   :width: 64 px
+   :width: 90 px
 
 .. |molitec| image:: /static/site/about/images/molitec.png
-   :width: 64 px
+   :width: 90 px
 
 .. |argus| image:: /static/site/about/images/argus.jpg
-   :width: 64 px
+   :width: 90 px
 
 .. |canal| image:: /static/site/about/images/canal.png
-   :width: 64 px
+   :width: 90 px
 
 .. |avioportolano| image:: /static/site/about/images/avioportolano.png
-   :width: 64 px
+   :width: 90 px
 
 .. |wggios| image:: /static/site/about/images/wggios.png
-   :width: 64 px
+   :width: 90 px
 
 .. |urbsol| image:: /static/site/about/images/urbsol.png
-   :width: 64 px
+   :width: 90 px
 
 .. |mappinggis| image:: /static/site/about/images/mappinggis.png
-   :width: 64 px
+   :width: 75 px
 
 .. |2d3dgis| image:: /static/site/about/images/2d3dgis.png
-   :width: 64 px
+   :width: 75 px
 
 .. |gis3w| image:: /static/site/about/images/gis3w.png
-   :width: 64 px
+   :width: 75 px
 
 .. |lutra| image:: /static/site/about/images/lutra_consulting.png
-   :width: 64 px
+   :width: 90 px
 
 List of past sponsors
 ---------------------
@@ -271,13 +271,13 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-11.2012)
 
 .. |sogis| image:: /static/site/about/images/sogis.gif
-   :width: 100 px
+   :width: 110 px
 
 .. |gaiasilver| image:: /static/site/about/images/gaia.png
-   :width: 100 px
+   :width: 120 px
 
 .. |vorarlberg2| image:: /static/site/about/images/land_f.jpg
-   :width: 100 px
+   :width: 120 px
 
 .. list-table:: Past Bronze sponsors
 
@@ -321,25 +321,25 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
     -
 
 .. |openrunner| image:: /static/site/about/images/openrunner.png
-   :width: 48 px
+   :width: 90 px
 
 .. |fossgisev| image:: /static/site/about/images/fossgisev.png
-   :width: 48 px
+   :width: 90 px
 
 .. |ibw_bzwm| image:: /static/site/about/images/ibw_bzwm.png
-   :width: 48 px
+   :width: 90 px
 
 .. |uster| image:: /static/site/about/images/uster.gif
-   :width: 48 px
+   :width: 90 px
 
 .. |municipia| image:: /static/site/about/images/municipia.jpg
-   :width: 48 px
+   :width: 90 px
 
 .. |gfosservices| image:: /static/site/about/images/gfosservices.jpg
-   :width: 48 px
+   :width: 90 px
 
 .. |nextgis| image:: /static/site/about/images/nextgis.gif
-   :width: 48 px
+   :width: 90 px
 
 List of donors
 --------------
