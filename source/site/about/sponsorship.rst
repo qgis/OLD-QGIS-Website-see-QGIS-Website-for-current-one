@@ -68,6 +68,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |bgeo|
+
+       `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2017)
+     -
    * - |bronze| |geoinnova|
 
        `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2017)
@@ -134,6 +138,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2016)
+
+.. |bgeo| image:: /static/site/about/images/bgeo.png
+   :width: 90 px
 
 .. |geoinnova| image:: /static/site/about/images/geoinnova.jpg
    :width: 90 px
