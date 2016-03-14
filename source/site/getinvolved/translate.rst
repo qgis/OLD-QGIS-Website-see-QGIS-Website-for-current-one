@@ -136,6 +136,9 @@ Once your request is accepted, you are able to translate any text in the project
 you've chosen. Simply click on your language, select the chapter you want to 
 translate and click on Translate. Easy, right?
 
+You'll find instructions on how to do a good translation in the `QGIS Translation Guidelines
+<http://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_.
+
 Note that website and documentation projects also offer a more direct way to 
 add or fix translations. Indeed, While reading the current documentation or 
 navigating on the web site, if you find a wrong or missing translation, 
