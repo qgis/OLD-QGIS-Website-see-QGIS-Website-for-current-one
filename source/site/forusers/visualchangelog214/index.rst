@@ -6,7 +6,7 @@ Changelog for QGIS 2.14
 
 |image1|
 
-This is the change log for the next release of QGIS - version 2.14 'Essen'.
+This is the changelog for the next release of QGIS - version 2.14 'Essen'.
 Essen was the host city to our developer meet ups in October 2012 and 2014.
 
 **Long Term Release**
@@ -30,7 +30,7 @@ If an LTR is important to you, please consider also directly supporting the
 QGIS project, or encourage your commercial provider to use LTR as a basis for
 your enterprise solution so that everyone may benefit from a stable platform
 that is being continuously improved and refined. Note that for users and
-organizations that like to live on the frontier, our regular four monthly
+organizations that like to live on the frontier, our regular four-monthly
 releases will continue unabated.
 
 **New Features in QGIS 2.14 'Essen'**
@@ -63,10 +63,10 @@ QGIS is supported by donors and sponsors. A current list of donors who
 have made financial contributions large and small to the project can be
 seen on our `donors
 list <http://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__.
-If you would like to become and official project sponsor, please visit
+If you would like to become an official project sponsor, please visit
 `our sponsorship
 page <http://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for
-details. Sponsoring QGIS helps us to fund our six monthly developer
+details. Sponsoring QGIS helps us to fund our six-monthly developer
 meetings, maintain project infrastructure and fund bug fixing efforts. A
 complete list of current sponsors is provided below - our very great
 thank you to all of our sponsors!
@@ -339,7 +339,7 @@ Feature: Speed and memory improvements
 -  Updating only selected features using the **field calculator** is
    faster
 -  **Faster zoom** to selected on large layers
--  Much faster ``get_feature`` expression function (especially when the
+-  Much faster ``get_feature`` expression function (especially when
    an indexed column in the referenced layer is used)
 -  ``SelectByAttribute`` and ``ExtractByAttribute`` processing
    algorithms are orders of magnitude faster, and can take advantage of
@@ -405,7 +405,7 @@ Feature: Paid bugfixing programme
 
 Prior to each release, we hold a paid bugfixing programme where we fund
 developers to clean up as many bugs as possible. We have decided to
-start including a report back on paid bugfixing programme as part of our
+start including a report back on the paid bugfixing programme as part of our
 changelog report. Note that this list is **not exhaustive**.
 
 -  Sandro Santilli: `Postgis Connection freeze if you press "Set filter"
@@ -587,7 +587,7 @@ Feature: Field calculator can be used to update feature's geometry
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-The field calculator can now be used to update a feature geometries
+The field calculator can now be used to update feature geometries
 using the result of a geometric expression. This is a handy shortcut to
 do operations such as apply a buffer to a group of selected features,
 and together with all the newly added geometry functions in 2.14 makes
@@ -603,7 +603,7 @@ Feature: New expression functions in 2.14
 
 Lots of new expression functions have been added for version 2.14:
 
--  ``relate``: performs DE-9IM geometry relations by either returning
+-  ``relate``: performs a DE-9IM geometry relation by either returning
    the DE-9IM representation of the relationship between two geometries,
    or by testing whether the DE-9IM relationship matches a specified
    pattern.
@@ -617,7 +617,7 @@ Lots of new expression functions have been added for version 2.14:
 -  ``reverse``, for reversing linestrings
 -  ``eval`` function, which can evaluate a string as though it is an
    expression of its own
--  ``translate`` function, for translating geometries by and x/y offset
+-  ``translate`` function, for translating geometries by an x/y offset
 -  ``darker`` and ``lighter`` functions, which take a color argument and
    make it darker or lighter by a specified amount
 -  ``radians`` and ``degrees``: for converting angles between radians
@@ -635,7 +635,7 @@ Lots of new expression functions have been added for version 2.14:
    multipoint geometry
 -  ``segments_to_lines``, for converting every segment in a geometry to
    a multiline geometry
--  ``closest_point``: returns closest point a geometry to a second
+-  ``closest_point``: returns closest point in a geometry to a second
    geometry
 -  ``shortest_line``: returns the shortest possible line joining two
    geometries
@@ -647,7 +647,7 @@ nodes/lines with data defined symbology.
 Other improvements:
 
 -  geometries and features can now be used in conditional functions. For
-   instances, this allows expressions like
+   instance, this allows expressions like
    ``case when $geometry then ... else ...`` and
    ``case when get_feature(...) then ... else ...``
 
@@ -663,7 +663,7 @@ Feature: More statistics available in merge attributes tool
 
 When using either the merge attribute values or merge features tool,
 there are additional summary statistics available which can be used to
-set the resultant attribute values. The include Q1, Q3, inter-quartile
+set the resultant attribute values. These include Q1, Q3, inter-quartile
 ranges, majority and minority values, and number of unique values,
 amongst others.
 
@@ -701,7 +701,7 @@ including:
    respected for all distance and area calculations, including the
    measure tool, identify results, and use of the ``$area``, ``$length``
    and ``$perimeter`` functions.
--  Additional areal units have been added, including square yards,
+-  Additional area units have been added, including square yards,
    acres, hectares and more.
 -  Additional angular units have been added to the angle measurement
    tool, including rotations, minutes of arc and seconds of arc.
@@ -881,7 +881,7 @@ Feature: More file extensions for GDAL and OGR providers file selectors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-For vector and raster files, QGIS relies on GDAL/OGR library. It means
+For vector and raster files, QGIS relies on the GDAL/OGR library. It means
 that nearly any file format that can be opened by GDAL or OGR can be
 directly opened in QGIS.
 Until now, some file extensions were not added in the GDAL or OGR
@@ -1007,11 +1007,11 @@ storing. Here is a complete summary of the widget features:
    a file selector will open at the default path (if set). If no default
    path has been set, the file selector will use the last path selected
    from an "External resource" widget. If the widget has never been
-   used, the file selector default to opening on the project path.
+   used, the file selector defaults to opening on the project path.
 -  You can define and set **relative path storing**. Relative path
    storing will allow you to save only the part of the path which is
    after the default path (if default path is set) or the current
-   project path. This particularly useful when you want to save long
+   project path. This is particularly useful when you want to save long
    paths into limited size attributes (like text attributes for
    Shapefiles which are limited to 254 characters), or for creating
    self-contained project and data file archives for distribution.
@@ -1067,12 +1067,11 @@ QGIS is not a database management system.
 It is based on assumptions about the underlying database system. In
 particular:
 
--  it expects a ``ON DELETE CASCADE`` or similar measure on the second
+-  it expects an ``ON DELETE CASCADE`` or similar measure on the second
    relation
--  does not take care of setting the primary key when adding features.
-    Either users need to be instructed to set them manually or - if it's
-   a
-    database derived value - the layers need to be in transaction mode
+-  it does not take care of setting the primary key when adding features.
+   Either users need to be instructed to set them manually or - if it's a
+   database derived value - the layers need to be in transaction mode
 
 |image44|
 
@@ -1088,7 +1087,7 @@ Feature: Configurable rubber band color
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-You can now set the rubber band width and colour used for digitising.
+You can now set the rubber band width and color used for digitising.
 
 |image45|
 
@@ -1133,7 +1132,7 @@ Feature: "Cartographic" placement mode for point labels
 
 
 In this placement mode, point label candidates are generated following
-ideal cartographic placement rules, eg labels placements are priortised
+ideal cartographic placement rules, eg label placements are prioritised
 in the order:
 
 -  top right
@@ -1186,7 +1185,7 @@ A new control for setting a label's "z-index" has been added to the
 labeling properties dialog. This control (which also accepts
 data-defined overrides for individual features) determines the order in
 which labels are rendered. Label layers with a higher z-index are
-rendered on top of labels from a layer with lower z-index.
+rendered on top of labels from a layer with a lower z-index.
 
 Additionally, the logic has been tweaked so that if 2 labels have
 matching z-indexes, then:
@@ -1274,8 +1273,8 @@ The first, filter by expression, allows users to set an expression for
 filtering which features should be shown in the legend. Only symbols
 with a matching feature will be shown in the legend.
 
-The second filter option allows a composer legend to be filtered to only
-include items which are contained within the current atlas polygon.
+The second filter option allows a composer legend to be filtered to
+include only items which are contained within the current atlas polygon.
 
 |image58|
 
@@ -1380,7 +1379,7 @@ Feature: Improved toolbox
 
 The simplified interface has been removed, and a new and more
 user-friendly system of managing providers has been added. The algorithm
-search functionality now searches also in providers that are not active,
+search functionality now also searches in providers that are not active,
 and suggests activating them.
 
 |image64|
@@ -1419,7 +1418,7 @@ graph <https://en.wikipedia.org/wiki/Graph_theory#Graph>`__ is a set of
 vertices (or nodes or points) linked together with a set of edges (or
 arcs or lines). The set of edges is often called a network.
 
-Thanks to v.net modules, you can easily calculate le shortest path
+Thanks to v.net modules, you can easily calculate the shortest path
 between a set of nodes on the network or even compute the `isochrone
 map <https://en.wikipedia.org/wiki/Isochrone_map>`__ from a set of
 central points. you can also easily solve `the complex travelling
@@ -1438,7 +1437,7 @@ calculate the travel cost of the edge).
 Here is a quick summary of the different algorithms that have been
 included into Processing:
 
--  v.net.alloc: allocates subnets from nearest centres.
+-  v.net.alloc: Allocates subnets from nearest centres.
 -  v.net.allpairs: Computes the shortest path between all pairs of nodes
    in the network.
 -  v.net.arcs: Creates arcs from a file of points.
@@ -1452,8 +1451,8 @@ included into Processing:
    and eigenvector centrality of each node of the network.
 -  v.net.components: Computes strongly and weakly connected components
    in the network.
--  v.net.connect: Connects points (nodes) to nearest arcs in a network
-   (and add edges if necessary).
+-  v.net.connect: Connects points (nodes) to nearest arcs in the network
+   (and adds edges if necessary).
 -  v.net.connectivity: Computes vertex connectivity between two sets of
    nodes in the network.
 -  v.net.distance: Computes the shortest path via the network between
@@ -1463,23 +1462,23 @@ included into Processing:
 -  v.net.iso: Computes the isochrone map of the network from a set of
    nodes.
 -  v.net.nodes: Extracts nodes of a network/graph layer.
--  v.net.nreports: Reports information about the nodes
--  v.net.path: Find the shortest path on the network between two nodes.
--  v.net.report: Reports information about the edges of a network.
+-  v.net.nreports: Reports information about the nodes.
+-  v.net.path: Finds the shortest path on the network between two nodes.
+-  v.net.report: Reports information about the edges of the network.
 -  v.net.salesman: Computes the `travelling salesman
    path <https://en.wikipedia.org/wiki/Travelling_salesman_problem>`__
    from a set of nodes on the network.
 -  v.net.spanningtree: Computes the `Spanning
-   tree <https://en.wikipedia.org/wiki/Spanning_tree>`__ of a network.
+   tree <https://en.wikipedia.org/wiki/Spanning_tree>`__ of the network.
 -  v.net.steiner: Creates `a Steiner
    tree <https://en.wikipedia.org/wiki/Steiner_tree_problem>`__ for the
    network and given nodes.
 -  v.net.visibility: Performs visibility graph construction.
 
-Use the "Help" tab on each of the v.net Processing algorithm to directly
+Use the "Help" tab on each of the v.net Processing algorithm to
 read `the official GRASS7
 documentation <https://grass.osgeo.org/grass70/manuals/topic_network.html>`__
-for more information.
+directly for more information.
 
 |image67|
 
@@ -1509,7 +1508,7 @@ Feature: New filtering and sorting options for QgsFeatureRequest
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-QgsFeatureRequest now supports settings a maximum limit for the number
+QgsFeatureRequest now supports setting a maximum limit for the number
 of features returned. In many cases this limit is passed to the
 provider, resulting in significant performance gains when only a set
 number of features are required.
@@ -1562,7 +1561,7 @@ New core classes
 -  `QgsEditFormConfig <http://qgis.org/api/classQgsEditFormConfig.html>`__
    - stores and sets configuration parameters for attribute editor forms
 -  `QgsFeatureFilterProvider <http://qgis.org/api/classQgsFeatureFilterProvider.html>`__
-   - provides a interface for modifying a QgsFeatureRequest in place to
+   - provides an interface for modifying a QgsFeatureRequest in place to
    apply additional filters to the request
 -  `QgsTracer <http://qgis.org/api/classQgsTracer.html>`__ - provides
    graph creation and shortest path search for vector layers
@@ -1637,7 +1636,7 @@ Feature: showFeatureCount in GetLegendGraphic
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-Add non standard parameter **showFeatureCount** to add feature count in
+Add non-standard parameter **showFeatureCount** to add feature count in
 the legend. To activate it,\ **showFeatureCount** can be set to *TRUE*
 or *1*.
 
@@ -1700,15 +1699,15 @@ benefit of humans. For example, a dataset might have the descriptive Title
 *Maximum Atmospheric Temperature* and be requested using the abbreviated Name
 *ATMAX*.
 
-User can already set title for layers and project. OpenGeospatial Web
-Services, OWS (WMS, WFS, WCS), name is based on the name used in layer
+Users can already set a title for layers and project. OpenGeospatial Web
+Services, OWS (WMS, WFS, WCS), name is based on the name used in the layer
 tree. This name is more a label for humans than a name for
 machine-to-machine communication.
 
-To add the capability to users to define Name as a text string for
+To add the capability for users to define Name as a text string for
 machine-to-machine communication, this feature adds:
 
--  short name line edits to layers properties
+-  short name line edits to layer properties
 -  WMS data dialog to layer tree group (short name, title, abstract)
 -  short name line edits to project properties
 -  add a regexp validator "^[A-Za-z][A-Za-z0-9.\_-]\*" to short name
@@ -1787,26 +1786,20 @@ improve the style to your needs.
 
 |image79|
 
-This feature was funded by Regional Council of Picardy, ADUGA, Ville de
-Nyon, Wetu GIT cc
-
-This feature was developed by `Matthias Kuhn,
-OPENGIS.ch <https://opengis.ch>`__
-
 Feature: Allow definition of rendering order for features
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-When features are required to be processed in a particular order, this
+When features are required to be rendered in a particular order, this
 can be specified by using an arbitrary expression.
 
 This can be configured in the layer's symbology configuration dialog and
 can be a simple field or a complex expression.
 
 It also provides control over ascending or descending order as well as
-if NULLs are first or last.
+whether NULLs are first or last.
 
-If possible, the request will be sent to the database (This depends on
+If possible, the request will be sent to the database (this depends on
 the complexity of the expression as well as the provider for the layer).
 If it is not possible to send the request to the database, the ordering
 will be performed on the local machine.
@@ -1837,7 +1830,7 @@ Geometry generator symbols allow using the expression engine to modify
 the geometry before rendering or even creating new geometries while
 rendering based on feature attributes.
 
-This can be used to use all kinds of spatial operators like buffer,
+This can use all kinds of spatial operators like buffer,
 translate, intersect or extrude with parameters based on attributes only
 for the rendering without actually modifying the data in the source.
 
@@ -1892,7 +1885,7 @@ Feature: Directly set renderer and class symbol colors from context menu in lege
 
 
 Shows a color wheel widget in the menu, which allows you to
-interactively edit the color for a symbol without having to even open a
+edit the color for a symbol interactively without even having to even open a
 single dialog!
 
 |image83|
@@ -1906,21 +1899,21 @@ Feature: Edit legend symbols directly from layer tree
 This adds a new "edit symbol" item to the right-click menu for a
 renderer child legend item (eg categories for the categorised renderer).
 Selecting it opens a symbol editor dialog which allows for directly
-editing the classes symbol. It's much faster than opening the layer
-properties and going through the style tab. You can also double click on
-a child item to immediately open the symbol editor.
+editing the class's symbol. It's much faster than opening the layer
+properties and going through the style tab. You can also double-click on
+a child item to open the symbol editor immediately.
 
 |image84|
 
 This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
-Feature: Show/hide all legend items via the the context menu
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Feature: Show/hide all legend items via the context menu
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Allows toggling on/off all the symbol items for
-categorized/graduated/rule based layers via the right click menu on an
-item. Previously you'd have to manually toggle each item one-by-one.
+categorized/graduated/rule-based layers via the right click menu on an
+item. Previously you'd have to toggle each item manually one-by-one.
 
 |image85|
 
