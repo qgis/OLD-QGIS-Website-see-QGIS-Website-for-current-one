@@ -68,10 +68,18 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |national_parks_uk|
+
+       `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2017)
+     - |bronze| |kbb_underground|
+
+       `KBB Underground Technologies <http://www.kbbnet.de/en/>`_, Germany (03.2014-03.2017)
    * - |bronze| |bgeo|
 
        `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2017)
-     -
+     - |bronze| |ager_technology|
+
+       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2017)
    * - |bronze| |geoinnova|
 
        `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2017)
@@ -138,6 +146,15 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2016)
+
+.. |national_parks_uk| image:: /static/site/about/images/NationalParksUK_logo.jpg
+   :width: 90 px
+
+.. |kbb_underground| image:: /static/site/about/images/KBB_Underground_Technologies_logo.jpg
+   :width: 90 px
+
+.. |ager_technology| image:: /static/site/about/images/ager_technology_logo.png
+   :width: 90 px
 
 .. |bgeo| image:: /static/site/about/images/bgeo.png
    :width: 90 px
