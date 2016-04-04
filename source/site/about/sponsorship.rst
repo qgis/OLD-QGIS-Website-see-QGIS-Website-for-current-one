@@ -70,8 +70,8 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |bronze| |teaching_jobs_with_footprints|
 
-       ` Teaching Jobs with Footprints <http://www.footprintsrecruiting.com/teaching-jobs-abroad>`_, Canada (04.2016-04-2017)
-     - 
+       `Teaching Jobs with Footprints <http://www.footprintsrecruiting.com/teaching-jobs-abroad>`_, Canada (04.2016-04-2017)
+     -
    * - |bronze| |national_parks_uk|
 
        `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2017)
