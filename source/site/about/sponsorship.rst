@@ -68,6 +68,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |teaching_jobs_with_footprints|
+
+       ` Teaching Jobs with Footprints <http://www.footprintsrecruiting.com/teaching-jobs-abroad>`_, Canada (04.2016-04-2017)
+     - 
    * - |bronze| |national_parks_uk|
 
        `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2017)
@@ -146,6 +150,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2016)
+
+.. |teaching_jobs_with_footprints| image:: /static/site/about/images/teaching_jobs_with_footprints.png
+   :width: 100 px
 
 .. |national_parks_uk| image:: /static/site/about/images/NationalParksUK_logo.jpg
    :width: 90 px
