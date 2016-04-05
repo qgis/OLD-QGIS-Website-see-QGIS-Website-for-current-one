@@ -4,6 +4,10 @@
 Sponsorship Program Overview
 ****************************
 
+Organizations or individuals interested in sponsoring the QGIS project should
+contact the QGIS treasurer, Andreas Neumann (finance@qgis.org) with questions,
+requests for sponsorship invoices or to make arrangements.
+
 QGIS is an entirely Open Source project. QGIS development is carried out
 largely by a group of volunteers, that in time have built up a large, valuable
 and useful code base, free to use and improve for everybody. As a result, you
@@ -118,10 +122,6 @@ following project activities:
   other developers
 
 Decisions on spending of sponsorship funds will be made by the QGIS Project Steering Committee.
-
-Organizations or individuals interested in sponsoring the QGIS project should
-contact the QGIS PSC Finance and Marketing advisor, Paolo Cavallini
-(trademark@qgis.org) with questions, or to make arrangements.
 
 .. note:: We regret that we cannot accept 'earmarked' funding as it creates
     many administrative issues. If you are interested in funding specific aspects
