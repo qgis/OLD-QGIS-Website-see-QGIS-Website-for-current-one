@@ -13,14 +13,14 @@ which consists of 9 members (with their individual responsibilities listed in
 brackets):
 
 * Tim Sutton (Chair; Testing/QA Manager)
-* Paolo Cavallini (Co-Chair; Marketing Advisor) [since January 2008]
-* Andreas Neumann (Treasurer) [since November 2015]
+* Paolo Cavallini (Co-Chair; Manager of Plugin Repository) [since January 2008]
+* Andreas Neumann (Treasurer; Contact for Sponsorships) [since November 2015]
 * Marco Hugentobler (Technical Advisor)
 * Otto Dassau (Community Advisor) [since June 2007]
 * Anita Graser (Design Advisor) [since September 2013]
 * Richard Duivenvoorde (Infrastructure Manager) [since September 2013]
 * Jürgen Fischer (Release Manager) [since September 2013]
-* Gary Sherman (Founder and lifetime Honarary Member)
+* Gary Sherman (Founder and lifetime Honorary Member)
 
 Read more about the responsibilities of the PSC :ref:`here <psc>`
 
