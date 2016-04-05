@@ -5,7 +5,7 @@ Sponsorship Program Overview
 ****************************
 
 Organizations or individuals interested in sponsoring the QGIS project should
-contact the QGIS treasurer, Andreas Neumann (finance@qgis.org) with questions,
+contact the QGIS treasurer, Andreas Neumann (finance@qgis.org), with questions,
 requests for sponsorship invoices or to make arrangements.
 
 QGIS is an entirely Open Source project. QGIS development is carried out
