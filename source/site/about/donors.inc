@@ -104,7 +104,7 @@
      - Amira El-shal
    * - Amit Chapatwala
      - Amy Taylor
-     - Ana Carolina Coca Acosta
+     - Eduardo Rojas Rodriguez
    * - Ana Rodriguez Castro
      - Anabela Amado
      - Anastasios Anagnostopoulos
