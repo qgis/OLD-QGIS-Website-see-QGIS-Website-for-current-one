@@ -49,6 +49,9 @@ A lot of the development buzz will be spoken on IRC.
 
 There is a #qgis channel on freenode.net.
 You can also use a web interface: http://webchat.freenode.net/?channels=#qgis
+If you missed a discussion on IRC, not a problem! We log all discussion, so you
+can easily catch up. Just go to http://qgis.org/irclogs.
+
 
 Another channel used to discuss QGIS development or get help is gitter.
 Follow or participate to discussion at https://gitter.im/qgis/QGIS.
