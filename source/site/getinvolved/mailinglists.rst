@@ -42,7 +42,7 @@ QGIS community team
 
 This list deals with topics like documentation, user
 guide, web sites, blog, mailing lists, forums and translation
-efforts. If you would like to work on the user guide as well, this
+efforts. If you want to work on the user guide as well, this
 list is a good starting point to ask your questions.
 
 http://lists.osgeo.org/mailman/listinfo/qgis-community-team
@@ -51,7 +51,7 @@ http://lists.osgeo.org/mailman/listinfo/qgis-community-team
 QGIS translation
 -----------------
 
-This list deals with the translation efforts. If you like to work on the
+This list deals with the translation efforts. If you want to work on the
 translation of the web site, the manuals or the graphical user interface (GUI),
 this list is a good starting point to ask your questions.
 
@@ -61,7 +61,7 @@ http://lists.osgeo.org/mailman/listinfo/qgis-tr
 QGIS education
 --------------
 
-This list deals with QGIS education efforts. If you would like to work
+This list deals with QGIS education efforts. If you want to work
 on QGIS education materials, this list is a good starting point to ask
 your questions.
 
