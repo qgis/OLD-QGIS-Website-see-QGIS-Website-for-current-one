@@ -1876,7 +1876,6 @@
      - Simon Bohnenblust
      - Simon Elgar
    * - Simon Harrison
-     - Simon Kelleher
      - Simon Miniou
    * - Simon Pickett
      - Simone Bianchi
