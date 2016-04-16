@@ -89,9 +89,9 @@ then we can download them as a kmz file and import them straight into QGIS.
 The final tool I use is Adobe After Effects as I have recently got into animating my maps to take the user on a
 journey. As used in the Land Rush series recently:
 
-* `Land Rush Ethiopia <https://ig.ft.com/sites/land-rush-investment/ethiopia/>`_
-* `Land Rush Myanmar https://ig.ft.com/sites/land-rush-investment/myanmar/>`_
-* `Land Rush Indonesia https://ig.ft.com/sites/land-rush-investment/indonesia/>`_
+- `Land Rush Ethiopia <https://ig.ft.com/sites/land-rush-investment/ethiopia/>`_
+- `Land Rush Myanmar <https://ig.ft.com/sites/land-rush-investment/myanmar/>`_
+- `Land Rush Indonesia <https://ig.ft.com/sites/land-rush-investment/indonesia/>`_
 
 **QGIS**: Do you use other spatial tools or GIS besides QGIS, and if yes, which ones?
 
