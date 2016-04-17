@@ -356,13 +356,13 @@ Book recommendations
 ....................
 
 
-- `Effective C++ <http://www.awprofessional.com/title/0321334876>`_, Scott Meyers
-- `More Effective C++ <http://www.awprofessional.com/bookstore/product.asp?isbn=020163371X&rl=1>`_, Scott Meyers
-- `Effective STL <http://www.awprofessional.com/title/0201749629>`_, Scott Meyers
-- `Design Patterns <http://www.awprofessional.com/title/0201634988>`_, GoF
+- `Effective Modern C++ <http://shop.oreilly.com/product/0636920033707.do>`_, Scott Meyers
+- `More Effective C++ <http://www.informit.com/store/more-effective-c-plus-plus-35-new-ways-to-improve-your-9780201633719>`_, Scott Meyers
+- `Effective STL <http://www.informit.com/store/effective-stl-50-specific-ways-to-improve-your-use-9780201749625>`_, Scott Meyers
+- `Design Patterns <http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612>`_, GoF
 
 You should also really read this article from Qt Quarterly on
-`designing Qt style (APIs) <http://doc.trolltech.com/qq/qq13-apis.html>`_
+`designing Qt style (APIs) <https://doc.qt.io/archives/qq/qq13-apis.html>`_
 
 
 Credits for contributions
