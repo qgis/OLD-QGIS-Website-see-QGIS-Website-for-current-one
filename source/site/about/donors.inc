@@ -2049,75 +2049,75 @@
    * - Vincent Mercier
      - Vincent Prioul
      - Vincent Verweij
-   * - Vincenzo Lomurno
+   * - Vincenzo Liguori
+     - Vincenzo Lomurno
      - Vincenzo Sale
-     - Vincenzo Trivigno
-   * - Vital J Pinheiro Jr J Pinheiro Jr
+   * - Vincenzo Trivigno
+     - Vital J Pinheiro Jr J Pinheiro Jr
      - Vito Latorraca
-     - Vitor Pereira
-   * - Vittorio Dell'Aquila
+   * - Vitor Pereira
+     - Vittorio Dell'Aquila
      - Vladimir Mikik
-     - Vladimir Vrabel
-   * - Volker Luetzenkirchen
+   * - Vladimir Vrabel
+     - Volker Luetzenkirchen
      - Volker Römer
-     - Voyages à Vélo
-   * - Walter Dellisanti
+   * - Voyages à Vélo
+     - Walter Dellisanti
      - Walter di Lorenzetti (GIS3W)
-     - Walter Hesse
-   * - Wasin Bukaew
+   * - Walter Hesse
+     - Wasin Bukaew
      - Waveware Technologies, Inc.
-     - Wayne Bulmer
-   * - Wendelin Schmitt
+   * - Wayne Bulmer
+     - Wendelin Schmitt
      - Wendell Rodrigues Feliciano
-     - Werner Hentschel
-   * - Werner Macho
+   * - Werner Hentschel
+     - Werner Macho
      - Werner Nedon
-     - Werner Nienstedt
-   * - Wesley Ward
+   * - Werner Nienstedt
+     - Wesley Ward
      - Wiktor Zalewski
-     - Wilker De Jesus Silva
-   * - William Carleton
+   * - Wilker De Jesus Silva
+     - William Carleton
      - William Colson
-     - William Jesdale
-   * - William Kalb
+   * - William Jesdale
+     - William Kalb
      - William Kelleher
-     - William Levering
-   * - William Pallies
+   * - William Levering
+     - William Pallies
      - Willy Werlen
-     - Winifred Frick
-   * - Wolfgang Dennhöfer
+   * - Winifred Frick
+     - Wolfgang Dennhöfer
      - Wolfgang Scheffler
-     - Wolfgang Stoessel
-   * - Xabier Albizu Zabala
+   * - Wolfgang Stoessel
+     - Xabier Albizu Zabala
      - Xhaustless B V B A
-     - Xuejing Zuo
-   * - Yadok Biplang
+   * - Xuejing Zuo
+     - Yadok Biplang
      - Yahya Mohatar Abderrahman
-     - Yamagishi Hiromitsu
-   * - Yann Lepage
+   * - Yamagishi Hiromitsu
+     - Yann Lepage
      - Yorck Neumann
-     - Yu Shu
-   * - Yuan Harng Lee
+   * - Yu Shu
+     - Yuan Harng Lee
      - Yuan-kee Lee
-     - Yven Dickhörner
-   * - Yves Froissart
+   * - Yven Dickhörner
+     - Yves Froissart
      - Yves Jacolin
-     - za.miastem Sylwia Cichocińska
-   * - Zachary Patterson
+   * - za.miastem Sylwia Cichocińska
+     - Zachary Patterson
      - Zebra On Wheels
-     - Zsolt Gal
-   * - Zweli Moya
+   * - Zsolt Gal
+     - Zweli Moya
      - Ângela Seixas
-     - çağla Melisa Kaya
-   * - Иваненко Андрей
+   * - çağla Melisa Kaya
+     - Иваненко Андрей
      - Коробейников Андрей
-     - Кравцов Сергей
-   * - Паршин Александр
+   * - Кравцов Сергей
+     - Паршин Александр
      - Слинкин Филипп
-     - Трифонова Евгения
-   * - เฉลิมศักดิ์ ผมพันธ์
+   * - Трифонова Евгения
+     - เฉลิมศักดิ์ ผมพันธ์
      - 吉原 佑
-     - 江 秋蓉
-   * - 田中 創平
-     -
+   * - 江 秋蓉
+     - 田中 創平
      -
