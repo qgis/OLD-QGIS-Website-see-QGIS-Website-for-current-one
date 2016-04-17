@@ -68,10 +68,18 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |windsor|
+
+       `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2017)
+     - |bronze| |gfi|
+
+       `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (04.2015-04.2017)
    * - |bronze| |teaching_jobs_with_footprints|
 
        `Teaching Jobs with Footprints <http://www.footprintsrecruiting.com/teaching-jobs-abroad>`_, Canada (04.2016-04-2017)
-     -
+     - |bronze| |fornat_ag|
+
+       `FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2014-04.2017)
    * - |bronze| |national_parks_uk|
 
        `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2017)
@@ -147,9 +155,10 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |gaia3d|
 
        `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2016)
-     - |bronze| |windsor|
+     - 
 
-       `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2016)
+.. |fornat_ag| image:: /static/site/about/images/fornat_logo.png
+   :width: 100 px
 
 .. |teaching_jobs_with_footprints| image:: /static/site/about/images/teaching_jobs_with_footprints.png
    :width: 100 px
@@ -200,7 +209,7 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 90 px
 
 .. |windsor| image:: /static/site/about/images/windsor.png
-   :width: 120 px
+   :width: 140 px
 
 .. |chartwell| image:: /static/site/about/images/chartwell.png
    :width: 90 px
@@ -305,10 +314,6 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 .. list-table:: Past Bronze sponsors
 
-  * - |bronze| |gfi|
-
-       `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
-    -
   * - |bronze| |argus|
 
        `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
