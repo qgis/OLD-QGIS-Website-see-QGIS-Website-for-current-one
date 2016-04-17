@@ -16,6 +16,14 @@ Short Introduction with background of the company / institute / authority / univ
 Story about your project/application and what QGIS is used for (length about 400 words plus screenshots)
 Conclusion showing positive experiences/benefits using QGIS (length about 200 words)
 
+2016
+....
+
+.. toctree::
+    :maxdepth: 1
+
+    [2016/04] QGIS at the Financial Times Graphics Team by Steve Bernard <qgis_at_financial_times
+
 2015 
 ....
 
