@@ -25,6 +25,14 @@ The newly formed team will allow for a lot more cross-over of skills between the
 Alan has introduced a single digital workflow for our team, including using d3 to help create
 a larger graphic vocabulary and cutting down the time it takes to create the visuals.
 
+.. figure:: ./images/ft_europe_migration_balkan-route.png
+   :alt: Migrant flows. Western Balkans route.
+   :scale: 100%
+   :align: left
+   
+*Example: Migrant flows. Western Balkans route.*
+
+
 **QGIS**: How many co-workers are there in your team?
 
 **Steven**: Including all the designers, developers, producers and statisticians we have a team of 24
@@ -33,11 +41,19 @@ a larger graphic vocabulary and cutting down the time it takes to create the vis
 
 **Steven**: We are a multi-disciplinary department so I don’t have a specific role as such. My role
 includes producing responsive designs for interactive graphics as well as doing the front-end
-development on the less complicated interactives (ft.com/isisoil). I also produce the standard
+development on the less complicated interactives (e.g. `Inside Isis Inc: The journey of a barrel of oil <ft.com/isisoil>`_). I also produce the standard
 news related charts and maps on a daily basis. Over the past two years I have been concentrating
 on developing our cartographic offerings at the FT. QGIS has been instrumental in changing how we
 produce maps, and in conjunction with other tools such Blender have helped me to be more creative
 with how we approach maps.
+
+.. figure:: ./images/ft_nigeria-migration_animation.gif
+   :alt: Dora's journey from Nigeria to Sicily - one of thousands by trafficked women each year
+   :scale: 100%
+   :align: left
+   
+*Example: Animation of Dora's journey from Nigeria to Sicily - one of thousands by trafficked women each year.*
+
 
 **QGIS**: Can you tell us a bit about yourself? What's your educational background?
 What did you do before joining the data visualization team at FT?
@@ -49,6 +65,14 @@ showing the human circulatory system, or showing a procedure to fix a broken bon
 wasn’t much call for that kind of work when I left university and I basically fell into the job
 at the FT. I have always been good at maths, which I think is important when working with data
 visualisations, it has certainly helped me with my coding as well.
+
+.. figure:: ./images/ft_gotthard-tunnel.png
+   :alt: Gotthard rail and road tunnel
+   :scale: 60%
+   :align: left
+   
+*Example: Gotthard rail and road tunnel in the Swiss Alps.*
+
 
 **QGIS**: How did you discover QGIS?
 
@@ -62,11 +86,27 @@ things twice, once when done editing the shapefile, then again to save the proje
 just down to inexperience with the program and in the end it did exactly what we needed, which was to
 produce shapefiles that we could add to a Mapbox base map.
 
+.. figure:: ./images/ft_blm-federal-land-map.png
+   :alt: Public Lands in the US
+   :scale: 100%
+   :align: left
+   
+*Example: Publick Lands in the US.*
+
+
 **QGIS**: What's the role of QGIS within your usual workflows?
 
 **Steven**: QGIS is now an integral part of our mapping workflow. I don’t use any other GIS tool to create our maps.
 Although a few members of our team also use Map Publisher as they feel more comfortable staying within Adobe Illustrator.
 I would say 80% of our maps are now produced in QGIS.
+
+.. figure:: ./images/ft_isis-air-strikes_febupdate.png
+   :alt: Strikes on Syria in February 2016
+   :scale: 100%
+   :align: left
+
+*Example: Strikes on Syria in February 2016.*
+
 
 **QGIS**: What other tools do you use besides QGIS and how do you combine these?
 
@@ -79,7 +119,7 @@ If I am using a satellite overlay on the hillshading then I will download a Blue
 into Blender as well. The exported render from Blender is then brought back into QGIS to use as a background layer.
 I may tweak it in Photoshop beforehand if necessary.
 
-For responsive maps like those in the Isis oil story (ft.com/isisoil), I used all of the above tools but the final
+For responsive maps like those in the `Isis oil story <ft.com/isisoil>`_, I used all of the above tools but the final
 step is to use an open source Adobe Illustrator script developed by the New York Times’ Archie Tse. This allows me to
 create responsive versions of my maps that work on all devices.
 
@@ -117,11 +157,27 @@ So all I have to do is download the csv, import it into QGIS, apply a style and 
 To be perfectly honest I can’t think of any weaknesses, there are a couple of things that I would like to see
 or be able to do but, I don’t see that as a weakness, just a missing feature.
 
+.. figure:: ./images/ft_chinaMigration.png
+   :alt: Urban Attraction and Migration within China
+   :scale: 100%
+   :align: left
+   
+*Example: Urban Attraction and Migration within China.*
+
+
 **QGIS**: What are the concepts or features you like the most in QGIS?
 
 **Steven**: There are numerous features that I would class as life savers! But primarily Quick OSM and
 Georeferencer have saved me so much time, this is absolutely essential when deadlines are tight. Which,
 when working for a news organisation, is usually 90% of the time.
+
+.. figure:: ./images/ft_china_henanGuangdong.png
+   :alt: Urban Attraction and Migration within China, Details
+   :scale: 100%
+   :align: left
+   
+*Example: Urban Attraction and Migration within China. Detail views.*
+
 
 **QGIS**: What features or functionality in QGIS do you miss the most? Do you have a list of missing features
 that would help you a lot if implemented?
@@ -144,6 +200,14 @@ missing feature for you? Or would you instead look for other tools to fill in th
 Javascript but would struggle with Python. I would love to hire a developer to get features implemented
 but unfortunately I’m not in control of any budgets, so I use other tools to get around this.
 
+.. figure:: ./images/ft_us_broadband_internet_subscription.png
+   :alt: Percentage of households with a broadband internet subscription in the US.
+   :scale: 100%
+   :align: left
+   
+*Example: Percentage of households with a broadband internet subscription in the US.*
+
+
 **QGIS**: Let's talk about user experience - the QGIS team is aware that there are various places
 in the UI (dialogs, panels, etc) that could be improved a lot. Can you tell us a little bit where
 in the UI you see the biggest potential for a UI overhaul?
@@ -157,5 +221,14 @@ locations.
 
 **QGIS**: Thank you for your time and the work you do for promoting and documenting workflows in QGIS!
 
+.. figure:: ./images/ft_potrait_steve_bernard.jpg
+   :alt: Portrait Steve Bernard
+   :scale: 20%
+   :align: left
+
+*Portrait of Steve Bernard. Interactive Design Editor at Financial Times.*
+
+   
 **Steven**: A pleasure, I’m almost evangelical about QGIS! Hence the 31 tutorials and always happy to spread the word.
 
+Interview questions by A. Neumann and T. Sutton. April 2016.
