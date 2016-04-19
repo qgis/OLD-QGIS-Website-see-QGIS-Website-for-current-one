@@ -1,7 +1,6 @@
 ================================================
 Use of QGIS at the Financial Times Graphics Team
 ================================================
-
 ---------------------------------------------------------
 Interview with Steven Bernard (Interactive Design Editor)
 ---------------------------------------------------------
@@ -58,14 +57,6 @@ with how we approach maps.
 **QGIS**: Can you tell us a bit about yourself? What's your educational background?
 What did you do before joining the data visualization team at FT?
 
-**Steven**: I am traditionally trained as scientific illustrator. What’s that I hear you ask?
-It involves producing illustrations for medical journals, natural history publications anything
-where you are trying to convey information visually where a photograph can’t. Think of diagrams
-showing the human circulatory system, or showing a procedure to fix a broken bone. Sadly there
-wasn’t much call for that kind of work when I left university and I basically fell into the job
-at the FT. I have always been good at maths, which I think is important when working with data
-visualisations, it has certainly helped me with my coding as well.
-
 .. figure:: ./images/ft_gotthard-tunnel.png
    :alt: Gotthard rail and road tunnel
    :scale: 60%
@@ -73,6 +64,14 @@ visualisations, it has certainly helped me with my coding as well.
    
 *Example: Gotthard rail and road tunnel in the Swiss Alps.*
 
+
+**Steven**: I am traditionally trained as scientific illustrator. What’s that I hear you ask?
+It involves producing illustrations for medical journals, natural history publications anything
+where you are trying to convey information visually where a photograph can’t. Think of diagrams
+showing the human circulatory system, or showing a procedure to fix a broken bone. Sadly there
+wasn’t much call for that kind of work when I left university and I basically fell into the job
+at the FT. I have always been good at maths, which I think is important when working with data
+visualisations, it has certainly helped me with my coding as well.
 
 **QGIS**: How did you discover QGIS?
 
@@ -86,26 +85,18 @@ things twice, once when done editing the shapefile, then again to save the proje
 just down to inexperience with the program and in the end it did exactly what we needed, which was to
 produce shapefiles that we could add to a Mapbox base map.
 
-.. figure:: ./images/ft_blm-federal-land-map.png
-   :alt: Public Lands in the US
-   :scale: 100%
-   :align: left
-   
-*Example: Publick Lands in the US.*
-
-
 **QGIS**: What's the role of QGIS within your usual workflows?
 
 **Steven**: QGIS is now an integral part of our mapping workflow. I don’t use any other GIS tool to create our maps.
 Although a few members of our team also use Map Publisher as they feel more comfortable staying within Adobe Illustrator.
 I would say 80% of our maps are now produced in QGIS.
 
-.. figure:: ./images/ft_isis-air-strikes_febupdate.png
-   :alt: Strikes on Syria in February 2016
+.. figure:: ./images/ft_blm-federal-land-map.png
+   :alt: Public Lands in the US
    :scale: 100%
    :align: left
-
-*Example: Strikes on Syria in February 2016.*
+   
+*Example: Public Lands in the US.*
 
 
 **QGIS**: What other tools do you use besides QGIS and how do you combine these?
@@ -136,6 +127,14 @@ journey. As used in the Land Rush series recently:
 **QGIS**: Do you use other spatial tools or GIS besides QGIS, and if yes, which ones?
 
 **Steven**: QGIS all the way for me, but as mentioned above some of my colleagues use Map Publisher as well.
+
+.. figure:: ./images/ft_isis-air-strikes_febupdate.png
+   :alt: Strikes on Syria in February 2016
+   :scale: 100%
+   :align: left
+
+*Example: Strikes on Syria in February 2016.*
+
 
 **QGIS**: Can you describe the strengths and weaknesses of QGIS regarding the tasks you have to do?
 
@@ -223,12 +222,12 @@ locations.
 
 .. figure:: ./images/ft_potrait_steve_bernard.jpg
    :alt: Portrait Steve Bernard
-   :scale: 20%
+   :width: 50%
    :align: left
 
 *Portrait of Steve Bernard. Interactive Design Editor at Financial Times.*
 
    
-**Steven**: A pleasure, I’m almost evangelical about QGIS! Hence the 31 tutorials and always happy to spread the word.
+**Steven**: A pleasure, I’m almost evangelical about QGIS! Hence the `31 video tutorials <https://t.co/6aTE6G8h0T>`_ and always happy to spread the word.
 
 Interview questions by A. Neumann and T. Sutton. April 2016.
