@@ -40,7 +40,7 @@ a larger graphic vocabulary and cutting down the time it takes to create the vis
 
 **Steven**: We are a multi-disciplinary department so I don’t have a specific role as such. My role
 includes producing responsive designs for interactive graphics as well as doing the front-end
-development on the less complicated interactives (e.g. `Inside Isis Inc: The journey of a barrel of oil <ft.com/isisoil>`_). I also produce the standard
+development on the less complicated interactives (e.g. `Inside Isis Inc: The journey of a barrel of oil <http://ig.ft.com/sites/2015/isis-oil/>`_). I also produce the standard
 news related charts and maps on a daily basis. Over the past two years I have been concentrating
 on developing our cartographic offerings at the FT. QGIS has been instrumental in changing how we
 produce maps, and in conjunction with other tools such Blender have helped me to be more creative
@@ -110,7 +110,7 @@ If I am using a satellite overlay on the hillshading then I will download a Blue
 into Blender as well. The exported render from Blender is then brought back into QGIS to use as a background layer.
 I may tweak it in Photoshop beforehand if necessary.
 
-For responsive maps like those in the `Isis oil story <ft.com/isisoil>`_, I used all of the above tools but the final
+For responsive maps like those in the `Isis oil story <http://ig.ft.com/sites/2015/isis-oil/>`_, I used all of the above tools but the final
 step is to use an open source Adobe Illustrator script developed by the New York Times’ Archie Tse. This allows me to
 create responsive versions of my maps that work on all devices.
 
