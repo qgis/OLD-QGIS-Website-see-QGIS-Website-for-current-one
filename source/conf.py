@@ -67,7 +67,7 @@ copyright = u'{0}, QGIS Contributors'.format( datetime.now().year )
 version = '2.14'
 release = '2.14.1'
 codename = 'Essen'
-releasedate = date(2015,3,25)
+releasedate = date(2016,3,25)
 releasenote = '(LTR candidate)'
 
 # long term release
