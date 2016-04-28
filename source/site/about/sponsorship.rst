@@ -52,13 +52,13 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 150 px
 
 .. |sourcepole| image:: /static/site/about/images/sourcepole.png
-   :width: 150 px
+   :width: 175 px
 
 .. |agh| image:: /static/site/about/images/agh.png
    :width: 90 px
 
 .. |vorarlberg| image:: /static/site/about/images/land_f.jpg
-   :width: 150 px
+   :width: 175 px
 
 .. |opw| image:: /static/site/about/images/opw.jpg
    :width: 150 px
@@ -68,6 +68,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |gepol|
+
+       `GEPOL <http://www.gepol.com.pl/>`_, Poland (04.2016-04.2017)
+     - 
    * - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2017)
@@ -156,6 +160,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
        `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2016)
      - 
+
+.. |gepol| image:: /static/site/about/images/gepol_logo.png
+   :width: 110 px
 
 .. |fornat_ag| image:: /static/site/about/images/fornat_logo.png
    :width: 100 px
