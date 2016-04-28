@@ -1679,7 +1679,7 @@
      - Pier Francesco Costantini
    * - Piera Di Marzio
      - Piergiorgio Rocchi
-     - Piergiorgio Roveda
+     - PJHooker
    * - Piergiovanna Grossi
      - Piero Rubiu
      - Pierre Ghysel
