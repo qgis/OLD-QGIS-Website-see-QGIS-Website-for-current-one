@@ -44,20 +44,24 @@ so any contribution you have to make will be greatly appreciated.
 
 The complete list of documents managed by the QGIS Documentation Team can be found
 at http://www.qgis.org/en/docs/index.html.
-All the documentation sources are hosted in `QGIS-Documentation Github repository
+All the documentation sources are hosted in `QGIS-Documentation repository
 <https://github.com/qgis/QGIS-Documentation>`_. If you want to update some features
 in QGIS or document new ones, you need to:
 
 - have a `GitHub account <https://github.com/join>`_
 - `fork the repository <https://help.github.com/articles/working-with-forks/>`_
-- do your changes : guidelines for writing QGIS documentation are available at
-  http://docs.qgis.org/testing/en/docs/documentation_guidelines/index.html
-- and submit a pull request. You can find a few guidelines that will help you manage
-  these processes at :ref:`git_access`.
+- do your changes
+- and submit a pull request.
 
-.. note:: 
-  To help you easily find which file to update in the repository, there's a ``Fix me`` link
-  provided at the bottom of any page of the Testing documentation that
-  helps you directly reach the corresponding file in your fork.
-  Just make your changes and submit pull request.
+Instructions for contributing in documentation and managing a git repository
+are available at `Documentation Guidelines
+<http://docs.qgis.org/testing/en/docs/documentation_guidelines/index.html>`_
+
+.. tip:: **Direct access to source file**
+  
+  To easily find the file to update in the repository, use the
+  ``Fix me`` link provided at the bottom of any page of the ``Testing``
+  documentation. It directly opens the source file in your forked repo.
+  Just make your changes, commit in a new branch and submit pull request to the
+  main repository.
 
