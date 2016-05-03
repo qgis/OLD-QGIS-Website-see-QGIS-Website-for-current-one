@@ -9,12 +9,19 @@ team of developers, documenters, translators and supporters.
 Despite the efforts of the team to release QGIS without bugs, there may remain
 some bugs. If you find a bug or want new features to be added, please report it!
 
-Two main means are offered to report bugs, request enhancements and submit patches 
-either for the QGIS applications (through Redmine) or for the web site and 
-the documentation (through Github).
+Two different means are offered to report bugs, request enhancements and submit
+patches to the project:
 
-Applications
-------------
+* `Redmine trac <http://hub.qgis.org/projects/quantum-gis>` for issues
+  related to QGIS applications
+* and GitHub for the `web site <https://github.com/qgis/QGIS-Website/issues>` 
+  and the `documentation <https://github.com/qgis/QGIS-Documentation/issues>`
+  matters.
+
+For questions, please contact the :ref:`QGIS-mailinglists`.
+
+Reports on applications
+-----------------------
 
 You need an OSGeo account and login in order to submit bug reports on QGIS 
 applications (QGIS Desktop, QGIS Browser and QGIS Server). 
@@ -162,8 +169,8 @@ reproduce the output might shed some light about where QGIS crashes.
 .. _DebugView: http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx
 
 
-Website and Documentation
--------------------------
+Website and Documentation's reports
+------------------------------------
 
 QGIS project provides an active `web site <http://qgis.org>`_ and a rich 
 `documentation <http://qgis.org/en/docs/index.html>`_. Despite our efforts,
