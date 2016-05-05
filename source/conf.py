@@ -67,6 +67,7 @@ copyright = u'{0}, QGIS Contributors'.format( datetime.now().year )
 version = '2.14'
 release = '2.14.2'
 codename = 'Essen'
+binary = '2'
 releasedate = date(2016,4,29)
 releasenote = '(LTR candidate)'
 
@@ -74,6 +75,7 @@ releasenote = '(LTR candidate)'
 ltrversion = '2.8'
 ltrrelease = '2.8.9'
 ltrcodename = 'Wien'
+ltrbinary = '1'
 
 devversion = '2.15'
 nextversion = '2.16'
@@ -324,6 +326,8 @@ def setup(app):
     app.add_config_value('nextfreezedate', None, 'env')
     app.add_config_value('nextreleasedate', None, 'env')
     app.add_config_value('nextpointreleasedate', None, 'env')
+    app.add_config_value('binary', None, 'env')
+    app.add_config_value('ltrbinary', None, 'env')
 
 context = {
     'codename': codename,
@@ -337,6 +341,8 @@ context = {
     'nextfreezedate': nextfreezedate,
     'nextreleasedate': nextreleasedate,
     'nextpointreleasedate': nextpointreleasedate,
+    'binary': binary,
+    'ltrbinary': ltrbinary,
 }
 
 rst_epilog += "\n".join( map( lambda x: ".. |%s| replace:: %s" % (x,context[x]), context.keys()) )
