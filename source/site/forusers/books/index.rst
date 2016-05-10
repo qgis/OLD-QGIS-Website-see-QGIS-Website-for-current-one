@@ -29,6 +29,15 @@ The Workbook for the Award Winning GeoAcademy Curriculum
 * Author(s): Kurt Menke
 * Date: to be published!
 
+Learning QGIS - Third Edition
+*******************************
+
+Use QGIS to create great maps and perform all the geoprocessing tasks you need.
+
+* https://www.packtpub.com/big-data-and-business-intelligence/learning-qgis-third-edition
+* Author(s): Anita Graser
+* Date: March 2016
+
 QGIS Map Design 
 ****************
 
@@ -36,7 +45,7 @@ Learn how to use QGIS to take your cartographic products to the highest level.
 
 * http://locatepress.com/qmd
 * Author(s): Anita Graser and Gretchen N. Peterson
-* Date: to be published!
+* Date: March 2016
 
 Mastering QGIS
 ***************
@@ -79,14 +88,6 @@ automated geospatial framework
 * Author(s): Joel Lawhead
 * Date: March 2015
 
-Learning QGIS - Second Edition
-*******************************
-
-Use QGIS to create great maps and perform all the geoprocessing tasks you need.
-
-* https://www.packtpub.com/application-development/learning-qgis-second-edition
-* Author(s): Anita Graser
-* Date: December 2014
 
 The PyQGIS Programmer's Guide - Extending QGIS with Python
 ***********************************************************
