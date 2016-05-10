@@ -68,10 +68,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
-   * - |bronze| |gepol|
+   * - |bronze| |gaia3d|
+
+       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2017)
+     - |bronze| |gepol|
 
        `GEPOL <http://www.gepol.com.pl/>`_, Poland (04.2016-04.2017)
-     - 
    * - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2017)
@@ -156,10 +158,6 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |geosynergy|
 
        `www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (05.2012-05.2013+06.2015-06-2016)
-   * - |bronze| |gaia3d|
-
-       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2016)
-     - 
 
 .. |gepol| image:: /static/site/about/images/gepol_logo.png
    :width: 110 px
