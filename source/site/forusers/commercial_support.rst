@@ -189,19 +189,19 @@ commercial support, custom programming and training for QGIS, PostGIS and GRASS.
 Others
 ------
 
-.. |astun| image:: /static/site/about/images/astun.jpg
-   :width: 75 px
-
-|astun| `Astun Technology <http://astuntechnology.com/>`_ (based in UK) provides
-training for QGIS.
-
-----
-
 .. |agx| image:: /static/site/about/images/agx.gif
    :width: 75 px
 
 |agx| `AdventGX <http://www.adventgx.com/>`_ (based in College Station, TX)
 provides installation, training, and implementation support for QGIS.
+
+----
+
+.. |astun| image:: /static/site/about/images/astun.jpg
+   :width: 75 px
+
+|astun| `Astun Technology <http://astuntechnology.com/>`_ (based in UK) provides
+training for QGIS.
 
 ----
 
@@ -222,19 +222,20 @@ ecological analysis services and support and assistance with QGIS.
 
 ----
 
+.. |claasleiner| image:: /static/site/about/images/claasleiner.png
+   :width: 75 px
+
+|claasleiner| `GKG Kassel, Germany (Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_
+provides training, services and support around the free geographic information systems QGIS,
+GRASS, SAGA and PostGIS as well as spatial data management, analysis and cartography.
+
+----
+
 .. |karttakeskus| image:: /static/site/about/images/karttakeskus.png
    :width: 75 px
 
 |karttakeskus| `Karttakeskus <http://www.karttakeskus.fi/>`_ (based in Finland)
 provides commercial support and training for QGIS and open spatial data.
-
-----
-
-.. |soltig| image:: /static/site/about/images/soltig.png
-   :width: 75 px
-
-|soltig| `Soluciones en Tecnologías de Información Geográfica (SOLTIG)  <http://www.soltig.net/>`_
-(based in Costa Rica) provides training, support, consulting and programming for QGIS and other FOSS applications.
 
 ----
 
@@ -275,12 +276,11 @@ provides commercial GIS consulting, support and training in QGIS.
 
 ----
 
-.. |claasleiner| image:: /static/site/about/images/claasleiner.png
+.. |soltig| image:: /static/site/about/images/soltig.png
    :width: 75 px
 
-|claasleiner| `GKG Kassel, Germany (Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_
-provides training, services and support around the free geographic information systems QGIS,
-GRASS, SAGA and PostGIS as well as spatial data management, analysis and cartography.
+|soltig| `Soluciones en Tecnologías de Información Geográfica (SOLTIG)  <http://www.soltig.net/>`_
+(based in Costa Rica) provides training, support, consulting and programming for QGIS and other FOSS applications.
 
 ----
 
