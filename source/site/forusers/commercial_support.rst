@@ -166,7 +166,7 @@ Contributors
    :width: 75 px
 
 |cartoexpert| `CartoExpert <http://www.cartoexpert.com/index.php/formations/qgis-formation-quantum-gis.html>`_
-based in France) is a geomatics
+(based in France) is a geomatics
 competence center offering both national and international services,
 consulting in cartography as well as geographical information systems.
 CartoExpert provide with technical support on QGIS, assistance in
@@ -198,7 +198,7 @@ OpenLayers
 .. |zuidtlogo| image:: /static/site/about/images/zuidt.png
    :width: 75 px
 
-|zuidtlogo| `Zuidt <http://zuidt.nl/>`_ based in Haarlem The Netherlands,
+|zuidtlogo| `Zuidt <http://zuidt.nl/>`_ (based in Haarlem, The Netherlands)
 wants Geographical Information to be open and simple.
 Zuidt wants to be THE dutch (international) QGIS specialist, and provides
 consulting, plugin coding and training services.
