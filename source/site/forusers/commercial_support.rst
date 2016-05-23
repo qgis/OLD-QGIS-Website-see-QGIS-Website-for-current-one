@@ -116,6 +116,18 @@ provides commercial support and custom programming for QGIS.
 
 ----
 
+.. |north_road| image:: /static/site/about/images/north_road.png
+   :width: 250 px
+
+|north_road| `North Road <http://north-road.com/>`_ (based in
+Australia) specialises in custom development solutions for QGIS features
+and fixes, and also offers training and commercial support in the open source
+geospatial stack. North Road has a established history in quality QGIS
+development, and has been responsible for thousands of feature and
+fixes within the QGIS codebase since 2013.
+
+----
+
 .. |opengisch| image:: /static/site/about/images/opengisch-logo.png
    :width: 200 px
 
