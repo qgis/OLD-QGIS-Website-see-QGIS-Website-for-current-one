@@ -10,40 +10,40 @@ Last Change : *Friday April 15, 2016*
 Introduction
 ===============
 
-This document is the original installation guide of the described software 
-QGIS. The software and hardware descriptions named in this 
-document are in most cases registered trademarks and are therefore subject 
-to the legal requirements. QGIS is subject to the GNU General Public 
+This document is the original installation guide of the described software
+QGIS. The software and hardware descriptions named in this
+document are in most cases registered trademarks and are therefore subject
+to the legal requirements. QGIS is subject to the GNU General Public
 License. Find more information on the QGIS Homepage:
 http://qgis.org
 
-The details, that are given in this document have been written and verified 
-to the best of knowledge and responsibility of the editors. Nevertheless, 
-mistakes concerning the content are possible. Therefore, all data are not 
-liable to any duties or guarantees. The editors and publishers do not take 
-any responsibility or liability for failures and their consequences. You are 
+The details, that are given in this document have been written and verified
+to the best of knowledge and responsibility of the editors. Nevertheless,
+mistakes concerning the content are possible. Therefore, all data are not
+liable to any duties or guarantees. The editors and publishers do not take
+any responsibility or liability for failures and their consequences. You are
 always welcome for indicating possible mistakes.
 
-You can download this document as part of the QGIS 'User and 
-Installation Guide' in HTML and PDF format via http://qgis.org. A current 
+You can download this document as part of the QGIS 'User and
+Installation Guide' in HTML and PDF format via http://qgis.org. A current
 version is also available at:
 http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html
 
-Translations of this document can also be downloaded at the documentation area 
+Translations of this document can also be downloaded at the documentation area
 of the QGIS project at http://qgis.org. More information is available via
-http://qgis.org/en/site/getinvolved/governance/organisation/governance.html#community-resources. 
+http://qgis.org/en/site/getinvolved/governance/organisation/governance.html#community-resources.
 
-Please visit http://qgis.org for information on joining our mailing lists 
+Please visit http://qgis.org for information on joining our mailing lists
 and getting involved in the project further.
 
 .. note:: **To document writers**
   
    Please use this document as the central
-   place for describing build procedures. Please do not remove this notice. 
+   place for describing build procedures. Please do not remove this notice.
 
-   This document is generated from 
-   doc/INSTALL.t2t - if you need to edit this document, be sure to edit that 
-   file rather than the generated INSTALL document found in the root of the 
+   This document is generated from
+   doc/INSTALL.t2t - if you need to edit this document, be sure to edit that
+   file rather than the generated INSTALL document found in the root of the
    source directory.
 
 
@@ -314,8 +314,9 @@ Building QGIS with Qt 5.x
 ..........................
 
 .. warning:: Qt 5 is not officially supported. Building against Qt 5
-   libraries seems to work quiet well alrady but be prepared that you are one
-   of very few with this setup. We strongly recommend using QGIS with Qt 4.
+   libraries seems to work quite well already but be prepared that you are one
+   of very few with this setup. We strongly recommend using QGIS with Qt 4
+   for production work.
 
 Python bindings in particular are not expected to be compatible. When Qt 5
 is enabled, the build system automatically activates Python 3 and PyQt5 as well.
