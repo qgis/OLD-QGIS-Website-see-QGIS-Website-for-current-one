@@ -29,10 +29,10 @@ You may provide information such as:
 * if applicable, what have you tried and the result you got
 * if your question is about something broken, you may also provide:
 
-  * what exactly is the error (if possible: screendump, stacktrace, copy of errortext)
+  * what exactly is the error (if possible: screendump, stacktrace, copy of error text)
   * which Operating System and version
   * how you installed it (osgeo4w? standalone-installer? own build?)
-  * at what time did it break (reinstall, new install, system update, project??)
+  * at what time did it break (reinstall, new install, system update, project changes)
 
 Keep in mind that the more precise is your question, the quicker and more
 accurate can be the answer.
