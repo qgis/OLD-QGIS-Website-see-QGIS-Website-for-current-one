@@ -106,24 +106,3 @@ Conclusion showing positive experiences/benefits using QGIS (length about 200 wo
 
     [2009/05] QGIS in the governmental FOSSGIS stack of the Canton of Solothurn in Switzerland by Dr. Horst Düster <suisse_solothurn>
 
-.. _`QGIS for monitoring tigers using camera traps in Nameri Tiger Reserve`: ./india_assam.html
-.. _`QGIS Maps Historic Herpetofaunal Records in Missouri`: ./usa_missouri.html
-.. _`Creating the Fundy Footpath Trail Map with QGIS`: ./canada_brunswick.html
-.. _`QGIS and Forest Fire Risk Mapping in Portugal`: ./portugal_pinhel.html
-.. _`Using QGIS to Map Hotspot Areas for Biodiversity and Ecosystem Services (HABEaS)`: ./portugal_lisbon.html
-.. _`QGIS and GRASS for modelling ecological corridors for wolves in North Portugal`: ./portugal_ribeira.html
-.. _`QGIS Trainings at NIRD Jaipur Centre, India`: ./india_hyderabad.html
-.. _`Using QGIS for urban planning in the municipality of Montecchio Maggiore, Vicenza, Italy`: ./italy_vicenza.html
-.. _`Amurum forest reserve habitat and avifauna mapping with QGIS`: ./nigeria_jos.html
-.. _`Using QGIS for wildlife training in Tanzania`: ./tanzania_udzungwa.html
-.. _`The growth of QGIS at the Federal Department of Town and Country Planning`: ./malaysia_kuala.html
-.. _`QGIS at high school`: ./argentinia_chubut.html
-.. _`The use of QGIS in the Geodata Infrastructure of the City of Uster`: ./suisse_uster.html
-.. _`Using a free GIS at Jaime Moniz Secondary School`: ./portugal_funchal.html
-.. _`QGIS and GRASS in Local Government Bushfire Hazard Mapping`: ./australia_queens.html
-.. _`QGIS and GRASS applied to paleontological survey in Western Portugal`: ./portugal_torres.html
-.. _`QGIS as major GIS software in the Laboratory on Experimental and Applied Geography`: ./czech_brno.html
-.. _`Working with QGIS in a spatial data infrastructure of Jalisco`: ./mexico_jalisco.html
-.. _`QGIS and GRASS in Biogeographical Research in Spain`: ./portugal_evora.html
-.. _`QGIS --- an interesting instrument for forestry planning`: ./suisse_basel.html
-.. _`QGIS in the governmental FOSSGIS stack`: ./suisse_solothurn.html
