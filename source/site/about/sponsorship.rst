@@ -167,7 +167,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (05.2012-05.2013+06.2015-06-2016)
      - 
 
-.. |ncc| image:: /static/site/about/images/soltig.png
+.. |soltig| image:: /static/site/about/images/soltig.png
    :width: 110 px
 
 .. |ncc| image:: /static/site/about/images/ncc-logo.png
