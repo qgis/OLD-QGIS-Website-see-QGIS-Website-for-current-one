@@ -68,10 +68,16 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |terrelogiche|
+
+       `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2017)
+     - 
    * - |bronze| |ncc|
 
        `NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)
-     - 
+     - |bronze| |soltig|
+
+       `SOLTIG (Soluciones en Tecnologías de Información Geográfica) <http://www.soltig.net/>`_, Costa Rica (06.2016-06.2017)
    * - |bronze| |gaia3d|
 
        `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2017)
@@ -122,7 +128,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2017)
    * - |bronze| |claasleinert|
 
-       `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2017)
+       `GKG Kassel (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2017)
      - |bronze| |cawdor_forestry|
 
        `CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, Scotland (02.2016-02.2017)
@@ -156,12 +162,13 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |qpolska|
 
        `QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
-   * - |bronze| |terrelogiche|
-
-       `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2016)
-     - |bronze| |geosynergy|
+   * - |bronze| |geosynergy|
 
        `www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (05.2012-05.2013+06.2015-06-2016)
+     - 
+
+.. |ncc| image:: /static/site/about/images/soltig.png
+   :width: 110 px
 
 .. |ncc| image:: /static/site/about/images/ncc-logo.png
    :width: 90 px
