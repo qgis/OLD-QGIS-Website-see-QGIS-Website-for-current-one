@@ -32,21 +32,20 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
+   * - |silver| |vorarlberg|
+       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-06.2017)
+
    * - |silver| |opw|
        `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2016)
 
    * - |silver| |gaia|
-       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (11.2015-11.2016)
+       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2016)
 
    * - |silver| |sourcepole|
        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2016)
 
    * - |silver| |agh|
        `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
-
-   * - |silver| |vorarlberg|
-       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-05.2016)
-
 
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 150 px
@@ -162,10 +161,6 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |qpolska|
 
        `QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
-   * - |bronze| |geosynergy|
-
-       `www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (05.2012-05.2013+06.2015-06-2016)
-     - 
 
 .. |soltig| image:: /static/site/about/images/soltig.png
    :width: 110 px
@@ -315,12 +310,6 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
   * - |silver| |sogis|
 
       `Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013 and 04.2011-04.2012)
-  * - |silver| |gaiasilver|
-
-      `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (06.2013-06.2014)
-  * - |silver| |vorarlberg2|
-
-      `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-11.2012)
 
 .. |sogis| image:: /static/site/about/images/sogis.gif
    :width: 110 px
@@ -333,6 +322,10 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 .. list-table:: Past Bronze sponsors
 
+  * - |bronze| |geosynergy|
+
+       `Geosynergy <www.geosynergy.com.au>`_, Australia (05.2012-05.2013+06.2015-06-2016)
+    - 
   * - |bronze| |argus|
 
        `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
