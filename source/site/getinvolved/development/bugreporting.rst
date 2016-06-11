@@ -14,8 +14,8 @@ patches to the project:
 
 * `Redmine trac <http://hub.qgis.org/projects/quantum-gis>`_ for issues
   related to QGIS applications
-* and GitHub for the `web site <https://github.com/qgis/QGIS-Website/issues>`_ 
-  and the `documentation <https://github.com/qgis/QGIS-Documentation/issues>`_
+* and GitHub for `the web site <https://github.com/qgis/QGIS-Website/issues>`_ 
+  and `the documentation <https://github.com/qgis/QGIS-Documentation/issues>`_
   matters.
 
 For questions, please contact the :ref:`QGIS-mailinglists`.
