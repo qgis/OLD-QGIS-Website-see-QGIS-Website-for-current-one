@@ -67,7 +67,7 @@ copyright = u'{0}, QGIS Contributors'.format( datetime.now().year )
 version = '2.14'
 release = '2.14.3'
 codename = 'Essen'
-binary = '1'
+binary = '2'
 releasedate = date(2016,5,20)
 releasenote = '(LTR candidate)'
 
@@ -75,7 +75,7 @@ releasenote = '(LTR candidate)'
 ltrversion = '2.8'
 ltrrelease = '2.8.9'
 ltrcodename = 'Wien'
-ltrbinary = '1'
+ltrbinary = '2'
 
 devversion = '2.15'
 nextversion = '2.16'
