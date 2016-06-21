@@ -535,7 +535,7 @@ section.latest-news p.intro {
 }
 
 .span3 img.flickrimg {
-    width: 230px;
+    width: 150px;
 }
 
 section.sponsors {
@@ -906,4 +906,11 @@ section.menu nav.subnav ul li a:hover {
   color: #E22;
   padding-left: 3px;
   padding-right: 3px;
+}
+/* hopefully fixing the oversizing of images eg in case studies */
+img.align-right, .figure.align-right, object.align-right {
+  clear: right;
+  float: right;
+  margin-left: 1em;
+  max-width:100%;
 }
