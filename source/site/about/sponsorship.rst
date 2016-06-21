@@ -28,6 +28,16 @@ Annually we also receive support from various organisations who appreciate the
 work we do and would like to facilitate the sustained development effort that
 goes into the project. These sponsors are listed below with our thanks!
 
+.. Gold sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
+
+.. list-table:: Gold sponsors
+
+   * - |gold| |qgis-ch|
+       `QGIS Usergroup Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2017)
+
+.. |qgis-ch| image:: /static/site/about/images/qgis-ch.png
+   :width: 200 px
+
 .. Silver sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
 .. list-table:: Silver sponsors
