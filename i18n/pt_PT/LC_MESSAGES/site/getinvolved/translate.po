@@ -1,14 +1,15 @@
 # 
 # Translators:
-# João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2015
+# João Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2015
+# Maria Manuela Silva <manuela.silva@sky.com>, 2016
 # Victor Ferreira <victor.mota.ferreira@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-08-19 07:02+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2016-05-28 17:42+0000\n"
+"Last-Translator: Maria Manuela Silva <manuela.silva@sky.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +19,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:4
 msgid "Translate QGIS into your Language"
-msgstr "Traduza o QGIS para a sua Linguagem"
+msgstr "Traduza o QGIS para o seu idioma"
 
 #: ../../source/site/getinvolved/translate.rst:9
 msgid "Application (GUI)"
@@ -30,7 +31,7 @@ msgid ""
 ":ref:`Translation team lead <gui-translation>`. Have a look at the "
 ":ref:`QGIS Governance <gui-translation>` to find out who is in charge of "
 "guiding you."
-msgstr "A tradução do interface de utilizador (GUI) é gerido pela :ref:`Líder da equipa de tradução <gui-translation>`. Dê uma olhada em  :ref:`QGIS Governance <gui-translation>` para descobrir quem é reponsável pela orientação."
+msgstr "A tradução da interface do utilizador (GUI) é gerida pelo :ref:`Líder da equipa de Tradução <gui-translation>`. Consulte a :ref:`Regulamentação do QGIS <gui-translation>` para saber quem é responsável pela orientação."
 
 #: ../../source/site/getinvolved/translate.rst:16
 msgid ""
@@ -38,52 +39,52 @@ msgid ""
 "is currently working on your language you have to take a look in the "
 ":menuselection:`Help -> About -> Translators` Box in the QGIS Desktop "
 "Application."
-msgstr "Se quer descobrir se a sua linguagem já está presente no QGIS ou quem está actualmente a trabalhar na sua linguagem terá de dar uma olhada na caixa :menuselection:`Help -> About -> Translators` na Aplicação Desktop QGIS."
+msgstr "Se quiser saber se o seu idioma já está presente no QGIS ou quem está atualmente a trabalhar no mesmo, terá de ir ao menu :menuselection:`Ajuda -> Sobre -> Tradutores` na Aplicação Desktop do QGIS."
 
 #: ../../source/site/getinvolved/translate.rst:30
 msgid "Translators Mailing list"
-msgstr "Lista de correio dos tradutores"
+msgstr "Lista de Discussão dos Tradutores"
 
 #: ../../source/site/getinvolved/translate.rst:39
 msgid ""
 "After subscribing to the mailing list you are able to send a mail directly "
 "to qgis-tr@lists.osgeo.org asking for help."
-msgstr "Depois de subscrever a lista de correio poderá enviar um correio diretamente para qgis-tr@lists.osgeo.org pedindo ajuda."
+msgstr "Depois de subscrever a lista de discussão, poderá enviar uma mensagem diretamente para qgis-tr@lists.osgeo.org, para pedir ajuda."
 
 #: ../../source/site/getinvolved/translate.rst:42
 msgid ""
 "We strongly encourage anyone dealing with translations to join this list and"
 " promise that it is usually a very low traffic mailing list."
-msgstr "Encorajamos fortemente todos os que lidam com traduções a subscrever esta lista e prometemos que é uma lista de correio com um volume muito baixo de mensagens."
+msgstr "Nós encorajamos fortemente todos os que lidam com traduções, a subscrever esta lista e prometemos que é uma lista de discussão com um volume muito baixo de mensagens."
 
 #: ../../source/site/getinvolved/translate.rst:48
 msgid "Becoming a translator"
-msgstr "Tornar-se um tradutor"
+msgstr "Ser um tradutor"
 
 #: ../../source/site/getinvolved/translate.rst:50
 msgid ""
 "The QGIS project is always looking for people who are willing to invest some"
 " more time translating QGIS into a foreign language - even perhaps to "
 "coordinate the translation effort."
-msgstr "O projeto QGIS está sempre à procura de pessoas que estejam dispostas a investir algum tempo a traduzir o QGIS para uma língua estrangeira - talvez mesmo para coordenar o esforço de tradução."
+msgstr "O projeto QGIS está sempre à procura de pessoas que estejam dispostas a investir algum tempo a traduzir o QGIS para um idioma estrangeiro - talvez mesmo para coordenar o esforço da tradução."
 
 #: ../../source/site/getinvolved/translate.rst:54
 msgid ""
 "We are trying to improve our project management process and spread the load "
 "more evenly between people who each have a specific area of responsibility, "
 "so any contribution you have to make will be greatly appreciated."
-msgstr "Estamos a tentar melhorar o nosso processo de gestão de projectos e a distribuir mais uniformente o trabalho pelas pessoas que têm uma área específica de responsabilidade, por isso qualquer contribuição que poss fazer será bastante apreciada."
+msgstr "Nós estamos a tentar melhorar o nosso processo de gestão de projetos e a distribuir mais uniformemente o trabalho pelas pessoas que têm uma área específica de responsabilidade, e assim qualquer contribuição que possa efetuar, será bastante apreciada."
 
 #: ../../source/site/getinvolved/translate.rst:68
 msgid "Helping with an existing translation"
-msgstr "Ajudando com uma tradução existente"
+msgstr "Ajudar em uma tradução existente"
 
 #: ../../source/site/getinvolved/translate.rst:74
 msgid ""
 "To start QGIS with the appropriate localization, run qgis with the option "
 "--lang=<language code> or change localization in QGIS under "
 ":menuselection:`Settings -> Options -> Locale`."
-msgstr "Para arrancar o QGIS com a localização apropriada, corra o qgis com a opção  --lang=<language code> ou mude a localização no QGIS em  :menuselection:`Settings -> Options -> Locale`."
+msgstr "Para iniciar o QGIS com a localização apropriada, execute o qgis com a opção  --lang=<language code> ou altere a localização no QGIS no menu :menuselection:`Settings -> Options -> Locale`."
 
 #: ../../source/site/getinvolved/translate.rst:21
 msgid ""
@@ -92,7 +93,7 @@ msgid ""
 " the current percentage of translation you will either have to install the "
 "nightly build of QGIS or checkout the source code of QGIS and start "
 "translating there."
-msgstr "Também encontrará lá o progresso da tradução (mas lembre-se que em todas as versões \"stable\" ficará sempre ao mesmo nível). Para encontrar a actual percentagem de tradução terá de instalar a compilação noturna do QGIS ou em alternativa fazer \"checkout\" do código fonte do QGIS e começar a traduzir aí."
+msgstr "Também irá encontrar lá o progresso da tradução (mas lembre-se que em todas as versão \"estável\", esta irá ficar sempre ao mesmo nível). Para encontrar a atual percentagem da tradução terá de instalar a compilação noturna do QGIS, ou em alternativa consultar o código fonte do QGIS e começar a traduzir lá."
 
 #: ../../source/site/getinvolved/translate.rst:32
 msgid ""
@@ -101,7 +102,7 @@ msgid ""
 "questions, please contact the Translation Team Leader (see :ref:`Organigram "
 "<gui-translation>`) or subscribe with the `qgis-gui-translation-team "
 "<http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_ mailing list."
-msgstr "Se planeia contribuir para uma determinada linguagem ou quer traduzir a GUI do QGIS para uma linguagem ainda não existente e por qualquer outra questão relacionada, por favor contacte o Líder da Equipa de Tradução (ver :ref:`Organigram <gui-translation>`) ou subscreva a lista de discussão do `qgis-gui-translation-team <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`."
+msgstr "Se planeia contribuir para uma determinado idioma ou quer traduzir a GUI do QGIS para um idioma não existente, e para qualquer outra questão relacionada, por favor, contacte o Líder da Equipa de Tradução (consultar :ref:`Organigrama <gui-translation>`) ou subscreva a lista de discussão do `qgis-gui-translation-team <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`."
 
 #: ../../source/site/getinvolved/translate.rst:45
 msgid ""
@@ -121,7 +122,7 @@ msgid ""
 "Please :ref:`contact <community-resources>` the Community Assistant or the "
 "GUI translation team leader to see you name entered in the About Box of "
 "QGIS."
-msgstr "Por favor :ref:`contact <community-resources>` o Assistente Comunitário ou o líder da equipa de tradução do GUI para que o seu nome apareça na janela de \"acerca\" do QGIS."
+msgstr "Por favor, :ref:`contacte <community-resources>` o Assistente da Comunidade ou o líder da equipa de tradução da GUI para ter o seu nome inserido na janela de \"Sobre\" do QGIS."
 
 #: ../../source/site/getinvolved/translate.rst:81
 msgid "HOWTO translate"
@@ -133,7 +134,7 @@ msgid ""
 "designed to be translated into any language quite easily. At this moment "
 "over fifty other languages are already available (though not all well "
 "maintained)."
-msgstr "A interface QGIS é programada nativamente em Inglês. Contudo, está concebido para ser traduzido em qualquer idioma facilmente. Neste momento, mais e 50 idiomas está actualmente disponíveis (mas nem todas estão a ser geridas)."
+msgstr "A interface QGIS é programada nativamente em inglês. Contudo, este é concebido para ser traduzido  facilmente para qualquer idioma. Neste momento, já estão disponíveis mais de 50 idiomas (embora, nem todos estão a ser geridos)."
 
 #: ../../source/site/getinvolved/translate.rst:87
 msgid ""
@@ -143,7 +144,7 @@ msgid ""
 " weeks to be finished. Besides that, the rapid development of the "
 "application continuously causes new and edited texts to be translated. A "
 "huge effort and your help will be appreciated!"
-msgstr "Todos os idiomas disponíveis estão listadas na janela de diálogo do Sobre QGIS. Também mostra o progresso da sua tradução. A interface toda contem mais de dez mil pedaços de texto e a tradução completa poderá demorar dias, ou semanas a finalizar. Apesar disso, o rápido desenvolvimento da aplicação de forma contínua causa textos novos e editados para serem traduzidos. Será apreciado um grande esforço pela sua ajuda!"
+msgstr "Todos os idiomas disponíveis estão listados na janela \"Sobre\" do QGIS. Esta também mostra o progresso da sua tradução. A interface completa contém mais de dez mil partes de texto e a tradução completa poderá demorar dias, ou semanas para ser terminada. Apesar disso, o rápido desenvolvimento da aplicação cria continuamente novos textos e editados para serem traduzidos. Um grande esforço e a sua ajuda serão apreciados!"
 
 #: ../../source/site/getinvolved/translate.rst:95
 msgid "Transifex"
@@ -155,7 +156,7 @@ msgid ""
 "translations; the desktop application itself (or GUI), the documentation and"
 " the web site. So the first thing you need is an account to login and get "
 "started."
-msgstr "A plataforma web de tradução Transifex é usada para todas as traduções QGIS; a própria aplicação Desktop (GUI), a documentação e o website. Portanto a primeira coisa que necessita é uma conta para aceder e começar."
+msgstr "A plataforma de tradução da Web Transifex é utilizada para todas as traduções do QGIS; a própria aplicação de desktop (GUI), a documentação e o site da Web. Por isso, a primeira coisa que precisa, é uma conta para aceder e começar."
 
 #: ../../source/site/getinvolved/translate.rst:103
 msgid "Get an account"
@@ -163,33 +164,33 @@ msgstr "Obtenha uma conta"
 
 #: ../../source/site/getinvolved/translate.rst:105
 msgid "Go to www.transifex.com and create a new account"
-msgstr "Vá a www.transifex.co e crie uma nova conta"
+msgstr "Vá a www.transifex.com e crie uma nova conta"
 
 #: ../../source/site/getinvolved/translate.rst:106
 msgid "Verify your account by the link in the email you will receive"
-msgstr "Verifique a sua conta pelo a hiperligação no email que recebeu"
+msgstr "Verifique a sua conta através da hiperligação na mensagem que irá receber"
 
 #: ../../source/site/getinvolved/translate.rst:107
 msgid "Login"
-msgstr "Login"
+msgstr "Iniciar Sessão"
 
 #: ../../source/site/getinvolved/translate.rst:108
 msgid ""
 "Choose your role as “Translator” and answer some other questions about "
 "yourself"
-msgstr "Escolha o seu papel como \"Translator\" e responda algumas questões sobre si próprio"
+msgstr "Escolha o seu papel como \"Tradutor\" e responda a algumas questões sobre si"
 
 #: ../../source/site/getinvolved/translate.rst:109
 msgid ""
 "At your dashboard page click “Join an existing organisation” and search for "
 "“qgis”"
-msgstr "No painel da sua página clique em “Join an existing organisation” e procure por \"qgis\""
+msgstr "Na página do painel clique em “Aderir a uma organização existente” e procure por \"qgis\""
 
 #: ../../source/site/getinvolved/translate.rst:111
 msgid ""
 "Some QGIS organisations are listed now, among them are QGIS Desktop, Website"
 " and Documentation."
-msgstr "Algumas organizações QGIS estão listadas,  entre elas está o QGIS Desktop, Website e Documentation."
+msgstr "Algumas organizações QGIS estão agora listadas, entre elas está o QGIS Desktop, Website e Documentation."
 
 #: ../../source/site/getinvolved/translate.rst:114
 msgid "Choose in which part of the project you would like to participate"
@@ -236,7 +237,7 @@ msgid ""
 "If you like to help translating QGIS into a your language please assign to "
 "the :ref:`translators mailing list <mailinglist-translation-gui>` and ask "
 "who is already working on that language to coordinate and collaborate."
-msgstr "Se quiser ajudar a traduzir o QGIS para a sua linguagem por favor entre na :ref:`lista de correio dos tradutores <mailinglist-translation-gui>`` e pergunte quem já está a trabalhar nessa linguagem para coordenar e colaborar."
+msgstr "Se quiser ajudar a traduzir o QGIS para o seu idioma, por favor, subscreva em :ref:`lista de discussão dos tradutores <mailinglist-translation-gui>`` e pergunte quem é que já está a trabalhar nesse idioma para coordenar e colaborar."
 
 #~ msgid ""
 #~ "If you like to help translating QGIS into a your language please assign to "

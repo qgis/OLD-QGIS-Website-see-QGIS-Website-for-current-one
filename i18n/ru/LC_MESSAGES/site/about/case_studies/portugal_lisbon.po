@@ -1,13 +1,14 @@
 # 
 # Translators:
-# Марина Павлова <pavlova.marina.v@gmail.com>, 2014-2015
+# Anna Buzmakova <anka230@yandex.ru>, 2016
+# Марина Павлова <pavlova.marina.v@gmail.com>, 2014-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-02-18 10:34+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2016-05-04 02:46+0000\n"
+"Last-Translator: Anna Buzmakova <anka230@yandex.ru>\n"
 "Language-Team: Russian (http://www.transifex.com/qgis/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +20,7 @@ msgstr ""
 msgid ""
 "Using QGIS to Map Hotspot Areas for Biodiversity and Ecosystem Services "
 "(HABEaS)"
-msgstr ""
+msgstr "Использование QGIS в в Картах зон биоразнообразия и экосистем (HABEaS)"
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:13
 msgid ""
@@ -32,7 +33,7 @@ msgid ""
 "process and analyze the GIS that we obtained from several entities. We used "
 "both QGIS's native tools but also GRASS GIS and SAGA GIS tools through the "
 "GRASS plugin and SEXTANTE Toolbox."
-msgstr ""
+msgstr "Так как основная цель этого инструмента - предоставить свободный и легкий доступ к информации о биоразнообразии и экосистемах, мы используем только свободное и открытое ПО, которое может использовать любое физическое или юридическое лицо независимо от местоположения или финансовых ограничений. HABEaS WebGIS размещается на сервере, который работает под Debian Linux, сайт разработан с помощью Drupal CMS. PostgreSQL/PostGIS используется для хранения данных, а QGIS был использован для обработки и анализа ГИС, полученной нами из нескольких источников. Мы использовали как собственные инструмены QGIS, так и инструменты GRASS GIS и SAGA GIS через плагин GRASS и SEXTANTE Toolbox."
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:19
 msgid ""

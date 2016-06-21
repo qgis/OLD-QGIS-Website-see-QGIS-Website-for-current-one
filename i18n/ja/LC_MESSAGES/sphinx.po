@@ -3,15 +3,16 @@
 # yasuto.furukawa <furushare@gmail.com>, 2014
 # Hal Seki <hal@plants-web.jp>, 2013
 # Kayama Yoichi <yoichi.kayama@gmail.com>, 2013-2014
-# Minoru Akagi <akaginch@gmail.com>, 2015
+# Minoru Akagi <akaginch@gmail.com>, 2015-2016
+# Takayuki Nuimura <nuimura@nagoya-u.jp>, 2016
 # kohaku, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2015-10-30 11:18+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2016-06-18 01:53+0000\n"
+"Last-Translator: Minoru Akagi <akaginch@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -106,7 +107,7 @@ msgstr "QGIS本体の開発環境をセットアップする"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:143
 msgid "There are two kinds of financial contributions, we accept:"
-msgstr "我々は、2種類の金銭的な貢献方法を受け付けています。"
+msgstr "我々は、2種類の方法で金銭的な貢献を受け付けています。"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:144
 msgid "sponsorships:"
@@ -376,7 +377,7 @@ msgstr "地理空間情報の作成、編集、可視化、分析、そして公
 msgid ""
 "For your desktop, server, in your web browser and as\n"
 "            developer libraries"
-msgstr "デスクトップ、サーバ、ウェブブラウザー、開発者要用ライブラリ用として利用できます"
+msgstr "デスクトップ、サーバ、ウェブブラウザー、開発者用ライブラリ用として利用できます"
 
 #: ../../themes/qgis-theme/index.html:110
 msgid "Download Now"
@@ -1135,19 +1136,19 @@ msgstr "QGISプロジェクトとコミュニティの最新の状況を知る"
 #: ../../themes/qgis-theme/getinvolved_index.html:54
 #: ../../themes/qgis-theme/getinvolved_index.html:142
 msgid "Sponsor & Donate"
-msgstr ""
+msgstr "スポンサー & 寄付"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:144
 msgid "more information and a list of our sponsors"
-msgstr ""
+msgstr "スポンサーのリストと情報"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:145
 msgid "donations via a variety of channels"
-msgstr ""
+msgstr "寄付の方法について"
 
 #: ../../themes/qgis-theme/getinvolved_donations.html:33
 msgid "DONATE TO THE PROJECT"
-msgstr ""
+msgstr "プロジェクトへの寄付"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:8
 msgid ""
@@ -1208,7 +1209,7 @@ msgstr ""
 #: ../../themes/qgis-theme/docs_index.html:36
 #: ../../themes/qgis-theme/docs_index.html:115
 msgid "QGIS 2.6"
-msgstr ""
+msgstr "QGIS 2.6"
 
 #: ../../themes/qgis-theme/languageswitch.html:6
 msgid "Danish"
@@ -1288,7 +1289,7 @@ msgstr "ドキュメントにはトレーニングマニュアルがあります
 
 #: ../../themes/qgis-theme/forusers_download.html:150
 msgid "Debian/Ubuntu"
-msgstr ""
+msgstr "Debian/Ubuntu"
 
 #: ../../themes/qgis-theme/forusers_download.html:184
 msgid "An experimental release can be found in the "
@@ -1309,7 +1310,7 @@ msgstr ""
 #: ../../themes/qgis-theme/docs_index.html:30
 #: ../../themes/qgis-theme/docs_index.html:62
 msgid "QGIS 2.8"
-msgstr ""
+msgstr "QGIS 2.8"
 
 #: ../../themes/qgis-theme/languageswitch.html:18
 msgid "Lithuanian"
@@ -1357,11 +1358,11 @@ msgstr ""
 
 #: ../../themes/qgis-theme/index.html:32
 msgid "QGIS 2.12 Released"
-msgstr ""
+msgstr "QGIS 2.12 のプレスリリース"
 
 #: ../../themes/qgis-theme/index.html:35
 msgid "download QGIS 2.12 Lyon"
-msgstr ""
+msgstr "QGIS 2.12 Lyon をダウンロード"
 
 #: ../../themes/qgis-theme/index.html:46
 msgid "FOSS4G 2016, Bonn Germany"
@@ -1373,7 +1374,7 @@ msgstr ""
 
 #: ../../themes/qgis-theme/index.html:48
 msgid "FOSS4G 2016 website"
-msgstr ""
+msgstr "FOSS4G 2016 ウェブサイト"
 
 #: ../../themes/qgis-theme/index.html:59
 msgid "Tell us how yo use QGIS, what you want and what you need..."
@@ -1399,15 +1400,15 @@ msgstr ""
 
 #: ../../themes/qgis-theme/forusers_index.html:65
 msgid "Visual Changelog for 2.12"
-msgstr ""
+msgstr "QGIS 2.12の変更履歴"
 
 #: ../../themes/qgis-theme/forusers_index.html:68
 msgid "Visual Changelog for 2.10"
-msgstr " 2.10に関する変更履歴"
+msgstr "QGIS 2.10の変更履歴"
 
 #: ../../themes/qgis-theme/forusers_index.html:71
 msgid "Visual Changelog for 2.8 (LTR, Long Term Release)"
-msgstr "2.8 (LTR, Long Term Release)に関する変更履歴"
+msgstr "2.8 (LTR, Long Term Release) の変更履歴"
 
 #: ../../themes/qgis-theme/forusers_index.html:85
 msgid "Check out our Roadmap for future versions: "
