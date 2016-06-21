@@ -28,6 +28,16 @@ Annually we also receive support from various organisations who appreciate the
 work we do and would like to facilitate the sustained development effort that
 goes into the project. These sponsors are listed below with our thanks!
 
+.. Gold sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
+
+.. list-table:: Gold sponsors
+
+   * - |gold| |qgis-ch|
+       `QGIS Usergroup Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2017)
+
+.. |qgis-ch| image:: /static/site/about/images/qgis-ch.png
+   :width: 200 px
+
 .. Silver sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
 .. list-table:: Silver sponsors
@@ -44,17 +54,11 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |sourcepole|
        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2016)
 
-   * - |silver| |agh|
-       `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
-
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 150 px
 
 .. |sourcepole| image:: /static/site/about/images/sourcepole.png
    :width: 175 px
-
-.. |agh| image:: /static/site/about/images/agh.png
-   :width: 90 px
 
 .. |vorarlberg| image:: /static/site/about/images/land_f.jpg
    :width: 175 px
@@ -307,9 +311,15 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 .. list-table:: Past silver sponsors
 
+  * - |silver| |agh|
+      `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
+
   * - |silver| |sogis|
 
       `Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013 and 04.2011-04.2012)
+
+.. |agh| image:: /static/site/about/images/agh.png
+   :width: 90 px
 
 .. |sogis| image:: /static/site/about/images/sogis.gif
    :width: 110 px

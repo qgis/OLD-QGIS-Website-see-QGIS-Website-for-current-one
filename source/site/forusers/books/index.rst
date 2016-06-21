@@ -20,14 +20,26 @@ English
 
 Note: Books order is newest first.
 
-Discover QGIS
-*************
+.. Richard: commented out untill released
+.. Discover QGIS
+.. *************
 
-The Workbook for the Award Winning GeoAcademy Curriculum
+.. The Workbook for the Award Winning GeoAcademy Curriculum
 
-* https://locatepress.com/dqw
-* Author(s): Kurt Menke
-* Date: to be published!
+.. * https://locatepress.com/dqw
+.. * Author(s): Kurt Menke
+.. * Date: to be published!
+
+
+QGIS 2 Cookbook
+***************
+
+Become a QGIS power user and master QGIS data management, visualistation and spatial analysis techniques
+
+* https://www.packtpub.com/application-development/qgis-2-cookbook
+* Author(s): Alex Mandel, Anita Graser, Victor Olaya Ferrero, Alexander Bruy
+* Date: April 2016
+
 
 Learning QGIS - Third Edition
 *******************************
