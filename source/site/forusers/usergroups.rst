@@ -9,7 +9,7 @@ Current list of QGIS user groups
 --------------------------------
 
 * `QGIS Brugergruppe Danmark (Denmark) - contact: Lene Fischer <http://qgis.dk/>`_
-* `QGIS UK (England) - contact: Simon Miles <http://qgis.it/>`_
+* `QGIS UK (England) - contact: Simon Miles <http://qgis.uk/>`_
 * `QGIS Anwendergruppe Deutschland (Germany) - contact: Thomas Schüttenberg <http://qgis.de/>`_
 * `Gruppo degli utenti italiani di QGIS (Italy) - contact: Paolo Cavallini <http://qgis.it/>`_
 * `QGIS User Group Japan (OSGeo.JP) - contact: Kosuke ASAHI <http://qgis.jp/>`_

@@ -34,7 +34,7 @@ Note: Books order is newest first.
 QGIS 2 Cookbook
 ***************
 
-Become a QGIS power user and master QGIS data management, visualistation and spatial analysis techniques
+Become a QGIS power user and master QGIS data management, visualisation and spatial analysis techniques
 
 * https://www.packtpub.com/application-development/qgis-2-cookbook
 * Author(s): Alex Mandel, Anita Graser, Victor Olaya Ferrero, Alexander Bruy
