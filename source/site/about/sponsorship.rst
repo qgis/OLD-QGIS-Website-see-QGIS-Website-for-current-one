@@ -74,7 +74,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |terrelogiche|
 
        `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2017)
-     - 
+     - |bronze| |qgis-pt|
+
+       `QGIS-PT (Portuguese QGIS user group) <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)   
    * - |bronze| |ncc|
 
        `NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)
@@ -165,6 +167,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |qpolska|
 
        `QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
+
+.. |qgis-pt| image:: /static/site/about/images/qgis-pt.png
+   :width: 90 px
 
 .. |soltig| image:: /static/site/about/images/soltig.png
    :width: 110 px
