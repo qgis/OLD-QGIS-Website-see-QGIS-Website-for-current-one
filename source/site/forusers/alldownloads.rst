@@ -230,6 +230,7 @@ Get packages for any Fedora by typing::
 
 There is an alternative repository for QGIS which may provide newer versions https://copr.fedorainfracloud.org/coprs/neteler/QGIS-2.14-Essen/
 ::
+
  sudo dnf copr enable neteler/liblas
  sudo dnf copr enable neteler/grass70
  sudo dnf copr enable neteler/QGIS-2.14-Essen
