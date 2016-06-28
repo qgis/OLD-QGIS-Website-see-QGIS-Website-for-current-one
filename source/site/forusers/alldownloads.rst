@@ -225,32 +225,16 @@ QGIS stable
 
 Get packages for any Fedora by typing::
 
- sudo yum update
- sudo yum install qgis qgis-python qgis-grass qgis-mapserver
+ sudo dnf update
+ sudo dnf install qgis qgis-python qgis-grass qgis-server
 
-Currently Fedora 20 ships QGIS 2.0 and Fedora 21 ships QGIS 2.6.
-
-There is an alternative repository for QGIS 2.8.1 on Fedora 20 and Fedora 21
+There is an alternative repository for QGIS which may provide newer versions https://copr.fedorainfracloud.org/coprs/neteler/QGIS-2.14-Essen/
 ::
+ sudo dnf copr enable neteler/liblas
+ sudo dnf copr enable neteler/grass70
+ sudo dnf copr enable neteler/QGIS-2.14-Essen
 
- sudo wget fedora.vitu.ch/QGIS/qgis.repo -P /etc/yum.repos.d/
- sudo rpm --import http://fedora.vitu.ch/Fedora/RPM-GPG-Key-vitu
- sudo yum update
- sudo yum install qgis qgis-python qgis-grass
- # For mapserver on Fedora 20
- sudo yum install qgis-mapserver
- # For mapserver on Fedora 21
- sudo yum install qgis-server
-
-QGIS testing
-............
-
-Note the warning_.
-
-A newer version might be available in the testing repository -- usually around
-one week::
-
- yum install --enablerepo=updates-testing qgis qgis-python qgis-grass qgis-mapserver
+ sudo dnf install qgis qgis-grass qgis-python
 
 RHEL, CentOS, Scientific Linux
 ------------------------------
