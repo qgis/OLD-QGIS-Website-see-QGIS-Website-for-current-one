@@ -258,6 +258,21 @@ Best practice for creating a pull request
 * Attention: After a rebase you need to ``git push -f`` to your forked repo. 
   **CORE DEVS: DO NOT DO THIS ON THE QGIS PUBLIC REPOSITORY!**
 
+Special labels to notify documentors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Besides common tags you can add to classify your PR, there are special ones
+you can use to automatically generate issue reports in QGIS-Documentation
+repository as soon as your pull request is merged:
+  
+* ``[needs-docs]`` to instruct doc writers to please add some extra documentation
+  after a fix or addition to an already existing functionality.
+* ``[feature]`` in case of new functionnality. Filling a good description in your
+  PR will be a good start.
+
+Please devs use these labels (case insensitive) so doc writers have issues to
+work on and have an overview of things to do. BUT please also take time to add
+some text: either in the commit OR in the docs itself.
 
 For merging a pull request
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
