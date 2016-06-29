@@ -301,7 +301,7 @@ Italian).
    :align: left
 
 Also `OSGeo <http://www.osgeo.org/>`_ is partly supporting our HackFests: 2012.10
-in Essen, Germany, and 2013.04 in Valmiera, Latvia.
+in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 ----
 
