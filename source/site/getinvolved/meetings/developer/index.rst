@@ -7,6 +7,7 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
+   Girona_2016
    LasPalmas_2015
    Nodebo_2015
    Essen_2014
