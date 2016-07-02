@@ -239,11 +239,21 @@ GRASS GIS and other FOSS GIS applications.
 
 ----
 
+.. |geoicon| image:: /static/site/about/images/geoicon.png
+   :width: 75 px
+
+|geoicon| `GeoICON <http://www.geoicon.com/>`_ (based in Singapore and operating
+in South East Asia) has been working with Government organizations for over 
+10 years and offers a full range of services around QGIS including training and
+commercial support.
+
+----
+
 .. |gis3w| image:: /static/site/about/images/gis3w.png
    :width: 75 px
 
-|gis3w| `GIS3W <http://www.gis3w.it/>`_ (based in Italy) provide geographic and
-ecological analysis services and support and assistance with QGIS.
+|gis3w| `gis3w <http://www.gis3w.it/>`_ (based in italy) provide geographic and
+ecological analysis services and support and assistance with qgis.
 
 ----
 
