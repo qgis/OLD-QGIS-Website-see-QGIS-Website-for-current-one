@@ -15,8 +15,8 @@ f.write( """#QGIS Version %(versionint)d|Visit http://download.qgis.org to get y
 	"versionint": int("%d%02d%02d" % tuple( map(int, release.split(".")))),
 	"version": release,
 	"devversion": devversion,
-	"freezedate": nextfreezedate,
-	"nextreleasedate": nextreleasedate,
+	"freezedate": nextfreezedate if nextfreezedate is not None else "a not yet determined date",
+	"nextreleasedate": nextreleasedate if nextreleasedate is not None else "a not yet determined date",
 	"nextversion": nextversion,
 } )
 
