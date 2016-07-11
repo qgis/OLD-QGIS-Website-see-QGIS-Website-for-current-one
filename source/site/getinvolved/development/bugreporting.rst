@@ -96,12 +96,13 @@ Important information needed when opening a ticket:
   to the speed with which the developer can reproduce the bug. If you make 
   that hard for the developer, chances are the bug will be given up on 
   or ignored for quite a while.
-* **Priority** - provide an estimate of the severity of the problem: 
-  Low (a problem which doesn't affect QGIS usefulness), 
-  Normal (the default value, applicable to most bugs and nearly all feature requests), 
-  High (a bug which has a major effect on the usability of a package), 
-  or Blocker (a bug that makes QGIS totally unusable, causes serious 
-  data loss or a regression from a previous QGIS version)
+* **Priority** - provide an estimate of the severity of the problem:
+
+  * *Low*: a problem which doesn't affect QGIS usefulness, 
+  * *Normal*: the default value, applicable to most bugs and nearly all feature requests, 
+  * *High*: a bug which has a major effect on the usability of a package, 
+  * or *Severe/Regression*: a bug that makes QGIS totally unusable, causes serious 
+    data loss or a regression from a previous QGIS version
 * **Component** - Choose the aspect of the application that is most closely
   associated with the problem
 * **Milestone** - If this issue affects a particular Milestone in the project
