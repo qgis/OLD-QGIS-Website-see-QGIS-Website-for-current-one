@@ -67,7 +67,7 @@ copyright = u'{0}, QGIS Contributors'.format( datetime.now().year )
 version = '2.16'
 release = '2.16.0'
 codename = u'Nødebo'
-binary = '1'
+binary = '2'
 releasedate = date(2016,7,8)
 releasenote = u"\u200B"
 
