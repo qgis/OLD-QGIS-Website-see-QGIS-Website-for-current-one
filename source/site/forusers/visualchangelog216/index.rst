@@ -1,14 +1,14 @@
-|image0|
 
-Changelog for QGIS 2.16.0
-=========================
+.. _changelog216:
+
+Changelog for QGIS 2.16
+=======================
 
 |image1|
 
-| This is the log for the next release of QGIS - version 2.16.0 'Nødebo'. The Department of Geoscience and Natural Resource Management
-|  Forest and Landscape College in Nødebo where hosts to the First International QGIS conference and developer meeting in September 2015.
+This is the log for the next release of QGIS - version 2.16.0 'Nødebo'. The Department of Geoscience and Natural Resource Management
+Forest and Landscape College in Nødebo where hosts to the First International QGIS conference and developer meeting in September 2015.
 
-|Introducing Nødebo|
 
 **This is not a Long Term Release**
 
@@ -20,6 +20,11 @@ If you are upgrading from QGIS 2.14 you will find a great many new features in t
 
 Whenever new features are added to software they introduce the possibility of new bugs - if you encounter any problems with this release, please file a ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`__.
 
+
+|Introducing Nødebo|
+Pronouncing Nødebo...
+
+
 **Thanks**
 
 We would like to thank the developers, documenters, testers and all the many folks out there who volunteer their time and effort (or fund people to do so). From the QGIS community we hope you enjoy this release! If you wish to donate time, money or otherwise get involved in making QGIS more awesome, please wander along to `qgis.org <http://qgis.org>`__ and lend a hand!
@@ -28,153 +33,349 @@ QGIS is supported by donors and sponsors. A current list of donors who have made
 
 QGIS is Free software and you are under no obligation to pay anything to use it - in fact we want to encourage people far and wide to use it regardless of what your financial or social status is - we believe empowering people with spatial decision making tools will result in a better society for all of humanity. If you are able to support QGIS, you can |donate here|
 
+
+
+.. contents::
+   :local:
+
+
 Sponsors for QGIS version 2.16.0
 --------------------------------
 
-|image4| Gold : 9000 EUR
-~~~~~~~~~~~~~~~~~~~~~~~~
+Annually we also receive support from various organisations who appreciate the
+work we do and would like to facilitate the sustained development effort that
+goes into the project. These sponsors are listed below with our thanks!
 
-|QGIS Usergroup Switzerland|
+.. Gold sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
-QGIS Usergroup Switzerland
+.. |bronze| image:: /static/site/about/images/bronze.png
+   :width: 60 px
 
-|image6| Silver : 3000 EUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. |silver| image:: /static/site/about/images/silver.png
+   :width: 75 px
 
-|GAIA mbH|
+.. |gold| image:: /static/site/about/images/gold.png
+   :width: 100 px
 
-GAIA mbH
+.. list-table:: Gold sponsors ( 9000 EUR )
 
-|Land Vorarlberg|
+   * - |gold| |qgis-ch|
+       `QGIS Usergroup Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2017)
 
-Land Vorarlberg
+.. |qgis-ch| image:: /static/site/about/images/qgis-ch.png
+   :width: 200 px
 
-|Office of Public Works, Flood Risk Management and Data Management Section|
+.. Silver sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
-Office of Public Works, Flood Risk Management and Data Management Section
+.. list-table:: Silver sponsors ( 3000 EUR )
 
-|Sourcepole AG|
+   * - |silver| |vorarlberg|
+       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-06.2017)
 
-Sourcepole AG
+   * - |silver| |opw|
+       `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2016)
 
-|image11| Bronze : 500 EUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+   * - |silver| |gaia|
+       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2016)
 
-|2D3D.GIS|
+   * - |silver| |sourcepole|
+       `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2016)
 
-2D3D.GIS
+.. |gaia| image:: /static/site/about/images/gaia.png
+   :width: 150 px
 
-|Ager Technology|
+.. |sourcepole| image:: /static/site/about/images/sourcepole.png
+   :width: 175 px
 
-Ager Technology
+.. |vorarlberg| image:: /static/site/about/images/land_f.jpg
+   :width: 175 px
 
-|Asociación Geoinnova|
+.. |opw| image:: /static/site/about/images/opw.jpg
+   :width: 150 px
 
-Asociación Geoinnova
 
-|BGEO Open GIS, SL|
+.. Bronze sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
-BGEO Open GIS, SL
+.. list-table:: Bronze sponsors ( 500 EUR )
 
-|Cawdor Forestry|
+   * - |bronze| |terrelogiche|
 
-Cawdor Forestry
+       `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2017)
+     - |bronze| |qgis-pt|
 
-|ChameleonJohn|
+       `QGIS-PT (Portuguese QGIS user group) <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)
+   * - |bronze| |ncc|
 
-ChameleonJohn
+       `NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)
+     - |bronze| |soltig|
 
-|Dr. Kerth + Lampe Geo-Infometric GmbH|
+       `SOLTIG (Soluciones en Tecnologías de Información Geográfica) <http://www.soltig.net/>`_, Costa Rica (06.2016-06.2017)
+   * - |bronze| |gaia3d|
 
-Dr. Kerth + Lampe Geo-Infometric GmbH
+       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2017)
+     - |bronze| |gepol|
 
-|FORNAT AG|
+       `GEPOL <http://www.gepol.com.pl/>`_, Poland (04.2016-04.2017)
+   * - |bronze| |windsor|
 
-FORNAT AG
+       `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2017)
+     - |bronze| |gfi|
 
-|GEPOL Ltd.|
+       `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (04.2015-04.2017)
+   * - |bronze| |teaching_jobs_with_footprints|
 
-GEPOL Ltd.
+       `Teaching Jobs with Footprints <http://www.footprintsrecruiting.com/teaching-jobs-abroad>`_, Canada (04.2016-04-2017)
+     - |bronze| |fornat_ag|
 
-|GFI - Gesellschaft für Informationstechnologie mbH|
+       `FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2014-04.2017)
+   * - |bronze| |national_parks_uk|
 
-GFI - Gesellschaft für Informationstechnologie mbH
+       `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2017)
+     - |bronze| |kbb_underground|
 
-|GIS Support Sp. z o.o.|
+       `KBB Underground Technologies <http://www.kbbnet.de/en/>`_, Germany (03.2014-03.2017)
+   * - |bronze| |bgeo|
 
-GIS Support Sp. z o.o.
+       `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2017)
+     - |bronze| |ager_technology|
 
-|GKG Kassel, (Dr.-Ing. Claas Leiner)|
+       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2017)
+   * - |bronze| |geoinnova|
 
-GKG Kassel, (Dr.-Ing. Claas Leiner)
+       `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2017)
+     - |bronze| |gis3w|
 
-|Gaia3D, Inc.|
+       `Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-01.2017)
+   * - |bronze| |gis_supp|
 
-Gaia3D, Inc.
+       `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2017)
+     - |bronze| |molitec|
 
-|Gis3W|
+       `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-03.2017)
+   * - |bronze| |chartwell|
 
-Gis3W
+       `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2017)
+     - |bronze| |tragewegen|
 
-|HostingFacts.com (Online only ou)|
+       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2017)
+   * - |bronze| |claasleinert|
 
-HostingFacts.com (Online only ou)
+       `GKG Kassel (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2017)
+     - |bronze| |cawdor_forestry|
 
-|KBB Underground Technologies GmbH|
+       `CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, Scotland (02.2016-02.2017)
+   * - |bronze| |chameleon_john|
 
-KBB Underground Technologies GmbH
+       `ChameleonJohn <http://www.chameleonjohn.com/>`_, USA (02.2016-02.2017)
+     - |bronze| |2d3dgis|
 
-|Lutra Consulting|
+       `2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2016)
+   * - |bronze| |kela|
 
-Lutra Consulting
+       `Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, Germany (12.2015-12.2016)
+     - |bronze| |mappinggis|
 
-|MappingGIS|
+       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2015-11.2016)
+   * - |bronze| |hfacts|
 
-MappingGIS
+       `HostingFacts.com <https://hostingfacts.com/>`_, Estonia (12.2015-12.2016)
+     - |bronze| |urbsol|
 
-|Molitec|
+       `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)
+   * - |bronze| |lutra|
 
-Molitec
+       `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2016)
+     - |bronze| |whg|
 
-|NCC Roads AB|
+       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2015-08.2016)
+   * - |bronze| |npa|
 
-NCC Roads AB
+       `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
+     - |bronze| |qpolska|
 
-|National Parks UK|
+       `QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
 
-National Parks UK
 
-|QGIS user group Portugal|
+.. |qgis-pt| image:: /static/site/about/images/qgis-pt.png
+   :width: 90 px
 
-QGIS user group Portugal
+.. |soltig| image:: /static/site/about/images/soltig.png
+   :width: 110 px
 
-|Royal Borough of Windsor and Maidenhead|
+.. |ncc| image:: /static/site/about/images/ncc-logo.png
+   :width: 90 px
 
-Royal Borough of Windsor and Maidenhead
+.. |gepol| image:: /static/site/about/images/gepol_logo.png
+   :width: 110 px
 
-|SOLTIG (Soluciones en Tecnologías de Información Geográfica)|
+.. |fornat_ag| image:: /static/site/about/images/fornat_logo.png
+   :width: 100 px
 
-SOLTIG (Soluciones en Tecnologías de Información Geográfica)
+.. |teaching_jobs_with_footprints| image:: /static/site/about/images/teaching_jobs_with_footprints.png
+   :width: 100 px
 
-|Teaching Jobs with Footprints|
+.. |national_parks_uk| image:: /static/site/about/images/NationalParksUK_logo.jpg
+   :width: 90 px
 
-Teaching Jobs with Footprints
+.. |kbb_underground| image:: /static/site/about/images/KBB_Underground_Technologies_logo.jpg
+   :width: 90 px
 
-|TerreLogiche|
+.. |ager_technology| image:: /static/site/about/images/ager_technology_logo.png
+   :width: 90 px
 
-TerreLogiche
+.. |bgeo| image:: /static/site/about/images/bgeo.png
+   :width: 90 px
 
-|Trage Wegen vzw|
+.. |geoinnova| image:: /static/site/about/images/geoinnova.jpg
+   :width: 90 px
 
-Trage Wegen vzw
+.. |cawdor_forestry| image:: /static/site/about/images/cawdor_forestry_logo.png
+   :width: 90 px
 
-|Urbsol|
+.. |chameleon_john| image:: /static/site/about/images/chameleon-john-logo.png
+   :width: 90 px
 
-Urbsol
+.. |kela| image:: /static/site/about/images/kela.png
+   :width: 90 px
 
-|WhereGroup GmbH & Co. KG|
+.. |hfacts| image:: /static/site/about/images/hfacts.png
+   :width: 90 px
 
-WhereGroup GmbH & Co. KG
+.. |whg| image:: /static/site/about/images/whg.jpg
+   :width: 90 px
+
+.. |npa| image:: /static/site/about/images/npa.jpg
+   :width: 75 px
+
+.. |qpolska| image:: /static/site/about/images/qpolska.png
+   :width: 64 px
+
+.. |terrelogiche| image:: /static/site/about/images/terrelogiche.jpg
+   :width: 90 px
+
+.. |geosynergy| image:: /static/site/about/images/geosynergy.jpg
+   :width: 90 px
+
+.. |gaia3d| image:: /static/site/about/images/gaia3d.png
+   :width: 90 px
+
+.. |windsor| image:: /static/site/about/images/windsor.png
+   :width: 140 px
+
+.. |chartwell| image:: /static/site/about/images/chartwell.png
+   :width: 90 px
+
+.. |tragewegen| image:: /static/site/about/images/tragewegen.png
+   :width: 90 px
+
+.. |gfi| image:: /static/site/about/images/gfi.png
+   :width: 90 px
+
+.. |claasleinert| image:: /static/site/about/images/claasleiner.png
+   :width: 90 px
+
+.. |gis_supp| image:: /static/site/about/images/gis_supp.png
+   :width: 64 px
+
+.. |adlares| image:: /static/site/about/images/adlares.png
+   :width: 90 px
+
+.. |molitec| image:: /static/site/about/images/molitec.png
+   :width: 90 px
+
+.. |argus| image:: /static/site/about/images/argus.jpg
+   :width: 90 px
+
+.. |canal| image:: /static/site/about/images/canal.png
+   :width: 90 px
+
+.. |avioportolano| image:: /static/site/about/images/avioportolano.png
+   :width: 90 px
+
+.. |wggios| image:: /static/site/about/images/wggios.png
+   :width: 90 px
+
+.. |urbsol| image:: /static/site/about/images/urbsol.png
+   :width: 90 px
+
+.. |mappinggis| image:: /static/site/about/images/mappinggis.png
+   :width: 75 px
+
+.. |2d3dgis| image:: /static/site/about/images/2d3dgis.png
+   :width: 75 px
+
+.. |gis3w| image:: /static/site/about/images/gis3w.png
+   :width: 75 px
+
+.. |lutra| image:: /static/site/about/images/lutra_consulting.png
+   :width: 90 px
+
+
+
+General
+-------
+
+Feature: Copying features in GeoJSON format
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The previous setting for include WKT when copying features has been replaced with a choice of copying features as "Plain text, attributes only", "Plain text, WKT geometry" and a new "GeoJSON" option. When set to "GeoJSON", copying features in QGIS will place a GeoJSON text representation of the features on the clipboard for easy pasting into other applications/JavaScript code. These settings can be found in the ``Settings -> Options -> Data Sources -> Copy features as``.
+
+|image95|
+
+This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+
+Feature: Store spatial bookmarks in project files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you are creating a spatial bookmark, you can now choose to store the bookmark in your active project file. Scroll across in the bookmarks panel to find the checkbox that enables this capability.
+
+|image96|
+
+This feature was developed by Stéphane Brunner
+
+Feature: Support for GNSS GNRMC messages
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+QGIS can now handle GLONASS satellite data ($GN\* lines) to get a more precise Position from external GPS/GNSS Receivers.
+
+|image97|
+
+This feature was developed by Ondřej Fibich
+
+Feature: Paste GeoJSON features directly into QGIS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+QGIS clipboard handler can now parse many additional text formats, including native support for GeoJSON feature collections. This allows you to directly copy and paste GeoJSON strings into QGIS and have them automatically converted into QGIS features and geometries.
+
+|image98|
+
+This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+
+Feature: Map tip improvements
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Maptip visibility is now preserved across sessions
+-  Maptips can now show HTML content, including images, videos and URL links
+
+|image99|
+
+This feature was funded by `OPENGIS.ch GmbH <http://www.opengis.ch>`__
+
+This feature was developed by `Marco Bernasocchi (OpenGIS.ch) <http://www.opengis.ch>`__
+
+Feature: Desktop MIME icons for QGIS file types
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| It's now easier to recognise and differentiate QGIS's file types on your operating system files manager. There are now desktop MIME Icons for the following file types:
+|  ** .qgs - QGIS Project file
+|  ** .qml - Layer settings file
+|  ** .qlr - Layer definitions file
+|  ** .qpt - Composer template file
+
+|image100|
+
+This feature was developed by `Alexandre Neto <https://gisunchained.wordpress.com/>`__
+
 
 User Interface
 --------------
@@ -285,8 +486,36 @@ This change brings the canvas behaviour into line with other design apps and als
 
 This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
 
-Documentation
--------------
+Documentation Updates
+---------------------
+
+Feature: QGIS 2.14 Documentation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Having now an automatic way to create a ticket in the documentation repository
+for each new feature in QGIS, we are sure that all new features is now in the
+documentation.
+
+The documentation team worked hard on three releases of QGIS: 2.10, 2.12
+and 2.14 so the documentation is now up to date for the current Long Term
+Release of QGIS. This is around 180 new features that have been documented in
+4 months.
+
+If you think there are some missing features in the documentation, feel free
+to add a new ticket, write small text to describe it or better push a
+contribution.
+
+The documentation team will now work hard the next months to document the
+current stable release (2.16) of QGIS.
+
+|image51|
+
+Check the 2.10, 2.12 and 2.14 milestone to see all the documentation work that has taken place:
+
+-  https://github.com/qgis/QGIS-Documentation/milestone/5
+-  https://github.com/qgis/QGIS-Documentation/milestone/4
+-  https://github.com/qgis/QGIS-Documentation/milestone/3
+
 
 Feature: Authentication system's documentation in users manual
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -299,32 +528,6 @@ This feature was funded by `Boundless <http://boundlessgeo.com/>`__
 
 This feature was developed by Larry Shaffer
 
-Feature: QGIS 2.14 Documentation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-| Having now an automatic way to create a ticket in the documentation repository
-|  for each new feature in QGIS, we are sure that all new features is now in the
-|  documentation.
-
-| The documentation team worked hard on three releases of QGIS: 2.10, 2.12
-|  and 2.14 so the documentation is now up to date for the current Long Terme
-|  Release of QGIS. This is around 180 new features that have been documented in
-|  4 months.
-
-| If you think there are some missing features in the documentation, feel free
-|  to add a new ticket, write small text to describe it or better push a
-|  contribution.
-
-| The documentation team will now work hard the next months to document the
-|  current stable release (2.16) of QGIS.
-
-Check the 2.10, 2.12 and 2.14 milestone to see all the documentation work that has taken place:
-
--  https://github.com/qgis/QGIS-Documentation/milestone/5
--  https://github.com/qgis/QGIS-Documentation/milestone/4
--  https://github.com/qgis/QGIS-Documentation/milestone/3
-
-|image51|
 
 Symbology
 ---------
@@ -334,9 +537,9 @@ Feature: Arrow symbol layer
 
 The "arrow" symbol layer is a symbol layer allowing to draw straight or curved arrows from a line layer.
 
-| In curved mode, nodes of the line layer this symbol layer is applied to are used as control points for circle arcs.
-|  Arrows can be filled with whatever existing filling style QGIS supports.
-|  Options also allows to select the type of the arrow (with one or two heads, plain or halved), its width (that may be variable) and size of the heads.
+In curved mode, nodes of the line layer this symbol layer is applied to are used as control points for circle arcs.
+Arrows can be filled with whatever existing filling style QGIS supports.
+Options also allows to select the type of the arrow (with one or two heads, plain or halved), its width (that may be variable) and size of the heads.
 
 |image52|
 
@@ -470,11 +673,12 @@ This feature was developed by `Mathieu Pellerin <http://imhere-asia.com/>`__
 Feature: Diagrams behave like labels and can be managed from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| Originally, there was a toolbar for labels allowing to :
-|  - set labeling options for labels of the current layer
-|  - highlight the pinned labels. Highlighting is green on editable layer, blue otherwise.
-|  - pin or unpin labels
-|  - move, show and hide labels
+Originally, there was a toolbar for labels allowing to:
+
+- set labeling options for labels of the current layer
+- highlight the pinned labels. Highlighting is green on editable layer, blue otherwise.
+- pin or unpin labels
+- move, show and hide labels
 
 With this new feature, a new tool is available in the label toolbar allowing to set properties of diagrams for the current layer. Moreover, each tool mentioned above are now fully usable with diagrams too.
 
@@ -490,12 +694,12 @@ Rendering
 Feature: New options for on the fly simplification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| The user can select the algorithm to use when the local-side simplification runs to draw geometries faster.
-|  Now, QGIS provides three algorithms:
+The user can select the algorithm to use when the local-side simplification runs to draw geometries faster.
+Now, QGIS provides three algorithms:
 
--  Distance (default algorithm, and the only option available in previous QGIS releases)
--  SnapToGrid
--  Visvalingam
+- Distance (default algorithm, and the only option available in previous QGIS releases)
+- SnapToGrid
+- Visvalingam
 
 This change also moves the local "on-the-fly" simplification from the provider and iterator classes to the rendering code. This avoids cases where simplification changes the geometry fetched from vector data providers, possibly affecting rule based and other expression based symbology. This is important when you have expressions that use the feature geometry (e.g. calculation of area) - we want to be sure that these calculations are done on the original geometry, not on the simplified ones.
 
@@ -634,8 +838,8 @@ This feature was developed by Jürgen Fischer
 Feature: Top level widgets in drag and drop designer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| It is now possible to put widgets directly on the form with the drag and drop designer.
-|  A drag and drop designer form can therefore exist without any tabs on it.
+It is now possible to put widgets directly on the form with the drag and drop designer.
+A drag and drop designer form can therefore exist without any tabs on it.
 
 |image78|
 
@@ -774,8 +978,8 @@ Feature: Georeference outputs (eg PDF) from composer
 
 In QGIS 2.16 the map composer automatically georeference outputs (when the output format makes this possible, eg TIF and PDF).
 
-| The existing option to create a world file has been separated from the map selection for georeferencing. The new behaviour is to always georeference outputs, and only create the
-|  separate world file if that option is checked.
+The existing option to create a world file has been separated from the map selection for georeferencing. The new behaviour is to always georeference outputs, and only create the
+separate world file if that option is checked.
 
 |image89|
 
@@ -800,13 +1004,13 @@ Analysis Tools
 Feature: Named parameters in expressions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| In QGIS 2.16 the expression engine now supports use of named parameters. This means that instead of writing the cryptic expression:
-|  ``clamp(1,2,3)``
-|  you can use:
-|  ``clamp( min:=1, value:=2, max:=3)``
-|  This change also allows arguments to be switched, eg:
-|  ``clamp( value:=2, max:=3, min:=1)``
-|  Using named parameters helps clarify what the arguments for an expression function refer to, which is helpful when you are trying to interpret an expression at a later date!
+In QGIS 2.16 the expression engine now supports use of named parameters. This means that instead of writing the cryptic expression:
+``clamp(1,2,3)``
+you can use:
+``clamp( min:=1, value:=2, max:=3)``
+This change also allows arguments to be switched, eg:
+``clamp( value:=2, max:=3, min:=1)``
+Using named parameters helps clarify what the arguments for an expression function refer to, which is helpful when you are trying to interpret an expression at a later date!
 
 This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
 
@@ -939,69 +1143,6 @@ Some unit tests (mostly for raster and imagery algorithms) have also been includ
 
 This feature was developed by `Médéric Ribreux <https://medspx.fr>`__
 
-General
--------
-
-Feature: Copying features in GeoJSON format
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The previous setting for include WKT when copying features has been replaced with a choice of copying features as "Plain text, attributes only", "Plain text, WKT geometry" and a new "GeoJSON" option. When set to "GeoJSON", copying features in QGIS will place a GeoJSON text representation of the features on the clipboard for easy pasting into other applications/JavaScript code. These settings can be found in the ``Settings -> Options -> Data Sources -> Copy features as``.
-
-|image95|
-
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
-
-Feature: Store spatial bookmarks in project files
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-If you are creating a spatial bookmark, you can now choose to store the bookmark in your active project file. Scroll across in the bookmarks panel to find the checkbox that enables this capability.
-
-|image96|
-
-This feature was developed by Stéphane Brunner
-
-Feature: Support for GNSS GNRMC messages
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-QGIS can now handle GLONASS satellite data ($GN\* lines) to get a more precise Position from external GPS/GNSS Receivers.
-
-|image97|
-
-This feature was developed by Ondřej Fibich
-
-Feature: Paste GeoJSON features directly into QGIS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-QGIS clipboard handler can now parse many additional text formats, including native support for GeoJSON feature collections. This allows you to directly copy and paste GeoJSON strings into QGIS and have them automatically converted into QGIS features and geometries.
-
-|image98|
-
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
-
-Feature: Map tip improvements
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
--  Maptip visibility is now preserved across sessions
--  Maptips can now show HTML content, including images, videos and URL links
-
-|image99|
-
-This feature was funded by `OPENGIS.ch GmbH <http://www.opengis.ch>`__
-
-This feature was developed by `Marco Bernasocchi (OpenGIS.ch) <http://www.opengis.ch>`__
-
-Feature: Desktop MIME icons for QGIS file types
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-| It's now easier to recognise and differentiate QGIS's file types on your operating system files manager. There are now desktop MIME Icons for the following file types:
-|  ** .qgs - QGIS Project file
-|  ** .qml - Layer settings file
-|  ** .qlr - Layer definitions file
-|  ** .qpt - Composer template file
-
-|image100|
-
-This feature was developed by `Alexandre Neto <https://gisunchained.wordpress.com/>`__
 
 Data Providers
 --------------
@@ -1053,8 +1194,8 @@ QGIS is now able to connect to ArcGIS REST services.
 
 You can connect to ArcGIS Feature services (WFS equivalent in ESRI world) and ArcGIS Map services (WMS equivalent). The provider allows you to read maps and vector layers from those services.
 
-| This feature is quite convenient for users who would like to switch from an ESRI GIS stack without losing anything they already have built on private or public map services.
-|  You can also connect to public services provided by ESRI.
+This feature is quite convenient for users who would like to switch from an ESRI GIS stack without losing anything they already have built on private or public map services.
+You can also connect to public services provided by ESRI.
 
 This feature was funded by `Sourcepole QGIS Enterprise <http://qgisenterprise.com/>`__
 
@@ -1110,15 +1251,15 @@ This feature was developed by `Even Rouault <http://www.spatialys.com/>`__
 Feature: Generation of default values on Postgres layers "just in time"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| The expression used to generate default values for a field on the
-|  postgres database are currently being printed on the feature form.
+The expression used to generate default values for a field on the
+postgres database are currently being printed on the feature form.
 
 ::
 
     nextval('serial')
 
-| A new option in the "project properties" (tab "Data Sources") allows evaluating the expression before
-|  opening the form and will directly print the new value in the feature form.
+A new option in the "project properties" (tab "Data Sources") allows evaluating the expression before
+opening the form and will directly print the new value in the feature form.
 
 ::
 
@@ -1204,6 +1345,7 @@ Because sometimes it's just nice to exaggerate about the size.
 
 This feature was developed by `Matthias Kuhn <http://www.opengis.ch>`__
 
+
 Programmability
 ---------------
 
@@ -1229,8 +1371,7 @@ Feature: New PyQGIS classes in 2.16
 New core classes
 ~~~~~~~~~~~~~~~~
 
--  `QgsComposerNodesItem <http://qgis.org/api/classQgsComposerNodesItem.html>`__ - an abstract base class for composer items which provides generic methods for nodes based
-    shapes such as polygons or polylines
+-  `QgsComposerNodesItem <http://qgis.org/api/classQgsComposerNodesItem.html>`__ - an abstract base class for composer items which provides generic methods for nodes based shapes such as polygons or polylines
 -  `QgsComposerPolygon <http://qgis.org/api/classQgsComposerPolygon.html>`__ - a composer item for polygon shapes
 -  `QgsComposerPolyline <http://qgis.org/api/classQgsComposerPolyline.html>`__ - a composer item for polyline shapes
 -  `QgsGroupUngroupItemsCommand <http://qgis.org/api/classQgsGroupUngroupItemsCommand.htmll>`__ - a composer undo command class for grouping / ungrouping composer items
@@ -1414,7 +1555,7 @@ Martin Dobias
 -  style dock: values of raster's layer rendering options not properly restored
 
 Matthias Kuhn
--------------
+~~~~~~~~~~~~~
 
 -  Improve QgsMapLayerRegistry stability
 -  Processing: Difference algorithm: don't ignore invalid geometries by default
@@ -1445,83 +1586,11 @@ Matthias Kuhn
 -  Show correct feature count with rule that requires geometry
 -  Fix crash when using 2.5D renderer with incompatible layer
 
-.. |image0| image:: images/projects/qgis-icon_2.png
 .. |image1| image:: images/projects/b4bbe21d5002a4b73ba27f5abf4e4aaea61d161f.png
-.. |Introducing Nødebo| image:: http://img.youtube.com/vi/GKg2SHmBExs/0.jpg
+.. |Introducing Nødebo| image:: images/pronouncingnodebo.png
    :target: http://www.youtube.com/watch?v=GKg2SHmBExs
 .. |donate here| image:: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
    :target: http://qgis.org/en/site/getinvolved/donations.html
-.. |image4| image:: images/projects/thumbnails/d5fd4af2929840586da0bd45110758c5b0a786ff.png.50x50_q85.png
-.. |QGIS Usergroup Switzerland| image:: images/projects/thumbnails/945e5e1463ca738057fd9bae0a427519ccbfef0d.png.150x50_q85.png
-   :target: http://www.qgis.ch/
-.. |image6| image:: images/projects/thumbnails/0d8ae6aad78ca052492dff96434ddb54d5401262.png.50x50_q85.png
-.. |GAIA mbH| image:: images/projects/thumbnails/f6379f3083e612fd47917e1f948d795b6951dde9.png.150x50_q85.png
-   :target: http://www.gaia-mbh.de/
-.. |Land Vorarlberg| image:: images/projects/thumbnails/5f50b148aecade6339b100f1ad30897b81ca9a09.jpg.150x50_q85.jpg
-   :target: http://www.vorarlberg.at/
-.. |Office of Public Works, Flood Risk Management and Data Management Section| image:: images/projects/thumbnails/35602d87c0858381e9a95a481808b27249f0f592.jpg.150x50_q85.jpg
-   :target: http://www.opw.ie/
-.. |Sourcepole AG| image:: images/projects/thumbnails/63b4e423e3ae2888b441002777aee43514e3e271.png.150x50_q85.png
-   :target: http://www.sourcepole.com/
-.. |image11| image:: images/projects/thumbnails/0e2f6fb1efc89d41120cddf90509374642d400b4.png.50x50_q85.png
-.. |2D3D.GIS| image:: images/projects/thumbnails/b3196a2b5781e788e6adac40ecf6964eddc4d38e.png.150x50_q85.png
-   :target: http://www.2d3d-gis.com/
-.. |Ager Technology| image:: images/projects/thumbnails/7ab30679cc486ecb9981c8c02a6d6ba1fb6ca2c7.png.150x50_q85.jpg
-   :target: http://www.agertechnology.com/
-.. |Asociación Geoinnova| image:: images/projects/thumbnails/bba9a55eb7e288e622e7bf40ee85326c28cf09f3.jpg.150x50_q85.jpg
-   :target: http://geoinnova.org/
-.. |BGEO Open GIS, SL| image:: images/projects/thumbnails/c8dbccba699fc2f34ef61b034f7b86adfd96f4c4.png.150x50_q85.jpg
-   :target: www.bgeo.es
-.. |Cawdor Forestry| image:: images/projects/thumbnails/1789f70f1058ee18570638070439a8082b91dca8.png.150x50_q85.jpg
-   :target: http://www.cawdorforestry.com/
-.. |ChameleonJohn| image:: images/projects/thumbnails/a784c121da037ea4fdb57c0de6ce4573af6d8c6c.png.150x50_q85.png
-   :target: http://www.chameleonjohn.com/
-.. |Dr. Kerth + Lampe Geo-Infometric GmbH| image:: images/projects/thumbnails/8d0653a46046e8d43a28d4ea3466633f15d17636.png.150x50_q85.jpg
-   :target: http://www.dr-kerth-lampe.de/
-.. |FORNAT AG| image:: images/projects/thumbnails/e24951be1e5ff2d6fd591f9760871e38a684bed0.png.150x50_q85.png
-   :target: http://www.fornat.ch/
-.. |GEPOL Ltd.| image:: images/projects/thumbnails/95966a3500fe4f686b531f05fcf85f59ed0dcb93.png.150x50_q85.png
-   :target: http://www.gepol.com.pl/
-.. |GFI - Gesellschaft für Informationstechnologie mbH| image:: images/projects/thumbnails/44113fc21a8e2cd84d93459d0f00b3a64850095c.png.150x50_q85.jpg
-   :target: http://www.gfi-gis.de/
-.. |GIS Support Sp. z o.o.| image:: images/projects/thumbnails/879213e1d9dd7d4e4adb87abf81c96c26c25cd36.png.150x50_q85.jpg
-   :target: http://www.gis-support.com/
-.. |GKG Kassel, (Dr.-Ing. Claas Leiner)| image:: images/projects/thumbnails/035ade9287e0bae1ddf62a00a52519f028a18e7f.png.150x50_q85.jpg
-   :target: http://www.gkg-kassel.de/
-.. |Gaia3D, Inc.| image:: images/projects/thumbnails/9d30ee055aaea7ef42b807b1b4fcd22566eef69d.png.150x50_q85.png
-   :target: http://www.gaia3d.com/
-.. |Gis3W| image:: images/projects/thumbnails/69f8dd7f727158ebeb6bcbdce6fef4cb313ad9f9.png.150x50_q85.png
-   :target: http://www.gis3w.it/
-.. |HostingFacts.com (Online only ou)| image:: images/projects/thumbnails/44e7274c2c76c57d1e2338ddb55a7fb7e764b765.png.150x50_q85.png
-   :target: https://hostingfacts.com/
-.. |KBB Underground Technologies GmbH| image:: images/projects/thumbnails/69255208cf440914eb947bf6dce5cee1c78455ba.jpg.150x50_q85.jpg
-   :target: http://www.kbbnet.de/
-.. |Lutra Consulting| image:: images/projects/thumbnails/0d5fea827c8bfc486877065e21d3e28f89788e78.png.150x50_q85.png
-   :target: http://www.lutraconsulting.co.uk/
-.. |MappingGIS| image:: images/projects/thumbnails/775de328b2774c112cc73fb5aaaee9696220649b.png.150x50_q85.png
-   :target: http://www.mappinggis.com/
-.. |Molitec| image:: images/projects/thumbnails/5a65a575314f063d065ef84840e734e411c770f2.png.150x50_q85.png
-   :target: http://www.molitec.it/
-.. |NCC Roads AB| image:: images/projects/thumbnails/d31441980fc90fb15735df8509527e6a1badce72.png.150x50_q85.png
-   :target: http://www.ncc.se/en/
-.. |National Parks UK| image:: images/projects/thumbnails/6e9c4de359ddbda8ed0b144478e7fa001e22ba63.jpg.150x50_q85.jpg
-   :target: http://www.nationalparks.gov.uk/
-.. |QGIS user group Portugal| image:: images/projects/thumbnails/207dd8769c4926452e07e39d88716ec518ff5f3a.png.150x50_q85.png
-   :target: http://www.qgis.pt/
-.. |Royal Borough of Windsor and Maidenhead| image:: images/projects/thumbnails/25ce8c01cf28046bac3866b5649d269138d257a4.png.150x50_q85.png
-   :target: http://www.rbwm.gov.uk/
-.. |SOLTIG (Soluciones en Tecnologías de Información Geográfica)| image:: images/projects/thumbnails/0baa83c55c7c6194627e87ca81c9dffd4eee9ad1.png.150x50_q85.png
-   :target: http://www.soltig.net/
-.. |Teaching Jobs with Footprints| image:: images/projects/thumbnails/46d3e22cccef65fc941eaf0d080fcabbe29d3aff.png.150x50_q85.png
-   :target: http://www.footprintsrecruiting.com/teaching-jobs-abroad
-.. |TerreLogiche| image:: images/projects/thumbnails/9e23fb4e1f0416131843750f07e75a9f9d1e724d.jpg.150x50_q85.jpg
-   :target: http://www.terrelogiche.com/
-.. |Trage Wegen vzw| image:: images/projects/thumbnails/1607f4bc4a24d0e6aabe5e8e424b93b40b83be3a.png.150x50_q85.png
-   :target: http://www.tragewegen.be/
-.. |Urbsol| image:: images/projects/thumbnails/af9b8c3a4363482f12c7b2dff14659fd9ff6240c.png.150x50_q85.jpg
-   :target: http://www.urbsol.com.au/
-.. |WhereGroup GmbH & Co. KG| image:: images/projects/thumbnails/0eb2c265017956fb6b15cb9a098f8d27928152e8.jpg.150x50_q85.jpg
-   :target: http://wheregroup.com/
 .. |image41| image:: images/entries/4991ffccebf8da94cd01acc1139f52d389731549.gif
    :target: images/entries/4991ffccebf8da94cd01acc1139f52d389731549.gif
 .. |image42| image:: images/entries/5817785cf3d18db78669c2eb2c2be0cf606c3783.gif
