@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-01-04 21:43+0000\n"
+"PO-Revision-Date: 2016-06-21 12:25+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -16,29 +16,29 @@ msgstr ""
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: ../../source/site/getinvolved/faq/index.rst:3
+#: ../../source/site/getinvolved/faq/index.rst:4
 msgid "FAQ"
 msgstr "FAQ"
 
-#: ../../source/site/getinvolved/faq/index.rst:5
+#: ../../source/site/getinvolved/faq/index.rst:6
 msgid "Here we collect answers to question which come up very often."
 msgstr "Nós recolhemos respostas para questões que são feitas frequentemente."
 
-#: ../../source/site/getinvolved/faq/index.rst:7
+#: ../../source/site/getinvolved/faq/index.rst:8
 msgid ""
 "We will start of with this one page, maybe restructure it into sections, or "
 "even more pages if needed"
 msgstr "Vamos começar nesta página, talvez ela reestruturada em secções, ou mais páginas serão necessárias"
 
-#: ../../source/site/getinvolved/faq/index.rst:12
+#: ../../source/site/getinvolved/faq/index.rst:13
 msgid "User"
 msgstr "Usuário"
 
-#: ../../source/site/getinvolved/faq/index.rst:34
+#: ../../source/site/getinvolved/faq/index.rst:47
 msgid "Why is QGIS 2.0 named 'Dufour'?"
 msgstr "Porquê é que o QGIS 2.0 chama-se 'Dufour'?"
 
-#: ../../source/site/getinvolved/faq/index.rst:36
+#: ../../source/site/getinvolved/faq/index.rst:49
 msgid ""
 "After a succesfull developer meeting in Zurich (Switzerland), we decided "
 "that the next release should be related to it. `General Guillaume-Henri "
@@ -51,90 +51,148 @@ msgid ""
 " in Switzerland."
 msgstr "Depois de um encontro de programadores de sucesso em Zurique (Suíça), nós decidimos que a próximo lançamento deveria ser relacionado ao. `General Guillame-Henri Dufour <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_ que foi um famoso influente cartógrafo suíço. Além disso, Dufourspitze é um ponto mais alto <http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.hiks-dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_ da Suíça."
 
-#: ../../source/site/getinvolved/faq/index.rst:22
+#: ../../source/site/getinvolved/faq/index.rst:26
 msgid "preferably a descriptive title for your email"
 msgstr "de preferência um título descritivo para o seu email"
 
-#: ../../source/site/getinvolved/faq/index.rst:23
+#: ../../source/site/getinvolved/faq/index.rst:33
 msgid "which Operating System and version"
 msgstr "qual o Sistema Operacional e versão"
 
-#: ../../source/site/getinvolved/faq/index.rst:24
+#: ../../source/site/getinvolved/faq/index.rst:27
 msgid "which QGIS version you used at that moment (exact)"
 msgstr "Que versão QGIS usa neste momento (exato)"
 
-#: ../../source/site/getinvolved/faq/index.rst:25
+#: ../../source/site/getinvolved/faq/index.rst:34
 msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
 msgstr "como instalou (osgeo4w? instalador standalone? compilação própria?)"
 
-#: ../../source/site/getinvolved/faq/index.rst:26
-msgid ""
-"at what time did it break (reinstall, new install, system update, project??)"
-msgstr "em que fase parou (reinstalar, nova instalação, atualização do sistema, projeto??)"
-
-#: ../../source/site/getinvolved/faq/index.rst:29
-msgid ""
-"Without this info, it is very hard to answer for anybody. Or, taking just "
-"too much time because the answer will be a question to you etc etc."
-msgstr "Sem esta informação, será muito difícil responder esta solicitação. Ou, passando muito tempo porque a resposta será uma questão para si etc etc."
-
-#: ../../source/site/getinvolved/faq/index.rst:54
+#: ../../source/site/getinvolved/faq/index.rst:69
 msgid "Development"
 msgstr "Desenvolvimento"
 
-#: ../../source/site/getinvolved/faq/index.rst:57
-msgid "Can I compile QGIS myself on Windows?"
-msgstr "Posso eu mesmo compilar o QGIS no Windows?"
-
-#: ../../source/site/getinvolved/faq/index.rst:63
-msgid "Can I compile QGIS myself on MacOS?"
-msgstr "Posso eu mesmo compilar o QGIS no MacOS?"
-
-#: ../../source/site/getinvolved/faq/index.rst:69
-msgid "Can I compile QGIS myself on Linux?"
-msgstr "Posso eu mesmo compilar o QGIS no Linux?"
-
-#: ../../source/site/getinvolved/faq/index.rst:17
+#: ../../source/site/getinvolved/faq/index.rst:18
 msgid "How to ask a QGIS question?"
 msgstr "Como fazer uma questão sobre o QGIS?"
 
-#: ../../source/site/getinvolved/faq/index.rst:19
-msgid ""
-"If you are going to ask QGIS related question via the mailinglists, please "
-"provide the following information with it:"
-msgstr "Se vai fazer uma questão relacionada com o QGIS através das listas de discussão, por favor forneça as seguintes informações:"
-
-#: ../../source/site/getinvolved/faq/index.rst:27
-msgid ""
-"what exactly is the error (if possible: screendump, stacktrace, copy of "
-"errortext)"
-msgstr "O erro exatamente (se possível: uma captura de tela, stacktrace, cópia de texto do erro)."
-
-#: ../../source/site/getinvolved/faq/index.rst:44
+#: ../../source/site/getinvolved/faq/index.rst:57
 msgid "Can I open ECW files with QGIS?"
 msgstr "Pode abrir arquivos ECW com o QGIS?"
 
-#: ../../source/site/getinvolved/faq/index.rst:46
+#: ../../source/site/getinvolved/faq/index.rst:59
 msgid ""
 "Yes you can... BUT depending on your Operating System, it is more or less "
 "difficult."
 msgstr "Sim pode... MAS dependendo do seu Sistema Operacional, isso pode ser mais ou menos difícil."
 
-#: ../../source/site/getinvolved/faq/index.rst:48
-msgid "If you use the OSGeo4w 64 bit installer, it is included."
-msgstr "Se usa o instalador OSGeo4w 64 bit, este é incluído."
-
-#: ../../source/site/getinvolved/faq/index.rst:50
+#: ../../source/site/getinvolved/faq/index.rst:66
 msgid ""
 "For other instructions, eg look here: http://www.faunalia.com/content"
 "/adding-ecw-support-quantum-gis"
 msgstr "Para mais instruções, como exemplo veja aqui: http://www.faunalia.com/content/adding-ecw-support-quantum-gis"
 
-#: ../../source/site/getinvolved/faq/index.rst:59
-#: ../../source/site/getinvolved/faq/index.rst:65
-#: ../../source/site/getinvolved/faq/index.rst:71
-msgid "Yes, please read: INSTALL_"
-msgstr "Sim, por favor leia: INSTALL_"
+#: ../../source/site/getinvolved/faq/index.rst:20
+msgid ""
+"If you are going to ask QGIS related question via the mailing lists, please "
+"provide enough information to help others easily understand what your "
+"problem is. Without a clear and precise question, it is very hard to answer "
+"for anybody or takes just too much time because the answer will be a "
+"question to you etc etc. You may provide information such as:"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:28
+msgid "what are you expecting to get"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:29
+msgid "if applicable, what have you tried and the result you got"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:30
+msgid "if your question is about something broken, you may also provide:"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:32
+msgid ""
+"what exactly is the error (if possible: screendump, stacktrace, copy of "
+"error text)"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:35
+msgid ""
+"at what time did it break (reinstall, new install, system update, project "
+"changes)"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:37
+msgid ""
+"Keep in mind that the more precise is your question, the quicker and more "
+"accurate can be the answer."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:41
+msgid ""
+"In case of a broken function, you may give a look at `QGIS issue tracker "
+"<http://hub.qgis.org/projects/quantum-gis/issues>`_ before mailing to the "
+"list. More information at :ref:`QGIS-bugreporting`."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:61
+msgid ""
+"If you are under Windows and are using the OSGeo4w installer, it is "
+"included."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:63
+msgid ""
+"If you are using OS X, you can find the ECW plugin and install instructions "
+"at http://www.kyngchaos.com/software/frameworks"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:72
+msgid "Can I compile QGIS myself?"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:74
+msgid ""
+"Yes, compiling QGIS from source is possible whatever OS you use (Windows, OS"
+" X, Linux). Please read `Building QGIS from source "
+"<http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
+msgstr ""
+
+#~ msgid ""
+#~ "at what time did it break (reinstall, new install, system update, project??)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Without this info, it is very hard to answer for anybody. Or, taking just "
+#~ "too much time because the answer will be a question to you etc etc."
+#~ msgstr ""
+
+#~ msgid "Can I compile QGIS myself on Windows?"
+#~ msgstr ""
+
+#~ msgid "Can I compile QGIS myself on MacOS?"
+#~ msgstr ""
+
+#~ msgid "Can I compile QGIS myself on Linux?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are going to ask QGIS related question via the mailinglists, please "
+#~ "provide the following information with it:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "what exactly is the error (if possible: screendump, stacktrace, copy of "
+#~ "errortext)"
+#~ msgstr ""
+
+#~ msgid "If you use the OSGeo4w 64 bit installer, it is included."
+#~ msgstr ""
+
+#~ msgid "Yes, please read: INSTALL_"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"

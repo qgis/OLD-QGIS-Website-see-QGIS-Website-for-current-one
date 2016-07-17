@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2016-03-01 19:23+0000\n"
+"PO-Revision-Date: 2016-06-21 12:26+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
@@ -16,10 +16,6 @@ msgstr ""
 "Language: lt\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: ../../source/site/getinvolved/document.rst:4
-msgid "Update QGIS Documentation"
-msgstr "Atnaujinkite QGIS dokumentaciją"
-
 #: ../../source/site/getinvolved/document.rst:6
 msgid ""
 "The update of the QGIS documentation is managed by the :ref:`Community Team "
@@ -27,25 +23,9 @@ msgid ""
 "translation>` to find out who is in charge of guiding you."
 msgstr "QGIS dokumentacijos atnaujinimus tvarko :ref:`Bendruomenės komandos vadovas <gui-translation>`. Perskaitykite :ref:`QGIS valdymą <gui-translation>`, kad sužinotumėte, kas turi jums padėti."
 
-#: ../../source/site/getinvolved/document.rst:10
-msgid ""
-"The complete list of documents managed by the QGIS documentation team can be"
-" found at www.qgis.org/en/docs/index.html. A list of documenters can be "
-"found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
-msgstr "Pilną QGIS dokumentacijos komandos valdomų dokumentų sąrašą rasite www.qgis.org/en/docs/index.html. Dokumentuotojų sąrašą rasite https://github.com/qgis/QGIS-Documentation/graphs/contributors."
-
 #: ../../source/site/getinvolved/document.rst:17
 msgid "Documentation Mailing list"
 msgstr "Dokumentacijos sąrašynas"
-
-#: ../../source/site/getinvolved/document.rst:19
-msgid ""
-"If you plan to contribute to an existing document and for other related "
-"questions, please contact the Documentation Team Leader (see "
-":ref:`Organigram <gui-translation>`) or subscribe with the `qgis-community-"
-"team <http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_ mailing"
-" list."
-msgstr "Jei galvojate tobulinti jau esamą dokumentą ir kitais panašiais klausimais prašome susisiekti su dokumentacijos komandos vadovu (žr. :ref:`Organigramą <gui-translation>`) arba prisijunkite prie `qgis-community-team <http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_ sąrašyno."
 
 #: ../../source/site/getinvolved/document.rst:24
 msgid ""
@@ -65,158 +45,218 @@ msgid ""
 "The other available mailing lists can be found at :ref:`QGIS-mailinglists`."
 msgstr "Kitus sąrašynus rasite :ref:`QGIS-mailinglists`."
 
-#: ../../source/site/getinvolved/document.rst:33
+#: ../../source/site/getinvolved/document.rst:35
 msgid "Becoming a documenter"
 msgstr "Kaip tapti dokumentuotoju"
 
-#: ../../source/site/getinvolved/document.rst:35
+#: ../../source/site/getinvolved/document.rst:37
 msgid ""
 "The QGIS project is always looking for people who are willing to invest some"
 " more time updating QGIS documentation and translating it into a foreign "
 "language - even perhaps to coordinate the update and translation effort."
 msgstr "QGIS visada ieško žmonių, kurie norėtų investuoti savo laiką QGIS dokumentacijos atnaujinimui ir vertimui į kitą kalbą - gal net koordinuoti atnaujinimo ir vertimo pastangas."
 
-#: ../../source/site/getinvolved/document.rst:39
+#: ../../source/site/getinvolved/document.rst:41
 msgid ""
 "We are trying to improve our project management process and spread the load "
 "more evenly between people who each have a specific area of responsibility, "
 "so any contribution you have to make will be greatly appreciated."
 msgstr "Mes bandome tobulinti savo projekto valdymo procesus ir tolygiau išdalinti apkrovas tarp žmonių, kiekvienas iš kurių atsakingas už konkrečia sritį. Todėl būsime dėkingi už bet kokį jūsų indėlį."
 
-#: ../../source/site/getinvolved/document.rst:43
-msgid ""
-"If you would like to nominate yourself as a coordinator for a manual, a "
-"single manual chapter or a language please go ahead. If more than one person"
-" nominate themselves as coordinator for the same document, please contact "
-"each other and resolve how you will manage your efforts."
-msgstr "Jei norėtumėte savo nominuoti vadovo, vadovo skyriaus arba kalbos koordinatoriumi - prašom. Jei daugiau nei vienas žmogus nominuoja save kaip to paties dokumento koordinatorių, prašome susisiekti vienas su kitu ir susitarti, kaip skirstysite savo indėlį."
+#: ../../source/site/getinvolved/document.rst:4
+msgid "Write Documentation"
+msgstr ""
 
-#: ../../source/site/getinvolved/document.rst:48
+#: ../../source/site/getinvolved/document.rst:10
 msgid ""
-"Please :ref:`contact <community-resources>` the Community Assistant or the "
-"Doc translation team leader to see your name entered in the About Box of "
-"QGIS."
-msgstr "Prašome :ref:`susisiekti <community-resources>` su bendruomenės pagalbininku arba dokumentų vertimo komanda, kad jūsų vardas būtų įrašytas į QGIS „Apie“ dialogą."
+"The complete list of documents managed by the QGIS documentation team can be"
+" found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
+"be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+msgstr ""
+
+#: ../../source/site/getinvolved/document.rst:19
+msgid ""
+"If you plan to contribute to QGIS documentation, see :ref:`becoming-"
+"documenter`. For other related questions, please contact the "
+":ref:`Documentation Team Leader <community-resources>` or subscribe with the"
+" `qgis-community-team <http://lists.osgeo.org/mailman/listinfo/qgis-"
+"community-team>`_ mailing list."
+msgstr ""
+
+#: ../../source/site/getinvolved/document.rst:45
+msgid ""
+"The complete list of documents managed by the QGIS Documentation Team can be"
+" found at http://www.qgis.org/en/docs/index.html. All the documentation "
+"sources are hosted in `QGIS-Documentation repository "
+"<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
+"features in QGIS or document new ones, you need to:"
+msgstr ""
+
+#: ../../source/site/getinvolved/document.rst:51
+msgid "have a `GitHub account <https://github.com/join>`_"
+msgstr ""
 
 #: ../../source/site/getinvolved/document.rst:52
-msgid "Helping with an existing translation"
-msgstr "Pagalba egzistuojančiam vertimui"
-
-#: ../../source/site/getinvolved/document.rst:61
-msgid "HOWTO translate"
-msgstr "KAIP versti"
-
-#: ../../source/site/getinvolved/document.rst:63
 msgid ""
-"The QGIS documents are natively programmed in English. However, it is "
-"designed to be translated into any language quite easily. At this moment "
-"several other languages are already available (though not all well "
-"maintained)."
-msgstr "Pradiniai QGIS dokumentai rašomi angliškai. Bet jie kuriami taip, kad galėtų būti lengvai verčiami į bet kokią kalbą. Šiuo metu jau paruoštos kelios kitos kalbos (nors ne visos jos gerai palaikomos)."
+"`fork the repository <https://help.github.com/articles/working-with-"
+"forks/>`_"
+msgstr ""
 
-#: ../../source/site/getinvolved/document.rst:67
-msgid ""
-"All available languages are listed in Transifex. It also shows how much of "
-"it has been translated yet. The entire interface contains over ten thousand "
-"pieces of text and a complete translation will take days if not weeks to be "
-"finished. Besides that, the rapid development of the application "
-"continuously causes new and edited texts to be translated. A huge effort and"
-" your help will be appreciated!"
-msgstr "Visos galimos kalbos išvardintos Transifex'e. Ten taip pat rodoma, kiek jau yra išversta. Visoje naudotojo sąsajoje yra virš dešimties tūkstančių teksto gabalų, taigi pilnam vertimui gali prireikti dienų, o gal net ir savaičių. Be to, greitas aplikacijos vystymas pastoviai sukuria naujas ir keičia esamas verčiamas eilutes. Didžiulės pastangos ir jūsų pagalba labai reikalinga!"
-
-#: ../../source/site/getinvolved/document.rst:75
-msgid "Transifex"
-msgstr "Transifex"
-
-#: ../../source/site/getinvolved/document.rst:77
-msgid ""
-"The web-based translating platform Transifex is used for all QGIS "
-"translations; the desktop application itself (or GUI), the documentation and"
-" the web site. So the first thing you need is an account to login and get "
-"started."
-msgstr "Tinklo vertimo platforma Transifex naudojama visiems QGIS vertimams: darbastalio aplikacijai (arba GUI), dokumentacijai ir svetainei. Taigi visų pirma jums reikės paskyros, kad galėtumėte prisijungti ir pradėti."
-
-#: ../../source/site/getinvolved/document.rst:83
-msgid "Get an account"
-msgstr "Gaukite paskyrą"
-
-#: ../../source/site/getinvolved/document.rst:85
-msgid "Go to www.transifex.com and create a new account"
-msgstr "Eikite į www.transifex.com ir susikurkite naują paskyrą"
-
-#: ../../source/site/getinvolved/document.rst:86
-msgid "Verify your account by the link in the email you will receive"
-msgstr "Patvirtinkite savo paskyrą paspausdami ant nuorodos, kurią gausite e-paštu"
-
-#: ../../source/site/getinvolved/document.rst:87
-msgid "Login"
-msgstr "Prisijunkite"
-
-#: ../../source/site/getinvolved/document.rst:88
-msgid ""
-"Choose your role as “Translator” and answer some other questions about "
-"yourself"
-msgstr "Pasirinkite rolę „Vertėjas“ ir atsakykite į kelis kitus klausimus apie jus"
-
-#: ../../source/site/getinvolved/document.rst:89
-msgid ""
-"At your dashboard page click “Join an existing organisation” and search for "
-"“qgis”"
-msgstr "Panelės puslapyje spauskite „prisijungti prie esamos organizacijos“ ir ieškokite „qgis“"
-
-#: ../../source/site/getinvolved/document.rst:91
-msgid ""
-"Some QGIS organisations are listed now, among them are QGIS Desktop, Website"
-" and Documentation."
-msgstr "Šiuo metu rodomos kelios QGIS organizacijos, tarp jų yra QGIS Desktop, Website ir Documentation."
-
-#: ../../source/site/getinvolved/document.rst:94
-msgid "Choose in which part of the project you would like to participate"
-msgstr "Pasirinkite, kurioje projekto dalyje norėtumėte prisidėti"
-
-#: ../../source/site/getinvolved/document.rst:95
-msgid "You can be part of all projects and help everywhere too"
-msgstr "Jei norite, galite prisidėti prie visų projektų ir padėti visur"
-
-#: ../../source/site/getinvolved/document.rst:96
-msgid ""
-"If the language of your choice is listed, click it and request to join the "
-"team."
-msgstr "Jei jūsų kalba yra sąraše, paspauskite ją ir paprašykite prisijungti prie komandos."
-
-#: ../../source/site/getinvolved/document.rst:97
-msgid ""
-"If your language is not listed yet, click “Request language” and choose your"
-" language. Keep in mind that translating the entire Desktop Application will"
-" take days of work, if not weeks!"
-msgstr "Jei jūsų kalbos dar nėra, spauskite „Prašyti kalbos“ ir pasirinkite savo kalbą. Atkreipkite dėmesį, kad visos darbastalio aplikacijos vertimui gali prireikti dienų jei ne savaičių darbo!"
-
-#: ../../source/site/getinvolved/document.rst:101
-msgid ""
-"Now you will need to wait for the maintainers to process your request. You "
-"will be notified by email when your request has been accepted."
-msgstr "Dabar jums reikės palaukti, kol tvarkytojai apdoros jūsų užklausą. Jums praneš e-paštu, kai jūsų užklausa bus patvirtinta."
-
-#: ../../source/site/getinvolved/document.rst:105
-msgid "Note on new languages"
-msgstr "Pastaba apie naujas kalbas"
-
-#: ../../source/site/getinvolved/document.rst:107
-msgid ""
-"With requesting a new language please bear in mind that we try to make it as"
-" simple as possible. Just ask for the language you want to translate "
-"(regardless in which country you reside). Only if there are notable "
-"differences in the languages (for example portuguese in Portugal in Brazil) "
-"we will create its own version."
-msgstr "Prašydami naujos kalbos turėkite omeny, kad mes stengiamės, kad viskas būtų kaip galima paprasčiau. Tiesiog paprašykite kalbos, į kurią norite versti (nepriklausomai nuo to, kurioje šalyje esate). Tik jei yra žymių skirtumų kalbose (pavyzdžiui portugalų kalba Portugalijoje ir Brazilijoje), mes sukursime atskirą versiją."
+#: ../../source/site/getinvolved/document.rst:53
+msgid "do your changes"
+msgstr ""
 
 #: ../../source/site/getinvolved/document.rst:54
+msgid "and submit a pull request."
+msgstr ""
+
+#: ../../source/site/getinvolved/document.rst:56
 msgid ""
-"If you like to help translating an existing QGIS manual into a your language"
-" please assign to the :ref:`qgis-community-team mailing list <mailinglist-"
-"translation-docs>` and ask who is already working on that language to "
-"coordinate and collaborate."
-msgstr "Jei norite pad4ti versti jau esamą QGIS vadovą į jūsų kalbą, prašome prisijungti prie  :ref:`qgis-community-team sąrašyno <mailinglist-translation>` ir paklausti, kas jau dirba su šia kalba, kad galėtumėte koordinuoti pastangas ir bendradarbiauti."
+"Instructions for contributing in documentation and managing a git repository"
+" are available at `Documentation Guidelines "
+"<http://docs.qgis.org/testing/en/docs/documentation_guidelines/index.html>`_"
+msgstr ""
+
+#: ../../source/site/getinvolved/document.rst:60
+msgid "**Direct access to source file**"
+msgstr ""
+
+#: ../../source/site/getinvolved/document.rst:62
+msgid ""
+"To easily find the file to update in the repository, use the ``Fix me`` link"
+" provided at the bottom of any page of the ``Testing`` documentation. It "
+"directly opens the source file in your forked repo. Just make your changes, "
+"commit in a new branch and submit pull request to the main repository."
+msgstr ""
+
+#~ msgid "Update QGIS Documentation"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The complete list of documents managed by the QGIS documentation team can be"
+#~ " found at www.qgis.org/en/docs/index.html. A list of documenters can be "
+#~ "found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you plan to contribute to an existing document and for other related "
+#~ "questions, please contact the Documentation Team Leader (see "
+#~ ":ref:`Organigram <gui-translation>`) or subscribe with the `qgis-community-"
+#~ "team <http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_ mailing"
+#~ " list."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you would like to nominate yourself as a coordinator for a manual, a "
+#~ "single manual chapter or a language please go ahead. If more than one person"
+#~ " nominate themselves as coordinator for the same document, please contact "
+#~ "each other and resolve how you will manage your efforts."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Please :ref:`contact <community-resources>` the Community Assistant or the "
+#~ "Doc translation team leader to see your name entered in the About Box of "
+#~ "QGIS."
+#~ msgstr ""
+
+#~ msgid "Helping with an existing translation"
+#~ msgstr ""
+
+#~ msgid "HOWTO translate"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The QGIS documents are natively programmed in English. However, it is "
+#~ "designed to be translated into any language quite easily. At this moment "
+#~ "several other languages are already available (though not all well "
+#~ "maintained)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "All available languages are listed in Transifex. It also shows how much of "
+#~ "it has been translated yet. The entire interface contains over ten thousand "
+#~ "pieces of text and a complete translation will take days if not weeks to be "
+#~ "finished. Besides that, the rapid development of the application "
+#~ "continuously causes new and edited texts to be translated. A huge effort and"
+#~ " your help will be appreciated!"
+#~ msgstr ""
+
+#~ msgid "Transifex"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The web-based translating platform Transifex is used for all QGIS "
+#~ "translations; the desktop application itself (or GUI), the documentation and"
+#~ " the web site. So the first thing you need is an account to login and get "
+#~ "started."
+#~ msgstr ""
+
+#~ msgid "Get an account"
+#~ msgstr ""
+
+#~ msgid "Go to www.transifex.com and create a new account"
+#~ msgstr ""
+
+#~ msgid "Verify your account by the link in the email you will receive"
+#~ msgstr ""
+
+#~ msgid "Login"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Choose your role as “Translator” and answer some other questions about "
+#~ "yourself"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "At your dashboard page click “Join an existing organisation” and search for "
+#~ "“qgis”"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Some QGIS organisations are listed now, among them are QGIS Desktop, Website"
+#~ " and Documentation."
+#~ msgstr ""
+
+#~ msgid "Choose in which part of the project you would like to participate"
+#~ msgstr ""
+
+#~ msgid "You can be part of all projects and help everywhere too"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If the language of your choice is listed, click it and request to join the "
+#~ "team."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If your language is not listed yet, click “Request language” and choose your"
+#~ " language. Keep in mind that translating the entire Desktop Application will"
+#~ " take days of work, if not weeks!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Now you will need to wait for the maintainers to process your request. You "
+#~ "will be notified by email when your request has been accepted."
+#~ msgstr ""
+
+#~ msgid "Note on new languages"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "With requesting a new language please bear in mind that we try to make it as"
+#~ " simple as possible. Just ask for the language you want to translate "
+#~ "(regardless in which country you reside). Only if there are notable "
+#~ "differences in the languages (for example portuguese in Portugal in Brazil) "
+#~ "we will create its own version."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you like to help translating an existing QGIS manual into a your language"
+#~ " please assign to the :ref:`qgis-community-team mailing list <mailinglist-"
+#~ "translation-docs>` and ask who is already working on that language to "
+#~ "coordinate and collaborate."
+#~ msgstr ""
 
 #~ msgid ""
 #~ "If you like to help translating an existing QGIS manual into a your language"

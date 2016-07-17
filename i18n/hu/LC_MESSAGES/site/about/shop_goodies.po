@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Zoltan Siki <siki@agt.bme.hu>, 2015
+# Zoltan Siki <siki@agt.bme.hu>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2015-08-21 12:21+0000\n"
+"PO-Revision-Date: 2016-06-26 15:01+0000\n"
 "Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
@@ -14,10 +14,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: ../../source/site/about/shop_goodies.rst:4
-msgid "QGIS shop"
-msgstr "QGIS bolt"
 
 #: ../../source/site/about/shop_goodies.rst:6
 msgid ""
@@ -28,20 +24,16 @@ msgid ""
 msgstr "Ha ön egy QGIS rajongó, akkor meglátogathatná az egyik üzletünket ezzel is bemutatva a kedvenc asztali GIS szoftverét. Vannak nagyszerű pólók, bögrék, pulcsik, sapkák, és így tovább, tegyen egy látogatást az egyik alábbi üzletünkbe!"
 
 #: ../../source/site/about/shop_goodies.rst:16
-msgid "For QGIS"
-msgstr "QGIS-hez"
-
-#: ../../source/site/about/shop_goodies.rst:18
 msgid ""
 "Buying QGIS apparrel not only lets you show off the fact that you use QGIS, "
 "for every t-shirt sold a commision is given to the QGIS project."
 msgstr "QGIS ruházat vásárlásával nemcsak azt a tény mutatja be, hogy a QGIS-t használja, minden értékesített póló után  jutalékot kap a QGIS projekt."
 
-#: ../../source/site/about/shop_goodies.rst:26
+#: ../../source/site/about/shop_goodies.rst:25
 msgid "Localized shops"
 msgstr "Helyi üzletek"
 
-#: ../../source/site/about/shop_goodies.rst:28
+#: ../../source/site/about/shop_goodies.rst:27
 msgid ""
 "We co-operate with spreadshirt.com. This services has localized shops around"
 " the world, so choose the store nearest to you to save on shipping costs."
@@ -85,3 +77,13 @@ msgstr "Vagy válasszon egyet innen:"
 #: ../../source/site/about/shop_goodies.rst:53
 msgid "http://www.spreadshirt.net/select-your-region-C8590"
 msgstr "http://www.spreadshirt.net/select-your-region-C8590"
+
+#: ../../source/site/about/shop_goodies.rst:4
+msgid "Shop"
+msgstr "Bolt"
+
+#~ msgid "QGIS shop"
+#~ msgstr ""
+
+#~ msgid "For QGIS"
+#~ msgstr ""

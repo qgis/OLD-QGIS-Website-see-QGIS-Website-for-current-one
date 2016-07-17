@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-08-19 07:00+0000\n"
+"PO-Revision-Date: 2016-06-21 12:25+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
@@ -15,15 +15,18 @@ msgstr ""
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/getinvolved/donations.rst:9
-msgid "QGIS Donations"
-msgstr "Doações ao QGIS"
-
 #: ../../source/site/getinvolved/donations.rst:5
 msgid ""
 "Content is not used, it is overridden by themes/qgis-"
 "theme/getinvolved_donations.html."
 msgstr "O conteúdo não é usado, é substítuido por  themes/qgis-theme/getinvolved_donations.html."
+
+#: ../../source/site/getinvolved/donations.rst:9
+msgid "Donations"
+msgstr ""
+
+#~ msgid "QGIS Donations"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Content is not used, it is overridden by themes/qgis-"

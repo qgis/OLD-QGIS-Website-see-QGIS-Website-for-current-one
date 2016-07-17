@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-03-01 18:02+0000\n"
+"PO-Revision-Date: 2016-06-21 12:24+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -318,11 +318,6 @@ msgstr "Pacchetto"
 #: ../../source/site/forusers/alldownloads.rst:113
 msgid "Description"
 msgstr "Descrizione"
-
-#: ../../source/site/forusers/alldownloads.rst:52
-#: ../../source/site/forusers/alldownloads.rst:115
-msgid "Latest Release"
-msgstr "Ultima versione"
 
 #: ../../source/site/forusers/alldownloads.rst:52
 msgid "qgis"
@@ -681,6 +676,14 @@ msgid ""
 "to your installation manager together with the openSUSE VERSION you work "
 "with (e.g. openSUSE_13.2). ::"
 msgstr "Viene aggiornato regolarmente un pacchetto di sviluppo è dal ramo master chiamato qgis-master,  per le versioni  13.1, 13.2 (32 e 64bit). Aggiungere il seguente repository al gestore di installazione insieme al numero della versione di openSUSE (ad es. openSUSE_13.1). ::"
+
+#: ../../source/site/forusers/alldownloads.rst:52
+#: ../../source/site/forusers/alldownloads.rst:115
+msgid "Latest Release |releasenote|"
+msgstr ""
+
+#~ msgid "Latest Release"
+#~ msgstr ""
 
 #~ msgid "Long Term Release (available after 2.10 release)"
 #~ msgstr ""

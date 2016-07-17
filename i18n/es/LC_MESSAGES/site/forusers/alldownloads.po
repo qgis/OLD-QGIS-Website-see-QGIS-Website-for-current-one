@@ -3,16 +3,16 @@
 # BelenMP <Beln1@hotmail.com>, 2014
 # Diana Galindo <drgalindog@linuxmail.org>, 2013
 # Eduardo Gonzalez Latorre, 2014
-# Eric Armijo, 2015-2016
+# YoViajo, 2015-2016
 # Minerva Durán Martínez <mine_tod@yahoo.com.mx>, 2016
-# Eric Armijo, 2016
+# YoViajo, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-06-20 02:04+0000\n"
-"Last-Translator: Eric Armijo\n"
+"PO-Revision-Date: 2016-07-15 22:17+0000\n"
+"Last-Translator: YoViajo\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -298,7 +298,7 @@ msgstr ""
 msgid ""
 "For more advanced QGIS users you can use the OSGeo4W package, which makes it"
 " possible to install several versions in parallel."
-msgstr ""
+msgstr "Para usuarios QGIS más avanzados usted puede usar el paquete OSGeo4W, que hace posible instalar varias versiones en paralelo."
 
 #: ../../source/site/forusers/alldownloads.rst:47
 msgid "and pick one or more of the following packages:"
@@ -318,11 +318,6 @@ msgstr "Paquete"
 #: ../../source/site/forusers/alldownloads.rst:113
 msgid "Description"
 msgstr "Descripción"
-
-#: ../../source/site/forusers/alldownloads.rst:52
-#: ../../source/site/forusers/alldownloads.rst:115
-msgid "Latest Release"
-msgstr "Último Lanzamiento"
 
 #: ../../source/site/forusers/alldownloads.rst:52
 msgid "qgis"
@@ -561,7 +556,7 @@ msgstr "Ejemplo último lanzamiento para Debian jessie:"
 msgid ""
 "If you use one of our ubuntugis based repositories you also need to add "
 "following line::"
-msgstr ""
+msgstr "Si usa uno de nuestros repositorios basados en ubuntugis también necesitará adicional la siguiente línea::"
 
 #: ../../source/site/forusers/alldownloads.rst:186
 msgid "After that type::"
@@ -647,13 +642,13 @@ msgstr "Debería salir::"
 #: ../../source/site/forusers/alldownloads.rst:207
 msgid ""
 "After you have verified the fingerprint you can add the key to apt with::"
-msgstr ""
+msgstr "Después de que haya verificado la huella digital puede agregar la llave a apt con::"
 
 #: ../../source/site/forusers/alldownloads.rst:211
 msgid ""
 "Alternatively you can download the key from a keyserver and add the key to "
 "apt in one go (without manual fingerprint verification)::"
-msgstr ""
+msgstr "Alternativamente puede descargar la llave de un servidor de llaves y agregar la llave al apt en un sólo go (sin verificación manual de huella digital)::"
 
 #: ../../source/site/forusers/alldownloads.rst:282
 msgid ""
@@ -681,6 +676,14 @@ msgid ""
 "to your installation manager together with the openSUSE VERSION you work "
 "with (e.g. openSUSE_13.2). ::"
 msgstr "Un paquete de desarrollo actualizado periódicamente de qgis avanzado llamado qgis-ltr está disponible para 13.1 y 13.2 (32 bits y 64 bits). Se agrega el siguiente repositorio para el gestor de la instalación junto con la versión de openSUSE con la que se trabaja(por ejemplo openSUSE_13.2). ::"
+
+#: ../../source/site/forusers/alldownloads.rst:52
+#: ../../source/site/forusers/alldownloads.rst:115
+msgid "Latest Release |releasenote|"
+msgstr "Último Lanzamiento |releasenote|"
+
+#~ msgid "Latest Release"
+#~ msgstr ""
 
 #~ msgid "Long Term Release (available after 2.10 release)"
 #~ msgstr ""

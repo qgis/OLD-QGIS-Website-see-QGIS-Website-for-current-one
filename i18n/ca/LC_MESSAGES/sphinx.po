@@ -2,13 +2,14 @@
 # Translators:
 # Carlos López Quintanilla <carlos.lopez@psig.es>, 2014
 # josep constantí mata <iceberg.jcm@gmail.com>, 2015
+# Richard Duivenvoorde <richard@duif.net>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2015-12-05 07:33+0000\n"
-"Last-Translator: josep constantí mata <iceberg.jcm@gmail.com>\n"
+"PO-Revision-Date: 2016-06-21 12:54+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Catalan (http://www.transifex.com/qgis/qgis-website/language/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,62 +17,41 @@ msgstr ""
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:7
-msgid "Get involved with the QGIS community"
-msgstr "Adheriu-vos a la comunitat de QGIS"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:9
-msgid ""
-"QGIS is developed by a team of dedicated\n"
-"                    volunteers and organisations."
-msgstr "QGIS és desenvolupat per un equip dedicat de\nvoluntaris i organitzacions."
-
-#: ../../themes/qgis-theme/getinvolved_index.html:17
-#: ../../themes/qgis-theme/getinvolved_donations.html:16
+#: ../../themes/qgis-theme/getinvolved_index.html:12
+#: ../../themes/qgis-theme/getinvolved_donations.html:15
 msgid "You can get involved!"
 msgstr "Tu pots participar!"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:34
+#: ../../themes/qgis-theme/getinvolved_index.html:37
 msgid "GET INVOLVED"
 msgstr "PARTICIPA"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:42
+#: ../../themes/qgis-theme/getinvolved_index.html:45
 msgid "Participate in Support"
 msgstr "Participa en donar suport"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:45
+#: ../../themes/qgis-theme/getinvolved_index.html:48
 msgid "Translate"
 msgstr "Tradueix"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:48
-#: ../../themes/qgis-theme/getinvolved_index.html:110
+#: ../../themes/qgis-theme/getinvolved_index.html:51
+#: ../../themes/qgis-theme/getinvolved_index.html:123
 msgid "Develop a Plugin"
 msgstr "Desenvolupa un connector"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:82
+#: ../../themes/qgis-theme/getinvolved_index.html:85
 msgid "Participate in Support Channels"
 msgstr "Participa en Canals de Suport"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:83
-msgid ""
-"There are several QGIS mailing lists, IRC channels, forums and user groups "
-"you can use to get help from fellow users and developers, or to keep up with"
-" current project events. You are welcome to subscribe to any of the lists. "
-"Please remember to contribute to the list by answering questions and sharing"
-" your experiences. We also provide a website to search the mailing list "
-"archives."
-msgstr "Hi ha diverses llistes de correu de QGIS, canals IRC, fòrums i grups d'usuari que pots utilitzar per obtenir ajuda de la comunitat d'usuaris i desenvolupadors o per mantenir-te al dia en els esdeveniments del projecte. Ets benvingut a subscriure't a qualsevol d'aquestes. Si us plau recorda contribuir a elles responent preguntes o compartint les teves experiències. També hi ha un lloc web on pots cercar al fitxer de les llistes de correu."
-
-#: ../../themes/qgis-theme/getinvolved_index.html:84
-#: ../../themes/qgis-theme/getinvolved_donations.html:86
+#: ../../themes/qgis-theme/getinvolved_donations.html:79
 msgid "List of QGIS Support Channels"
 msgstr "Llistat de Canals de Suport de QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:99
+#: ../../themes/qgis-theme/getinvolved_index.html:113
 msgid "Translate QGIS"
 msgstr "Tradueix QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:100
+#: ../../themes/qgis-theme/getinvolved_index.html:114
 msgid ""
 "The QGIS project provides a gentle GIS introduction, a User Guide, a Coding "
 "and Compilation Guide and a API Documentation in english and in some cases "
@@ -80,44 +60,44 @@ msgid ""
 " manual into another language, learn how to get started here:"
 msgstr "El projecte QGIS proporciona una primera introducció als SIG, una guia d'usuari, una guia de programació i compilació i una documentació d'API en anglès i, en alguns casos, també traduïda a altres idiomes. Si esteu interessat en participar en la tasca de la documentació, per exemple traduint el manual en anglès a un altre idioma, apreneu com començar aquí:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:102
-#: ../../themes/qgis-theme/docs_index.html:205
+#: ../../themes/qgis-theme/getinvolved_index.html:116
+#: ../../themes/qgis-theme/docs_index.html:206
 msgid "Translate QGIS into your Language"
 msgstr "Tradueix QGIS al teu idioma"
 
-#: ../../themes/qgis-theme/forusers_index.html:34
+#: ../../themes/qgis-theme/forusers_index.html:38
 msgid "QGIS Plugins"
 msgstr "Connectors QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:113
+#: ../../themes/qgis-theme/getinvolved_index.html:126
 msgid "A wide range of great plugins exist for QGIS via the "
 msgstr "Existeix una àmplia varietat de connectors per QGIS via"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:113
+#: ../../themes/qgis-theme/getinvolved_index.html:126
 msgid "QGIS Plugin web portal"
 msgstr "Portal web de connectors de QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:131
+#: ../../themes/qgis-theme/getinvolved_index.html:143
 msgid "Get Set Up for QGIS Core Development"
 msgstr "Posa't en marxa per al desenvolupament del nucli de QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:143
+#: ../../themes/qgis-theme/getinvolved_index.html:154
 msgid "There are two kinds of financial contributions, we accept:"
 msgstr "Hi ha dues classes de contribucions monetàries previstes:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:144
+#: ../../themes/qgis-theme/getinvolved_index.html:155
 msgid "sponsorships:"
 msgstr "patrocinis:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:145
+#: ../../themes/qgis-theme/getinvolved_index.html:156
 msgid "donations:"
 msgstr "donacions:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:161
-#: ../../themes/qgis-theme/about_index.html:147
-#: ../../themes/qgis-theme/docs_index.html:222
-#: ../../themes/qgis-theme/getinvolved_donations.html:114
-#: ../../themes/qgis-theme/forusers_index.html:193
+#: ../../themes/qgis-theme/getinvolved_index.html:171
+#: ../../themes/qgis-theme/about_index.html:148
+#: ../../themes/qgis-theme/docs_index.html:223
+#: ../../themes/qgis-theme/getinvolved_donations.html:106
+#: ../../themes/qgis-theme/forusers_index.html:177
 msgid "Back to Top"
 msgstr "Tornar a l'inici"
 
@@ -176,7 +156,7 @@ msgid "and select"
 msgstr "i selecciona"
 
 #: ../../themes/qgis-theme/forusers_download.html:114
-#: ../../themes/qgis-theme/index.html:8
+#: ../../themes/qgis-theme/index.html:9
 msgid "QGIS"
 msgstr "QGIS"
 
@@ -249,36 +229,32 @@ msgstr "que conté col·leccions de dades de diferents fonts i en diferents form
 msgid "Older releases of QGIS are available"
 msgstr "Versions anteriors de QGIS estan disponibles"
 
-#: ../../themes/qgis-theme/about_index.html:7
-msgid "Discover what makes QGIS the leading Open Source desktop GIS"
-msgstr "Descobriu qué fa de QGIS el GIS líder de Codi Obert per a escriptori"
-
-#: ../../themes/qgis-theme/about_index.html:23
+#: ../../themes/qgis-theme/about_index.html:20
 msgid "DISCOVER"
 msgstr "DESCOBRIU"
 
-#: ../../themes/qgis-theme/about_index.html:28
+#: ../../themes/qgis-theme/about_index.html:25
 msgid "QGIS Features"
 msgstr "Característiques de QGIS"
 
-#: ../../themes/qgis-theme/about_index.html:31
+#: ../../themes/qgis-theme/about_index.html:28
 msgid "QGIS Screenshots"
 msgstr "Captures de pantalla de QGIS"
 
-#: ../../themes/qgis-theme/about_index.html:34
+#: ../../themes/qgis-theme/about_index.html:31
 msgid "QGIS Case Studies"
 msgstr "Casos d'estudi de QGIS"
 
-#: ../../themes/qgis-theme/about_index.html:37
-#: ../../themes/qgis-theme/about_index.html:110
+#: ../../themes/qgis-theme/about_index.html:34
+#: ../../themes/qgis-theme/about_index.html:114
 msgid "Supporting Organizations"
 msgstr "Organitzacions de suport"
 
-#: ../../themes/qgis-theme/about_index.html:54
+#: ../../themes/qgis-theme/about_index.html:51
 msgid "About QGIS"
 msgstr "Sobre QGIS"
 
-#: ../../themes/qgis-theme/about_index.html:56
+#: ../../themes/qgis-theme/about_index.html:53
 msgid ""
 "QGIS is a user friendly Open Source Geographic Information System (GIS) "
 "licensed under the GNU General Public License. QGIS is an official project "
@@ -287,134 +263,92 @@ msgid ""
 "database formats and functionalities."
 msgstr "QGIS és un Sistema d'Informació Geogràfica (GIS) fàcil d'usar, de Codi Obert i llicenciat sota GNU - GPL. QGIS és un projecte oficial d'Open Source Geospatial Foundation (OSGeo). S'executa a Linux, Unix, Mac OSX, Windows i Android i suporta nombrosos formats i funcionalitats de dades vectorials, dades ràster i bases de dades."
 
-#: ../../themes/qgis-theme/about_index.html:58
-msgid "Download it here."
-msgstr "Baixeu-lo aquí."
-
-#: ../../themes/qgis-theme/about_index.html:68
+#: ../../themes/qgis-theme/about_index.html:74
 msgid "Features"
 msgstr "Característiques"
 
-#: ../../themes/qgis-theme/about_index.html:72
+#: ../../themes/qgis-theme/about_index.html:78
 msgid "Take the QGIS feature tour"
 msgstr "Feu un tour per les característiques de QGIS"
 
-#: ../../themes/qgis-theme/about_index.html:80
+#: ../../themes/qgis-theme/about_index.html:85
 msgid "Screenshots"
 msgstr "Captures de pantalla"
 
-#: ../../themes/qgis-theme/about_index.html:81
-msgid ""
-"Community-contributed screenshots of QGIS to help provide a quick overview:"
-msgstr "Les captures de pantalla de QGIS proporcionades per la comunitat ajuden a oferir una vista general resumida:"
-
-#: ../../themes/qgis-theme/about_index.html:83
-msgid "Check out QGIS screenshots"
-msgstr "Reviseu captures de pantalla QGIS"
-
-#: ../../themes/qgis-theme/about_index.html:99
+#: ../../themes/qgis-theme/about_index.html:103
 msgid "Case Studies"
 msgstr "Casos d'estudi"
 
-#: ../../themes/qgis-theme/about_index.html:100
-msgid ""
-"The QGIS community has collected a number of case studies of how users "
-"around the world are using QGIS for their GIS work."
-msgstr "La comunitat QGIS ha recollit un nombre de casos d'estudi de com utilitzen QGIS a la seva feina GIS usuaris de tot el món."
-
-#: ../../themes/qgis-theme/about_index.html:102
-msgid "Review QGIS case studies"
-msgstr "Consulta casos d'estudi de QGIS"
-
-#: ../../themes/qgis-theme/about_index.html:111
-msgid ""
-"QGIS is a volunteer driven project. We welcome contributions in the form of "
-"code contributions, bug fixes, bug reports, contributed documentation, "
-"advocacy and supporting other users on our mailing lists and "
-"gis.stackexchange.com. If you are interested in actively supporting the "
-"project, you can find more information under the development menu and on the"
-" QGIS Wiki. We also welcome financial contributions in the form of "
-"sponsoring and funding."
-msgstr "QGIS és un projecte impulsat per voluntaris. Agraïm totes les contribucions, ja sigui de programació, notificacions d'error, correccions d'error, documentació aportada o de promoció i suport a altres usuaris a les nostres llistes de correu i agis.stackexchange.com. Si esteu interessat en recolzar activament el projecte, podeu trobar més informació en el menú de desenvolupament i a la Wiki QGIS. També agraïm aportacions econòmiques com patrocinis i donacions."
-
-#: ../../themes/qgis-theme/about_index.html:114
+#: ../../themes/qgis-theme/about_index.html:117
 msgid "Organizations that support QGIS"
 msgstr "Organitzacions que suporten QGIS"
 
-#: ../../themes/qgis-theme/about_index.html:40
-#: ../../themes/qgis-theme/about_index.html:130
-#: ../../themes/qgis-theme/forusers_index.html:43
-#: ../../themes/qgis-theme/forusers_index.html:176
+#: ../../themes/qgis-theme/about_index.html:37
+#: ../../themes/qgis-theme/about_index.html:132
+#: ../../themes/qgis-theme/forusers_index.html:47
+#: ../../themes/qgis-theme/forusers_index.html:139
 msgid "Commercial Support"
 msgstr "Suport Comercial"
 
-#: ../../themes/qgis-theme/about_index.html:131
+#: ../../themes/qgis-theme/about_index.html:133
 msgid ""
 "Do you plan to use QGIS in your company or organization, but worry about "
 "whether there is commercial support available? Here is an alphabetical list,"
 " divided in categories, of support contractors."
 msgstr "Penseu utilitzar QGIS a la vostra empresa o organització, però us preocupa sobre si hi ha recolzament comercial disponible? Aquí teniu una llista alfabètica, dividida en categories, de contractistes de suport ."
 
-#: ../../themes/qgis-theme/about_index.html:134
+#: ../../themes/qgis-theme/about_index.html:136
 msgid "Learn about Commercial Support for QGIS"
 msgstr "Més informació sobre suport comercial per QGIS"
 
-#: ../../themes/qgis-theme/index.html:11
+#: ../../themes/qgis-theme/index.html:12
 msgid "A Free and Open Source Geographic Information System"
 msgstr "Un Sistema d'Informació Geogràfic Gratuit i de Codi Obert"
 
-#: ../../themes/qgis-theme/index.html:99
+#: ../../themes/qgis-theme/index.html:100
 msgid ""
 "Create, edit, visualise, analyse and publish geospatial\n"
 "            information on Windows, Mac, Linux, BSD (Android coming soon)"
 msgstr "Creeu, editeu, visualitzeu, analitzeu i publiqueu informació\ngeoreferenciada sobre Windows, Mac, Linux i BSD (aviat també Android)"
 
-#: ../../themes/qgis-theme/index.html:103
+#: ../../themes/qgis-theme/index.html:104
 msgid ""
 "For your desktop, server, in your web browser and as\n"
 "            developer libraries"
 msgstr "Pel vostre escriptori, el vostre servidor, en el vostre navegador web i com\ndesenvolupador de llibreries"
 
-#: ../../themes/qgis-theme/index.html:110
+#: ../../themes/qgis-theme/index.html:111
 msgid "Download Now"
 msgstr "Baixeu ara"
 
-#: ../../themes/qgis-theme/index.html:145
+#: ../../themes/qgis-theme/index.html:146
 msgid "Get Started"
 msgstr "Comenceu"
 
-#: ../../themes/qgis-theme/index.html:158
+#: ../../themes/qgis-theme/index.html:159
 #: ../../themes/qgis-theme/page.html:140
 msgid "Get Involved"
 msgstr "Involucreu-vos"
 
-#: ../../themes/qgis-theme/index.html:161
+#: ../../themes/qgis-theme/index.html:162
 msgid "Shape the future of QGIS with your contributions."
 msgstr "Orienteu el futur de QGIS amb les vostres contribucions."
 
-#: ../../themes/qgis-theme/index.html:169
+#: ../../themes/qgis-theme/index.html:170
 msgid "Learn More"
 msgstr "Aprendre més"
 
-#: ../../themes/qgis-theme/index.html:173
+#: ../../themes/qgis-theme/index.html:174
 msgid "Find training materials and reference documentation."
 msgstr "Trobeu materials d'aprenentatge i documentació de referència."
 
-#: ../../themes/qgis-theme/index.html:186
+#: ../../themes/qgis-theme/index.html:187
 msgid "Latest News"
 msgstr "Notícies recents"
 
-#: ../../themes/qgis-theme/forusers_index.html:150
-msgid "Planet QGIS"
-msgstr "Planeta QGIS"
-
-#: ../../themes/qgis-theme/index.html:245
+#: ../../themes/qgis-theme/index.html:246
 msgid "Sponsors"
 msgstr "Patrocinadors"
-
-#: ../../themes/qgis-theme/myglobaltoc.html:10
-msgid "Table Of Contents"
-msgstr "Taula de Continguts"
 
 #: ../../themes/qgis-theme/localtoc.html:3
 msgid "Page"
@@ -425,31 +359,30 @@ msgid "Discover QGIS"
 msgstr "Descobriu QGIS"
 
 #: ../../themes/qgis-theme/page.html:139
-#: ../../themes/qgis-theme/forusers_index.html:23
+#: ../../themes/qgis-theme/forusers_index.html:27
 msgid "For Users"
 msgstr "Per usuaris"
 
 #: ../../themes/qgis-theme/page.html:141
-#: ../../themes/qgis-theme/forusers_index.html:31
-#: ../../themes/qgis-theme/forusers_index.html:101
+#: ../../themes/qgis-theme/forusers_index.html:35
+#: ../../themes/qgis-theme/forusers_index.html:88
 msgid "Documentation"
 msgstr "Documentació"
 
-#: ../../themes/qgis-theme/forusers_index.html:28
+#: ../../themes/qgis-theme/forusers_index.html:32
 msgid "Download"
 msgstr "Baixa"
 
-#: ../../themes/qgis-theme/forusers_index.html:37
-#: ../../themes/qgis-theme/forusers_index.html:136
+#: ../../themes/qgis-theme/forusers_index.html:41
+#: ../../themes/qgis-theme/forusers_index.html:128
 msgid "Getting Help"
 msgstr "Obté ajuda"
 
-#: ../../themes/qgis-theme/forusers_index.html:55
-#: ../../themes/qgis-theme/forusers_index.html:59
+#: ../../themes/qgis-theme/forusers_index.html:60
 msgid "Download QGIS"
 msgstr "Baixeu QGIS"
 
-#: ../../themes/qgis-theme/forusers_index.html:114
+#: ../../themes/qgis-theme/forusers_index.html:160
 msgid "Get Plugins"
 msgstr "Obtén Connectors"
 
@@ -457,26 +390,7 @@ msgstr "Obtén Connectors"
 msgid "QGIS Documentation"
 msgstr "Documentació de QGIS"
 
-#: ../../themes/qgis-theme/forusers_index.html:139
-msgid "Where to get support for QGIS"
-msgstr "On trobar suport per QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:147
-msgid "QGIS Press"
-msgstr "Premsa QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:177
-msgid ""
-"Do you plan to use QGIS in your company or organization, but worry about "
-"whether there is commercial support available? Here is an alphabetical list "
-"of support contractors."
-msgstr "Penseu utilitzar QGIS a la vostra empresa o organització, però us preocupa sobre si hi ha recolzament comercial disponible? Aquí teniu una llista alfabètica de contractistes de suport ."
-
-#: ../../themes/qgis-theme/forusers_index.html:180
-msgid "Finding Commercial Support for QGIS"
-msgstr "Trobant suport comercial per QGIS"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:129
+#: ../../themes/qgis-theme/getinvolved_index.html:141
 msgid ""
 "QGIS Core consists on the one hand of the libraries enabling you to build "
 "custom tailored application by  providing a powerful API. On the other hand "
@@ -499,16 +413,6 @@ msgstr "Coreà"
 #: ../../themes/qgis-theme/forusers_download.html:197
 msgid "sample dataset is available"
 msgstr "es disposa d'un joc de dades de mostra"
-
-#: ../../themes/qgis-theme/forusers_index.html:120
-msgid "Explore the plugins that make QGIS so powerful."
-msgstr "Explora els connectors que fan QGIS força més potent."
-
-#: ../../themes/qgis-theme/forusers_index.html:137
-msgid ""
-"There are several QGIS mailing lists, IRC channels, forums and user groups "
-"you can use to get help from fellow users and developers."
-msgstr "Hi ha diferents llistes de correu de QGIS, canals IRC, fòrums i grups d'usuaris que podeu utilitzar per demanar suport d'altres usuaris i desenvolupadors."
 
 #: ../../themes/qgis-theme/languageswitch.html:10
 msgid "Finnish"
@@ -580,7 +484,7 @@ msgstr "Es poden trobar instruccions més específiques respecte la baixada de l
 msgid "Datasets"
 msgstr "Conjunts de dades"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:92
+#: ../../themes/qgis-theme/getinvolved_donations.html:85
 msgid "Donate via PayPal.com"
 msgstr "Feu una donació via PayPal.com"
 
@@ -588,35 +492,35 @@ msgstr "Feu una donació via PayPal.com"
 msgid "QGIS Donations"
 msgstr "Donacions a QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:41
+#: ../../themes/qgis-theme/getinvolved_donations.html:35
 msgid "Credit card and Paypal"
 msgstr "Tarja de crèdit i Paypal"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:38
-#: ../../themes/qgis-theme/getinvolved_donations.html:58
+#: ../../themes/qgis-theme/getinvolved_donations.html:32
+#: ../../themes/qgis-theme/getinvolved_donations.html:52
 msgid "Bank Transfer"
 msgstr "Transferència bancària"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:81
+#: ../../themes/qgis-theme/getinvolved_donations.html:74
 msgid "Paypal"
 msgstr "Paypal"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:82
+#: ../../themes/qgis-theme/getinvolved_donations.html:75
 msgid ""
 "You can use Paypal to donate using your own credit card. \n"
 "                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
 "                    or sign-up for one if you are paying by credit card."
 msgstr "Podeu utilitzar Paypal per fer una donació amb la vostra tarja de crèdit. \nEl pagament es gestionarà per PayPal sense necessitat que hi tingueu compte\no si us en registreu amb una, si heu de pagar amb tarja de crèdit."
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:85
+#: ../../themes/qgis-theme/getinvolved_donations.html:78
 msgid "You can also use your own Paypal account to donate."
 msgstr "També podeu utilitzar la vostra compta PayPal per fer una donació"
 
-#: ../../themes/qgis-theme/index.html:114
+#: ../../themes/qgis-theme/index.html:115
 msgid "Support QGIS"
 msgstr "Doneu suport a QGIS"
 
-#: ../../themes/qgis-theme/index.html:115
+#: ../../themes/qgis-theme/index.html:116
 msgid "Donate now!"
 msgstr "Feu una donació ara!"
 
@@ -633,10 +537,6 @@ msgid ""
 "target=\"_blank\">The Noun Project collection</a>"
 msgstr "Seleccioneu gràfics des <a href=\"http://thenounproject.com\" target=\"_blank\">la col·lecció del Projecte Noun </a>"
 
-#: ../../themes/qgis-theme/forusers_index.html:83
-msgid "Visual Changelog for 2.0"
-msgstr "Registre de canvis visual de la 2.0"
-
 #: ../../themes/qgis-theme/languageswitch.html:9
 msgid "Persian"
 msgstr "Persa"
@@ -652,20 +552,20 @@ msgid ""
 "select your choice of distro below:"
 msgstr "Estan disponibles per diferents GNU/Linux paquets binaris (rpm i deb) o repositoris de programari (per afegir al gestor d'instal·lacions). Seleccioneu aquí sota segons quina sigui la vostra distribució:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:111
+#: ../../themes/qgis-theme/getinvolved_index.html:124
 msgid "Want to write your own Python plugin? Go here: "
 msgstr "Voleu escriure el vostre propi connector Python? Aneu aquí:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:111
+#: ../../themes/qgis-theme/getinvolved_index.html:124
 msgid "Developing Python plugins"
 msgstr "Desenvolupant connectors Phyton"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:112
+#: ../../themes/qgis-theme/getinvolved_index.html:125
 msgid "Developing CPP plugins"
 msgstr "Desenvolupant connectors CPP"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:134
-#: ../../themes/qgis-theme/forusers_index.html:85
+#: ../../themes/qgis-theme/getinvolved_index.html:146
+#: ../../themes/qgis-theme/forusers_index.html:68
 msgid "QGIS roadmap"
 msgstr "Full de ruta QGIS"
 
@@ -673,31 +573,11 @@ msgstr "Full de ruta QGIS"
 msgid "For Advanced Users:"
 msgstr "Per a usuaris avançats:"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:59
+#: ../../themes/qgis-theme/getinvolved_donations.html:53
 msgid ""
 "The swiss QGIS-user group is taking care of our bank account. \n"
 "                    Use the details below to make a donation via international money transfer:"
 msgstr "El grup d'usuaris suís de QGIS està gestionant el nostre compte bancari.\nUtilitzeu els detalls de sota per fer una donació via transferència internacional:"
-
-#: ../../themes/qgis-theme/forusers_index.html:148
-msgid "Read what the QGIS Community is doing around the world."
-msgstr "Llegiu el que la comunitat QGIS està fent a tot el món."
-
-#: ../../themes/qgis-theme/forusers_index.html:152
-msgid "Get the QGIS 2.0 brochure:"
-msgstr "Aconseguiu el prospecte de QGIS 2.0:"
-
-#: ../../themes/qgis-theme/forusers_index.html:154
-msgid "QGIS 2.0 Brochure"
-msgstr "Prospecte de QGIS 2.0:"
-
-#: ../../themes/qgis-theme/forusers_index.html:156
-msgid "for a high-resolution print version get:"
-msgstr "per una versió d'impressió d'alta resolució obteniu:"
-
-#: ../../themes/qgis-theme/forusers_index.html:157
-msgid "Brochure print version (15MB)"
-msgstr "Versió imprimible del prospecte (15MB)"
 
 #: ../../themes/qgis-theme/languageswitch.html:12
 msgid "Indonesian"
@@ -707,109 +587,88 @@ msgstr "Indonesi"
 msgid "Khmer"
 msgstr "Khmer"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:39
-#: ../../themes/qgis-theme/getinvolved_index.html:70
+#: ../../themes/qgis-theme/getinvolved_index.html:42
+#: ../../themes/qgis-theme/getinvolved_index.html:74
 msgid "Report Bugs"
 msgstr "Informeu d'errors"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:71
-msgid ""
-"If you find an issue working with QGIS please report it so developers can "
-"check and fix it."
-msgstr "Si trobes qualsevol problema treballant amb QGIS reporta-ho i llavors els desenvolupadors ho comprovaran i ho resoldran."
-
-#: ../../themes/qgis-theme/getinvolved_index.html:73
-msgid "Report a bug"
-msgstr "Informeu d'un error"
 
 #: ../../themes/qgis-theme/docs_index.html:25
 msgid "DOCUMENTATION"
 msgstr "DOCUMENTACIÓ"
 
-#: ../../themes/qgis-theme/docs_index.html:89
-msgid "for QGIS testing"
-msgstr "pel QGIS de prova"
-
-#: ../../themes/qgis-theme/docs_index.html:175
+#: ../../themes/qgis-theme/docs_index.html:176
 msgid "QGIS User guide/Manual"
 msgstr "Guia/manual d'usuari QGIS"
 
-#: ../../themes/qgis-theme/docs_index.html:77
-#: ../../themes/qgis-theme/docs_index.html:130
-#: ../../themes/qgis-theme/docs_index.html:161
-#: ../../themes/qgis-theme/docs_index.html:177
+#: ../../themes/qgis-theme/docs_index.html:78
+#: ../../themes/qgis-theme/docs_index.html:131
+#: ../../themes/qgis-theme/docs_index.html:162
+#: ../../themes/qgis-theme/docs_index.html:178
 msgid "PyQGIS cookbook (for plugins and scripting)"
 msgstr "Receptari PyQGIS (de connectors i scripts)"
 
-#: ../../themes/qgis-theme/docs_index.html:72
-#: ../../themes/qgis-theme/docs_index.html:125
-#: ../../themes/qgis-theme/docs_index.html:156
-#: ../../themes/qgis-theme/docs_index.html:178
+#: ../../themes/qgis-theme/docs_index.html:73
+#: ../../themes/qgis-theme/docs_index.html:126
+#: ../../themes/qgis-theme/docs_index.html:157
+#: ../../themes/qgis-theme/docs_index.html:179
 msgid "Documentation Guidelines"
 msgstr "Guia de Documentació"
 
-#: ../../themes/qgis-theme/docs_index.html:67
-#: ../../themes/qgis-theme/docs_index.html:96
-#: ../../themes/qgis-theme/docs_index.html:120
-#: ../../themes/qgis-theme/docs_index.html:151
-#: ../../themes/qgis-theme/docs_index.html:179
-#: ../../themes/qgis-theme/docs_index.html:203
+#: ../../themes/qgis-theme/docs_index.html:68
+#: ../../themes/qgis-theme/docs_index.html:97
+#: ../../themes/qgis-theme/docs_index.html:121
+#: ../../themes/qgis-theme/docs_index.html:152
+#: ../../themes/qgis-theme/docs_index.html:180
+#: ../../themes/qgis-theme/docs_index.html:204
 msgid "A gentle introduction in GIS"
 msgstr "Una introducció bàsica al GIS"
 
-#: ../../themes/qgis-theme/docs_index.html:97
-#: ../../themes/qgis-theme/docs_index.html:204
+#: ../../themes/qgis-theme/docs_index.html:98
+#: ../../themes/qgis-theme/docs_index.html:205
 msgid "PDF versions of all above, eg for printing are available here: "
 msgstr "Les versions PDF de tot l'anterior, p.e. per impressió, estan disponibles aquí:"
 
-#: ../../themes/qgis-theme/docs_index.html:180
+#: ../../themes/qgis-theme/docs_index.html:181
 msgid "http://docs.qgis.org/2.0/pdf"
 msgstr "http://docs.qgis.org/2.0/pdf"
 
-#: ../../themes/qgis-theme/docs_index.html:174
+#: ../../themes/qgis-theme/docs_index.html:175
 msgid "http://docs.qgis.org/2.0"
 msgstr "http://docs.qgis.org/2.0"
 
-#: ../../themes/qgis-theme/docs_index.html:199
+#: ../../themes/qgis-theme/docs_index.html:200
 msgid "http://docs.qgis.org/1.8"
 msgstr "http://docs.qgis.org/1.8"
 
-#: ../../themes/qgis-theme/docs_index.html:91
-#: ../../themes/qgis-theme/docs_index.html:200
+#: ../../themes/qgis-theme/docs_index.html:92
+#: ../../themes/qgis-theme/docs_index.html:201
 msgid "User guide/Manual"
 msgstr "Guia/manual d'usuari"
 
-#: ../../themes/qgis-theme/docs_index.html:93
-#: ../../themes/qgis-theme/docs_index.html:201
+#: ../../themes/qgis-theme/docs_index.html:94
+#: ../../themes/qgis-theme/docs_index.html:202
 msgid "PyQGIS cookbook"
 msgstr "Receptari PyQGIS"
 
-#: ../../themes/qgis-theme/docs_index.html:94
-#: ../../themes/qgis-theme/docs_index.html:202
+#: ../../themes/qgis-theme/docs_index.html:95
+#: ../../themes/qgis-theme/docs_index.html:203
 msgid "Documentation Guidelines (how to write the docs)"
 msgstr "Guia de Documentació (com escriure documents)"
 
-#: ../../themes/qgis-theme/docs_index.html:204
+#: ../../themes/qgis-theme/docs_index.html:205
 msgid "http://docs.qgis.org/1.8/pdf"
 msgstr "http://docs.qgis.org/1.8/pdf"
 
-#: ../../themes/qgis-theme/docs_index.html:90
-msgid ""
-"Although not translated we also build the documentation for QGIS which is "
-"currently developed. We call this version 'QGIS testing' and documentation "
-"can be found here: "
-msgstr "Encara que no estigui traduïda també preparem la documentació del nou QGIS en desenvolupament. Anomenem a aquesta versió 'QGIS de prova' i la documentació es pot trobar aquí:"
-
-#: ../../themes/qgis-theme/docs_index.html:90
+#: ../../themes/qgis-theme/docs_index.html:91
 msgid "http://docs.qgis.org/testing"
 msgstr "http://docs.qgis.org/testing"
 
-#: ../../themes/qgis-theme/docs_index.html:97
+#: ../../themes/qgis-theme/docs_index.html:98
 msgid "http://docs.qgis.org/testing/pdf"
 msgstr "http://docs.qgis.org/testing/pdf"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:51
-#: ../../themes/qgis-theme/getinvolved_index.html:128
+#: ../../themes/qgis-theme/getinvolved_index.html:54
+#: ../../themes/qgis-theme/getinvolved_index.html:140
 msgid "Develop QGIS Core"
 msgstr "Desenvolupa el nucli de QGIS"
 
@@ -823,33 +682,33 @@ msgid ""
 "community."
 msgstr "QGIS és la millor eina SIG en el programari lliure i de codi obert (FOSS) comunitari."
 
-#: ../../themes/qgis-theme/about_index.html:57
+#: ../../themes/qgis-theme/about_index.html:54
 msgid "Our latest release is QGIS "
 msgstr "El nostre darrer llançament és QGIS"
 
-#: ../../themes/qgis-theme/docs_index.html:66
-#: ../../themes/qgis-theme/docs_index.html:92
-#: ../../themes/qgis-theme/docs_index.html:119
-#: ../../themes/qgis-theme/docs_index.html:150
-#: ../../themes/qgis-theme/docs_index.html:176
+#: ../../themes/qgis-theme/docs_index.html:67
+#: ../../themes/qgis-theme/docs_index.html:93
+#: ../../themes/qgis-theme/docs_index.html:120
+#: ../../themes/qgis-theme/docs_index.html:151
+#: ../../themes/qgis-theme/docs_index.html:177
 msgid "QGIS Training manual"
 msgstr "Manual d'aprenentatge QGIS"
 
-#: ../../themes/qgis-theme/docs_index.html:79
-#: ../../themes/qgis-theme/docs_index.html:98
-#: ../../themes/qgis-theme/docs_index.html:132
-#: ../../themes/qgis-theme/docs_index.html:163
-#: ../../themes/qgis-theme/docs_index.html:181
-#: ../../themes/qgis-theme/docs_index.html:206
+#: ../../themes/qgis-theme/docs_index.html:80
+#: ../../themes/qgis-theme/docs_index.html:99
+#: ../../themes/qgis-theme/docs_index.html:133
+#: ../../themes/qgis-theme/docs_index.html:164
+#: ../../themes/qgis-theme/docs_index.html:182
+#: ../../themes/qgis-theme/docs_index.html:207
 msgid "C++ Api documentation"
 msgstr "Documentació de l'API C++"
 
-#: ../../themes/qgis-theme/docs_index.html:78
-#: ../../themes/qgis-theme/docs_index.html:99
-#: ../../themes/qgis-theme/docs_index.html:131
-#: ../../themes/qgis-theme/docs_index.html:162
-#: ../../themes/qgis-theme/docs_index.html:182
-#: ../../themes/qgis-theme/docs_index.html:207
+#: ../../themes/qgis-theme/docs_index.html:79
+#: ../../themes/qgis-theme/docs_index.html:100
+#: ../../themes/qgis-theme/docs_index.html:132
+#: ../../themes/qgis-theme/docs_index.html:163
+#: ../../themes/qgis-theme/docs_index.html:183
+#: ../../themes/qgis-theme/docs_index.html:208
 msgid "Python (iface) Api documentation"
 msgstr "Documentació de l'API Python (interfície)"
 
@@ -883,63 +742,46 @@ msgstr "Resultats de la cerca"
 msgid "Your search did not match any results."
 msgstr "La vostra cerca no ha trobat cap resultat."
 
-#: ../../themes/qgis-theme/forusers_index.html:7
-msgid "Get started<br>using QGIS"
-msgstr "Inicia't<br>en l'ús de QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:8
-msgid ""
-"QGIS is a cross-platform Open Source Geographic Information system with an "
-"international support community of enthusiastic users, developers and "
-"supporters."
-msgstr "QGIS és un sistema de Informació Geogràfic de Codi Lliure multi-plataforma amb un suport internacional de la comunitat d'usuaris entusiastes, desenvolupadors i col·laboradors."
-
-#: ../../themes/qgis-theme/forusers_index.html:40
+#: ../../themes/qgis-theme/forusers_index.html:44
 msgid "In the Press"
 msgstr "A la premsa"
 
-#: ../../themes/qgis-theme/forusers_index.html:115
-msgid ""
-"QGIS plugin architecture allows many new features/functions to be easily "
-"added to the application. "
-msgstr "L'arquitectura del connector QGIS permet moltes característiques/funcions noves per afegir fàcilment a l'aplicació."
-
-#: ../../themes/qgis-theme/docs_index.html:65
-#: ../../themes/qgis-theme/docs_index.html:118
-#: ../../themes/qgis-theme/docs_index.html:149
-#: ../../themes/qgis-theme/docs_index.html:175
+#: ../../themes/qgis-theme/docs_index.html:66
+#: ../../themes/qgis-theme/docs_index.html:119
+#: ../../themes/qgis-theme/docs_index.html:150
+#: ../../themes/qgis-theme/docs_index.html:176
 msgid "Read the"
 msgstr "Llegiu el"
 
-#: ../../themes/qgis-theme/docs_index.html:176
+#: ../../themes/qgis-theme/docs_index.html:177
 msgid "Do the QGIS training:"
 msgstr "Feu l'aprenentatge QGIS:"
 
-#: ../../themes/qgis-theme/docs_index.html:77
-#: ../../themes/qgis-theme/docs_index.html:130
-#: ../../themes/qgis-theme/docs_index.html:161
-#: ../../themes/qgis-theme/docs_index.html:177
+#: ../../themes/qgis-theme/docs_index.html:78
+#: ../../themes/qgis-theme/docs_index.html:131
+#: ../../themes/qgis-theme/docs_index.html:162
+#: ../../themes/qgis-theme/docs_index.html:178
 msgid "Go Python, study the"
 msgstr "Go Python, estudia el"
 
-#: ../../themes/qgis-theme/docs_index.html:178
+#: ../../themes/qgis-theme/docs_index.html:179
 msgid "Learn how to write docs in"
 msgstr "Aprendre com escriure documentació a "
 
-#: ../../themes/qgis-theme/docs_index.html:179
+#: ../../themes/qgis-theme/docs_index.html:180
 msgid "Intro GIS in"
 msgstr "Introducció de GIS a"
 
-#: ../../themes/qgis-theme/docs_index.html:180
+#: ../../themes/qgis-theme/docs_index.html:181
 msgid "PDF versions of all above, eg for printing are available here:"
 msgstr "Les versions PDF de tot el de dalt, p.e. per a la impressió, són aquí:"
 
-#: ../../themes/qgis-theme/docs_index.html:199
+#: ../../themes/qgis-theme/docs_index.html:200
 msgid "We keep a copy of the documentation of QGIS 1.8 around here:"
 msgstr "Mantenim una còpia de la documentació de QGIS 1.8 penjant de aquí:"
 
 #: ../../themes/qgis-theme/docs_index.html:42
-#: ../../themes/qgis-theme/docs_index.html:173
+#: ../../themes/qgis-theme/docs_index.html:174
 msgid "QGIS 2.0"
 msgstr "QGIS 2.0"
 
@@ -957,11 +799,11 @@ msgid ""
 "and Lion (10.7)."
 msgstr "Paquet instal·lador MAC pels OS X  Mavericks (10.9), Mountain Lion (10.8) i Lion (10.7)."
 
-#: ../../themes/qgis-theme/index.html:194
+#: ../../themes/qgis-theme/index.html:195
 msgid "Upcoming User & Developer Meetings"
 msgstr "Properes trobades d'usuaris i de desenvolupadors"
 
-#: ../../themes/qgis-theme/index.html:225
+#: ../../themes/qgis-theme/index.html:226
 msgid "See More Maps and Screenshots"
 msgstr "Veieu més mapes i captures de pantalla"
 
@@ -978,12 +820,12 @@ msgid ""
 msgstr "Trobareu documentació de cada llançament QGIS a la respectiva web de documentació."
 
 #: ../../themes/qgis-theme/docs_index.html:39
-#: ../../themes/qgis-theme/docs_index.html:146
+#: ../../themes/qgis-theme/docs_index.html:147
 msgid "QGIS 2.2"
 msgstr "QGIS 2.2"
 
 #: ../../themes/qgis-theme/docs_index.html:45
-#: ../../themes/qgis-theme/docs_index.html:198
+#: ../../themes/qgis-theme/docs_index.html:199
 msgid "QGIS 1.8"
 msgstr "QGIS 1.8"
 
@@ -991,53 +833,33 @@ msgstr "QGIS 1.8"
 msgid "QGIS testing"
 msgstr "QGIS de prova"
 
-#: ../../themes/qgis-theme/docs_index.html:65
-#: ../../themes/qgis-theme/docs_index.html:118
-#: ../../themes/qgis-theme/docs_index.html:149
-msgid "QGIS User guide"
-msgstr "Guia d'usuari QGIS"
-
 #: ../../themes/qgis-theme/docs_index.html:66
 #: ../../themes/qgis-theme/docs_index.html:119
 #: ../../themes/qgis-theme/docs_index.html:150
-msgid "Follow the tutorials in the"
-msgstr "Seguiu els seminaris en el"
+msgid "QGIS User guide"
+msgstr "Guia d'usuari QGIS"
 
 #: ../../themes/qgis-theme/docs_index.html:67
 #: ../../themes/qgis-theme/docs_index.html:120
 #: ../../themes/qgis-theme/docs_index.html:151
+msgid "Follow the tutorials in the"
+msgstr "Seguiu els seminaris en el"
+
+#: ../../themes/qgis-theme/docs_index.html:68
+#: ../../themes/qgis-theme/docs_index.html:121
+#: ../../themes/qgis-theme/docs_index.html:152
 msgid "Learn GIS basics in"
 msgstr "Apreneu els fonaments GIS a"
 
-#: ../../themes/qgis-theme/docs_index.html:72
-#: ../../themes/qgis-theme/docs_index.html:125
-#: ../../themes/qgis-theme/docs_index.html:156
+#: ../../themes/qgis-theme/docs_index.html:73
+#: ../../themes/qgis-theme/docs_index.html:126
+#: ../../themes/qgis-theme/docs_index.html:157
 msgid "Learn how to write docs using the"
 msgstr "Apreneu com escriure documentació utilitzant la"
 
-#: ../../themes/qgis-theme/docs_index.html:174
+#: ../../themes/qgis-theme/docs_index.html:175
 msgid "We keep a copy of the documentation of QGIS 2.0 around here:"
 msgstr "Mantenim una còpia de la documentació de QGIS 2.0 penjant de aquí:"
-
-#: ../../themes/qgis-theme/forusers_index.html:57
-msgid "For Linux, Windows, OSX, BSD and (in beta) Android."
-msgstr "Per Linux, Windows, OSX, BSD i Android (en fase beta)."
-
-#: ../../themes/qgis-theme/forusers_index.html:62
-msgid ""
-"Check out our visual changelog, for what has changed since the previous "
-"release"
-msgstr "Repassa la nostra llista de canvis visual, amb els canvis des l'anterior alliberament "
-
-#: ../../themes/qgis-theme/forusers_index.html:80
-msgid "Visual Changelog for 2.2"
-msgstr "Registre de canvis visual de la 2.2"
-
-#: ../../themes/qgis-theme/forusers_index.html:117
-msgid ""
-"The integrated QGIS plugin manager lets you download and install from a vast"
-" collection of free plugins."
-msgstr "El gestor de connectors integrat a QGIS us permet que en baixeu i instal·leu des una àmplia col·lecció de connectors lliures."
 
 #: ../../themes/qgis-theme/languageswitch.html:20
 msgid "Polish"
@@ -1065,7 +887,7 @@ msgid ""
 "different platforms:"
 msgstr "Consulta la guia d'INSTAL·LACIÓ de com compilar QGIS el codi font a les diferents plataformes:"
 
-#: ../../themes/qgis-theme/about_index.html:69
+#: ../../themes/qgis-theme/about_index.html:75
 msgid ""
 "QGIS provides a continously growing number of capabilities provided by core "
 "functions and plugins. You can visualize, manage, edit, analyse data, and "
@@ -1073,25 +895,21 @@ msgid ""
 "list."
 msgstr "QGIS us proporciona un nombre creixent de capacitats que són proporcionades pel nucli de funcions i connectors addicionals. Podeu visualitzar, gestionar, editar, analitzar dades i composar mapes per imprimir. Feu-vos una primera impressió amb una llista mes detallada de característiques."
 
-#: ../../themes/qgis-theme/index.html:203
+#: ../../themes/qgis-theme/index.html:204
 msgid "Latest Blog Posts (planet.qgis.org)"
 msgstr "Les darreres entrades del blog (planet.qgis.org)"
 
-#: ../../themes/qgis-theme/docs_index.html:65
 #: ../../themes/qgis-theme/docs_index.html:66
-#: ../../themes/qgis-theme/docs_index.html:77
-#: ../../themes/qgis-theme/docs_index.html:118
+#: ../../themes/qgis-theme/docs_index.html:67
+#: ../../themes/qgis-theme/docs_index.html:78
 #: ../../themes/qgis-theme/docs_index.html:119
-#: ../../themes/qgis-theme/docs_index.html:130
-#: ../../themes/qgis-theme/docs_index.html:149
+#: ../../themes/qgis-theme/docs_index.html:120
+#: ../../themes/qgis-theme/docs_index.html:131
 #: ../../themes/qgis-theme/docs_index.html:150
-#: ../../themes/qgis-theme/docs_index.html:161
+#: ../../themes/qgis-theme/docs_index.html:151
+#: ../../themes/qgis-theme/docs_index.html:162
 msgid "or as PDF"
 msgstr "o en PDF"
-
-#: ../../themes/qgis-theme/forusers_index.html:77
-msgid "Visual Changelog for 2.4"
-msgstr "Registre de canvis visual de la 2.4"
 
 #: ../../themes/qgis-theme/languageswitch.html:89
 msgid "Thank you!"
@@ -1107,11 +925,11 @@ msgid ""
 "not, we hope that you enjoy using our labour of love and encourage you to "
 "share and spread your downloaded copy far and wide so that others may enjoy "
 "it too. Our very best regards!"
-msgstr "La vostra còpia de QGIS acabada de cuinar s'està baixant. QGIS és gratuït i sempre ho serà si es baixa des QGIS.org. Si penseu com col·laborar amb el projecte i la gent que fa aquest programari, considereu fer  <a href=\"http://qgis.org/en/site/getinvolved/donations.html\">una petita donació de suport  </a> a la nostra tasca. Mentre ho considereu us desitgem que fruïu utilitzant el nostre treball estimat i us animem a compartir i difondre la còpia que heu baixat arreu, perquè altres també puguin gaudir-ne. Les nostres millors salutacions!"
+msgstr "La vostra còpia de QGIS acabada de cuinar s&#39;està baixant. QGIS és gratuït i sempre ho serà si es baixa des QGIS.org. Si penseu com col·laborar amb el projecte i la gent que fa aquest programari, considereu fer  <a href=\"http://qgis.org/en/site/getinvolved/donations.html\">una petita donació de suport  </a> a la nostra tasca. Mentre ho considereu us desitgem que fruïu utilitzant el nostre treball estimat i us animem a compartir i difondre la còpia que heu baixat arreu, perquè altres també puguin gaudir-ne. Les nostres millors salutacions!"
 
 #: ../../themes/qgis-theme/languageswitch.html:92
 msgid "The QGIS Team"
-msgstr "L'equip QGIS"
+msgstr "L&#39;equip QGIS"
 
 #: ../../themes/qgis-theme/languageswitch.html:94
 msgid "Donate Now"
@@ -1121,68 +939,53 @@ msgstr "Feu una donació ara"
 msgid "Close this message"
 msgstr "Tanca aquest missatge"
 
-#: ../../themes/qgis-theme/index.html:149
-msgid "Download and install QGIS then follow the quickstart."
-msgstr "Baixeu i instal·leu QGIS i desprès seguiu la guia ràpida d'iniciació."
-
-#: ../../themes/qgis-theme/index.html:189
+#: ../../themes/qgis-theme/index.html:190
 msgid "Find out what is going on with the QGIS project and its community."
 msgstr "Seguiu el que està passant al projecte QGIS i a la seva comunitat."
 
-#: ../../themes/qgis-theme/getinvolved_index.html:54
-#: ../../themes/qgis-theme/getinvolved_index.html:142
+#: ../../themes/qgis-theme/getinvolved_index.html:57
+#: ../../themes/qgis-theme/getinvolved_index.html:153
 msgid "Sponsor & Donate"
 msgstr "Patrocina i dona"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:144
+#: ../../themes/qgis-theme/getinvolved_index.html:155
 msgid "more information and a list of our sponsors"
 msgstr "més informació i una llista dels nostres patrocinadors"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:145
+#: ../../themes/qgis-theme/getinvolved_index.html:156
 msgid "donations via a variety of channels"
 msgstr "donacions a travès de diferents canals"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:33
+#: ../../themes/qgis-theme/getinvolved_donations.html:27
 msgid "DONATE TO THE PROJECT"
 msgstr "FEU UNA DONACIÓ AL PROJECTE"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:8
-msgid ""
-"QGIS is developed by a team of dedicated volunteers and \n"
-"                organisations. QGIS strives to be a welcoming community for \n"
-"                people of all race, creed, gender and walks of life. \n"
-"                Please read our "
-msgstr "QGIS esta desenvolupat per un equip de voluntaris dedicats i \norganitzacions. QGIS s'esforça en ser una comunitat que acull \ngent de totes les races, creences, gènere i estils de vida. \nLlegiu el nostre"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:12
+#: ../../themes/qgis-theme/getinvolved_index.html:15
 msgid "diversity statement"
 msgstr "declaració de diversitat"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:13
+#: ../../themes/qgis-theme/getinvolved_index.html:16
+#: ../../themes/qgis-theme/getinvolved_index.html:90
 msgid "and"
 msgstr "i"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:14
+#: ../../themes/qgis-theme/getinvolved_index.html:17
 msgid "code of conduct"
 msgstr "codi de conducta"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:144
+#: ../../themes/qgis-theme/getinvolved_index.html:155
 msgid " annual commitments of funds to the project"
 msgstr "compromisos anuals de finançament del projecte"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:145
+#: ../../themes/qgis-theme/getinvolved_index.html:156
 msgid " one-time financial contributions to the project"
 msgstr "contribucions financeres puntuals al projecte"
 
-#: ../../themes/qgis-theme/index.html:131
+#: ../../themes/qgis-theme/index.html:132
 msgid "Learn about QGIS trademark"
 msgstr "Aprendre respecte la marca registrada QGIS"
 
-#: ../../themes/qgis-theme/forusers_index.html:106
-msgid "Training material index"
-msgstr "Índex de material d'aprenentatge"
-
-#: ../../themes/qgis-theme/index.html:34
+#: ../../themes/qgis-theme/index.html:35
 msgid "Get it ..."
 msgstr "Aconseguiu-lo ..."
 
@@ -1190,20 +993,12 @@ msgstr "Aconseguiu-lo ..."
 msgid "Time until feature freeze"
 msgstr "Temps pel bloqueig de millores"
 
-#: ../../themes/qgis-theme/index.html:4
-msgid "Time until next release"
-msgstr "Temps pel proper llançament"
-
-#: ../../themes/qgis-theme/forusers_index.html:74
-msgid "Visual Changelog for 2.6"
-msgstr "Registre de canvis visual de la 2.6"
-
-#: ../../themes/qgis-theme/index.html:111
+#: ../../themes/qgis-theme/index.html:112
 msgid "Version"
 msgstr "Versió"
 
 #: ../../themes/qgis-theme/docs_index.html:36
-#: ../../themes/qgis-theme/docs_index.html:115
+#: ../../themes/qgis-theme/docs_index.html:116
 msgid "QGIS 2.6"
 msgstr "QGIS 2.6"
 
@@ -1211,15 +1006,15 @@ msgstr "QGIS 2.6"
 msgid "Danish"
 msgstr "Danès"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:112
+#: ../../themes/qgis-theme/getinvolved_index.html:125
 msgid "Want to develop a C++ plugin? Go here: "
 msgstr "Voleu desenvolupar un connector C++? Aneu aquí:"
 
-#: ../../themes/qgis-theme/index.html:71
+#: ../../themes/qgis-theme/index.html:72
 msgid "Please test ..."
 msgstr "Prova ..."
 
-#: ../../themes/qgis-theme/index.html:69
+#: ../../themes/qgis-theme/index.html:70
 msgid "Help test the new version!"
 msgstr "Ajudeu provant la nova versió!"
 
@@ -1253,11 +1048,11 @@ msgstr "Versió d'instal·lació independent QGIS %s (64 bit)"
 msgid "separate installation of dependency framework (GDAL Complete)"
 msgstr "instal·lació independent de les dependències principals (GDAL completa)"
 
-#: ../../themes/qgis-theme/index.html:36
+#: ../../themes/qgis-theme/index.html:37
 msgid "or read what is new in the:"
 msgstr "o llegiu el que hi ha de nou al:"
 
-#: ../../themes/qgis-theme/index.html:36
+#: ../../themes/qgis-theme/index.html:37
 msgid "Visual Changelog"
 msgstr "Registre de canvis visual"
 
@@ -1273,16 +1068,6 @@ msgstr "arregleu-me"
 msgid "Textual error, missing text or you know better:"
 msgstr "Si veieu un error o mancança en el text o el podeu millorar:"
 
-#: ../../themes/qgis-theme/forusers_index.html:103
-msgid "Check our documentation"
-msgstr "Reviseu la nostra documentació"
-
-#: ../../themes/qgis-theme/forusers_index.html:105
-msgid ""
-"We provide a Training manual in the documentation. Additionally, there is an"
-" index of external material available:"
-msgstr "Nosaltres proporcionem un manual d'aprenentatge a la documentació. A més, teniu un índex de material extern disponible:"
-
 #: ../../themes/qgis-theme/forusers_download.html:150
 msgid "Debian/Ubuntu"
 msgstr "Debian/Ubuntu"
@@ -1291,20 +1076,20 @@ msgstr "Debian/Ubuntu"
 msgid "An experimental release can be found in the "
 msgstr "Es pot trobar una versió experimental en el"
 
-#: ../../themes/qgis-theme/index.html:81
+#: ../../themes/qgis-theme/index.html:82
 msgid "Want to support us?"
 msgstr "Voleu ajudar-nos?"
 
-#: ../../themes/qgis-theme/index.html:83
+#: ../../themes/qgis-theme/index.html:84
 msgid "Find out where you can find the QGIS shops to buy "
 msgstr "Esbrineu on es troben les botigues de QGIS per comprar"
 
-#: ../../themes/qgis-theme/index.html:84
+#: ../../themes/qgis-theme/index.html:85
 msgid "QGIS goodies"
 msgstr "Productes derivats QGIS"
 
 #: ../../themes/qgis-theme/docs_index.html:30
-#: ../../themes/qgis-theme/docs_index.html:62
+#: ../../themes/qgis-theme/docs_index.html:63
 msgid "QGIS 2.8"
 msgstr "QGIS 2.8"
 
@@ -1352,71 +1137,488 @@ msgstr "aquí (darrer llançament)"
 msgid "here (long term release)"
 msgstr "aquí (llançament de llarg termini)"
 
-#: ../../themes/qgis-theme/index.html:32
-msgid "QGIS 2.12 Released"
-msgstr "QGIS 2.12 alliberat"
-
-#: ../../themes/qgis-theme/index.html:35
-msgid "download QGIS 2.12 Lyon"
-msgstr "baixeu QGIS 2.12 Lyon"
-
-#: ../../themes/qgis-theme/index.html:46
+#: ../../themes/qgis-theme/index.html:47
 msgid "FOSS4G 2016, Bonn Germany"
 msgstr "FOSS4G 2016 a Bonn, Alemanya  "
 
-#: ../../themes/qgis-theme/index.html:48
+#: ../../themes/qgis-theme/index.html:49
 msgid "Come along to Bonn to find out more about QGIS ..."
 msgstr "Veniu a Bonn per descobrir més respecte QGIS ..."
 
-#: ../../themes/qgis-theme/index.html:48
+#: ../../themes/qgis-theme/index.html:49
 msgid "FOSS4G 2016 website"
 msgstr "Seu web del FOSS4G 2016"
 
-#: ../../themes/qgis-theme/index.html:59
+#: ../../themes/qgis-theme/index.html:60
 msgid "Tell us how yo use QGIS, what you want and what you need..."
 msgstr "Expliqueu-nos com utilitzeu QGIS, el que voleu o el que us cal..."
 
-#: ../../themes/qgis-theme/index.html:60
+#: ../../themes/qgis-theme/index.html:61
 msgid "http://blog.qgis.org/2015/10/15/take-the-qgis-user-survey/"
 msgstr "http://blog.qgis.org/2015/10/15/take-the-qgis-user-survey/"
 
-#: ../../themes/qgis-theme/index.html:72
+#: ../../themes/qgis-theme/index.html:73
 msgid ""
 "get the release candidate for your Operating System and report any issue you"
 " find, so it gets fixed for the 2.12 final release!"
 msgstr ""
 
-#: ../../themes/qgis-theme/index.html:278
+#: ../../themes/qgis-theme/index.html:279
 msgid "in feature freeze since"
 msgstr "en bloqueig de millores des"
 
-#: ../../themes/qgis-theme/index.html:281
+#: ../../themes/qgis-theme/index.html:282
 msgid "in packaging since"
 msgstr "dins l'empaquetat des de"
-
-#: ../../themes/qgis-theme/forusers_index.html:65
-msgid "Visual Changelog for 2.12"
-msgstr "Registre de canvis visual de la 2.12"
-
-#: ../../themes/qgis-theme/forusers_index.html:68
-msgid "Visual Changelog for 2.10"
-msgstr "Registre visual de canvis de la 2.10"
-
-#: ../../themes/qgis-theme/forusers_index.html:71
-msgid "Visual Changelog for 2.8 (LTR, Long Term Release)"
-msgstr "Registre visual de canvis de la 2.8 (LTR, llançament de llarg termini)"
-
-#: ../../themes/qgis-theme/forusers_index.html:85
-msgid "Check out our Roadmap for future versions: "
-msgstr "Reviseu el nostre full de ruta per versions futures:"
-
-#: ../../themes/qgis-theme/forusers_index.html:160
-msgid "Finding Commercial Books on QGIS"
-msgstr "Trobant llibres comercials de QGIS"
 
 #: ../../themes/qgis-theme/languageswitch.html:14
 msgid "Hungarian"
 msgstr "Hongarès"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:7
+msgid "Get Involved in the QGIS Community"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:8
+msgid ""
+"QGIS is developed by a team of dedicated volunteers and \n"
+"                organisations. We strive to be a welcoming community for\n"
+"                people of all race, creed, gender and walks of life."
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:14
+msgid "For more information, please read our "
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:75
+msgid "If you find an issue working with QGIS, please "
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:77
+msgid "report it"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:79
+msgid "so developers can check and fix it.  "
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:86
+msgid "There are several "
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:88
+msgid "QGIS mailing lists"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:89
+msgid "IRC chats"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:90
+msgid "forums"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:91
+msgid "user groups"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:93
+msgid ""
+"you can use to get help from fellow users and developers, or to keep up with current project events.\n"
+"                    You are welcome to subscribe to any of the lists. Please remember to contribute to the list by\n"
+"                    answering questions and sharing your experiences. We also provide a "
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:96
+msgid "website to search the mailing list archives"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:97
+msgid "For the full list see"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:99
+msgid "our community support channels page"
+msgstr ""
+
+#: ../../themes/qgis-theme/about_index.html:7
+msgid "QGIS - The Leading Open Source Desktop GIS"
+msgstr ""
+
+#: ../../themes/qgis-theme/about_index.html:55
+msgid "Get started"
+msgstr ""
+
+#: ../../themes/qgis-theme/about_index.html:62
+msgid "The Community"
+msgstr ""
+
+#: ../../themes/qgis-theme/about_index.html:64
+msgid ""
+"QGIS is a volunteer driven project. We welcome contributions in the form of "
+"code contributions, bug fixes, bug reports, contributed documentation, "
+"advocacy and supporting other users on our mailing lists and "
+"gis.stackexchange.com. If you are interested in actively supporting the "
+"project, you can find more information under the development menu and on the"
+" QGIS Wiki."
+msgstr ""
+
+#: ../../themes/qgis-theme/about_index.html:86
+msgid "To see QGIS in action, check out the community-based"
+msgstr ""
+
+#: ../../themes/qgis-theme/about_index.html:88
+msgid "QGIS screenshots"
+msgstr ""
+
+#: ../../themes/qgis-theme/about_index.html:104
+msgid ""
+"We also collect case studies of how people all over the world use QGIS for "
+"their GIS work."
+msgstr ""
+
+#: ../../themes/qgis-theme/about_index.html:106
+msgid "See our QGIS case studies"
+msgstr ""
+
+#: ../../themes/qgis-theme/about_index.html:115
+msgid ""
+"We welcome financial contributions in the form of sponsoring and funding."
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:4
+msgid "Time until packaging"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:5
+msgid "Time until next pointrelease"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:33
+msgid "QGIS 2.14 Released"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:36
+msgid "download QGIS 2.14 Essen"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:112
+msgid "LTR Version"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:150
+msgid "Start using QGIS for your GIS tasks."
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:90
+msgid "QGIS testing, will be 2.14 LTR Docs"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:91
+msgid ""
+"We are still updating (not translating yet) the documentation for QGIS LTR "
+"2.14. We call this version 'QGIS testing' and can be found here: "
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_donations.html:9
+msgid "QGIS is developed by a team of dedicated volunteers and organisations."
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:7
+msgid "Get Started Using QGIS"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:9
+msgid "Step 1: Download QGIS"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:11
+msgid "Step 2: Check our documentation"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:13
+msgid "Step 3: Connect with the QGIS community"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:62
+msgid "for your operating system."
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:65
+msgid "Get the installer"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:68
+msgid "Check out our roadmap for future versions: "
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:72
+msgid "See the latest features in the visual changelog"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:91
+msgid "Our main documentation is the"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:92
+msgid "QGIS user guide"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:94
+msgid "We also provide step by step tutorials in the"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:95
+msgid "Training manual"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:97
+msgid "External parties also provide"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:98
+msgid "QGIS tutorials"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:104
+msgid "QGIS Publications"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:106
+msgid "Read what the QGIS community is doing around the world"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:108
+msgid "in our blogs"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:110
+msgid "For more in-depth reading, get some"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:112
+msgid "books on QGIS"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:129
+msgid "You can get in touch with fellow users and developers via"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:131
+msgid "our community support channels"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:140
+msgid ""
+"Do you plan to use QGIS in your company or organization, but worry about whether there is\n"
+"                    commercial support available? Here is an alphabetical"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:144
+msgid "list of support contractors"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:161
+msgid ""
+"QGIS plugins allow you to add many new features and functions. Get them from"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:164
+msgid "the plugin repository"
+msgstr ""
+
+#~ msgid "Get involved with the QGIS community"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS is developed by a team of dedicated\n"
+#~ "                    volunteers and organisations."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "There are several QGIS mailing lists, IRC channels, forums and user groups "
+#~ "you can use to get help from fellow users and developers, or to keep up with"
+#~ " current project events. You are welcome to subscribe to any of the lists. "
+#~ "Please remember to contribute to the list by answering questions and sharing"
+#~ " your experiences. We also provide a website to search the mailing list "
+#~ "archives."
+#~ msgstr ""
+
+#~ msgid "Discover what makes QGIS the leading Open Source desktop GIS"
+#~ msgstr ""
+
+#~ msgid "Download it here."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Community-contributed screenshots of QGIS to help provide a quick overview:"
+#~ msgstr ""
+
+#~ msgid "Check out QGIS screenshots"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The QGIS community has collected a number of case studies of how users "
+#~ "around the world are using QGIS for their GIS work."
+#~ msgstr ""
+
+#~ msgid "Review QGIS case studies"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS is a volunteer driven project. We welcome contributions in the form of "
+#~ "code contributions, bug fixes, bug reports, contributed documentation, "
+#~ "advocacy and supporting other users on our mailing lists and "
+#~ "gis.stackexchange.com. If you are interested in actively supporting the "
+#~ "project, you can find more information under the development menu and on the"
+#~ " QGIS Wiki. We also welcome financial contributions in the form of "
+#~ "sponsoring and funding."
+#~ msgstr ""
+
+#~ msgid "Planet QGIS"
+#~ msgstr ""
+
+#~ msgid "Table Of Contents"
+#~ msgstr ""
+
+#~ msgid "Where to get support for QGIS"
+#~ msgstr ""
+
+#~ msgid "QGIS Press"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Do you plan to use QGIS in your company or organization, but worry about "
+#~ "whether there is commercial support available? Here is an alphabetical list "
+#~ "of support contractors."
+#~ msgstr ""
+
+#~ msgid "Finding Commercial Support for QGIS"
+#~ msgstr ""
+
+#~ msgid "Explore the plugins that make QGIS so powerful."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "There are several QGIS mailing lists, IRC channels, forums and user groups "
+#~ "you can use to get help from fellow users and developers."
+#~ msgstr ""
+
+#~ msgid "Visual Changelog for 2.0"
+#~ msgstr ""
+
+#~ msgid "Read what the QGIS Community is doing around the world."
+#~ msgstr ""
+
+#~ msgid "Get the QGIS 2.0 brochure:"
+#~ msgstr ""
+
+#~ msgid "QGIS 2.0 Brochure"
+#~ msgstr ""
+
+#~ msgid "for a high-resolution print version get:"
+#~ msgstr ""
+
+#~ msgid "Brochure print version (15MB)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you find an issue working with QGIS please report it so developers can "
+#~ "check and fix it."
+#~ msgstr ""
+
+#~ msgid "Report a bug"
+#~ msgstr ""
+
+#~ msgid "for QGIS testing"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Although not translated we also build the documentation for QGIS which is "
+#~ "currently developed. We call this version 'QGIS testing' and documentation "
+#~ "can be found here: "
+#~ msgstr ""
+
+#~ msgid "Get started<br>using QGIS"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS is a cross-platform Open Source Geographic Information system with an "
+#~ "international support community of enthusiastic users, developers and "
+#~ "supporters."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS plugin architecture allows many new features/functions to be easily "
+#~ "added to the application. "
+#~ msgstr ""
+
+#~ msgid "For Linux, Windows, OSX, BSD and (in beta) Android."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Check out our visual changelog, for what has changed since the previous "
+#~ "release"
+#~ msgstr ""
+
+#~ msgid "Visual Changelog for 2.2"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The integrated QGIS plugin manager lets you download and install from a vast"
+#~ " collection of free plugins."
+#~ msgstr ""
+
+#~ msgid "Visual Changelog for 2.4"
+#~ msgstr ""
+
+#~ msgid "Download and install QGIS then follow the quickstart."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS is developed by a team of dedicated volunteers and \n"
+#~ "                organisations. QGIS strives to be a welcoming community for \n"
+#~ "                people of all race, creed, gender and walks of life. \n"
+#~ "                Please read our "
+#~ msgstr ""
+
+#~ msgid "Training material index"
+#~ msgstr ""
+
+#~ msgid "Time until next release"
+#~ msgstr ""
+
+#~ msgid "Visual Changelog for 2.6"
+#~ msgstr ""
+
+#~ msgid "Check our documentation"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We provide a Training manual in the documentation. Additionally, there is an"
+#~ " index of external material available:"
+#~ msgstr ""
+
+#~ msgid "QGIS 2.12 Released"
+#~ msgstr ""
+
+#~ msgid "download QGIS 2.12 Lyon"
+#~ msgstr ""
+
+#~ msgid "Visual Changelog for 2.12"
+#~ msgstr ""
+
+#~ msgid "Visual Changelog for 2.10"
+#~ msgstr ""
+
+#~ msgid "Visual Changelog for 2.8 (LTR, Long Term Release)"
+#~ msgstr ""
+
+#~ msgid "Check out our Roadmap for future versions: "
+#~ msgstr ""
+
+#~ msgid "Finding Commercial Books on QGIS"
+#~ msgstr ""
 
 #~ msgid "For New Users:"
 #~ msgstr ""

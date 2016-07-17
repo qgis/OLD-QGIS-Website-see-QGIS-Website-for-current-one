@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Zoltan Siki <siki@agt.bme.hu>, 2015
+# Zoltan Siki <siki@agt.bme.hu>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-28 17:39+0100\n"
-"PO-Revision-Date: 2015-08-30 16:30+0000\n"
+"PO-Revision-Date: 2016-06-27 21:36+0000\n"
 "Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
@@ -16,21 +16,39 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../source/site/getinvolved/governance/finance/index.rst:4
-msgid "QGIS Finance"
-msgstr "QGIS Pénzügyek"
+msgid "Finance"
+msgstr "Pénzügy"
 
-#: ../../source/site/getinvolved/governance/finance/index.rst:7
-msgid "2014"
-msgstr "2014"
+#: ../../source/site/getinvolved/governance/finance/index.rst:6
+msgid ""
+"Please check the following reports, and see how your donations and "
+"sponsorships are important for the progress of the project."
+msgstr "Kérjük nézze meg a következő jelentéseket, és figyelje meg mennyire fontosak az adományai és a szponzorság a projekt előrehaladásában."
+
+#: ../../source/site/getinvolved/governance/finance/index.rst:8
+msgid ""
+":download:`Financial report 2015 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/PublicQGISfinancialreport2015.pdf>`"
+msgstr ":download:`Financial report 2015 (pdf) <../../../../static/site/getinvolved/governance/finance/PublicQGISfinancialreport2015.pdf>`"
 
 #: ../../source/site/getinvolved/governance/finance/index.rst:9
 msgid ""
-"Please check the following report, and see how your donations and "
-"sponsorships are important for the progress of the project."
-msgstr "Kérjük nézze meg a következő jelentést és vegye észre, hogy az adománya és szponzorálása milyen fontos a projekt haladása szempontjából."
-
-#: ../../source/site/getinvolved/governance/finance/index.rst:11
-msgid ""
-"see :download:`Financial report 2014 (pdf) "
+":download:`Financial report 2014 (pdf) "
 "<../../../../static/site/getinvolved/governance/finance/PublicQGISfinancialreport2014.pdf>`"
-msgstr "lásd :download:`Pénzügyi jelentés 2014 (pdf) <../../../../static/site/getinvolved/governance/finance/PublicQGISfinancialreport2014.pdf>`"
+msgstr ":download:`Financial report 2014 (pdf) <../../../../static/site/getinvolved/governance/finance/PublicQGISfinancialreport2014.pdf>`"
+
+#~ msgid "QGIS Finance"
+#~ msgstr ""
+
+#~ msgid "2014"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Please check the following report, and see how your donations and "
+#~ "sponsorships are important for the progress of the project."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "see :download:`Financial report 2014 (pdf) "
+#~ "<../../../../static/site/getinvolved/governance/finance/PublicQGISfinancialreport2014.pdf>`"
+#~ msgstr ""

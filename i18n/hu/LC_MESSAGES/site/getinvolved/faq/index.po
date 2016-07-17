@@ -1,14 +1,14 @@
 # 
 # Translators:
 # Csaba Sandor <sandor.csaba@gmail.com>, 2015
-# Zoltan Siki <siki@agt.bme.hu>, 2015
+# Zoltan Siki <siki@agt.bme.hu>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-01-17 19:04+0000\n"
-"Last-Translator: Csaba Sandor <sandor.csaba@gmail.com>\n"
+"PO-Revision-Date: 2016-06-27 21:29+0000\n"
+"Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,29 +16,29 @@ msgstr ""
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/getinvolved/faq/index.rst:3
+#: ../../source/site/getinvolved/faq/index.rst:4
 msgid "FAQ"
 msgstr "GyIK"
 
-#: ../../source/site/getinvolved/faq/index.rst:5
+#: ../../source/site/getinvolved/faq/index.rst:6
 msgid "Here we collect answers to question which come up very often."
 msgstr "Itt gyűjtjük össze a válaszokat a gyakran felmerülő kérdésekre."
 
-#: ../../source/site/getinvolved/faq/index.rst:7
+#: ../../source/site/getinvolved/faq/index.rst:8
 msgid ""
 "We will start of with this one page, maybe restructure it into sections, or "
 "even more pages if needed"
 msgstr "Ezzel az egy lappal kezdünk, lehetséges, hogy szakaszokra bontjuk, vagy  további lapokat hozunk létre, ha szükséges."
 
-#: ../../source/site/getinvolved/faq/index.rst:12
+#: ../../source/site/getinvolved/faq/index.rst:13
 msgid "User"
 msgstr "Felhasználó"
 
-#: ../../source/site/getinvolved/faq/index.rst:34
+#: ../../source/site/getinvolved/faq/index.rst:47
 msgid "Why is QGIS 2.0 named 'Dufour'?"
 msgstr "Miért nevezik a QGIS 2.0-t 'Dufour'-nak?"
 
-#: ../../source/site/getinvolved/faq/index.rst:36
+#: ../../source/site/getinvolved/faq/index.rst:49
 msgid ""
 "After a succesfull developer meeting in Zurich (Switzerland), we decided "
 "that the next release should be related to it. `General Guillaume-Henri "
@@ -51,90 +51,148 @@ msgid ""
 " in Switzerland."
 msgstr "A sikeres zürichi (Svájc) fejlesztői megbeszélés után, úgy döntöttünk, hogy a következő kiadás ehhez kapcsolódjon. `General Guillaume-Henri Dufour <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_ egy híres és befolyásos svájci térképész volt. Továbbá a Dufour csúcs `Svájc legmagasabb csúcsa <http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.hiks-dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_ ."
 
-#: ../../source/site/getinvolved/faq/index.rst:22
+#: ../../source/site/getinvolved/faq/index.rst:26
 msgid "preferably a descriptive title for your email"
 msgstr "célszerű egy, az email címéhez tartozó leírás"
 
-#: ../../source/site/getinvolved/faq/index.rst:23
+#: ../../source/site/getinvolved/faq/index.rst:33
 msgid "which Operating System and version"
 msgstr "melyik operációs rendszer és verzió"
 
-#: ../../source/site/getinvolved/faq/index.rst:24
+#: ../../source/site/getinvolved/faq/index.rst:27
 msgid "which QGIS version you used at that moment (exact)"
 msgstr "melyik QGIS verziót használta akkor (pontosan)"
 
-#: ../../source/site/getinvolved/faq/index.rst:25
+#: ../../source/site/getinvolved/faq/index.rst:34
 msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
 msgstr "hogyan telepítette (OSGeo4W? önálló telepítő? saját szerkesztés?)"
 
-#: ../../source/site/getinvolved/faq/index.rst:26
-msgid ""
-"at what time did it break (reinstall, new install, system update, project??)"
-msgstr "mikor történt a hiba (újratelepítés, első telepítés, rendszerfrissítés, projekt???)"
-
-#: ../../source/site/getinvolved/faq/index.rst:29
-msgid ""
-"Without this info, it is very hard to answer for anybody. Or, taking just "
-"too much time because the answer will be a question to you etc etc."
-msgstr "Ezen információ nélkül nagyon nehéz bárkinek is válaszolni, vagy túl sok ideig fog tartani, mert a válasz egy kérdés lesz stb. stb."
-
-#: ../../source/site/getinvolved/faq/index.rst:54
+#: ../../source/site/getinvolved/faq/index.rst:69
 msgid "Development"
 msgstr "Fejlesztés"
 
-#: ../../source/site/getinvolved/faq/index.rst:57
-msgid "Can I compile QGIS myself on Windows?"
-msgstr "Lefordíthatom magam a QGIS Windows-on?"
-
-#: ../../source/site/getinvolved/faq/index.rst:63
-msgid "Can I compile QGIS myself on MacOS?"
-msgstr "Lefordíthatom magam a QGIS MacOS-en?"
-
-#: ../../source/site/getinvolved/faq/index.rst:69
-msgid "Can I compile QGIS myself on Linux?"
-msgstr "Lefordíthatom magam a QGIS Linux-on?"
-
-#: ../../source/site/getinvolved/faq/index.rst:17
+#: ../../source/site/getinvolved/faq/index.rst:18
 msgid "How to ask a QGIS question?"
 msgstr "Hogyan tegyek fel egy QGIS kérdést?"
 
-#: ../../source/site/getinvolved/faq/index.rst:19
-msgid ""
-"If you are going to ask QGIS related question via the mailinglists, please "
-"provide the following information with it:"
-msgstr "Ha egy QGIS-sel kapcsolatos kérdést tenne fel a levelező listán, akkor kérjük adja meg a következő információkat:"
-
-#: ../../source/site/getinvolved/faq/index.rst:27
-msgid ""
-"what exactly is the error (if possible: screendump, stacktrace, copy of "
-"errortext)"
-msgstr "pontosan mi a hiba (ha lehetséges: képernyőkép, verem tartalom, hiba szöveg)"
-
-#: ../../source/site/getinvolved/faq/index.rst:44
+#: ../../source/site/getinvolved/faq/index.rst:57
 msgid "Can I open ECW files with QGIS?"
 msgstr "Megnyithatok ECW fájlt a QGIS-sel"
 
-#: ../../source/site/getinvolved/faq/index.rst:46
+#: ../../source/site/getinvolved/faq/index.rst:59
 msgid ""
 "Yes you can... BUT depending on your Operating System, it is more or less "
 "difficult."
 msgstr "Igen... DE az operációs rendszere függvényében ez nagyobb vagy kisebb nehézséggel jár."
 
-#: ../../source/site/getinvolved/faq/index.rst:48
-msgid "If you use the OSGeo4w 64 bit installer, it is included."
-msgstr "Az OSGeo4W 64 bites telepítő tartalmazza."
-
-#: ../../source/site/getinvolved/faq/index.rst:50
+#: ../../source/site/getinvolved/faq/index.rst:66
 msgid ""
 "For other instructions, eg look here: http://www.faunalia.com/content"
 "/adding-ecw-support-quantum-gis"
 msgstr "További utasításokért látogasson ide: http://www.faunalia.com/content/adding-ecw-support-quantum-gis"
 
-#: ../../source/site/getinvolved/faq/index.rst:59
-#: ../../source/site/getinvolved/faq/index.rst:65
-#: ../../source/site/getinvolved/faq/index.rst:71
-msgid "Yes, please read: INSTALL_"
-msgstr "Igen, olvassa el: INSTALL_"
+#: ../../source/site/getinvolved/faq/index.rst:20
+msgid ""
+"If you are going to ask QGIS related question via the mailing lists, please "
+"provide enough information to help others easily understand what your "
+"problem is. Without a clear and precise question, it is very hard to answer "
+"for anybody or takes just too much time because the answer will be a "
+"question to you etc etc. You may provide information such as:"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:28
+msgid "what are you expecting to get"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:29
+msgid "if applicable, what have you tried and the result you got"
+msgstr "ha alkalmazható, mit próbált meg és mi lett az eredmény"
+
+#: ../../source/site/getinvolved/faq/index.rst:30
+msgid "if your question is about something broken, you may also provide:"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:32
+msgid ""
+"what exactly is the error (if possible: screendump, stacktrace, copy of "
+"error text)"
+msgstr "pontosan mi a hiba (ha lehetséges képernyőkép, stacktrace,  a hiba szövege)"
+
+#: ../../source/site/getinvolved/faq/index.rst:35
+msgid ""
+"at what time did it break (reinstall, new install, system update, project "
+"changes)"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:37
+msgid ""
+"Keep in mind that the more precise is your question, the quicker and more "
+"accurate can be the answer."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:41
+msgid ""
+"In case of a broken function, you may give a look at `QGIS issue tracker "
+"<http://hub.qgis.org/projects/quantum-gis/issues>`_ before mailing to the "
+"list. More information at :ref:`QGIS-bugreporting`."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:61
+msgid ""
+"If you are under Windows and are using the OSGeo4w installer, it is "
+"included."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:63
+msgid ""
+"If you are using OS X, you can find the ECW plugin and install instructions "
+"at http://www.kyngchaos.com/software/frameworks"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:72
+msgid "Can I compile QGIS myself?"
+msgstr "Le tudom fordítani magam a QGIS-t?"
+
+#: ../../source/site/getinvolved/faq/index.rst:74
+msgid ""
+"Yes, compiling QGIS from source is possible whatever OS you use (Windows, OS"
+" X, Linux). Please read `Building QGIS from source "
+"<http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
+msgstr "Igen, a QGIS forrásból fordítása lehetséges akármilyen op. rendszert (Windows, OS X, Linux) használ. Kérjük olvassa el a  `Building QGIS from source <http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_ oldalt"
+
+#~ msgid ""
+#~ "at what time did it break (reinstall, new install, system update, project??)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Without this info, it is very hard to answer for anybody. Or, taking just "
+#~ "too much time because the answer will be a question to you etc etc."
+#~ msgstr ""
+
+#~ msgid "Can I compile QGIS myself on Windows?"
+#~ msgstr ""
+
+#~ msgid "Can I compile QGIS myself on MacOS?"
+#~ msgstr ""
+
+#~ msgid "Can I compile QGIS myself on Linux?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are going to ask QGIS related question via the mailinglists, please "
+#~ "provide the following information with it:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "what exactly is the error (if possible: screendump, stacktrace, copy of "
+#~ "errortext)"
+#~ msgstr ""
+
+#~ msgid "If you use the OSGeo4w 64 bit installer, it is included."
+#~ msgstr ""
+
+#~ msgid "Yes, please read: INSTALL_"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Yes, please read: https://github.com/qgis/Quantum-GIS/blob/master/INSTALL"

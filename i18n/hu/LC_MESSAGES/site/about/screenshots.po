@@ -2,14 +2,14 @@
 # Translators:
 # Csaba Sandor <sandor.csaba@gmail.com>, 2015
 # Falu <info@falu.me>, 2015
-# Zoltan Siki <siki@agt.bme.hu>, 2015
+# Zoltan Siki <siki@agt.bme.hu>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-09-08 09:00+0000\n"
-"Last-Translator: Csaba Sandor <sandor.csaba@gmail.com>\n"
+"PO-Revision-Date: 2016-06-26 15:00+0000\n"
+"Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,58 +17,69 @@ msgstr ""
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/about/screenshots.rst:26
-msgid "QGIS Screenshots"
-msgstr "QGIS képernyőképek"
-
-#: ../../source/site/about/screenshots.rst:11
-msgid "Below are some maps created with QGIS."
-msgstr "Lentebb QGIS-sel létrehozott térképeket talál."
-
-#: ../../source/site/about/screenshots.rst:13
-msgid ""
-"These maps come from the `QGIS maps - Flickr Group "
-"<http://www.flickr.com/groups/qgis/pool/>`_."
-msgstr "Ezek a térképek a `QGIS maps - Flickr csoportból l <http://www.flickr.com/groups/qgis/pool/>`_ származnak."
-
-#: ../../source/site/about/screenshots.rst:15
+#: ../../source/site/about/screenshots.rst:14
 msgid ""
 "Map makers show off their creativity and the map making capabilities of "
 "QGIS:"
 msgstr "A térkép készítők itt megmutathatják a kreativitásukat és a QGIS térképkészítő képességeit:"
 
-#: ../../source/site/about/screenshots.rst:17
+#: ../../source/site/about/screenshots.rst:16
 msgid "Click on an image to see author and more information about the maps."
 msgstr "További információkért a szerzőről és a térképről kattintson a képekre."
 
-#: ../../source/site/about/screenshots.rst:28
+#: ../../source/site/about/screenshots.rst:27
 msgid ""
 "Below are some screenshots from QGIS itself and a selection of Maps which "
 "are created with QGIS."
 msgstr "Alább látható néhány képernyőkép a QGIS-ről és néhány kiválasztott QGIS-sel készített térkép."
 
-#: ../../source/site/about/screenshots.rst:31
+#: ../../source/site/about/screenshots.rst:30
 msgid ""
 "These screenshots come from the `QGIS screenshots - Flickr Group "
 "<http://www.flickr.com/groups/qgis-screenshots/>`_. Click on an image to "
 "view more information."
 msgstr "Ezek a képernyőképek a `QGIS screenshots - Flickr csoportból l <http://www.flickr.com/groups/qgis-screenshots/>`_ származnak. További információkért kattintson egy képre."
 
-#: ../../source/site/about/screenshots.rst:35
+#: ../../source/site/about/screenshots.rst:34
 msgid ":raw-html:`<p id=\"qgisflickrscreenshotsatom\">&nbsp;</p>`"
 msgstr ":raw-html:`<p id=\"qgisflickrscreenshotsatom\">&nbsp;</p>`"
 
-#: ../../source/site/about/screenshots.rst:9
-msgid "QGIS created Maps"
-msgstr "QGIS-sel készült térképek"
-
-#: ../../source/site/about/screenshots.rst:20
+#: ../../source/site/about/screenshots.rst:19
 msgid ":raw-html:`<p id=\"qgisflickrmapsatom\">&nbsp;</p>`"
 msgstr ":raw-html:`<p id=\"qgisflickrmapsatom\">&nbsp;</p>`"
 
-#: ../../source/site/about/screenshots.rst:23
+#: ../../source/site/about/screenshots.rst:22
 msgid ":raw-html:`<p style=\"clear:both\">&nbsp;</p>`"
 msgstr ":raw-html:`<p style=\"clear:both\">&nbsp;</p>`"
+
+#: ../../source/site/about/screenshots.rst:9
+msgid "Map Examples"
+msgstr "Térkép példák"
+
+#: ../../source/site/about/screenshots.rst:11
+msgid ""
+"Here you can find a selection of maps created with QGIS. These maps come "
+"from the `QGIS maps - Flickr Group "
+"<http://www.flickr.com/groups/qgis/pool/>`_."
+msgstr "Itt QGIS-sel készült térképekből egy válogatást találhat . Ezek a térképek a `QGIS maps - Flickr csoportból <http://www.flickr.com/groups/qgis/pool/>`_ származnak."
+
+#: ../../source/site/about/screenshots.rst:25
+msgid "Screenshots"
+msgstr "Képernyőképek"
+
+#~ msgid "QGIS Screenshots"
+#~ msgstr ""
+
+#~ msgid "Below are some maps created with QGIS."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "These maps come from the `QGIS maps - Flickr Group "
+#~ "<http://www.flickr.com/groups/qgis/pool/>`_."
+#~ msgstr ""
+
+#~ msgid "QGIS created Maps"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Below are some screenshots from QGIS itself, and some of Maps which are "

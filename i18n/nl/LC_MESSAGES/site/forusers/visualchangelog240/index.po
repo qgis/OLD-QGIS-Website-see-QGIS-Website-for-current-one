@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2016-03-07 17:15+0000\n"
+"PO-Revision-Date: 2016-06-21 12:24+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -14,10 +14,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: ../../source/site/forusers/visualchangelog240/index.rst:1
-msgid "|image0|"
-msgstr "|image0|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:6
 msgid ""
@@ -503,6 +499,9 @@ msgstr "In de vorige versie was het mogelijk om stijlen op te slaan met lagen in
 #: ../../source/site/forusers/visualchangelog240/index.rst:4
 msgid "Changelog for QGIS 2.4"
 msgstr "Log met wijzigingen voor QGIS 2.4"
+
+#~ msgid "|image0|"
+#~ msgstr ""
 
 #~ msgid "Changelog for QGIS 2.4.0"
 #~ msgstr ""
