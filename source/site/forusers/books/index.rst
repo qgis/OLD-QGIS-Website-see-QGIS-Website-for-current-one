@@ -20,15 +20,14 @@ English
 
 Note: Books order is newest first.
 
-.. Richard: commented out untill released
-.. Discover QGIS
-.. *************
+Discover QGIS
+*************
 
-.. The Workbook for the Award Winning GeoAcademy Curriculum
+The Workbook for the GeoAcademy Curriculum
 
-.. * https://locatepress.com/dqw
-.. * Author(s): Kurt Menke
-.. * Date: to be published!
+* https://locatepress.com/dqw
+* Author(s): Kurt Menke
+* Date: E-Book preview available 2016, not yet in press
 
 
 QGIS 2 Cookbook
@@ -122,5 +121,15 @@ Years of experience in a single book─the official Quantum GIS Training Manual 
 * http://locatepress.com/qtm
 * Author(s): Rüdiger Thiede, Tim Sutton, Horst Düster, and Marcelle Sutton 
 * Date: May 2013
+
+
+Greek
+=====
+
+Basic Workbook is an introductory text for learning QGIS (2.8) in Greek.
+
+* https://www.amazon.com/Introduction-Spatial-Analysis-Learning-QGIS-ebook/dp/B00VGJBN6E/ref=sr_1_1?ie=UTF8&qid=1467868493&sr=8-1&keywords=anthony+antoniou#navbar
+* Author(s): Anthony Antoniou
+* Date: March 2015
 
 
