@@ -75,9 +75,9 @@ releasenote = u"\u200B"
 ltrversion = '2.14'
 ltrrelease = '2.14.4'
 ltrcodename = 'Essen'
-ltrbinary = '1'
+ltrbinary = '2'
 
-devversion = '2.999'
+devversion = '2.99'
 nextversion = '3.0'
 nextfreezedate = None
 nextreleasedate = None
