@@ -16,7 +16,7 @@ This release is not designated as a Long Term Release (LTR). Users wishing to ha
 
 **New Features in QGIS 2.16 'Nødebo'**
 
-If you are upgrading from QGIS 2.14 you will find a great many new features in this release. We encourage you to peruse the changelogs for `previous releases <https://www.qgis.org/en/site/forusers/visualchangelogs.html>`__ releases as this QGIS 2.16 release includes all features published in those releases too.
+If you are upgrading from QGIS 2.14 you will find a great many new features in this release. We encourage you to peruse the changelogs for `previous releases <https://www.qgis.org/en/site/forusers/visualchangelogs.html>`__ as this QGIS 2.16 release includes all features published in those releases too.
 
 Whenever new features are added to software they introduce the possibility of new bugs - if you encounter any problems with this release, please file a ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`__.
 
