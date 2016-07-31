@@ -213,5 +213,5 @@ You may need to read :ref:`git_access`.
   A ``Fix me`` link is provided at the bottom of any page of the web site
   to help you directly improve this page and submit pull request.
   
-  This option is also available in the footer of the Testing documentation.
+  This option is also available in the footer of the documentation.
   
