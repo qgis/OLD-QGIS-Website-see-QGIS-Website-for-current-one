@@ -151,9 +151,7 @@ Supported distribution versions:
 |               |             |              | on ubuntugis          |
 |               |             |              | dependencies?         |
 +===============+=============+==============+=======================+
-| Debian        | 7.x         | wheezy [1]_  |                       |
-|               +-------------+--------------+                       |
-|               | 8.x         | jessie       |                       |
+| Debian        | 8.x         | jessie       |                       |
 |               +-------------+--------------+                       |
 |               | testing     | stretch      |                       |
 |               +-------------+--------------+                       |
@@ -161,14 +159,12 @@ Supported distribution versions:
 +---------------+-------------+--------------+-----------------------+
 | Ubuntu        | 16.04 (LTS) | xenial       | yes                   |
 |               +-------------+--------------+-----------------------+
-|               | 15.10       | wily         |                       |
-|               +-------------+--------------+-----------------------+
 |               | 14.04 (LTS) | trusty       | yes                   |
 |               +-------------+--------------+-----------------------+
 |               | 12.04 (LTS) | precise [1]_ | yes [2]_              |
 +---------------+-------------+--------------+-----------------------+
 
-.. [1] only up to QGIS 2.8.x (due to dependency on GEOS 3.4 not available in wheezy/precise)
+.. [1] only up to QGIS 2.8.x (due to dependency on GEOS 3.4 not available in precise)
 .. [2] only up to QGIS 2.14.x (due to dependency to GDAL >=1.11 not available in precise ubuntugis)
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
