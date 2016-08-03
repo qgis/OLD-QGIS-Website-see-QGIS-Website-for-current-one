@@ -57,7 +57,7 @@ Steps are:
   |                   |                              +--------------+-------------------------------------------------------+
   |                   |                              | qgis-ltr-dev | Nightly build of the upcoming point long term release |
   +-------------------+------------------------------+--------------+-------------------------------------------------------+
-  | Development       | |devversion| Master          | qgis-dev     | Nightly build of the development version              |
+  | Development       | 2.17 master_2                | qgis-dev     | Nightly build of the development version              |
   +-------------------+------------------------------+--------------+-------------------------------------------------------+
 
 .. _QGIS-windows-weekly:
@@ -138,7 +138,7 @@ Lines of packages:
 |                       |                                | release with           |                                           |
 |                       |                                | ubuntugis dependencies |                                           |
 +-----------------------+--------------------------------+------------------------+-------------------------------------------+
-| Development Version   | |devversion|.x Master          | Nightly build          | http://qgis.org/debian-nightly            |
+| Development Version   | 2.17.x master_2                | Nightly build          | http://qgis.org/debian-nightly            |
 |                       |                                +------------------------+-------------------------------------------+
 |                       |                                | Nightly build with     | http://qgis.org/ubuntugis-nightly         |
 |                       |                                | ubuntugis dependencies |                                           |
