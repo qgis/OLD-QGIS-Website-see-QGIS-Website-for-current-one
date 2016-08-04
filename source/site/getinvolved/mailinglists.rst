@@ -50,8 +50,8 @@ this list is a good starting point to ask your questions.
 http://lists.osgeo.org/mailman/listinfo/qgis-tr
 
 
-QGIS Project Steering Commity (PSC) list
-----------------------------------------
+QGIS Project Steering Committee (PSC) list
+------------------------------------------
 
 This list is used to discuss Steering Committee issues related to
 overall management and direction of QGIS.
