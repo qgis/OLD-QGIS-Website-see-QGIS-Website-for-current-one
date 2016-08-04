@@ -27,7 +27,7 @@ The Workbook for the GeoAcademy Curriculum
 
 * https://locatepress.com/dqw
 * Author(s): Kurt Menke
-* Date: E-Book preview available 2016, not yet in press
+* Date: July 2016
 
 
 QGIS 2 Cookbook
