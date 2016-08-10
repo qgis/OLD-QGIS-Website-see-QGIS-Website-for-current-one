@@ -812,9 +812,9 @@ When this option is enabled
 -  When a layer is edited, the changes are sent to the database
    immediately, allowing triggers and constraints to be applied
    immediately
--  When one layer in a layer group is committed, all layers are
+-  When one layer in a transaction group is committed, all layers are
    committed (database transaction)
--  When one layer in a layer group is rolled back, all layers are rolled
+-  When one layer in a transaction group is rolled back, all layers are rolled
    back (database transaction)
 
 This feature is currently **Experimental**. If you find any problems,
