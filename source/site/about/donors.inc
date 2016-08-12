@@ -2349,3 +2349,24 @@
    * - 吉原 佑
      - 江 秋蓉
      - 田中 創平
+   * - Agathe Reingruber
+     - Radoslaw Panczak
+     - Hans Werner Hubert Bonny
+   * - Gilbert et Rosmarie Eggimann
+     - Mario Chrisci
+     - Joëlle Zimmerli
+   * - Susanne Weisser
+     - IDEPLANG S.L.
+     - Edoardo Saba
+   * - Ausderau Larissa
+     - Transferwise LTD
+     - Jean Claude Carre
+   * - Nela Jantol
+     - Armando Vico
+     - R.C.J.G. Haselager
+   * - Daniel Trüssel
+     - M. McLachlan Hugh
+     - Diego Papadia
+   * - Daniel Trüssel
+     - M. McLachlan Hugh
+     - Diego Papadia
