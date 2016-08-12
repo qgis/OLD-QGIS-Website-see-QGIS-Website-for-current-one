@@ -161,12 +161,10 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |whg|
 
        `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2015-08.2016)
-   * - |bronze| |npa|
-
-       `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
-     - |bronze| |qpolska|
+   * - |bronze| |qpolska|
 
        `QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
+     - 
 
 .. |qgis-pt| image:: /static/site/about/images/qgis-pt.png
    :width: 90 px
@@ -340,7 +338,9 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
   * - |bronze| |geosynergy|
 
        `Geosynergy <www.geosynergy.com.au>`_, Australia (05.2012-05.2013+06.2015-06-2016)
-    - 
+    - |bronze| |npa|
+
+       `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
   * - |bronze| |argus|
 
        `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
