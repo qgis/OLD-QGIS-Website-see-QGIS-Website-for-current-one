@@ -337,22 +337,22 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
   * - |bronze| |geosynergy|
 
-       `Geosynergy <www.geosynergy.com.au>`_, Australia (05.2012-05.2013+06.2015-06-2016)
+      `Geosynergy <www.geosynergy.com.au>`_, Australia (05.2012-05.2013+06.2015-06-2016)
     - |bronze| |npa|
 
-       `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
+      `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
   * - |bronze| |argus|
 
-       `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
+      `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
     - |bronze| |adlares|
 
-       `ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
+      `ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
   * - |bronze| |avioportolano|
 
-       `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
+      `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
     - |bronze| |canal|
 
-       `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
+      `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
   * - |bronze| |openrunner|
 
       `www.openrunner.com <http://www.openrunner.com/>`_, France (05.2014-05.2015)
