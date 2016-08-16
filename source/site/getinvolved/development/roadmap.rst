@@ -71,7 +71,7 @@ LTR branch, if there are backports.
 After the release of 2.16 the work on the new major release 3.0 will begin.
 This will involve a switch from our fixed release schedule to an open release.
 
-3.0 will involve many wide-ranging changes, so it not clear in advance how many
+3.0 will involve many wide-ranging changes, so it not clear in advance how much
 time it will take.  We think it should take between 8-12 month to get to
 3.0.  After that we'll return to the old method.
 
