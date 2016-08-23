@@ -71,6 +71,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |whg|
+
+       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)
+     -
    * - |bronze| |terrelogiche|
 
        `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2017)
@@ -158,13 +162,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |lutra|
 
        `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2016)
-     - |bronze| |whg|
-
-       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2015-08.2016)
-   * - |bronze| |qpolska|
+     - |bronze| |qpolska|
 
        `QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
-     - 
 
 .. |qgis-pt| image:: /static/site/about/images/qgis-pt.png
    :width: 90 px
