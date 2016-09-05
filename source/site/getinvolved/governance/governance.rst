@@ -97,25 +97,23 @@ code added into the git code repository.
 * Core library: Martin Dobias <wonder.sk[at]gmail.com>
 * Gui library: Martin Dobias <wonder.sk[at]gmail.com>
 * App (dialogs): Tim Sutton <tim[at]linfiniti.com>
-* Print composer: Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>
+* Print composer: Nyall Dawson <nyall.dawson[at]gmail.com>
 * PyQGIS: Martin Dobias <wonder.sk[at]gmail.com>
-* Python console: Salvatore Larosa <lrssvtml[at]gmail.com>
+* WMS server: Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>
+* WFS/WCS server: René-Luc D'Hont <rldhont[at]gmail.com>
 * Python plugins for QGIS Server: Alessandro Pasotti <elpaso[at]itopen.it>
+* Access control for QGIS Server: Stephane Brunner <stephane.brunner[at]camptocamp.com>
 * Plugin installer: Borys Jurgiel <info[at]borysjurgiel.pl>
 * OGR, Postgres-, Oracle- provider: Jürgen E. Fischer <jef[at]norbit.de>
 * WMS provider: Jürgen E. Fischer <jef[at]norbit.de>
-* WFS provider: Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>
-* WMS server: Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>
-* WFS server: René-Luc D'Hont <rldhont[at]gmail.com>
-* GDAL tools: Giuseppe Sucameli <brush.tyler[at]gmail.com>
-* Offline editing plugin: Mathias Walker <mwa[at]sourcepole.ch>
+* WFS provider: Even Rouault <even.rouault[at]spatialys.com>
 * QgisWebClient: Andreas Neumann <a.neumann[at]carto.net>
 * MSsql provider: Nathan Woodrow <madmanwoo[at]gmail.com>
 * Labelling engine: Larry Shaffer <larrys[at]dakotacarto.com>
+* Authentication system: Larry Shaffer <larrys[at]dakotacarto.com>
 * Diagrams: Matthias Kuhn <matthias.kuhn[at]gmx.ch>
 * Attribute table: Matthias Kuhn <matthias.kuhn[at]gmx.ch>
-* Processing Toolbox (SEXTANTE): Victor Olaya <volayaf[at]gmail.com>
-* Topology plugin: Vinayan Parameswaran <vinayan123[at]gmail.com>
+* Processing Toolbox: Victor Olaya <volayaf[at]gmail.com>
 
 .. _community-resources:
 
