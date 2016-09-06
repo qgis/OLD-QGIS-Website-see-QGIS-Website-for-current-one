@@ -59,4 +59,4 @@ Author
 
    Robert Ward
 
-Robert Ward is an Urban Designer and GIS Analyst at Parsons Brinkerhoff working at the intersection of high technology and high art.  He has taught at Tongji University and Autodesk University.  He is interested in GIS-based Hydrologic & Hydrualic modelling, Landscape Ecology modelling, Ecosystem Valuation, Transportation Modelling and GIS-Based Design Visualization. 
+Robert Ward is an Urban Designer and GIS Analyst at Parsons Brinkerhoff working at the intersection of high technology and high art.  He has taught at Tongji University and Autodesk University.  He is interested in GIS-based Hydrologic & Hydraulic modelling, Landscape Ecology modelling, Ecosystem Valuation, Transportation Modelling and GIS-Based Design Visualization. 
