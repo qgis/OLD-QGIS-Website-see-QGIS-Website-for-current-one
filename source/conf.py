@@ -79,8 +79,8 @@ ltrbinary = '3'
 
 devversion = '2.99'
 nextversion = '2.18'
-nextfreezedate = date(2016,9,16)
-nextreleasedate = date(2016,10,21)
+nextfreezedate = datetime(2016,9,16, 12, 0, 0).strftime('%Y-%m-%d %H:%M:%S UTC')
+nextreleasedate = datetime(2016,10,21, 12, 0, 0).strftime('%Y-%m-%d %H:%M:%S UTC')
 
 nextpointreleasedate = datetime(2016, 9, 23, 12, 0, 0).strftime('%Y-%m-%d %H:%M:%S UTC')
 
