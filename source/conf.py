@@ -77,7 +77,7 @@ ltrrelease = '2.14.6'
 ltrcodename = 'Essen'
 ltrbinary = '3'
 
-devversion = '2.99'
+devversion = '2.17'
 nextversion = '2.18'
 nextfreezedate = datetime(2016,9,16, 12, 0, 0).strftime('%Y-%m-%d %H:%M:%S UTC')
 nextreleasedate = datetime(2016,10,21, 12, 0, 0).strftime('%Y-%m-%d %H:%M:%S UTC')
