@@ -111,45 +111,51 @@ Ubuntu itself. If you want those you also need to include ubuntugis ppa in your
 
 Lines of packages:
 
-+-----------------------+--------------------------------+------------------------+-------------------------------------------+
-| Release               | Version                        | Description            | Repository                                |
-+=======================+================================+========================+===========================================+
-| Latest Release        | |version|.x |codename|         | Release for            | http://qgis.org/debian                    |
-| |releasenote|         |                                | **Debian and Ubuntu**  |                                           |
-|                       |                                +------------------------+-------------------------------------------+
-|                       |                                | Release with           | http://qgis.org/ubuntugis                 |
-|                       |                                | ubuntugis dependencies |                                           |
-|                       |                                +------------------------+-------------------------------------------+
-|                       |                                | Nightly build of       | http://qgis.org/debian-nightly-release    |
-|                       |                                | upcoming point release |                                           |
-|                       |                                | for Debian and Ubuntu  |                                           |
-|                       |                                +------------------------+-------------------------------------------+
-|                       |                                | Nightly build of       | http://qgis.org/ubuntugis-nightly-release |
-|                       |                                | upcoming point         |                                           |
-|                       |                                | release with           |                                           |
-|                       |                                | ubuntugis dependencies |                                           |
-+-----------------------+--------------------------------+------------------------+-------------------------------------------+
-| Long Term Release     | |ltrversion|.x |ltrcodename|   | Release for            | http://qgis.org/debian-ltr                |
-|                       |                                | **Debian and Ubuntu**  |                                           |
-|                       |                                +------------------------+-------------------------------------------+
-|                       |                                | Release with           | http://qgis.org/ubuntugis-ltr             |
-|                       |                                | ubuntugis dependencies |                                           |
-|                       |                                +------------------------+-------------------------------------------+
-|                       |                                | Nightly build of       | http://qgis.org/debian-nightly-ltr        |
-|                       |                                | upcoming point release |                                           |
-|                       |                                | for Debian and Ubuntu  |                                           |
-|                       |                                +------------------------+-------------------------------------------+
-|                       |                                | Nightly build of       | http://qgis.org/ubuntugis-nightly-ltr     |
-|                       |                                | upcoming point         |                                           |
-|                       |                                | release with           |                                           |
-|                       |                                | ubuntugis dependencies |                                           |
-+-----------------------+--------------------------------+------------------------+-------------------------------------------+
-| Development Version   | 2.17.x master_2                | Nightly build for      | http://qgis.org/debian-nightly            |
-|                       |                                | **Debian and Ubuntu**  |                                           |
-|                       |                                +------------------------+-------------------------------------------+
-|                       |                                | Nightly build with     | http://qgis.org/ubuntugis-nightly         |
-|                       |                                | ubuntugis dependencies |                                           |
-+-----------------------+--------------------------------+------------------------+-------------------------------------------+
++-----------------------+--------------------------------+------------------------+------------------------------------------------+
+| Release               | Version                        | Description            | Repository                                     |
++=======================+================================+========================+================================================+
+| Latest Release        | |version|.x |codename|         | Release for            | http://qgis.org/debian                         |
+| |releasenote|         |                                | **Debian and Ubuntu**  |                                                |
+|                       |                                +------------------------+------------------------------------------------+
+|                       |                                | Release with           | http://qgis.org/ubuntugis                      |
+|                       |                                | ubuntugis dependencies |                                                |
+|                       |                                +------------------------+------------------------------------------------+
+|                       |                                | Nightly build of       | http://qgis.org/debian-nightly-release         |
+|                       |                                | upcoming point release |                                                |
+|                       |                                | for Debian and Ubuntu  |                                                |
+|                       |                                +------------------------+------------------------------------------------+
+|                       |                                | Nightly build of       | http://qgis.org/ubuntugis-nightly-release      |
+|                       |                                | upcoming point         |                                                |
+|                       |                                | release with           |                                                |
+|                       |                                | ubuntugis dependencies |                                                |
++-----------------------+--------------------------------+------------------------+------------------------------------------------+
+| Long Term Release     | |ltrversion|.x |ltrcodename|   | Release for            | http://qgis.org/debian-ltr                     |
+|                       |                                | **Debian and Ubuntu**  |                                                |
+|                       |                                +------------------------+------------------------------------------------+
+|                       |                                | Release with           | http://qgis.org/ubuntugis-ltr                  |
+|                       |                                | ubuntugis dependencies |                                                |
+|                       |                                +------------------------+------------------------------------------------+
+|                       |                                | Nightly build of       | http://qgis.org/debian-nightly-ltr             |
+|                       |                                | upcoming point release |                                                |
+|                       |                                | for Debian and Ubuntu  |                                                |
+|                       |                                +------------------------+------------------------------------------------+
+|                       |                                | Nightly build of       | http://qgis.org/ubuntugis-nightly-ltr          |
+|                       |                                | upcoming point         |                                                |
+|                       |                                | release with           |                                                |
+|                       |                                | ubuntugis dependencies |                                                |
++-----------------------+--------------------------------+------------------------+------------------------------------------------+
+| Development Version   | 2.17.x master_2                | Nightly build for      | http://qgis.org/debian-nightly                 |
+|                       |                                | **Debian and Ubuntu**  |                                                |
+|                       |                                +------------------------+------------------------------------------------+
+|                       |                                | Nightly build with     | http://qgis.org/ubuntugis-nightly              |
+|                       |                                | ubuntugis dependencies |                                                |
+|                       +--------------------------------+------------------------+------------------------------------------------+
+|                       | 2.99.x master                  | Nightly build for      | http://qgis.org/debian-nightly-experimental    |
+|                       | Experimental                   | **Debian and Ubuntu**  |                                                |
+|                       |                                +------------------------+------------------------------------------------+
+|                       |                                | Nightly build with     | http://qgis.org/ubuntugis-nightly-experimental |
+|                       |                                | ubuntugis dependencies |                                                |
++-----------------------+--------------------------------+------------------------+------------------------------------------------+
 
 Supported distribution versions:
 
