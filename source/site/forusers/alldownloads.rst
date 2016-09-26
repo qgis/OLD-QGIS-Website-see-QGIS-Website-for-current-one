@@ -151,7 +151,7 @@ Lines of packages:
 |                       |                                | ubuntugis dependencies |                                                |
 |                       +--------------------------------+------------------------+------------------------------------------------+
 |                       | 2.99.x master                  | Nightly build for      | http://qgis.org/debian-nightly-experimental    |
-|                       | Experimental                   | **Debian and Ubuntu**  |                                                |
+|                       | Experimental [1]_              | **Debian and Ubuntu**  |                                                |
 |                       |                                +------------------------+------------------------------------------------+
 |                       |                                | Nightly build with     | http://qgis.org/ubuntugis-nightly-experimental |
 |                       |                                | ubuntugis dependencies |                                                |
@@ -174,11 +174,12 @@ Supported distribution versions:
 |               +-------------+--------------+-----------------------+
 |               | 14.04 (LTS) | trusty       | yes                   |
 |               +-------------+--------------+-----------------------+
-|               | 12.04 (LTS) | precise [1]_ | yes [2]_              |
+|               | 12.04 (LTS) | precise [2]_ | yes [3]_              |
 +---------------+-------------+--------------+-----------------------+
 
-.. [1] only up to QGIS 2.8.x (due to dependency on GEOS 3.4 not available in precise)
-.. [2] only up to QGIS 2.14.x (due to dependency to GDAL >=1.11 not available in precise ubuntugis)
+.. [1] only starting with Debian Stretch and Ubuntu Xenial (due to libqca not available for Qt5 in trusty)
+.. [2] only up to QGIS 2.8.x (due to dependency on GEOS 3.4 not available in precise)
+.. [3] only up to QGIS 2.14.x (due to dependency to GDAL >=1.11 not available in precise ubuntugis)
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
 
