@@ -28,7 +28,7 @@ For Windows installers please go to
 
 For new users we recommend the standalone installers.
 
-For more advanced QGIS users you can use the OSGeo4W package, which makes it
+For more advanced QGIS users you can use OSGeo4W packages, which make it
 possible to install several versions in parallel.
 
 The OSGeo4W repository contains a lot of software from OSGeo projects.
@@ -38,7 +38,8 @@ packages beforehand.
 The downloaded files are kept in a local directory for future installations.
 Steps are:
 
-- Download OSGeo4W Installer and start it
+- Download OSGeo4W Installer (`32 bit <http://download.osgeo.org/osgeo4w/osgeo4w-setup-x86.exe>`_ or
+  `64 bit <http://download.osgeo.org/osgeo4w/osgeo4w-setup-x86_64.exe>`_) and start it
 
 - Select *Advanced Install*,
 
