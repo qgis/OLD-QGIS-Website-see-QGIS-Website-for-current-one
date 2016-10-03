@@ -46,11 +46,11 @@ over fourthy other languages are already available.
 
 To start QGIS with the appropriate localization, run
 ``qgis --lang <language code>`` in command line or change localization in QGIS under
-:menuselection:`Settings -> Options -> Locale` menu.
+:menuselection:`Settings --> Options --> Locale` menu.
 
 If you want to find out if your language is already present in QGIS Applications
 or who is currently working on your language you have to take a look in the
-:menuselection:`Help -> About -> Translators` Box in the QGIS Desktop Application.
+:menuselection:`Help --> About --> Translators` Box in the QGIS Desktop Application.
 
 You will also find the progress of the translation there (but remember in
 every "stable" version it will always stay at the same level).
