@@ -33,7 +33,7 @@ goes into the project. These sponsors are listed below with our thanks!
 .. list-table:: Gold sponsors
 
    * - |gold| |qgis-ch|
-       `QGIS Usergroup Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2017)
+       `QGIS user group Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2017)
 
 .. |qgis-ch| image:: /static/site/about/images/qgis-ch.png
    :width: 200 px
@@ -43,7 +43,7 @@ goes into the project. These sponsors are listed below with our thanks!
 .. list-table:: Silver sponsors
 
    * - |silver| |qgis-de|
-       `QGIS User Group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2017)
+       `QGIS user group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2017)
 
    * - |silver| |vorarlberg|
        `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-06.2017)
@@ -88,7 +88,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2017)
      - |bronze| |qgis-pt|
 
-       `QGIS-PT (Portuguese QGIS user group) <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)   
+       `QGIS user group Portugal <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)   
    * - |bronze| |ncc|
 
        `NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)
@@ -339,7 +339,7 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
   * - |bronze| |qpolska|
 
-      `QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
+      `QGIS user group Poland <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
     -
   * - |bronze| |geosynergy|
 
