@@ -2499,3 +2499,10 @@
    * - 江 秋蓉
      - 田中 創平
      - 陳 國威
+   * - Neosys
+     - Kajan Lauri Matti
+     - Martin Akkermann
+   * - Associazione Italiana di Geologia
+     - Oskar Masztalerz
+     - Arbre Foret Cynegetique Conseil (Romain Gauget)
+   * SARL Réalités Environnement
