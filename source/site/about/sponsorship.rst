@@ -42,6 +42,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
+   * - |silver| |qgis-de|
+       `QGIS User Group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2017)
+
    * - |silver| |vorarlberg|
        `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-06.2017)
 
@@ -53,6 +56,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |silver| |sourcepole|
        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2016)
+
+.. |qgis-de| image:: /static/site/about/images/qgis-de-logo.png
+   :width: 175 px
 
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 150 px
@@ -71,10 +77,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
-   * - |bronze| |whg|
+   * - |bronze| |lutra|
 
-       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)
-     -
+       `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2017)
+     - |bronze| |whg|
+
+       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)   
    * - |bronze| |terrelogiche|
 
        `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2017)
@@ -159,12 +167,6 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |urbsol|
 
        `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)
-   * - |bronze| |lutra|
-
-       `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2016)
-     - |bronze| |qpolska|
-
-       `QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
 
 .. |qgis-pt| image:: /static/site/about/images/qgis-pt.png
    :width: 90 px
@@ -335,6 +337,10 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 .. list-table:: Past Bronze sponsors
 
+  * - |bronze| |qpolska|
+
+      `QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
+    -
   * - |bronze| |geosynergy|
 
       `Geosynergy <www.geosynergy.com.au>`_, Australia (05.2012-05.2013+06.2015-06-2016)
