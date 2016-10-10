@@ -58,7 +58,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2016)
 
 .. |qgis-de| image:: /static/site/about/images/qgis-de-logo.png
-   :width: 175 px
+   :width: 120 px
 
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 150 px
