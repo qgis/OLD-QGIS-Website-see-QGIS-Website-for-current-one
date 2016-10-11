@@ -3,8 +3,6 @@
 
 Bugs, Features and Issues
 =========================
-.. contents::
-   :local:
 
 QGIS is a largely volunteer driven project, and is the work of a dedicated
 team of developers, documenters, translators and supporters.
