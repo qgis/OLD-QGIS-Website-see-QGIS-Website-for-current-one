@@ -77,6 +77,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |qgis-dk|
+
+       `QGIS user group Denmark <http://www.qgis.dk/>`_, Denmark (10.2015-10.2017)
+     -
    * - |bronze| |lutra|
 
        `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2017)
@@ -167,6 +171,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |urbsol|
 
        `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)
+
+.. |qgis-dk| image:: /static/site/about/images/qgis-dk.png
+   :width: 90 px
 
 .. |qgis-pt| image:: /static/site/about/images/qgis-pt.png
    :width: 90 px
