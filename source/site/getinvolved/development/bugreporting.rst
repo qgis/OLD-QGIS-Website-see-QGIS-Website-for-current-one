@@ -79,12 +79,12 @@ Steps
 ^^^^^
 
 To report a bug choose New Issue from the menu bar. Note: You can also request 
-an enhancement or submit a patch using the Ticket system.
+an enhancement or submit a patch using the Issue system.
 
-Important information needed when opening a ticket:
+Important information needed when opening a issue:
 
-* **Tracker** - choose the ticket type from the drop-down list: Bug, Feature 
-  (new feature request) or Bounty (ticket for which a bounty has been defined)
+* **Tracker** - choose the issue type from the drop-down list: Bug, Feature 
+  (new feature request) or Bounty (issue for which a bounty has been defined)
 * **Subject** - a short description of the issue
 * **Description** - Provide a full description of the problem including steps 
   to repeat it; if you think the bug could be related to a certain platform 
@@ -103,12 +103,12 @@ Important information needed when opening a ticket:
   * *High*: a bug which has a major effect on the usability of a package, 
   * or *Severe/Regression*: a bug that makes QGIS totally unusable, causes serious 
     data loss or a regression from a previous QGIS version
-* **Component** - Choose the aspect of the application that is most closely
+* **Category** - Choose the aspect of the application that is most closely
   associated with the problem
 * **Milestone** - If this issue affects a particular Milestone in the project
   choose it from the drop-down list
-* **Version** - Version of QGIS this issue affects
 * **Platform** - Choose the platform you are using
+* **Affected Version** - Version of QGIS this issue affects
 
 Before sending the bug, please check the formatting of your report by clicking 
 on "Preview". Please avoid editing existing reports, if not for typos. 
