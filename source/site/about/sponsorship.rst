@@ -80,7 +80,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |qgis-dk|
 
        `QGIS user group Denmark <http://www.qgis.dk/>`_, Denmark (10.2015-10.2017)
-     -
+     - |bronze| |septima|
+
+       `Septima <http://www.septima.dk/>`_, Denmark (10.2016-10.2017)   
    * - |bronze| |lutra|
 
        `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2017)
@@ -172,6 +174,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
        `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)
 
+.. |septima| image:: /static/site/about/images/septima.png
+   :width: 110 px
+   
 .. |qgis-dk| image:: /static/site/about/images/qgis-dk.png
    :width: 90 px
 
