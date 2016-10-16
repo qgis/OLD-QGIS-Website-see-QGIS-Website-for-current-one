@@ -132,4 +132,12 @@ Basic Workbook is an introductory text for learning QGIS (2.8) in Greek.
 * Author(s): Anthony Antoniou
 * Date: March 2015
 
+French
+=====
+
+Learning QGIS by example in french. This book covers essential workflows in GIS from data creation to its cartographic representation and some basics in spatial analysis.
+
+* https://www.amazon.fr/Apprendre-QGIS-par-lexemple-dInformation/dp/1517565766
+* Author: Gerard Allali
+* Date: September 2015
 
