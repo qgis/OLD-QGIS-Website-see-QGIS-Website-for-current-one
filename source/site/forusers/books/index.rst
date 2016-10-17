@@ -20,6 +20,16 @@ English
 
 Note: Books order is newest first.
 
+
+Mastering QGIS - Second Edition
+*******************************
+
+Go beyond the basics and unleash the full power of QGIS with practical, step-by-step examples 
+
+* https://www.packtpub.com/big-data-and-business-intelligence/mastering-qgis-second-edition
+* Kurt Menke, GISP et al.
+* Date: September 2016
+
 Discover QGIS
 *************
 
