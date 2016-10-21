@@ -145,16 +145,10 @@ Lines of packages:
 |                       |                                | release with           |                                                |
 |                       |                                | ubuntugis dependencies |                                                |
 +-----------------------+--------------------------------+------------------------+------------------------------------------------+
-| Development Version   | 2.17.x master_2                | Nightly build for      | http://qgis.org/debian-nightly                 |
+| Development Version   | 2.99.x master [1]_             | Nightly build for      | http://qgis.org/debian-nightly                 |
 |                       |                                | **Debian and Ubuntu**  |                                                |
 |                       |                                +------------------------+------------------------------------------------+
 |                       |                                | Nightly build with     | http://qgis.org/ubuntugis-nightly              |
-|                       |                                | ubuntugis dependencies |                                                |
-|                       +--------------------------------+------------------------+------------------------------------------------+
-|                       | 2.99.x master                  | Nightly build for      | http://qgis.org/debian-nightly-experimental    |
-|                       | Experimental [1]_              | **Debian and Ubuntu**  |                                                |
-|                       |                                +------------------------+------------------------------------------------+
-|                       |                                | Nightly build with     | http://qgis.org/ubuntugis-nightly-experimental |
 |                       |                                | ubuntugis dependencies |                                                |
 +-----------------------+--------------------------------+------------------------+------------------------------------------------+
 

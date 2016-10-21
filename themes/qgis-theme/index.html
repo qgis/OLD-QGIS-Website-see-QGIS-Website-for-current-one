@@ -27,14 +27,14 @@
 
             <div class="carousel-inner">
                 <div class="item active">
-                    <img src="{{pathto('_static/images/qgisorg_banner216.png', 1)}}" alt="">
+                    <img src="{{pathto('_static/images/qgisorg_banner218.png', 1)}}" alt="">
                     <div class="container">
                         <div class="carousel-caption">
-                            <h5 class="caption-headline">{{ _('QGIS 2.16 Released') }}</h5>
+                            <h5 class="caption-headline">{{ _('QGIS 2.18 Released') }}</h5>
                             <p class="caption-text">
                                 {{ _('Get it ...') }}
-                                <a class="caption-link" href="{{ pathto('site/forusers/download') }}" target="_blank">{{ _('download QGIS 2.16 Nødebo')}}</a>
-                                {{ _('or read what is new in the:') }}<a class="caption-link" href="{{ pathto('site/forusers/visualchangelog216/index') }}">{{ _('Visual Changelog')}}</a>
+                                <a class="caption-link" href="{{ pathto('site/forusers/download') }}" target="_blank">{{ _('download QGIS 2.18 Las Palmas')}}</a>
+                                {{ _('or read what is new in the:') }}<a class="caption-link" href="{{ pathto('site/forusers/visualchangelog218/index') }}">{{ _('Visual Changelog')}}</a>
 
                             </p>
                         </div>
@@ -269,21 +269,26 @@
         atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 5, false);
 
         $('[data-countdown]').each(function() {
-          var $this = $(this), finalDate = $(this).data('countdown');
-          $this.countdown(finalDate)
-		.on("update.countdown", function(event) {
-                        $this.html( finalDate + " " + event.strftime('%-Dd %-Hh %-Mm'));
-                })
-		.on("finish.countdown", function(event) {
-                        if( $this.parent().attr('id') == 'nextfeaturefreeze' ) {
-                                $this.parent().html( "{{ devversion|e }} {{ _("in feature freeze since") }} " + event.finalDate.toLocaleString() + "<br/>" );
-                        } else if( $this.parent().attr('id') == 'nextrelease' ) {
-                                $('#nextfeaturefreeze').html("");
-                                $('#nextrelease').html( "{{ nextversion|e }} {{ _("in packaging since" ) }} " + event.finalDate.toLocaleString() + "<br/>" );
-                        } else if( $this.parent().attr('id') == 'nextpointreleasedate' ) {
-                                $('#nextpointreleasedate').html("");
-                        }
-		})
+          var $this = $(this);
+          var finalDate = $(this).data('countdown');
+          if( finalDate != "None" ) {
+                $this.countdown(finalDate)
+                        .on("update.countdown", function(event) {
+                                $this.parent.html( finalDate + " " + event.strftime('%-Dd %-Hh %-Mm'));
+                        })
+                        .on("finish.countdown", function(event) {
+                                if( $this.parent().attr('id') == 'nextfeaturefreeze' ) {
+                                        $this.parent().html( "{{ devversion|e }} {{ _("in feature freeze since") }} " + event.finalDate.toLocaleString() + "<br/>" );
+                                } else if( $this.parent().attr('id') == 'nextrelease' ) {
+                                        $('#nextfeaturefreeze').html("");
+                                        $('#nextrelease').html( "{{ nextversion|e }} {{ _("in packaging since" ) }} " + event.finalDate.toLocaleString() + "<br/>" );
+                                } else if( $this.parent().attr('id') == 'nextpointreleasedate' ) {
+                                        $('#nextpointreleasedate').html("");
+                                }
+                        });
+          } else {
+                $( '#' + $this.parent().attr('id') ).html( "" );
+          }
         });
     });
 </script>
