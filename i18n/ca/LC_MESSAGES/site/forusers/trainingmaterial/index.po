@@ -1,12 +1,12 @@
 # 
 # Translators:
-# josep constanti <iceberg.jcm@gmail.com>, 2015
+# josep constantí mata <iceberg.jcm@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2015-10-30 11:20+0000\n"
+"PO-Revision-Date: 2016-06-21 12:25+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Catalan (http://www.transifex.com/qgis/qgis-website/language/ca/)\n"
 "MIME-Version: 1.0\n"
@@ -14,10 +14,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:5
-msgid "QGIS Training material"
-msgstr "Material d'aprenentatge QGIS"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:11
 msgid ""
@@ -88,6 +84,13 @@ msgid ""
 "The french National Center for Scientific Research (CNRS), created an online"
 " QGIS tutorial: http://www.ades.cnrs.fr/tutoqgis/index.php"
 msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:5
+msgid "Training material"
+msgstr ""
+
+#~ msgid "QGIS Training material"
+#~ msgstr ""
 
 #~ msgid "Courses from foss4geo: http://foss4geo.wordpress.com/gst-101/"
 #~ msgstr ""

@@ -71,7 +71,7 @@ LTR branch, if there are backports.
 After the release of 2.16 the work on the new major release 3.0 will begin.
 This will involve a switch from our fixed release schedule to an open release.
 
-3.0 will involve many wide-ranging changes, so it not clear in advance how many
+3.0 will involve many wide-ranging changes, so it not clear in advance how much
 time it will take.  We think it should take between 8-12 month to get to
 3.0.  After that we'll return to the old method.
 
@@ -81,31 +81,27 @@ Schedule:
 ===== ============= ========== =========== =====
 Event Version       Date       Week number Weeks
 ===== ============= ========== =========== =====
-LTR   2.8           20.02.2015 7           14
-DEV   (2.9)         29.05.2015 21          4
-LR    2.10          26.06.2015 25          13
-DEV   (2.11)        25.09.2015 38          4
-LR    2.12          23.10.2015 42          12
-PR    2.8.x/2.12.x  27.11.2015 47
-PR    2.8.x/2.12.x  18.12.2015 50
-PR    2.8.x/2.12.x  15.01.2016 2
-DEV   (2.13)        15.01.2016 2           6
-LTR   2.14          26.02.2016 8           12
-PR    2.8.x         26.02.2016 8
-PR    2.8.x/2.14.x  25.03.2016 12
-PR    2.8.x/2.14.x  29.04.2016 17
-PR    2.8.x/2.14.x  20.05.2016 20
-DEV   (2.15)        20.05.2016 20          5
-LR    2.16          24.06.2016 25          12
-PR    2.14.x/2.16.x 24.06.2016 25
-PR    2.14.x/2.16.x 29.07.2016 30
+PR    2.8.4/2.12.1  27.11.2015 47
+PR    2.8.5/2.12.2  18.12.2015 50
+PR    2.8.6/2.12.3  15.01.2016 2
+LTR   2.14          26.02.2016 8           14
+PR    2.8.7         26.02.2016 8
+PR    2.8.8/2.14.1  25.03.2016 12
+PR    2.8.9/2.14.2  29.04.2016 17
+PR    2.14.3        20.05.2016 20
+FF    (2.15)        03.06.2016 22          5
+LR    2.16          08.07.2016 27          10
+PR    2.14.4        08.07.2016 27
+PR    2.14.5/2.16.1 29.07.2016 30
 PR    2.14.x/2.16.x 26.08.2016 34
-PR    2.14.x/?      16.09.2016 37
-PR    2.14.x/?      21.10.2016 42
-PR    2.14.x/?      25.11.2016 47
-PR    2.14.x/?      16.12.2016 50
-PR    2.14.x/?      13.01.2017 2
-PR    2.14.x/?      24.02.2017 8
+FF    (2.17)        16.09.2016 37          5
+PR    2.14.x/2.16.x 23.09.2016 38
+LR    2.18          21.10.2016 42
+PR    2.14.x        21.10.2016 42
+PR    2.14.x/2.18.x 25.11.2016 47
+PR    2.14.x/2.18.x 16.12.2016 50
+PR    2.14.x/2.18.x 13.01.2017 2
+PR    2.14.x/       24.02.2017 8
 ===== ============= ========== =========== =====
 
 .. (3.5)  DEV   19.05.2017 20          5
@@ -124,7 +120,7 @@ Event Description
 ===== =================================================
 LTR   Long term release, begin of new development phase
 LR    Regular release, begin of new development phase
-DEV   Feature freeze, end of development phase
+FF    Feature freeze, end of development phase
 PR    Point release of latest release and LTR branch
 ===== =================================================
 

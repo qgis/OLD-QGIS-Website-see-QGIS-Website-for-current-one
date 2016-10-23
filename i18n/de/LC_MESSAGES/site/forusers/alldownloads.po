@@ -1,13 +1,13 @@
 # 
 # Translators:
-# Jürgen E. Fischer <jef@norbit.de>, 2013-2015
+# Jürgen E. Fischer <jef@norbit.de>, 2013-2016
 # Otto Dassau <dassau@gbd-consult.de>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-11-07 06:28+0000\n"
+"PO-Revision-Date: 2016-06-25 23:46+0000\n"
 "Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -314,11 +314,6 @@ msgstr "Paket"
 #: ../../source/site/forusers/alldownloads.rst:113
 msgid "Description"
 msgstr "Beschreibung"
-
-#: ../../source/site/forusers/alldownloads.rst:52
-#: ../../source/site/forusers/alldownloads.rst:115
-msgid "Latest Release"
-msgstr "Aktuelle Version"
 
 #: ../../source/site/forusers/alldownloads.rst:52
 msgid "qgis"
@@ -677,6 +672,14 @@ msgid ""
 "to your installation manager together with the openSUSE VERSION you work "
 "with (e.g. openSUSE_13.2). ::"
 msgstr "Eine regelmäßig aktualisiertes Entwickungspaket von QGIS Master namens qgis-master ist für 13.1, 13.2 (32 und 64bit) verfügbar. Fügen Sie Ihrem Installationsmanager folgendes Repositorium mit der openSUSE-Version, die Sie verwenden (z.B. openSUSE_13.2) hinzu. ::"
+
+#: ../../source/site/forusers/alldownloads.rst:52
+#: ../../source/site/forusers/alldownloads.rst:115
+msgid "Latest Release |releasenote|"
+msgstr "Aktuelle Version |releasenote|"
+
+#~ msgid "Latest Release"
+#~ msgstr ""
 
 #~ msgid "Long Term Release (available after 2.10 release)"
 #~ msgstr ""

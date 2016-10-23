@@ -1,13 +1,14 @@
 # 
 # Translators:
-# josep constanti <iceberg.jcm@gmail.com>, 2015
+# josep constantí mata <iceberg.jcm@gmail.com>, 2015
+# josep constantí mata <iceberg.jcm@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-11-25 20:04+0000\n"
-"Last-Translator: josep constanti <iceberg.jcm@gmail.com>\n"
+"PO-Revision-Date: 2016-06-21 12:24+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Catalan (http://www.transifex.com/qgis/qgis-website/language/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -262,7 +263,7 @@ msgid ""
 "full install pulls in components that require third party additions, which "
 "need to be installed manually.  These components render the installation "
 "unusable without those additions."
-msgstr ""
+msgstr "No us encegueu per fer una instal·lació completa  de OSGeo4W. Instal·leu només QGIS i potser algun component concret que us interessi. Les dependències s'inclouran automàticament. Una instal·lació completa inclou components que requereixen afegits de tercers, que podrien necessitar d'instal·lacions manuals. Això faria que el conjunt no es pogués utilitzar sense aquests afegits. "
 
 #: ../../source/site/forusers/alldownloads.rst:86
 msgid ""
@@ -313,11 +314,6 @@ msgstr "Paquet"
 #: ../../source/site/forusers/alldownloads.rst:113
 msgid "Description"
 msgstr "Descripció"
-
-#: ../../source/site/forusers/alldownloads.rst:52
-#: ../../source/site/forusers/alldownloads.rst:115
-msgid "Latest Release"
-msgstr "Darrer llançament"
 
 #: ../../source/site/forusers/alldownloads.rst:52
 msgid "qgis"
@@ -676,6 +672,14 @@ msgid ""
 "to your installation manager together with the openSUSE VERSION you work "
 "with (e.g. openSUSE_13.2). ::"
 msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:52
+#: ../../source/site/forusers/alldownloads.rst:115
+msgid "Latest Release |releasenote|"
+msgstr ""
+
+#~ msgid "Latest Release"
+#~ msgstr ""
 
 #~ msgid "Long Term Release (available after 2.10 release)"
 #~ msgstr ""

@@ -1,13 +1,13 @@
 # 
 # Translators:
-# Jürgen E. Fischer <jef@norbit.de>, 2014-2015
+# Jürgen E. Fischer <jef@norbit.de>, 2014-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-09-08 07:39+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2016-05-19 11:20+0000\n"
+"Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -36,7 +36,7 @@ msgstr "Das QGIS-Projekte veranstaltet zweimal jährlich Entwicklertreffen, typi
 msgid "Need a refund for QGIS HF expenses?"
 msgstr "Möchten Sie QGIS-HF-Aufwendung erstattet haben?"
 
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:25
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:33
 msgid "In case of doubt"
 msgstr "Im Zweifel"
 
@@ -47,45 +47,45 @@ msgid ""
 " be useful for the project, and you do not have funds to cover for "
 "travelling and lodging, you can apply for refund, at least 40 days in "
 "advance"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:17
-msgid ""
-"When applying, please let us know (i) an estimate of the total amount "
-"required, and (ii) how your participation will contribute to QGIS"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:18
-msgid ""
-"Later applications (<40 days) will be taken into account, based on the "
-"budget available and the priorities of the PSC"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:19
-msgid ""
-"Please note that our funds are limited, so we'll generally not be able to "
-"refund all participants"
-msgstr ""
+msgstr "Leute die zum Projekte beigetragen haben (mit Code, Dokumentation, Übersetzung oder Infrastruktur), ihre Teilnahme am HF für das Projekt sinnvoll wäre, aber sie keine Mittel für die Reise oder Unterbringung haben, können eine Erstattung der Kosten - mindestens 40 Tage im voraus - beantragen"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:20
 msgid ""
-"Core devs (anyone with direct commit rights to the repository) and psc "
-"members will have priority on the allocation of funds"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:21
-msgid ""
-"At least 30 days in advance, PSC will communicate a decision to all those "
-"who applied"
-msgstr ""
+"When applying, please let us know (i) an estimate of the total amount "
+"required, and (ii) how your participation will contribute to QGIS"
+msgstr "Bei der Beantragung sind (i) die geschätzte Gesamtbetrag und (ii) eine Angabe zum beabsichtigten Beitrag zu QGIS anzugeben "
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:22
 msgid ""
+"Later applications (<40 days) will be taken into account, based on the "
+"budget available and the priorities of the PSC"
+msgstr "Spätere Bewerbungen (< 40 Tage) werden berücksichtigt, wenn die ins Budget und die Prioritäten das PSC passen"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:24
+msgid ""
+"Please note that our funds are limited, so we'll generally not be able to "
+"refund all participants"
+msgstr "Unsere Mittel sind begrenzt, daher sind wir nicht in der Lage allen Teilnehmern die Kosten zu erstatten"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:26
+msgid ""
+"Core devs (anyone with direct commit rights to the repository) and psc "
+"members will have priority on the allocation of funds"
+msgstr "Kern-Entwickler (jeder mit direktem Commit-Recht zum Repository) und PSC-Mitglieder haben bei der Einplanung von Mitteln Vorrang."
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:28
+msgid ""
+"At least 30 days in advance, PSC will communicate a decision to all those "
+"who applied"
+msgstr "Mindestens 30 Tag im voraus gibt das PSC die Entscheidungen zu den Bewerbungen bekannt"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:29
+msgid ""
 "The refund will be sent to your bank account after the HF, on the basis of "
 "the bills actually paid and sent to our Treasurer."
-msgstr ""
+msgstr "Die Erstattung wird nach dem HF aufgrund der eingereichten Belege durch den Schatzmeister auf das Bankkonto überwiesen."
 
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:27
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:35
 msgid ""
 "The project steering committee shall provide arbitration for any query, "
 "complaint or appeal relating to funding requests by individual developers. "
@@ -94,7 +94,7 @@ msgid ""
 "indicate dissent, indifference and assent respectively. In the event of a "
 "tie-break, the PSC Chairman shall make the final decision. The decision made"
 " by the PSC shall be final."
-msgstr ""
+msgstr "Das Projektsteuerungskommitee (PSC) muß Entscheidungen zu jeder Anfrage, Beschwerde oder Bitte zu Förderungsanträge von einzelnen Entwicklern fällen.  Zu diesem Zweck soll eine Lösung vorgeschlagen und über das -1 / 0 / +1 System abgestimmt werden  (Ablehnung, Enthaltung, Zustimmung).  Der PSC-Vorsitzende trifft die entgültige Entscheidung. Die Entscheidung des PSC ist entgültig."
 
 #~ msgid ""
 #~ "The project steering committee shall provide arbitration for any query, "

@@ -1,13 +1,13 @@
 # 
 # Translators:
 # Levente Juhasz <jlevente89@gmail.com>, 2015
-# Zoltan Siki <siki@agt.bme.hu>, 2015
+# Zoltan Siki <siki@agt.bme.hu>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-29 10:59+0200\n"
-"PO-Revision-Date: 2015-09-05 20:37+0000\n"
+"PO-Revision-Date: 2016-06-26 19:57+0000\n"
 "Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
@@ -350,12 +350,6 @@ msgid ""
 "are most important to be added."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:282
-msgid ""
-"See also here for discussion on \"GRASS-QGIS relevant module "
-"list\":http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list."
-msgstr ""
-
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:286
 msgid "Modules to be deprecated"
 msgstr "Elavult modulok"
@@ -371,7 +365,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:5
 msgid "Adding GRASS Tools"
-msgstr ""
+msgstr "GRASS eszközök hozzáadás"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:7
 msgid ""
@@ -454,6 +448,17 @@ msgid ""
 "You should post the name of a new QGIS-GRASS module, the name of the GRASS "
 "module and the options which you want to use. For example:"
 msgstr ""
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:281
+msgid ""
+"See also here for discussion on `GRASS-QGIS relevant module list "
+"<http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list>`_."
+msgstr ""
+
+#~ msgid ""
+#~ "See also here for discussion on \"GRASS-QGIS relevant module "
+#~ "list\":http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list."
+#~ msgstr ""
 
 #~ msgid ""
 #~ "GRASS modules can be run from QGIS *GRASS Tools* if QGIS was  started from a"

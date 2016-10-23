@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-08-19 07:01+0000\n"
+"PO-Revision-Date: 2016-06-21 12:26+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Indonesian (http://www.transifex.com/qgis/qgis-website/language/id/)\n"
 "MIME-Version: 1.0\n"
@@ -18,10 +18,6 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:2
 msgid "Checklist for QGIS Release 2.0"
 msgstr "Daftar periksa Rilis 2.0 QGIS"
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:9
-msgid "Key Dates:"
-msgstr "Tanggal-tanggal Penting:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:11
 msgid "**1 April 2013** - Feature freeze - no new features in master."
@@ -566,166 +562,156 @@ msgid ""
 "be sent out to encourage translators to get there work submitted.::"
 msgstr "Ketika terjemahan panggilan dibuat, surel berdasarkan template di bawah ini harus dikirim untuk mendorong penerjemah mendapatkan info ada karya yang dikirimkan.::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:244
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:245
 msgid "Branching and Tagging Details"
 msgstr "Detail Percabangan dan Penandaan"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:246
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:247
 msgid ""
 "Branch the release using syntax below (update this with the actual commands "
 "you used to branch).::"
 msgstr "Cabang rilis menggunakan sintaks di bawah ini (memperbarui ini dengan perintah yang sebenarnya yang digunakan untuk cabang).::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:252
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:253
 msgid "Tag the release using a signed tag::"
 msgstr "Tag rilis menggunakan tag ditandai::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:259
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:260
 msgid "Bug Tracker System"
 msgstr "Sistem Pelacak Bug"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:261
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:262
 msgid ""
 "All bugs that are intended to have been fixed in this release should have "
 "been marked as closed. All other bugs on the release branch should be marked"
 " for a future release. To do this:"
 msgstr "Semua bug yang dimaksudkan telah diperbaiki di rilis ini seharusnya ditandai sebagai tertutup. Semua bug lain di cabang pelepasan harus ditandai di masa mendatang. Untuk melakukan hal ini:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:265
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:266
 msgid ""
 "create a new milestone and version e.g. we are releasing 2.0.0 now so create"
 " a new milestone in redmine for 2.0.0. Create the milestone here:"
 msgstr "membuat tonggak dan versi baru misalnya kami merilis 2.0.0 sekarang membuat tonggak sejarah baru dalam redmine untuk 2.0.0. Buat tonggak di sini:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:268
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:269
 msgid ""
 "Now you need to update each open bug on the branch and reset its milestone "
 "for the next release in the future. This can be done easily doing a batch "
 "update in redmine."
 msgstr "Sekarang Anda perlu memperbarui setiap bug terbuka pada cabang dan reset tonggak untuk rilis berikutnya di masa depan. Hal ini dapat dilakukan dengan mudah melakukan memperbarui batch redmine."
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:274
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:275
 msgid "Create the source tarball"
 msgstr "Membuat sumber tarball"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:276
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:277
 msgid "This is best achieved by running this little script::"
 msgstr "Hal ini dapat dicapai dengan menjalankan skrip kecil ini::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:286
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:287
 msgid "Generate the changelog"
 msgstr "Membuat changelog"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:288
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:289
 msgid "TODO: Add details here on how to generate the changelog."
 msgstr "DILAKUKAN: Tambahkan rincian di sini tentang bagaimana untuk menghasilkan changelog tersebut."
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:292
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:293
 msgid "Pro-forma call for packaging announcement"
 msgstr "Panggilan Pro-forma untuk pengumuman pemaketan"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:294
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:295
 msgid "mail::"
 msgstr "surat::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:357
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:361
 msgid "Windows Binary upload"
 msgstr "Unggah binari Windows"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:359
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:363
 msgid "Put the binary onto the server::"
 msgstr "Masukan biner ke server::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:365
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:369
 msgid "Now do a virus check on it. First make a note of the url:"
 msgstr "Sekarang melakukan pemeriksaan virus. Pertama membuat catatan dari url:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:367
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:371
 msgid "http://download.osgeo.org/qgis/win32/QGIS-2.0.0-0-No-GrassSetup.exe"
 msgstr "http://download.osgeo.org/qgis/win32/QGIS-2.0.0-0-No-GrassSetup.exe"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:369
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:373
 msgid ""
 "Now go to GarysHood online virus checker or similar to double check the "
 "binary is virus free:"
 msgstr "Sekarang pergi ke GarysHood pemeriksa virus dalam jaringan atau mirip dengan memeriksa biner bebas virus:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:372
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:376
 msgid "`Gary Shood Virus Checker <http://www.garyshood.com/virus/>`_"
 msgstr "`Gary Shood Virus Checker <http://www.garyshood.com/virus/>`_"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:376
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:380
 msgid "Announcing the release"
 msgstr "Memberitahu rilis"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:379
-msgid "Note you can get stats for the previous release like with \"awstats\":"
-msgstr "Catatan Anda bisa mendapatkan statistik untuk rilis sebelumnya seperti \"awstats\":"
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:379
-msgid ""
-"http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-"
-"OSGeo4W-2.0.0-.*-Setup.exe&urlfilterex=&output=urldetail&config=qgis&framename=mainright&month=all&year=2011"
-msgstr "http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-OSGeo4W-2.0.0-.*-Setup.exe&urlfilterex=&output=urldetail&config=qgis&framename=mainright&month=all&year=2011"
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:382
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:387
 msgid "IRC TOPIC update"
 msgstr "Memperbarui Topik IRC"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:384
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:389
 msgid "Tim or Gary can update the IRC topic using this procedure:"
 msgstr "Tim atau Gary dapat memperbarui topik IRC menggunakan prosedur ini:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:392
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:397
 msgid "Update Version Text File"
 msgstr "Pembaruan Versi Berkas Teks"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:394
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:399
 msgid ""
 "The file accessed from the :menuselection:`Help --> Check QGIS Version` menu"
 " is located at http://qgis.org/version.txt. This should be updated to "
 "reflect the current release."
 msgstr "Berkas diakses dari menu :menuselection:`Bantuan --> Periksa Versi QGIS`  terletak di http://qgis.org/version.txt. Ini harus diperbarui untuk mencerminkan rilis saat ini."
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:399
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:404
 msgid "Create an announcement template"
 msgstr "Membuat template pemberitahuan"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:401
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:406
 msgid ""
 "An announcement template will save you retypping the same text at the "
 "various places of announcement. The following text can be used as a basis:"
 msgstr "Template pengumuman akan menghemat mengetik ulang teks yang sama di berbagai tempat pengumuman. Teks berikut dapat digunakan sebagai dasar:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:406
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:411
 msgid "A Generic release subject"
 msgstr "Subyek rilis generik"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:414
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:419
 msgid "A generic 20 word summary"
 msgstr "Ringkasan generik 20 kata"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:423
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:428
 msgid "A mailing list announcement"
 msgstr "Milis pemberitahuan"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:442
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:447
 msgid "A word of thanks to our contributors, donors and sponsors"
 msgstr "Sebuah kata terima kasih kepada kontributor, donor dan sponsor kami"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:479
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:486
 msgid "Visual tour of the new release:"
 msgstr "Tur secara visual dari rilis baru ini:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:490
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:497
 msgid "New features with this release:"
 msgstr "Fitur-fitur baru dalam rilis ini:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:501
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:508
 msgid "A generic product description"
 msgstr "Deskripsi fitur generik"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:515
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:522
 msgid "A generic features list"
 msgstr "Daftar fitur generik"
 
@@ -862,6 +848,25 @@ msgstr "Slackware 13.0"
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:150
 msgid "Source @ qgis.org/downloads/"
 msgstr "Sumber @ qgis.org/downloads/"
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:9
+msgid "Key Dates"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:382
+msgid "Note you can get stats for the previous release like with \"awstats\"::"
+msgstr ""
+
+#~ msgid "Key Dates:"
+#~ msgstr ""
+
+#~ msgid "Note you can get stats for the previous release like with \"awstats\":"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-"
+#~ "OSGeo4W-2.0.0-.*-Setup.exe&urlfilterex=&output=urldetail&config=qgis&framename=mainright&month=all&year=2011"
+#~ msgstr ""
 
 #~ msgid "Source @ qgis.org/dowloads/"
 #~ msgstr ""

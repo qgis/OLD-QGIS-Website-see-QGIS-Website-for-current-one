@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-08-19 07:01+0000\n"
+"PO-Revision-Date: 2016-06-21 12:25+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Polish (http://www.transifex.com/qgis/qgis-website/language/pl/)\n"
 "MIME-Version: 1.0\n"
@@ -16,20 +16,21 @@ msgstr ""
 "Language: pl\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: ../../source/site/getinvolved/meetings/index.rst:5
-msgid "QGIS Meetings"
-msgstr "Spotkania QGIS"
-
-#: ../../source/site/getinvolved/meetings/index.rst:13
+#: ../../source/site/getinvolved/meetings/index.rst:7
 msgid ""
 "Since 2009 the QGIS community organizes developer and user meetings around "
 "the world."
 msgstr "Od roku 2009 społeczność QGIS zorganizowała wiele spotkań deweloperów i użytkowników na całym świecie."
 
-#: ../../source/site/getinvolved/meetings/index.rst:17
-msgid "Developer Meetings"
-msgstr "Spotkania programistów"
+#: ../../source/site/getinvolved/meetings/index.rst:5
+msgid "Meetings"
+msgstr ""
 
-#: ../../source/site/getinvolved/meetings/index.rst:21
-msgid "User Meetings"
-msgstr "Spotkania użytkowników"
+#~ msgid "QGIS Meetings"
+#~ msgstr ""
+
+#~ msgid "Developer Meetings"
+#~ msgstr ""
+
+#~ msgid "User Meetings"
+#~ msgstr ""

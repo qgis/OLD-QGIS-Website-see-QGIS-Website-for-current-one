@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Dick Groskamp, 2015
+# Dick Groskamp, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2015-11-02 17:49+0000\n"
+"PO-Revision-Date: 2016-06-22 16:29+0000\n"
 "Last-Translator: Dick Groskamp\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -14,10 +14,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:5
-msgid "QGIS Training material"
-msgstr "QGIS trainingsmateriaal"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:11
 msgid ""
@@ -88,6 +84,13 @@ msgid ""
 "The french National Center for Scientific Research (CNRS), created an online"
 " QGIS tutorial: http://www.ades.cnrs.fr/tutoqgis/index.php"
 msgstr "Het Franse National Center for Scientific Research (CNRS), maakte een online handleiding voor QGIS: http://www.ades.cnrs.fr/tutoqgis/index.php"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:5
+msgid "Training material"
+msgstr "Trainingsmateriaal"
+
+#~ msgid "QGIS Training material"
+#~ msgstr ""
 
 #~ msgid "Courses from foss4geo: http://foss4geo.wordpress.com/gst-101/"
 #~ msgstr ""

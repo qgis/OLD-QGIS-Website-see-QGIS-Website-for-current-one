@@ -5,15 +5,17 @@
 # David Paez <davpaez@gmail.com>, 2015
 # Diana Galindo <drgalindog@linuxmail.org>, 2013,2015
 # Eduardo Gonzalez Latorre, 2014
+# Emilio Plaza García <emilpg@gmail.com>, 2016
 # José Román Bilbao <jrbcast@gmail.com>, 2015
 # Minerva Durán Martínez <mine_tod@yahoo.com.mx>, 2014
+# Raul Calderon <raulca77@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2015-08-19 06:59+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2016-06-22 11:50+0000\n"
+"Last-Translator: Carlos Dávila <cdavilam@orangecorreo.es>\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,50 +23,42 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/docs/index.rst:8
+#: ../../source/docs/index.rst:2
 msgid "Documentation"
 msgstr "Documentación"
 
-#: ../../source/docs/index.rst:11
-msgid ""
-"QGIS has a lot of documentation, partly translated. Please have a look into "
-"one of the documents below."
-msgstr "QGIS tiene mucha documentación, parcialmente traducida. Dé un vistazo a uno de los documentos ubicados más abajo."
+#~ msgid ""
+#~ "QGIS has a lot of documentation, partly translated. Please have a look into "
+#~ "one of the documents below."
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:29
-msgid "Documentation for QGIS 2.0"
-msgstr "Documentación para QGIS 2.0"
+#~ msgid "Documentation for QGIS 2.0"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:45
-msgid "Documentation for QGIS 1.8"
-msgstr "Documentación para QGIS 1.8"
+#~ msgid "Documentation for QGIS 1.8"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:47
-msgid ""
-"We keep a copy of the documentation of QGIS 1.8 around here: "
-"http://docs.qgis.org/1.8"
-msgstr "Mantenemos una copia de la documentación de QGIS 1.8 en: http://docs.qgis.org/1.8"
+#~ msgid ""
+#~ "We keep a copy of the documentation of QGIS 1.8 around here: "
+#~ "http://docs.qgis.org/1.8"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:60
-msgid "Documentation for QGIS testing"
-msgstr "Documentación para QGIS en prueba"
+#~ msgid "Documentation for QGIS testing"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:62
-msgid ""
-"Although not translated we also build the documentation for the release QGIS"
-" which is currently developed. We call this version 'QGIS testing' and "
-"documentation can be found here: http://docs.qgis.org/testing"
-msgstr "Aunque no está traducida, tambien tenemos la documentación para la versión de QGIS que está actualmente en desarrollo. A esta versión la llamamos \"QGIS en prueba\" (o \"QGIS testing\" en inglés). La documentación la encuentras en: http://docs.qgis.org/testing"
+#~ msgid ""
+#~ "Although not translated we also build the documentation for the release QGIS"
+#~ " which is currently developed. We call this version 'QGIS testing' and "
+#~ "documentation can be found here: http://docs.qgis.org/testing"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:15
-msgid "Documentation for QGIS 2.2"
-msgstr "Documentación para QGIS 2.2"
+#~ msgid "Documentation for QGIS 2.2"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:31
-msgid ""
-"We keep a copy of the documentation of QGIS 2.0 around here: "
-"http://docs.qgis.org/2.0"
-msgstr "Mantenemos una copia de la documentación de QGIS 2.0 en: http://docs.qgis.org/2.0"
+#~ msgid ""
+#~ "We keep a copy of the documentation of QGIS 2.0 around here: "
+#~ "http://docs.qgis.org/2.0"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "If you do not see working links to documentation above, it means that this "

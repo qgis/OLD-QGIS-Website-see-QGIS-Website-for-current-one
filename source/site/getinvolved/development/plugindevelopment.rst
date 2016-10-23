@@ -12,8 +12,8 @@ it's highly recommended to read :ref:`QGIS-Developers-Guide`
 
 .. _QGIS-cpp-plugin-development:
 
-Developping C++ Plugin
-----------------------
+Developing C++ Plugin
+---------------------
 
 Preparing the Environment and Setting up the Repo
 .................................................
@@ -46,8 +46,8 @@ enable the plugin to see it and show its dialog.
 
 .. _QGIS-python-plugin-development:
 
-Developping Python plugin
--------------------------
+Developing Python plugin
+------------------------
 
 
 QGIS has a lot to offer for python developers too.

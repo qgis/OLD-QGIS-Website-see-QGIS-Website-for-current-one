@@ -172,11 +172,16 @@ will need to use PostGIS or a similar datastore that is able to express
 curvilinear geometries. If you want to have a play you can try a simple
 exercise like this in your PostGIS database::
 
- -- Table: curves DROP TABLE curves; CREATE TABLE curves
- (   id bigserial NOT NULL,   geometry geometry(CURVEPOLYGON, 4326),
- name text,   CONSTRAINT p_key PRIMARY KEY (id) );
- insert into curves values ( 1, st_geomfromtext(
- 'CURVEPOLYGON(CIRCULARSTRING(1 1,1 2, 2 2, 2 1, 1 1))', 4326), 'test');
+ -- Table: curves DROP TABLE curves;
+ CREATE TABLE curves (
+    id bigserial NOT NULL,
+    geometry geometry(CURVEPOLYGON, 4326),
+    name text,
+    CONSTRAINT p_key PRIMARY KEY (id)
+    );
+    
+ INSERT INTO curves VALUES ( 1, st_geomfromtext(
+    'CURVEPOLYGON(CIRCULARSTRING(1 1,1 2, 2 2, 2 1, 1 1))', 4326), 'test');
 
 Then add the layer ``curves`` to your project.
 

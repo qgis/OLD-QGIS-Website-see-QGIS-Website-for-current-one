@@ -2,14 +2,15 @@
 # Translators:
 # David Paez <davpaez@gmail.com>, 2015
 # Diana Galindo <drgalindog@linuxmail.org>, 2015
-# Eric Armijo, 2015-2016
+# YoViajo, 2015-2016
+# YoViajo, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-02-20 13:58+0000\n"
-"Last-Translator: Eric Armijo\n"
+"PO-Revision-Date: 2016-07-15 22:49+0000\n"
+"Last-Translator: YoViajo\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,10 +21,6 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:2
 msgid "Checklist for QGIS Release 2.0"
 msgstr "Lista de Chequeo para Lanzamiento de QGIS 2.0"
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:9
-msgid "Key Dates:"
-msgstr "Fechas clave:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:11
 msgid "**1 April 2013** - Feature freeze - no new features in master."
@@ -53,7 +50,7 @@ msgstr "**7 Junio 2013** - Lanzamiento Público de 2.0"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:22
 msgid "Blocking Features"
-msgstr ""
+msgstr "Características de Bloqueo"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:24
 msgid "Symbology overhaul"
@@ -90,7 +87,7 @@ msgstr "Cronograma de Lanzamiento"
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:35
 msgid ""
 "|checkbox_unchecked| Small enhancements and bug fixes can continue in trunk"
-msgstr ""
+msgstr "|checkbox_unchecked| Pequeñas mejoras y arreglos de fallos pueden continuar en el tronco"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:36
 msgid ""
@@ -107,7 +104,7 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:40
 msgid ""
 "|checkbox_unchecked| Update the splash screen (minor and major releases!)"
-msgstr ""
+msgstr "|checkbox_unchecked| Actualizar la pantalla de inicio (lanzamientos menores y mayores!)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:41
 msgid ""
@@ -212,7 +209,7 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:74
 msgid ""
 "|checkbox_unchecked| Check that INSTALL.t2t install docs are up to date"
-msgstr ""
+msgstr "|checkbox_unchecked| Revise que los documentos de instalación INSTALL.t2t estén actualizados"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:75
 msgid ""
@@ -225,7 +222,7 @@ msgstr ""
 msgid ""
 "|checkbox_unchecked| Check that cmake is deploying all headers required to "
 "build apps using libqgis_*"
-msgstr ""
+msgstr "|checkbox_unchecked| Revise que cmake esté desplegando todos los encabezados requeridos para construir aplicaciones usando libqgis_*"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:80
 msgid ""
@@ -310,7 +307,7 @@ msgstr "Día de lanzamiento - Fecha"
 msgid ""
 "|checkbox_unchecked| Close off release branch and announce release to the "
 "world. Date is dependent on package readiness."
-msgstr ""
+msgstr "|checkbox_unchecked| Cierre la rama de lanzamiento y anuncie el lanzamiento al mundo. La fecha depende de que esté listo el paquete."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:114
 msgid ""
@@ -320,12 +317,12 @@ msgstr "|checkbox_unchecked| Etiquete la rama como lanzamiento final (ver secci�
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:115
 msgid "|checkbox_unchecked| Make tag and branch read only (see notes below)."
-msgstr ""
+msgstr "|checkbox_unchecked| Hacer etiqueta y rama cómo solo lectura (ver notas abajo)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:116
 msgid ""
 "|checkbox_unchecked| Note the GIT revision hash for the tagged release here:"
-msgstr ""
+msgstr "|checkbox_unchecked| Notar el hash de revisión GIT para el lanzamiento etiquetado aquí:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:117
 msgid "XXXXXXX."
@@ -335,7 +332,7 @@ msgstr "XXXXXXX."
 msgid ""
 "|checkbox_unchecked| Generate API documentation and upload to download area "
 "(using doxygen)."
-msgstr ""
+msgstr "|checkbox_unchecked| Generar documentación y subida API al área de descarga (usando doxygen)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:120
 msgid ""
@@ -363,7 +360,7 @@ msgstr "Los paquetes deberían ser cargados a qgis.org en los subdirs apropiados
 msgid ""
 "After each package is uploaded, an entry should be created for it on the "
 "wiki page at http://download.qgis.org"
-msgstr ""
+msgstr "Después de subir cada paquete, debería crearse una entrada al respecto en la página wiki en http://download.qgis.org"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:161
 msgid "Post Release"
@@ -484,7 +481,7 @@ msgstr "|checkbox_unchecked| pkg-grass-general: http://lists.alioth.debian.org/m
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:193
 msgid "|checkbox_unchecked| osgeo-announce: news_item@osgeo.org"
-msgstr ""
+msgstr "|checkbox_unchecked| osgeo-announce: news_item@osgeo.org"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:194
 msgid ""
@@ -560,7 +557,7 @@ msgstr "|checkbox_unchecked| ppgis-scope@igc.org (español)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:212
 msgid "Call for translators email"
-msgstr ""
+msgstr "Llamo a correo-e de traductores"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:214
 msgid ""
@@ -568,166 +565,156 @@ msgid ""
 "be sent out to encourage translators to get there work submitted.::"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:244
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:245
 msgid "Branching and Tagging Details"
-msgstr ""
+msgstr "Detalles de Ramificación y Etiquetado"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:246
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:247
 msgid ""
 "Branch the release using syntax below (update this with the actual commands "
 "you used to branch).::"
-msgstr ""
+msgstr "Ramifique el lanzamiento usando la sintáxis de abajo (actualícelo con los comandos que usó para ramificar).::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:252
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:253
 msgid "Tag the release using a signed tag::"
-msgstr ""
+msgstr "Etiqueta el lanzamiento usando una etiqueta firmada::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:259
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:260
 msgid "Bug Tracker System"
-msgstr ""
+msgstr "Sistema Rastreador de Error"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:261
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:262
 msgid ""
 "All bugs that are intended to have been fixed in this release should have "
 "been marked as closed. All other bugs on the release branch should be marked"
 " for a future release. To do this:"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:265
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:266
 msgid ""
 "create a new milestone and version e.g. we are releasing 2.0.0 now so create"
 " a new milestone in redmine for 2.0.0. Create the milestone here:"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:268
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:269
 msgid ""
 "Now you need to update each open bug on the branch and reset its milestone "
 "for the next release in the future. This can be done easily doing a batch "
 "update in redmine."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:274
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:275
 msgid "Create the source tarball"
 msgstr "Crear el tarball fuente"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:276
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:277
 msgid "This is best achieved by running this little script::"
 msgstr "Se puede lograr mejor corriendo este pequeño script::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:286
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:287
 msgid "Generate the changelog"
 msgstr "Generar el registro de cambio"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:288
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:289
 msgid "TODO: Add details here on how to generate the changelog."
 msgstr "XHACER: Adicionar detalles aquí sobre cómo generar el registro de cambio."
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:292
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:293
 msgid "Pro-forma call for packaging announcement"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:294
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:295
 msgid "mail::"
 msgstr "correo::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:357
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:361
 msgid "Windows Binary upload"
 msgstr "Carga Windows Binario"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:359
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:363
 msgid "Put the binary onto the server::"
 msgstr "Ponga el binario en el servidor::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:365
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:369
 msgid "Now do a virus check on it. First make a note of the url:"
 msgstr "Ahora haga una revisión de virus sobre él. Primero tome nota de la url:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:367
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:371
 msgid "http://download.osgeo.org/qgis/win32/QGIS-2.0.0-0-No-GrassSetup.exe"
 msgstr "http://download.osgeo.org/qgis/win32/QGIS-2.0.0-0-No-GrassSetup.exe"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:369
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:373
 msgid ""
 "Now go to GarysHood online virus checker or similar to double check the "
 "binary is virus free:"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:372
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:376
 msgid "`Gary Shood Virus Checker <http://www.garyshood.com/virus/>`_"
 msgstr "`Gary Shood Virus Checker <http://www.garyshood.com/virus/>`_"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:376
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:380
 msgid "Announcing the release"
 msgstr "Anunciando el lanzamiento"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:379
-msgid "Note you can get stats for the previous release like with \"awstats\":"
-msgstr "Note que puede obtener estadísticas para el lanzamiento previo como con \"awstats\":"
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:379
-msgid ""
-"http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-"
-"OSGeo4W-2.0.0-.*-Setup.exe&urlfilterex=&output=urldetail&config=qgis&framename=mainright&month=all&year=2011"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:382
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:387
 msgid "IRC TOPIC update"
 msgstr "actualización TEMA IRC"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:384
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:389
 msgid "Tim or Gary can update the IRC topic using this procedure:"
 msgstr "Tim o Gary pueden actualizar el tema IRC usando este procedimiento:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:392
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:397
 msgid "Update Version Text File"
 msgstr "Actualizar el Archivo Texto de Versión"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:394
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:399
 msgid ""
 "The file accessed from the :menuselection:`Help --> Check QGIS Version` menu"
 " is located at http://qgis.org/version.txt. This should be updated to "
 "reflect the current release."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:399
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:404
 msgid "Create an announcement template"
 msgstr "Crear una plantilla de anuncio"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:401
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:406
 msgid ""
 "An announcement template will save you retypping the same text at the "
 "various places of announcement. The following text can be used as a basis:"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:406
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:411
 msgid "A Generic release subject"
 msgstr "Un asunto de lanzamiento Genérico "
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:414
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:419
 msgid "A generic 20 word summary"
 msgstr "Un resumen genérico de 20 palabras"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:423
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:428
 msgid "A mailing list announcement"
 msgstr "Un anuncio de lista de correo"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:442
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:447
 msgid "A word of thanks to our contributors, donors and sponsors"
 msgstr "Una palabra de agradecimiento de nuestros contribuyentes, donantes y patrocinadores"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:479
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:486
 msgid "Visual tour of the new release:"
 msgstr "Paseo virtual del nuevo lanzamiento:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:490
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:497
 msgid "New features with this release:"
 msgstr "Nuevas características con este lanzamiento:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:501
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:508
 msgid "A generic product description"
 msgstr "Una descripción genérica del producto"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:515
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:522
 msgid "A generic features list"
 msgstr "Una lista genérica de características"
 
@@ -864,6 +851,25 @@ msgstr "Slackware 13.0"
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:150
 msgid "Source @ qgis.org/downloads/"
 msgstr "Fuente en qgis.org/downloads/"
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:9
+msgid "Key Dates"
+msgstr "Fechas Clave"
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:382
+msgid "Note you can get stats for the previous release like with \"awstats\"::"
+msgstr "Ahora puede obtener estadísticas del lanzamiento previo cómo en \"awstats\"::"
+
+#~ msgid "Key Dates:"
+#~ msgstr ""
+
+#~ msgid "Note you can get stats for the previous release like with \"awstats\":"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-"
+#~ "OSGeo4W-2.0.0-.*-Setup.exe&urlfilterex=&output=urldetail&config=qgis&framename=mainright&month=all&year=2011"
+#~ msgstr ""
 
 #~ msgid "Source @ qgis.org/dowloads/"
 #~ msgstr ""

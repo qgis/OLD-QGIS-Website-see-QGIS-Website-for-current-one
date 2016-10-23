@@ -28,34 +28,43 @@ Annually we also receive support from various organisations who appreciate the
 work we do and would like to facilitate the sustained development effort that
 goes into the project. These sponsors are listed below with our thanks!
 
+.. Gold sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
+
+.. list-table:: Gold sponsors
+
+   * - |gold| |qgis-ch|
+       `QGIS user group Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2017)
+
+.. |qgis-ch| image:: /static/site/about/images/qgis-ch.png
+   :width: 200 px
+
 .. Silver sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
 .. list-table:: Silver sponsors
+
+   * - |silver| |qgis-de|
+       `QGIS user group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2017)
+
+   * - |silver| |vorarlberg|
+       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-06.2017)
 
    * - |silver| |opw|
        `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2016)
 
    * - |silver| |gaia|
-       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (11.2015-11.2016)
+       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2016)
 
    * - |silver| |sourcepole|
        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2016)
 
-   * - |silver| |agh|
-       `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
-
-   * - |silver| |vorarlberg|
-       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-05.2016)
-
+.. |qgis-de| image:: /static/site/about/images/qgis-de-logo.png
+   :width: 120 px
 
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 150 px
 
 .. |sourcepole| image:: /static/site/about/images/sourcepole.png
    :width: 175 px
-
-.. |agh| image:: /static/site/about/images/agh.png
-   :width: 90 px
 
 .. |vorarlberg| image:: /static/site/about/images/land_f.jpg
    :width: 175 px
@@ -68,10 +77,36 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
-   * - |bronze| |gepol|
+   * - |bronze| |qgis-dk|
+
+       `QGIS user group Denmark <http://www.qgis.dk/>`_, Denmark (10.2015-10.2017)
+     - |bronze| |septima|
+
+       `Septima <http://www.septima.dk/>`_, Denmark (10.2016-10.2017)   
+   * - |bronze| |lutra|
+
+       `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2017)
+     - |bronze| |whg|
+
+       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)   
+   * - |bronze| |terrelogiche|
+
+       `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2017)
+     - |bronze| |qgis-pt|
+
+       `QGIS user group Portugal <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)   
+   * - |bronze| |ncc|
+
+       `NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)
+     - |bronze| |soltig|
+
+       `SOLTIG (Soluciones en Tecnologías de Información Geográfica) <http://www.soltig.net/>`_, Costa Rica (06.2016-06.2017)
+   * - |bronze| |gaia3d|
+
+       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2017)
+     - |bronze| |gepol|
 
        `GEPOL <http://www.gepol.com.pl/>`_, Poland (04.2016-04.2017)
-     - 
    * - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2017)
@@ -116,7 +151,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2017)
    * - |bronze| |claasleinert|
 
-       `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2017)
+       `GKG Kassel (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2017)
      - |bronze| |cawdor_forestry|
 
        `CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, Scotland (02.2016-02.2017)
@@ -138,28 +173,21 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |urbsol|
 
        `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)
-   * - |bronze| |lutra|
 
-       `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2016)
-     - |bronze| |whg|
+.. |septima| image:: /static/site/about/images/septima.png
+   :width: 110 px
+   
+.. |qgis-dk| image:: /static/site/about/images/qgis-dk.png
+   :width: 90 px
 
-       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2015-08.2016)
-   * - |bronze| |npa|
+.. |qgis-pt| image:: /static/site/about/images/qgis-pt.png
+   :width: 90 px
 
-       `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
-     - |bronze| |qpolska|
+.. |soltig| image:: /static/site/about/images/soltig.png
+   :width: 110 px
 
-       `QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
-   * - |bronze| |terrelogiche|
-
-       `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2016)
-     - |bronze| |geosynergy|
-
-       `www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (05.2012-05.2013+06.2015-06-2016)
-   * - |bronze| |gaia3d|
-
-       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2016)
-     - 
+.. |ncc| image:: /static/site/about/images/ncc-logo.png
+   :width: 90 px
 
 .. |gepol| image:: /static/site/about/images/gepol_logo.png
    :width: 110 px
@@ -285,7 +313,7 @@ Italian).
    :align: left
 
 Also `OSGeo <http://www.osgeo.org/>`_ is partly supporting our HackFests: 2012.10
-in Essen, Germany, and 2013.04 in Valmiera, Latvia.
+in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 ----
 
@@ -300,15 +328,15 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 .. list-table:: Past silver sponsors
 
+  * - |silver| |agh|
+      `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
+
   * - |silver| |sogis|
 
       `Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013 and 04.2011-04.2012)
-  * - |silver| |gaiasilver|
 
-      `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (06.2013-06.2014)
-  * - |silver| |vorarlberg2|
-
-      `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-11.2012)
+.. |agh| image:: /static/site/about/images/agh.png
+   :width: 90 px
 
 .. |sogis| image:: /static/site/about/images/sogis.gif
    :width: 110 px
@@ -321,18 +349,28 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
 
 .. list-table:: Past Bronze sponsors
 
+  * - |bronze| |qpolska|
+
+      `QGIS user group Poland <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
+    -
+  * - |bronze| |geosynergy|
+
+      `Geosynergy <www.geosynergy.com.au>`_, Australia (05.2012-05.2013+06.2015-06-2016)
+    - |bronze| |npa|
+
+      `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
   * - |bronze| |argus|
 
-       `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
+      `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
     - |bronze| |adlares|
 
-       `ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
+      `ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
   * - |bronze| |avioportolano|
 
-       `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
+      `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
     - |bronze| |canal|
 
-       `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
+      `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
   * - |bronze| |openrunner|
 
       `www.openrunner.com <http://www.openrunner.com/>`_, France (05.2014-05.2015)

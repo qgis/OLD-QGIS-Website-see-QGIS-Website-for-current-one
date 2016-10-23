@@ -2,14 +2,15 @@
 # Translators:
 # alexbruy <alexander.bruy@gmail.com>, 2014
 # alexbruy <alexander.bruy@gmail.com>, 2014
+# Richard Duivenvoorde <richard@duif.net>, 2016
 # Марина Павлова <pavlova.marina.v@gmail.com>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-02-27 16:58+0000\n"
-"Last-Translator: Марина Павлова <pavlova.marina.v@gmail.com>\n"
+"PO-Revision-Date: 2016-06-21 12:24+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Russian (http://www.transifex.com/qgis/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -206,20 +207,20 @@ msgstr "Чтобы собрать QGIS из исходных кодов во Fre
 
 #: ../../source/site/forusers/alldownloads.rst:11
 msgid "We recommend installing the packages of the released software."
-msgstr ""
+msgstr "Мы рекомендуем устанавливать пакеты выпущенного программного обеспечения."
 
 #: ../../source/site/forusers/alldownloads.rst:13
 msgid ""
 "To evaluate the upcoming release and to allow non-developers to support "
 "development we also provide testing packages (note the warning_)."
-msgstr ""
+msgstr "Для оценки предстоящего выпуска и для того, чтобы позволить пользователям влиять на процесс разработки мы также предоставляем тестовую версию (обратите внимание на предупреждение warning_)."
 
 #: ../../source/site/forusers/alldownloads.rst:17
 msgid ""
 "In the feature frozen phase preceding a release (see :ref:`QGIS-release-"
 "schedule`) these packages are effectively **pre-releases, which we strongly "
 "urge users to test**."
-msgstr ""
+msgstr "В стадии заморозки, предшествующей стадии релиза (см. :ref:`QGIS-release-schedule`) эти пакеты  доступны в виде **пре-релиза, который мы настоятельно рекомендуем пользователям тестировать**."
 
 #: ../../source/site/forusers/alldownloads.rst:34
 msgid ""
@@ -228,19 +229,19 @@ msgid ""
 "installer is able to install from internet or just download all needed "
 "packages beforehand. The downloaded files are kept in a local directory for "
 "future installations. Steps are:"
-msgstr ""
+msgstr "Репозиторий OSGeo4W включает в себя большое число программ проектов OSGeo. QGIS и все её зависимости также включены в этот репозиторий, равно как и Python, GRASS, GDAL, и др. Установщик позволяет инсталлировать программы как из интернета, так и из предварительно загруженных пакетов. Загружаемые файлы сохраняются в локальном каталоге и могут использоваться повторно. Последовательность действий:"
 
 #: ../../source/site/forusers/alldownloads.rst:41
 msgid "Download OSGeo4W Installer and start it"
-msgstr ""
+msgstr "Загрузите установщик OSGeo4W и запустите его"
 
 #: ../../source/site/forusers/alldownloads.rst:43
 msgid "Select *Advanced Install*,"
-msgstr ""
+msgstr "Выберите *Расширенная установка*,"
 
 #: ../../source/site/forusers/alldownloads.rst:45
 msgid "navigate to the *Desktop* section and"
-msgstr ""
+msgstr "перейдите к разделу *Desktop* и"
 
 #: ../../source/site/forusers/alldownloads.rst:65
 msgid ""
@@ -305,25 +306,20 @@ msgstr ""
 #: ../../source/site/forusers/alldownloads.rst:113
 #: ../../source/site/forusers/alldownloads.rst:150
 msgid "Version"
-msgstr ""
+msgstr "Версия"
 
 #: ../../source/site/forusers/alldownloads.rst:50
 msgid "Package"
-msgstr ""
+msgstr "Пакет"
 
 #: ../../source/site/forusers/alldownloads.rst:50
 #: ../../source/site/forusers/alldownloads.rst:113
 msgid "Description"
-msgstr ""
-
-#: ../../source/site/forusers/alldownloads.rst:52
-#: ../../source/site/forusers/alldownloads.rst:115
-msgid "Latest Release"
-msgstr ""
+msgstr "Описание"
 
 #: ../../source/site/forusers/alldownloads.rst:52
 msgid "qgis"
-msgstr ""
+msgstr "qgis"
 
 #: ../../source/site/forusers/alldownloads.rst:50
 #: ../../source/site/forusers/alldownloads.rst:52
@@ -336,7 +332,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:54
 msgid "qgis-rel-dev"
-msgstr ""
+msgstr "qgis-rel-dev"
 
 #: ../../source/site/forusers/alldownloads.rst:54
 msgid "Nightly build of the upcoming point release"
@@ -344,11 +340,11 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:56
 msgid "qgis-ltr"
-msgstr ""
+msgstr "qgis-ltr"
 
 #: ../../source/site/forusers/alldownloads.rst:58
 msgid "qgis-ltr-dev"
-msgstr ""
+msgstr "qgis-ltr-dev"
 
 #: ../../source/site/forusers/alldownloads.rst:58
 msgid "Nightly build of the upcoming point long term release"
@@ -360,7 +356,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:60
 msgid "qgis-dev"
-msgstr ""
+msgstr "qgis-dev"
 
 #: ../../source/site/forusers/alldownloads.rst:60
 msgid "Nightly build of the development version"
@@ -372,7 +368,7 @@ msgid ""
 "need qgis and qgis-python (to run plugins). Packages like qgis-grass (or "
 "qgis-plugin-grass), qgis-server can be skipped initially, or installed only "
 "when you need them."
-msgstr ""
+msgstr "Большинство дистрибутивов Linux разбивают QGIS на несколько пакетов; скорее всего вам понадобятся пакеты qgis и qgis-python (для работы с модулями). Пакеты вроде qgis-grass (или qgis-plugin-grass), qgis-server могут не устанавливаться или устанавливаться только при необходимости."
 
 #: ../../source/site/forusers/alldownloads.rst:92
 msgid "Debian/Ubuntu"
@@ -382,13 +378,13 @@ msgstr "Debian/Ubuntu"
 msgid ""
 "Default Debian and Ubuntu software repositories often hold older versions of"
 " QGIS."
-msgstr ""
+msgstr "В стандартных репозиториях Debian и Ubuntu зачастую доступны только предыдущие выпуски QGIS."
 
 #: ../../source/site/forusers/alldownloads.rst:97
 msgid ""
 "To have newer versions, you have to add alternative software repositories, "
 "by adding one of the deb-lines below to your /etc/apt/sources.list file."
-msgstr ""
+msgstr "Чтобы получить актуальные версии, вы должны использовать альтернативные репозитории, добавив одну из следующих строк в ваш /etc/apt/sources.list."
 
 #: ../../source/site/forusers/alldownloads.rst:100
 msgid ""
@@ -410,7 +406,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:113
 msgid "Repository"
-msgstr ""
+msgstr "Репозиторий"
 
 #: ../../source/site/forusers/alldownloads.rst:115
 msgid "http://qgis.org/debian"
@@ -497,11 +493,11 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:154
 msgid "7.x"
-msgstr ""
+msgstr "7.x"
 
 #: ../../source/site/forusers/alldownloads.rst:156
 msgid "8.x"
-msgstr ""
+msgstr "8.x"
 
 #: ../../source/site/forusers/alldownloads.rst:156
 msgid "jessie"
@@ -517,7 +513,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:160
 msgid "14.04 (LTS)"
-msgstr ""
+msgstr "14.04 (LTS)"
 
 #: ../../source/site/forusers/alldownloads.rst:160
 msgid "trusty"
@@ -530,7 +526,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:164
 msgid "15.04"
-msgstr ""
+msgstr "15.04"
 
 #: ../../source/site/forusers/alldownloads.rst:164
 msgid "vivid"
@@ -538,7 +534,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:166
 msgid "12.04 (LTS)"
-msgstr ""
+msgstr "12.04 (LTS)"
 
 #: ../../source/site/forusers/alldownloads.rst:166
 msgid "precise"
@@ -599,7 +595,7 @@ msgstr ""
 #: ../../source/site/forusers/alldownloads.rst:52
 #: ../../source/site/forusers/alldownloads.rst:115
 msgid "|version|.x |codename|"
-msgstr ""
+msgstr "|version|.x |codename|"
 
 #: ../../source/site/forusers/alldownloads.rst:56
 #: ../../source/site/forusers/alldownloads.rst:128
@@ -609,7 +605,7 @@ msgstr ""
 #: ../../source/site/forusers/alldownloads.rst:56
 #: ../../source/site/forusers/alldownloads.rst:128
 msgid "|ltrversion|.x |ltrcodename|"
-msgstr ""
+msgstr "|ltrversion|.x |ltrcodename|"
 
 #: ../../source/site/forusers/alldownloads.rst:60
 msgid "|devversion| Master"
@@ -625,7 +621,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:162
 msgid "15.10"
-msgstr ""
+msgstr "15.10"
 
 #: ../../source/site/forusers/alldownloads.rst:162
 msgid "wily"
@@ -678,6 +674,14 @@ msgid ""
 "to your installation manager together with the openSUSE VERSION you work "
 "with (e.g. openSUSE_13.2). ::"
 msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:52
+#: ../../source/site/forusers/alldownloads.rst:115
+msgid "Latest Release |releasenote|"
+msgstr ""
+
+#~ msgid "Latest Release"
+#~ msgstr ""
 
 #~ msgid "Long Term Release (available after 2.10 release)"
 #~ msgstr ""

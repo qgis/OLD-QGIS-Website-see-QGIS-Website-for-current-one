@@ -1,12 +1,12 @@
 # 
 # Translators:
-# João Filipe Rodrigues Gaspar <joao.f.r.gaspar@gmail.com>, 2013
+# João Gaspar <joao.f.r.gaspar@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-08-19 07:01+0000\n"
+"PO-Revision-Date: 2016-06-21 12:26+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
@@ -15,10 +15,13 @@ msgstr ""
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/getinvolved/governance/sponsorship/index.rst:4
-msgid "QGIS Sponsorship Program"
-msgstr "Programa de Patrocínio QGIS"
-
 #: ../../source/site/getinvolved/governance/sponsorship/index.rst:6
 msgid "Contents:"
 msgstr "Conteúdos:"
+
+#: ../../source/site/getinvolved/governance/sponsorship/index.rst:4
+msgid "Sponsorship Program"
+msgstr ""
+
+#~ msgid "QGIS Sponsorship Program"
+#~ msgstr ""

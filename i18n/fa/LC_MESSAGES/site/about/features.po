@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-10-30 11:18+0000\n"
+"PO-Revision-Date: 2016-06-21 12:23+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Persian (http://www.transifex.com/qgis/qgis-website/language/fa/)\n"
 "MIME-Version: 1.0\n"
@@ -15,84 +15,93 @@ msgstr ""
 "Language: fa\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/site/about/features.rst:5
+#: ../../source/site/about/features.rst:7
 msgid "QGIS Desktop"
 msgstr "میزکار کوانتم"
 
-#: ../../source/site/about/features.rst:7
+#: ../../source/site/about/features.rst:9
 msgid "Create, edit, visualise, analyse and publish geospatial information."
 msgstr "ایجاد، ویرایش، تجسم، تجزیه و تحلیل و انتشار اطلاعات مکان مرجع."
 
-#: ../../source/site/about/features.rst:9
+#: ../../source/site/about/features.rst:11
 msgid "For Windows, Mac, Linux, BSD and Android."
 msgstr "برای سیستم عامل های Windows, Mac, Linux, BSD و Android."
 
-#: ../../source/site/about/features.rst:14
+#: ../../source/site/about/features.rst:16
 msgid "A screenshot of QGIS Desktop"
 msgstr "تصویری از میزکار کوانتم جی ای اس"
 
-#: ../../source/site/about/features.rst:18
+#: ../../source/site/about/features.rst:20
 msgid "QGIS Browser"
 msgstr "مرورگر کوانتم"
 
-#: ../../source/site/about/features.rst:20
+#: ../../source/site/about/features.rst:22
 msgid "Browse and preview your data and metadata."
 msgstr "مرورگر جهت نمایش متادیتا و داده های شما."
 
-#: ../../source/site/about/features.rst:22
+#: ../../source/site/about/features.rst:24
 msgid "Drag and drop your data from one datastore into the other one."
 msgstr "کشیدن و رها کردن داده ها از منبع به صفحه نرافزار."
 
-#: ../../source/site/about/features.rst:27
+#: ../../source/site/about/features.rst:29
 msgid "A screenshot of QGIS Browser"
 msgstr "تصویری از مرورگر کوانتم جی ای اس"
 
-#: ../../source/site/about/features.rst:31
+#: ../../source/site/about/features.rst:33
 msgid "QGIS Server"
 msgstr "سرور کوانتم جی ای اس"
 
-#: ../../source/site/about/features.rst:33
+#: ../../source/site/about/features.rst:35
 msgid ""
 "Publish your QGIS projects and layers as OGC compatible WMS and WFS "
 "services. Control which layers, attributes, layouts and coordinate systems "
 "are exported."
 msgstr "می توان پروژه ها و لایه های خود را با استاندارد OGC مطابق کنید و با سرویس های WMS و WFS انتشار دهید. کنترل لایه ها، ویژگی ها و پوسته ها با سیستم مختصات از خروجی های سیستم است."
 
-#: ../../source/site/about/features.rst:40
+#: ../../source/site/about/features.rst:42
 msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
 msgstr "تصویری از پیکر بندی سرور کوانتم جی ای اس در محیط میز کار کوانتم"
 
-#: ../../source/site/about/features.rst:43
+#: ../../source/site/about/features.rst:45
 msgid "QGIS Web Client"
 msgstr "سرویس گیرنده وب کوانتم جی ای اس"
 
-#: ../../source/site/about/features.rst:45
+#: ../../source/site/about/features.rst:47
 msgid ""
 "Publish your QGIS projects on the web with ease. Benefit from the powerful "
 "symbology, labeling and blending features to impress with your maps."
 msgstr "انتشار پروژه های کوانتم بر روی وب به سادگی انجام می شود،با بهره مندی از سیمبولوژی قدرت مند،برچسی زدن و ترکیب ویژگی ها می توان نفشه های با جذابیت بیشتر آماده کرد."
 
-#: ../../source/site/about/features.rst:52
+#: ../../source/site/about/features.rst:54
 msgid "A screenshot of QGIS Web Client"
 msgstr "تصویری از سرویس گیرنده وب کوانتم جی ای اس"
 
-#: ../../source/site/about/features.rst:56
+#: ../../source/site/about/features.rst:58
 msgid "QGIS on Android (beta!)"
 msgstr "آندروید کوانتم جی ای اس (آزمایشی!)"
 
-#: ../../source/site/about/features.rst:58
+#: ../../source/site/about/features.rst:60
 msgid ""
 "Work is being done to use QGIS on Android devices. Current builds are very "
 "experimental, and not for the faint of heart."
 msgstr "برای دستگاه های سیستم عامل اندرواید کوانتم در حال تولید نسخه مجزا است. نسخه فعلی تولید شده آزمایشی است و ضعفی در قلب سیستم وجود ندارد."
 
-#: ../../source/site/about/features.rst:64
+#: ../../source/site/about/features.rst:66
 msgid "A screenshot of QGIS on Android"
 msgstr "تصویری از نسخه اندرواید کوانتم جی ای اس"
 
 #: ../../source/site/about/features.rst:2
-msgid "QGIS Applications"
+msgid "Applications"
 msgstr ""
+
+#: ../../source/site/about/features.rst:4
+msgid ""
+"QGIS is not only a desktop GIS. We also provide a spatial file browser, a "
+"server application, and web applications."
+msgstr ""
+
+#~ msgid "QGIS Applications"
+#~ msgstr ""
 
 #~ msgid "Features of QGIS"
 #~ msgstr ""

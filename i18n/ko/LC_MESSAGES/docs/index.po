@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2015-11-09 11:52+0000\n"
-"Last-Translator: BJ Jang <jangbi882@gmail.com>\n"
+"PO-Revision-Date: 2016-06-21 12:23+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Korean (http://www.transifex.com/qgis/qgis-website/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,50 +17,42 @@ msgstr ""
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/docs/index.rst:8
+#: ../../source/docs/index.rst:2
 msgid "Documentation"
 msgstr "문서"
 
-#: ../../source/docs/index.rst:11
-msgid ""
-"QGIS has a lot of documentation, partly translated. Please have a look into "
-"one of the documents below."
-msgstr "QGIS에는 많은 문서가 있고, 부분적으로는 번역되었습니다. 아래의 문서들을 살펴봐 주십시오."
+#~ msgid ""
+#~ "QGIS has a lot of documentation, partly translated. Please have a look into "
+#~ "one of the documents below."
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:29
-msgid "Documentation for QGIS 2.0"
-msgstr "QGIS 2.0 용 문서"
+#~ msgid "Documentation for QGIS 2.0"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:45
-msgid "Documentation for QGIS 1.8"
-msgstr "QGIS 1.8 용 문서"
+#~ msgid "Documentation for QGIS 1.8"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:47
-msgid ""
-"We keep a copy of the documentation of QGIS 1.8 around here: "
-"http://docs.qgis.org/1.8"
-msgstr "우리는 QGIS 1.8의 문서를 다음 경로에 보존하고 있습니다. http://docs.qgis.org/1.8"
+#~ msgid ""
+#~ "We keep a copy of the documentation of QGIS 1.8 around here: "
+#~ "http://docs.qgis.org/1.8"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:60
-msgid "Documentation for QGIS testing"
-msgstr "QGIS 테스트 버전용 문서"
+#~ msgid "Documentation for QGIS testing"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:62
-msgid ""
-"Although not translated we also build the documentation for the release QGIS"
-" which is currently developed. We call this version 'QGIS testing' and "
-"documentation can be found here: http://docs.qgis.org/testing"
-msgstr "비록 번역되지 않았지만 우리는 현재 개발중인 배포본 QGIS의 문서도 만들었습니다. 우리는 이 버전을 'QGIS 테스트 버전'이라 부르고 문서는 다음에서 찾으실 수 있습니다. http://docs.qgis.org/testing"
+#~ msgid ""
+#~ "Although not translated we also build the documentation for the release QGIS"
+#~ " which is currently developed. We call this version 'QGIS testing' and "
+#~ "documentation can be found here: http://docs.qgis.org/testing"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:15
-msgid "Documentation for QGIS 2.2"
-msgstr "QGIS 2.2 용 문서"
+#~ msgid "Documentation for QGIS 2.2"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:31
-msgid ""
-"We keep a copy of the documentation of QGIS 2.0 around here: "
-"http://docs.qgis.org/2.0"
-msgstr "우리는 QGIS 2.0 문서의 복사본을 다음 경로에 보관하고 있습니다: http://docs.qgis.org/2.0"
+#~ msgid ""
+#~ "We keep a copy of the documentation of QGIS 2.0 around here: "
+#~ "http://docs.qgis.org/2.0"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "If you do not see working links to documentation above, it means that this "

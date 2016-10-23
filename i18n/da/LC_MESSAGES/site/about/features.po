@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-10-30 11:18+0000\n"
+"PO-Revision-Date: 2016-06-21 12:23+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Danish (http://www.transifex.com/qgis/qgis-website/language/da/)\n"
 "MIME-Version: 1.0\n"
@@ -15,84 +15,93 @@ msgstr ""
 "Language: da\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/about/features.rst:5
+#: ../../source/site/about/features.rst:7
 msgid "QGIS Desktop"
 msgstr "QGIS Desktop"
 
-#: ../../source/site/about/features.rst:7
+#: ../../source/site/about/features.rst:9
 msgid "Create, edit, visualise, analyse and publish geospatial information."
 msgstr "Skab, redigér, visualisér, analysér og udgiv geospatial\ninformation."
 
-#: ../../source/site/about/features.rst:9
+#: ../../source/site/about/features.rst:11
 msgid "For Windows, Mac, Linux, BSD and Android."
 msgstr "Til Windows, Mac, Linux, BSD og Android."
 
-#: ../../source/site/about/features.rst:14
+#: ../../source/site/about/features.rst:16
 msgid "A screenshot of QGIS Desktop"
 msgstr "Et screenshot af QGIS desktop"
 
-#: ../../source/site/about/features.rst:18
+#: ../../source/site/about/features.rst:20
 msgid "QGIS Browser"
 msgstr "QGIS Browser"
 
-#: ../../source/site/about/features.rst:20
+#: ../../source/site/about/features.rst:22
 msgid "Browse and preview your data and metadata."
 msgstr "Gennemse og få en forhåndsvisning af dine data og metadata."
 
-#: ../../source/site/about/features.rst:22
+#: ../../source/site/about/features.rst:24
 msgid "Drag and drop your data from one datastore into the other one."
 msgstr "Træk og slip dine data fra én datakilde til en anden."
 
-#: ../../source/site/about/features.rst:27
+#: ../../source/site/about/features.rst:29
 msgid "A screenshot of QGIS Browser"
 msgstr "Et screenshot af QGIS browser"
 
-#: ../../source/site/about/features.rst:31
+#: ../../source/site/about/features.rst:33
 msgid "QGIS Server"
 msgstr "QGIS Server"
 
-#: ../../source/site/about/features.rst:33
+#: ../../source/site/about/features.rst:35
 msgid ""
 "Publish your QGIS projects and layers as OGC compatible WMS and WFS "
 "services. Control which layers, attributes, layouts and coordinate systems "
 "are exported."
 msgstr "Udgiv dit QGIS projekt og lag som OGC kompatible WMS og WFS services. Kontrollér hvilke lag, attributter, layouts og koordinatsystemer der eksporteres."
 
-#: ../../source/site/about/features.rst:40
+#: ../../source/site/about/features.rst:42
 msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
 msgstr "Et screenshot af QGIS server konfiguration i QGIS desktop"
 
-#: ../../source/site/about/features.rst:43
+#: ../../source/site/about/features.rst:45
 msgid "QGIS Web Client"
 msgstr "QGIS web kilent"
 
-#: ../../source/site/about/features.rst:45
+#: ../../source/site/about/features.rst:47
 msgid ""
 "Publish your QGIS projects on the web with ease. Benefit from the powerful "
 "symbology, labeling and blending features to impress with your maps."
 msgstr "Publicér dit QGIS projekt nemt på nettet. Få fordel af de kraftfulde symbol og labeling funktioner for at forbedre dine kort."
 
-#: ../../source/site/about/features.rst:52
+#: ../../source/site/about/features.rst:54
 msgid "A screenshot of QGIS Web Client"
 msgstr "Et screenshot af QGIS web klienten"
 
-#: ../../source/site/about/features.rst:56
+#: ../../source/site/about/features.rst:58
 msgid "QGIS on Android (beta!)"
 msgstr "QGIS på Android (beta!)"
 
-#: ../../source/site/about/features.rst:58
+#: ../../source/site/about/features.rst:60
 msgid ""
 "Work is being done to use QGIS on Android devices. Current builds are very "
 "experimental, and not for the faint of heart."
 msgstr "Der arbejdes på at kunne bruge QGIS på Android enheder. Nuværende version er meget eksperimentiel, og ikke for de sarte sjæle."
 
-#: ../../source/site/about/features.rst:64
+#: ../../source/site/about/features.rst:66
 msgid "A screenshot of QGIS on Android"
 msgstr "Et screenshot af QGIS på Android"
 
 #: ../../source/site/about/features.rst:2
-msgid "QGIS Applications"
+msgid "Applications"
 msgstr ""
+
+#: ../../source/site/about/features.rst:4
+msgid ""
+"QGIS is not only a desktop GIS. We also provide a spatial file browser, a "
+"server application, and web applications."
+msgstr ""
+
+#~ msgid "QGIS Applications"
+#~ msgstr ""
 
 #~ msgid "Features of QGIS"
 #~ msgstr ""
