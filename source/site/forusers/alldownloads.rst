@@ -278,9 +278,10 @@ openSUSE
 QGIS stable
 ...........
 
-Latest stable openSUSE package called qgis is available for 13.1 and 13.2 
-(32 and 64bit). Add the following repository to your installation manager 
-together with the openSUSE VERSION you work with (e.g. openSUSE_13.2).
+Latest stable openSUSE package called qgis is available for 13.1, 13.2, 
+Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). Add the following 
+repository to your installation manager together with the openSUSE 
+VERSION you work with (e.g. openSUSE_13.2).
 ::
 
  http://download.opensuse.org/repositories/Application:/Geo/<VERSION>/
