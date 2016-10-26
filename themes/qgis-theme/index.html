@@ -274,7 +274,7 @@
           if( finalDate != "None" ) {
                 $this.countdown(finalDate)
                         .on("update.countdown", function(event) {
-                                $this.parent.html( finalDate + " " + event.strftime('%-Dd %-Hh %-Mm'));
+                                $this.html( finalDate + " " + event.strftime('%-Dd %-Hh %-Mm'));
                         })
                         .on("finish.countdown", function(event) {
                                 if( $this.parent().attr('id') == 'nextfeaturefreeze' ) {
