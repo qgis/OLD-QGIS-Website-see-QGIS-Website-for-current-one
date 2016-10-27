@@ -33,8 +33,7 @@ It may require some time to have your account approved.
 .. note:: On the `OSGeo userid page <http://www.osgeo.org/osgeo_userid>`_ you can
  find more information about the OSGeo id we use. For example to 
  `change your password <https://www.osgeo.org/cgi-bin/auth/ldap_edit_user.py>`_
- or email address. Lost your password? Then request a password reset
- via info at osgeo.org
+ or email address, or to reset your lost password.
 
 
 Before reporting an issue
