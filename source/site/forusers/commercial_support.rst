@@ -81,11 +81,11 @@ and open source software packages for both the web and the server side.
 .. |kartoza| image:: /static/site/about/images/kartoza.png
    :width: 200 px
 
-|kartoza| `Kartoza (Pty) Ltd. <http://kartoza.com>`_ (with offices in Swellendam and Paarl
-in the Western Cape Provice of South Africa). We provide commercial support and training for
-QGIS Desktop and Server and carry out feature development for QGIS on a contract basis.
-We also develop plugins in Python and C++ for QGIS. **Note:** Kartoza was formerly known as
-Linfiniti Consulting.
+|kartoza| `Kartoza (Pty) Ltd. <http://kartoza.com>`_ (with offices in
+Stellenbosch and Johannesburg, South Africa). We provide commercial support and
+training for QGIS Desktop and Server and carry out feature development for QGIS
+on a contract basis.  We also develop plugins in Python and C++ for QGIS.
+**Note:** Kartoza was formerly known as Linfiniti Consulting.
 
 ----
 
