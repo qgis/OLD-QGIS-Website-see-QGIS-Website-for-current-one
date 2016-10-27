@@ -42,6 +42,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
+   * - |silver| |artogis|
+       `ARTOGIS a/s <http://www.artogis.dk/>`_, Denmark (11.2016-11.2017)
+
    * - |silver| |qgis-de|
        `QGIS user group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2017)
 
@@ -71,6 +74,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. |opw| image:: /static/site/about/images/opw.jpg
    :width: 150 px
+
+.. |artogis| image:: /static/site/about/images/artogis.jpg
+   :width: 175 px
+
 
 
 .. Bronze sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
