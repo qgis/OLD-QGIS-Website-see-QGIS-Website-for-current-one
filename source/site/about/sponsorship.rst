@@ -75,7 +75,7 @@ goes into the project. These sponsors are listed below with our thanks!
 .. |opw| image:: /static/site/about/images/opw.jpg
    :width: 150 px
 
-.. |artogis| image:: /static/site/about/images/artogis.jpg
+.. |artogis| image:: /static/site/about/images/artogis.png
    :width: 175 px
 
 
