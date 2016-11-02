@@ -57,17 +57,11 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |gaia|
        `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2016)
 
-   * - |silver| |sourcepole|
-       `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2016)
-
 .. |qgis-de| image:: /static/site/about/images/qgis-de-logo.png
    :width: 120 px
 
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 150 px
-
-.. |sourcepole| image:: /static/site/about/images/sourcepole.png
-   :width: 175 px
 
 .. |vorarlberg| image:: /static/site/about/images/land_f.jpg
    :width: 175 px
@@ -84,6 +78,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |sourcepole|
+
+       `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (11.2016-11.2017; 10.2014-10.2016: silver level)
+     -   
    * - |bronze| |qgis-dk|
 
        `QGIS user group Denmark <http://www.qgis.dk/>`_, Denmark (10.2015-10.2017)
@@ -180,6 +178,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |urbsol|
 
        `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)
+
+.. |sourcepole| image:: /static/site/about/images/sourcepole.png
+   :width: 110 px
 
 .. |septima| image:: /static/site/about/images/septima.png
    :width: 110 px
