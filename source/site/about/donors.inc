@@ -2425,134 +2425,137 @@
      - Tor Mikalsen
      - Tore Pedersen
    * - Torsten Christensen
+     - Torsten Cloos
      - Transferwise LTD
-     - Trausti Dagsson
-   * - Travis Hammond
+   * - Trausti Dagsson
+     - Travis Hammond
      - Treechai Anuwongjaroen
-     - Trine Dale
-   * - Turq Brown
+   * - Trine Dale
+     - Turq Brown
      - Tyler Mitchell
-     - Udo Lenz
-   * - UIH Ingenieur- und Planungsbüro
+   * - Udo Lenz
+     - UIH Ingenieur- und Planungsbüro
      - Ujaval Gandhi
-     - Ukrainskiy Pavel
-   * - Ulf Rahmel
+   * - Ukrainskiy Pavel
+     - Ulf Rahmel
      - Ulrich Kulle
-     - Ulrich Steinrücken
-   * - Ulrich Von Wulffen
+   * - Ulrich Steinrücken
+     - Ulrich Von Wulffen
      - Ulrike Burgmer
-     - Ulrike Sommer
-   * - Umberto Zulian
+   * - Ulrike Sommer
+     - Umberto Zulian
      - Uriel Kitron
-     - Uros Bernik
-   * - Ursula Baaser
+   * - Uros Bernik
+     - Ursula Baaser
      - Ute Twer
-     - Valdinei Gonçalves
-   * - Valentina Accoto
+   * - Valdinei Gonçalves
+     - Valentina Accoto
      - Valentina Merola
-     - Valeria Leticia Franco Salvi
-   * - Valeria Zusi
+   * - Valeria Leticia Franco Salvi
+     - Valeria Zusi
      - Valerio Franchino
-     - Vanessa Linforth
-   * - Verena Hafner-hofmann
+   * - Vanessa Linforth
+     - Verena Hafner-hofmann
      - Verena Schmieg
-     - Veronica Oliveros Clavijo
-   * - Victor Saldaña
+   * - Veronica Oliveros Clavijo
+     - Victor Saldaña
      - Victoria Cooper
-     - Vijiandran Rajah
-   * - Vincent Auvigne
+   * - Vijiandran Rajah
+     - Vincent Auvigne
      - Vincent Bernardin
-     - Vincent D'haese
-   * - Vincent Mercier
+   * - Vincent D'haese
+     - Vincent Mercier
      - Vincent Prioul
-     - Vincent Verweij
-   * - Vincenzo Liguori
+   * - Vincent Verweij
+     - Vincenzo Liguori
      - Vincenzo Lomurno
-     - Vincenzo Sale
-   * - Vincenzo Trivigno
+   * - Vincenzo Sale
+     - Vincenzo Trivigno
      - Vinicius Dulac
-     - Vital J Pinheiro Jr J Pinheiro Jr
-   * - Vito Latorraca
+   * - Vital J Pinheiro Jr J Pinheiro Jr
+     - Vito Latorraca
      - Vitor Pereira
-     - Vittorio Dallaserra
-   * - Vittorio Dell'Aquila
+   * - Vittorio Dallaserra
+     - Vittorio Dell'Aquila
      - Vladimir Mikik
-     - Vladimir Vrabel
-   * - Volker Luetzenkirchen
+   * - Vladimir Vrabel
+     - Volker Luetzenkirchen
      - Volker Römer
-     - Voyages à Vélo
-   * - Walter Dellisanti
+   * - Voyages à Vélo
+     - Walter Dellisanti
      - Walter di Lorenzetti (GIS3W)
-     - Walter Hesse
-   * - Wasin Bukaew
+   * - Walter Hesse
+     - Wasin Bukaew
      - Waveware Technologies, Inc.
-     - Wayne Bulmer
-   * - Wendelin Schmitt
+   * - Wayne Bulmer
+     - Wendelin Schmitt
      - Wendell Rodrigues Feliciano
-     - Werner Hentschel
-   * - Werner Macho
+   * - Werner Hentschel
+     - Werner Macho
      - Werner Nedon
-     - Werner Nienstedt
-   * - Wesley Ward
+   * - Werner Nienstedt
+     - Wesley Ward
      - Wiktor Zalewski
-     - Wilker De Jesus Silva
-   * - William Carleton
+   * - Wilker De Jesus Silva
+     - William Carleton
      - William Colson
-     - William Davis
-   * - William Jesdale
+   * - William Davis
+     - William Jesdale
      - William Kalb
-     - William Kelleher
-   * - William Levering
+   * - William Kelleher
+     - William Levering
      - William Pallies
-     - Willy Haefliger
-   * - Willy Werlen
+   * - Willy Haefliger
+     - Willy Werlen
      - Winifred Frick
-     - Wirote Assawakulpaibul
-   * - Wolfgang Dennhöfer
+   * - Wirote Assawakulpaibul
+     - Wolfgang Dennhöfer
      - Wolfgang Scheffler
-     - Wolfgang Schindler
-   * - Wolfgang Stoessel
+   * - Wolfgang Schindler
+     - Wolfgang Stoessel
      - Wolfgang Zuehlke
-     - Wti
-   * - Xabier Albizu Zabala
+   * - Wti
+     - Xabier Albizu Zabala
      - Xavier Maurice
-     - Xhaustless B V B A
-   * - Xuejing Zuo
+   * - Xhaustless B V B A
+     - Xuejing Zuo
      - Yadok Biplang
-     - Yahya Mohatar Abderrahman
-   * - Yamagishi Hiromitsu
+   * - Yahya Mohatar Abderrahman
+     - Yamagishi Hiromitsu
      - Yann Lepage
-     - Yapa Bandara
-   * - Yiran Li
+   * - Yapa Bandara
+     - Yiran Li
      - Yorck Neumann
-     - Yu Shu
-   * - Yuan Harng Lee
+   * - Yu Shu
+     - Yuan Harng Lee
      - Yuan-kee Lee
-     - Yven Dickhörner
-   * - Yves Bas
+   * - Yven Dickhörner
+     - Yves Bas
      - Yves Froissart
-     - Yves Jacolin
-   * - Yves Louagie
+   * - Yves Jacolin
+     - Yves Louagie
      - za.miastem Sylwia Cichocińska
-     - Zachary Patterson
-   * - Zahir Lazcano
+   * - Zachary Patterson
+     - Zahir Lazcano
      - Zebra On Wheels
-     - Zebra On Wheels Bv
-   * - Zsolt Gal
+   * - Zebra On Wheels Bv
+     - Zsolt Gal
      - Zweli Moya
-     - Ângela Seixas
-   * - çağla Melisa Kaya
+   * - Ângela Seixas
+     - çağla Melisa Kaya
      - Иваненко Андрей
-     - Коробейников Андрей
-   * - Кравцов Сергей
+   * - Коробейников Андрей
+     - Кравцов Сергей
      - Литвяк Юрий
-     - Паршин Александр
-   * - Слинкин Филипп
+   * - Паршин Александр
+     - Слинкин Филипп
      - Трифонова Евгения
-     - Царьков Иван
-   * - เฉลิมศักดิ์ ผมพันธ์
+   * - Царьков Иван
+     - เฉลิมศักดิ์ ผมพันธ์
      - 伍 维模
-     - 吉原 佑
-   * - 江 秋蓉
+   * - 吉原 佑
+     - 江 秋蓉
      - 田中 創平
-     - 陳 國威
+   * - 陳 國威
+     -
+     -
