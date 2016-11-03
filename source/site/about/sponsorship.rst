@@ -70,7 +70,7 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 150 px
 
 .. |artogis| image:: /static/site/about/images/artogis.png
-   :width: 175 px
+   :width: 185 px
 
 
 
@@ -180,7 +180,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)
 
 .. |sourcepole| image:: /static/site/about/images/sourcepole.png
-   :width: 110 px
+   :width: 120 px
 
 .. |septima| image:: /static/site/about/images/septima.png
    :width: 110 px
@@ -234,7 +234,7 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 90 px
 
 .. |whg| image:: /static/site/about/images/whg.jpg
-   :width: 90 px
+   :width: 110 px
 
 .. |npa| image:: /static/site/about/images/npa.jpg
    :width: 75 px
@@ -300,7 +300,7 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 75 px
 
 .. |lutra| image:: /static/site/about/images/lutra_consulting.png
-   :width: 90 px
+   :width: 100 px
 
 List of past sponsors
 ---------------------
