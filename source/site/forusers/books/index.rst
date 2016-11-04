@@ -133,7 +133,7 @@ Years of experience in a single book─the official Quantum GIS Training Manual 
 
 
 French
-=====
+======
 
 Learning QGIS by example in french. This book covers essential workflows in GIS from data creation to its cartographic representation and some basics in spatial analysis.
 

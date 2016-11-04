@@ -14,8 +14,8 @@ or bugs) can be reported, managed and discussed. You'll find issues related to:
 
 * QGIS applications (QGIS Desktop, QGIS Browser or QGIS Server) at
   http://hub.qgis.org/projects/quantum-gis/issues
-* the `web site <http://qgis.org>`_ at https://github.com/qgis/QGIS-Website/issues
-* and the `documentation <http://docs.qgis.org>`_ at
+* the `web site <http://qgis.org>`__ at https://github.com/qgis/QGIS-Website/issues
+* and the `documentation <http://docs.qgis.org>`__ at
   https://github.com/qgis/QGIS-Documentation/issues.
 
 For questions, please contact the :ref:`QGIS-mailinglists`.
