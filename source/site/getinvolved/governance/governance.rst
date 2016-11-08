@@ -21,6 +21,7 @@ brackets):
 * Gary Sherman (Founder and lifetime Honorary Member)
 
 Former members are:
+
 * Marco Hugentobler (until 2016)
 * Otto Dassau (Community Advisor) [2007 - 2016]
 
