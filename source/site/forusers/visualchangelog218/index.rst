@@ -66,6 +66,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |GAIA mbH|
        `GAIA mbh <http://www.gaia-mbh.de>`_, Germany
 
+   * - |silver| |sourcepole|
+       `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland
+
    * - |silver| |QGISusergroupGermany|
        `QGIS user group Germany <http://www.qgis.de/>`_, Germany
 
@@ -623,3 +626,5 @@ This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>
 .. |image60| image:: images/entries/thumbnails/9453954d199c4950d7aecf153b6d5e53f820ff19.PNG.400x300_q85_crop.png
 .. |image61| image:: images/entries/f69a3601e9201e38f9a561d40807512035da2298.gif
 .. |image62| image:: images/entries/thumbnails/f4b9cf3ba10669b933eb3f3a5c401f675ad76533.png.400x300_q85_crop.png
+.. |sourcepole| image:: /static/site/about/images/sourcepole.png
+   :width: 120 px
