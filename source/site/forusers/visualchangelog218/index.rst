@@ -627,4 +627,4 @@ This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>
 .. |image61| image:: images/entries/f69a3601e9201e38f9a561d40807512035da2298.gif
 .. |image62| image:: images/entries/thumbnails/f4b9cf3ba10669b933eb3f3a5c401f675ad76533.png.400x300_q85_crop.png
 .. |sourcepole| image:: /static/site/about/images/sourcepole.png
-   :width: 120 px
+   :width: 150 px
