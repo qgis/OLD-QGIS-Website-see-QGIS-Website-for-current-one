@@ -27,7 +27,8 @@ Setting up your project
 
 I'm assuming you have already got a local QGIS clone containing the
 source code, and have installed all needed build dependencies etc. There are
-`detailed instructions <http://github.com/qgis/QGIS/blob/master/CODING.md>`_.
+`detailed instructions 
+<http://qgis.org/en/site/getinvolved/development/qgisdevelopersguide.html>`_.
 
 On my system I have checked out the code into ``$HOME/dev/cpp/QGIS`` and the
 rest of the article is written assuming that, you should update these paths as
