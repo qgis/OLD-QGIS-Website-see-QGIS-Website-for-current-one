@@ -75,7 +75,7 @@ Important information needed when opening a ticket:
   * *High*: a bug which has a major effect on the usability of a package, 
   * or *Severe/Regression*: a bug that makes QGIS totally unusable, causes serious 
     data loss or a regression from a previous QGIS version
-* **Component** - Choose the aspect of the application that is most closely
+* **Category** - Choose the aspect of the application that is most closely
   associated with the problem
 * **Milestone** - If this issue affects a particular Milestone in the project
   choose it from the drop-down list
