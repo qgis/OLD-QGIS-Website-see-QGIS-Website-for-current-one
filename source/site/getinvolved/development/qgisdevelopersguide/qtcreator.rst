@@ -27,7 +27,7 @@ Setting up your project
 
 I'm assuming you have already got a local QGIS clone containing the
 source code, and have installed all needed build dependencies etc. There are
-:ref:`detailed instructions <coding_standards>`.
+:ref:`detailed instructions <git_access>`.
 
 On my system I have checked out the code into ``$HOME/dev/cpp/QGIS`` and the
 rest of the article is written assuming that, you should update these paths as
