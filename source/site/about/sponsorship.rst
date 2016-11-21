@@ -78,10 +78,16 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |mappinggis|
+
+       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2015-11.2017)
+     -
    * - |bronze| |sourcepole|
 
        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (11.2016-11.2017; 10.2014-10.2016: silver level)
-     -   
+     - |bronze| |urbsol|
+
+       `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2017)
    * - |bronze| |qgis-dk|
 
        `QGIS user group Denmark <http://www.qgis.dk/>`_, Denmark (10.2015-10.2017)
@@ -169,15 +175,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |kela|
 
        `Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, Germany (12.2015-12.2016)
-     - |bronze| |mappinggis|
-
-       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2015-11.2016)
-   * - |bronze| |hfacts|
+     - |bronze| |hfacts|
 
        `HostingFacts.com <https://hostingfacts.com/>`_, Estonia (12.2015-12.2016)
-     - |bronze| |urbsol|
-
-       `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)
 
 .. |sourcepole| image:: /static/site/about/images/sourcepole.png
    :width: 120 px
