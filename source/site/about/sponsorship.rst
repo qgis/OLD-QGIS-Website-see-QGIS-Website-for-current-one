@@ -81,7 +81,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |mappinggis|
 
        `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2015-11.2017)
-     -
+     - |bronze| |alta|
+
+       `Alta ehf <http://www.alta.is/>`_, Iceland (11.2016-11.2017)
    * - |bronze| |sourcepole|
 
        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (11.2016-11.2017; 10.2014-10.2016: silver level)
@@ -178,6 +180,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |hfacts|
 
        `HostingFacts.com <https://hostingfacts.com/>`_, Estonia (12.2015-12.2016)
+
+.. |alta| image:: /static/site/about/images/alta.png
+   :width: 110 px
 
 .. |sourcepole| image:: /static/site/about/images/sourcepole.png
    :width: 120 px
