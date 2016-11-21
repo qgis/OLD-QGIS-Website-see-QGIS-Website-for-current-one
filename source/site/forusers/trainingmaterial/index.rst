@@ -39,7 +39,7 @@ Other resources from them are available here:
 http://www.geoinformations.developpement-durable.gouv.fr/qgis-r625.html
 
 The french National Center for Scientific Research (CNRS), created an online QGIS tutorial:
-http://www.ades.cnrs.fr/tutoqgis/index.php
+http://www.passages.cnrs.fr/tutoqgis/
 
 
 German
