@@ -2529,54 +2529,54 @@
    * - Willy Haefliger
      - Willy Werlen
      - Winifred Frick
-   * - Wirote Assawakulpaibul
+   * - Winston B Hurst
+     - Wirote Assawakulpaibul
      - Wolfgang Dennhöfer
-     - Wolfgang Scheffler
-   * - Wolfgang Schindler
+   * - Wolfgang Scheffler
+     - Wolfgang Schindler
      - Wolfgang Stoessel
-     - Wolfgang Zuehlke
-   * - Wti
+   * - Wolfgang Zuehlke
+     - Wti
      - Xabier Albizu Zabala
-     - Xavier Maurice
-   * - Xhaustless B V B A
+   * - Xavier Maurice
+     - Xhaustless B V B A
      - Xuejing Zuo
-     - Yadok Biplang
-   * - Yahya Mohatar Abderrahman
+   * - Yadok Biplang
+     - Yahya Mohatar Abderrahman
      - Yamagishi Hiromitsu
-     - Yann Lepage
-   * - Yapa Bandara
+   * - Yann Lepage
+     - Yapa Bandara
      - Yiran Li
-     - Yorck Neumann
-   * - Yu Shu
+   * - Yorck Neumann
+     - Yu Shu
      - Yuan Harng Lee
-     - Yuan-kee Lee
-   * - Yven Dickhörner
+   * - Yuan-kee Lee
+     - Yven Dickhörner
      - Yves Bas
-     - Yves Froissart
-   * - Yves Jacolin
+   * - Yves Froissart
+     - Yves Jacolin
      - Yves Louagie
-     - za.miastem Sylwia Cichocińska
-   * - Zachary Patterson
+   * - za.miastem Sylwia Cichocińska
+     - Zachary Patterson
      - Zahir Lazcano
-     - Zebra On Wheels
-   * - Zebra On Wheels Bv
+   * - Zebra On Wheels
+     - Zebra On Wheels Bv
      - Zsolt Gal
-     - Zweli Moya
-   * - Ângela Seixas
+   * - Zweli Moya
+     - Ângela Seixas
      - çağla Melisa Kaya
-     - Иваненко Андрей
-   * - Коробейников Андрей
+   * - Иваненко Андрей
+     - Коробейников Андрей
      - Кравцов Сергей
-     - Литвяк Юрий
-   * - Паршин Александр
+   * - Литвяк Юрий
+     - Паршин Александр
      - Слинкин Филипп
-     - Трифонова Евгения
-   * - Царьков Иван
+   * - Трифонова Евгения
+     - Царьков Иван
      - เฉลิมศักดิ์ ผมพันธ์
-     - 伍 维模
-   * - 吉原 佑
+   * - 伍 维模
+     - 吉原 佑
      - 江 秋蓉
-     - 田中 創平
-   * - 陳 國威
-     -
+   * - 田中 創平
+     - 陳 國威
      -
