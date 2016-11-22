@@ -80,7 +80,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |bronze| |mappinggis|
 
-       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2015-11.2017)
+       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2017)
      - |bronze| |alta|
 
        `Alta ehf <http://www.alta.is/>`_, Iceland (11.2016-11.2017)
