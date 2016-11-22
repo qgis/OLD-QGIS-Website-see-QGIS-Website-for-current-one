@@ -2581,5 +2581,5 @@
      - 江 秋蓉
      - 田中 創平
    * - 陳 國威
-     -
+     - Scotland QGIS User Group
      -
