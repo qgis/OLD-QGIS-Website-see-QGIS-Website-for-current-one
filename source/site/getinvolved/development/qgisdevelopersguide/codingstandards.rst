@@ -343,7 +343,7 @@ Instead use
     bar();
     
   baz();
-  baz();
+  bar();
 
 Indent access modifiers
 .......................
