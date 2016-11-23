@@ -132,17 +132,11 @@ example:
   mail address and - if required - the name and configure QtCreator to use it:
   ``Tools`` -> ``Options`` -> ``C++`` -> ``File Naming``.
 
-Keyword Substitution
-....................
-
-In the days of SVN we used to require that each source file should contain the
-``$Id$`` keyword. Keyword substitution is not supported by GIT and so should no
-longer be used.
 
 Variable Names
 --------------
 
-Variable names begin with a lower case letter and are formed using mixed case.
+Local variable names begin with a lower case letter and are formed using mixed case.
 
 Examples:
 
@@ -228,7 +222,7 @@ API Compatibility
 There is `API documentation <http://qgis.org/api/>`_ for C++.
 
 We try to keep the API stable and backwards compatible. Cleanups to the API
-should be done in a manner similar to the Trolltech developers e.g.
+should be done in a manner similar to the Qt sourcecode e.g.
 
 .. code-block:: cpp
 
