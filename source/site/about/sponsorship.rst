@@ -78,6 +78,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |pixalytics|
+
+       `Pixalytics <http://www.pixalytics.com/>`_, UK (11.2016-11.2017)
+     - 
    * - |bronze| |mappinggis|
 
        `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2017)
@@ -180,6 +184,10 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |hfacts|
 
        `HostingFacts.com <https://hostingfacts.com/>`_, Estonia (12.2015-12.2016)
+
+
+.. |pixalytics| image:: /static/site/about/images/pixalytics.png
+   :width: 130 px
 
 .. |alta| image:: /static/site/about/images/alta.png
    :width: 110 px
