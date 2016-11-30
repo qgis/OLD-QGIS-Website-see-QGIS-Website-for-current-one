@@ -233,7 +233,8 @@ Get packages for any Fedora by typing::
  sudo dnf update
  sudo dnf install qgis qgis-python qgis-grass qgis-server
 
-There is an alternative repository for QGIS which may provide newer versions https://copr.fedorainfracloud.org/coprs/neteler/QGIS-2.14-Essen/
+There is an alternative repository for QGIS which provides new LTR versions
+https://copr.fedorainfracloud.org/coprs/neteler/QGIS-2.14-Essen/
 ::
 
  sudo dnf copr enable neteler/liblas
@@ -241,6 +242,15 @@ There is an alternative repository for QGIS which may provide newer versions htt
  sudo dnf copr enable neteler/QGIS-2.14-Essen
 
  sudo dnf install qgis qgis-grass qgis-python
+ 
+For QGIS 2.18 use there is another repository
+::
+ sudo dnf copr enable neteler/liblas
+ sudo dnf copr enable neteler/grass70
+ sudo dnf copr enable neteler/QGIS-2.18-Las-Palmas
+
+ sudo dnf install qgis qgis-grass qgis-python
+
 
 RHEL, CentOS, Scientific Linux
 ------------------------------
