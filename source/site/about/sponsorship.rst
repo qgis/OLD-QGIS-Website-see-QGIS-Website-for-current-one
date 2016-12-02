@@ -42,6 +42,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
+   * - |silver| |osgeo_uk|
+       `OSGEO:UK <http://www.osgeo.org/uk/>`_, UK (12.2016-12.2017)
+
    * - |silver| |artogis|
        `ARTOGIS a/s <http://www.artogis.dk/>`_, Denmark (11.2016-11.2017)
 
@@ -56,6 +59,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |silver| |gaia|
        `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2016)
+
+.. |osgeo_uk| image:: /static/site/about/images/osgeo_uk.png
+   :width: 175 px
 
 .. |qgis-de| image:: /static/site/about/images/qgis-de-logo.png
    :width: 120 px
@@ -81,7 +87,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |pixalytics|
 
        `Pixalytics <http://www.pixalytics.com/>`_, UK (11.2016-11.2017)
-     - 
+     - |bronze| |solargis|
+
+       `Solargis <http://solargis.com/>`_, Slovak Republic (12.2016-12.2017)
    * - |bronze| |mappinggis|
 
        `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2017)
@@ -186,14 +194,17 @@ goes into the project. These sponsors are listed below with our thanks!
        `HostingFacts.com <https://hostingfacts.com/>`_, Estonia (12.2015-12.2016)
 
 
+.. |solargis| image:: /static/site/about/images/solargis.png
+   :width: 125 px
+
 .. |pixalytics| image:: /static/site/about/images/pixalytics.png
-   :width: 130 px
+   :width: 120 px
 
 .. |alta| image:: /static/site/about/images/alta.png
    :width: 110 px
 
 .. |sourcepole| image:: /static/site/about/images/sourcepole.png
-   :width: 120 px
+   :width: 130 px
 
 .. |septima| image:: /static/site/about/images/septima.png
    :width: 110 px
