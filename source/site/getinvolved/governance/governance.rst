@@ -9,18 +9,21 @@ Board (Project Steering Committee)
 -----------------------------------
 
 The QGIS project is managed by the Board (Project Steering Committee; PSC)
-which consists of 9 members (with their individual responsibilities listed in
+which consists of 7 members (with their individual responsibilities listed in
 brackets):
 
 * Tim Sutton (Chair; Testing/QA Manager)
 * Paolo Cavallini (Co-Chair; Manager of Plugin Repository) [since January 2008]
 * Andreas Neumann (Treasurer; Contact for Sponsorships) [since November 2015]
-* Marco Hugentobler (Technical Advisor)
-* Otto Dassau (Community Advisor) [since June 2007]
 * Anita Graser (Design Advisor) [since September 2013]
 * Richard Duivenvoorde (Infrastructure Manager) [since September 2013]
 * Jürgen Fischer (Release Manager) [since September 2013]
 * Gary Sherman (Founder and lifetime Honorary Member)
+
+Former members are:
+
+* Marco Hugentobler (until 2016)
+* Otto Dassau (Community Advisor) [2007 - 2016]
 
 Read more about the responsibilities of the PSC :ref:`here <psc>`
 
@@ -120,14 +123,16 @@ code added into the git code repository.
 Community Resources
 -------------------
 
-Current Community Team Lead:
-Otto Dassau <dassau[at]gbd-consult.de>
-
 The QGIS community resources are managed by the Community Team (Community
 Manager and Assistants). With numerous contributors they keep contact to the
-community, take care of QGIS documentation and GUI translations,
+community, take care of QGIS events, documentation, GUI translations,
 and ensure smooth running of the QGIS.org online experience including web
-sites, blog, mailing lists, forums etc.
+sites, blog, and mailing lists.
+
+Current Community Team Leaders:
+
+* Lene Fischer <lfi[at]ign.ku.dk> (community tasks)
+* Yves Jacoline <yjacolin[at]free.fr> (documentation)
 
 Find the list of documentation and website translators at:
 https://github.com/qgis/QGIS-Documentation

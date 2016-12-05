@@ -14,12 +14,11 @@ any of them and they are given only to help.
 Please write to richard@qgis.org if you want to have your book added here.
 Or you edit this page in github and do a pull request.
 
+Note: Books order is newest first.
+Note2: After the english books there are french, greek and polish items
 
 English
 =======
-
-Note: Books order is newest first.
-
 
 Mastering QGIS - Second Edition
 *******************************
@@ -133,6 +132,16 @@ Years of experience in a single book─the official Quantum GIS Training Manual 
 * Date: May 2013
 
 
+French
+======
+
+Learning QGIS by example in french. This book covers essential workflows in GIS from data creation to its cartographic representation and some basics in spatial analysis.
+
+* https://www.amazon.fr/Apprendre-QGIS-par-lexemple-dInformation/dp/1517565766
+* Author: Gerard Allali
+* Date: September 2015
+
+
 Greek
 =====
 
@@ -142,12 +151,12 @@ Basic Workbook is an introductory text for learning QGIS (2.8) in Greek.
 * Author(s): Anthony Antoniou
 * Date: March 2015
 
-French
-=====
 
-Learning QGIS by example in french. This book covers essential workflows in GIS from data creation to its cartographic representation and some basics in spatial analysis.
+Polish
+======
 
-* https://www.amazon.fr/Apprendre-QGIS-par-lexemple-dInformation/dp/1517565766
-* Author: Gerard Allali
-* Date: September 2015
+Learn about GIS and QGIS in Polish. The book is prepared like the series "for Dummies".
 
+* http://helion.pl/ksiazki/qgis-tworzenie-i-analiza-map-bartlomiej-iwanczak,qgista.htm
+* Author(s): Bartłomiej Iwańczak
+* Date: October 2016

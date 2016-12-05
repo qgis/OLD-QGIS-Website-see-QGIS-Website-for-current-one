@@ -42,6 +42,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
+   * - |silver| |osgeo_uk|
+       `OSGEO:UK <http://www.osgeo.org/uk/>`_, UK (12.2016-12.2017)
+
    * - |silver| |artogis|
        `ARTOGIS a/s <http://www.artogis.dk/>`_, Denmark (11.2016-11.2017)
 
@@ -57,8 +60,8 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |gaia|
        `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2016)
 
-   * - |silver| |sourcepole|
-       `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2016)
+.. |osgeo_uk| image:: /static/site/about/images/osgeo_uk.png
+   :width: 175 px
 
 .. |qgis-de| image:: /static/site/about/images/qgis-de-logo.png
    :width: 120 px
@@ -66,17 +69,14 @@ goes into the project. These sponsors are listed below with our thanks!
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 150 px
 
-.. |sourcepole| image:: /static/site/about/images/sourcepole.png
-   :width: 175 px
-
 .. |vorarlberg| image:: /static/site/about/images/land_f.jpg
    :width: 175 px
 
 .. |opw| image:: /static/site/about/images/opw.jpg
    :width: 150 px
 
-.. |artogis| image:: /static/site/about/images/artogis.jpg
-   :width: 175 px
+.. |artogis| image:: /static/site/about/images/artogis.png
+   :width: 185 px
 
 
 
@@ -84,6 +84,24 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |pixalytics|
+
+       `Pixalytics <http://www.pixalytics.com/>`_, UK (11.2016-11.2017)
+     - |bronze| |solargis|
+
+       `Solargis <http://solargis.com/>`_, Slovak Republic (12.2016-12.2017)
+   * - |bronze| |mappinggis|
+
+       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2017)
+     - |bronze| |alta|
+
+       `Alta ehf <http://www.alta.is/>`_, Iceland (11.2016-11.2017)
+   * - |bronze| |sourcepole|
+
+       `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (11.2016-11.2017; 10.2014-10.2016: silver level)
+     - |bronze| |urbsol|
+
+       `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2017)
    * - |bronze| |qgis-dk|
 
        `QGIS user group Denmark <http://www.qgis.dk/>`_, Denmark (10.2015-10.2017)
@@ -171,15 +189,22 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |kela|
 
        `Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, Germany (12.2015-12.2016)
-     - |bronze| |mappinggis|
-
-       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2015-11.2016)
-   * - |bronze| |hfacts|
+     - |bronze| |hfacts|
 
        `HostingFacts.com <https://hostingfacts.com/>`_, Estonia (12.2015-12.2016)
-     - |bronze| |urbsol|
 
-       `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)
+
+.. |solargis| image:: /static/site/about/images/solargis.png
+   :width: 125 px
+
+.. |pixalytics| image:: /static/site/about/images/pixalytics.png
+   :width: 120 px
+
+.. |alta| image:: /static/site/about/images/alta.png
+   :width: 110 px
+
+.. |sourcepole| image:: /static/site/about/images/sourcepole.png
+   :width: 130 px
 
 .. |septima| image:: /static/site/about/images/septima.png
    :width: 110 px
@@ -233,7 +258,7 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 90 px
 
 .. |whg| image:: /static/site/about/images/whg.jpg
-   :width: 90 px
+   :width: 110 px
 
 .. |npa| image:: /static/site/about/images/npa.jpg
    :width: 75 px
@@ -299,7 +324,7 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 75 px
 
 .. |lutra| image:: /static/site/about/images/lutra_consulting.png
-   :width: 90 px
+   :width: 100 px
 
 List of past sponsors
 ---------------------

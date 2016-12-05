@@ -132,17 +132,11 @@ example:
   mail address and - if required - the name and configure QtCreator to use it:
   ``Tools`` -> ``Options`` -> ``C++`` -> ``File Naming``.
 
-Keyword Substitution
-....................
-
-In the days of SVN we used to require that each source file should contain the
-``$Id$`` keyword. Keyword substitution is not supported by GIT and so should no
-longer be used.
 
 Variable Names
 --------------
 
-Variable names begin with a lower case letter and are formed using mixed case.
+Local variable names begin with a lower case letter and are formed using mixed case.
 
 Examples:
 
@@ -228,7 +222,7 @@ API Compatibility
 There is `API documentation <http://qgis.org/api/>`_ for C++.
 
 We try to keep the API stable and backwards compatible. Cleanups to the API
-should be done in a manner similar to the Trolltech developers e.g.
+should be done in a manner similar to the Qt sourcecode e.g.
 
 .. code-block:: cpp
 
@@ -318,37 +312,49 @@ or this:
 .. note:: ``scripts/prepare-commit.sh`` will take care of this.
 
 
-Use Braces Even for Single Line Statements
-..........................................
+Put commands on separate lines
+..............................
 
-Using braces for code in if/then blocks or similar code structures even for
-single line statements means that adding another statement is less likely to
-generate broken code.
+When reading code it's easy to miss commands, if they are not at the beginning
+of the line. When quickly reading through code, it's common to skip lines
+if they don't look like what you are looking for in the first few characters.
+It's also common to expect a command after a conditional like ``if``.
 
 Consider:
 
 .. code-block:: cpp
 
-  if (foo)
-    bar();
-  else
-    baz();
+  if (foo) bar();
+  
+  baz(); bar();
 
-Adding code after bar() or baz() without adding enclosing braces would create
-broken code. Though most programmers would naturally do that, some may forget
-to do so in haste.
-
-So, prefer this:
+It's very easy to miss part of what the flow of control.
+Instead use
 
 .. code-block:: cpp
 
   if (foo)
-  {
     bar();
-  }
-  else
+    
+  baz();
+  bar();
+
+Indent access modifiers
+.......................
+
+Access modifiers structure a class into sections of public API, protected API and
+private API. Access modifiers themselves group the code into this structure.
+Indent the access modifier and declarations.
+
+.. code-block:: cpp
+
+  class QgsStructure
   {
-    baz();
+    public:
+      /**
+       * Constructor
+       */
+       explicit QgsStructure();
   }
 
 

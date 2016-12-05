@@ -14,8 +14,8 @@ or bugs) can be reported, managed and discussed. You'll find issues related to:
 
 * QGIS applications (QGIS Desktop, QGIS Browser or QGIS Server) at
   http://hub.qgis.org/projects/quantum-gis/issues
-* the `web site <http://qgis.org>`_ at https://github.com/qgis/QGIS-Website/issues
-* and the `documentation <http://docs.qgis.org>`_ at
+* the `web site <http://qgis.org>`__ at https://github.com/qgis/QGIS-Website/issues
+* and the `documentation <http://docs.qgis.org>`__ at
   https://github.com/qgis/QGIS-Documentation/issues.
 
 For questions, please contact the :ref:`QGIS-mailinglists`.
@@ -75,7 +75,7 @@ Important information needed when opening a ticket:
   * *High*: a bug which has a major effect on the usability of a package, 
   * or *Severe/Regression*: a bug that makes QGIS totally unusable, causes serious 
     data loss or a regression from a previous QGIS version
-* **Component** - Choose the aspect of the application that is most closely
+* **Category** - Choose the aspect of the application that is most closely
   associated with the problem
 * **Milestone** - If this issue affects a particular Milestone in the project
   choose it from the drop-down list

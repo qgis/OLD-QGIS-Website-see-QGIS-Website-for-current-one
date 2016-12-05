@@ -179,6 +179,8 @@ upstream repo, you can push your repo up to the QGIS official repo by doing:
   branch on a regular basis. This makes it easier to merge the branch back to
   master later. After a rebase you need to ``git push -f`` to your forked repo.
 
+.. note:: Never ``git push -f`` to the origin repository! Only use this for your working branch.
+
 .. code-block:: bash
 
   git rebase master
