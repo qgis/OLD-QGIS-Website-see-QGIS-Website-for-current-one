@@ -245,6 +245,7 @@ https://copr.fedorainfracloud.org/coprs/neteler/QGIS-2.14-Essen/
  
 For QGIS 2.18 use there is another repository
 ::
+
  sudo dnf copr enable neteler/liblas
  sudo dnf copr enable neteler/grass70
  sudo dnf copr enable neteler/QGIS-2.18-Las-Palmas
