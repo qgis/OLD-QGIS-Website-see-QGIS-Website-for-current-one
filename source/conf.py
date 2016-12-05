@@ -67,7 +67,7 @@ copyright = u'{0}, QGIS Contributors'.format( datetime.now().year )
 version = '2.18'
 release = '2.18.1'
 codename = u'Las Palmas'
-binary = '1'
+binary = '2'
 releasedate = date(2016,11,25)
 releasenote = u"\u200B"
 
@@ -75,7 +75,7 @@ releasenote = u"\u200B"
 ltrversion = '2.14'
 ltrrelease = '2.14.9'
 ltrcodename = 'Essen'
-ltrbinary = '1'
+ltrbinary = '2'
 
 devversion = '2.99'
 nextversion = '3.0'
