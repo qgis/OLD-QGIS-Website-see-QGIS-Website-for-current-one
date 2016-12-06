@@ -135,7 +135,10 @@ Years of experience in a single book─the official Quantum GIS Training Manual 
 French
 ======
 
-Learning QGIS by example in french. This book covers essential workflows in GIS from data creation to its cartographic representation and some basics in spatial analysis.
+Learning QGIS by example in french
+**********************************
+
+This book covers essential workflows in GIS from data creation to its cartographic representation and some basics in spatial analysis.
 
 * https://www.amazon.fr/Apprendre-QGIS-par-lexemple-dInformation/dp/1517565766
 * Author: Gerard Allali
@@ -145,7 +148,15 @@ Learning QGIS by example in french. This book covers essential workflows in GIS 
 Greek
 =====
 
-Basic Workbook is an introductory text for learning QGIS (2.8) in Greek.
+Introduction to Raster Analysis (Learning QGIS Book 2)
+******************************************************
+
+* https://www.amazon.com/dp/B01N6DQNO0/ref=sr_1_fkmr0_1?ie=UTF8&qid=1481029017&sr=8-1-fkmr0&keywords=Introduction+to+Spatial+Analysis+%28Learning+QGIS+Book+1%29
+* Author(s): Anthony Antoniou
+* Date: December 2016
+
+Basic Workbook is an introductory text for learning QGIS (2.8)
+**************************************************************
 
 * https://www.amazon.com/Introduction-Spatial-Analysis-Learning-QGIS-ebook/dp/B00VGJBN6E/ref=sr_1_1?ie=UTF8&qid=1467868493&sr=8-1&keywords=anthony+antoniou#navbar
 * Author(s): Anthony Antoniou
@@ -155,7 +166,10 @@ Basic Workbook is an introductory text for learning QGIS (2.8) in Greek.
 Polish
 ======
 
-Learn about GIS and QGIS in Polish. The book is prepared like the series "for Dummies".
+Learn about GIS and QGIS in Polish
+**********************************
+
+The book is prepared like the series "for Dummies".
 
 * http://helion.pl/ksiazki/qgis-tworzenie-i-analiza-map-bartlomiej-iwanczak,qgista.htm
 * Author(s): Bartłomiej Iwańczak
