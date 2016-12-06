@@ -64,7 +64,7 @@ security issues.
 
 Where Auth methods are located
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-All :term:`Authentication Method`s are loaded dynamically during the
+All :term:`Authentication Method`\s are loaded dynamically during the
 :term:`Authentication Manager` initialization at QGIS startup. A new build is not
 necessary to add or remove a new Authentication method, they are shared library
 (.so, dll) installed in the following paths:
