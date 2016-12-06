@@ -22,6 +22,7 @@ Conclusion showing positive experiences/benefits using QGIS (length about 200 wo
 .. toctree::
     :maxdepth: 1
 
+    [2016/11] QGIS to describe the Cesena's Wall Camilla Fabbri <italy_cesena>
     [2016/04] QGIS at the Financial Times Graphics Team by Steve Bernard <qgis_at_financial_times>
 
 2015 
