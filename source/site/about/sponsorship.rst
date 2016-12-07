@@ -57,17 +57,11 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |opw|
        `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2016)
 
-   * - |silver| |gaia|
-       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2016)
-
 .. |osgeo_uk| image:: /static/site/about/images/osgeo_uk.png
    :width: 175 px
 
 .. |qgis-de| image:: /static/site/about/images/qgis-de-logo.png
    :width: 120 px
-
-.. |gaia| image:: /static/site/about/images/gaia.png
-   :width: 150 px
 
 .. |vorarlberg| image:: /static/site/about/images/land_f.jpg
    :width: 175 px
@@ -189,9 +183,7 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |kela|
 
        `Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, Germany (12.2015-12.2016)
-     - |bronze| |hfacts|
-
-       `HostingFacts.com <https://hostingfacts.com/>`_, Estonia (12.2015-12.2016)
+     -
 
 
 .. |solargis| image:: /static/site/about/images/solargis.png
@@ -360,12 +352,18 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 .. list-table:: Past silver sponsors
 
+  * - |silver| |gaia|
+       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2016)
+
   * - |silver| |agh|
       `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
 
   * - |silver| |sogis|
 
       `Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013 and 04.2011-04.2012)
+
+.. |gaia| image:: /static/site/about/images/gaia.png
+   :width: 150 px
 
 .. |agh| image:: /static/site/about/images/agh.png
    :width: 90 px
