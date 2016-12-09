@@ -41,8 +41,6 @@ cd ets-wms13
 
 mvn install
 
-mvn test
-
 
 #Download and install WMS 1.1.1 test
 cd ~/src
@@ -53,17 +51,17 @@ cd ets-wms11
 
 mvn install
 
-mvn test
-
 
 Test project
 ------------
+
+For the WMS tests, data can be downloaded and loaded into a QGIS project:
 
 wget http://cite.opengeospatial.org/teamengine/about/wms/1.3.0/site/data-wms-1.3.0.zip
 
 unzip data-wms-1.3.0.zip
 
-#Then create a QGIS project according to the description in http://cite.opengeospatial.org/teamengine/about/wms/1.3.0/site/
+Then create a QGIS project according to the description in http://cite.opengeospatial.org/teamengine/about/wms/1.3.0/site/. To run the tests, we need to provide the GetCapabilities URL of the service later.
 
 
 Running the WMS 1.3.0 test
