@@ -1,10 +1,9 @@
 
 OGC Conformance Testing
-
 =======================
 
-The Open Geospatial Consotrium (OGC) provides tests which can be run free of charge to make sure a server is compliant with a certain specification. This chapter provides a quick tutorial to setup the WMS tests on an Ubuntu system. A detailed documentation can be found at the OGC website (http://www.opengeospatial.org/compliance).   
 
+The Open Geospatial Consotrium (OGC) provides tests which can be run free of charge to make sure a server is compliant with a certain specification. This chapter provides a quick tutorial to setup the WMS tests on an Ubuntu system. A detailed documentation can be found at the OGC website (http://www.opengeospatial.org/compliance).   
 
 Setup of WMS 1.3 and WMS 1.1.1 conformance tests
 ------------------------------------------------
