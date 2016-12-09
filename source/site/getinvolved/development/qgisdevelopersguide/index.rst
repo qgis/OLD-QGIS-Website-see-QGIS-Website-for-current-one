@@ -17,3 +17,4 @@ steps to easily and efficiently contribute to QGIS code.
     unittesting
     qtcreator
     hig
+    compile_qgis
