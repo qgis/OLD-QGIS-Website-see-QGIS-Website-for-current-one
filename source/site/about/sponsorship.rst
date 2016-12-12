@@ -42,6 +42,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
+   * - |silver| |gaia|
+       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2017)
+
    * - |silver| |osgeo_uk|
        `OSGEO:UK <http://www.osgeo.org/uk/>`_, UK (12.2016-12.2017)
 
@@ -72,6 +75,8 @@ goes into the project. These sponsors are listed below with our thanks!
 .. |artogis| image:: /static/site/about/images/artogis.png
    :width: 185 px
 
+.. |gaia| image:: /static/site/about/images/gaia.png
+   :width: 150 px
 
 
 .. Bronze sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
@@ -357,18 +362,12 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 .. list-table:: Past silver sponsors
 
-  * - |silver| |gaia|
-       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2016)
-
   * - |silver| |agh|
       `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
 
   * - |silver| |sogis|
 
       `Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013 and 04.2011-04.2012)
-
-.. |gaia| image:: /static/site/about/images/gaia.png
-   :width: 150 px
 
 .. |agh| image:: /static/site/about/images/agh.png
    :width: 90 px
