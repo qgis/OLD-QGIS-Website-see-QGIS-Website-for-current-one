@@ -21,6 +21,7 @@ Current list of QGIS user groups
 * `QGIS UK (Scotland) - contact: Ross McDonald <https://qgis.uk/>`_
 * `QGIS user group Switzerland - contact: Andreas Neumann <https://qgis.ch/>`_
 * `QGIS UK (Wales/Cymru) - contact: Kevin Williams <http://qgis.uk/>`_
+* `QGIS ZA (South Africa) - contact: Immo Blecher <http://qgis.org.za/>`_
 
 Goals of a user group
 ---------------------
