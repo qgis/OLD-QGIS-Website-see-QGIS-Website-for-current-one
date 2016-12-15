@@ -7,9 +7,9 @@ QGIS is natively developed in English, either for the user interface (GUI) or
 for its documentation and web site. However, all these components are available
 in many other languages since it is designed to be translated into any language
 quite easily.
-At this moment over fourthy other languages are already available
-(though not all well maintained) for the GUI and more than twenty for web site
-and documentation.
+At this moment about forty languages are already available in the Desktop user
+interface and about eighty languages are available in transifex ready to be 
+translated. Nearly the same apply for the web site and documentation.
 
 The translation process is managed by the :ref:`Translation Team <gui-translation>`
 and all the activities are done under the `Transifex <https://www.transifex.com/>`_
