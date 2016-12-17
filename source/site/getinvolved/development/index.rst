@@ -12,6 +12,5 @@ Welcome to the QGIS Development pages
     contributor_requirements
     roadmap
     bugreporting
-    qgisdevelopersguide/index
     plugindevelopment
     addinggrasstools
