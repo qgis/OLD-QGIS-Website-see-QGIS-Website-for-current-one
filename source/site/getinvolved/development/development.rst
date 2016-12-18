@@ -1,4 +1,29 @@
 
+.. _developing_qgis:
+
+*********************
+ Development in QGIS
+*********************
+
+Core Development
+=================
+
+QGIS is an Open Source Geographic Information System that currently runs on
+most Unix platforms (macOS/OS X included) and Windows. Developed using the Qt
+toolkit (https://www.qt.io), it's mainly written in C++ and Python languages.
+This means that QGIS feels snappy to use and has a pleasing, easy to use
+graphical user interface.
+
+QGIS source code is available at https://github.com/qgis/QGIS.
+If you wish to help on bug fixing or adding new features to the application,
+you are most welcome and can freely contribute via pull requests. You can also
+get in touch with the other developers through their mailing list at
+https://lists.osgeo.org/mailman/listinfo/qgis-developer.
+
+Beside this, we've written a short **QGIS Developers Guide** to help you in
+QGIS coding. It provides rules, tools and steps to easily and efficiently
+contribute to QGIS code and is available at https://docs.qgis.org.
+You are warmly encouraged to read it.
 
 Plugin Development
 ===================
@@ -55,12 +80,13 @@ QGIS has a lot to offer for python developers too.
 
 QGIS has python bindings so you can automate tasks in QGIS via python.
 
-Interested in python plugin development, easiest way to start is using the Plugin Builder plugin in QGIS.
-Search for 'Plugin Builder' in the plugin manager of QGIS, or read up here:
-http://plugins.qgis.org/plugins/pluginbuilder/
+Interested in python plugin development, easiest way to start is using the
+Plugin Builder plugin in QGIS.
+Search for ``Plugin Builder`` in the plugin manager of QGIS, or read up here:
+https://plugins.qgis.org/plugins/pluginbuilder/
 
-You can also go to :ref:`QGIS-python-plugin-development`
-or have a look into the Python Cookbook in our Documentation site: http://docs.qgis.org.
+You can also have a look into the **Python Cookbook** in our Documentation site:
+https://docs.qgis.org.
 
 Looking for examples of python plugins, see http://plugins.qgis.org
 
@@ -71,6 +97,5 @@ https://qgis.org/api/classQgisInterface.html (for QGIS testing)
 https://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)
 
 https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)
-
 
 
