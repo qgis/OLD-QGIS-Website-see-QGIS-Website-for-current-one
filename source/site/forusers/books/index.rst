@@ -151,14 +151,14 @@ Greek
 Introduction to Raster Analysis (Learning QGIS Book 2)
 ******************************************************
 
-* https://www.amazon.com/dp/B01N6DQNO0/ref=sr_1_fkmr0_1?ie=UTF8&qid=1481029017&sr=8-1-fkmr0&keywords=Introduction+to+Spatial+Analysis+%28Learning+QGIS+Book+1%29
+* https://www.kobo.com/cy/en/ebook/V7poK2Or2za3IqGN-__5ZA
 * Author(s): Anthony Antoniou
 * Date: December 2016
 
 Basic Workbook is an introductory text for learning QGIS (2.8)
 **************************************************************
 
-* https://www.amazon.com/Introduction-Spatial-Analysis-Learning-QGIS-ebook/dp/B00VGJBN6E/ref=sr_1_1?ie=UTF8&qid=1467868493&sr=8-1&keywords=anthony+antoniou#navbar
+* https://www.kobo.com/cy/en/ebook/ZmcAySXVLjKxvYmZk3eKVQ
 * Author(s): Anthony Antoniou
 * Date: March 2015
 
