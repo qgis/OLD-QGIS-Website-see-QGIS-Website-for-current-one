@@ -83,6 +83,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |mhtc|
+
+       `MHTC transport data collection <http://www.mhtc.co.uk/>`_, UK (12.2016-12.2017)
+     -
    * - |bronze| |kela|
 
        `Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, Germany (12.2015-12.2017)
@@ -192,6 +196,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
        `2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2016)
 
+
+.. |mhtc| image:: /static/site/about/images/mhtc.png
+   :width: 100 px
 
 .. |opengeogroep| image:: /static/site/about/images/opengeogroep.png
    :width: 80 px
