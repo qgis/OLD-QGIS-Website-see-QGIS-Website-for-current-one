@@ -134,7 +134,7 @@ Years of experience in a single book─the official Quantum GIS Training Manual 
 Dutch
 =====
 
-QGIS on schools, QGIS Cartography and Game (QGIS op VO niveau – geografie studies – Cartografie op VO niveau – GISwijzer GO spel)
+QGIS at secondary level - Geography Studies - Cartography at secondary level - GISwijzer GO game
 
 * https://www.giswijzer.nl/?product=qgis-op-vo-niveau-geografie-studies-cartografie-op-vo-niveau-giswijzer-go-spel
 * Margit Stapel
