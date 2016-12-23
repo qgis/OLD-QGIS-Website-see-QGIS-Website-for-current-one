@@ -131,6 +131,14 @@ Years of experience in a single book─the official Quantum GIS Training Manual 
 * Author(s): Rüdiger Thiede, Tim Sutton, Horst Düster, and Marcelle Sutton 
 * Date: May 2013
 
+Dutch
+=====
+
+QGIS on schools, QGIS Cartography and Game (QGIS op VO niveau – geografie studies – Cartografie op VO niveau – GISwijzer GO spel)
+
+* https://www.giswijzer.nl/?product=qgis-op-vo-niveau-geografie-studies-cartografie-op-vo-niveau-giswijzer-go-spel
+* Margit Stapel
+* Date December 2016
 
 French
 ======
