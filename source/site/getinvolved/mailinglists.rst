@@ -9,7 +9,9 @@ We communicate on mailing lists divided by topics and target groups.
 Feel free to subscribe to any of these lists. Please remember to contribute to
 the list by answering questions and sharing your experiences.
 
-Please don't use these mailing lists to advertise your services or training courses. Use your local user group mailing lists to inform your local community about training offers.
+Please don't use these mailing lists to advertise your services or training courses.
+Use your local user group mailing lists to inform your local community about
+training offers.
 
 
 QGIS Users list
@@ -24,7 +26,9 @@ http://lists.osgeo.org/mailman/listinfo/qgis-user
 QGIS Developers list
 --------------------
 
-The main list for questions about the development of QGIS core or plugins
+The main list for questions about the development of QGIS core or plugins.
+You can discuss about coding, build process, chime in, collect and
+discuss QGIS related UX (User Experience) / usability issues.
 
 http://lists.osgeo.org/mailman/listinfo/qgis-developer
 
