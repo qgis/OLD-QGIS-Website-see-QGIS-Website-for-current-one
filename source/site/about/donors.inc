@@ -1052,7 +1052,7 @@
      - Hugo Timotheus Vreugdenhil
    * - Hugues Boisvert
      - Hui Zhang
-     - Hã©lã¨ne Dã©ry
+     - Hélène Déry
    * - Håvard Berg
      - Håvard Gåseidnes
      - Iain Paton
