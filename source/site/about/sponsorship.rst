@@ -83,6 +83,18 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |cadageo|
+
+       `CADaGEO <http://www.cadageo.com/>`_, France (01.2017-01.2018)
+     - |bronze| |geos_hellinge|
+
+       `GeoS Geodätische Software Andreas Hellinge <http://www.geos-hellinge.de/>`_, Germany (01.2017-01.2018)
+   * - |bronze| |mierune|
+
+       `Mierune LLC <http://www.mierune.co.jp/>`_, Japan (01.2017-01.2018)
+     - |bronze| |osgeo_jp|
+
+       `OSGeo.JP <http://www.osgeo.jp/>`_, Japan (01.2017-01.2018)
    * - |bronze| |mhtc|
 
        `MHTC transport data collection <http://www.mhtc.co.uk/>`_, UK (12.2016-12.2017)
@@ -198,6 +210,18 @@ goes into the project. These sponsors are listed below with our thanks!
 
        `2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2016)
 
+
+.. |cadageo| image:: /static/site/about/images/CADaGEO.png
+   :width: 110 px
+
+.. |osgeo_jp| image:: /static/site/about/images/osgeo_jp.png
+   :width: 110 px
+
+.. |mierune| image:: /static/site/about/images/MIERUNE.png
+   :width: 110 px
+
+.. |geos_hellinge| image:: /static/site/about/images/GeoS.png
+   :width: 90 px
 
 .. |gemeente_gouda| image:: /static/site/about/images/gemeente_gouda.png
    :width: 100 px
