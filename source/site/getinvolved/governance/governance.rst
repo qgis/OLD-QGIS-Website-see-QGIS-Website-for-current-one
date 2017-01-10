@@ -132,7 +132,7 @@ sites, blog, and mailing lists.
 Current Community Team Leaders:
 
 * Lene Fischer <lfi[at]ign.ku.dk> (community tasks)
-* Yves Jacoline <yjacolin[at]free.fr> (documentation)
+* Yves Jacolin <yjacolin[at]free.fr> (documentation)
 
 Find the list of documentation and website translators at:
 https://github.com/qgis/QGIS-Documentation
