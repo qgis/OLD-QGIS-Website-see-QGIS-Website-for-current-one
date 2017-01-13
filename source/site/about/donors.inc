@@ -1487,7 +1487,6 @@
      - Klaus König
    * - Klaus Sterzenbach
      - Klaus Weddeling
-     - Klaus Wedelling
    * - Klaus Werner
      - Knead To Relax
      - Kominote Project, Inc.
@@ -2721,3 +2720,26 @@
    * - 江 秋蓉
      - 田中 創平
      - 陳 國威
+   * - Klemens Werner Kauppert
+     - Nicola Polisciano
+     - Migual Cancio Jesus Silva
+   * - Alexander Wuensche
+     - Doddato Vito
+     - Günther Hack
+   * - Marreros Nelson
+     - Doddato Vito
+     - Günther Hack
+   * - Ismail Ouraich
+     - Yoichi Kayama
+     - Matthias Josef Amacher
+   * - Massimo Paone
+     - Csaba Ders
+     - Jonathan Geoffrey Webb
+   * - Dorothee Wibbing
+     - JPG Batoufflet
+     - Johannes Honold
+   * - V. Kuipers
+     - S. M. van Maastrigt-Pawiroredjo
+     - M. Gauthier Horth
+   * - Stefan Wallney
+     - Ulrich Schuler
