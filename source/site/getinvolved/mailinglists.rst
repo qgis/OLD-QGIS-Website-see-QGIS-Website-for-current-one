@@ -58,3 +58,11 @@ overall management and direction of QGIS.
 
 http://lists.osgeo.org/mailman/listinfo/qgis-psc
 
+QGIS Web Client 2
+-----------------
+
+This list is used to get help for setting up `QGIS Web Client 2 (QWC2) <https://github.com/qgis/qwc2-demo-app>`_
+and discuss future development of QWC2.
+
+http://lists.osgeo.org/mailman/listinfo/qgis-qwc2
+
