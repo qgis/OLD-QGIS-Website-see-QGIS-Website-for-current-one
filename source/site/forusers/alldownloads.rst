@@ -349,13 +349,12 @@ instructions can be found at: https://aur.archlinux.org/packages/?O=0&K=qgis
 MacOS X
 =======
 
-A single installer package is available for both OS X Lion (10.7) and Snow
-Leopard (10.6).
+A single installer package is available for Mountain Lion (10.7) and 
 
 QGIS stable
 -----------
 
-Installing QGIS stable in OS X requires separate installation of several
+Installing QGIS stable on MacOS requires separate installation of several
 `dependency frameworks <http://www.kyngchaos.com/software/frameworks>`_
 (GDAL Complete and GSL).
 GRASS http://www.kyngchaos.com/software/grass is supported with this version.
