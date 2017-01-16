@@ -349,7 +349,7 @@ instructions can be found at: https://aur.archlinux.org/packages/?O=0&K=qgis
 MacOS X
 =======
 
-A single installer package is available for Mountain Lion (10.7) and 
+A single installer package is available for Mountain Lion (10.7) and newer.
 
 QGIS stable
 -----------
