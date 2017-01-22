@@ -83,6 +83,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |vortex_energy|
+
+       `vortex energy Deutschland GmbH <https://vortex-energy-group.com/>`_, Germany (01.2017-01.2018)
+     - |bronze| |ib_kauppert|
+
+       `ingenieurbüro kauppert <http://www.ib-kauppert.de/>`_, Germany (01.2017-01.2018)
    * - |bronze| |cadageo|
 
        `CADaGEO <http://www.cadageo.com/>`_, France (01.2017-01.2018)
@@ -210,6 +216,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
        `2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2016)
 
+
+.. |vortex_energy| image:: /static/site/about/images/vortex_energy.png
+   :width: 120 px
+
+.. |ib_kauppert| image:: /static/site/about/images/ib_kauppert.png
+   :width: 100 px
 
 .. |cadageo| image:: /static/site/about/images/CADaGEO.png
    :width: 110 px
