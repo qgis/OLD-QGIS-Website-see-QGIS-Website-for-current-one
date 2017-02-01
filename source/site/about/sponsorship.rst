@@ -83,6 +83,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |SMPEPCE|
+
+       `SMPEPCE (Syndicat Mixte de Production d’Eau Potable de la Côte d’Emeraude) <http://www.syndicat-eau-cote-emeraude.fr/>`_, France (02.2017-02.2018)
+     - |bronze| |CityOfCanning|
+
+       `City of Canning <http://www.canning.wa.gov.au/>`_, Western Australia (01.2017-01.2018)
    * - |bronze| |vortex_energy|
 
        `vortex energy Deutschland GmbH <https://vortex-energy-group.com/>`_, Germany (01.2017-01.2018)
@@ -216,6 +222,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
        `2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2016)
 
+
+.. |SMPEPCE| image:: /static/site/about/images/SMPEPCE.png
+   :width: 120 px
+
+.. |CityOfCanning| image:: /static/site/about/images/CityOfCanning.png
+   :width: 90 px
 
 .. |vortex_energy| image:: /static/site/about/images/vortex_energy.png
    :width: 120 px
