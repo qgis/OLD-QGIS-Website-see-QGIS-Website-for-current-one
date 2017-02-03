@@ -222,22 +222,22 @@ goes into the project. These sponsors are listed below with our thanks!
 
 
 .. |SMPEPCE| image:: /static/site/about/images/SMPEPCE.png
-   :width: 120 px
+   :width: 140 px
 
 .. |CityOfCanning| image:: /static/site/about/images/CityOfCanning.png
-   :width: 90 px
+   :width: 80 px
 
 .. |vortex_energy| image:: /static/site/about/images/vortex_energy.png
-   :width: 120 px
+   :width: 130 px
 
 .. |ib_kauppert| image:: /static/site/about/images/ib_kauppert.png
-   :width: 100 px
+   :width: 110 px
 
 .. |cadageo| image:: /static/site/about/images/CADaGEO.png
    :width: 110 px
 
 .. |osgeo_jp| image:: /static/site/about/images/osgeo_jp.png
-   :width: 110 px
+   :width: 120 px
 
 .. |mierune| image:: /static/site/about/images/MIERUNE.png
    :width: 110 px
@@ -306,7 +306,7 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 90 px
 
 .. |cawdor_forestry| image:: /static/site/about/images/cawdor_forestry_logo.png
-   :width: 90 px
+   :width: 110 px
 
 .. |chameleon_john| image:: /static/site/about/images/chameleon-john-logo.png
    :width: 90 px
