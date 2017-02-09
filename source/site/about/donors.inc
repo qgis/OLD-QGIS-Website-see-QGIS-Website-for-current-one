@@ -1832,7 +1832,6 @@
      - Mauro Baglioni
    * - Mauro Mussin
      - Max Bensuaski
-     - Maximilian Krambach
    * - Maximilian Lohse
      - Maximilian Reuss
      - Maximilian Schäfer
