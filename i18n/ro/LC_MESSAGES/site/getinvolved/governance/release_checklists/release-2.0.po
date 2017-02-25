@@ -1,14 +1,15 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2013-2014
+# Richard Duivenvoorde <richard@duif.net>, 2016
+# Sorin Călinică <scalinica@gmail.com>, 2013-2014,2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-30 17:50+0000\n"
+"PO-Revision-Date: 2016-06-21 13:15+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
-"Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
+"Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,10 +19,6 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:2
 msgid "Checklist for QGIS Release 2.0"
 msgstr "Lista de verificare pentru QGIS Versiunea 2.0"
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:9
-msgid "Key Dates:"
-msgstr "Date cheie:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:11
 msgid "**1 April 2013** - Feature freeze - no new features in master."
@@ -223,7 +220,7 @@ msgstr "|checkbox_unchecked| Actualizare index.html pentru a reflecta versiunile
 msgid ""
 "|checkbox_unchecked| Check that cmake is deploying all headers required to "
 "build apps using libqgis_*"
-msgstr "|checkbox_unchecked| Verificați dacă cmake livrează toate anteturile necesare pentru construirea aplicațiilor care utilizează libqgis_ *"
+msgstr "|checkbox_unchecked| Verificați dacă cmake livrează toate anteturile necesare pentru construirea aplicațiilor care utilizează libqgis_*"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:80
 msgid ""
@@ -566,166 +563,156 @@ msgid ""
 "be sent out to encourage translators to get there work submitted.::"
 msgstr "Când se face apel la traducători, un e-mail bazat pe modelul de mai jos ar trebui să fie trimis pentru a încuraja actualizarea traducerilor.::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:244
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:245
 msgid "Branching and Tagging Details"
 msgstr "Detalii de ramificare și marcare"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:246
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:247
 msgid ""
 "Branch the release using syntax below (update this with the actual commands "
 "you used to branch).::"
 msgstr "Ramifică versiunea folosind sintaxa de mai jos (actualizați cu comenzile pe care le-ați utilizat la ramificare).::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:252
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:253
 msgid "Tag the release using a signed tag::"
 msgstr "Marcați versiunea folosind o etichetă semnată::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:259
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:260
 msgid "Bug Tracker System"
 msgstr "Sistemul de Urmărire a Erorilor"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:261
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:262
 msgid ""
 "All bugs that are intended to have been fixed in this release should have "
 "been marked as closed. All other bugs on the release branch should be marked"
 " for a future release. To do this:"
 msgstr "Toate erorile care trebuiau eliminate în această versiune ar trebui să fi fost marcate ca închise. Toate celelalte erori de pe ramura de lansare trebuie să fie marcate pentru o versiune viitoare. Pentru a face acest lucru:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:265
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:266
 msgid ""
 "create a new milestone and version e.g. we are releasing 2.0.0 now so create"
 " a new milestone in redmine for 2.0.0. Create the milestone here:"
 msgstr "creați un nou punct de referință; având în vedere că urmează lansarea versiunii 2.0.0. creați acest punct de referință în Redmine. Faceți acest lucru aici:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:268
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:269
 msgid ""
 "Now you need to update each open bug on the branch and reset its milestone "
 "for the next release in the future. This can be done easily doing a batch "
 "update in redmine."
 msgstr "Acum, trebuie să actualizați fiecare eroare deschisă pe ramură și să resetați punctele de referință pentru următoarea lansare. Aceasta se poate face cu ușurință printr-o modificare în lot, în Redmine."
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:274
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:275
 msgid "Create the source tarball"
 msgstr "Creați pachetul tar al sursei"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:276
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:277
 msgid "This is best achieved by running this little script::"
 msgstr "Acest lucru se realizează cel mai bine prin rularea acestui mic script ::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:286
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:287
 msgid "Generate the changelog"
 msgstr "Generarea jurnalului schimbărilor"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:288
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:289
 msgid "TODO: Add details here on how to generate the changelog."
 msgstr "DE EFECTUAT: Adăugare detalii cu privire la modul de generare a jurnalului schimbărilor."
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:292
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:293
 msgid "Pro-forma call for packaging announcement"
 msgstr "Modelul de anunț pentru cererea de împachetare"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:294
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:295
 msgid "mail::"
 msgstr "mail::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:357
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:361
 msgid "Windows Binary upload"
 msgstr "Încărcați binarul pentru Windows"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:359
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:363
 msgid "Put the binary onto the server::"
 msgstr "Puneți binarele pe server::"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:365
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:369
 msgid "Now do a virus check on it. First make a note of the url:"
 msgstr "Efectuați o verificare antivirus. Mai întâi notați URL-ul:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:367
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:371
 msgid "http://download.osgeo.org/qgis/win32/QGIS-2.0.0-0-No-GrassSetup.exe"
 msgstr "http://download.osgeo.org/qgis/win32/QGIS-2.0.0-0-No-GrassSetup.exe"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:369
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:373
 msgid ""
 "Now go to GarysHood online virus checker or similar to double check the "
 "binary is virus free:"
 msgstr "Acum, mergeți la antivirusul on-line, GarysHood, sau similar, pentru a re-verifica lipsa virușilor:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:372
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:376
 msgid "`Gary Shood Virus Checker <http://www.garyshood.com/virus/>`_"
 msgstr "`Gary Shood Virus Checker <http://www.garyshood.com/virus/>`_"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:376
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:380
 msgid "Announcing the release"
 msgstr "Anunțați lansarea"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:379
-msgid "Note you can get stats for the previous release like with \"awstats\":"
-msgstr "Notă: puteți obține statistici pentru versiunea precedentă cu \"awstats\":"
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:379
-msgid ""
-"http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-"
-"OSGeo4W-2.0.0-.*-Setup.exe&urlfilterex=&output=urldetail&config=qgis&framename=mainright&month=all&year=2011"
-msgstr "http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-OSGeo4W-2.0.0-.*-Setup.exe&urlfilterex=&output=urldetail&config=qgis&framename=mainright&month=all&year=2011"
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:382
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:387
 msgid "IRC TOPIC update"
 msgstr "Actualizare TOPIC IRC"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:384
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:389
 msgid "Tim or Gary can update the IRC topic using this procedure:"
 msgstr "Tim sau Gary pot actualiza topicul IRC folosind această procedură:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:392
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:397
 msgid "Update Version Text File"
 msgstr "Actualizați versiunea fișierului text"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:394
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:399
 msgid ""
 "The file accessed from the :menuselection:`Help --> Check QGIS Version` menu"
 " is located at http://qgis.org/version.txt. This should be updated to "
 "reflect the current release."
 msgstr "Fișierul accesat din meniul :menuselection:`Help --> Check QGIS Version` este găzduit la http://qgis.org/version.txt. Acesta ar trebui să fie actualizat pentru a reflecta versiunea curentă."
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:399
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:404
 msgid "Create an announcement template"
 msgstr "Creați un model pentru anunț"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:401
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:406
 msgid ""
 "An announcement template will save you retypping the same text at the "
 "various places of announcement. The following text can be used as a basis:"
 msgstr "Folosirea unui model de anunț va evita scrierea aceluiași text în diferite locuri. Următorul text poate fi folosit ca și bază:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:406
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:411
 msgid "A Generic release subject"
 msgstr "Un subiect generic al versiunii"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:414
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:419
 msgid "A generic 20 word summary"
 msgstr "Un rezumat generic de 20 cuvinte"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:423
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:428
 msgid "A mailing list announcement"
 msgstr "Un anunț pe lista de discuții"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:442
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:447
 msgid "A word of thanks to our contributors, donors and sponsors"
 msgstr "Un cuvânt de mulțumire pentru colaboratorii, donatorii și sponsorii noștri"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:479
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:486
 msgid "Visual tour of the new release:"
 msgstr "Tur vizual al noii versiuni:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:490
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:497
 msgid "New features with this release:"
 msgstr "Noile caracteristici ale acestei versiuni:"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:501
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:508
 msgid "A generic product description"
 msgstr "O descriere generală a produsului"
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:515
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:522
 msgid "A generic features list"
 msgstr "O listă de funcționalități generice"
 
@@ -862,6 +849,25 @@ msgstr "Slackware 13.0"
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:150
 msgid "Source @ qgis.org/downloads/"
 msgstr "Source @ qgis.org/downloads/"
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:9
+msgid "Key Dates"
+msgstr "Date Importante"
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:382
+msgid "Note you can get stats for the previous release like with \"awstats\"::"
+msgstr "Rețineți că puteți obține statistici pentru versiunea precedentă, similar cu \"awstats\"::"
+
+#~ msgid "Key Dates:"
+#~ msgstr ""
+
+#~ msgid "Note you can get stats for the previous release like with \"awstats\":"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-"
+#~ "OSGeo4W-2.0.0-.*-Setup.exe&urlfilterex=&output=urldetail&config=qgis&framename=mainright&month=all&year=2011"
+#~ msgstr ""
 
 #~ msgid "Source @ qgis.org/dowloads/"
 #~ msgstr ""

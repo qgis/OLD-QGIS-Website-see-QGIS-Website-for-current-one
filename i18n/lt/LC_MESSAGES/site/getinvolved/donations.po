@@ -6,24 +6,27 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-03-15 09:13+0000\n"
-"Last-Translator: Tomas Straupis\n"
-"Language-Team: Lithuanian (http://www.transifex.com/projects/p/qgis-website/language/lt/)\n"
+"PO-Revision-Date: 2016-06-21 12:25+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: ../../source/site/getinvolved/donations.rst:9
-msgid "QGIS Donations"
-msgstr "QGIS parama"
-
 #: ../../source/site/getinvolved/donations.rst:5
 msgid ""
 "Content is not used, it is overridden by themes/qgis-"
 "theme/getinvolved_donations.html."
 msgstr "Turinys nenaudojamas, jis perrašomas iš themes/qgis-theme/getinvolved_donations.html."
+
+#: ../../source/site/getinvolved/donations.rst:9
+msgid "Donations"
+msgstr ""
+
+#~ msgid "QGIS Donations"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Content is not used, it is overridden by themes/qgis-"

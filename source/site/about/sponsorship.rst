@@ -1,7 +1,7 @@
 .. _QGIS-sponsoring:
 
-Supporting QGIS
-===============
+Sponsors and Donors
+===================
 
 We thank our sponsors and donors who support the QGIS project and enable us to pay
 for our infrastructure and important development work, as well as finance developer
@@ -30,179 +30,361 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. Gold sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
-|gold|
-|aas_long|
+.. list-table:: Gold sponsors
 
-`ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, Japan (11.2012-10.2015)
+   * - |gold| |qgis-ch|
+       `QGIS user group Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2017)
 
-.. |aas_long| image:: /static/site/about/images/aas_long.png
-   :width: 300 px
+.. |qgis-ch| image:: /static/site/about/images/qgis-ch.png
+   :width: 200 px
 
 .. Silver sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
 .. list-table:: Silver sponsors
 
-   * - |silver| |agh|
+   * - |silver| |gaia|
+       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2017)
 
-       `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
-     - |silver| |vorarlberg|
+   * - |silver| |osgeo_uk|
+       `OSGEO:UK <http://www.osgeo.org/uk/>`_, UK (12.2016-12.2017)
 
-       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-05.2016)
+   * - |silver| |artogis|
+       `ARTOGIS a/s <http://www.artogis.dk/>`_, Denmark (11.2016-11.2017)
+
+   * - |silver| |qgis-de|
+       `QGIS user group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2017)
+
+   * - |silver| |vorarlberg|
+       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-06.2017)
+
    * - |silver| |opw|
+       `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2016)
 
-       `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2015)
-     - |silver| |sourcepole|
+.. |osgeo_uk| image:: /static/site/about/images/osgeo_uk.png
+   :width: 175 px
 
-       `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2015)
+.. |qgis-de| image:: /static/site/about/images/qgis-de-logo.png
+   :width: 120 px
 
-.. |agh| image:: /static/site/about/images/agh.png
-   :width: 90 px
+.. |vorarlberg| image:: /static/site/about/images/land_f.jpg
+   :width: 175 px
 
 .. |opw| image:: /static/site/about/images/opw.jpg
    :width: 150 px
 
-.. |sourcepole| image:: /static/site/about/images/sourcepole.png
+.. |artogis| image:: /static/site/about/images/artogis.png
+   :width: 185 px
+
+.. |gaia| image:: /static/site/about/images/gaia.png
    :width: 150 px
 
-.. |vorarlberg| image:: /static/site/about/images/land_f.jpg
-   :width: 150 px
 
 .. Bronze sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
 .. list-table:: Bronze sponsors
 
-   * - |bronze| |whg|
+   * - |bronze| |SMPEPCE|
 
-       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2015-08.2016)
-     - |bronze| |npa|
+       `SMPEPCE (Syndicat Mixte de Production d’Eau Potable de la Côte d’Emeraude) <http://www.syndicat-eau-cote-emeraude.fr/>`_, France (02.2017-02.2018)
+     - |bronze| |cawdor_forestry|
 
-       `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
-   * - |bronze| |qpolska|
+       `CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, Scotland (02.2016-02.2018)
+   * - |bronze| |CityOfCanning|
 
-       `QGIS Poland <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
-     - |bronze| |terrelogiche|
+       `City of Canning <http://www.canning.wa.gov.au/>`_, Western Australia (01.2017-01.2018)
+     - |bronze| |osgeo_jp|
 
-       `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2016)
-   * - |bronze| |geosynergy|
+       `OSGeo.JP <http://www.osgeo.jp/>`_, Japan (01.2017-01.2018)
+   * - |bronze| |vortex_energy|
 
-       `www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (05.2012-05.2013+06.2015-06-2016)
-     - |bronze| |gaia3d|
+       `vortex energy Deutschland GmbH <https://vortex-energy-group.com/>`_, Germany (01.2017-01.2018)
+     - |bronze| |ib_kauppert|
 
-       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2016)
+       `ingenieurbüro kauppert <http://www.ib-kauppert.de/>`_, Germany (01.2017-01.2018)
+   * - |bronze| |cadageo|
+
+       `CADaGEO <http://www.cadageo.com/>`_, France (01.2017-01.2018)
+     - |bronze| |geos_hellinge|
+
+       `GeoS Geodätische Software Andreas Hellinge <http://www.geos-hellinge.de/>`_, Germany (01.2017-01.2018)
+   * - |bronze| |mierune|
+
+       `Mierune LLC <http://www.mierune.co.jp/>`_, Japan (01.2017-01.2018)
+     - |bronze| |2d3dgis|
+
+       `2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2017)
+   * - |bronze| |gemeente_gouda|
+
+       `Gemeente Gouda <http://www.gouda.nl/>`_, Netherlands (01.2017-01.2018)
+     - |bronze| |mhtc|
+
+       `MHTC transport data collection <http://www.mhtc.co.uk/>`_, UK (12.2016-12.2017)
+   * - |bronze| |kela|
+
+       `Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, Germany (12.2015-12.2017)
+     - |bronze| |opengeogroep|
+
+       `OpenGeoGroep <http://www.opengeogroep.nl/>`_, Netherlands (12.2016-12.2017)
+   * - |bronze| |pixalytics|
+
+       `Pixalytics <http://www.pixalytics.com/>`_, UK (11.2016-11.2017)
+     - |bronze| |solargis|
+
+       `Solargis <http://solargis.com/>`_, Slovak Republic (12.2016-12.2017)
+   * - |bronze| |mappinggis|
+
+       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2017)
+     - |bronze| |alta|
+
+       `Alta ehf <http://www.alta.is/>`_, Iceland (11.2016-11.2017)
+   * - |bronze| |sourcepole|
+
+       `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (11.2016-11.2017; 10.2014-10.2016: silver level)
+     - |bronze| |urbsol|
+
+       `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2017)
+   * - |bronze| |qgis-dk|
+
+       `QGIS user group Denmark <http://www.qgis.dk/>`_, Denmark (10.2015-10.2017)
+     - |bronze| |septima|
+
+       `Septima <http://www.septima.dk/>`_, Denmark (10.2016-10.2017)   
+   * - |bronze| |lutra|
+
+       `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2017)
+     - |bronze| |whg|
+
+       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)   
+   * - |bronze| |terrelogiche|
+
+       `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2017)
+     - |bronze| |qgis-pt|
+
+       `QGIS user group Portugal <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)   
+   * - |bronze| |ncc|
+
+       `NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)
+     - |bronze| |soltig|
+
+       `SOLTIG (Soluciones en Tecnologías de Información Geográfica) <http://www.soltig.net/>`_, Costa Rica (06.2016-06.2017)
+   * - |bronze| |gaia3d|
+
+       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2017)
+     - |bronze| |gepol|
+
+       `GEPOL <http://www.gepol.com.pl/>`_, Poland (04.2016-04.2017)
    * - |bronze| |windsor|
 
-       `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2016)
-     - |bronze| |chartwell|
-
-       `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2016)
-   * - |bronze| |tragewegen|
-
-       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2016)
+       `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2017)
      - |bronze| |gfi|
 
-       `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (03.2015-03.2016)
-   * - |bronze| |claasleinert|
+       `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (04.2015-04.2017)
+   * - |bronze| |teaching_jobs_with_footprints|
 
-       `GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Germany (03.2014-03.2016)
-     - |bronze| |gis_supp|
+       `Teaching Jobs with Footprints <http://www.footprintsrecruiting.com/teaching-jobs-abroad>`_, Canada (04.2016-04-2017)
+     - |bronze| |fornat_ag|
 
-       `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-02.2016)
-   * - |bronze| |adlares|
+       `FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2014-04.2017)
+   * - |bronze| |national_parks_uk|
 
-       `ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
+       `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2017)
+     - |bronze| |kbb_underground|
+
+       `KBB Underground Technologies <http://www.kbbnet.de/en/>`_, Germany (03.2014-03.2017)
+   * - |bronze| |bgeo|
+
+       `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2017)
+     - |bronze| |ager_technology|
+
+       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2017)
+   * - |bronze| |geoinnova|
+
+       `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2017)
+     - |bronze| |claasleinert|
+
+       `GKG Kassel (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2017)
+   * - |bronze| |gis_supp|
+
+       `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2017)
      - |bronze| |molitec|
 
-       `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)
-   * - |bronze| |argus|
+       `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-03.2017)
+   * - |bronze| |chartwell|
 
-       `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
-     - |bronze| |canal|
+       `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2017)
+     - |bronze| |tragewegen|
 
-       `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
-   * - |bronze| |avioportolano|
-
-       `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
-     - |bronze| |wggios|
-
-       `Faculty of Geology, Geophysics and Environmental Protection, AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Poland (11.2014-11.2015)
-   * - |bronze| |urbsol|
-
-       `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2015)
-     - |bronze| |mappinggis|
-
-       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2015)
+       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2017)
    * - |bronze| |gis3w|
 
-       `GIS3W <http://www.gis3w.it/>`_, Italy (10.2014-10.2015)
-     - |bronze| |lutra|
+       `Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-01.2017)
+     - 
 
-       `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (09.2014-09.2015)
 
-.. |whg| image:: /static/site/about/images/whg.jpg
+.. |SMPEPCE| image:: /static/site/about/images/SMPEPCE.png
+   :width: 140 px
+
+.. |CityOfCanning| image:: /static/site/about/images/CityOfCanning.png
+   :width: 80 px
+
+.. |vortex_energy| image:: /static/site/about/images/vortex_energy.png
+   :width: 130 px
+
+.. |ib_kauppert| image:: /static/site/about/images/ib_kauppert.png
+   :width: 110 px
+
+.. |cadageo| image:: /static/site/about/images/CADaGEO.png
+   :width: 110 px
+
+.. |osgeo_jp| image:: /static/site/about/images/osgeo_jp.png
+   :width: 120 px
+
+.. |mierune| image:: /static/site/about/images/MIERUNE.png
+   :width: 110 px
+
+.. |geos_hellinge| image:: /static/site/about/images/GeoS.png
    :width: 90 px
 
+.. |gemeente_gouda| image:: /static/site/about/images/gemeente_gouda.png
+   :width: 100 px
+
+.. |mhtc| image:: /static/site/about/images/mhtc.png
+   :width: 95 px
+
+.. |opengeogroep| image:: /static/site/about/images/opengeogroep.png
+   :width: 80 px
+
+.. |solargis| image:: /static/site/about/images/solargis.png
+   :width: 125 px
+
+.. |pixalytics| image:: /static/site/about/images/pixalytics.png
+   :width: 120 px
+
+.. |alta| image:: /static/site/about/images/alta.png
+   :width: 110 px
+
+.. |sourcepole| image:: /static/site/about/images/sourcepole.png
+   :width: 130 px
+
+.. |septima| image:: /static/site/about/images/septima.png
+   :width: 110 px
+   
+.. |qgis-dk| image:: /static/site/about/images/qgis-dk.png
+   :width: 90 px
+
+.. |qgis-pt| image:: /static/site/about/images/qgis-pt.png
+   :width: 90 px
+
+.. |soltig| image:: /static/site/about/images/soltig.png
+   :width: 110 px
+
+.. |ncc| image:: /static/site/about/images/ncc-logo.png
+   :width: 90 px
+
+.. |gepol| image:: /static/site/about/images/gepol_logo.png
+   :width: 110 px
+
+.. |fornat_ag| image:: /static/site/about/images/fornat_logo.png
+   :width: 100 px
+
+.. |teaching_jobs_with_footprints| image:: /static/site/about/images/teaching_jobs_with_footprints.png
+   :width: 100 px
+
+.. |national_parks_uk| image:: /static/site/about/images/NationalParksUK_logo.jpg
+   :width: 90 px
+
+.. |kbb_underground| image:: /static/site/about/images/KBB_Underground_Technologies_logo.jpg
+   :width: 90 px
+
+.. |ager_technology| image:: /static/site/about/images/ager_technology_logo.png
+   :width: 90 px
+
+.. |bgeo| image:: /static/site/about/images/bgeo.png
+   :width: 90 px
+
+.. |geoinnova| image:: /static/site/about/images/geoinnova.jpg
+   :width: 90 px
+
+.. |cawdor_forestry| image:: /static/site/about/images/cawdor_forestry_logo.png
+   :width: 110 px
+
+.. |chameleon_john| image:: /static/site/about/images/chameleon-john-logo.png
+   :width: 90 px
+
+.. |kela| image:: /static/site/about/images/kela.png
+   :width: 90 px
+
+.. |hfacts| image:: /static/site/about/images/hfacts.png
+   :width: 90 px
+
+.. |whg| image:: /static/site/about/images/whg.jpg
+   :width: 110 px
+
 .. |npa| image:: /static/site/about/images/npa.jpg
-   :width: 64 px
+   :width: 75 px
 
 .. |qpolska| image:: /static/site/about/images/qpolska.png
    :width: 64 px
 
 .. |terrelogiche| image:: /static/site/about/images/terrelogiche.jpg
-   :width: 64 px
+   :width: 90 px
 
 .. |geosynergy| image:: /static/site/about/images/geosynergy.jpg
    :width: 90 px
 
 .. |gaia3d| image:: /static/site/about/images/gaia3d.png
-   :width: 64 px
-
-.. |windsor| image:: /static/site/about/images/windsor.png
    :width: 90 px
 
+.. |windsor| image:: /static/site/about/images/windsor.png
+   :width: 140 px
+
 .. |chartwell| image:: /static/site/about/images/chartwell.png
-   :width: 64 px
+   :width: 90 px
 
 .. |tragewegen| image:: /static/site/about/images/tragewegen.png
-   :width: 64 px
+   :width: 90 px
 
 .. |gfi| image:: /static/site/about/images/gfi.png
-   :width: 64 px
+   :width: 90 px
 
 .. |claasleinert| image:: /static/site/about/images/claasleiner.png
-   :width: 64 px
+   :width: 90 px
 
 .. |gis_supp| image:: /static/site/about/images/gis_supp.png
    :width: 64 px
 
 .. |adlares| image:: /static/site/about/images/adlares.png
-   :width: 64 px
+   :width: 90 px
 
 .. |molitec| image:: /static/site/about/images/molitec.png
-   :width: 64 px
+   :width: 90 px
 
 .. |argus| image:: /static/site/about/images/argus.jpg
-   :width: 64 px
+   :width: 90 px
 
 .. |canal| image:: /static/site/about/images/canal.png
-   :width: 64 px
+   :width: 90 px
 
 .. |avioportolano| image:: /static/site/about/images/avioportolano.png
-   :width: 64 px
+   :width: 90 px
 
 .. |wggios| image:: /static/site/about/images/wggios.png
-   :width: 64 px
+   :width: 90 px
 
 .. |urbsol| image:: /static/site/about/images/urbsol.png
-   :width: 64 px
+   :width: 90 px
 
 .. |mappinggis| image:: /static/site/about/images/mappinggis.png
-   :width: 64 px
+   :width: 75 px
+
+.. |2d3dgis| image:: /static/site/about/images/2d3dgis.png
+   :width: 75 px
 
 .. |gis3w| image:: /static/site/about/images/gis3w.png
-   :width: 64 px
+   :width: 75 px
 
 .. |lutra| image:: /static/site/about/images/lutra_consulting.png
-   :width: 64 px
+   :width: 100 px
 
 List of past sponsors
 ---------------------
@@ -223,33 +405,64 @@ Italian).
    :align: left
 
 Also `OSGeo <http://www.osgeo.org/>`_ is partly supporting our HackFests: 2012.10
-in Essen, Germany, and 2013.04 in Valmiera, Latvia.
+in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 ----
 
+.. list-table:: Past gold sponsors
+
+  * - |gold| |aas_long|
+
+      `ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, Japan (11.2012-10.2015)
+
+.. |aas_long| image:: /static/site/about/images/aas_long.png
+   :width: 160 px
+
 .. list-table:: Past silver sponsors
+
+  * - |silver| |agh|
+      `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
 
   * - |silver| |sogis|
 
       `Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013 and 04.2011-04.2012)
-  * - |silver| |gaia|
 
-      `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (06.2013-06.2014)
-  * - |silver| |vorarlberg2|
-
-      `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-11.2012)
+.. |agh| image:: /static/site/about/images/agh.png
+   :width: 90 px
 
 .. |sogis| image:: /static/site/about/images/sogis.gif
-   :width: 100 px
+   :width: 110 px
 
-.. |gaia| image:: /static/site/about/images/gaia.png
-   :width: 100 px
+.. |gaiasilver| image:: /static/site/about/images/gaia.png
+   :width: 120 px
 
 .. |vorarlberg2| image:: /static/site/about/images/land_f.jpg
-   :width: 100 px
+   :width: 120 px
 
-.. list-table:: Past bronze sponsors
+.. list-table:: Past Bronze sponsors
 
+  * - |bronze| |qpolska|
+
+      `QGIS user group Poland <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
+    -
+  * - |bronze| |geosynergy|
+
+      `Geosynergy <www.geosynergy.com.au>`_, Australia (05.2012-05.2013+06.2015-06-2016)
+    - |bronze| |npa|
+
+      `Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.2015-07.2016)
+  * - |bronze| |argus|
+
+      `www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + 12.2013-12.2015)
+    - |bronze| |adlares|
+
+      `ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)
+  * - |bronze| |avioportolano|
+
+      `Avioportolano Italia <http://www.avioportolano.it/>`_, Italy (11.2014-11.2015)
+    - |bronze| |canal|
+
+      `Customer Analytics <http://www.customeranalytics.com/>`_, USA (12.2014-12.2015)
   * - |bronze| |openrunner|
 
       `www.openrunner.com <http://www.openrunner.com/>`_, France (05.2014-05.2015)
@@ -271,37 +484,40 @@ in Essen, Germany, and 2013.04 in Valmiera, Latvia.
   * - |bronze| |nextgis|
 
       `NextGIS <http://nextgis.org/>`_, Russia (03.2010-03.2011)
-    - 
+    -
 
 .. |openrunner| image:: /static/site/about/images/openrunner.png
-   :width: 48 px
+   :width: 90 px
 
 .. |fossgisev| image:: /static/site/about/images/fossgisev.png
-   :width: 48 px
+   :width: 90 px
 
 .. |ibw_bzwm| image:: /static/site/about/images/ibw_bzwm.png
-   :width: 48 px
+   :width: 90 px
 
 .. |uster| image:: /static/site/about/images/uster.gif
-   :width: 48 px
+   :width: 90 px
 
 .. |municipia| image:: /static/site/about/images/municipia.jpg
-   :width: 48 px
+   :width: 90 px
 
 .. |gfosservices| image:: /static/site/about/images/gfosservices.jpg
-   :width: 48 px
+   :width: 90 px
 
 .. |nextgis| image:: /static/site/about/images/nextgis.gif
-   :width: 48 px
+   :width: 90 px
 
 List of donors
 --------------
 
-Donations can be of any amount, via the Paypal button on the frontpage, or through our bank account (write
-us for details: cavallini at faunalia dot it). Even a small donation can make a
-difference and help to reach important project goals!
+Donations can be of any amount, via Paypal or through our bank account
+(information available at :ref:`Donations <QGIS-donations>` page).
+Even a small donation can make a difference and help to reach important project goals!
 
 If you wish to send us a larger donation, you are strongly encouraged to use the
 bank account rather than PayPal.
+
+Donations to QGIS are tax-deductible in several countries.
+Please refer to your local tax office for details.
 
 .. include:: donors.inc

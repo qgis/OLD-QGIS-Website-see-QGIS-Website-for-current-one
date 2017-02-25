@@ -7,20 +7,17 @@ For Users
     here we put a toctree just to have these pages in a toc, thereby in the tocbar
 
 .. toctree::
-    :maxdepth: 4
+    :maxdepth: 3
 
-    visualchangelog210/index
-    visualchangelog28/index
-    visualchangelog260/index
-    visualchangelog240/index
-    visualchangelog220/index
-    visualchangelog200/index
+
     download
-    ../../docs/index
+    visualchangelogs
     trainingmaterial/index
     support
+    usergroups
     commercial_support
-    QGIS Plugins <http://plugins.qgis.org/plugins/>
+    Plugins <http://plugins.qgis.org/plugins/>
+    books/index
 
 .. note::
 

@@ -6,63 +6,78 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-01-01 20:05+0000\n"
-"Last-Translator: Preben Lisby <preben.lisby@gmail.com>\n"
-"Language-Team: Danish (http://www.transifex.com/projects/p/qgis-website/language/da/)\n"
+"PO-Revision-Date: 2016-06-21 12:23+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Danish (http://www.transifex.com/qgis/qgis-website/language/da/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: da\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/about/screenshots.rst:8
-msgid "QGIS Screenshots"
-msgstr "QGIS Screenshots"
-
-#: ../../source/site/about/screenshots.rst:23
-msgid "Below are some maps created with QGIS."
-msgstr "Herunder er nogle kort, dannet med QGIS."
-
-#: ../../source/site/about/screenshots.rst:25
-msgid ""
-"These maps come from the `QGIS maps - Flickr Group "
-"<http://www.flickr.com/groups/qgis/pool/>`_."
-msgstr "Disse kort kommer fra `QGIS maps - Flickr Group <http://www.flickr.com/groups/qgis/pool/>`_."
-
-#: ../../source/site/about/screenshots.rst:27
+#: ../../source/site/about/screenshots.rst:14
 msgid ""
 "Map makers show off their creativity and the map making capabilities of "
 "QGIS:"
 msgstr "Kortskabere viser deres kreativitet og de kortskabende kapabiliteter i QGIS:"
 
-#: ../../source/site/about/screenshots.rst:29
+#: ../../source/site/about/screenshots.rst:16
 msgid "Click on an image to see author and more information about the maps."
 msgstr "Klik på et billede for at se forfatter og mere information om kortet."
 
-#: ../../source/site/about/screenshots.rst:10
+#: ../../source/site/about/screenshots.rst:27
 msgid ""
 "Below are some screenshots from QGIS itself and a selection of Maps which "
 "are created with QGIS."
 msgstr "Nedenfor er nogle screenshots fra selve QGIS og et udvalg af kort som er skabt med QGIS."
 
-#: ../../source/site/about/screenshots.rst:13
+#: ../../source/site/about/screenshots.rst:30
 msgid ""
 "These screenshots come from the `QGIS screenshots - Flickr Group "
 "<http://www.flickr.com/groups/qgis-screenshots/>`_. Click on an image to "
 "view more information."
 msgstr "Disse screenshots kommer fra `QGIS screenshots - Flickr Group <http://www.flickr.com/groups/qgis-screenshots/>`_. Klik på et billede for at se mere information."
 
-#: ../../source/site/about/screenshots.rst:17
+#: ../../source/site/about/screenshots.rst:34
 msgid ":raw-html:`<p id=\"qgisflickrscreenshotsatom\">&nbsp;</p>`"
 msgstr ":raw-html:`<p id=\"qgisflickrscreenshotsatom\">&nbsp;</p>`"
 
-#: ../../source/site/about/screenshots.rst:21
-msgid "QGIS created Maps"
-msgstr "Kort skabt i QGIS"
-
-#: ../../source/site/about/screenshots.rst:32
+#: ../../source/site/about/screenshots.rst:19
 msgid ":raw-html:`<p id=\"qgisflickrmapsatom\">&nbsp;</p>`"
 msgstr ":raw-html:`<p id=\"qgisflickrmapsatom\">&nbsp;</p>`"
+
+#: ../../source/site/about/screenshots.rst:22
+msgid ":raw-html:`<p style=\"clear:both\">&nbsp;</p>`"
+msgstr ""
+
+#: ../../source/site/about/screenshots.rst:9
+msgid "Map Examples"
+msgstr ""
+
+#: ../../source/site/about/screenshots.rst:11
+msgid ""
+"Here you can find a selection of maps created with QGIS. These maps come "
+"from the `QGIS maps - Flickr Group "
+"<http://www.flickr.com/groups/qgis/pool/>`_."
+msgstr ""
+
+#: ../../source/site/about/screenshots.rst:25
+msgid "Screenshots"
+msgstr ""
+
+#~ msgid "QGIS Screenshots"
+#~ msgstr ""
+
+#~ msgid "Below are some maps created with QGIS."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "These maps come from the `QGIS maps - Flickr Group "
+#~ "<http://www.flickr.com/groups/qgis/pool/>`_."
+#~ msgstr ""
+
+#~ msgid "QGIS created Maps"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Below are some screenshots from QGIS itself, and some of Maps which are "

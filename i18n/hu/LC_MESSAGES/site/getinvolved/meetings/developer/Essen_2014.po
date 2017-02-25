@@ -1,0 +1,256 @@
+# 
+# Translators:
+# Zoltan Siki <siki@agt.bme.hu>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-07 15:40+0200\n"
+"PO-Revision-Date: 2016-03-20 20:05+0000\n"
+"Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
+"Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:3
+msgid "12th QGIS Developer Meeting in Essen"
+msgstr "12. QGIS fejlesztő találkozó Essenben"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:5
+msgid ""
+"The 12th QGIS Developer Meeting from 02 - 05 October 2014 was organised by "
+"`Geoinformatikbüro Dassau <http://www.gbd-consult.de>`_ and held for the "
+"second time at the `Linuxhotel <http://www.linuxhotel.de/>`_ in Essen, "
+"Germany. The Linuxhotel provided the venue, internet, accommodation and "
+"breakfast with very moderate conditions. It is a wonderful place and we are "
+"extremely grateful to them for organising and helping us to make the whole "
+"event went very smoothly."
+msgstr "A 2014. október 02-05. közötti 12. QGIS fejlesztői találkozót a `Geoinformatikbüro Dassau <http://www.gbd-consult.de>`_ szervezte és másodszor rendezték a németországi Essenben a  `Linuxhotelben <http://www.linuxhotel.de/>`_. A Linuxhotel biztosította a helyszínt, az internetet, a szállást és a reggelit kedvező feltételek között. Ez egy nagyon csodálatos hely és nagyon hálásak vagyunk nekik a szervezésért, a segítségért, hogy az egész rendezvény nagyon simán ment."
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:7
+msgid ""
+"We also want to thank our gold sponsor `ASIA AIR SURVEY "
+"<http://www.asiaairsurvey.com/>`_, our silver sponsors `G.A.I.A. mbH "
+"<http://www.gaia-mbh.de>`_, and `State of Vorarlberg "
+"<http://www.vorarlberg.at/>`_, the German `FOSSGIS e.V. "
+"<http://www.fossgis.de/>`_ for sponsoring this event explicitly with 1500 "
+"Euros and the many people who have donated sums large and small to the QGIS "
+"project."
+msgstr "Az arany szponzorunknak  `ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, az ezüst szponzorainknak `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, és `State of Vorarlberg <http://www.vorarlberg.at/>`_, a német `FOSSGIS e.V.-nek <http://www.fossgis.de/>`_ szeretnénk köszönetet mondani az esemény 1500 eurós támogatásáért és a sok embernek akik kisebb-nagyobb összegekkel támogatták a QGIS projektet."
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:9
+msgid ""
+"The money from donations was put to very good use funding the travel, "
+"accomodation and eating of most of the participants of the developer "
+"meeting. We would like to thank the virtual particpants present on IRC, the "
+"developer meeting was all the better for having your comments, testing and "
+"insights."
+msgstr "Az adományokból származó összegeknek nagyon jó hasznát vettük a fejlesztői találkozó részvevőinek az utazás, szállás és az étkezés költségeinek a finanszírozásában. Köszönetet szeretnénk mondani a virtuális IRC részvevőknek, a fejlesztői találkozó jobb volt a megjegyzéseitől, a tesztelésétől."
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:15
+msgid "Summary of what happened at the hackfest"
+msgstr "Összefoglaló a hackfesten történtekről"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:17
+msgid ""
+"Firstly we should mention, that the greatest part of the time was spent in "
+"discussions. Meeting face to face gives us an opportunity to discuss the "
+"minutae of the project in a way that is imply not possible in our virtual "
+"discussions. The discussions also gave us a good chance to plan what should "
+"be the priorities after the major release of QGIS 2.6. More details on that "
+"further down. We had 35 people attending (most could attend for the full "
+"duration). They have been working on a wide variety of topics, e.g.:"
+msgstr "Elsőként kell említenünk, hogy az idő legnagyobb részét megbeszélésekkel töltöttük. A személyes találkozás lehetőséget adott a projekt kisebb részleteinek megbeszélésére oly módon, mely a virtuális megbeszéléseinken nem lehetséges. A megbeszélések arra is jó lehetőséget biztosítottak, hogy megtervezzük a prioritásokat a QGIS 2.6 kiadás után. Erről további részletek lentebb találhatók. 35 részvevő jött el (többségük teljes időben részt vett). A legkülönbözőbb témákon dolgoztak, pl. :"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:19
+msgid "Otto Dassau: Organization, PSC Discussions, Documentation"
+msgstr "Otto Dassau: Szervezet, PSC megbeszélések, dokumentáció"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:20
+msgid "Richard Duivenvoorde: PSC Discussions"
+msgstr "Richard Duivenvoorde: PSC megbeszélések"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:21
+msgid "Larissa Junek: Organization, Documentation"
+msgstr "Larissa Junek: Szervezet, dokumentáció"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:22
+msgid "Jürgen Fischer: PSC Discussions, Bugfixing"
+msgstr "Jürgen Fischer: PSC megbeszélések, hibajavítás"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:23
+msgid "Paolo Cavallini: PSC Discussions"
+msgstr "Paolo Cavallini: PSC megbeszélések"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:24
+msgid "Denis Rouzaud : QGIS Development"
+msgstr "Denis Rouzaud : QGIS fejlesztés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:25
+msgid "Giovanni Manghi : Bug hunting, testing and fixes (Processing)"
+msgstr "Giovanni Manghi : Hibakeresés, tesztelés és hibajavítás (feldolgozás)"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:26
+msgid "Hugo Martins: QGIS Development"
+msgstr "Hugo Martins: QGIS fejlesztés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:27
+msgid "Alexandre Neto: Documentation, User Manual screenshots, Plugins"
+msgstr "Alexandre Neto: Dokumentáció, felhasználói kézikönyv képernyőképek, modulok"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:28
+msgid "Raymond Nijssen: Documentation"
+msgstr "Raymond Nijssen: Dokumentáció"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:29
+msgid "Alessandro Pasotti: QGIS Website, Plugin Development"
+msgstr "Alessandro Pasotti: QGIS honlap, modul fejlesztés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:30
+msgid "Victor Olaya: Processing Plugin Development"
+msgstr "Victor Olaya: Feldolgozás modul fejlesztés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:31
+msgid "Martin Isenburg: LAStools Plugin Development"
+msgstr "Martin Isenburg: LAStools modul fejlesztés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:32
+msgid "Tim Sutton: PSC Discussions"
+msgstr "Tim Sutton: PSC megbeszélések"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:33
+msgid "Luigi Pirelli: Documentation, Translation"
+msgstr "Luigi Pirelli: Dokumentáció, fordítás"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:34
+msgid "Sören Gebbert: Plugin Development"
+msgstr "Sören Gebbert: Modul fejlesztés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:35
+msgid "Matthias Kuhn: QGIS Core Development"
+msgstr "Matthias Kuhn: QGIS mag fejlesztés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:36
+msgid "Yves Jacolin: Documentation"
+msgstr "Yves Jacolin: Dokumentáció"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:37
+msgid "Arnaud Morvan: Documentation"
+msgstr "Arnaud Morvan: Dokumentáció"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:38
+msgid "Andre Mano: Documentation. Translation, testing and bug hunt"
+msgstr "Andre Mano: Dokumentáció, fordítás, tesztelés és hibakeresés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:39
+msgid "Alexander Bruy: Plugin Development"
+msgstr "Alexander Bruy: Modul fejlesztés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:40
+msgid "Andreas Neumann: QGEP, QGIS Web Client"
+msgstr "Andreas Neumann: QGEP, QGIS web kliens"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:41
+msgid "Werner Macho: Documentation, Plugin Development"
+msgstr "Werner Macho: Dokumentáció, modul fejlesztés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:42
+msgid "Mathias Walker: OpenLayers Plugin, QGIS Web Client"
+msgstr "Mathias Walker: OpenLayers modul, QGIS web kliens"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:43
+msgid "Sandro Mani: QGIS Plugin Development"
+msgstr "Sandro Mani: QGIS modul fejlesztés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:44
+msgid "Carlos López Quintanilla: Translation, test, plugins"
+msgstr "Carlos López Quintanilla: Fordítás, tesztelés, modulok"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:45
+msgid "David Erill Carrera: Plugin Development"
+msgstr "David Erill Carrera: Modul fejlesztés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:46
+msgid "Stefan Ziegler: QGIS Web Client, Arcs/Curves"
+msgstr "Stefan Ziegler: QGIS Web kliens, vonalak/görbék"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:47
+msgid "Martin Dobias: QGIS Core Development"
+msgstr "Martin Dobias: QGIS mag fejlesztés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:48
+msgid "Peter Wells: QGIS Plugin Development"
+msgstr "Peter Wells: QGIS modul fejlesztés"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:49
+msgid "Andreas Schmid: QGIS Web Client, documentation"
+msgstr "Andreas Schmid: QGIS Web kliens, dokumentáció"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:50
+msgid "Diethard Jansen: Translation, Documentation & learn Epanet plugin"
+msgstr "Diethard Jansen: Fordítás, dokumentáció és Epanet modul"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:51
+msgid "Marco Hugentobler: Arcs/Curves, QGIS server, PSC Discussions"
+msgstr "Marco Hugentobler: vonalak/görbék, QGIS szerver, PSC megbeszélések"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:52
+msgid "Matteo Ghetta: Documentation, translation,"
+msgstr "Matteo Ghetta: Dokumentáció és fordítás,"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:53
+msgid "Lene Fischer: Planing the next hackfest, Documentation"
+msgstr "Lene Fischer: Következő hackfest tervezés, dokumentáció"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:56
+msgid "Experiences and plans for the next hackfest"
+msgstr "Tapasztalatok és tervek a következő hackfestre"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:58
+msgid ""
+"The next hackfest is planned to be in May 2015 near Copenhagen. We would "
+"like to encourage all developers and non developers to join the meeting "
+"because it was extremely useful having them in Essen and there are many "
+"hackfest activities they can contribute with including documentation "
+"cleanups, translations, giving inputs to the user interface and user "
+"interaction ideas."
+msgstr "A következő Hackfest 2015-ben terveink szerint Koppenhága közelében lesz. Minden fejlesztőt és nem fejlesztőt bátorítunk, hogy csatlakozzon a rendezvényhez, mert nagyon hasznos volt Essenben találkozni, sok olyan hackfest tevékenység van melyhez hozzájárulhatnak, a dokumentáció tisztítása, fordítások, ötletek az felhasználói felülethez és elképzelések a felhasználói interakcióról."
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:61
+msgid "Further links"
+msgstr "További linkek"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:63
+msgid ""
+"`Wiki page of the QGIS Hackfest in Essen 2014 <http://hub.qgis.org/wiki"
+"/quantum-gis/12_QGIS_Developer_Meeting_in_Essen_2014>`_"
+msgstr "`a 2014-es esseni hackfest wiki oldala <http://hub.qgis.org/wiki/quantum-gis/12_QGIS_Developer_Meeting_in_Essen_2014>`_"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:64
+msgid ""
+"`Pictures from the QGIS Hackfest in Essen 2014 by Alessandro Pasotti "
+"<https://www.flickr.com/photos/45502883@N06/sets/72157648185718289/>`_"
+msgstr "`Alessandro Pasotti képei az 2014-es esseni hackfestről <https://www.flickr.com/photos/45502883@N06/sets/72157648185718289/>`_"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:65
+msgid ""
+"`Pictures from the QGIS Hackfest in Essen 2014 collected by Anita Graser "
+"<https://www.flickr.com/groups/2286344@N25/>`_"
+msgstr "`Képek a 2014 esseni hackfestről, Anita Graser gyűjteményéből <https://www.flickr.com/groups/2286344@N25/>`_"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:66
+msgid ""
+"`General information on Sponsoring a QGIS Hackfest "
+"<http://qgis.org/en/site/getinvolved/governance/sponsorship/sponsorship.html"
+"#qgis-sponsorship-program>`_"
+msgstr "`Általános információ a QGIS hackfestek szponzorálásáról <http://qgis.org/en/site/getinvolved/governance/sponsorship/sponsorship.html#qgis-sponsorship-program>`_"
+
+#~ msgid "October 2nd-5th 2014, developer meeting Essen"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "http://hub.qgis.org/wiki/quantum-gis/12_QGIS_Developer_Meeting_in_Essen_2014"
+#~ msgstr ""

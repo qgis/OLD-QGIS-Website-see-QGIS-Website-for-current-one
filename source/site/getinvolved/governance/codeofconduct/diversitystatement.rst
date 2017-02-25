@@ -1,7 +1,7 @@
 .. _diversitystatement:
 
-QGIS Diversity statement
-========================
+Diversity statement
+===================
 
 The QGIS Project welcomes and encourages participation by everyone.
 

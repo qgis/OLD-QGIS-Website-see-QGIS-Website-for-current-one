@@ -107,11 +107,22 @@ pulldocsources:
 	# may 21 2014: no more incorporating of docs IN the website
 	#scripts/pulldocsources.sh $(LANG)
 
-html: localizeresources
+html: localizeresources output/html/version.txt
 	$(SPHINXINTL) build -l $(LANG) -c $(SOURCEDIR)/conf.py
-	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
+	# ONLY in the english version run in nit-picky mode, so source errors/warnings will fail in Travis
+	#  -n   Run in nit-picky mode. Currently, this generates warnings for all missing references.
+	#  -W   Turn warnings into errors. This means that the build stops at the first warning and sphinx-build exits with exit status 1.
+	@-if [ $(LANG) != "en" ]; then \
+		$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR); \
+	else \
+		$(SPHINXBUILD) -n -W -b html $(ALLSPHINXOPTS) $(BUILDDIR); \
+	fi
 	@echo
 	@echo "Build finished. The HTML pages for '$(LANG)' are in $(BUILDDIR)."
+
+output/html/version.txt: source/conf.py
+	mkdir -p $(BUILDDIR)
+	python scripts/mkversion.py
 
 fullhtml: pulldocsources html
 

@@ -1,140 +1,25 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2013-2014
+# Sorin Călinică <scalinica@gmail.com>, 2013-2015
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-05-30 16:59+0000\n"
+"PO-Revision-Date: 2015-09-08 08:47+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
-"Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
+"Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:3
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:2
 msgid "Reimbursements for Developer Meetings"
 msgstr "Rambursările de la Întâlnirile Dezvoltatorilor"
 
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:14
-msgid ""
-"In the past, the policy was that funding will only be directly provided to "
-"'core' committers and community members of the project. However with "
-"increased funding through donations and our sponsorship programme, and a "
-"desire to promote new developers to get involved in the project, this policy"
-" has been updated as described below."
-msgstr "În trecut, politica a fost de a finanța direct numai autorii 'de bază' și membrii comunității proiectului. Cu toate acestea, având o finanțare sporită prin donații și prin programul nostru de sponsorizare, și dorința de a atrage noi dezvoltatori care să se implice în proiect, această politică a fost actualizată, după cum este descris mai jos."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:20
-msgid ""
-"The term 'developer' in this document refers to any person who contributes "
-"time and effort to the advancement of the project (e.g. through "
-"documentation, infrastructure maintenance, coding, administration etc.)"
-msgstr "Termenul 'Dezvoltator' în acest document se referă la orice persoană care cheltuie timp și efort pentru progresul proiectului (de exemplu, prin documentare, întreținerea infrastructurii, codificare, administrare etc)"
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:25
-msgid "Policy for disbursement of funds to individual developers"
-msgstr "Politica de acordare de fonduri pentru dezvoltatorii individuali"
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:27
-msgid ""
-"The project steering committee shall provide arbitration for any query, "
-"complaint or appeal relating to funding requests by individual developers. "
-"In the event that the PSC is called apon to arbitrate, a resolution shall be"
-" proposed and the PSC members shall vote using the -1 / 0 / +1 system to "
-"indicate dissent, indifference and assent respectively. In the event of a "
-"tie-break, the PSC Chairman shall make the final decision. The devision made"
-" by the PSC shall be final."
-msgstr "Comitetul director al proiectului asigură arbitraj pentru orice cerere, plângere sau apel cu privire la cererile de finanțare către dezvoltatori individuali. În cazul în care  este chemat să arbitreze, o rezoluție va fi propusă iar membrii PSC vor vota folosind sistemul de -1 / 0 / +1 pentru a indica dezaprobarea, indiferența și, respectiv, avizul conform. În caz de egalitate, președintele PSC va lua decizia finală. Decizia PSC este definitivă."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:34
-msgid ""
-"Individual applications from non-core developers (i.e. those who do not have"
-" direct commit access to the QGIS repositories) of EUR200 or less may be "
-"decided on by the nominated PSC member without requiring a full PSC vote."
-msgstr "Cererile individuale ale dezvoltatorilor care nu fac parte din nucleul de bază (adică cei care nu au drept de acces complet la depozitul QGIS), de 200 EUR sau mai puțin, pot fi decise de către membrii PSC desemnați, fără a necesita un vot complet din partea PSC."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:37
-msgid ""
-"Individual applications from core-developers may be granted based on "
-"precident directly by the PSC Financial Representative (Paolo Cavallini). In"
-" the event of any uncertainty on his part, he may bring the matter to the "
-"PSC for a vote."
-msgstr "Cererile individuale ale dezvoltatorilor de bază pot fi acordate, pe baza unui precedent, direct de către Reprezentantul Financiar al PSC (Paolo Cavallini). În caz de incertitudine, el poate aduce problema în PSC pentru un vot."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:41
-msgid "All funding requests should be made **before** the meeting event."
-msgstr "Toate cererile de finanțare ar trebui să fie făcute ** înainte** de evenimentul vizat."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:42
-msgid ""
-"Funding may be limited due to budgetary constraints, in which case funding "
-"will be provided on a first-come first-served basis."
-msgstr "Finanțarea poate fi limitată din cauza constrângerilor bugetare, caz în care se vor accepta finanțări pe baza principiului primul venit, primul servit."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:44
-msgid ""
-"The PSC / PSC Finance Chair may offer to provide partial funding where "
-"funding resources are limited."
-msgstr "PSC / Consilierul Financiar PSC poate oferi finanțare parțială, în cazul în care resursele de finanțare sunt limitate."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:46
-msgid ""
-"The PSC Financial Chair shall maintain complete financial records of what "
-"disbursements were made and to whom and these should be available on request"
-" to the PSC."
-msgstr "Consilierul Financiar PSC menține evidențe financiare complete, motivele pentru care au fost făcute plățile și cui, acestea trebuind să fie disponibile la cererea CPS."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:52
-msgid "Procedure for funding applications - core developers"
-msgstr "Procedura pentru cereri de finanțare - dezvoltatori de bază"
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:54
-msgid ""
-"A request for funding email should be submitted to the PSC Financial Chair "
-"before the event."
-msgstr "O cerere de finanțare prin e-mail trebuie depusă la Consilierul Financiar PSC înainte de eveniment."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:56
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:73
-msgid ""
-"The request should include the number of days that the developer will "
-"attend."
-msgstr "Cererea trebuie să includă numărul de zile pentru care dezvoltatorul cere finanțare."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:57
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:74
-msgid ""
-"The request should include an expense breakdown covering travel and "
-"accommodation."
-msgstr "Cererea trebuie să includă o defalcare a cheltuielilor pentru călătorie și cazare."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:65
-msgid "Procedure for funding applications - new developers"
-msgstr "Procedura pentru cereri de finanțare - noi dezvoltatori"
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:67
-msgid ""
-"A request for funding email should be submitted to the PSC Member designated"
-" to review funding requests **before** the meeting."
-msgstr "O cerere de  finanțare prin e-mail ar trebui să fie transmisă  membrului PSC desemnat cu examinarea cererilor de finanțare, **înaintea** reuniunii."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:69
-msgid ""
-"If the requestor is not happy with the funding requests reviewer's decision,"
-" they may request arbitration from the PSC as a whole."
-msgstr "În cazul în care solicitantul nu este mulțumit de decizia de finanțare, acesta poate solicita arbitrajul întregului comitet PSC."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:71
-msgid ""
-"The request should include a **workplan** outlining how the developer plans "
-"to make use of their time at the meeting."
-msgstr "Cererea trebuie să includă un **plan de lucru** subliniind modul în care dezvoltatorul își va folosi timpul la reuniune."
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:5
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:4
 msgid ""
 "The QGIS project holds twice-yearly developer meetings, typically somewhere "
 "in Europe. The purpose of the meetings is to provide face-to-face time for "
@@ -147,13 +32,187 @@ msgid ""
 "directly."
 msgstr "Proiectul QGIS organizează întâlniri bianuale ale dezvoltatorilor, de obicei, undeva în Europa. Scopul acestor reuniuni este de a oferi timp dezvoltatorilor să stea față-în-față. Acesta este un forum pentru prezentarea de idei noi, planificare, gânditul în comun pentru a rezolva problemele și așa mai departe. Folosim finanțările enumerate în :doc:`../sponsorship/index` pentru a facilita organizarea evenimentului, cu co-finantare de la gazdă, care pune la dispoziție, de obicei, locul de desfășurare și infrastructura de găzduire a reuniunii... Dezvoltatorii individuali, de asemenea, co-finanțează evenimentul prin donarea timpului lor și, în multe cazuri, plătindu-și direct participarea la reuniune."
 
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:59
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:76
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:14
+msgid "Need a refund for QGIS HF expenses?"
+msgstr "Aveți nevoie de o rambursare a cheltuielilor QGIS HF?"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:33
+msgid "In case of doubt"
+msgstr "În caz de incertitudine"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:16
 msgid ""
-"The requestor should provide copies of receipts for all expenditures as soon"
-" as possible after the event. No refunds should be made without accompanying"
-" receipts."
-msgstr "Solicitantul trebuie să furnizeze copii ale chitanțelor pentru toate cheltuielile, cât mai curând posibil după eveniment. Nici o restituire nu se va face fără chitanța doveditoare."
+"If you are a contributor to the project (to either code, documentation, "
+"translation, or infrastructure), you think your participation to the HF will"
+" be useful for the project, and you do not have funds to cover for "
+"travelling and lodging, you can apply for refund, at least 40 days in "
+"advance"
+msgstr "Dacă sunteți o persoană care care contribuie la proiect (la codificare, documentare, traducere, sau infrastructură), credeți că participarea dumneavoastră la HF va fi utilă proiectului, și nu dispuneți de fonduri pentru a acoperi cheltuielile de călătorie și cazare, puteți să aplicați pentru rambursare, cu cel puțin 40 de zile în avans"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:20
+msgid ""
+"When applying, please let us know (i) an estimate of the total amount "
+"required, and (ii) how your participation will contribute to QGIS"
+msgstr "La momentul aplicării, vă rugăm să ne transmiteți (i) o estimare a valorii totale necesare, și (ii) informații referitoare la modul în care participarea dumneavoastră va contribui la QGIS"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:22
+msgid ""
+"Later applications (<40 days) will be taken into account, based on the "
+"budget available and the priorities of the PSC"
+msgstr "Aplicațiile târzii (<40 de zile), vor fi luate în considerare în funcție de bugetul disponibil și deprioritățile PSC"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:24
+msgid ""
+"Please note that our funds are limited, so we'll generally not be able to "
+"refund all participants"
+msgstr "Vă rugăm să rețineți că fondurile noastre sunt limitate, astfel încât, în general, nu suntem în măsură să rambursăm cheltuielile pentru toți aplicanții"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:26
+msgid ""
+"Core devs (anyone with direct commit rights to the repository) and psc "
+"members will have priority on the allocation of funds"
+msgstr "Dezvoltatorii de bază (oricare dintre cei care au drepturi de scriere în depozit), precum și membrii PSC vor avea prioritate la alocarea de fonduri"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:28
+msgid ""
+"At least 30 days in advance, PSC will communicate a decision to all those "
+"who applied"
+msgstr "Cu cel puțin 30 de zile în avans, PSC va comunica o decizie tuturor celor care au aplicat"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:29
+msgid ""
+"The refund will be sent to your bank account after the HF, on the basis of "
+"the bills actually paid and sent to our Treasurer."
+msgstr "Rambursările vor fi transmise în contul dvs. bancar după HF, pe baza facturilor plătite efectiv și trimise Trezorierului nostru."
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:35
+msgid ""
+"The project steering committee shall provide arbitration for any query, "
+"complaint or appeal relating to funding requests by individual developers. "
+"In the event that the PSC is called apon to arbitrate, a resolution shall be"
+" proposed and the PSC members shall vote using the -1 / 0 / +1 system to "
+"indicate dissent, indifference and assent respectively. In the event of a "
+"tie-break, the PSC Chairman shall make the final decision. The decision made"
+" by the PSC shall be final."
+msgstr "Comitetul director al proiectului asigură arbitraj pentru orice cerere, plângere sau apel cu privire la cererile de finanțare ale dezvoltatorilor individuali. În cazul în care are loc un arbitraj, se va propune o rezoluție, pe care membrii PSC o vor vota folosind sistemul de -1 / 0 / +1 pentru a indica dezaprobarea, indiferența și, respectiv, avizul conform. În caz de egalitate, Președintele PSC va lua decizia finală. Decizia PSC este definitivă."
+
+#~ msgid ""
+#~ "The project steering committee shall provide arbitration for any query, "
+#~ "complaint or appeal relating to funding requests by individual developers. "
+#~ "In the event that the PSC is called apon to arbitrate, a resolution shall be"
+#~ " proposed and the PSC members shall vote using the -1 / 0 / +1 system to "
+#~ "indicate dissent, indifference and assent respectively. In the event of a "
+#~ "tie-break, the PSC Chairman shall make the final decision. The devision made"
+#~ " by the PSC shall be final."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "1.If you are a contributor to the project (to either code, documentation, "
+#~ "translation, or infrastructure), you think your participation to the HF will"
+#~ " be useful for the project, and you do not have funds to cover for "
+#~ "travelling and lodging, you can apply for refund, at least 40 days in "
+#~ "advance 2. When applying, please let us know (i) an estimate of the total "
+#~ "amount required, and (ii) how your participation will contribute to QGIS 3. "
+#~ "Later applications (<40 days) will be taken into account, based on the "
+#~ "budget available and the priorities of the PSC 4. Please note that our funds"
+#~ " are limited, so we'll generally not be able to refund all participants 5. "
+#~ "Core devs (anyone with direct commit rights to the repository') and psc "
+#~ "members will have priority on the allocation of funds 6. At least 30 days in"
+#~ " advance, PSC will communicate a decision to all those who applied 7. The "
+#~ "refund will be sent to your bank account after the HF, on the basis of the "
+#~ "bills actually paid and sent to our Treasurer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the past, the policy was that funding will only be directly provided to "
+#~ "'core' committers and community members of the project. However with "
+#~ "increased funding through donations and our sponsorship programme, and a "
+#~ "desire to promote new developers to get involved in the project, this policy"
+#~ " has been updated as described below."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The term 'developer' in this document refers to any person who contributes "
+#~ "time and effort to the advancement of the project (e.g. through "
+#~ "documentation, infrastructure maintenance, coding, administration etc.)"
+#~ msgstr ""
+
+#~ msgid "Policy for disbursement of funds to individual developers"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Individual applications from non-core developers (i.e. those who do not have"
+#~ " direct commit access to the QGIS repositories) of EUR200 or less may be "
+#~ "decided on by the nominated PSC member without requiring a full PSC vote."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Individual applications from core-developers may be granted based on "
+#~ "precident directly by the PSC Financial Representative (Paolo Cavallini). In"
+#~ " the event of any uncertainty on his part, he may bring the matter to the "
+#~ "PSC for a vote."
+#~ msgstr ""
+
+#~ msgid "All funding requests should be made **before** the meeting event."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Funding may be limited due to budgetary constraints, in which case funding "
+#~ "will be provided on a first-come first-served basis."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The PSC / PSC Finance Chair may offer to provide partial funding where "
+#~ "funding resources are limited."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The PSC Financial Chair shall maintain complete financial records of what "
+#~ "disbursements were made and to whom and these should be available on request"
+#~ " to the PSC."
+#~ msgstr ""
+
+#~ msgid "Procedure for funding applications - core developers"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A request for funding email should be submitted to the PSC Financial Chair "
+#~ "before the event."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The request should include the number of days that the developer will "
+#~ "attend."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The request should include an expense breakdown covering travel and "
+#~ "accommodation."
+#~ msgstr ""
+
+#~ msgid "Procedure for funding applications - new developers"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A request for funding email should be submitted to the PSC Member designated"
+#~ " to review funding requests **before** the meeting."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If the requestor is not happy with the funding requests reviewer's decision,"
+#~ " they may request arbitration from the PSC as a whole."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The request should include a **workplan** outlining how the developer plans "
+#~ "to make use of their time at the meeting."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The requestor should provide copies of receipts for all expenditures as soon"
+#~ " as possible after the event. No refunds should be made without accompanying"
+#~ " receipts."
+#~ msgstr ""
 
 #~ msgid ""
 #~ "The Quantum GIS project holds twice-yearly developer meetings, typically "

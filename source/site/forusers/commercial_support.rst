@@ -26,6 +26,19 @@ and consulting on QGIS.
 
 ----
 
+.. |boundless| image:: /static/site/about/images/boundless.png
+   :width: 250 px
+
+|boundless| `Boundless Spatial <http://boundlessgeo.com/>`_ (based in
+Washington, D.C., USA and operating worldwide) provides commercially supported,
+open source, geospatial software. OpenGeo Suite and QGIS enable a feature-rich,
+enterprise GIS without the high licensing costs associated with proprietary
+software. The experts at Boundless reduce the cost and time of deploying and
+managing spatial software with packaging, support, maintenance, professional
+services, and expert training.
+
+----
+
 .. |dms| image:: /static/site/about/images/dms.gif
    :width: 150 px
 
@@ -68,11 +81,11 @@ and open source software packages for both the web and the server side.
 .. |kartoza| image:: /static/site/about/images/kartoza.png
    :width: 200 px
 
-|kartoza| `Kartoza (Pty) Ltd. <http://kartoza.com>`_ (with offices in Swellendam and Paarl
-in the Western Cape Provice of South Africa). We provide commercial support and training for
-QGIS Desktop and Server and carry out feature development for QGIS on a contract basis.
-We also develop plugins in Python and C++ for QGIS. **Note:** Kartoza was formerly known as
-Linfiniti Consulting.
+|kartoza| `Kartoza (Pty) Ltd. <http://kartoza.com>`_ (with offices in
+Stellenbosch and Johannesburg, South Africa). We provide commercial support and
+training for QGIS Desktop and Server and carry out feature development for QGIS
+on a contract basis.  We also develop plugins in Python and C++ for QGIS.
+**Note:** Kartoza was formerly known as Linfiniti Consulting.
 
 ----
 
@@ -100,6 +113,18 @@ support for a number of Open Source GIS software. We specialize in QGIS
 
 |norbit| `norBIT GmbH <http://www.norbit.de/64>`_ (based in Norden, Germany)
 provides commercial support and custom programming for QGIS.
+
+----
+
+.. |north_road| image:: /static/site/about/images/north_road.png
+   :width: 250 px
+
+|north_road| `North Road <http://north-road.com/>`_ (based in
+Australia) specialises in custom development solutions for QGIS features
+and fixes, and also offers training and commercial support in the open source
+geospatial stack. North Road has a established history in quality QGIS
+development, and has been responsible for thousands of feature and
+fixes within the QGIS codebase since 2013.
 
 ----
 
@@ -141,7 +166,7 @@ Contributors
    :width: 75 px
 
 |cartoexpert| `CartoExpert <http://www.cartoexpert.com/index.php/formations/qgis-formation-quantum-gis.html>`_
-based in France) is a geomatics
+(based in France) is a geomatics
 competence center offering both national and international services,
 consulting in cartography as well as geographical information systems.
 CartoExpert provide with technical support on QGIS, assistance in
@@ -173,7 +198,7 @@ OpenLayers
 .. |zuidtlogo| image:: /static/site/about/images/zuidt.png
    :width: 75 px
 
-|zuidtlogo| `Zuidt <http://zuidt.nl/>`_ based in Haarlem The Netherlands,
+|zuidtlogo| `Zuidt <http://zuidt.nl/>`_ (based in Haarlem, The Netherlands)
 wants Geographical Information to be open and simple.
 Zuidt wants to be THE dutch (international) QGIS specialist, and provides
 consulting, plugin coding and training services.
@@ -214,11 +239,21 @@ GRASS GIS and other FOSS GIS applications.
 
 ----
 
+.. |geoicon| image:: /static/site/about/images/geoicon.png
+   :width: 75 px
+
+|geoicon| `GeoICON <http://www.geoicon.com/>`_ (based in Singapore and operating
+in South East Asia) has been working with Government organizations for over 
+10 years and offers a full range of services around QGIS including training and
+commercial support.
+
+----
+
 .. |gis3w| image:: /static/site/about/images/gis3w.png
    :width: 75 px
 
-|gis3w| `GIS3W <http://www.gis3w.it/>`_ (based in Italy) provide geographic and
-ecological analysis services and support and assistance with QGIS.
+|gis3w| `gis3w <http://www.gis3w.it/>`_ (based in italy) provide geographic and
+ecological analysis services and support and assistance with qgis.
 
 ----
 
@@ -278,7 +313,7 @@ provides commercial GIS consulting, support and training in QGIS.
 .. |claasleiner| image:: /static/site/about/images/claasleiner.png
    :width: 75 px
 
-|claasleiner| `GKG Kassel, Germany (Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_
+|claasleiner| `GKG Kassel, Germany (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_
 provides training, services and support around the free geographic information systems QGIS,
 GRASS, SAGA and PostGIS as well as spatial data management, analysis and cartography.
 

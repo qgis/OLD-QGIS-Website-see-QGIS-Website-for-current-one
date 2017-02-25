@@ -1,6 +1,8 @@
 QGIS-Website
 ============
 
+[![Build Status](https://travis-ci.org/qgis/QGIS-Website.svg?branch=master)](https://travis-ci.org/qgis/QGIS-Website)
+
 Website is a static generated website using Sphinx (http://sphinx-doc.org/), 
 based on restructured text sources (rst: http://docutils.sourceforge.net/rst.html)
 and html (jinja2) templates.
@@ -61,7 +63,7 @@ We will start this Docker container with a command line like below:
 
     docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html make html
  
-Where "docker run -t -i qgis/sphinx_html make html" means: "run a Docker container/proces based on the qgis/sphinx_html image available online, call make in the working directory of the container, with parameter 'html', meaning: only build english thml"
+Where "docker run -t -i qgis/sphinx_html make html" means: "run a Docker container/process based on the qgis/sphinx_html image available online, call make in the working directory of the container, with parameter 'html', meaning: only build english html"
 
 "-v /home/richard/dev/QGIS-Website:/QGIS-Website" means: use the directory "/home/richard/dev/QGIS-Website" as a virtual directory in the container and name it '/QGIS-Website'
   
@@ -84,8 +86,8 @@ IMPORTANT you need 2x a double // in the command !!!   Without it you will get a
 
 Note: only the first time it will pull the qgis/sphinx_html image (>300Mb) from the online repository https://hub.docker.com/u/qgis/
 
-Now if you want to build a translated website, there is some more work todo. We have to pull the translations from transifex etc. You need your own transifex credentials to do this. So first get an account/password at www.transifex.com and then create a so called '.transifexrc' file which is used to authorize you at transifex.
-This contents of this file should be like this:
+Now if you want to build a translated website, there is some more work to do. We have to pull the translations from transifex etc. You need your own transifex credentials to do this. So first get an account/password at www.transifex.com and then create a so called '.transifexrc' file which is used to authorize you at transifex.
+The contents of this file should be like this:
 
     [https://www.transifex.com]
     hostname = https://www.transifex.com
@@ -135,7 +137,7 @@ Install sphinx 1.2 now in your virtual env:
 
     pip install sphinx==1.2
 
-Sphinx intl extention ( https://pypi.python.org/pypi/sphinx-intl ):
+Sphinx-intl extension ( https://pypi.python.org/pypi/sphinx-intl ):
 
     pip install sphinx-intl
 
@@ -186,8 +188,10 @@ General use:
     # and install that first:
     python ez_setup.py
 
-    # after succesfull running of bootstrap.py you have all wheels on place to
-    # 1) create a virtual environment with all Sphinx related python machinery
+    # after succesfull running of bootstrap.py you have all wheels on place, the script has created a virtual
+    environment (called "virtualenv") with all Sphinx related python machinery. Now, each time you want to build,
+    you just need to:
+    # 1) activate a virtual environment with all Sphinx related python machinery
     # 2) run the actual script to build the website
     
     # to go into the virtual environment:
@@ -199,13 +203,46 @@ General use:
     # now build (only website, no included Documentation yet):
     # eg english only:
     paver html
-    # or the dutch version:
-    paver html -l nl
+
+To be able to build localized versions of the Website with paver the
+'Transifex-client (tx)' is needed.
+
+On linux, install with::
+
+	# note that we use a slightly older version of tx
+	pip install transifex-client==0.9
+	
+On Windows, you should download it from: http://files.transifex.com/transifex-client/0.10/tx.exe
+see http://support.transifex.com/customer/portal/articles/998120-client-on-windows	
+
+To make tx.exe usable in the paver script, either put it IN this directory next to the pavement.py file, OR add it to your PATH
+
+IMPORTANT: to be able to pull from transifex.com, you will need a credentials file. 
+This file should be named: ``.transifexrc`` and easiest is to put it in your home dir C:/users/you. 
+Another option is to put it in the root of this project, but be carefull to not put your credentials in Github :-)
+
+The file should contain this::
+
+	[https://www.transifex.com]
+	hostname = https://www.transifex.com
+	password = yourtransifexpassword
+	token = 
+	username = yourtransifexusername
+
+With a working tx and a .transifexrc, you should be able to build for example the german version of docs via::	
+
     # german:
     paver html -l de
     
-    
-    
+During the build you will see this command::
+
+	tx pull --minimum-perc=1 --skip -f -l de
+	
+This will pull all german po files from transifex (based on the .tx/config file in the root of this project)
+
+
+
+
 Styling the website
 -------------------
 

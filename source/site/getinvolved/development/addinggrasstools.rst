@@ -14,11 +14,11 @@ new modules and modify menu tree.
 
 
 Module configuration
-====================
+--------------------
 
 
 Background
-------------
+..........
 
 The options of each module shown in module's_*Options_*tab are created according
 to combination of definition in QGM (QGIS GRASS module) file and options
@@ -58,13 +58,13 @@ Here is an example of a configuration file:
 
 
 qgisgrassmodule tag attributes
-------------------------------
+..............................
 
 * *label* --- description used in menu tree
 * *module* --- name of GRASS module executable or script.
 
 Option tags
------------
+...........
 
 Each qgisgrassmodule tag can contain one or more option tags:
 
@@ -100,7 +100,7 @@ Each qgisgrassmodule tag can contain one or more option tags:
   <selection key="list" layerid="input" label="Cats" />
 
 Common option/flag tag attributes
----------------------------------
+.................................
 
 * *key* --- name of module option in GMO.
 * *answer* --- default value (overwrites GMO default value); value "on" will
@@ -115,7 +115,7 @@ Common option/flag tag attributes
 * *version_max* --- maximum GRASS version for which this option/flag is valid
 
 Option tag specific attributes
-------------------------------
+..............................
 
 * *typeoption* --- this option can be used with vector layer to define the name
   of vector input type option, when module is run, the type of selected vector
@@ -135,7 +135,7 @@ Option tag specific attributes
 
 
 Field tag specific attributes
------------------------------
+.............................
 
 * *layer* --- the key attribute of the option which defines the vector this
   field should depend on
@@ -152,7 +152,7 @@ Field tag specific attributes
 
 
 Behind the scene
-----------------
+................
 
 The idea QGIS-GRASS modules implementation is to use maximum information from
 GMO and only simplify the interface. Here are described some rules how
@@ -170,7 +170,7 @@ in GMO.
   defined for value tag in GMO then it is used as checkbox label
 
 Picture
--------
+.......
 
 Each module must be represented also by a picture/icon which symbolizes the
 modules functionality. The pictures are also stored in plugins/grass/modules as
@@ -192,7 +192,7 @@ expected to be later used in automatically generated documentation, where
 pictures will be used in larger size.
 
 QGIS GRASS scripts
-------------------
+..................
 
 Because it can take long time until a new script is added to stable GRASS
 release and because some scripts can be useful only for QGIS GUI interface it is
@@ -201,7 +201,7 @@ requirements for GRASS scripts and they are located in qgis/src/plugins/grass/sc
 
 
 Menu configuration
-==================
+------------------
 
 Once we have a new QGM configuration file, we can add the module to the list of
 modules. The list is defined in qgis/src/plugins/grass/config/default.qgc file.
@@ -225,7 +225,7 @@ using version_min/version_max attributes:
 
 
 General rules for new modules
-=============================
+-----------------------------
 
 *GRASS Tools* are intended mostly for beginners and not very experienced users.
 The basic rules are:
@@ -238,7 +238,7 @@ The basic rules are:
 
 
 Specific rules for module descriptions
-======================================
+--------------------------------------
 
 * Avoid 3rd person for verbs, e.g. "Export raster" instead of "Exports raster"
 * Avoid unnecessary "map", "layer" and "file", e.g. "Export raster" instead of
@@ -254,7 +254,7 @@ Specific rules for module descriptions
 
 
 Options which cannot be currently used
-======================================
+--------------------------------------
 
 Technically, any option can be used. Some kinds of options however are not yet
 well supported, for example those which depend on other option. Here is a list
@@ -265,7 +265,7 @@ not be used at present:
 
 
 Modules which can be added
-==========================
+--------------------------
 
 Most modules have been added. If you need additional ones, please write to the
 qgis development mailing list, and list hereafter the modules you think are most
@@ -278,12 +278,12 @@ module and the options which you want to use. For example:
 
   r.to.vect.area: r.to.vect input output feature=area
 
-
-See also here for discussion on "GRASS-QGIS relevant module list":http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list.
+See also here for discussion on 
+`GRASS-QGIS relevant module list <http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list>`_.
 
 
 Modules to be deprecated
-========================
+------------------------
 
 List hereafter the modules who should be removed, with a rationale for this
 suggestion (e.g.: some modules related to projections are difficult to

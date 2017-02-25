@@ -2,70 +2,71 @@
 
 .. _QGIS-mailinglists:
 
-Mailinglists
-============
+Mailing lists
+=============
 
-QGIS has a set of mailing lists. 
+We communicate on mailing lists divided by topics and target groups. 
+Feel free to subscribe to any of these lists. Please remember to contribute to
+the list by answering questions and sharing your experiences.
+
+Please don't use these mailing lists to advertise your services or training courses.
+Use your local user group mailing lists to inform your local community about
+training offers.
 
 
-QGIS users list
+QGIS Users list
 ---------------
 
-The main list for user questions:
+The main list for user questions: used for discussion of QGIS in general, as well
+as specific questions regarding its installation and use.
 
 http://lists.osgeo.org/mailman/listinfo/qgis-user
 
 
-QGIS UX (User Experience) list
-------------------------------
-
-A dedicated mailing list where people can chime in and collect and discuss QGIS
-related UX (User Experience) / usability issues.
-
-http://lists.osgeo.org/mailman/listinfo/qgis-ux
-
-
-QGIS developers list
+QGIS Developers list
 --------------------
 
-The main list for questions about the development of QGIS core or plugins
-
+The main list for questions about the development of QGIS core or plugins.
+You can discuss about coding, build process, chime in, collect and
+discuss QGIS related UX (User Experience) / usability issues.
 
 http://lists.osgeo.org/mailman/listinfo/qgis-developer
 
 
-QGIS community team
+QGIS Community team
 -------------------
 
-List for managing the community: websites, documentation etc
-
+This list deals with topics like documentation, user
+guide, web sites, blog, mailing lists, forums and translation
+efforts. If you want to work on the user guide as well, this
+list is a good starting point to ask your questions.
 
 http://lists.osgeo.org/mailman/listinfo/qgis-community-team
 
 
-QGIS translation
+QGIS Translations
 -----------------
 
-List for translators of either the website, or the QGIS itself
-
+This list deals with the translation efforts. If you want to work on the
+translation of the web site, the manuals or the graphical user interface (GUI),
+this list is a good starting point to ask your questions.
 
 http://lists.osgeo.org/mailman/listinfo/qgis-tr
 
 
-QGIS education
---------------
+QGIS Project Steering Committee (PSC) list
+------------------------------------------
 
-http://lists.osgeo.org/pipermail/qgis-edu/
-
-
-QGIS release team
------------------
-
-http://lists.osgeo.org/mailman/listinfo/qgis-release-team
-
-
-QGIS project steering community list
-------------------------------------
+This list is used to discuss Steering Committee issues related to
+overall management and direction of QGIS.
 
 http://lists.osgeo.org/mailman/listinfo/qgis-psc
+
+QGIS Web Client 2
+-----------------
+
+This list is used to get help for setting up `QGIS Web Client 2 (QWC2) <https://github.com/qgis/qwc2-demo-app>`_
+and discuss future development of QWC2.
+
+http://lists.osgeo.org/mailman/listinfo/qgis-qwc2
 

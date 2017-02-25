@@ -1,9 +1,9 @@
 
-=======================
-QGIS Release Checklists
-=======================
+==================
+Release Checklists
+==================
 
-Contents:
+
 
 .. toctree::
    :maxdepth: 2

@@ -3,12 +3,9 @@
 <section class="sub-landing-page" id="top">
     <div class="container-fluid banner">
         <div class="row-fluid">
-            <div class="offset1 span5">
-                <h2>{{ _('Discover what makes QGIS the leading Open Source desktop GIS') }}</h2>
+            <div >
+                <h2>{{ _('QGIS - The Leading Open Source Desktop GIS') }}</h2>
                 <p>{{ _('QGIS is the best GIS tool in the free and open-source software (FOSS) community.') }} </p>
-            </div>
-            <div class="span6">
-                <img src="{{pathto('_static/images/about-top.png', 1)}}" id="processing" alt="qgis screenshot" class="img-polaroid non-mobile-img oveflow-img banner-img" width="100%"/>
             </div>
         </div>
     </div>
@@ -17,12 +14,12 @@
 <section class="sub-landing-page menu">
     <div class="container-fluid">
         <div class="row-fluid">
-            <div class="span12">
+            <div>
                 <nav class="subnav">
                     <header>
                         <h3>{{ _('DISCOVER') }}</h3>
                     </header>
-
+<!--
                     <ul id="subnav">
                         <li>
                             <a href="#tour">{{ _('QGIS Features') }}</a>
@@ -40,6 +37,7 @@
                             <a href="#commercial">{{ _('Commercial Support') }}</a>
                         </li>
                     </ul>
+-->
                 </nav>
             </div>
         </div>
@@ -47,24 +45,32 @@
 </section>
 <section class="sub-landing-page main">
     <div class="container-fluid">
+
         <div class="row-fluid">
-            <div class="offset2 span8">
-                <div class="text-center">
-                    <img src='../../_static/images/about-about.png' class="text-center background-mask non-mobile-image" alt="compass icon" width="150px" />
-                    <h3>{{ _('About QGIS') }}</h3>
-                </div>
+            <div>
+                <h3>{{ _('About QGIS') }}</h3>
+                <img src="{{pathto('_static/images/about-screenshot.png', 1)}}" class="text-center background-mask non-mobile-image" alt="QGIS screenshot" />
                 <p>{{ _('QGIS is a user friendly Open Source Geographic Information System (GIS) licensed under the GNU General Public License. QGIS is an official project of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, Mac OSX, Windows and Android and supports numerous vector, raster, and database formats and functionalities.') }}</p>
                 <p class="text-center">{{ _('Our latest release is QGIS ') + version }}</p>
-                <p class="text-center"><a href="{{ pathto('site/forusers/download') }}">{{ _('Download it here.') }}</a></p>
+                <p class="text-center"><a href="{{ pathto('site/forusers/index') }}" class="btn btn-large btn-success btn-flat">{{ _('Get started') }}</a></p>
             </div>
-            <div class="span2"></div>
         </div>
+
+        <hr>
+        <div class="row-fluid">
+            <div>
+                <h3>{{ _('The Community') }}</h3>
+                <img src="{{pathto('_static/images/about-community.jpeg', 1)}}" alt="QGIS community" />
+                <p>{{ _('QGIS is a volunteer driven project. We welcome contributions in the form of code contributions, bug fixes, bug reports, contributed documentation, advocacy and supporting other users on our mailing lists and gis.stackexchange.com. If you are interested in actively supporting the project, you can find more information under the development menu and on the QGIS Wiki.') }}</p>
+            </div>
+        </div>
+
         <hr>
         <div class="row-fluid" id="tour">
-            <div class="offset1 span4">
+            <div class="span3">
                 <img src="../../_static/images/about-features.png" alt="features icon" class="background-mask non-mobile-image wd" />
             </div>
-            <div class="offset1 span5">
+            <div class="offset1 span8">
                 <h3>{{ _('Features') }}</h3>
                 <p>{{ _('QGIS provides a continously growing number of capabilities provided by core functions and plugins. You can visualize, manage, edit, analyse data, and compose printable maps. Get a first impression with a more detailed feature list.') }}
                 </p>
@@ -72,61 +78,57 @@
                     <a href="http://docs.qgis.org/latest/{{language}}/docs/user_manual/preamble/features.html" target="_blank" >{{ _('Take the QGIS feature tour') }}</a> 
                 </h4>
             </div>
-            <div class="span1"></div>
         </div>
         <hr>
         <div class="row-fluid" id="screenshots">
-            <div class="offset1 span5">
+            <div class="span8">
                 <h3>{{ _('Screenshots') }}</h3>
-                <p>{{ _('Community-contributed screenshots of QGIS to help provide a quick overview:') }}</p>
+                <p>{{ _('To see QGIS in action, check out the community-based') }}</p>
                 <h4>
-                    <a href="{{ pathto('site/about/screenshots') }}">{{ _('Check out QGIS screenshots') }}</a>
+                    <a href="{{ pathto('site/about/screenshots') }}">{{ _('QGIS screenshots') }}</a>
                 </h4>
             </div>
             <div class="span1"></div>
-            <div class="span4">
+            <div class="span3">
                 <img src="../../_static/images/about-screenshots.png" alt="screenshots icon" class="background-mask non-mobile-image wd" />
             </div>
-            <div class="span1"></div>
         </div>
         <hr>
         <div class="row-fluid" id="casestudies">
-            <div class="offset1 span4">
+            <div class="span3">
                 <img src="../../_static/images/about-casestudies.png" alt="casestudies icon" class="background-mask non-mobile-image wd" />
             </div>
             <div class="span1"></div>
-            <div class="span5">
+            <div class="span8">
                 <h3>{{ _('Case Studies') }}</h3>
-                <p>{{ _('The QGIS community has collected a number of case studies of how users around the world are using QGIS for their GIS work.') }}</p>
+                <p>{{ _('We also collect case studies of how people all over the world use QGIS for their GIS work.') }}</p>
                 <h4>
-                    <a href="{{ pathto('site/about/case_studies/index') }}">{{ _('Review QGIS case studies') }}</a>
+                    <a href="{{ pathto('site/about/case_studies/index') }}">{{ _('See our QGIS case studies') }}</a>
                 </h4>
             </div>
-            <div class="span1"></div>
         </div>
+
         <hr>
         <div class="row-fluid" id="organization">
-            <div class="offset1 span5">
+            <div class="span8">
                 <h3>{{ _('Supporting Organizations') }}</h3>
-                <p>{{ _('QGIS is a volunteer driven project. We welcome contributions in the form of code contributions, bug fixes, bug reports, contributed documentation, advocacy and supporting other users on our mailing lists and gis.stackexchange.com. If you are interested in actively supporting the project, you can find more information under the development menu and on the QGIS Wiki. We also welcome financial contributions in the form of sponsoring and funding.') }}
-                </p>
+                <p>{{ _('We welcome financial contributions in the form of sponsoring and funding.') }}</p>
                 <h4>
                     <a href="{{ pathto('site/about/sponsorship') }}">{{ _('Organizations that support QGIS') }}</a>
                 </h4>
             </div>
             <div class="span1"></div>
-            <div class="span4">
+            <div class="span3">
                 <img src="../../_static/images/about-supporting.png" alt="supporting organizations icon" class="background-mask non-mobile-image wd" />
             </div>
-            <div class="span1"></div>
         </div>
         <hr>
         <div class="row-fluid" id="commercial">
-            <div class="offset1 span4">
+            <div class="span3">
                 <img src="../../_static/images/about-commercial.png" alt="commercial support icon" class="background-mask non-mobile-image wd" />
             </div>
             <div class="span1"></div>
-            <div class="span5">
+            <div class="span8">
                 <h3>{{ _('Commercial Support') }}</h3>
                 <p>{{ _('Do you plan to use QGIS in your company or organization, but worry about whether there is commercial support available? Here is an alphabetical list, divided in categories, of support contractors.') }}
                 </p>
@@ -134,7 +136,6 @@
                     <a href="{{ pathto('site/forusers/commercial_support') }}">{{ _('Learn about Commercial Support for QGIS') }}</a>
                 </h4>
             </div>
-            <div class="span1"></div>
         </div>
     </div>
 </section>

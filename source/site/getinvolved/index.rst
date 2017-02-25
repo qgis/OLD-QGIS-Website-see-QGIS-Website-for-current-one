@@ -5,13 +5,12 @@ Get Involved / Development
 .. toctree::
     :maxdepth: 1
 
-    translate
     document
-    Plugins website <http://plugins.qgis.org>
-    Mailinglist <mailinglists>
-    QGIS Infrastructure <infrastructure>
-    governance/index
+    translate
     development/index
+    Plugins website <http://plugins.qgis.org>
+    mailinglists
+    governance/index
     meetings/index
     donations
     faq/index

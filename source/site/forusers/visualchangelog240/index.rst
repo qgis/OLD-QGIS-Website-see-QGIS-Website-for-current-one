@@ -1,4 +1,4 @@
-|image0|
+.. _changelog24:
 
 Changelog for QGIS 2.4
 ======================

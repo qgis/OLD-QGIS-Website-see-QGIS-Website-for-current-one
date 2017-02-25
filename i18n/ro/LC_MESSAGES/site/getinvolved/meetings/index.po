@@ -1,34 +1,35 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2013
+# Sorin Călinică <scalinica@gmail.com>, 2013,2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-10-06 07:01+0000\n"
+"PO-Revision-Date: 2016-06-22 08:58+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
-"Language-Team: Romanian (http://www.transifex.com/projects/p/qgis-website/language/ro/)\n"
+"Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
-#: ../../source/site/getinvolved/meetings/index.rst:5
-msgid "QGIS Meetings"
-msgstr "Întâlniri QGIS"
-
-#: ../../source/site/getinvolved/meetings/index.rst:13
+#: ../../source/site/getinvolved/meetings/index.rst:7
 msgid ""
 "Since 2009 the QGIS community organizes developer and user meetings around "
 "the world."
 msgstr "Începând cu 2009, comunitatea QGIS organizează întâlniri pentru dezvoltatorii și utilizatorii din întreaga lume."
 
-#: ../../source/site/getinvolved/meetings/index.rst:17
-msgid "Developer Meetings"
-msgstr "Întâlniri dezvoltatori"
+#: ../../source/site/getinvolved/meetings/index.rst:5
+msgid "Meetings"
+msgstr "Întruniri"
 
-#: ../../source/site/getinvolved/meetings/index.rst:21
-msgid "User Meetings"
-msgstr "Întâlniri utilizator"
+#~ msgid "QGIS Meetings"
+#~ msgstr ""
+
+#~ msgid "Developer Meetings"
+#~ msgstr ""
+
+#~ msgid "User Meetings"
+#~ msgstr ""

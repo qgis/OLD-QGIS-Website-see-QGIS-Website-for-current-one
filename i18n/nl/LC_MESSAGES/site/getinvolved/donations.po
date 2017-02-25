@@ -1,30 +1,33 @@
 # 
 # Translators:
-# Dick Groskamp <dikgro@yahoo.co.uk>, 2015
+# Dick Groskamp, 2015-2016
 # Diethard Jansen <diethard.jansen@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-01-02 17:29+0000\n"
-"Last-Translator: Dick Groskamp <dikgro@yahoo.co.uk>\n"
-"Language-Team: Dutch (http://www.transifex.com/projects/p/qgis-website/language/nl/)\n"
+"PO-Revision-Date: 2016-06-25 09:27+0000\n"
+"Last-Translator: Dick Groskamp\n"
+"Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/getinvolved/donations.rst:9
-msgid "QGIS Donations"
-msgstr "QGIS Donaties"
-
 #: ../../source/site/getinvolved/donations.rst:5
 msgid ""
 "Content is not used, it is overridden by themes/qgis-"
 "theme/getinvolved_donations.html."
 msgstr "Inhoud wordt niet gebruikt, het is overschreven door themes/qgis-theme/getinvolved_donations.html."
+
+#: ../../source/site/getinvolved/donations.rst:9
+msgid "Donations"
+msgstr "Donaties"
+
+#~ msgid "QGIS Donations"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Content is not used, it is overridden by themes/qgis-"

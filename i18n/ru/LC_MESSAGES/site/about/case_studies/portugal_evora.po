@@ -1,19 +1,19 @@
 # 
 # Translators:
-# Марина Павлова <pavlova.marina.v@gmail.com>, 2014
+# Марина Павлова <pavlova.marina.v@gmail.com>, 2014-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-02-28 18:28+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
-"Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
+"PO-Revision-Date: 2016-03-22 11:18+0000\n"
+"Last-Translator: Марина Павлова <pavlova.marina.v@gmail.com>\n"
+"Language-Team: Russian (http://www.transifex.com/qgis/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:3
 msgid "QGIS and GRASS in Biogeographical Research in the Iberian Peninsula"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:41
 msgid "Author"
-msgstr ""
+msgstr "Автор"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:50
 msgid ""
@@ -58,7 +58,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:30
 msgid "References"
-msgstr ""
+msgstr "Ссылки"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:32
 msgid ""
@@ -94,7 +94,7 @@ msgid ""
 "[5] Barbosa A.M., Real R. & Vargas J.M. (2010) Use of coarse-resolution "
 "models of species' distributions to guide local conservation inferences. "
 "Conservation Biology, early vew. doi: 10.1111/j.1523-1739.2010.01517.x"
-msgstr ""
+msgstr "[5] Barbosa A.M., Real R. & Vargas J.M. (2010) Use of coarse-resolution models of species' distributions to guide local conservation inferences. Conservation Biology, early vew. doi: 10.1111/j.1523-1739.2010.01517.x"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:37
 msgid ""
@@ -103,14 +103,14 @@ msgid ""
 "interacting species: the case of the Iberian lynx and the European rabbit. "
 "Diversity and Distributions, 15: 390–400. doi: "
 "10.1111/j.1472-4642.2008.00546.x."
-msgstr ""
+msgstr "[6] Real R., A. M. Barbosa, A. Rodríguez, F. J. García, J. M. Vargas, L. J. Palomo & M. Delibes, 2008. Conservation biogeography of ecologically-interacting species: the case of the Iberian lynx and the European rabbit. Diversity and Distributions, 15: 390–400. doi: 10.1111/j.1472-4642.2008.00546.x."
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:38
 msgid ""
 "[7] Barbosa, A.M. & Real, R. (in press) Favourable areas for expansion and "
 "reintroduction of Iberian lynx accounting for distribution trends and "
 "genetic diversity of the European rabbit. Wildlife Biology in Practice.\""
-msgstr ""
+msgstr "[7] Barbosa, A.M. & Real, R. (in press) Favourable areas for expansion and reintroduction of Iberian lynx accounting for distribution trends and genetic diversity of the European rabbit. Wildlife Biology in Practice.\""
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:5
 msgid ""

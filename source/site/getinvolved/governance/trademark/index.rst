@@ -18,7 +18,7 @@ In cases of fair use, you may use or refer to QGIS trademark without an explicit
 
 .. note:: Please avoid confusing terms like "QGIS manual", or anything that may give the impression of an official QGIS product, or is misleading
 
-.. note:: Please routinely explain in your course that QGIS is free and open source software, and actively encourage anyone to contribute, directyl or indirectly, to the project
+.. note:: Please routinely explain in your course that QGIS is free and open source software, and actively encourage anyone to contribute, directly or indirectly, to the project
 
 * If you provide services (support, development) on QGIS, you can use QGIS trademark to describe or advertise your services or products relating to QGIS, provided this is done in a way that is not misleading
 * If you use the QGIS logo on a website linking to our websites (http://qgis.org or any of our domains, or github), you do not need a permission

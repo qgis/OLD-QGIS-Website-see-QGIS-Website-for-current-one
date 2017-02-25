@@ -601,11 +601,6 @@ section.content h4 {
   -moz-box-shadow: none;
   box-shadow: none;
 }
-.bs-sidenav h3 {
-  text-transform: uppercase;
-  font-weight: normal;
-  font-size: 16px;
-}
 @media (min-width: 980px) {
   .navbar .container {
     width: 100% !important;
@@ -614,10 +609,16 @@ section.content h4 {
     width: 300px !important;
     margin: 0 !important;
   }
+  .bs-sidenav > ul {
+    padding-top: 60px;
+  }
 }
 @media (max-width: 980px) {
   body {
     padding-top: 0 !important;
+  }
+  .bs-sidenav.well {
+    border-right: none;
   }
 }
 #core-contributors a.reference.internal,
@@ -902,4 +903,13 @@ section.menu nav.subnav ul li a:hover {
   color: #E22;
   padding-left: 3px;
   padding-right: 3px;
+}
+/* hopefully fixing the oversizing of images eg in case studies */
+img.align-right,
+.figure.align-right,
+object.align-right {
+  clear: right;
+  float: right;
+  margin-left: 1em;
+  max-width: 100%;
 }

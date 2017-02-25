@@ -1,7 +1,7 @@
 <section class="intro">
     <div class="container">
         <h2>{{ _('Download QGIS for your platform') }}</h2>
-        <p class="main">{{ _('The current version is QGIS %s \'%s\' and was released on %s.')|format( version, codename, releasedate.strftime('%d.%m.%Y') ) }}</p>
+        <p class="main">{{ _('The current version is QGIS %s \'%s\' and was released on %s.')|format( release, codename, releasedate.strftime('%d.%m.%Y') ) }}</p>
         <p class="main">{{ _('QGIS is available on Windows, MacOS X, Linux and Android.') }}</p>
         <p class="main">{{ _('Binary packages (installers) for current stable version {0} can be downloaded here.').format( version ) }}</p>
 <!-- Comment out after release
@@ -37,28 +37,28 @@
                     <div class="accordion-inner">
                       <div>
                         <h5>{{ _('Latest release (eg. for New Users):') }}</h5>
-                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-1-Setup-x86.exe" class="reference external">
+                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
                               <li class="qgis-download"></li>
                               <li class="download-text">{{ _('QGIS Standalone Installer Version %s (32 bit)')|format( version ) }}</li>
                           </ul>
                         </a>
-                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-1-Setup-x86.exe.md5sum" class="reference external button">
+                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86.exe.md5sum" class="reference external button">
                           <ul class="inline download-row">
                               <li></li>
                               <li></li>
                               <li class="download-text">md5</li>
                           </ul>
                         </a>
-                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-1-Setup-x86_64.exe" class="reference external">
+                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86_64.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
                               <li class="qgis-download"></li>
                               <li class="download-text">{{ _('QGIS Standalone Installer Version %s (64 bit)')|format( version ) }}</li>
                           </ul>
                         </a>
-                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-1-Setup-x86_64.exe.md5sum" class="reference external button">
+                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86_64.exe.md5sum" class="reference external button">
                           <ul class="inline download-row">
                               <li></li>
                               <li></li>
@@ -66,28 +66,28 @@
                           </ul>
                         </a>
                         <h5>{{ _('Long term release (eg. for corporate users):') }}</h5>
-                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-1-Setup-x86.exe" class="reference external">
+                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ ltrbinary|e }}-Setup-x86.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
                               <li class="qgis-download"></li>
                               <li class="download-text">{{ _('QGIS Standalone Installer Version %s (32 bit)')|format( ltrversion ) }}</li>
                           </ul>
                         </a>
-                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-1-Setup-x86.exe.md5sum" class="reference external button">
+                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ ltrbinary|e }}-Setup-x86.exe.md5sum" class="reference external button">
                           <ul class="inline download-row">
                               <li></li>
                               <li></li>
                               <li class="download-text">md5</li>
                           </ul>
                         </a>
-                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-1-Setup-x86_64.exe" class="reference external">
+                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ ltrbinary|e }}-Setup-x86_64.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
                               <li class="qgis-download"></li>
                               <li class="download-text">{{ _('QGIS Standalone Installer Version %s (64 bit)')|format( ltrversion ) }}</li>
                           </ul>
                         </a>
-                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-1-Setup-x86_64.exe.md5sum" class="reference external button">
+                        <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ ltrbinary|e }}-Setup-x86_64.exe.md5sum" class="reference external button">
                           <ul class="inline download-row">
                               <li></li>
                               <li></li>
@@ -200,7 +200,7 @@
 
           <!-- Tab 2 -->
           <div class="tab-pane" id="tab2">
-              <p>{{ _('Older releases of QGIS are available') }} <a href="http://qgis.org/downloads/" class="reference external">{{ _('here') }}</a>.</p>
+              <p>{{ _('Older releases of QGIS are available') }} <a href="http://download.osgeo.org/qgis/windows/" class="reference external">{{ _('here') }}</a>.</p>
               <p>{{ _('Plugins for QGIS are also available ') }}<a href="http://plugins.qgis.org/plugins/" class="reference external">{{ _('here') }}</a>.</p>
           </div>
 
@@ -211,6 +211,7 @@
                  <a href="http://qgis.org/downloads/qgis-latest.tar.bz2">{{ _('here (latest release)') }}</a> and
                  <a href="http://qgis.org/downloads/qgis-latest-ltr.tar.bz2">{{ _('here (long term release)') }}</a></p>
               <p>{{ _('Refer to the INSTALL guide on how to compile QGIS from source for the different platforms:') }} <a href="http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html"  class="reference external">{{ _('here') }}</a></p>
+              <p>{{ _('Note that you can also install the development version (nightly) via an installer from the normal downloads for your platform:') }} <a class="caption-link" href="{{ pathto('site/forusers/download') }}" target="_blank">{{ _('here')}}</a></p>
               <p>{{ _('Plugins for QGIS are also available ') }}<a href="http://plugins.qgis.org/plugins/" class="reference external">{{ _('here') }}</a>.</p>
           </div>
         </div>

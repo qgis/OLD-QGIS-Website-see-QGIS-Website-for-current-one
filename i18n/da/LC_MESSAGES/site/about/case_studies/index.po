@@ -6,9 +6,9 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-01-17 21:32+0000\n"
-"Last-Translator: Preben Lisby <preben.lisby@gmail.com>\n"
-"Language-Team: Danish (http://www.transifex.com/projects/p/qgis-website/language/da/)\n"
+"PO-Revision-Date: 2016-06-21 12:23+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Danish (http://www.transifex.com/qgis/qgis-website/language/da/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,7 +19,7 @@ msgstr ""
 msgid "Case Studies"
 msgstr "Casestudier"
 
-#: ../../source/site/about/case_studies/index.rst:8
+#: ../../source/site/about/case_studies/index.rst:7
 msgid ""
 "The QGIS project is always looking for people to publish QGIS case studies "
 "(user stories) on the QGIS website. Therefore we kindly ask institutions, "
@@ -30,21 +30,21 @@ msgid ""
 " to send us your story."
 msgstr "QGIS projektet leder altid efter folk som vil lave QGIS casestudies (bruger historier) på QGIS websitet. Derfor beder vi om at institutioner, universiteter, myndigheder og virksomheder om at nedskrive deres erfaringer med at bruge QGIS til at løse deres problemer i et bestemt projekt eller i dagligdagen. Kontakt venligst `QGIS fællesskabs-teamet <http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_, hvis du ønsker at sende os din historie."
 
-#: ../../source/site/about/case_studies/index.rst:10
+#: ../../source/site/about/case_studies/index.rst:9
 msgid "**Structure**"
 msgstr "**Struktur**"
 
-#: ../../source/site/about/case_studies/index.rst:12
+#: ../../source/site/about/case_studies/index.rst:11
 msgid ""
 "The stories should follow a simple structure and we suggest to write about "
 "800 words including one or two screenshots."
 msgstr "Historierne bør følge en simpel struktur, og vi foreslår at skrive omkring 800 ord, inklusiv et eller to screenshots."
 
-#: ../../source/site/about/case_studies/index.rst:14
+#: ../../source/site/about/case_studies/index.rst:13
 msgid "**Title**"
 msgstr "**Titel**"
 
-#: ../../source/site/about/case_studies/index.rst:16
+#: ../../source/site/about/case_studies/index.rst:15
 msgid ""
 "Short Introduction with background of the company / institute / authority / "
 "university (length about 200 words). Story about your project/application "
@@ -53,30 +53,37 @@ msgid ""
 "200 words)"
 msgstr "Kort introduktion med baggrunden for virksomheden / instituttet / myndigheden / universitetet (med en længde på ca. 200 ord). Histori om dit projekt/applikation og hvad QGIS er brugt til (med en længde på ca. 400 ord plus screenshots) Konklusion som viser de positive erfaringer/fordele som der er ved at bruge QGIS (med en længde på ca. 200 ord)"
 
-#: ../../source/site/about/case_studies/index.rst:21
-msgid "List of Case Studies"
-msgstr "List med Case Studier"
-
-#: ../../source/site/about/case_studies/index.rst:36
+#: ../../source/site/about/case_studies/index.rst:52
 msgid "2013"
 msgstr "2013"
 
-#: ../../source/site/about/case_studies/index.rst:48
+#: ../../source/site/about/case_studies/index.rst:64
 msgid "2012"
 msgstr "2012"
 
-#: ../../source/site/about/case_studies/index.rst:63
+#: ../../source/site/about/case_studies/index.rst:79
 msgid "2011"
 msgstr "2011"
 
-#: ../../source/site/about/case_studies/index.rst:74
+#: ../../source/site/about/case_studies/index.rst:90
 msgid "2010"
 msgstr "2010"
 
-#: ../../source/site/about/case_studies/index.rst:86
+#: ../../source/site/about/case_studies/index.rst:102
 msgid "2009"
 msgstr "2009"
 
-#: ../../source/site/about/case_studies/index.rst:24
+#: ../../source/site/about/case_studies/index.rst:40
 msgid "2014"
 msgstr "2014"
+
+#: ../../source/site/about/case_studies/index.rst:28
+msgid "2015"
+msgstr ""
+
+#: ../../source/site/about/case_studies/index.rst:20
+msgid "2016"
+msgstr ""
+
+#~ msgid "List of Case Studies"
+#~ msgstr ""

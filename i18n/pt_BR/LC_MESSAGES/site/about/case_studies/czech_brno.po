@@ -1,5 +1,6 @@
 # 
 # Translators:
+# Armando Vulcano Junior <vulcano@uol.com.br>, 2015
 # Brenda Galdino <brendatgaldinor@gmail.com>, 2014
 # Victor Ferreira <victor.mota.ferreira@gmail.com>, 2013
 msgid ""
@@ -7,9 +8,9 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-12-02 14:51+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/qgis-website/language/pt_BR/)\n"
+"PO-Revision-Date: 2015-12-07 01:57+0000\n"
+"Last-Translator: Armando Vulcano Junior <vulcano@uol.com.br>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -114,7 +115,7 @@ msgstr "Este artigo foi contribuição de Tabuk Trojan em Novembro de 2010. É u
 msgid ""
 "QGIS as major GIS software in the Laboratory on Experimental and Applied "
 "Geography"
-msgstr ""
+msgstr "QGIS como principal software de SIG no Laboratório Experimental e Aplicada em Geografia"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:17
 msgid ""
@@ -125,13 +126,13 @@ msgid ""
 "source SW such as LibreOffice, GIMP, Inkscape and QGIS. QGIS does not stand "
 "alone –-- we use MapWindow, OpenJump, gvSIG, SAGA and others. But QGIS plays"
 " the major role."
-msgstr ""
+msgstr "Leag desempenha papel importante na pesquisa acadêmica realizada na Faculdade de Negócios e Gestão Hoteleira. A necessidade de modelagem espacial requer também excelente software. A filosofia de custo mínimo e eficiência máxima levou à escolha de soluções de código aberto. Esta etapa resultou em usar core de código livre SW como LibreOffice, GIMP, Inkscape e QGIS. O QGIS não fica sozinho --- usamos MapWindow, OpenJUMP, gvSIG, SAGA e outros. Mas QGIS desempenha o papel principal."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:29
 msgid ""
 "Spatial analysis are done mainly using basic geoprocessing functions and "
 "Python-based plugins. Recent projects where QGIS was used:"
-msgstr ""
+msgstr "A análise espacial são feitas principalmente usando funções de geoprocessamento básicos e plugins baseados em Python. Em projetos recentes, foi utilizado QGIS:"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:36
 msgid ""
@@ -139,7 +140,7 @@ msgid ""
 "final layout is mostly create using Inkscape or GIMP (less in LibreOffice "
 "Draw). Web-based maps are editing using Inkscape (after SVG export) and "
 "raster maps are pre-edited using GIMP."
-msgstr ""
+msgstr "QGIS é usado com sinergia com outros produtos de código aberto. Por exemplo, o layout final é principalmente criado usando Inkscape ou GIMP (menos no LibreOffice Draw). Mapas baseados na Web são editáveis usando Inkscape (após exportação para SVG) e mapas raster são pré-editados usando GIMP."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:38
 msgid ""
@@ -149,7 +150,7 @@ msgid ""
 " used as main platform for teaching students how to use GIS and how to "
 "produce high-quality maps. Recently, the QGIS was used as main product "
 "during GIS Day held at our school on November 2010."
-msgstr ""
+msgstr "QGIS é também uma grande ferramenta educativa. Faculdade de Negócios e Gestão Hoteleira. oferece aos alunos temas como \"Sistemas de Informação Geográfica I. e II.\" Ou \"capítulos selecionados de literatura geoinformatica\" onde QGIS é usado como plataforma principal para ensinar os alunos a usar SIG e como produzir mapas de alta qualidade . Recentemente, o QGIS foi usado como produto principal durante SIG Day realizado na nossa escola em Novembro de 2010."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:50
 msgid ""
@@ -160,7 +161,7 @@ msgid ""
 "seen in education --- QGIS is the first software, which is presented to "
 "students. During regular workshops students learn how to legally work with "
 "QGIS and how to create their own maps."
-msgstr ""
+msgstr "Sem custo e alta eficiência o Laboratório Experimental em Geografia Aplicada produz de análise de alta qualidade, mapas e visualizações. Usando QGIS grandes bancos de dados estão sendo criados e mais testes de novas funções estão sendo feito. Finalmente, uma dos maiores impactos usando QGIS pode ser visto na educação --- QGIS é o primeiro software,  que é apresentado aos estudantes. Durante oficinas regulares os alunos aprendem a trabalhar legalmente com QGIS e como criar os seus próprios mapas."
 
 #~ msgid "QGIS as major GIS software in the Laboratory"
 #~ msgstr ""

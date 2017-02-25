@@ -1,15 +1,15 @@
 # 
 # Translators:
 # Daniel Kastl, 2013
-# Jürgen E. Fischer <jef@norbit.de>, 2013-2014
+# Jürgen E. Fischer <jef@norbit.de>, 2013-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-02-27 09:44+0000\n"
+"PO-Revision-Date: 2016-06-25 23:52+0000\n"
 "Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
-"Language-Team: German (http://www.transifex.com/projects/p/qgis-website/language/de/)\n"
+"Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +20,7 @@ msgstr ""
 msgid "Case Studies"
 msgstr "Fallstudien"
 
-#: ../../source/site/about/case_studies/index.rst:8
+#: ../../source/site/about/case_studies/index.rst:7
 msgid ""
 "The QGIS project is always looking for people to publish QGIS case studies "
 "(user stories) on the QGIS website. Therefore we kindly ask institutions, "
@@ -31,21 +31,21 @@ msgid ""
 " to send us your story."
 msgstr "Das QGIS-Projekt sucht ständig Leuten die Benutzerberichte (Fallstudien) auf der QGIS-Website veröffentlichen. Daher bitten wir Institutionen, Universitäten, Behörden und Firmen Ihre Erfahrungen bei der Verwendung von QGIS zum Lösen Ihrer Probleme im Alltag oder bei einem bestimmten Problem niederzuschreiben.   Bitte wenden Sie sich an das `QGIS community-team <http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_, wenn Sie uns Ihre Geschichte schicken wollen."
 
-#: ../../source/site/about/case_studies/index.rst:10
+#: ../../source/site/about/case_studies/index.rst:9
 msgid "**Structure**"
 msgstr "**Struktur**"
 
-#: ../../source/site/about/case_studies/index.rst:12
+#: ../../source/site/about/case_studies/index.rst:11
 msgid ""
 "The stories should follow a simple structure and we suggest to write about "
 "800 words including one or two screenshots."
 msgstr "Die Berichte sollten einen einfachen Aufbau habe.  Wir empfehlen etwa 800 Worte mit ein bis zwei Screenshots zu schreiben."
 
-#: ../../source/site/about/case_studies/index.rst:14
+#: ../../source/site/about/case_studies/index.rst:13
 msgid "**Title**"
 msgstr "**Titel**"
 
-#: ../../source/site/about/case_studies/index.rst:16
+#: ../../source/site/about/case_studies/index.rst:15
 msgid ""
 "Short Introduction with background of the company / institute / authority / "
 "university (length about 200 words). Story about your project/application "
@@ -54,30 +54,37 @@ msgid ""
 "200 words)"
 msgstr "Einfache Einführung mit Hintergrund der Firma/des Instituts/der Behörde/der Universität (Länge etwa 200 Worte),  Bericht über Ihr Projekt/Ihre Anwendung und wozu QGIS verwendet wird (Länge etwa 400 Worte plus Screenshots).  Fazit, das die positive Erfahrung mit/Vorzüge von QGIS zeigt (Längen etwa 200 Worte)"
 
-#: ../../source/site/about/case_studies/index.rst:21
-msgid "List of Case Studies"
-msgstr "Liste der Fallstudien"
-
-#: ../../source/site/about/case_studies/index.rst:36
+#: ../../source/site/about/case_studies/index.rst:52
 msgid "2013"
 msgstr "2013"
 
-#: ../../source/site/about/case_studies/index.rst:48
+#: ../../source/site/about/case_studies/index.rst:64
 msgid "2012"
 msgstr "2012"
 
-#: ../../source/site/about/case_studies/index.rst:63
+#: ../../source/site/about/case_studies/index.rst:79
 msgid "2011"
 msgstr "2011"
 
-#: ../../source/site/about/case_studies/index.rst:74
+#: ../../source/site/about/case_studies/index.rst:90
 msgid "2010"
 msgstr "2010"
 
-#: ../../source/site/about/case_studies/index.rst:86
+#: ../../source/site/about/case_studies/index.rst:102
 msgid "2009"
 msgstr "2009"
 
-#: ../../source/site/about/case_studies/index.rst:24
+#: ../../source/site/about/case_studies/index.rst:40
 msgid "2014"
 msgstr "2014"
+
+#: ../../source/site/about/case_studies/index.rst:28
+msgid "2015"
+msgstr "2015"
+
+#: ../../source/site/about/case_studies/index.rst:20
+msgid "2016"
+msgstr "2016"
+
+#~ msgid "List of Case Studies"
+#~ msgstr ""

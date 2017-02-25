@@ -1,95 +1,107 @@
 # 
 # Translators:
-# Mikhail <sivakov.mp@gmail.com>, 2014
+# Mikhail <sivakov.mp@gmail.com>, 2014,2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2014-10-23 03:44+0000\n"
-"Last-Translator: Mikhail <sivakov.mp@gmail.com>\n"
-"Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
+"PO-Revision-Date: 2016-06-21 12:23+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Russian (http://www.transifex.com/qgis/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
-#: ../../source/site/about/features.rst:2
-msgid "Features of QGIS"
-msgstr "Возможности QGIS"
-
-#: ../../source/site/about/features.rst:5
+#: ../../source/site/about/features.rst:7
 msgid "QGIS Desktop"
 msgstr "QGIS Desktop"
 
-#: ../../source/site/about/features.rst:7
+#: ../../source/site/about/features.rst:9
 msgid "Create, edit, visualise, analyse and publish geospatial information."
 msgstr "Создание, редактирование, визуализация, анализ и публикация геопространственной информации."
 
-#: ../../source/site/about/features.rst:9
+#: ../../source/site/about/features.rst:11
 msgid "For Windows, Mac, Linux, BSD and Android."
 msgstr "Для Windows, Mac, Linux, BSD и Android."
 
-#: ../../source/site/about/features.rst:14
+#: ../../source/site/about/features.rst:16
 msgid "A screenshot of QGIS Desktop"
 msgstr "Скриншот QGIS Desktop"
 
-#: ../../source/site/about/features.rst:18
+#: ../../source/site/about/features.rst:20
 msgid "QGIS Browser"
 msgstr "QGIS Browser"
 
-#: ../../source/site/about/features.rst:20
+#: ../../source/site/about/features.rst:22
 msgid "Browse and preview your data and metadata."
 msgstr "Поиск и предпросмотр ваших данных и метаданных."
 
-#: ../../source/site/about/features.rst:22
+#: ../../source/site/about/features.rst:24
 msgid "Drag and drop your data from one datastore into the other one."
 msgstr "Копирование данных из одного источника в другой путем перетаскивания."
 
-#: ../../source/site/about/features.rst:27
+#: ../../source/site/about/features.rst:29
 msgid "A screenshot of QGIS Browser"
 msgstr "Скриншот QGIS Browser"
 
-#: ../../source/site/about/features.rst:31
+#: ../../source/site/about/features.rst:33
 msgid "QGIS Server"
 msgstr "QGIS Server"
 
-#: ../../source/site/about/features.rst:33
+#: ../../source/site/about/features.rst:35
 msgid ""
 "Publish your QGIS projects and layers as OGC compatible WMS and WFS "
 "services. Control which layers, attributes, layouts and coordinate systems "
 "are exported."
 msgstr "Публикация ваших проектов и слоёв в виде OGC-совместимых WMS и WFS сервисов. Контроль над экспортируемыми слоями, атрибутами, компоновками и системами координат. будут эекспортированы."
 
-#: ../../source/site/about/features.rst:40
+#: ../../source/site/about/features.rst:42
 msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
 msgstr "Скриншот настройки QGIS Server из QGIS Desktop"
 
-#: ../../source/site/about/features.rst:43
+#: ../../source/site/about/features.rst:45
 msgid "QGIS Web Client"
 msgstr "QGIS Web Client"
 
-#: ../../source/site/about/features.rst:45
+#: ../../source/site/about/features.rst:47
 msgid ""
 "Publish your QGIS projects on the web with ease. Benefit from the powerful "
 "symbology, labeling and blending features to impress with your maps."
 msgstr "Публикуйте ваши проекты QGIS в Интернет. Используйте возможности символики, подписей, наложения слоёв, чтобы произвести впечатление."
 
-#: ../../source/site/about/features.rst:52
+#: ../../source/site/about/features.rst:54
 msgid "A screenshot of QGIS Web Client"
 msgstr "Скриншот QGIS Web Client"
 
-#: ../../source/site/about/features.rst:56
+#: ../../source/site/about/features.rst:58
 msgid "QGIS on Android (beta!)"
 msgstr "QGIS для Android (бета!)"
 
-#: ../../source/site/about/features.rst:58
+#: ../../source/site/about/features.rst:60
 msgid ""
 "Work is being done to use QGIS on Android devices. Current builds are very "
 "experimental, and not for the faint of heart."
 msgstr "Выполняются работы по адаптации QGIS для использования на устроствах под управлением Android. Текущие сборки явялются экспериментальными и предназначены не для слабонервных."
 
-#: ../../source/site/about/features.rst:64
+#: ../../source/site/about/features.rst:66
 msgid "A screenshot of QGIS on Android"
 msgstr "Скриншот QGIS для Android"
+
+#: ../../source/site/about/features.rst:2
+msgid "Applications"
+msgstr ""
+
+#: ../../source/site/about/features.rst:4
+msgid ""
+"QGIS is not only a desktop GIS. We also provide a spatial file browser, a "
+"server application, and web applications."
+msgstr ""
+
+#~ msgid "QGIS Applications"
+#~ msgstr ""
+
+#~ msgid "Features of QGIS"
+#~ msgstr ""

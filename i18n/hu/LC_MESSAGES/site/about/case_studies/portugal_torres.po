@@ -1,0 +1,172 @@
+# 
+# Translators:
+# Angéla Olasz <angela.olasz@gmail.com>, 2015
+# Zoltan Siki <siki@agt.bme.hu>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2016-01-17 19:05+0000\n"
+"Last-Translator: Angéla Olasz <angela.olasz@gmail.com>\n"
+"Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:3
+msgid "QGIS and GRASS applied to paleontological survey in Western Portugal"
+msgstr "Nyugat-portugáliai őslénytani felmérés QGIS és GRASS felhasználásával"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:5
+msgid ""
+"The Associação Leonel Trindade – Sociedade de História Natural (ALT-SHN) is "
+"a non profit institution headquarted in Torres Vedras, Portugal, specialized"
+" in paleontology. The institution manages a large fossil collection, mainly "
+"from Upper Jurassic. One of the key issues in paleontological management is "
+"to assess spatial context of the sites from where the fossils are retrieved "
+"– hundreds of sites representing thousands of different specimens."
+msgstr "A Természettudományi Társaság Leonel Trindade Egyesülete (Associação Leonel Trindade – Sociedade de História Natural, ALT-SHN) egy paleontológiára specializálódott non profit szervezet, székhelye Torres Vedras, Portugália. Az intézet nagy fosszíliák gyűjteményét kezeli a felső jura korból. Az egyik legfontosabb feladata az őslénytannak, hogy a fosszíliák begyűjtési helyét pontosan feltérképezze és jellemeze a lelőhelyek térbeli környezetét, sok száz lelőhely sok ezer különböző fosszíliát reprezentál."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:8
+msgid "The Project"
+msgstr "A projekt"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:15
+msgid ""
+"Back in 2008, we came up with the idea of exploring GIS technologies to "
+"support the investigation and get a more holistic perspective on the "
+"heritage we were dealing. This idea boosted SIGAP Project (GIS applied to "
+"paleontology) [2]. The project, supported by public and private entities – "
+"mainly the Municipalty, Digiterra.hu and the Army's Geographic Institute "
+"(IGeoE), aimed three goals:"
+msgstr "2008-ban elhatároztuk, hogy felfedezzük a GIS technológiai felhasználásának lehetőségeit azzal a céllal, hogy megtámogassuk a vizsgálatainkat és átfogóbb képet kapjunk a leleteinkről. Ez az ötlet hozta létre a későbbi SIGAP projektet (GIS felhasználása a paleontológiában) [2]. A projekt támogatását élvezte a magán és állami szervezeteknek is - például az önkormányzat, a digiterra.hu és a katonai földrajzi intézet (IGeoE) is segítette, három fő célt fogalmazott meg:"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:17
+msgid ""
+"Field Survey with Differencial GPS to gather the coordinates of the sites;"
+msgstr "A lelőhelyek koordinátáinak helyszíni felmérése differenciális GPS alkalmazásával;"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:18
+msgid ""
+"Build a Risk Model to identify hazards towards paleontological heritage and "
+"thus prevent them through regular field surveys;"
+msgstr "Rendszeres helyszíni felmérések segítségével létrehozni egy kockázati modellt, amely azonosítja az őslénytani leletek előfordulásának valószínűségét, ezáltal is védettséget biztosítani azoknak. "
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:19
+msgid ""
+"Build a Geographic Database to handle all the information and start the "
+"collection inventory."
+msgstr "Létrehozni egy gyűjtemény leltár és egy Földrajzi Információs Adatbázist az adatok tárolására. "
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:22
+msgid "Software we used"
+msgstr "Felhasznált szoftverek"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:24
+msgid ""
+"QGIS was the mainframe of all the project. Data was dumped directly to QGIS,"
+" and then edited and manipulated in order to achieve the desired outputs. "
+"The GRASS interface provided by QGIS allowed us to conduct complex spatial "
+"analyis on rasters in order to obtain the risk model we needed to plan our "
+"field work and future prospection. Furthermore it allowed us to import "
+"PostGIS layers and visualize them on QGIS."
+msgstr "A QGIS szoftver által biztosított lehetőségeket használtuk fel a projekt feladatok teljes elvégzésére. Az adatokat közvetlenül QGIS-ben szerkesztettük és módosítottuk, hogy megkapjuk az elvárt eredményeket. A QGIS által biztosított GRASS felhasználói felület lehetőséget adott a komplex térbeli elemzések raszter adatokon történő elvégzésére, ezáltal létrejött egy kockázati modell, amely alapján meg tudtuk tervezni a terepi munkánkat és a további kutatásokat. Továbbá, lehetővé tette hogy importáljunk és megjelenítsünk PostGIS rétegeket is a QGIS-ben."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:31
+msgid "Vector point data editing and visualization"
+msgstr "Pont adatok szerkesztése és megjelenítése"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:40
+msgid "Paleontological Risk Map"
+msgstr "Őslénytani lelőhely kockázati térkép"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:43
+msgid "Conclusion"
+msgstr "Következtetés"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:55
+msgid "Author"
+msgstr "Szerző"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:62
+msgid "André Mano"
+msgstr "André Mano"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:64
+msgid ""
+"This article was contributed in November 2010 by André Mano. He is "
+"responsible for the Geopraphic Department of Associação Leonel Trindade – "
+"Sociedade de História Natural. His area of interest is focused on "
+"geotechnology applications to the fields of paleontology, archeology and "
+"cultural heritage."
+msgstr "Ez a cikk André Mano közreműködésével készült 2010. novemberben. A Természettudományi Társaság Leonel Trindade Egyesületének (Associação Leonel Trindade – Sociedade de História Natural) Földrajzi Osztályának felelőse. Érdeklődési területe a geotechnológiai alkalmazások az őslénytan, régészet és kulturális örökség tudományterületeken."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:48
+msgid "References"
+msgstr "Hivatkozások"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:50
+msgid "[1] www.alt-shn.org (portuguese only)"
+msgstr "[1] www.alt-shn.org (csak portugálul)"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:51
+msgid ""
+"[2] MANO, André. (2009) – Sistema de Informação Geográfica Aplicado à "
+"Paleontologia. Paleolusitana: Revista de Paleontologia e Paleoecologia, "
+"Torres Vedras: Alt-Sociedade de História Natural. ISSN 1647-2756, n.º 1, p. "
+"245-250."
+msgstr "[2] MANO, André. (2009) – Sistema de Informação Geográfica Aplicado à Paleontologia. Paleolusitana: Revista de Paleontologia e Paleoecologia, Torres Vedras: Alt-Sociedade de História Natural. ISSN 1647-2756, n.º 1, p. 245-250."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:52
+msgid ""
+"[3] Mano, André. (2010) – Projecto SIGAP, Trabalho de Projecto apresentado "
+"como requisito parcial para a obtenção do grau de Mestre em Ciência e "
+"Sistemas de Informação Geográfica. ISEGI – UNL, Lisboa, 2010"
+msgstr "[3] Mano, André. (2010) – Projecto SIGAP, Trabalho de Projecto apresentado como requisito parcial para a obtenção do grau de Mestre em Ciência e Sistemas de Informação Geográfica. ISEGI – UNL, Lisboa, 2010"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:33
+msgid ""
+"The choice for QGIS was also encouraged by the multi platform support. The "
+"institution has three distinct facilities, and each of those facilities has "
+"different systems --– we have Mac, Windows PC and Linux PC, therefore it's "
+"of extreme importance that we have the freedom to install the software on "
+"any machine we want so we don't get stuck to a particular computer."
+msgstr "A QGIS választása elősegítette a platform független munkavégzést. Az intézetben három különböző egység van és három különböző rendszert használnak. Mac, Windows és Linux operációs rendszerekkel is dolgoznak, ezért nagyon fontos volt, hogy tudjuk mindhárom rendszeren telepíteni és használni a programot és ne kötődjünk egyik rendszerhez sem."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:45
+msgid ""
+"The overall experience with QGIS can only be rated has being very good and "
+"recommendable. From our point of view, the main advantage of QGIS is that "
+"it's not just a GIS software –-- it's a productivity suite for spatial data."
+" It allowed us to take advantage of other powerful tools within a single "
+"work environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
+"data, with webservices and with tens of useful plug-ins developed by users "
+"worldwide. The user friendly interface is also a big advantage, especially "
+"if you have to train first time users has we've done. The easyness of the "
+"interface makes production of maps an everyday task and brought people "
+"closer to spatial approaches [3]."
+msgstr "Az általános tapasztalatunk szerint a QGIS szoftver használata megfelelő volt és csak ajánlani tudjuk mindenkinek.  Véleményünk szerint a QGIS legfőbb előnye, hogy az nem csak egy GIS szoftver hanem sokkal inkább egy térinformatikai programcsomag. Lehetővé tette számunkra, hogy kihasználjuk számos kapcsolódó rendszer, eszköztár használatát egy környezeten belül. QGIS használatakor elérhető a GRASS, a PostGIS, GPS adatok feldolgozása, webszolgáltatások elérése és tucatnyi hasznos beépülő modul a szoftver hasonló felhasználói által előre elkészítve. A felhasználó barát interfész is nagyon előnyös, főleg ha be kell tanítani kezdő felhasználókat a használatára, ahogyan a mi esetünkben is kellett. A felhasználó felület könnyű kezelhetősége a mindennapi feladatok során létrehozható térképek elkészítésének lehetőségét adja, amely közelebb hozza az embereket a térbeli megoldások felhasználásához. "
+
+#~ msgid ""
+#~ "The choice for QGIS was also encouraged by the multi platform support. The "
+#~ "institution has three distinct facilities, and each of those facilities has "
+#~ "different systems – We have Mac, Windows PC and Linux PC, therefore it's of "
+#~ "extreme importance that we have the freedom to install the software on any "
+#~ "machine we want so we don't get stuck to a particular computer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The overall experience with QGIS can only be rated has being very good and "
+#~ "recommendable. From our point of view, the main advantage of QGIS is that "
+#~ "it's not just a GIS software – it's a productivity suite for spatial data. "
+#~ "It allowed us to take advantage of other powerful tools within a single work"
+#~ " environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
+#~ "data, with webservices and with tens of useful plug-ins developed by users "
+#~ "worldwide. The user friendly interface is also a big advantage, especially "
+#~ "if you have to train first time users has we've done. The easyness of the "
+#~ "interface makes production of maps an everyday task and brought people "
+#~ "closer to spatial approaches [3]."
+#~ msgstr ""

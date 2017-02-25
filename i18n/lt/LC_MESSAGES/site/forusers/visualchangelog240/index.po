@@ -6,22 +6,14 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2015-03-05 18:18+0000\n"
-"Last-Translator: Tomas Straupis\n"
-"Language-Team: Lithuanian (http://www.transifex.com/projects/p/qgis-website/language/lt/)\n"
+"PO-Revision-Date: 2016-06-21 12:24+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-
-#: ../../source/site/forusers/visualchangelog240/index.rst:1
-msgid "|image0|"
-msgstr "|image0|"
-
-#: ../../source/site/forusers/visualchangelog240/index.rst:4
-msgid "Changelog for QGIS 2.4.0"
-msgstr "QGIS 2.4.0 pakeitimai"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:6
 msgid ""
@@ -503,6 +495,16 @@ msgid ""
 "http://pvanb.wordpress.com/2014/05/15/saving-layer-styles-to-your-"
 "spatialite-database/"
 msgstr "Ankstesnėse versijose buvo galima įrašyti stilius postgres sluoksniuose. Dabar bus galima tą patį padaryti ir Spatialite sluoksniuose. | Šis funkcionalumas leidžia įkelti skirtingus stilius į spatialite talpą, taip paprastinant dalinimąsi duomenimis ir jų vaizdavimu. | Šio funkcionalumo video pamoką rasite čia http://pvanb.wordpress.com/2014/05/15/saving-layer-styles-to-your-spatialite-database/"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:4
+msgid "Changelog for QGIS 2.4"
+msgstr "QGIS 2.4 pakeitimai"
+
+#~ msgid "|image0|"
+#~ msgstr ""
+
+#~ msgid "Changelog for QGIS 2.4.0"
+#~ msgstr ""
 
 #~ msgid "If you would like to make a donation or sponsor our project, please"
 #~ msgstr ""

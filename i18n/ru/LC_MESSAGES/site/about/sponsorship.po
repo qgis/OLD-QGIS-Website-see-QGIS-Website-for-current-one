@@ -1,25 +1,22 @@
 # 
 # Translators:
 # alexbruy <alexander.bruy@gmail.com>, 2013-2014
+# Anatoly Baranov <anatoly88baranov@gmail.com>, 2016
 # Mikhail <sivakov.mp@gmail.com>, 2014
-# Марина Павлова <pavlova.marina.v@gmail.com>, 2015
+# Марина Павлова <pavlova.marina.v@gmail.com>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-03-07 12:40+0000\n"
-"Last-Translator: Марина Павлова <pavlova.marina.v@gmail.com>\n"
-"Language-Team: Russian (http://www.transifex.com/projects/p/qgis-website/language/ru/)\n"
+"PO-Revision-Date: 2016-06-21 12:24+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Russian (http://www.transifex.com/qgis/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-
-#: ../../source/site/about/sponsorship.rst:4
-msgid "Supporting QGIS"
-msgstr "Поддержка QGIS"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: ../../source/site/about/sponsorship.rst:6
 msgid ""
@@ -35,7 +32,7 @@ msgid ""
 ":ref:`QGIS_sponsorship_program`."
 msgstr "Узнать о том, как стать спонсором можно на странице :ref:`QGIS_sponsorship_program`."
 
-#: ../../source/site/about/sponsorship.rst:28
+#: ../../source/site/about/sponsorship.rst:27
 msgid ""
 "Annually we also receive support from various organisations who appreciate "
 "the work we do and would like to facilitate the sustained development effort"
@@ -43,286 +40,690 @@ msgid ""
 "thanks!"
 msgstr "Ежегодно мы получаем поддержку от различных организаций, которые ценят нашу работу и хотят способствовать дальнейшему устойчивому развитию проекта. Мы выражаем свою искреннюю благодарность перечисленным ниже спонсорам!"
 
-#: ../../source/site/about/sponsorship.rst:32
+#: ../../source/site/about/sponsorship.rst:305
 msgid "|gold| |aas_long|"
 msgstr "|gold| |aas_long|"
 
-#: ../../source/site/about/sponsorship.rst:35
+#: ../../source/site/about/sponsorship.rst:307
 msgid ""
 "`ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, Japan (11.2012-10.2015)"
 msgstr "`ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, Япония (11.2012-10.2015)"
 
-#: ../../source/site/about/sponsorship.rst:209
-msgid "|silver| |gaia|"
-msgstr "|silver| |gaia|"
-
-#: ../../source/site/about/sponsorship.rst:211
-msgid "`G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (06.2013-06.2014)"
-msgstr "`G.A.I.A. mbH <http://www.gaia-mbh.de>`_,ФРГ (06.2013-06.2014)"
-
-#: ../../source/site/about/sponsorship.rst:60
-#: ../../source/site/about/sponsorship.rst:253
-msgid "|silver| |land_f|"
-msgstr "|silver| |land_f|"
-
-#: ../../source/site/about/sponsorship.rst:184
-msgid ""
-"We would like to thank GFOSS.it, the Italian Free and Open Source Software "
-"organisation for the sponsorship they provided to the QGIS project until "
-"early 012. Visit `GFOSS.it <http://gfoss.it/>`_ for more information (site "
-"mainly in Italian)."
-msgstr "Мы хотим поблагодарить GFOSS.it, итальянскую организацию, занимающуюся свободным и открытым программным обеспечением, за постоянную спонсорскую помощь проекту QGIS. Чтобы узнать больше об их работе, посетите `GFOSS.it <http://gfoss.it/>`_ (сайт в основном на итальянском)."
-
-#: ../../source/site/about/sponsorship.rst:195
+#: ../../source/site/about/sponsorship.rst:298
 msgid ""
 "Also `OSGeo <http://www.osgeo.org/>`_ is partly supporting our HackFests: "
 "2012.10 in Essen, Germany, and 2013.04 in Valmiera, Latvia."
 msgstr "Также `OSGeo <http://www.osgeo.org/>`_ частично поддержал нашу встречу 10.2012 в Эссене, ФРГ и 04ю2013 в Валмиере, Латвия."
 
-#: ../../source/site/about/sponsorship.rst:200
-#: ../../source/site/about/sponsorship.rst:245
+#: ../../source/site/about/sponsorship.rst:317
 msgid "|silver| |sogis|"
 msgstr "|silver| |sogis|"
 
-#: ../../source/site/about/sponsorship.rst:202
-msgid ""
-"`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013)"
-msgstr "`Кантон Золотурн <http://www.agi.so.ch/>`_, Швейцария (10.2012-10.2013)"
-
-#: ../../source/site/about/sponsorship.rst:218
+#: ../../source/site/about/sponsorship.rst:354
 msgid "|bronze| |fossgisev|"
 msgstr "|bronze| |fossgisev|"
 
-#: ../../source/site/about/sponsorship.rst:220
+#: ../../source/site/about/sponsorship.rst:356
 msgid "`www.fossgis.de <http://www.fossgis.de/>`_, Germany (08.2012-08.2013)"
 msgstr "`www.fossgis.de <http://www.fossgis.de/>`_, ФРГ (08.2012-08.2013)"
 
-#: ../../source/site/about/sponsorship.rst:105
+#: ../../source/site/about/sponsorship.rst:339
 msgid "|bronze| |argus|"
 msgstr "|bronze| |argus|"
 
-#: ../../source/site/about/sponsorship.rst:227
+#: ../../source/site/about/sponsorship.rst:335
 msgid "|bronze| |geosynergy|"
 msgstr "|bronze| |geosynergy|"
 
-#: ../../source/site/about/sponsorship.rst:229
-msgid ""
-"`www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia "
-"(05.2012-05.2013)"
-msgstr "`www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Австралия (05.2012-05.2013)"
-
-#: ../../source/site/about/sponsorship.rst:236
+#: ../../source/site/about/sponsorship.rst:357
 msgid "|bronze| |ibw_bzwm|"
 msgstr "|bronze| |ibw_bzwm|"
 
-#: ../../source/site/about/sponsorship.rst:238
+#: ../../source/site/about/sponsorship.rst:359
 msgid ""
 "`ibW Bildungszentrum Wald <http://www.bzwmaienfeld.ch/>`_, Switzerland "
 "(03.2012-03.2013)"
 msgstr "`ibW Bildungszentrum Wald <http://www.bzwmaienfeld.ch/>`_, Швейцария (03.2012-03.2013)"
 
-#: ../../source/site/about/sponsorship.rst:247
-msgid ""
-"`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (04.2011-04.2012)"
-msgstr "`Кантон Золотурн <http://www.agi.so.ch/>`_, Швейцария (04.2011-04.2012)"
-
-#: ../../source/site/about/sponsorship.rst:255
-msgid ""
-"`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria "
-"(11.2011-11.2012)"
-msgstr "`Федеральная земля Форарльберг <http://www.vorarlberg.at/>`_, Австрия (11.2011-11.2012)"
-
-#: ../../source/site/about/sponsorship.rst:261
+#: ../../source/site/about/sponsorship.rst:360
 msgid "|bronze| |uster|"
 msgstr "|bronze| |uster|"
 
-#: ../../source/site/about/sponsorship.rst:263
+#: ../../source/site/about/sponsorship.rst:362
 msgid "`City of Uster <http://gis.uster.ch/>`_, Switzerland (11.2011-11.2012)"
 msgstr "`г. Устер <http://gis.uster.ch/>`_, Швейцария (11.2011-11.2012)"
 
-#: ../../source/site/about/sponsorship.rst:270
+#: ../../source/site/about/sponsorship.rst:363
 msgid "|bronze| |municipia|"
 msgstr "|bronze| |municipia|"
 
-#: ../../source/site/about/sponsorship.rst:272
+#: ../../source/site/about/sponsorship.rst:365
 msgid ""
 "`Municípia, SA <http://www.municipia.pt/>`_, Portugal (02.2011-02.2012)"
 msgstr "`Municípia, SA <http://www.municipia.pt/>`_, Португалия (02.2011-02.2012)"
 
-#: ../../source/site/about/sponsorship.rst:279
+#: ../../source/site/about/sponsorship.rst:366
 msgid "|bronze| |gfosservices|"
 msgstr "|bronze| |gfosservices|"
 
-#: ../../source/site/about/sponsorship.rst:281
+#: ../../source/site/about/sponsorship.rst:368
 msgid ""
 "`Studio Associato Gfosservices <http://www.gfosservices.com/>`_, Italy "
 "(02.2010-02.2011)"
 msgstr "`Studio Associato Gfosservices <http://www.gfosservices.com/>`_, Италия (02.2010-02.2011)"
 
-#: ../../source/site/about/sponsorship.rst:288
+#: ../../source/site/about/sponsorship.rst:369
 msgid "|bronze| |nextgis|"
 msgstr "|bronze| |nextgis|"
 
-#: ../../source/site/about/sponsorship.rst:290
+#: ../../source/site/about/sponsorship.rst:371
 msgid "`NextGIS <http://nextgis.org/>`_, Russia (03.2010-03.2011)"
 msgstr "`NextGIS <http://nextgis.org/>`_, РФ (03.2010-03.2011)"
 
-#: ../../source/site/about/sponsorship.rst:296
+#: ../../source/site/about/sponsorship.rst:396
 msgid "List of donors"
 msgstr "Список жертвователей"
 
-#: ../../source/site/about/sponsorship.rst:299
-msgid ""
-"Donations can be of any amount, via the Paypal button on the frontpage, or "
-"through our bank account (write us for details: cavallini at faunalia dot "
-"it). Even a small donation can make a difference and help to reach important"
-" project goals!"
-msgstr "Пожертвовать можно любую сумму либо через PayPal при помощи кнопки на главной странице сайта, либо перечислив деньги на наш банковский счет (за подробностями обращайтесь по адресу cavallini at faunalia dot it). Даже маленькое пожертвование может оказать большое влияние и помочь проекту!"
-
-#: ../../source/site/about/sponsorship.rst:303
+#: ../../source/site/about/sponsorship.rst:402
 msgid ""
 "If you wish to send us a larger donation, you are strongly encouraged to use"
 " the bank account rather than PayPal."
 msgstr "Если вы хотите сделать крупное пожертвование, мы настоятельно рекомендуем использовать банковский перевод, а не PayPal."
 
-#: ../../source/site/about/sponsorship.rst:96
+#: ../../source/site/about/sponsorship.rst:123
 msgid "|bronze| |molitec|"
 msgstr "|bronze| |molitec|"
 
-#: ../../source/site/about/sponsorship.rst:26
+#: ../../source/site/about/sponsorship.rst:25
 msgid "List of current sponsors"
 msgstr "Действующие спонсоры"
 
-#: ../../source/site/about/sponsorship.rst:62
-msgid ""
-"`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria "
-"(03.2013-03.2015)"
-msgstr "`Федеральная земля Форарльберг <http://www.vorarlberg.at/>`_, Австрия (03.2013-03.2015)"
-
-#: ../../source/site/about/sponsorship.rst:177
+#: ../../source/site/about/sponsorship.rst:281
 msgid "List of past sponsors"
 msgstr "Недавние спонсоры"
 
-#: ../../source/site/about/sponsorship.rst:87
+#: ../../source/site/about/sponsorship.rst:132
 msgid "|bronze| |claasleinert|"
 msgstr "|bronze| |claasleinert|"
 
-#: ../../source/site/about/sponsorship.rst:169
+#: ../../source/site/about/sponsorship.rst:351
 msgid "|bronze| |openrunner|"
 msgstr "|bronze| |openrunner|"
 
-#: ../../source/site/about/sponsorship.rst:171
+#: ../../source/site/about/sponsorship.rst:353
 msgid ""
 "`www.openrunner.com <http://www.openrunner.com/>`_, France (05.2014-05.2015)"
 msgstr "`www.openrunner.com <http://www.openrunner.com/>`_, Франция (05.2014-05.2015)"
 
-#: ../../source/site/about/sponsorship.rst:51
-msgid "|silver| |sourcepole|"
-msgstr "|silver| |sourcepole|"
-
-#: ../../source/site/about/sponsorship.rst:53
-msgid ""
-"`Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2015)"
-msgstr "`Sourcepole AG <http://www.sourcepole.com/>`_, Швейцария (10.2014-10.2015)"
-
-#: ../../source/site/about/sponsorship.rst:160
+#: ../../source/site/about/sponsorship.rst:156
 msgid "|bronze| |lutra|"
 msgstr "|bronze| |lutra|"
 
-#: ../../source/site/about/sponsorship.rst:162
-msgid ""
-"`Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK "
-"(09.2014-09.2015)"
-msgstr "`Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, Великобритания (09.2014-09.2015)"
-
-#: ../../source/site/about/sponsorship.rst:133
+#: ../../source/site/about/sponsorship.rst:348
 msgid "|bronze| |canal|"
 msgstr "|bronze| |canal|"
 
-#: ../../source/site/about/sponsorship.rst:142
+#: ../../source/site/about/sponsorship.rst:153
 msgid "|bronze| |urbsol|"
 msgstr "|bronze| |urbsol|"
 
-#: ../../source/site/about/sponsorship.rst:144
-msgid "`Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2015)"
-msgstr "`Urbsol <http://www.urbsol.com.au/>`_, Австралия (11.2014-11.2015)"
-
-#: ../../source/site/about/sponsorship.rst:151
+#: ../../source/site/about/sponsorship.rst:147
 msgid "|bronze| |mappinggis|"
 msgstr "|bronze| |mappinggis|"
 
-#: ../../source/site/about/sponsorship.rst:153
-msgid "`MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2015)"
-msgstr "`MappingGIS <http://www.mappinggis.com/>`_, Испания (11.2014-11.2015)"
-
-#: ../../source/site/about/sponsorship.rst:98
-msgid "`www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)"
-msgstr "`www.molitec.it <http://www.molitec.it/>`_, Италия (01.2014-01.2016)"
-
-#: ../../source/site/about/sponsorship.rst:123
-msgid "|bronze| |wggios|"
-msgstr "|bronze| |wggios|"
-
-#: ../../source/site/about/sponsorship.rst:125
-msgid ""
-"`Faculty of Geology, Geophysics and Environmental Protection, AGH University"
-" of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Poland "
-"(11.2014-11.2015)"
-msgstr "`Faculty of Geology, Geophysics and Environmental Protection, AGH University of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Польша (11.2014-11.2015)"
-
-#: ../../source/site/about/sponsorship.rst:135
+#: ../../source/site/about/sponsorship.rst:350
 msgid ""
 "`Customer Analytics <http://www.customeranalytics.com/>`_, USA "
 "(12.2014-12.2015)"
 msgstr "`Customer Analytics <http://www.customeranalytics.com/>`_, США (12.2014-12.2015)"
 
-#: ../../source/site/about/sponsorship.rst:42
-msgid "|silver| |opw|"
-msgstr "|silver| |opw|"
-
-#: ../../source/site/about/sponsorship.rst:44
-msgid ""
-"`Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland "
-"(12.2014-12.2015)"
-msgstr "`Office of Public Works, Ireland <http://www.opw.ie/>`_, Ирландия (12.2014-12.2015)"
-
-#: ../../source/site/about/sponsorship.rst:69
+#: ../../source/site/about/sponsorship.rst:120
 msgid "|bronze| |gis_supp|"
 msgstr "|bronze| |gis_supp|"
 
-#: ../../source/site/about/sponsorship.rst:71
-msgid "`GIS-Support <http://www.gis-support.pl/>`_, Poland (02.2015-02.2016)"
-msgstr "`GIS-Support <http://www.gis-support.pl/>`_, Польша (02.2015-02.2016)"
-
-#: ../../source/site/about/sponsorship.rst:78
+#: ../../source/site/about/sponsorship.rst:342
 msgid "|bronze| |adlares|"
 msgstr "|bronze| |adlares|"
 
-#: ../../source/site/about/sponsorship.rst:80
+#: ../../source/site/about/sponsorship.rst:344
 msgid "`ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)"
 msgstr "`ADLARES GmbH <http://www.adlares.com/>`_, Германия (01.2015-01.2016)"
 
-#: ../../source/site/about/sponsorship.rst:89
-msgid ""
-"`GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Germany "
-"(03.2014-03.2016)"
-msgstr "`GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Германия (03.2014-03.2016)"
-
-#: ../../source/site/about/sponsorship.rst:107
-msgid ""
-"`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + "
-"11.2013-11.2016)"
-msgstr "`www.argusoft.de <http://www.argusoft.de/>`_, Германия (06.2012-06.2013 + 11.2013-11.2016)"
-
-#: ../../source/site/about/sponsorship.rst:114
+#: ../../source/site/about/sponsorship.rst:345
 msgid "|bronze| |avioportolano|"
 msgstr "|bronze| |avioportolano|"
 
-#: ../../source/site/about/sponsorship.rst:116
+#: ../../source/site/about/sponsorship.rst:347
 msgid ""
 "`Avioportolano Italia <http://www.avioportolano.it/>`_, Italy "
 "(11.2014-11.2015)"
 msgstr "`Avioportolano Italia <http://www.avioportolano.it/>`_, Италия (11.2014-11.2015)"
+
+#: ../../source/site/about/sponsorship.rst:0
+msgid "Silver sponsors"
+msgstr "Серебряные спонсоры"
+
+#: ../../source/site/about/sponsorship.rst:0
+msgid "Bronze sponsors"
+msgstr "Бронзовые спонсоры"
+
+#: ../../source/site/about/sponsorship.rst:84
+msgid "|bronze| |gaia3d|"
+msgstr "|bronze| |gaia3d|"
+
+#: ../../source/site/about/sponsorship.rst:90
+msgid "|bronze| |windsor|"
+msgstr "|bronze| |windsor|"
+
+#: ../../source/site/about/sponsorship.rst:126
+msgid "|bronze| |chartwell|"
+msgstr "|bronze| |chartwell|"
+
+#: ../../source/site/about/sponsorship.rst:129
+msgid "|bronze| |tragewegen|"
+msgstr "|bronze| |tragewegen|"
+
+#: ../../source/site/about/sponsorship.rst:93
+msgid "|bronze| |gfi|"
+msgstr "|bronze| |gfi|"
+
+#: ../../source/site/about/sponsorship.rst:341
+msgid ""
+"`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + "
+"12.2013-12.2015)"
+msgstr "`www.argusoft.de <http://www.argusoft.de/>`_, Германия (06.2012-06.2013 + 12.2013-12.2015)"
+
+#: ../../source/site/about/sponsorship.rst:117
+msgid "|bronze| |gis3w|"
+msgstr "|bronze| |gis3w|"
+
+#: ../../source/site/about/sponsorship.rst:287
+msgid ""
+"We would like to thank GFOSS.it, the Italian Free and Open Source Software "
+"organisation for the sponsorship they provided to the QGIS project until "
+"early 2012. Visit `GFOSS.it <http://gfoss.it/>`_ for more information (site "
+"mainly in Italian)."
+msgstr "Мы бы хотели поблагодарить GFOSS.it, итальянскую организацию, занимающуюся свободным и открытым программным обеспечением, за спонсорскую помощь проекту QGIS до начала 2012. Подробнее см. на сайте `GFOSS.it <http://gfoss.it/>`_ (сайт в основном на итальянском)."
+
+#: ../../source/site/about/sponsorship.rst:0
+msgid "Past silver sponsors"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:319
+msgid ""
+"`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013 "
+"and 04.2011-04.2012)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:158
+msgid ""
+"`Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK "
+"(10.2015-10.2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:159
+msgid "|bronze| |whg|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:161
+msgid ""
+"`WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany "
+"(08.2015-08.2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:162
+msgid "|bronze| |npa|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:164
+msgid ""
+"`Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK "
+"(07.2015-07.2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:165
+msgid "|bronze| |qpolska|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:74
+msgid "|bronze| |terrelogiche|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:4
+msgid "Sponsors and Donors"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:0
+msgid "Gold sponsors"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:35
+msgid ""
+"|gold| |qgis-ch| `QGIS Usergroup Switzerland <https://www.qgis.ch/>`_, "
+"Switzerland (06.2016-06.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:45
+msgid ""
+"|silver| |vorarlberg| `State of Vorarlberg <http://www.vorarlberg.at/>`_, "
+"Austria (11.2011-06.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:48
+msgid ""
+"|silver| |opw| `Office of Public Works, Ireland <http://www.opw.ie/>`_, "
+"Ireland (12.2014-12.2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:51
+msgid ""
+"|silver| |gaia| `GAIA mbh <http://www.gaia-mbh.de>`_, Germany "
+"(06.2013-11.2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:54
+msgid ""
+"|silver| |sourcepole| `Sourcepole AG <http://www.sourcepole.com/>`_, "
+"Switzerland (10.2014-10.2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:76
+msgid ""
+"`www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy "
+"(06.2015-06.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:78
+msgid "|bronze| |ncc|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:80
+msgid "`NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:81
+msgid "|bronze| |soltig|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:83
+msgid ""
+"`SOLTIG (Soluciones en Tecnologías de Información Geográfica) "
+"<http://www.soltig.net/>`_, Costa Rica (06.2016-06.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:86
+msgid ""
+"`Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:87
+msgid "|bronze| |gepol|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:89
+msgid "`GEPOL <http://www.gepol.com.pl/>`_, Poland (04.2016-04.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:92
+msgid ""
+"`Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK "
+"(04.2015-04.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:95
+msgid ""
+"`GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-"
+"gis.de/>`_, Germany (04.2015-04.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:96
+msgid "|bronze| |teaching_jobs_with_footprints|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:98
+msgid ""
+"`Teaching Jobs with Footprints <http://www.footprintsrecruiting.com"
+"/teaching-jobs-abroad>`_, Canada (04.2016-04-2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:99
+msgid "|bronze| |fornat_ag|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:101
+msgid "`FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2014-04.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:102
+msgid "|bronze| |national_parks_uk|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:104
+msgid ""
+"`National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom "
+"(03.2016-03-2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:105
+msgid "|bronze| |kbb_underground|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:107
+msgid ""
+"`KBB Underground Technologies <http://www.kbbnet.de/en/>`_, Germany "
+"(03.2014-03.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:108
+msgid "|bronze| |bgeo|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:110
+msgid "`BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:111
+msgid "|bronze| |ager_technology|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:113
+msgid ""
+"`Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:114
+msgid "|bronze| |geoinnova|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:116
+msgid ""
+"`Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:119
+msgid "`Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-01.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:122
+msgid "`GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:125
+msgid "`www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-03.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:128
+msgid ""
+"`Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, "
+"Canada (03.2015-03.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:131
+msgid ""
+"`Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:134
+msgid ""
+"`GKG Kassel (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany "
+"(03.2014-03.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:135
+msgid "|bronze| |cawdor_forestry|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:137
+msgid ""
+"`CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, "
+"Scotland (02.2016-02.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:138
+msgid "|bronze| |chameleon_john|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:140
+msgid ""
+"`ChameleonJohn <http://www.chameleonjohn.com/>`_, USA (02.2016-02.2017)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:141
+msgid "|bronze| |2d3dgis|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:143
+msgid "`2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:144
+msgid "|bronze| |kela|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:146
+msgid ""
+"`Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, "
+"Germany (12.2015-12.2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:149
+msgid "`MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2015-11.2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:150
+msgid "|bronze| |hfacts|"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:152
+msgid ""
+"`HostingFacts.com <https://hostingfacts.com/>`_, Estonia (12.2015-12.2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:155
+msgid "`Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:167
+msgid "`QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:0
+msgid "Past gold sponsors"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:314
+msgid ""
+"|silver| |agh| `AGH University of Science and Technology "
+"<http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:0
+msgid "Past Bronze sponsors"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:337
+msgid ""
+"`Geosynergy <www.geosynergy.com.au>`_, Australia "
+"(05.2012-05.2013+06.2015-06-2016)"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:398
+msgid ""
+"Donations can be of any amount, via Paypal or through our bank account "
+"(information available at :ref:`Donations <QGIS-donations>` page). Even a "
+"small donation can make a difference and help to reach important project "
+"goals!"
+msgstr ""
+
+#: ../../source/site/about/sponsorship.rst:405
+msgid ""
+"Donations to QGIS are tax-deductible in several countries. Please refer to "
+"your local tax office for details."
+msgstr ""
+
+#~ msgid "Supporting QGIS"
+#~ msgstr ""
+
+#~ msgid "|silver| |gaia|"
+#~ msgstr ""
+
+#~ msgid "`G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germany (06.2013-06.2014)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria "
+#~ "(11.2011-11.2012)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Donations can be of any amount, via the Paypal button on the frontpage, or "
+#~ "through our bank account (write us for details: cavallini at faunalia dot "
+#~ "it). Even a small donation can make a difference and help to reach important"
+#~ " project goals!"
+#~ msgstr ""
+
+#~ msgid "|silver| |sourcepole|"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (10.2014-10.2015)"
+#~ msgstr ""
+
+#~ msgid "`Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2015)"
+#~ msgstr ""
+
+#~ msgid "`MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2015)"
+#~ msgstr ""
+
+#~ msgid "`www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)"
+#~ msgstr ""
+
+#~ msgid "|bronze| |wggios|"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Faculty of Geology, Geophysics and Environmental Protection, AGH University"
+#~ " of Science and Technology <http://www.wggios.agh.edu.pl/en>`_, Poland "
+#~ "(11.2014-11.2015)"
+#~ msgstr ""
+
+#~ msgid "|silver| |opw|"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland "
+#~ "(12.2014-12.2015)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.eschenlaub.de/>`_, Germany "
+#~ "(03.2014-03.2016)"
+#~ msgstr ""
+
+#~ msgid "|silver| |vorarlberg|"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria "
+#~ "(03.2013-05.2016)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2016)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK "
+#~ "(04.2015-04.2016)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, "
+#~ "Canada (03.2015-03.2016)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2016)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-"
+#~ "gis.de/>`_, Germany (03.2015-03.2016)"
+#~ msgstr ""
+
+#~ msgid "`GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-02.2016)"
+#~ msgstr ""
+
+#~ msgid "`GIS3W <http://www.gis3w.it/>`_, Italy (10.2014-10.2015)"
+#~ msgstr ""
+
+#~ msgid "|silver| |vorarlberg2|"
+#~ msgstr ""
+
+#~ msgid "Past bronze sponsors"
+#~ msgstr ""
+
+#~ msgid "|silver| |agh|"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, "
+#~ "Poland (06.2015-06.2016)"
+#~ msgstr ""
+
+#~ msgid "`QGIS Poland <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy "
+#~ "(06.2015-06.2016)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia "
+#~ "(05.2012-05.2013+06.2015-06-2016)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia "
+#~ "(05.2012-05.2013)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK "
+#~ "(09.2014-09.2015)"
+#~ msgstr ""
+
+#~ msgid "|silver| |land_f|"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We would like to thank GFOSS.it, the Italian Free and Open Source Software "
+#~ "organisation for the sponsorship they provided to the QGIS project until "
+#~ "early 012. Visit `GFOSS.it <http://gfoss.it/>`_ for more information (site "
+#~ "mainly in Italian)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (04.2011-04.2012)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria "
+#~ "(03.2013-03.2015)"
+#~ msgstr ""
+
+#~ msgid "`GIS-Support <http://www.gis-support.pl/>`_, Poland (02.2015-02.2016)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + "
+#~ "11.2013-11.2016)"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "`www.argusoft.de <http://www.argusoft.de/>`_, Germany (06.2012-06.2013 + "

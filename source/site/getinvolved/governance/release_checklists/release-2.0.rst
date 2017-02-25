@@ -1,12 +1,12 @@
 Checklist for QGIS Release 2.0
-------------------------------
+==============================
 
 .. This is a comment and will not be rendered. Please update the items marked
    as |checkbox_unchecked| to |checkbox_checked| when they are completed.
 
 
-Key Dates:
-..........
+Key Dates
+---------
 
 * **1 April 2013** - Feature freeze - no new features in master.
 * **15 April 2013** - API Freeze - no changes to API except where it is in
@@ -19,18 +19,18 @@ Key Dates:
 
 
 Blocking Features
-.................
+-----------------
 
- * Symbology overhaul
- * Labelling overhaul
- * New web site and docs
- * SEXTANTE integration
- * Interface cleanup and consistency
- * Plugins migration
- * Merge new_vector_api branch
+* Symbology overhaul
+* Labelling overhaul
+* New web site and docs
+* SEXTANTE integration
+* Interface cleanup and consistency
+* Plugins migration
+* Merge new_vector_api branch
 
 Release Timeline
-................
+----------------
 
 * |checkbox_unchecked| Small enhancements and bug fixes can continue in trunk
 * |checkbox_unchecked| Set date for next release about two months into the
@@ -43,7 +43,7 @@ Release Timeline
 * |checkbox_unchecked| Check that the QGIS icon 64x64 has master text removed.
 
 Three weeks before - feature freeze Date here
-.............................................
+---------------------------------------------
 
 * |checkbox_unchecked| Only bug fixes go into trunk from here forward, *no new features*.
 * |checkbox_unchecked| Complete merge of new features.
@@ -53,7 +53,7 @@ Three weeks before - feature freeze Date here
 * |checkbox_unchecked| Add link to visual changelog here.
 
 Two weeks before - string freeze - Date here
-............................................
+--------------------------------------------
 
 * Bug fixes can continue in trunk but no more strings can be changed.
   **Note:** the intent here is not for translators to *start* translating now,
@@ -89,7 +89,7 @@ Two weeks before - string freeze - Date here
   their ts files (see pro-forma email below) GUI Translation Team Lead
 
 One week before - branch & call for packaging Date here
-.......................................................
+-------------------------------------------------------
 
 * |checkbox_unchecked| No bug fixes, string changes etc. allowed in branch,
   only packaging related changes.
@@ -107,7 +107,7 @@ One week before - branch & call for packaging Date here
   in anticipation of release (don't publish yet).
 
 Day of release - Date
-.....................
+---------------------
 
 * |checkbox_unchecked| Close off release branch and announce release to the
   world. Date is dependent on package readiness.
@@ -122,7 +122,7 @@ Day of release - Date
 * |checkbox_unchecked| *Release team announce to press* and make packages available.
 
 Packaging Team
-..............
+--------------
 
 +------------------------------+---------------------------------------+----------------------------------------------+
 |Tim Sutton                    |tim at linfiniti.com                   |Release Manager                               |
@@ -158,7 +158,7 @@ page at http://download.qgis.org
 
 
 Post Release
-............
+------------
 
 * |checkbox_unchecked| *qgis.org  Updates*
 
@@ -209,39 +209,40 @@ Post Release
 
 
 Call for translators email
-..........................
+--------------------------
 
 When translations call is made, an email based on the template below should
 be sent out to encourage translators to get there work submitted.::
 
 
-   Hi All (and especially translators)
+ Hi All (and especially translators)
 
-   As of today please note that we are entering string freeze for the run up to
-   the next release. If you are committing bug fixes please avoid changing any
-   strings. Translation .ts files have been updated in SVN so please update your
-   local svn checkouts. The period for translations will close MMMM-DD-YYYY (i.e.
-   about one week from now) and then we will be branching for release. Any
-   translations submitted to us after that time will only be included in the next
-   release, so please submit what you have by then even if it is not complete.
+ As of today please note that we are entering string freeze for the run up 
+ to the next release. If you are committing bug fixes please avoid changing 
+ any strings. Translation .ts files have been updated in SVN so please 
+ update your local svn checkouts. The period for translations will close 
+ MMMM-DD-YYYY (i.e. about one week from now) and then we will be branching
+ for release. Any translations submitted to us after that time will only be
+ included in the next release, so please submit what you have by then even
+ if it is not complete.
 
-   As always you can track the release plans via the checklist at:
-   http://www.qgis.org/wiki/Release_Checklist_2.0.0
+ As always you can track the release plans via the checklist at:
+ http://www.qgis.org/wiki/Release_Checklist_2.0.0
 
-   If you have any questions about the translation process, please see the
-   following page which includes instructions on how to generate a .ts file for a
-   new locale.
-   http://www.qgis.org/wiki/Gui_Translation
+ If you have any questions about the translation process, please see the
+ following page which includes instructions on how to generate a .ts file 
+ for a new locale.
+ http://www.qgis.org/wiki/Gui_Translation
 
-   Many thanks to all the translators out there for the great work you do!
-   Regards,
+ Many thanks to all the translators out there for the great work you do!
+ Regards,
 
-   P.S.: The list of Translation Progress is here
-   http://www.qgis.org/wiki/GUI_Translation_Progress#QGIS_Current_trunk_Version_Progress
+  P.S.: The list of Translation Progress is here
+  http://www.qgis.org/wiki/GUI_Translation_Progress#QGIS_Current_trunk_Version_Progress
 
 
 Branching and Tagging Details
-.............................
+-----------------------------
 
 Branch the release using syntax below (update this with the actual commands you
 used to branch).::
@@ -256,7 +257,7 @@ Tag the release using a signed tag::
 
 
 Bug Tracker System
-..................
+------------------
 
 All bugs that are intended to have been fixed in this release should have been
 marked as closed. All other bugs on the release branch should be marked for a
@@ -271,7 +272,7 @@ future release. To do this:
 
 
 Create the source tarball
-.........................
+-------------------------
 
 This is best achieved by running this little script::
 
@@ -283,13 +284,13 @@ This is best achieved by running this little script::
 
 
 Generate the changelog
-......................
+----------------------
 
 TODO: Add details here on how to generate the changelog.
 
 
 Pro-forma call for packaging announcement
-.........................................
+-----------------------------------------
 
 mail::
 
@@ -299,9 +300,10 @@ mail::
 
  --- Note to casual readers ---
 
- Please do not pre-announce this release - give the packagers and release team
- a chance to do their thing so that people hearing about the release have a fair
- chance of finding a package, reading all our press material etc.
+ Please do not pre-announce this release - give the packagers and release 
+ team a chance to do their thing so that people hearing about the release 
+ have a fair chance of finding a package, reading all our press material
+ etc.
 
  --- End note ---
 
@@ -325,36 +327,38 @@ mail::
 
  Some notes:
 
- - Please do not commit anything to the release branch except packaging related
-   tweaks.
- - If you make a package please be so kind as to update the download wiki page at
-   http://www.qgis.org/wiki/Download with the details of your package.
+ - Please do not commit anything to the release branch except packaging 
+   related tweaks.
+ - If you make a package please be so kind as to update the download wiki 
+   page at http://www.qgis.org/wiki/Download with the details of your 
+   package.
  - If you are able to make packages for unlisted platforms / distros please
-   discuss your plans on this thread so that we can avoid duplication of effort.
- - I would like to make the release announcement next week, so it will be great
-   to have as many packages as possible ready by then.
+   discuss your plans on this thread so that we can avoid duplication of 
+   effort.
+ - I would like to make the release announcement next week, so it will be 
+   great to have as many packages as possible ready by then.
  - GIT master is open again for general commits - please seek guidance from
    Marco Hugentobler (PSC Code Manager) if you are planning any major code
    changes.
  - Please accompany any updates to core with unit tests!
 
- Many thanks to all the developers, testers, bug fixers, bug reporters, document
- writers, translators and users that help to make QGIS a reality!
+ Many thanks to all the developers, testers, bug fixers, bug reporters, 
+ document writers, translators and users that help to make QGIS a reality!
 
- Lastly can I call on the release team (or any interested people) to help to put
- together visual changelog (link below), press announcements etc. ready for the
- release date? I will send you an email when the packages are ready and you can
- start broadcasting announcements.
+ Lastly can I call on the release team (or any interested people) to help 
+ to put together visual changelog (link below), press announcements etc. 
+ ready for the release date? I will send you an email when the packages are 
+ ready and you can start broadcasting announcements.
 
- Visual Changelog Wiki Page: http://changelog.linfiniti.com/version/1/ (this is
- the site for drafting the release, the final release content will be on the
- official QGIS web site).
+ Visual Changelog Wiki Page: http://changelog.linfiniti.com/version/1/ 
+ (this is the site for drafting the release, the final release content will 
+ be on the official QGIS web site).
 
  Best regards
 
 
 Windows Binary upload
-.....................
+---------------------
 
 Put the binary onto the server::
 
@@ -364,7 +368,7 @@ Put the binary onto the server::
 
 Now do a virus check on it. First make a note of the url:
 
-  http://download.osgeo.org/qgis/win32/QGIS-2.0.0-0-No-GrassSetup.exe
+http://download.osgeo.org/qgis/win32/QGIS-2.0.0-0-No-GrassSetup.exe
 
 Now go to GarysHood online virus checker or similar to double check the binary
 is virus free:
@@ -373,13 +377,14 @@ is virus free:
 
 
 Announcing the release
-----------------------
+======================
 
-Note you can get stats for the previous release like with "awstats":
-  http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-OSGeo4W-2.0.0-.*-Setup.exe&urlfilterex=&output=urldetail&config=qgis&framename=mainright&month=all&year=2011
+Note you can get stats for the previous release like with "awstats"::
+
+ http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-OSGeo4W-2.0.0-.*-Setup.exe&urlfilterex=&output=urldetail&config=qgis&framename=mainright&month=all&year=2011
 
 IRC TOPIC update
-................
+----------------
 
 Tim or Gary can update the IRC topic using this procedure:
 
@@ -389,14 +394,14 @@ Tim or Gary can update the IRC topic using this procedure:
   /topic #qgis to: !!QGIS "Dufoor" 2.0.1 released Sept 2013! - http://download.qgis.org || Logs: http://irclogs.geoapt.com/qgis || All activity on this channel is logged !!
 
 Update Version Text File
-........................
+------------------------
 
 The file accessed from the :menuselection:`Help --> Check QGIS Version` menu is
 located at http://qgis.org/version.txt. This should be updated to reflect the
 current release.
 
 Create an announcement template
-...............................
+-------------------------------
 
 An announcement template will save you retypping the same text at the various
 places of announcement. The following text can be used as a basis:
@@ -415,8 +420,8 @@ A generic 20 word summary
 
 ::
 
-  QGIS is a user friendly Open Source Geographic Information System that runs
-  on Linux, Unix, Mac OSX, and Windows.
+  QGIS is a user friendly Open Source Geographic Information System that 
+  runs on Linux, Unix, Mac OSX, and Windows.
 
 
 A mailing list announcement
@@ -432,41 +437,43 @@ A mailing list announcement
   http://download.qgis.org
 
   If there is not yet a package for your platform on the above page, please
-  check back regularly as packagers are still pushing out their work and they
-  will update the download page to reflect the new packages. Along with the
-  release of QGIS 2.0.0, the QGIS Community Team is hard at work on an updated
-  QGIS Users' Guide version 2.0.0. The guide will be available in the near
-  future - we will post announcements when it is available.
+  check back regularly as packagers are still pushing out their work and
+  they will update the download page to reflect the new packages. Along
+  with the release of QGIS 2.0.0, the QGIS Community Team is hard at work
+  on an updated QGIS Users' Guide version 2.0.0. The guide will be available
+  in the near future - we will post announcements when it is available.
 
 A word of thanks to our contributors, donors and sponsors
-.........................................................
+---------------------------------------------------------
 
 ::
 
   QGIS is a largely volunteer driven project, and is the work of a dedicated
   team of developers, documenters and supporters. We extend our thanks and
   gratitude for the many, many hours people have contributed to make this
-  release happen. Many companies and organisations contribute back improvements
-  to QGIS when they use it as their platform, and we are grateful for this and
-  encourage others to do the same! We would also like to thank our sponsors and
-  donors for helping to promote our work through their financial contributions.
+  release happen. Many companies and organisations contribute back
+  improvements to QGIS when they use it as their platform, and we are
+  grateful for this and encourage others to do the same! We would also like
+  to thank our sponsors and donors for helping to promote our work through
+  their financial contributions.
   Our *current* sponsors are:
 
   Silver Sponsor
 
-    - State of Vorarlberg (http://www.vorarlberg.at - Austria, November 2011)
+   - State of Vorarlberg (http://www.vorarlberg.at - Austria, November 2011)
 
   Bronze Sponsors
 
-    - Argusoft (http://www.argusoft.de - Germany, June 2012)
-    - GeoSynergy (http://www.geosynergy.com.au - Australia May, 2012)
-    - ibW Bildungszentrum Wald (http://www.bzwmaienfeld.ch - Switzerland, March 2012)
-    - City of Uster (http://gis.uster.ch - Switzerland - November 2011)
+   - Argusoft (http://www.argusoft.de - Germany, June 2012)
+   - GeoSynergy (http://www.geosynergy.com.au - Australia, May 2012)
+   - ibW Bildungszentrum Wald (http://www.bzwmaienfeld.ch - Switzerland,
+     March 2012)
+   - City of Uster (http://gis.uster.ch - Switzerland, November 2011)
 
   *QGIS Sponsorship is valid for one year.*
 
-  A current list of donors who have made contributions large and small to the
-  project can be seen here:
+  A current list of donors who have made contributions large and small to
+  the project can be seen here:
 
   http://qgis.org/en/sponsorship/donors.html
 
@@ -476,7 +483,7 @@ A word of thanks to our contributors, donors and sponsors
 
 
 Visual tour of the new release:
-...............................
+-------------------------------
 
 ::
 
@@ -487,7 +494,7 @@ Visual tour of the new release:
 
 
 New features with this release:
-...............................
+-------------------------------
 
 ::
 
@@ -498,18 +505,18 @@ New features with this release:
 
 
 A generic product description
-.............................
+-----------------------------
 
 ::
 
   QGIS (QGIS) is a user friendly Open Source Geographic Information System
-  (GIS) that runs on Linux, Unix, Mac OSX, and Windows. QGIS supports vector,
-  raster, and database formats. QGIS is licensed under the GNU General Public
-  License. QGIS lets you browse and create map data on your computer. It
-  supports many common spatial data formats (e.g. ESRI ShapeFile, geotiff).
-  QGIS supports plugins to do things like display tracks from your GPS. QGIS
-  is Open Source software and its free of cost.
+  (GIS) that runs on Linux, Unix, Mac OSX, and Windows. QGIS supports
+  vector, raster, and database formats. QGIS is licensed under the GNU
+  General Public License. QGIS lets you browse and create map data on your
+  computer. It supports many common spatial data formats (e.g. ESRI
+  ShapeFile, geotiff). QGIS supports plugins to do things like display
+  tracks from your GPS. QGIS is Open Source software and its free of cost.
 
 
 A generic features list
-.......................
+-----------------------

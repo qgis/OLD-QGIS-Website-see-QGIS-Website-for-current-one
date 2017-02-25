@@ -1,14 +1,17 @@
 # 
 # Translators:
+# David Paez <davpaez@gmail.com>, 2015
 # Diana Galindo <drgalindog@linuxmail.org>, 2015
+# YoViajo, 2015-2016
+# YoViajo, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-01-10 15:47+0000\n"
-"Last-Translator: Diana Galindo <drgalindog@linuxmail.org>\n"
-"Language-Team: Spanish (http://www.transifex.com/projects/p/qgis-website/language/es/)\n"
+"PO-Revision-Date: 2016-07-13 22:30+0000\n"
+"Last-Translator: YoViajo\n"
+"Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,7 +22,7 @@ msgstr ""
 msgid ""
 "QGIS and GRASS for modelling ecological corridors for wolves in North "
 "Portugal"
-msgstr ""
+msgstr "QGIS y GRASS para la modelación de corredores ecológicos de lobos en el norte de Portugal"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:5
 msgid ""
@@ -33,7 +36,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:12
 msgid "Study area in Portugal"
-msgstr ""
+msgstr "Área de estudio en Portugal"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:14
 msgid ""
@@ -52,7 +55,7 @@ msgid ""
 "I started using GIS software during my biology course, and more often during"
 " my master thesis. At that time I used mainly proprietary software. After I "
 "finished my master degree, I lost access to the proprietary software."
-msgstr ""
+msgstr "Comencé usando software SIG durante mi curso de biología, y más a menudo durante mi tesis de maestría. En aquel tiempo usaba principalmente software propietario. Después de terminar mi grado de maestría, perdí acceso al software propietario."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:18
 msgid ""
@@ -71,11 +74,11 @@ msgstr ""
 msgid ""
 "Ecological corridors and critical conservation areas for wolves in northern "
 "Portugal."
-msgstr ""
+msgstr "Corredores ecológicos y áreas críticas de conservación para lobos en el norte de Portugal."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:42
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusión"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:44
 msgid ""
@@ -94,18 +97,18 @@ msgid ""
 "although there can be some missing issues, easily resolved in the future "
 "with the developers, I don't regret my decision and advise everyone to use "
 "them."
-msgstr ""
+msgstr "El cambio a Linux y luego a QGIS y GRASS fue una de mis mejores decisiones, y aunque puedan haber algunos problemas faltantes, fácilmente solucionables en el futuro con los desarrolladores, no me arrepiento de mi decisión y recomiendo a todos de usarlo."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:49
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:58
 msgid ""
 "This article was contributed in July 2012 by Monica Almeida. She is "
 "conservation biologist working in an non-governmental organization in the "
 "preservation of wolf in Portugal."
-msgstr ""
+msgstr "Este artículo fue contribuido en Julio 2012 por Monica Almeida. Ella es bióloga de la conservación y trabaja en una organización no gubernamental para la preservación del lobo en Portugal."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:20
 msgid ""
@@ -117,17 +120,17 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:23
 msgid "plugin Interpolation in QGIS: to create a Digital Elevation Model"
-msgstr ""
+msgstr "complemento Interpolación en QGIS: para crear un Modelo Digital de Elevación"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:24
 msgid "r.watershed in GRASS: to create water streams from DEM"
-msgstr ""
+msgstr "r.watershed en GRASS: para crear cursos de agua a partir de MDT"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:25
 msgid ""
 "r.grow.distance in GRASS: generates a raster map layer of distance to "
 "features in input layer"
-msgstr ""
+msgstr "r.grow.distance en GRASS: genera una capa mapa ráster de distancia a las entidades en la capa de entrada"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:26
 msgid "r.reclass in GRASS: to reclassify map layers"
@@ -135,11 +138,11 @@ msgstr "r.reclass en GRASS: Para reclasificar capas"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:27
 msgid "r.slope.aspect.slope in GRASS: to calculate the slope from the DEM"
-msgstr ""
+msgstr "r.slope.aspect.slope en GRASS: para calcular la pendiente a partir de un MDT"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:28
 msgid "r.mapcalculator in GRASS: to calculate some simple map algebra"
-msgstr ""
+msgstr "r.mapcalculator en GRASS: para calcular alguna álgebra de mapa simple"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:29
 msgid ""
@@ -152,7 +155,7 @@ msgstr ""
 msgid ""
 "r.drain in GRASS: Traces a flow through an elevation model on a raster map "
 "--– the one used to create the corridors"
-msgstr ""
+msgstr "r.drain en GRASS: Traza un flujo a través de un modelo de elevación en un mapa ráster --- aquel usado para crear los corredores"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:32
 msgid ""
@@ -170,7 +173,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:56
 msgid "Monica Almeida"
-msgstr ""
+msgstr "Monica Almeida"
 
 #~ msgid ""
 #~ "To model the ecological corridors, we used the QGIS along with the GRASS "

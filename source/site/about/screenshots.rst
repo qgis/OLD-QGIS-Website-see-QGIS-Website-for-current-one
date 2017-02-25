@@ -5,11 +5,10 @@
    :format: html
 
 
-QGIS created Maps
-=================
+Map Examples
+============
 
-Below are some maps created with QGIS. 
-
+Here you can find a selection of maps created with QGIS.
 These maps come from the `QGIS maps - Flickr Group <http://www.flickr.com/groups/qgis/pool/>`_.
 
 Map makers show off their creativity and the map making capabilities of QGIS:
@@ -22,8 +21,8 @@ Click on an image to see author and more information about the maps.
 
 :raw-html:`<p style="clear:both">&nbsp;</p>`
 
-QGIS Screenshots
-================
+Screenshots
+===========
 
 Below are some screenshots from QGIS itself and a selection of Maps which are created with QGIS.
 

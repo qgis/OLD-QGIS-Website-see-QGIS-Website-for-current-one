@@ -1,6 +1,5 @@
-.. figure:: images/projects/qgis-icon_2.png
-    :align: center
-    :alt:
+.. _changelog210:
+
 
 Changelog for QGIS 2.10
 =======================
@@ -47,8 +46,8 @@ a hand!
 Finally we would like to thank our official sponsors for the invaluable
 financial support they provide to this project:
 
--  **GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/
-
+-  **GOLD Sponsor:** `Asia Air Survey,
+   Japan, <http://www.asiaairsurvey.com/>`__
 -  SILVER Sponsor: `Sourcepole AG,
    Switzerland <http://www.sourcepole.com/>`__
 -  SILVER Sponsor: `State of Vorarlberg,
@@ -63,7 +62,7 @@ financial support they provide to this project:
 -  BRONZE Sponsor: `www.openrunner.com,
    France <http://www.openrunner.com>`__
 -  BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner),
-   Germany <http://www.eschenlaub.de/>`__
+   Germany <http://www.gkg-kassel.de/>`__
 -  BRONZE Sponsor: `Customer Analytics,
    USA <http://www.customeranalytics.com/>`__
 -  BRONZE Sponsor: `Urbsol, Australia <http://www.urbsol.com.au/>`__
@@ -154,7 +153,7 @@ modification date of a loaded project has changed. This is useful if
 more than one user or session has the same project file open and are
 both attempting to save edits to the project file.
 
-**This feature was developed by:** `Jrgen Fischer
+**This feature was developed by:** `Jürgen Fischer
 (norBIT) <http://www.norbit.de/>`__
 
 |image17|
@@ -173,11 +172,16 @@ will need to use PostGIS or a similar datastore that is able to express
 curvilinear geometries. If you want to have a play you can try a simple
 exercise like this in your PostGIS database::
 
- -- Table: curves DROP TABLE curves; CREATE TABLE curves
- (   id bigserial NOT NULL,   geometry geometry(CURVEPOLYGON, 4326),
- name text,   CONSTRAINT p_key PRIMARY KEY (id) );
- insert into curves values ( 1, st_geomfromtext(
- 'CURVEPOLYGON(CIRCULARSTRING(1 1,1 2, 2 2, 2 1, 1 1))', 4326), 'test');
+ -- Table: curves DROP TABLE curves;
+ CREATE TABLE curves (
+    id bigserial NOT NULL,
+    geometry geometry(CURVEPOLYGON, 4326),
+    name text,
+    CONSTRAINT p_key PRIMARY KEY (id)
+    );
+    
+ INSERT INTO curves VALUES ( 1, st_geomfromtext(
+    'CURVEPOLYGON(CIRCULARSTRING(1 1,1 2, 2 2, 2 1, 1 1))', 4326), 'test');
 
 Then add the layer ``curves`` to your project.
 
@@ -278,7 +282,7 @@ See also `this article on
 qgis.ch <http://www.qgis.ch/en/projects/dxf-export>`__ explaining what
 is supported and what not.
 
-**This feature was developed by:** `Jrgen Fischer
+**This feature was developed by:** `Jürgen Fischer
 (norBIT) <http://www.norbit.de/>`__
 
 **This feature was funded by:** Communities of Morges, Uster, Vevey
