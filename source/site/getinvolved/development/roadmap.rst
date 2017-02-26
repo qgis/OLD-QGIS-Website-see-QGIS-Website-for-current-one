@@ -65,53 +65,46 @@ Beginning after 2.12 the development phase is always 12 weeks and the freeze
 phase is at least 5 weeks.  Remainders are used to extend the freeze phase of
 LTR releases.
 
-Point releases will happen every months on the latest release branch and the
-LTR branch, if there are backports.
+Point releases will happen every month on the latest release branch and the LTR
+branch, if there are backports.
 
-After the release of 2.16 the work on the new major release 3.0 will begin.
-This will involve a switch from our fixed release schedule to an open release.
-
-3.0 will involve many wide-ranging changes, so it not clear in advance how much
-time it will take.  We think it should take between 8-12 month to get to
-3.0.  After that we'll return to the old method.
+The 2.18 release will replace the 2.14 release as LTR, but not replace 2.14 in
+the LTR package repositories before 3.0 is released.
 
 
 Schedule:
 
-===== ================== ============ ============= ======
-Event Version            Date         Week number   Weeks
-===== ================== ============ ============= ======
-PR    2.8.4/2.12.1        27.11.2015   47
-PR    2.8.5/2.12.2        18.12.2015   50
-PR    2.8.6/2.12.3        15.01.2016   2
-LTR   2.14                26.02.2016   8             14
-PR    2.8.7               26.02.2016   8
-PR    2.8.8/2.14.1        25.03.2016   12
-PR    2.8.9/2.14.2        29.04.2016   17
-PR    2.14.3              20.05.2016   20
-FF    (2.15)              03.06.2016   22            5
-LR    2.16                08.07.2016   27            10
-PR    2.14.4              08.07.2016   27
-PR    2.14.5/2.16.1       29.07.2016   30
-PR    2.14.6/2.16.2       26.08.2016   34
-FF    (2.17)              16.09.2016   37            5
-PR    2.14.7/2.16.3       23.09.2016   38
-LR    2.18                21.10.2016   42
-PR    2.14.8              21.10.2016   42
-PR    2.14.9/2.18.1       25.11.2016   47
-PR    2.14.10/2.18.2      16.12.2016   50
-PR    2.14.11/2.18.3      13.01.2017   2
-PR    2.14.12/TBD [1]_    24.02.2017   8
-===== ================== ============ ============= ======
-
-.. (3.5)  DEV   19.05.2017 20          5
-.. 3.6    LR    23.06.2017 25          12
-.. (3.7)  DEV   15.09.2017 37          5
-.. 3.9    LR    20.10.2017 42          12
-.. (3.10) DEV   12.01.2018 2           6
-.. 3.12   LTR   23.02.2018 8           12
-.. (3.13) DEV   18.05.2018 20          5
-.. 3.14   LR    22.06.2018 25
+===== ================ ============ ====== =====
+Event Version           Date        Week # Weeks
+===== ================ ============ ====== =====
+PR    2.14.12/2.18.4    24.02.2017   8      4
+PR    2.14.13/2.18.5    24.03.2017   12     4
+PR    2.14.14/2.18.6    27.04.2017   16     4
+LTR   2.14.15/2.18.7    19.05.2017   20     4
+PR    2.14.16/2.18.8    23.06.2017   26     4
+PR    2.14.17/2.18.9    21.07.2017   29     4
+PR    2.14.18/2.18.10   18.08.2017   33     6
+FF    (2.99)            18.08.2017   33     6
+LR    2.18.11/3.0.0     29.09.2017   39     4
+PR    2.18.12/3.0.1     27.10.2017   43     4
+PR    2.18.13/3.0.2     24.11.2017   47     3
+PR    2.18.14/3.0.3     15.12.2017   50     6
+PR    2.18.15/3.0.4     26.01.2018   4      4
+PR    2.18.16/3.0.5     23.02.2018   8      4
+PR    2.18.17/3.0.6     23.03.2018   12     4
+PR    2.18.18/3.0.7     20.04.2018   16     4
+PR    2.18.19/3.0.8     18.05.2018   20     6
+FF    (3.1)             18.05.2018   20     6
+LTR   3.0.9/3.2.0       29.06.2018   26     4
+PR    3.0.10/3.2.1      27.07.2018   30     4
+PR    3.0.11/3.2.2      24.08.2018   34     4
+PR    3.0.12/3.2.3      21.09.2018   38     5
+FF    (3.3)             21.09.2018   38     5
+LR    3.2.4/3.4.0       26.10.2018   43     4
+PR    3.2.5/3.4.1       30.11.2018   48     2
+PR    3.2.6/3.4.2       14.12.2018   50     6
+PR    3.2.7/3.4.3       25.01.2019   4
+===== ================ ============ ====== =====
 
 Event legend:
 
@@ -124,7 +117,6 @@ FF    Feature freeze, end of development phase
 PR    Point release of latest release and LTR branch
 ===== =================================================
 
-.. [1] there be dragons
 
 .. _QGIS-prereleases:
 
