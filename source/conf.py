@@ -68,7 +68,7 @@ version = '2.18'
 release = '2.18.4'
 codename = u'Las Palmas'
 binary = '1'
-releasedate = date(2016,2,24)
+releasedate = date(2017,2,24)
 releasenote = u"\u200B"
 
 # long term release
