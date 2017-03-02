@@ -17,7 +17,7 @@ Current list of QGIS user groups
 * `NIWA QGIS user group (New Zealand) - contact: Brent Wood <https://teamwork.niwa.co.nz/display/NQUG/NIWA+QGIS+Users+Group>`_
 * `QGIS Norge (Norway) - contact: Antonio Armas Diaz <http://qgis.no/>`_
 * `Lima Perú QGIS User Group (Peru) - contact: Anibal Alarcon <http://qgis.pe/>`_
-* `Polska Grupa Użytkowników QGIS (Poland) - contact: Milena Nowotarska <http://forum.quantum-gis.pl/>`_
+* `Polska Grupa Użytkowników QGIS (Poland) - contact: Milena Nowotarska <http://qgis.pl/>`_
 * `QGIS Portugal - contact: João Gaspar <http://qgis.pt/>`_
 * `QGIS UK (Scotland) - contact: Ross McDonald <https://qgis.uk/>`_
 * `QGIS user group Switzerland - contact: Andreas Neumann <https://qgis.ch/>`_
