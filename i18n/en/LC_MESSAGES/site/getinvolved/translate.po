@@ -104,16 +104,6 @@ msgstr ""
 msgid "Translation"
 msgstr ""
 
-#: ../../source/site/getinvolved/translate.rst:6
-msgid ""
-"QGIS is natively developed in English, either for the user interface (GUI) "
-"or for its documentation and web site. However, all these components are "
-"available in many other languages since it is designed to be translated into"
-" any language quite easily. At this moment over fourthy other languages are "
-"already available (though not all well maintained) for the GUI and more than"
-" twenty for web site and documentation."
-msgstr ""
-
 #: ../../source/site/getinvolved/translate.rst:14
 msgid ""
 "The translation process is managed by the :ref:`Translation Team <gui-"
@@ -257,6 +247,26 @@ msgid ""
 " look in the :menuselection:`Help --> About --> Translators` Box in the QGIS"
 " Desktop Application."
 msgstr ""
+
+#: ../../source/site/getinvolved/translate.rst:6
+msgid ""
+"QGIS is natively developed in English, either for the user interface (GUI) "
+"or for its documentation and web site. However, all these components are "
+"available in many other languages since it is designed to be translated into"
+" any language quite easily. At this moment about forty languages are already"
+" available in the Desktop user interface and about eighty languages are "
+"available in transifex ready to be translated. Nearly the same apply for the"
+" web site and documentation."
+msgstr ""
+
+#~ msgid ""
+#~ "QGIS is natively developed in English, either for the user interface (GUI) "
+#~ "or for its documentation and web site. However, all these components are "
+#~ "available in many other languages since it is designed to be translated into"
+#~ " any language quite easily. At this moment over fourthy other languages are "
+#~ "already available (though not all well maintained) for the GUI and more than"
+#~ " twenty for web site and documentation."
+#~ msgstr ""
 
 #~ msgid ""
 #~ "To start QGIS with the appropriate localization, run ``qgis --lang <language"
