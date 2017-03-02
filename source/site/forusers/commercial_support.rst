@@ -357,3 +357,13 @@ open source technologies). As a QGIS site, our team of geospatial experts use
 QGIS on a daily basis and provide QGIS Support to customers.  We also run
 regular QGIS and PostGIS Training courses.
 
+
+----
+
+.. |whg| image:: /static/site/about/images/whg.png
+   :width: 100 px
+
+|whg| `WhereGroup <http://www.wheregroup.com/>`_
+(Bonn, Germany) provides commercial services and training for QGIS.
+
+
