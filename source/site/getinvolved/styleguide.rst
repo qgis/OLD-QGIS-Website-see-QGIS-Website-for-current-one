@@ -1,6 +1,6 @@
-=======================
 Visual Style Guide
-=======================
+==================
+
 Version 1.0
 -----------
 
@@ -33,11 +33,12 @@ will focus on branding assets and how to spread the
 QGIS brand across the web, mobile devices and printed
 materials.
 
-========
+
 Logotype
-========
-Original
 --------
+
+Original
+........
 
 .. image:: images/main_logo.png 
 .. image:: images/main_logo_monochrome.png 
@@ -72,7 +73,7 @@ The proposed changes are listed below.
 • The QGIS logo text is based on the free & libre Trueno Bold font.
 
 Minimal
---------
+.......
 
 .. image:: images/minimal.png
 
@@ -127,11 +128,11 @@ Minimal
 
 
 
-==========
 Typography
-==========
+----------
+
 Trueno fonts
-------------
+............
 
 Trueno is a free Font Library serif font. In order to embed it, please use ``<link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/trueno" type="text/css"/>`` in the site header
 
@@ -143,11 +144,12 @@ Trueno Regular      'TruenoRegular'
 Trueno Bold         'TruenoBold'
 ==================  =================
 
-=====
+
 Color
-=====
+-----
+
 Primary colors
---------------
+..............
 
 **Dark Green**
 
@@ -192,7 +194,7 @@ website and printed materials background
 .. image:: images/light_green_palette.png
 
 Secondary colors
-----------------
+................
 
 **Lemon**
 
