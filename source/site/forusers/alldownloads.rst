@@ -103,9 +103,9 @@ Our main repository contains multiple lines of packages for several versions of
 provide.
 
 For Ubuntu we also have extra packages in a separate repository that are based
-on ubuntugis, which holds more uptodate versions of other GIS packages than
-Ubuntu itself. If you want those you also need to include ubuntugis ppa in your
-/etc/apt/sources.list file.
+on ubuntugis (https://launchpad.net/~ubuntugis), which holds more uptodate
+versions of other GIS packages than Ubuntu itself. If you want those you also
+need to include ubuntugis ppa in your /etc/apt/sources.list file.
 
 
 .. _QGIS-debian-testing:
