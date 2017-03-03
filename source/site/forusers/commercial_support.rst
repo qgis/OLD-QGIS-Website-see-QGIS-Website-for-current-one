@@ -360,7 +360,7 @@ regular QGIS and PostGIS Training courses.
 
 ----
 
-.. |whg| image:: /static/site/about/images/whg.png
+.. |whg| image:: /static/site/about/images/whg.jpg
    :width: 100 px
 
 |whg| `WhereGroup <http://www.wheregroup.com/>`_
