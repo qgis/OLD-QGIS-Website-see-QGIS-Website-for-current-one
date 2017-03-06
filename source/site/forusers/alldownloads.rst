@@ -47,19 +47,29 @@ Steps are:
 
 - and pick one or more of the following packages:
 
-  +-------------------+------------------------------+--------------+-------------------------------------------------------+
-  | Release           | Version                      | Package      | Description                                           |
-  +===================+==============================+==============+=======================================================+
-  | Latest Release    | |version|.x |codename|       | qgis         | Release                                               |
-  | |releasenote|     |                              +--------------+-------------------------------------------------------+
-  |                   |                              | qgis-rel-dev | Nightly build of the upcoming point release           |
-  +-------------------+------------------------------+--------------+-------------------------------------------------------+
-  | Long Term Release | |ltrversion|.x |ltrcodename| | qgis-ltr     | Release                                               |
-  |                   |                              +--------------+-------------------------------------------------------+
-  |                   |                              | qgis-ltr-dev | Nightly build of the upcoming point long term release |
-  +-------------------+------------------------------+--------------+-------------------------------------------------------+
-  | Development       | 2.17 master_2                | qgis-dev     | Nightly build of the development version              |
-  +-------------------+------------------------------+--------------+-------------------------------------------------------+
+  +-------------------+------------------------------+-------------------+-------------------------------------------------------+
+  | Release           | Version                      | Package           | Description                                           |
+  +===================+==============================+===================+=======================================================+
+  | Latest Release    | |version|.x |codename|       | qgis              | Release                                               |
+  | |releasenote|     |                              +-------------------+-------------------------------------------------------+
+  |                   |                              | qgis-rel-dev [1]_ | Nightly build of the upcoming point release           |
+  +-------------------+------------------------------+-------------------+-------------------------------------------------------+
+  | Long Term Release | |ltrversion|.x |ltrcodename| | qgis-ltr          | Release                                               |
+  |                   |                              +-------------------+-------------------------------------------------------+
+  |                   |                              | qgis-ltr-dev [2]_ | Nightly build of the upcoming point long term release |
+  +-------------------+------------------------------+-------------------+-------------------------------------------------------+
+  | Development       | 2.99 master                  | qgis-dev [3]_     | Nightly build of the development version              |
+  +-------------------+------------------------------+-------------------+-------------------------------------------------------+
+
+.. [1] Latest release nightlies SHA:
+   `32 bit <http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-rel-dev/LATEST.sha>`__,
+   `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-ltr-dev/LATEST.sha>`__
+.. [2]  Latest long-term release nightlies SHA:
+   `32 bit <http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-ltr-dev/LATEST.sha>`__,
+   `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-ltr-dev/LATEST.sha>`__
+.. [3]  Master nightlies SHA:
+   `32 bit <http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-dev/LATEST.sha>`__,
+   `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-dev/LATEST.sha>`__
 
 .. _QGIS-windows-weekly:
 
@@ -145,9 +155,9 @@ Lines of packages:
 |                       |                                | release with           |                                                |
 |                       |                                | ubuntugis dependencies |                                                |
 +-----------------------+--------------------------------+------------------------+------------------------------------------------+
-| Development Version   | 2.99.x master [1]_             | Nightly build for      | http://qgis.org/debian-nightly                 |
+| Development Version   | 2.99.x master [4]_             | Nightly build for      | http://qgis.org/debian-nightly                 |
 |                       |                                | **Debian and Ubuntu**  |                                                |
-|                       |                                | [2]_                   |                                                |
+|                       |                                | [5]_                   |                                                |
 |                       |                                +------------------------+------------------------------------------------+
 |                       |                                | Nightly build with     | http://qgis.org/ubuntugis-nightly              |
 |                       |                                | ubuntugis dependencies |                                                |
@@ -166,17 +176,17 @@ Supported distribution versions:
 |               +-------------+--------------+                       |
 |               | unstable    | sid          |                       |
 +---------------+-------------+--------------+-----------------------+
-| Ubuntu        | 16.04 (LTS) | xenial [2]_  | yes                   |
+| Ubuntu        | 16.04 (LTS) | xenial [5]_  | yes                   |
 |               +-------------+--------------+-----------------------+
 |               | 14.04 (LTS) | trusty       | yes                   |
 |               +-------------+--------------+-----------------------+
-|               | 12.04 (LTS) | precise [3]_ | yes [4]_              |
+|               | 12.04 (LTS) | precise [6]_ | yes [7]_              |
 +---------------+-------------+--------------+-----------------------+
 
-.. [1] only starting with Debian Stretch and Ubuntu Xenial (due to libqca not available for Qt5 in trusty)
-.. [2] master for Xenial only available for ubuntugis (plain Xenial lacks GDAL 2)
-.. [3] only up to QGIS 2.8.x (due to dependency on GEOS 3.4 not available in precise)
-.. [4] only up to QGIS 2.14.x (due to dependency to GDAL >=1.11 not available in precise ubuntugis)
+.. [4] only starting with Debian Stretch and Ubuntu Xenial (due to libqca not available for Qt5 in trusty)
+.. [5] master for Xenial only available for ubuntugis (plain Xenial lacks GDAL 2)
+.. [6] only up to QGIS 2.8.x (due to dependency on GEOS 3.4 not available in precise)
+.. [7] only up to QGIS 2.14.x (due to dependency to GDAL >=1.11 not available in precise ubuntugis)
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
 
