@@ -4,7 +4,7 @@ Visual Style Guide
 Version 1.0
 -----------
 
-This is the QGIS Visual Style Guide. This document defines
+This is our QGIS Visual Style Guide. This document defines
 standards for the use of the our visual identity. It proposes
 a modernization of the QGIS brand to make it stronger,
 more visible and more adaptable to a broad range of use
@@ -14,7 +14,7 @@ The Visual Style Guide is a living document, initiated with
 the goal of developing a consistent message and image
 for QGIS. It is a “living” document because we expect
 it to expand as we cover more use cases where visual
-consistency if important and can be described using
+consistency is important and can be described using
 simpler rules. The standards and simple policies described
 here are designed to maintain the uniformity
 of presentation necessary for successful promotion and
