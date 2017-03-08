@@ -20,6 +20,15 @@ Note2: After the english books there are french, greek and polish items
 English
 =======
 
+QGIS:Becoming a GIS Power User
+******************************
+
+Master data management, visualization, and spatial analysis techniques in QGIS and become a GIS power user 
+
+* https://www.packtpub.com/big-data-and-business-intelligence/qgisbecoming-gis-power-user
+* Anita Graser, Ben Mearns, Alex Mandel, Victor Olaya Ferrero, Alexander Bruy
+* Date: February 2017
+
 Mastering QGIS - Second Edition
 *******************************
 
