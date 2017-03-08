@@ -57,9 +57,6 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |vorarlberg|
        `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-06.2017)
 
-   * - |silver| |opw|
-       `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2016)
-
 .. |osgeo_uk| image:: /static/site/about/images/osgeo_uk.png
    :width: 175 px
 
@@ -68,9 +65,6 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. |vorarlberg| image:: /static/site/about/images/land_f.jpg
    :width: 175 px
-
-.. |opw| image:: /static/site/about/images/opw.jpg
-   :width: 150 px
 
 .. |artogis| image:: /static/site/about/images/artogis.png
    :width: 185 px
@@ -83,6 +77,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |gis3w|
+
+       `Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-03.2018)
+     - |bronze| |syddjurs|
+
+       `Syddjurs kommune <http://www.syddjurs.dk/>`_, Denmark (03.2017-03.2018)
    * - |bronze| |SMPEPCE|
 
        `SMPEPCE (Syndicat Mixte de Production d’Eau Potable de la Côte d’Emeraude) <http://www.syndicat-eau-cote-emeraude.fr/>`_, France (02.2017-02.2018)
@@ -215,11 +215,10 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |tragewegen|
 
        `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2017)
-   * - |bronze| |gis3w|
 
-       `Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-01.2017)
-     - 
 
+.. |syddjurs| image:: /static/site/about/images/syddjurs.png
+   :width: 100 px
 
 .. |SMPEPCE| image:: /static/site/about/images/SMPEPCE.png
    :width: 140 px
@@ -420,12 +419,18 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 .. list-table:: Past silver sponsors
 
+  * - |silver| |opw|
+      `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2016)
+
   * - |silver| |agh|
       `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
 
   * - |silver| |sogis|
 
       `Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013 and 04.2011-04.2012)
+
+.. |opw| image:: /static/site/about/images/opw.jpg
+   :width: 150 px
 
 .. |agh| image:: /static/site/about/images/agh.png
    :width: 90 px
