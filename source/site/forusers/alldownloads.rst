@@ -40,11 +40,8 @@ Steps are:
 
 - Download OSGeo4W Installer (`32 bit <http://download.osgeo.org/osgeo4w/osgeo4w-setup-x86.exe>`_ or
   `64 bit <http://download.osgeo.org/osgeo4w/osgeo4w-setup-x86_64.exe>`_) and start it
-
 - Select *Advanced Install*,
-
-- navigate to the *Desktop* section and
-
+- navigate to the *Desktop* section
 - and pick one or more of the following packages:
 
   +-------------------+------------------------------+-------------------+-------------------------------------------------------+
