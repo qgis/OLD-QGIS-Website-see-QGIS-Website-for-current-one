@@ -55,7 +55,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `QGIS user group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2017)
 
    * - |silver| |vorarlberg|
-       `State of Vorarlberg <http://www.vorarlberg.at/>`_, Austria (11.2011-06.2017)
+       `Land Vorarlberg <http://www.vorarlberg.at/lvg>`_, Austria (11.2011-06.2017)
 
 .. |osgeo_uk| image:: /static/site/about/images/osgeo_uk.png
    :width: 175 px
