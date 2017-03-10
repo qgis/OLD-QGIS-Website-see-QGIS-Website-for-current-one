@@ -14,6 +14,7 @@ Get Involved / Development
     meetings/index
     donations
     faq/index
+    styleguide
 
 .. note::
 
