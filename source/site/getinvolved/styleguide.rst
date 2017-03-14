@@ -46,13 +46,13 @@ Original
 
 **Download logo file**
 
-`SVG logo <files/qgis-logo.svg>`_
+:download:`SVG logo <files/qgis-logo.svg>`
 
-`PNG logo <files/qgis-logo.png>`_
+:download:`PNG logo <files/qgis-logo.png>`
 
-`SVG monochrome logo <files/qgis-logo-monochrome.svg>`_
+:download:`SVG monochrome logo <files/qgis-logo-monochrome.svg>`
 
-`PNG monochrome logo <files/qgis-logo-monochrome.png>`_
+:download:`PNG monochrome logo <files/qgis-logo-monochrome.png>`
 
 
 
@@ -79,52 +79,52 @@ Minimal
 
 **Download minimal logo**
 
-`SVG 128px <files/qgis-icon128.svg>`_
-`SVG 64px <files/qgis-icon64.svg>`_
-`SVG 32px <files/qgis-icon32.svg>`_
+:download:`SVG 128px <files/qgis-icon128.svg>`
+:download:`SVG 64px <files/qgis-icon64.svg>`
+:download:`SVG 32px <files/qgis-icon32.svg>`
 
-`PNG 128px <files/qgis-icon128.png>`_
-`PNG 64px <files/qgis-icon64.png>`_
-`PNG 32px <files/qgis-icon32.png>`_
+:download:`PNG 128px <files/qgis-icon128.png>`
+:download:`PNG 64px <files/qgis-icon64.png>`
+:download:`PNG 32px <files/qgis-icon32.png>`
 
 
 .. image:: images/minimal_black.png
 
 **Download minimal black**
 
-`SVG black 128px <files/qgis-icon-black128.svg>`_
-`SVG black 64px <files/qgis-icon-black64.svg>`_
-`SVG black 32px <files/qgis-icon-black32.svg>`_
+:download:`SVG black 128px <files/qgis-icon-black128.svg>`
+:download:`SVG black 64px <files/qgis-icon-black64.svg>`
+:download:`SVG black 32px <files/qgis-icon-black32.svg>`
 
-`PNG black 128px <files/qgis-icon-black128.png>`_
-`PNG black 64px <files/qgis-icon-black64.png>`_
-`PNG black 32px <files/qgis-icon-black32.png>`_
+:download:`PNG black 128px <files/qgis-icon-black128.png>`
+:download:`PNG black 64px <files/qgis-icon-black64.png>`
+:download:`PNG black 32px <files/qgis-icon-black32.png>`
 
 .. image:: images/minimal_green.png
 
 
 **Download minimal green**
 
-`SVG green 128px <files/qgis-icon-green128.svg>`_
-`SVG green 64px <files/qgis-icon-green64.svg>`_
-`SVG green 32px <files/qgis-icon-green32.svg>`_
+:download:`SVG green 128px <files/qgis-icon-green128.svg>`
+:download:`SVG green 64px <files/qgis-icon-green64.svg>`
+:download:`SVG green 32px <files/qgis-icon-green32.svg>`
 
-`PNG green 128px <files/qgis-icon-green128.png>`_
-`PNG green 64px <files/qgis-icon-green64.png>`_
-`PNG green 32px <files/qgis-icon-green32.png>`_
+:download:`PNG green 128px <files/qgis-icon-green128.png>`
+:download:`PNG green 64px <files/qgis-icon-green64.png>`
+:download:`PNG green 32px <files/qgis-icon-green32.png>`
 
 
 .. image:: images/minimal_white.png
 
 **Download minimal white**
 
-`SVG white 128px <files/qgis-icon-white128.svg>`_
-`SVG white 64px <files/qgis-icon-white64.svg>`_
-`SVG white 32px <files/qgis-icon-white32.svg>`_
+:download:`SVG white 128px <files/qgis-icon-white128.svg>`
+:download:`SVG white 64px <files/qgis-icon-white64.svg>`
+:download:`SVG white 32px <files/qgis-icon-white32.svg>`
 
-`PNG white 128px <files/qgis-icon-white128.png>`_
-`PNG white 64px <files/qgis-icon-white64.png>`_
-`PNG white 32px <files/qgis-icon-white32.png>`_
+:download:`PNG white 128px <files/qgis-icon-white128.png>`
+:download:`PNG white 64px <files/qgis-icon-white64.png>`
+:download:`PNG white 32px <files/qgis-icon-white32.png>`
 
 
 

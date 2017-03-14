@@ -312,9 +312,12 @@ select#languages option {
 .current.reference.internal {
   background-color: lightgray;
 }
-/* external link icon for external links */
-.reference.external {
+/* external link icon for external links, AND for internal :download; directives */
+.reference.external, 
+.reference.download.internal,
+.reference.download.internal tt{
   padding-right: 15px;
+  font-weight:normal;
   background: url(images/link-icon_external.png) center right no-repeat;
 }
 section {
