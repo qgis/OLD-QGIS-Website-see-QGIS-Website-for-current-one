@@ -2894,4 +2894,16 @@
      - 江 秋蓉
    * - 田中 創平
      - 陳 國威
-     -
+     - Harald Kirsch
+   * - Michele and Carlo Rega
+     - Michael Münch
+     - Antonio Fernando Armas Diaz
+   * - Kaarina Foit
+     - Tour Konzept EG
+     - Robert Vandre
+   * - Stichting RIONED
+     - F. Stevens van Abbe
+     - Mederic Ribreux
+   * - Jörg Lange-Eichholz
+     - Stephan Burges
+     
