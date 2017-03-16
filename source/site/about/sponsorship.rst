@@ -77,6 +77,24 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |geoinnova|
+
+       `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2018)
+     - |bronze| |bgeo|
+
+       `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2018)
+   * - |bronze| |gis_supp|
+
+       `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2018)
+     - |bronze| |claasleinert|
+
+       `GKG Kassel (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2018)
+   * - |bronze| |chartwell|
+
+       `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2018)
+     - |bronze| |tragewegen|
+
+       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2018)
    * - |bronze| |gis3w|
 
        `Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-03.2018)
@@ -188,33 +206,13 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |national_parks_uk|
 
        `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2017)
-     - |bronze| |kbb_underground|
-
-       `KBB Underground Technologies <http://www.kbbnet.de/en/>`_, Germany (03.2014-03.2017)
-   * - |bronze| |bgeo|
-
-       `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2017)
-     - |bronze| |ager_technology|
-
-       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2017)
-   * - |bronze| |geoinnova|
-
-       `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2017)
-     - |bronze| |claasleinert|
-
-       `GKG Kassel (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2017)
-   * - |bronze| |gis_supp|
-
-       `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2017)
      - |bronze| |molitec|
 
        `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-03.2017)
-   * - |bronze| |chartwell|
+   * - |bronze| |ager_technology|
 
-       `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2017)
-     - |bronze| |tragewegen|
-
-       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2017)
+       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2017)
+     -
 
 
 .. |syddjurs| image:: /static/site/about/images/syddjurs.png
@@ -292,9 +290,6 @@ goes into the project. These sponsors are listed below with our thanks!
 .. |national_parks_uk| image:: /static/site/about/images/NationalParksUK_logo.jpg
    :width: 90 px
 
-.. |kbb_underground| image:: /static/site/about/images/KBB_Underground_Technologies_logo.jpg
-   :width: 90 px
-
 .. |ager_technology| image:: /static/site/about/images/ager_technology_logo.png
    :width: 90 px
 
@@ -306,9 +301,6 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. |cawdor_forestry| image:: /static/site/about/images/cawdor_forestry_logo.png
    :width: 110 px
-
-.. |chameleon_john| image:: /static/site/about/images/chameleon-john-logo.png
-   :width: 90 px
 
 .. |kela| image:: /static/site/about/images/kela.png
    :width: 90 px
@@ -489,7 +481,12 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
   * - |bronze| |nextgis|
 
       `NextGIS <http://nextgis.org/>`_, Russia (03.2010-03.2011)
-    -
+    - |bronze| |kbb_underground|
+
+      `KBB Underground Technologies <http://www.kbbnet.de/en/>`_, Germany (03.2014-03.2017)
+
+.. |kbb_underground| image:: /static/site/about/images/KBB_Underground_Technologies_logo.jpg
+   :width: 90 px
 
 .. |openrunner| image:: /static/site/about/images/openrunner.png
    :width: 90 px
