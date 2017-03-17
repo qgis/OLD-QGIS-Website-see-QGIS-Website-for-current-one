@@ -11,6 +11,7 @@ Current list of QGIS user groups
 * `QGIS Brasil (Brazil) - contact: Arthur Nanni <http://qgisbrasil.org/>`_
 * `QGIS Brugergruppe Danmark (Denmark) - contact: Lene Fischer <http://qgis.dk/>`_
 * `QGIS UK (England) - contact: Simon Miles <http://qgis.uk/>`_
+* `Groupe des Utilisateurs de QGIS - France (France) - contact: Harrissou Sant-anna <http://osgeo.asso.fr/content/project/qgis-user-fr/>`_
 * `QGIS Anwendergruppe Deutschland (Germany) - contact: Thomas Schüttenberg <http://qgis.de/>`_
 * `Gruppo degli utenti italiani di QGIS (Italy) - contact: Paolo Cavallini <http://qgis.it/>`_
 * `QGIS User Group Japan (OSGeo.JP) - contact: Kosuke ASAHI <http://qgis.jp/>`_
