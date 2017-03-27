@@ -77,6 +77,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |automatic_knowledge|
+
+       `Automatic Knowledge <https://automaticknowledge.co.uk/>`_, UK (03.2016-03-2018)
+     -
    * - |bronze| |geoinnova|
 
        `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2018)
@@ -215,8 +219,11 @@ goes into the project. These sponsors are listed below with our thanks!
      -
 
 
+.. |automatic_knowledge| image:: /static/site/about/images/automatic_knowledge.png
+   :width: 70 px
+
 .. |syddjurs| image:: /static/site/about/images/syddjurs.png
-   :width: 100 px
+   :width: 120 px
 
 .. |SMPEPCE| image:: /static/site/about/images/SMPEPCE.png
    :width: 140 px
