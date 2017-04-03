@@ -42,6 +42,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
+   * - |silver| |AeroAsahi|
+       `AERO ASAHI CORPORATION <https://www.aeroasahi.co.jp/english/>`_, Japan (04.2017-04.2018)
+
    * - |silver| |gaia|
        `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2017)
 
@@ -71,6 +74,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 150 px
+
+.. |AeroAsahi| image:: /static/site/about/images/AeroAsahi.png
+   :width: 180 px
 
 
 .. Bronze sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
