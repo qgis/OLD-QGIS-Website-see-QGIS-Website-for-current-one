@@ -117,6 +117,7 @@ code added into the git code repository.
 * Diagrams: Matthias Kuhn <matthias.kuhn[at]gmx.ch>
 * Attribute table: Matthias Kuhn <matthias.kuhn[at]gmx.ch>
 * Processing Toolbox: Victor Olaya <volayaf[at]gmail.com>
+* MetaSearch plugin: Tom Kralidis <tomkralidis[at]gmail.com>
 
 .. _community-resources:
 
