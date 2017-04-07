@@ -83,10 +83,16 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |QTibia|
+
+       `QTibia Engineering <https://qtibia.ro/>`_, Romania (04.2017-04.2018)
+     -
    * - |bronze| |automatic_knowledge|
 
        `Automatic Knowledge <https://automaticknowledge.co.uk/>`_, UK (03.2016-03-2018)
-     -
+     - |bronze| |ager_technology|
+
+       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2018)
    * - |bronze| |geoinnova|
 
        `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2018)
@@ -219,11 +225,13 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |molitec|
 
        `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-03.2017)
-   * - |bronze| |ager_technology|
 
-       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2017)
-     -
 
+.. |qgis-br| image:: /static/site/about/images/qgis-br.png
+   :width: 75 px
+
+.. |QTibia| image:: /static/site/about/images/QTibia.png
+   :width: 130 px
 
 .. |automatic_knowledge| image:: /static/site/about/images/automatic_knowledge.png
    :width: 70 px
