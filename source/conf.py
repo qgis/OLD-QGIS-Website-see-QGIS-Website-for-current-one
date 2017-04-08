@@ -65,10 +65,10 @@ copyright = u'{0}, QGIS Contributors'.format( datetime.now().year )
 
 # latest release
 version = '2.18'
-release = '2.18.5'
+release = '2.18.6'
 codename = u'Las Palmas'
-binary = '2'
-releasedate = date(2017,3,24)
+binary = '1'
+releasedate = date(2017,4,7)
 releasenote = u"\u200B"
 
 # long term release

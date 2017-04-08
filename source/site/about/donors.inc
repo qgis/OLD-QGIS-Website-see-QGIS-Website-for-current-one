@@ -1174,7 +1174,7 @@
      - Irene Weiland
      - Isabelle Didierjean
    * - Isil Cakci
-     - Ismael Arzola NuÑo
+     - Ismael Arzola Nuño
      - Ismail Ouraich
    * - Italo Loris Ligonzo
      - Ivailo Karamanolev
@@ -2577,7 +2577,7 @@
    * - Sergio Dambrosi
      - Sergio Giovannini
      - Sergio Maria Remoli
-   * - Sergio MuÑoz De Alba Medrano
+   * - Sergio Muñoz De Alba Medrano
      - Sergio Salvador Mored Ferrin
      - Servicios De Consultoría
    * - Servulo Costa
