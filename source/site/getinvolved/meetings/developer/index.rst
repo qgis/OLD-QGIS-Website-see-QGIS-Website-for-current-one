@@ -39,19 +39,19 @@ conjunction with the first `QGIS User Conference 2015 <https://qgis2015.wordpres
 
 Many thanks to our sponsors!
 
- - University of Copenhagen
- - http://www.ku.dk/english
- - https://www.lifa.dk/
- - http://www.dge.dk/
- - http://www.gisgroup.dk/
- - http://www.septima.dk/
- - OSGeo
+- University of Copenhagen
+- http://www.ku.dk/english
+- https://www.lifa.dk/
+- http://www.dge.dk/
+- http://www.gisgroup.dk/
+- http://www.septima.dk/
+- OSGeo
 
 See also:
 
- - `Tim Sutton's Report back on the first QGIS User Conference in Nødebo, Denmark <http://kartoza.com/report-back-on-the-first-qgis-user-conference-in-nodebo-denmark/>`_
- - `Matthias Kuhn's Tak Nødebo <http://www.opengis.ch/2015/05/27/tak-nodebo/>`_
- - `Anita Graser's QGIS 2015 Conference and Developer Meeting Storify <https://storify.com/anitagraser/qgis-2015-conference-and-developer-meeting>`_
+- `Tim Sutton's Report back on the first QGIS User Conference in Nødebo, Denmark <http://kartoza.com/report-back-on-the-first-qgis-user-conference-in-nodebo-denmark/>`_
+- `Matthias Kuhn's Tak Nødebo <http://www.opengis.ch/2015/05/27/tak-nodebo/>`_
+- `Anita Graser's QGIS 2015 Conference and Developer Meeting Storify <https://storify.com/anitagraser/qgis-2015-conference-and-developer-meeting>`_
 
 2014 - 12th QGIS Developer Meeting in Essen
 -------------------------------------------
@@ -73,8 +73,8 @@ large and small to the QGIS project.
 
 See also:
 
- - `Pictures from the QGIS Hackfest in Essen 2014 by Alessandro Pasotti <https://www.flickr.com/photos/45502883@N06/sets/72157648185718289/>`_
- - `Pictures from the QGIS Hackfest in Essen 2014 collected by Anita Graser <https://www.flickr.com/groups/2286344@N25/>`_
+- `Pictures from the QGIS Hackfest in Essen 2014 by Alessandro Pasotti <https://www.flickr.com/photos/45502883@N06/sets/72157648185718289/>`_
+- `Pictures from the QGIS Hackfest in Essen 2014 collected by Anita Graser <https://www.flickr.com/groups/2286344@N25/>`_
 
 2014 - 11th QGIS Developer Meeting in Vienna
 --------------------------------------------
@@ -104,8 +104,8 @@ Latvia.
 
 Many thanks to our sponsors!
 
- - `Valmiera Business and Innovation Incubator (VBII) <http://www.vbii.lv/en/>`_
- - `SunGIS <http://www.sungis.lv/>`_
+- `Valmiera Business and Innovation Incubator (VBII) <http://www.vbii.lv/en/>`_
+- `SunGIS <http://www.sungis.lv/>`_
 
 2012 - 8th QGIS Developer Meeting in Essen
 ------------------------------------------
@@ -115,8 +115,8 @@ Germany.
 
 Many thanks to our sponsors!
 
- - `Geoinformatikbüro Dassau <http://www.gbd-consult.de>`_
- - `Linuxhotel <http://www.linuxhotel.de/>`_
+- `Geoinformatikbüro Dassau <http://www.gbd-consult.de>`_
+- `Linuxhotel <http://www.linuxhotel.de/>`_
 
 2012 - 7th QGIS Developer Meeting in Lyon
 -----------------------------------------
@@ -126,11 +126,11 @@ France.
 
 Many thanks to our sponsors!
 
- - `3Liz <http://www.3liz.com>`_
- - `Camptocamp <http://www.camptocamp.com>`_
- - `Oslandia <http://www.oslandia.com>`_
- - `Services geographiques <http://servicesgeographiques.com>`_
- - QGIS Swiss user group
+- `3Liz <http://www.3liz.com>`_
+- `Camptocamp <http://www.camptocamp.com>`_
+- `Oslandia <http://www.oslandia.com>`_
+- `Services geographiques <http://servicesgeographiques.com>`_
+- QGIS Swiss user group
 
 2011 - 6th QGIS Developer Meeting in Zurich
 -------------------------------------------
@@ -161,7 +161,7 @@ Wroclaw, Poland.
 
 Many thanks to our sponsors!
 
- - `Department of Climatology and Atmosphere Protection <http://www.meteo.uni.wroc.pl/>`_ of the University of Wroclaw provided the venue
+- `Department of Climatology and Atmosphere Protection <http://www.meteo.uni.wroc.pl/>`_ of the University of Wroclaw provided the venue
 
 2010 - 3rd QGIS Developer Meeting in Pisa
 -----------------------------------------
@@ -171,9 +171,9 @@ Tuscany, Italy.
 
 Many thanks to our sponsors!
 
- - `GFOSS.it <http://gfoss.it/>`_ added an euro for each euro of donations and manages all the expenses without overhead
- - The `Parco Naturale di San Rossore <http://www.parcosanrossore.it/>`_ generously allowed us to use its facilities
- - The `GULP, Gruppo Utenti Linux Pisa <http://www.gulp.linux.it/>`_, helped organizing the event
+- `GFOSS.it <http://gfoss.it/>`_ added an euro for each euro of donations and manages all the expenses without overhead
+- The `Parco Naturale di San Rossore <http://www.parcosanrossore.it/>`_ generously allowed us to use its facilities
+- The `GULP, Gruppo Utenti Linux Pisa <http://www.gulp.linux.it/>`_, helped organizing the event
 
 2009 - 2nd QGIS Developer Meeting in Vienna
 -------------------------------------------
@@ -183,8 +183,8 @@ Vienna, Austria.
 
 Many thanks to our sponsors!
 
- - `Institute of Surveying, Remote Sensing and Land Information <http://www.rali.boku.ac.at/ivfl.html?&L=1>`_ provided the venue
- - `FOSSGIS e.V. <http://www.fossgis.de/>`_ for donating 500€ to support the developers
+- `Institute of Surveying, Remote Sensing and Land Information <http://www.rali.boku.ac.at/ivfl.html?&L=1>`_ provided the venue
+- `FOSSGIS e.V. <http://www.fossgis.de/>`_ for donating 500€ to support the developers
 
 2009 - 1st QGIS Developer Meeting in Hannover
 ---------------------------------------------
@@ -194,6 +194,6 @@ Hannover, Germany.
 
 Many thanks to our sponsors!
 
- - `German FOSSGIS e.V. <http://www.fossgis.de/>`_ sponsors the meeting with 500 Euro.
- - `Institute of Environmental Planning, Hannover <http://www.umwelt.uni-hannover.de/umweltplanung.html?&L=1>`_ provided the venue
- - `nature-consult <http://www.nature-consult.de/>_` provides technical equipment
+- `German FOSSGIS e.V. <http://www.fossgis.de/>`_ sponsors the meeting with 500 Euro.
+- `Institute of Environmental Planning, Hannover <http://www.umwelt.uni-hannover.de/umweltplanung.html?&L=1>`_ provided the venue
+- `nature-consult <http://www.nature-consult.de/>_` provides technical equipment
