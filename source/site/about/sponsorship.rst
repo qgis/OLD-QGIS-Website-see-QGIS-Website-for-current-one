@@ -42,6 +42,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
+   * - |silver| |WIGeoGIS|
+       `WIGeoGIS <https://www.wigeogis.com/>`_, Austria (04.2017-04.2018)
+
    * - |silver| |AeroAsahi|
        `AERO ASAHI CORPORATION <https://www.aeroasahi.co.jp/english/>`_, Japan (04.2017-04.2018)
 
@@ -59,6 +62,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |silver| |vorarlberg|
        `Land Vorarlberg <http://www.vorarlberg.at/lvg>`_, Austria (11.2011-06.2017)
+
+.. |WIGeoGIS| image:: /static/site/about/images/WIGeoGIS.png
+   :width: 160 px
 
 .. |osgeo_uk| image:: /static/site/about/images/osgeo_uk.png
    :width: 175 px
