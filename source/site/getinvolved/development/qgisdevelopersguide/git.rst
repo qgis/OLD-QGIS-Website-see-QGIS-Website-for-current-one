@@ -101,7 +101,7 @@ If you're interested in checking out QGIS documentation sources:
 
 .. code-block:: bash
 
-  git clone git@github.com:qgis/QGIS-Documentation.git
+  git clone git://github.com/qgis/QGIS-Documentation.git
 
 You can also take a look at the readme included with the documentation repo for more information.
 
@@ -113,7 +113,7 @@ If you're interested in checking out QGIS website sources:
 
 .. code-block:: bash
 
-  git clone git@github.com:qgis/QGIS-Website.git
+  git clone git://github.com/qgis/QGIS-Website.git
 
 You can also take a look at the readme included with the website repo for more information.
 
