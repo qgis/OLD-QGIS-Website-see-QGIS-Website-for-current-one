@@ -198,7 +198,8 @@ Example latest release for Debian jessie::
 If you use one of our ubuntugis based repositories you also need to add
 following line::
 
- deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu *codename* main
+ deb http://ppa.launchpad.net/ubuntugis/ppa/ubuntu *codename* main
+ deb-src http://ppa.launchpad.net/ubuntugis/ppa/ubuntu *codename* main 
 
 After that type::
 
