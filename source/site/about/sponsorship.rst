@@ -94,7 +94,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `QTibia Engineering <https://qtibia.ro/>`_, Romania (04.2017-04.2018)
      - |bronze| |gaia3d|
 
-       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2017)
+       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2018)
    * - |bronze| |automatic_knowledge|
 
        `Automatic Knowledge <https://automaticknowledge.co.uk/>`_, UK (03.2016-03-2018)
