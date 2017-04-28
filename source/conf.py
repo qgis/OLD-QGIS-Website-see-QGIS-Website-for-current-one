@@ -29,7 +29,7 @@ sys.path.insert(0, os.path.abspath('.'))
 try:
     from docs_conf import *
 except ImportError:
-    print "docs_conf.py not available, building website without documentation part"
+    print("docs_conf.py not available, building website without documentation part")
 
 
 # -- General configuration -----------------------------------------------------
@@ -353,7 +353,7 @@ if 'html_context' in globals():
 else:
     html_context = context
 
-def _warn_node(self, msg, node):
+def _warn_node(self, msg, node, **kwargs):
     if not msg.startswith('nonlocal image URI found:') or "paypal" not in msg:
         self._warnfunc(msg, '%s:%s' % get_source_line(node))
 

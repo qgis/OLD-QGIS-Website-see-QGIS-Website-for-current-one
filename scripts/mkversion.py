@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-execfile("source/conf.py")
+exec(open("source/conf.py").read())
 
 f = open("output/html/version.txt", "w")
 
