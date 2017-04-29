@@ -8,7 +8,7 @@ f.write( """#QGIS Version %(versionint)d|Visit http://download.qgis.org to get y
 <ul>
 <li>The current released version of QGIS is %(version)s.
 <li>We are working on %(devversion)s-Master. It will go into feature freeze on %(freezedate)s and be released as %(nextversion)s on %(nextreleasedate)s.
-<li>Details on changes can be found by examining the Activity in Redmine at <a href="http://hub.qgis.org/projects/quantum-gis">http://hub.qgis.org/projects/quantum-gis</a>.
+<li>Details on changes can be found by examining the Activity in Redmine at <a href="https://issues.qgis.org/projects/qgis">https://issues.qgis.org/projects/qgis</a>.
 </body>
 </html>
 """ % {

@@ -13,7 +13,7 @@ Each part of the QGIS Project has a dedicated place where issues (feature reques
 or bugs) can be reported, managed and discussed. You'll find issues related to:
 
 * QGIS applications (QGIS Desktop, QGIS Browser or QGIS Server) at
-  http://hub.qgis.org/projects/quantum-gis/issues
+  https://issues.qgis.org/projects/qgis/issues
 * the `web site <http://qgis.org>`__ at https://github.com/qgis/QGIS-Website/issues
 * and the `documentation <http://docs.qgis.org>`__ at
   https://github.com/qgis/QGIS-Documentation/issues.
@@ -24,7 +24,7 @@ Reporting issues on QGIS applications
 ---------------------------------------
 
 QGIS applications (QGIS Desktop, QGIS Browser and QGIS Server) issues
-are available in `Redmine <http://hub.qgis.org/projects/quantum-gis/issues>`_.
+are available in `Redmine <https://issues.qgis.org/projects/qgis/issues>`_.
 In order to submit or comment a report, you need an OSGeo account and login. 
 To get started, first `Create an OSGeo account
 <https://www.osgeo.org/cgi-bin/ldap_create_user.py>`_.

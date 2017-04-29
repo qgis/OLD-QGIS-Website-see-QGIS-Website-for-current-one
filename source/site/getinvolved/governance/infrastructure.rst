@@ -35,7 +35,7 @@ Documentation and website
 Wiki and Redmine
 ----------------
 
-- http://hub.qgis.org/projects/quantum-gis/issues
+- https://issues.qgis.org/projects/qgis/issues
 - Pirmin K, ?
 
 

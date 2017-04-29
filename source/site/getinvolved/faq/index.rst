@@ -39,7 +39,7 @@ accurate can be the answer.
 
 .. note::
    In case of a broken function, you may give a look at `QGIS issue tracker
-   <http://hub.qgis.org/projects/quantum-gis/issues>`_ before 
+   <https://issues.qgis.org/projects/qgis/issues>`_ before
    mailing to the list. More information at :ref:`QGIS-bugreporting`.
 
 
@@ -47,7 +47,7 @@ Why is QGIS 2.0 named 'Dufour'?
 -------------------------------
 
 After a succesfull developer meeting in Zurich (Switzerland), we decided that
-the next release should be related to it. 
+the next release should be related to it.
 `General Guillaume-Henri Dufour <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_
 was a famous and influential swiss cartographer. Furthermore Dufourspitze is the
 `highest peak <http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.hiks-dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_ in Switzerland.
@@ -72,7 +72,7 @@ Can I compile QGIS myself?
 --------------------------
 
 Yes, compiling QGIS from source is possible whatever OS you use (Windows, OS X,
-Linux). Please read `Building QGIS from source 
+Linux). Please read `Building QGIS from source
 <http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_
 
 
