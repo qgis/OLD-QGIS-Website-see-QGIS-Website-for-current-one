@@ -29,8 +29,6 @@ git pull
 # if you only want to build one language, do:
 # $ langs=de ./docker-world.sh
 
-time rsync -hvzc -e ssh --progress output/html/version.txt qgis.osgeo.osuosl.org:/var/www/qgisdata/QGIS-Website/live/html
-
 for l in $langs
   do
     time /bin/bash ./docker-run.sh $TARGET LANG=$l
@@ -38,6 +36,8 @@ for l in $langs
     # 21 mar 2015: commented local fall back server www2, and rsync with osgeo server again
     #time rsync -hvrzc --progress output/html/$l /var/www/qgisdata/QGIS-Website/live/html
   done
+
+time rsync -hvzc -e ssh --progress output/html/version.txt qgis.osgeo.osuosl.org:/var/www/qgisdata/QGIS-Website/live/html
 
 now=`date`
 echo "Finished: $now"
