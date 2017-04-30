@@ -126,7 +126,7 @@ output/html/version.txt: source/conf.py
 
 fullhtml: pulldocsources html
 
-full:
+full: springclean
 	@-if [ $(LANG) != "en" ]; then \
 		echo; \
 		echo Pulling $$LANG from transifex; \
