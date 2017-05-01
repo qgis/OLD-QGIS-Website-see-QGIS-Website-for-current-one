@@ -80,7 +80,8 @@ Important information needed when opening a ticket:
 * **Category** - Choose the aspect of the application that is most closely
   associated with the problem
 * **Affected QGIS Version** - Version of QGIS this issue affects
-* **Operating System** - Choose the platform you are using
+* **Operating System** - The Operating System(s) you are using (and also their version), 
+  i.e: Windows 7, macOS 10.12.4, Ubuntu 16.04
 
 Before sending the report, please check the formatting of your report by clicking 
 on "Preview". Please avoid editing existing reports, if not for typos. 
