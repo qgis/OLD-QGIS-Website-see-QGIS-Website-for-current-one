@@ -72,15 +72,15 @@ Important information needed when opening a ticket:
 
   * *Low*: a problem which doesn't affect QGIS usefulness, 
   * *Normal*: the default value, applicable to most bugs and nearly all feature requests, 
-  * *High*: a bug which has a major effect on the usability of a package, 
-  * or *Severe/Regression*: a bug that makes QGIS totally unusable, causes serious 
-    data loss or a regression from a previous QGIS version
+  * *High*: a bug which has a major effect on the usability of a package or
+            a bug that makes QGIS totally unusable. In the form you will find also
+            yes/no fields to allow you detail of the issue is causing a crash or data corruption
+            or if it is a regression (a regression is an issue about a functionality that
+            used to work as expected and then stopped to work in more recent QGIS release)
 * **Category** - Choose the aspect of the application that is most closely
   associated with the problem
-* **Milestone** - If this issue affects a particular Milestone in the project
-  choose it from the drop-down list
-* **Version** - Version of QGIS this issue affects
-* **Platform** - Choose the platform you are using
+* **Affected QGIS Version** - Version of QGIS this issue affects
+* **Operating System** - Choose the platform you are using
 
 Before sending the report, please check the formatting of your report by clicking 
 on "Preview". Please avoid editing existing reports, if not for typos. 
