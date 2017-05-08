@@ -92,7 +92,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |gaia3d|
 
         `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2018)
-     - 
+     - |bronze| |fornat_ag|
+
+       `FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2016-05.2018)
    * - |bronze| |QTibia|
 
        `QTibia Engineering <https://qtibia.ro/>`_, Romania (04.2017-04.2018)
@@ -451,16 +453,12 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 .. list-table:: Past Bronze sponsors
 
-  * - |bronze| |gepol|
-
-       `GEPOL <http://www.gepol.com.pl/>`_, Poland (04.2016-04.2017)
-    -
   * - |bronze| |gfi|
 
       `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (04.2015-04.2017)
-    - |bronze| |fornat_ag|
+    - |bronze| |gepol|
 
-      `FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2014-04.2017)
+       `GEPOL <http://www.gepol.com.pl/>`_, Poland (04.2016-04.2017)
   * - |bronze| |qpolska|
 
       `QGIS user group Poland <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
