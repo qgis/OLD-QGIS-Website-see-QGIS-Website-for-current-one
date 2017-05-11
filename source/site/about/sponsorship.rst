@@ -92,7 +92,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |gaia3d|
 
         `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2018)
-     -
+     - |bronze| |fornat_ag|
+
+       `QGIS user group Sweden <http://qgis.se/>`_, Sweden (05.2017-05.2018)
    * - |bronze| |qgis-br|
 
         `QGIS user group Brazil, Inc. <http://qgisbrasil.org/>`_, Brazil (04.2017-04.2018)
@@ -224,6 +226,9 @@ goes into the project. These sponsors are listed below with our thanks!
        `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2017)
      -
 
+
+.. |qgis-se| image:: /static/site/about/images/qgis-se.png
+   :width: 100 px
 
 .. |qgis-br| image:: /static/site/about/images/qgis-br.png
    :width: 75 px
