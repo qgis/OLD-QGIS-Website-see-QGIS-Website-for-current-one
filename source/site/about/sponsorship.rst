@@ -92,6 +92,10 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |gaia3d|
 
         `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2018)
+     -
+   * - |bronze| |qgis-br|
+
+        `QGIS user group Brazil, Inc. <http://qgisbrasil.org/>`_, Brazil (04.2017-04.2018)
      - |bronze| |fornat_ag|
 
        `FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2016-05.2018)
