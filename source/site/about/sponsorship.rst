@@ -92,7 +92,7 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |gaia3d|
 
         `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2018)
-     - |bronze| |fornat_ag|
+     - |bronze| |qgis-se|
 
        `QGIS user group Sweden <http://qgis.se/>`_, Sweden (05.2017-05.2018)
    * - |bronze| |qgis-br|
