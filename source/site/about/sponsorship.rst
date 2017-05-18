@@ -89,6 +89,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |InfraplanEngineering|
+
+        `Infraplan Engineering Services Pvt. Ltd. <http://www.infraplan.in/>`_, India (05.2017-05.2022)
+     - 
    * - |bronze| |gaia3d|
 
         `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2018)
@@ -226,6 +230,9 @@ goes into the project. These sponsors are listed below with our thanks!
        `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2017)
      -
 
+
+.. |InfraplanEngineering| image:: /static/site/about/images/InfraplanEngineering.png
+   :width: 70 px
 
 .. |qgis-se| image:: /static/site/about/images/qgis-se.png
    :width: 100 px
