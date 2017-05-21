@@ -232,7 +232,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 
 .. |InfraplanEngineering| image:: /static/site/about/images/InfraplanEngineering.png
-   :width: 70 px
+   :width: 85 px
 
 .. |qgis-se| image:: /static/site/about/images/qgis-se.png
    :width: 100 px
