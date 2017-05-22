@@ -5,7 +5,7 @@ Charter of the QGIS.ORG Association
 
 (QGIS.ORG Verein)
 
-​1​ Legal status of QGIS.ORG
+1 Legal status of QGIS.ORG
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 QGIS.ORG is the worldwide association of QGIS users and developers. QGIS.ORG is
@@ -15,7 +15,7 @@ Zivilgesetzbuches (Art. 60-79 ZGB)).
 The German version of this document is the legally binding version. It can be translated into
 other languages.
 
-​2​ Definitions
+2 Definitions
 ^^^^^^^^^^^^^
 
 1. QGIS Project​ - the development, maintenance and propagation of the GIS software
@@ -60,7 +60,7 @@ the election of any new board members.
 elected by the voting members. The financial auditors shall approve the accounts
 annually.
 
-​3​ Goals of QGIS.ORG
+3 Goals of QGIS.ORG
 ^^^^^^^^^^^^^^^^^^^
 
 1. To steer the QGIS project in order to maximise its good standing in the GIS
@@ -85,7 +85,7 @@ initiatives that will be carried out on behalf of the QGIS project and so on.
 7. Act as a liaison between the community of QGIS user groups, and third parties
 interested in knowing about or supporting QGIS.
 
-​4​ QGIS.ORG Legal entities
+4 QGIS.ORG Legal entities
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. The General Meeting (the Voting Members)
@@ -94,7 +94,7 @@ interested in knowing about or supporting QGIS.
 
 These three entities are in place to support and represent the broader QGIS Community.
 
-​5​ General Meeting
+5 General Meeting
 ^^^^^^^^^^^^^^^^^
 
 Voting members of the general meeting are the deciders of policy and any major decisions
@@ -102,7 +102,7 @@ that affect the general standing may be put to the Voting Members for a vote by 
 Voting Members vote on any motion raised at the Annual General Meeting. Voting Members
 also nominate and elect the PSC membership.
 
-​5.1​ Types of voting members
+5.1 Types of voting members
 ...........................
 
 1. QGIS User group​ voting members
@@ -110,7 +110,7 @@ also nominate and elect the PSC membership.
 3. One OSGEO representative ​voting member
 4. Honorary​ voting members
 
-​5.2​ Composition, appointment and role of voting members
+5.2 Composition, appointment and role of voting members
 .......................................................
 
 The voting members shall be appointed according to the following scheme:
@@ -124,7 +124,7 @@ be one voting community member elected.
 ● OSGeo Voting Member:​ One voting member representing the OSGeo foundation
 put forward by the OSGeo board.
 
-​5.3​ Election and eligibility of QGIS User Group voting members
+5.3 Election and eligibility of QGIS User Group voting members
 ..............................................................
 
 ● Only country-level user groups may put forward a nominated voting member.
@@ -133,7 +133,7 @@ put forward by the OSGeo board.
 The user group should democratically nominate one person from within their ranks to act as
 their representative within the QGIS.ORG voting membership.
 
-​5.4​ Election and eligibility of QGIS Community voting members
+5.4 Election and eligibility of QGIS Community voting members
 .............................................................
 
 ● QGIS community members will be nominated and voted for by the established QGIS
@@ -147,7 +147,7 @@ nominee receiving the greatest number of votes being awarded voting membership
 first and so on in descending order of number of votes received until all voting
 memberships have been allocated.
 
-​5.5​ Honorable members
+5.5 Honorable members
 .....................
 
 Honorable members are individual persons who receive special acknowledgment for
@@ -155,7 +155,7 @@ extraordinary achievements in the QGIS project. Applications for the nomination 
 honorable member should be directed to the PSC. The general meeting shall vote about the
 acceptance of a new honorable member. Honorable members shall have voting rights.
 
-​5.6 Voting member terms
+5.6 Voting member terms
 .......................
 
 Voting memberships will be valid until:
@@ -169,7 +169,7 @@ the new PSC member’s place. Outgoing PSC members that were previously voting
 members will need to be re-elected into the voting membership should they wish to
 return to their former role.
 
-​6​ The board
+6 The board
 ^^^^^^^^^^^
 
 The board is the legal representation of the QGIS.ORG project with authority to sign legal
@@ -181,7 +181,7 @@ represented by the chair’s signature and a signature of an additional member o
 The treasurer has sole authority to carry out financial transactions provided they are within
 the bounds of the annual budget authorized by the general meeting.
 
-​6.1​ Election of board members
+6.1 Election of board members
 .............................
 
 Board members shall also be members of the PSC and shall be nominated and elected by
@@ -193,13 +193,13 @@ member’s term, nominees from within the QGIS PSC shall be put forward by the Q
 Voting Members. The outgoing board member shall automatically receive a nomination
 unless he/she no longer wishes to serve on the board.
 
-​6.2​ Terms of members of the board
+6.2 Terms of members of the board
 .................................
 
 Board members will serve for a two year term.
 
 
-​6.3​ Composition of the board
+6.3 Composition of the board
 ............................
 
 The board shall include at minimum these roles:
@@ -214,10 +214,10 @@ Board and PSC members will receive no remuneration for their services other than
 reimbursement of out-of-pocket expenses incurred when carrying out activities on behalf of
 the board.
 
-​7​ The Project Steering Committee (PSC)
+7 The Project Steering Committee (PSC)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-​7.1​ Election of PSC members
+7.1 Election of PSC members
 ...........................
 
 On expiration of a PSC member’s term, nominees from within the QGIS Voting Membership
@@ -237,19 +237,19 @@ awarded PSC membership first and so on in descending order of score of votes rec
 until all PSC memberships have been allocated. A list of currently serving PSC members
 shall be maintained at: https://www.qgis.org/en/site/getinvolved/governance/
 
-​7.2​ Terms of members of the PSC
+7.2 Terms of members of the PSC
 ...............................
 
 PSC members will serve for a two year term.
 
-​7.3​ Honorary PSC members
+7.3 Honorary PSC members
 ........................
 
 Gary Sherman, as founder of the QGIS project, shall be accorded lifetime honorary
 membership on the QGIS PSC from its inception. By common vote, QGIS.ORG may award
 any individual a lifetime honorary seat on the PSC.
 
-​8​ Administration of QGIS.ORG
+8 Administration of QGIS.ORG
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The annual general meeting (AGM) will be held via a virtual forum The online location and
@@ -295,7 +295,7 @@ of the voting members affirming the motion. In case of the liquidation of the as
 general meeting can vote on the usage of the assets of the association with a simple
 majority (more than 50% of voters).
 
-​9​ Financial arrangements
+9 Financial arrangements
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 The financial revenues of QGIS.ORG shall originate from donations, sponsorships, grant
