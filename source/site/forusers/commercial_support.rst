@@ -195,6 +195,16 @@ OpenLayers
 
 ----
 
+.. |septima| image:: /static/site/about/images/septima_small.png
+   :width: 150 px
+
+|septima| `Septima <https://www.septima.dk/>`_ (based in Denmark). At Septima
+we provide training, support, consulting and development within a range of open
+source geospatial projects. We have extensive experience with QGIS plugin
+development, QGIS-server and integrating QGIS with other products.
+
+----
+
 .. |zuidtlogo| image:: /static/site/about/images/zuidt.png
    :width: 75 px
 
