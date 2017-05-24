@@ -20,6 +20,17 @@ Note2: After the english books there are french, greek and polish items
 English
 =======
 
+Open the Door to GIS - Student and Teacher's Edition
+****************************************************
+
+Open the Door to GIS offers a way for teachers to use this powerful software in their classes
+without having to become experts, with freely downloadable Open-Source GIS, QGIS.
+Open the Door to GIS is recommended for students age 10 to 15 years and is available as both a Teacher and Student edition.
+
+* https://locatepress.com/odg
+* Author(s): Toni Fisher
+* Date: May 2017
+
 QGIS Python Programming Cookbook - Second Edition
 *************************************************
 
