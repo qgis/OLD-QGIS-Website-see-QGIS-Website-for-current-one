@@ -14,6 +14,8 @@ categories, of support contractors.
 Core contributors
 -----------------
 
+In lexical order:
+
 .. |3liz| image:: /static/site/about/images/3liz.png
    :height: 100 px
 
@@ -73,8 +75,6 @@ and other FOSS applications.
 |itopen| `It Open <http://www.itopen.it/>`_ (based in Italy) provides commercial support
 and C++/Python development services for QGIS Desktop and Server, PostGIS, Django and other free
 and open source software packages for both the web and the server side.
-
-
 
 ----
 
@@ -159,8 +159,20 @@ developments for QGIS.
 
 ----
 
+.. |zuidtlogo| image:: /static/site/about/images/zuidt.png
+   :width: 75 px
+
+|zuidtlogo| `Zuidt <http://zuidt.nl/>`_ (based in Haarlem, The Netherlands)
+wants Geographical Information to be open and simple.
+Zuidt wants to be THE dutch (international) QGIS specialist, and provides
+consulting, plugin coding and training services.
+
+----
+
 Contributors
 ------------
+
+In lexical order:
 
 .. |cartoexpert| image:: /static/site/about/images/cartoexpert.gif
    :width: 75 px
@@ -195,6 +207,14 @@ OpenLayers
 
 ----
 
+.. |nextgis| image:: /static/site/about/images/nextgis.gif
+   :width: 200 px
+
+|nextgis| `NextGIS <http://nextgis.org/>`_ (based in Moscow, Russia) provides
+commercial support, custom programming and training for QGIS, PostGIS and GRASS.
+
+----
+
 .. |septima| image:: /static/site/about/images/septima_small.png
    :width: 150 px
 
@@ -204,22 +224,6 @@ source geospatial projects. We have extensive experience with QGIS plugin
 development, QGIS-server and integrating QGIS with other products.
 
 ----
-
-.. |zuidtlogo| image:: /static/site/about/images/zuidt.png
-   :width: 75 px
-
-|zuidtlogo| `Zuidt <http://zuidt.nl/>`_ (based in Haarlem, The Netherlands)
-wants Geographical Information to be open and simple.
-Zuidt wants to be THE dutch (international) QGIS specialist, and provides
-consulting, plugin coding and training services.
-
-----
-
-.. |nextgis| image:: /static/site/about/images/nextgis.gif
-   :width: 200 px
-
-|nextgis| `NextGIS <http://nextgis.org/>`_ (based in Moscow, Russia) provides
-commercial support, custom programming and training for QGIS, PostGIS and GRASS.
 
 Others
 ------
