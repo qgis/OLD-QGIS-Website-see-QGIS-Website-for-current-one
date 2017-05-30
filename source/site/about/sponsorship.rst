@@ -32,11 +32,18 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Gold sponsors
 
+   * - |gold| |vorarlberg|
+       `Land Vorarlberg <http://www.vorarlberg.at/lvg>`_, Austria (11.2011-06.2018)
+       
    * - |gold| |qgis-ch|
-       `QGIS user group Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2017)
+       `QGIS user group Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2018)
+
 
 .. |qgis-ch| image:: /static/site/about/images/qgis-ch.png
    :width: 200 px
+
+.. |vorarlberg| image:: /static/site/about/images/land_vorarlberg.jpg
+   :width: 300 px
 
 .. Silver sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
@@ -60,9 +67,6 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |qgis-de|
        `QGIS user group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2017)
 
-   * - |silver| |vorarlberg|
-       `Land Vorarlberg <http://www.vorarlberg.at/lvg>`_, Austria (11.2011-06.2017)
-
 .. |WIGeoGIS| image:: /static/site/about/images/WIGeoGIS.png
    :width: 160 px
 
@@ -71,9 +75,6 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. |qgis-de| image:: /static/site/about/images/qgis-de-logo.png
    :width: 120 px
-
-.. |vorarlberg| image:: /static/site/about/images/land_f.jpg
-   :width: 175 px
 
 .. |artogis| image:: /static/site/about/images/artogis.png
    :width: 185 px
