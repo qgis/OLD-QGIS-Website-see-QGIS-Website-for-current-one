@@ -3002,100 +3002,100 @@
      - Volker Luetzenkirchen
    * - Volker Römer
      - Voyages à Vélo
-     - Walter Dellisanti
-   * - Walter di Lorenzetti (GIS3W)
+     - Waleerat Suphannachart
+   * - Walter Dellisanti
+     - Walter di Lorenzetti (GIS3W)
      - Walter Hesse
-     - Warren Vick
-   * - Wasin Bukaew
+   * - Warren Vick
+     - Wasin Bukaew
      - Waveware Technologies, Inc.
-     - Wayne Bulmer
-   * - Wendelin Schmitt
+   * - Wayne Bulmer
+     - Wendelin Schmitt
      - Wendell Rodrigues Feliciano
-     - Werner Hentschel
-   * - Werner Macho
+   * - Werner Hentschel
+     - Werner Macho
      - Werner Nedon
-     - Werner Nienstedt
-   * - Wesley Ward
+   * - Werner Nienstedt
+     - Wesley Ward
      - Wiktor Zalewski
-     - Wildfire Wanderning
-   * - Wilker De Jesus Silva
+   * - Wildfire Wanderning
+     - Wilker De Jesus Silva
      - William Carleton
-     - William Colson
-   * - William Davis
+   * - William Colson
+     - William Davis
      - William Jesdale
-     - William Kalb
-   * - William Kelleher
+   * - William Kalb
+     - William Kelleher
      - William Levering
-     - William Morgan
-   * - William Pallies
+   * - William Morgan
+     - William Pallies
      - Willy Haefliger
-     - Willy Werlen
-   * - Winifred Frick
+   * - Willy Werlen
+     - Winifred Frick
      - Winston B Hurst
-     - Wirote Assawakulpaibul
-   * - Wolfgang Dennhöfer
+   * - Wirote Assawakulpaibul
+     - Wolfgang Dennhöfer
      - Wolfgang Scheffler
-     - Wolfgang Schindler
-   * - Wolfgang Stoessel
+   * - Wolfgang Schindler
+     - Wolfgang Stoessel
      - Wolfgang Straub
-     - Wolfgang Zuehlke
-   * - Wti
+   * - Wolfgang Zuehlke
+     - Wti
      - Xabier Albizu Zabala
-     - Xavier Maurice
-   * - Xhaustless B V B A
+   * - Xavier Maurice
+     - Xhaustless B V B A
      - Xuejing Zuo
-     - Yadok Biplang
-   * - Yahya Mohatar Abderrahman
+   * - Yadok Biplang
+     - Yahya Mohatar Abderrahman
      - Yamagishi Hiromitsu
-     - Yann Lepage
-   * - Yapa Bandara
+   * - Yann Lepage
+     - Yapa Bandara
      - Yiran Li
-     - Yoichi Kayama
-   * - Yorck Neumann
+   * - Yoichi Kayama
+     - Yorck Neumann
      - Yu Shu
-     - Yuan Harng Lee
-   * - Yuan-kee Lee
+   * - Yuan Harng Lee
+     - Yuan-kee Lee
      - Yujiao Li
-     - Yven Dickhörner
-   * - Yves Bas
+   * - Yven Dickhörner
+     - Yves Bas
      - Yves Froissart
-     - Yves Jacolin
-   * - Yves Louagie
+   * - Yves Jacolin
+     - Yves Louagie
      - za.miastem Sylwia Cichocińska
-     - Zachary Patterson
-   * - Zahir Lazcano
+   * - Zachary Patterson
+     - Zahir Lazcano
      - Zaki Matar
-     - Zebra On Wheels
-   * - Zebra On Wheels Bv
+   * - Zebra On Wheels
+     - Zebra On Wheels Bv
      - Zoltán Varsányi
-     - Zsolt Gal
-   * - Zweli Moya
+   * - Zsolt Gal
+     - Zweli Moya
      - Ângela Seixas
-     - çağla Melisa Kaya
-   * - Ģirts Veinbergs
+   * - çağla Melisa Kaya
+     - Ģirts Veinbergs
      - Žan Kuralt
-     - Глазовский Андрей
-   * - Иваненко Андрей
+   * - Глазовский Андрей
+     - Иваненко Андрей
      - Ивлев дМИТРИЙ
-     - Коробейников Андрей
-   * - Кравцов Сергей
+   * - Коробейников Андрей
+     - Кравцов Сергей
      - Литвяк Юрий
-     - Паршин Александр
-   * - Слинкин Филипп
+   * - Паршин Александр
+     - Слинкин Филипп
      - Трифонова Евгения
-     - Царьков Иван
-   * - אריאל אבלין
+   * - Царьков Иван
+     - אריאל אבלין
      - הלל אייל
-     - เฉลิมศักดิ์ ผมพันธ์
-   * - 伍 维模
+   * - เฉลิมศักดิ์ ผมพันธ์
+     - 伍 维模
      - 吉原 佑
-     - 尾崎 嘉信
-   * - 川野 孝平
+   * - 尾崎 嘉信
+     - 川野 孝平
      - 张 伟红
-     - 林 云
-   * - 江 秋蓉
+   * - 林 云
+     - 江 秋蓉
      - 熊 鴻嘉
-     - 田中 創平
-   * - 陳 國威
+   * - 田中 創平
+     - 陳 國威
      - 黄 艳
-     -
