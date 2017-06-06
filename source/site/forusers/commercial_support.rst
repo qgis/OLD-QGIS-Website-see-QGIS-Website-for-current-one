@@ -231,8 +231,9 @@ Others
 .. |astun| image:: /static/site/about/images/astun.jpg
    :width: 75 px
 
-|astun| `Astun Technology <http://astuntechnology.com/>`_ (based in UK) provides
-training for QGIS.
+|astun| `Astun Technology <http://astuntechnology.com/>`_ was formed in 2005 to provide open source and web-based GIS services to local and central governments.  Today, as all organisations realise the technical and financial benefits of using cloud solutions to create, manage and deliver their crucial GEO services, the demand for Astun's knowledge and experience in delivering marketing leading, fully managed AWS-based GIS cloud solutions, continues to grow. 
+For more information, please visit https://astuntechnology.com/"
+
 
 ----
 
