@@ -16,6 +16,15 @@ Short Introduction with background of the company / institute / authority / univ
 Story about your project/application and what QGIS is used for (length about 400 words plus screenshots)
 Conclusion showing positive experiences/benefits using QGIS (length about 200 words)
 
+2017
+....
+
+.. toctree::
+   :maxdepth: 1
+
+   [2017/05] Using QGIS for FTTH/GPON network planning due to the implementation
+   European Digital Agenda <poland_ffth>
+
 2016
 ....
 
