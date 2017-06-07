@@ -105,7 +105,7 @@ layer of address points to be analysed. Using the standard QGIS interface, the
 user could establish a set of demands on address points and finally provide the
 parameters necessary for further steps of the algorithm.
 
-.. figure:: ./images/step1_inputlayer.png
+.. figure:: ./images/poland_ffth/step1_inputlayer.png
    :alt: Step 1: input layer
    :scale: 60%
    :align: left
@@ -117,7 +117,7 @@ marking them with separate colour indicating its assignment to particular
 cluster.
 
 
-.. figure:: ./images/step1.png
+.. figure:: ./images/poland_ffth/step1.png
    :alt: Step 1
    :scale: 60%
    :align: left
@@ -127,7 +127,7 @@ Having all address points clustered, user initiated the steps of high level
 network planning providing layers prepared in the previous steps and a layer
 with GPON network starting point. 
 
-.. figure:: ./images/step1-2_result.png
+.. figure:: ./images/poland_ffth/step1-2_result.png
    :alt: step 1: result
    :scale: 60%
    :align: left
@@ -137,7 +137,7 @@ representing planned cables and splice closure locations. Basing on demand data
 and network topology, an additional information is stored in database such as
 the length of the cable, its profile, node’s serving areas.
 
-.. figure:: ./images/step4_results.png
+.. figure:: ./images/poland_ffth/step4_results.png
    :alt: step 4: results
    :scale: 60%
    :align: left
@@ -147,12 +147,12 @@ a high level FTTx network technical concept. The final part was generation of
 the data report spreadsheet showing all calculated data from several different
 perspectives.
 
-.. figure:: ./images/report_generated.png
+.. figure:: ./images/poland_ffth/report_generated.png
    :alt: Report generated
    :scale: 60%
    :align: left
 
-.. figure:: ./images/report_generated_and_tranformed.png
+.. figure:: ./images/poland_ffth/report_generated_and_tranformed.png
    :alt: Report generated and tranformed
    :scale: 60%
    :align: left
