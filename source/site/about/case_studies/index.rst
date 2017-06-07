@@ -22,8 +22,7 @@ Conclusion showing positive experiences/benefits using QGIS (length about 200 wo
 .. toctree::
    :maxdepth: 1
 
-   [2017/05] Using QGIS for FTTH/GPON network planning due to the implementation
-   European Digital Agenda <poland_ffth>
+   [2017/05] Using QGIS for FTTH/GPON network planning due to the implementation European Digital Agenda <poland_ffth>
 
 2016
 ....
