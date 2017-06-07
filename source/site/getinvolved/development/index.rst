@@ -13,4 +13,5 @@ Welcome to the QGIS Development pages
     bugreporting
     qgisdevelopersguide/index
     plugindevelopment
+    authplugindevelopment
     addinggrasstools
