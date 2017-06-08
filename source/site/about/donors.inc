@@ -3116,4 +3116,20 @@
      - 田中 創平
    * - 陳 國威
      - 黄 艳
-     -
+     - Harald Kirsch
+   * - Henri Jean-Philippe Sauzier
+     - D.J. de Jager
+     - Francis Hoppe
+   * - R. J. Stemerdink
+     - Jutta Elfried Schnütgen-Weber
+     - Vittorio dell'Aquila
+   * - Le Meunier du 8 INC
+     - Konstantinos Syranidis
+     - Wood Mackenzie Limited
+   * - Valentin Stefan
+     - Dan Erik Vesterback
+     - Josef Weissbacher (Dipl-Ing)
+   * - Pietro Elia Campana
+     - Klemens und Vreni Winzeler
+     - 
+   
