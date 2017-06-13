@@ -230,7 +230,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)   
 
 .. |iag| image:: /static/site/about/images/iag.png
-   :width: 120 px
+   :width: 90 px
 
 .. |Wagner-IT| image:: /static/site/about/images/Wagner-IT.png
    :width: 120 px
