@@ -90,27 +90,39 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
-   * - |bronze| |InfraplanEngineering|
+   * - |bronze| |Wagner-IT|
 
-       `Infraplan Engineering Services Pvt. Ltd. <http://www.infraplan.in/>`_, India (05.2017-05.2022)
-     - |bronze| |terrelogiche|
+       `WAGNER-IT <http://www.wagner-it.de/>`_, Germany (06.2017-06.2018)   
+     - |bronze| |iag|
+
+       `IAG (Insurance Australia Group Limited, Natural Perlis Applications) <https://www.iag.com.au/>`_, Australia (06.2017-06.2018)
+   * - |bronze| |terrelogiche|
 
        `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2018)
+     - |bronze| |soltig|
+
+       `SOLTIG (Soluciones en Tecnologías de Información Geográfica) <http://www.soltig.net/>`_, Costa Rica (06.2016-06.2018)
    * - |bronze| |gaia3d|
 
        `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2018)
-     - |bronze| |qgis-se|
+     - |bronze| |InfraplanEngineering|
 
-       `QGIS user group Sweden <http://qgis.se/>`_, Sweden (05.2017-05.2018)
+       `Infraplan Engineering Services Pvt. Ltd. <http://www.infraplan.in/>`_, India (05.2017-05.2022)
    * - |bronze| |qgis-br|
 
        `QGIS user group Brazil, Inc. <http://qgisbrasil.org/>`_, Brazil (04.2017-04.2018)
-     - |bronze| |fornat_ag|
+     - |bronze| |qgis-se|
 
-       `FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2016-05.2018)
+       `QGIS user group Sweden <http://qgis.se/>`_, Sweden (05.2017-05.2018)
    * - |bronze| |QTibia|
 
        `QTibia Engineering <https://qtibia.ro/>`_, Romania (04.2017-04.2018)
+     - |bronze| |fornat_ag|
+
+       `FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2016-05.2018)
+   * - |bronze| |national_parks_uk|
+
+       `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2018)
      - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2018)
@@ -216,17 +228,12 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |whg|
 
        `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)   
-   * - |bronze| |qgis-pt|
 
-       `QGIS user group Portugal <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)   
-     - |bronze| |soltig|
+.. |iag| image:: /static/site/about/images/iag.png
+   :width: 120 px
 
-       `SOLTIG (Soluciones en Tecnologías de Información Geográfica) <http://www.soltig.net/>`_, Costa Rica (06.2016-06.2017)
-   * - |bronze| |national_parks_uk|
-
-       `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2017)
-     - 
-
+.. |Wagner-IT| image:: /static/site/about/images/Wagner-IT.png
+   :width: 120 px
 
 .. |InfraplanEngineering| image:: /static/site/about/images/InfraplanEngineering.png
    :width: 100 px
@@ -469,7 +476,9 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
   * - |bronze| |ncc|
 
       `NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)
-    -
+    - |bronze| |qgis-pt|
+
+       `QGIS user group Portugal <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)  
   * - |bronze| |gfi|
 
       `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (04.2015-04.2017)
