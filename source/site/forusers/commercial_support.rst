@@ -253,6 +253,13 @@ GRASS GIS and other FOSS GIS applications.
 
 ----
 
+.. |esdm| image:: /static/site/about/images/esdm.png
+   :width: 85 px
+
+|esdm| `exeGesIS SDM Ltd <https://www.esdm.co.uk/>`_ are based in South Wales in the UK. We offer support and training courses at various levels, either public or private, along with bespoke workshops and mentoring. We can assist with the transition from alternative GIS solutions to QGIS, as well as the development of plug-ins to meet your business requirements.
+
+----
+
 .. |geoicon| image:: /static/site/about/images/geoicon.png
    :width: 75 px
 
