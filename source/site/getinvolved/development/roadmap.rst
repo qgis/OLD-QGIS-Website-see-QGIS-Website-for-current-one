@@ -5,21 +5,26 @@
 Road Map
 =========
 
-Since QGIS 2.0 further development will occur based on a timebased roadmap.
+Releases and development of QGIS follow a timebased schedule.
 
-Odd version numbers (2.1, 2.3 etc) are development versions.
+- Even version numbers (2.18, 3.2 etc) are release versions.
 
-Even version numbers (2.2, 2.4 etc) are release versions.
+- Odd version numbers (2.99, 3.1 etc) are development versions.
 
-Release will happen every four month.  In the first three month new development
-is taking place.  Then a feature freeze is invoked and the final month is used
-for testing, bugfixing, translation and release preparations.  When the release
-happens, a branch with a even release number is created and the master branch
-advances to the next odd version.  After the release a call for packaging is
-issued.
+A new release will happen every four months. In the first three months, new 
+development is taking place. In the last month before a release, a feature
+freeze is invoked and the final month is used for testing, bugfixing, 
+translation and release preparations.
+When the release happens, a branch with a even release number is created and
+the master branch advances to the next odd version. After the release a call
+for packaging is issued.
 
 Every third release (starting with 2.8) is a long-term-release (LTR) that is
 maintained until the next long-term-release occurs.
+
+.. note::
+  During the development of QGIS 3.0 and 3.2, an exception to this schedule
+  has been put into place. See the roadmap below for adjusted information.
 
 Development phase
 -----------------
