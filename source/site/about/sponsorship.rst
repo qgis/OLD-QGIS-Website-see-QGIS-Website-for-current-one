@@ -90,6 +90,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |dbg|
+
+       `Datenbankgesellschaft mbH <http://www.datenbankgesellschaft.de/>`_, Germany (06.2017-06.2019)   
+     - |bronze| |LandPlanOS|
+
+       `LandPlan OS GmbH <http://www.landplan-os.de/>`_, Germany (06.2017-06.2018)
    * - |bronze| |Wagner-IT|
 
        `WAGNER-IT <http://www.wagner-it.de/>`_, Germany (06.2017-06.2018)   
@@ -228,6 +234,12 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |whg|
 
        `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)   
+
+.. |dbg| image:: /static/site/about/images/datenbankgesellschaft.jpg
+   :width: 95 px
+
+.. |LandPlanOS| image:: /static/site/about/images/LandPlanOS.png
+   :width: 120 px
 
 .. |iag| image:: /static/site/about/images/iag.png
    :width: 90 px
