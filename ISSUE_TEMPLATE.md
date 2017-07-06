@@ -1,6 +1,6 @@
 ## Description
 
-Include sentences with details describing the issue you have encountered.
+Include sentences with details describing the issue you have encountered (e.g., actual behavior, expected behavior, steps to reproduce).
 
 ## Checklist
 > This is the issue/bug trackers for [QGIS Website](https://qgis.org).
