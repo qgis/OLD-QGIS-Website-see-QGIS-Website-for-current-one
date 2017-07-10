@@ -109,7 +109,7 @@
     <div class="container">
         <div class="span6">
             <p><a href="{{ pathto('site/forusers/download') }}" class="btn btn-large btn-success btn-flat">{{ _('Download Now') }}</a></p>
-            <p class="muted">{{ _('Version') }} {{ release|e }} <br/> {{ _('LTR Version') }} {{ ltrrelease|e }}</p>
+            <p class="muted">{{ _('Version') }} {{ release|e }} {{ releasenote|e }} <br/> {{ _('Version') }} {{ ltrrelease|e }} {{ ltrnote|e }}</p>
         </div>
         <div class="span5">
             <p><a href="{{ pathto('site/getinvolved/index') }}#donate" class="btn btn-large btn-success btn-flat">{{ _('Support QGIS') }}</a></p>

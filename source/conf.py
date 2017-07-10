@@ -70,13 +70,15 @@ release = '2.18.10'
 codename = u'Las Palmas'
 binary = '1'
 releasedate = date(2017, 6, 23)
-releasenote = "(LTR candidate)" # u"\u200B"
+releasenote = "(new LTR)"
 
-# long term release
+
+# long term release repository
 ltrversion = '2.14'
 ltrrelease = '2.14.16'
 ltrcodename = 'Essen'
 ltrbinary = '1'
+ltrnote = "(previous LTR)"
 
 devversion = '2.99'
 nextversion = '3.0'
@@ -324,6 +326,7 @@ def setup(app):
     app.add_config_value('ltrversion', None, 'env')
     app.add_config_value('ltrrelease', None, 'env')
     app.add_config_value('ltrcodename', None, 'env')
+    app.add_config_value('ltrnote', None, 'env')
     app.add_config_value('devversion', None, 'env')
     app.add_config_value('nextfreezedate', None, 'env')
     app.add_config_value('nextreleasedate', None, 'env')
@@ -339,6 +342,7 @@ context = {
     'ltrversion': ltrversion,
     'ltrrelease': ltrrelease,
     'ltrcodename': ltrcodename,
+    'ltrnote': ltrnote,
     'devversion': devversion,
     'nextversion': nextversion,
     'nextfreezedate': nextfreezedate,

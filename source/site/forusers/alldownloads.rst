@@ -48,11 +48,11 @@ Steps are:
   | Release           | Version                      | Package           | Description                                           |
   +===================+==============================+===================+=======================================================+
   | Latest Release    | |version|.x |codename|       | qgis              | Release                                               |
-  | |releasenote|     |                              +-------------------+-------------------------------------------------------+
+  |                   | |releasenote|                +-------------------+-------------------------------------------------------+
   |                   |                              | qgis-rel-dev [1]_ | Nightly build of the upcoming point release           |
   +-------------------+------------------------------+-------------------+-------------------------------------------------------+
   | Long Term Release | |ltrversion|.x |ltrcodename| | qgis-ltr          | Release                                               |
-  |                   |                              +-------------------+-------------------------------------------------------+
+  | Repository        | |ltrnote|                    +-------------------+-------------------------------------------------------+
   |                   |                              | qgis-ltr-dev [2]_ | Nightly build of the upcoming point long term release |
   +-------------------+------------------------------+-------------------+-------------------------------------------------------+
   | Development       | 2.99 master                  | qgis-dev [3]_     | Nightly build of the development version              |
@@ -123,7 +123,7 @@ Lines of packages:
 | Release               | Version                        | Description            | Repository                                     |
 +=======================+================================+========================+================================================+
 | Latest Release        | |version|.x |codename|         | Release for            | http://qgis.org/debian                         |
-| |releasenote|         |                                | **Debian and Ubuntu**  |                                                |
+|                       | |releasenote|                  | **Debian and Ubuntu**  |                                                |
 |                       |                                +------------------------+------------------------------------------------+
 |                       |                                | Release with           | http://qgis.org/ubuntugis                      |
 |                       |                                | ubuntugis dependencies |                                                |
@@ -138,7 +138,7 @@ Lines of packages:
 |                       |                                | ubuntugis dependencies |                                                |
 +-----------------------+--------------------------------+------------------------+------------------------------------------------+
 | Long Term Release     | |ltrversion|.x |ltrcodename|   | Release for            | http://qgis.org/debian-ltr                     |
-|                       |                                | **Debian and Ubuntu**  |                                                |
+| Repository            | |ltrnote|                      | **Debian and Ubuntu**  |                                                |
 |                       |                                +------------------------+------------------------------------------------+
 |                       |                                | Release with           | http://qgis.org/ubuntugis-ltr                  |
 |                       |                                | ubuntugis dependencies |                                                |

@@ -25,7 +25,7 @@ ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS)
 # the i18n builder cannot share the environment and doctrees with the others
 I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) i18n/pot
 
-.PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext
+.PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext schedule
 
 help:
 	@echo "  "
@@ -107,7 +107,7 @@ pulldocsources:
 	# may 21 2014: no more incorporating of docs IN the website
 	#scripts/pulldocsources.sh $(LANG)
 
-html: localizeresources output/html/version.txt
+html: localizeresources output/html/version.txt source/site/getinvolved/development/schedule.inc
 	$(SPHINXINTL) build -l $(LANG) -c $(SOURCEDIR)/conf.py
 	# ONLY in the english version run in nit-picky mode, so source errors/warnings will fail in Travis
 	#  -n   Run in nit-picky mode. Currently, this generates warnings for all missing references.
@@ -312,3 +312,6 @@ pseudoxml:
 	$(SPHINXBUILD) -b pseudoxml $(ALLSPHINXOPTS) $(BUILDDIR)/pseudoxml
 	@echo
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
+
+schedule source/site/getinvolved/development/schedule.inc:
+	python scripts/update-schedule.py
