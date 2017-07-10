@@ -40,7 +40,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 
 .. |qgis-ch| image:: /static/site/about/images/qgis-ch.png
-   :width: 200 px
+   :width: 350 px
 
 .. |vorarlberg| image:: /static/site/about/images/land_vorarlberg.jpg
    :width: 300 px
