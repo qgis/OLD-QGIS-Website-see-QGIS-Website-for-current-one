@@ -61,7 +61,7 @@ Important information needed when opening a ticket:
 * **Description** - Provide a full description of the problem including steps 
   to repeat it; if you think the bug could be related to a certain platform 
   version or dependencies package version (GDAL, OGR, GEOS etc) include that 
-  as well. If your QGIS crashes if might be useful to include a backtrace 
+  as well. If your QGIS crashes it might be useful to include a backtrace 
   (see below). A very important thing when reporting a bug is to boil down 
   a minimum example that is needed to reproduce the bug. 
   The chances of a bug being addressed in a timely manner is directly related 
