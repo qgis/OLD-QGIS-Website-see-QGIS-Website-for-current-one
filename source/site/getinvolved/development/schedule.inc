@@ -1,6 +1,6 @@
 ========== ======= ========= ===== ========== ==== =====
-Event      Regular Long-Term  FF   Date       Week Weeks
-           Repo    Repo                       #
+Event      Latest  Long-Term  FF   Date       Week Weeks
+                   Repo                       #
 ========== ======= ========= ===== ========== ==== =====
 PR         2.18.4  2.14.12         2017-02-24 9     4
 PR         2.18.5  2.14.13         2017-03-24 13    2
