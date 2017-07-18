@@ -110,7 +110,7 @@ pulldocsources:
 	# may 21 2014: no more incorporating of docs IN the website
 	#scripts/pulldocsources.sh $(LANG)
 
-html: localizeresources output/html/version.txt source/site/getinvolved/development/schedule.inc
+html: localizeresources output/html/version.txt source/site/getinvolved/development/schedule.inc source/schedule.py
 	$(SPHINXINTL) --config $(SOURCEDIR)/conf.py build --language=$(LANG)
 
 	# ONLY in the english version run in nit-picky mode, so source errors/warnings will fail in Travis
@@ -124,7 +124,7 @@ html: localizeresources output/html/version.txt source/site/getinvolved/developm
 	@echo
 	@echo "Build finished. The HTML pages for '$(LANG)' are in $(BUILDDIR)."
 
-output/html/version.txt: source/conf.py
+output/html/version.txt: source/conf.py source/schedule.py
 	mkdir -p $(BUILDDIR)
 	python3 scripts/mkversion.py
 
@@ -317,5 +317,5 @@ pseudoxml:
 	@echo
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
 
-schedule source/site/getinvolved/development/schedule.inc:
+schedule source/site/getinvolved/development/schedule.inc source/schedule.py:
 	python3 scripts/update-schedule.py

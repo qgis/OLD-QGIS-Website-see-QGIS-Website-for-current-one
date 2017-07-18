@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-exec(open("source/conf.py").read())
+exec(open("source/schedule.py").read())
 
 f = open("output/html/version.txt", "w")
 
