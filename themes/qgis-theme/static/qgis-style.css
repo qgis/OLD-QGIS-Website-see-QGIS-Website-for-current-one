@@ -692,6 +692,7 @@ section.content h4 {
 }
 #downloads .accordion-inner .qgis-download {
   background: url('images/qgis-logo.png') no-repeat left;
+  background-size: 55px !important;
 }
 #downloads .accordion-inner .osgeo-download {
   background: url('images/osgeo-logo.png') no-repeat left;
