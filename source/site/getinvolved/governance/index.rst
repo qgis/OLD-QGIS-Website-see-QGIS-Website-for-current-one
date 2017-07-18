@@ -11,6 +11,8 @@ Project Organisation
    governance
    trademark/index
    sponsorship/index
+   annual_general_meetings/index
+   annual_reports/index
    finance/index
    infrastructure
    codeofconduct/codeofconduct

@@ -532,7 +532,7 @@ Feature: Code compatibility with version 1.x releases
 As this is a major release, it is not completely API compatible with
 previous 1.x releases. In most cases porting your code should be fairly
 straightforward - you can use `this
-guide <http://hub.qgis.org/wiki/quantum-gis/Python_plugin_API_changes_from_18_to_20>`__
+guide <https://github.com/qgis/QGIS/wiki/Python_plugin_API_changes_from_18_to_20>`__
 to get started. Please use the developer mailing list if you need
 further help.
 

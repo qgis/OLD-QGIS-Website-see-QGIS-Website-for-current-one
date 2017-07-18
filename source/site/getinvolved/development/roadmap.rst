@@ -5,21 +5,26 @@
 Road Map
 =========
 
-Since QGIS 2.0 further development will occur based on a timebased roadmap.
+Releases and development of QGIS follow a timebased schedule.
 
-Odd version numbers (2.1, 2.3 etc) are development versions.
+- Even version numbers (2.18, 3.2 etc) are release versions.
 
-Even version numbers (2.2, 2.4 etc) are release versions.
+- Odd version numbers (2.99, 3.1 etc) are development versions.
 
-Release will happen every four month.  In the first three month new development
-is taking place.  Then a feature freeze is invoked and the final month is used
-for testing, bugfixing, translation and release preparations.  When the release
-happens, a branch with a even release number is created and the master branch
-advances to the next odd version.  After the release a call for packaging is
-issued.
+A new release will happen every four months. In the first three months, new
+development is taking place. In the last month before a release, a feature
+freeze is invoked and the final month is used for testing, bugfixing,
+translation and release preparations.
+When the release happens, a branch with a even release number is created and
+the master branch advances to the next odd version. After the release a call
+for packaging is issued.
 
 Every third release (starting with 2.8) is a long-term-release (LTR) that is
 maintained until the next long-term-release occurs.
+
+.. note::
+  During the development of QGIS 3.0 and 3.2, an exception to this schedule
+  has been put into place. See the roadmap below for adjusted information.
 
 Development phase
 -----------------
@@ -38,8 +43,8 @@ the nightly builds effectively into :ref:`prereleases <QGIS-prereleases>`.
 
 **Users** should start extensive testing of these prereleases in their
 environment to verify that there are no issues, they wouldn't want to see in
-the upcoming release.  All such issues should be reported 
-(see :ref:`Bugs, Features and Issues <QGIS-bugreporting>`). 
+the upcoming release.  All such issues should be reported
+(see :ref:`Bugs, Features and Issues <QGIS-bugreporting>`).
 Everything that goes unnoticed, will also end up in the next
 release.  Only in case of serious problems backports to a latest release will
 occur.  Therefore testing of the prereleases and reporting issues is very
@@ -78,39 +83,7 @@ the LTR package repositories before 3.0 is released.
 
 Schedule:
 
-===== ======= ========= ========== ==== =====
-Event Latest  Long-Term Date       Week Weeks
-              (repos)              #
-===== ======= ========= ========== ==== =====
-PR    2.18.4  2.14.12   24.02.2017 8    4
-PR    2.18.5  2.14.13   24.03.2017 12   2
-EPR   2.18.6            07.04.2017 14   2
-PR    2.18.7  2.14.14   21.04.2017 16   4
-LTR   2.18.8  2.14.15   19.05.2017 20   4
-PR    2.18.9  2.14.16   23.06.2017 26   4
-PR    2.18.10 2.14.17   21.07.2017 29   4
-PR    2.18.11 2.14.18   18.08.2017 33   6
-FF    (2.99)            18.08.2017 33   6
-LR    3.0.0   2.18.12   29.09.2017 39   4
-PR    3.0.1   2.18.13   27.10.2017 43   4
-PR    3.0.2   2.18.14   24.11.2017 47   3
-PR    3.0.3   2.18.15   15.12.2017 50   6
-PR    3.0.4   2.18.16   26.01.2018 4    4
-PR    3.0.5   2.18.17   23.02.2018 8    4
-PR    3.0.6   2.18.18   23.03.2018 12   4
-PR    3.0.7   2.18.19   20.04.2018 16   4
-PR    3.0.8   2.18.20   18.05.2018 20   6
-FF    (3.1)             18.05.2018 20   6
-LTR   3.2.0   2.18.21   29.06.2018 26   4
-PR    3.2.1   2.18.22   27.07.2018 30   4
-PR    3.2.2   2.18.23   24.08.2018 34   4
-PR    3.2.3   2.18.24   21.09.2018 38   5
-FF    (3.3)             21.09.2018 38   5
-LR    3.4.0   3.2.4     26.10.2018 43   4
-PR    3.4.1   3.2.5     30.11.2018 48   2
-PR    3.4.2   3.2.6     14.12.2018 50   6
-PR    3.4.3   3.2.7     25.01.2019 4
-===== ======= ========= ========== ==== =====
+.. include:: schedule.inc
 
 Event legend:
 

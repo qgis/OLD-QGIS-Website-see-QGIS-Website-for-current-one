@@ -7,4 +7,3 @@ The QGIS Developer Meeting Program
    :maxdepth: 2
 
    reimbursements
-   lyon_finances_report

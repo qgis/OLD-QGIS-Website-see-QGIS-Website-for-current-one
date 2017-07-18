@@ -298,10 +298,10 @@ Patch file naming
 
 If the patch is a fix for a specific bug, please name the file with the bug
 number in it e.g. bug777fix.patch, and attach it to the `original bug report in trac 
-<http://hub.qgis.org/projects/quantum-gis>`_.
+<https://issues.qgis.org/projects/qgis>`_.
 
 If the bug is an enhancement or new feature, its usually a good idea to create
-a `ticket in trac <http://hub.qgis.org/projects/quantum-gis>`_ 
+a `ticket in trac <http://issues.qgis.org/projects/qgis>`_ 
 first and then attach your patch.
 
 

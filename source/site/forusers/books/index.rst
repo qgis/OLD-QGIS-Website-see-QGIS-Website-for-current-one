@@ -20,6 +20,28 @@ Note2: After the english books there are french, greek and polish items
 English
 =======
 
+Open the Door to GIS - Student and Teacher's Edition
+****************************************************
+
+Open the Door to GIS offers a way for teachers to use this powerful software in their classes
+without having to become experts, with freely downloadable Open-Source GIS, QGIS.
+Open the Door to GIS is recommended for students age 10 to 15 years and is available as both a Teacher and Student edition.
+
+* https://locatepress.com/odg
+* Author(s): Toni Fisher
+* Date: May 2017
+
+QGIS Python Programming Cookbook - Second Edition
+*************************************************
+
+Based on version QGIS 2.18, this book will teach you how to write Python code that 
+works with spatial data to automate geoprocessing tasks in QGIS.
+
+* https://www.packtpub.com/application-development/qgis-python-programming-cookbook-second-edition
+* Author(s): Joel Lawhead
+* Date: March 2017
+
+
 QGIS:Becoming a GIS Power User
 ******************************
 
@@ -28,6 +50,7 @@ Master data management, visualization, and spatial analysis techniques in QGIS a
 * https://www.packtpub.com/big-data-and-business-intelligence/qgisbecoming-gis-power-user
 * Anita Graser, Ben Mearns, Alex Mandel, Victor Olaya Ferrero, Alexander Bruy
 * Date: February 2017
+
 
 Mastering QGIS - Second Edition
 *******************************
@@ -67,6 +90,7 @@ Use QGIS to create great maps and perform all the geoprocessing tasks you need.
 * Author(s): Anita Graser
 * Date: March 2016
 
+
 QGIS Map Design 
 ****************
 
@@ -75,6 +99,7 @@ Learn how to use QGIS to take your cartographic products to the highest level.
 * http://locatepress.com/qmd
 * Author(s): Anita Graser and Gretchen N. Peterson
 * Date: March 2016
+
 
 Mastering QGIS
 ***************
@@ -88,6 +113,7 @@ ways.
   - Dr John Van Hoesen, GISP
 * Date: March 2015
 
+
 QGIS Blueprints
 ****************
 
@@ -96,6 +122,7 @@ Develop analytical location-based web applications with QGIS
 * https://www.packtpub.com/hardware-and-creative/qgis-blueprints
 * Author(s): Ben Mearn
 * Date: September 2015
+
 
 QGIS By Example
 ****************
@@ -106,16 +133,6 @@ in cartography and GIS analysis
 * https://www.packtpub.com/application-development/qgis-example
 * Author(s): Alexander Bruy, Daria Svidzinsk
 * Date: June 2015
-
-QGIS Python Programming Cookbook
-********************************
-
-Over 140 recipes to help you turn QGIS from a desktop GIS tool into a powerful 
-automated geospatial framework
-
-* https://www.packtpub.com/application-development/qgis-python-programming-cookbook
-* Author(s): Joel Lawhead
-* Date: March 2015
 
 
 The PyQGIS Programmer's Guide - Extending QGIS with Python
@@ -128,6 +145,7 @@ scripts and plugins to implement new features and perform automated tasks.
 * http://locatepress.com/ppg
 * Author(s): Gary Sherman
 * Date: April 2014
+
 
 The QGIS Training Manual - A Comprehensive Introduction to Quantum GIS
 ***********************************************************************

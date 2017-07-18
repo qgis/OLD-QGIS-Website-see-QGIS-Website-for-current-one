@@ -1839,46 +1839,46 @@ Here are the tickets he has dealt with during his allocated time for QGIS 2.16 b
 
 **Severe/High:**
 
-* https://hub.qgis.org/issues/15006: Crashes in standalone browser
-* https://hub.qgis.org/issues/14876: WFS client broken in QGIS master
-* https://hub.qgis.org/issues/13762: Error accessing external WMS server --
+* https://issues.qgis.org/issues/15006: Crashes in standalone browser
+* https://issues.qgis.org/issues/14876: WFS client broken in QGIS master
+* https://issues.qgis.org/issues/13762: Error accessing external WMS server --
   WMS provider: Cannot calculate extent
-* https://hub.qgis.org/issues/14927: Attribute table sorting problem with
+* https://issues.qgis.org/issues/14927: Attribute table sorting problem with
   qgis-rel-dev (2.14.X regression)
-* https://hub.qgis.org/issues/15064: QGIS crashes on OGR layers with wkbUnknown25D,
+* https://issues.qgis.org/issues/15064: QGIS crashes on OGR layers with wkbUnknown25D,
   wkbUnknownM/Z/ZM layer geometry type
-* https://hub.qgis.org/issues/14844: Oblique Mercator projection hanging when
+* https://issues.qgis.org/issues/14844: Oblique Mercator projection hanging when
   rendering map
-* https://hub.qgis.org/issues/15047: ASSERT failure in QVector[HTML\_REMOVED]::at:
+* https://issues.qgis.org/issues/15047: ASSERT failure in QVector[HTML\_REMOVED]::at:
   "index out of range" in qgis\_attributetabletest (TestQgsAttributeTable)
-* https://hub.qgis.org/issues/15087: Crash when deleting the last segment of a
+* https://issues.qgis.org/issues/15087: Crash when deleting the last segment of a
   compoundcurve
 
 **Normal**
 
-* https://hub.qgis.org/issues/14965: wfs provider copies features when zoomin in and out
-* https://hub.qgis.org/issues/14928: WMS request without BBOX
-* https://hub.qgis.org/issues/14999: Spatialite provider does not support alphanumeric
+* https://issues.qgis.org/issues/14965: wfs provider copies features when zoomin in and out
+* https://issues.qgis.org/issues/14928: WMS request without BBOX
+* https://issues.qgis.org/issues/14999: Spatialite provider does not support alphanumeric
   primary keys (backport in 2.14)
 * http://hub.qgis.org/issues/15061: Cannot add WFS layer
-* https://hub.qgis.org/issues/15065: Failed detection of geometry type in some conditions
-* https://hub.qgis.org/issues/15066: OGR: Sublayers detected sometimes when not
+* https://issues.qgis.org/issues/15065: Failed detection of geometry type in some conditions
+* https://issues.qgis.org/issues/15066: OGR: Sublayers detected sometimes when not
   relevant (Polygon/CurvePolygon)
-* https://hub.qgis.org/issues/15067: DXF export creates invalid file
-* https://hub.qgis.org/issues/15081: Impossible to clear geometry of feature from a shapefile
+* https://issues.qgis.org/issues/15067: DXF export creates invalid file
+* https://issues.qgis.org/issues/15081: Impossible to clear geometry of feature from a shapefile
 * unreported [Geometry] Fix various issues related to Wkb/Wkt import
 
 **Other:**
 
-* https://hub.qgis.org/issues/14981: Import of Shapefile to Geopackage-Database
+* https://issues.qgis.org/issues/14981: Import of Shapefile to Geopackage-Database
   in DB-Manager fails (analysis)
-* https://hub.qgis.org/issues/15011: Browser panel is unusable (bisection
+* https://issues.qgis.org/issues/15011: Browser panel is unusable (bisection
   & analysis)
-* https://hub.qgis.org/issues/14909: regression: QGIS crashes when closing
+* https://issues.qgis.org/issues/14909: regression: QGIS crashes when closing
   docked attribute table (analysis)
-* https://hub.qgis.org/issues/13353: QGIS and gdal 2.0.0 (closed: no further
+* https://issues.qgis.org/issues/13353: QGIS and gdal 2.0.0 (closed: no further
   action needed)
-* https://hub.qgis.org/issues/15053: WMS with EPSG:31255 is shifted
+* https://issues.qgis.org/issues/15053: WMS with EPSG:31255 is shifted
   (datum=hermannskogel) (analysis. probably outdated proj.4 version)
 
 Sandro Santilli

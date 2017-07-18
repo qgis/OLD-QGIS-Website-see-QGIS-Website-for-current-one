@@ -909,7 +909,8 @@ desktop. With the same limitations.
 |  ``HEIGHT=841&``
 |  ``LAYERS=yourdxfexportlayers``
 
-See also `QGIS server tutorial <http://hub.qgis.org/projects/quantum-gis/wiki/qgis_server_tutorial#DXF-Export%20for%20the%20available%20options>`__
+See also `QGIS as OGC data server
+<http://docs.qgis.org/2.18/en/docs/user_manual/working_with_ogc/ogc_server_support.html#dxf-export>`__
 for all the available options.
 
 In the screenshot you see QGIS Web Client on the left with the DXF

@@ -32,11 +32,18 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Gold sponsors
 
+   * - |gold| |vorarlberg|
+       `Land Vorarlberg <http://www.vorarlberg.at/lvg>`_, Austria (11.2011-06.2018)
+       
    * - |gold| |qgis-ch|
-       `QGIS user group Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2017)
+       `QGIS user group Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2018)
+
 
 .. |qgis-ch| image:: /static/site/about/images/qgis-ch.png
-   :width: 200 px
+   :width: 350 px
+
+.. |vorarlberg| image:: /static/site/about/images/land_vorarlberg.jpg
+   :width: 300 px
 
 .. Silver sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
 
@@ -60,9 +67,6 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |qgis-de|
        `QGIS user group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2017)
 
-   * - |silver| |vorarlberg|
-       `Land Vorarlberg <http://www.vorarlberg.at/lvg>`_, Austria (11.2011-06.2017)
-
 .. |WIGeoGIS| image:: /static/site/about/images/WIGeoGIS.png
    :width: 160 px
 
@@ -71,9 +75,6 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. |qgis-de| image:: /static/site/about/images/qgis-de-logo.png
    :width: 120 px
-
-.. |vorarlberg| image:: /static/site/about/images/land_f.jpg
-   :width: 175 px
 
 .. |artogis| image:: /static/site/about/images/artogis.png
    :width: 185 px
@@ -89,12 +90,48 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |dbg|
+
+       `Datenbankgesellschaft mbH <http://www.datenbankgesellschaft.de/>`_, Germany (06.2017-06.2019)   
+     - |bronze| |LandPlanOS|
+
+       `LandPlan OS GmbH <http://www.landplan-os.de/>`_, Germany (06.2017-06.2018)
+   * - |bronze| |Wagner-IT|
+
+       `WAGNER-IT <http://www.wagner-it.de/>`_, Germany (06.2017-06.2018)   
+     - |bronze| |iag|
+
+       `IAG (Insurance Australia Group Limited, Natural Perlis Applications) <https://www.iag.com.au/>`_, Australia (06.2017-06.2018)
+   * - |bronze| |terrelogiche|
+
+       `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2018)
+     - |bronze| |soltig|
+
+       `SOLTIG (Soluciones en Tecnologías de Información Geográfica) <http://www.soltig.net/>`_, Costa Rica (06.2016-06.2018)
+   * - |bronze| |gaia3d|
+
+       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2018)
+     - |bronze| |InfraplanEngineering|
+
+       `Infraplan Engineering Services Pvt. Ltd. <http://www.infraplan.in/>`_, India (05.2017-05.2022)
+   * - |bronze| |qgis-br|
+
+       `QGIS user group Brazil, Inc. <http://qgisbrasil.org/>`_, Brazil (04.2017-04.2018)
+     - |bronze| |qgis-se|
+
+       `QGIS user group Sweden <http://qgis.se/>`_, Sweden (05.2017-05.2018)
    * - |bronze| |QTibia|
 
        `QTibia Engineering <https://qtibia.ro/>`_, Romania (04.2017-04.2018)
-     - |bronze| |gaia3d|
+     - |bronze| |fornat_ag|
 
-       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2018)
+       `FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2016-05.2018)
+   * - |bronze| |national_parks_uk|
+
+       `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2018)
+     - |bronze| |windsor|
+
+       `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2018)
    * - |bronze| |automatic_knowledge|
 
        `Automatic Knowledge <https://automaticknowledge.co.uk/>`_, UK (03.2016-03-2018)
@@ -197,37 +234,24 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |whg|
 
        `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)   
-   * - |bronze| |terrelogiche|
 
-       `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2017)
-     - |bronze| |qgis-pt|
+.. |dbg| image:: /static/site/about/images/datenbankgesellschaft.jpg
+   :width: 95 px
 
-       `QGIS user group Portugal <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)   
-   * - |bronze| |ncc|
+.. |LandPlanOS| image:: /static/site/about/images/LandPlanOS.png
+   :width: 120 px
 
-       `NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)
-     - |bronze| |soltig|
+.. |iag| image:: /static/site/about/images/iag.png
+   :width: 90 px
 
-       `SOLTIG (Soluciones en Tecnologías de Información Geográfica) <http://www.soltig.net/>`_, Costa Rica (06.2016-06.2017)
-   * - |bronze| |windsor|
+.. |Wagner-IT| image:: /static/site/about/images/Wagner-IT.png
+   :width: 120 px
 
-       `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2017)
-     - |bronze| |gepol|
+.. |InfraplanEngineering| image:: /static/site/about/images/InfraplanEngineering.png
+   :width: 100 px
 
-       `GEPOL <http://www.gepol.com.pl/>`_, Poland (04.2016-04.2017)
-   * - |bronze| |gfi|
-
-       `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (04.2015-04.2017)
-     - |bronze| |fornat_ag|
-
-       `FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2014-04.2017)
-   * - |bronze| |national_parks_uk|
-
-       `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2017)
-     - |bronze| |molitec|
-
-       `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-03.2017)
-
+.. |qgis-se| image:: /static/site/about/images/qgis-se.png
+   :width: 100 px
 
 .. |qgis-br| image:: /static/site/about/images/qgis-br.png
    :width: 75 px
@@ -461,10 +485,24 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 .. list-table:: Past Bronze sponsors
 
+  * - |bronze| |ncc|
+
+      `NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)
+    - |bronze| |qgis-pt|
+
+       `QGIS user group Portugal <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)  
+  * - |bronze| |gfi|
+
+      `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (04.2015-04.2017)
+    - |bronze| |gepol|
+
+       `GEPOL <http://www.gepol.com.pl/>`_, Poland (04.2016-04.2017)
   * - |bronze| |qpolska|
 
       `QGIS user group Poland <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
-    -
+    - |bronze| |molitec|
+
+      `www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-03.2017)
   * - |bronze| |geosynergy|
 
       `Geosynergy <www.geosynergy.com.au>`_, Australia (05.2012-05.2013+06.2015-06-2016)
