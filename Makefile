@@ -126,7 +126,7 @@ html: localizeresources output/html/version.txt source/site/getinvolved/developm
 
 output/html/version.txt: source/conf.py
 	mkdir -p $(BUILDDIR)
-	python scripts/mkversion.py
+	python3 scripts/mkversion.py
 
 fullhtml: pulldocsources html
 
@@ -318,4 +318,4 @@ pseudoxml:
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
 
 schedule source/site/getinvolved/development/schedule.inc:
-	python scripts/update-schedule.py
+	python3 scripts/update-schedule.py
