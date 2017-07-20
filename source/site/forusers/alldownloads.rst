@@ -184,7 +184,7 @@ Supported distribution versions:
 
 .. [4] only starting with Debian Stretch and Ubuntu Xenial (due to libqca not available for Qt5 in trusty)
 .. [5] master for Xenial only available for ubuntugis (plain Xenial lacks GDAL 2)
-.. [6] only up to QGIS 2.8.x (due to dependency on GEOS 3.4 not available in precise)
+.. [6] discontinued since QGIS 2.8.x (due to dependency on GEOS 3.4 not available in precise)
 .. [7] only up to QGIS 2.14.x (due to dependency to GDAL >=1.11 not available in precise ubuntugis)
 .. [8] starting with QGIS 2.18.7
 
