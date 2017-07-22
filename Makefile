@@ -12,6 +12,7 @@ BUILDDIR      = output/html/$(LANG)
 # using the -A flag, we create a python variable named 'language', which
 # we then can use in html templates to create language dependent switches
 SPHINXOPTS    = -D language=$(LANG) -A language=$(LANG) $(SOURCEDIR)
+PYTHON	      = python3
 
 # needed for python2 -> python3 migration?
 export LC_ALL=C.UTF-8
@@ -126,7 +127,7 @@ html: localizeresources output/html/version.txt source/site/getinvolved/developm
 
 output/html/version.txt: source/conf.py source/schedule.py
 	mkdir -p $(BUILDDIR)
-	python3 scripts/mkversion.py
+	$(PYTHON) scripts/mkversion.py
 
 fullhtml: pulldocsources html
 
@@ -317,5 +318,12 @@ pseudoxml:
 	@echo
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
 
-schedule source/site/getinvolved/development/schedule.inc source/schedule.py:
-	python3 scripts/update-schedule.py
+source/site/getinvolved/development/schedule.inc source/schedule.py:
+	$(PYTHON) scripts/update-schedule.py
+
+clearschedule:
+	$(RM) source/site/getinvolved/development/schedule.inc source/schedule.py
+
+schedule: clearschedule source/schedule.py
+	git pull --autostash --rebase
+	git commit -a -m "Update for $(shell sed -ne "s/^release = '\\(.*\\)'/\1/p" source/schedule.py)/$(shell sed -ne "s/^ltrrelease = '\\(.*\\)'/\\1/p" source/schedule.py) point releases"
