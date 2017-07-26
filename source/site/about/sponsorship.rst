@@ -90,6 +90,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |Geographica|
+
+       `Geographica <https://geographica.gs/>`_, Sevilla, Spain (07.2017-07.2018)   
+     -
    * - |bronze| |dbg|
 
        `Datenbankgesellschaft mbH <http://www.datenbankgesellschaft.de/>`_, Germany (06.2017-06.2019)   
@@ -234,6 +238,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |whg|
 
        `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)   
+
+.. |dbg| image:: /static/site/about/images/Geographica.png
+   :width: 110 px
 
 .. |dbg| image:: /static/site/about/images/datenbankgesellschaft.jpg
    :width: 95 px
