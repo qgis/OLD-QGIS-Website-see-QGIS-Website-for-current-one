@@ -34,7 +34,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |gold| |vorarlberg|
        `Land Vorarlberg <http://www.vorarlberg.at/lvg>`_, Austria (11.2011-06.2018)
-       
+
    * - |gold| |qgis-ch|
        `QGIS user group Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2018)
 
@@ -92,17 +92,17 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |bronze| |Geographica|
 
-       `Geographica <https://geographica.gs/>`_, Sevilla, Spain (07.2017-07.2018)   
+       `Geographica <https://geographica.gs/>`_, Sevilla, Spain (07.2017-07.2018)
      -
    * - |bronze| |dbg|
 
-       `Datenbankgesellschaft mbH <http://www.datenbankgesellschaft.de/>`_, Germany (06.2017-06.2019)   
+       `Datenbankgesellschaft mbH <http://www.datenbankgesellschaft.de/>`_, Germany (06.2017-06.2019)
      - |bronze| |LandPlanOS|
 
        `LandPlan OS GmbH <http://www.landplan-os.de/>`_, Germany (06.2017-06.2018)
    * - |bronze| |Wagner-IT|
 
-       `WAGNER-IT <http://www.wagner-it.de/>`_, Germany (06.2017-06.2018)   
+       `WAGNER-IT <http://www.wagner-it.de/>`_, Germany (06.2017-06.2018)
      - |bronze| |iag|
 
        `IAG (Insurance Australia Group Limited, Natural Perlis Applications) <https://www.iag.com.au/>`_, Australia (06.2017-06.2018)
@@ -231,15 +231,15 @@ goes into the project. These sponsors are listed below with our thanks!
        `QGIS user group Denmark <http://www.qgis.dk/>`_, Denmark (10.2015-10.2017)
      - |bronze| |septima|
 
-       `Septima <http://www.septima.dk/>`_, Denmark (10.2016-10.2017)   
+       `Septima <http://www.septima.dk/>`_, Denmark (10.2016-10.2017)
    * - |bronze| |lutra|
 
        `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2017)
      - |bronze| |whg|
 
-       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)   
+       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)
 
-.. |dbg| image:: /static/site/about/images/Geographica.png
+.. |Geographica| image:: /static/site/about/images/Geographica.png
    :width: 110 px
 
 .. |dbg| image:: /static/site/about/images/datenbankgesellschaft.jpg
@@ -319,7 +319,7 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. |septima| image:: /static/site/about/images/septima.png
    :width: 110 px
-   
+
 .. |qgis-dk| image:: /static/site/about/images/qgis-dk.png
    :width: 90 px
 
@@ -497,7 +497,7 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
       `NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)
     - |bronze| |qgis-pt|
 
-       `QGIS user group Portugal <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)  
+       `QGIS user group Portugal <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)
   * - |bronze| |gfi|
 
       `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (04.2015-04.2017)
