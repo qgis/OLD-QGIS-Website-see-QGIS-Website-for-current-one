@@ -93,7 +93,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |Geographica|
 
        `Geographica <https://geographica.gs/>`_, Sevilla, Spain (07.2017-07.2018)
-     -
+     - |bronze| |whg|
+
+       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2018)
    * - |bronze| |dbg|
 
        `Datenbankgesellschaft mbH <http://www.datenbankgesellschaft.de/>`_, Germany (06.2017-06.2019)
@@ -235,9 +237,7 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |lutra|
 
        `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2017)
-     - |bronze| |whg|
-
-       `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)
+     -
 
 .. |Geographica| image:: /static/site/about/images/Geographica.png
    :width: 125 px
