@@ -240,13 +240,13 @@ goes into the project. These sponsors are listed below with our thanks!
        `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2017)
 
 .. |Geographica| image:: /static/site/about/images/Geographica.png
-   :width: 110 px
+   :width: 125 px
 
 .. |dbg| image:: /static/site/about/images/datenbankgesellschaft.jpg
-   :width: 95 px
+   :width: 100 px
 
 .. |LandPlanOS| image:: /static/site/about/images/LandPlanOS.png
-   :width: 120 px
+   :width: 125 px
 
 .. |iag| image:: /static/site/about/images/iag.png
    :width: 90 px
@@ -372,7 +372,7 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 64 px
 
 .. |terrelogiche| image:: /static/site/about/images/terrelogiche.jpg
-   :width: 90 px
+   :width: 100 px
 
 .. |geosynergy| image:: /static/site/about/images/geosynergy.jpg
    :width: 90 px
