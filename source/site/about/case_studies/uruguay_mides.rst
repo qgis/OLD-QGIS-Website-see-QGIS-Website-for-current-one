@@ -79,3 +79,17 @@ different technical solutions that programs and agencies have been needing throu
 administration as desktop GIS software. Also it has been a cornerstone in helping this institution to set up a
 web map, offering general population much information about social issues (`SIG MIDES <https://mapas.mides.gub.uy/>`_, OpenLayers based
 WEB GIS developed by the IT division).
+
+Authors
+=======
+
+Guillermo D'Angelo - Head of the Geography Department (DINEM-MIDES, Uruguay). Degree in Geography.
+
+Richard Detomasi - Adviser in Spatial Analysis Section of Geography Department (DINEM-MIDES, Uruguay). Ph.D. student in Social Sciences, Population Studies. Magister in Contemporary Studies of Latin America. Degree in Anthropological Sciences.
+
+Martín Hahn - Adviser in Spatial Analysis Section of Geography Department (DINEM-MIDES, Uruguay). Bach. currently coursing Geography Degree.
+
+Despite the fact that the present article was written by the three above mentioned, there are more than a hundred people involved in the process described in it, so this work belongs mainly to them.
+
+Contact: mapas@mides.gub.uy
+
