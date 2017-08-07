@@ -244,6 +244,15 @@ provides installation, training, and implementation support for QGIS.
 
 ----
 
+.. |clear_mapping_co| image:: /static/site/about/images/clear_mapping_co.jpg 
+   :width: 75 px
+
+|clear_mapping_co| `Clear Mapping Co <http://www.clearmapping.co.uk/>`_ (based in Penryn, Cornwall, UK) is an award-winning international cartographic design consultancy. We create beautiful maps to improve efficiency in the workplace with an inclusive and sustainable design focus.
+Our bespoke GIS training courses in QGIS and other GIS software offer the opportunity to improve efficiency handling spatial data and creating clear maps.
+
+
+----
+
 .. |bev| image:: /static/site/about/images/bev.gif
    :width: 75 px
 
