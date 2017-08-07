@@ -114,6 +114,18 @@ on ubuntugis (https://launchpad.net/~ubuntugis), which holds more uptodate
 versions of other GIS packages than Ubuntu itself. If you want those you also
 need to include ubuntugis ppa in your /etc/apt/sources.list file.
 
+.. note:: The packages are only produced once shortly after a new version has
+   been released.  As unstable, not yet released debian versions (testing) and
+   ubuntugis can have library changes the packages might sooner or later be
+   broken, when the development in debian, ubuntu or ubuntugis moves on and the
+   the their packages used as dependencies in qgis change.  In that event you
+   can either a. move to a stable debian version and use the released packages for
+   it, b. wait for the next point release, which happens every month and will be
+   include the updated dependencies, c. switch to the nightly repository whose
+   packages are rebuild on regular basis and will also pickup the updated
+   dependencies automatically or d. build your own set of package (see INSTALL_).
+
+.. _INSTALL: https://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html#toc11
 
 .. _QGIS-debian-testing:
 
