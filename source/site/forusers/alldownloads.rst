@@ -117,14 +117,15 @@ need to include ubuntugis ppa in your /etc/apt/sources.list file.
 .. note:: The packages are only produced once shortly after a new version has
    been released.  As unstable, not yet released debian versions (testing) and
    ubuntugis can have library changes the packages might sooner or later be
-   broken, when the development in debian, ubuntu or ubuntugis moves on and the
-   the their packages used as dependencies in qgis change.  In that event you
-   can either a. move to a stable debian version and use the released packages for
-   it, b. wait for the next point release (due |nextpointreleasedate|), which
-   happens every month and will be include the updated dependencies, c. switch to
-   the nightly repository whose packages are rebuild on regular basis and will
-   also pickup the updated dependencies automatically or d. build your own set of
-   package (see INSTALL_).
+   broken, when the development in debian, ubuntu or ubuntugis moves on and their
+   packages used as dependencies in qgis change.  In that event you can either
+
+   - move to a stable debian version and use the released packages for it,
+   - wait for the next point release (due |nextpointreleasedate|), which
+     happens every month and will be include the updated dependencies,
+   - switch to the nightly repository whose packages are rebuild on regular basis
+     and will also pickup the updated dependencies automatically or
+   - build your own set of packages (see INSTALL_).
 
 .. _INSTALL: https://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html#toc11
 
