@@ -111,8 +111,11 @@ support for a number of Open Source GIS software. We specialize in QGIS
 .. |norbit| image:: /static/site/about/images/norbit.png
    :width: 100 px
 
-|norbit| `norBIT GmbH <http://www.norbit.de/64>`_ (based in Norden, Germany)
-provides commercial support and custom programming for QGIS.
+|norbit| `norBIT GmbH <http://www.norbit.de/64>`_ (based in Norden, Germany;
+etablished 1989) provides solutions mainly for local goverments, municipal
+services and water boards in connection with QGIS.  Additionally we provide
+training, commercial support and custom programming for QGIS and have been
+actively contributing to the QGIS project since 2007.
 
 ----
 
