@@ -120,10 +120,11 @@ need to include ubuntugis ppa in your /etc/apt/sources.list file.
    broken, when the development in debian, ubuntu or ubuntugis moves on and the
    the their packages used as dependencies in qgis change.  In that event you
    can either a. move to a stable debian version and use the released packages for
-   it, b. wait for the next point release, which happens every month and will be
-   include the updated dependencies, c. switch to the nightly repository whose
-   packages are rebuild on regular basis and will also pickup the updated
-   dependencies automatically or d. build your own set of package (see INSTALL_).
+   it, b. wait for the next point release (due |nextpointreleasedate|), which
+   happens every month and will be include the updated dependencies, c. switch to
+   the nightly repository whose packages are rebuild on regular basis and will
+   also pickup the updated dependencies automatically or d. build your own set of
+   package (see INSTALL_).
 
 .. _INSTALL: https://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html#toc11
 
@@ -171,6 +172,10 @@ Lines of packages:
 |                       |                                | Nightly build with     | http://qgis.org/ubuntugis-nightly              |
 |                       |                                | ubuntugis dependencies |                                                |
 +-----------------------+--------------------------------+------------------------+------------------------------------------------+
+
+| Next point release: |nextpointreleasedate|
+| Next release: |nextreleasedate|
+| (more dates see Release Schedule on :doc:`../getinvolved/development/roadmap`)
 
 Supported distribution versions:
 
