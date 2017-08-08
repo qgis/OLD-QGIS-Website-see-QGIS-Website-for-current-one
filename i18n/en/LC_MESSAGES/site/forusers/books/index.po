@@ -1,413 +1,452 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 2.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-30 12:18+0100\n"
+"POT-Creation-Date: 2017-08-08 11:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../source/site/forusers/books/index.rst:5
+msgid "Books"
+msgstr ""
 
 #: ../../source/site/forusers/books/index.rst:11
 msgid ""
-"This page lists books available from others publishers. QGIS does not manage"
-" any of them and they are given only to help."
+"This page lists books available from others publishers. QGIS does not "
+"manage any of them and they are given only to help."
 msgstr ""
 
 #: ../../source/site/forusers/books/index.rst:14
 msgid ""
-"Please write to richard@qgis.org if you want to have your book added here. "
-"Or you edit this page in github and do a pull request."
+"Please write to richard@qgis.org if you want to have your book added "
+"here. Or you edit this page in github and do a pull request."
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:17
+msgid ""
+"Note: Books order is newest first. Note2: After the english books there "
+"are french, greek and polish items"
 msgstr ""
 
 #: ../../source/site/forusers/books/index.rst:21
 msgid "English"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:62
-msgid "QGIS Map Design"
+#: ../../source/site/forusers/books/index.rst:24
+msgid "Open the Door to GIS - Student and Teacher's Edition"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:64
+#: ../../source/site/forusers/books/index.rst:26
 msgid ""
-"Learn how to use QGIS to take your cartographic products to the highest "
-"level."
+"Open the Door to GIS offers a way for teachers to use this powerful "
+"software in their classes without having to become experts, with freely "
+"downloadable Open-Source GIS, QGIS. Open the Door to GIS is recommended "
+"for students age 10 to 15 years and is available as both a Teacher and "
+"Student edition."
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:66
-msgid "http://locatepress.com/qmd"
+#: ../../source/site/forusers/books/index.rst:30
+msgid "https://locatepress.com/odg"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:67
-msgid "Author(s): Anita Graser and Gretchen N. Peterson"
+#: ../../source/site/forusers/books/index.rst:31
+msgid "Author(s): Toni Fisher"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:71
-msgid "Mastering QGIS"
+#: ../../source/site/forusers/books/index.rst:32
+msgid "Date: May 2017"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:73
+#: ../../source/site/forusers/books/index.rst:35
+msgid "QGIS Python Programming Cookbook - Second Edition"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:37
 msgid ""
-"Dive into QGIS and master geospatial data with this advanced guide, created "
-"to help you develop maps and applications that let you explore the world in "
-"new ways."
+"Based on version QGIS 2.18, this book will teach you how to write Python "
+"code that works with spatial data to automate geoprocessing tasks in "
+"QGIS."
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:77
-msgid "https://www.packtpub.com/application-development/mastering-qgis"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:78
-msgid ""
-"Author(s): Kurt Menke, GISP - Dr. Richard Smith Jr., GISP - Dr. Luigi "
-"Pirelli - Dr John Van Hoesen, GISP"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:80
-#: ../../source/site/forusers/books/index.rst:109
-#: ../../source/site/forusers/books/index.rst:171
-msgid "Date: March 2015"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:83
-msgid "QGIS Blueprints"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:85
-msgid "Develop analytical location-based web applications with QGIS"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:87
-msgid "https://www.packtpub.com/hardware-and-creative/qgis-blueprints"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:88
-msgid "Author(s): Ben Mearn"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:89
-#: ../../source/site/forusers/books/index.rst:153
-msgid "Date: September 2015"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:92
-msgid "QGIS By Example"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:94
-msgid ""
-"Leverage the power of QGIS in real-world applications to become a powerful "
-"user in cartography and GIS analysis"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:97
-msgid "https://www.packtpub.com/application-development/qgis-example"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:98
-msgid "Author(s): Alexander Bruy, Daria Svidzinsk"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:99
-msgid "Date: June 2015"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:102
-msgid "QGIS Python Programming Cookbook"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:104
-msgid ""
-"Over 140 recipes to help you turn QGIS from a desktop GIS tool into a "
-"powerful automated geospatial framework"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:107
+#: ../../source/site/forusers/books/index.rst:40
 msgid ""
 "https://www.packtpub.com/application-development/qgis-python-programming-"
-"cookbook"
+"cookbook-second-edition"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:108
+#: ../../source/site/forusers/books/index.rst:41
 msgid "Author(s): Joel Lawhead"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:55
-msgid ""
-"Use QGIS to create great maps and perform all the geoprocessing tasks you "
-"need."
+#: ../../source/site/forusers/books/index.rst:42
+msgid "Date: March 2017"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:58
-msgid "Author(s): Anita Graser"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:113
-msgid "The PyQGIS Programmer's Guide - Extending QGIS with Python"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:115
-msgid ""
-"Welcome to the world of PyQGIS, the blending of Quantum GIS and Python to "
-"extend and enhance your open source GIS toolbox. With PyQGIS you can write "
-"scripts and plugins to implement new features and perform automated tasks."
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:119
-msgid "http://locatepress.com/ppg"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:120
-msgid "Author(s): Gary Sherman"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:121
-msgid "Date: April 2014"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:124
-msgid "The QGIS Training Manual - A Comprehensive Introduction to Quantum GIS"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:126
-msgid "Designed to work with QGIS 1.8"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:128
-msgid ""
-"Years of experience in a single book─the official Quantum GIS Training "
-"Manual written by seasoned trainers. It's the jump-start you need to learn "
-"this incredibly popular free desktop mapping and GIS toolset."
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:130
-msgid "http://locatepress.com/qtm"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:131
-msgid ""
-"Author(s): Rüdiger Thiede, Tim Sutton, Horst Düster, and Marcelle Sutton"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:132
-msgid "Date: May 2013"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:5
-msgid "Books"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:43
-msgid "QGIS 2 Cookbook"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:45
-msgid ""
-"Become a QGIS power user and master QGIS data management, visualisation and "
-"spatial analysis techniques"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:47
-msgid "https://www.packtpub.com/application-development/qgis-2-cookbook"
+#: ../../source/site/forusers/books/index.rst:46
+msgid "QGIS:Becoming a GIS Power User"
 msgstr ""
 
 #: ../../source/site/forusers/books/index.rst:48
 msgid ""
-"Author(s): Alex Mandel, Anita Graser, Victor Olaya Ferrero, Alexander Bruy"
+"Master data management, visualization, and spatial analysis techniques in"
+" QGIS and become a GIS power user"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:49
-msgid "Date: April 2016"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:53
-msgid "Learning QGIS - Third Edition"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:57
+#: ../../source/site/forusers/books/index.rst:50
 msgid ""
-"https://www.packtpub.com/big-data-and-business-intelligence/learning-qgis-"
-"third-edition"
+"https://www.packtpub.com/big-data-and-business-intelligence/qgisbecoming-"
+"gis-power-user"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:59
-#: ../../source/site/forusers/books/index.rst:68
-msgid "Date: March 2016"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:17
+#: ../../source/site/forusers/books/index.rst:51
 msgid ""
-"Note: Books order is newest first. Note2: After the english books there are "
-"french, greek and polish items"
+"Anita Graser, Ben Mearns, Alex Mandel, Victor Olaya Ferrero, Alexander "
+"Bruy"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:24
+#: ../../source/site/forusers/books/index.rst:52
+msgid "Date: February 2017"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:56
 msgid "Mastering QGIS - Second Edition"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:26
+#: ../../source/site/forusers/books/index.rst:58
 msgid ""
 "Go beyond the basics and unleash the full power of QGIS with practical, "
 "step-by-step examples"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:28
+#: ../../source/site/forusers/books/index.rst:60
 msgid ""
-"https://www.packtpub.com/big-data-and-business-intelligence/mastering-qgis-"
-"second-edition"
+"https://www.packtpub.com/big-data-and-business-intelligence/mastering-"
+"qgis-second-edition"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:29
+#: ../../source/site/forusers/books/index.rst:61
 msgid "Kurt Menke, GISP et al."
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:30
+#: ../../source/site/forusers/books/index.rst:62
 msgid "Date: September 2016"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:33
+#: ../../source/site/forusers/books/index.rst:65
 msgid "Discover QGIS"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:35
+#: ../../source/site/forusers/books/index.rst:67
 msgid "The Workbook for the GeoAcademy Curriculum"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:37
+#: ../../source/site/forusers/books/index.rst:69
 msgid "https://locatepress.com/dqw"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:38
+#: ../../source/site/forusers/books/index.rst:70
 msgid "Author(s): Kurt Menke"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:39
+#: ../../source/site/forusers/books/index.rst:71
 msgid "Date: July 2016"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:144
-msgid "French"
+#: ../../source/site/forusers/books/index.rst:75
+msgid "QGIS 2 Cookbook"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:151
+#: ../../source/site/forusers/books/index.rst:77
 msgid ""
-"https://www.amazon.fr/Apprendre-QGIS-par-lexemple-dInformation/dp/1517565766"
+"Become a QGIS power user and master QGIS data management, visualisation "
+"and spatial analysis techniques"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:152
-msgid "Author: Gerard Allali"
+#: ../../source/site/forusers/books/index.rst:79
+msgid "https://www.packtpub.com/application-development/qgis-2-cookbook"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:157
-msgid "Greek"
+#: ../../source/site/forusers/books/index.rst:80
+msgid "Author(s): Alex Mandel, Anita Graser, Victor Olaya Ferrero, Alexander Bruy"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:163
-#: ../../source/site/forusers/books/index.rst:170
-msgid "Author(s): Anthony Antoniou"
+#: ../../source/site/forusers/books/index.rst:81
+msgid "Date: April 2016"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:175
-msgid "Polish"
+#: ../../source/site/forusers/books/index.rst:85
+msgid "Learning QGIS - Third Edition"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:182
+#: ../../source/site/forusers/books/index.rst:87
 msgid ""
-"http://helion.pl/ksiazki/qgis-tworzenie-i-analiza-map-bartlomiej-"
-"iwanczak,qgista.htm"
+"Use QGIS to create great maps and perform all the geoprocessing tasks you"
+" need."
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:183
-msgid "Author(s): Bartłomiej Iwańczak"
+#: ../../source/site/forusers/books/index.rst:89
+msgid ""
+"https://www.packtpub.com/big-data-and-business-intelligence/learning-"
+"qgis-third-edition"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:184
-msgid "Date: October 2016"
+#: ../../source/site/forusers/books/index.rst:90
+msgid "Author(s): Anita Graser"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:91
+#: ../../source/site/forusers/books/index.rst:101
+msgid "Date: March 2016"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:95
+msgid "QGIS Map Design"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:97
+msgid ""
+"Learn how to use QGIS to take your cartographic products to the highest "
+"level."
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:99
+msgid "http://locatepress.com/qmd"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:100
+msgid "Author(s): Anita Graser and Gretchen N. Peterson"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:105
+msgid "Mastering QGIS"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:107
+msgid ""
+"Dive into QGIS and master geospatial data with this advanced guide, "
+"created to help you develop maps and applications that let you explore "
+"the world in new ways."
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:111
+msgid "https://www.packtpub.com/application-development/mastering-qgis"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:112
+msgid ""
+"Author(s): Kurt Menke, GISP - Dr. Richard Smith Jr., GISP - Dr. Luigi "
+"Pirelli - Dr John Van Hoesen, GISP"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:114
+#: ../../source/site/forusers/books/index.rst:198
+msgid "Date: March 2015"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:118
+msgid "QGIS Blueprints"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:120
+msgid "Develop analytical location-based web applications with QGIS"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:122
+msgid "https://www.packtpub.com/hardware-and-creative/qgis-blueprints"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:123
+msgid "Author(s): Ben Mearn"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:124
+#: ../../source/site/forusers/books/index.rst:180
+msgid "Date: September 2015"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:128
+msgid "QGIS By Example"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:130
+msgid ""
+"Leverage the power of QGIS in real-world applications to become a "
+"powerful user in cartography and GIS analysis"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:133
+msgid "https://www.packtpub.com/application-development/qgis-example"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:134
+msgid "Author(s): Alexander Bruy, Daria Svidzinsk"
 msgstr ""
 
 #: ../../source/site/forusers/books/index.rst:135
-msgid "Dutch"
-msgstr ""
-
-#: ../../source/site/forusers/books/index.rst:137
-msgid ""
-"QGIS at secondary level - Geography Studies - Cartography at secondary level"
-" - GISwijzer GO game"
+msgid "Date: June 2015"
 msgstr ""
 
 #: ../../source/site/forusers/books/index.rst:139
+msgid "The PyQGIS Programmer's Guide - Extending QGIS with Python"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:141
+msgid ""
+"Welcome to the world of PyQGIS, the blending of Quantum GIS and Python to"
+" extend and enhance your open source GIS toolbox. With PyQGIS you can "
+"write scripts and plugins to implement new features and perform automated"
+" tasks."
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:145
+msgid "http://locatepress.com/ppg"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:146
+msgid "Author(s): Gary Sherman"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:147
+msgid "Date: April 2014"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:151
+msgid "The QGIS Training Manual - A Comprehensive Introduction to Quantum GIS"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:153
+msgid "Designed to work with QGIS 1.8"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:155
+msgid ""
+"Years of experience in a single book─the official Quantum GIS Training "
+"Manual written by seasoned trainers. It's the jump-start you need to "
+"learn this incredibly popular free desktop mapping and GIS toolset."
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:157
+msgid "http://locatepress.com/qtm"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:158
+msgid "Author(s): Rüdiger Thiede, Tim Sutton, Horst Düster, and Marcelle Sutton"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:159
+msgid "Date: May 2013"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:162
+msgid "Dutch"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:164
+msgid ""
+"QGIS at secondary level - Geography Studies - Cartography at secondary "
+"level - GISwijzer GO game"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:166
 msgid ""
 "https://www.giswijzer.nl/?product=qgis-op-vo-niveau-geografie-studies-"
 "cartografie-op-vo-niveau-giswijzer-go-spel"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:140
+#: ../../source/site/forusers/books/index.rst:167
 msgid "Margit Stapel"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:141
+#: ../../source/site/forusers/books/index.rst:168
 msgid "Date December 2016"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:147
+#: ../../source/site/forusers/books/index.rst:171
+msgid "French"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:174
 msgid "Learning QGIS by example in french"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:149
+#: ../../source/site/forusers/books/index.rst:176
 msgid ""
 "This book covers essential workflows in GIS from data creation to its "
 "cartographic representation and some basics in spatial analysis."
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:160
+#: ../../source/site/forusers/books/index.rst:178
+msgid ""
+"https://www.amazon.fr/Apprendre-QGIS-par-lexemple-"
+"dInformation/dp/1517565766"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:179
+msgid "Author: Gerard Allali"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:184
+msgid "Greek"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:187
 msgid "Introduction to Raster Analysis (Learning QGIS Book 2)"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:162
+#: ../../source/site/forusers/books/index.rst:189
 msgid "https://www.kobo.com/cy/en/ebook/V7poK2Or2za3IqGN-__5ZA"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:164
+#: ../../source/site/forusers/books/index.rst:190
+#: ../../source/site/forusers/books/index.rst:197
+msgid "Author(s): Anthony Antoniou"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:191
 msgid "Date: December 2016"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:167
+#: ../../source/site/forusers/books/index.rst:194
 msgid "Basic Workbook is an introductory text for learning QGIS (2.8)"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:169
+#: ../../source/site/forusers/books/index.rst:196
 msgid "https://www.kobo.com/cy/en/ebook/ZmcAySXVLjKxvYmZk3eKVQ"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:178
+#: ../../source/site/forusers/books/index.rst:202
+msgid "Polish"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:205
 msgid "Learn about GIS and QGIS in Polish"
 msgstr ""
 
-#: ../../source/site/forusers/books/index.rst:180
+#: ../../source/site/forusers/books/index.rst:207
 msgid "The book is prepared like the series \"for Dummies\"."
 msgstr ""
 
-#~ msgid ""
-#~ "Learning QGIS by example in french. This book covers essential workflows in "
-#~ "GIS from data creation to its cartographic representation and some basics in"
-#~ " spatial analysis."
-#~ msgstr ""
+#: ../../source/site/forusers/books/index.rst:209
+msgid ""
+"http://helion.pl/ksiazki/qgis-tworzenie-i-analiza-map-bartlomiej-"
+"iwanczak,qgista.htm"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:210
+msgid "Author(s): Bartłomiej Iwańczak"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:211
+msgid "Date: October 2016"
+msgstr ""
 
 #~ msgid ""
-#~ "Basic Workbook is an introductory text for learning QGIS (2.8) in Greek."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "https://www.amazon.com/Introduction-Spatial-Analysis-Learning-QGIS-"
-#~ "ebook/dp/B00VGJBN6E/ref=sr_1_1?ie=UTF8&qid=1467868493&sr=8-1&keywords=anthony+antoniou#navbar"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Learn about GIS and QGIS in Polish. The book is prepared like the series "
-#~ "\"for Dummies\"."
 #~ msgstr ""
 
 #~ msgid "Note: Books order is newest first."
@@ -422,10 +461,21 @@ msgstr ""
 #~ msgid "Learning QGIS - Second Edition"
 #~ msgstr ""
 
-#~ msgid ""
-#~ "https://www.packtpub.com/application-development/learning-qgis-second-"
-#~ "edition"
-#~ msgstr ""
-
 #~ msgid "Date: December 2014"
 #~ msgstr ""
+
+#~ msgid "QGIS Python Programming Cookbook"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Over 140 recipes to help you turn"
+#~ " QGIS from a desktop GIS tool "
+#~ "into a powerful automated geospatial "
+#~ "framework"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "https://www.packtpub.com/application-development/qgis-"
+#~ "python-programming-cookbook"
+#~ msgstr ""
+

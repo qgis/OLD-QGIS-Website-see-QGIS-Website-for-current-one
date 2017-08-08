@@ -1,15 +1,20 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 2.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
+"POT-Creation-Date: 2017-08-08 11:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:5
+msgid "Training material"
+msgstr ""
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:11
 msgid ""
@@ -29,8 +34,8 @@ msgstr ""
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:18
 msgid ""
-"Please write to richard@qgis.org if you want to have something added here. "
-"Or you edit this page in github and do a pull request."
+"Please write to richard@qgis.org if you want to have something added "
+"here. Or you edit this page in github and do a pull request."
 msgstr ""
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:23
@@ -46,16 +51,9 @@ msgstr ""
 #: ../../source/site/forusers/trainingmaterial/index.rst:28
 msgid ""
 "Tutorial material, originally developed as part of a workshop for the "
-"Ecology and Evolutionary Biology Program at Texas A&M University (produced "
-"and maintained by Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:46
-msgid "German"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:49
-msgid "HSR material: http://giswiki.hsr.ch/QGIS-Materialien"
+"Ecology and Evolutionary Biology Program at Texas A&M University "
+"(produced and maintained by Mike Treglia): http://mltconsecol.github.io"
+"/QGIS-Tutorial/"
 msgstr ""
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:33
@@ -75,19 +73,21 @@ msgid ""
 ".developpement-durable.gouv.fr/qgis-r625.html"
 msgstr ""
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:5
-msgid "Training material"
-msgstr ""
-
 #: ../../source/site/forusers/trainingmaterial/index.rst:41
 msgid ""
-"The french National Center for Scientific Research (CNRS), created an online"
-" QGIS tutorial: http://www.passages.cnrs.fr/tutoqgis/"
+"The french National Center for Scientific Research (CNRS), created an "
+"online QGIS tutorial: http://ouvrir.passages.cnrs.fr/tutoqgis/"
+msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:46
+msgid "German"
+msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:49
+msgid "HSR material: http://giswiki.hsr.ch/QGIS-Materialien"
 msgstr ""
 
 #~ msgid ""
-#~ "The french National Center for Scientific Research (CNRS), created an online"
-#~ " QGIS tutorial: http://www.ades.cnrs.fr/tutoqgis/index.php"
 #~ msgstr ""
 
 #~ msgid "QGIS Training material"
@@ -95,3 +95,11 @@ msgstr ""
 
 #~ msgid "Courses from foss4geo: http://foss4geo.wordpress.com/gst-101/"
 #~ msgstr ""
+
+#~ msgid ""
+#~ "The french National Center for "
+#~ "Scientific Research (CNRS), created an "
+#~ "online QGIS tutorial: "
+#~ "http://www.passages.cnrs.fr/tutoqgis/"
+#~ msgstr ""
+
