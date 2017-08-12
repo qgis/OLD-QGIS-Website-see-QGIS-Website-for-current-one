@@ -144,8 +144,8 @@ went very smoothly.
 
 2011 - 5th QGIS Developer Meeting in Lisbon
 -------------------------------------------
-The 5th QGIS Developer Meeting from 14 - 18 April 2011 was help in
-Lison, Portugal. This meeting was organized by Vânia Neves and Giovanni
+The 5th QGIS Developer Meeting from 14 - 18 April 2011 was held in
+Lisbon, Portugal. This meeting was organized by Vânia Neves and Giovanni
 Manghi (`Faunalia.pt <http://www.faunalia.pt/>`_) and `MUNICIPIA <http://www.municipia.pt/>`_.
 The event was be partially supported by `MUNICIPIA <http://www.municipia.pt/>`_
 and by the local OSGeo chapter.
@@ -166,7 +166,7 @@ Many thanks to our sponsors!
 2010 - 3rd QGIS Developer Meeting in Pisa
 -----------------------------------------
 
-The 3rd QGIS Developer Meeting from 18- 22 March 2010 was help in Pisa,
+The 3rd QGIS Developer Meeting from 18- 22 March 2010 was held in Pisa,
 Tuscany, Italy.
 
 Many thanks to our sponsors!
