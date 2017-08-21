@@ -90,6 +90,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |IntegrateSustainability|
+
+       `Integrate Sustainability Pty Ltd <https://www.integratesustainability.com.au/>`_, Perth, Australia (08.2017-08.2018)
+     -
    * - |bronze| |Geographica|
 
        `Geographica <https://geographica.gs/>`_, Sevilla, Spain (07.2017-07.2018)
@@ -238,6 +242,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
        `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2017)
      -
+
+.. |IntegrateSustainability| image:: /static/site/about/images/IntegrateSustainability.png
+   :width: 130 px
 
 .. |Geographica| image:: /static/site/about/images/Geographica.png
    :width: 125 px
