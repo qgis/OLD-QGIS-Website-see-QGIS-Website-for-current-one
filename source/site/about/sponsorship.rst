@@ -246,10 +246,10 @@ goes into the project. These sponsors are listed below with our thanks!
      -
 
 .. |Mapzen| image:: /static/site/about/images/mapzen.png
-   :width: 90 px
+   :width: 95 px
 
 .. |IntegrateSustainability| image:: /static/site/about/images/IntegrateSustainability.png
-   :width: 130 px
+   :width: 145 px
 
 .. |Geographica| image:: /static/site/about/images/Geographica.png
    :width: 125 px
@@ -375,7 +375,7 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 90 px
 
 .. |whg| image:: /static/site/about/images/whg.jpg
-   :width: 110 px
+   :width: 125 px
 
 .. |npa| image:: /static/site/about/images/npa.jpg
    :width: 75 px
