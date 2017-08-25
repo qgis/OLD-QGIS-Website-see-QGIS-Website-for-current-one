@@ -3293,4 +3293,14 @@
      - 田中 創平
    * - 陳 國威
      - 黄 艳
-     -
+     - Jürgen Stoffel
+   * - Geolog Co. LTD (South Korea)
+     - Grant Boxer
+     - Cesare Bisiccia
+   * - Piero Adamo
+     - Segalina Gilberto-Ditta
+     - Clara Araujo Sena da Silva
+   * - Fichtner Water & Transport GmbH
+     - Consultaria, Innovacion y Gestion, Jose Galan Merino
+     - S. Gebhardt  und A. Zink
+   * - Andres Klein, Ursula Pfister-Klein
