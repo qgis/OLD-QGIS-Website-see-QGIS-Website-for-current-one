@@ -49,6 +49,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
+   * - |silver| |qgis-dk|
+       `QGIS user group Denmark <http://qgis.dk/>`_, Denmark (10.2016-10.2018)
+
    * - |silver| |WIGeoGIS|
        `WIGeoGIS <https://www.wigeogis.com/>`_, Austria (04.2017-04.2018)
 
@@ -66,6 +69,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |silver| |qgis-de|
        `QGIS user group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2017)
+
+.. |qgis-dk| image:: /static/site/about/images/qgis-dk.png
+   :width: 120 px
 
 .. |WIGeoGIS| image:: /static/site/about/images/WIGeoGIS.png
    :width: 160 px
@@ -234,16 +240,12 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |urbsol|
 
        `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2017)
-   * - |bronze| |qgis-dk|
-
-       `QGIS user group Denmark <http://www.qgis.dk/>`_, Denmark (10.2015-10.2017)
-     - |bronze| |septima|
-
-       `Septima <http://www.septima.dk/>`_, Denmark (10.2016-10.2017)
    * - |bronze| |lutra|
 
        `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2017)
-     -
+     - |bronze| |septima|
+
+       `Septima <http://www.septima.dk/>`_, Denmark (10.2016-10.2017)
 
 .. |Mapzen| image:: /static/site/about/images/mapzen.png
    :width: 95 px
@@ -331,9 +333,6 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. |septima| image:: /static/site/about/images/septima.png
    :width: 110 px
-
-.. |qgis-dk| image:: /static/site/about/images/qgis-dk.png
-   :width: 90 px
 
 .. |qgis-pt| image:: /static/site/about/images/qgis-pt.png
    :width: 90 px
