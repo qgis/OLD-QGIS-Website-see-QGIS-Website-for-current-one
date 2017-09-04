@@ -17,6 +17,6 @@ ltrnote = '(previous LTR)'
 
 devversion = '2.99'
 nextversion = '3.0'
-nextfreezedate = '2017-09-15 12:00:00 UTC'
-nextreleasedate = '2017-11-24 12:00:00 UTC'
+nextfreezedate = '2017-10-27 12:00:00 UTC'
+nextreleasedate = '2017-12-08 12:00:00 UTC'
 nextpointreleasedate = '2017-09-15 12:00:00 UTC'
