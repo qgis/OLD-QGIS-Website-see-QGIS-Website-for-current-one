@@ -175,6 +175,11 @@
                         var s = title.split(':');
                         title = s[0];
                         content = s[1];
+                        // skip blog.qgis.org posts
+                        if (link.indexOf('blog.qgis.org')>=0){
+                            addit = false;
+                            counter --;
+                        }
                     }
                     else if (holder == '#qgisblogatom'){
                         var s = title.split(':');
