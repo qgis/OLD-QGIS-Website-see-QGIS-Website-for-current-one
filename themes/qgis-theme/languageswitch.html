@@ -170,16 +170,32 @@
                 }
                 else if (counter<=maxitems){
                     // visual changelogs, qugs feed and planet feed
+                    var addit = true;
                     if (holder == '#qgisplanetatom'){
                         var s = title.split(':');
                         title = s[0];
                         content = s[1];
                     }
-                    html+='<a class="external" href="'+link+'">';
-                    html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
-                    if (showcontent) { html+=content; };
-                    html+='</div></a>\n';
+                    else if (holder == '#qgisblogatom'){
+                        var s = title.split(':');
+                        if (s[0] != 'QGIS Project blog'){
+                            addit = false;
+                            counter--;
+                        }
+                        // trying to extract date from link
+                        // http://blog.qgis.org/2017/09/02/do-you-want-to-host-a-qgis-developer-meeting/
+                        d = link.split('/').slice(3,6);  // 2017,09,02
+                        title = '<img src="../_static/logo.png" style="width:30px;"/> - ' + d[0] + '/' + d[1] + '/' + d[2] + ' - ' + s[1];
+                        content = '';
+                    }
+                    if (addit){
+                        html+='<a class="external" href="'+link+'">';
+                        html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
+                        if (showcontent) { html+=content; };
+                        html+='</div></a>\n';
+                    }
                 }
+
             });
             $(holder).append(html);
         });
