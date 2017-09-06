@@ -112,16 +112,16 @@ provide.
 For Ubuntu we also have extra packages in a separate repository that are based
 on `ubuntugis <https://launchpad.net/~ubuntugis>`_, which holds more uptodate
 versions of other GIS packages than Ubuntu itself. If you want those you also
-need to include ubuntugis ppa in your /etc/apt/sources.list file (see
+need to include ubuntugis-unstable ppa in your /etc/apt/sources.list file (see
 `ubuntugis documentation
 <https://trac.osgeo.org/ubuntugis/wiki/UbuntuGISRepository>`_).
 
 
 .. note:: The release packages are only produced once shortly after a new
    version has been released.  As unstable, not yet released debian versions
-   (testing) and ubuntugis can have library changes the packages might sooner
+   (testing) and ubuntugis-unstable can have library changes the packages might sooner
    or later be broken for these targets, when the development in debian, ubuntu
-   or ubuntugis moves on and their packages used as dependencies in qgis
+   or ubuntugis-unstable moves on and their packages used as dependencies in qgis
    change.  In that event you can either
 
    - move to a stable debian version and use the released packages for it,
@@ -145,7 +145,7 @@ Lines of packages:
 |                       | |releasenote|                  | **Debian and Ubuntu**  |                                                |
 |                       |                                +------------------------+------------------------------------------------+
 |                       |                                | Release with           | https://qgis.org/ubuntugis                     |
-|                       |                                | ubuntugis dependencies |                                                |
+|                       |                                | ubuntugis-unstable dependencies |                                                |
 |                       |                                +------------------------+------------------------------------------------+
 |                       |                                | Nightly build of       | https://qgis.org/debian-nightly-release        |
 |                       |                                | upcoming point release |                                                |
@@ -154,13 +154,13 @@ Lines of packages:
 |                       |                                | Nightly build of       | https://qgis.org/ubuntugis-nightly-release     |
 |                       |                                | upcoming point         |                                                |
 |                       |                                | release with           |                                                |
-|                       |                                | ubuntugis dependencies |                                                |
+|                       |                                | ubuntugis-unstable dependencies |                                                |
 +-----------------------+--------------------------------+------------------------+------------------------------------------------+
 | Long Term Release     | |ltrversion|.x |ltrcodename|   | Release for            | https://qgis.org/debian-ltr                    |
 | Repository            | |ltrnote|                      | **Debian and Ubuntu**  |                                                |
 |                       |                                +------------------------+------------------------------------------------+
 |                       |                                | Release with           | https://qgis.org/ubuntugis-ltr                 |
-|                       |                                | ubuntugis dependencies |                                                |
+|                       |                                | ubuntugis-unstable dependencies |                                                |
 |                       |                                +------------------------+------------------------------------------------+
 |                       |                                | Nightly build of       | https://qgis.org/debian-nightly-ltr            |
 |                       |                                | upcoming point release |                                                |
@@ -169,13 +169,13 @@ Lines of packages:
 |                       |                                | Nightly build of       | https://qgis.org/ubuntugis-nightly-ltr         |
 |                       |                                | upcoming point         |                                                |
 |                       |                                | release with           |                                                |
-|                       |                                | ubuntugis dependencies |                                                |
+|                       |                                | ubuntugis-unstable dependencies |                                                |
 +-----------------------+--------------------------------+------------------------+------------------------------------------------+
 | Development Version   | |devversion| master            | Nightly build for      | https://qgis.org/debian-nightly                |
 |                       |                                | **Debian and Ubuntu**  |                                                |
 |                       |                                +------------------------+------------------------------------------------+
 |                       |                                | Nightly build with     | https://qgis.org/ubuntugis-nightly             |
-|                       |                                | ubuntugis dependencies |                                                |
+|                       |                                | ubuntugis-unstable dependencies |                                                |
 +-----------------------+--------------------------------+------------------------+------------------------------------------------+
 
 | Next point release: |nextpointreleasedate|
@@ -187,7 +187,7 @@ Supported distribution versions:
 
 +---------------+-------------+--------------+-----------------------+-------+
 | Distribution  | Version     | Codename     | Also available based  | with  |
-|               |             |              | on ubuntugis          | 3D    |
+|               |             |              | on ubuntugis-unstable | 3D    |
 |               |             |              | dependencies?         | [6]_  |
 +===============+=============+==============+=======================+=======+
 | Debian        | 8.x         | jessie [4]_  |                       |       |
@@ -208,7 +208,7 @@ Supported distribution versions:
 +---------------+-------------+--------------+-----------------------+-------+
 
 .. [4] only up to 2.18 LTR
-.. [5] 3.0 and above only available with ubuntugis (plain xenial lacks GDAL2)
+.. [5] 3.0 and above only available with ubuntugis-unstable (plain xenial lacks GDAL2)
 .. [6] only with Qt >= 5.9 including Qt 3DExtras (the latter is currently not included in Debian)
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
