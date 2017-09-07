@@ -41,6 +41,16 @@ services, and expert training.
 
 ----
 
+.. |camptocamp| image:: /static/site/about/images/camptocamp.png
+   :width: 150 px
+
+|camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-solutions>`_ is
+an open source service company based in Europe offering training, support and
+development around QGIS, mobiles apps, 3D, geoportails and GeoBI using a high
+expertise.
+
+----
+
 .. |dms| image:: /static/site/about/images/dms.gif
    :width: 150 px
 
@@ -184,16 +194,6 @@ consulting in cartography as well as geographical information systems.
 CartoExpert provide with technical support on QGIS, assistance in
 implementing QGIS within your organization, as well as GIS training on QGIS
 (Initiation, Improvement, workshops, mobile etc).
-
-----
-
-.. |camptocamp| image:: /static/site/about/images/camptocamp.png
-   :width: 150 px
-
-|camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-solutions>`_ is
-an open source service company based in Europe offering training, support and
-development around QGIS, mobiles apps, 3D, geoportails and GeoBI using a high
-expertise.
 
 ----
 
