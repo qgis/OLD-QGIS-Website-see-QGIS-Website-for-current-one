@@ -44,10 +44,13 @@ services, and expert training.
 .. |camptocamp| image:: /static/site/about/images/camptocamp.png
    :width: 150 px
 
-|camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-solutions>`_ is
-an open source service company based in Europe offering training, support and
-development around QGIS, mobiles apps, 3D, geoportails and GeoBI using a high
-expertise.
+|camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-solutions>`_
+(based in France, Germany and Switzerland) 
+Open Source specialist, Camptocamp is an innovative company in the software
+implementation of geographic information systems (GIS), business management
+(ERP) and server management. To implement your most ambitious projects,
+Camptocamp builds customized solutions based on the best Open Source
+technologies.
 
 ----
 
