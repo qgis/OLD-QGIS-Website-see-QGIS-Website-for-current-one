@@ -71,7 +71,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `QGIS user group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2017)
 
 .. |qgis-dk| image:: /static/site/about/images/qgis-dk.png
-   :width: 120 px
+   :width: 95 px
 
 .. |WIGeoGIS| image:: /static/site/about/images/WIGeoGIS.png
    :width: 160 px
