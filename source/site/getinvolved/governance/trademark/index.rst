@@ -48,6 +48,8 @@ Some uses of our trademark require the user to obtain a permission. For instance
   * YourBrand powered by QGIS
   * YourBrand based on QGIS
 
+.. note:: When referring to QGIS please do not undermine the validity of the main QGIS project. We prefer that you refer to our software packages as "Official Packages" and not "Community Releases" or similar. If you create your own packages, please make it clear that these are derivative packages and not created or endorsed by the QGIS project.
+
 * **Domains**: If you use QGIS trademark in a domain name, with or without commercial intent
 
 If you need a permission, please write to our Financial and Marketing Advisor (trademark@qgis.org).
