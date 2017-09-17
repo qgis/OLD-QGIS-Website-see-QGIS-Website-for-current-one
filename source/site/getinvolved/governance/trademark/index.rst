@@ -31,7 +31,7 @@ In cases of fair use, you may use or refer to QGIS trademark without an explicit
 
 Some uses of our trademark require the user to obtain a permission. For instance:
 
-* **Product names**: If you plan to market a QGIS-based product or service to the public using a trademark that includes the element "QGIS," such as "YourCompany QGIS" you are required to apply for and obtain a permission from the QGIS Project Steering Committee (QGIS-PSC). This is true whether or not you apply to register your trademark with a government. When developing and advertising QGIS-based products, we ask you to follow the following guidelines:
+* **Product names**: If you plan to market a QGIS-based product or service to the public using a trademark that includes the element "QGIS", such as "YourCompany QGIS" you are required to apply for and obtain a permission from the QGIS Project Steering Committee (QGIS-PSC). This is true whether or not you apply to register your trademark with a government. When developing and advertising QGIS-based products, we ask you to follow the following guidelines:
 
  1. **Don't present your work as our work**.
   
