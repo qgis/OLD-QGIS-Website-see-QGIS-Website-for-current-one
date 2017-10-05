@@ -1,8 +1,10 @@
 <section class="intro">
     <div class="container">
         <h2>{{ _('Download QGIS for your platform') }}</h2>
-        <p class="main">{{ _('The current version is QGIS %s \'%s\' and was released on %s.')|format( release, codename, releasedate.strftime('%d.%m.%Y') ) }}</p>
         <p class="main">{{ _('QGIS is available on Windows, MacOS X, Linux and Android.') }}</p>
+        <!-- Update the line below when the latest release is no longer the LTR:  replace version by ltrversion -->
+	<p class="main">{{ _('The current long-term release (for corporate users) is QGIS %s \'%s\'.')|format( version, codename ) }}</p>
+        <p class="main">{{ _('The current version is QGIS %s \'%s\' and was released on %s.')|format( release, codename, releasedate.strftime('%d.%m.%Y') ) }}</p>
         <p class="main">{{ _('Binary packages (installers) for current stable version {0} can be downloaded here.').format( version ) }}</p>
 <!-- Comment out after release
         <p class="main">
@@ -36,7 +38,7 @@
                   <div id="windows" class="accordion-body collapse in">
                     <div class="accordion-inner">
                       <div>
-                        <h5>{{ _('Latest release (eg. for New Users):') }}</h5>
+                        <h5>{{ _('Standalone Installers:') }}</h5>
                         <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
@@ -65,7 +67,6 @@
                               <li class="download-text">md5</li>
                           </ul>
                         </a>
-                        <h5>{{ _('Long term release repository (eg. for corporate users):') }}</h5>
                         <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ ltrbinary|e }}-Setup-x86.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
@@ -96,7 +97,7 @@
                         </a>
                       </div>
                       <div>
-                        <h5>{{ _('For Advanced Users:') }}</h5>
+                        <h5>{{ _('Custom Installers:') }}</h5>
                         <a href="http://download.osgeo.org/osgeo4w/osgeo4w-setup-x86.exe" class="reference external">
                         <ul class="inline download-row">
                           <li><i class="icon-large icon-download-alt"></i></li>
@@ -112,7 +113,13 @@
                         </ul>
                         </a>
                         <p>{{ _('In the installer choose ') }}<strong>{{ _('Desktop Express Install') }}</strong> {{ _('and select') }} <strong>{{ _('QGIS') }}</strong> {{ _('to install the latest release.') }}</p>
-                        <p>{{ _('To get the long term release choose ') }}<strong>{{ _('Advanced Install') }}</strong> {{ _('and select ') }} <strong>{{ _('qgis-ltr-full') }}</strong></p>
+                        <p>{{ _('To get different or multiple releases choose ') }}<strong>{{ _('Advanced Install') }} {{ _('and :') }}</strong>
+			  <ul>
+                            <li>{{ _('For the latest release select ') }}<strong>{{ _('qgis') }}</strong></li>
+                            <li>{{ _('For the long term release select ') }}<strong>{{ _('qgis-ltr') }}</strong> {{ _('. Note that when the long-term release is also the latest you need to check ') }} <strong>{{ _('qgis') }}</strong></li>
+                            <li>{{ _('For the development branch select ') }}<strong>{{ _('qgis-dev') }}</strong></li>
+                          </ul>
+                        </p>
                       </div>
                     </div>
                   </div>
