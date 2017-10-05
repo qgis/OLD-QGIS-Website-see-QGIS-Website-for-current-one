@@ -55,7 +55,7 @@ Steps are:
   | Repository        | |ltrnote|                    +-------------------+-------------------------------------------------------+
   |                   |                              | qgis-ltr-dev [2]_ | Nightly build of the upcoming point long term release |
   +-------------------+------------------------------+-------------------+-------------------------------------------------------+
-  | Development       | 2.99 master                  | qgis-dev [3]_     | Nightly build of the development version              |
+  | Development       | |devversion| master          | qgis-dev [3]_     | Nightly build of the development version              |
   +-------------------+------------------------------+-------------------+-------------------------------------------------------+
 
 .. [1] Latest release nightlies SHA:
