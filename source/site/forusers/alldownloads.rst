@@ -187,11 +187,13 @@ Supported distribution versions:
 +===============+=============+==============+=======================+
 | Debian        | 8.x         | jessie       |                       |
 |               +-------------+--------------+                       |
-|               | testing     | stretch      |                       |
+|               | 9.x         | stretch      |                       |
 |               +-------------+--------------+                       |
 |               | unstable    | sid          |                       |
 +---------------+-------------+--------------+-----------------------+
-| Ubuntu        | 17.04       | zesty [8]_   |                       |
+| Ubuntu        | 17.10       | artful [9]_  |                       |
+|               +-------------+--------------+-----------------------+
+|               | 17.04       | zesty [8]_   |                       |
 |               +-------------+--------------+-----------------------+
 |               | 16.04 (LTS) | xenial [5]_  | yes                   |
 |               +-------------+--------------+-----------------------+
@@ -205,6 +207,7 @@ Supported distribution versions:
 .. [6] discontinued since QGIS 2.8.x (due to dependency on GEOS 3.4 not available in precise)
 .. [7] only up to QGIS 2.14.x (due to dependency to GDAL >=1.11 not available in precise ubuntugis)
 .. [8] starting with QGIS 2.18.7
+.. [9] starting with QGIS 2.18.14
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
 
