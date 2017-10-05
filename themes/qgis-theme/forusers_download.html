@@ -36,7 +36,7 @@
                   <div id="windows" class="accordion-body collapse in">
                     <div class="accordion-inner">
                       <div>
-                        <h5>{{ _('Latest release (eg. for New Users):') }}</h5>
+                        <h5>{{ _('Latest release (richest on features):') }}</h5>
                         <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
@@ -65,7 +65,8 @@
                               <li class="download-text">md5</li>
                           </ul>
                         </a>
-                        <h5>{{ _('Long term release repository (eg. for corporate users):') }}</h5>
+                        <h5>{{ _('Long term release repository (most stable):') }}</h5>
+                        <h6>{{ _('(containing the latest LTR that is not also the latest release)') }}</h6>
                         <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ ltrbinary|e }}-Setup-x86.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
