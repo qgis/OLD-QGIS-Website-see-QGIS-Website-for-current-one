@@ -49,6 +49,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
+   * - |silver| |qgis-de|
+       `QGIS user group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2018)
+
    * - |silver| |qgis-dk|
        `QGIS user group Denmark <http://qgis.dk/>`_, Denmark (10.2016-10.2018)
 
@@ -66,9 +69,6 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |silver| |artogis|
        `ARTOGIS a/s <http://www.artogis.dk/>`_, Denmark (11.2016-11.2017)
-
-   * - |silver| |qgis-de|
-       `QGIS user group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2017)
 
 .. |qgis-dk| image:: /static/site/about/images/qgis-dk.png
    :width: 95 px
@@ -96,6 +96,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |lutra|
+
+       `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2018)
+     - 
    * - |bronze| |IntegrateSustainability|
 
        `Integrate Sustainability Pty Ltd <https://www.integratesustainability.com.au/>`_, Perth, Australia (08.2017-08.2018)
@@ -240,12 +244,10 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |urbsol|
 
        `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2017)
-   * - |bronze| |lutra|
-
-       `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2017)
-     - |bronze| |septima|
+   * - |bronze| |septima|
 
        `Septima <http://www.septima.dk/>`_, Denmark (10.2016-10.2017)
+     -
 
 .. |Mapzen| image:: /static/site/about/images/mapzen.png
    :width: 95 px
