@@ -122,7 +122,7 @@ need to include ubuntugis ppa in your /etc/apt/sources.list file.
 
    - move to a stable debian version and use the released packages for it,
    - wait for the next point release (due |nextpointreleasedate|), which
-     happens every month and will be include the updated dependencies,
+     happens every month and will include the updated dependencies,
    - switch to the nightly repository whose packages are rebuild on regular basis
      and will also pickup the updated dependencies automatically or
    - build your own set of packages (see INSTALL_).
