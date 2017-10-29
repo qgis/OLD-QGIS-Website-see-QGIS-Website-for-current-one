@@ -298,10 +298,10 @@
                         })
                         .on("finish.countdown", function(event) {
                                 if( $this.parent().attr('id') == 'nextfeaturefreeze' ) {
-                                        $this.parent().html( "{{ devversion|e }} {{ _("in feature freeze since") }} " + event.finalDate.toLocaleString() + "<br/>" );
+                                        $this.parent().html( "{{ devversion|e }} {{ _("in feature freeze since") }} " + finalDate + "<br/>" );
                                 } else if( $this.parent().attr('id') == 'nextrelease' ) {
                                         $('#nextfeaturefreeze').html("");
-                                        $('#nextrelease').html( "{{ nextversion|e }} {{ _("in packaging since" ) }} " + event.finalDate.toLocaleString() + "<br/>" );
+                                        $('#nextrelease').html( "{{ nextversion|e }} {{ _("in packaging since" ) }} " + finalDate + "<br/>" );
                                 } else if( $this.parent().attr('id') == 'nextpointreleasedate' ) {
                                         $('#nextpointreleasedate').html("");
                                 }
