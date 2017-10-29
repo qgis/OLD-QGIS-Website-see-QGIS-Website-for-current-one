@@ -37,9 +37,11 @@ for row in reader:
     event, _, _, _,  _, _, _,  _, _, date, weekno, weeks, lr, ltr, dev, ff, _, _, _ = row
 
     dt = datetime.strptime(date,'%Y-%m-%d')
+
+    if "FF" in event and nr_date is None:
+       ff_date = dt
+
     if dt > datetime.today():
-        if "FF" in event and ff_date is None:
-            ff_date = dt
 
         if "PR" in event and pr_date is None:
             pr_date = dt

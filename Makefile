@@ -3,6 +3,7 @@
 
 # You can set these variables from the command line
 LANG          = en
+JOBS          = 2
 SPHINXBUILD   = sphinx-build
 SPHINXINTL    = sphinx-intl
 PAPER         =
@@ -118,9 +119,9 @@ html: localizeresources output/html/version.txt source/site/getinvolved/developm
 	#  -n   Run in nit-picky mode. Currently, this generates warnings for all missing references.
 	#  -W   Turn warnings into errors. This means that the build stops at the first warning and sphinx-build exits with exit status 1.
 	@if [ $(LANG) != "en" ]; then \
-		$(SPHINXBUILD) -j2 -b html $(ALLSPHINXOPTS) $(BUILDDIR); \
+		$(SPHINXBUILD) -j$(JOBS) -b html $(ALLSPHINXOPTS) $(BUILDDIR); \
 	else \
-		$(SPHINXBUILD) -n -W -j2 -b html $(ALLSPHINXOPTS) $(BUILDDIR); \
+		$(SPHINXBUILD) -n -W -j$(JOBS) -b html $(ALLSPHINXOPTS) $(BUILDDIR); \
 	fi
 	@echo
 	@echo "Build finished. The HTML pages for '$(LANG)' are in $(BUILDDIR)."
@@ -179,7 +180,7 @@ gettext:
 	rm -rf $(SOURCEDIR)/docs/*/
 	# remove donors.inc (no translation necessery)
 	rm source/site/about/donors.inc
-	$(SPHINXBUILD) -j2 -b gettext $(I18NSPHINXOPTS)
+	$(SPHINXBUILD) -j$(JOBS) -b gettext $(I18NSPHINXOPTS)
 	git checkout source/site/about/donors.inc
 	@echo
 	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale."
