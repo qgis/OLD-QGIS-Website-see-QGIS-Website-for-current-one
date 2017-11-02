@@ -49,6 +49,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
+   * - |silver| |artogis|
+       `ARTOGIS a/s <http://www.artogis.dk/>`_, Denmark (11.2016-11.2018)
+
    * - |silver| |qgis-de|
        `QGIS user group Germany <http://www.qgis.de/>`_, Germany (10.2016-10.2018)
 
@@ -61,14 +64,11 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |AeroAsahi|
        `AERO ASAHI CORPORATION <https://www.aeroasahi.co.jp/english/>`_, Japan (04.2017-04.2018)
 
-   * - |silver| |gaia|
-       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2017)
-
    * - |silver| |osgeo_uk|
        `OSGEO:UK <http://www.osgeo.org/uk/>`_, UK (12.2016-12.2017)
 
-   * - |silver| |artogis|
-       `ARTOGIS a/s <http://www.artogis.dk/>`_, Denmark (11.2016-11.2017)
+   * - |silver| |gaia|
+       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2017)
 
 .. |qgis-dk| image:: /static/site/about/images/qgis-dk.png
    :width: 95 px
@@ -96,10 +96,18 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |mappinggis|
+
+       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2018)
+     - |bronze| |alta|
+
+       `Alta ehf <http://www.alta.is/>`_, Iceland (11.2016-11.2018)
    * - |bronze| |lutra|
 
        `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2018)
-     - 
+     - |bronze| |urbsol|
+
+       `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2018)
    * - |bronze| |IntegrateSustainability|
 
        `Integrate Sustainability Pty Ltd <https://www.integratesustainability.com.au/>`_, Perth, Australia (08.2017-08.2018)
@@ -232,22 +240,12 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |solargis|
 
        `Solargis <http://solargis.com/>`_, Slovak Republic (12.2016-12.2017)
-   * - |bronze| |mappinggis|
-
-       `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2017)
-     - |bronze| |alta|
-
-       `Alta ehf <http://www.alta.is/>`_, Iceland (11.2016-11.2017)
    * - |bronze| |sourcepole|
 
        `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (11.2016-11.2017; 10.2014-10.2016: silver level)
-     - |bronze| |urbsol|
-
-       `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2017)
-   * - |bronze| |septima|
+     - |bronze| |septima|
 
        `Septima <http://www.septima.dk/>`_, Denmark (10.2016-10.2017)
-     -
 
 .. |Mapzen| image:: /static/site/about/images/mapzen.png
    :width: 95 px
