@@ -581,9 +581,19 @@ and the Command line arguments set to the path of the unit test python file,
 e.g.
 ``/home/user/dev/qgis/QGIS/tests/src/python/test_qgsattributeformeditorwidget.py``.
 
-Now also change the ``Run Environment`` and add a new ``PYTHONPATH`` variable.
-Set it to ``[build]/output/python/:[build]/output/python/plugins:[source]/tests/src/python``
-where you replace ``[build]`` with your build directory and ``[source]`` with
+Now also change the ``Run Environment`` and add 3 new variables:
+
++------------------+--------------------------------------------------------------------------------+
+| Variable         | Value                                                                          |
++------------------+--------------------------------------------------------------------------------+
+| PYTHONPATH       | [build]/output/python/:[build]/output/python/plugins:[source]/tests/src/python |
++------------------+--------------------------------------------------------------------------------+
+| QGIS_PREFIX_PATH | [build]/output                                                                 |
++------------------+--------------------------------------------------------------------------------+
+| LD_LIBRARY_PATH  | [build]/output/lib                                                             |
++------------------+--------------------------------------------------------------------------------+
+
+Replace ``[build]`` with your build directory and ``[source]`` with
 your source directory.
 
 Have fun
