@@ -36,23 +36,14 @@ to save on shipping costs.
 Here is a list of some of the 'shops' around the world, but feel free to try to
 find one for you own country, or ask spreadshirt to open one in your country.
 
-- http://qgis.spreadshirt.co.uk/
 
-- http://qgis.spreadshirt.de/
+- http://shop.spreadshirt.com/qgis/ (US)
 
-- http://qgis.spreadshirt.nl/
+- http://shop.spreadshirt.net/qgis/ (Europe)
 
-- http://qgis.spreadshirt.com.au/
-
-- http://qgis.spreadshirt.com/
-
-- http://qgis.spreadshirt.ca/
-
-Or pick one from here:
-
-http://www.spreadshirt.net/select-your-region-C8590
 
 .. figure:: /static/site/about/images/shop_buttons.png
    :alt: QGIS buttons
    :width: 120 px
    :align: center
+   
