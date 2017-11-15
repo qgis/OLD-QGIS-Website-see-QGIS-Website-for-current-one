@@ -28,6 +28,13 @@ http://docs.qgis.org/latest/en/docs/training_manual/index.html
 Tutorial material, originally developed as part of a workshop for the Ecology and Evolutionary Biology Program at Texas A&M University (produced and maintained by Mike Treglia):
 http://mltconsecol.github.io/QGIS-Tutorial/
 
+In-person training material, originally developed for the New York City Department of Transportation:
+
+Introduction to GIS Fundamentals: http://training.datapolitan.com/qgis-training/Introduction_to_GIS_Fundamentals
+
+Intermediate GIS with QGIS and PostGIS: http://training.datapolitan.com/qgis-training/Intermediate_GIS/
+
+Source code for training is available here: https://github.com/Datapolitan-Training/qgis-training
 
 French
 ......
