@@ -45,7 +45,7 @@ http://www.geoinformations.developpement-durable.gouv.fr/qgis-supports-pedagogiq
 Other resources from them are available here:
 http://www.geoinformations.developpement-durable.gouv.fr/qgis-r625.html
 
-The french National Center for Scientific Research (CNRS), created an online QGIS tutorial:
+The French National Center for Scientific Research (CNRS), created an online QGIS tutorial:
 http://ouvrir.passages.cnrs.fr/tutoqgis/
 
 
