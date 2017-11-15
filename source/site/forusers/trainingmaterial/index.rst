@@ -16,7 +16,7 @@ The general idea is to be able to (re)use material from each other.
 Educators are encouraged to use/mix/add material to the QGIS Training Manual.
 
 Please write to richard@qgis.org if you want to have something added here.
-Or you edit this page in github (https://github.com/qgis/QGIS-Website/blob/master/source/site/forusers/trainingmaterial/index.rst) and do a pull request.
+Or you edit this page on `Github <https://github.com/qgis/QGIS-Website/blob/master/source/site/forusers/trainingmaterial/index.rst>`_ and do a pull request.
 
 
 English
