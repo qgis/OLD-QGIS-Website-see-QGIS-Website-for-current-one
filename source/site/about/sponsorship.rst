@@ -96,6 +96,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |CityOfCanning|
+
+       `City of Canning <http://www.canning.wa.gov.au/>`_, Western Australia (01.2017-01.2019)
+     - 
    * - |bronze| |mappinggis|
 
        `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2018)
@@ -198,54 +202,49 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |cawdor_forestry|
 
        `CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, Scotland (02.2016-02.2018)
-   * - |bronze| |CityOfCanning|
-
-       `City of Canning <http://www.canning.wa.gov.au/>`_, Western Australia (01.2017-01.2018)
-     - |bronze| |osgeo_jp|
-
-       `OSGeo.JP <http://www.osgeo.jp/>`_, Japan (01.2017-01.2018)
    * - |bronze| |vortex_energy|
 
        `vortex energy Deutschland GmbH <https://vortex-energy-group.com/>`_, Germany (01.2017-01.2018)
-     - |bronze| |ib_kauppert|
+     - |bronze| |osgeo_jp|
 
-       `ingenieurbüro kauppert <http://www.ib-kauppert.de/>`_, Germany (01.2017-01.2018)
+       `OSGeo.JP <http://www.osgeo.jp/>`_, Japan (01.2017-01.2018)
    * - |bronze| |cadageo|
 
        `CADaGEO <http://www.cadageo.com/>`_, France (01.2017-01.2018)
-     - |bronze| |geos_hellinge|
+     - |bronze| |ib_kauppert|
 
-       `GeoS Geodätische Software Andreas Hellinge <http://www.geos-hellinge.de/>`_, Germany (01.2017-01.2018)
+       `ingenieurbüro kauppert <http://www.ib-kauppert.de/>`_, Germany (01.2017-01.2018)
    * - |bronze| |mierune|
 
        `Mierune LLC <http://www.mierune.co.jp/>`_, Japan (01.2017-01.2018)
-     - |bronze| |2d3dgis|
+     - |bronze| |geos_hellinge|
 
-       `2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2017)
+       `GeoS Geodätische Software Andreas Hellinge <http://www.geos-hellinge.de/>`_, Germany (01.2017-01.2018)
    * - |bronze| |gemeente_gouda|
 
        `Gemeente Gouda <http://www.gouda.nl/>`_, Netherlands (01.2017-01.2018)
-     - |bronze| |mhtc|
+     - |bronze| |2d3dgis|
 
-       `MHTC transport data collection <http://www.mhtc.co.uk/>`_, UK (12.2016-12.2017)
+       `2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2017)
    * - |bronze| |kela|
 
        `Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, Germany (12.2015-12.2017)
-     - |bronze| |opengeogroep|
+     - |bronze| |mhtc|
+
+       `MHTC transport data collection <http://www.mhtc.co.uk/>`_, UK (12.2016-12.2017)
+   * - |bronze| |opengeogroep|
 
        `OpenGeoGroep <http://www.opengeogroep.nl/>`_, Netherlands (12.2016-12.2017)
-   * - |bronze| |pixalytics|
-
-       `Pixalytics <http://www.pixalytics.com/>`_, UK (11.2016-11.2017)
      - |bronze| |solargis|
 
        `Solargis <http://solargis.com/>`_, Slovak Republic (12.2016-12.2017)
-   * - |bronze| |sourcepole|
+   * - |bronze| |pixalytics|
 
-       `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (11.2016-11.2017; 10.2014-10.2016: silver level)
+       `Pixalytics <http://www.pixalytics.com/>`_, UK (11.2016-11.2017)
      - |bronze| |septima|
 
        `Septima <http://www.septima.dk/>`_, Denmark (10.2016-10.2017)
+
 
 .. |Mapzen| image:: /static/site/about/images/mapzen.png
    :width: 95 px
@@ -485,6 +484,9 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
   * - |silver| |sogis|
 
       `Kanton Solothurn <http://www.agi.so.ch/>`_, Switzerland (10.2012-10.2013 and 04.2011-04.2012)
+  * - |silver| |sourcepole|
+
+      `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (11.2016-11.2017: bronze level; 10.2014-10.2016: silver level)
 
 .. |opw| image:: /static/site/about/images/opw.jpg
    :width: 150 px
