@@ -11,10 +11,10 @@ url = "https://docs.google.com/spreadsheets/u/1/d/1MOIjwon5eDI04DG6rX_HwucZkW1fx
 o = open("source/site/getinvolved/development/schedule.inc", "w")
 
 o.write("""\
-========== ======= ========= ===== ========== ==== =====
-Event      Latest  Long-Term  FF   Date       Week Weeks
-                   Repo                       #
-========== ======= ========= ===== ========== ==== =====
+========== ======= ========= ======== ========== ==== =====
+Event      Latest  Long-Term  Freeze   Date      Week Weeks
+                   Repo                          #
+========== ======= ========= ======== ========== ==== =====
 """)
 
 resource = urlopen(url)
@@ -56,10 +56,10 @@ for row in reader:
     event = event.replace('LR', '**LR**')
     event = event.replace('LTR', '**LTR**')
 
-    o.write("{0:10s} {1:7s} {2:9s} {3:5s} {4:10s} {5:5s} {6}\n".format(event, lr, ltr, dev, date, weekno, weeks))
+    o.write("{0:10s} {1:7s} {2:9s} {3:8s} {4:10s} {5:5s} {6}\n".format(event, lr, ltr, dev, date, weekno, weeks))
 
 o.write("""\
-========== ======= ========= ===== ========== ==== =====
+========== ======= ========= ======== ========== ==== =====
 """)
 
 o.close()
@@ -126,8 +126,8 @@ nextpointreleasedate = '%(nextpointreleasedate)s'
     "ltr_note": ltr_note,
     "devversion": devversion,
     "nextversion": nextversion,
-    "nextfreezedate": (ff_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC'),
-    "nextreleasedate": (nr_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC'),
+    "nextfreezedate": (ff_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC') if ff_date is not None else None,
+    "nextreleasedate": (nr_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC') if nr_date is not None else None,
     "nextpointreleasedate": (pr_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC'),
 })
 
