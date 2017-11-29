@@ -20,7 +20,7 @@ Event      Latest  Long-Term  Freeze   Date      Week Weeks
 resource = urlopen(url)
 reader = csv.reader(codecs.iterdecode(resource, 'utf-8'), delimiter=',', quotechar='"')
 first = True
-ff_date = None
+f_date = None
 pr_date = None
 nr_date = None
 
@@ -38,8 +38,8 @@ for row in reader:
 
     dt = datetime.strptime(date,'%Y-%m-%d')
 
-    if "FF" in event and nr_date is None:
-       ff_date = dt
+    if ("FF" in event or "SF" in event) and nr_date is None:
+       f_date = dt
 
     if dt > datetime.today():
 
@@ -126,7 +126,7 @@ nextpointreleasedate = '%(nextpointreleasedate)s'
     "ltr_note": ltr_note,
     "devversion": devversion,
     "nextversion": nextversion,
-    "nextfreezedate": (ff_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC') if ff_date is not None else None,
+    "nextfreezedate": (f_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC') if f_date is not None else None,
     "nextreleasedate": (nr_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC') if nr_date is not None else None,
     "nextpointreleasedate": (pr_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC'),
 })

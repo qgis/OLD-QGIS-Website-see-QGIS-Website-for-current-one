@@ -1,6 +1,6 @@
 <section class="clock" style="float:right;">
 <br>
-<span id="nextfeaturefreeze"> {{ _('Time until feature freeze') }} <span data-countdown="{{ nextfreezedate }}"></span> &nbsp; <br/> </span>
+<span id="nextfreeze"> {{ _('Time until freeze') }} <span data-countdown="{{ nextfreezedate }}"></span> &nbsp; <br/> </span>
 <span id="nextrelease"> {{ _('Time until packaging') }} <span data-countdown="{{ nextreleasedate }}"></span> &nbsp; <br/> </span>
 <span id="nextpointreleasedate"> {{ _('Time until next pointrelease') }} <span data-countdown="{{ nextpointreleasedate }}"></span> &nbsp; </span>
 </section>
@@ -274,10 +274,10 @@
                                 $this.html( finalDate + " " + event.strftime('%-Dd %-Hh %-Mm'));
                         })
                         .on("finish.countdown", function(event) {
-                                if( $this.parent().attr('id') == 'nextfeaturefreeze' ) {
-                                        $this.parent().html( "{{ devversion|e }} {{ _("in feature freeze since") }} " + finalDate + "<br/>" );
+                                if( $this.parent().attr('id') == 'nextfreeze' ) {
+                                        $this.parent().html( "{{ devversion|e }} {{ _("frozen since") }} " + finalDate + "<br/>" );
                                 } else if( $this.parent().attr('id') == 'nextrelease' ) {
-                                        $('#nextfeaturefreeze').html("");
+                                        $('#nextfreeze').html("");
                                         $('#nextrelease').html( "{{ nextversion|e }} {{ _("in packaging since" ) }} " + finalDate + "<br/>" );
                                 } else if( $this.parent().attr('id') == 'nextpointreleasedate' ) {
                                         $('#nextpointreleasedate').html("");
