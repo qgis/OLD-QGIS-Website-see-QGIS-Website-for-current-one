@@ -8,11 +8,11 @@ cd /var/www/qgisdata/QGIS-Website/live/html/feeds
 
 # get latest qgis flickrmaps
 mv qgisflickrmaps.atom qgisflickrmaps.atom.0
-curl "http://api.flickr.com/services/feeds/groups_pool.gne?id=2244553@N22&lang=en-us&format=atom" -o qgisflickrmaps.atom
+curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2244553@N22&lang=en-us&format=atom" -o qgisflickrmaps.atom
 
 # get latest qgis flickrscreenshots
 mv qgisflickrscreenshots.atom qgisflickrscreenshots.atom.0
-curl "http://api.flickr.com/services/feeds/groups_pool.gne?id=2327386@N22&lang=en-us&format=atom" -o qgisflickrscreenshots.atom
+curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2327386@N22&lang=en-us&format=atom" -o qgisflickrscreenshots.atom
 
 # get latest planet feed
 mv qgisplanet.atom qgisplanet.atom.0
