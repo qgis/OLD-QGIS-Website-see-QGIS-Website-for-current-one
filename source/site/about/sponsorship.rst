@@ -99,7 +99,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |CityOfCanning|
 
        `City of Canning <http://www.canning.wa.gov.au/>`_, Western Australia (01.2017-01.2019)
-     - 
+     - |bronze| |mhtc|
+
+       `MHTC transport data collection <http://www.mhtc.co.uk/>`_, UK (12.2016-12.2018)
    * - |bronze| |mappinggis|
 
        `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2018)
@@ -229,21 +231,15 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |kela|
 
        `Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, Germany (12.2015-12.2017)
-     - |bronze| |mhtc|
-
-       `MHTC transport data collection <http://www.mhtc.co.uk/>`_, UK (12.2016-12.2017)
-   * - |bronze| |opengeogroep|
+     - |bronze| |opengeogroep|
 
        `OpenGeoGroep <http://www.opengeogroep.nl/>`_, Netherlands (12.2016-12.2017)
-     - |bronze| |solargis|
+   * - |bronze| |solargis|
 
        `Solargis <http://solargis.com/>`_, Slovak Republic (12.2016-12.2017)
-   * - |bronze| |pixalytics|
+     - |bronze| |pixalytics|
 
        `Pixalytics <http://www.pixalytics.com/>`_, UK (11.2016-11.2017)
-     - |bronze| |septima|
-
-       `Septima <http://www.septima.dk/>`_, Denmark (10.2016-10.2017)
 
 
 .. |Mapzen| image:: /static/site/about/images/mapzen.png
@@ -505,6 +501,10 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 .. list-table:: Past Bronze sponsors
 
+  * - |bronze| |septima|
+
+      `Septima <http://www.septima.dk/>`_, Denmark (10.2016-10.2017)
+    - 
   * - |bronze| |ncc|
 
       `NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)
