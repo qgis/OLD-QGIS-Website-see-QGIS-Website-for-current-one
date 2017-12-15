@@ -473,8 +473,8 @@ Feature: Native support of XYZ tile layers
 
 Raster tiles in XYZ format are now natively supported within WMS data providers, allowing users to display basemaps from other sources without requiring third-party plugins like QuickMapServices or OpenLayers anymore.
 
-| To add connections to XYZ layers, just open browser dock widget, look for item called "Tile Server (XYZ)" and right click it to get a popup menu with "New connection" action. You will be asked for URL, in which ``{x}``, ``{y}``, ``{z}`` will be replaced by the actual tile numbers according to the current map view. For example, to add OpenStreetMap base map, one may use this URL:
-| ``http://c.tile.openstreetmap.org/{z}/{x}/{y}.png``
+To add connections to XYZ layers, just open browser dock widget, look for item called "Tile Server (XYZ)" and right click it to get a popup menu with "New connection" action. You will be asked for URL, in which ``{x}``, ``{y}``, ``{z}`` will be replaced by the actual tile numbers according to the current map view. For example, to add OpenStreetMap base map, one may use this URL:
+``http://c.tile.openstreetmap.org/{z}/{x}/{y}.png``
 
 The data provider also supports encoding of XYZ tile numbers into "quadkeys" used by Bing. Simply use ``{q}`` instead of ``{x}``, ``{y}`` and ``{z}`` in the URL.
 
