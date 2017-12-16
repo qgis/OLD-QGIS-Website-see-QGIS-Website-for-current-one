@@ -38,8 +38,6 @@ for l in $langs
   done
 
 time rsync -hvzc -e ssh --progress output/html/version.txt /var/www/qgisdata/QGIS-Website/live/html
-# 1 dec 2017 sync to qgis2 (keep sync to osgeo server for now too)
-time rsync -hvzc -e ssh --progress output/html/version.txt /var/www/qgisdata/QGIS-Website/live/html
 
 now=`date`
 echo "Finished: $now"

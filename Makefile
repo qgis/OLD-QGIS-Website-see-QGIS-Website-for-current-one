@@ -3,7 +3,7 @@
 
 # You can set these variables from the command line
 LANG          = en
-JOBS          := 2
+JOBS          = 1
 SPHINXBUILD   = sphinx-build
 SPHINXINTL    = sphinx-intl
 PAPER         =
