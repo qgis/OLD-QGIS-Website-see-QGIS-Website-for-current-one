@@ -13,7 +13,7 @@ Per Table 1, the HGC includes three separate sets of databases which can be acce
 
 .. figure:: ./images/usa_polczynski_table1.png
    :alt: Gazetteer databases
-   :scale: 70%
+   :scale: 80%
    :align: right
 
    Table 1: Gazetteer databases
@@ -23,7 +23,7 @@ Opening the project in QGIS yields the result shown in Figure 1.  For the KML an
 
 .. figure:: ./images/usa_polczynski_figure1.png
    :alt: HGC-QGIS-Project.qgs opened in QGIS
-   :scale: 70%
+   :scale: 80%
    :align: right
 
    Figure 1: HGC-QGIS-Project.qgs opened in QGIS.
@@ -32,7 +32,7 @@ Table 2 shows the HGC database fields.  Note the manner in which a unique ID is 
 
 .. figure:: ./images/usa_polczynski_table2.png
    :alt: HGC database fields
-   :scale: 70%
+   :scale: 80%
    :align: right
 
    Table 2: HGC database fields.
@@ -41,7 +41,7 @@ Note that the ID can be opened in a web browser, thereby automatically displayin
 
 .. figure:: ./images/usa_polczynski_figure2.png
    :alt: Opening the URL ID for Qarağy in a web browser
-   :scale: 70%
+   :scale: 80%
    :align: right
 
    Figure 2: Opening the URL ID for Qarağy in a web browser.
