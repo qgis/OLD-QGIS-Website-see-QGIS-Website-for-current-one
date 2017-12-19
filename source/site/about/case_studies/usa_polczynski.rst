@@ -60,7 +60,7 @@ Figure 3: Michael and Mark Polczynski
 
 .. figure:: ./images/usa_polczynski_authors.jpg
    :alt: Michael and Mark Polczynski
-   :height: 100
+   :scale: 50%
    :align: left
 
    Michael and Mark Polczynski
