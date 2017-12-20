@@ -67,8 +67,6 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |osgeo_uk|
        `OSGEO:UK <http://www.osgeo.org/uk/>`_, UK (12.2016-12.2017)
 
-   * - |silver| |gaia|
-       `GAIA mbh <http://www.gaia-mbh.de>`_, Germany (06.2013-11.2017)
 
 .. |qgis-dk| image:: /static/site/about/images/qgis-dk.png
    :width: 95 px
@@ -85,9 +83,6 @@ goes into the project. These sponsors are listed below with our thanks!
 .. |artogis| image:: /static/site/about/images/artogis.png
    :width: 185 px
 
-.. |gaia| image:: /static/site/about/images/gaia.png
-   :width: 150 px
-
 .. |AeroAsahi| image:: /static/site/about/images/AeroAsahi.png
    :width: 180 px
 
@@ -100,48 +95,61 @@ goes into the project. These sponsors are listed below with our thanks!
 
        `City of Canning <http://www.canning.wa.gov.au/>`_, Western Australia (01.2017-01.2019)
      - 
-   * - |bronze| |opengeogroep|
+   * - |bronze| |septima|
 
-       `Open Geo Groep <http://www.opengeogroep.nl/>`_, Netherlands (12.2016-12.2018)
+       `Septima <http://www.septima.dk/>`_, Denmark (10.2016-01.2019)
+     - |bronze| |2d3dgis|
+
+       `2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2018)
+
+   * - |bronze| |kela|
+
+       `Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, Germany (12.2015-12.2018)
+     - |bronze| |solargis|
+
+       `Solargis <http://solargis.com/>`_, Slovak Republic (12.2016-12.2018)
+   * - |bronze| |gaia|
+
+       `GAIA mbh <http://www.gaia-mbh.de/>`_, Germany (12.2017-12.2018; 06.2013-11.2017 (silver)) 
      - |bronze| |mhtc|
 
        `MHTC transport data collection <http://www.mhtc.co.uk/>`_, UK (12.2016-12.2018)
-   * - |bronze| |mappinggis|
+   * - |bronze| |opengeogroep|
+
+       `Open Geo Groep <http://www.opengeogroep.nl/>`_, Netherlands (12.2016-12.2018)
+     - |bronze| |mappinggis|
 
        `MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2014-11.2018)
-     - |bronze| |alta|
+   * - |bronze| |alta|
 
        `Alta ehf <http://www.alta.is/>`_, Iceland (11.2016-11.2018)
-   * - |bronze| |lutra|
-
-       `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2018)
      - |bronze| |urbsol|
 
        `Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2018)
-   * - |bronze| |IntegrateSustainability|
+   * - |bronze| |lutra|
+
+       `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.2018)
+     - |bronze| |IntegrateSustainability|
 
        `Integrate Sustainability Pty Ltd <https://www.integratesustainability.com.au/>`_, Perth, Australia (08.2017-08.2018)
-     - |bronze| |Mapzen|
+   * - |bronze| |Mapzen|
 
        `Mapzen <https://mapzen.com/>`_, NY / CA, USA (08.2017-08.2018)
-   * - |bronze| |Geographica|
-
-       `Geographica <https://geographica.gs/>`_, Sevilla, Spain (07.2017-07.2018)
      - |bronze| |whg|
 
        `WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany (08.2016-08.2018)
-   * - |bronze| |dbg|
+   * - |bronze| |Geographica|
 
-       `Datenbankgesellschaft mbH <http://www.datenbankgesellschaft.de/>`_, Germany (06.2017-06.2019)
+       `Geographica <https://geographica.gs/>`_, Sevilla, Spain (07.2017-07.2018)
      - |bronze| |LandPlanOS|
 
        `LandPlan OS GmbH <http://www.landplan-os.de/>`_, Germany (06.2017-06.2018)
-   * - |bronze| |Wagner-IT|
+   * - |bronze| |dbg|
+
+       `Datenbankgesellschaft mbH <http://www.datenbankgesellschaft.de/>`_, Germany (06.2017-06.2019)
+     - |bronze| |Wagner-IT|
 
        `WAGNER-IT <http://www.wagner-it.de/>`_, Germany (06.2017-06.2018)
-     - |bronze| |iag|
-
-       `IAG (Insurance Australia Group Limited, Natural Perlis Applications) <https://www.iag.com.au/>`_, Australia (06.2017-06.2018)
    * - |bronze| |terrelogiche|
 
        `www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italy (06.2015-06.2018)
@@ -229,20 +237,10 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |gemeente_gouda|
 
        `Gemeente Gouda <http://www.gouda.nl/>`_, Netherlands (01.2017-01.2018)
-     - |bronze| |2d3dgis|
-
-       `2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2017)
-   * - |bronze| |kela|
-
-       `Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_, Germany (12.2015-12.2017)
-     - |bronze| |solargis|
-
-       `Solargis <http://solargis.com/>`_, Slovak Republic (12.2016-12.2017)
-   * - |bronze| |pixalytics|
-
-       `Pixalytics <http://www.pixalytics.com/>`_, UK (11.2016-11.2017)
      - 
 
+.. |gaia| image:: /static/site/about/images/gaia.png
+   :width: 125 px
 
 .. |Mapzen| image:: /static/site/about/images/mapzen.png
    :width: 95 px
@@ -258,9 +256,6 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. |LandPlanOS| image:: /static/site/about/images/LandPlanOS.png
    :width: 125 px
-
-.. |iag| image:: /static/site/about/images/iag.png
-   :width: 90 px
 
 .. |Wagner-IT| image:: /static/site/about/images/Wagner-IT.png
    :width: 120 px
@@ -503,9 +498,9 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 .. list-table:: Past Bronze sponsors
 
-  * - |bronze| |septima|
+  * - |bronze| |pixalytics|
 
-      `Septima <http://www.septima.dk/>`_, Denmark (10.2016-10.2017)
+       `Pixalytics <http://www.pixalytics.com/>`_, UK (11.2016-11.2017)
     - 
   * - |bronze| |ncc|
 
