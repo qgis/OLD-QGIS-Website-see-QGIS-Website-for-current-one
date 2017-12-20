@@ -8,6 +8,7 @@ User Groups
 Current list of QGIS user groups
 --------------------------------
 
+* `Asociația Utilizatorilor QGIS (Romania) - contact: Tudor Bărăscu <http://qgis.ro/>`_
 * `QGIS Brasil (Brazil) - contact: Arthur Nanni <http://qgisbrasil.org/>`_
 * `QGIS Brugergruppe Danmark (Denmark) - contact: Lene Fischer <http://qgis.dk/>`_
 * `QGIS UK (England) - contact: Simon Miles <http://qgis.uk/>`_
