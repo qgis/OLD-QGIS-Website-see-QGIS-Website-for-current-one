@@ -3580,5 +3580,27 @@
      - 謝 晉凡
      - 陳 國威
    * - 黄 艳
-     -
-     -
+     - Uwe Schirkonyer
+     - ISUP Ingenieurbüro für Systemberatung und Planung
+   * - Urs Utzinger
+     - Luzerner Wanderwege
+     - Ojamaa Marko Tapio
+   * - Verbandsgemeinde Schweich
+     - Colin Demars
+     - Gerd Juenger
+   * - Ferrante Maria Manciola Piergiorgio
+     - Haenggi Engineering GmbH
+     - W. Verbruggen
+   * - Simone Bossart
+     - TEWAG Technologie Erdwärmeanlagen
+     - Luca dell'Anna
+   * - S. Siepman
+     - Oldiko Boesze
+     - David Behrens
+   * - Krzysztof Rafal Pyszny
+     - Reinoud Veenhof
+     - Silke Ochmann
+   * - Eirl Mathilde Redon
+     - Michael Albrecht
+     - Meysam Aliakbarian
+   * - Marjorie B. Roswell
