@@ -3611,4 +3611,7 @@
      - 謝 晉凡
    * - 陳 國威
      - 黄 艳
-     -
+     - Jürgen Rommel
+   * - Christine Schmidt
+     - Karl-Heinrich Witt
+     - SEA S.C. Sorvisc Energia Ambiënt
