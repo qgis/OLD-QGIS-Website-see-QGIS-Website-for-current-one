@@ -220,9 +220,8 @@ Example latest release for Debian jessie::
  deb-src https://qgis.org/debian jessie main
 
 If you use one of our ubuntugis based repositories you also need to add
-following line::
-
- deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu *codename* main
+their repository. Please consult the `ubuntugis documentation <https://trac.osgeo.org/ubuntugis/wiki/UbuntuGISRepository>`_
+for this.
 
 After that type::
 
