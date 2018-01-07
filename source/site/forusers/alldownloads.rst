@@ -202,7 +202,7 @@ Supported distribution versions:
 |               | 12.04 (LTS) | precise [6]_ | yes [7]_              |
 +---------------+-------------+--------------+-----------------------+
 
-.. [4] only starting with Debian Stretch and Ubuntu Xenial (due to libqca not available for Qt5 in trusty)
+.. [4] only starting with Debian Stretch and Ubuntu Xenial (due to libqca not available for Qt5 in trusty); 3D requires Qt 5.9 and is therefore only currently available on Debian unstable and Ubuntu artful.
 .. [5] master for Xenial only available for ubuntugis (plain Xenial lacks GDAL 2)
 .. [6] discontinued since QGIS 2.8.x (due to dependency on GEOS 3.4 not available in precise)
 .. [7] only up to QGIS 2.14.x (due to dependency to GDAL >=1.11 not available in precise ubuntugis)
