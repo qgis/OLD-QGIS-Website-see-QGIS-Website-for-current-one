@@ -24,7 +24,7 @@ Brazil
 
 Roberto Ilacqua wrote a manual for image classification in QGIS: `Manual do
 QGIS para Classificação Supervisionada de Áreas <https://malariaeliminationblog.files.wordpress.com/2017/11/manual-qgis.pdf>`,
-full version, 200 p - 2017.
+full version, 200 p - 2017 or `Manual do QGIS para Classificação Supervisionada de Áreas (short version) <https://malariaeliminationblog.files.wordpress.com/2018/01/protocol_lulc_methods.pdf>`, short version, 34 p - 2017.
 
 English
 .......
