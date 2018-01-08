@@ -110,9 +110,12 @@ Our main repository contains multiple lines of packages for several versions of
 provide.
 
 For Ubuntu we also have extra packages in a separate repository that are based
-on ubuntugis (https://launchpad.net/~ubuntugis), which holds more uptodate
+on `ubuntugis <https://launchpad.net/~ubuntugis>`_, which holds more uptodate
 versions of other GIS packages than Ubuntu itself. If you want those you also
-need to include ubuntugis ppa in your /etc/apt/sources.list file.
+need to include ubuntugis ppa in your /etc/apt/sources.list file (see
+`ubuntugis documentation
+<https://trac.osgeo.org/ubuntugis/wiki/UbuntuGISRepository>`_).
+
 
 .. note:: The packages are only produced once shortly after a new version has
    been released.  As unstable, not yet released debian versions (testing) and
@@ -218,10 +221,6 @@ Example latest release for Debian jessie::
 
  deb     https://qgis.org/debian jessie main
  deb-src https://qgis.org/debian jessie main
-
-If you use one of our ubuntugis based repositories you also need to add
-their repository. Please consult the `ubuntugis documentation <https://trac.osgeo.org/ubuntugis/wiki/UbuntuGISRepository>`_
-for this.
 
 After that type::
 
