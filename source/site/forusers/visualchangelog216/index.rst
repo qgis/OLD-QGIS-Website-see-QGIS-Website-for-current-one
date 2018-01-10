@@ -1856,7 +1856,7 @@ Here are the tickets he has dealt with during his allocated time for QGIS 2.16 b
 
 **Normal**
 
-* https://issues.qgis.org/issues/14965: wfs provider copies features when zoomin in and out
+* https://issues.qgis.org/issues/14965: wfs provider copies features when zooming in and out
 * https://issues.qgis.org/issues/14928: WMS request without BBOX
 * https://issues.qgis.org/issues/14999: Spatialite provider does not support alphanumeric
   primary keys (backport in 2.14)
