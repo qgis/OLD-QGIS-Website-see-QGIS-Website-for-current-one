@@ -25,15 +25,10 @@ Reporting issues on QGIS applications
 
 QGIS applications (QGIS Desktop, QGIS Browser and QGIS Server) issues
 are available in `Redmine <https://issues.qgis.org/projects/qgis/issues>`_.
-In order to submit or comment a report, you need an OSGeo account and login. 
-To get started, first `Create an OSGeo account
-<https://www.osgeo.org/cgi-bin/ldap_create_user.py>`_.
-It may require some time to have your account approved.
-
-.. note:: On the `OSGeo userid page <http://www.osgeo.org/osgeo_userid>`_ you can
- find more information about the OSGeo id we use. For example to 
- `change your password <https://www.osgeo.org/cgi-bin/auth/ldap_edit_user.py>`_
- or email address, or to reset your lost password.
+In order to submit or comment a report, you need to register (top right of each page) and login. 
+You can also use your OSGeo ID or request on at `Create an OSGeo account
+<https://www.osgeo.org/cgi-bin/ldap_create_user.py>`, which might require some time until
+it's approved.
 
 
 Before reporting an issue
