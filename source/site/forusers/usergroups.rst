@@ -22,7 +22,7 @@ Current list of QGIS user groups
 * `Polska Grupa Użytkowników QGIS (Poland) - contact: Milena Nowotarska <http://qgis.pl/>`_
 * `QGIS Portugal - contact: João Gaspar <http://qgis.pt/>`_
 * `QGIS UK (Scotland) - contact: Ross McDonald <https://qgis.uk/>`_
-* `QGIS user group Switzerland - contact: Andreas Neumann <https://qgis.ch/>`_
+* `QGIS user group Switzerland - contact: Hans-Jörg Stark <https://qgis.ch/>`_
 * `QGIS UK (Wales/Cymru) - contact: Kevin Williams <http://qgis.uk/>`_
 * `QGIS ZA (South Africa) - contact: Immo Blecher <http://qgis.org.za/>`_
 * `QGIS Sverige (Sweden) - contact: Karl-Magnus Jönsson <http://qgis.se/>`_
