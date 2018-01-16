@@ -19,6 +19,13 @@ Please write to richard@qgis.org if you want to have something added here.
 Or you edit this page on `Github <https://github.com/qgis/QGIS-Website/blob/master/source/site/forusers/trainingmaterial/index.rst>`_ and do a pull request.
 
 
+Brazil
+------
+
+Roberto Ilacqua wrote a manual for image classification in QGIS: `Manual do
+QGIS para Classificação Supervisionada de Áreas <https://malariaeliminationblog.files.wordpress.com/2017/11/manual-qgis.pdf>`,
+full version, 200 p - 2017 or `Manual do QGIS para Classificação Supervisionada de Áreas (short version) <https://malariaeliminationblog.files.wordpress.com/2018/01/protocol_lulc_methods.pdf>`, short version, 34 p - 2017.
+
 English
 .......
 
