@@ -194,9 +194,9 @@ Supported distribution versions:
 |               +-------------+--------------+                       |
 |               | unstable    | sid          |                       |
 +---------------+-------------+--------------+-----------------------+
-| Ubuntu        | 17.10       | artful [9]_  |                       |
+| Ubuntu        | 18.04       | bionic [9]_  |                       |
 |               +-------------+--------------+-----------------------+
-|               | 17.04       | zesty [8]_   |                       |
+|               | 17.10       | artful [8]_  |                       |
 |               +-------------+--------------+-----------------------+
 |               | 16.04 (LTS) | xenial [5]_  | yes                   |
 |               +-------------+--------------+-----------------------+
@@ -209,8 +209,8 @@ Supported distribution versions:
 .. [5] master for Xenial only available for ubuntugis (plain Xenial lacks GDAL 2)
 .. [6] discontinued since QGIS 2.8.x (due to dependency on GEOS 3.4 not available in precise)
 .. [7] only up to QGIS 2.14.x (due to dependency to GDAL >=1.11 not available in precise ubuntugis)
-.. [8] starting with QGIS 2.18.7
-.. [9] starting with QGIS 2.18.14
+.. [8] starting with QGIS 2.18.14
+.. [9] starting with QGIS 2.18.22
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
 
