@@ -1,4 +1,4 @@
-.. _whoiswho:
+    .. _whoiswho:
 
 Who is who in the project
 =========================
@@ -27,6 +27,54 @@ Former members are:
 
 Read more about the responsibilities of the PSC :ref:`here <psc>`
 
+
+.. _country-voting-members:
+
+Country Voting Members
+----------------------
+
+According to our statutes, for each country user group that is formed, that
+group will select a QGIS Country User Group Voting Member to represent
+their interests. These voting members are listed :ref:`here<_QGIS-usergroups>`.
+Please email tim@qgis.org if you have registered a new country user group, or have
+changed your user group representative.
+
+
+.. _community-voting-members:
+
+Community Voting Members
+------------------------
+
+According to our statutes, one member from the broader community can be
+elected for each country voting member. The following list are the
+current community voting members:
+
+* Martin Dobias <wonder.sk[at]gmail.com>
+* Nathan Woodrow <madmanwoo[at]gmail.com>
+* Matthias Kuhn <matthias[at]opengis.ch>
+* Larry Shaffer <larrys[at]dakotacarto.com>
+* Nyall Dawson <nyall.dawson[at]gmail.com>
+* Giovanni Manghi <giovanni.manghi[at]gmail.com>
+* Denis Rouzaud <denis.rouzaud[at]gmail.com>
+* Alexander Bruy <alexander.bruy[at]gmail.com>
+* Regis Haubourg <regis.haubourg[at]gmail.com>
+* Even Rouault <even.rouault[at]spatialys.com>
+* Werner Macho <werner.macho[at]gmail.com>
+* Vincent Picavet <vincent.ml+qgis[at]oslandia.com>
+* Yves Jacolin <yjacolin[at]free.fr>
+
+Added 2017
+
+* Alessandro Pasotti <apasotti[at]gmail.com>
+* Victor Olaya <volayaf[at]gmail.com>
+* Lene Fischer <lfi[at]ign.ku.dk>
+* Paul Blottiere <paul.blottiere[at]oslandia.com>
+* Mathieu Pellerin <nirvn.asia[at]gmail.com>
+* Luigi Pirelli <luipir[at]gmail.com>
+* Alexandre Neto <senhor.neto[at]gmail.com>
+* Tom Chadwin <tom.chadwin[at]nnpa.org.uk>
+* Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>
+
 .. _release-management:
 
 Release Management
@@ -50,28 +98,28 @@ QGIS is being packaged for different type of operating systems. The people
 responsible for that packages are as following:
 
 * Windows Team: Jürgen E. Fischer <jef[at]norbit.de>, Tim Sutton <tim[at]linfiniti.com>
-* OS X Team: William Kyngesburye <kyngchaos[at]kyngchaos.com>, 
+* OS X Team: William Kyngesburye <kyngchaos[at]kyngchaos.com>,
   Tom Elwertowski <telwertowski[at]comcast.net>
 * Linux Team:
 
   * OpenSuSE RPM Maintainer: Otto Dassau <dassau[at]gbd-consult.de>
   * Fedora RPM Maintainer: Douglas E. Warner <silfreed[at]silfreed.net>
-  * Ubuntu Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>, 
-    Tim Sutton <tim[at]linfiniti.com>, Jachym Cepicky <jachym.cepicky[at]gmail.com>
-  * Debian Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>, 
-    Tim Sutton <tim[at]linfiniti.com> [Etch], Niccolo Rigacci <qgis[at]rigacci.org> [Lenny]
+  * Ubuntu Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>,
+    Jachym Cepicky <jachym.cepicky[at]gmail.com>
+  * Debian Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>,
+    Niccolo Rigacci <qgis[at]rigacci.org> [Lenny]
 
 .. _testing-team:
 
 Testing Team
 ............
 
-* Ubuntu Linux: Ricardo Soares Garcia <ricardo.garcia.silva[at]gmail.com>, Giovanni 
+* Ubuntu Linux: Ricardo Soares Garcia <ricardo.garcia.silva[at]gmail.com>, Giovanni
   Manghi <giovanni.manghi[at]faunalia.pt>, Luís de Sousa <luis.a.de.sousa[at]gmail.com>
-* Debian Linux: Paolo Cavallini <cavallini[at]cavallini.it>, Pedro Venâncio 
+* Debian Linux: Paolo Cavallini <cavallini[at]cavallini.it>, Pedro Venâncio
   <pedrongvenancio[at]gmail.com>, Ivan Mincik <ivan.mincik[at]gmail.com>
-* Windows: Giovanni Manghi <giovanni.manghi[at]faunalia.pt>, Pedro Venâncio 
-  <pedrongvenancio[at]gmail.com>, Duarte Carreira <dncarreira[at]gmail.com>, 
+* Windows: Giovanni Manghi <giovanni.manghi[at]faunalia.pt>, Pedro Venâncio
+  <pedrongvenancio[at]gmail.com>, Duarte Carreira <dncarreira[at]gmail.com>,
   Andre Mano <andre.s.mano[at]gmail.com>
 * OS X: Larry Shaffer <larrys[at]dakotacarto.com>
 * Windows 8: Rui Pedro Henriques <henriques.rui[at]gmail.com>
@@ -178,18 +226,18 @@ members write code or documentation, while others are valuable as testers,
 submitting patches and suggestions.
 
 The number of Contributors to the project is unbounded. Get involved today.
-All contributions (adding code or documentation, fixing typo error, reporting 
+All contributions (adding code or documentation, fixing typo error, reporting
 issues...) to the project are greatly appreciated.
 
 These `individuals <https://github.com/qgis/QGIS/graphs/contributors>`_
 are recognised as Contributors to the main code
 `github repository <https://github.com/qgis/QGIS>`_.
 
-Follow the lists of maintainers of the `documentation 
-<https://github.com/qgis/QGIS-Documentation/graphs/contributors>`_ and the 
-`website <https://github.com/qgis/QGIS-Website/graphs/contributors>`_. 
+Follow the lists of maintainers of the `documentation
+<https://github.com/qgis/QGIS-Documentation/graphs/contributors>`_ and the
+`website <https://github.com/qgis/QGIS-Website/graphs/contributors>`_.
 Feel free to join any of those teams.
 
 ..
    TODO : add list of translators, bug reporters (is that possible?)
-  
+
