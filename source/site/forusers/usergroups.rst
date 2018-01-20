@@ -25,8 +25,6 @@ Current list of QGIS user groups
 * `QGIS UK (Wales/Cymru) - contact: Kevin Williams <http://qgis.uk/>`_
 
 
-
-
 **Registered 2017**
 
 * `QGIS Norge (Norway) - contact: Antonio Armas Diaz <http://qgis.no/>`_
@@ -38,6 +36,11 @@ Current list of QGIS user groups
 * `QGIS Australia - contact: Andrew Jeffrey <http://qgis-au.org>`_
 * `QGIS USA - contact: Kurt Menke <http://qgis.us>`_
 * `QGIS Mexico - contact: Hennessy Amor Becerra Ayala <https://www.facebook.com/qgismexico/>`_
+
+**Registered 2018**
+
+* `Asociația Utilizatorilor QGIS (Romania) - contact: Tudor Bărăscu <http://qgis.ro/>`_
+
 
 Goals of a user group
 ---------------------

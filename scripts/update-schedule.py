@@ -11,16 +11,16 @@ url = "https://docs.google.com/spreadsheets/u/1/d/1MOIjwon5eDI04DG6rX_HwucZkW1fx
 o = open("source/site/getinvolved/development/schedule.inc", "w")
 
 o.write("""\
-========== ======= ========= ===== ========== ==== =====
-Event      Latest  Long-Term  FF   Date       Week Weeks
-                   Repo                       #
-========== ======= ========= ===== ========== ==== =====
+========== ======= ========= ======== ========== ==== =====
+Event      Latest  Long-Term  Freeze   Date      Week Weeks
+                   Repo                          #
+========== ======= ========= ======== ========== ==== =====
 """)
 
 resource = urlopen(url)
 reader = csv.reader(codecs.iterdecode(resource, 'utf-8'), delimiter=',', quotechar='"')
 first = True
-ff_date = None
+f_date = None
 pr_date = None
 nr_date = None
 
@@ -37,9 +37,11 @@ for row in reader:
     event, _, _, _,  _, _, _,  _, _, date, weekno, weeks, lr, ltr, dev, ff, _, _, _ = row
 
     dt = datetime.strptime(date,'%Y-%m-%d')
+
+    if ("FF" in event or "SF" in event) and nr_date is None:
+       f_date = dt
+
     if dt > datetime.today():
-        if "FF" in event and ff_date is None:
-            ff_date = dt
 
         if "PR" in event and pr_date is None:
             pr_date = dt
@@ -54,10 +56,10 @@ for row in reader:
     event = event.replace('LR', '**LR**')
     event = event.replace('LTR', '**LTR**')
 
-    o.write("{0:10s} {1:7s} {2:9s} {3:5s} {4:10s} {5:5s} {6}\n".format(event, lr, ltr, dev, date, weekno, weeks))
+    o.write("{0:10s} {1:7s} {2:9s} {3:8s} {4:10s} {5:5s} {6}\n".format(event, lr, ltr, dev, date, weekno, weeks))
 
 o.write("""\
-========== ======= ========= ===== ========== ==== =====
+========== ======= ========= ======== ========== ==== =====
 """)
 
 o.close()
@@ -124,8 +126,8 @@ nextpointreleasedate = '%(nextpointreleasedate)s'
     "ltr_note": ltr_note,
     "devversion": devversion,
     "nextversion": nextversion,
-    "nextfreezedate": (ff_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC'),
-    "nextreleasedate": (nr_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC'),
+    "nextfreezedate": (f_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC') if f_date is not None else None,
+    "nextreleasedate": (nr_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC') if nr_date is not None else None,
     "nextpointreleasedate": (pr_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC'),
 })
 

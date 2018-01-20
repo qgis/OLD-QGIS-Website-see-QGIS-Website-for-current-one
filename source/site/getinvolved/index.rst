@@ -8,6 +8,7 @@ Get Involved / Development
     document
     translate
     development/index
+    tests
     Plugins website <http://plugins.qgis.org>
     mailinglists
     governance/index

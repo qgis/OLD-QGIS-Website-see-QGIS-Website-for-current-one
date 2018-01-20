@@ -22,6 +22,7 @@ Conclusion showing positive experiences/benefits using QGIS (length about 200 wo
 .. toctree::
    :maxdepth: 1
 
+   [2017/12] Historical Gazetteer of the Crimea by Michael and Mark Polczynski <usa_polczynski>
    [2017/07] Use of QGIS at the Ministry of Social Development of Uruguay <uruguay_mides>
    [2017/05] Using QGIS for FTTH/GPON network planning due to the implementation European Digital Agenda <poland_ffth>
 

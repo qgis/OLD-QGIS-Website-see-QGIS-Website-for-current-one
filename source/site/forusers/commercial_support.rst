@@ -41,6 +41,19 @@ services, and expert training.
 
 ----
 
+.. |camptocamp| image:: /static/site/about/images/camptocamp.png
+   :width: 150 px
+
+|camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-solutions>`_
+(based in France, Germany and Switzerland) 
+Open Source specialist, Camptocamp is an innovative company in the software
+implementation of geographic information systems (GIS), business management
+(ERP) and server management. To implement your most ambitious projects,
+Camptocamp builds customized solutions based on the best Open Source
+technologies.
+
+----
+
 .. |dms| image:: /static/site/about/images/dms.gif
    :width: 150 px
 
@@ -111,8 +124,11 @@ support for a number of Open Source GIS software. We specialize in QGIS
 .. |norbit| image:: /static/site/about/images/norbit.png
    :width: 100 px
 
-|norbit| `norBIT GmbH <http://www.norbit.de/64>`_ (based in Norden, Germany)
-provides commercial support and custom programming for QGIS.
+|norbit| `norBIT GmbH <http://www.norbit.de/64>`_ (based in Norden, Germany;
+etablished 1989) provides solutions mainly for local goverments, municipal
+services and water boards in connection with QGIS.  Additionally we provide
+training, commercial support and custom programming for QGIS and have been
+actively contributing to the QGIS project since 2007.
 
 ----
 
@@ -187,16 +203,6 @@ implementing QGIS within your organization, as well as GIS training on QGIS
 
 ----
 
-.. |camptocamp| image:: /static/site/about/images/camptocamp.png
-   :width: 150 px
-
-|camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-solutions>`_ is
-an open source service company based in Europe offering training, support and
-development around QGIS, mobiles apps, 3D, geoportails and GeoBI using a high
-expertise.
-
-----
-
 .. |gaia3d| image:: /static/site/about/images/gaia3d.png
    :width: 150 px
 
@@ -231,8 +237,9 @@ Others
 .. |astun| image:: /static/site/about/images/astun.jpg
    :width: 75 px
 
-|astun| `Astun Technology <http://astuntechnology.com/>`_ (based in UK) provides
-training for QGIS.
+|astun| `Astun Technology <http://astuntechnology.com/>`_ was formed in 2005 to provide open source and web-based GIS services to local and central governments.  Today, as all organisations realise the technical and financial benefits of using cloud solutions to create, manage and deliver their crucial GEO services, the demand for Astun's knowledge and experience in delivering marketing leading, fully managed AWS-based GIS cloud solutions, continues to grow. 
+For more information, please visit https://astuntechnology.com/
+
 
 ----
 
@@ -241,6 +248,15 @@ training for QGIS.
 
 |agx| `AdventGX <http://www.adventgx.com/>`_ (based in College Station, TX)
 provides installation, training, and implementation support for QGIS.
+
+----
+
+.. |clear_mapping_co| image:: /static/site/about/images/clear_mapping_co.jpg 
+   :width: 75 px
+
+|clear_mapping_co| `Clear Mapping Co <http://www.clearmapping.co.uk/>`_ (based in Penryn, Cornwall, UK) is an award-winning international cartographic design consultancy. We create beautiful maps to improve efficiency in the workplace with an inclusive and sustainable design focus.
+Our bespoke GIS training courses in QGIS and other GIS software offer the opportunity to improve efficiency handling spatial data and creating clear maps.
+
 
 ----
 

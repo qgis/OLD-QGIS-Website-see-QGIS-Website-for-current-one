@@ -43,14 +43,17 @@ accurate can be the answer.
    mailing to the list. More information at :ref:`QGIS-bugreporting`.
 
 
-Why is QGIS 2.0 named 'Dufour'?
--------------------------------
+How are QGIS release names selected?
+------------------------------------
 
 After a succesfull developer meeting in Zurich (Switzerland), we decided that
-the next release should be related to it.
-`General Guillaume-Henri Dufour <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_
-was a famous and influential swiss cartographer. Furthermore Dufourspitze is the
-`highest peak <http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.hiks-dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_ in Switzerland.
+the next release should be related to it. Since then, all releases have been named
+after locations of our developer meetings. 
+
+How to cite QGIS?
+-----------------
+
+To cite QGIS in your piece of work, or for an assignment, this general citation might be helpful: "QGIS Development Team (YEAR). QGIS Geographic Information System. Open Source Geospatial Foundation Project. http://qgis.osgeo.org". 
 
 
 Can I open ECW files with QGIS?

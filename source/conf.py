@@ -340,8 +340,7 @@ else:
     html_context = context
 
 def _warn_node(self, msg, node, **kwargs):
-    if not msg.startswith('nonlocal image URI found:') or "paypal" not in msg:
+    if 'nonlocal image URI found' not in msg:
         self._warnfunc(msg, '%s:%s' % get_source_line(node))
-
 
 sphinx.environment.BuildEnvironment.warn_node = _warn_node

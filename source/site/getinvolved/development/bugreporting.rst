@@ -25,15 +25,10 @@ Reporting issues on QGIS applications
 
 QGIS applications (QGIS Desktop, QGIS Browser and QGIS Server) issues
 are available in `Redmine <https://issues.qgis.org/projects/qgis/issues>`_.
-In order to submit or comment a report, you need an OSGeo account and login. 
-To get started, first `Create an OSGeo account
-<https://www.osgeo.org/cgi-bin/ldap_create_user.py>`_.
-It may require some time to have your account approved.
-
-.. note:: On the `OSGeo userid page <http://www.osgeo.org/osgeo_userid>`_ you can
- find more information about the OSGeo id we use. For example to 
- `change your password <https://www.osgeo.org/cgi-bin/auth/ldap_edit_user.py>`_
- or email address, or to reset your lost password.
+In order to submit or comment a report, you need to register (top right of each page) and login. 
+You can also use your OSGeo ID or request on at `Create an OSGeo account
+<https://www.osgeo.org/cgi-bin/ldap_create_user.py>`, which might require some time until
+it's approved.
 
 
 Before reporting an issue
@@ -146,16 +141,17 @@ reproduce the output might shed some light about where QGIS crashes.
 Plugin bugs
 ............
 
-Plugin bugs must be opened in their respective bug tracking system. 
-Check first if the plugin is listed in the 
-`plugin overview <http://hub.qgis.org/projects/qgis-user-plugins/>`_.
-If so, click on the plugin name then click "New issue". 
+Most of the plugins in QGIS are published in the official `QGIS Plugins repository 
+<http://plugins.qgis.org/plugins/>`_. Bugs or feature requests relative to them
+**must** be opened in their respective bug tracking system. 
+For any plugin available in QGIS repository, you'll find in its metadata a
+link to its bug tracker. Otherwise, consult the plugin documentation to find
+the address of the relevant bug tracking system or a developer to contact.
 
-Most of the plugins are published in the official `QGIS Plugins repository 
-<http://plugins.qgis.org/plugins/>`_. If the plugin is available, you'll find 
-in its presentation a link to its bug tracker. Otherwise, consult the plugin 
-documentation to find the address of the relevant bug tracking system 
-or a developer to contact.
+If no information is available, please report it to the `Developer
+mailing-list <http://lists.osgeo.org/mailman/listinfo/qgis-developer>`_.
+
+For other plugins, we have no means to ensure such information are provided.
 
 Reporting issues on QGIS web site or documentation
 ---------------------------------------------------
