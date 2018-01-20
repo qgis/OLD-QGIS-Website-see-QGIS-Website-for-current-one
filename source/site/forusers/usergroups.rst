@@ -31,7 +31,7 @@ Current list of QGIS user groups
 * `QGIS ZA (South Africa) - contact: Admire Nyakudya <http://qgis.org.za/>`_
 * `Groupe des Utilisateurs de QGIS - France (France) - contact: Harrissou Sant-anna <http://osgeo.asso.fr/content/project/qgis-user-fr/>`_
 * `QGIS Sverige (Sweden) - contact: Karl-Magnus Jönsson <http://qgis.se/>`_
-* `QGIS Georgia - contact: Zurab Archvadze <>`_
+* `QGIS Georgia - contact: Zurab Archvadze <http://qgis.org>`_
 * `QGIS Kenya - contact: Benard Mitto <https://www.facebook.com/qgisKE/>`_
 * `QGIS Australia - contact: Andrew Jeffrey <http://qgis-au.org>`_
 * `QGIS USA - contact: Kurt Menke <http://qgis.us>`_
