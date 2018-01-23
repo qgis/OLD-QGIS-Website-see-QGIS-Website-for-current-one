@@ -224,10 +224,16 @@ following line::
 
  deb     http://ppa.launchpad.net/ubuntugis/ubuntugis-unstable/ubuntu *codename* main
 
-After that type::
+After that type the commands below to install QGIS::
 
  sudo apt-get update
  sudo apt-get install qgis python-qgis qgis-plugin-grass
+
+In case you would like to install QGIS Server (note that it's not a good practice to
+install both client and server applications on the same machine), type::
+
+ sudo apt-get update
+ sudo apt-get install qgis-server python-qgis
 
 .. note:: Please remove all the QGIS and GRASS packages you may have
    installed from other repositories before doing the update.
