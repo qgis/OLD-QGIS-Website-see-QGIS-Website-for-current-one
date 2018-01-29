@@ -27,7 +27,7 @@ QGIS applications (QGIS Desktop, QGIS Browser and QGIS Server) issues
 are available in `Redmine <https://issues.qgis.org/projects/qgis/issues>`_.
 In order to submit or comment a report, you need to register (top right of each page) and login. 
 You can also use your OSGeo ID or request on at `Create an OSGeo account
-<https://www.osgeo.org/cgi-bin/ldap_create_user.py>`, which might require some time until
+<https://www.osgeo.org/cgi-bin/ldap_create_user.py>`_, which might require some time until
 it's approved.
 
 
