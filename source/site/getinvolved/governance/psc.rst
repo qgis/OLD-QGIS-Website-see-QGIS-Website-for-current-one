@@ -18,79 +18,79 @@ other languages.
 2 Definitions
 ^^^^^^^^^^^^^
 
-1. QGIS Project​ - the development, maintenance and propagation of the GIS software
-QGIS and any other software in the official QGIS repositories as free software in the
-sense of the Free Software Foundation.
+#. **QGIS Project** - the development, maintenance and propagation of the GIS software
+   QGIS and any other software in the official QGIS repositories as free software in the
+   sense of the Free Software Foundation.
 
-2. ‘The association’, ‘QGIS.ORG’​ - the not-for-profit legal entity as defined in Verein
-im Sinne des Schweizerischen Zivilgesetzbuches (Art. 60-79 ZGB)
+#. **‘The association’, ‘QGIS.ORG’** - the not-for-profit legal entity as defined in Verein
+   im Sinne des Schweizerischen Zivilgesetzbuches (Art. 60-79 ZGB)
 
-3. QGIS Community​ - Any active participant of the QGIS community including users,
-committers, patch providers, translators, document maintainers, advice givers, stack
-exchange contributors etc.
+#. **QGIS Community** - Any active participant of the QGIS community including users,
+   committers, patch providers, translators, document maintainers, advice givers, stack
+   exchange contributors etc.
 
-4. QGIS Committers​ - Any person who has been granted commit access in any of the
-official QGIS repositories
+#. **QGIS Committers** - Any person who has been granted commit access in any of the
+   official QGIS repositories
 
-5. QGIS Project Steering Committee (PSC)​ - The elected representatives of the QGIS
-community that advises the board.
+#. **QGIS Project Steering Committee (PSC)** - The elected representatives of the QGIS
+   community that advises the board.
 
-6. QGIS Board​ - A subset of the PSC (see below) that has been mandated to provide
-legal and fiscal oversight for QGIS.ORG. The Board is the legal representative of the
-QGIS.ORG Association.
+#. **QGIS Board** - A subset of the PSC (see below) that has been mandated to provide
+   legal and fiscal oversight for QGIS.ORG. The Board is the legal representative of the
+   QGIS.ORG Association.
 
-7. Chair​ - An individual elected from amongst the board who will act as the official
-representative of the QGIS project.
+#. **Chair** - An individual elected from amongst the board who will act as the official
+   representative of the QGIS project.
 
+#. **QGIS User Group** - A formal national chapter, meeting the criteria for official user
+   group as defined by the board. The official list of registered groups is maintained
+   here: http://www.qgis.org/en/site/forusers/usergroups.html
 
-8. QGIS User Group​ - A formal national chapter, meeting the criteria for official user
-group as defined by the board. The official list of registered groups is maintained
-here: http://www.qgis.org/en/site/forusers/usergroups.html
+#. **OSGeo** - The Open Source Geospatial Foundation (OSGeo) is a not-for-profit
+   organization whose mission is to foster global adoption of open geospatial
+   technology by being an inclusive software foundation devoted to an open philosophy
+   and participatory community driven development. QGIS is a OSGeo member.
 
-9. OSGeo​ - The Open Source Geospatial Foundation (OSGeo) is a not-for-profit
-organization whose mission is to foster global adoption of open geospatial
-technology by being an inclusive software foundation devoted to an open philosophy
-and participatory community driven development. QGIS is a OSGeo member.
+#. **Voting member** - any person who may vote on communal decisions made by the
+   board. The voting members (general meeting) will approve the annual budget and
+   the election of any new board members.
 
-10. Voting member​ - any person who may vote on communal decisions made by the
-board. The voting members (general meeting) will approve the annual budget and
-the election of any new board members.
-
-11. Financial auditors ​- nominated from the whole QGIS Community and they are
-elected by the voting members. The financial auditors shall approve the accounts
-annually.
+#. **Financial auditors** - nominated from the whole QGIS Community and they are
+   elected by the voting members. The financial auditors shall approve the accounts
+   annually.
 
 3 Goals of QGIS.ORG
 ^^^^^^^^^^^^^^^^^^^
 
-1. To steer the QGIS project in order to maximise its good standing in the GIS
-community and ensure that we reach as many potential users who can benefit from
-our work as possible.
+#. To steer the QGIS project in order to maximise its good standing in the GIS
+   community and ensure that we reach as many potential users who can benefit from
+   our work as possible.
 
-2. Coordination of QGIS project activities and disbursement of available financial
-resources for initiatives that will ensure the long term growth and sustainability of the
-QGIS project.
+#. Coordination of QGIS project activities and disbursement of available financial
+   resources for initiatives that will ensure the long term growth and sustainability of the
+   QGIS project.
 
-3. Marketing of QGIS through orientation courses, case studies, informative meetings or
-articles in GIS related media and any other suitable means.
+#. Marketing of QGIS through orientation courses, case studies, informative meetings or
+   articles in GIS related media and any other suitable means.
 
-4. Disseminate information to the QGIS community to keep them informed about
-planned and past activities including things such as the financial state of the project,
-initiatives that will be carried out on behalf of the QGIS project and so on.
+#. Disseminate information to the QGIS community to keep them informed about
+   planned and past activities including things such as the financial state of the project,
+   initiatives that will be carried out on behalf of the QGIS project and so on.
 
-5. Support of research or studies around QGIS.
+#. Support of research or studies around QGIS.
 
-6. Foster regular meetings of the QGIS community.
+#. Foster regular meetings of the QGIS community.
 
-7. Act as a liaison between the community of QGIS user groups, and third parties
-interested in knowing about or supporting QGIS.
+#. Act as a liaison between the community of QGIS user groups, and third parties
+   interested in knowing about or supporting QGIS.
+
 
 4 QGIS.ORG Legal entities
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. The General Meeting (the Voting Members)
-2. The Board
-3. Two non-Board members who shall act as financial auditors
+#. The General Meeting (the Voting Members)
+#. The Board
+#. Two non-Board members who shall act as financial auditors
 
 These three entities are in place to support and represent the broader QGIS Community.
 
@@ -105,30 +105,28 @@ also nominate and elect the PSC membership.
 5.1 Types of voting members
 ...........................
 
-1. QGIS User group​ voting members
-2. QGIS Community​ voting members
-3. One OSGEO representative ​voting member
-4. Honorary​ voting members
+#. QGIS User group voting members
+#. QGIS Community voting members
+#. One OSGEO representative voting member
+#. Honorary voting members
 
 5.2 Composition, appointment and role of voting members
 .......................................................
 
 The voting members shall be appointed according to the following scheme:
 
-● QGIS User Group Voting Members:​ One voting member per QGIS country level
-user group. Each user group will nominate who their voting member shall be.
-
-● QGIS​ Community Voting Members:​ For each user group voting member, there will
-be one voting community member elected.
-
-● OSGeo Voting Member:​ One voting member representing the OSGeo foundation
-put forward by the OSGeo board.
+* QGIS User Group Voting Members: One voting member per QGIS country level
+  user group. Each user group will nominate who their voting member shall be.
+* QGIS Community Voting Members: For each user group voting member, there will
+  be one voting community member elected.
+* OSGeo Voting Member: One voting member representing the OSGeo foundation
+  put forward by the OSGeo board.
 
 5.3 Election and eligibility of QGIS User Group voting members
 ..............................................................
 
-● Only country-level user groups may put forward a nominated voting member.
-● In order to be recognised, a user group must be approved by the PSC.
+* Only country-level user groups may put forward a nominated voting member.
+* In order to be recognised, a user group must be approved by the PSC.
 
 The user group should democratically nominate one person from within their ranks to act as
 their representative within the QGIS.ORG voting membership.
@@ -136,16 +134,14 @@ their representative within the QGIS.ORG voting membership.
 5.4 Election and eligibility of QGIS Community voting members
 .............................................................
 
-● QGIS community members will be nominated and voted for by the established QGIS
-committers.
-
-● Any active QGIS community member will be eligible for nomination as a QGIS.ORG
-voting member.
-
-● Voting Memberships shall be awarded on a ‘first past the post’ basis, with the
-nominee receiving the greatest number of votes being awarded voting membership
-first and so on in descending order of number of votes received until all voting
-memberships have been allocated.
+* QGIS community members will be nominated and voted for by the established QGIS
+  committers.
+* Any active QGIS community member will be eligible for nomination as a QGIS.ORG
+  voting member.
+* Voting Memberships shall be awarded on a ‘first past the post’ basis, with the
+  nominee receiving the greatest number of votes being awarded voting membership
+  first and so on in descending order of number of votes received until all voting
+  memberships have been allocated.
 
 5.5 Honorable members
 .....................
@@ -160,14 +156,14 @@ acceptance of a new honorable member. Honorable members shall have voting rights
 
 Voting memberships will be valid until:
 
-● The voting member resigns
-● There is a motion raised from within the voting membership, and passed vote by the
-voting membership to remove the member
-● A voting member gets elected to the PSC in which case voting membership of the
-new PSC member will be relinquished and a new voting member will be elected in
-the new PSC member’s place. Outgoing PSC members that were previously voting
-members will need to be re-elected into the voting membership should they wish to
-return to their former role.
+* The voting member resigns
+* There is a motion raised from within the voting membership, and passed vote by the
+  voting membership to remove the member
+* A voting member gets elected to the PSC in which case voting membership of the
+  new PSC member will be relinquished and a new voting member will be elected in
+  the new PSC member’s place. Outgoing PSC members that were previously voting
+  members will need to be re-elected into the voting membership should they wish to
+  return to their former role.
 
 6 The board
 ^^^^^^^^^^^
@@ -204,11 +200,12 @@ Board members will serve for a two year term.
 
 The board shall include at minimum these roles:
 
-1. Chair
-2. Vice-chair
-3. Treasurer
+#. Chair
+#. Vice-chair
+#. Treasurer
 
-​6.4​ Board and PSC Member remuneration
+6.4 Board and PSC Member remuneration
+.......................................
 
 Board and PSC members will receive no remuneration for their services other than
 reimbursement of out-of-pocket expenses incurred when carrying out activities on behalf of
@@ -267,15 +264,15 @@ independently of the AGM.
 
 The annual general meeting shall deal with the following:
 
-1. Approval of the annual report
-2. Approval of the annual financial report
-3. Approval of the annual budget
-4. Election of the board chair
-5. The nomination and election for the outgoing board and PSC member replacements
-6. Confirmation or selection of the financial auditors for the upcoming financial year
-7. Resolutions / voting of proposals made by the board, the PSC or voting members
-8. Revision of the statutes
-9. Deal with any matters arising
+#. Approval of the annual report
+#. Approval of the annual financial report
+#. Approval of the annual budget
+#. Election of the board chair
+#. The nomination and election for the outgoing board and PSC member replacements
+#. Confirmation or selection of the financial auditors for the upcoming financial year
+#. Resolutions / voting of proposals made by the board, the PSC or voting members
+#. Revision of the statutes
+#. Deal with any matters arising
 
 All other decisions and competences are the responsibility of the QGIS Board.
 
@@ -303,9 +300,9 @@ funding and other diverse sources.
 
 The general meeting shall elect two financial auditors each year.
 
-Limited Liability: ​the QGIS Association can only be held liable up to the amount of the
+Limited Liability: the QGIS Association can only be held liable up to the amount of the
 current assets of the association. Personal liability of members of the board or individual
 other members are excluded.
 
-This charter was approved by the general assembly via Loomio vote on May 8, 2017..
+This charter was approved by the general assembly via Loomio vote on May 8, 2017.
 
