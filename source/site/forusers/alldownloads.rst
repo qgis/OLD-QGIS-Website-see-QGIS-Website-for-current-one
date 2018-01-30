@@ -458,3 +458,7 @@ QGIS Testing warning
    given time not work, or may do bad things to your data.
    Take care. You have been warned!
 
+Installing from Source
+======================
+
+To build and install QGIS from source see https://github.com/qgis/QGIS/blob/master/INSTALL
