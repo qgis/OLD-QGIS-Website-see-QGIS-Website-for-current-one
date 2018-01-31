@@ -313,6 +313,7 @@ def setup(app):
     app.add_config_value('nextpointreleasedate', None, 'env')
     app.add_config_value('binary', None, 'env')
     app.add_config_value('ltrbinary', None, 'env')
+    app.add_config_value('infeaturefreeze', None, 'env')
 
 
 context = {
@@ -330,6 +331,7 @@ context = {
     'nextpointreleasedate': nextpointreleasedate,
     'binary': binary,
     'ltrbinary': ltrbinary,
+    'infeaturefreeze': infeaturefreeze
 }
 
 rst_epilog += "\n".join(map(lambda x: ".. |%s| replace:: %s" % (x, context[x]), context.keys()))

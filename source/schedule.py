@@ -20,3 +20,5 @@ nextversion = '3.0'
 nextfreezedate = '2017-10-27 12:00:00 UTC'
 nextreleasedate = '2018-02-23 12:00:00 UTC'
 nextpointreleasedate = '2018-03-23 12:00:00 UTC'
+
+infeaturefreeze = True

@@ -112,6 +112,8 @@ nextversion = '%(nextversion)s'
 nextfreezedate = '%(nextfreezedate)s'
 nextreleasedate = '%(nextreleasedate)s'
 nextpointreleasedate = '%(nextpointreleasedate)s'
+
+infeaturefreeze = %(infeaturefreeze)s
 """ % {
     "version": ".".join(lr_version.split(".")[:2]),
     "release": lr_version,
@@ -129,6 +131,7 @@ nextpointreleasedate = '%(nextpointreleasedate)s'
     "nextfreezedate": (f_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC') if f_date is not None else None,
     "nextreleasedate": (nr_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC') if nr_date is not None else None,
     "nextpointreleasedate": (pr_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC'),
+    "infeaturefreeze": "True" if f_date < datetime.now() else "False"
 })
 
 o.close()
