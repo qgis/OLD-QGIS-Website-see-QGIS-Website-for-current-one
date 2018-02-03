@@ -21,49 +21,61 @@
                 <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                 <li data-target="#myCarousel" data-slide-to="1"></li>
                 <li data-target="#myCarousel" data-slide-to="2"></li>
-                <!--<li data-target="#myCarousel" data-slide-to="3"></li>
-                <li data-target="#myCarousel" data-slide-to="4"></li>-->
+                <li data-target="#myCarousel" data-slide-to="3"></li>
+                <!--<li data-target="#myCarousel" data-slide-to="4"></li>-->
             </ol>
 
             <div class="carousel-inner">
                 <div class="item active">
-                    <img src="{{pathto('_static/images/qgisorg_banner30.png', 1)}}" alt="">
+                    <img src="{{pathto('_static/images/qgisorg_banner30.png', 1)}}" alt="QGIS 3.0">
                     <div class="container">
                         <div class="carousel-caption">
                             <h5 class="caption-headline">{{ _('Help test the new version!') }}</h5>
                             <p class="caption-text">
-                               {{ _('Get the ') }}
-                               <a class="caption-link" href="getinvolved/development/roadmap.html#location-of-prereleases-nightly-builds" target="_blank"> {{ _('development version') }} </a>
-                               {{ _(' for your Operating System and report any issue you find, so it can be fixed for the 3.0 release!') }} 
+                               {{_('Get the ') }}
+                               <a class="caption-link" href="getinvolved/development/roadmap.html#location-of-prereleases-nightly-builds" target="_blank"> {{_('development version')}} </a>
+                               {{_('for your Operating System and report any issue you find, so it can be fixed for the 3.0 release!') }} 
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="item">
-                    <img src="{{pathto('_static/images/qgisorg_banner_devmeeting.png', 1)}}" alt="">
+                    <img src="{{pathto('_static/images/qgisorg_banner_devmeeting.png', 1)}}" alt="QGIS developer meeting">
                     <div class="container">
                         <div class="carousel-caption">
                             <h5 class="caption-headline">{{ _('20th Developer meeting') }}</h5>
                             <p class="caption-text">
-                               {{ _('Come along ') }} 
-                               <a class="caption-link" href="https://github.com/qgis/QGIS/wiki/DeveloperMeetingMadeira2018" target="_blank"> {{ _('to Madeira') }} </a>
-                               {{ _(' to find out more about QGIS!') }} 
+                               {{ _('Come along') }} 
+                               <a class="caption-link" href="https://github.com/qgis/QGIS/wiki/DeveloperMeetingMadeira2018" target="_blank"> {{_('to Madeira')}} </a>
+                               {{ _('to find out more about QGIS!') }} 
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="item">
-                    <img src="{{pathto('_static/images/qgisorg_shop_banner.png', 1)}}" alt="">
+                    <img src="{{pathto('_static/images/qgisorg_shop_banner.png', 1)}}" alt="QGIS shop">
                     <div class="container">
                         <div class="carousel-caption">
                             <h5 class="caption-headline">{{ _('Look cool and support the QGIS project!') }}</h5>
                             <p class="caption-text">
-                                {{ _('Pick your style and favourite color and show your support with our ') }}
-                                <a class="caption-link" href="{{ pathto('site/about/shop_goodies') }}" target="_blank">{{ _('QGIS goodies')}}</a>
+                                {{ _('Pick your style and favourite color and show your support with our') }}
+                                <a class="caption-link" href="{{ pathto('site/about/shop_goodies') }}" target="_blank">{{_('QGIS goodies!')}}</a>
                             </p>
                         </div>
                     </div>
                 </div>
+                <div class="item">
+                    <img src="{{pathto('_static/images/qgisorg_banner_foss4g2018_dar.png', 1)}}" alt="FOSS4G 2018 Dar">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h5 class="caption-headline">{{ _('Join the FOSS4G community!') }}</h5>
+                            <p class="caption-text">
+                                {{ _('Workshops, talks, code sprints, and community events are waiting for you at') }}
+                                <a class="caption-link" href="http://2018.foss4g.org" target="_blank">{{_('FOSS4G 2018 in Dar!')}}</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>                
             </div>
             <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
             <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
