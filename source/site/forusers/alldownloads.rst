@@ -397,14 +397,6 @@ QGIS download page on KyngChaos http://www.kyngchaos.com/software/qgis
 
 .. _QGIS-macos-testing:
 
-QGIS testing
-------------
-
-QGIS testing builds (Nightly build) at http://qgis.dakotacarto.com are
-provided by Dakota Cartography.
-
-Note the warning_.
-
 FreeBSD
 =======
 
