@@ -52,6 +52,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |AeroAsahi|
        `AERO ASAHI CORPORATION <https://www.aeroasahi.co.jp/english/>`_, Japan (04.2017-04.2019)
 
+   * - |silver| |terraplan|
+       `Terraplan <http://www.terraplan.com/>`_, Schallstadt, Germany (1.2018-1.2019)
+
    * - |silver| |OpenGISCH|
        `OPENGIS.ch <http://www.opengis.ch/>`_, Switzerland (1.2018-1.2019)
 
@@ -70,6 +73,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |WIGeoGIS|
        `WIGeoGIS <https://www.wigeogis.com/>`_, Austria (04.2017-04.2018)
 
+
+.. |terraplan| image:: /static/site/about/images/terraplan.png
+   :width: 180 px
 
 .. |OpenGISCH| image:: /static/site/about/images/OpenGISCH.png
    :width: 160 px
