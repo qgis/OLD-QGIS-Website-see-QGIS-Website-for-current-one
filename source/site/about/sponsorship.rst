@@ -64,12 +64,15 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |qgis-dk|
        `QGIS user group Denmark <http://qgis.dk/>`_, Denmark (10.2016-10.2018)
 
+   * - |silver| |opw|
+       `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-07.2018)
+
    * - |silver| |WIGeoGIS|
        `WIGeoGIS <https://www.wigeogis.com/>`_, Austria (04.2017-04.2018)
 
 
 .. |OpenGISCH| image:: /static/site/about/images/OpenGISCH.png
-   :width: 130 px
+   :width: 160 px
 
 .. |qgis-dk| image:: /static/site/about/images/qgis-dk.png
    :width: 95 px
@@ -88,6 +91,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. |AeroAsahi| image:: /static/site/about/images/AeroAsahi.png
    :width: 180 px
+
+.. |opw| image:: /static/site/about/images/opw.jpg
+   :width: 150 px
 
 
 .. Bronze sponsors: NOTE !!! keep these sorted please (latest expiry first) so it is easy to check validity
@@ -245,7 +251,7 @@ goes into the project. These sponsors are listed below with our thanks!
      - 
 
 .. |forest_design_srl| image:: /static/site/about/images/forest_design_srl.jpg
-   :width: 120 px
+   :width: 135 px
 
 .. |gaia| image:: /static/site/about/images/gaia.png
    :width: 125 px
@@ -479,9 +485,6 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
   * - |silver| |osgeo_uk|
       `OSGEO:UK <http://www.osgeo.org/uk/>`_, UK (12.2016-12.2017)
 
-  * - |silver| |opw|
-      `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-12.2016)
-
   * - |silver| |agh|
       `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
 
@@ -491,9 +494,6 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
   * - |silver| |sourcepole|
 
       `Sourcepole AG <http://www.sourcepole.com/>`_, Switzerland (11.2016-11.2017: bronze level; 10.2014-10.2016: silver level)
-
-.. |opw| image:: /static/site/about/images/opw.jpg
-   :width: 150 px
 
 .. |agh| image:: /static/site/about/images/agh.png
    :width: 90 px
