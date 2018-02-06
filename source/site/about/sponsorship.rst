@@ -100,6 +100,18 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |cawdor_forestry|
+
+        `CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, Scotland (02.2016-02.2019)
+     - |bronze| |gemeente_gouda|
+
+       `Gemeente Gouda <http://www.gouda.nl/>`_, Netherlands (01.2017-01.2019)
+   * - |bronze| |geos_hellinge|
+
+       `GeoS Geodätische Software Andreas Hellinge <http://www.geos-hellinge.de/>`_, Germany (01.2017-01.2019)
+     - |bronze| |ib_kauppert|
+
+        `ingenieurbüro kauppert <http://www.ib-kauppert.de/>`_, Germany (01.2017-01.2019)
    * - |bronze| |mierune|
 
        `Mierune LLC <http://www.mierune.co.jp/>`_, Japan (01.2017-01.2019)
@@ -230,25 +242,13 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |SMPEPCE|
 
        `SMPEPCE (Syndicat Mixte de Production d’Eau Potable de la Côte d’Emeraude) <http://www.syndicat-eau-cote-emeraude.fr/>`_, France (02.2017-02.2018)
-     - |bronze| |cawdor_forestry|
-
-       `CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, Scotland (02.2016-02.2018)
-   * - |bronze| |vortex_energy|
+     - |bronze| |vortex_energy|
 
        `vortex energy Deutschland GmbH <https://vortex-energy-group.com/>`_, Germany (01.2017-01.2018)
-     - |bronze| |geos_hellinge|
-
-       `GeoS Geodätische Software Andreas Hellinge <http://www.geos-hellinge.de/>`_, Germany (01.2017-01.2018)
    * - |bronze| |cadageo|
 
        `CADaGEO <http://www.cadageo.com/>`_, France (01.2017-01.2018)
-     - |bronze| |ib_kauppert|
-
-       `ingenieurbüro kauppert <http://www.ib-kauppert.de/>`_, Germany (01.2017-01.2018)
-   * - |bronze| |gemeente_gouda|
-
-       `Gemeente Gouda <http://www.gouda.nl/>`_, Netherlands (01.2017-01.2018)
-     - 
+     -
 
 .. |forest_design_srl| image:: /static/site/about/images/forest_design_srl.jpg
    :width: 135 px
