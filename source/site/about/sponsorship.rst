@@ -52,11 +52,11 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |AeroAsahi|
        `AERO ASAHI CORPORATION <https://www.aeroasahi.co.jp/english/>`_, Japan (04.2017-04.2019)
 
+   * - |silver| |OpenGISCH|
+       `OPENGIS.ch <http://www.opengis.ch/>`_, Switzerland (2.2018-2.2019)
+
    * - |silver| |terraplan|
        `Terraplan <http://www.terraplan.com/>`_, Schallstadt, Germany (1.2018-1.2019)
-
-   * - |silver| |OpenGISCH|
-       `OPENGIS.ch <http://www.opengis.ch/>`_, Switzerland (1.2018-1.2019)
 
    * - |silver| |artogis|
        `ARTOGIS a/s <http://www.artogis.dk/>`_, Denmark (11.2016-11.2018)
