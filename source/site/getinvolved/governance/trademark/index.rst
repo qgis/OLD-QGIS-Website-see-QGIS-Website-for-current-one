@@ -3,8 +3,8 @@
 QGIS Trademark
 ==============
 
-The QGIS name and logo are now protected under European law from unauthorized and confusing uses of the trademark [https://oami.europa.eu/eSearch/#details/trademarks/012702643]. 
-Our main aim is to encourage those who do business using QGIS name and logo to participate actively to the project, and help us improving QGIS.
+The QGIS name and logo are protected under European law from unauthorized and confusing uses of the trademark. You can find our trademark information at [https://oami.europa.eu/eSearch/#details/trademarks/012702643] and [https://euipo.europa.eu/eSearch/#details/trademarks/017228222]. 
+Our main aim is to encourage those who do business using QGIS name and logo to participate actively in the project and help us to improve QGIS.
 
 Usage
 ----------------
