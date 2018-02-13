@@ -452,3 +452,7 @@ QGIS Testing warning
    given time not work, or may do bad things to your data.
    Take care. You have been warned!
 
+Installing from Source
+======================
+
+Refer to the `INSTALL guide <http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html>`_ on how to build and install QGIS from source for the different platforms.
