@@ -461,4 +461,4 @@ QGIS Testing warning
 Installing from Source
 ======================
 
-To build and install QGIS from source see http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html
+Refer to the [INSTALL guide](http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html) on how to build and install QGIS from source for the different platforms.
