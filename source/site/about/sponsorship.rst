@@ -106,31 +106,37 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |automatic_knowledge|
+
+       `Automatic Knowledge <https://automaticknowledge.co.uk/>`_, UK (03.2016-03-2018)
+     -
    * - |bronze| |cawdor_forestry|
 
         `CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, Scotland (02.2016-02.2019)
-     - 
-   * - |bronze| |geos_hellinge|
+     - |bronze| |geos_hellinge|
 
        `GeoS Geodätische Software Andreas Hellinge <http://www.geos-hellinge.de/>`_, Germany (01.2017-01.2019)
-     - |bronze| |gemeente_gouda|
-
-       `Gemeente Gouda <http://www.gouda.nl/>`_, Netherlands (01.2017-01.2019)
    * - |bronze| |mierune|
 
        `Mierune LLC <http://www.mierune.co.jp/>`_, Japan (01.2017-01.2019)
-     - |bronze| |ib_kauppert|
+     - |bronze| |gemeente_gouda|
 
-        `ingenieurbüro kauppert <http://www.ib-kauppert.de/>`_, Germany (01.2017-01.2019)
+       `Gemeente Gouda <http://www.gouda.nl/>`_, Netherlands (01.2017-01.2019)
    * - |bronze| |CityOfCanning|
 
        `City of Canning <http://www.canning.wa.gov.au/>`_, Western Australia (01.2017-01.2019)
-     - |bronze| |forest_design_srl|
+     - |bronze| |ib_kauppert|
 
-       `Forest Design SRL <http://www.forestdesign.ro/>`_, Brasov, Romania (01.2018-01.2019)
+        `ingenieurbüro kauppert <http://www.ib-kauppert.de/>`_, Germany (01.2017-01.2019)
    * - |bronze| |septima|
 
        `Septima <http://www.septima.dk/>`_, Denmark (10.2016-01.2019)
+     - |bronze| |forest_design_srl|
+
+       `Forest Design SRL <http://www.forestdesign.ro/>`_, Brasov, Romania (01.2018-01.2019)
+   * - |bronze| |tkt-teleconsult|
+
+        `tkt teleconsult Kommunikationstechnik GmbH <https://www.tkt-teleconsult.de/>`_, Germany (12.2017-12.2018)
      - |bronze| |osgeo_jp|
 
        `OSGeo.JP <http://www.osgeo.jp/>`_, Japan (01.2017-01.2019)
@@ -259,6 +265,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
        `CADaGEO <http://www.cadageo.com/>`_, France (01.2017-01.2018)
      -
+
+.. |tkt-teleconsult| image:: /static/site/about/images/tkt-teleconsult.png
+   :width: 110 px
 
 .. |forest_design_srl| image:: /static/site/about/images/forest_design_srl.jpg
    :width: 135 px
