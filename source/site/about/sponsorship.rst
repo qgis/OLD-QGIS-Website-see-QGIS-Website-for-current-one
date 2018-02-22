@@ -52,6 +52,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |AeroAsahi|
        `AERO ASAHI CORPORATION <https://www.aeroasahi.co.jp/english/>`_, Japan (04.2017-04.2019)
 
+   * - |silver| |vanoord|
+       `Van Oord Dredging and Marine Contractors bv <https://www.vanoord.com//>`_, Rotterdam, The Netherlands (3.2018-3.2019)
+
    * - |silver| |OpenGISCH|
        `OPENGIS.ch <http://www.opengis.ch/>`_, Switzerland (2.2018-2.2019)
 
@@ -73,6 +76,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |WIGeoGIS|
        `WIGeoGIS <https://www.wigeogis.com/>`_, Austria (04.2017-04.2018)
 
+
+.. |vanoord| image:: /static/site/about/images/vanoord.png
+   :width: 160 px
 
 .. |terraplan| image:: /static/site/about/images/terraplan.png
    :width: 180 px
@@ -109,7 +115,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |automatic_knowledge|
 
        `Automatic Knowledge <https://automaticknowledge.co.uk/>`_, UK (03.2016-03-2018)
-     -
+     - |bronze| |baumsicht|
+
+       `Baumsicht <https://baumsicht.de/>`_, Obergünzburg, Bavaria, Germany (03.2018-03.2019)
    * - |bronze| |cawdor_forestry|
 
         `CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, Scotland (02.2016-02.2019)
@@ -265,6 +273,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
        `CADaGEO <http://www.cadageo.com/>`_, France (01.2017-01.2018)
      -
+
+.. |baumsicht| image:: /static/site/about/images/baumsicht.png
+   :width: 125 px
 
 .. |tkt-teleconsult| image:: /static/site/about/images/tkt-teleconsult.png
    :width: 110 px
