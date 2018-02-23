@@ -112,6 +112,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |vortex_energy|
+
+       `vortex energy Deutschland GmbH <https://vortex-energy-group.com/>`_, Germany (01.2017-01.2018)
+     - |bronze| |syddjurs|
+
+       `Syddjurs kommune <http://www.syddjurs.dk/>`_, Denmark (03.2017-03.2018)
    * - |bronze| |automatic_knowledge|
 
        `Automatic Knowledge <https://automaticknowledge.co.uk/>`_, UK (03.2016-03-2018)
@@ -233,46 +239,37 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2018)
-   * - |bronze| |automatic_knowledge|
-
-       `Automatic Knowledge <https://automaticknowledge.co.uk/>`_, UK (03.2016-03-2018)
-     - |bronze| |ager_technology|
-
-       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2018)
    * - |bronze| |geoinnova|
 
        `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2018)
-     - |bronze| |bgeo|
+     - |bronze| |ager_technology|
 
-       `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2018)
+       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2018)
    * - |bronze| |gis_supp|
 
        `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2018)
-     - |bronze| |claasleinert|
+     - |bronze| |bgeo|
 
-       `GKG Kassel (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2018)
+       `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2018)
    * - |bronze| |chartwell|
 
        `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2018)
-     - |bronze| |tragewegen|
+     - |bronze| |claasleinert|
 
-       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2018)
+       `GKG Kassel (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2018)
    * - |bronze| |gis3w|
 
        `Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-03.2018)
-     - |bronze| |syddjurs|
+     - |bronze| |tragewegen|
 
-       `Syddjurs kommune <http://www.syddjurs.dk/>`_, Denmark (03.2017-03.2018)
+       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2018)
    * - |bronze| |SMPEPCE|
 
        `SMPEPCE (Syndicat Mixte de Production d’Eau Potable de la Côte d’Emeraude) <http://www.syndicat-eau-cote-emeraude.fr/>`_, France (02.2017-02.2018)
-     - |bronze| |vortex_energy|
-
-       `vortex energy Deutschland GmbH <https://vortex-energy-group.com/>`_, Germany (01.2017-01.2018)
-   * - |bronze| |cadageo|
+     - |bronze| |cadageo|
 
        `CADaGEO <http://www.cadageo.com/>`_, France (01.2017-01.2018)
-     -
+
 
 .. |baumsicht| image:: /static/site/about/images/baumsicht.png
    :width: 125 px
