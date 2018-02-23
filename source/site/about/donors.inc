@@ -3759,3 +3759,15 @@
    * - 謝 晉凡
      - 陳 國威
      - 黄 艳
+   * - Quentin Chollet
+     - Fernando Navarro Carmone
+     - Daniele Poncino
+   * - Andre van der Kaay
+     - Natalie Henzi
+     - Pierre Ivanoé Koog
+   * - Sebastian Kasanmascheff
+     - M M Nijhuis
+     - Rémi Bovard
+   * - Klaus und Renate Schneider
+     - Tuomas Niko Salmela
+     - Jonkopings Fiskeribiologi AB
