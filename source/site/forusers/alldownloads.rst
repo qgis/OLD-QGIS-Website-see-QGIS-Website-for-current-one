@@ -173,6 +173,8 @@ Lines of packages:
 +-----------------------+--------------------------------+------------------------+------------------------------------------------+
 | Development Version   | 2.99.x master [4]_             | Nightly build for      | https://qgis.org/debian-nightly                |
 |                       |                                | **Debian and Ubuntu**  |                                                |
+|                       |                                | **newer than Yakkety** |                                                |
+|                       |                                | **(16.10)**            |                                                |
 |                       |                                | [5]_                   |                                                |
 |                       |                                +------------------------+------------------------------------------------+
 |                       |                                | Nightly build with     | https://qgis.org/ubuntugis-nightly             |
