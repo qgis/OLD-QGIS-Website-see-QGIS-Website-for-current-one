@@ -20,6 +20,15 @@ Note2: After the english books there are french, greek and polish items
 English
 =======
 
+
+On the Way with GIS
+*******************
+
+* https://locatepress.com/otw
+* Author(s): Toni Fisher
+* Date: Feb 2018
+
+
 Open the Door to GIS - Student and Teacher's Edition
 ****************************************************
 
@@ -30,6 +39,7 @@ Open the Door to GIS is recommended for students age 10 to 15 years and is avail
 * https://locatepress.com/odg
 * Author(s): Toni Fisher
 * Date: May 2017
+
 
 QGIS Python Programming Cookbook - Second Edition
 *************************************************
@@ -60,6 +70,7 @@ Go beyond the basics and unleash the full power of QGIS with practical, step-by-
 * https://www.packtpub.com/big-data-and-business-intelligence/mastering-qgis-second-edition
 * Kurt Menke, GISP et al.
 * Date: September 2016
+
 
 Discover QGIS
 *************
@@ -162,6 +173,7 @@ Dutch
 =====
 
 QGIS at secondary level - Geography Studies - Cartography at secondary level - GISwijzer GO game
+************************************************************************************************
 
 * https://www.giswijzer.nl/?product=qgis-op-vo-niveau-geografie-studies-cartografie-op-vo-niveau-giswijzer-go-spel
 * Margit Stapel
@@ -169,6 +181,14 @@ QGIS at secondary level - Geography Studies - Cartography at secondary level - G
 
 French
 ======
+
+Systèmes d'information géographique. Cours et exercices corrigés avec Grass et Qgis
+***********************************************************************************
+
+* https://www.dunod.com/sciences-techniques/systemes-d-information-geographique-cours-et-exercices-corriges-avec-grass-et
+* Auteur : Yves Auda
+* Date: March 2018
+
 
 Learning QGIS by example in french
 **********************************
