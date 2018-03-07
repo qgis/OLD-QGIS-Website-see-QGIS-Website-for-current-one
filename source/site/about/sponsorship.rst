@@ -112,6 +112,10 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |tragewegen|
+
+       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2018)
+     - 
    * - |bronze| |chartwell|
 
        `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2019)
@@ -251,18 +255,16 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2018)
-   * - |bronze| |tragewegen|
-
-       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2018)
-     - |bronze| |ager_technology|
-
-       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2018)
    * - |bronze| |gis_supp|
 
        `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2018)
      - |bronze| |bgeo|
 
        `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2018)
+   * - |bronze| |ager_technology|
+
+       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2018)
+     - 
 
 
 .. |agresta| image:: /static/site/about/images/agresta.png
