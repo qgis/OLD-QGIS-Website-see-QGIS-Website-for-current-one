@@ -115,7 +115,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |chartwell|
 
        `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2019)
-     - 
+     - |bronze| |geoinnova|
+
+       `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2019)
    * - |bronze| |gis3w|
 
        `Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-03.2019)
@@ -249,9 +251,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2018)
-   * - |bronze| |geoinnova|
+   * - |bronze| |tragewegen|
 
-       `Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2018)
+       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2018)
      - |bronze| |ager_technology|
 
        `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2018)
@@ -261,10 +263,6 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |bgeo|
 
        `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2018)
-   * - |bronze| |tragewegen|
-
-       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2018)
-     - 
 
 
 .. |agresta| image:: /static/site/about/images/agresta.png
