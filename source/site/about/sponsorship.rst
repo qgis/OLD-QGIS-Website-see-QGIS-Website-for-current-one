@@ -112,15 +112,25 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |chartwell|
+
+       `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2019)
+     - 
+   * - |bronze| |gis3w|
+
+       `Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-03.2019)
+     - |bronze| |claasleinert|
+
+       `GKG Kassel (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2019)
    * - |bronze| |vortex_energy|
 
-       `vortex energy Deutschland GmbH <https://vortex-energy-group.com/>`_, Germany (01.2017-01.2018)
+       `vortex energy Deutschland GmbH <https://vortex-energy-group.com/>`_, Germany (01.2017-01.2019)
      - |bronze| |syddjurs|
 
-       `Syddjurs kommune <http://www.syddjurs.dk/>`_, Denmark (03.2017-03.2018)
+       `Syddjurs kommune <http://www.syddjurs.dk/>`_, Denmark (03.2017-03.2019)
    * - |bronze| |automatic_knowledge|
 
-       `Automatic Knowledge <https://automaticknowledge.co.uk/>`_, UK (03.2016-03-2018)
+       `Automatic Knowledge <https://automaticknowledge.co.uk/>`_, UK (03.2016-03-2019)
      - |bronze| |baumsicht|
 
        `Baumsicht <https://baumsicht.de/>`_, Obergünzburg, Bavaria, Germany (03.2018-03.2019)
@@ -251,25 +261,14 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |bgeo|
 
        `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2018)
-   * - |bronze| |chartwell|
-
-       `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2018)
-     - |bronze| |claasleinert|
-
-       `GKG Kassel (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germany (03.2014-03.2018)
-   * - |bronze| |gis3w|
-
-       `Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-03.2018)
-     - |bronze| |tragewegen|
+   * - |bronze| |tragewegen|
 
        `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2018)
-   * - |bronze| |SMPEPCE|
+     - 
 
-       `SMPEPCE (Syndicat Mixte de Production d’Eau Potable de la Côte d’Emeraude) <http://www.syndicat-eau-cote-emeraude.fr/>`_, France (02.2017-02.2018)
-     - |bronze| |cadageo|
 
-       `CADaGEO <http://www.cadageo.com/>`_, France (01.2017-01.2018)
-
+.. |agresta| image:: /static/site/about/images/agresta.png
+   :width: 120 px
 
 .. |baumsicht| image:: /static/site/about/images/baumsicht.png
    :width: 125 px
@@ -319,9 +318,6 @@ goes into the project. These sponsors are listed below with our thanks!
 .. |syddjurs| image:: /static/site/about/images/syddjurs.png
    :width: 120 px
 
-.. |SMPEPCE| image:: /static/site/about/images/SMPEPCE.png
-   :width: 140 px
-
 .. |CityOfCanning| image:: /static/site/about/images/CityOfCanning.png
    :width: 80 px
 
@@ -329,9 +325,6 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 130 px
 
 .. |ib_kauppert| image:: /static/site/about/images/ib_kauppert.png
-   :width: 110 px
-
-.. |cadageo| image:: /static/site/about/images/CADaGEO.png
    :width: 110 px
 
 .. |osgeo_jp| image:: /static/site/about/images/osgeo_jp.png
@@ -536,18 +529,24 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 .. list-table:: Past Bronze sponsors
 
+  * - |bronze| |SMPEPCE|
+
+      `SMPEPCE (Syndicat Mixte de Production d’Eau Potable de la Côte d’Emeraude) <http://www.syndicat-eau-cote-emeraude.fr/>`_, France (02.2017-02.2018)
+    - |bronze| |cadageo|
+
+      `CADaGEO <http://www.cadageo.com/>`_, France (01.2017-01.2018)
   * - |bronze| |ncc|
 
       `NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)
     - |bronze| |qgis-pt|
 
-       `QGIS user group Portugal <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)
+      `QGIS user group Portugal <http://www.qgis.pt/>`_, Portugal (06.2016-06.2017)
   * - |bronze| |gfi|
 
       `GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis.de/>`_, Germany (04.2015-04.2017)
     - |bronze| |gepol|
 
-       `GEPOL <http://www.gepol.com.pl/>`_, Poland (04.2016-04.2017)
+      `GEPOL <http://www.gepol.com.pl/>`_, Poland (04.2016-04.2017)
   * - |bronze| |qpolska|
 
       `QGIS user group Poland <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)
@@ -596,6 +595,12 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
     - |bronze| |kbb_underground|
 
       `KBB Underground Technologies <http://www.kbbnet.de/en/>`_, Germany (03.2014-03.2017)
+
+.. |cadageo| image:: /static/site/about/images/CADaGEO.png
+   :width: 110 px
+
+.. |SMPEPCE| image:: /static/site/about/images/SMPEPCE.png
+   :width: 140 px
 
 .. |kbb_underground| image:: /static/site/about/images/KBB_Underground_Technologies_logo.jpg
    :width: 90 px
