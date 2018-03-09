@@ -112,10 +112,16 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |ager_technology|
+
+       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2018)
+     - 
    * - |bronze| |tragewegen|
 
        `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2018)
-     - 
+     - |bronze| |bgeo|
+
+       `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2018)
    * - |bronze| |chartwell|
 
        `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2019)
