@@ -24,28 +24,19 @@
                     <header>
                         <h3>{{ _('DOCUMENTATION') }}</h3>
                     </header>
-<!--
+
                     <ul id="subnav">
                         <li>
-                            <a href="#28">{{ _('QGIS 2.8') }}</a>
+                            <a href="#218">{{ _('QGIS 2.18') }}</a>
                         </li>
                         <li>
-                            <a href="#testing">{{ _('QGIS testing') }}</a>
+                            <a href="#testing">{{ _('QGIS testing (3.x)') }}</a>
                         </li>
                         <li>
-                            <a href="#26">{{ _('QGIS 2.6') }}</a>
-                        </li>
-                        <li>
-                            <a href="#22">{{ _('QGIS 2.2') }}</a>
-                        </li>
-                        <li>
-                            <a href="#20">{{ _('QGIS 2.0') }}</a>
-                        </li>
-                        <li>
-                            <a href="#18">{{ _('QGIS 1.8') }}</a>
+                            <a href="#old">{{ _('Documentation for older versions') }}</a>
                         </li>
                     </ul>
--->
+
                 </nav>
             </div>
         </div>
@@ -86,6 +77,10 @@
         <hr>
 
         <div class="row-fluid" id="testing">
+            <div class="span4">
+                <img src='../_static/images/doctesting.png' class="text-center background-mask non-mobile-image wd" alt="docs testing icon" />
+            </div>
+            <div class="span1"></div>
             <div class="offset1 span5">
                 <h3>{{ _('QGIS testing') }}</h3>
                 <p>{{ _("We are still updating (not translating yet) the documentation for releases newer than QGIS 2.18. We call this version 'QGIS testing' and can be found here: ") }} <a href="http://docs.qgis.org/testing" target="_blank" class="reference external">{{ _('http://docs.qgis.org/testing') }}</a></p>
@@ -101,176 +96,20 @@
                 <p><a href="http://qgis.org/api/classQgisInterface.html" target="_blank" class="reference external">{{ _('Python (iface) Api documentation') }}</a></p>
             </div>
             <div class="span1"></div>
-            <div class="span4">
-                <img src='../_static/images/doctesting.png' class="text-center background-mask non-mobile-image wd" alt="docs testing icon" />
-            </div>
-            <div class="span1"></div>
         </div>
         <hr>
 
-        <div class="row-fluid" id="214">
-            <div class="span4">
-                <img src='../_static/images/doc214.png' class="text-center background-mask non-mobile-image wd" alt="docs 2.14 icon" />
-            </div>
-            <div class="span1"></div>
-            <div class="offset1 span5">
-                <h3>{{ _('QGIS 2.14') }}</h3>
-                <p>For users:
+        <div class="row-fluid" id="old">
+            <div class="offset1 span8">
+                <h3>{{ _('Archived') }}</h3>
+                <p>{{ _('Links to documentation of older version of QGIS: ') }}</p>
                     <ul>
-                        <li>{{ _('Read the') }} <a href="http://docs.qgis.org/2.14/{{language}}/docs/user_manual" target="_blank" >{{ _('QGIS User guide') }}</a> (<a href="http://docs.qgis.org/2.14/pdf/{{language}}/QGIS-2.14-UserGuide-{{language}}.pdf">{{ _('or as PDF') }}</a>)</li>
-                        <li>{{ _('Follow the tutorials in the') }} <a href="http://docs.qgis.org/2.14/{{language}}/docs/training_manual/"  target="_blank">{{ _('QGIS Training manual') }}</a> (<a href="http://docs.qgis.org/2.14/pdf/{{language}}/QGIS-2.14-QGISTrainingManual-{{language}}.pdf">{{ _('or as PDF') }}</a>)</li>
-                        <li>{{ _('Learn GIS basics in') }} <a href="http://docs.qgis.org/2.14/{{language}}/docs/gentle_gis_introduction"  target="_blank">{{ _('A gentle introduction in GIS') }}</a></li>
+                        <li><a href="http://docs.qgis.org/2.14/{{language}}" target="_blank" >{{ _('QGIS 2.14 Documentation') }}</a></li>
+                        <li><a href="http://docs.qgis.org/2.8/{{language}}" target="_blank" >{{ _('QGIS 2.8 Documentation') }}</a></li>
                     </ul>
                 </p>
-                <p>For documentation writers:
-                    <ul>
-                        <li>{{ _('Learn how to write docs using the') }} <a href="http://docs.qgis.org/2.14/{{language}}/docs/documentation_guidelines" target="_blank" >{{ _('Documentation Guidelines') }}</a></li>
-                    </ul>
-                </p>
-                <p>For developers:
-                    <ul>
-                        <li>{{ _('Go Python, study the') }} <a href="http://docs.qgis.org/2.14/{{language}}/docs/pyqgis_developer_cookbook/"  target="_blank">{{ _('PyQGIS cookbook (for plugins and scripting)') }}</a> (<a href="http://docs.qgis.org/2.14/pdf/{{language}}/QGIS-2.14-PyQGISDeveloperCookbook-{{language}}.pdf">{{ _('or as PDF') }}</a>) </li>
-                        <li><a href="http://qgis.org/api/2.14/classQgisInterface.html" target="_blank" class="reference external">{{ _('Python (iface) Api documentation') }}</a></li>
-                        <li> <a href="http://qgis.org/api/2.14/" target="_blank" class="reference external">{{ _('C++ Api documentation') }}</a></li>
-                    </ul>
-                </p>
-            </div>
-            <div class="span1"></div>
-        </div>
-        <hr/>
 
-        <div class="row-fluid" id="28">
-            <div class="span4">
-                <img src='../_static/images/doc28.png' class="text-center background-mask non-mobile-image wd" alt="docs 2.8 icon" />
             </div>
-            <div class="span1"></div>
-            <div class="offset1 span5">
-                <h3>{{ _('QGIS 2.8') }}</h3>
-                <p>For users:
-                    <ul>
-                        <li>{{ _('Read the') }} <a href="http://docs.qgis.org/2.8/{{language}}/docs/" target="_blank" >{{ _('QGIS User guide') }}</a> (<a href="http://docs.qgis.org/2.8/pdf/{{language}}/QGIS-2.8-UserGuide-{{language}}.pdf">{{ _('or as PDF') }}</a>)</li>
-                        <li>{{ _('Follow the tutorials in the') }} <a href="http://docs.qgis.org/2.8/{{language}}/docs/"  target="_blank">{{ _('QGIS Training manual') }}</a> (<a href="http://docs.qgis.org/2.8/pdf/{{language}}/QGIS-2.8-QGISTrainingManual-{{language}}.pdf">{{ _('or as PDF') }}</a>)</li>
-                        <li>{{ _('Learn GIS basics in') }} <a href="http://docs.qgis.org/2.8/{{language}}/docs/"  target="_blank">{{ _('A gentle introduction in GIS') }}</a></li>
-                    </ul>
-                </p>
-                <p>For documentation writers:
-                    <ul>
-                        <li>{{ _('Learn how to write docs using the') }} <a href="http://docs.qgis.org/2.8/{{language}}/docs/" target="_blank" >{{ _('Documentation Guidelines') }}</a></li>
-                    </ul>
-                </p>
-                <p>For developers:
-                    <ul>
-                        <li>{{ _('Go Python, study the') }} <a href="http://docs.qgis.org/2.8/{{language}}/docs/"  target="_blank">{{ _('PyQGIS cookbook (for plugins and scripting)') }}</a> (<a href="http://docs.qgis.org/2.8/pdf/{{language}}/QGIS-2.8-PyQGISDeveloperCookbook-{{language}}.pdf">{{ _('or as PDF') }}</a>) </li>
-                        <li><a href="http://qgis.org/api/2.8/classQgisInterface.html" target="_blank" class="reference external">{{ _('Python (iface) Api documentation') }}</a></li>
-                        <li> <a href="http://qgis.org/api/2.8/" target="_blank" class="reference external">{{ _('C++ Api documentation') }}</a></li>
-                    </ul>
-                </p>
-            </div>
-            <div class="span1"></div>
-        </div>
-        <hr/>
-
-        <div class="row-fluid" id="26">
-            <div class="span4">
-                <img src='../_static/images/doc26.png' class="text-center background-mask non-mobile-image wd" alt="docs 2.6 icon" />
-            </div>
-            <div class="span1"></div>
-            <div class="offset1 span5">
-                <h3>{{ _('QGIS 2.6') }}</h3>
-                <p>For users:
-                    <ul>
-                        <li>{{ _('Read the') }} <a href="http://docs.qgis.org/2.6/{{language}}/docs/" target="_blank" >{{ _('QGIS User guide') }}</a> (<a href="http://docs.qgis.org/2.6/pdf/{{language}}/QGIS-2.6-UserGuide-{{language}}.pdf">{{ _('or as PDF') }}</a>)</li>
-                        <li>{{ _('Follow the tutorials in the') }} <a href="http://docs.qgis.org/2.6/{{language}}/docs/"  target="_blank">{{ _('QGIS Training manual') }}</a> (<a href="http://docs.qgis.org/2.6/pdf/{{language}}/QGIS-2.6-QGISTrainingManual-{{language}}.pdf">{{ _('or as PDF') }}</a>)</li>
-                        <li>{{ _('Learn GIS basics in') }} <a href="http://docs.qgis.org/2.6/{{language}}/docs/"  target="_blank">{{ _('A gentle introduction in GIS') }}</a></li>
-                    </ul>
-                </p>
-                <p>For documentation writers:
-                    <ul>
-                        <li>{{ _('Learn how to write docs using the') }} <a href="http://docs.qgis.org/2.6/{{language}}/docs/" target="_blank" >{{ _('Documentation Guidelines') }}</a></li>
-                    </ul>
-                </p>
-                <p>For developers:
-                    <ul>
-                        <li>{{ _('Go Python, study the') }} <a href="http://docs.qgis.org/2.6/{{language}}/docs/"  target="_blank">{{ _('PyQGIS cookbook (for plugins and scripting)') }}</a> (<a href="http://docs.qgis.org/2.2/pdf/{{language}}/QGIS-2.2-PyQGISDeveloperCookbook-{{language}}.pdf">{{ _('or as PDF') }}</a>) </li>
-                        <li><a href="http://qgis.org/api/2.6/classQgisInterface.html" target="_blank" class="reference external">{{ _('Python (iface) Api documentation') }}</a></li>
-                        <li> <a href="http://qgis.org/api/2.6/" target="_blank" class="reference external">{{ _('C++ Api documentation') }}</a></li>
-                    </ul>
-                </p>
-            </div>
-            <div class="span1"></div>
-        </div>
-        <hr/>
-
-        <div class="row-fluid" id="22">
-            <div class="span4">
-                <img src='../_static/images/doc22.png' class="text-center background-mask non-mobile-image wd" alt="docs 2.2 icon" />
-            </div>
-            <div class="span1"></div>
-            <div class="offset1 span5">
-                <h3>{{ _('QGIS 2.2') }}</h3>
-                <p>For users:
-                    <ul>
-                        <li>{{ _('Read the') }} <a href="http://docs.qgis.org/2.2/{{language}}/docs/" target="_blank" >{{ _('QGIS User guide') }}</a> (<a href="http://docs.qgis.org/2.2/pdf/{{language}}/QGIS-2.2-UserGuide-{{language}}.pdf">{{ _('or as PDF') }}</a>)</li>
-                        <li>{{ _('Follow the tutorials in the') }} <a href="http://docs.qgis.org/2.2/{{language}}/docs/"  target="_blank">{{ _('QGIS Training manual') }}</a> (<a href="http://docs.qgis.org/2.2/pdf/{{language}}/QGIS-2.2-QGISTrainingManual-{{language}}.pdf">{{ _('or as PDF') }}</a>)</li>
-                        <li>{{ _('Learn GIS basics in') }} <a href="http://docs.qgis.org/2.2/{{language}}/docs/"  target="_blank">{{ _('A gentle introduction in GIS') }}</a></li>
-                    </ul>
-                </p>
-                <p>For documentation writers:
-                    <ul>
-                        <li>{{ _('Learn how to write docs using the') }} <a href="http://docs.qgis.org/2.2/{{language}}/docs/" target="_blank" >{{ _('Documentation Guidelines') }}</a></li>
-                    </ul>
-                </p>
-                <p>For developers:
-                    <ul>
-                        <li>{{ _('Go Python, study the') }} <a href="http://docs.qgis.org/2.2/{{language}}/docs/"  target="_blank">{{ _('PyQGIS cookbook (for plugins and scripting)') }}</a> (<a href="http://docs.qgis.org/2.2/pdf/{{language}}/QGIS-2.2-PyQGISDeveloperCookbook-{{language}}.pdf">{{ _('or as PDF') }}</a>) </li>
-                        <li><a href="http://qgis.org/api/2.2/classQgisInterface.html" target="_blank" class="reference external">{{ _('Python (iface) Api documentation') }}</a></li>
-                        <li> <a href="http://qgis.org/api/2.2/" target="_blank" class="reference external">{{ _('C++ Api documentation') }}</a></li>
-                    </ul>
-                </p>
-            </div>
-            <div class="span1"></div>
-        </div>
-        <hr/>
-
-        <div class="row-fluid" id="20">
-            <div class="offset1 span5">
-                <h3>{{ _('QGIS 2.0') }}</h3>
-                <p>{{ _('We keep a copy of the documentation of QGIS 2.0 around here:') }} <a href="http://docs.qgis.org/2.0" target="_blank" class="reference external">{{ _('http://docs.qgis.org/2.0') }}</a></p>
-                <p>{{ _('Read the') }} <a href="http://docs.qgis.org/2.0/{{language}}/docs/" >{{ _('QGIS User guide/Manual') }}</a></p>
-                <p>{{ _('Do the QGIS training:') }} <a href="http://docs.qgis.org/2.0/{{language}}/docs/" >{{ _('QGIS Training manual') }}</a></p>
-                <p>{{ _('Go Python, study the') }} <a href="http://docs.qgis.org/2.0/{{language}}/docs/" >{{ _('PyQGIS cookbook (for plugins and scripting)') }}</a></p>
-                <p>{{ _('Learn how to write docs in') }} <a href="http://docs.qgis.org/2.0/{{language}}/docs/" >{{ _('Documentation Guidelines') }}</a></p>
-                <p>{{ _('Intro GIS in') }} <a href="http://docs.qgis.org/2.0/{{language}}/docs/" >{{ _('A gentle introduction in GIS') }}</a></p>
-                <p>{{ _('PDF versions of all above, eg for printing are available here:') }} <a href="http://docs.qgis.org/2.0/pdf" target="_blank" class="reference external">{{ _('http://docs.qgis.org/2.0/pdf') }}</a></p>
-                <p><a href="http://qgis.org/api/2.0/" target="_blank" class="reference external">{{ _('C++ Api documentation') }}</a></p>
-                <p><a href="http://qgis.org/api/2.0/classQgisInterface.html" target="_blank" class="reference external">{{ _('Python (iface) Api documentation') }}</a></p>
-            </div>
-            <div class="span1"></div>
-            <div class="span4">
-                <img src='../_static/images/doc20.png' class="text-center background-mask non-mobile-image wd" alt="docs 2.0 icon" />
-            </div>
-            <div class="span1"></div>
-        </div>
-        <hr/>
-
-        <div class="row-fluid" id="18">
-            <div class="offset1 span4">
-                <img src='../_static/images/doc18.png' class="text-center background-mask non-mobile-image wd" alt="docs 1.8 icon" />
-            </div>
-            <div class="span1"></div>
-            <div class="span5">
-                <h3>{{ _('QGIS 1.8') }}</h3>
-                <p>{{ _('We keep a copy of the documentation of QGIS 1.8 around here:') }} <a href="http://docs.qgis.org/1.8" target="_blank" class="reference external">{{ _('http://docs.qgis.org/1.8') }}</a></p>
-                <p><a href="http://docs.qgis.org/1.8/{{language}}/docs/" target="_blank" class="reference external">{{ _('User guide/Manual') }}</a></p>
-                <p><a href="http://docs.qgis.org/1.8/{{language}}/docs/" target="_blank" class="reference external">{{ _('PyQGIS cookbook') }}</a></p>
-                <p><a href="http://docs.qgis.org/1.8/{{language}}/docs/" target="_blank" class="reference external">{{ _('Documentation Guidelines (how to write the docs)') }}</a></p>
-                <p><a href="http://docs.qgis.org/1.8/{{language}}/docs/" target="_blank" class="reference external">{{ _('A gentle introduction in GIS') }}</a></p>
-                <p>{{ _('PDF versions of all above, eg for printing are available here: ') }} <a href="http://docs.qgis.org/1.8/pdf" target="_blank" class="reference external">{{ _('http://docs.qgis.org/1.8/pdf') }}</a></p>
-                <!-- <h4 class="subsection-link"> <a href="{{ pathto('site/getinvolved/translate') }}">{{ _('Translate QGIS into your Language') }}</a> </h4>-->
-                <p><a href="http://qgis.org/api/1.8/" target="_blank" class="reference external">{{ _('C++ Api documentation') }}</a></p>
-                <p><a href="http://qgis.org/api/1.8/classQgisInterface.html" target="_blank" class="reference external">{{ _('Python (iface) Api documentation') }}</a></p>
-            </div>
-            <div class="span1"></div>
         </div>
         <hr/>
 
