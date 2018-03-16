@@ -52,6 +52,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |silver| |AeroAsahi|
        `AERO ASAHI CORPORATION <https://www.aeroasahi.co.jp/english/>`_, Japan (04.2017-04.2019)
 
+   * - |silver| |osgeo_uk|
+       `OSGEO:UK <http://www.osgeo.org/uk/>`_, UK (3.2018-3.2019; 12.2016-12.2017)
+
    * - |silver| |vanoord|
        `Van Oord Dredging and Marine Contractors bv <https://www.vanoord.com//>`_, Rotterdam, The Netherlands (3.2018-3.2019)
 
@@ -115,7 +118,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |ager_technology|
 
        `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2018)
-     - 
+     - |bronze| |gis_supp|
+
+       `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2018)
    * - |bronze| |tragewegen|
 
        `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2018)
@@ -261,16 +266,6 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2018)
-   * - |bronze| |gis_supp|
-
-       `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2018)
-     - |bronze| |bgeo|
-
-       `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2018)
-   * - |bronze| |ager_technology|
-
-       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2018)
-     - 
 
 
 .. |agresta| image:: /static/site/about/images/agresta.png
@@ -507,9 +502,6 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
    :width: 160 px
 
 .. list-table:: Past silver sponsors
-
-  * - |silver| |osgeo_uk|
-      `OSGEO:UK <http://www.osgeo.org/uk/>`_, UK (12.2016-12.2017)
 
   * - |silver| |agh|
       `AGH University of Science and Technology <http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)
