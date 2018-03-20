@@ -96,7 +96,7 @@ goes into the project. These sponsors are listed below with our thanks!
    :width: 160 px
 
 .. |osgeo_uk| image:: /static/site/about/images/osgeo_uk.png
-   :width: 175 px
+   :width: 190 px
 
 .. |qgis-de| image:: /static/site/about/images/qgis-de-logo.png
    :width: 120 px
