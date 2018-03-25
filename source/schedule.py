@@ -4,7 +4,7 @@ from datetime import date
 version = '3.0'
 release = '3.0.1'
 codename = u'Girona'
-binary = '3'
+binary = '1'
 releasedate = date(2018, 3, 23)
 releasenote = '​'
 
