@@ -115,6 +115,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |qgis-br|
+
+       `QGIS user group Brazil, Inc. <http://qgisbrasil.org/>`_, Brazil (04.2017-04.2018)
+     - |bronze| |QTibia|
+
+       `QTibia Engineering <https://qtibia.ro/>`_, Romania (04.2017-04.2018)
    * - |bronze| |ager_technology|
 
        `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2018)
@@ -248,24 +254,16 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |InfraplanEngineering|
 
        `Infraplan Engineering Services Pvt. Ltd. <http://www.infraplan.in/>`_, India (05.2017-05.2022)
-   * - |bronze| |qgis-br|
+   * - |bronze| |fornat_ag|
 
-       `QGIS user group Brazil, Inc. <http://qgisbrasil.org/>`_, Brazil (04.2017-04.2018)
+       `FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2016-05.2018)
      - |bronze| |qgis-se|
 
        `QGIS user group Sweden <http://qgis.se/>`_, Sweden (05.2017-05.2018)
-   * - |bronze| |QTibia|
-
-       `QTibia Engineering <https://qtibia.ro/>`_, Romania (04.2017-04.2018)
-     - |bronze| |fornat_ag|
-
-       `FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2016-05.2018)
-   * - |bronze| |national_parks_uk|
-
-       `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2018)
-     - |bronze| |windsor|
+   * - |bronze| |windsor|
 
        `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2018)
+     -
 
 
 .. |agresta| image:: /static/site/about/images/agresta.png
@@ -378,9 +376,6 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. |teaching_jobs_with_footprints| image:: /static/site/about/images/teaching_jobs_with_footprints.png
    :width: 100 px
-
-.. |national_parks_uk| image:: /static/site/about/images/NationalParksUK_logo.jpg
-   :width: 90 px
 
 .. |ager_technology| image:: /static/site/about/images/ager_technology_logo.png
    :width: 90 px
@@ -527,6 +522,10 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 .. list-table:: Past Bronze sponsors
 
+  * - |bronze| |national_parks_uk|
+
+      `National Parks UK <http://www.nationalparks.gov.uk/>`_, United Kingdom (03.2016-03-2018)
+    - 
   * - |bronze| |SMPEPCE|
 
       `SMPEPCE (Syndicat Mixte de Production d’Eau Potable de la Côte d’Emeraude) <http://www.syndicat-eau-cote-emeraude.fr/>`_, France (02.2017-02.2018)
@@ -593,6 +592,9 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
     - |bronze| |kbb_underground|
 
       `KBB Underground Technologies <http://www.kbbnet.de/en/>`_, Germany (03.2014-03.2017)
+
+.. |national_parks_uk| image:: /static/site/about/images/NationalParksUK_logo.jpg
+   :width: 90 px
 
 .. |cadageo| image:: /static/site/about/images/CADaGEO.png
    :width: 110 px
