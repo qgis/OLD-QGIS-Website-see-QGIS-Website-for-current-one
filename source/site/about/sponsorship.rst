@@ -49,6 +49,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Silver sponsors
 
+   * - |silver| |WIGeoGIS|
+       `WIGeoGIS <https://www.wigeogis.com/>`_, Austria (04.2017-04.2019)
+
    * - |silver| |AeroAsahi|
        `AERO ASAHI CORPORATION <https://www.aeroasahi.co.jp/english/>`_, Japan (04.2017-04.2019)
 
@@ -75,9 +78,6 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |silver| |opw|
        `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland (12.2014-07.2018)
-
-   * - |silver| |WIGeoGIS|
-       `WIGeoGIS <https://www.wigeogis.com/>`_, Austria (04.2017-04.2018)
 
 
 .. |vanoord| image:: /static/site/about/images/vanoord.png
