@@ -101,7 +101,3 @@ Even if you don’t use QGIS as part of the entity’s name, if the entity has a
 **Q:** *Trademark Registration Consent: My organization has applied to register a trademark for software-related goods or services that includes QGIS as an element. The application was rejected for confusing similarity to QGIS trademark. If I enter into a permission, will QGIS consent to my registration?*
 
 **A:** No. The QGIS permission is not a consent for the registration of other trademarks. To protect the QGIS mark from dilution, we do not consent to the registration of trademarks found to be confusingly similar to the QGIS mark.
-
-**Q:** *Domain Name Registration Consent: My organization has applied to register an internet domain name which includes the element QGIS. If we enter into a permission, will QGIS consent to our registration?*
-
-**A:** QGIS and the QGIS permission have no control over the registration of domain names, which are distinct from trademarks (see related FAQs above). QGIS does not oppose the registration of domain names. You do not need a permission to use a domain name which includes QGIS, unless you use your QGIS domain name as a trademark.
