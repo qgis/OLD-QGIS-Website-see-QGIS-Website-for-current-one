@@ -12,8 +12,8 @@ The QGIS project is managed by the Board (Project Steering Committee; PSC)
 which consists of 7 members (with their individual responsibilities listed in
 brackets):
 
-* Tim Sutton (Chair; Testing/QA Manager)
-* Paolo Cavallini (Co-Chair; Manager of Plugin Repository) [since January 2008]
+* Paolo Cavallini (Chair; Manager of Plugin Repository) [Chair since 4.2018; Co-Chair 1.2008 - 3.2018]
+* Marco Bernasocchi (Co-Chair) [Chair since 4.2018] 
 * Andreas Neumann (Treasurer; Contact for Sponsorships) [since November 2015]
 * Anita Graser (Design Advisor) [since September 2013]
 * Richard Duivenvoorde (Infrastructure Manager) [since September 2013]
@@ -22,7 +22,8 @@ brackets):
 
 Former members are:
 
-* Marco Hugentobler (until 2016)
+* Tim Sutton (Chair; Testing/QA Manager) (until 2018)
+* Marco Hugentobler [until 2016]
 * Otto Dassau (Community Advisor) [2007 - 2016]
 
 Read more about the responsibilities of the PSC :ref:`here <psc>`
