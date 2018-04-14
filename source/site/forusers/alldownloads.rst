@@ -194,7 +194,9 @@ Supported distribution versions:
 |               +-------------+--------------+-----------------------+-------+
 |               | 9.x         | stretch      |                       |       |
 |               +-------------+--------------+-----------------------+-------+
-|               | sid         | unstable     |                       | yes   |
+|               | 10.x        | buster       |                       |       |
+|               +-------------+--------------+-----------------------+-------+
+|               | sid         | unstable     |                       |       |
 +---------------+-------------+--------------+-----------------------+-------+
 | Ubuntu        | 18.04       | bionic       |                       | yes   |
 |               +-------------+--------------+-----------------------+-------+
@@ -207,7 +209,7 @@ Supported distribution versions:
 
 .. [4] only up to 2.18 LTR
 .. [5] 3.0 and above only available with ubuntugis (plain xenial lacks GDAL2)
-.. [6] only with Qt >= 5.9
+.. [6] only with Qt >= 5.9 including Qt 3DExtras (the latter is currently not included in Debian)
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
 
