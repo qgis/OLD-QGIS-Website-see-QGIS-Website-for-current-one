@@ -382,23 +382,22 @@ Information about available versions, bugs and archlinux specific
 instructions can be found at: https://aur.archlinux.org/packages/?O=0&K=qgis
 
 
-MacOS X
-=======
+Mac OS X / macOS
+================
 
-A single installer package is available for Mountain Lion (10.7) and newer.
+Installation instructions are in the ReadMe on the disk image.
+
+QGIS current
+------------
+
+The current QGIS package uses the `python.org Python 3.6 <http://www.python.org/">`_ - other distributions are not supported. Install packages in the numbered order.  Especially note that Python must be installed before the GDAL Complete package, else the GDAL Python modules will not be installed and some GDAL tools will not function.
 
 QGIS stable
 -----------
 
-Installing QGIS stable on MacOS requires separate installation of several
-`dependency frameworks <http://www.kyngchaos.com/software/frameworks>`_
-(GDAL Complete and GSL).
-GRASS http://www.kyngchaos.com/software/grass is supported with this version.
-Some common Python modules http://www.kyngchaos.com/software/python are also
-available for common QGIS plugin requirements.
+The stable package uses the system Python 2.7 - other distributions are not supported. It also requires the NumPy and Matplotlib packages on the disk image. Install packages in the numbered order. If an older major version is being upgraded (2.16 or older), delete QGIS.app from your Applications folder before installing this version.
 
-QGIS download page on KyngChaos http://www.kyngchaos.com/software/qgis
-(framework requirements listed there) has more information.
+Other Python modules for plugins to use are available from `kyngchaos.com <http://www.kyngchaos.com/software/python>`_.
 
 .. _QGIS-macos-testing:
 

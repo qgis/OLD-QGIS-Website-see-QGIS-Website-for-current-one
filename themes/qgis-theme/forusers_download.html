@@ -130,13 +130,26 @@
                   </div>
                   <div id="mac" class="accordion-body collapse in">
                     <div class="accordion-inner">
-                      <p>{{ _('Mac Installer Package for both OS X Mavericks (10.9), Mountain Lion (10.8) and Lion (10.7).') }}</p>
-                      <p>{{ _('This version requires') }} <strong> {{ _('separate installation of dependency framework (GDAL Complete)') }} </strong>{{ _(', also found at the download link below.') }}</p>
-
-                      <p class="download-text">
-                        <i class="icon-download-alt icon-large"></i> &nbsp; &nbsp;
-                        <a href="http://www.kyngchaos.com/software/qgis" class="reference external">{{ _('KyngChaos QGIS download page') }}</a>
-                      </p>
+                      <h6>{{ _('Latest release (richest on features):') }}</h6>
+                      <p>{{ _('Mac Installer Package for macOS Yosemite (10.10) and newer.') }}</p>
+                      <p>{{ _('Installation instructions are in the Read Me on the disk image. This package uses the <a href="http://www.python.org/">python.org Python 3.6</a> - other distributions are not supported. Install packages in the numbered order.') }}</p>
+                      <a href="http://qgis.org/downloads/macOS/QGIS-macOS-{{ release|e }}-1.dmg" class="reference external">
+                        <ul class="inline download-row">
+                          <li><i class="icon-download-alt icon-large"></i></li>
+                          <li class="qgis-download"></li>
+                          <li class="download-text">{{ _('QGIS macOS Installer Version %s')|format( version ) }}</li>
+                        </ul>
+                      </a>
+                      <h6>{{ _('Long term release (most stable):') }}</h6>
+                      <p>{{ _('Mac Installer Package for OS X Mountain Lion (10.8) and newer.') }}</p>
+                      <p>{{ _('Installation instructions are in the Read Me on the disk image. This package uses the system Python 2.7 - other distributions are not supported. It also requires the NumPy and Matplotlib packages on the disk image. Install packages in the numbered order. If an older major version is being upgraded (2.16 or older), delete QGIS.app from your Applications folder before installing this version.') }}</p>
+                      <a href="http://qgis.org/downloads/macOS/QGIS-macOS-{{ ltrrelease|e }}-1.dmg" class="reference external">
+                        <ul class="inline download-row">
+                          <li><i class="icon-download-alt icon-large"></i></li>
+                          <li class="qgis-download"></li>
+                          <li class="download-text">{{ _('QGIS OS X Installer Version %s')|format( version ) }}</li>
+                        </ul>
+                      </a>
                     </div>
                   </div>
                 </div>
@@ -204,7 +217,7 @@
 
           <!-- Tab 2 -->
           <div class="tab-pane" id="tab2">
-              <p>{{ _('Older releases of QGIS are available') }} <a href="http://download.osgeo.org/qgis/windows/" class="reference external">{{ _('here') }}</a>.</p>
+              <p>{{ _('Older releases of QGIS are available') }} <a href="http://download.osgeo.org/qgis/" class="reference external">{{ _('here') }}</a>. {{ _('More older releases for OS X are available') }} <a href="http://www.kyngchaos.com/software/archive/" class="reference external">{{ _('here') }}</a>.</p>
               <p>{{ _('Plugins for QGIS are also available ') }}<a href="http://plugins.qgis.org/plugins/" class="reference external">{{ _('here') }}</a>.</p>
           </div>
 
