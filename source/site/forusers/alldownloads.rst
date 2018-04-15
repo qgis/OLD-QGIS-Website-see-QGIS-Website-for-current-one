@@ -171,7 +171,7 @@ Lines of packages:
 |                       |                                | release with           |                                                |
 |                       |                                | ubuntugis dependencies |                                                |
 +-----------------------+--------------------------------+------------------------+------------------------------------------------+
-| Development Version   | 2.99.x master                  | Nightly build for      | https://qgis.org/debian-nightly                |
+| Development Version   | |devversion| master            | Nightly build for      | https://qgis.org/debian-nightly                |
 |                       |                                | **Debian and Ubuntu**  |                                                |
 |                       |                                +------------------------+------------------------------------------------+
 |                       |                                | Nightly build with     | https://qgis.org/ubuntugis-nightly             |
