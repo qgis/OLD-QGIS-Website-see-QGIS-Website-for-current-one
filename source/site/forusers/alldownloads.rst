@@ -390,7 +390,7 @@ Installation instructions are in the ReadMe on the disk image.
 QGIS current
 ------------
 
-The current QGIS package uses the `python.org Python 3.6 <http://www.python.org/">`_ - other distributions are not supported. Install packages in the numbered order.  Especially note that Python must be installed before the GDAL Complete package, else the GDAL Python modules will not be installed and some GDAL tools will not function.
+The current QGIS package uses the `python.org Python 3.6 <http://www.python.org/>`_ - other distributions are not supported. Install packages in the numbered order.  Especially note that Python must be installed before the GDAL Complete package, else the GDAL Python modules will not be installed and some GDAL tools will not function.
 
 QGIS stable
 -----------
