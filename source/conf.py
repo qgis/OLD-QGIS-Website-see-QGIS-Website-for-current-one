@@ -314,6 +314,10 @@ def setup(app):
     app.add_config_value('binary', None, 'env')
     app.add_config_value('ltrbinary', None, 'env')
     app.add_config_value('infeaturefreeze', None, 'env')
+    app.add_config_value('release_mac', None, 'env')
+    app.add_config_value('binary_mac', None, 'env')
+    app.add_config_value('ltrrelease_mac', None, 'env')
+    app.add_config_value('ltrbinary_mac', None, 'env')
 
 
 context = {
@@ -331,7 +335,11 @@ context = {
     'nextpointreleasedate': nextpointreleasedate,
     'binary': binary,
     'ltrbinary': ltrbinary,
-    'infeaturefreeze': infeaturefreeze
+    'infeaturefreeze': infeaturefreeze,
+    'release_mac': '3.0.1',
+    'binary_mac': '1',
+    'ltrrelease_mac': '2.18.18',
+    'ltrbinary_mac': '1'
 }
 
 rst_epilog += "\n".join(map(lambda x: ".. |%s| replace:: %s" % (x, context[x]), context.keys()))
