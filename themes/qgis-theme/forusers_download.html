@@ -133,7 +133,7 @@
                       <h6>{{ _('Latest release (richest on features):') }}</h6>
                       <p>{{ _('Mac Installer Package for macOS Yosemite (10.10) and newer.') }}</p>
                       <p>{{ _('Installation instructions are in the Read Me on the disk image. This package uses the <a href="http://www.python.org/" class="reference external">python.org Python 3.6</a> - other distributions are not supported. Install packages in the numbered order.') }}</p>
-                      <a href="http://qgis.org/downloads/macOS/QGIS-macOS-{{ release|e }}-1.dmg" class="reference external">
+                      <a href="http://qgis.org/downloads/macOS/QGIS-macOS-{{ release_mac|e }}-{{ binary_mac|e }}.dmg" class="reference external">
                         <ul class="inline download-row">
                           <li><i class="icon-download-alt icon-large"></i></li>
                           <li class="qgis-download"></li>
@@ -143,7 +143,7 @@
                       <h6>{{ _('Long term release (most stable):') }}</h6>
                       <p>{{ _('Mac Installer Package for OS X Mountain Lion (10.8) and newer.') }}</p>
                       <p>{{ _('Installation instructions are in the Read Me on the disk image. This package uses the system Python 2.7 - other distributions are not supported. It also requires the NumPy and Matplotlib packages on the disk image. Install packages in the numbered order. If an older major version is being upgraded (2.16 or older), delete QGIS.app from your Applications folder before installing this version.') }}</p>
-                      <a href="http://qgis.org/downloads/macOS/QGIS-OSX-{{ ltrrelease|e }}-1.dmg" class="reference external">
+                      <a href="http://qgis.org/downloads/macOS/QGIS-OSX-{{ ltrrelease_mac|e }}-{{ ltrbinary_mac|e }}.dmg" class="reference external">
                         <ul class="inline download-row">
                           <li><i class="icon-download-alt icon-large"></i></li>
                           <li class="qgis2-download"></li>
