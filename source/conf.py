@@ -336,9 +336,9 @@ context = {
     'binary': binary,
     'ltrbinary': ltrbinary,
     'infeaturefreeze': infeaturefreeze,
-    'release_mac': '3.0.1',
+    'release_mac': '3.0.2',
     'binary_mac': '1',
-    'ltrrelease_mac': '2.18.18',
+    'ltrrelease_mac': '2.18.19',
     'ltrbinary_mac': '1'
 }
 
