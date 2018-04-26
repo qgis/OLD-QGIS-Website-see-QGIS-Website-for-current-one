@@ -3098,7 +3098,6 @@
      - Rene Griebsch
    * - Rene Sanchez
      - René Tanner
-     - Res.Gea Srl
      - Reto Bieli
    * - Rhona Sampson
      - Ricard Peret Vendrell
