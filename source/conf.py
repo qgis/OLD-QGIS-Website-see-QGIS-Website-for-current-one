@@ -337,9 +337,9 @@ context = {
     'ltrbinary': ltrbinary,
     'infeaturefreeze': infeaturefreeze,
     'release_mac': '3.0.2',
-    'binary_mac': '1',
+    'binary_mac': '2',
     'ltrrelease_mac': '2.18.19',
-    'ltrbinary_mac': '1'
+    'ltrbinary_mac': '2'
 }
 
 rst_epilog += "\n".join(map(lambda x: ".. |%s| replace:: %s" % (x, context[x]), context.keys()))
