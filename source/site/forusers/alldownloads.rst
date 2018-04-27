@@ -320,12 +320,11 @@ QGIS stable
 ...........
 
 Latest stable openSUSE package called qgis is available for 13.1, 13.2, 
-Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). Add the following 
-repository to your installation manager together with the openSUSE 
-VERSION you work with (e.g. openSUSE_13.2).
+Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit).  Add the following 
+repository to your installation manager, where <VERSION> is for example 'openSUSE_Tumbleweed'.
 ::
 
- http://download.opensuse.org/repositories/Application:/Geo/<VERSION>/
+ https://download.opensuse.org/repositories/Application:/Geo/<VERSION>/
 
 All packages include GRASS and Python support.
 
@@ -334,11 +333,10 @@ QGIS LTR (Long Term Release)
 
 Long Term Release package for openSUSE called qgis-ltr is available for 13.1, 
 13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). Add the following 
-repository to your installation manager together with the openSUSE VERSION 
-you work with (e.g. openSUSE_13.2).
+repository to your installation manager, where <VERSION> is for example 'openSUSE_Tumbleweed'.
 ::
 
- http://download.opensuse.org/repositories/Application:/Geo/<VERSION>/
+ https://download.opensuse.org/repositories/Application:/Geo/<VERSION>/
 
 All packages include GRASS and Python support.
 
@@ -347,11 +345,11 @@ QGIS testing
 
 A regularly updated development package from qgis master called qgis-master
 is available for 13.1, 13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). 
-Add the following repository to your installation manager together with the 
-openSUSE VERSION you work with (e.g. openSUSE_13.2).
+Add the following repository to your installation manager, 
+where <VERSION> is for example 'openSUSE_Tumbleweed'.
 ::
 
-  http://download.opensuse.org/repositories/Application:/Geo/<VERSION>/
+  https://download.opensuse.org/repositories/Application:/Geo/<VERSION>/
 
 All packages include GRASS and Python support.
 
