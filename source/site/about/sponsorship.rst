@@ -117,26 +117,26 @@ goes into the project. These sponsors are listed below with our thanks!
 
    * - |bronze| |qgis-br|
 
-       `QGIS user group Brazil, Inc. <http://qgisbrasil.org/>`_, Brazil (04.2017-04.2018)
+       `QGIS user group Brazil, Inc. <http://qgisbrasil.org/>`_, Brazil (04.2017-04.2019)
      - 
    * - |bronze| |agresta|
 
        `Agresta S. Coop. <http://agresta.org/>`_, Spain (03.2018-03.2019)
      - |bronze| |QTibia|
 
-       `QTibia Engineering <https://qtibia.ro/>`_, Romania (04.2017-04.2018)
+       `QTibia Engineering <https://qtibia.ro/>`_, Romania (04.2017-04.2019)
    * - |bronze| |ager_technology|
 
-       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2018)
+       `Ager Technology <http://www.agertechnology.com/>`_, Spain (03.2014-03.2019)
      - |bronze| |gis_supp|
 
-       `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2018)
+       `GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2019)
    * - |bronze| |tragewegen|
 
-       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2018)
+       `Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2019)
      - |bronze| |bgeo|
 
-       `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2018)
+       `BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2019)
    * - |bronze| |chartwell|
 
        `Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, Canada (03.2015-03.2019)
