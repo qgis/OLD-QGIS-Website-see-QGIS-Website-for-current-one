@@ -120,7 +120,7 @@ goes into the project. These sponsors are listed below with our thanks!
        `QGIS user group Brazil, Inc. <http://qgisbrasil.org/>`_, Brazil (04.2017-04.2019)
      - |bronze| |musqueam|
 
-       `Xʷməθkʷəy̓əm - Musqueam Indian Band <http://www.musqueam.bc.ca/>`_, Biritish Columbia, Canada (03.2018-03.2019)
+       `Xʷməθkʷəy̓əm - Musqueam Indian Band <http://www.musqueam.bc.ca/>`_, British Columbia, Canada (03.2018-03.2019)
    * - |bronze| |agresta|
 
        `Agresta S. Coop. <http://agresta.org/>`_, Spain (03.2018-03.2019)
