@@ -115,6 +115,22 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |CentralDenmarkRegion|
+
+       `Region Midtjylland (Central Denmark Region) <http://www.rm.dk/om-os/english/regional-development/>`_, Denmark (05.2018-05.2019)
+     -
+   * - |bronze| |gaia3d|
+
+       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2019)
+     - |bronze| |GispoOy|
+
+       `Gispo Oy <http://www.gispo.fi/en/home/>`_, Helsinki, Finland (05.2018-05.2019)
+   * - |bronze| |windsor|
+
+       `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2019)
+     - |bronze| |InfraplanEngineering|
+
+       `Infraplan Engineering Services Pvt. Ltd. <http://www.infraplan.in/>`_, India (05.2017-05.2022)
    * - |bronze| |qgis-br|
 
        `QGIS user group Brazil, Inc. <http://qgisbrasil.org/>`_, Brazil (04.2017-04.2019)
@@ -254,21 +270,19 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |soltig|
 
        `SOLTIG (Soluciones en Tecnologías de Información Geográfica) <http://www.soltig.net/>`_, Costa Rica (06.2016-06.2018)
-   * - |bronze| |gaia3d|
-
-       `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2018)
-     - |bronze| |InfraplanEngineering|
-
-       `Infraplan Engineering Services Pvt. Ltd. <http://www.infraplan.in/>`_, India (05.2017-05.2022)
-   * - |bronze| |windsor|
-
-       `Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK (04.2015-04.2018)
-     - |bronze| |qgis-se|
+   * - |bronze| |qgis-se|
 
        `QGIS user group Sweden <http://qgis.se/>`_, Sweden (05.2017-05.2018)
+     - 
+
+.. |CentralDenmarkRegion| image:: /static/site/about/images/CentralDenmarkRegion.png
+   :width: 110 px
+
+.. |GispoOy| image:: /static/site/about/images/GispoOy.png
+   :width: 110 px
 
 .. |musqueam| image:: /static/site/about/images/musqueam.png
-   :width: 90 px
+   :width: 70 px
 
 .. |agresta| image:: /static/site/about/images/agresta.png
    :width: 120 px
