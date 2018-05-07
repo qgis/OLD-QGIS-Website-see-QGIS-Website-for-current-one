@@ -118,7 +118,9 @@ goes into the project. These sponsors are listed below with our thanks!
    * - |bronze| |CentralDenmarkRegion|
 
        `Region Midtjylland (Central Denmark Region) <http://www.rm.dk/om-os/english/regional-development/>`_, Denmark (05.2018-05.2019)
-     -
+     - |bronze| |vgr|
+
+       `Västra Götalandsregionen <http://www.vgregion.se/>`_, Gothenburg, Sweden (05.2018-05.2019)
    * - |bronze| |gaia3d|
 
        `Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2019)
@@ -274,6 +276,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
        `QGIS user group Sweden <http://qgis.se/>`_, Sweden (05.2017-05.2018)
      - 
+
+.. |vgr| image:: /static/site/about/images/vgr.png
+   :width: 130 px
 
 .. |CentralDenmarkRegion| image:: /static/site/about/images/CentralDenmarkRegion.png
    :width: 110 px
