@@ -21,3 +21,7 @@ curl -o qgisplanet.atom "http://planet.qgis.org/planet/feed/atom/"
 # get qugsnews (from github)
 mv qugsnews.atom qugsnews.atom.0
 curl https://raw.githubusercontent.com/qgis/QGIS-Website/master/source/feeds/qugsnews.atom -o qugsnews.atom
+
+# get sponsors (from changelog.qgis.org/projecta)
+mv qgissponsors.atom qgissponsors.atom.0
+curl http://changelog.qgis.org/en/qgis/sponsors/atom/ -o qgissponsors.atom
