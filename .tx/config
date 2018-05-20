@@ -859,3 +859,21 @@ source_file = i18n/en/LC_MESSAGES/sphinx.po
 source_lang = en
 type = PO
 
+[qgis-website.site_getinvolved_tests]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/tests.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/tests.po
+source_lang = en
+type = PO
+
+[qgis-website.site_about_case-studies_usa-polczynski]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/usa_polczynski.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/usa_polczynski.po
+source_lang = en
+type = PO
+
+[qgis-website.site_forusers_visualchangelog30_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/visualchangelog30/index.po
+source_file = i18n/en/LC_MESSAGES/site/forusers/visualchangelog30/index.po
+source_lang = en
+type = PO
+
