@@ -60,7 +60,7 @@ Steps are:
 
 .. [1] Latest release nightlies SHA:
    `32 bit <http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-rel-dev/LATEST.sha>`__,
-   `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-ltr-dev/LATEST.sha>`__
+   `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-rel-dev/LATEST.sha>`__
 .. [2]  Latest long-term release nightlies SHA:
    `32 bit <http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-ltr-dev/LATEST.sha>`__,
    `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-ltr-dev/LATEST.sha>`__
