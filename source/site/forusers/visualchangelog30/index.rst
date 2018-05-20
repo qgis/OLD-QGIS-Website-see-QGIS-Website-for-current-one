@@ -25,6 +25,9 @@ QGIS is Free software and you are under no obligation to pay anything to use it 
 Sponsors for QGIS version 3.0.0
 -------------------------------
 
+Gold
+~~~~
+
 |image2| Gold : 9000 EUR
 
 +--------------------------------------+--------------------------------------+
@@ -36,6 +39,8 @@ Sponsors for QGIS version 3.0.0
 |                                      |                                      |
 +--------------------------------------+--------------------------------------+
 
+Silver
+~~~~~~
 
 |image5| Silver : 3000 EUR
 
@@ -71,6 +76,8 @@ Sponsors for QGIS version 3.0.0
 |                                      |                                      |
 +--------------------------------------+--------------------------------------+
 
+Bronze
+~~~~~~
 
 |image14| Bronze : 500 EUR
 
@@ -240,6 +247,242 @@ Sponsors for QGIS version 3.0.0
 | (IAG)                                |                                      |
 |                                      |                                      |
 +--------------------------------------+--------------------------------------+
+
+
+General
+-------
+
+Feature: Remove zonal stats plugin
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is now fully exposed via processing, which is the logical
+place for this feature to reside.
+
+
+Feature: Remove dxf2shp converter plugin
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This functionality is available in OGR and there is no longer a need for a dedicated QGIS plugin to do this task
+
+
+Feature: Remove orphaned oracle raster plugin
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Feature: remove TauDEM provider from core Processing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TauDEM is quite specific set of tools and it requires installation of
+some additional tools. So we decide to turn it into separate provider,
+reducing core codebase size and maintenance efforts.
+
+
+Feature: More help and possibility to configure location of the QGIS help files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+More Help buttons for algorithms and dialogs are added and now pointing to the online QGIS Documentation.
+
+Configuration allows to access context help stored online, in the organization network or on local computer. Also it is possible to combine different help sources.
+
+|image112|
+
+This feature was developed by Alexander Bruy
+
+
+Feature: Migrate Photo, WebView and FileName widgets to Attachment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+|image113|
+
+
+Feature: Removed otb and lidartools providers from processing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The new logic will be to develop plugin providers that will be able to follow the external software lifecycle.
+
+
+User Interface
+--------------
+
+Feature: Enable tabbed floating docks
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+For qt > 5.6 builds, it is possible to drop several floating docks in the same floating window where they appear as tabs https://woboq.com/blog/qdockwidget-changes-in-56.html
+
+|image66|
+
+
+Feature: Add support for fine-resolution mouse wheel zooming
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Some mouse / pointer devices (notably on mac) have finer resolutions. They send mouse wheel events at a high frequency but with smaller delta values. Zooming with such devices was unusable for fast zoom actions. This has been fixed in 3.0.
+
+This feature was developed by Matthias Kuhn
+
+
+Feature: add search bar to the Configure Shortcuts dialog
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Supports search by action name and by shortcut
+
+|image67|
+
+This feature was developed by Alexander Bruy
+
+
+Feature: Locator bar
+~~~~~~~~~~~~~~~~~~~~
+
+The Locator bar is a fast, always ready, generic and pluggable search facility in the Left Bottom corner of QGIS.
+
+Currently it is able to search for algorithms, actions and layer names, but also to select a feature in current active layer by typing an attribute value.
+
+It is 'easy' extendable, so everybody can create a QgsLocatorFilter for his/her national geocoding service or other search online or database search facility.
+
+|image68|
+
+This feature was developed by Nyall Dawson
+
+
+Feature: More non-blocking, inline editing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  map unit scaling
+-  color brewer and limited random ramp editors
+-  editing colors in a color list inline in the style panel
+-  inline editing of colors and symbols in composer
+
+now shown inline in style panel
+
+Feature: Add an option to show user color schemes menus
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This adds the ability for users to set whether a user created color scheme should show up in the color button drop-down menus.
+
+It's accessed through the color picker dialog, on the lists tab. Just add a new color scheme, then from the scheme menu tick the new "show in buttons" option.
+
+This is handy if you have sets of common palettes and want them to be instantly available through the color menu.
+
+
+This feature was funded by `North Road <https://north-road.com/>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
+
+
+Feature: Color setting for map canvas north arrow decoration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Color setting has been added for all map canvas north arrow decoration.
+
+|image69|
+
+This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
+
+
+Feature: Improved map canvas' save as image
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The map canvas' save as image function has been expanded and now offers users the possibility to tweak the scale, resolution, and extent on-the-fly. Extents can be restricted to a height-width ratio. A save as PDF function was also added to quickly export the map canvas into a resolution-independent PDF.
+
+|image70|
+
+This feature was funded by Andreas Neumann (partial funding)
+
+This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
+
+
+Feature: Toggle visibility of opened panels in main window
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Accessible via:
+- View menu > Toggle Panels Visibility
+- **Ctrl+Tab** keyboard shortcut
+
+|image71|
+
+This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
+
+
+
+Feature: Improved consistency to the user interface
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This work sponsored by the QGIS grant program on "adding consistency to UI controls" is now complete and merged into master. The following tasks were done as part of this work:
+
+-  All API regarding **transparency/opacity/alpha** was standardised to **setOpacity()** and **opacity()**. The methods take a double value between 0 (transparent) and 1 (opaque), keeping consistency with the Qt API.
+-  A **new widget QgsOpacityWidget** was created, and is now used everywhere through the UI where opacity is set. This ensures consistent behavior and look for opacity controls everywhere.
+-  **Rotation** has been standardised in the API and UI, so now rotation is always applied clockwise. All rotation widgets have been updated so they accept values from -360 to 360.
+-  2.x Projects with labeling using rotation and data defined rotation are transparently **upgraded** upon opening in 3.0
+-  Scale APIs have been made consistent throughout the QGIS API. **The confusing mix of scale denominators vs real scales has been removed**, with everything now operating on scale denominators. The behaviour of all scale range calls is standardised with a common meaning for min/max scales (and explicit api documentation regarding this)
+-  All scale controls now use the standard scale widgets for consistency across the UI
+-  Labeling now uses the same definition for min/max scale as the rest of the UI, and existing projects are transparently upgraded on opening in 3.0.
+-  Fixed most outstanding bugs relating to scale usage, including bugs breaking the rule based scale limits
+
+Thanks to the QGIS PSC and project donors for sponsoring this work and allowing it to proceed!
+
+This feature was funded by QGIS Sponsors and Donors
+
+This feature was developed by `Nyall Dawson <https://north-road.com>`__
+
+
+Feature: Open layers in a single group
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you try to open many sublayers, you can now open them all within a same group in the legend.
+
+|image72|
+
+This feature was funded by `Kartoza <www.kartoza.com>`__
+
+This feature was developed by `Etienne Trimaille <https://github.com/Gustry>`__
+
+
+3D Features
+-----------
+
+Feature: 3D map view and terrain generation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We have a brand new native 3D map view in QGIS! The 3D map view displays 2D map (rendered from project layers) on top
+terrain. By default the terrain is a flat plane, but it is possible to use raster layers with digital elevation model
+as the source of height data.
+
+Use menu View > New 3D Map View to add a 3D view of the project. This will create a new dock widget with 3D map canvas.
+The 3D view uses the same controls like 2D map views to browse the map using mouse (drag map to move it around, mouse wheel to zoom)
+or keyboard arrow keys. In addition there are camera controls specific to 3D views: it is possible to rotate and tilt camera
+by one of the following ways:
+
+-  by dragging the mouse with middle mouse button pressed
+-  by pressing Shift and dragging the mouse with left mouse button pressed
+-  by pressing Shift and using up/down/left/right keys
+
+|image121|
+
+This feature was funded by `QGIS.ORG <https://qgis.org/>`__
+
+This feature was developed by `Martin Dobias (Lutra Consulting) <https://www.lutraconsulting.co.uk/>`__
+
+
+Feature: 3D renderers for map layers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In the default configuration, map layers are rendered into 2D map images on top of the terrain.
+It is however possible to make better use of the 3D world by configuring 3D renderers for some map layers.
+With 3D renderers, the data can be displayed in 3D views as true 3D objects - this is currently supported
+for vector layers (all geometry types - point, line or polygon). This enables much better visualization,
+for example:
+
+-  polygons with building footprints may be extruded (possibly with data-defined height) to achieve 3D look
+-  points with tree point locations can be rendered with 3D symbols of trees (simple geometric shapes or existing 3D models loaded from a supported file format)
+
+To configure 3D renderers, use layer styling dock widget or the vector layer properties dialog - there is a new tab for configuration of 3D renderers.
+
+|image122|
+
+This feature was funded by `QGIS.ORG <https://qgis.org/>`__
+
+This feature was developed by `Martin Dobias, Peter Petrik (Lutra Consulting) <https://www.lutraconsulting.co.uk/>`__
 
 
 Expressions
@@ -455,142 +698,6 @@ Processing algorithms have been reviewed and documented. Clicking the Help butto
 This feature was funded by QGIS Grant Proposal
 
 This feature was developed by `Matteo Ghetta (Faunalia), Alexander Bruy <http://www.faunalia.eu/>`__
-
-User Interface
-~~~~~~~~~~~~~~
-
-Feature: Enable tabbed floating docks
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-For qt > 5.6 builds, it is possible to drop several floating docks in the same floating window where they appear as tabs https://woboq.com/blog/qdockwidget-changes-in-56.html
-
-|image66|
-
-
-Feature: Add support for fine-resolution mouse wheel zooming
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Some mouse / pointer devices (notably on mac) have finer resolutions. They send mouse wheel events at a high frequency but with smaller delta values. Zooming with such devices was unusable for fast zoom actions. This has been fixed in 3.0.
-
-This feature was developed by Matthias Kuhn
-
-
-Feature: add search bar to the Configure Shortcuts dialog
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Supports search by action name and by shortcut
-
-|image67|
-
-This feature was developed by Alexander Bruy
-
-
-Feature: Locator bar
-~~~~~~~~~~~~~~~~~~~~
-
-The Locator bar is a fast, always ready, generic and pluggable search facility in the Left Bottom corner of QGIS.
-
-Currently it is able to search for algorithms, actions and layer names, but also to select a feature in current active layer by typing an attribute value.
-
-It is 'easy' extendable, so everybody can create a QgsLocatorFilter for his/her national geocoding service or other search online or database search facility.
-
-|image68|
-
-This feature was developed by Nyall Dawson
-
-
-Feature: More non-blocking, inline editing
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
--  map unit scaling
--  color brewer and limited random ramp editors
--  editing colors in a color list inline in the style panel
--  inline editing of colors and symbols in composer
-
-now shown inline in style panel
-
-Feature: Add an option to show user color schemes menus
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-This adds the ability for users to set whether a user created color scheme should show up in the color button drop-down menus.
-
-It's accessed through the color picker dialog, on the lists tab. Just add a new color scheme, then from the scheme menu tick the new "show in buttons" option.
-
-This is handy if you have sets of common palettes and want them to be instantly available through the color menu.
-
-
-This feature was funded by `North Road <https://north-road.com/>`__
-
-This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
-
-
-Feature: Color setting for map canvas north arrow decoration
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Color setting has been added for all map canvas north arrow decoration.
-
-|image69|
-
-This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
-
-
-Feature: Improved map canvas' save as image
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The map canvas' save as image function has been expanded and now offers users the possibility to tweak the scale, resolution, and extent on-the-fly. Extents can be restricted to a height-width ratio. A save as PDF function was also added to quickly export the map canvas into a resolution-independent PDF.
-
-|image70|
-
-This feature was funded by Andreas Neumann (partial funding)
-
-This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
-
-
-Feature: Toggle visibility of opened panels in main window
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-Accessible via:
-- View menu > Toggle Panels Visibility
-- **Ctrl+Tab** keyboard shortcut
-
-|image71|
-
-This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
-
-
-
-Feature: Improved consistency to the user interface
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-This work sponsored by the QGIS grant program on "adding consistency to UI controls" is now complete and merged into master. The following tasks were done as part of this work:
-
--  All API regarding **transparency/opacity/alpha** was standardised to **setOpacity()** and **opacity()**. The methods take a double value between 0 (transparent) and 1 (opaque), keeping consistency with the Qt API.
--  A **new widget QgsOpacityWidget** was created, and is now used everywhere through the UI where opacity is set. This ensures consistent behavior and look for opacity controls everywhere.
--  **Rotation** has been standardised in the API and UI, so now rotation is always applied clockwise. All rotation widgets have been updated so they accept values from -360 to 360.
--  2.x Projects with labeling using rotation and data defined rotation are transparently **upgraded** upon opening in 3.0
--  Scale APIs have been made consistent throughout the QGIS API. **The confusing mix of scale denominators vs real scales has been removed**, with everything now operating on scale denominators. The behaviour of all scale range calls is standardised with a common meaning for min/max scales (and explicit api documentation regarding this)
--  All scale controls now use the standard scale widgets for consistency across the UI
--  Labeling now uses the same definition for min/max scale as the rest of the UI, and existing projects are transparently upgraded on opening in 3.0.
--  Fixed most outstanding bugs relating to scale usage, including bugs breaking the rule based scale limits
-
-Thanks to the QGIS PSC and project donors for sponsoring this work and allowing it to proceed!
-
-This feature was funded by QGIS Sponsors and Donors
-
-This feature was developed by `Nyall Dawson <https://north-road.com>`__
-
-
-Feature: Open layers in a single group
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-If you try to open many sublayers, you can now open them all within a same group in the legend.
-
-|image72|
-
-This feature was funded by `Kartoza <www.kartoza.com>`__
-
-This feature was developed by `Etienne Trimaille <https://github.com/Gustry>`__
 
 
 Symbology
@@ -1807,57 +1914,6 @@ Feature: Standalone QGIS Browser application removed
 We have removed the standalone QGIS Browser application that shipped with QGIS 2.x. This application had poor user uptake and represented a maintenance overhead that we do not wish to continue with in the 3.0 code base.
 
 
-General
--------
-
-Feature: Remove zonal stats plugin
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-This is now fully exposed via processing, which is the logical
-place for this feature to reside.
-
-
-Feature: Remove dxf2shp converter plugin
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-This functionality is available in OGR and there is no longer a need for a dedicated QGIS plugin to do this task
-
-
-Feature: Remove orphaned oracle raster plugin
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-Feature: remove TauDEM provider from core Processing
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-TauDEM is quite specific set of tools and it requires installation of
-some additional tools. So we decide to turn it into separate provider,
-reducing core codebase size and maintenance efforts.
-
-
-Feature: More help and possibility to configure location of the QGIS help files
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-More Help buttons for algorithms and dialogs are added and now pointing to the online QGIS Documentation.
-
-Configuration allows to access context help stored online, in the organization network or on local computer. Also it is possible to combine different help sources.
-
-|image112|
-
-This feature was developed by Alexander Bruy
-
-
-Feature: Migrate Photo, WebView and FileName widgets to Attachment
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-|image113|
-
-
-Feature: Removed otb and lidartools providers from processing
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The new logic will be to develop plugin providers that will be able to follow the external software lifecycle.
-
 
 Data Providers
 --------------
@@ -2219,90 +2275,42 @@ and QgsCustomDropHandler implementation to deal with drop of custom items.
 This feature was developed by Martin Dobias
 
 
-3D Features
------------
-
-Feature: 3D map view and terrain generation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-We have a brand new native 3D map view in QGIS! The 3D map view displays 2D map (rendered from project layers) on top
-terrain. By default the terrain is a flat plane, but it is possible to use raster layers with digital elevation model
-as the source of height data.
-
-Use menu View > New 3D Map View to add a 3D view of the project. This will create a new dock widget with 3D map canvas.
-The 3D view uses the same controls like 2D map views to browse the map using mouse (drag map to move it around, mouse wheel to zoom)
-or keyboard arrow keys. In addition there are camera controls specific to 3D views: it is possible to rotate and tilt camera
-by one of the following ways:
-
--  by dragging the mouse with middle mouse button pressed
--  by pressing Shift and dragging the mouse with left mouse button pressed
--  by pressing Shift and using up/down/left/right keys
-
-|image121|
-
-This feature was funded by `QGIS.ORG <https://qgis.org/>`__
-
-This feature was developed by `Martin Dobias (Lutra Consulting) <https://www.lutraconsulting.co.uk/>`__
-
-
-Feature: 3D renderers for map layers
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-In the default configuration, map layers are rendered into 2D map images on top of the terrain.
-It is however possible to make better use of the 3D world by configuring 3D renderers for some map layers.
-With 3D renderers, the data can be displayed in 3D views as true 3D objects - this is currently supported
-for vector layers (all geometry types - point, line or polygon). This enables much better visualization,
-for example:
-
--  polygons with building footprints may be extruded (possibly with data-defined height) to achieve 3D look
--  points with tree point locations can be rendered with 3D symbols of trees (simple geometric shapes or existing 3D models loaded from a supported file format)
-
-To configure 3D renderers, use layer styling dock widget or the vector layer properties dialog - there is a new tab for configuration of 3D renderers.
-
-|image122|
-
-This feature was funded by `QGIS.ORG <https://qgis.org/>`__
-
-This feature was developed by `Martin Dobias, Peter Petrik (Lutra Consulting) <https://www.lutraconsulting.co.uk/>`__
-
-
-
 .. |image0| image:: images/projects/4ba1280c5037bc85ccedcbd39dab18eb725729c5.png
 .. |image1| image:: images/projects/8c7c6c5ded71fa7284d9e31144e2c0cdb02059ee.png
 .. |image2| image:: images/projects/thumbnails/d5fd4af2929840586da0bd45110758c5b0a786ff.png.50x50_q85.png
    :width: 100px
 .. |Land Vorarlberg| image:: images/projects/thumbnails/5f50b148aecade6339b100f1ad30897b81ca9a09.jpg.150x50_q85.jpg
    :target: http://www.vorarlberg.at/
-   :width: 100px
+   :width: 250px
 .. |QGIS user group Switzerland| image:: images/projects/thumbnails/b9c08a00a74cba8e406e97f94a1f90595f5ac39d.png.150x50_q85.png
    :target: http://www.qgis.ch/
-   :width: 100px
+   :width: 150px
 .. |image5| image:: images/projects/thumbnails/0d8ae6aad78ca052492dff96434ddb54d5401262.png.50x50_q85.png
    :width: 75px
 .. |AERO ASAHI Corporation| image:: images/projects/thumbnails/c4dc52859104f35bfb44e25b4335fa67859ad587.png.150x50_q85.png
    :target: https://www.aeroasahi.co.jp/english/
-   :width: 75px
+   :width: 175px
 .. |QGIS user group Denmark| image:: images/projects/thumbnails/a6678418323905fba4f0647c8948dedc61c5c533.png.150x50_q85.png
    :target: http://www.qgis.dk/
-   :width: 75px
+   :width: 125px
 .. |ARTOGIS a/s| image:: images/projects/thumbnails/07de9503591659c51628fb035d306762be799702.png.150x50_q85.png
    :target: http://www.artogis.dk/
-   :width: 75px
+   :width: 175px
 .. |QGIS user group Germany| image:: images/projects/thumbnails/9e65278db4b4cbe588be7125347a5aa699911a98.png.150x50_q85.png
    :target: http://www.qgis.de/
-   :width: 75px
+   :width: 125px
 .. |OPENGIS.ch GmbH| image:: images/projects/thumbnails/84f2a3e506d6b81d0b6e56d174d79a07444ce0be.png.150x50_q85.png
    :target: http://www.opengis.ch/
-   :width: 75px
+   :width: 150px
 .. |Terraplan| image:: images/projects/thumbnails/0a11f16bbeec25c03a5dd82f9d52d4fe708b1570.png.150x50_q85.png
    :target: http://www.terraplan.com/
-   :width: 75px
+   :width: 150px
 .. |Office of Public Works, Flood Risk Management and Data Management Section| image:: images/projects/thumbnails/35602d87c0858381e9a95a481808b27249f0f592.jpg.150x50_q85.jpg
    :target: http://www.opw.ie/
-   :width: 75px
+   :width: 125px
 .. |WIGeoGIS| image:: images/projects/thumbnails/48df7ad58a98d7d7cb14062172a9ea6dca7e9587.png.150x50_q85.jpg
    :target: https://www.wigeogis.com/
-   :width: 75px
+   :width: 150px
 .. |image14| image:: images/projects/thumbnails/0e2f6fb1efc89d41120cddf90509374642d400b4.png.50x50_q85.png
    :width: 60px
 .. |2D3D.GIS| image:: images/projects/thumbnails/b3196a2b5781e788e6adac40ecf6964eddc4d38e.png.150x50_q85.png
