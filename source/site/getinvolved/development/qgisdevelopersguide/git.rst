@@ -301,7 +301,7 @@ number in it e.g. bug777fix.patch, and attach it to the `original bug report in 
 <https://issues.qgis.org/projects/qgis>`_.
 
 If the bug is an enhancement or new feature, its usually a good idea to create
-a `ticket in trac <http://issues.qgis.org/projects/qgis>`_ 
+a `ticket in trac <https://issues.qgis.org/projects/qgis>`_ 
 first and then attach your patch.
 
 
