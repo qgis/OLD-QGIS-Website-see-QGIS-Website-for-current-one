@@ -254,40 +254,120 @@ After you have verified the fingerprint you can add the key to apt with::
 
 Alternatively you can download the key from a keyserver and add the key to apt
 in one go (without manual fingerprint verification)::
-
+        
  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key CAEB3DC3BDF7FB45
 
 
 Fedora
 ------
 
+Get packages for any Fedora by typing::
+
+ sudo dnf install qgis qgis-python qgis-grass qgis-server
+
+Default Fedora software repositories often hold older versions of
+QGIS.
+
+To have newer versions, you have to add alternative software repositories
+based on the version you want to install (stable, LTR or testing).
+
 QGIS stable
 ...........
 
-Get packages for any Fedora by typing::
+Enable the repository::
 
- sudo dnf update
- sudo dnf install qgis qgis-python qgis-grass qgis-server
+ sudo dnf copr enable dani/qgis
 
-There is an alternative repository for QGIS which provides new LTR versions
-https://copr.fedorainfracloud.org/coprs/neteler/QGIS-2.14-Essen/
-::
+After that type the commands below to install QGIS::
 
- sudo dnf copr enable neteler/liblas
- sudo dnf copr enable neteler/grass70
- sudo dnf copr enable neteler/QGIS-2.14-Essen
+ sudo dnf install qgis python3-qgis qgis-grass
 
- sudo dnf install qgis qgis-grass qgis-python
- 
-For QGIS 2.18 use there is another repository
-::
+In case you would like to install QGIS Server (note that it's not a common practice
+to install both client and server applications on the same machine), type::
 
- sudo dnf copr enable neteler/liblas
- sudo dnf copr enable neteler/grass70
- sudo dnf copr enable neteler/QGIS-2.18-Las-Palmas
+ sudo dnf install qgis-server python3-qgis
 
- sudo dnf install qgis qgis-grass qgis-python
++---------------+-------------+--------------+--------------+-------+
+| Distribution  | Version     | QGIS         | GRASS        | with  |
+|               |             | version      | version      | 3D    |
+|               |             |              |              |       |
++===============+=============+==============+==============+=======+
+| Fedora        | 26          | 3.0          | 7.2          | yes   |
+|               +-------------+--------------+--------------+-------+
+|               | 27          | 3.0          | 7.4          | yes   |
+|               +-------------+--------------+--------------+-------+
+|               | 28          | 3.0          | 7.4          | yes   |
++---------------+-------------+--------------+--------------+-------+
 
+More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis/
+
+QGIS LTR (Long Term Release)
+............................
+
+Enable the repository::
+
+ sudo dnf copr enable dani/qgis-ltr
+
+After that type the commands below to install QGIS::
+
+ sudo dnf install qgis python2-qgis qgis-grass
+
+In case you would like to install QGIS Server (note that it's not a common practice
+to install both client and server applications on the same machine), type::
+
+ sudo dnf install qgis-server python2-qgis
+
+This repository also provides a copy of SAGA compatible with QGIS 2.18.
+It can be installed with the following commands::
+
+ sudo dnf install saga python2-saga
+
++---------------+-------------+--------------+--------------+---------+
+| Distribution  | Version     | QGIS         | GRASS        | SAGA    |
+|               |             | version      | version      | version |
+|               |             |              |              |         |
++===============+=============+==============+==============+=========+
+| Fedora        | 26          | 2.18         | 7.2          | 2.3.1   |
+|               +-------------+--------------+--------------+---------+
+|               | 27          | 2.18         | 7.4          | 2.3.1   |
+|               +-------------+--------------+--------------+---------+
+|               | 28          | 2.18         | 7.4          | 2.3.1   |
++---------------+-------------+--------------+--------------+---------+
+
+More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/
+
+QGIS testing
+............
+
+Enable the repository::
+
+ sudo dnf copr enable dani/qgis-testing
+
+After that type the commands below to install QGIS::
+
+ sudo dnf install qgis python3-qgis qgis-grass
+
+In case you would like to install QGIS Server (note that it's not a common practice
+to install both client and server applications on the same machine), type::
+
+ sudo dnf install qgis-server python3-qgis
+
++---------------+-------------+--------------+--------------+-------+
+| Distribution  | Version     | QGIS         | GRASS        | with  |
+|               |             | version      | version      | 3D    |
+|               |             |              |              |       |
++===============+=============+==============+==============+=======+
+| Fedora        | 26          | 3.1          | 7.2          | yes   |
+|               +-------------+--------------+--------------+-------+
+|               | 27          | 3.1          | 7.4          | yes   |
+|               +-------------+--------------+--------------+-------+
+|               | 28          | 3.1          | 7.4          | yes   |
+|               +-------------+--------------+--------------+-------+
+|               | rawhide     | 3.1          | 7.4          | yes   |
++---------------+-------------+--------------+--------------+-------+
+
+Testing builds are updated on a weekly basis.
+More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-testing/
 
 RHEL, CentOS, Scientific Linux
 ------------------------------
