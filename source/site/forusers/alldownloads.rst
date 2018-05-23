@@ -138,45 +138,45 @@ need to include ubuntugis-unstable ppa in your /etc/apt/sources.list file (see
 
 Lines of packages:
 
-+-----------------------+--------------------------------+------------------------+------------------------------------------------+
-| Release               | Version                        | Description            | Repository                                     |
-+=======================+================================+========================+================================================+
-| Latest Release        | |version|.x |codename|         | Release for            | https://qgis.org/debian                        |
-|                       | |releasenote|                  | **Debian and Ubuntu**  |                                                |
-|                       |                                +------------------------+------------------------------------------------+
-|                       |                                | Release with           | https://qgis.org/ubuntugis                     |
-|                       |                                | ubuntugis-unstable dependencies |                                                |
-|                       |                                +------------------------+------------------------------------------------+
-|                       |                                | Nightly build of       | https://qgis.org/debian-nightly-release        |
-|                       |                                | upcoming point release |                                                |
-|                       |                                | for Debian and Ubuntu  |                                                |
-|                       |                                +------------------------+------------------------------------------------+
-|                       |                                | Nightly build of       | https://qgis.org/ubuntugis-nightly-release     |
-|                       |                                | upcoming point         |                                                |
-|                       |                                | release with           |                                                |
-|                       |                                | ubuntugis-unstable dependencies |                                                |
-+-----------------------+--------------------------------+------------------------+------------------------------------------------+
-| Long Term Release     | |ltrversion|.x |ltrcodename|   | Release for            | https://qgis.org/debian-ltr                    |
-| Repository            | |ltrnote|                      | **Debian and Ubuntu**  |                                                |
-|                       |                                +------------------------+------------------------------------------------+
-|                       |                                | Release with           | https://qgis.org/ubuntugis-ltr                 |
-|                       |                                | ubuntugis-unstable dependencies |                                                |
-|                       |                                +------------------------+------------------------------------------------+
-|                       |                                | Nightly build of       | https://qgis.org/debian-nightly-ltr            |
-|                       |                                | upcoming point release |                                                |
-|                       |                                | for Debian and Ubuntu  |                                                |
-|                       |                                +------------------------+------------------------------------------------+
-|                       |                                | Nightly build of       | https://qgis.org/ubuntugis-nightly-ltr         |
-|                       |                                | upcoming point         |                                                |
-|                       |                                | release with           |                                                |
-|                       |                                | ubuntugis-unstable dependencies |                                                |
-+-----------------------+--------------------------------+------------------------+------------------------------------------------+
-| Development Version   | |devversion| master            | Nightly build for      | https://qgis.org/debian-nightly                |
-|                       |                                | **Debian and Ubuntu**  |                                                |
-|                       |                                +------------------------+------------------------------------------------+
-|                       |                                | Nightly build with     | https://qgis.org/ubuntugis-nightly             |
-|                       |                                | ubuntugis-unstable dependencies |                                                |
-+-----------------------+--------------------------------+------------------------+------------------------------------------------+
++-----------------------+--------------------------------+----------------------------------+------------------------------------------------+
+| Release               | Version                        | Description                      | Repository                                     |
++=======================+================================+==================================+================================================+
+| Latest Release        | |version|.x |codename|         | Release for                      | https://qgis.org/debian                        |
+|                       | |releasenote|                  | **Debian and Ubuntu**            |                                                |
+|                       |                                +----------------------------------+------------------------------------------------+
+|                       |                                | Release with                     | https://qgis.org/ubuntugis                     |
+|                       |                                | ubuntugis-unstable dependencies  |                                                |
+|                       |                                +----------------------------------+------------------------------------------------+
+|                       |                                | Nightly build of                 | https://qgis.org/debian-nightly-release        |
+|                       |                                | upcoming point release           |                                                |
+|                       |                                | for Debian and Ubuntu            |                                                |
+|                       |                                +----------------------------------+------------------------------------------------+
+|                       |                                | Nightly build of                 | https://qgis.org/ubuntugis-nightly-release     |
+|                       |                                | upcoming point                   |                                                |
+|                       |                                | release with                     |                                                |
+|                       |                                | ubuntugis-unstable dependencies  |                                                |
++-----------------------+--------------------------------+----------------------------------+------------------------------------------------+
+| Long Term Release     | |ltrversion|.x |ltrcodename|   | Release for                      | https://qgis.org/debian-ltr                    |
+| Repository            | |ltrnote|                      | **Debian and Ubuntu**            |                                                |
+|                       |                                +----------------------------------+------------------------------------------------+
+|                       |                                | Release with                     | https://qgis.org/ubuntugis-ltr                 |
+|                       |                                | ubuntugis-unstable dependencies  |                                                |
+|                       |                                +----------------------------------+------------------------------------------------+
+|                       |                                | Nightly build of                 | https://qgis.org/debian-nightly-ltr            |
+|                       |                                | upcoming point release           |                                                |
+|                       |                                | for Debian and Ubuntu            |                                                |
+|                       |                                +----------------------------------+------------------------------------------------+
+|                       |                                | Nightly build of                 | https://qgis.org/ubuntugis-nightly-ltr         |
+|                       |                                | upcoming point                   |                                                |
+|                       |                                | release with                     |                                                |
+|                       |                                | ubuntugis-unstable dependencies  |                                                |
++-----------------------+--------------------------------+----------------------------------+------------------------------------------------+
+| Development Version   | |devversion| master            | Nightly build for                | https://qgis.org/debian-nightly                |
+|                       |                                | **Debian and Ubuntu**            |                                                |
+|                       |                                +----------------------------------+------------------------------------------------+
+|                       |                                | Nightly build with               | https://qgis.org/ubuntugis-nightly             |
+|                       |                                | ubuntugis-unstable dependencies  |                                                |
++-----------------------+--------------------------------+----------------------------------+------------------------------------------------+
 
 | Next point release: |nextpointreleasedate|
 | Next release: |nextreleasedate|
