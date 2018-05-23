@@ -288,7 +288,7 @@ to install both client and server applications on the same machine), type::
  sudo dnf install qgis-server python3-qgis
 
 +---------------+-------------+--------------+--------------+-------+
-| Distribution  | Version     | QGIS         | GRASS        | with  |
+| Distribution  | Version     | QGIS         | GRASS GIS    | with  |
 |               |             | version      | version      | 3D    |
 |               |             |              |              |       |
 +===============+=============+==============+==============+=======+
@@ -323,7 +323,7 @@ It can be installed with the following commands::
  sudo dnf install saga python2-saga
 
 +---------------+-------------+--------------+--------------+---------+
-| Distribution  | Version     | QGIS         | GRASS        | SAGA    |
+| Distribution  | Version     | QGIS         | GRASS GIS    | SAGA    |
 |               |             | version      | version      | version |
 |               |             |              |              |         |
 +===============+=============+==============+==============+=========+
@@ -353,7 +353,7 @@ to install both client and server applications on the same machine), type::
  sudo dnf install qgis-server python3-qgis
 
 +---------------+-------------+--------------+--------------+-------+
-| Distribution  | Version     | QGIS         | GRASS        | with  |
+| Distribution  | Version     | QGIS         | GRASS GIS    | with  |
 |               |             | version      | version      | 3D    |
 |               |             |              |              |       |
 +===============+=============+==============+==============+=======+
