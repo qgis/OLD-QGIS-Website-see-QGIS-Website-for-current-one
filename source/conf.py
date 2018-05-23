@@ -318,6 +318,7 @@ def setup(app):
     app.add_config_value('binary_mac', None, 'env')
     app.add_config_value('ltrrelease_mac', None, 'env')
     app.add_config_value('ltrbinary_mac', None, 'env')
+    app.add_config_value('stripeform_url', None, 'env')
 
 
 context = {
@@ -339,7 +340,8 @@ context = {
     'release_mac': '3.0.2',
     'binary_mac': '2',
     'ltrrelease_mac': '2.18.19',
-    'ltrbinary_mac': '2'
+    'ltrbinary_mac': '2',
+    'stripeformurl': '/stripe/form'
 }
 
 rst_epilog += "\n".join(map(lambda x: ".. |%s| replace:: %s" % (x, context[x]), context.keys()))

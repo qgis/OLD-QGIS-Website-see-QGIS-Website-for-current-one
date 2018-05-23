@@ -71,10 +71,16 @@ VAT-number:   CHE-489.853.176
             </div>
         </div>
         <hr>
+        <div class="row-fluid">
+                <h3>{{ _('Stripe') }}</h3>
+                <p>{{ _("We use the stripe.com service to receive credit card donations. No signup needed.") }}</p>
+                <div id="stripe">{{_("If you do not see a Payment Form here please let us know via finance@qgis.org.") }}<!-- content gets injected here via js in themes/qgis-theme/languageswitch.html --></div>
+        </div>
+        <hr>
         <div class="row-fluid" id="paypal">
             <div class="span8">
                 <h3>{{ _('Paypal') }}</h3>
-                <p>{{ _("You can use Paypal to donate using your own credit card. 
+                <p>{{ _("You can use Paypal to donate using your own credit card (but we prefer to use Stripe for that). 
                     The payment is processed by PayPal but you don't need to have a PayPal account 
                     or sign-up for one if you are paying by credit card.") }}</p>
                 <p>{{ _('You can also use your own Paypal account to donate.') }}</p>
