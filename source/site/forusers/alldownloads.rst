@@ -463,12 +463,12 @@ instructions can be found at: https://aur.archlinux.org/packages/?O=0&K=qgis
 Mac OS X / macOS
 ================
 
-Installation instructions are in the ReadMe on the disk image.
+Installation instructions are in the ReadMe on the disk image. Downloads are on the QGIS download page.
 
 QGIS current
 ------------
 
-The current QGIS package uses the `python.org Python 3.6 <http://www.python.org/>`_ - other distributions are not supported. Install packages in the numbered order.  Especially note that Python must be installed before the GDAL Complete package, else the GDAL Python modules will not be installed and some GDAL tools will not function.
+The current QGIS package uses the `python.org Python 3.6 <http://www.python.org/>`_, at least version 3.6.5, the "macosx10.9" build - other distributions are not supported. Install packages in the numbered order.  Especially note that Python must be installed before the GDAL Complete package and QGIS, else the GDAL and other needed Python modules will not be installed.
 
 QGIS stable
 -----------

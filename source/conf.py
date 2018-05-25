@@ -337,10 +337,10 @@ context = {
     'binary': binary,
     'ltrbinary': ltrbinary,
     'infeaturefreeze': infeaturefreeze,
-    'release_mac': '3.0.2',
-    'binary_mac': '2',
-    'ltrrelease_mac': '2.18.19',
-    'ltrbinary_mac': '2',
+    'release_mac': '3.0.3',
+    'binary_mac': '1',
+    'ltrrelease_mac': '2.18.20',
+    'ltrbinary_mac': '1',
     'stripeformurl': '/stripe/form'
 }
 
