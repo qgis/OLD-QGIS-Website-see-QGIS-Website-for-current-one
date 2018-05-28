@@ -57,3 +57,12 @@ German
 
 HSR material:
 http://giswiki.hsr.ch/QGIS-Materialien
+
+Czech
+.....
+
+QGIS for beginners:
+http://training.gismentors.eu/qgis-zacatecnik/
+
+QGIS for advanced users:
+http://training.gismentors.eu/qgis-pokrocily/
