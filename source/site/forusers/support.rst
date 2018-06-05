@@ -83,8 +83,8 @@ You can also get support from companies near you, please visit this page: :ref:`
 Forums
 ------
 
-QGIS does not have a forum. Please either search in StackExchange (see below),
-or via http://nabble.com in the history of our Mailinglists (see above).
+QGIS does not have a forum. Please either search in StackExchange (see :ref:`StackExchange`).
+or via http://nabble.com in the history of our Mailinglists (see :ref:`Mailing Lists`).
 
 For non-english, note that there also exist local forums that have a dedicated
 section for QGIS you may need to search in.
