@@ -251,21 +251,20 @@ provides installation, training, and implementation support for QGIS.
 
 ----
 
-.. |clear_mapping_co| image:: /static/site/about/images/clear_mapping_co.jpg 
-   :width: 75 px
-
-|clear_mapping_co| `Clear Mapping Co <http://www.clearmapping.co.uk/>`_ (based in Penryn, Cornwall, UK) is an award-winning international cartographic design consultancy. We create beautiful maps to improve efficiency in the workplace with an inclusive and sustainable design focus.
-Our bespoke GIS training courses in QGIS and other GIS software offer the opportunity to improve efficiency handling spatial data and creating clear maps.
-
-
-----
-
 .. |bev| image:: /static/site/about/images/bev.gif
    :width: 75 px
 
 |bev| `Bird's Eye View GIS <http://www.birdseyeviewgis.com/>`_ (Based in Albuquerque,
 New Mexico) provides commercial GIS services and support and training in QGIS,
 GRASS GIS and other FOSS GIS applications.
+
+----
+
+.. |clear_mapping_co| image:: /static/site/about/images/clear_mapping_co.jpg 
+   :width: 75 px
+
+|clear_mapping_co| `Clear Mapping Co <http://www.clearmapping.co.uk/>`_ (based in Penryn, Cornwall, UK) is an award-winning international cartographic design consultancy. We create beautiful maps to improve efficiency in the workplace with an inclusive and sustainable design focus.
+Our bespoke GIS training courses in QGIS and other GIS software offer the opportunity to improve efficiency handling spatial data and creating clear maps.
 
 ----
 
@@ -294,19 +293,12 @@ ecological analysis services and support and assistance with qgis.
 
 ----
 
-.. |karttakeskus| image:: /static/site/about/images/karttakeskus.png
+.. |claasleiner| image:: /static/site/about/images/claasleiner.png
    :width: 75 px
 
-|karttakeskus| `Karttakeskus <http://www.karttakeskus.fi/>`_ (based in Finland)
-provides commercial support and training for QGIS and open spatial data.
-
-----
-
-.. |soltig| image:: /static/site/about/images/soltig.png
-   :width: 75 px
-
-|soltig| `Soluciones en Tecnologías de Información Geográfica (SOLTIG)  <http://www.soltig.net/>`_
-(based in Costa Rica) provides training, support, consulting and programming for QGIS and other FOSS applications.
+|claasleiner| `GKG Kassel, Germany (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_
+provides training, services and support around the free geographic information systems QGIS,
+GRASS, SAGA and PostGIS as well as spatial data management, analysis and cartography.
 
 ----
 
@@ -315,6 +307,22 @@ provides commercial support and training for QGIS and open spatial data.
 
 |imt| `The Institute For Mapping Technology <http://learninggis.com/>`_ (based
 in Austin, TX) provides support and training for QGIS and PostGIS.
+
+----
+
+.. |karttakeskus| image:: /static/site/about/images/karttakeskus.png
+   :width: 75 px
+
+|karttakeskus| `Karttakeskus <http://www.karttakeskus.fi/>`_ (based in Finland)
+provides commercial support and training for QGIS and open spatial data.
+
+----
+
+.. |liviostump| image:: /static/site/about/images/liviostump.png
+   :width: 75 px
+
+|liviostump| `Livio Stump <http://www.liviostump.ch>`_ (based in Lucerne, Switzerland)
+provides commercial GIS consulting, support and training in QGIS.
 
 ----
 
@@ -339,20 +347,11 @@ support, cartography, and data analysis.
 
 ----
 
-.. |liviostump| image:: /static/site/about/images/liviostump.png
+.. |soltig| image:: /static/site/about/images/soltig.png
    :width: 75 px
 
-|liviostump| `Livio Stump <http://www.liviostump.ch>`_ (based in Lucerne, Switzerland)
-provides commercial GIS consulting, support and training in QGIS.
-
-----
-
-.. |claasleiner| image:: /static/site/about/images/claasleiner.png
-   :width: 75 px
-
-|claasleiner| `GKG Kassel, Germany (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_
-provides training, services and support around the free geographic information systems QGIS,
-GRASS, SAGA and PostGIS as well as spatial data management, analysis and cartography.
+|soltig| `Soluciones en Tecnologías de Información Geográfica (SOLTIG)  <http://www.soltig.net/>`_
+(based in Costa Rica) provides training, support, consulting and programming for QGIS and other FOSS applications.
 
 ----
 
@@ -373,13 +372,19 @@ GRASS GIS and FOSS GIS based SDI solutions.
 
 ----
 
+.. |terraplan| image:: /static/site/about/images/terraplan.png
+   :width: 75 px
+
+|terraplan| `Terraplan <http://www.terraplan.com/>`_
+(Schallstadt/Freiburg, Germany) provides training and GIS consulting for QGIS. The focus is on consulting for municipalities ranging from the introduction of QGIS until the full replacement of other commercial GIS solutions.
+
+----
+
 .. |terrestris| image:: /static/site/about/images/terrestris.png
    :width: 75 px
 
 |terrestris| `Terrestris <http://www.terrestris.de/dienstleistungen/schulungen/>`_
 (Bonn, Germany) provides commercial services and training for QGIS.
-
-
 
 ----
 
@@ -393,7 +398,6 @@ and services including "Location Centre" (a hosted Cloud-based GIS built from
 open source technologies). As a QGIS site, our team of geospatial experts use
 QGIS on a daily basis and provide QGIS Support to customers.  We also run
 regular QGIS and PostGIS Training courses.
-
 
 ----
 
