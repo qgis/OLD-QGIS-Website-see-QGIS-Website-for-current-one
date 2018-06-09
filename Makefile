@@ -133,7 +133,7 @@ output/html/version.txt: source/conf.py source/schedule.py
 fullhtml: pulldocsources html
 
 full: springclean
-	@if [ $(LANG) = "en" ]; then \
+	@-if [ $(LANG) = "en" ]; then \
 		echo; \
 	elif [ $(LANG) = "zh_CN" ]; then \
 		echo; \
