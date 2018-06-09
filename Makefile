@@ -133,14 +133,23 @@ output/html/version.txt: source/conf.py source/schedule.py
 fullhtml: pulldocsources html
 
 full: springclean
-	@-if [ $(LANG) != "en" ]; then \
+	@-if [ $(LANG) = "en" ]; then \
+		echo; \
+	elif [ $(LANG) = "zh_CN" ]; then \
+		echo; \
+		echo Pulling zh-Hans (Simplified) from transifex but renaming it to zh_CN; \
+		tx pull --minimum-perc=1 --skip -f -l zh-Hans; \
+		mv i18n/zh-Hans i18n/zh_CN; \
+	elif [ $(LANG) = "zh_TW" ]; then \
+		echo; \
+		echo Pulling zh-Hant (Traditional) from transifex but renaming it to zh_TW; \
+		tx pull --minimum-perc=1 --skip -f -l zh-Hant; \
+		mv i18n/zh-Hant i18n/zh_TW; \
+	else \
 		echo; \
 		echo Pulling $$LANG from transifex; \
-		# --minimum-perc=1 so only files which have at least 1% translation are pulled \
-		# -f to force, --skip to not stop with errors \
-		# -l lang \
 		tx pull --minimum-perc=1 --skip -f -l $$LANG; \
-        fi
+	fi
 	make html
 
 world: full
