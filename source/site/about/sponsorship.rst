@@ -32,11 +32,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Gold sponsors
 
+   * - |gold| |qgis-ch|
+       `QGIS user group Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2019)
+
    * - |gold| |vorarlberg|
        `Land Vorarlberg <http://www.vorarlberg.at/lvg>`_, Austria (11.2011-06.2018)
 
-   * - |gold| |qgis-ch|
-       `QGIS user group Switzerland <https://www.qgis.ch/>`_, Switzerland (06.2016-06.2018)
 
 
 .. |qgis-ch| image:: /static/site/about/images/qgis-ch.png
@@ -115,6 +116,12 @@ goes into the project. These sponsors are listed below with our thanks!
 
 .. list-table:: Bronze sponsors
 
+   * - |bronze| |dbg|
+
+       `Datenbankgesellschaft mbH <http://www.datenbankgesellschaft.de/>`_, Germany (06.2017-06.2019)
+     - |bronze| |thinkwhere|
+
+       `thinkWhere <https://thinkwhere.com/>`_, UK (05.2018-05.2019)
    * - |bronze| |CentralDenmarkRegion|
 
        `Region Midtjylland (Central Denmark Region) <http://www.rm.dk/om-os/english/regional-development/>`_, Denmark (05.2018-05.2019)
@@ -260,9 +267,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |LandPlanOS|
 
        `LandPlan OS GmbH <http://www.landplan-os.de/>`_, Germany (06.2017-06.2018)
-   * - |bronze| |dbg|
+   * - |bronze| |qgis-se|
 
-       `Datenbankgesellschaft mbH <http://www.datenbankgesellschaft.de/>`_, Germany (06.2017-06.2019)
+       `QGIS user group Sweden <http://qgis.se/>`_, Sweden (05.2017-05.2018)
      - |bronze| |Wagner-IT|
 
        `WAGNER-IT <http://www.wagner-it.de/>`_, Germany (06.2017-06.2018)
@@ -272,10 +279,9 @@ goes into the project. These sponsors are listed below with our thanks!
      - |bronze| |soltig|
 
        `SOLTIG (Soluciones en Tecnologías de Información Geográfica) <http://www.soltig.net/>`_, Costa Rica (06.2016-06.2018)
-   * - |bronze| |qgis-se|
 
-       `QGIS user group Sweden <http://qgis.se/>`_, Sweden (05.2017-05.2018)
-     - 
+.. |thinkwhere| image:: /static/site/about/images/thinkwhere.png
+   :width: 130 px
 
 .. |vgr| image:: /static/site/about/images/vgr.png
    :width: 130 px
