@@ -1,62 +1,62 @@
 # 
 # Translators:
-# RichardXIE <xiluoduyu@163.com>, 2013
-# sheriff, 2013
+# Sheriff X, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-11-27 15:36+0000\n"
-"Last-Translator: sheriff\n"
-"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/qgis-website/language/zh_CN/)\n"
+"PO-Revision-Date: 2017-09-22 17:13+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Chinese Simplified (http://www.transifex.com/qgis/qgis-website/language/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
+"Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/docs/index.rst:8
+#: ../../source/docs/index.rst:2
 msgid "Documentation"
 msgstr "帮助文档"
 
-#: ../../source/docs/index.rst:11
-msgid ""
-"QGIS has a lot of documentation, partly translated. Please have a look into "
-"one of the documents below."
-msgstr "QGIS 有很多英文帮助文档，部分已被翻译成其他语言。请浏览以下任意文档以获取帮助。"
+#~ msgid ""
+#~ "QGIS has a lot of documentation, partly translated. Please have a look into "
+#~ "one of the documents below."
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:15
-msgid "Documentation for QGIS 2.0"
-msgstr "QGIS 2.0帮助文档"
+#~ msgid "Documentation for QGIS 2.0"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:33
-msgid "Documentation for QGIS 1.8"
-msgstr "QGIS 1.8帮助文档"
+#~ msgid "Documentation for QGIS 1.8"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:28
-msgid ""
-"If you do not see working links to documentation above, it means that this "
-"documentation build did not copy the documentation sources into the website "
-"sources. You can also go to http://docs.qgis.org/2.0"
-msgstr "如果您发现上面的文档链接无效，说明网页源码中不包含该文档的副本。您还可以前往 http://docs.qgis.org/2.0"
+#~ msgid ""
+#~ "We keep a copy of the documentation of QGIS 1.8 around here: "
+#~ "http://docs.qgis.org/1.8"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:35
-msgid ""
-"We keep a copy of the documentation of QGIS 1.8 around here: "
-"http://docs.qgis.org/1.8"
-msgstr "我们保留了一份 QGIS 1.8 的文档在这里：http://docs.qgis.org/1.8"
+#~ msgid "Documentation for QGIS testing"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:48
-msgid "Documentation for QGIS testing"
-msgstr "QGIS 测试版帮助文档"
+#~ msgid ""
+#~ "Although not translated we also build the documentation for the release QGIS"
+#~ " which is currently developed. We call this version 'QGIS testing' and "
+#~ "documentation can be found here: http://docs.qgis.org/testing"
+#~ msgstr ""
 
-#: ../../source/docs/index.rst:50
-msgid ""
-"Although not translated we also build the documentation for the release QGIS"
-" which is currently developed. We call this version 'QGIS testing' and "
-"documentation can be found here: http://docs.qgis.org/testing"
-msgstr "尽管未作翻译，我们还是针对开发中的 QGIS 编写了帮助文档。我们称此版本为“QGIS 测试版”，帮助文档可以在这里找到：http://docs.qgis.org/testing"
+#~ msgid "Documentation for QGIS 2.2"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We keep a copy of the documentation of QGIS 2.0 around here: "
+#~ "http://docs.qgis.org/2.0"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you do not see working links to documentation above, it means that this "
+#~ "documentation build did not copy the documentation sources into the website "
+#~ "sources. You can also go to http://docs.qgis.org/2.0"
+#~ msgstr ""
 
 #~ msgid "Documentation for QGIS development/nightly"
 #~ msgstr ""

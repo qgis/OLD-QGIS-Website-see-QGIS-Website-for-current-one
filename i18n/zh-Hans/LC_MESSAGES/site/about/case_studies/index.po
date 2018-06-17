@@ -1,24 +1,26 @@
 # 
 # Translators:
+# zedong rong <rongzedong@msn.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-18 09:47+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/qgis-website/language/zh_CN/)\n"
+"POT-Creation-Date: 2017-08-08 11:00+0200\n"
+"PO-Revision-Date: 2018-05-20 14:26+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Chinese Simplified (http://www.transifex.com/qgis/qgis-website/language/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
+"Generated-By: Babel 2.3.4\n"
+"Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/site/about/case_studies/index.rst:8
+#: ../../source/site/about/case_studies/index.rst:5
 msgid "Case Studies"
-msgstr ""
+msgstr "案例分析"
 
-#: ../../source/site/about/case_studies/index.rst:11
+#: ../../source/site/about/case_studies/index.rst:7
 msgid ""
 "The QGIS project is always looking for people to publish QGIS case studies "
 "(user stories) on the QGIS website. Therefore we kindly ask institutions, "
@@ -27,51 +29,66 @@ msgid ""
 "live. Please contact the `QGIS community-team "
 "<http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_, if you want"
 " to send us your story."
-msgstr ""
+msgstr " QGIS网站一直在寻找关于使用 QGIS 项目  的具体案例和使用分享(用户故事、应用场景) . 欢迎 机构、大学、政府等QGIS的使用者， 写下使用QGIS过程中的体验和问题，我们团队对此时刻关注. 请联系 `QGIS 社区团队 （英文）<http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_, 如果你想向我们讲述你的故事（应用）."
 
-#: ../../source/site/about/case_studies/index.rst:13
+#: ../../source/site/about/case_studies/index.rst:9
 msgid "**Structure**"
-msgstr ""
+msgstr "**结构**"
 
-#: ../../source/site/about/case_studies/index.rst:15
+#: ../../source/site/about/case_studies/index.rst:11
 msgid ""
 "The stories should follow a simple structure and we suggest to write about "
 "800 words including one or two screenshots."
-msgstr ""
+msgstr "应用案例和场景需要提供简单的结构，我们建议不超过800字的介绍，最好包含两张以上的屏幕截图。"
 
-#: ../../source/site/about/case_studies/index.rst:17
+#: ../../source/site/about/case_studies/index.rst:13
 msgid "**Title**"
-msgstr ""
+msgstr "**标题**"
 
-#: ../../source/site/about/case_studies/index.rst:19
+#: ../../source/site/about/case_studies/index.rst:15
 msgid ""
 "Short Introduction with background of the company / institute / authority / "
 "university (length about 200 words). Story about your project/application "
 "and what QGIS is used for (length about 400 words plus screenshots) "
 "Conclusion showing positive experiences/benefits using QGIS (length about "
 "200 words)"
+msgstr "简短的背景介绍，关于您的公司、机构、政府、大学(建议不超过200字)，关于您的产品、应用以及QGIS在其中起到的作用(不超过400字，最好是带屏幕截图)使用体验和带来的好处(表扬QGIS一下，200字够不)"
+
+#: ../../source/site/about/case_studies/index.rst:20
+msgid "2017"
 msgstr ""
 
-#: ../../source/site/about/case_studies/index.rst:24
-msgid "List of Case Studies"
-msgstr ""
-
-#: ../../source/site/about/case_studies/index.rst:28
-msgid "2013"
-msgstr ""
+#: ../../source/site/about/case_studies/index.rst:29
+msgid "2016"
+msgstr "2016"
 
 #: ../../source/site/about/case_studies/index.rst:38
+msgid "2015"
+msgstr "2015"
+
+#: ../../source/site/about/case_studies/index.rst:50
+msgid "2014"
+msgstr "2014"
+
+#: ../../source/site/about/case_studies/index.rst:62
+msgid "2013"
+msgstr "2013"
+
+#: ../../source/site/about/case_studies/index.rst:74
 msgid "2012"
-msgstr ""
+msgstr "2012"
 
-#: ../../source/site/about/case_studies/index.rst:53
+#: ../../source/site/about/case_studies/index.rst:89
 msgid "2011"
-msgstr ""
+msgstr "2011"
 
-#: ../../source/site/about/case_studies/index.rst:64
+#: ../../source/site/about/case_studies/index.rst:100
 msgid "2010"
-msgstr ""
+msgstr "2010"
 
-#: ../../source/site/about/case_studies/index.rst:76
+#: ../../source/site/about/case_studies/index.rst:112
 msgid "2009"
-msgstr ""
+msgstr "2009"
+
+#~ msgid "List of Case Studies"
+#~ msgstr ""
