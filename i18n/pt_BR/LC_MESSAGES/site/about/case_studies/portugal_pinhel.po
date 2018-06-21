@@ -2,13 +2,14 @@
 # Translators:
 # Alexandre Neto <senhor.neto@gmail.com>, 2013
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013
+# Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-12-07 01:57+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-09-19 23:57+0000\n"
+"Last-Translator: Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -102,7 +103,7 @@ msgid ""
 "advantage of the modules offered by any of those softwares which aggregates."
 " So, we've created a model to automate the process of producing Forest Fire "
 "Hazard and Risk maps, using GRASS, SAGA, fTools and MMQGIS tools."
-msgstr "Para cumprir a segunda fase, nós usámos a versão Python do software Sextante, que trabalha integrado no QGIS e adicionámos um conjunto de aplicações independentes  (GRASS GIS, SAGA GIS, OTB, R, GDAL/OGR, Pymorph, LASTools, scripts Python, etc..) numa interface única, fornecendo uma ferramenta de geoprocessamento extensa para os utilizadores QGIS. Para além da integração das aplicações no QGIS, Sextante tem uma ferramenta de criação de modelos, tomado vantagem dos módulos oferecidos por qualquer software agregado. Portanto, nós criámos um modelo para automatizar o processo de produção dos mapas de Perigos e Risco de Incêndio Florestal, usando o GRASS, SAGA, fTools e as ferramentas MMQGIS."
+msgstr "Para cumprir a segunda fase, nós usamos a versão Python do software Sextante, que trabalha integrado no QGIS e adicionámos um conjunto de aplicações independentes  (GRASS GIS, SAGA GIS, OTB, R, GDAL/OGR, Pymorph, LASTools, scripts Python, etc..) numa interface única, fornecendo uma ferramenta de geoprocessamento extensa para os usuários do QGIS. Para além da integração das aplicações no QGIS, Sextante tem uma ferramenta de criação de modelos, tomado vantagem dos módulos oferecidos por qualquer software agregado. Portanto, nós criamos um modelo para automatizar o processo de produção dos mapas de Perigos e Risco de Incêndio Florestal, usando o GRASS, SAGA, fTools e as ferramentas MMQGIS."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:41
 msgid ""
@@ -156,7 +157,7 @@ msgid ""
 "FOSS4G solution, and whose project is more dynamic, with rapid correction of"
 " bugs and with almost daily implementation of new plugins that adds specific"
 " functionalities to the most diverse areas of activities."
-msgstr "O facto do software Código Aberto se basear em standards e de suportar a maioria dos formatos de dados, permite uma completa interoperabilidade entre softwares, possibilitando optar pelo que mais convier ao utilizador em cada momento. Apesar da proposta apontar um conjunto específico de softwares, nada impede que sejam substituídos por quaisquer alternativas existentes no vasto leque de propostas de software de código aberto para Sistemas de Informação Geográfica. Contudo, o QGIS apresenta-se cada vez mais como a solução FOSS4G de código aberto para SIG mais completa, estável e fácil de usar, e cujo projecto é mais dinâmico, com uma rápida correção de erros e uma implementação quase diária de novos plugins que adicionam funcionalidades específicas para as mais diversas áreas de actuação."
+msgstr "O facto do software Código Aberto se basear em standards e de suportar a maioria dos formatos de dados, permite uma completa interoperabilidade entre softwares, possibilitando optar pelo que mais convier ao usuário em cada momento. Apesar da proposta apontar um conjunto específico de softwares, nada impede que sejam substituídos por quaisquer alternativas existentes no vasto leque de propostas de software de código aberto para Sistemas de Informação Geográfica. Contudo, o QGIS apresenta-se cada vez mais como a solução FOSS4G de código aberto para SIG mais completa, estável e fácil de usar, e cujo projeto é mais dinâmico, com uma rápida correção de erros e uma implementação quase diária de novos plugins que adicionam funcionalidades específicas para as mais diversas áreas de atuação."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:53
 msgid "Author"

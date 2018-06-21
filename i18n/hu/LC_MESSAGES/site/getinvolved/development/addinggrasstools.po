@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-29 10:59+0200\n"
-"PO-Revision-Date: 2016-06-26 19:57+0000\n"
+"PO-Revision-Date: 2017-09-20 09:29+0000\n"
 "Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
@@ -238,7 +238,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:211
 msgid "Here is an example of a record for r.to.vect.line.qgm module"
-msgstr ""
+msgstr "Itt egy minta rekord az r.to.vect.line.qgm modulhoz"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:223
 msgid ""
@@ -260,7 +260,7 @@ msgstr "Általános szabályok a új modulokhoz"
 msgid ""
 "*GRASS Tools* are intended mostly for beginners and not very experienced "
 "users. The basic rules are:"
-msgstr ""
+msgstr "A *GRASS eszközök* elsősorban a kezdő felhasználóknak készültek és nem a nagyon tapasztaltaknak. Az alapszabályok a következők:"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:233
 msgid ""
@@ -325,7 +325,7 @@ msgstr "Kétségek esetén ellenőrizze a már létező, hasonló modult a köve
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:257
 msgid "Options which cannot be currently used"
-msgstr ""
+msgstr "Jelenleg nem használható beállítások"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:259
 msgid ""
@@ -337,7 +337,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:264
 msgid "OGR input dsn/layer (v.in.ogr)"
-msgstr ""
+msgstr "OGR input dsn/réteg (v.in.ogr)"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:268
 msgid "Modules which can be added"
@@ -348,7 +348,7 @@ msgid ""
 "Most modules have been added. If you need additional ones, please write to "
 "the qgis development mailing list, and list hereafter the modules you think "
 "are most important to be added."
-msgstr ""
+msgstr "A modulok többségét hozzáadtuk. Ha továbbiakra van szüksége írjon a QGIS fejlesztői levelező listára és sorolja fel az ön szerint legfontosabb hozzáadandó modulokat."
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:286
 msgid "Modules to be deprecated"
@@ -372,7 +372,7 @@ msgid ""
 "GRASS modules can be run from QGIS *GRASS Tools* if QGIS was started from a "
 "GRASS shell or if a GRASS mapset was opened from QGIS. The modules work with"
 " GRASS data only."
-msgstr ""
+msgstr "A GRASS modulok a QGIS *GRASS eszközök* közül futtathatók. Ha a QGIS-t a a GRASS burokból indította vagy ha egy GRASS térképhalmazt megnyitott a a QGIS-ből."
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:36
 msgid ""

@@ -6,14 +6,14 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-06-21 12:24+0000\n"
+"PO-Revision-Date: 2017-09-23 20:42+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: lt\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
 #: ../../source/site/forusers/support.rst:8
 msgid "Mailing Lists"
@@ -31,31 +31,31 @@ msgid ""
 "question`."
 msgstr "Jei ruošiatės klausti, prašome perskaityti šitą: :ref:`how-to-ask-a-QGIS-question`."
 
-#: ../../source/site/forusers/support.rst:45
+#: ../../source/site/forusers/support.rst:35
 msgid "Chat"
 msgstr "Pokalbiai"
 
-#: ../../source/site/forusers/support.rst:47
+#: ../../source/site/forusers/support.rst:37
 msgid "A lot of the development buzz will be spoken on IRC."
 msgstr "Vystymo darbai dažnai aptarinėjami IRC."
 
-#: ../../source/site/forusers/support.rst:37
+#: ../../source/site/forusers/support.rst:27
 msgid "StackExchange"
 msgstr "StackExchange"
 
-#: ../../source/site/forusers/support.rst:56
+#: ../../source/site/forusers/support.rst:46
 msgid "User Groups"
 msgstr "Naudotojų grupės"
 
-#: ../../source/site/forusers/support.rst:82
+#: ../../source/site/forusers/support.rst:72
 msgid "Issue Tracker"
 msgstr "Problemų sekiklis"
 
-#: ../../source/site/forusers/support.rst:88
+#: ../../source/site/forusers/support.rst:78
 msgid "Commercial Support"
 msgstr "Komercinis palaikymas"
 
-#: ../../source/site/forusers/support.rst:90
+#: ../../source/site/forusers/support.rst:80
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
@@ -69,22 +69,15 @@ msgstr "Ieškomi sąrašynai"
 msgid "Nabble (http://nabble.com) keeps a history of a lot of mailinglists."
 msgstr "Nabble (http://nabble.com) saugo pilną daugelio sąrašynų istoriją."
 
-#: ../../source/site/forusers/support.rst:20
-msgid ""
-"If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
-"you see there is a QGIS section also, where you can do a search over all "
-"QGIS lists, or refine it to eg only the users list."
-msgstr "Jei nueisite į osgeo sekciją: http://osgeo-org.1560.x6.nabble.com/ - ten rasite ir QGIS sekcija, čia galite ieškoti visuose QGIS sąrašynuose arba apriboti paiešką tarkim tik anglakalbiuose sąrašynuose."
-
-#: ../../source/site/forusers/support.rst:27
+#: ../../source/site/forusers/support.rst:84
 msgid "Forums"
 msgstr "Forumai"
 
-#: ../../source/site/forusers/support.rst:64
+#: ../../source/site/forusers/support.rst:54
 msgid "Website"
 msgstr "Svetainė"
 
-#: ../../source/site/forusers/support.rst:66
+#: ../../source/site/forusers/support.rst:56
 msgid ""
 "The website should be used to publish any material in relation to the "
 "information and management of the user group. Examples include the user "
@@ -96,7 +89,7 @@ msgid ""
 " the QGIS user group."
 msgstr "Svetainė turėtų būti naudojama bet kokios medžiagos, susijusios su naudotojų grupės informacija ir valdymu, viešinimui. Pavyzdžiui tai gali būti naudotojų susitikimai, naudojimo pavyzdžiai, bendra medžiaga, diskusijos ir pan. Vieša medžiaga turėtų būti prieinama be reikalavimo prisijungti (pavyzdžiui nereikia reikalauti, kad suinteresuoti asmenys būtų socialinių tinklų, tokių kaip Facebook ar Google+ nariai). Socialinių tinklų naudojimas rekomenduojamas, bet neturėtų būti vienintelis informacijos kanalas. RSS turėtų būti sukurti QGIS naudotojų grupės svetainėje."
 
-#: ../../source/site/forusers/support.rst:75
+#: ../../source/site/forusers/support.rst:65
 msgid ""
 "Good luck with the organization of your local user group. Please inform the "
 "international QGIS team by registering at the QGIS community list and "
@@ -104,7 +97,7 @@ msgid ""
 "regarding the establishment and maintenance of your local user group."
 msgstr "Sėkmės organizuojant jūsų vietinę naudotojų grupę. Prašome informuoti tarptautinę QGIS komandą prisiregistruojant QGIS bendruomenės sąrašyne ir pranešant apie jūsų progresą. Nebijokite klausti apie naudotojų grupės įkūrimą ir palaikymą."
 
-#: ../../source/site/forusers/support.rst:84
+#: ../../source/site/forusers/support.rst:74
 msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
 msgstr "Jei norite pranešti apie klaidas ar problemas, žiūrėkite :ref:`QGIS-bugreporting`."
 
@@ -112,27 +105,27 @@ msgstr "Jei norite pranešti apie klaidas ar problemas, žiūrėkite :ref:`QGIS-
 msgid "Support"
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:29
+#: ../../source/site/forusers/support.rst:86
 msgid ""
 "QGIS does not have a forum. Please either search in StackExchange (see "
 "below), or via http://nabble.com in the history of our Mailinglists (see "
 "above)."
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:32
+#: ../../source/site/forusers/support.rst:89
 msgid ""
 "For non-english, note that there also exist local forums that have a "
 "dedicated section for QGIS you may need to search in."
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:39
+#: ../../source/site/forusers/support.rst:29
 msgid ""
 "On http://gis.stackexchange.com you can ask QGIS questions also. If you use "
 "the tag ``qgis`` you'll see all QGIS related questions and answers: "
 "http://gis.stackexchange.com/?tags=qgis"
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:49
+#: ../../source/site/forusers/support.rst:39
 msgid ""
 "There is a #qgis channel on freenode.net. You can also use a web interface: "
 "http://webchat.freenode.net/?channels=#qgis If you missed a discussion on "
@@ -140,13 +133,26 @@ msgid ""
 "go to http://qgis.org/irclogs."
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:58
+#: ../../source/site/forusers/support.rst:48
 msgid "Local QGIS user groups are a great place to meet other users."
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:60
+#: ../../source/site/forusers/support.rst:50
 msgid "See :ref:`QGIS-usergroups` to read about it."
 msgstr ""
+
+#: ../../source/site/forusers/support.rst:20
+msgid ""
+"If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
+"you see there is a QGIS section also, where you can do a search over all "
+"QGIS lists, or refine it to e.g. only the users list."
+msgstr ""
+
+#~ msgid ""
+#~ "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
+#~ "you see there is a QGIS section also, where you can do a search over all "
+#~ "QGIS lists, or refine it to eg only the users list."
+#~ msgstr ""
 
 #~ msgid "QGIS Support"
 #~ msgstr ""

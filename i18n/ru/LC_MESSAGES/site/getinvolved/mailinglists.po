@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-06-21 12:26+0000\n"
+"PO-Revision-Date: 2017-09-19 19:59+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Russian (http://www.transifex.com/qgis/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
@@ -15,80 +15,25 @@ msgstr ""
 "Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
-#: ../../source/site/getinvolved/mailinglists.rst:14
-msgid "QGIS users list"
-msgstr "Пользовательский список рассылки QGIS"
-
-#: ../../source/site/getinvolved/mailinglists.rst:19
+#: ../../source/site/getinvolved/mailinglists.rst:23
 msgid "http://lists.osgeo.org/mailman/listinfo/qgis-user"
 msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-user"
 
-#: ../../source/site/getinvolved/mailinglists.rst:32
-msgid "QGIS developers list"
-msgstr "Список рассылки для разработчиков QGIS"
-
-#: ../../source/site/getinvolved/mailinglists.rst:34
-msgid ""
-"The main list for questions about the development of QGIS core or plugins"
-msgstr "Список рассылки для вопросов по разработке ядра QGIS или модулей"
-
-#: ../../source/site/getinvolved/mailinglists.rst:37
+#: ../../source/site/getinvolved/mailinglists.rst:33
 msgid "http://lists.osgeo.org/mailman/listinfo/qgis-developer"
 msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-developer"
 
-#: ../../source/site/getinvolved/mailinglists.rst:41
-msgid "QGIS community team"
-msgstr "Команда QGIS community team"
-
-#: ../../source/site/getinvolved/mailinglists.rst:48
+#: ../../source/site/getinvolved/mailinglists.rst:44
 msgid "http://lists.osgeo.org/mailman/listinfo/qgis-community-team"
 msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-community-team"
 
-#: ../../source/site/getinvolved/mailinglists.rst:52
-msgid "QGIS translation"
-msgstr "Перевод QGIS"
-
-#: ../../source/site/getinvolved/mailinglists.rst:58
+#: ../../source/site/getinvolved/mailinglists.rst:54
 msgid "http://lists.osgeo.org/mailman/listinfo/qgis-tr"
 msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-tr"
 
-#: ../../source/site/getinvolved/mailinglists.rst:62
-msgid "QGIS education"
-msgstr "Обучение QGIS"
-
-#: ../../source/site/getinvolved/mailinglists.rst:68
-msgid "http://lists.osgeo.org/pipermail/qgis-edu/"
-msgstr "http://lists.osgeo.org/pipermail/qgis-edu/"
-
-#: ../../source/site/getinvolved/mailinglists.rst:72
-msgid "QGIS release team"
-msgstr "Выпускающая команда QGIS"
-
-#: ../../source/site/getinvolved/mailinglists.rst:78
-msgid "http://lists.osgeo.org/mailman/listinfo/qgis-release-team"
-msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-release-team"
-
-#: ../../source/site/getinvolved/mailinglists.rst:82
-msgid "QGIS project steering community list"
-msgstr "Список рассылки управляющего комитета QGIS"
-
-#: ../../source/site/getinvolved/mailinglists.rst:87
+#: ../../source/site/getinvolved/mailinglists.rst:63
 msgid "http://lists.osgeo.org/mailman/listinfo/qgis-psc"
 msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-psc"
-
-#: ../../source/site/getinvolved/mailinglists.rst:23
-msgid "QGIS UX (User Experience) list"
-msgstr "Список рассылки пользовательского опыта QGIS"
-
-#: ../../source/site/getinvolved/mailinglists.rst:25
-msgid ""
-"A dedicated mailing list where people can chime in and collect and discuss "
-"QGIS related UX (User Experience) / usability issues."
-msgstr "Выделенный список рассылки, на который могут подписаться люди для сбора и обсуждения связанных с QGIS вопросов пользовательского опыта и юзабилити."
-
-#: ../../source/site/getinvolved/mailinglists.rst:28
-msgid "http://lists.osgeo.org/mailman/listinfo/qgis-ux"
-msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-ux"
 
 #: ../../source/site/getinvolved/mailinglists.rst:6
 msgid "Mailing lists"
@@ -101,13 +46,20 @@ msgid ""
 "the list by answering questions and sharing your experiences."
 msgstr ""
 
-#: ../../source/site/getinvolved/mailinglists.rst:16
+#: ../../source/site/getinvolved/mailinglists.rst:12
+msgid ""
+"Please don't use these mailing lists to advertise your services or training "
+"courses. Use your local user group mailing lists to inform your local "
+"community about training offers."
+msgstr ""
+
+#: ../../source/site/getinvolved/mailinglists.rst:20
 msgid ""
 "The main list for user questions: used for discussion of QGIS in general, as"
 " well as specific questions regarding its installation and use."
 msgstr ""
 
-#: ../../source/site/getinvolved/mailinglists.rst:43
+#: ../../source/site/getinvolved/mailinglists.rst:39
 msgid ""
 "This list deals with topics like documentation, user guide, web sites, blog,"
 " mailing lists, forums and translation efforts. If you want to work on the "
@@ -115,31 +67,102 @@ msgid ""
 "questions."
 msgstr ""
 
-#: ../../source/site/getinvolved/mailinglists.rst:54
+#: ../../source/site/getinvolved/mailinglists.rst:50
 msgid ""
 "This list deals with the translation efforts. If you want to work on the "
 "translation of the web site, the manuals or the graphical user interface "
 "(GUI), this list is a good starting point to ask your questions."
 msgstr ""
 
-#: ../../source/site/getinvolved/mailinglists.rst:64
-msgid ""
-"This list deals with QGIS education efforts. If you want to work on QGIS "
-"education materials, this list is a good starting point to ask your "
-"questions."
-msgstr ""
-
-#: ../../source/site/getinvolved/mailinglists.rst:74
-msgid ""
-"This list deals with topics like the release process, packaging binaries for"
-" various OSs and announcing new releases to the world at large."
-msgstr ""
-
-#: ../../source/site/getinvolved/mailinglists.rst:84
+#: ../../source/site/getinvolved/mailinglists.rst:60
 msgid ""
 "This list is used to discuss Steering Committee issues related to overall "
 "management and direction of QGIS."
 msgstr ""
+
+#: ../../source/site/getinvolved/mailinglists.rst:18
+msgid "QGIS Users list"
+msgstr ""
+
+#: ../../source/site/getinvolved/mailinglists.rst:27
+msgid "QGIS Developers list"
+msgstr ""
+
+#: ../../source/site/getinvolved/mailinglists.rst:37
+msgid "QGIS Community team"
+msgstr ""
+
+#: ../../source/site/getinvolved/mailinglists.rst:48
+msgid "QGIS Translations"
+msgstr ""
+
+#: ../../source/site/getinvolved/mailinglists.rst:58
+msgid "QGIS Project Steering Committee (PSC) list"
+msgstr ""
+
+#: ../../source/site/getinvolved/mailinglists.rst:29
+msgid ""
+"The main list for questions about the development of QGIS core or plugins. "
+"You can discuss about coding, build process, chime in, collect and discuss "
+"QGIS related UX (User Experience) / usability issues."
+msgstr ""
+
+#: ../../source/site/getinvolved/mailinglists.rst:66
+msgid "QGIS Web Client 2"
+msgstr ""
+
+#: ../../source/site/getinvolved/mailinglists.rst:68
+msgid ""
+"This list is used to get help for setting up `QGIS Web Client 2 (QWC2) "
+"<https://github.com/qgis/qwc2-demo-app>`_ and discuss future development of "
+"QWC2."
+msgstr ""
+
+#: ../../source/site/getinvolved/mailinglists.rst:71
+msgid "http://lists.osgeo.org/mailman/listinfo/qgis-qwc2"
+msgstr ""
+
+#~ msgid ""
+#~ "The main list for questions about the development of QGIS core or plugins"
+#~ msgstr ""
+
+#~ msgid "QGIS users list"
+#~ msgstr ""
+
+#~ msgid "QGIS developers list"
+#~ msgstr ""
+
+#~ msgid "QGIS community team"
+#~ msgstr ""
+
+#~ msgid "QGIS translation"
+#~ msgstr ""
+
+#~ msgid "QGIS education"
+#~ msgstr ""
+
+#~ msgid "http://lists.osgeo.org/pipermail/qgis-edu/"
+#~ msgstr ""
+
+#~ msgid "QGIS release team"
+#~ msgstr ""
+
+#~ msgid "http://lists.osgeo.org/mailman/listinfo/qgis-release-team"
+#~ msgstr ""
+
+#~ msgid "QGIS project steering community list"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This list deals with QGIS education efforts. If you want to work on QGIS "
+#~ "education materials, this list is a good starting point to ask your "
+#~ "questions."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This list deals with topics like the release process, packaging binaries for"
+#~ " various OSs and announcing new releases to the world at large."
+#~ msgstr ""
 
 #~ msgid "Mailinglists"
 #~ msgstr ""
@@ -154,4 +177,15 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "List for translators of either the website, or the QGIS itself"
+#~ msgstr ""
+
+#~ msgid "QGIS UX (User Experience) list"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A dedicated mailing list where people can chime in and collect and discuss "
+#~ "QGIS related UX (User Experience) / usability issues."
+#~ msgstr ""
+
+#~ msgid "http://lists.osgeo.org/mailman/listinfo/qgis-ux"
 #~ msgstr ""

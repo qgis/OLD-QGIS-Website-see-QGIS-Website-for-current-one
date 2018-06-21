@@ -1,22 +1,23 @@
 # 
 # Translators:
+# Andrey Golovin, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-08-19 07:00+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-09-20 01:09+0000\n"
+"Last-Translator: Andrey Golovin\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: uk\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
 #: ../../source/site/getinvolved/about.rst:4
 msgid "Contact"
-msgstr "Зворотний зв'язок"
+msgstr "Зв'язок"
 
 #: ../../source/site/getinvolved/about.rst:6
 msgid "You can contact us via :ref:`QGIS-mailinglists`"
@@ -30,11 +31,11 @@ msgstr "Про сайт"
 msgid ""
 "This site is build using Sphinx and both sources and instructions are found "
 "here: https://github.com/qgis/QGIS-Website"
-msgstr "Цей сайт побудований за допомогою Sphinx, вихідні коди та інструкції знаходяться тут https://github.com/qgis/QGIS-Website."
+msgstr "Цей сайт побудований за допомогою Sphinx, сирці та інструкції знаходяться тут https://github.com/qgis/QGIS-Website."
 
 #: ../../source/site/getinvolved/about.rst:15
 msgid ""
 "If you find problems or errors, you can either create an issue here "
 "https://github.com/qgis/QGIS-Website/issues or sent a mail to the QGIS-"
 "community mailinglist qgis-community-team@lists.osgeo.org"
-msgstr "Якщо ви знайшли помилку або зіткнулися з проблемою, залишите повідомлення тут https://github.com/qgis/QGIS-Website/issues або надішліть листа до списку розсилки QGIS-community за адресою qgis-community-team@lists.osgeo.org."
+msgstr "Якщо ви знайшли помилку або зіткнулися з проблемою, залиште повідомлення тут https://github.com/qgis/QGIS-Website/issues або надішліть листа до списку розсилки QGIS-community за адресою qgis-community-team@lists.osgeo.org."

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-01-20 07:15+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-12-04 03:43+0000\n"
+"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +24,7 @@ msgid ""
 "constitutes the “Nameri National Park” is bound by River Jia-Bhoreli on the "
 "west and River Bor-Dikorai in the east. To the north of the Nameri lies the "
 "Pakke Tiger Reserve of Arunachal Pradesh."
-msgstr ""
+msgstr "NAMERIトラ保護区（NTR）は、アッサムの3つの虎の埋蔵の一つであり、それは東ヒマラヤ山脈の麓に沿っアッサムのSonitpur地区の北部に位置しています。344平方キロの面積に広がる、NTRは動植物の豊かな多様性を誇っています。「NAMERI国立公園」を構成する予備のコアエリアは東の西と川ボル-Dikoraiに川嘉Bhoreliに拘束されています。NAMERIの北にアルナーチャル・プラデーシュ州のPakkeトラ保護区があります。"
 
 #: ../../source/site/about/case_studies/india_assam.rst:12
 msgid ""
@@ -33,11 +34,11 @@ msgid ""
 "and several other species. The bird diversity of NTR is also quite "
 "impressive and more than 370 bird species have been identified so far. The "
 "reserve is managed by the Assam Forest Department, Government of Assam."
-msgstr ""
+msgstr "この風景の中で、環境保全の重要性の主要な種はロイヤルベンガルトラ、アジアゾウ、インドのバイソン、共通のヒョウ、ウンピョウ、ワイルドドッグ、サンバー鹿、吠え鹿、豚、鹿、イノシシや他のいくつかの種です。NTRの鳥の多様性にも非常に印象的で、370以上の鳥種はこれまでに同定されています。準備金は、アッサムのアッサム森林局、政府によって管理されています。"
 
 #: ../../source/site/about/case_studies/india_assam.rst:15
 msgid "Application of QGIS for designing camera trap study"
-msgstr ""
+msgstr "カメラトラップ調査を設計するためのQGISの応用"
 
 #: ../../source/site/about/case_studies/india_assam.rst:17
 msgid ""
@@ -47,17 +48,17 @@ msgid ""
 " pairs of cameras will be installed for 100 sq km of tiger reserve and the "
 "sampling period is 40-60 days. This new tiger monitoring protocol relies "
 "heavily on the GIS."
-msgstr ""
+msgstr "2011年から開始し、インドのナショナル・トラ保護庁（NTCA）は、必須の国のすべてのトラ保護区がカメラトラップを使用してトラを監視するために作られました。この新しいプロトコルの下では、カメラの25ペアは、トラ保護区の100平方キロのためにインストールされ、サンプリング周期は40〜60日です。この新しい虎の監視プロトコルは、GISに大きく依存しています。"
 
 #: ../../source/site/about/case_studies/india_assam.rst:24
 msgid "Picture of a male tiger that was captured in one of the camera traps"
-msgstr ""
+msgstr "カメラトラップの一つで捕獲されたオスのトラの絵"
 
 #: ../../source/site/about/case_studies/india_assam.rst:31
 msgid ""
 "Block wise distribution of camera trap locations and assigning camera traps "
 "to different forest camps by using voronoi polygons & hub distance."
-msgstr ""
+msgstr "カメラトラップ位置の賢明な分布をブロックし、ボロノイ多角形＆ハブ距離を使用して、異なる森キャンプにカメラトラップを割り当てます。"
 
 #: ../../source/site/about/case_studies/india_assam.rst:33
 msgid ""
@@ -80,15 +81,15 @@ msgid ""
 "and occupancy modelling of other species. These coordinate details were "
 "easily generated from camera trap shape files by using the “Export/ add "
 "geometry columns” feature of vector Geometry tools."
-msgstr ""
+msgstr "次はmmqgisプラグインを使用して4平方キログリッドレイヤーを用意しました。符号の調査の結果を含むシェープファイルはNTRにおけるカメラトラップの分布を可視化するために4平方グリッド上に重ねました。ベクター分析ツールの下の距離行列のオプションは、インターカメラの距離を決定するための非常に便利でした。未満1.8キロ間距離を有するカメラ位置は、監視プロトコルに準拠するように除去しました。原因一度全体リザーブエリアを監視するのに十分なカメラが不足していたため、私たちは100平方キロ、それぞれの2つのブロックにリザーブ領域を分割することを決めました。これらのブロックの境界は、デジタル化され、両方のブロックに別々のシェープファイルとして保存されていました。RGB組成プラグインを使用して、予備の偽色の複合が作成され、符号測量形状ファイルは虎で使用される生息地のタイプを評価するために重ねました。試験期間中は、カメラトラップは、現場スタッフによって集中的に監視する必要があります。監視プロセスの円滑な機能を確保するために、私たちは、ロジスティックの要件を計画するためのmmqgisプラグインのジオメトリツールおよびハブ距離のボロノイ多角形の機能を使用していました。カメラトラップの地理座標は、トラの密度および他の種の占有モデルを推定するために必要とされます。これらの座標の詳細は簡単にベクタージオメトリツールの「エクスポート/ジオメトリ列を追加」機能を使って、カメラトラップのシェープファイルから生成されました。"
 
 #: ../../source/site/about/case_studies/india_assam.rst:41
 msgid "Survey grids with tiger presence"
-msgstr ""
+msgstr "調査では、トラの存在とグリッド"
 
 #: ../../source/site/about/case_studies/india_assam.rst:44
 msgid "Conclusion"
-msgstr ""
+msgstr "結論"
 
 #: ../../source/site/about/case_studies/india_assam.rst:50
 msgid "Author"
@@ -96,20 +97,20 @@ msgstr "制作者"
 
 #: ../../source/site/about/case_studies/india_assam.rst:57
 msgid "Rajendra Garawad"
-msgstr ""
+msgstr "Rajendra Garawad"
 
 #: ../../source/site/about/case_studies/india_assam.rst:59
 msgid ""
 "This article was contributed by Rajendra G. Garawad in March 2013. He is the"
 " Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
 "Degrees in Forestry Science and Conservation & Land Management."
-msgstr ""
+msgstr "この記事では、彼はNAMERIトラ保護区、アッサム、インドのフィールドディレクターである2013年3月にラジェンドラ・G. Garawadによって寄贈されました。彼は森林科学と保全＆土地管理のマスターの学位を保持しています。"
 
 #: ../../source/site/about/case_studies/india_assam.rst:3
 msgid ""
 "QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
 "Assam, India Sonitpur District)"
-msgstr ""
+msgstr "(NAMERIトラ保護区、アッサム、インドSonitpur地区におけるカメラトラップを使用して）トラを監視するためのQGIS"
 
 #: ../../source/site/about/case_studies/india_assam.rst:26
 msgid ""
@@ -123,7 +124,7 @@ msgid ""
 "transferred to QGIS using GPS tools for further processing and for "
 "finalizing camera trap locations. A shape file containing the tiger signs "
 "and probable camera trap locations was prepared."
-msgstr ""
+msgstr "2012-13中、当社はQGISを使ってNTRでこの新しい虎の監視プロトコルを実装しました。まず、私たちはQGISでNTR境界をデジタル化し、多角形としてそれを救いました。この境界ポリゴンは現地調査の際に、ナビゲーションの目的のためにGPSに輸出されました。私たちは、虎の存在などpugmarks、スクラッチマークや糞の証拠のためのNTRで豊富な看板調査を実施しました。タイガー徴候並びにカメラトラップに適した場所のGPS座標を記録しました。調査の完了後、データは、さらなる処理のために、カメラトラップの位置を確定するためのGPSツールを使用してQGISに移しました。虎の兆候と考えられるカメラトラップの位置を含む形状ファイルを作成しました。"
 
 #: ../../source/site/about/case_studies/india_assam.rst:46
 msgid ""
@@ -140,7 +141,7 @@ msgid ""
 "software. We believe that QGIS has great potential for empowering "
 "individuals/institutions/ involved in conserving endangered wildlife in the "
 "developing world by offering GIS technology at little or no cost."
-msgstr ""
+msgstr "北東インドのこの小さなトラ保護区の歴史の中で初めて、主な理由はQGISのカメラトラップを使用してトラを監視することが可能でした。このモニタリング演習の結果は、この風景の中8-15トラの存在を示します。トラに加えて、いくつかとらえどころのない種も写真的に文書化されています。別に虎の監視から、私たちはまた、そのような計画の生息地管理工事などの活動のためにQGISを使ってパトロールスケジュールを見直して、訪問者のための地図を設計しています。ユーザーフレンドリーなインターフェイス、豊富な機能、綿密なドキュメント、オンラインサポートおよびフリー/オープンソースの理念は、私たちは他のプロプライエタリなソフトウェアを介して、それを選択するために作られたQGISのいくつかの資質です。私たちは、QGISがほとんど、あるいはまったくコストでGIS技術を提供することにより、発展途上国の絶滅危惧野生生物の保全に関与した個人/機関を/力づけるための大きな可能性を秘めていると信じています。"
 
 #~ msgid "QGIS for monitoring tigers"
 #~ msgstr ""

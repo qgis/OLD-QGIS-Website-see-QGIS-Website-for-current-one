@@ -1,14 +1,14 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2014
-# Narcélio de Sá <narceliosapereira@gmail.com>, 2015
+# Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-02-22 11:32+0100\n"
-"PO-Revision-Date: 2015-09-27 16:20+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-09-20 03:45+0000\n"
+"Last-Translator: Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -62,7 +62,7 @@ msgid ""
 "interface to search and refer to (Figure 2). Data concerning photogram code "
 "were stored in attribute table fields than, by field calculator, a “Link” "
 "field was created storing photograms’ file paths."
-msgstr "Cada pegada é desenhado para cada plano de voo fornecido, no seus atributos, com os códigos anteriores de forma a ligar à shapefile dos fotogramas digitalizados, pelo o uso do módulo eVis (Horning et al, 2009), e permite uma interface amigável ao utilizador para pesquisar e consultá-lo (Figura 2). Os dados pertencentes ao código do fotograma são armazenados nos campos da tabela de atributos, e de seguida, pelo calculador de campos, um campo \"Ligação\" foi criado para armazenar os caminhos dos ficheiros dos fotogramas."
+msgstr "Cada pegada é desenhado para cada plano de voo fornecido, no seus atributos, com os códigos anteriores de forma a ligar à shapefile dos fotogramas digitalizados, pelo o uso do módulo eVis (Horning et al, 2009), e permite uma interface amigável ao usuário para pesquisar e consultá-lo (Figura 2). Os dados pertencentes ao código do fotograma são armazenados nos campos da tabela de atributos, e de seguida, pelo calculador de campos, um campo \"Ligação\" foi criado para armazenar os caminhos dos ficheiros dos fotogramas."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:30
 msgid "Photogram display (eVis Plugin)"
@@ -81,7 +81,7 @@ msgid ""
 "out selected photogram and simply display them with the previously described"
 " tool or extract, by their filenames and path, photograms’ files for further"
 " processing."
-msgstr "Além disso, devido à quantidade de dados pesquisáveis foi criado uma interface de pesquisa geográfica. Graças às capacidades do modelador gráfico (no Processamento, antigo módulo SEXTANTE) a ferramenta desenvolvida, por diferentes selecções de máscara e caixas de entrada, permite que o utilizador seleccione entre três camadas (limites administrativos, folhas de mapa e rios), encontrar elemento por consulta na tabela e e utilizar a consulta espacial de um plano de voo digitalizado com o objectivo de intersectar as pegadas dos fotogramas como o elemento seleccionado (Figura 3). Com este procedimento, é portanto possível apontar o fotograma seleccionado e simplesmente exibi-los com a ferramenta anteriormente descrita ou extrair os ficheiro dos fotogramas pelos seus nomes de ficheiros ou caminho para processamento adicional."
+msgstr "Além disso, devido à quantidade de dados pesquisáveis foi criado uma interface de pesquisa geográfica. Graças às capacidades do modelador gráfico (no Processamento, antigo módulo SEXTANTE) a ferramenta desenvolvida, por diferentes seleções de máscara e caixas de entrada, permite que o usuário selecione entre três camadas (limites administrativos, folhas de mapa e rios), encontrar elemento por consulta na tabela e e utilizar a consulta espacial de um plano de voo digitalizado com o objectivo de intersectar as pegadas dos fotogramas como o elemento selecionado (Figura 3). Com este procedimento, é portanto possível apontar o fotograma selecionado e simplesmente exibi-los com a ferramenta anteriormente descrita ou extrair os ficheiro dos fotogramas pelos seus nomes de ficheiros ou caminho para processamento adicional."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:39
 msgid ""

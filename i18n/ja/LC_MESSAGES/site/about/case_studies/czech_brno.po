@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-01-20 07:15+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-10-11 08:23+0000\n"
+"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/czech_brno.rst:6
 msgid "Introduction"
-msgstr ""
+msgstr "はじめに"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:8
 msgid ""
@@ -26,70 +27,70 @@ msgid ""
 "business and hotel management. LEAG is focused on modeling socio-economic "
 "spatial processes, analyzing spatial patterns, describing and monitoring the"
 " reality of localities and regions."
-msgstr ""
+msgstr "ブルノ、チェコ共和国での実験と応用地理（LEAG）はホテルとビジネス経営学部の一部であり、株式会社の研究所の観光、ビジネス、ホテル経営で高い教育を提供しています（VysokáSKOLAobchodníAhotelová、SRO）。LEAGは、社会経済的、空間的プロセスをモデル化する空間パターンを分析し、地方及び地域の現実を記述および監視に焦点を当てています。"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:15
 msgid "QGIS while modeling 3D objects (interpolation), terrain analysis"
-msgstr ""
+msgstr "QGISは、3Dオブジェクト（補間）をモデル化しながら、地形分析"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:20
 msgid "Use of QGIS"
-msgstr ""
+msgstr "QGISの使用"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:22
 msgid ""
 "QGIS is the leading software and stands in current versions (because of the "
 "“experimental” character of LEAG we are using the latest unstable releases "
 "instead of LTS versions) for several reasons:"
-msgstr ""
+msgstr "QGISは、主要なソフトウェアであり、いくつかの理由で（なぜなら私たちは、最新の不安定なリリースの代わりに、LTSバージョンを使用しているLEAGの「実験」の文字の）現在のバージョンに立っています："
 
 #: ../../source/site/about/case_studies/czech_brno.rst:24
 msgid "Graphical User Interface (close to commercial products)"
-msgstr ""
+msgstr "グラフィカルユーザーインタフェース（商用製品に近いです）"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:25
 msgid "Quick development and integrating user-wanted features"
-msgstr ""
+msgstr "クイック開発およびユーザー欲しかった機能を統合"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:26
 msgid ""
 "Stability and interoperability (we are using Windows and Ubuntu Linux "
 "platforms)"
-msgstr ""
+msgstr "安定性と相互運用性（WindowsとUbuntu Linuxプラットフォームを使用しています）"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:27
 msgid "Others (mentioned e.g. in the case study written by Dr. Horst Düster)"
-msgstr ""
+msgstr "その他（HorstDüster博士による事例研究など）"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:31
 msgid "Modeling patterns between spatial location and inhabitants"
-msgstr ""
+msgstr "空間的位置と住民との間のモデリングパターン"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:32
 msgid ""
 "Creating 3D models for terrain visualization (and further use as hill-"
 "shadowing)"
-msgstr ""
+msgstr "地形の可視化（および丘シャドウイングとしてさらに使用）のための3Dモデルを作成します"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:33
 msgid ""
 "Storing, creating and editing database of small and medium enterprises (+ "
 "further visualization)"
-msgstr ""
+msgstr "、格納作成および編集中小企業のデータベース（+さらに可視化）"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:34
 msgid ""
 "Homogenizing of free-to-use geodata and creation of “geo-data-bank” for "
 "students and researchers at College of Business and Hotel Management"
-msgstr ""
+msgstr "ビジネスやホテルマネジメント学部の学生や研究者のための「ジオデータバンク」の自由に使用できる地理データと作成の均質化"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:45
 msgid "Using diagrams comparing population between two censuses"
-msgstr ""
+msgstr "2回のセンサス間人口を比較した図を用いて"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:48
 msgid "Conclusion"
-msgstr ""
+msgstr "結論"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:53
 msgid "Author"
@@ -97,7 +98,7 @@ msgstr "制作者"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:60
 msgid "Jakub Trojan"
-msgstr ""
+msgstr "Jakub Trojan"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:62
 msgid ""
@@ -106,13 +107,13 @@ msgid ""
 " CZ) where he founded and leads Laboratory on Experimental and Applied "
 "Geography. He is also a doctoral student at Institute of Geography, Faculty "
 "of Science, Masaryk university (Brno, CZ)."
-msgstr ""
+msgstr "この記事は、ヤクブトロイの木馬によって2010年11月に寄贈されました。彼は、彼が設立され、実験と応用地理上の研究所をリードしてビジネスの専門学校やホテルマネジメント株式会社（ブルノ、CZ）での学術研究者です。彼はまた、地理研究所、理学部、マサリク大学（ブルノ、CZ）で博士課程の学生です。"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:3
 msgid ""
 "QGIS as major GIS software in the Laboratory on Experimental and Applied "
 "Geography"
-msgstr ""
+msgstr "実験と応用地理研究所の主要なGISソフトウェアとしてQGIS"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:17
 msgid ""
@@ -123,13 +124,13 @@ msgid ""
 "source SW such as LibreOffice, GIMP, Inkscape and QGIS. QGIS does not stand "
 "alone –-- we use MapWindow, OpenJump, gvSIG, SAGA and others. But QGIS plays"
 " the major role."
-msgstr ""
+msgstr "LEAGはビジネスやホテル経営学部で開催された学術研究において重要な役割を果たしています。空間モデリングの必要性にも優れたソフトウェアが必要です。最小のコストと最大効率の哲学は、オープンソース・ソリューションの選択につながりました。このステップは、LibreOfficeの、GIMP、InkscapeのとQGISとしてコアオープンソースSWを使用して得られました。QGISは、私たちがMapWindow、OpenJump、gvSIG、SAGAなどを使用---一人で立っていません。しかし、QGISは大きな役割を果たしています。"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:29
 msgid ""
 "Spatial analysis are done mainly using basic geoprocessing functions and "
 "Python-based plugins. Recent projects where QGIS was used:"
-msgstr ""
+msgstr "空間解析は、基本的なジオプロセシング機能とPythonベースのプラグインを使用して主に行われます。QGISを使用した最近のプロジェクト："
 
 #: ../../source/site/about/case_studies/czech_brno.rst:36
 msgid ""
@@ -137,7 +138,7 @@ msgid ""
 "final layout is mostly create using Inkscape or GIMP (less in LibreOffice "
 "Draw). Web-based maps are editing using Inkscape (after SVG export) and "
 "raster maps are pre-edited using GIMP."
-msgstr ""
+msgstr "QGISは、他のオープンソース製品への相乗効果で使用されています。例えば、最終的なレイアウトは、ほとんどのInkscapeまたはGIMP（LibreOfficeのドローが少ない）を使用して作成されます。Webベースのマップは、（SVGのエクスポート後）のInkscapeを使って編集しているとラスタマップはGIMPを使用して事前に編集されています。"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:38
 msgid ""
@@ -147,7 +148,7 @@ msgid ""
 " used as main platform for teaching students how to use GIS and how to "
 "produce high-quality maps. Recently, the QGIS was used as main product "
 "during GIS Day held at our school on November 2010."
-msgstr ""
+msgstr "QGISはまた、偉大な教育ツールです。ビジネスやホテル経営学部は、「地理情報システムI.及びII」のような学生の科目を提供していますかQGISは高品質のマップを生成するためにGISを使用し、どのようにする方法を学生に教えるための主要プラットフォームとして使用されている「地球情報学リテラシーから選択の章」 。最近、QGISは2010年11月に私たちの学校で開催されたGISの日中の主な製品として使用されました。"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:50
 msgid ""
@@ -158,7 +159,7 @@ msgid ""
 "seen in education --- QGIS is the first software, which is presented to "
 "students. During regular workshops students learn how to legally work with "
 "QGIS and how to create their own maps."
-msgstr ""
+msgstr "無償かつ高効率で実験的に研究および応用地理学は、高品質の分析、地図や視覚化を生成します。QGIS大規模なデータベースを使用すると、作成されており、新機能の更なるテストが行​​われています。最後に、QGISを使って最高の影響の一つは、教育に見ることができる--- QGISは、学生に提示された最初のソフトウェアです。定期的なワークショップの間、学生が合法的にQGISとどのように自分のマップを作成すると動作する方法を学びます。"
 
 #~ msgid "QGIS as major GIS software in the Laboratory"
 #~ msgstr ""

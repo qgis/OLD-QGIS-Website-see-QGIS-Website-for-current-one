@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-01-20 07:15+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-12-04 03:36+0000\n"
+"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +19,7 @@ msgstr ""
 msgid ""
 "QGIS and GRASS for modelling ecological corridors for wolves in North "
 "Portugal"
-msgstr ""
+msgstr "北ポルトガルのオオカミの生態系回廊をモデル化するためのQGISとGRASS"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:5
 msgid ""
@@ -28,11 +29,11 @@ msgid ""
 "“vulnerable” species in Spain and “endangered” in Portugal. Nowadays, there "
 "are only around 300 wolves in Portugal,  due to the high persecution, "
 "destruction and fragmentation of the habitat."
-msgstr ""
+msgstr "イベリア狼はドウロ川の南に小さな孤立グループと、のみポルトガルおよびスペインの北に存在するオオカミの亜種です。前世紀の間に、それはスペインで、「脆弱な」種であることとポルトガルで「絶滅危惧」、高い回帰を負いました。今日では、わずか約300オオカミは高い迫害のためにポルトガル、生息地の破壊や断片化があります。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:12
 msgid "Study area in Portugal"
-msgstr ""
+msgstr "ポルトガルの学習エリア"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:14
 msgid ""
@@ -44,14 +45,14 @@ msgid ""
 "verdant Minho, Ribeira de Pena is one of the municipalities that can work "
 "like an ecological corridor between areas with higher wolf concentration in "
 "the north with lower concentration in the south."
-msgstr ""
+msgstr "リベイラ・デ・ペーニャは、ポルトガル北部のヴィラレアル地区の自治体です。これは、オオカミのための避難所及び食品を提供する低密度ヒトとともに、農業、放牧畜産、森林、山、谷及び多様な動物相によって特徴付け農村自治体、、です。過酷な山岳トラスオスモンテスと緑ミーニョ間の遷移ゾーンに位置し、リベイラデペナは、より低い濃度で北に高い狼濃度を有する領域間の生態学的回廊のように動作することができる自治体の一つであります南。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:16
 msgid ""
 "I started using GIS software during my biology course, and more often during"
 " my master thesis. At that time I used mainly proprietary software. After I "
 "finished my master degree, I lost access to the proprietary software."
-msgstr ""
+msgstr "私は生物学のコース中にGISソフトウェアを使用して開始し、より頻繁に私の修士論文中。その時私は、主に独自のソフトウェアを使用していました。私は私の修士号を終えた後、私は、プロプライエタリなソフトウェアへのアクセスを失いました。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:18
 msgid ""
@@ -64,17 +65,17 @@ msgid ""
 "already knew. I quickly realized how mistaken I was, and got really "
 "enthusiastic with the analytical capabilities QGIS provided, specially with "
 "GRASS integration."
-msgstr ""
+msgstr "一方、私は、Linuxの新しい世界に入りました。彼らはこの種のソフトウェアで働いたことがないので、その後、私は、GISを使用して、リベイラ・デペーニャでオオカミのための生態回廊をモデル化するために、いくつかの研究者を支援するために接触させました。私はすでにWindowsではなくLinuxを使用していたので、私の最初の問題は、使用するソフトウェアがしました。それから私は、QGISの話を聞いて、私はすでに知っていたものに比較すると、それは、非常に単純かつ不完全に見えたが、それを試してみることにしました。私はすぐに私がいかに間違って実現され、特別にGRASSの統合を提供分析能力のQGISで本当に熱心です。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:39
 msgid ""
 "Ecological corridors and critical conservation areas for wolves in northern "
 "Portugal."
-msgstr ""
+msgstr "ポルトガル北部のオオカミの生態系回廊と重要な保護区域。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:42
 msgid "Conclusion"
-msgstr ""
+msgstr "結論"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:44
 msgid ""
@@ -85,7 +86,7 @@ msgid ""
 "source software, usable in every computer or notebook without licenses, "
 "constant upgrades and the ultimate advantage to contribute to it's "
 "improvement and/or tip the developers about some essential function."
-msgstr ""
+msgstr "すべての重要な機能は、ほとんどの分析を実行するとQGISとプラグインGRASSの両方が、ユーザーフレンドリーなインターフェイスと非常に直感的です。私が見ることができるもの、QGISとGRASSが均等だけでなく、私はほとんど、無料のオープンソースソフトウェアの大きな利点で、大学時代からの精通ライセンスなしですべてのコンピュータやノートブックで使用可能な、一定のアップグレードとした独自のプログラムを実行するための究極の利点はそれの向上に寄与、および/またはいくつかの重要な機能については、開発者が先端まで。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:46
 msgid ""
@@ -93,7 +94,7 @@ msgid ""
 "although there can be some missing issues, easily resolved in the future "
 "with the developers, I don't regret my decision and advise everyone to use "
 "them."
-msgstr ""
+msgstr "Linuxへ、その後、QGISとGRASSに変更するには、私の最高のコールの一つであった、と簡単に開発者と、将来的に解決され、いくつかの不足している問題を、そこにすることができますが、私は私の決断を後悔し、それらを使用するすべての人に助言するものではありません。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:49
 msgid "Author"
@@ -104,7 +105,7 @@ msgid ""
 "This article was contributed in July 2012 by Monica Almeida. She is "
 "conservation biologist working in an non-governmental organization in the "
 "preservation of wolf in Portugal."
-msgstr ""
+msgstr "この記事は、モニカ・アルメイダによって2012年7月に寄贈されました。彼女はポルトガルで狼の保全に非政府組織で働く保全生物学者です。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:20
 msgid ""
@@ -112,46 +113,46 @@ msgid ""
 "plugin. We used several geographic information along with presence data of "
 "the species to model the ecological corridors. Here are some of the "
 "functions of both QGIS and GRASS used in this case, just to name a few:"
-msgstr ""
+msgstr "生態回廊をモデル化するために、私たちは、GRASSプラグインと一緒にQGISを使用しました。私たちは、生態回廊をモデル化するために種の存在データとともに、いくつかの地理情報を使用していました。ここではほんの数に名前を付けるために、QGISこの場合に使用さGRASSの両方の機能の一部を以下に示します。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:23
 msgid "plugin Interpolation in QGIS: to create a Digital Elevation Model"
-msgstr ""
+msgstr "QGISでのプラグインの補間：デジタル標高モデルを作成する"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:24
 msgid "r.watershed in GRASS: to create water streams from DEM"
-msgstr ""
+msgstr "GRASSのr.watershed：DEMから水の流れを作り出す"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:25
 msgid ""
 "r.grow.distance in GRASS: generates a raster map layer of distance to "
 "features in input layer"
-msgstr ""
+msgstr "GRASSのr.grow.distance：入力レイヤのフィーチャまでの距離のラスタマップレイヤを生成する"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:26
 msgid "r.reclass in GRASS: to reclassify map layers"
-msgstr ""
+msgstr "GRASSのr.reclass：マップレイヤの再分類"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:27
 msgid "r.slope.aspect.slope in GRASS: to calculate the slope from the DEM"
-msgstr ""
+msgstr "GRASSのr.slope.aspect.slope：DEMからの勾配を計算する"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:28
 msgid "r.mapcalculator in GRASS: to calculate some simple map algebra"
-msgstr ""
+msgstr "GRASSのr.mapcalculator：単純なマップ代数を計算する"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:29
 msgid ""
 "r.cost.coord in GRASS: creates a raster map showing the cumulative cost of "
 "moving between different geographic locations on an input raster map whose "
 "cell category values represent cost"
-msgstr ""
+msgstr "GRASSでr.cost.coord：そのセルカテゴリ値の入力ラスター地図上の地理的に異なる場所間の移動の累積コストを示すラスター地図を作成するコストを表します"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:30
 msgid ""
 "r.drain in GRASS: Traces a flow through an elevation model on a raster map "
 "--– the one used to create the corridors"
-msgstr ""
+msgstr "GRASSでr.drain：廊下を作成するために使用されるもの---ラスター地図上の標高モデルを通る流れをトレース"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:32
 msgid ""
@@ -165,11 +166,11 @@ msgid ""
 "settlements, like small villages, cities and roads. These areas must be "
 "considered critical for wolf conservation, and applied measures to reduce "
 "human impact in this species."
-msgstr ""
+msgstr "この作品で、私たちは、リベイラデペーナの自治体でオオカミのための潜在的な生態回廊でマップを得ました。これらは、種のための保全対策を計画する際に市議会の技術者によって考慮される分野です。彼らははるかに安定ペネダ・ジェレスとスペインからのものと連続している北部のもの、と南にヴィラレアルで脆弱なオオカミパックを接続することができますので、これらの廊下は非常に重要です。それは小さな村、都市や道路のように、特定の重要性から、人間の居住地を横断し、それらの廊下です。これらの領域は、オオカミの保全のための重要と考えられており、この種のヒトへの影響を軽減するための措置を適用する必要があります。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:56
 msgid "Monica Almeida"
-msgstr ""
+msgstr "モニカ・アルメイダ"
 
 #~ msgid ""
 #~ "To model the ecological corridors, we used the QGIS along with the GRASS "

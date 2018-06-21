@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2016
+# Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2017
 # Zoltan Siki <siki@agt.bme.hu>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2016-06-26 18:22+0000\n"
-"Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
+"PO-Revision-Date: 2017-09-20 17:28+0000\n"
+"Last-Translator: Zoltán Toldi <ifj.toldi.zoltan@gmail.com>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -47,7 +48,7 @@ msgstr "További elérhető levelező listák találhatók itt :ref:`QGIS-mailin
 
 #: ../../source/site/getinvolved/document.rst:35
 msgid "Becoming a documenter"
-msgstr "Dokumentum készítővé válni"
+msgstr "Dokumentum készítővé válás"
 
 #: ../../source/site/getinvolved/document.rst:37
 msgid ""
@@ -65,7 +66,7 @@ msgstr "Igyekszünk javítani a projekt kezelés folyamatát és a terhelést jo
 
 #: ../../source/site/getinvolved/document.rst:4
 msgid "Write Documentation"
-msgstr "Dokumentáció írás"
+msgstr "Dokumentáció írása"
 
 #: ../../source/site/getinvolved/document.rst:10
 msgid ""
@@ -90,7 +91,7 @@ msgid ""
 "sources are hosted in `QGIS-Documentation repository "
 "<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
 "features in QGIS or document new ones, you need to:"
-msgstr "A QGIS dokumentációs csoport által kezelt dokumentációk teljes listája megtalálható a http://www.qgis.org/en/docs/index.html oldalon. Minden dokumentáció forrás a  `QGIS-Documentation repository <https://github.com/qgis/QGIS-Documentation>`_ tárházban található. Ha frissíteni akar néhány funkciót vagy egy újat akar dokumentálni, akokr tegye a következőket:"
+msgstr "A QGIS dokumentációs csoport által kezelt dokumentációk teljes listája megtalálható a http://www.qgis.org/en/docs/index.html oldalon. Minden dokumentáció forrás a  `QGIS-Documentation repository <https://github.com/qgis/QGIS-Documentation>`_ tárházban található. Ha frissíteni akar néhány funkciót vagy egy újat akar dokumentálni, akkor tegye a következőket:"
 
 #: ../../source/site/getinvolved/document.rst:51
 msgid "have a `GitHub account <https://github.com/join>`_"
@@ -127,7 +128,7 @@ msgid ""
 " provided at the bottom of any page of the ``Testing`` documentation. It "
 "directly opens the source file in your forked repo. Just make your changes, "
 "commit in a new branch and submit pull request to the main repository."
-msgstr ""
+msgstr "Az aktualizálandó fájlok könnyű megtalálásához használja a ``Fix me`` linket a ``Testing`` dokumentáció minden oldalának alján. Ez közvetlenül megnyitja az ön repo másolatában a forrás fájlt. Csak hajtsa végre a módosításokat, mentse el egy új ágba és küldjön egy pull kérést a fő tárházba."
 
 #~ msgid "Update QGIS Documentation"
 #~ msgstr ""

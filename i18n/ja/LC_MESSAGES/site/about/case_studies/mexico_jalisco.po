@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-01-20 07:15+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-12-04 03:31+0000\n"
+"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,18 +18,18 @@ msgstr ""
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:3
 msgid ""
 "Working with QGIS in a spatial data infrastructure of Jalisco in Mexico"
-msgstr ""
+msgstr "メキシコのJaliscoの空間データインフラストラクチャにおけるQGISの利用"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:5
 msgid ""
 "The Instituto de Información Territorial del Estado de Jalisco is a "
 "government organization which was founded in 1998 to share geographical "
 "information between the government agencies of Jalisco in México."
-msgstr ""
+msgstr "研究所・デ・情報領土デルエスタード・デ・ハリスコ州は、メキシコのハリスコ州の政府機関の間で地理情報を共有するために1998年に設立された政府機関です。"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:12
 msgid "Exploring the data with its online viewer"
-msgstr ""
+msgstr "オンラインビューアでデータを調べる"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:14
 msgid ""
@@ -37,11 +38,11 @@ msgid ""
 "what we wanted was to have all this information available, organized and in "
 "a common format with the purpose of being able to provide and display it "
 "over the Internet."
-msgstr ""
+msgstr "年以内に、金融機関は、とりわけSHP、DWG、DXF、GeoTIFFのとECW、などいくつかの形式で情報の負荷を集めています。だから、私たちが望んでいたことは整理して提供し、インターネット上でそれを表示することができるという目的に共通のフォーマットでは、このすべての情報を用意してしました。"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:21
 msgid "Connecting to the Spatial Data Infrastructure with WMS"
-msgstr ""
+msgstr "WMSを使用した空間データインフラストラクチャへの接続"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:23
 msgid ""
@@ -49,11 +50,11 @@ msgid ""
 "en Línea, with the main target to build a spatial data infrastructure which "
 "allows our government agencies to share this kind of information to be "
 "included in their own projects as health, security or mobility."
-msgstr ""
+msgstr "それは、政府機関がこのような情報を自分たちのプロジェクトに健康、安全、または移動性として含めることを可能にする空間データインフラを構築することを主目的とした、Sistema deInformaciónTerritorial Estatal enLíneaの開発方法です。"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:26
 msgid "Decision for QGIS"
-msgstr ""
+msgstr "QGISの決定"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:28
 msgid ""
@@ -64,11 +65,11 @@ msgid ""
 "free applications don’t work with OGC standards, specially with WFS. After "
 "exploring many geographic information systems, I realized that QGIS was the "
 "only one which can connect to WMS, WCS and WFS successfully."
-msgstr ""
+msgstr "私は、任意のアプリケーションが私たちのサービスを利用することを考えて、ウェブ地図サービスで、当社の衛星画像、orthopothos、数値標高モデルとベクター情報をお届けできるようにするにはPostGISの拡張子を持つMapserverのとPostgreSQLを使用することにしました。しかし、問題は、商用および無料のアプリケーションの多くは、特別WFSで、OGC標準では動作しませんでした。多くの地理情報システムを探索した後、正常にWMS、WCSとWFSに接続できるのはQGISだけであることに私は気づきました。"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:31
 msgid "What we use QGIS for"
-msgstr ""
+msgstr "私たちがQGISを使用するもの"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:33
 msgid ""
@@ -77,11 +78,11 @@ msgid ""
 "the Web services that we’ve created. Also, we have done many spatial "
 "analysis with QGIS pulling the data directly from our PostgreSQL spatial "
 "database, then, we export the results as shape files."
-msgstr ""
+msgstr "内部的には、私たちはそれを公開する前に代理店のラスターとベクターデータをチェックするためにQGISを使用し、その統合後、私たちが作成したWebサービスをテストするために、再びそれを使用しました。また、私たちはQGISが私達のPostgreSQLの空間データベースから直接データを引っ張って多くの空間解析を行っている、そして、私たちは、シェープファイルとして結果をエクスポートします。"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:40
 msgid "Connecting to the Spatial Data Infrastructure with WFS"
-msgstr ""
+msgstr "WFSを使用した空間データインフラストラクチャへの接続"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:42
 msgid ""
@@ -90,11 +91,11 @@ msgid ""
 " supports OGC standards and has many interesting features like geoprocessing"
 " tools, which allow them to make analysis of their interest, and all this "
 "absolutely for free."
-msgstr ""
+msgstr "私たちはユーザーにQGISをダウンロードし、OGC標準を完全にサポートし、ジオプロセシングツールなどの興味深い機能を備えていることから、主にSystema deInformaciónTerritorial en Estorial enLíneaにリンクするよう奨励しています。これは絶対に無料です。"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:45
 msgid "Conclusion"
-msgstr ""
+msgstr "結論"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:47
 msgid ""
@@ -103,7 +104,7 @@ msgid ""
 "say that working with open source in all of our system’s cycle, has been "
 "satisfactory and trustworthy, the best choice that we have found to share "
 "our geographic information."
-msgstr ""
+msgstr "このプロジェクトは空間データインフラストラクチャの技術的コンポーネントとして理解されており、PostGISのケーススタディとして評価されています。私たちのシステムのすべてのサイクルでオープンソースを扱うことは満足で信頼できるものでした。私たちの地理情報を共有することを発見しました。"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:50
 msgid "Author"
@@ -111,11 +112,11 @@ msgstr "制作者"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:57
 msgid "Carlos Ruiz"
-msgstr ""
+msgstr "カルロス・ルイス"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:59
 msgid ""
 "This article was contributed in July 2010 by IC Carlos Ruiz. He works as "
 "project's coordinator at the Instituto de Información Territorial del Estado"
 " de Jalisco, Mexico."
-msgstr ""
+msgstr "この記事は2010年7月にIC Carlos Ruizによって寄贈されました。彼はメキシコのEstado de Jalisco Instituto deInformaciónTerritorial delのプロジェクトコーディネーターとして働いています。"

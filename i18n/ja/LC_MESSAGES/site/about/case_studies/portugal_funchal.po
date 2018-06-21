@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-01-20 07:15+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-12-04 03:21+0000\n"
+"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:3
 msgid "Using a free GIS at Jaime Moniz Secondary School: QGIS"
-msgstr ""
+msgstr "ハイメ・モニス中学校で無料GISを使用した：QGIS"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:5
 msgid ""
@@ -37,7 +38,7 @@ msgid ""
 "plug-ins and the quality of the product in its final stage. (One should bear"
 " in mind that these academic works were done by students who belong to a "
 "very young age group.)"
-msgstr ""
+msgstr "私たちはオープンソースソフトウェアの使用を一般化するとき、私たちの学校や教育社会における民主的な教育があるでしょう。これは、ソフトウェアの著作権侵害と戦う、間接的に、（時には広告により成形）思考の人々の仕方の変化、また経費の持続可能な管理だけでなく、要求して。オープンソース・ソフトウェアの哲学に固有であるこれらの利点は、私たちが質の高い教育をしたい場合は境界やあらゆる種類の依存せずにフォローするモデルとなります。このような観点から、ハイメ・モニス中学校の領土と環境の技術的なコースに所属する12年生のクラス35、地理情報システム、応用情報システムで、その訓練期間中に提案活動を展開してQGISを使用しています。無料のGISの選択肢の範囲内では、オープンソースの選択の選択のための3つの根本的な理由があった：ユーザーフレンドリーで直感的なアプローチ、フォーラムが提供するオンライン情報でサポートされているが、いくつかのソフトウェア・プラグインとその最終段階で製品の品質。（一つは、これらの学術の作品は非常に若い年齢層に属している学生によって行われたことを念頭に置く必要があります。）"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:10
 msgid ""
@@ -49,13 +50,13 @@ msgid ""
 "later, by using a GPS, concerning the area surrounding the school. In "
 "figures 1 and 2 it is possible to view some of the activities developed in "
 "class."
-msgstr ""
+msgstr "期待はファースのレッスンでもっとも活躍感じでした！学生のグループは、GISの問題についてだけ理論とやや漠然とした知識を持っていました。最初に、支援マップを使用して、地理情報の収集を通じて、学校の周囲の内、以降、学校を取り巻く地域について、GPSを使って - したがって、その理論的な知識への実践的な活動をリンクする必要がありました。図1及び図2において、クラスに開発活動の一部を表示することが可能です。"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:18
 msgid ""
 "Distribution of dustbins (green) and garden benches (yellow) at Jaime Moniz "
 "Secondary School"
-msgstr ""
+msgstr "Jaime Moniz中学校におけるダストビン（緑）と庭園ベンチ（黄色）の分布"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:20
 msgid ""
@@ -64,21 +65,21 @@ msgid ""
 "out: it is related to the distribution regarding the number of the "
 "inhabitants of Santo António, including a placement proposal for recycle "
 "containers, in a parish of Funchal."
-msgstr ""
+msgstr "現時点では、一部の学生は、まだ彼らのトレーニング期間中に別の作業計画を作るためにQGISを使用しています。図3では、学生の仕事は際立っている：それはフンシャルの教区では、リサイクルコンテナの配置案を含めサントアントニオ住民の数に関する分布に関連しています。"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:27
 msgid ""
 "Functional map of an area in the old part of the town of Funchal, "
 "surrounding Jaime Moniz Secondary School"
-msgstr ""
+msgstr "Jaime Moniz中等学校を取り巻くフンシャルの旧市街の地域の機能地図"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:31
 msgid "Decision for QGIS"
-msgstr ""
+msgstr "QGISの決定"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:36
 msgid "From the class room to the education community"
-msgstr ""
+msgstr "クラスルームから教育コミュニティーまで"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:38
 msgid ""
@@ -87,16 +88,16 @@ msgid ""
 "the students” and, simultaneously, “show the importance of Open Source QGIS "
 "for the accomplishment of these school works”. At present, the website is a "
 "motivation source for the follow up of the whole teaching process."
-msgstr ""
+msgstr "ウェブサイトの作成という考え方は、http://www.sig-na-jaime-moniz.webnode.ptという2つの主な目的を暗示しています。「学生が行ったプロジェクトのことを伝える」と同時に、「これらの学校の仕事を達成するためのオープンソースのQGIS」を参照してください。現在、ウェブサイトは、教育プロセス全体のフォローアップの動機付けソースです。"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:45
 msgid ""
 "Placement proposal for recycle containers in the parish of Santo António"
-msgstr ""
+msgstr "SantoAntónioの教区におけるリサイクル容器の配置提案"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:48
 msgid "Conclusion"
-msgstr ""
+msgstr "結論"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:50
 msgid ""
@@ -111,7 +112,7 @@ msgid ""
 "without any extra expenses. At present, students use QGIS almost on their "
 "own to accomplish their different work plans. I hope the final result shows "
 "the amount of effort involved in the whole learning process."
-msgstr ""
+msgstr "プロセス全体のフラッシュバック分析では、私はいくつかの教育の目的を達成するために、ツールとして、QGISを使用してのアイデアは、優れた選択だったと感じています。最初は、その使用は期待の多くを関与しました。そこで私は、私は学習と同時に教えていた、前にGISを使用し、決していました。GISは、オンラインで入手可能な情報と、一緒に非常にユーザーフレンドリーであることが判明したという事実は、私にとって祝福でした。また、学校は別のソフトウェアライセンスを支払う必要はありませんでしたまたそれは、実質的に余分な費用なしで、教育の質を改善し、ライセンスの更新、に依存していました。現時点では、生徒は異なる作業計画を達成するために、ほとんど自分でQGISを使用しています。私は最終的な結果は、全体の学習プロセスに関与する努力の量を示している願っています。"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:61
 msgid "Author"
@@ -119,7 +120,7 @@ msgstr "制作者"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:68
 msgid "Fátima Vale"
-msgstr ""
+msgstr "ファチマ・ベール"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:70
 msgid ""
@@ -127,27 +128,27 @@ msgid ""
 " Luís Antunes (supervisor of the students in the DRIGOT). In that moment, "
 "she is teacher in the Jaime Moniz Secondary School and supervisor teacher "
 "during the training period of students in the different Institutions."
-msgstr ""
+msgstr "この記事は、ルイス・アントゥネス（DRIGOTにおける学生のスーパーバイザー）の支援を受けてファティマヴェールによって2011年3月に精緻化されました。その瞬間、彼女は別の機関の学生の訓練期間中のハイメ・モニス中学校で教師と監督の先生です。"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:53
 msgid "References"
-msgstr ""
+msgstr "参考文献"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:55
 msgid "http://sitio.dgidc.min-edu.pt"
-msgstr ""
+msgstr "http://sitio.dgidc.min-edu.pt"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:56
 msgid "http://www.sres.pt/?page=drgc_loc_atend&separador=6&buttons=1"
-msgstr ""
+msgstr "http://www.sres.pt/?page=drgc_loc_atend&separador=6&buttons=1"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:57
 msgid "http://www.sig-na-jaime-moniz.webnode.pt"
-msgstr ""
+msgstr "http://www.sig-na-jaime-moniz.webnode.pt"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:8
 msgid "The Project --- Expectation"
-msgstr ""
+msgstr "プロジェクト---期待"
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:33
 msgid ""
@@ -162,7 +163,7 @@ msgid ""
 "education context, such as: “creating a diversified educational experience”;"
 " “being in contact with local reality” and “developing a constructive, "
 "positive and critical mind”."
-msgstr ""
+msgstr "一般的に言えば、QGISは学生を誘わ：「グラフィックと非グラフィック要素の運動団体を通じてGISの基本的な機能を達成するために」。「英数字データをアップロードします」。「空間分析の機能を使用します」。「主題図を作成します」。最後のではなく、少なくとも、「領土の持続可能な管理のためだけでなく、地理情報の分析のための自由なGISの関連性を認識するために」、「デジタル標高モデルを作る」と。これらの理論と実践的な目的は、以下のような教育の文脈で非常に重要な他の目標、一緒に一緒に達成されている：「多様な教育経験を作成します」。「地元の現実に接触している」と「建設正と問題意識を開発」。"
 
 #~ msgid "The Project - Expectation"
 #~ msgstr ""

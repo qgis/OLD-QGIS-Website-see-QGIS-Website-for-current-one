@@ -1,281 +1,124 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-10-04 11:24+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Japanese (http://www.transifex.com/projects/p/qgis-website/language/ja/)\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2017-10-11 12:46+0000\n"
+"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:4
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:9
 msgid "Term of PSC members"
-msgstr ""
+msgstr "PSCメンバーの任期"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:6
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:11
 msgid ""
 "The PSC seats are non-expiring. PSC members may resign their position, or be"
 " asked to vacate their seat after a unanimous vote of no confidence from the"
 " remaining PSC members."
-msgstr ""
+msgstr "PSC席は期限切れではありません。PSCのメンバーは、残りのPSCメンバーからの自信を持って満場一致で投票した後、辞職するか、席を空けるように求められます。"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:11
-msgid "Member's roles withing the PSC"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:13
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:18
 msgid "The PSC consists of 8 identified roles as follows:"
-msgstr ""
+msgstr "PSCは、次のように8つの役割が分かれています。"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:17
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:22
 msgid "**Chair**"
-msgstr ""
+msgstr "**椅子**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:16
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:21
 msgid ""
 "To support the activities and present a public face to the project. To issue"
 " press releases, conduct interviews, collaborate with PSC members and "
 "provide stability and guidance to the project."
-msgstr ""
+msgstr "活動を支援し、プロジェクトに公的な顔をあらわす。プレスリリースを発行するには、インタビューを行い、PSCメンバーと協力し、プロジェクトに安定性と指導を​​提供する。"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:23
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:28
 msgid "**Community Adviser**"
-msgstr ""
+msgstr "**コミュニティアドバイザー**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:20
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:25
 msgid ""
 "To further building of relations with the community. To ensure smooth "
 "running of the QGIS.org online experience including web sites, blog, mailing"
 " lists, forums etc. To achieve these aims he / she will recruit and advise "
 "'managers' to curate these individual online services and provide oversight "
 "for their activities."
-msgstr ""
+msgstr "コミュニティとの関係をさらに構築する。ウェブサイト、ブログ、メーリングリスト、フォーラムなどのQGIS.orgオンライン体験をスムーズに実行するために、これらの目的を達成するために、これらの個々のオンラインサービスを管理し、その活動を監督するために、「マネージャー」を募集しアドバイスします。"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:28
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:33
 msgid "**Technical Adviser**"
-msgstr ""
+msgstr "**テクニカルアドバイザー**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:26
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:31
 msgid ""
 "To provide oversight and guidance to the development effort. This will "
 "include recruiting and facilitating 'managers' for discrete areas of the "
 "code based (core, gui, plugins, providers, tests) who will ensure "
 "consistency and quality of code added into the SVN code repository."
-msgstr ""
+msgstr "開発努力に監視と指導を提供すること。これには、SVNコードリポジトリに追加されたコードの一貫性と品質を保証する、コードベース（コア、GUI、プラグイン、プロバイダ、テスト）の個別の領域に対する「管理者」の採用と促進が含まれます。"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:35
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:40
 msgid "**Financial and Marketing advisor**"
-msgstr ""
+msgstr "**財務およびマーケティングアドバイザー**"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:31
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:36
 msgid ""
 "To provide reporting and explore avenues of revenue for the QGIS project. To"
 " interface with business to secure funding for future efforts. To identify "
 "areas where funding is needed and put into place actions to secure this "
 "funding. To keep track of funding as managed by OSGeo. To present the PSC "
 "with financial options for any initiative requiring funding."
-msgstr ""
+msgstr "報告を提供し、QGISプロジェクトの収益の道を探る。将来の努力のために資金を確保するためにビジネスと連携する。資金が必要な分野を特定し、この資金を確保するための行動をとる。OSGeoによって管理されている資金調達を追跡する。資金調達を必要とするイニシアチブのための財務オプションをPSCに提示すること。"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:40
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:45
 msgid "**Release Manager**"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:44
-msgid "**Design Advisor**"
-msgstr ""
+msgstr "**リリースマネージャ**"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:43
-msgid ""
-"To oversee activities related to QGIS branding, including logo, user "
-"experience, icons, and other graphic elements common to both the application"
-" and the project's web presence."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:49
-msgid "**Infrastructure Manager**"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:47
-msgid ""
-"Manage and oversee the QGIS project infrastructure, including servers, "
-"websites, source control, and issue tracking. Make recommendations for "
-"improvements, expansion, and consolidation of services. Guide and direct "
-"volunteers"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:60
-msgid "Candidacy for the PSC"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:62
-msgid ""
-"All members have equal standing and voice in the PSC. To be eligible for "
-"membership in the PSC, a person should have a demonstrated and substantial "
-"involvement in QGIS."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:67
-msgid "Election process for PSC members"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:69
-msgid ""
-"Anyone is eligible to be nominated to the QGIS PSC. Ideally nominees would "
-"be QGIS users or developers and have an understanding of GIS and the goals "
-"of the QGIS project. In addition, nominees should meet the qualifications "
-"set forth in this document. Anyone can submit a nomination."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:74
-msgid "To nominate someone:"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:76
-msgid ""
-"Nominator checks with the nominee to make sure they are willing to serve on "
-"the PSC and commit to the goals and duties described in this document"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:78
-msgid "Nominator submits the nomination via email to the PSC mailing list."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:79
-msgid "The subject line of your email must be **Nomination for QGIS PSC**"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:80
-msgid "Nominations without the correct subject line will be rejected"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:81
-msgid "Nominations without complete information will be rejected"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:84
-msgid "Complete information includes:"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:86
-msgid "Full name of the nominator"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:87
-msgid "Email address of the nominator"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:88
-msgid "Full name of the nominee"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:89
-msgid "Email address of the nominee"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:90
-msgid ""
-"Justification why the person should be a member of the PSC. This can be just"
-" a sentence or two in length."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:94
-msgid ""
-"The PSC contacts the nominee to confirm their willingness to serve and their"
-" name is added to the list of nominees.  You must submit all the information"
-" in item 4 for the nomination to be accepted."
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:99
-msgid "Expectations of PSC members"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:101
-msgid "Be willing to commit to the QGIS development effort"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:102
-msgid "Be responsive to requests for information from fellow members"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:103
-msgid "Be able and willing to attend online meetings"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:104
-msgid "Act in the best interests of the project"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:107
-msgid "Role of the PSC"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:109
-msgid "The PSC is intended to:"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:111
-msgid "Provide guidance to the general direction of the project"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:112
-msgid "Provide a central point of contact for the project"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:113
-msgid ""
-"Ensure that the various expectations placed on the project by its members "
-"and the users of QGIS are met to the best degree possible"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:115
-msgid "Vote on issues relating to project governance"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:116
-msgid "Arbitrate disputes"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:117
-msgid "Deal with confidential and legal matters that may arise"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:118
-msgid "Provide a stable base of 'institutional knowledge' to the project"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:121
-msgid "The PSC is not:"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:123
-msgid "A legal entity"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:124
-msgid ""
-"Intended to deal with minutae of the project (these should be delegated to "
-"trusted members)"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:38
 msgid ""
 "To oversee timely, regular, stable releases of QGIS on the various supported"
 " platforms.  With the PSC, determine timelines for freezes, releases, and "
 "general release and maintenance policies.  Recruit and support build "
 "managers to create packages for supported platforms."
-msgstr ""
+msgstr "サポートされているさまざまなプラットフォーム上でQGISのタイムリーな、定期的で安定したリリースを監督する。PSCでは、フリーズ、リリース、一般的なリリースおよびメンテナンスポリシーのタイムラインを決定します。サポートされているプラ​​ットフォーム用のパッケージを作成するためのビルドマネージャーを募集してサポートします。"
 
-#: ../../source/site/getinvolved/governance/organisation/psc.rst:57
-msgid "**Testing and QA Manager**"
-msgstr ""
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:49
+msgid "**Design Advisor**"
+msgstr "**デザインアドバイザー**"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:48
+msgid ""
+"To oversee activities related to QGIS branding, including logo, user "
+"experience, icons, and other graphic elements common to both the application"
+" and the project's web presence."
+msgstr "QGISのブランディングに関連する、ロゴ、ユーザーエクスペリエンス、アイコン、およびアプリケーションとプロジェクトのWebプレゼンスの両方に共通するその他のグラフィック要素を含む活動を監督する。"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:54
+msgid "**Infrastructure Manager**"
+msgstr "**インフラストラクチャマネージャー**"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:52
+msgid ""
+"Manage and oversee the QGIS project infrastructure, including servers, "
+"websites, source control, and issue tracking. Make recommendations for "
+"improvements, expansion, and consolidation of services. Guide and direct "
+"volunteers"
+msgstr "サーバー、Webサイト、ソース管理、問題追跡などのQGISプロジェクトインフラストラクチャの管理と監督。サービスの改善、拡張、および統合のための推奨を行う。ガイドとダイレクトボランティア"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:62
+msgid "**Testing and QA Manager**"
+msgstr "**テストとQAマネージャー**"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:57
 msgid ""
 "To oversee the development of a Quality Assurance framework infrastructure "
 "within QGIS so that we may present the best possible version of QGIS to the "
@@ -283,18 +126,173 @@ msgid ""
 "testing framework, curation of the issue tracker, improving API "
 "documentationm API consistency and generally supporting and promoting the "
 "improvement of quality within the project."
-msgstr ""
+msgstr "QGISの品質保証フレームワークインフラストラクチャの開発を監督し、QGISの可能な限り最高のバージョンを世界中に提供することができます。これには、包括的なユニットテストフレームワークの開発、課題トラッカーの管理、API文書のAPI一貫性の改善、プロジェクト全体の質の向上のサポートと促進が含まれます。"
 
-#~ msgid ""
-#~ "To oversee timely, regular, stable releases of QGIS on the various supported"
-#~ " platforms. To recruit and support build managers to create packages for "
-#~ "supported platforms. To oversee the maintenance of the trac bug tracking "
-#~ "system."
-#~ msgstr ""
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:65
+msgid "Candidacy for the PSC"
+msgstr "PSCの候補者"
 
-#~ msgid ""
-#~ "Oversee timely, regular, stable releases of QGIS on the various supported "
-#~ "platforms. With the PSC, determine timelines for freezes, releases, and "
-#~ "general release and maintenance policies. Recruit and support build managers"
-#~ " to create packages for supported platforms."
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:67
+msgid ""
+"All members have equal standing and voice in the PSC. To be eligible for "
+"membership in the PSC, a person should have a demonstrated and substantial "
+"involvement in QGIS."
+msgstr "すべてのメンバーは、PSCに平等な立場と声を持っています。PSCの会員資格を得るには、QGISに実証された実質的な関与が必要です。"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:72
+msgid "Election process for PSC members"
+msgstr "PSCメンバーの選挙プロセス"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:74
+msgid ""
+"Anyone is eligible to be nominated to the QGIS PSC. Ideally nominees would "
+"be QGIS users or developers and have an understanding of GIS and the goals "
+"of the QGIS project. In addition, nominees should meet the qualifications "
+"set forth in this document. Anyone can submit a nomination."
+msgstr "誰でもQGIS PSCに指名される資格があります。理想的には、候補者はQGISのユーザーまたは開発者であり、GISとQGISプロジェクトの目標を理解していることが理想的です。さらに、候補者は本書に記載された資格を満たす必要があります。誰でも指名を提出できます。"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:79
+msgid "To nominate someone:"
+msgstr "誰かを指名するには："
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:81
+msgid ""
+"Nominator checks with the nominee to make sure they are willing to serve on "
+"the PSC and commit to the goals and duties described in this document"
+msgstr "推薦者は、PSCに奉仕する意思があることを確認し、この文書で説明されている目標と義務を果たす"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:83
+msgid "Nominator submits the nomination via email to the PSC mailing list."
+msgstr "Nominatorは、指名を電子メールでPSCメーリングリストに提出します。"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:84
+msgid "The subject line of your email must be **Nomination for QGIS PSC**"
+msgstr "電子メールの件名は** QGIS PSCの指名**でなければなりません。"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:85
+msgid "Nominations without the correct subject line will be rejected"
+msgstr "正しい件名のない候補者は拒否されます"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:86
+msgid "Nominations without complete information will be rejected"
+msgstr "完全な情報のない指名は拒否されます"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:89
+msgid "Complete information includes:"
+msgstr "完全な情報は次のとおりです。"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:91
+msgid "Full name of the nominator"
+msgstr "推薦者の氏名"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:92
+msgid "Email address of the nominator"
+msgstr "推薦者のメールアドレス"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:93
+msgid "Full name of the nominee"
+msgstr "候補者の氏名"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:94
+msgid "Email address of the nominee"
+msgstr "候補者の電子メールアドレス"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:95
+msgid ""
+"Justification why the person should be a member of the PSC. This can be just"
+" a sentence or two in length."
+msgstr "その人がPSCのメンバーになるべき理由。これは単なる文章でも、長さが2文でもかまいません。"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:99
+msgid ""
+"The PSC contacts the nominee to confirm their willingness to serve and their"
+" name is added to the list of nominees.  You must submit all the information"
+" in item 4 for the nomination to be accepted."
+msgstr "PSCは、奉仕意欲を確認するために候補者に連絡し、その名前が候補者のリストに追加されます。指名を受け入れるためには、項目4のすべての情報を提出する必要があります。"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:104
+msgid "Expectations of PSC members"
+msgstr "PSCメンバーの期待"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:106
+msgid "Be willing to commit to the QGIS development effort"
+msgstr "QGISの開発努力にコミットする"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:107
+msgid "Be responsive to requests for information from fellow members"
+msgstr "仲間の情報の要求に対応する"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:108
+msgid "Be able and willing to attend online meetings"
+msgstr "オンライン会議に出席できること"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:109
+msgid "Act in the best interests of the project"
+msgstr "プロジェクトの最善の利益のために行動する"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:112
+msgid "Role of the PSC"
+msgstr "PSCの役割"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:114
+msgid "The PSC is intended to:"
+msgstr "PSCの目的は次のとおりです。"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:116
+msgid "Provide guidance to the general direction of the project"
+msgstr "プロジェクトの一般的な方向への指針を提供する"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:117
+msgid "Provide a central point of contact for the project"
+msgstr "プロジェクトの中心的な連絡窓口を提供する"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:118
+msgid ""
+"Ensure that the various expectations placed on the project by its members "
+"and the users of QGIS are met to the best degree possible"
+msgstr "メンバーとQGISのユーザーによるプロジェクトへのさまざまな期待が、可能な限り最良のものになるようにする"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:120
+msgid "Vote on issues relating to project governance"
+msgstr "プロジェクトガバナンスに関する問題に投票する"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:121
+msgid "Arbitrate disputes"
+msgstr "紛争の調停"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:122
+msgid "Deal with confidential and legal matters that may arise"
+msgstr "発生する可能性のある機密情報や法的事項に対処する"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:123
+msgid "Provide a stable base of 'institutional knowledge' to the project"
+msgstr "プロジェクトへの「制度的知識」の安定した基盤を提供する"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:126
+msgid "The PSC is not:"
+msgstr "PSCはそうではありません："
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:128
+msgid "A legal entity"
+msgstr "法人"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:129
+msgid ""
+"Intended to deal with minutae of the project (these should be delegated to "
+"trusted members)"
+msgstr "プロジェクトの重要事項に対処することを意図している（これらは信頼できるメンバーに委任されるべきである）"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:4
+msgid "PSC Project Steering Committee"
+msgstr "PSCプロジェクト運営委員会"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:6
+msgid "Current members of the PSC can be found :ref:`here <governance>`"
+msgstr "PSCの現在のメンバーが見つかります：ref： `here <governance>`"
+
+#: ../../source/site/getinvolved/governance/organisation/psc.rst:16
+msgid "Member's roles within the PSC"
+msgstr "PSC内のメンバーの役割"
+
+#~ msgid "Member's roles withing the PSC"
 #~ msgstr ""

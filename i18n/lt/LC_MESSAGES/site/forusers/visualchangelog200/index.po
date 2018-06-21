@@ -5,15 +5,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2016-06-21 12:24+0000\n"
+"POT-Creation-Date: 2017-08-08 11:00+0200\n"
+"PO-Revision-Date: 2018-05-20 14:27+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
 "Language: lt\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:6
+msgid "Changelog for QGIS 2.0"
+msgstr "QGIS 2.0 pakeitimai"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:12
 msgid "Analysis tools"
@@ -253,6 +258,7 @@ msgid ""
 msgstr "QGIS dabar be papildomų priedų palaiko tinklo padengimo paslaugų sluoksnius - WCS pridėjimo procesas panašus į WMS ar WFS sluoksnio pridėjimą."
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:155
+#, python-format
 msgid "Feature: Raster 2% cumulative cut by default"
 msgstr "Savybė: numatytas rastro 2% nukirpimas"
 
@@ -836,10 +842,11 @@ msgstr "Savybė: kodo suderinamumas su 1.x versijomis"
 msgid ""
 "As this is a major release, it is not completely API compatible with "
 "previous 1.x releases. In most cases porting your code should be fairly "
-"straightforward - you can use `this guide <http://hub.qgis.org/wiki/quantum-"
-"gis/Python_plugin_API_changes_from_18_to_20>`__ to get started. Please use "
-"the developer mailing list if you need further help."
-msgstr "Kadangi tai didelė laida, API nėra pilnai suderinamas su ankstesnėmis 1.x versijomis. Dauguma atveju jūsų kodo migravimas bus paprastas - jūs galite naudoti „šį gidą“ <http://hub.qgis.org/wiki/quantum-gis/Python_plugin_API_changes_from_18_to_20>`__ pradžiai. Jei reikės daugiau pagalbos - pasinaudokite programuotojų sąrašynu."
+"straightforward - you can use `this guide "
+"<https://github.com/qgis/QGIS/wiki/Python_plugin_API_changes_from_18_to_20>`__"
+" to get started. Please use the developer mailing list if you need further "
+"help."
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:539
 msgid "|image37|"
@@ -1117,6 +1124,14 @@ msgstr "|image52|"
 msgid "Feature: Drag and drop form builder"
 msgstr "Savybė: pertempkite iš kūrėjo"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:714
+msgid ""
+"QGIS 2.0 supports a great new system for creating data entry forms. With the"
+" drag and drop form designer you can create smart looking forms with tabs to"
+" group common fields together. Now it is much easier to control the data "
+"entry experience for your users."
+msgstr "QGIS 2.0 turi naują puikią duomenų įrašų kūrimo formų sistemą. Pertempimu iš formų dizainerio jūs galite sukurti gudriai atrodančias formas su kortelėmis, grupuojančiomis bendrus laukus. Dabar daug paprasčiau valdyti jūsų naudotojų duomenų įvedimą."
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:719
 msgid "|image53|"
 msgstr "|image53|"
@@ -1137,18 +1152,6 @@ msgstr "Jei naudojate vektorinio sluoksnio veiksmus (mažas užduotis, kurios ga
 msgid "|image54|"
 msgstr "|image54|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:6
-msgid "Changelog for QGIS 2.0"
-msgstr "QGIS 2.0 pakeitimai"
-
-#: ../../source/site/forusers/visualchangelog200/index.rst:714
-msgid ""
-"QGIS 2.0 supports a great new system for creating data entry forms. With the"
-" drag and drop form designer you can create smart looking forms with tabs to"
-" group common fields together. Now it is much easier to control the data "
-"entry experience for your users."
-msgstr "QGIS 2.0 turi naują puikią duomenų įrašų kūrimo formų sistemą. Pertempimu iš formų dizainerio jūs galite sukurti gudriai atrodančias formas su kortelėmis, grupuojančiomis bendrus laukus. Dabar daug paprasčiau valdyti jūsų naudotojų duomenų įvedimą."
-
 #~ msgid "|image0|"
 #~ msgstr ""
 
@@ -1156,8 +1159,12 @@ msgstr "QGIS 2.0 turi naują puikią duomenų įrašų kūrimo formų sistemą. 
 #~ msgstr ""
 
 #~ msgid ""
-#~ "QGIS 2.0 sports a great new system for creating data entry forms. With the "
-#~ "drag and drop form designer you can create smart looking forms with tabs to "
-#~ "group common fields together. Now it is much easier to control the data "
-#~ "entry experience for your users."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "As this is a major release, it is not completely API compatible with "
+#~ "previous 1.x releases. In most cases porting your code should be fairly "
+#~ "straightforward - you can use `this guide <http://hub.qgis.org/wiki/quantum-"
+#~ "gis/Python_plugin_API_changes_from_18_to_20>`__ to get started. Please use "
+#~ "the developer mailing list if you need further help."
 #~ msgstr ""

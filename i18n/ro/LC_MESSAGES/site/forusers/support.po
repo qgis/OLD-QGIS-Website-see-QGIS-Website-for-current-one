@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-06-22 08:52+0000\n"
+"PO-Revision-Date: 2017-09-23 19:14+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -31,31 +31,31 @@ msgid ""
 "question`."
 msgstr "Dacă doriți să puneți întrebări, citiți mai întâi: :ref:`how-to-ask-a-QGIS-question`."
 
-#: ../../source/site/forusers/support.rst:45
+#: ../../source/site/forusers/support.rst:35
 msgid "Chat"
 msgstr "Discuții"
 
-#: ../../source/site/forusers/support.rst:47
+#: ../../source/site/forusers/support.rst:37
 msgid "A lot of the development buzz will be spoken on IRC."
 msgstr "O multitudine de informații referitoare la dezvoltare se pot afla prin IRC."
 
-#: ../../source/site/forusers/support.rst:37
+#: ../../source/site/forusers/support.rst:27
 msgid "StackExchange"
 msgstr "StackExchange"
 
-#: ../../source/site/forusers/support.rst:56
+#: ../../source/site/forusers/support.rst:46
 msgid "User Groups"
 msgstr "Grupuri de utilizatori"
 
-#: ../../source/site/forusers/support.rst:82
+#: ../../source/site/forusers/support.rst:72
 msgid "Issue Tracker"
 msgstr "Urmărire Probleme"
 
-#: ../../source/site/forusers/support.rst:88
+#: ../../source/site/forusers/support.rst:78
 msgid "Commercial Support"
 msgstr "Asistență Comercială"
 
-#: ../../source/site/forusers/support.rst:90
+#: ../../source/site/forusers/support.rst:80
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
@@ -69,22 +69,15 @@ msgstr "Liste de discuții cercetabile"
 msgid "Nabble (http://nabble.com) keeps a history of a lot of mailinglists."
 msgstr "Nabble (http://nabble.com) păstrează istoricul unei multitudini de liste de discuții."
 
-#: ../../source/site/forusers/support.rst:20
-msgid ""
-"If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
-"you see there is a QGIS section also, where you can do a search over all "
-"QGIS lists, or refine it to eg only the users list."
-msgstr "De asemenea, dacă mergeți la secțiunea osgeo: http://osgeo-org.1560.x6.nabble.com/ veți vedea că există o secțiune QGIS, unde puteți efectua o căutare în toate listele sau doar într-una, cum ar fi lista utilizatorilor."
-
-#: ../../source/site/forusers/support.rst:27
+#: ../../source/site/forusers/support.rst:84
 msgid "Forums"
 msgstr "Forumuri"
 
-#: ../../source/site/forusers/support.rst:64
+#: ../../source/site/forusers/support.rst:54
 msgid "Website"
 msgstr "Site web"
 
-#: ../../source/site/forusers/support.rst:66
+#: ../../source/site/forusers/support.rst:56
 msgid ""
 "The website should be used to publish any material in relation to the "
 "information and management of the user group. Examples include the user "
@@ -96,7 +89,7 @@ msgid ""
 " the QGIS user group."
 msgstr "Site-ul web ar trebui să fie utilizat pentru a publica orice material referitor la informațiile și managementul grupului de utilizatori. Ca exemplu, puteți include ședințele utilizatorilor, studii de caz, materialele partajate, forumurile de discuții, etc. Materialele publice ar trebui să fie disponibile fără necesitatea conectării (de exemplu, nu este nevoie ca persoanele interesate să fie membre ale unei rețele sociale mass-media cum ar fi Facebook sau Google+). Utilizarea social media este recomandată, dar nu ar trebui să fie singurul canal de informații. Fluxurile RSS ar trebui să fie puse la dispoziție în site-ului web al grupului de utilizatori QGIS."
 
-#: ../../source/site/forusers/support.rst:75
+#: ../../source/site/forusers/support.rst:65
 msgid ""
 "Good luck with the organization of your local user group. Please inform the "
 "international QGIS team by registering at the QGIS community list and "
@@ -104,7 +97,7 @@ msgid ""
 "regarding the establishment and maintenance of your local user group."
 msgstr "Vă urăm noroc cu organizarea grupului de utilizatori locali. Vă rugăm să informați echipa internațională QGIS, prin înscrierea în lista comunității QGIS și prin raporte cu privire la progresele înregistrate. Vă rugăm să nu ezitați să puneți întrebări cu privire la crearea și menținerea grupului dvs. de utilizatori locali."
 
-#: ../../source/site/forusers/support.rst:84
+#: ../../source/site/forusers/support.rst:74
 msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
 msgstr "Dacă doriți să semnalați erori sau probleme, parcurgeți :ref:`QGIS-bugreporting`."
 
@@ -112,27 +105,27 @@ msgstr "Dacă doriți să semnalați erori sau probleme, parcurgeți :ref:`QGIS-
 msgid "Support"
 msgstr "Asistență"
 
-#: ../../source/site/forusers/support.rst:29
+#: ../../source/site/forusers/support.rst:86
 msgid ""
 "QGIS does not have a forum. Please either search in StackExchange (see "
 "below), or via http://nabble.com in the history of our Mailinglists (see "
 "above)."
 msgstr "QGIS nu dispune de un forum. Vă rugăm să căutați fie în StackExchange (v. mai jos), fie prin intermediul http://nabble.com în istoricul Listelor noastre de discuții (v. mai sus)."
 
-#: ../../source/site/forusers/support.rst:32
+#: ../../source/site/forusers/support.rst:89
 msgid ""
 "For non-english, note that there also exist local forums that have a "
 "dedicated section for QGIS you may need to search in."
 msgstr "Pentru utilizatorii care nu sunt englezi există, de asemenea, forumuri locale care au o secțiune dedicată pentru QGIS, în care puteți efectua căutarea."
 
-#: ../../source/site/forusers/support.rst:39
+#: ../../source/site/forusers/support.rst:29
 msgid ""
 "On http://gis.stackexchange.com you can ask QGIS questions also. If you use "
 "the tag ``qgis`` you'll see all QGIS related questions and answers: "
 "http://gis.stackexchange.com/?tags=qgis"
 msgstr "La http://gis.stackexchange.com puteți pune întrebări referitoare la QGIS. Dacă utilizați eticheta ``qgis`` veți vedea toate întrebările și răspunsurile legate de QGIS: http://gis.stackexchange.com/?tags=qgis"
 
-#: ../../source/site/forusers/support.rst:49
+#: ../../source/site/forusers/support.rst:39
 msgid ""
 "There is a #qgis channel on freenode.net. You can also use a web interface: "
 "http://webchat.freenode.net/?channels=#qgis If you missed a discussion on "
@@ -140,13 +133,26 @@ msgid ""
 "go to http://qgis.org/irclogs."
 msgstr "Există un canal #qgis pe freenode.net. De asemenea, puteți utiliza o interfață web: http://webchat.freenode.net/?channels=#qgis Dacă ați ratat o discuție pe IRC, nu este nici o problemă! Înregistrăm toate discuțiile, astfel încât să le puteți viziona cu ușurință. Este suficient să accesați http://qgis.org/irclogs."
 
-#: ../../source/site/forusers/support.rst:58
+#: ../../source/site/forusers/support.rst:48
 msgid "Local QGIS user groups are a great place to meet other users."
 msgstr "Grupurile locale de utilizatori QGIS reprezintă un loc potrivit pentru a întâlni alți utilizatori."
 
-#: ../../source/site/forusers/support.rst:60
+#: ../../source/site/forusers/support.rst:50
 msgid "See :ref:`QGIS-usergroups` to read about it."
 msgstr "Parcurgeți :ref:`QGIS-usergroups` pentru a afla despre ele."
+
+#: ../../source/site/forusers/support.rst:20
+msgid ""
+"If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
+"you see there is a QGIS section also, where you can do a search over all "
+"QGIS lists, or refine it to e.g. only the users list."
+msgstr "De asemenea, dacă mergeți la secțiunea osgeo: http://osgeo-org.1560.x6.nabble.com/ veți vedea că există o secțiune QGIS, unde puteți efectua o căutare în toate listele sau doar într-una, cum ar fi lista utilizatorilor."
+
+#~ msgid ""
+#~ "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
+#~ "you see there is a QGIS section also, where you can do a search over all "
+#~ "QGIS lists, or refine it to eg only the users list."
+#~ msgstr ""
 
 #~ msgid "QGIS Support"
 #~ msgstr ""

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-01-20 07:15+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-12-04 03:43+0000\n"
+"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:3
 msgid "QGIS and Forest Fire Risk Mapping in Portugal"
-msgstr ""
+msgstr "QGISとポルトガルの森林火災リスクのマッピング"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:5
 msgid ""
@@ -26,7 +27,7 @@ msgid ""
 " a few years ago, to create technical offices allocated to local governments"
 " which, among other skills, must prepare Municipal Plans for Forest Fire "
 "Protection and Operational Response."
-msgstr ""
+msgstr "ポルトガルは巨額の損失だけではない環境でなく、経済的、社会的損失の原因となる大規模な山火事の影響を受けています。このリスクに直面するには、ポルトガル政府は、国有林局（AFN）を介して、他のスキルの中で、森林防火と動作応答のための市の計画を準備する必要があり、地方政府に割り当てられた技術的なオフィスを作成するために、数年前に、決めました。"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:7
 msgid ""
@@ -38,7 +39,7 @@ msgid ""
 "local administrations and so, it was decided to create and make available a "
 "guide with a methodology for developing Hazard and Risk cartography using "
 "only Free and Open Source Software [http://goo.gl/TSv2E]."
-msgstr ""
+msgstr "これらの文書の精緻化をサポートするために、AFNは、森林火災災害・リスクを計算し、マッピングするための方法論と技術的なガイドを提供します。また、チュートリアルでは、独自のソフトウェアを使用して、この方法論に従うことを提供されています。しかし、そのソフトウェアの取得とライセンスコストが小さい地方行政のほとんどの手が届かないですので、それは唯一無料とオープンソースソフトウェアを使用して災害・リスクの地図作成を開発するための方法論とのガイドを作成し、利用できるようにすることを決めた[HTTP ：//goo.gl/TSv2E]。"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:9
 msgid ""
@@ -50,7 +51,7 @@ msgid ""
 "developed with GRASS. gvSIG was used for network analysis, with its Network "
 "Analysis extension, and GDAL/OGR libraries were used for transformations "
 "between coordinate reference systems."
-msgstr ""
+msgstr "QGIS、GRASS GIS、gvSIGとGDAL / OGRライブラリ：これは、ソフトウェアの次のセットを使用することが提案されました。このガイドは、AFNの方法に従って、森林防火と動作応答のための計画の精緻化のために必要なすべてのジオプロセシングタスクについて説明します。作業の大部分は、QGISで開発された、ラスタモデルの空間分析はGRASSで展開しました。gvSIGは、ネットワーク解析拡張子で、ネットワーク解析のために使用し、そしてGDAL / OGRライブラリーは、基準座標系間の変換のために使用しました。"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:11
 msgid ""
@@ -62,13 +63,13 @@ msgid ""
 "the relative simplicity of the conceptual model, its predictive ability is "
 "quite good, and that the model implementation in Open Source Software does "
 "not interfere negatively with the results, quite the opposite."
-msgstr ""
+msgstr "広範な方法論へのテストスイート、およびPinhelの自治体の運用計画の作成における実際のアプリケーションの3年後、提案されている選択肢は、多くの利点と、通常、プロプライエタリなソフトウェアを交換できるようにするということができますこのタスクを実行するために使用されます。結果の検証は、概念モデルの相対的なシンプルさにもかかわらず、その予測能力はかなり良いです、ということ、そしてオープンソースソフトウェアでモデルの実装では、結果、全く逆にマイナスに干渉しないことを示しています。"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:23
 msgid ""
 "Forest Fire Hazard and Risk Maps of Pinhel, implemented with Open Source "
 "Software."
-msgstr ""
+msgstr "オープンソースソフトウェアで実装Pinhelの森林火災災害・リスクマップ、。"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:25
 msgid ""
@@ -81,13 +82,13 @@ msgid ""
 "Forest Defense Plans, for just a few minutes, in which the human "
 "intervention boils down to the selection of input data and the indication of"
 " the place where we intend to keep the output data."
-msgstr ""
+msgstr "第二段階では、ほとんどの人間の介入なしに、タスクの広いセットを実行ワークフローを確立するためのモデルを使用して、このプロセスをスピードアップするために試みました。この第二段階は、第一段階から得られた実用的なガイドで説明全体手順の自動化に本質的に成っていました。このような自動化は、人間の介入は、入力データの選択との表示に帰着する、わずか数分のために、毎年森防衛計画を作成する予定技術者の一部に強烈な仕事の数時間の短縮を意味するかもしれません私たちは、出力データを保持するつもりな場所。"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:32
 msgid ""
 "Interface of the Sextante Model to calculate the Probability of the Forest "
 "Fire Hazard."
-msgstr ""
+msgstr "Sextanteモデルのインタフェースは、森林火災の危険の確率を計算します。"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:34
 msgid ""
@@ -100,13 +101,13 @@ msgid ""
 "advantage of the modules offered by any of those softwares which aggregates."
 " So, we've created a model to automate the process of producing Forest Fire "
 "Hazard and Risk maps, using GRASS, SAGA, fTools and MMQGIS tools."
-msgstr ""
+msgstr "この第二段階の助成で、私たちはQGISに統合し、独立したアプリケーション（GRASSのGISの幅広いセットを追加する働きSextanteソフトウェアのPythonのバージョンを使用し、SAGAのGIS、OTB、R、GDAL / OGR、Pymorph、LASTools、Pythonののscrips 、等。）単一のインタフェースにおいて、QGISユーザーに巨大なジオプロセシングツールボックスを提供します。QGISでのこれらのアプリケーションの統合に加えて、Sextanteは、モデルを作成集約し、それらのソフトウェアのいずれかによって提供されるモジュールの利点を取るためのツールを持っています。そこで、私たちはGRASS、SAGA、fToolsとMMQGISツールを使用して、森林火災災害危険度地図を生成するプロセスを自動化するためのモデルを作成しました。"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:41
 msgid ""
 "Part of the model developed for automation of the production of cartography "
 "for Forest Fire Hazard and Risk."
-msgstr ""
+msgstr "フォレストファイヤーハザードとリスクのための地図作成の自動化のために開発されたモデルの一部。"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:43
 msgid ""
@@ -121,11 +122,11 @@ msgid ""
 "Upon completion of the second phase and the realization of a sufficient set "
 "of tests that can validate the results obtained, it is our intention to "
 "provide the model free and openly."
-msgstr ""
+msgstr "既に[2]災害危険度地図の作成を自動的に実現できるよう、これまでに得られた結果は、非常に有望です。SextanteのPythonのバージョンはまだ非常に最近のものであると重い建設中であることを考慮すると、モデルはSextanteプロジェクトが提示する勢いを考えると、確かに非常にすぐに起こるであろう、完了することができるように修正しなければならないいくつかの問題があります。今後の課題として、私たちはまた、自動的に、結果にシンボルだけでなく、輸出および/または印刷の準備ができてQGISの作曲で、最終的なレイアウトを提供、適用する予定。第二段階と、得られた結果を検証できるテストの十分なセットの実現が完了すると、無料と公然とモデルを提供するために、私たちの意図です。"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:46
 msgid "Conclusions"
-msgstr ""
+msgstr "結論"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:48
 msgid ""
@@ -140,7 +141,7 @@ msgid ""
 "Hazard and Risk cartography using, exclusively, Open Source Software is "
 "fully consolidated, after several years of testing and application in the "
 "municipality of Pinhel."
-msgstr ""
+msgstr "代替案は、より効率的に独自のソフトウェアに比べて、多くの点で、国有林局の技術的なガイドで推奨されたすべての操作をできるように、莫大な品質のものであることが判明した検討を行いました。使いやすさの点で、それはソフトウェアのこのタイプは、しかしながら、より高い自由度を可能にする、実現モデルおよびアルゴリズムの唯一のより技術的な知識を必要とする任意の方法で、プロプライエタリソフトウェアよりも、より複雑ではないことが観察されました、それぞれの特定の状況にモデルを模索して微調整することが可能となります。、独占的に、オープンソースソフトウェアを使用して森林火災の危険やリスク地図作成の製造方法は、Pinhelの自治体でのテストとアプリケーションの数年後、完全に統合されます。"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:50
 msgid ""
@@ -154,7 +155,7 @@ msgid ""
 "FOSS4G solution, and whose project is more dynamic, with rapid correction of"
 " bugs and with almost daily implementation of new plugins that adds specific"
 " functionalities to the most diverse areas of activities."
-msgstr ""
+msgstr "オープンソースソフトウェアは、標準規格に基づいており、オープンなデータフォーマットのほとんどをサポートしているという事実は、ユーザが各瞬間に最も適したを選ぶすることができ、ソフトウェア間の完全な相互運用性を可能にします。ソフトウェアの特定のセットに私たちの提案のポイントにもかかわらず、何も無料と地理空間のためのオープンソースソフトウェアのための提案の広い範囲で、既存の選択肢のいずれかで交換する妨げません。しかし、QGISはますます、ほとんど、完全な安定した、使いやすいFOSS4Gソリューションとしての地位を提示し、その事業活動の中で最も多様な分野に特定の機能を追加し、バグのと新しいプラグインのほぼ毎日実施して急速な補正で、よりダイナミックであります。"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:53
 msgid "Author"
@@ -162,7 +163,7 @@ msgstr "制作者"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:60
 msgid "Pedro Venâncio"
-msgstr ""
+msgstr "ペドロ・ヴェナンシオ"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:62
 msgid ""
@@ -172,4 +173,4 @@ msgid ""
 "Civil Engineering and is currently responsible for the service of "
 "Cartography and Geographic Information Systems at the Municipality of "
 "Pinhel."
-msgstr ""
+msgstr "ペドロ・ヴェナンシオ学士号 地質、フリーソフトウェアおよび修士大学院で 地理情報システムインチ 彼は、土木工学のための国立研究所で、コインブラ大学の地球物理学センターの研究者だった、現在Pinhelの自治体での地図作成や地理情報システムのサービスを担当しています。"

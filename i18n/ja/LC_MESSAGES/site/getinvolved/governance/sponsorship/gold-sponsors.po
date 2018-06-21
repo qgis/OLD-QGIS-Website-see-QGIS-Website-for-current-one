@@ -1,13 +1,15 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
+# Toshikazu SETO <tosseto@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2013-09-17 14:47+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Japanese (http://www.transifex.com/projects/p/qgis-website/language/ja/)\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2018-04-14 04:20+0000\n"
+"Last-Translator: Toshikazu SETO <tosseto@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,7 +18,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:3
 msgid "Standard agreement for QGIS Gold Sponsors"
-msgstr ""
+msgstr "QGISゴールドスポンサーのための共通約款"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:5
 msgid ""
@@ -24,21 +26,15 @@ msgid ""
 "will be denoted 'Gold Sponsor' status."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:8
-msgid ""
-"A gold sponsor will revieve the following recognition within the various "
-"media produced by the QGIS project:"
-msgstr ""
-
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:11
 msgid "In the :menuselection:`Help -> QGIS Sponsors` dialog"
-msgstr ""
+msgstr ":menuselection:`Help  -> QGISスポンサー` ダイアログ"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:12
 msgid ""
 "In the :menuselection:`Help -> About` dialog contributors and sponsors are "
 "listed"
-msgstr ""
+msgstr ":menuselection:`Help -> About` ダイアログで投稿者とスポンサーが表示されます"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:14
 msgid "On our web site at http://qgis.org/en/sponsorship/sponsors.html"
@@ -62,11 +58,11 @@ msgstr ""
 msgid ""
 "Place on an inside dedicated page in the manual (cover to remain clean QGIS "
 "branding)"
-msgstr ""
+msgstr "マニュアルの中に専用のページを置く（クリーンQGISブランディングを維持するためのカバー）"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:21
 msgid "Place on our downloads page"
-msgstr ""
+msgstr "ダウンロードページに配置"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:22
 msgid "Place on our tracker front page"
@@ -74,7 +70,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:23
 msgid "Tagline space at the bottom of every email sent via our email lists"
-msgstr ""
+msgstr "私たちの電子メールリストを介して送信されるすべての電子メールの一番下にあるタグラインスペース"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:24
 msgid "Place on release announcements"
@@ -82,21 +78,21 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:27
 msgid "Limitations for Sponsors"
-msgstr ""
+msgstr "スポンサーの制限"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:29
 msgid ""
 "As a gold sponsor we feel it only fair that you receive conspicuous "
 "recognition for your contribution to the project and we will do this to the "
 "best of our abilities."
-msgstr ""
+msgstr "ゴールドスポンサーとして、私たちはあなたがプロジェクトへのあなたの貢献に対して顕著な表彰を受けることが公正であると感じており、私たちはその能力を最大限発揮します。"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:33
 msgid ""
 "However there are some restrictions, both from a practical and an ethical "
 "point of view of what we can offer that have some bearing on your draft "
 "document."
-msgstr ""
+msgstr "しかし、文書のドラフトに何らかの影響を与えることができるものを提供することの実践的および倫理的な観点から、いくつかの制限があります。"
 
 #: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:37
 msgid ""
@@ -108,4 +104,15 @@ msgid ""
 "the application would be extremely cluttered and visually noisy. Instead we "
 "try to offer a number of centralised places where these contributors can be "
 "acknowledged, as listed above."
-msgstr ""
+msgstr "QGISは「クリーンアプリケーション」を提供する方針を持っています。長年にわたり、私たちは、個人的および制度的能力の両方において、プロジェクトへの貢献者が非常に多かった。時には、これらの寄付を認識するために、アプリケーション内にロゴやダイアログなどについてのリクエストを得ることがあります。あなたが想像しているように、これらのすべてに同意すれば、アプリケーションは非常に乱雑で視覚的に騒がしいものになります。その代わりに、私たちは上記のように、これらの貢献者が承認される場所をいくつか集中させようとしています。"
+
+#: ../../source/site/getinvolved/governance/sponsorship/gold-sponsors.rst:8
+msgid ""
+"A gold sponsor will receive the following recognition within the various "
+"media produced by the QGIS project:"
+msgstr "ゴールド・スポンサーは、QGISプロジェクトによって制作された様々なメディアの中で次の認定を受けます："
+
+#~ msgid ""
+#~ "A gold sponsor will revieve the following recognition within the various "
+#~ "media produced by the QGIS project:"
+#~ msgstr ""

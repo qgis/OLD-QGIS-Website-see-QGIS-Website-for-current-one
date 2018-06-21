@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-01-20 07:15+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-12-04 03:36+0000\n"
+"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:3
 msgid "The use of QGIS in the Geodata Infrastructure of the City of Uster"
-msgstr ""
+msgstr "ウスター市の地理データインフラにおけるQGISの使用"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:5
 msgid ""
@@ -27,7 +28,7 @@ msgid ""
 "new features and by financially supporting the development. In return Uster "
 "receives a rapidly evolving and platform independent Desktop GIS and WebGIS "
 "solution backed by a worldwide user and development community."
-msgstr ""
+msgstr "ウスター市はArcViewのためのデスクトップGISの代替としてQGISを使用するゾロトゥルンのカントンの決定に励まされ、2007年以来、QGISを使ってきた、ウスターもそれを試してみることにしました。市は示唆して新機能をテストすることによって、および財政的発展を支援することにより、QGISアプリケーションのさらなる発展のための努力に参加しました。その見返りにウスターは、世界中のユーザーと開発コミュニティに裏打ちされ、急速に発展し、プラットフォームに依存しないデスクトップGISや型WebGISソリューションを受け取ります。"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
@@ -42,7 +43,7 @@ msgid ""
 "(University of Berne)) we coordinate and sponsor the improvements of these "
 "tools, along with some improvements in data driven symbolization, automated "
 "labeling, attribute handling and forms."
-msgstr ""
+msgstr "PostGIS / PostgreSQLの中央地理データウェアハウスとして使用されます。他のデータベースとデータ・ソースは、このようなOGRとFMEなどのツールを使用して、定期的な間隔でのPostgreSQLに複製されています。初めにQGISは、主に、ビューアとして使用しました。最初のQGISのユーザーが農業補助金を受けるために地元の農家で作られた宣言を監督する仕事を持っていた農夫でした。その後、QGISは、編集ツールやプリント作曲の改善に伴い、データエディタとマップパブリッシングプラットフォームとして導入されました。一緒に他のスイスのQGISのユーザー（ゾロトゥルン、トゥーンとCDEベルン（大学））で、私たちは記号化、自動化されたラベル、属性取扱いおよびフォームをデータ駆動型でいくつかの改善に伴い、これらのツールの改良点を調整し、スポンサー。 "
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
@@ -52,7 +53,7 @@ msgid ""
 "electricity networks. However, these are expert systems in use by specially "
 "trained staff. All other GIS projects and the viewing of all data is handled"
 " by QGIS."
-msgstr ""
+msgstr "市の管理者はまた、市販のGISソフトウェアを使用しています：Autodesk Topobaseは、土地と地下水のインフラストラクチャデータの取得と編集、ガス、水道、電気ネットワークの管理のためのGE Smallworldです。しかし、これらは特別に訓練されたスタッフが使用しているエキスパートシステムです。他のすべてのGISプロジェクトとすべてのデータの表示は、QGISによって処理されます。"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:21
 msgid ""
@@ -65,54 +66,54 @@ msgid ""
 "rich set of symbolization and labeling options and the consistent map "
 "rendering between the Desktop GIS application and the Web-GIS. The QGIS "
 "webclient can be tested and used at http://gis.uster.ch/"
-msgstr ""
+msgstr "2010年後半には、QGISサーバーとの最初の試験を行いました。2011年に私たちは、WebクライアントとしてQGIS WMSサーバーとGeoExt/OpenLayersに基づいて新しい型WebGISシステムを導入しました。QGISサーバーを使用する決定のための主な理由は、既存のQGISデスクトッププロジェクト構成を再使用するのではなく、パラレルWebプロジェクトの構成を管理することによって可能になったかなりの時間を節約しました。さらなる利点は、記号化とラベリングのオプションの豊富なセットとデスクトップGISアプリケーションとWeb-GIS間の一貫性のある地図のレンダリングです。QGIS Webクライアントはhttp://gis.uster.ch/でテストして使用できます"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:28
 msgid "Today, QGIS is used for the following GIS projects:"
-msgstr ""
+msgstr "現在、QGISは以下のGISプロジェクトに使用されています。"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:30
 msgid ""
 "viewing of waste-water data, integration of additional databases and direct "
 "access to canal videos and inspection protocols"
-msgstr ""
+msgstr "廃水データの表示、追加データベースの統合、運河のビデオと検査プロトコルへの直接アクセス"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:31
 msgid ""
 "viewing and editing for monitoring and the environmental and urban planning "
 "of the waste water and hydrology systems (german: Genereller "
 "Entwässerungsplan)"
-msgstr ""
+msgstr "モニタリングのための表示と編集、廃水と水文システムの環境と都市計画（ドイツ語：GenerellerEntwässerungsplan）"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:32
 msgid ""
 "viewing of underground cadastral data (waste water, water, gas and "
 "electricity networks, later also telecommunication) (german: "
 "Leitungskataster)"
-msgstr ""
+msgstr "地下の地点データ（廃水、水道、ガス、電力網、その後の電気通信）の閲覧（ドイツ語：Leitungskataster）"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:33
 msgid "viewing of cadastral and survey data"
-msgstr ""
+msgstr "知覚および調査データの表示"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:34
 msgid ""
 "viewing and editing of the communal inventory of protected natural sites"
-msgstr ""
+msgstr "保護された自然の敷地の共同目録の閲覧と編集"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:35
 msgid "viewing and editing of urban and regional planning data"
-msgstr ""
+msgstr "都市および地域計画データの表示および編集"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:36
 msgid "viewing and editing of road infrastructure data"
-msgstr ""
+msgstr "道路インフラストラクチャデータの表示と編集"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:37
 msgid ""
 "viewing statistics generated directly from the database of current and past "
 "residents"
-msgstr ""
+msgstr "現在および過去の居住者のデータベースから直接生成された統計の表示"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:47
 msgid ""
@@ -125,7 +126,7 @@ msgid ""
 "product management or sales team. The developers of these two companies are "
 "also lead developers of the QGIS project and have excellent knowledge of the"
 " code base."
-msgstr ""
+msgstr "2007年にはさらに発展するだろうかペースQGISで、コミュニティと商用サポートの両方が進化する方法を完全に明確ではありませんでした。今日では、開発のスピードとQGISコミュニティによって作られた改善は私たちの期待を超えたことを述べることができます。コミュニティや企業Sourcepoleとマッドファットワイフからの商用サポートが優れています。製品管理や販売チームが離れて遮られることなく、開発者との直接通信があります。これら両社の開発者は、QGISプロジェクトの開発をリードし、コードベースの優れた知識を持っています。"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:49
 msgid ""
@@ -138,7 +139,7 @@ msgid ""
 " having to deal with licensing management. We are looking forward to future "
 "collaboration with the QGIS community and our commercial supporters for the "
 "advancement of the QGIS project."
-msgstr ""
+msgstr "バグがしばしば報告した後、数時間または数日内に固定されており、新たな展開が短期間で実装されています。新機能は、開発した直後にテストされ、品質がエンドユーザーには十分である時はいつでも、ユーザーに展開することができます。公式のソフトウェアリリースを待つ必要はありません。私たちは、プロジェクトに影響を与えるとライセンス管理に対処しなくても、私たちが好きなように多くのコンピュータにソフトウェアをインストールすることができるという自由を楽しみます。私たちはQGISコミュニティとQGISプロジェクトの発展のために私達の商業用サポーターとの将来のコラボレーションを楽しみにしています。"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:52
 msgid "Author"
@@ -146,24 +147,24 @@ msgstr "制作者"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:59
 msgid "Andreas Neumann"
-msgstr ""
+msgstr "アンドレアス・ノイマン"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:61
 msgid ""
 "This article was contributed in April 2011 by Dr. Andreas Neumann. He is GIS"
 " coordinator at the City of Uster, Switzerland."
-msgstr ""
+msgstr "この記事はAndreas Neumann博士が2011年4月に寄稿しました。彼はスイスのウスター市でGISコーディネーターを務めています。"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:38
 msgid ""
 "planning and visualization for energy planning (gas supply regions, heat use"
 " from waste water, near-surface geothermal energy, block heating stations, "
 "etc.)"
-msgstr ""
+msgstr "エネルギー計画の計画と可視化（ガス供給地域、廃水からの熱利用、地表付近の地熱、ブロック加熱ステーションなど）"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:40
 msgid "Additional further projects are currently under development."
-msgstr ""
+msgstr "さらなるプロジェクトが現在開発中です。"
 
 #~ msgid ""
 #~ "Planning and visualization for energy planning (gas supply regions, heat use"

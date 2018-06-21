@@ -5,15 +5,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2016-06-26 15:01+0000\n"
-"Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
+"POT-Creation-Date: 2018-05-20 16:17+0200\n"
+"PO-Revision-Date: 2018-05-20 14:25+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/shop_goodies.rst:4
+msgid "Shop"
+msgstr "Bolt"
 
 #: ../../source/site/about/shop_goodies.rst:6
 msgid ""
@@ -46,44 +51,40 @@ msgid ""
 "country."
 msgstr "Itt egy lista a világszerte található üzletekről, nyugodtam megkeresheti az ön országában levőt vagy megkérheti a spreadshirt-öt hogy nyisson egyet az ön országában."
 
-#: ../../source/site/about/shop_goodies.rst:39
-msgid "http://qgis.spreadshirt.co.uk/"
-msgstr "http://qgis.spreadshirt.co.uk/"
+#: ../../source/site/about/shop_goodies.rst:40
+msgid "http://shop.spreadshirt.com/qgis/ (US)"
+msgstr ""
 
-#: ../../source/site/about/shop_goodies.rst:41
-msgid "http://qgis.spreadshirt.de/"
-msgstr "http://qgis.spreadshirt.de/"
-
-#: ../../source/site/about/shop_goodies.rst:43
-msgid "http://qgis.spreadshirt.nl/"
-msgstr "http://qgis.spreadshirt.nl/"
-
-#: ../../source/site/about/shop_goodies.rst:45
-msgid "http://qgis.spreadshirt.com.au/"
-msgstr "http://qgis.spreadshirt.com.au/"
-
-#: ../../source/site/about/shop_goodies.rst:47
-msgid "http://qgis.spreadshirt.com/"
-msgstr "http://qgis.spreadshirt.com/"
-
-#: ../../source/site/about/shop_goodies.rst:49
-msgid "http://qgis.spreadshirt.ca/"
-msgstr "http://qgis.spreadshirt.ca/"
-
-#: ../../source/site/about/shop_goodies.rst:51
-msgid "Or pick one from here:"
-msgstr "Vagy válasszon egyet innen:"
-
-#: ../../source/site/about/shop_goodies.rst:53
-msgid "http://www.spreadshirt.net/select-your-region-C8590"
-msgstr "http://www.spreadshirt.net/select-your-region-C8590"
-
-#: ../../source/site/about/shop_goodies.rst:4
-msgid "Shop"
-msgstr "Bolt"
+#: ../../source/site/about/shop_goodies.rst:42
+msgid "http://shop.spreadshirt.net/qgis/ (Europe)"
+msgstr ""
 
 #~ msgid "QGIS shop"
 #~ msgstr ""
 
 #~ msgid "For QGIS"
+#~ msgstr ""
+
+#~ msgid "http://qgis.spreadshirt.co.uk/"
+#~ msgstr ""
+
+#~ msgid "http://qgis.spreadshirt.de/"
+#~ msgstr ""
+
+#~ msgid "http://qgis.spreadshirt.nl/"
+#~ msgstr ""
+
+#~ msgid "http://qgis.spreadshirt.com.au/"
+#~ msgstr ""
+
+#~ msgid "http://qgis.spreadshirt.com/"
+#~ msgstr ""
+
+#~ msgid "http://qgis.spreadshirt.ca/"
+#~ msgstr ""
+
+#~ msgid "Or pick one from here:"
+#~ msgstr ""
+
+#~ msgid "http://www.spreadshirt.net/select-your-region-C8590"
 #~ msgstr ""

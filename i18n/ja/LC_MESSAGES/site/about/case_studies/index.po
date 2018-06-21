@@ -1,18 +1,20 @@
 # 
 # Translators:
-# yasuto.furukawa <furushare@gmail.com>, 2014
+# Yasuto Furukawa <furushare@gmail.com>, 2014
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 # k_zoar <zoar@k-side.net>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-06-21 12:23+0000\n"
+"POT-Creation-Date: 2017-08-08 11:00+0200\n"
+"PO-Revision-Date: 2018-05-20 14:26+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -33,7 +35,7 @@ msgstr "QGISプロジェクトでは常にQGISケーススタディ（ユーザ�
 
 #: ../../source/site/about/case_studies/index.rst:9
 msgid "**Structure**"
-msgstr "** 形式 **"
+msgstr "**形式**"
 
 #: ../../source/site/about/case_studies/index.rst:11
 msgid ""
@@ -43,7 +45,7 @@ msgstr "事例は以下のシンプルな形式で約800ワードで2個のス�
 
 #: ../../source/site/about/case_studies/index.rst:13
 msgid "**Title**"
-msgstr "** タイトル **"
+msgstr "**タイトル**"
 
 #: ../../source/site/about/case_studies/index.rst:15
 msgid ""
@@ -54,37 +56,41 @@ msgid ""
 "200 words)"
 msgstr "企業/研究所/官庁/大学のバックグラウンドを含んだ短い紹介（約200ワード).あなたのプロジェクト/アプリケーションの説明とその中でQGISがどのように使われているか(約400ワードの長さとスクリーンショット).結論としてQGISを使って得られたポジティブな経験/利益の記述(約200ワード)"
 
-#: ../../source/site/about/case_studies/index.rst:52
-msgid "2013"
-msgstr "2013"
+#: ../../source/site/about/case_studies/index.rst:20
+msgid "2017"
+msgstr ""
 
-#: ../../source/site/about/case_studies/index.rst:64
-msgid "2012"
-msgstr "2012"
+#: ../../source/site/about/case_studies/index.rst:29
+msgid "2016"
+msgstr "2016"
 
-#: ../../source/site/about/case_studies/index.rst:79
-msgid "2011"
-msgstr "2011"
-
-#: ../../source/site/about/case_studies/index.rst:90
-msgid "2010"
-msgstr "2010"
-
-#: ../../source/site/about/case_studies/index.rst:102
-msgid "2009"
-msgstr "2009"
-
-#: ../../source/site/about/case_studies/index.rst:40
-msgid "2014"
-msgstr "2014"
-
-#: ../../source/site/about/case_studies/index.rst:28
+#: ../../source/site/about/case_studies/index.rst:38
 msgid "2015"
 msgstr "2015"
 
-#: ../../source/site/about/case_studies/index.rst:20
-msgid "2016"
-msgstr ""
+#: ../../source/site/about/case_studies/index.rst:50
+msgid "2014"
+msgstr "2014"
+
+#: ../../source/site/about/case_studies/index.rst:62
+msgid "2013"
+msgstr "2013"
+
+#: ../../source/site/about/case_studies/index.rst:74
+msgid "2012"
+msgstr "2012"
+
+#: ../../source/site/about/case_studies/index.rst:89
+msgid "2011"
+msgstr "2011"
+
+#: ../../source/site/about/case_studies/index.rst:100
+msgid "2010"
+msgstr "2010"
+
+#: ../../source/site/about/case_studies/index.rst:112
+msgid "2009"
+msgstr "2009"
 
 #~ msgid "List of Case Studies"
 #~ msgstr ""

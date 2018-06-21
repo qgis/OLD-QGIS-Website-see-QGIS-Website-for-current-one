@@ -2,18 +2,19 @@
 # Translators:
 # Csaba Sandor <sandor.csaba@gmail.com>, 2015
 # Levente Juhasz <jlevente89@gmail.com>, 2015
-# Zoltan Siki <siki@agt.bme.hu>, 2015
+# Zoltan Siki <siki@agt.bme.hu>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2016-06-21 12:26+0000\n"
+"POT-Creation-Date: 2018-05-20 16:17+0200\n"
+"PO-Revision-Date: 2018-05-20 14:25+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -21,169 +22,211 @@ msgstr ""
 msgid "QGIS Trademark"
 msgstr "QGIS védjegy"
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:50
-msgid "Report abuse"
-msgstr "Visszaélés bejelentése"
-
-#: ../../source/site/getinvolved/governance/trademark/index.rst:55
-msgid "Frequently Asked Questions"
-msgstr "Gyakran ismétlődő kérdések"
-
-#: ../../source/site/getinvolved/governance/trademark/index.rst:61
-msgid "**Q:** *When do I have to show proper attribution?*"
-msgstr "**K:** *Mikor kell megfelelő szerzői jogi hivatkozással élnem?*"
-
-#: ../../source/site/getinvolved/governance/trademark/index.rst:71
-msgid ""
-"**A:** Yes, because you are using QGIS as part of a trademark in connection "
-"with software-related goods or services. Software-related goods are computer"
-" programs and systems, or packages bundling software with tools, utilities, "
-"hardware, etc. Software-related services are services that deploy, document,"
-" facilitate the use of, or enhance computer programs and systems."
-msgstr "**A:** Igen, mert a QGIS-t egy védjegy részeként használja, mely szoftverrel kapcsolatos árukra és szolgáltatásokra vonatkozik. Szoftverrel kapcsolatos áruk a számítógépes programok és rendszerek, vagy csomagok, melyek a szoftvereket további eszközökkel, segédprogramokkal, hardverrel stb. egészítik ki. A szoftverrel kapcsolatos szolgáltatások olyanok, melyek a számítógépes programokkal és rendszerekkel kapcsolatosan telepítési, dokumentálási, használat támogatási, vagy továbbfejlesztési szolgáltatást valósítanak meg."
-
 #: ../../source/site/getinvolved/governance/trademark/index.rst:6
 msgid ""
-"The QGIS name and logo are now protected under European law from "
-"unauthorized and confusing uses of the trademark "
-"[https://oami.europa.eu/eSearch/#details/trademarks/012702643]. Our main aim"
-" is to encourage those who do business using QGIS name and logo to "
-"participate actively to the project, and help us improving QGIS."
-msgstr "A QGIS név és logó az európai jog szerint védett a jogosulatlan, vagy megtévesztő használattól [https://oami.europa.eu/eSearch/#details/trademarks/012702643]. Fő célunk, hogy bátorítsuk azokat, akik üzleti célokra használják a QGIS nevet és logót, hogy aktívan vegyenek részt a projektben és segítsenek a QGIS fejlesztésében."
+"The QGIS name and logo are protected under European law from unauthorized "
+"and confusing uses of the trademark. You can find our trademark information "
+"at [https://oami.europa.eu/eSearch/#details/trademarks/012702643] and "
+"[https://euipo.europa.eu/eSearch/#details/trademarks/017228222]. Our main "
+"aim is to encourage those who do business using QGIS name and logo to "
+"participate actively in the project and help us to improve QGIS."
+msgstr ""
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:9
+#: ../../source/site/getinvolved/governance/trademark/index.rst:10
+msgid "Usage"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:12
 msgid ""
 "**When you can use the QGIS trademark without asking for a permission**"
 msgstr "**Amikor használhatja a QGIS védjegyet engedélykérés nélkül**"
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:11
+#: ../../source/site/getinvolved/governance/trademark/index.rst:14
 msgid ""
 "In cases of fair use, you may use or refer to QGIS trademark without an "
 "explicit permission from us. For instance:"
 msgstr "Méltányos használat esetén hivatkozhat a QGIS védjegyre külön engedély nélkül. Például:"
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:13
+#: ../../source/site/getinvolved/governance/trademark/index.rst:16
 msgid ""
-"If you write articles, books, blog articles, tutorials, study materials for "
-"university, and similar, you do not need a permission to cite QGIS name and "
-"use the logo in it"
-msgstr "Ha cikket, könyvet, blogbejegyzést, oktatóanyagot, egyetemi jegyzetet, vagy ehhez hasonlót ír, nincs szüksége engedélyre a QGIS név idézéséhez és a logó használatához."
+"**Books, articles, tutorials**: If you write articles, books, blog articles,"
+" tutorials, study materials for university, and similar, you do not need a "
+"permission to cite QGIS name and use the logo in it."
+msgstr ""
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:15
+#: ../../source/site/getinvolved/governance/trademark/index.rst:18
 msgid ""
-"We require you to give attribution to the QGIS project and reference the "
-"project website somewhere in your book, article, etc. This could be a short "
-"paragraph in the Introduction or Preface"
-msgstr "Elvárjuk, hogy említse meg a QGIS projektet és a projekt weboldalát valahol a könyvben, cikkben stb. Ez lehet egy rövid bekezdés a Bevezetőben, vagy Előszóban"
+"We require you to **give attribution** to the QGIS project and reference the"
+" project website somewhere in your book, article, etc. This could be a short"
+" paragraph in the Introduction or Preface. Please avoid confusing terms like"
+" \"QGIS manual\", or anything that may give the impression of an official "
+"QGIS product, or is misleading."
+msgstr ""
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:17
+#: ../../source/site/getinvolved/governance/trademark/index.rst:20
 msgid ""
-"If you give a course on QGIS, either academic, free, or commercial, you can "
-"use the logo and the name in course material"
-msgstr "Ha QGIS tanfolyamot tart, akár egyetemi, ingyenes, vagy üzleti alapú, használhatja a nevet és logót a tanfolyami anyagokban."
+"**Courses, training**: If you give a course on QGIS, either academic, free, "
+"or commercial, you can use the logo and the name in course material."
+msgstr ""
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:19
+#: ../../source/site/getinvolved/governance/trademark/index.rst:22
 msgid ""
-"Please avoid confusing terms like \"QGIS manual\", or anything that may give"
-" the impression of an official QGIS product, or is misleading"
-msgstr "Kerüljük el a megtévesztő címeket, mint például \"QGIS kézikönyv\", vagy olyan címet, ami azt a benyomást kelteni, hogy ez hivatalos QGIS termék, vagy más módon félrevezető"
-
-#: ../../source/site/getinvolved/governance/trademark/index.rst:23
-msgid ""
-"If you provide services (support, development) on QGIS, you can use QGIS "
-"trademark to describe or advertise your services or products relating to "
-"QGIS, provided this is done in a way that is not misleading"
-msgstr "Ha szolgáltatást nyújt (támogatás, fejlesztés) a QGIS-hez, használhatja  a QGIS védjegyet kapcsolódó termékei és szolgáltatásai reklámjához, ha ez nem félrevezető módon történik"
+"Please routinely explain in your course that QGIS is free and open source "
+"software, and actively encourage anyone to contribute, directly or "
+"indirectly, to the project."
+msgstr ""
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:24
 msgid ""
-"If you use the QGIS logo on a website linking to our websites "
-"(http://qgis.org or any of our domains, or github), you do not need a "
-"permission"
-msgstr "Ha a QGIS logót használja weboldalán, egy linkkel a mi weboldalunkra (http://qgis.org vagy bármely más domain-ünk, vagy github oldalunk), nincs szüksége engedélyre"
-
-#: ../../source/site/getinvolved/governance/trademark/index.rst:25
-msgid ""
-"You can make t-shirts, desktop wallpapers, caps, or other merchandise with "
-"QGIS trademark for non-commercial usage"
-msgstr "Nem üzleti célra készíthet pólót, képernyő hátteret, sapkát, vagy más szóróanyagot a QGIS védjeggyel"
+"**Services**: If you provide services (support, development) on QGIS, you "
+"can use QGIS trademark to describe or advertise your services or products "
+"relating to QGIS, provided this is done in a way that is not misleading."
+msgstr ""
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:26
 msgid ""
-"You can also make merchandise with QGIS trademark for commercial usage. In "
-"case of commercial usage, we recommend that you truthfully advertise to "
-"customers which part of the selling price, if any, will be donated to the "
-"QGIS project. See our donations page for more information on how to donate "
-"to the QGIS project"
-msgstr "Üzleti céllal is készíthet szóróanyagot a QGIS védjegy felhasználásával. Üzleti cél esetén, ajánljuk, hogy vásárlóit valósághűen tájékoztassa, hogy az eladási ár mely részével támogatja a QGIS projektet, ha egyáltalán. Lásd az adományozás oldalunkat további információért az adományozás módjáról"
+"**Linking**: If you use the QGIS logo on a website linking to our websites "
+"(http://qgis.org or any of our domains, or github), you do not need a "
+"permission."
+msgstr ""
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:28
+msgid ""
+"**Merchandise**: You can make t-shirts, desktop wallpapers, caps, or other "
+"merchandise with QGIS trademark for non-commercial usage. You can also make "
+"merchandise with QGIS trademark for commercial usage. In case of commercial "
+"usage, we recommend that you truthfully advertise to customers which part of"
+" the selling price, if any, will be donated to the QGIS project. See our "
+"donations page for more information on how to donate to the QGIS project."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:30
 msgid "**Examples of use requiring a permission**"
 msgstr "**Engedélyhez kötött felhasználási példák**"
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:30
-msgid ""
-"Some uses of QGIS require the user to obtain a permission. For instance:"
-msgstr "A QGIS néhány felhasználási módja megköveteli, hogy a felhasználó engedélyt kapjon rá. Például:"
-
 #: ../../source/site/getinvolved/governance/trademark/index.rst:32
 msgid ""
-"If you plan to market a QGIS-based product or service to the public using a "
-"trademark that includes the element \"QGIS,\" such as \"Super QGIS\" or "
-"\"Professional QGIS\" you are required to apply for and obtain a permission "
-"from the QGIS Project Steering Committee (QGIS-PSC). This is true whether or"
-" not you apply to register your trademark with a government"
-msgstr "Ha QGIS alapú terméket, szolgáltatást szeretne piacra vinni, mely a \"QGIS\" elnevezést tartalmazza, mint például \"Super QGIS\", vagy \"Professional QGIS\", akkor engedélyt kell kérnie és kapnia a QGIS Projekt Irányító Bizottságától (QGIS-PIB). Ez attól függetlenül is elvárt, ha védjegyét valamely országban be kívánja jegyeztetni, vagy sem"
+"Some uses of our trademark require the user to obtain a permission. For "
+"instance:"
+msgstr ""
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:33
+#: ../../source/site/getinvolved/governance/trademark/index.rst:34
 msgid ""
-"If you use QGIS trademark in a domain name, with or without commercial "
-"intent"
-msgstr "Ha a QGIS védjegyet domain névben kívánja használni, üzleti céllal, vagy anélkül"
+"**Product names**: If you plan to market a QGIS-based product or service to "
+"the public using a trademark that includes the element \"QGIS\", such as "
+"\"YourCompany QGIS\" you are required to apply for and obtain a permission "
+"from the QGIS Project Steering Committee (QGIS-PSC). This is true whether or"
+" not you apply to register your trademark with a government. When developing"
+" and advertising QGIS-based products, we ask you to follow the following "
+"guidelines:"
+msgstr ""
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:35
+#: ../../source/site/getinvolved/governance/trademark/index.rst:36
+msgid "**Don't present your work as our work**."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:38
+msgid ""
+"If you provide a customized QGIS version, make it clear that your offer is a"
+" derivative product, and not the official QGIS version."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:40
+msgid "**Don't present our work as your work**."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:42
+msgid ""
+"Give credit to the QGIS project where due. Don't hide the fact that your "
+"product is based on QGIS."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:44
+msgid "Good product name examples include:"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:46
+msgid "YourCompany QGIS"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:47
+msgid "YourCompany Desktop/Suite powered by QGIS"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:48
+msgid "YourBrand powered by QGIS"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:49
+msgid "YourBrand based on QGIS"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:51
+msgid ""
+"When referring to QGIS please do not undermine the validity of the main QGIS"
+" project. We prefer that you refer to our software packages as \"Official "
+"Packages\" and not \"Community Releases\" or similar. If you create your own"
+" packages, please make it clear that these are derivative packages and not "
+"created or endorsed by the QGIS project."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:53
+msgid ""
+"**Domains**: If you use QGIS trademark in a domain name, with or without "
+"commercial intent"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:55
 msgid ""
 "If you need a permission, please write to our Financial and Marketing "
 "Advisor (trademark@qgis.org)."
 msgstr "Ha engedélyre van szüksége, kérem írjon Pénzügyi és Marketing Tanácsadónknak (trademark@qgis.org)."
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:37
+#: ../../source/site/getinvolved/governance/trademark/index.rst:57
 msgid ""
 "A permission is not a formal endorsement of QGIS project and doesn't mean "
 "anything about quality of the service."
 msgstr "Az engedély nem jelenti a QGIS projekt formális ajánlását és nem  jelent semmit a szolgáltatás minőségére vonatkozóan."
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:39
+#: ../../source/site/getinvolved/governance/trademark/index.rst:59
 msgid "**Examples of unacceptable uses**"
 msgstr "**Példák az elfogadhatatlan használatra**"
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:41
+#: ../../source/site/getinvolved/governance/trademark/index.rst:61
 msgid ""
-"You cannot use QGIS trademark in any way that suggests an affiliation with "
-"or endorsement by the QGIS project or community, if the same is not true"
-msgstr "Nem használhatja a QGIS védjegyet olyan módon, ami a QGIS projekt, vagy közösség ajánlását, vagy azzal való kapcsolódást mutatna, ha fenti állítás egyébként nem igaz"
+"**Fake affiliation/endorsement**: You cannot use QGIS trademark in. any way "
+"that suggests an affiliation with or endorsement by the QGIS project or "
+"community, if the same is not true"
+msgstr ""
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:42
+#: ../../source/site/getinvolved/governance/trademark/index.rst:63
 msgid ""
-"You cannot use QGIS trademark in a company or commercial organization name"
-msgstr "Nem használhatja a QGIS védjegyet cég, vagy üzleti szervezet nevében"
+"**Company names**: You cannot use QGIS trademark in a company or commercial "
+"organization name."
+msgstr ""
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:43
-msgid "You cannot use a name that is confusingly similar to QGIS trademark"
-msgstr "Nem használhat a QGIS védjegyhez hasonló, megtévesztő elnevezést"
+#: ../../source/site/getinvolved/governance/trademark/index.rst:65
+msgid ""
+"**Confusingly similar trademarks**: You cannot use a name that is "
+"confusingly similar to QGIS trademark."
+msgstr ""
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:45
-msgid "**If in doubt, find out**"
-msgstr "**Ha kétsége van, tájékozódjon**"
+#: ../../source/site/getinvolved/governance/trademark/index.rst:67
+msgid "**If in doubt, find out!**"
+msgstr ""
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:47
+#: ../../source/site/getinvolved/governance/trademark/index.rst:69
 msgid ""
 "Many questions are answered in the FAQ below. If you are unable to locate an"
 " answer to your question, please contact our Financial and Marketing Advisor"
 " (trademark@qgis.org)."
 msgstr "Az alábbi GYIK-ban sok kérdést megválaszolunk. Ha nem talál választ  kérdésére, lépjen kapcsolatba Pénzügyi és Marketing Tanácsadónkkal (trademark@qgis.org)."
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:52
+#: ../../source/site/getinvolved/governance/trademark/index.rst:72
+msgid "Report abuse"
+msgstr "Visszaélés bejelentése"
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:74
 msgid ""
 "If you know of people, organizations or companies using the QGIS name or "
 "logo as part of a trademark without a permission, or if you see references "
@@ -192,11 +235,15 @@ msgid ""
 "mail to our Financial and Marketing Advisor (trademark@qgis.org)."
 msgstr "Ha tud olyan emberekről, szervezetekről, cégekről, akik engedély nélkül használják a QGIS nevet, vagy logót más védjegy részeként, vagy ha találkozik QGIS-re történő utalásokkal, megfelelő hivatkozás nélkül, kérem tájékoztassa őket védjegyünkről. Nagyra értékelnénk, ha minket is értesítene Pénzügyi és Marketing Tanácsadónkon keresztül (trademark@qgis.org)."
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:57
+#: ../../source/site/getinvolved/governance/trademark/index.rst:77
+msgid "Frequently Asked Questions"
+msgstr "Gyakran ismétlődő kérdések"
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:79
 msgid "**Q:** *Do I need a permission?*"
 msgstr "**K:** *Szükségem van-e engedélyre?*"
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:59
+#: ../../source/site/getinvolved/governance/trademark/index.rst:81
 msgid ""
 "**A:** You need to apply for a permission if you are using the term “QGIS” "
 "as part of your own trademark or brand identifier for QGIS-based software "
@@ -204,20 +251,24 @@ msgid ""
 "if you do not plan to make any money using the mark."
 msgstr "**V:** Engedélyre van szüksége, ha a \"QGIS\" kifejezést saját védjegye, vagy márkája részeként jeleníti meg, QGIS alapú terméke, vagy szolgáltatása kapcsán. Mindegy, hogy védjegye bejegyzett-e, vagy sem, vagy esetleg nem pénz keresési céllal használja  a védjegyet."
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:63
+#: ../../source/site/getinvolved/governance/trademark/index.rst:83
+msgid "**Q:** *When do I have to show proper attribution?*"
+msgstr "**K:** *Mikor kell megfelelő szerzői jogi hivatkozással élnem?*"
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:85
 msgid ""
 "**A:** Whenever and however you use the term QGIS in print, on the internet,"
 " or in audio broadcasts, you should always give proper attribution to QGIS "
 "project. For more information see “Trademark Attribution.”"
 msgstr "**V:** Bármikor, ha a QGIS kifejezést nyomtatásban, Interneten, audio anyagokban használja, mindig megfelelő hivatkozással tegye ezt a QGIS projektre. További információért lásd a \"Védjegy Hivatkozást\"."
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:65
+#: ../../source/site/getinvolved/governance/trademark/index.rst:87
 msgid ""
 "**Q:** *I am registering or have registered a trademark with my country's "
 "trademark authority. Do I still need a permission?*"
 msgstr "**K:** *Bejegyzés alatt van, vagy már be is jegyeztem egy védjegyet országom hatóságainál. Ezen felül is szükségem van-e engedélyre?*"
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:67
+#: ../../source/site/getinvolved/governance/trademark/index.rst:89
 msgid ""
 "**A:** Yes, assuming your trademark includes the element QGIS and it is "
 "being used in connection with software-related goods and services. Please "
@@ -226,7 +277,7 @@ msgid ""
 "trademark (whether or not registered), you need to apply for a permission."
 msgstr "**V:** Igen, ha a védjegye tartalmazza a QGIS elemet és az szoftverekkel kapcsolatos árukra és szolgáltatásokra vonatkozik. Fontos, hogy az engedélykötelezettség attól függetlenül érvényes, hogy a hatóságnál a védjegy bejegyzésre került-e, vagy sem. Ha a QGIS kifejezést használja védjegyként (bejegyezve, vagy anélkül), mindenképp engedélyt kell kérnie."
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:69
+#: ../../source/site/getinvolved/governance/trademark/index.rst:91
 msgid ""
 "**Q:** *I am a commercial entity (for example, a company, partnership or "
 "sole proprietor, profit or non-profit) selling software-related goods or "
@@ -234,7 +285,16 @@ msgid ""
 "apply for a permission?*"
 msgstr "**K:** *Üzleti szervezet vagyok (például cég, egyesülés, egyéni vállalkozó, profitorientált, vagy non-profit), mely szoftverekkel kapcsolatos árukat, vagy szolgáltatásokat értékesít és használom a \"QGIS\" kifejezést szervezetem nevében. Kell-e engedélyt kérnem?*"
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:73
+#: ../../source/site/getinvolved/governance/trademark/index.rst:93
+msgid ""
+"**A:** Yes, because you are using QGIS as part of a trademark in connection "
+"with software-related goods or services. Software-related goods are computer"
+" programs and systems, or packages bundling software with tools, utilities, "
+"hardware, etc. Software-related services are services that deploy, document,"
+" facilitate the use of, or enhance computer programs and systems."
+msgstr "**A:** Igen, mert a QGIS-t egy védjegy részeként használja, mely szoftverrel kapcsolatos árukra és szolgáltatásokra vonatkozik. Szoftverrel kapcsolatos áruk a számítógépes programok és rendszerek, vagy csomagok, melyek a szoftvereket további eszközökkel, segédprogramokkal, hardverrel stb. egészítik ki. A szoftverrel kapcsolatos szolgáltatások olyanok, melyek a számítógépes programokkal és rendszerekkel kapcsolatosan telepítési, dokumentálási, használat támogatási, vagy továbbfejlesztési szolgáltatást valósítanak meg."
+
+#: ../../source/site/getinvolved/governance/trademark/index.rst:95
 msgid ""
 "Even if you don’t use QGIS as part of the entity’s name, if the entity has a"
 " product or service (whether sold or given away for free) that uses \"QGIS\""
@@ -242,14 +302,14 @@ msgid ""
 "the name of the products or services."
 msgstr "Ha nem használja a QGIS kifejezést szervezete nevében, de van olyan terméke, vagy szolgáltatása (pénzért, vagy ingyenesen), mely használja a \"QGIS\" nevet, engedélyt kell kérnie a QGIS szó használatára terméke, vagy szolgáltatása nevében."
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:75
+#: ../../source/site/getinvolved/governance/trademark/index.rst:97
 msgid ""
 "**Q:** *If I get a permission for my trademark, will QGIS refuse to grant "
 "similar permissions to marks that are the same as, or confusingly similar "
 "to, my mark?*"
 msgstr "**K:** *Ha egyszer megadják az engedélyt nekem, a QGIS megtagadja-e hasonló engedély kiadását olyan védjegyekre, melyek azonosak, vagy megtévesztően hasonlóak az én védjegyemhez?*"
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:77
+#: ../../source/site/getinvolved/governance/trademark/index.rst:99
 msgid ""
 "**A:** No, QGIS will not attempt to ensure exclusivity or protect marks from"
 " infringement. QGIS considers the protection of trademarks against "
@@ -258,7 +318,7 @@ msgid ""
 "between trademark owners."
 msgstr "**V:** Nem. A QGIS nem próbálja biztosítani az egyediséget és nem védi a védjegyeket azok megsértésétől.  A QGIS úgy véli, hogy a védjegyek védelme azok tulajdonosainak feladata. A QGIS nem egy vitarendező hatóság és nem kíván részt venni védjegyek tulajdonosainak vitájában."
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:79
+#: ../../source/site/getinvolved/governance/trademark/index.rst:101
 msgid ""
 "**Q:** *Trademark Registration Consent: My organization has applied to "
 "register a trademark for software-related goods or services that includes "
@@ -267,36 +327,13 @@ msgid ""
 "registration?*"
 msgstr "**K:** *Védjegy Bejegyzési Hozzájárulás: Szervezetem szoftverrel kapcsolatos termék, vagy szolgáltatás kapcsán be kíván jegyeztetni egy védjegyet, mely tartalmazza a QGIS elemet. A bejegyzési kérést elutasították a QGIS védjeggyel való megtévesztő hasonlóság miatt. Ha engedélyt kérek, a QGIS hozzájárul védjegyem regisztrációjához?*"
 
-#: ../../source/site/getinvolved/governance/trademark/index.rst:81
+#: ../../source/site/getinvolved/governance/trademark/index.rst:103
 msgid ""
 "**A:** No. The QGIS permission is not a consent for the registration of "
 "other trademarks. To protect the QGIS mark from dilution, we do not consent "
 "to the registration of trademarks found to be confusingly similar to the "
 "QGIS mark."
 msgstr "**V:** Nem. A QGIS engedély nem jelent beleegyezést más védjegyek bejegyzéséhez. A QGIS védjegy minőségének védelme érdekében nem járulunk hozzá a QGIS jegyhez megtévesztően hasonló védjegyek bejegyzéséhez."
-
-#: ../../source/site/getinvolved/governance/trademark/index.rst:83
-msgid ""
-"**Q:** *Domain Name Registration Consent: My organization has applied to "
-"register an internet domain name which includes the element QGIS. If we "
-"enter into a permission, will QGIS consent to our registration?*"
-msgstr "**K:** *Domain Név Bejegyzési Hozzájárulás: Szervezetem be kíván jegyeztetni egy internetes domain nevet, mely tartalmazza a QGIS elemet. Ha engedélyt kérünk, a QGIS hozzájárul-e ennek bejegyzéséhez?*"
-
-#: ../../source/site/getinvolved/governance/trademark/index.rst:85
-msgid ""
-"**A:** QGIS and the QGIS permission have no control over the registration of"
-" domain names, which are distinct from trademarks (see related FAQs above). "
-"QGIS does not oppose the registration of domain names. You do not need a "
-"permission to use a domain name which includes QGIS, unless you use your "
-"QGIS domain name as a trademark."
-msgstr "**V:** A QGIS-nek és a QGIS engedélyének nincs hatása domain nevek bejegyzésére, melyek nem védjegyek (lásd a fenti GYIK-et). A QGIS nem ellenzi domain jegyek bejegyzését. Nincs szüksége engedélyre QGIS elemet tartalmazó domain név bejegyzéséhez, hacsak nem használja ezt a nevet védjegyként."
-
-#: ../../source/site/getinvolved/governance/trademark/index.rst:21
-msgid ""
-"Please routinely explain in your course that QGIS is free and open source "
-"software, and actively encourage anyone to contribute, directly or "
-"indirectly, to the project"
-msgstr ""
 
 #~ msgid ""
 #~ "Please routinely explain in your course that QGIS is free and open source "
@@ -499,4 +536,111 @@ msgstr ""
 #~ "related FAQs above). QGIS does not oppose the registration of domain names. "
 #~ "You do not need a sublicense to use a domain name which includes QGIS, "
 #~ "unless you use your QGIS domain name as a trademark."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The QGIS name and logo are now protected under European law from "
+#~ "unauthorized and confusing uses of the trademark "
+#~ "[https://oami.europa.eu/eSearch/#details/trademarks/012702643]. Our main aim"
+#~ " is to encourage those who do business using QGIS name and logo to "
+#~ "participate actively to the project, and help us improving QGIS."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you write articles, books, blog articles, tutorials, study materials for "
+#~ "university, and similar, you do not need a permission to cite QGIS name and "
+#~ "use the logo in it"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We require you to give attribution to the QGIS project and reference the "
+#~ "project website somewhere in your book, article, etc. This could be a short "
+#~ "paragraph in the Introduction or Preface"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you give a course on QGIS, either academic, free, or commercial, you can "
+#~ "use the logo and the name in course material"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Please avoid confusing terms like \"QGIS manual\", or anything that may give"
+#~ " the impression of an official QGIS product, or is misleading"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you provide services (support, development) on QGIS, you can use QGIS "
+#~ "trademark to describe or advertise your services or products relating to "
+#~ "QGIS, provided this is done in a way that is not misleading"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you use the QGIS logo on a website linking to our websites "
+#~ "(http://qgis.org or any of our domains, or github), you do not need a "
+#~ "permission"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can make t-shirts, desktop wallpapers, caps, or other merchandise with "
+#~ "QGIS trademark for non-commercial usage"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can also make merchandise with QGIS trademark for commercial usage. In "
+#~ "case of commercial usage, we recommend that you truthfully advertise to "
+#~ "customers which part of the selling price, if any, will be donated to the "
+#~ "QGIS project. See our donations page for more information on how to donate "
+#~ "to the QGIS project"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Some uses of QGIS require the user to obtain a permission. For instance:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you plan to market a QGIS-based product or service to the public using a "
+#~ "trademark that includes the element \"QGIS,\" such as \"Super QGIS\" or "
+#~ "\"Professional QGIS\" you are required to apply for and obtain a permission "
+#~ "from the QGIS Project Steering Committee (QGIS-PSC). This is true whether or"
+#~ " not you apply to register your trademark with a government"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you use QGIS trademark in a domain name, with or without commercial "
+#~ "intent"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You cannot use QGIS trademark in any way that suggests an affiliation with "
+#~ "or endorsement by the QGIS project or community, if the same is not true"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You cannot use QGIS trademark in a company or commercial organization name"
+#~ msgstr ""
+
+#~ msgid "You cannot use a name that is confusingly similar to QGIS trademark"
+#~ msgstr ""
+
+#~ msgid "**If in doubt, find out**"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**Q:** *Domain Name Registration Consent: My organization has applied to "
+#~ "register an internet domain name which includes the element QGIS. If we "
+#~ "enter into a permission, will QGIS consent to our registration?*"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**A:** QGIS and the QGIS permission have no control over the registration of"
+#~ " domain names, which are distinct from trademarks (see related FAQs above). "
+#~ "QGIS does not oppose the registration of domain names. You do not need a "
+#~ "permission to use a domain name which includes QGIS, unless you use your "
+#~ "QGIS domain name as a trademark."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Please routinely explain in your course that QGIS is free and open source "
+#~ "software, and actively encourage anyone to contribute, directly or "
+#~ "indirectly, to the project"
 #~ msgstr ""

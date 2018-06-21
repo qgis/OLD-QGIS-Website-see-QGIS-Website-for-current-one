@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-01-20 07:15+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-12-04 03:44+0000\n"
+"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:3
 msgid "QGIS and GRASS applied to paleontological survey in Western Portugal"
-msgstr ""
+msgstr "QGISとGRASSの西洋ポルトガルにおける古生物学の調査への応用"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:5
 msgid ""
@@ -26,11 +27,11 @@ msgid ""
 "from Upper Jurassic. One of the key issues in paleontological management is "
 "to assess spatial context of the sites from where the fossils are retrieved "
 "– hundreds of sites representing thousands of different specimens."
-msgstr ""
+msgstr "Associaçãoレオネルトリンダーデ - Sociedadeデ・自然史（ALT-SHN）は、古生物学に特化、トレシュベドラシュ、ポルトガルでheadquarted非営利機関です。機関は主に上部ジュラ系から、大規模な化石コレクションを管理します。異なる標本の数千人を表す数百のサイト - 古生物学的経営の重要課題の一つは、化石が検索される場所から現場の空間コンテキストを評価することです。"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:8
 msgid "The Project"
-msgstr ""
+msgstr "プロジェクト"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:15
 msgid ""
@@ -40,28 +41,28 @@ msgid ""
 "paleontology) [2]. The project, supported by public and private entities – "
 "mainly the Municipalty, Digiterra.hu and the Army's Geographic Institute "
 "(IGeoE), aimed three goals:"
-msgstr ""
+msgstr "遡って2008年に、私たちは調査をサポートし、私たちが扱った遺産のより全体的な視点を得るために、GIS技術を探求するというアイデアを思い付きました。このアイデアはSIGAPプロジェクト（古生物学に適用されるGIS）を後押し[2]。公共および民間団体が支援するプロジェクト、 - 主にMunicipalty、Digiterra.huと陸軍の地理院（IGeoE）は、三つの目標を目指して："
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:17
 msgid ""
 "Field Survey with Differencial GPS to gather the coordinates of the sites;"
-msgstr ""
+msgstr "サイトの座標を収集するためのDifferencial GPSによる現地調査。"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:18
 msgid ""
 "Build a Risk Model to identify hazards towards paleontological heritage and "
 "thus prevent them through regular field surveys;"
-msgstr ""
+msgstr "古生物学遺産に向けて危険を識別するために、リスクモデルを構築するため、定期的な現地調査を介してそれらを防ぎます。"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:19
 msgid ""
 "Build a Geographic Database to handle all the information and start the "
 "collection inventory."
-msgstr ""
+msgstr "すべての情報を処理するための地理データベースを構築し、コレクションの目録を開始します。"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:22
 msgid "Software we used"
-msgstr ""
+msgstr "私たちが使用するソフトウェア"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:24
 msgid ""
@@ -71,19 +72,19 @@ msgid ""
 "analyis on rasters in order to obtain the risk model we needed to plan our "
 "field work and future prospection. Furthermore it allowed us to import "
 "PostGIS layers and visualize them on QGIS."
-msgstr ""
+msgstr "QGISは、すべてのプロジェクトのメインフレームでした。データは、QGISに直接ダンプし、次に編集し、所望の出力を達成するために操作されました。QGISによって提供さGRASSインターフェイスは、私たちは私たちがフィールドワークや将来prospectionを計画するために必要なリスクモデルを得るために、ラスタ上の複雑な空間analyisを実施することができました。さらに、それは、私たちはPostGISレイヤをインポートし、QGIS上でそれらを視覚化することができました。"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:31
 msgid "Vector point data editing and visualization"
-msgstr ""
+msgstr "ベクタポイントデータの編集と視覚化"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:40
 msgid "Paleontological Risk Map"
-msgstr ""
+msgstr "古生物学リスク地図"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:43
 msgid "Conclusion"
-msgstr ""
+msgstr "結論"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:55
 msgid "Author"
@@ -91,7 +92,7 @@ msgstr "制作者"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:62
 msgid "André Mano"
-msgstr ""
+msgstr "アンドレ・マノ"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:64
 msgid ""
@@ -100,15 +101,15 @@ msgid ""
 "Sociedade de História Natural. His area of interest is focused on "
 "geotechnology applications to the fields of paleontology, archeology and "
 "cultural heritage."
-msgstr ""
+msgstr "この記事は、アンドレ・マノによって2010年11月に寄贈されました。Sociedadeデ・自然史 - 彼はAssociaçãoレオネルトリンダーデのGeopraphic部門を担当しています。関心の彼の領域は古生物学、考古学と文化遺産の分野への地質工学の応用に焦点を当てています。"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:48
 msgid "References"
-msgstr ""
+msgstr "参考文献"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:50
 msgid "[1] www.alt-shn.org (portuguese only)"
-msgstr ""
+msgstr "[1] www.alt-shn.org（ポルトガル語のみ）"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:51
 msgid ""
@@ -116,14 +117,14 @@ msgid ""
 "Paleontologia. Paleolusitana: Revista de Paleontologia e Paleoecologia, "
 "Torres Vedras: Alt-Sociedade de História Natural. ISSN 1647-2756, n.º 1, p. "
 "245-250."
-msgstr ""
+msgstr "[2] MANO, André. (2009) – Sistema de Informação Geográfica Aplicado à Paleontologia. Paleolusitana: Revista de Paleontologia e Paleoecologia, Torres Vedras: Alt-Sociedade de História Natural. ISSN 1647-2756, n.º 1, p. 245-250."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:52
 msgid ""
 "[3] Mano, André. (2010) – Projecto SIGAP, Trabalho de Projecto apresentado "
 "como requisito parcial para a obtenção do grau de Mestre em Ciência e "
 "Sistemas de Informação Geográfica. ISEGI – UNL, Lisboa, 2010"
-msgstr ""
+msgstr "[3] Mano、André。（2010） -  SIGAPプロジェクト、プロジェクトワークは科学と地理情報システムの修士号を取得するための部分的な要件として提出されました。ISEGI  -  UNL、Lisbon、2010"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:33
 msgid ""
@@ -132,7 +133,7 @@ msgid ""
 "different systems --– we have Mac, Windows PC and Linux PC, therefore it's "
 "of extreme importance that we have the freedom to install the software on "
 "any machine we want so we don't get stuck to a particular computer."
-msgstr ""
+msgstr "QGISのための選択は、マルチプラットフォームのサポートに励まされました。したがって、それは私たちが望む任意のマシンので、私たちはドンにソフトウェアをインストールする自由を持っていることを極めて重要だ、私たちは、Mac、WindowsのPCとLinux PCを持っている---機関は、次の3つの施設を持っており、それらの施設のそれぞれは、異なるシステムを持っています「Tは、特定のコンピュータにはまり込みます。"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:45
 msgid ""
@@ -146,7 +147,7 @@ msgid ""
 "if you have to train first time users has we've done. The easyness of the "
 "interface makes production of maps an everyday task and brought people "
 "closer to spatial approaches [3]."
-msgstr ""
+msgstr "QGISでの全体的な経験は非常に良いと推奨されている定格することができます。私たちの観点からは、QGISの主な利点はそれだけでGISソフトウェアではないということです---それは、空間データのための生産性スイートです。それは、私たちは、単一の作業環境内の他の強力なツールを活用することができました。QGISからは、GRASSと、PostGISにして、GPSデータと、Webサービスで、世界中のユーザーによって開発された便利なプラグインの数十で動作することができます。ユーザーフレンドリーなインターフェイスは、あなたが私たちがやったのは今回が初めてのユーザーを訓練する必要がある場合は特に、また、大きな利点です。インタフェースのeasynessは、マップの生産日常のタスクと近い空間的アプローチに人々をもたらした[3]になります。"
 
 #~ msgid ""
 #~ "The choice for QGIS was also encouraged by the multi platform support. The "

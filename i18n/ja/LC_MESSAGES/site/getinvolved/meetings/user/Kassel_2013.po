@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-23 14:40\n"
-"PO-Revision-Date: 2013-09-23 16:18+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Japanese (http://www.transifex.com/projects/p/qgis-website/language/ja/)\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2017-11-29 03:53+0000\n"
+"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/meetings/user/Kassel_2013.rst:2
 msgid "7th german-speaking QGIS User Meeting in Kassel 2013"
-msgstr ""
+msgstr "第7回ドイツ語圏QGISユーザー会議（カッセル2013）"
 
 #: ../../source/site/getinvolved/meetings/user/Kassel_2013.rst:4
 msgid ""
@@ -27,11 +28,11 @@ msgid ""
 " and other interested participants joint the meeting to discuss about QGIS. "
 "Besides practical reports and individual experiences, workshops were at the "
 "center of the event."
-msgstr ""
+msgstr "2013年9月20日、第7回ドイツ語を話すQGISユーザー会議がカッセルで開催されました。イベントはOtto Dassau（QGISプロジェクト）とClaas Leiner博士（Serviceportal GIS und Geodaten am FB 06 der Uni Kassel）が主催し、ドイツのFOSSGIS協会の支援を受けました。今回は、80人のユーザー、開発者および他の関心のある参加者が会議を開いてQGISについて話し合った。実践的なレポートや個人的な経験のほかに、ワークショップがイベントの中心でした。"
 
 #: ../../source/site/getinvolved/meetings/user/Kassel_2013.rst:7
 msgid "Programm (in german)"
-msgstr ""
+msgstr "プログラム（ドイツ語）"
 
 #: ../../source/site/getinvolved/meetings/user/Kassel_2013.rst:9
 msgid "ab 08:30: Begrüssungskaffee, Anmeldung"
@@ -49,7 +50,7 @@ msgstr ""
 msgid ""
 "09:05 - 09:30: Überblick zu den neuen Funktionen in QGIS 2.0, Otto Dassau "
 "(Geoinformatik Büro Dassau)"
-msgstr ""
+msgstr "09:05  -  09:30：Otto Dassau QGIS 2.0の新機能の概要（ダッソー・ジオインフォマティクス・オフィス）"
 
 #: ../../source/site/getinvolved/meetings/user/Kassel_2013.rst:13
 msgid ""
@@ -76,13 +77,13 @@ msgid ""
 "11:00 - 11:20: Analyse von Wildtier-Telemetrie-Daten mit QGIS sowie "
 "Weiterverarbeitung in Blender, Jens Eligehausen (Helmholtz-Zentrum für "
 "Umweltforschung-UFZ)"
-msgstr ""
+msgstr "11:00  -  11:20：QGISによる野生動物遠隔測定データの分析とJender Eligehausen（ヘルムホルツ環境研究センター -  UFZ）のさらなる処理"
 
 #: ../../source/site/getinvolved/meetings/user/Kassel_2013.rst:18
 msgid ""
 "11:20 - 11:40: Darstellung weltweiter Meeresenergie-Ressourcen und -Anlagen "
 "mit QGIS-Server und -Webclient, Fabian Thalemann (Fraunhofer-Institut IWES)."
-msgstr ""
+msgstr "11:20  -  11:40：QGISサーバーとWebクライアント、Fabian Thalemann（Fraunhofer Institute IWES）による世界の海洋エネルギー資源とシステムの紹介。"
 
 #: ../../source/site/getinvolved/meetings/user/Kassel_2013.rst:19
 msgid ""
@@ -94,7 +95,7 @@ msgstr ""
 msgid ""
 "12:00 - 12:20: SQL in der Geodatenverarbeitung für die Forstwirtschaft "
 "(Bernd Marcus, GISwana - Forstdienstleistungen & Geomatik)"
-msgstr ""
+msgstr "12:00  -  12:20：森林のための地理データ処理におけるSQL（Bernd Marcus、GISwana  - 森林サービス＆地球科学）"
 
 #: ../../source/site/getinvolved/meetings/user/Kassel_2013.rst:21
 msgid "12:20 - 14:00: Mittagspause (Mittagessen in der Mensa K10)"
@@ -126,7 +127,7 @@ msgid ""
 "Workshop 1: Introduction to QGIS 2.0 with focus on new features, Otto Dassau"
 " (Geoinformatik Büro Dassau). This workshop is an introduction to the "
 "software with a focus on the new features in version 2.0."
-msgstr ""
+msgstr "ワークショップ1：新しい機能に焦点を当てたQGIS 2.0の紹介、Otto Dassau（GeoinformatikBüroDassau）このワークショップは、バージョン2.0の新機能に焦点を当てたソフトウェアの紹介です。"
 
 #: ../../source/site/getinvolved/meetings/user/Kassel_2013.rst:32
 msgid ""
@@ -134,7 +135,7 @@ msgid ""
 "(OpenGeo) - Workshop in English - In this workshop, the SEXTANTE analysis "
 "framework and the model builder is presented and explained by means of "
 "examples and exercises."
-msgstr ""
+msgstr "ワークショップ2：SEXTANTE分析フレームワークとモデルビルダ、Victor Olaya（OpenGeo） - 英語によるワークショップ - このワークショップでは、SEXTANTE分析フレームワークとモデルビルダーを例と演習で示し、説明します。"
 
 #: ../../source/site/getinvolved/meetings/user/Kassel_2013.rst:33
 msgid ""
@@ -142,4 +143,4 @@ msgid ""
 "renderer in QGIS, Dr. Claas Leiner (University of Kassel). In this workshop "
 "the possibilities of the rule-based renderer and labeling are presented with"
 " practical examples."
-msgstr ""
+msgstr "ワークショップ3：QGISのルールベースレンダラを使用した複雑な地図デザインとシンボル、Claas Leiner博士（カッセル大学）。 このワークショップでは、ルールベースのレンダラとラベリングの可能性を実際的な例とともに示します。"

@@ -1,13 +1,15 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 # k_zoar <zoar@k-side.net>, 2016
+# Satoshi IIDA <nyampire@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-06-21 12:23+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-11-28 03:08+0000\n"
+"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,11 +23,11 @@ msgstr "QGISデスクトップ"
 
 #: ../../source/site/about/features.rst:9
 msgid "Create, edit, visualise, analyse and publish geospatial information."
-msgstr "地理空間情報の作成,編集,可視化と公開を行います."
+msgstr "地理空間情報の作成、編集、可視化と公開を行います。"
 
 #: ../../source/site/about/features.rst:11
 msgid "For Windows, Mac, Linux, BSD and Android."
-msgstr " Windows, Mac, Linux, BSD と Android.で使えます."
+msgstr " Windows, Mac, Linux, BSD と Androidで使えます。"
 
 #: ../../source/site/about/features.rst:16
 msgid "A screenshot of QGIS Desktop"
@@ -37,11 +39,11 @@ msgstr "QGISブラウザ"
 
 #: ../../source/site/about/features.rst:22
 msgid "Browse and preview your data and metadata."
-msgstr "データとメタデータを閲覧、プレビューできます."
+msgstr "データとメタデータを閲覧、プレビューできます。"
 
 #: ../../source/site/about/features.rst:24
 msgid "Drag and drop your data from one datastore into the other one."
-msgstr "あなたのデータをあるデータストアから別のデータストアにドラッグアンドドロップしてください."
+msgstr "あなたのデータをあるデータストアから別のデータストアにドラッグアンドドロップしてください。"
 
 #: ../../source/site/about/features.rst:29
 msgid "A screenshot of QGIS Browser"
@@ -56,11 +58,11 @@ msgid ""
 "Publish your QGIS projects and layers as OGC compatible WMS and WFS "
 "services. Control which layers, attributes, layouts and coordinate systems "
 "are exported."
-msgstr "あなたのQGISプロジェクトとレイヤをOGC互換のWMSやWFSサービスとして公開しましょう.どのレイヤ、属性、レイアウト、座標系を使うかはコントロールできます."
+msgstr "あなたのQGISプロジェクトとレイヤをOGC互換のWMSやWFSサービスとして公開しましょう.どのレイヤ、属性、レイアウト、座標系を使うかはコントロールできます。"
 
 #: ../../source/site/about/features.rst:42
 msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
-msgstr "QGISサーバの構成をQGISデスクトップで行っているスクリーンショット"
+msgstr "QGISサーバーの構成をQGISデスクトップで行っているスクリーンショット"
 
 #: ../../source/site/about/features.rst:45
 msgid "QGIS Web Client"
@@ -70,7 +72,7 @@ msgstr "QGIS Webクライアント"
 msgid ""
 "Publish your QGIS projects on the web with ease. Benefit from the powerful "
 "symbology, labeling and blending features to impress with your maps."
-msgstr "あなたのQGISプロジェクトを簡単にWEBに公開できます.強力なシンボロジーやラべリング、地物の混合であなたの地図の表現力向上に役に立ちます."
+msgstr "あなたのQGISプロジェクトを簡単にWEBに公開できます。強力なシンボロジーやラべリング、地物の混合であなたの地図の表現力向上に役に立ちます。"
 
 #: ../../source/site/about/features.rst:54
 msgid "A screenshot of QGIS Web Client"
@@ -84,7 +86,7 @@ msgstr "Android版QGIS（beta!)"
 msgid ""
 "Work is being done to use QGIS on Android devices. Current builds are very "
 "experimental, and not for the faint of heart."
-msgstr "AndroidデバイスでQGISを動作させることもできます.カレントビルドは実験的なもので心臓の弱い人向けではありません."
+msgstr "AndroidデバイスでQGISを動作させることもできます。現在のビルドは実験的なもので、心臓の弱い人向けではありません。"
 
 #: ../../source/site/about/features.rst:66
 msgid "A screenshot of QGIS on Android"
@@ -92,13 +94,13 @@ msgstr "Android版QGISのスクリーンショット"
 
 #: ../../source/site/about/features.rst:2
 msgid "Applications"
-msgstr ""
+msgstr "アプリケーション"
 
 #: ../../source/site/about/features.rst:4
 msgid ""
 "QGIS is not only a desktop GIS. We also provide a spatial file browser, a "
 "server application, and web applications."
-msgstr ""
+msgstr "QGISは単なるデスクトップGISではありません。QGISでは地理空間情報ファイルブラウザや、サーバアプリケーション、ウェブアプリケーションの提供も行っています。"
 
 #~ msgid "QGIS Applications"
 #~ msgstr ""

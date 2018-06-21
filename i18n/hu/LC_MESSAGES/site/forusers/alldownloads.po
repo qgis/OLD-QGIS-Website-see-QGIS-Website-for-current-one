@@ -1,21 +1,24 @@
 # 
 # Translators:
+# Balázs Meskó <meskobalazs@gmail.com>, 2017
 # Csaba Sandor <sandor.csaba@gmail.com>, 2015
 # Falu <info@falu.me>, 2015
 # Richard Duivenvoorde <richard@duif.net>, 2016
-# Toldi Zoltán <ifj.toldi.zoltan@gmail.com>, 2016
+# Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2016-2017
 # Zoltan Siki <siki@agt.bme.hu>, 2015-2016
+# Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-06-26 15:07+0000\n"
-"Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
+"POT-Creation-Date: 2018-05-20 16:17+0200\n"
+"PO-Revision-Date: 2018-05-20 14:27+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -25,186 +28,11 @@ msgstr "QGIS telepítők"
 
 #: ../../source/site/forusers/alldownloads.rst:7
 msgid "How to obtain QGIS?"
-msgstr "Hogyan kaphatom meg  QGIS-t?"
+msgstr "Hogyan szerezhetem be a QGIS-t?"
 
 #: ../../source/site/forusers/alldownloads.rst:9
 msgid "QGIS is freely available on Windows, Linux, MacOS X, BSD, and Android."
-msgstr "A QGIS szabadon elérhető Windows-on, Linux-on, MacOS X-en és Anroidon."
-
-#: ../../source/site/forusers/alldownloads.rst:24
-msgid "Windows"
-msgstr "Windows"
-
-#: ../../source/site/forusers/alldownloads.rst:26
-msgid ""
-"For Windows installers please go to `The main installers page "
-"<./download.html>`_."
-msgstr "A Windows telepítőkért menjen a `Fő telepítők oldalra <./download.html>`_."
-
-#: ../../source/site/forusers/alldownloads.rst:29
-msgid "For new users we recommend the standalone installers."
-msgstr "Az új felhasználóknak az önálló telepítőt ajánljuk."
-
-#: ../../source/site/forusers/alldownloads.rst:79
-msgid "Linux"
-msgstr "Linux"
-
-#: ../../source/site/forusers/alldownloads.rst:160
-msgid "Ubuntu"
-msgstr "Ubuntu"
-
-#: ../../source/site/forusers/alldownloads.rst:221
-#: ../../source/site/forusers/alldownloads.rst:264
-#: ../../source/site/forusers/alldownloads.rst:280
-#: ../../source/site/forusers/alldownloads.rst:320
-#: ../../source/site/forusers/alldownloads.rst:330
-#: ../../source/site/forusers/alldownloads.rst:350
-#: ../../source/site/forusers/alldownloads.rst:376
-msgid "QGIS stable"
-msgstr "Stabil QGIS"
-
-#: ../../source/site/forusers/alldownloads.rst:243
-#: ../../source/site/forusers/alldownloads.rst:304
-#: ../../source/site/forusers/alldownloads.rst:365
-#: ../../source/site/forusers/alldownloads.rst:384
-msgid "QGIS testing"
-msgstr "Teszt QGIS"
-
-#: ../../source/site/forusers/alldownloads.rst:154
-msgid "Debian"
-msgstr "Debian"
-
-#: ../../source/site/forusers/alldownloads.rst:191
-msgid ""
-"Please remove all the QGIS and GRASS packages you may have installed from "
-"other repositories before doing the update."
-msgstr "Kérjük távolítsa el a frissítés előtt az összes QGIS és GRASS csomagot, melyet más tárházakból telepített ."
-
-#: ../../source/site/forusers/alldownloads.rst:218
-msgid "Fedora"
-msgstr "Fedora"
-
-#: ../../source/site/forusers/alldownloads.rst:223
-msgid "Get packages for any Fedora by typing::"
-msgstr "Bármelyik Fedora verzióhoz a csomagok letöltéséhez gépelje be::"
-
-#: ../../source/site/forusers/alldownloads.rst:247
-msgid ""
-"A newer version might be available in the testing repository -- usually "
-"around one week::"
-msgstr "Egy újabb változat is elérhető lehet a teszt tárházban - általában hetente::"
-
-#: ../../source/site/forusers/alldownloads.rst:253
-msgid "RHEL, CentOS, Scientific Linux"
-msgstr "RHEL, CentOS, Scientific Linux"
-
-#: ../../source/site/forusers/alldownloads.rst:258
-msgid "Try the ELGIS repository: http://elgis.argeo.org/"
-msgstr "Próbálja meg az ELGIS tárházat: http://elgis.argeo.org/"
-
-#: ../../source/site/forusers/alldownloads.rst:260
-msgid ""
-"ELGIS requires the EPEL repo enabled, see "
-"http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL"
-msgstr "ELGIS-hez engedélyezni az EPEL tárolót, további információ: http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL"
-
-#: ../../source/site/forusers/alldownloads.rst:277
-msgid "openSUSE"
-msgstr "openSUSE"
-
-#: ../../source/site/forusers/alldownloads.rst:256
-msgid "QGIS 1.8"
-msgstr "QGIS 1.8"
-
-#: ../../source/site/forusers/alldownloads.rst:317
-msgid "Mandriva"
-msgstr "Mandriva"
-
-#: ../../source/site/forusers/alldownloads.rst:322
-msgid "Current::"
-msgstr "Aktuális::"
-
-#: ../../source/site/forusers/alldownloads.rst:327
-msgid "Slackware"
-msgstr "Slackware"
-
-#: ../../source/site/forusers/alldownloads.rst:332
-msgid "Packages on http://qgis.gotslack.org"
-msgstr "Csomagok a http://qgis.gotslack.org-on"
-
-#: ../../source/site/forusers/alldownloads.rst:335
-msgid "ArchLinux"
-msgstr "ArchLinux"
-
-#: ../../source/site/forusers/alldownloads.rst:337
-msgid "Archlinux users are encouraged to use the Arch User Repository (AUR)."
-msgstr "Az ArcLinux felhasználókat arra ösztönözzük, hogy az Arch User Repository-t (AUR) használják."
-
-#: ../../source/site/forusers/alldownloads.rst:339
-msgid ""
-"Information about available versions, bugs and archlinux specific "
-"instructions can be found at: https://aur.archlinux.org/packages/?O=0&K=qgis"
-msgstr "Az elérhető verziókról, hibákról és archlinux specifikus instrukciókról itt találhat információt: https://aur.archlinux.org/packages/?O=0&K=qgis"
-
-#: ../../source/site/forusers/alldownloads.rst:344
-msgid "MacOS X"
-msgstr "MacOS X"
-
-#: ../../source/site/forusers/alldownloads.rst:346
-msgid ""
-"A single installer package is available for both OS X Lion (10.7) and Snow "
-"Leopard (10.6)."
-msgstr "Egyetlen telepítő csomag áll rendelkezésre mind az OS X Lion (10.7) mind a Snow Leopard (10.6) verziókhoz."
-
-#: ../../source/site/forusers/alldownloads.rst:352
-msgid ""
-"Installing QGIS stable in OS X requires separate installation of several "
-"`dependency frameworks <http://www.kyngchaos.com/software/frameworks>`_ "
-"(GDAL Complete and GSL). GRASS http://www.kyngchaos.com/software/grass is "
-"supported with this version. Some common Python modules "
-"http://www.kyngchaos.com/software/python are also available for common QGIS "
-"plugin requirements."
-msgstr "A stabil  QGIS telepítéséhez szükséges még néhány `függőségi keretrendszer <http://www.kyngchaos.com/software/frameworks>`_ telepítése is (GDAL Complete és GSL). GRASS http://www.kyngchaos.com/software/grass támogatott ezzel a verzióval. Néhány közös Python modul http://www.kyngchaos.com/software/python is elérhető a QGIS beépülők számára."
-
-#: ../../source/site/forusers/alldownloads.rst:359
-msgid ""
-"QGIS download page on KyngChaos http://www.kyngchaos.com/software/qgis "
-"(framework requirements listed there) has more information."
-msgstr "A KyngChaos QGIS letöltési oldala http://www.kyngchaos.com/software/qgis (keretrendszer feltételek itt találhatók) további információkat tartalmaz."
-
-#: ../../source/site/forusers/alldownloads.rst:367
-msgid ""
-"QGIS testing builds (Nightly build) at http://qgis.dakotacarto.com are "
-"provided by Dakota Cartography."
-msgstr "QGIS teszt változatot (nightly build) készít a  Dakota Cartography a  http://qgis.dakotacarto.com oldalon."
-
-#: ../../source/site/forusers/alldownloads.rst:373
-msgid "FreeBSD"
-msgstr "FreeBSD"
-
-#: ../../source/site/forusers/alldownloads.rst:395
-msgid "Android"
-msgstr "Android"
-
-#: ../../source/site/forusers/alldownloads.rst:194
-msgid ""
-"In case of keyserver errors add the qgis.org repository public key to your "
-"apt keyring, type::"
-msgstr "Kulcsszerver hiba esetén qgis.org tároló publikus kulcsát az apt kulcstárolóhoz így lehet hozzáadni::"
-
-#: ../../source/site/forusers/alldownloads.rst:289
-#: ../../source/site/forusers/alldownloads.rst:301
-#: ../../source/site/forusers/alldownloads.rst:314
-msgid "All packages include GRASS and Python support."
-msgstr "Minden csomag tartalmazza a GRASS és Python támogatást"
-
-#: ../../source/site/forusers/alldownloads.rst:378
-msgid "To compile QGIS from binary packages type ::"
-msgstr "QGIS fordítás bináris csomagból::"
-
-#: ../../source/site/forusers/alldownloads.rst:386
-msgid "To compile QGIS from sources in FreeBSD you need to type ::"
-msgstr "QGIS fordítás a forrásokból FreeBSD-n::"
+msgstr "A QGIS szabadon elérhető Windowson, Linuxon, MacOS X-en és Androidon."
 
 #: ../../source/site/forusers/alldownloads.rst:11
 msgid "We recommend installing the packages of the released software."
@@ -223,6 +51,26 @@ msgid ""
 "urge users to test**."
 msgstr "A kiadást megelőző, a funkció bővítés befagyasztása idején (lásd  :ref:`QGIS-release-schedule`) a csomagok **előzetes kiadások, melyek tesztelését nyomatékosan javasoljuk a felhasználóknak**."
 
+#: ../../source/site/forusers/alldownloads.rst:24
+msgid "Windows"
+msgstr "Windows"
+
+#: ../../source/site/forusers/alldownloads.rst:26
+msgid ""
+"For Windows installers please go to `The main installers page "
+"<./download.html>`_."
+msgstr "A windowsos telepítőkért menjen a `Fő telepítők oldalra <./download.html>`_."
+
+#: ../../source/site/forusers/alldownloads.rst:29
+msgid "For new users we recommend the standalone installers."
+msgstr "Az új felhasználóknak az önálló telepítőt ajánljuk."
+
+#: ../../source/site/forusers/alldownloads.rst:31
+msgid ""
+"For more advanced QGIS users you can use OSGeo4W packages, which make it "
+"possible to install several versions in parallel."
+msgstr "A tapasztaltabb QGIS felhasználók használhatják az OSGeo4W csomagot, mely lehetővé teszi több változat párhuzamos telepítését."
+
 #: ../../source/site/forusers/alldownloads.rst:34
 msgid ""
 "The OSGeo4W repository contains a lot of software from OSGeo projects. QGIS "
@@ -233,56 +81,694 @@ msgid ""
 msgstr "Az OSGeo4W tárház sok szoftvert tartalmaz az OSGeo projektek közül. A QGIS-t és az összes függőségeket tartalmazza, Python, GRASS, GDAL, stb. A telepítő az internetről képes telepíteni vagy előzetesen letölthetjük az összes szükséges csomagot. A letöltött fájlok egy helyi könyvtárba kerülnek a későbbi telepítéshez. A lépések:"
 
 #: ../../source/site/forusers/alldownloads.rst:41
-msgid "Download OSGeo4W Installer and start it"
-msgstr "Töltse le az OSGeo4W telepítőt és indítsa el"
+msgid ""
+"Download OSGeo4W Installer (`32 bit <http://download.osgeo.org/osgeo4w"
+"/osgeo4w-setup-x86.exe>`_ or `64 bit <http://download.osgeo.org/osgeo4w"
+"/osgeo4w-setup-x86_64.exe>`_) and start it"
+msgstr "Töltse le az OSGeo4W telepítőt (`32 bit <http://download.osgeo.org/osgeo4w/osgeo4w-setup-x86.exe>`_ vagy `64 bit <http://download.osgeo.org/osgeo4w/osgeo4w-setup-x86_64.exe>`_) és indítsa el."
 
 #: ../../source/site/forusers/alldownloads.rst:43
 msgid "Select *Advanced Install*,"
 msgstr "Válassza az *Advanced Install*-t"
 
-#: ../../source/site/forusers/alldownloads.rst:45
-msgid "navigate to the *Desktop* section and"
-msgstr "navigáljon a *Desktop* fejezethez és"
+#: ../../source/site/forusers/alldownloads.rst:44
+msgid "navigate to the *Desktop* section"
+msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:65
+#: ../../source/site/forusers/alldownloads.rst:45
+msgid "and pick one or more of the following packages:"
+msgstr "és válasszon egyet vagy többet a következő csomagokból:"
+
+#: ../../source/site/forusers/alldownloads.rst:48
+#: ../../source/site/forusers/alldownloads.rst:50
+#: ../../source/site/forusers/alldownloads.rst:54
+#: ../../source/site/forusers/alldownloads.rst:142
+msgid "Release"
+msgstr "Kiadás"
+
+#: ../../source/site/forusers/alldownloads.rst:48
+#: ../../source/site/forusers/alldownloads.rst:142
+#: ../../source/site/forusers/alldownloads.rst:189
+msgid "Version"
+msgstr "Verzió"
+
+#: ../../source/site/forusers/alldownloads.rst:48
+msgid "Package"
+msgstr "Csomag"
+
+#: ../../source/site/forusers/alldownloads.rst:48
+#: ../../source/site/forusers/alldownloads.rst:142
+msgid "Description"
+msgstr "Leírás"
+
+#: ../../source/site/forusers/alldownloads.rst:50
+#: ../../source/site/forusers/alldownloads.rst:144
+msgid "Latest Release"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:50
+#: ../../source/site/forusers/alldownloads.rst:144
+msgid "|version|.x |codename| |releasenote|"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:50
+msgid "qgis"
+msgstr "qgis"
+
+#: ../../source/site/forusers/alldownloads.rst:52
+msgid "qgis-rel-dev [1]_"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:52
+msgid "Nightly build of the upcoming point release"
+msgstr "A következő kiadás nightly build-je"
+
+#: ../../source/site/forusers/alldownloads.rst:54
+#: ../../source/site/forusers/alldownloads.rst:159
+msgid "Long Term Release Repository"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:54
+#: ../../source/site/forusers/alldownloads.rst:159
+msgid "|ltrversion|.x |ltrcodename| |ltrnote|"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:54
+msgid "qgis-ltr"
+msgstr "qgis-ltr"
+
+#: ../../source/site/forusers/alldownloads.rst:56
+msgid "qgis-ltr-dev [2]_"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:56
+msgid "Nightly build of the upcoming point long term release"
+msgstr "A következő hosszútávú kiadás nightly build-je"
+
+#: ../../source/site/forusers/alldownloads.rst:58
+msgid "Development"
+msgstr "Fejlesztés"
+
+#: ../../source/site/forusers/alldownloads.rst:58
+#: ../../source/site/forusers/alldownloads.rst:174
+msgid "|devversion| master"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:58
+msgid "qgis-dev [3]_"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:58
+msgid "Nightly build of the development version"
+msgstr "A fejlesztői változat nightly build-je"
+
+#: ../../source/site/forusers/alldownloads.rst:61
+msgid ""
+"Latest release nightlies SHA: `32 bit "
+"<http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-rel-"
+"dev/LATEST.sha>`__, `64 bit "
+"<http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-ltr-"
+"dev/LATEST.sha>`__"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:64
+msgid ""
+"Latest long-term release nightlies SHA: `32 bit "
+"<http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-ltr-"
+"dev/LATEST.sha>`__, `64 bit "
+"<http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-ltr-"
+"dev/LATEST.sha>`__"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:67
+msgid ""
+"Master nightlies SHA: `32 bit "
+"<http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-dev/LATEST.sha>`__,"
+" `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-"
+"dev/LATEST.sha>`__"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:73
 msgid ""
 "For users that cannot use OSGeo4W for some reason or just prefer it there is"
-" also a `weekly snapshot <http://qgis.org/downloads/weekly/?C=M;O=D>`_ of "
+" also a `weekly snapshot <https://qgis.org/downloads/weekly/?C=M;O=D>`_ of "
 "qgis-dev from OSGeo4W as *standalone installer* (taken on monday).  In the "
 "feature freeze phase that also acts as **release candidate**."
-msgstr "Azoknak a felhasználóknak akik valamilyen ok miatt nem tudják az OSGeo4W-t használni vagy mást részesítenek előnybe, van egy *önállóan telepíthető* qgis-dev, egy `heti pillanatképe <http://qgis.org/downloads/weekly/?C=M;O=D>`_ az OSGeo4W-ből (hétfőnként készül). A funkció bővítés befagyasztása idején ez mint **kiadásra megjelölt** is szerepel."
+msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:70
-#: ../../source/site/forusers/alldownloads.rst:245
-#: ../../source/site/forusers/alldownloads.rst:370
-#: ../../source/site/forusers/alldownloads.rst:392
+#: ../../source/site/forusers/alldownloads.rst:78
+#: ../../source/site/forusers/alldownloads.rst:422
 msgid "Note the warning_."
 msgstr "Figyelmeztetés_."
 
-#: ../../source/site/forusers/alldownloads.rst:72
+#: ../../source/site/forusers/alldownloads.rst:80
 msgid ""
 "Don't blindly do a full install of OSGeo4W. Only install QGIS and maybe "
 "other components you like.  Dependencies will be included automatically.  A "
 "full install pulls in components that require third party additions, which "
 "need to be installed manually.  These components render the installation "
 "unusable without those additions."
-msgstr "Ne telepítsd vakon az egész OSGeo4W-t! Elegendő a QGIS-t és néhány szükséges összetevőt, amit szeretnél. A függőségek automatikusan hozzá lesznek adva. A teljes telepítés olyan összetevőket hozhat, amik  harmadik féltől származó kiegészítők manuális telepítését igénylik. Ezek az összetevők a szükséges kiegészítők nélkül instabillá tehetik a telepített rendszert."
+msgstr "Ne telepítse vakon az egész OSGeo4W-t! Elegendő a QGIS-t és néhány szükséges összetevőt, amit szeretne. A függőségek automatikusan hozzá lesznek adva. A teljes telepítés olyan összetevőket hozhat, amik harmadik féltől származó kiegészítők manuális telepítését igénylik. Ezek az összetevők a szükséges kiegészítők nélkül instabillá tehetik a telepített rendszert."
 
-#: ../../source/site/forusers/alldownloads.rst:86
+#: ../../source/site/forusers/alldownloads.rst:87
+msgid "Linux"
+msgstr "Linux"
+
+#: ../../source/site/forusers/alldownloads.rst:89
+msgid ""
+"Most linux distributions split QGIS into several packages; you'll probably "
+"need qgis and qgis-python (to run plugins). Packages like qgis-grass (or "
+"qgis-plugin-grass), qgis-server can be skipped initially, or installed only "
+"when you need them."
+msgstr "A legtöbb Linux disztribúció A QGIS-t több csomagra bontja; valószínűleg a qgis és a qgis-python (modulok futtatásához) csomagra lesz szüksége. Az olyan csomagokat mint qgis-grass (vagy qgis-plugin-grass), qgis-server először kihagyhatja, vagy akkor installálhatja amikor szüksége lesz rájuk."
+
+#: ../../source/site/forusers/alldownloads.rst:94
 msgid ""
 "Below you find instructions to install per distribution.  For most distro's "
 "there are instructions to install QGIS stable and instructions to install a "
 "cutting edge QGIS testing build (note the warning_)."
 msgstr "Itt talál disztribúciónkénti leírást a telepítésről. A legtöbb disztribúcióhoz létezik telepítési leírás a QGIS stabil és a QGIS legújabb testing változatához (vegye tekintetbe a figyelmeztetést_)."
 
-#: ../../source/site/forusers/alldownloads.rst:266
+#: ../../source/site/forusers/alldownloads.rst:100
+msgid "Debian/Ubuntu"
+msgstr "Debian/Ubuntu"
+
+#: ../../source/site/forusers/alldownloads.rst:102
+msgid ""
+"Default Debian and Ubuntu software repositories often hold older versions of"
+" QGIS."
+msgstr "Az alapértelmezett Debian és Ubuntu program szoftvertárolók gyakran korábbi QGIS  verziót tartalmaznak."
+
+#: ../../source/site/forusers/alldownloads.rst:105
+msgid ""
+"To have newer versions, you have to add alternative software repositories, "
+"by adding one of the deb-lines below to your /etc/apt/sources.list file."
+msgstr "Egy újabb verzió beszerzéséhez, alternatív szoftvertárolót kell megadnia az alábbi deb-lines-ok közül az egyiket adja a /etc/apt/sources.list fájljához."
+
+#: ../../source/site/forusers/alldownloads.rst:108
+msgid ""
+"Our main repository contains multiple lines of packages for several versions"
+" of **Debian and Ubuntu** based on the dependencies the individual "
+"distributions provide."
+msgstr "Fő tárolónk több csomagot tartalmaz számos **Debian és Ubuntu** verzióhoz, az egyes disztribúciók által szolgáltatott függőségek alapján."
+
+#: ../../source/site/forusers/alldownloads.rst:112
+msgid ""
+"For Ubuntu we also have extra packages in a separate repository that are "
+"based on `ubuntugis <https://launchpad.net/~ubuntugis>`_, which holds more "
+"uptodate versions of other GIS packages than Ubuntu itself. If you want "
+"those you also need to include ubuntugis ppa in your /etc/apt/sources.list "
+"file (see `ubuntugis documentation "
+"<https://trac.osgeo.org/ubuntugis/wiki/UbuntuGISRepository>`_)."
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:120
+msgid ""
+"The release packages are only produced once shortly after a new version has "
+"been released.  As unstable, not yet released debian versions (testing) and "
+"ubuntugis can have library changes the packages might sooner or later be "
+"broken for these targets, when the development in debian, ubuntu or "
+"ubuntugis moves on and their packages used as dependencies in qgis change.  "
+"In that event you can either"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:127
+msgid "move to a stable debian version and use the released packages for it,"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:128
+msgid ""
+"wait for the next point release (due |nextpointreleasedate|), which happens "
+"every month and will include the updated dependencies,"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:130
+msgid ""
+"switch to a nightly repository (available for the **two** release branches "
+"and master) whose packages are rebuild on regular basis and will also pickup"
+" the updated dependencies automatically or"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:133
+msgid "build your own set of packages (see INSTALL_)."
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:139
+msgid "Lines of packages:"
+msgstr "Csomagok:"
+
+#: ../../source/site/forusers/alldownloads.rst:142
+msgid "Repository"
+msgstr "Tároló"
+
+#: ../../source/site/forusers/alldownloads.rst:144
+#: ../../source/site/forusers/alldownloads.rst:159
+msgid "Release for **Debian and Ubuntu**"
+msgstr "Kiadások **Debianhoz és Ubuntuhoz**"
+
+#: ../../source/site/forusers/alldownloads.rst:144
+msgid "https://qgis.org/debian"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:147
+#: ../../source/site/forusers/alldownloads.rst:162
+msgid "Release with ubuntugis dependencies"
+msgstr "Kiadás ubuntugis függőségekkel"
+
+#: ../../source/site/forusers/alldownloads.rst:147
+msgid "https://qgis.org/ubuntugis"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:150
+#: ../../source/site/forusers/alldownloads.rst:165
+msgid "Nightly build of upcoming point release for Debian and Ubuntu"
+msgstr "A következő kiadás nightly buildje Debianhoz és Ubuntuhoz"
+
+#: ../../source/site/forusers/alldownloads.rst:150
+msgid "https://qgis.org/debian-nightly-release"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:154
+#: ../../source/site/forusers/alldownloads.rst:169
+msgid "Nightly build of upcoming point release with ubuntugis dependencies"
+msgstr "A következő kiadás nightly build-je az ubuntugis függőségekkel"
+
+#: ../../source/site/forusers/alldownloads.rst:154
+msgid "https://qgis.org/ubuntugis-nightly-release"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:159
+msgid "https://qgis.org/debian-ltr"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:162
+msgid "https://qgis.org/ubuntugis-ltr"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:165
+msgid "https://qgis.org/debian-nightly-ltr"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:169
+msgid "https://qgis.org/ubuntugis-nightly-ltr"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:174
+msgid "Development Version"
+msgstr "Fejlesztői változat"
+
+#: ../../source/site/forusers/alldownloads.rst:174
+msgid "Nightly build for **Debian and Ubuntu**"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:174
+msgid "https://qgis.org/debian-nightly"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:177
+msgid "Nightly build with ubuntugis dependencies"
+msgstr "Nightly build az ubuntugis függőségekkel"
+
+#: ../../source/site/forusers/alldownloads.rst:177
+msgid "https://qgis.org/ubuntugis-nightly"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:181
+msgid "Next point release: |nextpointreleasedate|"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:182
+msgid "Next release: |nextreleasedate|"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:183
+msgid ""
+"(more dates see Release Schedule on "
+":doc:`../getinvolved/development/roadmap`)"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:186
+msgid "Supported distribution versions:"
+msgstr "Támogatott disztribúció verziók:"
+
+#: ../../source/site/forusers/alldownloads.rst:189
+msgid "Distribution"
+msgstr "Disztribúció"
+
+#: ../../source/site/forusers/alldownloads.rst:189
+msgid "Codename"
+msgstr "Kódnév"
+
+#: ../../source/site/forusers/alldownloads.rst:189
+msgid "Also available based on ubuntugis dependencies?"
+msgstr "Elérhető ubuntugis függőségekkel is?"
+
+#: ../../source/site/forusers/alldownloads.rst:189
+msgid "with 3D [6]_"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:193
+msgid "Debian"
+msgstr "Debian"
+
+#: ../../source/site/forusers/alldownloads.rst:193
+msgid "8.x"
+msgstr "8.x"
+
+#: ../../source/site/forusers/alldownloads.rst:193
+msgid "jessie [4]_"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:195
+msgid "9.x"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:195
+msgid "stretch"
+msgstr "stretch"
+
+#: ../../source/site/forusers/alldownloads.rst:197
+msgid "10.x"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:197
+msgid "buster"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:199
+msgid "sid"
+msgstr "sid"
+
+#: ../../source/site/forusers/alldownloads.rst:199
+msgid "unstable"
+msgstr "instabil"
+
+#: ../../source/site/forusers/alldownloads.rst:201
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: ../../source/site/forusers/alldownloads.rst:201
+msgid "18.04"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:201
+msgid "bionic"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:201
+#: ../../source/site/forusers/alldownloads.rst:203
+#: ../../source/site/forusers/alldownloads.rst:205
+#: ../../source/site/forusers/alldownloads.rst:207
+msgid "yes"
+msgstr "igen"
+
+#: ../../source/site/forusers/alldownloads.rst:203
+msgid "17.10"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:203
+msgid "artful"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:205
+msgid "16.04 (LTS)"
+msgstr "16.04 (LTS)"
+
+#: ../../source/site/forusers/alldownloads.rst:205
+msgid "xenial [5]_"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:207
+msgid "14.04 (LTS)"
+msgstr "14.04 (LTS)"
+
+#: ../../source/site/forusers/alldownloads.rst:207
+msgid "trusty [4]_"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:210
+msgid "only up to 2.18 LTR"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:211
+msgid "3.0 and above only available with ubuntugis (plain xenial lacks GDAL2)"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:212
+msgid ""
+"only with Qt >= 5.9 including Qt 3DExtras (the latter is currently not "
+"included in Debian)"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:214
+msgid ""
+"Add the lines for one of the repositories to your "
+"``/etc/apt/sources.list``::"
+msgstr "Adja az egyik tárolóhoz tartozó sorokat a ``/etc/apt/sources.list`` fájljához::"
+
+#: ../../source/site/forusers/alldownloads.rst:219
+msgid "Example latest release for Debian jessie::"
+msgstr "Például a legújabb kiadáshoz Debian Jessie-n:"
+
+#: ../../source/site/forusers/alldownloads.rst:224
+msgid "After that type the commands below to install QGIS::"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:229
+msgid ""
+"In case you would like to install QGIS Server (note that it's not a common "
+"practice to install both client and server applications on the same "
+"machine), type::"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:235
+msgid ""
+"Please remove all the QGIS and GRASS packages you may have installed from "
+"other repositories before doing the update."
+msgstr "Kérjük távolítsa el a frissítés előtt az összes QGIS és GRASS csomagot, melyet más tárolókból telepített."
+
+#: ../../source/site/forusers/alldownloads.rst:238
+msgid ""
+"In case of keyserver errors add the qgis.org repository public key to your "
+"apt keyring, type::"
+msgstr "Kulcsszerver hiba esetén qgis.org tároló publikus kulcsát az apt kulcstárolóhoz így lehet hozzáadni::"
+
+#: ../../source/site/forusers/alldownloads.rst:244
+msgid "Should output::"
+msgstr "Ezt írja ki::"
+
+#: ../../source/site/forusers/alldownloads.rst:251
+msgid ""
+"After you have verified the fingerprint you can add the key to apt with::"
+msgstr "A kulcsellenőrzés után hozzáadható az apthoz::"
+
+#: ../../source/site/forusers/alldownloads.rst:255
+msgid ""
+"Alternatively you can download the key from a keyserver and add the key to "
+"apt in one go (without manual fingerprint verification)::"
+msgstr "Vagy letöltheti a kulcsot egy kulcskiszolgálóról, és hozzáadhatja az apthoz egy lépésben (kézi ellenőrzés nélkül)::"
+
+#: ../../source/site/forusers/alldownloads.rst:262
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../../source/site/forusers/alldownloads.rst:265
+#: ../../source/site/forusers/alldownloads.rst:304
+#: ../../source/site/forusers/alldownloads.rst:320
+#: ../../source/site/forusers/alldownloads.rst:360
+#: ../../source/site/forusers/alldownloads.rst:370
+#: ../../source/site/forusers/alldownloads.rst:394
+#: ../../source/site/forusers/alldownloads.rst:406
+msgid "QGIS stable"
+msgstr "Stabil QGIS"
+
+#: ../../source/site/forusers/alldownloads.rst:267
+msgid "Get packages for any Fedora by typing::"
+msgstr "A csomag letöltéséhez bármely Fedora verzióhoz gépelje be::"
+
+#: ../../source/site/forusers/alldownloads.rst:272
+msgid ""
+"There is an alternative repository for QGIS which provides new LTR versions "
+"https://copr.fedorainfracloud.org/coprs/neteler/QGIS-2.14-Essen/ ::"
+msgstr "A QGIS-hez van egy másik tároló, ami az új LTR verziót szolgáltatja https://copr.fedorainfracloud.org/coprs/neteler/QGIS-2.14-Essen/ ::"
+
+#: ../../source/site/forusers/alldownloads.rst:282
+msgid "For QGIS 2.18 use there is another repository ::"
+msgstr "A QGIS 2.18-hoz van egy másik tároló ::"
+
+#: ../../source/site/forusers/alldownloads.rst:293
+msgid "RHEL, CentOS, Scientific Linux"
+msgstr "RHEL, CentOS, Scientific Linux"
+
+#: ../../source/site/forusers/alldownloads.rst:296
+msgid "QGIS 1.8"
+msgstr "QGIS 1.8"
+
+#: ../../source/site/forusers/alldownloads.rst:298
+msgid "Try the ELGIS repository: http://elgis.argeo.org/"
+msgstr "Próbálja ki az ELGIS tárolót: http://elgis.argeo.org/"
+
+#: ../../source/site/forusers/alldownloads.rst:300
+msgid ""
+"ELGIS requires the EPEL repo enabled, see "
+"http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL"
+msgstr "Az ELGIS-hez engedélyezni kell az EPEL tárolót, lásd: http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL"
+
+#: ../../source/site/forusers/alldownloads.rst:306
 msgid ""
 "QGIS stable can be installed from an alternative repository. Python support "
 "is strongly limited due to old dependencies. Note: It requires, that ELGIS "
 "and EPEL are also installed. ::"
 msgstr "A QGIS stabil változata telepíthető egy alternatív tárolóból. A Python támogatás erősen korlátozott a régi függőségek miatt. Megjegyzés: ELGIS és EPEL telepítése is szükséges. ::"
 
-#: ../../source/site/forusers/alldownloads.rst:415
+#: ../../source/site/forusers/alldownloads.rst:317
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: ../../source/site/forusers/alldownloads.rst:322
+msgid ""
+"Latest stable openSUSE package called qgis is available for 13.1, 13.2, "
+"Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit).  Add the following "
+"repository to your installation manager, where <VERSION> is for example "
+"'openSUSE_Tumbleweed'. ::"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:329
+#: ../../source/site/forusers/alldownloads.rst:341
+#: ../../source/site/forusers/alldownloads.rst:354
+msgid "All packages include GRASS and Python support."
+msgstr "Minden csomag tartalmazza a GRASS és Python támogatást"
+
+#: ../../source/site/forusers/alldownloads.rst:332
+msgid "QGIS LTR (Long Term Release)"
+msgstr "QGIS LTR (Hosszútávú kiadás)"
+
+#: ../../source/site/forusers/alldownloads.rst:334
+msgid ""
+"Long Term Release package for openSUSE called qgis-ltr is available for "
+"13.1, 13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). Add the "
+"following repository to your installation manager, where <VERSION> is for "
+"example 'openSUSE_Tumbleweed'. ::"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:344
+#: ../../source/site/forusers/alldownloads.rst:414
+msgid "QGIS testing"
+msgstr "Teszt QGIS"
+
+#: ../../source/site/forusers/alldownloads.rst:346
+msgid ""
+"A regularly updated development package from qgis master called qgis-master "
+"is available for 13.1, 13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and "
+"64bit). Add the following repository to your installation manager, where "
+"<VERSION> is for example 'openSUSE_Tumbleweed'. ::"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:357
+msgid "Mandriva"
+msgstr "Mandriva"
+
+#: ../../source/site/forusers/alldownloads.rst:362
+msgid "Current::"
+msgstr "Aktuális::"
+
+#: ../../source/site/forusers/alldownloads.rst:367
+msgid "Slackware"
+msgstr "Slackware"
+
+#: ../../source/site/forusers/alldownloads.rst:372
+msgid "Packages on http://qgis.gotslack.org"
+msgstr "Csomagok a http://qgis.gotslack.org-on"
+
+#: ../../source/site/forusers/alldownloads.rst:375
+msgid "ArchLinux"
+msgstr "ArchLinux"
+
+#: ../../source/site/forusers/alldownloads.rst:377
+msgid "Archlinux users are encouraged to use the Arch User Repository (AUR)."
+msgstr "Az ArchLinux felhasználókat arra ösztönözzük, hogy az Arch User Repository-t (AUR) használják."
+
+#: ../../source/site/forusers/alldownloads.rst:379
+msgid ""
+"Information about available versions, bugs and archlinux specific "
+"instructions can be found at: https://aur.archlinux.org/packages/?O=0&K=qgis"
+msgstr "Az elérhető verziókról, hibákról és archlinux specifikus instrukciókról itt találhat információt: https://aur.archlinux.org/packages/?O=0&K=qgis"
+
+#: ../../source/site/forusers/alldownloads.rst:384
+msgid "Mac OS X / macOS"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:386
+msgid "Installation instructions are in the ReadMe on the disk image."
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:389
+msgid "QGIS current"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:391
+msgid ""
+"The current QGIS package uses the `python.org Python 3.6 "
+"<http://www.python.org/>`_ - other distributions are not supported. Install "
+"packages in the numbered order.  Especially note that Python must be "
+"installed before the GDAL Complete package, else the GDAL Python modules "
+"will not be installed and some GDAL tools will not function."
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:396
+msgid ""
+"The stable package uses the system Python 2.7 - other distributions are not "
+"supported. It also requires the NumPy and Matplotlib packages on the disk "
+"image. Install packages in the numbered order. If an older major version is "
+"being upgraded (2.16 or older), delete QGIS.app from your Applications "
+"folder before installing this version."
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:398
+msgid ""
+"Other Python modules for plugins to use are available from `kyngchaos.com "
+"<http://www.kyngchaos.com/software/python>`_."
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:403
+msgid "FreeBSD"
+msgstr "FreeBSD"
+
+#: ../../source/site/forusers/alldownloads.rst:408
+msgid "To compile QGIS from binary packages type ::"
+msgstr "QGIS fordítás bináris csomagból::"
+
+#: ../../source/site/forusers/alldownloads.rst:416
+msgid "To compile QGIS from sources in FreeBSD you need to type ::"
+msgstr "QGIS fordítás a forrásokból FreeBSD-n::"
+
+#: ../../source/site/forusers/alldownloads.rst:425
+msgid "Android"
+msgstr "Android"
+
+#: ../../source/site/forusers/alldownloads.rst:427
+msgid "There is an experimental version available on google play store."
+msgstr "Egy kísérleti változat érhető el a google play store-ban."
+
+#: ../../source/site/forusers/alldownloads.rst:429
+msgid "https://play.google.com/store/apps/details?id=org.qgis.qgis"
+msgstr "https://play.google.com/store/apps/details?id=org.qgis.qgis"
+
+#: ../../source/site/forusers/alldownloads.rst:432
+msgid ""
+"There is currently no support for Android 5. Best support is given for "
+"Android 4.3 and 4.4.x. This is a direct port of the QGIS desktop "
+"application. It is only slightly optimized for touch devices and therefore "
+"needs to be carefully evaluated for its suitability in day-to-day use. There"
+" are other apps available which are designed and optimized specifically for "
+"touch devices."
+msgstr "Jelenleg nincs az Android 5-höz támogatás. A legjobb támogatás az Android 4.3 és 4.4.x verziókhoz érhető el. Ez egy közvetlen portja a QGIS asztali alkalmazásnak. Csak enyhén optimalizálták az érintő képernyőkhöz, ezért a mindennapos használata gondos mérlegelést igényel. Vannak más alkalmazások, melyeket érintőképernyőre terveztek és optimalizáltak."
+
+#: ../../source/site/forusers/alldownloads.rst:440
+msgid "QGIS Testing warning"
+msgstr "QGIS teszt figyelmeztetés"
+
+#: ../../source/site/forusers/alldownloads.rst:445
 msgid ""
 "QGIS testing packages are provided for some platforms in addition to the "
 "QGIS stable version. QGIS testing contains unreleased software that is "
@@ -293,395 +779,78 @@ msgid ""
 "have been warned!"
 msgstr "QGIS teszt csomagot is készítünk néhány platformra a QGIS stabil változata mellett. A QGIS teszt még nem kiadott szoftvert tartalmaz,  melyen most is dolgoznak. Ezek csak tesztelési célokra szolgálnak a korai felhasználók számára, hogy ellenőrizzék a hibák kijavítását és hogy újabb hiba nem került be. Bár gondosan próbáljuk elkerülni az összeomlásokat, bármelyik pillanatban nem működhet vagy az adataival rossz dolgok történhetnek. Vigyázzon! Mi figyelmeztettük!"
 
-#: ../../source/site/forusers/alldownloads.rst:31
+#: ../../source/site/forusers/alldownloads.rst:456
+msgid "Installing from Source"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:458
 msgid ""
-"For more advanced QGIS users you can use the OSGeo4W package, which makes it"
-" possible to install several versions in parallel."
-msgstr "A haladóbb QGIS felhasználók használhatják az OSGeo4W csomagot, mely lehetővé teszi, hogy több verziót telepítsünk párhuzamosan."
-
-#: ../../source/site/forusers/alldownloads.rst:47
-msgid "and pick one or more of the following packages:"
-msgstr "és válasszon egyet vagy többet a következő csomagokból:"
-
-#: ../../source/site/forusers/alldownloads.rst:50
-#: ../../source/site/forusers/alldownloads.rst:113
-#: ../../source/site/forusers/alldownloads.rst:150
-msgid "Version"
-msgstr "Verzió"
-
-#: ../../source/site/forusers/alldownloads.rst:50
-msgid "Package"
-msgstr "Csomag"
-
-#: ../../source/site/forusers/alldownloads.rst:50
-#: ../../source/site/forusers/alldownloads.rst:113
-msgid "Description"
-msgstr "Leírás"
-
-#: ../../source/site/forusers/alldownloads.rst:52
-msgid "qgis"
-msgstr "qgis"
-
-#: ../../source/site/forusers/alldownloads.rst:50
-#: ../../source/site/forusers/alldownloads.rst:52
-#: ../../source/site/forusers/alldownloads.rst:56
-#: ../../source/site/forusers/alldownloads.rst:113
-#: ../../source/site/forusers/alldownloads.rst:115
-#: ../../source/site/forusers/alldownloads.rst:128
-msgid "Release"
-msgstr "Kiadás"
-
-#: ../../source/site/forusers/alldownloads.rst:54
-msgid "qgis-rel-dev"
-msgstr "qgis-rel-dev"
-
-#: ../../source/site/forusers/alldownloads.rst:54
-msgid "Nightly build of the upcoming point release"
-msgstr "A következő kiadás nightly build-je"
-
-#: ../../source/site/forusers/alldownloads.rst:56
-msgid "qgis-ltr"
-msgstr "qgis-ltr"
-
-#: ../../source/site/forusers/alldownloads.rst:58
-msgid "qgis-ltr-dev"
-msgstr "qgis-ltr-dev"
-
-#: ../../source/site/forusers/alldownloads.rst:58
-msgid "Nightly build of the upcoming point long term release"
-msgstr "A következő hosszútávú kiadás nightly build-je"
-
-#: ../../source/site/forusers/alldownloads.rst:60
-msgid "Development"
-msgstr "Fejlesztés"
-
-#: ../../source/site/forusers/alldownloads.rst:60
-msgid "qgis-dev"
-msgstr "qgis-dev"
-
-#: ../../source/site/forusers/alldownloads.rst:60
-msgid "Nightly build of the development version"
-msgstr "A fejlesztői változat nightly build-je"
-
-#: ../../source/site/forusers/alldownloads.rst:81
-msgid ""
-"Most linux distributions split QGIS into several packages; you'll probably "
-"need qgis and qgis-python (to run plugins). Packages like qgis-grass (or "
-"qgis-plugin-grass), qgis-server can be skipped initially, or installed only "
-"when you need them."
-msgstr "A legtöbb Linux disztribúció A QGIS-t több csomagra bontja; valószínűleg a qgis és a qgis-python (modulok futtatásához) csomagra lesz szüksége. Az olyan csomagokat mint qgis-grass (vagy qgis-plugin-grass), qgis-server először kihagyhatja, vagy akkor installálhatja amikor szüksége lesz rájuk."
-
-#: ../../source/site/forusers/alldownloads.rst:92
-msgid "Debian/Ubuntu"
-msgstr "Debian/Ubuntu"
-
-#: ../../source/site/forusers/alldownloads.rst:94
-msgid ""
-"Default Debian and Ubuntu software repositories often hold older versions of"
-" QGIS."
-msgstr "Az alapértelmezett Debian és Ubuntu program szoftvertárolók gyakran korábbi QGIS  verziót tartalmaznak."
-
-#: ../../source/site/forusers/alldownloads.rst:97
-msgid ""
-"To have newer versions, you have to add alternative software repositories, "
-"by adding one of the deb-lines below to your /etc/apt/sources.list file."
-msgstr "Egy újabb verzió beszerzéséhez, alternatív szoftvertárolót kell megadnia az alábbi deb-lines-ok közül az egyiket adja a /etc/apt/sources.list fájljához."
-
-#: ../../source/site/forusers/alldownloads.rst:100
-msgid ""
-"We provide multiple lines of packages for several version of Debian and "
-"Ubuntu."
-msgstr "Több csomagot biztosítunk a számos Debian és Ubuntu verziókhoz."
-
-#: ../../source/site/forusers/alldownloads.rst:102
-msgid ""
-"For Ubuntu we also provide packages that are based on ubuntugis, which holds"
-" more uptodate versions of other GIS packages than Ubuntu itself. If you "
-"want those you also need to include ubuntugis ppa in your "
-"/etc/apt/sources.list file."
-msgstr "Az Ubuntuhoz ubuntugis alapú csomagokat is kínálunk, melyek a GIS csomagok aktuálisabb verzióit tartalmazza mint az Ubuntu maga. Ha azokat is akarja használni, akkor az ubuntugis ppa-t be kell tennie az /etc/apt/sources.list fájljába."
-
-#: ../../source/site/forusers/alldownloads.rst:110
-msgid "Lines of packages:"
-msgstr "Csomagok:"
-
-#: ../../source/site/forusers/alldownloads.rst:113
-msgid "Repository"
-msgstr "Tároló"
-
-#: ../../source/site/forusers/alldownloads.rst:115
-msgid "http://qgis.org/debian"
-msgstr "http://qgis.org/debian"
-
-#: ../../source/site/forusers/alldownloads.rst:117
-#: ../../source/site/forusers/alldownloads.rst:130
-msgid "Release with ubuntugis dependencies"
-msgstr "Kiadás ubuntugis függőségekkel"
-
-#: ../../source/site/forusers/alldownloads.rst:117
-msgid "http://qgis.org/ubuntugis"
-msgstr "http://qgis.org/ubuntugis"
-
-#: ../../source/site/forusers/alldownloads.rst:120
-#: ../../source/site/forusers/alldownloads.rst:133
-msgid "Nightly build of upcoming point release"
-msgstr "A következő kiadás nightly build-je"
-
-#: ../../source/site/forusers/alldownloads.rst:120
-msgid "http://qgis.org/debian-nightly-release"
-msgstr "http://qgis.org/debian-nightly-release"
-
-#: ../../source/site/forusers/alldownloads.rst:123
-#: ../../source/site/forusers/alldownloads.rst:136
-msgid "Nightly build of upcoming point release with ubuntugis dependencies"
-msgstr "A következő kiadás nightly build-je az ubuntugis függőségekkel"
-
-#: ../../source/site/forusers/alldownloads.rst:123
-msgid "http://qgis.org/ubuntugis-nightly-release"
-msgstr "http://qgis.org/ubuntugis-nightly-release"
-
-#: ../../source/site/forusers/alldownloads.rst:128
-msgid "http://qgis.org/debian-ltr"
-msgstr "http://qgis.org/debian-ltr"
-
-#: ../../source/site/forusers/alldownloads.rst:130
-msgid "http://qgis.org/ubuntugis-ltr"
-msgstr "http://qgis.org/ubuntugis-ltr"
-
-#: ../../source/site/forusers/alldownloads.rst:133
-msgid "http://qgis.org/debian-nightly-ltr"
-msgstr "http://qgis.org/debian-nightly-ltr"
-
-#: ../../source/site/forusers/alldownloads.rst:136
-msgid "http://qgis.org/ubuntugis-nightly-ltr"
-msgstr "http://qgis.org/ubuntugis-nightly-ltr"
-
-#: ../../source/site/forusers/alldownloads.rst:141
-msgid "Development Version"
-msgstr "Fejlesztői változat"
-
-#: ../../source/site/forusers/alldownloads.rst:141
-msgid "Nightly build"
-msgstr "Nightly build"
-
-#: ../../source/site/forusers/alldownloads.rst:141
-msgid "http://qgis.org/debian-nightly"
-msgstr "http://qgis.org/debian-nightly"
-
-#: ../../source/site/forusers/alldownloads.rst:143
-msgid "Nightly build with ubuntugis dependencies"
-msgstr "Nightly build az ubuntugis függőségekkel"
-
-#: ../../source/site/forusers/alldownloads.rst:143
-msgid "http://qgis.org/ubuntugis-nightly"
-msgstr "http://qgis.org/ubuntugis-nightly"
-
-#: ../../source/site/forusers/alldownloads.rst:147
-msgid "Supported distribution versions:"
-msgstr "Támogatott disztribúció verziók:"
-
-#: ../../source/site/forusers/alldownloads.rst:150
-msgid "Distribution"
-msgstr "Disztribúció"
-
-#: ../../source/site/forusers/alldownloads.rst:150
-msgid "Codename"
-msgstr "Kódnév"
-
-#: ../../source/site/forusers/alldownloads.rst:150
-msgid "Also available based on ubuntugis dependencies?"
-msgstr "Elérhető ubuntugis függőségekkel is?"
-
-#: ../../source/site/forusers/alldownloads.rst:154
-msgid "7.x"
-msgstr "7.x"
-
-#: ../../source/site/forusers/alldownloads.rst:156
-msgid "8.x"
-msgstr "8.x"
-
-#: ../../source/site/forusers/alldownloads.rst:156
-msgid "jessie"
-msgstr "jessie"
-
-#: ../../source/site/forusers/alldownloads.rst:158
-msgid "unstable"
-msgstr "instabil"
-
-#: ../../source/site/forusers/alldownloads.rst:158
-msgid "sid"
-msgstr "sid"
-
-#: ../../source/site/forusers/alldownloads.rst:160
-msgid "14.04 (LTS)"
-msgstr "14.04 (LTS)"
-
-#: ../../source/site/forusers/alldownloads.rst:160
-msgid "trusty"
-msgstr "trusty"
-
-#: ../../source/site/forusers/alldownloads.rst:160
-#: ../../source/site/forusers/alldownloads.rst:166
-msgid "yes"
-msgstr "igen"
-
-#: ../../source/site/forusers/alldownloads.rst:164
-msgid "15.04"
-msgstr "15.04"
-
-#: ../../source/site/forusers/alldownloads.rst:164
-msgid "vivid"
-msgstr "vivid"
-
-#: ../../source/site/forusers/alldownloads.rst:166
-msgid "12.04 (LTS)"
-msgstr "12.04 (LTS)"
-
-#: ../../source/site/forusers/alldownloads.rst:166
-msgid "precise"
-msgstr "precise"
-
-#: ../../source/site/forusers/alldownloads.rst:171
-msgid ""
-"Add the lines for one of the repositories to your "
-"``/etc/apt/sources.list``::"
-msgstr "Adja az egyik tárolóhoz tartozó sorokat a ``/etc/apt/sources.list`` fájljához::"
-
-#: ../../source/site/forusers/alldownloads.rst:176
-msgid "Example latest release for Debian jessie::"
-msgstr "Például a legújabb kiadáshoz Debian Jessie-n:"
-
-#: ../../source/site/forusers/alldownloads.rst:181
-msgid ""
-"If you use one of our ubuntugis based repositories you also need to add "
-"following line::"
-msgstr "Ha az egyik ubuntugis alapú tárolónkat használja a következő sort is hozzá kell adni::"
-
-#: ../../source/site/forusers/alldownloads.rst:186
-msgid "After that type::"
-msgstr "Utána írja be::"
-
-#: ../../source/site/forusers/alldownloads.rst:228
-msgid "Currently Fedora 20 ships QGIS 2.0 and Fedora 21 ships QGIS 2.6."
-msgstr "Jelenleg a Fedora 20-at QGIS 2.0-val és a Fedora 21-et QGIS 2.6-tal szállítják."
-
-#: ../../source/site/forusers/alldownloads.rst:230
-msgid ""
-"There is an alternative repository for QGIS 2.8.1 on Fedora 20 and Fedora 21"
-" ::"
-msgstr "Van egy alternatív tároló a QGIS 2.8.1-el a Fedora 20 és Fedora 21-hez::"
-
-#: ../../source/site/forusers/alldownloads.rst:397
-msgid "There is an experimental version available on google play store."
-msgstr "Egy kísérleti változat érhető el a google play-en."
-
-#: ../../source/site/forusers/alldownloads.rst:399
-msgid "https://play.google.com/store/apps/details?id=org.qgis.qgis"
-msgstr "https://play.google.com/store/apps/details?id=org.qgis.qgis"
-
-#: ../../source/site/forusers/alldownloads.rst:402
-msgid ""
-"There is currently no support for Android 5. Best support is given for "
-"Android 4.3 and 4.4.x. This is a direct port of the QGIS desktop "
-"application. It is only slightly optimized for touch devices and therefore "
-"needs to be carefully evaluated for its suitability in day-to-day use. There"
-" are other apps available which are designed and optimized specifically for "
-"touch devices."
-msgstr "Jelenleg nincs az Android 5-höz támogatás. A legjobb támogatás az Android 4.3 és 4.4.x verziókhoz érhető el. Ez egy közvetlen portja a QGIS asztali alkalmazásnak. Csak enyhén optimalizálták az érintő képernyőkhöz és a naponta történő alkalmazása gondos vizsgálatot igényel. Vannak más alkalmazások melyeket érintőképernyőre terveztek és optimalizáltak."
-
-#: ../../source/site/forusers/alldownloads.rst:410
-msgid "QGIS Testing warning"
-msgstr "QGIS teszt figyelmeztetés"
-
-#: ../../source/site/forusers/alldownloads.rst:52
-#: ../../source/site/forusers/alldownloads.rst:115
-msgid "|version|.x |codename|"
-msgstr "|version|.x |codename|"
-
-#: ../../source/site/forusers/alldownloads.rst:56
-#: ../../source/site/forusers/alldownloads.rst:128
-msgid "Long Term Release"
-msgstr "Hosszú Távú Kiadás"
-
-#: ../../source/site/forusers/alldownloads.rst:56
-#: ../../source/site/forusers/alldownloads.rst:128
-msgid "|ltrversion|.x |ltrcodename|"
-msgstr "|ltrversion|.x |ltrcodename|"
-
-#: ../../source/site/forusers/alldownloads.rst:60
-msgid "|devversion| Master"
-msgstr "|devversion| Master"
-
-#: ../../source/site/forusers/alldownloads.rst:141
-msgid "|devversion|.x Master"
-msgstr "|devversion|.x Master"
-
-#: ../../source/site/forusers/alldownloads.rst:154
-msgid "wheezy [1]_"
-msgstr "wheezy [1]_"
-
-#: ../../source/site/forusers/alldownloads.rst:162
-msgid "15.10"
-msgstr "15.10"
-
-#: ../../source/site/forusers/alldownloads.rst:162
-msgid "wily"
-msgstr "wily"
-
-#: ../../source/site/forusers/alldownloads.rst:169
-msgid ""
-"only up to QGIS 2.8.x (due to dependency on GEOS 3.4 not available in "
-"wheezy)"
-msgstr "csak QGIS 2.8.x-ig (a GEOS 3.4 függőségek miatt, melyek nem elérhetők a wheezy-ben)"
-
-#: ../../source/site/forusers/alldownloads.rst:200
-msgid "Should output::"
-msgstr "Ezt írja ki::"
-
-#: ../../source/site/forusers/alldownloads.rst:207
-msgid ""
-"After you have verified the fingerprint you can add the key to apt with::"
-msgstr "Az kulcs ellenőrzés után az hozzáadható az apt-hoz::"
-
-#: ../../source/site/forusers/alldownloads.rst:211
-msgid ""
-"Alternatively you can download the key from a keyserver and add the key to "
-"apt in one go (without manual fingerprint verification)::"
-msgstr "Vagy letöltheti a kulcsot egy kulcs-szerverről és hozzáadhatja az apt-hoz egy lépésben (manuális ellenőrzés nélkül)::"
-
-#: ../../source/site/forusers/alldownloads.rst:282
-msgid ""
-"Latest stable openSUSE package called qgis is available for 13.1 and 13.2 "
-"(32 and 64bit). Add the following repository to your installation manager "
-"together with the openSUSE VERSION you work with (e.g. openSUSE_13.2). ::"
-msgstr "A legújabb stabil openSUSE csomag neve qgis és elérhető 13.1 és 13.2 (32 és 64bit) rendszerekre. Adja hozzá a következő tárolót a telepítő menedzserhez az ön által használt openSUSE VERZIÓVAL  együtt (pl. openSUSE_13.2). ::"
-
-#: ../../source/site/forusers/alldownloads.rst:292
-msgid "QGIS LTR (Long Term Release)"
-msgstr "QGIS LTR (Hosszú Távú Kiadás)"
-
-#: ../../source/site/forusers/alldownloads.rst:294
-msgid ""
-"Long Term Release package for openSUSE called qgis-ltr is available for 13.1"
-" and 13.2 (32 and 64bit). Add the following repository to your installation "
-"manager together with the openSUSE VERSION you work with (e.g. "
-"openSUSE_13.2). ::"
-msgstr "Az openSUSE Hosszú Távú Kiadás csomag neve qgis-ltr és elérhető 13.1 és 13.2 (32 és 64bit) rendszerekre. Adja hozzá a következő tárolót a telepítő menedzserhez az ön által használt openSUSE VERZIÓVAL együtt (pl. openSUSE_13.2). ::"
-
-#: ../../source/site/forusers/alldownloads.rst:306
-msgid ""
-"A regularly updated development package from qgis master called qgis-master "
-"is available for 13.1 and 13.2 (32 and 64bit). Add the following repository "
-"to your installation manager together with the openSUSE VERSION you work "
-"with (e.g. openSUSE_13.2). ::"
-msgstr "A qgis master-ből rendszeresen frissített fejlesztői csomag, melynek neve qgis-master, elérhető  13.1 és 13.2 (32 és 64bit) rendszerekre. Adja hozzá a következő tárolót a telepítő menedzserhez az ön által használt openSUSE VERZIÓVAL együtt (pl. openSUSE_13.2). ::"
-
-#: ../../source/site/forusers/alldownloads.rst:52
-#: ../../source/site/forusers/alldownloads.rst:115
-msgid "Latest Release |releasenote|"
-msgstr "Legújabb kiadás|releasenote|"
+"Refer to the `INSTALL guide "
+"<http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html>`_"
+" on how to build and install QGIS from source for the different platforms."
+msgstr ""
+
+#~ msgid ""
+#~ msgstr ""
+
+#~ msgid "xenial"
+#~ msgstr ""
+
+#~ msgid "Nightly build for **Debian and Ubuntu**"
+#~ msgstr ""
+
+#~ msgid "precise [2]_"
+#~ msgstr ""
+
+#~ msgid "yes [3]_"
+#~ msgstr ""
+
+#~ msgid "Download OSGeo4W Installer and start it"
+#~ msgstr ""
+
+#~ msgid "Nightly build of upcoming point release"
+#~ msgstr ""
+
+#~ msgid "Nightly build"
+#~ msgstr ""
+
+#~ msgid "7.x"
+#~ msgstr ""
+
+#~ msgid "|devversion| Master"
+#~ msgstr ""
+
+#~ msgid "|devversion|.x Master"
+#~ msgstr ""
+
+#~ msgid "wheezy [1]_"
+#~ msgstr ""
+
+#~ msgid "15.10"
+#~ msgstr ""
+
+#~ msgid "wily"
+#~ msgstr ""
+
+#~ msgid "precise [1]_"
+#~ msgstr ""
+
+#~ msgid "yes [2]_"
+#~ msgstr ""
 
 #~ msgid "Latest Release"
+#~ msgstr ""
+
+#~ msgid "15.04"
+#~ msgstr ""
+
+#~ msgid "vivid"
+#~ msgstr ""
+
+#~ msgid "precise"
+#~ msgstr ""
+
+#~ msgid "Currently Fedora 20 ships QGIS 2.0 and Fedora 21 ships QGIS 2.6."
 #~ msgstr ""
 
 #~ msgid "Long Term Release (available after 2.10 release)"
@@ -705,63 +874,13 @@ msgstr "Legújabb kiadás|releasenote|"
 #~ msgid "utopic"
 #~ msgstr ""
 
-#~ msgid ""
-#~ "Latest openSUSE package called qgis2 is available for 13.1, 13.2, "
-#~ "Factory_PowerPC and Tumbleweed (32 and 64bit). Add the following repository "
-#~ "to your installation manager together with the openSUSE VERSION you work "
-#~ "with (e.g. openSUSE_13.2). ::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "A regularly updated development package from qgis master called qgis-master "
-#~ "is available for 13.1, 13.2, Factory_PowerPC and Tumbleweed (32 and 64bit). "
-#~ "Add the following repository to your installation manager together with the "
-#~ "openSUSE VERSION you work with (e.g. openSUSE_13.1). ::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Most linux distributions split QGIS into several packages; you'll probably "
-#~ "need qgis and qgis-python (to run plugins). Packages like qgis-grass (or "
-#~ "qgis-plugin-grass), qgis-mapserver can be skipped initially, or installed "
-#~ "only when you need them."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Default Ubuntu software repositories often hold older versions of QGIS."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To have newer versions, you have to add alternative software repositories, "
-#~ "by adding one of the deb-lines below to your /etc/apt/sources.list file. Or "
-#~ "add these repositories via your favourite Ubuntu software installation GUI."
-#~ msgstr ""
-
 #~ msgid "Then type::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you want the GRASS plugin make sure to install the optional package::"
 #~ msgstr ""
 
 #~ msgid "On plain Ubuntu:"
 #~ msgstr ""
 
 #~ msgid "Via ubuntugis:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you want to use those packages, remove the http://qgis.org/debian lines "
-#~ "from your sources.list and upgrade updated dependencies by typing::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Nightly builds of QGIS testing are available from following repository (i386"
-#~ " and amd64):"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Packages for Debian *Wheezy, Jessie and Unstable* for i386 and amd64 are "
-#~ "available at:"
 #~ msgstr ""
 
 #~ msgid "Wheezy (7.x)::"
@@ -773,107 +892,16 @@ msgstr "Legújabb kiadás|releasenote|"
 #~ msgid "Sid (Unstable)::"
 #~ msgstr ""
 
-#~ msgid ""
-#~ "There are also nightly builds that depend on updated dependencies found in "
-#~ "ubuntugis. Be sure to remove the http://qgis.org/debian ones first, "
-#~ "otherwise you'll end up with a mix of dependencies."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Although the nightly builds can be used to test newer versions, they are "
-#~ "mainly meant to test, if the newer qgis versions still build fine on the "
-#~ "various distributions using the various (older) versions of libraries found "
-#~ "there. Therefore it is not intended to build versions that depend on more "
-#~ "current libraries. That means if you need current qgis version with more up "
-#~ "to date libraries you will have to build them yourself."
-#~ msgstr ""
-
 #~ msgid "Jessie (8.x; testing, not yet released)::"
 #~ msgstr ""
 
 #~ msgid "Unstable::"
 #~ msgstr ""
 
-#~ msgid ""
-#~ "Currently Fedora 18 and 19 have QGIS 1.8 while Fedora 20 ships QGIS 2.0."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "For more advanced QGIS users you can use the OSGeo4W package, which makes it"
-#~ " possible to install both the latest stable version and/or the development "
-#~ "(nightly) version."
-#~ msgstr ""
-
 #~ msgid "pick the *qgis* (release) and/or *qgis-dev* (nightly build) package."
 #~ msgstr ""
 
-#~ msgid ""
-#~ "The following packages are only produced once shortly after a new version "
-#~ "has been released.  As not yet released ubuntu versions can have library "
-#~ "changes the packages might sooner or later be broken, when the development "
-#~ "in ubuntu moves on.  If that's the case you can either move to a stable "
-#~ "ubuntu version and use the released packages for it, rebuild the packages "
-#~ "for the current state of debian (see INSTALL_ or switch to the testing "
-#~ "packages which are rebuild on regular basis."
-#~ msgstr ""
-
 #~ msgid "Based on dependencies from ubuntugis:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The packages are only produced once shortly after a new version has been "
-#~ "released.  As unstable and not yet released debian versions can have library"
-#~ " changes the packages might sooner or later be broken, when the development "
-#~ "in debian moves on.  If that's the case you can either move to a stable "
-#~ "debian version and use the released packages for it, rebuild the packages "
-#~ "for the current state of debian (see INSTALL_) or switch to the testing "
-#~ "packages which are rebuild on regular basis."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The ubuntugis_ project provides newer versions of various FOSSGIS packages, "
-#~ "QGIS being one of them."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To add the public key for any of the http://qgis.org debian repositories "
-#~ "below, type::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Add the lines for one of the repositories to your ``/etc/apt/sources.list`` "
-#~ "file (see below to choose the appropriate one) and type::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "There is an alternative repository for QGIS 2.6 on Fedora 19 and Fedora 20 "
-#~ "::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Latest openSUSE package called qgis2 is available for 12.3, 13.1, 13.2, "
-#~ "Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
-#~ "installation manager together with the openSUSE VERSION you work with (e.g. "
-#~ "openSUSE_13.2). ::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "A regularly updated development package from qgis master called qgis-master "
-#~ "is available for 12.3, 13.1, 13.2, Factory and Tumbleweed (32 and 64bit). "
-#~ "Add the following repository to your installation manager together with the "
-#~ "openSUSE VERSION you work with (e.g. openSUSE_13.1). ::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Old OpenSUSE package for QGIS 1.8 is called qgis. It is only available for "
-#~ "12.3 (32 and 64bit). Add the following repository to your installation "
-#~ "manager together with the openSUSE VERSION you work with (e.g. "
-#~ "openSUSE_12.3). ::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Alpha and nightly builds as well as further documentation can be obtained at"
-#~ " http://hub.qgis.org/android-qgis/Download/"
 #~ msgstr ""
 
 #~ msgid "Trusty Tar (14.04 LTS)::"
@@ -903,53 +931,6 @@ msgstr "Legújabb kiadás|releasenote|"
 #~ msgid "Utopic::"
 #~ msgstr ""
 
-#~ msgid ""
-#~ "Alpha and nightly builds as well as further documentation can be obtained at"
-#~ " http://android.qgis.org"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Latest openSUSE package called qgis2 is available for 12.2, 12.3, 13.1 "
-#~ "Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
-#~ "installation manager together with the openSUSE VERSION you work with (e.g. "
-#~ "openSUSE_13.1). ::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "A regularly updated development package from qgis master called qgis-master "
-#~ "is available for 12.2, 12.3, 13.1, Factory and Tumbleweed (32 and 64bit). "
-#~ "Add the following repository to your installation manager together with the "
-#~ "openSUSE VERSION you work with (e.g. openSUSE_13.1). ::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Old OpenSUSE package for QGIS 1.8 is called qgis. It is available for 12.1 "
-#~ "and 12.2 (32 and 64bit). Add the following repository to your installation "
-#~ "manager together with the openSUSE VERSION you work with (e.g. "
-#~ "openSUSE_12.2). ::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "There is an alternative repository for QGIS 2.4 on Fedora 19 and Fedora 20 "
-#~ "::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The ubuntugis project provides newer versions of various FOSSGIS packages, "
-#~ "QGIS being one of them."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To add the the http://qgis.org repository public key to your apt keyring, "
-#~ "type::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Then add the lines for one of the repositories to your "
-#~ "``/etc/apt/sources.list`` file (see below to choose the appropriate one) and"
-#~ " type::"
-#~ msgstr ""
-
 #~ msgid "Current packages available for precise and saucy."
 #~ msgstr ""
 
@@ -959,70 +940,10 @@ msgstr "Legújabb kiadás|releasenote|"
 #~ msgid "Quantal::"
 #~ msgstr ""
 
-#~ msgid ""
-#~ "There is an alternative repository for QGIS 2.2 on Fedora 19 and Fedora 20 "
-#~ "::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS testing versions are provided for some platforms in addition to the "
-#~ "QGIS stable version. QGIS testing contains unreleased software that is "
-#~ "currently being worked on. As such they are unsupported and only provided "
-#~ "for testing purposes to early adopters to check if bugs have been resolved "
-#~ "and that no new bugs have been introduced. At any given time it may not "
-#~ "work, or may do bad things to your data. Use at your own risk. You have been"
-#~ " warned!"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "For more advanced QGIS users you can use the OSGeo4W package, which makes it"
-#~ " possible to install both the latest stable version and/or the development "
-#~ "(nightly) version (but not the warning above!)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The OSGeo4W repository contains a lot of software from OSGeo projects. QGIS "
-#~ "and all dependencies are included, along with Python, GRASS, GDAL, etc. The "
-#~ "installer is able to install from internet or just download all needed "
-#~ "packages beforehand. The downloaded files are kept in a local directory for "
-#~ "future installations. Steps are::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Below you find instructions to install per distribution. For most distro's "
-#~ "there are instructions to install QGIS stable and instructions to install a "
-#~ "cutting edge QGIS testing build (but mind the warning above!)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS stable can be installed from an alternative repository. Note: It "
-#~ "requires, that ELGIS and EPEL are also installed. ::"
-#~ msgstr ""
-
 #~ msgid "Base on dependencies from ubuntugis:"
 #~ msgstr ""
 
-#~ msgid ""
-#~ "The packages are only produced once shortly after a new version has been "
-#~ "released.  As unstable and not yet released debian versions can have library"
-#~ " changes the packages might sooner or later be broken, when the development "
-#~ "in debian moves on.  If that's the case you can either move to a stable "
-#~ "debian version and use the released packages for it, rebuild the packages "
-#~ "for the current state of debian (see INSTALL) or switch to the testing "
-#~ "packages which are rebuild on regular basis."
-#~ msgstr ""
-
 #~ msgid "Lucid::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Current packages available for lucid, maverick, natty, oneiric, precise and "
-#~ "raring."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Currently Fedora 18 and 19 have QGIS 1.8 while Fedora 20 is expected to have"
-#~ " QGIS 2.0."
 #~ msgstr ""
 
 #~ msgid "There is an alternative repository for QGIS 2.0 on Fedora 19 ::"
@@ -1031,101 +952,245 @@ msgstr "Legújabb kiadás|releasenote|"
 #~ msgid "Jessie (8.x) and Sid (Unstable)::"
 #~ msgstr ""
 
-#~ msgid ""
-#~ "Latest openSUSE package called qgis2 is available for 12.1, 12.2, 12.3, "
-#~ "Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
-#~ "installation manager together with the openSUSE VERSION you work with (e.g. "
-#~ "openSUSE_12.3). ::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "A regularly updated development package from qgis master called qgis-master "
-#~ "is available for 12.1, 12.2, 12.3, Factory and Tumbleweed (32 and 64bit). "
-#~ "Add the following repository to your installation manager together with the "
-#~ "openSUSE VERSION you work with (e.g. openSUSE_12.3). ::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "OpenSUSE package for QGIS 1.8 is called qgis. It is available for 12.1, "
-#~ "12.2, 12.3, Factory and Tumbleweed (32 and 64bit). Add the following "
-#~ "repository to your installation manager together with the openSUSE VERSION "
-#~ "you work with (e.g. openSUSE_12.3). ::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Below you find instructions to install per distro. For most distro's there "
-#~ "are instructions to install QGIS stable and instructions to install a "
-#~ "cutting edge QGIS testing build (but mind the warning above!)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In case of keyserver errors. To add the the qgis.org repository public key "
-#~ "to your apt keyring, type::"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "There are also nightly builds that depend on updated dependencies found in "
-#~ "ubuntugis. Be sure to remove the http://qgis.org/debian ones first, "
-#~ "otherwise you'll endup with a mix of dependencies."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Although the nightly builds can be used to test newer versions, they are "
-#~ "mainly meant to test, if the newer qgis versions still build fine on the "
-#~ "various distributions using the various (older) versions of libraries found "
-#~ "there. Therefore it is not intended to build versions that depend on more "
-#~ "current libraries. That means if you need current qgis version with more "
-#~ "uptodate libraries you will have to build them yourself."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you want to try the cutting edge: "
-#~ "http://elgis.argeo.org/repos/testing/6/elgis/"
-#~ msgstr ""
-
 #~ msgid "They're happy if you provide feedback on their mailing list."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If it does not work for you, you can try to rebuild the Fedora SRPM. The "
-#~ "Fedora 15 version of QGIS builds in Mock for EPEL 6. Notice, this package "
-#~ "will not support GRASS, because there is no GRASS package in RHEL/EPEL."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "argeo.org has a wiki on rebuilding their packages. For a more general quick "
-#~ "guide in rebuilding, you can also take a look at "
-#~ "http://zabbix.org/wiki/Docs/howto/rebuild_rpms"
 #~ msgstr ""
 
 #~ msgid "More info from: Volker Fröhlich <volker27 AT gmx DOT at>"
 #~ msgstr ""
 
-#~ msgid ""
-#~ "Latest openSUSE package called qgis2 is available for 12.1, 12.2, 12.3, "
-#~ "Factory and Tumbleweed (32 and 64bit). Add the following repository to your "
-#~ "installation manager. All packages include GRASS and Python support."
-#~ msgstr ""
-
 #~ msgid "http://download.opensuse.org/repositories/Application:/Geo/VERSION/"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "A regularly updated development package from qgis master called qgis-master "
-#~ "is available for 12.1, 12.2, 12.3, Factory and Tumbleweed (32 and 64bit). "
-#~ "Add the following repository to your installation manager. All packages "
-#~ "include GRASS and Python support."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "OpenSUSE package for QGIS 1.8 is called qgis. It is available for 12.1, "
-#~ "12.2, 12.3, Factory and Tumbleweed (32 and 64bit). Add the following "
-#~ "repository to your installation manager. All packages include GRASS and "
-#~ "Python support."
 #~ msgstr ""
 
 #~ msgid "To compile QGIS from binary packages type::"
 #~ msgstr ""
 
 #~ msgid "To compile QGIS from sources in FreeBSD you need to type::"
+#~ msgstr ""
+
+#~ msgid "navigate to the *Desktop* section and"
+#~ msgstr ""
+
+#~ msgid "qgis-rel-dev"
+#~ msgstr ""
+
+#~ msgid "qgis-ltr-dev"
+#~ msgstr ""
+
+#~ msgid "qgis-dev"
+#~ msgstr ""
+
+#~ msgid "|version|.x |codename|"
+#~ msgstr ""
+
+#~ msgid "Long Term Release"
+#~ msgstr ""
+
+#~ msgid "|ltrversion|.x |ltrcodename|"
+#~ msgstr ""
+
+#~ msgid "Latest Release |releasenote|"
+#~ msgstr ""
+
+#~ msgid "2.17 master_2"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For Ubuntu we also have extra packages in a separate repository that are "
+#~ "based on ubuntugis, which holds more uptodate versions of other GIS packages"
+#~ " than Ubuntu itself. If you want those you also need to include ubuntugis "
+#~ "ppa in your /etc/apt/sources.list file."
+#~ msgstr ""
+
+#~ msgid "2.99.x master [1]_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "only up to QGIS 2.8.x (due to dependency on GEOS 3.4 not available in "
+#~ "precise)"
+#~ msgstr ""
+
+#~ msgid "Nightly build for **Debian and Ubuntu** [2]_"
+#~ msgstr ""
+
+#~ msgid "xenial [2]_"
+#~ msgstr ""
+
+#~ msgid "precise [3]_"
+#~ msgstr ""
+
+#~ msgid "yes [4]_"
+#~ msgstr ""
+
+#~ msgid "2.99 master"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For users that cannot use OSGeo4W for some reason or just prefer it there is"
+#~ " also a `weekly snapshot <http://qgis.org/downloads/weekly/?C=M;O=D>`_ of "
+#~ "qgis-dev from OSGeo4W as *standalone installer* (taken on monday).  In the "
+#~ "feature freeze phase that also acts as **release candidate**."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For Ubuntu we also have extra packages in a separate repository that are "
+#~ "based on ubuntugis (https://launchpad.net/~ubuntugis), which holds more "
+#~ "uptodate versions of other GIS packages than Ubuntu itself. If you want "
+#~ "those you also need to include ubuntugis ppa in your /etc/apt/sources.list "
+#~ "file."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The packages are only produced once shortly after a new version has been "
+#~ "released.  As unstable, not yet released debian versions (testing) and "
+#~ "ubuntugis can have library changes the packages might sooner or later be "
+#~ "broken, when the development in debian, ubuntu or ubuntugis moves on and "
+#~ "their packages used as dependencies in qgis change.  In that event you can "
+#~ "either"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "wait for the next point release (due |nextpointreleasedate|), which happens "
+#~ "every month and will be include the updated dependencies,"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "switch to the nightly repository whose packages are rebuild on regular basis"
+#~ " and will also pickup the updated dependencies automatically or"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/debian"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/ubuntugis"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/debian-nightly-release"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/ubuntugis-nightly-release"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/debian-ltr"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/ubuntugis-ltr"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/debian-nightly-ltr"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/ubuntugis-nightly-ltr"
+#~ msgstr ""
+
+#~ msgid "2.99.x master [4]_"
+#~ msgstr ""
+
+#~ msgid "Nightly build for **Debian and Ubuntu** [5]_"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/debian-nightly"
+#~ msgstr ""
+
+#~ msgid "http://qgis.org/ubuntugis-nightly"
+#~ msgstr ""
+
+#~ msgid "jessie"
+#~ msgstr ""
+
+#~ msgid "testing"
+#~ msgstr ""
+
+#~ msgid "17.04"
+#~ msgstr ""
+
+#~ msgid "zesty [8]_"
+#~ msgstr ""
+
+#~ msgid "trusty"
+#~ msgstr ""
+
+#~ msgid "12.04 (LTS)"
+#~ msgstr ""
+
+#~ msgid "precise [6]_"
+#~ msgstr ""
+
+#~ msgid "yes [7]_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "only starting with Debian Stretch and Ubuntu Xenial (due to libqca not "
+#~ "available for Qt5 in trusty)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "master for Xenial only available for ubuntugis (plain Xenial lacks GDAL 2)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "discontinued since QGIS 2.8.x (due to dependency on GEOS 3.4 not available "
+#~ "in precise)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "only up to QGIS 2.14.x (due to dependency to GDAL >=1.11 not available in "
+#~ "precise ubuntugis)"
+#~ msgstr ""
+
+#~ msgid "starting with QGIS 2.18.7"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you use one of our ubuntugis based repositories you also need to add "
+#~ "following line::"
+#~ msgstr ""
+
+#~ msgid "After that type::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Latest stable openSUSE package called qgis is available for 13.1, 13.2, "
+#~ "Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). Add the following "
+#~ "repository to your installation manager together with the openSUSE VERSION "
+#~ "you work with (e.g. openSUSE_13.2). ::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Long Term Release package for openSUSE called qgis-ltr is available for "
+#~ "13.1, 13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). Add the "
+#~ "following repository to your installation manager together with the openSUSE"
+#~ " VERSION you work with (e.g. openSUSE_13.2). ::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A regularly updated development package from qgis master called qgis-master "
+#~ "is available for 13.1, 13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and "
+#~ "64bit). Add the following repository to your installation manager together "
+#~ "with the openSUSE VERSION you work with (e.g. openSUSE_13.2). ::"
+#~ msgstr ""
+
+#~ msgid "MacOS X"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A single installer package is available for Mountain Lion (10.7) and newer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installing QGIS stable on MacOS requires separate installation of several "
+#~ "`dependency frameworks <http://www.kyngchaos.com/software/frameworks>`_ "
+#~ "(GDAL Complete and GSL). GRASS http://www.kyngchaos.com/software/grass is "
+#~ "supported with this version. Some common Python modules "
+#~ "http://www.kyngchaos.com/software/python are also available for common QGIS "
+#~ "plugin requirements."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS download page on KyngChaos http://www.kyngchaos.com/software/qgis "
+#~ "(framework requirements listed there) has more information."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS testing builds (Nightly build) at http://qgis.dakotacarto.com are "
+#~ "provided by Dakota Cartography."
 #~ msgstr ""

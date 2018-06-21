@@ -1,14 +1,14 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013
-# Narcélio de Sá <narceliosapereira@gmail.com>, 2015
+# Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-12-07 01:57+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-09-23 19:33+0000\n"
+"Last-Translator: Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +29,7 @@ msgid ""
 "new features and by financially supporting the development. In return Uster "
 "receives a rapidly evolving and platform independent Desktop GIS and WebGIS "
 "solution backed by a worldwide user and development community."
-msgstr "A cidade de Uster tem vindo a usar o QGIS desde 2007. Encorajados pela decisão do Cantão de Solothurn em usar o QGIS como um substituto SIG Desktop para ArcView, a cidade de Uster decidiu também dar-lhe uma tentativa. A cidade juntou-se no esforço para o desenvolvimento do software QGIS, sugerindo e testando novos recursos e apoiando financeiramente o seu desenvolvimento. Em troca Uster recebe uma evolução rápida e independente de plataforma SIG Desktop e a solução WebSIG apoiado por uma comunidade de utilizador e desenvolvimento em todo o mundo."
+msgstr "A cidade de Uster tem vindo a usar o QGIS desde 2007. Encorajados pela decisão do Cantão de Solothurn em usar o QGIS como um substituto SIG Desktop para ArcView, a cidade de Uster decidiu também dar-lhe uma tentativa. A cidade juntou-se no esforço para o desenvolvimento do software QGIS, sugerindo e testando novos recursos e apoiando financeiramente o seu desenvolvimento. Em troca Uster recebe uma evolução rápida e independente de plataforma SIG Desktop e a solução WebSIG apoiado por uma comunidade de usuários e desenvolvimento em todo o mundo."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
@@ -44,7 +44,7 @@ msgid ""
 "(University of Berne)) we coordinate and sponsor the improvements of these "
 "tools, along with some improvements in data driven symbolization, automated "
 "labeling, attribute handling and forms."
-msgstr "O Postgis/PostgreSQL é usado como um armazém central de geoinformação. Outras base de dados e fontes de dados são reproduzidos no PostgreSQL num intervalo regular, usando as ferramentas como o OGR r FME. No início o QGIS era apenas um visualizador. O primeiro utilizador QGIS foi um agricultor que tinha a tarefa de supervisionar as declarações feitas pelos agricultores locais para receberem os subsídios agrícolas. Mais tarde, o QGIS também introduziu um editor de informação e uma plataforma de publicação de mapas, juntamente com melhoramentos nas ferramentas de edição e no compositor de mapas. Juntos como outros utilizadores QGIS suíços (Solothurn, Thun e CDE (Universidade de Berne)) nós coordenámos e patrocinámos os melhoramentos para essas ferramentas, juntamente como algumas melhorias na informação orientada para a simbolização, rotulagem automática, manuseamento de atributos e formulários."
+msgstr "O Postgis/PostgreSQL é usado como um armazém central de geoinformação. Outras base de dados e fontes de dados são reproduzidos no PostgreSQL num intervalo regular, usando as ferramentas como o OGR r FME. No início o QGIS era apenas um visualizador. O primeiro usuários do QGIS foi um agricultor que tinha a tarefa de supervisionar as declarações feitas pelos agricultores locais para receberem os subsídios agrícolas. Mais tarde, o QGIS também introduziu um editor de informação e uma plataforma de publicação de mapas, juntamente com melhoramentos nas ferramentas de edição e no compositor de mapas. Juntos como outros usuários QGIS suíços (Solothurn, Thun e CDE (Universidade de Berne)) nós coordenamos e patrocinamos os melhoramentos para essas ferramentas, juntamente como algumas melhorias na informação orientada para a simbolização, rotulagem automática, manuseamento de atributos e formulários."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
@@ -140,7 +140,7 @@ msgid ""
 " having to deal with licensing management. We are looking forward to future "
 "collaboration with the QGIS community and our commercial supporters for the "
 "advancement of the QGIS project."
-msgstr "Os erros são muitas vezes fixados em horas ou dias após a notificação e as novos desenvolvimentos são implementados num curto espaço de tempo. As novas funcionalidades podem ser testados imediatamente após o desenvolvimento e distribuído para os utilizadores, sempre que a qualidade é boa e suficiente para o utilizador final. Não há necessidade de esperar por lançamentos oficiais de software. Nós apreciamos a liberdade de ser capaz de influenciar o projecto e instalar o software em quantos computadores que gostamos, sem ter que lidar com a gestão de licenciamento. Estamos a olhar para a frente para uma futura colaboração com a comunidade QGIS e os nossos apoiantes comerciais para o avanço do projecto QGIS."
+msgstr "Os erros são muitas vezes fixados em horas ou dias após a notificação e as novos desenvolvimentos são implementados num curto espaço de tempo. As novas funcionalidades podem ser testados imediatamente após o desenvolvimento e distribuído para os usuários, sempre que a qualidade é boa e suficiente para o usuário final. Não há necessidade de esperar por lançamentos oficiais de software. Nós apreciamos a liberdade de ser capaz de influenciar o projeto e instalar o software em quantos computadores que gostamos, sem ter que lidar com a gestão de licenciamento. Estamos a olhar para a frente para uma futura colaboração com a comunidade QGIS e os nossos apoiantes comerciais para o avanço do projeto QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:52
 msgid "Author"

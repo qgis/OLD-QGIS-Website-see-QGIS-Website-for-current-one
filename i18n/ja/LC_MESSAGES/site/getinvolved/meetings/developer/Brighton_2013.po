@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-23 14:40\n"
-"PO-Revision-Date: 2013-10-04 11:25+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Japanese (http://www.transifex.com/projects/p/qgis-website/language/ja/)\n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2017-11-29 03:56+0000\n"
+"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,175 +17,248 @@ msgstr ""
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:3
 msgid "10th QGIS Developer Meeting in Brighton"
-msgstr ""
+msgstr "ブライトンでの第10回QGIS開発者会議"
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:5
-msgid "12 - 16 September 2013"
-msgstr ""
+msgid ""
+"The 10th QGIS Developer Meeting from 12 - 16 September 2013 was organised by"
+" `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ and held at "
+"`University of Sussex <http://www.sussex.ac.uk/>`_ in Brighton, Great "
+"Britain. The University sponsored the venue and internet access. We are "
+"extremely grateful to them for organising and helping us to make the whole "
+"event went very smoothly."
+msgstr "2013年9月12日〜16日の第10回QGIS開発者会議は、Lutra Consulting <http://www.lutraconsulting.co.uk/>によって企画され、 `Sussex大学<http://www.sussex.ac .uk /> `_、英国ブライトン。大学は会場とインターネットへのアクセスを主催した。私たちは、イベント全体をスムーズに進めるために組織し、助けてくれたことにとても感謝しています。"
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:12
-msgid "The participants have been working on a wide variety of topics:"
-msgstr ""
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:9
+msgid ""
+"The money from donations was put to very good use funding the travel, "
+"accomodation and eating of most of the participants of the developer "
+"meeting. We would like to thank the virtual particpants present on IRC, the "
+"developer meeting was all the better for having your comments, testing and "
+"insights."
+msgstr "寄付金からの資金は、開発者会議の参加者のほとんどが旅行、宿泊、食べることを非常にうまく利用するための資金が投入されました。私たちは、IRCに存在する仮想パーティクルに感謝したいと思います。あなたのコメント、テスト、および洞察を得るために、開発者会議はすべてより良いものでした。"
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:14
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:15
+msgid "Summary of what happened at the hackfest"
+msgstr "ハックフェストで起こったことの概要"
+
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:17
+msgid ""
+"Firstly we should mention, that the greatest part of the time was spent in "
+"discussions. Meeting face to face gives us an opportunity to discuss the "
+"minutae of the project in a way that is imply not possible in our virtual "
+"discussions. The discussions also gave us a good chance to plan what should "
+"be the priorities after the major release of QGIS 2.0. More details on that "
+"further down. We had 46 people attending (though not all could be here for "
+"the full duration). They have been working on a wide variety of topics, "
+"e.g.:"
+msgstr "最初に、時間の最大部分が議論に費やされたことに言及する必要があります。対面して会合することで、私たちは仮想ディスカッションでは不可能な意味でのプロジェクトの重要事項について議論する機会を得ることができます。また、QGIS 2.0のメジャーリリース後の優先事項を計画するよい機会となりました。それ以上の詳細については、こちらをご覧ください。私たちには46人の参加者がいましたが（ただし、全員がここにいるわけではありません）。彼らは多種多様なトピックに取り組んできました。例："
+
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:19
 msgid "Richard Duivenvoorde: Website"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:15
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:20
 msgid "Jürgen Fischer: Packaging 2.0.1"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:16
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:21
 msgid "Marco Bernasocchi: Android 2.0.1 + Python on Android"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:17
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:22
 msgid "Mathias Walker: Datasource Importer Plugin"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:18
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:23
 msgid "Ko Nagase: Documentation Japanese translation"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:19
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:24
 msgid "Matthias Kuhn: Socializing"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:20
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:25
 msgid ""
 "Denis Rouzaud: Edit type for geometric relation, layer/field combo manager"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:21
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:26
 msgid "Werner Macho: Plugin, socializing, Website"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:22
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:27
 msgid "Andreas Neumann: QGIS Web Client"
-msgstr ""
+msgstr "Andreas Neumann：QGIS Webクライアント"
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:23
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:28
 msgid "Raymond Nijssen: Website"
-msgstr ""
+msgstr "Raymond Nijssen：ウェブサイト"
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:24
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:29
 msgid "Hugo Mercier: 3D, socializing"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:25
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:30
 msgid "Vincent Mora: 3D, socializing"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:26
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:31
 msgid "Marco Hugentobler: DXF export, server, pull request"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:27
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:32
 msgid "Jeff Johnson: Website, Django site/plugins"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:28
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:33
 msgid "Alessandro Pasotti: Plugin repository"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:29
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:34
 msgid "Kamran Heidari: Hackfest support"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:30
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:35
 msgid "Borys Jurgiel: Plugin manager"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:31
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:36
 msgid "Luiz Motta: Plugins"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:32
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:37
 msgid "Drazen Odobrasic: localization"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:33
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:38
 msgid "Carlos Lopej: Spanish translation, 2.0 performance tests"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:34
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:39
 msgid "Victor Olaya: Refactoring Processing"
-msgstr ""
+msgstr "Victor Olaya：リファクタリング処理"
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:35
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:40
 msgid "Lars Lingner: QGIS webgis client"
-msgstr ""
+msgstr "Lars Lingner：QGIS webgisクライアント"
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:36
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:41
 msgid "Tim Sutton: QTiles hacking, documentation, project steering, mingling"
-msgstr ""
+msgstr "Tim Sutton：QTilesハッキング、ドキュメンテーション、プロジェクトステアリング、混合"
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:37
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:42
 msgid ""
 "Anita Graser: new splash, project steering, tweeting, workshop preparation, "
 "mingling"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:38
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:43
 msgid "Astrid Emde: Documentation"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:39
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:44
 msgid "Larissa Junek: Documentation"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:40
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:45
 msgid "Otto Dassau: Documentation, Project steering"
-msgstr ""
+msgstr "オットーダッソー：ドキュメンテーション、プロジェクトステアリング"
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:41
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:46
 msgid "Luca Casagrande: 3DJS integration"
-msgstr ""
+msgstr "Luca Casagrande：3DJSの統合"
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:42
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:47
 msgid ""
 "Paolo Cavallini: Documentation of Processing, workshop preparation, messing "
 "around"
-msgstr ""
+msgstr "Paolo Cavallini：処理の文書化、ワークショップの準備、混乱"
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:43
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:48
 msgid ""
 "Luigi Pirelli: WMS tile retry, WMS GetLegendGraphic integration, OSGeo4W "
 "packaging"
-msgstr ""
+msgstr "Luigi Pirelli：WMSタイル再試行、WMS GetLegendGraphic統合、OSGeo4Wパッケージ"
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:44
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:49
 msgid ""
 "Matteo Gismondo: Molusce presentation, translation (JP, IT, FR), website "
 "translation"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:45
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:50
 msgid "Yves Jacolin: Documentation, QGIS server testing"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:46
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:51
 msgid "Stephane Brunner: QGIS server improvmentfor our web geoportail"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:47
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:52
 msgid "Taro Matsuzawa: PyQGIS developer cookbook translation JP"
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:48
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:53
 msgid "Hal Seki: Website translation JP, patched webiste javascript"
-msgstr ""
+msgstr "ハルセキ：ウェブサイト翻訳JP、パッチウェブサイトjavascript"
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:49
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:54
 msgid "Yoichi Kayama: New website translation JP, document translation JP"
-msgstr ""
+msgstr "Yoichi Kayama: New website translation JP, document translation JP"
 
-#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:50
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:55
 msgid "Diethard Jansen: QGIS-Mobility presentation, documentation"
+msgstr "Diethard Jansen：QGIS-Mobilityプレゼンテーション、ドキュメント"
+
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:58
+msgid "Experiences and plans for the next hackfest"
 msgstr ""
 
-#~ msgid "Participants"
-#~ msgstr ""
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:60
+msgid ""
+"The next hackfest is planned to be in spring 2014. We would like to "
+"encourage all developers and non developers to join the meeting because it "
+"was extremely useful having them in Brighton and there are many hackfest "
+"activities they can contribute with including documentation cleanups, "
+"translations, giving inputs to the user interface and user interaction "
+"ideas."
+msgstr "次のハックフェストは2014年春に予定されています。すべての開発者と非開発者がブライトンに参加することは非常に便利で、ドキュメンテーションのクリーンアップ、翻訳、 ユーザーインターフェイスとユーザーインタラクションのアイデアを入力します。"
 
-#~ msgid "Topics"
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:63
+msgid "Further links"
+msgstr "その他のリンク"
+
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:65
+msgid ""
+"`Wiki page of the QGIS Hackfest in Brighton 2013 "
+"<http://hub.qgis.org/wiki/17/10_QGIS_Developer_Meeting_in_Brighton_2013>`_"
+msgstr "`2013年ブライトンでのQGIS HackfestのWikiページ<http://hub.qgis.org/wiki/17/10_QGIS_Developer_Meeting_in_Brighton_2013>` _"
+
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:66
+msgid ""
+"`General information on Sponsoring a QGIS Hackfest "
+"<http://qgis.org/en/site/getinvolved/governance/sponsorship/sponsorship.html"
+"#qgis-sponsorship-program>`_"
+msgstr "`QGISハックフェストのスポンサーに関する一般情報<http://qgis.org/en/site/getinvolved/governance/sponsorship/sponsorship.html#qgis-sponsorship-program>` _"
+
+#: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:7
+msgid ""
+"We also want to thank our gold sponsor `ASIA AIR SURVEY "
+"<http://www.asiaairsurvey.com/>`_, our silver sponsors `G.A.I.A. mbH "
+"<http://www.gaia-mbh.de>`_, and `State of Vorarlberg "
+"<http://www.vorarlberg.at/>`_, the German `FOSSGIS e.V. "
+"<http://www.fossgis.de/>`_ for sponsoring this event explicitly with 1500 "
+"Euros and the many people who have donated sums large and small to the QGIS "
+"project."
+msgstr "また、銀スポンサーである「GAIA mbH <http://www.gaia-mbh.de>」、および「GAIA mbH」のゴールドスポンサーであるASIA AIR SURVEY <http://www.asiaairsurvey.com/> 1500ユーロと多くの人々がこのイベントを明示的にスポンサーするためのドイツの「FOSSGIS eV」（http://www.vorarlberg.at/）誰がQGISプロジェクトに大小の金額を寄付しましたか？"
+
+#~ msgid ""
+#~ "We also want to thank our gold sponsor `ASIA AIR SURVEY "
+#~ "<http://www.asiaairsurvey.com/>`_, our silver sponsors `G.A.I.A. mbH "
+#~ "<http://www.gaia-mbh.de>`_, and `State of Vorarlberg "
+#~ "<http://www.vorarlberg.at/>`_, the German `FOSSGIS e.V. "
+#~ "<http://www.fossgis.de>`_ for sponsoring this event explicitly with 1500 "
+#~ "Euros and the many people who have donated sums large and small to the QGIS "
+#~ "project."
 #~ msgstr ""

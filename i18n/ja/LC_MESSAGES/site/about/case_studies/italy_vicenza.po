@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Kohei Tomita <fairtommy@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2016-01-20 07:15+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2017-12-04 03:45+0000\n"
+"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,15 +17,15 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:8
 msgid "The task"
-msgstr ""
+msgstr "タスク"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:15
 msgid "Workflow Schema"
-msgstr ""
+msgstr "ワークフロースキーマ"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:17
 msgid "A schema will clarify the workflow:"
-msgstr ""
+msgstr "スキーマによってワークフローが明確になります。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:19
 msgid ""
@@ -33,43 +34,43 @@ msgid ""
 "via PHP form using canonical web browser (Firefox, Iceweasel as well). In a "
 "second moment the shape of every building was draw with QGIS and linked to "
 "the survey table via id key field (PostgreSQL/Postgis view)."
-msgstr ""
+msgstr "すべての建物データを調査して取得し、紙のスケジュールで書かれていました。一度オフィスでのデータは、標準的なWebブラウザを使用してPHPのフォームからのPostgreSQL / PostGISのデータベースにinputedた（Firefoxの、Iceweaselのも）。第二の瞬間には、すべての建物の形状は、QGISで引き分けだったとidキーフィールド（PostgreSQLの/ PostGISのビュー）を介して、調査表にリンクされています。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:21
 msgid ""
 "At the same time the facades of buildings were designed using QCAD "
 "(LibreCAD)."
-msgstr ""
+msgstr "同時に、建物のファサードはQCAD（LibreCAD）を使用して設計されました。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:23
 msgid ""
 "The PDR (piani di recupero) must follow strict rules that require specific "
 "graphics:"
-msgstr ""
+msgstr "PDR（pianiジrecupero）は、特定のグラフィックスを必要とする厳密な規則に従わなければなりません。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:25
 msgid "Present state"
-msgstr ""
+msgstr "現在の状態"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:26
 msgid "Project state"
-msgstr ""
+msgstr "プロジェクトの状態"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:27
 msgid "Intended use (present)"
-msgstr ""
+msgstr "使用目的（現在）"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:28
 msgid "Intended use (project)"
-msgstr ""
+msgstr "意図された使用（プロジェクト）"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:29
 msgid "Type of intervention admitted"
-msgstr ""
+msgstr "介入のタイプ"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:40
 msgid "QGIS project with building data viewing"
-msgstr ""
+msgstr "建物のデータを表示するQGISプロジェクト"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:42
 msgid ""
@@ -77,15 +78,15 @@ msgid ""
 "libreoffice suite. The report consists in a schedule summarise with photo, "
 "cartography extract which localize the building in the contest and data of "
 "the present state."
-msgstr ""
+msgstr "最後に、すべての建物のための統合報告書は、LibreOfficeのスイートを用いて製造しました。報告書は、現状のコンテストやデータに建物をローカライズ写真、地図作成エキスをまとめるスケジュールで構成されています。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:49
 msgid "QGIS print composer for final graphic layout"
-msgstr ""
+msgstr "最終的なグラフィックレイアウト用のQGISプリントコンポーザー"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:52
 msgid "Conclusion"
-msgstr ""
+msgstr "結論"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:59
 msgid "Author"
@@ -93,7 +94,7 @@ msgstr "制作者"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:66
 msgid "Flavio Rigolon"
-msgstr ""
+msgstr "フラビオ・リゴロン"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:68
 msgid ""
@@ -103,13 +104,13 @@ msgid ""
 "(QGIS, Postgresql/Postgis, Spatialite). He is a member of GFOSS.it "
 "(Associazione Italiana per l'Informazione Geografica Libera) since 2007 and "
 "was a member of the GFOSS.it board from 2010 to 2012."
-msgstr ""
+msgstr "この記事では、フラビオRigolonによって2012年5月に寄贈されました。彼はヴィチェンツァ（イタリア）に住んでいるとSITマネージャーとしてモンテッキオマッジョーレの自治体で動作します。彼は、無料のプラットフォーム（QGISはPostgreSQL / PostGISの、Spatialite）に独自のほとんどすべてのGISデータを移行しました。彼は2007年以降GFOSS.it（L'あたりAssociazione ItalianaのInformazione Geograficaリベラ）のメンバーであり、2010年から2012年までGFOSS.itボードのメンバーでした。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:3
 msgid ""
 "Using QGIS for urban planning in the municipality of Montecchio Maggiore, "
 "Vicenza, Italy"
-msgstr ""
+msgstr "Montecchio Maggiore、Vicenza、Italyの自治体での都市計画にQGISを使用する"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:5
 msgid ""
@@ -123,14 +124,14 @@ msgid ""
 "graphics. For this purpose it has used QGIS in addition to "
 "Postgresql/Postgis database, PHP code and Libreoffice suite, QCAD "
 "(LibreCAD)."
-msgstr ""
+msgstr "モンテッキオマッジョーレは、ヴィチェンツァ（約24.000人口）の中央西部の小さな町です。それは都市計画を管理し、他の多くのイタリアの自治体。特に、都市計画と私たちはPianiディRecupero ---通称PDR「復興計画」と呼びます。このurbanisticツールは、町の中心部にある歴史的なエリアに専用されているし、それが特定の研究が必要です。調査と面積測定および目論見書グラフィックスを生成するために、反発を経て保全の状態、意図された使用、特定の歴史的な通知を構築します。この目的のためには、PostgreSQL / PostGISのデータベース、PHPコードとLibreOfficeのスイート、QCadは（LibreCAD）に加えて、QGISを用いました。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:31
 msgid ""
 "For every graphic thematic maps were produced using the attribute and data "
 "retrieve during the survey (for the present state) and data modified during "
 "the study and design fase."
-msgstr ""
+msgstr "すべてのグラフィック主題図の属性を使用して生成されたデータは、研究と設計FASE中に変更（現在の状態のための）調査とデータの間に取得します。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:33
 msgid ""
@@ -142,7 +143,7 @@ msgid ""
 "percentage of the total planning area and other minor queries. All useful "
 "items for the design and planning study otherwise not possible without a "
 "very strength tool like gis (and QGIS in particular)."
-msgstr ""
+msgstr "したがって、写真は（「アクション」機能を使用して）、GISプロジェクトの設計とanalisysを促進するすべての建物にリンクされました。SQLツール（pgquery、PostGISのマネージャー、DBManagerのら）のようなマップキャンバスですぐに閲覧可能な非常に洗練されたクエリ得ることが許さ：総計画面積と他のマイナーの割合で、使用目的、標準面積計算を構築することにより、体積計算分割をクエリ。それ以外の場合は設計と計画研究のためのすべての便利なアイテムではない可能性GIS（特にQGIS）のような非常に強力なツールなし。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:54
 msgid ""
@@ -152,14 +153,14 @@ msgid ""
 "interoperability between different worlds. And thus the freedom offered by "
 "the free software (QGIS, PHP, Libreoffice, QCAD) stimulates and open new "
 "horizons."
-msgstr ""
+msgstr "QGISの強さは、それが提供するいくつかのツールと相まって非常にユーザーフレンドリーなインターフェイスです。関連データ形式（形状ファイル、spatialite DBはPostgreSQL / PostGISのデシベル、...）を変化させるには、異なる世界の間の相互運用性を容易に増加させます。したがって、フリーソフトウェア（QGIS、PHP、LibreOfficeの、QCadは）によって提供される自由は刺激し、新しい地平を開きます。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:56
 msgid ""
 "And last but not least: we worked on different platform (Windows 7 64 bit, "
 "Windows xp 32 bit, Debian server and Debian client) but we never encountered"
 " insurmountable problems."
-msgstr ""
+msgstr "そして、少なくとも最後のではなく：私たちは、異なるプラットフォーム上で働いていた（Windows 7の64ビット、Windows XPの32ビット、DebianのサーバとDebianのクライアント）が、私たちは乗り越えられない問題に遭遇したことはありません。"
 
 #~ msgid ""
 #~ "Using QGIS for urban planning in the municipality of Montecchio Maggiore, "
