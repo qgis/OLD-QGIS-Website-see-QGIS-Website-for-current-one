@@ -148,12 +148,15 @@ try:
         sent_content(400, 'Illegal request')
         sys.exit(400)
 
-    # log(rawdata) # don't think we should log this....
+    log(rawdata) # don't think we should log this....
     data = json.loads(rawdata)
+    # sometimes not only the charge object is sent, but also the evt object surrounding it:
+    if data['object']=='event':
+        log('event received instead of charge...')
+        data = data['data']
     donationid = data['object']['id']
     donationtime = time.asctime(time.gmtime(data['object']['created']))
     donorname = data['object']['metadata']['donorname']
-
     if donorname is None or len(donorname)<1:
         # we promissed to only publish the donorname if it was given!
         pass
@@ -178,7 +181,6 @@ try:
     sent_content(200, 'Ok')
 
 except Exception as error:
-    log("ERROR in script")
-    log(error)
-    sent_content(500, "Some unexpected error occurred. Error text was: %s" % error)
+    log('ERROR in script: {}'.format(error))
+    sent_content(500, 'Some unexpected error occurred. Error text was: {}'.format(error))
     sys.exit(500)
