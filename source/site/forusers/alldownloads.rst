@@ -294,9 +294,9 @@ to install both client and server applications on the same machine), type::
 +===============+=============+==============+==============+=======+
 | Fedora        | 26          | 3.0          | 7.2          | yes   |
 |               +-------------+--------------+--------------+-------+
-|               | 27          | 3.0          | 7.4          | yes   |
+|               | 27          | 3.2          | 7.4          | yes   |
 |               +-------------+--------------+--------------+-------+
-|               | 28          | 3.0          | 7.4          | yes   |
+|               | 28          | 3.2          | 7.4          | yes   |
 +---------------+-------------+--------------+--------------+-------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis/
