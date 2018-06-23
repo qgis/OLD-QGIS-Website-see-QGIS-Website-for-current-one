@@ -40,17 +40,17 @@
       currentPage = pages.join('/') + '/';
     }
     $(document).ready(function(){
-        var search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+        var search = new RegExp('\/[a-zA-Z_]{2,8}\/'+ currentPage, 'gi');
         var langPlusPage = window.location.href.match(search);
         // it's possible this is the index.html page called without 'index.html', try without the currentPage
         if (langPlusPage==undefined){
-            search = new RegExp('\/[a-zA-Z_-]{2,8}\/$', 'gi');
+            search = new RegExp('\/[a-zA-Z_]{2,8}\/$', 'gi');
             langPlusPage = window.location.href.match(search);
         }
         // it's possible this is an index.html page called without 'index.html', try removing index.html
         if (langPlusPage==undefined){
             currentPage = currentPage.replace('index.html','')
-            search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+            search = new RegExp('\/[a-zA-Z_]{2,8}\/'+ currentPage, 'gi');
             langPlusPage = window.location.href.match(search);
         }
         // still no langPlugPage: stop, because the language swicher will misbehave
@@ -87,42 +87,30 @@
             atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
             atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
         }
+        else if (currentPage == "site/about/sponsorship.html"){
+            // http://changelog.qgis.org/en/qgis/sponsors/atom/
+            // http://changelog.qgis.org/en/qgis/pastsponsors/atom/
+            // function atom(url, holder, count, showcont, spanclass){
+            atom('/feeds/qgissponsors.atom', '#qgissponsorsatom', 1000, true, 'span3');
+            atom('/feeds/qgispastsponsors.atom', '#qgispastsponsorsatom', 1000, true, 'span3');
+        }
         else if (currentPage == "site/forusers/download.html" || currentPage == "site/forusers/alldownloads.html"){
-            $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
-            '<h2>{{ _("Thank you!") }}</h2> <p/>'+
+            $($('section.content')[0]).append('<div id="teaser" style="display:none;background-color:#dddddd;position:fixed;left:5%;top:8%;width:80%;padding:10% 5%;opacity:0.93;"> <div id="teasercontent" style="width:70%;margin: 0 auto;"><h2>Thank you!</h2> <p/>'+
             '<div class="container"><div class="span8">'+
-            '<p>{{ _("Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href=\"http://qgis.org/en/site/getinvolved/donations.html\">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!") }}</p>'+
-            '<p>{{ _("The QGIS Team") }}</p>'+
+            '<p>Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href="http://qgis.org/en/site/getinvolved/donations.html">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!</p>'+
+            '<p>The QGIS Team</p>'+
             '</div><div class="container">'+
-            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="../getinvolved/donations.html">{{ _("Donate Now") }}</a></p><p class="muted"></p></div>'+
-            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">{{ _("Close this message") }}</a></p><p class="muted"></p></div>'+
+            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="../getinvolved/donations.html">Donate Now</a></p><p class="muted"></p></div>'+
+            '<div class="span5"><p><a id="closeteaser"class="btn btn-large btn-success btn-flat" href="#">Close this message</a></p><p class="muted"></p></div>'+
             '</div>'+
-            '<br/><p><img src="{{pathto('_static/images/splash.png', 1)}}"/></p></div>');
-            $('#thankyou').click(function(){ $('#thankyou').hide(); });
-            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
+            '<br/><p><img src="../../_static/images/splash.png"/></p></div>');
+            $('#teaser').click(function(){ $('#teaser').hide(); });
+            $('#closeteaser').click(function(){ $('#teaser').hide(); });
             $('a.reference').click(function(){
-                $('#thankyou').show();
+                $('#teaser').show();
                 return true;
             });
         }
-        else if (currentPage == "site/getinvolved/donations.html"){
-            // inject the stripeform into this page
-            $.get( "{{ stripeformurl }}", function( data ) { $( "#stripe" ).html( data ); });
-            // create thankyou and error page
-            $($('div.container')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
-            '<h2>{{ _("Thank you for your donation!") }}</h2> <p/>'+
-            '<div class="container"><div class="span8">'+
-            '<p id="stripemsg">{{ _("QGIS is free of charge and we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!") }}</p>'+
-            '<p id="stripeerr" style="display:none;">{{ _("Unfortunately there was an error processing your Donation. Please try again later, or contact us via finance@qgis.org") }}</p>'+
-            '<p>{{ _("The QGIS Team") }}</p>'+
-            '</div><div class="container">'+
-            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">{{ _("Close this message") }}</a></p><p class="muted"></p></div>'+
-            '</div>'+
-            '<br/><p><img src="{{pathto('_static/images/splash.png', 1)}}"/></p></div>');
-            $('#thankyou').click(function(){ $('#thankyou').hide(); });
-            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
-        }
-
     });
 
 
@@ -200,6 +188,13 @@
                             counter --;
                         }
                     }
+                    else if (holder == '#qgissponsorsatom' || holder == '#qgispastsponsorsatom'){
+                        html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+                        html+='<div class="sponsordiv"><h4>'+title+'</h4>';
+                        html+=content;
+                        html+='</div></a></div>';
+                        addit = false; // we are building html ourselves!!
+                    }
                     else if (holder == '#qgisblogatom'){
                         var s = title.split(':');
                         if (s[0] != 'QGIS Project blog'){
@@ -219,7 +214,6 @@
                         html+='</div></a>\n';
                     }
                 }
-
             });
             $(holder).append(html);
         });
