@@ -25,3 +25,6 @@ curl https://raw.githubusercontent.com/qgis/QGIS-Website/master/source/feeds/qug
 # get sponsors (from changelog.qgis.org/projecta)
 mv qgissponsors.atom qgissponsors.atom.0
 curl http://changelog.qgis.org/en/qgis/sponsors/atom/ -o qgissponsors.atom
+# and list of past sponsors too
+mv qgispastsponsors.atom qgispastsponsors.atom.0
+curl http://changelog.qgis.org/en/qgis/past-sponsors/atom/ -o qgispastsponsors.atom
