@@ -32,14 +32,15 @@ Current list of QGIS user groups
 * `Groupe des Utilisateurs de QGIS - France (France) - contact: Harrissou Sant-anna <http://osgeo.asso.fr/content/project/qgis-user-fr/>`_
 * `QGIS Sverige (Sweden) - contact: Karl-Magnus Jönsson <http://qgis.se/>`_
 * `QGIS Georgia - contact: Zurab Archvadze <http://qgis.org>`_
-* `QGIS Kenya - contact: Benard Mitto <https://www.facebook.com/qgisKE/>`_
+* `QGIS Kenya - contact: Benard Mitto <http://qgis.or.ke>`_
 * `QGIS Australia - contact: Andrew Jeffrey <http://qgis-au.org>`_
 * `QGIS USA - contact: Kurt Menke <http://qgis.us>`_
-* `QGIS Mexico - contact: Hennessy Amor Becerra Ayala <https://www.facebook.com/qgismexico/>`_
+* `QGIS Mexico - contact: Hennessy Amor Becerra Ayala <http://qgis.mx>`_
 
 **Registered 2018**
 
 * `Asociația Utilizatorilor QGIS (Romania) - contact: Tudor Bărăscu <http://qgis.ro/>`_
+* `Association of QGIS users in Spain - contact: Carlos López Quintanilla <http://qgis.es/>`_
 
 
 Goals of a user group
