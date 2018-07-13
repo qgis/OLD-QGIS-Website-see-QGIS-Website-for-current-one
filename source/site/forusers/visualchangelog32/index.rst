@@ -33,8 +33,8 @@ General
 Feature: New zipped project file format .qgz is now the default format
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| QGZ was added as an optional format in 3.0.
-| Having this format as the default format will ease a lot the path to go to a container able to embed resources like SVG, offline data in GPKG, color ramps, plugins or scripts.
+QGZ was added as an optional format in 3.0.
+Having this format as the default format will ease a lot the path to go to a container able to embed resources like SVG, offline data in GPKG, color ramps, plugins or scripts.
 
 |image29|
 
@@ -52,10 +52,10 @@ This feature was developed by `Salvatore Larosa <https://github.com/slarosa>`__
 Feature: FULL screen Map via Ctrl-Shift-Tab
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| Besides Ctrl-Tab you can now do Ctrl-Shift-Tab, which will show you the Map and ONLY the Map, no more toolbars or buttons (or even without Window Title, in combination with F11).
-| Great for Full Screen Map projection via Beamer or on Big Screens.
-| You can still zoom and pan!
-| (Based on work of Mathieu Pellerin)
+Besides Ctrl-Tab you can now do Ctrl-Shift-Tab, which will show you the Map and ONLY the Map, no more toolbars or buttons (or even without Window Title, in combination with F11).
+Great for Full Screen Map projection via Beamer or on Big Screens.
+You can still zoom and pan!
+(Based on work of Mathieu Pellerin)
 
 |image31|
 
