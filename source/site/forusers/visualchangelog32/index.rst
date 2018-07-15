@@ -345,7 +345,7 @@ This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
 Feature: Main window scale bar font size and family can be customized
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This feature was developed by `Mathieu Pelllerin <http://www.imhere-asia.com/>`__
+This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
 
 Feature: Custom SVG path and size for the north arrow decoration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -362,7 +362,7 @@ From the browser, with a right click on a materialized view, you can now refresh
 
 |image15|
 
-This feature was developed by `Etienne Trimaille <http://github.com/Gustry>`__
+This feature was developed by `Etienne Trimaille <https://github.com/Gustry>`__
 
 Feature: Z and M support for offline editing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
