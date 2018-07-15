@@ -345,7 +345,7 @@ This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
 Feature: Main window scale bar font size and family can be customized
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This feature was developed by `Mathieu Pelllerin <http://www.imhere-asia.com/>`__
+This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
 
 Feature: Custom SVG path and size for the north arrow decoration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
