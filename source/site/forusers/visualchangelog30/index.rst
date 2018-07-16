@@ -747,6 +747,7 @@ Feature: Style management re-work and upgrade
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Style management has received a major upgrade. The improvements include:
+
 - A new favorite grouping system was added, which the symbols list widget defaults to
 - The selected tag / smartgroup in the symbols list widget now persists when switching layers (and across sessions)
 - The symbols list widget will update the tag / smartgroup combo box when users add / rename / remove categories
@@ -801,8 +802,7 @@ Feature: raster auto-stretching when updating canvas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 see https://lists.osgeo.org/pipermail/qgis-developer/2016-September/044393.html
-
--  follow up to raster pseudocolor updated extent auto classification
+follow up to raster pseudocolor updated extent auto classification.
 
 This feature was developed by Even Rouault
 
