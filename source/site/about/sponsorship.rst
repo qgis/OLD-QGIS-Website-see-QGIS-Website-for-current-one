@@ -54,6 +54,7 @@ in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
 
 :raw-html:`<div id="qgispastsponsorsatom"> <!-- to be filled via javascript loading of atom feed --> </div>`
 
+.. _list_of_donors:
 
 List of donors
 --------------
