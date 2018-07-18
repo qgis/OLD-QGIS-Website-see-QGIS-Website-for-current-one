@@ -71,9 +71,9 @@ The Simplify Features map tool has been renamed to "Simplify/Smooth Features", a
 
 |image2|
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Identify Tool with extra options
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -121,9 +121,9 @@ This allows different techniques to be used for simplification in the interactiv
 
 |image5|
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: add zoom to related feature in forms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -141,9 +141,9 @@ In QGIS 3.2 we now show both ellipsoidal and cartesian areas, lengths and perime
 
 |image7|
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Expressions
 -----------
@@ -235,9 +235,9 @@ E.g. entering "= 10/3" shows a locator entry "Copy '3.3333333' to clipboard".
 
 |image12|
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Shortcuts for toggling panels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -276,9 +276,9 @@ Feature: Unsaved changes indicator in title bar
 
 QGIS 3.2 now follows the standard UI approach of indicating that the current project has unsaved changes by adding a "\*" prefix to the project name in the application title bar. This makes it easy to see if you have unsaved changes at a single glance!
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Configurable map tips delay
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -315,9 +315,9 @@ Feature: Indicators for embedded layers and groups
 
 Embedded project layers and groups are now flagged by a handy "embedded" indicator, making it immediately clear to users which layers and groups have been embedded inside a project.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Symbology
 ---------
@@ -327,9 +327,9 @@ Feature: Nicer colors for new layers
 
 The "random" colors assigned to new map layers are no longer "random" but instead randomly selected from a preset palette of "visually pleasing" colors. Say goodbye to ugly baby puke green layers!
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Rendering
 ---------
@@ -382,7 +382,7 @@ Continuing the metadata work begun in QGIS 3.0, 3.2 now supports metadata for QG
 
 This feature was funded by Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Forms and Widgets
 -----------------
@@ -468,7 +468,7 @@ When an attribute table is set to a "Layer features" source, this new feature al
 
 This feature was funded by `Kartoza/InaSAFE <http://kartoza.com/en/>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Project metadata embedded in layout exports
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -477,7 +477,7 @@ Saving a print layout to SVG, PDF or images will now embed any project metadata 
 
 This feature was funded by Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Better formatting for scalebar text
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -486,9 +486,9 @@ QGIS 3.2 allows the full range of text formatting options to be used within scal
 
 Unreadable scale bar text is a thing of the past!
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Processing
 ----------
@@ -548,9 +548,9 @@ Feature: 'Project points (cartesian)' algorithm
 
 This new Processing algorithm projects points from an input point layer by a specified distance and bearing (azimuth). It supports dynamic parameters for the distance and bearing so that the distance and bearing can be taken from field values or expressions.
 
-This feature was funded by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was funded by `Nyall Dawson (North Road) <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Dynamic parameter values for more algorithms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -568,9 +568,9 @@ In 3.2 the following algorithms now support dynamic parameters:
 -  Transect
 -  Translate
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Multi-ring buffer (constant distance) algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -588,9 +588,9 @@ In QGIS 3.2 two new algorithms for segmentizing curved geometries have been adde
 
 "Segmentize by maximum angle": The segmentization is performed by specifying the maximum allowed radius angle between vertices on the straightened geometry (e.g the angle of the arc created from the original arc center to consective output vertices on the linearized geometry).
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Option to create points on all polygon parts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -604,18 +604,18 @@ Feature: Rotate Features algorithm
 
 This new algorithm allows rotation of features by a set angle. The rotation can occur around a preset point or each individual feature's centroid.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Line sinuosity in "Add Geometry Attributes"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The "Add Geometry Attributes" algorithm now calculates line sinuosity and straight distance for line layers.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Import geotagged photos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -629,27 +629,27 @@ The algorithm automatically sets the output table to use an external resource wi
 
 |image24|
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Swap x/y coordinate values algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This algorithm swaps the X and Y coordinate values in input geometries. It can be used to repair geometries which have accidentally had their latitude and longitude values reversed.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Sort order option for "Add Incremental Field"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This change allows users to optionally set a sort order to use when assigning values in the Add Incremental Field algorithm. Previously values were always added using the original feature order. With this change users can control the order in which features are assigned values.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Indicator for distance parameter units
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -659,9 +659,9 @@ directly within the dialog. Hopefully this leads to less user confusion and acci
 
 Additionally - if the unit is in degrees, a small warning icon is shown next to the parameter. The tooltip for this icon advises users to reproject data into a suitable projected local coordinate system.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Algorithm log can be saved/cleared/copied
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -670,7 +670,7 @@ In the algorithm execution dialog, new buttons have been added to allow users to
 
 This feature was funded by SMEC/SJ
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Wedge buffer algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -683,18 +683,18 @@ The algorithm supports dynamic parameters for azimuth, width, and radius.
 
 The native output from this algorithm is CurvePolygon geometries, but these may be automatically segmentized to Polygons depending on the output format.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Variable width buffers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 New Processing algorithms have been added to create variable width buffers, including tapered buffers (with a specified start and end diameter) and variable width buffers from line string m values.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Reclassify raster algorithms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -707,7 +707,7 @@ Two new native QGIS raster reclassification algorithms have been added to Proces
 
 This feature was funded by SMEC/SJ
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Union algorithm with a single layer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -782,7 +782,7 @@ The path can be set through the Project Properties dialog, or by right-clicking 
 
 This feature was funded by SMEC/SJ
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 
 Data Providers
@@ -812,16 +812,16 @@ When layers from a Feature Server are loaded into QGIS 3.2, they will automatica
 
 This feature was funded by SMEC/SJ
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Faster Oracle queries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Certain operations are greatly sped up for Oracle layers, e.g. case-insensitive value matches for features.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <v>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Restrict table list for a Oracle database connection to a preset schema
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -833,7 +833,7 @@ user, and the default "scan everything" setting is too expensive (since it often
 
 This feature was funded by `Open Spatial <http://www.openspatial.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Read only support for curved Oracle geometries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -842,7 +842,7 @@ Previously these geometries were silently discarded.
 
 This feature was funded by `Open Spatial <http://www.openspatial.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Plugins
 -------
