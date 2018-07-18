@@ -22,8 +22,8 @@ QGIS is Free software and you are under no obligation to pay anything to use it 
    :local:
 
 
-Sponsors for QGIS version 3.0.0
--------------------------------
+Sponsors for QGIS version 3.0
+-----------------------------
 
 Gold
 ~~~~

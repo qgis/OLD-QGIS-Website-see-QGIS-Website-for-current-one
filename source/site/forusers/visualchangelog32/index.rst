@@ -1,8 +1,8 @@
 
 .. _changelog32:
 
-Changelog for QGIS 3.2.0
-========================
+Changelog for QGIS 3.2
+======================
 
 |image1|
 
@@ -21,8 +21,8 @@ QGIS is Free software and you are under no obligation to pay anything to use it 
    :local:
 
 
-Sponsors for QGIS version 3.2.0
--------------------------------
+Sponsors for QGIS version 3.2
+-----------------------------
 
 A special thanks to all our :ref:`Sponsors and Donors <QGIS-sponsoring>` for helping us to make this release possible!
 
