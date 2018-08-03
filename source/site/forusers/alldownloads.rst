@@ -374,19 +374,6 @@ Try the ELGIS repository: http://elgis.argeo.org/
 .. note:: ELGIS requires the EPEL repo enabled, see
    http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL
 
-QGIS stable
-...........
-
-QGIS stable can be installed from an alternative repository.
-Python support is strongly limited due to old dependencies.
-Note: It requires, that ELGIS and EPEL are also installed.
-::
-
- sudo wget fedora.vitu.ch/EL/qgis.repo -P /etc/yum.repos.d/
- sudo rpm --import http://fedora.vitu.ch/Fedora/RPM-GPG-Key-vitu
- sudo yum update
- sudo yum install qgis qgis-python qgis-grass qgis-mapserver
-
 openSUSE
 --------
 
