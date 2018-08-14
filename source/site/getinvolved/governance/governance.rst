@@ -37,7 +37,7 @@ Country Voting Members
 According to our statutes, for each country user group that is formed, that
 group will select a QGIS Country User Group Voting Member to represent
 their interests. These voting members are listed :ref:`here<QGIS-usergroups>`.
-Please email tim@qgis.org if you have registered a new country user group, or have
+Please email trademark@qgis.org if you have registered a new country user group, or have
 changed your user group representative.
 
 
