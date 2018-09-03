@@ -326,7 +326,7 @@ provides commercial GIS consulting, support and training in QGIS.
 
 ----
 
-.. |mierune| image:: /static/site/about/images/mierune.png
+.. |mierune| image:: /static/site/about/images/MIERUNE.png
    :width: 75 px
 
 |mierune| `Mierune Inc. <http://www.mierune.co.jp/>`_ (based in Japan) provides commercial consulting, training, support and customization of QGIS and FOSS4G software. We also organize hands-on workshops with these tools. Please contact us if you have questions regarding system development, visualization or analysis involving positioning data.
