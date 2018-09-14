@@ -41,7 +41,7 @@ Current list of QGIS user groups
 
 * `Asociația Utilizatorilor QGIS (Romania) - contact: Tudor Bărăscu <http://qgis.ro/>`_
 * `Association of QGIS users in Spain - contact: Carlos López Quintanilla <http://qgis.es/>`_
-
+* `Grupo de Usuarios QGIS Colombia - contact: Germán Carrillo <http://qgisusers.co>`_
 
 Goals of a user group
 ---------------------
