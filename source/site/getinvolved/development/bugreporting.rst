@@ -9,16 +9,24 @@ team of developers, documenters, translators and supporters.
 Despite the efforts of the team to release QGIS without bugs, there may remain
 some bugs. If you find a bug or want new features to be added, please report it!
 
+Where to report?
+----------------
+
 Each part of the QGIS Project has a dedicated place where issues (feature requests
-or bugs) can be reported, managed and discussed. You'll find issues related to:
+or bugs) can be reported, managed and discussed. Depending on the area you
+encountered the issue, the table below indicates the right repository to report it:
 
-* QGIS applications (QGIS Desktop, QGIS Browser or QGIS Server) at
-  https://issues.qgis.org/projects/qgis/issues
-* the `web site <http://qgis.org>`__ at https://github.com/qgis/QGIS-Website/issues
-* and the `documentation <http://docs.qgis.org>`__ at
-  https://github.com/qgis/QGIS-Documentation/issues.
+================================================== ======================================================
+ Place you found the bug or request a feature for   Place to report the issue
+================================================== ======================================================
+ Applications (QGIS Desktop, QGIS Server)           https://issues.qgis.org/projects/qgis/issues
+ QGIS Website (https://qgis.org)                    https://github.com/qgis/QGIS-Website/issues
+ QGIS Documentation (https://docs.qgis.org)         https://github.com/qgis/QGIS-Documentation/issues
+ External plugins                                   The author repository set in the plugin description
+================================================== ======================================================
 
-For questions, please contact the :ref:`QGIS-mailinglists`.
+
+For help and questions, please contact the :ref:`QGIS-mailinglists`.
 
 Reporting issues on QGIS applications
 ---------------------------------------
@@ -138,21 +146,6 @@ reproduce the output might shed some light about where QGIS crashes.
 .. _DebugView: http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx
 
 
-Plugin bugs
-............
-
-Most of the plugins in QGIS are published in the official `QGIS Plugins repository 
-<http://plugins.qgis.org/plugins/>`_. Bugs or feature requests relative to them
-**must** be opened in their respective bug tracking system. 
-For any plugin available in QGIS repository, you'll find in its metadata a
-link to its bug tracker. Otherwise, consult the plugin documentation to find
-the address of the relevant bug tracking system or a developer to contact.
-
-If no information is available, please report it to the `Developer
-mailing-list <http://lists.osgeo.org/mailman/listinfo/qgis-developer>`_.
-
-For other plugins, we have no means to ensure such information are provided.
-
 Reporting issues on QGIS web site or documentation
 ---------------------------------------------------
 
@@ -183,15 +176,32 @@ When you're finished, click **Submit new issue**.
   
   This option is also available in the footer of the documentation.
 
-Submitting a Patch
-------------------
+Reporting plugin issues
+-----------------------
+
+Most of the plugins in QGIS are published in the official `QGIS Plugins repository 
+<http://plugins.qgis.org/plugins/>`_. Bugs or feature requests relative to them
+**must** be opened in their respective bug tracking system:
+
+* For any plugin available in QGIS repository, you'll find in its metadata a
+  link to its bug tracker. Otherwise, consult the plugin documentation to find
+  the address of the relevant bug tracking system or a developer to contact.
+
+  If no information is available, please report it to the `Developer
+  mailing-list <http://lists.osgeo.org/mailman/listinfo/qgis-developer>`_.
+
+* For other plugins, we have no means to ensure such information are provided.
+
+
+Submitting a Patch to QGIS projects
+-----------------------------------
 
 In addition to issue report, you can help to fix issues. Fixing issues is done 
 in GitHub through pull requests. You need to `fork the repository 
 <https://help.github.com/articles/working-with-forks/>`_ you want to 
 contribute to and submit pull requests at:
 
-* https://github.com/qgis/QGIS for QGIS Desktop, Browser or Server applications
+* https://github.com/qgis/QGIS for QGIS Desktop or QGIS Server applications
 * https://github.com/qgis/QGIS-Website for the web site at http://qgis.org
 * https://github.com/qgis/QGIS-Documentation for the documentation
   available at http://docs.qgis.org
