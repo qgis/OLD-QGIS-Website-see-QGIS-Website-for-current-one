@@ -31,7 +31,7 @@ For help and questions, please contact the :ref:`QGIS-mailinglists`.
 Reporting issues on QGIS applications
 ---------------------------------------
 
-QGIS applications (QGIS Desktop, QGIS Browser and QGIS Server) issues
+QGIS applications (QGIS Desktop and QGIS Server) issues
 are available in `Redmine <https://issues.qgis.org/projects/qgis/issues>`_.
 In order to submit or comment a report, you need to register (top right of each page) and login. 
 You can also use your OSGeo ID or request on at `Create an OSGeo account
@@ -142,15 +142,15 @@ output, that you can view with DebugView_. If the problem is not easy to
 reproduce the output might shed some light about where QGIS crashes.
 
 
-.. _OSGeo4W: http://trac.osgeo.org/osgeo4w
-.. _DebugView: http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx
+.. _OSGeo4W: https://trac.osgeo.org/osgeo4w
+.. _DebugView: https://docs.microsoft.com/en-us/sysinternals/downloads/debugview
 
 
 Reporting issues on QGIS web site or documentation
 ---------------------------------------------------
 
-QGIS project provides an active `web site <http://qgis.org>`_ and a rich 
-`documentation <http://qgis.org/en/docs/index.html>`_. Despite our efforts,
+QGIS project provides an active `web site <https://qgis.org>`_ and a rich 
+`documentation <https://qgis.org/en/docs/index.html>`_. Despite our efforts,
 if you find an out of date information, a wrong or unclear statement 
 or miss a valuable information, please feel free to report it.
 
@@ -180,7 +180,7 @@ Reporting plugin issues
 -----------------------
 
 Most of the plugins in QGIS are published in the official `QGIS Plugins repository 
-<http://plugins.qgis.org/plugins/>`_. Bugs or feature requests relative to them
+<https://plugins.qgis.org/plugins/>`_. Bugs or feature requests relative to them
 **must** be opened in their respective bug tracking system:
 
 * For any plugin available in QGIS repository, you'll find in its metadata a
@@ -188,7 +188,7 @@ Most of the plugins in QGIS are published in the official `QGIS Plugins reposito
   the address of the relevant bug tracking system or a developer to contact.
 
   If no information is available, please report it to the `Developer
-  mailing-list <http://lists.osgeo.org/mailman/listinfo/qgis-developer>`_.
+  mailing-list <https://lists.osgeo.org/mailman/listinfo/qgis-developer>`_.
 
 * For other plugins, we have no means to ensure such information are provided.
 
@@ -202,9 +202,9 @@ in GitHub through pull requests. You need to `fork the repository
 contribute to and submit pull requests at:
 
 * https://github.com/qgis/QGIS for QGIS Desktop or QGIS Server applications
-* https://github.com/qgis/QGIS-Website for the web site at http://qgis.org
+* https://github.com/qgis/QGIS-Website for the web site at https://qgis.org
 * https://github.com/qgis/QGIS-Documentation for the documentation
-  available at http://docs.qgis.org
+  available at https://docs.qgis.org
 
 You can find a few guidelines that will help you to easily get your patches  
 and pull requests into QGIS projects at :ref:`submit_patch`. And more widely, 
