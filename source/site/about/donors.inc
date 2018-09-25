@@ -1966,7 +1966,7 @@
      - Jens Ewert
      - Jens Führböter
    * - Jens Schumacher
-     - Jens-peter Stadie
+     - Jens-Peter Stadie
      - Jeremias Bauer
    * - Jeremy Wetterwald
      - Jeremy Wray
