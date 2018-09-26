@@ -482,6 +482,27 @@ To compile QGIS from sources in FreeBSD you need to type
 
 Note the warning_.
 
+
+Flatpak
+=======
+
+There is an *experimental* QGIS flatpak for QGIS Stable available.
+
+For general Linux Flatpak install notes, see https://flatpak.org/setup/
+
+QGIS on Flathub: https://flathub.org/apps/details/org.qgis.qgis
+
+To install::
+
+ flatpak install --from  https://flathub.org/repo/appstream/org.qgis.qgis.flatpakref
+
+Then to run::
+
+ flatpak run --share=network org.qgis.qgis``
+
+Flathub files: https://github.com/flathub/org.qgis.qgis
+
+
 Android
 =======
 
@@ -496,6 +517,7 @@ https://play.google.com/store/apps/details?id=org.qgis.qgis
    optimized for touch devices and therefore needs to be carefully evaluated
    for its suitability in day-to-day use. There are other apps available which
    are designed and optimized specifically for touch devices.
+
 
 QGIS Testing warning
 ====================
