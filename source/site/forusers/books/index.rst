@@ -229,3 +229,19 @@ The book is prepared like the series "for Dummies".
 * http://helion.pl/ksiazki/qgis-tworzenie-i-analiza-map-bartlomiej-iwanczak,qgista.htm
 * Author(s): Bartłomiej Iwańczak
 * Date: October 2016
+
+
+Turkish
+======= 
+
+Geological Applications with Open Source Coded Geographic Information Systems
+*****************************************************************************
+
+(Açık Kaynak Kodlu Coğrafi Bilgi Sistemleri ile Jeoloji Uygulamaları
+
+The book consists of 2 main parts; In the first part, Geographical Information Systems subject is explained. In the second part, QGIS is used with geological applications.
+
+* http://www.jmo.org.tr/yayinlar/kitap_goster.php?kodu=260
+* Authors: Can Ayday, Levent Sabah, Nefise Yaman, Kübra Keser
+* Date: January 2016
+
