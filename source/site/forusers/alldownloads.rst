@@ -498,7 +498,11 @@ To install::
 
 Then to run::
 
- flatpak run --share=network org.qgis.qgis``
+ flatpak run org.qgis.qgis
+
+To update your flatpak QGIS::
+
+ flatpak update
 
 Flathub files: https://github.com/flathub/org.qgis.qgis
 
