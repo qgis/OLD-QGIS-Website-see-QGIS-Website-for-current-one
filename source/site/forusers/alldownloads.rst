@@ -435,10 +435,38 @@ Packages on http://qgis.gotslack.org
 ArchLinux
 ---------
 
-Archlinux users are encouraged to use the Arch User Repository (AUR).
+QGIS stable
+...........
 
-Information about available versions, bugs and archlinux specific
-instructions can be found at: https://aur.archlinux.org/packages/?O=0&K=qgis
+Archlinux is available in official repository : https://www.archlinux.org/packages/community/x86_64/qgis/
+
+Install with :
+
+pacman -S qgis
+
+
+QGIS LTR
+...........
+
+Qgis Long Term Release is available in AUR (Arch User Repository).
+
+Install with yaourt or other package manager which support AUR :
+
+yaourt -S qgis-ltr
+
+For bugs and other behaviour, read comments here : https://aur.archlinux.org/packages/qgis-ltr/
+
+
+QGIS testing
+............
+
+Qgis testing is available in AUR (Arch User Repository).
+
+Install with yaourt or other package manager which support AUR :
+
+yaourt -S qgis-git
+
+For bugs and other behaviour, read comments here : https://aur.archlinux.org/packages/qgis-git
 
 
 Mac OS X / macOS
