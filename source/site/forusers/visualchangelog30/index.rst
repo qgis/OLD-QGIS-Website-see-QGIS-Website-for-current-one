@@ -2410,122 +2410,63 @@ This feature was developed by Martin Dobias
 .. |Insurance Australia Group Limited (IAG)| image:: images/projects/thumbnails/0b9e2d5d8a316a854434eb4e8b95cb4cd0b4d720.png.150x50_q85.png
    :target: https://www.iag.com.au/
 .. |image63| image:: images/entries/thumbnails/23e0bd2bc2cd560dad2d2a873e7d9ab98c532fb0.png.400x300_q85_crop.jpg
-   :target: #
 .. |image64| image:: images/entries/thumbnails/7666e6f1fd7a95ec3e099c27c6bf9ef6b145c956.jpeg.400x300_q85_crop.jpg
-   :target: #
 .. |image65| image:: images/entries/thumbnails/ca710bbcb3e67a83217d5894ccccfcb5103b1bf4.png.400x300_q85_crop.jpg
-   :target: #
 .. |image66| image:: images/entries/02137f3073c3f8a32bc505bd4916a8df751db79f.gif
-   :target: images/entries/02137f3073c3f8a32bc505bd4916a8df751db79f.gif
 .. |image67| image:: images/entries/thumbnails/5f9439417546fff26fe410b5a860a7680b07c53e.png.400x300_q85_crop.jpg
-   :target: #
 .. |image68| image:: images/entries/c5eba5f5e5a6745d1a81df88eb55f01a68fcc1ad.gif
-   :target: images/entries/c5eba5f5e5a6745d1a81df88eb55f01a68fcc1ad.gif
 .. |image69| image:: images/entries/thumbnails/6a3fa6fb065a02defaa42440f301847e8fbbeb75.jpg.400x300_q85_crop.jpg
-   :target: #
 .. |image70| image:: images/entries/thumbnails/a2adf1e9930f23fa739e68a6e2c55e1b553867b9.png.400x300_q85_crop.png
-   :target: #
 .. |image71| image:: images/entries/68249b50c2813f4b204cb0305587b2850e7cd61e.gif
-   :target: images/entries/68249b50c2813f4b204cb0305587b2850e7cd61e.gif
 .. |image72| image:: images/entries/thumbnails/a64155774fee81370dfb5a786cf7386bffb7a089.png.400x300_q85_crop.png
-   :target: #
 .. |image73| image:: images/entries/thumbnails/547ffa26f79435ff28198820bb0d95dc495b4f13.png.400x300_q85_crop.png
-   :target: #
 .. |image74| image:: images/entries/thumbnails/bb43cc8a048018b0f54463674ebf2d11bb0abc21.png.400x300_q85_crop.png
-   :target: #
 .. |image75| image:: images/entries/thumbnails/dc60a3f5fdc3a6568e8f3b9bf635066fcde9926d.png.400x300_q85_crop.png
-   :target: #
 .. |image76| image:: images/entries/thumbnails/669437f416c6ef5c18dd87ecdfc52772e0b597c7.png.400x300_q85_crop.jpg
-   :target: #
 .. |image77| image:: images/entries/thumbnails/603b73fbf8ad7db9cdb43689641eb70326c11bbf.png.400x300_q85_crop.png
-   :target: #
 .. |image78| image:: images/entries/thumbnails/a9a26b2c7154f918f8b218c2e01f3b38f599436a.png.400x300_q85_crop.png
-   :target: #
 .. |image79| image:: images/entries/thumbnails/1a507363f0c35065d8c2751e167531b96600d700.png.400x300_q85_crop.png
-   :target: #
 .. |image80| image:: images/entries/thumbnails/ea1e2fe7215ea888b9de00329e230f6b665610a6.png.400x300_q85_crop.jpg
-   :target: #
 .. |image81| image:: images/entries/thumbnails/555204a38e13852e4717179a9981cb522244613a.png.400x300_q85_crop.png
-   :target: #
 .. |image82| image:: images/entries/thumbnails/536a7bce4d526e2d5fbeeb3189de6f60b2d79256.png.400x300_q85_crop.png
-   :target: #
 .. |image83| image:: images/entries/thumbnails/546a77b230bf9b0b28bf61bb231b78cbb6bd5b5f.png.400x300_q85_crop.png
-   :target: #
 .. |image84| image:: images/entries/5a9cd3df6f804b903fee30a08f7018887c1d8710.gif
 .. |image85| image:: images/entries/thumbnails/0247dfa555b6a80139f399b69071a2cc9bd278b3.png.400x300_q85_crop.jpg
-   :target: #
 .. |image86| image:: images/entries/b44524fe2864249a334cb7d21fd1a0c1d885ff15.gif
-   :target: images/entries/b44524fe2864249a334cb7d21fd1a0c1d885ff15.gif
 .. |image87| image:: images/entries/thumbnails/80e8c78a1b38dfde5120144fac7354e800b9daff.png.400x300_q85_crop.png
-   :target: #
 .. |image88| image:: images/entries/thumbnails/eea327329365ad80c7fc3363ad0fb455fc9d4335.png.400x300_q85_crop.jpg
-   :target: #
 .. |image89| image:: images/entries/974604dc8908668c2d727e12975707560cffb493.gif
-   :target: images/entries/974604dc8908668c2d727e12975707560cffb493.gif
 .. |image90| image:: images/entries/c2761555d13be6b8a1893da2bd3240dd6343c9a6.gif
-   :target: images/entries/c2761555d13be6b8a1893da2bd3240dd6343c9a6.gif
 .. |image91| image:: images/entries/b47f105d5ea3ecf5176a8296cc386c65bce21da7.gif
-   :target: images/entries/b47f105d5ea3ecf5176a8296cc386c65bce21da7.gif
 .. |image92| image:: images/entries/b355e0701d6b395d25a965cc7d31b9f8acce49d7.gif
-   :target: images/entries/b355e0701d6b395d25a965cc7d31b9f8acce49d7.gif
 .. |image93| image:: images/entries/297f18356a626066332b4c28e13ce4c94bb70166.gif
-   :target: images/entries/297f18356a626066332b4c28e13ce4c94bb70166.gif
 .. |image94| image:: images/entries/2f488f086cb64fb0394d1848b4a41f28f80a2adf.gif
-   :target: images/entries/2f488f086cb64fb0394d1848b4a41f28f80a2adf.gif
 .. |image95| image:: images/entries/thumbnails/d56d5d68aff5b7f10999751041490769b79e619d.png.400x300_q85_crop.jpg
-   :target: #
 .. |image96| image:: images/entries/thumbnails/f0fded6f5276d4b7e51b11834bad3d615e2b4f2d.png.400x300_q85_crop.png
-   :target: #
 .. |image97| image:: images/entries/thumbnails/a26adc99ea62733e65222769095537e3be3fb29a.png.400x300_q85_crop.png
-   :target: #
 .. |image98| image:: images/entries/3d6a40ee709ca4f18d8532291f3cbc97997f1932.gif
-   :target: images/entries/3d6a40ee709ca4f18d8532291f3cbc97997f1932.gif
 .. |image99| image:: images/entries/thumbnails/da468dc209eb7e7da3696ee26850af6b9017312c.png.400x300_q85_crop.jpg
-   :target: #
 .. |image100| image:: images/entries/thumbnails/4bfb34794edbff35e6336c165993278e9a515644.jpeg.400x300_q85_crop.jpg
-   :target: #
 .. |image101| image:: images/entries/thumbnails/a8419d6027de9351afa6f8a99700509b24cc7418.png.400x300_q85_crop.png
-   :target: #
 .. |image102| image:: images/entries/thumbnails/ac1b2079c9e6c19747322d246d666df7e3c4ac0d.jpg.400x300_q85_crop.jpg
-   :target: #
 .. |image103| image:: images/entries/thumbnails/fa298be4fea348f58b9bd2f4bea30f2e7f1c2ee5.png.400x300_q85_crop.png
-   :target: #
 .. |image104| image:: images/entries/thumbnails/f5980f4840b9c822e5a228ec03da59168cd9c5e9.png.400x300_q85_crop.jpg
-   :target: #
 .. |image105| image:: images/entries/thumbnails/0ad81df99f01b91d2421263ad35fdc4430c483e0.jpg.400x300_q85_crop.jpg
-   :target: #
 .. |image106| image:: images/entries/thumbnails/d7d74d9113516f51289380755f1862324c83feb5.png.400x300_q85_crop.png
-   :target: #
 .. |image107| image:: images/entries/thumbnails/096af77b050265c85d7ee203c2ab4d974b8be126.jpg.400x300_q85_crop.jpg
-   :target: #
 .. |image108| image:: images/entries/thumbnails/c48a25965a147b866502d10771bea3e831a4d28e.jpeg.400x300_q85_crop.jpg
-   :target: #
 .. |image109| image:: images/entries/thumbnails/9b24dc337e4896a8be9b0e651e32b3dc9cb11593.png.400x300_q85_crop.jpg
-   :target: #
 .. |image110| image:: images/entries/thumbnails/b954811defffce51a7375ae24c640e0d1dcf88da.png.400x300_q85_crop.png
-   :target: #
 .. |image111| image:: images/entries/thumbnails/82d90b2a02b84584279b5e2b75774631a0cd4a44.jpeg.400x300_q85_crop.jpg
-   :target: #
 .. |image112| image:: images/entries/thumbnails/7c17e43c0c6738c9588f3bef149ca7f3d8a13948.png.400x300_q85_crop.jpg
-   :target: #
 .. |image113| image:: images/entries/thumbnails/d2e949a9804de76d196af6e58996165d01350fec.jpeg.400x300_q85_crop.jpg
-   :target: #
 .. |image114| image:: images/entries/thumbnails/d81a5fba0df198b53ef60293ade556125499e5e8.png.400x300_q85_crop.png
-   :target: #
 .. |image115| image:: images/entries/thumbnails/63c518b689c749b106944c9d48826abba90887f0.jpg.400x300_q85_crop.jpg
-   :target: #
 .. |image116| image:: images/entries/8f23a63a25a4ad14c8a35ccf52029aa8f8c96379.gif
-   :target: images/entries/8f23a63a25a4ad14c8a35ccf52029aa8f8c96379.gif
 .. |image117| image:: images/entries/thumbnails/c6e36e36b5dc6fb0f5534ef11cb773781db4bf8c.png.400x300_q85_crop.png
-   :target: #
 .. |image118| image:: images/entries/thumbnails/ee1c51737225b6dac80a044f272319534fee2832.png.400x300_q85_crop.png
-   :target: #
 .. |image119| image:: images/entries/thumbnails/b0311613cf73564f4dc104772abfab551c391dad.jpg.400x300_q85_crop.jpg
-   :target: #
 .. |image120| image:: images/entries/thumbnails/ef610ef1efd507e9bf0ee905d8f8d24a40c753e5.png.400x300_q85_crop.png
-   :target: #
 .. |image121| image:: images/entries/thumbnails/86e6303419d84812266eada5327e74dbc6d507a4.jpg.400x300_q85_crop.jpg
-   :target: #
 .. |image122| image:: images/entries/thumbnails/311f1b52d068ccca9ef74f9ea1dcba259c7ed674.png.400x300_q85_crop.jpg
-   :target: #
 
