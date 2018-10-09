@@ -111,9 +111,9 @@ goes into the project. These sponsors are listed below with our thanks!
 
         `National Parks UK <http://www.nationalparks.gov.uk/>`_
 
-    * - |bronze| |ChameleonJohn|
+    * - |bronze| |Urbsol|
 
-        `ChameleonJohn <http://www.chameleonjohn.com/>`_
+        `Urbsol <http://www.urbsol.com.au/>`_
       - |bronze| |QGIS user group Denmark|
 
         `QGIS user group Denmark <http://www.qgis.dk/>`_
@@ -173,13 +173,6 @@ goes into the project. These sponsors are listed below with our thanks!
       - |bronze| |Trage Wegen vzw|
 
         `Trage Wegen vzw <http://www.tragewegen.be/>`_
-
-    * - |bronze| |HostingFacts.com (Online only ou)|
-
-        `HostingFacts.com (Online only ou) <https://hostingfacts.com/>`_
-      - |bronze| |Urbsol|
-
-        `Urbsol <http://www.urbsol.com.au/>`_
 
     * - |bronze| |KBB Underground Technologies GmbH|
 
