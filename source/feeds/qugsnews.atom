@@ -7,14 +7,24 @@
     <name>QGIS</name>
   </author>
     
-  <entry>
-    <id>http://qgis.org</id>
-    <title type="text">October 12-13 — FOSS4G Korea</title>
-    <link href="http://osgeo.kr/253" rel="alternate"> </link>
-    <author> <name>No Author</name> </author>  
+  <!-- 
+  
+  Please feel free to add your event here (via github Pull Request)!!
+  
+  NOTE: we do not ORDER/SORT the events, so please place it on the righ position in the list.
+  
+  Also please remove old events (as currently we only show 5 events 
+  
+  --> 
+
+ <entry>
+    <id>http://qgis.mx</id>
+    <title type="text">16 to 18 November - I Reunión Nacional de Usuarios QGIS México</title>
+    <link href="http://qgis.mx/RNU2018" rel="alternate"> </link>
+    <author> <name>QGIS México</name> </author>  
     <updated>1970-01-01T00:00:00.000Z</updated>
-    <content type="text">in Seoul, South Korea</content>
-  </entry>  
+    <content type="text">in Guanajuato, México</content>
+  </entry>
   
   <entry>
     <id>http://qgis.org</id>
@@ -41,15 +51,6 @@
     <author> <name>No Author</name> </author>  
     <updated>1970-01-01T00:00:00.000Z</updated>
     <content type="text">in Oslo, Norway</content>
-  </entry>
-
- <entry>
-    <id>http://qgis.mx</id>
-    <title type="text">16 to 18 November - I Reunión Nacional de Usuarios QGIS México</title>
-    <link href="http://qgis.mx/RNU2018" rel="alternate"> </link>
-    <author> <name>QGIS México</name> </author>  
-    <updated>1970-01-01T00:00:00.000Z</updated>
-    <content type="text">in Guanajuato, México</content>
   </entry>
 
 </feed>
