@@ -594,7 +594,6 @@ This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>
 .. |TerreLogiche| image:: images/projects/thumbnails/9e23fb4e1f0416131843750f07e75a9f9d1e724d.jpg.150x50_q85.jpg
 .. |Gis3W| image:: images/projects/thumbnails/69f8dd7f727158ebeb6bcbdce6fef4cb313ad9f9.png.150x50_q85.png
 .. |Trage Wegen vzw| image:: images/projects/thumbnails/1607f4bc4a24d0e6aabe5e8e424b93b40b83be3a.png.150x50_q85.png
-.. |HostingFacts.com (Online only ou)| image:: images/projects/thumbnails/44e7274c2c76c57d1e2338ddb55a7fb7e764b765.png.150x50_q85.png
 .. |Urbsol| image:: images/projects/thumbnails/af9b8c3a4363482f12c7b2dff14659fd9ff6240c.png.150x50_q85.jpg
 .. |KBB Underground Technologies GmbH| image:: images/projects/thumbnails/69255208cf440914eb947bf6dce5cee1c78455ba.jpg.150x50_q85.jpg
 .. |WhereGroup GmbH & Co. KG| image:: images/projects/thumbnails/0eb2c265017956fb6b15cb9a098f8d27928152e8.jpg.150x50_q85.jpg
