@@ -50,13 +50,28 @@ release.  Only in case of serious problems backports to a latest release will
 occur.  Therefore testing of the prereleases and reporting issues is very
 important.
 
-In the feature freeze **developers** monitor the hub and start working on
-fixing the reported issues.
+In the feature freeze **developers** monitor the bugtracker and start working on
+fixing the reported issues and update the **visual changelog** with the features
+they added.
 
 With the begin of the feature freeze the translation files will be updated so
 that **translators** can start their work. Note that this might be an
 incremental process as although the features are frozen, bug fixes might still
 introduce translation string changes.
+
+The release manager announces this on feature freeze.
+
+Major/minor release
+-------------------
+
+On release date the release branch is created and the release is tagged and tar
+balls are prepared.
+
+The packagers are notified that packaging can begin.
+
+Once some packages are available the release can be announced and the website
+is updated accordingly.
+
 
 .. _QGIS-release-schedule:
 
