@@ -61,11 +61,12 @@ introduce translation string changes.
 
 The release manager announces this on feature freeze.
 
-Major/minor release
--------------------
+Release
+-------
 
-On release date the release branch is created and the release is tagged and tar
-balls are prepared.
+On major and minor release dates the release branch is created and the release
+is tagged and tar balls are prepared.  Point releases are just tagged and tar
+balls are created.
 
 The packagers are notified that packaging can begin.
 
