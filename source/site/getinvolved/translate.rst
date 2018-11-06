@@ -42,7 +42,7 @@ GUI Translation
 ---------------
 
 The QGIS interface is natively programmed in English. However, at this moment
-over fourthy other languages are already available.
+over forty other languages are already available.
 
 To start QGIS with the appropriate localization, run
 ``qgis --lang <language code>`` in command line or change localization in QGIS under
