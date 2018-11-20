@@ -54,22 +54,22 @@ Some uses of our trademark require the user to obtain a permission.  If you need
 
 * **Product names**: If you plan to market a QGIS-based product or service to the public using a trademark or name that includes the word “QGIS”, such as “YourCompany QGIS” you are required to apply for and obtain a permission from the QGIS Project Steering Committee (QGIS-PSC). This is true whether or not you apply to register your trademark with a government. When developing and advertising QGIS-based products, we ask you to follow the following guidelines:
 
-  1. **Don't present your work as our work**: If you provide a customized QGIS version, make it clear that your offer is a derivative product, and not the official QGIS version by adding your company or brand name to the product name and accompanying text explaining that your product is a derivative as needed.
+ 1. **Don't present your work as our work**: If you provide a customized QGIS version, make it clear that your offer is a derivative product, and not the official QGIS version by adding your company or brand name to the product name and accompanying text explaining that your product is a derivative as needed.
 
  
-  2. **Don't present our work as your work**: Give credit to the QGIS project where due. Don’t hide the fact that your product is based on QGIS.
+ 2. **Don't present our work as your work**: Give credit to the QGIS project where due. Don’t hide the fact that your product is based on QGIS.
 
  3.  **Good product name examples include**:
  
-   * YourCompany QGIS
-   * YourCompany Desktop/Suite powered by QGIS
-   * YourBrand powered by QGIS
-   * YourBrand based on QGIS
+  * YourCompany QGIS
+  * YourCompany Desktop/Suite powered by QGIS
+  * YourBrand powered by QGIS
+  * YourBrand based on QGIS
 
-  4. **Bad product name examples include**:
+ 4. **Bad product name examples include**:
    
-   * YourCompany GIS
-   * QGIS special edition
+  * YourCompany GIS
+  * QGIS special edition
 
 .. note:: When referring to QGIS please do not undermine the validity of the main QGIS project. We prefer that you refer to our software packages as “Official Packages” and not “Community Releases” or similar. If you create your own packages, please make it clear that these are derivative packages and not created or endorsed by the QGIS project.
 
