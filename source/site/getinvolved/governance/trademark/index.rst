@@ -76,9 +76,6 @@ Some uses of our trademark require the user to obtain a permission.  If you need
 
 * **Domain names and websites**: Proper use of our Marks on websites to name or accurately describe QGIS’s products, services or technology is permitted. The use of our Marks should not be misleading or likely to cause confusion as to whether the website is sponsored by or affiliated with QGIS or whether the products, services or technology are offered by QGIS.  QGIS Reserves the right to request you to remove our mark from your domain name, web site or publication if we deem it’s use to be inappropriate.
 
-.. note:: A permission is not a formal endorsement of QGIS project and doesn't mean anything about quality of the service.
-
-
  1. **Companies, products, and commercial projects cannot use a qgis.tld (top level domain)**: Any principal or secondary level domain name,  with or without commercial intent,  should not be identical to or virtually identical to any of our Marks.
 
  2. **Companies, products, and commercial projects should preferably not to use \*\*\*\*qgis\*\*\*\*.xxxx**: The website owner should not register any domain name containing our Marks and should not claim any trademark or similar proprietary rights in the domain name. For example, “QGIStech.com”, “QGIS-group.com”, “QGISexperts.com” are not allowed without asking for permission. Any violation of this policy may result in legal action. The website should otherwise comply with domain name registry policies and applicable laws regarding trademark infringement and dilution.
@@ -88,6 +85,8 @@ Some uses of our trademark require the user to obtain a permission.  If you need
 
   * QGIS.ORG Country voting members should use ccTLD (QGIS.ch, QGIS.dk, …)
   * Non-commercial projects can use qgis.xxxxx (qgis.tutorials would fall into this category if the tutorials are free) but should ask for permission before registering the domain. QGIS.ORG may register the domain and point it to the name servers provided by the requestor or instruct the requestor to do so.
+
+.. note:: A permission is not a formal endorsement of QGIS project and doesn't mean anything about quality of the service.
 
 
 * **Social Media**
