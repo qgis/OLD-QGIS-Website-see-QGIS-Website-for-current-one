@@ -19,7 +19,7 @@ Country Voting Members
 
 QGIS.ORG permits official QGIS country user groups, to modify the QGIS logo and use the modified QGIS logo for non-commercial communications and projects. This permission is subject to continued compliance with these Guidelines, QGIS Trademark Guidelines and all other rules and policies. QGIS reserves the right to cancel or change this permission at any time at its sole discretion. If you would liketo use a modified version of the QGIS logo, please submit your artwork for approval at trademark@qgis.org. Upon approval, you will receive a license agreement to sign before you may begin using the artwork.
 
-QGIS.ORG also permits its official country user groups, to register a QGIS Top Level Domain ( (qgis.ch, qgis.dk etc. according to the rules further down in this document.
+QGIS.ORG also permits its official country user groups, to register a QGIS Top Level Domain (qgis.ch, qgis.dk etc.) according to the rules further down in this document.
 
 
 Examples of use that do not require permission
@@ -39,7 +39,7 @@ In cases of fair use, you may use or refer to QGIS trademark without explicit pe
 * **Services**: If you provide services (support, development) on QGIS, you can use QGIS trademark to describe or advertise your services or products relating to QGIS, provided this is done in a way that is not misleading (see requirements for product names below.)
 
 
-* **Linking**: If you use the QGIS logo on a website linking to our websites (https://QGIS.org) or any of our domains, or github), you do not need special permission.
+* **Linking**: If you use the QGIS logo on a website linking to our websites (https://QGIS.org) or any of our domains, or github, you do not need special permission.
 
 * **Merchandise**: You can make t-shirts, desktop wallpapers, caps, or other merchandise with QGIS trademark for non-commercial usage. You can also make merchandise with QGIS trademark for commercial usage provided that you truthfully advertise to customers which part of the selling price, if any, will be donated to the QGIS project. See our donations page for more information on how to donate to the QGIS project.
 
@@ -54,10 +54,10 @@ Some uses of our trademark require the user to obtain a permission.  If you need
 
 * **Product names**: If you plan to market a QGIS-based product or service to the public using a trademark or name that includes the word “QGIS”, such as “YourCompany QGIS” you are required to apply for and obtain a permission from the QGIS Project Steering Committee (QGIS-PSC). This is true whether or not you apply to register your trademark with a government. When developing and advertising QGIS-based products, we ask you to follow the following guidelines:
 
- 1. **Don't present your work as our work**: If you provide a customized QGIS version, make it clear that your offer is a derivative product, and not the official QGIS version by adding your company or brand name to the product name and accompanying text explaining that your product is a derivative as needed.
+  1. **Don't present your work as our work**: If you provide a customized QGIS version, make it clear that your offer is a derivative product, and not the official QGIS version by adding your company or brand name to the product name and accompanying text explaining that your product is a derivative as needed.
 
  
- 2. **Don't present our work as your work**: Give credit to the QGIS project where due. Don’t hide the fact that your product is based on QGIS.
+  2. **Don't present our work as your work**: Give credit to the QGIS project where due. Don’t hide the fact that your product is based on QGIS.
 
  3.  **Good product name examples include**:
  
@@ -66,7 +66,7 @@ Some uses of our trademark require the user to obtain a permission.  If you need
    * YourBrand powered by QGIS
    * YourBrand based on QGIS
 
- 4. **Bad product name examples include**:
+  4. **Bad product name examples include**:
    
    * YourCompany GIS
    * QGIS special edition
@@ -87,7 +87,7 @@ Some uses of our trademark require the user to obtain a permission.  If you need
  3. **Exceptions**: 
 
   * QGIS.ORG Country voting members should use ccTLD (QGIS.ch, QGIS.dk, …)
-  * Non-commercial projects can use qgis.xxxxx (qgis.tutorials would fall into this category if the tutorials are free) but should ask for permission before registering the the domain. QGIS.ORG may register the domain and point it to the name servers provided by the requestor or instruct the requestor to do so.
+  * Non-commercial projects can use qgis.xxxxx (qgis.tutorials would fall into this category if the tutorials are free) but should ask for permission before registering the domain. QGIS.ORG may register the domain and point it to the name servers provided by the requestor or instruct the requestor to do so.
 
 
 * **Social Media**
@@ -104,7 +104,7 @@ QGIS does not permit using any of our Marks in the following manner: as part of 
 * **Examples of unacceptable uses**:
 
 
- 1. **Fake affiliation/endorsement**: You cannot use QGIS trademark in anyway that suggests an affiliation with or endorsement by the QGIS project or community, if the same is not true
+ 1. **Fake affiliation/endorsement**: You cannot use QGIS trademark in anyway that suggests an affiliation with or endorsement by the QGIS project or community, if the same is not true.
 
  2. **Company names**: You cannot use QGIS trademark in a company or commercial organization name.
 
