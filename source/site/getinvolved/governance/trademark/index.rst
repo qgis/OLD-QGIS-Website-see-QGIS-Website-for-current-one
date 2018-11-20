@@ -17,7 +17,7 @@ These Guidelines should be followed along with all QGIS's rules and policies, po
 Country Voting Members
 ----------------------
 
-QGIS.ORG permits official QGIS country user groups, to modify the QGIS logo and use the modified QGIS logo for non-commercial communications and projects. This permission is subject to continued compliance with these Guidelines, QGIS Trademark Guidelines and all other rules and policies. QGIS reserves the right to cancel or change this permission at any time at its sole discretion. If you would liketo use a modified version of the QGIS logo, please submit your artwork for approval at trademark@qgis.org. Upon approval, you will receive a license agreement to sign before you may begin using the artwork.
+QGIS.ORG permits official QGIS country user groups, to modify the QGIS logo and use the modified QGIS logo for non-commercial communications and projects. This permission is subject to continued compliance with these Guidelines, QGIS Trademark Guidelines and all other rules and policies. QGIS reserves the right to cancel or change this permission at any time at its sole discretion. If you would like to use a modified version of the QGIS logo, please submit your artwork for approval at trademark@qgis.org. Upon approval, you will receive a license agreement to sign before you may begin using the artwork.
 
 QGIS.ORG also permits its official country user groups, to register a QGIS Top Level Domain (qgis.ch, qgis.dk etc.) according to the rules further down in this document.
 
