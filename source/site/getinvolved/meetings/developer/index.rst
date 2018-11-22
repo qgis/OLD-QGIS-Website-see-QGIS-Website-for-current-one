@@ -196,4 +196,4 @@ Many thanks to our sponsors!
 
 - `German FOSSGIS e.V. <http://www.fossgis.de/>`_ sponsors the meeting with 500 Euro.
 - `Institute of Environmental Planning, Hannover <http://www.umwelt.uni-hannover.de/umweltplanung.html?&L=1>`_ provided the venue
-- `nature-consult <http://www.nature-consult.de/>_` provides technical equipment
+- `nature-consult <http://www.nature-consult.de/>`_ provides technical equipment
