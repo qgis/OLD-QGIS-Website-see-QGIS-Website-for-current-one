@@ -490,6 +490,7 @@ The stable package uses the system Python 2.7 - other distributions are not supp
 
 Other Python modules for plugins to use are available from `kyngchaos.com <http://www.kyngchaos.com/software/python>`_.
 
+.. _QGIS-macos-testing:
 
 QGIS testing
 ------------
