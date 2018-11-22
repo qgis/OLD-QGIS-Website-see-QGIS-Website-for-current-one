@@ -254,7 +254,7 @@ After you have verified the fingerprint you can add the key to apt with::
 
 Alternatively you can download the key from a keyserver and add the key to apt
 in one go (without manual fingerprint verification)::
-        
+
  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key CAEB3DC3BDF7FB45
 
 
@@ -384,8 +384,8 @@ openSUSE
 QGIS stable
 ...........
 
-Latest stable openSUSE package called qgis is available for 13.1, 13.2, 
-Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit).  Add the following 
+Latest stable openSUSE package called qgis is available for 13.1, 13.2,
+Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit).  Add the following
 repository to your installation manager, where <VERSION> is for example 'openSUSE_Tumbleweed'.
 ::
 
@@ -396,8 +396,8 @@ All packages include GRASS and Python support.
 QGIS LTR (Long Term Release)
 ............................
 
-Long Term Release package for openSUSE called qgis-ltr is available for 13.1, 
-13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). Add the following 
+Long Term Release package for openSUSE called qgis-ltr is available for 13.1,
+13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). Add the following
 repository to your installation manager, where <VERSION> is for example 'openSUSE_Tumbleweed'.
 ::
 
@@ -409,8 +409,8 @@ QGIS testing
 ............
 
 A regularly updated development package from qgis master called qgis-master
-is available for 13.1, 13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). 
-Add the following repository to your installation manager, 
+is available for 13.1, 13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit).
+Add the following repository to your installation manager,
 where <VERSION> is for example 'openSUSE_Tumbleweed'.
 ::
 
@@ -490,7 +490,11 @@ The stable package uses the system Python 2.7 - other distributions are not supp
 
 Other Python modules for plugins to use are available from `kyngchaos.com <http://www.kyngchaos.com/software/python>`_.
 
-.. _QGIS-macos-testing:
+
+QGIS testing
+------------
+QGIS nightly builds are available from here:
+`Lutra Github page <https://lutraconsulting.github.io/qgis-mac-packager/>`_
 
 FreeBSD
 =======
