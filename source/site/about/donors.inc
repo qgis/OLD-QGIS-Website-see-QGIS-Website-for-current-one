@@ -3653,7 +3653,7 @@
      - Pierre Huguet
    * - Pierre Ivanoé Koog
      - Pierre Kaltenback
-     - Pierre-yves Hagneré
+     - Pierre-Yves Hagneré
    * - Pierre-yves Jolivet
      - Pierrick Baraton
      - Pietrangelo Giordano
