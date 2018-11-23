@@ -1088,7 +1088,7 @@ This feature was funded by `Lutra Consulting <https://www.lutraconsulting.co.uk/
 
 This feature was developed by `Martin Dobias (Lutra Consulting) <https://www.lutraconsulting.co.uk/>`__
 
-.. |image0| image:: images/entries/splash.png
+.. |image0| image:: images/entries/splash34vs.png
    :class: img-responsive img-rounded center-block
 .. |image1| image:: images/projects/750d7d9b7e9dbd498202c4b1288a0cbceb1cd65b.png
    :class: img-responsive img-rounded center-block
