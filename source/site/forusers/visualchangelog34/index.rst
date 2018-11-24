@@ -51,14 +51,14 @@ Additionally, embeded files can be extracted from projects and symbols and saved
 
 This feature was funded by `SMEC/SJ <http://smec.com>`__
 
-This feature was developed by `Nyall Dawson <http://north-road.com>`__
+This feature was developed by `Nyall Dawson <https://north-road.com>`__
 
 Feature: OpenCL based acceleration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This feature was funded by `QGIS.org <http://qgis.org>`__
+This feature was funded by `QGIS.org <https://qgis.org>`__
 
-This feature was developed by `Alessandro Pasotti <http://qgis.org>`__
+This feature was developed by `Alessandro Pasotti <https://qgis.org>`__
 
 Expressions
 -----------
@@ -88,7 +88,7 @@ Additionally, some new variables have also been made available for use within QG
 
 |image2|
 
-This feature was developed by `Etienne Trimaille, Matteo Ghetta, Matthias Kuhn, Mathieu Pellerin, Nyall Dawson <http://qgis.org>`__
+This feature was developed by `Etienne Trimaille, Matteo Ghetta, Matthias Kuhn, Mathieu Pellerin, Nyall Dawson <https://qgis.org>`__
 
 Feature: Code completion for expression builder
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -100,9 +100,9 @@ Autocompletion for code in the expression editor.
 
 |image3|
 
-This feature was funded by `OPENGIS.ch <http://www.opengis.ch/>`__
+This feature was funded by `OPENGIS.ch <https://www.opengis.ch/>`__
 
-This feature was developed by `Matthias Kuhn (OPENGIS.ch) <http://www.opengis.ch/>`__
+This feature was developed by `Matthias Kuhn (OPENGIS.ch) <https://www.opengis.ch/>`__
 
 Map Tools
 ---------
@@ -128,18 +128,18 @@ Whenever a message bar item links to a created file (e.g. after exporting a layo
 
 |image5|
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: New "Open Directory" option for disabled welcome page projects
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This new option in the right-click context menu for disabled entries on the welcome page allows users to open the closest existing path to the original project location in their file manager, to hopefully help them re-locate missing/moved/renamed projects.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: UX Improvements for Temporary Scratch Layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -150,9 +150,9 @@ It's also much easier to transition these temporary layers to permanent disk-bas
 
 |image6|
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Task manager improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -161,9 +161,9 @@ The QGIS task manager widget (shown in the status bar whenever a background task
 
 Additionally, QGIS uses the standard operating system progress reporting mechanisms on more platforms and occasions in QGIS 3.4. Some long running tasks (which don't run in the background) such as atlas exports now show their progress via the operating system mechanism, and throw up handy completion notifications.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Hyperlinks to local vector & raster datasets in the information panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -172,9 +172,9 @@ For local vector and raster datasets, the Information tab within the layer prope
 
 |image7|
 
-This feature was funded by `iMhere Asia <http://www.imhere-asia.com/>`__
+This feature was funded by `iMhere Asia <https://www.imhere-asia.com/>`__
 
-This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
+This feature was developed by `Mathieu Pellerin <https://www.imhere-asia.com/>`__
 
 Feature: Style manager improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -183,9 +183,9 @@ The QGIS Style Manager dialog (which allows users to setup and manage their own 
 
 We've also improved the preview of symbols within the Layer Styling dock, adding a toggle to switch between a large icon view and a detailed list view of symbols. Hovering over symbols (and colors!) now shows a large preview of the symbol. Finally, we've made symbol lists more hi-dpi friendly.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Polished browser panel interface and experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -208,7 +208,7 @@ The widget sports a flexible configuration, including example templates and expr
 
 This feature was funded by `QGIS Project <https://qgis.org/>`__
 
-This feature was developed by `David Signer and Matthias Kuhn (OPENGIS.ch) <http://www.opengis.ch>`__
+This feature was developed by `David Signer and Matthias Kuhn (OPENGIS.ch) <https://www.opengis.ch>`__
 
 Symbology
 ---------
@@ -238,14 +238,14 @@ Feature: Partial QML export and import
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When exporting and importing styles to and from ``.qml`` files it is now possible to select a subset of sections.
-This allows to save and restore parts of a layer configuration while omitting others. For example, it's possible to export only the symbology of a layer and when importing this QML style file to layer, any configuration on the forms and widgets or other properties are unaffected.
+This allows to save and restore parts of a layer configuration while omitting others. For example, it's possible to export only the symbology of a layer and when importing this QML style file into a layer, any configuration on the forms and widgets or other properties are unaffected.
 It is also possible to only handle single sections of a style when using copy/paste.
 
 |image10|
 
 This feature was funded by `qwat group <http://qwat.org/>`__
 
-This feature was developed by `Denis Rouzaud (OPENGIS.ch GmbH) <http://www.opengis.ch>`__
+This feature was developed by `Denis Rouzaud (OPENGIS.ch GmbH) <https://www.opengis.ch>`__
 
 Digitising
 ----------
@@ -303,7 +303,7 @@ While digitizing, the grid is shown to guide the user.
 
 This feature was funded by `Kanton Solothurn <https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/>`__
 
-This feature was developed by `Matthias Kuhn (OPENGIS.ch) <http://www.opengis.ch>`__
+This feature was developed by `Matthias Kuhn (OPENGIS.ch) <https://www.opengis.ch>`__
 
 Feature: Automatically remove duplicate nodes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -313,7 +313,7 @@ This option is configurable in the digitizing tab of vector layers.
 
 This feature was funded by `Kanton Solothurn <https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/>`__
 
-This feature was developed by `Matthias Kuhn (OPENGIS.ch) <http://www.opengis.ch>`__
+This feature was developed by `Matthias Kuhn (OPENGIS.ch) <https://www.opengis.ch>`__
 
 Feature: Check for geometry validity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -324,7 +324,7 @@ Each new or edited geometry can be checked for validity if this option is activa
 
 This feature was funded by `Kanton Solothurn <https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/>`__
 
-This feature was developed by `Matthias Kuhn (OPENGIS.ch) <http://www.opengis.ch>`__
+This feature was developed by `Matthias Kuhn (OPENGIS.ch) <https://www.opengis.ch>`__
 
 Feature: Topology checks while editing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -338,13 +338,13 @@ The following checks are available:
 -  Overlaps
 -  Missing vertices on neighbouring polygons
 
-This builds on top of the functionality of the geometry checker plugin which was implemented by `Sourcepole <http://sourcepole.ch>`__.
+This builds on top of the functionality of the geometry checker plugin which was implemented by `Sourcepole <https://sourcepole.ch>`__.
 
 |image16|
 
 This feature was funded by `Kanton Solothurn <https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/>`__
 
-This feature was developed by `Matthias Kuhn (OPENGIS.ch) <http://www.opengis.ch>`__
+This feature was developed by `Matthias Kuhn (OPENGIS.ch) <https://www.opengis.ch>`__
 
 Data Management
 ---------------
@@ -355,11 +355,11 @@ Feature: Translation of QGIS projects
 Like QGIS and the plugins, the projects are translated with the Qt translation process. Means, it makes the translation according to a Qt Compiled Translation Source File (``.qm`` file). When the user opens a project, QGIS checks for a ``.qm`` file laying in the same folder like the ``.qgs`` file, having the same name like the ``.qgs`` file and having the language-code as postfix of the users language (the language configured in the QGIS settings).
 To create the translation, in the project settings, there is an option to generate the ``.ts`` file, that can edited by programs like Qt Linguist or Transifex.
 
-More information in `this blog post <http://www.opengis.ch/2018/09/11/qgis-speaks-a-lot-of-languages/>`__
+More information in `this blog post <https://new.opengis.ch/2018/09/11/qgis-speaks-a-lot-of-languages/>`__
 
 This feature was funded by `QGIS Usergroup Switzerland and QGEP Project <https://www.qgis.ch/en>`__
 
-This feature was developed by `David Signer (OPENGIS.ch) <http://www.opengis.ch/>`__
+This feature was developed by `David Signer (OPENGIS.ch) <https://www.opengis.ch/>`__
 
 Feature: Switch Attribute Table dock mode on demand
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -368,9 +368,9 @@ A button has been added to the Attribute Table toolbar for switching between doc
 
 |image17|
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: New locator filter to search across all layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -381,9 +381,9 @@ The filter can be activated by using the prefix 'af', or by making it a default 
 
 |image18|
 
-This feature was funded by `Opengis.ch <http://www.opengis.ch/>`__
+This feature was funded by `Opengis.ch <https://www.opengis.ch/>`__
 
-This feature was developed by `Denis Rouzaud <http://www.opengis.ch/>`__
+This feature was developed by `Denis Rouzaud <https://www.opengis.ch/>`__
 
 Feature: Non-removable (required) layers highlighted in layer tree
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -465,9 +465,9 @@ Some Processing models are so intrinsically linked to the logic inside a particu
 
 Models are stored inside projects by clicking the new "Embed in Project" button in the Modeler dialog toolbar. Models can be removed from a project from the model's right click menu in the toolbox.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Sample Raster Values
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -487,25 +487,25 @@ This algorithm converts a raster layer into a vector layer, with a polygon featu
 
 This feature was funded by `SMEC/SJ <http://smec.com>`__
 
-This feature was developed by `Nyall Dawson <http://north-road.com>`__
+This feature was developed by `Nyall Dawson <https://north-road.com>`__
 
 Feature: K Means clustering algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 QGIS 3.4 adds a native "k-means clustering" algorithm. Based on a port of PostGIS' ST\_ClusterKMeans function, this algorithm adds a new cluster ID field to a set of input features which identifies the feature's cluster based on a k-means clustering approach. If non-point geometries are used as input, the clustering is based off the centroid of the input geometries.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: dbscan spatial clustering algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This new native algorithm implements an optimised DBSCAN density based scanning cluster approach for clustering 2d point features.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Improved algorithms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -518,36 +518,36 @@ Some miscellaneous improvements to existing Processing algorithms include:
 -  The *Join by Field Value* and *Join by Location* algorithms can now optionally export unmatched records
 -  *Join by Field Value* also reports counts of matched/unmatched features
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Filter Vertices by M and Filter Vertices by Z algorithms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Two new algorithms were added for filtering line/polygon vertices by their M or Z values. A minimum and maximum M/Z value can be entered, and if the vertices fall outside these ranges they will be discarded from the output geometry. Both the minimum and maximum filter values can also be data defined, so can vary per feature.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: "Array of Translated Features" algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This new algorithm creates copies of features in a layer, by creating multiple translated (offset) versions of the feature. Each copy is displaced by a preset amount in the x/y/z/m axis.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: "Array of offset (parallel) lines" algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This new algorithm creates copies of line features in a layer, by creating multiple parallel versions of each feature. Each copy is offset by a preset distance.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Choice of units for non degree/unknown distances
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -556,52 +556,52 @@ When an algorithm has a distance parameter in meters/feet/etc (i.e. non-geograph
 
 (QGIS doesn't (and should **never**) expose this for distances in degrees -- it's up to users in this situation to choose a suitable local projection and reproject their data to match.)
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson <http://north-road.com>`__
+This feature was developed by `Nyall Dawson <https://north-road.com>`__
 
 Feature: "Drape features to z/m" algorithms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 These two new algorithms can set geometry vertex z or m values to values sampled from a raster band. Values can optionally be scaled using a (data definable) scale value.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: "Raster pixels to points" algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A new "pixels to points" algorithm was added in QGIS 3.4, which creates a point feature at the center of every pixel. nodata pixels are skipped.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Line substring algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This new, much-requested, algorithm returns the portion of a line (or curve) which falls between the specified start and end distances (measured from the beginning of the line). Z and M values are linearly interpolated from existing values.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: "Interpolate point on line" algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This new algorithm creates a point geometry interpolated at a set distance along line (or polygon boundary) geometries. Curved input geometries are fully supported. Z or M values are linearly interpolated based on existing values.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: k-neighbour concave hull
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This feature was funded by http://qgis.org
+This feature was funded by https://qgis.org
 
-This feature was developed by `Detlev Neumann, Rudi von Staden <http://qgis.org>`__
+This feature was developed by `Detlev Neumann, Rudi von Staden <https://qgis.org>`__
 
 Feature: Python scripts which implement algorithms now execute the algorithm on drag and drop and browser double click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -613,9 +613,9 @@ When appropriate, scripts will now launch a processing algorithm dialog upon:
 
 |image25|
 
-This feature was funded by `iMhere Asia <http://www.imhere-asia.com/>`__
+This feature was funded by `iMhere Asia <https://www.imhere-asia.com/>`__
 
-This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
+This feature was developed by `Mathieu Pellerin <https://www.imhere-asia.com/>`__
 
 Feature: New GDAL's rearrange band algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -624,18 +624,18 @@ A new GDAL provider 'Rearrange band' algorithm was added to the processing toolb
 
 |image26|
 
-This feature was funded by `iMHere Asia <http://www.imhere-asia.com/>`__
+This feature was funded by `iMHere Asia <https://www.imhere-asia.com/>`__
 
-This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
+This feature was developed by `Mathieu Pellerin <https://www.imhere-asia.com/>`__
 
 Feature: "Precalculated" values for model algorithm parameters
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A new option is present for all parameters of using a "precalculated expression". This expression is evaluated once before the child algorithm is executed and used during the execution of that algorithm.
 
-This feature was funded by `QGIS <http://qgis.org>`__
+This feature was funded by `QGIS <https://qgis.org>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: "Categorize a layer using a style XML file" algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -650,9 +650,9 @@ If desired, tables can also be output containing lists of the categories which c
 
 |image27|
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: New mode for Snap geometries algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -678,7 +678,7 @@ Feature: OAuth2 authentication method plugin
 
 This feature was funded by `Monsanto Company <https://monsanto.com/>`__
 
-This feature was developed by `Larry Shaffer, Alessandro Pasotti <http://qgis.org>`__
+This feature was developed by `Larry Shaffer, Alessandro Pasotti <https://qgis.org>`__
 
 Feature: Mesh layer: New mesh layer format support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -737,14 +737,14 @@ The reading of PostgreSQL JSON types is supported. JSON Data can be displayed in
 
 This feature was funded by `Kanton Solothurn <https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/>`__
 
-This feature was developed by `David Signer (OPENGIS.ch) <http://www.opengis.ch>`__
+This feature was developed by `David Signer (OPENGIS.ch) <https://www.opengis.ch>`__
 
 Feature: ESRI Token Authentication support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Support has been added to QGIS' Authentication system for ESRI's temporary token based authentication. This allows for connection to ArcGIS Feature and Map Servers via an allocated temporary token.
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: SQL Server - Invalid geometry handling
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -753,7 +753,7 @@ Recent versions of QGIS have switched to a safer approach to reading SQL Server 
 
 In QGIS 3.4 a new setting was added to allow users to manually turn off QGIS' SQL Server invalid geometry handling. Turning on the "Skip invalid geometry handling" setting under a SQL Server connection's properties causes QGIS to skip all the expensive geometry validation processing, but firmly places the responsibility for ensuring that all features on the database have valid geometries back upon the user/database administrator. **This is a "use at your own risk" setting. Improperly enabling this option can lead to missing features and data loss.**
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 QGIS Server
 -----------
@@ -949,7 +949,7 @@ With the offline editing functionality it is possible to select whether the expo
 
 This feature was funded by `Oester Messtechnik <https://messtechnik.ch/>`__
 
-This feature was developed by `David Signer (OPENGIS.ch) <http://www.opengis.ch>`__
+This feature was developed by `David Signer (OPENGIS.ch) <https://www.opengis.ch>`__
 
 Programmability
 ---------------
@@ -967,9 +967,9 @@ Compared to QgsSpatialIndex, this index:
 - supports true "distance based" searches, i.e. return all points within a radius
 from a search point
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: QgsRasterDataProvider::sample method for efficient sampling of rasters at a given point
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -977,9 +977,9 @@ Feature: QgsRasterDataProvider::sample method for efficient sampling of rasters 
 This is an alternative to the ``QgsRasterDataProvider::identify`` method, which is less
 efficient but more powerful
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: New geometry API call to return a curve substring
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -990,9 +990,9 @@ New PyQGIS API has been added to make it easy to retrieve a substring from a Lin
 
 If z or m values are present, the output z and m will be interpolated using the existing vertices' z or m values. The method also handles curved geometries without loss or segmentation.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: sip Module API Changes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
