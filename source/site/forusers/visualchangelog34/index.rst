@@ -6,15 +6,15 @@ Changelog for QGIS 3.4 LTR
 
 |image0|
 
-The first long-term release (LTR) of QGIS 3. QGIS 3.4 just released. After five consolidation point releases (3.4.5) it will replace the previous LTR in the package repositories in February 2019 (see `release schedule <https://qgis.org/en/site/getinvolved/development/roadmap.html#release-schedule>`__).
+The first long-term release (LTR) of QGIS 3. QGIS 3.4 just released. After five consolidation point releases (3.4.5) it will replace the previous LTR in the package repositories in February 2019 (see :ref:`release schedule <QGIS-release-schedule>`).
 This is a giant leap forward for the project - our first Long Term Release based on the 3.x platform. For users moving over from the 2.18 LTR there is a huge list of new features and impactful changes in this new LTR version.
-Please bear in mind that 3.x plugins are incompatible with 2.x plugins so review your plugin usage carefully - and if possible help to migrate old plugins to the new platform. If you have not already done so, take a look at the changelogs from `Version 3.0 <http://changelog.qgis.org/en/qgis/version/3.0.0/>`__ and `Version 3.2 <http://changelog.qgis.org/en/qgis/version/3.2.0/>`__ to understand the full scope of changes in the 3.0 release.
+Please bear in mind that 3.x plugins are incompatible with 2.x plugins so review your plugin usage carefully - and if possible help to migrate old plugins to the new platform. If you have not already done so, take a look at the changelogs from :ref:`Version 3.0 <changelog30>` and :ref:`Version 3.2 <changelog32>` to understand the full scope of changes in the 3.4 release.
 
 **Thanks**
 
-We would like to thank the developers, documenters, testers and all the many folks out there who volunteer their time and effort (or fund people to do so). From the QGIS community we hope you enjoy this release! If you wish to donate time, money or otherwise get involved in making QGIS more awesome, please wander along to `qgis.org <http://qgis.org>`__ and lend a hand!
+We would like to thank the developers, documenters, testers and all the many folks out there who volunteer their time and effort (or fund people to do so). From the QGIS community we hope you enjoy this release! If you wish to donate time, money or otherwise get involved in making QGIS more awesome, please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!
 
-QGIS is supported by donors and sponsors. A current list of donors who have made financial contributions large and small to the project can be seen on our `donors list <http://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__. If you would like to become and official project sponsor, please visit `our sponsorship page <http://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for details. Sponsoring QGIS helps us to fund our six monthly developer meetings, maintain project infrastructure and fund bug fixing efforts. A complete list of current sponsors is provided below - our very great thank you to all of our sponsors!
+QGIS is supported by donors and sponsors. A current list of donors who have made financial contributions large and small to the project can be seen on our :ref:`donors list <list_of_donors>`. If you would like to become an official project sponsor, please visit :ref:`our sponsorship page <QGIS-sponsoring>` for details. Sponsoring QGIS helps us to fund our six monthly developer meetings, maintain project infrastructure and fund bug fixing efforts. A complete list of current sponsors is provided below - our very great thank you to all of our sponsors!
 
 :raw-html:`<div id="qgissponsorsatom"> <!-- to be filled via javascript loading of atom feed --> </div>`
 
@@ -34,7 +34,7 @@ Feature: Flatpak
 
 QGIS is now available as a flatpak application on `flathub <https://flathub.org/apps/search/qgis>`__
 Flatpak (formerly xdg-app) is a software utility for software deployment, package management, and application virtualization for Linux desktop computers.
-It allows users to install different QGIS versions on linux without having to recompile or use Docker. It is a full package with all libraries included, and it uses its owns user profile locations. So you'll need some disk space and new habits working with flatpak, but it rocks!
+It allows users to install different QGIS versions on linux without having to recompile or use Docker. It is a full package with all libraries included, and it uses its own user profile locations. So you'll need some disk space and new habits working with flatpak, but it rocks!
 
 |image28|
 
@@ -78,7 +78,7 @@ Many new expression functions have been added in QGIS 3.4. These include many ha
 -  **to\_dms**: Converts a numeric value to a Degrees, Minutes, Seconds formatted string
 -  **to\_dm**: Converts a numeric value to a Degrees, Minutes formatted string
 -  **line\_substring**: Returns the portion of a line (or curve) geometry which falls between the specified start and end distances (measured from the beginning of the line). Z and M values are linearly interpolated from existing values.
--  **generate\_series(start,stop,step)**: creates an array containing a sequence of numbers.
+-  **generate\_series(start,stop,step)**: Creates an array containing a sequence of numbers.
 
 Additionally, some new variables have also been made available for use within QGIS expressions:
 
@@ -157,7 +157,7 @@ This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>
 Feature: Task manager improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The QGIS task manager widget (shown in the status bar whenever a background task is running) now shows an estimated time remaining and completion time for long-running background tasks. This ETA is calculated using a simple linear interpolation based on the task's elapsed time and current progress, and allows users to know whether they've only got time to make an instance coffee in the office kitchen or walk round the block for a proper barista made coffee before that long processing task completes...
+The QGIS task manager widget (shown in the status bar whenever a background task is running) now shows an estimated time remaining and completion time for long-running background tasks. This Estimated Time of Arrival is calculated using a simple linear interpolation based on the task's elapsed time and current progress, and allows users to know whether they've only got time to make an instance coffee in the office kitchen or walk round the block for a proper barista made coffee before that long processing task completes...
 
 Additionally, QGIS uses the standard operating system progress reporting mechanisms on more platforms and occasions in QGIS 3.4. Some long running tasks (which don't run in the background) such as atlas exports now show their progress via the operating system mechanism, and throw up handy completion notifications.
 
@@ -201,8 +201,8 @@ This feature was developed by Mathieu Pellerin (iMHere Asia), Nyall Dawson (Nort
 Feature: QML chart and drawings widget
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| A new type of vector layer form widget for showing graphically appealing and interactive items like charts or technical drawings on the attribute form has been added in QGIS 3.4.
-| The widget sports a flexible configuration, including example templates and expression support.
+A new type of vector layer form widget for showing graphically appealing and interactive items like charts or technical drawings on the attribute form has been added in QGIS 3.4.
+The widget sports a flexible configuration, including example templates and expression support.
 
 |image9|
 
@@ -237,8 +237,8 @@ This feature was developed by https://github.com/pierreloicq
 Feature: Partial QML export and import
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-When exporting and importing styles to and from .qml files it is now possible to select a subset of sections.
-This allows to save and restore parts of a layer configuration while omitting others. For example, it's possible to export only the symbology of a layer and when importing this QML style file o layer, any configuration on the forms and widgets or other properties are unaffected.
+When exporting and importing styles to and from ``.qml`` files it is now possible to select a subset of sections.
+This allows to save and restore parts of a layer configuration while omitting others. For example, it's possible to export only the symbology of a layer and when importing this QML style file to layer, any configuration on the forms and widgets or other properties are unaffected.
 It is also possible to only handle single sections of a style when using copy/paste.
 
 |image10|
@@ -273,7 +273,7 @@ This feature was developed by `lbartoletti <https://github.com/lbartoletti>`__
 Feature: Vertex tool can work on the current layer only
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The new vertex is a lot more productive now. It can move vertices of all editable layers at once, which is great to preserve cross layers topology. However in many cases, many of us didn't want modify all layers at once. We added a variation of the vertex map tool just for that.
+The new vertex is a lot more productive now. It can move vertices of all editable layers at once, which is great to preserve cross layers topology. However in many cases, many of us don't want to modify all layers at once. We added a variation of the vertex map tool just for that.
 
 |image12|
 
@@ -296,7 +296,7 @@ Feature: Geometry Precision
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Vector layers have a precision configuration option.
-The precision defines how precise the location of nodes should be saved. Each node of new or edited geometries is snapped to a grid of this resolution.
+The precision defines how accurate the location of nodes should be saved. Each node of new or edited geometries is snapped to a grid of this resolution.
 While digitizing, the grid is shown to guide the user.
 
 |image14|
@@ -352,8 +352,8 @@ Data Management
 Feature: Translation of QGIS projects
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Like QGIS and the plugins, the projects are translated with the Qt translation process. Means, it makes the translation according to a Qt Compiled Translation Source File (.qm file). When the user opens a project, QGIS checks for a .qm file laying in the same folder like the .qgs file, having the same name like the .qgs file and having the language-code as postfix of the users language (the language configured in the QGIS settings).
-To create the translation, in the project settings is an option to generate the .ts file, that can edited by programs like Qt Linguist or Transifex.
+Like QGIS and the plugins, the projects are translated with the Qt translation process. Means, it makes the translation according to a Qt Compiled Translation Source File (``.qm`` file). When the user opens a project, QGIS checks for a ``.qm`` file laying in the same folder like the ``.qgs`` file, having the same name like the ``.qgs`` file and having the language-code as postfix of the users language (the language configured in the QGIS settings).
+To create the translation, in the project settings, there is an option to generate the ``.ts`` file, that can edited by programs like Qt Linguist or Transifex.
 
 More information in `this blog post <http://www.opengis.ch/2018/09/11/qgis-speaks-a-lot-of-languages/>`__
 
@@ -461,7 +461,7 @@ This feature was developed by `North Road <https://north-road.com>`__
 Feature: Store models inside project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Some Processing models are so intrinsically linked to the logic inside a particular project that they have no meaning (or are totally broken) outside of that project (e.g. models which rely on the presence of particular map layers, relations, etc). Accordingly, from QGIS 3.4, Processing models can be stored inside QGIS project files. Any models stored within a project are made available as soon as that project is opened. This also avoids avoid cluttering up the "global" model provider with models which make no sense, and makes it easier to distribute a single project all relevant models included.
+Some Processing models are so intrinsically linked to the logic inside a particular project that they have no meaning (or are totally broken) outside of that project (e.g. models which rely on the presence of particular map layers, relations, etc). Accordingly, from QGIS 3.4, Processing models can be stored inside QGIS project files. Any models stored within a project are made available as soon as that project is opened. This also avoids cluttering up the "global" model provider with models which make no sense, and makes it easier to distribute a single project all relevant models included.
 
 Models are stored inside projects by clicking the new "Embed in Project" button in the Modeler dialog toolbar. Models can be removed from a project from the model's right click menu in the toolbox.
 
@@ -563,7 +563,7 @@ This feature was developed by `Nyall Dawson <http://north-road.com>`__
 Feature: "Drape features to z/m" algorithms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-These two new algorithms can sets geometry vertex z or m values to values sampled from a raster band. Values can optionally be scaled using a (data definable) scale value.
+These two new algorithms can set geometry vertex z or m values to values sampled from a raster band. Values can optionally be scaled using a (data definable) scale value.
 
 This feature was funded by `North Road <http://north-road.com>`__
 
@@ -709,7 +709,7 @@ This feature was developed by `Lutra Consulting <https://www.lutraconsulting.co.
 Feature: Mesh layer: allow to choose different vector and scalar dataset
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A mesh layer often contains several quantities. For example a netcdf/grib can contain several meteorological quantities. Each quantity, can also have multiple components. For example, wind data, can contain speed (scalar) and values (grid). With this option, you can overlay scalar and grids from different quantities. In the image below, you can see temperature (grid) and wind (scalar).
+A mesh layer often contains several quantities. For example a netcdf/grib can contain several meteorological quantities. Each quantity can also have multiple components. For example, wind data can contain speed (scalar) and values (grid). With this option, you can overlay scalar and grids from different quantities. In the image below, you can see temperature (grid) and wind (scalar).
 
 |image31|
 
@@ -720,7 +720,7 @@ This feature was developed by `Lutra Consulting <https://www.lutraconsulting.co.
 Feature: Mesh layer: allow render vectors/arrows on the user-defined grid
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Scalar data are generated usually at the centre/corner of each mesh element. When displaying the scalar data, the arrows might look sparse and often not possible to see the general trend. With this option, arrows can be displayed on a user-defined grid. Extra scalar values will be interpolated on-the-fly and placed on the use-defined grid.
+Scalar data are generated usually at the centre/corner of each mesh element. When displaying the scalar data, the arrows might look sparse and often not possible to see the general trend. With this option, arrows can be displayed on a user-defined grid. Extra scalar values will be interpolated on-the-fly and placed on the user-defined grid.
 
 |image32|
 
@@ -763,7 +763,7 @@ Feature: Server Cache can be manage by plugins
 
 By default, QGIS Server only caches WMS GetCapabilities document in memory. With WMTS implementation, it is necessary to have a way to cache tiles. But the cache manager has not been developed to only cache tiles.
 
-The cache manager plugin, can be used to cache:
+The cache manager plugin can be used to cache:
 
 -  WMS, WFS, WCS, WMTS GetCapabilities documents
 -  WFS DescribeFeatureType documents
@@ -771,7 +771,7 @@ The cache manager plugin, can be used to cache:
 -  WMTS GetTile images
 -  WMS GetLegendGraphic images
 
-Here is a python cache manager class, which do not verifying if the QGIS project has changed:
+Here is a python cache manager class, which do not verify if the QGIS project has changed:
 
 ::
 
@@ -896,12 +896,12 @@ Feature: WMTS 1.0.0 support
 
 QGIS Server 3.4 supports WMTS 1.0.0 OGC standard.
 
-In QGIS project properties, the user can defined:
+In QGIS project properties, the user can define:
 
 -  which part of the project (all the project, layer groups or layers) has to be published through WMTS standard
 -  the min scale of the tiles
 
-QGIS Server reused the CRS defined in the WMS for WMTS.
+QGIS Server reuse the CRS defined in the WMS for WMTS.
 
 To manage the tile cache, a QGIS Server plugin with a QgsServerCacheFilter class has to be installed and loaded by QGIS Server.
 
@@ -934,7 +934,7 @@ Plugins
 Feature: Support for encrypted zips in the Plugin Manager
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Plugin Manager is now able to install plugins from local local zip files even if encrypted.
+Plugin Manager is now able to install plugins from local zip files even if encrypted.
 
 |image35|
 
@@ -974,7 +974,7 @@ This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>
 Feature: QgsRasterDataProvider::sample method for efficient sampling of rasters at a given point
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This is an alternative to the ::identify method, which is less
+This is an alternative to the ``QgsRasterDataProvider::identify`` method, which is less
 efficient but more powerful
 
 This feature was funded by `North Road <http://north-road.com>`__
