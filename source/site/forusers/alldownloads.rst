@@ -188,17 +188,17 @@ Supported distribution versions:
 +---------------+-------------+--------------+-----------------------+-------+
 | Distribution  | Version     | Codename     | Also available based  | with  |
 |               |             |              | on ubuntugis-unstable | 3D    |
-|               |             |              | dependencies?         | [6]_  |
+|               |             |              | dependencies?         |       |
 +===============+=============+==============+=======================+=======+
 | Debian        | 8.x         | jessie [4]_  |                       |       |
 |               +-------------+--------------+-----------------------+-------+
 |               | 9.x         | stretch      |                       |       |
 |               +-------------+--------------+-----------------------+-------+
-|               | 10.x        | buster       |                       |       |
+|               | 10.x        | buster       |                       | yes   |
 |               +-------------+--------------+-----------------------+-------+
-|               | sid         | unstable     |                       |       |
+|               | sid         | unstable     |                       | yes   |
 +---------------+-------------+--------------+-----------------------+-------+
-| Ubuntu        | 18.04       | bionic       |                       | yes   |
+| Ubuntu        | 18.04       | bionic       | yes                   | yes   |
 |               +-------------+--------------+-----------------------+-------+
 |               | 17.10       | artful       |                       | yes   |
 |               +-------------+--------------+-----------------------+-------+
@@ -209,7 +209,7 @@ Supported distribution versions:
 
 .. [4] only up to 2.18 LTR
 .. [5] 3.0 and above only available with ubuntugis-unstable (plain xenial lacks GDAL2)
-.. [6] only with Qt >= 5.9 including Qt 3DExtras (the latter is currently not included in Debian)
+.. [6] only with Qt >= 5.9
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
 
