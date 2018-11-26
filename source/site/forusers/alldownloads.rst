@@ -188,7 +188,7 @@ Supported distribution versions:
 +---------------+-------------+--------------+-----------------------+-------+
 | Distribution  | Version     | Codename     | Also available based  | with  |
 |               |             |              | on ubuntugis-unstable | 3D    |
-|               |             |              | dependencies?         |       |
+|               |             |              | dependencies?         | [6]_  |
 +===============+=============+==============+=======================+=======+
 | Debian        | 8.x         | jessie [4]_  |                       |       |
 |               +-------------+--------------+-----------------------+-------+
