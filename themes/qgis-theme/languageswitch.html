@@ -87,12 +87,13 @@
             atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
             atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
         }
-        else if (currentPage == "site/about/sponsorship.html"){
+        else if (currentPage == "site/about/sponsorship.html" || currentPage.indexOf("visualchangelog")>0){
             // http://changelog.qgis.org/en/qgis/sponsors/atom/
             // http://changelog.qgis.org/en/qgis/pastsponsors/atom/
             // function atom(url, holder, count, showcont, spanclass){
             atom('/feeds/qgissponsors.atom', '#qgissponsorsatom', 1000, true, 'span3');
             atom('/feeds/qgispastsponsors.atom', '#qgispastsponsorsatom', 1000, true, 'span3');
+            //json2html('./feeds/qgissponsors.json', '#qgissponsorsatom', 1000, true, 'span3');
         }
         else if (currentPage == "site/forusers/download.html" || currentPage == "site/forusers/alldownloads.html"){
             $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
@@ -140,7 +141,43 @@
         var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
         window.location.href = newUrl;
     }
+    //
+    // function to load a json (feed) and create html for it
+    // currently only used for sponsors
+    //
+    function json2html(url, holder, count, showcont, spanclass){
+        var html = '';
+        $.getJSON(url, function (data) {
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
 
+            $.each( data.rss.channel.item, function( key, val ){
+              var item = val;
+              var imglink = '#';
+              var link = '#';
+              var content = '';
+              var sponsor_level = 'Bronze';
+              if (item.sponsor_url){link=item.sponsor_url};
+              if (item.image_url){imglink=item.image_url};
+              if (item.sponsor_level){sponsor_level=item.sponsor_level};
+              var title = item.title;
+              content = '<div><img class="sponsor_img '+sponsor_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="sponsor_body '+sponsor_level.toLowerCase()+'">'+item.sponsor_country+'<br/>Sponsorship level: '+sponsor_level+'<br/>'+
+                '('+item.start_date+' - '+item.end_date+')</p>';
+              html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+              html+='<div class="sponsordiv"><h4>'+title+'</h4>';
+              html+=content;
+              html+='</div></a></div>';
+            })
+          $(holder).append(html);
+        })
+    }
     //
     // function to load an atom feed, an put it in an element
     //
