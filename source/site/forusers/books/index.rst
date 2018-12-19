@@ -21,6 +21,25 @@ English
 =======
 
 
+Hands-On Geospatial Analysis with R and QGIS
+********************************************
+
+Practical examples with real-world projects in GIS, Remote sensing, Geospatial data management and Analysis using the R programming language
+
+* https://www.packtpub.com/application-development/hands-geospatial-analysis-r-and-qgis
+* Author: Shammunul Islam
+* Date: November 2018
+
+Learn QGIS - Fourth Edition
+***************************
+
+Learn to view, edit and analyse geospatial data using QGIS and Python 3
+
+* https://www.packtpub.com/application-development/learn-qgis-fourth-edition
+* Authors: Andrew Cutts, Anita Graser
+* Date: November 2018
+
+
 On the Way with GIS
 *******************
 
