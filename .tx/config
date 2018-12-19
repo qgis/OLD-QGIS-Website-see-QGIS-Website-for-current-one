@@ -169,6 +169,24 @@ source_file = i18n/en/LC_MESSAGES/site/getinvolved/infrastructure.po
 source_lang = en
 type = PO
 
+[qgis-website.site_getinvolved_daily-reports_ogc]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/daily_reports/ogc.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/daily_reports/ogc.po
+source_lang = en
+type = PO
+
+[qgis-website.site_getinvolved_daily-reports_performance]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/daily_reports/performance.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/daily_reports/performance.po
+source_lang = en
+type = PO
+
+[qgis-website.site_getinvolved_daily-reports_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/daily_reports/index.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/daily_reports/index.po
+source_lang = en
+type = PO
+
 [qgis-website.site_getinvolved_tests]
 file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/tests.po
 source_file = i18n/en/LC_MESSAGES/site/getinvolved/tests.po
@@ -736,6 +754,12 @@ type = PO
 [qgis-website.site_forusers_visualchangelog210_index]
 file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/visualchangelog210/index.po
 source_file = i18n/en/LC_MESSAGES/site/forusers/visualchangelog210/index.po
+source_lang = en
+type = PO
+
+[qgis-website.site_forusers_visualchangelog34_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/visualchangelog34/index.po
+source_file = i18n/en/LC_MESSAGES/site/forusers/visualchangelog34/index.po
 source_lang = en
 type = PO
 
