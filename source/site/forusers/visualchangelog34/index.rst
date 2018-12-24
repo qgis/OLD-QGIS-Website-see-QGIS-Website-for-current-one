@@ -202,7 +202,7 @@ Feature: QML chart and drawings widget
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A new type of vector layer form widget for showing graphically appealing and interactive items like charts or technical drawings on the attribute form has been added in QGIS 3.4.
-The widget sports a flexible configuration, including example templates and expression support.
+The widget supports a flexible configuration, including example templates and expression support.
 
 |image9|
 
