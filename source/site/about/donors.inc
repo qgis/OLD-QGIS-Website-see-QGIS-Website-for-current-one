@@ -4690,7 +4690,7 @@
      - Victoria Cooper
      - Vidar Wennevik
    * - Vijiandran Rajah
-     - Vikram D'Mello
+     - Vikram D'mello
      - Viktor Svanerud
    * - Vincent Auvigne
      - Vincent Bernardin
