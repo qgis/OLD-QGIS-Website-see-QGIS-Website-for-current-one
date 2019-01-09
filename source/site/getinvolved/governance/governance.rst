@@ -13,11 +13,11 @@ which consists of 7 members (with their individual responsibilities listed in
 brackets):
 
 * Paolo Cavallini (Chair; Manager of Plugin Repository) [Chair since 4.2018; Co-Chair 1.2008 - 3.2018]
-* Marco Bernasocchi (Co-Chair) [Chair since 4.2018] 
-* Andreas Neumann (Treasurer; Contact for Sponsorships) [since November 2015]
-* Anita Graser (Design Advisor) [since September 2013]
-* Richard Duivenvoorde (Infrastructure Manager) [since September 2013]
-* Jürgen Fischer (Release Manager) [since September 2013]
+* Marco Bernasocchi (Co-Chair) [since 4.2018] 
+* Andreas Neumann (Treasurer; Contact for Sponsorships) [since 11.2015]
+* Anita Graser (Design Advisor) [since 9.2013]
+* Richard Duivenvoorde (Infrastructure Manager) [since 9.2013]
+* Jürgen Fischer (Release Manager) [since 9.2013]
 * Gary Sherman (Founder and lifetime Honorary Member)
 
 Former members are:
