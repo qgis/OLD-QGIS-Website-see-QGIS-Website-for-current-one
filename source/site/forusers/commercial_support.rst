@@ -374,7 +374,7 @@ GRASS GIS and FOSS GIS based SDI solutions.
 .. |sygif| image:: /static/site/about/images/sygif.jpg
    :width: 75 px
 
-|sygif| `Le Groupe SYGIF Inc. <http://www.sygif.qc.ca/>`_ (based in Rimouski (Qebec), Canada) specializes in the development of information technologies (GIS) aimed at integrated land management. The company develops and supports complementary tools for QGIS and MapServer and also holds a recognition of the ESRI company as a developer and reseller of their products.
+|sygif| `Le Groupe SYGIF Inc. <http://www.sygif.qc.ca/>`_ (based in Rimouski (Quebec), Canada) specializes in the development of information technologies (GIS) aimed at integrated land management. The company develops and supports complementary tools for QGIS and MapServer and also holds a recognition of the ESRI company as a developer and reseller of their products.
 
 ----
 
