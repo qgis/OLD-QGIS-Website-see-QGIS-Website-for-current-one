@@ -13,10 +13,17 @@
   
   NOTE: we do not ORDER/SORT the events, so please place it on the righ position in the list.
   
-  Also please remove old events (as currently we only show 5 events 
+  Also please remove old events (as currently we only show 5 topmost events) 
   
   --> 
-  
+  <entry>
+    <id>http://qgis.org</id>
+    <title type="text">Feb 03, FOSDEM Geospatial Track</title>
+    <link href="https://fosdem.org/2019/schedule/track/geospatial/" rel="alternate"> </link>
+    <author> <name>No Author</name> </author>  
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <content type="text">Brussel, Belgium</content>
+  </entry>
   <entry>
     <id>http://qgis.org</id>
     <title type="text">March 04th - 06th, 2019 QGIS International User Conference</title>
@@ -33,5 +40,7 @@
     <updated>1970-01-01T00:00:00.000Z</updated>
     <content type="text">A Coruña, Spain</content>
   </entry>
+
+https://fosdem.org/2019/schedule/track/geospatial/
 
 </feed>
