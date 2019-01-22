@@ -44,6 +44,7 @@ help:
 	@echo "  pretranslate to gather all strings from sources, put in .pot files"
 	@echo "                  AND merge them with available .po files"
 	@echo "  transifex_push (only for transifex Maintainers!): renew source files and push to transifex"
+	@echo "  venvupdate   to setup or update a virtualenv with sphinx in sphinx/"
 	@echo "  "
 	@echo "OPTION: use LANG=xx to do it only for one language, eg: make html LANG=de"
 	@echo "  "
@@ -321,9 +322,12 @@ pseudoxml:
 source/site/getinvolved/development/schedule.inc source/schedule.py:
 	$(PYTHON) scripts/update-schedule.py
 
-clearschedule:
+clearschedule: venvupdate
 	$(RM) source/site/getinvolved/development/schedule.inc source/schedule.py
 
 schedule: clearschedule source/schedule.py
 	git pull --autostash --rebase
 	git commit -a -m "Update for $(shell sed -ne "s/^release = '\\(.*\\)'/\1/p" source/schedule.py)/$(shell sed -ne "s/^ltrrelease = '\\(.*\\)'/\\1/p" source/schedule.py) point releases"
+
+venvupdate:
+	[ -d sphinx ] || python -m virtualenv sphinx; . sphinx/bin/activate; pip install -U -r REQUIREMENTS.txt
