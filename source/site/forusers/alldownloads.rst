@@ -490,6 +490,11 @@ The stable package uses the system Python 2.7 - other distributions are not supp
 
 Other Python modules for plugins to use are available from `kyngchaos.com <http://www.kyngchaos.com/software/python>`_.
 
+Standalone Installer
+--------------------
+
+A standalone installer is available at `<https://lutraconsulting.github.io/qgis-mac-packager/>`_.
+
 .. _QGIS-macos-testing:
 
 FreeBSD
