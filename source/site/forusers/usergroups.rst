@@ -16,13 +16,13 @@ Current list of QGIS user groups
 * `QGIS Anwendergruppe Deutschland (Germany) - contact: Thomas Schüttenberg <http://qgis.de/>`_
 * `Gruppo degli utenti italiani di QGIS (Italy) - contact: Matteo Ghetta <http://qgis.it/>`_
 * `QGIS User Group Japan (OSGeo.JP) - contact: Kosuke ASAHI <http://qgis.jp/>`_
-* `NIWA QGIS user group (New Zealand) - contact: Brent Wood <https://teamwork.niwa.co.nz/display/NQUG/NIWA+QGIS+Users+Group>`_
 * `Lima Perú QGIS User Group (Peru) - contact: Anibal Alarcon <http://qgis.pe/>`_
 * `Polska Grupa Użytkowników QGIS (Poland) - contact: Milena Nowotarska <http://qgis.pl/>`_
 * `QGIS Portugal - contact: João Gaspar <http://qgis.pt/>`_
 * `QGIS UK (Scotland) - contact: Ross McDonald <https://qgis.uk/>`_
 * `QGIS user group Switzerland - contact: Hans-Jörg Stark <https://qgis.ch/>`_
 * `QGIS UK (Wales/Cymru) - contact: Kevin Williams <http://qgis.uk/>`_
+* `NIWA QGIS user group (New Zealand) - contact: Brent Wood --> REMOVED in 2018 <https://teamwork.niwa.co.nz/display/NQUG/NIWA+QGIS+Users+Group>`_
 
 
 **Registered 2017**
@@ -31,17 +31,22 @@ Current list of QGIS user groups
 * `QGIS ZA (South Africa) - contact: Admire Nyakudya <http://qgis.org.za/>`_
 * `Groupe des Utilisateurs de QGIS - France (France) - contact: Harrissou Sant-anna <http://osgeo.asso.fr/content/project/qgis-user-fr/>`_
 * `QGIS Sverige (Sweden) - contact: Karl-Magnus Jönsson <http://qgis.se/>`_
-* `QGIS Georgia - contact: Zurab Archvadze <http://qgis.org>`_
 * `QGIS Kenya - contact: Benard Mitto <http://qgis.or.ke>`_
 * `QGIS Australia - contact: Andrew Jeffrey <http://qgis-au.org>`_
 * `QGIS USA - contact: Kurt Menke <http://qgis.us>`_
 * `QGIS Mexico - contact: Hennessy Amor Becerra Ayala <http://qgis.mx>`_
+* `QGIS Georgia - contact: Zurab Archvadze --> REMOVED in 2018 <http://qgis.org>`_
 
 **Registered 2018**
 
 * `Asociația Utilizatorilor QGIS (Romania) - contact: Tudor Bărăscu <http://qgis.ro/>`_
 * `Association of QGIS users in Spain - contact: Carlos López Quintanilla <http://qgis.es/>`_
 * `Grupo de Usuarios QGIS Colombia - contact: Germán Carrillo <http://qgisusers.co>`_
+
+**Removed 2018**
+
+* `NIWA QGIS user group (New Zealand) - contact: Brent Wood <https://teamwork.niwa.co.nz/display/NQUG/NIWA+QGIS+Users+Group>`_
+* `QGIS Georgia - contact: Zurab Archvadze <http://qgis.org>`_ 
 
 Goals of a user group
 ---------------------
