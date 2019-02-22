@@ -287,16 +287,21 @@ to install both client and server applications on the same machine), type::
 
  sudo dnf install qgis-server python3-qgis
 
+This repository also provides a copy of SAGA 2.3.1 compatible with Processing.
+It can be installed with the following commands::
+
+ sudo dnf install saga
+
 +---------------+-------------+--------------+--------------+-------+
 | Distribution  | Version     | QGIS         | GRASS GIS    | with  |
 |               |             | version      | version      | 3D    |
 |               |             |              |              |       |
 +===============+=============+==============+==============+=======+
-| Fedora        | 27          | 3.4          | 7.4          | yes   |
+| Fedora        | 28          | 3.6          | 7.4          | yes   |
 |               +-------------+--------------+--------------+-------+
-|               | 28          | 3.4          | 7.4          | yes   |
+|               | 29          | 3.6          | 7.4          | yes   |
 |               +-------------+--------------+--------------+-------+
-|               | 29          | 3.4          | 7.4          | yes   |
+|               | 30          | 3.6          | 7.6          | yes   |
 +---------------+-------------+--------------+--------------+-------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis/
@@ -310,27 +315,29 @@ Enable the repository::
 
 After that type the commands below to install QGIS::
 
- sudo dnf install qgis python2-qgis qgis-grass
+ sudo dnf install qgis python3-qgis qgis-grass
 
 In case you would like to install QGIS Server (note that it's not a common practice
 to install both client and server applications on the same machine), type::
 
- sudo dnf install qgis-server python2-qgis
+ sudo dnf install qgis-server python3-qgis
 
-This repository also provides a copy of SAGA compatible with QGIS 2.18.
+This repository also provides a copy of SAGA 2.3.1 compatible with Processing.
 It can be installed with the following commands::
 
- sudo dnf install saga python2-saga
+ sudo dnf install saga
 
-+---------------+-------------+--------------+--------------+---------+
-| Distribution  | Version     | QGIS         | GRASS GIS    | SAGA    |
-|               |             | version      | version      | version |
-|               |             |              |              |         |
-+===============+=============+==============+==============+=========+
-| Fedora        | 27          | 2.18         | 7.4          | 2.3.1   |
-|               +-------------+--------------+--------------+---------+
-|               | 28          | 2.18         | 7.4          | 2.3.1   |
-+---------------+-------------+--------------+--------------+---------+
++---------------+-------------+--------------+--------------+-------+
+| Distribution  | Version     | QGIS         | GRASS GIS    | with  |
+|               |             | version      | version      | 3D    |
+|               |             |              |              |       |
++===============+=============+==============+==============+=======+
+| Fedora        | 28          | 3.4          | 7.4          | yes   |
+|               +-------------+--------------+--------------+-------+
+|               | 29          | 3.4          | 7.4          | yes   |
+|               +-------------+--------------+--------------+-------+
+|               | 30          | 3.4          | 7.6          | yes   |
++---------------+-------------+--------------+--------------+-------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/
 
@@ -355,13 +362,13 @@ to install both client and server applications on the same machine), type::
 |               |             | version      | version      | 3D    |
 |               |             |              |              |       |
 +===============+=============+==============+==============+=======+
-| Fedora        | 27          | 3.5          | 7.4          | yes   |
+| Fedora        | 28          | 3.7          | 7.4          | yes   |
 |               +-------------+--------------+--------------+-------+
-|               | 28          | 3.5          | 7.4          | yes   |
+|               | 29          | 3.7          | 7.4          | yes   |
 |               +-------------+--------------+--------------+-------+
-|               | 29          | 3.5          | 7.4          | yes   |
+|               | 30          | 3.7          | 7.6          | yes   |
 |               +-------------+--------------+--------------+-------+
-|               | rawhide     | 3.5          | 7.4          | yes   |
+|               | rawhide     | 3.7          | 7.6          | yes   |
 +---------------+-------------+--------------+--------------+-------+
 
 Testing builds are updated on a weekly basis.
