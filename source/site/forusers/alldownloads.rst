@@ -418,24 +418,6 @@ where <VERSION> is for example 'openSUSE_Tumbleweed'.
 
 All packages include GRASS and Python support.
 
-Mandriva
---------
-
-QGIS stable
-...........
-
-Current::
-
- urpmi qgis-python qgis-grass
-
-Slackware
----------
-
-QGIS stable
-...........
-
-Packages on http://qgis.gotslack.org
-
 ArchLinux
 ---------
 
@@ -447,15 +429,6 @@ Archlinux is available in official repository : https://www.archlinux.org/packag
 Install with :
 
 pacman -S qgis
-
-Solus
----------
-
-Current version is avaliable through the Solus repository.
-
-Install with :
-
-sudo eopkg it qgis
 
 QGIS LTR
 ...........
@@ -480,6 +453,33 @@ yaourt -S qgis-git
 
 For bugs and other behaviour, read comments here : https://aur.archlinux.org/packages/qgis-git
 
+Solus
+---------
+
+Current version is avaliable through the Solus repository.
+
+Install with :
+
+sudo eopkg it qgis
+
+
+Slackware
+---------
+
+QGIS stable
+...........
+
+Packages on http://qgis.gotslack.org
+
+Mandriva
+--------
+
+QGIS stable
+...........
+
+Current::
+
+ urpmi qgis-python qgis-grass
 
 Mac OS X / macOS
 ================
