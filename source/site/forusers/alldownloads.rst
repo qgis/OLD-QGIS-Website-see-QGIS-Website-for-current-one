@@ -448,6 +448,14 @@ Install with :
 
 pacman -S qgis
 
+Solus
+---------
+
+Current version is avaliable through the Solus repository.
+
+Install with :
+
+sudo eopkg it qgis
 
 QGIS LTR
 ...........
