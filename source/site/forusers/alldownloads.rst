@@ -188,28 +188,23 @@ Supported distribution versions:
 +---------------+-------------+--------------+-----------------------+-------+
 | Distribution  | Version     | Codename     | Also available based  | with  |
 |               |             |              | on ubuntugis-unstable | 3D    |
-|               |             |              | dependencies?         | [6]_  |
+|               |             |              | dependencies?         | [5]_  |
 +===============+=============+==============+=======================+=======+
-| Debian        | 8.x         | jessie [4]_  |                       |       |
-|               +-------------+--------------+-----------------------+-------+
-|               | 9.x         | stretch      |                       |       |
+| Debian        | 9.x         | stretch      |                       |       |
 |               +-------------+--------------+-----------------------+-------+
 |               | 10.x        | buster       |                       | yes   |
 |               +-------------+--------------+-----------------------+-------+
 |               | sid         | unstable     |                       | yes   |
 +---------------+-------------+--------------+-----------------------+-------+
-| Ubuntu        | 18.04       | bionic       | yes                   | yes   |
+| Ubuntu        | 18.10       | cosmic       |                       | yes   |
 |               +-------------+--------------+-----------------------+-------+
-|               | 17.10       | artful       |                       | yes   |
+|               | 18.04 (LTS) | bionic       | yes                   | yes   |
 |               +-------------+--------------+-----------------------+-------+
-|               | 16.04 (LTS) | xenial [5]_  | yes                   |       |
-|               +-------------+--------------+-----------------------+-------+
-|               | 14.04 (LTS) | trusty [4]_  | yes                   |       |
+|               | 16.04 (LTS) | xenial [4]_  | yes                   |       |
 +---------------+-------------+--------------+-----------------------+-------+
 
-.. [4] only up to 2.18 LTR
-.. [5] 3.0 and above only available with ubuntugis-unstable (plain xenial lacks GDAL2)
-.. [6] only with Qt >= 5.9
+.. [4] only 3.4 with ubuntugis-unstable
+.. [5] only with Qt >= 5.9
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
 

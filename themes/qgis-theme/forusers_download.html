@@ -63,7 +63,7 @@
                         <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86_64.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
-                              <li class="qgis-download"></li>
+                              <li class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></li>
                               <li class="download-text">{{ _('QGIS Standalone Installer Version %s (64 bit)')|format( version ) }}</li>
                           </ul>
                         </a>
@@ -77,7 +77,7 @@
                         <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
-                              <li class="qgis-download"></li>
+                              <li class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></li>
                               <li class="download-text">{{ _('QGIS Standalone Installer Version %s (32 bit)')|format( version ) }}</li>
                           </ul>
                         </a>
@@ -92,7 +92,7 @@
                         <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ ltrbinary|e }}-Setup-x86_64.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
-                              <li class="qgis2-download"></li>
+                              <li class="{{ "qgis{}-download".format( "2" if ltrversion.startswith("2.") else "" ) }}"></li>
                               <li class="download-text">{{ _('QGIS Standalone Installer Version %s (64 bit)')|format( ltrversion ) }}</li>
                           </ul>
                         </a>
@@ -106,7 +106,7 @@
                         <a href="http://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ ltrbinary|e }}-Setup-x86.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
-                              <li class="qgis2-download"></li>
+                              <li class="{{ "qgis{}-download".format( "2" if ltrversion.startswith("2.") else "" ) }}"></li>
                               <li class="download-text">{{ _('QGIS Standalone Installer Version %s (32 bit)')|format( ltrversion ) }}</li>
                           </ul>
                         </a>
@@ -136,7 +136,7 @@
                       <a href="http://qgis.org/downloads/macOS/QGIS-macOS-{{ release_mac|e }}-{{ binary_mac|e }}.dmg" class="reference external">
                         <ul class="inline download-row">
                           <li><i class="icon-download-alt icon-large"></i></li>
-                          <li class="qgis-download"></li>
+                          <li class="{{ "qgis{}-download".format( "2" if release_mac.startswith("2.") else "" ) }}"></li>
                           <li class="download-text">{{ _('QGIS macOS Installer Version %s')|format( release_mac ) }}</li>
                         </ul>
                       </a>
@@ -146,8 +146,8 @@
                       <a href="http://qgis.org/downloads/macOS/QGIS-OSX-{{ ltrrelease_mac|e }}-{{ ltrbinary_mac|e }}.dmg" class="reference external">
                         <ul class="inline download-row">
                           <li><i class="icon-download-alt icon-large"></i></li>
-                          <li class="qgis2-download"></li>
-                          <li class="download-text">{{ _('QGIS OS X Installer Version %s')|format( ltrversion ) }}</li>
+                          <li class="{{ "qgis{}-download".format( "2" if ltrrelease_mac.startswith("2.") else "" ) }}"></li>
+                          <li class="download-text">{{ _('QGIS OS X Installer Version %s')|format( ltrrelease_mac ) }}</li>
                         </ul>
                       </a>
                     </div>

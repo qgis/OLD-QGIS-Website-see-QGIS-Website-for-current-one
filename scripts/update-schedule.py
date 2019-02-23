@@ -11,6 +11,8 @@ url = "https://docs.google.com/spreadsheets/u/1/d/1MOIjwon5eDI04DG6rX_HwucZkW1fx
 o = open("source/site/getinvolved/development/schedule.inc", "w")
 
 o.write("""\
+.. produced from googlesheet via scripts/update-schedule.py - edits will be lost
+
 ========== ======= ========= ======== ========== ==== =====
 Event      Latest  Long-Term  Freeze   Date      Week Weeks
                    Repo                          #
@@ -34,7 +36,7 @@ for row in reader:
         first = False
         continue
 
-    event, _, _, _,  _, _, _,  _, _, date, weekno, weeks, lr, ltr, dev, ff, _, _, _ = row
+    event, _, _, _,  _, _, _,  _, _, date, weekno, weeks, lr, ltr, dev, ff, _, _ = row
 
     dt = datetime.strptime(date,'%Y-%m-%d')
 
@@ -98,14 +100,14 @@ release = '%(release)s'
 codename = u'%(lr_name)s'
 binary = '%(lr_binary)s'
 releasedate = date(%(releasedate)s)
-releasenote = '%(lr_note)s'
+releasenote = u'%(lr_note)s'
 
 # long term release repository
 ltrversion = '%(ltrversion)s'
 ltrrelease = '%(ltrrelease)s'
 ltrcodename = u'%(ltr_name)s'
 ltrbinary = '%(ltr_binary)s'
-ltrnote = '%(ltr_note)s'
+ltrnote = u'%(ltr_note)s'
 
 devversion = '%(devversion)s'
 nextversion = '%(nextversion)s'
@@ -121,11 +123,12 @@ infeaturefreeze = %(infeaturefreeze)s
     "lr_binary": lr_binary,
     "lr_name": lr_name,
     "lr_note": lr_note,
+    "lr_note": lr_note if lr_note != '' else '\\u200B',
     "ltrversion": ".".join(ltr_version.split(".")[:2]),
     "ltrrelease": ltr_version,
     "ltr_name": ltr_name,
     "ltr_binary": ltr_binary,
-    "ltr_note": ltr_note,
+    "ltr_note": ltr_note if ltr_note != '' else 'LTR',
     "devversion": devversion,
     "nextversion": nextversion,
     "nextfreezedate": (f_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC') if f_date is not None else None,
