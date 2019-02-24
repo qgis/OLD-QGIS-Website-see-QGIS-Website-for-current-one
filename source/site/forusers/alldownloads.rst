@@ -1,3 +1,5 @@
+.. role:: raw-html(raw)
+   :format: html
 
 .. _QGIS-download:
 
@@ -58,15 +60,9 @@ Steps are:
   | Development       | |devversion| master          | qgis-dev [3]_     | Nightly build of the development version              |
   +-------------------+------------------------------+-------------------+-------------------------------------------------------+
 
-.. [1] Latest release nightlies SHA:
-   `32 bit <http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-rel-dev/LATEST.sha>`__,
-   `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-rel-dev/LATEST.sha>`__
-.. [2]  Latest long-term release nightlies SHA:
-   `32 bit <http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-ltr-dev/LATEST.sha>`__,
-   `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-ltr-dev/LATEST.sha>`__
-.. [3]  Master nightlies SHA:
-   `32 bit <http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-dev/LATEST.sha>`__,
-   `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-dev/LATEST.sha>`__
+.. [1] Latest release nightlies SHA: 32 bit :raw-html:`<span id="qgis-rel-dev-x86"> </span>`, 64 bit :raw-html:`<span id="qgis-rel-dev-x86_64"> </span>`
+.. [2] Latest long-term release nightlies SHA: 32 bit :raw-html:`<span id="qgis-ltr-dev-x86"> </span>`, 64 bit :raw-html:`<span id="qgis-ltr-dev-x86_64"> </span>`
+.. [3] Master nightlies SHA: 32 bit :raw-html:`<span id="qgis-dev-x86"> </span>`, 64 bit :raw-html:`<span id="qgis-dev-x86_64"> </span>`
 
 .. _QGIS-windows-weekly:
 

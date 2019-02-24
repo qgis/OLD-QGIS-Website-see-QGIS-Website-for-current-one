@@ -112,6 +112,12 @@
                 $('#thankyou').show();
                 return true;
             });
+	    replacesha('qgis-rel-dev-x86');
+	    replacesha('qgis-rel-dev-x86_64');
+	    replacesha('qgis-ltr-dev-x86');
+	    replacesha('qgis-ltr-dev-x86_64');
+	    replacesha('qgis-dev-x86');
+	    replacesha('qgis-dev-x86_64');
         }
         else if (currentPage == "site/getinvolved/donations.html"){
             // inject the stripeform into this page
@@ -131,7 +137,6 @@
             $('#closethankyou').click(function(){ $('#thankyou').hide(); });
         }
     });
-
 
     //
     // load current page in a different language
@@ -272,5 +277,18 @@
             });
             $(holder).append(html);
         });
+    }
+
+    //
+    // function to replace a item
+    //
+    function replacesha(id) {
+      var xhr = new XMLHttpRequest();
+      xhr.onload = function () {
+	var sha = this.responseText.substring(this.responseText.indexOf(':')+1);
+        document.getElementById(id).innerHTML = "<a target=\"_new\" href=\"http://github.com/qgis/QGIS/commit/" + sha + "\">" + sha + "</a>";
+      };
+      xhr.open('GET', '/downloads/' + id + '.sha');
+      xhr.send();
     }
 </script>
