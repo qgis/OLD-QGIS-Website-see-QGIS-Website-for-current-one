@@ -208,10 +208,10 @@ Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
  deb     *repository* *codename* main
  deb-src *repository* *codename* main
 
-Example latest release for Debian stretch::
+Example latest release for Debian unstable::
 
- deb     https://qgis.org/debian stretch main
- deb-src https://qgis.org/debian stretch main
+ deb     https://qgis.org/debian unstable main
+ deb-src https://qgis.org/debian unstable main
 
 After that type the commands below to install QGIS::
 
