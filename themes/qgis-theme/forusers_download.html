@@ -126,13 +126,14 @@
                   <div class="accordion-heading">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#mac">
                       <h4>{{ _('Download for Mac OS X') }} <i class="icon-chevron-down pull-right"></i></h4>
+                      <p>{{ _('Mac Installer Packages for macOS El Capitan (10.11) and newer.') }}</p>
+                      <p>{{ _('Installation instructions are in the Read Me on the disk image. These packages use the ') }} <a href="http://www.python.org/" class="reference external">python.org Python 3</a>, {{ _( version 3.6, the "macosx10.9" build - other distributions are not supported. Install Python before installing QGIS.') }}</p>
+                      <p>{{ _('Additional GDAL format plugins and PROJ grids are available at ') }} <a href="https://www.kyngchaos.com/frameworks/" class="reference external">kyngchaos.com</a>.</p>
                     </a>
                   </div>
                   <div id="mac" class="accordion-body collapse in">
                     <div class="accordion-inner">
                       <h6>{{ _('Latest release (richest on features):') }}</h6>
-                      <p>{{ _('Mac Installer Package for macOS El Capitan (10.11) and newer.') }}</p>
-                      <p>{{ _('Installation instructions are in the Read Me on the disk image. This package uses the <a href="http://www.python.org/" class="reference external">python.org Python 3.6</a>, version 3.6, the "macosx10.9" build - other distributions are not supported. Install Python before installing QGIS.') }}</p>
                       <a href="http://qgis.org/downloads/macOS/QGIS-macOS-{{ release_mac|e }}-{{ binary_mac|e }}.dmg">
                         <ul class="inline download-row">
                           <li><i class="icon-download-alt icon-large"></i></li>
@@ -141,8 +142,6 @@
                         </ul>
                       </a>
                       <h6>{{ _('Long term release (most stable):') }}</h6>
-                      <p>{{ _('Mac Installer Package for macOS El Capitan (10.11) and newer.') }}</p>
-                      <p>{{ _('Installation instructions are in the Read Me on the disk image. This package uses the <a href="http://www.python.org/" class="reference external">python.org Python 3.6</a>, version 3.6, the "macosx10.9" build - other distributions are not supported. Install Python before installing QGIS.') }}</p>
                       <a href="http://qgis.org/downloads/macOS/QGIS-macOS-{{ ltrrelease_mac|e }}-{{ ltrbinary_mac|e }}.dmg">
                         <ul class="inline download-row">
                           <li><i class="icon-download-alt icon-large"></i></li>
