@@ -1154,7 +1154,7 @@ Feature: Map of CRS-extent in Project properties
 |image95|
 
 
-Feature: Auxilliary Storage Support
+Feature: Auxiliary Storage Support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A new tab is available in vector layer properties to manage auxiliary storage :
