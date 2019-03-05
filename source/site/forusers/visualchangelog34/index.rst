@@ -396,7 +396,7 @@ Required layers are configured via the Project Properties dialog, Data Sources t
 
 This feature was funded by `Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project <https://www.arpa.piemonte.it/>`__
 
-This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia <https://www.lutraconsulting.co.uk/>`__
+This feature was developed by `Martin Dobias (Lutra Consulting) <https://www.lutraconsulting.co.uk>`__ and `Faunalia <https://www.faunalia.eu>`__
 
 Feature: Append raster layer to an existing Geopackage
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1077,7 +1077,7 @@ A new Identify Tool was introduced to 3D map. Using this tool, you can inspect f
 
 This feature was funded by `Department of Environment, Land and Infrastructure Engineering (DIATI) <https://www.faunalia.eu/en/>`__
 
-This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia <https://www.lutraconsulting.co.uk/>`__
+This feature was developed by `Martin Dobias (Lutra Consulting) <https://www.lutraconsulting.co.uk>`__ and `Faunalia <https://www.faunalia.eu>`__
 
 Feature: Experimental Python API
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
