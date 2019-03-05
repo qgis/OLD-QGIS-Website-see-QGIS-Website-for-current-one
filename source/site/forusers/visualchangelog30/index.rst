@@ -621,7 +621,7 @@ renamed from just "Record"
 -  **get\_feature\_by\_id(layer, feature\_id)**: Returns the feature with an id on a layer.
 -  **is\_selected(feature, layer)**: Returns if a feature is selected. If called with no parameters checks the current feature.
 -  **num\_selected(layer)**: Returns the number of selected features on a given layer. By default works on the layer on which the expression is evaluated.
--  **represent\_value(value, fieldName)**: Returns the configured representation value for a field value. It depends on the configured widget type. Often, this is useful for 'Value Map' widgets.
+-  **represent\_value(value, fieldName)**: Returns the configured representafftion value for a field value. It depends on the configured widget type. Often, this is useful for 'Value Map' widgets.
 -  **uuid()**: Generates a Universally Unique Identifier (UUID) for each row using the Qt QUuid::createUuid method. Each UUID is 38 characters long.
 
 **Relations**
@@ -664,7 +664,7 @@ Or a default attribute value when digitizing features:
 
 This feature was developed by `Matthias Kuhn (OPENGIS.ch) <https://opengis.ch>`__
 
-Feature: item\_variables expression function inside compositions
+Feature: Item\_variables expression function inside compositions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This adds a new item\_variables expression function when expressions are used inside a composition context.
@@ -1530,13 +1530,13 @@ This feature was funded by `North Road <https://north-road.com/>`__
 This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 
-Feature: expose zonal statistics from Zonal statistics plugin in toolbox
+Feature: Expose zonal statistics from Zonal statistics plugin in toolbox
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This feature was developed by Alexander Bruy
 
 
-Feature: add a spatialite execute SQL algorithm
+Feature: Add a spatialite execute SQL algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This feature was developed by Mathieu Pellerin
@@ -1563,7 +1563,7 @@ This feature was funded by `North Road <https://north-road.com/>`__
 This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 
-Feature: add import into spatialite algorithm
+Feature: Add import into spatialite algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This feature was developed by Mathieu Pellerin
@@ -1639,7 +1639,7 @@ Update help
 This feature was developed by Bernhard Ströbl
 
 
-Feature: pole of inaccessibility algorithm
+Feature: Pole of inaccessibility algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -1754,19 +1754,19 @@ This feature was funded by `North Road <https://north-road.com/>`__
 This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 
-Feature: added ‘invalid feature handling’ option
+Feature: Added ‘invalid feature handling’ option
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This feature was developed by Victor Olaya
 
 
-Feature: algorithm to fix invalid geometries using native makeValid() implementation
+Feature: Algorithm to fix invalid geometries using native makeValid() implementation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This feature was developed by Alexander Bruy
 
 
-Feature: add search to Get Scripts and Models dialog
+Feature: Add search to Get Scripts and Models dialog
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This feature was developed by Alexander Bruy
@@ -1782,7 +1782,7 @@ This feature was funded by `North Road <https://north-road.com/>`__
 This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 
-Feature: improved Extract nodes algorithm
+Feature: Improved Extract nodes algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Extract nodes algorithm now saves node
@@ -1826,7 +1826,7 @@ A new algorithm was added to processing which returns the count and area of each
 This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
 
 
-Feature: remove TauDEM provider from core Processing
+Feature: Remove TauDEM provider from core Processing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We have removed the TauDEM provider from processing.
