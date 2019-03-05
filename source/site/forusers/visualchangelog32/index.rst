@@ -101,7 +101,7 @@ Each map theme will also record which layers, groups and legend items are expand
 
 This feature was funded by `Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project <https://www.arpa.piemonte.it/>`__
 
-This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia <https://www.lutraconsulting.co.uk>`__
+This feature was developed by `Martin Dobias (Lutra Consulting) <https://www.lutraconsulting.co.uk>`__ and `Faunalia <https://www.faunalia.eu>`__
 
 Feature: Auto "Zoom to Selection" mode for new map views
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -204,7 +204,7 @@ This adds a mini-framework for display of extra icons in layer tree views next t
 
 This feature was funded by `Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project <https://www.arpa.piemonte.it/>`__
 
-This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia <https://www.lutraconsulting.co.uk/>`__
+This feature was developed by `Martin Dobias (Lutra Consulting) <https://www.lutraconsulting.co.uk>`__ and `Faunalia <https://www.faunalia.eu>`__
 
 Feature: Allow customizing prefix of locator filters
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -382,7 +382,7 @@ Continuing the metadata work begun in QGIS 3.0, 3.2 now supports metadata for QG
 
 This feature was funded by Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project
 
-This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__ and `Faunalia <https://www.faunalia.eu>`__
 
 Forms and Widgets
 -----------------
@@ -439,7 +439,7 @@ This feature allows users to add extra information to the symbols in the legend.
 
 This feature was funded by `Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project <https://www.arpa.piemonte.it/>`__
 
-This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia <https://www.lutraconsulting.co.uk>`__
+This feature was developed by `Martin Dobias (Lutra Consulting) <https://www.lutraconsulting.co.uk>`__  and `Faunalia <https://www.faunalia.eu>`__
 
 Feature: Copy&Paste Group/Layers from a QGIS project to another.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -732,7 +732,7 @@ Required layers are not allowed to be removed from the project. This adds extra 
 
 This feature was funded by `Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project <https://www.arpa.piemonte.it/>`__
 
-This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia <https://www.lutraconsulting.co.uk>`__
+This feature was developed by `Martin Dobias (Lutra Consulting) <https://www.lutraconsulting.co.uk>`__ and `Faunalia <https://www.faunalia.eu>`__
 
 Feature: Saving and loading projects in PostgreSQL database
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -753,7 +753,7 @@ New API has been introduced that allows creation of custom project storage imple
 
 This feature was funded by `Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project <https://www.arpa.piemonte.it/>`__
 
-This feature was developed by `Martin Dobias, Peter Petrik (Lutra Consulting) and Faunalia <https://www.lutraconsulting.co.uk>`__
+This feature was developed by `Martin Dobias, Peter Petrik (Lutra Consulting) <https://www.lutraconsulting.co.uk>`__ and `Faunalia <https://www.faunalia.eu>`__
 
 Browser
 -------
