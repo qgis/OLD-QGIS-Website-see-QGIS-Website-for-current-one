@@ -1205,7 +1205,7 @@ This feature was developed by `Alessandro Pasotti <https://www.itopen.it>`__
 Feature: OSM Downloader tool removed
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We have removed the OSM downloader tool that was provided in 2.x releases of QGIS. We encourage you to rather use the QuickOSM plugin which is in the process of being ported to QGIS 3.0.
+We have removed the OSM downloader tool that was provided in 2.x releases of QGIS. We encourage you to rather use the QuickOSM plugin which has been ported to QGIS 3.0.
 
 
 Forms and Widgets
