@@ -1038,7 +1038,7 @@ Just move a feature using the new "click - click ergonomy" and use the advanced 
 This feature was developed by Denis Rouzaud
 
 
-Feature: Added functionnality to copy/move feature to move feature map tool
+Feature: Added functionality to copy/move feature to move feature map tool
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This allow to duplicate feature and move them in one move from a selected feature
