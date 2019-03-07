@@ -322,7 +322,7 @@ Data Management
 Feature: Comment option in db manager
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This feature was developed by Corentin.F
+This feature was developed by `Corentin Falcone (SIRS) <https://www.sirs-fr.com/sirs/fr/>`__
 
 Forms and Widgets
 -----------------
