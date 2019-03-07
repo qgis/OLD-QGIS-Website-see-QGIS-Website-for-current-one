@@ -3,7 +3,12 @@
 Who is who in the project
 =========================
 
-QGIS as a Project is currently organised in this way:
+QGIS as a Project is currently organised as an association legally based in Switzerland with the following structure:
+
+.. figure:: /static/site/getinvolved/governance/organization/QGIS-ORG_Organizational_structure.png
+   :alt: QGIS Organizational Structure
+
+   QGIS Organizational Structure
 
 The QGIS project is managed by the Board (3 members, legal representation) and the PSC
 which consists of 6 members (with their individual responsibilities listed in
@@ -40,6 +45,12 @@ Former PSC members are:
 
 Read more about the responsibilities of the PSC :ref:`here <psc>`
 
+Address of the Organization
+----------------------
+
+QGIS.ORG
+Böschacherstrasse 10a
+CH-8624 Grüt (Gossau ZH)
 
 .. _country-voting-members:
 
@@ -114,14 +125,13 @@ Packaging Team
 QGIS is being packaged for different type of operating systems. The people
 responsible for that packages are as following:
 
-* Windows Team: Jürgen E. Fischer, Tim Sutton
-* OS X Team: William Kyngesburye, Peter Petriik
+* Windows Team: Jürgen E. Fischer
+* OS X Team: William Kyngesburye, Peter Petrik
 * Linux Team:
 
   * OpenSuSE RPM Maintainer: Otto Dassau
-  * Fedora RPM Maintainer: Douglas E. Warner
-  * Ubuntu Deb Maintainer: Jürgen E. Fischer, Jachym Cepicky
-  * Debian Deb Maintainer: Jürgen E. Fischer, Niccolo Rigacci
+  * Fedora RPM Maintainer: Daniel Viganò
+  * Debian / Ubuntu Deb Maintainer: Jürgen E. Fischer, Bas Couwenberg
 
 .. _testing-team:
 
