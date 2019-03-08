@@ -15,14 +15,14 @@ which consists of 6 members (with their individual responsibilities listed in
 brackets):
 
 Board
------------------------------------
+-----
 
 * Paolo Cavallini (Chair; Manager of Plugin Repository) [since 4.2018]
 * Marco Bernasocchi (Co-Chair) [since 4.2018] 
 * Andreas Neumann (Treasurer; Contact for Sponsorships) [since 11.2015]
 
 Project Steering Committee
------------------------------------
+--------------------------
 
 * Paolo Cavallini (Chair; Manager of Plugin Repository) [Chair since 4.2018; Co-Chair 1.2008 - 3.2018]
 * Marco Bernasocchi (Co-Chair) [since 4.2018] 
@@ -32,10 +32,9 @@ Project Steering Committee
 * Jürgen Fischer (Release Manager) [since 9.2013]
 
 Honorary PSC members
------------------------------------
+--------------------
 * Gary Sherman (Founder and lifetime Honorary PSC Member)
-* Tim Sutton (awarded Honorary PSC member in 9.2018 
-the FOSS4G in Tanzania)
+* Tim Sutton (awarded Honorary PSC member in 9.2018 the FOSS4G in Tanzania)
 
 Former PSC members are:
 
@@ -46,7 +45,7 @@ Former PSC members are:
 Read more about the responsibilities of the PSC :ref:`here <psc>`
 
 Address of the Organization
-----------------------
+---------------------------
 
 QGIS.ORG
 Böschacherstrasse 10a

@@ -333,8 +333,7 @@ Getting your patch noticed
 
 QGIS developers are busy folk. We do scan the incoming patches on bug reports
 but sometimes we miss things. Don't be offended or alarmed. Try to identify a
-developer to help you - using the :ref:`Technical Resources <technical-resources>` -
-and contact them
+developer to help you and contact them
 asking them if they can look at your patch. If you don't get any response, you
 can escalate your query to one of the Project Steering Committee members
 (contact details also available in the Technical Resources).
