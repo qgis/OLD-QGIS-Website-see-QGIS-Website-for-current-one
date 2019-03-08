@@ -128,7 +128,7 @@ responsible for that packages are as following:
 * OS X Team: William Kyngesburye, Peter Petrik
 * Linux Team:
 
-  * OpenSuSE RPM Maintainer: Otto Dassau
+  * OpenSuSE RPM Maintainer: Angelos Tzotsos
   * Fedora RPM Maintainer: Daniel Viganò
   * Debian / Ubuntu Deb Maintainer: Jürgen E. Fischer, Bas Couwenberg
 

@@ -59,6 +59,10 @@ that **translators** can start their work. Note that this might be an
 incremental process as although the features are frozen, bug fixes might still
 introduce translation string changes.
 
+Two weeks before the release a hard freeze is initiated, after which only fixes
+to severe problems and regressions introduced after the feature freeze are
+allowed in.
+
 The release manager announces this on feature freeze.
 
 Release
@@ -109,6 +113,7 @@ Event Description
 LTR   Long term release, begin of new development phase
 LR    Regular release, begin of new development phase
 FF    Feature freeze, end of development phase
+HF    hard freeze
 SF    Soft freeze with bi-monthly vote
 PR    Point release of latest release and LTR branch
 EPR   Extra Point release
