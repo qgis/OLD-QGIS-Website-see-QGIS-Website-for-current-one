@@ -23,5 +23,5 @@ The PSC will make the final determination. If accepted as a QGIS Certified Organ
 
 If approved you are required to make a €20 donation to the QGIS project for each certificate. This creates a mechanism for financial support of the project.
  
-You can apply through this this form: http://changelog.qgis.org/en/qgis/create-certifyingorganisation/
+You can apply through this form: http://changelog.qgis.org/en/qgis/create-certifyingorganisation/
 
