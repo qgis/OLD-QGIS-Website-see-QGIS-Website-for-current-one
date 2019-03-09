@@ -34,24 +34,6 @@ goes into the project. These sponsors are listed below with our thanks!
 List of past sponsors
 ---------------------
 
-.. image:: /static/site/about/images/gfoss.png
-   :width: 64 px
-   :align: left
-
-We would like to thank GFOSS.it, the Italian Free and Open Source Software
-organisation for the sponsorship they provided to the QGIS project until early
-2012. Visit `GFOSS.it <http://gfoss.it/>`_ for more information (site mainly in
-Italian).
-
-
-.. image:: /static/site/about/images/osgeo.png
-   :width: 64 px
-   :align: left
-
-Also `OSGeo <http://www.osgeo.org/>`_ is partly supporting our HackFests: 2012.10
-in Essen, Germany, 2013.04 in Valmiera, Latvia, 2016.05 in Girona, Spain.
-
-
 :raw-html:`<div id="qgispastsponsorsatom"> <!-- to be filled via javascript loading of atom feed --> </div>`
 
 .. _list_of_donors:
