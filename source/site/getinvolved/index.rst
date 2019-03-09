@@ -15,6 +15,7 @@ Get Involved / Development
     governance/index
     meetings/index
     donations
+    certification
     faq/index
     styleguide
 
