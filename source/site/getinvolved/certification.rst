@@ -1,3 +1,6 @@
+
+.. _certification:
+
 Certification
 =============
 
@@ -14,6 +17,11 @@ The QGIS Certificate Program is designed to promote both community involvement i
 - Publication of open QGIS course ware
 - Authoring QGIS books
 
+.. figure:: images/certificationworkflow.png
+   :alt: Workflow Certification
+
+   Workflow Certification
+
 You are required to provide the training material for each of your courses. This includes exercises, lectures and data. This material will be reviewed for currentness, accurate representation of the QGIS project and overall quality.
 If the material is not of adequate quality, this can be cause for refusal.
 
@@ -23,5 +31,7 @@ The PSC will make the final determination. If accepted as a QGIS Certified Organ
 
 If approved you are required to make a €20 donation to the QGIS project for each certificate. This creates a mechanism for financial support of the project.
  
-You can apply through this form: http://changelog.qgis.org/en/qgis/create-certifyingorganisation/
+You can apply through `this form <certification_link_>`_
+
+.. _certification_link: http://changelog.qgis.org/en/qgis/create-certifyingorganisation/
 
