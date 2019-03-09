@@ -34,4 +34,4 @@ mv qgissponsors.json qgissponsors.json.0
 curl http://changelog.qgis.org/en/qgis/sponsors/json/ -o qgissponsors.json
 # and list of past sponsors too
 mv qgispastsponsors.json qgispastsponsors.json.0
-curl http://changelog.qgis.org/en/qgis/past-sponsors/json/ -o qgispastsponsors.json
+curl http://changelog.qgis.org/en/qgis/past-sponsors/json/?years_limit=2 -o qgispastsponsors.json
