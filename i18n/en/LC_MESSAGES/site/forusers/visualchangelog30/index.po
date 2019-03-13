@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-19 17:16+0100\n"
+"POT-Creation-Date: 2019-03-13 20:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -600,7 +600,6 @@ msgid "Feature: Remove orphaned oracle raster plugin"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:273
-#: ../../source/site/forusers/visualchangelog30/index.rst:1830
 msgid "Feature: remove TauDEM provider from core Processing"
 msgstr ""
 
@@ -1627,7 +1626,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:624
 msgid ""
 "**represent\\_value(value, fieldName)**: Returns the configured "
-"representation value for a field value. It depends on the configured "
+"representafftion value for a field value. It depends on the configured "
 "widget type. Often, this is useful for 'Value Map' widgets."
 msgstr ""
 
@@ -1724,7 +1723,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:668
-msgid "Feature: item\\_variables expression function inside compositions"
+msgid "Feature: Item\\_variables expression function inside compositions"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:670
@@ -2409,9 +2408,7 @@ msgid "This feature was developed by Denis Rouzaud"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1042
-msgid ""
-"Feature: Added functionnality to copy/move feature to move feature map "
-"tool"
+msgid "Feature: Added functionality to copy/move feature to move feature map tool"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1044
@@ -2607,7 +2604,7 @@ msgid "|image95|"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1158
-msgid "Feature: Auxilliary Storage Support"
+msgid "Feature: Auxiliary Storage Support"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1160
@@ -2742,8 +2739,8 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:1208
 msgid ""
 "We have removed the OSM downloader tool that was provided in 2.x releases"
-" of QGIS. We encourage you to rather use the QuickOSM plugin which is in "
-"the process of being ported to QGIS 3.0."
+" of QGIS. We encourage you to rather use the QuickOSM plugin which has "
+"been ported to QGIS 3.0."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1212
@@ -3221,11 +3218,11 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1534
-msgid "Feature: expose zonal statistics from Zonal statistics plugin in toolbox"
+msgid "Feature: Expose zonal statistics from Zonal statistics plugin in toolbox"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1540
-msgid "Feature: add a spatialite execute SQL algorithm"
+msgid "Feature: Add a spatialite execute SQL algorithm"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1546
@@ -3247,7 +3244,7 @@ msgid "Filters an input layer by expression"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1567
-msgid "Feature: add import into spatialite algorithm"
+msgid "Feature: Add import into spatialite algorithm"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1573
@@ -3332,7 +3329,7 @@ msgid "This feature was developed by Bernhard Ströbl"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1643
-msgid "Feature: pole of inaccessibility algorithm"
+msgid "Feature: Pole of inaccessibility algorithm"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1646
@@ -3453,7 +3450,7 @@ msgid "Irretrievably deletes all features from a table... use with caution!"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1758
-msgid "Feature: added ‘invalid feature handling’ option"
+msgid "Feature: Added ‘invalid feature handling’ option"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1760
@@ -3462,12 +3459,12 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1764
 msgid ""
-"Feature: algorithm to fix invalid geometries using native makeValid() "
+"Feature: Algorithm to fix invalid geometries using native makeValid() "
 "implementation"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1770
-msgid "Feature: add search to Get Scripts and Models dialog"
+msgid "Feature: Add search to Get Scripts and Models dialog"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1776
@@ -3479,7 +3476,7 @@ msgid "Reworked centroid algorithm which handles non-polygon layers"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1786
-msgid "Feature: improved Extract nodes algorithm"
+msgid "Feature: Improved Extract nodes algorithm"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1788
@@ -3529,6 +3526,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1824
 msgid "|image107|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:1830
+msgid "Feature: Remove TauDEM provider from core Processing"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1832
@@ -4330,5 +4331,62 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "follow up to raster pseudocolor updated extent auto classification"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**represent\\_value(value, fieldName)**: Returns the"
+#~ " configured representation value for a "
+#~ "field value. It depends on the "
+#~ "configured widget type. Often, this is"
+#~ " useful for 'Value Map' widgets."
+#~ msgstr ""
+
+#~ msgid "Feature: item\\_variables expression function inside compositions"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Feature: Added functionnality to copy/move "
+#~ "feature to move feature map tool"
+#~ msgstr ""
+
+#~ msgid "Feature: Auxilliary Storage Support"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We have removed the OSM downloader "
+#~ "tool that was provided in 2.x "
+#~ "releases of QGIS. We encourage you "
+#~ "to rather use the QuickOSM plugin "
+#~ "which is in the process of being"
+#~ " ported to QGIS 3.0."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Feature: expose zonal statistics from "
+#~ "Zonal statistics plugin in toolbox"
+#~ msgstr ""
+
+#~ msgid "Feature: add a spatialite execute SQL algorithm"
+#~ msgstr ""
+
+#~ msgid "Feature: add import into spatialite algorithm"
+#~ msgstr ""
+
+#~ msgid "Feature: pole of inaccessibility algorithm"
+#~ msgstr ""
+
+#~ msgid "Feature: added ‘invalid feature handling’ option"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Feature: algorithm to fix invalid "
+#~ "geometries using native makeValid() "
+#~ "implementation"
+#~ msgstr ""
+
+#~ msgid "Feature: add search to Get Scripts and Models dialog"
+#~ msgstr ""
+
+#~ msgid "Feature: improved Extract nodes algorithm"
 #~ msgstr ""
 

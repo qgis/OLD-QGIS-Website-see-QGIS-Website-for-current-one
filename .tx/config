@@ -1,6 +1,12 @@
 [main]
 host = https://www.transifex.com
 
+[qgis-website.site_getinvolved_certification]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/certification.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/certification.po
+source_lang = en
+type = PO
+
 [qgis-website.site_getinvolved_meetings_developer_Zurich-2011]
 file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/meetings/developer/Zurich_2011.po
 source_file = i18n/en/LC_MESSAGES/site/getinvolved/meetings/developer/Zurich_2011.po
@@ -487,6 +493,12 @@ source_file = i18n/en/LC_MESSAGES/site/about/case_studies/australia_snowyhydro.p
 source_lang = en
 type = PO
 
+[qgis-website.site_about_case-studies_australia-distance-learning]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/australia_distance_learning.po
+source_file = i18n/en/LC_MESSAGES/site/about/case_studies/australia_distance_learning.po
+source_lang = en
+type = PO
+
 [qgis-website.site_about_case-studies_china-jeffrey]
 file_filter = i18n/<lang>/LC_MESSAGES/site/about/case_studies/china_jeffrey.po
 source_file = i18n/en/LC_MESSAGES/site/about/case_studies/china_jeffrey.po
@@ -844,6 +856,12 @@ type = PO
 [qgis-website.site_forusers_visualchangelog28_index]
 file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/visualchangelog28/index.po
 source_file = i18n/en/LC_MESSAGES/site/forusers/visualchangelog28/index.po
+source_lang = en
+type = PO
+
+[qgis-website.site_forusers_visualchangelog36_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/visualchangelog36/index.po
+source_file = i18n/en/LC_MESSAGES/site/forusers/visualchangelog36/index.po
 source_lang = en
 type = PO
 

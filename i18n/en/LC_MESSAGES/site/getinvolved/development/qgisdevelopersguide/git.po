@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-19 17:16+0100\n"
+"POT-Creation-Date: 2019-03-13 20:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -486,18 +486,17 @@ msgstr ""
 msgid ""
 "QGIS developers are busy folk. We do scan the incoming patches on bug "
 "reports but sometimes we miss things. Don't be offended or alarmed. Try "
-"to identify a developer to help you - using the :ref:`Technical Resources"
-" <technical-resources>` - and contact them asking them if they can look "
-"at your patch. If you don't get any response, you can escalate your query"
-" to one of the Project Steering Committee members (contact details also "
-"available in the Technical Resources)."
+"to identify a developer to help you and contact them asking them if they "
+"can look at your patch. If you don't get any response, you can escalate "
+"your query to one of the Project Steering Committee members (contact "
+"details also available in the Technical Resources)."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:344
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:343
 msgid "Due Diligence"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:346
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:345
 msgid ""
 "QGIS is licensed under the GPL. You should make every effort to ensure "
 "you only submit patches which are unencumbered by conflicting "
@@ -505,11 +504,11 @@ msgid ""
 "happy to have made available under the GPL."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:353
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:352
 msgid "Obtaining GIT Write Access"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:355
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:354
 msgid ""
 "Write access to QGIS source tree is by invitation. Typically when a "
 "person submits several (there is no fixed number here) substantial "
@@ -525,14 +524,14 @@ msgid ""
 " code base without breaking things, etc."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:367
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:366
 msgid ""
 "Since moving to GIT, we are less likely to grant write access to new "
 "developers since it is trivial to share code within github by forking "
 "QGIS and then issuing pull requests."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:371
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:370
 msgid ""
 "Always check that everything compiles before making any commits / pull "
 "requests. Try to be aware of possible breakages your commits may cause "
@@ -540,7 +539,7 @@ msgid ""
 " libraries."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:376
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:375
 msgid ""
 "When making a commit, your editor (as defined in $EDITOR environment "
 "variable) will appear and you should make a comment at the top of the "
@@ -567,5 +566,22 @@ msgstr ""
 #~ "Steering Committee members (contact details"
 #~ " also available in the Technical "
 #~ "Resources)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS developers are busy folk. We "
+#~ "do scan the incoming patches on "
+#~ "bug reports but sometimes we miss "
+#~ "things. Don't be offended or alarmed."
+#~ " Try to identify a developer to "
+#~ "help you - using the :ref:`Technical "
+#~ "Resources <technical-resources>` - and "
+#~ "contact them asking them if they "
+#~ "can look at your patch. If you "
+#~ "don't get any response, you can "
+#~ "escalate your query to one of the"
+#~ " Project Steering Committee members "
+#~ "(contact details also available in the"
+#~ " Technical Resources)."
 #~ msgstr ""
 

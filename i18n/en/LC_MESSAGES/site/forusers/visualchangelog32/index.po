@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-19 17:16+0100\n"
+"POT-Creation-Date: 2019-03-13 20:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -197,7 +197,6 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:281
 #: ../../source/site/forusers/visualchangelog32/index.rst:320
 #: ../../source/site/forusers/visualchangelog32/index.rst:332
-#: ../../source/site/forusers/visualchangelog32/index.rst:385
 #: ../../source/site/forusers/visualchangelog32/index.rst:471
 #: ../../source/site/forusers/visualchangelog32/index.rst:480
 #: ../../source/site/forusers/visualchangelog32/index.rst:491
@@ -272,11 +271,12 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:104
-#: ../../source/site/forusers/visualchangelog32/index.rst:442
+#: ../../source/site/forusers/visualchangelog32/index.rst:207
 #: ../../source/site/forusers/visualchangelog32/index.rst:735
 msgid ""
-"This feature was developed by `Martin Dobias (Lutra Consulting) and "
-"Faunalia <https://www.lutraconsulting.co.uk>`__"
+"This feature was developed by `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk>`__ and `Faunalia "
+"<https://www.faunalia.eu>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:107
@@ -503,12 +503,6 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:203
 msgid "|image9|"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog32/index.rst:207
-msgid ""
-"This feature was developed by `Martin Dobias (Lutra Consulting) and "
-"Faunalia <https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:210
@@ -835,6 +829,12 @@ msgid ""
 "e Dissesto) within ERIKUS project"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:385
+msgid ""
+"This feature was developed by `Nyall Dawson (North Road) <https://north-"
+"road.com>`__ and `Faunalia <https://www.faunalia.eu>`__"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:388
 msgid "Forms and Widgets"
 msgstr ""
@@ -929,6 +929,13 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:438
 msgid "|image19|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:442
+msgid ""
+"This feature was developed by `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk>`__  and `Faunalia "
+"<https://www.faunalia.eu>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:445
@@ -1459,7 +1466,8 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:756
 msgid ""
 "This feature was developed by `Martin Dobias, Peter Petrik (Lutra "
-"Consulting) and Faunalia <https://www.lutraconsulting.co.uk>`__"
+"Consulting) <https://www.lutraconsulting.co.uk>`__ and `Faunalia "
+"<https://www.faunalia.eu>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:759
@@ -1788,5 +1796,23 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "This feature was developed by `Nyall Dawson (North Road) <v>`__"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This feature was developed by `Martin"
+#~ " Dobias (Lutra Consulting) and Faunalia "
+#~ "<https://www.lutraconsulting.co.uk>`__"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This feature was developed by `Martin"
+#~ " Dobias (Lutra Consulting) and Faunalia "
+#~ "<https://www.lutraconsulting.co.uk/>`__"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This feature was developed by `Martin"
+#~ " Dobias, Peter Petrik (Lutra Consulting)"
+#~ " and Faunalia <https://www.lutraconsulting.co.uk>`__"
 #~ msgstr ""
 
