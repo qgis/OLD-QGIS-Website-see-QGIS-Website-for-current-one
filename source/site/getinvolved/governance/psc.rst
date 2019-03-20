@@ -55,6 +55,8 @@ other languages.
    board. The voting members (general meeting) will approve the annual budget and
    the election of any new board members.
 
+#. **Sustaining member** - a non-voting member who supports QGIS.ORG financially.
+
 #. **Financial auditors** - nominated from the whole QGIS Community and they are
    elected by the voting members. The financial auditors shall approve the accounts
    annually.
@@ -83,7 +85,6 @@ other languages.
 
 #. Act as a liaison between the community of QGIS user groups, and third parties
    interested in knowing about or supporting QGIS.
-
 
 4 QGIS.ORG Legal entities
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -165,7 +166,27 @@ Voting memberships will be valid until:
   members will need to be re-elected into the voting membership should they wish to
   return to their former role.
 
-6 The board
+6 Sustaining Members
+^^^^^^^^^^^^^^^^^^^^
+
+Sustaining members are members who support QGIS.ORG financially with an annual membership fee. This membership fee is used to cover expenses of QGIS.ORG infrastructure, events and other initiatives to improve the project. Membership fees help to ensure that the QGIS community and the software we produce can be maintained and improved in a sustainable way. Sustaining members have no voting rights (unless they are simultaneously voting members in which case their voting rights are unaffected).
+
+The following categories are offered for sustaining members, based on their size and assigned through self declaration:
+
+* Small (e.g. for smaller cities or companies up to 10 employees)
+* Medium (e.g. for universities, medium size cities or companies up to 50 employees
+* Large (e.g. for larger cities, provinces or companies up to 100 employees)
+* Flagship (e.g. for companies larger than 100 employees, federal governmental organizations)
+
+Membership fees are approved or changed by the general assembly. They are defined as minimum fees per category, but may be increased if the sustaining member chooses to do so.
+
+Because QGIS.ORG is a world-wide project and different companies, NGOs or governmental organizations have different financial prospects, we do not enforce any membership levels - the organizations pick their own membership level based on self-assessment.
+
+Acceptance of sustaining members shall be subject to the discretion and approval of The Board, who reserve the right to accept or reject applications for sustaining membership and ongoing support memberships as deemed appropriate.
+
+The fees for membership levels and guidelines for management of sustaining members are provided in the governance section of the QGIS.ORG website.
+
+7 The board
 ^^^^^^^^^^^
 
 The board is the legal representation of the QGIS.ORG project with authority to sign legal
@@ -177,7 +198,7 @@ represented by the chair’s signature and a signature of an additional member o
 The treasurer has sole authority to carry out financial transactions provided they are within
 the bounds of the annual budget authorized by the general meeting.
 
-6.1 Election of board members
+7.1 Election of board members
 .............................
 
 Board members shall also be members of the PSC and shall be nominated and elected by
@@ -189,13 +210,13 @@ member’s term, nominees from within the QGIS PSC shall be put forward by the Q
 Voting Members. The outgoing board member shall automatically receive a nomination
 unless he/she no longer wishes to serve on the board.
 
-6.2 Terms of members of the board
+7.2 Terms of members of the board
 .................................
 
 Board members will serve for a two year term.
 
 
-6.3 Composition of the board
+7.3 Composition of the board
 ............................
 
 The board shall include at minimum these roles:
@@ -204,17 +225,17 @@ The board shall include at minimum these roles:
 #. Vice-chair
 #. Treasurer
 
-6.4 Board and PSC Member remuneration
+7.4 Board and PSC Member remuneration
 .......................................
 
 Board and PSC members will receive no remuneration for their services other than
 reimbursement of out-of-pocket expenses incurred when carrying out activities on behalf of
 the board.
 
-7 The Project Steering Committee (PSC)
+8 The Project Steering Committee (PSC)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-7.1 Election of PSC members
+8.1 Election of PSC members
 ...........................
 
 On expiration of a PSC member’s term, nominees from within the QGIS Voting Membership
@@ -234,19 +255,19 @@ awarded PSC membership first and so on in descending order of score of votes rec
 until all PSC memberships have been allocated. A list of currently serving PSC members
 shall be maintained at: https://www.qgis.org/en/site/getinvolved/governance/
 
-7.2 Terms of members of the PSC
+8.2 Terms of members of the PSC
 ...............................
 
 PSC members will serve for a two year term.
 
-7.3 Honorary PSC members
+8.3 Honorary PSC members
 ........................
 
 Gary Sherman, as founder of the QGIS project, shall be accorded lifetime honorary
 membership on the QGIS PSC from its inception. By common vote, QGIS.ORG may award
 any individual a lifetime honorary seat on the PSC.
 
-8 Administration of QGIS.ORG
+9 Administration of QGIS.ORG
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The annual general meeting (AGM) will be held via a virtual forum The online location and
@@ -281,7 +302,7 @@ voting members.
 
 Every officially convened general meeting has a quorum. At elections and for voting a simple
 majority (more than 50%) of the present members decides, except for the cases listed in
-sections 6.1, 7.1. and 5.4.
+sections 7.1, 8.1. and 5.4.
 
 The reporting year and the accounting year starts at January 1 and ends at December 31.
 The correspondence of the QGIS.ORG Association will be carried out in English, unless
@@ -292,10 +313,10 @@ of the voting members affirming the motion. In case of the liquidation of the as
 general meeting can vote on the usage of the assets of the association with a simple
 majority (more than 50% of voters).
 
-9 Financial arrangements
-^^^^^^^^^^^^^^^^^^^^^^^^
+10 Financial arrangements
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The financial revenues of QGIS.ORG shall originate from donations, sponsorships, grant
+The financial revenues of QGIS.ORG shall originate from donations, memberships, grant
 funding and other diverse sources.
 
 The general meeting shall elect two financial auditors each year.
@@ -304,5 +325,5 @@ Limited Liability: the QGIS Association can only be held liable up to the amount
 current assets of the association. Personal liability of members of the board or individual
 other members are excluded.
 
-This charter was approved by the general assembly via Loomio vote on May 8, 2017.
+This charter was approved by the general assembly via Loomio vote on March 17, 2019.
 
