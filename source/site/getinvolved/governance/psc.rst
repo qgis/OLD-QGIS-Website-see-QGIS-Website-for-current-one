@@ -205,9 +205,8 @@ Board members shall also be members of the PSC and shall be nominated and electe
 the general meeting. In an election of board members, the nominee receiving the greatest
 number of votes for each position (chair, vice chair, treasurer) shall be appointed. A tied
 election shall trigger a re-vote until one nominee has the majority. On expiration of a board
-member’s term, nominees from within the QGIS PSC shall be put forward by the QGIS
-
-Voting Members. The outgoing board member shall automatically receive a nomination
+member’s term, nominees from within the QGIS PSC shall be put forward by the QGIS Voting Members.
+The outgoing board member shall automatically receive a nomination
 unless he/she no longer wishes to serve on the board.
 
 7.2 Terms of members of the board
@@ -231,6 +230,12 @@ The board shall include at minimum these roles:
 Board and PSC members will receive no remuneration for their services other than
 reimbursement of out-of-pocket expenses incurred when carrying out activities on behalf of
 the board.
+
+7.5 Replacement of Board Members
+................................
+
+In the event of a board member resigning from the board, the PSC shall put forward from within their
+ranks a replacement for the board who shall serve in that position until the next AGM is called.
 
 8 The Project Steering Committee (PSC)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -305,6 +310,7 @@ majority (more than 50%) of the present members decides, except for the cases li
 sections 7.1, 8.1. and 5.4.
 
 The reporting year and the accounting year starts at January 1 and ends at December 31.
+
 The correspondence of the QGIS.ORG Association will be carried out in English, unless
 otherwise requested by the authorities.
 
@@ -324,6 +330,7 @@ The general meeting shall elect two financial auditors each year.
 Limited Liability: the QGIS Association can only be held liable up to the amount of the
 current assets of the association. Personal liability of members of the board or individual
 other members are excluded.
+
 
 This charter was approved by the general assembly via Loomio vote on March 17, 2019.
 
