@@ -58,7 +58,7 @@ Country Voting Members
 
 According to our statutes, for each country user group that is formed, that
 group will select a QGIS Country User Group Voting Member to represent
-their interests. These voting members are listed :ref:`here<QGIS-usergroups>`.
+their interests. These voting members are listed :ref:`here <QGIS-usergroups>`.
 Please email trademark@qgis.org if you have registered a new country user group, or have
 changed your user group representative.
 
@@ -203,7 +203,7 @@ Werner Macho
 The QGIS Translation is managed by the Community Assistant (Translation
 Team Lead) and supported by additional language specific teams.
 Information about the current documentation status and the translation
-process are provided at the `Translators Corner <https://github.com/qgis/QGIS-Website/blob/master/source/site/getinvolved/translate.rst>`_.
+process are provided at the :ref:`Translators Corner <translate-qgis>`.
 
 Contact : `qgis-community-team <http://lists.osgeo
 .org/mailman/listinfo/qgis-community-team>`_ list
