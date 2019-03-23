@@ -10,7 +10,7 @@ Project Organisation
    psc
    governance
    trademark/index
-   sponsorship/index
+   sustaining_members/index
    annual_general_meetings/index
    annual_reports/index
    finance/index
