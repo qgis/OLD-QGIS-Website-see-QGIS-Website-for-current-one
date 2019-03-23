@@ -1,8 +1,8 @@
 .. _QGIS_finances:
 
-=======
+*******
 Finance
-=======
+*******
 
 Please check the following reports, and see how your donations and sponsorships are important for the progress of the project.
 
