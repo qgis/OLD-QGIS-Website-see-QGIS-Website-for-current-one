@@ -14,6 +14,7 @@ Get Involved / Development
     mailinglists
     governance/index
     meetings/index
+    governance/sustaining_members/index
     donations
     certification
     faq/index
