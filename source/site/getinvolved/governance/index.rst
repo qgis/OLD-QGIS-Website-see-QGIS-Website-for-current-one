@@ -7,7 +7,7 @@ Project Organisation
 .. toctree::
    :maxdepth: 1
 
-   psc
+   charter
    governance
    trademark/index
    sustaining_members/index
