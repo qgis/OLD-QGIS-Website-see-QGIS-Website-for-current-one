@@ -7,7 +7,7 @@ Procedure for the management of sustaining members
 * treasuer checks whether the payment has arrived
 * management of sustaining members is done at our `Projecta website <http://changelog.qgis.org/en/qgis/sponsors/list/>`_
 * sustaining members are sorted by level (flagship, large, medium, small) and the date they were introduced or renewed (newer ones first)
-* past sponsors are listed separately, only for a period of two years.
+* past sustaining members are listed separately, only for a period of two years.
 * logos of flagship, large and medium sustaining members are included in the footer banner on our start page
 * sustaining members are listed in our visual changelog
 * when appropriate, we will do some social media promotion.
