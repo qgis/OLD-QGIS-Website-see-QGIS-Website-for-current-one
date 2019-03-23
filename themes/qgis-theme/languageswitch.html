@@ -90,9 +90,9 @@
         else if (currentPage == "site/about/sponsorship.html" || currentPage.indexOf("visualchangelog")>0){
             // crontab is pulling url's below and copy to /feed at qgis.org
             // http://changelog.qgis.org/en/qgis/sponsors/json/
-            json2html('/feeds/qgissponsors.json', '#qgissponsorsatom', 1000, true, 'span3');
+            json2html('/feeds/qgissponsors.json', '#qgissustainingmembersatom', 1000, true, 'span3');
             // http://changelog.qgis.org/en/qgis/past-sponsors/json/?years_limit=2
-            json2html('/feeds/qgispastsponsors.json', '#qgispastsponsorsatom', 1000, true, 'span3');
+            json2html('/feeds/qgispastsponsors.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
         }
         else if (currentPage == "site/forusers/download.html" || currentPage == "site/forusers/alldownloads.html"){
             $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
