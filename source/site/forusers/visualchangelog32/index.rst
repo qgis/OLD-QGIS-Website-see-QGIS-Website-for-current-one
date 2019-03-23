@@ -6,14 +6,14 @@ Changelog for QGIS 3.2
 
 |image1|
 
-The greatest QGIS release ever! QGIS 3.2 brings a massive list of new changes - the highlights of which we will try to cover here. As always can we remind you that QGIS is an open source project and if you are able to, consider supporting our work through :ref:`donations <QGIS-donations>`, :ref:`sponsorship <QGIS_sponsorship_program>` or contributions to the code documentation, web site and so on.
+The greatest QGIS release ever! QGIS 3.2 brings a massive list of new changes - the highlights of which we will try to cover here. As always can we remind you that QGIS is an open source project and if you are able to, consider supporting our work through :ref:`donations <QGIS-donations>`, :ref:`sustaining memberships <QGIS_sustaining_memberships>` or contributions to the code documentation, web site and so on.
 
 
 **Thanks**
 
 We would like to thank the developers, documenters, testers and all the many folks out there who volunteer their time and effort (or fund people to do so). From the QGIS community we hope you enjoy this release! If you wish to donate time, money or otherwise get involved in making QGIS more awesome, please wander along to `qgis.org <http://qgis.org>`__ and lend a hand!
 
-QGIS is supported by donors and sponsors. A current list of donors who have made financial contributions large and small to the project can be seen on our :ref:`donors list <list_of_donors>`. If you would like to become an official project sponsor, please visit :ref:`our sponsorship page <QGIS-sponsoring>` for details. Sponsoring QGIS helps us to fund our six monthly developer meetings, maintain project infrastructure and fund bug fixing efforts. A complete list of current sponsors is provided below - our very great thank you to all of our sponsors!
+QGIS is supported by donors and sustaining members. A current list of donors who have made financial contributions large and small to the project can be seen on our :ref:`donors list <list_of_donors>`. If you would like to become an official sustaining member, please visit :ref:`our sustaining membership page <QGIS-sustaining_members>` for details. Supporting QGIS helps us to fund our six monthly developer meetings, maintain project infrastructure and fund bug fixing efforts. A complete list of current sustaining members is provided below - our very great thank you to all of our supporters!
 
 QGIS is Free software and you are under no obligation to pay anything to use it - in fact we want to encourage people far and wide to use it regardless of what your financial or social status is - we believe empowering people with spatial decision making tools will result in a better society for all of humanity.
 
@@ -24,7 +24,7 @@ QGIS is Free software and you are under no obligation to pay anything to use it 
 Sponsors for QGIS version 3.2
 -----------------------------
 
-A special thanks to all our :ref:`Sponsors and Donors <QGIS-sponsoring>` for helping us to make this release possible!
+A special thanks to all our :ref:`sustaining members, sponsors and donors <QGIS-sustaining_members>` for helping us to make this release possible!
 
 
 General
