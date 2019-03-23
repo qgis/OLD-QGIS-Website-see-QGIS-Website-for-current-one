@@ -175,6 +175,14 @@ developments for QGIS.
 
 ----
 
+.. |terglobo| image:: /static/site/about/images/terglobo.png
+   :width: 75 px
+
+|terglobo| `Terglobo <https://www.terglobo.nl/>`_
+(based in 's-Hertogenbosch, The Netherlands) provides commercial services and training for QGIS.
+
+----
+
 .. |zuidtlogo| image:: /static/site/about/images/zuidt.png
    :width: 75 px
 
