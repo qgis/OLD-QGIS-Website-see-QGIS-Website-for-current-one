@@ -56,7 +56,7 @@ With your financial contributions we are able to:
 * organize and support our contributor meetings and QGIS conferences
 
 QGIS.ORG wants to be transparent with the funds we receive and how we spend them. Please have
-a look at the financial reports and budgets in our :ref:`QGIS_finances'` section.
+a look at the financial reports and budgets in our :ref:`QGIS_finances` section.
 
 How can you support the QGIS Development
 ========================================
