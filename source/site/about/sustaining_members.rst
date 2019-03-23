@@ -15,19 +15,6 @@ as sustaining members.
 
 For information on becoming a sustaining member, please visit :ref:`QGIS_sustaining_memberships`.
 
-
-.. |small| image:: /static/site/about/images/small.png
-   :width: 60 px
-
-.. |medium| image:: /static/site/about/images/medium.png
-   :width: 75 px
-
-.. |large| image:: /static/site/about/images/large.png
-   :width: 100 px
-
-.. |flagship| image:: /static/site/about/images/flagship.png
-   :width: 150 px
-
 .. _list_of_sustaining_members:
 
 List of current sustaining members or sponsors
