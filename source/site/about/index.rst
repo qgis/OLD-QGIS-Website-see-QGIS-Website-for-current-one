@@ -8,7 +8,7 @@ Discover QGIS
     features
     screenshots
     case_studies/index
-    sponsorship
+    sustaining_members
     shop_goodies
     Blogs<http://planet.qgis.org>
 
