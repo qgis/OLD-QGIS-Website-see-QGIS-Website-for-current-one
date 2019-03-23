@@ -37,17 +37,26 @@ regarded as sponsorships, after that date as sustaining memberships.
 With your financial contributions we are able to:
 
 * keep the QGIS.ORG IT infrastructure up and running. This includes aspects, such as
+  
   * the QGIS.ORG website
   * our issue (bug and feature reporting) system
-  * the continuous integration system that tests each change or pull request against a series of automated unit tests
+  * the continuous integration system that tests each change or pull request against
+    a series of automated unit tests
   * our documentation and API documentation system
+  
 * packaging QGIS for the various operating systems
 * fixing bugs and other issues
 * managing pull requests and do code reviewing
 * mentoring new contributors
 * translating QGIS
-* running our QGIS grant system that allows contributors to work on behind the scenes improvements to the QGIS code base, our infrastructure, documentation or other aspects of our community. Work that otherwise would be hard to do by volunteers only or hard to sell to customers of QGIS development companies
+* running our QGIS grant system that allows contributors to work on behind the scenes
+  improvements to the QGIS code base, our infrastructure, documentation or other aspects
+  of our community. Work that otherwise would be hard to do by volunteers only or hard
+  to sell to customers of QGIS development companies
 * organize and support our contributor meetings and QGIS conferences
+
+QGIS.ORG wants to be transparent with the funds we receive and how we spend them. Please have
+a look at the financial reports and budgets in our :ref:`QGIS_finances'` section.
 
 How can you support the QGIS Development
 ========================================
