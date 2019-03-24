@@ -117,7 +117,7 @@ Please refer to your local tax office for details.
 What is your benefit supporting the QGIS Development?
 =====================================================
 
-Supporting the QGIS project provides the following benefits:
+Supporting the QGIS project as a sustaining member provides the following benefits:
 
 * Ensures the sustainability and health of the QGIS project.
 * Helps with fixing bugs and issues
@@ -135,7 +135,8 @@ Supporting the QGIS project provides the following benefits:
 * No advertising will be placed within the QGIS application itself.
 
 Donors will be listed on the :ref:`QGIS-sustaining_members` page,
-but do not receive the additional benefits listed above for sponsors.
+but do not receive the additional benefits listed above for sustaining members, except for
+the first two items.
 
 Decisions on spending of funds will be made by the QGIS Project Steering Committee,
 proposed in a budget that will be approved or declined by the QGIS.ORG general assembly.
