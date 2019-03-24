@@ -87,7 +87,7 @@
             atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
             atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
         }
-        else if (currentPage == "site/about/sponsorship.html" || currentPage.indexOf("visualchangelog")>0){
+        else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
             // crontab is pulling url's below and copy to /feed at qgis.org
             // http://changelog.qgis.org/en/qgis/sponsors/json/
             json2html('/feeds/qgissponsors.json', '#qgissustainingmembersatom', 1000, true, 'span3');
@@ -147,7 +147,7 @@
     }
     //
     // function to load a json (feed) and create html for it
-    // currently only used for sponsors
+    // currently only used for sustaining members
     //
     function json2html(url, holder, count, showcont, spanclass){
         var html = '';
