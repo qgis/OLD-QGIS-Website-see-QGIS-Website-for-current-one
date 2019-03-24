@@ -154,7 +154,7 @@ Feature: New map expression variables
 -  @map\_crs\_acronym: acronym of the coordinate reference system of the map.
 -  @map\_ellipsoid\_acr: acronym of the ellipsoid of the coordinate reference system of the map.
 -  @map\_crs\_proj4: Proj4 definition of the coordinate reference system.
--  @map\_crs\_wkt: WKT definition of the coordinate reference system.WKT definition of the coordinate reference system.
+-  @map\_crs\_wkt: WKT definition of the coordinate reference system.
 
 This feature was developed by Alexis Roy-Lizotte
 
