@@ -469,7 +469,7 @@ This feature was developed by `Alessandro Pasotti <https://www.itopen.it>`__
 Feature: Mesh calculator
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Similar to raster calculator, mesh calculator works on mesh layers. In addition to the general functions, mesh calculator also provides time aggregate functions. Fore example, if you have a netcdf with daily temperature over a month, you can calculate the average temperature for the whole month for each cell. The output can be filtered by time span or spatial extent.
+Similar to raster calculator, mesh calculator works on mesh layers. In addition to the general functions, mesh calculator also provides time aggregate functions. For example, if you have a netcdf with daily temperature over a month, you can calculate the average temperature for the whole month for each cell. The output can be filtered by time span or spatial extent.
 
 This feature was funded by Lutra Consulting
 
