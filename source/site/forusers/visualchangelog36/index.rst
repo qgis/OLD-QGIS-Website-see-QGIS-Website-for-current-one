@@ -182,7 +182,7 @@ Feature: Multiline selections and editing in code/expression editors
 
 Holding ctrl while selecting in the QGIS expressions and Python script editors allows you to select a multi-line block of text, which can be edited all at once.
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson () <https://north-road.com>`__
 
 Symbology
 ---------
@@ -192,9 +192,9 @@ Feature: Better handling of .XML style libraries
 
 The browser panel now shows QGIS style xml libraries, and these files can also be drag and dropped to a QGIS window. This opens a dialog allowing users to explore the style library, and import styles from the library to their QGIS install.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Optionally force right-hand-rule during polygon symbol rendering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -257,7 +257,7 @@ The option is available from the right click context menu in the categories list
 
 This feature was funded by `SMEC/SJ <http://www.smec.com/en_au>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Show Project Colors in color bound data defined buttons
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -269,9 +269,9 @@ When a project color is selected from the button, the property becomes linked to
 This allows users to define common colors for a project once, and then "bind" symbol, label, layout, etc colors to these preset colors. The link is live, so you change it once, and
 the change is reflected EVERYWHERE. Sure beats updating a color 100 times when it's use has been scattered throughout a project's symbols, labels, etc...
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Style manager dialog improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -281,7 +281,7 @@ The Style Manager dialog has seen a number of improvements:
 -  A new "list view" mode has been added
 -  An "all" tab has been added, which shows all matching symbols (regardless of the symbol type)
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: SLD export for raster styles
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -314,7 +314,7 @@ Feature: New option to avoid minimizing georeferencer when adding points
 
 Users can now choose to avoid the automatic georeferencer window minimisation which occurs when adding new control points from the map canvas. This behaviour can be annoying on multi-monitor setups where it can be desirable to have both windows visible while adding points.
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Data Management
 ---------------
@@ -338,7 +338,7 @@ from their system.
 
 This feature was funded by `SMEC/SJ <http://www.smec.com/en_au>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Map Composer
 ------------
@@ -355,7 +355,7 @@ Feature: Improved handling of text and label export
 
 When exporting a print layout to PDF or SVG formats, users are now given a choice of how text and labels within that layout should be exported. Available options are to convert all text for outlines/curves (the previous default), or to leave text and labels as text objects.
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Map labeling improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -366,9 +366,9 @@ Several improvements have been made regarding how labels are rendered within lay
 -  A new setting allows per-map control of whether partial labels are visible in the map. This defaults to off, (unlike the canvas setting, which defaults to true for a new project) as layouts
    should always default to the settings which produce the highest quality cartographic outputs.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Rework of map item extent/scale shortcuts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -377,9 +377,9 @@ The buttons for setting layout map items to match the current map view (and vice
 
 New actions have also been added to set the map item's scale to match the main canvas scale, and to set the main canvas scale to match the selected layout map's scale. These mirror the existing settings for setting the extent from the canvas and pushing the extent TO the canvas.
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Layout items can "block" map labels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -391,9 +391,9 @@ This allows for more cartographically pleasing maps -- placing labels under othe
 
 The blocking items are set through a map item's properties, under the label settings panel. The setting is per-map item, so you can have a scalebar block the labels for one map in your layout and not others (if you so desire!)
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Warnings on exports
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -406,14 +406,14 @@ When exporting print layouts, QGIS now automatically checks the layout for commo
 
 This feature was funded by `SMEC/SJ <http://www.smec.com/en_au>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Control over stacking position of map overview extents
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 QGIS allows overview extents to be drawn below map labels (the new default), but in 3.6 choices have been added for drawing them below all map layers, or above/below a specific map layer. This allows users to control exactly where in the map item's layer stack the overview will be placed, e.g. allowing them to draw a overview extent below some feature layers such as roads whilst drawing it above other background layers.
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: New expression variables for legend items
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -452,7 +452,7 @@ will show in the output as
 
     My layer (rendered at 1:1000)
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Analysis Tools
 --------------
@@ -487,7 +487,7 @@ Allows for removal of duplicate features, identified using the values in one (or
 
 This feature was funded by `SMEC/SJ <http://www.smec.com/en_au>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Explode HStore algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -508,7 +508,7 @@ This new algorithm forces polygon geometries to respect the Right-Hand-Rule, in 
 
 This feature was funded by QGIS User Group Germany
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Extract Binary Field algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -519,7 +519,7 @@ This new algorithm allows users to extract binary fields to files.
 
 This feature was funded by `SMEC/SJ <http://www.smec.com/en_au>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Split Lines by Maximum Length algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -543,7 +543,7 @@ QgsProcessingParameterAuthConfig parameters are evaluated using QgsProcessingAlg
 
 This feature was funded by `SMEC/SJ <http://www.smec.com/en_au>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: resampling and format options in the gdaladdo algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -557,7 +557,7 @@ This algorithm calculates statistics for a raster layer's values, categorized by
 
 |image14|
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Extract Z values and Extract M values algorithms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -567,7 +567,7 @@ These algorithms allow users to convert z or m values present in feature geometr
 By default the z/m value from the first vertex in the feature is extracted, but optionally statistics can be calculated on ALL the z/m values from the geometry (e.g. calculating
 mean/min/max/sum/etc of z values).
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Geodesic line split at antimeridian algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -580,7 +580,7 @@ If the input geometry contains M or Z values, these will be linearly interpolate
 
 Supports in-place edit mode also.
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Geodesic mode for "Join by Lines (Hub lines)" algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -589,7 +589,7 @@ This allows optional creation of geodesic lines, which represent the shortest di
 
 When geodesic mode is used, it is possible to split the created lines at the antimeridian (±180 degrees longitude), which can improve rendering of the lines. Additionally, the distance between vertices can be specified. A smaller distance results in a denser, more accurate line.
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Raster Surface Volume algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -598,7 +598,7 @@ The SAGA raster surface volume has been ported to a native QGIS algorithm. The S
 
 |image15|
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Resurrected model to Python script functionality
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -609,7 +609,7 @@ The 2.x ability to directly convert a Processing model to an equivalent Python s
 
 This feature was funded by `Solspec <http://solspec.io>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Application and Project Options
 -------------------------------
