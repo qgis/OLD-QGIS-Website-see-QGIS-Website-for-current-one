@@ -464,7 +464,7 @@ OpenCL acceleration is now available by default for raster calculator operations
 
 This feature was funded by Alessandro Pasotti - ItOpen
 
-This feature was developed by `Alessandro Pasotti <http://www.itopen.it>`__
+This feature was developed by `Alessandro Pasotti <https://www.itopen.it>`__
 
 Feature: Mesh calculator
 ~~~~~~~~~~~~~~~~~~~~~~~~
