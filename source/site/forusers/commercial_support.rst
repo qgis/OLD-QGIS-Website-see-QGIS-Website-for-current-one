@@ -54,16 +54,6 @@ technologies.
 
 ----
 
-.. |dms| image:: /static/site/about/images/dms.gif
-   :width: 150 px
-
-|dms| `Digital Mapping Solutions <http://www.mapsolutions.com.au/>`_ (based in
-Australia) has been working with Government and Commercial organisations for over
-15 years and have the products, services and skills to help you take full
-advantage of your GIS investment.
-
-----
-
 .. |faunalia| image:: /static/site/about/images/faunalia.png
    :height: 100 px
 
