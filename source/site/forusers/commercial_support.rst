@@ -138,8 +138,8 @@ actively contributing to the QGIS project since 2007.
 |north_road| `North Road <http://north-road.com/>`_ (based in
 Australia) specialises in custom development solutions for QGIS features
 and fixes, and also offers training and commercial support in the open source
-geospatial stack. North Road has a established history in quality QGIS
-development, and has been responsible for thousands of feature and
+geospatial stack. North Road has an established history in quality QGIS
+development, and has been responsible for thousands of features and
 fixes within the QGIS codebase since 2013.
 
 ----
