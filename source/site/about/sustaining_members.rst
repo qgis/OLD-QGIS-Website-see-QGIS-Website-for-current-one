@@ -15,6 +15,18 @@ as sustaining members.
 
 For information on becoming a sustaining member, please visit :ref:`QGIS_sustaining_memberships`.
 
+.. |bronze| image:: /static/site/about/images/small.png
+   :width: 60 px
+
+.. |silver| image:: /static/site/about/images/medium.png
+   :width: 75 px
+
+.. |gold| image:: /static/site/about/images/large.png
+   :width: 100 px
+
+.. |platinum| image:: /static/site/about/images/flagship.png
+   :width: 150 px
+
 .. _list_of_sustaining_members:
 
 List of current sustaining members or sponsors
