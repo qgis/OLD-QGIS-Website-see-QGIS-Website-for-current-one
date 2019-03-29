@@ -11,7 +11,7 @@ Books
 This page lists books available from others publishers. QGIS does not manage 
 any of them and they are given only to help.
 
-Please write to richard@qgis.org if you want to have your book added here.
+Please write to psc@qgis.org if you want to have your book added here.
 Or you edit this page in github and do a pull request.
 
 Note: Books order is newest first.
