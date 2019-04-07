@@ -32,9 +32,14 @@ Drag and drop your data from one datastore into the other one.
 QGIS Server
 -----------
 
-Publish your QGIS projects and layers as OGC compatible WMS and WFS
+Publish your QGIS projects and layers as OGC compatible WMS, WMTS, WFS and WCS
 services. Control which layers, attributes, layouts and coordinate
 systems are exported.
+QGIS server is considered as a reference implementation for WMS 1.3.
+
+.. figure:: /static/site/about/images/Certified_OGC_Compliant_Logo_Web.gif
+   :alt: QGIS Server OGC cerfication badge
+
 
 .. figure:: /static/site/about/images/qgisserverscreenshot.png
    :alt: QGIS Server
