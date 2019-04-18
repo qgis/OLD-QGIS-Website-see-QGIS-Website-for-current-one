@@ -105,7 +105,7 @@ Join a Project
   Some QGIS organisations are listed now, among them are:
 
   * **QGIS Desktop** for all the pieces of text available in QGIS apps
-    (QGIS Desktop, QGIS Browser and QGIS Server),
+    (QGIS Desktop and QGIS Server),
   * **QGIS Docs and Website** to translate both QGIS web site and current documentation.
 
 - Choose in which part of the project you would like to participate
