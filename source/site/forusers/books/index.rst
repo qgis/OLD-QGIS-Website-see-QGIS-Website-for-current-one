@@ -264,3 +264,28 @@ The book consists of 2 main parts; In the first part, Geographical Information S
 * Authors: Can Ayday, Levent Sabah, Nefise Yaman, Kübra Keser
 * Date: January 2016
 
+Japanese
+======= 
+
+プロ直伝 伝わるデータ・ビジュアル術 ――Excelだけでは作れないデータ可視化レシピ
+*****************************************************************************
+
+* https://gihyo.jp/book/2019/978-4-297-10582-2
+* Authors: Kosuke ASAHI and Others
+* Date: December 2019
+
+
+【改訂新版】［オープンデータ＋QGIS］統計・防災・環境情報がひと目でわかる地図の作り方
+************************************************************************************
+
+* https://gihyo.jp/book/2019/978-4-297-10317-0
+* Authors: Kosuke ASAHI, Shoichi OTOMO, Takayuki MIZUTANI, Norihiro YAMATE
+* Date: December 2018
+
+業務で使う林業QGIS　徹底使いこなしガイド
+****************************************
+
+* http://www.ringyou.or.jp/publish/detail_1409.html
+* Authors: Koichi KITA
+* Date: June 2017
+
