@@ -37,9 +37,9 @@ services. Control which layers, attributes, layouts and coordinate
 systems are exported.
 QGIS server is considered as a reference implementation for WMS 1.3.
 
-.. figure:: /static/site/about/images/Certified_OGC_Compliant_Logo_Web.gif
+.. figure:: /static/site/getinvolved/daily_reports/qgis_server_wms_ogc_badge.png
    :alt: QGIS Server OGC cerfication badge
-
+   :align: center
 
 .. figure:: /static/site/about/images/qgisserverscreenshot.png
    :alt: QGIS Server
