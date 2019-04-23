@@ -237,6 +237,25 @@ Basic Workbook is an introductory text for learning QGIS (2.8)
 * Date: March 2015
 
 
+Japanese
+========
+
+
+【改訂新版】［オープンデータ＋QGIS］統計・防災・環境情報がひと目でわかる地図の作り方
+************************************************************************************
+
+* https://gihyo.jp/book/2019/978-4-297-10317-0
+* Authors: Kosuke ASAHI, Shoichi OTOMO, Takayuki MIZUTANI, Norihiro YAMATE
+* Date: December 2018
+
+業務で使う林業QGIS　徹底使いこなしガイド
+****************************************
+
+* http://www.ringyou.or.jp/publish/detail_1409.html
+* Authors: Koichi KITA
+* Date: June 2017
+
+
 Polish
 ======
 
