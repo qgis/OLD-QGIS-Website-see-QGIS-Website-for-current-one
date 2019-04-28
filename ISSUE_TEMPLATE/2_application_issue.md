@@ -5,7 +5,7 @@ about: ❗️ See https://qgis.org/en/site/getinvolved/development/bugreporting.
 ---
 
 <!--
-QGIS Bug report should not be be reported here.
+QGIS Bug report should not be reported here.
 Check https://qgis.org/en/site/getinvolved/development/bugreporting.html for the proper repository.
 
 Tickets created here will be closed.
