@@ -244,6 +244,14 @@ New Mexico) provides commercial GIS services and support and training in QGIS,
 GRASS GIS and other FOSS GIS applications.
 
 ----
+ 
+.. |Caliper Corporation Mapping Software| image:: /static/site/about/images/caliper.png
+   :width: 75 px
+ 
+|Caliper Corporation Mapping Software| `Caliper Corporation Mapping Software <https://www.caliper.com/maptitude/solutions/gis-consulting-gis-consultants.htm>`_
+(based in Boston, MA, USA) provides commercial GIS software and services, and also QGIS consulting.
+ 
+----
 
 .. |clear_mapping_co| image:: /static/site/about/images/clear_mapping_co.jpg 
    :width: 75 px
