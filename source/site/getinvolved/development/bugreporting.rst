@@ -19,7 +19,7 @@ encountered the issue, the table below indicates the right repository to report 
 ================================================== ======================================================
  Place you found the bug or request a feature for   Place to report the issue
 ================================================== ======================================================
- Applications (QGIS Desktop, QGIS Server)           https://issues.qgis.org/projects/qgis/issues
+ Applications (QGIS Desktop, QGIS Server)           https://github.com/qgis/QGIS/issues
  QGIS Website (https://qgis.org)                    https://github.com/qgis/QGIS-Website/issues
  QGIS Documentation (https://docs.qgis.org)         https://github.com/qgis/QGIS-Documentation/issues
  External plugins                                   The author repository set in the plugin description
