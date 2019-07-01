@@ -20,6 +20,13 @@ Note2: After the english books there are french, greek and polish items
 English
 =======
 
+Discover QGIS 3.x
+******************
+A workbook for Classroom or Independent Study
+
+* https://locatepress.com/dq3
+* Author: Kurt Menke
+* Date: May 2019
 
 Hands-On Geospatial Analysis with R and QGIS
 ********************************************
