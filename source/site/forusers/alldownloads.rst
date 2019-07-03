@@ -95,6 +95,39 @@ cutting edge QGIS testing build (note the warning_).
 Debian/Ubuntu
 -------------
 
+## Easy Installation
+
+1. Open 'Ubuntu Software'.
+2. Search for 'QGIS Desktop'.
+3. Click 'install'.
+
+*This may install an older version, at time of writing this installs version 2.14.18. If you want a newer version, please see below.*
+
+## More Detailed Installation
+
+*This will install the latest stabe version (3.0.x Girona). If you want something different, please see below.*
+
+You need to add the 'universe' source to install software, and add 'https://qgis.org/debian' repository to your list of repoisitories. *If you are new to Ubuntu, this is a fairly common thing to do.*
+
+1. Open Software & Updates (press the Windows key and type in 'soft', then click 'Software & Updates'). 
+2. Make sure that "Community-maintained free and open-source software (universe) is ticked". 
+3. Click **Close**. 
+4. You may be asked to update the information of available software - if so, choose **Reload**. 
+5. Open a Terminal window (press the Windows key and type in 'term', then click 'Terminal')
+6. Type in 'sudo apt-add-repository https://qgis.org/debian' and press enter.
+7. Type in your root or admin password, and press enter *(it will not appear on screen, nor show ***, this is normal)*. 
+8. Update your repository lists by typing '$ sudo apt-get update' at the terminal. 
+9. Install QGIS by typing '$ sudo apt-get install qgis python-qgis qgis-plugin-grass' at the terminal. 
+10. When the messages come up in the terminal, read what they say. It should say: 'Do you want to install XXX with XX space?'. Type 'Y' and press enter. 
+
+*(Last checked with Ubuntu 18.04 LTS on 2018-06-27.)*
+
+## Common Problems
+
+(to be completed)
+
+## Even More Detailed Installation
+
 Default Debian and Ubuntu software repositories often hold older versions of
 QGIS.
 
