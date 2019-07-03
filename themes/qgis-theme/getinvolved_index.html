@@ -104,11 +104,21 @@
             </div>
         </div>
         <hr>
-        <div class="row-fluid" id="translate">
+      <div class="row-fluid" id="document">
             <div class="span3">
-                <img src='../../_static/images/get-involved-translate.png' class="text-center background-mask non-mobile-image wd" alt="translate bubbles icon" />
+                <img src='../../_static/images/get-involved-document.png' class="text-center background-mask non-mobile-image wd" alt="translate bubbles icon" />
             </div>
             <div class="span1"></div>
+            <div class="span8">
+                <h3>{{ _('Document QGIS') }}</h3>
+                <p>{{ _('The QGIS project aims to provide clear documentation concerning a User guide, GIS concepts, and training material. Writing documentation provides an ideal platform for your first contribution to the project. If you want to join to the documentation effort, you can find a gentle introduction and guidelines here:') }}</p>
+                <h4 class="subsection-link">
+                    <a href="{{ pathto('site/getinvolved/document') }}">{{ _('Write Documentation') }}</a>
+                </h4>
+            </div>
+        </div>
+        <hr>
+        <div class="row-fluid" id="translate"> 
             <div class="span8">
                 <h3>{{ _('Translate QGIS') }}</h3>
                 <p>{{ _('The QGIS project provides a gentle GIS introduction, a User Guide, a Coding and Compilation Guide and a API Documentation in english and in some cases also translated into several foreign languages. If you are interested in getting involved with the documentation effort, e.g. translating the english manual into another language, learn how to get started here:') }}</p>
@@ -116,27 +126,27 @@
                     <a href="{{ pathto('site/getinvolved/translate') }}">{{ _('Translate QGIS into your Language') }}</a>
                 </h4>
             </div>
+			<div class="span1"></div>
+			  <div class="span3">
+                <img src='../../_static/images/get-involved-translate.png' class="text-center background-mask non-mobile-image wd" alt="translate bubbles icon" />
+            </div>
         </div>
         <hr>
         <div class="row-fluid" id="plugin">
-            <div class="span8">
+            <div class="span3">
+                <img src='../../_static/images/get-involved-plugin.png' class="text-center background-mask non-mobile-image wd" alt="plugins puzzle icon" />
+            </div>           
+			<div class="span1"></div>
+		    <div class="span8">
                 <h3>{{ _('Develop a Plugin') }}</h3>
                 <p>{{ _('Want to write your own Python plugin? Go here: ') }} <a href="http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/" >{{ _('Developing Python plugins') }}</a>
                 <p>{{ _('Want to develop a C++ plugin? Go here: ') }} <a href="{{ pathto('site/getinvolved/development/plugindevelopment') }}#qgis-cpp-plugin-development" >{{ _('Developing CPP plugins') }}</a>.
                 <p>{{ _('A wide range of great plugins exist for QGIS via the ') }} <a href="http://plugins.qgis.org" target="_blank">{{ _('QGIS Plugin web portal') }}</a>.
             </div>
-            <div class="span1"></div>
-            <div class="span3">
-                <img src='../../_static/images/get-involved-plugin.png' class="text-center background-mask non-mobile-image wd" alt="plugins puzzle icon" />
-            </div>
         </div>
         <hr>
         <div class="row-fluid" id="core">
-            <div class="span3">
-                <img src='../../_static/images/get-involved-core.png' class="text-center background-mask non-mobile-image wd" alt="core gears icon" />
-            </div>
-            <div class="span1"></div>
-            <div class="span8">
+           <div class="span8">
                 <h3>{{ _('Develop QGIS Core') }}</h3>
                 <p>{{ _('QGIS Core consists on the one hand of the libraries enabling you to build custom tailored application by  providing a powerful API. On the other hand it consists of a desktop and server application which expose the possibilities offered by the libraries, offering a user friendly interface.') }}</p>
                 <h4 class="subsection-link">
@@ -146,19 +156,25 @@
                     <a href="{{ pathto('site/getinvolved/development/roadmap') }}#release-schedule">{{ _('QGIS roadmap') }}</a>
                 </h4>
             </div>
+			<div class="span1"></div>
+			<div class="span3">
+                <img src='../../_static/images/get-involved-core.png' class="text-center background-mask non-mobile-image wd" alt="core gears icon" />
+            </div>
         </div>
         <hr>
         <div class="row-fluid" id="donate">
+		    <div class="span3">
+                <img src='../../_static/images/get-involved-donate.png' class="text-center background-mask non-mobile-image wd" alt="donate icon" />
+            </div>
+			<div class="span1"></div>
             <div class="span8">
                 <h3>{{ _('Sponsor & Donate') }}</h3>
                 <p>{{ _('There are two kinds of financial contributions, we accept:') }}</p>
                 <p><strong>{{ _('sponsorships:') }}</strong> {{ _(' annual commitments of funds to the project') }} - <a href="{{ pathto('site/about/sponsorship') }}">{{ _('more information and a list of our sponsors') }}</a></p>
                 <p><strong>{{ _('donations:') }}</strong> {{ _(' one-time financial contributions to the project') }} - we accept <a href="{{ pathto('site/getinvolved/donations') }}">{{ _('donations via a variety of channels') }}</a></p>
             </div>
-            <div class="span1"></div>
-            <div class="span3">
-                <img src='../../_static/images/get-involved-donate.png' class="text-center background-mask non-mobile-image wd" alt="donate icon" />
-            </div>
+            
+            
         </div>
     </div>
 </section>
