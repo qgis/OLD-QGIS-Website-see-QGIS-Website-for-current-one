@@ -257,7 +257,7 @@ Fedora
 
 Get packages for any Fedora by typing::
 
- sudo dnf install qgis qgis-python qgis-grass qgis-server
+ sudo dnf install qgis python3-qgis qgis-grass qgis-server
 
 Default Fedora software repositories often hold older versions of
 QGIS.
@@ -291,11 +291,11 @@ It can be installed with the following commands::
 |               |             | version      | version      | 3D    |
 |               |             |              |              |       |
 +===============+=============+==============+==============+=======+
-| Fedora        | 28          | 3.6          | 7.4          | yes   |
+| Fedora        | 28          | 3.8          | 7.4          | yes   |
 |               +-------------+--------------+--------------+-------+
-|               | 29          | 3.6          | 7.4          | yes   |
+|               | 29          | 3.8          | 7.4          | yes   |
 |               +-------------+--------------+--------------+-------+
-|               | 30          | 3.6          | 7.6          | yes   |
+|               | 30          | 3.8          | 7.6          | yes   |
 +---------------+-------------+--------------+--------------+-------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis/
@@ -356,13 +356,13 @@ to install both client and server applications on the same machine), type::
 |               |             | version      | version      | 3D    |
 |               |             |              |              |       |
 +===============+=============+==============+==============+=======+
-| Fedora        | 28          | 3.7          | 7.4          | yes   |
+| Fedora        | 28          | 3.9          | 7.4          | yes   |
 |               +-------------+--------------+--------------+-------+
-|               | 29          | 3.7          | 7.4          | yes   |
+|               | 29          | 3.9          | 7.4          | yes   |
 |               +-------------+--------------+--------------+-------+
-|               | 30          | 3.7          | 7.6          | yes   |
+|               | 30          | 3.9          | 7.6          | yes   |
 |               +-------------+--------------+--------------+-------+
-|               | rawhide     | 3.7          | 7.6          | yes   |
+|               | rawhide     | 3.9          | 7.6          | yes   |
 +---------------+-------------+--------------+--------------+-------+
 
 Testing builds are updated on a weekly basis.
