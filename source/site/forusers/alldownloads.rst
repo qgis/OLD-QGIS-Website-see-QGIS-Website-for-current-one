@@ -504,21 +504,33 @@ FreeBSD
 QGIS stable
 -----------
 
-To compile QGIS from binary packages type
+To install QGIS from binary packages type
 ::
 
  pkg install qgis
 
-QGIS testing
-------------
-
-To compile QGIS from sources in FreeBSD you need to type
+Or to customize compilation options, you can build it from FreeBSD ports
 ::
 
  cd /usr/ports/graphics/qgis
  make install clean
 
-Note the warning_.
+
+
+QGIS LTR
+-----------
+
+To install QGIS from binary packages type
+::
+
+ pkg install qgis-ltr
+
+Or to customize compilation options, you can build it from FreeBSD ports
+::
+
+ cd /usr/ports/graphics/qgis-ltr
+ make install clean
+
 
 
 Flatpak
