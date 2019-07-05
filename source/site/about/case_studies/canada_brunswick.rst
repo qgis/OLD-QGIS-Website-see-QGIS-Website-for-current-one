@@ -7,7 +7,7 @@ Creating the Fundy Footpath Trail Map with QGIS
    :scale: 60%
    :align: left
 
-The `Fundy Footpath <http://fundyfootpath.info/>`_  is a wilderness hiking trail located
+The Fundy Footpath is a wilderness hiking trail located
 along the Fundy coast of New Brunswick, Canada. It is a charter member of the
 `UNESCO Fundy Biosphere Reserve <http://fundy-biosphere.ca/en/about-us/the-reserve>`_
 and affiliated with the `NB Trails Council Inc. <http://www.sentiernbtrail.com/>`_ and
@@ -100,10 +100,8 @@ from start to finish. I would highly recommend QGIS to both experienced and begi
 Links
 =====
 
-* http://fundyfootpath.info/
 * http://fundy-biosphere.ca/en/about-us/the-reserve
 * http://www.sentiernbtrail.com
-* http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF
 * http://www.snb.ca/gdam-igec/e/2900e_1.asp
 
 
