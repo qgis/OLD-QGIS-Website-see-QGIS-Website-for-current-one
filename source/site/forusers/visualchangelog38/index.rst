@@ -1,4 +1,4 @@
-|image0|
+.. _changelog38:
 
 Changelog for QGIS 3.8
 ======================
@@ -13,7 +13,7 @@ We would like to thank the developers, documenters, testers and all the many fol
 
 QGIS is supported by donors and sponsors. A current list of donors who have made financial contributions large and small to the project can be seen on our donors list. If you would like to become an official project sponsor, please visit our sponsorship page for details. Sponsoring QGIS helps us to fund our six monthly developer meetings, maintain project infrastructure and fund bug fixing efforts. A complete list of current sponsors is provided below - our very great thank you to all of our sponsors!
 
-:raw-html:`<div id="qgissponsorsatom"> <!-- to be filled via javascript loading of atom feed --> </div>`
+:raw-html:`<div id="qgissustainingmembersatom"> <!-- to be filled via javascript loading of atom feed --> </div>`
 
 QGIS is Free software and you are under no obligation to pay anything to use it - in fact we want to encourage people far and wide to use it regardless of what your financial or social status is - we believe empowering people with spatial decision making tools will result in a better society for all of humanity.
 
@@ -369,16 +369,15 @@ This feature was developed by `Alessandro Pasotti <https://www.itopen.it>`__
 Feature: Browse through features in the attribute table form view
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| A new possibility to browse through the attributes of features has been integrated.
-| This makes workflows for *asset management* a lot easier.
+We've added the possibility to browse through the attributes of features in a layer. This makes workflows for *asset management* a **lot** easier! You can:
 
 #. Define a filter
 #. Browse through all matching features
 #. Review and adjust
 
-It allows to also pan and zoom to the geometry of the feature and highlights the current feature.
+You can also pan and zoom to the geometry of the feature or highlight the current feature as you browse.
 
-This replaces the ItemBrowser plugin with core functionality.
+(This replaces the previous ItemBrowser plugin with equivalent inbuilt functionality.)
 
 |image25|
 
@@ -764,8 +763,7 @@ This feature was developed by `Mathieu Pellerin <http://www.imhere-asia.com/>`__
 Feature: Nearest Neighbour search in QgsSpatialIndex
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| We added API to allow accurate nearest neighbor search based on QgsGeometry to QgsGeometry searches via QgsSpatialIndex. In previous QGIS versions only point to geometry nearest neighbour searches were possible. But with this change, you can safely and accurately use QgsSpatialIndex to determine the nearest neighbours between any types of
-| geometries.
+We added API to allow accurate nearest neighbor search based on QgsGeometry to QgsGeometry searches via QgsSpatialIndex. In previous QGIS versions only point to geometry nearest neighbour searches were possible. But with this change, you can safely and accurately use QgsSpatialIndex to determine the nearest neighbours between any types of geometries.
 
 This feature was funded by `North Road <http://north-road.com>`__
 
@@ -932,7 +930,7 @@ Feature: Bug fixes by Victor Olaya
 
 This feature was funded by `QGIS.ORG donors and sponsors <https://www.qgis.org/>`__
 
-This feature was developed by `Victor Olaya <>`__
+This feature was developed by Victor Olaya
 
 Feature: Bug fixes by Even Rouault
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1020,444 +1018,85 @@ This feature was funded by `QGIS.ORG donors and sponsors <https://www.qgis.org/>
 
 This feature was developed by `Loïc Bartoletti <https://oslandia.com/en/>`__
 
-Sponsors for QGIS version 3.8
------------------------------
-
-|image42| Gold : 9000 EUR
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-+--------------------------------------+--------------------------------------+
-| |QGIS user group Denmark|            | |QGIS user group Switzerland|        |
-| QGIS user group Denmark              | QGIS user group Switzerland          |
-+--------------------------------------+--------------------------------------+
-| |QGIS user group Sweden|             |                                      |
-| QGIS user group Sweden               |                                      |
-+--------------------------------------+--------------------------------------+
-
-|image46| Silver : 3000 EUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-+--------------------------------------+--------------------------------------+
-| |AERO ASAHI Corporation|             | |OPENGIS.ch GmbH|                    |
-| AERO ASAHI Corporation               | OPENGIS.ch GmbH                      |
-+--------------------------------------+--------------------------------------+
-| |ARTOGIS a/s|                        | |OSGeo:UK|                           |
-| ARTOGIS a/s                          | OSGeo:UK                             |
-+--------------------------------------+--------------------------------------+
-| |GAIA mbH|                           | |Office of Public Works, Flood Risk  |
-| GAIA mbH                             | Management and Data Management       |
-|                                      | Section|                             |
-|                                      | Office of Public Works, Flood Risk   |
-|                                      | Management and Data Management       |
-|                                      | Section                              |
-+--------------------------------------+--------------------------------------+
-| |GIAP Spółka z Ograniczona           | |QGIS user group Germany|            |
-| Odpowiedzialnoscia|                  | QGIS user group Germany              |
-| GIAP Spółka z Ograniczona            |                                      |
-| Odpowiedzialnoscia                   |                                      |
-+--------------------------------------+--------------------------------------+
-| |LIFA A/S Landinspektører|           | |SECON Private Limited|              |
-| LIFA A/S Landinspektører             | SECON Private Limited                |
-+--------------------------------------+--------------------------------------+
-| |Land Vorarlberg|                    | |Spatial Networks, Inc.|             |
-| Land Vorarlberg                      | Spatial Networks, Inc.               |
-+--------------------------------------+--------------------------------------+
-| |Lutra Consulting|                   | |Terraplan|                          |
-| Lutra Consulting                     | Terraplan                            |
-+--------------------------------------+--------------------------------------+
-| |Mierune LLC|                        | |WIGeoGIS|                           |
-| Mierune LLC                          | WIGeoGIS                             |
-+--------------------------------------+--------------------------------------+
-
-|image63| Bronze : 500 EUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-+--------------------------------------+--------------------------------------+
-| |2D3D.GIS|                           | |Kaplan Open Source Consulting Ltd|  |
-| 2D3D.GIS                             | Kaplan Open Source Consulting Ltd    |
-+--------------------------------------+--------------------------------------+
-| |Agresta S. Coop.|                   | |Le Groupe SYGIF inc.|               |
-| Agresta S. Coop.                     | Le Groupe SYGIF inc.                 |
-+--------------------------------------+--------------------------------------+
-| |Alta ehf|                           | |MHTC Ltd|                           |
-| Alta ehf                             | MHTC Ltd                             |
-+--------------------------------------+--------------------------------------+
-| |Asociación Geoinnova|               | |MappingGIS|                         |
-| Asociación Geoinnova                 | MappingGIS                           |
-+--------------------------------------+--------------------------------------+
-| |BGEO Open GIS, SL|                  | |NaturalGIS|                         |
-| BGEO Open GIS, SL                    | NaturalGIS                           |
-+--------------------------------------+--------------------------------------+
-| |Bathurst Regional Council|          | |OPGK Kraków|                        |
-| Bathurst Regional Council            | OPGK Kraków                          |
-+--------------------------------------+--------------------------------------+
-| |Baumsicht|                          | |OSGeo.JP|                           |
-| Baumsicht                            | OSGeo.JP                             |
-+--------------------------------------+--------------------------------------+
-| |Beacon Environmental|               | |Oester Messtechnik GmbH|            |
-| Beacon Environmental                 | Oester Messtechnik GmbH              |
-+--------------------------------------+--------------------------------------+
-| |CADaGEO|                            | |Omkeere|                            |
-| CADaGEO                              | Omkeere                              |
-+--------------------------------------+--------------------------------------+
-| |CartoData|                          | |Orbitalnet Inc.|                    |
-| CartoData                            | Orbitalnet Inc.                      |
-+--------------------------------------+--------------------------------------+
-| |Chartwell Consultants Ltd.|         | |QTibia Engineering|                 |
-| Chartwell Consultants Ltd.           | QTibia Engineering                   |
-+--------------------------------------+--------------------------------------+
-| |City of Canning|                    | |RaumRegionMensch ZT GmbH|           |
-| City of Canning                      | RaumRegionMensch ZT GmbH             |
-+--------------------------------------+--------------------------------------+
-| |EFN eifel-net Internetprovider      | |Region Midtjylland (Central Denmark |
-| GmbH|                                | Region)|                             |
-| EFN eifel-net Internetprovider GmbH  | Region Midtjylland (Central Denmark  |
-|                                      | Region)                              |
-+--------------------------------------+--------------------------------------+
-| |Forest Design SRL|                  | |SIGMOÉ|                             |
-| Forest Design SRL                    | SIGMOÉ                               |
-+--------------------------------------+--------------------------------------+
-| |GFI - Gesellschaft für              | |SOLTIG (Soluciones en Tecnologías   |
-| Informationstechnologie mbH|         | de Información Geográfica)|          |
-| GFI - Gesellschaft für               | SOLTIG (Soluciones en Tecnologías de |
-| Informationstechnologie mbH          | Información Geográfica)              |
-+--------------------------------------+--------------------------------------+
-| |GIS Mexico - Soluciones Geográficas | |Septima|                            |
-| de México SC|                        | Septima                              |
-| GIS Mexico - Soluciones Geográficas  |                                      |
-| de México SC                         |                                      |
-+--------------------------------------+--------------------------------------+
-| |GIS Support Sp. z o.o.|             | |Sherborn Forest Trails|             |
-| GIS Support Sp. z o.o.               | Sherborn Forest Trails               |
-+--------------------------------------+--------------------------------------+
-| |GKG Kassel, (Dr.-Ing. Claas         | |Solargis s.r.o.|                    |
-| Leiner)|                             | Solargis s.r.o.                      |
-| GKG Kassel, (Dr.-Ing. Claas Leiner)  |                                      |
-+--------------------------------------+--------------------------------------+
-| |Gaia3D, Inc.|                       | |Solve Geosolutions|                 |
-| Gaia3D, Inc.                         | Solve Geosolutions                   |
-+--------------------------------------+--------------------------------------+
-| |GeoS Geodätische Software Andreas   | |Syddjurs Kommune|                   |
-| Hellinge|                            | Syddjurs Kommune                     |
-| GeoS Geodätische Software Andreas    |                                      |
-| Hellinge                             |                                      |
-+--------------------------------------+--------------------------------------+
-| |Gispo Oy|                           | |TYC GIS|                            |
-| Gispo Oy                             | TYC GIS                              |
-+--------------------------------------+--------------------------------------+
-| |Gistree, Lda.|                      | |TerreLogiche|                       |
-| Gistree, Lda.                        | TerreLogiche                         |
-+--------------------------------------+--------------------------------------+
-| |HermeSys, Inc.|                     | |Trage Wegen vzw|                    |
-| HermeSys, Inc.                       | Trage Wegen vzw                      |
-+--------------------------------------+--------------------------------------+
-| |Inforest Research o.c.|             | |Urbsol|                             |
-| Inforest Research o.c.               | Urbsol                               |
-+--------------------------------------+--------------------------------------+
-| |InfraGIS GmbH|                      | |Veitch Lister Consulting|           |
-| InfraGIS GmbH                        | Veitch Lister Consulting             |
-+--------------------------------------+--------------------------------------+
-| |Infraplan Engineering Services Pvt. | |Västra Götalandsregionen|           |
-| Ltd.|                                | Västra Götalandsregionen             |
-| Infraplan Engineering Services Pvt.  |                                      |
-| Ltd.                                 |                                      |
-+--------------------------------------+--------------------------------------+
-| |Ingenieurbüro Kauppert|             | |WhereGroup GmbH & Co. KG|           |
-| Ingenieurbüro Kauppert               | WhereGroup GmbH & Co. KG             |
-+--------------------------------------+--------------------------------------+
-| |Ingenieurbüro Reinhard Beck GmbH &  | |correlate analytics gmbh|           |
-| Co. KG|                              | correlate analytics gmbh             |
-| Ingenieurbüro Reinhard Beck GmbH &   |                                      |
-| Co. KG                               |                                      |
-+--------------------------------------+--------------------------------------+
-| |Integrate Sustainability Pty Ltd|   | |ePrime|                             |
-| Integrate Sustainability Pty Ltd     | ePrime                               |
-+--------------------------------------+--------------------------------------+
-| |K + D Landschaftsplanung AG|        | |map-site|                           |
-| K + D Landschaftsplanung AG          | map-site                             |
-+--------------------------------------+--------------------------------------+
-
-.. |image0| image:: images/projects/4ba1280c5037bc85ccedcbd39dab18eb725729c5.png
 .. |image1| image:: images/projects/403e44c7e958cff5d07a1eaf12af76ade88c564d.png
    :class: img-responsive img-rounded center-block
 .. |image2| image:: images/entries/thumbnails/e912304d18194a43111a2f054b7f1dba931985d4.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/e912304d18194a43111a2f054b7f1dba931985d4.png
+   :class: img-responsive img-rounded
 .. |image3| image:: images/entries/thumbnails/8a99e041656f5d3d1fa504636aa36b0046efe532.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/8a99e041656f5d3d1fa504636aa36b0046efe532.png
+   :class: img-responsive img-rounded
 .. |image4| image:: images/entries/thumbnails/61f13b52d685dcd67c7c9cc8dbb6daa269ed096a.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/61f13b52d685dcd67c7c9cc8dbb6daa269ed096a.png
+   :class: img-responsive img-rounded
 .. |image5| image:: images/entries/thumbnails/a0f55caed98366ae6eaa0e413d425259aa613b9b.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/a0f55caed98366ae6eaa0e413d425259aa613b9b.png
+   :class: img-responsive img-rounded
 .. |image6| image:: images/entries/thumbnails/7be374a464bde6d79745c1fedfc6075886f09b31.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/7be374a464bde6d79745c1fedfc6075886f09b31.png
+   :class: img-responsive img-rounded
 .. |image7| image:: images/entries/thumbnails/d540197d4a5088df43cac495dc1a88b931131cfe.png.400x300_q85_crop.jpg
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/d540197d4a5088df43cac495dc1a88b931131cfe.png
+   :class: img-responsive img-rounded
 .. |image8| image:: images/entries/thumbnails/4101a09e0fa63aada9acce23092bb29e16db1114.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/4101a09e0fa63aada9acce23092bb29e16db1114.png
+   :class: img-responsive img-rounded
 .. |image9| image:: images/entries/thumbnails/0cda10ddf2bac42e77b7cfc9ada813e4a26353a5.gif.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/0cda10ddf2bac42e77b7cfc9ada813e4a26353a5.gif
+   :class: img-responsive img-rounded
 .. |image10| image:: images/entries/thumbnails/abc08ecfe2a879424b3f8e96c26b0391e342090e.png.400x300_q85_crop.jpg
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/abc08ecfe2a879424b3f8e96c26b0391e342090e.png
+   :class: img-responsive img-rounded
 .. |image11| image:: images/entries/thumbnails/6e77320c7766d11f25893f9c2de2e7de57eab488.png.400x300_q85_crop.jpg
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/6e77320c7766d11f25893f9c2de2e7de57eab488.png
+   :class: img-responsive img-rounded
 .. |image12| image:: images/entries/thumbnails/f0d7bb5632bfaa9c9feafb12e7b258c312ba66a6.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/f0d7bb5632bfaa9c9feafb12e7b258c312ba66a6.png
+   :class: img-responsive img-rounded
 .. |image13| image:: images/entries/thumbnails/13a7660953586fea69df8afea7f75dd5d457fce8.jpg.400x300_q85_crop.jpg
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/13a7660953586fea69df8afea7f75dd5d457fce8.jpg
+   :class: img-responsive img-rounded
 .. |image14| image:: images/entries/thumbnails/7a0dd68c9a38f6e4b4f0177ae53978710df89ad5.png.400x300_q85_crop.jpg
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/7a0dd68c9a38f6e4b4f0177ae53978710df89ad5.png
+   :class: img-responsive img-rounded
 .. |image15| image:: images/entries/thumbnails/024918bb03f4620a2b5d32926322d0644c782bb8.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/024918bb03f4620a2b5d32926322d0644c782bb8.png
+   :class: img-responsive img-rounded
 .. |image16| image:: images/entries/thumbnails/13f09f754dea12a13b9d9aeb8606e86582e87e3f.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/13f09f754dea12a13b9d9aeb8606e86582e87e3f.png
+   :class: img-responsive img-rounded
 .. |image17| image:: images/entries/thumbnails/6eac3dcc7d9053f16733306878fb0cebf993737a.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/6eac3dcc7d9053f16733306878fb0cebf993737a.png
+   :class: img-responsive img-rounded
 .. |image18| image:: images/entries/thumbnails/e83795c8c525c092fa9b68172ecdf9f713e5f15a.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/e83795c8c525c092fa9b68172ecdf9f713e5f15a.png
+   :class: img-responsive img-rounded
 .. |image19| image:: images/entries/thumbnails/77c53d02f719feaf03e7e3d9cea8468645aa81e3.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/77c53d02f719feaf03e7e3d9cea8468645aa81e3.png
+   :class: img-responsive img-rounded
 .. |image20| image:: images/entries/thumbnails/c0703ea4a49115bfb398d174aa727c7e0fc67240.gif.400x300_q85_crop.jpg
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/c0703ea4a49115bfb398d174aa727c7e0fc67240.gif
+   :class: img-responsive img-rounded
 .. |image21| image:: images/entries/thumbnails/a58caabea738a7e34529b9aeb2bb1d4cd307cf50.gif.400x300_q85_crop.jpg
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/a58caabea738a7e34529b9aeb2bb1d4cd307cf50.gif
+   :class: img-responsive img-rounded
 .. |image22| image:: images/entries/thumbnails/e518f5fc5b2decdbaba6272249cdfb3b6c2ad2fe.gif.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/e518f5fc5b2decdbaba6272249cdfb3b6c2ad2fe.gif
+   :class: img-responsive img-rounded
 .. |image23| image:: images/entries/thumbnails/3932162893e8bb8d20d284d7a99ead2de9dac601.gif.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/3932162893e8bb8d20d284d7a99ead2de9dac601.gif
+   :class: img-responsive img-rounded
 .. |image24| image:: images/entries/thumbnails/8627ae1acd4ed30ae116e3b79679ecb5cad3241a.gif.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/8627ae1acd4ed30ae116e3b79679ecb5cad3241a.gif
+   :class: img-responsive img-rounded
 .. |image25| image:: images/entries/thumbnails/f034aaf2a173be885b5f8fca36e3b577795ad1de.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/f034aaf2a173be885b5f8fca36e3b577795ad1de.png
+   :class: img-responsive img-rounded
 .. |image26| image:: images/entries/thumbnails/ebabefc4ccc4b71dcffda0508834b709fddec635.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/ebabefc4ccc4b71dcffda0508834b709fddec635.png
+   :class: img-responsive img-rounded
 .. |image27| image:: images/entries/thumbnails/d265fa2b9bab9184d25244f0cd8aececb5136e66.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/d265fa2b9bab9184d25244f0cd8aececb5136e66.png
+   :class: img-responsive img-rounded
 .. |image28| image:: images/entries/thumbnails/6b783ea6f8bb83c8f45844681ed7221126be4782.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/6b783ea6f8bb83c8f45844681ed7221126be4782.png
+   :class: img-responsive img-rounded
 .. |image29| image:: images/entries/thumbnails/e20e687223b884d70737f09130f0e9792974eed6.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/e20e687223b884d70737f09130f0e9792974eed6.png
+   :class: img-responsive img-rounded
 .. |image30| image:: images/entries/thumbnails/b9af6c101c6c22836c4dec3b78a6ce3d6b7e1bcd.png.400x300_q85_crop.jpg
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/b9af6c101c6c22836c4dec3b78a6ce3d6b7e1bcd.png
+   :class: img-responsive img-rounded
 .. |image31| image:: images/entries/thumbnails/77dfad7d869283213cfc54a96e5ced2ad69d259a.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/77dfad7d869283213cfc54a96e5ced2ad69d259a.png
+   :class: img-responsive img-rounded
 .. |image32| image:: images/entries/thumbnails/dfd820ccdc499878a5d7c818f03cd2d586311945.png.400x300_q85_crop.jpg
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/dfd820ccdc499878a5d7c818f03cd2d586311945.png
+   :class: img-responsive img-rounded
 .. |image33| image:: images/entries/thumbnails/a10b7ebe75528742860a666be9de2d1365de3b73.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/a10b7ebe75528742860a666be9de2d1365de3b73.png
+   :class: img-responsive img-rounded
 .. |image34| image:: images/entries/thumbnails/5633452beec85bb6486092463af4553c02aa6165.PNG.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/5633452beec85bb6486092463af4553c02aa6165.PNG
+   :class: img-responsive img-rounded
 .. |image35| image:: images/entries/thumbnails/f78e2f7a712f8a5cc1d5e9e20b4bb378598c1180.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/f78e2f7a712f8a5cc1d5e9e20b4bb378598c1180.png
+   :class: img-responsive img-rounded
 .. |image36| image:: images/entries/thumbnails/a0026a05eea40004dfd250cf1a2ff492fdeb1b58.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/a0026a05eea40004dfd250cf1a2ff492fdeb1b58.png
+   :class: img-responsive img-rounded
 .. |image37| image:: images/entries/thumbnails/35c02288524968f8ea021f9a64fcd64b9ec328f9.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/35c02288524968f8ea021f9a64fcd64b9ec328f9.png
+   :class: img-responsive img-rounded
 .. |image38| image:: images/entries/thumbnails/f311137d05c73b9ba673d6b68669b7117589dacd.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/f311137d05c73b9ba673d6b68669b7117589dacd.png
+   :class: img-responsive img-rounded
 .. |image39| image:: images/entries/thumbnails/8750f1c2e3c3919926fd2cb97488da071f7efc85.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/8750f1c2e3c3919926fd2cb97488da071f7efc85.png
+   :class: img-responsive img-rounded
 .. |image40| image:: images/entries/thumbnails/28da67ad96ccda7a8a64b261db17bf33be4b3f69.gif.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/28da67ad96ccda7a8a64b261db17bf33be4b3f69.gif
+   :class: img-responsive img-rounded
 .. |image41| image:: images/entries/thumbnails/d0543abc36459754e4e3630e3703f0f1169ba7b3.png.400x300_q85_crop.png
-   :class: img-responsive img-rounded pull-right
-   :name: images/entries/d0543abc36459754e4e3630e3703f0f1169ba7b3.png
-.. |image42| image:: images/projects/thumbnails/d5fd4af2929840586da0bd45110758c5b0a786ff.png.50x50_q85.png
-.. |QGIS user group Denmark| image:: images/projects/thumbnails/d21940f669c52525e7d73835885f27a570d3c80c.png.150x50_q85.png
-   :target: http://www.qgis.dk/
-.. |QGIS user group Switzerland| image:: images/projects/thumbnails/b9c08a00a74cba8e406e97f94a1f90595f5ac39d.png.150x50_q85.png
-   :target: http://www.qgis.ch/
-.. |QGIS user group Sweden| image:: images/projects/thumbnails/f534d8378b714e7eeab445ba4faf3fab460831e2.png.150x50_q85.png
-   :target: http://www.qgis.se/
-.. |image46| image:: images/projects/thumbnails/0d8ae6aad78ca052492dff96434ddb54d5401262.png.50x50_q85.png
-.. |AERO ASAHI Corporation| image:: images/projects/thumbnails/c4dc52859104f35bfb44e25b4335fa67859ad587.png.150x50_q85.png
-   :target: https://www.aeroasahi.co.jp/english/
-.. |OPENGIS.ch GmbH| image:: images/projects/thumbnails/90cd739fbb1c9f3b5472bef5fbd2c9ded8b75b8a.png.150x50_q85.png
-   :target: http://www.opengis.ch/
-.. |ARTOGIS a/s| image:: images/projects/thumbnails/07de9503591659c51628fb035d306762be799702.png.150x50_q85.png
-   :target: http://www.artogis.dk/
-.. |OSGeo:UK| image:: images/projects/thumbnails/52c472ba247f5745ea6747e97e8f5624536ed571.png.150x50_q85.jpg
-   :target: http://www.osgeo.org/uk/
-.. |GAIA mbH| image:: images/projects/thumbnails/f6379f3083e612fd47917e1f948d795b6951dde9.png.150x50_q85.png
-   :target: http://www.gaia-mbh.de/
-.. |Office of Public Works, Flood Risk Management and Data Management Section| image:: images/projects/thumbnails/35602d87c0858381e9a95a481808b27249f0f592.jpg.150x50_q85.jpg
-   :target: http://www.opw.ie/
-.. |GIAP Spółka z Ograniczona Odpowiedzialnoscia| image:: images/projects/thumbnails/868cf9735efe3246bf0e14b195878851f31d6b86.png.150x50_q85.png
-   :target: www.giap.pl
-.. |QGIS user group Germany| image:: images/projects/thumbnails/9e65278db4b4cbe588be7125347a5aa699911a98.png.150x50_q85.png
-   :target: http://www.qgis.de/
-.. |LIFA A/S Landinspektører| image:: images/projects/thumbnails/4732da8f4d54c9d3217c3489e2d817656bafe334.jpg.150x50_q85.jpg
-   :target: https://www.lifa.dk/
-.. |SECON Private Limited| image:: images/projects/thumbnails/c25f2b56a791a00909fcb03883f7b35187b6e368.jpg.150x50_q85.jpg
-   :target: https://www.secon.in
-.. |Land Vorarlberg| image:: images/projects/thumbnails/5f50b148aecade6339b100f1ad30897b81ca9a09.jpg.150x50_q85.jpg
-   :target: http://www.vorarlberg.at/
-.. |Spatial Networks, Inc.| image:: images/projects/thumbnails/ae367e8695ac064fa15a4e0ee37714f796f26255.png.150x50_q85.png
-   :target: https://spatialnetworks.com/
-.. |Lutra Consulting| image:: images/projects/thumbnails/0d5fea827c8bfc486877065e21d3e28f89788e78.png.150x50_q85.png
-   :target: http://www.lutraconsulting.co.uk/
-.. |Terraplan| image:: images/projects/thumbnails/0a11f16bbeec25c03a5dd82f9d52d4fe708b1570.png.150x50_q85.png
-   :target: http://www.terraplan.com/
-.. |Mierune LLC| image:: images/projects/thumbnails/532f695887b3175497dee3675fb4dfd2cdf0fa98.png.150x50_q85.png
-   :target: http://www.mierune.co.jp/
-.. |WIGeoGIS| image:: images/projects/thumbnails/48df7ad58a98d7d7cb14062172a9ea6dca7e9587.png.150x50_q85.jpg
-   :target: https://www.wigeogis.com/
-.. |image63| image:: images/projects/thumbnails/0e2f6fb1efc89d41120cddf90509374642d400b4.png.50x50_q85.png
-.. |2D3D.GIS| image:: images/projects/thumbnails/b3196a2b5781e788e6adac40ecf6964eddc4d38e.png.150x50_q85.png
-   :target: http://www.2d3d-gis.com/
-.. |Kaplan Open Source Consulting Ltd| image:: images/projects/thumbnails/a6c64bafe89acb6f788df38bcdd3fef64d74a6fb.png.150x50_q85.png
-   :target: https://kaplanopensource.co.il/
-.. |Agresta S. Coop.| image:: images/projects/thumbnails/9f077ff1382287df265de26509fe88d5c618d152.png.150x50_q85.jpg
-   :target: http://agresta.org/
-.. |Le Groupe SYGIF inc.| image:: images/projects/thumbnails/431ca910205a75c53ac8cd396540587e657836a2.jpeg.150x50_q85.jpg
-   :target: http://www.sygif.qc.ca/
-.. |Alta ehf| image:: images/projects/thumbnails/f1efb1c25a3fee168c6b7570cd6a092901c16420.png.150x50_q85.png
-   :target: http://www.alta.is/
-.. |MHTC Ltd| image:: images/projects/thumbnails/430a5e17c5bbe6b4dffbbc51da6d1598390f051b.png.150x50_q85.png
-   :target: http://www.mhtc.co.uk/
-.. |Asociación Geoinnova| image:: images/projects/thumbnails/bba9a55eb7e288e622e7bf40ee85326c28cf09f3.jpg.150x50_q85.jpg
-   :target: http://geoinnova.org/
-.. |MappingGIS| image:: images/projects/thumbnails/775de328b2774c112cc73fb5aaaee9696220649b.png.150x50_q85.png
-   :target: http://www.mappinggis.com/
-.. |BGEO Open GIS, SL| image:: images/projects/thumbnails/c8dbccba699fc2f34ef61b034f7b86adfd96f4c4.png.150x50_q85.jpg
-   :target: www.bgeo.es
-.. |NaturalGIS| image:: images/projects/thumbnails/c0a0c841102314b77b8fe19ea2a88e66d7ac8d8d.png.150x50_q85.png
-   :target: http://www.naturalgis.pt
-.. |Bathurst Regional Council| image:: images/projects/thumbnails/a173ff3c73ad8992905e7ee8e197b5e5630280f1.png.150x50_q85.png
-   :target: https://www.bathurst.nsw.gov.au/
-.. |OPGK Kraków| image:: images/projects/thumbnails/26b0eb6116114e718782ebcea1ff54d5a57e0483.jpg.150x50_q85.jpg
-   :target: http://en.opgk.krakow.pl/
-.. |Baumsicht| image:: images/projects/thumbnails/ba5b6d1e6efdc7a9475667842a2cefc775a73ae5.png.150x50_q85.png
-   :target: https://baumsicht.de/
-.. |OSGeo.JP| image:: images/projects/thumbnails/5e8de527e9b1398d315d33cdf359c3884a857165.png.150x50_q85.png
-   :target: http://www.osgeo.jp/
-.. |Beacon Environmental| image:: images/projects/thumbnails/4613bcce01f588a2656a121dcd87a1de3849a634.png.150x50_q85.jpg
-   :target: http://www.beaconenviro.com/
-.. |Oester Messtechnik GmbH| image:: images/projects/thumbnails/f7693203a4d877f0f28a8aeb5e5d3106b00b72c6.png.150x50_q85.png
-   :target: https://messtechnik.ch/
-.. |CADaGEO| image:: images/projects/thumbnails/bd4d410bda1a17d7bdb4d2ffbf117794a2e724be.png.150x50_q85.jpg
-   :target: http://www.cadageo.com/
-.. |Omkeere| image:: images/projects/thumbnails/d7f76dbd4e0656b2018b43cff0fbb04df4b38a6d.png.150x50_q85.jpg
-   :target: https://omkeere.com/
-.. |CartoData| image:: images/projects/thumbnails/86e34db34ea54056ad0af410cdae4dd681b3dff7.png.150x50_q85.png
-   :target: http://www.cartodata.com/
-.. |Orbitalnet Inc.| image:: images/projects/thumbnails/4ec357d6fdce54683cba0df4f16d833e42f38765.png.150x50_q85.png
-   :target: https://www.orbitalnet.jp/
-.. |Chartwell Consultants Ltd.| image:: images/projects/thumbnails/6562e216c8bd122945b9658b7e4218e19eb60cc5.png.150x50_q85.png
-   :target: http://www.chartwell-consultants.com/
-.. |QTibia Engineering| image:: images/projects/thumbnails/07586ed5245a121df751e99bc4e9de865e2b1652.png.150x50_q85.png
-   :target: https://qtibia.ro/
-.. |City of Canning| image:: images/projects/thumbnails/fa16def6b9c0dddd8efd27bcecb8c2ead20d88be.png.150x50_q85.png
-   :target: http://www.canning.wa.gov.au/
-.. |RaumRegionMensch ZT GmbH| image:: images/projects/thumbnails/94ac2de20d98f6d16d3e6b0f6ce4b150898f9944.png.150x50_q85.png
-   :target: http://www.raumregionmensch.at/
-.. |EFN eifel-net Internetprovider GmbH| image:: images/projects/thumbnails/74ec3e4041be2173a0fbbc5a7ee0e87152e94a66.png.150x50_q85.png
-   :target: http://www.eifel-net.net/
-.. |Region Midtjylland (Central Denmark Region)| image:: images/projects/thumbnails/c0e42d39f01dad0b50bdfc6219b55feef2c26150.png.150x50_q85.jpg
-   :target: http://www.rm.dk/om-os/english/regional-development/
-.. |Forest Design SRL| image:: images/projects/thumbnails/aa189f9ea77233d06c4e154124685ef1bdae20c8.jpg.150x50_q85.jpg
-   :target: http://www.forestdesign.ro/
-.. |SIGMOÉ| image:: images/projects/thumbnails/ad998390b607b98b219a98118a163b97cf3ceb1a.png.150x50_q85.png
-   :target: http://sigmoe.fr/
-.. |GFI - Gesellschaft für Informationstechnologie mbH| image:: images/projects/thumbnails/44113fc21a8e2cd84d93459d0f00b3a64850095c.png.150x50_q85.jpg
-   :target: http://www.gfi-gis.de/
-.. |SOLTIG (Soluciones en Tecnologías de Información Geográfica)| image:: images/projects/thumbnails/0baa83c55c7c6194627e87ca81c9dffd4eee9ad1.png.150x50_q85.png
-   :target: http://www.soltig.net/
-.. |GIS Mexico - Soluciones Geográficas de México SC| image:: images/projects/thumbnails/df7f93968d341c1de90c1c195fe0b9cbf33d9835.png.150x50_q85.png
-   :target: http://www.gismexico.mx/
-.. |Septima| image:: images/projects/thumbnails/037aae845f0e3957e65624216eb71b51d8c7c59c.png.150x50_q85.png
-   :target: http://www.septima.dk/
-.. |GIS Support Sp. z o.o.| image:: images/projects/thumbnails/879213e1d9dd7d4e4adb87abf81c96c26c25cd36.png.150x50_q85.jpg
-   :target: http://www.gis-support.com/
-.. |Sherborn Forest Trails| image:: images/projects/thumbnails/bab393291cd8db63772dcdbb5cf4268f1512f31d.png.150x50_q85.png
-   :target: http://www.sherbornforestandtrail.org/
-.. |GKG Kassel, (Dr.-Ing. Claas Leiner)| image:: images/projects/thumbnails/06d9ce325f919f08b4ba76714d981182ce2c4f2f.png.150x50_q85.jpg
-   :target: http://www.gkg-kassel.de/
-.. |Solargis s.r.o.| image:: images/projects/thumbnails/307bd93f35f5edb9c25c4c313d30f8fe50e54877.png.150x50_q85.png
-   :target: http://solargis.com/
-.. |Gaia3D, Inc.| image:: images/projects/thumbnails/9d30ee055aaea7ef42b807b1b4fcd22566eef69d.png.150x50_q85.png
-   :target: http://www.gaia3d.com/
-.. |Solve Geosolutions| image:: images/projects/thumbnails/926b1c54e976b76b9a0da00e43d611ea85ccbaf8.png.150x50_q85.png
-   :target: https://www.solvegeosolutions.com/
-.. |GeoS Geodätische Software Andreas Hellinge| image:: images/projects/thumbnails/8c5ddf3eac42e04913c403e828d959945a335941.png.150x50_q85.jpg
-   :target: http://www.geos-hellinge.de/
-.. |Syddjurs Kommune| image:: images/projects/thumbnails/ebeedeb0b3c357529d144efba284e3ee9d62f77d.png.150x50_q85.png
-   :target: http://www.syddjurs.dk/
-.. |Gispo Oy| image:: images/projects/thumbnails/45a35ef716ab504a99bcd0c57b3d11ec74b1bd06.png.150x50_q85.png
-   :target: http://www.gispo.fi/en/home/
-.. |TYC GIS| image:: images/projects/thumbnails/e2c84a2441203bc48c9ceaf96e7e7dcec0f8942f.png.150x50_q85.png
-   :target: http://tycgis.com/
-.. |Gistree, Lda.| image:: images/projects/thumbnails/b621eb6030a42c31847e911a36e24775bfc5376e.png.150x50_q85.png
-   :target: http://www.gistree.pt/
-.. |TerreLogiche| image:: images/projects/thumbnails/9e23fb4e1f0416131843750f07e75a9f9d1e724d.jpg.150x50_q85.jpg
-   :target: http://www.terrelogiche.com/
-.. |HermeSys, Inc.| image:: images/projects/thumbnails/99c1ef45dd6d95d3c0c19d5c08cfe853bd3ee454.png.150x50_q85.png
-   :target: http://hermesys.co.kr/
-.. |Trage Wegen vzw| image:: images/projects/thumbnails/fb11e6984d5cd9a2addf91d80b639d8c2896616f.png.150x50_q85.png
-   :target: http://www.tragewegen.be/
-.. |Inforest Research o.c.| image:: images/projects/thumbnails/8d95c2b72d6d2fbbd9b7ab414a9fccdd6d6a77a8.png.150x50_q85.png
-   :target: http://www.inforest.gr/
-.. |Urbsol| image:: images/projects/thumbnails/af9b8c3a4363482f12c7b2dff14659fd9ff6240c.png.150x50_q85.jpg
-   :target: http://www.urbsol.com.au/
-.. |InfraGIS GmbH| image:: images/projects/thumbnails/ca360456bf93629eb14139ab6d5e9b27496e9470.png.150x50_q85.png
-   :target: https://www.infragis.at/
-.. |Veitch Lister Consulting| image:: images/projects/thumbnails/1ddf84ecc787ab431b954e956280cb7f7d4a2ff1.png.150x50_q85.png
-   :target: http://www.veitchlister.com.au/
-.. |Infraplan Engineering Services Pvt. Ltd.| image:: images/projects/thumbnails/e0f5d8b0b418902b1f9dc17774d114e4657a6f6f.png.150x50_q85.jpg
-   :target: http://www.infraplan.in/
-.. |Västra Götalandsregionen| image:: images/projects/thumbnails/2c31c5f29d84972482062295890d1685a0973a52.png.150x50_q85.jpg
-   :target: http://www.vgregion.se/
-.. |Ingenieurbüro Kauppert| image:: images/projects/thumbnails/abcdeb9f00b83e06992bc3a1aa146e523565773b.jpg.150x50_q85.jpg
-   :target: http://www.ib-kauppert.de/
-.. |WhereGroup GmbH & Co. KG| image:: images/projects/thumbnails/85274bed570c0e32b8b0cd99080c4d777c576b0a.jpg.150x50_q85.jpg
-   :target: http://wheregroup.com/
-.. |Ingenieurbüro Reinhard Beck GmbH & Co. KG| image:: images/projects/thumbnails/9b1410c60835a525b5245f5f1f45ee9313fcd0bd.png.150x50_q85.png
-   :target: https://www.ibbeck.de/
-.. |correlate analytics gmbh| image:: images/projects/thumbnails/e46673e2f3123e2a9fd93ee7acb5f667a82753ec.png.150x50_q85.png
-   :target: https://correlate.at/
-.. |Integrate Sustainability Pty Ltd| image:: images/projects/thumbnails/f7736c7fb5e297a0e311641539878ee4345eb8b3.png.150x50_q85.jpg
-   :target: https://www.integratesustainability.com.au/
-.. |ePrime| image:: images/projects/thumbnails/1876ed906c688bb1331df0f3887ea0b009132264.png.150x50_q85.png
-   :target: http://www.eprime.cl/
-.. |K + D Landschaftsplanung AG| image:: images/projects/thumbnails/2c9f35c70be70897c956a0ba608ea8e67afedfc3.png.150x50_q85.png
-   :target: http://www.lpk.ch/
-.. |map-site| image:: images/projects/thumbnails/d2730989664a46fafd165796b18e7ae954885d34.png.150x50_q85.png
-   :target: https://www.map-site.de/
+   :class: img-responsive img-rounded
