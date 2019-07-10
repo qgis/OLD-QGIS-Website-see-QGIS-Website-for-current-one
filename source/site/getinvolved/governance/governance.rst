@@ -28,7 +28,6 @@ Project Steering Committee
 * Marco Bernasocchi (Co-Chair) [since 4.2018] 
 * Andreas Neumann (Treasurer; Contact for Sponsorships) [since 11.2015]
 * Anita Graser (Design Advisor) [since 9.2013]
-* Richard Duivenvoorde (Infrastructure Manager) [since 9.2013]
 * Jürgen Fischer (Release Manager) [since 9.2013]
 
 Honorary PSC members
@@ -36,11 +35,13 @@ Honorary PSC members
 * Gary Sherman (Founder and lifetime Honorary PSC Member)
 * Tim Sutton (awarded Honorary PSC member in 9.2018 the FOSS4G in Tanzania)
 
-Former PSC members are:
+Former PSC members
+------------------
 
 * Tim Sutton (Chair; Testing/QA Manager) (until 2018)
 * Marco Hugentobler [until 2016]
 * Otto Dassau (Community Advisor) [2007 - 2016]
+* Richard Duivenvoorde (Infrastructure Manager) [2013 - 2019]
 
 Read more about the responsibilities of the PSC :ref:`here <psc>`
 
