@@ -253,30 +253,6 @@ source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/sustaining_members
 source_lang = en
 type = PO
 
-[qgis-website.site_getinvolved_governance_sponsorship_management]
-file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/sponsorship/management.po
-source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/sponsorship/management.po
-source_lang = en
-type = PO
-
-[qgis-website.site_getinvolved_governance_sponsorship_sponsorship]
-file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/sponsorship/sponsorship.po
-source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/sponsorship/sponsorship.po
-source_lang = en
-type = PO
-
-[qgis-website.site_getinvolved_governance_sponsorship_gold-sponsors]
-file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/sponsorship/gold-sponsors.po
-source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/sponsorship/gold-sponsors.po
-source_lang = en
-type = PO
-
-[qgis-website.site_getinvolved_governance_sponsorship_index]
-file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/sponsorship/index.po
-source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/sponsorship/index.po
-source_lang = en
-type = PO
-
 [qgis-website.site_getinvolved_governance_release-checklists_index]
 file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/release_checklists/index.po
 source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/release_checklists/index.po
@@ -502,12 +478,6 @@ type = PO
 [qgis-website.site_about_screenshots]
 file_filter = i18n/<lang>/LC_MESSAGES/site/about/screenshots.po
 source_file = i18n/en/LC_MESSAGES/site/about/screenshots.po
-source_lang = en
-type = PO
-
-[qgis-website.site_about_sponsorship]
-file_filter = i18n/<lang>/LC_MESSAGES/site/about/sponsorship.po
-source_file = i18n/en/LC_MESSAGES/site/about/sponsorship.po
 source_lang = en
 type = PO
 

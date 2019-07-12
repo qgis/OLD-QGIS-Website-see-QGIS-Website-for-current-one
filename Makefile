@@ -189,11 +189,11 @@ gettext:
 # the english source resources
 # 1) make springclean (removing all building cruft)
 # 2) make pretranslate (getting all strings from sources and create new pot files)
-# 3) tx push -fs --no-interactive (push the source (-f) files forcing (-f) overwriting the ones their without asking (--no-interactive)
+# 3) scripts/create_transifex_resources.sh (will update the .tx/config file with new resources)
+# 4) tx push -fs --no-interactive (push the source (-f) files forcing (-f) overwriting the ones their without asking (--no-interactive)
 transifex_push:
 	make springclean
 	make pretranslate
-	tx push -f -s --no-interactive
 
 ################################################################################
 #
