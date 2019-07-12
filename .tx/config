@@ -235,6 +235,24 @@ source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/developer_meetings
 source_lang = en
 type = PO
 
+[qgis-website.site_getinvolved_governance_sustaining-members_management]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/sustaining_members/management.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/sustaining_members/management.po
+source_lang = en
+type = PO
+
+[qgis-website.site_getinvolved_governance_sustaining-members_sustaining-members]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/sustaining_members/sustaining_members.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/sustaining_members/sustaining_members.po
+source_lang = en
+type = PO
+
+[qgis-website.site_getinvolved_governance_sustaining-members_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/sustaining_members/index.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/sustaining_members/index.po
+source_lang = en
+type = PO
+
 [qgis-website.site_getinvolved_governance_sponsorship_management]
 file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/sponsorship/management.po
 source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/sponsorship/management.po
@@ -328,6 +346,12 @@ type = PO
 [qgis-website.site_getinvolved_governance_organisation_index]
 file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/organisation/index.po
 source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/organisation/index.po
+source_lang = en
+type = PO
+
+[qgis-website.site_getinvolved_governance_charter]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/charter.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/charter.po
 source_lang = en
 type = PO
 
@@ -484,6 +508,12 @@ type = PO
 [qgis-website.site_about_sponsorship]
 file_filter = i18n/<lang>/LC_MESSAGES/site/about/sponsorship.po
 source_file = i18n/en/LC_MESSAGES/site/about/sponsorship.po
+source_lang = en
+type = PO
+
+[qgis-website.site_about_sustaining-members]
+file_filter = i18n/<lang>/LC_MESSAGES/site/about/sustaining_members.po
+source_file = i18n/en/LC_MESSAGES/site/about/sustaining_members.po
 source_lang = en
 type = PO
 
@@ -760,6 +790,12 @@ type = PO
 [qgis-website.site_forusers_alldownloads]
 file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/alldownloads.po
 source_file = i18n/en/LC_MESSAGES/site/forusers/alldownloads.po
+source_lang = en
+type = PO
+
+[qgis-website.site_forusers_visualchangelog38_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/visualchangelog38/index.po
+source_file = i18n/en/LC_MESSAGES/site/forusers/visualchangelog38/index.po
 source_lang = en
 type = PO
 

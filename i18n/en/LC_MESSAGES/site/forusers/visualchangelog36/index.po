@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 20:36+0100\n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,8 +61,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:17
 msgid ""
-":raw-html:`<div id=\"qgissponsorsatom\"> <!-- to be filled via javascript"
-" loading of atom feed --> </div>`"
+":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
+"javascript loading of atom feed --> </div>`"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:19
@@ -421,9 +421,7 @@ msgid "@map\\_crs\\_proj4: Proj4 definition of the coordinate reference system."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:157
-msgid ""
-"@map\\_crs\\_wkt: WKT definition of the coordinate reference system.WKT "
-"definition of the coordinate reference system."
+msgid "@map\\_crs\\_wkt: WKT definition of the coordinate reference system."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:159
@@ -473,9 +471,41 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:185
+msgid "This feature was developed by `Nyall Dawson () <https://north-road.com>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:188
+msgid "Symbology"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:191
+msgid "Feature: Better handling of .XML style libraries"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:193
+msgid ""
+"The browser panel now shows QGIS style xml libraries, and these files can"
+" also be drag and dropped to a QGIS window. This opens a dialog allowing "
+"users to explore the style library, and import styles from the library to"
+" their QGIS install."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:195
+#: ../../source/site/forusers/visualchangelog36/index.rst:272
+#: ../../source/site/forusers/visualchangelog36/index.rst:369
+#: ../../source/site/forusers/visualchangelog36/index.rst:380
+#: ../../source/site/forusers/visualchangelog36/index.rst:394
+#: ../../source/site/forusers/visualchangelog36/index.rst:624
+#: ../../source/site/forusers/visualchangelog36/index.rst:667
+#: ../../source/site/forusers/visualchangelog36/index.rst:678
+#: ../../source/site/forusers/visualchangelog36/index.rst:771
+#: ../../source/site/forusers/visualchangelog36/index.rst:925
+#: ../../source/site/forusers/visualchangelog36/index.rst:940
+#: ../../source/site/forusers/visualchangelog36/index.rst:962
+msgid "This feature was funded by `North Road <https://north-road.com>`__"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:197
-#: ../../source/site/forusers/visualchangelog36/index.rst:210
-#: ../../source/site/forusers/visualchangelog36/index.rst:219
 #: ../../source/site/forusers/visualchangelog36/index.rst:260
 #: ../../source/site/forusers/visualchangelog36/index.rst:274
 #: ../../source/site/forusers/visualchangelog36/index.rst:284
@@ -513,44 +543,9 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:927
 #: ../../source/site/forusers/visualchangelog36/index.rst:942
 #: ../../source/site/forusers/visualchangelog36/index.rst:964
-#: ../../source/site/forusers/visualchangelog36/index.rst:1009
-#: ../../source/site/forusers/visualchangelog36/index.rst:1018
-#: ../../source/site/forusers/visualchangelog36/index.rst:1029
 msgid ""
-"This feature was developed by `Nyall Dawson (North Road) <http://north-"
+"This feature was developed by `Nyall Dawson (North Road) <https://north-"
 "road.com>`__"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog36/index.rst:188
-msgid "Symbology"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog36/index.rst:191
-msgid "Feature: Better handling of .XML style libraries"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog36/index.rst:193
-msgid ""
-"The browser panel now shows QGIS style xml libraries, and these files can"
-" also be drag and dropped to a QGIS window. This opens a dialog allowing "
-"users to explore the style library, and import styles from the library to"
-" their QGIS install."
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog36/index.rst:195
-#: ../../source/site/forusers/visualchangelog36/index.rst:272
-#: ../../source/site/forusers/visualchangelog36/index.rst:369
-#: ../../source/site/forusers/visualchangelog36/index.rst:380
-#: ../../source/site/forusers/visualchangelog36/index.rst:394
-#: ../../source/site/forusers/visualchangelog36/index.rst:624
-#: ../../source/site/forusers/visualchangelog36/index.rst:647
-#: ../../source/site/forusers/visualchangelog36/index.rst:667
-#: ../../source/site/forusers/visualchangelog36/index.rst:678
-#: ../../source/site/forusers/visualchangelog36/index.rst:771
-#: ../../source/site/forusers/visualchangelog36/index.rst:925
-#: ../../source/site/forusers/visualchangelog36/index.rst:940
-#: ../../source/site/forusers/visualchangelog36/index.rst:962
-msgid "This feature was funded by `North Road <http://north-road.com>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:200
@@ -582,6 +577,16 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:217
 #: ../../source/site/forusers/visualchangelog36/index.rst:509
 msgid "This feature was funded by QGIS User Group Germany"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:210
+#: ../../source/site/forusers/visualchangelog36/index.rst:219
+#: ../../source/site/forusers/visualchangelog36/index.rst:1009
+#: ../../source/site/forusers/visualchangelog36/index.rst:1018
+#: ../../source/site/forusers/visualchangelog36/index.rst:1029
+msgid ""
+"This feature was developed by `Nyall Dawson (North Road) <http://north-"
+"road.com>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:213
@@ -1082,10 +1087,10 @@ msgid "This feature was funded by Alessandro Pasotti - ItOpen"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:467
-#: ../../source/site/forusers/visualchangelog36/index.rst:705
+#: ../../source/site/forusers/visualchangelog36/index.rst:725
 msgid ""
 "This feature was developed by `Alessandro Pasotti "
-"<http://www.itopen.it>`__"
+"<https://www.itopen.it>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:470
@@ -1096,7 +1101,7 @@ msgstr ""
 msgid ""
 "Similar to raster calculator, mesh calculator works on mesh layers. In "
 "addition to the general functions, mesh calculator also provides time "
-"aggregate functions. Fore example, if you have a netcdf with daily "
+"aggregate functions. For example, if you have a netcdf with daily "
 "temperature over a month, you can calculate the average temperature for "
 "the whole month for each cell. The output can be filtered by time span or"
 " spatial extent."
@@ -1392,7 +1397,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:638
 msgid ""
-"This feature was funded by `Nyall Dawson (North Road) <http://north-"
+"This feature was funded by `Nyall Dawson (North Road) <https://north-"
 "road.com>`__"
 msgstr ""
 
@@ -1407,6 +1412,10 @@ msgid ""
 " file/folder properties dialog for that entry. This allows rapid access "
 "to operating system file or folder properties, such as file permissions "
 "and sharing options."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:647
+msgid "This feature was funded by `North Road <s://north-road.com>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:652
@@ -1499,6 +1508,12 @@ msgid ""
 "<http://www.arpa.piemonte.it/>`__"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:705
+msgid ""
+"This feature was developed by `Alessandro Pasotti "
+"<http://www.itopen.it>`__"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:708
 msgid "Feature: Optional setting for disabling version checks"
 msgstr ""
@@ -1531,12 +1546,6 @@ msgstr ""
 msgid ""
 "This feature was funded by `A.R.P.A. Piemonte "
 "<http://www.arpa.piemonte.it>`__"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog36/index.rst:725
-msgid ""
-"This feature was developed by `Alessandro Pasotti "
-"<https://www.itopen.it>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:728
@@ -4540,4 +4549,38 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:1507
 msgid "This feature was developed by `Hugo Mercier <https://oslandia.com/>`__"
 msgstr ""
+
+#~ msgid ""
+#~ ":raw-html:`<div id=\"qgissponsorsatom\"> <!-- "
+#~ "to be filled via javascript loading "
+#~ "of atom feed --> </div>`"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "@map\\_crs\\_wkt: WKT definition of the "
+#~ "coordinate reference system.WKT definition of"
+#~ " the coordinate reference system."
+#~ msgstr ""
+
+#~ msgid "This feature was funded by `North Road <http://north-road.com>`__"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Similar to raster calculator, mesh "
+#~ "calculator works on mesh layers. In "
+#~ "addition to the general functions, mesh"
+#~ " calculator also provides time aggregate"
+#~ " functions. Fore example, if you have"
+#~ " a netcdf with daily temperature over"
+#~ " a month, you can calculate the "
+#~ "average temperature for the whole month"
+#~ " for each cell. The output can "
+#~ "be filtered by time span or "
+#~ "spatial extent."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This feature was funded by `Nyall "
+#~ "Dawson (North Road) <http://north-road.com>`__"
+#~ msgstr ""
 

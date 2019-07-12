@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 20:36+0100\n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -237,8 +237,9 @@ msgstr ""
 #: ../../source/site/getinvolved/development/schedule.inc:10
 #: ../../source/site/getinvolved/development/schedule.inc:12
 #: ../../source/site/getinvolved/development/schedule.inc:13
-#: ../../source/site/getinvolved/development/schedule.inc:18
-#: ../../source/site/getinvolved/development/schedule.inc:19
+#: ../../source/site/getinvolved/development/schedule.inc:14
+#: ../../source/site/getinvolved/development/schedule.inc:16
+#: ../../source/site/getinvolved/development/schedule.inc:17
 #: ../../source/site/getinvolved/development/schedule.inc:20
 #: ../../source/site/getinvolved/development/schedule.inc:22
 #: ../../source/site/getinvolved/development/schedule.inc:23
@@ -278,8 +279,8 @@ msgstr ""
 #: ../../source/site/getinvolved/development/schedule.inc:10
 #: ../../source/site/getinvolved/development/schedule.inc:13
 #: ../../source/site/getinvolved/development/schedule.inc:14
-#: ../../source/site/getinvolved/development/schedule.inc:16
-#: ../../source/site/getinvolved/development/schedule.inc:19
+#: ../../source/site/getinvolved/development/schedule.inc:17
+#: ../../source/site/getinvolved/development/schedule.inc:18
 #: ../../source/site/getinvolved/development/schedule.inc:20
 #: ../../source/site/getinvolved/development/schedule.inc:23
 #: ../../source/site/getinvolved/development/schedule.inc:24
@@ -329,7 +330,7 @@ msgid "51"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:11
-#: ../../source/site/getinvolved/development/schedule.inc:21
+#: ../../source/site/getinvolved/development/schedule.inc:15
 #: ../../source/site/getinvolved/development/schedule.inc:25
 #: ../../source/site/getinvolved/development/schedule.inc:29
 #: ../../source/site/getinvolved/development/schedule.inc:33
@@ -354,14 +355,13 @@ msgid "2019-01-18"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:11
-#: ../../source/site/getinvolved/development/schedule.inc:15
-#: ../../source/site/getinvolved/development/schedule.inc:16
 #: ../../source/site/getinvolved/development/schedule.inc:25
 #: ../../source/site/getinvolved/development/schedule.inc:37
 msgid "3"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:11
+#: ../../source/site/getinvolved/development/schedule.inc:15
 #: ../../source/site/getinvolved/development/schedule.inc:25
 #: ../../source/site/getinvolved/development/schedule.inc:29
 #: ../../source/site/getinvolved/development/schedule.inc:37
@@ -369,7 +369,7 @@ msgid "5"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:12
-#: ../../source/site/getinvolved/development/schedule.inc:18
+#: ../../source/site/getinvolved/development/schedule.inc:16
 #: ../../source/site/getinvolved/development/schedule.inc:26
 #: ../../source/site/getinvolved/development/schedule.inc:30
 #: ../../source/site/getinvolved/development/schedule.inc:38
@@ -428,13 +428,12 @@ msgstr ""
 msgid "16"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:14
-msgid "1"
+#: ../../source/site/getinvolved/development/schedule.inc:15
+msgid "3.6.3"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:115
 #: ../../source/site/getinvolved/development/schedule.inc:15
-msgid "FF"
+msgid "3.4.8"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:15
@@ -442,126 +441,116 @@ msgid "3.7"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:15
-msgid "2019-04-26"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:15
-msgid "17"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:16
-msgid "3.6.3"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:16
-msgid "3.4.8"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:16
-msgid "."
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:16
 msgid "2019-05-17"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:16
+#: ../../source/site/getinvolved/development/schedule.inc:15
 #: ../../source/site/getinvolved/development/schedule.inc:29
 msgid "20"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:116
-#: ../../source/site/getinvolved/development/schedule.inc:17
-msgid "HF"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:17
-msgid "2019-06-07"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:17
-msgid "23"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:17
-msgid "2"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:18
+#: ../../source/site/getinvolved/development/schedule.inc:16
 msgid "3.8.0"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:18
+#: ../../source/site/getinvolved/development/schedule.inc:16
 msgid "3.4.9"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:18
+#: ../../source/site/getinvolved/development/schedule.inc:16
 msgid "2019-06-21"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:18
+#: ../../source/site/getinvolved/development/schedule.inc:16
 #: ../../source/site/getinvolved/development/schedule.inc:30
 msgid "25"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:19
+#: ../../source/site/getinvolved/development/schedule.inc:17
 msgid "3.8.1"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:19
+#: ../../source/site/getinvolved/development/schedule.inc:17
 msgid "3.4.10"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:19
+#: ../../source/site/getinvolved/development/schedule.inc:17
 msgid "2019-07-19"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:19
+#: ../../source/site/getinvolved/development/schedule.inc:17
 #: ../../source/site/getinvolved/development/schedule.inc:31
 msgid "29"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:20
+#: ../../source/site/getinvolved/development/schedule.inc:18
 msgid "3.8.2"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:20
+#: ../../source/site/getinvolved/development/schedule.inc:18
 msgid "3.4.11"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:20
+#: ../../source/site/getinvolved/development/schedule.inc:18
 msgid "2019-08-16"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:20
+#: ../../source/site/getinvolved/development/schedule.inc:18
 #: ../../source/site/getinvolved/development/schedule.inc:32
 msgid "33"
 msgstr ""
 
+#: ../../source/site/getinvolved/development/schedule.inc:18
+#: ../../source/site/getinvolved/development/schedule.inc:19
 #: ../../source/site/getinvolved/development/schedule.inc:21
-msgid "3.8.3"
+msgid "2"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:21
-msgid "3.4.12"
+#: ../../source/site/getinvolved/development/roadmap.rst:115
+#: ../../source/site/getinvolved/development/schedule.inc:19
+msgid "FF"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:21
+#: ../../source/site/getinvolved/development/schedule.inc:19
 msgid "3.9"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:21
+#: ../../source/site/getinvolved/development/schedule.inc:19
+msgid "2019-08-30"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:19
+msgid "35"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:20
+msgid "3.8.3"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:20
+msgid "3.4.12"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:20
 msgid "2019-09-13"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:21
+#: ../../source/site/getinvolved/development/schedule.inc:20
 #: ../../source/site/getinvolved/development/schedule.inc:33
 msgid "37"
 msgstr ""
 
+#: ../../source/site/getinvolved/development/roadmap.rst:116
 #: ../../source/site/getinvolved/development/schedule.inc:21
-#: ../../source/site/getinvolved/development/schedule.inc:33
-msgid "6"
+msgid "HF"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:21
+msgid "2019-10-11"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:21
+msgid "41"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:22
@@ -718,6 +707,10 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:33
 msgid "2020-09-11"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:33
+msgid "6"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:34
@@ -1113,5 +1106,23 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "2019-06-28"
+#~ msgstr ""
+
+#~ msgid "1"
+#~ msgstr ""
+
+#~ msgid "2019-04-26"
+#~ msgstr ""
+
+#~ msgid "17"
+#~ msgstr ""
+
+#~ msgid "."
+#~ msgstr ""
+
+#~ msgid "2019-06-07"
+#~ msgstr ""
+
+#~ msgid "23"
 #~ msgstr ""
 
