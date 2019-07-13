@@ -1034,7 +1034,7 @@ This feature was developed by `Loïc Bartoletti <https://oslandia.com/en/>`__
    :class: img-responsive img-rounded
 .. |image8| image:: images/entries/thumbnails/4101a09e0fa63aada9acce23092bb29e16db1114.png.400x300_q85_crop.png
    :class: img-responsive img-rounded
-.. |image9| image:: images/entries/thumbnails/0cda10ddf2bac42e77b7cfc9ada813e4a26353a5.gif.400x300_q85_crop.png
+.. |image9| image:: images/entries/thumbnails/0cda10ddf2bac42e77b7cfc9ada813e4a26353a5.gif
    :class: img-responsive img-rounded
 .. |image10| image:: images/entries/thumbnails/abc08ecfe2a879424b3f8e96c26b0391e342090e.png.400x300_q85_crop.jpg
    :class: img-responsive img-rounded
@@ -1056,15 +1056,15 @@ This feature was developed by `Loïc Bartoletti <https://oslandia.com/en/>`__
    :class: img-responsive img-rounded
 .. |image19| image:: images/entries/thumbnails/77c53d02f719feaf03e7e3d9cea8468645aa81e3.png.400x300_q85_crop.png
    :class: img-responsive img-rounded
-.. |image20| image:: images/entries/thumbnails/c0703ea4a49115bfb398d174aa727c7e0fc67240.gif.400x300_q85_crop.jpg
+.. |image20| image:: images/entries/thumbnails/c0703ea4a49115bfb398d174aa727c7e0fc67240.gif
    :class: img-responsive img-rounded
-.. |image21| image:: images/entries/thumbnails/a58caabea738a7e34529b9aeb2bb1d4cd307cf50.gif.400x300_q85_crop.jpg
+.. |image21| image:: images/entries/thumbnails/a58caabea738a7e34529b9aeb2bb1d4cd307cf50.gif
    :class: img-responsive img-rounded
-.. |image22| image:: images/entries/thumbnails/e518f5fc5b2decdbaba6272249cdfb3b6c2ad2fe.gif.400x300_q85_crop.png
+.. |image22| image:: images/entries/thumbnails/e518f5fc5b2decdbaba6272249cdfb3b6c2ad2fe.gif
    :class: img-responsive img-rounded
-.. |image23| image:: images/entries/thumbnails/3932162893e8bb8d20d284d7a99ead2de9dac601.gif.400x300_q85_crop.png
+.. |image23| image:: images/entries/thumbnails/3932162893e8bb8d20d284d7a99ead2de9dac601.gif
    :class: img-responsive img-rounded
-.. |image24| image:: images/entries/thumbnails/8627ae1acd4ed30ae116e3b79679ecb5cad3241a.gif.400x300_q85_crop.png
+.. |image24| image:: images/entries/thumbnails/8627ae1acd4ed30ae116e3b79679ecb5cad3241a.gif
    :class: img-responsive img-rounded
 .. |image25| image:: images/entries/thumbnails/f034aaf2a173be885b5f8fca36e3b577795ad1de.png.400x300_q85_crop.png
    :class: img-responsive img-rounded
@@ -1096,7 +1096,7 @@ This feature was developed by `Loïc Bartoletti <https://oslandia.com/en/>`__
    :class: img-responsive img-rounded
 .. |image39| image:: images/entries/thumbnails/8750f1c2e3c3919926fd2cb97488da071f7efc85.png.400x300_q85_crop.png
    :class: img-responsive img-rounded
-.. |image40| image:: images/entries/thumbnails/28da67ad96ccda7a8a64b261db17bf33be4b3f69.gif.400x300_q85_crop.png
+.. |image40| image:: images/entries/thumbnails/28da67ad96ccda7a8a64b261db17bf33be4b3f69.gif
    :class: img-responsive img-rounded
 .. |image41| image:: images/entries/thumbnails/d0543abc36459754e4e3630e3703f0f1169ba7b3.png.400x300_q85_crop.png
    :class: img-responsive img-rounded
