@@ -6,8 +6,9 @@ Plugin Development
 QGIS has a plugin infrastructure. You can add a lot of new functionality by
 writing your own plugins. These plugins can either be written in C++ or in Python.
 
-If you want to contribute to QGIS Project with your plugin, 
-it's highly recommended to read :ref:`QGIS-Developers-Guide`
+If you want to contribute to QGIS Project with your plugin, it's highly
+recommended to read the **QGIS Developers Guide** at our documentation
+website: https://docs.qgis.org
 
 
 .. _QGIS-cpp-plugin-development:
