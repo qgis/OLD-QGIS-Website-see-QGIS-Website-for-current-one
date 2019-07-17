@@ -1020,83 +1020,83 @@ This feature was developed by `Loïc Bartoletti <https://oslandia.com/en/>`__
 
 .. |image1| image:: images/projects/403e44c7e958cff5d07a1eaf12af76ade88c564d.png
    :class: img-responsive img-rounded center-block
-.. |image2| image:: images/entries/thumbnails/e912304d18194a43111a2f054b7f1dba931985d4.png.400x300_q85_crop.png
+.. |image2| image:: images/entries/e912304d18194a43111a2f054b7f1dba931985d4.png
    :class: img-responsive img-rounded
-.. |image3| image:: images/entries/thumbnails/8a99e041656f5d3d1fa504636aa36b0046efe532.png.400x300_q85_crop.png
+.. |image3| image:: images/entries/8a99e041656f5d3d1fa504636aa36b0046efe532.png
    :class: img-responsive img-rounded
-.. |image4| image:: images/entries/thumbnails/61f13b52d685dcd67c7c9cc8dbb6daa269ed096a.png.400x300_q85_crop.png
+.. |image4| image:: images/entries/61f13b52d685dcd67c7c9cc8dbb6daa269ed096a.png
    :class: img-responsive img-rounded
-.. |image5| image:: images/entries/thumbnails/a0f55caed98366ae6eaa0e413d425259aa613b9b.png.400x300_q85_crop.png
+.. |image5| image:: images/entries/a0f55caed98366ae6eaa0e413d425259aa613b9b.png
    :class: img-responsive img-rounded
-.. |image6| image:: images/entries/thumbnails/7be374a464bde6d79745c1fedfc6075886f09b31.png.400x300_q85_crop.png
+.. |image6| image:: images/entries/7be374a464bde6d79745c1fedfc6075886f09b31.png
    :class: img-responsive img-rounded
-.. |image7| image:: images/entries/thumbnails/d540197d4a5088df43cac495dc1a88b931131cfe.png.400x300_q85_crop.jpg
+.. |image7| image:: images/entries/d540197d4a5088df43cac495dc1a88b931131cfe.png
    :class: img-responsive img-rounded
-.. |image8| image:: images/entries/thumbnails/4101a09e0fa63aada9acce23092bb29e16db1114.png.400x300_q85_crop.png
+.. |image8| image:: images/entries/4101a09e0fa63aada9acce23092bb29e16db1114.png
    :class: img-responsive img-rounded
-.. |image9| image:: images/entries/thumbnails/0cda10ddf2bac42e77b7cfc9ada813e4a26353a5.gif
+.. |image9| image:: images/entries/0cda10ddf2bac42e77b7cfc9ada813e4a26353a5.gif
    :class: img-responsive img-rounded
-.. |image10| image:: images/entries/thumbnails/abc08ecfe2a879424b3f8e96c26b0391e342090e.png.400x300_q85_crop.jpg
+.. |image10| image:: images/entries/abc08ecfe2a879424b3f8e96c26b0391e342090e.png
    :class: img-responsive img-rounded
-.. |image11| image:: images/entries/thumbnails/6e77320c7766d11f25893f9c2de2e7de57eab488.png.400x300_q85_crop.jpg
+.. |image11| image:: images/entries/6e77320c7766d11f25893f9c2de2e7de57eab488.png
    :class: img-responsive img-rounded
-.. |image12| image:: images/entries/thumbnails/f0d7bb5632bfaa9c9feafb12e7b258c312ba66a6.png.400x300_q85_crop.png
+.. |image12| image:: images/entries/f0d7bb5632bfaa9c9feafb12e7b258c312ba66a6.png
    :class: img-responsive img-rounded
-.. |image13| image:: images/entries/thumbnails/13a7660953586fea69df8afea7f75dd5d457fce8.jpg.400x300_q85_crop.jpg
+.. |image13| image:: images/entries/13a7660953586fea69df8afea7f75dd5d457fce8.jpg
    :class: img-responsive img-rounded
-.. |image14| image:: images/entries/thumbnails/7a0dd68c9a38f6e4b4f0177ae53978710df89ad5.png.400x300_q85_crop.jpg
+.. |image14| image:: images/entries/7a0dd68c9a38f6e4b4f0177ae53978710df89ad5.png
    :class: img-responsive img-rounded
-.. |image15| image:: images/entries/thumbnails/024918bb03f4620a2b5d32926322d0644c782bb8.png.400x300_q85_crop.png
+.. |image15| image:: images/entries/024918bb03f4620a2b5d32926322d0644c782bb8.png
    :class: img-responsive img-rounded
-.. |image16| image:: images/entries/thumbnails/13f09f754dea12a13b9d9aeb8606e86582e87e3f.png.400x300_q85_crop.png
+.. |image16| image:: images/entries/13f09f754dea12a13b9d9aeb8606e86582e87e3f.png
    :class: img-responsive img-rounded
-.. |image17| image:: images/entries/thumbnails/6eac3dcc7d9053f16733306878fb0cebf993737a.png.400x300_q85_crop.png
+.. |image17| image:: images/entries/6eac3dcc7d9053f16733306878fb0cebf993737a.png
    :class: img-responsive img-rounded
-.. |image18| image:: images/entries/thumbnails/e83795c8c525c092fa9b68172ecdf9f713e5f15a.png.400x300_q85_crop.png
+.. |image18| image:: images/entries/e83795c8c525c092fa9b68172ecdf9f713e5f15a.png
    :class: img-responsive img-rounded
-.. |image19| image:: images/entries/thumbnails/77c53d02f719feaf03e7e3d9cea8468645aa81e3.png.400x300_q85_crop.png
+.. |image19| image:: images/entries/77c53d02f719feaf03e7e3d9cea8468645aa81e3.png
    :class: img-responsive img-rounded
-.. |image20| image:: images/entries/thumbnails/c0703ea4a49115bfb398d174aa727c7e0fc67240.gif
+.. |image20| image:: images/entries/c0703ea4a49115bfb398d174aa727c7e0fc67240.gif
    :class: img-responsive img-rounded
-.. |image21| image:: images/entries/thumbnails/a58caabea738a7e34529b9aeb2bb1d4cd307cf50.gif
+.. |image21| image:: images/entries/a58caabea738a7e34529b9aeb2bb1d4cd307cf50.gif
    :class: img-responsive img-rounded
-.. |image22| image:: images/entries/thumbnails/e518f5fc5b2decdbaba6272249cdfb3b6c2ad2fe.gif
+.. |image22| image:: images/entries/e518f5fc5b2decdbaba6272249cdfb3b6c2ad2fe.gif
    :class: img-responsive img-rounded
-.. |image23| image:: images/entries/thumbnails/3932162893e8bb8d20d284d7a99ead2de9dac601.gif
+.. |image23| image:: images/entries/3932162893e8bb8d20d284d7a99ead2de9dac601.gif
    :class: img-responsive img-rounded
-.. |image24| image:: images/entries/thumbnails/8627ae1acd4ed30ae116e3b79679ecb5cad3241a.gif
+.. |image24| image:: images/entries/8627ae1acd4ed30ae116e3b79679ecb5cad3241a.gif
    :class: img-responsive img-rounded
-.. |image25| image:: images/entries/thumbnails/f034aaf2a173be885b5f8fca36e3b577795ad1de.png.400x300_q85_crop.png
+.. |image25| image:: images/entries/f034aaf2a173be885b5f8fca36e3b577795ad1de.png
    :class: img-responsive img-rounded
-.. |image26| image:: images/entries/thumbnails/ebabefc4ccc4b71dcffda0508834b709fddec635.png.400x300_q85_crop.png
+.. |image26| image:: images/entries/ebabefc4ccc4b71dcffda0508834b709fddec635.png
    :class: img-responsive img-rounded
-.. |image27| image:: images/entries/thumbnails/d265fa2b9bab9184d25244f0cd8aececb5136e66.png.400x300_q85_crop.png
+.. |image27| image:: images/entries/d265fa2b9bab9184d25244f0cd8aececb5136e66.png
    :class: img-responsive img-rounded
-.. |image28| image:: images/entries/thumbnails/6b783ea6f8bb83c8f45844681ed7221126be4782.png.400x300_q85_crop.png
+.. |image28| image:: images/entries/6b783ea6f8bb83c8f45844681ed7221126be4782.png
    :class: img-responsive img-rounded
-.. |image29| image:: images/entries/thumbnails/e20e687223b884d70737f09130f0e9792974eed6.png.400x300_q85_crop.png
+.. |image29| image:: images/entries/e20e687223b884d70737f09130f0e9792974eed6.png
    :class: img-responsive img-rounded
-.. |image30| image:: images/entries/thumbnails/b9af6c101c6c22836c4dec3b78a6ce3d6b7e1bcd.png.400x300_q85_crop.jpg
+.. |image30| image:: images/entries/b9af6c101c6c22836c4dec3b78a6ce3d6b7e1bcd.png
    :class: img-responsive img-rounded
-.. |image31| image:: images/entries/thumbnails/77dfad7d869283213cfc54a96e5ced2ad69d259a.png.400x300_q85_crop.png
+.. |image31| image:: images/entries/77dfad7d869283213cfc54a96e5ced2ad69d259a.png
    :class: img-responsive img-rounded
-.. |image32| image:: images/entries/thumbnails/dfd820ccdc499878a5d7c818f03cd2d586311945.png.400x300_q85_crop.jpg
+.. |image32| image:: images/entries/dfd820ccdc499878a5d7c818f03cd2d586311945.png
    :class: img-responsive img-rounded
-.. |image33| image:: images/entries/thumbnails/a10b7ebe75528742860a666be9de2d1365de3b73.png.400x300_q85_crop.png
+.. |image33| image:: images/entries/a10b7ebe75528742860a666be9de2d1365de3b73.png
    :class: img-responsive img-rounded
-.. |image34| image:: images/entries/thumbnails/5633452beec85bb6486092463af4553c02aa6165.PNG.400x300_q85_crop.png
+.. |image34| image:: images/entries/5633452beec85bb6486092463af4553c02aa6165.PNG
    :class: img-responsive img-rounded
-.. |image35| image:: images/entries/thumbnails/f78e2f7a712f8a5cc1d5e9e20b4bb378598c1180.png.400x300_q85_crop.png
+.. |image35| image:: images/entries/f78e2f7a712f8a5cc1d5e9e20b4bb378598c1180.png
    :class: img-responsive img-rounded
-.. |image36| image:: images/entries/thumbnails/a0026a05eea40004dfd250cf1a2ff492fdeb1b58.png.400x300_q85_crop.png
+.. |image36| image:: images/entries/a0026a05eea40004dfd250cf1a2ff492fdeb1b58.png
    :class: img-responsive img-rounded
-.. |image37| image:: images/entries/thumbnails/35c02288524968f8ea021f9a64fcd64b9ec328f9.png.400x300_q85_crop.png
+.. |image37| image:: images/entries/35c02288524968f8ea021f9a64fcd64b9ec328f9.png
    :class: img-responsive img-rounded
-.. |image38| image:: images/entries/thumbnails/f311137d05c73b9ba673d6b68669b7117589dacd.png.400x300_q85_crop.png
+.. |image38| image:: images/entries/f311137d05c73b9ba673d6b68669b7117589dacd.png
    :class: img-responsive img-rounded
-.. |image39| image:: images/entries/thumbnails/8750f1c2e3c3919926fd2cb97488da071f7efc85.png.400x300_q85_crop.png
+.. |image39| image:: images/entries/8750f1c2e3c3919926fd2cb97488da071f7efc85.png
    :class: img-responsive img-rounded
-.. |image40| image:: images/entries/thumbnails/28da67ad96ccda7a8a64b261db17bf33be4b3f69.gif
+.. |image40| image:: images/entries/28da67ad96ccda7a8a64b261db17bf33be4b3f69.gif
    :class: img-responsive img-rounded
-.. |image41| image:: images/entries/thumbnails/d0543abc36459754e4e3630e3703f0f1169ba7b3.png.400x300_q85_crop.png
+.. |image41| image:: images/entries/d0543abc36459754e4e3630e3703f0f1169ba7b3.png
    :class: img-responsive img-rounded
