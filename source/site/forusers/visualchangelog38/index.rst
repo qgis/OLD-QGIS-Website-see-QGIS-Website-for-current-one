@@ -710,6 +710,17 @@ This feature was funded by VEOLIA
 
 This feature was developed by `Julien Cabieces (Oslandia) <https://oslandia.com/en/>`__
 
+Feature: Support for curves in DXF export
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You can now export curved geometry layers to DXF format without segmentizing the features — no more loss of curves!
+
+|image41|
+
+This feature was funded by `Kanton Schaffhausen <https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-Geoinformation-3854-DE.html>`__
+
+This feature was developed by Jürgen Fischer in collaboration with Matthias Kuhn
+
 QGIS Server
 -----------
 
@@ -771,17 +782,6 @@ This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>
 
 Notable Fixes
 -------------
-
-Feature: Support for curves in DXF export
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-You can now export curved geometry layers to DXF format without segmentizing the features — no more loss of curves!
-
-|image41|
-
-This feature was funded by `Kanton Schaffhausen <https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-Geoinformation-3854-DE.html>`__
-
-This feature was developed by Jürgen Fischer in collaboration with Matthias Kuhn
 
 Feature: Bug fixes by Alessandro Pasotti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
