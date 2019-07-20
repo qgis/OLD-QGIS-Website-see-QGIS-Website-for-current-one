@@ -156,9 +156,9 @@ try:
         data = data['data']
     donationid = data['object']['id']
     donationtime = time.asctime(time.gmtime(data['object']['created']))
-    donorname = data['object']['metadata']['donorname']
+    donorname = data['object']['metadata'].get('donorname')
     if donorname is None or len(donorname)<1:
-        # we promissed to only publish the donorname if it was given!
+        # we promised to only publish the donorname if it was given!
         pass
     else:
         # casting to Title case
@@ -170,7 +170,7 @@ try:
         result = Popen(command, cwd=cwd, stdout=PIPE, stderr=PIPE)
         (status, error) = result.communicate()
         if result.poll() == 0:
-            log('Succesfully add+commit of donation {} dd {} (UTC) by "{}" see https://dashboard.stripe.com/payments/{}'.format(donationid, donationtime, donorname, donationid))
+            log('Successfully add+commit of donation {} dd {} (UTC) by "{}" see https://dashboard.stripe.com/payments/{}'.format(donationid, donationtime, donorname, donationid))
         else:
             log('ERROR add+commit of donation {} dd {} (UTC) by "{}" see https://dashboard.stripe.com/payments/{}'.format(donationid, donationtime, donorname, donationid))
             log(error)
