@@ -331,7 +331,7 @@ For this release we improved the vertex editor so it will now properly link the 
 
 |image22|
 
-This feature was funded by `QGIS User Group Switzerland <http://qgis.ch>`__
+This feature was funded by `QGIS User Group Switzerland <https://qgis.ch>`__
 
 This feature was developed by `Denis Rouzaud, OPENGIS.ch <https://www.opengis.ch>`__
 
