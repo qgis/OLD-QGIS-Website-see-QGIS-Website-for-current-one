@@ -65,11 +65,11 @@ Looking for examples of python plugins, see http://plugins.qgis.org
 
 You can find the QGIS-iface which you can use via python here:
 
-http://qgis.org/api/classQgisInterface.html (for QGIS testing)
+https://qgis.org/api/classQgisInterface.html (for QGIS testing)
 
-http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)
+https://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)
 
-http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)
+https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)
 
 
 

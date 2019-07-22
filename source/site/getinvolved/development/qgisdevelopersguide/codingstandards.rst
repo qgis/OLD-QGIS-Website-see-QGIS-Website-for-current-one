@@ -234,7 +234,7 @@ Braces should start on the line following the expression:
 API Compatibility
 -----------------
 
-There is `API documentation <http://qgis.org/api/>`_ for C++.
+There is `API documentation <https://qgis.org/api/>`_ for C++.
 
 We try to keep the API stable and backwards compatible. Cleanups to the API
 should be done in a manner similar to the Qt sourcecode e.g.

@@ -84,7 +84,7 @@ msgid ""
 "many folks out there who volunteer their time and effort (or fund people "
 "to do so). From the QGIS community we hope you enjoy this release! If you"
 " wish to donate time, money or otherwise get involved in making QGIS more"
-" awesome, please wander along to `qgis.org <http://qgis.org>`__ and lend "
+" awesome, please wander along to `qgis.org <https://qgis.org>`__ and lend "
 "a hand!"
 msgstr ""
 
@@ -92,10 +92,10 @@ msgstr ""
 msgid ""
 "QGIS is supported by donors and sponsors. A current list of donors who "
 "have made financial contributions large and small to the project can be "
-"seen on our `donors list <http://qgis.org/en/site/about/sponsorship.html"
+"seen on our `donors list <https://qgis.org/en/site/about/sponsorship.html"
 "#list-of-donors>`__. If you would like to become an official project "
 "sponsor, please visit `our sponsorship page "
-"<http://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
 "details. Sponsoring QGIS helps us to fund our six monthly developer "
 "meetings, maintain project infrastructure and fund bug fixing efforts. A "
 "complete list of current sponsors is provided below - our very great "
@@ -2702,54 +2702,54 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1649
 msgid ""
 "`QgsComposerNodesItem "
-"<http://qgis.org/api/classQgsComposerNodesItem.html>`__ - an abstract "
+"<https://qgis.org/api/classQgsComposerNodesItem.html>`__ - an abstract "
 "base class for composer items which provides generic methods for nodes "
 "based shapes such as polygons or polylines"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1652
 msgid ""
-"`QgsComposerPolygon <http://qgis.org/api/classQgsComposerPolygon.html>`__"
+"`QgsComposerPolygon <https://qgis.org/api/classQgsComposerPolygon.html>`__"
 " - a composer item for polygon shapes"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1654
 msgid ""
 "`QgsComposerPolyline "
-"<http://qgis.org/api/classQgsComposerPolyline.html>`__ - a composer item "
+"<https://qgis.org/api/classQgsComposerPolyline.html>`__ - a composer item "
 "for polyline shapes"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1656
 msgid ""
 "`QgsGroupUngroupItemsCommand "
-"<http://qgis.org/api/classQgsGroupUngroupItemsCommand.htmll>`__ - a "
+"<https://qgis.org/api/classQgsGroupUngroupItemsCommand.htmll>`__ - a "
 "composer undo command class for grouping / ungrouping composer items"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1658
 msgid ""
 "`QgsConstWkbSimplifierPtr "
-"<http://qgis.org/api/classQgsConstWkbSimplifierPtr.html>`__ - WKB reader "
+"<https://qgis.org/api/classQgsConstWkbSimplifierPtr.html>`__ - WKB reader "
 "which simplifies geometries on the fly"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1660
 msgid ""
-"`QgsAction <http://qgis.org/api/classQgsAction.html>`__ - a utility class"
+"`QgsAction <https://qgis.org/api/classQgsAction.html>`__ - a utility class"
 " that encapsulates an action based on vector attributes"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1662
 msgid ""
-"`QgsActionManager <http://qgis.org/api/classQgsActionManager.html>`__ - "
+"`QgsActionManager <https://qgis.org/api/classQgsActionManager.html>`__ - "
 "stores and manages actions associated with a layer"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1664
 msgid ""
 "`QgsAggregateCalculator "
-"<http://qgis.org/api/classQgsAggregateCalculator.html>`__ - a utility "
+"<https://qgis.org/api/classQgsAggregateCalculator.html>`__ - a utility "
 "class for calculating aggregates for a field (or expression) over the "
 "features from a vector layer"
 msgstr ""
@@ -2757,72 +2757,72 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1667
 msgid ""
 "`QgsAttributeTableConfig "
-"<http://qgis.org/api/classQgsAttributeTableConfig.html>`__ - a container "
+"<https://qgis.org/api/classQgsAttributeTableConfig.html>`__ - a container "
 "for configuration of the attribute table for a vector layer"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1669
 msgid ""
 "`QgsDateTimeStatisticalSummary "
-"<http://qgis.org/api/classQgsDateTimeStatisticalSummary.html>`__ - "
+"<https://qgis.org/api/classQgsDateTimeStatisticalSummary.html>`__ - "
 "calculator for summary statistics and aggregates for a list of datetimes"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1671
 msgid ""
-"`QgsInterval <http://qgis.org/api/classQgsInterval.html>`__ - a "
+"`QgsInterval <https://qgis.org/api/classQgsInterval.html>`__ - a "
 "representation of the interval between two datetime values"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1673
 msgid ""
-"`QgsJSONExporter <http://qgis.org/api/classQgsJSONExporter.html>`__ - "
+"`QgsJSONExporter <https://qgis.org/api/classQgsJSONExporter.html>`__ - "
 "handles exporting QgsFeature features to GeoJSON features"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1675
 msgid ""
-"`QgsJSONUtils <http://qgis.org/api/classQgsJSONUtils.html>`__ - helper "
+"`QgsJSONUtils <https://qgis.org/api/classQgsJSONUtils.html>`__ - helper "
 "utilities for working with JSON and GeoJSON conversions"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1677
 msgid ""
-"`QgsRuntimeProfiler <http://qgis.org/api/classQgsRuntimeProfiler.html>`__"
+"`QgsRuntimeProfiler <https://qgis.org/api/classQgsRuntimeProfiler.html>`__"
 " - simple profiler for timing code paths during execution"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1679
 msgid ""
-"`QgsSQLStatement <http://qgis.org/api/classQgsSQLStatement.html>`__ - "
+"`QgsSQLStatement <https://qgis.org/api/classQgsSQLStatement.html>`__ - "
 "utility class for parsing SQL statements"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1681
 msgid ""
 "`QgsStringStatisticalSummary "
-"<http://qgis.org/api/classQgsStringStatisticalSummary.html>`__ - "
+"<https://qgis.org/api/classQgsStringStatisticalSummary.html>`__ - "
 "calculator for summary statistics and aggregates for a list of strings"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1683
 msgid ""
 "`QgsHillshadeRenderer "
-"<http://qgis.org/api/classQgsHillshadeRenderer.html>`__ - a renderer for "
+"<https://qgis.org/api/classQgsHillshadeRenderer.html>`__ - a renderer for "
 "generating live hillshade models"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1685
 msgid ""
 "`QgsArrowSymbolLayer "
-"<http://qgis.org/api/classQgsArrowSymbolLayer.html>`__ - line symbol "
+"<https://qgis.org/api/classQgsArrowSymbolLayer.html>`__ - line symbol "
 "layer used for representing lines as arrows"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1687
 msgid ""
 "`QgsNullSymbolRenderer "
-"<http://qgis.org/api/classQgsNullSymbolRenderer.html>`__ - a renderer "
+"<https://qgis.org/api/classQgsNullSymbolRenderer.html>`__ - a renderer "
 "which draws no symbols for features by default, but allows for labeling "
 "and diagrams for the layer"
 msgstr ""
@@ -2830,7 +2830,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1690
 msgid ""
 "`QgsSimpleMarkerSymbolLayerBase "
-"<http://qgis.org/api/classQgsSimpleMarkerSymbolLayerBase.html>`__ - "
+"<https://qgis.org/api/classQgsSimpleMarkerSymbolLayerBase.html>`__ - "
 "abstract base class for simple marker symbol layers. Handles creation of "
 "the symbol shapes but leaves the actual drawing of the symbols to "
 "subclasses."
@@ -2839,7 +2839,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1693
 msgid ""
 "`QgsFilledMarkerSymbolLayer "
-"<http://qgis.org/api/classQgsFilledMarkerSymbolLayer.html>`__ - filled "
+"<https://qgis.org/api/classQgsFilledMarkerSymbolLayer.html>`__ - filled "
 "marker symbol layer, consisting of a shape which is rendered using a "
 "QgsFillSymbolV2"
 msgstr ""
@@ -2855,7 +2855,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1702
 msgid ""
 "`QgsMultiEditToolButton "
-"<http://qgis.org/api/classQgsMultiEditToolButton.html>`__ - a tool button"
+"<https://qgis.org/api/classQgsMultiEditToolButton.html>`__ - a tool button"
 " widget which is displayed next to editor widgets in attribute forms, and"
 " allows for controlling how the widget behaves and interacts with the "
 "form while in multi edit mode"
@@ -2864,7 +2864,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1706
 msgid ""
 "`QgsSearchWidgetToolButton "
-"<http://qgis.org/api/classQgsSearchWidgetToolButton.html>`__ - a tool "
+"<https://qgis.org/api/classQgsSearchWidgetToolButton.html>`__ - a tool "
 "button widget which is displayed next to search widgets in forms, and "
 "allows for controlling how the widget behaves and how the "
 "filtering/searching operates"
@@ -2873,7 +2873,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1710
 msgid ""
 "`QgsLayerTreeEmbeddedConfigWidget "
-"<http://qgis.org/api/classQgsLayerTreeEmbeddedConfigWidget.html>`__ - a "
+"<https://qgis.org/api/classQgsLayerTreeEmbeddedConfigWidget.html>`__ - a "
 "widget to configure layer tree embedded widgets for a particular map "
 "layer"
 msgstr ""
@@ -2881,7 +2881,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1712
 msgid ""
 "`QgsLayerTreeEmbeddedWidgetProvider "
-"<http://qgis.org/api/classQgsLayerTreeEmbeddedWidgetProvider.html>`__ - "
+"<https://qgis.org/api/classQgsLayerTreeEmbeddedWidgetProvider.html>`__ - "
 "provider interface to be implemented in order to introduce new kinds of "
 "embedded widgets for use in layer tree"
 msgstr ""
@@ -2889,14 +2889,14 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1715
 msgid ""
 "`QgsLayerTreeEmbeddedWidgetRegistry "
-"<http://qgis.org/api/classQgsLayerTreeEmbeddedWidgetRegistry.html>`__ - "
+"<https://qgis.org/api/classQgsLayerTreeEmbeddedWidgetRegistry.html>`__ - "
 "registry of widgets that may be embedded into layer tree view"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1717
 msgid ""
 "`QgsAttributeFormEditorWidget "
-"<http://qgis.org/api/classQgsAttributeFormEditorWidget.html>`__ - a "
+"<https://qgis.org/api/classQgsAttributeFormEditorWidget.html>`__ - a "
 "widget consisting of both an editor widget and additional widgets for "
 "controlling the behaviour of the editor widget depending on a number of "
 "possible modes"
@@ -2905,14 +2905,14 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1720
 msgid ""
 "`QgsComposerItemComboBox "
-"<http://qgis.org/api/classQgsComposerItemComboBox.html>`__ - a combo box "
+"<https://qgis.org/api/classQgsComposerItemComboBox.html>`__ - a combo box "
 "which displays items of a matching type from a composition"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1722
 msgid ""
 "`QgsCompoundColorWidget "
-"<http://qgis.org/api/classQgsCompoundColorWidget.html>`__ - a custom QGIS"
+"<https://qgis.org/api/classQgsCompoundColorWidget.html>`__ - a custom QGIS"
 " widget for selecting a color, including options for selecting colors via"
 msgstr ""
 
@@ -2922,21 +2922,21 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1725
 msgid ""
-"`QgsDockWidget <http://qgis.org/api/classQgsDockWidget.html>`__ - "
+"`QgsDockWidget <https://qgis.org/api/classQgsDockWidget.html>`__ - "
 "QDockWidget subclass with more fine-grained control over how the widget "
 "is closed or opened"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1727
 msgid ""
-"`QgsFocusWatcher <http://qgis.org/api/classQgsFocusWatcher.html>`__ - an "
+"`QgsFocusWatcher <https://qgis.org/api/classQgsFocusWatcher.html>`__ - an "
 "event filter for watching for focus events on a parent object"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1729
 msgid ""
 "`QgsGradientStopEditor "
-"<http://qgis.org/api/classQgsGradientStopEditor.html>`__ - an interactive"
+"<https://qgis.org/api/classQgsGradientStopEditor.html>`__ - an interactive"
 " editor for previewing a gradient color ramp and modifying the position "
 "of color stops along the gradient"
 msgstr ""
@@ -2944,27 +2944,27 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1732
 msgid ""
 "`QgsMapLayerConfigWidget "
-"<http://qgis.org/api/classQgsMapLayerConfigWidget.html>`__ - a panel "
+"<https://qgis.org/api/classQgsMapLayerConfigWidget.html>`__ - a panel "
 "widget that can be shown in the map style dock"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1734
 msgid ""
 "`QgsMapLayerConfigWidgetFactory "
-"<http://qgis.org/api/classQgsMapLayerConfigWidgetFactory.html>`__ - "
+"<https://qgis.org/api/classQgsMapLayerConfigWidgetFactory.html>`__ - "
 "factory class for creating custom map layer property pages"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1736
 msgid ""
-"`QgsPanelWidget <http://qgis.org/api/classQgsPanelWidget.html>`__ - base "
+"`QgsPanelWidget <https://qgis.org/api/classQgsPanelWidget.html>`__ - base "
 "class for any widget that can be shown as a inline panel"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1738
 msgid ""
 "`QgsPanelWidgetWrapper "
-"<http://qgis.org/api/classQgsPanelWidgetWrapper.html>`__ - inline panel "
+"<https://qgis.org/api/classQgsPanelWidgetWrapper.html>`__ - inline panel "
 "wrapper widget for existing widgets which can't have the inheritance tree"
 " changed, e.g dialogs"
 msgstr ""
@@ -2972,21 +2972,21 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1740
 msgid ""
 "`QgsPanelWidgetStack "
-"<http://qgis.org/api/classQgsPanelWidgetStack.html>`__ - a stack widget "
+"<https://qgis.org/api/classQgsPanelWidgetStack.html>`__ - a stack widget "
 "to manage panels in the interface"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1742
 msgid ""
 "`QgsShortcutsManager "
-"<http://qgis.org/api/classQgsShortcutsManager.html>`__ - a class that "
+"<https://qgis.org/api/classQgsShortcutsManager.html>`__ - a class that "
 "contains a list of QActions and QShortcuts that have been registered and "
 "allows their shortcuts to be changed"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1745
 msgid ""
-"`QgsTableWidgetItem <http://qgis.org/api/classQgsTableWidgetItem.html>`__"
+"`QgsTableWidgetItem <https://qgis.org/api/classQgsTableWidgetItem.html>`__"
 " - this can be used like a regular QTableWidgetItem with the difference "
 "that a specific role can be set to sort"
 msgstr ""
@@ -2994,21 +2994,21 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1748
 msgid ""
 "`QgsHillshadeRendererWidget "
-"<http://qgis.org/api/classQgsHillshadeRendererWidget.html>`__ - renderer "
+"<https://qgis.org/api/classQgsHillshadeRendererWidget.html>`__ - renderer "
 "widget for configuring the hill shade renderer"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1750
 msgid ""
 "`QgsRasterTransparencyWidget "
-"<http://qgis.org/api/classQgsRasterTransparencyWidget.html>`__ - widget "
+"<https://qgis.org/api/classQgsRasterTransparencyWidget.html>`__ - widget "
 "for controlling a raster layer's transparency and related options"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1752
 msgid ""
 "`QgsArrowSymbolLayerWidget "
-"<http://qgis.org/api/classQgsArrowSymbolLayerWidget.html>`__ - renderer "
+"<https://qgis.org/api/classQgsArrowSymbolLayerWidget.html>`__ - renderer "
 "widget for configuring arrow symbol layers"
 msgstr ""
 
@@ -3019,14 +3019,14 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1758
 msgid ""
 "`QgsOrganizeTableColumnsDialog "
-"<http://qgis.org/api/classQgsOrganizeTableColumnsDialog.html>`__ - dialog"
+"<https://qgis.org/api/classQgsOrganizeTableColumnsDialog.html>`__ - dialog"
 " for organising (hiding and reordering) columns in the attributes table"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1760
 msgid ""
 "`QgsConfigureShortcutsDialog "
-"<http://qgis.org/api/classQgsConfigureShortcutsDialog.html>`__ - dialog "
+"<https://qgis.org/api/classQgsConfigureShortcutsDialog.html>`__ - dialog "
 "for allowing users to configure shortcuts contained in a "
 "QgsShortcutsManager"
 msgstr ""
@@ -3034,14 +3034,14 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1762
 msgid ""
 "`QgsNewGeoPackageLayerDialog "
-"<http://qgis.org/api/classQgsNewGeoPackageLayerDialog.html>`__ - dialog "
+"<https://qgis.org/api/classQgsNewGeoPackageLayerDialog.html>`__ - dialog "
 "to set up parameters to create a new GeoPackage layer"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1764
 msgid ""
 "`QgsSourceSelectDialog "
-"<http://qgis.org/api/classQgsSourceSelectDialog.html>`__ - generic widget"
+"<https://qgis.org/api/classQgsSourceSelectDialog.html>`__ - generic widget"
 " class for listing layers available from a remote service"
 msgstr ""
 

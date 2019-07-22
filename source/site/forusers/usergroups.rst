@@ -28,14 +28,14 @@ Current list of QGIS user groups
 **Registered 2017**
 
 * `QGIS Norge (Norway) - contact: Antonio Armas Diaz <http://qgis.no/>`_
-* `QGIS ZA (South Africa) - contact: Admire Nyakudya <http://qgis.org.za/>`_
+* `QGIS ZA (South Africa) - contact: Admire Nyakudya <https://qgis.org.za/>`_
 * `Groupe des Utilisateurs de QGIS - France (France) - contact: Harrissou Sant-anna <http://osgeo.asso.fr/content/project/qgis-user-fr/>`_
 * `QGIS Sverige (Sweden) - contact: Karl-Magnus Jönsson <http://qgis.se/>`_
 * `QGIS Kenya - contact: Benard Mitto <http://qgis.or.ke>`_
 * `QGIS Australia - contact: Andrew Jeffrey <http://qgis-au.org>`_
 * `QGIS USA - contact: Kurt Menke <http://qgis.us>`_
 * `QGIS Mexico - contact: Hennessy Amor Becerra Ayala <http://qgis.mx>`_
-* `QGIS Georgia - contact: Zurab Archvadze --> REMOVED in 2018 <http://qgis.org>`_
+* `QGIS Georgia - contact: Zurab Archvadze --> REMOVED in 2018 <https://qgis.org>`_
 
 **Registered 2018**
 
@@ -46,7 +46,7 @@ Current list of QGIS user groups
 **Removed 2018**
 
 * `NIWA QGIS user group (New Zealand) - contact: Brent Wood <https://teamwork.niwa.co.nz/display/NQUG/NIWA+QGIS+Users+Group>`_
-* `QGIS Georgia - contact: Zurab Archvadze <http://qgis.org>`_ 
+* `QGIS Georgia - contact: Zurab Archvadze <https://qgis.org>`_ 
 
 Goals of a user group
 ---------------------

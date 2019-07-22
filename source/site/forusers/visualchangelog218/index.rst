@@ -14,9 +14,9 @@ which is our next generation release planned for the end of the first quarter of
 
 **Thanks**
 
-We would like to thank the developers, documenters, testers and all the many folks out there who volunteer their time and effort (or fund people to do so). From the QGIS community we hope you enjoy this release! If you wish to donate time, money or otherwise get involved in making QGIS more awesome, please wander along to `qgis.org <http://qgis.org>`__ and lend a hand!
+We would like to thank the developers, documenters, testers and all the many folks out there who volunteer their time and effort (or fund people to do so). From the QGIS community we hope you enjoy this release! If you wish to donate time, money or otherwise get involved in making QGIS more awesome, please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!
 
-QGIS is supported by donors and sponsors. A current list of donors who have made financial contributions large and small to the project can be seen on our `donors list <http://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__. If you would like to become and official project sponsor, please visit `our sponsorship page <http://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for details. Sponsoring QGIS helps us to fund our six monthly developer meetings, maintain project infrastructure and fund bug fixing efforts. A complete list of current sponsors is provided below - our very great thank you to all of our sponsors!
+QGIS is supported by donors and sponsors. A current list of donors who have made financial contributions large and small to the project can be seen on our `donors list <https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__. If you would like to become and official project sponsor, please visit `our sponsorship page <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for details. Sponsoring QGIS helps us to fund our six monthly developer meetings, maintain project infrastructure and fund bug fixing efforts. A complete list of current sponsors is provided below - our very great thank you to all of our sponsors!
 
 QGIS is Free software and you are under no obligation to pay anything to use it - in fact we want to encourage people far and wide to use it regardless of what your financial or social status is - we believe empowering people with spatial decision making tools will result in a better society for all of humanity.
 
@@ -527,15 +527,15 @@ Feature: New PyQGIS classes in 2.18
 New core classes
 ~~~~~~~~~~~~~~~~
 
--  `QgsAnnotation <http://qgis.org/api/classQgsAnnotation.html>`__ - an interface for annotation items which are drawn over a map
--  `QgsFeedback <http://qgis.org/api/classQgsFeedback.html>`__ - a base class for feedback objects to be used for cancellation of something running in a worker thread
--  `QgsOptionalExpression <http://qgis.org/api/classQgsOptionalExpression.html>`__ - an expression with an additional enabled flag
+-  `QgsAnnotation <https://qgis.org/api/classQgsAnnotation.html>`__ - an interface for annotation items which are drawn over a map
+-  `QgsFeedback <https://qgis.org/api/classQgsFeedback.html>`__ - a base class for feedback objects to be used for cancellation of something running in a worker thread
+-  `QgsOptionalExpression <https://qgis.org/api/classQgsOptionalExpression.html>`__ - an expression with an additional enabled flag
 
 New GUI classes, Reusable widgets
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  `QgsExpressionLineEdit <http://qgis.org/api/classQgsExpressionLineEdit.html>`__ - includes a line edit for entering expressions together with a button to open the expression creation dialog. This widget is designed for use in contexts where no layer fields are available for use in an expression and space is constrained.
--  `QgsTabWidget <http://qgis.org/api/classQgsTabWidget.html>`__ - similar to QTabWidget but with additional methods to temporarily hide/show tabs
+-  `QgsExpressionLineEdit <https://qgis.org/api/classQgsExpressionLineEdit.html>`__ - includes a line edit for entering expressions together with a button to open the expression creation dialog. This widget is designed for use in contexts where no layer fields are available for use in an expression and space is constrained.
+-  `QgsTabWidget <https://qgis.org/api/classQgsTabWidget.html>`__ - similar to QTabWidget but with additional methods to temporarily hide/show tabs
 
 Feature: New expression functions
 ---------------------------------

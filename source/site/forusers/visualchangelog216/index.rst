@@ -42,13 +42,13 @@ We would like to thank the developers, documenters, testers and all the many
 folks out there who volunteer their time and effort (or fund people to do so).
 From the QGIS community we hope you enjoy this release! If you wish to donate time,
 money or otherwise get involved in making QGIS more awesome, please wander along
-to `qgis.org <http://qgis.org>`__ and lend a hand!
+to `qgis.org <https://qgis.org>`__ and lend a hand!
 
 QGIS is supported by donors and sponsors. A current list of donors who have made
 financial contributions large and small to the project can be seen on our
-`donors list <http://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__.
+`donors list <https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__.
 If you would like to become an official project sponsor, please visit `our
-sponsorship page <http://qgis.org/en/site/about/sponsorship.html#sponsorship>`__
+sponsorship page <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__
 for details. Sponsoring QGIS helps us to fund our six monthly developer meetings,
 maintain project infrastructure and fund bug fixing efforts. A complete list of
 current sponsors is provided below - our very great thank you to all of our sponsors!
@@ -1646,51 +1646,51 @@ Feature: New PyQGIS classes in 2.16
 New core classes
 ~~~~~~~~~~~~~~~~
 
-* `QgsComposerNodesItem <http://qgis.org/api/classQgsComposerNodesItem.html>`__ -
+* `QgsComposerNodesItem <https://qgis.org/api/classQgsComposerNodesItem.html>`__ -
   an abstract base class for composer items which provides generic methods for nodes
   based shapes such as polygons or polylines
-* `QgsComposerPolygon <http://qgis.org/api/classQgsComposerPolygon.html>`__ - a
+* `QgsComposerPolygon <https://qgis.org/api/classQgsComposerPolygon.html>`__ - a
   composer item for polygon shapes
-* `QgsComposerPolyline <http://qgis.org/api/classQgsComposerPolyline.html>`__ -
+* `QgsComposerPolyline <https://qgis.org/api/classQgsComposerPolyline.html>`__ -
   a composer item for polyline shapes
-* `QgsGroupUngroupItemsCommand <http://qgis.org/api/classQgsGroupUngroupItemsCommand.htmll>`__ -
+* `QgsGroupUngroupItemsCommand <https://qgis.org/api/classQgsGroupUngroupItemsCommand.htmll>`__ -
   a composer undo command class for grouping / ungrouping composer items
-* `QgsConstWkbSimplifierPtr <http://qgis.org/api/classQgsConstWkbSimplifierPtr.html>`__ -
+* `QgsConstWkbSimplifierPtr <https://qgis.org/api/classQgsConstWkbSimplifierPtr.html>`__ -
   WKB reader which simplifies geometries on the fly
-* `QgsAction <http://qgis.org/api/classQgsAction.html>`__ - a utility class that
+* `QgsAction <https://qgis.org/api/classQgsAction.html>`__ - a utility class that
   encapsulates an action based on vector attributes
-* `QgsActionManager <http://qgis.org/api/classQgsActionManager.html>`__ - stores
+* `QgsActionManager <https://qgis.org/api/classQgsActionManager.html>`__ - stores
   and manages actions associated with a layer
-* `QgsAggregateCalculator <http://qgis.org/api/classQgsAggregateCalculator.html>`__ -
+* `QgsAggregateCalculator <https://qgis.org/api/classQgsAggregateCalculator.html>`__ -
   a utility class for calculating aggregates for a field (or expression) over the
   features from a vector layer
-* `QgsAttributeTableConfig <http://qgis.org/api/classQgsAttributeTableConfig.html>`__ -
+* `QgsAttributeTableConfig <https://qgis.org/api/classQgsAttributeTableConfig.html>`__ -
   a container for configuration of the attribute table for a vector layer
-* `QgsDateTimeStatisticalSummary <http://qgis.org/api/classQgsDateTimeStatisticalSummary.html>`__ -
+* `QgsDateTimeStatisticalSummary <https://qgis.org/api/classQgsDateTimeStatisticalSummary.html>`__ -
   calculator for summary statistics and aggregates for a list of datetimes
-* `QgsInterval <http://qgis.org/api/classQgsInterval.html>`__ - a representation
+* `QgsInterval <https://qgis.org/api/classQgsInterval.html>`__ - a representation
   of the interval between two datetime values
-* `QgsJSONExporter <http://qgis.org/api/classQgsJSONExporter.html>`__ - handles
+* `QgsJSONExporter <https://qgis.org/api/classQgsJSONExporter.html>`__ - handles
   exporting QgsFeature features to GeoJSON features
-* `QgsJSONUtils <http://qgis.org/api/classQgsJSONUtils.html>`__ - helper
+* `QgsJSONUtils <https://qgis.org/api/classQgsJSONUtils.html>`__ - helper
   utilities for working with JSON and GeoJSON conversions
-* `QgsRuntimeProfiler <http://qgis.org/api/classQgsRuntimeProfiler.html>`__ -
+* `QgsRuntimeProfiler <https://qgis.org/api/classQgsRuntimeProfiler.html>`__ -
   simple profiler for timing code paths during execution
-* `QgsSQLStatement <http://qgis.org/api/classQgsSQLStatement.html>`__ - utility
+* `QgsSQLStatement <https://qgis.org/api/classQgsSQLStatement.html>`__ - utility
   class for parsing SQL statements
-* `QgsStringStatisticalSummary <http://qgis.org/api/classQgsStringStatisticalSummary.html>`__ -
+* `QgsStringStatisticalSummary <https://qgis.org/api/classQgsStringStatisticalSummary.html>`__ -
   calculator for summary statistics and aggregates for a list of strings
-* `QgsHillshadeRenderer <http://qgis.org/api/classQgsHillshadeRenderer.html>`__ - a
+* `QgsHillshadeRenderer <https://qgis.org/api/classQgsHillshadeRenderer.html>`__ - a
   renderer for generating live hillshade models
-* `QgsArrowSymbolLayer <http://qgis.org/api/classQgsArrowSymbolLayer.html>`__ -
+* `QgsArrowSymbolLayer <https://qgis.org/api/classQgsArrowSymbolLayer.html>`__ -
   line symbol layer used for representing lines as arrows
-* `QgsNullSymbolRenderer <http://qgis.org/api/classQgsNullSymbolRenderer.html>`__ -
+* `QgsNullSymbolRenderer <https://qgis.org/api/classQgsNullSymbolRenderer.html>`__ -
   a renderer which draws no symbols for features by default, but allows for
   labeling and diagrams for the layer
-* `QgsSimpleMarkerSymbolLayerBase <http://qgis.org/api/classQgsSimpleMarkerSymbolLayerBase.html>`__ -
+* `QgsSimpleMarkerSymbolLayerBase <https://qgis.org/api/classQgsSimpleMarkerSymbolLayerBase.html>`__ -
   abstract base class for simple marker symbol layers. Handles creation of the
   symbol shapes but leaves the actual drawing of the symbols to subclasses.
-* `QgsFilledMarkerSymbolLayer <http://qgis.org/api/classQgsFilledMarkerSymbolLayer.html>`__ -
+* `QgsFilledMarkerSymbolLayer <https://qgis.org/api/classQgsFilledMarkerSymbolLayer.html>`__ -
   filled marker symbol layer, consisting of a shape which is rendered using a QgsFillSymbolV2
 
 New GUI classes
@@ -1699,69 +1699,69 @@ New GUI classes
 Reusable widgets:
 ^^^^^^^^^^^^^^^^^
 
-* `QgsMultiEditToolButton <http://qgis.org/api/classQgsMultiEditToolButton.html>`__ -
+* `QgsMultiEditToolButton <https://qgis.org/api/classQgsMultiEditToolButton.html>`__ -
   a tool button widget which is displayed next to editor widgets in attribute forms,
   and allows for controlling how the widget behaves and interacts with the form
   while in multi edit mode
-* `QgsSearchWidgetToolButton <http://qgis.org/api/classQgsSearchWidgetToolButton.html>`__ -
+* `QgsSearchWidgetToolButton <https://qgis.org/api/classQgsSearchWidgetToolButton.html>`__ -
   a tool button widget which is displayed next to search widgets in forms,
   and allows for controlling how the widget behaves and how the filtering/searching
   operates
-* `QgsLayerTreeEmbeddedConfigWidget <http://qgis.org/api/classQgsLayerTreeEmbeddedConfigWidget.html>`__ -
+* `QgsLayerTreeEmbeddedConfigWidget <https://qgis.org/api/classQgsLayerTreeEmbeddedConfigWidget.html>`__ -
   a widget to configure layer tree embedded widgets for a particular map layer
-* `QgsLayerTreeEmbeddedWidgetProvider <http://qgis.org/api/classQgsLayerTreeEmbeddedWidgetProvider.html>`__ -
+* `QgsLayerTreeEmbeddedWidgetProvider <https://qgis.org/api/classQgsLayerTreeEmbeddedWidgetProvider.html>`__ -
   provider interface to be implemented in order to introduce new kinds of embedded
   widgets for use in layer tree
-* `QgsLayerTreeEmbeddedWidgetRegistry <http://qgis.org/api/classQgsLayerTreeEmbeddedWidgetRegistry.html>`__ -
+* `QgsLayerTreeEmbeddedWidgetRegistry <https://qgis.org/api/classQgsLayerTreeEmbeddedWidgetRegistry.html>`__ -
   registry of widgets that may be embedded into layer tree view
-* `QgsAttributeFormEditorWidget <http://qgis.org/api/classQgsAttributeFormEditorWidget.html>`__ -
+* `QgsAttributeFormEditorWidget <https://qgis.org/api/classQgsAttributeFormEditorWidget.html>`__ -
   a widget consisting of both an editor widget and additional widgets for
   controlling the behaviour of the editor widget depending on a number of possible modes
-* `QgsComposerItemComboBox <http://qgis.org/api/classQgsComposerItemComboBox.html>`__ -
+* `QgsComposerItemComboBox <https://qgis.org/api/classQgsComposerItemComboBox.html>`__ -
   a combo box which displays items of a matching type from a composition
-* `QgsCompoundColorWidget <http://qgis.org/api/classQgsCompoundColorWidget.html>`__ -
+* `QgsCompoundColorWidget <https://qgis.org/api/classQgsCompoundColorWidget.html>`__ -
   a custom QGIS widget for selecting a color, including options for selecting colors via
 * hue wheel, color swatches, and a color sampler
-* `QgsDockWidget <http://qgis.org/api/classQgsDockWidget.html>`__ - QDockWidget
+* `QgsDockWidget <https://qgis.org/api/classQgsDockWidget.html>`__ - QDockWidget
   subclass with more fine-grained control over how the widget is closed or opened
-* `QgsFocusWatcher <http://qgis.org/api/classQgsFocusWatcher.html>`__ - an event
+* `QgsFocusWatcher <https://qgis.org/api/classQgsFocusWatcher.html>`__ - an event
   filter for watching for focus events on a parent object
-* `QgsGradientStopEditor <http://qgis.org/api/classQgsGradientStopEditor.html>`__ -
+* `QgsGradientStopEditor <https://qgis.org/api/classQgsGradientStopEditor.html>`__ -
   an interactive editor for previewing a gradient color ramp and modifying the
   position of color stops along the gradient
-* `QgsMapLayerConfigWidget <http://qgis.org/api/classQgsMapLayerConfigWidget.html>`__ -
+* `QgsMapLayerConfigWidget <https://qgis.org/api/classQgsMapLayerConfigWidget.html>`__ -
   a panel widget that can be shown in the map style dock
-* `QgsMapLayerConfigWidgetFactory <http://qgis.org/api/classQgsMapLayerConfigWidgetFactory.html>`__ -
+* `QgsMapLayerConfigWidgetFactory <https://qgis.org/api/classQgsMapLayerConfigWidgetFactory.html>`__ -
   factory class for creating custom map layer property pages
-* `QgsPanelWidget <http://qgis.org/api/classQgsPanelWidget.html>`__ - base class
+* `QgsPanelWidget <https://qgis.org/api/classQgsPanelWidget.html>`__ - base class
   for any widget that can be shown as a inline panel
-* `QgsPanelWidgetWrapper <http://qgis.org/api/classQgsPanelWidgetWrapper.html>`__ -
+* `QgsPanelWidgetWrapper <https://qgis.org/api/classQgsPanelWidgetWrapper.html>`__ -
   inline panel wrapper widget for existing widgets which can't have the inheritance tree changed, e.g dialogs
-* `QgsPanelWidgetStack <http://qgis.org/api/classQgsPanelWidgetStack.html>`__ -
+* `QgsPanelWidgetStack <https://qgis.org/api/classQgsPanelWidgetStack.html>`__ -
   a stack widget to manage panels in the interface
-* `QgsShortcutsManager <http://qgis.org/api/classQgsShortcutsManager.html>`__ -
+* `QgsShortcutsManager <https://qgis.org/api/classQgsShortcutsManager.html>`__ -
   a class that contains a list of QActions and QShortcuts that have been registered
   and allows their shortcuts to be changed
-* `QgsTableWidgetItem <http://qgis.org/api/classQgsTableWidgetItem.html>`__ -
+* `QgsTableWidgetItem <https://qgis.org/api/classQgsTableWidgetItem.html>`__ -
   this can be used like a regular QTableWidgetItem with the difference that a
   specific role can be set to sort
-* `QgsHillshadeRendererWidget <http://qgis.org/api/classQgsHillshadeRendererWidget.html>`__ -
+* `QgsHillshadeRendererWidget <https://qgis.org/api/classQgsHillshadeRendererWidget.html>`__ -
   renderer widget for configuring the hill shade renderer
-* `QgsRasterTransparencyWidget <http://qgis.org/api/classQgsRasterTransparencyWidget.html>`__ -
+* `QgsRasterTransparencyWidget <https://qgis.org/api/classQgsRasterTransparencyWidget.html>`__ -
   widget for controlling a raster layer's transparency and related options
-* `QgsArrowSymbolLayerWidget <http://qgis.org/api/classQgsArrowSymbolLayerWidget.html>`__ -
+* `QgsArrowSymbolLayerWidget <https://qgis.org/api/classQgsArrowSymbolLayerWidget.html>`__ -
   renderer widget for configuring arrow symbol layers
 
 Reusable dialogs:
 ^^^^^^^^^^^^^^^^^
 
-* `QgsOrganizeTableColumnsDialog <http://qgis.org/api/classQgsOrganizeTableColumnsDialog.html>`__ -
+* `QgsOrganizeTableColumnsDialog <https://qgis.org/api/classQgsOrganizeTableColumnsDialog.html>`__ -
   dialog for organising (hiding and reordering) columns in the attributes table
-* `QgsConfigureShortcutsDialog <http://qgis.org/api/classQgsConfigureShortcutsDialog.html>`__ -
+* `QgsConfigureShortcutsDialog <https://qgis.org/api/classQgsConfigureShortcutsDialog.html>`__ -
   dialog for allowing users to configure shortcuts contained in a QgsShortcutsManager
-* `QgsNewGeoPackageLayerDialog <http://qgis.org/api/classQgsNewGeoPackageLayerDialog.html>`__ -
+* `QgsNewGeoPackageLayerDialog <https://qgis.org/api/classQgsNewGeoPackageLayerDialog.html>`__ -
   dialog to set up parameters to create a new GeoPackage layer
-* `QgsSourceSelectDialog <http://qgis.org/api/classQgsSourceSelectDialog.html>`__ -
+* `QgsSourceSelectDialog <https://qgis.org/api/classQgsSourceSelectDialog.html>`__ -
   generic widget class for listing layers available from a remote service
 
 Notable Fixes
@@ -1947,7 +1947,7 @@ Matthias Kuhn
 .. |Introducing Nødebo| image:: images/pronouncingnodebo.png
    :target: http://www.youtube.com/watch?v=GKg2SHmBExs
 .. |donate here| image:: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
-   :target: http://qgis.org/en/site/getinvolved/donations.html
+   :target: https://qgis.org/en/site/getinvolved/donations.html
 .. |image41| image:: images/entries/4991ffccebf8da94cd01acc1139f52d389731549.gif
 .. |image42| image:: images/entries/5817785cf3d18db78669c2eb2c2be0cf606c3783.gif
 .. |image43| image:: images/entries/dca557436392cf51e05a0c77fa915b5e94013d2c.gif

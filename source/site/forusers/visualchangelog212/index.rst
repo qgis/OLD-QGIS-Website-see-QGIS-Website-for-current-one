@@ -42,7 +42,7 @@ to do so).
 
 From the QGIS community we hope you enjoy this release! If you wish to
 donate time, money or otherwise get involved in making QGIS more
-awesome, please wander along to `qgis.org <http://qgis.org>`__ and lend
+awesome, please wander along to `qgis.org <https://qgis.org>`__ and lend
 a hand!
 
 Finally we would like to thank our official sponsors for the invaluable
@@ -97,10 +97,10 @@ financial support they provide to this project:
 
 A current list of donors who have made financial contributions large
 and small to the project can be seen on our `donors
-list <http://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__.
+list <https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__.
 If you would like to become and official project sponsor, please visit
 `our sponsorship
-page <http://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for
+page <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for
 details. Sponsoring QGIS helps us to fund our six monthly developer
 meetings, maintain project infrastructure and fund bug fixing efforts.
 

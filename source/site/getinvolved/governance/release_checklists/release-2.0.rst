@@ -322,8 +322,8 @@ mail::
 
  Source tarballs can be obtained from here:
 
- http://qgis.org/downloads/qgis-2.0.0.tar.bz2
- http://qgis.org/downloads/qgis-2.0.0.tar.bz2.md5
+ https://qgis.org/downloads/qgis-2.0.0.tar.bz2
+ https://qgis.org/downloads/qgis-2.0.0.tar.bz2.md5
 
  Some notes:
 
@@ -397,7 +397,7 @@ Update Version Text File
 ------------------------
 
 The file accessed from the :menuselection:`Help --> Check QGIS Version` menu is
-located at http://qgis.org/version.txt. This should be updated to reflect the
+located at https://qgis.org/version.txt. This should be updated to reflect the
 current release.
 
 Create an announcement template
@@ -475,7 +475,7 @@ A word of thanks to our contributors, donors and sponsors
   A current list of donors who have made contributions large and small to
   the project can be seen here:
 
-  http://qgis.org/en/sponsorship/donors.html
+  https://qgis.org/en/sponsorship/donors.html
 
   If you would like to make a donation or sponsor our project, please visit
   http://www.qgis.org/en/sponsorship.html. QGIS is Free software and you are
@@ -490,7 +490,7 @@ Visual tour of the new release:
   You can find a list of highlighted changes and new features listed on the
   detailed release announcement available here:
 
-  http://qgis.org/index.php?option=com_content&view=article&id=149
+  https://qgis.org/index.php?option=com_content&view=article&id=149
 
 
 New features with this release:

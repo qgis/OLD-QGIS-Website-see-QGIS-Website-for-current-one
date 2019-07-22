@@ -10,7 +10,7 @@ import distutils.core
 setup(
     name="QGIS-Website",
     version="1.0",
-    url="http://qgis.org/",
+    url="https://qgis.org/",
     author="Richard Duivenvoorde",
     author_email="richard@duif.net"
 )

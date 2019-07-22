@@ -56,16 +56,16 @@ We would like to thank the developers, documenters, testers and all the
 many folks out there who volunteer their time and effort (or fund people
 to do so). From the QGIS community we hope you enjoy this release! If
 you wish to donate time, money or otherwise get involved in making QGIS
-more awesome, please wander along to `qgis.org <http://qgis.org>`__ and
+more awesome, please wander along to `qgis.org <https://qgis.org>`__ and
 lend a hand!
 
 QGIS is supported by donors and sponsors. A current list of donors who
 have made financial contributions large and small to the project can be
 seen on our `donors
-list <http://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__.
+list <https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__.
 If you would like to become an official project sponsor, please visit
 `our sponsorship
-page <http://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for
+page <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for
 details. Sponsoring QGIS helps us to fund our six-monthly developer
 meetings, maintain project infrastructure and fund bug fixing efforts. A
 complete list of current sponsors is provided below - our very great
@@ -1549,38 +1549,38 @@ Feature: New PyQGIS classes in 2.14
 New core classes
 ~~~~~~~~~~~~~~~~
 
--  `QgsAttributeEditorElement <http://qgis.org/api/classQgsAttributeEditorElement.html>`__
+-  `QgsAttributeEditorElement <https://qgis.org/api/classQgsAttributeEditorElement.html>`__
    - abstract base class for any elements of a drag and drop form
--  `QgsAttributeEditorContainer <http://qgis.org/api/classQgsAttributeEditorContainer.html>`__
+-  `QgsAttributeEditorContainer <https://qgis.org/api/classQgsAttributeEditorContainer.html>`__
    - container for attribute editors, used to group them visually in an
    attribute form
--  `QgsAttributeEditorField <http://qgis.org/api/classQgsAttributeEditorField.html>`__
+-  `QgsAttributeEditorField <https://qgis.org/api/classQgsAttributeEditorField.html>`__
    - element for loading a field's widget onto a form
--  `QgsAttributeEditorRelation <http://qgis.org/api/classQgsAttributeEditorRelation.html>`__
+-  `QgsAttributeEditorRelation <https://qgis.org/api/classQgsAttributeEditorRelation.html>`__
    - element for loading a relation editor widget onto a form
--  `QgsEditFormConfig <http://qgis.org/api/classQgsEditFormConfig.html>`__
+-  `QgsEditFormConfig <https://qgis.org/api/classQgsEditFormConfig.html>`__
    - stores and sets configuration parameters for attribute editor forms
--  `QgsFeatureFilterProvider <http://qgis.org/api/classQgsFeatureFilterProvider.html>`__
+-  `QgsFeatureFilterProvider <https://qgis.org/api/classQgsFeatureFilterProvider.html>`__
    - provides an interface for modifying a QgsFeatureRequest in place to
    apply additional filters to the request
--  `QgsTracer <http://qgis.org/api/classQgsTracer.html>`__ - provides
+-  `QgsTracer <https://qgis.org/api/classQgsTracer.html>`__ - provides
    graph creation and shortest path search for vector layers
--  `QgsTransactionGroup <http://qgis.org/api/classQgsTransactionGroup.html>`__
+-  `QgsTransactionGroup <https://qgis.org/api/classQgsTransactionGroup.html>`__
    - interface for grouping layers into single edit transactions
--  `QgsUnitTypes <http://qgis.org/api/classQgsUnitTypes.html>`__ -
+-  `QgsUnitTypes <https://qgis.org/api/classQgsUnitTypes.html>`__ -
    helper functions for various unit types and conversions between units
    (eg distance and area units)
--  `QgsVirtualLayerDefinition <http://qgis.org/api/classQgsVirtualLayerDefinition.html>`__
+-  `QgsVirtualLayerDefinition <https://qgis.org/api/classQgsVirtualLayerDefinition.html>`__
    - class for manipulating the definitions of virtual layers
--  `QgsVirtualLayerDefinitionUtils <http://qgis.org/api/classQgsVirtualLayerDefinitionUtils.html>`__
+-  `QgsVirtualLayerDefinitionUtils <https://qgis.org/api/classQgsVirtualLayerDefinitionUtils.html>`__
    - helper utilities for working with QgsVirtualLayerDefinition objects
--  `Qgs25DRenderer <http://qgis.org/api/classQgs25DRenderer.html>`__ -
+-  `Qgs25DRenderer <https://qgis.org/api/classQgs25DRenderer.html>`__ -
    2.5D symbol renderer
--  `QgsGeometryGeneratorSymbolLayerV2 <http://qgis.org/api/classQgsGeometryGeneratorSymbolLayerV2.html>`__
+-  `QgsGeometryGeneratorSymbolLayerV2 <https://qgis.org/api/classQgsGeometryGeneratorSymbolLayerV2.html>`__
    - geometry generator symbol layer
--  `QgsFeatureRequest.OrderByClause <http://qgis.org/api/classQgsFeatureRequest_1_1OrderByClause.html>`__
+-  `QgsFeatureRequest.OrderByClause <https://qgis.org/api/classQgsFeatureRequest_1_1OrderByClause.html>`__
    - class for specifying a field sort order for feature requests
--  `QgsFeatureRequest.OrderBy <http://qgis.org/api/classQgsFeatureRequest_1_1OrderBy.html>`__
+-  `QgsFeatureRequest.OrderBy <https://qgis.org/api/classQgsFeatureRequest_1_1OrderBy.html>`__
    - a prioritized list of order by clauses for sorting
 
 New GUI classes
@@ -1589,30 +1589,30 @@ New GUI classes
 Reusable widgets:
 ^^^^^^^^^^^^^^^^^
 
--  `QgsExternalResourceWidget <http://qgis.org/api/classQgsExternalResourceWidget.html>`__
+-  `QgsExternalResourceWidget <https://qgis.org/api/classQgsExternalResourceWidget.html>`__
    - widget for displaying a file path with a push button for an "open
    file" dialog, and optional display of pictures or HTML files
--  `QgsFileWidget <http://qgis.org/api/classQgsFileWidget.html>`__ -
+-  `QgsFileWidget <https://qgis.org/api/classQgsFileWidget.html>`__ -
    widget for selecting a file or a folder
--  `QgsLegendFilterButton <http://qgis.org/api/classQgsLegendFilterButton.html>`__
+-  `QgsLegendFilterButton <https://qgis.org/api/classQgsLegendFilterButton.html>`__
    - tool button widget that allows enabling or disabling legend filter
    by contents of the map
--  `QgsMapCanvasTracer <http://qgis.org/api/classQgsMapCanvasTracer.html>`__
+-  `QgsMapCanvasTracer <https://qgis.org/api/classQgsMapCanvasTracer.html>`__
    - an extension of QgsTracer that provides extra functionality for
    interacting with map canvases
--  `Qgs25DRendererWidget <http://qgis.org/api/classQgs25DRendererWidget.html>`__
+-  `Qgs25DRendererWidget <https://qgis.org/api/classQgs25DRendererWidget.html>`__
    - widget for setting properties for a 2.5D renderer
--  `QgsColorWidgetAction <http://qgis.org/api/classQgsColorWidgetAction.html>`__
+-  `QgsColorWidgetAction <https://qgis.org/api/classQgsColorWidgetAction.html>`__
    - widget action for embedding a color picker inside a menu
 
 Reusable dialogs:
 ^^^^^^^^^^^^^^^^^
 
--  `QgsStyleV2GroupSelectionDialog <http://qgis.org/api/classQgsStyleV2GroupSelectionDialog.html>`__
+-  `QgsStyleV2GroupSelectionDialog <https://qgis.org/api/classQgsStyleV2GroupSelectionDialog.html>`__
    - dialog for grouping selections in a style
--  `QgsGroupWMSDataDialog <http://qgis.org/api/classQgsGroupWMSDataDialog.html>`__
+-  `QgsGroupWMSDataDialog <https://qgis.org/api/classQgsGroupWMSDataDialog.html>`__
    - dialog for setting properties for a WMS group
--  `QgsOrderByDialog <http://qgis.org/api/classQgsOrderByDialog.html>`__
+-  `QgsOrderByDialog <https://qgis.org/api/classQgsOrderByDialog.html>`__
    - dialog for specifying sort ordering of fields
 
 QGIS Server
@@ -1921,7 +1921,7 @@ This feature was developed by `Nyall Dawson <http://nyalldawson.net>`__
 
 .. |image1| image:: images/projects/596e7e353771d2802f065352548e512b8d902d83.png
 .. |donate here| image:: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
-   :target: http://qgis.org/en/site/getinvolved/donations.html
+   :target: https://qgis.org/en/site/getinvolved/donations.html
 .. |image27| image:: images/entries/thumbnails/3820507f3bffdaab2bafe7285a8c51791f0b1fdb.png.400x300_q85_crop.png
 .. |image28| image:: images/entries/thumbnails/c9813d351340f46e28e6a0cb576a4b2ca72466a9.png.400x300_q85_crop.jpg
 .. |image29| image:: images/entries/thumbnails/b086f236720ecb5cac0aa8bb7383275799affff4.png.400x300_q85_crop.jpg
