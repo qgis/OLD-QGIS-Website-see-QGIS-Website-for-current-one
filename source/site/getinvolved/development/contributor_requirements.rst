@@ -21,7 +21,8 @@ project, all developers/team members must:
 * These requirements apply to both developers desiring commit privileges and
   those that submit patches.
 * Read and agree to the :ref:`codeofconduct`.
-* Read and agree to the :ref:`coding_standards`.
+* Read and agree to the `Coding Standards
+  <https://docs.qgis.org/testing/en/docs/developers_guide/codingstandards.html>`_.
 * Read and agree to the :ref:`diversitystatement`.
 * Agree to these requirements by sending an email to the qgis-developer mailing
   list stating agreement.
