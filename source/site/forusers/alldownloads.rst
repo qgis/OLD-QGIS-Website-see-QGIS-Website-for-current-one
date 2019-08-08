@@ -232,24 +232,23 @@ to install both client and server applications on the same machine), type::
 In case of keyserver errors add the qgis.org repository public key to
 your apt keyring, type::
 
- wget -O - https://qgis.org/downloads/qgis-2017.gpg.key | gpg --import
- gpg --fingerprint CAEB3DC3BDF7FB45
+ wget -O - https://qgis.org/downloads/qgis-2019.gpg.key | gpg --import
+ gpg --fingerprint 51F523511C7028C3
 
 Should output::
 
- pub   2048R/BDF7FB45 2017-08-16 [expires: 2019-08-16]
-       Key fingerprint = 61E0 A086 749E 463E DE50  2255 CAEB 3DC3 BDF7 FB45
- uid                  QGIS Archive Automatic Signing Key (2017) <qgis-developer@lists.osgeo.org>
- sub   2048R/E959BBCF 2017-08-16 [expires: 2019-08-16]
+ pub   rsa4096 2019-08-08 [SCEA] [expires: 2020-08-08]
+       8D5A 5B20 3548 E500 4487  DD19 51F5 2351 1C70 28C3
+ uid           [ultimate] QGIS Archive Automatic Signing Key (2019) <qgis-developer@lists.osgeo.org>
 
 After you have verified the fingerprint you can add the key to apt with::
 
- gpg --export --armor CAEB3DC3BDF7FB45 | sudo apt-key add -
+ gpg --export --armor 51F523511C7028C3 | sudo apt-key add -
 
 Alternatively you can download the key from a keyserver and add the key to apt
 in one go (without manual fingerprint verification)::
         
- sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key CAEB3DC3BDF7FB45
+ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key 51F523511C7028C3
 
 
 Fedora
