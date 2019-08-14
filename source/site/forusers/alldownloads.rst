@@ -218,13 +218,12 @@ Example latest release for Debian unstable::
 After that type the commands below to install QGIS::
 
  sudo apt-get update
- sudo apt-get install qgis python3-qgis qgis-plugin-grass
+ sudo apt-get install qgis qgis-plugin-grass
 
-In case you would like to install QGIS Server (note that it's not a common practice
-to install both client and server applications on the same machine), type::
+In case you would like to install QGIS Server, type::
 
  sudo apt-get update
- sudo apt-get install qgis-server python3-qgis
+ sudo apt-get install qgis-server
 
 .. note:: Please remove all the QGIS and GRASS packages you may have
    installed from other repositories before doing the update.
@@ -239,7 +238,7 @@ Should output::
 
  pub   rsa4096 2019-08-08 [SCEA] [expires: 2020-08-08]
        8D5A 5B20 3548 E500 4487  DD19 51F5 2351 1C70 28C3
- uid           [ultimate] QGIS Archive Automatic Signing Key (2019) <qgis-developer@lists.osgeo.org>
+ uid           [unknown] QGIS Archive Automatic Signing Key (2019) <qgis-developer@lists.osgeo.org>
 
 After you have verified the fingerprint you can add the key to apt with::
 
