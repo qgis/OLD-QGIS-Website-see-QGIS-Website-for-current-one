@@ -31,7 +31,7 @@ data management tools (Fig. 1).
 
 .. figure:: ./images/italy_cesena1.png
    :alt: Concept Map of the QGIS project
-   :scale: 100%
+   :width: 100%
 
    Fig. 1 Concept Map of the QGIS project
 
@@ -45,7 +45,7 @@ Using this tools, I got informations about:
 
 .. figure:: ./images/italy_cesena2.png
    :alt: Satellite Map overlapped with information
-   :scale: 100%
+   :width: 100%
 
    Fig. 2: Openlayer Google Satellite overlapped by the informations recorded in different layers: the present City Wall in black, the Leonardo Da Vinci's topographic survey of the City Wall in orange, the Leonardo Da Vinci's points of survey in yellow and the present ancient City Gates in red.
 
@@ -58,7 +58,7 @@ There are lots of QGIS tools, and I used some of these to create:
 
 .. figure:: ./images/italy_cesena3.png
    :alt: Satellite Map overlapped with information
-   :scale: 100%
+   :width: 100%
 
    Fig. 3: The 3D model of the present City Wall and Cesena's buildings inside and outside the Wall. The ancient fortified towers and the ancient City Gates are indicated.
 

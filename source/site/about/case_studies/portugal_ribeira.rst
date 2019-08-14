@@ -33,7 +33,7 @@ With this work we obtained a map with the potential ecological corridors for wol
 
 .. figure:: ./images/portugal_ribeira2.png
    :alt: Ecological corridors and critical conservation areas for wolves
-   :scale: 100%
+   :width: 100%
    :align: right
 
    Ecological corridors and critical conservation areas for wolves in northern Portugal.
