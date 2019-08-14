@@ -26,7 +26,7 @@ a larger graphic vocabulary and cutting down the time it takes to create the vis
 
 .. figure:: ./images/ft_europe_migration_balkan-route.png
    :alt: Migrant flows. Western Balkans route.
-   :scale: 100%
+   :width: 100%
    :align: left
    
 *Example: Migrant flows. Western Balkans route.*
@@ -48,7 +48,7 @@ with how we approach maps.
 
 .. figure:: ./images/ft_nigeria-migration_animation.gif
    :alt: Dora's journey from Nigeria to Sicily - one of thousands by trafficked women each year
-   :scale: 100%
+   :width: 100%
    :align: left
    
 *Example: Animation of Dora's journey from Nigeria to Sicily - one of thousands by trafficked women each year.*
@@ -59,7 +59,7 @@ What did you do before joining the data visualization team at FT?
 
 .. figure:: ./images/ft_gotthard-tunnel.png
    :alt: Gotthard rail and road tunnel
-   :scale: 60%
+   :width: 60%
    :align: left
    
 *Example: Gotthard rail and road tunnel in the Swiss Alps.*
@@ -93,7 +93,7 @@ I would say 80% of our maps are now produced in QGIS.
 
 .. figure:: ./images/ft_blm-federal-land-map.png
    :alt: Public Lands in the US
-   :scale: 100%
+   :width: 100%
    :align: left
    
 *Example: Public Lands in the US.*
@@ -130,7 +130,7 @@ journey. As used in the Land Rush series recently:
 
 .. figure:: ./images/ft_isis-air-strikes_febupdate.png
    :alt: Strikes on Syria in February 2016
-   :scale: 100%
+   :width: 100%
    :align: left
 
 *Example: Strikes on Syria in February 2016.*
@@ -158,7 +158,7 @@ or be able to do but, I don’t see that as a weakness, just a missing feature.
 
 .. figure:: ./images/ft_chinaMigration.png
    :alt: Urban Attraction and Migration within China
-   :scale: 100%
+   :width: 100%
    :align: left
    
 *Example: Urban Attraction and Migration within China.*
@@ -172,7 +172,7 @@ when working for a news organisation, is usually 90% of the time.
 
 .. figure:: ./images/ft_china_henanGuangdong.png
    :alt: Urban Attraction and Migration within China, Details
-   :scale: 100%
+   :width: 100%
    :align: left
    
 *Example: Urban Attraction and Migration within China. Detail views.*
@@ -201,7 +201,7 @@ but unfortunately I’m not in control of any budgets, so I use other tools to g
 
 .. figure:: ./images/ft_us_broadband_internet_subscription.png
    :alt: Percentage of households with a broadband internet subscription in the US.
-   :scale: 100%
+   :width: 100%
    :align: left
    
 *Example: Percentage of households with a broadband internet subscription in the US.*
