@@ -136,16 +136,16 @@
                       <a href="https://qgis.org/downloads/macos/qgis-macos-pr.dmg">
                         <ul class="inline download-row">
                           <li><i class="icon-download-alt icon-large"></i></li>
-                          <li class="{{ "qgis{}-download".format( "2" if release_mac.startswith("2.") else "" ) }}"></li>
-                          <li class="download-text">{{ _('QGIS macOS Installer Version %s')|format( release_mac ) }}</li>
+                          <li class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></li>
+                          <li class="download-text">{{ _('QGIS macOS Installer Version %s')|format( version ) }}</li>
                         </ul>
                       </a>
                       <h6>{{ _('Long term release (most stable):') }}</h6>
                       <a href="https://qgis.org/downloads/macos/qgis-macos-ltr.dmg">
                         <ul class="inline download-row">
                           <li><i class="icon-download-alt icon-large"></i></li>
-                          <li class="{{ "qgis{}-download".format( "2" if ltrrelease_mac.startswith("2.") else "" ) }}"></li>
-                          <li class="download-text">{{ _('QGIS macOS Installer Version %s')|format( ltrrelease_mac ) }}</li>
+                          <li class="{{ "qgis{}-download".format( "2" if ltrversion.startswith("2.") else "" ) }}"></li>
+                          <li class="download-text">{{ _('QGIS macOS Installer Version %s')|format( ltrversion ) }}</li>
                         </ul>
                       </a>
                       <h4>{{ _('Alternative build') }}</h4>

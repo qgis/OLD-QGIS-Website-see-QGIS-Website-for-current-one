@@ -314,10 +314,6 @@ def setup(app):
     app.add_config_value('binary', None, 'env')
     app.add_config_value('ltrbinary', None, 'env')
     app.add_config_value('infeaturefreeze', None, 'env')
-    app.add_config_value('release_mac', None, 'env')
-    app.add_config_value('binary_mac', None, 'env')
-    app.add_config_value('ltrrelease_mac', None, 'env')
-    app.add_config_value('ltrbinary_mac', None, 'env')
     app.add_config_value('stripeform_url', None, 'env')
 
 
@@ -337,10 +333,6 @@ context = {
     'binary': binary,
     'ltrbinary': ltrbinary,
     'infeaturefreeze': infeaturefreeze,
-    'release_mac': '3_8_0',
-    'binary_mac': '20190624_033017',
-    'ltrrelease_mac': '3_4_9',
-    'ltrbinary_mac': '20190624_013826',
     'stripeformurl': '/stripe/form'
 }
 
