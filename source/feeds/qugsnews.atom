@@ -16,16 +16,7 @@
   Also please remove old events (as currently we only show 5 topmost events) 
 
   -->
-
-  <entry>
-    <id>https://qgis.org</id>
-    <title type="text">July 27th 2019, 2nd Annual User Meeting - QGIS Colombia</title>
-    <link href="http://qgisusers.co" rel="alternate"> </link>
-    <author> <name>No Author</name> </author>  
-    <updated>1970-01-01T00:00:00.000Z</updated>
-    <content type="text">Workshops, presentations and the 2nd Annual User Meeting in Bogotá, Colombia</content>
-  </entry>
-  
+ 
   <entry>
     <id>https://qgis.org</id>
     <title type="text">QGIS contributors meeting (QCM), 23th till 25th August 2019 Bucharest (Romania)</title>
@@ -33,14 +24,6 @@
     <author> <name>No Author</name> </author>  
     <updated>1970-01-01T00:00:00.000Z</updated>
     <content type="text">QGIS contributors and developers meeting (QCM), 23th till 25th August, right before FOSS4G Bucharest 2019 (Romania)</content>
-  </entry>
-  <entry>
-    <id>http://qgis.org</id>
-    <title type="text">December 12-13th 2019, Montpellier - France -  7th Annual user conference of the QGIS French user group</title>
-    <link href="http://conf.qgis.osgeo.fr/" rel="alternate"> </link>
-    <author> <name>Régis Haubourg</name> </author>  
-    <updated>1970-01-01T00:00:00.000Z</updated>
-    <content type="text">Barcamp, Community Sprint, Conference and Talks for the 7th Annual User Meeting Conference in Montpellier, France</content>
   </entry>
 
   <entry>
@@ -50,6 +33,15 @@
     <author> <name>No Author</name> </author>  
     <updated>1970-01-01T00:00:00.000Z</updated>
     <content type="text">There will be a QGIS centric meeting in the United States in Chattanooga, Tennessee On October 25th 2019</content>
+  </entry>
+  
+    <entry>
+    <id>http://qgis.org</id>
+    <title type="text">December 12-13th 2019, Montpellier - France -  7th Annual user conference of the QGIS French user group</title>
+    <link href="http://conf.qgis.osgeo.fr/" rel="alternate"> </link>
+    <author> <name>Régis Haubourg</name> </author>  
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <content type="text">Barcamp, Community Sprint, Conference and Talks for the 7th Annual User Meeting Conference in Montpellier, France</content>
   </entry>
 
 </feed>
