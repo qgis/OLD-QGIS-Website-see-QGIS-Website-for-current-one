@@ -427,6 +427,12 @@ source_file = i18n/en/LC_MESSAGES/site/getinvolved/development/plugindevelopment
 source_lang = en
 type = PO
 
+[qgis-website.site_getinvolved_development_development]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/development/development.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/development/development.po
+source_lang = en
+type = PO
+
 [qgis-website.site_getinvolved_development_index]
 file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/development/index.po
 source_file = i18n/en/LC_MESSAGES/site/getinvolved/development/index.po

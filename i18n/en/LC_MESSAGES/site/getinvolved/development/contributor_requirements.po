@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2019-09-05 19:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -68,16 +68,21 @@ msgid "Read and agree to the :ref:`codeofconduct`."
 msgstr ""
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:24
-msgid "Read and agree to the :ref:`coding_standards`."
-msgstr ""
-
-#: ../../source/site/getinvolved/development/contributor_requirements.rst:25
-msgid "Read and agree to the :ref:`diversitystatement`."
+msgid ""
+"Read and agree to the `Coding Standards "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/codingstandards.html>`_."
 msgstr ""
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:26
+msgid "Read and agree to the :ref:`diversitystatement`."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:27
 msgid ""
 "Agree to these requirements by sending an email to the qgis-developer "
 "mailing list stating agreement."
 msgstr ""
+
+#~ msgid "Read and agree to the :ref:`coding_standards`."
+#~ msgstr ""
 

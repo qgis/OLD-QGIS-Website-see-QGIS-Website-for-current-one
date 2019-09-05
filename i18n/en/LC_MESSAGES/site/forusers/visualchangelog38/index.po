@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"POT-Creation-Date: 2019-09-05 19:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -192,7 +192,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:580
 #: ../../source/site/forusers/visualchangelog38/index.rst:624
 #: ../../source/site/forusers/visualchangelog38/index.rst:657
-#: ../../source/site/forusers/visualchangelog38/index.rst:770
+#: ../../source/site/forusers/visualchangelog38/index.rst:781
 msgid ""
 "This feature was developed by `Nyall Dawson (North Road) <http://north-"
 "road.com>`__"
@@ -364,7 +364,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:130
 #: ../../source/site/forusers/visualchangelog38/index.rst:197
 #: ../../source/site/forusers/visualchangelog38/index.rst:300
-#: ../../source/site/forusers/visualchangelog38/index.rst:761
+#: ../../source/site/forusers/visualchangelog38/index.rst:772
 msgid ""
 "This feature was developed by `Mathieu Pellerin <http://www.imhere-"
 "asia.com/>`__"
@@ -587,7 +587,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:539
 #: ../../source/site/forusers/visualchangelog38/index.rst:578
 #: ../../source/site/forusers/visualchangelog38/index.rst:622
-#: ../../source/site/forusers/visualchangelog38/index.rst:768
+#: ../../source/site/forusers/visualchangelog38/index.rst:779
 msgid "This feature was funded by `North Road <http://north-road.com>`__"
 msgstr ""
 
@@ -790,7 +790,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:312
 #: ../../source/site/forusers/visualchangelog38/index.rst:323
-#: ../../source/site/forusers/visualchangelog38/index.rst:782
+#: ../../source/site/forusers/visualchangelog38/index.rst:720
 msgid ""
 "This feature was funded by `Kanton Schaffhausen "
 "<https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-"
@@ -838,7 +838,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:334
 msgid ""
 "This feature was funded by `QGIS User Group Switzerland "
-"<http://qgis.ch>`__"
+"<https://qgis.ch>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:336
@@ -1705,20 +1705,40 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:714
+msgid "Feature: Support for curves in DXF export"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:716
+msgid ""
+"You can now export curved geometry layers to DXF format without "
+"segmentizing the features — no more loss of curves!"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:718
+msgid "|image41|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:722
+msgid ""
+"This feature was developed by Jürgen Fischer in collaboration with "
+"Matthias Kuhn"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:725
 msgid "QGIS Server"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:717
+#: ../../source/site/forusers/visualchangelog38/index.rst:728
 msgid "Feature: Allow configuring size for GetLegendGraphics"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:719
+#: ../../source/site/forusers/visualchangelog38/index.rst:730
 msgid ""
 "For this release we improved how the legend for QGIS servers handles the "
 "size of symbols which are scaled by map units."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:720
+#: ../../source/site/forusers/visualchangelog38/index.rst:731
 msgid ""
 "Whenever possible, the server will determine the legend size based on the"
 " map canvas and resolution. Even more, for cases where this information "
@@ -1727,93 +1747,93 @@ msgid ""
 "then be drawn in the size they will have when rendered at this scale."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:722
+#: ../../source/site/forusers/visualchangelog38/index.rst:733
 msgid ""
 "This feature was developed by `David Signer, OPENGIS.ch "
 "<https://www.opengis.ch>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:725
+#: ../../source/site/forusers/visualchangelog38/index.rst:736
 msgid "Plugins"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:728
+#: ../../source/site/forusers/visualchangelog38/index.rst:739
 msgid "Feature: Support for plugin dependencies"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:730
+#: ../../source/site/forusers/visualchangelog38/index.rst:741
 msgid ""
 "In QGIS 3.8, we've introduced a long-sought-after feature for QGIS plugin"
 " developers: the ability to specify dependencies for your plugins."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:732
+#: ../../source/site/forusers/visualchangelog38/index.rst:743
 msgid ""
 "To add a plugin dependancy, you can use the new metadata "
 "\"plugin\\_dependencies\". The format is a comma-separated list of PIP-"
 "like plugin names (with optional version). E.g:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:734
+#: ../../source/site/forusers/visualchangelog38/index.rst:745
 msgid "``plugin_dependencies=GeoCoding,IPyConsole==1.9``"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:736
+#: ../../source/site/forusers/visualchangelog38/index.rst:747
 msgid "The example above will require:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:738
+#: ../../source/site/forusers/visualchangelog38/index.rst:749
 msgid "Any version of GeoCoding"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:739
+#: ../../source/site/forusers/visualchangelog38/index.rst:750
 msgid "Version 1.9 of IPyConsole"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:741
+#: ../../source/site/forusers/visualchangelog38/index.rst:752
 msgid ""
 "When a plugin is installed, the metadata is parsed and a user will be "
 "prompted with a dialog listing the dependencies. The user can then decide"
 " what to do with the dependencies:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:743
+#: ../../source/site/forusers/visualchangelog38/index.rst:754
 msgid "Install"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:744
+#: ../../source/site/forusers/visualchangelog38/index.rst:755
 msgid "Upgrade/downgrade"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:745
+#: ../../source/site/forusers/visualchangelog38/index.rst:756
 msgid "Do nothing"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:747
+#: ../../source/site/forusers/visualchangelog38/index.rst:758
 msgid "|image40|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:749
+#: ../../source/site/forusers/visualchangelog38/index.rst:760
 msgid "This feature was funded by `GISCE TI <https://gisce.net/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:751
+#: ../../source/site/forusers/visualchangelog38/index.rst:762
 msgid ""
 "This feature was developed by `Alessandro Pasotti "
 "<http://www.itopen.it/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:754
+#: ../../source/site/forusers/visualchangelog38/index.rst:765
 msgid "Programmability"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:757
+#: ../../source/site/forusers/visualchangelog38/index.rst:768
 msgid ""
 "Feature: REGEXP SQL syntax support for spatialite provider and python "
 "connections"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:759
+#: ../../source/site/forusers/visualchangelog38/index.rst:770
 msgid ""
 "We've enabled REGEX to be used with the spatialite provider. (This comes "
 "in handy when setting filters!). We've also added support for this syntax"
@@ -1822,11 +1842,11 @@ msgid ""
 "queries from within DB Manager."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:764
+#: ../../source/site/forusers/visualchangelog38/index.rst:775
 msgid "Feature: Nearest Neighbour search in QgsSpatialIndex"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:766
+#: ../../source/site/forusers/visualchangelog38/index.rst:777
 msgid ""
 "We added API to allow accurate nearest neighbor search based on "
 "QgsGeometry to QgsGeometry searches via QgsSpatialIndex. In previous QGIS"
@@ -1836,28 +1856,8 @@ msgid ""
 "geometries."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog38/index.rst:773
-msgid "Notable Fixes"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog38/index.rst:776
-msgid "Feature: Support for curves in DXF export"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog38/index.rst:778
-msgid ""
-"You can now export curved geometry layers to DXF format without "
-"segmentizing the features — no more loss of curves!"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog38/index.rst:780
-msgid "|image41|"
-msgstr ""
-
 #: ../../source/site/forusers/visualchangelog38/index.rst:784
-msgid ""
-"This feature was developed by Jürgen Fischer in collaboration with "
-"Matthias Kuhn"
+msgid "Notable Fixes"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:787
@@ -2953,4 +2953,9 @@ msgid ""
 "This feature was developed by `Loïc Bartoletti "
 "<https://oslandia.com/en/>`__"
 msgstr ""
+
+#~ msgid ""
+#~ "This feature was funded by `QGIS "
+#~ "User Group Switzerland <http://qgis.ch>`__"
+#~ msgstr ""
 

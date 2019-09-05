@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2019-09-05 19:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,23 +42,43 @@ msgid "Unit tests"
 msgstr ""
 
 #: ../../source/site/getinvolved/tests.rst:26
-msgid "See :ref:`qgis_unittesting`"
+msgid ""
+"See `Unit testing "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/unittesting.html>`_"
 msgstr ""
 
-#: ../../source/site/getinvolved/tests.rst:29
+#: ../../source/site/getinvolved/tests.rst:30
 msgid "OGC Conformance testing"
 msgstr ""
 
-#: ../../source/site/getinvolved/tests.rst:31
+#: ../../source/site/getinvolved/tests.rst:32
 msgid ""
-"See :ref:`qgis_ogc_conformance` for more information and how to run these"
-" tests yourself."
+"See `OGC conformance testing "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/ogcconformancetesting.html>`_"
+" for more information and how to run these tests yourself."
 msgstr ""
 
-#: ../../source/site/getinvolved/tests.rst:33
+#: ../../source/site/getinvolved/tests.rst:35
 msgid ""
-"Recent test output can be found here: http://test.qgis.org/ogc_cite and "
-"for latests WMS 1.3.0 test see "
-"http://test.qgis.org/ogc_cite/latest_wms_1_3_0.html."
+"Recent tests output can be found here: http://test.qgis.org/ogc_cite. For"
+" latest WMS 1.3.0 test see "
+"http://test.qgis.org/ogc_cite/wms_130/latest/report.html and for WFS "
+"1.1.0 see http://test.qgis.org/ogc_cite/wfs_110/latest/report.html."
 msgstr ""
+
+#~ msgid "See :ref:`qgis_unittesting`"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "See :ref:`qgis_ogc_conformance` for more "
+#~ "information and how to run these "
+#~ "tests yourself."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Recent test output can be found "
+#~ "here: http://test.qgis.org/ogc_cite and for "
+#~ "latests WMS 1.3.0 test see "
+#~ "http://test.qgis.org/ogc_cite/latest_wms_1_3_0.html."
+#~ msgstr ""
 
