@@ -141,6 +141,17 @@ development and consulting, namely on QGIS and PostGIS.
 
 ----
 
+.. |qcooperative| image:: /static/site/about/images/qcooperative.png
+   :height: 100 px
+
+|qcooperative| `QCooperative <https://www.qcooperative.net//>`_ (based and
+operating worldwide) provides services on several Open Source GIS software
+(QGIS, QGIS Server, PostGIS) including development, training, spatial
+analysis, quality assurance, and commercial helpdesk support.
+
+
+----
+
 .. |sourcepole| image:: /static/site/about/images/sourcepole.gif
    :width: 200 px
 
