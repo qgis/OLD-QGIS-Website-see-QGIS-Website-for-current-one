@@ -41,6 +41,18 @@ technologies.
 
 ----
 
+.. |chartistech| image:: /static/site/about/images/chartistechnology.png
+   :height: 100 px
+
+|chartistech| `Chartis Technology <http://chartistechnology.com/products/qgis>`_
+(based in Australia) Chartis Technology are an Australian based geospatial solutions provider. 
+Our aim is to develop, utilise and implement complex spatial technology to better our customers
+and the community's ability to deal with spatial problems. We distribute IntraMaps, FME (Safe Software) 
+and work with a variety of Open Source Software. We are committed to support the QGIS community by 
+offering development, support and training.
+
+----
+
 .. |faunalia| image:: /static/site/about/images/faunalia.png
    :height: 100 px
 
