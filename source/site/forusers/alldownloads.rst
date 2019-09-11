@@ -449,7 +449,7 @@ pacman -S qgis
 QGIS LTR
 ...........
 
-Qgis Long Term Release is available in AUR (Arch User Repository).
+QGIS Long Term Release is available in AUR (Arch User Repository).
 
 Install with yaourt or other package manager which support AUR :
 
@@ -461,7 +461,7 @@ For bugs and other behaviour, read comments here : https://aur.archlinux.org/pac
 QGIS testing
 ............
 
-Qgis testing is available in AUR (Arch User Repository).
+QGIS testing is available in AUR (Arch User Repository).
 
 Install with yaourt or other package manager which support AUR :
 
@@ -477,9 +477,11 @@ Official All-in-one, signed installers for for macOS High Sierra (10.13) and new
 
 Alternative builds supporting macOS 10.11 El Capitan and later are available from `kyngchaos.com <https://www.kyngchaos.com/software/qgis/>`_
 
+.. _QGIS-macos-testing:
+
 QGIS nightly release
 --------------------
-A nightly updated standalone installer from QGIS master can be downloaded from the `QGIS-Mac_packager <https://github.com/qgis/QGIS-Mac-Packager>`_ Github project.
+A nightly updated standalone installer from QGIS master can be downloaded from `here <https://qgis.org/downloads/macos/qgis-macos-nightly.dmg>`_.
 
 Old releases
 ------------
@@ -487,7 +489,6 @@ Previous releases of the official installer can be downloaded from https://qgis.
 
 Previous releases of the kyngchaos installer can be downloaded from https://www.kyngchaos.com/software/archive/. The oldest installers support macOS 10.4 Tiger.
 
-.. _QGIS-macos-testing:
 
 FreeBSD
 =======
@@ -505,7 +506,6 @@ Or to customize compilation options, you can build it from FreeBSD ports
 
  cd /usr/ports/graphics/qgis
  make install clean
-
 
 
 QGIS LTR
