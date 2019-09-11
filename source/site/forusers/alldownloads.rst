@@ -487,6 +487,8 @@ Previous releases of the official installer can be downloaded from https://qgis.
 
 Previous releases of the kyngchaos installer can be downloaded from https://www.kyngchaos.com/software/archive/. The oldest installers support macOS 10.4 Tiger.
 
+.. _QGIS-macos-testing:
+
 FreeBSD
 =======
 
