@@ -473,26 +473,19 @@ For bugs and other behaviour, read comments here : https://aur.archlinux.org/pac
 Mac OS X / macOS
 ================
 
-Installation instructions are in the ReadMe on the disk image. Downloads are on the QGIS download page.
+Official All-in-one, signed installers for for macOS High Sierra (10.13) and newer can be downloaded from the `QGIS download page <https://qgis.org/en/site/forusers/download.html>`_.
 
-QGIS current
-------------
+Alternative builds supporting macOS 10.11 El Capitan and later are available from `kyngchaos.com <https://www.kyngchaos.com/software/qgis/>`_
 
-The current QGIS package uses the `python.org Python 3.6 <http://www.python.org/>`_, at least version 3.6.5, the "macosx10.9" build - other distributions are not supported. Install packages in the numbered order.  Especially note that Python must be installed before the GDAL Complete package and QGIS, else the GDAL and other needed Python modules will not be installed.
-
-QGIS stable
------------
-
-The stable package uses the system Python 2.7 - other distributions are not supported. It also requires the NumPy and Matplotlib packages on the disk image. Install packages in the numbered order. If an older major version is being upgraded (2.16 or older), delete QGIS.app from your Applications folder before installing this version.
-
-Other Python modules for plugins to use are available from `kyngchaos.com <http://www.kyngchaos.com/software/python>`_.
-
-Standalone Installer
+QGIS nightly release
 --------------------
+A nightly updated standalone installer from QGIS master can be downloaded from the `QGIS-Mac_packager <https://github.com/qgis/QGIS-Mac-Packager>`_ Github project.
 
-A standalone installer is available at `<https://lutraconsulting.github.io/qgis-mac-packager/>`_.
+Old releases
+------------
+Previous releases of the official installer can be downloaded from https://qgis.org/downloads/macOS/.
 
-.. _QGIS-macos-testing:
+Previous releases of the kyngchaos installer can be downloaded from https://www.kyngchaos.com/software/archive/. The oldest installers support macOS 10.4 Tiger.
 
 FreeBSD
 =======
