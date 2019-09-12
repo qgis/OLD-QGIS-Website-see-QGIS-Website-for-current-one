@@ -229,6 +229,15 @@ commercial support, custom programming and training for QGIS, PostGIS and GRASS.
 
 ----
 
+.. |qtibia| image:: /static/site/about/images/qtibia.png
+   :height: 200 px
+
+|qtibia| `QTIBIA Engineering <https://qtibia.ro//>`_ (based in Romania, operating worldwide)
+provides services, support and training on QGIS, Postgis and other FOSS with extra focus on
+the water/wastewater sector.
+
+----
+
 .. |septima| image:: /static/site/about/images/septima_small.png
    :width: 150 px
 
