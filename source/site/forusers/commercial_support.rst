@@ -371,6 +371,16 @@ support, cartography, and data analysis.
 
 ----
 
+.. |opengeolabs| image:: /static/site/about/images/opengeolabs.png
+   :width: 75 px
+
+|opengeolabs| `OpenGeoLabs s.r.o <http://opengeolabs.cz/>`_ (based in Prague,
+The Czech Republic) provides training courses (using `GISMentors
+<http://gismentors.cz>`_ trademark), technical support and custom development
+for open source software for geospatial.
+
+----
+
 .. |soltig| image:: /static/site/about/images/soltig.png
    :width: 75 px
 
