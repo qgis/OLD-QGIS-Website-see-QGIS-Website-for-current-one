@@ -248,6 +248,15 @@ Japanese
 ========
 
 
+Pythonではじめるマップアプリケーションプラグイン
+************************************************
+
+Map Application Plug-in, Starting With Python (pdf and print)
+
+* https://day-journal.com/memo/book-002
+* Authors: Yasunori Kirimoto
+* Date: September 2019
+
 【改訂新版】［オープンデータ＋QGIS］統計・防災・環境情報がひと目でわかる地図の作り方
 ************************************************************************************
 
