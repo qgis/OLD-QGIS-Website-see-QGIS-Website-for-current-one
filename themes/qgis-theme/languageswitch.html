@@ -94,7 +94,7 @@
             // http://changelog.qgis.org/en/qgis/past-sponsors/json/?years_limit=2
             json2html('/feeds/qgispastsponsors.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
         }
-        else if (currentPage == "site/forusers/download.html" || currentPage == "site/forusers/alldownloads.html"){
+        else if (currentPage == "site/forusers/download.html"){
             $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
             '<h2>{{ _("Thank you!") }}</h2> <p/>'+
             '<div class="container"><div class="span8">'+
@@ -111,6 +111,8 @@
                 $('#thankyou').show();
                 return true;
             });
+        }
+        else if (currentPage == "site/forusers/alldownloads.html"){
 	    replacesha('qgis-rel-dev-x86');
 	    replacesha('qgis-rel-dev-x86_64');
 	    replacesha('qgis-ltr-dev-x86');
