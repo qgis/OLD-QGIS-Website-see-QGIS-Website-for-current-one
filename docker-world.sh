@@ -34,7 +34,7 @@ for l in $langs
     time /bin/bash ./docker-run.sh $TARGET LANG=$l
     #time rsync -hvrzc -e ssh --progress output/html/$l qgis.osgeo.osuosl.org:/var/www/qgisdata/QGIS-Website/live/html
     # 1 dec 2017: sync to qgis2
-    time rsync -hvrzc --progress output/html/$l /var/www/qgisdata/QGIS-Website/live/html
+    time rsync -hvrzc --delete --progress output/html/$l /var/www/qgisdata/QGIS-Website/live/html
   done
 
 time rsync -hvzc -e ssh --progress output/html/version.txt /var/www/qgisdata/QGIS-Website/live/html
