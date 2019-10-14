@@ -3,8 +3,8 @@
 Write Documentation
 ===================
 
-The update of the QGIS documentation is managed by the :ref:`Community Team Lead <gui-translation>`.
-Have a look at the :ref:`QGIS Governance <gui-translation>` to find out who is in charge
+The update of the QGIS documentation is managed by the :ref:`Community Team Lead <community-resources>`.
+Have a look at the :ref:`QGIS Governance <whoiswho>` to find out who is in charge
 of guiding you.
 
 The complete list of documents managed by the QGIS documentation team can be found
