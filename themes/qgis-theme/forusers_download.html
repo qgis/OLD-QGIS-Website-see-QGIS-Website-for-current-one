@@ -4,7 +4,7 @@
         <p class="main">{{ _('Binary packages (installers) are available from this page.') }}</p>
         <p class="main">{{ _('The current version is QGIS %s \'%s\' and was released on %s.')|format( release, codename, releasedate.strftime('%d.%m.%Y') ) }}</p>
         <p class="main">{{ _('The long-term repositories currently offer QGIS %s \'%s\'.')|format( ltrrelease, ltrcodename ) }}</p>
-        <p class="main">{{ _('QGIS is available on Windows, MacOS X, Linux and Android.') }}</p>
+        <p class="main">{{ _('QGIS is available on Windows, macOS, Linux and Android.') }}</p>
 {% if infeaturefreeze == True %}
         <p class="main">
           {{ _('We are currently in feature freeze preceeding the release of QGIS %s. <b>Please consider testing the prereleases</b>. See ')|format(nextversion) }}
@@ -125,7 +125,7 @@
                 <div class="accordion-group">
                   <div class="accordion-heading">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#mac">
-                      <h4>{{ _('Download for Mac OS X') }} <i class="icon-chevron-down pull-right"></i></h4>
+                      <h4>{{ _('Download for macOS') }} <i class="icon-chevron-down pull-right"></i></h4>
                     </a>
                   </div>
                   <div id="mac" class="accordion-body collapse in">
