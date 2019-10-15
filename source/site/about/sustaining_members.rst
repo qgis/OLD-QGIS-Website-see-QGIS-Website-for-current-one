@@ -23,10 +23,9 @@ For information on becoming a sustaining member, please visit :ref:`QGIS_sustain
 List of current sustaining members
 ----------------------------------
 
-Annually we also receive support from various organisations who appreciate the
+Annually we receive support from various organisations who appreciate the
 work we do and would like to facilitate the sustained development effort that
-goes into the project. These sustaining members are listed below
-with our thanks!
+goes into the project.
 
 :raw-html:`<div id="qgissustainingmembersatom"> <!-- to be filled via javascript loading of atom feed --> </div>`
 
