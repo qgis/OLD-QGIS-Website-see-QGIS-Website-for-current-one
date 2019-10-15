@@ -1,17 +1,11 @@
 .. _QGIS-sustaining_members:
 
-Sustaining members, sponsors and Donors
+Sustaining members and Donors
 =======================================
 
-We thank our sustaining members, sponsors and donors who support the QGIS project and enable us to pay
+We thank our sustaining members and donors who support the QGIS project, often regularly, and enable us to pay
 for our infrastructure and important development work, as well as finance developer
-meetings and promotion of QGIS in workshops and conferences. Note that we are currently in a transition
-phase changing from a sponsor system to a system with sustaining members. This should make it easier
-for public authorities to support the QGIS.ORG project by becoming a sustaining member. For many public
-organizations it was difficult or impossible to sponsor or donate to a project.
-
-Organizations who supported QGIS before March 17, 2019 are still sponsors, after that date we introduce new supporters
-as sustaining members.
+meetings and promotion of QGIS in workshops and conferences.
 
 For information on becoming a sustaining member, please visit :ref:`QGIS_sustaining_memberships`.
 
@@ -26,19 +20,19 @@ For information on becoming a sustaining member, please visit :ref:`QGIS_sustain
 
 .. _list_of_sustaining_members:
 
-List of current sustaining members or sponsors
------------------------------------------------
+List of current sustaining members
+----------------------------------
 
 Annually we also receive support from various organisations who appreciate the
 work we do and would like to facilitate the sustained development effort that
-goes into the project. These sustaining members and sponsors are listed below
+goes into the project. These sustaining members are listed below
 with our thanks!
 
 :raw-html:`<div id="qgissustainingmembersatom"> <!-- to be filled via javascript loading of atom feed --> </div>`
 
 
-List of past sustaining members or sponsors
--------------------------------------------
+List of past sustaining members
+-------------------------------
 
 :raw-html:`<div id="qgispastsustainingmembersatom"> <!-- to be filled via javascript loading of atom feed --> </div>`
 
