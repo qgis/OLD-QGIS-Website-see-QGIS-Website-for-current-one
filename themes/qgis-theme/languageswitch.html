@@ -166,13 +166,13 @@
               var imglink = '#';
               var link = '#';
               var content = '';
-              var sponsor_level = 'Bronze';
+              var sponsor_level = 'Small';
               if (item.sponsor_url){link=item.sponsor_url};
               if (item.image_url){imglink=item.image_url};
               if (item.sponsor_level){sponsor_level=item.sponsor_level};
               var title = item.title;
               content = '<div><img class="sponsor_img '+sponsor_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
-                '<p class="sponsor_body '+sponsor_level.toLowerCase()+'">'+item.sponsor_country+'<br/>Sponsorship level: '+sponsor_level+'<br/>'+
+                '<p class="sponsor_body '+sponsor_level.toLowerCase()+'">'+item.sponsor_country+'<br/>Membership level: '+sponsor_level+'<br/>'+
                 '('+item.start_date+' - '+item.end_date+')</p>';
               html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
               html+='<div class="sponsordiv"><h4>'+title+'</h4>';
