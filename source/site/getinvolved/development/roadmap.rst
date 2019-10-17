@@ -22,10 +22,6 @@ for packaging is issued.
 Every third release (starting with 2.8) is a long-term-release (LTR) that is
 maintained until the next long-term-release occurs.
 
-.. note::
-  During the development of QGIS 3.0 and 3.2, an exception to this schedule
-  has been put into place. See the roadmap below for adjusted information.
-
 Development phase
 -----------------
 
