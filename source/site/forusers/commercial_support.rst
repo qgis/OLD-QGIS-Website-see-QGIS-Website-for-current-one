@@ -221,6 +221,15 @@ OpenLayers
 
 ----
 
+.. |LandGoed| image:: /static/site/about/images/landgoed.png
+   :width: 200 px
+
+|LandGoed| `LandGoed <http://landgoed.nl/>`_ (based in the Netherlands) provides commercial support, hosting services and training for all opensource-GIS, including QGIS. With over ten years experience in training and developing, LandGoed is the go-to supplier for opensource-GIS in the Netherlands.
+
+----
+
+
+
 .. |nextgis| image:: /static/site/about/images/nextgis.gif
    :width: 200 px
 
