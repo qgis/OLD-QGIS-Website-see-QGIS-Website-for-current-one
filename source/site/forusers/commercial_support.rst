@@ -305,7 +305,7 @@ commercial support.
 .. |gtsicon| image:: /static/site/about/images/geospatial-training-solutions.png
    :width: 75 px
 
-|gtsicon| `Geospatial Training Solutions (Dr Nick Bearman) <https://www.geospatialtrainingsolutions.co.uk/>`_ is based Cornwall, UK and provides bespoke GIS training courses for researchers, professionals and students. I use QGIS is much of my consultancy work, and teach a wide variety of subject experts how to understand and work with spatial data. I can show your research group or organisation how you can get more from your spatial data and how to create better maps for your publications or use spatial data to improve your bottom line. 
+|gtsicon| `Geospatial Training Solutions (Dr Nick Bearman) <https://www.geospatialtrainingsolutions.co.uk/>`_ is based in Cornwall, UK and provides bespoke GIS training courses for researchers, professionals and students. I use QGIS in much of my consultancy work, and teach a wide variety of subject experts how to understand and work with spatial data. I can show your research group or organisation how you can get more from your spatial data and how to create better maps for your publications or use spatial data to improve your bottom line. 
 
 ----
 
