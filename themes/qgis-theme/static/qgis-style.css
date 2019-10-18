@@ -540,24 +540,24 @@ section.latest-news p.intro {
 .span3 img.flickrimg {
   width: 150px;
 }
-section.sponsors {
+section.members {
   padding: 30px 0;
   text-align: center;
   background: #333333 url('images/paper-texture.png') repeat;
 }
-section.sponsors header {
+section.members header {
   height: 30px;
   overflow: visible;
   margin-bottom: 40px;
 }
-section.sponsors h3 {
+section.members h3 {
   text-transform: uppercase;
   display: inline-block;
   font-weight: 400;
   padding: 0 40px;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 0 30px rgba(0, 0, 0, 0.075);
 }
-section.sponsors .sponsor {
+section.members .member {
   text-align: center;
 }
 /*** DOWNLOAD ***/
@@ -940,58 +940,58 @@ object.align-right {
   width: 70%;
   margin: 0 auto;
 }
-/* generation of sponsor lists */
-.sponsordiv {
+/* generation of member lists */
+.memberdiv {
   padding-top: 20px;
   color: #666;
 }
-.sponsor_img {
+.member_img {
   float: left;
 }
-#qgissustainingmembersatom .sponsor_img.large {
+#qgissustainingmembersatom .member_img.large {
   width: 300px;
 }
-#qgissustainingmembersatom .sponsor_img.medium {
+#qgissustainingmembersatom .member_img.medium {
   width: 200px;
 }
-#qgissustainingmembersatom .sponsor_img.small {
+#qgissustainingmembersatom .member_img.small {
   width: 90px;
 }
-#qgispastsustainingmembersatom .sponsor_img.large {
+#qgispastsustainingmembersatom .member_img.large {
   width: 60px;
 }
-#qgispastsustainingmembersatom .sponsor_img.medium {
+#qgispastsustainingmembersatom .member_img.medium {
   width: 60px;
 }
-#qgispastsustainingmembersatom .sponsor_img.small {
+#qgispastsustainingmembersatom .member_img.small {
   width: 60px;
 }
-#qgissustainingmembersatom .sponsor_body.large {
+#qgissustainingmembersatom .member_body.large {
   padding-left: 330px;
 }
-#qgissustainingmembersatom .sponsor_body.medium {
+#qgissustainingmembersatom .member_body.medium {
   padding-left: 230px;
 }
-#qgissustainingmembersatom .sponsor_body.small {
+#qgissustainingmembersatom .member_body.small {
   padding-left: 120px;
 }
 #qgissustainingmembersatom h4 {
   font-size: 22px;
 }
-#qgispastsustainingmembersatom .sponsor_body.large {
+#qgispastsustainingmembersatom .member_body.large {
   padding-left: 80px;
 }
-#qgispastsustainingmembersatom .sponsor_body.medium {
+#qgispastsustainingmembersatom .member_body.medium {
   padding-left: 80px;
 }
-#qgispastsustainingmembersatom .sponsor_body.small {
+#qgispastsustainingmembersatom .member_body.small {
   padding-left: 80px;
 }
-#qgispastsustainingmembersatom .sponsor_body {
+#qgispastsustainingmembersatom .member_body {
   line-height: 1rem;
   color: #bbb;
 }
-#qgispastsustainingmembersatom .sponsordiv {
+#qgispastsustainingmembersatom .memberdiv {
   padding-top: 0px !important;
 }
 #qgispastsustainingmembersatom h4 {
