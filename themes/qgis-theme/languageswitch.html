@@ -168,16 +168,16 @@
               var imglink = '#';
               var link = '#';
               var content = '';
-              var sponsor_level = 'Small';
-              if (item.sponsor_url){link=item.sponsor_url};
+              var member_level = 'Small';
+              if (item.member_url){link=item.member_url};
               if (item.image_url){imglink=item.image_url};
-              if (item.sponsor_level){sponsor_level=item.sponsor_level};
+              if (item.member_level){member_level=item.member_level};
               var title = item.title;
-              content = '<div><img class="sponsor_img '+sponsor_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
-                '<p class="sponsor_body '+sponsor_level.toLowerCase()+'">'+item.sponsor_country+'<br/>Membership level: '+sponsor_level+'<br/>'+
+              content = '<div><img class="member_img '+member_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="member_body '+member_level.toLowerCase()+'">'+item.member_country+'<br/>Membership level: '+member_level+'<br/>'+
                 '('+item.start_date+' - '+item.end_date+')</p>';
               html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
-              html+='<div class="sponsordiv"><h4>'+title+'</h4>';
+              html+='<div class="memberdiv"><h4>'+title+'</h4>';
               html+=content;
               html+='</div></a></div>';
             })
@@ -251,7 +251,7 @@
                     }
                     else if (holder == '#qgissustainingmembersatom' || holder == '#qgissustainingmembersatom'){
                         html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
-                        html+='<div class="sponsordiv"><h4>'+title+'</h4>';
+                        html+='<div class="memberdiv"><h4>'+title+'</h4>';
                         html+=content;
                         html+='</div></a></div>';
                         addit = false; // we are building html ourselves!!
