@@ -23,15 +23,8 @@ mv qugsnews.atom qugsnews.atom.0
 curl https://raw.githubusercontent.com/qgis/QGIS-Website/master/source/feeds/qugsnews.atom -o qugsnews.atom
 
 # get sponsors (from changelog.qgis.org/projecta)
-#mv qgissponsors.atom qgissponsors.atom.0
-#curl http://changelog.qgis.org/en/qgis/sponsors/atom/ -o qgissponsors.atom
+mv qgismembers.json qgismembers.json.0
+curl http://changelog.qgis.org/en/qgis/members/json/ -o qgismembers.json
 # and list of past sponsors too
-#mv qgispastsponsors.atom qgispastsponsors.atom.0
-#curl http://changelog.qgis.org/en/qgis/past-sponsors/atom/ -o qgispastsponsors.atom
-
-# get sponsors (from changelog.qgis.org/projecta)
-mv qgissponsors.json qgissponsors.json.0
-curl http://changelog.qgis.org/en/qgis/sponsors/json/ -o qgissponsors.json
-# and list of past sponsors too
-mv qgispastsponsors.json qgispastsponsors.json.0
-curl http://changelog.qgis.org/en/qgis/past-sponsors/json/?years_limit=2 -o qgispastsponsors.json
+mv qgispastmembers.json qgispastmembers.json.0
+curl http://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2 -o qgispastmembers.json
