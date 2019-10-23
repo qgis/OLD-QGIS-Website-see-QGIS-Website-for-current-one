@@ -89,10 +89,10 @@
         }
         else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
             // crontab is pulling url's below and copy to /feed at qgis.org
-            // http://changelog.qgis.org/en/qgis/sponsors/json/
-            json2html('/feeds/qgissponsors.json', '#qgissustainingmembersatom', 1000, true, 'span3');
-            // http://changelog.qgis.org/en/qgis/past-sponsors/json/?years_limit=2
-            json2html('/feeds/qgispastsponsors.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
+            // http://changelog.qgis.org/en/qgis/members/json/
+            json2html('/feeds/members.json', '#qgissustainingmembersatom', 1000, true, 'span3');
+            // http://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2
+            json2html('/feeds/qgispastmembers.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
         }
         else if (currentPage == "site/forusers/download.html"){
             $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
