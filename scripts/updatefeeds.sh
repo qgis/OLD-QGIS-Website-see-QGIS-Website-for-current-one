@@ -23,8 +23,8 @@ mv qugsnews.atom qugsnews.atom.0
 curl https://raw.githubusercontent.com/qgis/QGIS-Website/master/source/feeds/qugsnews.atom -o qugsnews.atom
 
 # get sponsors (from changelog.qgis.org/projecta)
-mv qgismembers.json qgismembers.json.0
-curl http://changelog.qgis.org/en/qgis/members/json/ -o qgismembers.json
+mv members.json members.json.0
+curl http://changelog.qgis.org/en/qgis/members/json/ -o members.json
 # and list of past sponsors too
 mv qgispastmembers.json qgispastmembers.json.0
 curl http://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2 -o qgispastmembers.json
