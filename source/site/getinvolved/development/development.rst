@@ -44,7 +44,7 @@ Developing C++ Plugin
 Preparing the Environment and Setting up the Repo
 .................................................
 
-* Go to the QGIS repository in Github at https://github.com/qgis/QGIS/
+* Go to the QGIS repository in GitHub at https://github.com/qgis/QGIS/
 * Make a Fork for yourself. Learn more about forking and keeping your repo in sync 
   with the main development repo at http://help.github.com/fork-a-repo/
 * Clone your personal copy of the repository to your system, and 
