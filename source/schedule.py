@@ -3,7 +3,7 @@ from datetime import date
 # latest release
 version = '3.10'
 release = '3.10.0'
-codename = u'Zanzibar'
+codename = u'A Coruña'
 binary = '1'
 releasedate = date(2019, 10, 25)
 releasenote = u'\u200B'
