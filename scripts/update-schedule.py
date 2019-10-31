@@ -87,7 +87,9 @@ for row in reader:
     elif r == "LR":
         lr_name, lr_note, lr_binary = name, note, binary
     elif r == "DEV":
-        devversion, nextversion = name, note
+        devversion = name
+    elif r == "NEXT":
+        nextversion = name
 
 o = open("source/schedule.py", "w")
 
