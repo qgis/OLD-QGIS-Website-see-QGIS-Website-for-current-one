@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 19:50+0200\n"
+"POT-Creation-Date: 2019-11-02 12:44+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -581,8 +581,7 @@ msgstr ""
 #: ../../source/site/forusers/alldownloads.rst:422
 #: ../../source/site/forusers/alldownloads.rst:432
 #: ../../source/site/forusers/alldownloads.rst:440
-#: ../../source/site/forusers/alldownloads.rst:484
-#: ../../source/site/forusers/alldownloads.rst:501
+#: ../../source/site/forusers/alldownloads.rst:497
 msgid "QGIS stable"
 msgstr ""
 
@@ -628,20 +627,18 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:290
 #: ../../source/site/forusers/alldownloads.rst:325
-#: ../../source/site/forusers/alldownloads.rst:355
-msgid "28"
+#: ../../source/site/forusers/alldownloads.rst:357
+msgid "29"
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:290
 #: ../../source/site/forusers/alldownloads.rst:292
 #: ../../source/site/forusers/alldownloads.rst:294
-msgid "3.8"
+msgid "3.10"
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:290
-#: ../../source/site/forusers/alldownloads.rst:292
 #: ../../source/site/forusers/alldownloads.rst:325
-#: ../../source/site/forusers/alldownloads.rst:327
 #: ../../source/site/forusers/alldownloads.rst:355
 #: ../../source/site/forusers/alldownloads.rst:357
 msgid "7.4"
@@ -649,21 +646,25 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:292
 #: ../../source/site/forusers/alldownloads.rst:327
-#: ../../source/site/forusers/alldownloads.rst:357
-msgid "29"
-msgstr ""
-
-#: ../../source/site/forusers/alldownloads.rst:294
-#: ../../source/site/forusers/alldownloads.rst:329
 #: ../../source/site/forusers/alldownloads.rst:359
 msgid "30"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:294
-#: ../../source/site/forusers/alldownloads.rst:329
+#: ../../source/site/forusers/alldownloads.rst:292
+#: ../../source/site/forusers/alldownloads.rst:327
 #: ../../source/site/forusers/alldownloads.rst:359
 #: ../../source/site/forusers/alldownloads.rst:361
 msgid "7.6"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:294
+#: ../../source/site/forusers/alldownloads.rst:329
+msgid "31"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:294
+#: ../../source/site/forusers/alldownloads.rst:329
+msgid "7.8"
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:297
@@ -693,6 +694,10 @@ msgstr ""
 #: ../../source/site/forusers/alldownloads.rst:406
 #: ../../source/site/forusers/alldownloads.rst:462
 msgid "QGIS testing"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:355
+msgid "28"
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:355
@@ -799,12 +804,12 @@ msgid "pacman -S qgis"
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:450
-#: ../../source/site/forusers/alldownloads.rst:517
+#: ../../source/site/forusers/alldownloads.rst:512
 msgid "QGIS LTR"
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:452
-msgid "Qgis Long Term Release is available in AUR (Arch User Repository)."
+msgid "QGIS Long Term Release is available in AUR (Arch User Repository)."
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:454
@@ -823,7 +828,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:464
-msgid "Qgis testing is available in AUR (Arch User Repository)."
+msgid "QGIS testing is available in AUR (Arch User Repository)."
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:468
@@ -842,110 +847,106 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:476
 msgid ""
-"Installation instructions are in the ReadMe on the disk image. Downloads "
-"are on the QGIS download page."
+"Official All-in-one, signed installers for for macOS High Sierra (10.13) "
+"and newer can be downloaded from the `QGIS download page "
+"<https://qgis.org/en/site/forusers/download.html>`_."
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:479
-msgid "QGIS current"
-msgstr ""
-
-#: ../../source/site/forusers/alldownloads.rst:481
+#: ../../source/site/forusers/alldownloads.rst:478
 msgid ""
-"The current QGIS package uses the `python.org Python 3.6 "
-"<http://www.python.org/>`_, at least version 3.6.5, the \"macosx10.9\" "
-"build - other distributions are not supported. Install packages in the "
-"numbered order.  Especially note that Python must be installed before the"
-" GDAL Complete package and QGIS, else the GDAL and other needed Python "
-"modules will not be installed."
+"Alternative builds supporting macOS 10.11 El Capitan and later are "
+"available from `kyngchaos.com "
+"<https://www.kyngchaos.com/software/qgis/>`_"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:486
+#: ../../source/site/forusers/alldownloads.rst:483
+msgid "QGIS nightly release"
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:484
 msgid ""
-"The stable package uses the system Python 2.7 - other distributions are "
-"not supported. It also requires the NumPy and Matplotlib packages on the "
-"disk image. Install packages in the numbered order. If an older major "
-"version is being upgraded (2.16 or older), delete QGIS.app from your "
-"Applications folder before installing this version."
+"A nightly updated standalone installer from QGIS master can be downloaded"
+" from `here <https://qgis.org/downloads/macos/qgis-macos-nightly.dmg>`_."
+msgstr ""
+
+#: ../../source/site/forusers/alldownloads.rst:487
+msgid "Old releases"
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:488
 msgid ""
-"Other Python modules for plugins to use are available from `kyngchaos.com"
-" <http://www.kyngchaos.com/software/python>`_."
+"Previous releases of the official installer can be downloaded from "
+"https://qgis.org/downloads/macOS/."
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:491
-msgid "Standalone Installer"
-msgstr ""
-
-#: ../../source/site/forusers/alldownloads.rst:493
+#: ../../source/site/forusers/alldownloads.rst:490
 msgid ""
-"A standalone installer is available at "
-"`<https://lutraconsulting.github.io/qgis-mac-packager/>`_."
+"Previous releases of the kyngchaos installer can be downloaded from "
+"https://www.kyngchaos.com/software/archive/. The oldest installers "
+"support macOS 10.4 Tiger."
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:498
+#: ../../source/site/forusers/alldownloads.rst:494
 msgid "FreeBSD"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:503
-#: ../../source/site/forusers/alldownloads.rst:519
+#: ../../source/site/forusers/alldownloads.rst:499
+#: ../../source/site/forusers/alldownloads.rst:514
 msgid "To install QGIS from binary packages type ::"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:508
-#: ../../source/site/forusers/alldownloads.rst:524
+#: ../../source/site/forusers/alldownloads.rst:504
+#: ../../source/site/forusers/alldownloads.rst:519
 msgid ""
 "Or to customize compilation options, you can build it from FreeBSD ports "
 "::"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:533
+#: ../../source/site/forusers/alldownloads.rst:528
 msgid "Flatpak"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:535
+#: ../../source/site/forusers/alldownloads.rst:530
 msgid "There is an *experimental* QGIS flatpak for QGIS Stable available."
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:537
+#: ../../source/site/forusers/alldownloads.rst:532
 msgid "For general Linux Flatpak install notes, see https://flatpak.org/setup/"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:539
+#: ../../source/site/forusers/alldownloads.rst:534
 msgid "QGIS on Flathub: https://flathub.org/apps/details/org.qgis.qgis"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:541
+#: ../../source/site/forusers/alldownloads.rst:536
 msgid "To install::"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:545
+#: ../../source/site/forusers/alldownloads.rst:540
 msgid "Then to run::"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:549
+#: ../../source/site/forusers/alldownloads.rst:544
 msgid "To update your flatpak QGIS::"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:553
+#: ../../source/site/forusers/alldownloads.rst:548
 msgid "Flathub files: https://github.com/flathub/org.qgis.qgis"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:557
+#: ../../source/site/forusers/alldownloads.rst:552
 msgid "Android"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:559
+#: ../../source/site/forusers/alldownloads.rst:554
 msgid "There is an experimental version available on google play store."
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:561
+#: ../../source/site/forusers/alldownloads.rst:556
 msgid "https://play.google.com/store/apps/details?id=org.qgis.qgis"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:564
+#: ../../source/site/forusers/alldownloads.rst:559
 msgid ""
 "There is currently no support for Android 5. Best support is given for "
 "Android 4.3 and 4.4.x. This is a direct port of the QGIS desktop "
@@ -955,11 +956,11 @@ msgid ""
 "specifically for touch devices."
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:573
+#: ../../source/site/forusers/alldownloads.rst:568
 msgid "QGIS Testing warning"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:578
+#: ../../source/site/forusers/alldownloads.rst:573
 msgid ""
 "QGIS testing packages are provided for some platforms in addition to the "
 "QGIS stable version. QGIS testing contains unreleased software that is "
@@ -970,11 +971,11 @@ msgid ""
 "care. You have been warned!"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:589
+#: ../../source/site/forusers/alldownloads.rst:584
 msgid "Installing from Source"
 msgstr ""
 
-#: ../../source/site/forusers/alldownloads.rst:591
+#: ../../source/site/forusers/alldownloads.rst:586
 msgid ""
 "Refer to the `INSTALL guide "
 "<http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html>`_"
@@ -1657,5 +1658,64 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "cosmic"
+#~ msgstr ""
+
+#~ msgid "3.8"
+#~ msgstr ""
+
+#~ msgid "Qgis Long Term Release is available in AUR (Arch User Repository)."
+#~ msgstr ""
+
+#~ msgid "Qgis testing is available in AUR (Arch User Repository)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installation instructions are in the "
+#~ "ReadMe on the disk image. Downloads "
+#~ "are on the QGIS download page."
+#~ msgstr ""
+
+#~ msgid "QGIS current"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The current QGIS package uses the "
+#~ "`python.org Python 3.6 <http://www.python.org/>`_,"
+#~ " at least version 3.6.5, the "
+#~ "\"macosx10.9\" build - other distributions "
+#~ "are not supported. Install packages in"
+#~ " the numbered order.  Especially note "
+#~ "that Python must be installed before "
+#~ "the GDAL Complete package and QGIS, "
+#~ "else the GDAL and other needed "
+#~ "Python modules will not be installed."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The stable package uses the system "
+#~ "Python 2.7 - other distributions are "
+#~ "not supported. It also requires the "
+#~ "NumPy and Matplotlib packages on the "
+#~ "disk image. Install packages in the "
+#~ "numbered order. If an older major "
+#~ "version is being upgraded (2.16 or "
+#~ "older), delete QGIS.app from your "
+#~ "Applications folder before installing this "
+#~ "version."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Other Python modules for plugins to "
+#~ "use are available from `kyngchaos.com "
+#~ "<http://www.kyngchaos.com/software/python>`_."
+#~ msgstr ""
+
+#~ msgid "Standalone Installer"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A standalone installer is available at"
+#~ " `<https://lutraconsulting.github.io/qgis-mac-"
+#~ "packager/>`_."
 #~ msgstr ""
 

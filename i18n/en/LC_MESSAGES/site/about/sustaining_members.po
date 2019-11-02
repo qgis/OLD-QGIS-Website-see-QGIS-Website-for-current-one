@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"POT-Creation-Date: 2019-11-02 12:44+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,68 +18,55 @@ msgstr ""
 "Generated-By: Babel 2.5.1\n"
 
 #: ../../source/site/about/sustaining_members.rst:4
-msgid "Sustaining members, sponsors and Donors"
+msgid "Sustaining members and Donors"
 msgstr ""
 
 #: ../../source/site/about/sustaining_members.rst:6
 msgid ""
-"We thank our sustaining members, sponsors and donors who support the QGIS"
-" project and enable us to pay for our infrastructure and important "
-"development work, as well as finance developer meetings and promotion of "
-"QGIS in workshops and conferences. Note that we are currently in a "
-"transition phase changing from a sponsor system to a system with "
-"sustaining members. This should make it easier for public authorities to "
-"support the QGIS.ORG project by becoming a sustaining member. For many "
-"public organizations it was difficult or impossible to sponsor or donate "
-"to a project."
+"We thank our sustaining members and donors who support the QGIS project, "
+"often regularly, and enable us to pay for our infrastructure and "
+"important development work, as well as finance developer meetings and "
+"promotion of QGIS in workshops and conferences."
 msgstr ""
 
-#: ../../source/site/about/sustaining_members.rst:13
-msgid ""
-"Organizations who supported QGIS before March 17, 2019 are still "
-"sponsors, after that date we introduce new supporters as sustaining "
-"members."
-msgstr ""
-
-#: ../../source/site/about/sustaining_members.rst:16
+#: ../../source/site/about/sustaining_members.rst:10
 msgid ""
 "For information on becoming a sustaining member, please visit "
 ":ref:`QGIS_sustaining_memberships`."
 msgstr ""
 
-#: ../../source/site/about/sustaining_members.rst:30
-msgid "List of current sustaining members or sponsors"
+#: ../../source/site/about/sustaining_members.rst:24
+msgid "List of current sustaining members"
 msgstr ""
 
-#: ../../source/site/about/sustaining_members.rst:32
+#: ../../source/site/about/sustaining_members.rst:26
 msgid ""
-"Annually we also receive support from various organisations who "
-"appreciate the work we do and would like to facilitate the sustained "
-"development effort that goes into the project. These sustaining members "
-"and sponsors are listed below with our thanks!"
+"Annually we receive support from various organisations who appreciate the"
+" work we do and would like to facilitate the sustained development effort"
+" that goes into the project."
 msgstr ""
 
-#: ../../source/site/about/sustaining_members.rst:37
+#: ../../source/site/about/sustaining_members.rst:30
 msgid ""
 ":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
 "javascript loading of atom feed --> </div>`"
 msgstr ""
 
-#: ../../source/site/about/sustaining_members.rst:41
-msgid "List of past sustaining members or sponsors"
+#: ../../source/site/about/sustaining_members.rst:34
+msgid "List of past sustaining members"
 msgstr ""
 
-#: ../../source/site/about/sustaining_members.rst:43
+#: ../../source/site/about/sustaining_members.rst:36
 msgid ""
 ":raw-html:`<div id=\"qgispastsustainingmembersatom\"> <!-- to be filled "
 "via javascript loading of atom feed --> </div>`"
 msgstr ""
 
-#: ../../source/site/about/sustaining_members.rst:48
+#: ../../source/site/about/sustaining_members.rst:41
 msgid "List of donors"
 msgstr ""
 
-#: ../../source/site/about/sustaining_members.rst:50
+#: ../../source/site/about/sustaining_members.rst:43
 msgid ""
 "Donations can be of any amount, via our bank account, Stripe or Paypal "
 "(information available at :ref:`Donations <QGIS-donations>` page). Even a"
@@ -87,7 +74,7 @@ msgid ""
 " goals!"
 msgstr ""
 
-#: ../../source/site/about/sustaining_members.rst:54
+#: ../../source/site/about/sustaining_members.rst:47
 msgid ""
 "If you wish to send us a larger donation, you are strongly encouraged to "
 "use the bank account or stripe (if you want to do credit card payments) "
@@ -97,9 +84,55 @@ msgid ""
 "you a payment link and/or invoice."
 msgstr ""
 
-#: ../../source/site/about/sustaining_members.rst:60
+#: ../../source/site/about/sustaining_members.rst:53
 msgid ""
 "Donations to QGIS are tax-deductible in several countries. Please refer "
 "to your local tax office for details."
 msgstr ""
+
+#~ msgid "Sustaining members, sponsors and Donors"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We thank our sustaining members, "
+#~ "sponsors and donors who support the "
+#~ "QGIS project and enable us to pay"
+#~ " for our infrastructure and important "
+#~ "development work, as well as finance "
+#~ "developer meetings and promotion of QGIS"
+#~ " in workshops and conferences. Note "
+#~ "that we are currently in a "
+#~ "transition phase changing from a sponsor"
+#~ " system to a system with sustaining"
+#~ " members. This should make it easier"
+#~ " for public authorities to support "
+#~ "the QGIS.ORG project by becoming a "
+#~ "sustaining member. For many public "
+#~ "organizations it was difficult or "
+#~ "impossible to sponsor or donate to "
+#~ "a project."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Organizations who supported QGIS before "
+#~ "March 17, 2019 are still sponsors, "
+#~ "after that date we introduce new "
+#~ "supporters as sustaining members."
+#~ msgstr ""
+
+#~ msgid "List of current sustaining members or sponsors"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Annually we also receive support from"
+#~ " various organisations who appreciate the"
+#~ " work we do and would like to"
+#~ " facilitate the sustained development "
+#~ "effort that goes into the project. "
+#~ "These sustaining members and sponsors "
+#~ "are listed below with our thanks!"
+#~ msgstr ""
+
+#~ msgid "List of past sustaining members or sponsors"
+#~ msgstr ""
 

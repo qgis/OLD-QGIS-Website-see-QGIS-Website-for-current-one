@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 19:50+0200\n"
+"POT-Creation-Date: 2019-11-02 12:44+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,16 +51,10 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/getinvolved/development/roadmap.rst:26
-msgid ""
-"During the development of QGIS 3.0 and 3.2, an exception to this schedule"
-" has been put into place. See the roadmap below for adjusted information."
-msgstr ""
-
-#: ../../source/site/getinvolved/development/roadmap.rst:30
 msgid "Development phase"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:32
+#: ../../source/site/getinvolved/development/roadmap.rst:28
 msgid ""
 "In the development phase developers work on adding new features for the "
 "next release. Early adopters can use the nightly builds we have for all "
@@ -68,11 +62,11 @@ msgid ""
 "and provide bug reports and their thoughts to help with development."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:38
+#: ../../source/site/getinvolved/development/roadmap.rst:34
 msgid "Feature freeze"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:40
+#: ../../source/site/getinvolved/development/roadmap.rst:36
 msgid ""
 "In the feature freeze phase new features are not allowed in anymore and "
 "the focus of everyone moves from enhancing QGIS to stablizing it.  This "
@@ -80,7 +74,7 @@ msgid ""
 "prereleases>`."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:44
+#: ../../source/site/getinvolved/development/roadmap.rst:40
 msgid ""
 "**Users** should start extensive testing of these prereleases in their "
 "environment to verify that there are no issues, they wouldn't want to see"
@@ -91,14 +85,14 @@ msgid ""
 "testing of the prereleases and reporting issues is very important."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:53
+#: ../../source/site/getinvolved/development/roadmap.rst:49
 msgid ""
 "In the feature freeze **developers** monitor the bugtracker and start "
 "working on fixing the reported issues and update the **visual changelog**"
 " with the features they added."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:57
+#: ../../source/site/getinvolved/development/roadmap.rst:53
 msgid ""
 "With the begin of the feature freeze the translation files will be "
 "updated so that **translators** can start their work. Note that this "
@@ -106,79 +100,79 @@ msgid ""
 "fixes might still introduce translation string changes."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:62
+#: ../../source/site/getinvolved/development/roadmap.rst:58
 msgid ""
 "Two weeks before the release a hard freeze is initiated, after which only"
 " fixes to severe problems and regressions introduced after the feature "
 "freeze are allowed in."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:66
+#: ../../source/site/getinvolved/development/roadmap.rst:62
 msgid "The release manager announces this on feature freeze."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:69
+#: ../../source/site/getinvolved/development/roadmap.rst:65
 msgid "Release"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:71
+#: ../../source/site/getinvolved/development/roadmap.rst:67
 msgid ""
 "On major and minor release dates the release branch is created and the "
 "release is tagged and tar balls are prepared.  Point releases are just "
 "tagged and tar balls are created."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:75
+#: ../../source/site/getinvolved/development/roadmap.rst:71
 msgid "The packagers are notified that packaging can begin."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:77
+#: ../../source/site/getinvolved/development/roadmap.rst:73
 msgid ""
 "Once some packages are available the release can be announced and the "
 "website is updated accordingly."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:84
+#: ../../source/site/getinvolved/development/roadmap.rst:80
 msgid "Release schedule"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:86
+#: ../../source/site/getinvolved/development/roadmap.rst:82
 msgid ""
 "The schedule is aligned to produce roughly the same dates for each year "
 "given our four monthly releases with LTRs in late february."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:89
+#: ../../source/site/getinvolved/development/roadmap.rst:85
 msgid ""
 "Beginning after 2.12 the development phase is always 12 weeks and the "
 "freeze phase is at least 5 weeks.  Remainders are used to extend the "
 "freeze phase of LTR releases."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:93
+#: ../../source/site/getinvolved/development/roadmap.rst:89
 msgid ""
 "Point releases will happen every month on the latest release branch and "
 "the LTR branch, if there are backports."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:96
+#: ../../source/site/getinvolved/development/roadmap.rst:92
 msgid ""
 "In the first four month after it's release a new LTR is also the current "
 "LR. In this phase the new LTR doesn't replace the previous LTR in the LTR"
 " repositories.  This happens as soon as a new LR is released."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:100
+#: ../../source/site/getinvolved/development/roadmap.rst:96
 msgid ""
 "The 2.18 release will replace the 2.14 release as LTR, but not replace "
 "2.14 in the LTR package repositories before 3.0 is released."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:104
+#: ../../source/site/getinvolved/development/roadmap.rst:100
 msgid "Schedule:"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:111
+#: ../../source/site/getinvolved/development/roadmap.rst:107
 #: ../../source/site/getinvolved/development/schedule.inc:4
 msgid "Event"
 msgstr ""
@@ -257,7 +251,7 @@ msgstr ""
 msgid "4"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:119
+#: ../../source/site/getinvolved/development/roadmap.rst:115
 #: ../../source/site/getinvolved/development/schedule.inc:8
 msgid "EPR"
 msgstr ""
@@ -274,7 +268,7 @@ msgstr ""
 msgid "44"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:118
+#: ../../source/site/getinvolved/development/roadmap.rst:114
 #: ../../source/site/getinvolved/development/schedule.inc:9
 #: ../../source/site/getinvolved/development/schedule.inc:10
 #: ../../source/site/getinvolved/development/schedule.inc:13
@@ -501,7 +495,7 @@ msgstr ""
 msgid "33"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:115
+#: ../../source/site/getinvolved/development/roadmap.rst:111
 #: ../../source/site/getinvolved/development/schedule.inc:19
 msgid "FF"
 msgstr ""
@@ -539,7 +533,7 @@ msgstr ""
 msgid "37"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:116
+#: ../../source/site/getinvolved/development/roadmap.rst:112
 #: ../../source/site/getinvolved/development/schedule.inc:21
 msgid "HF"
 msgstr ""
@@ -780,97 +774,97 @@ msgstr ""
 msgid "2021-02-19"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:108
+#: ../../source/site/getinvolved/development/roadmap.rst:104
 msgid "Event legend:"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:111
+#: ../../source/site/getinvolved/development/roadmap.rst:107
 msgid "Description"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:113
+#: ../../source/site/getinvolved/development/roadmap.rst:109
 msgid "LTR"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:113
+#: ../../source/site/getinvolved/development/roadmap.rst:109
 msgid "Long term release, begin of new development phase"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:114
+#: ../../source/site/getinvolved/development/roadmap.rst:110
 msgid "LR"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:114
+#: ../../source/site/getinvolved/development/roadmap.rst:110
 msgid "Regular release, begin of new development phase"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:115
+#: ../../source/site/getinvolved/development/roadmap.rst:111
 msgid "Feature freeze, end of development phase"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:116
+#: ../../source/site/getinvolved/development/roadmap.rst:112
 msgid "hard freeze"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:117
+#: ../../source/site/getinvolved/development/roadmap.rst:113
 msgid "SF"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:117
+#: ../../source/site/getinvolved/development/roadmap.rst:113
 msgid "Soft freeze with bi-monthly vote"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:118
+#: ../../source/site/getinvolved/development/roadmap.rst:114
 msgid "Point release of latest release and LTR branch"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:119
+#: ../../source/site/getinvolved/development/roadmap.rst:115
 msgid "Extra Point release"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:126
+#: ../../source/site/getinvolved/development/roadmap.rst:122
 msgid "Location of prereleases / nightly builds"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:129
+#: ../../source/site/getinvolved/development/roadmap.rst:125
 msgid "Platform"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:129
+#: ../../source/site/getinvolved/development/roadmap.rst:125
 msgid "Location"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:131
+#: ../../source/site/getinvolved/development/roadmap.rst:127
 msgid "Windows"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:131
+#: ../../source/site/getinvolved/development/roadmap.rst:127
 msgid ""
 ":ref:`Weekly release candidate <QGIS-windows-weekly>` (standalone "
 "installer)"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:132
+#: ../../source/site/getinvolved/development/roadmap.rst:128
 msgid "\\"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:132
+#: ../../source/site/getinvolved/development/roadmap.rst:128
 msgid ":ref:`OSGeo4W <QGIS-windows-testing>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:133
+#: ../../source/site/getinvolved/development/roadmap.rst:129
 msgid "Linux"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:133
+#: ../../source/site/getinvolved/development/roadmap.rst:129
 msgid ":ref:`Debian/Ubuntu <QGIS-debian-testing>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:134
+#: ../../source/site/getinvolved/development/roadmap.rst:130
 msgid "MacOS"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:134
+#: ../../source/site/getinvolved/development/roadmap.rst:130
 msgid ":ref:`Mac OS <QGIS-macos-testing>`"
 msgstr ""
 
@@ -1133,5 +1127,13 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "35"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "During the development of QGIS 3.0 "
+#~ "and 3.2, an exception to this "
+#~ "schedule has been put into place. "
+#~ "See the roadmap below for adjusted "
+#~ "information."
 #~ msgstr ""
 
