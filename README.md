@@ -16,7 +16,11 @@ The Website version is the canonical one.
 Building the website using Docker
 ---------------------------------
 
-First: install Docker. 
+Note: you will use a QGIS docker image from hub.docker.com, created with the dockerfile from: 
+
+https://github.com/qgis/QGIS-Sysadmin/blob/master/docker/sphinx/Dockerfile-html
+
+First: install Docker.
 
 On Linux: use your package-manager.
 
@@ -61,9 +65,9 @@ We are now going to use that QGIS-Website directory as source and output directo
 Docker 'virtual machine' that will build the site.
 We will start this Docker container with a command line like below:
 
-    docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html make html
+    docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make html
  
-Where "docker run -t -i qgis/sphinx_html make html" means: "run a Docker container/process based on the qgis/sphinx_html image available online, call make in the working directory of the container, with parameter 'html', meaning: only build english html"
+Where "docker run -t -i qgis/sphinx_html_3 make html" means: "run a Docker container/process based on the qgis/sphinx_html_3 image available online, call make in the working directory of the container, with parameter 'html', meaning: only build english html"
 
 "-v /home/richard/dev/QGIS-Website:/QGIS-Website" means: use the directory "/home/richard/dev/QGIS-Website" as a virtual directory in the container and name it '/QGIS-Website'
   
@@ -76,15 +80,15 @@ Now the actual command lines:
 On linux (use your own repo path here!):
 
     # english html
-    docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html make html
+    docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make html
 
 On windows (tested on Win7 and Win8), use your own repo path here!
 
 IMPORTANT you need 2x a double // in the command !!!   Without it you will get an error message about a wrong working directory:
 
-    docker run -t -i -v //c/Users/richard/dev/QGIS-Website:/QGIS-Website -w=//QGIS-Website --rm=true qgis/sphinx_html make html
+    docker run -t -i -v //c/Users/richard/dev/QGIS-Website:/QGIS-Website -w=//QGIS-Website --rm=true qgis/sphinx_html_3 make html
 
-Note: only the first time it will pull the qgis/sphinx_html image (>300Mb) from the online repository https://hub.docker.com/u/qgis/
+Note: only the first time it will pull the qgis/sphinx_html_3 image (>300Mb) from the online repository https://hub.docker.com/u/qgis/
 
 Now if you want to build a translated website, there is some more work to do. We have to pull the translations from transifex etc. You need your own transifex credentials to do this. So first get an account/password at www.transifex.com and then create a so called '.transifexrc' file which is used to authorize you at transifex.
 The contents of this file should be like this:
@@ -98,7 +102,7 @@ The contents of this file should be like this:
 Copy this file in the root of your repo. With me that is /home/richard/dev/QGIS-Website. NOW you can run it using 'make full' and a LANG parameter like this:
 
     # french html (linux)
-    docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html make full LANG=fr
+    docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make full LANG=fr
 
 Besides this you can also have a look into the scripts docker-run.sh and docker-world.sh which are used on our own webservers.
 
