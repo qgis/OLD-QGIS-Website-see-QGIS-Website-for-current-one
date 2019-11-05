@@ -375,45 +375,44 @@ Try the ELGIS repository: http://elgis.argeo.org/
 .. note:: ELGIS requires the EPEL repo enabled, see
    http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL
 
-openSUSE
---------
+SUSE / openSUSE
+---------------
 
-QGIS stable
-...........
+Latest stable and LTR packages called qgis and qgis-ltr are available in the following repositoies:
 
-Latest stable openSUSE package called qgis is available for 13.1, 13.2, 
-Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit).  Add the following 
-repository to your installation manager, where <VERSION> is for example 'openSUSE_Tumbleweed'.
-::
+Tumbleweed::
 
- https://download.opensuse.org/repositories/Application:/Geo/<VERSION>/
+ https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Tumbleweed/
+ 
+Leap 15.1::
 
-All packages include GRASS and Python support.
+ https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.1/
 
-QGIS LTR (Long Term Release)
-............................
+Leap 15.0::
 
-Long Term Release package for openSUSE called qgis-ltr is available for 13.1, 
-13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). Add the following 
-repository to your installation manager, where <VERSION> is for example 'openSUSE_Tumbleweed'.
-::
+ https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.0/
 
- https://download.opensuse.org/repositories/Application:/Geo/<VERSION>/
+Factory ARM::
 
-All packages include GRASS and Python support.
+ https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Factory_ARM/
 
-QGIS testing
-............
+Factory PowerPC::
 
-A regularly updated development package from qgis master called qgis-master
-is available for 13.1, 13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). 
-Add the following repository to your installation manager, 
-where <VERSION> is for example 'openSUSE_Tumbleweed'.
-::
+ https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Factory_PowerPC/
+ 
+SLE 15 SP1 Backports::
 
-  https://download.opensuse.org/repositories/Application:/Geo/<VERSION>/
+ https://download.opensuse.org/repositories/Application:/Geo/SLE_15_SP1_Backports/
+ 
+SLE 15 SP1 Backports debug::
+
+ https://download.opensuse.org/repositories/Application:/Geo/SLE_15_SP1_Backports_debug/
 
 All packages include GRASS and Python support.
+
+All openSUSE Geo repositoties can be found here::
+
+ https://download.opensuse.org/repositories/Application:/Geo/
 
 Mandriva
 --------
