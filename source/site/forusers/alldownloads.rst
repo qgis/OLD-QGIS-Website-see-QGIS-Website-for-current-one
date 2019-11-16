@@ -107,9 +107,9 @@ provide.
 
 For Ubuntu we also have extra packages in a separate repository that are based
 on `ubuntugis <https://launchpad.net/~ubuntugis>`_, which holds more uptodate
-versions of other GIS packages than Ubuntu itself. If you want those you also
-need to include ubuntugis-unstable ppa in your /etc/apt/sources.list file (see
-`ubuntugis documentation
+versions of other GIS packages than Ubuntu itself for LTS versions. If you want
+those you also need to include ubuntugis-unstable ppa in your
+/etc/apt/sources.list file (see `ubuntugis documentation
 <https://trac.osgeo.org/ubuntugis/wiki/UbuntuGISRepository>`_).
 
 
