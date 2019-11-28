@@ -12,13 +12,13 @@ releasenote = u'\u200B'
 ltrversion = '3.4'
 ltrrelease = '3.4.13'
 ltrcodename = u'Madeira'
-ltrbinary = '2'
+ltrbinary = '1'
 ltrnote = u'LTR'
 
 devversion = '3.11'
 nextversion = '3.12'
 nextfreezedate = '2020-01-17 12:00:00 UTC'
 nextreleasedate = '2020-02-21 12:00:00 UTC'
-nextpointreleasedate = '2019-11-29 12:00:00 UTC'
+nextpointreleasedate = '2019-12-06 12:00:00 UTC'
 
 infeaturefreeze = False
