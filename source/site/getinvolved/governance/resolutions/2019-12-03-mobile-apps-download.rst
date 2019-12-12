@@ -8,7 +8,8 @@ Saber Razmjooei
 
 Rationale
 ===================================
-The current download page is much outdated for mobile apps. 
+The current download page is much outdated for mobile apps.
+
 Proposal: to have links to all three mobile (QField, Input and Roam) applications on the official download page
 
 Votes
