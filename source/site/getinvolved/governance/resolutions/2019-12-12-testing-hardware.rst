@@ -10,8 +10,10 @@ Rationale
 ===================================
 Giovanni Manghi requested the purchase of additional hardware to improve the testing process.
 Specifically:
+
 * 450 € for improving his PC hardware 
 * 500-700 to get a decent used Mac.
+
 We still have funding available.
 
 Votes
