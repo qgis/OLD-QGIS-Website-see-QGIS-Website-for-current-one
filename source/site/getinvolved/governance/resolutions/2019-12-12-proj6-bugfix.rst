@@ -21,4 +21,4 @@ Approved
 
 Notes
 ===================================
-none
+https://lists.osgeo.org/pipermail/qgis-psc/2019-December/007983.html
