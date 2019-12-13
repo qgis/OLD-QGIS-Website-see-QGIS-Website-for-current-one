@@ -18,10 +18,10 @@ trap "rm $PWD/running" EXIT
 TARGET=${1:-full}
 
 # throw away building artefacts
-#git stash
-#git stash drop
+git stash
+git stash drop
 # get latest version
-#git pull
+git pull
 
 # only languages which have translations in transifex
 : ${langs:=en ca da de es fa fi fr gl hu id it ja km_KH ko lt nl pl pt_BR pt_PT ro tr ru uk zh_CN zh_TW}
