@@ -19,6 +19,6 @@ devversion = '3.11'
 nextversion = '3.12'
 nextfreezedate = '2020-01-17 12:00:00 UTC'
 nextreleasedate = '2020-02-21 12:00:00 UTC'
-nextpointreleasedate = '2019-12-20 12:00:00 UTC'
+nextpointreleasedate = '2020-01-17 12:00:00 UTC'
 
 infeaturefreeze = False
