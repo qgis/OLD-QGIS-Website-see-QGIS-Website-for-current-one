@@ -17,7 +17,7 @@ User
 How to ask a QGIS question?
 ---------------------------
 
-If you are going to ask QGIS related question via the mailing lists,
+If you are going to ask QGIS related question via the :ref:`mailing lists <QGIS-mailinglists>`,
 please provide enough information to help others easily understand what your problem is.
 Without a clear and precise question, it is very hard to answer for anybody or
 takes just too much time because the answer will be a question to you etc etc.
