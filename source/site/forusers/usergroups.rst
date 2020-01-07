@@ -48,7 +48,7 @@ Current list of QGIS user groups
 * `NIWA QGIS user group (New Zealand) - contact: Brent Wood <https://teamwork.niwa.co.nz/display/NQUG/NIWA+QGIS+Users+Group>`_
 * `QGIS Georgia - contact: Zurab Archvadze <https://qgis.org>`_ 
 
-**Registered 2019**
+**Registered 2020**
 
 * `QGIS gebruikersgroep (Netherlands) - contact: Raymond Nijssen <http://qgis.nl/>`_
 * `Asociación QGIS México - contact: Hennessy Amor Becerra Ayala <http://qgis.mx/>`_
