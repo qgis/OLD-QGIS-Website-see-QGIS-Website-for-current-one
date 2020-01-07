@@ -16,6 +16,8 @@ The Website version is the canonical one.
 Building the website using Docker
 ---------------------------------
 
+TLDR: `cd QGIS-Website && ./docker-run.sh html `
+
 Note: you will use a QGIS docker image from hub.docker.com, created with the dockerfile from: 
 
 https://github.com/qgis/QGIS-Sysadmin/blob/master/docker/sphinx/Dockerfile-html
