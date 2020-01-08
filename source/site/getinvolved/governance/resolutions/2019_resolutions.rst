@@ -1,5 +1,5 @@
-List of Project Steering Committee Resolutions
-##############################################
+List of Project Steering Committee Resolutions - 2019
+#####################################################
 
 Bugfix in advance
 -----------------
