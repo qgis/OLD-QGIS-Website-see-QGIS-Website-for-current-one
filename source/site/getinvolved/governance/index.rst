@@ -15,6 +15,7 @@ Project Organisation
    annual_reports/index
    finance/index
    resolutions/2019_resolutions
+   resolutions/2019_resolutions
    infrastructure
    codeofconduct/codeofconduct
    codeofconduct/diversitystatement
