@@ -152,37 +152,6 @@ Testing Team
 * Windows: Giovanni Manghi, Pedro Venâncio, Duarte Carreira, Andre Mano, Rui Pedro Henriques
 * MacOS: Larry Shaffer, Tim Sutton, Denis Rouzaud, Peter Petrik
 
-.. _code-maintainers:
-
-Code Maintainers
-................
-
-Code Maintainers are responsible for discrete areas of the QGIS source code
-(core, gui, plugins, providers, tests) and ensure consistency and quality of
-code added into the git code repository.
-
-* Core library: Martin Dobias
-* Gui library: Martin Dobias
-* App (dialogs): Tim Sutton
-* Print composer: Nyall Dawson
-* PyQGIS: Martin Dobias
-* WMS server: Marco Hugentobler
-* WFS/WCS server: René-Luc D'Hont
-* Python plugins for QGIS Server: Alessandro Pasotti
-* Access control for QGIS Server: Stephane Brunner
-* Plugin installer: Borys Jurgiel
-* OGR, Postgres-, Oracle- provider: Jürgen E. Fischer
-* WMS provider: Jürgen E. Fischer
-* WFS provider: Even Rouault
-* QGISWebClient 2: Sandro Mani
-* MSsql provider: Nathan Woodrow
-* Labelling engine: Larry Shaffer
-* Authentication system: Larry Shaffer
-* Diagrams: Matthias Kuhn
-* Attribute table: Matthias Kuhn
-* Processing Toolbox: Victor Olaya
-* MetaSearch plugin: Tom Kralidis
-
 .. _community-resources:
 
 Community Resources
