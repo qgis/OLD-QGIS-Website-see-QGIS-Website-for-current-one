@@ -103,6 +103,15 @@ Added 2018
 
 * Hugo Mercier, France
 
+Added 2019 
+
+* None (No new usegroups created)
+
+Added 2020
+
+* TBD
+
+
 .. _release-management:
 
 Release Management
