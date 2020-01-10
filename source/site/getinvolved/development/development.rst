@@ -44,13 +44,13 @@ Developing C++ Plugin
 Preparing the Environment and Setting up the Repo
 .................................................
 
-* Go to the QGIS repository in GitHub at https://github.com/qgis/QGIS/
-* Make a Fork for yourself. Learn more about forking and keeping your repo in sync 
-  with the main development repo at http://help.github.com/fork-a-repo/
-* Clone your personal copy of the repository to your system, and 
-  add upstream as mentioned in above provided link
-* Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up 
-  the installation environment and make a compilation with ccache enabled.
+#. Go to the QGIS repository in GitHub at https://github.com/qgis/QGIS/
+#. Make a Fork for yourself. Learn more about forking and keeping your repo in sync 
+   with the main development repo at http://help.github.com/fork-a-repo/
+#. Clone your personal copy of the repository to your system, and 
+   add upstream as mentioned in above provided link
+#. Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up 
+   the installation environment and make a compilation with ccache enabled.
 
 Setting up the Plugin Directory
 ...............................
@@ -69,33 +69,22 @@ Building QGIS now will also build your plugin. After starting QGIS
 enable the plugin to see it and show its dialog.
 
 
-
 .. _QGIS-python-plugin-development:
 
 Developing Python plugin
 ------------------------
 
-
-QGIS has a lot to offer for python developers too.
+QGIS has a lot to offer to python developers too.
 
 QGIS has python bindings so you can automate tasks in QGIS via python.
-
-Interested in python plugin development, easiest way to start is using the
-Plugin Builder plugin in QGIS.
-Search for ``Plugin Builder`` in the plugin manager of QGIS, or read up here:
-https://plugins.qgis.org/plugins/pluginbuilder/
+We then provide a documentation for QGIS API at
+https://qgis.org/pyqgis/
 
 You can also have a look into the **Python Cookbook** in our Documentation site:
-https://docs.qgis.org.
+https://docs.qgis.org/
 
-Looking for examples of python plugins, see http://plugins.qgis.org
+Particularly interested in python plugin development, you can find some instructions
+at https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/plugins/index.html
 
-You can find the QGIS-iface which you can use via python here:
-
-https://qgis.org/api/classQgisInterface.html (for QGIS testing)
-
-https://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)
-
-https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)
-
+Looking for examples of python plugins, see https://plugins.qgis.org
 
