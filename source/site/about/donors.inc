@@ -6277,5 +6277,78 @@
      - 陳 國威
      - 黄 艳
    * - 지윤 김
-     -
-     -
+     - Gabriel Martinez Candela
+     - Dennis Hoffmann, Romy Junge
+   * - M. Guerin Fabien
+     - Nikkila Jukka T Tytti
+     - Didier Peeters
+   * - Gerd Jünger
+     - Michael Otto Ruf
+     - Michele Tofful
+   * - Peter Steinig
+     - U-Space S.R.L
+     - Florian Eggers
+   * - Dr. Philipp Sengl
+     - M. Y. Rashidi
+     - T. u. U. Lütolf
+   * - Investimenti Digitali SRLS Grosseto
+     - Sebastian Mücke
+     - ViaVegte
+   * - Marianne Guetler
+     - David Garcia Hernandez
+     - Adrianus van Zijl
+   * - Sven Lothar Schmitz-Leuffen
+     - Francois-Xavier Marquis
+     - Salvadore Elga
+   * - Stefan Rosenow
+     - David Meyer
+     - blp GeoServices GmbH
+   * - Ernest Brozic
+     - Maike Krauss
+     - Simon Johnston AB
+   * - Andreas + Beatrix Dill-Meeus
+     - Marta Isabel Pinto Silva
+     - Progress Projectes i Gestio de Servicio
+   * - Michaela Valachovicova
+     - Alexander Lahofer
+     - Nuno Cesar dos Santos Grosso
+   * - Katharina Kesy
+     - P.E. Stek
+     - Jakob Matthias Miksch
+   * - C M Soonius en/of.A A A Verhoeven
+     - Francesco Lepinioti Ionna Russo
+     - Mario Piersantelli
+   * - Mathias Austermann
+     - J. A. Buitenkamp
+     - Toralf Gonzalez
+   * - J. Hek
+     - Elia de Marchi
+     - Kolja Hagenow
+   * - HydroGEOS expertises eau et
+     - Walter Wider
+     - Mw W M Tadema
+   * - Alberto Sixto Blanco Diego
+     - Marco Fedrizzi
+     - M. A. Keuning eo
+   * - Nicola Barudoni
+     - S.M.J. de Boer
+     - Akajoule
+   * - Senderos sur S.COOP and CL/ROSA
+     - Associazione FIAB Cuneo Bicingiro
+     - Claude Romanus Biao
+   * - Stephan Daniel Hatt
+     - GEO-Engineering.org GmbH
+     - PAN Asia Metals Limited
+   * - A. A. Dijkstra
+     - Michael Pohlers
+     - Tobias Lipek
+   * - Maves OÜ
+     - Alicia Martin Alvarez
+     - Mika Fionn Blanck
+   * - Jakub Tomasz Sliwinski
+     - Fabian Wilder
+     - Tobias Florian Ibele
+   * - Stefan Beneckenstein
+     - Ingenieurbüro Sendl, Peissenberg
+     - Neitzel und Sohn Freiflächenmanagement GmbH, Berlin
+   * - Gabriela Hunziker
