@@ -311,6 +311,16 @@ commercial support.
 
 ----
 
+.. |gispoicon| image:: /static/site/about/images/GispoOy.png
+   :width: 75 px
+
+|gispoicon| `Gispo Ltd <https://www.gispo.fi/en/home/>`_ (based in Finland). We drive our customers to
+success in delivering pragmatic solutions for strategic decisions by using open source geospatial software.
+We offer QGIS, GeoServer, PostGIS, GDAL/OGR and MapProxy support and training for our customers.
+We strongly believe that openness wins.
+
+----
+
 .. |gtsicon| image:: /static/site/about/images/geospatial-training-solutions.png
    :width: 75 px
 
