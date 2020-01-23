@@ -2,10 +2,10 @@ from datetime import date
 
 # latest release
 version = '3.10'
-release = '3.10.1'
+release = '3.10.2'
 codename = u'A Coruña'
-binary = '1'
-releasedate = date(2019, 12, 6)
+binary = '2'
+releasedate = date(2020, 1, 17)
 releasenote = u'\u200B'
 
 # long term release repository
