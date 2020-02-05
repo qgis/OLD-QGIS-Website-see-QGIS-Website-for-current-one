@@ -5259,7 +5259,7 @@
    * - Rokpelnis Karlis
      - Roland Kals
      - Roland Pesch
-   * - Roland Spencer-jones
+   * - Roland Spencer-Jones
      - Roland Stonex
      - Rolf Aslund
    * - Rolf Böker
