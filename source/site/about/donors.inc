@@ -6,11 +6,11 @@
    * - A Brian Hollinshead
      - A L Wils
      - A Van Horne
-   * - A. A. Dijkstra
-     - A. Baffes
-     - A. Francisco Gomez Tagle Rojas
-   * - A. Óscar Abajo García
-     - A.m.j. V Rijsselberge
+   * - A.m.j. V Rijsselberge
+     - A\. A. Dijkstra
+     - A\. Baffes
+   * - A\. Francisco Gomez Tagle Rojas
+     - A\. Óscar Abajo García
      - Aaron Keillor
    * - Aaron Laver
      - Aaron Racicot
@@ -831,11 +831,11 @@
    * - C Merriman
      - C R Simon
      - C Veronica Gomez Pourroy
-   * - C. H. Hionides
-     - C. Virginia Lee
-     - C.A.M. Gerlach
-   * - C.Y. Chen
-     - Caitlin Dempsey - Earmark For 'Macos Bug Fixing Campaign'
+   * - C.A.M. Gerlach
+     - C.Y. Chen
+     - C\. H. Hionides
+   * - C\. Virginia Lee
+     - Caitlin Dempsey
      - Calidos Scp
    * - Calogero Pizzo
      - Calum Robertson
@@ -1446,7 +1446,7 @@
    * - Diana Jones
      - Diana Lyons Specht
      - Diana Verde
-   * - Diane Fritz (Qgis For Macos)
+   * - Diane Fritz
      - Diane Perez
      - Diane Winter
    * - Dianne Haselfeld
@@ -1622,7 +1622,7 @@
      - Edward Robson
    * - Edward Rothman
      - Edward Schaub
-     - Egor Kotov (For "Osx Bug Fixing Campaign")
+     - Egor Kotov
    * - Egor Nozdrya
      - Ehoche Joshua
      - Ehud Ram
@@ -1797,8 +1797,8 @@
    * - Eymeric De Chaumont
      - Ezi Molley
      - F Stevens Van Abbe
-   * - F. Javier Cobos Sanchez
-     - F. Stevens van Abbe
+   * - F\. Javier Cobos Sanchez
+     - F\. Stevens van Abbe
      - Fabian Cid Yanez
    * - Fabian Figueroa Astudillo
      - Fabian Frucht
@@ -2086,7 +2086,7 @@
      - George Tsironis
      - George Williams
    * - George-laurentiu Constantin
-     - Georges Moes (Macos Bug Fixing Campaign)
+     - Georges Moes
      - Georges Olivari
    * - Georges Wemans
      - Georgios Garofalakis
@@ -2554,10 +2554,10 @@
      - J Todd Stephenson
      - J W Larmit
    * - J-marc Gibey
-     - J. A. Buitenkamp
-     - J. Hek
-   * - J. Tielemann
      - J2_Macr@Hotmail.Com
+     - J\. A. Buitenkamp
+   * - J\. Hek
+     - J\. Tielemann
      - Jaak-Albert Metsoja
    * - Jacek Głuszkiewicz
      - Jacek Marszałek
@@ -3110,7 +3110,7 @@
      - Joseph Sanford
    * - Josh Dowen
      - Josh Waters
-     - Josh Waters (Thanks For The Macos Bug Fixing Campaign!)
+     - Josh Waters
    * - Joshua Houston
      - Joshua Smith
      - Joshua Voss
@@ -3716,16 +3716,16 @@
      - M L Roe
    * - M M Nijhuis
      - M Woodcraft
-     - M. A. Keuning eo
-   * - M. De Lasaux
-     - M. Gauthier Horth
-     - M. Guerin Fabien
-   * - M. McLachlan Hugh
-     - M. Osterlund
-     - M. Y. Rashidi
-   * - M.arch Architects
-     - M.P. Hooymans
+     - M.arch Architects
+   * - M.P. Hooymans
      - M4Bs Holding B.V.
+     - M\. A. Keuning eo
+   * - M\. De Lasaux
+     - M\. Gauthier Horth
+     - M\. Guerin Fabien
+   * - M\. McLachlan Hugh
+     - M\. Osterlund
+     - M\. Y. Rashidi
    * - Ma Brandi Becerra
      - Ma Fernanda Cepeda G
      - Ma Librada Agor
@@ -4638,8 +4638,8 @@
    * - P G H Frost
      - P Hanson
      - P Leandri
-   * - P. Nicholas Courtier
-     - P.E. Stek
+   * - P.E. Stek
+     - P\. Nicholas Courtier
      - Pablo Borges
    * - Pablo Cienfuegos Suarez
      - Pablo Dolz
@@ -4952,9 +4952,9 @@
      - R Buijs
    * - R Conrad
      - R Kristen Hering Milhollin
-     - R. J. Stemerdink
-   * - R. Muhammad Anshori (Unsorry)
      - R.C.J.G. Haselager
+   * - R\. J. Stemerdink
+     - R\. Muhammad Anshori (Unsorry)
      - Rabindra Sukull
    * - Rachael Avery
      - Rachel Arthur
@@ -5367,10 +5367,10 @@
    * - S J Primrose
      - S M Johnson
      - S Stawicki
-   * - S. Gebhardt  und A. Zink
-     - S. M. van Maastrigt-Pawiroredjo
-     - S. Siepman
    * - S.M.J. de Boer
+     - S\. Gebhardt  und A. Zink
+     - S\. M. van Maastrigt-Pawiroredjo
+   * - S\. Siepman
      - Sabato Iuliano
      - Saber Razmjooei
    * - Sabine Dreyer
@@ -5523,7 +5523,7 @@
    * - Servulo Costa
      - Seth Barker
      - Seth Dow
-   * - Seth Fitzsimmons (Qgis For Macos)
+   * - Seth Fitzsimmons
      - Seth Livingston
      - Seth Nagy
    * - Seth Simonds
@@ -5813,8 +5813,8 @@
      - Sławomir Tront
    * - T Bedford
      - T Powys-lybbe
-     - T. Michael Blake
-   * - T. u. U. Lütolf
+     - T\. Michael Blake
+   * - T\. u. U. Lütolf
      - Tad Robinette
      - Tage Johansson
    * - Tahawus Trails Llc
@@ -6095,8 +6095,8 @@
      - Ute Twer
    * - Ute Vogel-Sonnenschein
      - Uwe Schirkonyer
-     - V. Kuipers
-   * - V. Pois
+     - V\. Kuipers
+   * - V\. Pois
      - Val
      - Valdinei Gonçalves
    * - Valdis
@@ -6190,7 +6190,7 @@
      - Vrishal Mahajan
      - Vuokko Heikinheimo
    * - W Leslie Neilson
-     - W. Verbruggen
+     - W\. Verbruggen
      - Wagner Abreu
    * - Wahyu Indrajaya
      - Waleerat Suphannachart

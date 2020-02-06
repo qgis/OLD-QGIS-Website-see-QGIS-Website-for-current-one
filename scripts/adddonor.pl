@@ -17,6 +17,7 @@ close I;
 
 while(<>) {
 	chop;
+	s/^\s*([A-Z0-9])\. /$1\\. /;
 	$donors{lc $_} = $_;
 }
 
