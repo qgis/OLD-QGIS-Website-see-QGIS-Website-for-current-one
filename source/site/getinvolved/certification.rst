@@ -33,5 +33,5 @@ If approved you are required to make a €20 donation to the QGIS project for ea
  
 You can apply through `this form <certification_link_>`_
 
-.. _certification_link: http://changelog.qgis.org/en/qgis/create-certifyingorganisation/
+.. _certification_link: https://changelog.qgis.org/en/qgis/create-certifyingorganisation/
 

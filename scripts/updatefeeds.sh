@@ -24,7 +24,7 @@ curl https://raw.githubusercontent.com/qgis/QGIS-Website/master/source/feeds/qug
 
 # get sponsors (from changelog.qgis.org/projecta)
 mv members.json members.json.0
-curl http://changelog.qgis.org/en/qgis/members/json/ -o members.json
+curl https://changelog.qgis.org/en/qgis/members/json/ -o members.json
 # and list of past sponsors too
 mv qgispastmembers.json qgispastmembers.json.0
-curl http://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2 -o qgispastmembers.json
+curl https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2 -o qgispastmembers.json
