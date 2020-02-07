@@ -2443,7 +2443,7 @@
      - Hui Zhang
      - Huig Bergsma
    * - Humberto Nixon Martins
-     - Hunter Gleason 
+     - Hunter Gleason
      - Hyago Gabryel Santos Sousa
    * - HydroGEOS expertises eau et
      - Hydrosoft Poláček
