@@ -46,23 +46,24 @@ Steps are:
 - navigate to the *Desktop* section
 - and pick one or more of the following packages:
 
-  +-------------------+------------------------------+-------------------+-------------------------------------------------------+
-  | Release           | Version                      | Package           | Description                                           |
-  +===================+==============================+===================+=======================================================+
-  | Latest Release    | |version|.x |codename|       | qgis              | Release                                               |
-  |                   | |releasenote|                +-------------------+-------------------------------------------------------+
-  |                   |                              | qgis-rel-dev [1]_ | Nightly build of the upcoming point release           |
-  +-------------------+------------------------------+-------------------+-------------------------------------------------------+
-  | Long Term Release | |ltrversion|.x |ltrcodename| | qgis-ltr          | Release                                               |
-  | Repository        | |ltrnote|                    +-------------------+-------------------------------------------------------+
-  |                   |                              | qgis-ltr-dev [2]_ | Nightly build of the upcoming point long term release |
-  +-------------------+------------------------------+-------------------+-------------------------------------------------------+
-  | Development       | |devversion| master          | qgis-dev [3]_     | Nightly build of the development version              |
-  +-------------------+------------------------------+-------------------+-------------------------------------------------------+
+  +-------------------+------------------------------+------------------------+-------------------------------------------------------+
+  | Release           | Version                      | Package                | Description                                           |
+  +===================+==============================+========================+=======================================================+
+  | Latest Release    | |version|.x |codename|       | qgis                   | Release                                               |
+  |                   | |releasenote|                +------------------------+-------------------------------------------------------+
+  |                   |                              | qgis-rel-dev [1]_ [4]_ | Nightly build of the upcoming point release           |
+  +-------------------+------------------------------+------------------------+-------------------------------------------------------+
+  | Long Term Release | |ltrversion|.x |ltrcodename| | qgis-ltr               | Release                                               |
+  | Repository        | |ltrnote|                    +------------------------+-------------------------------------------------------+
+  |                   |                              | qgis-ltr-dev [2]_ [4]_ | Nightly build of the upcoming point long term release |
+  +-------------------+------------------------------+------------------------+-------------------------------------------------------+
+  | Development       | |devversion| master          | qgis-dev [3]_ [4]_     | Nightly build of the development version              |
+  +-------------------+------------------------------+------------------------+-------------------------------------------------------+
 
 .. [1] Latest release nightlies SHA: 32 bit :raw-html:`<span id="qgis-rel-dev-x86"> </span>`, 64 bit :raw-html:`<span id="qgis-rel-dev-x86_64"> </span>`
 .. [2] Latest long-term release nightlies SHA: 32 bit :raw-html:`<span id="qgis-ltr-dev-x86"> </span>`, 64 bit :raw-html:`<span id="qgis-ltr-dev-x86_64"> </span>`
 .. [3] Master nightlies SHA: 32 bit :raw-html:`<span id="qgis-dev-x86"> </span>`, 64 bit :raw-html:`<span id="qgis-dev-x86_64"> </span>`
+.. [4] Nightlies are debug builds (including debugging output)
 
 .. _QGIS-windows-weekly:
 
@@ -146,11 +147,13 @@ Lines of packages:
 |                       |                                | Nightly build of                 | https://qgis.org/debian-nightly-release        |
 |                       |                                | upcoming point release           | https://qgis.org/ubuntu-nightly-release        |
 |                       |                                | for Debian and Ubuntu            |                                                |
+|                       |                                | [5]_                             |                                                |
 |                       |                                +----------------------------------+------------------------------------------------+
 |                       |                                | Nightly build of                 | https://qgis.org/ubuntugis-nightly-release     |
 |                       |                                | upcoming point                   |                                                |
 |                       |                                | release with                     |                                                |
 |                       |                                | ubuntugis-unstable dependencies  |                                                |
+|                       |                                | [5]_                             |                                                |
 +-----------------------+--------------------------------+----------------------------------+------------------------------------------------+
 | Long Term Release     | |ltrversion|.x |ltrcodename|   | Release for                      | https://qgis.org/debian-ltr                    |
 | Repository            | |ltrnote|                      | **Debian and Ubuntu**            | https://qgis.org/ubuntu-ltr                    |
@@ -161,17 +164,21 @@ Lines of packages:
 |                       |                                | Nightly build of                 | https://qgis.org/debian-nightly-ltr            |
 |                       |                                | upcoming point release           | https://qgis.org/ubuntu-nightly-ltr            |
 |                       |                                | for Debian and Ubuntu            |                                                |
+|                       |                                | [5]_                             |                                                |
 |                       |                                +----------------------------------+------------------------------------------------+
 |                       |                                | Nightly build of                 | https://qgis.org/ubuntugis-nightly-ltr         |
 |                       |                                | upcoming point                   |                                                |
 |                       |                                | release with                     |                                                |
 |                       |                                | ubuntugis-unstable dependencies  |                                                |
+|                       |                                | [5]_                             |                                                |
 +-----------------------+--------------------------------+----------------------------------+------------------------------------------------+
 | Development Version   | |devversion| master            | Nightly build for                | https://qgis.org/debian-nightly                |
 |                       |                                | **Debian and Ubuntu**            | https://qgis.org/ubuntu-nightly                |
+|                       |                                | [5]_                             |                                                |
 |                       |                                +----------------------------------+------------------------------------------------+
 |                       |                                | Nightly build with               | https://qgis.org/ubuntugis-nightly             |
 |                       |                                | ubuntugis-unstable dependencies  |                                                |
+|                       |                                | [5]_                             |                                                |
 +-----------------------+--------------------------------+----------------------------------+------------------------------------------------+
 
 | Next point release: |nextpointreleasedate|
@@ -184,26 +191,30 @@ Supported distribution versions:
 +---------------+-------------+-------------------+-----------------------+-------+
 | Distribution  | Version     | Codename          | Also available based  | with  |
 |               |             |                   | on ubuntugis-unstable | 3D    |
-|               |             |                   | dependencies?         | [6]_  |
+|               |             |                   | dependencies?         | [8]_  |
 +===============+=============+===================+=======================+=======+
-| Debian        | 9.x         | stretch [4]_      |                       |       |
+| Debian        | 9.x         | stretch [6]_      |                       |       |
 |               +-------------+-------------------+-----------------------+-------+
 |               | 10.x        | buster            |                       | yes   |
 |               +-------------+-------------------+-----------------------+-------+
 |               | sid         | unstable          |                       | yes   |
 +---------------+-------------+-------------------+-----------------------+-------+
-| Ubuntu        | 19.10       | eoan              |                       | yes   |
+| Ubuntu        | 20.04       | focal [9]_        |                       | yes   |
+|               +-------------+-------------------+-----------------------+-------+
+|               | 19.10       | eoan              |                       | yes   |
 |               +-------------+-------------------+-----------------------+-------+
 |               | 19.04       | disco             |                       | yes   |
 |               +-------------+-------------------+-----------------------+-------+
 |               | 18.04 (LTS) | bionic            | yes                   | yes   |
 |               +-------------+-------------------+-----------------------+-------+
-|               | 16.04 (LTS) | xenial [4]_ [5]_  | yes                   |       |
+|               | 16.04 (LTS) | xenial [6]_ [7]_  | yes                   |       |
 +---------------+-------------+-------------------+-----------------------+-------+
 
-.. [4] only up to 3.4 (3.6 requires Qt 5.9 and above)
-.. [5] only with ubuntugis-unstable (3.4 requires GDAL2)
-.. [6] 3D requires Qt 5.9 and above
+.. [5] nightlies are debug builds (including debug output)
+.. [6] only up to 3.4 (3.6 requires Qt 5.9 and above)
+.. [7] only with ubuntugis-unstable (3.4 requires GDAL2)
+.. [8] 3D requires Qt 5.9 and above
+.. [9] starting with 3.10.3 / 3.11 (master) / 3.12
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
 
