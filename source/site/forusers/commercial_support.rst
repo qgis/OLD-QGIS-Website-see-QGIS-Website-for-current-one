@@ -221,6 +221,13 @@ OpenLayers
 
 ----
 
+.. |KaplanOpenSource| image:: /static/site/about/images/kaplanopensource.png
+   :width: 200 px
+
+|KaplanOpenSource| `Kaplan Open Source <https://kaplanopensource.co.il/>`_ (based in Israel) is an Open Source consulting company that provides Open Source GIS development, training and support for enterprises (private, municipal and governmental) for QGIS (and plugins), PostgreSQL/PostGIS and GeoServer in addition to expertise in Python/Django. We also handle Open Source Program Office for companies and building their Open Source strategy / architecture.
+
+----
+
 .. |LandGoed| image:: /static/site/about/images/landgoed.png
    :width: 200 px
 
