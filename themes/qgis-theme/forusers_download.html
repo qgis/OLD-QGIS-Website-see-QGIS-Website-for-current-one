@@ -200,16 +200,39 @@
                     </div>
                   </div>
                 </div>
-                <a name="android"></a>
+                <a name="apps"></a>
                 <div class="accordion-group">
                   <div class="accordion-heading">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#android">
-                      <h4>{{ _('Download for Android') }} <i class="icon-chevron-down pull-right"></i></h4>
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#downloads" href="#apps">
+                      <h4>{{ _('Apps for mobile and tablet') }} <i class="icon-chevron-down pull-right"></i></h4>
                     </a>
                   </div>
-                  <div id="android" class="accordion-body collapse in">
+                  <div id="apps" class="accordion-body collapse in">
                     <div class="accordion-inner">
-                      <p>{{ _('An experimental release can be found in the ') }}<a href="https://play.google.com/store/apps/details?id=org.qgis.qgis" class="reference external" ><strong>Play Store</strong></a></p>
+                        <p>The QGIS experience does not stop on the desktop. Various touch optimized apps allow you to take QGIS into the field</p>
+                        <h4>Third-party touch optimized apps</h4>
+                        <h5 class="app-name"><a href="https://qfield.org">QField for QGIS (formerly QGIS for Android)</a></h5>
+                        <div class='app-download-buttons clearfix'>
+                            <a class='app-download-button' href='https://play.google.com/store/apps/details?id=ch.opengis.qfield&utm_source=qgis.org'><img alt='Get it on Google Play' src="{{pathto('_static/images/app_download_play_store.png', 1)}}"/></a>
+                            <a class='app-download-button' href='https://download.opengis.ch/qfield/ci-builds/win/'><img alt='Get it for Windows' src="{{pathto('_static/images/app_download_windows.png', 1)}}"/></a>
+                            <a class='app-download-button' href='https://www.github.com/opengisch/qfield/releases'><img alt='Get it on GitHub' src="{{pathto('_static/images/app_download_gh.png', 1)}}"/></a>
+                        </div>
+                        <h5 class="app-name"><a href="https://inputapp.io/">Input</a></h5>
+                        <div class='app-download-buttons clearfix'>
+                            <a class='app-download-button' href='https://play.google.com/store/apps/details?id=uk.co.lutraconsulting&utm_source=qgis.org'><img alt='Get it on Google Play' src="{{pathto('_static/images/app_download_play_store.png', 1)}}"/></a>
+                            <a class='app-download-button' href='https://www.github.com/lutraconsulting/input/releases'><img alt='Get it on GitHub' src="{{pathto('_static/images/app_download_gh.png', 1)}}"/></a>
+                        </div>
+                        <h5 class="app-name"><a href="https://roam-docs.readthedocs.io">IntraMaps Roam</a></h5>
+                        <div class='app-download-buttons clearfix'>
+                            <a class='app-download-button' href='https://github.com/roam-qgis/Roam/releases'><img alt='Get it for Windows' src="{{pathto('_static/images/app_download_windows.png', 1)}}"/></a>
+                            <a class='app-download-button' href='https://github.com/roam-qgis/Roam/releases'><img alt='Get it on GitHub' src="{{pathto('_static/images/app_download_gh.png', 1)}}"/></a>
+                        </div>
+                        <h4 class="app-name">QGIS for Android</h4>
+                        <p>{{ _('An old and deprecated not touch optimised release of QGIS for Android can be found in the Play Store ') }}</p>
+                        <div class='app-download-buttons clearfix'>
+                            <a class='app-download-button' href='https://play.google.com/store/apps/details?id=org.qgis.qgis&utm_source=qgis.org'><img alt='Get it on Google Play' src="{{pathto('_static/images/app_download_play_store.png', 1)}}"/></a>
+                            <a class='app-download-button' href='https://github.com/qgis/QGIS-Android'><img alt='Get it on GitHub' src="{{pathto('_static/images/app_download_gh.png', 1)}}"/></a>
+                        </div>
                     </div>
                   </div>
                 </div>
@@ -264,7 +287,7 @@
 			if (navigator.platform.toUpperCase().indexOf("X11")!=-1) os="unix";
 			if (navigator.platform.toUpperCase().indexOf("LINUX")!=-1) os="linux";
 			if (navigator.platform.toUpperCase().indexOf("BSD")!=-1) os="bsd";
-			if (navigator.platform.toUpperCase().indexOf("ANDROID")!=-1) os="android";
+			if (navigator.platform.toUpperCase().indexOf("ANDROID")!=-1) os="apps";
 
             // Add handler for accordion toggles
             $('.accordion-toggle').click(function(){
