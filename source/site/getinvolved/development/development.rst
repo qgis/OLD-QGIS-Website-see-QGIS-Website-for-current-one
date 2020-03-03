@@ -77,7 +77,7 @@ Developing Python plugin
 QGIS has a lot to offer to python developers too.
 
 QGIS has python bindings so you can automate tasks in QGIS via python.
-We then provide a documentation for QGIS API at
+We provide a documentation for QGIS API at
 https://qgis.org/pyqgis/
 
 You can also have a look into the **Python Cookbook** in our Documentation site:
