@@ -29,9 +29,10 @@ Following an initial review, the application will be sent to local QGIS groups f
 
 The PSC will make the final determination. If accepted as a QGIS Certified Organization your contributions to the project will be published for transparency.
 
-If approved you are required to make a €20 donation to the QGIS project for each certificate. This creates a mechanism for financial support of the project.
+If approved you are required to make a €20 donation to the QGIS project for each certificate. This creates a mechanism for financial support of the project. Payments for certificates are made using online credit card transactions.
  
-You can apply through `this form <certification_link_>`_
+You can apply through `this form <certification_link_>`_ (make sure to first create a `login <certification_login_>`_). You can find more details about the certification programme `here <certification_details_>`_ (we advise you to read this before registering).
 
 .. _certification_link: https://changelog.qgis.org/en/qgis/create-certifyingorganisation/
-
+.. _certification_details: https://changelog.qgis.org/en/qgis/about/
+.. _certification_login: https://changelog.qgis.org/en/accounts/signup/
