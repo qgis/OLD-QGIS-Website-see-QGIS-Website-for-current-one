@@ -52,7 +52,9 @@ The Settings - Options - Map Tools tab contains a new setting for controlling th
 
 The Project Properties dialog also has a new setting for the project-specific bearing format.
 
-The intention is that whenever angular bearings are shown in QGIS, they will be formatted using the current project's bearing format settings. In this PR I've done this for the status bar pan direction message. Also includes lots of nice API additions providing a stable, easy to discover place for setting and retrieving settings like the bearing format.
+The intention is that whenever angular bearings are shown in QGIS, they will be formatted using the current project's bearing format settings. 
+
+Also includes lots of nice API additions providing a stable, easy to discover place for setting and retrieving settings like the bearing format.
 
 |Peek 2020-01-09 11-08|
 
@@ -197,7 +199,7 @@ This feature was developed by Mathieu Pellerin
 Feature: Random marker fill symbol layer type
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This commit adds a new fill symbol layer type "Random marker fill". It
+This feature adds a new fill symbol layer type "Random marker fill". It
 allows polygon features to be rendered using a marker symbol placed
 at random locations within the polygon boundary.
 
@@ -1148,7 +1150,7 @@ This feature was developed by `Matthias Kuhn <https://api.github.com/users/m-kuh
 Feature: Add json support to WMS GetLegendGraphic
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This PR adds support for GetLegendGraphic responses encoded as JSON. It builds on previous work by @pblottiere, who added QgsLegendRenderer::exportLegendToJson for that exact purpose.
+This feature adds support for GetLegendGraphic responses encoded as JSON. It builds on previous work by @pblottiere, who added QgsLegendRenderer::exportLegendToJson for that exact purpose.
 
 For example a GetLegendGraphic request with FORMAT=image/png producing the image
 
@@ -1362,7 +1364,7 @@ Feature: Bug fixes by Denis Rouzaud
 +-----------------------------------------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------+
 | Crash with relations V2                                                                 | `#33120 <https://github.com/qgis/QGIS/issues/33120>`__    | `PR #34403 <https://github.com/qgis/QGIS/pull/34403>`__   | done                            |
 +-----------------------------------------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------+
-| Fix map layer actions rendering in attribute table                                      | `PR #34266 <https://github.com/qgis/QGIS/pull/34266>`__   | done                                                      |                                 |
+| Fix map layer actions rendering in attribute table                                      |Unreported                                                 | `PR #34266 <https://github.com/qgis/QGIS/pull/34266>`__   | done                            |
 +-----------------------------------------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------+
 | DnD improvements (sync selections)                                                      | `#28570 <https://github.com/qgis/QGIS/issues/28570>`__    | `PR #34411 <https://github.com/qgis/QGIS/pull/34411>`__   | TODO?                           |
 +-----------------------------------------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------+
