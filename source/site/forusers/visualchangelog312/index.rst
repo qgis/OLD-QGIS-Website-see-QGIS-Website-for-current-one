@@ -97,11 +97,13 @@ It's possible to copy features from one layer to another. If there are the same 
 
 If the destination layer has constraints on the fields, these should be fulfilled now or disregarded on purpose. But not just copied invalid like it used to do.
 
-| That's why now the attributes are checked against the constraints. And for all the invalid features a dialog pops up.
-| |copydialog2|
+That's why now the attributes are checked against the constraints. And for all the invalid features a dialog pops up.
 
-| And on pasting only one feature, the options are reduced:
-| |copypastesingle|
+|copydialog2|
+
+And on pasting only one feature, the options are reduced:
+
+|copypastesingle|
 
 This feature was developed by `signedav <https://api.github.com/users/signedav>`__
 
@@ -173,8 +175,9 @@ Now in the legend (and symbol preview), both layers would be shown with a rotati
 
 The new behavior is to fall back to the static, configured values which makes it very intuitive to configure the legend for these cases.
 
-| **Before**
-| |Peek 2019-12-08 09-18|
+**Before**
+
+|Peek 2019-12-08 09-18|
 
 **After**
 
@@ -194,9 +197,9 @@ This feature was developed by Mathieu Pellerin
 Feature: Random marker fill symbol layer type
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| This commit adds a new fill symbol layer type "Random marker fill". It
-| allows polygon features to be rendered using a marker symbol placed
-| at random locations within the polygon boundary.
+This commit adds a new fill symbol layer type "Random marker fill". It
+allows polygon features to be rendered using a marker symbol placed
+at random locations within the polygon boundary.
 
 Options include:
 
@@ -216,7 +219,8 @@ This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/
 Feature: Add option to set color for rendering nodata pixels in raster layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Allows raster nodata pixels to be colored in a specific (non-transparent) color. Designed to match the "Display background value" option from ArcMap.
+Allows raster nodata pixels to be colored in a specific (non-transparent) color.
+Designed to match the "Display background value" option from ArcMap.
 
 |image17|
 
@@ -313,12 +317,13 @@ This feature was developed by `Peter Petrik (Lutra Consulting) <http://www.lutra
 Feature: Support for Mesh Reference Time
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-For various dataset type, for example GRIB and NetCDF, the reference time in QGIS time settings dialog is prepopulated from the raw data and does not need to be set manually. Also we fixed various bugs related to time parsing, so in QGIS 3.12 it should be possible to format and show your time in plots/animations in proper way.
+For various dataset type, for example GRIB and NetCDF, the reference time in QGIS time settings dialog is prepopulated from the raw data and does not need to be set manually. Also we fixed various bugs related to time parsing, so in QGIS 3.12 it should be possible to format and show your time in plots/animations in proper way:
 
-| If there is a valid time reference provided with dataset groups, this time reference is used to displaying time (using absolute time).
-| If there is no reference time provided, the time is displayed using relative time, and a time reference can be set by the user to display absolute time.
-| When no time reference is provided, the default one is the current date + time set with 00:00:00.
-| A push-button is added to reload the reference time provided with dataset groups if needed.
+* If there is a valid time reference provided with dataset groups, this time reference is used to displaying time (using absolute time).
+* If there is no reference time provided, the time is displayed using relative time, and a time reference can be set by the user to display absolute time.
+* When no time reference is provided, the default one is the current date + time set with 00:00:00.
+
+A push-button is added to reload the reference time provided with dataset groups if needed.
 
 It also adds a new feature to let the user set the time unit of the provider with a combo box if this time unit is different than hours.
 
@@ -338,17 +343,19 @@ It is possible to render the mesh layer in the 3D view as terrain.
 
 The user can choose those enable/disable smooth triangles and wireframe. It is possible to choose the line width and the line color of the wireframe, change the vertical scale and choose the style of the rendering (unique color or color ramp shading).
 
-| There are two entries to render the mesh layer in the 3D view :
-| - choose the mesh as the terrain in the config widget
-| - activate the 3D view in the layer properties.
+There are two entries to render the mesh layer in the 3D view :
 
-| The user can choose those settings
-| - enable/disable smooth triangles
-| - enable/disable wireframe
-| - choose the line width and the line color of the wireframe
-| - change the verticale scale
-| - choose the style of the rendering : unique color or color ramp shading
-| - settings the color ramp shading as for raster layer
+- choose the mesh as the terrain in the config widget
+- activate the 3D view in the layer properties.
+
+The user can choose those settings:
+
+- enable/disable smooth triangles
+- enable/disable wireframe
+- choose the line width and the line color of the wireframe
+- change the verticale scale
+- choose the style of the rendering : unique color or color ramp shading
+- settings the color ramp shading as for raster layer
 
 For now, the mesh can be rendered as a TIN but rendering dataset is not supported. However, the infrastructure is adapted for a future round of work.
 
@@ -365,9 +372,10 @@ Feature: Load 3D vector layer data in background + tiling
 
 This adds support for background loading of data from vector layers into 3D map views. Until now, loading (and tessellation) would freeze the GUI completely - this could take many seconds depending on the complexity of input data.
 
-| The basic vector layer renderer and rule-based renderer were converted to use QgsChunkedEntity which is already used for terrain rendering. There are two more improvements in addition to unlocking of GUI:
-| - loading process is multi-threaded instead of using just a single core
-| - loading is done in tiles - so it is possible to see the tiles with 3D data appearing while other data are still being loaded
+The basic vector layer renderer and rule-based renderer were converted to use QgsChunkedEntity which is already used for terrain rendering. There are two more improvements in addition to unlocking of GUI:
+
+- loading process is multi-threaded instead of using just a single core
+- loading is done in tiles - so it is possible to see the tiles with 3D data appearing while other data are still being loaded
 
 There is a new configuration option in 3D tab of vector layers - it determines how deep will be the quadtree. For example, one zoom level means there will be a single tile for the whole layer. Three zoom levels means there will be 16 tiles at the leaf level (every extra zoom level multiplies that by 4, so I have limited GUI to max. 8 levels which gives ~16K tiles which is already a lot).
 
@@ -484,7 +492,7 @@ This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalld
 Feature: Stored expressions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Store user expressions (with context/category, just like recent expressions)
+-  Store user expressions
 -  Clear editor icon/action
 
 |expression-storage-opt|
@@ -504,33 +512,34 @@ When a field is a RelationReference, ValueRelation and ValueMap, there is the po
 
 |uniquevalues|
 
-| In the example we have the persons:
-| *George (in Cuba, in his twenties, human)
+In the example we have the persons:
+
+* *George (in Cuba, in his twenties, human)
   Paul (in Vietnam, in his thirties, human)
   Ringo (in Venezuela, in his forties, cat)
   John (in Vietnam as well, in his forties, table)*
-| And the entries in the country layer are *USSR, Cuba, Vietnam, Burma, Venezuela, North Korea*
+* And the entries in the country layer are *USSR, Cuba, Vietnam, Burma, Venezuela, North Korea*
 
 This feature was developed by `signedav <https://api.github.com/users/signedav>`__
 
 Feature: Add expression functions for converting to/from wkb
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  | ``geom_from_wkb( geom_to_wkb( make_point(4,5) ) ) → a point geometry object``
-   | Returns a geometry created from a Well-Known Binary (WKB) representation.
+-  ``geom_from_wkb( geom_to_wkb( make_point(4,5) ) ) → a point geometry object``
+   Returns a geometry created from a Well-Known Binary (WKB) representation.
 
--  | ``geom_to_wkb( $geometry ) → binary blob containing a geometry object``
-   | Returns the Well-Known Binary (WKB) representation of a geometry as a binary blob.
+-  ``geom_to_wkb( $geometry ) → binary blob containing a geometry object``
+   Returns the Well-Known Binary (WKB) representation of a geometry as a binary blob.
 
-| Adds geom\_from\_wkb and geom\_to\_wkb, which mirror the existing
-| geom\_from\_wkt/geom\_to\_wkt functions but for WKB representations
-| of geometries.
+Adds geom\_from\_wkb and geom\_to\_wkb, which mirror the existing
+geom\_from\_wkt/geom\_to\_wkt functions but for WKB representations
+of geometries.
 
-| Since QGIS 3.6 we've had good support for binary blob values in
-| expressions and field values, so adding these functions allows
-| users to work with binary blob fields containing WKB representations
-| of geometries (e.g. with a geometry generator showing the encoded
-| geometries)
+Since QGIS 3.6 we've had good support for binary blob values in
+expressions and field values, so adding these functions allows
+users to work with binary blob fields containing WKB representations
+of geometries (e.g. with a geometry generator showing the encoded
+geometries)
 
 This feature was funded by `SLYR <https://north-road.com/slyr/>`__
 
@@ -539,35 +548,26 @@ This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/
 Feature: is\_valid expression
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  ``is_valid(geom_from_wkt('LINESTRING(0 0, 1 1, 2 2, 0 0)')) → true``
-   Returns true if a geometry is valid; if it is well-formed in 2D according to the OGC rules
+``is_valid(geom_from_wkt('LINESTRING(0 0, 1 1, 2 2, 0 0)')) → true``
+Returns true if a geometry is valid; if it is well-formed in 2D according to the OGC rules
 
 Add an is\_valid function to the expressions, which reuses GEOS is valid and returns true if a geometry is valid; if it is well-formed in 2D according to the OGC rules.
-
-| Based of @NathanW2 workshop at FOSS4g Oceania.
-| I have tested the function manually and confirmed the tests pass, however I can't get my build to produce the help files to check if this or correct. I"m not sure if "Uses GEOS" is needed in the help file.
-
-| I'm a python dev not C++ so any help will definitely be appreciated
-| Thanks
 
 This feature was developed by Pete King
 
 Feature: Add datetime\_from\_epoch (MSec from epoch) expression function
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  ``datetime_from_epoch(1483225200000) → 2017-01-01T00:00:00``
-   Returns a datetime whose date and time are the number of milliseconds, msecs, that have passed since 1970-01-01T00:00:00.000, Coordinated Universal Time (Qt.UTC), and converted to Qt.LocalTime.
-
-| Adds a function to create a DateTime from a seconds since epoch timestamp, to be used in expresssions
-| As there is an 'epoch' function working in MilliSeconds (and the original Qt function also does MilliSeconds, I create it to use mSecs).
+``datetime_from_epoch(1483225200000) → 2017-01-01T00:00:00``
+Returns a datetime whose date and time are the number of milliseconds, msecs, that have passed since 1970-01-01T00:00:00.000, Coordinated Universal Time (Qt.UTC), and converted to Qt.LocalTime.
 
 This feature was developed by Richard Duivenvoorde
 
 Feature: rotate() expression function
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  ``rotate($geometry, 45, make_point(4, 5)) → geometry rotated 45 degrees clockwise around the (4, 5) point``
-   Returns a rotated version of a geometry. Calculations are in the Spatial Reference System of this geometry.
+``rotate($geometry, 45, make_point(4, 5)) → geometry rotated 45 degrees clockwise around the (4, 5) point``
+Returns a rotated version of a geometry. Calculations are in the Spatial Reference System of this geometry.
 
 This feature was developed by Raymond Nijssen, Nyall Dawson
 
@@ -579,9 +579,9 @@ Feature: allow to seed random functions
 -  ``randf(10, 80, 1) →  19.37136508087729``
    Returns a random float within the range specified by the minimum and maximum argument (inclusive). If a seed is provided, the returned will always be the same, depending on the seed.
 
-| This PR adds an optional seed parameter to rand() and randf() functions, as per issue #20630
-| This is very useful if you want the result to be deterministic, for instance to assign random but fixed colors to features. Using color\_hsb(rand(0,360,$id),50,50) for instance yields always the same color for the same feature.
-| By the way, the PR also improves the rand() function, which didn't work for high values (over 32000) by using Qt's QRandomGenerator instead of qrand (which it seems was deprecated in Qt 5.11).
+This feature adds an optional seed parameter to rand() and randf() functions
+This is very useful if you want the result to be deterministic, for instance to assign random but fixed colors to features. Using color\_hsb(rand(0,360,$id),50,50) for instance yields always the same color for the same feature.
+We also improves the rand() function, which didn't work for high values (over 32000) by using Qt's QRandomGenerator instead of qrand (which it seems was deprecated in Qt 5.11).
 
 This feature was developed by olivierdalang
 
@@ -614,8 +614,8 @@ This feature was developed by `David Signer (OPENGIS.ch) <http://www.opengis.ch>
 Feature: Snapping cache parallelization
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| In previous version of QGIS, the snapping index cache was built sequentially and you had to wait for all your layers to be indexed before starting edition. Thanks to the QGIS.org grant program, QGIS now builds the snapping index cache in parallel for each layer, so it speeds up the whole process.
-| Snapping has also been relaxed, meaning that you don't have to wait for the cache to be complete, you can start editing and snapping information will appear as soon as they are ready.
+In previous version of QGIS, the snapping index cache was built sequentially and you had to wait for all your layers to be indexed before starting edition. Thanks to the QGIS.org grant program, QGIS now builds the snapping index cache in parallel for each layer, so it speeds up the whole process.
+Snapping has also been relaxed, meaning that you don't have to wait for the cache to be complete, you can start editing and snapping information will appear as soon as they are ready.
 
 |image39|
 
@@ -635,8 +635,8 @@ We did a revamp of the DXF export process. This solidifies the export process an
 -  The Z coordinate of 3D geometries are preserved
 -  Labels are exported with their anchor points and horizonal and vertical alignment or quadrant settings respected
 
-| The whole DXF export process has also been made ready for running in a thread.
-| With this in place, it's now only one step away from being sent to the background, allow cancellation of an ongoing export process or being exposed as a processing algorithm.
+The whole DXF export process has also been made ready for running in a thread.
+With this in place, it's now only one step away from being sent to the background, allow cancellation of an ongoing export process or being exposed as a processing algorithm.
 
 This feature was funded by `Kanton Schaffhausen <https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-Geoinformation-1262910-DE.html>`__
 
@@ -659,8 +659,8 @@ This feature was developed by `Julien Cabieces (Oslandia) <https://oslandia.com/
 Feature: Improve feature selection dialog
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| From the relation editor widget, you can link your currently displayed feature with existing features. The feature selection dialog allows you to choose these features. Thanks to the QWAT user group, feature selection is now shared with the canvas' one so it is easy to find out and pick the feature you want to link.
-| We have also added the ability to filter displayed features (selected ones, visible on map, matching an expression...) reusing the same widgets already existing in attribute form.
+From the relation editor widget, you can link your currently displayed feature with existing features. The feature selection dialog allows you to choose these features. Thanks to the QWAT user group, feature selection is now shared with the canvas' one so it is easy to find out and pick the feature you want to link.
+We have also added the ability to filter displayed features (selected ones, visible on map, matching an expression...) reusing the same widgets already existing in attribute form.
 
 |image41|
 
@@ -698,8 +698,9 @@ Feature: Support for displaying WMTS legend graphics in layer tree
 
 We added support for displaying WMTS legend graphics directly in the layer tree, as is already the case with WMS legend graphics.
 
-| Example:
-| |imageQ4|
+Example:
+
+|imageQ4|
 
 Sample use case: https://wmts10.geo.admin.ch/EPSG/2056/1.0.0/WMTSCapabilities.xml
 
@@ -736,8 +737,8 @@ Processing
 Feature: Package new layers to existing GeoPackage
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| We improved the existing *package layers* processing algorithm to be able to add new layers to existing GeoPackages.
-| All you need to do to make use of this is disable the OVERWRITE parameter and specify an existing GeoPackage.
+We improved the existing *package layers* processing algorithm to be able to add new layers to existing GeoPackages.
+All you need to do to make use of this is disable the OVERWRITE parameter and specify an existing GeoPackage.
 
 |image46|
 
@@ -840,17 +841,17 @@ Feature: Add new algorithm "Detect Dataset Changes"
 
 This algorithm compares two vector layers, and determines which features are unchanged, added or deleted between the two. It is designed for comparing two different versions of the same dataset.
 
-| When comparing features, the original and revised feature geometries will be compared against each other. Depending on the Geometry Comparison Behavior setting,
-| the comparison will either be made using an exact comparison (where geometries must be an exact match for each other, including the order and count of vertices) or a
-| topological comparison only (where are geometries area considered equal if all of the their component edges overlap. E.g. lines with the same vertex locations but
-| opposite direction will be considered equal by this method). If the topological comparison is selected then any z or m values present in the geometries will not
-| be compared.
+When comparing features, the original and revised feature geometries will be compared against each other. Depending on the Geometry Comparison Behavior setting,
+the comparison will either be made using an exact comparison (where geometries must be an exact match for each other, including the order and count of vertices) or a
+topological comparison only (where are geometries area considered equal if all of the their component edges overlap. E.g. lines with the same vertex locations but
+opposite direction will be considered equal by this method). If the topological comparison is selected then any z or m values present in the geometries will not
+be compared.
 
-| By default, the algorithm compares all attributes from the original and revised features. If the Attributes to Consider for Match parameter is changed, then only
-| the selected attributes will be compared (e.g. allowing users to ignore a timestamp or ID field which is expected to change between the revisions).
+By default, the algorithm compares all attributes from the original and revised features. If the Attributes to Consider for Match parameter is changed, then only
+the selected attributes will be compared (e.g. allowing users to ignore a timestamp or ID field which is expected to change between the revisions).
 
-| If any features in the original or revised layers do not have an associated geometry, then care must be taken to ensure that these features have a unique set of
-| attributes selected for comparison. If this condition is not met, warnings will be raised and the resultant outputs may be misleading.
+If any features in the original or revised layers do not have an associated geometry, then care must be taken to ensure that these features have a unique set of
+attributes selected for comparison. If this condition is not met, warnings will be raised and the resultant outputs may be misleading.
 
 The algorithm outputs three layers, one containing all features which are considered to be unchanged between the revisions, one containing features deleted from the original layer which are not present in the revised layer, and one containing features add to the revised layer which are not present in the original layer.
 
@@ -861,8 +862,7 @@ This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalld
 Feature: New mode to "Join Attributes by Location" to take attributes from matching feature with largest area of overlap only
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| This allows for easy polygon->polygon joins, where you expect there to be only a single matching feature and don't want to include features which
-| are just touching or have just tiny sliver polygon overlaps.
+This allows for easy polygon->polygon joins, where you expect there to be only a single matching feature and don't want to include features which are just touching or have just tiny sliver polygon overlaps.
 
 |image58|
 
@@ -873,15 +873,13 @@ This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalld
 Feature: Add native affine transform algorithm for vectors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| Offers the following benefits over the GRASS/SAGA versions:
-| - Full support for z/m values and handling curved geometries without loss
-| of curves
-| - Works with all native data types, no need for format transformation
-| - Supports dynamic (data defined, per feature) translate/scale/rotate parameters
-| - Allows transformation and scaling of both Z and M values (if present)
-| - Supports in-place edit mode
+Offers the following benefits over the GRASS/SAGA versions:
 
-Fixes #33550
+- Full support for z/m values and handling curved geometries without loss of curves
+- Works with all native data types, no need for format transformation
+- Supports dynamic (data defined, per feature) translate/scale/rotate parameters
+- Allows transformation and scaling of both Z and M values (if present)
+- Supports in-place edit mode
 
 |image59|
 
@@ -911,7 +909,7 @@ This feature was developed by `Peter Petrik (Lutra Consulting) <http://www.lutra
 Feature: Show html files in browser panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-this feature allows .htm(l) files to be shown and opened from the browser panel. These are often used to document data files or mapping projects.
+This feature allows .htm(l) files to be shown and opened from the browser panel. These are often used to document data files or mapping projects.
 
 |image61|
 
@@ -1013,11 +1011,12 @@ See discussion at
 
 The situation was that we had two different code paths for handling GDAL side attribute decoding OR QGIS side decoding. Unfortunately, they are both incompatible with each other, and due to GDAL API for this, we can't unify the two approaches. (More technical detail in the commit log message!)
 
-| So, now we:
-| - always do the decoding on QGIS' side. This allows users to manually override a shapefile's declared encoding because they are often incorrect!
-| - use a port of GDAL's shapefile detection logic (it's not exposed in GDAL API, so I had to re-implement it here) so that we default to reading shapefiles by respecting the embedded encoding information (via CPG files or DBF LDID information)
-| - Completely remove the confusing/broken "Ignore shapefile encoding declaration" option, as it's no longer required -- users are ALWAYS able to manually change the encoding of shapefiles layers if needed
-| - Always show users the detected embedded encoding in the layer properties, instead of always showing "UTF-8" when the embedded encoding information is used
+So, now we:
+
+- always do the decoding on QGIS' side. This allows users to manually override a shapefile's declared encoding because they are often incorrect!
+- use a port of GDAL's shapefile detection logic (it's not exposed in GDAL API, so I had to re-implement it here) so that we default to reading shapefiles by respecting the embedded encoding information (via CPG files or DBF LDID information)
+- Completely remove the confusing/broken "Ignore shapefile encoding declaration" option, as it's no longer required -- users are ALWAYS able to manually change the encoding of shapefiles layers if needed
+- Always show users the detected embedded encoding in the layer properties, instead of always showing "UTF-8" when the embedded encoding information is used
 
 This should give the best of both worlds -- a nice default behavior resulting in shapefiles being read with the correct encoding, whilst still allowing users to override this on a layer-by-layer basis as needed.
 
@@ -1026,12 +1025,13 @@ This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalld
 Feature: Oracle curve type edition support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| In earlier versions of QGIS, it was not possible to edit some geometry types coming from an Oracle database. We have then added edition support for the following geometry types:
-| - CircularString(Z)
-| - CompoundCurve(Z)
-| - MultiCurve(Z)
-| - CurvePolygon(Z)
-| - MultiSurface(Z)
+In earlier versions of QGIS, it was not possible to edit some geometry types coming from an Oracle database. We have then added edition support for the following geometry types:
+
+- CircularString(Z)
+- CompoundCurve(Z)
+- MultiCurve(Z)
+- CurvePolygon(Z)
+- MultiSurface(Z)
 
 This feature was funded by Lille Metropole
 
@@ -1041,13 +1041,13 @@ Feature: MBTiles raster support in WMS provider
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This feature adds MBTiles tiled raster map support to WMS provider so that it uses the same code paths like WMTS or XYZ tiles.
+Here are the advantages of the approach through WMS provider:
 
-| Why move away from GDAL implementation? Here are the advantages of the approach through WMS provider:
-| - correctly scaling tiles on high dpi display
-| - better look when not zoomed to the native resolution of the tiles. WMS provider uses smooth scaling while GDAL uses nearest neighbor by default.
-| - map tile showing up while rendering (with GDAL it's blank map until everything is loaded)
-| - possible to use tile scale slider dock widget
-| - faster - mainly a side effect of loading fewer tiles on high dpi display
+- correctly scaling tiles on high dpi display
+- better look when not zoomed to the native resolution of the tiles. WMS provider uses smooth scaling while GDAL uses nearest neighbor by default.
+- map tile showing up while rendering (with GDAL it's blank map until everything is loaded)
+- possible to use tile scale slider dock widget
+- faster - mainly a side effect of loading fewer tiles on high dpi display
 
 This feature was developed by `Martin Dobias <https://api.github.com/users/wonder-sk>`__
 
@@ -1110,31 +1110,31 @@ It can be useful when developing and testing QGIS Server projects, modules, and 
 
 |qgismapserver|
 
-The application is completely independent it does not introduce any change in the existing QGIS code, for this reason, I'd like to merge it for 3.12 even if we are in feature freeze.
+.. code-block:: bash
 
-| \`\`\`bash
-| Usage: qgis\_mapserver [options] [address:port]
-| QGIS Development Server
+ Usage: qgis\_mapserver [options] [address:port]
+ QGIS Development Server
 
-| Options:
-| -h, --help Displays this help.
-| -v, --version Displays version information.
-| -l Sets log level (default: 0)
-| 0: INFO
-| 1: WARNING
-| 2: CRITICAL
-| -p Path to a QGIS project file (*.qgs or* .qgz),
-| if specified it will override the query string MAP argument
-| and the QGIS\_PROJECT\_FILE environment variable
+ Options:
+ -h, --help Displays this help.
+ -v, --version Displays version information.
+ -l Sets log level (default: 0)
+ 0: INFO
+ 1: WARNING
+ 2: CRITICAL
+ -p Path to a QGIS project file (*.qgs or* .qgz),
+ if specified it will override the query string MAP argument
+ and the QGIS\_PROJECT\_FILE environment variable
 
-| Arguments:
-| addressAndPort Listen to address and port (default: "localhost:8000")
-| address and port can also be specified with the environment
-| variables QGIS\_SERVER\_ADDRESS and QGIS\_SERVER\_PORT
-| \`\`\`
+ Arguments:
+ addressAndPort Listen to address and port (default: "localhost:8000")
+ address and port can also be specified with the environment
+ variables QGIS\_SERVER\_ADDRESS and QGIS\_SERVER\_PORT
 
-| Sample output:
-| ``bash QGIS Development Server listening on http://localhost:8000 CTRL+C to exit 127.0.0.1 [lun gen 20 15:16:41 2020] 5140 103ms "GET /wfs3/?MAP=/home/ale/dev/QGIS/tests/testdata/qgis_server/test_project.qgs HTTP/1.1" 200 127.0.0.1 [lun gen 20 15:16:41 2020] 3298 2ms "GET /wfs3/static/jsonFormatter.min.js HTTP/1.1" 200 127.0.0.1 [lun gen 20 15:16:41 2020] 1678 3ms "GET /wfs3/static/jsonFormatter.min.css HTTP/1.1" 200 127.0.0.1 [lun gen 20 15:16:41 2020] 1310 5ms "GET /wfs3/static/style.css HTTP/1.1" 200 127.0.0.1 [lun gen 20 15:16:43 2020] 4285 13ms "GET /wfs3/collections?MAP=/home/ale/dev/QGIS/tests/testdata/qgis_server/test_project.qgs HTTP/1.1" 200``
+
+Sample output:
+
+``bash QGIS Development Server listening on http://localhost:8000 CTRL+C to exit 127.0.0.1 [lun gen 20 15:16:41 2020] 5140 103ms "GET /wfs3/?MAP=/home/ale/dev/QGIS/tests/testdata/qgis_server/test_project.qgs HTTP/1.1" 200 127.0.0.1 [lun gen 20 15:16:41 2020] 3298 2ms "GET /wfs3/static/jsonFormatter.min.js HTTP/1.1" 200 127.0.0.1 [lun gen 20 15:16:41 2020] 1678 3ms "GET /wfs3/static/jsonFormatter.min.css HTTP/1.1" 200 127.0.0.1 [lun gen 20 15:16:41 2020] 1310 5ms "GET /wfs3/static/style.css HTTP/1.1" 200 127.0.0.1 [lun gen 20 15:16:43 2020] 4285 13ms "GET /wfs3/collections?MAP=/home/ale/dev/QGIS/tests/testdata/qgis_server/test_project.qgs HTTP/1.1" 200``
 
 This feature was developed by `Alessandro Pasotti <https://api.github.com/users/elpaso>`__
 
@@ -1166,8 +1166,8 @@ Programmability
 Feature: Exposes shape digitizing methods to QgisInterface
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| The actions to trigger the drawing tools were not exposed in the API, if you wanted to do an action for one of these tools, you had to recreate classes. So a call of the type
-| ``qgis.utils.iface.actionCircleCenterPoint().trigger()`` simplifies programmability.
+The actions to trigger the drawing tools were not exposed in the API, if you wanted to do an action for one of these tools, you had to recreate classes. So a call of the type
+``qgis.utils.iface.actionCircleCenterPoint().trigger()`` simplifies programmability.
 
 This feature was funded by QWAT/QGEP group
 
