@@ -883,7 +883,7 @@
      - Carl Ramsey
      - Carl-christian Volquardsen
    * - Carl-Johan Jansson
-     - Carl-philipp Bodenstein
+     - Carl-Philipp Bodenstein
      - Carla Sofia Pires Cardoso
    * - Carlin S Andrus
      - Carlo Alberto Nicolini
