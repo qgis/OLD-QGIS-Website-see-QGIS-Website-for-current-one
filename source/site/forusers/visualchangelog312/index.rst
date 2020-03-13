@@ -236,7 +236,7 @@ Labelling
 Feature: Allow to delete custom label position
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We added new possibility to delete custom label position by pressing DEL key when moving the label.
+We added a new possibility option to delete custom label position by pressing DEL key when moving the label.
 
 |image18|
 
@@ -319,10 +319,10 @@ This feature was developed by `Peter Petrik (Lutra Consulting) <http://www.lutra
 Feature: Support for Mesh Reference Time
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-For various dataset type, for example GRIB and NetCDF, the reference time in QGIS time settings dialog is prepopulated from the raw data and does not need to be set manually. Also we fixed various bugs related to time parsing, so in QGIS 3.12 it should be possible to format and show your time in plots/animations in proper way:
+For various dataset types, for example GRIB and NetCDF, the reference time in QGIS time settings dialog is prepopulated from the raw data and does not need to be set manually. Also we fixed various bugs related to time parsing, so in QGIS 3.12 it should be possible to format and show your time in plots/animations in the proper way:
 
 * If there is a valid time reference provided with dataset groups, this time reference is used to displaying time (using absolute time).
-* If there is no reference time provided, the time is displayed using relative time, and a time reference can be set by the user to display absolute time.
+* If there is no reference time provided, the time is displayed using relative time, and a time reference can be set by the user to display the absolute time.
 * When no time reference is provided, the default one is the current date + time set with 00:00:00.
 
 A push-button is added to reload the reference time provided with dataset groups if needed.
@@ -379,11 +379,11 @@ The basic vector layer renderer and rule-based renderer were converted to use Qg
 - loading process is multi-threaded instead of using just a single core
 - loading is done in tiles - so it is possible to see the tiles with 3D data appearing while other data are still being loaded
 
-There is a new configuration option in 3D tab of vector layers - it determines how deep will be the quadtree. For example, one zoom level means there will be a single tile for the whole layer. Three zoom levels means there will be 16 tiles at the leaf level (every extra zoom level multiplies that by 4, so I have limited GUI to max. 8 levels which gives ~16K tiles which is already a lot).
+There is a new configuration option in the 3D tab of vector layers - it determines how deep the quadtree will be. For example, one zoom level means there will be a single tile for the whole layer. Three zoom levels means there will be 16 tiles at the leaf level (every extra zoom level multiplies that by 4, so I have limited GUI to max. 8 levels which gives ~16K tiles which is already a lot).
 
-How a vector layer's tiling quadtree gets populated: all internal tree nodes are empty and thus the 3D map scene tries to immediately replace them with their children - this goes until leaf nodes are reached. Only nodes at the leaf level currently hold any data. This may change in the feature when we introduce more elaborate strategies - for example, internal nodes may contain a small percentage of features of the child nodes (this would allow us to show something while zoomed out a lot, not requiring to load all data).
+How a vector layer's tiling quadtree gets populated: all internal tree nodes are empty and thus the 3D map scene tries to immediately replace them with their children - this goes until leaf nodes are reached. Only nodes at the leaf level currently hold any data. This may change in the future when we introduce more elaborate strategies - for example, internal nodes may contain a small percentage of features of the child nodes (this would allow us to show something while zoomed out a lot, not requiring to load all data).
 
-For debugging purposes, there is also a new configuration option "show bounding boxes". This allows you to see bounding box of each tile (especially useful if there are some issues with tiles not showing up when they should).
+For debugging purposes, there is also a new configuration option "show bounding boxes". This allows you to see the bounding box of each tile (especially useful if there are some issues with tiles not showing up when they should).
 
 This feature was funded by QGIS.org grant.
 
@@ -404,8 +404,8 @@ This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/
 Feature: New layout item type: manually created fixed tables
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| This new item type allows for the creation of tables with contents manually entered by users (i.e. spreadsheet-style) so that users can create completely custom tables.
-| Supports control custom cell contents, foreground and background colors (and soon, preset row and column heights). A brand new table designer dialog has been added which allows for customization of these tables.
+This new item type allows for the creation of tables with contents manually entered by users (i.e. spreadsheet-style) so that users can create completely custom tables.
+Supports control custom cell contents, foreground and background colors (and soon, preset row and column heights). A brand new table designer dialog has been added which allows for customization of these tables.
 
 |image29|
 
