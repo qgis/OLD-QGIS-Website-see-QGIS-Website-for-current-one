@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
+"POT-Creation-Date: 2020-03-13 10:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -122,52 +122,73 @@ msgid ""
 " the plugin to see it and show its dialog."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/development.rst:76
+#: ../../source/site/getinvolved/development/development.rst:75
 msgid "Developing Python plugin"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/development.rst:79
-msgid "QGIS has a lot to offer for python developers too."
+#: ../../source/site/getinvolved/development/development.rst:77
+msgid "QGIS has a lot to offer to python developers too."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/development.rst:81
-msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
+#: ../../source/site/getinvolved/development/development.rst:79
+msgid ""
+"QGIS has python bindings so you can automate tasks in QGIS via python. We"
+" provide a documentation for QGIS API at https://qgis.org/pyqgis/"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/development.rst:83
 msgid ""
-"Interested in python plugin development, easiest way to start is using "
-"the Plugin Builder plugin in QGIS. Search for ``Plugin Builder`` in the "
-"plugin manager of QGIS, or read up here: "
-"https://plugins.qgis.org/plugins/pluginbuilder/"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/development.rst:88
-msgid ""
 "You can also have a look into the **Python Cookbook** in our "
-"Documentation site: https://docs.qgis.org."
+"Documentation site: https://docs.qgis.org/"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/development.rst:91
-msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
+#: ../../source/site/getinvolved/development/development.rst:86
+msgid ""
+"Particularly interested in python plugin development, you can find some "
+"instructions at "
+"https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/plugins/index.html"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/development.rst:93
-msgid "You can find the QGIS-iface which you can use via python here:"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/development.rst:95
-msgid "https://qgis.org/api/classQgisInterface.html (for QGIS testing)"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/development.rst:97
-msgid "https://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/development.rst:99
-msgid "https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
+#: ../../source/site/getinvolved/development/development.rst:89
+msgid "Looking for examples of python plugins, see https://plugins.qgis.org"
 msgstr ""
 
 #~ msgid "Go to the QGIS repository in Github at https://github.com/qgis/QGIS/"
+#~ msgstr ""
+
+#~ msgid "QGIS has a lot to offer for python developers too."
+#~ msgstr ""
+
+#~ msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Interested in python plugin development, "
+#~ "easiest way to start is using the"
+#~ " Plugin Builder plugin in QGIS. "
+#~ "Search for ``Plugin Builder`` in the "
+#~ "plugin manager of QGIS, or read up"
+#~ " here: https://plugins.qgis.org/plugins/pluginbuilder/"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can also have a look into "
+#~ "the **Python Cookbook** in our "
+#~ "Documentation site: https://docs.qgis.org."
+#~ msgstr ""
+
+#~ msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
+#~ msgstr ""
+
+#~ msgid "You can find the QGIS-iface which you can use via python here:"
+#~ msgstr ""
+
+#~ msgid "https://qgis.org/api/classQgisInterface.html (for QGIS testing)"
+#~ msgstr ""
+
+#~ msgid "https://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
+#~ msgstr ""
+
+#~ msgid "https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
 #~ msgstr ""
 

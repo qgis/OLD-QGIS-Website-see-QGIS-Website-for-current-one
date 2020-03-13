@@ -211,6 +211,18 @@ source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/annual_general_mee
 source_lang = en
 type = PO
 
+[qgis-website.site_getinvolved_governance_resolutions_2020-resolutions]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/resolutions/2020_resolutions.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/resolutions/2020_resolutions.po
+source_lang = en
+type = PO
+
+[qgis-website.site_getinvolved_governance_resolutions_2019-resolutions]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/resolutions/2019_resolutions.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/resolutions/2019_resolutions.po
+source_lang = en
+type = PO
+
 [qgis-website.site_getinvolved_governance_annual-reports_index]
 file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/annual_reports/index.po
 source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/annual_reports/index.po
@@ -808,6 +820,12 @@ type = PO
 [qgis-website.site_forusers_visualchangelog212_index]
 file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/visualchangelog212/index.po
 source_file = i18n/en/LC_MESSAGES/site/forusers/visualchangelog212/index.po
+source_lang = en
+type = PO
+
+[qgis-website.site_forusers_visualchangelog312_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/visualchangelog312/index.po
+source_file = i18n/en/LC_MESSAGES/site/forusers/visualchangelog312/index.po
 source_lang = en
 type = PO
 
