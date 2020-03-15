@@ -79,7 +79,7 @@ We added the total pan distance and bearing in the status bar during canvas pan 
 
 |image5|
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 Feature: New option to set the default project file format (qgs/qgz)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -216,7 +216,7 @@ Options include:
 
 This feature was funded by `SLYR <https://north-road.com/slyr/>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 Feature: Add option to set color for rendering nodata pixels in raster layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -228,7 +228,7 @@ Designed to match the "Display background value" option from ArcMap.
 
 This feature was funded by `SLYR <https://north-road.com/slyr/>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 Labelling
 ---------
@@ -254,7 +254,7 @@ this new feature allows for diagrams to use paint effects, including drop shadow
 
 This feature was funded by `SLYR <https://north-road.com/slyr/>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 Feature: New diagram type "stacked bars"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -265,7 +265,7 @@ With this new feature users will have possibility to create stacks bars of varyi
 
 This feature was funded by `SLYR <https://north-road.com/slyr/>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 Feature: Spacing option for vector layer bar chart diagrams
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -276,7 +276,7 @@ Allows for user-controlled spacing between each bar in the chart.
 
 This feature was funded by `SLYR <https://north-road.com/slyr/>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 Feature: New option to control pie diagram angular direction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -287,7 +287,7 @@ This feature allows to control whether the sections are rendered in a clockwise 
 
 This feature was funded by `SLYR <https://north-road.com/slyr/>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 Rendering
 ---------
@@ -399,7 +399,7 @@ This new feature allows user e.g. drag an svg from a file explorer onto the layo
 
 |image28|
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 Feature: New layout item type: manually created fixed tables
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -545,7 +545,7 @@ geometries)
 
 This feature was funded by `SLYR <https://north-road.com/slyr/>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 Feature: is\_valid expression
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -670,7 +670,7 @@ This feature was funded by `QWAT user group <http://qwat.org/about/>`__
 
 This feature was developed by `Julien Cabieces (Oslandia) <https://oslandia.com/en/>`__
 
-Feature: UX improvments in drag'n'drop form designer
+Feature: UX improvements in drag'n'drop form designer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The drag'n'drop form designer has received some nice UX improvements
@@ -744,7 +744,7 @@ All you need to do to make use of this is disable the OVERWRITE parameter and sp
 
 |image46|
 
-This feature was funded by `BikePlan <http://www.bikeplan.ch/>`__
+This feature was funded by `BikePlan <https://www.bikeplan.ch/>`__
 
 This feature was developed by `Matthias Kuhn (OPENGIS.ch) <https://www.opengis.ch>`__
 
@@ -836,7 +836,7 @@ We added a new algorithm which uses GDAL to repair shapefiles which have a broke
 
 |image56|
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 Feature: Add new algorithm "Detect Dataset Changes"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -915,7 +915,7 @@ This feature allows .htm(l) files to be shown and opened from the browser panel.
 
 |image61|
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com/>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 Feature: Show "Open Document..." action in browser
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -928,7 +928,7 @@ Works with PDF, ODS, XLS(X), CSV, TXT, PNG, JPEG, TIFF, SVG (other types will li
 
 |image62|
 
-This feature was developed by `Nyall Dawson (North Road) <https://www.opengis.ch>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
 
 Feature: Allow customization of the items shown in browser
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
