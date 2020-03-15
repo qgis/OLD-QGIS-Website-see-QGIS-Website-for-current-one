@@ -635,7 +635,7 @@ We did a revamp of the DXF export process. This solidifies the export process an
 
 -  Styles of geometries are exported and blocks are used
 -  The Z coordinate of 3D geometries are preserved
--  Labels are exported with their anchor points and horizonal and vertical alignment or quadrant settings respected
+-  Labels are exported with their anchor points and horizontal and vertical alignment or quadrant settings respected
 
 The whole DXF export process has also been made ready for running in a thread.
 With this in place, it's now only one step away from being sent to the background, allow cancellation of an ongoing export process or being exposed as a processing algorithm.
