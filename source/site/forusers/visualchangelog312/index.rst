@@ -671,7 +671,7 @@ This feature was funded by `QWAT user group <http://qwat.org/about/>`__
 This feature was developed by `Julien Cabieces (Oslandia) <https://oslandia.com/en/>`__
 
 Feature: UX improvements in drag'n'drop form designer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The drag'n'drop form designer has received some nice UX improvements
 
