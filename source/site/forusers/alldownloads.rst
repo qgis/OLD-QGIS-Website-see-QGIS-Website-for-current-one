@@ -551,7 +551,7 @@ Flathub files: https://github.com/flathub/org.qgis.qgis
 Android
 =======
 
-There is an experimental version available on google play store.
+An old and deprecated not touch optimised release of QGIS for Android can be found on the google play store.
 
 https://play.google.com/store/apps/details?id=org.qgis.qgis
 
