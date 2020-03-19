@@ -19,3 +19,20 @@ Abstain: Jürgen
 **Notes**: none
 
 
+PyQgis Cookbook revision
+------------------------
+
+**Date of voting**: 2020-03-18
+
+**Proponent**: Alessandro Pasotti
+
+**Rationale**: The proposal is to make a revision of the current cookbook text and code snippets in order to:
+- update the text and the code snippets
+- put ALL code snippets under the existing automated Python test CI infrastructure.
+See thread at: https://lists.osgeo.org/pipermail/qgis-psc/2020-March/008282.html
+
+**Votes**: In favour: Paolo, Marco, Anita, Tim, Andreas, Jürgen
+
+**Decision**: Approved
+
+**Notes**: none
