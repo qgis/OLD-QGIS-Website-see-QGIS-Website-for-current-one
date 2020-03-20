@@ -31,6 +31,8 @@ PyQgis Cookbook revision
 - put ALL code snippets under the existing automated Python test CI infrastructure.
 See thread at: https://lists.osgeo.org/pipermail/qgis-psc/2020-March/008282.html
 
+**Budget**: 4000 €
+
 **Votes**: In favour: Paolo, Marco, Anita, Tim, Andreas, Jürgen
 
 **Decision**: Approved
