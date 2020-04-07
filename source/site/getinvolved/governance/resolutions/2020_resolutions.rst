@@ -39,11 +39,6 @@ See thread at: https://lists.osgeo.org/pipermail/qgis-psc/2020-March/008282.html
 
 **Notes**: none
 
-
-
-
-
-
 Keep QGIS apps list in historical order
 ---------------------------------------
 
@@ -89,3 +84,17 @@ Temporarily remove the links to iOS app store until a decision is reached
 - +1 Andreas
 - +1 Marco
 - +0 Anita
+
+Use of proprietary software
+---------------------------
+**Date of voting**: 2020-04-07
+
+**Proponent**: Paolo Cavallini
+
+**Rationale**: free software should be the first choice for all the tools we use. We should choose proprietary alternatives only when it is proven that free software fails to provide a reasonable solution. The PSC should vote in case a proprietary solution is suggested.
+
+- +1 Jürgen
+- +1 Paolo
+- +1 Andreas
+- +1 Marco
+- +1 Anita
