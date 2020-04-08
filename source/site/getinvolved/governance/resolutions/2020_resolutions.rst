@@ -91,7 +91,7 @@ Use of proprietary software
 
 **Proponent**: Paolo Cavallini
 
-**Rationale**: free software should be the first choice for all the tools we use. We should choose proprietary alternatives only when it is proven that free software fails to provide a reasonable solution. The PSC should vote in case a proprietary solution is suggested.
+**Rationale**: Using proprietary software raises a number of issues, including security, privacy, long term data availablity, and more. Even more importantly, it is incoherent with our goal of creating good free software. Free software should be the first choice for all the tools we use. We should choose proprietary alternatives only when it is proven that free software fails to provide a reasonable solution. The PSC should vote in case a proprietary solution is suggested.
 
 - +1 Jürgen
 - +1 Paolo
