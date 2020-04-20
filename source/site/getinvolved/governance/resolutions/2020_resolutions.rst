@@ -107,8 +107,8 @@ New refined grant process
 
 **Rationale**: The grant process has been enhanded as discussed in https://github.com/qgis/PSC/issues/31
 
-+1 Anita
-+1 Tim
-+1 Andreas
-+1 Marco
-+1 Jürgen
+- +1 Anita
+- +1 Tim
+- +1 Andreas
+- +1 Marco
+- +1 Jürgen
