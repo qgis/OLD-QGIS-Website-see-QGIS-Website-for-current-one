@@ -98,3 +98,17 @@ Use of proprietary software
 - +1 Andreas
 - +1 Marco
 - +1 Anita
+
+New refined grant process
+---------------------------
+**Date of voting**: 2020-04-15
+
+**Proposal**: Anita Graser https://lists.osgeo.org/pipermail/qgis-psc/2020-April/008639.html
+
+**Rationale**: The grant process has been enhanded as discussed in https://github.com/qgis/PSC/issues/31
+
++1 Anita
++1 Tim
++1 Andreas
++1 Marco
++1 Jürgen
