@@ -105,7 +105,7 @@ New refined grant process
 
 **Proposal**: Anita Graser https://lists.osgeo.org/pipermail/qgis-psc/2020-April/008639.html
 
-**Rationale**: The grant process has been enhanded as discussed in https://github.com/qgis/PSC/issues/31
+**Rationale**: The grant process has been enhanced as discussed in https://github.com/qgis/PSC/issues/31
 
 - +1 Anita
 - +1 Tim
