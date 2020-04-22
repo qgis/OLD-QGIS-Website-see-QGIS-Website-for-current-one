@@ -4,7 +4,7 @@ from datetime import date
 version = '3.12'
 release = '3.12.2'
 codename = u'București'
-binary = '1'
+binary = '2'
 releasedate = date(2020, 4, 17)
 releasenote = u'\u200B'
 
