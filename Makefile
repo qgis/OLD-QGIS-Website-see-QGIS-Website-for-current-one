@@ -18,11 +18,6 @@ PYTHON	      = python3
 # needed for python2 -> python3 migration?
 export LC_ALL=C.UTF-8
 
-# User-friendly check for sphinx-build
-ifeq ($(shell which $(SPHINXBUILD) >/dev/null 2>&1; echo $$?), 1)
-$(error The '$(SPHINXBUILD)' command was not found. Make sure you have Sphinx installed, then set the SPHINXBUILD environment variable to point to the full path of the '$(SPHINXBUILD)' executable. Alternatively you can add the directory with the executable to your PATH. If you don't have Sphinx installed, grab it from http://sphinx-doc.org/)
-endif
-
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
 PAPEROPT_letter = -D latex_paper_size=letter
@@ -319,15 +314,15 @@ pseudoxml:
 	@echo
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
 
-source/site/getinvolved/development/schedule.inc source/schedule.py:
+source/site/getinvolved/development/schedule.inc source/schedule.py output/html/schedule.ics:
 	$(PYTHON) scripts/update-schedule.py
 
 clearschedule: venvupdate
 	$(RM) source/site/getinvolved/development/schedule.inc source/schedule.py
 
-schedule: clearschedule source/schedule.py
+schedule: clearschedule source/schedule.py output/html/schedule.ics
 	git pull --autostash --rebase
 	git commit -a -m "Update for $(shell sed -ne "s/^release = '\\(.*\\)'/\1/p" source/schedule.py)/$(shell sed -ne "s/^ltrrelease = '\\(.*\\)'/\\1/p" source/schedule.py) point releases"
 
 venvupdate:
-	[ -d sphinx ] || python -m virtualenv sphinx; . sphinx/bin/activate; pip install -U -r REQUIREMENTS.txt
+	[ -d sphinx ] || $(PYTHON) -m virtualenv sphinx; . sphinx/bin/activate; pip install -U -r REQUIREMENTS.txt

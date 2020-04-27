@@ -96,6 +96,7 @@ repositories.  This happens as soon as a new LR is released.
 The 2.18 release will replace the 2.14 release as LTR, but not replace 2.14 in
 the LTR package repositories before 3.0 is released.
 
+This schedule is also available as `"iCalendar" </schedule.ics>`_.
 
 Schedule:
 

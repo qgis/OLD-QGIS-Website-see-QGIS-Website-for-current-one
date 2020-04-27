@@ -5,6 +5,7 @@ from urllib.request import urlopen
 import csv
 import codecs
 from datetime import datetime, timedelta
+from icalendar import Calendar, Event
 
 url = "https://docs.google.com/spreadsheets/u/1/d/1MOIjwon5eDI04DG6rX_HwucZkW1fxFJ0b_yB0xYETOE/export?format=csv&id=1MOIjwon5eDI04DG6rX_HwucZkW1fxFJ0b_yB0xYETOE&gid=1982100417#"
 
@@ -18,6 +19,9 @@ Event      Latest  Long-Term  Freeze   Date      Week Weeks
                    Repo                          #
 ========== ======= ========= ======== ========== ==== =====
 """)
+
+cal = Calendar()
+cal['summary'] = 'QGIS Release Schedule'
 
 resource = urlopen(url)
 reader = csv.reader(codecs.iterdecode(resource, 'utf-8'), delimiter=',', quotechar='"')
@@ -38,7 +42,51 @@ for row in reader:
 
     event, _, _, _,  _, _, _,  _, _, date, weekno, weeks, lr, ltr, dev, ff, _, _ = row
 
-    dt = datetime.strptime(date,'%Y-%m-%d')
+    dt = datetime.strptime(date, '%Y-%m-%d') + timedelta(hours=12)
+
+    if 'FF' in event:
+        e = Event()
+        e.add('summary', 'QGIS Feature Freeze {}'.format(dev))
+        e.add('dtstart', dt)
+        e.add('dtend', dt)
+        cal.add_component(e)
+
+    if 'SF' in event:
+        e = Event()
+        e.add('summary', 'QGIS Soft Freeze', dev)
+        e.add('dtstart', dt)
+        e.add('dtend', dt)
+        cal.add_component(e)
+
+    if 'PR' in event:
+        label = 'Extra point release' if 'EPR' in event else 'Point release'
+        if ltr and 'LTR' not in event:
+            e = Event()
+            e.add('summary', 'QGIS {} {}'.format(label, ltr))
+            e.add('dtstart', dt)
+            e.add('dtend', dt)
+            cal.add_component(e)
+
+        if lr and 'LR' not in event:
+            e = Event()
+            e.add('summary', 'QGIS {} {}'.format(label, lr))
+            e.add('dtstart', dt)
+            e.add('dtend', dt)
+            cal.add_component(e)
+
+    if 'LTR' in event and ltr:
+        e = Event()
+        e.add('summary', 'QGIS Long-term release {}'.format(ltr))
+        e.add('dtstart', dt)
+        e.add('dtend', dt)
+        cal.add_component(e)
+
+    if 'LR' in event and ltr:
+        e = Event()
+        e.add('summary', 'QGIS Regular release {}'.format(lr))
+        e.add('dtstart', dt)
+        e.add('dtend', dt)
+        cal.add_component(e)
 
     if ("FF" in event or "SF" in event) and nr_date is None:
        f_date = dt
@@ -133,10 +181,14 @@ infeaturefreeze = %(infeaturefreeze)s
     "ltr_note": ltr_note if ltr_note != '' else 'LTR',
     "devversion": devversion,
     "nextversion": nextversion,
-    "nextfreezedate": (f_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC') if f_date is not None else None,
-    "nextreleasedate": (nr_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC') if nr_date is not None else None,
-    "nextpointreleasedate": (pr_date + timedelta(hours=12)).strftime('%Y-%m-%d %H:%M:%S UTC'),
+    "nextfreezedate": f_date.strftime('%Y-%m-%d %H:%M:%S UTC') if f_date is not None else None,
+    "nextreleasedate": nr_date.strftime('%Y-%m-%d %H:%M:%S UTC') if nr_date is not None else None,
+    "nextpointreleasedate": pr_date.strftime('%Y-%m-%d %H:%M:%S UTC'),
     "infeaturefreeze": "True" if f_date < datetime.now() else "False"
 })
 
+o.close()
+
+o = open("output/html/schedule.ics", "wb")
+o.write(cal.to_ical())
 o.close()
