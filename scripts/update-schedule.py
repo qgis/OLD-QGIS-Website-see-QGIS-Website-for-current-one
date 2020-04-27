@@ -4,7 +4,7 @@
 from urllib.request import urlopen
 import csv
 import codecs
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from icalendar import Calendar, Event
 
 url = "https://docs.google.com/spreadsheets/u/1/d/1MOIjwon5eDI04DG6rX_HwucZkW1fxFJ0b_yB0xYETOE/export?format=csv&id=1MOIjwon5eDI04DG6rX_HwucZkW1fxFJ0b_yB0xYETOE&gid=1982100417#"
@@ -21,6 +21,8 @@ Event      Latest  Long-Term  Freeze   Date      Week Weeks
 """)
 
 cal = Calendar()
+cal.add('prodid', '-//Release Schedule//qgis.org//')
+cal.add('version', '2.0')
 cal['summary'] = 'QGIS Release Schedule'
 
 resource = urlopen(url)
@@ -42,7 +44,7 @@ for row in reader:
 
     event, _, _, _,  _, _, _,  _, _, date, weekno, weeks, lr, ltr, dev, ff, _, _ = row
 
-    dt = datetime.strptime(date, '%Y-%m-%d') + timedelta(hours=12)
+    dt = datetime.strptime(date, '%Y-%m-%d').replace(tzinfo=timezone.utc) + timedelta(hours=12)
 
     if 'FF' in event:
         e = Event()
@@ -91,8 +93,7 @@ for row in reader:
     if ("FF" in event or "SF" in event) and nr_date is None:
        f_date = dt
 
-    if dt > datetime.today():
-
+    if dt > datetime.now(timezone.utc).replace(hour=12, minute=0, second=0):
         if "PR" in event and pr_date is None:
             pr_date = dt
 
@@ -184,7 +185,7 @@ infeaturefreeze = %(infeaturefreeze)s
     "nextfreezedate": f_date.strftime('%Y-%m-%d %H:%M:%S UTC') if f_date is not None else None,
     "nextreleasedate": nr_date.strftime('%Y-%m-%d %H:%M:%S UTC') if nr_date is not None else None,
     "nextpointreleasedate": pr_date.strftime('%Y-%m-%d %H:%M:%S UTC'),
-    "infeaturefreeze": "True" if f_date < datetime.now() else "False"
+    "infeaturefreeze": "True" if f_date < datetime.now(timezone.utc).replace(hour=12, minute=0, second=0) else "False"
 })
 
 o.close()
