@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from urllib.request import urlopen
+from urllib.request import urlopen, Request
 import csv
 import codecs
 from datetime import datetime, timedelta, timezone
@@ -37,12 +37,45 @@ lr_version = None
 lr_is_ltr = False
 lr_date = None
 
+now = datetime.now(timezone.utc)
+
+ocal = Calendar.from_ical(urlopen(Request("https://qgis.org/schedule.ics", headers={'User-Agent': 'QGIS Scheduler'})).read())
+
+oevents = {}
+for e in ocal.walk('VEVENT'):
+    if 'uid' in e:
+        if 'sequence' not in e:
+            e.add('sequence', 0)
+
+        oevents[e['uid']] = e
+
+
+def adduid(e, uid):
+    e.add('uid', uid)
+
+    if uid in oevents:
+        oe = oevents[uid]
+        seq = oe['sequence']
+        e.add('sequence', seq)
+        if 'last-modified' in oe:
+            e.add('last-modified', oe['last-modified'])
+
+        if oe.to_ical() != e.to_ical():
+            if 'last-modified' in e:
+                del e['last-modified']
+            e.add('last-modified', now)
+            e['sequence'] += 1
+    else:
+        e.add('last-modified', now)
+        e.add('sequence', 0)
+
+
 for row in reader:
     if first:
         first = False
         continue
 
-    event, _, _, _,  _, _, _,  _, _, date, weekno, weeks, lr, ltr, dev, ff, _, _ = row
+    event, _, _, _, _, _, _, _, _, date, weekno, weeks, lr, ltr, dev, ff, _, _ = row
 
     dt = datetime.strptime(date, '%Y-%m-%d').replace(tzinfo=timezone.utc) + timedelta(hours=12)
 
@@ -51,6 +84,7 @@ for row in reader:
         e.add('summary', 'QGIS Feature Freeze {}'.format(dev))
         e.add('dtstart', dt)
         e.add('dtend', dt)
+        adduid(e, 'ff-{}@qgis.org'.format(dev))
         cal.add_component(e)
 
     if 'SF' in event:
@@ -58,42 +92,45 @@ for row in reader:
         e.add('summary', 'QGIS Soft Freeze', dev)
         e.add('dtstart', dt)
         e.add('dtend', dt)
+        adduid(e, 'sf-{}@qgis.org'.format(dev))
         cal.add_component(e)
 
-    if 'PR' in event:
-        label = 'Extra point release' if 'EPR' in event else 'Point release'
-        if ltr and 'LTR' not in event:
-            e = Event()
-            e.add('summary', 'QGIS {} {}'.format(label, ltr))
-            e.add('dtstart', dt)
-            e.add('dtend', dt)
-            cal.add_component(e)
+    if ltr:
+        label = 'Extra point release' if event == 'EPR' else 'Point release'
+        prefix = 'epr' if event == 'EPR' else 'pr'
 
-        if lr and 'LR' not in event:
-            e = Event()
-            e.add('summary', 'QGIS {} {}'.format(label, lr))
-            e.add('dtstart', dt)
-            e.add('dtend', dt)
-            cal.add_component(e)
-
-    if 'LTR' in event and ltr:
         e = Event()
-        e.add('summary', 'QGIS Long-term release {}'.format(ltr))
+        e.add('summary', 'QGIS {} {}'.format(label, ltr))
         e.add('dtstart', dt)
         e.add('dtend', dt)
+        adduid(e, '{}-{}@qgis.org'.format(prefix, ltr))
         cal.add_component(e)
 
-    if 'LR' in event and ltr:
+    if lr:
+        if 'LTR' in event:
+            label = 'Long-term release'
+            prefix = 'ltr'
+        elif 'LR' in event:
+            label = 'Regular release'
+            prefix = 'lr'
+        elif event == 'EPR':
+            label = 'Extra point release'
+            prefix = 'epr'
+        elif 'PR' in event:
+            label = 'Point release'
+            prefix = 'pr'
+
         e = Event()
-        e.add('summary', 'QGIS Regular release {}'.format(lr))
+        e.add('summary', 'QGIS {} {}'.format(label, lr))
         e.add('dtstart', dt)
         e.add('dtend', dt)
+        adduid(e, '{}-{}@qgis.org'.format(prefix, lr))
         cal.add_component(e)
 
     if ("FF" in event or "SF" in event) and nr_date is None:
-       f_date = dt
+        f_date = dt
 
-    if dt > datetime.now(timezone.utc).replace(hour=12, minute=0, second=0):
+    if dt > now.replace(hour=12, minute=0, second=0):
         if "PR" in event and pr_date is None:
             pr_date = dt
 
@@ -173,7 +210,6 @@ infeaturefreeze = %(infeaturefreeze)s
     "releasedate": "{0}, {1}, {2}".format(lr_date.year, lr_date.month, lr_date.day),
     "lr_binary": lr_binary,
     "lr_name": lr_name,
-    "lr_note": lr_note,
     "lr_note": lr_note if lr_note != '' else '\\u200B',
     "ltrversion": ".".join(ltr_version.split(".")[:2]),
     "ltrrelease": ltr_version,
@@ -185,7 +221,7 @@ infeaturefreeze = %(infeaturefreeze)s
     "nextfreezedate": f_date.strftime('%Y-%m-%d %H:%M:%S UTC') if f_date is not None else None,
     "nextreleasedate": nr_date.strftime('%Y-%m-%d %H:%M:%S UTC') if nr_date is not None else None,
     "nextpointreleasedate": pr_date.strftime('%Y-%m-%d %H:%M:%S UTC'),
-    "infeaturefreeze": "True" if f_date < datetime.now(timezone.utc).replace(hour=12, minute=0, second=0) else "False"
+    "infeaturefreeze": "True" if f_date < now.replace(hour=12, minute=0, second=0) else "False"
 })
 
 o.close()
