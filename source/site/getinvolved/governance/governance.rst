@@ -46,8 +46,9 @@ Former PSC members
 * Otto Dassau (Community Advisor) [2007 - 2016]
 * Richard Duivenvoorde (Infrastructure Manager) [2013 - 2019]
 
-Honorary Voting members
---------------------
+Honorable members
+-----------------
+
 * Harrissou Sant-anna [since 5.2020] 
 * Nyall Dawson [since 5.2020]
 
