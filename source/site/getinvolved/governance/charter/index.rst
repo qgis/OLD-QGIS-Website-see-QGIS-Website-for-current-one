@@ -5,6 +5,11 @@ Charter of the QGIS.ORG Association
 
 (QGIS.ORG Verein)
 
+.. toctree::
+   :maxdepth: 1
+
+   old_charter
+
 1 Legal status of QGIS.ORG
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
