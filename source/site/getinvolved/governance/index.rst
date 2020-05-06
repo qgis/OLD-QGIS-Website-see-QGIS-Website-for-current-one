@@ -7,7 +7,7 @@ Project Organisation
 .. toctree::
    :maxdepth: 1
 
-   charter
+   charter/index
    governance
    trademark/index
    sustaining_members/index
