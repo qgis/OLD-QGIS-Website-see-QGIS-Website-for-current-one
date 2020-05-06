@@ -39,7 +39,7 @@ accurate can be the answer.
 
 .. note::
    In case of a broken function, you may give a look at `QGIS issue tracker
-   <https://issues.qgis.org/projects/qgis/issues>`_ before
+   <https://github.com/qgis/QGIS/issues>`_ before
    mailing to the list. More information at :ref:`QGIS-bugreporting`.
 
 
