@@ -28,7 +28,7 @@ Project Steering Committee
 * Alessandro Pasotti (Vice chair) [Vice chair since 5.2020]
 * Andreas Neumann (Treasurer; Contact for Sustaining Members) [since 11.2015]
 * Anita Graser (Design Advisor) [since 9.2013]
-* Paolo Cavallini (Manager of Plugin Repository) [Chair 4.2018 - 4.2020; Vice chair 1.2008 - 3.2018]
+* Paolo Cavallini [Chair 4.2018 - 4.2020; Vice chair 1.2008 - 3.2018]
 * Jürgen Fischer (Release Manager) [since 9.2013]
 
 Honorary PSC members
