@@ -17,24 +17,24 @@ brackets):
 Board
 -----
 
-* Marco Bernasocchi (Chair; Manager of Plugin Repository) [since 5.2020]
-* Alessandro Pasotti (Co-Chair) [since 5.2020] 
-* Andreas Neumann (Treasurer; Contact for Sponsorships) [since 11.2015]
+* Marco Bernasocchi (Chair) [since 5.2020]
+* Alessandro Pasotti (Vice chair) [since 5.2020] 
+* Andreas Neumann (Treasurer; Contact for Sustaining Members) [since 11.2015]
 
 Project Steering Committee
 --------------------------
 
-* Marco Bernasocchi (Chair) [Chair since 5.2020; Co-Chair 4.2018 - 4.2020]
-* Alessandro Pasotti (Co-Chair) [Co-Chair since 5.2020]
+* Marco Bernasocchi (Chair) [Chair since 5.2020; Vice chair 4.2018 - 4.2020]
+* Alessandro Pasotti (Vice chair) [Vice chair since 5.2020]
 * Andreas Neumann (Treasurer; Contact for Sustaining Members) [since 11.2015]
 * Anita Graser (Design Advisor) [since 9.2013]
-* Paolo Cavallini (Manager of Plugin Repository) [Chair 4.2018 - 4.2020; Co-Chair 1.2008 - 3.2018]
+* Paolo Cavallini (Manager of Plugin Repository) [Chair 4.2018 - 4.2020; Vice chair 1.2008 - 3.2018]
 * Jürgen Fischer (Release Manager) [since 9.2013]
 
 Honorary PSC members
 --------------------
 * Gary Sherman (Founder and lifetime Honorary PSC Member)
-* Tim Sutton (awarded Honorary PSC member in 9.2018 the FOSS4G in Tanzania)
+* Tim Sutton (awarded Honorary PSC member in 9.2018 at the FOSS4G in Tanzania)
 
 Read more about the responsibilities of the PSC :ref:`here <psc>`
 
@@ -46,18 +46,19 @@ Former PSC members
 * Otto Dassau (Community Advisor) [2007 - 2016]
 * Richard Duivenvoorde (Infrastructure Manager) [2013 - 2019]
 
-Honorable members
------------------
-
-* Harrissou Sant-anna [since 5.2020] 
-* Nyall Dawson [since 5.2020]
-
 Address of the Organization
 ---------------------------
 
 QGIS.ORG
 Böschacherstrasse 10a
 CH-8624 Grüt (Gossau ZH)
+
+Honorable voting members
+------------------------
+
+* Harrissou Sant-anna [since 5.2020]
+* Nyall Dawson [since 5.2020]
+
 
 .. _country-voting-members:
 
