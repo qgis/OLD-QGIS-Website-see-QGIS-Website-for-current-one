@@ -20,5 +20,6 @@ Project Organisation
    codeofconduct/codeofconduct
    codeofconduct/diversitystatement
    codeofconduct/credits
+   codeofconduct/environmentalpolicy
    developer_meetings/index
    release_checklists/index
