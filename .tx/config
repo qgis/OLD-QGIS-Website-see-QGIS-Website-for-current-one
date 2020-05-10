@@ -289,6 +289,12 @@ source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/codeofconduct/cred
 source_lang = en
 type = PO
 
+[qgis-website.site_getinvolved_governance_codeofconduct_environmentalpolicy]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/codeofconduct/environmentalpolicy.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/codeofconduct/environmentalpolicy.po
+source_lang = en
+type = PO
+
 [qgis-website.site_getinvolved_governance_codeofconduct_codeofconduct]
 file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/codeofconduct/codeofconduct.po
 source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/codeofconduct/codeofconduct.po
@@ -304,6 +310,18 @@ type = PO
 [qgis-website.site_getinvolved_governance_trademark_index]
 file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/trademark/index.po
 source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/trademark/index.po
+source_lang = en
+type = PO
+
+[qgis-website.site_getinvolved_governance_charter_old-charter]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/charter/old_charter.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/charter/old_charter.po
+source_lang = en
+type = PO
+
+[qgis-website.site_getinvolved_governance_charter_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/getinvolved/governance/charter/index.po
+source_file = i18n/en/LC_MESSAGES/site/getinvolved/governance/charter/index.po
 source_lang = en
 type = PO
 

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-13 10:56+0100\n"
+"POT-Creation-Date: 2020-05-10 10:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -910,7 +910,9 @@ msgid "Android"
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:554
-msgid "There is an experimental version available on google play store."
+msgid ""
+"An old and deprecated not touch optimised release of QGIS for Android can"
+" be found on the google play store."
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:556
@@ -1797,5 +1799,8 @@ msgstr ""
 #~ "64bit). Add the following repository to"
 #~ " your installation manager, where <VERSION>"
 #~ " is for example 'openSUSE_Tumbleweed'. ::"
+#~ msgstr ""
+
+#~ msgid "There is an experimental version available on google play store."
 #~ msgstr ""
 

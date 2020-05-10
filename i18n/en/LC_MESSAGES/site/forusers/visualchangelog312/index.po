@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-13 10:56+0100\n"
+"POT-Creation-Date: 2020-05-10 10:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -235,8 +235,9 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:548
 #: ../../source/site/forusers/visualchangelog312/index.rst:839
 #: ../../source/site/forusers/visualchangelog312/index.rst:918
+#: ../../source/site/forusers/visualchangelog312/index.rst:931
 msgid ""
-"This feature was developed by `Nyall Dawson (North Road) <http://north-"
+"This feature was developed by `Nyall Dawson (North Road) <https://north-"
 "road.com/>`__"
 msgstr ""
 
@@ -1407,7 +1408,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:638
 msgid ""
-"Labels are exported with their anchor points and horizonal and vertical "
+"Labels are exported with their anchor points and horizontal and vertical "
 "alignment or quadrant settings respected"
 msgstr ""
 
@@ -1478,7 +1479,7 @@ msgid "|image41|"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:674
-msgid "Feature: UX improvments in drag'n'drop form designer"
+msgid "Feature: UX improvements in drag'n'drop form designer"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:676
@@ -1604,7 +1605,7 @@ msgid "|image46|"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:747
-msgid "This feature was funded by `BikePlan <http://www.bikeplan.ch/>`__"
+msgid "This feature was funded by `BikePlan <https://www.bikeplan.ch/>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:752
@@ -2000,12 +2001,6 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:929
 msgid "|image62|"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog312/index.rst:931
-msgid ""
-"This feature was developed by `Nyall Dawson (North Road) "
-"<https://www.opengis.ch>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:934
@@ -4326,4 +4321,27 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1551
 msgid "This feature was developed by `Nyall Dawson <https://north-road.com/>`__"
 msgstr ""
+
+#~ msgid ""
+#~ "This feature was developed by `Nyall "
+#~ "Dawson (North Road) <http://north-"
+#~ "road.com/>`__"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Labels are exported with their anchor"
+#~ " points and horizonal and vertical "
+#~ "alignment or quadrant settings respected"
+#~ msgstr ""
+
+#~ msgid "Feature: UX improvments in drag'n'drop form designer"
+#~ msgstr ""
+
+#~ msgid "This feature was funded by `BikePlan <http://www.bikeplan.ch/>`__"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This feature was developed by `Nyall "
+#~ "Dawson (North Road) <https://www.opengis.ch>`__"
+#~ msgstr ""
 
