@@ -108,7 +108,7 @@ pulldocsources:
 	# may 21 2014: no more incorporating of docs IN the website
 	#scripts/pulldocsources.sh $(LANG)
 
-html: localizeresources output/html/version.txt output/html/version-ltr.txt output/html/schedule.ics source/site/getinvolved/development/schedule.inc source/schedule.py
+html:: localizeresources output/html/version.txt output/html/version-ltr.txt output/html/schedule.ics source/site/getinvolved/development/schedule.inc source/schedule.py
 	$(SPHINXINTL) --config $(SOURCEDIR)/conf.py build --language=$(LANG)
 
 	# ONLY in the english version run in nit-picky mode, so source errors/warnings will fail in Travis
@@ -122,7 +122,7 @@ html: localizeresources output/html/version.txt output/html/version-ltr.txt outp
 	@echo
 	@echo "Build finished. The HTML pages for '$(LANG)' are in $(BUILDDIR)."
 
-output/html/version.txt output/html/version-ltr.txt: source/conf.py source/schedule.py
+output/html/version.txt output/html/version-ltr.txt: source/conf.py source/schedule.py venvupdate
 	mkdir -p $(BUILDDIR)
 	$(PYTHON) scripts/mkversion.py
 
@@ -314,7 +314,7 @@ pseudoxml:
 	@echo
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
 
-source/site/getinvolved/development/schedule.inc source/schedule.py output/html/schedule.ics:
+source/site/getinvolved/development/schedule.inc source/schedule.py output/html/schedule.ics: venvupdate
 	$(PYTHON) scripts/update-schedule.py
 
 clearschedule: venvupdate
@@ -324,5 +324,11 @@ schedule: clearschedule source/schedule.py output/html/schedule.ics
 	git pull --autostash --rebase
 	git commit -a -m "Update for $(shell sed -ne "s/^release = '\\(.*\\)'/\1/p" source/schedule.py)/$(shell sed -ne "s/^ltrrelease = '\\(.*\\)'/\\1/p" source/schedule.py) point releases"
 
+ifneq ($(VIRTUAL_ENV),)
+html:: venvupdate
+
 venvupdate:
 	[ -d sphinx ] || $(PYTHON) -m virtualenv sphinx; . sphinx/bin/activate; pip install -U -r REQUIREMENTS.txt
+else
+venvupdate:
+endif
