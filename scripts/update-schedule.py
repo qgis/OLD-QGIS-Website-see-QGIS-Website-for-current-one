@@ -131,7 +131,7 @@ for row in reader:
     if ("FF" in event or "SF" in event) and nr_date is None:
         f_date = dt
 
-    if dt > now.replace(hour=12, minute=0, second=0):
+    if dt > now:
         if "PR" in event and pr_date is None:
             pr_date = dt
 
@@ -222,7 +222,7 @@ infeaturefreeze = %(infeaturefreeze)s
     "nextfreezedate": f_date.strftime('%Y-%m-%d %H:%M:%S UTC') if f_date is not None else None,
     "nextreleasedate": nr_date.strftime('%Y-%m-%d %H:%M:%S UTC') if nr_date is not None else None,
     "nextpointreleasedate": pr_date.strftime('%Y-%m-%d %H:%M:%S UTC'),
-    "infeaturefreeze": "True" if f_date < now.replace(hour=12, minute=0, second=0) else "False"
+    "infeaturefreeze": "True" if f_date < now else "False"
 })
 
 o.close()
