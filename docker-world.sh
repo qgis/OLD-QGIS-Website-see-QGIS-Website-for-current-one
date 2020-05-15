@@ -43,7 +43,7 @@ for l in $langs
     fi
   done
 
-time rsync -hvzc -e ssh --progress output/html/version.txt output/html/version-ltr.txt output/html/schedule.ics /var/www/qgisdata/QGIS-Website/live/html
+time rsync -hvzc -e ssh --progress output/html/version.txt output/html/version-ltr.txt source/schedule.ics /var/www/qgisdata/QGIS-Website/live/html
 
 now=`date`
 echo "Finished: $now"

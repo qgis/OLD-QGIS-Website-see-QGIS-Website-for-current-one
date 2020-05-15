@@ -3,7 +3,6 @@
 
 from urllib.request import urlopen, Request
 import csv
-import os
 import codecs
 from datetime import datetime, timedelta, timezone
 from icalendar import Calendar, Event
@@ -40,7 +39,7 @@ lr_date = None
 
 now = datetime.now(timezone.utc)
 
-ocal = Calendar.from_ical(urlopen(Request("https://qgis.org/schedule.ics", headers={'User-Agent': 'QGIS Scheduler'})).read())
+ocal = Calendar.from_ical(open("source/schedule.ics").read())
 
 oevents = {}
 for e in ocal.walk('VEVENT'):
@@ -227,8 +226,6 @@ infeaturefreeze = %(infeaturefreeze)s
 
 o.close()
 
-os.makedirs("output/html", exist_ok=True)
-
-o = open("output/html/schedule.ics", "wb")
+o = open("source/schedule.ics", "wb")
 o.write(cal.to_ical())
 o.close()

@@ -25,7 +25,7 @@ ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS)
 # the i18n builder cannot share the environment and doctrees with the others
 I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) i18n/pot
 
-.PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext schedule output/html/schedule.ics
+.PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext schedule
 
 help:
 	@echo "  "
@@ -108,7 +108,7 @@ pulldocsources:
 	# may 21 2014: no more incorporating of docs IN the website
 	#scripts/pulldocsources.sh $(LANG)
 
-html:: localizeresources output/html/version.txt output/html/version-ltr.txt output/html/schedule.ics source/site/getinvolved/development/schedule.inc source/schedule.py
+html: localizeresources output/html/version.txt output/html/version-ltr.txt source/site/getinvolved/development/schedule.inc source/schedule.py
 	$(SPHINXINTL) --config $(SOURCEDIR)/conf.py build --language=$(LANG)
 
 	# ONLY in the english version run in nit-picky mode, so source errors/warnings will fail in Travis
@@ -122,7 +122,7 @@ html:: localizeresources output/html/version.txt output/html/version-ltr.txt out
 	@echo
 	@echo "Build finished. The HTML pages for '$(LANG)' are in $(BUILDDIR)."
 
-output/html/version.txt output/html/version-ltr.txt: source/conf.py source/schedule.py venvupdate
+output/html/version.txt output/html/version-ltr.txt: source/conf.py source/schedule.py
 	mkdir -p $(BUILDDIR)
 	$(PYTHON) scripts/mkversion.py
 
@@ -314,21 +314,18 @@ pseudoxml:
 	@echo
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
 
-source/site/getinvolved/development/schedule.inc source/schedule.py output/html/schedule.ics: venvupdate
+source/site/getinvolved/development/schedule.inc source/schedule.py source/schedule.ics:
 	$(PYTHON) scripts/update-schedule.py
 
 clearschedule: venvupdate
 	$(RM) source/site/getinvolved/development/schedule.inc source/schedule.py
 
-schedule: clearschedule source/schedule.py output/html/schedule.ics
+schedule: clearschedule source/schedule.py
 	git pull --autostash --rebase
 	git commit -a -m "Update for $(shell sed -ne "s/^release = '\\(.*\\)'/\1/p" source/schedule.py)/$(shell sed -ne "s/^ltrrelease = '\\(.*\\)'/\\1/p" source/schedule.py) point releases"
 
+venvupdate:
 ifneq ($(VIRTUAL_ENV),)
-html:: venvupdate
-
-venvupdate:
 	[ -d sphinx ] || $(PYTHON) -m virtualenv sphinx; . sphinx/bin/activate; pip install -U -r REQUIREMENTS.txt
-else
-venvupdate:
 endif
+
