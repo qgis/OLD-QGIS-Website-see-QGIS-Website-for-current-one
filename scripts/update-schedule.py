@@ -14,10 +14,10 @@ o = open("source/site/getinvolved/development/schedule.inc", "w")
 o.write("""\
 .. produced from googlesheet via scripts/update-schedule.py - edits will be lost
 
-========== ======= ========= ======== ========== ==== =====
-Event      Latest  Long-Term  Freeze   Date      Week Weeks
-                   Repo                          #
-========== ======= ========= ======== ========== ==== =====
+========== ========= ========= ======== ========== ==== =====
+Event      Latest    Long-Term  Freeze   Date      Week Weeks
+                     Repo                          #
+========== ========= ========= ======== ========== ==== =====
 """)
 
 cal = Calendar()
@@ -144,10 +144,10 @@ for row in reader:
     event = event.replace('LR', '**LR**')
     event = event.replace('LTR', '**LTR**')
 
-    o.write("{0:10s} {1:7s} {2:9s} {3:8s} {4:10s} {5:5s} {6}\n".format(event, lr, ltr, dev, date, weekno, weeks))
+    o.write("{0:10s} {1:9s} {2:9s} {3:8s} {4:10s} {5:5s} {6}\n".format(event, lr, ltr, dev, date, weekno, weeks))
 
 o.write("""\
-========== ======= ========= ======== ========== ==== =====
+========== ========= ========= ======== ========== ==== =====
 """)
 
 o.close()
