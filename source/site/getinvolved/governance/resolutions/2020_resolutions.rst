@@ -103,7 +103,9 @@ New refined grant process
 ---------------------------
 **Date of voting**: 2020-04-15
 
-**Proposal**: Anita Graser https://lists.osgeo.org/pipermail/qgis-psc/2020-April/008639.html
+**Proponent**: Anita Graser 
+
+**Proposal**: https://lists.osgeo.org/pipermail/qgis-psc/2020-April/008639.html
 
 **Rationale**: The grant process has been enhanced as discussed in https://github.com/qgis/PSC/issues/31
 
@@ -113,3 +115,32 @@ New refined grant process
 - +1 Marco
 - +1 Jürgen
 - +1 Paolo
+
+Clarify the "Use of proprietary software" motion from 2020-04-07 to make the process more explicit and organised:
+-----------------------------------------------------------------------------------------------------------------
+Motion from last month: “Free software should be the first choice for all the tools we use. We should choose proprietary alternatives only when it is proven that free software fails to provide a reasonable solution. The PSC should vote in case a proprietary solution is suggested.”
+
+**Date of voting**: 2020-05-12
+
+**Proponent**: Tim Sutton
+
+**Proposal**: 
+The following steps should apply to both a) new solutions as well as b) replacement solutions:
+- Someone proposes a new or replacement platform.
+- They propose a migration strategy for existing content that needs to move to that platform  (if applicable).
+- They propose who will do the migration (if applicable).
+- They propose what, if any, funding implications there are.
+- They propose a timeline for the migration/rollout.
+- They describe how the infrastructure is managed and if it is self-hosted (e.g. do we have backups, who has admin, who fixes issues).
+- We vote on it having been given reasonable time to consider the above information and test out the alternative.
+- Assuming we vote to agree with the proposal.
+- We then start using the new platform.
+Vote:
+- +1 Tim
+- +1 Marco
+- +1 Anita
+- -1 Paolo
+- +1 Alessandro
+- Jürgen
+- +1 Andreas
+
