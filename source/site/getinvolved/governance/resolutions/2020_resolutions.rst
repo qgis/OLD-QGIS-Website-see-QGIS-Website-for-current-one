@@ -44,7 +44,7 @@ Keep QGIS apps list in historical order
 
 **Date of voting**: 2020-03-17
 
-**Proposal**: Marco Bernasocchi
+**Proponent**: Marco Bernasocchi
 
 **Rationale**: The current ordering reflects the history of the QGIS mobile apps where QGIS for android (and it's new named QField) delivered all the base work on which Input was then based (
 https://github.com/qgis/QGIS-Website/pull/725)
@@ -60,7 +60,7 @@ Remove QGIS for android Buttons
 -------------------------------
 **Date of voting**: 2020-03-17
 
-**Proposal**: Marco Bernasocchi
+**Proponent**: Marco Bernasocchi
 
 **Rationale**: `QGIS for android` is old and deprecated and now called QField
 
@@ -89,7 +89,7 @@ Use of proprietary software
 ---------------------------
 **Date of voting**: 2020-04-07
 
-**Proposal**: Paolo Cavallini
+**Proponent**: Paolo Cavallini
 
 **Rationale**: Free software should be the first choice for all the tools we use. We should choose proprietary alternatives only when it is proven that free software fails to provide a reasonable solution. The PSC should vote in case a proprietary solution is suggested.
 
