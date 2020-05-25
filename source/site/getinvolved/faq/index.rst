@@ -54,14 +54,14 @@ How to cite QGIS?
 -----------------
 
 To cite QGIS in your piece of work, or for an assignment, this general citation might be helpful:
-"QGIS Development Team (YEAR). QGIS Geographic Information System. Open Source Geospatial Foundation Project. http://qgis.osgeo.org".
+"QGIS.org (YEAR). QGIS Geographic Information System. Open Source Geospatial Foundation Project. http://qgis.org".
 
 I created a map with QGIS, do I have to mention QGIS?
 -----------------------------------------------------
 
 There is no requirement to mention QGIS for maps produced with it.
 It is of course really welcome if would like to add a note saying that the map was produced with QGIS.
-"Made with QGIS" or "Map created using the Free and Opensource QGIS" are good examples of such a note.
+"Made with QGIS" or "Map created using the Free and Open Source QGIS" are good examples of such a note.
 
 .. note::
     Do not say ©QGIS as QGIS does not hold copyrights on your work.
