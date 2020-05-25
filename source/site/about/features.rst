@@ -45,14 +45,29 @@ maps.
    A screenshot of QGIS Web Client
 
 
-QGIS on Android (beta!)
------------------------
+QGIS on mobiles and tablets
+---------------------------
 
-Work is being done to use QGIS on Android devices. Current builds are very
-experimental, and not for the faint of heart.
+The QGIS experience does not stop on the desktop.
+Various third-party touch optimized apps allow you to take QGIS into the field
 
-.. figure:: /static/site/about/images/qgisandroidscreenshot.jpg
-   :alt: QGIS Android
+`QField for QGIS (formerly QGIS for Android) <https://qfield.org>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. figure:: /static/site/about/images/qfield.jpg
+   :alt: QField
 
-   A screenshot of QGIS on Android
+   A screenshot of QField for QGIS (available for Android, Windows, iOS coming soon)
 
+`Input <https://inputapp.io>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. figure:: /static/site/about/images/input.jpg
+   :alt: Input app
+
+   A screenshot of Input (available for Android, Windows, iOS)
+
+`IntraMaps Roam <https://roam-docs.readthedocs.io>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. figure:: /static/site/about/images/roam.jpg
+   :alt: Roam
+
+   A screenshot of IntraMaps Roam (available for Windows)
