@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Philippe <philippe.boulinguiez@inrap.fr>, 2017
+# MarieSilvestre, 2020
+# Sant-anna <delazj@gmail.com>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-05 19:50+0200\n"
+"PO-Revision-Date: 2017-12-19 15:08+0000\n"
+"Last-Translator: Sant-anna <delazj@gmail.com>, 2020\n"
+"Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/getinvolved/tests.rst:4
+msgid "Tests"
+msgstr "Tests"
+
+#: ../../source/site/getinvolved/tests.rst:6
+msgid "Both QGIS and QGIS server are being tested via all kind of ways."
+msgstr "QGIS et QGIS Serveur sont testés par tout les moyens"
+
+#: ../../source/site/getinvolved/tests.rst:8
+msgid ""
+"From build tests (Travis) and code unit tests to OGC conformance testing."
+msgstr ""
+"Des tests de compilation (Travis) et des tests unitaires de conformité de "
+"code à l'OGC."
+
+#: ../../source/site/getinvolved/tests.rst:11
+msgid "Travis"
+msgstr "Travis"
+
+#: ../../source/site/getinvolved/tests.rst:17
+msgid "Docker"
+msgstr "Docker"
+
+#: ../../source/site/getinvolved/tests.rst:24
+msgid "Unit tests"
+msgstr "Tests unitaires"
+
+#: ../../source/site/getinvolved/tests.rst:26
+msgid ""
+"See `Unit testing "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/unittesting.html>`_"
+msgstr ""
+"Voir `Tests unitaires "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/unittesting.html>`_"
+
+#: ../../source/site/getinvolved/tests.rst:30
+msgid "OGC Conformance testing"
+msgstr "Tests de conformité OGC"
+
+#: ../../source/site/getinvolved/tests.rst:32
+msgid ""
+"See `OGC conformance testing "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/ogcconformancetesting.html>`_"
+" for more information and how to run these tests yourself."
+msgstr ""
+"Voir `Test de conformité OGC "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/ogcconformancetesting.html>`_"
+" pour plus d'informations et comment exécuter ces tests vous-même."
+
+#: ../../source/site/getinvolved/tests.rst:35
+msgid ""
+"Recent tests output can be found here: http://test.qgis.org/ogc_cite. For "
+"latest WMS 1.3.0 test see "
+"http://test.qgis.org/ogc_cite/wms_130/latest/report.html and for WFS 1.1.0 "
+"see http://test.qgis.org/ogc_cite/wfs_110/latest/report.html."
+msgstr ""
+"La sortie des tests récents peut être trouvée ici: "
+"http://test.qgis.org/ogc_cite. Pour la dernière version de tests WMS 1.3.0, "
+"voir http://test.qgis.org/ogc_cite/wms_130/latest/report.htmlet pour le WFS "
+"1.1.0 voir http://test.qgis.org/ogc_cite/wfs_110/latest/report.html."
+
+#~ msgid "See :ref:`qgis_unittesting`"
+#~ msgstr "Voir :ref:`qgis_unittesting`"
+
+#~ msgid ""
+#~ "See :ref:`qgis_ogc_conformance` for more information and how to run these "
+#~ "tests yourself."
+#~ msgstr ""
+#~ "Voir :ref:`qgis_ogc_conformance` pour plus d’informations et pour lancer ces"
+#~ " tests vous-même."
+
+#~ msgid ""
+#~ "Recent test output can be found here: http://test.qgis.org/ogc_cite and for "
+#~ "latests WMS 1.3.0 test see "
+#~ "http://test.qgis.org/ogc_cite/latest_wms_1_3_0.html."
+#~ msgstr ""
+#~ "Les résultats des derniers tests sont disponibles ici : "
+#~ "http://test.qgis.org/ogc_cite et pour les derniers tests WMS 1.3.0, ici : "
+#~ "http://test.qgis.org/ogc_cite/latest_wms_1_3_0.html."

@@ -1,0 +1,238 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# 
+# Translators:
+# fairtommy <fairtommy@gmail.com>, 2018
+# fairtommy <fairtommy@gmail.com>, 2017-2018
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"PO-Revision-Date: 2018-11-16 05:43+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:3
+msgid "Getting up and running with QtCreator and QGIS"
+msgstr "QtCreatorとQGISで起動および実行する"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:6
+msgid ""
+"QtCreator is a newish IDE from the makers of the Qt library. With QtCreator "
+"you can build any C++ project, but it's really optimised for people working "
+"on Qt(4) based applications (including mobile apps). Everything I describe "
+"below assumes you are running Ubuntu 11.04 'Natty'."
+msgstr "QtCreatorはQtライブラリのメーカーから新しめのIDEです。QtCreatorを使用すると、任意のC ++プロジェクトをビルドできますが、それは本当にQtの上で働いている人（モバイルアプリを含む）（4）ベースのアプリケーション向けに最適化されています。私は以下の記述すべてはUbuntuの11.04「ナッティ」を実行している前提としています。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:13
+msgid "Installing QtCreator"
+msgstr "QtCreatorをインストールします"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:16
+msgid "This part is easy:"
+msgstr "この部分は簡単です："
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:22
+msgid "After installing you should find it in your gnome menu."
+msgstr "インストールした後、あなたのGNOMEメニューでそれを見つける必要があります。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:26
+msgid "Setting up your project"
+msgstr "プロジェクトを設定する"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:28
+msgid ""
+"I'm assuming you have already got a local QGIS clone containing the source "
+"code, and have installed all needed build dependencies etc. There are "
+"detailed instructions for :ref:`git access <git_access>` and `dependency "
+"installation "
+"<https://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_."
+msgstr "ここではあなたがすでにソースコードを含むローカルQGISクローンを持っている、すべての必要なビルドの依存関係などインストールされていると仮定しています。 :ref:`gitのアクセス <git_access>` と `依存関係のインストール <https://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_ については詳細な指示があります。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:32
+msgid ""
+"On my system I have checked out the code into ``$HOME/dev/cpp/QGIS`` and the"
+" rest of the article is written assuming that, you should update these paths"
+" as appropriate for your local system."
+msgstr "私のシステムでは ``$HOME/dev/cpp/QGIS`` にコードをチェックアウトしてあり、記事の残りの部分はローカルシステムに応じてこれらのパスを更新する必要があることを仮定して書かれています。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:36
+msgid "On launching QtCreator do:"
+msgstr "QtCreatorが起動時に行うのは："
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:38
+msgid "*File* -> *Open File or Project*"
+msgstr "*ファイル* - > *ファイルまたはプロジェクトを開く*"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:40
+msgid ""
+"Then use the resulting file selection dialog to browse to and open this "
+"file:"
+msgstr "その後を参照し、このファイルを開くには、結果のファイル選択ダイアログを使用します。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:48
+msgid ""
+"Next you will be prompted for a build location. I create a specific build "
+"dir for QtCreator to work in under:"
+msgstr "次のビルドの場所を入力するように求められます。QtCreatorの下で動作するために、私は特定のビルドディレクトリを作成します。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:55
+msgid ""
+"Its probably a good idea to create separate build directories for different "
+"branches if you can afford the disk space."
+msgstr "ディスク容量に余裕があれば、異なるブランチに対して別々のビルドディレクトリを作成することはおそらく良いアイデアです。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:61
+msgid ""
+"Next you will be asked if you have any CMake build options to pass to CMake."
+" We will tell CMake that we want a debug build by adding this option:"
+msgstr "次にCMakeに渡すCMakeのビルドオプションがあるかが尋ねられます。このオプションを追加することにより、デバッグビルドをしたいということをCMakeに教えます："
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:71
+msgid ""
+"That's the basics of it. When you complete the Wizard, QtCreator will start "
+"scanning the source tree for autocompletion support and do some other "
+"housekeeping stuff in the background. We want to tweak a few things before "
+"we start to build though."
+msgstr "それはそれの基本です。ウィザードを完了すると、QtCreatorは自動補完をサポートするためのソースツリーのスキャンを開始し、バックグラウンドで他のいくつかのハウスキーピングのものを行います。とはいえ私たちは構築するために開始する前に、いくつかのことを微調整したいです。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:78
+msgid "Setting up your build environment"
+msgstr "ビルド環境を設定します"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:80
+msgid "Click on the 'Projects' icon on the left of the QtCreator window."
+msgstr "QtCreatorウィンドウの左側の「プロジェクト」アイコンをクリックします。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:84
+msgid "Select the build settings tab (normally active by default)."
+msgstr "（デフォルトでは通常、アクティブ）ビルド設定]タブを選択します。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:88
+msgid ""
+"We now want to add a custom process step. Why? Because QGIS can currently "
+"only run from an install directory, not its build directory, so we need to "
+"ensure that it is installed whenever we build it. Under 'Build Steps', click"
+" on the 'Add BuildStep' combo button and choose 'Custom Process Step'."
+msgstr "私たちは、今、カスタム・プロセスのステップを追加したいです。どうして？QGISは現在、インストールディレクトリではなく、そのビルドディレクトリから実行できますので、私たちは、それを構築するたびに、それがインストールされていることを確認する必要があるため。「ビルド・ステップ」の下で、コンボ「BuildStep追加」をボタンをクリックして、「カスタム・プロセス・ステップ」を選択します。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:95
+msgid "Now we set the following details:"
+msgstr "今、私たちは次の詳細を設定します。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:97
+msgid "Enable custom process step: [yes]"
+msgstr "カスタムprocess ステップを有効化： [yes]"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:99
+msgid "Command: make"
+msgstr "コマンド: make"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:101
+msgid "Working directory: $HOME/dev/cpp/QGIS/build-master-qtcreator"
+msgstr "作業ディレクトリ： $HOME/dev/cpp/QGIS/build-master-qtcreator"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:103
+msgid "Command arguments: install"
+msgstr "コマンド引数：インストール"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:107
+msgid ""
+"You are almost ready to build. Just one note: QtCreator will need write "
+"permissions on the install prefix. By default (which I am using here) QGIS "
+"is going to get installed to ``/usr/local/``. For my purposes on my "
+"development machine, I just gave myself write permissions to the /usr/local "
+"directory."
+msgstr "ほぼビルドする準備が整いました。１つだけ注意：QtCreatorはインストールプレフィックス上の書き込み権限が必要になります。（私はここでは使用しています）デフォルトではQGISは ``/usr/local/`` にインストール取得する予定です。私の開発マシン上で私の目的のために、私は自分自身に /usr/local ディレクトリへの書き込み権限を与えました。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:112
+msgid ""
+"To start the build, click that big hammer icon on the bottom left of the "
+"window."
+msgstr "ビルドを開始するには、ウィンドウの左下にその大きなハンマーのアイコンをクリックしてください。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:119
+msgid "Setting your run environment"
+msgstr "実行環境の設定"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:121
+msgid ""
+"As mentioned above, we cannot run QGIS from directly in the build directly, "
+"so we need to create a custom run target to tell QtCreator to run QGIS from "
+"the install dir (in my case ``/usr/local/``). To do that, return to the "
+"projects configuration screen."
+msgstr "前述したように、私たちはビルドディレクトリ中のディレクトリからQGISを実行することはできませんので、私たちは（私の場合、 ``/usr/local/`` で）インストールディレクトリからQGISを実行するためにQtCreatorを伝えるために、カスタムの実行ターゲットを作成する必要があります。これを行うには、プロジェクトの設定画面に戻ります。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:128
+msgid "Now select the 'Run Settings' tab"
+msgstr "ここで「実行設定」タブを選択します"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:132
+msgid ""
+"We need to update the default run settings from using the 'qgis' run "
+"configuration to using a custom one."
+msgstr "私たちは、カスタムのいずれかを使用する「QGIS」実行構成を使用してから、デフォルトの実行設定を更新する必要があります。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:137
+msgid ""
+"Do do that, click the 'Add v' combo button next to the Run configuration "
+"combo and choose 'Custom Executable' from the top of the list."
+msgstr "実行コンフィギュレーション・コンボの隣に「Vの追加]コンボボタンをクリックし、リストの一番上から「カスタム実行可能ファイル」を選択し、それを行うようにしてください。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:142
+msgid "Now in the properties area set the following details:"
+msgstr "今プロパティエリアで、次の詳細を設定します。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:144
+msgid "Executable: /usr/local/bin/qgis"
+msgstr "Executable: /usr/local/bin/qgis"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:146
+msgid "Arguments :"
+msgstr "引数："
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:148
+msgid "Working directory: $HOME"
+msgstr "作業ディレクトリ： $HOME"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:150
+msgid "Run in terminal: [no]"
+msgstr "ターミナルで実行します。[いいえ]"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:152
+msgid "Debugger: C++ [yes]"
+msgstr "デバッガ: C++ [yes]"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:154
+msgid "Qml [no]"
+msgstr "Qml [no]"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:156
+msgid ""
+"Then click the 'Rename' button and give your custom executable a meaningful "
+"name e.g. 'Installed QGIS'"
+msgstr "そして、「名前の変更」ボタンをクリックして、カスタムは意味のある名前などを実行可能「インストールQGIS」を与えます"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:162
+msgid "Running and debugging"
+msgstr "実行とデバッグ"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:164
+msgid ""
+"Now you are ready to run and debug QGIS. To set a break point, simply open a"
+" source file and click in the left column."
+msgstr "これでQGISを実行してデバッグする準備が整いました。ブレークポイントを設定するには、単にソースファイルを開き、左側の列をクリックします。"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:169
+msgid ""
+"Now launch QGIS under the debugger by clicking the icon with a bug on it in "
+"the bottom left of the window."
+msgstr "今、ウィンドウの左下にある上に虫が付いたアイコンをクリックすることにより、デバッガの下でQGISを起動します。"

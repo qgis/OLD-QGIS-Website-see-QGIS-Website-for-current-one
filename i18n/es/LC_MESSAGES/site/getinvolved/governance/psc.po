@@ -1,0 +1,612 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# 
+# Translators:
+# Darío Hereñú, 2016
+# Darío Hereñú, 2019
+# YoViajo, 2016
+# Fran Raga <FRANKA1986@gmail.com>, 2017
+# YoViajo, 2016
+# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"PO-Revision-Date: 2020-01-14 23:43+0000\n"
+"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/governance/psc.rst:4
+msgid "Charter of the QGIS.ORG Association"
+msgstr "Carta de la Asociación QGIS.ORG"
+
+#: ../../source/site/getinvolved/governance/psc.rst:6
+msgid "(QGIS.ORG Verein)"
+msgstr "(QGIS.ORG Verein)"
+
+#: ../../source/site/getinvolved/governance/psc.rst:9
+msgid "1 Legal status of QGIS.ORG"
+msgstr "1 Status Legal de QGIS.ORG"
+
+#: ../../source/site/getinvolved/governance/psc.rst:11
+msgid ""
+"QGIS.ORG is the worldwide association of QGIS users and developers. QGIS.ORG"
+" is constituted as a Swiss ‘association’ (Verein im Sinne des "
+"Schweizerischen Zivilgesetzbuches (Art. 60-79 ZGB))."
+msgstr "QGIS.ORG es la asociación mundial de usuarios y desarrolladores de QGIS. QGIS.ORG se constituye como una \"asociación\" suiza (Verein im Sinne des Schweizerischen Zivilgesetzbuches (Art. 60-79 ZGB))."
+
+#: ../../source/site/getinvolved/governance/psc.rst:15
+msgid ""
+"The German version of this document is the legally binding version. It can "
+"be translated into other languages."
+msgstr "La versión alemana de este documento es la versión legalmente vinculante. Se puede traducir a otros idiomas."
+
+#: ../../source/site/getinvolved/governance/psc.rst:19
+msgid "2 Definitions"
+msgstr "2 Definiciones"
+
+#: ../../source/site/getinvolved/governance/psc.rst:21
+msgid ""
+"**QGIS Project** - the development, maintenance and propagation of the GIS "
+"software QGIS and any other software in the official QGIS repositories as "
+"free software in the sense of the Free Software Foundation."
+msgstr "**Proyecto QGIS**: el desarrollo, mantenimiento y propagación del software SIG QGIS y cualquier otro software en los repositorios oficiales de QGIS como software libre en el sentido de la Free Software Foundation."
+
+#: ../../source/site/getinvolved/governance/psc.rst:25
+msgid ""
+"**‘The association’, ‘QGIS.ORG’** - the not-for-profit legal entity as "
+"defined in Verein im Sinne des Schweizerischen Zivilgesetzbuches (Art. 60-79"
+" ZGB)"
+msgstr "**‘La asociación’, ‘QGIS.ORG’** - la entidad jurídica sin ánimo de lucro tal como se define en Verein im Sinne des Schweizerischen Zivilgesetzbuches (Art. 60-79 ZGB)"
+
+#: ../../source/site/getinvolved/governance/psc.rst:28
+msgid ""
+"**QGIS Community** - Any active participant of the QGIS community including "
+"users, committers, patch providers, translators, document maintainers, "
+"advice givers, stack exchange contributors etc."
+msgstr "**Comunidad QGIS**: cualquier participante activo de la comunidad QGIS, incluidos usuarios, encargados, proveedores de parches, traductores, mantenedores de documentos, asesores, contribuyentes del foro, etc."
+
+#: ../../source/site/getinvolved/governance/psc.rst:32
+msgid ""
+"**QGIS Committers** - Any person who has been granted commit access in any "
+"of the official QGIS repositories"
+msgstr "**Compradores de QGIS** - Cualquier persona a la que se le haya otorgado acceso de confirmación en cualquiera de los repositorios oficiales de QGIS"
+
+#: ../../source/site/getinvolved/governance/psc.rst:35
+msgid ""
+"**QGIS Project Steering Committee (PSC)** - The elected representatives of "
+"the QGIS community that advises the board."
+msgstr "**Comité Directivo del Proyecto QGIS (PSC)** - Los representantes elegidos de la comunidad QGIS que asesora a la junta."
+
+#: ../../source/site/getinvolved/governance/psc.rst:38
+msgid ""
+"**QGIS Board** - A subset of the PSC (see below) that has been mandated to "
+"provide legal and fiscal oversight for QGIS.ORG. The Board is the legal "
+"representative of the QGIS.ORG Association."
+msgstr "**Junta de QGIS** - Un subconjunto de la PSC (ver más abajo) que ha recibido el mandato de proporcionar supervisión legal y fiscal para QGIS.ORG. La Junta es la representante legal de la Asociación QGIS.ORG."
+
+#: ../../source/site/getinvolved/governance/psc.rst:42
+msgid ""
+"**Chair** - An individual elected from amongst the board who will act as the"
+" official representative of the QGIS project."
+msgstr "**Presidente** - Un individuo elegido entre la junta que actuará como representante oficial del proyecto QGIS."
+
+#: ../../source/site/getinvolved/governance/psc.rst:45
+msgid ""
+"**QGIS User Group** - A formal national chapter, meeting the criteria for "
+"official user group as defined by the board. The official list of registered"
+" groups is maintained here: "
+"http://www.qgis.org/en/site/forusers/usergroups.html"
+msgstr "**Grupo de usuarios de QGIS**: una sección nacional formal que cumple los criterios para el grupo de usuarios oficial según lo definido por la junta. La lista oficial de grupos registrados se mantiene aquí: http://www.qgis.org/en/site/forusers/usergroups.html"
+
+#: ../../source/site/getinvolved/governance/psc.rst:49
+msgid ""
+"**OSGeo** - The Open Source Geospatial Foundation (OSGeo) is a not-for-"
+"profit organization whose mission is to foster global adoption of open "
+"geospatial technology by being an inclusive software foundation devoted to "
+"an open philosophy and participatory community driven development. QGIS is a"
+" OSGeo member."
+msgstr "**OSGeo**: la Fundación Geoespacial de Código Abierto (OSGeo) es una organización sin ánimo de lucro cuya misión es fomentar la adopción global de la tecnología geoespacial abierta al ser una base de software inclusiva dedicada a una filosofía abierta y un desarrollo participativo impulsado por la comunidad. QGIS es un miembro de OSGeo."
+
+#: ../../source/site/getinvolved/governance/psc.rst:54
+msgid ""
+"**Voting member** - any person who may vote on communal decisions made by "
+"the board. The voting members (general meeting) will approve the annual "
+"budget and the election of any new board members."
+msgstr "**Miembro votante**: cualquier persona que pueda votar sobre las decisiones comunales tomadas por la junta. Los miembros votantes (reunión general) aprobarán el presupuesto anual y la elección de cualquier nuevo miembro de la junta."
+
+#: ../../source/site/getinvolved/governance/psc.rst:58
+msgid ""
+"**Financial auditors** - nominated from the whole QGIS Community and they "
+"are elected by the voting members. The financial auditors shall approve the "
+"accounts annually."
+msgstr "**Auditores financieros**: nominados de toda la Comunidad QGIS y elegidos por los miembros con derecho a voto. Los auditores financieros deberán aprobar las cuentas anualmente."
+
+#: ../../source/site/getinvolved/governance/psc.rst:63
+msgid "3 Goals of QGIS.ORG"
+msgstr "3 Objetivos de QGIS.ORG"
+
+#: ../../source/site/getinvolved/governance/psc.rst:65
+msgid ""
+"To steer the QGIS project in order to maximise its good standing in the GIS "
+"community and ensure that we reach as many potential users who can benefit "
+"from our work as possible."
+msgstr "Dirigir el proyecto QGIS para maximizar su buena reputación en la comunidad SIG y garantizar que lleguemos a tantos usuarios potenciales que puedan beneficiarse de nuestro trabajo como sea posible."
+
+#: ../../source/site/getinvolved/governance/psc.rst:69
+msgid ""
+"Coordination of QGIS project activities and disbursement of available "
+"financial resources for initiatives that will ensure the long term growth "
+"and sustainability of the QGIS project."
+msgstr "Coordinación de las actividades del proyecto QGIS y desembolso de los recursos financieros disponibles para iniciativas que aseguren el crecimiento a largo plazo y la sostenibilidad del proyecto QGIS."
+
+#: ../../source/site/getinvolved/governance/psc.rst:73
+msgid ""
+"Marketing of QGIS through orientation courses, case studies, informative "
+"meetings or articles in GIS related media and any other suitable means."
+msgstr "Comercialización de QGIS a través de cursos de orientación, estudios de casos, reuniones informativas o artículos en medios relacionados con SIG y cualquier otro medio adecuado."
+
+#: ../../source/site/getinvolved/governance/psc.rst:76
+msgid ""
+"Disseminate information to the QGIS community to keep them informed about "
+"planned and past activities including things such as the financial state of "
+"the project, initiatives that will be carried out on behalf of the QGIS "
+"project and so on."
+msgstr "Difundir información a la comunidad QGIS para mantenerlos informados sobre las actividades planificadas y pasadas, incluyendo cosas como el estado financiero del proyecto, iniciativas que se llevarán a cabo en nombre del proyecto QGIS, etc."
+
+#: ../../source/site/getinvolved/governance/psc.rst:80
+msgid "Support of research or studies around QGIS."
+msgstr "Apoyo a investigaciones o estudios en torno a QGIS."
+
+#: ../../source/site/getinvolved/governance/psc.rst:82
+msgid "Foster regular meetings of the QGIS community."
+msgstr "Fomentar reuniones periódicas de la comunidad QGIS."
+
+#: ../../source/site/getinvolved/governance/psc.rst:84
+msgid ""
+"Act as a liaison between the community of QGIS user groups, and third "
+"parties interested in knowing about or supporting QGIS."
+msgstr "Actuar como enlace entre la comunidad de grupos de usuarios de QGIS y terceros interesados en conocer o apoyar QGIS."
+
+#: ../../source/site/getinvolved/governance/psc.rst:89
+msgid "4 QGIS.ORG Legal entities"
+msgstr "4 QGIS.ORG Entidades legales"
+
+#: ../../source/site/getinvolved/governance/psc.rst:91
+msgid "The General Meeting (the Voting Members)"
+msgstr "La Junta General (los miembros votantes)"
+
+#: ../../source/site/getinvolved/governance/psc.rst:92
+msgid "The Board"
+msgstr "La Junta"
+
+#: ../../source/site/getinvolved/governance/psc.rst:93
+msgid "Two non-Board members who shall act as financial auditors"
+msgstr "Dos no miembros de la Junta que actuarán como auditores financieros"
+
+#: ../../source/site/getinvolved/governance/psc.rst:95
+msgid ""
+"These three entities are in place to support and represent the broader QGIS "
+"Community."
+msgstr "Estas tres entidades están en su lugar para apoyar y representar a la comunidad QGIS más amplia."
+
+#: ../../source/site/getinvolved/governance/psc.rst:98
+msgid "5 General Meeting"
+msgstr "5 Junta general"
+
+#: ../../source/site/getinvolved/governance/psc.rst:100
+msgid ""
+"Voting members of the general meeting are the deciders of policy and any "
+"major decisions that affect the general standing may be put to the Voting "
+"Members for a vote by the PSC. Voting Members vote on any motion raised at "
+"the Annual General Meeting. Voting Members also nominate and elect the PSC "
+"membership."
+msgstr "Los miembros con derecho a voto de la junta general son los decisores de la política y cualquier decisión importante que afecte la posición general puede ser sometida a los Miembros con derecho a voto para que el PSC vote. Los miembros votantes votan sobre cualquier moción presentada en la Asamblea General Anual. Los miembros votantes también nominan y eligen la membresía del PSC."
+
+#: ../../source/site/getinvolved/governance/psc.rst:106
+msgid "5.1 Types of voting members"
+msgstr "5.1 Tipos de miembros con derecho a voto"
+
+#: ../../source/site/getinvolved/governance/psc.rst:108
+msgid "QGIS User group voting members"
+msgstr "Miembros votantes del grupo de usuarios de QGIS"
+
+#: ../../source/site/getinvolved/governance/psc.rst:109
+msgid "QGIS Community voting members"
+msgstr "Miembros votantes de la comunidad QGIS"
+
+#: ../../source/site/getinvolved/governance/psc.rst:110
+msgid "One OSGEO representative voting member"
+msgstr "Un miembro votante representante de OSGEO"
+
+#: ../../source/site/getinvolved/governance/psc.rst:111
+msgid "Honorary voting members"
+msgstr "Miembros votantes honorarios"
+
+#: ../../source/site/getinvolved/governance/psc.rst:114
+msgid "5.2 Composition, appointment and role of voting members"
+msgstr "5.2 Composición, nombramiento y función de los miembros con derecho a voto."
+
+#: ../../source/site/getinvolved/governance/psc.rst:116
+msgid ""
+"The voting members shall be appointed according to the following scheme:"
+msgstr "Los miembros con derecho a voto serán nombrados de acuerdo con el siguiente esquema:"
+
+#: ../../source/site/getinvolved/governance/psc.rst:118
+msgid ""
+"QGIS User Group Voting Members: One voting member per QGIS country level "
+"user group. Each user group will nominate who their voting member shall be."
+msgstr "Miembros votantes de QGIS: un miembro votante por grupo de usuarios de QGIS a nivel de país. Cada grupo de usuarios nominará quién será su miembro con derecho a voto."
+
+#: ../../source/site/getinvolved/governance/psc.rst:120
+msgid ""
+"QGIS Community Voting Members: For each user group voting member, there will"
+" be one voting community member elected."
+msgstr "Miembros de votación de la comunidad QGIS: Por cada miembro de votación del grupo de usuarios, habrá un miembro de la comunidad de votación elegido."
+
+#: ../../source/site/getinvolved/governance/psc.rst:122
+msgid ""
+"OSGeo Voting Member: One voting member representing the OSGeo foundation put"
+" forward by the OSGeo board."
+msgstr "Miembro con derecho a voto de OSGeo: Un miembro con derecho a voto que representa la fundación OSGeo presentado por la junta de OSGeo."
+
+#: ../../source/site/getinvolved/governance/psc.rst:126
+msgid "5.3 Election and eligibility of QGIS User Group voting members"
+msgstr "5.3 Elección y elegibilidad de los miembros votantes del Grupo de Usuarios de QGIS"
+
+#: ../../source/site/getinvolved/governance/psc.rst:128
+msgid ""
+"Only country-level user groups may put forward a nominated voting member."
+msgstr "Solo los grupos de usuarios a nivel de país pueden presentar un miembro con derecho a voto."
+
+#: ../../source/site/getinvolved/governance/psc.rst:129
+msgid "In order to be recognised, a user group must be approved by the PSC."
+msgstr "Para ser reconocido, un grupo de usuarios debe ser aprobado por el PSC."
+
+#: ../../source/site/getinvolved/governance/psc.rst:131
+msgid ""
+"The user group should democratically nominate one person from within their "
+"ranks to act as their representative within the QGIS.ORG voting membership."
+msgstr "El grupo de usuarios debe nominar democráticamente a una persona dentro de sus filas para que actúe como su representante dentro de la membresía de votación QGIS.ORG."
+
+#: ../../source/site/getinvolved/governance/psc.rst:135
+msgid "5.4 Election and eligibility of QGIS Community voting members"
+msgstr "5.4 Elección y elegibilidad de los miembros votantes de la Comunidad QGIS"
+
+#: ../../source/site/getinvolved/governance/psc.rst:137
+msgid ""
+"QGIS community members will be nominated and voted for by the established "
+"QGIS committers."
+msgstr "Los miembros de la comunidad QGIS serán nominados y votados por los comisionados QGIS establecidos."
+
+#: ../../source/site/getinvolved/governance/psc.rst:139
+msgid ""
+"Any active QGIS community member will be eligible for nomination as a "
+"QGIS.ORG voting member."
+msgstr "Cualquier miembro activo de la comunidad QGIS será elegible para ser nominado como miembro votante QGIS.ORG."
+
+#: ../../source/site/getinvolved/governance/psc.rst:141
+msgid ""
+"Voting Memberships shall be awarded on a ‘first past the post’ basis, with "
+"the nominee receiving the greatest number of votes being awarded voting "
+"membership first and so on in descending order of number of votes received "
+"until all voting memberships have been allocated."
+msgstr "Las Membresías con derecho a voto deberán ser otorgadas \"por primera vez después de la publicación\", con el nominado recibiendo la mayor cantidad de votos siendole otorgada la membresía con derecho a voto primero y así sucesivamente en orden descendente de la cantidad de votos recibidos hasta que todas las membresías con derecho a voto hayan sido asignadas."
+
+#: ../../source/site/getinvolved/governance/psc.rst:147
+msgid "5.5 Honorable members"
+msgstr "5.5 Miembros honoríficos"
+
+#: ../../source/site/getinvolved/governance/psc.rst:149
+msgid ""
+"Honorable members are individual persons who receive special acknowledgment "
+"for extraordinary achievements in the QGIS project. Applications for the "
+"nomination of an honorable member should be directed to the PSC. The general"
+" meeting shall vote about the acceptance of a new honorable member. "
+"Honorable members shall have voting rights."
+msgstr "Los miembros honoríficos son personas individuales que reciben un reconocimiento especial por logros extraordinarios en el proyecto QGIS. Las solicitudes para la nominación de un miembro honorífico deben dirigirse al PSC. La junta general votará sobre la aceptación de un nuevo miembro honorífico. Los miembros honoríficos tendrán derecho a voto."
+
+#: ../../source/site/getinvolved/governance/psc.rst:155
+msgid "5.6 Voting member terms"
+msgstr "5.6 Términos de los miembros votantes"
+
+#: ../../source/site/getinvolved/governance/psc.rst:157
+msgid "Voting memberships will be valid until:"
+msgstr "Las membresías de votación serán válidas hasta:"
+
+#: ../../source/site/getinvolved/governance/psc.rst:159
+msgid "The voting member resigns"
+msgstr "El miembro votante renuncia"
+
+#: ../../source/site/getinvolved/governance/psc.rst:160
+msgid ""
+"There is a motion raised from within the voting membership, and passed vote "
+"by the voting membership to remove the member"
+msgstr "Hay una moción planteada desde dentro de la membresía con derecho a voto y aprobada por la membresía con derecho a voto para eliminar al miembro"
+
+#: ../../source/site/getinvolved/governance/psc.rst:162
+msgid ""
+"A voting member gets elected to the PSC in which case voting membership of "
+"the new PSC member will be relinquished and a new voting member will be "
+"elected in the new PSC member’s place. Outgoing PSC members that were "
+"previously voting members will need to be re-elected into the voting "
+"membership should they wish to return to their former role."
+msgstr "Un miembro con derecho a voto es elegido para el PSC, en cuyo caso la membresía con derecho a voto del nuevo miembro del PSC será renunciada y un nuevo miembro con derecho a voto será elegido en el lugar del nuevo miembro del PSC. Los miembros salientes del PSC que anteriormente eran miembros con derecho a voto deberán ser reelegidos en la membresía con derecho a voto si desean volver a su antiguo cargo."
+
+#: ../../source/site/getinvolved/governance/psc.rst:169
+msgid "6 The board"
+msgstr "6 La junta"
+
+#: ../../source/site/getinvolved/governance/psc.rst:171
+msgid ""
+"The board is the legal representation of the QGIS.ORG project with authority"
+" to sign legal documents on behalf of the QGIS.ORG project."
+msgstr "La junta es la representación legal del proyecto QGIS.ORG con autoridad para firmar documentos legales en nombre del proyecto QGIS.ORG."
+
+#: ../../source/site/getinvolved/governance/psc.rst:174
+msgid ""
+"The official domicile of the association shall be determined by the board. "
+"The group is legally represented by the chair’s signature and a signature of"
+" an additional member of the board."
+msgstr "El domicilio oficial de la asociación será determinado por la junta. El grupo está legalmente representado por la firma del presidente y la firma de un miembro adicional de la junta."
+
+#: ../../source/site/getinvolved/governance/psc.rst:177
+msgid ""
+"The treasurer has sole authority to carry out financial transactions "
+"provided they are within the bounds of the annual budget authorized by the "
+"general meeting."
+msgstr "El tesorero tiene la autoridad exclusiva para realizar transacciones financieras siempre que estén dentro de los límites del presupuesto anual autorizado por la junta general."
+
+#: ../../source/site/getinvolved/governance/psc.rst:181
+msgid "6.1 Election of board members"
+msgstr "6.1 Elección de los miembros de la junta"
+
+#: ../../source/site/getinvolved/governance/psc.rst:183
+msgid ""
+"Board members shall also be members of the PSC and shall be nominated and "
+"elected by the general meeting. In an election of board members, the nominee"
+" receiving the greatest number of votes for each position (chair, vice "
+"chair, treasurer) shall be appointed. A tied election shall trigger a re-"
+"vote until one nominee has the majority. On expiration of a board member’s "
+"term, nominees from within the QGIS PSC shall be put forward by the QGIS"
+msgstr "Los miembros de la junta también serán miembros del PSC y serán nominados y elegidos por la junta general. En una elección de los miembros de la junta, se designará al candidato que reciba el mayor número de votos para cada puesto (presidente, vicepresidente, tesorero). Una elección empatada desencadenará una nueva votación hasta que un nominado tenga la mayoría. Al expirar el mandato de un miembro de la junta, los nominados dentro del QGIS PSC serán presentados por el QGIS"
+
+#: ../../source/site/getinvolved/governance/psc.rst:189
+msgid ""
+"Voting Members. The outgoing board member shall automatically receive a "
+"nomination unless he/she no longer wishes to serve on the board."
+msgstr "Miembros votantes. El miembro saliente de la junta recibirá automáticamente una nominación a menos que ya no desee formar parte de la junta."
+
+#: ../../source/site/getinvolved/governance/psc.rst:193
+msgid "6.2 Terms of members of the board"
+msgstr "6.2 Términos de los miembros de la junta"
+
+#: ../../source/site/getinvolved/governance/psc.rst:195
+msgid "Board members will serve for a two year term."
+msgstr "Los miembros de la junta servirán por un período de dos años."
+
+#: ../../source/site/getinvolved/governance/psc.rst:199
+msgid "6.3 Composition of the board"
+msgstr "6.3 Composición de la junta"
+
+#: ../../source/site/getinvolved/governance/psc.rst:201
+msgid "The board shall include at minimum these roles:"
+msgstr "La junta deberá incluir como mínimo estos puestos:"
+
+#: ../../source/site/getinvolved/governance/psc.rst:203
+msgid "Chair"
+msgstr "Presidente"
+
+#: ../../source/site/getinvolved/governance/psc.rst:204
+msgid "Vice-chair"
+msgstr "Vicepresidente"
+
+#: ../../source/site/getinvolved/governance/psc.rst:205
+msgid "Treasurer"
+msgstr "Tesorero"
+
+#: ../../source/site/getinvolved/governance/psc.rst:208
+msgid "6.4 Board and PSC Member remuneration"
+msgstr "6.4 Remuneración de la Junta y de los miembros de PSC"
+
+#: ../../source/site/getinvolved/governance/psc.rst:210
+msgid ""
+"Board and PSC members will receive no remuneration for their services other "
+"than reimbursement of out-of-pocket expenses incurred when carrying out "
+"activities on behalf of the board."
+msgstr "Los miembros de la Junta y del PSC no recibirán remuneración por sus servicios, excepto el reembolso de los gastos de bolsillo incurridos al realizar actividades en nombre de la junta."
+
+#: ../../source/site/getinvolved/governance/psc.rst:215
+msgid "7 The Project Steering Committee (PSC)"
+msgstr "7 El Comité Directivo del Proyecto (PSC)"
+
+#: ../../source/site/getinvolved/governance/psc.rst:218
+msgid "7.1 Election of PSC members"
+msgstr "7.1 Elección de miembros del PSC"
+
+#: ../../source/site/getinvolved/governance/psc.rst:220
+msgid ""
+"On expiration of a PSC member’s term, nominees from within the QGIS Voting "
+"Membership shall be put forward by any QGIS Community Member. The outgoing "
+"PSC member shall automatically receive a nomination unless he/she no longer "
+"wishes to serve on the PSC. If an incoming PSC member is a Voting Member, "
+"they will relinquish their voting membership in the general meeting on "
+"joining the PSC."
+msgstr "Al expirar el mandato de un miembro del PSC, nominados de dentro de la Membresía de votación de QGIS serán presentados por algún miembro de la comunidad de QGIS. El miembro saliente del PSC deberá recibir automáticamente una nominación a menos que el/ella ya no desee participar en el PSC. Si un miembro entrante del PSC es un miembro con derecho a voto, renunciará a su membresía con derecho a voto en la reunión general al unirse al PSC."
+
+#: ../../source/site/getinvolved/governance/psc.rst:226
+msgid ""
+"Prior to the election, the outgoing PSC determines the total number of seats"
+" of the incoming committee. QGIS Voting Members shall be allowed a number of"
+" votes equal to the number of PSC memberships up for election and shall be "
+"asked to rank their votes in order of preference. The votes shall be "
+"weighted based on the number of PSC positions being voted for. For example "
+"if three PSC positions are available, each first choice vote shall be worth "
+"3 points, second point vote 2 points and so on. PSC memberships shall be "
+"awarded on the total weighted score of the vote, with the nominee receiving "
+"the greatest score being awarded PSC membership first and so on in "
+"descending order of score of votes received until all PSC memberships have "
+"been allocated. A list of currently serving PSC members shall be maintained "
+"at: https://www.qgis.org/en/site/getinvolved/governance/"
+msgstr "Antes de la elección, el PSC saliente determina el número total de escaños del comité entrante. A los miembros votantes de QGIS se les permitirá un número de votos igual al número de miembros del PSC para la elección y se les pedirá que clasifiquen sus votos en orden de preferencia. Los votos se ponderarán en función del número de puestos del PSC que se voten. Por ejemplo, si hay tres puestos de PSC disponibles, cada voto de primera opción tendrá un valor de 3 puntos, el voto de segundo punto 2 puntos y así sucesivamente. Las membresías del PSC se otorgarán según la puntuación ponderada total de la votación, y el nominado que reciba la puntuación más alta recibirá la membresía del PSC primero y así sucesivamente en orden descendente de puntuación de los votos recibidos hasta que se hayan asignado todas las membresías del PSC. Se debe mantener una lista de los miembros actuales del PSC en: https://www.qgis.org/en/site/getinvolved/governance/"
+
+#: ../../source/site/getinvolved/governance/psc.rst:238
+msgid "7.2 Terms of members of the PSC"
+msgstr "7.2 Términos de los miembros del PSC"
+
+#: ../../source/site/getinvolved/governance/psc.rst:240
+msgid "PSC members will serve for a two year term."
+msgstr "Los miembros del PSC servirán por un período de dos años."
+
+#: ../../source/site/getinvolved/governance/psc.rst:243
+msgid "7.3 Honorary PSC members"
+msgstr "7.3 Miembros honoríficos del PSC"
+
+#: ../../source/site/getinvolved/governance/psc.rst:245
+msgid ""
+"Gary Sherman, as founder of the QGIS project, shall be accorded lifetime "
+"honorary membership on the QGIS PSC from its inception. By common vote, "
+"QGIS.ORG may award any individual a lifetime honorary seat on the PSC."
+msgstr "Gary Sherman, como fundador del proyecto QGIS, recibirá membresía honorífica de por vida en el QGIS PSC desde su inicio. Por votación común, QGIS.ORG puede otorgar a cualquier individuo un asiento honorífico de por vida en el PSC."
+
+#: ../../source/site/getinvolved/governance/psc.rst:250
+msgid "8 Administration of QGIS.ORG"
+msgstr "8 Administración de QGIS.ORG"
+
+#: ../../source/site/getinvolved/governance/psc.rst:252
+msgid ""
+"The annual general meeting (AGM) will be held via a virtual forum The online"
+" location and date is to be determined and communicated by the board in "
+"advance of the meeting. The board shall publish a meeting agenda prior to "
+"the meeting. The protocol of the past general meeting shall be provided by "
+"the board and sent to the voting members at least 15 days prior to each "
+"general meeting. The chair of the association authorizes the release of the "
+"protocol."
+msgstr "La reunión general anual (AGM) se llevará a cabo a través de un foro virtual. La junta determinará y comunicará la ubicación y la fecha en línea antes de la reunión. La junta publicará una agenda de la reunión antes de la reunión. El protocolo de la reunión general anterior será proporcionado por la junta y enviado a los miembros votantes al menos 15 días antes de cada reunión general. El presidente de la asociación autoriza la publicación del protocolo."
+
+#: ../../source/site/getinvolved/governance/psc.rst:259
+msgid ""
+"The meeting shall be open to all QGIS community members. Only voting members"
+" can vote on any motion. Substantial proposals made by QGIS community "
+"members for future QGIS.ORG activities should be provided to the board in "
+"writing to be added as agenda items in advance of the meeting. Minor "
+"proposals should be presented to the board and dealt with independently of "
+"the AGM."
+msgstr "La reunión estará abierta a todos los miembros de la comunidad QGIS. Solo los miembros votantes pueden votar sobre cualquier moción. Las propuestas sustanciales hechas por los miembros de la comunidad de QGIS para futuras actividades de QGIS.ORG deben proporcionarse a la junta por escrito para ser agregadas como puntos de la agenda antes de la reunión. Las propuestas menores deben presentarse a la junta y tratarse independientemente de la AGM."
+
+#: ../../source/site/getinvolved/governance/psc.rst:265
+msgid "The annual general meeting shall deal with the following:"
+msgstr "La junta general anual se ocupará de lo siguiente:"
+
+#: ../../source/site/getinvolved/governance/psc.rst:267
+msgid "Approval of the annual report"
+msgstr "Aprobación del informe anual."
+
+#: ../../source/site/getinvolved/governance/psc.rst:268
+msgid "Approval of the annual financial report"
+msgstr "Aprobación del informe financiero anual."
+
+#: ../../source/site/getinvolved/governance/psc.rst:269
+msgid "Approval of the annual budget"
+msgstr "Aprobación del presupuesto anual."
+
+#: ../../source/site/getinvolved/governance/psc.rst:270
+msgid "Election of the board chair"
+msgstr "Elección del presidente de la junta."
+
+#: ../../source/site/getinvolved/governance/psc.rst:271
+msgid ""
+"The nomination and election for the outgoing board and PSC member "
+"replacements"
+msgstr "La nominación y elección para la junta saliente y los reemplazos de miembros del PSC"
+
+#: ../../source/site/getinvolved/governance/psc.rst:272
+msgid ""
+"Confirmation or selection of the financial auditors for the upcoming "
+"financial year"
+msgstr "Confirmación o selección de los auditores financieros para el próximo año financiero."
+
+#: ../../source/site/getinvolved/governance/psc.rst:273
+msgid ""
+"Resolutions / voting of proposals made by the board, the PSC or voting "
+"members"
+msgstr "Resoluciones / votación de propuestas hechas por la junta, el PSC o los miembros votantes"
+
+#: ../../source/site/getinvolved/governance/psc.rst:274
+msgid "Revision of the statutes"
+msgstr "Revisión de los estatutos"
+
+#: ../../source/site/getinvolved/governance/psc.rst:275
+msgid "Deal with any matters arising"
+msgstr "Tratar cualquier asunto que surja"
+
+#: ../../source/site/getinvolved/governance/psc.rst:277
+msgid ""
+"All other decisions and competences are the responsibility of the QGIS "
+"Board."
+msgstr "Todas las demás decisiones y competencias son responsabilidad de la Junta de QGIS."
+
+#: ../../source/site/getinvolved/governance/psc.rst:279
+msgid ""
+"Extraordinary meetings can be convened by the board or on demand of at least"
+" 2/5 of the voting members."
+msgstr "Las reuniones extraordinarias pueden ser convocadas por la junta o bajo demanda de al menos 2/5 de los miembros con derecho a voto."
+
+#: ../../source/site/getinvolved/governance/psc.rst:282
+msgid ""
+"Every officially convened general meeting has a quorum. At elections and for"
+" voting a simple majority (more than 50%) of the present members decides, "
+"except for the cases listed in sections 6.1, 7.1. and 5.4."
+msgstr "Cada reunión general convocada oficialmente tiene quórum. En las elecciones y para votaciones una mayoría simple (más del 50%) de los miembros actuales decide, a excepción de los casos enumerados en las secciones 6.1, 7.1. y 5.4."
+
+#: ../../source/site/getinvolved/governance/psc.rst:286
+msgid ""
+"The reporting year and the accounting year starts at January 1 and ends at "
+"December 31. The correspondence of the QGIS.ORG Association will be carried "
+"out in English, unless otherwise requested by the authorities."
+msgstr "El año de informe y el año contable comienzan el 1 de enero y finalizan el 31 de diciembre. La correspondencia de la Asociación QGIS.ORG se llevará a cabo en inglés, a menos que las autoridades soliciten lo contrario."
+
+#: ../../source/site/getinvolved/governance/psc.rst:290
+#, python-format
+msgid ""
+"The association can only be dissolved by the general motion with a majority "
+"of more than 3⁄4 of the voting members affirming the motion. In case of the "
+"liquidation of the association, the general meeting can vote on the usage of"
+" the assets of the association with a simple majority (more than 50% of "
+"voters)."
+msgstr "La asociación solo puede ser disuelta por la moción general con una mayoría de más de 3⁄4 de los miembros votantes que afirman la moción. En caso de liquidación de la asociación, la junta general puede votar sobre el uso de los activos de la asociación con una mayoría simple (más del 50% de los votantes)."
+
+#: ../../source/site/getinvolved/governance/psc.rst:296
+msgid "9 Financial arrangements"
+msgstr "9 Arreglos financieros"
+
+#: ../../source/site/getinvolved/governance/psc.rst:298
+msgid ""
+"The financial revenues of QGIS.ORG shall originate from donations, "
+"sponsorships, grant funding and other diverse sources."
+msgstr "Los ingresos financieros de QGIS.ORG se originarán de donaciones, patrocinios, subvenciones y otras fuentes diversas."
+
+#: ../../source/site/getinvolved/governance/psc.rst:301
+msgid "The general meeting shall elect two financial auditors each year."
+msgstr "La junta general elegirá dos auditores financieros cada año."
+
+#: ../../source/site/getinvolved/governance/psc.rst:303
+msgid ""
+"Limited Liability: the QGIS Association can only be held liable up to the "
+"amount of the current assets of the association. Personal liability of "
+"members of the board or individual other members are excluded."
+msgstr "Responsabilidad limitada: la Asociación QGIS solo puede ser considerada responsable hasta el monto de los activos actuales de la asociación. Se excluye la responsabilidad personal de los miembros de la junta o de otros miembros individuales."
+
+#: ../../source/site/getinvolved/governance/psc.rst:307
+msgid ""
+"This charter was approved by the general assembly via Loomio vote on May 8, "
+"2017."
+msgstr "Esta carta fue aprobada por la asamblea general a través del voto vía Loomio el 8 de mayo de 2017."

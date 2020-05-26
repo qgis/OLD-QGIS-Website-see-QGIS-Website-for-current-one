@@ -1,0 +1,244 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# 
+# Translators:
+# Aurelio Pires <anvpires@gmail.com>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-10 10:41+0200\n"
+"PO-Revision-Date: 2020-03-13 10:08+0000\n"
+"Last-Translator: Aurelio Pires <anvpires@gmail.com>, 2020\n"
+"Language-Team: Portuguese (Portugal) (https://www.transifex.com/qgis/teams/6144/pt_PT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:2
+msgid "List of Project Steering Committee Resolutions - 2020"
+msgstr "Lista de Resoluções do Comité de Direção do Projeto - 2020"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:5
+msgid "Documentation of new features"
+msgstr "Documentação de novas funcionalidades"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:7
+msgid "**Date of voting**: 2020-01-07"
+msgstr "**Data da votação**: 2020-01-07"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:9
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:78
+msgid "**Proponent**: Marco Bernasocchi"
+msgstr "**Proponente**: Marco Bernasocchi"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:11
+msgid ""
+"**Proposal**: Documenting new features is difficult, and documentation lags "
+"behind code. Proposal: Mandate that all new features are accompanied by "
+"documentation (which should be in a well described, parsable section of the "
+"PR description)."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:14
+msgid "**Votes**: In favour: Anita, Marco, Paolo, Tim Abstain: Jürgen"
+msgstr "**Votos**: A favor: Anita, Marco, Paolo, Tim Abstain: Jürgen"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:17
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:38
+msgid "**Decision**: Approved"
+msgstr "**Decisão**: Aprovado"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:19
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:40
+msgid "**Notes**: none"
+msgstr "**Notas**: nenhuma"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:23
+msgid "PyQgis Cookbook revision"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:25
+msgid "**Date of voting**: 2020-03-18"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:27
+msgid "**Proponent**: Alessandro Pasotti"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:29
+msgid ""
+"**Proposal**: The proposal is to make a revision of the current cookbook "
+"text and code snippets in order to: - update the text and the code snippets "
+"- put ALL code snippets under the existing automated Python test CI "
+"infrastructure. See thread at: https://lists.osgeo.org/pipermail/qgis-"
+"psc/2020-March/008282.html"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:34
+msgid "**Budget**: 4000 €"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:36
+msgid "**Votes**: In favour: Paolo, Marco, Anita, Tim, Andreas, Jürgen"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:43
+msgid "Keep QGIS apps list in historical order"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:45
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:61
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:76
+msgid "**Date of voting**: 2020-03-17"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:47
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:63
+msgid "**Proposal**: Marco Bernasocchi"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:49
+msgid ""
+"**Rationale**: The current ordering reflects the history of the QGIS mobile "
+"apps where QGIS for android (and it's new named QField) delivered all the "
+"base work on which Input was then based ( https://github.com/qgis/QGIS-"
+"Website/pull/725)"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:52
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:100
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:110
+msgid "+1 Anita"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:53
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:97
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:115
+msgid "+1 Paolo"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:54
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:85
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:99
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:113
+msgid "+1 Marco"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:55
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:82
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:111
+msgid "+1 Tim"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:56
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:83
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:96
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:114
+msgid "+1 Jürgen"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:57
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:71
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:84
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:98
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:112
+msgid "+1 Andreas"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:60
+msgid "Remove QGIS for android Buttons"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:65
+msgid ""
+"**Rationale**: `QGIS for android` is old and deprecated and now called "
+"QField"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:67
+msgid "+0 Anita (or just remove download buttons and keep deprecation note)"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:68
+msgid "-0 Marco"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:69
+msgid "+0 Tim (update text*, remove links)"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:70
+msgid "+0 Jürgen"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:75
+msgid ""
+"Temporarily remove the links to iOS app store until a decision is reached"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:80
+msgid "**Proposal**: see https://github.com/qgis/QGIS-Website/pull/727"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:86
+msgid "+0 Anita"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:89
+msgid "Use of proprietary software"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:90
+msgid "**Date of voting**: 2020-04-07"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:92
+msgid "**Proposal**: Paolo Cavallini"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:94
+msgid ""
+"**Rationale**: Free software should be the first choice for all the tools we"
+" use. We should choose proprietary alternatives only when it is proven that "
+"free software fails to provide a reasonable solution. The PSC should vote in"
+" case a proprietary solution is suggested."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:103
+msgid "New refined grant process"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:104
+msgid "**Date of voting**: 2020-04-15"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:106
+msgid ""
+"**Proposal**: Anita Graser https://lists.osgeo.org/pipermail/qgis-"
+"psc/2020-April/008639.html"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:108
+msgid ""
+"**Rationale**: The grant process has been enhanced as discussed in "
+"https://github.com/qgis/PSC/issues/31"
+msgstr ""
+
+#~ msgid ""
+#~ "**Rationale**: Documenting new features is difficult, and documentation lags"
+#~ " behind code. Proposal: Mandate that all new features are accompanied by "
+#~ "documentation (which should be in a well described, parsable section of the "
+#~ "PR description)."
+#~ msgstr ""
+#~ "** Justificação **: É difícil documentar novas funcionalidades e a "
+#~ "documentação está atrasada em relação ao código. Proposta: Exigir que todas "
+#~ "as novas funcionalidades sejam acompanhados de documentação (que deve estar "
+#~ "bem descrita e numa secção analisável da descrição do PR)."

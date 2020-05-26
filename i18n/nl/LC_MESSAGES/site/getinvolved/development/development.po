@@ -1,0 +1,249 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# 
+# Translators:
+# Dick Groskamp, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-13 10:56+0100\n"
+"PO-Revision-Date: 2019-09-05 17:56+0000\n"
+"Last-Translator: Dick Groskamp, 2020\n"
+"Language-Team: Dutch (https://www.transifex.com/qgis/teams/6144/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/development/development.rst:6
+msgid "Development in QGIS"
+msgstr "Ontwikkeling in QGIS "
+
+#: ../../source/site/getinvolved/development/development.rst:9
+msgid "Core Development"
+msgstr "Bronontwikkeling"
+
+#: ../../source/site/getinvolved/development/development.rst:11
+msgid ""
+"QGIS is an Open Source Geographic Information System that currently runs on "
+"most Unix platforms (macOS/OS X included) and Windows. Developed using the "
+"Qt toolkit (https://www.qt.io), it's mainly written in C++ and Python "
+"languages. This means that QGIS feels snappy to use and has a pleasing, easy"
+" to use graphical user interface."
+msgstr ""
+"QGIS is een open bron Geografisch Informatie Systeem dat momenteel kan "
+"worden uitgevoerd op de meeste platformen voor Unix (inclusief macOS/OS X) "
+"en Windows. Ontwikkeld met de Qt toolkit (https://www.qt.io), is het "
+"voornamelijk geschreven in de talen C++ en Python. Dit betekent dat QGIS "
+"aanvoelt om snel te gebruiken en een prettige, eenvoudig te gebruiken "
+"grafische gebruikersinterface heeft."
+
+#: ../../source/site/getinvolved/development/development.rst:17
+msgid ""
+"QGIS source code is available at https://github.com/qgis/QGIS. If you wish "
+"to help on bug fixing or adding new features to the application, you are "
+"most welcome and can freely contribute via pull requests. You can also get "
+"in touch with the other developers through their mailing list at "
+"https://lists.osgeo.org/mailman/listinfo/qgis-developer."
+msgstr ""
+"De broncode voor QGIS is beschikbaar op https://github.com/qgis/QGIS. Als u "
+"wilt helpen bij het oplossen van problemen of nieuwe mogelijkheden toevoegen"
+" aan de toepassing, bent u van harte welkom en kunt u vrij bijdragen via "
+"pull requests. U kunt ook met de andere ontwikkelaars in contact komen via "
+"hun mailinglijst op https://lists.osgeo.org/mailman/listinfo/qgis-developer."
+
+#: ../../source/site/getinvolved/development/development.rst:23
+msgid ""
+"Beside this, we've written a short **QGIS Developers Guide** to help you in "
+"QGIS coding. It provides rules, tools and steps to easily and efficiently "
+"contribute to QGIS code and is available at https://docs.qgis.org. You are "
+"warmly encouraged to read it."
+msgstr ""
+"Daarnaast hebben we een korte **QGIS Developers Guide** geschreven om u te "
+"helpen bij het coderen voor QGIS. Het verschaft regels, gereedschappen en "
+"stappen om eenvoudig en efficiënt bij te dragen aan de code van QGIS code en"
+" is beschikbaar op https://docs.qgis.org. Het wordt warm aanbevolen om het "
+"te lezen."
+
+#: ../../source/site/getinvolved/development/development.rst:29
+msgid "Plugin Development"
+msgstr "Ontwikkeling van plug-ins"
+
+#: ../../source/site/getinvolved/development/development.rst:31
+msgid ""
+"QGIS has a plugin infrastructure. You can add a lot of new functionality by "
+"writing your own plugins. These plugins can either be written in C++ or in "
+"Python."
+msgstr ""
+"QGIS bezit een infrastructuur voor plug-ins. U kunt veel functionaliteit "
+"toevoegen door uw eigen plug-ins te schrijven. Deze plug-ins mogen worden "
+"geschreven in zowel C++ als in Python."
+
+#: ../../source/site/getinvolved/development/development.rst:34
+msgid ""
+"If you want to contribute to QGIS Project with your plugin, it's highly "
+"recommended to read the **QGIS Developers Guide** at our documentation "
+"website: https://docs.qgis.org"
+msgstr ""
+"Als u wilt bijdragen aan het project QGIS met uw plug-in, wordt in hoge mate"
+" aanbevolen om de **QGIS Developers Guide** te lezen op onze website voor "
+"documentatie: https://docs.qgis.org."
+
+#: ../../source/site/getinvolved/development/development.rst:42
+msgid "Developing C++ Plugin"
+msgstr "Ontwikkelen van plug-ins in C++"
+
+#: ../../source/site/getinvolved/development/development.rst:45
+msgid "Preparing the Environment and Setting up the Repo"
+msgstr "Voorbereiden van de omgeving en instellen van de opslagplaats"
+
+#: ../../source/site/getinvolved/development/development.rst:47
+msgid "Go to the QGIS repository in GitHub at https://github.com/qgis/QGIS/"
+msgstr ""
+"Ga naar de opslagplaats van QGIS in GitHub op https://github.com/qgis/QGIS/"
+
+#: ../../source/site/getinvolved/development/development.rst:48
+msgid ""
+"Make a Fork for yourself. Learn more about forking and keeping your repo in "
+"sync with the main development repo at http://help.github.com/fork-a-repo/"
+msgstr ""
+"Maak een Fork voor uzelf. Leer meer over forken en het gesynchroniseerd "
+"houden van uw repo met de repo van de hoofdontwikkeling op "
+"http://help.github.com/fork-a-repo/"
+
+#: ../../source/site/getinvolved/development/development.rst:50
+msgid ""
+"Clone your personal copy of the repository to your system, and add upstream "
+"as mentioned in above provided link"
+msgstr ""
+"Kloon uw persoonlijke kopie van de opslagplaats naar uw systeem, en voeg "
+"upstream toe zoals vermeld in de hierboven vermelde link"
+
+#: ../../source/site/getinvolved/development/development.rst:52
+msgid ""
+"Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up "
+"the installation environment and make a compilation with ccache enabled."
+msgstr ""
+"Lees de https://github.com/qgis/QGIS/blob/master/INSTALL over het instellen "
+"van de installatie-omgeving en maak een compilatie met ccache ingeschakeld."
+
+#: ../../source/site/getinvolved/development/development.rst:56
+msgid "Setting up the Plugin Directory"
+msgstr "Instellen van de map Plug-in"
+
+#: ../../source/site/getinvolved/development/development.rst:58
+msgid "Inside the QGIS folder::"
+msgstr "Binnen de map QGIS::"
+
+#: ../../source/site/getinvolved/development/development.rst:64
+msgid ""
+"Now follow the instructions in the screen wizard to create a folder for your"
+" plugin. After the required input is given, a folder for the plugin is "
+"created. Read the README inside the plugin folder to create a plugin."
+msgstr ""
+"Volg nu de aanwijzingen in de schermassistent om een map te maken voor uw "
+"plug-in. Nadat de gewenste invoer is verschaft, wordt een map voor de plug-"
+"in gemaakt. Lees README in de map plug-in om een plug-in te maken."
+
+#: ../../source/site/getinvolved/development/development.rst:68
+msgid ""
+"Building QGIS now will also build your plugin. After starting QGIS enable "
+"the plugin to see it and show its dialog."
+msgstr ""
+"Bouwen van QGIS zal nu ook uw plug-in bouwen. Schakel, na het starten van "
+"QGIS, de plug-in in om die te kunnen zien en zijn dialoogvenster weer te "
+"laten geven."
+
+#: ../../source/site/getinvolved/development/development.rst:75
+msgid "Developing Python plugin"
+msgstr "Ontwikkelen van plug-ins in Python "
+
+#: ../../source/site/getinvolved/development/development.rst:77
+msgid "QGIS has a lot to offer to python developers too."
+msgstr "QGIS heeft ook veel te bieden aan ontwikkelaars in Python."
+
+#: ../../source/site/getinvolved/development/development.rst:79
+msgid ""
+"QGIS has python bindings so you can automate tasks in QGIS via python. We "
+"provide a documentation for QGIS API at https://qgis.org/pyqgis/"
+msgstr ""
+"QGIS heeft bindingen voor Python, zodat je taken in QGIS kunt automatiseren "
+"via Python. We verschaffen documentatie voor de API van QGIS op "
+"https://qgis.org/pyqgis/"
+
+#: ../../source/site/getinvolved/development/development.rst:83
+msgid ""
+"You can also have a look into the **Python Cookbook** in our Documentation "
+"site: https://docs.qgis.org/"
+msgstr ""
+"U kunt ook een kijkje nemen in het **Python Cookbook** op onze site voor "
+"documentatie: https://docs.qgis.org/"
+
+#: ../../source/site/getinvolved/development/development.rst:86
+msgid ""
+"Particularly interested in python plugin development, you can find some "
+"instructions at "
+"https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/plugins/index.html"
+msgstr ""
+"Als u in het bijzonder geïnteresseerd bent in het ontwikkelen van Python "
+"plug-ins, vindt u enkele instructies op "
+"https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/plugins/index.html"
+
+#: ../../source/site/getinvolved/development/development.rst:89
+msgid "Looking for examples of python plugins, see https://plugins.qgis.org"
+msgstr ""
+"Bekijk https://plugins.qgis.org voor voorbeelden van plug-ins voor Python."
+
+#~ msgid "Go to the QGIS repository in Github at https://github.com/qgis/QGIS/"
+#~ msgstr ""
+#~ "Ga naar de opslagplaats van QGIS in Github op https://github.com/qgis/QGIS/"
+
+#~ msgid "QGIS has a lot to offer for python developers too."
+#~ msgstr "QGIS heeft ook veel te bieden voor ontwikkelaars in Python."
+
+#~ msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
+#~ msgstr ""
+#~ "Veel functies van QGIS kun je aanroepen via bindingen van Python zodat je "
+#~ "taken in QGIS kunt automatiseren via Python."
+
+#~ msgid ""
+#~ "Interested in python plugin development, easiest way to start is using the "
+#~ "Plugin Builder plugin in QGIS. Search for ``Plugin Builder`` in the plugin "
+#~ "manager of QGIS, or read up here: "
+#~ "https://plugins.qgis.org/plugins/pluginbuilder/"
+#~ msgstr ""
+#~ "Geínteresseerd in ontwikkelen van plug-ins in Python? De gemakkelijkste "
+#~ "manier om te beginnen is om de plug-in Plugin Builder in QGIS te gebruiken. "
+#~ "Zoek naar ``Plugin Builder`` in Plug-ins beheren en installeren van QGIS, of"
+#~ " lees het hier: https://plugins.qgis.org/plugins/pluginbuilder/"
+
+#~ msgid ""
+#~ "You can also have a look into the **Python Cookbook** in our Documentation "
+#~ "site: https://docs.qgis.org."
+#~ msgstr ""
+#~ "U kunt ook een kijkje nemen in het **Python Cookbook** op onze site voor "
+#~ "documentatie: https://docs.qgis.org."
+
+#~ msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
+#~ msgstr ""
+#~ "Bekijk https://plugins.qgis.org voor voorbeelden van plug-ins voor Python."
+
+#~ msgid "You can find the QGIS-iface which you can use via python here:"
+#~ msgstr "U kunt de QGIS-iface, die u via Python kunt gebruiken, hier vinden:"
+
+#~ msgid "https://qgis.org/api/classQgisInterface.html (for QGIS testing)"
+#~ msgstr ""
+#~ "https://qgis.org/api/classQgisInterface.html (voor het testen van QGIS)"
+
+#~ msgid "https://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
+#~ msgstr "https://qgis.org/api/2.0/classQgisInterface.html (voor QGIS 2.0)"
+
+#~ msgid "https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
+#~ msgstr "https://qgis.org/api/1.8/classQgisInterface.html (voor QGIS 1.8)"

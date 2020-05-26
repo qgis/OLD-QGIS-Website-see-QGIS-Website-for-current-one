@@ -1,0 +1,2347 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Darío Hereñú, 2019
+# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"PO-Revision-Date: 2018-07-11 16:48+0000\n"
+"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020\n"
+"Language-Team: Spanish (https://www.transifex.com/qgis/teams/6144/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:5
+msgid "Changelog for QGIS 3.2"
+msgstr "Registro de cambios para QGIS 3.2"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:7
+msgid "|image1|"
+msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:9
+msgid ""
+"The greatest QGIS release ever! QGIS 3.2 brings a massive list of new "
+"changes - the highlights of which we will try to cover here. As always can "
+"we remind you that QGIS is an open source project and if you are able to, "
+"consider supporting our work through :ref:`donations <QGIS-donations>`, "
+":ref:`sustaining memberships <QGIS_sustaining_memberships>` or contributions"
+" to the code documentation, web site and so on."
+msgstr ""
+"¡El mejor lanzamiento de QGIS! QGIS 3.2 trae una masiva lista de nuevos "
+"cambios, cuyos aspectos más destacados trataremos de cubrir aquí. Como "
+"siempre, podemos recordarle que QGIS es un proyecto de código abierto y, si "
+"puede, considere apoyar nuestro trabajo a través de: ref: `donaciones"
+"`,<QGIS-donations> `membresías sostenibles<QGIS_sustaining_memberships>'o "
+"contribuciones a la documentación del código, el sitio web, etc. en."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:12
+msgid "**Thanks**"
+msgstr "**Gracias**"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:14
+msgid ""
+"We would like to thank the developers, documenters, testers and all the many"
+" folks out there who volunteer their time and effort (or fund people to do "
+"so). From the QGIS community we hope you enjoy this release! If you wish to "
+"donate time, money or otherwise get involved in making QGIS more awesome, "
+"please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
+msgstr ""
+"Nos gustaría agradecer a los desarrolladores, documentadores, evaluadores y "
+"a todas las personas que ofrecen su tiempo y esfuerzo (o financian a las "
+"personas para que lo hagan). ¡De la comunidad QGIS esperamos que disfrutes "
+"de esta versión! Si desea donar tiempo, dinero o participar de alguna otra "
+"manera para hacer que QGIS sea más increíble, dese un paseo por `qgis.org "
+"<https://qgis.org>`__ y ¡eche una mano!"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:16
+msgid ""
+"QGIS is supported by donors and sustaining members. A current list of donors"
+" who have made financial contributions large and small to the project can be"
+" seen on our :ref:`donors list <list_of_donors>`. If you would like to "
+"become an official sustaining member, please visit :ref:`our sustaining "
+"membership page <QGIS-sustaining_members>` for details. Supporting QGIS "
+"helps us to fund our six monthly developer meetings, maintain project "
+"infrastructure and fund bug fixing efforts. A complete list of current "
+"sustaining members is provided below - our very great thank you to all of "
+"our supporters!"
+msgstr ""
+"QGIS es apoyado por donantes y miembros de apoyo. Puede ver una lista actual"
+" de donantes que han realizado contribuciones financieras grandes y pequeñas"
+" al proyecto en nuestra: ref: `lista de donantes <list_of_donors>`. Si desea"
+" convertirse en miembro oficial de sostenimiento, visite: `nuestra página de"
+" membresía sustentable <QGIS-sustaining_members>` para más detalles. El "
+"apoyo a QGIS nos ayuda a financiar nuestras seis reuniones mensuales de "
+"desarrolladores, mantener la infraestructura del proyecto y financiar los "
+"esfuerzos de corrección de errores. A continuación se proporciona una lista "
+"completa de los miembros actuales de apoyo: ¡nuestro gran agradecimiento a "
+"todos nuestros apoyadores!"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:18
+msgid ""
+"QGIS is Free software and you are under no obligation to pay anything to use"
+" it - in fact we want to encourage people far and wide to use it regardless "
+"of what your financial or social status is - we believe empowering people "
+"with spatial decision making tools will result in a better society for all "
+"of humanity."
+msgstr ""
+"QGIS es un software gratuito y usted no tiene la obligación de pagar nada "
+"por usarlo; de hecho, queremos alentar a las personas a utilizarlo "
+"independientemente de su estado financiero o social, creemos que empoderar a"
+" las personas con herramientas de toma de decisiones espaciales dar como "
+"resultado una sociedad mejor para toda la humanidad."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:25
+msgid "Sponsors for QGIS version 3.2"
+msgstr "Patrocinadores para la versión QGIS 3.2"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:27
+msgid ""
+"A special thanks to all our :ref:`sustaining members, sponsors and donors "
+"<QGIS-sustaining_members>` for helping us to make this release possible!"
+msgstr ""
+"¡Un agradecimiento especial a todos nuestros:ref:`miembros de apoyo, "
+"patrocinadores y donantes <QGIS-sustaining_members>` por ayudarnos a hacer "
+"posible este lanzamiento!"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:31
+msgid "General"
+msgstr "General"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:34
+msgid "Feature: New zipped project file format .qgz is now the default format"
+msgstr ""
+"Funcionalidad: Nuevo formato de archivo comprimido de proyecto .qgz es ahora"
+" el formato predeterminado"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:36
+msgid ""
+"QGZ was added as an optional format in 3.0. Having this format as the "
+"default format will ease a lot the path to go to a container able to embed "
+"resources like SVG, offline data in GPKG, color ramps, plugins or scripts."
+msgstr ""
+"QGZ fue añadido como un formato adicional en 3.0. Tener este formato como el"
+" predeterminado facilitará mucho el camino para ir a un contenedor capaz de "
+"abarcar recursos como SVG, datos fuera de línea en GPKG, rampas de color, "
+"complementos o scripts."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:39
+msgid "|image29|"
+msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:41
+msgid ""
+"This feature was developed by `OSLANDIA - Paul Blottiere "
+"<https://github.com/pblottiere>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por  `OSLANDIA - Paul Blottiere "
+"<https://github.com/pblottiere>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:44
+msgid "Feature: Filtering for field values in Query Builder"
+msgstr "Funcionalidad: Filtrado de valores de campo en Query Builder"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:46
+msgid ""
+"When creating a new expression filter in query builder, you can now filter "
+"the field values preview panel."
+msgstr ""
+"Cuando creamos una nueva expresión de filtro en el constructor de consultas,"
+" ahora puede filtrar los valores de campo del panel de previsualización."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:48
+msgid "|image30|"
+msgstr "|image30|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:50
+#: ../../source/site/forusers/visualchangelog32/index.rst:457
+#: ../../source/site/forusers/visualchangelog32/index.rst:768
+#: ../../source/site/forusers/visualchangelog32/index.rst:857
+msgid ""
+"This feature was developed by `Salvatore Larosa "
+"<https://github.com/slarosa>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Salvatore Larosa "
+"<https://github.com/slarosa>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:53
+msgid "Feature: FULL screen Map via Ctrl-Shift-Tab"
+msgstr "Funcionalidad: Mapa a pantalla completa via Ctrl-Shift-Tab"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:55
+msgid ""
+"Besides Ctrl-Tab you can now do Ctrl-Shift-Tab, which will show you the Map "
+"and ONLY the Map, no more toolbars or buttons (or even without Window Title,"
+" in combination with F11). Great for Full Screen Map projection via Beamer "
+"or on Big Screens. You can still zoom and pan! (Based on work of Mathieu "
+"Pellerin)"
+msgstr ""
+"Además de Ctrl-Tab ahora puede hacer Ctrl-Shift-Tab, que le mostrará el Mapa"
+" y SOLO el Mapa, no más barras de herramientas o botones (o incluso sin "
+"Barra de Título de Ventana, en combinación con F11). Ideal para la "
+"proyección del mapa en pantalla completa a través de Beamer o en pantallas "
+"grandes. ¡Todavía puedes hacer zoom y desplazarte! (Basado en el trabajo de "
+"Mathieu Pellerin)"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:60
+msgid "|image31|"
+msgstr "|image31|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:62
+msgid "This feature was developed by Richard Duivenvoorde"
+msgstr "Esta funcionalidad fue desarrolladas por Richard Duivenvoorde"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:65
+msgid "Map Tools"
+msgstr "Herramientas de Mapa"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:68
+msgid "Feature: Simplify map tool can now also smooth features"
+msgstr ""
+"Funcionalidad: Herramienta de mapa simplificar ahora también puede suavizar "
+"entidades"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:70
+msgid ""
+"The Simplify Features map tool has been renamed to \"Simplify/Smooth "
+"Features\", and now supports interactive smoothing of features."
+msgstr ""
+"Se ha cambiado el nombre de la herramienta de mapa Simplificar entidades a "
+"\"Simplificar/suavizar entidades\" y ahora admite el suavizado interactivo "
+"de entidades."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:72
+msgid "|image2|"
+msgstr "|image2|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:74
+#: ../../source/site/forusers/visualchangelog32/index.rst:124
+#: ../../source/site/forusers/visualchangelog32/index.rst:144
+#: ../../source/site/forusers/visualchangelog32/index.rst:238
+#: ../../source/site/forusers/visualchangelog32/index.rst:279
+#: ../../source/site/forusers/visualchangelog32/index.rst:318
+#: ../../source/site/forusers/visualchangelog32/index.rst:330
+#: ../../source/site/forusers/visualchangelog32/index.rst:489
+#: ../../source/site/forusers/visualchangelog32/index.rst:571
+#: ../../source/site/forusers/visualchangelog32/index.rst:591
+#: ../../source/site/forusers/visualchangelog32/index.rst:607
+#: ../../source/site/forusers/visualchangelog32/index.rst:616
+#: ../../source/site/forusers/visualchangelog32/index.rst:632
+#: ../../source/site/forusers/visualchangelog32/index.rst:641
+#: ../../source/site/forusers/visualchangelog32/index.rst:650
+#: ../../source/site/forusers/visualchangelog32/index.rst:662
+#: ../../source/site/forusers/visualchangelog32/index.rst:686
+#: ../../source/site/forusers/visualchangelog32/index.rst:695
+#: ../../source/site/forusers/visualchangelog32/index.rst:822
+msgid "This feature was funded by `North Road <https://north-road.com>`__"
+msgstr ""
+"Esta funcionalidad fue fundada por `North Road <https://north-road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:76
+#: ../../source/site/forusers/visualchangelog32/index.rst:126
+#: ../../source/site/forusers/visualchangelog32/index.rst:146
+#: ../../source/site/forusers/visualchangelog32/index.rst:240
+#: ../../source/site/forusers/visualchangelog32/index.rst:281
+#: ../../source/site/forusers/visualchangelog32/index.rst:320
+#: ../../source/site/forusers/visualchangelog32/index.rst:332
+#: ../../source/site/forusers/visualchangelog32/index.rst:471
+#: ../../source/site/forusers/visualchangelog32/index.rst:480
+#: ../../source/site/forusers/visualchangelog32/index.rst:491
+#: ../../source/site/forusers/visualchangelog32/index.rst:553
+#: ../../source/site/forusers/visualchangelog32/index.rst:573
+#: ../../source/site/forusers/visualchangelog32/index.rst:593
+#: ../../source/site/forusers/visualchangelog32/index.rst:609
+#: ../../source/site/forusers/visualchangelog32/index.rst:618
+#: ../../source/site/forusers/visualchangelog32/index.rst:634
+#: ../../source/site/forusers/visualchangelog32/index.rst:643
+#: ../../source/site/forusers/visualchangelog32/index.rst:652
+#: ../../source/site/forusers/visualchangelog32/index.rst:664
+#: ../../source/site/forusers/visualchangelog32/index.rst:673
+#: ../../source/site/forusers/visualchangelog32/index.rst:688
+#: ../../source/site/forusers/visualchangelog32/index.rst:697
+#: ../../source/site/forusers/visualchangelog32/index.rst:710
+#: ../../source/site/forusers/visualchangelog32/index.rst:785
+#: ../../source/site/forusers/visualchangelog32/index.rst:815
+#: ../../source/site/forusers/visualchangelog32/index.rst:824
+#: ../../source/site/forusers/visualchangelog32/index.rst:836
+#: ../../source/site/forusers/visualchangelog32/index.rst:845
+msgid ""
+"This feature was developed by `Nyall Dawson (North Road) <https://north-"
+"road.com>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Nyall Dawson (North Road) <https"
+"://north-road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:79
+msgid "Feature: Identify Tool with extra options"
+msgstr "Funcionalidad: Herramienta identificar con opciones extra"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:81
+msgid ""
+"With the new improvements, user can now use similar tools to the Selection "
+"to identify multiple features."
+msgstr ""
+"Con las nuevas mejoras, el usuario ahora puede usar herramientas similares a"
+" la Selección para identificar múltiples entidades."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:91
+msgid ""
+"This feature was funded by Leicestershire County Council and East Hampshire "
+"District Council"
+msgstr ""
+"Esta funcionalidad fue fundada por Leicestershire County Council y East "
+"Hampshire District Council"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:93
+msgid ""
+"This feature was developed by `Martin Dobias and Viktor Sklencar "
+"<https://www.lutraconsulting.co.uk>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Martin Dobias and Viktor Sklencar "
+"<https://www.lutraconsulting.co.uk>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:96
+msgid "Feature: Store also expanded/collapsed state of nodes in map Themes"
+msgstr ""
+"Funcionalidad: Almacenar también el estado expandido/colapsado de nodos en "
+"los Temas de mapa"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:98
+msgid ""
+"Each map theme will also record which layers, groups and legend items are "
+"expanded, so when a map theme is selected, the expanded/collapsed states get"
+" applied in the layer tree."
+msgstr ""
+"Cada tema de mapa también registrará qué capas, grupos y elementos de "
+"leyenda se expanden, por lo que cuando se selecciona un tema de mapa, los "
+"estados expandidos/contraídos se aplican en el árbol de capas."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:100
+msgid "|image3|"
+msgstr "|image3|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:102
+#: ../../source/site/forusers/visualchangelog32/index.rst:205
+#: ../../source/site/forusers/visualchangelog32/index.rst:440
+#: ../../source/site/forusers/visualchangelog32/index.rst:733
+#: ../../source/site/forusers/visualchangelog32/index.rst:754
+msgid ""
+"This feature was funded by `Arpa Piemonte (Dipartimento Tematico Geologia e "
+"Dissesto) within ERIKUS project <https://www.arpa.piemonte.it/>`__"
+msgstr ""
+"Esta funcionalidad fue fundada por `Arpa Piemonte (Dipartimento Tematico "
+"Geologia e Dissesto) dentro del proyecto ERIKUS "
+"<https://www.arpa.piemonte.it/>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:104
+#: ../../source/site/forusers/visualchangelog32/index.rst:207
+#: ../../source/site/forusers/visualchangelog32/index.rst:735
+msgid ""
+"This feature was developed by `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk>`__ and `Faunalia "
+"<https://www.faunalia.eu>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk>`__ y `Faunalia "
+"<https://www.faunalia.eu>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:107
+msgid "Feature: Auto \"Zoom to Selection\" mode for new map views"
+msgstr ""
+"Funcionalidad: Modo de Auto \"Zoom a Selección\" para nuevas vistas de mapa"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:109
+msgid ""
+"A new map view can be configured to automatically zoom to the current "
+"selection. Could be combined with different map themes as in this example."
+msgstr ""
+"Una nueva vista de mapa fue configurada para hacer zoom automáticamente a la"
+" selección actual. Podría combinarse con diferentes temas de mapa como en "
+"este ejemplo."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:111
+msgid "|image4|"
+msgstr "|image4|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:113
+#: ../../source/site/forusers/visualchangelog32/index.rst:184
+#: ../../source/site/forusers/visualchangelog32/index.rst:247
+msgid ""
+"This feature was funded by `Technology One "
+"<https://www.technologyonecorp.com/>`__"
+msgstr ""
+"Esta funcionalidad fue fundada por `Technology One "
+"<https://www.technologyonecorp.com/>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:115
+#: ../../source/site/forusers/visualchangelog32/index.rst:186
+#: ../../source/site/forusers/visualchangelog32/index.rst:249
+msgid ""
+"This feature was developed by `Nathan Woodrow <https://nathanw.net/>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Nathan Woodrow "
+"<https://nathanw.net/>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:118
+msgid "Feature: Choice of simplification method for simplify map tool"
+msgstr ""
+"Funcionalidad: Elección del método de simplificación para la herramienta de "
+"simplificación de mapa"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:120
+msgid ""
+"This allows different techniques to be used for simplification in the "
+"interactive simplify map tool, including the more cartographically pleasing "
+"\"Visvalingam\" simplification algorithm."
+msgstr ""
+"Esto permite diferentes técnicas a usar para simplificar en la herramienta "
+"de mapa de simplificación interactiva, incluyendo el algoritmo de "
+"simplificación \"Visvalingam\" más cartográficamente agradable."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:122
+msgid "|image5|"
+msgstr "|image5|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:129
+msgid "Feature: add zoom to related feature in forms"
+msgstr "Funcionalidad: agregar zoom a la entidad relatada en los formularios"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:131
+msgid ""
+"A new button appears in the feature attribute sub form when one or more "
+"records are selected in a related table. The button zooms the map to these "
+"features if they have geometries."
+msgstr ""
+"Aparece un nuevo botón en el subformulario de atributo de entidad cuando se "
+"seleccionan uno o más registros en una tabla relatada. El botón acerca el "
+"mapa a estas entidades si tienen geometrías."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:133
+msgid "|image6|"
+msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:135
+msgid "This feature was developed by Jürgen Fischer"
+msgstr "Esta funcionalidad fue desarrollada por Jürgen Fischer"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:138
+msgid "Feature: Cartesian areas/lengths/perimeters in identify results"
+msgstr ""
+"Funcionalidad: Áreas/longitudes/perímetros cartesianos en resultados de "
+"identificación"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:140
+msgid ""
+"In QGIS 3.2 we now show both ellipsoidal and cartesian areas, lengths and "
+"perimeters separately within the identify results panel. Seeing the two "
+"distinct measurements gives users a better understanding of potential issues"
+" in area or distance calculations caused by incorrect projection or "
+"ellipsoid choices."
+msgstr ""
+"En QGIS 3.2 ahora mostramos áreas, longitudes y perímetros elipsoidales y "
+"cartesianos por separado dentro del panel de resultados de identificación. "
+"Ver las dos medidas distintas les brinda a los usuarios una mejor "
+"comprensión de los problemas potenciales en los cálculos de área o distancia"
+" causados por una proyección incorrecta o por elecciones de elipsoide."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:142
+msgid "|image7|"
+msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:149
+msgid "Expressions"
+msgstr "Expresiones"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:152
+msgid "Feature: New expression functions"
+msgstr "Funcionalidad: Nuevas funciones de expresión"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:154
+msgid "color\\_grayscale\\_average()"
+msgstr "color\\_grayscale\\_average()"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:155
+msgid "color\\_mix\\_rgb()"
+msgstr "color\\_mix\\_rgb()"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:156
+msgid "flip\\_coordinates()"
+msgstr "flip\\_coordinates()"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:157
+msgid "wedge\\_buffer()"
+msgstr "wedge\\_buffer()"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:158
+msgid "tapered\\_buffer()"
+msgstr "tapered\\_buffer()"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:159
+msgid "buffer\\_by\\_m()"
+msgstr "buffer\\_by\\_m()"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:161
+msgid "New variables:"
+msgstr "Nuevas variables:"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:163
+msgid "@project\\_home"
+msgstr "@project\\_home"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:164
+msgid "@project\\_author"
+msgstr "@project\\_author"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:165
+msgid "@project\\_abstract"
+msgstr "@project\\_abstract"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:166
+msgid "@project\\_creation\\_date"
+msgstr "@project\\_creation\\_date"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:167
+msgid "@project\\_identifier"
+msgstr "@project\\_identifier"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:168
+msgid "@project\\_keywords"
+msgstr "@project\\_keywords"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:170
+msgid "This feature was developed by Mathieu Pellerin, Nyall Dawson"
+msgstr ""
+"Esta funcionalidad fue desarrollada por Mathieu Pellerin, Nyall Dawson"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:173
+msgid "Feature: More helpful expression builder"
+msgstr "Funcionalidad: Expression Builder más útil"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:175
+msgid ""
+"The expression builder now makes it easier to build expressions within QGIS!"
+msgstr ""
+"El constructor de expresiones ahora hace mas fácil construir expresiones "
+"dentro de QGIS!"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:177
+msgid ""
+"The builder now shows the description for data defined values, including the"
+" range of expected values from the expression"
+msgstr ""
+"El generador ahora muestra la descripción de los valores definidos por los "
+"datos, incluido el rango de valores esperados de la expresión"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:178
+msgid ""
+"Ctrl+clicking a function name in the current expression will automatically "
+"open the help for that function"
+msgstr ""
+"Ctrl+clic en el nombre de una función en la expresión actual abrirá "
+"automáticamente la ayuda para esa función"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:179
+msgid "It now shows indicators for parts of expressions with errors"
+msgstr "Ahora muestra indicadores para partes de expresiones con errores"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:180
+msgid ""
+"It shows a complete list of error messages obtained from parsing the "
+"expression"
+msgstr ""
+"Muestra una lista completa de mensajes de error obtenidos analizando la "
+"expresión"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:182
+msgid "|image8|"
+msgstr "|image8|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:189
+msgid "User Interface"
+msgstr "Interfaz de Usuario"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:192
+msgid "Feature: Layers panel: indicators for filtered map layers"
+msgstr ""
+"Funcionalidad: Panel de capas: Indicadores para capas de mapa filtradas"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:194
+msgid ""
+"The main window's layer tree view (ToC) gets support for indicators that are"
+" shown when a vector layer has a filter applied. This makes it easier for "
+"users to understand that they are looking at a subset of all data. Clicking "
+"the indicator's icon brings up query builder."
+msgstr ""
+"La vista de árbol de capa (ToC) de la ventana principal obtiene soporte para"
+" los indicadores que se muestran cuando una capa vectorial tiene un filtro "
+"aplicado. Esto facilita a los usuarios comprender que están viendo un "
+"subconjunto de todos los datos. Al hacer clic en el icono del indicador, "
+"aparece el generador de consultas."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:196
+msgid ""
+"This adds a mini-framework for display of extra icons in layer tree views "
+"next to layer and group names. Tool tip text can be associated with "
+"indicators to give extra context for indicators. In addition, a signal gets "
+"emitted when user clicks indicators and custom actions can be defined. The "
+"idea is that indicators can be used in the future for a subtle reporting of "
+"various bits of information, for example:"
+msgstr ""
+"Esto agrega un minimarco para mostrar iconos adicionales en las vistas de "
+"árbol de capas junto a los nombres de capas y grupos. El texto de "
+"información sobre herramientas puede asociarse con indicadores para "
+"proporcionar un contexto adicional para los indicadores. Además, se emite "
+"una señal cuando el usuario hace clic en los indicadores y se pueden definir"
+" acciones personalizadas. La idea es que los indicadores se puedan usar en "
+"el futuro para un sutil informe de varios bits de información, por ejemplo:"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:198
+msgid "map layer with invalid geometries"
+msgstr "capa de mapa con geometrías inválidas"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:199
+msgid "map layer with on-the-fly reprojection exceptions"
+msgstr "capa de mapa con excepciones de reproyección al vuelo"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:200
+msgid "map layer has missing data source"
+msgstr "capa de mapa tiene fuente de datos desaparecida"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:201
+msgid "map layer with invalid CRS"
+msgstr "capa de mapa con CRS inválido"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:203
+msgid "|image9|"
+msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:210
+msgid "Feature: Allow customizing prefix of locator filters"
+msgstr ""
+"FUncionalidad: Permitir personalizar el prefijo de los filtros de "
+"localización"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:212
+msgid ""
+"Prefixes of locator filters can now be customized under the application "
+"settings in the \"Locator\" tab"
+msgstr ""
+"Los prefijos de los filtros de localización ahora pueden ser personalizados "
+"en los ajustes de la aplicación en la pestaña \"Locator\""
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:214
+msgid "|image10|"
+msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:216
+#: ../../source/site/forusers/visualchangelog32/index.rst:524
+msgid ""
+"This feature was funded by `QGIS User Group Switzerland <https://qgis.ch>`__"
+msgstr ""
+"Esta funcionalidad fue fundada por `QGIS User Group Switzerland "
+"<https://qgis.ch>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:218
+#: ../../source/site/forusers/visualchangelog32/index.rst:409
+msgid ""
+"This feature was developed by `Denis Rouzaud, OPENGIS.ch "
+"<https://opengis.ch>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Denis Rouzaud, OPENGIS.ch "
+"<https://opengis.ch>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:221
+msgid ""
+"Feature: Opening of vector and raster stored on HTTP(S), FTP, or cloud "
+"services"
+msgstr ""
+"Funcionalidad: Apertura de vectorial o ráster almacenados en HTTP(s), FTP, o"
+" servicios en la nube"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:223
+msgid ""
+"In 3.2, the data source manager's vector and raster panels have been updated"
+" to simplify opening of vector and raster datasets stored on HTTP(S), FTP, "
+"or cloud services. Basic HTTP(S) authentication support included."
+msgstr ""
+"En 3.2, los paneles vectoriales y ráster del administrador de origen de "
+"datos se han actualizado para simplificar la apertura de los conjuntos de "
+"datos vectoriales y ráster almacenados en HTTP (S), FTP o servicios en la "
+"nube. Soporte básico de autenticación HTTP (S) incluido."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:225
+msgid "|image11|"
+msgstr "|image11|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:227
+#: ../../source/site/forusers/visualchangelog32/index.rst:302
+#: ../../source/site/forusers/visualchangelog32/index.rst:343
+#: ../../source/site/forusers/visualchangelog32/index.rst:348
+#: ../../source/site/forusers/visualchangelog32/index.rst:353
+#: ../../source/site/forusers/visualchangelog32/index.rst:535
+#: ../../source/site/forusers/visualchangelog32/index.rst:600
+msgid ""
+"This feature was developed by `Mathieu Pellerin <http://www.imhere-"
+"asia.com/>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Mathieu Pellerin <http://www"
+".imhere-asia.com/>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:230
+msgid "Feature: Quick calculator in locator search bar"
+msgstr ""
+"Funcionalidad: Calculadora rápida en la barra de búsqueda del localizador"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:232
+msgid ""
+"QGIS 3.2 allows evaluation of simple expressions (well, actually ANY QGIS "
+"expression... so you could use aggregates and the like if you really "
+"wanted!) by entering \"= \" followed by an expression into the locator bar. "
+"If a valid expression is entered, users are given an option to copy the "
+"result to the clipboard."
+msgstr ""
+"QGIS 3.2 permite la evaluación de expresiones simples (bueno, en realidad "
+"CUALQUIER expresión de QGIS ... para que pueda usar agregados y similares si"
+" realmente lo desea) ingresando \"= \" seguido de una expresión en la barra "
+"de localización. Si se ingresa una expresión válida, los usuarios tienen la "
+"opción de copiar el resultado al portapapeles."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:234
+msgid ""
+"E.g. entering \"= 10/3\" shows a locator entry \"Copy '3.3333333' to "
+"clipboard\"."
+msgstr ""
+"P.ej. ingresando \"= 10/3\" muestra una entrada del localizador \"Copy "
+"'3.3333333' to clipboard\"."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:236
+msgid "|image12|"
+msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:243
+msgid "Feature: Shortcuts for toggling panels"
+msgstr "Funcionalidad: Accesos directos para alternar paneles"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:245
+msgid "Ctrl+{no} shortcut"
+msgstr "Atajo Ctrl+{no}"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:252
+msgid "Feature: Bookmark searching in locator"
+msgstr "Funcionalidad: Marcador de búsqueda en el localizador"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:254
+msgid ""
+"Allows search for spatial bookmarks. Double clicking a search result will "
+"zoom to the bookmark."
+msgstr ""
+"Permite buscar marcadores espaciales. Doble Click en el resultado de una "
+"búsqueda hará zoom al marcador."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:256
+msgid "Short video: https://www.youtube.com/watch?v=ymW4TU8QWy4"
+msgstr "Pequeño video: https://www.youtube.com/watch?v=ymW4TU8QWy4"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:258
+msgid ""
+"The new filter presents itself with a prefix of \"b\" and with tr( \"Spatial"
+" bookmarks\" ) as displayname."
+msgstr ""
+"El nuevo video se presenta a sí mismo con un prefijo de \"b\" y con "
+"tr(\"Marcadores espaciales\") como nombre en pantalla."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:260
+#: ../../source/site/forusers/visualchangelog32/index.rst:311
+msgid "This feature was developed by Klavs Pihlkjær"
+msgstr "Esta funcionalidad fue desarrollada por Klavs Pihlkjær"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:263
+msgid "Feature: Close and Revert Project actions"
+msgstr "Funcionalidad: Acciones Close y Revert Project"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:265
+msgid "Two new actions have been added to the \"Project\" menu"
+msgstr "Se han añadido al menu \"Proyecto\" dos nuevas acciones"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:267
+msgid ""
+"\"Close\": Closes the active project, returning the QGIS window to the "
+"\"Recent Projects\" list"
+msgstr ""
+"\"Close\": Cierra el proyecto activo, retornando a la ventana de QGIS a la "
+"lista de \"Proyectos Recientes\""
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:268
+msgid ""
+"\"Revert\": Restores the active project to the last saved state, discarding "
+"all unsaved changes"
+msgstr ""
+"\"Revert\": Restaura el proyecto activo al último estado guardado, "
+"descartando todos los cambios no guardados"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:270
+msgid "|image13|"
+msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:272
+msgid "This feature was developed by Nathan Woodrow, Nyall Dawson"
+msgstr "Esta funcionalidad fue desarrollada por Nathan Woodrow, Nyall Dawson"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:275
+msgid "Feature: Unsaved changes indicator in title bar"
+msgstr "Funcionalidad: Indicador de cambios sin guardar en la barra de título"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:277
+msgid ""
+"QGIS 3.2 now follows the standard UI approach of indicating that the current"
+" project has unsaved changes by adding a \"\\*\" prefix to the project name "
+"in the application title bar. This makes it easy to see if you have unsaved "
+"changes at a single glance!"
+msgstr ""
+"QGIS 3.2 ahora sigue el enfoque estándar de la interfaz de usuario de "
+"indicar que el proyecto actual tiene cambios sin guardar agregando un "
+"prefijo \"\\*\" al nombre del proyecto en la barra de título de la "
+"aplicación. ¡Esto hace que sea fácil ver si tiene cambios sin guardar de un "
+"vistazo!"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:284
+msgid "Feature: Configurable map tips delay"
+msgstr "Funconalidad: Demora de consejos de mapas configurables"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:286
+msgid "This feature was developed by jdugge"
+msgstr "Esta funcionalidad fue desarrollada por jdugge"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:289
+msgid "Feature: Move layer or group to top of layer panel"
+msgstr ""
+"Funcionalidad: Mover capa o grupo a la parte superior del panel de capas"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:291
+msgid "Moves the selected layer(s) or group(s) to the top of the layer panel."
+msgstr ""
+"Mueve la(s) capa(s) seleccionada(s) o grupo(s) a la cabeza del panel de "
+"capas."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:293
+msgid "This feature was developed by Mie Winstrup"
+msgstr "Esta funcionalidad fue desarrollada por Mie Winstrup"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:296
+msgid "Feature: Copy statistics panel content to clipboard button"
+msgstr ""
+"Funcionalidad: Copiar contenido del panel de estadísticas al portapapeles"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:298
+msgid ""
+"It is now possible to copy the statistics panel's output table into the "
+"clipboard."
+msgstr ""
+"Ahora es posible copiar la tabla saliente del panel de estadísticas al "
+"portapapeles."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:300
+msgid "|image14|"
+msgstr "|image14|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:305
+msgid ""
+"Feature: Search Settings, Options, and Project Properties pages from locator"
+msgstr ""
+"Funcionalidad: Search Settings, Options, y Project Properties páginas desde "
+"el localizador"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:307
+msgid "Short video: https://www.youtube.com/watch?v=duB2YekUmV0"
+msgstr "Pequeño video: https://www.youtube.com/watch?v=duB2YekUmV0"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:309
+msgid ""
+"The new filter presents itself with a prefix of \"s\" and with tr( "
+"\"Settings\" ) as displayname."
+msgstr ""
+"El nuevo filtro se presenta a sí mismo con un prefijo de \"s\" y con "
+"tr(\"Ajustes\") como nombre en pantalla."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:314
+msgid "Feature: Indicators for embedded layers and groups"
+msgstr "Funcionalidad: Los indicadores para capas y grupos incrustados"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:316
+msgid ""
+"Embedded project layers and groups are now flagged by a handy \"embedded\" "
+"indicator, making it immediately clear to users which layers and groups have"
+" been embedded inside a project."
+msgstr ""
+"Las capas y grupos incrustados en proyectos ahora están marcados con un "
+"práctico indicador \"incrustado\", que deja claro inmediatamente a los "
+"usuarios qué capas y grupos se han incrustado dentro de un proyecto."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:323
+msgid "Symbology"
+msgstr "Simbología"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:326
+msgid "Feature: Nicer colors for new layers"
+msgstr "Funcionalidad: Colores mas agradables para nuevas capas"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:328
+msgid ""
+"The \"random\" colors assigned to new map layers are no longer \"random\" "
+"but instead randomly selected from a preset palette of \"visually pleasing\""
+" colors. Say goodbye to ugly baby puke green layers!"
+msgstr ""
+"Los colores \"aleatorios\" asignados a las nuevas capas del mapa ya no son "
+"\"aleatorios\", sino que se seleccionan aleatoriamente de una paleta "
+"preestablecida de colores \"visualmente agradables\". ¡Dile adiós al feo "
+"verde vómito de bebe para capas!"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:335
+msgid "Rendering"
+msgstr "Representando"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:338
+msgid "Feature: Improved map Copyright decoration"
+msgstr "Funcionalidad: Decoración del Copyright del mapa mejorada"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:340
+msgid "Expression support for the copyright text."
+msgstr "Soporte de expresión para el texto del copyright."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:341
+msgid ""
+"Improved text formatting options, including shadows, outlines, backgrounds, "
+"etc."
+msgstr ""
+"Opciones de formato de texto mejoradas, incluyendo sombras, bordes, fondos, "
+"etc."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:346
+msgid "Feature: Main window scale bar font size and family can be customized"
+msgstr ""
+"Funcionalidad: El tamaño y familia de fuente de la barra de escala de la "
+"Ventana principal pueden ser personalizados"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:351
+msgid "Feature: Custom SVG path and size for the north arrow decoration"
+msgstr ""
+"Funcionalidad: Tamaño y ruta SVG personalizados para la decoración de la "
+"flecha de norte"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:356
+msgid "Data Management"
+msgstr "Administración de Datos"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:359
+msgid "Feature: Refresh a materialized view"
+msgstr "Funcionalidad: Refrescar una vista materializada"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:361
+msgid ""
+"From the browser, with a right click on a materialized view, you can now "
+"refresh it."
+msgstr ""
+"Desde el navegador, con click derecho en una capa materializada, ahora puede"
+" refrescarla."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:363
+msgid "|image15|"
+msgstr "|image15|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:365
+msgid ""
+"This feature was developed by `Etienne Trimaille "
+"<https://github.com/Gustry>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Etienne Trimaille "
+"<https://github.com/Gustry>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:368
+msgid "Feature: Z and M support for offline editing"
+msgstr "Funcionalidad: Soporte de Z y M para edición fuera de línea"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:370
+msgid "Offline editing now also supports layers with Z and M coordinates."
+msgstr ""
+"La edición fuera de línea ahora también soporta capas con coordenadas Z y M."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:372
+msgid ""
+"This feature was funded by `Oester Messtechnik <https://messtechnik.ch/>`__"
+msgstr ""
+"Esta funcionalidad fue fundada por `Oester Messtechnik "
+"<https://messtechnik.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:374
+#: ../../source/site/forusers/visualchangelog32/index.rst:526
+msgid ""
+"This feature was developed by `Matthias Kuhn, OPENGIS.ch "
+"<https://opengis.ch>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Matthias Kuhn, OPENGIS.ch "
+"<https://opengis.ch>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:377
+msgid "Feature: Metadata for QGIS projects"
+msgstr "Funcionalidad: Metadatos para proyectos QGIS"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:379
+msgid ""
+"Continuing the metadata work begun in QGIS 3.0, 3.2 now supports metadata "
+"for QGIS projects. This allows for detailed metadata to be set in project "
+"properties, including abstracts, keywords, contact details, links, etc."
+msgstr ""
+"Continuando con el trabajo de metadatos iniciado en QGIS 3.0, 3.2 ahora "
+"admite metadatos para proyectos QGIS. Esto permite establecer metadatos "
+"detallados en las propiedades del proyecto, incluidos resúmenes, palabras "
+"clave, detalles de contacto, enlaces, etc."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:381
+msgid "|image16|"
+msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:383
+#: ../../source/site/forusers/visualchangelog32/index.rst:478
+msgid ""
+"This feature was funded by Arpa Piemonte (Dipartimento Tematico Geologia e "
+"Dissesto) within ERIKUS project"
+msgstr ""
+"Esta funcionalidad fue fundada por Arpa Piemonte (Dipartimento Tematico "
+"Geologia e Dissesto) dentro del proyecto ERIKUS"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:385
+msgid ""
+"This feature was developed by `Nyall Dawson (North Road) <https://north-"
+"road.com>`__ and `Faunalia <https://www.faunalia.eu>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Nyall Dawson (North Road) <https"
+"://north-road.com>`__ y `Faunalia <https://www.faunalia.eu>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:388
+msgid "Forms and Widgets"
+msgstr "Formularios y Widgets"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:391
+msgid "Feature: Multi-column layout for multiselect value relation widget"
+msgstr ""
+"Funcionalidad: Diseño de varias columnas para widget de relación de valor de"
+" selección múltiple"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:393
+msgid ""
+"The value relation widget with multi selection enabled now supports multiple"
+" columns. This allows better usage of horizontal screen space."
+msgstr ""
+"El widget de relación de valor con selección múltiple habilitada ahora "
+"admite varias columnas. Esto permite un mejor uso del espacio horizontal de "
+"la pantalla."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:395
+msgid "|image17|"
+msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:397
+msgid ""
+"This feature was funded by `Grundbuch- und Vermessungsamt des Kanton Zug "
+"<https://www.zg.ch/behoerden/direktion-des-innern/grundbuch-und-"
+"vermessungsamt/gis-fachstelle>`__"
+msgstr ""
+"Esta funcionalidad fue fundada por `Grundbuch- und Vermessungsamt des Kanton"
+" Zug <https://www.zg.ch/behoerden/direktion-des-innern/grundbuch-und-"
+"vermessungsamt/gis-fachstelle>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:399
+msgid ""
+"This feature was developed by `David Signer, OPENGIS.ch "
+"<https://opengis.ch>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `David Signer, OPENGIS.ch "
+"<https://opengis.ch>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:402
+msgid "Feature: Allow using a URL for custom attribute forms (UI file)"
+msgstr ""
+"Funcionalidad: Permitir el uso de una URL para formularios de atributos "
+"personalizados (archivo UI)"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:404
+msgid ""
+"The UI file will be downloaded on every session on the first usage. This "
+"makes it possible to easily distribute updated UI files to clients."
+msgstr ""
+"El archivo UI se descargará en cada sesión en el primer uso. Esto hace "
+"posible distribuir fácilmente los archivos actualizados de la interfaz de "
+"usuario a los clientes."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:407
+msgid "This feature was funded by `SIRS <http://www.sirs-fr.com>`__"
+msgstr "Esta funcionalidad fue fundada por `SIRS <http://www.sirs-fr.com>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:412
+msgid "Feature: Drill-down (cascading) forms"
+msgstr "Funcionalidad: Formularios Drill-down (en cascada)"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:414
+msgid ""
+"QGIS 3.2 introduces drill-down (cascading) form support, where the values "
+"available in one field depend on the values of other fields. This feature "
+"allows users to create “value-relation” expressions based on the current "
+"value of another field in the same form. When the user modifies a field’s "
+"value, the choices available in all related fields are filtered to match the"
+" new value – allowing a hierarchical filtering strategy (drill-down, or "
+"cascading) inside a form."
+msgstr ""
+"QGIS 3.2 introduce soporte de formulario de desglose (en cascada), donde los"
+" valores disponibles en un campo dependen de los valores de otros campos. "
+"Esta característica permite a los usuarios crear expresiones de \"relación "
+"de valor\" basadas en el valor actual de otro campo en el mismo formulario. "
+"Cuando el usuario modifica el valor de un campo, las opciones disponibles en"
+" todos los campos relacionados se filtran para que coincidan con el nuevo "
+"valor, lo que permite una estrategia de filtrado jerárquico (desglose o en "
+"cascada) dentro de un formulario."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:416
+msgid "|image18|"
+msgstr "|image18|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:426
+msgid ""
+"This feature was funded by Grant Boxer, NaturalGIS, Tudor Bărăscu, NotioGIS,"
+" République et canton de Neuchâtel, Arpa Piemonte, Nelson Silva, QGIS Danish"
+" User Group, Bo Victor Thomsen and Lene Fischer, North River Geographic"
+msgstr ""
+"Esta funcionalidad fue fundada por Grant Boxer, NaturalGIS, Tudor Bărăscu, "
+"NotioGIS, République et canton de Neuchâtel, Arpa Piemonte, Nelson Silva, "
+"QGIS Danish User Group, Bo Victor Thomsen y Lene Fischer, North River "
+"Geographic"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:428
+msgid ""
+"This feature was developed by `Alessandro Pasotti (North Road) <https"
+"://north-road.com>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Alessandro Pasotti (North Road) "
+"<https://north-road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:431
+msgid "Layer Legend"
+msgstr "Leyenda de capa"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:434
+msgid "Feature: Optional text on top of symbols for vector layers"
+msgstr ""
+"Funcionalidad: Texto opcional en la parte superior de los símbolos para "
+"capas vectoriales"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:436
+msgid ""
+"This feature allows users to add extra information to the symbols in the "
+"legend."
+msgstr ""
+"Esta funcionalidad permite a los usuarios añadir información extra a los "
+"símbolos en la leyenda."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:438
+msgid "|image19|"
+msgstr "|image19|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:442
+msgid ""
+"This feature was developed by `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk>`__  and `Faunalia "
+"<https://www.faunalia.eu>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk>`__ y `Faunalia "
+"<https://www.faunalia.eu>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:445
+msgid "Feature: Copy&Paste Group/Layers from a QGIS project to another."
+msgstr ""
+"Funcionalidad: Copiar&Pegar Grupo/capas desde un proyecto QGIS a otros."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:447
+msgid ""
+"Allowing to copy and paste groups or layers between projects and profiles."
+msgstr "Permitiendo copiar y pegar grupos o capas entre proyectos y perfiles."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:460
+msgid "Map Composer"
+msgstr "Compositor de mapa"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:463
+msgid "Feature: Data defined table source for attribute table items"
+msgstr ""
+"Funcionalidad: Fuente de tabla definida por datos para elementos de tabla de"
+" atributos"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:465
+msgid ""
+"When an attribute table is set to a \"Layer features\" source, this new "
+"feature allows the underlying vector layer from which to source features to "
+"be data defined."
+msgstr ""
+"Cuando una tabla de atributos se establece en una fuente de "
+"\"Características de capa\", esta nueva característica permite que la capa "
+"vectorial subyacente desde la cual se originan las características se "
+"definan con datos."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:467
+msgid ""
+"(All existing table attributes (column settings) are left intact, so setting"
+" a data defined table to a layer with different fields will result in empty "
+"columns in the table.)"
+msgstr ""
+"(Todos los atributos de tabla existentes (configuración de columna) se dejan"
+" intactos, por lo que establecer una tabla definida por datos en una capa "
+"con diferentes campos dará como resultado columnas vacías en la tabla)."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:469
+msgid ""
+"This feature was funded by `Kartoza/InaSAFE <http://kartoza.com/en/>`__"
+msgstr ""
+"Esta fucionalidad fue fundada por `Kartoza/InaSAFE "
+"<http://kartoza.com/en/>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:474
+msgid "Feature: Project metadata embedded in layout exports"
+msgstr ""
+"Funcionalidad: Metadatos del proyecto incrustados en exportaciones de diseño"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:476
+msgid ""
+"Saving a print layout to SVG, PDF or images will now embed any project "
+"metadata in the created file. Support for different metadata elements "
+"depends on the individual export format."
+msgstr ""
+"Guardar un diseño de impresión en SVG, PDF o imágenes ahora incrustará "
+"cualquier metadato del proyecto en el archivo creado. La compatibilidad con "
+"diferentes elementos de metadatos depende del formato de exportación "
+"individual."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:483
+msgid "Feature: Better formatting for scalebar text"
+msgstr "Funcionalidad: Mejor formato para el texto de la barra de escala"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:485
+msgid ""
+"QGIS 3.2 allows the full range of text formatting options to be used within "
+"scalebar text, e.g. buffers, shadows, and background shapes."
+msgstr ""
+"QGIS 3.2 permite utilizar la gama completa de opciones de formato de texto "
+"dentro del texto de la barra de escala, p. ej. buffers, sombras y formas de "
+"fondo."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:487
+msgid "Unreadable scale bar text is a thing of the past!"
+msgstr "Texto de la barra de escala ilegible es cosa del pasado!"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:494
+msgid "Processing"
+msgstr "Procesando"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:497
+msgid "Feature: Improved 'Join by attribute table' algorithm"
+msgstr "Funcionalidad: Algoritmo mejorado 'Unir por tabla de atributos'"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:499
+msgid ""
+"The 'Join by attribute table' algorithm has been upgraded to support one-to-"
+"many joins (i.e. create separate features for each matching feature) as well"
+" as an option to discard records which could not be joined. Additionally, an"
+" optional prefix for joined fields can now be specified."
+msgstr ""
+"El algoritmo 'Unir por tabla de atributos' se ha actualizado para admitir "
+"uniones uno a muchos (es decir, crear características separadas para cada "
+"característica coincidente), así como una opción para descartar registros "
+"que no se pudieron unir. Además, ahora se puede especificar un prefijo "
+"opcional para campos unidos."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:501
+msgid "|image20|"
+msgstr "|image20|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:503
+msgid ""
+"This feature was developed by `Mathieu Pellerin, Nyall Dawson <http://www"
+".imhere-asia.com/>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Mathieu Pellerin, Nyall Dawson "
+"<http://www.imhere-asia.com/>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:506
+msgid "Feature: Load script from template"
+msgstr "Funcionalidad: Cargar script desde modelo"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:508
+msgid "New option to load Processing scripts from a custom template"
+msgstr ""
+"Nueva opción para cargar scripts de Procesamiento desde un modelo "
+"personalizado"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:510
+msgid "|image21|"
+msgstr "|image21|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:512
+msgid ""
+"This feature was developed by `Matteo Ghetta (Faunalia) "
+"<http://www.faunalia.eu/>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollado por `Matteo Ghetta (Faunalia) "
+"<http://www.faunalia.eu/>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:515
+msgid "Feature: Feature filter algorithm for processing models"
+msgstr ""
+"Funcionalidad: Algoritmo de filtrado de entidades para procesar modelos"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:517
+msgid ""
+"Add a new feature filter algorithm for the processing modeler. Allows "
+"filtering features of a source based on expressions and send matching "
+"features to different outputs as final products or different algorithm "
+"pipeline for further processing."
+msgstr ""
+"Agregar un nuevo algoritmo de filtro de entidades para el modelador de "
+"procesamiento. Permite filtrar entidades de una fuente basada en expresiones"
+" y enviar entidades coincidentes a diferentes salidas como productos finales"
+" o canalizaciones de algoritmos diferentes para su posterior procesamiento."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:520
+msgid ""
+"Read this `blog post for more information <http://www.opengis.ch/2018/05/28"
+"/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/>`__."
+msgstr ""
+"Leer esta `entrada de blog para más información "
+"<http://www.opengis.ch/2018/05/28/how-to-filter-features-in-qgis-using-the-"
+"graphical-processing-modeler/>`__."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:522
+msgid "|image22|"
+msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:529
+msgid "Feature: Zonal histogram"
+msgstr "Funcionalidad: Histograma Zonal"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:531
+msgid ""
+"This new algorithm appends fields representing counts of each unique value "
+"from a raster layer contained within zones defined as polygons."
+msgstr ""
+"Este nuevo algoritmo agrega campos que representan recuentos de cada valor "
+"único de una capa ráster contenida dentro de zonas definidas como polígonos."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:533
+msgid "|image23|"
+msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:538
+msgid "Feature: Port Union, Difference and Intersection algorithms to C++"
+msgstr ""
+"Funcionalidad: portar Union, algoritmos de diferencia e intersección a C ++"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:540
+msgid ""
+"QGIS native geoprocessing algorithms have been ported from Python to C++. In"
+" addition to performance boost, several bugs have been resolved with this "
+"update."
+msgstr ""
+"Los algoritmos de geoprocesamiento nativos de QGIS se han portado de Python "
+"a C ++. Además del aumento de rendimiento, se han resuelto varios errores "
+"con esta actualización."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:542
+#: ../../source/site/forusers/visualchangelog32/index.rst:719
+msgid "This feature was funded by `InaSAFE DFAT <https://www.dfat.gov.au/>`__"
+msgstr ""
+"Esta funcionalidad fue fundada por `InaSAFE DFAT "
+"<https://www.dfat.gov.au/>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:544
+msgid ""
+"This feature was developed by `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:547
+msgid "Feature: 'Project points (cartesian)' algorithm"
+msgstr "Funcionalidad: algoritmo 'proyectar puntos (cartesianos)'"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:549
+msgid ""
+"This new Processing algorithm projects points from an input point layer by a"
+" specified distance and bearing (azimuth). It supports dynamic parameters "
+"for the distance and bearing so that the distance and bearing can be taken "
+"from field values or expressions."
+msgstr ""
+"Este nuevo algoritmo de procesamiento proyecta puntos desde una capa de "
+"puntos de entrada por una distancia y rumbo especificados (acimut). Admite "
+"parámetros dinámicos para la distancia y rumbo, de modo que la distancia y "
+"la demora pueden tomarse de los valores de campo o expresiones."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:551
+msgid ""
+"This feature was funded by `Nyall Dawson (North Road) <https://north-"
+"road.com>`__"
+msgstr ""
+"Esta funcionalidad fue fundada por `Nyall Dawson (North Road) <https"
+"://north-road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:556
+msgid "Feature: Dynamic parameter values for more algorithms"
+msgstr "Funcionalidad: Valores de parámetros dinámicos para mas algoritmos"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:558
+msgid ""
+"QGIS 3.2 extends the work begun in 3.0 to allow \"dynamic\" parameters for "
+"selected Processing algorithms. Dynamic parameters allow users to use "
+"expressions or field values to specify the value of a parameter while the "
+"algorithm executes, so e.g. the buffer size can be dynamically calculated "
+"for each individual feature buffered."
+msgstr ""
+"QGIS 3.2 extiende el trabajo iniciado en 3.0 para permitir parámetros "
+"\"dinámicos\" para algoritmos de procesamiento seleccionados. Los parámetros"
+" dinámicos permiten a los usuarios usar expresiones o valores de campo para "
+"especificar el valor de un parámetro mientras se ejecuta el algoritmo, por "
+"ejemplo: El tamaño del búfer se puede calcular dinámicamente para cada "
+"característica individual almacenada en búfer."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:560
+msgid "In 3.2 the following algorithms now support dynamic parameters:"
+msgstr "En 3.2 los siguientes algoritmos ahora soportan parámetros dinámicos:"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:562
+msgid "Delete holes"
+msgstr "Borrar huecos"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:563
+msgid "Remove Duplicate Vertices"
+msgstr "Borrar Vértices duplicados"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:564
+msgid "Simplify"
+msgstr "implificar"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:565
+msgid "Smooth"
+msgstr "Suavizar"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:566
+msgid "Snap to Grid"
+msgstr "Anclar a la malla"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:567
+msgid "Subdivide"
+msgstr "Subdividir"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:568
+msgid "Transect"
+msgstr "Transectar"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:569
+msgid "Translate"
+msgstr "Trasladar"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:576
+msgid "Feature: Multi-ring buffer (constant distance) algorithm"
+msgstr "Funconalidad: algoritmo de Buffer multi-anillo (distancia constante)"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:578
+msgid ""
+"This new algorithm computes multi-ring ('donuts') buffer for all the "
+"features in an input layer, using a fixed or dynamic distance and rings "
+"number."
+msgstr ""
+"Este nuevo algoritmo calcula el búfer de múltiples anillos ('donuts') para "
+"todas las entidades en una capa de entrada, utilizando una distancia fija o "
+"dinámica y un número de anillos."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:580
+msgid "This feature was developed by Alex Bruy"
+msgstr "Esta funcionalidad fue desarrollada por Alex Bruy"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:583
+msgid "Feature: New \"segmentize\" algorithms"
+msgstr "Funcionalidad: Nuevos algoritmos \"Segmentar\""
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:585
+msgid ""
+"In QGIS 3.2 two new algorithms for segmentizing curved geometries have been "
+"added to Processing."
+msgstr ""
+"En QGIS 3.2 dos nuevos algoritmos para segmentar geometrías curvas han sido "
+"añadidos a Procesamiento."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:587
+msgid ""
+"\"Segmentize by maximum distance\": The segmentization is performed by "
+"specifying the maximum allowed offset distance between the original curve "
+"and the segmentized representation."
+msgstr ""
+"\"Segmentize by maximum distance\": La segmentación se realiza especificando"
+" la distancia de desplazamiento máxima permitida entre la curva original y "
+"la representación segmentada."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:589
+msgid ""
+"\"Segmentize by maximum angle\": The segmentization is performed by "
+"specifying the maximum allowed radius angle between vertices on the "
+"straightened geometry (e.g the angle of the arc created from the original "
+"arc center to consective output vertices on the linearized geometry)."
+msgstr ""
+"\"Segmentize by maximum angle\": La segmentación se realiza especificando el"
+" ángulo de radio máximo permitido entre vértices en la geometría enderezada "
+"(por ejemplo, el ángulo del arco creado desde el centro del arco original a "
+"los vértices de salida consecutivos en la geometría linealizada)."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:596
+msgid "Feature: Option to create points on all polygon parts"
+msgstr "Funcionalidad: Opción de crear puntos en todas las partes poligonales"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:598
+msgid ""
+"The \"Centroid\" and \"Point on surface\" algorithms have a new option to "
+"create points for every individual part of input geometries."
+msgstr ""
+"Los algoritmos \"Centroid\" y \"Point on surface\"  tienen una nueva opción "
+"para crear puntos para cada parte individual de geometrías entrantes."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:603
+msgid "Feature: Rotate Features algorithm"
+msgstr "Funcionalidad: Algoritmo para rotar entidades"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:605
+msgid ""
+"This new algorithm allows rotation of features by a set angle. The rotation "
+"can occur around a preset point or each individual feature's centroid."
+msgstr ""
+"Este nuevo algoritmo permite la rotación de entidades un ángulo establecido."
+" La rotación puede ocurrir alrededor de un punto preestablecido o el "
+"centroide de cada entidad individual."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:612
+msgid "Feature: Line sinuosity in \"Add Geometry Attributes\""
+msgstr "Funcionalidad: Sinuosidad de línea en \"Add Geometry Attributes\""
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:614
+msgid ""
+"The \"Add Geometry Attributes\" algorithm now calculates line sinuosity and "
+"straight distance for line layers."
+msgstr ""
+"El algoritmo \"Add Geometry Attributes\" ahora calcula la sinuosidad de "
+"línea y distancia recta para capas lineales."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:621
+msgid "Feature: Import geotagged photos"
+msgstr "Funcionalidad: Importar fotos geoetiquetadas"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:623
+msgid ""
+"In QGIS 3.2 a new \"Import geotagged photos\" algorithm has been added to "
+"Processing. It allows selection of a folder which it will scan for jpg files"
+" which have been geotagged and creates a PointZ layer with the result, with "
+"attributes for photo path, altitude, direction and timestamp."
+msgstr ""
+"En QGIS 3.2, se agregó un nuevo algoritmo \"Importar fotos geoetiquetadas\" "
+"a Procesamiento. Permite la selección de una carpeta que escaneará en busca "
+"de archivos jpg que han sido geoetiquetados y crea una capa PointZ con el "
+"resultado, con atributos para ruta de fotos, altitud, dirección y marca de "
+"tiempo."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:626
+msgid ""
+"Optionally the scan can be recursive and you can create an optional table of"
+" photos which could not be read or which were missing geotags."
+msgstr ""
+"Opcionalmente, el escaneo puede ser recursivo y puede crear una tabla "
+"opcional de fotos que no se pudieron leer o que le faltaban geoetiquetas."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:628
+msgid ""
+"The algorithm automatically sets the output table to use an external "
+"resource widget to display the linked photos in the attribute form."
+msgstr ""
+"El algoritmo establece automáticamente la tabla de salida para usar un "
+"widget de recursos externo para mostrar las fotos vinculadas en el "
+"formulario de atributo."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:630
+msgid "|image24|"
+msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:637
+msgid "Feature: Swap x/y coordinate values algorithm"
+msgstr "Funcionalidad: algoritmo para Intercambiar valores de coordenadas x/y"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:639
+msgid ""
+"This algorithm swaps the X and Y coordinate values in input geometries. It "
+"can be used to repair geometries which have accidentally had their latitude "
+"and longitude values reversed."
+msgstr ""
+"Este algoritmo intercambia los valores de coordenadas X e Y en las "
+"geometrías de entrada. Se puede usar para reparar geometrías que "
+"accidentalmente han invertido sus valores de latitud y longitud."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:646
+msgid "Feature: Sort order option for \"Add Incremental Field\""
+msgstr ""
+"Funcionalidad: Opción de orden de clasificación para \"Agregar campo "
+"incremental\""
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:648
+msgid ""
+"This change allows users to optionally set a sort order to use when "
+"assigning values in the Add Incremental Field algorithm. Previously values "
+"were always added using the original feature order. With this change users "
+"can control the order in which features are assigned values."
+msgstr ""
+"Este cambio permite a los usuarios establecer opcionalmente un orden de "
+"clasificación para usar al asignar valores en el algoritmo Agregar campo "
+"incremental. Anteriormente, los valores siempre se agregaban utilizando el "
+"orden de las entidades originales. Con este cambio, los usuarios pueden "
+"controlar el orden en que se asignan los valores a las entidades."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:655
+msgid "Feature: Indicator for distance parameter units"
+msgstr "Funcionalidad: Indicador para parámetro de unidades de distancia"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:657
+msgid ""
+"When an algorithm uses a \"distance\" type parameter, the units will now be "
+"shown next to the parameter. This avoids the confusion when running "
+"algorithms which use distances where the unit depends on a layer or CRS "
+"parameter - e.g. the distance parameter in the buffer algorithm gives the "
+"distance in layer units... so now in QGIS 3.2 we show those units directly "
+"within the dialog. Hopefully this leads to less user confusion and "
+"accidental \"1000 degree buffers\"!"
+msgstr ""
+"Cuando un algoritmo usa un parámetro de tipo \"distancia\", ahora se "
+"mostrarán las unidades al lado del parámetro. Esto evita la confusión al "
+"ejecutar algoritmos que usan distancias donde la unidad depende de una capa "
+"o parámetro del CRS, p. Ej. el parámetro de distancia en el algoritmo del "
+"búfer proporciona la distancia en unidades de capa ... así que ahora en QGIS"
+" 3.2 mostramos esas unidades directamente dentro del diálogo. ¡Ojalá esto "
+"conduzca a una menor confusión del usuario y a \"buffers de 1000 grados\" "
+"accidentales!"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:660
+msgid ""
+"Additionally - if the unit is in degrees, a small warning icon is shown next"
+" to the parameter. The tooltip for this icon advises users to reproject data"
+" into a suitable projected local coordinate system."
+msgstr ""
+"Además, si la unidad está en grados, se muestra un pequeño icono de "
+"advertencia junto al parámetro. La información de herramienta para este "
+"icono aconseja a los usuarios que vuelvan a proyectar datos en un sistema "
+"adecuado de coordenadas local proyectado."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:667
+msgid "Feature: Algorithm log can be saved/cleared/copied"
+msgstr ""
+"Funcionalidad: Registro de algoritmos puede ser salvado/limpiado/copiado"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:669
+msgid ""
+"In the algorithm execution dialog, new buttons have been added to allow "
+"users to save the current log (to text or HTML files), copy the log contents"
+" to the clipboard, and clear the log."
+msgstr ""
+"En el cuadro de diálogo de ejecución del algoritmo, se han agregado nuevos "
+"botones para permitir a los usuarios guardar el registro actual (en archivos"
+" de texto o HTML), copiar el contenido del registro en el portapapeles y "
+"borrar el registro."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:671
+#: ../../source/site/forusers/visualchangelog32/index.rst:708
+#: ../../source/site/forusers/visualchangelog32/index.rst:783
+#: ../../source/site/forusers/visualchangelog32/index.rst:813
+msgid "This feature was funded by SMEC/SJ"
+msgstr "Esta funcionalidad fue fundada por SMEC/SJ"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:676
+msgid "Feature: Wedge buffer algorithm"
+msgstr "Funcionalidad: Algoritmo de Búfer en cuña"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:678
+msgid "This new algorithm creates wedge shaped buffers from input points."
+msgstr ""
+"Este nuevo algoritmo crea bufers de formas acuñadas a partir de los puntos "
+"de entrada."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:680
+msgid ""
+"The azimuth parameter gives the angle (in degrees) for the middle of the "
+"wedge to point. The buffer width (in degrees) is specified by the width "
+"parameter. Note that the wedge will extend to half of the angular width "
+"either side of the azimuth direction. The outer radius of the buffer is "
+"specified via outer radius, and optionally an inner radius can also be "
+"specified."
+msgstr ""
+"El parámetro azimut proporciona el ángulo (en grados) de la mitad de la cuña"
+" al punto. El ancho del búfer (en grados) se especifica mediante el "
+"parámetro ancho. Tenga en cuenta que la cuña se extenderá a la mitad del "
+"ancho angular a ambos lados de la dirección del acimut. El radio externo del"
+" búfer se especifica a través del radio externo, y opcionalmente también se "
+"puede especificar un radio interno."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:682
+msgid ""
+"The algorithm supports dynamic parameters for azimuth, width, and radius."
+msgstr ""
+"El algoritmo soporta parámetros dinámicos para azimuth, anchura y radio."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:684
+msgid ""
+"The native output from this algorithm is CurvePolygon geometries, but these "
+"may be automatically segmentized to Polygons depending on the output format."
+msgstr ""
+"La salida nativa de este algoritmo son geometrías CurvePolygon, pero pueden "
+"segmentarse automáticamente a Polígonos según el formato de salida."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:691
+msgid "Feature: Variable width buffers"
+msgstr "Funcionalidad: Anchura variable de búfer"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:693
+msgid ""
+"New Processing algorithms have been added to create variable width buffers, "
+"including tapered buffers (with a specified start and end diameter) and "
+"variable width buffers from line string m values."
+msgstr ""
+"Se han agregado nuevos algoritmos de procesamiento para crear búferes de "
+"ancho variable, incluidos los búferes cónicos (con un diámetro inicial y "
+"final especificado) y los búferes de ancho variable a partir de los valores "
+"de la cadena de línea m."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:700
+msgid "Feature: Reclassify raster algorithms"
+msgstr "Funcionalidad: algoritmos de reclasificación ráster"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:702
+msgid ""
+"Two new native QGIS raster reclassification algorithms have been added to "
+"Processing. These are simple to use, yet fast and stable, and work for ANY "
+"raster layer type supported by QGIS!"
+msgstr ""
+"Se han agregado dos nuevos algoritmos de reclasificación de ráster QGIS "
+"nativos al procesamiento. ¡Estos son fáciles de usar, también rápidos y "
+"estables, y funcionan para CUALQUIER tipo de capa ráster compatible con "
+"QGIS!"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:704
+msgid ""
+"Reclassify by layer: reclassifies a raster using the ranges specified via "
+"min/max/value fields from a vector table"
+msgstr ""
+"Reclasificar por capa: reclasifica un ráster utilizando los rangos "
+"especificados a través de los campos min/max/valor de una tabla de vectores"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:706
+msgid ""
+"Reclassify by table: reclassifies a raster using a fixed table entered by "
+"users in the algorithm dialog"
+msgstr ""
+"Reclasificar por tabla: reclasifica un ráster utilizando una tabla fija "
+"ingresada por los usuarios en el diálogo del algoritmo"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:713
+msgid "Feature: Union algorithm with a single layer"
+msgstr "Funcionalidad: algoritmo de unión con una capa simple"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:715
+msgid ""
+"The union algorithm can be now run with just a single input layer in order "
+"to resolve any overlaps among the layer's features. For example, if an area "
+"is covered by three features, that area will be cut out from those features "
+"and three new features will be added, copying attributes of the original "
+"features."
+msgstr ""
+"El algoritmo de unión ahora se puede ejecutar con una sola capa de entrada "
+"para resolver cualquier superposición entre las características de la capa. "
+"Por ejemplo, si un área está cubierta por tres características, esa área se "
+"recortará de esas características y se agregarán tres nuevas "
+"características, copiando los atributos de las características originales."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:717
+msgid "|image25|"
+msgstr "|image25|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:721
+#: ../../source/site/forusers/visualchangelog32/index.rst:878
+msgid ""
+"This feature was developed by `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:724
+msgid "Application and Project Options"
+msgstr "Opciones de Aplicación y Proyecto"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:727
+msgid "Feature: Mandatory layers in project"
+msgstr "Funcionalidad: Capas obligatorias en el proyecto"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:729
+msgid ""
+"Required layers are not allowed to be removed from the project. This adds "
+"extra safety to protect project users from removing layers they may think "
+"are not needed (e.g. used in joins, relations, expressions)."
+msgstr ""
+"No se permite eliminar las capas requeridas del proyecto. Esto agrega "
+"seguridad adicional para proteger a los usuarios del proyecto de eliminar "
+"capas que puedan pensar que no son necesarias (por ejemplo, usadas en "
+"uniones, relaciones, expresiones)"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:731
+msgid "|image26|"
+msgstr "|image26|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:738
+msgid "Feature: Saving and loading projects in PostgreSQL database"
+msgstr ""
+"Funcionalidad: Guardando y cargando proyectos en la base de datos PostgreSQL"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:740
+msgid ""
+"Users can now save their projects within a PostgreSQL database. Project can "
+"be saved in menu **Projects > Save To > PostgreSQL** and loaded using menu "
+"**Projects > Load From > PostgreSQL**. Projects saved in database can be "
+"loaded also through the browser dock (projects show up under the schema "
+"where they were saved, together with other layers)."
+msgstr ""
+"Los usuarios ahora pueden guardar sus proyectos en una base de datos "
+"PostgreSQL. El proyecto se puede guardar en el menú ** Proyectos> Guardar "
+"en> PostgreSQL ** y cargarse usando el menú ** Proyectos> Cargar desde> "
+"PostgreSQL **. Los proyectos guardados en la base de datos se pueden cargar "
+"también a través del muelle del navegador (los proyectos se muestran bajo el"
+" esquema donde se guardaron, junto con otras capas)."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:742
+msgid ""
+"Saving/loading QGIS projects must be explicitly enabled in PostgreSQL "
+"connection settings: there is a new option \"Allow saving/loading QGIS "
+"projects in the database\" which is disabled by default."
+msgstr ""
+"Guardar/cargar proyectos QGIS debe estar explícitamente habilitado en la "
+"configuración de conexión PostgreSQL: hay una nueva opción \"Permitir "
+"guardar/cargar proyectos QGIS en la base de datos\" que está deshabilitada "
+"de manera predeterminada."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:744
+msgid ""
+"New API has been introduced that allows creation of custom project storage "
+"implementations (may be used by plugins). Related QEP: "
+"https://github.com/qgis/QGIS-Enhancement-Proposals/issues/118"
+msgstr ""
+"Se ha introducido una nueva API que permite la creación de implementaciones "
+"de almacenamiento de proyectos personalizados (pueden ser utilizados por "
+"complementos). QEP relacionado: https://github.com/qgis/QGIS-Enhancement-"
+"Proposals/issues/118"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:756
+msgid ""
+"This feature was developed by `Martin Dobias, Peter Petrik (Lutra "
+"Consulting) <https://www.lutraconsulting.co.uk>`__ and `Faunalia "
+"<https://www.faunalia.eu>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Martin Dobias, Peter Petrik (Lutra "
+"Consulting) <https://www.lutraconsulting.co.uk>`__ y `Faunalia "
+"<https://www.faunalia.eu>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:759
+msgid "Browser"
+msgstr "Navegador"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:762
+msgid "Feature: Save/Load connections for XYZ Tiles"
+msgstr "Funcionalidad: Guardar/Cargar conexiones para teselas XYZ"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:764
+msgid ""
+"From the Browser panel, XYZ Tiles entries can be exported/imported to/from "
+"an XML file."
+msgstr ""
+"Desde el panel del navegador, las entradas de teselas XYZ se pueden "
+"exportar/importar a /desde un archivo XML."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:766
+msgid "|image27|"
+msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:771
+msgid "Feature: Project home path can be manually set"
+msgstr ""
+"Funcionalidad: La ruta de inicio del proyecto se puede configurar "
+"manualmente"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:773
+msgid ""
+"This new feature in QGIS 3.2 allows the project home path (which is used by "
+"the browser to create the 'Project Home' item) to be set by users for a "
+"project, instead of always matching the location where the project is saved."
+msgstr ""
+"Esta nueva característica en QGIS 3.2 permite que los usuarios establezcan "
+"la ruta de inicio de un proyecto (que utiliza el navegador para crear el "
+"elemento 'Inicio del proyecto'), en lugar de coincidir siempre con la "
+"ubicación donde se guarda el proyecto."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:775
+msgid ""
+"This allows users to set the project home to a folder which contains data "
+"and other content, and is especially useful for organisations where QGIS "
+"projects are not stored in the root folder of a organisational 'project'."
+msgstr ""
+"Esto permite a los usuarios configurar el hogar del proyecto en una carpeta "
+"que contenga datos y otro contenido, y es especialmente útil para "
+"organizaciones donde los proyectos QGIS no se almacenan en la carpeta raíz "
+"de un 'proyecto' organizacional."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:777
+msgid ""
+"Project home paths can also be set to relative paths, in which case they "
+"will be relative to the project saved location."
+msgstr ""
+"Las rutas de inicio del proyecto también se pueden establecer en rutas "
+"relativas, en cuyo caso serán relativas a la ubicación guardada del "
+"proyecto."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:779
+msgid ""
+"The path can be set through the Project Properties dialog, or by right-"
+"clicking on the Project Home browser item and selecting 'Set Project Home'."
+msgstr ""
+"La ruta se puede establecer a través del cuadro de diálogo Propiedades del "
+"proyecto, o haciendo clic derecho en el elemento del navegador Inicio del "
+"proyecto y seleccionando 'Establecer inicio del proyecto'."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:781
+msgid "|image28|"
+msgstr "|image28|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:789
+msgid "Data Providers"
+msgstr "Proveedores de Datos"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:792
+msgid "Feature: Support for mesh layers"
+msgstr "Funcionalidad: Soporte para capas de malla"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:794
+msgid ""
+"Initial work has been done to introduce mesh layers supporting display of "
+"data on structured or unstructured meshes (grids) in addition to raster and "
+"vector layers. This is still a work in progress, expected to be fully ready "
+"in QGIS 3.4. The work so far lead to creation of a new library MDAL for "
+"handling of different formats of mesh-based data and there are new APIs "
+"introduced under the hood, however the user interface is not implemented "
+"yet."
+msgstr ""
+"El trabajo inicial se ha realizado para introducir capas de malla que "
+"admitan la visualización de datos en mallas estructuradas o no estructuradas"
+" (cuadrículas) además de las capas ráster y vectoriales. Esto todavía es un "
+"trabajo en progreso, se espera que esté completamente listo en QGIS 3.4. "
+"Hasta ahora, el trabajo condujo a la creación de una nueva biblioteca MDAL "
+"para el manejo de diferentes formatos de datos basados en malla y hay nuevas"
+" API introducidas bajo cubierta, sin embargo, la interfaz de usuario aún no "
+"está implementada."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:796
+msgid "For more information see:"
+msgstr "Para mas información ver:"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:798
+msgid "https://github.com/qgis/QGIS-Enhancement-Proposals/issues/119"
+msgstr "https://github.com/qgis/QGIS-Enhancement-Proposals/issues/119"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:800
+msgid "and"
+msgstr "y"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:802
+msgid "https://github.com/lutraconsulting/MDAL"
+msgstr "https://github.com/lutraconsulting/MDAL"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:804
+msgid "|image32|"
+msgstr "|image32|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:806
+msgid ""
+"This feature was developed by `Peter Petrik and Martin Dobias (Lutra "
+"Consulting) <https://www.lutraconsulting.co.uk>`__"
+msgstr ""
+"Esta funcionalidad fue desarrollada por `Peter Petrik y Martin Dobias (Lutra"
+" Consulting) <https://www.lutraconsulting.co.uk>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:809
+msgid ""
+"Feature: Automatically set default style for layers for ArcGIS Feature "
+"Server layers"
+msgstr ""
+"Funcionalidad: Establecer automáticamente el estilo predeterminado para "
+"capas de ArcGIS Feature Server"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:811
+msgid ""
+"When layers from a Feature Server are loaded into QGIS 3.2, they will "
+"automatically have the same style applied as has been specified for that "
+"layer on the server, matching the appearance of the layer when it is loaded "
+"into ArcGIS."
+msgstr ""
+"Cuando las capas de un servidor de entidades se cargan en QGIS 3.2, se "
+"aplicará automáticamente el mismo estilo que el especificado para esa capa "
+"en el servidor, coincidiendo con la apariencia de la capa cuando se carga en"
+" ArcGIS."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:818
+msgid "Feature: Faster Oracle queries"
+msgstr "Funconalidad: Consultas de Oracle mas rápidas"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:820
+msgid ""
+"Certain operations are greatly sped up for Oracle layers, e.g. case-"
+"insensitive value matches for features."
+msgstr ""
+"Ciertas operaciones se aceleran considerablemente para las capas de Oracle, "
+"p.ej. caso de que las mayúsculas y minúsculas no coincidan para las "
+"entidades."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:827
+msgid ""
+"Feature: Restrict table list for a Oracle database connection to a preset "
+"schema"
+msgstr ""
+"Funcionalidad: Restringir la lista de tablas para una conexión de base de "
+"datos Oracle a un esquema preestablecido"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:829
+msgid ""
+"This change allows a schema to be set in the connection properties for an "
+"Oracle database connection. If set, only tables within that schema will be "
+"scanned and listed for the connection."
+msgstr ""
+"Este cambio permite establecer un esquema en las propiedades de conexión "
+"para una conexión de base de datos Oracle. Si está configurado, solo las "
+"tablas dentro de ese esquema serán escaneadas y listadas para la conexión."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:831
+msgid ""
+"Previously the option existed to restrict the scan to tables which belong to"
+" the user, but this option does not support the use case where a connection "
+"must access tables from a different user, and the default \"scan "
+"everything\" setting is too expensive (since it often takes multiple minutes"
+" to perform, especially when geometryless tables are shown)."
+msgstr ""
+"Anteriormente, existía la opción de restringir el escaneo a las tablas que "
+"pertenecen al usuario, pero esta opción no admite el caso de uso donde una "
+"conexión debe acceder a las tablas de un usuario diferente, y la "
+"configuración predeterminada de \"escanear todo\" es demasiado costosa (ya "
+"que a menudo lleva varios minutos realizarlo, especialmente cuando se "
+"muestran tablas sin geometría)."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:834
+#: ../../source/site/forusers/visualchangelog32/index.rst:843
+msgid ""
+"This feature was funded by `Open Spatial <http://www.openspatial.com>`__"
+msgstr ""
+"Esta funcionalidad fue fundada por `Open Spatial "
+"<http://www.openspatial.com>`__"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:839
+msgid "Feature: Read only support for curved Oracle geometries"
+msgstr ""
+"Funcionalidad: Soporte de solo lectura para geometrías curvas de Oracle"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:841
+msgid "Previously these geometries were silently discarded."
+msgstr "Previamente estas geometrías eran descartadas silenciosamente."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:848
+msgid "Plugins"
+msgstr "Complementos"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:851
+msgid "Feature: Adding query history in DB Manager"
+msgstr "Funcionalidad: Añadiendo historial de consultas en el DB Manager"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:853
+msgid ""
+"In 3.2 it is possible to store SQL queries. The query history is available "
+"into the SQL Window tab of the DB Manager plugin."
+msgstr ""
+"En 3.2 es posible almacenar consultas SQL. El historial de consultas está "
+"disponible en la pestaña de la ventana SQL del complemento Administrado de "
+"BD."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:855
+msgid "|image33|"
+msgstr "|image33|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:860
+msgid "Feature: DB Manager SQL execution in background"
+msgstr "Funcionalidad: Ejecución DB Manager SQL en segundo plano"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:862
+msgid "This feature was developed by Paul Blottiere"
+msgstr "Esta funcionalidad fue desarrollada por Paul Blottiere"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:865
+msgid "3D Features"
+msgstr "Funcionalidades 3D"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:868
+msgid "Feature: 3D Polygons: Optionally generate back faces"
+msgstr "Funcionalidad: Polígonos 3D: Opcionalmente genera caras posteriores"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:870
+msgid ""
+"Sometimes datasets with 3D polygons do not have consistent ordering of "
+"vertices (clockwise vs. counter-clockwise) and that caused sub-optimal "
+"results in the 3D view: either some polygons (walls) seem to be missing if "
+"back-face culling is enabled - or some polygons are shaded incorrectly if "
+"back-face culling is disabled. With the new option **Add back faces** "
+"enabled, the tessellator will generate triangles in both directions (front "
+"and back) which greatly improves the rendering quality for such datasets."
+msgstr ""
+"A veces, los conjuntos de datos con polígonos en 3D no tienen un orden "
+"consistente de vértices (en sentido horario versus en sentido antihorario) y"
+" eso causó resultados subóptimos en la vista 3D: o bien algunos polígonos "
+"(paredes) parecen faltar si se habilita sacrificar la cara posterior - o "
+"algunos polígonos están sombreados incorrectamente si el descarte posterior "
+"está desactivado. Con la nueva opción **Agregar caras posteriores** "
+"habilitada, el teselador generará triángulos en ambas direcciones (anverso y"
+" reverso), lo que mejora en gran medida la calidad de representación para "
+"dichos conjuntos de datos."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:872
+msgid ""
+"The only downside when using this option is that more graphical memory is "
+"used (double amount of vertex data). Make sure to set culling mode to "
+"\"Back\" when using this option, otherwise there would be no visible "
+"difference as the scene would still render polygons with incorrect shading."
+msgstr ""
+"El único inconveniente cuando se usa esta opción es que se usa más memoria "
+"gráfica (cantidad doble de datos de vértice). Asegúrese de establecer el "
+"modo de selección en \"Atrás\" cuando utilice esta opción; de lo contrario, "
+"no habría ninguna diferencia visible, ya que la escena aún representaría "
+"polígonos con sombreado incorrecto."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:874
+msgid "The image contains freely available Prague 3D buildings dataset."
+msgstr ""
+"La imagen contiene el conjunto de datos de edificios 3D de Praga disponible "
+"gratuitamente."
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:876
+msgid "|image34|"
+msgstr "|image34|"
+
+#~ msgid "Changelog for QGIS 3.2.0"
+#~ msgstr "Registro de cambios para QGIS 3.2.0"
+
+#~ msgid ""
+#~ "The greatest QGIS release ever! QGIS 3.2 brings a massive list of new "
+#~ "changes - the highlights of which we will try to cover here. As always can "
+#~ "we remind you that QGIS is an open source project and if you are able to, "
+#~ "consider supporting our work through `donations "
+#~ "<http://www.qgis.org/en/site/getinvolved/donations.html?highlight=donate>`__,"
+#~ " `sponsorship "
+#~ "<http://www.qgis.org/en/site/getinvolved/governance/sponsorship/sponsorship.html>`__"
+#~ " or contributions to the code documentation, web site and so on."
+#~ msgstr ""
+#~ "¡El mejor lanzamiento de QGIS! QGIS 3.2 trae una lista masiva de nuevos "
+#~ "cambios, cuyos aspectos más destacados trataremos de cubrir aquí. Como "
+#~ "siempre, podemos recordarle que QGIS es un proyecto de código abierto y, si "
+#~ "puede, considere apoyar nuestro trabajo a través de `donaciones "
+#~ "<http://www.qgis.org/en/site/getinvolved/donations.html?highlight=donate>`__,`"
+#~ " patrocinio "
+#~ "<http://www.qgis.org/en/site/getinvolved/governance/sponsorship/sponsorship.html>`__"
+#~ " o contribuciones a la documentación del código, el sitio web, etc."
+
+#~ msgid ""
+#~ "QGIS is supported by donors and sponsors. A current list of donors who have "
+#~ "made financial contributions large and small to the project can be seen on "
+#~ "our `donors list <https://qgis.org/en/site/about/sponsorship.html#list-of-"
+#~ "donors>`__. If you would like to become and official project sponsor, please"
+#~ " visit `our sponsorship page "
+#~ "<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
+#~ "details. Sponsoring QGIS helps us to fund our six monthly developer "
+#~ "meetings, maintain project infrastructure and fund bug fixing efforts. A "
+#~ "complete list of current sponsors is provided below - our very great thank "
+#~ "you to all of our sponsors!"
+#~ msgstr ""
+#~ "QGIS es apoyado por donantes y patrocinadores. Puede ver una lista actual de"
+#~ " donantes que han realizado contribuciones financieras grandes y pequeñas "
+#~ "para el proyecto en nuestra `lista de donantes "
+#~ "<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__. Si "
+#~ "desea convertirse en patrocinador oficial del proyecto, visite `nuestra "
+#~ "página de patrocinio "
+#~ "<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ para más "
+#~ "detalles. El patrocinio de QGIS nos ayuda a financiar nuestras seis "
+#~ "reuniones mensuales de desarrolladores, mantener la infraestructura del "
+#~ "proyecto y financiar los esfuerzos de corrección de errores. A continuación "
+#~ "se proporciona una lista completa de los patrocinadores actuales. ¡Muchas "
+#~ "gracias a todos nuestros patrocinadores!"
+
+#~ msgid "Sponsors for QGIS version 3.2.0"
+#~ msgstr "Patrocinadores para la versión QGIS 3.2.0"
+
+#~ msgid ""
+#~ "A special thanks to all our `Sponsors and Donors "
+#~ "<../../about/sponsorship.html>`__ for helping us to make this release "
+#~ "possible!"
+#~ msgstr ""
+#~ "¡Un agradecimiento especial a todos nuestros `Patrocinadores y donantes "
+#~ "<../../about/sponsorship.html>`__  por ayudarnos a hacer posible este "
+#~ "lanzamiento!"
+
+#~ msgid "QGZ was added as an optional format in 3.0."
+#~ msgstr "QGZ fue añadido como formato opcional en 3.0"
+
+#~ msgid ""
+#~ "Having this format as the default format will ease a lot the path to go to a"
+#~ " container able to embed resources like SVG, offline data in GPKG, color "
+#~ "ramps, plugins or scripts."
+#~ msgstr ""
+#~ "Tener este formato como el formato predeterminado facilitará mucho el camino"
+#~ " para ir a un contenedor capaz de incrustar recursos como SVG, datos fuera "
+#~ "de línea en GPKG, rampas de color, complementos o scripts."
+
+#~ msgid ""
+#~ "Besides Ctrl-Tab you can now do Ctrl-Shift-Tab, which will show you the Map "
+#~ "and ONLY the Map, no more toolbars or buttons (or even without Window Title,"
+#~ " in combination with F11)."
+#~ msgstr ""
+#~ "Además de Ctrl-Tab ahora puede hacer Ctrl-Shift-Tab, que le mostrará el Mapa"
+#~ " y SOLO el Mapa, no más barras de herramientas o botones (o incluso sin "
+#~ "Barra de Título de Ventana, en combinación con F11)."
+
+#~ msgid "Great for Full Screen Map projection via Beamer or on Big Screens."
+#~ msgstr ""
+#~ "Ideal para la proyección del mapa de pantalla completa a través de Beamer o "
+#~ "en pantallas grandes."
+
+#~ msgid "You can still zoom and pan!"
+#~ msgstr "¡Todavía puedes hacer zoom y enfoque!"
+
+#~ msgid "(Based on work of Mathieu Pellerin)"
+#~ msgstr "(Basado en el trabajo de Mathieu Pellerin)"
+
+#~ msgid "This feature was funded by `North Road <http://north-road.com>`__"
+#~ msgstr ""
+#~ "Esta funcionalidad fue fundada por `North Road <http://north-road.com>`__"
+
+#~ msgid ""
+#~ "This feature was developed by `Nyall Dawson (North Road) <http://north-"
+#~ "road.com>`__"
+#~ msgstr ""
+#~ "Esta funcionalidad fue desarrollada por `Nyall Dawson (North Road) <http"
+#~ "://north-road.com>`__"
+
+#~ msgid ""
+#~ "This feature was developed by `Mathieu Pelllerin <http://www.imhere-"
+#~ "asia.com/>`__"
+#~ msgstr ""
+#~ "Esta funcionalidad fue desarrollada por `Mathieu Pelllerin <http://www"
+#~ ".imhere-asia.com/>`__"
+
+#~ msgid ""
+#~ "This feature was developed by `Etienne Trimaille "
+#~ "<http://github.com/Gustry>`__"
+#~ msgstr ""
+#~ "Esta funcionalidad fue desarrollada por `Etienne Trimaille "
+#~ "<http://github.com/Gustry>`__"
+
+#~ msgid ""
+#~ "This feature was funded by `Nyall Dawson (North Road) <http://north-"
+#~ "road.com>`__"
+#~ msgstr ""
+#~ "Esta funcionalidad fue fundada por `Nyall Dawson (North Road) <http://north-"
+#~ "road.com>`__"
+
+#~ msgid "This feature was developed by `Nyall Dawson (North Road) <v>`__"
+#~ msgstr ""
+#~ "Esta funcionalidad fue desarrollada por `Nyall Dawson (North Road) <v>`__"
+
+#~ msgid ""
+#~ "This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia"
+#~ " <https://www.lutraconsulting.co.uk>`__"
+#~ msgstr ""
+#~ "Esta funcionalidad fue desarrollada por `Martin Dobias (Lutra Consulting) y "
+#~ "Faunalia <https://www.lutraconsulting.co.uk>`__"
+
+#~ msgid ""
+#~ "This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia"
+#~ " <https://www.lutraconsulting.co.uk/>`__"
+#~ msgstr ""
+#~ "Esta funcionalidad fue desarrollada por `Martin Dobias (Lutra Consulting) y "
+#~ "Faunalia <https://www.lutraconsulting.co.uk/>`__"
+
+#~ msgid ""
+#~ "This feature was developed by `Martin Dobias, Peter Petrik (Lutra "
+#~ "Consulting) and Faunalia <https://www.lutraconsulting.co.uk>`__"
+#~ msgstr ""
+#~ "Esta funcionalidad fue desarrollada por `Martin Dobias, Peter Petrik (Lutra "
+#~ "Consulting) y Faunalia <https://www.lutraconsulting.co.uk>`__"
+
+#~ msgid ""
+#~ "The greatest QGIS release ever! QGIS 3.2 brings a massive list of new "
+#~ "changes - the highlights of which we will try to cover here. As always can "
+#~ "we remind you that QGIS is an open source project and if you are able to, "
+#~ "consider supporting our work through :ref:`donations <QGIS-donations>`, "
+#~ ":ref:`sponsorship <QGIS_sponsorship_program>` or contributions to the code "
+#~ "documentation, web site and so on."
+#~ msgstr ""
+#~ "¡El mejor lanzamiento de QGIS! QGIS 3.2 trae una lista masiva de nuevos "
+#~ "cambios, cuyos aspectos más destacados trataremos de cubrir aquí. Como "
+#~ "siempre, podemos recordarle que QGIS es un proyecto de código abierto y, si "
+#~ "puede, considere apoyar nuestro trabajo a través de:ref:`donaciones<QGIS-"
+#~ "donations>`,:ref:`patrocinio<QGIS_sponsorship_program>` o contribuciones a "
+#~ "la documentación del código, el sitio web, etc. ."
+
+#~ msgid ""
+#~ "QGIS is supported by donors and sponsors. A current list of donors who have "
+#~ "made financial contributions large and small to the project can be seen on "
+#~ "our :ref:`donors list <list_of_donors>`. If you would like to become an "
+#~ "official project sponsor, please visit :ref:`our sponsorship page <QGIS-"
+#~ "sponsoring>` for details. Sponsoring QGIS helps us to fund our six monthly "
+#~ "developer meetings, maintain project infrastructure and fund bug fixing "
+#~ "efforts. A complete list of current sponsors is provided below - our very "
+#~ "great thank you to all of our sponsors!"
+#~ msgstr ""
+#~ "QGIS es apoyado por donantes y patrocinadores. Puede ver una lista actual de"
+#~ " donantes que han realizado contribuciones financieras grandes y pequeñas "
+#~ "para el proyecto en nuestra:ref:`lista de donantes<list_of_donors>`. Si "
+#~ "desea convertirse en patrocinador oficial del proyecto, visite:ref:`nuestra "
+#~ "página de patrocinio<QGIS-sponsoring>` para obtener más detalles. El "
+#~ "patrocinio de QGIS nos ayuda a financiar nuestras seis reuniones mensuales "
+#~ "de desarrolladores, mantener la infraestructura del proyecto y financiar los"
+#~ " esfuerzos de corrección de errores. A continuación se proporciona una lista"
+#~ " completa de los patrocinadores actuales. ¡Muchas gracias a todos nuestros "
+#~ "patrocinadores!"
+
+#~ msgid ""
+#~ "A special thanks to all our :ref:`Sponsors and Donors <QGIS-sponsoring>` for"
+#~ " helping us to make this release possible!"
+#~ msgstr ""
+#~ "¡Un agradecimiento especial a todos nuestros: ref: `Patrocinadores y "
+#~ "Donantes<QGIS-sponsoring>` por ayudarnos a hacer posible este lanzamiento!"

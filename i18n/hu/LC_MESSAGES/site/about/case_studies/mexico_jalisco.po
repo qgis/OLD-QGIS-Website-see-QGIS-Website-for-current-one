@@ -1,0 +1,123 @@
+# 
+# Translators:
+# Angéla Olasz <angela.olasz@gmail.com>, 2015
+# Zoltan Siki <siki.zoltan@epito.bme.hu>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2017-09-20 06:27+0000\n"
+"Last-Translator: Angéla Olasz <angela.olasz@gmail.com>\n"
+"Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:3
+msgid ""
+"Working with QGIS in a spatial data infrastructure of Jalisco in Mexico"
+msgstr "QGIS téradat infrastruktúra elemzések Jaliscói (Mexikó) mintaterületen"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:5
+msgid ""
+"The Instituto de Información Territorial del Estado de Jalisco is a "
+"government organization which was founded in 1998 to share geographical "
+"information between the government agencies of Jalisco in México."
+msgstr "A Jalisco Állami Területi Információs Intézet (Instituto de Información Territorial del Estado de Jalisco) egy kormányzati szervezet, amelyet 1998-ban alapítottak azzal a céllal, hogy elősegítse a földrajzi információk terjesztését a kormányzati szervek között Jaliscóban, Mexikóban. "
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:12
+msgid "Exploring the data with its online viewer"
+msgstr "Böngészhetjük az adatokat a saját online térképi felületen"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:14
+msgid ""
+"Within the years, the institution has gathered loads of information in "
+"several formats such as SHP, DWG, DXF, GeoTIFF and ECW, among others. So, "
+"what we wanted was to have all this information available, organized and in "
+"a common format with the purpose of being able to provide and display it "
+"over the Internet."
+msgstr "Az évek alatt az intézetben sokféle tartalmú és formátumú adatok gyűltek össze mint például SHP, DWG, DXF, GeoTIFF és ECW, többek között. Azt szerettük volna, hogy az összes elérhető adat legyen egységes formátumban hozzáférhető azért, hogy szolgáltathassuk és megjeleníthessük azokat az világhálón is. "
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:21
+msgid "Connecting to the Spatial Data Infrastructure with WMS"
+msgstr "Téradat Infrastruktúra összekapcsolása a WMS szolgáltatásokkal"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:23
+msgid ""
+"That's how it was developed the Sistema de Información Territorial Estatal "
+"en Línea, with the main target to build a spatial data infrastructure which "
+"allows our government agencies to share this kind of information to be "
+"included in their own projects as health, security or mobility."
+msgstr "Így került fejlesztésre az Állami Területi Információs Online Rendszer (Sistema de Información Territorial Estatal en Línea), melynek legfőbb célja a téradat infrastruktúra létrehozása az egészségügy, a közbiztonság vagy mobilitás területén tevékenykedő kormányzati szervek projektjeiben elérhető adatok megosztása érdekében."
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:26
+msgid "Decision for QGIS"
+msgstr "A QGIS kiválasztása "
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:28
+msgid ""
+"I decided to use Mapserver and PostgreSQL with PostGIS extension to be able "
+"to deliver our satellite imagery, orthopothos, digital elevation models and "
+"vector information with Web Map Services, thinking that any application will"
+" consume our services. But the problem was that many of the commercial and "
+"free applications don’t work with OGC standards, specially with WFS. After "
+"exploring many geographic information systems, I realized that QGIS was the "
+"only one which can connect to WMS, WCS and WFS successfully."
+msgstr "Eldöntöttem, hogy a Mapserver-t és PostgreSQL-t kiegészítve a PostGIS kiterjesztéssel fogok használni annak érdekében, hogy műholdképeket, ortofotókat, digitális domborzat modellt és vektoros adatokat tudjunk publikálni webes térképi szolgáltatások (WMS) segítségével, így bármilyen alkalmazás számára felhasználhatóvá válik a mi térképszolgáltatásunk. Szembesültünk azzal a problémával, hogy sok kereskedelmi és nyílt forráskódú szoftver nem tudta az OGC szabványokat kezelni, főleg a WFS-t. Miután áttekintettünk sok földrajzi információs rendszert rájöttünk, hogy csak a QGIS az egyedüli, amelyik képes WMS, WCS és WFS összekapcsolására. "
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:31
+msgid "What we use QGIS for"
+msgstr "Mire használjuk a QGIS-t"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:33
+msgid ""
+"Internally, we use QGIS to check the raster and vector data of the agencies "
+"before publishing it, and after its integration, we used it again to test "
+"the Web services that we’ve created. Also, we have done many spatial "
+"analysis with QGIS pulling the data directly from our PostgreSQL spatial "
+"database, then, we export the results as shape files."
+msgstr "A QGIS-t felhasználtuk a különböző szervektől kapott vektor és raster adatok ellenőrzésében a publikálásuk előtt és később az integrálás után az általunk készített webszolgáltatások tesztelésében is. Ezen kívül felhasználtuk térbeli elemzésekben, ahol az adatok közvetlenül a PostgreSQL térbeli adatbázisból kerültek lekérdezésre és az eredményeket exportáltuk SHP fájlokba. "
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:40
+msgid "Connecting to the Spatial Data Infrastructure with WFS"
+msgstr "Téradat Infrastruktúra összekapcsolása a WFS szolgáltatásokkal"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:42
+msgid ""
+"We’re encouraging our users to download QGIS and link directly with our "
+"Sistema de Información Territorial Estatal en Línea, mainly because it fully"
+" supports OGC standards and has many interesting features like geoprocessing"
+" tools, which allow them to make analysis of their interest, and all this "
+"absolutely for free."
+msgstr "Ösztönözzük a felhasználókat a QGIS letöltésére és közvetlenül belinkeltük az Állami Területi Információs Online Rendszerünkbe (Sistema de Información Territorial Estatal en Línea) is, főleg amiatt, hogy támogatja az összes OGC szabványt és sok érdekes térinformatikai feldolgozó eszköz is elérhető a QGIS-ben, amelyek lehetőséget adnak a felhasználóknak a saját érdeklődési területeiken térinformatikai elemzések elvégzésére is, mindezt teljesen ingyenesen."
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:45
+msgid "Conclusion"
+msgstr "Következtetés"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:47
+msgid ""
+"This project understood as the technological component of a Spatial Data "
+"Infrastructure, has been considered as a PostGIS case study, and I have to "
+"say that working with open source in all of our system’s cycle, has been "
+"satisfactory and trustworthy, the best choice that we have found to share "
+"our geographic information."
+msgstr "Ez a projekt a technológiai kiegészítése a Téradat Infrastruktúrának, amely PostGIS esettanulmányként készült. Meg kell állapítani, hogy a felhasznált nyílt forráskódú szoftverek a teljes rendszer ciklusban kielégítőek és megbízhatóak voltak, a legjobb választás amit felhasználhattunk a földrajzi információink megosztásában."
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:50
+msgid "Author"
+msgstr "Szerző"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:57
+msgid "Carlos Ruiz"
+msgstr "Carlos Ruiz"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:59
+msgid ""
+"This article was contributed in July 2010 by IC Carlos Ruiz. He works as "
+"project's coordinator at the Instituto de Información Territorial del Estado"
+" de Jalisco, Mexico."
+msgstr "Ez a cikk Carlos Ruiz közreműködésével készült 2010. júliusban. A szerző a Jalisco Állami Területi Információs Intézet (Instituto de Información Territorial del Estado de Jalisco) projekt koordinátora Mexikóban."

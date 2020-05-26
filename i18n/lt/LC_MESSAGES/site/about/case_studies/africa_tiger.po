@@ -1,0 +1,209 @@
+# 
+# Translators:
+# Tomas Straupis, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-05 15:28+0200\n"
+"PO-Revision-Date: 2017-09-23 21:21+0000\n"
+"Last-Translator: Tomas Straupis\n"
+"Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:4
+msgid ""
+"Water Observation and Information System: Enabling the Use of Earth "
+"Observation Data for Integrated Water Resource Management in Africa"
+msgstr "Vandens stebėjimo informacijos sistema: žemės stebėjimo duomenų naudojimas integruotame vandens resursų valdyme afrikoje"
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:6
+msgid ""
+"The Water Observation and Information System (WOIS) is an open source "
+"software tool for monitoring, assessing and inventorying water resources in "
+"a cost-effective manner using Earth Observation (EO) data. The WOIS has been"
+" developed under the TIGER-NET project, which is a major component of the "
+"TIGER initiative of the European Space Agency (ESA) and whose main goal is "
+"to support the African Earth observation capacity for water resource "
+"monitoring. TIGER-NET aims to support the satellite-based assessment and "
+"monitoring of water resources from watershed to cross-border basin levels "
+"through the provision of a free and powerful software package, with "
+"associated capacity building, to African  authorities."
+msgstr "Vandens stebėjimo ir informacijos sistema (WOIS) - tai atviro kodo vandens resursų stebėjimo, įvertinimo ir inventorizacijos efektyvios kainos įrankis naudojantis žemės stebėjimo (EO) duomenis. WOIS sukurta TIGER-NET projekto ribose, kuris yra Europos Erdvės Agentūros (ESA) TIGER iniciatyvos pagrindinis komponentas ir kurio pagrindinis tikslas yra palaikyti Afrikos žemės stebėjimo galimybes vandens resursų stebėsenai. TIGER-NET taipogi siekia palaikyti palydovais paremtą vandens resursų nuo vandens šaltinių iki sienas kertančių telkinių lygio įvertinimą ir stebėjimą teikiant Afrikos valdžiai nemokamą ir galingą programinę įrangą auginant reikiamas galimybes."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:9
+msgid "System Description"
+msgstr "Sistemos aprašymas"
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:11
+msgid ""
+"The WOIS can be seen as a multipurpose system consisting of a spatial "
+"database, facilities for extracting and processing EO data, and integrative "
+"tools and models aimed at decision support e.g. hydrological modelling and "
+"GIS-embedded visualization and analysis tools. The WOIS is designed around "
+"QGIS, which acts as the front-end Graphical-User-Interface (GUI).  QGIS was "
+"chosen as the central integrating platform, due to its clear and accessible "
+"GUI, strong development community, ease of implementing additional "
+"functionalities through Python plugins and its high level of "
+"interoperability with major GIS data formats through the use of the "
+"Geospatial Data Abstraction Library (GDAL/OGR) library."
+msgstr "WOIS yra daugiatikslė sistema, susidedanti iš erdvinės duomenų bazės, EO duomenų ištraukimo ir apdorojimo įrangos ir integruotų įrankių bei modelių, skirtų priėmimui sprendimų, tokių kaip hidrologinio modeliavimo ir GIS vaizdavimo ir analizės įrankių. WOIS sukurta QGIS pagrindu, kuris veikia kaip grafinė naudotojo sąsaja (GUI). QGIS buvo parinkta kaip centrinė integracinė platforma dėl aiškaus ir prieinamo GUI, stiprios vystytojų bendruomenės, papildomo funkcionalumo įgyvendinimu naudojant Python priedus paprastumo bei dėl jo aukšto lygio sąveikos su pagrindiniais GIS duomenų formatais naudojant Erdvinių Duomenų Abstrakcijos Biblioteką (GDAL/OGR)."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:13
+msgid ""
+"Moreover, the integrated Processing Toolbox, formerly known as SEXTANTE, "
+"brings the ability to easily incorporate geoprocessing algorithms from "
+"various applications into QGIS. It acts as a joint repository for a wide "
+"range of algorithms, some native to QGIS and others imported from external "
+"applications, such as GRASS GIS or the Orfeo Toolbox. Support for algorithms"
+" from ESA’s BEAM, NEST and Sentinel-1 Toolbox software and for setting up "
+"and executing SWAT based hydrological models was added to the Processing "
+"Toolbox during the WOIS development. The toolbox also allows for easy "
+"incorporation of custom R and Python scripts. The inputs and outputs of the "
+"Processing Toolbox algorithms can be evaluated with the QGIS capabilities of"
+" data I/O, rendering or map creation."
+msgstr "Dar daugiau, integruota apdorojimo įrankinė, anksčiau žinoma kaip SEXTANTE, leidžia lengvai įdiegti geoapdorojimo algoritmus iš įvairių programų į QGIS. Ji veikia kaip jungtinė repozitorija plačiai algoritmų aibei, kai kurie iš jų sukurti QGIS, kiti importuoti iš išorinių aplikacijų, tokių kaip GRASS GIS arba Orfeo Įrankinė. Į apdorojimo įrankinę WOIS kūrimo metu buvo pridėtas palaikymas algoritmų iš ESA BEAM, nEST ir Sentinel-1 įrankinių programinės įrangos. Jie skirti SWAT paremtų hirdologinių modelių nustatymui ir vykdymui. Įrankinė taip pat leidžia lengvai įdiegti savo R ir Python skriptus. Apdorojimo įrankinės įvestis ir išvestis gali būti įvertinta naudojant QGIS duomenų įvesties ir išvesties galimybes braižant arba kuriant žemėlapius."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:15
+msgid ""
+"A key advantage of the Processing Toolbox is the ability to seamlessly use "
+"functionalities from different algorithm providers for data processing and "
+"analysis. This can be used to create automatic processing models and, "
+"through a QGIS plugin developed during the TIGER-NET project, to "
+"sequentially combine algorithms from the different providers into wizard-"
+"based processing chains. This functionality was used to create a library of "
+"standardized workflows (with instructions) for performing common but complex"
+" tasks related to EO data analysis within water resource management."
+msgstr "Pagrindinis apdorojimo įrankinės pranašumas yra galimybė be papildomų sunkumų naudoti skirtingų algoritmų tiekėjų funkcionalumą duomenų apdorojimui ir analizei. Tai gali būti panaudota kuriant automatinius apdorojimo modelius ir per QGIS priedą, sukurtą TIGER-NET projekte, kombinuoti algoritmus iš skirtingų tiekėjų į vedlio tipo apdorojimo sekas. Šis funkcionalumas buvo panaudotas kuriant standartizuotų darbo eigų biblioteką (su instrukcijomis), skirtą vykdyti bendras bet sudėtingas užduotis, susijusias su EO duomenų analizę vandens resursų valdyme."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:22
+msgid ""
+"The WOIS graphical user interface, including the embedded workflow library "
+"(center) and wizard-based processing workflow (right)"
+msgstr "WOIS grafinė naudotojo sąsaja, įskaitant įdėtą darbo eigos biblioteką (centre) ir vedlio tipo apdorojimo eiga (dešinėje)"
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:24
+msgid ""
+"The operational and practical use of the WOIS to support integrated water "
+"resource management in Africa has been demonstrated via a series of user "
+"specific demonstration cases covering a wide range of themes and information"
+" products. These include: lake water quality; flood monitoring; land "
+"degradation and land cover characterization; water bodies mapping and "
+"hydrological modelling. The demonstration cases have several stages. First, "
+"customized end-to-end processing workflows are developed for the requested "
+"products and applications. Those workflows are subsequently used for product"
+" derivation over significant areas and time periods as requested by the "
+"users. In the final step, the workflows (i.e. their stability/performance "
+"and ease of use) as well as the product outcomes are being evaluated in "
+"close dialogue with the users."
+msgstr "Veiklos ir praktinis WOIS naudojimas integruotam vandens resursų valdymui Afrikoje buvo pademonstruotas eilėje konkrečių naudotojų demonstracijomis su įvairiomis temomis ir informaciniais produktais. Tarp jų: ežerų vandens kokybės, potvynių stebėjimo, žemės degradacijos ir žemėnaudos charakteristikos, vandens telkinių žymėjimas ir hidrologinis modeliavimas. Demonstracijos turi kelis etapus. Visų pirma reikiamiems produktams ir aplikacijoms sukuriamos savos nuo-iki apdorojimo darbų sekos. Šios sekos vėliau naudojamos produkto išvedimui į didelius ploto ir laiko periodus pagal naudotojų užklausas. Paskutiniame žingsnyje darbų eigos (pvz. jų stabilumo/našumo ir naudojimo paprastumo) ir produkto rezultatai įvertinami artimo dialogo su naudotojais metu."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:31
+msgid "Sentinel-1 flood monitoring of Caprivi flood plain, Namibia."
+msgstr "Sentinel-1 potvynių stebėjimas Caprivi potvynio lygumoje, Namibijoje."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:34
+msgid "Conclusion"
+msgstr "Išvada"
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:36
+msgid ""
+"The development of the WOIS represents a successful example of a user-driven"
+" and collaborative development model, where functionalities have been "
+"designed, developed and evaluated through user-designated cases in order to "
+"demonstrate the real impact of the system on enhancing water management and "
+"integrated water resource management plans. The WOIS is already implemented "
+"in major African river basin authorities, several African ministries and "
+"agencies, as well as in research and humanitarian organizations. It will "
+"therefore continue to develop in response to continued user requirements for"
+" new functionalities and functional improvements and due to general "
+"software, algorithm and method enhancements."
+msgstr "WOIS kūrimas - puikus naudotojų valdomo bendradarbiavimo modelio pavyzdys, kur funkcionalumas buvo suprojektuotas, sukurtas ir įvertintas naudojant naudotojų sukurtus naudojimo atvejus, kad būtų galima parodyti tikrą sistemos įtaką gerinant vandens valdymo ir integruotų vandens resursų valdymo planus. WOIS jau įdiegta pagrindinių Afrikos vandens baseinų valdžios įstaigose, keliose Afrikos ministerijose ir agentūrose, o taipogi ir tyrimo ir humanitarinėse organizacijose. Todėl sistema ir toliau bus vystoma atsižvelgiant į naudotojų naujo funkcionalumo pridėjimo ir esamo tobulinimo poreikius ir siekiant bendro programinės įrangos, algoritmų ir metodų gerinimo."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:38
+msgid ""
+"A particular focus will be on ensuring the support and implementation of "
+"processing capacity for the new Sentinel satellite system by integrating the"
+" ESA Sentinel toolboxes into WOIS and developing dedicated production "
+"workflows. The next release of WOIS (due in the second half of April 2015) "
+"will already incorporate Sentinel-1 Toolbox and a number of workflows "
+"utilizing this new radar dataset for flood monitoring, water body mapping, "
+"etc. This will turn WOIS into a fully-operational monitoring system. Through"
+" provision of this license-free, powerful and extendable system, and through"
+" continued capacity building and training efforts, the project thrives to "
+"build the basis for an extension, i.e. roll-out to other countries and "
+"regions in Africa and beyond."
+msgstr "Ypatingas dėmesys bus skiriamas užtikrinant naujo Sentinel palydovo sistemos apdorojimo galimybių diegimui ir palaikymui integruojant ESA Sentinel įrankines į WOIS ir kuriant tam skirtas gamybos darbo sekas. Kita WOIS laida (turi pasirodyti 2015 balandžio antroje pusėje) jau turės įdiegtą Sentinel-1 įrankinę ir eilę darbo sekų, naudojančių naują radaro duomenų rinkinį potvynių stebėjimui, vandens telkinių žymėjimui ir pan. Tai pavers WOIS į pilnai veikiančią stebėjimo sistemą. Teikiant šią laisvą, galingą ir plečiamą sistemą ir pastoviai didinant galimybes bei skiriant didelį dėmesį mokymams, projektas gyvuoja tam, kad sukurtų dar didesnio plėtimosi bazę, pavyzdžiui diegimui į kitas šalis ir regionus, Afrikoje ir už jos ribų."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:41
+msgid "References"
+msgstr "Šaltiniai"
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:43
+msgid ""
+"Bauer-Gottwein, P., Jensen, I. H., Guzinski, R., Bredtoft, G. K. T., Hansen,"
+" S., & Michailovsky, C. I. (2015). Operational river discharge forecasting "
+"in poorly gauged basins: the Kavango River basin case study. Hydrology and "
+"Earth System Sciences, 19(3), 1469-1485."
+msgstr "Bauer-Gottwein, P., Jensen, I. H., Guzinski, R., Bredtoft, G. K. T., Hansen, S., & Michailovsky, C. I. (2015). Operational river discharge forecasting in poorly gauged basins: the Kavango River basin case study. Hydrology and Earth System Sciences, 19(3), 1469-1485."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:45
+msgid ""
+"Guzinski, R.; Kass, S.; Huber, S.; Bauer-Gottwein, P.; Jensen, I.H.; Naeimi,"
+" V.; Doubkova, M.; Walli, A.; Tottrup, C. Enabling the Use of Earth "
+"Observation Data for Integrated Water Resource Management in Africa with the"
+" Water Observation and Information System. Remote Sens. 2014, 6, 7819-7839."
+msgstr "Guzinski, R.; Kass, S.; Huber, S.; Bauer-Gottwein, P.; Jensen, I.H.; Naeimi, V.; Doubkova, M.; Walli, A.; Tottrup, C. Enabling the Use of Earth Observation Data for Integrated Water Resource Management in Africa with the Water Observation and Information System. Remote Sens. 2014, 6, 7819-7839."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:47
+msgid ""
+"Walli, A., Tottrup, C., Naeimi, V., Bauer-Gottwein, P., Bila, M., Mufeti, "
+"P., Tumbulto, J.W., Rajah, C., Moloele, L.S. & Koetz, B. “TIGER-NET—Enabling"
+" an earth observation capacity for integrated water resource management in "
+"Africa,” presented at the ESA Living Planet Symp., Edinburgh, U.K., Sep. "
+"11–13, 2013."
+msgstr "Walli, A., Tottrup, C., Naeimi, V., Bauer-Gottwein, P., Bila, M., Mufeti, P., Tumbulto, J.W., Rajah, C., Moloele, L.S. & Koetz, B. “TIGER-NET—Enabling an earth observation capacity for integrated water resource management in Africa,” pristatyta ESA Living Planet Symp., Edinburge, J.K., 2013 Rugsėjo 11–13."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:50
+msgid "Links"
+msgstr "Nuorodos"
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:52
+msgid ""
+"More information about the WOIS software and the TIGER-NET project can be "
+"found on the project’s website: www.tiger-net.org"
+msgstr "Daugiau informacijos apie WOIS programinę įrangą ir TIGER-NET projektą rasite projekto svetainėje: www.tiger-net.org"
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:54
+msgid ""
+"More information about ESA’s TIGER initiative can be found on the "
+"initiative’s website: http://www.tiger.esa.int/ WOIS is available for "
+"download (after registration) from the TIGER website "
+"(http://www.tiger.esa.int/page_eoservices_wois.php) with source code of the "
+"developed plugins, scripts, models and workflows available from the "
+"project’s GitHub page (https://github.com/TIGER-NET)"
+msgstr "Daugiau informacijos apie ESA TIGER iniciatyvą rasite iniciatyvos svetainėje: http://www.tiger.esa.int/ WOIS galima atsisiųsti (prisiregistravus) iš TIGER svetainėes (http://www.tiger.esa.int/page_eoservices_wois.php) kartu su sukurtų priedų, scenarijų, modelių ir darbo eigų išeities kodu projekto GitHub puslapyje (https://github.com/TIGER-NET)"
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:56
+msgid ""
+"More information about the new Sentinel satellites can be found on ESA’s "
+"website: "
+"http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Overview4"
+msgstr "Daugiau informacijos apie Sentinel palydovus rasite ESA svetainėje: http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Overview4"
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:60
+msgid "Author"
+msgstr "Autorius"
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:62
+msgid ""
+"This article was contributed by Radoslaw Guzinski (WOIS software developer) "
+"with contributions from the TIGER-NET technical teams at DHI-GRAS (www.dhi-"
+"gras.com), GeoVille (www.geoville.com), the technical universities in Vienna"
+" (http://rs.geo.tuwien.ac.at/) and Copenhagen (http://www.env.dtu.dk/) as "
+"well as the European Space Agency ( www.esa.int)."
+msgstr "Šį straipsnį parašė Radoslaw Guzinski (WOIS programinės įrangos kūrėjas) su TIGER-NET techninių komandų iš DHI-GRAS pagalba (www.dhi-gras.com), GeoVille (www.geoville.com), Vienna techniniai universitetai (http://rs.geo.tuwien.ac.at/) and Copenhagen (http://www.env.dtu.dk/) taipogi Europos Erdvės Agentūra ( www.esa.int)."

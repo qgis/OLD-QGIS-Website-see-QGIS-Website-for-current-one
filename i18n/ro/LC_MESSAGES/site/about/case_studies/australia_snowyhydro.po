@@ -1,0 +1,196 @@
+# 
+# Translators:
+# Sorin Călinică <scalinica@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-05 15:28+0200\n"
+"PO-Revision-Date: 2017-09-22 09:58+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:4
+msgid "Using the processing toolbox to automate snow classification"
+msgstr "Folosirea setului de instrumente de procesare la automatizarea clasificării zăpezii"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:6
+msgid ""
+"Snowy Hydro Limited (SHL) is a peak electricity generator based in the Snowy"
+" Mountains of New South Wales, Australia. Despite owning a variety of "
+"generation assets across the country, Snowy Hydro Limited is best known for "
+"the custodianship of an iconic piece of Australian infrastructure, the Snowy"
+" Mountains Hydro Electric Scheme."
+msgstr "Snowy Hydro Limited (SHL) este un generator de vârf, de energie electrică din Snowy Mountains din New South Wales, Australia. În ciuda deținerii unei varietăți de active de producție în întreaga țară, Snowy Hidro Limited este cel mai bine cunoscută pentru custodia unui activ iconic al infrastructurii australiene, Snowy Mountains Hydro Electric Scheme."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:9
+msgid ""
+"The Snowy Mountains Hydro Electric Scheme, is made possible by seasonal snow"
+" falls in the New South Wales alpine region. Water from the spring snow melt"
+" is used to generate electricity addressing peak demand in the national "
+"electricity market, while also diverting water to the drier inland areas of "
+"South Eastern Australia for irrigation and agriculture."
+msgstr "Snowy Mountains Hydro Electric Scheme este posibilă datorită căderilor de zăpadă de sezon, din regiunea alpină New South Wales. Apa provenită din topirea de primăvară a zăpezii, este utilizată pentru a genera energie electrică dedicată acoperirii cererii de vârf de pe piața națională de energie electrică, în timp ce, de asemenea, servește și la asigurarea apei în zonele interioare uscate, din Sud-Estul Australiei, la irigații și agricultură."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:12
+msgid ""
+"Classifying snow cover over the winter months allows SHL to monitor the life"
+" cycle of the snow covered area, archive coverage areas for historical "
+"records, and provide coverage statistics to the hydrographic services team "
+"for water yield and storage forecasts."
+msgstr "Clasificarea acoperirii cu zăpadă de-a lungul lunilor de iarnă permite SHL să monitorizeze ciclul de viață al zonei acoperite de zăpadă, arhivarea zonelor de acoperire pentru înregistrări istorice, și furnizarea statisticilor de acoperire pentru echipa de prognoze hidrografice a randamentului apei și a capacității de depozitare."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:20
+msgid "Map 1.1 Snowy Water Catchment Map"
+msgstr "Harta 1.1 Harta Captărilor de Apă provenită din zăpezi"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:23
+msgid "Background"
+msgstr "Prezentare"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:25
+msgid ""
+"Each year during the winter months (1st June to the 31st October) SHL "
+"obtains as many cloud free images as possible from the MODIS Terra (EOS AM) "
+"satellite. These images are then ingested into an algorithm known as the "
+"Normalised Difference Snow Index (NDSI), which is used to indicate areas "
+"where snow is present. While this algorithm is not unique to any one "
+"particular sensor, the MODIS instrument was chosen due to its adequate "
+"spatial resolution and daily coverage of the project area (Map 1.1 Snowy "
+"Water Catchment)."
+msgstr "În fiecare an, în lunile de iarnă (de la 01 iunie la 31 octombrie) SHL obține cât mai multe imagini posibil, gratuite, ale norilor, de la satelitul MODIS Terra (EOS AM). Aceste imagini sunt apoi prelucrate de către un algoritm cunoscut sub numele de indexul de zăpadă cu diferența normalizată (NDSI), care este folosit pentru a indica zonele în care zăpada este prezentă. În timp ce acest algoritm nu este unic pentru un senzor anume, instrumentul MODIS a fost ales datorită rezoluției spațiale adecvate și acoperirii zilnice a ariei proiectului (Harta 1.1 Captarea de Apă provenind din topire)."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:29
+msgid "Aim"
+msgstr "Scopul"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:31
+msgid ""
+"The aim of this project is to automate the NDSI workflow as a model in the "
+"QGIS processing toolbox. The required output is a vector polygon showing the"
+" snow covered extent within the Snowy Water Catchment, along with "
+"attribution describing the total area covered in square kilometres."
+msgstr "Scopul acestui proiect este de a automatiza fluxul de lucru NDSI ca un model, folosind trusa instrumentelor de procesare QGIS. Ieșirea necesară este un poligon vectorial care arată măsura în care zăpada acoperă bazinul de captare a apelor Snowy, împreună cu atributele care descriu suprafața totală acoperită, în kilometri pătrați."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:35
+msgid "Method"
+msgstr "Metoda"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:37
+msgid ""
+"The NDSI algorithm itself is quite simple (show below in Formula 1.1 - "
+"Normalised Difference Snow Index (NDSI)) and the subsequent steps required "
+"to extract snow cover in a vector format also lends itself nicely to a "
+"processing toolbox model."
+msgstr "Algoritmul NDSI în sine este destul de simplu (arătat mai jos, în Formula 1.1 - Indexul de zăpadă cu diferență normalizată (NDSI)), precum și pașii următori, necesari pentru a extrage stratul de zăpadă într-un format vectorial, de asemenea, se pretează bine la un model de instrumente de procesare."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:44
+msgid "Formula 1.1 - Normalised Difference Snow Index (NDSI)"
+msgstr "Formula 1.1 - Indicele de Zăpadă cu Diferență Normalizată (NDSI)"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:47
+msgid ""
+"This NDSI algorithm will return results between -1 and 1, with the threshold"
+" for snow typically being values greater than 0.4. An example of the NDSI "
+"output is shown below (Map 1.3 - NDSI output), alongside a natural colour "
+"image (Map 1.2 - MODIS true colour) for the 13th July 2014. As seen from "
+"these images the NDSI output is very good at discriminating snow covered "
+"areas from other land cover types and clouds. It can however misclassify "
+"portions of large water bodies as snow, caused by water having absorption "
+"characteristics in the Near Infrared part of the spectrum. This "
+"characteristic of the NDSI indicates the need to incorporate a water mask at"
+" some stage in the model."
+msgstr "Acest algoritm NDSI va returna rezultatele între -1 și 1, cu un prag de zăpadă având de obicei valori mai mari de 0,4. Un exemplu de ieșire NDSI este prezentată mai jos (Harta 1.3 - ieșirea NDSI), alături de o imagine în culori naturale (Harta 1.2 - culori reale MODIS) pentru 13 iulie 2014. După cum se vede din aceste imagini ieșirea NDSI este foarte bună la deosebirea zonele acoperite de zăpadă față de alte tipuri de terenuri acoperite și nori. Se pot clasifica eronat porțiuni ale corpurilor de apă mari ca zăpada, cauzate de apa având caracteristici de absorbție în partea infraroșie a spectrului. Această caracteristică a NDSi indică necesitatea de a încorpora, la un moment dat, o mască de apă în model."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:55
+msgid "Map 1.2 - MODIS true colour"
+msgstr "Harta 1.2 - culori reale MODIS"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:62
+msgid "Map 1.3 - NDSI output"
+msgstr "Harta 1.3 - ieșire NDSI"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:69
+msgid "Map 1.4 - Recoded \"Snow\" vs \"Non snow\""
+msgstr "Harta 1.4 - \"Zăpadă\" Înregistrată vs \"Fără zăpadă\""
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:72
+msgid ""
+"The NDSI output is created with some very simple band map by using the GRASS"
+" module \"r.mapcalculator\". Once the NDSI grid was available the NDSI "
+"threshold of 0.4 needed to be applied and this would result in a boolean "
+"grid depicting \"Snow\" and \"Non snow\" areas. To get that classification "
+"another GRASS module \"r.recode\" was used and produced the result shown "
+"above in Map 1.4 Recoded ‘Snow’ vs ‘Non Snow’."
+msgstr "Ieșirea NDSI este creată cu o hartă având o singură bandă, cu ajutorul modulului GRASS 'r.mapcalculator'. După ce grila NDSI este disponibilă, este necesară aplicarea pragulului 0,4 NDSI, acest lucru generând o grilă booleană cu zone de \"Zăpadă\" și zone \"Fără zăpadă\". Pentru a obține această clasificare, este folosit un alt modul GRASS, 'r.recode', rezultatul fiind afișat în Harta 1.4 'Zăpada' înregistrată, comparativ cu 'Lipsa zăpezii'."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:75
+msgid ""
+"The recoded grid was then converted to a vector polygon dataset and the snow"
+" covered areas were extracted (shown below, Map 1.5 - Extracted snow). The "
+"snow covered areas were then clipped to the Snowy Water Catchment  (shown "
+"below, Map - 1.6 Snow inside the SWC), then the large water bodies are "
+"masked out (shown below, Map 1.7 - Final snow covered area), and finally the"
+" area statistics for the snow covered area is generated."
+msgstr "Grila înregistrată a fost apoi transformată într-un vector de date de tip poligon, după care au fost extrase zonele acoperite de zăpadă (prezentate mai jos, în harta 1.5 - Zăpada Extrasă). Zonele acoperite de zăpadă au fost ulterior decupate după Captarea de Apă Snowy (prezentate mai jos, pe harta - 1.6 Zăpada din interiorul SWC), după care porțiunile mari de apă au fost mascate (așa cum se vede mai jos, pe harta 1,7 - Zona Finală acoperită de zăpadă) și, în final, s-a generat zona de statistici pentru suprafața acoperită de zăpadă."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:83
+msgid "Map 1.5 - Extracted Snow"
+msgstr "Harta 1.5 - Zăpadă Extrasă"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:90
+msgid "Map 1.6 - Snow inside the SWC"
+msgstr "Harta 1.6 - Zăpadă din intreriorul SWC"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:97
+msgid "Map 1.7 - Final snow covered area"
+msgstr "Harta 1.7 - Zona finală acoperită cu zăpadă"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:100
+msgid ""
+"The output from the model is a vector polygon showing the snow covered area "
+"within the Snowy Water Catchment. The attributes of the polygon include the "
+"area covered by the snow and the percentage of the catchment that is "
+"covered. The model in its entirety can be seen below in \"Image 1.1 - "
+"Normalised Difference Snow Index (NDSI) QGIS processing toolbox model\"."
+msgstr "Rezultatul modelului este un poligon vectorial care arată zona acoperită de zăpadă din captarea de apă Snowy. Atributele poligonului includ suprafața acoperită de zăpadă și procentajul de captare acoperit. Modelul, în întregimea sa, poate fi văzut mai jos în \"Imaginea 1.1 - Indexul de Zăpadă cu Diferență Normalizată (NDSI) Modelul de procesare al instrumentelor din QGIS\"."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:108
+msgid ""
+"Image 1.1 - Normalised Difference Snow Index (NDSI) QGIS processing toolbox "
+"model"
+msgstr "Imaginea 1.1 - Indicele de Zăpadă cu Diferență Normalizată (NDSI) Modelul instrumentului de procesare din QGIS"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:112
+msgid "Results/Conclusion"
+msgstr "Rezultate/Concluzii"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:114
+msgid ""
+"The QGIS processing toolbox is a powerful way to automate a workflow such as"
+" this snow classification. The model shown above successfully automates the "
+"snow classification process, and delivers a GIS dataset that can be used for"
+" visualisation and input into further statistical applications. It "
+"successfully removes subjective user error associated with previous methods "
+"used by SHL, while providing a repeatable and consistent classification "
+"tool. Some seasonal results can be viewed here."
+msgstr "Trusa de instrumente de procesare din QGIS reprezintă un mod puternic de a automatiza un flux de lucru, cum ar fi această clasificare de zăpadă. Modelul prezentat mai sus automatizează cu succes procesul de clasificare a zăpezii, și oferă un set de date GIS care pot fi utilizate pentru vizualizarea și introducerea în aplicații statistice ulterioare. Se elimină cu succes erorile de utilizare subiective, asociate cu metodele anterioare folosite de SHL, oferind în același timp un instrument de clasificare repetabil și coerent. Unele rezultate de sezon pot fi vizualizate aici."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:118
+msgid "Author"
+msgstr "Autor"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:120
+msgid ""
+"Andrew Jeffrey is a GIS Analyst with Snowy Hydro Limited based in Cooma NSW,"
+" Australia. He graduated from Charles Sturt University in Wagga Wagga with a"
+" Bachelor of Science (Bsc) majoring in Spatial Information Systems in 2004. "
+"While at Snowy Hydro Limited he has been able to provide spatial support to "
+"exciting projects such as the Cloud Seeding experiment, and day to day "
+"operations within the organisation."
+msgstr "Andrew Jeffrey este un analist GIS la Snowy Hydro Limited cu sediul în Cooma NSW, Australia. A absolvit Universitatea Charles Sturt din Wagga Wagga cu un Bachelor of Science (BSC) în sisteme informatice spațiale în 2004. În același timp, la Snowy Hidro Limited el a fost în măsură să ofere sprijin spațial zi de zi în cadrul organizației și în proiecte interesante, cum ar fi experimentul Cloud Seeding."

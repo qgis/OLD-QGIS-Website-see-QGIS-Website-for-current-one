@@ -1,0 +1,424 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Benoît de Cabissole, 2017
+# e73ac47b81f6b760515e03e1398e2645, 2017
+# Nicolas Boisteault <nboisteault@gmail.com>, 2017
+# Hugo Roussaffa <geodatup@gmail.com>, 2017
+# Jules GARNIER, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"PO-Revision-Date: 2017-08-08 09:20+0000\n"
+"Last-Translator: Jules GARNIER, 2018\n"
+"Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/getinvolved/styleguide.rst:2
+msgid "Visual Style Guide"
+msgstr "Guide de Style Visuel"
+
+#: ../../source/site/getinvolved/styleguide.rst:5
+msgid "Version 1.0"
+msgstr "Version 1.0"
+
+#: ../../source/site/getinvolved/styleguide.rst:7
+msgid ""
+"This is our QGIS Visual Style Guide. This document defines standards for the"
+" use of the our visual identity. It proposes a modernization of the QGIS "
+"brand to make it stronger, more visible and more adaptable to a broad range "
+"of use cases."
+msgstr ""
+"Il s'agit de notre Guide de style visuel QGIS. Ce document définit les "
+"normes pour l'utilisation de notre identité visuelle. Il propose une "
+"modernisation de la marque QGIS pour la rendre plus forte, plus visible et "
+"plus adaptable à un large éventail de cas d'utilisation."
+
+#: ../../source/site/getinvolved/styleguide.rst:13
+msgid ""
+"The Visual Style Guide is a living document, initiated with the goal of "
+"developing a consistent message and image for QGIS. It is a “living” "
+"document because we expect it to expand as we cover more use cases where "
+"visual consistency is important and can be described using simpler rules. "
+"The standards and simple policies described here are designed to maintain "
+"the uniformity of presentation necessary for successful promotion and "
+"marketing efforts for the QGIS project."
+msgstr ""
+"Le Guide de Style Visuel est un document vivant, initié dans le but de "
+"développer un message et une image cohérente pour QGIS. C'est un document "
+"«vivant» parce que nous souhaitons qu'il s'étende à mesure que nous couvrons"
+" plus de cas où la cohérence visuelle est importante et peut être décrite en"
+" utilisant des règles plus simples. Les normes et les politiques simples "
+"décrites ici sont conçues pour maintenir l'uniformité de présentation "
+"nécessaire à la réussite des efforts de promotion et de marketing pour le "
+"projet QGIS."
+
+#: ../../source/site/getinvolved/styleguide.rst:23
+msgid ""
+"Our visual identity symbolizes QGIS’s strength, promise of quality and "
+"competence. Proper treatment of logo, fonts and color ensures that QGIS will"
+" be recognized and stand out amid communications clutter. Graphic standards "
+"are a visual expression of QGIS and should serve as the base for our overall"
+" communications strategy."
+msgstr ""
+"Notre identité visuelle symbolise la force de QGIS, sa promesse de qualité "
+"et de compétence. Un traitement approprié du logo, des polices et de la "
+"couleur garantit que QGIS sera reconnu et se démarquera à la concurrence. "
+"Les standards graphiques constituent une expression visuelle de QGIS et doit"
+" servir de base à notre stratégie globale de communication."
+
+#: ../../source/site/getinvolved/styleguide.rst:30
+msgid ""
+"This first version of the Graphic Style Guide outlines the core elements of "
+"the new QGIS logo. Future versions will focus on branding assets and how to "
+"spread the QGIS brand across the web, mobile devices and printed materials."
+msgstr ""
+"Cette première version du Guide des styles graphiques présente les éléments "
+"clés du nouveau logo QGIS. Les futures versions mettront l'accent sur "
+"l'image de marque des actifs et sur la façon de diffuser la marque QGIS sur "
+"le Web, les appareils mobiles et les documents imprimés."
+
+#: ../../source/site/getinvolved/styleguide.rst:38
+msgid "Logotype"
+msgstr "Logotype"
+
+#: ../../source/site/getinvolved/styleguide.rst:41
+msgid "Original"
+msgstr "Original"
+
+#: ../../source/site/getinvolved/styleguide.rst:47
+msgid "**Download logo file**"
+msgstr "**Télécharger le fichier du logo**"
+
+#: ../../source/site/getinvolved/styleguide.rst:49
+msgid ":download:`SVG logo <files/qgis-logo.svg>`"
+msgstr ":download:`logo SVG <files/qgis-logo.svg>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:51
+msgid ":download:`PNG logo <files/qgis-logo.png>`"
+msgstr ":download:`logo PNG <files/qgis-logo.png>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:53
+msgid ":download:`SVG monochrome logo <files/qgis-logo-monochrome.svg>`"
+msgstr ":download:` logo SVG monochrome<files/qgis-logo-monochrome.svg>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:55
+msgid ":download:`PNG monochrome logo <files/qgis-logo-monochrome.png>`"
+msgstr ":download:`logo PNG monochrome <files/qgis-logo-monochrome.png>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:62
+msgid ""
+"The new QGIS logo is presented here. Keeping the core elements of the "
+"original QGIS logo (Q letter with an arrow through it), this new version "
+"intends to be sharp and scalable, introducing simpler and bolder shapes."
+msgstr ""
+"Le nouveau logo QGIS est présenté ici. En gardant les éléments de base du "
+"logo QGIS original (lettre Q avec une flèche à travers elle), cette nouvelle"
+" version a l'intention d'être nette et évolutive, en introduisant des formes"
+" plus simples et plus audacieuses."
+
+#: ../../source/site/getinvolved/styleguide.rst:67
+msgid "The proposed changes are listed below."
+msgstr "Les changements proposés sont listés ci-dessous."
+
+#: ../../source/site/getinvolved/styleguide.rst:69
+msgid "The existing spirit is preserved but the logo is bold"
+msgstr "L'esprit du précédent logo est conservé mais le logo est en gras"
+
+#: ../../source/site/getinvolved/styleguide.rst:70
+msgid "Shadows removed"
+msgstr "Les ombres sont supprimées"
+
+#: ../../source/site/getinvolved/styleguide.rst:71
+msgid "The Q is sans-serif"
+msgstr "Le Q est sans-serif"
+
+#: ../../source/site/getinvolved/styleguide.rst:72
+msgid "The arrow becomes the part of Q letter"
+msgstr "La flèche fait partie de la lettre Q"
+
+#: ../../source/site/getinvolved/styleguide.rst:73
+msgid "The QGIS logo text is based on the free & libre Trueno Bold font."
+msgstr "Le logo QGIS est basé sur la police libre de droits Trueno Bold"
+
+#: ../../source/site/getinvolved/styleguide.rst:76
+msgid "Minimal"
+msgstr "Minimal"
+
+#: ../../source/site/getinvolved/styleguide.rst:80
+msgid "**Download minimal logo**"
+msgstr "**Télécharger le logo minimal**"
+
+#: ../../source/site/getinvolved/styleguide.rst:82
+msgid ""
+":download:`SVG 128px <files/qgis-icon128.svg>` :download:`SVG 64px <files"
+"/qgis-icon64.svg>` :download:`SVG 32px <files/qgis-icon32.svg>`"
+msgstr ""
+":download:`SVG 128px <files/qgis-icon128.svg>` :download:`SVG 64px <files"
+"/qgis-icon64.svg>` :download:`SVG 32px <files/qgis-icon32.svg>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:86
+msgid ""
+":download:`PNG 128px <files/qgis-icon128.png>` :download:`PNG 64px <files"
+"/qgis-icon64.png>` :download:`PNG 32px <files/qgis-icon32.png>`"
+msgstr ""
+":download:`PNG 128px <files/qgis-icon128.png>` :download:`PNG 64px <files"
+"/qgis-icon64.png>` :download:`PNG 32px <files/qgis-icon32.png>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:93
+msgid "**Download minimal black**"
+msgstr "**Télécharger le logo minimal en noir**"
+
+#: ../../source/site/getinvolved/styleguide.rst:95
+msgid ""
+":download:`SVG black 128px <files/qgis-icon-black128.svg>` :download:`SVG "
+"black 64px <files/qgis-icon-black64.svg>` :download:`SVG black 32px <files"
+"/qgis-icon-black32.svg>`"
+msgstr ""
+":download:`SVG noir 128px <files/qgis-icon-black128.svg>` :download:`SVG "
+"noir 64px <files/qgis-icon-black64.svg>` :download:`SVG noir 32px <files"
+"/qgis-icon-black32.svg>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:99
+msgid ""
+":download:`PNG black 128px <files/qgis-icon-black128.png>` :download:`PNG "
+"black 64px <files/qgis-icon-black64.png>` :download:`PNG black 32px <files"
+"/qgis-icon-black32.png>`"
+msgstr ""
+":download:`PNG noir 128px <files/qgis-icon-black128.png>` :download:`PNG "
+"noir 64px <files/qgis-icon-black64.png>` :download:`PNG noir 32px <files"
+"/qgis-icon-black32.png>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:106
+msgid "**Download minimal green**"
+msgstr "**Télécharger le logo minimal en vert**"
+
+#: ../../source/site/getinvolved/styleguide.rst:108
+msgid ""
+":download:`SVG green 128px <files/qgis-icon-green128.svg>` :download:`SVG "
+"green 64px <files/qgis-icon-green64.svg>` :download:`SVG green 32px <files"
+"/qgis-icon-green32.svg>`"
+msgstr ""
+":download:`SVG vert 128px <files/qgis-icon-green128.svg>` :download:`SVG "
+"vert 64px <files/qgis-icon-green64.svg>` :download:`SVG vert 32px <files"
+"/qgis-icon-green32.svg>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:112
+msgid ""
+":download:`PNG green 128px <files/qgis-icon-green128.png>` :download:`PNG "
+"green 64px <files/qgis-icon-green64.png>` :download:`PNG green 32px <files"
+"/qgis-icon-green32.png>`"
+msgstr ""
+":download:`PNG vert 128px <files/qgis-icon-green128.png>` :download:`PNG "
+"vert 64px <files/qgis-icon-green64.png>` :download:`PNG vert 32px <files"
+"/qgis-icon-green32.png>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:119
+msgid "**Download minimal white**"
+msgstr "**Télécharger le logo minimal en blanc**"
+
+#: ../../source/site/getinvolved/styleguide.rst:121
+msgid ""
+":download:`SVG white 128px <files/qgis-icon-white128.svg>` :download:`SVG "
+"white 64px <files/qgis-icon-white64.svg>` :download:`SVG white 32px <files"
+"/qgis-icon-white32.svg>`"
+msgstr ""
+":download:`SVG blanc 128px <files/qgis-icon-white128.svg>` :download:`SVG "
+"blanc <files/qgis-icon-white64.svg>` :download:`SVG blanc 32px <files/qgis-"
+"icon-white32.svg>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:125
+msgid ""
+":download:`PNG white 128px <files/qgis-icon-white128.png>` :download:`PNG "
+"white 64px <files/qgis-icon-white64.png>` :download:`PNG white 32px <files"
+"/qgis-icon-white32.png>`"
+msgstr ""
+":download:`PNG blanc 128px <files/qgis-icon-white128.png>` :download:`PNG "
+"blanc <files/qgis-icon-white64.png>` :download:`PNG blanc 32px <files/qgis-"
+"icon-white32.png>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:132
+msgid "Typography"
+msgstr "Typographie"
+
+#: ../../source/site/getinvolved/styleguide.rst:135
+msgid "Trueno fonts"
+msgstr "Les polices de caractères Trueno"
+
+#: ../../source/site/getinvolved/styleguide.rst:137
+msgid ""
+"Trueno is a free Font Library serif font. In order to embed it, please use "
+"``<link rel=\"stylesheet\" media=\"screen\" "
+"href=\"https://fontlibrary.org/face/trueno\" type=\"text/css\"/>`` in the "
+"site header"
+msgstr ""
+"Trueno est une police de caractère libre Font Library avec empattement "
+"serif. Afin de l'intégrer à votre site, veuillez copier ``<link "
+"rel=\"stylesheet\" media=\"screen\" "
+"href=\"https://fontlibrary.org/face/trueno\" type=\"text/css\"/>`` dans le "
+"header"
+
+#: ../../source/site/getinvolved/styleguide.rst:140
+msgid "Name"
+msgstr "Nom"
+
+#: ../../source/site/getinvolved/styleguide.rst:140
+msgid "Font-family"
+msgstr "Famille"
+
+#: ../../source/site/getinvolved/styleguide.rst:142
+msgid "Trueno Ultra light"
+msgstr "Trueno Ultra light"
+
+#: ../../source/site/getinvolved/styleguide.rst:142
+msgid "'TruenoUltraLight'"
+msgstr "'TruenoUltraLight'"
+
+#: ../../source/site/getinvolved/styleguide.rst:143
+msgid "Trueno Regular"
+msgstr "Trueno Regular"
+
+#: ../../source/site/getinvolved/styleguide.rst:143
+msgid "'TruenoRegular'"
+msgstr "'TruenoRegular'"
+
+#: ../../source/site/getinvolved/styleguide.rst:144
+msgid "Trueno Bold"
+msgstr "Trueno Bold"
+
+#: ../../source/site/getinvolved/styleguide.rst:144
+msgid "'TruenoBold'"
+msgstr "'TruenoBold'"
+
+#: ../../source/site/getinvolved/styleguide.rst:149
+msgid "Color"
+msgstr "Couleur"
+
+#: ../../source/site/getinvolved/styleguide.rst:152
+msgid "Primary colors"
+msgstr "Couleurs primaires"
+
+#: ../../source/site/getinvolved/styleguide.rst:154
+msgid "**Dark Green**"
+msgstr "**Vert Foncé**"
+
+#: ../../source/site/getinvolved/styleguide.rst:158
+msgid "HEX: #589632"
+msgstr "HEX : #589632"
+
+#: ../../source/site/getinvolved/styleguide.rst:160
+msgid "RGB: 88, 150, 50"
+msgstr "RGB : 88, 150, 50"
+
+#: ../../source/site/getinvolved/styleguide.rst:162
+msgid "CMYK: 70.53, 18.84, 100, 3.7"
+msgstr "CMYK : 70.53, 18.84, 100, 3.7"
+
+#: ../../source/site/getinvolved/styleguide.rst:164
+msgid ""
+"The QGIS Dark Green color to be used for every logo element in the "
+"monochrome version. It can also be used as background, primary headline or "
+"text color."
+msgstr ""
+"La couleur Vert foncé de QGIS sera utilisée pour tous les éléments du logo "
+"dans sa version monochrome. Elle peut aussi être utilisée comme couleur de "
+"fond, de l'en-tête principale ou de texte."
+
+#: ../../source/site/getinvolved/styleguide.rst:168
+msgid "**Light Green**"
+msgstr "**Vert clair**"
+
+#: ../../source/site/getinvolved/styleguide.rst:172
+msgid "HEX: #93b023"
+msgstr "HEX : #93b023"
+
+#: ../../source/site/getinvolved/styleguide.rst:174
+msgid "RGB: 147, 176, 35"
+msgstr "RGB : 147, 176, 35"
+
+#: ../../source/site/getinvolved/styleguide.rst:176
+msgid "CMYK: 50.62, 12.6, 100, 0.86"
+msgstr "CMYK : 50.62, 12.6, 100, 0.86"
+
+#: ../../source/site/getinvolved/styleguide.rst:178
+msgid ""
+"The QGIS Light Green color to be used for content of lesser importance. It "
+"can be used as secondary background, text or links color."
+msgstr ""
+"La couleur Vert clair de QGIS sera utilisée pour le contenu de moindre "
+"importance. Elle peut être utilisée comme couleur pour un fond secondaire, "
+"du texte ou des liens."
+
+#: ../../source/site/getinvolved/styleguide.rst:182
+msgid "**The gradient**"
+msgstr "**Le gradient**"
+
+#: ../../source/site/getinvolved/styleguide.rst:186
+msgid ""
+"The two primary colors are used as a vertical linear gradient in the logo, "
+"and this gradient can be used for website and printed materials background"
+msgstr ""
+"Les deux couleurs primaires sont utilisées comme gradient linéaire vertical "
+"pour le logo, et ce gradient peut être utilisé pour un site web ou comme "
+"fond pour matériels imprimés"
+
+#: ../../source/site/getinvolved/styleguide.rst:190
+#: ../../source/site/getinvolved/styleguide.rst:222
+msgid "**Color Palette**"
+msgstr "**Palette de couleurs**"
+
+#: ../../source/site/getinvolved/styleguide.rst:197
+msgid "Secondary colors"
+msgstr "Couleurs secondaires"
+
+#: ../../source/site/getinvolved/styleguide.rst:199
+msgid "**Lemon**"
+msgstr "**Citron**"
+
+#: ../../source/site/getinvolved/styleguide.rst:203
+msgid "HEX: #f0e64a"
+msgstr "HEX : #f0e64a"
+
+#: ../../source/site/getinvolved/styleguide.rst:205
+msgid "RGB: 240, 230, 74"
+msgstr "RGB : 240, 230, 74"
+
+#: ../../source/site/getinvolved/styleguide.rst:207
+msgid "CMYK: 11, 0, 79, 0"
+msgstr "CMYK : 11, 0, 79, 0"
+
+#: ../../source/site/getinvolved/styleguide.rst:210
+msgid "**Orange**"
+msgstr "**Orange**"
+
+#: ../../source/site/getinvolved/styleguide.rst:214
+msgid "HEX: #ee7913"
+msgstr "HEX : #ee7913"
+
+#: ../../source/site/getinvolved/styleguide.rst:216
+msgid "RGB: 238, 121, 19"
+msgstr "RGB : 238, 121, 19"
+
+#: ../../source/site/getinvolved/styleguide.rst:218
+msgid "CMYK: 0, 62, 96, 0"
+msgstr "CMYK : 0, 62, 96, 0"
+
+#: ../../source/site/getinvolved/styleguide.rst:220
+msgid ""
+"The QGIS Lemon and Orange colors to be used for the accents and call-to-"
+"actions"
+msgstr ""
+"Les couleurs Citron et Orange de QGIS seront utilisées pour les mises en "
+"valeurs et les appels à action"

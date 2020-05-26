@@ -1,0 +1,180 @@
+# 
+# Translators:
+# Tomas Straupis, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2017-09-23 20:42+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/about/case_studies/india_assam.rst:5
+msgid ""
+"Nameri Tiger Reserve (NTR) is one of the 3 tiger reserves of Assam and it is"
+" situated in the northern part of Sonitpur District of Assam along the "
+"foothills of Eastern Himalayas. Spread over an area of 344 sq km, NTR boasts"
+" rich diversity of flora and fauna. The core area of the reserve which "
+"constitutes the “Nameri National Park” is bound by River Jia-Bhoreli on the "
+"west and River Bor-Dikorai in the east. To the north of the Nameri lies the "
+"Pakke Tiger Reserve of Arunachal Pradesh."
+msgstr "Nameri tigrų rezervatas (NTR) yra vienas iš 3 Assam'o tigrų rezervatų. Jis yra Sonitpur apskrities šiaurinėje dalyje, greta Rytinių Himalajų kalvų. Užimančiame 344 kv. km plotą, NTR galima rasti floros ir faunos įvairovę. Pagrindinę rezervato dalį sudaro „Nameri nacionalinis parkas“, kurį iš vakarinės pusės riboja upė Jia-Bhoreli, o iš rytų - Bor-Dikorai upė. Šiauriau Nameri yra Arunachal Pradesh Pakke tigrų rezervatas."
+
+#: ../../source/site/about/case_studies/india_assam.rst:12
+msgid ""
+"Within this landscape, the principal species of conservation importance are "
+"the Royal Bengal Tiger, Asian Elephant, Indian bison, Common leopard, "
+"clouded leopard, Wild dog, Sambar deer, barking deer, hog deer, wild boar "
+"and several other species. The bird diversity of NTR is also quite "
+"impressive and more than 370 bird species have been identified so far. The "
+"reserve is managed by the Assam Forest Department, Government of Assam."
+msgstr "Tokiame kraštovaizdyje pagrindinės saugomos rūšys yra Karališkas Bengalijos tigras, Azijos dramblys, Indijos bizonas, paprastasis leopardas, laukinis šuo, Sambaro elnias, lojantis elnias, šernas-elnias, laukinis šernas ir keletas kitų rūšių. NTR paukščių įvairovė taip pat įspūdinga: iki šiol identifikuota virš 370 paukščių rūšių. Rezervatą tvarko Assam'o miškų departamentas, Assamo vyriausybė."
+
+#: ../../source/site/about/case_studies/india_assam.rst:15
+msgid "Application of QGIS for designing camera trap study"
+msgstr "QGIS naudojimas rašant slaptų kamerų studiją"
+
+#: ../../source/site/about/case_studies/india_assam.rst:17
+msgid ""
+"Starting with the year 2011, the National Tiger Conservation Authority "
+"(NTCA) of India has made it mandatory for the all the tiger reserves of the "
+"country to monitor tigers by using camera traps. Under this new protocol, 25"
+" pairs of cameras will be installed for 100 sq km of tiger reserve and the "
+"sampling period is 40-60 days. This new tiger monitoring protocol relies "
+"heavily on the GIS."
+msgstr "Indijos Nacionalinė tigrų apsaugos vadovybė (NTCA) nuo 2011 metų paskelbė, kad tigrus stebėti slaptomis kameromis yra privaloma visuose tigrų rezervatuose. Pagal šį naują protokolą 100 kvadratinių kilometrų tigrų rezervatų bus įdiegtos 25 kamerų poros, atrankos periodas 40-60 dienų. Šis naujas tigrų stebėjimo protokolas stipriai priklauso nuo GIS."
+
+#: ../../source/site/about/case_studies/india_assam.rst:24
+msgid "Picture of a male tiger that was captured in one of the camera traps"
+msgstr "Tigro patino, nufotografuoto viena iš slaptų kamerų, nuotrauka"
+
+#: ../../source/site/about/case_studies/india_assam.rst:31
+msgid ""
+"Block wise distribution of camera trap locations and assigning camera traps "
+"to different forest camps by using voronoi polygons & hub distance."
+msgstr "Slaptų kamerų vietų ir kamerų priskyrimas skirtingoms miškų stovykloms blokinis pasiskirstymas naudojant voronoi poligonus ir centrų atstumus."
+
+#: ../../source/site/about/case_studies/india_assam.rst:33
+msgid ""
+"Next we prepared 4 sq km grid layer using mmqgis plugin. The shape file "
+"containing results of sign survey was overlaid on the 4 sq grid to visualise"
+" the distribution of camera traps in NTR. Distance matrix option under "
+"vector analysis tools was quite handy for determining the inter camera "
+"distance. Camera locations having less than 1.8 km inter distance were "
+"removed to comply with the monitoring protocol. Due to lack of sufficient "
+"cameras to monitor the entire reserve area in one go, we decided to divide "
+"the reserve area into 2 blocks of 100 sq km each. Boundaries of these blocks"
+" were digitised and saved as separate shape files for both the blocks. Using"
+" RGB composition plugin, a false color composite of the reserve was created "
+"and the sign survey shape file overlaid to assess the habitat types used by "
+"the tiger. During the study period, the camera traps have to be monitored "
+"intensively by the field staff. To ensure smooth functioning of monitoring "
+"process, we used Voronoi polygon feature of Geometry tools and hub distance "
+"of mmqgis plugin for planning logistic requirements. The geographic "
+"coordinates of camera traps are required for estimating the tiger density "
+"and occupancy modelling of other species. These coordinate details were "
+"easily generated from camera trap shape files by using the “Export/ add "
+"geometry columns” feature of vector Geometry tools."
+msgstr "Tada mes paruošėme 4 kv. km tinklelio sluoksnį, naudodami mmqgis priedą. Shape failas su ženklų tyrimo rezultatais buvo perklotas ant 4 kv. tinklelio NTR kamerų paskirstymo vizualizaciai. Analizės įrankių atstumų matricos parinktis labai pravertė nustatant atstumus tarp kamerų. Kamerų pozicijos, kurios buvo arčiau nei 1,8km viena nuo kitos buvo pašalintos, kad atitiktų stebėjimo protokolą. Dėl tinkamų kamerų trūkumo viso rezervato stebėjimui iš karto, mes nusprendėme padalinti rezervato plotą į 2 blokus po  100 kv. km. Naudodami RGB kombinavimo priedą buvo sukurtas netikrų spalvų kompozitas ir ženklų apžiūros failas buvo uždėtas, kad įvertintumėme tigrų naudojamus arealų tipus. Studijos metu slaptos kameros turi būti intensyviai stebimos darbuotojų. Kad užtikrintumėme sklandų stebėjimo procesą, mes naudojome Voronoi poligonų funkcionalumą iš Geometrijos įrankių ir centro atstumą iš mmqgis priedo, kad suplanuotumėme logistikos reikalavimus. Geografinės slaptų kamerų pozicijos reikalingos tigrų tankumo apskaičiavimui ir kitų rūšių veiklos modeliavimui. Šios koordinačių detalės buvo nesunkiai sukurtos iš slaptų kamerų shape failų naudojant vektorių geometrijos įrankių savybę „Eskportuoti / pridėti geometrijos stulpelius“."
+
+#: ../../source/site/about/case_studies/india_assam.rst:41
+msgid "Survey grids with tiger presence"
+msgstr "Apžiūros tinklelis su tigrų aptikimo vietomis"
+
+#: ../../source/site/about/case_studies/india_assam.rst:44
+msgid "Conclusion"
+msgstr "Išvada"
+
+#: ../../source/site/about/case_studies/india_assam.rst:50
+msgid "Author"
+msgstr "Autorius"
+
+#: ../../source/site/about/case_studies/india_assam.rst:57
+msgid "Rajendra Garawad"
+msgstr "Rajendra Garawad"
+
+#: ../../source/site/about/case_studies/india_assam.rst:59
+msgid ""
+"This article was contributed by Rajendra G. Garawad in March 2013. He is the"
+" Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
+"Degrees in Forestry Science and Conservation & Land Management."
+msgstr "Šį straipsnį parašė Rajendra G. Garawad 2013 metų kovą. Jis yra Indijos Assam'o Nameri Tigrų rezervato lauko direktorius. Jis turi miško mokslų, apsaugos ir žemės tvarkymo magistro laipsnį."
+
+#: ../../source/site/about/case_studies/india_assam.rst:3
+msgid ""
+"QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
+"Assam, India Sonitpur District)"
+msgstr "QGIS tigrų stebėjimui (naudojant slaptas kameras Nameri Tigrų rezervate, Assam'e, Indijos Sonitpur apskrityje)"
+
+#: ../../source/site/about/case_studies/india_assam.rst:26
+msgid ""
+"During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
+"using QGIS. To begin with, we digitized the NTR boundary in QGIS and saved "
+"it as polygon. This boundary polygon was exported to GPS for navigation "
+"purpose during the field surveys. We conducted an extensive sign survey in "
+"NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
+"GPS coordinates of tiger signs as well as suitable locations for camera "
+"traps were recorded. After completion of the survey, the data was "
+"transferred to QGIS using GPS tools for further processing and for "
+"finalizing camera trap locations. A shape file containing the tiger signs "
+"and probable camera trap locations was prepared."
+msgstr "2012-13 metais mes įdiegėme NTR'e šį naują tigrų stebėjimo protokolą naudodami QGIS. Visų pirma mes suskaitmeninome NTR ribas QGIS'u ir įrašėme jas kaip poligoną. Šis ribos poligonas buvo eksportuotas į GPS navigacijos lauko apžiūrų metu tikslams. Mes vykdėme išsamią NTR apžiūrą, ieškodami tigrų buvimo ženklų, tokių kaip išmatų ir apdraskymų. Buvo įrašytos tigrų ženklų GPS pozicijos, taipogi ir vietos, tinkamos slaptoms kameroms. Baigus apžiūrą, duomenys buvo perkelti į QGIS naudojant GPS įrankius tolesniam apdorojimui ir galutinėms kamerų pozicijoms nustatyti. Buvo paruoštas shape failas su tigrų ženklais ir galimomis slaptų kamerų pozicijomis."
+
+#: ../../source/site/about/case_studies/india_assam.rst:46
+msgid ""
+"For the first time in the history of this small tiger reserve of North East "
+"India, it was possible to monitor tigers by using camera traps mainly "
+"because of QGIS. Results of this monitoring exercise indicate the presence "
+"of 8-15 tigers in this landscape. In addition to the tigers, several elusive"
+" species have also been photographically documented. Apart from tiger "
+"monitoring, we are also using QGIS for activities such as planning habitat "
+"management works, revising patrolling schedules, and designing maps for "
+"visitors. The user-friendly interface, rich features, in-depth "
+"documentation, on-line support  and the free/open source philosophy are the "
+"few qualities of QGIS that made us to select it over other proprietary "
+"software. We believe that QGIS has great potential for empowering "
+"individuals/institutions/ involved in conserving endangered wildlife in the "
+"developing world by offering GIS technology at little or no cost."
+msgstr "Pirmą kartą šis nedidelis Šiaurės-Rytų Indijos tigrų rezervatas galėjo stebėti tigrus slaptų kamerų pagalbą pagrinde dėl QGIS. Šio stebėjimo rezultatai rodo, kad šiame kraštovaizdyje yra 8-15 tigrų. Greta tigrų nufotografuota ir dokumentuota keletas kitų retai pastebimų rūšių. Be tigrų stebėjimo mes taipogi naudojame QGIS kitoms veikloms, tokioms kaip arealo tvarkymo darbams, patruliavimo grafiko peržiūrai ir lankytojų žemėlapių kūrimui. Draugiška naudotojo sąsaja, funkcionalumo kiekis, detali dokumentacija, palaikymas internete ir nemokama/atviro kodo filosofija - tai tik kelios iš QGIS savybių, dėl kurių mes pasirinkome QGIS, o ne nuosavybine įrangą. Mes tikime, kad QGIS suteikia didelį potencialą žmonėms ir institucijoms, susijusioms su saugomomis rūšimis, besivystančiame pasaulyje, nes QGIS technologija prieinama nemokamai arba labai nebrangiai."
+
+#~ msgid "QGIS for monitoring tigers"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "(using camera traps in Nameri Tiger Reserve, Assam, India Sonitpur District)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
+#~ "using QGIS. To begin with, we digitized the NTR boundary in Qgis and saved "
+#~ "it as polygon. This boundary polygon was exported to GPS for navigation "
+#~ "purpose during the field surveys. We conducted an extensive sign survey in "
+#~ "NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
+#~ "GPS coordinates of tiger signs as well as suitable locations for camera "
+#~ "traps were recorded. After completion of the survey, the data was "
+#~ "transferred to Qgis using GPS tools for further processing and for "
+#~ "finalizing camera trap locations. A shape file containing the tiger signs "
+#~ "and probable camera trap locations was prepared."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For the first time in the history of this small tiger reserve of North East "
+#~ "India, it was possible to monitor tigers by using camera traps mainly "
+#~ "because of QGIS. Results of this monitoring exercise indicate the presence "
+#~ "of 8-15 tigers in this landscape. In addition to the tigers, several elusive"
+#~ " species have also been photographically documented. Apart from tiger "
+#~ "monitoring, we are also using Qgis for activities such as planning habitat "
+#~ "management works, revising patrolling schedules, and designing maps for "
+#~ "visitors. The user-friendly interface, rich features, in-depth "
+#~ "documentation, on-line support  and the free/open source philosophy are the "
+#~ "few qualities of QGIS that made us to select it over other proprietary "
+#~ "software. We believe that QGIS has great potential for empowering "
+#~ "individuals/institutions/ involved in conserving endangered wildlife in the "
+#~ "developing world by offering GIS technology at little or no cost."
+#~ msgstr ""

@@ -1,0 +1,599 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Sorin Călinică <scalinica@gmail.com>, 2016
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"PO-Revision-Date: 2016-06-21 12:24+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2016\n"
+"Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:3
+msgid "Use of QGIS at the Financial Times Graphics Team"
+msgstr "Folosirea QGIS în cadrul echipei de grafică de la Financial Times"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:6
+msgid "Interview with Steven Bernard (Interactive Design Editor)"
+msgstr "Interviu cu Steven Bernard (Editor de Design Interactiv)"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:8
+msgid ""
+"Steven is an Interactive Design Editor at Financial Times. You can find him "
+"on `Twitter <https://twitter.com/sdbernard>`_. He also publishes useful "
+"`HOWTO Videos on Youtube <https://t.co/6aTE6G8h0T>`_ for certain "
+"cartographic tasks in QGIS."
+msgstr ""
+"Steven Bernard este un Editor de Design Interactiv la Financial Times. \n"
+"Îl puteți găsi pe `Twitter <https://twitter.com/sdbernard>`_. De asemenea, acesta publică `Tutoriale Video pe Youtube <https://t.co/6aTE6G8h0T>`_ pentru anumite activități cartografice care pot fi efectuate în QGIS."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:12
+msgid ""
+"**QGIS**: Steven, What is the name of the team you work at FT? Can you "
+"provide us a little bit of background about what your team at FT is doing?"
+msgstr ""
+"**QGIS**: Steven, care este numele echipei în care lucrezi la FT? Ne poți "
+"oferi unele informații generale despre ceea ce face echipa ta în cadrul FT?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:15
+msgid ""
+"**Steve**: Our team is in a transition period at the moment, we have a new "
+"data visualisation editor, Alan Smith OBE (formerly of the ONS) who is "
+"shaking things up and creating a single graphics team. Traditionally we had "
+"a web graphics team and print graphics team. The print team would be "
+"responsible for all the newspaper graphics as well as creating web-friendly "
+"versions of them. My team was responsible for all the web-only content, as "
+"well as working closely with the interactive producers/developers in "
+"designing interactive graphics."
+msgstr ""
+"**Steve**: Echipa noastră trece printr-o perioadă de tranziție în acest "
+"moment, având un nou editor de vizualizare a datelor, Alan Smith OBE "
+"(anterior a lucrat la Oficiul Național de Statistică), care a efectuat "
+"modificări majore, creând o singură echipă de grafică. În mod tradițional "
+"exista o echipă de grafică web și alta pentru grafica de imprimare. Echipa "
+"de imprimare era responsabilă pentru toată grafica din ziar precum și pentru"
+" crearea de versiuni adecvate pentru web. Echipa mea era responsabilă doar "
+"pentru conținutul web, colaborând îndeaproape cu producătorii/dezvoltatorii "
+"specializați în proiectarea graficii interactive."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:22
+msgid ""
+"The newly formed team will allow for a lot more cross-over of skills between"
+" the different media."
+msgstr ""
+"Echipa nou formată beneficiază de o distribuție mult mai extinsă a "
+"competențelor între diferitele medii."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:24
+msgid ""
+"Alan has introduced a single digital workflow for our team, including using "
+"d3 to help create a larger graphic vocabulary and cutting down the time it "
+"takes to create the visuals."
+msgstr ""
+"Alan a introdus un singur flux de lucru digital pentru echipa noastră, "
+"folosind și d3 pentru a ajuta la crearea unui vocabular grafic mai larg și "
+"la reducerea timpului necesar creării efectelor vizuale."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:32
+msgid "*Example: Migrant flows. Western Balkans route.*"
+msgstr "*Exemplu: Fluxurile de migranți. Ruta Balcanilor de Vest.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:35
+msgid "**QGIS**: How many co-workers are there in your team?"
+msgstr "**QGIS**: Cât de mulți colegi ai în echipă?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:37
+msgid ""
+"**Steven**: Including all the designers, developers, producers and "
+"statisticians we have a team of 24"
+msgstr ""
+"**Steven**: Cu tot cu designeri, dezvoltatori, producători și statisticieni "
+"sunt 24 în echipă"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:39
+msgid "**QGIS**: What's your specific role within the team?"
+msgstr "**QGIS**: Ce rol specific îndeplinești în cadrul echipei?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:41
+msgid ""
+"**Steven**: We are a multi-disciplinary department so I don’t have a "
+"specific role as such. My role includes producing responsive designs for "
+"interactive graphics as well as doing the front-end development on the less "
+"complicated interactives (e.g. `Inside Isis Inc: The journey of a barrel of "
+"oil <http://ig.ft.com/sites/2015/isis-oil/>`_). I also produce the standard "
+"news related charts and maps on a daily basis. Over the past two years I "
+"have been concentrating on developing our cartographic offerings at the FT. "
+"QGIS has been instrumental in changing how we produce maps, and in "
+"conjunction with other tools such Blender have helped me to be more creative"
+" with how we approach maps."
+msgstr ""
+"**Steven**: Suntem un departament multi-disciplinar, ca atare eu nu am un "
+"rol specific. Rolul meu constă în producerea de desene sau modele adaptabile"
+" la grafica interactivă, precum și ușurarea dezvoltării front-end prin "
+"simplicarea interacțiunilor (ex.: `Inside Isis Inc: Călătoria unui baril de "
+"petrol <http://ig.ft.com/sites/2015/isis-oil/>`_). Tot eu produc diagramele "
+"standard și hărțile necesare știrilor zilnice. De-a lungul ultimilor doi ani"
+" m-am concentrat pe dezvoltarea ofertei cartografice a FT. QGIS a contribuit"
+" la schimbarea modului în care producem hărțile, iar combinația cu alte "
+"instrumente, cum ar Blender, m-a ajutat să fiu mai creativ în modul de "
+"abordare a hărților."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:54
+msgid ""
+"*Example: Animation of Dora's journey from Nigeria to Sicily - one of "
+"thousands by trafficked women each year.*"
+msgstr ""
+"*Exemplu: Animație din Călătoria Dorei din Nigeria până în Sicilia - una de "
+"miile de femei traficate în fiecare an.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:57
+msgid ""
+"**QGIS**: Can you tell us a bit about yourself? What's your educational "
+"background? What did you do before joining the data visualization team at "
+"FT?"
+msgstr ""
+"**QGIS**: Ce poți să ne spui despre tine? Ce educație ai? Cu ce te-ai ocupat"
+" înainte de a te alătura echipei de vizualizare a datelor de la FT?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:65
+msgid "*Example: Gotthard rail and road tunnel in the Swiss Alps.*"
+msgstr ""
+"*Exemplu: Traseul feroviar Gotthard și un tunel rutier din Alpii elvețieni.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:68
+msgid ""
+"**Steven**: I am traditionally trained as scientific illustrator. What’s "
+"that I hear you ask? It involves producing illustrations for medical "
+"journals, natural history publications anything where you are trying to "
+"convey information visually where a photograph can’t. Think of diagrams "
+"showing the human circulatory system, or showing a procedure to fix a broken"
+" bone. Sadly there wasn’t much call for that kind of work when I left "
+"university and I basically fell into the job at the FT. I have always been "
+"good at maths, which I think is important when working with data "
+"visualisations, it has certainly helped me with my coding as well."
+msgstr ""
+"**Steven**: Pregătirea mea de bază este cea de ilustrator științific. Ce "
+"reprezintă aceasta? Este vorba de producerea de ilustrații pentru reviste "
+"medicale, istorice, și orice gen de publicații care încearcă să transmită "
+"informații vizuale pe care nu le poate oferi o fotografie. Gândiți-vă la "
+"diagramele care arată sistemul circulator uman, sau la cele care prezintă o "
+"procedură de reparare a unui os rupt. Din păcate, nu au existat prea multe "
+"solicitări pentru acest tip de lucrări la momentul absolvirii universității,"
+" așa că am apelat pentru un loc de muncă la FT. Am fost întotdeauna bun la "
+"matematică, lucru important atunci când se urmărește vizualizarea datelor și"
+" care m-a ajutat, cu siguranță, la momentul codificării."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:76
+msgid "**QGIS**: How did you discover QGIS?"
+msgstr "**QGIS**: Cum ai aflat de QGIS?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:78
+msgid ""
+"**Steven**: I came across QGIS in 2013 when we were working on a `project "
+"mapping the ethnicity of the Middle East "
+"<http://ig.ft.com/features/2013-07-19_middleeast_religion_map/dist/index.html>`_"
+msgstr ""
+"**Steven**: Am dat peste QGIS în 2013, când lucram la un `proiect de "
+"cartografiere a etniilor din Orientul Mijlociu "
+"<http://ig.ft.com/features/2013-07-19_middleeast_religion_map/dist/index.html>`_"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:81
+msgid ""
+"We used it to georeference maps that were created by a professor at Columbia"
+" University. At first I found it really tricky using the add feature drawing"
+" tool, probably because it was unlike anything I’d used in Adobe Illustrator"
+" for 17 years prior! I also found it frustrating that you had to save things"
+" twice, once when done editing the shapefile, then again to save the "
+"project. However, this was just down to inexperience with the program and in"
+" the end it did exactly what we needed, which was to produce shapefiles that"
+" we could add to a Mapbox base map."
+msgstr ""
+"L-am folosit pentru georeferențierea unor hărți create de un profesor de la "
+"Universitatea Columbia. La început mi s-a părut foarte incomodă utilizarea "
+"instrumentului de adăugare a unei entități, probabil pentru că totul că era "
+"atât de diferit față de Adobe Illustrator, pe care-l utilizam de 17 ani! De "
+"asemenea, am constatat frustrant că trebuia să salvez totul de două ori, o "
+"dată pentru a încheia editarea fișierului shape, apoi pentru a salva "
+"proiectul. Cu toate acestea, aceste lucruri s-au datorat doar lipsei mele de"
+" experiență, în final realizând cu acest program exact ceea ce doream, adică"
+" producerea de fișiere shape care să poată fi adăugate ca hărți de bază în "
+"Mapbox."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:88
+msgid "**QGIS**: What's the role of QGIS within your usual workflows?"
+msgstr ""
+"**QGIS**: Care este rolul QGIS în cadrul fluxurilor de lucru obișnuite?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:90
+#, python-format
+msgid ""
+"**Steven**: QGIS is now an integral part of our mapping workflow. I don’t "
+"use any other GIS tool to create our maps. Although a few members of our "
+"team also use Map Publisher as they feel more comfortable staying within "
+"Adobe Illustrator. I would say 80% of our maps are now produced in QGIS."
+msgstr ""
+"**Steven**: QGIS reprezintă acum o parte integrantă a fluxului lucrărilor de"
+" cartografiere. Eu nu folosesc nici un alt instrument GIS pentru a crea "
+"hărțile noastre. Totuși, câțiva membri ai echipei noastre folosesc Map "
+"Publisher, deoarece se simt mai confortabil, atât timp cât lucrează și cu "
+"Adobe Illustrator. Aș spune că 80% din hărțile noastre sunt acum produse în "
+"QGIS."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:99
+msgid "*Example: Public Lands in the US.*"
+msgstr "*Exemplu: Terenuri publice din US.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:102
+msgid ""
+"**QGIS**: What other tools do you use besides QGIS and how do you combine "
+"these?"
+msgstr ""
+"**QGIS**: Ce alte instrumente folosiți în afară de QGIS și cum se combină "
+"acestea?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:104
+#, python-format
+msgid ""
+"**Steven**: If it is just a straightforward locator map 95% of the work is "
+"done in QGIS, with the final polishing done in Adobe Illustrator."
+msgstr ""
+"**Steven**: În cazul în care este vorba doar de o hartă simplă de "
+"localizare, 95% din muncă se face în QGIS, șlefuirea finală efectuându-se în"
+" Adobe Illustrator."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:107
+msgid ""
+"If I am doing a relief map, then the process is a lot more complex. I will "
+"retrieve DEM files from Nasa Earth Explorer, and bring them into QGIS to "
+"crop to size. I will then take the cropped DEM into Blender to create a 3D "
+"render. If I am using a satellite overlay on the hillshading then I will "
+"download a BlueMarble image from Nasa and take this into Blender as well. "
+"The exported render from Blender is then brought back into QGIS to use as a "
+"background layer. I may tweak it in Photoshop beforehand if necessary."
+msgstr ""
+"În cazul în care lucrez la o hartă în relief, atunci procesul este mult mai "
+"complex. După ce obțin fișierele DEM de la NASA Earth Explorer, le aduc în "
+"QGIS pentru a le decupa la dimensiunea dorită. DEM-ul decupat îl deschid în "
+"Blender unde îi aplic o randare 3D. Dacă trebuie să suprapun o imagine luată"
+" din satelit, atunci descarc o imagine BlueMarble de la NASA, pe care o urc,"
+" totodată, în Blender. Randarea exportată o aduc înapoi în QGIS, pentru a o "
+"utiliza ca fundal. Dacă este cazul, în prealabil, mai efectuez unele "
+"modificări în Photoshop."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:113
+msgid ""
+"For responsive maps like those in the `Isis oil story "
+"<http://ig.ft.com/sites/2015/isis-oil/>`_, I used all of the above tools but"
+" the final step is to use an open source Adobe Illustrator script developed "
+"by the New York Times’ Archie Tse. This allows me to create responsive "
+"versions of my maps that work on all devices."
+msgstr ""
+"Pentru hărți adaptabile la orice tip de ecran, cum ar fi cele din `povestea "
+"petrolului  Isis <http://ig.ft.com/sites/2015/isis-oil/>`_, am folosit toate"
+" instrumentele de mai sus, dar ultimul pas a fost de a utiliza un script "
+"Adobe Illustrator cu sursă deschisă, dezvoltat de către Archie Tse de la New"
+" York Times. Acest lucru îmi permite să creez diverse versiuni ale hărților "
+"mele, care pot fi afișate corect pe toate dispozitivele."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:117
+msgid ""
+"Another tool that is useful is Google My Maps which allows reporters around "
+"the world to mark locations on a map and then we can download them as a kmz "
+"file and import them straight into QGIS."
+msgstr ""
+"Un alt instrument util este Google My Maps, care permite reporterilor din "
+"întreaga lume să marcheze diverse locații de pe hartă, pe care să le putem "
+"descărca sub formă de fișier KMZ, pentru a le putea importa direct în QGIS."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:120
+msgid ""
+"The final tool I use is Adobe After Effects as I have recently got into "
+"animating my maps to take the user on a journey. As used in the Land Rush "
+"series recently:"
+msgstr ""
+"Instrumentul final pe care îl folosesc este Adobe After Effects, care "
+"introduce animație în hărților mele. Recent, am folosit această tehnică "
+"pentru seria Goana după Pământ:"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:123
+msgid ""
+"`Land Rush Ethiopia <https://ig.ft.com/sites/land-rush-"
+"investment/ethiopia/>`_"
+msgstr ""
+"`Goana după Pământ în Ethiopia <https://ig.ft.com/sites/land-rush-"
+"investment/ethiopia/>`_"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:124
+msgid ""
+"`Land Rush Myanmar <https://ig.ft.com/sites/land-rush-investment/myanmar/>`_"
+msgstr ""
+"`Goana după Pământ în Myanmar <https://ig.ft.com/sites/land-rush-"
+"investment/myanmar/>`_"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:125
+msgid ""
+"`Land Rush Indonesia <https://ig.ft.com/sites/land-rush-"
+"investment/indonesia/>`_"
+msgstr ""
+"`Goana după Pământ în Indonesia <https://ig.ft.com/sites/land-rush-"
+"investment/indonesia/>`_"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:127
+msgid ""
+"**QGIS**: Do you use other spatial tools or GIS besides QGIS, and if yes, "
+"which ones?"
+msgstr ""
+"**QGIS**: Utilizezi și alte instrumente spațiale în afară de QGIS, și dacă "
+"da, care anume?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:129
+msgid ""
+"**Steven**: QGIS all the way for me, but as mentioned above some of my "
+"colleagues use Map Publisher as well."
+msgstr ""
+"**Steven**: QGIS îmi este suficient, dar, așa cum s-a menționat mai sus, "
+"unii dintre colegii mei folosesc în plus Map Publisher."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:136
+msgid "*Example: Strikes on Syria in February 2016.*"
+msgstr "*Exemplu: Luptele din Siria din Februarie 2016.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:139
+msgid ""
+"**QGIS**: Can you describe the strengths and weaknesses of QGIS regarding "
+"the tasks you have to do?"
+msgstr ""
+"**QGIS**: Poți descrie punctele forte și slăbiciunile QGIS, observate în "
+"lucrul de zi cu zi?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:141
+msgid ""
+"**Steven**: When I first used QGIS I saw it as a specialist tool, fit for "
+"only dealing with specific tasks. I really didn’t see it a production tool. "
+"In late 2014 two of my colleagues went on a QGIS course held by Alasdair Rae"
+" at Sheffield University. They both enthused about how good QGIS was, so I "
+"took it upon myself to evaluate it as a tool that could be used to produce "
+"all our maps."
+msgstr ""
+"**Steven**: Când am folosit pentru prima dată QGIS, l-am privit ca pe un "
+"instrument specializat, apt doar pentru anumite sarcini. Chiar nu l-am văzut"
+" ca pe un instrument de producție. La sfârșitul anului 2014, doi dintre "
+"colegii mei au participat la un curs de QGIS, ținut de Alasdair Rae de la "
+"Universitatea din Sheffield. Aceștia au fost atât de entuziasmați de cât de "
+"bun s-a dovedit QGIS, încât mi-am asumat sarcina de a-l evalua ca pe un "
+"instrument care ar putea fi folosite la producerea tuturor hărților noastre."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:146
+msgid ""
+"Within about two weeks I was convinced that it would be viable. The main "
+"selling point was the ability to set up style guides for everything "
+"including zoom level styling for street-level maps."
+msgstr ""
+"După aproximativ două săptămâni am fost convins că această soluție era "
+"viabilă. Principalul argument l-a constituit capacitatea de stilizare "
+"omniprezentă, inclusiv pentru hărțile care prezintă străzi la diferite "
+"niveluri de măririe."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:149
+msgid ""
+"I have a system set up where we have sets of Google sheets with columns for "
+"name, lat, long, marker-icon, fontweight, fontsize and whether you want the "
+"marker visible or not."
+msgstr ""
+"Am un sistem special creat pentru cazul în care dispun de seturi de foi "
+"Google cu coloane pentru nume, latitudine, longitudine, simbolul marcajului,"
+" dimensiunile fontului și dacă se dorește ca marcajul să fie vizibil sau nu."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:152
+msgid ""
+"The marker icon is a dropdown connected to a vLookUp table which fills in "
+"all the details for that marker."
+msgstr ""
+"Simbolul marcajului se obține dintr-o casetă cu derulare verticală, "
+"conectată la un tabel vLookUp, și care completează automat toate detaliile."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:154
+#, python-format
+msgid ""
+"So all I have to do is download the csv, import it into QGIS, apply a style "
+"and I have a map that is 95% ready to go."
+msgstr ""
+"Tot ce am de făcut este să descarc csv-ul, să-l import în QGIS, să-i aplic "
+"un stil și, astfel, obțin o hartă care este gata în proporție de 95%."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:156
+msgid ""
+"To be perfectly honest I can’t think of any weaknesses, there are a couple "
+"of things that I would like to see or be able to do but, I don’t see that as"
+" a weakness, just a missing feature."
+msgstr ""
+"Pentru a fi în totalitate sincer, nu mă pot gândi la vreo slăbiciune și, "
+"deși există câteva lucruri pe care aș dori să le văd, nu cred că este vorba "
+"de o slăbiciune ci, mai degrabă, unele funcțiuni lipsă."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:164
+msgid "*Example: Urban Attraction and Migration within China.*"
+msgstr "*Exemplu: Atracția urbană și migrația în cadrul Chinei.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:167
+msgid "**QGIS**: What are the concepts or features you like the most in QGIS?"
+msgstr ""
+"**QGIS**: Care sunt conceptele sau funcțiunile care iți plac cel mai mult la"
+" QGIS?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:169
+#, python-format
+msgid ""
+"**Steven**: There are numerous features that I would class as life savers! "
+"But primarily Quick OSM and Georeferencer have saved me so much time, this "
+"is absolutely essential when deadlines are tight. Which, when working for a "
+"news organisation, is usually 90% of the time."
+msgstr ""
+"**Steven**: Există numeroase funcții pe care le-aș considera cu adevărat "
+"vitale! În primul rând, cu ajutorul plugin-ului QuickOSM și a "
+"Georeferențiatorului am economisit o mulțime de timp, acest lucru fiind "
+"absolut esențial atunci când termenele sunt strânse. Ceea ce, atunci când "
+"lucrezi pentru o organizație de știri, se întâmplă pentru 90% din timp."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:178
+msgid "*Example: Urban Attraction and Migration within China. Detail views.*"
+msgstr ""
+"*Exemplu: Atracția Urbană și Migrația în cadrul Chinei. Vedere detaliată.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:181
+msgid ""
+"**QGIS**: What features or functionality in QGIS do you miss the most? Do "
+"you have a list of missing features that would help you a lot if "
+"implemented?"
+msgstr ""
+"**QGIS**: Ce caracteristici sau funcționalități ai dori să existe în QGIS? "
+"Poți enumera o serie de caracteristici care te-ar ajuta foarte mult dacă ar "
+"fi implementate?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:184
+msgid ""
+"**Steven**:  A couple of things I would like to see in future versions "
+"are..."
+msgstr ""
+"**Steven**: Câteva lucruri pe care aș dori să le văd în versiunile viitoare "
+"sunt..."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:186
+msgid ""
+"Bezier curve support, this would be particularly useful in conjunction with "
+"Georeferencer. I know there is a spline plugin but it doesn’t give you the "
+"full control a bezier curve would."
+msgstr ""
+"Suportul pentru curbele Bezier ar fi deosebit de util, în special în "
+"conjuncție cu Georeferențiatorul. Știu că există un plug-in pentru curbe "
+"spline, dar acesta nu oferă control similar cu cel pentru curbele Bezier."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:189
+msgid ""
+"Being able to save as image at larger file sizes. Currently this is the only"
+" way I can create a georeferenced crop of a DEM file to take into Blender. "
+"But it is limited to the size of your screen. If I had an 8,000 pixel DEM "
+"file loaded into QGIS I would like to be able to export the crop at a larger"
+" size than my screen for use in HD video for example."
+msgstr ""
+"Capacitatea de a salva capturi de dimensiuni mai mari. În prezent, acesta "
+"este singurul mod în care pot efectua o captură dintr-un DEM georeferențiat,"
+" pentru a o încărca în Blender. Din păcate limita este dată de dimensiunea "
+"ecranului. De aceea, presupunând că aș avea un fișier DEM de 8.000 de pixeli"
+" încărcat în QGIS, aș dori să existe posibilitatea de export a unei "
+"dimensiuni mai mari decât ecranul, pentru a o utiliza într-un video HD, de "
+"exemplu."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:194
+msgid ""
+"**QGIS**: If you miss certain features in QGIS that would help you - would "
+"you consider improving QGIS yourself (with coding in QGIS core or Python "
+"plugins), or would you consider to hire a QGIS developer to implement the "
+"missing feature for you? Or would you instead look for other tools to fill "
+"in that gap?"
+msgstr ""
+"**QGIS**: Dacă prezența unor anumite funcțiuni în QGIS ți-ar fi de folos - "
+"ai putea lua în considerare îmbunătățirea QGIS, efectuând tu însuți "
+"codificarea (direct în QGIS sau printr-un plugin Python) sau anagajând un "
+"dezvoltator QGIS pentru a implementa funcțiunea care îți lipsește? Sau, în "
+"schimb, ai căuta un alt instrument pentru a depăși acest impediment?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:198
+msgid ""
+"**Steven**: I certainly don’t have the necessary skills to do the coding "
+"myself, I’m fairly proficient in Javascript but would struggle with Python. "
+"I would love to hire a developer to get features implemented but "
+"unfortunately I’m not in control of any budgets, so I use other tools to get"
+" around this."
+msgstr ""
+"**Steven**: Eu, cu siguranță, nu am abilitățile necesare pentru a efectua "
+"codificarea și, deși sunt destul de competent în Javascript, aș avea "
+"probleme în folosirea Python. Mi-ar plăcea să angajez un dezvoltator pentru "
+"a-mi vedea funcțiunile implementate, dar, din păcate, neavând un control al "
+"bugetului, folosesc instrumente complementare pentru a obține ceea ce "
+"doresc."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:207
+msgid ""
+"*Example: Percentage of households with a broadband internet subscription in"
+" the US.*"
+msgstr ""
+"*Exemplu: Procentul gospodăriilor din SUA care dețin un abonament la "
+"internetul de bandă largă.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:210
+msgid ""
+"**QGIS**: Let's talk about user experience - the QGIS team is aware that "
+"there are various places in the UI (dialogs, panels, etc) that could be "
+"improved a lot. Can you tell us a little bit where in the UI you see the "
+"biggest potential for a UI overhaul?"
+msgstr ""
+"**QGIS**: Referitor la experiența utilizatorului - echipa QGIS este "
+"conștientă de faptul că multe elemente din interfața de utilizare "
+"(dialoguri, panouri, etc.) ar putea fi îmbunătățite. Poți să ne spui care "
+"zonă din interfața de utilizare are cel mai mare potențial pentru o "
+"revizuire?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:214
+msgid ""
+"**Steven**:  I think the main tools are fine as they are, once you are "
+"familiar with them they’re pretty obvious. However, one thing I do find a "
+"little frustrating is trying to hunt down a plugin once it’s been installed."
+" They either create their own menu (MMQGIS), live under one of the menus "
+"(Georeferencer) or create their own icon (threejs). It would be handy to "
+"have a plugin window that has all installed plugins in it. Again this isn’t "
+"a deal breaker but would make it easier than hunting in several different "
+"locations."
+msgstr ""
+"**Steven**: Cred că principalele instrumente arată bine așa cum sunt acum; o"
+" dată familiarizați cu ele vi se vor părea destul de evidente. Cu toate "
+"acestea, un lucru îmi pare un pic frustrant, și anume încercarea de "
+"identifica un plug-in după ce a fost instalat. Acesta fie își creează "
+"propriul meniu (v. MMQGIS), fie se va regăsi sub unul dintre meniuri (v. "
+"Georeferențiatorul) sau își va crea propria pictogramă (v. threejs). Ar fi "
+"foarte utilă o fereastră în care să se regăsească toate plugin-urile "
+"instalate. Evident, acest lucru nu împiedică lucrul, dar ar fi mai facilă "
+"decât căutarea în diverse locații diferite."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:221
+msgid ""
+"**QGIS**: Thank you for your time and the work you do for promoting and "
+"documenting workflows in QGIS!"
+msgstr ""
+"**QGIS**: Îți mulțumim pentru timpul și munca depuse pentru promovarea și "
+"documentarea fluxurilor de lucru în QGIS!"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:228
+msgid ""
+"*Portrait of Steve Bernard. Interactive Design Editor at Financial Times.*"
+msgstr ""
+"*Imagine cu Steven Bernard. Editor de Design Interactiv la Financial Times.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:231
+msgid ""
+"**Steven**: A pleasure, I’m almost evangelical about QGIS! Hence the `31 "
+"video tutorials <https://t.co/6aTE6G8h0T>`_ and always happy to spread the "
+"word."
+msgstr ""
+"**Steven**: A fost o plăcere, aproape evanghelică să vorbesc despre QGIS! De"
+" aici și cele `31 tutoriale video <https://t.co/6aTE6G8h0T>`_ prin care "
+"încerc să-l popularizez."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:233
+msgid "Interview questions by A. Neumann and T. Sutton. April 2016."
+msgstr ""
+"Întrebările din acest interviu au fost concepute de A. Neumann și T. Sutton."
+" Aprilie 2016."

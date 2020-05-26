@@ -1,0 +1,388 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# fairtommy <fairtommy@gmail.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"PO-Revision-Date: 2017-08-08 09:20+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
+"Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/getinvolved/styleguide.rst:2
+msgid "Visual Style Guide"
+msgstr "ビジュアルスタイルガイド"
+
+#: ../../source/site/getinvolved/styleguide.rst:5
+msgid "Version 1.0"
+msgstr "バージョン1.0"
+
+#: ../../source/site/getinvolved/styleguide.rst:7
+msgid ""
+"This is our QGIS Visual Style Guide. This document defines standards for the"
+" use of the our visual identity. It proposes a modernization of the QGIS "
+"brand to make it stronger, more visible and more adaptable to a broad range "
+"of use cases."
+msgstr ""
+"これが私たちのQGISビジュアルスタイルガイドです。この文書は、当社のビジュアルアイデンティティの使用のための標準を定義します。それはより強く、より多くの目に見えるとユースケースの幅広い範囲より適応させるためにQGISブランドの近代化を提案しています。"
+
+#: ../../source/site/getinvolved/styleguide.rst:13
+msgid ""
+"The Visual Style Guide is a living document, initiated with the goal of "
+"developing a consistent message and image for QGIS. It is a “living” "
+"document because we expect it to expand as we cover more use cases where "
+"visual consistency is important and can be described using simpler rules. "
+"The standards and simple policies described here are designed to maintain "
+"the uniformity of presentation necessary for successful promotion and "
+"marketing efforts for the QGIS project."
+msgstr ""
+"ビジュアルスタイルガイドは生きている文書で、QGISのための一貫したメッセージや画像を開発することを目標に開始されています。私たちは、視覚的一貫性が重要であり、単純な規則を使用して記述することができ、よりユースケースをカバーするとして、それが拡大することを期待するので、それは「生きている」文書です。ここで説明する基準および簡単なポリシーは、QGISプロジェクトの宣伝広告および市場開拓の努力が成功するために必要なプレゼンテーションの統一性を維持するように設計されています。"
+
+#: ../../source/site/getinvolved/styleguide.rst:23
+msgid ""
+"Our visual identity symbolizes QGIS’s strength, promise of quality and "
+"competence. Proper treatment of logo, fonts and color ensures that QGIS will"
+" be recognized and stand out amid communications clutter. Graphic standards "
+"are a visual expression of QGIS and should serve as the base for our overall"
+" communications strategy."
+msgstr ""
+"私たちのビジュアル・アイデンティティは、QGISの強さ、品質と能力の約束を象徴しています。ロゴ、フォントや色を適切に扱うことで、通信の混乱の中でQGISが認識され目立つことを保証します。グラフィック基準はQGISの視覚的な表現であり、当社の全体的なコミュニケーション戦略のための基盤としての役割を果たす必要があります。"
+
+#: ../../source/site/getinvolved/styleguide.rst:30
+msgid ""
+"This first version of the Graphic Style Guide outlines the core elements of "
+"the new QGIS logo. Future versions will focus on branding assets and how to "
+"spread the QGIS brand across the web, mobile devices and printed materials."
+msgstr ""
+"グラフィックスタイルガイドのこの最初のバージョンでは、新たなQGISのロゴのコア要素の概要を説明します。将来のバージョンでは、資産をブランディングし、どのようにウェブ、モバイルデバイスや印刷物を越えQGISのブランドを広めるために焦点を当てます。"
+
+#: ../../source/site/getinvolved/styleguide.rst:38
+msgid "Logotype"
+msgstr "ロゴタイプ"
+
+#: ../../source/site/getinvolved/styleguide.rst:41
+msgid "Original"
+msgstr "オリジナル"
+
+#: ../../source/site/getinvolved/styleguide.rst:47
+msgid "**Download logo file**"
+msgstr "**ダウンロードロゴファイル**"
+
+#: ../../source/site/getinvolved/styleguide.rst:49
+msgid ":download:`SVG logo <files/qgis-logo.svg>`"
+msgstr ":download:`SVGロゴ <files/qgis-logo.svg>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:51
+msgid ":download:`PNG logo <files/qgis-logo.png>`"
+msgstr ":download:`PNGロゴ <files/qgis-logo.png>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:53
+msgid ":download:`SVG monochrome logo <files/qgis-logo-monochrome.svg>`"
+msgstr ":download:`SVG白黒ロゴ <files/qgis-logo-monochrome.svg>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:55
+msgid ":download:`PNG monochrome logo <files/qgis-logo-monochrome.png>`"
+msgstr ":download:`PNG白黒ロゴ <files/qgis-logo-monochrome.png>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:62
+msgid ""
+"The new QGIS logo is presented here. Keeping the core elements of the "
+"original QGIS logo (Q letter with an arrow through it), this new version "
+"intends to be sharp and scalable, introducing simpler and bolder shapes."
+msgstr ""
+"新しいQGISのロゴがここに示されています。元QGISのロゴ（それを通して矢印のQ文字）の中核的な要素を維持、この新しいバージョンは、単純かつ大胆な形状を導入し、シャープかつスケーラブルになろうとします。"
+
+#: ../../source/site/getinvolved/styleguide.rst:67
+msgid "The proposed changes are listed below."
+msgstr "提案された変更は以下のとおりです。"
+
+#: ../../source/site/getinvolved/styleguide.rst:69
+msgid "The existing spirit is preserved but the logo is bold"
+msgstr "既存の精神が保たれますが、ロゴは太字です"
+
+#: ../../source/site/getinvolved/styleguide.rst:70
+msgid "Shadows removed"
+msgstr "影を削除します"
+
+#: ../../source/site/getinvolved/styleguide.rst:71
+msgid "The Q is sans-serif"
+msgstr "Qは、サンセリフ体です"
+
+#: ../../source/site/getinvolved/styleguide.rst:72
+msgid "The arrow becomes the part of Q letter"
+msgstr "矢印は、Q文字の一部となります"
+
+#: ../../source/site/getinvolved/styleguide.rst:73
+msgid "The QGIS logo text is based on the free & libre Trueno Bold font."
+msgstr "QGISロゴテキストは自由＆リブレトレノ太字フォントに基づいています。"
+
+#: ../../source/site/getinvolved/styleguide.rst:76
+msgid "Minimal"
+msgstr "最小限の"
+
+#: ../../source/site/getinvolved/styleguide.rst:80
+msgid "**Download minimal logo**"
+msgstr "**最小限のロゴをダウンロード**"
+
+#: ../../source/site/getinvolved/styleguide.rst:82
+msgid ""
+":download:`SVG 128px <files/qgis-icon128.svg>` :download:`SVG 64px <files"
+"/qgis-icon64.svg>` :download:`SVG 32px <files/qgis-icon32.svg>`"
+msgstr ""
+":download:`SVG 128px <files/qgis-icon128.svg>` :download:`SVG 64px <files"
+"/qgis-icon64.svg>` :download:`SVG 32px <files/qgis-icon32.svg>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:86
+msgid ""
+":download:`PNG 128px <files/qgis-icon128.png>` :download:`PNG 64px <files"
+"/qgis-icon64.png>` :download:`PNG 32px <files/qgis-icon32.png>`"
+msgstr ""
+":download:`PNG 128px <files/qgis-icon128.png>` :download:`PNG 64px <files"
+"/qgis-icon64.png>` :download:`PNG 32px <files/qgis-icon32.png>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:93
+msgid "**Download minimal black**"
+msgstr "**最小限の黒をダウンロード**"
+
+#: ../../source/site/getinvolved/styleguide.rst:95
+msgid ""
+":download:`SVG black 128px <files/qgis-icon-black128.svg>` :download:`SVG "
+"black 64px <files/qgis-icon-black64.svg>` :download:`SVG black 32px <files"
+"/qgis-icon-black32.svg>`"
+msgstr ""
+":download:`SVG黒128px <files/qgis-icon-black128.svg>` :download:`SVG黒64px "
+"<files/qgis-icon-black64.svg>` :download:`SVG黒32px <files/qgis-icon-"
+"black32.svg>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:99
+msgid ""
+":download:`PNG black 128px <files/qgis-icon-black128.png>` :download:`PNG "
+"black 64px <files/qgis-icon-black64.png>` :download:`PNG black 32px <files"
+"/qgis-icon-black32.png>`"
+msgstr ""
+":download:`PNG黒128px <files/qgis-icon-black128.png>` :download:`PNG黒64px "
+"<files/qgis-icon-black64.png>` :download:`PNG黒32px <files/qgis-icon-"
+"black32.png>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:106
+msgid "**Download minimal green**"
+msgstr "**最小限の緑をダウンロード**"
+
+#: ../../source/site/getinvolved/styleguide.rst:108
+msgid ""
+":download:`SVG green 128px <files/qgis-icon-green128.svg>` :download:`SVG "
+"green 64px <files/qgis-icon-green64.svg>` :download:`SVG green 32px <files"
+"/qgis-icon-green32.svg>`"
+msgstr ""
+":download:`SVG緑128px <files/qgis-icon-green128.svg>` :download:`SVG緑64px "
+"<files/qgis-icon-green64.svg>` :download:`SVG緑32px <files/qgis-icon-"
+"green32.svg>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:112
+msgid ""
+":download:`PNG green 128px <files/qgis-icon-green128.png>` :download:`PNG "
+"green 64px <files/qgis-icon-green64.png>` :download:`PNG green 32px <files"
+"/qgis-icon-green32.png>`"
+msgstr ""
+":download:`PNG緑128px <files/qgis-icon-green128.png>` :download:`PNG緑64px "
+"<files/qgis-icon-green64.png>` :download:`PNG緑32px <files/qgis-icon-"
+"green32.png>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:119
+msgid "**Download minimal white**"
+msgstr "**最小限の白をダウンロード**"
+
+#: ../../source/site/getinvolved/styleguide.rst:121
+msgid ""
+":download:`SVG white 128px <files/qgis-icon-white128.svg>` :download:`SVG "
+"white 64px <files/qgis-icon-white64.svg>` :download:`SVG white 32px <files"
+"/qgis-icon-white32.svg>`"
+msgstr ""
+":download:`SVG白128px <files/qgis-icon-white128.svg>` :download:`SVG白64px "
+"<files/qgis-icon-white64.svg>` :download:`SVG白32px <files/qgis-icon-"
+"white32.svg>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:125
+msgid ""
+":download:`PNG white 128px <files/qgis-icon-white128.png>` :download:`PNG "
+"white 64px <files/qgis-icon-white64.png>` :download:`PNG white 32px <files"
+"/qgis-icon-white32.png>`"
+msgstr ""
+":download:`PNG白128px <files/qgis-icon-white128.png>` :download:`PNG白64px "
+"<files/qgis-icon-white64.png>` :download:`PNG白32px <files/qgis-icon-"
+"white32.png>`"
+
+#: ../../source/site/getinvolved/styleguide.rst:132
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: ../../source/site/getinvolved/styleguide.rst:135
+msgid "Trueno fonts"
+msgstr "トレノフォント"
+
+#: ../../source/site/getinvolved/styleguide.rst:137
+msgid ""
+"Trueno is a free Font Library serif font. In order to embed it, please use "
+"``<link rel=\"stylesheet\" media=\"screen\" "
+"href=\"https://fontlibrary.org/face/trueno\" type=\"text/css\"/>`` in the "
+"site header"
+msgstr ""
+"トレノは無料のフォントライブラリserifフォントです。それを埋め込むためには、サイトヘッダ内で ``<link rel=\"stylesheet\" "
+"media=\"screen\" href=\"https://fontlibrary.org/face/trueno\" "
+"type=\"text/css\"/>`` を使用してください"
+
+#: ../../source/site/getinvolved/styleguide.rst:140
+msgid "Name"
+msgstr "名前"
+
+#: ../../source/site/getinvolved/styleguide.rst:140
+msgid "Font-family"
+msgstr "フォントファミリー"
+
+#: ../../source/site/getinvolved/styleguide.rst:142
+msgid "Trueno Ultra light"
+msgstr "トレノウルトラライト"
+
+#: ../../source/site/getinvolved/styleguide.rst:142
+msgid "'TruenoUltraLight'"
+msgstr "'TruenoUltraLight'"
+
+#: ../../source/site/getinvolved/styleguide.rst:143
+msgid "Trueno Regular"
+msgstr "トレノレギュラー"
+
+#: ../../source/site/getinvolved/styleguide.rst:143
+msgid "'TruenoRegular'"
+msgstr "'TruenoRegular'"
+
+#: ../../source/site/getinvolved/styleguide.rst:144
+msgid "Trueno Bold"
+msgstr "トレノボールド"
+
+#: ../../source/site/getinvolved/styleguide.rst:144
+msgid "'TruenoBold'"
+msgstr "'TruenoBold'"
+
+#: ../../source/site/getinvolved/styleguide.rst:149
+msgid "Color"
+msgstr "色"
+
+#: ../../source/site/getinvolved/styleguide.rst:152
+msgid "Primary colors"
+msgstr "原色"
+
+#: ../../source/site/getinvolved/styleguide.rst:154
+msgid "**Dark Green**"
+msgstr "**濃緑色**"
+
+#: ../../source/site/getinvolved/styleguide.rst:158
+msgid "HEX: #589632"
+msgstr "HEX: #589632"
+
+#: ../../source/site/getinvolved/styleguide.rst:160
+msgid "RGB: 88, 150, 50"
+msgstr "RGB: 88, 150, 50"
+
+#: ../../source/site/getinvolved/styleguide.rst:162
+msgid "CMYK: 70.53, 18.84, 100, 3.7"
+msgstr "CMYK: 70.53, 18.84, 100, 3.7"
+
+#: ../../source/site/getinvolved/styleguide.rst:164
+msgid ""
+"The QGIS Dark Green color to be used for every logo element in the "
+"monochrome version. It can also be used as background, primary headline or "
+"text color."
+msgstr ""
+"QGIS濃緑色の色は白黒版ではすべてのロゴの要素のために使用されます。また、バックグラウンド、主見出しやテキストの色として使用することができます。"
+
+#: ../../source/site/getinvolved/styleguide.rst:168
+msgid "**Light Green**"
+msgstr "**薄緑色**"
+
+#: ../../source/site/getinvolved/styleguide.rst:172
+msgid "HEX: #93b023"
+msgstr "HEX: #93b023"
+
+#: ../../source/site/getinvolved/styleguide.rst:174
+msgid "RGB: 147, 176, 35"
+msgstr "RGB: 147, 176, 35"
+
+#: ../../source/site/getinvolved/styleguide.rst:176
+msgid "CMYK: 50.62, 12.6, 100, 0.86"
+msgstr "CMYK: 50.62, 12.6, 100, 0.86"
+
+#: ../../source/site/getinvolved/styleguide.rst:178
+msgid ""
+"The QGIS Light Green color to be used for content of lesser importance. It "
+"can be used as secondary background, text or links color."
+msgstr "QGIS薄緑色はより重要度の低いコンテンツに使用されます。二次的背景、テキストやリンクの色として使用できます。"
+
+#: ../../source/site/getinvolved/styleguide.rst:182
+msgid "**The gradient**"
+msgstr "**勾配**"
+
+#: ../../source/site/getinvolved/styleguide.rst:186
+msgid ""
+"The two primary colors are used as a vertical linear gradient in the logo, "
+"and this gradient can be used for website and printed materials background"
+msgstr "2つの原色はロゴの縦直線勾配として使用され、この勾配は、ウェブサイトや印刷物の背景に使用することができます"
+
+#: ../../source/site/getinvolved/styleguide.rst:190
+#: ../../source/site/getinvolved/styleguide.rst:222
+msgid "**Color Palette**"
+msgstr "**カラーパレット**"
+
+#: ../../source/site/getinvolved/styleguide.rst:197
+msgid "Secondary colors"
+msgstr "二次色"
+
+#: ../../source/site/getinvolved/styleguide.rst:199
+msgid "**Lemon**"
+msgstr "**レモン**"
+
+#: ../../source/site/getinvolved/styleguide.rst:203
+msgid "HEX: #f0e64a"
+msgstr "HEX: #f0e64a"
+
+#: ../../source/site/getinvolved/styleguide.rst:205
+msgid "RGB: 240, 230, 74"
+msgstr "RGB: 240, 230, 74"
+
+#: ../../source/site/getinvolved/styleguide.rst:207
+msgid "CMYK: 11, 0, 79, 0"
+msgstr "CMYK: 11, 0, 79, 0"
+
+#: ../../source/site/getinvolved/styleguide.rst:210
+msgid "**Orange**"
+msgstr "**オレンジ**"
+
+#: ../../source/site/getinvolved/styleguide.rst:214
+msgid "HEX: #ee7913"
+msgstr "HEX: #ee7913"
+
+#: ../../source/site/getinvolved/styleguide.rst:216
+msgid "RGB: 238, 121, 19"
+msgstr "RGB: 238, 121, 19"
+
+#: ../../source/site/getinvolved/styleguide.rst:218
+msgid "CMYK: 0, 62, 96, 0"
+msgstr "CMYK: 0, 62, 96, 0"
+
+#: ../../source/site/getinvolved/styleguide.rst:220
+msgid ""
+"The QGIS Lemon and Orange colors to be used for the accents and call-to-"
+"actions"
+msgstr "アクセントと行動喚起に使用されるQGISレモンとオレンジ色"

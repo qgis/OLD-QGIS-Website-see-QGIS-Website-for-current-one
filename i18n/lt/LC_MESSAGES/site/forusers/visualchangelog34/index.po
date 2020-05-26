@@ -1,0 +1,2579 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Tomas Straupis, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"PO-Revision-Date: 2018-12-19 16:27+0000\n"
+"Last-Translator: Tomas Straupis, 2020\n"
+"Language-Team: Lithuanian (https://www.transifex.com/qgis/teams/6144/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:5
+msgid "Changelog for QGIS 3.4 LTR"
+msgstr "QGIS 3.4 LTR pakeitimai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:7
+msgid "|image0|"
+msgstr "|image0|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:9
+msgid ""
+"The first long-term release (LTR) of QGIS 3. QGIS 3.4 just released. After "
+"five consolidation point releases (3.4.5) it will replace the previous LTR "
+"in the package repositories in February 2019 (see :ref:`release schedule "
+"<QGIS-release-schedule>`). This is a giant leap forward for the project - "
+"our first Long Term Release based on the 3.x platform. For users moving over"
+" from the 2.18 LTR there is a huge list of new features and impactful "
+"changes in this new LTR version. Please bear in mind that 3.x plugins are "
+"incompatible with 2.x plugins so review your plugin usage carefully - and if"
+" possible help to migrate old plugins to the new platform. If you have not "
+"already done so, take a look at the changelogs from :ref:`Version 3.0 "
+"<changelog30>` and :ref:`Version 3.2 <changelog32>` to understand the full "
+"scope of changes in the 3.4 release."
+msgstr ""
+"Pirma QGIS 3 ilgalaikė laida (LTR). QGIS 3.4 ką tik išleista. Po penkių "
+"konsolidavimo laidų (3.4.5) ji pakeis ankstesnę LTR paketų repozitorijose "
+"2019 vasarį (žiūrėkite :ref:`laidos tvarkaraštis <QGIS-release-schedule>`). "
+"Tai didžiulis projekto šuolis pirmyn - mūsų pirma 3.x platforma paremta "
+"ilgalaikė laida. Naudotojams, pereinantiems iš 2.18 LTR yra didžiulis "
+"sąrašas šios laidos naujų savybių ir svarbių pakeitimų. Turėkite omenyje, "
+"kad 3.x priedai nesuderinami su 2.x priedais, taigi įdėmiai peržiūrėkite "
+"priedų naudojimą - jei galima - padėkite migruoti senus priedus į naują "
+"platformą. Jei tai jau padarėte, peržiūrėkite :ref:`Versijos 3.0 "
+"<changelog30>` ir :ref:`Versijos 3.2 <changelog32>` pakeitimus, kad "
+"suprastumėte 3.4 laidos pakeitimų mastą."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:13
+msgid "**Thanks**"
+msgstr "**Ačiū**"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:15
+msgid ""
+"We would like to thank the developers, documenters, testers and all the many"
+" folks out there who volunteer their time and effort (or fund people to do "
+"so). From the QGIS community we hope you enjoy this release! If you wish to "
+"donate time, money or otherwise get involved in making QGIS more awesome, "
+"please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
+msgstr ""
+"Mes norėtume padėkoti vystytojams, dokumentacijos rašytojams, testuotojams "
+"ir visiems kitiems, kurie savanoriškai skyrė laiką ir pastangas (arba skyrė "
+"lėšų, kad tai būtų padaryta). QGIS bendruomenė tikisi, kad jums patiks ši "
+"laida! Jei norite skirti laiko, pinigų ar kitaip prisidėti prie to, kad QGIS"
+" būtų dar puikesnis, prašome užsukti į `qgis.org <https://qgis.org>`__ ir "
+"padėti!"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:17
+msgid ""
+"QGIS is supported by donors and sustaining members. A current list of donors"
+" who have made financial contributions large and small to the project can be"
+" seen on our :ref:`donors list <list_of_donors>`. If you would like to "
+"become an official sustaining member, please visit :ref:`our sustaining "
+"members page <QGIS_sustaining_memberships>` for details. Supporting QGIS "
+"helps us to fund our six monthly developer meetings, maintain project "
+"infrastructure and fund bug fixing efforts. A complete list of current "
+"supporters is provided below - our very great thank you to all of our "
+"supporters!"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:19
+msgid ""
+":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
+"javascript loading of atom feed --> </div>`"
+msgstr ""
+":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
+"javascript loading of atom feed --> </div>`"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:21
+msgid ""
+"QGIS is Free software and you are under no obligation to pay anything to use"
+" it - in fact we want to encourage people far and wide to use it regardless "
+"of what your financial or social status is - we believe empowering people "
+"with spatial decision making tools will result in a better society for all "
+"of humanity."
+msgstr ""
+"QGIS yra atvira programinė įranga ir jums jokiu būdu neprivalu mokėti norint"
+" ją naudoti. Priešingai, mes norime skatinti kiek galima daugiau žmonių "
+"naudoti ją nepriklausomai nuo jūsų finansinio ar visuomeninio statuso - mes "
+"tikime, kad duodant žmonėms įrankius, teikiančius galimybę daryti erdvinius "
+"sprendimus, galima sukurti geresnę visos žmonijos visuomenę."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:23
+msgid "|image1|"
+msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:30
+msgid "General"
+msgstr "Bendra"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:33
+msgid "Feature: Flatpak"
+msgstr "Savybė: Flatpak"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:35
+msgid ""
+"QGIS is now available as a flatpak application on `flathub "
+"<https://flathub.org/apps/search/qgis>`__ Flatpak (formerly xdg-app) is a "
+"software utility for software deployment, package management, and "
+"application virtualization for Linux desktop computers. It allows users to "
+"install different QGIS versions on linux without having to recompile or use "
+"Docker. It is a full package with all libraries included, and it uses its "
+"own user profile locations. So you'll need some disk space and new habits "
+"working with flatpak, but it rocks!"
+msgstr ""
+"QGIS dabar galima naudoti kaip flatpak aplikaciją `flathub "
+"<https://flathub.org/apps/search/qgis>`__ Flatpak (anksčiau xdg-app) yra "
+"programinės įrangos priemonė skirta programų diegimui, paketų valdymui ir "
+"aplikacijų virtualizacijai Linux darbastalių kompiuteriams. Ji leidžia "
+"diegti skirtingas QGIS versijas neperkompiliuojant ir nenaudojant Docker'io."
+" Tai pilnas paketas su visomis bibliotekomis, naudojantis savo naudotojo "
+"profilio vietą. Taigi jums reikės šiek tiek vietos diske ir įprasti dirbti "
+"su flatcpack, bet šiaip jis valdo!"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:39
+msgid "|image28|"
+msgstr "|image28|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:41
+msgid "This feature was funded by `Aleix Pol <https://github.com/aleixpol>`__"
+msgstr "Šią savybę finansavo `Aleix Pol <https://github.com/aleixpol>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:43
+msgid ""
+"This feature was developed by `Aleix Pol <https://github.com/aleixpol>`__"
+msgstr "Šią savybę sukūrė `Aleix Pol <https://github.com/aleixpol>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:46
+msgid "Feature: SVG files can be embedded in projects and symbols"
+msgstr "Savybė: SVG failai gali būti įtraukti į projektus ir simbolius"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:48
+msgid ""
+"Allows SVG images for symbology, labels, etc to be directly embedded inside "
+"a project file (or QML style, or QPT print template!) by encoding the svg as"
+" a standard base64 string."
+msgstr ""
+"Leidžia simbologijai, etiketėms ir pan. skirtus SVG piešinius įtraukti į "
+"projekto failo vidų (arba QML stilių ar QPT spausdinimo šabloną) įrašant svg"
+" kaip standartinę base64 eilutę."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:50
+msgid ""
+"Additionally, embeded files can be extracted from projects and symbols and "
+"saved back to disk based SVG files."
+msgstr ""
+"Papildomai, įtrauktus failus galima išpakuoti iš projekto ir simbolių ir "
+"įrašyti į diską kaip SVG failus."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:52
+#: ../../source/site/forusers/visualchangelog34/index.rst:488
+msgid "This feature was funded by `SMEC/SJ <http://smec.com>`__"
+msgstr "Šią savybę finansavo `SMEC/SJ <http://smec.com>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:54
+#: ../../source/site/forusers/visualchangelog34/index.rst:490
+#: ../../source/site/forusers/visualchangelog34/index.rst:561
+msgid ""
+"This feature was developed by `Nyall Dawson <https://north-road.com>`__"
+msgstr "Šią savybę sukūrė `Nyall Dawson <https://north-road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:57
+msgid "Feature: OpenCL based acceleration"
+msgstr "Savybė: akseleracija OpenCL pagrindu"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:59
+msgid "This feature was funded by `QGIS.org <https://qgis.org>`__"
+msgstr "Šią savybę finansavo `QGIS.org <https://qgis.org>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:61
+msgid ""
+"This feature was developed by `Alessandro Pasotti <https://qgis.org>`__"
+msgstr "Šią savybę sukūrė `Alessandro Pasotti <https://qgis.org>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:64
+msgid "Expressions"
+msgstr "Išraiškos"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:67
+msgid "Feature: New expression functions and variables"
+msgstr "Savybė: naujos išraiškų funkcijos ir kintamieji"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:69
+msgid ""
+"Many new expression functions have been added in QGIS 3.4. These include "
+"many handy functions for working with and manipulating arrays and maps "
+"(dictionary) objects."
+msgstr ""
+"QGIS 3.4 pridėta daug išraiškų funkcijų. Tarp jų yra daug patogių funkcijų "
+"darbui su masyvais ir žemėlapių (žodynų) objektais."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:71
+msgid ""
+"**json\\_to\\_map**: Converts a JSON encoded string value to a map "
+"(dictionary) type object"
+msgstr ""
+"**json\\_to\\_map**: Konvertuoja JSON užkoduotą eilutės reikšmę į žemėlapio "
+"(žodyno) tipo objektą"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:72
+msgid ""
+"**map\\_to\\_json**: Converts a map (dictionary) type object to a JSON "
+"encoded string value"
+msgstr ""
+"**map\\_to\\_json**: Konvertuoja žemėlapio (žodyno) tipo objektą į JSON "
+"koduotą eilutės reikšmę"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:73
+msgid ""
+"**hstore\\_to\\_map**: Converts a hstore value to a map (dictionary) type "
+"object"
+msgstr ""
+"**hstore\\_to\\_map**: Konvertuoja hstore reikšmę į žemėlapio (žodyno) tipo "
+"objektą"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:74
+msgid ""
+"**map\\_to\\_hstore**: Converts a map (dictionary) type object to a hstore "
+"value"
+msgstr ""
+"**map\\_to\\_hstore**: Konvertuoja žemėlapio (žodyno) tipo objektą į hstore "
+"reikšmę"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:75
+msgid ""
+"**array\\_foreach** : Loops over an array and executes an expression on each"
+" item in the array, returning a new array containing each calculated value"
+msgstr ""
+"**array\\_foreach** : Ciklu pereina masyvą ir vykdo išraišką kiekvienam "
+"masyvo elementui, grąžina naują masyvą, kuriame yra kiekviena paskaičiuota "
+"reikšmė"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:76
+msgid "**array\\_filter** : Filters an array according to an expression"
+msgstr "**array\\_filter** : Filtruoja masyvą pagal išraišką"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:77
+msgid ""
+"**raster\\_value**: Returns a value sampled from a raster layer at a "
+"specified point"
+msgstr ""
+"**raster\\_value**: Grąžina reikšmę, atrinktą iš nurodyto taško rastro "
+"sluoksnyje"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:78
+msgid ""
+"**to\\_dms**: Converts a numeric value to a Degrees, Minutes, Seconds "
+"formatted string"
+msgstr ""
+"**to\\_dms**: Verčia skaitinę reikšmę į formatuotą eilutę su Laipsniais, "
+"Minutėmis, Sekundėmis"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:79
+msgid ""
+"**to\\_dm**: Converts a numeric value to a Degrees, Minutes formatted string"
+msgstr ""
+"**to\\_dm**: Konvertuoja skaitinę reikšmę į eilutę su formatuotais "
+"Laipsniais, Minutėmis"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:80
+msgid ""
+"**line\\_substring**: Returns the portion of a line (or curve) geometry "
+"which falls between the specified start and end distances (measured from the"
+" beginning of the line). Z and M values are linearly interpolated from "
+"existing values."
+msgstr ""
+"**line\\_substring**: Grąžina linijos (ar kreivės) geometrijos dalį,kuri "
+"patenka tarp nurodytų pradžios ir pabaigos atstumų (skaičiuojant nuo linijos"
+" pradžios), Z ir M reikšmės tiesiškai interpoliuojamos iš esamų reikšmių."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:81
+msgid ""
+"**generate\\_series(start,stop,step)**: Creates an array containing a "
+"sequence of numbers."
+msgstr "**generate\\_series(start,stop,step)**: Sukuria masyvą su skaičių seka."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:83
+msgid ""
+"Additionally, some new variables have also been made available for use "
+"within QGIS expressions:"
+msgstr "Papildomai, kai kurie kintamieji taip pat prieinami iš QGIS išraiškų:"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:85
+msgid ""
+"**@canvas\\_cursor\\_point**: Contains a point value representing the "
+"current position of the mouse cursor within the main map canvas"
+msgstr ""
+"**@canvas\\_cursor\\_point**: Turi taško reikšmę, atitinkančią dabartinę "
+"pelės žymeklio poziciją pagrindinio žemėlapio drobėje"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:86
+msgid ""
+"**@map\\_layers**: Contains an array of all layers which are visible within "
+"the map"
+msgstr ""
+"**@map\\_layers**: Visų sluoksnių, matomų dabartiniame žemėlapyje, masyvas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:87
+msgid ""
+"**@map\\_layer\\_ids**: Contains an array of all layer IDs for layers "
+"visible within the map"
+msgstr "**@map\\_layer\\_ids**: Masyvas su visų žemėlapyje matomų sluoksnių ID"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:89
+msgid "|image2|"
+msgstr "|image2|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:91
+msgid ""
+"This feature was developed by `Etienne Trimaille, Matteo Ghetta, Matthias "
+"Kuhn, Mathieu Pellerin, Nyall Dawson <https://qgis.org>`__"
+msgstr ""
+"Šią savybę sukūrė `Etienne Trimaille, Matteo Ghetta, Matthias Kuhn, Mathieu "
+"Pellerin, Nyall Dawson <https://qgis.org>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:94
+msgid "Feature: Code completion for expression builder"
+msgstr "Savybė: kodo užbaigimas rašant išraiškas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:96
+msgid "Autocompletion for code in the expression editor."
+msgstr "Kodo autoužbaigimas išraiškų redaktoriuje."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:98
+msgid ""
+"Variables, function names and field names are proposed and inserted "
+"automatically when writing expressions"
+msgstr ""
+"Rašant išraiškas siūlomi ir automatiškai įterpiami kintamieji, funkcijų "
+"pavadinimai ir laukų pavadinimai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:99
+msgid "Function parameters are shown while filling them"
+msgstr "Funkcijų parametrai rodomi juos pildant"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:101
+msgid "|image3|"
+msgstr "|image3|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:103
+msgid "This feature was funded by `OPENGIS.ch <https://www.opengis.ch/>`__"
+msgstr "Šią savybę finansavo `OPENGIS.ch <https://www.opengis.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:105
+msgid ""
+"This feature was developed by `Matthias Kuhn (OPENGIS.ch) "
+"<https://www.opengis.ch/>`__"
+msgstr ""
+"Šią savybę sukūrė `Matthias Kuhn (OPENGIS.ch) <https://www.opengis.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:108
+msgid "Map Tools"
+msgstr "Žemėlapio įrankiai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:111
+msgid "Feature: Identify or select features based on existing polygon"
+msgstr "Savybė: identifikuoti arba pažymėti geoobjektus pagal esamą poligoną"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:113
+msgid ""
+"Often it is useful to select/identify features that are covered by an "
+"existing polygon. For this, users can use \"Select Features by Polygon\" and"
+" \"Identify Features by Polygon\" tools, but it was necessary to manually "
+"trace the polygon of interest. This new feature allows user to right click "
+"on the map and pick an existing polygon feature at that location from popup "
+"menu - that polygon will be used as input for selection or identification."
+msgstr ""
+"Dažnai būna naudinga pažymėti/identifikuoti geoobjektus, kuriuos dengia "
+"esamas poligonas. Tam naudotojai gali naudoti įrankius „Pažymėti geoobjektus"
+" pagal poligoną“ ir „Identifikuoti geoobjektus pagal poligoną“, bet reikėjo "
+"rankiniu būdu apibrėžti norimą poligoną. Ši nauja savybė leidžia spausti "
+"dešinį mygtuką ant žemėlapio ir parinkti esamą poligono geoobjektą toje "
+"vietoje iš iškrentančio meniu - šis poligonas bus naudojamas kaip įvestis "
+"pažymėjimui arba identifikavimui."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:115
+msgid "|image4|"
+msgstr "|image4|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:117
+msgid "This feature was funded by Leicestershire County Council"
+msgstr "Šią savybę finansavo Leicestershire County Council"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:119
+msgid ""
+"This feature was developed by `Peter Petrik (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/>`__"
+msgstr ""
+"Šią savybę sukūrė `Peter Petrik (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:122
+msgid "User Interface"
+msgstr "Naudotojo sąsaja"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:125
+msgid "Feature: Auto selection of exported files in file manager"
+msgstr "Savybė: Eksportuotų failų automatinis parinkimas failų tvarkyklėje"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:127
+msgid ""
+"Whenever a message bar item links to a created file (e.g. after exporting a "
+"layout or map layer), the link will now directly open the folder containing "
+"this file within the operating system file browser AND pre-select the "
+"created file. It's a super-handy shortcut speeding up file operations after "
+"an export from QGIS!"
+msgstr ""
+"Kai tik pranešimo juostoje yra nuoroda į sukurtą failą (pvz. po išdėstymo ar"
+" žemėlapio sluoksnio eksporto), nuoroda dabar tiesiogiai atidarys aplanką, "
+"kuriame yra failas IR pažymės sukurtą failą. Tai ypatingai patogus kelias "
+"pagreitinti failų veiksmus po eksporto iš QGIS!"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:129
+msgid "|image5|"
+msgstr "|image5|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:131
+#: ../../source/site/forusers/visualchangelog34/index.rst:140
+#: ../../source/site/forusers/visualchangelog34/index.rst:153
+#: ../../source/site/forusers/visualchangelog34/index.rst:164
+#: ../../source/site/forusers/visualchangelog34/index.rst:186
+#: ../../source/site/forusers/visualchangelog34/index.rst:371
+#: ../../source/site/forusers/visualchangelog34/index.rst:468
+#: ../../source/site/forusers/visualchangelog34/index.rst:497
+#: ../../source/site/forusers/visualchangelog34/index.rst:506
+#: ../../source/site/forusers/visualchangelog34/index.rst:521
+#: ../../source/site/forusers/visualchangelog34/index.rst:530
+#: ../../source/site/forusers/visualchangelog34/index.rst:539
+#: ../../source/site/forusers/visualchangelog34/index.rst:548
+#: ../../source/site/forusers/visualchangelog34/index.rst:559
+#: ../../source/site/forusers/visualchangelog34/index.rst:568
+#: ../../source/site/forusers/visualchangelog34/index.rst:577
+#: ../../source/site/forusers/visualchangelog34/index.rst:586
+#: ../../source/site/forusers/visualchangelog34/index.rst:595
+#: ../../source/site/forusers/visualchangelog34/index.rst:653
+#: ../../source/site/forusers/visualchangelog34/index.rst:970
+#: ../../source/site/forusers/visualchangelog34/index.rst:980
+#: ../../source/site/forusers/visualchangelog34/index.rst:993
+msgid "This feature was funded by `North Road <https://north-road.com>`__"
+msgstr "Šią savybę finansavo `North Road <https://north-road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:133
+#: ../../source/site/forusers/visualchangelog34/index.rst:142
+#: ../../source/site/forusers/visualchangelog34/index.rst:155
+#: ../../source/site/forusers/visualchangelog34/index.rst:166
+#: ../../source/site/forusers/visualchangelog34/index.rst:188
+#: ../../source/site/forusers/visualchangelog34/index.rst:373
+#: ../../source/site/forusers/visualchangelog34/index.rst:470
+#: ../../source/site/forusers/visualchangelog34/index.rst:499
+#: ../../source/site/forusers/visualchangelog34/index.rst:508
+#: ../../source/site/forusers/visualchangelog34/index.rst:523
+#: ../../source/site/forusers/visualchangelog34/index.rst:532
+#: ../../source/site/forusers/visualchangelog34/index.rst:541
+#: ../../source/site/forusers/visualchangelog34/index.rst:550
+#: ../../source/site/forusers/visualchangelog34/index.rst:570
+#: ../../source/site/forusers/visualchangelog34/index.rst:579
+#: ../../source/site/forusers/visualchangelog34/index.rst:588
+#: ../../source/site/forusers/visualchangelog34/index.rst:597
+#: ../../source/site/forusers/visualchangelog34/index.rst:638
+#: ../../source/site/forusers/visualchangelog34/index.rst:655
+#: ../../source/site/forusers/visualchangelog34/index.rst:747
+#: ../../source/site/forusers/visualchangelog34/index.rst:756
+#: ../../source/site/forusers/visualchangelog34/index.rst:972
+#: ../../source/site/forusers/visualchangelog34/index.rst:982
+#: ../../source/site/forusers/visualchangelog34/index.rst:995
+msgid ""
+"This feature was developed by `Nyall Dawson (North Road) <https://north-"
+"road.com>`__"
+msgstr ""
+"Šią savybę sukūrė `Nyall Dawson (North Road) <https://north-road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:136
+msgid "Feature: New \"Open Directory\" option for disabled welcome page projects"
+msgstr ""
+"Savybė: Nauja „Atverti aplanką“ galimybė išjungtiems paskutiniams projektams"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:138
+msgid ""
+"This new option in the right-click context menu for disabled entries on the "
+"welcome page allows users to open the closest existing path to the original "
+"project location in their file manager, to hopefully help them re-locate "
+"missing/moved/renamed projects."
+msgstr ""
+"Nauja parinktis dešinio paspaudimo kontekstiniame meniu paskutinių projektų "
+"sąraše leidžia naudotojams failų tvarkyklėje atverti artimiausia esamą kelią"
+" iki pradinės projekto vietos, taip tikimasi, kad bus galima rasti "
+"trūkstamus/perkeltus/ pervadintus projektus."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:145
+msgid "Feature: UX Improvements for Temporary Scratch Layers"
+msgstr ""
+"Savybė: Naudotojo sąsajos patobulinimai laikiniems juodraštiniams "
+"sluoksniams"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:147
+msgid ""
+"Temporary Scratch Layers in QGIS can be very handy when a \"throw-away\" "
+"layer is needed, such as when pre-processing data in multiple steps. "
+"However, they can be a trap for uniformed users who may not realise that the"
+" contents of the layer will be permanently lost when the current QGIS "
+"project is closed. Accordingly, a new indicator icon has been added which "
+"shows up next to any temporary scratch layers in the layer tree, making it "
+"immediately clear which layers are temporary only."
+msgstr ""
+"Laikini juodraštiniai QGIS sluoksniai gali būti labai naudingi, kai reikia "
+"„išmetamo“ sluoksnio, pavyzdžiui turint apdorotus duomenis tarp kelių "
+"žingsnių. Bet nežinantis naudotojas gali nesuprasti, kad sluoksnio turinys "
+"bus galutiniai prarastas uždarius dabartinį QGIS projektą. Taigi buvo "
+"pridėtas naujas indikatorius greta laikinų juodraštinių sluoksnių, todėl "
+"dabar iš karto aišku, kai sluoksnis yra tik laikinas."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:149
+msgid ""
+"It's also much easier to transition these temporary layers to permanent "
+"disk-based formats. You can either click the new indicator icon or select "
+"\"Make Permanent\" from the layer context menu. QGIS will then prompt for a "
+"location to save the temporary layer to, then replaces it in place (keeping "
+"the same layer ID, style, form settings, etc)."
+msgstr ""
+"Taipogi daug paprasčiau pakeisti šiuos laikinus sluoksnius į pastovius, "
+"diske saugomus formatus. Galite tiesiog spausti ant indikatoriaus "
+"piktogramos, arba parinkti „Padaryti pastoviu“ sluoksnių kontekstiniame "
+"meniu. QGIS tada paklaus kokioje vietoje įrašyti laikiną sluoksnį, tada "
+"pakeičia jį (paliekamas sluoksnio ID, stilius, formos nustatymai ir pan.)."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:151
+msgid "|image6|"
+msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:158
+msgid "Feature: Task manager improvements"
+msgstr "Savybė: užduočių tvarkyklės patobulinimai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:160
+msgid ""
+"The QGIS task manager widget (shown in the status bar whenever a background "
+"task is running) now shows an estimated time remaining and completion time "
+"for long-running background tasks. This Estimated Time of Arrival is "
+"calculated using a simple linear interpolation based on the task's elapsed "
+"time and current progress, and allows users to know whether they've only got"
+" time to make an instance coffee in the office kitchen or walk round the "
+"block for a proper barista made coffee before that long processing task "
+"completes..."
+msgstr ""
+"QGIS užduočių tvarkyklės valdiklis (rodomas būsenos juostoje, kai vykdoma "
+"foninė užduotis) dabar rodo prognozuojamą likusį laiką iki ilgai trunkančių "
+"darbų pabaigos. Prognozuojamas pabaigos laikas skaičiuojamas naudojant "
+"paprastą tiesinę interpoliaciją pagal užduoties praleistą laiką ir dabartinį"
+" progresą. Tai leidžia naudotojams žinoti, ar jie spės pasidaryti kavos "
+"virtuvėje, ar nueiti pas kavos pas tikrą baristą už kvartalo..."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:162
+msgid ""
+"Additionally, QGIS uses the standard operating system progress reporting "
+"mechanisms on more platforms and occasions in QGIS 3.4. Some long running "
+"tasks (which don't run in the background) such as atlas exports now show "
+"their progress via the operating system mechanism, and throw up handy "
+"completion notifications."
+msgstr ""
+"Papildomai QGIS naudoja standartinį operacinės sistemos progreso rodymo "
+"mechanizmą didesniame skaičiuje platformų. Kai kurios ilgai veikiančios "
+"užduotys (kurios neveikia fone), tokios kaip atlaso eksportas dabar rodo "
+"progresą per operacinės sistemos mechanizmą ir rodo patogius pabaigimo "
+"pranešimus."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:169
+msgid ""
+"Feature: Hyperlinks to local vector & raster datasets in the information "
+"panel"
+msgstr ""
+"Savybė: nuorodos informaciniame skydelyje į vietinius vektorinius ir rastro "
+"duomenų rinkinius"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:171
+msgid ""
+"For local vector and raster datasets, the Information tab within the layer "
+"properties dialog now features source file path hyperlinks. Upon clicking on"
+" the hyperlink, the system's file navigator will open and automatically "
+"highlight the dataset."
+msgstr ""
+"Vietiniams vektoriniams ir rastro duomenų rinkiniams, sluoksnio savybių "
+"dialogo informacijos kortelėje dabar rodoma šaltinio kelio nuoroda. "
+"Paspaudus nuorodą automatiškai atveriamas sistemos failų navigatorius ir "
+"pažymimas duomenų rinkinys."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:173
+msgid "|image7|"
+msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:175
+#: ../../source/site/forusers/visualchangelog34/index.rst:616
+msgid ""
+"This feature was funded by `iMhere Asia <https://www.imhere-asia.com/>`__"
+msgstr "Šią savybę finansavo `iMhere Asia <https://www.imhere-asia.com/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:177
+#: ../../source/site/forusers/visualchangelog34/index.rst:618
+#: ../../source/site/forusers/visualchangelog34/index.rst:629
+msgid ""
+"This feature was developed by `Mathieu Pellerin <https://www.imhere-"
+"asia.com/>`__"
+msgstr "Šią savybę sukūrė `Mathieu Pellerin <https://www.imhere-asia.com/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:180
+msgid "Feature: Style manager improvements"
+msgstr "Savybė: stiliaus tvarkyklės patobulinimai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:182
+msgid ""
+"The QGIS Style Manager dialog (which allows users to setup and manage their "
+"own libraries of symbols and color ramps) now opens non-modally, so it can "
+"now be used alongside the main QGIS window (just like the Layout Manager "
+"dialog and Print Layout Designer windows)."
+msgstr ""
+"QGIS stiliaus tvarkyklės dialogas (leidžiantis naudotojams kurti ir tvarkyti"
+" jų asmenines simbolių ir spalvos rampų bibliotekas) dabar atsidaro "
+"nemodaliai, taigi gali būti naudojamas greta pagrindinio QGIS lango (taip "
+"kaip išdėstymo tvarkyklės dialogas ir spausdinimo išdėstymo dizainerio "
+"langai)."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:184
+msgid ""
+"We've also improved the preview of symbols within the Layer Styling dock, "
+"adding a toggle to switch between a large icon view and a detailed list view"
+" of symbols. Hovering over symbols (and colors!) now shows a large preview "
+"of the symbol. Finally, we've made symbol lists more hi-dpi friendly."
+msgstr ""
+"Mes taipogi patobulinome simbolių peržiūrą sluoksnio stiliaus skiltyje, "
+"pridėjome perjungimą tarp didelių piktogramų ir detalaus simbolių sąrašo "
+"rodymo. Užvedus pelę virš simbolių (ir spalvų!) dabar bus rodoma didelė "
+"simbolio peržiūra. Ir pagaliau mes padarėme simbolių sąrašus labiau "
+"priimtinus dideliam dpi."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:191
+msgid "Feature: Polished browser panel interface and experience"
+msgstr "Savybė: pagražinta naršyklės skydelio sąsaja ir patirtis"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:193
+msgid ""
+"Tons of work was done for this release to improve the user interface and "
+"experience of the browser panel including HiDPI fixes, compressed "
+"vector/raster dataset improvements, and a refreshed icon set."
+msgstr ""
+"Šioje laidoje buvo padaryta daug darbų, kad būtų pagerinta naršyklės "
+"skydelio sąsaja ir patirtis, įskaitant HiDPI pataisymus, suspaustų "
+"vektorinių/rastro duomenų rinkinių pagerinimai ir atnaujintas piktogramų "
+"rinkinys."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:195
+msgid ""
+"Functionality has also been added, including the ability to create a new "
+"directory directly from the browser context menu. The browser also now shows"
+" a more complete range of options for SQL Server connections, matching those"
+" options which were already available for other database connections."
+msgstr ""
+"Buvo pridėtas ir naujas funkcionalumas, toks kaip galimybė sukurti naują "
+"aplanką tiesiai per naršyklės kontekstinį meniu. Naršyklė dabar taipogi rodo"
+" pilnesnę aibę SQL Serverio jungčių parinkčių, atitinkančią parinktis, "
+"kurios jau buvo kitose duomenų jungtyse."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:197
+msgid "|image8|"
+msgstr "|image8|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:199
+msgid ""
+"This feature was developed by Mathieu Pellerin (iMHere Asia), Nyall Dawson "
+"(North Road)"
+msgstr ""
+"Šią savybę sukūrė Mathieu Pellerin (iMHere Asia), Nyall Dawson (North Road)"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:202
+msgid "Feature: QML chart and drawings widget"
+msgstr "Savybė: QML diagramų ir piešinių valdiklis"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:204
+msgid ""
+"A new type of vector layer form widget for showing graphically appealing and"
+" interactive items like charts or technical drawings on the attribute form "
+"has been added in QGIS 3.4. The widget sports a flexible configuration, "
+"including example templates and expression support."
+msgstr ""
+"QGIS 3.4 pridėtas naujas vektorinių sluoksnių formos valdiklio tipas, "
+"skirtas grafiškai malonių ir interaktyvių elementų, tokių kaip diagramų ar "
+"techninių brėžinių, rodymui atributų formoje. Valdiklis leidžia lanksčią "
+"konfigūraciją, įskaitant pavyzdinių šablonų ir išraiškų palaikymą."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:207
+msgid "|image9|"
+msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:209
+msgid "This feature was funded by `QGIS Project <https://qgis.org/>`__"
+msgstr "Šią savybę finansavo `QGIS Projektas <https://qgis.org/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:211
+msgid ""
+"This feature was developed by `David Signer and Matthias Kuhn (OPENGIS.ch) "
+"<https://www.opengis.ch>`__"
+msgstr ""
+"Šią savybę sukūrė `David Signer ir Matthias Kuhn (OPENGIS.ch) "
+"<https://www.opengis.ch>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:214
+msgid "Symbology"
+msgstr "Simbologija"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:217
+msgid "Feature: Mesh layer styling"
+msgstr "Savybė: tinklelio sluoksnio stilius"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:219
+msgid "Adding datasets to mesh layer from properties panel"
+msgstr "Duomenų rinkinių pridėjimas į tinklelio sluoksnį iš savybių skydelio"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:220
+msgid "Information and source panel in properties panel"
+msgstr "Informacijos ir šaltinio skydeliai savybių skydelyje"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:221
+msgid "Selection of active dataset (properties or styling panel)"
+msgstr ""
+"Aktyvaus duomenų rinkinio parinkimas (savybių arba stiliaus skydelyje)"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:222
+msgid "Styling of contours/scalars (properties or styling panel)"
+msgstr "Kontūrų/skaliarų stilius (savybių ar stiliaus skydelyje)"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:223
+msgid "Styling of mesh frame (properties or styling panel)"
+msgstr "Tinklelio rėmo stilius (savybių ar stiliaus skydelyje)"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:224
+msgid "Styling of vector arrows (properties or styling panel)"
+msgstr "Vektorinių rodyklių stilius (savybių ar stiliaus skydelyje)"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:226
+#: ../../source/site/forusers/visualchangelog34/index.rst:705
+#: ../../source/site/forusers/visualchangelog34/index.rst:716
+#: ../../source/site/forusers/visualchangelog34/index.rst:727
+#: ../../source/site/forusers/visualchangelog34/index.rst:1067
+#: ../../source/site/forusers/visualchangelog34/index.rst:1087
+msgid ""
+"This feature was funded by `Lutra Consulting "
+"<https://www.lutraconsulting.co.uk/>`__"
+msgstr ""
+"Šią savybę finansavo `Lutra Consulting "
+"<https://www.lutraconsulting.co.uk/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:228
+msgid ""
+"This feature was developed by `Peter Petrik (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
+msgstr ""
+"Šią savybę sukūrė `Peter Petrik (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:231
+msgid "Feature: Classify symmetric in graduated renderer"
+msgstr "Savybė: graduoto braižymo simetrinė klasifikacija"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:233
+msgid "This feature was funded by https://github.com/pierreloicq"
+msgstr "Šią savybę finansavo https://github.com/pierreloicq"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:235
+msgid "This feature was developed by https://github.com/pierreloicq"
+msgstr "Šią savybę sukūrė https://github.com/pierreloicq"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:238
+msgid "Feature: Partial QML export and import"
+msgstr "Savybė: dalinis QML eksportas ir importas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:240
+msgid ""
+"When exporting and importing styles to and from ``.qml`` files it is now "
+"possible to select a subset of sections. This allows to save and restore "
+"parts of a layer configuration while omitting others. For example, it's "
+"possible to export only the symbology of a layer and when importing this QML"
+" style file into a layer, any configuration on the forms and widgets or "
+"other properties are unaffected. It is also possible to only handle single "
+"sections of a style when using copy/paste."
+msgstr ""
+"Eksportuojant ar importuojant stilius į ir iš ``.qml`` failų, dabar galima "
+"parinkti sekcijų poaibį. Tai leidžia įrašyti ir atstatyti sluoksnio "
+"konfigūracijos dalis paliekant kitas. Pavyzdžiui galima eksportuoti tik "
+"sluoksnio simbologija, o importuojant šį QML silių į sluoksnį, formų ir "
+"valdiklių ir kitos savybės lieka nepakeistos. Taip pat galima valdyti tik "
+"atskiras stiliaus dalis naudojant kopijavimą/įkėlimą."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:244
+msgid "|image10|"
+msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:246
+msgid "This feature was funded by `qwat group <http://qwat.org/>`__"
+msgstr "Šią savybę finansavo `qwat group <http://qwat.org/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:248
+msgid ""
+"This feature was developed by `Denis Rouzaud (OPENGIS.ch GmbH) "
+"<https://www.opengis.ch>`__"
+msgstr ""
+"Šią savybę sukūrė `Denis Rouzaud (OPENGIS.ch GmbH) "
+"<https://www.opengis.ch>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:251
+msgid "Digitising"
+msgstr "Skaitmeninimas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:254
+msgid "Feature: GPS tracking improvements"
+msgstr "Savybė: GPS sekimo patobulinimai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:256
+msgid ""
+"QGIS 3.4 extends the inbuilt GPS tracking support, adding \"acquisition "
+"interval\" and \"distance threshold\" parameters. These options can be used "
+"to keep the cursor stationary when the receiver is in static conditions."
+msgstr ""
+"QGIS 3.4 išplečia įsiūtą GPS sekimo palaikymą, pridedant „surinkimo "
+"intervalo“ ir „atstumo slenksčio“ parametrus. Šias parinktis galima naudoti,"
+" kad žymeklis liktų vietoje, kai imtuvas yra statinėje padėtyje."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:258
+msgid ""
+"This feature was funded by `Andrea Rossi <https://github.com/rossia>`__"
+msgstr "Šią savybę finansavo `Andrea Rossi <https://github.com/rossia>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:260
+msgid ""
+"This feature was developed by `Andrea Rossi <https://github.com/rossia>`__"
+msgstr "Šią savybę sukūrė `Andrea Rossi <https://github.com/rossia>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:263
+msgid "Feature: More angle choices in advanced digitizing dock"
+msgstr ""
+"Savybė: daugiau kampų parinkimų sudėtingesniame skaitmeninimo skydelyje"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:265
+msgid ""
+"Options were added to allowing snapping to 5/10/15/18/22.5 degrees while in "
+"construction mode."
+msgstr ""
+"Pridėtos parinktis pritraukti prie 5/10/15/18/22.5 laipsnių kūrimo režime."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:267
+msgid "|image11|"
+msgstr "|image11|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:269
+msgid ""
+"This feature was funded by `lbartoletti <https://github.com/lbartoletti>`__"
+msgstr "Šią savybę finansavo `lbartoletti <https://github.com/lbartoletti>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:271
+msgid ""
+"This feature was developed by `lbartoletti "
+"<https://github.com/lbartoletti>`__"
+msgstr "Šią savybę sukūrė `lbartoletti <https://github.com/lbartoletti>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:274
+msgid "Feature: Vertex tool can work on the current layer only"
+msgstr "Savybė: viršūnių įrankis gali dirbti tik su dabartiniu sluoksniu"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:276
+msgid ""
+"The new vertex is a lot more productive now. It can move vertices of all "
+"editable layers at once, which is great to preserve cross layers topology. "
+"However in many cases, many of us don't want to modify all layers at once. "
+"We added a variation of the vertex map tool just for that."
+msgstr ""
+"Naujas viršūnių įrankis yra daug produktyvesnis. Jis gali perkelti visų "
+"redaguojamų sluoksnių viršūnes vienu metu, tai labai patogu norint išsaugoti"
+" sluoksnių topologiją. Bet dažnai mes tiesiog nenorime keisti visus "
+"sluoksnius vienu metu. Mes pridėjome viršūnių įrankiui galimybę būtent tai "
+"ir padaryti."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:278
+msgid "|image12|"
+msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:280
+msgid "This feature was funded by `Oslandia <https://oslandia.com>`__"
+msgstr "Šią savybę finansavo `Oslandia <https://oslandia.com>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:282
+msgid ""
+"This feature was developed by `Paul Blottiere (Oslandia) "
+"<https://oslandia.com/en/home-en/>`__"
+msgstr ""
+"Šią savybę sukūrė `Paul Blottiere (Oslandia) <https://oslandia.com/en/home-"
+"en/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:285
+msgid "Feature: Add reverse line maptools"
+msgstr "Savybė: pridėtas linijos apsukimo įrankis"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:287
+msgid ""
+"A long awaited feature ! No more external plugin or algorithm to reverse a "
+"line's direction!"
+msgstr ""
+"Senai laukta savybė! Daugiau nebereikia išorinio priedo ar algoritmo, kad "
+"būtų galima apsukti linijos kryptį!"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:289
+msgid "|image13|"
+msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:291
+#: ../../source/site/forusers/visualchangelog34/index.rst:927
+msgid "This feature was funded by `OSLANDIA <https://oslandia.com>`__"
+msgstr "Šią savybę finansavo `OSLANDIA <https://oslandia.com>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:293
+msgid ""
+"This feature was developed by `Loïc Bartoletti "
+"<https://github.com/lbartoletti>`__"
+msgstr ""
+"Šią savybę sukūrė `Loïc Bartoletti <https://github.com/lbartoletti>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:296
+msgid "Feature: Geometry Precision"
+msgstr "Savybė: geometrijos tikslumas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:298
+msgid ""
+"Vector layers have a precision configuration option. The precision defines "
+"how accurate the location of nodes should be saved. Each node of new or "
+"edited geometries is snapped to a grid of this resolution. While digitizing,"
+" the grid is shown to guide the user."
+msgstr ""
+"Vektoriniai sluoksniai turi tikslumo konfigūravimo parinktį. Tikslumas "
+"nurodo, kokiu tikslumu reikia įrašyti taškų vietas. Kiekvienas taškas, "
+"naujos ar pakeistos geometrijos, pritraukiamas iki nurodyto tikslumo "
+"gardelės. Skaitmeninant tinklelis rodomas naudotojui kaip gidas."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:302
+msgid "|image14|"
+msgstr "|image14|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:304
+#: ../../source/site/forusers/visualchangelog34/index.rst:314
+#: ../../source/site/forusers/visualchangelog34/index.rst:325
+#: ../../source/site/forusers/visualchangelog34/index.rst:345
+#: ../../source/site/forusers/visualchangelog34/index.rst:738
+msgid ""
+"This feature was funded by `Kanton Solothurn <https://www.so.ch/verwaltung"
+"/bau-und-justizdepartement/amt-fuer-geoinformation/>`__"
+msgstr ""
+"Šią savybę finansavo `Kanton Solothurn <https://www.so.ch/verwaltung/bau-"
+"und-justizdepartement/amt-fuer-geoinformation/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:306
+#: ../../source/site/forusers/visualchangelog34/index.rst:316
+#: ../../source/site/forusers/visualchangelog34/index.rst:327
+#: ../../source/site/forusers/visualchangelog34/index.rst:347
+msgid ""
+"This feature was developed by `Matthias Kuhn (OPENGIS.ch) "
+"<https://www.opengis.ch>`__"
+msgstr ""
+"Šią savybę sukūrė `Matthias Kuhn (OPENGIS.ch) <https://www.opengis.ch>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:309
+msgid "Feature: Automatically remove duplicate nodes"
+msgstr "Savybė: automatiškai išimti taškų dublius"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:311
+msgid ""
+"When adding or editing geometries on a vector layer, QGIS can automatically "
+"remove duplicate nodes from geometries. This option is configurable in the "
+"digitizing tab of vector layers."
+msgstr ""
+"Pridedant ar redaguojant vektorinio sluoksnio geometrijas, QGIS gali "
+"automatiškai išimti iš geometrijų taškų dublius. Ši parinktis konfigūruojama"
+" vektorinių sluoksnių skaitmeninimo kortelėje."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:319
+msgid "Feature: Check for geometry validity"
+msgstr "Savybė: tikrinti geometrijos teisingumą"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:321
+msgid ""
+"Each new or edited geometry can be checked for validity if this option is "
+"activated. This allows to communicate transparently to a user when there are"
+" erroneous geometries produced by the current edit session."
+msgstr ""
+"Kiekviena nauja ar pakeista geometrija gali būti patikrinta, jei ši "
+"parinktis įjungta. Tai leidžia skaidriai paaiškinti naudotojui, kai "
+"dabartinėje redagavimo sesijoje sukuriamos netinkamos geometrijos."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:323
+msgid "|image15|"
+msgstr "|image15|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:330
+msgid "Feature: Topology checks while editing"
+msgstr "Savybė: topologijos tikrinimo redagavimo metu"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:332
+msgid ""
+"Topology checks can be activated on a layer. On newly added and edited "
+"geometries, topology checks can be executed. The checks will be executed, "
+"when the layer is saved or upon a click on the topology check button on the "
+"geometry validation panel."
+msgstr ""
+"Sluoksnyje galima įjungti topologijos tikrinimą. Naujai pridėtoms ir "
+"redaguojamoms geometrijoms bus vykdomas topologijos tikrinimas. Tikrinimas "
+"vykdomas, kai sluoksnis įrašomas arba paspaudus topologijos tikrinimo "
+"mygtuką geometrijos tikrinimo skydelyje."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:335
+msgid "The following checks are available:"
+msgstr "Galimi tikrinimai:"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:337
+msgid "Gaps"
+msgstr "Tarpai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:338
+msgid "Overlaps"
+msgstr "Persidengimai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:339
+msgid "Missing vertices on neighbouring polygons"
+msgstr "Trūkstamos viršūnes kaimyniniuose poligonuose"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:341
+msgid ""
+"This builds on top of the functionality of the geometry checker plugin which"
+" was implemented by `Sourcepole <https://sourcepole.ch>`__."
+msgstr ""
+"Tai sukurta naudojantis geometrijos tikrinimo priedu, kurį įgyvendino "
+"`Sourcepole <https://sourcepole.ch>`__."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:343
+msgid "|image16|"
+msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:350
+msgid "Data Management"
+msgstr "Duomenų valdymas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:353
+msgid "Feature: Translation of QGIS projects"
+msgstr "Savybė: QGIS projektų vertimas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:355
+msgid ""
+"Like QGIS and the plugins, the projects are translated with the Qt "
+"translation process. Means, it makes the translation according to a Qt "
+"Compiled Translation Source File (``.qm`` file). When the user opens a "
+"project, QGIS checks for a ``.qm`` file laying in the same folder like the "
+"``.qgs`` file, having the same name like the ``.qgs`` file and having the "
+"language-code as postfix of the users language (the language configured in "
+"the QGIS settings). To create the translation, in the project settings, "
+"there is an option to generate the ``.ts`` file, that can edited by programs"
+" like Qt Linguist or Transifex."
+msgstr ""
+"Kaip QGIS ir priedai, projektai verčiami pagal Qt vertimo procesą. Tai "
+"reiškia, kad vertimas veikia pagal Qt Kompiliuotą Vertimo Išeities Failą "
+"(``.qm`` file). Kai naudotojas atidaro projektą, QGIS ieško ``.qm`` failo "
+"tame pačiame aplanke, kaip ir ``.qgs`` failas, su tokiu pačiu pavadinimu, "
+"kaip ``.qgs`` failas ir turinčiu kalbos kodą kaip priesagą (kalba "
+"konfigūruojama QGIS nustatyuose). Kad sukurtumėte vertimą, projekto "
+"nustatymuose yra parinktis kurti ``.ts`` failą, kurį galima redaguoti "
+"vertimo programomis, tokiomis kaip Qt Linguist ar Transifex."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:358
+msgid ""
+"More information in `this blog post <https://new.opengis.ch/2018/09/11/qgis-"
+"speaks-a-lot-of-languages/>`__"
+msgstr ""
+"Daugiau informacijos rasite `šiame tinklaraštyje "
+"<https://new.opengis.ch/2018/09/11/qgis-speaks-a-lot-of-languages/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:360
+msgid ""
+"This feature was funded by `QGIS Usergroup Switzerland and QGEP Project "
+"<https://www.qgis.ch/en>`__"
+msgstr ""
+"Šią savybę finansavo `QGIS Šveicarijos grupė ir QGEP Projektas "
+"<https://www.qgis.ch/en>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:362
+msgid ""
+"This feature was developed by `David Signer (OPENGIS.ch) "
+"<https://www.opengis.ch/>`__"
+msgstr ""
+"Šią savybę sukūrė `David Signer (OPENGIS.ch) <https://www.opengis.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:365
+msgid "Feature: Switch Attribute Table dock mode on demand"
+msgstr "Savybė: prireikus perjungti atributų lentelės prijungimo režimą"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:367
+msgid ""
+"A button has been added to the Attribute Table toolbar for switching between"
+" docked and window mode on demand. Previously users had to change an option "
+"in the settings dialog and open a new table in order to switch between "
+"docked/undocked mode, but that's painful if you decide *after* a table is "
+"already open that you'd like to dock/undock it...!"
+msgstr ""
+"Atributų lentelės įrankinėje pridėtas mygtukas, leidžiantis persijungti tarp"
+" prijungto ir lango režimo. Anksčiau naudotojai turėto galimybę per "
+"nustatymų dialogą atidaryti naują lentelę, kad persijungtų tarp "
+"prijungto/atjungto režimo, bet tai nepatogu, jei režimą pakeisti "
+"nusprendžiate jau *po* to, kai atidarėte lentelę."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:369
+msgid "|image17|"
+msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:376
+msgid "Feature: New locator filter to search across all layers"
+msgstr "Savybė: naujas atradėjo filtras paieškai visuose sluoksniuose"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:378
+msgid ""
+"A new locator filter has been added which allows users to search across "
+"*all* layers in their project, by the layer's display expression."
+msgstr ""
+"Pridėtas naujas atradėjo filtras, leidžiantis naudotojams ieškoti *visuose* "
+"projekto sluoksniuose, pagal sluoksnio rodymo išraišką."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:380
+msgid ""
+"The filter can be activated by using the prefix 'af', or by making it a "
+"default search via QGIS options -> Locator -> Features In All Layer. Display"
+" expressions are defined in the vector layer properties under the display "
+"tab. Individual layers can be marked as not searchable in the Project "
+"Properties dialog, under the Data Sources tab."
+msgstr ""
+"Filtrą galima aktyvuoti naudojant priešdėlį „af“ arba padarius jį numatyta "
+"paieška per QGIS parinktys -> Atradėjas -> Geoobjektai visuose sluoksniuose."
+" Rodymo išraiškos nustatomos vektorinių sluoksnių savybių rodymo kortelėje. "
+"Konkretus sluoksnis gali būti pažymėtas kaip nerandamas Projekto Savybių "
+"dialoge, Duomenų šaltinių kortelėje."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:382
+msgid "|image18|"
+msgstr "|image18|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:384
+msgid "This feature was funded by `Opengis.ch <https://www.opengis.ch/>`__"
+msgstr "Šią savybę finansavo `Opengis.ch <https://www.opengis.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:386
+msgid ""
+"This feature was developed by `Denis Rouzaud <https://www.opengis.ch/>`__"
+msgstr "Šią savybę sukūrė `Denis Rouzaud <https://www.opengis.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:389
+msgid "Feature: Non-removable (required) layers highlighted in layer tree"
+msgstr "Savybė: neišimami (privalomi) sluoksniai pažymimi sluoksnių medyje"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:391
+msgid ""
+"A new indicator \"locked\" icon is shown for any layers marked as "
+"\"required\" within the current project. This icon gives users instant "
+"feedback that a particular layer cannot be removed from the project."
+msgstr ""
+"Naujas indikatorius „užrakinta“ rodomas visiems sluoksniams, kurie pažymėti "
+"kaip „privalomi“ dabartiniame projekte. Ši piktograma naudotojams iš karto "
+"parodo, kad konkretaus sluoksnio negalima išimti."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:393
+msgid ""
+"Required layers are configured via the Project Properties dialog, Data "
+"Sources tab."
+msgstr ""
+"Privalomi sluoksniai konfigūruojami per Projekto savybių dialogo Duomenų "
+"šaltinių kortelę."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:395
+msgid "|image19|"
+msgstr "|image19|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:397
+msgid ""
+"This feature was funded by `Arpa Piemonte (Dipartimento Tematico Geologia e "
+"Dissesto) within ERIKUS project <https://www.arpa.piemonte.it/>`__"
+msgstr ""
+"Šią savybę finansavo `Arpa Piemonte (Dipartimento Tematico Geologia e "
+"Dissesto) ERIKUS projekto rėmuose <https://www.arpa.piemonte.it/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:399
+#: ../../source/site/forusers/visualchangelog34/index.rst:1080
+msgid ""
+"This feature was developed by `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk>`__ and `Faunalia "
+"<https://www.faunalia.eu>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:402
+msgid "Feature: Append raster layer to an existing Geopackage"
+msgstr "Savybė: pridėti rastro sluoksnį į esamą Geopackage"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:404
+msgid ""
+"When saving a raster layer to GeoPackage database, it's now possible to "
+"append the layer to an existing file."
+msgstr ""
+"Įrašant rastro sluoksnį į GeoPackage duombazę, dabar galima pridėti sluoksnį"
+" į esamą failą."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:406
+msgid "|image20|"
+msgstr "|image20|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:408
+#: ../../source/site/forusers/visualchangelog34/index.rst:941
+msgid ""
+"This feature was funded by `Borys Jurgiel <https://github.com/borysiasty>`__"
+msgstr ""
+"Šią savybę finansavo `Borys Jurgiel <https://github.com/borysiasty>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:410
+#: ../../source/site/forusers/visualchangelog34/index.rst:943
+msgid ""
+"This feature was developed by `Borys Jurgiel "
+"<https://github.com/borysiasty>`__"
+msgstr "Šią savybę sukūrė `Borys Jurgiel <https://github.com/borysiasty>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:413
+msgid "Forms and Widgets"
+msgstr "Formos ir valdikliai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:416
+msgid "Feature: Drill-down (cascading) forms in QGIS Value Relation Widgets"
+msgstr ""
+"Savybė: detalizacijos (kaskadinės) formos QGIS reikšmių ryšių skydeliuose"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:418
+msgid ""
+"New functions and logic in QGIS “Value Relation Widgets”, allowing the "
+"implementation of complex, dynamic filters within QGIS attribute forms. The "
+"functionality can be used to implement “drill-down” forms within QGIS, where"
+" the values available in one field depend on the values of other fields:"
+msgstr ""
+"Naujos funkcijos ir logika QGIS „Reikšmių ryšių valdikliuose“ leidžia "
+"įgyvendinti sudėtingus, dinaminius filtrus QGIS atributų formose. "
+"Funkcionalumą galima naudoti įgyvendinant „detalizacijos“ formas, kur "
+"viename lauke rodomos reikšmės priklauso nuo reikšmių kitame lauke:"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:420
+msgid "|image21|"
+msgstr "|image21|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:422
+msgid ""
+"This feature was funded by `QGIS community through crowd-funding <https"
+"://north-road.com/drill-down-cascading-forms/>`__"
+msgstr ""
+"Šią savybę finansavo `QGIS bendruomenė sutelktinio finansavimo būdu <https"
+"://north-road.com/drill-down-cascading-forms/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:424
+msgid "This feature was developed by Alessandro Pasotti (with North Road)"
+msgstr "Šią savybę sukūrė Alessandro Pasotti (su North Road)"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:427
+msgid "Map Composer"
+msgstr "Žemėlapio maketas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:430
+msgid "Feature: 3D map items"
+msgstr "Savybė: 3D žemėlapio elementai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:432
+msgid ""
+"This feature allows users to add their 3D map view to the print layout."
+msgstr ""
+"Ši savybė leidžia naudotojams pridėti savo 3D žemėlapio rodinį į spausdinimo"
+" išdėstymą."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:434
+msgid "|image22|"
+msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:436
+#: ../../source/site/forusers/visualchangelog34/index.rst:1035
+#: ../../source/site/forusers/visualchangelog34/index.rst:1048
+msgid ""
+"This feature was funded by `QGIS community through crowd-funding "
+"<https://www.lutraconsulting.co.uk/crowdfunding/more-qgis-3d/>`__"
+msgstr ""
+"Šią savybę finansavo `QGIS bendruomenė sutelktinio finansavimo būdu "
+"<https://www.lutraconsulting.co.uk/crowdfunding/more-qgis-3d/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:438
+#: ../../source/site/forusers/visualchangelog34/index.rst:696
+#: ../../source/site/forusers/visualchangelog34/index.rst:707
+#: ../../source/site/forusers/visualchangelog34/index.rst:718
+#: ../../source/site/forusers/visualchangelog34/index.rst:729
+msgid ""
+"This feature was developed by `Lutra Consulting "
+"<https://www.lutraconsulting.co.uk/>`__"
+msgstr ""
+"Šią savybę sukūrė `Lutra Consulting <https://www.lutraconsulting.co.uk/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:441
+msgid "Processing"
+msgstr "Apdorojimas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:444
+msgid "Feature: New \"Edit in place\" mode"
+msgstr "Savybė: naujas „redagavimo iš karto“ režimas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:446
+msgid ""
+"Thanks to a large number of `generous backers <https://north-road.com/edit-"
+"features-in-place-using-qgis-spatial-operations-campaign/>`__, a crowdfunded"
+" \"edit in place\" mode was added to Processing for 3.4. When a vector layer"
+" is active and editable, this mode allows users to execute suitable "
+"algorithms directly on the features from the layer, modifying their "
+"attributes and geometries in-place. All edits are added to the layer’s “edit"
+" buffer”, so you can easily undo and redo the changes before saving them "
+"back to the data source."
+msgstr ""
+"Didelio rėmėjų skaičiaus dėka <https://north-road.com/edit-features-in-"
+"place-using-qgis-spatial-operations-campaign/>`__, į 3.4 versijos Apdorojimą"
+" buvo pridėtas sutelktiniu būdu finansuotas „redaguoti iš karto“ režimas. "
+"Kai vektorinis sluoksnis aktyvus ir redaguojamas, šis režimas leidžia "
+"naudotojus vykdyti norimus algoritmus sluoksnio geoobjektams, keičiant jų "
+"atributus ir geometrijas tiesiai pradiniame sluoksnyje. Visi pakeitimai "
+"pridedami į sluoksnio „pakeitimo buferį“, taigi galite lengvai atšaukti ar "
+"vėl pritaikyti pakeitimus prieš įrašydami juos į duomenų šaltinį."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:448
+msgid ""
+"For those power users who perform frequent data edits, this functionality is"
+" also exposed via QGIS 3.0’s “Locator bar” (that “type to locate” bar which "
+"sits in the bottom-left corner). Typing ‘ef’ (“edit features”) followed by "
+"the name of the corresponding operation allows you to perform the edits "
+"directly via the keyboard. E.g."
+msgstr ""
+"Tiems naudotojams, kurie dažnai vykdo duomenų redagavimą, šis funkcionalumas"
+" pateiktas per QGIS 3.0 „Atradėjo juostą“ (esantį apatiniame kairiame "
+"kampe). Parašę „ef“ (nuo angliško „edit features“) ir tada atitinkamą "
+"veiksmą, galėsite vykdyti redagavimą tiesiai su klaviatūra. Pvz."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:450
+msgid "Select a bunch of line features"
+msgstr "Parinkite grupę linijos objektų"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:451
+msgid "Press Ctrl + K (activates the locator bar)"
+msgstr "Spauskite Ctrl + K (aktyvuoja atradėjo juostą)"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:452
+msgid "Type “ef reverse”"
+msgstr "Rašykite „ef reverse“"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:453
+msgid "Press enter – the selected line features will be reversed immediately!"
+msgstr ""
+"Spauskite enter - pažymėti linijos geoobjektai bus nedelsiant apsukti!"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:455
+msgid "|image23|"
+msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:457
+msgid ""
+"This feature was funded by `Crowdfunding campaign <https://north-road.com"
+"/edit-features-in-place-using-qgis-spatial-operations-campaign/>`__"
+msgstr ""
+"Šią savybę finansavo `Sutelktinis finansavimas <https://north-road.com/edit-"
+"features-in-place-using-qgis-spatial-operations-campaign/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:459
+msgid "This feature was developed by `North Road <https://north-road.com>`__"
+msgstr "Šią savybę sukūrė `North Road <https://north-road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:462
+msgid "Feature: Store models inside project"
+msgstr "Savybė: laikyti modelius projekto viduje"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:464
+msgid ""
+"Some Processing models are so intrinsically linked to the logic inside a "
+"particular project that they have no meaning (or are totally broken) outside"
+" of that project (e.g. models which rely on the presence of particular map "
+"layers, relations, etc). Accordingly, from QGIS 3.4, Processing models can "
+"be stored inside QGIS project files. Any models stored within a project are "
+"made available as soon as that project is opened. This also avoids "
+"cluttering up the \"global\" model provider with models which make no sense,"
+" and makes it easier to distribute a single project all relevant models "
+"included."
+msgstr ""
+"Kai kurie apdorojimo modeliai glaudžiai susiję su konkretaus projekto logika"
+" ir jie neturi reikšmės (arba visiškai neveikia), jei yra už projekto ribų "
+"(pvz. modeliai, kurie priklauso nuo konkrečių žemėlapio sluoksnių buvimo, "
+"ryšių ir pan.). Taigi nuo QGIS 3.4 Apdorojimo modelius galima įrašyti į QGIS"
+" projektų failus. Bet kokie modeliai, įrašyti projekte prieinami iš karto "
+"atidarius projektą. Tai taip pat sutvarko „globalų“ modelių tiekėją nuo "
+"modelių, kurie yra beprasmiški, todėl lengviau dalintis vienu projektu su "
+"įtrauktais visais reikiamais modeliais."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:466
+msgid ""
+"Models are stored inside projects by clicking the new \"Embed in Project\" "
+"button in the Modeler dialog toolbar. Models can be removed from a project "
+"from the model's right click menu in the toolbox."
+msgstr ""
+"Modeliai saugomi projektų viduje paspaudus naują mygtuką „Įtraukti į "
+"projektą“ Modeliuotojo dialogo įrankinėje. Modelius galima išimti iš "
+"projekto per įrankinės dešinio pelės mygtuko meniu."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:473
+msgid "Feature: Sample Raster Values"
+msgstr "Savybė: rastro reikšmių atranka"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:475
+msgid ""
+"A new algorithm was added for sampling raster layer values at point "
+"locations."
+msgstr ""
+"Pridėtas naujas algoritmas rastro sluoksnio reikšmių atrankai iš taškinių "
+"vietų."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:477
+msgid "|image24|"
+msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:479
+msgid "This feature was funded by `Faunalia <https://www.faunalia.eu>`__"
+msgstr "Šią savybę finansavo `Faunalia <https://www.faunalia.eu>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:481
+msgid ""
+"This feature was developed by `Matteo Ghetta (Faunalia) "
+"<https://www.faunalia.eu>`__"
+msgstr ""
+"Šią savybę sukūrė `Matteo Ghetta (Faunalia) <https://www.faunalia.eu>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:484
+msgid "Feature: New 'Raster pixels to polygons' algorithm"
+msgstr "Savybė: naujas algoritmas „Rastro taškai į poligonus“"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:486
+msgid ""
+"This algorithm converts a raster layer into a vector layer, with a polygon "
+"feature corresponding to each pixel from the raster and a single field "
+"containing the band value from the raster."
+msgstr ""
+"Šis algoritmas konvertuoja rastro sluoksnį į vektorinį, kur kiekvieną rastro"
+" sluoksnio pikselį atitinka poligono geoobjektas su vienu lauku, kuriame yra"
+" rastro juostos reikšmė."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:493
+msgid "Feature: K Means clustering algorithm"
+msgstr "Savybė: K Means spiečiaus algoritmas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:495
+msgid ""
+"QGIS 3.4 adds a native \"k-means clustering\" algorithm. Based on a port of "
+"PostGIS' ST\\_ClusterKMeans function, this algorithm adds a new cluster ID "
+"field to a set of input features which identifies the feature's cluster "
+"based on a k-means clustering approach. If non-point geometries are used as "
+"input, the clustering is based off the centroid of the input geometries."
+msgstr ""
+"QGIS 3.4 pridėtas savas „k-means spiečiaus“ algoritmas. Paremtas PostGIS "
+"ST\\_ClusterKMeans funkcija, šis algoritmas į įvesties geoobjektų aibę "
+"prideda spiečiaus ID lauką, rodanti geoobjekto spiečių pagal k-means "
+"spiečiaus skaičiavimą. Jei įvesčiai naudojamos netaškinės geometrijos, "
+"spiečiaus skaičiavimas remiasi įvesties geometrijų centroidais."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:502
+msgid "Feature: dbscan spatial clustering algorithm"
+msgstr "Savybė: dbscan erdvinis spiečiaus algoritmas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:504
+msgid ""
+"This new native algorithm implements an optimised DBSCAN density based "
+"scanning cluster approach for clustering 2d point features."
+msgstr ""
+"Šis naujas savas algoritmas įgyvendina optimizuotą DBSCAN tankumu paremtą "
+"spiečiaus skenavimą kuriant 2d taškinių geoobjektų spiečius."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:511
+msgid "Feature: Improved algorithms"
+msgstr "Savybė: patobulinti algoritmai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:513
+msgid ""
+"Some miscellaneous improvements to existing Processing algorithms include:"
+msgstr "Įvairūs esamų Apdorojimo algoritmų patobulinimai, įskaitant:"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:515
+msgid ""
+"The *Reverse line direction* algorithm now works with MultiLineString "
+"geometry inputs"
+msgstr ""
+"Algoritmas „Apsukti linijos kryptį“ dabar veikia su MultiLineString "
+"geometrijos įvestimis"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:516
+msgid ""
+"*Extend lines*: support for dynamic (data defined) start and end distances "
+"was added"
+msgstr ""
+"„Pratęsti linijas“: palaiko dinaminį (nuo duomenų priklausantį) pradžios ir "
+"pabaigos atstumą"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:517
+msgid "*Offset lines*: support for dynamic offset distance was added"
+msgstr "„Linijų poslinkis“: palaiko dinaminį poslinkio atstumą"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:518
+msgid ""
+"The *Join by Field Value* and *Join by Location* algorithms can now "
+"optionally export unmatched records"
+msgstr ""
+"Algoritmai *Sujungti pagal lauko reikšmę* ir *Sujungti pagal vietą* dabar "
+"gali pasirinktinai eksportuoti neatitikusius įrašus"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:519
+msgid ""
+"*Join by Field Value* also reports counts of matched/unmatched features"
+msgstr ""
+"*Sujungti pagal lauko reikšmes* dabar praneša apie sutapusių/nesutapusių "
+"geobjektų skaičių"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:526
+msgid "Feature: Filter Vertices by M and Filter Vertices by Z algorithms"
+msgstr ""
+"Savybė: viršūnių filtravimo pagal M ir viršūnių filtravimo pagal Z "
+"algoritmai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:528
+msgid ""
+"Two new algorithms were added for filtering line/polygon vertices by their M"
+" or Z values. A minimum and maximum M/Z value can be entered, and if the "
+"vertices fall outside these ranges they will be discarded from the output "
+"geometry. Both the minimum and maximum filter values can also be data "
+"defined, so can vary per feature."
+msgstr ""
+"Pridėti du nauji algoritmai, linijų/poligonų viršūnių filtravimui pagal jų M"
+" arba Z reikšmes. Gali būti įvestos minimalios ir maksimalios M/Z reikšmės "
+"ir, jei viršūnė nepatenka į nurodytą intervalą, ji bus išmesta iš išvesties "
+"geometrijos. Tiek minimalios, tiek maksimalios reikšmės filtrai gali "
+"priklausyti nuo duomenų, taigi gali būti skirtingi skirtingiems "
+"geoobjektams."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:535
+msgid "Feature: \"Array of Translated Features\" algorithm"
+msgstr "Savybė: algoritmas „Pakeistų geoobjektų masyvas“"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:537
+msgid ""
+"This new algorithm creates copies of features in a layer, by creating "
+"multiple translated (offset) versions of the feature. Each copy is displaced"
+" by a preset amount in the x/y/z/m axis."
+msgstr ""
+"Šis naujas algoritmas sukuria sluoksnio geoobjektų kopijas, kuriant kelias "
+"pakeistas (pastumtas) geoobjektų versijas. Kiekviena kopija pastumta iš "
+"anksto nurodytu atstumu x/y/z/m ašyse."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:544
+msgid "Feature: \"Array of offset (parallel) lines\" algorithm"
+msgstr "Savybė: „Pastumtų (paralelių) linijų masyvo“ algoritmas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:546
+msgid ""
+"This new algorithm creates copies of line features in a layer, by creating "
+"multiple parallel versions of each feature. Each copy is offset by a preset "
+"distance."
+msgstr ""
+"Šis naujas algoritmas sukuria sluoksnio linijų geoobjektų kopijas, kuriant "
+"kiekvieno geoobjekto paralelias versijas. Kiekviena kopija pastumta nurodytu"
+" atstumu."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:553
+msgid "Feature: Choice of units for non degree/unknown distances"
+msgstr "Savybė: vienetų pasirinkimas ne laipsnių/nežinomiems atstumams"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:555
+msgid ""
+"When an algorithm has a distance parameter in meters/feet/etc (i.e. non-"
+"geographic distances), a combo box has been added allowing choice of the "
+"unit type."
+msgstr ""
+"Kai algoritmas turi atstumo parametrą metrais/pėdomis/kt (pvz. ne-"
+"geografinius atstumus), pridedamas iškrentantis sąrašas su vienetų tipo "
+"pasirinkimu."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:557
+msgid ""
+"(QGIS doesn't (and should **never**) expose this for distances in degrees --"
+" it's up to users in this situation to choose a suitable local projection "
+"and reproject their data to match.)"
+msgstr ""
+"(QGIS neleidžia (ir **niekada** neturėtų) šito atstumui laipsniais - tai "
+"naudotojo reikalas parinkti tinkamą vietinę projekciją ir perprojektuoti "
+"duomenis)"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:564
+msgid "Feature: \"Drape features to z/m\" algorithms"
+msgstr "Savybė: algoritmas „Drapiruoti geoobjektus prie z/m“"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:566
+msgid ""
+"These two new algorithms can set geometry vertex z or m values to values "
+"sampled from a raster band. Values can optionally be scaled using a (data "
+"definable) scale value."
+msgstr ""
+"Šie du nauji algoritmai gali nustatyti geometrijos viršūnių z arba m "
+"reikšmes pagal rastro juostą. Pasirinktinai galima keisti reikšmių mastelį "
+"pagal (nuo duomenų priklausančią) mastelio keitimo reikšmę."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:573
+msgid "Feature: \"Raster pixels to points\" algorithm"
+msgstr "Savybė: „Rastro pikselių į taškus“ algoritmas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:575
+msgid ""
+"A new \"pixels to points\" algorithm was added in QGIS 3.4, which creates a "
+"point feature at the center of every pixel. nodata pixels are skipped."
+msgstr ""
+"QGIS 3.4 pridėtas naujas „pikseliai į taškus“ algoritmas, kuriantis taško "
+"geometriją kiekvieno pikselio viduryje, pikseliai be duomenų praleidžiami."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:582
+msgid "Feature: Line substring algorithm"
+msgstr "Savybė: linijos dalies algoritmas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:584
+msgid ""
+"This new, much-requested, algorithm returns the portion of a line (or curve)"
+" which falls between the specified start and end distances (measured from "
+"the beginning of the line). Z and M values are linearly interpolated from "
+"existing values."
+msgstr ""
+"Naujas, labai prašytas algoritmas, grąžina linijos (ar kreivės) dalį, "
+"patenkančią tarp nurodytų pradžios ir pabaigos atstumų (skaičiuojamų nuo "
+"linijos pradžios). Z ir M reikšmės tiesiškai interpoliuojamos iš esamų "
+"reikšmių."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:591
+msgid "Feature: \"Interpolate point on line\" algorithm"
+msgstr "Savybė: „Taško interpoliavimo ant linijos“ algoritmas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:593
+msgid ""
+"This new algorithm creates a point geometry interpolated at a set distance "
+"along line (or polygon boundary) geometries. Curved input geometries are "
+"fully supported. Z or M values are linearly interpolated based on existing "
+"values."
+msgstr ""
+"Šis naujas algoritmas sukuria taško geometriją, interpoliuotą kaip atstumą "
+"palei linijos (ar poligono ribos) geometriją. Pilnai palaikomos kreivinės "
+"įvesties geometrijos. Z ar M reikšmės tiesiškai interpoliuojamas pagal "
+"esamas reikšmes."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:600
+msgid "Feature: k-neighbour concave hull"
+msgstr "Savybė: k-kaimyno apgaubiantis korpusas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:602
+msgid "This feature was funded by https://qgis.org"
+msgstr "Šią savybę finansavo https://qgis.org"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:604
+msgid ""
+"This feature was developed by `Detlev Neumann, Rudi von Staden "
+"<https://qgis.org>`__"
+msgstr ""
+"Šią savybę sukūrė `Detlev Neumann, Rudi von Staden <https://qgis.org>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:607
+msgid ""
+"Feature: Python scripts which implement algorithms now execute the algorithm"
+" on drag and drop and browser double click"
+msgstr ""
+"Savybė: pythono skriptai, kurie įgyvendina algoritmus, dabar vykdo "
+"algoritmus nutempus ir paleidus bei naršyklėje du kartus paspaudus pele."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:609
+msgid ""
+"When appropriate, scripts will now launch a processing algorithm dialog "
+"upon:"
+msgstr ""
+"Kai įmanoma, scenarijus dabar paleis apdorojimo algoritmo dialogą kai:"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:611
+msgid "Dragging and dropping a Python script onto the main window"
+msgstr "Nutempus ir numetus Pythono scenarijų į pagrindinį langą"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:612
+msgid "Using the browser panel's right-click run script action"
+msgstr ""
+"Naršyklės skydelyje paspaudus dešinį mygtuką ant scenarijaus paleidimo "
+"veiksmo"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:614
+msgid "|image25|"
+msgstr "|image25|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:621
+msgid "Feature: New GDAL's rearrange band algorithm"
+msgstr "Savybė: naujas GDAL juostų perrikiavimo algoritmas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:623
+msgid ""
+"A new GDAL provider 'Rearrange band' algorithm was added to the processing "
+"toolbox. The algorithm allows to output rasters continuing a subset of a "
+"given input raster's bands, and offers the possibility to re-order the "
+"bands."
+msgstr ""
+"Į apdorojimo įrankinę buvo pridėtas naujas GDAL tiekėjo „Juostų "
+"perrikiavimo“ algoritmas. Algoritmas grąžina rastrus, kuriuose tęsiamas "
+"pateikto įvesties rastro juostų poaibis, juostas galima perrikiuoti."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:625
+msgid "|image26|"
+msgstr "|image26|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:627
+msgid ""
+"This feature was funded by `iMHere Asia <https://www.imhere-asia.com/>`__"
+msgstr "Šią savybę finansavo `iMHere Asia <https://www.imhere-asia.com/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:632
+msgid "Feature: \"Precalculated\" values for model algorithm parameters"
+msgstr "Savybė: „Išankstinės“ modelių algoritmų parametrų reikšmės"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:634
+msgid ""
+"A new option is present for all parameters of using a \"precalculated "
+"expression\". This expression is evaluated once before the child algorithm "
+"is executed and used during the execution of that algorithm."
+msgstr ""
+"Parametrams, naudojantiems „iš anksto paskaičiuotas išraiškas“, pridėta "
+"nauja parinktis. Ši išraiška įvertinama vieną kartą prieš vykdant vaikinį "
+"algoritmą ir naudojama to algoritmo vykdymo metu."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:636
+msgid "This feature was funded by `QGIS <https://qgis.org>`__"
+msgstr "Šią savybę finansavo `QGIS <https://qgis.org>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:641
+msgid "Feature: \"Categorize a layer using a style XML file\" algorithm"
+msgstr ""
+"Savybė: „Sluoksnio kategorizavimo naudojant XML stiliaus failą“ algoritmas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:643
+msgid ""
+"This new algorithm sets a vector layer's renderer to a categorized renderer "
+"using matching symbols from a style database."
+msgstr ""
+"Šis naujas algoritmas nustato vektorinio sluoksnio braižymą į kategorizuotą,"
+" naudojantį atitinkamus simbolius iš stilių duomenų bazės."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:645
+msgid ""
+"A specified expression (or field name) is used to create categories for the "
+"renderer, with QGIS creating a category for each unique value within the "
+"layer. Each category is individually matched to the symbols which exist "
+"within the specified QGIS XML style database. Whenever a matching symbol "
+"name is found, the category's symbol will be set to this matched symbol."
+msgstr ""
+"Nurodyta išraiška (ar lauko pavadinimas) naudojama kuriant braižymo "
+"kategorijas, QGIS sukuria kategoriją kiekvienai unikaliai sluoksnio "
+"reikšmei. Kiekviena kategorija individualiai tapatinama su nurodytame QGIS "
+"XML stiliaus duombazėje esančiais simboliais. Kai randamas atitinkantis "
+"simbolio pavadinimas, šis atitinkantis simbolis bus nustatytas kategorijos "
+"simboliu."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:647
+msgid ""
+"The matching is case-insensitive by default, but can be made case-sensitive "
+"if required. Optionally, non-alphanumeric characters in both the category "
+"value and symbol name can be ignored while performing the match. This allows"
+" for greater tolerance when matching categories to symbols."
+msgstr ""
+"Pagal nutylėjimą lyginimas kreipia dėmesį ir į raidžių dydį, bet tai gali "
+"būti išjungta, jei nereikia. Pasirinktinai ne raidžių simboliai ir "
+"kategorijos reikšmėje, ir simbolio pavadinime gali būti ignoruojami lyginimo"
+" metu. Taip gaunama didesnė tolerancija lyginimo metu."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:649
+msgid ""
+"If desired, tables can also be output containing lists of the categories "
+"which could not be matched to symbols, and symbols which were not matched to"
+" categories."
+msgstr ""
+"Jei reikia, gali būti išvestos lentelės su kategorijomis, kurioms nebuvo "
+"rasti atitinkantys simboliai ir simboliai, kuriems nebuvo rasta atitinkančių"
+" kategorijų."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:651
+msgid "|image27|"
+msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:658
+msgid "Feature: New mode for Snap geometries algorithm"
+msgstr "Savybė: naujas geometrijų pritraukimo algoritmas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:660
+msgid ""
+"The new mode \"Snap to anchor nodes (single layer only)\" makes sure that "
+"any two vertices of the vector layer are at least at distance given by the "
+"threshold value."
+msgstr ""
+"Naujas režimas „Pritraukti prie inkarinių taškų (tik vieno sluoksnio)“ "
+"leidžia užtikrinti, kad bet kurios dvi vektorinio sluoksnio viršūnės yra "
+"bent jau nurodytu ribiniu atstumu viena nuo kitos."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:662
+msgid ""
+"This algorithm comes handy when doing vector overlay operations such as "
+"intersection, union or difference to prevent possible topological errors "
+"caused by numerical errors if coordinates are very close to each other. "
+"After running the algorithm some previously valid geometries may become "
+"invalid and therefore it may be useful to run Fix geometries algorithm "
+"afterwards."
+msgstr ""
+"Šis algoritmas naudingas darant vektorių perdengimo veiksmus, tokius kaip "
+"susikirtimą, sąjungą ar skirtumą, norint išvengti galimų topologijos klaidų,"
+" sukeltų skaitmeninių klaidų, kai taškai yra labai arti vienas kito. Po šio "
+"algoritmo vykdymo kai kurios anksčiau tinkamos geoemtrijos gali tapti "
+"netinkamomis, todėl gali būti naudinga po to paleisti geometrijų taisymo "
+"algoritmą."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:664
+msgid "This feature was funded by `InaSAFE DFAT <https://www.dfat.gov.au/>`__"
+msgstr "Šią savybę finansavo `InaSAFE DFAT <https://www.dfat.gov.au/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:666
+#: ../../source/site/forusers/visualchangelog34/index.rst:1037
+#: ../../source/site/forusers/visualchangelog34/index.rst:1069
+#: ../../source/site/forusers/visualchangelog34/index.rst:1089
+msgid ""
+"This feature was developed by `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/>`__"
+msgstr ""
+"Šią savybę sukūrė `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:669
+msgid "Data Providers"
+msgstr "Duomenų tiekėjai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:672
+msgid "Feature: OAuth2 authentication method plugin"
+msgstr "Savybė: OAuth2 autentikacijos metodo priedas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:674
+msgid "Supports authentication code, implicit and resource owner grant flows"
+msgstr ""
+"Palaiko autentikacijos kodą, konkrečias ir resursų savininkų teisių "
+"suteikimo eigas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:675
+msgid "Allows for preconfigured connections, read from default locations"
+msgstr ""
+"Leidžia iš anksto sukonfigūruotas jungtis, skaitomas iš numatytų vietų"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:676
+msgid "Offers caching of access token beyond QGIS restarts"
+msgstr "Leidžia prieigos žetonų laikymą podėlyje tarp QGIS paleidimų"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:677
+msgid "Save/load configurations"
+msgstr "Įrašyti/įkelti konfigūracijas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:679
+msgid ""
+"This feature was funded by `Monsanto Company <https://monsanto.com/>`__"
+msgstr "Šią savybę finansavo `Monsanto Company <https://monsanto.com/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:681
+msgid ""
+"This feature was developed by `Larry Shaffer, Alessandro Pasotti "
+"<https://qgis.org>`__"
+msgstr ""
+"Šią savybę sukūrė `Larry Shaffer, Alessandro Pasotti <https://qgis.org>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:684
+msgid "Feature: Mesh layer: New mesh layer format support"
+msgstr ""
+"Savybė: tinklelių sluoksnis: naujo tinklelių sluoksnio formato palaikymas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:686
+msgid ""
+"Mesh layers represent data on variable size grid with extra components (e.g."
+" time and vector). With introduction of MDAL, users can load the following "
+"formats directly in QGIS and explore all other components:"
+msgstr ""
+"Tinklelio sluoksnis vaizduoja duomenis kintamo dydžio tinklelyje su "
+"papildomais komponentais (pvz. laiku ir vektoriumi). Pridėjus MDAL, "
+"naudotojai dabar gali įkelti šiuos formatus tiesiai į QGIS ir tyrinėti visus"
+" kitus komponentus:"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:688
+msgid "GRIB"
+msgstr "GRIB"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:689
+msgid "XMDF"
+msgstr "XMDF"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:690
+msgid "Netcdf"
+msgstr "Netcdf"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:692
+msgid "|image29|"
+msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:694
+msgid ""
+"This feature was funded by `Lutra Consulting "
+"<https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
+msgstr ""
+"Šią savybę finansavo `Lutra Consulting "
+"<https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:699
+msgid "Feature: Mesh layer: add function to identify value on mesh layers"
+msgstr ""
+"Savybė: tinklelio sluoksnis: pridėtas reikšmės identifikavimo funkcionalumas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:701
+msgid ""
+"With this API, developers can inspect mesh elements and fetch values "
+"spatially and temporally. As an example, you can create time series plot "
+"from your mesh layer."
+msgstr ""
+"Su šiuo API, programuotojai gali tikrinti tinklo elementus ir ištraukti "
+"reikšmes erdvėje ir laike. Pavyzdžiui dabar iš tinklelio sluoksnio galite "
+"sukurti laiko diagramą."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:703
+msgid "|image30|"
+msgstr "|image30|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:710
+msgid ""
+"Feature: Mesh layer: allow to choose different vector and scalar dataset"
+msgstr ""
+"Savybė: tinklelio sluoksnis: galimybė pasirinkti kitą vektorių ir skaliarų "
+"duomenų rinkinį"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:712
+msgid ""
+"A mesh layer often contains several quantities. For example a netcdf/grib "
+"can contain several meteorological quantities. Each quantity can also have "
+"multiple components. For example, wind data can contain speed (scalar) and "
+"values (grid). With this option, you can overlay scalar and grids from "
+"different quantities. In the image below, you can see temperature (grid) and"
+" wind (scalar)."
+msgstr ""
+"Tinklo sluoksnyje dažnai yra keli matmenis. Pavyzdžiui netcdf/grib gali "
+"turėti kelis meteorologinius matmenis. Kiekvienas matmuo gali turėti kelis "
+"komponentus. Pavyzdžiui vėjo duomenyse gali būti greitis (skaliaras) ir "
+"reikšmės (tinklas). Su šia parinktimi jūs galite perdengti skalarus ir "
+"tinklus iš skirtingų matmenų. Paveiksle žemiau matote temperatūrą "
+"(tinklelis) ir vėją (skaliaras)."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:714
+msgid "|image31|"
+msgstr "|image31|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:721
+msgid ""
+"Feature: Mesh layer: allow render vectors/arrows on the user-defined grid"
+msgstr ""
+"Savybė: tinklo sluoksnis: galimybė braižyti vektorius/rodykles ant naudotojo"
+" nustatyto tinklelio"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:723
+msgid ""
+"Scalar data are generated usually at the centre/corner of each mesh element."
+" When displaying the scalar data, the arrows might look sparse and often not"
+" possible to see the general trend. With this option, arrows can be "
+"displayed on a user-defined grid. Extra scalar values will be interpolated "
+"on-the-fly and placed on the user-defined grid."
+msgstr ""
+"Skaliariniai duomenys paprastai generuojami kiekvieno tinklo elemento "
+"viduryje/kampe. Rodant skaliarinius duomenis rodyklės gali atrodyti "
+"išmėtytos ir dažnai nepastebima bendra tendencija. Su šia parinktimi "
+"rodykles galima rodyti ant naudotojo nurodyto tinklelio. Papildomos "
+"skaliarinės reikšmės bus dinamiškai interpoliuotos ir padėtos ant naudotojo "
+"sukurto tinklelio."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:725
+msgid "|image32|"
+msgstr "|image32|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:732
+msgid "Feature: JSON/JSONB Type support"
+msgstr "Savybė: JSON/JSONB tipų palaikymas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:734
+msgid ""
+"The reading of PostgreSQL JSON types is supported. JSON Data can be "
+"displayed in the widgets as \"Key/Value\" (maps), as \"List\" (arrays) or as"
+" text."
+msgstr ""
+"Palaikomas PostgreSQL JSON tipo skaitymas. JSON duomenys gali būti rodomi "
+"valdikliuose kaip „Raktas/Reikšmė“ (žemėlapis) arba „Sąrašas“ (masyvas) arba"
+" kaip tekstas."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:736
+msgid "|image33|"
+msgstr "|image33|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:740
+#: ../../source/site/forusers/visualchangelog34/index.rst:952
+msgid ""
+"This feature was developed by `David Signer (OPENGIS.ch) "
+"<https://www.opengis.ch>`__"
+msgstr ""
+"Šią savybę sukūrė `David Signer (OPENGIS.ch) <https://www.opengis.ch>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:743
+msgid "Feature: ESRI Token Authentication support"
+msgstr "Savybė: ESRI žetonų autentikavimo palaikymas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:745
+msgid ""
+"Support has been added to QGIS' Authentication system for ESRI's temporary "
+"token based authentication. This allows for connection to ArcGIS Feature and"
+" Map Servers via an allocated temporary token."
+msgstr ""
+"Į QGIS pridėta ESRI laikinais žetonais paremta autentikacijos sistema. Tai "
+"leidžia jungtis prie ArcGIS Feature ir Map serverių per priskirtą laikiną "
+"žetoną."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:750
+msgid "Feature: SQL Server - Invalid geometry handling"
+msgstr "Savybė: SQL Serveris - netinkamų geometrijų apdorojimas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:752
+msgid ""
+"Recent versions of QGIS have switched to a safer approach to reading SQL "
+"Server layers, which automatically checks for geometry validity and repairs "
+"geometries when needed. This workaround is required to avoid issues with the"
+" design of SQL Server's geometry handling, where encountering any rows with "
+"invalid geometries can silently abort a request without returning all the "
+"features from a layer. Unfortunately, the workaround comes at a significant "
+"performance cost."
+msgstr ""
+"Ankstesnėse QGIS versijose buvo persijungta į saugesnį būdą skaityti SQL "
+"Serverio sluoksnius, kur automatiškai tikrinamas geometrijos tinkamumas ir "
+"prireikus geometrijos pataisomos. Šiam apėjimui prireikė vengti problemų su "
+"SQL Serverio geometrijos valdymo dizainu, kur radus nors vieną eilutę su "
+"netinkama geometrija buvo tyliai nutraukiama užklausa negrąžinant visų "
+"sluoksnio geoobjektų. Deja, apėjimas stipriai mažina greitaveiką."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:754
+msgid ""
+"In QGIS 3.4 a new setting was added to allow users to manually turn off "
+"QGIS' SQL Server invalid geometry handling. Turning on the \"Skip invalid "
+"geometry handling\" setting under a SQL Server connection's properties "
+"causes QGIS to skip all the expensive geometry validation processing, but "
+"firmly places the responsibility for ensuring that all features on the "
+"database have valid geometries back upon the user/database administrator. "
+"**This is a \"use at your own risk\" setting. Improperly enabling this "
+"option can lead to missing features and data loss.**"
+msgstr ""
+"QGIS 3.4 pridėtas naujas nustatymas, leidžiantis naudotojams automatiškai "
+"išjungti QGIS SQL Serverio netinkamų geometrijų tvarkymą. Įjungus „Praleisti"
+" netinkamų geometrijų apdorojimą“ SQL Serverio jungties nustatymuose, QGIS "
+"nebevykdys brangaus geometrijos tikrinimo, o visą atsakomybę užtikrinant, "
+"kad geometrijos yra tinkamos, atiduos naudotojui/duombazės administratoriui."
+" **Tai yra „naudokite atsakingai“ nustatymas. Netinkamai įjungus šią "
+"parinktį galite pritrūkti geoobjektų ar prarasti duomenis.**"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:759
+msgid "QGIS Server"
+msgstr "QGIS Serveris"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:762
+msgid "Feature: Server Cache can be manage by plugins"
+msgstr "Savybė: priedai gali valdyti serverio podėlį"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:764
+msgid ""
+"By default, QGIS Server only caches WMS GetCapabilities document in memory. "
+"With WMTS implementation, it is necessary to have a way to cache tiles. But "
+"the cache manager has not been developed to only cache tiles."
+msgstr ""
+"Pagal nutylėjimą QGIS į atminties podėlį įrašo tik WMS GetCapabilities "
+"dokumentą. Pridėjus WMTS, reikia, kad būtų galima į podėlį dėti jo "
+"kaladėles. Bet podėlio tvarkytojas nebuvo sukurtas saugoti kaladėles."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:766
+msgid "The cache manager plugin can be used to cache:"
+msgstr "Podėlio tvarkymo priedas gali būti naudojamas, norint į podėlį dėti:"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:768
+msgid "WMS, WFS, WCS, WMTS GetCapabilities documents"
+msgstr "WMS, WFS, WCS, WMTS GetCapabilities dokumentus"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:769
+msgid "WFS DescribeFeatureType documents"
+msgstr "WFS DescribeFeatureType dokumentus"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:770
+msgid "WCS DescribeCoverage documents"
+msgstr "WCS DescribeCoverage dokumentus"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:771
+msgid "WMTS GetTile images"
+msgstr "WMTS GetTile nuotraukas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:772
+msgid "WMS GetLegendGraphic images"
+msgstr "WMS GetLegendGraphic nuotraukas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:774
+msgid ""
+"Here is a python cache manager class, which do not verify if the QGIS "
+"project has changed:"
+msgstr ""
+"Tai yra pythono podėlio tvarkymo klasė, kuri netikrina, ar QGIS projektas "
+"pasikeitė:"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:886
+msgid "And the way to add it to the QGIS Server cache manager."
+msgstr "Ir būdas, kaip pridėti jį į QGIS Serverio podėlio tvarkyklę."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:888
+msgid ""
+"``servercache = PyServerCache(server_iface) "
+"server_iface.registerServerCache(servercache, 100)``"
+msgstr ""
+"``servercache = PyServerCache(server_iface) "
+"server_iface.registerServerCache(servercache, 100)``"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:890
+#: ../../source/site/forusers/visualchangelog34/index.rst:910
+msgid "This feature was funded by `Ifremer <https://wwz.ifremer.fr/>`__"
+msgstr "Šią savybę finansavo `Ifremer <https://wwz.ifremer.fr/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:892
+#: ../../source/site/forusers/visualchangelog34/index.rst:912
+msgid "This feature was developed by `3Liz <https://3liz.com>`__"
+msgstr "Šią savybę sukūrė `3Liz <https://3liz.com>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:895
+msgid "Feature: WMTS 1.0.0 support"
+msgstr "Savybė: WMTS 1.0.0 palaikymas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:897
+msgid "QGIS Server 3.4 supports WMTS 1.0.0 OGC standard."
+msgstr "QGIS Serveris 3.4 palaiko WMTS 1.0.0 OGC standartą."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:899
+msgid "In QGIS project properties, the user can define:"
+msgstr "QGIS projekto savybėse naudotojas gali nurodyti:"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:901
+msgid ""
+"which part of the project (all the project, layer groups or layers) has to "
+"be published through WMTS standard"
+msgstr ""
+"kuri projekto dalis (visas projektas, sluoksnių grupės ar sluoksniai) turi "
+"būti publikuojama WMTS standartu"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:902
+msgid "the min scale of the tiles"
+msgstr "minimalus kaladėlių mastelis"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:904
+msgid "QGIS Server reuse the CRS defined in the WMS for WMTS."
+msgstr "QGIS Serveris WMTS tiekimui perpanaudoja CRS, nurodytą WMS."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:906
+msgid ""
+"To manage the tile cache, a QGIS Server plugin with a QgsServerCacheFilter "
+"class has to be installed and loaded by QGIS Server."
+msgstr ""
+"Norint valdyti kaladėlių podėlį, buvo pridėtas ir įkeltas į QGIS Serverį "
+"priedas su QgsServerCacheFilter klase."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:908
+msgid "|image34|"
+msgstr "|image34|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:915
+msgid "Feature: Add ability to define min. scale for WMTS"
+msgstr "Savybė: pridėta galimybė nurodyti WMTS minimalų mastelį"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:917
+msgid "This feature was funded by https://github.com/rldhont"
+msgstr "Šią savybę finansavo https://github.com/rldhont"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:919
+msgid "This feature was developed by https://github.com/rldhont"
+msgstr "Šią savybę sukūrė https://github.com/rldhont"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:922
+msgid "Feature: Support QGIS Server logs to stderr"
+msgstr "Savybė: QGIS Serverio žurnalo rašymo į stderr palaikymas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:924
+msgid ""
+"It's now possible to configure QGIS Server to make it write its logs to "
+"stderr. This is done by setting the QGIS\\_SERVER\\_LOG\\_FILE env var to "
+"the special value \"stderr\"."
+msgstr ""
+"Dabar galima QGIS Serverį sukonfigūruoti taip, kad klaidas jis rašytų į "
+"stderr. Tai daroma nustačius aplinkos kintamojo QGIS\\_SERVER\\_LOG\\_FILE "
+"reikšmę „stderr“."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:929
+msgid ""
+"This feature was developed by `Eric Lemoine <https://github.com/elemoine>`__"
+msgstr "Šią savybę sukūrė `Eric Lemoine <https://github.com/elemoine>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:932
+msgid "Plugins"
+msgstr "Priedai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:935
+msgid "Feature: Support for encrypted zips in the Plugin Manager"
+msgstr "Savybė: užkoduotų zip palaikymas priedų tvarkyklėje"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:937
+msgid ""
+"Plugin Manager is now able to install plugins from local zip files even if "
+"encrypted."
+msgstr ""
+"Priedų tvarkyklė dabar moka įdiegti priedus iš vietinio zip failo, kuris yra"
+" užkoduotas."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:939
+msgid "|image35|"
+msgstr "|image35|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:946
+msgid "Feature: Offline Editing GeoPackage"
+msgstr "Savybė: GeoPackage redagavimas neprisijungus"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:948
+msgid ""
+"With the offline editing functionality it is possible to select whether the "
+"export should create a SpatiaLite or a GeoPackage file for offline usage."
+msgstr ""
+"Su redagavimo neprisijungus funkcionalumu dabar galima pasirinkti, ar "
+"eksportas kuria SpatiaLite, ar GeoPackage failą darbui neprisijungus."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:950
+msgid ""
+"This feature was funded by `Oester Messtechnik <https://messtechnik.ch/>`__"
+msgstr "Šią savybę finansavo `Oester Messtechnik <https://messtechnik.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:955
+msgid "Programmability"
+msgstr "Programavimas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:958
+msgid "Feature: QgsSpatialIndexKDBush"
+msgstr "Savybė: QgsSpatialIndexKDBush"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:960
+msgid ""
+"A very fast static spatial index for 2D points based on a flat KD-tree, "
+"using https://github.com/mourner/kdbush.hpp"
+msgstr ""
+"Labai greitas statinis erdvinis indeksas 2D taškams, paremtas plokščiu KD-"
+"medžiu, naudojant https://github.com/mourner/kdbush.hpp"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:963
+msgid ""
+"Compared to QgsSpatialIndex, this index: - supports single point features "
+"only (no multipoints) - is static (features cannot be added or removed from "
+"the index after construction) - is much faster! - supports true \"distance "
+"based\" searches, i.e. return all points within a radius from a search point"
+msgstr ""
+"Lyginant su QgsSpatialIndex, šis indeksas: - palaiko tik vieno taško "
+"geometrijas (nėra multitaškų) - yra statinis (geometrijų negalima pridėti ar"
+" išimti iš indekso po jo sukūrimo) - yra daug greitesnis! - palaiko tikras "
+"„paremtas atstumu“ paieškas, pvz. grąžinti visus taškus, esančius arčiau už "
+"spindulį nuo paieškos taško."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:975
+msgid ""
+"Feature: QgsRasterDataProvider::sample method for efficient sampling of "
+"rasters at a given point"
+msgstr ""
+"Savybė: metodas QgsRasterDataProvider::sample efektyviam rastro atrinkimui "
+"konkrečiame taške"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:977
+msgid ""
+"This is an alternative to the ``QgsRasterDataProvider::identify`` method, "
+"which is less efficient but more powerful"
+msgstr ""
+"Tai metodo ``QgsRasterDataProvider::identify`` alternatyva, kuri mažiau "
+"efektyvi, bet galingesnė"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:985
+msgid "Feature: New geometry API call to return a curve substring"
+msgstr "Savybė: naujas geometrijos API kvietimas, grąžinantis kreivės dalį"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:987
+msgid ""
+"New PyQGIS API has been added to make it easy to retrieve a substring from a"
+" LineString/Curve geometry:"
+msgstr ""
+"Buvo pridėtas naujas PyQGIS API, leidžiantis paprastai gauti dalį "
+"LineString/Curve geometrijos:"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:989
+msgid ""
+"``QgsCurve::curveSubstring -  Returns a new curve representing a substring "
+"of a curve, from a start distance and end distance.``"
+msgstr ""
+"``QgsCurve::curveSubstring -  Grąžina naują kreivę, kuri yra dalis kreivės "
+"nuo pradžios iki pabaigos atstumo.``"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:991
+msgid ""
+"If z or m values are present, the output z and m will be interpolated using "
+"the existing vertices' z or m values. The method also handles curved "
+"geometries without loss or segmentation."
+msgstr ""
+"Jei yra z arba m reikšmės, rezultato z ir m reikšmės bus interpoliuotos "
+"pagal esamas z ar m reikšmes. Metodas taipogi apdoroja kreivines geometrijas"
+" be praradimo ar segmentacijos."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:998
+msgid "Feature: sip Module API Changes"
+msgstr "Savybė: sip Modulių API pakeitimai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1000
+msgid ""
+"Due to upstream changes within the PyQt/sip library, the recommended way to "
+"import this module has changed in QGIS 3.4. For maximum portability, instead"
+" of directly calling: ``import sip`` plugins should instead use: ``from "
+"qgis.PyQt import sip`` Using this newer style import will ensure that the "
+"code works correct across all platforms and remains functional in future "
+"QGIS versions."
+msgstr ""
+"Dėl pakeitimų PyQt/sip bibliotekoje, QGIS 3.4 pasikeitė rekomenduojamas "
+"būdas importuoti modulius. Maksimaliam portabilumui, vietoje tiesioginio "
+"kvietimo ``import sip`` priedai turėtų naudoti: ``from qgis.PyQt import "
+"sip`` Naudojant šį naują stilių bus užtikrinta, kad importas veiks teisingai"
+" visose platformose bei veiks ir ateities QGIS versijose."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1007
+msgid "Feature: Python vector data providers"
+msgstr "Savybė: Python vektorinių duomenų tiekėjai"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1009
+msgid ""
+"Development of the API, a sample provider and tests allowing the creation of"
+" vector data provider in pure python."
+msgstr ""
+"Kuriamas API, pavyzdinis tiekėjas ir testai, leidžiantys kurti vektorinių "
+"duomenų tiekėją gryname python'e."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1011
+msgid "|image36|"
+msgstr "|image36|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1013
+msgid "This feature was funded by Good will"
+msgstr "Šią savybę finansavo Good will"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1015
+msgid "This feature was developed by Alessandro Pasotti"
+msgstr "Šią savybę sukūrė Alessandro Pasotti"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1018
+msgid "3D Features"
+msgstr "3D savybės"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1021
+msgid "Feature: Improved navigation"
+msgstr "Savybė: pagerinta navigacija"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1023
+msgid ""
+"This will update camera's view center as the camera moves around. Before the"
+" view center would be always at the zero elevation, which means that with "
+"terrain further away from zero elevation tilting and rotation of camera "
+"would feel weird due to the center point being far away."
+msgstr ""
+"Tai pakeičia kameros centrą kai kamera sukasi aplink. Anksčiau žiūrėjimo "
+"centras visada būdavo nuliniame aukštyje, o tai reikšdavo, kad esant "
+"paviršiui toliau už nulinį aukštį, sukimas ir pavertimas atrodydavo keistai,"
+" nes centro taškas būdavo toli."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1029
+msgid "Allow moving camera up/down using page up/down keys"
+msgstr ""
+"Galimybė judinti kamerą aukštyn/žemyn naudojant pageup/pagedown klavišus"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1031
+msgid "Move camera keeping the position with Ctrl + arrow keys / mouse"
+msgstr "Kameros judinimas paliekant poziciją su Ctrl + rodyklės / pelė"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1033
+msgid "|image37|"
+msgstr "|image37|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1040
+msgid "Feature: Animation"
+msgstr "Savybė: animacija"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1042
+msgid ""
+"You can create an animation based on a set of keyframes - camera positions "
+"at particular times. QGIS 3D then interpolates the camera "
+"positions/rotations in between the keyframes."
+msgstr ""
+"Galite kurti animaciją pagal kelis kadrus - kameros pozicijas konkrečiu "
+"laiku. QGIS 3D tada interpoliuoja kameros pozicijas/pasūkimus tarpiniuose "
+"kadruose."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1044
+msgid ""
+"To create the keyframes, first set the scene for your map, by rotating, "
+"zooming or moving the camera. Then assign a time to the frame. There are "
+"several methods for interpolations between keyframes."
+msgstr ""
+"Norėdami sukurti kadrus, pirma pakeiskite žemėlapio vaizdą pasukdami, "
+"pakeisdami mastelį ar pastumdami kamerą. Tada priskirkite kadrui laiką. Yra "
+"keli būdai itnerpoliuoti tarp kadrų."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1046
+msgid "|image38|"
+msgstr "|image38|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1050
+msgid ""
+"This feature was developed by `Martian Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/>`__"
+msgstr ""
+"Šią savybę sukūrė `Martian Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1053
+msgid "Feature: Simple rendering of 3D linestrings"
+msgstr "Savybė: paprastas 3D linijų braižymas"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1055
+msgid ""
+"This mode of 3D line rendering will use OpenGL line rendering instead of "
+"buffering lines into polygons and rendering them as meshes."
+msgstr ""
+"Šis 3D linijų braižymo režimas naudos OpenGL linijų braižymą vietoje linijų "
+"keitimo į buferius ir jų braižymo kaip tinklelio."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1058
+msgid ""
+"The advantage is that the 3D lines do not loose their Z coordinate which is "
+"the case currently with \"ordinary\" 3D rendering after buffering."
+msgstr ""
+"Pranašumas yra tas, kad 3D linijos nepraranda savo Z koordinatės, kas "
+"įvyksta šiuo metu naudojant „paprastą“ 3D braižymą."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1061
+msgid ""
+"The disadvantage is that the lines cannot be wide (supported in Qt3D only "
+"since 5.10, but even then their rendering won't have nice joins/caps) and "
+"only ambient color is used from the material."
+msgstr ""
+"Minusas yra tas, kad linijos negali būti plačios (palaikoma Qt3D tik nuo "
+"5.10, bet net tada jos nebraižomos gražiais sujungimais) ir medžiagai "
+"naudojama tik pasyvi spalva."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1065
+msgid "|image39|"
+msgstr "|image39|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1072
+msgid "Feature: Identification map tool for 3D views"
+msgstr "Savybė: žemėlapio identifikavimo įrankis 3D rodiniui"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1074
+msgid ""
+"A new Identify Tool was introduced to 3D map. Using this tool, you can "
+"inspect features from the 3D scene."
+msgstr ""
+"3D žemėlapyje pridėtas naujas identifikavimo įrankis. Šio įrankio pagalba "
+"galite tirti geoobjektus 3D scenoje."
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1076
+msgid "|image40|"
+msgstr "|image40|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1078
+msgid ""
+"This feature was funded by `Department of Environment, Land and "
+"Infrastructure Engineering (DIATI) <https://www.faunalia.eu/en/>`__"
+msgstr ""
+"Šią savybę finansavo `Department of Environment, Land and Infrastructure "
+"Engineering (DIATI) <https://www.faunalia.eu/en/>`__"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1083
+msgid "Feature: Experimental Python API"
+msgstr "Savybė: eksperimentinis Python'o API"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1085
+msgid ""
+"Some classes from QGIS 3D have been made available for Python developers. It"
+" is now possible to query or change 3D renderers of map layers and "
+"read/write properties of contained 3D symbols such as material colors. "
+"Please note that for now the API is considered as experimental, so it may "
+"change in future 3.x releases."
+msgstr ""
+"Kai kurios QGIS 3D klasės dabar prieinamos Python programuotojams. Dabar "
+"galima užklausti ar keisti žemėlapio sluoksnių 3D braižymus ir "
+"skaityti/rašyti 3D simbolių savybes, tokias kaip medžiagos spalvas. Prašome "
+"atkreipti dėmesį, kad dabar API yra laikoma eksperimentine, taigi gali "
+"pasikeisti ateinančiose 3.x laidose."
+
+#~ msgid ""
+#~ "This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia"
+#~ " <https://www.lutraconsulting.co.uk/>`__"
+#~ msgstr ""
+#~ "Šią savybę sukūrė `Martin Dobias (Lutra Consulting) ir Faunalia "
+#~ "<https://www.lutraconsulting.co.uk/>`__"
+
+#~ msgid ""
+#~ "QGIS is supported by donors and sponsors. A current list of donors who have "
+#~ "made financial contributions large and small to the project can be seen on "
+#~ "our :ref:`donors list <list_of_donors>`. If you would like to become an "
+#~ "official project sponsor, please visit :ref:`our sponsorship page <QGIS-"
+#~ "sponsoring>` for details. Sponsoring QGIS helps us to fund our six monthly "
+#~ "developer meetings, maintain project infrastructure and fund bug fixing "
+#~ "efforts. A complete list of current sponsors is provided below - our very "
+#~ "great thank you to all of our sponsors!"
+#~ msgstr ""
+#~ "QGIS palaiko rėmėjai. Dabartinių rėmėjų, daugiau ar mažiau prisidėjusių "
+#~ "finansiškai prie projekto, sąrašą rasite :ref:`rėmėjų sąraše "
+#~ "<list_of_donors>`. Jei norėtumėte tapti oficialiu projekto rėmėju, prašome "
+#~ "apsilankyti :ref:`mūsų rėmėjų puslapyje <QGIS-sponsoring>`, kur rasite "
+#~ "daugiau informacijos. QGIS parama leidžia mums finansuoti šešis mėnesinius "
+#~ "vystytojų susitikimus, palaikyti projekto infrastruktūrą ir finansuoti "
+#~ "klaidų taisymo pastangas. Pilną rėmėjų sąrašą rasite žemiau - mūsų pačios "
+#~ "didžiausios padėkos visiems mūsų rėmėjams!"
+
+#~ msgid ""
+#~ ":raw-html:`<div id=\"qgissponsorsatom\"> <!-- to be filled via javascript "
+#~ "loading of atom feed --> </div>`"
+#~ msgstr ""
+#~ ":raw-html:`<div id=\"qgissponsorsatom\"> <!-- to be filled via javascript "
+#~ "loading of atom feed --> </div>`"

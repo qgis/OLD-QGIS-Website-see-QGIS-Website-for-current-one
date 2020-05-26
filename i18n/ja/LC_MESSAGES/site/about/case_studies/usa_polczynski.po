@@ -1,0 +1,228 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# fairtommy <fairtommy@gmail.com>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"PO-Revision-Date: 2018-05-20 14:28+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2019\n"
+"Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:3
+msgid "Historical Gazetteer of the Crimea"
+msgstr "クリミアの歴史的地名索引"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:5
+msgid ""
+"Every day, Ottomanists around the world generate valuable materials as "
+"components of their scholarly research, but these materials may not be "
+"readily available to scholars with similar interests.  The purpose of the "
+"OpenOttoman (Amy Singer, OpenOttoman: A Collaborative Platform for Digital "
+"Scholarship, https://networks.hnet.org/node/11419/discussions/166360"
+"/openottoman-collaborative-platform-digital-scholarship, 2017) is to "
+"stimulate generation of such materials and provide open and convenient "
+"access to these materials. The OpenOttoman Portal (http:// "
+"www.openottoman.org) (OOP) is one vehicle for accessing these materials.  "
+"Materials made available through the OOP include databases, with a prime "
+"example being gazetteers of Ottoman world places.  Here, we describe the "
+"Historical Gazetteer of the Crimea (HGC), a prototype OOP gazetteer that "
+"includes populated places, districts, and provinces of Crimea in existence "
+"at the end of the Crimean Khanate."
+msgstr ""
+"毎日、世界中のオスマントルコ語は、学術研究の構成要素として貴重な資料を生み出しますが、これらの資料は、同様の利益を持つ学者には容易に入手できない可能性があります。"
+" OpenOttoman（Amy Singer、OpenOttoman：Digital "
+"Scholarshipのためのコラボレーティブプラットフォーム、https://networks.hnet.org/node/11419/discussions/166360"
+"/openottoman-collaborative-platform-digital-"
+"scholarship、2017）の目的は、そのような材料の生成を刺激し、これらの材料へのオープンで便利なアクセスを提供する。 "
+"OpenOttomanポータル（ http://www.openottoman.org ）（OOP）は、これらの資料にアクセスするための手段の1つです。"
+" "
+"OOPを介して入手できる資料には、オスマン帝国の世界遺産の地名辞典などがあります。ここでは、クリミア・ハン国の終わりに存在するクリミアの居住地、地方、および州を含む原型のOOPの地名辞典である、クリミアの歴史的地名索引（HGC）について説明します。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:7
+msgid ""
+"The primary source of data for the HGC databases is Jankowski’s dictionary "
+"of pre-Russian places in Crimea (Henryk Jankowski, Historical-Etymological "
+"Dictionary of Pre-Russian Habitation Names of the Crimea, Brill, Leiden, "
+"2006). This source contains a map showing the locations of 137 populated "
+"places, 99 of which have been associated with existing places contained in "
+"the GeoNames database.  These are the populated place entries in the HGC, "
+"with latitude and longitude for these entries being taken from the GeoNames "
+"database."
+msgstr ""
+"HGCデータベースの主なデータ源は、ヤンコウスキーのクリミア前ロシア語の辞書（ヘンリーク・ヤンコウスキー、ロシア語の紀元前にあるロシア語の居住名の辞書である、Brill、Leiden、2006）です。このソースには137個の居住地の位置を示す地図が含まれており、そのうち99個はGeoNamesデータベースに含まれる既存の場所に関連付けられています。これらは、HGC中の居住地のエントリであり、これらのエントリの緯度と経度はGeoNamesデータベースから取得されます。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:9
+msgid ""
+"Jankowski’s map also shows boundaries for six provinces and 43 districts.  "
+"HGC locations for these features are region centroids approximated using "
+"boundaries shown on Jankowski’s map.  The HGC contains entries for 14 of the"
+" 16 rivers shown on Jankowski’s map plus 61 additional rivers included to "
+"aid in locating populated places and district and province boundaries."
+msgstr ""
+"ヤンコウスキーの地図には、6つの州と43の地区の境界も示されています。これらの地物のHGCの位置は、ヤンコウスキーの地図上に示された境界を用いて近似された領域重心です。HGCには、ヤンコウスキーの地図に表示されている16の河川のうち14の河川に加えて、居住地や地区と州の境界の特定を助けるために追加された61の河川が含まれています。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:11
+msgid ""
+"Terrain elevation data (Shuttle Radar Topography Mission (SRTM) data, "
+"available at https://lta.cr.usgs.gov/SRTM1Arc) was incorporated into a base "
+"map of the region covered by Jankowski’s map.  District and province "
+"boundaries were approximated using Jankowski’s map plus terrain features "
+"such as rivers, ridge lines, and valleys where boundaries on Jankowski’ map "
+"were difficult to trace.  Gazetteer locations for rivers are river mouth "
+"latitude and longitude taken from the GeoNames database. Per Table 1, the "
+"HGC includes three separate sets of databases which can be accessed at "
+"http://epublications.marquette.edu/ottoman_crimea/.  This website also "
+"provides access to a project named HGC-QGIS-Project.qgs.  Opening the "
+"project in QGIS yields the result shown in Figure 1.  For the KML and shape "
+"file rivers databases, rivers were traced in QGIS using the Google Maps "
+"physical map."
+msgstr ""
+"地形標高データ（シャトルレーダー地形観測ミッション（SRTM）データ、https://lta.cr.usgs.gov/SRTM1Arcで入手可能）は、ヤンコウスキーの地図で覆われた地域のベースマップに組み込まれました。地方と州の境界は、ヤンコウスキーの地図と、ヤンコウスキーの地図上の境界線をなぞることが難しい河川、尾根線、谷などの地形の特徴を使って概算されました。地理学者の河川の位置は、GeoNamesデータベースから取得した河口の緯度と経度です。表1によると、HGCには、"
+" http://epublications.marquette.edu/ottoman_crimea/ "
+"でアクセスできる3つの別々のデータベースセットが含まれています。このウェブサイトは、HGC-QGIS-"
+"Project.qgsという名前のプロジェクトへのアクセスも提供します。 "
+"QGISでプロジェクトを開くと、図1のような結果が得られます。KMLファイルとシェイプファイルの河川データベースでは、Google "
+"Maps物理マップを使用してQGISで河川をなぞりました。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:19
+msgid "Table 1: Gazetteer databases"
+msgstr "表1：Gazetteerデータベース"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:22
+msgid ""
+"Opening the project in QGIS yields the result shown in Figure 1.  For the "
+"KML and shape file rivers databases, rivers were traced in QGIS using the "
+"Google Maps physical map."
+msgstr ""
+"QGISでプロジェクトを開くと、図1のような結果が得られます。KMLファイルとシェイプファイルの河川データベースでは、Google "
+"Maps物理マップを使用してQGISで河川をなぞりました。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:29
+msgid "Figure 1: HGC-QGIS-Project.qgs opened in QGIS."
+msgstr "図1：QGISで開かれたHGC-QGIS-Project.qgs。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:31
+msgid ""
+"Table 2 shows the HGC database fields.  Note the manner in which a unique ID"
+" is assigned to each place in the database.  Since each Jankowski place is "
+"associated with a place in the GeoNames database, and since each place in "
+"the GeoNames database has a unique ID given as a URL, the GeoNames URL for "
+"the place serves as a unique identifier for the HGC place."
+msgstr ""
+"表2に、HGCデータベースのフィールドを示します。一意のIDがデータベースの各場所に割り当てられる方法に注意してください。各Jankowski場所はGeoNamesデータベース内の場所に関連付けられているため、GeoNamesデータベースの各場所にはURLとして一意のIDが与えられているため、場所のGeoNames"
+" URLはHGC場所の一意の識別子として機能します。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:38
+msgid "Table 2: HGC database fields."
+msgstr "表2：HGCデータベースのフィールド"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:40
+msgid ""
+"Note that the ID can be opened in a web browser, thereby automatically "
+"displaying a GeoNames map with the populated place at its center, as shown "
+"in Figure 2."
+msgstr "IDはWebブラウザで開くことができるので、図2に示すように、居住地を中心にGeoNamesマップを自動的に表示できます。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:47
+msgid "Figure 2: Opening the URL ID for Qarağy in a web browser."
+msgstr "図2：WebブラウザでQarağyのURL IDを開く"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:49
+msgid ""
+"Per Table 2, the fields for the district, province, and river databases are "
+"the same as the fields for populated places except that the Page field is "
+"left blank, since districts, provinces, and rivers do not appear as entries "
+"in Jankowski’s dictionary.  Districts, provinces, and rivers are assigned "
+"URL IDs in the same way that they are assigned for populated places.  Thus, "
+"in Table 2 the Part of field for the populated place Qarağy is the GeoNames "
+"URL for Tarɣan, the district in which this place is located. The Code and "
+"Class fields use the nomenclature employed in the GeoNames database.  Per "
+"the example, the P code applies generally to populated places, and the PPLH "
+"class (sub-code) applies to historical populated places that no longer "
+"exists."
+msgstr ""
+"表2に示すように、地区、州、河川のデータベースのフィールドは、居住地に対するフィールドと同じですが、地区、州、河川はヤンコウスキーの辞書には表示されないため、Pageフィールドは空白のままです。地区、州、河川には、居住地に割り当てられるのと同じ方法でURL"
+" IDが割り当てられます。したがって、表2では、居住地Qarağyのフィールドの部分は、この場所が位置する地区TarɣanのGeoNames "
+"URLです。コードとクラスのフィールドは、GeoNamesデータベースで使用されている命名法を使用します。この例では、Pコードは一般に居住地に適用され、PPLHクラス（サブコード）は、もはや存在しなくなった歴史的居住地に適用されます。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:52
+msgid ""
+"The Confidence field reflects the confidence level of the data captured in a"
+" particular database entry.  Because all populated places in the HGC can be "
+"associated with existing places in the GeoNames database, they are assigned "
+"a confidence level of 1.  Rivers are also assigned a confidence level of 1, "
+"since they have been traced directly from Google Maps."
+msgstr ""
+"信頼性フィールドは、特定のデータベースエントリに取り込まれたデータの信頼レベルを反映します。HGC中のすべての居住地はGeoNamesデータベース内の既存の場所に関連付けることができるため、信頼水準1が割り当てられます。河川はGoogleマップから直接なぞったため、信頼水準1が割り当てられます。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:54
+msgid ""
+"While providing a useful gazetteer, a primary purpose of the HGC was to "
+"serve as a test bed and use case for how other Ottoman world gazetteers "
+"could be incorporated into the OOP.  Based on experience gained through this"
+" project, a new project has been initiated to geolocate approximately 3,000 "
+"populated places, rivers, river fords, rapids, islands, forests, mountains, "
+"and valleys found on a set of 17th century maps of Ukraine produced by "
+"Guillaume Le Vasseur, sieur de Beauplan.  This project directly supports one"
+" of the principal investigator’s research on the Polish-Lithuanian "
+"Commonwealth /Ottoman Empire frontier.  More generally, this work responds "
+"to the need for gazetteers of the Ottoman world as expressed by the "
+"OpenOttoman initiative (http://openottoman.org)."
+msgstr ""
+"有用な地名辞表を提供する一方で、HGCの主な目的は、他のオスマン帝国の世界地名辞典をどのようにOOPに組み込むことができるかというテストベッドとユースケースとしての役割を果たすことでした。このプロジェクトを通じて得られた経験に基づいて、Guillaume"
+" "
+"Leが製作したウクライナの17世紀の地図セットに載っている約3000の居住地、河川、河川、急流、島、森林、山脈、谷間を地質調査するプロジェクトが開始されましたVasseur、Beauplanの写真。このプロジェクトは、ポーランド"
+" - "
+"リトアニア連邦/オスマン帝国のフロンティアに関する主任研究者の研究の1つを直接サポートしています。より一般的には、この作品は、OpenOttomanイニシアチブ（"
+" http://openottoman.org ）で表現されているように、オスマン世界の地名辞典の必要性に対応しています。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:57
+msgid "Authors"
+msgstr "著者"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:59
+msgid "Figure 3: Michael and Mark Polczynski"
+msgstr "図 3: Michael and Mark Polczynski"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:66
+msgid "Michael and Mark Polczynski"
+msgstr "Michael and Mark Polczynski"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:68
+msgid ""
+"Michael Polczynski (Michael.Polczynski@georgetown.edu) lectures at "
+"Georgetown University, where his work focuses on early modern Ottoman and "
+"East/Central European history, frontier history, historical geography, "
+"diplomacy, and intellectual history.  Michael also studies Late Medieval "
+"Eurasian history and 19th century European Emigres in the Ottoman Empire and"
+" works extensively with historical GIS and manage several on-line academic "
+"communities."
+msgstr ""
+"ジョージタウン大学のマイケル・ポルツィンスキ（Michael.Polczynski@georgetown.edu）講演では、初期の近代オスマントルコ東ヨーロッパ歴史、フロンティア歴史、歴史地理、外交、知的歴史に焦点を当てています。"
+" "
+"マイケルはまた、オスマン帝国における中世後期ユーラシア人の歴史と19世紀ヨーロッパの移民を研究し、歴史的なGISを広範に扱い、いくつかのオンライン学術コミュニティを管理しています。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:70
+msgid ""
+"Mark Polczynski (mark.polczynski@marquette.edu) is retired from Marquette "
+"University’s College of Engineering, and currently provides technical "
+"assistance to the OpenOttoman (openottoman.org), a developing transnational "
+"digital collaborative for scholarship and public history focused on the "
+"Ottoman world."
+msgstr ""
+"マーク・ポルツィンスキ（ mark.polczynski@marquette.edu "
+"）はマーケット大学工学部から退職し、オスマン帝国の世界に焦点を当てた奨学金と一般公開のための国際的なデジタルコラボレーションであるOpenOttoman（openottoman.org）に技術支援を提供しています。"

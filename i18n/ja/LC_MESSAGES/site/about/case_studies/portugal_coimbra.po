@@ -1,0 +1,234 @@
+# 
+# Translators:
+# fairtommy <fairtommy@gmail.com>, 2018-2019
+# fairtommy <fairtommy@gmail.com>, 2017-2018
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-07 15:40+0200\n"
+"PO-Revision-Date: 2019-10-24 02:27+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:3
+msgid ""
+"Using open source tools for characterization of a landscape. The LecosS "
+"plugin"
+msgstr "景観の特徴付けのためにオープンソースツールを使用する。LecosSプラグイン"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:17
+msgid "Methods"
+msgstr "メソッド"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:19
+msgid ""
+"Landscape metrics was calculated using the Corine Land Cover (CLC) of the "
+"years 1990 and 2006. For this purpose it was necessary to transform the "
+"coverages in raster format with cell size  50x50 meters. We use r.to.raster "
+"tool the Grass Gis module that were present in processing toolbox and the "
+"CLC classification level used it´s the first.  After transform coverages we "
+"calculate the metrics  in Landscape Ecology plugin (LecoS) using the "
+"graphical modeler (Figure 2)."
+msgstr "景観評価指標が1990年と2006年のCORINE土地被覆（CLC）を用いて計算されました。この目的のためには、セルサイズ50×50メートルで、ラスター形式でカバレッジを変換する必要がありました。私たちは、処理ツールボックスに存在したGRASS GISモジュールのr.to.rasterツールと、第一使用されたCLC分類レベルを使用します。カバレッジを変換します後、私たちは、グラフィカルモデラーを使用して風景エコロジープラグイン（LecoS）で評価指標を計算します（図2）。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:26
+msgid "Landscape metrics calculated for diferent years (1990 and 2006)."
+msgstr "異なる年（1990年と2006年）で計算された景観評価指標"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:28
+msgid ""
+"We calculate land cover area, Landscape Proportion, edge density, Number of "
+"patches, Greatest patch area, Smallest patch area , Mean patch distance and "
+"the Effective mesh size (Table 1). Measures of diversity of the landscape "
+"were calculated the Shannon index, Uniformity and the Simpson index."
+msgstr "私たちは、土地被覆面積、風景割合、エッジ密度、パッチの数、最大パッチ面積、最小パッチ面積、平均パッチ距離および実効メッシュサイズを計算します（表1）。景観の多様性の測度は、シャノン指数、均一性とシンプソン指数を算出しました。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:31
+msgid "Results"
+msgstr "結果"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:33
+msgid ""
+"From analysis of the landscape metrics calculated it was found that there "
+"was an increase in the degree of human disturbance and therefore a greater "
+"fragmentation of uses between 1990 and 2006. The number of patches of "
+"“Forest Semi Natural areas” and “Agricultural areas” decreased between 1990 "
+"and 2006 (Table 1). This metric can give us some indication of ecological "
+"processes increasing or decreasing relationships between populations and "
+"habitats (Viana and Aranha, 2008). Also of note is the average distance "
+"between spots, one measure that allows us to understand the degree of "
+"landscape fragmentation, the decline of “Forest and Semi Natural areas” 1990"
+" to 2006 at the expense of increased “Artificial areas” (Table 1)."
+msgstr "算出した景観評価指標の分析から、1990年から2006年の間に人為的撹乱の程度の増加、それゆえ用途の大きな断片化があったことが判明しました。「森林半自然地域」と「農業分野」のパッチの数が1990年から2006年の間に減少しました（表1）。この評価指標は、私たちの集団と生息地（ビアナとAranha、2008）の間の関係を増加または減少生態学的プロセスのいくつかの指示を与えることができます。また、注目すべきはスポット間の平均距離です。これは景観の断片化の程度、増加した「人工エリア」を犠牲にして「森と半自然地域」1990年から2006年までの衰退、を把握することを可能にするひとつの評価尺度です（表1）。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:40
+msgid "Model to calculate landscape metrics in 1990."
+msgstr "1990年に景観評価指標を計算するモデル。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:42
+msgid ""
+"From 1990 to 2006 diversity increased, however it is known that this result "
+"is directly related to the transfer between land cover, in particular loss "
+"of “Agricultural areas” and “Forest and Semi Natural areas”. The same "
+"happened with uniformity."
+msgstr "1990年から2006年に多様性が増加しました、しかしこの結果は土地被覆間の転送、特に「農業地域」と「森林および半自然地域」の損失、に直接に関連していることがわかっています。同じことが均一で起こりました。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:45
+msgid "Conclusion"
+msgstr "結論"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:50
+msgid "References"
+msgstr "参考文献"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:52
+msgid ""
+"Fidalgo, B., R. Salas, et al. (2009). \"Estimation of plant diversity in a "
+"forested mosaic landscape: the role of landscape, habitat and patch "
+"features.\" Revista Latinoamericana de Recursos Naturales 5 (2): 65-73."
+msgstr "Fidalgo、B.、R. Salas、et al。（2009）。\"森林化されたモザイクの景観における植物の多様性の推定：風景、生息地、およびパッチの特徴\"。Revista Latinoamericana de Recursos Naturales 5（2）：65-73。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:53
+msgid ""
+"Viana, Hélder; Aranha, José (2008) - Estudo da alteração da cobertura do "
+"solo no Parque Nacional da Peneda Gerês (1995 e 2007). Análise temporal dos "
+"padrões espaciais e avaliação quantitativa da estrutura da paisagem. X "
+"Encontro de Utilizadores de Sistemas de Informação Geográfica, 14 a 16 de "
+"Maio de 2008 – Oeiras."
+msgstr "Viana、Hélder; スパイダー、ホセ（2008） - ペネダジェレース国立公園（1995年と2007年）の土地被覆変化の研究。空間パターンの時系列解析とランドスケープ構造の定量的評価 2008年5月14日〜16日、地理情報システム利用者のX Meeting  -  Oeiras。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:54
+msgid ""
+"Martin Jung (2012) LecoS - A QGIS plugin to conduct landscape ecology "
+"statistics, http://plugins.qgis.org/plugins/LecoS."
+msgstr "Martin Jung（2012）LecoS  - 景観生態統計を管理するためのQGISプラグイン、http://plugins.qgis.org/plugins/LecoS。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:55
+msgid ""
+"Olsen, L., V. Dale, et al. (2007). \"Landscape patterns as indicators of "
+"ecological change at Fort Benning, Georgia, USA.\" Landscape and urban "
+"planning 79: 137-149."
+msgstr "Olsen、L.、V. Dale、et al。（2007）。「ジョージア州フォートベニングの生態学的変化の指標としての景観パターン」景観と都市計画79：137-149。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:56
+msgid ""
+"Turner, M. G., R. Gardner, et al. (2001). Landscape ecology in theory and "
+"practice: pattern and process. New York."
+msgstr "Turner、MG、R. Gardner、et al。（2001）。理論と実践における景観生態学：パターンとプロセス。ニューヨーク。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:59
+msgid "Authors"
+msgstr "著者"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:66
+msgid "André Duarte"
+msgstr "アンドレ・ドゥアルテ"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:68
+msgid ""
+"This article was contributed July 2014 by André Duarte. He has an "
+"Engineering Degree in Forest Resources and Master of Forestry Resources from"
+" the Escola Superior Agrária de Coimbra. Graduate in Geographic Information "
+"Systems by Geopoint. Currently collaborates with Grupo Portucel Soporcel."
+msgstr "この記事は、アンドレ・ドゥアルテによって2014年7月に寄稿されました。氏は、エンジニアリング森林資源の学位およびコインブラ高等農業学校から森林資源の修士を持っています。Geopointによって地理情報システムで大学院。現在、グルポPortucel Soporcelとの共同研究。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:12
+msgid "Geographic location of the municipality of Coimbra."
+msgstr "コインブラの自治体の地理的な位置。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:5
+msgid ""
+"This case study results from the final draft of the Graduate Geographic "
+"Information Systems taught by GeoPoint. We proposed to study a landscape "
+"using Landscape Ecology plugin (LecoS) in QGIS 2.01 Dufour. The study was "
+"conduted in a region of central Portugal, Municipality of Coimbra, with an "
+"total area of 31940ha and it has geographic coordinates 40°12'11.84\" North,"
+" 8°24'37.15\" West. Because the new administrative reorganization this "
+"municipality are divided into 18 parishes, which are mostly urban areas "
+"(Figure 1)."
+msgstr "このケーススタディは、GeoPointで教えられた大学院地理情報システムの最終稿に起因します。私たちはQGIS 2.01デュフールでランドスケープエコロジープラグイン（LecoS）を使用して景観を研究するために提案しました。この研究は、31940ヘクタールの総面積と、中央ポルトガル、コインブラの自治体の地域でconduted、それは地理座標北緯40°12'11.84\" 、西経8°24'37.15\" を持っていました。新しい管理再編ため、この自治体は18の教区に分割され、そのほとんどは都市部です（図1）。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:14
+msgid ""
+"The characterization of a landscape is conducted using quantitative indices "
+"designed by landscape metrics. These indices are then used to describe the "
+"structural characteristics of landscape, to document the change and their "
+"relationship with the occurrence of several species or group of species "
+"(Turner et al, 2001;. Olsen et al, 2007;. Fidalgo et al. , 2009). The number"
+" of metrics is extremely large and can be calculated at the landscape level,"
+" class and stain (Turner et al, 2001;. Fidalgo et al, 2009.). Metrics can be"
+" calculated from the Corine Land Cover, Land use (COS 90 and COS2006) or "
+"maps of Land cover produced by us. According to Martin Jung (2012), the "
+"Landscape Ecology Stistics (Lecos) is a module of QGIS used to calculate "
+"landscape metrics in raster layers. The result can be available in CSV "
+"format."
+msgstr "風景の特徴付けは、景観評価指標によって設計された定量的な指標を用いて行われます。これらの指標は、その後、変更及びいくつかの種または種の群（ターナーら2001年；オルセンら、2007年；フィダルゴら、 2009年）、の発生との関係を文書化するため、風景の構造的特徴を記述するために使用される。指標の数が非常に多く、景観レベル、クラス及び染色（ターナーら、2001年；フィダルゴら、2009年）で計算できます。メトリックはCORINE土地被覆、土地利用（COS 90とCOS2006）または当社によって生成された土地被覆の地図から計算できます。マーティンジョン（2012年）によれば、風景エコロジーStistics（Lecos）はQGISのモジュールは、ラスターレイヤーにランドスケープ・メトリックを計算するために使用されます。結果はCSV形式で利用できるようにすることができます。"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:47
+msgid ""
+"It was possible to determine the landscape metrics using the LecoS plugin "
+"noting that the study area presents problems of fragmentation due to the "
+"high degree of human disturbance. QGIS proved to be quite intuitive and very"
+" practical in the calculation of landscape metrics in the absence of any "
+"constraint. It is indeed a robust and viable compared to proprietary "
+"software solution. In the future we intend to apply this method to areas "
+"that have problems with invasive species to study their behavior in the "
+"landscape."
+msgstr "調査地域は、人為的撹乱の高度に断片化の問題を提起することは注目にLecoSプラグインを使用して景観評価指標を決定することが可能でした。QGISは、任意の制約が存在しない場合に景観評価指標の計算には非常に直感的で非常に実用的であることが判明しました。それは確かに独自のソフトウェア・ソリューションに比べ、堅牢かつ実行可能です。将来的には、風景の中に自分の行動を研究するために外来種の問題を持っている分野には、この方法を適用する予定。"
+
+#~ msgid ""
+#~ "The characterization of a landscape is conducted using quantitative indices "
+#~ "designed by landscape metrics. These indices are then used to describe the "
+#~ "structural characteristics of landscape, to document the change and their "
+#~ "relationship with the occurrence of several species or group of species "
+#~ "(Turner et al, 2001;. Olsen et al, 2007;. Fidalgo et al. , 2009). The number"
+#~ " of metrics is extremely large and can be calculated at the landscape level,"
+#~ " class and stain (Turner et al, 2001;. Fidalgo et al, 2009.). Metrics can be"
+#~ " calculated from the Corine Land Cover, Land use (COS 90 and COS2006) or "
+#~ "maps of Land cover produced by us. According to Martin Jung (2012), the "
+#~ "Landscape Ecology Stistics (Lecos) is a module of Qgis used to calculate "
+#~ "landscape metrics in raster layers. The result can be available in CSV "
+#~ "format."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "It was possible to determine the landscape metrics using the LecoS plugin "
+#~ "noting that the study area presents problems of fragmentation due to the "
+#~ "high degree of human disturbance. Qgis proved to be quite intuitive and very"
+#~ " practical in the calculation of landscape metrics in the absence of any "
+#~ "constraint. It is indeed a robust and viable compared to proprietary "
+#~ "software solution. In the future we intend to apply this method to areas "
+#~ "that have problems with invasive species to study their behavior in the "
+#~ "landscape."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This case study results from the final draft of the Graduate Geographic "
+#~ "Information Systems taught by GeoPoint. We proposed to study a landscape "
+#~ "using Landscape Ecology plugin (LecoS)  in Qgis 2.01 Dufour. The study was "
+#~ "conduted in a region of central Portugal, Municipality of Coimbra, with an "
+#~ "total area of 31940ha and it has geographic coordinates 40°12'11 .84 "
+#~ "\"North, 8°24'37 .15\" West. Because the new administrative reorganization "
+#~ "this municipality are divided into 18 parishes, which are mostly urban areas"
+#~ " (Figure 1)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This case study results from the final draft of the Graduate Geographic "
+#~ "Information Systems taught by GeoPoint. We proposed to study a landscape "
+#~ "using Landscape Ecology plugin (LecoS)  in Qgis 2.01 Dufour. The study was "
+#~ "conduted in a region of central Portugal, Municipality of Coimbra, with an "
+#~ "total area of 31940ha and it has geographic coordinates 40°12'11 .84 "
+#~ "\"North, 8°24'37 .15\" West. Because the new administrative reorganization "
+#~ "this municipally are divided into 18 parishes, which are mostly urban areas "
+#~ "(Figure 1)."
+#~ msgstr ""
+
+#~ msgid "Geographic location of the municipally of Coimbra."
+#~ msgstr ""

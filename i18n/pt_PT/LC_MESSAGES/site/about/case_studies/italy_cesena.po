@@ -1,0 +1,288 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Pedro Filipe Alves Ribeiro <pedrib72@gmail.com>, 2017
+# Rui <xymarior@yandex.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"PO-Revision-Date: 2017-03-02 14:00+0000\n"
+"Last-Translator: Rui <xymarior@yandex.com>, 2018\n"
+"Language-Team: Portuguese (Portugal) (https://www.transifex.com/qgis/teams/6144/pt_PT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:3
+msgid "QGIS to describe the Cesena's Wall"
+msgstr "Utilização do QGIS na Caracterização da Muralha de Cesena"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:5
+msgid ""
+"The ECAMPUS UNIVERSITY was created as an online University and recognized by"
+" the MIUR (Italian Ministry of Education, University and Research) by the "
+"Ministerial Decree of 30 January 2006. It was formed with the aim of "
+"providing access to university through its eLearning platform to young "
+"people, professionals, entrepreneurs, executives and business and cultural "
+"actors in order to contribute to the labor market. The headquarters, also "
+"known as Milan International Campus, or Campus of Novedrate, is located in "
+"the ex IBM training center of Novedrate (Como, Italy), on a campus in the "
+"quiet green Brianza."
+msgstr ""
+"A eCAMPUS UNIVERSITY foi constituída como universidade de ensino à distância"
+" e reconhecida pelo Ministério Italiano da Educação, Universidade e "
+"Investigação (MIUR) através de Decreto Ministerial de 30 de Janeiro de 2006."
+" Foi criada com o propósito de facilitar a jovens, profissionais, "
+"empreendedores, executivos e agentes comerciais ou culturais, o acesso à "
+"universidade através de uma plataforma e-learning. A sede, também conhecida "
+"por Campus Internacional de Milão ou Campus de Novedrate, localiza-se nas "
+"instalações do antigo centro de formação da IBM em Novedrate (Como, Itália),"
+" na verdejante e tranquila região da Brianza."
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:14
+msgid ""
+"The University has 5 Virtual faculties: Engineering, Economics, Psychology, "
+"Arts, Law. THE HISTORICAL MAPS AND THE QGIS PROJECT The City Wall "
+"characterizes the city of Cesena. Its scorpion shape divides the historic "
+"center from the newly zone."
+msgstr ""
+"A Universidade possui 5 faculdades virtuais: Engenharia, Economia, Psicologia, Artes e Direito.\n"
+"A associação de MAPAS HISTÓRICOS com recurso ao PROJETO QGIS permitiu caracterizar a emblemática muralha da cidade de Cesena [25Km a noroeste de San Marino], cuja forma, semelhante à de um escorpião, separa o centro histórico da zona de construção mais recente."
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:19
+msgid ""
+"The historical cartographic documents describe its evolution and its "
+"destructions. The QGIS program allow me to compare different historical "
+"maps, because it permit to transfer all the maps in the same Reference "
+"System, with the georeferencing plugin. As a reference the open layer Google"
+" Satellite and the open layer Open Street Map have been used to refer all "
+"the historical maps to the Reference System EPSG: 3857 (Web Mercator or "
+"Pseudo Mercator)."
+msgstr ""
+"A evolução e sucessivas destruições desta muralha estão descritas em "
+"documentos cartográficos antigos. O software QGIS permite comparar "
+"diferentes mapas históricos ao reprojetá-los para um Sistema de Referência "
+"comum através do módulo Georeferencer [GDAL]. Para esse efeito, o Sistema de"
+" Referência escolhido foi o EPSG: 3857 (WGS 84 Web Mercator ou WGS84/Pseudo "
+"Mercator), também utilizado pelas camadas raster Google Satellite e "
+"OpenStreetMap."
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:26
+msgid ""
+"QGIS has been a fundamental tool to elaborate, analyze, compare these "
+"georeferenced maps through the vectorial layers or shapefiles, in which I "
+"memorized all the elements ofthe maps, such as roads, buildings, parks and "
+"gardens, City Wall, the ancient fortified towers and the ancient City Gates."
+" I used puntual, linear and polygonal layers. I compared these layers "
+"through the analysis, research, geoprocessing, geometry and data management "
+"tools (Fig. 1)."
+msgstr ""
+"O QGIS foi uma ferramenta fundamental na elaboração, análise, "
+"georreferenciação e comparação destes mapas [raster]. Na vetorização "
+"(formato shapefile) de elementos tais como estradas, edifícios, parques e "
+"jardins, muralha, antigas portas e torres fortificadas, foram utilizadas "
+"camadas do tipo ponto, linha e polígono. O recurso às ferramentas de "
+"análise, pesquisa, geoprocessamento e gestão de dados permitiu a comparação "
+"daquelas camadas (Fig. 1). "
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:36
+msgid "Fig. 1 Concept Map of the QGIS project"
+msgstr "Fig. 1 Esquema conceptual do Projeto QGIS"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:38
+msgid "Using this tools, I got informations about:"
+msgstr "A utilização destas ferramentas permitiu obter informações sobre:"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:40
+msgid ""
+"The precision of the Leonardo Da Vinci's topographic survey, realized in "
+"1502, such as how many points of this survey are correct (Fig. 2);"
+msgstr ""
+"A precisão do levantamento topográfico elaborado por Leonardo Da Vinci em "
+"1502, de acordo com o número de pontos que se verificou terem sido "
+"corretamente observados (Fig.2);"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:41
+msgid "The Cesena Wall's Development from the Roman Age to the 15th Century;"
+msgstr ""
+"Desenvolvimento da Muralha de Cesena desde a Época Romana até ao séc. XV;"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:42
+msgid ""
+"The Cesena Wall's Demolitions from the 19th Century to the Early 20th "
+"Century;"
+msgstr ""
+"Demolições na Muralha de Cesena entre o séc. XIX e princípios do séx. XX;"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:43
+msgid ""
+"The morphological changes of the City Wall, such as the demolitions of its "
+"ancient fortified towers and its ancient City Gates;"
+msgstr ""
+"Alterações ao traçado da Muralha, tais como demolições das suas antigas "
+"portas e torres fortificadas;"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:44
+msgid "The Cesena's Urban Progress from the 16th Century to the Present;"
+msgstr ""
+"Desenvolvimento urbanístico de Cesena desde o séc. XVI até ao presente."
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:50
+msgid ""
+"Fig. 2: Openlayer Google Satellite overlapped by the informations recorded "
+"in different layers: the present City Wall in black, the Leonardo Da Vinci's"
+" topographic survey of the City Wall in orange, the Leonardo Da Vinci's "
+"points of survey in yellow and the present ancient City Gates in red."
+msgstr ""
+"Fig. 2: Camada (Openlayer) Google Satellite à qual se sobrepõe informação "
+"registada em diferentes camadas vetoriais: traçado atual da muralha (a "
+"preto); traçado (a laranja) e pontos observados (a amarelo) no levantamento "
+"topográfico de Leonardo Da Vinci e localização das portas subsistentes (a "
+"vermelho). "
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:53
+msgid "There are lots of QGIS tools, and I used some of these to create:"
+msgstr ""
+"As várias ferramentas disponibilizadas pelo QGIS foram utilizadas na criação"
+" de:"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:55
+msgid ""
+"Links that connected each section of the linear layer of the present City "
+"Wall to photos, which represent the actual state of conservation;"
+msgstr ""
+"Associação entre cada troço (entidade linear vetorial) da camada que "
+"representa a atual muralha e respetiva fotografia ilustrativa do seu estado "
+"de conservação. "
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:56
+msgid "A map of Cesena in the 19th Century through the print composer;"
+msgstr ""
+"Planta da Cesena do séc. XIX, formatada com recurso ao Compositor de "
+"Impressão;"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:57
+msgid "A 3D Model of Cesena with qgis2threejs plugin (Fig. 3);"
+msgstr ""
+"Modelo tridimensional de Cesena, através da utilização do módulo "
+"Qgis2threejs (Fig. 3);"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:63
+msgid ""
+"Fig. 3: The 3D model of the present City Wall and Cesena's buildings inside "
+"and outside the Wall. The ancient fortified towers and the ancient City "
+"Gates are indicated."
+msgstr ""
+"Fig. 3: Modelo 3D do traçado da atual Muralha de Cesena e edificações "
+"adjacentes (interiores e exteriores). A localização das antigas portas e "
+"torres fortificadas encontra-se assinalada."
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:66
+msgid "Conclusion"
+msgstr "Conclusão"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:68
+msgid ""
+"The historical maps are important documents even if its precision cannot be "
+"compared to the precision of the actual cartographic document, and they are "
+"very communicative representations also for those who are not specialists on"
+" geographic representations. QGIS was the only means that allowed me to use "
+"the numerical content of the historical maps according to an effective and "
+"meaningful representation."
+msgstr ""
+"Os mapas históricos são documentos importantes mesmo que a sua precisão não "
+"se possa comparar à da cartografia contemporânea. A sua apresentação é "
+"bastante apelativa até para quem não é especialista em representações "
+"geográficas. O QGIS foi a única ferramenta a permitir ao autor criar uma "
+"representação digital significativa da cartografia histórica em apreço. "
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:75
+msgid "Bibliographic Index"
+msgstr "Bibliografia"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:77
+msgid "The historical maps have been extracted by:"
+msgstr "A cartografia histórica foi obtida em:"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:79
+msgid ""
+"\"Costruzione, alterazione e recupero del centro storico di Cesena\", "
+"Ballardini, Cantori, Pezzi, Righetti, Tossani, Bruno Ghigi Editore, 1977"
+msgstr ""
+"\"Costruzione, alterazione e recupero del centro storico di Cesena\", "
+"Ballardini, Cantori, Pezzi, Righetti, Tossani, Bruno Ghigi Editore, 1977"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:80
+msgid "\"La cinta muraria di Cesena\", Pino Montalti, Edizioni Panini, 1986"
+msgstr "\"La cinta muraria di Cesena\", Pino Montalti, Edizioni Panini, 1986"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:82
+msgid "The historical informations have been extracted by:"
+msgstr "Outra informação histórica:"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:84
+msgid ""
+"\"La cartografia in Italia: nuovi metodi e nuovi strumenti dal Settecento ad"
+" Oggi\", Andrea Cantile, IGM Firenze, 2007"
+msgstr ""
+"\"La cartografia in Italia: nuovi metodi e nuovi strumenti dal Settecento ad"
+" Oggi\", Andrea Cantile, IGM Firenze, 2007"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:85
+msgid ""
+"\"Lineamenti di storia della cartografia italiana, volume secondo, dal "
+"Seicento al Novecento\" Andrea Cantile, Geoweb, 2013"
+msgstr ""
+"\"Lineamenti di storia della cartografia italiana, volume secondo, dal "
+"Seicento al Novecento\" Andrea Cantile, Geoweb, 2013"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:86
+msgid ""
+"\"I rilievi cartografici di Leonardo per Cesena ed Urbino contenuti nel "
+"manoscritto 'L' dell'Istituto di Francia\", Nando De Toni, G. Barbéra "
+"Editore, 1965"
+msgstr ""
+"\"I rilievi cartografici di Leonardo per Cesena ed Urbino contenuti nel "
+"manoscritto 'L' dell'Istituto di Francia\", Nando De Toni, G. Barbéra "
+"Editore, 1965"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:87
+msgid "\"La città da guerra\", Amelio Fara, Einaudi, 1993"
+msgstr "\"La città da guerra\", Amelio Fara, Einaudi, 1993"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:88
+msgid ""
+"\"La cartografia dall'antichità fino al XVIII secolo\", Carlo Monti, "
+"Maggioli Editore, 2011"
+msgstr ""
+"\"La cartografia dall'antichità fino al XVIII secolo\", Carlo Monti, "
+"Maggioli Editore, 2011"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:91
+msgid "Author"
+msgstr "Sobre o autor:"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:93
+msgid ""
+"Camilla Fabbri has a bachelor's degree in Civil and Environmental "
+"Engineering. She has developed her dissertation on historical cartography of"
+" the Cesena Wall using the QGIS program with the Supervisor Alessandra "
+"Borghi, who is the University Teacher of Topography and Theoretical "
+"Mechanics of the bachelor's degree in Civil and Environmental Engineering in"
+" the eCampus University."
+msgstr ""
+"Camilla Fabbri é bacharel em Engenharia Civil e Ambiente. Escreveu a sua "
+"dissertação em cartografia histórica da muralha de Cesena, com recurso ao "
+"programa QGIS, sob supervisão de Alessandra Borghi, docente da cadeira de "
+"Topografia e Mecânica Racional do departamento de Engenharia da Universidade"
+" eCampus."

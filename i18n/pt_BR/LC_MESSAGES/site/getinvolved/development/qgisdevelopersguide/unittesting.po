@@ -1,0 +1,501 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# 
+# Translators:
+# Mariana Muniz Blank <mariblank_1@hotmail.com>, 2016
+# Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>, 2016
+# Yasmim Araújo Silva <26yasmim@gmail.com>, 2018-2019
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"PO-Revision-Date: 2019-01-01 22:40+0000\n"
+"Last-Translator: Yasmim Araújo Silva <26yasmim@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:5
+msgid "Unit Testing"
+msgstr "Teste de unidade"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:7
+msgid ""
+"As of November 2007 we require all new features going into master to be "
+"accompanied with a unit test. Initially we have limited this requirement to "
+"qgis_core, and we will extend this requirement to other parts of the code "
+"base once people are familiar with the procedures for unit testing explained"
+" in the sections that follow."
+msgstr "Em novembro de 2007, passamos a exigir que todos os novos recursos que vão para a versão master passem a ser acompanhado de um teste de unidade. Inicialmente nós limitamos este requisito ao qgis_core, e vamos estender este requisito a outras partes da base de código conforme as pessoas estão familiarizados com os procedimentos de teste de unidade explicado nas seções que se seguem."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:15
+msgid "The QGIS testing framework - an overview"
+msgstr "O framework de testes do QGIS - uma visão geral"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:17
+msgid ""
+"Unit testing is carried out using a combination of QTestLib (the Qt testing "
+"library) and CTest (a framework for compiling and running tests as part of "
+"the CMake build process). Lets take an overview of the process before I "
+"delve into the details:"
+msgstr "O teste de unidade é realizada utilizando uma combinação de QTestLib (a biblioteca de testes Qt) e CTest (um quadro para compilar e executar testes como parte do CMake build process). Vamos dar uma visão geral do processo antes de eu entrar em detalhes:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:22
+msgid ""
+"There is some code you want to test, e.g. a class or function. Extreme "
+"programming advocates suggest that the code should not even be written yet "
+"when you start building your tests, and then as you implement your code you "
+"can immediately validate each new functional part you add with your test. In"
+" practive you will probably need to write tests for pre-existing code in "
+"QGIS since we are starting with a testing framework well after much "
+"application logic has already been implemented."
+msgstr "Há algum código que você deseja testar, por exemplo, uma classe ou função. Defensores do Extreme Programming sugerem que o código inda não deve ser escrito quando você começar a construir seus testes, e então conforme você implementar o seu código pode validar imediatamente cada nova parte funcional que você adicionar com o seu teste. Na prática você provavelmente terá que escrever testes para o código pré-existente no QGIS uma vez que estamos começando com um framework de testes bem depois lógica muita aplicação já foi implementado."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:30
+msgid ""
+"You create a unit test. This happens under ``<QGIS Source "
+"Dir>/tests/src/core`` in the case of the core lib. The test is basically a "
+"client that creates an instance of a class and calls some methods on that "
+"class. It will check the return from each method to make sure it matches the"
+" expected value. If any one of the calls fails, the unit will fail."
+msgstr "Você cria uma unidade de teste. Isso acontece sob ``<QGIS Source Dir>/tests/src/core`` no caso do core lib. O teste é basicamente um cliente que cria uma instância de uma classe e chama alguns métodos nessa classe. Ele irá verificar o retorno de cada método para garantir que corresponda ao valor esperado. Se qualquer uma das chamadas falhar, a unidade falhará."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:36
+msgid ""
+"You include QtTestLib macros in your test class. This macro is processed by "
+"the Qt meta object compiler (moc) and expands your test class into a "
+"runnable application."
+msgstr "Você inclui macros QtTestLib na sua classe de teste. Essa macro é processada pelo compilador de objeto meta Qt (moc) e expande sua classe de teste em uma aplicação executável."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:40
+msgid ""
+"You add a section to the CMakeLists.txt in your tests directory that will "
+"build your test."
+msgstr "Você adiciona uma seção ao CMakeLists.txt em seu diretório de testes que criará seu teste."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:43
+msgid ""
+"You ensure you have ``ENABLE_TESTING`` enabled in ccmake / cmakesetup. This "
+"will ensure your tests actually get compiled when you type make."
+msgstr "Você garante que tenha o `` ENABLE_TESTING`` ativado no ccmake / cmakesetup. Isso garantirá que seus testes sejam compilados quando você digitar make."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:46
+msgid ""
+"You optionally add test data to ``<QGIS Source Dir>/tests/testdata`` if your"
+" test is data driven (e.g. needs to load a shapefile). These test data "
+"should be as small as possible and wherever possible you should use the "
+"existing datasets already there. Your tests should never modify this data in"
+" situ, but rather may a temporary copy somewhere if needed."
+msgstr "Você, opcionalmente, adiciona dados de teste a ``<QGIS Source Dir>/ tests / testdata`` se o seu teste for orientado por dados (por exemplo, precisa carregar um shapefile). Esses dados de teste devem ser tão pequenos quanto possível e, sempre que possível, você deve usar o conjunto de dados existentes já existentes. Seus testes nunca devem modificar esses dados in situ, mas sim uma cópia temporária em algum lugar, se necessário."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:52
+msgid ""
+"You compile your sources and install. Do this using normal ``make && (sudo)"
+"  make install`` procedure."
+msgstr "Você compila suas fontes e instala. Faça isso usando o procedimento normal `` make && (sudo) make install``."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:55
+msgid ""
+"You run your tests. This is normally done simply by doing ``make test`` "
+"after the ``make install`` step, though I will explain other aproaches that "
+"offer more fine grained control over running tests."
+msgstr "Você executa seus testes. Isso normalmente é feito simplesmente fazendo `` make test`` após a etapa `` make install``, embora eu explique outras abordagens que oferecem um controle mais refinado sobre os testes em execução."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:60
+msgid ""
+"Right with that overview in mind, I will delve into a bit of detail. I've "
+"already done much of the configuration for you in CMake and other places in "
+"the source tree so all you need to do are the easy bits - writing unit "
+"tests!"
+msgstr "Certo com esse panorama geral em mente, vou mergulhar em um pouco de detalhe. Eu já fiz muita da configuração para você no CMake e em outros lugares na árvore de código-fonte, então tudo que você precisa fazer são os bits fáceis - escrever testes de unidade!"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:66
+msgid "Creating a unit test"
+msgstr "Criar um teste de unidade"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:68
+msgid ""
+"Creating a unit test is easy - typically you will do this by just creating a"
+" single .cpp file (not .h file is used) and implement all your test methods "
+"as public methods that return void. I'll use a simple test class for "
+"QgsRasterLayer throughout the section that follows to illustrate. By "
+"convention we will name our test with the same name as the class they are "
+"testing but prefixed with 'Test'. So our test implementation goes in a file "
+"called testqgsrasterlayer.cpp and the class itself will be "
+"TestQgsRasterLayer. First we add our standard copyright banner:"
+msgstr "Criar uma unidade de teste é fácil - normalmente você fará isso apenas criando um único arquivo .cpp (não é usado o arquivo .h) e implementará todos os seus métodos de teste como métodos públicos que retornam o vazio. Vou usar uma classe de teste simples para QgsRasterLayer em toda a seção que segue para ilustrar. Por convenção, nomearemos nosso teste com o mesmo nome da classe que estão testando, mas prefixado com 'Teste'. Então nossa implementação de teste vai em um arquivo chamado testqgsrasterlayer.cpp e a própria classe será TestQgsRasterLayer. Primeiro, adicionamos nosso banner de direitos autorais padrão:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:94
+msgid ""
+"Next we use start our includes needed for the tests we plan to run. There is"
+" one special include all tests should have:"
+msgstr "Em seguida, usamos o início das inclusões necessárias para os testes que planejamos executar. Há um especial inclui todos os testes devem ter:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:101
+msgid ""
+"Beyond that you just continue implementing your class as per normal, pulling"
+" in whatever headers you may need:"
+msgstr "Além disso, você apenas continua a implementar sua classe de acordo com o normal, obtendo os cabeçalhos necessários:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:119
+msgid ""
+"Since we are combining both class declaration and implementation in a single"
+" file the class declaration comes next. We start with our doxygen "
+"documentation. Every test case should be properly documented. We use the "
+"doxygen ingroup directive so that all the UnitTests appear as a module in "
+"the generated Doxygen documentation. After that comes a short description of"
+" the unit test and the class must inherit from QObject and include the "
+"Q_OBJECT macro."
+msgstr "Como estamos combinando declaração de classe e implementação em um único arquivo, a declaração de classe vem em seguida. Começamos com a documentação do doxygen. Cada caso de teste deve ser documentado adequadamente. Usamos a diretiva do dogengen ingroup para que todos os UnitTests apareçam como um módulo na documentação do Doxygen gerada. Depois disso vem uma breve descrição da unidade de teste e a classe deve herdar do QObject e incluir a macro Q_OBJECT."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:136
+msgid ""
+"All our test methods are implemented as private slots. The QtTest framework "
+"will sequentially call each private slot method in the test class. There are"
+" four 'special' methods which if implemented will be called at the start of "
+"the unit test (initTestCase), at the end of the unit test (cleanupTestCase)."
+" Before each test method is called, the init() method will be called and "
+"after each test method is called the cleanup() method is called. These "
+"methods are handy in that they allow you to allocate and cleanup resources "
+"prior to running each test, and the test unit as a whole."
+msgstr "Todos os nossos métodos de teste são implementados como slots privados. O framework QtTest irá chamar sequencialmente cada método de slot privado na classe de teste. Existem quatro métodos 'especiais' que, se implementados, serão chamados no início de unidade de teste (initTestCase), no final do teste unitário (cleanupTestCase). Antes de cada método de teste ser chamado, o método init () será chamado e depois que cada método de teste for chamado, o método cleanup () será chamado. Esses métodos são úteis, pois permitem alocar e limpar recursos antes de executar cada teste e a unidade de teste como um todo."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:157
+msgid ""
+"Then come your test methods, all of which should take no parameters and "
+"should return void. The methods will be called in order of declaration. I am"
+" implementing two methods here which illustrates two types of testing. In "
+"the first case I want to generally test the various parts of the class are "
+"working, I can use a functional testing approach. Once again, extreme "
+"programmers would advocate writing these tests before implementing the "
+"class. Then as you work your way through your class implementation you "
+"iteratively run your unit tests. More and more test functions should "
+"complete sucessfully as your class implementation work progresses, and when "
+"the whole unit test passes, your new class is done and is now complete with "
+"a repeatable way to validate it."
+msgstr "Em seguida, vêm os seus métodos de teste, os quais não devem ter parâmetros e devem ser anulados. Os métodos serão chamados em ordem de declaração. Estou implementando dois métodos aqui que ilustram dois tipos de testes. No primeiro caso, eu quero testar geralmente as várias partes da classe estão trabalhando, eu posso usar uma abordagem de teste funcional. Mais uma vez, programadores extremos recomendariam escrever esses testes antes de implementar a aula. Então, à medida que você trabalha na sua implementação de classe, você executa iterativamente seus testes de unidade. Mais e mais funções de teste devem ser concluídas com sucesso à medida que o trabalho de implementação da classe progride, e quando todo a unidade de teste passa, sua nova classe é feita e agora está completa com uma maneira repetível de validá-la."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:168
+msgid ""
+"Typically your unit tests would only cover the public API of your class, and"
+" normally you do not need to write tests for accessors and mutators. If it "
+"should happen that an acccessor or mutator is not working as expected you "
+"would normally implement a regression test to check for this (see lower "
+"down)."
+msgstr "Normalmente, seus testes de unidade cobririam apenas a API pública de sua classe e, normalmente, você não precisa escrever testes para acessadores e mutadores. Se acontecer de um acccessor ou um mutador não estar funcionando como esperado, você normalmente implementaria um teste de regressão para checar isso (veja abaixo)."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:184
+msgid ""
+"Next we implement our regression tests. Regression tests should be "
+"implemented to replicate the conditions of a particular bug. For example I "
+"recently received a report by email that the cell count by rasters was off "
+"by 1, throwing off all the statistics for the raster bands. I opened a bug "
+"(ticket #832) and then created a regression test that replicated the bug "
+"using a small test dataset (a 10x10 raster). Then I ran the test and ran it,"
+" verifying that it did indeed fail (the cell count was 99 instead of 100). "
+"Then I went to fix the bug and reran the unit test and the regression test "
+"passed. I committed the regression test along with the bug fix. Now if "
+"anybody breakes this in the source code again in the future, we can "
+"immediatly identify that the code has regressed. Better yet before "
+"committing any changes in the future, running our tests will ensure our "
+"changes don't have unexpected side effects - like breaking existing "
+"functionality."
+msgstr "Em seguida, implementamos nossos testes de regressão. Testes de regressão devem ser implementados para replicar as condições de um bug específico. Por exemplo, recebi recentemente um relatório por e-mail dizendo que a contagem de células por rasters estava em 1, eliminando todas as estatísticas das bandas de varredura. Eu abri um bug (ticket # 832) e, em seguida, criei um teste de regressão que replicou o bug usando um pequeno conjunto de dados de teste (10x10 raster). Em seguida, executei o teste e executei-o, verificando se ele realmente falhava (a contagem de células era 99 em vez de 100). Então eu fui consertar o bug e reran a unidade de teste e o teste de regressão passou. Eu cometi o teste de regressão junto com a correção do bug. Agora, se alguém quebrar isso no código fonte novamente no futuro, podemos identificar imediatamente que o código regrediu. Melhor ainda antes de cometer quaisquer alterações no futuro, a execução dos nossos testes garantirá que nossas alterações não tenham efeitos colaterais inesperados, como quebrar a funcionalidade existente."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:198
+msgid ""
+"There is one more benefit to regression tests - they can save you time. If "
+"you ever fixed a bug that involved making changes to the source, and then "
+"running the application and performing a series of convoluted steps to "
+"replicate the issue, it will be immediately apparent that simply "
+"implementing your regression test before fixing the bug will let you "
+"automate the testing for bug resolution in an efficient manner."
+msgstr "Há mais um benefício nos testes de regressão - eles podem economizar seu tempo. Se você corrigiu um bug que envolvia fazer alterações na fonte e, em seguida, executar a aplicação e executar uma série de etapas complicadas para replicar o problema, será imediatamente aparente que simplesmente implementar seu teste de regressão antes de corrigir o bug permitirá que você automatize o teste para resolução de bug de uma maneira eficiente."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:205
+msgid ""
+"To implement your regression test, you should follow the naming convention "
+"of regression<TicketID> for your test functions. If no redmine ticket exists"
+" for the regression, you should create one first. Using this approach allows"
+" the person running a failed regression test easily go and find out more "
+"information."
+msgstr "Para implementar seu teste de regressão, você deve seguir a convenção de nomenclatura de regressão<TicketID> para suas funções de teste. Se não houver nenhum ticket vermelho para a regressão, você deve criar um primeiro. Usar essa abordagem permite que a pessoa que está executando um teste de regressão com falha acesse facilmente e descubra mais informações."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:224
+msgid ""
+"Finally in our test class declaration you can declare privately any data "
+"members and helper methods your unit test may need. In our case I will "
+"declare a QgsRasterLayer * which can be used by any of our test methods. The"
+" raster layer will be created in the initTestCase() function which is run "
+"before any other tests, and then destroyed using cleanupTestCase() which is "
+"run after all tests. By declaring helper methods (which may be called by "
+"various test functions) privately, you can ensure that they wont be "
+"automatically run by the QTest executable that is created when we compile "
+"our test."
+msgstr "Finalmente, em nossa declaração de classe de teste, você pode declarar de maneira particular quaisquer membros de dados e métodos auxiliares que seu teste de unidade possa precisar. No nosso caso, eu declararei um QgsRasterLayer * que pode ser usado por qualquer um dos nossos métodos de teste. A camada de rasterização será criada na função initTestCase (), que é executada antes de qualquer outro teste, e depois destruída usando cleanupTestCase (), que é executado após todos os testes. Ao declarar métodos auxiliares (que podem ser chamados por várias funções de teste) de forma privada, você pode garantir que eles não sejam executados automaticamente pelo executável do QTest que é criado quando compilamos nosso teste."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:241
+msgid ""
+"That ends our class declaration. The implementation is simply inlined in the"
+" same file lower down. First our init and cleanup functions:"
+msgstr "Isso termina nossa declaração de classe. A implementação é simplesmente embutida no mesmo arquivo mais abaixo. Primeiro nossas funções de inicialização e limpeza:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:274
+msgid "The above init function illustrates a couple of interesting things."
+msgstr "A função init acima ilustra algumas coisas interessantes."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:276
+msgid ""
+"I needed to manually set the QGIS application data path so that resources "
+"such as srs.db can be found properly."
+msgstr "Eu precisava estabelecer manualmente o caminho de dados da aplicação QGIS para que recursos como srs.db pudessem ser localizados corretamente."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:278
+msgid ""
+"Secondly, this is a data driven test so we needed to provide a way to "
+"generically locate the ``tenbytenraster.asc`` file. This was achieved by "
+"using the compiler define ``TEST_DATA_PATH``. The define is created in the "
+"``CMakeLists.txt`` configuration file under ``<QGIS Source "
+"Root>/tests/CMakeLists.txt`` and is available to all QGIS unit tests. If you"
+" need test data for your test, commit it under ``<QGIS Source "
+"Root>/tests/testdata``. You should only commit very small datasets here. If "
+"your test needs to modify the test data, it should make a copy of it first."
+msgstr "Em segundo lugar, este é um teste orientado por dados, então precisamos fornecer uma maneira de localizar genericamente o arquivo `` tenbytenraster.asc``. Isto foi conseguido usando o compilador de definir `` TEST_DATA_PATH``. A definição é criada no arquivo de configuração `` CMakeLists.txt`` em ``<QGIS Source Root>/ tests/CMakeLists.txt`` e está disponível para todos os testes unitários do QGIS. Se você precisar de dados de teste para o seu teste, envie-o sob ``<QGIS Source Root>/tests /testdata``. Você deve apenas confirmar conjunto de dados muito pequenos aqui. Se o seu teste precisar modificar os dados do teste, ele deverá fazer uma cópia primeiro."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:288
+msgid ""
+"Qt also provides some other interesting mechanisms for data driven testing, "
+"so if you are interested to know more on the topic, consult the Qt "
+"documentation."
+msgstr "O Qt também fornece alguns outros mecanismos interessantes para testes baseados em dados, portanto, se você estiver interessado em saber mais sobre o assunto, consulte a documentação do Qt."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:292
+msgid ""
+"Next lets look at our functional test. The isValid() test simply checks the "
+"raster layer was correctly loaded in the initTestCase. QVERIFY is a Qt macro"
+" that you can use to evaluate a test condition. There are a few other use "
+"macros Qt provide for use in your tests including:"
+msgstr "Em seguida, vamos ver nosso teste funcional. O teste isValid () simplesmente verifica se a camada raster foi carregada corretamente no initTestCase. QVERIFY é uma macro Qt que você pode usar para avaliar uma condição de teste. Existem outras macros de uso que o Qt fornece para uso em seus testes, incluindo:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:297
+msgid "`QCOMPARE ( actual, expected )`"
+msgstr "`QCOMPARE (real, esperado)`"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:298
+msgid "`QEXPECT_FAIL ( dataIndex, comment, mode )`"
+msgstr "`QEXPECT_FAIL (índice de dados, comentário, modo)`"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:299
+msgid "`QFAIL ( message )`"
+msgstr "`QFAIL (mensagem)`"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:300
+msgid "`QFETCH ( type, name )`"
+msgstr "`QFETCH (tipo, nome)`"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:301
+msgid "`QSKIP ( description, mode )`"
+msgstr "`QFETCH (tipo, nome)`"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:302
+msgid "`QTEST ( actual, testElement )`"
+msgstr "`QTEST (atual, testElement)`"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:303
+msgid "`QTEST_APPLESS_MAIN ( TestClass )`"
+msgstr "`QTEST_APPLESS_MAIN (TestClass)`"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:304
+msgid "`QTEST_MAIN ( TestClass )`"
+msgstr "`QTEST_MAIN ( TestClass )`"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:305
+msgid "`QTEST_NOOP_MAIN ()`"
+msgstr "`QTEST_NOOP_MAIN ()`"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:306
+msgid "`QVERIFY2 ( condition, message )`"
+msgstr "`QVERIFY2 (condição, mensagem)`"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:307
+msgid "`QVERIFY ( condition )`"
+msgstr "`QVERIFY ( condição )`"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:308
+msgid "`QWARN ( message )`"
+msgstr "`QWARN ( menssagem )`"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:310
+msgid ""
+"Some of these macros are useful only when using the Qt framework for data "
+"driven testing (see the Qt docs for more detail)."
+msgstr "Algumas dessas macros são úteis apenas quando se usa o framework Qt para testes baseados em dados (veja os documentos do Qt para mais detalhes)."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:320
+msgid ""
+"Normally your functional tests would cover all the range of functionality of"
+" your classes public API where feasible. With our functional tests out the "
+"way, we can look at our regression test example."
+msgstr "Normalmente, seus testes funcionais cobririam toda a gama de funcionalidades da API pública de suas classes, sempre que viável. Com nossos testes funcionais fora do caminho, podemos ver nosso exemplo de teste de regressão."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:324
+msgid ""
+"Since the issue in bug #832 is a misreported cell count, writing our test is"
+" simply a matter of using QVERIFY to check that the cell count meets the "
+"expected value:"
+msgstr "Como o problema no bug # 832 é uma contagem de célula incorreta, escrever nosso teste é simplesmente uma questão de usar QVERIFY para checar se a contagem de célula atende ao valor esperado:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:339
+msgid ""
+"With all the unit test functions implemented, there one final thing we need "
+"to add to our test class:"
+msgstr "Com todas as funções da unidade de teste implementadas, há uma última coisa que precisamos adicionar à nossa classe de teste:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:347
+msgid ""
+"The purpose of these two lines is to signal to Qt's moc that his is a QtTest"
+" (it will generate a main method that in turn calls each test funtion.The "
+"last line is the include for the MOC generated sources. You should replace "
+"'testqgsrasterlayer' with the name of your class in lower case."
+msgstr "O propósito destas duas linhas é sinalizar ao moc de Qt que ele é um QtTest (ele irá gerar um método principal que por sua vez chama cada função de teste. A última linha é a inclusão para as fontes geradas pelo MOC. Você deve substituir 'testqgsrasterlayer' com o nome da sua classe em minúsculas."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:354
+msgid "Adding your unit test to CMakeLists.txt"
+msgstr "Adicionando sua unidade de teste ao CMakeLists.txt"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:357
+msgid ""
+"Adding your unit test to the build system is simply a matter of editing the "
+"CMakeLists.txt in the test directory, cloning one of the existing test "
+"blocks, and then replacing your test class name into it. For example:"
+msgstr "Adicionar sua Unidade de teste ao sistema de compilação é simplesmente uma questão de editar o CMakeLists.txt no diretório de teste, clonar um dos blocos de teste existentes e, em seguida, substituir o nome da classe de teste nele. Por exemplo:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:368
+msgid "The ADD_QGIS_TEST macro explained"
+msgstr "A macro ADD_QGIS_TEST explicada"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:371
+msgid ""
+"I'll run through these lines briefly to explain what they do, but if you are"
+" not interested, just do the step explained in the above section and "
+"section."
+msgstr "Eu vou executar essas linhas brevemente para explicar o que eles fazem, mas se você não estiver interessado, apenas faça o passo explicado na seção e seção acima."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:406
+msgid ""
+"Lets look a little more in detail at the individual lines. First we define "
+"the list of sources for our test. Since we have only one source file "
+"(following the methodology I described above where class declaration and "
+"definition are in the same file) its a simple statement:"
+msgstr "Vamos olhar um pouco mais detalhadamente nas linhas individuais. Primeiro definimos a lista de fontes para o nosso teste. Já que temos apenas um arquivo fonte (seguindo a metodologia que descrevi acima onde a declaração e definição de classe estão no mesmo arquivo) é uma simples declaração:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:415
+msgid ""
+"Since our test class needs to be run through the Qt meta object compiler "
+"(moc) we need to provide a couple of lines to make that happen too:"
+msgstr "Como nossa classe de teste precisa ser executada através do compilador de objeto meta Qt (moc), precisamos fornecer algumas linhas para que isso aconteça também:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:424
+msgid ""
+"Next we tell cmake that it must make an executable from the test class. "
+"Remember in the previous section on the last line of the class "
+"implementation I included the moc outputs directly into our test class, so "
+"that will give it (among other things) a main method so the class can be "
+"compiled as an executable:"
+msgstr "Em seguida, dizemos ao cmake que ele deve criar um executável a partir da classe de teste. Lembre-se, na seção anterior sobre a última linha da implementação da classe, incluí as saídas moc diretamente em nossa classe de teste, de modo que ela forneça (entre outras coisas) um método main para que a classe possa ser compilada como executável:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:435
+msgid ""
+"Next we need to specify any library dependencies. At the moment, classes "
+"have been implemented with a catch-all QT_LIBRARIES dependency, but I will "
+"be working to replace that with the specific Qt libraries that each class "
+"needs only. Of course you also need to link to the relevant qgis libraries "
+"as required by your unit test."
+msgstr "Em seguida, precisamos especificar as dependências da biblioteca. No momento, as classes foram implementadas com uma dependência QT_LIBRARIES pega-tudo, mas eu estarei trabalhando para substituir isso com as bibliotecas Qt específicas que cada classe precisa apenas. É claro que você também precisa se vincular às bibliotecas qgis relevantes, conforme exigido pela sua unidade de teste."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:445
+msgid ""
+"Next I tell cmake to install the tests to the same place as the qgis "
+"binaries itself. This is something I plan to remove in the future so that "
+"the tests can run directly from inside the source tree."
+msgstr "Em seguida eu digo ao cmake para instalar os testes no mesmo lugar que os próprios binários qgis. Isso é algo que pretendo remover no futuro, para que os testes possam ser executados diretamente de dentro da árvore de origem."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:472
+msgid ""
+"Finally the above uses ``ADD_TEST`` to register the test with cmake / ctest."
+" Here is where the best magic happens - we register the class with ctest. If"
+" you recall in the overview I gave in the beginning of this section, we are "
+"using both QtTest and CTest together. To recap, QtTest adds a main method to"
+" your test unit and handles calling your test methods within the class. It "
+"also provides some macros like ``QVERIFY`` that you can use as to test for "
+"failure of the tests using conditions. The output from a QtTest unit test is"
+" an executable which you can run from the command line. However when you "
+"have a suite of tests and you want to run each executable in turn, and "
+"better yet integrate running tests into the build process, the CTest is what"
+" we use."
+msgstr "Finalmente, o acima usa `` ADD_TEST`` para registrar o teste com cmake / ctest. Aqui é onde a melhor mágica acontece - nós registramos a classe com o ctest. Se você se lembrar do panorama que dei no começo desta seção, estamos usando o QtTest e o CTest juntos. Para recapitular, o QtTest adiciona um método principal à sua unidade de teste e lida com seus métodos de teste dentro da classe. Ele também fornece algumas macros como `` QVERIFY`` que você pode usar para testar a falha dos testes usando condições. A saída de um teste de unidade do QtTest é um executável que você pode executar a partir da linha de comando. No entanto, quando você tem um conjunto de testes e deseja executar cada executável por vez e integrar melhor os testes em execução no processo de criação, o CTest é o que usamos."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:485
+msgid "Building your unit test"
+msgstr "Construindo sua Unidade de teste"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:487
+msgid ""
+"To build the unit test you need only to make sure that ``ENABLE_TESTS=true``"
+" in the cmake configuration. There are two ways to do this:"
+msgstr "Para construir a unidade de teste você precisa apenas certificar-se de que `` ENABLE_TESTS = true`` na configuração do cmake. Existem duas maneiras de fazer isso:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:490
+msgid ""
+"Run ``ccmake ..`` ( or ``cmakesetup ..`` under windows) and interactively "
+"set the ``ENABLE_TESTS`` flag to ``ON``."
+msgstr "Executar `` ccmake ..`` (ou `` cmakesetup ..`` no windows) e defina interativamente o sinalizador `` ENABLE_TESTS`` para `` ON``."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:492
+msgid "Add a command line flag to cmake e.g. ``cmake -DENABLE_TESTS=true ..``"
+msgstr "Adicione um sinalizador de linha de comando para cmake, e. `` cmake -DENABLE_TESTS = true ..``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:494
+msgid ""
+"Other than that, just build QGIS as per normal and the tests should build "
+"too."
+msgstr "Além disso, basta construir o QGIS conforme o normal e os testes também devem ser compilados."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:498
+msgid "Run your tests"
+msgstr "Execute seus testes"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:501
+msgid ""
+"The simplest way to run the tests is as part of your normal build process:"
+msgstr "A maneira mais simples de executar os testes é como parte do seu processo de criação normal:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:507
+msgid ""
+"The make test command will invoke CTest which will run each test that was "
+"registered using the ADD_TEST CMake directive described above. Typical "
+"output from make test will look like this:"
+msgstr "O comando make test invocará o CTest, o qual executará cada teste registrado usando a diretiva CMake ADD_TEST descrita acima. A saída típica do teste do make ficará assim:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:527
+msgid ""
+"If a test fails, you can use the ctest command to examine more closely why "
+"it failed. Use the ``-R`` option to specify a regex for which tests you want"
+" to run and ``-V`` to get verbose output:"
+msgstr "Se um teste falhar, você poderá usar o comando ctest para examinar mais de perto por que ele falhou. Use a opção `` -R`` para especificar um regex cujos testes você deseja executar e `` -V`` para obter uma saída detalhada:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:571
+msgid ""
+"Well that concludes this section on writing unit tests in QGIS. We hope you "
+"will get into the habit of writing test to test new functionality and to "
+"check for regressions. Some aspects of the test system (in particular the "
+"CMakeLists.txt parts) are still being worked on so that the testing "
+"framework works in a truly platform way. I will update this document as "
+"things progress."
+msgstr "Bem, isso conclui essa seção sobre como escrever testes de unidade no QGIS. Esperamos que você tenha o hábito de escrever teste para testar novas funcionalidades e checar regressões. Alguns aspectos do sistema de teste (em particular as partes do CMakeLists.txt) ainda estão sendo trabalhados para que a estrutura de teste funcione de uma maneira verdadeiramente de plataforma. Eu irei atualizar este documento conforme as coisas progridem."

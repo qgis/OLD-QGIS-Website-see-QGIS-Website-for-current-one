@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Kayama Yoichi <yoichi.kayama@gmail.com>, 2018
+# fairtommy <fairtommy@gmail.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-05 19:50+0200\n"
+"PO-Revision-Date: 2018-05-20 14:25+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
+"Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:4
+msgid "Requirements for new contributors"
+msgstr "新しい貢献者に求められるもの"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:6
+msgid ""
+"We welcome new contributors to our community - we want you to use QGIS as a "
+"platform for doing your work - and we believe that QGIS is a great platform "
+"for that. In order to contribute code, patches, or documentation to the QGIS"
+" project, all developers/team members must:"
+msgstr ""
+"私たちは新しいコミュニティの貢献者を歓迎します。私たちはあなたの仕事を行うためのプラットフォームとしてQGISを使用してもらいたいと思ってます、QGISはそのための素晴らしいプラットフォームだと考えています。コード、パッチ、またはドキュメントをQGISプロジェクトに提供するには、すべての開発者/チームメンバーが以下の事項を守る必要があります:"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:11
+msgid "Abide by the Social Contract."
+msgstr "社会契約を遵守してください。"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:12
+msgid ""
+"Be familiar with the development process and the reference material "
+"available in the Development Corner, and the CODING document in the root of "
+"the QGIS Sources."
+msgstr "開発コーナーで利用可能な開発プロセスと参照資料、QGISソースの根元にあるCODINGドキュメントに精通してください。"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:15
+msgid ""
+"Ensure that all code committed to the repository is unencumbered and "
+"compatible with the QGIS license, GPL version 2"
+msgstr ""
+"リポジトリにコミットされたすべてのコードが妨げられていないこと、およびQGISライセンスであるGPLバージョン2と互換性があることを確認してください"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:17
+msgid ""
+"Not use or include any code that will cause a trademark or patent "
+"infringement. If you are unsure, ask on the developer mailing list or "
+"contact a Project Steering Committee member."
+msgstr ""
+"商標または特許侵害の原因となるコードを使用したり、使用したりしないでください。不確かな場合は、開発者のメーリングリストに問い合わせるか、プロジェクト運営委員会のメンバーに連絡してください。"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:20
+msgid "Join the qgis-developer mailing list and contribute to discussions"
+msgstr "qgis-developerのメーリングリストに参加し、議論に貢献してください"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:21
+msgid ""
+"These requirements apply to both developers desiring commit privileges and "
+"those that submit patches."
+msgstr "これらの要件は、コミット権限を望む開発者とパッチを提出する開発者の両方に適用されます。"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:23
+msgid "Read and agree to the :ref:`codeofconduct`."
+msgstr ":ref:`codeofconduct` を読んで同意してください。"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:24
+msgid ""
+"Read and agree to the `Coding Standards "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/codingstandards.html>`_."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:26
+msgid "Read and agree to the :ref:`diversitystatement`."
+msgstr ":ref:`diversitystatement` を読んで同意してください。"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:27
+msgid ""
+"Agree to these requirements by sending an email to the qgis-developer "
+"mailing list stating agreement."
+msgstr "契約書を述べたqgis-developerメーリングリストに電子メールを送って、これらの要件に同意してください。"
+
+#~ msgid "Read and agree to the :ref:`coding_standards`."
+#~ msgstr ":ref:`coding_standards` を読んで同意してください。"

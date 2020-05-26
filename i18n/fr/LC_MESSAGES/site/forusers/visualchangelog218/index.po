@@ -1,0 +1,1369 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# MarieSilvestre, 2016
+# Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2017
+# Benoît de Cabissole, 2018
+# Corentin LEMAITRE <corentinlemaitre@gmail.com>, 2020
+# a00fce65fdff2427915d78cd7ee0a4f6_c16c729 <a55eac686ada07eb8210deda0a39fa35_814277>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-19 17:16+0100\n"
+"PO-Revision-Date: 2016-11-06 13:06+0000\n"
+"Last-Translator: a00fce65fdff2427915d78cd7ee0a4f6_c16c729 <a55eac686ada07eb8210deda0a39fa35_814277>, 2020\n"
+"Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:5
+msgid "Changelog for QGIS 2.18"
+msgstr "Modifications apportées par QGIS 2.18"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:7
+msgid "|image1|"
+msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:10
+msgid ""
+"This is the last release in the 2.x series. The current Long Term Release "
+"(LTR) remains version 2.14.x. This release provides incremental improvements"
+" over our previous release. The majority of activity is currently focussed "
+"towards the development of QGIS 3.0 which is our next generation release "
+"planned for the end of the first quarter of 2017."
+msgstr ""
+"Il s'agit de la dernière version de la série 2.x. La version long terme "
+"(LTR) courante reste la version 2.14.x. La version 2.18.x apporte des "
+"améliorations graduelles par rapport à la version précédente. Le plus gros "
+"de nos efforts est maintenant focalisé sur le développement de la version "
+"3.0 de QGIS qui est notre version nouvelle génération dont la distribution "
+"est prévue pour la fin du premier trimestre 2017."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:15
+msgid "**Thanks**"
+msgstr "**Remerciements**"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:17
+msgid ""
+"We would like to thank the developers, documenters, testers and all the many"
+" folks out there who volunteer their time and effort (or fund people to do "
+"so). From the QGIS community we hope you enjoy this release! If you wish to "
+"donate time, money or otherwise get involved in making QGIS more awesome, "
+"please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
+msgstr ""
+"Nous souhaitons remercier les développeurs, rédacteurs de documentation, "
+"testeurs et tous ceux qui ont volontairement donné du temps (ou donné de "
+"l'argent). La communauté QGIS espère que vous apprécierez cette version ! Si"
+" vous souhaitez donner un peu de votre temps, d'argent ou d'une manière "
+"d'une autre vous impliquer pour rendre QGIS encore plus génial, faites un "
+"tour sur `qgis.org <https://qgis.org>`__ et donnez nous un coup de main !"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:19
+msgid ""
+"QGIS is supported by donors and sponsors. A current list of donors who have "
+"made financial contributions large and small to the project can be seen on "
+"our `donors list <https://qgis.org/en/site/about/sponsorship.html#list-of-"
+"donors>`__. If you would like to become and official project sponsor, please"
+" visit `our sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
+"details. Sponsoring QGIS helps us to fund our six monthly developer "
+"meetings, maintain project infrastructure and fund bug fixing efforts. A "
+"complete list of current sponsors is provided below - our very great thank "
+"you to all of our sponsors!"
+msgstr ""
+"QGIS est soutenu par des donateurs et des sponsors. Une liste actuelle des "
+"donateurs qui ont apporté des contributions financières, grandes et petites,"
+" au projet peut être consultée sur notre «liste de donateurs "
+"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>». __. Si "
+"vous souhaitez devenir et sponsor officiel du projet, veuillez visiter "
+"`notre page de parrainage "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>` __ pour plus "
+"de détails. Le parrainage de QGIS nous aide à financer nos six réunions "
+"mensuelles de développeurs, à maintenir l'infrastructure du projet et à "
+"financer les efforts de correction de bogues. Une liste complète des "
+"sponsors actuels est fournie ci-dessous - merci à tous nos sponsors!"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:21
+msgid ""
+"QGIS is Free software and you are under no obligation to pay anything to use"
+" it - in fact we want to encourage people far and wide to use it regardless "
+"of what your financial or social status is - we believe empowering people "
+"with spatial decision making tools will result in a better society for all "
+"of humanity."
+msgstr ""
+"QGIS est un logiciel libre et vous n'avez aucune obligation de payer quoi "
+"que ce soit pour l'utiliser. En fait, nous souhaitons encourager les gens à "
+"l'utiliser le plus possible, sans s'intéresser à leur état financier ou à "
+"leur statut social. Nous croyons que fournir aux gens des outils "
+"décisionnels spatiaux permettra d'améliorer la société."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:28
+msgid "Sponsors for QGIS version 2.18.0"
+msgstr "Sponsors de QGIS 2.18.0"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:30
+msgid ""
+"Annually we also receive support from various organisations who appreciate "
+"the work we do and would like to facilitate the sustained development effort"
+" that goes into the project. These sponsors are listed below with our "
+"thanks!"
+msgstr ""
+"Chaque année, nous recevons aussi le soutien de diverses organisations qui "
+"apprécient le travail que nous faisons et souhaiteraient faciliter l'effort "
+"de développement soutenu du projet. Ces sponsors sont listés ci-dessous avec"
+" nos remerciements !"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:47
+msgid "Gold sponsors ( 9000 EUR )"
+msgstr "Sponsors Or (9000 EUR)"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:49
+msgid ""
+"|gold| |qgis-ch| `QGIS Usergroup Switzerland <https://www.qgis.ch/>`_, "
+"Switzerland"
+msgstr ""
+"|gold| |qgis-ch| `QGIS Usergroup Switzerland <https://www.qgis.ch/>`_, "
+"Suisse"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:58
+msgid "Silver sponsors ( 3000 EUR )"
+msgstr "Sponsor Argent (3000 EUR)"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:60
+msgid ""
+"|silver| |Land Vorarlberg| `State of Vorarlberg "
+"<http://www.vorarlberg.at/>`_, Austria"
+msgstr ""
+"|silver| |Land Vorarlberg| `State of Vorarlberg "
+"<http://www.vorarlberg.at/>`_, Autriche"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:63
+msgid ""
+"|silver| |Office of Public Works, Flood Risk Management and Data Management "
+"Section| `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland"
+msgstr ""
+"|silver| |Office of Public Works, Flood Risk Management and Data Management "
+"Section| `Bureau des travaux publics, Irlande <http://www.opw.ie/>`_, "
+"Irlande"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:66
+msgid "|silver| |GAIA mbH| `GAIA mbh <http://www.gaia-mbh.de>`_, Germany"
+msgstr "|silver| |GAIA mbH| `GAIA mbh <http://www.gaia-mbh.de>`_, Allemagne"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:69
+msgid ""
+"|silver| |sourcepole| `Sourcepole AG <http://www.sourcepole.com/>`_, "
+"Switzerland"
+msgstr ""
+"|silver| |sourcepole| `Sourcepole AG <http://www.sourcepole.com/>`_, Suisse"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:72
+msgid ""
+"|silver| |QGISusergroupGermany| `QGIS user group Germany "
+"<http://www.qgis.de/>`_, Germany"
+msgstr ""
+"|silver| |QGISusergroupGermany| `QGIS user group Germany "
+"<http://www.qgis.de/>`_, Allemagne"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:77
+msgid "Bronze sponsors ( 500 EUR )"
+msgstr "Sponsors Bronze (500 EUR)"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:79
+msgid "|bronze| |2D3D.GIS|"
+msgstr "|bronze| |2D3D.GIS|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:81
+msgid "`2D3D.GIS <http://www.2d3d-gis.com/>`_"
+msgstr "`2D3D.GIS <http://www.2d3d-gis.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:82
+msgid "|bronze| |Lutra Consulting|"
+msgstr "|bronze| |Lutra Consulting|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:84
+msgid "`Lutra Consulting <http://www.lutraconsulting.co.uk/>`_"
+msgstr "`Lutra Consulting <http://www.lutraconsulting.co.uk/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:86
+msgid "|bronze| |Ager Technology|"
+msgstr "|bronze| |Ager Technology|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:88
+msgid "`Ager Technology <http://www.agertechnology.com/>`_"
+msgstr "`Ager Technology <http://www.agertechnology.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:89
+msgid "|bronze| |MappingGIS|"
+msgstr "|bronze| |MappingGIS|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:91
+msgid "`MappingGIS <http://www.mappinggis.com/>`_"
+msgstr "`MappingGIS <http://www.mappinggis.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:93
+msgid "|bronze| |Asociación Geoinnova|"
+msgstr "|bronze| |Asociación Geoinnova|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:95
+msgid "`Asociación Geoinnova <http://geoinnova.org/>`_"
+msgstr "`Asociación Geoinnova <http://geoinnova.org/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:96
+msgid "|bronze| |Molitec|"
+msgstr "|bronze| |Molitec|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:98
+msgid "`Molitec <http://www.molitec.it/>`_"
+msgstr "`Molitec <http://www.molitec.it/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:100
+msgid "|bronze| |BGEO Open GIS, SL|"
+msgstr "|bronze| |BGEO Open GIS, SL|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:102
+msgid "`BGEO Open GIS, SL <http://www.bgeo.es>`_"
+msgstr "`BGEO Open GIS, SL <http://www.bgeo.es>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:103
+msgid "|bronze| |NCC Roads AB|"
+msgstr "|bronze| |NCC Roads AB|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:105
+msgid "`NCC Roads AB <http://www.ncc.se/en/>`_"
+msgstr "`NCC Roads AB <http://www.ncc.se/en/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:107
+msgid "|bronze| |Cawdor Forestry|"
+msgstr "|bronze| |Cawdor Forestry|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:109
+msgid "`Cawdor Forestry <http://www.cawdorforestry.com/>`_"
+msgstr "`Cawdor Forestry <http://www.cawdorforestry.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:110
+msgid "|bronze| |National Parks UK|"
+msgstr "|bronze| |National Parks UK|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:112
+msgid "`National Parks UK <http://www.nationalparks.gov.uk/>`_"
+msgstr "`National Parks UK <http://www.nationalparks.gov.uk/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:114
+msgid "|bronze| |Urbsol|"
+msgstr "|bronze| |Urbsol|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:116
+msgid "`Urbsol <http://www.urbsol.com.au/>`_"
+msgstr "`Urbsol <http://www.urbsol.com.au/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:117
+msgid "|bronze| |QGIS user group Denmark|"
+msgstr "|bronze| |QGIS user group Denmark|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:119
+msgid "`QGIS user group Denmark <http://www.qgis.dk/>`_"
+msgstr "`QGIS user group Denmark <http://www.qgis.dk/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:121
+msgid "|bronze| |Dr. Kerth + Lampe Geo-Infometric GmbH|"
+msgstr "|bronze| |Dr. Kerth + Lampe Geo-Infometric GmbH|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:123
+msgid ""
+"`Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_"
+msgstr ""
+"`Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:124
+msgid "|bronze| |QGIS user group Portugal|"
+msgstr "|bronze| |QGIS user group Portugal|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:126
+msgid "`QGIS user group Portugal <http://www.qgis.pt/>`_"
+msgstr "`QGIS user group Portugal <http://www.qgis.pt/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:128
+msgid "|bronze| |FORNAT AG|"
+msgstr "|bronze| |FORNAT AG|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:130
+msgid "`FORNAT AG <http://www.fornat.ch/>`_"
+msgstr "`FORNAT AG <http://www.fornat.ch/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:131
+msgid "|bronze| |Royal Borough of Windsor and Maidenhead|"
+msgstr "|bronze| |Royal Borough of Windsor and Maidenhead|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:133
+msgid "`Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_"
+msgstr "`Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:135
+msgid "|bronze| |GEPOL Ltd.|"
+msgstr "|bronze| |GEPOL Ltd.|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:137
+msgid "`GEPOL Ltd. <http://www.gepol.com.pl/>`_"
+msgstr "`GEPOL Ltd. <http://www.gepol.com.pl/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:138
+msgid ""
+"|bronze| |SOLTIG (Soluciones en Tecnologías de Información Geográfica)|"
+msgstr ""
+"|bronze| |SOLTIG (Soluciones en Tecnologías de Información Geográfica)|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:140
+msgid ""
+"`SOLTIG (Soluciones en Tecnologías de Información Geográfica) "
+"<http://www.soltig.net/>`_"
+msgstr ""
+"`SOLTIG (Soluciones en Tecnologías de Información Geográfica) "
+"<http://www.soltig.net/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:142
+msgid "|bronze| |GFI - Gesellschaft für Informationstechnologie mbH|"
+msgstr "|bronze| |GFI - Gesellschaft für Informationstechnologie mbH|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:144
+msgid ""
+"`GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-"
+"gis.de/>`_"
+msgstr ""
+"`GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-"
+"gis.de/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:145
+msgid "|bronze| |Septima|"
+msgstr "|bronze| |Septima|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:147
+msgid "`Septima <http://www.septima.dk/>`_"
+msgstr "`Septima <http://www.septima.dk/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:149
+msgid "|bronze| |GIS Support Sp. z o.o.|"
+msgstr "|bronze| |GIS Support Sp. z o.o.|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:151
+msgid "`GIS Support Sp. z o.o. <http://www.gis-support.com/>`_"
+msgstr "`GIS Support Sp. z o.o. <http://www.gis-support.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:152
+msgid "|bronze| |TYC GIS|"
+msgstr "|bronze| |TYC GIS|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:154
+msgid "`TYC GIS <http://tycgis.com/>`_"
+msgstr "`TYC GIS <http://tycgis.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:156
+msgid "|bronze| |GKG Kassel, (Dr.-Ing. Claas Leiner)|"
+msgstr "|bronze| |GKG Kassel, (Dr.-Ing. Claas Leiner)|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:158
+msgid "`GKG Kassel, (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_"
+msgstr "`GKG Kassel, (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:159
+msgid "|bronze| |Teaching Jobs with Footprints|"
+msgstr "|bronze| |Teaching Jobs with Footprints|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:161
+msgid ""
+"`Teaching Jobs with Footprints <http://www.footprintsrecruiting.com"
+"/teaching-jobs-abroad>`_"
+msgstr ""
+"`Teaching Jobs with Footprints <http://www.footprintsrecruiting.com"
+"/teaching-jobs-abroad>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:163
+msgid "|bronze| |Gaia3D, Inc.|"
+msgstr "|bronze| |Gaia3D, Inc.|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:165
+msgid "`Gaia3D, Inc. <http://www.gaia3d.com/>`_"
+msgstr "`Gaia3D, Inc. <http://www.gaia3d.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:166
+msgid "|bronze| |TerreLogiche|"
+msgstr "|bronze| |TerreLogiche|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:168
+msgid "`TerreLogiche <http://www.terrelogiche.com/>`_"
+msgstr "`TerreLogiche <http://www.terrelogiche.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:170
+msgid "|bronze| |Gis3W|"
+msgstr "|bronze| |Gis3W|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:172
+msgid "`Gis3W <http://www.gis3w.it/>`_"
+msgstr "`Gis3W <http://www.gis3w.it/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:173
+msgid "|bronze| |Trage Wegen vzw|"
+msgstr "|bronze| |Trage Wegen vzw|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:175
+msgid "`Trage Wegen vzw <http://www.tragewegen.be/>`_"
+msgstr "`Trage Wegen vzw <http://www.tragewegen.be/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:177
+msgid "|bronze| |KBB Underground Technologies GmbH|"
+msgstr "|bronze| |KBB Underground Technologies GmbH|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:179
+msgid "`KBB Underground Technologies GmbH <http://www.kbbnet.de/>`_"
+msgstr "`KBB Underground Technologies GmbH <http://www.kbbnet.de/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:180
+msgid "|bronze| |WhereGroup GmbH & Co. KG|"
+msgstr "|bronze| |WhereGroup GmbH & Co. KG|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:182
+msgid "`WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_"
+msgstr "`WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:186
+msgid "General"
+msgstr "Général"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:189
+msgid "Feature: Automatic links in identify results"
+msgstr ""
+"Fonctionnalité : Liens automatiques pour l’identification des résultats"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:191
+msgid ""
+"Any ``http`` or ``mailto`` links within attribute values will now "
+"automatically be converted to clickable links within the identify results "
+"panel."
+msgstr ""
+"Tout lien ``http`` ou ``mailto`` dans des valeurs d'attribut sera "
+"automatiquement converti en lien cliquable dans le panneau d'identification "
+"des résultats."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:193
+msgid "|image58|"
+msgstr "|image58|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:195
+msgid ""
+"This feature was developed by `Sandro Mani (Sourcepole) "
+"<https://sourcepole.ch/>`__"
+msgstr ""
+"Cette fonctionnalité a été développée par `Sandro Mani (Sourcepole) "
+"<https://sourcepole.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:200
+msgid "Feature: Mouse wheel over color dialog sliders"
+msgstr ""
+"Fonctionnalité : Roulette souris sur les curseurs de la boîte de dialogue "
+"des couleurs"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:202
+msgid ""
+"In QGIS 2.18 you can now scroll the mouse wheel over any of the sliders "
+"within the color picker dialog to increment the value by small amounts. This"
+" is a handy shortcut for small tweaks to color components."
+msgstr ""
+"Avec QGIS 2.18 vous pouvez maintenant utiliser la roulette souris au-dessus "
+"des curseurs de la boîte de dialogue de la sélection des couleurs pour faire"
+" varier la valeur par de petits incréments. C'est un raccourci utile pour de"
+" petits ajustements dans les couleurs."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:205
+msgid "|image59|"
+msgstr "|image59|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:207
+msgid ""
+"This feature was funded by `Nyall Dawson (North Road) <http://north-"
+"road.com>`__"
+msgstr ""
+"Cette fonctionnalité a été financée par `Nyall Dawson (North Road) <http"
+"://north-road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:209
+#: ../../source/site/forusers/visualchangelog218/index.rst:220
+#: ../../source/site/forusers/visualchangelog218/index.rst:235
+#: ../../source/site/forusers/visualchangelog218/index.rst:252
+#: ../../source/site/forusers/visualchangelog218/index.rst:264
+#: ../../source/site/forusers/visualchangelog218/index.rst:276
+#: ../../source/site/forusers/visualchangelog218/index.rst:360
+#: ../../source/site/forusers/visualchangelog218/index.rst:374
+#: ../../source/site/forusers/visualchangelog218/index.rst:388
+#: ../../source/site/forusers/visualchangelog218/index.rst:400
+#: ../../source/site/forusers/visualchangelog218/index.rst:422
+#: ../../source/site/forusers/visualchangelog218/index.rst:434
+#: ../../source/site/forusers/visualchangelog218/index.rst:446
+#: ../../source/site/forusers/visualchangelog218/index.rst:458
+#: ../../source/site/forusers/visualchangelog218/index.rst:521
+#: ../../source/site/forusers/visualchangelog218/index.rst:555
+msgid ""
+"This feature was developed by `Nyall Dawson (North Road) <http://north-"
+"road.com>`__"
+msgstr ""
+"Cette fonctionnalité a été développée par `Nyall Dawson (North Road) <http"
+"://north-road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:212
+msgid "Feature: Add custom color schemes to color button drop down menu"
+msgstr ""
+"Fonctionnalité : Ajout de jeux personnalisés de couleurs au menu déroulant "
+"du bouton des couleurs"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:214
+msgid ""
+"QGIS 2.18 adds the ability for users to set whether a user created color "
+"scheme should show up in the color button drop-down menus. This setting is "
+"controlled through the color picker dialog, on the lists tab. Just add a new"
+" color scheme, then from the scheme menu tick the new \"show in buttons\" "
+"option. It's a handy shortcut if you have sets of common palettes and want "
+"them to be instantly available through the color menu."
+msgstr ""
+"QGIS 2.18 ajoute la possibilité pour les utilisateurs d'établir si un jeu "
+"personnalisé de couleurs est disponible dans le menu déroulant des boutons "
+"des couleurs. Ce réglage est contrôlé avec la boîte de dialogue du sélecteur"
+" de couleur, dans l'onglet des listes. Ajoutez simplement un nouveau jeu de "
+"couleur, puis dans le menu de jeu cochez l'option \"Afficher dans les "
+"boutons\". C'est un raccourci utile si vous avez des jeux de palettes "
+"courantes et que vous voulez qu'ils soient immédiatement disponibles par le "
+"menu couleur."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:216
+msgid "|image60|"
+msgstr "|image60|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:218
+#: ../../source/site/forusers/visualchangelog218/index.rst:233
+#: ../../source/site/forusers/visualchangelog218/index.rst:250
+#: ../../source/site/forusers/visualchangelog218/index.rst:274
+#: ../../source/site/forusers/visualchangelog218/index.rst:386
+#: ../../source/site/forusers/visualchangelog218/index.rst:398
+#: ../../source/site/forusers/visualchangelog218/index.rst:420
+#: ../../source/site/forusers/visualchangelog218/index.rst:432
+#: ../../source/site/forusers/visualchangelog218/index.rst:444
+#: ../../source/site/forusers/visualchangelog218/index.rst:456
+#: ../../source/site/forusers/visualchangelog218/index.rst:519
+msgid "This feature was funded by `North Road <http://north-road.com>`__"
+msgstr ""
+"Cette fonctionnalité a été financée par `North Road <http://north-"
+"road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:224
+msgid "Symbology"
+msgstr "Style"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:227
+msgid "Feature: Color picker is now embedded in layer style panel"
+msgstr ""
+"Fonctionnalité : Le sélecteur de couleur est maintenant contenu dans le "
+"panneau de style de couche"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:229
+msgid ""
+"In QGIS 2.18 clicking a color button inside the layer style panel causes the"
+" color picker dialog to be opened inside the style panel itself rather than "
+"as a separate dialog. This allows for interactive modification of colors "
+"with immediate preview of the result."
+msgstr ""
+"Avec QGIS 2.18 cliquer un bouton de couleur dans le panneau de style de "
+"couche affiche la boîte de dialogue du sélecteur de couleur dans le panneau "
+"de style lui-même au lieu d'une boîte de dialogue séparée. Ceci permet de "
+"modifier interactivement les couleurs avec pré-visualisation immédiate des "
+"résultats."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:231
+msgid "|image42|"
+msgstr "|image42|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:239
+msgid "Labelling"
+msgstr "Étiquetage"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:242
+msgid "Feature: Substitution list support for labeling"
+msgstr "Fonctionnalité : Support pour liste de substitution pour l'étiquetage"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:244
+msgid ""
+"Adds the ability to specify a list of text substitutes to make which apply "
+"to label text. Eg abbrevating street types."
+msgstr ""
+"Ajoute la possibilité de fournir une liste de substitution à effectuer dans "
+"les étiquettes de textes. Par ex. abréger les types de rues."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:246
+msgid ""
+"Users can export and import lists of substitutes to make reuse and sharing "
+"easier."
+msgstr ""
+"L'utilisateur peut exporter et importer des listes de substitution pour en "
+"faciliter leur réutilisation et leur partage."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:248
+msgid "|image43|"
+msgstr "|image43|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:256
+msgid "Feature: Improved line label placement algorithm"
+msgstr ""
+"Fonctionnalité : Amélioration de l'algorithme de placement des étiquettes de"
+" ligne"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:258
+msgid ""
+"The parallel labeling mode for line layers has been greatly improved, with a"
+" new algorithm which avoids placing labels over jagged parts of the feature "
+"geometries."
+msgstr ""
+"Le mode d'étiquetage parallèle pour les couche de lignes a été grandement "
+"amélioré, avec un tout nouveau algorithme qui évite de placer les étiquettes"
+" sur les parties dentelées des géométries."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:260
+msgid "|image44|"
+msgstr "|image44|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:262
+#: ../../source/site/forusers/visualchangelog218/index.rst:493
+#: ../../source/site/forusers/visualchangelog218/index.rst:553
+msgid "This feature was funded by Andreas Neumann"
+msgstr "Cette fonctionnalité a été financée par Andreas Neumann."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:268
+msgid "Feature: Label polygons using curved labels along perimeter"
+msgstr ""
+"Fonctionnalité : Étiquetage des polygones avec des étiquettes courbées le "
+"long du périmètre"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:270
+msgid ""
+"This adds a new mode for labeling polygons where the perimeter of the "
+"polygon is labeled using curved labeling."
+msgstr ""
+"Un nouveau mode d'étiquetage des polygones est ajouté dans lequel le "
+"périmètre du polygone est étiqueté avec des étiquettes courbées."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:272
+msgid "|image45|"
+msgstr "|image45|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:280
+msgid "Rendering"
+msgstr "Rendu"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:284
+msgid "Feature: Preview of raster tiles (WMTS and XYZ layers)"
+msgstr ""
+"Fonctionnalité : Pré-visualisation des tuiles raster (couches WMTS et XYZ)"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:286
+msgid ""
+"In previous versions of QGIS, users had to wait until download of all tiles "
+"of a layer has finished in order to view the resulting map. This has now "
+"been fixed and the tiles show up in map canvas immediately as they get "
+"downloaded, improving the user experience by greatly lowering the time until"
+" something is shown. Moreover, previously downloaded tiles from lower or "
+"higher resolutions may be used for the preview functionality in the areas "
+"where the tiles with correct resolution have not been downloaded yet."
+msgstr ""
+"Dans les versions précédentes de QGIS, l'utilisateur devait attendre la fin "
+"du téléchargement de toutes les tuiles d'une couche pour pouvoir la "
+"visualiser. Ce n'est plus le cas maintenant, chaque tuile est affichée dès "
+"qu'elle est téléchargée, améliorant ainsi l'expérience utilisateur en "
+"diminuant significativement le temps d'attente avant affichage. De plus, les"
+" tuiles téléchargées précédemment, en plus haute ou plus faible résolution, "
+"peuvent être utilisées pour la pré-visualisation dans les zones où les "
+"tuiles ayant la bonne résolution n'ont pas encore été téléchargées."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:288
+msgid "|image46|"
+msgstr "|image46|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:290
+#: ../../source/site/forusers/visualchangelog218/index.rst:300
+msgid ""
+"This feature was funded by `Land Information New Zealand "
+"<http://www.linz.govt.nz/>`__"
+msgstr ""
+"Cette fonctionnalité a été financée par `Land Information New Zealand "
+"<http://www.linz.govt.nz/>`__"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:292
+#: ../../source/site/forusers/visualchangelog218/index.rst:302
+#: ../../source/site/forusers/visualchangelog218/index.rst:478
+msgid ""
+"This feature was developed by `Martin Dobias (Lutra Consulting) "
+"<http://www.lutraconsulting.co.uk/>`__"
+msgstr ""
+"Cette fonctionnalité a été développée par `Martin Dobias (Lutra Consulting) "
+"<http://www.lutraconsulting.co.uk/>`__"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:296
+msgid ""
+"Feature: Cancellable rendering of rasters (WMS, WMTS, WCS and XYZ layers)"
+msgstr ""
+"Fonctionnalité : Le rendu des rasters peut être arrêté (couches WMS, WMTS, "
+"WCS et XYZ)"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:298
+msgid ""
+"This enhancement improves user experience when working with raster layers "
+"coming from remote servers. Previously one would need to wait until "
+"downloads are fully complete in order to be able to zoom or pan the map "
+"again, because the user interface would stay frozen in the meanwhile. This "
+"is now fixed by the fact that the rendering of raster layers can be "
+"cancelled any time."
+msgstr ""
+"Cette amélioration augmente l'expérience utilisateur lors d'un travail sur "
+"des couches rasters provenant de serveurs à distance. Précédemment il "
+"fallait attendre la fin du téléchargement pour pouvoir zoomer ou déplacer la"
+" carte, car l'interface utilisateur était gelée en attendant. Ce n'est plus "
+"le cas maintenant car le rendu des couches rasters peut être arrêté à tout "
+"moment."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:306
+msgid "Data Management"
+msgstr "Gestion des Données"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:309
+msgid "Feature: Add flag to only copy selected features"
+msgstr ""
+"Fonctionnalité : Ajout d'un drapeau pour ne copier que les entités "
+"sélectionnées"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:311
+msgid ""
+"The offline editing plugins is a default plugin that ships with QGIS and "
+"allows you to offline a remote dataset (e.g. from a database), edit it in "
+"the field, and then resynchonise it when you get back to your office. This "
+"extends the offline editing possibilities to only work on subset of large "
+"layers."
+msgstr ""
+"L'extension d'édition hors-ligne est une extension de base, livrée avec QGIS"
+" et qui vous permet de modifier des jeux de données distants (ex: depuis une"
+" base de données) lorsque vous êtes hors-ligne, sur le terrain et de "
+"resynchroniser cette saisie lorsque vous êtes de retour au bureau. Cette "
+"amélioration permet d'améliorer les possibilités d'édition en mode hors-"
+"ligne pour travailler uniquement sur un sous-ensemble de couches "
+"volumineuses."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:313
+msgid "|image47|"
+msgstr "|image47|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:315
+#: ../../source/site/forusers/visualchangelog218/index.rst:358
+msgid "This feature was funded by DB Fahrwegdienste GmbH"
+msgstr "Cette fonctionnalité a été financée par DB Fahrwegdienste GmbH"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:317
+#: ../../source/site/forusers/visualchangelog218/index.rst:334
+#: ../../source/site/forusers/visualchangelog218/index.rst:348
+msgid ""
+"This feature was developed by `Matthias Kuhn (OPENGIS.ch) "
+"<http://www.opengis.ch/>`__"
+msgstr ""
+"Cette fonctionnalité a été développée par `Matthias Kuhn (OPENGIS.ch) "
+"<http://www.opengis.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:321
+msgid "Forms and Widgets"
+msgstr "Formes et widgets"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:324
+msgid "Feature: Allow controlling labels for individual edit widgets"
+msgstr ""
+"Fonctionnalité : Permet le contrôle des étiquettes pour les widgets "
+"individuels d'édition"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:326
+msgid ""
+"Allow controlling labels for individual edit widgets in a form. In the drag "
+"and drop designer, a double click on an item will allow controlling if the "
+"label should be shown for each item individually."
+msgstr ""
+"Permet de contrôler les étiquettes des contrôles de formulaire d'édition. "
+"Dans le mode de conception par glisser/déposer, un double clic sur une "
+"entrée permet de contrôler si l'étiquette doit être affichée "
+"individuellement par entrée de formulaire."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:328
+msgid ""
+"In addition it is possible to configure if the link/unlink buttons are shown"
+" in relation reference widget, which is useful to hide in 1:n relations "
+"where a child can't exist without its parents."
+msgstr ""
+"De plus, il est possible de configurer si les boutons lier/délier sont "
+"affichés pour le contrôle de référence de relation, ce qui est pratique pour"
+" masquer les relations 1:n où les enfants ne peuvent exister sans parents."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:330
+msgid "|image48|"
+msgstr "|image48|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:332
+msgid ""
+"This feature was funded by `Kanton Zug, GIS-Fachstelle "
+"<http://geo.zg.ch/>`__"
+msgstr ""
+"Cette fonctionnalité a été financée par `Kanton Zug, GIS-Fachstelle "
+"<http://geo.zg.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:338
+msgid "Feature: Conditional visibility for tabs and group boxes"
+msgstr ""
+"Fonctionnalité: Visibilité conditionnelle des onglets et des boîtes de "
+"groupe"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:340
+msgid ""
+"This adds a new configuration option to conditionally show or hide tabs and "
+"groupboxes in drag and drop designer forms."
+msgstr ""
+"Cette fonctionnalité ajoute une nouvelle option de configuration pour "
+"afficher ou masquer les onglets ou les boîtes de groupe des formulaires en "
+"mode de conception par glisser/déposer de manière conditionnelle."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:342
+msgid ""
+"Configuration is done via a double click in the designer tree in the fields "
+"configuration interface."
+msgstr ""
+"La configuration est accessible via un double clic dans l'arbre de "
+"conception dans l'interface de configuration des champs."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:344
+msgid ""
+"An expression can be entered to control the visibility. The expression will "
+"be re-evaluated everytime values in the form change and the tab or groupbox "
+"shown/hidden accordingly."
+msgstr ""
+"Une expression peut être saisie pour contrôler la visibilité. L'expression "
+"sera ré-évaluée chaque fois que les valeurs du formulaire sont modifiées et "
+"l'onglet ou la boîte de groupe sera affiché/masqué de manière appropriée."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:346
+msgid "|image49|"
+msgstr "|image49|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:352
+msgid "Feature: Client side default field values"
+msgstr "Fonctionnalité: Valeur de champ par défaut du côté client"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:354
+msgid ""
+"Allows an expression to be set for a vector layer field which is used to "
+"evaluate a default value for this field. Default value expressions can "
+"utilise properties of the feature which exist at the time of calling, such "
+"as digitized geometries. Expression variables can also be used in default "
+"value expressions, making it easy to eg insert a user's name, the current "
+"datetime, project path, etc."
+msgstr ""
+"Cette fonctionnalité permet de paramétrer une expression qui sera utilisée "
+"pour définir une valeur par défaut pour un champ de couche vecteur. Les "
+"expressions de valeur par défaut peuvent utiliser les propriétés de l'entité"
+" existantes au moment de l'appel, comme les géométries modifiées. Les "
+"variables d'expression peuvent également être utilisées, facilitant la "
+"saisie d'un nom d'utilisateur, de la date courante, du chemin d'un projet, "
+"etc."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:356
+msgid "|image50|"
+msgstr "|image50|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:363
+msgid "Map Composer"
+msgstr "Composeur de cartes"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:366
+msgid "Feature: True North Arrows"
+msgstr "Fonctionnalité : Vraies flèches du Nord"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:368
+msgid ""
+"QGIS 2.18 adds support for orienting north arrows in the composer to True "
+"North. Previously all arrows were aligned to grid north, which is unsuitable"
+" for polar regions or non-north up projections (such as some South African "
+"projection systems). Now, you can choose to orient arrows to either grid "
+"north or true north. There's also an optional offset angle, which can be "
+"used to specify a grid convergence to make your arrows orient to magnetic "
+"north!"
+msgstr ""
+"QGIS 2.18 ajoute, dans le Composeur, la possibilité d'orienter les flèches "
+"du Nord sur le Vrai Nord. Précédemment toutes les flèches étaient alignées "
+"sur le nord grille, ce qui n'est pas acceptable pour les régions polaires ou"
+" des projections dont le Nord n'est pas vers le haut (tels que certains "
+"systèmes de projection sud-africains). Il est maintenant possible d'orienter"
+" les flèches soit ver le nord grille soit vers le Vrai Nord. Il y a aussi un"
+" angle de décalage optionnel permettant de spécifier une convergence de "
+"grille pour que les flèches s'alignent sur le Nord magnétique !"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:370
+msgid "|image51|"
+msgstr "|image51|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:372
+msgid ""
+"This feature was funded by `Norwegian Polar Institute's Quantarctica project"
+" <http://quantarctica.npolar.no>`__"
+msgstr ""
+"Cette fonctionnalité a été financée par `Norwegian Polar Institute's "
+"Quantarctica project <http://quantarctica.npolar.no>`__"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:377
+msgid "Processing"
+msgstr "Traitements"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:380
+msgid "Feature: Point on surface algorithm"
+msgstr "Fonctionnalité : Algorithme de point sur une surface"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:382
+msgid ""
+"This new algorithm is similar to the centroids algorithm, but where a "
+"centroid may fall outside its corresponding feature the 'Point on surface' "
+"algorithm is guaranteed to create a point which is inside the corresponding "
+"polygon feature (or touching the corresponding line feature for line "
+"layers)."
+msgstr ""
+"Ce nouvel algorithme est similaire à l'algorithme de centroïde, mais alors "
+"qu'un centroïde peut être localisé en dehors de son entité, l'algorithme "
+"'Point sur surface' garantie que le point créé se trouve à l'intérieur de "
+"l'entité polygonale correspondante (ou touchant l'entité de ligne "
+"correspondante pour les couches de lignes)."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:384
+msgid "|image52|"
+msgstr "|image52|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:392
+msgid "Feature: Processing dissolve algorithm accepts multiple fields"
+msgstr ""
+"Fonctionnalité : L'algorithme de dissolution accepte des champs multiples"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:394
+msgid ""
+"The dissolve algorithm now allows you to dissolve based on more than one "
+"field value. In previous QGIS versions a dissolve could only group features "
+"by a single field value."
+msgstr ""
+"L'algorithme de dissolution permet maintenant une dissolution basée sur plus"
+" d'une valeur de champ. Dans les versions précédentes de QGIS une "
+"dissolution ne pouvait grouper des entités que par une seule valeur de "
+"champ."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:396
+msgid "|image53|"
+msgstr "|image53|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:404
+msgid "Feature: Optimised processing clip algorithm"
+msgstr "Fonctionnalité : Algorithme optimisé pour le découpage"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:406
+msgid ""
+"The processing clip algorithm has been optimised for common use scenarios, "
+"resulting in dramatic speedups for clipping operations. For example:"
+msgstr ""
+"L'algorithme de découpage a été optimisé pour les scénarios courants, "
+"conduisant à une amélioration dramatique des opérations de découpage. Par "
+"exemple :"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:408
+msgid "**Clipping a roads layer with 1 million lines against 2 polygons**"
+msgstr ""
+"**Découpage d'une couche de routes ayant 1 million de lignes par 2 "
+"polygones**"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:410
+msgid "**Earlier versions:** 5 mins 30 seconds"
+msgstr "**Versions précédentes :** 5 minutes 30 secondes"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:411
+msgid "**QGIS 2.18:** 10 seconds"
+msgstr "**QGIS 2.18 :** 10 secondes"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:413
+msgid "**Clipping a 5 million point address layer against 2 polygons**"
+msgstr ""
+"**Découpage d'une couche de points de 5 millions d'adresses par 2 "
+"polygones**"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:415
+msgid "**Earlier versions:** 50 minutes"
+msgstr "**Versions précédentes :** 50 minutes"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:416
+msgid "**QGIS 2.18:** 30 seconds"
+msgstr "**QGIS 2.18 :** 30 secondes"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:418
+msgid "|image54|"
+msgstr "|image54|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:426
+msgid "Feature: Bounding boxes algorithm"
+msgstr "Fonctionnalité : Algorithme de cadres limites"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:428
+msgid ""
+"This new algorithm calculates the bounding box (envelope) of each feature in"
+" the input layer."
+msgstr ""
+"Ce nouvel algorithme calcule le cadre limite (enveloppe) de chaque entité de"
+" la couche en entrée."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:430
+msgid "|image55|"
+msgstr "|image55|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:438
+msgid "Feature: Merge connected lines algorithm"
+msgstr "Fonctionnalité : Algorithme pour combiner des lignes connectées"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:440
+msgid ""
+"This algorithm joins all the connected parts of MultiLineString geometries "
+"into single LineString geometries. If any parts of the input MultiLineString"
+" geometries are not connected, the resultant geometry will be a "
+"MultiLineString containing any lines which could be merged and any non-"
+"connected line parts."
+msgstr ""
+"Cet algorithme joins toutes les parties connectées des géométries de chaîne "
+"multi-lignes, MultiLineString, en géométries de chaîne de lignes, "
+"LineString. Si des parties de la chaîne multi-lignes en entrée ne sont pas "
+"connectées, la géométrie en sortie sera une chaîne multi-lignes dans "
+"laquelle les parties pouvant être connectées seront combinées et contenant "
+"aussi les parties non-connectées."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:442
+msgid "|image56|"
+msgstr "|image56|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:450
+msgid "Feature: Geometry boundary algorithm"
+msgstr "Fonctionnalité : Algorithme de limite de géométrie"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:452
+msgid ""
+"This new algorithm returns the closure of the combinatorial boundary of the "
+"input geometries (ie the topological boundary of the geometry). For "
+"instance, a polygon geometry will have a boundary consisting of the "
+"linestrings for each ring in the polygon, and a line geometry will have a "
+"boundary consisting of the start and end points of the line. This algorithm "
+"is only valid for polygon or line layers."
+msgstr ""
+"Ce nouvel algorithme renvoie la limite combinatoire des géométries en entrée"
+" (c'est -à-dire l'enveloppe topologique de la géométrie). Par exemple, une "
+"géométrie de polygone aura une enveloppe constituée par les linéaires multi-"
+"segments de chaque anneau du polygone; une géométrie linéaire aura une "
+"enveloppe constituée des points de départ et d'arrivée de la ligne. Cet "
+"algorithme est valide uniquement pour les couches de polygones ou de lignes."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:454
+msgid "|image57|"
+msgstr "|image57|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:462
+msgid "Data Providers"
+msgstr "Fournisseurs de données"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:465
+msgid "Feature: Native support of XYZ tile layers"
+msgstr "Fonctionnalité : Support natif des couches de tuiles XYZ"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:467
+msgid ""
+"Raster tiles in XYZ format are now natively supported within WMS data "
+"providers, allowing users to display basemaps from other sources without "
+"requiring third-party plugins like QuickMapServices or OpenLayers anymore."
+msgstr ""
+"Les tuiles raster au format XYZ sont maintenant supportées nativement avec "
+"les fournisseurs de données WMS, permettant d'afficher des cartes de base "
+"provenant d'autres sources sans ne plus avoir à recourir à des extensions "
+"telles que QuickMapServices ou OpenLayers."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:469
+msgid ""
+"To add connections to XYZ layers, just open browser dock widget, look for "
+"item called \"Tile Server (XYZ)\" and right click it to get a popup menu "
+"with \"New connection\" action. You will be asked for URL, in which ``{x}``,"
+" ``{y}``, ``{z}`` will be replaced by the actual tile numbers according to "
+"the current map view. For example, to add OpenStreetMap base map, one may "
+"use this URL: ``http://c.tile.openstreetmap.org/{z}/{x}/{y}.png``"
+msgstr ""
+"Pour se connecter aux couches XYZ, ouvrez simplement le widget du "
+"navigateur, cherchez l'élément nommé \"Serveur Tuiles (XYZ)\" et cliquer le "
+"avec le bouton droit pour afficher le menu contextuel ayant l'action "
+"\"Nouvelle connexion\". Une URL sera alors demandée, dans laquelle les "
+"``{x}``, ``{y}``, ``{z}`` seront remplacés par les bons numéros de tuile en "
+"fonction de la vue actuelle sur la carte. Par exemple, pour ajouter une "
+"carte de base OpenStreetMap, on peut utiliser cette URL : "
+"``http://c.tile.openstreetmap.org/{z}/{x}/{y}.png``"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:472
+msgid ""
+"The data provider also supports encoding of XYZ tile numbers into "
+"\"quadkeys\" used by Bing. Simply use ``{q}`` instead of ``{x}``, ``{y}`` "
+"and ``{z}`` in the URL."
+msgstr ""
+"Le fournisseur de données supporte aussi l'encodage des numéros de tuile XYZ"
+" en \"quadkeys\" utilisés par Bing. Utiliser simplement ``{q}`` au lieu de "
+"``{x}``, ``{y}`` et ``{z}`` dans l'URL."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:474
+msgid "|image61|"
+msgstr "|image61|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:476
+msgid ""
+"This feature was funded by `Lutra Consulting "
+"<http://www.lutraconsulting.co.uk/>`__"
+msgstr ""
+"Cette fonctionnalité a été financée par `Lutra Consulting "
+"<http://www.lutraconsulting.co.uk/>`__"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:482
+msgid "QGIS Server"
+msgstr "QGIS Server"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:485
+msgid "Feature: Possibility to segmentize feature info geometry in server"
+msgstr ""
+"Fonctionnalité : Possibilité de segmenter les informations de géométrie "
+"d'une entité sur le serveur"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:487
+msgid ""
+"Necessary for geometries that contain curves (CircularArc, CompoundCurve, "
+"CurvePolygon), but the web client (e.g. QGIS Web Client) can't handle the "
+"display of these geometry types."
+msgstr ""
+"Nécessaire pour des géométries qui contiennent des courbes (ArcCirculaire, "
+"CourbeComposée, PolygoneCourbé), mais le client web (par ex. le Client Web "
+"QGIS) ne peut pas afficher ces types de géométries."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:489
+msgid ""
+"This feature can be enabled in the \"OWS server\" tab in the \"Project "
+"Properties\" dialogue."
+msgstr ""
+"Cette fonctionnalité est activée dans l'onglet \"serveur OWS\" de la boîte "
+"de dialogue \"Propriétés du projet\"."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:491
+msgid "|image62|"
+msgstr "|image62|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:495
+msgid ""
+"This feature was developed by `Marco Hugentobler (Sourcepole) "
+"<http://www.sourcepole.ch/>`__"
+msgstr ""
+"Cette fonctionnalité a été développée par `Marco Hugentobler (Sourcepole) "
+"<http://www.sourcepole.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:499
+msgid "Plugins"
+msgstr "Extensions"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:502
+msgid "Feature: DB Manager: Add the ability to update SQL Layer"
+msgstr ""
+"Fonctionnalité : Gestionnaire de BD : Ajout de la possibilité de mettre à "
+"jour une couche SQL"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:504
+msgid ""
+"With this feature the user can update the layer datasource if it's based on "
+"an SQL request."
+msgstr ""
+"Avec cette fonctionnalité il est possible de mettre à jour la source des "
+"données de la couche si elle est basée sur une requête SQL."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:506
+msgid "This feature was funded by `Ifremer <http://wwz.ifremer.fr>`__"
+msgstr ""
+"Cette fonctionnalité a été financée par l'`Ifremer "
+"<http://wwz.ifremer.fr>`__"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:508
+msgid "This feature was developed by `3Liz <http://3liz.com>`__"
+msgstr "Cette fonctionnalité a été développée par `3Liz <http://3liz.com>`__"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:512
+msgid "Programmability"
+msgstr "Programmation"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:515
+msgid "Feature: Expose GEOS linear referencing function to QgsGeometry"
+msgstr ""
+"Fonctionnalité : Expose la fonction de référencement linéaire de GEOS pour "
+"QgsGeometry"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:517
+msgid ""
+"A new function ``QgsGeometry::lineLocatePoint()`` has been added for "
+"retrieving the distance along a linestring to the nearest position on the "
+"linestring to a given point."
+msgstr ""
+"Une nouvelle fonction ``QgsGeometry::lineLocatePoint()`` a été ajoutée pour "
+"récupérer la distance le long d'une ligne de la plus proche position sur la "
+"ligne jusqu'à un point donné."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:525
+msgid "Feature: New PyQGIS classes in 2.18"
+msgstr "Fonctionnalité : Nouvelles classes PyQGIS en 2.18"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:528
+msgid "New core classes"
+msgstr "Nouvelles classes de base"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:530
+msgid ""
+"`QgsAnnotation <https://qgis.org/api/classQgsAnnotation.html>`__ - an "
+"interface for annotation items which are drawn over a map"
+msgstr ""
+"`QgsAnnotation <https://qgis.org/api/classQgsAnnotation.html>` __ - une "
+"interface pour les éléments d'annotation qui sont dessinés sur une carte"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:531
+msgid ""
+"`QgsFeedback <https://qgis.org/api/classQgsFeedback.html>`__ - a base class "
+"for feedback objects to be used for cancellation of something running in a "
+"worker thread"
+msgstr ""
+"`QgsFeedback <https://qgis.org/api/classQgsFeedback.html>` __ - une classe "
+"de base pour les objets de rétroaction à utiliser pour l'annulation de "
+"quelque chose en cours d'exécution dans un thread de travail"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:532
+msgid ""
+"`QgsOptionalExpression "
+"<https://qgis.org/api/classQgsOptionalExpression.html>`__ - an expression "
+"with an additional enabled flag"
+msgstr ""
+"`QgsOptionalExpression "
+"<https://qgis.org/api/classQgsOptionalExpression.html>` __ - une expression "
+"avec un indicateur activé supplémentaire"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:535
+msgid "New GUI classes, Reusable widgets"
+msgstr "Nouvelles classes de l'IG, widgets réutilisables"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:537
+msgid ""
+"`QgsExpressionLineEdit "
+"<https://qgis.org/api/classQgsExpressionLineEdit.html>`__ - includes a line "
+"edit for entering expressions together with a button to open the expression "
+"creation dialog. This widget is designed for use in contexts where no layer "
+"fields are available for use in an expression and space is constrained."
+msgstr ""
+"`QgsExpressionLineEdit "
+"<https://qgis.org/api/classQgsExpressionLineEdit.html>` __ - comprend une "
+"modification de ligne pour entrer des expressions avec un bouton pour ouvrir"
+" la boîte de dialogue de création d'expression. Ce widget est conçu pour "
+"être utilisé dans des contextes où aucun champ de couche n'est disponible "
+"pour une utilisation dans une expression et où l'espace est limité."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:538
+msgid ""
+"`QgsTabWidget <https://qgis.org/api/classQgsTabWidget.html>`__ - similar to "
+"QTabWidget but with additional methods to temporarily hide/show tabs"
+msgstr ""
+"`QgsTabWidget <https://qgis.org/api/classQgsTabWidget.html>` __ - similaire "
+"à QTabWidget mais avec des méthodes supplémentaires pour masquer / afficher "
+"temporairement les onglets"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:541
+msgid "Feature: New expression functions"
+msgstr "Fonctionnalité: Nouvelles fonctions dans le générateur d'expressions"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:543
+msgid ""
+"QGIS 2.18 adds several new expression functions, including functions for "
+"angle/distance interpolation."
+msgstr ""
+"QGIS 2.18 ajoute plusieurs nouvelles fonctions dans le générateur "
+"d'expressions, y compris des fonctions pour l'interpolation "
+"d'angles/distances."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:545
+msgid ""
+"``line_merge``: merges a MultiLineString geometry into connected LineStrings"
+msgstr ""
+"``line_merge`` : combine une géométrie de chaîne multi-lignes, "
+"MultiLineString, en chaînes de lignes connectées, LineStrings."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:546
+msgid ""
+"``boundary``: returns a geometry's topological boundary, ie for polygons "
+"this is a MultiLineString representing the polygon's rings"
+msgstr ""
+"``boundary`` : renvoie la bordure de la topologie d'une géométrie, par ex. "
+"pour un polygone c'est une chaîne multi-lignes, MultiLineString, "
+"représentant les contours de celui-ci."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:547
+msgid ""
+"``angle_at_vertex``: returns the average (bisector) angle to a geometry at a"
+" specified vertex index"
+msgstr ""
+"``angle_at_vertex``: renvoie l'angle moyen (division en deux) vers une "
+"géométrie au sommet spécifié."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:548
+msgid ""
+"``distance_to_vertex``: returns distance along geometry to a specified "
+"vertex index"
+msgstr ""
+"``distance_to_vertex``: renvoie la distance le long de la géométrie par "
+"rapport à un sommet spécifié."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:549
+msgid ""
+"``line_interpolate_angle``: calculates the angle parallel to a geometry at "
+"the specified distance along the geometry"
+msgstr ""
+"``line_interpolate_angle``: calcule l'angle parallèle à une géométrie à une "
+"distance spécifique le long d'une géométrie."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:550
+msgid "``line_interpolate_point``: returns a point on line at distance"
+msgstr ""
+"``line_interpolate_point``: renvoie un point situé sur la ligne à une "
+"distance donnée."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:551
+msgid ""
+"``line_locate_point``: returns distance along line to nearest line location "
+"closest to specified point"
+msgstr ""
+"``line_locate_point``: renvoie la distance le long de la ligne à "
+"l'emplacement de ligne le plus proche, la plus proche d'un point spécifique."
+
+#~ msgid "|bronze| |ChameleonJohn|"
+#~ msgstr "|bronze| |ChameleonJohn|"
+
+#~ msgid "`ChameleonJohn <http://www.chameleonjohn.com/>`_"
+#~ msgstr "`ChameleonJohn <http://www.chameleonjohn.com/>`_"
+
+#~ msgid "|bronze| |HostingFacts.com (Online only ou)|"
+#~ msgstr "|bronze| |HostingFacts.com (Online only ou)|"
+
+#~ msgid "`HostingFacts.com (Online only ou) <https://hostingfacts.com/>`_"
+#~ msgstr "`HostingFacts.com (Online only ou) <https://hostingfacts.com/>`_"

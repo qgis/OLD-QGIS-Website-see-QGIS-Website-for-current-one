@@ -1,0 +1,29 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-22 11:32+0100\n"
+"PO-Revision-Date: 2017-09-20 03:45+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: ../../source/site/getinvolved/development/pythonplugindevelopment.rst:5
+msgid "Developing Python plugins"
+msgstr "Розробка плаґінів на Python"
+
+#: ../../source/site/getinvolved/development/pythonplugindevelopment.rst:7
+msgid "Easiest way to start is using the Plugin Builder plugin in QGIS."
+msgstr "Простіше за все почати з використання плаґіна Plugin Builder."
+
+#: ../../source/site/getinvolved/development/pythonplugindevelopment.rst:9
+msgid ""
+"Search for 'Plugin Builder' in the plugin manager of QGIS, or read up here: "
+"http://plugins.qgis.org/plugins/pluginbuilder/"
+msgstr "Знайдіть «Plugin Builder» у менеджері плаґінів QGIS або прочитайте про нього тут http://plugins.qgis.org/plugins/pluginbuilder/."

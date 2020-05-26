@@ -1,0 +1,197 @@
+# 
+# Translators:
+# fairtommy <fairtommy@gmail.com>, 2018-2019
+# fairtommy <fairtommy@gmail.com>, 2017-2018
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-05 15:28+0200\n"
+"PO-Revision-Date: 2019-10-31 03:47+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:4
+msgid "Using the processing toolbox to automate snow classification"
+msgstr "プロセシングツールボックスを使用して雪の分類を自動化する"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:6
+msgid ""
+"Snowy Hydro Limited (SHL) is a peak electricity generator based in the Snowy"
+" Mountains of New South Wales, Australia. Despite owning a variety of "
+"generation assets across the country, Snowy Hydro Limited is best known for "
+"the custodianship of an iconic piece of Australian infrastructure, the Snowy"
+" Mountains Hydro Electric Scheme."
+msgstr "大雪水力株式会社（SHL）は、ニューサウスウェールズ州、オーストラリアの大雪山に基盤を置くピーク時発電の会社です。大雪水力株式会社は、全国に多様な発電資産を所有しているにもかかわらず、オーストラリアのインフラの象徴的な作品、大雪山水力発電スキームの管理権が最も有名です。"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:9
+msgid ""
+"The Snowy Mountains Hydro Electric Scheme, is made possible by seasonal snow"
+" falls in the New South Wales alpine region. Water from the spring snow melt"
+" is used to generate electricity addressing peak demand in the national "
+"electricity market, while also diverting water to the drier inland areas of "
+"South Eastern Australia for irrigation and agriculture."
+msgstr "大雪山水力発電スキームは、ニューサウスウェールズ州の山岳地域での季節的降雪によって可能になります。春の雪解けの水は国家電力市場のピーク需要に対処する電気を生成するために使用されますが、また同時に、南オーストラリア東部のより乾燥した内陸部に灌漑農業のために水を流用しています。"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:12
+msgid ""
+"Classifying snow cover over the winter months allows SHL to monitor the life"
+" cycle of the snow covered area, archive coverage areas for historical "
+"records, and provide coverage statistics to the hydrographic services team "
+"for water yield and storage forecasts."
+msgstr "冬月にわたる積雪を分類することで、SHLでは積雪地域のライフサイクルを監視し、積雪地域の歴史的記録を保管し、水収率および貯水の予測のために積雪の統計情報を水路サービスチームへ提供できます。"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:20
+msgid "Map 1.1 Snowy Water Catchment Map"
+msgstr "地図1.1　雪に覆われた水の流域地図"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:23
+msgid "Background"
+msgstr "背景"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:25
+msgid ""
+"Each year during the winter months (1st June to the 31st October) SHL "
+"obtains as many cloud free images as possible from the MODIS Terra (EOS AM) "
+"satellite. These images are then ingested into an algorithm known as the "
+"Normalised Difference Snow Index (NDSI), which is used to indicate areas "
+"where snow is present. While this algorithm is not unique to any one "
+"particular sensor, the MODIS instrument was chosen due to its adequate "
+"spatial resolution and daily coverage of the project area (Map 1.1 Snowy "
+"Water Catchment)."
+msgstr "毎年冬の間（10月31日から6月1日まで）、SHLはMODISテラ（EOS AM）衛星からできるだけ多くの雲のない画像を得ます。これらの画像は、その後、雪が存在する領域を示すために使用される正規化差分降雪指数（NDSI）として知られているアルゴリズムに摂取されます。このアルゴリズムはいずれか1つの特定のセンサに固有のものではありませんが、MODISの装置がその十分な空間分解能とプロジェクトエリア（1.1雪に覆われた水の流域の地図）の日々のカバーのために選ばれました。"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:29
+msgid "Aim"
+msgstr "目的"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:31
+msgid ""
+"The aim of this project is to automate the NDSI workflow as a model in the "
+"QGIS processing toolbox. The required output is a vector polygon showing the"
+" snow covered extent within the Snowy Water Catchment, along with "
+"attribution describing the total area covered in square kilometres."
+msgstr "このプロジェクトの目的は、NDSIのワークフローをQGIS処理ツールボックス内のモデルとして自動化することです。必要な出力は、雪水流域内の雪に覆われた範囲を示すベクターポリゴンで、雪に覆われた総面積を平方キロメートルで記述する属性と一緒にしたものです。 "
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:35
+msgid "Method"
+msgstr "方法"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:37
+msgid ""
+"The NDSI algorithm itself is quite simple (show below in Formula 1.1 - "
+"Normalised Difference Snow Index (NDSI)) and the subsequent steps required "
+"to extract snow cover in a vector format also lends itself nicely to a "
+"processing toolbox model."
+msgstr "NDSIアルゴリズム自体は非常に簡単です（以下式1.1に示す - 正規化差分降雪指数（NDSI））と積雪をベクター形式で抽出するために必要なその後の工程は、プロセッシングツールボックスモデルにうまく適しています。"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:44
+msgid "Formula 1.1 - Normalised Difference Snow Index (NDSI)"
+msgstr "式1.1 - 正規化差分降雪指数（NDSI）"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:47
+msgid ""
+"This NDSI algorithm will return results between -1 and 1, with the threshold"
+" for snow typically being values greater than 0.4. An example of the NDSI "
+"output is shown below (Map 1.3 - NDSI output), alongside a natural colour "
+"image (Map 1.2 - MODIS true colour) for the 13th July 2014. As seen from "
+"these images the NDSI output is very good at discriminating snow covered "
+"areas from other land cover types and clouds. It can however misclassify "
+"portions of large water bodies as snow, caused by water having absorption "
+"characteristics in the Near Infrared part of the spectrum. This "
+"characteristic of the NDSI indicates the need to incorporate a water mask at"
+" some stage in the model."
+msgstr "このNDSIアルゴリズムは-1と1の間で結果を返し、雪のための閾値は典型的には0.4よりも大きな値です。2014年7月13日について、自然色の画像（地図1.2 -MODISトゥルーカラー）と一緒にNDSI出力の例（地図1.3-NDSI出力）を以下に示します。これらの画像からわかるように、NDSI出力は雪で覆われた領域を他の土地被覆タイプおよび雲から弁別するのは非常に得意です。しかしながら、スペクトルの近赤外部分に吸収特性を有する水によって引き起こされる大きな水域の一部を雪と誤分類することがありえます。NDSIのこの特性は、モデル内のいくつかの段階で水マスクを組み込む必要性を示しています。"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:55
+msgid "Map 1.2 - MODIS true colour"
+msgstr "地図1.2 - MODISトゥルーカラー"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:62
+msgid "Map 1.3 - NDSI output"
+msgstr "地図1.3 - NDSI出力"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:69
+msgid "Map 1.4 - Recoded \"Snow\" vs \"Non snow\""
+msgstr "地図1.4 - 「非雪」対「雪」録画"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:72
+msgid ""
+"The NDSI output is created with some very simple band map by using the GRASS"
+" module \"r.mapcalculator\". Once the NDSI grid was available the NDSI "
+"threshold of 0.4 needed to be applied and this would result in a boolean "
+"grid depicting \"Snow\" and \"Non snow\" areas. To get that classification "
+"another GRASS module \"r.recode\" was used and produced the result shown "
+"above in Map 1.4 Recoded ‘Snow’ vs ‘Non Snow’."
+msgstr "NDSI出力はGRASSモジュール「r.mapcalculator」を用いて、いくつかの非常にシンプルなバンド・マップを使用して作成されます。NDSIグリッドが利用可能になったら0.4のNDSIしきい値が適用されることが必要で、この結果は「雪」と「非雪」の領域を描くブール値グリッドになるでしょう。その分類を取得するために、別のGRASSモジュール「r.recode」を使用し、地図1.4『「非雪」VS「雪」再コード化』に示す結果を作成しました。"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:75
+msgid ""
+"The recoded grid was then converted to a vector polygon dataset and the snow"
+" covered areas were extracted (shown below, Map 1.5 - Extracted snow). The "
+"snow covered areas were then clipped to the Snowy Water Catchment  (shown "
+"below, Map - 1.6 Snow inside the SWC), then the large water bodies are "
+"masked out (shown below, Map 1.7 - Final snow covered area), and finally the"
+" area statistics for the snow covered area is generated."
+msgstr "再符号化グリッドは、次いで、ベクターポリゴンデータセットに変換され、雪で覆われた領域が抽出されました（以下に示す、地図1.5 - 抽出された雪）。雪に覆われた領域は、その後雪に覆われた水流域にクリップされた（下に示す地図1.6 - SWC内部の雪）、その後、大規模な水域を出てマスクされている（下に示す地図1.7 - 最終的な雪に覆われた領域）を、そして最後エリア雪に覆われた面積の統計が生成されます。"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:83
+msgid "Map 1.5 - Extracted Snow"
+msgstr "地図1.5 - 抽出された雪"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:90
+msgid "Map 1.6 - Snow inside the SWC"
+msgstr "地図1.6 - SWC内部の雪"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:97
+msgid "Map 1.7 - Final snow covered area"
+msgstr "地図1.7 - 最終雪に覆われた面積"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:100
+msgid ""
+"The output from the model is a vector polygon showing the snow covered area "
+"within the Snowy Water Catchment. The attributes of the polygon include the "
+"area covered by the snow and the percentage of the catchment that is "
+"covered. The model in its entirety can be seen below in \"Image 1.1 - "
+"Normalised Difference Snow Index (NDSI) QGIS processing toolbox model\"."
+msgstr "モデルからの出力は、雪に覆われた水流域内の雪に覆われた領域を示すベクターポリゴンです。ポリゴンの属性は、雪に覆われた領域と覆われている流域の割合が含まれます。その全体モデルは下の「画像1.1 - 正規化後差分雪指数（NDSI）、QGIS処理ツールボックスモデル」に見ることができます。"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:108
+msgid ""
+"Image 1.1 - Normalised Difference Snow Index (NDSI) QGIS processing toolbox "
+"model"
+msgstr "画像1.1 - 正規化後差分雪指数（NDSI）QGIS処理ツールボックスモデル"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:112
+msgid "Results/Conclusion"
+msgstr "結果/結論"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:114
+msgid ""
+"The QGIS processing toolbox is a powerful way to automate a workflow such as"
+" this snow classification. The model shown above successfully automates the "
+"snow classification process, and delivers a GIS dataset that can be used for"
+" visualisation and input into further statistical applications. It "
+"successfully removes subjective user error associated with previous methods "
+"used by SHL, while providing a repeatable and consistent classification "
+"tool. Some seasonal results can be viewed here."
+msgstr "QGIS処理ツールボックスはこの雪の分類のようなワークフローを自動化するための強力な方法です。上に示したモデルは、雪分類プロセスを上手く自動化し、さらに統計的アプリケーションに可視化し、入力に使用できるGISデータセットを提供します。再現性および一貫性の分類ツールを提供しながら、SHLで使用されていた以前の方法に関連づいた主観的なユーザエラーを上手く除去します。いくつかの季節の結果をここで見ることができます。"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:118
+msgid "Author"
+msgstr "制作者"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:120
+msgid ""
+"Andrew Jeffrey is a GIS Analyst with Snowy Hydro Limited based in Cooma NSW,"
+" Australia. He graduated from Charles Sturt University in Wagga Wagga with a"
+" Bachelor of Science (Bsc) majoring in Spatial Information Systems in 2004. "
+"While at Snowy Hydro Limited he has been able to provide spatial support to "
+"exciting projects such as the Cloud Seeding experiment, and day to day "
+"operations within the organisation."
+msgstr "アンドリュー・ジェフリーは、オーストラリアのニューサウスウェールズ州クーマに拠点を置く大雪水力株式会社に勤務するGISアナリストです。氏は科学の学士（BSC）、空間情報システム専攻で、ワガワガのチャールズ・スタート大学を2004年に卒業しました。大雪水力株式会社にいる間、氏は人工降雨実験のようなエキサイティングなプロジェクト、および組織内の日常業務へに空間的なサポートを提供することができました。"

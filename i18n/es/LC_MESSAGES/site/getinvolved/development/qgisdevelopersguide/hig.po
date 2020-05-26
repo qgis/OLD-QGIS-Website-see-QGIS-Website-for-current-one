@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# 
+# Translators:
+# YoViajo, 2016
+# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"PO-Revision-Date: 2020-01-16 23:52+0000\n"
+"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:3
+msgid "HIG (Human Interface Guidelines)"
+msgstr "GIH (Guías de Interfaz Humano)"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:5
+msgid ""
+"In order for all graphical user interface elements to appear consistant and "
+"to all the user to instinctively use dialogs, it is important that the "
+"following guidelines are followed in layout and design of GUIs."
+msgstr "Para que todos los elementos de la interfaz gráfica de usuario parezcan coherentes y para que todos los usuarios utilicen los cuadros de diálogo instintivamente, es importante que se sigan las siguientes pautas en el diseño y el diseño de las GUI."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:9
+msgid ""
+"Group related elements using group boxes: Try to identify elements that can "
+"be grouped together and then use group boxes with a label to identify the "
+"topic of that group. Avoid using group boxes with only a single widget / "
+"item inside."
+msgstr "Agrupe elementos relacionados usando cuadros de grupo: intente identificar elementos que se puedan agrupar y luego use cuadros de grupo con una etiqueta para identificar el tema de ese grupo. Evite usar cuadros de grupo con solo un único widget/elemento dentro."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:13
+msgid ""
+"Capitalise first letter only in labels: Labels (and group box labels) should"
+" be written as a phrase with leading capital letter, and all remaining words"
+" written with lower case first letters"
+msgstr "Escriba en mayúscula la primera letra solo en etiquetas, información sobre herramientas, texto descriptivo y otro texto sin título o título: deben escribirse como una frase con mayúscula inicial, y todas las palabras restantes escritas con primeras letras minúsculas, a menos que sean sustantivos"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:16
+msgid ""
+"Do not end labels for widgets or group boxes with a colon: Adding a colon "
+"causes visual noise and does not impart additional meaning, so don't use "
+"them. An exception to this rule is when you have two labels next to each "
+"other e.g.: Label1 Plugin (Path:) Label2 [/path/to/plugins]"
+msgstr "No termine las etiquetas de widgets o cuadros de grupo con dos puntos: al agregar dos puntos se produce ruido visual y no le da un significado adicional, por lo tanto, no los use. Una excepción a esta regla es cuando tiene dos etiquetas una al lado de la otra, por ejemplo, Label1 Plugin (Path:) Label2 [/path/to/plugins]"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:20
+msgid ""
+"Keep harmful actions away from harmless ones: If you have actions for "
+"'delete', 'remove' etc, try to impose adequate space between the harmful "
+"action and innocuous actions so that the users is less likely to "
+"inadvertantly click on the harmful action."
+msgstr "Mantenga las acciones dañinas lejos de las inofensivas: si tiene acciones para 'eliminar', 'eliminar', etc., intente imponer un espacio adecuado entre la acción dañina y las acciones inocuas para que los usuarios tengan menos probabilidades de hacer clic inadvertidamente en la acción dañina."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:24
+msgid ""
+"Always use a QButtonBox for 'OK', 'Cancel' etc buttons: Using a button box "
+"will ensure that the order of 'OK' and 'Cancel' etc, buttons is consistent "
+"with the operating system / locale / desktop environment that the user is "
+"using."
+msgstr "Utilice siempre un QButtonBox para los botones 'Aceptar', 'Cancelar', etc.: el uso de un cuadro de botones garantizará que el orden de los botones 'Aceptar' y 'Cancelar', etc. usando."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:28
+msgid ""
+"Tabs should not be nested. If you use tabs, follow the style of the tabs "
+"used in QgsVectorLayerProperties / QgsProjectProperties etc. i.e. tabs at "
+"top with icons at 22x22."
+msgstr "Las pestañas no deben estar anidadas. Si usa pestañas, siga el estilo de las pestañas utilizadas en QgsVectorLayerProperties/QgsProjectProperties, etc. pestañas en la parte superior con iconos a 22x22."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:31
+msgid ""
+"Widget stacks should be avoided if at all possible. They cause problems with"
+" layouts and inexplicable (to the user) resizing of dialogs to accommodate "
+"widgets that are not visible."
+msgstr "Se deben evitar las pilas de widgets si es posible. Causan problemas con los diseños y el redimensionamiento inexplicable (para el usuario) de los cuadros de diálogo para acomodar widgets que no son visibles."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:34
+msgid ""
+"Try to avoid technical terms and rather use a laymans equivalent e.g. use "
+"the word 'Transparency' rather than 'Alpha Channel' (contrived example), "
+"'Text' instead of 'String' and so on."
+msgstr "Trate de evitar términos técnicos y, en su lugar, use un equivalente común, p.ej. use la palabra 'Transparente' en lugar de 'canal alfa' (ejemplo artificial), 'texto' en lugar de 'cadena' y así sucesivamente."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:37
+msgid ""
+"Use consistent iconography. If you need an icon or icon elements, please "
+"contact Robert Szczepanek on the mailing list for assistance."
+msgstr "Usa iconografía consistente. Si necesita un ícono o elementos de ícono, comuníquese con Robert Szczepanek en la lista de correo para obtener ayuda."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:39
+msgid ""
+"Place long lists of widgets into scroll boxes. No dialog should exceed 580 "
+"pixels in height and 1000 pixels in width."
+msgstr "Coloque largas listas de widgets en cuadros de desplazamiento. Ningún cuadro de diálogo debe exceder los 580 píxeles de alto y 1000 píxeles de ancho."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:41
+msgid ""
+"Separate advanced options from basic ones. Novice users should be able to "
+"quickly access the items needed for basic activities without needing to "
+"concern themselves with complexity of advanced features. Advanced features "
+"should either be located below a dividing line, or placed onto a separate "
+"tab."
+msgstr "Separe las opciones avanzadas de las básicas. Los usuarios novatos deberían poder acceder rápidamente a los elementos necesarios para las actividades básicas sin tener que preocuparse por la complejidad de las funciones avanzadas. Las funciones avanzadas deben ubicarse debajo de una línea divisoria o ubicarse en una pestaña separada."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:45
+msgid ""
+"Don't add options for the sake of having lots of options. Strive to keep the"
+" user interface minimalistic and use sensible defaults."
+msgstr "No agregue opciones por el simple hecho de tener muchas opciones. Esfuércese por mantener la interfaz de usuario minimalista y use valores predeterminados sensibles."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:47
+msgid ""
+"If clicking a button will spawn a new dialog, an ellipsis (...) should be "
+"suffixed to the button text."
+msgstr "Si al hacer clic en un botón se generará un nuevo cuadro de diálogo, se colocarán puntos suspensivos (...) en el texto del botón."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:52
+msgid "Authors"
+msgstr "Autores"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:54
+msgid "Tim Sutton (author and editor)"
+msgstr "Tim Sutton (autor y editor)"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:55
+msgid "Gary Sherman"
+msgstr "Gary Sherman"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:56
+msgid "Marco Hugentobler"
+msgstr "Marco Hugentobler"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:57
+msgid "Matthias Kuhn"
+msgstr "Matthias Kuhn"

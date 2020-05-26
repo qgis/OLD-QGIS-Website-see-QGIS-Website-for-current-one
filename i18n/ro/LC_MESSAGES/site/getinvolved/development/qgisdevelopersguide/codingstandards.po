@@ -1,0 +1,515 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# 
+# Translators:
+# Sorin Călinică <scalinica@gmail.com>, 2016-2017,2019
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-19 17:16+0100\n"
+"PO-Revision-Date: 2019-09-05 17:56+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:4
+msgid "QGIS Coding Standards"
+msgstr "Standardele de codificare QGIS "
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:7
+msgid "These standards should be followed by all QGIS developers."
+msgstr "Aceste standarde ar trebui să fie urmate de către toți dezvoltatorii QGIS."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:10
+msgid "Classes"
+msgstr "Clasele"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:14
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:91
+msgid "Names"
+msgstr "Denumirile"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:16
+msgid "Class in QGIS begin with Qgs and are formed using camel case."
+msgstr "Clasele din QGIS sunt prefixate cu Qgs, iar fiecare cuvânt începe cu majusculă."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:18
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:70
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:141
+msgid "Examples:"
+msgstr "Exemple::"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:20
+msgid "``QgsPoint``"
+msgstr "``QgsPoint``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:21
+msgid "``QgsMapCanvas``"
+msgstr "``QgsMapCanvas``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:22
+msgid "``QgsRasterLayer``"
+msgstr "``QgsRasterLayer``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:26
+msgid "Members"
+msgstr "Membrii"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:29
+msgid ""
+"Class member names begin with a lower case m and are formed using mixed "
+"case."
+msgstr "Denumirile membrilor claselor sunt prefixate cu litera m."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:32
+msgid "``mMapCanvas``"
+msgstr "``mMapCanvas``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:33
+msgid "``mCurrentExtent``"
+msgstr "``mCurrentExtent``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:35
+msgid ""
+"All class members should be private. Public class members are STRONGLY "
+"discouraged"
+msgstr "Toți membrii claselor ar trebui să fie privați. Membrii publici ai claselor sunt PUTERNIC descurajați"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:40
+msgid "Accessor Functions"
+msgstr "Funcțiile Accesor"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:43
+msgid ""
+"Class member values should be obtained through accesssor functions. The "
+"function should be named without a get prefix. Accessor functions for the "
+"two private members above would be:"
+msgstr "Valorile membrilor unei clase pot fi obținute prin intermediul funcțiilor accesor. Numele acestora nu ar trebui să înceapă cu un prefix. Funcțiile accesor pentru cei doi membri privați de mai sus ar putea fi:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:47
+msgid "``mapCanvas()``"
+msgstr "``mapCanvas()``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:48
+msgid "``currentExtent()``"
+msgstr "``currentExtent()``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:52
+msgid "Functions"
+msgstr "Funcțiile"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:55
+msgid ""
+"Function names begin with a lowercase letter and are formed using mixed "
+"case. The function name should convey something about the purpose of the "
+"function."
+msgstr "Numele funcțiilor încep cu literă mică și conține majuscule și minuscule. Numele funcțiilor ar trebui să indice scopul acestora."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:58
+msgid "``updateMapExtent()``"
+msgstr "``updateMapExtent()``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:59
+msgid "``setUserOptions()``"
+msgstr "``setUserOptions()``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:62
+msgid "Qt Designer"
+msgstr "Qt Designer"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:65
+msgid "Generated Classes"
+msgstr "Clasele Generate"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:67
+msgid ""
+"QGIS classes that are generated from Qt Designer (ui) files should have a "
+"Base suffix. This identifies the class as a generated base class."
+msgstr "Clasele QGIS care sunt generate în fișierele produse de Qt Designer (UI) ar trebui să aibă sufixul Base. Acest lucru identifică o clasă de bază, generată."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:72
+msgid "``QgsPluginManagerBase``"
+msgstr "``QgsPluginManagerBase``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:73
+msgid "``QgsUserOptionsBase``"
+msgstr "``QgsUserOptionsBase``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:77
+msgid "Dialogs"
+msgstr "Dialoguri"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:79
+msgid "All dialogs should implement the following:"
+msgstr "Toate ferestrele de dialog ar trebui să pună în aplicare următoarele:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:81
+msgid "Tooltip help for all toolbar icons and other relevant widgets"
+msgstr "Ajutorul pentru toate pictogramele din barele de instrumente și pentru alte controale grafice relevante"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:82
+msgid "WhatsThis help for all widgets on the dialog"
+msgstr "Ajutorul WhatsThis pentru toate controalele de pe ferestrele de dialog"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:85
+msgid "An optional (though highly recommended) context sensitive Help button"
+msgstr "Un buton de ajutor opțional (deși foarte recomandat) sensibil la context"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:84
+msgid ""
+"that directs the user to the appropriate help page by launching their web "
+"browser"
+msgstr "care direcționează utilizatorul către pagina de ajutor corespunzătoare, prin lansarea navigatorului web"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:88
+msgid "C++ Files"
+msgstr "Fișierele C++"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:93
+msgid ""
+"C++ implementation and header files should have a .cpp and .h extension "
+"respectively. Filename should be all lowercase and, in the case of classes, "
+"match the class name."
+msgstr "Fișierele antet și de implementare C++ ar trebui să aibă extensiile .h, respectiv .cpp. Numele de fișier ar trebui să conțină doar litere mici și, în cazul claselor, să se potrivească numelui clasei."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:97
+msgid ""
+"Example: Class ``QgsFeatureAttribute`` source files are "
+"``qgsfeatureattribute.cpp`` and ``qgsfeatureattribute.h``"
+msgstr "Exempli: fișierele sursă ale clasei ``QgsFeatureAttribute`` sunt ``qgsfeatureattribute.h`` și ``qgsfeatureattribute.cpp``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:101
+msgid ""
+"In case it is not clear from the statement above, for a filename to match a "
+"class name it implicitly means that each class should be declared and "
+"implemented in its own file. This makes it much easier for newcomers to "
+"identify where the code is relating to specific class."
+msgstr "În cazul în care nu este clară indicația de mai sus, cerința ca numele de fișier să se potrivească numelui de clasă, arată că, implicit, fiecare clasă trebuie să fie declarată și implementată în propriul fișier. Acest lucru facilitează nou-veniților identificarea codului care este specific anumitor clase."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:108
+msgid "Standard Header and License"
+msgstr "Antetul Standard și Licența"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:110
+msgid ""
+"Each source file should contain a header section patterned after the "
+"following example:"
+msgstr "Fiecare fișier sursă trebuie să conțină o secțiune antet, în conformitate cu exemplul următor:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:130
+msgid ""
+"There is a template for Qt Creator in git. To use it, copy it from "
+"``doc/qt_creator_license_template`` to a local location, adjust the mail "
+"address and - if required - the name and configure QtCreator to use it: "
+"``Tools`` -> ``Options`` -> ``C++`` -> ``File Naming``."
+msgstr "Există un șablon pentru Qt Creator în git. Pentru a-l utiliza, copiați-l din ``doc/qt_creator_license_template`` într-un dosar local, ajustați adresa e-mail și numele - dacă este necesar - apoi configurați QtCreator pentru a-l folosi: ``Instrumente`` -> ``Opțiuni`` -> ``C++`` -> ``Denumirea Fișierului``."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:137
+msgid "Variable Names"
+msgstr "Numele Variabilelor"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:139
+msgid ""
+"Local variable names begin with a lower case letter and are formed using "
+"mixed case."
+msgstr "Numele variabilelor locale încep cu o literă mică, utilizând majuscule și minuscule."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:143
+msgid "``mapCanvas``"
+msgstr "``mapCanvas``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:144
+msgid "``currentExtent``"
+msgstr "``currentExtent``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:148
+msgid "Enumerated Types"
+msgstr "Tipurile Enumerate"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:150
+msgid ""
+"Enumerated types should be named in CamelCase with a leading capital e.g.:"
+msgstr "Tipurile enumerate ar trebui să fie denumite folosind CamelCase, începând cu o mmajusculă, de ex.:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:162
+msgid ""
+"Do not use generic type names that will conflict with other types. e.g. use "
+"``UnkownUnit`` rather than ``Unknown``"
+msgstr "Nu utilizați tipuri de nume generice, care vor intra în conflict cu alte tipuri. De ex., folosiți mai degrabă ``UnkownUnit`` decât ``Unknown``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:166
+msgid "Global Constants & Macros"
+msgstr "Constantele locale și Comenzile Macro"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:168
+msgid ""
+"Global constants and macros should be written in upper case underscore "
+"separated e.g.:"
+msgstr "Constantele locale și comenzile macro ar trebui să fie scrise cu majuscule, separate cu ajutorul caracterului de subliniere, de ex .:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:175
+msgid "Comments"
+msgstr "Comentarii"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:177
+msgid ""
+"Comments to class methods should use a third person indicative style instead"
+" of the imperative style:"
+msgstr "Comentariile din metodele clasei ar trebui să utilizeze un stil care să indice o terță persoană, în locul unui stil imperativ:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:190
+msgid "Editing"
+msgstr "Editarea"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:192
+msgid ""
+"Any text editor/IDE can be used to edit QGIS code, providing the following "
+"requirements are met."
+msgstr "Orice editor de text/IDE poate fi folosit pentru a edita codul QGIS, oferind garanția că sunt îndeplinite următoarele cerințe."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:196
+msgid "Tabs"
+msgstr "Caracterele TAB"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:198
+msgid ""
+"Set your editor to emulate tabs with spaces. Tab spacing should be set to 2 "
+"spaces."
+msgstr "Setați în editorul dvs. emularea TAB-ului cu ajutotul spațiilor albe. Ar trebui folosite în acest scop 2 spații."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:201
+msgid "In vim this is done with ``set expandtab ts=2``"
+msgstr "În vim, acest lucru se realizează prin comanda ``set expandtab ts=2``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:204
+msgid "Indentation"
+msgstr "Indentarea"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:206
+msgid ""
+"Source code should be indented to improve readability. There is a ``scripts"
+"/prepare-commit.sh`` that looks up the changed files and reindents them "
+"using astyle. This should be run before committing. You can also use "
+"``scripts/astyle.sh`` to indent individual files."
+msgstr "Codul sursă ar trebui să fie indentat pentru a îmbunătăți lizibilitatea. Există un ``scripts/prepare-commit.sh`` care identifică fișierele modificate și le reindentează cu ajutorul Astyle. Acest lucru ar trebui să fie executat înainte de urcarea în depozit. De asemenea, puteți utiliza ``scripts/astyle.sh`` pentru a indenta fișierele individuale."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:211
+msgid ""
+"As newer versions of astyle indent differently than the version used to do a"
+" complete reindentation of the source, the script uses an old astyle "
+"version, that we include in our repository (enable WITH_ASTYLE in cmake to "
+"include it in the build)."
+msgstr "Întrucât versiunile mai noi de Astyle diferă față de versiunea utilizată la reindentarea completă a sursei, script-ul folosește o versiune veche Astyle, inclusă în depozitul nostru (activați WITH_ASTYLE în cmake pentru a o include în compilație)."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:217
+msgid "Braces"
+msgstr "Acoladele"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:219
+msgid "Braces should start on the line following the expression:"
+msgstr "Acoladele ar trebui să fie poziționate ca în exemplul următor:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:235
+msgid "API Compatibility"
+msgstr "Compatibilitatea API-ului"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:237
+msgid "There is `API documentation <https://qgis.org/api/>`_ for C++."
+msgstr ""
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:239
+msgid ""
+"We try to keep the API stable and backwards compatible. Cleanups to the API "
+"should be done in a manner similar to the Qt sourcecode e.g."
+msgstr "Încercăm să păstrăm API-ul stabil și compatibil cu versiunile anterioare. Curățarea API-ului ar trebui să fie făcută într-un mod similar cu al codului sursă Qt, de ex.:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:275
+msgid "Coding Style"
+msgstr "Stilul de Codificare"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:278
+msgid ""
+"Here are described some programming hints and tips that will hopefully "
+"reduce errors, development time and maintenance."
+msgstr "Aici sunt descrise câteva sugestii și sfaturi de programare care vor reduce, sperăm, erorile, timpul de întreținere și dezvoltare."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:283
+msgid "Where-ever Possible Generalize Code"
+msgstr "Acolo-unde-este-posibil Generalizați Codul"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:286
+msgid ""
+"If you are cut-n-pasting code, or otherwise writing the same thing more than"
+" once, consider consolidating the code into a single function."
+msgstr "Dacă, mai mult de o singură dată, copiați și lipiți codul, sau scrieți același lucru, luați în considerare consolidarea codului într-o singură funcție."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:289
+msgid "This will:"
+msgstr "Acest lucru va:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:291
+msgid "allow changes to be made in one location instead of in multiple places"
+msgstr "permite efectuarea modificărilor într-o singură locație, în locul mai multora"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:292
+msgid "help prevent code bloat"
+msgstr "preveni umflarea codului"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:293
+msgid ""
+"make it more difficult for multiple copies to evolve differences over time, "
+"thus making it harder to understand and maintain for others"
+msgstr "împiedica apariția, de-a lungul timpului, a diferențelor între secțiunile identice de cod, făcându-le, astfel, mai greu de înțeles și de întreținut de către alții"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:298
+msgid "Prefer Having Constants First in Predicates"
+msgstr "Se preferă poziționarea Constantelor înaintea Predicatelor"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:300
+msgid "Prefer to put constants first in predicates."
+msgstr "Se preferă poziționarea constantelor înaintea predicatelor."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:302
+msgid "``0 == value`` instead of ``value == 0``"
+msgstr "``0 == valoare`` înainte de ``valoare == 0``"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:304
+msgid ""
+"This will help prevent programmers from accidentally using ``=`` when they "
+"meant to use ``==``, which can introduce very subtle logic bugs.The compiler"
+" will generate an error if you accidentally use ``=`` instead of ``==`` for "
+"comparisons since constants inherently cannot be assigned values."
+msgstr "Acest lucru va ajuta împiedica programatorii să folosească accidental ``=`` în loc de ``==``, care poate introduce erori subtile de logică. Compilatorul va genera o eroare dacă folosiți accidental ``=`` în loc de ``==`` pentru comparații, deoarece constantelor, în mod inerent, nu li se pot atribui valori."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:310
+msgid "Whitespace Can Be Your Friend"
+msgstr "Spațiile Albe Vă Pot Fi De Ajutor"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:312
+msgid ""
+"Adding spaces between operators, statements, and functions makes it easier "
+"for humans to parse code."
+msgstr "Adăugarea de spații între operatori, declarații și funcții, facilitează utilizatorilor analiza codului."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:315
+msgid "Which is easier to read, this:"
+msgstr "Care cod este mai ușor de citit? Acesta:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:321
+msgid "or this:"
+msgstr "sau acesta:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:327
+msgid "``scripts/prepare-commit.sh`` will take care of this."
+msgstr "``scripts/prepare-commit.sh`` va avea grijă de acest lucru."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:331
+msgid "Put commands on separate lines"
+msgstr "Puneți comenzile pe linii separate"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:333
+msgid ""
+"When reading code it's easy to miss commands, if they are not at the "
+"beginning of the line. When quickly reading through code, it's common to "
+"skip lines if they don't look like what you are looking for in the first few"
+" characters. It's also common to expect a command after a conditional like "
+"``if``."
+msgstr "La citirea codului, este ușor să omiteți comenzile dacă acestea nu se află la începutul liniei. La parcurgerea rapidă a codului, este normal să omiteți liniile atunci când acestea nu prezintă ceea ce căutați în primele câteva caractere. Este, de asemenea, normal să vă așteptați la o comandă după un ``if`` condițional."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:338
+msgid "Consider:"
+msgstr "Se ia în considerare următorul cod:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:346
+msgid "It's very easy to miss part of what the flow of control. Instead use"
+msgstr "Este foarte ușor să omiteți o parte din fluxul de control. Scrieți, în schimb"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:358
+msgid "Indent access modifiers"
+msgstr "Indentați modificatorii de acces"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:360
+msgid ""
+"Access modifiers structure a class into sections of public API, protected "
+"API and private API. Access modifiers themselves group the code into this "
+"structure. Indent the access modifier and declarations."
+msgstr "Modificatorii de acces structurează o clasă în secțiuni de API public, API protejat și API privat. Rolul lor este de a grupa codul pe această structură. Indentați modificatorii de acces și declarațiile."
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:377
+msgid "Book recommendations"
+msgstr "Cărți recomandate"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:380
+msgid ""
+"`Effective Modern C++ <http://shop.oreilly.com/product/0636920033707.do>`_, "
+"Scott Meyers"
+msgstr "`Effective Modern C++ <http://shop.oreilly.com/product/0636920033707.do>`_, Scott Meyers"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:381
+msgid ""
+"`More Effective C++ <http://www.informit.com/store/more-effective-c-plus-"
+"plus-35-new-ways-to-improve-your-9780201633719>`_, Scott Meyers"
+msgstr "`More Effective C++ <http://www.informit.com/store/more-effective-c-plus-plus-35-new-ways-to-improve-your-9780201633719>`_, Scott Meyers"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:382
+msgid ""
+"`Effective STL <http://www.informit.com/store/effective-stl-50-specific-"
+"ways-to-improve-your-use-9780201749625>`_, Scott Meyers"
+msgstr "`Effective STL <http://www.informit.com/store/effective-stl-50-specific-ways-to-improve-your-use-9780201749625>`_, Scott Meyers"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:383
+msgid ""
+"`Design Patterns <http://www.amazon.com/Design-Patterns-Elements-Reusable-"
+"Object-Oriented/dp/0201633612>`_, GoF"
+msgstr "`Design Patterns <http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612>`_, GoF"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:385
+msgid ""
+"You should also really read this article from Qt Quarterly on `designing Qt "
+"style (APIs) <https://doc.qt.io/archives/qq/qq13-apis.html>`_"
+msgstr "Ar trebui, de asemenea, să citiți acest articol de la Qt Quarterly despre `proiectarea în stilul Qt (API) <https://doc.qt.io/archives/qq/qq13-apis.html>`_"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:390
+msgid "Credits for contributions"
+msgstr "Recunoașterea contribuțiilor"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:392
+msgid ""
+"Contributors of new functions are encouraged to let people know about their "
+"contribution by:"
+msgstr "Contribuitorii la noile funcții sunt încurajați să-i informeze pe ceilalți despre contribuția lor prin:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:394
+msgid ""
+"adding a note to the changelog for the first version where the code has been"
+" incorporated, of the type::"
+msgstr "adăugarea unei note la jurnalul schimbărilor, pentru prima versiune în care a fost încorporat codul, de tipul::"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:400
+msgid ""
+"writing an article about the new feature on a blog, and add it to the QGIS "
+"planet http://plugins.qgis.org/planet/"
+msgstr "scrierea unui articol despre noua facilitate pe un blog, și adăugarea acestuia la QGIS planet http://plugins.qgis.org/planet/"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:402
+msgid "adding their name to:"
+msgstr "adăugarea numelui lor la:"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:404
+msgid "https://github.com/qgis/QGIS/blob/master/doc/CONTRIBUTORS"
+msgstr "https://github.com/qgis/QGIS/blob/master/doc/CONTRIBUTORS"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:405
+msgid "https://github.com/qgis/QGIS/blob/master/doc/AUTHORS"
+msgstr "https://github.com/qgis/QGIS/blob/master/doc/AUTHORS"
+
+#: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:406
+msgid "https://github.com/qgis/QGIS/blob/master/doc/contributors.json"
+msgstr "https://github.com/qgis/QGIS/blob/master/doc/contributors.json"

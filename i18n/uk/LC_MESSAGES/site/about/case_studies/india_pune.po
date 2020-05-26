@@ -1,0 +1,181 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-07 15:40+0200\n"
+"PO-Revision-Date: 2017-09-20 09:29+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: ../../source/site/about/case_studies/india_pune.rst:3
+msgid ""
+"Use of python console to prepare offline map from WMS (tile downloader)"
+msgstr "Використання консолі Python для підготовки оффлайн-карт з WMS (завантаження тайлів)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:10
+msgid "Use of QGIS"
+msgstr "Використання QGIS"
+
+#: ../../source/site/about/case_studies/india_pune.rst:12
+msgid ""
+"QGIS provides a tool to connect/access any WMS service. WMS connection is "
+"based on simple URL and once connection is established map can be seen on "
+"QGIS mapview. If we save the map of visible extent from QGIS mapview as jpg "
+"(File > Save as Image) it creates world file which has the geographic "
+"coordinate information of particular region E.g. sample.jpg is the map and "
+"sample.jpgw have the coordinates. That means the downloaded image is "
+"georeferenced. We can download tiles in grid format manually and use later "
+"offline. Manual downloading is possible if the area is very small or low "
+"resolution images are fine."
+msgstr "QGIS підтримує роботу з сервісами WMS. Для підключення до сервісів необхідно мати їх URL, після того, як з'єднання встановлене, відповідну карту можна завантажити в QGIS. Якщо зберегти поточну видиму область як графічний файл (:menuselection:`Файл -> Зберегти як зображення`), також буде створено world-файл з даними про географічну прив'язку. Наприклад, :file:`sample.jpg` містить карту, а :file:`sample.jpgw` --- координати. Це означає, що збережене зображення прив'язане. Ми можемо завантажувати тайли та використовувати їх в оффлайн режимі. Завантаження вручну можливе для маленьких ділянок або коли достатньо зображень низької якості."
+
+#: ../../source/site/about/case_studies/india_pune.rst:19
+msgid "QGIS with WMS tiles"
+msgstr "QGIS за тайлами WMS"
+
+#: ../../source/site/about/case_studies/india_pune.rst:23
+msgid "Python Console"
+msgstr "Консоль Python"
+
+#: ../../source/site/about/case_studies/india_pune.rst:25
+msgid ""
+"A short script was written in “Python Console” with help available on QGIS "
+"official website in PyQGIS Developer Cookbook. Script consists of basically "
+"4 components as following,"
+msgstr "За допомогою офіційної документації QGIS було розроблено сценарій для консолі Python. Сценарій складається з наступних основних блоків"
+
+#: ../../source/site/about/case_studies/india_pune.rst:27
+msgid "X,Y coordinate (top left and bottom right) of first tile"
+msgstr "координати X, Y першого тайлу"
+
+#: ../../source/site/about/case_studies/india_pune.rst:28
+msgid "Size of tile to be downloaded (e.g. 0.001 X 0.001 degrees)"
+msgstr "бажаний розмір тайлів (наприклад, 0.001x0.001 градусів)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:29
+msgid ""
+"No of tiles to download (calculated based on full extent of map and size of "
+"tile)"
+msgstr "кількість тайлів, які необхідно завантажити (обчислюється з охоплення карти та розмірів тайлу)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:30
+msgid "Output directory to store the output tiles/files"
+msgstr "каталог для запису тайлів"
+
+#: ../../source/site/about/case_studies/india_pune.rst:32
+msgid ""
+"The script works in two simple for loops first which defines the extent of "
+"map in QGIS map view and run row/columns. Once the map extent is set then "
+"map is loaded in QGIS. The delay of 3 seconds (depends on internet "
+"connection) was introduced before saving map as jpg in user defined "
+"directory. Once the script is executed all the tiles created in directory "
+"can be directly loaded in QGIS or single mosaic is prepared from Raster > "
+"Miscellaneous > Merge or Build Virtual Raster (Catalog). Both tools "
+"generates mosaic but basic difference in Merge creates an image independent "
+"of tiles whereas Virtual raster generates a link in all individual tiles "
+"(tiles are required)."
+msgstr "Сценарій містить два цикли for, перший з який визначає охоплення карти та кількість рядків/стовпчиків. Після того як охоплення карти задане, вона завантажується в QGIS. Перед збереженняс карти внесено затримку в 3 секунди (залежить від якості підключення). Після завершення роботи сценарія всі тайли записуються до вказаного каталогу, і можуть бути відкриті в QGIS. Також можна підготувати єдиний файл за допомогою інструментів Merge або Build Virtual Raster з набору GDALTools. Обидва інструменти генерують мозаїку, відмінність в тому, що Merge створює «незалежне» зображення, а Build Virtual Raster генерує зв'язки між тайлами (тобто тайли необхідні)."
+
+#: ../../source/site/about/case_studies/india_pune.rst:40
+msgid "Python script and directory where tiles are stored"
+msgstr "Сценарій Python та каталог з тайлами"
+
+#: ../../source/site/about/case_studies/india_pune.rst:42
+msgid ""
+"The method has limitation that, changes in map at server end will not "
+"reflect in offline (downloaded map). In this case user will have to repeat "
+"the process and generate new offline map. Second limitation is the offline "
+"map created will be image format; it cannot be used for thematic mapping or "
+"image classification. With some extra efforts some landuse maps can be "
+"converted to vector with some data loss."
+msgstr "Недоліком методу є те, що зміні на сервері не будуть відображатися в режимі оффлайн. У цьому випадку користувач повинен згенерувати нову карту. Іншим недоліком є використання звичайного формату зображення, яке не може використовуватися для тематичного картографування бо класифікації. Хоча деякі карти землекористувань з певними зусиллями можна конвертувати у веторний формат із втратою частини даних."
+
+#: ../../source/site/about/case_studies/india_pune.rst:45
+msgid "Scope"
+msgstr "Задача"
+
+#: ../../source/site/about/case_studies/india_pune.rst:47
+msgid ""
+"The generated mosaic is pure image even if it is downloaded from thematic "
+"map (7-8 color). Using advance tool like reclassification, layer/band "
+"stacking this raster can be converted to polygon vector. WMS has several "
+"requests such as getcapabilities, getmap, getfeatureinfo etc. Using the "
+"getgeatureinfo attribute information for each polygon can be retrieved. The "
+"script can be converted to plugin so that anyone without scripting knowledge"
+" will be able to use the script."
+msgstr "Отримана мозаїка є звичайним зображенням, навіть якщо вона була створена з тематичної карти (7-8 кольорів). За допомогою таких функцій як рекласифікація, об'єднання шарів/каналів цей растр можна перевести у векторний формат. WMS підтримує різні типи запитів, наприклад GetCapabilities, GetMap, GetFeatureInfo та ін. За допомогою запиту GetFeatureInfo можна отримати атрибутивну інформацію об'єктів. Цей сценарій також можна перетворити на плаґін, і таким чином для його використання додаткові знання не знадобляться."
+
+#: ../../source/site/about/case_studies/india_pune.rst:50
+msgid "Conclusion"
+msgstr "Підсумки"
+
+#: ../../source/site/about/case_studies/india_pune.rst:52
+msgid ""
+"The above experiences shows that QGIS can be used at any advanced level. "
+"With basic programming skills one can write a small script or a plug-in to "
+"improve the quality of work and save time. Within QGIS, access to a "
+"repository of plug-ins developed worldwide is the best of QGIS. The PyQGIS "
+"Developer Cookbook is a great resource to write a script and raster data "
+"processing is much easy now with help of GDAL tools."
+msgstr "З вищенаписаного зрозуміло, що QGIS може використовуватися на просунутому рівні. За наявності базових навичок програмування можна створювати сценарії та плаґіни, які спрощують роботу. Можливість використовувати плаґіни, розроблені користувачами зі всього світу є однією з найкращих можливостей QGIS. Офіційна документація містить достатьньо інформації для розробки вкласних сценаріїв, а обробка растрових даних за допомогою GDALTools надзвичайно проста."
+
+#: ../../source/site/about/case_studies/india_pune.rst:55
+msgid "Authors"
+msgstr "Автор"
+
+#: ../../source/site/about/case_studies/india_pune.rst:57
+msgid ""
+"This article was contributed May 2014 by Prashant Kadgi, based in Pune "
+"(India) and currently works as consultant in GIS APP Consultancy Services. "
+"Since 2009 he is using GIS & RS in NRM, forestry, e-governance, software "
+"development projects in different regions of India and the world."
+msgstr "Prashant Kadgi надіслав цю статтю у травні 2014 р. Він проживає в Пуне (Індія) та працює консультантом в GIS APP Consultancy Services. З 2009 він використовує ГІС та дані дистанційного зондування в NRM, лісному господарстві, електронному уряді та проектах з розробки програмного забезпечення у різних регіонах Індії та по всьому світу."
+
+#: ../../source/site/about/case_studies/india_pune.rst:59
+msgid "Contact: kadgiprashant@gmail.com"
+msgstr "Email: kadgiprashant@gmail.com"
+
+#: ../../source/site/about/case_studies/india_pune.rst:60
+msgid "Website www.gisappco.com (under construction)"
+msgstr "Сайт: www.gisappco.com (в розробці)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:5
+msgid ""
+"This study explains how to prepare offline maps from WMS/WFS or any map "
+"loaded in QGIS map view by downloading tiles with the help of a script in "
+"python console. The skript also generates a mosaic of all tiles for further "
+"use."
+msgstr "Ця стаття розказує як підготувати карти WMS/WFS або будь-яку відкриту в QGIS карту для оффлайнового використання шляхом збереження тайлів за допомогою консолі Python. Сценарій також створює мозаїку тайлів для подільшого використання."
+
+#: ../../source/site/about/case_studies/india_pune.rst:7
+msgid ""
+"Accessing raster/vector maps through Web Mapping Service (WMS) service is "
+"very common and efficient. It has several advantages such as security, "
+"centralized and flexible map styles. Example is Google maps, Yahoo, Bing, "
+"MODIS, Landsat, maps published by NASA, NRSC (India). The "
+"disadvantage/limitation of WMS is it works via internet or intranet. It may "
+"not be possible to get internet connection always especially in the field "
+"during survey. Also WMS works slow, compared to any offline image format "
+"such as GeoTiff, jpg, img etc."
+msgstr "Сервіси WMS дедалі частіше використовуються для роботи з растровими та векторними даними. Серед їх переваг безпека, централізовані та гнучкі стилі. Прикладом таких сервісів є Google maps, Yahoo, Bing, MODIS, Landsat, карти NASA, NRSC (Індія). Недоліком/обмеженням WMS є необхідність підключення до інтернет. В деяких випадках, особливо під час польових робіт, підключення відсутнє. Також, у порівнянні з традиційними оффлайновими форматами (GeoTiff, JPS) WMS працює значно повільніше."
+
+#~ msgid ""
+#~ "This study explains how to prepare offline maps from WMS/WFS or any map "
+#~ "loaded in QGIS map view by downloading tiles with the help of a script in "
+#~ "python console. The skript also generates a mosaic of all tiles for further "
+#~ "use. Accessing raster/vector maps through Web Mapping Service (WMS) service "
+#~ "is very common and efficient. It has several advantages such as security, "
+#~ "centralized and flexible map styles. Example is Google maps, Yahoo, Bing, "
+#~ "MODIS, Landsat, maps published by NASA, NRSC (India). The "
+#~ "disadvantage/limitation of WMS is it works via internet or intranet. It may "
+#~ "not be possible to get internet connection always especially in the field "
+#~ "during survey. Also WMS works slow, compared to any offline image format "
+#~ "such as GeoTiff, jpg, img etc."
+#~ msgstr ""

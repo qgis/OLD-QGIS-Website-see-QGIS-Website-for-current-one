@@ -1,0 +1,130 @@
+# 
+# Translators:
+# fairtommy <fairtommy@gmail.com>, 2018-2019
+# fairtommy <fairtommy@gmail.com>, 2017-2018
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-05 15:28+0200\n"
+"PO-Revision-Date: 2019-06-11 03:41+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:3
+msgid "Producing an arcHYDRO like output with QGIS"
+msgstr "QGISでarcHYDROのような出力を作成する"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:5
+msgid ""
+"I work for a urban planning company in China.  It is often difficult to "
+"design proper environmental protection because the common sources of data "
+"may be a state secret or may not even exist.  Frequently, we are asked to do"
+" designs without proper survey data.   In addition there is usually not "
+"enough time for a proper study.  My background is in Urban Planning with a "
+"minor in Environmental Science."
+msgstr "私は中国の都市計画会社で働いています。一般的なデータ源は国家機密であったり、または存在すらしないかもしれないため、適切な環境保護を設計することが困難な場合が多いです。しばしば、私たちは適切な調査データなしで設計を行うことを求められます。さらに、たいていは適切な研究のために十分な時間がありません。私の背景は環境科学で副専攻が都市計画です。"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:14
+msgid ""
+"The task was plan a conservation park on the Chinese side of the Ili River "
+"which supplies 80% of the water to Lake Balkhash.  FOSS GIS application + "
+"FOSS GIS data stores + FOSS GIS education were all critical to reconstruct "
+"and model the Hydrological and Ecological processes necessary for authentic "
+"conservation planning.  As a non-scientist with no prior training or "
+"experience I could not have done it without all three.  My company did not "
+"and would not pay to purchase GIS software to run the industry standard "
+"arcHYDRO."
+msgstr "業務はバルハシ湖への水の80％を供給するイリ川の中国側の保全公園を計画でした。FOSSのGISアプリケーション+ FOSS GISデータストア+ FOSSのGIS教育はすべて、本格的な保全計画のために必要な水文・生態プロセスをモデル化し再構築するために重要でした。事前の訓練や経験を持たない非科学者である私には、３つすべてなしにそれを行うことはできなかったでしょう。私の会社は、業界標準のarcHYDROを実行するためのGISソフトウェアを購入するために支払しませんでしたし、支払うつもりもなかったでしょう。"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:22
+msgid "Story"
+msgstr "ストーリー"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:24
+msgid ""
+"With some trial and error I was able to produce an arcHYDRO like output from"
+" QGIS.  Beginning with a USGS Hydrosheds DEM which was converted into a "
+"Regularized Spline with Tension using the GRASS functions inside QGIS and "
+"training by Helena Mitsova.  The RST surface was analyzed this surface to "
+"find the catchments and flow paths, and resulting vector topologies were "
+"cleaned up in QGIS to generate the Hydrologic network and also to build up "
+"the attribute tables."
+msgstr "いくらかの試行錯誤を経て、私はQGISからarcHYDROのような出力を作成できました。USGS DEM Hydroshedsで始まり、これはQGIS内のGRASS機能とヘレナMitsovaによる研修を使用してテンション付正則スプラインに変換されました。RST表面は流域と流路を見つけるために、この表面を分析した、得られたベクタートポロジがQGISでクリーンアップされて水文ネットワークが作成され、また属性テーブルが構築されました。"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:31
+msgid ""
+"This network was ranked by r.stream extension in GRASS to build Hortons and "
+"Hacks stream ordering.  Then a distance to outlet surface grid was generated"
+" and analyzed by zonal statistics to find the farthest point.  Next, r.drain"
+" in GRASS to trace a time of concentration line.  Finally v.net in GRASS was"
+" used to build a network of pour points, flow paths, TOC paths, and HMDP for"
+" each watershed.  In this workflow, the QGIS tool attribute by location was "
+"invaluable."
+msgstr "このネットワークは、ホートンズとハックの河川次数を構築するためにGRASSのr.stream拡張によって順位付けされました。次いで、表面グリッド出口までの距離が作成され、最遠点を見つけるために地域統計によって分析されました。次に、GRASSのr.drainで濃度ラインの時間を追跡。最後に、GRASSのv.netを使用し、各流域について流動点、流路、TOC経路のネットワーク、及びHMDPを構築しました。このワークフローでは、QGISツールの「場所による属性」が非常に貴重でした。"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:38
+msgid ""
+"After the basic hydrologic network was finished I used UN FAO soils database"
+" with table joins to classify soils.  Then using query functions in QGIS the"
+" FAO soils were converted to USDA soils.  A previously downloaded USGS ETM7+"
+" grid was classified with the i.cluser and r.maxlik in GRASS into a NLCD "
+"grid.  By using reclassification tables I converted the landcover to "
+"Manning's n-value grid for overland flow.  Finally I wrote a lookup table in"
+" r.mapcalc and merged the soil and landcover grids into and NRCS TR-55 curve"
+" numbers following the arcHYDRO methodology."
+msgstr "基本的な水文ネットワークが終わった後、私はテーブル結合で国連FAO土壌データベースを使用して土壌を分類しました。それからQGISのクエリー機能を使用して、FAO土壌がUSDA土壌に変換されました。以前にダウンロードUSGS ETM7 +​​グリッドがNLCDグリッドへのGRASSでi.cluserとr.maxlikで分類しました。再分類テーブルを使用することにより、私は陸上の流れのためのマニングのn値のグリッドに土地被覆を変換しました。最後に私はarcHYDROの方法論に従って、r.mapcalcにルックアップテーブルを書いて、土壌と土地被覆グリッドをNRCS TR-55曲線番号にマージしました。"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:45
+msgid ""
+"To create the rainfall grids I performed statistical analysis on GHCN tables"
+" to find rainfall depths for design storms of 1,2,5,10,50,100 year returns. "
+"Then I downloaded a free sample grid of PRISM for China and assuming a "
+"linear relationship, converted average cell values to maximum cell values in"
+" order to build maximum rainfall intensity grids."
+msgstr "降雨グリッドを作成するために、私はGHCNテーブル上の統計分析を行い、1,2,5,10,50,100年間リターンの設計嵐に対する降雨量を見つけました。それから私は、中国に対するPRISMの無料サンプルグリッドをダウンロードし、線形関係を仮定し、平均セル値をセルの最大値に変換して最大降雨強度のグリッドを構築しました。"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:48
+msgid "Conclusion"
+msgstr "結論"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:50
+msgid ""
+"I began using QGIS out of desperation for lack of arcMAP but now I never "
+"want to go back.  The investment of time in FOSS is worthwhile because you "
+"can take it with you to any job.  The combination of GRASS QGIS PostGIS "
+"gives you the full functionality of expensive GIS systems.   The online "
+"learning resources provided were as valuable as the actual software.  I was "
+"able to learn QGIS fast enough to produce a great project in a fast based "
+"real world industry environment."
+msgstr "私はarcMAPがなかったため絶望からQGISを使い始めましたが、今は戻りたくありません。FOSSでの時間の投資は、どんな仕事にも持っていくことができるので、価値があります。GRASS QGIS PostGISの組み合わせは、高価なGISシステムの完全な機能を提供します。提供されたオンライン学習リソースは、実際のソフトウェアほど価値がありました。私は、実世界の高速業界環境で素晴らしいプロジェクトを作成するのに十分速くQGISを学ぶことができました。"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:53
+msgid "Author"
+msgstr "制作者"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:60
+msgid "Robert Ward"
+msgstr "ロバート・ウォード"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:62
+msgid ""
+"Robert Ward is an Urban Designer and GIS Analyst at Parsons Brinkerhoff "
+"working at the intersection of high technology and high art.  He has taught "
+"at Tongji University and Autodesk University.  He is interested in GIS-based"
+" Hydrologic & Hydraulic modelling, Landscape Ecology modelling, Ecosystem "
+"Valuation, Transportation Modelling and GIS-Based Design Visualization."
+msgstr "ロバート・ウォードはパーソンズBrinkerhoffの都市設計者兼GIS分析者で、高度な技術と高度な芸術の交差点で働いています。氏は、同済大学とAutodesk大学で教えています。氏は、GISベースの水文＆油圧モデリング、景観生態学のモデリング、生態系評価、交通モデリングとGISベースデザインの可視化に興味があります。"
+
+#~ msgid ""
+#~ "Robert Ward is an Urban Designer and GIS Analyst at Parsons Brinkerhoff "
+#~ "working at the intersection of high technology and high art.  He has taught "
+#~ "at Tongji University and Autodesk University.  He is interested in GIS-based"
+#~ " Hydrologic & Hydrualic modelling, Landscape Ecology modelling, Ecosystem "
+#~ "Valuation, Transportation Modelling and GIS-Based Design Visualization."
+#~ msgstr ""

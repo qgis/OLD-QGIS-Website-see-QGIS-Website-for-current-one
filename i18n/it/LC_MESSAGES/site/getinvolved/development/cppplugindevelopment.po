@@ -1,0 +1,59 @@
+# 
+# Translators:
+# Luca M. <luca76@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-22 11:32+0100\n"
+"PO-Revision-Date: 2017-09-20 03:45+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:7
+msgid "Preparing the Environment and Setting up the Repo"
+msgstr "Preparare l'ambiente per lo sviluppo e configurare il repository"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:9
+msgid ""
+"Go to the QGIS repository in Github at https://github.com/qgis/QGIS/ Make a "
+"Fork for yourself. Learn more about forking and keeping your repo in sync "
+"with the main development repo at http://help.github.com/fork-a-repo/ Clone "
+"your personal copy of the repository to your system, and add upstream as "
+"mentioned in above provided link Read the "
+"https://github.com/qgis/QGIS/blob/master/INSTALL about setting up the "
+"installation environment and make a compilation with ccache enabled."
+msgstr "Vai al repository QGIS su Github all'indirizzo https://github.com/qgis/QGIS/ dove puoi fare un fork. Per saperne di più su fork e su come mantenere il repository sincronizzato con quello principale, leggi la pagina su http://help.github.com/fork-a-repo/ Fai un clone del tuo repository nel tuo sistema, e aggiungi al repository principale, come descritto nel link. Leggi le informazioni relative alla configurazione dell'ambiente di installazione l'https://github.com/qgis/QGIS/blob/master/INSTALL  dove ci sono anche istruzioni su come fare una compilazione con ccache abilitato."
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:14
+msgid "Setting up the Plugin Directory"
+msgstr "Impostare la cartella dei Plugin"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:16
+msgid "Inside the QGIS folder::"
+msgstr "All'interno della cartella di QGIS:"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:22
+msgid ""
+"Now follow the instructions in the screen wizard to create a folder for your"
+" plugin. After the required input is given, a folder for the plugin is "
+"created. Read the README inside the plugin folder to create a plugin."
+msgstr "Ora segui le istruzioni della procedura guidata per creare una cartella per il vostro plugin. Dopo aver inserito i parametri richiesti, verrà creata una cartella per il plugin. Leggere il file README all'interno della cartella plugin per creare un plugin."
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:26
+msgid ""
+"Building QGIS now will also build your plugin. After starting QGIS enable "
+"the plugin to see it and show it's dialog."
+msgstr "Compilando QGIS, verrà compilato anche il vostro plugin. Dopo aver avviato QGIS, abilitare il plugin per vederlo all'opera e aprire la sua finestra di dialogo."
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:5
+msgid "Developing C++ plugins"
+msgstr "Sviluppo dei plugin C++"
+
+#~ msgid "Developing CPP plugins"
+#~ msgstr ""

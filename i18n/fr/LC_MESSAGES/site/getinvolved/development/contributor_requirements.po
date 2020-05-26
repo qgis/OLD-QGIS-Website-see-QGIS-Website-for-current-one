@@ -1,0 +1,115 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Benoît de Cabissole, 2018
+# MarieSilvestre, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-05 19:50+0200\n"
+"PO-Revision-Date: 2018-05-20 14:25+0000\n"
+"Last-Translator: MarieSilvestre, 2020\n"
+"Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:4
+msgid "Requirements for new contributors"
+msgstr "Critères pour les nouveaux contributeurs"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:6
+msgid ""
+"We welcome new contributors to our community - we want you to use QGIS as a "
+"platform for doing your work - and we believe that QGIS is a great platform "
+"for that. In order to contribute code, patches, or documentation to the QGIS"
+" project, all developers/team members must:"
+msgstr ""
+"Nous accueillons tout nouveau contributeur dans notre communauté - nous "
+"voulons que vous utilisiez QGIS comme plateforme pour faire votre travail - "
+"et nous croyons que QGIS est une excellente plateforme pour cela. Afin de "
+"contribuer code, corrections ou documentation au projet QGIS, tout "
+"développeur / membre d'équipe doit :"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:11
+msgid "Abide by the Social Contract."
+msgstr "Se conformer au Contrat social."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:12
+msgid ""
+"Be familiar with the development process and the reference material "
+"available in the Development Corner, and the CODING document in the root of "
+"the QGIS Sources."
+msgstr ""
+"Être familier avec le processus de développement et le matériel de référence"
+" disponibles dans le Coins du Développement, et dans le document CODING se "
+"trouvant dans le répertoire racine des sources de QGIS."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:15
+msgid ""
+"Ensure that all code committed to the repository is unencumbered and "
+"compatible with the QGIS license, GPL version 2"
+msgstr ""
+"S'assurer que tout code ajouté au dépôt échappe à toute contrainte et est "
+"compatible avec la licence de QGIS, GPL version 2"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:17
+msgid ""
+"Not use or include any code that will cause a trademark or patent "
+"infringement. If you are unsure, ask on the developer mailing list or "
+"contact a Project Steering Committee member."
+msgstr ""
+"Ne pas utiliser ou inclure du code qui pourrait causer une violation de "
+"marque déposée ou de patente. En cas de doute, faire une demande sur la "
+"liste de discussion des développeurs ou bien contacter un membre du Comité "
+"directeur du projet."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:20
+msgid "Join the qgis-developer mailing list and contribute to discussions"
+msgstr ""
+"Rejoindre la liste de discussion des développeurs QGIS et participer aux "
+"débats"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:21
+msgid ""
+"These requirements apply to both developers desiring commit privileges and "
+"those that submit patches."
+msgstr ""
+"Ces critères s'appliquent à la fois aux développeurs qui désirent pouvoir "
+"améliorer le code et à ceux qui veulent soumettre des corrections."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:23
+msgid "Read and agree to the :ref:`codeofconduct`."
+msgstr "Lire et accepter le :ref:`codeofconduct`."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:24
+msgid ""
+"Read and agree to the `Coding Standards "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/codingstandards.html>`_."
+msgstr ""
+"Lire et accepter les `Standards de développement "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/codingstandards.html>`_."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:26
+msgid "Read and agree to the :ref:`diversitystatement`."
+msgstr "Lire et accepter le :ref:`diversitystatement`."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:27
+msgid ""
+"Agree to these requirements by sending an email to the qgis-developer "
+"mailing list stating agreement."
+msgstr ""
+"Accepter tous ces critères en envoyant un message signifiant votre "
+"acceptation sur la liste de discussion des développeurs."
+
+#~ msgid "Read and agree to the :ref:`coding_standards`."
+#~ msgstr "Lire et accepter le :ref:`coding_standards`."

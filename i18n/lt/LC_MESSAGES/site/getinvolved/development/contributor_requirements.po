@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Tomas Straupis, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-05 19:50+0200\n"
+"PO-Revision-Date: 2018-05-20 14:25+0000\n"
+"Last-Translator: Tomas Straupis, 2019\n"
+"Language-Team: Lithuanian (https://www.transifex.com/qgis/teams/6144/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:4
+msgid "Requirements for new contributors"
+msgstr "Reikalavimai naujiems talkininkams"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:6
+msgid ""
+"We welcome new contributors to our community - we want you to use QGIS as a "
+"platform for doing your work - and we believe that QGIS is a great platform "
+"for that. In order to contribute code, patches, or documentation to the QGIS"
+" project, all developers/team members must:"
+msgstr ""
+"Mes kviečiame naujus talkininkus į mūsų bendruomenę - norime, kad jūs "
+"naudotumėte QGIS kaip platformą jūsų darbams - ir tikime, kad QGIS yra "
+"puikiai tam tinkanti platforma. Norėdami QGIS projektui pateikti kodą, "
+"pataisymus ar dokumentaciją, visi kūrėjų/komandų nariai privalo:"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:11
+msgid "Abide by the Social Contract."
+msgstr "Laikytis socialinio kontrakto."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:12
+msgid ""
+"Be familiar with the development process and the reference material "
+"available in the Development Corner, and the CODING document in the root of "
+"the QGIS Sources."
+msgstr ""
+"Būti susipažinusiam su kūrimo procesu ir Development Corner medžiaga bei "
+"CODING dokumentu QGIS išeities kodo šakiniame aplanke."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:15
+msgid ""
+"Ensure that all code committed to the repository is unencumbered and "
+"compatible with the QGIS license, GPL version 2"
+msgstr ""
+"Įsitikinti, kad visas į repozitoriją pateiktas kodas nesupančiotas ir "
+"suderinamas su QGIS licencija, GPL 2 versija"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:17
+msgid ""
+"Not use or include any code that will cause a trademark or patent "
+"infringement. If you are unsure, ask on the developer mailing list or "
+"contact a Project Steering Committee member."
+msgstr ""
+"Nenaudoti ir neįtraukti jokio kodo, kuris galėtų sukelti prekės ženklų ar "
+"patentų pažeidimų. Jei nesate įsitikinę, paklauskite programuotojų sąrašyne "
+"arba susisiekite su Projekto Valdymo Komiteto nariu."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:20
+msgid "Join the qgis-developer mailing list and contribute to discussions"
+msgstr "Prisijungti prie qgis-developer sąrašyno ir prisidėti prie diskusijų"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:21
+msgid ""
+"These requirements apply to both developers desiring commit privileges and "
+"those that submit patches."
+msgstr ""
+"Šie reikalavimai taikomi tiek kūrėjams, norintiems gauti kodo įkėlimo "
+"privilegijas, tiek ir tiems, kurie nori pateikti pokyčius."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:23
+msgid "Read and agree to the :ref:`codeofconduct`."
+msgstr "Perskaityti ir sutikti su :ref:`codeofconduct`."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:24
+msgid ""
+"Read and agree to the `Coding Standards "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/codingstandards.html>`_."
+msgstr ""
+"Perskaitykite ir sutikite su `Kodo standartais "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/codingstandards.html>`_."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:26
+msgid "Read and agree to the :ref:`diversitystatement`."
+msgstr "Perskaityti ir sutikti su :ref:`diversitystatement`."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:27
+msgid ""
+"Agree to these requirements by sending an email to the qgis-developer "
+"mailing list stating agreement."
+msgstr ""
+"Sutikti su šiais reikalavimais siunčiant e-laišką į qgis-developer sąrašyną "
+"parašant apie sutikimą."
+
+#~ msgid "Read and agree to the :ref:`coding_standards`."
+#~ msgstr "Perskaityti ir sutikti su :ref:`coding_standards`."

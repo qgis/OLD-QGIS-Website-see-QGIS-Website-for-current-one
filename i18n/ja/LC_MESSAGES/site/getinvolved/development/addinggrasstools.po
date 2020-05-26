@@ -1,0 +1,533 @@
+# 
+# Translators:
+# fairtommy <fairtommy@gmail.com>, 2018-2019
+# fairtommy <fairtommy@gmail.com>, 2017-2018
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-29 10:59+0200\n"
+"PO-Revision-Date: 2019-01-04 04:27+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:11
+msgid ""
+"It is easy to modify the menu and add new modules because both the menu and "
+"the modules are defined in XML configuration files. Below is described how "
+"to write new modules and modify menu tree."
+msgstr "メニューとモジュールは両方ともXML設定ファイルで定義されているので、メニューを変更して新しいモジュールを追加するのは簡単です。以下では、新しいモジュールを作成し、メニューツリーを変更する方法を説明しています。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:17
+msgid "Module configuration"
+msgstr "モジュール構成"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:21
+msgid "Background"
+msgstr "バックグラウンド"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:23
+msgid ""
+"The options of each module shown in module's_*Options_*tab are created "
+"according to combination of definition in QGM (QGIS GRASS module) file and "
+"options definition in GRASS module or GRASS script --- GMO (GRASS module "
+"options). Because each option in QGM is linked to one (or more) GMO, it is "
+"often useful if not necessary to see GMO. GMO are output by GRASS module if "
+"it is run with _*--interface-description_* option, the output is in XML "
+"format, for example:"
+msgstr "モジュールの _*オプション_* タブに示された各モジュールのオプションは、QGM（QGIS GRASSモジュール）GRASSモジュールまたはGRASSスクリプト--- GMO（GRASSモジュールオプション）内のファイルやオプション定義で定義の組み合わせに応じて作成されます。QGMの各オプションが1つ（またはそれ以上）のGMOにリンクされているため、GMOを確認することは必要ではないにしてもしばしば便利です。GMOは _*--interface-description_* オプションで実行されている場合、GRASSモジュールによって出力され、出力はXML形式であります、例えば："
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:48
+msgid "Here is an example of a configuration file:"
+msgstr "これは、設定ファイルの例です。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:61
+msgid "qgisgrassmodule tag attributes"
+msgstr "qgisgrassmoduleタグの属性"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:63
+msgid "*label* --- description used in menu tree"
+msgstr "*label* ---メニューツリーで使用される説明"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:64
+msgid "*module* --- name of GRASS module executable or script."
+msgstr "*module* --- GRASSモジュールの実行可能ファイルまたはスクリプトの名前。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:67
+msgid "Option tags"
+msgstr "オプションタグ"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:69
+msgid "Each qgisgrassmodule tag can contain one or more option tags:"
+msgstr "各qgisgrassmoduleタグには、1つ以上のオプションタグを含めることができます。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:71
+msgid "*option* --- corresponds to GMO parameter tag, example:"
+msgstr "*option* ---たとえば、GMOパラメータタグに対応しています。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:77
+msgid "*flag* --- corresponds to GMO flag tag, example:"
+msgstr "*flag* ---例えば、GMOフラグタグに対応します。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:84
+msgid ""
+"*field* --- for vector layers defines attribute field, the option is created"
+" as combobox with available fields. For example (v.to.db.qgm):"
+msgstr "*field* ---ベクターレイヤーのためのオプションが利用可能なフィールドとコンボボックスとして作成され、属性フィールドを定義します。例えば（v.to.db.qgm）："
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:103
+msgid "Common option/flag tag attributes"
+msgstr "共通オプション/フラグタグの属性"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:105
+msgid "*key* --- name of module option in GMO."
+msgstr "*key* --- GMOのモジュールオプションの名前。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:106
+msgid ""
+"*answer* --- default value (overwrites GMO default value); value \"on\" will"
+" switch on a flag."
+msgstr "*answer* ---デフォルト値（GMOのデフォルト値を上書きします）。「上」の値がフラグに切り替わります。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:108
+msgid ""
+"*hidden* --- the option will not appear in the dialog, but module will be "
+"run with this option (hidden=\"yes\")."
+msgstr "*hidden* ---オプションがダイアログボックスに表示されませんが、モジュールは（「はい」=非表示）このオプションを指定して実行されます。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:110
+msgid "*label* --- option label"
+msgstr "*label* ---オプションのラベル"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:111
+msgid ""
+"*advanced* --- \"yes\" or \"no\", default is \"no\". If set to \"yes\", the "
+"option/flag is add to initially hidden advanced options panel and \"Show "
+"advanced options >>\" button is shown under simple (basic,standard) options"
+msgstr "*advanced* --- \"はい\" または \"いいえ\"、デフォルトは \"no\" です。「はい」に設定すると、オプション/フラグは最初は隠れてする高度なオプションパネルと追加され、「詳細オプションの表示]を>>」ボタンは、単純な（基本、標準）オプションの下に表示されます"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:114
+msgid ""
+"*version_min* --- minimum GRASS version for which this option/flag is valid"
+msgstr "*version_min* --- このオプション/フラグが有効である最小のGRASSバージョン"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:115
+msgid ""
+"*version_max* --- maximum GRASS version for which this option/flag is valid"
+msgstr "*version_max* ---このオプション/フラグが有効である最大GRASSバージョン"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:118
+msgid "Option tag specific attributes"
+msgstr "オプションタグ固有の属性"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:120
+msgid ""
+"*typeoption* --- this option can be used with vector layer to define the "
+"name of vector input type option, when module is run, the type of selected "
+"vector layer will be used for that option. For example (v.overlay.or.qgm):"
+msgstr "*typeoption* ---このオプションは、モジュールが実行されると、選択されたベクターレイヤーの種類は、そのオプションに使用される、ベクター入力タイプオプションの名前を定義するためにベクターレイヤーと共に使用できます。例えば（v.overlay.or.qgm）："
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:132
+msgid "*layeroption* --- equivalent of typeoption for layer."
+msgstr "*layeroption* ---レイヤーのためのtypeoptionの同等。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:133
+msgid ""
+"*typmask* --- for vector input option defines allowed types. Only the layers"
+" of one of defined type are displayed in input. See v.overlay.or.qgm for "
+"example."
+msgstr "*typmask* ---は、ベクター入力オプションの許可されたタイプを定義します。定義されたタイプの一つのレイヤーのみが入力に表示されています。例えばv.overlay.or.qgmを参照してください。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:138
+msgid "Field tag specific attributes"
+msgstr "フィールドタグ固有の属性"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:140
+msgid ""
+"*layer* --- the key attribute of the option which defines the vector this "
+"field should depend on"
+msgstr "*layer* ---このフィールドが依存すべきベクターを定義するオプションのキー属性"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:142
+msgid ""
+"*type* --- defines types of attribute fields which should be added to the "
+"field combobox, for example"
+msgstr "*type* ---例えば、フィールドコンボボックスに追加されるべき属性フィールドのタイプを定義"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:150
+msgid ""
+"It means that only the attribute fields of type in integer and double "
+"precision will appear in combobox. See v.what.vect for example (2 different "
+"vectors)."
+msgstr "これは、整数および倍精度でタイプの唯一の属性フィールドがコンボボックスに表示されることを意味します。例（2つの異なるベクター）のためv.what.vect参照。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:155
+msgid "Behind the scene"
+msgstr "舞台裏で"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:162
+msgid ""
+"*label* --- if label attribute is defined in QGM it is used as option label,"
+" if it is not defined GMO option label tag is used and if it is not defined "
+"GMO option description tag is used"
+msgstr "*label* ---ラベル属性がQGMで定義されている場合はオプションのラベルとして使用され、それが定義されていない場合はGMOオプションラベルのタグが使用され、それが定義されていない場合はGMOオプションの説明タグが使用されます"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:168
+msgid ""
+"*multiple values* label --- if an option is type multiple with defined list "
+"of possible values (like upload option of v.distance) and description tag is"
+" defined for value tag in GMO then it is used as checkbox label"
+msgstr "オプションは、GMOの値タグに定義され、記述タグ（v.distanceのアップロードオプションなど）の可能な値の定義されたリストを有するタイプ複数ある場合*複数の値は、*ラベル---これは、チェックボックスのラベルとして使用され、次いで"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:173
+msgid "Picture"
+msgstr "画像"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:175
+msgid ""
+"Each module must be represented also by a picture/icon which symbolizes the "
+"modules functionality. The pictures are also stored in plugins/grass/modules"
+" as SVG (*.svg) or PNG (*.png) files."
+msgstr "各モジュールは、モジュールの機能を象徴するピクチャ/アイコンによっても表現されなければなりません。ピクチャはまた、SVG（* .SVG）またはPNG（* .PNG）ファイルとして plugins/grass/modules にも格納されています。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:179
+msgid "Currently there are supported 3 schemas for the picture:"
+msgstr "現在、ピクチャのための3つのスキーマがサポートされています。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:181
+msgid "1 picture"
+msgstr "1枚のピクチャ"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:182
+msgid "2 pictures --- QGIS will create icon: 1 -> 2"
+msgstr "2枚のピクチャ--- QGISはアイコンが作成されます：1 - > 2"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:183
+msgid "3 pictures --- QGIS will create icon: 1 + 2 -> 3"
+msgstr "3枚のピクチャ--- QGISが作成されたアイコン：1 + 2 - > 3"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:195
+msgid "QGIS GRASS scripts"
+msgstr "QGIS GRASSスクリプト"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:197
+msgid ""
+"Because it can take long time until a new script is added to stable GRASS "
+"release and because some scripts can be useful only for QGIS GUI interface "
+"it is possible to add a 'GRASS' script to QGIS. The scripts should follow "
+"general requirements for GRASS scripts and they are located in "
+"qgis/src/plugins/grass/scripts."
+msgstr "新しいスクリプトが安定したGRASSのリリースに追加されるまでは長い時間がかかることがあるため、またいくつかのスクリプトはQGIS GUIインターフェイスのためにのみ役立つため、QGISに「GRASS」スクリプトを追加することが可能です。スクリプトは、GRASSスクリプトのための一般的な要件に従わなければならず、それらは qgis/src/plugins/grass/scripts に位置しています。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:204
+msgid "Menu configuration"
+msgstr "メニュー構成"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:206
+msgid ""
+"Once we have a new QGM configuration file, we can add the module to the list"
+" of modules. The list is defined in "
+"qgis/src/plugins/grass/config/default.qgc file. The sections in the file are"
+" organized hierarchically and represented in menu as tree."
+msgstr "新しいQGMの設定ファイルを持っていたら、モジュールの一覧にモジュールを追加できます。リストは qgis/src/plugins/grass/config/default.qgc ファイルに定義されています。ファイル内のセクションでは、階層的に編成し、ツリーとしてメニューに表示されています。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:211
+msgid "Here is an example of a record for r.to.vect.line.qgm module"
+msgstr "これが r.to.vect.line.qgm モジュール用レコードの例です"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:223
+msgid ""
+"*version_min* --- minimum GRASS version for which this section/module is "
+"valid"
+msgstr "*version_min* ---このセクション/モジュールが有効である最小のGRASSバージョン"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:224
+msgid ""
+"*version_max* --- maximum GRASS version for which this section/module is "
+"valid"
+msgstr "*version_max* ---このセクション/モジュールが有効である最大GRASSバージョン"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:228
+msgid "General rules for new modules"
+msgstr "新しいモジュールの一般規則"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:230
+msgid ""
+"*GRASS Tools* are intended mostly for beginners and not very experienced "
+"users. The basic rules are:"
+msgstr "*GRASSツール* は、初心者ではなく非常に経験豊富なユーザーのために主に意図されています。基本的なルールは以下のとおりです。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:233
+msgid ""
+"Each module should have 3 or less options; if it seems to be necessary to "
+"add more options, it should be discussed beforehand"
+msgstr "各モジュールは、3つの以下のオプションを持っている必要があります。それはより多くのオプションを追加する必要があると思われる場合、それは事前に議論されるべきです"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:235
+msgid ""
+"Module definition should be robust so that it doesn't allow a user to run a "
+"module with wrong option. If there is not yet support for certain type of "
+"option the module should not be added to menu"
+msgstr "モジュール定義は、間違ったオプションを指定してモジュールを実行するユーザーを許可しないように、堅牢でなければなりません。オプションの特定のタイプのためのサポートがまだ存在しない場合、モジュールは、メニューに追加すべきではありません"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:241
+msgid "Specific rules for module descriptions"
+msgstr "モジュールの説明のための具体的なルール"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:243
+msgid ""
+"Avoid 3rd person for verbs, e.g. \"Export raster\" instead of \"Exports "
+"raster\""
+msgstr "動詞の3人称を避けてください、例えば「Exports raster」ではなく「Export raster」"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:244
+msgid ""
+"Avoid unnecessary \"map\", \"layer\" and \"file\", e.g. \"Export raster\" "
+"instead of \"Export raster map layer\""
+msgstr "不必要な「地図」、「レイヤー」、「ファイル」を避けてください、例えば「ラスター地図レイヤーを書き出し」ではなく「ラスターを書き出し」"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:246
+msgid ""
+"Avoid unnecessary \"GRASS\", e.g. \"Export raster\" instead of \"Export "
+"GRASS raster\""
+msgstr "不必要な「GRASS」を避けてください、例えば「GRASSラスターを書き出し」ではなく「ラスターを書き出し」"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:247
+msgid "Avoid \"a|an\", e.g. \"Export raster\" instead of \"Exports a raster\""
+msgstr "\"a|an\"は避けてください、例えば、「Exports a raster」ではなく「Export raster」"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:248
+msgid ""
+"Avoid padding words, e.g. \"Export raster\" instead of \"Allows the export "
+"of a raster\""
+msgstr "パディングワードを避けるため、例えば「エクスポートラスター」の代わりに「ラスターのエクスポートを可能にします」"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:249
+msgid ""
+"Avoid \"Convert\": use \"Export\" or \"Import\" instead. Convert should be "
+"used for internal GRASS conversions (e.g. from raster to vector)"
+msgstr "「変換」は避けてください。代わりに、「エクスポート」または「インポート」を使用します。内部GRASS変換に使用されるべき変換（例えば、ラスターからベクターへ）"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:251
+msgid "Acronyms should be upper case, e.g. ASCII instead of ascii"
+msgstr "頭字語は大文字でなければなりません、例えばasciiではなくASCII"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:252
+msgid ""
+"In case of doubt, please check the existing similar plugins to maintain "
+"consistency"
+msgstr "疑わしい場合には、一貫性を維持するために、既存の類似したプラグインを確認してください"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:257
+msgid "Options which cannot be currently used"
+msgstr "現在使用できないオプション"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:259
+msgid ""
+"Technically, any option can be used. Some kinds of options however are not "
+"yet well supported, for example those which depend on other option. Here is "
+"a list (probably incomplete) of options which are not yet well supported and"
+" so should not be used at present:"
+msgstr "技術的には、どんなオプションも使用できます。しかし、オプションのいくつかの種類はまだ十分サポートされていません、例えば他のオプションに依存するもの。これは、まだ十分にサポートされていないので、現時点では使用すべきではないオプションのリスト（おそらく不完全）は次のとおりです。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:264
+msgid "OGR input dsn/layer (v.in.ogr)"
+msgstr "OGR input dsn/layer (v.in.ogr)"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:268
+msgid "Modules which can be added"
+msgstr "追加できるモジュール"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:270
+msgid ""
+"Most modules have been added. If you need additional ones, please write to "
+"the qgis development mailing list, and list hereafter the modules you think "
+"are most important to be added."
+msgstr "ほとんどのモジュールが追加されました。追加のものが必要な場合は、QGIS開発メーリングリストに書き込み、以下に追加することが最も重要だと思うのモジュールをリストしてください。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:286
+msgid "Modules to be deprecated"
+msgstr "廃止されるモジュール"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:288
+msgid ""
+"List hereafter the modules who should be removed, with a rationale for this "
+"suggestion (e.g.: some modules related to projections are difficult to "
+"understand, and of no general use). Please note: some modules have not been "
+"thoroughly tested. Please test them, and if you find any issue report it to "
+"the redmine (better still: fix it yourself and send the patch)."
+msgstr "除去されなければならないモジュールを、この提案の根拠とともに（例：投影に関連するいくつかのモジュールは理解しにくく、一般的な使用ではない）、以下にリストしてください。ご注意：いくつかのモジュールは、徹底的にテストされていません。それらをテストしてください、何か問題を見つけた場合はRedmineに報告してください（より良いのは：それをご自分で修正してパッチを送ってください）。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:5
+msgid "Adding GRASS Tools"
+msgstr "GRASSツールを追加"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:7
+msgid ""
+"GRASS modules can be run from QGIS *GRASS Tools* if QGIS was started from a "
+"GRASS shell or if a GRASS mapset was opened from QGIS. The modules work with"
+" GRASS data only."
+msgstr "QGISはGRASSのシェルから起動された場合やGRASSマップセットは、QGISから開かれた場合GRASSモジュールは、QGISの *GRASSツール* から実行できます。モジュールは、GRASSデータのみで動作します。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:36
+msgid ""
+"Some GRASS modules have too many options which can be confusing for "
+"beginners. In QGM it is possible to define only some of them and possibly "
+"set some default values and/or hide some options with certain value. That "
+"means that more QGIS-GRASS modules can be defined for each GRASS module. For"
+" example the module r.to.vect was divided into three QGIS-GRASS modules with"
+" predefined \"feature\" option. The QGM definition is written in XML format "
+"file with extension .qgm, one for each QGIS-GRASS module. Configuration "
+"files are stored in _*qgis/src/plugins/grass/modules*_ directory and "
+"installed in _*share/qgis/grass/modules*_ directory. The name of the file "
+"should start with GRASS module name + a word describing the specific task. "
+"For example, the module which extracts vector lines from raster is called "
+"r.to.vect.line.qgm."
+msgstr "いくつかのGRASSモジュールは、初心者が混乱しそうなほど、あまりにも多くのオプションを持っています。QGMではそれだけでそれらのいくつかを定義し、おそらくいくつかのデフォルト値を設定および/または特定の値を持ついくつかのオプションを非表示にすることも可能です。すなわち、よりQGIS、GRASSモジュールは各GRASSモジュールのために定義することができることを意味します。例えば、モジュールr.to.vectは、予め定義された「機能」オプションで３つのQGIS-GRASSモジュールに分割しました。QGM定義は拡張.qgm、各QGIS-GRASSモジュールのいずれかでXML形式のファイルに書き込まれます。設定ファイルは _*qgis/src/plugins/grass/modules*_ ディレクトリに格納されていると _*share/qgis/grass/modules*_ ディレクトリにインストールされています。ファイルの名前は、GRASSモジュール名+特定のタスクを記述する単語で始まる必要があります。例えば、ラスターからベクターラインを抽出するモジュールは r.to.vect.line.qgm と呼ばれます。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:92
+msgid ""
+"*selection* --- this is quite interesting and useful type of option. It "
+"allows to define list of GRASS vector categories using QGIS interface. "
+"Features (and their categories, GRASS feature ID equivalent) can be selected"
+" either with 'Select Features' tool or in the attribute table. The list of "
+"categories is updated dynamically. Example (v.extract.list.qgm):"
+msgstr "*selection* ---これは非常に興味深いオプションの有用なタイプです。これは、QGISインタフェースを使用してGRASSベクターカテゴリのリストを定義できます。地物（およびそのカテゴリ、GRASSの地物IDに相当）は、「地物の選択」ツールまたは属性テーブル内のいずれかで選択できます。カテゴリのリストが動的に更新されます。例（v.extract.list.qgm）："
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:128
+msgid ""
+"It means that if a layer is selected from combobox of this option the "
+"_*atype*_ option is automaticaly set to the layer's type, and thus _*atype*_"
+" does not have to be added at all."
+msgstr "これは、レイヤーがこのオプションのコンボボックスから選択された場合 _*atype*_ オプションが自動的にレイヤーのタイプに設定されているので、 _*atype*_ すべてで追加する必要がないことを意味します。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:157
+msgid ""
+"The idea QGIS-GRASS modules implementation is to use maximum information "
+"from GMO and only simplify the interface. Here are described some rules how "
+"information from GMO are used and in which order if not all of them are "
+"defined in GMO."
+msgstr "QGIS-GRASSモジュールの実装のアイデアは、GMOから最大の情報を使用して、唯一のインタフェースを簡素化することです。ここではない、それらのすべてがGMOで定義されている場合はGMOからの情報を使用しているために、どのようにされているいくつかのルールを説明しています。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:165
+msgid ""
+"*tooltip* --- (appeares on mouseover the option) if label is defined (either"
+" in QGM or GMO) and description is defined in GMO (thus label and "
+"description differ) the GMO description tag is used for tooltip"
+msgstr "*tooltip* ---（マウスオーバー上のオプションをappeares）ラベルが定義されている（いずれかQGM又はGMOにおける）と説明をGMOに定義されている場合（従って、ラベルおよび説明が異なる）GMO記述タグはツールチップのために使用されます"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:185
+msgid ""
+"The name of the picture starts with QGIS-GRASS module name to which is "
+"appended picture number, for example: v.overlay.and.1.svg, "
+"v.overlay.and.2.svg, v.overlay.and.3.svg. It is possible to combine SVG and "
+"PNG pictures."
+msgstr "v.overlay.and.1.svg、v.overlay.and.2.svg、v.overlay.and.3：画像の名前は、例えば、ピクチャ番号、添付されたQGIS、GRASSモジュール名で始まります。 SVG。SVGおよびPNG画像を組み合わせることが可能です。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:189
+msgid ""
+"SVG and PNG pictures can be generated from QGIS using *Map Composer*. The "
+"size of PNG images should be larger than the expected icon size, because it "
+"is expected to be later used in automatically generated documentation, where"
+" pictures will be used in larger size."
+msgstr "SVGおよびPNG画像は *地図コンポーザ* を使用してQGISから生成できます。PNG画像の大きさは、予想されるアイコンのサイズよりも大きくする必要があります。それらは後に自動生成された文書で使用されることが予想され、そこでは写真はより大きなサイズで使用されるためです。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:220
+msgid ""
+"For section/module it is possible to specify GRASS version for which it is "
+"valid using version_min/version_max attributes:"
+msgstr "セクション/モジュールの場合、version_min/version_max 属性を使用して有効であるGRASSバージョンを指定することが可能です。"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:274
+msgid ""
+"You should post the name of a new QGIS-GRASS module, the name of the GRASS "
+"module and the options which you want to use. For example:"
+msgstr "新しいQGIS-GRASSモジュール、GRASSモジュールの名前と使用するオプションの名前を掲示する必要があります。例えば："
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:281
+msgid ""
+"See also here for discussion on `GRASS-QGIS relevant module list "
+"<http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list>`_."
+msgstr "ここでの議論については `GRASS-QGIS関連モジュールのリスト <http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list>`_ も参照。"
+
+#~ msgid ""
+#~ "See also here for discussion on \"GRASS-QGIS relevant module "
+#~ "list\":http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "GRASS modules can be run from QGIS *GRASS Tools* if QGIS was  started from a"
+#~ " GRASS shell or if a GRASS mapset was opened from QGIS. The modules work "
+#~ "with GRASS data only."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Some GRASS modules have too many options which can be confusing for "
+#~ "beginners. In QGM it is possible to define only some of them and possibly "
+#~ "set some default values and/or hide some options with certain value. That "
+#~ "means that more QGIS-GRASS modules can be defined for each GRASS module. For"
+#~ " example the module r.to.vect was devided into three QGIS-GRASS modules with"
+#~ " predefined \"feature\" option.The QGM definition is written in XML format "
+#~ "file with extension .qgm, one for each QGIS-GRASS module. Configuration "
+#~ "files are stored in _*qgis/src/plugins/grass/modules*_ directory and "
+#~ "installed in _*share/qgis/grass/modules*_ directory. The name of the file "
+#~ "should start with GRASS module name + a word describing the specific task. "
+#~ "For example, the module which extracts vector lines from raster is called "
+#~ "r.to.vect.line.qgm."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*selection* --- this is quite interesting and useful type of option. It "
+#~ "allows to define list of GRASS vector categories using QGIS interface. "
+#~ "Features (and their categories, GRASS feature ID equivalent) can be selected"
+#~ " either with 'Select Features' tool or in the attribute table. The list of "
+#~ "categories is updated dynamicaly. Example (v.extract.list.qgm):"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "It means that if a layer is selected form combobox of this option the "
+#~ "_*atype*_ option is automaticaly set to the layer's type, and thus _*atype*_"
+#~ " does not have to be added at all."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The idea QGIS-GRASS modules implementation is to use maximum informations "
+#~ "from GMO and only simplify the interface. Here are described some rules how "
+#~ "informations from GMO are used and in which order if not all of them are "
+#~ "defined in GMO."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*tooltip* --- (appeares on mouseover the option) if label is defined (either"
+#~ " in QGM or GMO) and description is defined in GMO (thus label and "
+#~ "description differ) the GMO decription tag is used for tooltip"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The name of the picture starts with QGIS-GRASS module name to which is "
+#~ "appended picture number, for example: v.overlay.and.1.svg, "
+#~ "v.overlay.and.2.svg, v.overlay.and.3.svg It is possible to combine SVG and "
+#~ "PNG pictures."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "SVG and PNG pictures can be generated from QGIS using *Map Composer*. The "
+#~ "size of PNG images should be larger than the expected icon size, because it "
+#~ "is expected to be later used in automaticaly generated documentation, where "
+#~ "pictures  will be used in larger size."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For section/module it is possible to specify  GRASS version for which it is "
+#~ "valid using version_min/version_max attributes:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You should post the name of a new QGIS-GRASS module, the name of the GRASS "
+#~ "module and  the options which you want to use. For example:"
+#~ msgstr ""

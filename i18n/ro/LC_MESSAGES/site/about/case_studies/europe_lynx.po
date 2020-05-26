@@ -1,0 +1,227 @@
+# 
+# Translators:
+# Sorin Călinică <scalinica@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-30 12:18+0100\n"
+"PO-Revision-Date: 2017-09-22 14:42+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
+"Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:4
+msgid "Lynx habitat analysis in the Southern Carpathians"
+msgstr "Analiza habitatului pentru Lynxul din Carpații Meridionali"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:6
+msgid ""
+"A case study to promote basic understanding of wildlife habitat modeling for"
+" students based on open source data."
+msgstr "Un studiu de caz pentru studenți, cu scopul de a promova înțelegerea de bază a modelării habitatului pentru fauna sălbatică, cu ajutorul surselor de date deschise."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:9
+msgid "Introduction"
+msgstr "Introducere"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:11
+msgid ""
+"Challenged with the task of GIS based modeling for the first time, a working"
+" group of undergraduate forestry students of the University for Sustainable "
+"Development Eberswalde (HNEE) conducted literature research for habitat "
+"suitability and behavior of the Eurasian Lynx (*Lynx lynx*). In the module "
+"‘Applied GIS in Natural Resource Management’, under the guidance of Prof. "
+"Mund, the students quickly discovered the subject’s complexity, especially "
+"within regard to the adaptability of species to changing environments. With "
+"limited research published in English about lynx habitat on the Romanian "
+"side, we continued the project based on only freely available data sets and "
+"open-source software, aiming to establish conceptual knowledge of habitat "
+"modeling, strengthening skills on widely applied QGIS tools and to create a "
+"**basic expert model** in the process."
+msgstr "Confruntându-se, pentru prima dată, cu sarcina de modelare bazată pe GIS, un grup de lucru de studenți la silvicultură de la Universitatea pentru Dezvoltare Durabilă Eberswalde (HNEE) a efectuat cercetari în literatura de referință, referitoare la habitatul adecvat și la comportamentul Lynxului Eurasiatic (*Lynx lynx*). În modulul 'GIS Aplicat în Managementul Resurselor Naturale', sub îndrumarea Prof. Mund, studenții au descoperit repede complexitatea subiectului, în special în ceea ce privește adaptabilitatea speciilor la mediul în schimbare. Cu puținele lucrări publicate în limba engleză despre habitatul lynx din arealul Românesc, am continuat proiectul bazându-ne doar pe seturile de date disponibile gratuit și pe soft-ul cu sursă deschisă, în scopul stabilirii cunoașterii conceptuale a modelării habitatului, pentru consolidarea competențelor de utilizare a instrumentelor QGIS larg aplicate și pentru a crea un **model expert de bază** în cadrul acestui proces."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:24
+msgid "Methodology"
+msgstr "Metodologia"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:26
+msgid ""
+"All collected data was processed with QGIS 2.6 and 2.8, projected into "
+"ETRS89 / ETRS-LAEA and stored according to the INSPIRE directive to meet EU "
+"standards. An overall **discrete index of weights** was defined and applied "
+"to all input data."
+msgstr "Toate datele colectate au fost prelucrate cu aplicațiile QGIS 2.6 și 2.8, proiectate în ETRS89 / ETRS-LAEA și depozitate în conformitate cu Directiva INSPIRE, pentru a îndeplini standardele UE. A fost definit și aplicat tuturor datelor de intrare un **indice discret al ponderilor**."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:34
+msgid "Figure 1: Workflow - Lynx habitat expert model"
+msgstr "Figura 1: Fluxul de lucru - Modelul expert al habitatului Lynxului"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:37
+msgid "**Workflow description**"
+msgstr "**Descrierea fluxului de lucru**"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:39
+msgid ""
+"Area of Interest [Step I – II]: Based on selected national park areas and "
+"adding a 10 kilometer buffer, a minimum bounding box [α] was created and "
+"clipped with the outline of the river Danube (derived from Corine Land Cover"
+" 2006). Further clipping tools [β] were applied to all additional data as an"
+" initial preparation step (Figure 2)"
+msgstr "Aria de Interes [Pașii I - II]: În funcție de zonele selectate din parcul național și prin adăugarea unui tampon de 10 km, a fost creată o casetă minimă de încadrare [α], care a fost decupată după conturul Dunării (derivat din Corine Land Cover 2006). Instrumentele suplimentare de decupare [β] au fost aplicate tuturor datelor adiționale, ca o etapă de pregătire inițială (Figura 2)"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:41
+msgid ""
+"Land Cover Suitability Model [Step IX]: [γ] Input III and IV were "
+"transformed into shape files using the inbuilt #Polygonize function. Corine "
+"Landcover (2006) data was reclassified using the field calculator to group "
+"land use classes and assign respective index values.  Similar processing was"
+" applied to Hansen Forestcover data (2000), extracting only areas of cover "
+"equal or higher 75 %. Sub-model IX was produced by using the functions "
+"#Merge Shapes to combine III with IV and #Rasterize"
+msgstr "Modelul Adecvat de Acoperire a Teritoriului [Pasul IX]: [γ] Intrările III și IV au fost transformate în fișiere shape cu ajutorul funcției de #Poligonizare încorporată. Datele Corine Landcover (2006) au fost reclasificate folosind calculatorul de câmpuri, pentru a grupa clasele de folosință a terenului și pentru a asigna valorile indicelui respectiv. Prelucrări similare au fost aplicate datelor Hansen Forestcover (2000), extrăgându-se doar zone de acoperire egală sau mai mare de 75 %. Sub-modelul IX a fost produs prin utilizarea funcțiilor de #Îmbinare forme, pentru a combina III cu IV, și prin #Rasterizare"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:43
+msgid ""
+"*Note: Land cover classes were grouped by possible lynx occurrence and human"
+" activity. Although technically of older origin, information related to "
+"forest cover values were integrated in order to indicate habitat improvement"
+" and as a general example for joining spatial data sets*"
+msgstr "*Notă: Clase de acoperire a terenurilor au fost grupate în funcție de posibila prezență a lynxului și de activitatea umană. Deși vechi din punct de vedere tehnic,  informațiile referitoare la valorile suprafețelor împădurite au fost integrate, în ideea de a indica îmbunătățirea habitatelor, și ca un exemplu general de îmbinare a seturilor de date spațiale*"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:45
+msgid ""
+"Habitat Suitability Model [Step X]: [δ] An Elevation Suitability Index was "
+"derived from the AsterDEM 2.0 [VI] and together with a Population Density "
+"Index [V] was integrated into the final habitat suitability model (Figure 3)"
+" by using the #Raster calculator"
+msgstr "Modelul Habitatului Adecvat [Pasul X]: [δ] Un Index Adecvat al Elevației a fost derivat din AsterDEM 2.0 [vi] și, împreună cu Indexul de Densitate a Populației [V], au fost integrate în modelul final al habitatului adecvat (figura 3) cu ajutorul #Calculatorului raster "
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:51
+msgid ""
+"*Note:Defining forest (>= 75 % cover) as best suitable and using the "
+"elevation data to reduce index values above assumed tree line is "
+"conceptually related to habitat of deer as the main prey*"
+msgstr "*Notă: Definirea pădurii (cu o acoperire >= 75 %) ca fiind cea mai potrivită, și folosirea datelor de elevație pentru a reduce valorile indicelui deasupra liniei asumate a copacilor, sunt conceptual legate de habitatul cerbului, ca pradă principală*"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:53
+msgid ""
+"Potential Hunter Accessibility Model [Step XI]: Applying the #Terrain "
+"analysis tool [ε], a slope layer was extracted from the DEM data and "
+"combined [η] with a road distance layer, which was produced by processing "
+"rasterized OSM road data within the #Proximity function and index values "
+"assigned using #Reclassify grid values"
+msgstr "Modelul de Accesibilitate al Prădătorului Potențial [Pasul XI]: În urma aplicării #Instrumentului de analiză a terenului [ε], un strat al pantei a fost extras din datele DEM, și combinat [η] cu un strat al distanței drumurilor, care a fost produs prin prelucrarea datelor rutiere OSM raster în cadrul funcției de #Proximitate. și cu valori ale indecșilor asignate prin utilizarea #Reclasificării valorilor grilei"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:62
+msgid ""
+"Conservation Value Model [Step XII]: Is the result of the #Raster calculator"
+" function: (Figure 4)"
+msgstr "Modelul Valorilor de Conservare [Pasul XII]: Este rezultatul funcției #Raster calculator: (Figura 4)"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:70
+msgid ""
+"*Note: The Hunter Accessibility Model shall indicate the decreasing "
+"likelihood of hunters accessing the area by further distance to roads and "
+"increasing slope*"
+msgstr "*Notă: Modelul de Accesibilitate al Prădătorului Potențial indică probabilitatea, în scădere, ca prădătorii să acceseze zona îndepărtate de drumuri și pantele mari*"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:76
+msgid "Figure 2, 3 and 4"
+msgstr "Figura 2, 3 și 4"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:79
+msgid "Conclusion"
+msgstr "Concluzii"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:81
+msgid ""
+"Looking at the final output (Figure 3), a plausible first potential habitat "
+"analysis appeared to be successful, yet more importantly, basic modeling "
+"itself turned out to be less difficult than initially expected. Our choice "
+"to add a sub-model for hunter accessibility allowed us to implement another "
+"dimension in terms of habitat risk assessment, which can be simply nested "
+"into the already existing scenario and used to determine protection "
+"necessities under aspects of e.g. infrastructure development. However, some "
+"crucial habitat information, such as forest structure (our highest habitat "
+"suitability) cannot be derived by available data sets and in combination "
+"with the complex species behavior, the result must therefore be understood "
+"as basic and incomplete. Additional factors not implemented at this stage "
+"are road mortality, terrain roughness and detailed prey occurrence."
+msgstr "Privind la rezultatul final (figura 3), o primă analiză a habitatului potențial plauzibil pare să se fi desfășurat cu succes, dar mai important, modelarea de bază s-a dovedit a fi mai puțin dificilă decât se aștepta inițial. Alegerea noastră, de a adăuga un sub-model de accesibilitate a prădătorului ne-a permis să implementăm o altă dimensiune în termeni de evaluare a riscului de habitat, care poate fi pur și simplu imbricată în scenariul deja existent și folosită pentru a determina necesitățile de protecție în conformitate cu, de exemplu, aspectele de dezvoltare a infrastructurii. Cu toate acestea, unele informații cruciale despre habitat, cum ar fi structura pădurii (habitatul cel mai adecvat), nu pot fi derivate din seturile de date disponibile, și prin urmare, ținând cont de comportamentul complex al speciilor, trebuie să înțelegem că rezultatul este orientativ și incomplet. Alți factori neimplementați în această etapă sunt mortalitatea rutieră, rugozitatea terenului și detaliile despre prezența prăzii."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:93
+msgid ""
+"Besides its open source, free available character, QGIS software has been "
+"the subject of major developments in recent years. We made very positive "
+"experience with the integration of the tool box, allowing the use of various"
+" GRASS and SAGA tools, even for inexperienced users. No compatibility issues"
+" occurred despite changing frequently between different versions and the "
+"general absence of administrative restrictions can be a powerful advantage "
+"when working intuitively with data sets. We are looking forward seeing "
+"further improvements, especially in regards to the integrated model builder."
+msgstr "În afară de sursa deschisă și de disponibilitatea sa gratuită, aplicația QGIS a fost subiectul unor evoluții importante în ultimii ani. Am avut experiențe foarte pozitive la integrarea trusei de instrumente, care permite utilizarea diverselor funcțiuni din GRASS și SAGA, chiar și de către utilizatorii neexperimentați. Nu au apărut probleme de compatibilitate. în ciuda schimbării frecvente a diverselor versiuni, iar absența generală a restricțiilor administrative constituie un avantaj puternic, atunci când se lucrează în mod intuitiv cu seturile de date. Așteptăm cu nerăbdare să vedem îmbunătățiri suplimentare, în special în ceea ce privește constructorul de modele integrat."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:103
+msgid "References"
+msgstr "Referințe"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:105
+msgid ""
+"Kaczensky, P., Chapron, G.,von Avrx, M., Huber, D., Andrén, H. & Linnell, J."
+" (December 2012): Status, management and distribution of large carnivores in"
+" Europe. Document European Commission."
+msgstr "Kaczensky, P., Chapron, G.,von Avrx, M., Huber, D., Andrén, H. & Linnell, J. (Decembrie 2012): Starea, gestionarea și distribuția carnivorelor mari din Europa. Document al Comisiei Europene."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:106
+msgid ""
+"Schadt, S., Revilla, E., Wiegand, T., Knauer, F., Kaczensky, P., "
+"Breitenmoser, U., Bufka, L., Cerveny, J., Koubek, P., Huber, T., Stanisa, C."
+" & Trepl, L. (2002): Assessing the suitability of central European "
+"landscapes for the reintroduction of Eurasian lynx. Article Journal of "
+"Applied Ecology."
+msgstr "Schadt, S., Revilla, E., Wiegand, T., Knauer, F., Kaczensky, P., Breitenmoser, U., Bufka, L., Cerveny, J., Koubek, P., Huber, T., Stanisa, C. & Trepl, L. (2002): Evaluarea caracterului adecvat al peisajelor din Europa Centrală, pentru reintroducerea Lynxului eurasiatic. Articolul din Jurnalul de Ecologie Aplicată."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:107
+msgid ""
+"Salvatori, V. (2004): Conservation areas for large carnivores in the "
+"Carpathian Mountains. PhD Thesis."
+msgstr "Salvatori, V. (2004): Zone de conservare pentru carnivorele mari din Munții Carpați. Teză de doctorat."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:108
+msgid ""
+"Podgórski, T., Schmidt, K., Kowalczyk, R. & Gulczyñska, A. (2008): "
+"Microhabitat selection by Eurasian lynx and its implications for species "
+"conservation. Acta Theriologica 53: 97–110."
+msgstr "Podgórski, T., Schmidt, K., Kowalczyk, R. & Gulczyñska, A. (2008): Selecția microhabitatului pentru râsul eurasiatic și implicațiile sale în conservarea speciilor. Acta Theriologica 53: 97–110."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:109
+msgid ""
+"Boutros, D. (March 2002): Characterization and assessment of suitability of "
+"Eurasian lynx (Lynx lynx) den sites. KORA Report No. 12e, Diploma thesis."
+msgstr "Boutros, D. (Martie 2002): Caracterizarea și evaluarea adecvării râsului eurasiatic (Lynx lynx). KORA Raport nr 12e, Lucrare de diplomă."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:112
+msgid "Authors"
+msgstr "Autori"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:114
+msgid ""
+"Angela Dichte, Luca Ehrminger, Silvana Garcia Travesi Reyes, Tobias Hoppe "
+"and David Winger are fourth semester students of the study program "
+"International Forest Ecosystem Management B.Sc., Anne Gnilke respectively "
+"German Forestry and Henri Hiltunen is an exchange student from Mikkeli "
+"University of Applied Sciences, Finland. Prof. Mund is lecturing GIS and "
+"Remote Sensing at HNE Eberswalde since 2010 and provided guidance and "
+"technical support to the project."
+msgstr "Angela Dichte, Luca Ehrminger, Silvana Garcia Travesi Reyes, Tobias Hoppe și David Winger sunt studenți în semestrul al patrulea la programul de Management International al Ecosistemelor Silvice, Anne Gnilke este la Silvicultură Germană iar Henri Hiltunen este student la Universitatea de Științe Aplicate Mikkeli din Finlanda. Prof. Mund predă din 2010 cursuri de GIS și Teledetecție la HNE Eberswalde, și a oferit îndrumare și sprijin tehnic acestui proiect."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:122
+msgid ""
+"Please contact Luca.Ehrminger(at)hnee.de, David.Winger(at)hnee.de, or "
+"Prof.Dr.Jan-Peter Mund: Jan-Peter.Mund(at)hnee.de for further information."
+msgstr "Contactați-i pe Luca.Ehrminger(at)hnee.de, David.Winger(at)hnee.de sau Prof.Dr.Jan-Peter Mund: Jan-Peter.Mund(at)hnee.de pentru informații suplimentare."

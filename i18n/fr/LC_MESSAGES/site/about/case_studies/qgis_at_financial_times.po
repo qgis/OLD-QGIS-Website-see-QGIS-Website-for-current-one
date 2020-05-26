@@ -1,0 +1,601 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Sant-anna <delazj@gmail.com>, 2016
+# Benoît de Cabissole, 2017
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"PO-Revision-Date: 2016-06-21 12:24+0000\n"
+"Last-Translator: Benoît de Cabissole, 2017\n"
+"Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:3
+msgid "Use of QGIS at the Financial Times Graphics Team"
+msgstr "Utilisation de QGIS au sein du Financial Times"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:6
+msgid "Interview with Steven Bernard (Interactive Design Editor)"
+msgstr "Entretien avec Steven Bernard (Éditeur Conception Interactive)"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:8
+msgid ""
+"Steven is an Interactive Design Editor at Financial Times. You can find him "
+"on `Twitter <https://twitter.com/sdbernard>`_. He also publishes useful "
+"`HOWTO Videos on Youtube <https://t.co/6aTE6G8h0T>`_ for certain "
+"cartographic tasks in QGIS."
+msgstr ""
+"Steven est Éditeur Conception Interactive au Financial Times. Vous pouvez le"
+" joindre sur `Twitter <https://twitter.com/sdbernard>`_. Il est aussi "
+"l'auteur de `vidéos utiles COMMENTFAIRE sur Youtube "
+"<https://t.co/6aTE6G8h0T>`_ traitant de tâches cartographiques en QGIS."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:12
+msgid ""
+"**QGIS**: Steven, What is the name of the team you work at FT? Can you "
+"provide us a little bit of background about what your team at FT is doing?"
+msgstr ""
+"**QGIS** : Steven, Quel est le nom de l'équipe avec laquelle vous travaillez"
+" au FT ? Pouvez-vous nous donner des détails sur le contexte de ce que fait "
+"votre équipe au FT ?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:15
+msgid ""
+"**Steve**: Our team is in a transition period at the moment, we have a new "
+"data visualisation editor, Alan Smith OBE (formerly of the ONS) who is "
+"shaking things up and creating a single graphics team. Traditionally we had "
+"a web graphics team and print graphics team. The print team would be "
+"responsible for all the newspaper graphics as well as creating web-friendly "
+"versions of them. My team was responsible for all the web-only content, as "
+"well as working closely with the interactive producers/developers in "
+"designing interactive graphics."
+msgstr ""
+"**Steve** : Notre équipe est dans une période de transition en ce moment, "
+"nous avons un nouveau éditeur visualisation des données, Alan Smith OBE "
+"(anciennement ONS) qui est en train de tout changer en créant une équipe "
+"graphique unique. Traditionnellement nous avions une équipe graphique web et"
+" une équipe graphique impression. L'équipe impression était responsable de "
+"tous les graphiques du journal ainsi que de la création de leur version pour"
+" le web. Mon équipe ne s'occupait que du contenu spécifiquement web, ainsi "
+"que de travailler en étroite collaboration avec les producteurs/développeurs"
+" interactifs pour le développement de graphiques interactifs."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:22
+msgid ""
+"The newly formed team will allow for a lot more cross-over of skills between"
+" the different media."
+msgstr ""
+"L'équipe nouvellement formée permettra une dissémination plus importante des"
+" expériences entre les différents médias."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:24
+msgid ""
+"Alan has introduced a single digital workflow for our team, including using "
+"d3 to help create a larger graphic vocabulary and cutting down the time it "
+"takes to create the visuals."
+msgstr ""
+"Alan a introduit un flux de travail unique pour notre équipe, comprenant "
+"l'utilisation de d3 pour aider à créer un vocabulaire graphique plus étendu "
+"et pour réduire le temps nécessaire à la création d'illustrations."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:32
+msgid "*Example: Migrant flows. Western Balkans route.*"
+msgstr "*Exemple : Flux de migration. Route des Balkans de l'Ouest.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:35
+msgid "**QGIS**: How many co-workers are there in your team?"
+msgstr "**QGIS** : Combien y a-t-il de collaborateurs dans votre équipe ?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:37
+msgid ""
+"**Steven**: Including all the designers, developers, producers and "
+"statisticians we have a team of 24"
+msgstr ""
+"**Steven** : En incluant les designers, développeurs, producteurs et "
+"statisticiens, nous avons une équipe de 24"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:39
+msgid "**QGIS**: What's your specific role within the team?"
+msgstr "**QGIS**: Quel est votre rôle spécifique dans l'équipe?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:41
+msgid ""
+"**Steven**: We are a multi-disciplinary department so I don’t have a "
+"specific role as such. My role includes producing responsive designs for "
+"interactive graphics as well as doing the front-end development on the less "
+"complicated interactives (e.g. `Inside Isis Inc: The journey of a barrel of "
+"oil <http://ig.ft.com/sites/2015/isis-oil/>`_). I also produce the standard "
+"news related charts and maps on a daily basis. Over the past two years I "
+"have been concentrating on developing our cartographic offerings at the FT. "
+"QGIS has been instrumental in changing how we produce maps, and in "
+"conjunction with other tools such Blender have helped me to be more creative"
+" with how we approach maps."
+msgstr ""
+"*Steven** : Je n'ai pas un rôle spécifique car nous sommes un département "
+"multi-disciplinaire. Mon rôle comprend la production de designs réactifs "
+"pour les graphiques inter-actifs ainsi que le développement frontal des "
+"interactives moins compliquées (par ex. : `À l'intérieur d'Isis Inc: Le "
+"voyage d'un baril de pétrole <http://ig.ft.com/sites/2015/isis-oil/>`_). Je "
+"produit aussi les diagrammes et cartes quotidiens standards basés sur les "
+"nouvelles du jour. Depuis ces deux dernières années, je me suis focalisé sur"
+" le développement de notre offre cartographique à FT. QGIS a contribué de "
+"manière déterminante dans la façon dont nous créons nos cartes,  et avec "
+"d'autres outils tels que Blender m'a aidé à être plus créatif dans la façon "
+"dont nous approchons les cartes."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:54
+msgid ""
+"*Example: Animation of Dora's journey from Nigeria to Sicily - one of "
+"thousands by trafficked women each year.*"
+msgstr ""
+"*Exemple : Animation du voyage de Dora, du Nigeria à la Sicile - une des "
+"milliers de femmes victimes de traite chaque année.* "
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:57
+msgid ""
+"**QGIS**: Can you tell us a bit about yourself? What's your educational "
+"background? What did you do before joining the data visualization team at "
+"FT?"
+msgstr ""
+"**QGIS** : Pouvez-vous nous en dire un peu plus sur vous-même ? Quelle est "
+"votre formation ? Que faisiez-vous avant de rejoindre l'équipe de "
+"visualisation des données à FT ?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:65
+msgid "*Example: Gotthard rail and road tunnel in the Swiss Alps.*"
+msgstr ""
+"*Exemple : Le tunnel routier et ferroviaire du Gotthard dans les Alpes "
+"suisses.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:68
+msgid ""
+"**Steven**: I am traditionally trained as scientific illustrator. What’s "
+"that I hear you ask? It involves producing illustrations for medical "
+"journals, natural history publications anything where you are trying to "
+"convey information visually where a photograph can’t. Think of diagrams "
+"showing the human circulatory system, or showing a procedure to fix a broken"
+" bone. Sadly there wasn’t much call for that kind of work when I left "
+"university and I basically fell into the job at the FT. I have always been "
+"good at maths, which I think is important when working with data "
+"visualisations, it has certainly helped me with my coding as well."
+msgstr ""
+"*Steven** : J'ai une formation traditionnelle d'illustrateur scientifique. "
+"Qu'est ce que c'est ? Je vous entend demander ! C'est la production "
+"d'illustrations pour des journaux médicaux, des publications d'histoire "
+"naturelle, pour tout média dans lequel vous voulez convoyer des informations"
+" visuelles qu'une photo ne peut pas faire. Pensez aux diagrammes montrant le"
+" système de circulation humain, ou montrant une procédure pour ressouder un "
+"os cassé. Malheureusement il n'y avait pas beaucoup d'offres d'emploi dans "
+"cette branche quand j'ai fini l'université et j'ai eu le job à FT "
+"pratiquement par un coup de chance. J'ai toujours été bon en math, ce qui je"
+" pense est important pour travailler dans les visualisations de données, et "
+"aussi m'a certainement aidé avec la programmation."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:76
+msgid "**QGIS**: How did you discover QGIS?"
+msgstr "**QGIS**: Comment avez-vous découvert QGIS?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:78
+msgid ""
+"**Steven**: I came across QGIS in 2013 when we were working on a `project "
+"mapping the ethnicity of the Middle East "
+"<http://ig.ft.com/features/2013-07-19_middleeast_religion_map/dist/index.html>`_"
+msgstr ""
+"**Steven** : Je suis tombé sur QGIS en 2013 alors que nous travaillions sur "
+"un `projet de cartographie des ethnicités au Moyen Orient "
+"<http://ig.ft.com/features/2013-07-19_middleeast_religion_map/dist/index.html>`_"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:81
+msgid ""
+"We used it to georeference maps that were created by a professor at Columbia"
+" University. At first I found it really tricky using the add feature drawing"
+" tool, probably because it was unlike anything I’d used in Adobe Illustrator"
+" for 17 years prior! I also found it frustrating that you had to save things"
+" twice, once when done editing the shapefile, then again to save the "
+"project. However, this was just down to inexperience with the program and in"
+" the end it did exactly what we needed, which was to produce shapefiles that"
+" we could add to a Mapbox base map."
+msgstr ""
+"Nous l'avons utilisé pour géo-référencer les cartes produites par un "
+"professeur de l'Université de Colombia. Au début j'ai trouvé l'outil d'ajout"
+" graphique des entités très compliqué, car il ne ressemblait à rien de ce "
+"que je connaissais dans Illustrator que j'utilisais depuis 17 ans ! J'étais "
+"aussi frustré de devoir sauver deux fois : une fois lorsque l'édition du "
+"shapefile est finie et une autre fois pour sauver le projet. Cependant cela "
+"n'était dû qu'à mon inexpérience du logiciel et à la fin il a fait "
+"exactement ce que nous voulions, c.-à-d. produire des shapefiles que nous "
+"pouvions ajouter sur une carte de base Mapbox."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:88
+msgid "**QGIS**: What's the role of QGIS within your usual workflows?"
+msgstr ""
+"**QGIS** : Quel est le rôle de QGIS dans vos flux de travail habituels ?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:90
+#, python-format
+msgid ""
+"**Steven**: QGIS is now an integral part of our mapping workflow. I don’t "
+"use any other GIS tool to create our maps. Although a few members of our "
+"team also use Map Publisher as they feel more comfortable staying within "
+"Adobe Illustrator. I would say 80% of our maps are now produced in QGIS."
+msgstr ""
+"**Steven** : QGIS est un élément incontournable de notre flux de travail "
+"cartographique. Je n'utilise aucun autre SIG pour créer nos cartes. Mais "
+"certains des membres de notre équipe utilisent Map Publisher car ils se "
+"sentent plus à l'aise de rester avec Adobe Illustrator. Je dirais que 80% de"
+" nos cartes sont produites avec QGIS. "
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:99
+msgid "*Example: Public Lands in the US.*"
+msgstr "*Exemple : Domaines publics aux USA.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:102
+msgid ""
+"**QGIS**: What other tools do you use besides QGIS and how do you combine "
+"these?"
+msgstr ""
+"**QGIS** : Quels autres outils utilisez-vous en dehors de QGIS et comment "
+"les combinez-vous ?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:104
+#, python-format
+msgid ""
+"**Steven**: If it is just a straightforward locator map 95% of the work is "
+"done in QGIS, with the final polishing done in Adobe Illustrator."
+msgstr ""
+"**Steven** : Si c'est pour une simple carte de localisation 95% du travail "
+"se fait dans QGIS, et le polissage final dans Adobe Illustrator."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:107
+msgid ""
+"If I am doing a relief map, then the process is a lot more complex. I will "
+"retrieve DEM files from Nasa Earth Explorer, and bring them into QGIS to "
+"crop to size. I will then take the cropped DEM into Blender to create a 3D "
+"render. If I am using a satellite overlay on the hillshading then I will "
+"download a BlueMarble image from Nasa and take this into Blender as well. "
+"The exported render from Blender is then brought back into QGIS to use as a "
+"background layer. I may tweak it in Photoshop beforehand if necessary."
+msgstr ""
+"Si je fait une carte topographique, alors le procédé est bien plus complexe."
+" Je récupère les fichiers MNE avec Nasa Earth Explorer et les importent dans"
+" QGIS pour les recadrer à la taille voulue. J'importe ensuite le MNE recadré"
+" dans Blender pour faire un rendu 3D. Si j'utilise une image satellite sur "
+"le relief ombré je récupère une image BlueMarble à partir de la Nasa et "
+"l'importe aussi dans Blender. Le rendu exporté de Blender est alors importé "
+"dans QGIS pour être utilisé comme couche de base. Je le manipule avec "
+"Photoshop avant l'import si nécessaire. "
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:113
+msgid ""
+"For responsive maps like those in the `Isis oil story "
+"<http://ig.ft.com/sites/2015/isis-oil/>`_, I used all of the above tools but"
+" the final step is to use an open source Adobe Illustrator script developed "
+"by the New York Times’ Archie Tse. This allows me to create responsive "
+"versions of my maps that work on all devices."
+msgstr ""
+"Pour des cartes adaptables comme celles dans `Isis l'histoire d'un baril de "
+"pétrole <http://ig.ft.com/sites/2015/isis-oil/>`_, j'ai utilisé tous les "
+"outils précédents mais l'étape finale est l'utilisation d'un script Open "
+"Source pour Adobe Illustrator créé par Archie Tse du New York Times. Il me "
+"permet de créer des versions adaptables de mes cartes qui fonctionnent sur "
+"tous les appareils."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:117
+msgid ""
+"Another tool that is useful is Google My Maps which allows reporters around "
+"the world to mark locations on a map and then we can download them as a kmz "
+"file and import them straight into QGIS."
+msgstr ""
+"Un autre outil utile est Google My Maps qui permet aux reporteurs dans le "
+"monde de marquer des positions sur une carte que nous pouvons ensuite "
+"récupérer en tant que fichier kmz et les importer directement dans QGIS."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:120
+msgid ""
+"The final tool I use is Adobe After Effects as I have recently got into "
+"animating my maps to take the user on a journey. As used in the Land Rush "
+"series recently:"
+msgstr ""
+"Le dernier outil que j'utilise est Adobe After Effects car je me suis mis "
+"récemment à animer mes cartes pour amener l'utilisateur en voyage. Comme "
+"dans la série récente Land Rush :"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:123
+msgid ""
+"`Land Rush Ethiopia <https://ig.ft.com/sites/land-rush-"
+"investment/ethiopia/>`_"
+msgstr ""
+"`Land Rush Ethiopia <https://ig.ft.com/sites/land-rush-"
+"investment/ethiopia/>`_"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:124
+msgid ""
+"`Land Rush Myanmar <https://ig.ft.com/sites/land-rush-investment/myanmar/>`_"
+msgstr ""
+"`Land Rush Myanmar <https://ig.ft.com/sites/land-rush-investment/myanmar/>`_"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:125
+msgid ""
+"`Land Rush Indonesia <https://ig.ft.com/sites/land-rush-"
+"investment/indonesia/>`_"
+msgstr ""
+"`Land Rush Indonesia <https://ig.ft.com/sites/land-rush-"
+"investment/indonesia/>`_"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:127
+msgid ""
+"**QGIS**: Do you use other spatial tools or GIS besides QGIS, and if yes, "
+"which ones?"
+msgstr ""
+"**QGIS** : Utilisez-vous d'autres outils spatiaux ou SIG en dehors de QGIS, "
+"et si oui, lesquels ?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:129
+msgid ""
+"**Steven**: QGIS all the way for me, but as mentioned above some of my "
+"colleagues use Map Publisher as well."
+msgstr ""
+"**Steven** : Tout en QGIS pour moi, mais comme mentionné auparavant certains"
+" de mes collègues utilisent aussi Map Publisher."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:136
+msgid "*Example: Strikes on Syria in February 2016.*"
+msgstr "*Exemples : Frappes en Syrie en février 2016.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:139
+msgid ""
+"**QGIS**: Can you describe the strengths and weaknesses of QGIS regarding "
+"the tasks you have to do?"
+msgstr ""
+"**QGIS** : Pouvez-vous décrire les points forts et les points faibles de "
+"QGIS en ce qui concerne les travaux que vous avez à faire ?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:141
+msgid ""
+"**Steven**: When I first used QGIS I saw it as a specialist tool, fit for "
+"only dealing with specific tasks. I really didn’t see it a production tool. "
+"In late 2014 two of my colleagues went on a QGIS course held by Alasdair Rae"
+" at Sheffield University. They both enthused about how good QGIS was, so I "
+"took it upon myself to evaluate it as a tool that could be used to produce "
+"all our maps."
+msgstr ""
+"**Steven** : Lorsque j'ai utilisé QGIS pour la première fois je l'ai "
+"considéré comme outil pour spécialiste, bon seulement pour certaines "
+"fonctions spécifiques. Je ne l'avais vraiment pas considéré comme outil de "
+"production. Fin 2014 deux de mes collègues ont eu une formation sur QGIS "
+"faite par Alasdair Rae à l'Université de Sheffield. Ils n'ont pas arrêté de "
+"faire les louanges de QGIS, et j'ai donc pris sur moi-même d'en faire "
+"l'évaluation en tant qu'outil qui pourrait être utilisé pour produire toutes"
+" nos cartes."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:146
+msgid ""
+"Within about two weeks I was convinced that it would be viable. The main "
+"selling point was the ability to set up style guides for everything "
+"including zoom level styling for street-level maps."
+msgstr ""
+"Dans les quinze jours j'étais convaincu que c'était faisable. Le point fort "
+"étant la possibilité de mettre en place des guides de styles pour tout, y "
+"compris pour les niveaux de zoom pour les cartes de villes."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:149
+msgid ""
+"I have a system set up where we have sets of Google sheets with columns for "
+"name, lat, long, marker-icon, fontweight, fontsize and whether you want the "
+"marker visible or not."
+msgstr ""
+"J'ai un système en place où nous avons des sets de feuilles Google avec "
+"colonnes pour nom du marqueur, lat., long., icône, épaisseur-casse, taille-"
+"casse et si vous voulez que le marqueur soit visible ou non."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:152
+msgid ""
+"The marker icon is a dropdown connected to a vLookUp table which fills in "
+"all the details for that marker."
+msgstr ""
+"L'icône du marqueur est une boîte déroulante connectée à une table vLookUp "
+"qui remplie tous les détails pour ce marqueur."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:154
+#, python-format
+msgid ""
+"So all I have to do is download the csv, import it into QGIS, apply a style "
+"and I have a map that is 95% ready to go."
+msgstr ""
+"Ainsi, tout ce que j'ai à faire est de télécharger le fichier csv, "
+"l'importer dans QGIS, lui appliquer un style et bingo, j'ai une carte prête "
+"à 95%."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:156
+msgid ""
+"To be perfectly honest I can’t think of any weaknesses, there are a couple "
+"of things that I would like to see or be able to do but, I don’t see that as"
+" a weakness, just a missing feature."
+msgstr ""
+"Pour être tout à fait honnête je ne vois aucun point faible, il y a "
+"certaines choses que je voudrais voir ou être capable de faire, mais je ne "
+"vois pas ça comme point faible, juste comme une composante manquante."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:164
+msgid "*Example: Urban Attraction and Migration within China.*"
+msgstr "*Exemple : Attraction urbaine et migration interne en Chine.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:167
+msgid "**QGIS**: What are the concepts or features you like the most in QGIS?"
+msgstr ""
+"**QGIS** : Quels sont les concepts ou composantes que vous appréciez le plus"
+" dans QGIS ?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:169
+#, python-format
+msgid ""
+"**Steven**: There are numerous features that I would class as life savers! "
+"But primarily Quick OSM and Georeferencer have saved me so much time, this "
+"is absolutely essential when deadlines are tight. Which, when working for a "
+"news organisation, is usually 90% of the time."
+msgstr ""
+"**Steven** : Il y a beaucoup de composantes que je classifierais comme "
+"essentielles ! Mais principalement Quick OSM et l'outil de géo-référencement"
+" m'ont fait gagner énormément de temps, ce qui est absolument essentiel "
+"lorsque les échéances sont serrées. Ce qui, travaillant pour un organisme de"
+" presse, arrive 90% du temps. "
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:178
+msgid "*Example: Urban Attraction and Migration within China. Detail views.*"
+msgstr ""
+"*Exemple : Attraction urbaine et migration interne en Chine. Vues de "
+"détail.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:181
+msgid ""
+"**QGIS**: What features or functionality in QGIS do you miss the most? Do "
+"you have a list of missing features that would help you a lot if "
+"implemented?"
+msgstr ""
+"**QGIS** : Quelles sont les composantes ou fonctionnalités de QGIS qui vous "
+"manquent le plus ? Avez-vous une liste des composantes manquantes qui vous "
+"serez très utiles si elles étaient implémentées ?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:184
+msgid ""
+"**Steven**:  A couple of things I would like to see in future versions "
+"are..."
+msgstr ""
+"**Steven** : Certaines des choses que je voudrais voir dans des futures "
+"versions sont..."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:186
+msgid ""
+"Bezier curve support, this would be particularly useful in conjunction with "
+"Georeferencer. I know there is a spline plugin but it doesn’t give you the "
+"full control a bezier curve would."
+msgstr ""
+"Support pour les courbes de Bézier, ce qui serait particulièrement utile "
+"avec l'outil de géo-référencement. Je sais qu'il y a une extension spline "
+"mais elle ne fournit pas le contrôle qu'une courbe de Bézier fournirait."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:189
+msgid ""
+"Being able to save as image at larger file sizes. Currently this is the only"
+" way I can create a georeferenced crop of a DEM file to take into Blender. "
+"But it is limited to the size of your screen. If I had an 8,000 pixel DEM "
+"file loaded into QGIS I would like to be able to export the crop at a larger"
+" size than my screen for use in HD video for example."
+msgstr ""
+"Pouvoir sauver en tant qu'image ayant une taille plus grande. À l'heure "
+"actuelle c'est la seule façon que j'ai pour créer un fichier MNE géo-"
+"référencé recadré pour l'import dans Blender. Mais il est limité à la taille"
+" de votre écran. Si j'ai un fichier MNE de 8 000 pixels dans QGIS j'aimerais"
+" pouvoir être capable d'exporter un recadrage ayant une taille plus grande "
+"que celle de mon écran, par exemple, pour être utilisé dans une vidéo HD."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:194
+msgid ""
+"**QGIS**: If you miss certain features in QGIS that would help you - would "
+"you consider improving QGIS yourself (with coding in QGIS core or Python "
+"plugins), or would you consider to hire a QGIS developer to implement the "
+"missing feature for you? Or would you instead look for other tools to fill "
+"in that gap?"
+msgstr ""
+"**QGIS** : S'il vous manque des composantes dans QGIS qui vous aideraient - "
+"considéreriez-vous d'améliorer QGIS vous-même (en changeant le code de QGIS "
+"ou avec des extensions Python), ou considéreriez-vous employer un "
+"développeur QGIS pour implémenter les composantes manquantes pour vous ? Ou "
+"bien rechercheriez-vous d'autres outils pour combler ce manque ?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:198
+msgid ""
+"**Steven**: I certainly don’t have the necessary skills to do the coding "
+"myself, I’m fairly proficient in Javascript but would struggle with Python. "
+"I would love to hire a developer to get features implemented but "
+"unfortunately I’m not in control of any budgets, so I use other tools to get"
+" around this."
+msgstr ""
+"**Steven** : Je n'ai certainement pas la capacité de faire cette "
+"programmation la moi-même, Je suis bien à l'aise avec Javascript mais "
+"j'aurais des difficultés avec Python. J'aimerais beaucoup embaucher un "
+"développeur pour implémenter des composantes mais je n'ai aucun contrôle sur"
+" les budgets, j'utilise donc d'autres outils pour pallier à ce manque."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:207
+msgid ""
+"*Example: Percentage of households with a broadband internet subscription in"
+" the US.*"
+msgstr ""
+"*Exemple : Pourcentage des ménages ayant une connexion internet haut débit "
+"aux USA.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:210
+msgid ""
+"**QGIS**: Let's talk about user experience - the QGIS team is aware that "
+"there are various places in the UI (dialogs, panels, etc) that could be "
+"improved a lot. Can you tell us a little bit where in the UI you see the "
+"biggest potential for a UI overhaul?"
+msgstr ""
+"**QGIS** : Parlons de l'expérience utilisateur - l'équipe de QGIS est au "
+"courant que certaines parties de l'IU (dialogues, panels, etc.) pourraient "
+"être grandement améliorées. Pouvez-vous nous dire rapidement quelles sont "
+"les parties de l'IU qui auraient le plus besoin d'amélioration ?"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:214
+msgid ""
+"**Steven**:  I think the main tools are fine as they are, once you are "
+"familiar with them they’re pretty obvious. However, one thing I do find a "
+"little frustrating is trying to hunt down a plugin once it’s been installed."
+" They either create their own menu (MMQGIS), live under one of the menus "
+"(Georeferencer) or create their own icon (threejs). It would be handy to "
+"have a plugin window that has all installed plugins in it. Again this isn’t "
+"a deal breaker but would make it easier than hunting in several different "
+"locations."
+msgstr ""
+"**Steven** : Je pense que les outils principaux sont très bien comme ils "
+"sont, une fois que vous en avez l'habitude ils sont plutôt évidents. "
+"Cependant, ce que je trouve frustrant c'est d'essayer de traquer les "
+"extensions une fois qu'elle ont été installées. Elles soit créent leur "
+"propre menu (MMQGIS), soit s'installent dans un des menus (Géo-"
+"référencement) ou créent leur propre icône (threejs). Il serait utile "
+"d'avoir une fenêtre d'extensions qui regroupent toutes les extensions qui "
+"sont installées. De nouveau, ce n'est pas un blocage mais ce serait plus "
+"facile que de chercher dans plusieurs endroits différents."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:221
+msgid ""
+"**QGIS**: Thank you for your time and the work you do for promoting and "
+"documenting workflows in QGIS!"
+msgstr ""
+"**QGIS** : Merci de nous avoir reçu et du travail que vous faite pour "
+"promouvoir et documenter les flux de travail en QGIS !"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:228
+msgid ""
+"*Portrait of Steve Bernard. Interactive Design Editor at Financial Times.*"
+msgstr ""
+"*Portrait de  Steve Bernard. Éditeur Design Interactif chez Financial "
+"Times.*"
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:231
+msgid ""
+"**Steven**: A pleasure, I’m almost evangelical about QGIS! Hence the `31 "
+"video tutorials <https://t.co/6aTE6G8h0T>`_ and always happy to spread the "
+"word."
+msgstr ""
+"**Steven** : De rien, je suis presque évangélique au sujet de QGIS ! D'où "
+"les `31 tutoriels vidéos <https://t.co/6aTE6G8h0T>`_ et toujours heureux de "
+"faire passer le message."
+
+#: ../../source/site/about/case_studies/qgis_at_financial_times.rst:233
+msgid "Interview questions by A. Neumann and T. Sutton. April 2016."
+msgstr "Interview réalisé par A. Neumann et T. Sutton, Avril 2016."

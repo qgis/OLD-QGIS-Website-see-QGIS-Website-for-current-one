@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Yasmim Araújo Silva <26yasmim@gmail.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-19 17:16+0100\n"
+"PO-Revision-Date: 2018-12-19 16:24+0000\n"
+"Last-Translator: Yasmim Araújo Silva <26yasmim@gmail.com>, 2018\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/getinvolved/daily_reports/performance.rst:2
+msgid "Performance"
+msgstr "Atuação"
+
+#: ../../source/site/getinvolved/daily_reports/performance.rst:4
+msgid ""
+"At the moment, two tools are living together to test and generate "
+"performance reports."
+msgstr ""
+"No momento, duas ferramentas estão convivendo para testar e gerar relatórios"
+" de desempenho."
+
+#: ../../source/site/getinvolved/daily_reports/performance.rst:7
+msgid ""
+"The first one is `MS-Perfs <https://github.com/camptocamp/ms_perfs>`_ which "
+"allows to compare QGIS Server with other map servers (like GeoServer or "
+"MapServer). Reports are generated weekly and available `here "
+"<http://test.qgis.org/perf_test/ms_perf/>`_."
+msgstr ""
+"O primeiro é o `MS-Perfs <https://github.com/camptocamp/ms_perfs>` _ que "
+"permite comparar o QGIS Servidor com outros servidores de mapas (como o "
+"GeoServer ou MapServer). Os relatórios são gerados semanalmente e estão "
+"disponíveis `here <http://test.qgis.org/perf_test/ms_perf/>` _."
+
+#: ../../source/site/getinvolved/daily_reports/performance.rst:12
+msgid ""
+"The second one is `Graffiti <https://github.com/pblottiere/graffiti>`_, "
+"allowing to generate a performance report between several versions of QGIS "
+"Server and/or specific project options (parallel rendering effect, trust "
+"option, and so on). Reports are also generated daily and available `in "
+"<http://test.qgis.org/perf_test/graffiti/>`_. Note that `QGIS-Server-"
+"PerfSuite <http://github.com/Oslandia/QGIS-Server-PerfSuite>`_ project is "
+"the deployment infrastructure to run Graffiti in continuous integration."
+msgstr ""
+"O segundo é o `Graffiti <https://github.com/pblottiere/graffiti>` _, que "
+"permite gerar um relatório de desempenho entre várias versões do QGIS "
+"Servidor e/ou opções de projeto específicas (efeito de renderização "
+"paralela, opção de confiança e assim por diante). em). Os relatórios também "
+"são gerados diariamente e estão disponíveis `em "
+"<http://test.qgis.org/perf_test/graffiti/>` _. Note que `QGIS-Server-"
+"PerfSuite <http://github.com/Oslandia/QGIS-Server-PerfSuite>` _  O projeto é"
+" a infraestrutura de implementação para rodar o Graffiti em integração "
+"contínua."

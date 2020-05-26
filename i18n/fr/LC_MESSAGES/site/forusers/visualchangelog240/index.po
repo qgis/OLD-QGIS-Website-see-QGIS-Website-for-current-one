@@ -1,0 +1,531 @@
+# 
+# Translators:
+# MarieSilvestre, 2014
+# Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015
+# Sant-anna <delazj@gmail.com>, 2014-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-19 11:20+0200\n"
+"PO-Revision-Date: 2020-03-19 11:44+0000\n"
+"Last-Translator: MarieSilvestre\n"
+"Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:6
+msgid ""
+"Change log for the next release of QGIS 2.4.0. The emphasis on this release "
+"has been very much on polish and performance - we have added many new "
+"features, tweaks and enhancements to make the user interface more consistent"
+" and professional looking (and hopefully easier to use). The composer (used "
+"for creating print ready maps) has had a lot of work done to it to make it a"
+" more viable platform for creating great cartographic outputs."
+msgstr "Liste des changements dans la version QGIS 2.4.0. Une attention particulière a été portée sur les performances et l'affinage, nous avons rajouté de nombreuses fonctionnalités et améliorations pour rendre l'interface plus cohérente et professionnelle (et nous l'espérons, plus simple à utiliser). Le composeur de cartes (utilisé pour l'impression) a été l'objet de beaucoup d'efforts pour en faire un outil plus adapté à la création de superbes sorties cartographiques."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:14
+msgid ""
+"Whenever new features are added to software they introduce the possibility "
+"of new bugs - if you encounter any problems with this release, please file a"
+" ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`__."
+msgstr "A chaque fois que de nouvelles fonctionnalités sont ajoutées au logiciel, elles introduisent potentiellement de nouveaux bugs. Donc, si vous avez des problèmes avec cette version, reportez-les en utilisant le `système de suivi de bugs de QGIS <http://hub.qgis.org>`__."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:19
+msgid ""
+"We would like to thank the developers, documenters, testers and all the many"
+" folks out there who volunteer their time and effort (or fund people to do "
+"so)."
+msgstr "Nous souhaitons remercier tous les développeurs, rédacteurs, testeurs et les nombreuses personnes qui ont donné volontairement de leur temps (ou financé des personnes pour le faire)."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:23
+msgid ""
+"From the QGIS community we hope you enjoy this release! If you wish to "
+"donate time, money or otherwise get involved in making QGIS more awesome, "
+"please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
+msgstr "La communauté QGIS espère que vous apprécierez cette version! Si vous souhaitez donner un peu de votre temps, d'argent ou d'une manière ou d'une autre vous impliquer pour rendre QGIS plus impressionnant encore, faites un tour sur `qgis.org <https://qgis.org>`__ et donnez nous un coup de main!"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:28
+msgid ""
+"Finally we would like to thank our official sponsors for the invaluable "
+"financial support they provide to this project:"
+msgstr "Enfin nous souhaitons remercier nos sponsors officiels pour les soutiens financiers inestimables à ce projet :"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:31
+msgid ""
+"GOLD Sponsor: `Asia Air Survey, Japan <http://www.asiaairsurvey.com/>`__"
+msgstr "Sponsor GOLD : `Asia Air Survey, Japan <http://www.asiaairsurvey.com/>`__"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:33
+msgid "SILVER Sponsor: `G.A.I.A. mbH, Germany <http://www.gaia-mbh.de/>`__"
+msgstr "Sponsor SILVER : `G.A.I.A. mbH, Germany <http://www.gaia-mbh.de/>`__"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:34
+msgid ""
+"SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`__"
+msgstr "Sponsor SILVER : `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`__"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:36
+msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`__"
+msgstr "Sponsor BRONZE : `www.molitec.it, Italy <http://www.molitec.it/>`__"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:37
+msgid "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`__"
+msgstr "Sponsor BRONZE : `www.argusoft.de, Germany <http://www.argusoft.de>`__"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:38
+msgid ""
+"BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`__"
+msgstr "Sponsor BRONZE : `www.openrunner.com, France <http://www.openrunner.com>`__"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:40
+msgid ""
+"BRONZE Sponsor: `www.eschenlaub.de, Germany <http://www.eschenlaub.de>`__"
+msgstr "Sponsor BRONZE : `www.eschenlaub.de, Germany <http://www.eschenlaub.de>`__"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:43
+msgid ""
+"A current list of donors who have made financial contributions large and "
+"small to the project can be seen on our `donors list "
+"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__."
+msgstr "Une liste actuelle des donateurs qui ont fait de petites et grandes contributions financières au projet peut être consultée sur notre `liste des donateurs <https://qgis.org/fr/site/about/sponsorship.html#list-of-donors>`__."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:61
+msgid "General"
+msgstr "Général"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:64
+msgid "Feature: Generate band name with NetCDF EXTRA\\_DIM"
+msgstr "Fonctionnalité: Génère le nom d'une bande avec la variable NetCDF EXTRA\\_DIM"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:66
+msgid ""
+"The NetCDF provided extra dimensional information. This information provides"
+" metadata on each band. These metadata can be used to explain the name of "
+"each band. For example, the bands of a NetCDF file represents the "
+"temperature at a given depth. For the user, it is easier to select a band "
+"with depth information, rather than only the band number."
+msgstr "NetCDF a fourni des informations extra-dimensionnelles. Cette information fournit des métadonnées sur chaque bande. Ces métadonnées peuvent être utilisée pour expliciter le nom de chaque bande. Par exemple, les bandes d'un fichier NetCDF représentant la température à une profondeur donnée. Pour l'utilisateur, il est plus facile de sélectionner une bande avec l'information de profondeur plutôt que d'utiliser uniquement le numéro de bande."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:73
+msgid "|image1|"
+msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:76
+msgid "Feature: Applying scale and offset to raster data"
+msgstr "Fonctionnalité: Application d'une échelle et d'un décalage pour les données raster"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:78
+msgid ""
+"In some raster datasources, data are stored as interger with a scale and an "
+"offset in the metadata. The scale and offset can be used to get the right "
+"data. QGIS applies its to raster data to provider to users right information"
+" for legend, histogram and identify."
+msgstr "Pour certaines sources de données raster, les données sont stockées sous forme d'entier avec une échelle et un décalage dans les métadonnées. L'échelle et le décalage peuvent être utilisés pour récupérer les bonnes valeurs. QGIS les applique aux données raster pour afficher l'information juste dans les légendes, les histogrammes et pour l'identification."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:83
+msgid "|image2|"
+msgstr "|image2|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:86
+msgid "Feature: Quick field field calc bar in attribute table"
+msgstr "Fonctionnalité: Barre d'accès rapide de calcul de champs dans la table d'attributs"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:88
+msgid ""
+"We have a great new feature for those working with calculated fields in "
+"vector attribute tables. The new quick calculation bar lets you update the "
+"values in a column in the attribute table quickly and easily."
+msgstr "Nous avons une nouvelle fonctionnalité intéressante pour ceux qui travaillent avec les champs calculés des tables d'attributs des couches vecteur. La nouvelle barre d'accès rapide de calcul vous permet de mettre à jour des valeurs dans une colonne de la table d'attributs de manière facile et rapide."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:92
+msgid "|image3|"
+msgstr "|image3|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:95
+msgid "Feature: Colour preview modes in composer and map canvas"
+msgstr "Fonctionnalité: Modes de prévisualisation de couleur dans le canevas de cartes et le composeur"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:97
+msgid ""
+"A really innovative feature that has been added to 2.4 is support for "
+"grayscale and colour blindness previews. This allows you to visualise how "
+"people with colour blindness will perceive your cartography and map layout, "
+"or how your map will look if it's printed in grayscale. You can read more "
+"about this new feature `here <http://nyalldawson.net/2014/05/colour-"
+"blindness-and-grayscale-previews-in-qgis-2-4/>`__."
+msgstr "La prévisualisation du rendu simulé pour daltoniens ou en niveaux de gris est une réelle innovation. Cela permet de visualiser comment des daltoniens percevrons vos cartes et mises en page, ou comment ces cartes sortirait en impression en niveaux de gris. Vous pouvez lire davantage d'information sur cette fonctionnalité `ici <http://nyalldawson.net/2014/05/colour-blindness-and-grayscale-previews-in-qgis-2-4/>`__."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:104
+msgid "|image4|"
+msgstr "|image4|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:107
+msgid "Feature: QLR QGIS Layer files"
+msgstr "Fonctionnalité: Fichiers de couche QLR pour QGIS"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:109
+msgid ""
+"Added support for QGIS Layer Definition files or simply QLR (see "
+"http://nathanw.net/2014/03/12/qgis-qlr/). QLR file is a file that points to "
+"the data, contains all the styling, and other information. You can then just"
+" add this file and it will do all the other magic for you. QLR makes it easy"
+" to add same layer to multiple map documents, inheriting all of the "
+"properties which have been set and works with any layer supported in QGIS, "
+"expect special plugin layers."
+msgstr "Nouvelle fonctionnalité pour les fichiers QGIS de définition de couche (QGIS Layer Definition - QLR, voir http://nathanw.net/2014/03/12/qgis-qlr/). Ce fichier .qlr est un fichier pointant vers une source de données, et contenant les informations de style ainsi que d'autres informations. Vous pouvez ajouter ce fichier en tant que source de données, et le fichier fait le reste. QLR permet d'ajouter facilement la même couche à plusieurs documents cartographiques, en encapsulant toutes les propriétés définies. QLR fonctionne avec tout type de données dans QGIS, y compris les couches spécifiques crées par les extensions."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:118
+msgid "Feature: New expression functions"
+msgstr "Fonctionnalité: Nouvelles fonctions dans le générateur d'expressions"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:120
+msgid "We have some new functions available in the expression builder."
+msgstr "Nous avons de nouvelles fonctions disponibles dans le constructeur de requêtes"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:122
+msgid "bounding box (bounds)"
+msgstr "rectangle d'emprise (bounds)"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:123
+msgid "bounding box width & height (bounds\\_width/bounds\\_height)"
+msgstr "Largeur & hauteur du rectangle d'emprise (bounds\\_width/bounds\\_height)"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:124
+msgid "min/max x/y coordinates (xmin/xmax/ymin/ymax)"
+msgstr "coordonnées x/y min/max (xmin/xmax/ymin/ymax)"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:125
+msgid ""
+"new wordwrap function that returns a string wrapped to a maximum/minimum "
+"number of characters"
+msgstr "La nouvelle fonction wordwrap renvoie une chaîne avec un retour chariot, suivant un nombre minimum ou maximum de caractères"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:128
+msgid "|image5|"
+msgstr "|image5|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:131
+msgid "Feature: Copy, paste and drag and drop colours"
+msgstr "Fonctionnalité : Copier, coller et glisser-déposer des couleurs"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:133
+msgid ""
+"You can now copy, paste, drag and drop colours between any colour input "
+"widget in QGIS. See this `article <http://nyalldawson.net/2014/05/colour-"
+"shortcuts-in-qgis-2-4/>`__ for more information on how this new feature "
+"works. Hex color codes and rgb strings can also be pasted on to colour "
+"buttons to allow importing colours from outside of QGIS."
+msgstr "Il est désormais possible de copier, glisser-déposer des couleurs entre n'importe quel outil de saisie de couleur de QGIS. Consultez cet `article <http://nyalldawson.net/2014/05/colour-shortcuts-in-qgis-2-4/>`__ pour plus d'information sur le fonctionnement exact de cette nouvelle fonctionnalité. Il est également possible de copier-coller des codes RGB ou hexadécimaux vers ces boutons de saisie de couleur, ce qui permet d'importer des couleurs depuis un autre outil que QGIS."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:140
+msgid "|image6|"
+msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:143
+msgid "Feature: Multi-threaded rendering"
+msgstr "Fonctionnalité: Rendu graphique Multi-fils d'exécution"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:145
+msgid ""
+"This is one feature we simply cannot do justice to with a screenshot - QGIS "
+"now supports multi-threaded rendering! What this means is that when drawing "
+"the map, QGIS will split the drawing work between all of the cores in your "
+"CPU, making the process more efficient and responsive. By **responsive** we "
+"mean that you no longer need to wait for the map view to update before you "
+"can pan or zoom again. Also the map display updates incrementally allowing "
+"you to see if the map is positioned correctly early on in the drawing "
+"process. Take a look at `this article "
+"<http://www.lutraconsulting.co.uk/casestudies/qgis-multi-threaded-"
+"rendering>`__ for a more detailed overview of the multi-threaded rendering "
+"system. You will find some options in the QGIS settings dialog that allow "
+"you to manage the behaviour of multi-threaded rendering."
+msgstr "Voilà une fonctionnalité à laquelle on ne peut rendre justice par une simple capture d'écran. QGIS gère maintenant l'affichage multi-fils d'exécution ! Cela signifie que lorsque QGIS dessine une carte, le travail va être réparti entre les coeurs de votre processeur, rendant cette tâche plus efficace et réactive. **Réactive**, parce que vous n'avez plus besoin d'attendre que la carte soit entièrement affichée pour zoomer ou déplacer de nouveau la carte. L'affichage se rafraichit également au fur et à mesure, ce qui permet d'ajuster la carte avant la fin complète de l'affichage. Jetez un oeil à `cet article <http://www.lutraconsulting.co.uk/casestudies/qgis-multi-threaded-rendering>`__ pour un tour plus détaillé sur le système de rendu multi-processeur. Les options relatives à cette fonctionnalité sont présente dans la boite de dialogue des préférences générales de QGIS."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:158
+msgid "|image7|"
+msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:161
+msgid "Labelling"
+msgstr "Étiquetage"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:164
+msgid "Feature: Label features multiple times"
+msgstr "Fonctionnalité : Étiqueter plusieurs fois une même entité"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:166
+msgid ""
+"Long lines (such as contour lines or roads) can now be repeatedly labeled at"
+" regular intervals. One can choose between mm and map units for specifying "
+"the repetition interval. At the time of the release there is still an issue "
+"with \"merge connected lines to avoid duplicate\" setting."
+msgstr "Les lignes (telles que les lignes de niveaux ou les routes) peuvent maintenant être étiquetées de manière répétitive à intervalles de distance définis. Il est possible de choisir cette distance de répétition en mm écran ou en unités terrain. Au moment de la publication de la version 2.4, il reste encore un problème lors de l'utilisation de l'option \"fusionner les lignes connectées pour éviter la duplication d'étiquettes\"."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:172
+msgid "|image8|"
+msgstr "|image8|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:175
+msgid "Map Composer"
+msgstr "Composeur de cartes"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:178
+msgid "Feature: Improvements to composer picture items"
+msgstr "Fonctionnalité: Améliorations des éléments d'image du composeur"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:180
+msgid ""
+"The image item in composer is now 'atlas friendly' - you can use an "
+"**expression to define which image** should be shown for each atlas page. "
+"You can also now set the **resize mode** (zoom, clip, stretch etc.) for the "
+"image in relation to its frame size and dimensions. You can also specify the"
+" placement of the image relative to its frame using the new **placement** "
+"item property."
+msgstr "Les éléments d'image du composeur prennent maintenant en compte l'atlas: vous pouvez utiliser une **expression pour définir quelle image** sera affichée pour chaque page de l'atlas. Vous pouvez également définir le **mode de redimensionnement** (zoomer, couper, étendre, etc.) de l'image en fonction de la taille de son cadre et de ses dimensions. Vous pouvez aussi indiquer l'emplacement de l'image relativement à son cadre en utilisant la nouvelle propriété **placement**."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:187
+msgid "|image9|"
+msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:190
+msgid "Feature: Predefined scales mode for atlas maps"
+msgstr "Fonctionnalité: Echelles prédéfinies pour les cartes d'atlas"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:192
+msgid ""
+"When working with atlas map items, you can now specify a predefined scale "
+"mode for the map. It will use the best fitting option from the list of "
+"predefined scales in you your project properties settings (see Project -> "
+"Project Properties -> General -> Project Scales to configure these "
+"predefined scales)."
+msgstr "Lorsque vous travaillez sur des éléments d'atlas de cartes, vous pouvez maintenant indiquer un mode d'échelles prédéfinies pour la carte. Ce mode utilisera la meilleure option d'ajustement à partir d'une liste prédéfinie d'échelles dans les propriétés du projet (consultez Projet -> Propriétés -> Général -> Échelles du projet pour les configurer)."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:198
+msgid "|image10|"
+msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:201
+msgid "Feature: Improved attribute tables in composer"
+msgstr "Fonctionnalité: Améliorations des tables attributaires dans le composeur"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:203
+msgid ""
+"We have made a number of improvements to the ability to display tables in "
+"your composer layouts:"
+msgstr "Nous avons réalisé quelques améliorations sur l'affichage des tableaux dans la présentation des compositions:"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:206
+msgid "Support has been added for reordering columns within a table"
+msgstr "Ajout de la gestion de l'ordre des colonnes au sein du tableau"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:207
+msgid "Added support for expression based columns"
+msgstr "Ajout de la gestion des colonnes basées sur une expression"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:208
+msgid ""
+"You can now set the alignment of individual table columns, and also specify "
+"the alignment for the table's header cells"
+msgstr "Vous pouvez maintenant définir un alignement différent pour chacune des colonnes de la table ainsi qu'un alignement particulier pour les cellules de la ligne d'en-tête. "
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:210
+msgid "Table contents can be filtered by an expression"
+msgstr "Le contenu de la table peut être filtré à l'aide d'une expression"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:212
+msgid "|image11|"
+msgstr "|image11|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:215
+msgid "Feature: General composer improvements"
+msgstr "Fonctionnalité : Amélioration générale du composeur"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:217
+msgid ""
+"There are a number of additions to the map composer to make life easier "
+"while working in map composition mode:"
+msgstr "Il existe quelques ajouts au composeur de cartes pour rendre la vie plus facile lorsqu'on travaille à la composition de cartes:"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:220
+msgid "Added button to view current map item extent in main map canvas"
+msgstr "Ajout d'un bouton pour visualiser l'emprise de l'élément de carte courant dans le canevas de carte."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:221
+msgid "Ability to export SVG images from composer with layers"
+msgstr "Possibilité d'exporter des images SVG avec des coches depuis le composeur"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:222
+msgid "Set line join and cap style for scalebars"
+msgstr "Gestion du mode de jointure de ligne et du style de croisement pour les barres d'échelle"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:223
+msgid "Support for setting the line join style for item frames"
+msgstr "Gestion du type de jointure de ligne pour les éléments de cadre"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:225
+msgid "|image12|"
+msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:228
+msgid "Feature: Improvements to HTML frames"
+msgstr "Fonctionnalité: Amélioration des cadres HTML"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:230
+msgid ""
+"HTML Frames in the composer have been improved. There is a new **add frame**"
+" button which can be used to manually create multiple linked frames. We have"
+" also improved our page break logic making it less likely that you will get "
+"page breaks that cut through the middle of lines of text when paginating "
+"HTML frames."
+msgstr "Les cadres HTML du composeur ont été améliorés. Il existe un nouveau bouton **Ajouter un cadre** qui peut être utilisé pour créer manuellement de multiples cadres HTML liés. Nous avons également amélioré la logique de césure de page pour limiter les coupures au milieu des lignes de texte lors de la pagination des cadres HTML."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:236
+msgid "|image13|"
+msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:239
+msgid "Plugins"
+msgstr "Extensions"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:242
+msgid "Feature: MetaSearch Catalogue Client Plugin"
+msgstr "Fonctionnalité: Extension de client de catalogue MetaSearch"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:244
+msgid ""
+"MetaSearch is a QGIS plugin to interact with metadata catalogue services, "
+"supporting the OGC Catalogue Service for the Web (CSW) standard. This plugin"
+" provides an easy and intuitive approach and user-friendly interface to "
+"searching metadata catalogues within QGIS and now ships by default with the "
+"QGIS core product."
+msgstr "MetaSearch est une extension QGIS permettant d'interagir avec des services de catalogage de données. MetaSearch supporte le standard OGC Catalogue Service for the Web (CSW). Cette extension fournit une interface d'approche simple et intuitive pour effectuer des recherches dans les catalogues de métadonnées au sein de QGIS. Elle est maintenant fournie par défaut avec l'installation générale de QGIS."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:250
+msgid "|image14|"
+msgstr "|image14|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:253
+msgid "Symbology"
+msgstr "Style"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:256
+msgid "Feature: Shapeburst fill style"
+msgstr "Fonctionnalité: Remplissage dégradé suivant la forme"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:258
+msgid ""
+"We have a great new render in QGIS 2.4. The shapeburst renderer will allow "
+"you to fill polygons with a gradient extending from the line edge towards "
+"the polygon interior. You can read more about **shapeburst** `here "
+"<http://nyalldawson.net/2014/06/shapeburst-fill-styles-in-"
+"qgis-2-4/?utm_source=rss&utm_medium=rss&utm_campaign=shapeburst-fill-styles-"
+"in-qgis-2-4>`__."
+msgstr "Nous avons un nouveau rendu intéressant dans QGIS 2.4. Le rendu par remplissage dégradé selon la forme vous permet de remplir les polygones avec un gradient s'étendant du contour du polygone vers son centre. Vous pouvez en lire davantage sur **le remplissage dégradé selon la forme** `ici <http://nyalldawson.net/2014/06/shapeburst-fill-styles-in-qgis-2-4/?utm_source=rss&utm_medium=rss&utm_campaign=shapeburst-fill-styles-in-qgis-2-4>`__."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:263
+msgid "|image15|"
+msgstr "|image15|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:266
+msgid "Feature: Option to shift marker line placement"
+msgstr "Fonctionnalité: Option pour décaler l'emplacement des marqueurs de ligne"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:268
+msgid ""
+"When using a marker line along a line or polygon edge, you can now specify "
+"an **offset** so that the marker line starts a set distance from the "
+"beginning of the line. If a marker line is set to \"first vertex\" or \"last"
+" vertex\" mode, than this offset will control how far along the line from "
+"the vertex the marker is placed."
+msgstr "Lorsque vous utilisez une ligne de marqueurs le long d'une ligne ou d'un arc de polygone, vous pouvez maintenant indiquer un **décalage** de manière à ce que la ligne de marqueurs démarre à une distance donnée du début de la ligne. Si la ligne de marqueurs est paramétrée à \"premier sommet\" ou à \"dernier sommet\" alors ce décalage contrôlera à quelle distance du sommet le marqueur est placé."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:274
+msgid "|image16|"
+msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:277
+msgid "Feature: New Inverted Polygon renderer"
+msgstr "Fonctionnalité: Nouveau rendu par polygone inversé"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:279
+msgid ""
+"A new renderer has been added for polygon features, allowing you to style "
+"everything **outside** your polygons. This can be useful for highlighting "
+"areas, or for creating cartographic masks. When used with new shapeburst "
+"style, you can now produce output as shown in the image for this entry."
+msgstr "Un nouveau rendu a été ajouté pour les éléments polygones qui permet de styler tout ce qui est à l'**extérieur** de vos polygones. Cela peut être utile pour mettre en valeur des emplacements ou pour créer des masques cartographiques. Combiné au nouveau style de remplissage dégradé selon la forme, vous pouvez maintenant produire des cartes comme celle présentée ci-après."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:285
+msgid ""
+"**Note:** The new version of plugin mask helps to easily create mask layers "
+"from the current selection, label features only in those areas, and generate"
+" an automatic mask in Atlas map generation."
+msgstr "**Note:** La nouvelle version de l'extension mask facilite la création de couche de masque à partir de la sélection courante, permet l'étiquettage des entités présentes uniquement dans ces zones et génère automatiquement un masque dans les cartes générées par l'atlas."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:289
+msgid "|image17|"
+msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:292
+msgid "Feature: Saving and recovering styles with Spatialite layers"
+msgstr "Fonctionnalité: Sauvegarder et récupérer les styles des couches Spatialite"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:301
+msgid "|image18|"
+msgstr "|image18|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:47
+msgid ""
+"If you would like to make a donation or sponsor our project, please visit "
+"`our sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
+"details. QGIS is Free software and you are under no obligation to do so. "
+"Sponsoring QGIS helps us to fund our six monthly developer meetings, "
+"maintain project infrastructure and fund bug fixing efforts."
+msgstr " Si vous désirez faire un don ou financer le projet, merci de lire notre `page détaillant les moyens de soutien à QGIS <https://qgis.org/fr/site/about/sponsorship.html#sponsorship>`__. QGIS est un logiciel libre et vous n'avez aucune obligation de le faire. Les soutiens financiers nous aide à financer nos rencontres développeurs tous les six mois, maintenir les infrastructures de gestion du projet et à financer les efforts de correction de bugs. "
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:294
+msgid ""
+"In the previous version was possible to save style with postgres layers, now"
+" will be possible for Spatialite layers too. This functions allow to embed "
+"different styles inside a spatialite container simplifying sharing data and "
+"their presentation. A video tutorial of this funcionality can be found here "
+"http://pvanb.wordpress.com/2014/05/15/saving-layer-styles-to-your-"
+"spatialite-database/"
+msgstr "Dans la version précédente de QGIS, il était possible d'enregistrer les styles pour les couches PostgreSQL. Il est maintenant possible de le faire pour les couches Spatialite également. Ces fonctions vous permettent d'intégrer plusieurs styles à l'intérieur d'un conteneur Spatialite permettant de simplifier le partage des données et leur présentation. Vous pouvez retrouver une vidéo de tutoriel de cette fonctionnalité ici: http://pvanb.wordpress.com/2014/05/15/saving-layer-styles-to-your-spatialite-database/"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:4
+msgid "Changelog for QGIS 2.4"
+msgstr "Modifications apportées par QGIS 2.4"
+
+#~ msgid "|image0|"
+#~ msgstr ""
+
+#~ msgid "Changelog for QGIS 2.4.0"
+#~ msgstr ""
+
+#~ msgid "If you would like to make a donation or sponsor our project, please"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "visit `our sponsorship page "
+#~ "<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
+#~ "details. QGIS is |  Free software and you are under no obligation to do so. "
+#~ "Sponsoring QGIS helps us to fund our six monthly developer meetings, "
+#~ "maintain project infrastructure |  and fund bug fixing efforts."
+#~ msgstr ""
+
+#~ msgid "In the previous version was possible to save style with postgres"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "layers, now will be possible for Spatialite layers too. |  This functions "
+#~ "allow to embed different styles inside a spatialite container simplifying "
+#~ "sharing data and their presentation. |  A video tutorial of this "
+#~ "funcionality can be found here http://pvanb.wordpress.com/2014/05/15/saving-"
+#~ "layer-styles-to-your-spatialite-database/"
+#~ msgstr ""

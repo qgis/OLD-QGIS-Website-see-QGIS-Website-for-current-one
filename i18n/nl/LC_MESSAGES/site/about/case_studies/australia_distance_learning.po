@@ -1,0 +1,309 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# 
+# Translators:
+# Dick Groskamp, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-13 20:36+0100\n"
+"PO-Revision-Date: 2019-03-13 19:41+0000\n"
+"Last-Translator: Dick Groskamp, 2019\n"
+"Language-Team: Dutch (https://www.transifex.com/qgis/teams/6144/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:3
+msgid "QGIS for distance learning and teaching GIS at Universities"
+msgstr "QGIS voor op afstand GIS leren en onderwijzen op universiteiten"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:6
+msgid "Introduction"
+msgstr "Introductie"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:8
+msgid ""
+"The University of Southern Queensland (USQ) is a regional university located"
+" in south-east Queensland, Australia. It has 28,000 students studying both "
+"on and off campus. The access of off-campus students to modern technologies "
+"such as Internet services varies widely. They also use different types of "
+"computers (e.g. Notebook, Desktop etc.) with different operating systems "
+"(e.g. Windows, MacOS, and Linux)."
+msgstr ""
+"De Universiteit van Southern Queensland (USQ) is een regionale universiteit,"
+" gevestigd in zuidoost Queensland, Australië. Het heeft 28,000 studenten die"
+" zowel op als buiten de campus studeren. De toegang voor alle off-campus "
+"studenten tot moderne technologieën, zoals Internetservices variëren nogal. "
+"Zij gebruiken ook verschillende types computers (bijv. Notebook, Desktop "
+"etc.) met verschillende besturingssystemen (bijv. Windows, MacOS, en Linux)."
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:10
+#, python-format
+msgid ""
+"Providing education in both an On-campus and Off-campus mode has many "
+"technological challenges. Teaching a GIS course requires overcoming these "
+"challenges. On average, 300-350 students enrol in the basic GIS course every"
+" year. About 80% of them study in the off-campus mode."
+msgstr ""
+"Het bieden van onderwijs in zowel een modus On-campus als Off-campus heeft "
+"veel technologische uitdagingen.  Onderwijzen van een cursus in GIS vereist "
+"het overwinnen van die uitdagingen. Gemiddeld nemen elk jaar 300-350 "
+"studenten deel aan de cursus in GIS. Ongeveer 80% van hen studeren in de "
+"modus Off-campus."
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:17
+msgid "USQ Main Campus Map created using QGIS"
+msgstr "USQ Campus hoofdkaart, gemaakt met QGIS"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:20
+msgid "QGIS at the University of Southern Queensland"
+msgstr "QGIS op de universiteit van Southern Queensland"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:22
+msgid ""
+"GIS education is incomplete without hands-on processing skills. However, "
+"providing hands-on GIS skills to off-campus students is not easy because of "
+"issues of internet access, cost of software licenses and compatibility with "
+"different computer Operating Systems."
+msgstr ""
+"Onderwijs in GIS is niet compleet zonder vaardigheden in het met eigen "
+"handen werken. Echter, het verschaffen van werken met eigen handen aan Off-"
+"campus studenten is niet eenvoudig vanwege problemen met toegang tot "
+"internet, kosten van softwarelicenties en compatibiliteit met verschillend "
+"ebesturingssystemen voor computers."
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:24
+msgid ""
+"The traditional GIS education program at USQ was originally designed to "
+"provide different levels of access to GIS learning resources. On-campus "
+"students received simultaneous hands-on GIS instruction while the Off-campus"
+" students attended a residential school at USQ’s main campus later on to "
+"receive hands-on GIS instruction. Providing different levels of instruction "
+"to different groups of students enrolled in the same course at the same time"
+" wasn’t considered fair to the students. Removing this inequity became a "
+"priority."
+msgstr ""
+"Het traditionele onderwijsprogramma voor GIS aan de USQ was origineel "
+"ontworpen om verschillende nieveaus van toegang te verschaffen voor "
+"onderwijsbronnen voor GIS. On-campus studenten ontvingen tegelijkertijd GIS-"
+"instructie voor het werken met eigen handen terwijl de Off-campus studenten "
+"later een residentiële school op de hoofdcampus van USQ’s bezochten om GIS-"
+"instructie voor het werken met eigen handen te ontvangen. het verschaffen "
+"van verschillende niveaus van instructie aan verschillende groepen studenten"
+" die tgeelijkertijd deelnamen aan dezelfde cursus werd beschaoud als niet "
+"eerlijk ten opzichte van die studenten. Het werd een prioriteit deze "
+"ongelijkheid op te heffen."
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:26
+msgid ""
+"Different open access geospatial software programs were evaluated for our "
+"needs. QGIS was found to be the most suitable to overcome almost all of the "
+"challenges we faced. The particular advantages included its free "
+"availability, user-friendliness, adaptability and platform independency. We "
+"adopted it and enriched it with additional learning resources developed at "
+"USQ."
+msgstr ""
+"Verschillende georuimtelijke softwareprogramma's met open toegang werden "
+"voor onze behoeften geëvalueerd. QGIS werd de meest geschikte bevonden om "
+"bijna alle uitdagingen waar we voor stonden te kunnen overwinnen. In het "
+"bijzonder omvatten de voordelen daarvan de vrije beschikbaarheid, "
+"gebruiksvriendelijkheid, aanpasbaarheid en platformonafhankelijkheid. We "
+"adopteerden het en verrijkten het met aanvullende onderwijsbronnen, "
+"ontwikkeld aan de USQ."
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:28
+msgid ""
+"The traditional ‘cook-book’ tutorial method of teaching was replaced with "
+"contemporary audio-visual demonstration presentations followed by problem-"
+"based hands-on learning exercises. The course assessments (assignments) were"
+" rewritten to require use of GIS software. Students completed more than 24 "
+"QGIS based hands-on exercises and an assignment during the semester."
+msgstr ""
+"De traditionele ‘kookboek’-handleiding methode van onderwijs werd vervangen "
+"door hedendaagse audio-visuele demonstratiepresentaties, gevolgd door op "
+"problemen gebaseerde onderwijsoefeningen voor werken met eigen handen. De "
+"cursusstof (opdrachten) werd herschreven voor het gebruiken van GIS-"
+"software. Studenten voltooiden meer dan 24 op QGIS gebaseerde oefeningen "
+"voor werken met eigen handen en een opdracht gedurende het semester."
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:30
+#, python-format
+msgid ""
+"On average, 93% of the students in the course used QGIS software and the "
+"instructional resources. Voluntary feedback was received from 51% of the "
+"QGIS users. The results (Figure 2) show the majority (82%) of the students "
+"rated QGIS software and the hands-on learning resources as, ‘helpful’ to "
+"‘very helpful’ in learning GIS. Most others rated it as ‘reasonable’."
+msgstr ""
+"Gemiddeld gebruikte 93% van de studenten in de cursus QGIS-software en de "
+"instructiebronnen. Vrijwillige terugkoppeling werd ontvangen van 51% van de "
+"gebruikers van QGIS. De resultaten (Afbeelding 2) geven aan dat het "
+"merendeel (82%) van de studenten QGIS-software en de leerbronnen voor werken"
+" met eigen handen waardeerden als ‘helpful’ tot ‘very helpful’ bij het leren"
+" van GIS. D emeeste anderen waardeerden het als ‘reasonable’."
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:36
+msgid "Students response graph"
+msgstr "Grafiek  Antwoorden studenten"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:38
+msgid ""
+"Feedback comments to the question, *\"what were the best aspects of this "
+"course\"* included:"
+msgstr ""
+"Opmerkingen in de terugkoppeling op de vraag, *\"wat waren de beste aspecten"
+" van deze cursus\"* bevatten:"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:40
+msgid "*The detail in the recorded QGIS audio-visuals.*"
+msgstr "*De details in de opgenomen QGIS audio-visuelen.*"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:41
+msgid "*Using and learning QGIS software*"
+msgstr "*QGIS software gebruiken en leren*"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:42
+msgid "*The QGIS software was interesting*"
+msgstr "*De QGIS software was interessant*"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:43
+msgid "*I liked the course especially using QGIS*"
+msgstr "*Ik vond de cursus leuk, in het bijzonder met behulp van QGIS*"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:44
+msgid "*Good choice to use open source software*"
+msgstr "*Goede keuze om open source-software te gebruiken*"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:45
+msgid "*Videos to help navigate QGIS were fantastic*"
+msgstr "*Video's om te helpen navigeren in QGIS waren fantastisch*"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:46
+msgid "*The practical activities and teaching of QGIS*"
+msgstr "*De practische activiteiten en leren van QGIS*"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:47
+msgid "*Having hands on use of programmes through QGIS*"
+msgstr ""
+"*Met eigen handen werken-gebruik van programma's door middel van QGIS*"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:48
+msgid "*QGIS was great to get experience using GIS software*"
+msgstr "*QGIS was fabtastisch om ervaring op te doen met GIS=software*"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:49
+msgid "*The QGIS training videos helped to learn the basics of a GIS package*"
+msgstr ""
+"*De QGIS-trainingvideo's hielpen om de basis van een pakket van GIS te "
+"leren*"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:50
+msgid ""
+"*The lectures helped with the QGIS by showing you exactly how to use the "
+"program*"
+msgstr ""
+"*De lessen hielpen met QGIS door exact weer te geven hoe het programma te "
+"gebruiken*"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:51
+msgid ""
+"*The use of QGIS helped break apart and understand theory delivered in this "
+"course*"
+msgstr ""
+"*Het gebruik van QGIS hielp bij het opbreken van en het begrijpen van de "
+"theorie die in de cursus werd gegeven*"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:52
+msgid ""
+"*The QGIS exercises are well designed and take students step by step through"
+" the process of using a GIS*"
+msgstr ""
+"*De oefeningen van QGIS waren goed ontworpen en nemen studenten stap voor "
+"stap mee door het proces van het gebruiken van een GIS*"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:54
+msgid ""
+"It is clear that student’s benefited substantially from the use of QGIS. "
+"QGIS provided the same learning opportunity for each student enrolled in the"
+" course irrespective of where they were or how they accessed the material"
+msgstr ""
+"Het is duidelijk dat de studenten substantieel voordel hadden van het "
+"gebruiken van QGIS. QGIS verschafte dezelfde mogelijkhedne om te leren voor "
+"elke student die deelnam aan de cursus, ongeacht waar zij waren of hoe zij "
+"toegang kregen tot het materiaal"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:57
+msgid "Conclusion"
+msgstr "Conclusie"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:59
+msgid ""
+"In conclusion, using QGIS software in teaching GIS courses at educational "
+"institutions with an online learning environment offers large benefits to "
+"both the students and the university. However, there are two important "
+"aspects to successfully using QGIS for learning and teaching. Firstly, there"
+" is a need to develop customised hands-on learning resources suitable for "
+"local environment and secondly, the assessment procedure should require use "
+"of the software."
+msgstr ""
+"Als conclusie: gebruiken van QGIS-software in het onderwijzen van GIS-"
+"cursussen op onderwijsinstituten met een on-line leeromgeving beidt grote "
+"voordelen aan zowel de studenten als de universiteit. Er zijn echter twee "
+"belangrijke aspecten om QGIS met succes te kunnen gebruiken voor leren en "
+"onderwijzen. Ten eerste is er een noodzaak voor het ontwikkelen van "
+"aangepaste leerbronnen voor met eigen handen werken die geschikt zijn voor "
+"de lokale omgeving en ten tweede de rpocedure voor opdrachten zou het "
+"gebruiken vande software moeten vereisen."
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:62
+msgid "Authors"
+msgstr "Auteurs"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:64
+msgid ""
+"Dr Badri Basnet (basnetb@usq.edu.au) is a Senior Lecturer at the University "
+"of Southern Queensland (USQ), where he teaches Geographic Information "
+"Systems (GIS) and other related courses.  Badri has extensive teaching "
+"experiences in higher education institutions in and outside Australia. He is"
+" heavily involved in scholarship of learning and teaching of GIS courses in "
+"an online (or distance) education environment. His learning and teaching "
+"research focus is in the development and use of open educational resources "
+"in GIS education."
+msgstr ""
+"Dr Badri Basnet (basnetb@usq.edu.au) is een Senior Lecturer aan de "
+"University of Southern Queensland (USQ), waar hij Geographic Information "
+"Systems (GIS) en andere gerelateerde cursussen onderwijst.  Badri heeft "
+"langdurige onderwijservaring in hogere onderwijsinstituten in en buiten "
+"Australië. Hij is enorm betrokken nij beurzen voor het leren en onderwijzen "
+"van GIS-cursussen in een online (of op afstand) onderwijsomgeving. De focus "
+"voor zijn onderzoek naar leren en onderwijzen ligt in de ontwikkeling en het"
+" gebruiken van open onderwijsbronnen in het onderwijzen van GIS."
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:66
+msgid ""
+"Dr Ernest Dunwoody (edunwoody1@gmail.com) specialises in GIS and remote "
+"sensing image analysis applications. This includes ecosystem analysis, "
+"sustainable development plans for natural areas, soils mapping, and "
+"precision agriculture applications. He has found the wide range of embedded "
+"functions, Plugins, and processing tools available through QGIS give it "
+"unparalleled flexibility in processing. This familiarity allows him to "
+"develop instructional QGIS videos based on Australian spatial data sets."
+msgstr ""
+"Dr Ernest Dunwoody (edunwoody1@gmail.com) specialiseert zich in GIS en "
+"toepassingen voor analyses van afbeeldingen van remote sensing. Dit omvat "
+"onder andere ecosysteem-analyses, duurzame ontwikkelingsplannen voor "
+"natuurgebieden, in kaart brengen van de bodem en toepassingen voor precisie-"
+"landbouw. Hij vond het brede bereik van ingebedde functies, Plug-ins en "
+"gereedschappen voor verwerken die beschikbaar waren in QGIS dusdanig dat zij"
+" het ongeparalleleerde flexibiliteit gaven bij verwerken. Deze bekendheid "
+"stelt hem in staat om instructie QGIS-video's te ontwikkelen, gebaseerd op "
+"Australische ruimtelijke gegevenssets."

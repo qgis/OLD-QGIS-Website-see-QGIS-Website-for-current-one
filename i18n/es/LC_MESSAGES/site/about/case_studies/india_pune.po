@@ -1,0 +1,186 @@
+# 
+# Translators:
+# David Paez <davpaez@gmail.com>, 2015
+# Diana Galindo <drgalindog@linuxmail.org>, 2015
+# YoViajo, 2015-2016
+# Minerva Durán Martínez <mine_tod@yahoo.com.mx>, 2015
+# Rosa Aguilar <rosamaguilar@gmail.com>, 2019
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-07 15:40+0200\n"
+"PO-Revision-Date: 2019-05-06 08:07+0000\n"
+"Last-Translator: Rosa Aguilar <rosamaguilar@gmail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/india_pune.rst:3
+msgid ""
+"Use of python console to prepare offline map from WMS (tile downloader)"
+msgstr "Uso de la consola de Python para preparar mapas sin conexión desde WMS (tile downloader)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:10
+msgid "Use of QGIS"
+msgstr "El uso de QGIS"
+
+#: ../../source/site/about/case_studies/india_pune.rst:12
+msgid ""
+"QGIS provides a tool to connect/access any WMS service. WMS connection is "
+"based on simple URL and once connection is established map can be seen on "
+"QGIS mapview. If we save the map of visible extent from QGIS mapview as jpg "
+"(File > Save as Image) it creates world file which has the geographic "
+"coordinate information of particular region E.g. sample.jpg is the map and "
+"sample.jpgw have the coordinates. That means the downloaded image is "
+"georeferenced. We can download tiles in grid format manually and use later "
+"offline. Manual downloading is possible if the area is very small or low "
+"resolution images are fine."
+msgstr "QGIS provee una herramienta para concectarse/acceder cualquier servicio WMS. La conexión WMS se basa en una simple URL y una vez que la conexión se ha establecido, el mapa se puede ver en la vista del mapa. Si guardamos el mapa, con la extensión visible en la vista del mapa, como jpg (File > Save as Image)  se crea un archivo de coordenadas globales el cual tiene la información de coordenadas geográficas de la region en particular. Por ejemplo, sample.jpg es el mapa y sample.jpgw tiene las coordenadas. Esto significa que la imagen descargada esta georeferenciada. Podemos descargas teselas en formato grid manualmente y usarlas luego sin conexión. La descarga manual es posible si el área es muy pequeña o si las imágenes son de baja resolución."
+
+#: ../../source/site/about/case_studies/india_pune.rst:19
+msgid "QGIS with WMS tiles"
+msgstr "QGIS con tiles WMS"
+
+#: ../../source/site/about/case_studies/india_pune.rst:23
+msgid "Python Console"
+msgstr "Consola Python"
+
+#: ../../source/site/about/case_studies/india_pune.rst:25
+msgid ""
+"A short script was written in “Python Console” with help available on QGIS "
+"official website in PyQGIS Developer Cookbook. Script consists of basically "
+"4 components as following,"
+msgstr "Se ha escrito una secuencia de comandos corta para la “Consola de Python” con ayuda disponible en el sitio web oficial de QGIS en el PyQGIS Developer Cookbok. La secuencia de comandos consta básicamente de 4 componentes de la siguiente manera,"
+
+#: ../../source/site/about/case_studies/india_pune.rst:27
+msgid "X,Y coordinate (top left and bottom right) of first tile"
+msgstr "Coordenada X, Y (superior izquierda e inferior derecha) del primer tile"
+
+#: ../../source/site/about/case_studies/india_pune.rst:28
+msgid "Size of tile to be downloaded (e.g. 0.001 X 0.001 degrees)"
+msgstr "Tamaño del tile para ser descargado (ejemplo 0.001 X 0.001 grados)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:29
+msgid ""
+"No of tiles to download (calculated based on full extent of map and size of "
+"tile)"
+msgstr "Número de tiles para descargar (calculado con base en la extensión completa del mapa y el tamaño del tile)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:30
+msgid "Output directory to store the output tiles/files"
+msgstr "Directorio de salida para almacenar las tejas/archivos de salida"
+
+#: ../../source/site/about/case_studies/india_pune.rst:32
+msgid ""
+"The script works in two simple for loops first which defines the extent of "
+"map in QGIS map view and run row/columns. Once the map extent is set then "
+"map is loaded in QGIS. The delay of 3 seconds (depends on internet "
+"connection) was introduced before saving map as jpg in user defined "
+"directory. Once the script is executed all the tiles created in directory "
+"can be directly loaded in QGIS or single mosaic is prepared from Raster > "
+"Miscellaneous > Merge or Build Virtual Raster (Catalog). Both tools "
+"generates mosaic but basic difference in Merge creates an image independent "
+"of tiles whereas Virtual raster generates a link in all individual tiles "
+"(tiles are required)."
+msgstr "La secuencia de comandos funciona en dos simples bucles los cuales definen primero la extensión del mapa en la vista de mapa de QGIS y ejecutan filas/columnas. Una vez que se establece la extensión del mapa, el mapa se carga en QGIS. El retraso de 3 segundos (depende de la conexión a Internet) se introdujo antes de guardar el mapa como jpg en el directorio definido por el usuario. Una vez que se ejecuta la secuencia de comandos, todas las teselas creadas en el directorio se pueden cargar directamente en QGIS o se prepara el mosaico único desde Ráster> Miscelánea> Combinar o Construir Ráster Virtual (Catálogo). Ambas herramientas generan mosaico, pero la diferencia básica es que Combinar crea una imagen independiente de los mosaicos, mientras que el ráster virtual genera un enlace en todos los mosaicos individuales (se requieren teselas)."
+
+#: ../../source/site/about/case_studies/india_pune.rst:40
+msgid "Python script and directory where tiles are stored"
+msgstr "El script de python y el directorio donde los tiles son almacenados"
+
+#: ../../source/site/about/case_studies/india_pune.rst:42
+msgid ""
+"The method has limitation that, changes in map at server end will not "
+"reflect in offline (downloaded map). In this case user will have to repeat "
+"the process and generate new offline map. Second limitation is the offline "
+"map created will be image format; it cannot be used for thematic mapping or "
+"image classification. With some extra efforts some landuse maps can be "
+"converted to vector with some data loss."
+msgstr "El método tiene la limitación de que los cambios en el mapa en el servidor no se reflejarán fuera de línea ( en el mapa descargado). En este caso, el usuario tendrá que repetir el proceso y generar un nuevo mapa sin conexión. La segunda limitación es que el mapa sin conexión creado será en formato de imagen; no se puede utilizar para mapeo temático o clasificación de imágenes. Con algunos esfuerzos adicionales, algunos mapas de usos del territorio se pueden convertir en vectoriales con cierta pérdida de datos."
+
+#: ../../source/site/about/case_studies/india_pune.rst:45
+msgid "Scope"
+msgstr "Alcance"
+
+#: ../../source/site/about/case_studies/india_pune.rst:47
+msgid ""
+"The generated mosaic is pure image even if it is downloaded from thematic "
+"map (7-8 color). Using advance tool like reclassification, layer/band "
+"stacking this raster can be converted to polygon vector. WMS has several "
+"requests such as getcapabilities, getmap, getfeatureinfo etc. Using the "
+"getgeatureinfo attribute information for each polygon can be retrieved. The "
+"script can be converted to plugin so that anyone without scripting knowledge"
+" will be able to use the script."
+msgstr "El mosaico generado es una imagen pura incluso si se descarga de un mapa temático (7-8 colores). Usando una herramienta avanzada como la reclasificación o el apilamiento de capas/bandas, este ráster puede convertirse en un vectorial de polígonos. WMS tiene varias peticiones, como getcapabilities, getmap, getfeatureinfo, etc. Usando  getfeatureinfo se puede recuperar la información de atributos para cada polígono. La secuencia de comandos se puede convertir en un complemento de modo que cualquier persona sin conocimientos de scripting pueda utilizarla."
+
+#: ../../source/site/about/case_studies/india_pune.rst:50
+msgid "Conclusion"
+msgstr "Conclusión"
+
+#: ../../source/site/about/case_studies/india_pune.rst:52
+msgid ""
+"The above experiences shows that QGIS can be used at any advanced level. "
+"With basic programming skills one can write a small script or a plug-in to "
+"improve the quality of work and save time. Within QGIS, access to a "
+"repository of plug-ins developed worldwide is the best of QGIS. The PyQGIS "
+"Developer Cookbook is a great resource to write a script and raster data "
+"processing is much easy now with help of GDAL tools."
+msgstr "Las siguientes experiencias muestran como QGIS pueden ser usadas a cualquier nivel. Con aptitudes básicas de programación se pueden escribir pequeñas rutinas o complementos para ahorrar tiempo y mejorar la calidad de trabajo. Dentro de QGIS, es posible acceder al repositorio de complementos desarrollados en todo el mundo. El PyQGIS Developer Cookbook (En Inglés) es un excelente recurso para escribir rutinas y con las herramientas de GDAL ahora es mucho más fácil procesar datos ráster."
+
+#: ../../source/site/about/case_studies/india_pune.rst:55
+msgid "Authors"
+msgstr "Autores"
+
+#: ../../source/site/about/case_studies/india_pune.rst:57
+msgid ""
+"This article was contributed May 2014 by Prashant Kadgi, based in Pune "
+"(India) and currently works as consultant in GIS APP Consultancy Services. "
+"Since 2009 he is using GIS & RS in NRM, forestry, e-governance, software "
+"development projects in different regions of India and the world."
+msgstr "Este artículo fue aportado en mayo de 2014 por Prashant Kadgi, radicado en Pune (India) y quien trabaja actualmente como consultor en GIS APP Consultancy Services. Desde 2009, utiliza GIS & RS en proyectos de desarrollo de software, gestión de recursos naturales, silvicultura, gobierno electrónico, en diferentes regiones de la India y el mundo."
+
+#: ../../source/site/about/case_studies/india_pune.rst:59
+msgid "Contact: kadgiprashant@gmail.com"
+msgstr "Contacto: kadgiprashant@gmail.com"
+
+#: ../../source/site/about/case_studies/india_pune.rst:60
+msgid "Website www.gisappco.com (under construction)"
+msgstr "Sitio web www.gisappco.com (en construcción)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:5
+msgid ""
+"This study explains how to prepare offline maps from WMS/WFS or any map "
+"loaded in QGIS map view by downloading tiles with the help of a script in "
+"python console. The skript also generates a mosaic of all tiles for further "
+"use."
+msgstr "El estudio explica cómo preparar mapas fuera de línea a partir de WMS/WFS o cualquier mapa cargado en la vista de mapa QGIS descargando teselas con la ayuda de un script en la consola python. El script también genera un mosaico de todas las teselas for uso posterior."
+
+#: ../../source/site/about/case_studies/india_pune.rst:7
+msgid ""
+"Accessing raster/vector maps through Web Mapping Service (WMS) service is "
+"very common and efficient. It has several advantages such as security, "
+"centralized and flexible map styles. Example is Google maps, Yahoo, Bing, "
+"MODIS, Landsat, maps published by NASA, NRSC (India). The "
+"disadvantage/limitation of WMS is it works via internet or intranet. It may "
+"not be possible to get internet connection always especially in the field "
+"during survey. Also WMS works slow, compared to any offline image format "
+"such as GeoTiff, jpg, img etc."
+msgstr "El acceso a mapas ráster/vectoriales a través del servicio del Servicio de Mapas Web (WMS) es muy común y eficiente. Tiene varias ventajas como seguridad, estilos de mapas centralizados y flexibles. Ejemplo de ello son los mapas de Google, Yahoo, Bing, MODIS, Landsat, mapas publicados por la NASA, NRSC (India). La desventaja/limitación de WMS es que funciona a través de Internet o intranet. Puede que no siempre sea posible obtener conexión a Internet, especialmente en el campo durante el levantamiento o encuesta. Además, WMS funciona de forma lenta, en comparación con cualquier formato de imagen sin conexión, como GeoTiff, jpg, img, etc."
+
+#~ msgid ""
+#~ "This study explains how to prepare offline maps from WMS/WFS or any map "
+#~ "loaded in QGIS map view by downloading tiles with the help of a script in "
+#~ "python console. The skript also generates a mosaic of all tiles for further "
+#~ "use. Accessing raster/vector maps through Web Mapping Service (WMS) service "
+#~ "is very common and efficient. It has several advantages such as security, "
+#~ "centralized and flexible map styles. Example is Google maps, Yahoo, Bing, "
+#~ "MODIS, Landsat, maps published by NASA, NRSC (India). The "
+#~ "disadvantage/limitation of WMS is it works via internet or intranet. It may "
+#~ "not be possible to get internet connection always especially in the field "
+#~ "during survey. Also WMS works slow, compared to any offline image format "
+#~ "such as GeoTiff, jpg, img etc."
+#~ msgstr ""

@@ -1,0 +1,228 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# fairtommy <fairtommy@gmail.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"PO-Revision-Date: 2017-03-02 14:00+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
+"Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:3
+msgid "QGIS to describe the Cesena's Wall"
+msgstr "チェゼーナの壁を描くQGIS"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:5
+msgid ""
+"The ECAMPUS UNIVERSITY was created as an online University and recognized by"
+" the MIUR (Italian Ministry of Education, University and Research) by the "
+"Ministerial Decree of 30 January 2006. It was formed with the aim of "
+"providing access to university through its eLearning platform to young "
+"people, professionals, entrepreneurs, executives and business and cultural "
+"actors in order to contribute to the labor market. The headquarters, also "
+"known as Milan International Campus, or Campus of Novedrate, is located in "
+"the ex IBM training center of Novedrate (Como, Italy), on a campus in the "
+"quiet green Brianza."
+msgstr ""
+"「eキャンパス大学」はオンライン大学として作成され、2006年1月30日の省令により、MIUR（イタリア文部科学省）によって認可されました。それは労働市場に貢献するため、若い人、専門家、起業家、経営幹部およびビジネスおよび文化関係者.に対してeラーニングプラットフォームを通じた大学へのアクセスを提供する目的で形成されました。本部は、ミラノ国際キャンパスとしても、またはノヴェドラーテキャンパスとして知られていますが、ノヴェドラーテ（コモ、イタリア）の元IBMのトレーニングセンターの中、静かな緑のブリアンツァ中のあるキャンパスに位置しています。"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:14
+msgid ""
+"The University has 5 Virtual faculties: Engineering, Economics, Psychology, "
+"Arts, Law. THE HISTORICAL MAPS AND THE QGIS PROJECT The City Wall "
+"characterizes the city of Cesena. Its scorpion shape divides the historic "
+"center from the newly zone."
+msgstr ""
+"大学は5つの仮想学部を持っています：エンジニアリング、経済学、心理学、芸術、法律。古地図とQGISプロジェクト　"
+"城壁はチェゼーナの街を特徴づけます。そのサソリ形状が新しくゾーンからの歴史的な中心部を分割します。"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:19
+msgid ""
+"The historical cartographic documents describe its evolution and its "
+"destructions. The QGIS program allow me to compare different historical "
+"maps, because it permit to transfer all the maps in the same Reference "
+"System, with the georeferencing plugin. As a reference the open layer Google"
+" Satellite and the open layer Open Street Map have been used to refer all "
+"the historical maps to the Reference System EPSG: 3857 (Web Mercator or "
+"Pseudo Mercator)."
+msgstr ""
+"歴史的地図製作の文書は、その進化とその破壊を記述する。QGISプログラムは、それが地理参照プラグインで、同じ基準システム内のすべての地図を転送することを可能にするので、私は、別の古地図を比較できます。参考としてオープンレイヤーのグーグル衛星とオープンレイヤーのオープンストリートマップは、すべての歴史的な参照系EPSG:3857（ウェブメルカトルまたは疑似メルカトル）に地図を参照するために使用されています。"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:26
+msgid ""
+"QGIS has been a fundamental tool to elaborate, analyze, compare these "
+"georeferenced maps through the vectorial layers or shapefiles, in which I "
+"memorized all the elements ofthe maps, such as roads, buildings, parks and "
+"gardens, City Wall, the ancient fortified towers and the ancient City Gates."
+" I used puntual, linear and polygonal layers. I compared these layers "
+"through the analysis, research, geoprocessing, geometry and data management "
+"tools (Fig. 1)."
+msgstr ""
+"QGISは、基本的なツールは、分析し、手の込んだ、私は、道路、建物、公園や庭園、城壁、古代の要塞塔、古代都市の門などの地図のoftheすべての要素を、記憶しているベクターレイヤーまたはシェープファイルを介して、これらの地理参照地図を比較することでした。私はpuntual、線形および多角形のレイヤーを使用しました。私は分析、研究、ジオプロセシング、ジオメトリデータ管理ツールを使用してこれらのレイヤーを比較しました（図1）。"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:36
+msgid "Fig. 1 Concept Map of the QGIS project"
+msgstr "図1 QGISプロジェクトのコンセプトマップ"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:38
+msgid "Using this tools, I got informations about:"
+msgstr "このツールを使用して、私は以下の情報を得ました："
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:40
+msgid ""
+"The precision of the Leonardo Da Vinci's topographic survey, realized in "
+"1502, such as how many points of this survey are correct (Fig. 2);"
+msgstr "1502年に実現したレオナルド・ダ・ヴィンチの地形調査の正確さ（この調査のポイント数が正確であることなど）（図2）"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:41
+msgid "The Cesena Wall's Development from the Roman Age to the 15th Century;"
+msgstr "チェゼーナ・ウォールのローマ時代から15世紀への発展"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:42
+msgid ""
+"The Cesena Wall's Demolitions from the 19th Century to the Early 20th "
+"Century;"
+msgstr "チェゼーナ・ウォールの19世紀から20世紀初頭の破壊"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:43
+msgid ""
+"The morphological changes of the City Wall, such as the demolitions of its "
+"ancient fortified towers and its ancient City Gates;"
+msgstr "城壁の形態変化、例えば古代の要塞塔とその古代の城門の解体。"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:44
+msgid "The Cesena's Urban Progress from the 16th Century to the Present;"
+msgstr "チェゼーナの16世紀から現在までの都市計画"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:50
+msgid ""
+"Fig. 2: Openlayer Google Satellite overlapped by the informations recorded "
+"in different layers: the present City Wall in black, the Leonardo Da Vinci's"
+" topographic survey of the City Wall in orange, the Leonardo Da Vinci's "
+"points of survey in yellow and the present ancient City Gates in red."
+msgstr ""
+"図．2：Openlayer "
+"Googleの衛星は、異なるレイヤーに記録された情報が重なっ：黒に存在城壁、オレンジ色で城壁のレオナルド・ダ・ヴィンチの地形調査、黄色と現在の古代都市ゲイツ中で調査のレオナルド・ダ・ヴィンチのポイント赤。"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:53
+msgid "There are lots of QGIS tools, and I used some of these to create:"
+msgstr "たくさんのQGISツールがあり、私はこれらを使って次のように作成しました。"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:55
+msgid ""
+"Links that connected each section of the linear layer of the present City "
+"Wall to photos, which represent the actual state of conservation;"
+msgstr "現シティウォールの線状レイヤーの各セクションを写真につなぐリンク。実際の保存状態を表します。"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:56
+msgid "A map of Cesena in the 19th Century through the print composer;"
+msgstr "19世紀のチェゼーナの写本を印刷作家に渡したもの。"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:57
+msgid "A 3D Model of Cesena with qgis2threejs plugin (Fig. 3);"
+msgstr "qgis2threejsプラグインを使用したチェゼーナの3Dモデル（図3）"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:63
+msgid ""
+"Fig. 3: The 3D model of the present City Wall and Cesena's buildings inside "
+"and outside the Wall. The ancient fortified towers and the ancient City "
+"Gates are indicated."
+msgstr "図3：現在の市壁とチェゼーナの建物の内外の建物の3Dモデル。古代の要塞塔と古代都市ゲートが示されています。"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:66
+msgid "Conclusion"
+msgstr "結論"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:68
+msgid ""
+"The historical maps are important documents even if its precision cannot be "
+"compared to the precision of the actual cartographic document, and they are "
+"very communicative representations also for those who are not specialists on"
+" geographic representations. QGIS was the only means that allowed me to use "
+"the numerical content of the historical maps according to an effective and "
+"meaningful representation."
+msgstr ""
+"古地図は、その精度は、実際の地図製作のドキュメントの精度に比較することはできません、そして、彼らはまた、地理的な表現上の専門家ではない人のために非常にコミュニケーションの表現であっても、重要な書類です。QGISは私が効果的で意味のある表現に係る履歴地図の数値コンテンツを使用できる唯一の手段でした。"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:75
+msgid "Bibliographic Index"
+msgstr "書誌索引"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:77
+msgid "The historical maps have been extracted by:"
+msgstr "歴史的な地図は以下によって抽出されています："
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:79
+msgid ""
+"\"Costruzione, alterazione e recupero del centro storico di Cesena\", "
+"Ballardini, Cantori, Pezzi, Righetti, Tossani, Bruno Ghigi Editore, 1977"
+msgstr ""
+"\"チェゼーナの歴史的中心部の構築、変更および復元、\" Ballardini、Cantori、スペア、リゲッティ、Tossani、ブルーノGhigi "
+"EDITORE、1977"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:80
+msgid "\"La cinta muraria di Cesena\", Pino Montalti, Edizioni Panini, 1986"
+msgstr "「チェゼーナの壁」、ピノ・モンタルティ、エディション・パニニ、1986"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:82
+msgid "The historical informations have been extracted by:"
+msgstr "歴史的な情報は以下から抽出されています："
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:84
+msgid ""
+"\"La cartografia in Italia: nuovi metodi e nuovi strumenti dal Settecento ad"
+" Oggi\", Andrea Cantile, IGM Firenze, 2007"
+msgstr "イタリアの地図製作：18世紀から今日までの新しい方法と新しい道具、アンドレア・カンティレ、IGMフィレンツェ、2007年"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:85
+msgid ""
+"\"Lineamenti di storia della cartografia italiana, volume secondo, dal "
+"Seicento al Novecento\" Andrea Cantile, Geoweb, 2013"
+msgstr "「17世紀から20世紀にかけてイタリアの地図製作史、第2巻」Andrea Cantile、Geoweb、2013"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:86
+msgid ""
+"\"I rilievi cartografici di Leonardo per Cesena ed Urbino contenuti nel "
+"manoscritto 'L' dell'Istituto di Francia\", Nando De Toni, G. Barbéra "
+"Editore, 1965"
+msgstr ""
+"「原稿 『L』フランス学士院に含まれるチェゼーナとウルビーノのためのレオナルドの地図製作の調査」、ナンド・デ・トニ、G.バルベラEDITORE、1965"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:87
+msgid "\"La città da guerra\", Amelio Fara, Einaudi, 1993"
+msgstr "\"戦争の街\"、アメロ・ファラ、エイナウディ、1993年"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:88
+msgid ""
+"\"La cartografia dall'antichità fino al XVIII secolo\", Carlo Monti, "
+"Maggioli Editore, 2011"
+msgstr "「古代から18世紀までの作図」、カルロ・モンティ、マッジョーレ編集所、2011"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:91
+msgid "Author"
+msgstr "著者"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:93
+msgid ""
+"Camilla Fabbri has a bachelor's degree in Civil and Environmental "
+"Engineering. She has developed her dissertation on historical cartography of"
+" the Cesena Wall using the QGIS program with the Supervisor Alessandra "
+"Borghi, who is the University Teacher of Topography and Theoretical "
+"Mechanics of the bachelor's degree in Civil and Environmental Engineering in"
+" the eCampus University."
+msgstr ""
+"カミラ・ファブリ土木環境工学の学士号を持っています。彼女は地形とeCampus大学で土木環境工学の学士号の理論力学の大学の教師であるスーパーバイザーアレッサンドラボルギ、とQGISプログラムを使用してチェゼーナ・ウォールの歴史的地図作成に彼女の論文を開発しました。"

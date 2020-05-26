@@ -1,0 +1,130 @@
+# 
+# Translators:
+# Fran Raga <FRANKA1986@gmail.com>, 2017
+# Minerva Durán Martínez <mine_tod@yahoo.com.mx>, 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-05 15:28+0200\n"
+"PO-Revision-Date: 2017-09-22 09:58+0000\n"
+"Last-Translator: Fran Raga <FRANKA1986@gmail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:3
+msgid "Producing an arcHYDRO like output with QGIS"
+msgstr "Producir un arcHYDRO como salida con QGIS"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:5
+msgid ""
+"I work for a urban planning company in China.  It is often difficult to "
+"design proper environmental protection because the common sources of data "
+"may be a state secret or may not even exist.  Frequently, we are asked to do"
+" designs without proper survey data.   In addition there is usually not "
+"enough time for a proper study.  My background is in Urban Planning with a "
+"minor in Environmental Science."
+msgstr "Trabajo para una empresa de planificación urbana en China. A menudo es difícil diseñar una protección del medio ambiente adecuado debido a que las fuentes comunes de datos pueden ser un secreto de estado o pueden incluso no existir. Con frecuencia, se nos pide hacer diseños son datos adecuados. Además, usualmente no hay tiempo suficiente para estudiar apropiadamente. Mi formación es en Urbanismo con especialización en Ciencias Ambientales."
+
+#: ../../source/site/about/case_studies/china_hydro.rst:14
+msgid ""
+"The task was plan a conservation park on the Chinese side of the Ili River "
+"which supplies 80% of the water to Lake Balkhash.  FOSS GIS application + "
+"FOSS GIS data stores + FOSS GIS education were all critical to reconstruct "
+"and model the Hydrological and Ecological processes necessary for authentic "
+"conservation planning.  As a non-scientist with no prior training or "
+"experience I could not have done it without all three.  My company did not "
+"and would not pay to purchase GIS software to run the industry standard "
+"arcHYDRO."
+msgstr "La tarea era planear un parque de conservación en el lado chino del río Ili, que suministra el 80% del agua para el lago Balkhash. Aplicación FOSS GIS + almacenes de datos FOSS  GIS + educación FOSS GIS fueron fundamentales para reconstruir y modelar los procesos hidrológicos y ecológicos necesarios para la auténtica planificación de la conservación. Un no-científico sin formación previa o experiencia no podría haber hecho sin los tres. Mi empresa no lo hizo y no tendría que pagar para comprar el software SIG para ejecutar el estándar de la industria ArcHYDRO."
+
+#: ../../source/site/about/case_studies/china_hydro.rst:22
+msgid "Story"
+msgstr "Historia"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:24
+msgid ""
+"With some trial and error I was able to produce an arcHYDRO like output from"
+" QGIS.  Beginning with a USGS Hydrosheds DEM which was converted into a "
+"Regularized Spline with Tension using the GRASS functions inside QGIS and "
+"training by Helena Mitsova.  The RST surface was analyzed this surface to "
+"find the catchments and flow paths, and resulting vector topologies were "
+"cleaned up in QGIS to generate the Hydrologic network and also to build up "
+"the attribute tables."
+msgstr "Con un poco de ensayo y error podría ser capaz de producir un arcHYDRO como salida de QGIS. Comenzando con un DEM Hydrosheds de USGS que se convirtió en un Regularized Spline con Tension utilizando las funciones de GRASS dentro de QGIS y la capacitación por Helena Mitsova. La superficie RST se analizó esta superficie se encontraron las zonas de captación y flujo caminos, y en el resultado de topologías vectoriales se limpió en QGIS para generar la red hidrológica y también para construir las tablas de atributos."
+
+#: ../../source/site/about/case_studies/china_hydro.rst:31
+msgid ""
+"This network was ranked by r.stream extension in GRASS to build Hortons and "
+"Hacks stream ordering.  Then a distance to outlet surface grid was generated"
+" and analyzed by zonal statistics to find the farthest point.  Next, r.drain"
+" in GRASS to trace a time of concentration line.  Finally v.net in GRASS was"
+" used to build a network of pour points, flow paths, TOC paths, and HMDP for"
+" each watershed.  In this workflow, the QGIS tool attribute by location was "
+"invaluable."
+msgstr "Esta red fue clasificada por la extensión r.stream en GRASS para construir Hortons y Hacks stream ordenados. Entonces, una distancia a la salida de rejilla de superficie se generó y se analizó mediante estadísticas zonales para encontrar el punto más lejano. A continuación, r.drain en GRASS traza una línea de tiempo de la concentración. Finalmente v.net en GRASS se utilizó para construir una red de puntos de fluidez, trayectorias de flujo, caminos TOC y HMDP para cada cuenca. En este flujo de trabajo, la herramienta de atributo de QGIS por ubicación fue invaluable."
+
+#: ../../source/site/about/case_studies/china_hydro.rst:38
+msgid ""
+"After the basic hydrologic network was finished I used UN FAO soils database"
+" with table joins to classify soils.  Then using query functions in QGIS the"
+" FAO soils were converted to USDA soils.  A previously downloaded USGS ETM7+"
+" grid was classified with the i.cluser and r.maxlik in GRASS into a NLCD "
+"grid.  By using reclassification tables I converted the landcover to "
+"Manning's n-value grid for overland flow.  Finally I wrote a lookup table in"
+" r.mapcalc and merged the soil and landcover grids into and NRCS TR-55 curve"
+" numbers following the arcHYDRO methodology."
+msgstr "Después de que la red hidrológica básica se finalizó, se utilizó la base de datos de suelos de UN FAO con la unión de la tabla para clasificar los suelos. Después, utilizando funciones de consulta en QGIS los suelos de la FAO fueron convertidos a suelos del USDA. Anteriormente, se descargo una rejilla ETM7 + de USGS que fue clasificada con el i.cluser y r.maxlik en GRASS en una rejilla NLCD. Mediante el uso de tablas de reclasificación, se convertió la cubierta vegetal a n-value Manning para el flujo superficial. Finalmente escribí una tabla de búsqueda en r.mapcalc y se unieron las rejillas del suelo y cubierta vegetal dentro y NRCS TR-55 números de la curva después de la metodología de arcHYDRO."
+
+#: ../../source/site/about/case_studies/china_hydro.rst:45
+msgid ""
+"To create the rainfall grids I performed statistical analysis on GHCN tables"
+" to find rainfall depths for design storms of 1,2,5,10,50,100 year returns. "
+"Then I downloaded a free sample grid of PRISM for China and assuming a "
+"linear relationship, converted average cell values to maximum cell values in"
+" order to build maximum rainfall intensity grids."
+msgstr "Para crear las rejillas de lluvia, se realizó análisis estadístico en las tablas GHCN para encontrar profundidades de precipitaciones para diseñar tormentas de 1,2,5,10,50,100 retornos al año. Luego se descargo una cuadrícula ejemplo gratis de PRISM para China y asumiendo una relación lineal, se convirtieron los valores de celda promedio a valores de celda máximos con el fin de construir las redes de máxima intensidad de lluvia."
+
+#: ../../source/site/about/case_studies/china_hydro.rst:48
+msgid "Conclusion"
+msgstr "Conclusión"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:50
+msgid ""
+"I began using QGIS out of desperation for lack of arcMAP but now I never "
+"want to go back.  The investment of time in FOSS is worthwhile because you "
+"can take it with you to any job.  The combination of GRASS QGIS PostGIS "
+"gives you the full functionality of expensive GIS systems.   The online "
+"learning resources provided were as valuable as the actual software.  I was "
+"able to learn QGIS fast enough to produce a great project in a fast based "
+"real world industry environment."
+msgstr "Comencé a usar QGIS por desesperación por falta de ArcMap pero ahora nunca quiero volver. La inversión de tiempo en el software libre vale la pena, ya que puede llevarlo a cualquier trabajo. La combinación de GRASS, QGIS PostGIS le da toda la funcionalidad de los sistemas GIS caros. Los recursos de aprendizaje en línea que tenían eran tan valiosos como el software real. Tuve la oportunidad de aprender QGIS lo suficientemente rápido para producir un gran proyecto en un ambiente de la industria mundo real basada rápido."
+
+#: ../../source/site/about/case_studies/china_hydro.rst:53
+msgid "Author"
+msgstr "Autor"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:60
+msgid "Robert Ward"
+msgstr "Robert Ward"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:62
+msgid ""
+"Robert Ward is an Urban Designer and GIS Analyst at Parsons Brinkerhoff "
+"working at the intersection of high technology and high art.  He has taught "
+"at Tongji University and Autodesk University.  He is interested in GIS-based"
+" Hydrologic & Hydraulic modelling, Landscape Ecology modelling, Ecosystem "
+"Valuation, Transportation Modelling and GIS-Based Design Visualization."
+msgstr "Robert Ward es un diseñador urbano y analista SIG en Parsons Brinkerhoff, trabajando en la intersección de la alta tecnología y el gran arte. Ha sido profesor en la Universidad de Tongji y Universidad de Autodesk. Él está interesado por Hidrológica y modelado hidráulico basado en SIG, modelización Ecología del Paisaje, Valoración de los Ecosistemas, Modelación de Transporte  y Visualización de Diseños basados en SIG."
+
+#~ msgid ""
+#~ "Robert Ward is an Urban Designer and GIS Analyst at Parsons Brinkerhoff "
+#~ "working at the intersection of high technology and high art.  He has taught "
+#~ "at Tongji University and Autodesk University.  He is interested in GIS-based"
+#~ " Hydrologic & Hydrualic modelling, Landscape Ecology modelling, Ecosystem "
+#~ "Valuation, Transportation Modelling and GIS-Based Design Visualization."
+#~ msgstr ""

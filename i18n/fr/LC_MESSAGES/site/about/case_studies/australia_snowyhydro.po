@@ -1,0 +1,199 @@
+# 
+# Translators:
+# Céline Ndong Garnier <c_c_leen@hotmail.com>, 2015
+# Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015
+# Mehdi SEMCHAOUI, 2015
+# Sant-anna <delazj@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-05 15:28+0200\n"
+"PO-Revision-Date: 2017-09-22 09:58+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>\n"
+"Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:4
+msgid "Using the processing toolbox to automate snow classification"
+msgstr "Utiliser la boîte à outils des traitements pour automatiser la classification de la neige"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:6
+msgid ""
+"Snowy Hydro Limited (SHL) is a peak electricity generator based in the Snowy"
+" Mountains of New South Wales, Australia. Despite owning a variety of "
+"generation assets across the country, Snowy Hydro Limited is best known for "
+"the custodianship of an iconic piece of Australian infrastructure, the Snowy"
+" Mountains Hydro Electric Scheme."
+msgstr "Snowy Hydro Limited (SHL) est un générateur de pic d'électricité basé dans les Montagnes Neigeuses de la Nouvelle-Galles du Sud,  en Australie. Bien que possédant plusieurs ouvrages de génération d'électricité à travers le pays, Snowy Hydro Limited est mieux connu pour son infrastructure emblématique en Australie, le schéma hydroelectrique des Montagnes Neigeuses."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:9
+msgid ""
+"The Snowy Mountains Hydro Electric Scheme, is made possible by seasonal snow"
+" falls in the New South Wales alpine region. Water from the spring snow melt"
+" is used to generate electricity addressing peak demand in the national "
+"electricity market, while also diverting water to the drier inland areas of "
+"South Eastern Australia for irrigation and agriculture."
+msgstr "Le schéma hydroélectrique des Montagnes Neigeuses, est rendu possible par des chutes de neige saisonnières dans la région alpine de Nouvelle-Galles du Sud. L'eau issue de la fonte de la neige de printemps est utilisée pour produire de l’électricité pour gérer les pics de demande sur le marché électrique national, tout en détournant également l'eau vers les zones plus sèches de l'intérieur de l'Australie du Sud-Est, pour l'irrigation et l'agriculture."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:12
+msgid ""
+"Classifying snow cover over the winter months allows SHL to monitor the life"
+" cycle of the snow covered area, archive coverage areas for historical "
+"records, and provide coverage statistics to the hydrographic services team "
+"for water yield and storage forecasts."
+msgstr "La classification de la couverture de neige au cours des mois d'hiver permet à SHL de contrôler le cycle de vie de la zone recouverte par la neige, d'archiver ces zones de couverture pour conserver des enregistrements historiques, et de fournir les statistiques de couverture à l'équipe des services hydrographiques pour la production d'eau et les prévisions de stockage."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:20
+msgid "Map 1.1 Snowy Water Catchment Map"
+msgstr "Map 1.1 Carte de bassin versant de Snowy"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:23
+msgid "Background"
+msgstr "Contexte"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:25
+msgid ""
+"Each year during the winter months (1st June to the 31st October) SHL "
+"obtains as many cloud free images as possible from the MODIS Terra (EOS AM) "
+"satellite. These images are then ingested into an algorithm known as the "
+"Normalised Difference Snow Index (NDSI), which is used to indicate areas "
+"where snow is present. While this algorithm is not unique to any one "
+"particular sensor, the MODIS instrument was chosen due to its adequate "
+"spatial resolution and daily coverage of the project area (Map 1.1 Snowy "
+"Water Catchment)."
+msgstr "Chaque année pendant les mois d'hiver (du 1 juin au 31 octobre), SHL acquiert autant d'images sans nuages que possible à partir du satellite MODIS Terra (EOS AM). Ces images sont alors intégrées dans un algorithme connu sous le nom l'Index Normalisé de Différence d'Enneigement (NDSI), qui est utilisé pour indiquer les zones où la neige est présente. Alors que cet algorithme n'est pas réservé à un capteur particulier, l'instrument MODIS a été choisi en raison de sa résolution spatiale adéquate et de sa couverture quotidienne de la zone du projet (Carte 1.1 du bassin versant Snowy)."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:29
+msgid "Aim"
+msgstr "Objectif"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:31
+msgid ""
+"The aim of this project is to automate the NDSI workflow as a model in the "
+"QGIS processing toolbox. The required output is a vector polygon showing the"
+" snow covered extent within the Snowy Water Catchment, along with "
+"attribution describing the total area covered in square kilometres."
+msgstr "Le but de ce projet est d'automatiser le processus NDSI sous la forme d'un modèle dans la boîte à outils des traitements de QGIS. La sortie attendue est un polygone vecteur montrant la zone enneigée à l'intérieur du bassin versant de Snowy ainsi que des attributs décrivant la surface totale recouverte, en kilomètres carrés."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:35
+msgid "Method"
+msgstr "Méthode"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:37
+msgid ""
+"The NDSI algorithm itself is quite simple (show below in Formula 1.1 - "
+"Normalised Difference Snow Index (NDSI)) and the subsequent steps required "
+"to extract snow cover in a vector format also lends itself nicely to a "
+"processing toolbox model."
+msgstr "L'algorithme NDSI reste assez simple (comme montré dans la formule 1.1. Index Normalisé de Différence d'Enneigement (NDS)) et les étapes successives pour extraire la couverture neigeuse sous forme de vecteur se prêtent à être construites dans un modèle de traitement."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:44
+msgid "Formula 1.1 - Normalised Difference Snow Index (NDSI)"
+msgstr "Formule 1.1 - Index normalisé de différence d'enneigement (NDSI)"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:47
+msgid ""
+"This NDSI algorithm will return results between -1 and 1, with the threshold"
+" for snow typically being values greater than 0.4. An example of the NDSI "
+"output is shown below (Map 1.3 - NDSI output), alongside a natural colour "
+"image (Map 1.2 - MODIS true colour) for the 13th July 2014. As seen from "
+"these images the NDSI output is very good at discriminating snow covered "
+"areas from other land cover types and clouds. It can however misclassify "
+"portions of large water bodies as snow, caused by water having absorption "
+"characteristics in the Near Infrared part of the spectrum. This "
+"characteristic of the NDSI indicates the need to incorporate a water mask at"
+" some stage in the model."
+msgstr "L'algorithme NDSI renverra des résultats compris entre -1 et 1 avec un seuil d'enneigement qui occupera les valeurs supérieures à 0.4. Un exemple de sortie de l'algorithme est présenté ci-dessous (Carte 1.3 Sortie NDSI) ainsi que l'image en couleur naturelle (Carte 1.2 - Image MODIS en couleurs vraies) pour la date du 13 juillet 2014. Comme vous pouvez l'observer sur les images, la sortie NDSI permet de particulièrement bien discriminer les zones enneigées des autres types de couverture ou des nuages. Néanmoins, il peut toutefois mal classer des portions de surface en eau de grande taille comme zones enneigées car l'eau a des caractéristiques d’absorption dans l'infra-rouge. Cette caractéristique de NDSI indique un besoin d'incorporer un masque sur les zones en eau dans une étape du modèle."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:55
+msgid "Map 1.2 - MODIS true colour"
+msgstr "Carte 1.2 - Image MODIS en couleurs vraies"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:62
+msgid "Map 1.3 - NDSI output"
+msgstr "Carte 1.3 Sortie NDSI"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:69
+msgid "Map 1.4 - Recoded \"Snow\" vs \"Non snow\""
+msgstr "Carte 1.4 - Reclassification \"Neige\" vs \"Sans Neige\""
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:72
+msgid ""
+"The NDSI output is created with some very simple band map by using the GRASS"
+" module \"r.mapcalculator\". Once the NDSI grid was available the NDSI "
+"threshold of 0.4 needed to be applied and this would result in a boolean "
+"grid depicting \"Snow\" and \"Non snow\" areas. To get that classification "
+"another GRASS module \"r.recode\" was used and produced the result shown "
+"above in Map 1.4 Recoded ‘Snow’ vs ‘Non Snow’."
+msgstr "La sortie de NDSI est créé à l'aide d'une couche à bande unique en utilisant le module GRASS \"r.mapcalculator\". Une fois la grille NDSI disponible, le seuil de 0.4 doit être appliqué et il permettra de générer une grille booléenne permettant de déterminer les zones \"Neige\" des zones \"Sans Neige\". Pour obtenir cette classification, un autre module de GRASS \"r.decode\" a été utilisé et a permis de produire le résultat présenté dans la Carte 1.4 - Reclassification \"Neige\" vs \"Sans Neige\"."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:75
+msgid ""
+"The recoded grid was then converted to a vector polygon dataset and the snow"
+" covered areas were extracted (shown below, Map 1.5 - Extracted snow). The "
+"snow covered areas were then clipped to the Snowy Water Catchment  (shown "
+"below, Map - 1.6 Snow inside the SWC), then the large water bodies are "
+"masked out (shown below, Map 1.7 - Final snow covered area), and finally the"
+" area statistics for the snow covered area is generated."
+msgstr "La grille reclassifiée a été ensuite transformée en jeu de données polygone vecteur et les zones enneigées ont été extraites (comme présenté ci-dessous dans la Carte 1.5 - Extraction de la neige). Ces zones ont été découpées selon le bassin versant Snowy (Carte 1.6 - Neige à l'intérieur du bassin versant Snowy). Ensuite, on a appliqué le masque sur les grandes étendues d'eau (Carte 1.7 - Zones d'enneigement finales) et finalement les statistiques de zones d'enneigement sont générées."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:83
+msgid "Map 1.5 - Extracted Snow"
+msgstr "Carte 1.5 - Extraction de la neige"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:90
+msgid "Map 1.6 - Snow inside the SWC"
+msgstr "Carte 1.6 - Neige à l'intérieur du bassin versant Snowy"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:97
+msgid "Map 1.7 - Final snow covered area"
+msgstr "Carte 1.7 - Zones d'enneigement finales"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:100
+msgid ""
+"The output from the model is a vector polygon showing the snow covered area "
+"within the Snowy Water Catchment. The attributes of the polygon include the "
+"area covered by the snow and the percentage of the catchment that is "
+"covered. The model in its entirety can be seen below in \"Image 1.1 - "
+"Normalised Difference Snow Index (NDSI) QGIS processing toolbox model\"."
+msgstr "La sortie du modèle est un polygone vecteur indiquant les zones enneigées situées à l'intérieur du bassin versant Snowy. Les attributs du polygone incluent la surface couverte par la neige et le pourcentage du bassin qui est recouvert. Le modèle peut être aperçu dans son intégralité dans l'image ci-dessous: \"Image 1.1 - Modeleur de traitements de QGIS pour l'Index Normalisé de Différence d'Enneigement (NDSI)\"."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:108
+msgid ""
+"Image 1.1 - Normalised Difference Snow Index (NDSI) QGIS processing toolbox "
+"model"
+msgstr "Image 1.1 - Modeleur de traitements de QGIS pour l'Index Normalisé de Différence d'Enneigement (NDSI)"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:112
+msgid "Results/Conclusion"
+msgstr "Résultats/Conclusion"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:114
+msgid ""
+"The QGIS processing toolbox is a powerful way to automate a workflow such as"
+" this snow classification. The model shown above successfully automates the "
+"snow classification process, and delivers a GIS dataset that can be used for"
+" visualisation and input into further statistical applications. It "
+"successfully removes subjective user error associated with previous methods "
+"used by SHL, while providing a repeatable and consistent classification "
+"tool. Some seasonal results can be viewed here."
+msgstr "La boîte à outils de traitements de QGIS est un dispositif puissant pour automatiser un processus tel que la classification d'enneigement. Le modèle présenté ci-dessus automatise correctement le processus de classification d'enneigement et fournit un jeu de données SIG qui peut être visualisé et être retravaillé dans d'autres outils statistiques. Il permet de supprimer les erreurs subjectives des méthodes antérieurement utilisées par SHL tout en fournissant un outil cohérent et utilisable de manière répétitive. Voici quelques résultats selon les saisons."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:118
+msgid "Author"
+msgstr "Auteur"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:120
+msgid ""
+"Andrew Jeffrey is a GIS Analyst with Snowy Hydro Limited based in Cooma NSW,"
+" Australia. He graduated from Charles Sturt University in Wagga Wagga with a"
+" Bachelor of Science (Bsc) majoring in Spatial Information Systems in 2004. "
+"While at Snowy Hydro Limited he has been able to provide spatial support to "
+"exciting projects such as the Cloud Seeding experiment, and day to day "
+"operations within the organisation."
+msgstr "Andrew Jeffrey est un analyse SIG au sein de Snowy Hydro Limited, basé à Cooma NSW en Australie. Il est diplômé de l'Université Charles Sturt de Wagga Wagga avec une licence en Science (Bsc) et en Système d'Information Spatiaux en 2004. Dans son travail à Snowy Hydro Limited, il a pu fournir du support géographique sur des projets d'envergure comme l'expérimentation d'ensemencement de nuages mais également, au quotidien dans l'organisation."

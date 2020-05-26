@@ -1,0 +1,256 @@
+# 
+# Translators:
+# Tomas Straupis, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-07 15:40+0200\n"
+"PO-Revision-Date: 2019-09-05 17:55+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:3
+msgid "12th QGIS Developer Meeting in Essen"
+msgstr "12-as QGIS programuotojų susitikimas Esene"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:5
+msgid ""
+"The 12th QGIS Developer Meeting from 02 - 05 October 2014 was organised by "
+"`Geoinformatikbüro Dassau <http://www.gbd-consult.de>`_ and held for the "
+"second time at the `Linuxhotel <http://www.linuxhotel.de/>`_ in Essen, "
+"Germany. The Linuxhotel provided the venue, internet, accommodation and "
+"breakfast with very moderate conditions. It is a wonderful place and we are "
+"extremely grateful to them for organising and helping us to make the whole "
+"event went very smoothly."
+msgstr "12-asis QGIS programuotojų susitikimas 2014 metų spalio 02 - 05 dienomis, kurį organizavo `Geoinformatikbüro Dassau <http://www.gbd-consult.de>`_ ir kuris antrą kartą buvo rengiamas `Linuxhotel <http://www.linuxhotel.de/>`_ Esene, Vokietijoje. Linuxhotel suteikė patalpas, internetą, apgyvendinimą ir pusryčius su labai nedaug sąlygų. Tai puiki vieta ir mes ypatingai dėkingi jiems už organizaciją ir pagalbą užtikrinant, kad visas renginys vyktų sklandžiai."
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:7
+msgid ""
+"We also want to thank our gold sponsor `ASIA AIR SURVEY "
+"<http://www.asiaairsurvey.com/>`_, our silver sponsors `G.A.I.A. mbH "
+"<http://www.gaia-mbh.de>`_, and `State of Vorarlberg "
+"<http://www.vorarlberg.at/>`_, the German `FOSSGIS e.V. "
+"<http://www.fossgis.de/>`_ for sponsoring this event explicitly with 1500 "
+"Euros and the many people who have donated sums large and small to the QGIS "
+"project."
+msgstr "Taipogi norime padėkoti mūsų auksiniam rėmėjui `ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, mūsų sidabriniams rėmėjams `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, `Vorarlberg'o valstijai <http://www.vorarlberg.at/>`_ ir Vokietijos `FOSSGIS e.V. <http://www.fossgis.de/>`_ už konkretų šio įvykio parėmima 1500 Eurų suma bei daugybei kitų žmonių, kurie skyrė dideles ir nedideles sumas QGIS projektui."
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:9
+msgid ""
+"The money from donations was put to very good use funding the travel, "
+"accomodation and eating of most of the participants of the developer "
+"meeting. We would like to thank the virtual particpants present on IRC, the "
+"developer meeting was all the better for having your comments, testing and "
+"insights."
+msgstr "Suaukoti pinigai buvo labai gerai panaudoti finansuojant kelionės, apgyvendinimo ir maitinimo išlaidas daugumai vystytojų susitikimo dalyvių. Mes norime padėkoti ir virtualiems dalyviams, kurie dalyvavo IRC, programuotojų susitikimas buvo dar geresnis dėl jūsų komentarų, testavimo ir įžvalgų."
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:15
+msgid "Summary of what happened at the hackfest"
+msgstr "Programišių susitikimo įvykių suvestinė"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:17
+msgid ""
+"Firstly we should mention, that the greatest part of the time was spent in "
+"discussions. Meeting face to face gives us an opportunity to discuss the "
+"minutae of the project in a way that is imply not possible in our virtual "
+"discussions. The discussions also gave us a good chance to plan what should "
+"be the priorities after the major release of QGIS 2.6. More details on that "
+"further down. We had 35 people attending (most could attend for the full "
+"duration). They have been working on a wide variety of topics, e.g.:"
+msgstr "Visų pirma norėtume paminėti, kad didžioji dalis laiko buvo praleista diskutuojant. Susitikimas akis į akį leidžia aptarti projekto detales taip, kaip to neįmanoma padaryti virtualiuose pokalbiuose. Diskusijos taipogi leidžia planuoti prioritetus po QGIS 2.6 išleidimo. Daugiau informacijos apie tai rasite žemiau. Dalyvavo 35 žmonės (dauguma galėjo dalyvauti visuose renginiuose). Jie dirbo su plačiu spektru užduočių, pavyzdžiui:"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:19
+msgid "Otto Dassau: Organization, PSC Discussions, Documentation"
+msgstr "Otto Dassau: organizacija, PSC diskusijos, dokumentacija"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:20
+msgid "Richard Duivenvoorde: PSC Discussions"
+msgstr "Richard Duivenvoorde: PSC diskusijos"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:21
+msgid "Larissa Junek: Organization, Documentation"
+msgstr "Larissa Junek: organizacija, dokumentacija"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:22
+msgid "Jürgen Fischer: PSC Discussions, Bugfixing"
+msgstr "Jürgen Fischer: PSC diskusijos, riktų taisymas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:23
+msgid "Paolo Cavallini: PSC Discussions"
+msgstr "Paolo Cavallini: PSC diskusijos"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:24
+msgid "Denis Rouzaud : QGIS Development"
+msgstr "Denis Rouzaud : QGIS vystymas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:25
+msgid "Giovanni Manghi : Bug hunting, testing and fixes (Processing)"
+msgstr "Giovanni Manghi : riktų paieška, testavimas ir taisymas (apdorojimas)"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:26
+msgid "Hugo Martins: QGIS Development"
+msgstr "Hugo Martins: QGIS vystymas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:27
+msgid "Alexandre Neto: Documentation, User Manual screenshots, Plugins"
+msgstr "Alexandre Neto: dokumentacija, naudotojo vadovo nuotraukos, priedai"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:28
+msgid "Raymond Nijssen: Documentation"
+msgstr "Raymond Nijssen: dokumentacija"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:29
+msgid "Alessandro Pasotti: QGIS Website, Plugin Development"
+msgstr "Alessandro Pasotti: QGIS svetainė, priedų programavimas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:30
+msgid "Victor Olaya: Processing Plugin Development"
+msgstr "Victor Olaya: apdorojimo priedo vystymas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:31
+msgid "Martin Isenburg: LAStools Plugin Development"
+msgstr "Martin Isenburg: LAStools priedo vystymas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:32
+msgid "Tim Sutton: PSC Discussions"
+msgstr "Tim Sutton: PSC diskusijos"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:33
+msgid "Luigi Pirelli: Documentation, Translation"
+msgstr "Luigi Pirelli: dokumentacija, vertimas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:34
+msgid "Sören Gebbert: Plugin Development"
+msgstr "Sören Gebbert: priedų vystymas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:35
+msgid "Matthias Kuhn: QGIS Core Development"
+msgstr "Matthias Kuhn: QGIS pagrindo vystymas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:36
+msgid "Yves Jacolin: Documentation"
+msgstr "Yves Jacolin: dokumentacija"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:37
+msgid "Arnaud Morvan: Documentation"
+msgstr "Arnaud Morvan: dokumentacija"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:38
+msgid "Andre Mano: Documentation. Translation, testing and bug hunt"
+msgstr "Andre Mano: dokumentacija. vertimas, testavimas ir riktų paieška"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:39
+msgid "Alexander Bruy: Plugin Development"
+msgstr "Alexander Bruy: priedų vystymas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:40
+msgid "Andreas Neumann: QGEP, QGIS Web Client"
+msgstr "Andreas Neumann: QGEP, QGIS tinklo klientas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:41
+msgid "Werner Macho: Documentation, Plugin Development"
+msgstr "Werner Macho: dokumentacija, priedų vystymas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:42
+msgid "Mathias Walker: OpenLayers Plugin, QGIS Web Client"
+msgstr "Mathias Walker: OpenLayers priedas, QGIS žiniatinklio klientas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:43
+msgid "Sandro Mani: QGIS Plugin Development"
+msgstr "Sandro Mani: QGIS priedų vystymas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:44
+msgid "Carlos López Quintanilla: Translation, test, plugins"
+msgstr "Carlos López Quintanilla: vertimas, testavimas, priedai"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:45
+msgid "David Erill Carrera: Plugin Development"
+msgstr "David Erill Carrera: priedų vystymas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:46
+msgid "Stefan Ziegler: QGIS Web Client, Arcs/Curves"
+msgstr "Stefan Ziegler: QGIS žiniatinklio klientas, Lankai/Kreivės"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:47
+msgid "Martin Dobias: QGIS Core Development"
+msgstr "Martin Dobias: QGIS pagrindo vystymas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:48
+msgid "Peter Wells: QGIS Plugin Development"
+msgstr "Peter Wells: QGIS priedų vystymas"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:49
+msgid "Andreas Schmid: QGIS Web Client, documentation"
+msgstr "Andreas Schmid: QGIS tinklo klientas, dokumentacija"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:50
+msgid "Diethard Jansen: Translation, Documentation & learn Epanet plugin"
+msgstr "Diethard Jansen: vertimas, dokumentacija ir Epanet priedo pamokos"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:51
+msgid "Marco Hugentobler: Arcs/Curves, QGIS server, PSC Discussions"
+msgstr "Marco Hugentobler: Lankai/Kreivės, QGIS serveris, PSC diskusijos"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:52
+msgid "Matteo Ghetta: Documentation, translation,"
+msgstr "Matteo Ghetta: dokumentacija, vertimas,"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:53
+msgid "Lene Fischer: Planing the next hackfest, Documentation"
+msgstr "Lene Fischer: kito programišių susitikimo planavimas, dokumentacija"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:56
+msgid "Experiences and plans for the next hackfest"
+msgstr "Įspūdžiai ir kito programišių susitikimo planai"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:58
+msgid ""
+"The next hackfest is planned to be in May 2015 near Copenhagen. We would "
+"like to encourage all developers and non developers to join the meeting "
+"because it was extremely useful having them in Essen and there are many "
+"hackfest activities they can contribute with including documentation "
+"cleanups, translations, giving inputs to the user interface and user "
+"interaction ideas."
+msgstr "Kitas susitikimas planuojamas 2015 gegužę netoli Kopenhagos. Mes norėtume paskatinti programuotojus ir neprogramuotojus prisijungti prie susitikimo, nes jis buvo labai naudingas Esene ir yra labai daug veiklų, prie kurių galima prisidėti, įskaitant dokumentacijos valymą, vertimus, naudotojo sąsajos ir sąveikos su naudotoju idėjas."
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:61
+msgid "Further links"
+msgstr "Kitos nuorodos"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:63
+msgid ""
+"`Wiki page of the QGIS Hackfest in Essen 2014 <http://hub.qgis.org/wiki"
+"/quantum-gis/12_QGIS_Developer_Meeting_in_Essen_2014>`_"
+msgstr "`QGIS programuotojų susitikimo 2014 Esene wiki puslapis <http://hub.qgis.org/wiki/quantum-gis/12_QGIS_Developer_Meeting_in_Essen_2014>`_"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:64
+msgid ""
+"`Pictures from the QGIS Hackfest in Essen 2014 by Alessandro Pasotti "
+"<https://www.flickr.com/photos/45502883@N06/sets/72157648185718289/>`_"
+msgstr "`QGIS programuotojų susitikimo 2014 nuotraukos, fotografavo Alessandro Pasotti <https://www.flickr.com/photos/45502883@N06/sets/72157648185718289/>`_"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:65
+msgid ""
+"`Pictures from the QGIS Hackfest in Essen 2014 collected by Anita Graser "
+"<https://www.flickr.com/groups/2286344@N25/>`_"
+msgstr "`QGIS programuotojų susitikimo 2014 Esene nuotraukos, fotografavo Anita Graser <https://www.flickr.com/groups/2286344@N25/>`_"
+
+#: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:66
+msgid ""
+"`General information on Sponsoring a QGIS Hackfest "
+"<https://qgis.org/en/site/getinvolved/governance/sponsorship/sponsorship.html"
+"#qgis-sponsorship-program>`_"
+msgstr ""
+
+#~ msgid "October 2nd-5th 2014, developer meeting Essen"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "http://hub.qgis.org/wiki/quantum-gis/12_QGIS_Developer_Meeting_in_Essen_2014"
+#~ msgstr ""

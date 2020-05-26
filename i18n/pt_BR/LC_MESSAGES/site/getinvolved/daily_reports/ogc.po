@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Leônidas Luiz Volcato Descovi Filho <leonidasfilho2000@yahoo.com.br>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"PO-Revision-Date: 2018-12-19 16:24+0000\n"
+"Last-Translator: Leônidas Luiz Volcato Descovi Filho <leonidasfilho2000@yahoo.com.br>, 2020\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/getinvolved/daily_reports/ogc.rst:2
+msgid "OGC Certification"
+msgstr "Certificado OGC"
+
+#: ../../source/site/getinvolved/daily_reports/ogc.rst:4
+msgid ""
+"QGIS Server 3.4 is currently certified for WMS 1.3.0 (see `OGC Reference "
+"Implementation <http://www.opengeospatial.org/resource/products>`_)."
+msgstr ""
+"QGIS Servidor 3.4 é atualmente certificado por WMS 1.3.0 (ver `Implementação"
+" de Referência OGC <http://www.opengeospatial.org/resource/products>`_)."
+
+#: ../../source/site/getinvolved/daily_reports/ogc.rst:10
+msgid ""
+"In order to keep an eye on regressions, OGC tests are run on a daily basis "
+"on the **master** branch. Corresponding reports are generated for several "
+"OGC testsuites:"
+msgstr ""
+"Para ficar de olho nas regressões, os testes OGC são executados diariamente "
+"na ramificação **master**. Relatórios correspondentes são gerados para "
+"vários testes de OGC:"
+
+#: ../../source/site/getinvolved/daily_reports/ogc.rst:14
+msgid "WMS 1.3.0 : http://test.qgis.org/ogc_cite/wms_130/"
+msgstr "WMS 1.3.0 : http://test.qgis.org/ogc_cite/wms_130/"
+
+#: ../../source/site/getinvolved/daily_reports/ogc.rst:15
+msgid "WFS 1.1.0 : http://test.qgis.org/ogc_cite/wfs_110/"
+msgstr "WFS 1.1.0 : http://test.qgis.org/ogc_cite/wfs_110/"
+
+#: ../../source/site/getinvolved/daily_reports/ogc.rst:17
+msgid ""
+"Latest reports are `WMS 1.3.0 "
+"<http://test.qgis.org/ogc_cite/wms_130/latest/report.html>`_ and `WFS 1.1.0 "
+"<http://test.qgis.org/ogc_cite/wfs_110/latest/report.html>`_."
+msgstr ""
+"Últimos relatórios são `WMS 1.3.0 "
+"<http://test.qgis.org/ogc_cite/wms_130/latest/report.html>`_ e `WFS 1.1.0 "
+"<http://test.qgis.org/ogc_cite/wfs_110/latest/report.html>`_."
+
+#~ msgid ""
+#~ "QGIS Server 3.0 is currently certified for WMS 1.3.0 (see `OGC Reference "
+#~ "Implementation <http://www.opengeospatial.org/resource/products>`_)."
+#~ msgstr ""
+#~ "QGIS Server 3.0 é atualmente certificado por WMS 1.3.0 (ver `Implementação "
+#~ "de Referência OGC <http://www.opengeospatial.org/resource/products>`_)."

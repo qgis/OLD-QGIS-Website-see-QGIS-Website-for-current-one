@@ -1,0 +1,428 @@
+# 
+# Translators:
+# Benoît de Cabissole, 2016
+# Bobo Plateau <bobo-romania@users.noreply.github.com>, 2016
+# Céline Ndong Garnier <c_c_leen@hotmail.com>, 2015
+# Christophe55 <christophe.maginot@gmail.com>, 2016
+# Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015
+# Mehdi SEMCHAOUI, 2015
+# Richard Duivenvoorde <richard@duif.net>, 2016
+# Sant-anna <delazj@gmail.com>, 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-05 15:28+0200\n"
+"PO-Revision-Date: 2017-09-22 09:58+0000\n"
+"Last-Translator: Benoît de Cabissole\n"
+"Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:3
+msgid ""
+"QGIS geoprocessing model to simplify first level seismic microzonation "
+"analysis"
+msgstr "Modèle de géotraitement QGIS pour les études de micro-zonages sismiques de premier niveau"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:12
+msgid ""
+"Environmental geochemistry and remediation of contaminated soils and waters;"
+msgstr "Géochimie environnementale et assainissement des eaux et sols contaminés;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:13
+msgid ""
+"Mineral deposits and mineral processing, including the treatment of waste "
+"waters;"
+msgstr "Gisements minéraux et traitement des minerais, y compris le traitement des eaux usées;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:14
+msgid "Geoengineering and safety of rock excavations;"
+msgstr "Géoingénierie et sécurité dans l'excavation de roches;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:15
+msgid "Recent geological evolution;"
+msgstr "Evolution géologique récente;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:16
+msgid "Mitigation of natural hazards;"
+msgstr "Prévention des risques naturels;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:17
+msgid "Geoarchaeology and archaeometry."
+msgstr "Géoarchéologie et archéométrie."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:18
+msgid "Marine Geology"
+msgstr "Géologie marine"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:19
+msgid "Geomatics, GIS analysis and development."
+msgstr "Géomatique, analyse et développement de SIG."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:21
+msgid ""
+"The level 1 seismic microzonation study of the Pietramontecorvino area "
+"(Apulia, Southern Italy, located along the Central-Southern Apennine chain) "
+"is part of a project, in collaboration with the Basin Authority of Apulia "
+"(Puglia AdB) and the Department of Geology and Geophysics (DGG) of the "
+"University of Bari, aimed at the seismic microzonation of 63 Municipalities "
+"of the area of Foggia. The activity was promoted by the Italian Department "
+"of Civil Protection (DPC) and financed by the Interministerial Committee for"
+" Economic Planning (CIPE n. 20/2004)."
+msgstr "L'étude de micro-zonage sismique de niveau 1 du territoire de Pietramontecorvino (Apulia, Italie du sud, localisée le long de la chaîne centrale et sud des Apennins) fait partie d'un projet de micro-zonage sismique de 63 municipalités du territoire de Foggia, conduite en collaboration avec l'autorité de bassin d'Apulia (Puglia Adb) et le département de géologie et de géophysique (DDG) de l'Université de Bari. Cette activité a été mise en valeur par le département italien de la protection civile (DPC) et financée par le Comité Interministériel de Planification Economique (CIP n°20/2004)."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:30
+msgid "QGIS geoprocessing tool for first level seismic microzonation studies"
+msgstr "QGIS, outil de géotraitement pour les études de micro-zonages sismiques de premier niveau"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:32
+msgid ""
+"The seismic microzonation evaluate the seismic hazard at the local scale "
+"proposing to identify areas of territory characterized by homogeneous "
+"seismic behavior. The first level of seismic microzoning has the purpose of "
+"defining the lithological properties and geometry of geological units that "
+"characterize these portions of territory (microzones)."
+msgstr "Le micro-zonage sismique évalue le risque sismique à l'échelle locale en proposant d'identifier les portions de territoires caractérisées par un comportement sismique homogène. Le premier niveau de micro-zonage sismique a la particularité de définir les propriétés lithologiques et la géométrie des unités géologiques qui caractérisent ces portions de territoires (micro-zones)."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:38
+msgid ""
+"The observation of the damage caused by an earthquake often shows variations"
+" at local scale caused not only by geological structures but also by "
+"different quality and type of building structures, resulting in different "
+"seismic hazards."
+msgstr "L'observation des dommages causés par un tremblement de terre montre souvent des variations à l'échelle locale causées non seulement par les structures géologiques mais également par les différents types et qualités des constructions, résultant en différents risques sismiques."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:42
+msgid ""
+"The seismic microzonation evaluates the local seismic hazard, through the "
+"identification of areas of territory characterized by homogeneous seismic "
+"behavior."
+msgstr "Le micro-zonage sismique évalue le risque sismique local à travers l'identification de portions du territoire, caractérisées par un comportement sismique homogène."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:45
+msgid ""
+"The Guidelines and Criteria for Seismic microzoning 2008 "
+"(http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137) "
+"provide standards for seismic microzoning studies on Italian territory; they"
+" distinguish three levels of increasing depth (from 1 to 3)."
+msgstr "L'ouvrage Guide et Critères pour le micro-zonage sismique de 2008 (http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137) est le standard pour les études de micro-zonage sur le territoire italien; il distingue trois niveaux (de 1 à 3)."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:49
+msgid ""
+"The first level seismic microzonation consists in the creation of three "
+"thematic maps:"
+msgstr "Le premier niveau de micro-zonage sismique consiste à créer trois cartes thématiques:"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:61
+msgid ""
+"The scope of this work is to contribute to the creation of a methodology for"
+" processing topographical, geological, geophysical and geo-technical data "
+"aimed at level 1 seismic microzonation map drafting, through the use of open"
+" source tools."
+msgstr "L'objectif de ce travail consiste à créer une méthodologie pour traiter les données topographiques, géologiques, géophysiques et géo-techniques pour pouvoir dessiner les zones sismiques de niveau 1 en utilisant des outils libres."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:65
+msgid ""
+"The Graphical Modeler tool integrated in the latest version of QGIS (2.8.1 "
+"as of writing) has been used for the creation of a simple geoprocessing "
+"model. This tool is useful to automate one of the analysis commonly "
+"performed for the creation of level 1 seismic microzonation maps, in "
+"particular to identify unstable zones as polygon features."
+msgstr "Le modeleur graphique intégré dans la dernière version de QGIS (2.8.1 au moment de la rédaction) a été utilisé pour la création d'un modèle de géo-traitement simple. Cet outil est très utile pour automatiser un des analyses couramment utilisée pour la création des cartes de micro-zonage sismique de niveau 1, en particulier pour identifier les zones instables sous forme de polygones."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:70
+msgid ""
+"The model makes use of different open source software and libraries (GRASS, "
+"GDAL, QGIS), demonstrating the usefulness of QGIS as a simplified and "
+"unified interface for heterogeneous GFOSS (Geospatial Free and Open Source "
+"Software) tools (Fig. 1)."
+msgstr "Le modèle utilise différents outils et bibliothèques libres (GRASS, GDAL, QGIS), démontrant l'utilité de QGIS en tant qu'interface graphique simple et unifiée pour différents outils GFOSS (Geospatial Free and Open Source Software) (Fig. 1)."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:79
+msgid "(Fig. 1) Screenshot from the geoprocessing model."
+msgstr "(Fig. 1) Aperçu du modèle de géotraitement."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:81
+msgid "The model takes as input (Fig. 2):"
+msgstr "Le modèle reçoit en entrée (Fig. 2):"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:83
+msgid "A shapefile of contour lines containing a field with elevation values;"
+msgstr "Une couche des courbes de niveau contenant un champ avec la valeur d'élévation"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:84
+msgid "The name of the field  containing elevation values;"
+msgstr "Le nom du champ contenant les valeurs d'élévation;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:85
+msgid ""
+"The desired raster resolution in meters for DEM and Slope (default 10);"
+msgstr "La résolution raster souhaitée pour le MNT et les pentes (10 par défaut)"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:86
+msgid ""
+"A polygon shapefile from which features intersecting areas with slope "
+"greater than 15 degrees will be extracted;"
+msgstr "Une fichier shapefile de polygones à partir duquel seront extraits les objets intersectant les zones de pente supérieures à 15%;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:87
+msgid "The name of the resulting polygon layer."
+msgstr "Le nom de la couche polygone résultante."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:94
+msgid "(Fig. 2) Model input form (left) and execution log (right)."
+msgstr "(Fig. 2) Formulaire d'entrée du modèle (gauche) et journal d’exécution (droite)."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:96
+msgid "When launched, the model performs the following operations:"
+msgstr "Dès que lancé, le modèle produit les opérations suivantes:"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:103
+msgid ""
+"The GRASS tool r.mapcalculator is used to generate a 1 bit raster "
+"identifying areas with slope greater than 15 degrees (this value is coded in"
+" the microzonation guidelines, and so it is fixed), using the expression:"
+msgstr "L'outil GRASS r.mapcalculator est utilisé pour générer un raster 1 bit identifiant les aires ayant une pente de plus de 15 degrés (cette valeur est codée dans les lignes de guide des microzones, et donc valeur fixe), en utilisant l'expression:"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:107
+msgid "if(A>15,1,null())"
+msgstr "if(A>15,1,null())"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:109
+msgid "where A is the temporary slope raster generated by gdaldem;"
+msgstr "où A est le raster de pente temporaire généré par gdaldem;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:112
+msgid ""
+"The QGIS tool “Intersection” is used to overlay the areas with slope greater"
+" than 15 degrees with the chosen intersection layer."
+msgstr "L'outil QGIS \"Intersection\" est utilisé pour superposer les zones avec une pente supérieure à 15 degrés avec la couche intersection choisie."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:115
+msgid ""
+"The result is a polygon layer with areas prone to instability due to a slope"
+" value greater than 15 degrees, automatically extracted from a thematic map "
+"such as a landslides polygon layer (Fig. 3) or a lithological map."
+msgstr "Le résultat consiste en une couche de polygones où le risque d'instabilité est grand à cause d'une valeur de pente supérieure à 15 degrés. Cette information est automatiquement extraite d'une carte thématique telle que la couche des glissements de terrain (Fig. 3) ou une carte lithologique."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:124
+msgid ""
+"(Fig. 3) The model output (in red) shows highly unstable areas extracted "
+"from a landslides layer (orange)."
+msgstr "(Fig. 3) La sortie du modèle (en rouge), montre des zones de grandes instabilités extraites de la couche des glissements de terrain (orange)."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:127
+msgid "Conclusions"
+msgstr "Conclusions"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:129
+msgid ""
+"This work clearly demonstrates that open source GIS tools like QGIS, GRASS, "
+"GDAL/OGR, can successfully be used for spatial analysis and data processing "
+"aimed at first level seismic microzonation  studies. In this example work, "
+"QGIS has been used as a simplified and unified interface for different high "
+"quality GFOSS tools; the Graphical Modeler allows to intuitively construct "
+"geoprocessing models that can be easily shared as portable and cross-"
+"platform tools that doesn't require expensive software licenses. The tool "
+"leverages the QGIS modeling capabilities to graphically chain different "
+"algorithms, defining input and output parameters and leaving to the software"
+" the task of managing intermediate data output. The use of GRASS algorithms "
+"does not require defining and using a GRASS database and mapset, greatly "
+"simplifying the design of the model. Future developments include the "
+"creation of a package of tools and models, based on open source software, "
+"that can be used to simplify and speed up spatial analysis tasks necessary "
+"for seismic microzonation studies."
+msgstr "Ce travaille montre clairement que les outils libres de SIG comme QGIS, GRASS, GDAL/OGR peuvent être utilisés avec succès pour l'analyse spatiale et le traitement de données visant les études de micro-zonages sismiques de premier niveau. Dans cet exemple de travail, QGIS a été utilisé comme interface simple et unifiée pour les différents outils sus-cités; le modeleur graphique permet de construire des modèles de géo-traitements de manière intuitive. Ces modèles peuvent être facilement partagés sous forme d'outils multi-plateforme et portable sans avoir besoin de licences logicielles inabordables. L'outil renforce les capacités de modelisation de QGIS pour chaîner graphiquement différents algorithmes, en définissant les paramètres d'entrées et de sortie et en laissant au logiciel le soin de gérer les données intermédiaires. L'utilisation d'algorithmes GRASS n'impose pas d'utiliser des jeux de données et une base de données GRASS ce qui simplifie grandement le processus d'élaboration du modèle. De futures développements incluent la création d'un ensemble d'outils et de modèles, basés sur du logiciel libre, qui pourra être utilisé pour simplifier et accélérer les tâches d'analyse spatiale nécéssaire aux études de micro-zonage sismique."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:142
+msgid "References"
+msgstr "Références"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:147
+msgid ""
+"Cavinato,G.P.; Cavuoto, G.; Coltella, M.; Cosentino, G.; Paolucci, E.; "
+"Peronace, E. & Simionato, M.: \"Studio di fattibilità per il monitoraggio e "
+"la messa in sicurezza delle aree urbane a rischio di stabilità statica e "
+"vulnerabilità strutturale del Comune e della Provincia di Foggia - CIPE "
+"20/2004 Consiglio Nazionale delle Ricerche - Istituto di Geologia Ambientale"
+" e Geoingegneria, 2013, 526\""
+msgstr "Cavinato,G.P.; Cavuoto, G.; Coltella, M.; Cosentino, G.; Paolucci, E.; Peronace, E. & Simionato, M.: \"Studio di fattibilità per il monitoraggio e la messa in sicurezza delle aree urbane a rischio di stabilità statica e vulnerabilità strutturale del Comune e della Provincia di Foggia - CIPE 20/2004 Consiglio Nazionale delle Ricerche - Istituto di Geologia Ambientale e Geoingegneria, 2013, 526\""
+
+#: ../../source/site/about/case_studies/italy_rome.rst:151
+msgid ""
+"Contributi per l'aggiornamento degli \"Indirizzi e criteri per la "
+"microzonazione sismica \" 2008. Ingegneria sismica, Pàtron Editore Bologna, "
+"2011 "
+"(http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB28083)"
+msgstr "Contributi per l'aggiornamento degli \"Indirizzi e criteri per la microzonazione sismica \" 2008. Ingegneria sismica, Pàtron Editore Bologna, 2011 (http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB28083)"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:153
+msgid ""
+"Gruppo di lavoro MS, 2008. Indirizzi e criteri per la microzonazione "
+"sismica. Conferenza delle Regioni e delle Province autonome - Dipartimento "
+"della protezione civile, Roma, 3 vol. e Dvd, Presidenza del Consiglio dei "
+"Ministri, Dipartimento di Protezione Civile, 2008, 424. "
+"(http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137)"
+msgstr "Gruppo di lavoro MS, 2008. Indirizzi e criteri per la microzonazione sismica. Conferenza delle Regioni e delle Province autonome - Dipartimento della protezione civile, Roma, 3 vol. e Dvd, Presidenza del Consiglio dei Ministri, Dipartimento di Protezione Civile, 2008, 424. (http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137)"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:159
+msgid "Authors"
+msgstr "Auteurs"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:161
+msgid ""
+"This article was contributed March 2015 by Giuseppe Cosentino and Francesco "
+"Pennica (www.igag.cnr.it)."
+msgstr "Cet article est une contribution de Giuseppe Cosentino et Francesco Pennica (www.igag.cnr.it) en mars 2015."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:168
+msgid "Giuseppe Cosentino"
+msgstr "Giuseppe Cosentino"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:170
+msgid ""
+"Giuseppe Cosentino <g.cosentino@igag.cnr.it> is geologist and technologist "
+"specializied in Geographic Information Systems for the management of "
+"geological and engineering hazards. Currently working in the field of "
+"seismic microzonation and environmental characterization of the lands in "
+"contaminated sites. Areas of interest: geological and environmental hazards,"
+" cartography, structural geology, explorative drillings."
+msgstr "Giuseppe Cosentino <g.cosentino@igag.cnr.it> est un géologue et technicien spécialisé dans les Systèmes d'Information Géographique de la gestion de risques géologiques et technologiques. Il travaille actuellement dans le domaine des micro-zonages sismiques et la caractérisation environnementale des terrains des sites contaminés. Ses centres d'intérêts sont: géologie, les risques environnementaux, la cartographie, la géologie structurelle, les forages exploratoires."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:181
+msgid "Francesco Pennica"
+msgstr "Francesco Pennica"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:183
+msgid ""
+"Francesco Pennica provides GIS and  WebGIS software development and data "
+"management: GeoServer, MapServer, ArcGIS Server, GeoNetwork OGC standard "
+"based webgis services, Java, HTML, CSS, Javascript, Python, PHP languages "
+"and frameworks, WebGIS front-end development with OpenLayers, ExtJS, GeoExt,"
+" JQuery, GWT, Ext-GWT, Google Maps API SQL, geodatabase management, "
+"PostgreSQL, PostGIS, GIS desktop software based analysis and scripting "
+"(ArcGIS, GRASS, GFOSS tools), Software configuration and management in Linux"
+" and Windows based servers and desktops."
+msgstr "Francesco Pennica est fournisseur de services SIG et WebSIG, que ce soit dans le développement ou la gestion de données: GeoServer, MapServer, ArcGIS Server, les services OGC standard offerst par GeoNetwork, Java, HTML, CSS, Javascript, Python, PHP et ses cadriciels, les portails WebSIG développés avec OpenLayers, ExtJS, GeoExt, JQuery, GWT, Ext-GWT, Google Maps API SQL, la gestion des bases de données spatiales PostgreSQL, PostGIS, les outils de SIG bureautiques et leurs outils de scripts (ArcGIS, GRASS, outils GFOSS), la configuration logicielle sous les serveurs et les stations de travail Linux et Windows."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:5
+msgid ""
+"The Institute of Environmental Geology and Geoengineering (IGAG) of the "
+"National Research Council (CNR) is located in Rome, in the Area of Research "
+"\"Roma 1\". It was founded in 2002 by regrouping five former research "
+"Institutes and Centers that had been active for more than 40 years in their "
+"field of expertise. IGAG covers a wide range of scientific topics in the "
+"field of Earth sciences, mainly focusing towards the study of:"
+msgstr "L'institut de Géologie et Géo-ingénierie Environnementale (IGAG) du Conseil National de Recherche (CNR) est situé à Rome, à l'Unité de Recherche \"Roma 1\". Il a été créé en 2002 par le regroupement de cinq anciens instituts et centres de recherche qui ont été actifs durant plus de 40 ans dans leurs domaines d'expertise. L'IGAG couvre un large éventail de disciplines scientifiques dans le domaine des sciences de la Terre, se concentrant en particulier sur l'étude de :"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:51
+msgid "Survey map containing the surveys for seismic microzonation studies;"
+msgstr "Carte de levé, incorporant les levés des études de micro-zonation sismique;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:52
+msgid ""
+"Geo-lithological map, obtained from detailed scale geological and "
+"geomorphological maps integrating existing lithological, stratigraphic and "
+"geotechnical data related to surveys;"
+msgstr "Carte géo-lithologique, dérivée de cartes géologiques et géomorphologiques à une échelle détaillée intégrant les données lithologiques, stratigraphiques et géotechniques liées aux levés;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:54
+msgid ""
+"Level 1 seismic microzonation map (the principal product of level 1 "
+"microzonation), identifying the microzones into three categories of local "
+"hazards:"
+msgstr "La carte de micro-zonation sismique de niveau 1 (le produit principal de la micro-zonation de niveau 1) , identifiant les micro-zonations en trois catégories de risques locaux :"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:57
+msgid "Stable zones;"
+msgstr "Zones stables;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:58
+msgid "Stable zones prone to ground amplification;"
+msgstr "Zones stables sujettes à amplification;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:59
+msgid "Unstable zones."
+msgstr "Zones instables"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:98
+msgid ""
+"The GRASS tool v.to.rast.attribute converts contour elevation lines to "
+"raster, taking the contour shapefile, the name of the z field and the raster"
+" resolution as input;"
+msgstr "L'outil GRASS v.to.rast.attribute transforme les lignes de contours des élévations en raster, en acceptant en entrée le shapefile des contours, le nom du champ Z et la résolution du raster;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:100
+msgid ""
+"The GRASS tool r.surf.contour generates the elevation model taking as input "
+"the rasterized temporary output from previous step and the raster "
+"resolution;"
+msgstr "L'outil GRASS r.surf.contour crée un modèle d'élévation en prenant en entrée la sortie raster temporaire de l'étape précédente et la résolution du raster;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:102
+msgid ""
+"The GDAL tool “gdaldem” generates the slope expressed as degrees from the "
+"elevation model;"
+msgstr "L'outil GDAL \"gdaldem\" crée une pente exprimée en degrés à partir d'un modèle d'élévation;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:111
+msgid "The GDAL tool “gdal_polygonize” converts the 1 bit raster to polygons;"
+msgstr "L'outil GDAL \"gdal_plolygonize\" transforme un raster 1 bit en polygones;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:144
+msgid ""
+"G. Baldassarre; Gallicchio, S.; Giannandrea, P. & Tropeano, M.: \"Relazione "
+"Finale Geolitologica per la microzonazione sismica di livello 1dei Comuni "
+"della Provincia di Foggia Dipartimento di Geologia e Geofisica "
+"dell'Università di Bari, 2011\""
+msgstr "G. Baldassarre; Gallicchio, S.; Giannandrea, P. & Tropeano, M.: \"Relazione Finale Geolitologica per la microzonazione sismica di livello 1dei Comuni della Provincia di Foggia Dipartimento di Geologia e Geofisica dell'Università di Bari, 2011\""
+
+#~ msgid ""
+#~ "The Institute of Environmental Geology and Geoengineering (IGAG) of the "
+#~ "National Research Council (CNR) is located in Rome, in the Area of Research "
+#~ "“Roma 1”. It was founded in 2002 by regrouping five former research "
+#~ "Institutes and Centers that had been active for more than 40 years in their "
+#~ "field of expertise. IGAG covers a wide range of scientific topics in the "
+#~ "field of Earth sciences, mainly focusing towards the study of:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "# Survey map containing the surveys for seismic microzonation studies; # "
+#~ "Geo-lithological map, obtained from detailed scale geological and "
+#~ "geomorphological maps integrating existing lithological, stratigraphic and "
+#~ "geotechnical data related to surveys; # Level 1 seismic microzonation map "
+#~ "(the principal product of level 1 microzonation), identifying the microzones"
+#~ " into three categories of local hazards: * Stable zones; * Stable zones "
+#~ "prone to ground amplification; * Unstable zones."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The GRASS tool v.to.rast.attribute convert contour elevation lines to "
+#~ "raster, taking the coutour shapefile, the name of the z field and the raster"
+#~ " resolution as input;"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The GRASS tool r.surf.contour generate the elevation model taking as input "
+#~ "the rasterized temporary output from previous step and the raster "
+#~ "resolution;"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The GDAL tool “gdaldem” generate the slope expressed as degrees from the "
+#~ "elevation model;"
+#~ msgstr ""
+
+#~ msgid "The GDAL tool “gdal_polygonize” convert the 1 bit raster to polygons;"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Baldassarre; Gallicchio, S.; Giannandrea, P. & Tropeano, M.: \"Relazione "
+#~ "Finale Geolitologica per la microzonazione sismica di livello 1dei Comuni "
+#~ "della Provincia di Foggia Dipartimento di Geologia e Geofisica "
+#~ "dell'Università di Bari, 2011\""
+#~ msgstr ""

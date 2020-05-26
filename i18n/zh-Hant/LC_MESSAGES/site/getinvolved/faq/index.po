@@ -1,0 +1,227 @@
+# 
+# Translators:
+# Supaplex <bejokeup@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-10 10:41+0200\n"
+"PO-Revision-Date: 2020-05-10 08:49+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"Language-Team: Chinese Traditional (http://www.transifex.com/qgis/qgis-website/language/zh-Hant/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Language: zh-Hant\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/getinvolved/faq/index.rst:4
+msgid "FAQ"
+msgstr "常見問題"
+
+#: ../../source/site/getinvolved/faq/index.rst:6
+msgid "Here we collect answers to question which come up very often."
+msgstr "在這裡我們收集常見的問題以及解答。"
+
+#: ../../source/site/getinvolved/faq/index.rst:8
+msgid ""
+"We will start of with this one page, maybe restructure it into sections, or "
+"even more pages if needed"
+msgstr "我們從這一頁開始，也許重新組織為章節，甚至擴充更多頁也說不定"
+
+#: ../../source/site/getinvolved/faq/index.rst:13
+msgid "User"
+msgstr "使用者"
+
+#: ../../source/site/getinvolved/faq/index.rst:18
+msgid "How to ask a QGIS question?"
+msgstr "怎麼詢問 QGIS 問題？"
+
+#: ../../source/site/getinvolved/faq/index.rst:20
+msgid ""
+"If you are going to ask QGIS related question via the :ref:`mailing lists "
+"<QGIS-mailinglists>`, please provide enough information to help others "
+"easily understand what your problem is. Without a clear and precise "
+"question, it is very hard to answer for anybody or takes just too much time "
+"because the answer will be a question to you etc etc. You may provide "
+"information such as:"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:26
+msgid "preferably a descriptive title for your email"
+msgstr "傾向為你 email 取得有敘述性的標題"
+
+#: ../../source/site/getinvolved/faq/index.rst:27
+msgid "which QGIS version you used at that moment (exact)"
+msgstr "你現在用那個 QGIS 版本 (精確)"
+
+#: ../../source/site/getinvolved/faq/index.rst:28
+msgid "what are you expecting to get"
+msgstr "你期待得到什麼"
+
+#: ../../source/site/getinvolved/faq/index.rst:29
+msgid "if applicable, what have you tried and the result you got"
+msgstr "如果可能，你做了什麼，而結果又是什麼"
+
+#: ../../source/site/getinvolved/faq/index.rst:30
+msgid "if your question is about something broken, you may also provide:"
+msgstr "如果你的問題與什麼東西壞掉有關，你也許得提供："
+
+#: ../../source/site/getinvolved/faq/index.rst:32
+msgid ""
+"what exactly is the error (if possible: screendump, stacktrace, copy of "
+"error text)"
+msgstr "得到的錯誤資訊 (如果可能：截圖、執行序、複製錯誤詢息)"
+
+#: ../../source/site/getinvolved/faq/index.rst:33
+msgid "which Operating System and version"
+msgstr "那個作業系統和版本"
+
+#: ../../source/site/getinvolved/faq/index.rst:34
+msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
+msgstr "你怎麼安裝 (osgeo4w？獨立安裝檔？自行編譯？)"
+
+#: ../../source/site/getinvolved/faq/index.rst:35
+msgid ""
+"at what time did it break (reinstall, new install, system update, project "
+"changes)"
+msgstr "或是在什麼時間壞掉的 (重新安裝，新安裝，升級系統，改變專案)"
+
+#: ../../source/site/getinvolved/faq/index.rst:37
+msgid ""
+"Keep in mind that the more precise is your question, the quicker and more "
+"accurate can be the answer."
+msgstr "請注意能越清楚描述你的問題，才會更快更精確的得到答案。"
+
+#: ../../source/site/getinvolved/faq/index.rst:41
+msgid ""
+"In case of a broken function, you may give a look at `QGIS issue tracker "
+"<https://github.com/qgis/QGIS/issues>`_ before mailing to the list. More "
+"information at :ref:`QGIS-bugreporting`."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:47
+msgid "How are QGIS release names selected?"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:49
+msgid ""
+"After a succesfull developer meeting in Zurich (Switzerland), we decided "
+"that the next release should be related to it. Since then, all releases have"
+" been named after locations of our developer meetings."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:54
+msgid "How to cite QGIS?"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:56
+msgid ""
+"To cite QGIS in your piece of work, or for an assignment, this general "
+"citation might be helpful: \"QGIS Development Team (YEAR). QGIS Geographic "
+"Information System. Open Source Geospatial Foundation Project. "
+"http://qgis.osgeo.org\"."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:60
+msgid "Can I open ECW files with QGIS?"
+msgstr "我可以用 QGIS 開 ECW 檔案嗎？"
+
+#: ../../source/site/getinvolved/faq/index.rst:62
+msgid ""
+"Yes you can... BUT depending on your Operating System, it is more or less "
+"difficult."
+msgstr "當然你可以...但是，操之在你的作業系統，或多或少有些難度。"
+
+#: ../../source/site/getinvolved/faq/index.rst:64
+msgid ""
+"If you are under Windows and are using the OSGeo4w installer, it is "
+"included."
+msgstr "如果你使用 Windows，而且又是用 OSGeo4w 安裝檔，應該會包括。"
+
+#: ../../source/site/getinvolved/faq/index.rst:66
+msgid ""
+"If you are using OS X, you can find the ECW plugin and install instructions "
+"at http://www.kyngchaos.com/software/frameworks"
+msgstr "如果你使用 OS X，你會在 ECW 外掛，安裝指引在 http://www.kyngchaos.com/software/frameworks"
+
+#: ../../source/site/getinvolved/faq/index.rst:69
+msgid ""
+"For other instructions, eg look here: http://www.faunalia.com/content"
+"/adding-ecw-support-quantum-gis"
+msgstr "要獲得其他介紹，請看這邊：http://www.faunalia.com/content/adding-ecw-support-quantum-gis"
+
+#: ../../source/site/getinvolved/faq/index.rst:72
+msgid "Development"
+msgstr "開發"
+
+#: ../../source/site/getinvolved/faq/index.rst:75
+msgid "Can I compile QGIS myself?"
+msgstr "我能自行編譯 QGIS 嗎？"
+
+#: ../../source/site/getinvolved/faq/index.rst:77
+msgid ""
+"Yes, compiling QGIS from source is possible whatever OS you use (Windows, OS"
+" X, Linux). Please read `Building QGIS from source "
+"<http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
+msgstr "當然，你可以在任何作業系統 (Windows、OS X、Linux) 從原始碼編譯 QGIS。請閱讀`從原始碼編譯 QGIS <http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
+
+#~ msgid ""
+#~ msgstr ""
+
+#~ msgid "Can I compile QGIS myself on Windows?"
+#~ msgstr ""
+
+#~ msgid "Can I compile QGIS myself on MacOS?"
+#~ msgstr ""
+
+#~ msgid "Can I compile QGIS myself on Linux?"
+#~ msgstr ""
+
+#~ msgid "If you use the OSGeo4w 64 bit installer, it is included."
+#~ msgstr ""
+
+#~ msgid "Yes, please read: INSTALL_"
+#~ msgstr ""
+
+#~ msgid "QGIS error on your machine. How to ask a question?"
+#~ msgstr ""
+
+#~ msgid "Please provide the following information:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In case of a broken function, you may give a look at `QGIS issue tracker "
+#~ "<http://hub.qgis.org/projects/quantum-gis/issues>`_ before mailing to the "
+#~ "list. More information at :ref:`QGIS-bugreporting`."
+#~ msgstr ""
+
+#~ msgid "Why is QGIS 2.0 named 'Dufour'?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "After a succesfull developer meeting in Zurich (Switzerland), we decided "
+#~ "that the next release should be related to it. `General Guillaume-Henri "
+#~ "Dufour <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_ was a famous "
+#~ "and influential swiss cartographer. Furthermore Dufourspitze is the `highest"
+#~ " peak "
+#~ "<http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo"
+#~ ".pixelkarte-farbe&layers=ch.swisstopo.hiks-"
+#~ "dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_"
+#~ " in Switzerland."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are going to ask QGIS related question via the mailing lists, please "
+#~ "provide enough information to help others easily understand what your "
+#~ "problem is. Without a clear and precise question, it is very hard to answer "
+#~ "for anybody or takes just too much time because the answer will be a "
+#~ "question to you etc etc. You may provide information such as:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In case of a broken function, you may give a look at `QGIS issue tracker "
+#~ "<https://issues.qgis.org/projects/qgis/issues>`_ before mailing to the list."
+#~ " More information at :ref:`QGIS-bugreporting`."
+#~ msgstr ""
