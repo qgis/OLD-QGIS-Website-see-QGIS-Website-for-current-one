@@ -4,9 +4,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 16:17+0200\n"
-"PO-Revision-Date: 2018-05-20 14:23+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"PO-Revision-Date: 2020-03-16 09:01+0000\n"
+"Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
 "Language-Team: Chinese Simplified (http://www.transifex.com/qgis/qgis-website/language/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:4
 msgid "Translation"
-msgstr ""
+msgstr "平移"
 
 #: ../../source/site/getinvolved/translate.rst:6
 msgid ""
@@ -74,7 +74,7 @@ msgstr ""
 #: ../../source/site/getinvolved/translate.rst:44
 msgid ""
 "The QGIS interface is natively programmed in English. However, at this "
-"moment over fourthy other languages are already available."
+"moment over forty other languages are already available."
 msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:47
@@ -185,7 +185,7 @@ msgstr ""
 #: ../../source/site/getinvolved/translate.rst:107
 msgid ""
 "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
-"Desktop, QGIS Browser and QGIS Server),"
+"Desktop and QGIS Server),"
 msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:109
@@ -235,7 +235,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:133
 msgid "Translate"
-msgstr ""
+msgstr "翻译"
 
 #: ../../source/site/getinvolved/translate.rst:135
 msgid ""
@@ -538,4 +538,14 @@ msgstr ""
 #~ "To start QGIS with the appropriate localization, run ``qgis --lang <language"
 #~ " code>`` in command line or change localization in QGIS under "
 #~ ":menuselection:`Settings --> Options --> Locale` menu."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The QGIS interface is natively programmed in English. However, at this "
+#~ "moment over fourthy other languages are already available."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
+#~ "Desktop, QGIS Browser and QGIS Server),"
 #~ msgstr ""
