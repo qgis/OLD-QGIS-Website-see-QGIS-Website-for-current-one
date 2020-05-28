@@ -527,7 +527,7 @@ Or to customize compilation options, you can build it from FreeBSD ports
 Flatpak
 =======
 
-There is an *experimental* QGIS flatpak for QGIS Stable available.
+There is an QGIS flatpak for QGIS Stable available, maintained by the flathub community.
 
 For general Linux Flatpak install notes, see https://flatpak.org/setup/
 
@@ -545,7 +545,11 @@ To update your flatpak QGIS::
 
  flatpak update
 
-Flathub files: https://github.com/flathub/org.qgis.qgis
+Flathub files: https://github.com/flathub/org.qgis.qgis and report issues here: https://github.com/flathub/org.qgis.qgis/issues
+
+Note: if you need to install additional Python modules, because they are needed by a plugin, you can install the module with (here installing the urllib3 module)::
+
+ flatpak run --command=pip3 org.qgis.qgis install urllib3 --user
 
 
 Android
