@@ -135,7 +135,7 @@ The following steps should apply to both a) new solutions as well as b) replacem
 - We vote on it having been given reasonable time to consider the above information and test out the alternative.
 - Assuming we vote to agree with the proposal.
 - We then start using the new platform.
-Vote:
+
 - +1 Tim
 - +1 Marco
 - +1 Anita
@@ -144,3 +144,17 @@ Vote:
 - Jürgen
 - +1 Andreas
 
+Fund documentation grant proposals from documentation budget
+------------------------------------------------------------
+
+**Date of voting**: 2020-06-03
+
+**Proponent**: Anita
+
+**Proposal**: fund QGIS Server documentation enhancement (https://github.com/qgis/QGIS-Enhancement-Proposals/issues/184) and Documentation Grant Proposal (https://github.com/qgis/QGIS-Enhancement-Proposals/issues/183) directly from the documentation budget
+
+**Votes**: In favour: Marco, Jürgen, Anita, Andreas, Alessandro, Paolo
+
+**Decision**: Approved
+
+**Notes**: none
