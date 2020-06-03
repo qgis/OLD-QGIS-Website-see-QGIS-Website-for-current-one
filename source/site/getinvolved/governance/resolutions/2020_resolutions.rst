@@ -126,6 +126,7 @@ Motion from last month: “Free software should be the first choice for all the 
 
 **Proposal**: 
 The following steps should apply to both a) new solutions as well as b) replacement solutions:
+
 - Someone proposes a new or replacement platform.
 - They propose a migration strategy for existing content that needs to move to that platform  (if applicable).
 - They propose who will do the migration (if applicable).
@@ -135,7 +136,9 @@ The following steps should apply to both a) new solutions as well as b) replacem
 - We vote on it having been given reasonable time to consider the above information and test out the alternative.
 - Assuming we vote to agree with the proposal.
 - We then start using the new platform.
+
 Vote:
+
 - +1 Tim
 - +1 Marco
 - +1 Anita
