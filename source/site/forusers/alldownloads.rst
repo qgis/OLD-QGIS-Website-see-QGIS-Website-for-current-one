@@ -93,6 +93,43 @@ there are instructions to install QGIS stable and instructions to install a
 cutting edge QGIS testing build (note the warning_).
 
 
+Debian/Ubuntu for beginners
+---------------------------
+
+In the section following this one, you will find ALL possible options to install different
+versions of QGIS in different versions of Ubuntu.
+
+Here you will simply install the latest stable QGIS (|version|.x |codename|)
+in your Ubuntu or Debian without having to edit config files.
+
+Note: although you see 'Ubuntu' in some places, this also works for 'Debian'.
+
+First install some tools you will need for this instructions::
+
+ sudo apt-get install gnupg software-properties-common
+
+Now we install the QGIS Signing Key, so QGIS software from 
+the QGIS repo will be trusted and installed::
+
+ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 51F523511C7028C3
+
+Add the QGIS repo for the latest stable QGIS (|version|.x |codename|).
+
+Note: "lsb_release -c -s" in those lines will return your distro name ::
+
+ sudo add-apt-repository "deb     https://qgis.org/ubuntu `lsb_release -c -s` main"
+
+Update your repository information to reflect also the just added QGIS one::
+
+ sudo apt-get update
+
+Now, install QGIS!
+
+Note: add 'qgis-server' to this line if you also want to install QGIS Server::
+
+ sudo apt-get install qgis qgis-plugin-grass
+
+
 Debian/Ubuntu
 -------------
 
