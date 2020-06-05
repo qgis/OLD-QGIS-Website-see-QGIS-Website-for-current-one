@@ -115,7 +115,7 @@ the QGIS repo will be trusted and installed::
 
 Add the QGIS repo for the latest stable QGIS (|version|.x |codename|).
 
-Note: "lsb_release -c -s" in those lines will return your distro name ::
+Note: "lsb_release -c -s" in those lines will return your distro name::
 
  sudo add-apt-repository "deb     https://qgis.org/ubuntu `lsb_release -c -s` main"
 
