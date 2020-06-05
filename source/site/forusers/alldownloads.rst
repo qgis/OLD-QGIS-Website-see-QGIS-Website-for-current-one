@@ -93,10 +93,10 @@ there are instructions to install QGIS stable and instructions to install a
 cutting edge QGIS testing build (note the warning_).
 
 
-Debian/Ubuntu for beginners
----------------------------
+Debian/Ubuntu
+-------------
 
-In the section following this one, you will find ALL possible options to install different
+In the 'advanced' section following this one, you will find ALL possible options to install different
 versions of QGIS in different versions of Ubuntu.
 
 Here you will simply install the latest stable QGIS (|version|.x |codename|)
@@ -130,8 +130,8 @@ Note: add 'qgis-server' to this line if you also want to install QGIS Server::
  sudo apt-get install qgis qgis-plugin-grass
 
 
-Debian/Ubuntu
--------------
+Debian/Ubuntu (advanced)
+------------------------
 
 Default Debian and Ubuntu software repositories often hold older versions of
 QGIS.
