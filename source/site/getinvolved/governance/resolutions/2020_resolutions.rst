@@ -147,3 +147,17 @@ Vote:
 - Jürgen
 - +1 Andreas
 
+Fund documentation grant proposals from documentation budget
+------------------------------------------------------------
+
+**Date of voting**: 2020-06-03
+
+**Proponent**: Anita
+
+**Proposal**: fund QGIS Server documentation enhancement (https://github.com/qgis/QGIS-Enhancement-Proposals/issues/184) and Documentation Grant Proposal (https://github.com/qgis/QGIS-Enhancement-Proposals/issues/183) directly from the documentation budget
+
+**Votes**: In favour: Marco, Jürgen, Anita, Andreas, Alessandro, Paolo
+
+**Decision**: Approved
+
+**Notes**: none
