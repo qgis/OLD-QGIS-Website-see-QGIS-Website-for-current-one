@@ -102,7 +102,7 @@ versions of QGIS in different versions of Ubuntu.
 Here you will simply install the latest stable QGIS (|version|.x |codename|)
 in your Ubuntu or Debian without having to edit config files.
 
-.. note:: Although you see 'Ubuntu' in some places, this also works for 'Debian'.
+.. note:: Although you see 'Ubuntu' in some places, this also works for 'Debian', as one is actually a symlink to the other on our server.
 
 First install some tools you will need for this instructions::
 
