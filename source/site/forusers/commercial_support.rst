@@ -487,6 +487,6 @@ regular QGIS and PostGIS Training courses.
    :width: 100 px
 
 |whg| `WhereGroup <http://www.wheregroup.com/>`_
-(Bonn, Germany) WhereGroup is the leading OSGeo company in Germany and provides the full spectrum of services and training around QGIS including a QGIS Support.
+(Bonn, Germany) WhereGroup is one of the leading OSGeo company in Germany and provides the full spectrum of services and training around QGIS including a QGIS Support.
 
 
