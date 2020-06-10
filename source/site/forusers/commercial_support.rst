@@ -312,7 +312,7 @@ Our bespoke GIS training courses in QGIS and other GIS software offer the opport
    :width: 100 px
 
 |fossacademy| `FOSS Academy <http://www.foss-academy.com/>`_
-(Bonn, Germany) FOSS Academy is a training institute and offers various courses, from beginner lessons to advanced python programming courses for QGIS as well as free online webinars regarding QGIS related topics. The institute is operated by WhereGroup GmbH.
+(Bonn, Germany) FOSS Academy is a training institute and offers various courses, from beginner lessons to advanced python programming courses for QGIS as well as free online webinars regarding QGIS related topics. The institute is operated by WhereGroup.
 
 ----
 
@@ -483,10 +483,10 @@ regular QGIS and PostGIS Training courses.
 
 ----
 
-.. |whg| image:: /static/site/about/images/whg.png
+.. |whg| image:: /static/site/about/images/whg.jpg
    :width: 100 px
 
 |whg| `WhereGroup <http://www.wheregroup.com/>`_
-(Bonn, Germany) WhereGroup is one of the leading OSGeo company in Germany and provides the full spectrum of services and training around QGIS including a QGIS Support.
+(Bonn, Germany) WhereGroup provides the full spectrum of services around QGIS including custom programming, commercial support and trainings.
 
 
