@@ -293,6 +293,13 @@ GRASS GIS and other FOSS GIS applications.
 
 ----
 
+.. |champslibres| image:: /static/site/about/images/champslibres.png
+   :width: 75 px
+
+|champslibres| `Champs Libres Coopérative <https://www.champs-libres.coop/>`_ is a Belgian company working in the field of geomatics and open-source software development. We regularly organise QGIS training at our office or at our customers' premises. We also offer support to the utilisation of QGIS and/or for the development of QGIS plugins.
+
+----
+
 .. |clear_mapping_co| image:: /static/site/about/images/clear_mapping_co.jpg 
    :width: 75 px
 
