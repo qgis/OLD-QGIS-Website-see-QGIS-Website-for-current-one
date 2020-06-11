@@ -32,7 +32,7 @@ and consulting on QGIS.
    :width: 150 px
 
 |camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-solutions>`_
-(based in France, Germany and Switzerland)
+(based in France, Germany and Switzerland) 
 Open Source specialist, Camptocamp is an innovative company in the software
 implementation of geographic information systems (GIS), business management
 (ERP) and server management. To implement your most ambitious projects,
@@ -45,10 +45,10 @@ technologies.
    :height: 100 px
 
 |chartistech| `Chartis Technology <http://chartistechnology.com/products/qgis>`_
-(based in Australia) Chartis Technology are an Australian based geospatial solutions provider.
+(based in Australia) Chartis Technology are an Australian based geospatial solutions provider. 
 Our aim is to develop, utilise and implement complex spatial technology to better our customers
-and the community's ability to deal with spatial problems. We distribute IntraMaps, FME (Safe Software)
-and work with a variety of Open Source Software. We are committed to support the QGIS community by
+and the community's ability to deal with spatial problems. We distribute IntraMaps, FME (Safe Software) 
+and work with a variety of Open Source Software. We are committed to support the QGIS community by 
 offering development, support and training.
 
 ----
@@ -270,7 +270,7 @@ Others
 .. |astun| image:: /static/site/about/images/astun.jpg
    :width: 75 px
 
-|astun| `Astun Technology <http://astuntechnology.com/>`_ was formed in 2005 to provide open source and web-based GIS services to local and central governments.  Today, as all organisations realise the technical and financial benefits of using cloud solutions to create, manage and deliver their crucial GEO services, the demand for Astun's knowledge and experience in delivering marketing leading, fully managed AWS-based GIS cloud solutions, continues to grow.
+|astun| `Astun Technology <http://astuntechnology.com/>`_ was formed in 2005 to provide open source and web-based GIS services to local and central governments.  Today, as all organisations realise the technical and financial benefits of using cloud solutions to create, manage and deliver their crucial GEO services, the demand for Astun's knowledge and experience in delivering marketing leading, fully managed AWS-based GIS cloud solutions, continues to grow. 
 For more information, please visit https://astuntechnology.com/
 
 
@@ -291,18 +291,9 @@ provides installation, training, and implementation support for QGIS.
 New Mexico) provides commercial GIS services and support and training in QGIS,
 GRASS GIS and other FOSS GIS applications.
 
-
 ----
 
-.. |champslibres| image:: /static/site/about/images/champslibres.png
-   :width: 75 px
-
-|champslibres| `Champs Libres Coopérative <https://www.champs-libres.coop/>`_ is a Belgian company working in the field of geomatics, cartography and open-source software development. We regularly organise QGIS training at our office or at our customers' premises. We also offer support to the utilisation of QGIS and/or for the development of QGIS plugins.
-
-
-----
-
-.. |clear_mapping_co| image:: /static/site/about/images/clear_mapping_co.jpg
+.. |clear_mapping_co| image:: /static/site/about/images/clear_mapping_co.jpg 
    :width: 75 px
 
 |clear_mapping_co| `Clear Mapping Co <http://www.clearmapping.co.uk/>`_ (based in Penryn, Cornwall, UK) is an award-winning international cartographic design consultancy. We create beautiful maps to improve efficiency in the workplace with an inclusive and sustainable design focus.
@@ -317,11 +308,19 @@ Our bespoke GIS training courses in QGIS and other GIS software offer the opport
 
 ----
 
+.. |fossacademy| image:: /static/site/about/images/fossacademy.png
+   :width: 100 px
+
+|fossacademy| `FOSS Academy <http://www.foss-academy.com/>`_
+(Bonn, Germany) FOSS Academy is a training institute and offers various courses, from beginner lessons to advanced python programming courses for QGIS as well as free online webinars regarding QGIS related topics. The institute is operated by WhereGroup.
+
+----
+
 .. |geoicon| image:: /static/site/about/images/geoicon.png
    :width: 75 px
 
 |geoicon| `GeoICON <http://www.geoicon.com/>`_ (based in Singapore and operating
-in South East Asia) has been working with Government organizations for over
+in South East Asia) has been working with Government organizations for over 
 10 years and offers a full range of services around QGIS including training and
 commercial support.
 
@@ -340,7 +339,7 @@ We strongly believe that openness wins.
 .. |gtsicon| image:: /static/site/about/images/geospatial-training-solutions.png
    :width: 75 px
 
-|gtsicon| `Geospatial Training Solutions (Dr Nick Bearman) <https://www.geospatialtrainingsolutions.co.uk/>`_ is based in Cornwall, UK and provides bespoke GIS training courses for researchers, professionals and students. I use QGIS in much of my consultancy work, and teach a wide variety of subject experts how to understand and work with spatial data. I can show your research group or organisation how you can get more from your spatial data and how to create better maps for your publications or use spatial data to improve your bottom line.
+|gtsicon| `Geospatial Training Solutions (Dr Nick Bearman) <https://www.geospatialtrainingsolutions.co.uk/>`_ is based in Cornwall, UK and provides bespoke GIS training courses for researchers, professionals and students. I use QGIS in much of my consultancy work, and teach a wide variety of subject experts how to understand and work with spatial data. I can show your research group or organisation how you can get more from your spatial data and how to create better maps for your publications or use spatial data to improve your bottom line. 
 
 ----
 
@@ -488,4 +487,6 @@ regular QGIS and PostGIS Training courses.
    :width: 100 px
 
 |whg| `WhereGroup <http://www.wheregroup.com/>`_
-(Bonn, Germany) provides commercial services and training for QGIS.
+(Bonn, Germany) WhereGroup provides the full spectrum of services around QGIS including custom programming, commercial support and trainings.
+
+
