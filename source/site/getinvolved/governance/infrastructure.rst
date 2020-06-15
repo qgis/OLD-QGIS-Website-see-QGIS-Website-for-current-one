@@ -29,23 +29,14 @@ Documentation and website
 -------------------------
 
 - http://docs.qgis.org http://new.qgis.org
-- Otto D, Richard D, ...
-
-
-Wiki and Redmine
-----------------
-
-- https://issues.qgis.org/projects/qgis/issues
-- Pirmin K, ?
+- Harrisou S, Richard D, Matteo G ...
 
 
 Github management
 -----------------
 
 - https://github.com/qgis
-- owners: https://github.com/organizations/qgis/teams/24203
-- admin: Otto D, Gary S, Marco H, Paolo C, Pirmin K, Tim L, Richard D
-- QGIS push rights depending on sub project plz contact admins
+- Rights depending on sub project plz contact Marco B, Alessandro P, Tim S, Richard D
 
 
 Flickr Groups
@@ -61,6 +52,7 @@ Twitter
 
 - https://twitter.com/qgis
 - Nathan W
+- Anita G
 
 Facebook
 --------
@@ -70,7 +62,7 @@ Facebook
 Finance
 -------
 
-- Paolo C
+- Andreas N
 
 
 IRC
@@ -82,8 +74,15 @@ IRC
 Planet feeds
 ------------
 
-- Gary S
+- Tim S
+- Marco B
 
+
+OLD Wiki and Redmine
+--------------------
+
+- https://issues.qgis.org/projects/qgis/issues
+- Pirmin K, ?
 ...
 
 
