@@ -29,7 +29,7 @@ Documentation and website
 -------------------------
 
 - http://docs.qgis.org http://new.qgis.org
-- Harrisou S, Richard D, Matteo G ...
+- Harrissou S, Richard D, Matteo G ...
 
 
 Github management
