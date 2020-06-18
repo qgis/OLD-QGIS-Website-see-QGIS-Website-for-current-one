@@ -82,8 +82,9 @@ OLD Wiki and Redmine
 --------------------
 
 - https://issues.qgis.org/projects/qgis/issues
-- Pirmin K, ?
-...
+- Pirmin K, Duivenvoorde R
+
+
 
 
 
