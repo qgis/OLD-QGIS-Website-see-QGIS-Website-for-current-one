@@ -161,3 +161,15 @@ Fund documentation grant proposals from documentation budget
 **Decision**: Approved
 
 **Notes**: none
+
+Change grant voting mechanism 
+------------------------------------------------------------
+
+**Date of voting**: 2020-06-03
+
+**Proponent**: Andreas
+
+**Proposal**: voting members can select up to 6 proposals they want to support (each proposal gets 1 point) with no ranking of the selected ones
+
+**Votes**: In favour: Marco, Jürgen, Anita, Andreas, Alessandro
+Abstain: Paolo 
