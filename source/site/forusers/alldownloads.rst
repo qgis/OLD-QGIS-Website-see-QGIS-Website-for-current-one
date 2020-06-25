@@ -376,7 +376,7 @@ It can be installed with the following commands::
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/
 
 QGIS testing (unstable)
-............
+.......................
 
 Enable the repository::
 
