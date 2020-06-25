@@ -65,12 +65,13 @@ Steps are:
 .. [3] Master nightlies SHA: 32 bit :raw-html:`<span id="qgis-dev-x86"> </span>`, 64 bit :raw-html:`<span id="qgis-dev-x86_64"> </span>`
 .. [4] Nightlies are debug builds (including debugging output)
 
-.. _QGIS-windows-weekly:
+..
+  .. _QGIS-windows-weekly:
 
-For users that cannot use OSGeo4W for some reason or just prefer it there is
-also a `weekly snapshot <https://qgis.org/downloads/weekly/?C=M;O=D>`_ of
-qgis-dev from OSGeo4W as *standalone installer* (taken on monday).  In the
-feature freeze phase that also acts as **release candidate**.
+  For users that cannot use OSGeo4W for some reason or just prefer it there is
+  also a `weekly snapshot <https://qgis.org/downloads/weekly/?C=M;O=D>`_ of
+  qgis-dev from OSGeo4W as *standalone installer* (taken on monday).  In the
+  feature freeze phase that also acts as **release candidate**.
 
 Note the warning_.
 
