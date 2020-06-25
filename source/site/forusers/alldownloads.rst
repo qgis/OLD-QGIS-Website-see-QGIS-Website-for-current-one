@@ -335,7 +335,7 @@ It can be installed with the following commands::
 |               +-------------+--------------+--------------+
 |               | 31          | 3.14         | 7.8          |
 |               +-------------+--------------+--------------+
-|               | 32          | 3.12         | 7.8          |
+|               | 32          | 3.14         | 7.8          |
 +---------------+-------------+--------------+--------------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis/
@@ -375,8 +375,8 @@ It can be installed with the following commands::
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/
 
-QGIS testing
-............
+QGIS testing (unstable)
+.......................
 
 Enable the repository::
 
@@ -396,14 +396,12 @@ to install both client and server applications on the same machine), type::
 |               |             | version      | version      |
 |               |             |              |              |
 +===============+=============+==============+==============+
-| Fedora        | 30          | 3.13         | 7.68         |
+| Fedora        | 30 (EOL)    | 3.13         | 7.68         |
 |               +-------------+--------------+--------------+
 |               | 31          | 3.13         | 7.8          |
-|               +-------------+--------------+--------------+
-|               | rawhide     | 3.13         | 7.8          |
 +---------------+-------------+--------------+--------------+
 
-Testing builds are updated on a weekly basis.
+Testing builds are updated infrequently.
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-testing/
 
 RHEL, CentOS, Scientific Linux
