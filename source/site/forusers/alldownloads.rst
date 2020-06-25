@@ -302,7 +302,7 @@ Get packages for any Fedora by typing::
 Default Fedora software repositories often hold older versions of
 QGIS.
 
-To have newer versions, you have to add alternative software repositories
+To have newer versions or the latest LTR, you have to add alternative software repositories
 based on the version you want to install (stable, LTR or testing).
 
 QGIS stable
@@ -331,9 +331,11 @@ It can be installed with the following commands::
 |               |             | version      | version      |
 |               |             |              |              |
 +===============+=============+==============+==============+
-| Fedora        | 30          | 3.12         | 7.6          |
+| Fedora        | 30 (EOL)    | 3.14         | 7.6          |
 |               +-------------+--------------+--------------+
-|               | 31          | 3.12         | 7.8          |
+|               | 31          | 3.14         | 7.8          |
+|               +-------------+--------------+--------------+
+|               | 32          | 3.12         | 7.8          |
 +---------------+-------------+--------------+--------------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis/
@@ -364,9 +366,11 @@ It can be installed with the following commands::
 |               |             | version      | version      |
 |               |             |              |              |
 +===============+=============+==============+==============+
-| Fedora        | 30          | 3.10         | 7.6          |
+| Fedora        | 30 (EOL)    | 3.10         | 7.6          |
 |               +-------------+--------------+--------------+
 |               | 31          | 3.10         | 7.8          |
+|               +-------------+--------------+--------------+
+|               | 32          | 3.10         | 7.8          |
 +---------------+-------------+--------------+--------------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/
