@@ -472,7 +472,7 @@ Slackware
 QGIS stable
 ...........
 
-Packages on http://qgis.gotslack.org
+Packages on https://slackbuilds.org/result/?search=qgis
 
 ArchLinux
 ---------
