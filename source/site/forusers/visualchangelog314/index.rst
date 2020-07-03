@@ -226,10 +226,6 @@ or like this (with a normal giraffe but tiny croc):
 
 The new **percentage** value of size units is intended to fix this issue.
 
---------------
-
-| 
-
 Both unit tests "qgis\_rasterfilltest" and "qgis\_rastermarkertest" were rewritten with a set of new control images for testing the proposed **percentage** value of size units.
 
 This feature was developed by `beketata <https://api.github.com/users/beketata>`__
@@ -439,7 +435,7 @@ Feature: Plug mesh layer to QGIS temporal framework
 |image35|
 
 Time handling in mesh layer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+...........................
 
 The time in a mesh layer is defined by :
 
@@ -471,14 +467,14 @@ The default reference time of the layer is set by (sorted by priority):
 The user can change it if he wants.
 
 Rendering principle
--------------------
+...................
 
 The 2D and 3D renderers access the active dataset index from the layer with the time range stored in the ``QgsContextRenderer`` and in the ``Qgs3DMapSettings`` : Relative time is calculated as the difference between the time range of ``QgsContextRenderer`` and the reference time stored by ``QgsMeshTemporalProperties``. The dataset index comes from the ``QgsMeshDataproviderTemporalCapabilities`` that maps the relative time with dataset index.
 
 The data are brought from the provider with the dataset index.
 
 Static dataset
---------------
+..............
 
 There is also the option to set a static dataset, that is to choose a dataset that will be rendered independently of the QGIS time controller. To do that the user can check the check box at the bottom of the temporal page of the properties widget: |image37| For now, as it was simpler to implement and allows the required dataset to be chosen directly, the user can independently choose scalar dataset and vector dataset from combo boxes with the time associated for each dataset (relative time for data without reference time). If required, a unique time could be implemented but that could lead to inconsistent results with non synchronous datasets. The static dataset settings are in the temporal page but can be easily put in the source page if wanted.
 
@@ -2396,6 +2392,23 @@ Feature: Bug fixes by Denis Rouzaud
 This feature was funded by `QGIS.ORG (through donations and sustaining memberships) <https://www.qgis.org/>`__
 
 This feature was developed by `Denis Rouzaud <https://www.opengis.ch/>`__
+
+
+Feature: Bug fixes by Audun Ellertsen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++--------------------------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Bug Title                                                                                        | URL issues.qgis.org (if reported)                        | URL Commit (Github)                                       | 3.10 backport commit (GitHub)                             |
++==================================================================================================+==========================================================+===========================================================+===========================================================+
+| SpatiaLite support for importing layers with binary fields                                       | `#36705 <https://github.com/qgis/QGIS/issues/36705>`__   | `PR #36744 <https://github.com/qgis/QGIS/pull/36744>`__   | N/A                                                       |
++--------------------------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| PostGIS support for importing layers with binary fields                                          | `#36705 <https://github.com/qgis/QGIS/issues/36705>`__   | `PR #36708 <https://github.com/qgis/QGIS/pull/36708>`__   | `PR #36720 <https://github.com/qgis/QGIS/pull/36720>`__   |
++--------------------------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+This feature was funded by `Kongsberg Digital <https://www.kongsberg.com/digital/>`__
+
+This feature was developed by `Audun Ellertsen <https://github.com/audun/>`__
+
 
 .. |image1| image:: images/splash.jpeg
    :class: img-responsive img-rounded center-block
