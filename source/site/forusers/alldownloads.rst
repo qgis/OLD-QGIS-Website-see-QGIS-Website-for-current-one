@@ -112,7 +112,7 @@ First install some tools you will need for this instructions::
 Now install the QGIS Signing Key, so QGIS software from 
 the QGIS repo will be trusted and installed::
 
- sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 51F523511C7028C3
+ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys F7E06F06199EF2F2
 
 Add the QGIS repo for the latest stable QGIS (|version|.x |codename|).
 
