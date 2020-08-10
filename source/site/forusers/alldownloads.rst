@@ -426,7 +426,7 @@ Try the ELGIS repository: http://elgis.argeo.org/
 SUSE / openSUSE
 ---------------
 
-Latest stable and LTR packages called qgis and qgis-ltr are available in the following repositoies:
+Latest stable and LTR packages called qgis and qgis-ltr are available in the following repositories:
 
 Tumbleweed::
 
@@ -458,7 +458,7 @@ SLE 15 SP1 Backports debug::
 
 All packages include GRASS and Python support.
 
-All openSUSE Geo repositoties can be found here::
+All openSUSE Geo repositories can be found here::
 
  https://download.opensuse.org/repositories/Application:/Geo/
 
