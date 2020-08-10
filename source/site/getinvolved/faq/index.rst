@@ -86,6 +86,6 @@ Can I compile QGIS myself?
 
 Yes, compiling QGIS from source is possible whatever OS you use (Windows, OS X,
 Linux). Please read `Building QGIS from source
-<http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_
+<https://github.com/qgis/QGIS/blob/master/INSTALL.md>`_
 
 
