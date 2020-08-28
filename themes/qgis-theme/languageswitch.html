@@ -269,7 +269,7 @@
                         content = '';
                     }
                     if (addit){
-                        html+='<a class="external" href="'+link+'">';
+                        html+='<a class="external" href="'+link.replace('http://', 'https://')+'">';
                         html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
                         if (showcontent) { html+=content; };
                         html+='</div></a>\n';
