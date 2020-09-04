@@ -170,7 +170,7 @@ analysis, quality assurance, and commercial helpdesk support.
 |sourcepole| `Sourcepole <http://www.sourcepole.com/>`_ (based in Zurich,
 Switzerland and operating worldwide) provides FOSSGIS training, commercial
 support and maintenance contracts as well as cloud based geo hosting for QGIS.
-With three leading core committers Sourcepole is able to offer sophisticated
+With three core committers Sourcepole is able to offer sophisticated
 developments for QGIS.
 
 ----
@@ -214,8 +214,8 @@ implementing QGIS within your organization, as well as GIS training on QGIS
 .. |gaia3d| image:: /static/site/about/images/gaia3d.png
    :width: 150 px
 
-|gaia3d| `Gaia3D, Inc. <http://www.gaia3d.com/>`_ (based in South Korea) is a
-leading open source GIS company in Korea. Gaia3D offers professional development
+|gaia3d| `Gaia3D, Inc. <http://www.gaia3d.com/>`_ (based in South Korea) is an
+open source GIS company in Korea. Gaia3D offers professional development
 services, training, consulting and supports for QGIS, PostGIS, GeoServer and
 OpenLayers
 
@@ -267,28 +267,37 @@ development, QGIS-server and integrating QGIS with other products.
 Others
 ------
 
-.. |astun| image:: /static/site/about/images/astun.jpg
-   :width: 75 px
-
-|astun| `Astun Technology <http://astuntechnology.com/>`_ was formed in 2005 to provide open source and web-based GIS services to local and central governments.  Today, as all organisations realise the technical and financial benefits of using cloud solutions to create, manage and deliver their crucial GEO services, the demand for Astun's knowledge and experience in delivering marketing leading, fully managed AWS-based GIS cloud solutions, continues to grow. 
-For more information, please visit https://astuntechnology.com/
-
-
-----
-
 .. |agx| image:: /static/site/about/images/agx.gif
    :width: 75 px
 
-|agx| `AdventGX <http://www.adventgx.com/>`_ (based in College Station, TX)
+|agx| `AdventGX <http://www.adventgx.com/>`_ (based in College Station, TX, USA)
 provides installation, training, and implementation support for QGIS.
+
+----
+
+.. |arxit| image:: /static/site/about/images/arx-it_logo.png
+   :width: 75 px
+
+|arxit| `arx it <https://arxit.com/>`_ (based in Geneva, Switzerland and Lyon/Paris in France) 
+has 20 years of experience in the field of geoinformatics. arx iT is specialized in Geographic Information Systems (GIS) and geolocation systems.
+Our range of service, covers all geomatics / geospatial needs : GIS consulting and expertise, Spatial Data Engineering, Integration of customized solutions, Training, GIS Outsourcing and Third Party Application Maintenance.
+Our services are part of a real quality approach, thanks to our ISO 9001 quality certification.
+
+----
+
+.. |astun| image:: /static/site/about/images/astun.jpg
+   :width: 75 px
+
+|astun| `Astun Technology <http://astuntechnology.com/>`_ (based in Surrey, UK) was formed in 2005 to provide open source and web-based GIS services to local and central governments.  Today, as all organisations realise the technical and financial benefits of using cloud solutions to create, manage and deliver their crucial GEO services, the demand for Astun's knowledge and experience in delivering fully managed AWS-based GIS cloud solutions, continues to grow. 
+For more information, please visit https://astuntechnology.com/
 
 ----
 
 .. |bev| image:: /static/site/about/images/bev.gif
    :width: 75 px
 
-|bev| `Bird's Eye View GIS <http://www.birdseyeviewgis.com/>`_ (Based in Albuquerque,
-New Mexico) provides commercial GIS services and support and training in QGIS,
+|bev| `Bird's Eye View GIS <http://www.birdseyeviewgis.com/>`_ (based in Albuquerque,
+New Mexico, USA) provides commercial GIS services and support and training in QGIS,
 GRASS GIS and other FOSS GIS applications.
 
 ----
@@ -319,7 +328,7 @@ Our bespoke GIS training courses in QGIS and other GIS software offer the opport
    :width: 100 px
 
 |fossacademy| `FOSS Academy <http://www.foss-academy.com/>`_
-(Bonn, Germany) FOSS Academy is a training institute and offers various courses, from beginner lessons to advanced python programming courses for QGIS as well as free online webinars regarding QGIS related topics. The institute is operated by WhereGroup.
+(based in Bonn, Germany) FOSS Academy is a training institute and offers various courses, from beginner lessons to advanced python programming courses for QGIS as well as free online webinars regarding QGIS related topics. The institute is operated by WhereGroup.
 
 ----
 
@@ -333,6 +342,13 @@ commercial support.
 
 ----
 
+.. |gtsicon| image:: /static/site/about/images/geospatial-training-solutions.png
+   :width: 75 px
+
+|gtsicon| `Geospatial Training Solutions (Dr Nick Bearman) <https://www.geospatialtrainingsolutions.co.uk/>`_ is based in Cornwall, UK and provides bespoke GIS training courses for researchers, professionals and students. I use QGIS in much of my consultancy work, and teach a wide variety of subject experts how to understand and work with spatial data. I can show your research group or organisation how you can get more from your spatial data and how to create better maps for your publications or use spatial data to improve your bottom line. 
+
+----
+
 .. |gispoicon| image:: /static/site/about/images/GispoOy.png
    :width: 75 px
 
@@ -340,13 +356,6 @@ commercial support.
 success in delivering pragmatic solutions for strategic decisions by using open source geospatial software.
 We offer QGIS, GeoServer, PostGIS, GDAL/OGR and MapProxy support and training for our customers.
 We strongly believe that openness wins.
-
-----
-
-.. |gtsicon| image:: /static/site/about/images/geospatial-training-solutions.png
-   :width: 75 px
-
-|gtsicon| `Geospatial Training Solutions (Dr Nick Bearman) <https://www.geospatialtrainingsolutions.co.uk/>`_ is based in Cornwall, UK and provides bespoke GIS training courses for researchers, professionals and students. I use QGIS in much of my consultancy work, and teach a wide variety of subject experts how to understand and work with spatial data. I can show your research group or organisation how you can get more from your spatial data and how to create better maps for your publications or use spatial data to improve your bottom line. 
 
 ----
 
@@ -371,7 +380,7 @@ GRASS, SAGA and PostGIS as well as spatial data management, analysis and cartogr
    :width: 75 px
 
 |imt| `The Institute For Mapping Technology <http://learninggis.com/>`_ (based
-in Austin, TX) provides support and training for QGIS and PostGIS.
+in Austin, TX, USA) provides support and training for QGIS and PostGIS.
 
 ----
 
@@ -449,7 +458,7 @@ GRASS GIS and FOSS GIS based SDI solutions.
 .. |sygif| image:: /static/site/about/images/sygif.jpg
    :width: 75 px
 
-|sygif| `Le Groupe SYGIF Inc. <http://www.sygif.qc.ca/>`_ (based in Rimouski (Quebec), Canada) specializes in the development of information technologies (GIS) aimed at integrated land management. The company develops and supports complementary tools for QGIS and MapServer and also holds a recognition of the ESRI company as a developer and reseller of their products.
+|sygif| `Le Groupe SYGIF Inc. <http://www.sygif.qc.ca/>`_ (based in Rimouski, Quebec, Canada) specializes in the development of information technologies (GIS) aimed at integrated land management. The company develops and supports complementary tools for QGIS and MapServer and also holds a recognition of the ESRI company as a developer and reseller of their products.
 
 ----
 
@@ -481,8 +490,8 @@ GRASS GIS and FOSS GIS based SDI solutions.
    :width: 75 px
 
 |thinkwhere| `thinkWhere <http://www.thinkwhere.com/>`_
-(Stirling, Scotland) thinkWhere is one of the leading independent GIS
-consultancies in the UK.  We provide a broad range of innovative GIS products
+(Stirling, Scotland) thinkWhere is an independent GIS
+consultancy in the UK.  We provide a broad range of innovative GIS products
 and services including "Location Centre" (a hosted Cloud-based GIS built from
 open source technologies). As a QGIS site, our team of geospatial experts use
 QGIS on a daily basis and provide QGIS Support to customers.  We also run
