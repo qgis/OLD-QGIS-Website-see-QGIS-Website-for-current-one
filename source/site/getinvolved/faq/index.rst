@@ -46,15 +46,68 @@ accurate can be the answer.
 How are QGIS release names selected?
 ------------------------------------
 
-After a succesfull developer meeting in Zurich (Switzerland), we decided that
+After a successful developer meeting in Zurich (Switzerland), we decided that
 the next release should be related to it. Since then, all releases have been named
 after locations of our developer meetings. 
 
 How to cite QGIS?
 -----------------
 
-To cite QGIS in your piece of work, or for an assignment, this general citation might be helpful:
-"QGIS.org (YEAR). QGIS Geographic Information System. Open Source Geospatial Foundation Project. http://qgis.org".
+To cite QGIS in your piece of work, or for an assignment, please use citation type that can be more helpful:
+
+
+**Cite the QGIS project in general**
+
+
+QGIS.org, *YEAR*. QGIS Geographic Information System. Open Source Geospatial Foundation Project. http://www.qgis.org
+
+
+**Cite the QGIS Developers Manual**
+
+
+QGIS Development Team, *YEAR*. QGIS Geographic Information System Developers Manual. Open Source Geospatial Foundation Project. 
+Electronic document: https://docs.qgis.org/VERSION/en/docs/developers_guide/
+
+
+**Cite the QGIS Installation Guide**
+
+
+QGIS Development Team, *YEAR*. QGIS *VERSION* Geographic Information System Installation Guide. Open Source Geospatial Foundation Project. 
+Electronic document: https://github.com/qgis/QGIS/blob/master/INSTALL.md
+
+
+**Cite the QGIS User Guide**
+
+
+QGIS Development Team, *YEAR*. QGIS *VERSION* Geographic Information System User Guide. Open Source Geospatial Foundation Project. 
+Electronic document: https://docs.qgis.org/VERSION/en/docs/user_manual/
+
+
+**Cite the QGIS API Documentation**
+
+
+QGIS Development Team, *YEAR*. QGIS *VERSION* Geographic Information System API Documentation. Open Source Geospatial Foundation Project. 
+Electronic document: https://qgis.org/pyqgis/VERSION
+
+
+
+
+**Preferred format:** `BibTeX <https://en.wikipedia.org/wiki/BibTeX>`_
+
+
+Example BibTeX entry:
+
+.. code:: raw
+
+  <pre>
+      @Manual{QGIS_software,
+        title = {QGIS Geographic Information System},
+        author = {{QGIS Development Team}},
+        organization = {Open Source Geospatial Foundation},
+        year = {2009},
+        url = {http://qgis.osgeo.org},
+      }
+  </pre>
 
 I created a map with QGIS, do I have to mention QGIS?
 -----------------------------------------------------
