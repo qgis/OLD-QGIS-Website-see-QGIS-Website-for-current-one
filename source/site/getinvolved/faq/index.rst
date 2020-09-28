@@ -59,35 +59,42 @@ To cite QGIS in your piece of work, or for an assignment, please use citation ty
 **Cite the QGIS project in general**
 
 
-QGIS.org, *YEAR*. QGIS Geographic Information System. Open Source Geospatial Foundation Project. http://www.qgis.org
+QGIS.org, |today|. QGIS Geographic Information System. QGIS Association. http://www.qgis.org
 
 
 **Cite the QGIS Developers Manual**
 
 
-QGIS Development Team, *YEAR*. QGIS Geographic Information System Developers Manual. Open Source Geospatial Foundation Project. 
-Electronic document: https://docs.qgis.org/VERSION/en/docs/developers_guide/
+QGIS.org, |today|. QGIS |ltrversion|. Geographic Information System Developers Manual. QGIS Association. 
+Electronic document: https://docs.qgis.org/|ltrversion|/en/docs/developers_guide/index.html
 
 
 **Cite the QGIS Installation Guide**
 
 
-QGIS Development Team, *YEAR*. QGIS *VERSION* Geographic Information System Installation Guide. Open Source Geospatial Foundation Project. 
+QGIS.org, |today|. QGIS |ltrversion|. Geographic Information System Installation Guide. QGIS Association. 
 Electronic document: https://github.com/qgis/QGIS/blob/master/INSTALL.md
 
 
 **Cite the QGIS User Guide**
 
 
-QGIS Development Team, *YEAR*. QGIS *VERSION* Geographic Information System User Guide. Open Source Geospatial Foundation Project. 
-Electronic document: https://docs.qgis.org/VERSION/en/docs/user_manual/
+QGIS.org, |today|. QGIS |ltrversion|. Geographic Information System User Guide. QGIS Association. 
+Electronic document: https://docs.qgis.org/|ltrversion|/en/docs/user_manual/index.html
+
+
+**Cite the QGIS Server Documentation**
+
+QGIS.org, |today|. QGIS |ltrversion|. Geographic Information System API Documentation. QGIS Association. 
+Electronic document: https://docs.qgis.org/|ltrversion|/en/docs/server_manual/index.html
 
 
 **Cite the QGIS API Documentation**
 
 
-QGIS Development Team, *YEAR*. QGIS *VERSION* Geographic Information System API Documentation. Open Source Geospatial Foundation Project. 
-Electronic document: https://qgis.org/pyqgis/VERSION
+QGIS.org, |today|. QGIS |ltrversion|. Geographic Information System API Documentation. QGIS Association. 
+Electronic document: https://qgis.org/pyqgis/|ltrversion|/index.html
+
 
 
 
@@ -97,15 +104,15 @@ Electronic document: https://qgis.org/pyqgis/VERSION
 
 Example BibTeX entry:
 
-.. code:: raw
+.. parsed-literal::
 
   <pre>
       @Manual{QGIS_software,
         title = {QGIS Geographic Information System},
         author = {{QGIS Development Team}},
-        organization = {Open Source Geospatial Foundation},
-        year = {2009},
-        url = {http://qgis.osgeo.org},
+        organization = {QGIS Association},
+        year = {|today|},
+        url = {https://www.qgis.org},
       }
   </pre>
 
