@@ -66,7 +66,7 @@ QGIS.org, |today|. QGIS Geographic Information System. QGIS Association. http://
 
 
 QGIS.org, |today|. QGIS |ltrversion|. Geographic Information System Developers Manual. QGIS Association. 
-Electronic document: https://docs.qgis.org/|ltrversion|/en/docs/developers_guide/index.html
+Electronic document: |devcite|
 
 
 **Cite the QGIS Installation Guide**
@@ -80,20 +80,19 @@ Electronic document: https://github.com/qgis/QGIS/blob/master/INSTALL.md
 
 
 QGIS.org, |today|. QGIS |ltrversion|. Geographic Information System User Guide. QGIS Association. 
-Electronic document: https://docs.qgis.org/|ltrversion|/en/docs/user_manual/index.html
-
+Electronic document: |userguidecite|
 
 **Cite the QGIS Server Documentation**
 
 QGIS.org, |today|. QGIS |ltrversion|. Geographic Information System API Documentation. QGIS Association. 
-Electronic document: https://docs.qgis.org/|ltrversion|/en/docs/server_manual/index.html
+Electronic document: |servercite|
 
 
 **Cite the QGIS API Documentation**
 
 
 QGIS.org, |today|. QGIS |ltrversion|. Geographic Information System API Documentation. QGIS Association. 
-Electronic document: https://qgis.org/pyqgis/|ltrversion|/index.html
+Electronic document: |apicite|
 
 
 
