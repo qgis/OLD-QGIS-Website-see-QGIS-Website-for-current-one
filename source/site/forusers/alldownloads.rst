@@ -431,6 +431,10 @@ Latest stable and LTR packages called qgis and qgis-ltr are available in the fol
 Tumbleweed::
 
  https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Tumbleweed/
+
+Leap 15.2::
+
+ https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.2/
  
 Leap 15.1::
 
