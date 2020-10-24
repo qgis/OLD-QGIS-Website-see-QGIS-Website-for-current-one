@@ -697,86 +697,6 @@ In its current form, only the overall load time of each individual layer is disp
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: New Cell statistics algorithm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-We added a **Cell statistics** raster analysis algorithm. It performs cell-wise statistics on a stack of raster layers while accounting for NoData. The functions available in the current implementation are:
-
-| 
-
--  Sum
--  Mean
--  Median
--  Standard Deviation
--  Variance
--  Maximum
--  Minimum
--  Majority (most frequent value)
--  Minority (least frequent value)
--  Range (max - min)
--  Variety (count of unique values)
-
-|image49|
-
-This feature was developed by `Clemens Raffler <https://api.github.com/users/root676>`__
-
-Feature: New Equal to frequency algorithm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-We have added some new raster algorithms that operate on a local cell-by-cell basis in a raster stack. The Equal to frequency algorithm evaluates on a cell-by-cell basis the frequency (number of times) the values of an input stack of rasters are equal to the value of a value raster.
-
-|image50|
-
-This feature was developed by `Clemens Raffler <https://api.github.com/users/root676>`__
-
-Feature: New Greater than frequency algorithm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-We have added some new raster algorithms that operate on a local cell-by-cell basis in a raster stack. The Greater than frequency algorithm evaluates on a cell-by-cell basis the frequency (number of times) the values of an input stack of rasters are greater than the value of a value raster.
-
-|image51|
-
-This feature was developed by `Clemens Raffler <https://github.com/root676>`__
-
-Feature: New Less than frequency algorithm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-We have added some new raster algorithms that operate on a local cell-by-cell basis in a raster stack. The Equal to frequency algorithm evaluates on a cell-by-cell basis the frequency (number of times) the values of an input stack of rasters are less than the value of a value raster.
-
-|image52|
-
-This feature was developed by `Clemens Raffler <https://github.com/root676>`__
-
-Feature: New Lowest position in raster stack algorithm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-We added some raster value position analysis tools with this new QGIS version: The *Lowest position in raster stack* algorithm evaluates on a cell-by-cell basis the position of the raster with the lowest value in a stack of rasters. Position counts start with 1 and range to the total number input rasters. The order of the input rasters is relevant for the algorithm.
-
-|image53|
-
-This feature was developed by `Clemens Raffler <https://github.com/root676>`__
-
-Feature: New Highest position in raster stack algorithm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-We added some raster value position analysis tools with this new QGIS version: The *Highest position in raster stack* algorithm evaluates on a cell-by-cell basis the position of the raster with the highest value in a stack of rasters. Position counts start with 1 and range to the total number input rasters. The order of the input rasters is relevant for the algorithm.
-
-|image54|
-
-This feature was developed by `Clemens Raffler <https://github.com/root676>`__
-
-Feature: New "Highest/Lowest position in raster stack" algorithms
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Two new algorithms were added which add functionality ported from utilities commonly utilised with the ArcGIS Spatial Analyst extension:
-
--  **`Highest position in raster stack <https://pro.arcgis.com/en/pro-app/tool-reference/spatial-analyst/highest-position.htm>`__**
--  **`Lowest position in raster stack <https://pro.arcgis.com/en/pro-app/tool-reference/spatial-analyst/lowest-position.htm>`__**
-
-The **highest/lowest position algorithm** evaluates the position of the raster with the highest/lowest value in a stack of rasters on a cell-by-cell basis. Position counts start with 1 and range to the total number input rasters. The order of the input rasters is relevant for the algorithm.
-
-This feature was developed by `Clemens Raffler <https://api.github.com/users/root676>`__
-
 Processing
 ----------
 
@@ -866,6 +786,74 @@ This is useful in models where remote datasets are processed with the goal of be
 |image57|
 
 This feature was developed by `Mathieu Pellerin <https://api.github.com/users/nirvn>`__
+
+Feature: New Cell statistics algorithm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We added a **Cell statistics** raster analysis algorithm. It performs cell-wise statistics on a stack of raster layers while accounting for NoData. The functions available in the current implementation are:
+
+| 
+
+-  Sum
+-  Mean
+-  Median
+-  Standard Deviation
+-  Variance
+-  Maximum
+-  Minimum
+-  Majority (most frequent value)
+-  Minority (least frequent value)
+-  Range (max - min)
+-  Variety (count of unique values)
+
+|image49|
+
+This feature was developed by `Clemens Raffler <https://api.github.com/users/root676>`__
+
+Feature: New Equal to frequency algorithm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We have added some new raster algorithms that operate on a local cell-by-cell basis in a raster stack. The Equal to frequency algorithm evaluates on a cell-by-cell basis the frequency (number of times) the values of an input stack of rasters are equal to the value of a value raster.
+
+|image50|
+
+This feature was developed by `Clemens Raffler <https://api.github.com/users/root676>`__
+
+Feature: New Greater than frequency algorithm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We have added some new raster algorithms that operate on a local cell-by-cell basis in a raster stack. The Greater than frequency algorithm evaluates on a cell-by-cell basis the frequency (number of times) the values of an input stack of rasters are greater than the value of a value raster.
+
+|image51|
+
+This feature was developed by `Clemens Raffler <https://github.com/root676>`__
+
+Feature: New Less than frequency algorithm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We have added some new raster algorithms that operate on a local cell-by-cell basis in a raster stack. The Equal to frequency algorithm evaluates on a cell-by-cell basis the frequency (number of times) the values of an input stack of rasters are less than the value of a value raster.
+
+|image52|
+
+This feature was developed by `Clemens Raffler <https://github.com/root676>`__
+
+Feature: New Lowest position in raster stack algorithm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We added some raster value position analysis tools with this new QGIS version: The *Lowest position in raster stack* algorithm evaluates on a cell-by-cell basis the position of the raster with the lowest value in a stack of rasters. Position counts start with 1 and range to the total number input rasters. The order of the input rasters is relevant for the algorithm.
+
+|image53|
+
+This feature was developed by `Clemens Raffler <https://github.com/root676>`__
+
+Feature: New Highest position in raster stack algorithm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We added some raster value position analysis tools with this new QGIS version: The *Highest position in raster stack* algorithm evaluates on a cell-by-cell basis the position of the raster with the highest value in a stack of rasters. Position counts start with 1 and range to the total number input rasters. The order of the input rasters is relevant for the algorithm.
+
+|image54|
+
+This feature was developed by `Clemens Raffler <https://github.com/root676>`__
 
 Feature: Load processing results to layer group
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
