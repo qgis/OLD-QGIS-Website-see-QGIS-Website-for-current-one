@@ -329,21 +329,16 @@ to install both client and server applications on the same machine), type::
 
  sudo dnf install qgis-server python3-qgis
 
-This repository also provides a copy of SAGA 2.3.1 compatible with Processing.
-It can be installed with the following commands::
-
- sudo dnf install saga
-
 +---------------+-------------+--------------+--------------+
 | Distribution  | Version     | QGIS         | GRASS GIS    |
 |               |             | version      | version      |
 |               |             |              |              |
 +===============+=============+==============+==============+
-| Fedora        | 30 (EOL)    | 3.14         | 7.6          |
+| Fedora        | 31          | 3.16         | 7.8          |
 |               +-------------+--------------+--------------+
-|               | 31          | 3.14         | 7.8          |
+|               | 32          | 3.16         | 7.8          |
 |               +-------------+--------------+--------------+
-|               | 32          | 3.14         | 7.8          |
+|               | 33          | 3.16         | 7.8          |
 +---------------+-------------+--------------+--------------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis/
@@ -364,53 +359,19 @@ to install both client and server applications on the same machine), type::
 
  sudo dnf install qgis-server python3-qgis
 
-This repository also provides a copy of SAGA 2.3.1 compatible with Processing.
-It can be installed with the following commands::
-
- sudo dnf install saga
-
 +---------------+-------------+--------------+--------------+
 | Distribution  | Version     | QGIS         | GRASS GIS    |
 |               |             | version      | version      |
 |               |             |              |              |
 +===============+=============+==============+==============+
-| Fedora        | 30 (EOL)    | 3.10         | 7.6          |
-|               +-------------+--------------+--------------+
-|               | 31          | 3.10         | 7.8          |
+| Fedora        | 31          | 3.10         | 7.8          |
 |               +-------------+--------------+--------------+
 |               | 32          | 3.10         | 7.8          |
+|               +-------------+--------------+--------------+
+|               | 33          | 3.10         | 7.8          |
 +---------------+-------------+--------------+--------------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/
-
-QGIS testing (unstable)
-.......................
-
-Enable the repository::
-
- sudo dnf copr enable dani/qgis-testing
-
-After that type the commands below to install QGIS::
-
- sudo dnf install qgis python3-qgis qgis-grass
-
-In case you would like to install QGIS Server (note that it's not a common practice
-to install both client and server applications on the same machine), type::
-
- sudo dnf install qgis-server python3-qgis
-
-+---------------+-------------+--------------+--------------+
-| Distribution  | Version     | QGIS         | GRASS GIS    |
-|               |             | version      | version      |
-|               |             |              |              |
-+===============+=============+==============+==============+
-| Fedora        | 30 (EOL)    | 3.13         | 7.68         |
-|               +-------------+--------------+--------------+
-|               | 31          | 3.13         | 7.8          |
-+---------------+-------------+--------------+--------------+
-
-Testing builds are updated infrequently.
-More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-testing/
 
 RHEL, CentOS, Scientific Linux
 ------------------------------
