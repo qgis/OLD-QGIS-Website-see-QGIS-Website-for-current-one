@@ -26,7 +26,7 @@ Index
 General
 -------
 
-Feature: Add user groups easter egg
+Add user groups easter egg
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Type the words "user groups" into the current coordinates window and watch the magic happen.
@@ -38,7 +38,7 @@ This feature was developed by `Germán Carrillo <https://github.com/gacarrillor>
 Temporal
 --------
 
-Feature: Ability to export temporal animation frames
+Ability to export temporal animation frames
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Allows exporting of temporal animation frames to successive images, for later stitching together in an external application. Users have precise control over the image size and map extent.
@@ -48,7 +48,7 @@ This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalld
 Map Tools
 ---------
 
-Feature: Go-To locator
+Go-To locator
 ~~~~~~~~~~~~~~~~~~~~~~
 
 We have added a new goto locator filter.
@@ -77,7 +77,7 @@ This feature was developed by `Mathieu Pellerin <https://api.github.com/users/ni
 User Interface
 --------------
 
-Feature: Add context menu to map canvas
+Add context menu to map canvas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The map canvas now has a right-click context menu. By default, it creates the "Copy Coordinate" menu that was introduced with QGIS 3.14, however, it is expected that this functionality will be extended to allow many more functionalities to be accessed with spatial context in the future.
@@ -89,7 +89,7 @@ This feature was developed by `jakimowb <https://api.github.com/users/jakimowb>`
 Symbology
 ---------
 
-Feature: Vector tile styling improvements
+Vector tile styling improvements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Multiple enhancements were introduced for the editing of complex vector tiles styles:
@@ -101,7 +101,7 @@ Multiple enhancements were introduced for the editing of complex vector tiles st
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Allow users to optionally specify the URL for the default style on vector tile connections
+Allow users to optionally specify the URL for the default style on vector tile connections
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When setting up a vector tile source connection, there's a new option to enter a URL to a MapBox GL JSON style configuration. If one has been entered, then that style will be applied whenever the layers from the connection are added to QGIS.
@@ -112,21 +112,21 @@ This also works also with ArcGIS Vector Tile Service connections which will the 
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Allow data-defined offset for fill symbol layers
+Allow data-defined offset for fill symbol layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Any fill symbol layer which supports offsetting polygons, including simple fills, raster image fills, shapeburst and gradent fills, now allow data-defined offsets
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Import MapBox GL JSON styles for vector tile layers
+Import MapBox GL JSON styles for vector tile layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Users can now load MapBox GL JSON style configuration files when importing style files on vector tile layers
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Expose option to offset simple line dash patterns by a preset amount
+Expose option to offset simple line dash patterns by a preset amount
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Allows for tweaking the positioning of dashes/spaces in the line, so that the dashes/spaces can be placed at nicer positions to account for corners in the line (also can be used potentially to "align" adjacent dash pattern borders).
@@ -137,7 +137,7 @@ This feature was funded by `Kanton Solothurn <https://geo.so.ch/>`__
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Add options to dynamically tweak dash pattern in simple line symbol layers
+Add options to dynamically tweak dash pattern in simple line symbol layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Options have been added to allow the tweaking of dash patterns to allow more control for improving the rendered quality of line symbols. These options include:
@@ -162,7 +162,7 @@ This feature was funded by `Kanton Solothurn <https://geo.so.ch/>`__
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Manage 3D symbols through style manager
+Manage 3D symbols through style manager
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Support has been added for managing 3D symbols through the QGIS style manager, including support for importing and exporting libraries of 3d symbols, and completes the recent work in fully abstracting out 3D symbols and their widget handlers.
@@ -178,7 +178,7 @@ This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalld
 Labelling
 ---------
 
-Feature: Add option to allow users to control the placement of labels along line features
+Add option to allow users to control the placement of labels along line features
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A new "Label Anchoring" section in the line placement settings for labels allows users to specify whether labels should be placed at the center, start or end of lines. In addition, it allows offsets of these positions (based on the percentage of the feature length), which may be defined statically or by using a data-defined definition.
@@ -187,7 +187,7 @@ A new "Label Anchoring" section in the line placement settings for labels allows
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Control anchor point for line labels
+Control anchor point for line labels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A new option is exposed which allows users to control whether the anchor point for the labeling of line features is a hint or a strict requirement. The resulting behavior modifications include the following:
@@ -202,7 +202,7 @@ This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalld
 Diagrams
 --------
 
-Feature: Render axis for stacked bar diagram
+Render axis for stacked bar diagram
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This adds support for rendering the axis on stacked bar diagrams if an axis has been set. The implementation is based on the axis rendering for the histogram diagram.
@@ -218,7 +218,7 @@ This feature was developed by `Dan Minor <https://api.github.com/users/dminor>`_
 Mesh
 ----
 
-Feature: In-memory mesh datasets with persistence
+In-memory mesh datasets with persistence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This feature introduces the ability to create in-memory dataset groups for mesh layers. These dataset groups are temporary and are not kept once the project is closed.
@@ -233,7 +233,7 @@ This feature also introduces the ability to remove or save these memory dataset 
 
 This feature was developed by `Vincent Cloarec <https://api.github.com/users/vcloarec>`__
 
-Feature: Multi identify for mesh layer
+Multi identify for mesh layer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The identify tool has been adapted when used on mesh layers and now displays the dataset value corresponding to the current time of the temporal controller for all dataset groups. The active dataset groups (scalar and eventually vector) are first displayed, then the other dataset groups. There is also other information displayed, including:
@@ -250,7 +250,7 @@ When the map canvas does not have temporal navigation enabled, the identify resu
 
 This feature was developed by `Vincent Cloarec <https://api.github.com/users/vcloarec>`__
 
-Feature: Virtual dataset groups for mesh layer
+Virtual dataset groups for mesh layer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The ability to use "virtual" data set groups has been introduced for mesh layers. This replaces the "memory" dataset group used in `37389 <https://github.com/qgis/QGIS/pull/37389>`__.
@@ -271,7 +271,7 @@ Virtual: purple
 
 This feature was developed by `Vincent Cloarec <https://api.github.com/users/vcloarec>`__
 
-Feature: Add export to QgsMesh method
+Add export to QgsMesh method
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A method has been added to export a triangulation to a QgsMesh instance, with the possibility to construct mesh layer with triangulation from existing points and lines. This is the first step to allow the ability to obtain a QgsMesh from other map layers.
@@ -282,7 +282,7 @@ The Triangulation and DualEdgeTriangulation classes were also renamed and refact
 
 This feature was developed by `Vincent Cloarec <https://api.github.com/users/vcloarec>`__
 
-Feature: TIN Mesh creation
+TIN Mesh creation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 TIN mesh layers can be created from vector layer data (vertices and/ or break lines). The resulting mesh is constructed with a constrained Delaunay triangulation. This mesh layer can be created using the python API or through an algorithm in the processing tool box.
@@ -294,7 +294,7 @@ This feature was developed by `Vincent Cloarec <https://api.github.com/users/vcl
 Rendering
 ---------
 
-Feature: Gamma correction filter for raster layers
+Gamma correction filter for raster layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Add gamma correction filter pipe for raster layers in addition to the existing brightness, contrast, hue, and saturation filters. Users can adjust the gamma value from the layer properties dialog, using styling panel and/or new buttons on the Raster toolbar. Default gamma value is 1.0 and it can be adjusted within the range 0.1 to 10.
@@ -310,14 +310,14 @@ This feature was developed by `Alexander Bruy <https://api.github.com/users/alex
 3D Features
 -----------
 
-Feature: Allow 3D material texture files to be embedded in style/project
+Allow 3D material texture files to be embedded in style/project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Some minor API and code cleanups were performed, as well as introducing the use of QgsImageCache for 3D texture files in order to allow them to be embedded within projects.
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Shadow rendering
+Shadow rendering
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Shadows can now be rendered in 3D views.
@@ -326,7 +326,7 @@ Shadows can now be rendered in 3D views.
 
 This feature was developed by `Nedjima Belgacem <https://api.github.com/users/NEDJIMAbelgacem>`__
 
-Feature: Export 3D scenes
+Export 3D scenes
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 3D Scenes can now be exported for use in other 3D software, such as Blender. This export feature supports multiple additional functions including output model simplification by specifying the output resolution, optional model smoothing, and the exporting of 3D vector layers.
@@ -335,7 +335,7 @@ Feature: Export 3D scenes
 
 This feature was developed by `Nedjima Belgacem <https://api.github.com/users/NEDJIMAbelgacem>`__
 
-Feature: Directional lighting support for QGIS 3D
+Directional lighting support for QGIS 3D
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Added directional lights to QGIS 3D
@@ -358,7 +358,7 @@ Added directional lights to QGIS 3D
 
 This feature was developed by `Nedjima Belgacem <https://api.github.com/users/NEDJIMAbelgacem>`__
 
-Feature: Texturing support for vector layer
+Texturing support for vector layer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Texturing support has been added for QGIS 3D with the following new functionalities:
@@ -372,7 +372,7 @@ Some visual issues may appear when using textures. These issues relate to the no
 
 This feature was developed by `Nedjima Belgacem <https://api.github.com/users/NEDJIMAbelgacem>`__
 
-Feature: Enable embedded and remote 3D models for 3D point symbols
+Enable embedded and remote 3D models for 3D point symbols
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Users can now utilise and embed remote 3D models for 3D point symbols.
@@ -381,7 +381,7 @@ Users can now utilise and embed remote 3D models for 3D point symbols.
 
 This feature was developed by `Mathieu Pellerin <https://api.github.com/users/nirvn>`__
 
-Feature: Add option to show light source origins
+Add option to show light source origins
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A feature which allows users to toggle a visible sphere at light source origins in a 3D scene.
@@ -392,7 +392,7 @@ Addresses `Issue #37726 <https://github.com/qgis/QGIS/issues/37726>`__.
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Improvements for material handling
+Improvements for material handling
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Further improvements for material handling were introduced, and a Gooch shading model was added. This improves the QgsAbstractMaterialSettings API, by:
@@ -409,7 +409,7 @@ This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalld
 Print Layouts
 -------------
 
-Feature: Expose control over text format and alignment for individual cells in manual text tables
+Expose control over text format and alignment for individual cells in manual text tables
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Adds control over setting the text format (e.g. bold/italic/buffer/shadow etc) and text alignment (horizontal and vertical) for the contents of individual cells in a manual text table.
@@ -418,7 +418,7 @@ This feature was funded by City of Canning
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Use QgsTextRenderer to render attribute table text
+Use QgsTextRenderer to render attribute table text
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Allows for the full range of text formatting options in layout attribute tables, including buffers, shadows, word spacing etc.
@@ -427,7 +427,7 @@ This feature was funded by City of Canning
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Use QgsTextRenderer for drawing map grid text in layouts
+Use QgsTextRenderer for drawing map grid text in layouts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Allows for grid annotations which use buffers, shadows, background shapes, etc.
@@ -438,7 +438,7 @@ Allows for grid annotations which use buffers, shadows, background shapes, etc.
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Expose option to control PDF image compression method when exporting layouts to PDF
+Expose option to control PDF image compression method when exporting layouts to PDF
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Options are for Lossy compression, which is the default JPEG compression used, and Lossless compression (which creates bigger files in most cases, but is much more suitable for professional printing outputs or for post-production in other products such as Illustrator etc)
@@ -447,7 +447,7 @@ The bad news is that this option is only available in builds based on Qt 5.13 or
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Add automatic clipping settings for atlas maps
+Add automatic clipping settings for atlas maps
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This feature allows users to enable map clipping for layout map items so that the maps are clipped to the boundary of the current atlas area feature.
@@ -472,7 +472,7 @@ This feature was funded by City of Canning
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Add API to QgsMapSettings for specifying clipping regions to apply while rendering maps
+Add API to QgsMapSettings for specifying clipping regions to apply while rendering maps
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This is currently API only functionality, but functionality has been added which provide the backend capabilities to specify clipping regions which may be used during map render operations.
@@ -493,7 +493,7 @@ This feature was funded by City of Canning
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Layout legend maximum marker size
+Layout legend maximum marker size
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Adds the possibility to enter the maximum marker size (in mm) to the layout legend widget.
@@ -502,7 +502,7 @@ In some cases, such as when point layers use a symbol size which is based on map
 
 This feature was developed by `mhugent <https://api.github.com/users/mhugent>`__
 
-Feature: Allow cells in manual text tables to have expression based contents
+Allow cells in manual text tables to have expression based contents
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Allows individual cells from a manual text table to take their contents from a preset expression. Expressions have access to the full layout item expression context, allowing cells to calculate and display metadata style values or aggregate based calculations.
@@ -511,7 +511,7 @@ This feature was funded by City of Canning
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Clip layout maps to shape
+Clip layout maps to shape
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 New functionality was introduced which allows users to clip a map item to a shape or polygon item from their layout, allowing for non-rectangular maps within the layout.
@@ -522,7 +522,7 @@ New functionality was introduced which allows users to clip a map item to a shap
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Support for rotated ticks/annotation
+Support for rotated ticks/annotation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Tick marks and annotations on a map frame in the print composer can now be rotated, allowing them to align with a rotated map frame as described in `issue 36904 <https://github.com/qgis/QGIS/issues/36904>`__. It works for both rotated maps and reprojected grids.
@@ -546,7 +546,7 @@ This feature was funded by `Kanton Solothurn <https://geo.so.ch/>`__
 
 This feature was developed by `Olivier Dalang, OPENGIS.ch <https://www.opengis.ch>`__
 
-Feature: Add page offset expression for Y positions
+Add page offset expression for Y positions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A ``layout_pageoffsets`` expression was added for print layouts which returns an array of Y coordinates for the top of each page in the layout. this allows users to dynamically position items on pages in a context where page sizes may change.
@@ -562,14 +562,14 @@ This feature was developed by `Olivier Dalang, OPENGIS.ch <https://www.opengis.c
 Expressions
 -----------
 
-Feature: Add to\_decimal() function to convert DMS to DD
+Add to\_decimal() function to convert DMS to DD
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A new ``QgsCoordinateUtils::dmsToDecimal`` function has been added which exposes the ``to_decimal`` function in expressions. This allows the conversion of DMS (degree/minute/second) strings into DD (decimal degree) format.
 
 This feature was developed by `Mathieu Pellerin <https://api.github.com/users/nirvn>`__
 
-Feature: Add "main\_angle" function to return the estimated main angle of a geometry
+Add "main\_angle" function to return the estimated main angle of a geometry
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Returns the angle of the oriented minimum bounding box which covers the geometry value.
@@ -582,7 +582,7 @@ This feature was funded by `Kanton Solothurn <https://geo.so.ch/>`__
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Port refFunctions to core
+Port refFunctions to core
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Various overlay operations have been added to the expression engine. This covers the functionality of the refFunctions plugin.
@@ -602,14 +602,14 @@ This feature was developed by `Olivier Dalang, OPENGIS.ch <https://www.opengis.c
 Digitising
 ----------
 
-Feature: Add option to calculate bearing based on travel direction
+Add option to calculate bearing based on travel direction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For devices which report faulty bearing measurements, this option can be used to instead calculate the GPS bearing based on the previous two recorded locations.
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Digitizing and splitting curved features
+Digitizing and splitting curved features
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 New functionality was introduced that adds the possibility to switch between linear or circular strings when digitizing or splitting vector layer features.
@@ -631,7 +631,7 @@ This feature was developed by `Vincent Cloarec <https://api.github.com/users/vcl
 Data Management
 ---------------
 
-Feature: Rescale raster algorithm for Processing
+Rescale raster algorithm for Processing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Adds a rescale raster algorithm to change raster value range, whilst preserving the shape of the raster's histogram. Useful for when rasters from different sources should be compared or processed together and their pixel values should be in the same range. By default, the algorithm preserves the NODATA value of the input raster but there is an option to override it.
@@ -647,7 +647,7 @@ This feature was developed by `Alexander Bruy <https://api.github.com/users/alex
 Forms and Widgets
 -----------------
 
-Feature: Multiple widgets for a single relation
+Multiple widgets for a single relation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Multiple relation widgets may now be created for a single relation, each with their own distinct configuration.
@@ -660,7 +660,7 @@ On reading a project configured with older QGIS versions, the config is taken ov
 
 This feature was developed by `signedav <https://api.github.com/users/signedav>`__
 
-Feature: Show related features in identify results tree
+Show related features in identify results tree
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Users will now be able to see related (child) features in the results window when using the identify tool. Under each identified parent feature, new groups will show containing any related child features, displaying their attributes, actions, and allowing the user to directly open the feature form for the child feature.
@@ -671,7 +671,7 @@ This feature addresses issue `18634 <https://github.com/qgis/QGIS/issues/18634>`
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Filter expressions in relation reference widget
+Filter expressions in relation reference widget
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 An option has been added for static filter expression to be used in the relation reference widget.
@@ -683,7 +683,7 @@ This feature was developed by `Ivan Ivanov <https://api.github.com/users/suricac
 Analysis Tools
 --------------
 
-Feature: Add project load profile times to debugging tools dock
+Add project load profile times to debugging tools dock
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Modification of the QgsRuntimeProfiler class which performs the following functions: 1. Make the profiling thread-safe, so that it's possible to record times across multiple threads 2. Allows different profiling "groups"
@@ -703,7 +703,7 @@ This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalld
 Processing
 ----------
 
-Feature: Add help string for parameters
+Add help string for parameters
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Help strings can now be specified at the parameter level.
@@ -714,7 +714,7 @@ This will be visible in the tooltip, in the CLI and Python Processing API.
 
 This feature was developed by `Étienne Trimaille <https://api.github.com/users/Gustry>`__
 
-Feature: New "Align points to features" algorithm
+New "Align points to features" algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This algorithm calculates the rotation required to align point features with their nearest feature from another reference layer. A new field is added to the output layer which is filled with the angle (in degrees, clockwise) to the nearest reference feature.
@@ -727,14 +727,14 @@ An example use case for this is the aligning of building point symbols to follow
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Add modeler algorithm to create directories
+Add modeler algorithm to create directories
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This algorithm allows models to create new file directories. Useful for models which have to output results to certain dynamically created paths (e.g. a folder containing the current date).
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Add modeler algorithm to set a project expression variable
+Add modeler algorithm to set a project expression variable
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Allows a model to set Project-level expression variables during execution. Especially useful with the new `Export Print Layout algorithms <https://github.com/qgis/QGIS/pull/36916>`__ to allow models which dynamically set variables used in a layout prior to export.
@@ -743,7 +743,7 @@ This functionality was ported from https://gis.stackexchange.com/questions/35938
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Add processing algorithms to export a print layout as PDF/image
+Add processing algorithms to export a print layout as PDF/image
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Models are able to export print layouts from the current project. One use case for this is allowing users to create an in-project model which exports a particular set of layouts from the project to certain folders, so that they can easily re-export the current project in a single operation instead of having to manually open multiple layouts and export one-by-one.
@@ -752,7 +752,7 @@ Additionally, with the new capabilities to have expression based output files in
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Add a save features to file algorithm
+Add a save features to file algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 There is now a native processing algorithm to save vector features to a file dataset within a model. It comes with a pair of advanced features to pass dataset and layer options on to GDAL.
@@ -761,14 +761,14 @@ There is now a native processing algorithm to save vector features to a file dat
 
 This feature was developed by `Mathieu Pellerin <https://api.github.com/users/nirvn>`__
 
-Feature: Export layout atlas as PDF algorithm
+Export layout atlas as PDF algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A new QGIS processing algorithm was added which allows the export of a map atlas to PDF. This is the PDF counterpart to the recent export atlas layout to image algorithm.
 
 This feature was developed by `Mathieu Pellerin <https://api.github.com/users/nirvn>`__
 
-Feature: New "Flatten Relationship" algorithm
+New "Flatten Relationship" algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This algorithm flattens all relationships for a vector layer, exporting a single layer containing one master feature per related feature. This master feature contains all the attributes for the related features.
@@ -779,7 +779,7 @@ This feature was funded by SMEC/SJ
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Export atlas layout as image algorithm
+Export atlas layout as image algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A new native processing algorithm was added to export layout atlases as images.
@@ -790,7 +790,7 @@ This is useful in models where remote datasets are processed with the goal of be
 
 This feature was developed by `Mathieu Pellerin <https://api.github.com/users/nirvn>`__
 
-Feature: New Cell statistics algorithm
+New Cell statistics algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We added a **Cell statistics** raster analysis algorithm. It performs cell-wise statistics on a stack of raster layers while accounting for NoData. The functions available in the current implementation are:
@@ -813,7 +813,7 @@ We added a **Cell statistics** raster analysis algorithm. It performs cell-wise 
 
 This feature was developed by `Clemens Raffler <https://api.github.com/users/root676>`__
 
-Feature: New Equal to frequency algorithm
+New Equal to frequency algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We have added some new raster algorithms that operate on a local cell-by-cell basis in a raster stack. The Equal to frequency algorithm evaluates on a cell-by-cell basis the frequency (number of times) the values of an input stack of rasters are equal to the value of a value raster.
@@ -822,7 +822,7 @@ We have added some new raster algorithms that operate on a local cell-by-cell ba
 
 This feature was developed by `Clemens Raffler <https://api.github.com/users/root676>`__
 
-Feature: New Greater than frequency algorithm
+New Greater than frequency algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We have added some new raster algorithms that operate on a local cell-by-cell basis in a raster stack. The Greater than frequency algorithm evaluates on a cell-by-cell basis the frequency (number of times) the values of an input stack of rasters are greater than the value of a value raster.
@@ -831,7 +831,7 @@ We have added some new raster algorithms that operate on a local cell-by-cell ba
 
 This feature was developed by `Clemens Raffler <https://github.com/root676>`__
 
-Feature: New Less than frequency algorithm
+New Less than frequency algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We have added some new raster algorithms that operate on a local cell-by-cell basis in a raster stack. The Equal to frequency algorithm evaluates on a cell-by-cell basis the frequency (number of times) the values of an input stack of rasters are less than the value of a value raster.
@@ -840,7 +840,7 @@ We have added some new raster algorithms that operate on a local cell-by-cell ba
 
 This feature was developed by `Clemens Raffler <https://github.com/root676>`__
 
-Feature: New Lowest position in raster stack algorithm
+New Lowest position in raster stack algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We added some raster value position analysis tools with this new QGIS version: The *Lowest position in raster stack* algorithm evaluates on a cell-by-cell basis the position of the raster with the lowest value in a stack of rasters. Position counts start with 1 and range to the total number input rasters. The order of the input rasters is relevant for the algorithm.
@@ -849,7 +849,7 @@ We added some raster value position analysis tools with this new QGIS version: T
 
 This feature was developed by `Clemens Raffler <https://github.com/root676>`__
 
-Feature: New Highest position in raster stack algorithm
+New Highest position in raster stack algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We added some raster value position analysis tools with this new QGIS version: The *Highest position in raster stack* algorithm evaluates on a cell-by-cell basis the position of the raster with the highest value in a stack of rasters. Position counts start with 1 and range to the total number input rasters. The order of the input rasters is relevant for the algorithm.
@@ -858,21 +858,21 @@ We added some raster value position analysis tools with this new QGIS version: T
 
 This feature was developed by `Clemens Raffler <https://github.com/root676>`__
 
-Feature: Load processing results to layer group
+Load processing results to layer group
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Users can now optionally set a group name which ensures that the resulting output layers added to the project when using the *Open output file after running algorithm* option are grouped together. This allows all outputs from several processing algorithms to be grouped so that they may be easily located in the layer tree and be removed, exported, or have their visibility toggled easily. |image58|
 
 This feature was developed by `Germán Carrillo <https://github.com/gacarrillor>`__
 
-Feature: Add zonal statistics algorithm which creates new output
+Add zonal statistics algorithm which creates new output
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Previously, when calculating zonal statistics, the algorithm always updated the original data source, adding additional fields. A new zonal statistics algorithm has been added which creates a new output instead. This functionality is an implementation of the `29504 feature request <https://github.com/qgis/QGIS/issues/29504>`__.
 
 This feature was developed by `Matthias Kuhn <https://api.github.com/users/m-kuhn>`__
 
-Feature: Add geometry processing parameter
+Add geometry processing parameter
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Added a new ``QgisProcessingParameterGeometry`` for passing geometries as a parameter to processing alogrithms.
@@ -892,7 +892,7 @@ Features:
 
 This feature was developed by `David Marteau <https://api.github.com/users/dmarteau>`__
 
-Feature: Add an interface to determine whether it is safe for the application to exit
+Add an interface to determine whether it is safe for the application to exit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 An interface for plugins and scripts to register custom logic to prevent the QGIS application from exiting was added. This allows plugins to determine whether it is safe for the application to exit. This has made it possible to allow plugins to determine whether there are unsaved changes which should be saved or discarded before allowing QGIS to exit, functionality which has already been implemented in the console script editor, preventing data loss by prompting users when there are unsaved changes rather than silently shutting down the application.
@@ -902,7 +902,7 @@ This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalld
 Application and Project Options
 -------------------------------
 
-Feature: List available GDAL vector drivers
+List available GDAL vector drivers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A *Vector Drivers* tab is now available within the QGIS GDAL Settings window, which lists all the available GDAL vector drivers and allows users to toggle their active state. Where several drivers may be used to open data of a specific type, users may now modify these settings to ensure that the intended driver is used when importing specific vector data types. For example, the FileGDB and OpenFileGDB drivers are both capable of being used to import .gdb files, but if the data file has a version of 9.x, the FileGDB won't be able to open it. In this instance, a user may disable the FileGDB driver and ensure that the data is loaded using the OpenFileGDB driver instead.
@@ -913,7 +913,7 @@ This functionality directly addresses the limitations outlined in `Issue 18738 <
 
 This feature was developed by `Alexander Bruy <https://api.github.com/users/alexbruy>`__
 
-Feature: Detect GRASS installation folder on MacOS
+Detect GRASS installation folder on MacOS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 MacOS previously had a platform-specific custom parameter setting Grass7Utils.GRASS\_FOLDER. This caused crashes for many users with multiple QGIS installations or who had some invalid folder settings. The parameter has been removed and a GISBASE environment variable has been introduced instead, which is commonly used in GRASS scripts as the "root" installation directory, emulating the behavior used for GRASS detection in Windows environments. If GISBASE is not present (default), a search is performed for grass folders in ``QgsApplication.prefixPath()`` (when packaged in bundle format). If not found, the standalone GRASS instance is searched for. The new behaviour for GRASS is in-line with the methodology used for the GDAL and SAGA processing tools.
@@ -927,7 +927,7 @@ This feature was developed by `Lutra Consulting (Peter Petrik) <https://api.gith
 Browser
 -------
 
-Feature: Expose fields in the Browser
+Expose fields in the Browser
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 First part of QEP https://github.com/qgis/QGIS-Enhancement-Proposals/issues/171
@@ -953,7 +953,7 @@ This feature was developed by `Alessandro Pasotti <https://api.github.com/users/
 Data Providers
 --------------
 
-Feature: ArcGIS Vector Tile Service connections
+ArcGIS Vector Tile Service connections
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 An option to create connections for ArcGIS Vector Tile Services was added to allow users to easily load vector tile layers from ArcGIS Server vector tile services. It also added support for authentication, configuration, and custom referer string to vector tile connections.
@@ -966,7 +966,7 @@ After a user adds a layer from a VectorTileService, the server's default styling
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
-Feature: Trust layer metadata propagation
+Trust layer metadata propagation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The trust flag at the project level is only used to read the vector layer extent from xml, not from the provider.
@@ -977,7 +977,7 @@ Trusting the datasource config allows the provider to use estimated metadata, en
 
 This feature was developed by `rldhont <https://api.github.com/users/rldhont>`__
 
-Feature: Add support for virtual columns in Oracle
+Add support for virtual columns in Oracle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Support for virtual (generated) Oracle columns has been added and is defined this way:
@@ -990,7 +990,7 @@ For now, when creating a new feature, the generated field is editable and should
 
 This feature was developed by `Julien Cabieces <https://api.github.com/users/troopa81>`__
 
-Feature: Add advanced options for data imports
+Add advanced options for data imports
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 New functionality has been introduced which allows advanced parameters to be specified when importing layers using the OGR data provider, opening a vast range of new possibilities, especially when working around expected dataset issues.
@@ -1004,14 +1004,14 @@ This feature was developed by `Even Rouault <https://api.github.com/users/rouaul
 QGIS Server
 -----------
 
-Feature: QGIS Server WFS3 API Sorting
+QGIS Server WFS3 API Sorting
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Adds sorting functionality to the QGIS Server WFS3 API
 
 This feature was developed by `Alessandro Pasotti <https://api.github.com/users/elpaso>`__
 
-Feature: QGIS Server landing page plugin
+QGIS Server landing page plugin
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A Landing Page Plugin for QGIS Server was created, which is a C++ port of https://github.com/elpaso/qgis-server-landing-page-plugin
@@ -1020,7 +1020,7 @@ A Landing Page Plugin for QGIS Server was created, which is a C++ port of https:
 
 This feature was developed by `Alessandro Pasotti <https://api.github.com/users/elpaso>`__
 
-Feature: Environment variable to disable GetPrint and to not load layouts
+Environment variable to disable GetPrint and to not load layouts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A new ``QGIS_SERVER_DISABLE_GETPRINT`` environment variable was added to QGIS Server which prevents the loading of layouts when projects are read and disables the WMS GetPrint request, improving the read time of projects.
@@ -1029,7 +1029,7 @@ This feature was funded by `Ifremer <https://wwz.ifremer.fr>`__
 
 This feature was developed by `3Liz <https://www.3liz.com>`__
 
-Feature: Environment variable to trust layer metadata with server settings
+Environment variable to trust layer metadata with server settings
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Trust layer metadata can be defined at the project level. A new project reading flag was added which allows the forcing of trust layer metadata.
@@ -1043,7 +1043,7 @@ This feature was developed by `3Liz <https://www.3liz.com>`__
 Notable Fixes
 -------------
 
-Feature: Bug fixes by Even Rouault
+Bug fixes by Even Rouault
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+
@@ -1094,7 +1094,7 @@ This feature was funded by `QGIS.ORG (through donations and sustaining membershi
 
 This feature was developed by `Even Rouault <http://www.spatialys.com/>`__
 
-Feature: Bug fixes by Alessandro Pasotti
+Bug fixes by Alessandro Pasotti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +-----------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------+
@@ -1193,7 +1193,7 @@ This feature was funded by `QGIS.ORG (through donations and sustaining membershi
 
 This feature was developed by `Alessandro Pasotti <https://www.itopen.it/>`__
 
-Feature: Bug fixes by Peter Petrik
+Bug fixes by Peter Petrik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +--------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+
@@ -1300,7 +1300,7 @@ This feature was funded by `QGIS.ORG (through donations and sustaining membershi
 
 This feature was developed by `Peter Petrik <https://www.lutraconsulting.co.uk/>`__
 
-Feature: Bug fixes by Paul Blottiere
+Bug fixes by Paul Blottiere
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +-------------------------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+
@@ -1333,7 +1333,7 @@ This feature was funded by `QGIS.ORG (through donations and sustaining membershi
 
 This feature was developed by `Paul Blottiere <https://hytech-imaging.fr/>`__
 
-Feature: Bug fixes by Matthias Kuhn
+Bug fixes by Matthias Kuhn
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +---------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+---------------------------------+
@@ -1352,7 +1352,7 @@ This feature was funded by `QGIS.ORG (through donations and sustaining membershi
 
 This feature was developed by `Matthias Kuhn <https://www.opengis.ch/>`__
 
-Feature: Bug fixes by Julien Cabieces
+Bug fixes by Julien Cabieces
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +---------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
@@ -1409,7 +1409,7 @@ This feature was funded by `QGIS.ORG (through donations and sustaining membershi
 
 This feature was developed by `Julien Cabieces <https://www.oslandia.com/>`__
 
-Feature: Bug fixes by Denis Rouzaud
+Bug fixes by Denis Rouzaud
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------+
@@ -1436,7 +1436,7 @@ This feature was funded by `QGIS.ORG (through donations and sustaining membershi
 
 This feature was developed by `Denis Rouzaud <https://www.opengis.ch/>`__
 
-Feature: Bug fixes by Olivier Dalang
+Bug fixes by Olivier Dalang
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +------------------------------+-------------------------------------+-----------------------------------------------------------+---------------------------------+
@@ -1449,7 +1449,7 @@ This feature was funded by `QGIS.ORG (through donations and sustaining membershi
 
 This feature was developed by `Olivier Dalang <https://www.opengis.ch/>`__
 
-Feature: Bug fixes by Nyall Dawson
+Bug fixes by Nyall Dawson
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
