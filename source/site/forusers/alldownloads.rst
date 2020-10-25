@@ -401,10 +401,6 @@ Leap 15.1::
 
  https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.1/
 
-Leap 15.0::
-
- https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.0/
-
 Factory ARM::
 
  https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Factory_ARM/
