@@ -12,7 +12,7 @@ releasenote = u'\u200B'
 ltrversion = '3.10'
 ltrrelease = '3.10.11'
 ltrcodename = u'A Coruña'
-ltrbinary = '2'
+ltrbinary = '1'
 ltrnote = u'LTR'
 
 devversion = '3.17'
