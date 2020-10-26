@@ -329,21 +329,16 @@ to install both client and server applications on the same machine), type::
 
  sudo dnf install qgis-server python3-qgis
 
-This repository also provides a copy of SAGA 2.3.1 compatible with Processing.
-It can be installed with the following commands::
-
- sudo dnf install saga
-
 +---------------+-------------+--------------+--------------+
 | Distribution  | Version     | QGIS         | GRASS GIS    |
 |               |             | version      | version      |
 |               |             |              |              |
 +===============+=============+==============+==============+
-| Fedora        | 30 (EOL)    | 3.14         | 7.6          |
+| Fedora        | 31          | 3.16         | 7.8          |
 |               +-------------+--------------+--------------+
-|               | 31          | 3.14         | 7.8          |
+|               | 32          | 3.16         | 7.8          |
 |               +-------------+--------------+--------------+
-|               | 32          | 3.14         | 7.8          |
+|               | 33          | 3.16         | 7.8          |
 +---------------+-------------+--------------+--------------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis/
@@ -364,53 +359,19 @@ to install both client and server applications on the same machine), type::
 
  sudo dnf install qgis-server python3-qgis
 
-This repository also provides a copy of SAGA 2.3.1 compatible with Processing.
-It can be installed with the following commands::
-
- sudo dnf install saga
-
 +---------------+-------------+--------------+--------------+
 | Distribution  | Version     | QGIS         | GRASS GIS    |
 |               |             | version      | version      |
 |               |             |              |              |
 +===============+=============+==============+==============+
-| Fedora        | 30 (EOL)    | 3.10         | 7.6          |
-|               +-------------+--------------+--------------+
-|               | 31          | 3.10         | 7.8          |
+| Fedora        | 31          | 3.10         | 7.8          |
 |               +-------------+--------------+--------------+
 |               | 32          | 3.10         | 7.8          |
+|               +-------------+--------------+--------------+
+|               | 33          | 3.10         | 7.8          |
 +---------------+-------------+--------------+--------------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/
-
-QGIS testing (unstable)
-.......................
-
-Enable the repository::
-
- sudo dnf copr enable dani/qgis-testing
-
-After that type the commands below to install QGIS::
-
- sudo dnf install qgis python3-qgis qgis-grass
-
-In case you would like to install QGIS Server (note that it's not a common practice
-to install both client and server applications on the same machine), type::
-
- sudo dnf install qgis-server python3-qgis
-
-+---------------+-------------+--------------+--------------+
-| Distribution  | Version     | QGIS         | GRASS GIS    |
-|               |             | version      | version      |
-|               |             |              |              |
-+===============+=============+==============+==============+
-| Fedora        | 30 (EOL)    | 3.13         | 7.68         |
-|               +-------------+--------------+--------------+
-|               | 31          | 3.13         | 7.8          |
-+---------------+-------------+--------------+--------------+
-
-Testing builds are updated infrequently.
-More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-testing/
 
 RHEL, CentOS, Scientific Linux
 ------------------------------
@@ -431,14 +392,14 @@ Latest stable and LTR packages called qgis and qgis-ltr are available in the fol
 Tumbleweed::
 
  https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Tumbleweed/
+
+Leap 15.2::
+
+ https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.2/
  
 Leap 15.1::
 
  https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.1/
-
-Leap 15.0::
-
- https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.0/
 
 Factory ARM::
 
@@ -536,6 +497,8 @@ Then to run::
 To update your flatpak QGIS::
 
  flatpak update
+
+On certain distributions, you may also need to install xdg-desktop-portal or xdg-desktop-portal-gtk packages in order for file dialogs to appear.
 
 Flathub files: https://github.com/flathub/org.qgis.qgis and report issues here: https://github.com/flathub/org.qgis.qgis/issues
 
