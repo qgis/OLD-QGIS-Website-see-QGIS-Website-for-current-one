@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-09 12:40+0200\n"
+"POT-Creation-Date: 2020-10-26 11:45+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.5.1\n"
 
 #: ../../source/site/getinvolved/development/roadmap.rst:6
 msgid "Road Map"
@@ -163,20 +163,14 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/getinvolved/development/roadmap.rst:96
-msgid ""
-"The 2.18 release will replace the 2.14 release as LTR, but not replace "
-"2.14 in the LTR package repositories before 3.0 is released."
-msgstr ""
-
-#: ../../source/site/getinvolved/development/roadmap.rst:99
 msgid "This schedule is also available as `\"iCalendar\" </schedule.ics>`_."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:101
+#: ../../source/site/getinvolved/development/roadmap.rst:98
 msgid "Schedule:"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:108
+#: ../../source/site/getinvolved/development/roadmap.rst:105
 #: ../../source/site/getinvolved/development/schedule.inc:4
 msgid "Event"
 msgstr ""
@@ -252,7 +246,7 @@ msgstr ""
 msgid "4"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:116
+#: ../../source/site/getinvolved/development/roadmap.rst:113
 #: ../../source/site/getinvolved/development/schedule.inc:8
 msgid "EPR"
 msgstr ""
@@ -269,7 +263,7 @@ msgstr ""
 msgid "44"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:115
+#: ../../source/site/getinvolved/development/roadmap.rst:112
 #: ../../source/site/getinvolved/development/schedule.inc:9
 #: ../../source/site/getinvolved/development/schedule.inc:10
 #: ../../source/site/getinvolved/development/schedule.inc:13
@@ -493,7 +487,7 @@ msgstr ""
 msgid "33"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:112
+#: ../../source/site/getinvolved/development/roadmap.rst:109
 #: ../../source/site/getinvolved/development/schedule.inc:19
 msgid "FF"
 msgstr ""
@@ -531,7 +525,7 @@ msgstr ""
 msgid "37"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:113
+#: ../../source/site/getinvolved/development/roadmap.rst:110
 #: ../../source/site/getinvolved/development/schedule.inc:21
 msgid "HF"
 msgstr ""
@@ -671,7 +665,7 @@ msgid "3.10.8"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:30
-msgid "2020-07-17"
+msgid "2020-07-19"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:31
@@ -687,7 +681,7 @@ msgid "2020-08-14"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:32
-msgid "3.14.159"
+msgid "3.14.16"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:32
@@ -766,87 +760,87 @@ msgstr ""
 msgid "2021-02-19"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:105
+#: ../../source/site/getinvolved/development/roadmap.rst:102
 msgid "Event legend:"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:108
+#: ../../source/site/getinvolved/development/roadmap.rst:105
 msgid "Description"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:110
+#: ../../source/site/getinvolved/development/roadmap.rst:107
 msgid "LTR"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:110
+#: ../../source/site/getinvolved/development/roadmap.rst:107
 msgid "Long term release, begin of new development phase"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:111
+#: ../../source/site/getinvolved/development/roadmap.rst:108
 msgid "LR"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:111
+#: ../../source/site/getinvolved/development/roadmap.rst:108
 msgid "Regular release, begin of new development phase"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:112
+#: ../../source/site/getinvolved/development/roadmap.rst:109
 msgid "Feature freeze, end of development phase"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:113
+#: ../../source/site/getinvolved/development/roadmap.rst:110
 msgid "hard freeze"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:114
+#: ../../source/site/getinvolved/development/roadmap.rst:111
 msgid "SF"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:114
+#: ../../source/site/getinvolved/development/roadmap.rst:111
 msgid "Soft freeze with bi-monthly vote"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:115
+#: ../../source/site/getinvolved/development/roadmap.rst:112
 msgid "Point release of latest release and LTR branch"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:116
+#: ../../source/site/getinvolved/development/roadmap.rst:113
 msgid "Extra Point release"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:123
+#: ../../source/site/getinvolved/development/roadmap.rst:120
 msgid "Location of prereleases / nightly builds"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:126
+#: ../../source/site/getinvolved/development/roadmap.rst:123
 msgid "Platform"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:126
+#: ../../source/site/getinvolved/development/roadmap.rst:123
 msgid "Location"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:128
+#: ../../source/site/getinvolved/development/roadmap.rst:125
 msgid "Windows"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:128
+#: ../../source/site/getinvolved/development/roadmap.rst:125
 msgid ":ref:`OSGeo4W <QGIS-windows-testing>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:129
+#: ../../source/site/getinvolved/development/roadmap.rst:126
 msgid "Linux"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:129
+#: ../../source/site/getinvolved/development/roadmap.rst:126
 msgid ":ref:`Debian/Ubuntu <QGIS-debian-testing>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:130
+#: ../../source/site/getinvolved/development/roadmap.rst:127
 msgid "MacOS"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:130
+#: ../../source/site/getinvolved/development/roadmap.rst:127
 msgid ":ref:`Mac OS <QGIS-macos-testing>`"
 msgstr ""
 
@@ -1226,5 +1220,18 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "\\"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The 2.18 release will replace the "
+#~ "2.14 release as LTR, but not "
+#~ "replace 2.14 in the LTR package "
+#~ "repositories before 3.0 is released."
+#~ msgstr ""
+
+#~ msgid "2020-07-17"
+#~ msgstr ""
+
+#~ msgid "3.14.159"
 #~ msgstr ""
 
