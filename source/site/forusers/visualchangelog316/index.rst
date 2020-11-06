@@ -831,7 +831,7 @@ This feature was developed by `Clemens Raffler <https://github.com/root676>`__
 New Less than frequency algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We have added some new raster algorithms that operate on a local cell-by-cell basis in a raster stack. The Equal to frequency algorithm evaluates on a cell-by-cell basis the frequency (number of times) the values of an input stack of rasters are less than the value of a value raster.
+We have added some new raster algorithms that operate on a local cell-by-cell basis in a raster stack. The Less than frequency algorithm evaluates on a cell-by-cell basis the frequency (number of times) the values of an input stack of rasters are less than the value of a value raster.
 
 |image52|
 
