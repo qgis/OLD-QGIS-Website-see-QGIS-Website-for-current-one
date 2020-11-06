@@ -586,9 +586,18 @@ Various overlay operations have been added to the expression engine. This covers
 
 |image35|
 
-The following new expression functions are implemented : ``overlay_intersects(layer[,expression][,filter][,limit][,cache]) overlay_contains(layer[,expression][,filter][,limit][,cache]) overlay_crosses(layer[,expression][,filter][,limit][,cache]) overlay_equals(layer[,expression][,filter][,limit][,cache]) overlay_touches(layer[,expression][,filter][,limit][,cache]) overlay_disjoint(layer[,expression][,filter][,limit][,cache]) overlay_within(layer[,expression][,filter][,limit][,cache]) overlay_nearest(layer[,expression][,filter][,limit][,max_distance][,cache])``
+The following new expression functions are implemented:: 
 
-in all instances, the spatial operator is evaluated against the other layer. If an expression is provided, it returns an array of results. If no expression is provided, it returns a boolean indicating whether or not there is a match for at least one feature. Features can optionally be filtered by an expression, and optionally be limited to a certain count.
+ overlay_intersects(layer[,expression][,filter][,limit][,cache])
+ overlay_contains(layer[,expression][,filter][,limit][,cache])
+ overlay_crosses(layer[,expression][,filter][,limit][,cache])
+ overlay_equals(layer[,expression][,filter][,limit][,cache])
+ overlay_touches(layer[,expression][,filter][,limit][,cache])
+ overlay_disjoint(layer[,expression][,filter][,limit][,cache])
+ overlay_within(layer[,expression][,filter][,limit][,cache])
+ overlay_nearest(layer[,expression][,filter][,limit][,max_distance][,cache])
+
+In all instances, the spatial operator is evaluated against the other layer. If an expression is provided, it returns an array of results. If no expression is provided, it returns a boolean indicating whether or not there is a match for at least one feature. Features can optionally be filtered by an expression, and optionally be limited to a certain count.
 
 The ``overlay_nearest`` function has an additional max\_distance filter.
 
