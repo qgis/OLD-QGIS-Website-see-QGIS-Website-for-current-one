@@ -4,7 +4,7 @@ from datetime import date
 version = '3.16'
 release = '3.16.0'
 codename = u'Hannover'
-binary = '1'
+binary = '2'
 releasedate = date(2020, 10, 23)
 releasenote = u'\u200B'
 
@@ -12,7 +12,7 @@ releasenote = u'\u200B'
 ltrversion = '3.10'
 ltrrelease = '3.10.11'
 ltrcodename = u'A Coruña'
-ltrbinary = '1'
+ltrbinary = '2'
 ltrnote = u'LTR'
 
 devversion = '3.17'
