@@ -223,7 +223,24 @@ rst_epilog = docs_rst_epilog + """
 .. |checkbox_unchecked| image:: /static/site/common/checkbox_unchecked.png
 .. |QG| replace:: QGIS
 .. |qg| replace:: QGIS
-"""
+.. |yeartag| date:: %%Y
+.. |devcite| raw:: html
+
+     <a href="https://docs.qgis.org/%s/en/docs/developers_guide/index.html"> https://docs.qgis.org/%s/en/docs/developers_guide/index.html</a>
+
+.. |userguidecite| raw:: html
+
+     <a href="https://docs.qgis.org/%s/en/docs/user_manual/index.html"> https://docs.qgis.org/%s/en/docs/user_manual/index.html</a>
+
+.. |servercite| raw:: html
+
+     <a href="https://docs.qgis.org/%s/en/docs/server_manual/index.html"> https://docs.qgis.org/%s/en/docs/server_manual/index.html</a>
+
+.. |apicite| raw:: html
+
+     <a href="https://qgis.org/pyqgis/%s/index.html"> https://qgis.org/pyqgis/%s/index.html</a>
+
+"""% (ltrversion, ltrversion, ltrversion, ltrversion,ltrversion, ltrversion, ltrversion, ltrversion)
 
 # -- Options for LaTeX output --------------------------------------------------
 
