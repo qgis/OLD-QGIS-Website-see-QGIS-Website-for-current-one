@@ -422,9 +422,9 @@ services using the Open Data Kit / KoBo Toolbox software stack.
    :width: 75 px
 
 |northriver| `North River Geographic Systems, Inc <http://www.northrivergeographic.com/>`_
-is a small GIS Consulting firm located in the Southeastern United States. We
-provide Geospatial services such as data conversion, ESRI and FOSS4G software
-support, cartography, and data analysis.
+is a geospatial consulting firm located in the United States. We provide support for QGIS,
+PostGIS, and a whole host of FOSS4G Software. NRGS also provides project based support 
+for your organization including data support, cartography, and analysis. 
 
 ----
 
@@ -504,5 +504,4 @@ regular QGIS and PostGIS Training courses.
 
 |whg| `WhereGroup <http://www.wheregroup.com/>`_
 (Bonn, Germany) WhereGroup provides the full spectrum of services around QGIS including custom programming, commercial support and trainings.
-
 
