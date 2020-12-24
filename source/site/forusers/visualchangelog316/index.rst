@@ -646,8 +646,6 @@ The following image displays a histogram of a DEM (value range is 85-243) |image
 
 Addresses `Issue 26099 <https://github.com/qgis/QGIS/issues/26099>`__.
 
-|image43|
-
 This feature was developed by `Alexander Bruy <https://api.github.com/users/alexbruy>`__
 
 Forms and Widgets
@@ -1702,7 +1700,6 @@ This feature was developed by `Nyall Dawson <https://north-road.com/>`__
    :class: img-responsive img-rounded
 .. |image41| image:: images/entries/86897604-53ee8700-c110-11ea-99ae-540d38f88154.png
 .. |image42| image:: images/entries/86897671-67015700-c110-11ea-8183-e0d6bd013dbb.png
-.. |image43| image:: images/entries/1331cd2ae8bd39801aa3d5605a13dbcbd1436226.png
    :class: img-responsive img-rounded
 .. |image44| image:: images/entries/d3a51f9b7ea6ffa3c8c8c457e3d6278d57bcf125.gif
    :class: img-responsive img-rounded
