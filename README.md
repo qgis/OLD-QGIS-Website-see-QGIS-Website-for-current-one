@@ -1,6 +1,7 @@
 QGIS-Website
 ============
 
+[![HTML Build](https://github.com/qgis/QGIS-Website/workflows/HTML%20build/badge.svg?branch=master)](https://github.com/qgis/QGIS-Website/actions?query=branch%3Amaster+workflow%3A%22HTML+build%22)
 [![Build Status](https://travis-ci.org/qgis/QGIS-Website.svg?branch=master)](https://travis-ci.org/qgis/QGIS-Website)
 
 Website is a static generated website using Sphinx (http://sphinx-doc.org/), 
