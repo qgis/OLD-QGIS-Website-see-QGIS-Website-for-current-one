@@ -58,17 +58,33 @@
             <div class="span1"></div>
             <div class="offset1 span5">
                 <h3>{{ _('QGIS 3.16') }}</h3>
-                <p><a href="https://docs.qgis.org/3.16/en/docs/user_manual" target="_blank" class="reference external">{{ _('Desktop User Guide/Manual') }}</a></p>
-                <p><a href="https://docs.qgis.org/3.16/en/docs/server_manual" target="_blank" class="reference external">{{ _('Server Guide/Manual') }}</a></p>
-                <p><a href="https://docs.qgis.org/3.16/en/docs/training_manual/" >{{ _('QGIS Training Manual') }}</a></p>
-                <p><a href="https://docs.qgis.org/3.16/en/docs/pyqgis_developer_cookbook" target="_blank" class="reference external">{{ _('PyQGIS Cookbook') }}</a></p>
-                <p><a href="https://docs.qgis.org/3.16/en/docs/developers_guide" target="_blank" class="reference external">{{ _('QGIS Developer''s Guide') }}</a></p>
-                <p><a href="https://github.com/qgis/QGIS/blob/release-3_16/INSTALL.md">Building QGIS from Source</a></p>
-                <p><a href="https://docs.qgis.org/3.16/en/docs/documentation_guidelines" target="_blank" class="reference external">{{ _('Documentation Guidelines (how to write the docs)') }}</a></p>
-                <p><a href="https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/" target="_blank" class="reference external">{{ _('A gentle introduction in GIS') }}</a></p>
-                <p>{{ _('PDF versions of all above, eg for printing are available here: ') }} <a href="https://docs.qgis.org/3.16/pdf" class="reference external" target="_blank">https://docs.qgis.org/3.16/pdf</a></p>
-                <p><a href="https://qgis.org/api/3.16/" target="_blank" class="reference external">{{ _('C++ Api documentation') }}</a></p>
-                <p><a href="https://qgis.org/pyqgis/3.16/" target="_blank" class="reference external">{{ _('PyQGIS - QGIS Python Api documentation') }}</a></p>
+                <p>{{ _('For users:') }}
+                    <ul>
+                        <li>{{ _('Read the') }} <a href="https://docs.qgis.org/3.16/{{language}}/docs/user_manual" target="_blank" >{{ _('Desktop User Guide/Manual') }}</a> </li>
+                        <li>{{ _('Read the') }} <a href="https://docs.qgis.org/3.16/{{language}}/docs/server_manual" target="_blank" >{{ _('Server Guide/Manual') }}</a></p>
+                        <li>{{ _('Follow the tutorials in the') }} <a href="https://docs.qgis.org/3.16/{{language}}/docs/training_manual/" target="_blank">{{ _('QGIS Training manual') }}</a> </li>
+                        <li>{{ _('Learn GIS basics in') }} <a href="https://docs.qgis.org/3.16/{{language}}/docs/gentle_gis_introduction" target="_blank">{{ _('A gentle introduction in GIS') }}</a></li>
+                    </ul>
+                </p>
+                <p>{{ _('For documentation writers:') }}
+                    <ul>
+                        <li>{{ _('Learn how to write docs using the') }} <a href="https://docs.qgis.org/3.16/{{language}}/docs/documentation_guidelines" target="_blank" >{{ _('Documentation Guidelines') }}</a></li>
+                    </ul>
+                </p>
+                <p>{{ _('For developers:') }}
+                    <ul>
+                        <li>{{ _('Go Python, study the') }} <a href="https://docs.qgis.org/3.16/{{language}}/docs/pyqgis_developer_cookbook/"  target="_blank">{{ _('PyQGIS cookbook (for plugins and scripting)') }}</a></li>
+                        <li><a href="https://qgis.org/api/3.16/" target="_blank" class="reference external">{{ _('C++ Api documentation') }}</a></li>
+                        <li><a href="https://qgis.org/pyqgis/3.16/" target="_blank" class="reference external">{{ _('PyQGIS - QGIS Python Api documentation') }}</a></li>
+                        <li><a href="https://github.com/qgis/QGIS/blob/release-3_16/INSTALL.md" class="reference external">Building QGIS from Source</a></li>
+                    </ul>
+                </p>
+                <p>{{ _('For download:') }}
+                    <ul>
+                        <li><a href="https://docs.qgis.org/3.16/pdf" target="_blank" >{{ _('PDF of the manuals') }}</a></li>
+                        <li><a href="https://docs.qgis.org/3.16/zip" target="_blank" >{{ _('HTML zip of the manuals') }}</a></li>
+                    </ul>
+                </p>
             </div>
             <div class="span1"></div>
         </div>
@@ -94,6 +110,13 @@
                         <li>{{ _('Go Python, study the') }} <a href="https://docs.qgis.org/3.10/{{language}}/docs/pyqgis_developer_cookbook/"  target="_blank">{{ _('PyQGIS cookbook (for plugins and scripting)') }}</a></li>
                         <li> <a href="https://qgis.org/api/3.10/" target="_blank" class="reference external">{{ _('C++ Api documentation') }}</a></li>
                         <li><a href="https://qgis.org/pyqgis/3.10/" target="_blank" class="reference external">{{ _('PyQGIS - QGIS Python Api documentation') }}</a></li>
+                        <li><a href="https://github.com/qgis/QGIS/blob/release-3_10/INSTALL.md">Building QGIS from Source</a></li>
+                    </ul>
+                </p>
+                <p>{{ _('For download:') }}
+                    <ul>
+                        <li><a href="https://docs.qgis.org/3.10/pdf" target="_blank" >{{ _('PDF of the manuals') }}</a></li>
+                        <li><a href="https://docs.qgis.org/3.10/zip" target="_blank" >{{ _('HTML zip of the manuals') }}</a></li>
                     </ul>
                 </p>
             </div>
@@ -112,7 +135,7 @@
             <div class="span1"></div>
             <div class="offset1 span5">
                 <h3>{{ _('QGIS testing') }}</h3>
-                <p>{{ _("We are still updating (not translating yet) the documentation for releases newer than QGIS 3.10. We call this version 'QGIS testing' and the documentation can be found here: ") }} <a href="https://docs.qgis.org/testing" target="_blank" class="reference external">https://docs.qgis.org/testing</a></p>
+                <p>{{ _("We are still updating (not translating yet) the documentation for releases newer than QGIS 3.16. We call this version 'QGIS testing' and the documentation can be found here: ") }} <a href="https://docs.qgis.org/testing" target="_blank" class="reference external">https://docs.qgis.org/testing</a></p>
                 <p><a href="https://docs.qgis.org/testing/en/docs/user_manual" target="_blank" class="reference external">{{ _('Desktop User Guide/Manual') }}</a></p>
                 <p><a href="https://docs.qgis.org/testing/en/docs/server_manual" target="_blank" class="reference external">{{ _('Server Guide/Manual') }}</a></p>
                 <p><a href="https://docs.qgis.org/testing/en/docs/training_manual/" >{{ _('QGIS Training Manual') }}</a></p>
@@ -134,6 +157,7 @@
                 <h3>{{ _('Archived') }}</h3>
                 <p>{{ _('Links to documentation of older version of QGIS: ') }}</p>
                     <ul>
+                        <li><a href="https://docs.qgis.org/3.4/{{language}}" target="_blank" >{{ _('QGIS 3.4 Documentation') }}</a></li>
                         <li><a href="https://docs.qgis.org/2.18/{{language}}" target="_blank" >{{ _('QGIS 2.18 Documentation') }}</a></li>
                         <li><a href="https://docs.qgis.org/2.14/{{language}}" target="_blank" >{{ _('QGIS 2.14 Documentation') }}</a></li>
                         <li><a href="https://docs.qgis.org/2.8/{{language}}" target="_blank" >{{ _('QGIS 2.8 Documentation') }}</a></li>
