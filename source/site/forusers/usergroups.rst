@@ -54,6 +54,7 @@ Current list of QGIS user groups
 * `Asociación QGIS México - contact: Hennessy Amor Becerra Ayala <http://qgis.mx/>`_
 * `Komunitas Pengguna QGIS Indonesia - contact: Ismail Sunni <https://qgis-id.github.io/>`_
 * `QGIS Slovensko (Slovakia) - contact: Jana Michalkova <https://qgis.sk/>`_
+* `QGIS Ecuador (Ecuador) - contact: Adrián Benavides <http://www.qgis.ec/>`_
 
 Goals of a user group
 ---------------------
