@@ -3123,7 +3123,7 @@
    * - Jens Lundsgaard
      - Jens Schumacher
      - Jens Trasberger
-   * - Jens-Peter Stadie
+   * - Jens-peter Stadie
      - Jeremiah Knowles
      - Jeremiah Michael Kelly
    * - Jeremias Bauer
