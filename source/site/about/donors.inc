@@ -6907,368 +6907,371 @@
      - Valentin Stefan
      - Valentina Accoto
    * - Valentina Merola
+     - Valentino Pierantoni
      - Valeria Lecca
-     - Valeria Leticia Franco Salvi
-   * - Valeria Zusi
+   * - Valeria Leticia Franco Salvi
+     - Valeria Zusi
      - Valerie Lee
-     - Valerio Bisignanesi
-   * - Valerio Franchino
+   * - Valerio Bisignanesi
+     - Valerio Franchino
      - Valerio Giannoni
-     - Valérie Benedetti
-   * - Van Wyk De Vries
+   * - Valérie Benedetti
+     - Van Wyk De Vries
      - Vance Almquist
-     - Vance Cerasini
-   * - Vandome
+   * - Vance Cerasini
+     - Vandome
      - Vanessa Linforth
-     - Varina Delrieu
-   * - Varun Adibhatla
+   * - Varina Delrieu
+     - Varun Adibhatla
      - Varvara
-     - Vasily Gorborukov
-   * - Vasiu Adrian
+   * - Vasily Gorborukov
+     - Vasiu Adrian
      - Vedran Ibrulj
-     - Vegar Nordvold
-   * - Vellu Sorvari
+   * - Vegar Nordvold
+     - Vellu Sorvari
      - Velvet Kay
-     - Vera Roth
-   * - Verbandsgemeinde Schweich
+   * - Vera Roth
+     - Verbandsgemeinde Schweich
      - Verena Hafner-hofmann
-     - Verena Schmieg
-   * - Veronica Oliveros
+   * - Verena Schmieg
+     - Veronica Oliveros
      - Veronica Oliveros Clavijo
-     - Verónica Pérez Peña
-   * - ViaVegte
+   * - Verónica Pérez Peña
+     - ViaVegte
      - Vicente Cabrera
-     - Victor Araujo Pérez
-   * - Victor Bandaly
+   * - Victor Araujo Pérez
+     - Victor Bandaly
      - Victor Ideson
-     - Victor Mendez
-   * - Victor Rodriguez Araya
+   * - Victor Mendez
+     - Victor Rodriguez Araya
      - Victor Saldaña
-     - Victoria Cooper
-   * - Vidar Wennevik
+   * - Victoria Cooper
+     - Vidar Wennevik
      - Viero Alberto
-     - Vijiandran Rajah
-   * - Vikram D'mello
+   * - Vijiandran Rajah
+     - Vikram D'mello
      - Viktor Svanerud
-     - Vilém Petrunčík
-   * - Vincent Auvigne
+   * - Vilém Petrunčík
+     - Vincent Auvigne
      - Vincent Bernardin
-     - Vincent D'haese
-   * - Vincent Darles
+   * - Vincent D'haese
+     - Vincent Darles
      - Vincent Gibson
-     - Vincent Lagenebre
-   * - Vincent Mercier
+   * - Vincent Lagenebre
+     - Vincent Mercier
      - Vincent Morin
-     - Vincent Prioul
-   * - Vincent Tissier
+   * - Vincent Prioul
+     - Vincent Tissier
      - Vincent Toulier
-     - Vincent Verweij
-   * - Vincent Vicaire
+   * - Vincent Verweij
+     - Vincent Vicaire
      - Vincenzo Bufano
-     - Vincenzo Liguori
-   * - Vincenzo Lomurno
+   * - Vincenzo Liguori
+     - Vincenzo Lomurno
      - Vincenzo Mangrella
-     - Vincenzo Millucci
-   * - Vincenzo Principato
+   * - Vincenzo Millucci
+     - Vincenzo Principato
      - Vincenzo Sale
-     - Vincenzo Tartaglia
-   * - Vincenzo Trivigno
+   * - Vincenzo Tartaglia
+     - Vincenzo Trivigno
      - Vinicius Dulac
-     - Virtual Los Alamos
-   * - Vital J Pinheiro Jr J Pinheiro Jr
+   * - Virtual Los Alamos
+     - Vital J Pinheiro Jr J Pinheiro Jr
      - Vito Larini
-     - Vito Latorraca
-   * - Vito Lazzarotto
+   * - Vito Latorraca
+     - Vito Lazzarotto
      - Vitor Pereira
-     - Vittorio Dallaserra
-   * - Vittorio Dell'Aquila
+   * - Vittorio Dallaserra
+     - Vittorio Dell'Aquila
      - Vittorio Melli
-     - Vittorio Sessa
-   * - Vivek Thapa
+   * - Vittorio Sessa
+     - Vivek Thapa
      - Vizier Energy
-     - Vladimir
-   * - Vladimir Medev
+   * - Vladimir
+     - Vladimir Medev
      - Vladimir Mikik
-     - Vladimir Nikolic
-   * - Vladimir Vrabel
+   * - Vladimir Nikolic
+     - Vladimir Vrabel
      - Vojtech Myska
-     - Volker Kuhlmann
-   * - Volker Luetzenkirchen
+   * - Volker Kuhlmann
+     - Volker Luetzenkirchen
      - Volker Römer
-     - Von Bothmer
-   * - Voyages à Vélo
+   * - Von Bothmer
+     - Voyages à Vélo
      - Vrishal Mahajan
-     - Vu Trung Duc
-   * - Vuokko Heikinheimo
+   * - Vu Trung Duc
+     - Vuokko Heikinheimo
      - W Leslie Neilson
-     - W\. Verbruggen
-   * - Wagner Abreu
+   * - W\. Verbruggen
+     - Wagner Abreu
      - Wahyu Indrajaya
-     - Waleerat Suphannachart
-   * - Walter Dellisanti
+   * - Waleerat Suphannachart
+     - Walter Dellisanti
      - Walter di Lorenzetti (GIS3W)
-     - Walter Hesse
-   * - Walter Luis Turina
+   * - Walter Hesse
+     - Walter Luis Turina
      - Walter Mgina
-     - Walter Wider
-   * - Wam Wasser Abwasser Management Gmbh
+   * - Walter Wider
+     - Wam Wasser Abwasser Management Gmbh
      - Ward Alain
-     - Warm Arctic
-   * - Warren Vick
+   * - Warm Arctic
+     - Warren Vick
      - Wasin Bukaew
-     - Watervize
-   * - Waveware Technologies, Inc.
+   * - Watervize
+     - Waveware Technologies, Inc.
      - Wayne A Dye
-     - Wayne Brennan
-   * - Wayne Bulmer
+   * - Wayne Brennan
+     - Wayne Bulmer
      - Wayne Dye
-     - Wayne Ikebuchi
-   * - Wen Cheng
+   * - Wayne Ikebuchi
+     - Wen Cheng
      - Wendelin Schmitt
-     - Wendell Rodrigues Feliciano
-   * - Wenrong Cao
+   * - Wendell Rodrigues Feliciano
+     - Wenrong Cao
      - Werner Gollmitzer
-     - Werner Hentschel
-   * - Werner Macho
+   * - Werner Hentschel
+     - Werner Macho
      - Werner Nedon
-     - Werner Nienstedt
-   * - Werner Schmutz
+   * - Werner Nienstedt
+     - Werner Schmutz
      - Werner Westermann
-     - Wesley Malicieux
-   * - Wesley Pedriali Mussio
+   * - Wesley Malicieux
+     - Wesley Pedriali Mussio
      - Wesley Ward
-     - Whatif? Technologies
-   * - White Wood Management
+   * - Whatif? Technologies
+     - White Wood Management
      - Whitney Patterson
-     - Wiktor Zalewski
-   * - Wildfire Wanderning
+   * - Wiktor Zalewski
+     - Wildfire Wanderning
      - Wilfredo Díaz Lima
-     - Wilfredo Rubio
-   * - Wilfried Muszynski
+   * - Wilfredo Rubio
+     - Wilfried Muszynski
      - Wilker De Jesus Silva
-     - Will Dodge
-   * - Will Handley
+   * - Will Dodge
+     - Will Handley
      - Willem Buers
-     - William Amidon
-   * - William Carleton
+   * - William Amidon
+     - William Carleton
      - William Colson
-     - William D Wheaton
-   * - William D. O'Neil
+   * - William D Wheaton
+     - William D. O'Neil
      - William Davis
-     - William E Oliver
-   * - William Edison
+   * - William E Oliver
+     - William Edison
      - William Eggers
-     - William Elbel
-   * - William Fennie
+   * - William Elbel
+     - William Fennie
      - William Garcete Gimenez
-     - William Isenberger
-   * - William Jesdale
+   * - William Isenberger
+     - William Jesdale
      - William Kalb
-     - William Kelleher
-   * - William Levering
+   * - William Kelleher
+     - William Levering
      - William Lloyd
-     - William Mitchell
-   * - William Morgan
+   * - William Mitchell
+     - William Morgan
      - William N Ellery
-     - William Pallies
-   * - William R Elliott
+   * - William Pallies
+     - William R Elliott
      - William Schaefer
-     - William Tracy Lenocker
-   * - Willy Haefliger
+   * - William Tracy Lenocker
+     - Willy Haefliger
      - Willy Werlen
-     - Wilmer Rey Romero
-   * - Wilson Saldías Sáez
+   * - Wilmer Rey Romero
+     - Wilson Saldías Sáez
      - Win Myint Oo
-     - Winifred Frick
-   * - Winston B Hurst
+   * - Winifred Frick
+     - Winston B Hurst
      - Wirote Assawakulpaibul
-     - Witold Seweryn
-   * - Wojciech
+   * - Witold Seweryn
+     - Wojciech
      - Wojciech Brol
-     - Wojciech Głuch
-   * - Wojciech Pająk
+   * - Wojciech Głuch
+     - Wojciech Pająk
      - Wolfgang Dennhöfer
-     - Wolfgang Lahr
-   * - Wolfgang Neußer
+   * - Wolfgang Lahr
+     - Wolfgang Neußer
      - Wolfgang Scheffler
-     - Wolfgang Schindler
-   * - Wolfgang Stoessel
+   * - Wolfgang Schindler
+     - Wolfgang Stoessel
      - Wolfgang Straub
-     - Wolfgang Zuehlke
-   * - Wood Mackenzie Limited
+   * - Wolfgang Zuehlke
+     - Wood Mackenzie Limited
      - Woong-Beom Sung
-     - Wooseokhan
-   * - Wouter Beyen
+   * - Wooseokhan
+     - Wouter Beyen
      - Wti
-     - Xabier Albizu Zabala
-   * - Xavier Kaiser
+   * - Xabier Albizu Zabala
+     - Xavier Kaiser
      - Xavier Maurice
-     - Xavier Oviedo Coello
-   * - Xhaustless B V B A
+   * - Xavier Oviedo Coello
+     - Xhaustless B V B A
      - Xiaobing Yang
-     - Xiaofei Wu
-   * - Xiaotian Wang
+   * - Xiaofei Wu
+     - Xiaotian Wang
      - Xiaoxia Zhou
-     - Xin Hou
-   * - Xscapes, Arquitectura Paisagista, Lda
+   * - Xin Hou
+     - Xscapes, Arquitectura Paisagista, Lda
      - Xuejing Zuo
-     - Xuewen Zhang
-   * - Y Ogawa
+   * - Xuewen Zhang
+     - Y Ogawa
      - Y2Next
-     - Yadira Chavez
-   * - Yadok Biplang
+   * - Yadira Chavez
+     - Yadok Biplang
      - Yahya Mohatar Abderrahman
-     - Yaiza Iglesias González
-   * - Yamagishi Hiromitsu
+   * - Yaiza Iglesias González
+     - Yamagishi Hiromitsu
      - Yann Lepage
-     - Yapa Bandara
-   * - Yasmin
+   * - Yapa Bandara
+     - Yasmin
      - Yasunori Kirimoto
-     - Yeajun Chun
-   * - Yevhen Bolshov
+   * - Yeajun Chun
+     - Yevhen Bolshov
      - Yi Xiong
-     - Yichen Su
-   * - Yifeng Xu
+   * - Yichen Su
+     - Yifeng Xu
      - Yildirim Gözen
-     - Yingying Li
-   * - Yiran Li
+   * - Yingying Li
+     - Yiran Li
      - Yngve K. Frøyen
-     - Yngve Karl Frøyen
-   * - Yoichi Kayama
+   * - Yngve Karl Frøyen
+     - Yoichi Kayama
      - Yokoyama Taro
-     - Yolanda Cordero Nieves
-   * - Yombombe Madjitoloum Theophile
+   * - Yolanda Cordero Nieves
+     - Yombombe Madjitoloum Theophile
      - Yongchao Zhu
-     - Yorck Neumann
-   * - Yoshiki Hirabayashi
+   * - Yorck Neumann
+     - Yoshiki Hirabayashi
      - Yosu R Aldabe
-     - Yu Shu
-   * - Yu Xiao
+   * - Yu Shu
+     - Yu Xiao
      - Yu Zhang
-     - Yuan Harng Lee
-   * - Yuan-kee Lee
+   * - Yuan Harng Lee
+     - Yuan-kee Lee
      - Yujiao Li
-     - Yukio Teratoko
-   * - Yuluen Tsai
+   * - Yukio Teratoko
+     - Yuluen Tsai
      - Yuri Carrascal
-     - Yuriko Watanabe
-   * - Yuriy Nazarov
+   * - Yuriko Watanabe
+     - Yuriy Nazarov
      - Yvan Bussieres
-     - Yvan Cuijvers
-   * - Yven Dickhörner
+   * - Yvan Cuijvers
+     - Yven Dickhörner
      - Yves Bas
-     - Yves Bouthillier
-   * - Yves Diguet
+   * - Yves Bouthillier
+     - Yves Diguet
      - Yves Froissart
-     - Yves Jacolin
-   * - Yves Louagie
+   * - Yves Jacolin
+     - Yves Louagie
      - Yves Muller
-     - Yves Prairie
-   * - Yvonne Schneemann
+   * - Yves Prairie
+     - Yvonne Schneemann
      - za.miastem Sylwia Cichocińska
-     - Zachary Patterson
-   * - Zachary Pereyo
+   * - Zachary Patterson
+     - Zachary Pereyo
      - Zachary Rouse
-     - Zachary Rowe
-   * - Zahir Lazcano
+   * - Zachary Rowe
+     - Zahir Lazcano
      - Zailan Shariff
-     - Zainal Saridi
-   * - Zak Ratajczak
+   * - Zainal Saridi
+     - Zak Ratajczak
      - Zaki Matar
-     - Zander Van Der Walt
-   * - Zane
+   * - Zander Van Der Walt
+     - Zane
      - Zane Helwig
-     - Zant
-   * - Zaw Naing Tun
+   * - Zant
+     - Zaw Naing Tun
      - Zbych
-     - Zebra On Wheels
-   * - Zebra On Wheels Bv
+   * - Zebra On Wheels
+     - Zebra On Wheels Bv
      - Zeno Zengoni
-     - Zerone Consultancy Limited
-   * - Zhan Li
+   * - Zerone Consultancy Limited
+     - Zhan Li
      - Zhangjing
-     - Zheng Ki Yip
-   * - Zhiyuan Liu
+   * - Zheng Ki Yip
+     - Zhiyuan Liu
      - Zhongtian Li
-     - Zi Wang
-   * - Zivko Terzic
+   * - Zi Wang
+     - Zivko Terzic
      - Zohar
-     - Zoltan Sylvester
-   * - Zoltán Varsányi
+   * - Zoltan Sylvester
+     - Zoltán Varsányi
      - Zoran Janković
-     - Zoran Mihelcic
-   * - Zsolt Gal
+   * - Zoran Mihelcic
+     - Zsolt Gal
      - Zweli Moya
-     - Álex Álvarez Castellnou
-   * - Álvaro González Lorente
+   * - Álex Álvarez Castellnou
+     - Álvaro González Lorente
      - Ángel Hernández Díaz
-     - Ásmundur Eiríksson
-   * - Ângela Seixas
+   * - Ásmundur Eiríksson
+     - Ângela Seixas
      - Ângelo José Consoni
-     - Ömer Kamil Örücü
-   * - åsa Ahlmer
+   * - Ömer Kamil Örücü
+     - åsa Ahlmer
      - çağla Melisa Kaya
-     - Ģirts Veinbergs
-   * - Łukasz Polonius
+   * - Ģirts Veinbergs
+     - Łukasz Polonius
      - Žan Kuralt
-     - Αναστάσιος Πολύδωρος
-   * - Δημητριος Καλοδουκας
+   * - Αναστάσιος Πολύδωρος
+     - Δημητριος Καλοδουκας
      - Александр Анатольевич Пешков
-     - Александров Сергей
-   * - Бакеев Рустам
+   * - Александров Сергей
+     - Бакеев Рустам
      - Василий Виноградов
-     - Глазовский Андрей
-   * - Доценко Максим
+   * - Глазовский Андрей
+     - Доценко Максим
      - Ерфилова Ксения
-     - Иваненко Андрей
-   * - Ивлев ДМИТРИЙ
+   * - Иваненко Андрей
+     - Ивлев ДМИТРИЙ
      - Ивлев дМИТРИЙ
-     - Инна Ерошкина
-   * - Исимбаев Игорь
+   * - Инна Ерошкина
+     - Исимбаев Игорь
      - Коробейников Андрей
-     - Кравцов Сергей
-   * - Куркин Иван
+   * - Кравцов Сергей
+     - Куркин Иван
      - Литвяк Юрий
-     - Матвеев Александр
-   * - Миронов Михаил
+   * - Матвеев Александр
+     - Миронов Михаил
      - Паршин Александр
-     - Радашевский Василий
-   * - Слинкин Филипп
+   * - Радашевский Василий
+     - Слинкин Филипп
      - Терентьева Ирина
-     - Трифонова Евгения
-   * - Федулаев Сергей
+   * - Трифонова Евгения
+     - Федулаев Сергей
      - Царьков Иван
-     - אור עמיר
-   * - אלדד אלרון
+   * - אור עמיר
+     - אלדד אלרון
      - אריאל אבלין
-     - הלל אייל
-   * - חגית נול
+   * - הלל אייל
+     - חגית נול
      - เฉลิมศักดิ์ ผมพันธ์
-     - タハラヨシヒロ
-   * - ヤナギダサトシ「
+   * - タハラヨシヒロ
+     - ヤナギダサトシ「
      - 伍 维模
-     - 吉原 佑
-   * - 尾崎 嘉信
+   * - 吉原 佑
+     - 尾崎 嘉信
      - 川野 孝平
-     - 张 伟红
-   * - 後藤 晃
+   * - 张 伟红
+     - 後藤 晃
      - 徐 貞
-     - 李 克勤
-   * - 李 晨光
+   * - 李 克勤
+     - 李 晨光
      - 李 起伟
-     - 林 云
-   * - 柿原仁志
+   * - 林 云
+     - 柿原仁志
      - 江 秋蓉
-     - 熊 鴻嘉
-   * - 王 文超
+   * - 熊 鴻嘉
+     - 王 文超
      - 王继文
-     - 田 政
-   * - 田中 創平
+   * - 田 政
+     - 田中 創平
      - 翁瑞宏
-     - 謝 晉凡
-   * - 阎绮峰
+   * - 謝 晉凡
+     - 阎绮峰
      - 陈 莫源
-     - 陳 國威
-   * - 黄 艳
+   * - 陳 國威
+     - 黄 艳
      - 지윤 김
-     - 창엽 한
+   * - 창엽 한
+     -
+     -
