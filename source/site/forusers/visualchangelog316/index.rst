@@ -228,7 +228,9 @@ This feature also introduces the ability to remove or save these memory dataset 
 
 |image14|
 
-This feature was developed by `Vincent Cloarec <https://api.github.com/users/vcloarec>`__
+This feature was funded by `Artelia Group <https://www.arteliagroup.com/en>`__
+
+This feature was developed by `Lutra Consulting (Vincent Cloarec) <https://www.lutraconsulting.co.uk>`__
 
 Multi identify for mesh layer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -245,7 +247,9 @@ When the map canvas does not have temporal navigation enabled, the identify resu
 
 |image15|
 
-This feature was developed by `Vincent Cloarec <https://api.github.com/users/vcloarec>`__
+This feature was funded by `Artelia Group <https://www.arteliagroup.com/en>`__
+
+This feature was developed by `Lutra Consulting (Vincent Cloarec) <https://www.lutraconsulting.co.uk>`__
 
 Virtual dataset groups for mesh layer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -266,7 +270,9 @@ Virtual: purple
 
 |image17|
 
-This feature was developed by `Vincent Cloarec <https://api.github.com/users/vcloarec>`__
+This feature was funded by `Artelia Group <https://www.arteliagroup.com/en>`__
+
+This feature was developed by `Lutra Consulting (Vincent Cloarec) <https://www.lutraconsulting.co.uk>`__
 
 Add export to QgsMesh method
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
