@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 16:17+0200\n"
-"PO-Revision-Date: 2018-05-20 14:24+0000\n"
+"POT-Creation-Date: 2020-05-10 10:41+0200\n"
+"PO-Revision-Date: 2020-05-10 08:48+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
@@ -16,24 +16,48 @@ msgstr ""
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
-#: ../../source/site/getinvolved/governance/finance/index.rst:4
+#: ../../source/site/getinvolved/governance/finance/index.rst:5
 msgid "Finance"
 msgstr "Finansai"
 
-#: ../../source/site/getinvolved/governance/finance/index.rst:6
+#: ../../source/site/getinvolved/governance/finance/index.rst:7
 msgid ""
 "Please check the following reports, and see how your donations and "
 "sponsorships are important for the progress of the project."
 msgstr "Prašome peržiūrėti šias ataskaitas, iš kurių sužinosite, kokia svarbi jūsų parama projekto progresui."
 
-#: ../../source/site/getinvolved/governance/finance/index.rst:8
+#: ../../source/site/getinvolved/governance/finance/index.rst:9
 msgid ""
+":download:`Budget 2020 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-"
+"budgets/QGISBudget2020.pdf>`"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/finance/index.rst:10
+msgid ""
+":download:`Financial report 2019 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-financial-"
+"reports/PublicQGISfinancialreport2019.pdf>`, :download:`Financial auditing "
+"report 2019 (pdf) <../../../../static/site/getinvolved/governance/finance"
+"/annual-financial-reports/Financial-Auditing-Report_QGIS-ORG_2019.pdf>`, "
+":download:`Budget 2019 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-"
+"budgets/QGISBudget2019.pdf>`"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/finance/index.rst:11
+msgid ""
+":download:`Financial report 2018 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-financial-"
+"reports/PublicQGISfinancialreport2018.pdf>`, :download:`Financial auditing "
+"report 2018 (pdf) <../../../../static/site/getinvolved/governance/finance"
+"/annual-financial-reports/Financial-Auditing-Report_QGIS-ORG_2018.pdf>`, "
 ":download:`Budget 2018 (pdf) "
 "<../../../../static/site/getinvolved/governance/finance/annual-"
 "budgets/QGISBudget2018.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/finance/index.rst:9
+#: ../../source/site/getinvolved/governance/finance/index.rst:12
 msgid ""
 ":download:`Financial report 2017 (pdf) "
 "<../../../../static/site/getinvolved/governance/finance/annual-financial-"
@@ -45,7 +69,7 @@ msgid ""
 "budgets/QGISBudget2017.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/finance/index.rst:10
+#: ../../source/site/getinvolved/governance/finance/index.rst:13
 msgid ""
 ":download:`Financial report 2016 (pdf) "
 "<../../../../static/site/getinvolved/governance/finance/annual-financial-"
@@ -54,7 +78,7 @@ msgid ""
 "budgets/QGISBudget2016.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/finance/index.rst:11
+#: ../../source/site/getinvolved/governance/finance/index.rst:14
 msgid ""
 ":download:`Financial report 2015 (pdf) "
 "<../../../../static/site/getinvolved/governance/finance/annual-financial-"
@@ -63,7 +87,7 @@ msgid ""
 "budgets/QGISBudget2015.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/finance/index.rst:12
+#: ../../source/site/getinvolved/governance/finance/index.rst:15
 msgid ""
 ":download:`Financial report 2014 (pdf) "
 "<../../../../static/site/getinvolved/governance/finance/annual-financial-"
@@ -95,4 +119,16 @@ msgstr ""
 #~ ":download:`Budget 2017 (pdf) "
 #~ "<../../../../static/site/getinvolved/governance/finance/annual-"
 #~ "budgets/QGISBudget2017.pdf>`"
+#~ msgstr ""
+
+#~ msgid ""
+#~ ":download:`Budget 2018 (pdf) "
+#~ "<../../../../static/site/getinvolved/governance/finance/annual-"
+#~ "budgets/QGISBudget2018.pdf>`"
+#~ msgstr ""
+
+#~ msgid ""
+#~ ":download:`Budget 2019 (pdf) "
+#~ "<../../../../static/site/getinvolved/governance/finance/annual-"
+#~ "budgets/QGISBudget2019.pdf>`"
 #~ msgstr ""

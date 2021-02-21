@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2014-2016,2019
+# Sorin Călinică <scalinica@gmail.com>, 2014-2016,2019-2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2019-09-25 18:05+0000\n"
+"PO-Revision-Date: 2020-07-10 08:31+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -97,7 +97,7 @@ msgstr "Generalități"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:64
 msgid "Feature: Generate band name with NetCDF EXTRA\\_DIM"
-msgstr "Caracteristică: Generarea numelor pentru benzi folosind NetCDF EXTRA\\_DIM"
+msgstr "Funcționalitate: Generarea numelor pentru benzi folosind NetCDF EXTRA\\_DIM"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:66
 msgid ""
@@ -114,7 +114,7 @@ msgstr "|image1|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:76
 msgid "Feature: Applying scale and offset to raster data"
-msgstr "Caracteristică: Aplicarea unei scări și a unui decalaj asupra datelor raster"
+msgstr "Funcționalitate: Aplicarea unei scări și a unui decalaj asupra datelor raster"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:78
 msgid ""
@@ -130,7 +130,7 @@ msgstr "|image2|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:86
 msgid "Feature: Quick field field calc bar in attribute table"
-msgstr "Caracteristică: Bară pentru calcule rapide, în tabelul de atribute"
+msgstr "Funcționalitate: Bară pentru calcule rapide, în tabelul de atribute"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:88
 msgid ""
@@ -145,7 +145,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:95
 msgid "Feature: Colour preview modes in composer and map canvas"
-msgstr "Caracteristică: Previzualizarea culorilor în compozitor și pe suprafața hărții"
+msgstr "Funcționalitate: Previzualizarea culorilor în compozitor și pe suprafața hărții"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:97
 msgid ""
@@ -163,7 +163,7 @@ msgstr "|image4|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:107
 msgid "Feature: QLR QGIS Layer files"
-msgstr "Caracteristică: Fișiere QLR QGIS Layer"
+msgstr "Funcționalitate: Fișiere QLR QGIS Layer"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:109
 msgid ""
@@ -178,7 +178,7 @@ msgstr "S-a adăugat suport pentru fișiere QGIS Layer Definition sau pur și si
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:118
 msgid "Feature: New expression functions"
-msgstr "Caracteristică: Noi funcții pentru expresii"
+msgstr "Funcționalitate: Noi funcții pentru expresii"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:120
 msgid "We have some new functions available in the expression builder."
@@ -208,7 +208,7 @@ msgstr "|image5|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:131
 msgid "Feature: Copy, paste and drag and drop colours"
-msgstr "Caracteristică: Copy, paste și drag and drop pentru culori"
+msgstr "Funcționalitate: Copy, paste și drag and drop pentru culori"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:133
 msgid ""
@@ -225,7 +225,7 @@ msgstr "|image6|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:143
 msgid "Feature: Multi-threaded rendering"
-msgstr "Caracteristică: Randarea multifir"
+msgstr "Funcționalitate: Randarea multifir"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:145
 msgid ""
@@ -253,7 +253,7 @@ msgstr "Etichetarea"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:164
 msgid "Feature: Label features multiple times"
-msgstr "Caracteristică: Etichetarea multiplă a unei entități"
+msgstr "Funcționalitate: Etichetarea multiplă a unei entități"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:166
 msgid ""
@@ -273,7 +273,7 @@ msgstr "Compozitorul de Hărți"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:178
 msgid "Feature: Improvements to composer picture items"
-msgstr "Caracteristică: Îmbunătățiri aduse elementelor de imagine din compozitor"
+msgstr "Funcționalitate: Îmbunătățiri aduse elementelor de imagine din compozitor"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:180
 msgid ""
@@ -291,7 +291,7 @@ msgstr "|image9|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:190
 msgid "Feature: Predefined scales mode for atlas maps"
-msgstr "Caracteristică: Scări predefinite pentru atlasul cu hărți"
+msgstr "Funcționalitate: Scări predefinite pentru atlasul cu hărți"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:192
 msgid ""
@@ -308,7 +308,7 @@ msgstr "|image10|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:201
 msgid "Feature: Improved attribute tables in composer"
-msgstr "Caracteristică: Tabele de atribute îmbunătățite, în compozitor"
+msgstr "Funcționalitate: Tabele de atribute îmbunătățite, în compozitor"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:203
 msgid ""
@@ -340,7 +340,7 @@ msgstr "|image11|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:215
 msgid "Feature: General composer improvements"
-msgstr "Caracteristică: Îmbunătățiri generale aduse compozitorului"
+msgstr "Funcționalitate: Îmbunătățiri generale aduse compozitorului"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:217
 msgid ""
@@ -370,7 +370,7 @@ msgstr "|image12|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:228
 msgid "Feature: Improvements to HTML frames"
-msgstr "Caracteristică: Îmbunătățiri ale cadrelor HTML"
+msgstr "Funcționalitate: Îmbunătățiri ale cadrelor HTML"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:230
 msgid ""
@@ -391,7 +391,7 @@ msgstr "Plugin-uri"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:242
 msgid "Feature: MetaSearch Catalogue Client Plugin"
-msgstr "Caracteristică: MetaSearch Catalogue Client Plugin"
+msgstr "Funcționalitate: MetaSearch Catalogue Client Plugin"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:244
 msgid ""
@@ -412,7 +412,7 @@ msgstr "Simbologia"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:256
 msgid "Feature: Shapeburst fill style"
-msgstr "Caracteristică: Umplere de tip shapeburst"
+msgstr "Funcționalitate: Umplere de tip shapeburst"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:258
 msgid ""
@@ -430,7 +430,7 @@ msgstr "|image15|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:266
 msgid "Feature: Option to shift marker line placement"
-msgstr "Caracteristică: Opțiunea de decalare a plasamentului marcajelor de tip linie"
+msgstr "Funcționalitate: Opțiunea de decalare a plasamentului marcajelor de tip linie"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:268
 msgid ""
@@ -447,7 +447,7 @@ msgstr "|image16|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:277
 msgid "Feature: New Inverted Polygon renderer"
-msgstr "Caracteristică: Nou render, de tip Poligon Inversat"
+msgstr "Funcționalitate: Nou render, de tip Poligon Inversat"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:279
 msgid ""
@@ -462,7 +462,7 @@ msgid ""
 "**Note:** The new version of plugin mask helps to easily create mask layers "
 "from the current selection, label features only in those areas, and generate"
 " an automatic mask in Atlas map generation."
-msgstr "**Notă:** Noua versiune a plugin-ului vă ajută să creați cu ușurință straturi de măști din selecția curentă, să etichetați entități doar în acele zone, și să generați o mască automată în Atlas."
+msgstr "**Observație:** Noua versiune a plugin-ului vă ajută să creați cu ușurință straturi de măști din selecția curentă, să etichetați entități doar în acele zone, și să generați o mască automată în Atlas."
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:289
 msgid "|image17|"
@@ -470,7 +470,7 @@ msgstr "|image17|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:292
 msgid "Feature: Saving and recovering styles with Spatialite layers"
-msgstr "Caracteristică: Salvarea și recuperarea stilurilor, folosind straturile Spatialite"
+msgstr "Funcționalitate: Salvarea și recuperarea stilurilor, folosind straturile Spatialite"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:301
 msgid "|image18|"

@@ -2,13 +2,14 @@
 # Translators:
 # Luca M. <luca76@gmail.com>, 2014
 # Marco Grisolia <marco.grisolia5@gmail.com>, 2017
+# Valerio Pinna <pinnavalerio@yahoo.co.uk>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2020-03-16 09:20+0000\n"
-"Last-Translator: Luca M. <luca76@gmail.com>\n"
+"PO-Revision-Date: 2020-09-20 20:58+0000\n"
+"Last-Translator: Valerio Pinna <pinnavalerio@yahoo.co.uk>\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -495,7 +496,7 @@ msgid ""
 "their presentation. A video tutorial of this funcionality can be found here "
 "http://pvanb.wordpress.com/2014/05/15/saving-layer-styles-to-your-"
 "spatialite-database/"
-msgstr ""
+msgstr "Nelle versioni precedenti era possibile salvare lo stile con layer postgres, mentre ora sarà possibile anche con layer Spatialite. Queste funzioni permettono di incorporare diversi stili all'interno di un contenitore spatialite semplificando la condivisione dei dati e la loro presentazione. Un video tutorial di questa funzionalità può essere trovato qui http://pvanb.wordpress.com/2014/05/15/saving-layer-styles-to-your-spatialite-database/"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:4
 msgid "Changelog for QGIS 2.4"

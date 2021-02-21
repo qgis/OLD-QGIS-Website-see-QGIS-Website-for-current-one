@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-10 10:41+0200\n"
-"PO-Revision-Date: 2020-05-10 08:49+0000\n"
+"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"PO-Revision-Date: 2020-10-26 10:56+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -45,9 +45,9 @@ msgid ""
 "development is taking place. In the last month before a release, a feature "
 "freeze is invoked and the final month is used for testing, bugfixing, "
 "translation and release preparations. When the release happens, a branch "
-"with a even release number is created and the master branch advances to the "
-"next odd version. After the release a call for packaging is issued."
-msgstr "新規リリースは４ヶ月ごとに予定されています。最初の３ヶ月で新規開発が行われます。リリース前にあたる４ヶ月目は機能凍結の呼びかけとテスト、バグの修正、翻訳、リリースの準備に当てます。リリース時のブランチ番号は偶数とし、先行するマスターブランチは奇数があてられます。リリース後、次回のパッケージの応募が呼びかけられます。"
+"with an even release number is created and the master branch advances to the"
+" next odd version. After the release a call for packaging is issued."
+msgstr ""
 
 #: ../../source/site/getinvolved/development/roadmap.rst:22
 msgid ""
@@ -61,11 +61,11 @@ msgstr "開発段階"
 
 #: ../../source/site/getinvolved/development/roadmap.rst:28
 msgid ""
-"In the development phase developers work on adding new features for the next"
-" release. Early adopters can use the nightly builds we have for all major "
-"platforms to see the development progress, do preliminary testing and "
+"In the development phase, developers work on adding new features for the "
+"next release. Early adopters can use the nightly builds we have for all "
+"major platforms to see the development progress, do preliminary testing and "
 "provide bug reports and their thoughts to help with development."
-msgstr "開発者は、開発段階において次期リリースに向けた新機能の開発に取り組みます。アーリーアダプターは主要なプラットフォームをナイトリービルドで使うことができます。ここでは進捗状況の確認、予備試験、バグレポートの報告、開発の手助けするためのアイディアを提供などが可能です。"
+msgstr ""
 
 #: ../../source/site/getinvolved/development/roadmap.rst:34
 msgid "Feature freeze"
@@ -73,11 +73,11 @@ msgstr "機能凍結"
 
 #: ../../source/site/getinvolved/development/roadmap.rst:36
 msgid ""
-"In the feature freeze phase new features are not allowed in anymore and the "
-"focus of everyone moves from enhancing QGIS to stablizing it.  This also "
+"In the feature freeze phase, new features are not allowed in anymore and the"
+" focus of everyone moves from enhancing QGIS to stabilizing it.  This also "
 "turns the nightly builds effectively into :ref:`prereleases <QGIS-"
 "prereleases>`."
-msgstr "機能凍結段階では、新機能を入れることはもはや許可されず、皆の焦点はQGISを強化することから安定させることに移動します。これはまた、ナイトリービルドを効果的に  :ref:`プレリリース <QGIS-prereleases>` に変えます。"
+msgstr ""
 
 #: ../../source/site/getinvolved/development/roadmap.rst:40
 msgid ""
@@ -92,25 +92,25 @@ msgstr "**ユーザー** は問題がないことを確認するために自分�
 
 #: ../../source/site/getinvolved/development/roadmap.rst:49
 msgid ""
-"In the feature freeze **developers** monitor the bugtracker and start "
+"In the feature freeze, **developers** monitor the bugtracker and start "
 "working on fixing the reported issues and update the **visual changelog** "
 "with the features they added."
-msgstr "機能凍結が実施されると **開発者** はバグトラッカーを監視して報告された問題の修正作業を開始し、追加した機能で ** visual changelog** を更新します。"
+msgstr ""
 
 #: ../../source/site/getinvolved/development/roadmap.rst:53
 msgid ""
-"With the begin of the feature freeze the translation files will be updated "
+"With the start of the feature freeze, the translation files will be updated "
 "so that **translators** can start their work. Note that this might be an "
 "incremental process as although the features are frozen, bug fixes might "
 "still introduce translation string changes."
-msgstr "翻訳者が作業を開始できるよう、機能凍結後翻訳ファイルが更新されます。ただしこれは暫定的なものであり、バグの修正が翻訳ファイルに追加される可能性があることに注意してください。"
+msgstr ""
 
 #: ../../source/site/getinvolved/development/roadmap.rst:58
 msgid ""
-"Two weeks before the release a hard freeze is initiated, after which only "
+"Two weeks before the release, a hard freeze is initiated after which only "
 "fixes to severe problems and regressions introduced after the feature freeze"
 " are allowed in."
-msgstr "リリースの2週間前にハード凍結が開始され、その後は機能凍結の後に導入された深刻な問題と回帰のみが修正されます。"
+msgstr ""
 
 #: ../../source/site/getinvolved/development/roadmap.rst:62
 msgid "The release manager announces this on feature freeze."
@@ -122,10 +122,10 @@ msgstr "リリース"
 
 #: ../../source/site/getinvolved/development/roadmap.rst:67
 msgid ""
-"On major and minor release dates the release branch is created and the "
+"On major and minor release dates, the release branch is created and the "
 "release is tagged and tar balls are prepared.  Point releases are just "
 "tagged and tar balls are created."
-msgstr "メジャーリリース日とマイナーリリース日に、リリースブランチが作成され、リリースにタグが付けられ、ターボールが準備されます。ポイントリリースはただタグ付けされ、ターボールが作成されます。"
+msgstr ""
 
 #: ../../source/site/getinvolved/development/roadmap.rst:71
 msgid "The packagers are notified that packaging can begin."
@@ -162,26 +162,20 @@ msgstr "バックポートがある場合、最新のリリースブランチと
 
 #: ../../source/site/getinvolved/development/roadmap.rst:92
 msgid ""
-"In the first four month after it's release a new LTR is also the current LR."
-" In this phase the new LTR doesn't replace the previous LTR in the LTR "
+"In the first four months after its release, a new LTR is also the current "
+"LR. In this phase, the new LTR doesn't replace the previous LTR in the LTR "
 "repositories.  This happens as soon as a new LR is released."
-msgstr "リリース後の最初の4ヶ月は、新しいLTRはその時点におけるLRとなります。このフェーズではLTRリポジトリ内の前期のLTRが新規のLTRに置き換わることはありませんが、次のLRがリリースされると前期のLTRは新規のLTRに書き換えられます。"
+msgstr ""
 
 #: ../../source/site/getinvolved/development/roadmap.rst:96
-msgid ""
-"The 2.18 release will replace the 2.14 release as LTR, but not replace 2.14 "
-"in the LTR package repositories before 3.0 is released."
-msgstr "2.18のリリースでは、LTRとして2.14のリリースを置き換えますが、3.0がリリースされる前に、LTRのパッケージリポジトリの2.14を置き換わることはありません。"
-
-#: ../../source/site/getinvolved/development/roadmap.rst:99
 msgid "This schedule is also available as `\"iCalendar\" </schedule.ics>`_."
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:101
+#: ../../source/site/getinvolved/development/roadmap.rst:98
 msgid "Schedule:"
 msgstr "スケジュール:"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:108
+#: ../../source/site/getinvolved/development/roadmap.rst:105
 #: ../../source/site/getinvolved/development/schedule.inc:4
 msgid "Event"
 msgstr "イベント"
@@ -257,7 +251,7 @@ msgstr "43"
 msgid "4"
 msgstr "4"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:116
+#: ../../source/site/getinvolved/development/roadmap.rst:113
 #: ../../source/site/getinvolved/development/schedule.inc:8
 msgid "EPR"
 msgstr "EPR"
@@ -274,7 +268,7 @@ msgstr "2018年11月02日"
 msgid "44"
 msgstr "44"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:115
+#: ../../source/site/getinvolved/development/roadmap.rst:112
 #: ../../source/site/getinvolved/development/schedule.inc:9
 #: ../../source/site/getinvolved/development/schedule.inc:10
 #: ../../source/site/getinvolved/development/schedule.inc:13
@@ -498,7 +492,7 @@ msgstr "2019-08-16"
 msgid "33"
 msgstr "33"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:112
+#: ../../source/site/getinvolved/development/roadmap.rst:109
 #: ../../source/site/getinvolved/development/schedule.inc:19
 msgid "FF"
 msgstr "FF"
@@ -536,7 +530,7 @@ msgstr "2019-09-13"
 msgid "37"
 msgstr "37"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:113
+#: ../../source/site/getinvolved/development/roadmap.rst:110
 #: ../../source/site/getinvolved/development/schedule.inc:21
 msgid "HF"
 msgstr "HF"
@@ -676,12 +670,12 @@ msgid "3.10.8"
 msgstr "3.10.8"
 
 #: ../../source/site/getinvolved/development/schedule.inc:30
-msgid "2020-07-17"
-msgstr "2020-07-17"
+msgid "2020-07-19"
+msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:31
-msgid "3.14.2"
-msgstr "3.14.2"
+msgid "3.14.15"
+msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:31
 msgid "3.10.9"
@@ -692,8 +686,8 @@ msgid "2020-08-14"
 msgstr "2020-08-14"
 
 #: ../../source/site/getinvolved/development/schedule.inc:32
-msgid "3.14.3"
-msgstr "3.14.3"
+msgid "3.14.16"
+msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:32
 msgid "3.10.10"
@@ -771,96 +765,87 @@ msgstr "3.16.4"
 msgid "2021-02-19"
 msgstr "2021-02-19"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:105
+#: ../../source/site/getinvolved/development/roadmap.rst:102
 msgid "Event legend:"
 msgstr "イベント凡例："
 
-#: ../../source/site/getinvolved/development/roadmap.rst:108
+#: ../../source/site/getinvolved/development/roadmap.rst:105
 msgid "Description"
 msgstr "説明"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:110
+#: ../../source/site/getinvolved/development/roadmap.rst:107
 msgid "LTR"
 msgstr "LTR"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:110
+#: ../../source/site/getinvolved/development/roadmap.rst:107
 msgid "Long term release, begin of new development phase"
 msgstr "長期リリース、新規開発フェーズの開始"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:111
+#: ../../source/site/getinvolved/development/roadmap.rst:108
 msgid "LR"
 msgstr "LR"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:111
+#: ../../source/site/getinvolved/development/roadmap.rst:108
 msgid "Regular release, begin of new development phase"
 msgstr "定期リリース、新規開発フェーズの開始"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:112
+#: ../../source/site/getinvolved/development/roadmap.rst:109
 msgid "Feature freeze, end of development phase"
 msgstr "機能凍結、開発フェーズの終了"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:113
+#: ../../source/site/getinvolved/development/roadmap.rst:110
 msgid "hard freeze"
 msgstr "強い凍結"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:114
+#: ../../source/site/getinvolved/development/roadmap.rst:111
 msgid "SF"
 msgstr "SF"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:114
+#: ../../source/site/getinvolved/development/roadmap.rst:111
 msgid "Soft freeze with bi-monthly vote"
 msgstr "2カ月間の投票でソフト凍結"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:115
+#: ../../source/site/getinvolved/development/roadmap.rst:112
 msgid "Point release of latest release and LTR branch"
 msgstr "最新版のリリースとLTRブランチのポイントリリース"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:116
+#: ../../source/site/getinvolved/development/roadmap.rst:113
 msgid "Extra Point release"
 msgstr "追加のポイントリリース"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:123
+#: ../../source/site/getinvolved/development/roadmap.rst:120
 msgid "Location of prereleases / nightly builds"
 msgstr "プレリリースの場所/ナイトリービルド"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:126
+#: ../../source/site/getinvolved/development/roadmap.rst:123
 msgid "Platform"
 msgstr "プラットフォーム"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:126
+#: ../../source/site/getinvolved/development/roadmap.rst:123
 msgid "Location"
 msgstr "ロケーション"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:128
+#: ../../source/site/getinvolved/development/roadmap.rst:125
 msgid "Windows"
 msgstr "Windows"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:128
-msgid ""
-":ref:`Weekly release candidate <QGIS-windows-weekly>` (standalone installer)"
-msgstr ":ref:`週リリース候補 <QGIS-windows-weekly>` (スタンドアロンインストーラ)"
-
-#: ../../source/site/getinvolved/development/roadmap.rst:129
-msgid "\\"
-msgstr "\\"
-
-#: ../../source/site/getinvolved/development/roadmap.rst:129
+#: ../../source/site/getinvolved/development/roadmap.rst:125
 msgid ":ref:`OSGeo4W <QGIS-windows-testing>`"
 msgstr ":ref:`OSGeo4W <QGIS-windows-testing>`"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:130
+#: ../../source/site/getinvolved/development/roadmap.rst:126
 msgid "Linux"
 msgstr "Linux"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:130
+#: ../../source/site/getinvolved/development/roadmap.rst:126
 msgid ":ref:`Debian/Ubuntu <QGIS-debian-testing>`"
 msgstr ":ref:`Debian/Ubuntu <QGIS-debian-testing>`"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:131
+#: ../../source/site/getinvolved/development/roadmap.rst:127
 msgid "MacOS"
 msgstr "MacOS"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:131
+#: ../../source/site/getinvolved/development/roadmap.rst:127
 msgid ":ref:`Mac OS <QGIS-macos-testing>`"
 msgstr ":ref:`Mac OS <QGIS-macos-testing>`"
 
@@ -1139,4 +1124,82 @@ msgstr ":ref:`Mac OS <QGIS-macos-testing>`"
 #~ msgstr ""
 
 #~ msgid "3.10.15"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A new release will happen every four months. In the first three months, new "
+#~ "development is taking place. In the last month before a release, a feature "
+#~ "freeze is invoked and the final month is used for testing, bugfixing, "
+#~ "translation and release preparations. When the release happens, a branch "
+#~ "with a even release number is created and the master branch advances to the "
+#~ "next odd version. After the release a call for packaging is issued."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the development phase developers work on adding new features for the next"
+#~ " release. Early adopters can use the nightly builds we have for all major "
+#~ "platforms to see the development progress, do preliminary testing and "
+#~ "provide bug reports and their thoughts to help with development."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the feature freeze phase new features are not allowed in anymore and the "
+#~ "focus of everyone moves from enhancing QGIS to stablizing it.  This also "
+#~ "turns the nightly builds effectively into :ref:`prereleases <QGIS-"
+#~ "prereleases>`."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the feature freeze **developers** monitor the bugtracker and start "
+#~ "working on fixing the reported issues and update the **visual changelog** "
+#~ "with the features they added."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "With the begin of the feature freeze the translation files will be updated "
+#~ "so that **translators** can start their work. Note that this might be an "
+#~ "incremental process as although the features are frozen, bug fixes might "
+#~ "still introduce translation string changes."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Two weeks before the release a hard freeze is initiated, after which only "
+#~ "fixes to severe problems and regressions introduced after the feature freeze"
+#~ " are allowed in."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "On major and minor release dates the release branch is created and the "
+#~ "release is tagged and tar balls are prepared.  Point releases are just "
+#~ "tagged and tar balls are created."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the first four month after it's release a new LTR is also the current LR."
+#~ " In this phase the new LTR doesn't replace the previous LTR in the LTR "
+#~ "repositories.  This happens as soon as a new LR is released."
+#~ msgstr ""
+
+#~ msgid "3.14.2"
+#~ msgstr ""
+
+#~ msgid "3.14.3"
+#~ msgstr ""
+
+#~ msgid ""
+#~ ":ref:`Weekly release candidate <QGIS-windows-weekly>` (standalone installer)"
+#~ msgstr ""
+
+#~ msgid "\\"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The 2.18 release will replace the 2.14 release as LTR, but not replace 2.14 "
+#~ "in the LTR package repositories before 3.0 is released."
+#~ msgstr ""
+
+#~ msgid "2020-07-17"
+#~ msgstr ""
+
+#~ msgid "3.14.159"
 #~ msgstr ""

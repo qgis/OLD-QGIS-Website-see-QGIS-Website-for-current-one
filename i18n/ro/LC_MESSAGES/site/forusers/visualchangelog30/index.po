@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2020
+# Sorin Călinică <scalinica@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 20:36+0100\n"
 "PO-Revision-Date: 2018-05-20 14:28+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2020\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2020\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -88,16 +88,16 @@ msgid ""
 "complete list of current sponsors is provided below - our very great thank "
 "you to all of our sponsors!"
 msgstr ""
-"QGIS este susținut din donații și sponsorizări. Listă curentă a donatorilor "
-"care au efectuat contribuții financiare mari și mici la proiect poate fi "
+"QGIS este susținut din donații și sponsorizări. Listă curentă a celor care "
+"au efectuat contribuții financiare mari și mici la proiect poate fi "
 "consultată `aici <https://qgis.org/en/site/about/sponsorship.html#list-of-"
 "donors>`__. Dacă doriți să deveniți un sponsor oficial al proiectului, vă "
 "rugăm să vizitați `pagina sponsorizărilor "
 "<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ pentru "
 "detalii. Sponsorizările QGIS ne ajută să finanțăm întâlnirea dezvoltatorilor"
 " o dată la șase luni, să menținem infrastructura proiectului și să finanțăm "
-"eforturile de eliminare a erorilor. Lista completă a sponsorilor actuali "
-"este prezentată în continuare - mulțumirile noastre tuturor sponsorilor!"
+"eforturile de eliminare a erorilor. În continuare este prezentată lista "
+"completă a sponsorilor actuali - acestora le transmitem mulțumirile noastre!"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:19
 msgid ""
@@ -618,7 +618,7 @@ msgstr "Generalități"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:256
 msgid "Feature: Remove zonal stats plugin"
-msgstr "Caracteristică: S-a eliminat plugin-ul de statistici zonale"
+msgstr "Funcționalitate: S-a eliminat plugin-ul de statistici zonale"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:258
 msgid ""
@@ -630,7 +630,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:263
 msgid "Feature: Remove dxf2shp converter plugin"
-msgstr "Caracteristică: S-a eliminat plugin-ul de conversie dxf2shp"
+msgstr "Funcționalitate: S-a eliminat plugin-ul de conversie dxf2shp"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:265
 msgid ""
@@ -642,11 +642,12 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:269
 msgid "Feature: Remove orphaned oracle raster plugin"
-msgstr "Caracteristică: S-a eliminat plugin-ul orfan Oracle Raster"
+msgstr "Funcționalitate: S-a eliminat plugin-ul orfan Oracle Raster"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:273
 msgid "Feature: remove TauDEM provider from core Processing"
-msgstr "Caracteristică: S-a eliminat furnizorul TauDEM din nucleul Processing"
+msgstr ""
+"Funcționalitate: S-a eliminat furnizorul TauDEM din nucleul Processing"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:275
 msgid ""
@@ -664,7 +665,7 @@ msgid ""
 "Feature: More help and possibility to configure location of the QGIS help "
 "files"
 msgstr ""
-"Caracteristică: Mai multe indicații și posibilitatea de configurare a "
+"Funcționalitate: Mai multe indicații și posibilitatea de configurare a "
 "locației fișierelor de ajutor QGIS"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:283
@@ -1277,7 +1278,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:520
 msgid "Feature: New expression functions"
-msgstr "Caracteristică: Noi funcții pentru expresii"
+msgstr "Funcționalitate: Noi funcții pentru expresii"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:522
 msgid "**Atlas expressions**"
@@ -2340,6 +2341,9 @@ msgid ""
 "(http://satelligence.com/), Bird's Eye View "
 "(https://www.birdseyeviewgis.com/), other anonymous backers"
 msgstr ""
+"Această funcționalitate a fost finanțată de Stéphane Henriod, Satelligence "
+"(http://satelligence.com/), Bird's Eye View "
+"(https://www.birdseyeviewgis.com/), alți susținători anonimi"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:906
 #: ../../source/site/forusers/visualchangelog30/index.rst:1423
@@ -2411,7 +2415,7 @@ msgstr "Diagrame"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:940
 msgid "Feature: Data definable properties"
-msgstr "Caracteristică: Proprietăți definibile cu ajutorul datelor"
+msgstr "Funcționalitate: Proprietăți definibile cu ajutorul datelor"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:942
 msgid "Add support for more data definable properties to diagrams:"
@@ -2476,7 +2480,7 @@ msgstr "|image84|"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:967
 msgid "This feature was developed by Kartoza & North Road"
-msgstr ""
+msgstr "Această funcționalitate a fost dezvoltată de Kartoza & North Road"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:970
 msgid ""
@@ -2620,6 +2624,8 @@ msgstr "|image87|"
 #: ../../source/site/forusers/visualchangelog30/index.rst:1030
 msgid "This feature was developed by Alexander Lisovenko / Paul Blottiere"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de Alexander Lisovenko / Paul "
+"Blottiere"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1034
 msgid "Feature: Move feature now benefits from Advanced Digitizing"
@@ -2990,7 +2996,7 @@ msgstr "Formulare și Controale grafice"
 #: ../../source/site/forusers/visualchangelog30/index.rst:1215
 msgid "Feature: Allow controlling labels for individual edit widgets"
 msgstr ""
-"Caracteristică: Este permis controlul etichetelor pentru controale grafice "
+"Funcționalitate: Este permis controlul etichetelor pentru controale grafice "
 "de editare"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1217
@@ -3330,10 +3336,11 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:1432
 msgid "http://imhere-asia.com/blog/post/qgis-raster-layer-unique-values-count"
 msgstr ""
+"http://imhere-asia.com/blog/post/qgis-raster-layer-unique-values-count"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1434
 msgid "This feature was developed by http://imhere-asia.com/"
-msgstr ""
+msgstr "Această funcționalitate a fost dezvoltată de http://imhere-asia.com/"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1438
 msgid "Processing"
@@ -4258,11 +4265,13 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:2112
 msgid "This feature was funded by QGIS.ORG Donors"
 msgstr ""
+"Această funcționalitate a fost finanțată din donațiile către proiectul "
+"QGIS.org"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2116
 msgid "Feature: Possibility to segmentize feature info geometry in server"
 msgstr ""
-"Caracteristică: Posibilitate de fragmentare a informațiilor geometrice "
+"Funcționalitate: Posibilitate de fragmentare a informațiilor geometrice "
 "obținute de la server despre entități"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2118
@@ -4299,7 +4308,7 @@ msgstr "Plugin-uri"
 #: ../../source/site/forusers/visualchangelog30/index.rst:2131
 msgid "Feature: Remove trusted status from Plugin Manager"
 msgstr ""
-"Caracteristică: S-a eliminat statusul trusted din Managerul de Plugin-uri"
+"Funcționalitate: S-a eliminat statusul trusted din Managerul de Plugin-uri"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2133
 msgid "https://github.com/qgis/QGIS/pull/5272"
@@ -4308,8 +4317,8 @@ msgstr "https://github.com/qgis/QGIS/pull/5272"
 #: ../../source/site/forusers/visualchangelog30/index.rst:2137
 msgid "Feature: Offline editing: Add flag to only copy selected features"
 msgstr ""
-"Caracteristică: Editare offline: S-a adăugat un fanion dedicat copierii doar"
-" a entităților selectate"
+"Funcționalitate: Editare offline: S-a adăugat un fanion dedicat copierii "
+"doar a entităților selectate"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2139
 msgid ""
@@ -4482,7 +4491,7 @@ msgstr "Această funcționalitate a fost dezvoltată de Matthias, Nyall și alț
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2224
 msgid "Feature: Task manager"
-msgstr "Caracteristică: Manager de activități"
+msgstr "Funcționalitate: Manager de activități"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2226
 msgid ""

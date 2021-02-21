@@ -4,13 +4,13 @@
 # 
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2016
-# Sorin Călinică <scalinica@gmail.com>, 2016,2019
+# Sorin Călinică <scalinica@gmail.com>, 2016,2019-2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-11 18:41+0200\n"
-"PO-Revision-Date: 2019-09-25 17:39+0000\n"
+"PO-Revision-Date: 2020-07-10 08:55+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -117,7 +117,7 @@ msgid ""
 "meetings, maintain project infrastructure and fund bug fixing efforts. A "
 "complete list of current sponsors is provided below - our very great thank "
 "you to all of our sponsors!"
-msgstr "QGIS este susținut din donații și sponsorizări. Listă curentă a donatorilor care au efectuat contribuții financiare mari și mici la proiect poate fi consultată `aici <https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__. Dacă doriți să deveniți un sponsor oficial al proiectului, vă rugăm să vizitați `pagina sponsorizărilor <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ pentru detalii. Sponsorizările QGIS ne ajută să finanțăm întâlnirea dezvoltatorilor o dată la șase luni, să menținem infrastructura proiectului și să finanțăm eforturile de eliminare a erorilor. Lista completă a sponsorilor actuali este prezentată în continuare - mulțumirile noastre tuturor sponsorilor!"
+msgstr "QGIS este susținut din donații și sponsorizări. Listă curentă a celor care au efectuat contribuții financiare mari și mici la proiect poate fi consultată `aici <https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__. Dacă doriți să deveniți un sponsor oficial al proiectului, vă rugăm să vizitați `pagina sponsorizărilor <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ pentru detalii. Sponsorizările QGIS ne ajută să finanțăm întâlnirea dezvoltatorilor o dată la șase luni, să menținem infrastructura proiectului și să finanțăm eforturile de eliminare a erorilor. În continuare este prezentată lista completă a sponsorilor actuali - acestora le transmitem mulțumirile noastre!"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:74
 msgid ""
@@ -415,7 +415,7 @@ msgstr "Generalități"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:307
 msgid "Feature: Changed behaviour of strpos function"
-msgstr "Caracteristică: Comportament schimbat al funcției strpos"
+msgstr "Funcționalitate: Comportament schimbat al funcției strpos"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:310
 msgid ""
@@ -443,7 +443,7 @@ msgstr "Această funcționalitate a fost dezvoltată de Jürgen Fischer"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:324
 msgid "Feature: Zoom to feature with right-click in attribute table"
-msgstr "Caracteristică: Transfocare la nivelul entității, cu ajutorul unui clic dreapta în tabelul de atribute"
+msgstr "Funcționalitate: Transfocare la nivelul entității, cu ajutorul unui clic dreapta în tabelul de atribute"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:327
 msgid ""
@@ -457,7 +457,7 @@ msgstr "|image48|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:334
 msgid "Feature: Speed and memory improvements"
-msgstr "Caracteristică: Îmbunătățiri aduse vitezei și memoriei"
+msgstr "Funcționalitate: Îmbunătățiri aduse vitezei și memoriei"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:337
 msgid ""
@@ -505,7 +505,7 @@ msgstr "**Reducere semnificativă a memoriei** necesară pentru deschiderea stra
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:355
 msgid "Feature: More expression variables"
-msgstr "Caracteristică: Mai multe variabile în cadrul expresiilor"
+msgstr "Funcționalitate: Mai multe variabile în cadrul expresiilor"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:358
 msgid "During rendering, new variables will be available:"
@@ -585,7 +585,7 @@ msgstr "Această funcționalitate a fost dezvoltată de Nyall Dawson, Matthias K
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:392
 msgid "Feature: Better control over placement of map elements"
-msgstr "Caracteristică: Mai mult control asupra plasamentului elementelor de hartă"
+msgstr "Funcționalitate: Mai mult control asupra plasamentului elementelor de hartă"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:395
 msgid ""
@@ -601,7 +601,7 @@ msgstr "|image50|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:403
 msgid "Feature: Paid bugfixing programme"
-msgstr "Caracteristică: Program de plată pentru eliminarea erorilor"
+msgstr "Funcționalitate: Program de plată pentru eliminarea erorilor"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:406
 msgid ""
@@ -1094,7 +1094,7 @@ msgstr "Jürgen Fischer: s-a remediat setarea căii SAGA"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:587
 msgid "Feature: Field calculator can be used to update feature's geometry"
-msgstr "Caracteristică: Calculatorul de câmpuri poate fi folosit pentru a actualiza geometria entității"
+msgstr "Funcționalitate: Calculatorul de câmpuri poate fi folosit pentru a actualiza geometria entității"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:590
 msgid ""
@@ -1131,7 +1131,7 @@ msgstr "Această funcționalitate a fost dezvoltată de: `Nyall Dawson  <http://
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:601
 msgid "Feature: New expression functions in 2.14"
-msgstr "Caracteristică: Noi funcții pentru expresii în 2.14"
+msgstr "Funcționalitate: Noi funcții pentru expresii în 2.14"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:604
 msgid "Lots of new expression functions have been added for version 2.14:"
@@ -1269,7 +1269,7 @@ msgstr "Instrumentele de analiză"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:661
 msgid "Feature: More statistics available in merge attributes tool"
-msgstr "Caracteristică: Mai multe statistici disponibile în instrumentul de îmbinare a atributelor"
+msgstr "Funcționalitate: Mai multe statistici disponibile în instrumentul de îmbinare a atributelor"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:664
 msgid ""
@@ -1285,7 +1285,7 @@ msgstr "|image27|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:675
 msgid "Feature: z/m values are shown when using the identify tool"
-msgstr "Caracteristică: Valorile z/m sunt afișate atunci când se utilizează instrumentul de identificare"
+msgstr "Funcționalitate: Valorile z/m sunt afișate atunci când se utilizează instrumentul de identificare"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:678
 msgid ""
@@ -1303,7 +1303,7 @@ msgstr "|image28|"
 #: ../../source/site/forusers/visualchangelog214/index.rst:689
 msgid ""
 "Feature: Unified handling of distance and area units and coordinate formats"
-msgstr "Caracteristică: Manipulare centralizată a unităților de distanță și de suprafață, și a formatelor pentru coordonate"
+msgstr "Funcționalitate: Manipulare centralizată a unităților de distanță și de suprafață, și a formatelor pentru coordonate"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:692
 msgid ""
@@ -1359,7 +1359,7 @@ msgstr "Navigatorul"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:721
 msgid "Feature: Browser Improvements"
-msgstr "Caracteristică: Îmbunătățiri aduse Navigatorului"
+msgstr "Funcționalitate: Îmbunătățiri aduse Navigatorului"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:724
 msgid ""
@@ -1397,7 +1397,7 @@ msgstr "Furnizorii de Date"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:743
 msgid "Feature: Cache WMS capabililies"
-msgstr "Caracteristică: Capabilităţi de păstrare în memoria tampon a cererilor WMS"
+msgstr "Funcționalitate: Capabilităţi de păstrare în memoria tampon a cererilor WMS"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:746
 msgid ""
@@ -1413,7 +1413,7 @@ msgstr "|image31|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:756
 msgid "Feature: Curved geometry support expanded"
-msgstr "Caracteristică: S-a extins suportul pentru geometria curbată"
+msgstr "Funcționalitate: S-a extins suportul pentru geometria curbată"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:759
 msgid ""
@@ -1430,7 +1430,7 @@ msgstr "|image32|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:770
 msgid "Feature: Better handling of time and datetime fields"
-msgstr "Caracteristică: Gestiune îmbunătățită pentru câmpurile de tipurile time și datetime"
+msgstr "Funcționalitate: Gestiune îmbunătățită pentru câmpurile de tipurile time și datetime"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:773
 msgid ""
@@ -1473,7 +1473,7 @@ msgstr "Această funcționalitate a fost dezvoltată de Jürgen Fischer, Nyall D
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:790
 msgid "Feature: Z/M support in delimited text provider"
-msgstr "Caracteristică: Suport Z/M în furnizorul de text delimitat"
+msgstr "Funcționalitate: Suport Z/M în furnizorul de text delimitat"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:793
 msgid ""
@@ -1488,7 +1488,7 @@ msgstr "|image34|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:802
 msgid "Feature: Transaction groups for postgres editing"
-msgstr "Caracteristică: Grupuri de tranzacții pentru editarea Postgres: "
+msgstr "Funcționalitate: Grupuri de tranzacții pentru editarea Postgres: "
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:805
 msgid "A new option has been introduced to enable transactional editing."
@@ -1553,7 +1553,7 @@ msgstr "Această funcționalitate a fost dezvoltată de `Matthias Kuhn, OPENGIS.
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:834
 msgid "Feature: Postgres provider PKI authentication"
-msgstr "Caracteristică: Autentificare PKI pentru furnizorul Postgres"
+msgstr "Funcționalitate: Autentificare PKI pentru furnizorul Postgres"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:837
 msgid ""
@@ -1578,7 +1578,7 @@ msgstr "Această funcționalitate a fost dezvoltată de Luigi Pirelli"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:850
 msgid "Feature: Virtual layers"
-msgstr "Caracteristică: Straturi virtuale"
+msgstr "Funcționalitate: Straturi virtuale"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:853
 msgid ""
@@ -1631,7 +1631,7 @@ msgstr "Această funcționalitate a fost dezvoltată de `Hugo Mercier / Oslandia
 #: ../../source/site/forusers/visualchangelog214/index.rst:881
 msgid ""
 "Feature: More file extensions for GDAL and OGR providers file selectors"
-msgstr "Caracteristică: Mai multe extensii de fișiere pentru furnizorii selectorilor de fișiere  GDAL și OGR"
+msgstr "Funcționalitate: Mai multe extensii de fișiere pentru furnizorii selectorilor de fișiere  GDAL și OGR"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:884
 msgid ""
@@ -1770,7 +1770,7 @@ msgstr "Această funcționalitate a fost dezvoltată de `Médéric Ribreux <http
 msgid ""
 "Feature: Use ST\\_RemoveRepeatedPoints for server-side simplification with "
 "PostGIS 2.2 (or newer) layers"
-msgstr "Caracteristică: Utilizarea ST\\_RemoveRepeatedPoints pentru simplificarea, pe parte de server, a straturilor PostGIS 2.2 (sau mai noi)"
+msgstr "Funcționalitate: Utilizarea ST\\_RemoveRepeatedPoints pentru simplificarea, pe parte de server, a straturilor PostGIS 2.2 (sau mai noi)"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:933
 msgid ""
@@ -1803,7 +1803,7 @@ msgstr "Gestiunea datelor"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:951
 msgid "Feature: Removal of SPIT plugin"
-msgstr "Caracteristică: Eliminarea plugin-ului SPIT"
+msgstr "Funcționalitate: Eliminarea plugin-ului SPIT"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:954
 msgid ""
@@ -1820,7 +1820,7 @@ msgstr "|image40|"
 msgid ""
 "Feature: DXF export: option to use title instead of name as DXF layer name "
 "in application and server"
-msgstr "Caracteristică: Exportul DXF: opțiunea de a utiliza titlul în loc de nume, ca denumire a stratului DXF în aplicație și server"
+msgstr "Funcționalitate: Exportul DXF: opțiunea de a utiliza titlul în loc de nume, ca denumire a stratului DXF în aplicație și server"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:966
 msgid "|image41|"
@@ -1832,7 +1832,7 @@ msgstr "Această funcționalitate a fost finanțată de `City of Uster <http://g
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:973
 msgid "Feature: Geometry type can be overridden in the vector save as dialog"
-msgstr "Caracteristică: Tipul de geometrie poate fi suprascris în dialogul de salvare a vectorului"
+msgstr "Funcționalitate: Tipul de geometrie poate fi suprascris în dialogul de salvare a vectorului"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:976
 msgid ""
@@ -1854,11 +1854,11 @@ msgstr "|image42|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:989
 msgid "Feature: Vector joins are now saved within QLR layer-definition-files"
-msgstr "Caracteristică: Joncțiunile vectoriale sunt de acum salvate în interiorul fișierului QLR, cu definițiile stratului"
+msgstr "Funcționalitate: Joncțiunile vectoriale sunt de acum salvate în interiorul fișierului QLR, cu definițiile stratului"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:993
 msgid "Feature: External Resource widget"
-msgstr "Caracteristică: Controlul grafic al Resurselor Externe"
+msgstr "Funcționalitate: Controlul grafic al Resurselor Externe"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:996
 msgid ""
@@ -1962,7 +1962,7 @@ msgstr "|image43|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1051
 msgid "Feature: N:M relation editing"
-msgstr "Caracteristică: Editarea relației N:M"
+msgstr "Funcționalitate: Editarea relației N:M"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1054
 msgid ""
@@ -2026,7 +2026,7 @@ msgstr "Digitizarea"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1087
 msgid "Feature: Configurable rubber band color"
-msgstr "Caracteristică: Culoare configurabilă pentru banda elastică"
+msgstr "Funcționalitate: Culoare configurabilă pentru banda elastică"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1090
 msgid "You can now set the rubber band width and color used for digitising."
@@ -2038,7 +2038,7 @@ msgstr "|image45|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1095
 msgid "Feature: Trace digitising tool"
-msgstr "Caracteristică: Instrument de digitizare prin urmărire"
+msgstr "Funcționalitate: Instrument de digitizare prin urmărire"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1098
 msgid ""
@@ -2104,7 +2104,7 @@ msgstr "Etichetarea"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1131
 msgid "Feature: \"Cartographic\" placement mode for point labels"
-msgstr "Caracteristică: Mod de poziționare \"cartografică\" pentru etichetele punctelor"
+msgstr "Funcționalitate: Mod de poziționare \"cartografică\" pentru etichetele punctelor"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1134
 msgid ""
@@ -2170,7 +2170,7 @@ msgstr "Această facilitate a fost finanțată de Andreas Neumann"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1162
 msgid "Feature: Applying label distance from symbol bounds"
-msgstr "Caracteristică: Aplicarea distanței etichetei față de limitele simbolurilor"
+msgstr "Funcționalitate: Aplicarea distanței etichetei față de limitele simbolurilor"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1165
 msgid ""
@@ -2192,7 +2192,7 @@ msgstr "|image54|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1181
 msgid "Feature: Control over label rendering order"
-msgstr "Caracteristică: Controlul ordinii de randare a etichetelor"
+msgstr "Funcționalitate: Controlul ordinii de randare a etichetelor"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1184
 msgid ""
@@ -2242,7 +2242,7 @@ msgstr "|image55|"
 msgid ""
 "Feature: Actual rendered symbol is now considered as an obstacle for point "
 "feature labels"
-msgstr "Caracteristică: Simbolulul de randare actual este de acum considerat drept un obstacol pentru etichetele entităților de tip punct"
+msgstr "Funcționalitate: Simbolulul de randare actual este de acum considerat drept un obstacol pentru etichetele entităților de tip punct"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1214
 msgid ""
@@ -2275,7 +2275,7 @@ msgstr "Legenda Stratului"
 msgid ""
 "Feature: Paste a style to multiple selected layers or to all layers in a "
 "legend group"
-msgstr "Caracteristică: Se poate aplica un stil mai multor straturi selectate, sau tuturor straturilor din legenda grupului"
+msgstr "Funcționalitate: Se poate aplica un stil mai multor straturi selectate, sau tuturor straturilor din legenda grupului"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1237
 msgid ""
@@ -2293,7 +2293,7 @@ msgstr "Această funcționalitate a fost dezvoltată de Salvatore Larosa"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1245
 msgid "Feature: Filter legend by expression"
-msgstr "Caracteristică: Filtrarea legendei după o expresie"
+msgstr "Funcționalitate: Filtrarea legendei după o expresie"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1248
 msgid ""
@@ -2324,7 +2324,7 @@ msgstr "Compozitorul de Hărți"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1267
 msgid "Feature: New options for filtering legend elements"
-msgstr "Caracteristică: Noi opțiuni pentru filtrarea elementelor de legendă"
+msgstr "Funcționalitate: Noi opțiuni pentru filtrarea elementelor de legendă"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1270
 msgid "This introduces two new options to filter legend elements."
@@ -2355,7 +2355,7 @@ msgstr "Această funcționalitate a fost dezvoltată de `Hugo Mercier (Oslandia)
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1285
 msgid "Feature: Additional paths for composer templates"
-msgstr "Caracteristică: Căi suplimentare pentru șabloanele compozitorului"
+msgstr "Funcționalitate: Căi suplimentare pentru șabloanele compozitorului"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1288
 msgid ""
@@ -2372,7 +2372,7 @@ msgstr "|image60|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1300
 msgid "Feature: Multiple selection of compositions in manager"
-msgstr "Caracteristică: Selecție multiplă a compozițiilor din manager"
+msgstr "Funcționalitate: Selecție multiplă a compozițiilor din manager"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1303
 msgid ""
@@ -2391,7 +2391,7 @@ msgstr "Plugin-uri"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1316
 msgid "Feature: Authentication system support for plugin manager"
-msgstr "Caracteristică: Sistem de autentificare pentru managerul de plugin-uri"
+msgstr "Funcționalitate: Sistem de autentificare pentru managerul de plugin-uri"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1319
 msgid ""
@@ -2421,7 +2421,7 @@ msgstr "Procesare"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1336
 msgid "Feature: New algorithms in 2.14"
-msgstr "Caracteristică: Noi algoritmi în 2.14"
+msgstr "Funcționalitate: Noi algoritmi în 2.14"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1340
 msgid "QGIS geoalgorithms:"
@@ -2450,7 +2450,7 @@ msgstr "gdal\\_retile: reface un set de plăcuțe și/sau construiește niveluri
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1354
 msgid "Feature: Unit Tests Q/A"
-msgstr "Caracteristică: Asigurarea Calității pentru Testele de Unitate"
+msgstr "Funcționalitate: Asigurarea Calității pentru Testele de Unitate"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1357
 msgid ""
@@ -2491,7 +2491,7 @@ msgstr "Această funcționalitate a fost dezvoltată de `Matthias Kuhn, OPENGIS.
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1377
 msgid "Feature: Improved toolbox"
-msgstr "Caracteristică:  Îmbunătățiri aduse barei de instrumente"
+msgstr "Funcționalitate:  Îmbunătățiri aduse barei de instrumente"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1380
 msgid ""
@@ -2518,7 +2518,7 @@ msgstr "Această funcționalitate a fost dezvoltată de Víctor Olaya"
 msgid ""
 "Feature: Batch processes can be saved and later recovered from the batch "
 "processing interface"
-msgstr "Caracteristică: Procesarea loturilor se poate salva, deschizându-se, ulterior, cu ajutorul interfeței de prelucrare a loturilor"
+msgstr "Funcționalitate: Procesarea loturilor se poate salva, deschizându-se, ulterior, cu ajutorul interfeței de prelucrare a loturilor"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1396
 msgid "|image65|"
@@ -2526,7 +2526,7 @@ msgstr "|image65|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1399
 msgid "Feature: More informative algorithm dialog"
-msgstr "Caracteristică: Dialogul algoritmilor conține mai multe informații"
+msgstr "Funcționalitate: Dialogul algoritmilor conține mai multe informații"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1402
 msgid ""
@@ -2546,7 +2546,7 @@ msgstr "|image66|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1411
 msgid "Feature: GRASS7 v.net modules"
-msgstr "Caracteristică: Module v.net GRASS7"
+msgstr "Funcționalitate: Module v.net GRASS7"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1414
 msgid ""
@@ -2711,7 +2711,7 @@ msgstr "Programabilitatea"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1491
 msgid "Feature: Redesign expression function editor"
-msgstr "Caracteristică: S-a reproiectat editorul de expresii"
+msgstr "Funcționalitate: S-a reproiectat editorul de expresii"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1494
 msgid "With auto save"
@@ -2723,7 +2723,7 @@ msgstr "|image68|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1499
 msgid "Feature: Store python init code into the project"
-msgstr "Caracteristică: Stocarea în proiect a codului init Python"
+msgstr "Funcționalitate: Stocarea în proiect a codului init Python"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1502
 msgid ""
@@ -2737,7 +2737,7 @@ msgstr "|image69|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1508
 msgid "Feature: New filtering and sorting options for QgsFeatureRequest"
-msgstr "Caracteristică: Noi opțiuni de sortare și filtrare pentru QgsFeatureRequest"
+msgstr "Funcționalitate: Noi opțiuni de sortare și filtrare pentru QgsFeatureRequest"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1511
 msgid ""
@@ -2760,7 +2760,7 @@ msgstr "|image70|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1524
 msgid "Feature: Custom feature form Python code options"
-msgstr "Caracteristică: Opțiuni pentru codul Python din formularele personalizabile"
+msgstr "Funcționalitate: Opțiuni pentru codul Python din formularele personalizabile"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1527
 msgid "This feature adds more options to the custom feature form Python code:"
@@ -2803,7 +2803,7 @@ msgstr "Această funcționalitate a fost dezvoltată de `Alessandro Pasotti (ItO
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1546
 msgid "Feature: New PyQGIS classes in 2.14"
-msgstr "Caracteristică: Noi clase PyQGIS în 2.14"
+msgstr "Funcționalitate: Noi clase PyQGIS în 2.14"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1550
 msgid "New core classes"
@@ -2992,7 +2992,7 @@ msgstr "Serverul QGIS"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1622
 msgid "Feature: STARTINDEX param in WFS GetFeature Request"
-msgstr "Caracteristică: Parametrul STARTINDEX în cererea WMS GetFeature"
+msgstr "Funcționalitate: Parametrul STARTINDEX în cererea WMS GetFeature"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1625
 msgid ""
@@ -3018,7 +3018,7 @@ msgstr "Această funcționalitate a fost dezvoltată de `3Liz <http://3liz.com>`
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1636
 msgid "Feature: showFeatureCount in GetLegendGraphic"
-msgstr "Caracteristică: showFeatureCount în GetLegendGraphic"
+msgstr "Funcționalitate: showFeatureCount în GetLegendGraphic"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1639
 msgid ""
@@ -3036,7 +3036,7 @@ msgstr "|image72|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1650
 msgid "Feature: Option to avoid rendering artefacts at edges of tiles"
-msgstr "Caracteristică: Opțiune de evitare a randării artefactelor, la marginile plăcuțelor"
+msgstr "Funcționalitate: Opțiune de evitare a randării artefactelor, la marginile plăcuțelor"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1653
 msgid "|image73|"
@@ -3044,7 +3044,7 @@ msgstr "|image73|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1656
 msgid "Feature: Configuration checker in project properties"
-msgstr "Caracteristică: Verificator de configurare, în Proprietățile Proiectului"
+msgstr "Funcționalitate: Verificator de configurare, în Proprietățile Proiectului"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1659
 msgid ""
@@ -3079,7 +3079,7 @@ msgstr "Această funcționalitate a fost finanțată de `Ifremer <http://wwz.ifr
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1676
 msgid "Feature: WMS INSPIRE Capabilities"
-msgstr "Caracteristică: Capabilităţi WMS INSPIRE"
+msgstr "Funcționalitate: Capabilităţi WMS INSPIRE"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1679
 msgid "In the project properties the user can:"
@@ -3109,7 +3109,7 @@ msgstr "|image75|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1693
 msgid "Feature: Add short name to layers, groups and project"
-msgstr "Caracteristică: Adăugarea unor nume scurte pentru straturi, grupuri și proiecte"
+msgstr "Funcționalitate: Adăugarea unor nume scurte pentru straturi, grupuri și proiecte"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1696
 msgid ""
@@ -3172,7 +3172,7 @@ msgstr "Simbologie"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1728
 msgid "Feature: Size assistant for varying line width"
-msgstr "Caracteristică: Asistent pentru ajustarea lățimii liniei"
+msgstr "Funcționalitate: Asistent pentru ajustarea lățimii liniei"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1731
 msgid "|image77|"
@@ -3180,7 +3180,7 @@ msgstr "|image77|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1734
 msgid "Feature: Support for transparency in SVG color parameters"
-msgstr "Caracteristică: Suport pentru transparență în parametrii de culoare SVG"
+msgstr "Funcționalitate: Suport pentru transparență în parametrii de culoare SVG"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1737
 msgid "Non-bundled SVGs must add:"
@@ -3204,7 +3204,7 @@ msgstr "pentru activarea transparenței."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1750
 msgid "Feature: Easy duplication of symbol layers"
-msgstr "Caracteristică: Duplicarea facilă a straturilor pentru simboluri"
+msgstr "Funcționalitate: Duplicarea facilă a straturilor pentru simboluri"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1753
 msgid ""
@@ -3218,7 +3218,7 @@ msgstr "|image78|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1761
 msgid "Feature: 2.5D Renderer"
-msgstr "Caracteristică: Render 2.5D"
+msgstr "Funcționalitate: Render 2.5D"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1764
 msgid ""
@@ -3267,7 +3267,7 @@ msgstr "|image79|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1790
 msgid "Feature: Allow definition of rendering order for features"
-msgstr "Caracteristică: Este permisă definirea ordinii de randare a entităților"
+msgstr "Funcționalitate: Este permisă definirea ordinii de randare a entităților"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1793
 msgid ""
@@ -3318,7 +3318,7 @@ msgstr "|image80|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1826
 msgid "Feature: Geometry generator symbols"
-msgstr "Caracteristică: Simboluri pentru generatorul de geometrie"
+msgstr "Funcționalitate: Simboluri pentru generatorul de geometrie"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1829
 msgid ""
@@ -3379,7 +3379,7 @@ msgstr "Interfața cu Utilizatorul"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1875
 msgid "Feature: Attribute table can be refreshed"
-msgstr "Caracteristică: Tabela de atribute poate fi actualizată"
+msgstr "Funcționalitate: Tabela de atribute poate fi actualizată"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1878
 msgid ""
@@ -3394,7 +3394,7 @@ msgstr "|image82|"
 msgid ""
 "Feature: Directly set renderer and class symbol colors from context menu in "
 "legend"
-msgstr "Caracteristică: Setarea directă a renderului și a clasei de culori pentru simbol, din meniul contextual al legendei,"
+msgstr "Funcționalitate: Setarea directă a renderului și a clasei de culori pentru simbol, din meniul contextual al legendei,"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1887
 msgid ""
@@ -3408,7 +3408,7 @@ msgstr "|image83|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1896
 msgid "Feature: Edit legend symbols directly from layer tree"
-msgstr "Caracteristică: Editarea simbolurilor legendei direct din arborele straturilor"
+msgstr "Funcționalitate: Editarea simbolurilor legendei direct din arborele straturilor"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1899
 msgid ""
@@ -3426,7 +3426,7 @@ msgstr "|image84|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1911
 msgid "Feature: Show/hide all legend items via the context menu"
-msgstr "Caracteristică: Afișarea/ascunderea tuturor elementelor din legendă, prin intermediul meniului contextual"
+msgstr "Funcționalitate: Afișarea/ascunderea tuturor elementelor din legendă, prin intermediul meniului contextual"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1914
 msgid ""

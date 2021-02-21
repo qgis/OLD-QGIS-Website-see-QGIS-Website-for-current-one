@@ -12,6 +12,7 @@
 # Lorena da Silva Tenorio <lorenast1@hotmail.com>, 2019
 # Jürgen E. Fischer <jef@norbit.de>, 2020
 # Dêmian Francisco Neto Castro Pereira <demian.castro.13@gmail.com>, 2020
+# Aline Furlanetto Viero <afviero@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -20,7 +21,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-11 18:41+0200\n"
 "PO-Revision-Date: 2016-07-17 11:59+0000\n"
-"Last-Translator: Dêmian Francisco Neto Castro Pereira <demian.castro.13@gmail.com>, 2020\n"
+"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>, 2020\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -114,6 +115,12 @@ msgid ""
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
 msgstr ""
+"Nós gostaríamos de agradecer aos desenvolvedores, aos responsáveis pela "
+"documentação e pelos testes e a todos que doaram seu tempo e esforço (ou "
+"financiaram pessoas para fazer isso). Da comunidade QGIS nós esperamos que "
+"você goste deste lançamento! Se você desejar doar seu tempo, dinheiro ou se "
+"envolver para fazer o QGIS ainda mais incrível, por favor dê uma olhada em "
+"`qgis.org <https://qgis.org>`__ e dê uma mão!"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:47
 msgid ""
@@ -128,6 +135,18 @@ msgid ""
 "complete list of current sponsors is provided below - our very great thank "
 "you to all of our sponsors!"
 msgstr ""
+"O QGIS é apoiado por doadores e patrocinadores. Uma lista atual de doadores "
+"que contribuíram com grandes e pequenas contribuições financeiras para o "
+"projeto pode ser encontrada em nossa `lista de doadores "
+"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__. Se você"
+" desejar se tornar um patrocinador oficial do projeto, por favor visite "
+"`nossa página de patrocínio "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ para mais "
+"detalhes. O patrocínio ao QGIS nos ajuda a financiar nossas seis reuniões de"
+" desenvolvedores mensais, a manter a infraestrutura do projeto e financiar "
+"correções de erros. Uma lista completa de nossos atuais patrocinadores é "
+"fornecida abaixo - nosso enorme muito obrigado a todos os nossos "
+"patrocinadores!"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:56
 msgid ""
@@ -948,6 +967,10 @@ msgid ""
 "this button is clicked, the content of the cell is copied in the clipboard, "
 "whatever the kind of widget."
 msgstr ""
+"Um novo item de menu de contexto chamado ``Copiar conteúdo da célula`` agora"
+" está disponível no menu aberto com o botão direito do mouse em uma célula "
+"na tabela de atributos. Quando esse botão é clicado, o conteúdo da célula é "
+"copiado na área de transferência, independentemente do tipo de widget."
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:512
 msgid "|image47|"
@@ -955,7 +978,7 @@ msgstr "|image47|"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:517
 msgid "Feature: Improved HiDPI support"
-msgstr ""
+msgstr "Recurso: Suporte aprimorado ao HiDPI"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:519
 msgid ""
@@ -963,6 +986,10 @@ msgid ""
 "been done to upgrade icons to rely on SVG images. As of QGIS 2.16, all "
 "toolbars are now HiDPI-compatible."
 msgstr ""
+"Os usuários da tela HiDPI perceberão uma interface de usuário aprimorada à "
+"medida que mais trabalho for feito para atualizar ícones de imagens SVG. A "
+"partir do QGIS 2.16, todas as barras de ferramentas agora são compatíveis "
+"com HiDPI"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:523
 msgid "|image48|"
@@ -1582,6 +1609,8 @@ msgid ""
 "Distance (default algorithm, and the only option available in previous QGIS "
 "releases)"
 msgstr ""
+"Distância (algoritmo padrão e a única opção disponível em versões anteriores"
+" do QGIS)"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:805
 msgid "SnapToGrid"
@@ -1634,13 +1663,15 @@ msgstr "Esta funcionalidade foi desenvolvida por Piers Titus van der Torren"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:831
 msgid "Feature: Live hillshade renderer"
-msgstr ""
+msgstr "Recurso: Renderizador de sombreamento ao vivo"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:833
 msgid ""
 "QGIS 2.16 has a new raster renderer that will dynamically create a hillshade"
 " model from a Digital Elevation Model."
 msgstr ""
+"O QGIS 2.16 possui um novo renderizador raster que criará dinamicamente um "
+"modelo de relevo sombreado a partir de um Modelo Digital de Elevação."
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:836
 msgid "|image68|"
@@ -2129,6 +2160,9 @@ msgid ""
 "This feature was funded by `the QWAT project <https://github.com/qwat>`__ "
 "and the `Canton of Zug, Switzerland <http://geo.zg.ch/>`__"
 msgstr ""
+"Este recurso foi financiado por `the QWAT project "
+"<https://github.com/qwat>`__ e `Canton of Zug, Switzerland "
+"<http://geo.zg.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1050
 msgid ""
@@ -2136,6 +2170,9 @@ msgid ""
 "<http://www.opengis.ch>`__ and `Paul Blottiere (Oslandia) "
 "<http://oslandia.com/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Matthias Kuhn (OPENGIS.ch) "
+"<http://www.opengis.ch>`__ e `Paul Blottiere (Oslandia) "
+"<http://oslandia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1054
 msgid "Feature: Edit attributes of multiple features simultaneously"
@@ -2178,6 +2215,8 @@ msgstr "|image82|"
 msgid ""
 "This feature was funded by `Kanton Basel Stadt <http://www.geo.bs.ch/>`__"
 msgstr ""
+"Este recurso foi financiado por `Kanton Basel Stadt "
+"<http://www.geo.bs.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1078
 msgid "Layer Legend"
@@ -2586,6 +2625,8 @@ msgid ""
 "PostGIS related algorithms now use QGIS authentication manager to get "
 "credentials for PostGIS database."
 msgstr ""
+"Algoritmos relacionados ao PostGIS agora usam o gerente de autenticação QGIS"
+" para obter credenciais para o banco de dados PostGIS."
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1349
 msgid ""
@@ -2955,7 +2996,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1551
 msgid "This feature was funded by Canton of Solothurn"
-msgstr ""
+msgstr "Este recurso foi financiado por Canton of Solothurn"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1553
 msgid ""
@@ -3006,7 +3047,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1571
 msgid "Migration to new geometry kernel"
-msgstr ""
+msgstr "Migração para novo kernel de geometria"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1572
 msgid "Support for multiple background layers"
@@ -3042,11 +3083,13 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1593
 msgid "Feature: API: Add pages to vector layer properties"
-msgstr ""
+msgstr "Feição: API: Inclui páginas às propriedades da camada vetorial"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1595
 msgid "Allow adding additional pages to the vector layer properties dialog."
 msgstr ""
+"Permite a inclusão de páginas adicionais ao diálogo das propriedades da "
+"camada vetorial."
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1597
 msgid ""
@@ -3064,7 +3107,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1607
 msgid "This feature was funded by Master Thesis UZH"
-msgstr ""
+msgstr "Este recurso foi financiado por Master Thesis UZH"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1612
 msgid "Feature: Globe: Vertical exaggeration for DTM"
@@ -3268,6 +3311,10 @@ msgid ""
 "marker symbol layer, consisting of a shape which is rendered using a "
 "QgsFillSymbolV2"
 msgstr ""
+"`QgsFilledMarkerSymbolLayer "
+"<https://qgis.org/api/classQgsFilledMarkerSymbolLayer.html>`__ - camada de "
+"símbolo marcador preenchido, que consiste de uma forma que é renderizada "
+"usando um QgsFillSymbolV2"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1697
 msgid "New GUI classes"
@@ -3611,6 +3658,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1813
 msgid "Fix cannot set shortcut for zoom in (#14958 - normal)"
 msgstr ""
+"A correção não pode definir atalho para aumento do zoom (#14958 - normal)"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1814
 msgid ""
@@ -3958,7 +4006,7 @@ msgstr "startup.py é executado duas vezes"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1922
 msgid "UX fixes:"
-msgstr ""
+msgstr "Correções UX:"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1924
 msgid "Attribute table: always show sequential column header numbers"

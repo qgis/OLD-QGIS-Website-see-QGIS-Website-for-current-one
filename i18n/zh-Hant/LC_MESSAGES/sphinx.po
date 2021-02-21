@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-10 10:41+0200\n"
-"PO-Revision-Date: 2020-05-10 08:52+0000\n"
+"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"PO-Revision-Date: 2020-10-26 10:59+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Chinese Traditional (http://www.transifex.com/qgis/qgis-website/language/zh-Hant/)\n"
 "MIME-Version: 1.0\n"
@@ -18,6 +18,203 @@ msgstr ""
 "Generated-By: Babel 2.5.1\n"
 "Language: zh-Hant\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../themes/qgis-theme/forusers_index.html:7
+msgid "Get Started Using QGIS"
+msgstr "開始使用 QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:9
+msgid "Step 1: Download QGIS"
+msgstr "第一步：下載 QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:11
+msgid "Step 2: Check our documentation"
+msgstr "第二步：檢視說明文件"
+
+#: ../../themes/qgis-theme/forusers_index.html:13
+msgid "Step 3: Connect with the QGIS community"
+msgstr "第三步：與 QGIS 社群連結"
+
+#: ../../themes/qgis-theme/forusers_index.html:27
+#: ../../themes/qgis-theme/page.html:139
+msgid "For Users"
+msgstr "供使用者"
+
+#: ../../themes/qgis-theme/forusers_index.html:32
+msgid "Download"
+msgstr "下載"
+
+#: ../../themes/qgis-theme/forusers_index.html:35
+#: ../../themes/qgis-theme/forusers_index.html:88
+#: ../../themes/qgis-theme/page.html:141
+msgid "Documentation"
+msgstr "說明文件"
+
+#: ../../themes/qgis-theme/forusers_index.html:38
+msgid "QGIS Plugins"
+msgstr "QGIS 外掛程式"
+
+#: ../../themes/qgis-theme/forusers_index.html:41
+#: ../../themes/qgis-theme/forusers_index.html:128
+msgid "Getting Help"
+msgstr "取得幫助"
+
+#: ../../themes/qgis-theme/forusers_index.html:44
+msgid "In the Press"
+msgstr "媒體報導"
+
+#: ../../themes/qgis-theme/about_index.html:38
+#: ../../themes/qgis-theme/about_index.html:133
+#: ../../themes/qgis-theme/forusers_index.html:47
+#: ../../themes/qgis-theme/forusers_index.html:139
+msgid "Commercial Support"
+msgstr "商業支援"
+
+#: ../../themes/qgis-theme/forusers_index.html:60
+msgid "Download QGIS"
+msgstr "下載 QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:62
+msgid "for your operating system."
+msgstr "給您的作業系統。"
+
+#: ../../themes/qgis-theme/forusers_index.html:65
+msgid "Get the installer"
+msgstr "取得安裝檔"
+
+#: ../../themes/qgis-theme/forusers_index.html:68
+msgid "Check out our roadmap for future versions: "
+msgstr "看看我們未來版本的藍圖："
+
+#: ../../themes/qgis-theme/forusers_index.html:68
+#: ../../themes/qgis-theme/getinvolved_index.html:156
+msgid "QGIS roadmap"
+msgstr "QGIS 藍圖"
+
+#: ../../themes/qgis-theme/forusers_index.html:72
+msgid "See the latest features in the visual changelogs"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:91
+msgid "Our main documentation is the"
+msgstr "我們主要的說明文件是"
+
+#: ../../themes/qgis-theme/forusers_index.html:92
+msgid "QGIS user guide"
+msgstr "QGIS 使用者指南"
+
+#: ../../themes/qgis-theme/forusers_index.html:94
+msgid "We also provide step by step tutorials in the"
+msgstr "我們也提供一步一步的操作教學"
+
+#: ../../themes/qgis-theme/forusers_index.html:95
+msgid "Training manual"
+msgstr "訓練教材"
+
+#: ../../themes/qgis-theme/forusers_index.html:97
+msgid "External parties also provide"
+msgstr "外部團體也提供"
+
+#: ../../themes/qgis-theme/forusers_index.html:98
+msgid "QGIS tutorials"
+msgstr "QGIS 教學"
+
+#: ../../themes/qgis-theme/forusers_index.html:104
+msgid "QGIS Publications"
+msgstr "QGIS 出版品"
+
+#: ../../themes/qgis-theme/forusers_index.html:106
+msgid "Read what the QGIS community is doing around the world"
+msgstr "閱讀 QGIS 社群在世界各地做的事情"
+
+#: ../../themes/qgis-theme/forusers_index.html:108
+msgid "in our blogs"
+msgstr "在我們的部落格"
+
+#: ../../themes/qgis-theme/forusers_index.html:110
+msgid "For more in-depth reading, get some"
+msgstr "要閱讀更深入的訊息，請到"
+
+#: ../../themes/qgis-theme/forusers_index.html:112
+msgid "books on QGIS"
+msgstr "QGIS 的書"
+
+#: ../../themes/qgis-theme/forusers_index.html:129
+msgid "You can get in touch with fellow users and developers via"
+msgstr "你可以接觸使用者及開發者透過"
+
+#: ../../themes/qgis-theme/forusers_index.html:131
+msgid "our community support channels"
+msgstr "我們的社群支援頻道"
+
+#: ../../themes/qgis-theme/forusers_index.html:140
+msgid ""
+"Do you plan to use QGIS in your company or organization, but worry about whether there is\n"
+"                    commercial support available? Here is an alphabetical"
+msgstr "你打算在你的公司或組織導入 QGIS，但擔心是否有商業支援呢？這邊有依字母順序"
+
+#: ../../themes/qgis-theme/forusers_index.html:144
+msgid "list of support contractors"
+msgstr "排列的支援方案提供商"
+
+#: ../../themes/qgis-theme/forusers_index.html:160
+msgid "Get Plugins"
+msgstr "取得外掛程式"
+
+#: ../../themes/qgis-theme/forusers_index.html:161
+msgid ""
+"QGIS plugins allow you to add many new features and functions. Get them from"
+msgstr "QGIS 外掛程式允許你新增許多新功能。從這邊取得"
+
+#: ../../themes/qgis-theme/forusers_index.html:164
+msgid "the plugin repository"
+msgstr "外掛程式庫"
+
+#: ../../themes/qgis-theme/about_index.html:149
+#: ../../themes/qgis-theme/docs_index.html:163
+#: ../../themes/qgis-theme/forusers_index.html:177
+#: ../../themes/qgis-theme/getinvolved_donations.html:115
+#: ../../themes/qgis-theme/getinvolved_index.html:187
+msgid "Back to Top"
+msgstr "回到頂部"
+
+#: ../../themes/qgis-theme/page.html:40
+msgid ""
+"If not stated otherwise, all content is licensed under <a "
+"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
+"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
+msgstr "若無另行說明，所有內容均按<a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">創用 CC 姓名標示-相同方式分享 3.0 協定 (CC BY-SA)</a>授權"
+
+#: ../../themes/qgis-theme/page.html:44
+msgid ""
+"Select graphics from <a href=\"http://thenounproject.com\" "
+"target=\"_blank\">The Noun Project collection</a>"
+msgstr "從 <a href=\"http://thenounproject.com\" target=\"_blank\">The Noun Project 彙編</a>中選擇 "
+
+#: ../../themes/qgis-theme/page.html:48
+msgid " - Last updated on "
+msgstr " - 最近更新於 "
+
+#: ../../themes/qgis-theme/page.html:52
+msgid "Untranslated page? Or you spot a translation error:"
+msgstr "未翻譯的頁面？或者發現了翻譯錯誤："
+
+#: ../../themes/qgis-theme/page.html:53 ../../themes/qgis-theme/page.html:56
+msgid "fix me"
+msgstr "請把我修好"
+
+#: ../../themes/qgis-theme/page.html:55
+msgid "Textual error, missing text or you know better:"
+msgstr "文本的錯誤、缺失文本或您知道更好的寫法："
+
+#: ../../themes/qgis-theme/page.html:138
+msgid "Discover QGIS"
+msgstr "發掘 QGIS"
+
+#: ../../themes/qgis-theme/index.html:137
+#: ../../themes/qgis-theme/page.html:140
+msgid "Get Involved"
+msgstr "參與其中"
 
 #: ../../themes/qgis-theme/search.html:11
 #: ../../themes/qgis-theme/search.html:20
@@ -132,15 +329,15 @@ msgid "To get the <em>bleeding-edge development build</em> choose "
 msgstr "要取得<em>最新開發版</em>請選擇"
 
 #: ../../themes/qgis-theme/forusers_download.html:57
-msgid "qgis-dev-full"
-msgstr "qgis-dev-full"
+msgid "qgis-full-dev"
+msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:61
 msgid "Standalone installers from OSGeo4W packages"
 msgstr "從 OSGeo4W 套件來的獨立安裝包 "
 
 #: ../../themes/qgis-theme/forusers_download.html:62
-#: ../../themes/qgis-theme/forusers_download.html:135
+#: ../../themes/qgis-theme/forusers_download.html:136
 msgid "Latest release (richest on features):"
 msgstr "最新的版本 (功能特點最豐富的)："
 
@@ -172,372 +369,441 @@ msgstr ""
 msgid "Mac Installer Packages for macOS High Sierra (10.13) and newer."
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:140
-#: ../../themes/qgis-theme/forusers_download.html:148
+#: ../../themes/qgis-theme/forusers_download.html:135
+msgid ""
+"QGIS is not yet notarized as required by macOS Catalina (10.15) security "
+"rules. On first launch on, use right click on the QGIS app icon and choose "
+"Open."
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:141
+#: ../../themes/qgis-theme/forusers_download.html:149
 #, python-format
 msgid "QGIS macOS Installer Version %s"
 msgstr "QGIS macOS 安裝版本%s"
 
-#: ../../themes/qgis-theme/forusers_download.html:143
+#: ../../themes/qgis-theme/forusers_download.html:144
 msgid "Long term release (most stable):"
 msgstr "長期維護釋出版 (最穩定的)："
 
-#: ../../themes/qgis-theme/forusers_download.html:151
+#: ../../themes/qgis-theme/forusers_download.html:152
 msgid "Alternative build"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:153
+#: ../../themes/qgis-theme/forusers_download.html:154
 msgid "Mac Installer Packages for macOS El Capitan (10.11) and newer."
 msgstr "給 macOS El Capitan (10.11) 和更新版本的 Mac 安裝程式。"
 
-#: ../../themes/qgis-theme/forusers_download.html:154
+#: ../../themes/qgis-theme/forusers_download.html:155
 msgid ""
 "Installation instructions are in the Read Me on the disk image. These "
 "packages use the "
 msgstr "磁碟影像檔中的 Read Me 有安裝指引，這些包裏用"
 
-#: ../../themes/qgis-theme/forusers_download.html:154
+#: ../../themes/qgis-theme/forusers_download.html:155
 msgid ""
 "version 3.6, the \"macosx10.9\" build - other distributions are not "
 "supported. Install Python before installing QGIS."
 msgstr "3.6 版本，\"macosx10.9\" build - 其他發佈版本並不支援。安裝 QGIS 前請先安裝 Python。"
 
-#: ../../themes/qgis-theme/forusers_download.html:155
+#: ../../themes/qgis-theme/forusers_download.html:156
 msgid "Additional GDAL format plugins and PROJ grids are available at "
 msgstr "其他的 GDAL 格式外掛程式和 PROJ 網格在這裡"
 
-#: ../../themes/qgis-theme/forusers_download.html:160
+#: ../../themes/qgis-theme/forusers_download.html:161
 msgid "macOS Installers"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:170
+#: ../../themes/qgis-theme/forusers_download.html:171
 msgid "Download for Linux"
 msgstr "下載 Linux 版"
 
-#: ../../themes/qgis-theme/forusers_download.html:175
+#: ../../themes/qgis-theme/forusers_download.html:176
 msgid ""
 "For many flavors of GNU/Linux binary packages (rpm and deb) or software "
 "repositories (to add to your installation manager) are available. Please "
 "select your choice of distro below:"
 msgstr "如果習慣使 GNU/Linux 二進位化打包檔的話 (rpm 和 deb)，或是能用軟體倉儲 (加到你的安裝管理員)，請選擇下面的發行版本："
 
-#: ../../themes/qgis-theme/forusers_download.html:177
+#: ../../themes/qgis-theme/forusers_download.html:178
 msgid "Debian/Ubuntu"
 msgstr "Debian/Ubuntu"
 
-#: ../../themes/qgis-theme/forusers_download.html:178
+#: ../../themes/qgis-theme/forusers_download.html:179
 msgid "Fedora"
 msgstr "Fedora"
 
-#: ../../themes/qgis-theme/forusers_download.html:179
+#: ../../themes/qgis-theme/forusers_download.html:180
 msgid "openSUSE"
 msgstr "OpenSUSE"
 
-#: ../../themes/qgis-theme/forusers_download.html:180
+#: ../../themes/qgis-theme/forusers_download.html:181
 msgid "RHEL, CentOS, Scientific Linux, ..."
 msgstr "RHEL, CentOS, Scientific Linux, ..."
 
-#: ../../themes/qgis-theme/forusers_download.html:181
+#: ../../themes/qgis-theme/forusers_download.html:182
 msgid "Mandriva"
 msgstr "Mandriva"
 
-#: ../../themes/qgis-theme/forusers_download.html:182
+#: ../../themes/qgis-theme/forusers_download.html:183
 msgid "Slackware"
 msgstr "Slackware"
 
-#: ../../themes/qgis-theme/forusers_download.html:183
+#: ../../themes/qgis-theme/forusers_download.html:184
 msgid "ArchLinux"
 msgstr "ArchLinux"
 
-#: ../../themes/qgis-theme/forusers_download.html:184
+#: ../../themes/qgis-theme/forusers_download.html:185
 msgid "Flatpak"
 msgstr "Flatpak"
 
-#: ../../themes/qgis-theme/forusers_download.html:186
+#: ../../themes/qgis-theme/forusers_download.html:187
 msgid "Linux Installation Instructions"
 msgstr "Linux 安裝指引"
 
-#: ../../themes/qgis-theme/forusers_download.html:194
+#: ../../themes/qgis-theme/forusers_download.html:195
 msgid "Download for BSD"
 msgstr "下載 BSD 版"
 
-#: ../../themes/qgis-theme/forusers_download.html:199
+#: ../../themes/qgis-theme/forusers_download.html:200
 msgid "BSD Installation Instructions"
 msgstr "BSD 安裝指引"
 
-#: ../../themes/qgis-theme/forusers_download.html:207
+#: ../../themes/qgis-theme/forusers_download.html:208
 msgid "Apps for mobile and tablet"
 msgstr ""
 
+#: ../../themes/qgis-theme/forusers_download.html:213
+msgid ""
+"The QGIS experience does not stop on the desktop. Various touch optimized "
+"apps allow you to take QGIS into the field"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:214
+msgid "Third-party touch optimized apps"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:215
+msgid "QField for QGIS (formerly QGIS for Android)"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:221
+msgid "Input (available for Android, iOS and Windows devices)"
+msgstr ""
+
 #: ../../themes/qgis-theme/forusers_download.html:232
+msgid "QGIS for Android"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:233
 msgid ""
 "An old and deprecated not touch optimised release of QGIS for Android can be"
 " found in"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:232
-#: ../../themes/qgis-theme/forusers_download.html:239
-#: ../../themes/qgis-theme/forusers_download.html:241
+#: ../../themes/qgis-theme/forusers_download.html:233
+#: ../../themes/qgis-theme/forusers_download.html:240
+#: ../../themes/qgis-theme/forusers_download.html:242
 msgid "All downloads"
 msgstr "所有下載"
 
-#: ../../themes/qgis-theme/forusers_download.html:241
+#: ../../themes/qgis-theme/forusers_download.html:242
 msgid ""
 "More specific instructions about downloading QGIS stable vs QGIS development"
 " can be found in"
 msgstr "更加針對性的 QGIS 穩定版/開發版 下載選擇指南可見於"
 
-#: ../../themes/qgis-theme/forusers_download.html:244
+#: ../../themes/qgis-theme/forusers_download.html:245
 msgid "Datasets"
 msgstr "資料集"
 
-#: ../../themes/qgis-theme/forusers_download.html:245
+#: ../../themes/qgis-theme/forusers_download.html:246
 msgid "For testing and learning purposes, a "
 msgstr "爲了測試和學習用途，提供一個"
 
-#: ../../themes/qgis-theme/forusers_download.html:245
+#: ../../themes/qgis-theme/forusers_download.html:246
 msgid "sample dataset is available"
 msgstr "範例資料集"
 
-#: ../../themes/qgis-theme/forusers_download.html:245
+#: ../../themes/qgis-theme/forusers_download.html:246
 msgid ""
 "which contains collections of data from different sources and in different "
 "formats."
 msgstr "包含來自不同來源、不同格式的資料集合。"
 
-#: ../../themes/qgis-theme/forusers_download.html:251
+#: ../../themes/qgis-theme/forusers_download.html:252
 msgid "Previous releases of QGIS are still available"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:251
 #: ../../themes/qgis-theme/forusers_download.html:252
 #: ../../themes/qgis-theme/forusers_download.html:253
-#: ../../themes/qgis-theme/forusers_download.html:255
+#: ../../themes/qgis-theme/forusers_download.html:254
 #: ../../themes/qgis-theme/forusers_download.html:256
-#: ../../themes/qgis-theme/forusers_download.html:266
+#: ../../themes/qgis-theme/forusers_download.html:257
 #: ../../themes/qgis-theme/forusers_download.html:267
 #: ../../themes/qgis-theme/forusers_download.html:268
+#: ../../themes/qgis-theme/forusers_download.html:269
 msgid "here"
 msgstr "在此"
 
-#: ../../themes/qgis-theme/forusers_download.html:251
+#: ../../themes/qgis-theme/forusers_download.html:252
 msgid " - including older releases for OS X "
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:253
+#: ../../themes/qgis-theme/forusers_download.html:254
 msgid "More older releases are available"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:254
-#: ../../themes/qgis-theme/forusers_download.html:264
+#: ../../themes/qgis-theme/forusers_download.html:255
+#: ../../themes/qgis-theme/forusers_download.html:265
 #: ../../themes/qgis-theme/getinvolved_index.html:16
 #: ../../themes/qgis-theme/getinvolved_index.html:90
 msgid "and"
 msgstr "與"
 
-#: ../../themes/qgis-theme/forusers_download.html:255
+#: ../../themes/qgis-theme/forusers_download.html:256
 msgid "for OS X "
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:256
-#: ../../themes/qgis-theme/forusers_download.html:268
+#: ../../themes/qgis-theme/forusers_download.html:257
+#: ../../themes/qgis-theme/forusers_download.html:269
 msgid "Plugins for QGIS are also available "
 msgstr "也有 QGIS 的外掛程式"
 
-#: ../../themes/qgis-theme/forusers_download.html:261
+#: ../../themes/qgis-theme/forusers_download.html:262
 msgid "QGIS is open source software available under the terms of the"
 msgstr "QGIS 是開源軟體，依照"
 
-#: ../../themes/qgis-theme/forusers_download.html:261
+#: ../../themes/qgis-theme/forusers_download.html:262
 msgid "GNU General Public License"
 msgstr "GNU 通用公共許可授權"
 
-#: ../../themes/qgis-theme/forusers_download.html:261
+#: ../../themes/qgis-theme/forusers_download.html:262
 msgid ""
 "meaning that its source code can be downloaded through tarballs or the git "
 "repository."
 msgstr "也就是說其原始碼可以 tar 包的形式或在 git 儲存庫下載。"
 
-#: ../../themes/qgis-theme/forusers_download.html:262
+#: ../../themes/qgis-theme/forusers_download.html:263
 msgid "QGIS Source Code is available "
 msgstr "QGIS 原始碼可供取用 "
 
-#: ../../themes/qgis-theme/forusers_download.html:263
+#: ../../themes/qgis-theme/forusers_download.html:264
 msgid "here (latest release)"
 msgstr "此處（最新版本）"
 
-#: ../../themes/qgis-theme/forusers_download.html:265
+#: ../../themes/qgis-theme/forusers_download.html:266
 msgid "here (long term release)"
 msgstr "此處（長期維護）"
 
-#: ../../themes/qgis-theme/forusers_download.html:266
+#: ../../themes/qgis-theme/forusers_download.html:267
 msgid ""
 "Refer to the INSTALL guide on how to compile QGIS from source for the "
 "different platforms:"
 msgstr "請依據安裝指南用程式碼來為不同平臺編譯 QGIS："
 
-#: ../../themes/qgis-theme/forusers_download.html:267
+#: ../../themes/qgis-theme/forusers_download.html:268
 msgid ""
 "Note that you can also install the development version (nightly) via an "
 "installer from the normal downloads for your platform:"
 msgstr "注意你也可以透過平常下載點為你的作業系統來安裝開發者版本 (nightly)： "
 
-#: ../../themes/qgis-theme/index.html:3
-msgid "Time until freeze"
-msgstr "直到代碼凍結前時間"
+#: ../../themes/qgis-theme/docs_index.html:7
+msgid "QGIS Documentation"
+msgstr "QGIS 說明文件"
 
-#: ../../themes/qgis-theme/index.html:4
-msgid "Time until packaging"
-msgstr "打包前的時間"
-
-#: ../../themes/qgis-theme/index.html:5
-msgid "Time until next pointrelease"
-msgstr "下一次的釋出時間"
-
-#: ../../themes/qgis-theme/index.html:12
-msgid "A Free and Open Source Geographic Information System"
-msgstr "自由開源的地理資訊系統"
-
-#: ../../themes/qgis-theme/index.html:33
-msgid "New release: 3.12!"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:35
-msgid "Get the"
-msgstr "取得"
-
-#: ../../themes/qgis-theme/index.html:36
-msgid "installer or packages"
-msgstr "自動安裝包或套件"
-
-#: ../../themes/qgis-theme/index.html:37
-msgid "for your Operating System and read the"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:38
-msgid "changelog."
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:47
-msgid "24th Developer meeting"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:49
-msgid "Come along to"
-msgstr "來到"
-
-#: ../../themes/qgis-theme/index.html:49
-msgid "'s-Hertogenbosch, The Netherlands"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:50
-msgid "to find out more about QGIS!"
-msgstr "發掘更多關於 QGIS！"
-
-#: ../../themes/qgis-theme/index.html:59
-msgid "Look cool and support the QGIS project!"
-msgstr "看起來很酷而且支助 QGIS 專案！"
-
-#: ../../themes/qgis-theme/index.html:61
-msgid "Pick your style and favourite color and show your support with our"
-msgstr "選擇您的樣式和最喜愛的顏色並秀出您支持我們的"
-
-#: ../../themes/qgis-theme/index.html:62
-msgid "QGIS goodies!"
-msgstr "QGIS 吸引人的好東西！"
-
-#: ../../themes/qgis-theme/index.html:77
+#: ../../themes/qgis-theme/docs_index.html:8
 msgid ""
-"Create, edit, visualise, analyse and publish geospatial\n"
-"            information on Windows, Mac, Linux, BSD and mobile devices"
-msgstr ""
+"QGIS has a lot of documentation. All documentation is in English but some "
+"documents such as the user guide are also available in other languages."
+msgstr "QGIS 有許多說明文件。所有說明文件都由英語寫成，但是諸如用者指南的一些文件也有其他語言版本。"
 
-#: ../../themes/qgis-theme/index.html:81
+#: ../../themes/qgis-theme/docs_index.html:9
 msgid ""
-"For your desktop, server, in your web browser and as\n"
-"            developer libraries"
-msgstr "在您的桌面計算機和伺服器上，在瀏覽器中，\n抑或是作爲開發函式庫"
-
-#: ../../themes/qgis-theme/index.html:88
-msgid "Download Now"
-msgstr "立即下載"
-
-#: ../../themes/qgis-theme/index.html:89
-msgid "Version"
-msgstr "版本"
-
-#: ../../themes/qgis-theme/index.html:92
-msgid "Support QGIS"
-msgstr "支援 QGIS"
-
-#: ../../themes/qgis-theme/index.html:93
-msgid "Donate now!"
-msgstr "立即捐贈！"
-
-#: ../../themes/qgis-theme/index.html:101
-msgid "Project News"
-msgstr "專案新聞"
-
-#: ../../themes/qgis-theme/index.html:107
-msgid "Latest Project Blog Posts (blog.qgis.org)"
-msgstr "最新的專案部落格文章 (blog.qgis.org)"
-
-#: ../../themes/qgis-theme/index.html:125
-msgid "Get Started"
-msgstr "使用入門"
-
-#: ../../themes/qgis-theme/index.html:129
-msgid "Start using QGIS for your GIS tasks."
-msgstr "開始使用 QGIS 解決你的 GIS 工作。"
-
-#: ../../themes/qgis-theme/index.html:138
-#: ../../themes/qgis-theme/page.html:140
-msgid "Get Involved"
-msgstr "參與其中"
-
-#: ../../themes/qgis-theme/index.html:141
-msgid "Shape the future of QGIS with your contributions."
-msgstr "以您的貢獻塑造 QGIS 的未來。"
-
-#: ../../themes/qgis-theme/index.html:149
-msgid "Learn More"
-msgstr "瞭解更多"
-
-#: ../../themes/qgis-theme/index.html:153
-msgid "Find training materials and reference documentation."
-msgstr "查找培訓材料和參考說明文件。"
-
-#: ../../themes/qgis-theme/index.html:166
-msgid "Latest Community News"
-msgstr "最新的社群新聞"
-
-#: ../../themes/qgis-theme/index.html:169
-msgid "Find out what is going on with the QGIS project and its community."
-msgstr "探索 QGIS 專案與社群中正在發生的事情。"
-
-#: ../../themes/qgis-theme/index.html:174
-msgid "Upcoming User & Developer Meetings"
-msgstr "即將進行的使用者與開發者會議"
-
-#: ../../themes/qgis-theme/index.html:183
-msgid "Latest Blog Posts (planet.qgis.org)"
-msgstr "最新部落格文章 (planet.qgis.org)"
-
-#: ../../themes/qgis-theme/index.html:223
-msgid "See More Maps and Screenshots"
-msgstr "看看更多的地圖和截圖"
-
-#: ../../themes/qgis-theme/index.html:243
-msgid "Sustaining Members"
+"You will find documentation for every QGIS long term release on the "
+"respective documentation website."
 msgstr ""
 
-#: ../../themes/qgis-theme/index.html:279
-msgid "frozen since"
-msgstr "凍結始於"
+#: ../../themes/qgis-theme/docs_index.html:10
+msgid "Get involved"
+msgstr ""
 
-#: ../../themes/qgis-theme/index.html:282
-msgid "in packaging since"
-msgstr "打包發行始於"
+#: ../../themes/qgis-theme/docs_index.html:10
+msgid " and help us write a better documentation."
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:27
+msgid "DOCUMENTATION"
+msgstr "說明文件"
+
+#: ../../themes/qgis-theme/docs_index.html:32
+#: ../../themes/qgis-theme/docs_index.html:55
+msgid "QGIS 3.10"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:35
+msgid "QGIS testing (>3.10)"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:38
+#: ../../themes/qgis-theme/docs_index.html:110
+msgid "QGIS 3.4"
+msgstr "QGIS 3.4"
+
+#: ../../themes/qgis-theme/docs_index.html:41
+msgid "Documentation for older versions"
+msgstr "舊版本的說明文件"
+
+#: ../../themes/qgis-theme/docs_index.html:56
+#: ../../themes/qgis-theme/docs_index.html:111
+msgid "For users:"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:58
+#: ../../themes/qgis-theme/docs_index.html:113
+msgid "Read the"
+msgstr "閱讀"
+
+#: ../../themes/qgis-theme/docs_index.html:58
+#: ../../themes/qgis-theme/docs_index.html:113
+msgid "QGIS User guide"
+msgstr "QGIS 使用者指南"
+
+#: ../../themes/qgis-theme/docs_index.html:59
+#: ../../themes/qgis-theme/docs_index.html:114
+msgid "Follow the tutorials in the"
+msgstr "按照教程，在"
+
+#: ../../themes/qgis-theme/docs_index.html:59
+#: ../../themes/qgis-theme/docs_index.html:114
+msgid "QGIS Training manual"
+msgstr "QGIS 培訓手冊"
+
+#: ../../themes/qgis-theme/docs_index.html:60
+#: ../../themes/qgis-theme/docs_index.html:115
+msgid "Learn GIS basics in"
+msgstr "學習 GIS 基礎在"
+
+#: ../../themes/qgis-theme/docs_index.html:60
+#: ../../themes/qgis-theme/docs_index.html:99
+#: ../../themes/qgis-theme/docs_index.html:115
+msgid "A gentle introduction in GIS"
+msgstr "平緩的 GIS 入門"
+
+#: ../../themes/qgis-theme/docs_index.html:63
+#: ../../themes/qgis-theme/docs_index.html:118
+msgid "For documentation writers:"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:65
+#: ../../themes/qgis-theme/docs_index.html:120
+msgid "Learn how to write docs using the"
+msgstr "學習如何寫說明文件，使用"
+
+#: ../../themes/qgis-theme/docs_index.html:65
+#: ../../themes/qgis-theme/docs_index.html:120
+msgid "Documentation Guidelines"
+msgstr "說明文件守則"
+
+#: ../../themes/qgis-theme/docs_index.html:68
+#: ../../themes/qgis-theme/docs_index.html:123
+msgid "For developers:"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:70
+#: ../../themes/qgis-theme/docs_index.html:125
+msgid "Go Python, study the"
+msgstr "使用 Python，學習"
+
+#: ../../themes/qgis-theme/docs_index.html:70
+#: ../../themes/qgis-theme/docs_index.html:125
+msgid "PyQGIS cookbook (for plugins and scripting)"
+msgstr "PyQGIS 食譜 (用於外掛程式和腳本)"
+
+#: ../../themes/qgis-theme/docs_index.html:71
+#: ../../themes/qgis-theme/docs_index.html:101
+#: ../../themes/qgis-theme/docs_index.html:126
+msgid "C++ Api documentation"
+msgstr "C++ Api 說明文件"
+
+#: ../../themes/qgis-theme/docs_index.html:72
+#: ../../themes/qgis-theme/docs_index.html:102
+#: ../../themes/qgis-theme/docs_index.html:127
+msgid "PyQGIS - QGIS Python Api documentation"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:90
+msgid "QGIS testing"
+msgstr "QGIS 測試版"
+
+#: ../../themes/qgis-theme/docs_index.html:91
+msgid ""
+"We are still updating (not translating yet) the documentation for releases "
+"newer than QGIS 3.10. We call this version 'QGIS testing' and the "
+"documentation can be found here: "
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:91
+msgid "https://docs.qgis.org/testing"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:92
+msgid "Desktop User Guide/Manual"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:93
+msgid "Server Guide/Manual"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:94
+msgid "QGIS Training Manual"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:95
+msgid "PyQGIS Cookbook"
+msgstr "PyQGIS 詳細說明"
+
+#: ../../themes/qgis-theme/docs_index.html:96
+msgid "QGIS Developers Guide"
+msgstr "QGIS 開發者指南"
+
+#: ../../themes/qgis-theme/docs_index.html:98
+msgid "Documentation Guidelines (how to write the docs)"
+msgstr "說明文件指南（如何寫說明文件）"
+
+#: ../../themes/qgis-theme/docs_index.html:100
+msgid "PDF versions of all above, eg for printing are available here: "
+msgstr "所有以上說明文件的 PDF 版本，如可供列印的版本，可在此取得："
+
+#: ../../themes/qgis-theme/docs_index.html:100
+msgid "https://docs.qgis.org/testing/pdf"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:113
+#: ../../themes/qgis-theme/docs_index.html:114
+#: ../../themes/qgis-theme/docs_index.html:125
+msgid "or as PDF"
+msgstr "或以 PDF 格式"
+
+#: ../../themes/qgis-theme/docs_index.html:141
+msgid "Archived"
+msgstr "已歸檔保存"
+
+#: ../../themes/qgis-theme/docs_index.html:142
+msgid "Links to documentation of older version of QGIS: "
+msgstr "QGIS 舊版的說明文件連結："
+
+#: ../../themes/qgis-theme/docs_index.html:144
+msgid "QGIS 2.18 Documentation"
+msgstr "QGIS 2.18 說明文件 "
+
+#: ../../themes/qgis-theme/docs_index.html:145
+msgid "QGIS 2.14 Documentation"
+msgstr "QGIS 2.14 說明文件"
+
+#: ../../themes/qgis-theme/docs_index.html:146
+msgid "QGIS 2.8 Documentation"
+msgstr "QGIS 2.8 說明文件"
 
 #: ../../themes/qgis-theme/about_index.html:7
 msgid "QGIS - The Leading Open Source Desktop GIS"
@@ -569,13 +835,6 @@ msgstr "QGIS 案例剖析"
 #: ../../themes/qgis-theme/about_index.html:115
 msgid "Supporting Organizations"
 msgstr "支援組織"
-
-#: ../../themes/qgis-theme/about_index.html:38
-#: ../../themes/qgis-theme/about_index.html:133
-#: ../../themes/qgis-theme/forusers_index.html:47
-#: ../../themes/qgis-theme/forusers_index.html:139
-msgid "Commercial Support"
-msgstr "商業支援"
 
 #: ../../themes/qgis-theme/about_index.html:52
 msgid "About QGIS"
@@ -675,347 +934,423 @@ msgstr "想在公司或機構使用 QGIS，但又擔心是否有可用的商業�
 msgid "Learn about Commercial Support for QGIS"
 msgstr "瞭解 QGIS 的商業支援"
 
-#: ../../themes/qgis-theme/about_index.html:149
-#: ../../themes/qgis-theme/docs_index.html:162
-#: ../../themes/qgis-theme/forusers_index.html:177
-#: ../../themes/qgis-theme/getinvolved_donations.html:115
-#: ../../themes/qgis-theme/getinvolved_index.html:187
-msgid "Back to Top"
-msgstr "回到頂部"
+#: ../../themes/qgis-theme/localtoc.html:3
+msgid "Page"
+msgstr "頁"
 
-#: ../../themes/qgis-theme/forusers_index.html:7
-msgid "Get Started Using QGIS"
-msgstr "開始使用 QGIS"
+#: ../../themes/qgis-theme/index.html:3
+msgid "Time until freeze"
+msgstr "直到代碼凍結前時間"
 
-#: ../../themes/qgis-theme/forusers_index.html:9
-msgid "Step 1: Download QGIS"
-msgstr "第一步：下載 QGIS"
+#: ../../themes/qgis-theme/index.html:4
+msgid "Time until packaging"
+msgstr "打包前的時間"
 
-#: ../../themes/qgis-theme/forusers_index.html:11
-msgid "Step 2: Check our documentation"
-msgstr "第二步：檢視說明文件"
+#: ../../themes/qgis-theme/index.html:5
+msgid "Time until next pointrelease"
+msgstr "下一次的釋出時間"
 
-#: ../../themes/qgis-theme/forusers_index.html:13
-msgid "Step 3: Connect with the QGIS community"
-msgstr "第三步：與 QGIS 社群連結"
+#: ../../themes/qgis-theme/index.html:12
+msgid "A Free and Open Source Geographic Information System"
+msgstr "自由開源的地理資訊系統"
 
-#: ../../themes/qgis-theme/forusers_index.html:27
-#: ../../themes/qgis-theme/page.html:139
-msgid "For Users"
-msgstr "供使用者"
+#: ../../themes/qgis-theme/index.html:33
+msgid "New release: 3.16!"
+msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:32
-msgid "Download"
-msgstr "下載"
+#: ../../themes/qgis-theme/index.html:35
+msgid "Get the"
+msgstr "取得"
 
-#: ../../themes/qgis-theme/forusers_index.html:35
-#: ../../themes/qgis-theme/forusers_index.html:88
-#: ../../themes/qgis-theme/page.html:141
-msgid "Documentation"
-msgstr "說明文件"
+#: ../../themes/qgis-theme/index.html:36
+msgid "installer or packages"
+msgstr "自動安裝包或套件"
 
-#: ../../themes/qgis-theme/forusers_index.html:38
-msgid "QGIS Plugins"
-msgstr "QGIS 外掛程式"
+#: ../../themes/qgis-theme/index.html:37
+msgid "for your Operating System and read the"
+msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:41
-#: ../../themes/qgis-theme/forusers_index.html:128
-msgid "Getting Help"
-msgstr "取得幫助"
+#: ../../themes/qgis-theme/index.html:38
+msgid "changelog."
+msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:44
-msgid "In the Press"
-msgstr "媒體報導"
+#: ../../themes/qgis-theme/index.html:47
+msgid "QGIS Community meetings"
+msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:60
-msgid "Download QGIS"
-msgstr "下載 QGIS"
+#: ../../themes/qgis-theme/index.html:49
+msgid "Find out more about our tradition of user and contributor"
+msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:62
-msgid "for your operating system."
-msgstr "給您的作業系統。"
+#: ../../themes/qgis-theme/index.html:49
+msgid "meetings!"
+msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:65
-msgid "Get the installer"
-msgstr "取得安裝檔"
+#: ../../themes/qgis-theme/index.html:58
+msgid "Look cool and support the QGIS project!"
+msgstr "看起來很酷而且支助 QGIS 專案！"
 
-#: ../../themes/qgis-theme/forusers_index.html:68
-msgid "Check out our roadmap for future versions: "
-msgstr "看看我們未來版本的藍圖："
+#: ../../themes/qgis-theme/index.html:60
+msgid "Pick your style and favourite color and show your support with our"
+msgstr "選擇您的樣式和最喜愛的顏色並秀出您支持我們的"
 
-#: ../../themes/qgis-theme/forusers_index.html:68
-#: ../../themes/qgis-theme/getinvolved_index.html:156
-msgid "QGIS roadmap"
-msgstr "QGIS 藍圖"
+#: ../../themes/qgis-theme/index.html:61
+msgid "QGIS goodies!"
+msgstr "QGIS 吸引人的好東西！"
 
-#: ../../themes/qgis-theme/forusers_index.html:72
-msgid "See the latest features in the visual changelog"
-msgstr "看最新的圖示版本更新記錄"
-
-#: ../../themes/qgis-theme/forusers_index.html:91
-msgid "Our main documentation is the"
-msgstr "我們主要的說明文件是"
-
-#: ../../themes/qgis-theme/forusers_index.html:92
-msgid "QGIS user guide"
-msgstr "QGIS 使用者指南"
-
-#: ../../themes/qgis-theme/forusers_index.html:94
-msgid "We also provide step by step tutorials in the"
-msgstr "我們也提供一步一步的操作教學"
-
-#: ../../themes/qgis-theme/forusers_index.html:95
-msgid "Training manual"
-msgstr "訓練教材"
-
-#: ../../themes/qgis-theme/forusers_index.html:97
-msgid "External parties also provide"
-msgstr "外部團體也提供"
-
-#: ../../themes/qgis-theme/forusers_index.html:98
-msgid "QGIS tutorials"
-msgstr "QGIS 教學"
-
-#: ../../themes/qgis-theme/forusers_index.html:104
-msgid "QGIS Publications"
-msgstr "QGIS 出版品"
-
-#: ../../themes/qgis-theme/forusers_index.html:106
-msgid "Read what the QGIS community is doing around the world"
-msgstr "閱讀 QGIS 社群在世界各地做的事情"
-
-#: ../../themes/qgis-theme/forusers_index.html:108
-msgid "in our blogs"
-msgstr "在我們的部落格"
-
-#: ../../themes/qgis-theme/forusers_index.html:110
-msgid "For more in-depth reading, get some"
-msgstr "要閱讀更深入的訊息，請到"
-
-#: ../../themes/qgis-theme/forusers_index.html:112
-msgid "books on QGIS"
-msgstr "QGIS 的書"
-
-#: ../../themes/qgis-theme/forusers_index.html:129
-msgid "You can get in touch with fellow users and developers via"
-msgstr "你可以接觸使用者及開發者透過"
-
-#: ../../themes/qgis-theme/forusers_index.html:131
-msgid "our community support channels"
-msgstr "我們的社群支援頻道"
-
-#: ../../themes/qgis-theme/forusers_index.html:140
+#: ../../themes/qgis-theme/index.html:76
 msgid ""
-"Do you plan to use QGIS in your company or organization, but worry about whether there is\n"
-"                    commercial support available? Here is an alphabetical"
-msgstr "你打算在你的公司或組織導入 QGIS，但擔心是否有商業支援呢？這邊有依字母順序"
+"Create, edit, visualise, analyse and publish geospatial\n"
+"            information on Windows, Mac, Linux, BSD and mobile devices"
+msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:144
-msgid "list of support contractors"
-msgstr "排列的支援方案提供商"
-
-#: ../../themes/qgis-theme/forusers_index.html:160
-msgid "Get Plugins"
-msgstr "取得外掛程式"
-
-#: ../../themes/qgis-theme/forusers_index.html:161
+#: ../../themes/qgis-theme/index.html:80
 msgid ""
-"QGIS plugins allow you to add many new features and functions. Get them from"
-msgstr "QGIS 外掛程式允許你新增許多新功能。從這邊取得"
+"For your desktop, server, in your web browser and as\n"
+"            developer libraries"
+msgstr "在您的桌面計算機和伺服器上，在瀏覽器中，\n抑或是作爲開發函式庫"
 
-#: ../../themes/qgis-theme/forusers_index.html:164
-msgid "the plugin repository"
-msgstr "外掛程式庫"
+#: ../../themes/qgis-theme/index.html:87
+msgid "Download Now"
+msgstr "立即下載"
 
-#: ../../themes/qgis-theme/docs_index.html:7
-msgid "QGIS Documentation"
-msgstr "QGIS 說明文件"
+#: ../../themes/qgis-theme/index.html:88
+msgid "Version"
+msgstr "版本"
 
-#: ../../themes/qgis-theme/docs_index.html:8
+#: ../../themes/qgis-theme/index.html:91
+msgid "Support QGIS"
+msgstr "支援 QGIS"
+
+#: ../../themes/qgis-theme/index.html:92
+msgid "Donate now!"
+msgstr "立即捐贈！"
+
+#: ../../themes/qgis-theme/index.html:100
+msgid "Project News"
+msgstr "專案新聞"
+
+#: ../../themes/qgis-theme/index.html:106
+msgid "Latest Project Blog Posts (blog.qgis.org)"
+msgstr "最新的專案部落格文章 (blog.qgis.org)"
+
+#: ../../themes/qgis-theme/index.html:124
+msgid "Get Started"
+msgstr "使用入門"
+
+#: ../../themes/qgis-theme/index.html:128
+msgid "Start using QGIS for your GIS tasks."
+msgstr "開始使用 QGIS 解決你的 GIS 工作。"
+
+#: ../../themes/qgis-theme/index.html:140
+msgid "Shape the future of QGIS with your contributions."
+msgstr "以您的貢獻塑造 QGIS 的未來。"
+
+#: ../../themes/qgis-theme/index.html:148
+msgid "Learn More"
+msgstr "瞭解更多"
+
+#: ../../themes/qgis-theme/index.html:152
+msgid "Find training materials and reference documentation."
+msgstr "查找培訓材料和參考說明文件。"
+
+#: ../../themes/qgis-theme/index.html:165
+msgid "Latest Community News"
+msgstr "最新的社群新聞"
+
+#: ../../themes/qgis-theme/index.html:168
+msgid "Find out what is going on with the QGIS project and its community."
+msgstr "探索 QGIS 專案與社群中正在發生的事情。"
+
+#: ../../themes/qgis-theme/index.html:173
+msgid "Upcoming User & Developer Meetings"
+msgstr "即將進行的使用者與開發者會議"
+
+#: ../../themes/qgis-theme/index.html:182
+msgid "Latest Blog Posts"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:222
+msgid "See More Maps and Screenshots"
+msgstr "看看更多的地圖和截圖"
+
+#: ../../themes/qgis-theme/index.html:242
+msgid "Sustaining Members"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:278
+msgid "frozen since"
+msgstr "凍結始於"
+
+#: ../../themes/qgis-theme/index.html:281
+msgid "in packaging since"
+msgstr "打包發行始於"
+
+#: ../../themes/qgis-theme/languageswitch.html:4
+msgid "English"
+msgstr "英語"
+
+#: ../../themes/qgis-theme/languageswitch.html:5
+msgid "Catalan"
+msgstr "加泰隆語"
+
+#: ../../themes/qgis-theme/languageswitch.html:6
+msgid "Danish"
+msgstr "丹麥語"
+
+#: ../../themes/qgis-theme/languageswitch.html:7
+msgid "German"
+msgstr "德語"
+
+#: ../../themes/qgis-theme/languageswitch.html:8
+msgid "Spanish"
+msgstr "西班牙語"
+
+#: ../../themes/qgis-theme/languageswitch.html:9
+msgid "Persian"
+msgstr "波斯語"
+
+#: ../../themes/qgis-theme/languageswitch.html:10
+msgid "Finnish"
+msgstr "芬蘭語"
+
+#: ../../themes/qgis-theme/languageswitch.html:11
+msgid "French"
+msgstr "法語"
+
+#: ../../themes/qgis-theme/languageswitch.html:12
+msgid "Galician"
+msgstr "加利西亞語"
+
+#: ../../themes/qgis-theme/languageswitch.html:13
+msgid "Indonesian"
+msgstr "印尼語"
+
+#: ../../themes/qgis-theme/languageswitch.html:14
+msgid "Italian"
+msgstr "義大利語"
+
+#: ../../themes/qgis-theme/languageswitch.html:15
+msgid "Hungarian"
+msgstr "匈牙利語"
+
+#: ../../themes/qgis-theme/languageswitch.html:16
+msgid "Japanese"
+msgstr "日語"
+
+#: ../../themes/qgis-theme/languageswitch.html:17
+msgid "Khmer"
+msgstr "高棉語"
+
+#: ../../themes/qgis-theme/languageswitch.html:18
+msgid "Korean"
+msgstr "韓語"
+
+#: ../../themes/qgis-theme/languageswitch.html:19
+msgid "Lithuanian"
+msgstr "立陶宛語"
+
+#: ../../themes/qgis-theme/languageswitch.html:20
+msgid "Dutch"
+msgstr "荷蘭語"
+
+#: ../../themes/qgis-theme/languageswitch.html:21
+msgid "Polish"
+msgstr "波蘭語"
+
+#: ../../themes/qgis-theme/languageswitch.html:22
+msgid "Portuguesei (Brazil)"
+msgstr "葡萄牙語 (巴西)"
+
+#: ../../themes/qgis-theme/languageswitch.html:23
+msgid "Portuguese"
+msgstr "葡萄牙語"
+
+#: ../../themes/qgis-theme/languageswitch.html:24
+msgid "Romanian"
+msgstr "羅馬尼亞語"
+
+#: ../../themes/qgis-theme/languageswitch.html:25
+msgid "Turkish"
+msgstr "土耳其語"
+
+#: ../../themes/qgis-theme/languageswitch.html:26
+msgid "Russian"
+msgstr "俄語"
+
+#: ../../themes/qgis-theme/languageswitch.html:27
+msgid "Ukrainian"
+msgstr "烏克蘭語"
+
+#: ../../themes/qgis-theme/languageswitch.html:28
+msgid "Chinese (Simplified)"
+msgstr "中文 (簡體字)"
+
+#: ../../themes/qgis-theme/languageswitch.html:29
+msgid "Chinese (Traditional)"
+msgstr "中文 (正體字)"
+
+#: ../../themes/qgis-theme/languageswitch.html:99
+msgid "Thank you!"
+msgstr "感謝您！"
+
+#: ../../themes/qgis-theme/languageswitch.html:101
 msgid ""
-"QGIS has a lot of documentation. All documentation is in English but some "
-"documents such as the user guide are also available in other languages."
-msgstr "QGIS 有許多說明文件。所有說明文件都由英語寫成，但是諸如用者指南的一些文件也有其他語言版本。"
+"Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and "
+"will always be free of charge if downloaded from QGIS.org. If you can afford"
+" to support the project and people making this software, please consider "
+"making <a href=\"https://qgis.org/en/site/getinvolved/donations.html\">a "
+"small donation to support</a> our efforts. Whether you choose to donate or "
+"not, we hope that you enjoy using our labour of love and encourage you to "
+"share and spread your downloaded copy far and wide so that others may enjoy "
+"it too. Our very best regards!"
+msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:9
+#: ../../themes/qgis-theme/languageswitch.html:102
+#: ../../themes/qgis-theme/languageswitch.html:132
+msgid "The QGIS Team"
+msgstr "QGIS 團隊"
+
+#: ../../themes/qgis-theme/languageswitch.html:104
+msgid "Donate Now"
+msgstr "現在捐贈"
+
+#: ../../themes/qgis-theme/languageswitch.html:105
+#: ../../themes/qgis-theme/languageswitch.html:134
+msgid "Close this message"
+msgstr "關閉此訊息"
+
+#: ../../themes/qgis-theme/languageswitch.html:128
+msgid "Thank you for your donation!"
+msgstr "謝謝你的捐款！"
+
+#: ../../themes/qgis-theme/languageswitch.html:130
 msgid ""
-"You will find documentation for every QGIS long term release on the "
-"respective documentation website."
-msgstr ""
+"QGIS is free of charge and we hope that you enjoy using our labour of love "
+"and encourage you to share and spread your downloaded copy far and wide so "
+"that others may enjoy it too. Our very best regards!"
+msgstr "QGIS 並不需要付費，而我們希望你能好好享用我們的愛心勞力，以及鼓勵你分享和散播你的這份下載，越廣越好，讓其他人也能享用。我們最好的問候！"
 
-#: ../../themes/qgis-theme/docs_index.html:10
-msgid "Get involved"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:10
-msgid " and help us write a better documentation."
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:27
-msgid "DOCUMENTATION"
-msgstr "說明文件"
-
-#: ../../themes/qgis-theme/docs_index.html:32
-#: ../../themes/qgis-theme/docs_index.html:55
-msgid "QGIS 3.10"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:35
-msgid "QGIS testing (>3.10)"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:38
-#: ../../themes/qgis-theme/docs_index.html:109
-msgid "QGIS 3.4"
-msgstr "QGIS 3.4"
-
-#: ../../themes/qgis-theme/docs_index.html:41
-msgid "Documentation for older versions"
-msgstr "舊版本的說明文件"
-
-#: ../../themes/qgis-theme/docs_index.html:56
-#: ../../themes/qgis-theme/docs_index.html:110
-msgid "For users:"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:58
-#: ../../themes/qgis-theme/docs_index.html:112
-msgid "Read the"
-msgstr "閱讀"
-
-#: ../../themes/qgis-theme/docs_index.html:58
-#: ../../themes/qgis-theme/docs_index.html:112
-msgid "QGIS User guide"
-msgstr "QGIS 使用者指南"
-
-#: ../../themes/qgis-theme/docs_index.html:59
-#: ../../themes/qgis-theme/docs_index.html:113
-msgid "Follow the tutorials in the"
-msgstr "按照教程，在"
-
-#: ../../themes/qgis-theme/docs_index.html:59
-#: ../../themes/qgis-theme/docs_index.html:93
-#: ../../themes/qgis-theme/docs_index.html:113
-msgid "QGIS Training manual"
-msgstr "QGIS 培訓手冊"
-
-#: ../../themes/qgis-theme/docs_index.html:60
-#: ../../themes/qgis-theme/docs_index.html:114
-msgid "Learn GIS basics in"
-msgstr "學習 GIS 基礎在"
-
-#: ../../themes/qgis-theme/docs_index.html:60
-#: ../../themes/qgis-theme/docs_index.html:98
-#: ../../themes/qgis-theme/docs_index.html:114
-msgid "A gentle introduction in GIS"
-msgstr "平緩的 GIS 入門"
-
-#: ../../themes/qgis-theme/docs_index.html:63
-#: ../../themes/qgis-theme/docs_index.html:117
-msgid "For documentation writers:"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:65
-#: ../../themes/qgis-theme/docs_index.html:119
-msgid "Learn how to write docs using the"
-msgstr "學習如何寫說明文件，使用"
-
-#: ../../themes/qgis-theme/docs_index.html:65
-#: ../../themes/qgis-theme/docs_index.html:119
-msgid "Documentation Guidelines"
-msgstr "說明文件守則"
-
-#: ../../themes/qgis-theme/docs_index.html:68
-#: ../../themes/qgis-theme/docs_index.html:122
-msgid "For developers:"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:70
-#: ../../themes/qgis-theme/docs_index.html:124
-msgid "Go Python, study the"
-msgstr "使用 Python，學習"
-
-#: ../../themes/qgis-theme/docs_index.html:70
-#: ../../themes/qgis-theme/docs_index.html:124
-msgid "PyQGIS cookbook (for plugins and scripting)"
-msgstr "PyQGIS 食譜 (用於外掛程式和腳本)"
-
-#: ../../themes/qgis-theme/docs_index.html:71
-#: ../../themes/qgis-theme/docs_index.html:100
-#: ../../themes/qgis-theme/docs_index.html:125
-msgid "C++ Api documentation"
-msgstr "C++ Api 說明文件"
-
-#: ../../themes/qgis-theme/docs_index.html:72
-#: ../../themes/qgis-theme/docs_index.html:101
-#: ../../themes/qgis-theme/docs_index.html:126
-msgid "PyQGIS - QGIS Python Api documentation"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:90
-msgid "QGIS testing"
-msgstr "QGIS 測試版"
-
-#: ../../themes/qgis-theme/docs_index.html:91
+#: ../../themes/qgis-theme/languageswitch.html:131
 msgid ""
-"We are still updating (not translating yet) the documentation for releases "
-"newer than QGIS 3.10. We call this version 'QGIS testing' and the "
-"documentation can be found here: "
-msgstr ""
+"Unfortunately there was an error processing your Donation. Please try again "
+"later, or contact us via finance@qgis.org"
+msgstr "很不幸我們處理你的捐款時發生錯誤，請稍後再試一次，或是透過 finance@qgis.org 聯繫我們"
 
-#: ../../themes/qgis-theme/docs_index.html:91
-msgid "http://docs.qgis.org/testing"
-msgstr "http://docs.qgis.org/testing"
+#: ../../themes/qgis-theme/getinvolved_donations.html:8
+msgid "QGIS Donations"
+msgstr "QGIS 的贊助者"
 
-#: ../../themes/qgis-theme/docs_index.html:92
-msgid "User guide/Manual"
-msgstr "使用者指南/手冊"
+#: ../../themes/qgis-theme/getinvolved_donations.html:9
+msgid ""
+"QGIS is developed by a team of dedicated volunteers, companies and "
+"organisations."
+msgstr "QGIS 是由一群有志者、公司和社群組織等團隊所共同開發的。"
 
-#: ../../themes/qgis-theme/docs_index.html:94
-msgid "PyQGIS Cookbook"
-msgstr "PyQGIS 詳細說明"
+#: ../../themes/qgis-theme/getinvolved_donations.html:13
+msgid ""
+"Donations to QGIS are tax-deductible in several countries. Please refer to your local tax office for details.\n"
+"                    If you want to tax-deduct as a german company or organization, please donate through the "
+msgstr "在許多國家贊助 QGIS 是可以抵稅的。請向您本地的稅務單位洽詢細節。\n如果您想像德國公司或組織取得稅賦減免，請透過下面的方式來捐款"
 
-#: ../../themes/qgis-theme/docs_index.html:95
-msgid "QGIS Developers Guide"
-msgstr "QGIS 開發者指南"
+#: ../../themes/qgis-theme/getinvolved_donations.html:14
+msgid "German QGIS user group"
+msgstr "德國 QGIS 使用者社群"
 
-#: ../../themes/qgis-theme/docs_index.html:97
-msgid "Documentation Guidelines (how to write the docs)"
-msgstr "說明文件指南（如何寫說明文件）"
+#: ../../themes/qgis-theme/getinvolved_donations.html:14
+msgid ""
+". They can issue a payment confirmation as a tax-exempt german association."
+msgstr "。他們能核發付款確認給免納稅的德國組織。"
 
-#: ../../themes/qgis-theme/docs_index.html:99
-msgid "PDF versions of all above, eg for printing are available here: "
-msgstr "所有以上說明文件的 PDF 版本，如可供列印的版本，可在此取得："
+#: ../../themes/qgis-theme/getinvolved_donations.html:16
+#: ../../themes/qgis-theme/getinvolved_index.html:12
+msgid "You can get involved!"
+msgstr "您也可以參與其中！"
 
-#: ../../themes/qgis-theme/docs_index.html:99
-msgid "http://docs.qgis.org/testing/pdf"
-msgstr "http://docs.qgis.org/testing/pdf"
+#: ../../themes/qgis-theme/getinvolved_donations.html:28
+msgid "DONATE TO THE PROJECT"
+msgstr "捐贈給該專案"
 
-#: ../../themes/qgis-theme/docs_index.html:112
-#: ../../themes/qgis-theme/docs_index.html:113
-#: ../../themes/qgis-theme/docs_index.html:124
-msgid "or as PDF"
-msgstr "或以 PDF 格式"
+#: ../../themes/qgis-theme/getinvolved_donations.html:33
+#: ../../themes/qgis-theme/getinvolved_donations.html:53
+msgid "Bank Transfer"
+msgstr "銀行匯款"
 
-#: ../../themes/qgis-theme/docs_index.html:140
-msgid "Archived"
-msgstr "已歸檔保存"
+#: ../../themes/qgis-theme/getinvolved_donations.html:36
+msgid "Credit card and Paypal"
+msgstr "信用卡與 PayPal"
 
-#: ../../themes/qgis-theme/docs_index.html:141
-msgid "Links to documentation of older version of QGIS: "
-msgstr "QGIS 舊版的說明文件連結："
+#: ../../themes/qgis-theme/getinvolved_donations.html:54
+msgid ""
+"Use the details below to make a donation via international money transfer:"
+msgstr "使用下方的詳細資訊以透過國際匯款的方式來捐款："
 
-#: ../../themes/qgis-theme/docs_index.html:143
-msgid "QGIS 2.18 Documentation"
-msgstr "QGIS 2.18 說明文件 "
+#: ../../themes/qgis-theme/getinvolved_donations.html:75
+msgid "Stripe"
+msgstr "Stripe"
 
-#: ../../themes/qgis-theme/docs_index.html:144
-msgid "QGIS 2.14 Documentation"
-msgstr "QGIS 2.14 說明文件"
+#: ../../themes/qgis-theme/getinvolved_donations.html:76
+msgid ""
+"We use the stripe.com service to receive credit card donations. Note that "
+"the payment fees at Stripe are substantially lower than at Paypal - so we "
+"would appreciate it, if you could use Stripe instead of PayPal. No signup "
+"needed."
+msgstr "我們採用 stripe.com 的服務來收信用卡捐款。注意基本上透過 Stripe 的手續費比 Paypal 低 - 所以我們很感謝他們，如果你能用 Stripe 而非 PayPal。不用任何註冊程序。"
 
-#: ../../themes/qgis-theme/docs_index.html:145
-msgid "QGIS 2.8 Documentation"
-msgstr "QGIS 2.8 說明文件"
+#: ../../themes/qgis-theme/getinvolved_donations.html:77
+msgid ""
+"If you do not see a Payment Form here please let us know via "
+"finance@qgis.org."
+msgstr "如果你沒看到付款欄位，請寄信到 finance@qgis.org 讓我們知道。"
+
+#: ../../themes/qgis-theme/getinvolved_donations.html:82
+msgid "Paypal"
+msgstr "Paypal"
+
+#: ../../themes/qgis-theme/getinvolved_donations.html:83
+msgid ""
+"You can use Paypal to donate using your own credit card (but we prefer to use Stripe for that). \n"
+"                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
+"                    or sign-up for one if you are paying by credit card."
+msgstr "你可以透過 Paypal 使用你自己的信用卡捐款 (但我們更希望使用 Stripe)。\n付款程序由 PayPal 處理，但你不用有 PayPal 帳號\n或是因為用信用卡付款也可以註冊帳號。"
+
+#: ../../themes/qgis-theme/getinvolved_donations.html:86
+msgid "You can also use your own Paypal account to donate."
+msgstr "您也可以使用自己的 Paypal 帳號來捐款。"
+
+#: ../../themes/qgis-theme/getinvolved_donations.html:87
+msgid "List of QGIS Support Channels"
+msgstr "QGIS 支援頻道列表"
+
+#: ../../themes/qgis-theme/getinvolved_donations.html:94
+msgid "Donate via PayPal.com"
+msgstr "通過 PayPal.com 來捐款"
+
+#: ../../themes/qgis-theme/search.html:24
+msgid ""
+"Please activate JavaScript to enable the search\n"
+"    functionality."
+msgstr "請啟動 JavaScript 以使用搜尋功能。"
+
+#: ../../themes/qgis-theme/search.html:29
+msgid ""
+"From here you can search these documents. Enter your search\n"
+"    words into the box below and click \"search\". Note that the search\n"
+"    function will automatically search for all of the words. Pages\n"
+"    containing fewer words won't appear in the result list."
+msgstr "從這邊你可以搜尋這些文件。在下面方框中輸入你的搜尋文字並按「搜尋」。注意搜尋工具會自動搜尋所有文字。只要頁面有更少的文字則不會出現在結果列表。"
+
+#: ../../themes/qgis-theme/search.html:37
+msgid "search"
+msgstr "搜尋"
+
+#: ../../themes/qgis-theme/search.html:42
+msgid "Search Results"
+msgstr "搜尋結果"
+
+#: ../../themes/qgis-theme/search.html:44
+msgid "Your search did not match any results."
+msgstr "您的搜尋未符合任何結果。"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:7
 msgid "Get Involved in the QGIS Community"
@@ -1027,11 +1362,6 @@ msgid ""
 "                organisations. We strive to be a welcoming community for\n"
 "                people of all race, creed, gender and walks of life."
 msgstr "一群熱心參與的志工、組織開發 QGIS。我們社群歡迎任何種族，信仰，性別和生活方式的人參與其中。"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:16
-#: ../../themes/qgis-theme/getinvolved_index.html:12
-msgid "You can get involved!"
-msgstr "您也可以參與其中！"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:14
 msgid "For more information, please read our "
@@ -1222,8 +1552,8 @@ msgid "more information and a list of our sustaining members"
 msgstr ""
 
 #: ../../themes/qgis-theme/getinvolved_index.html:174
-msgid "donations:"
-msgstr "捐助："
+msgid "Donations:"
+msgstr ""
 
 #: ../../themes/qgis-theme/getinvolved_index.html:174
 msgid " one-time financial contributions to the project"
@@ -1232,304 +1562,6 @@ msgstr " 向該專案一次性捐款"
 #: ../../themes/qgis-theme/getinvolved_index.html:174
 msgid "donations via a variety of channels"
 msgstr "通過各種渠道捐款"
-
-#: ../../themes/qgis-theme/languageswitch.html:4
-msgid "English"
-msgstr "英語"
-
-#: ../../themes/qgis-theme/languageswitch.html:5
-msgid "Catalan"
-msgstr "加泰隆語"
-
-#: ../../themes/qgis-theme/languageswitch.html:6
-msgid "Danish"
-msgstr "丹麥語"
-
-#: ../../themes/qgis-theme/languageswitch.html:7
-msgid "German"
-msgstr "德語"
-
-#: ../../themes/qgis-theme/languageswitch.html:8
-msgid "Spanish"
-msgstr "西班牙語"
-
-#: ../../themes/qgis-theme/languageswitch.html:9
-msgid "Persian"
-msgstr "波斯語"
-
-#: ../../themes/qgis-theme/languageswitch.html:10
-msgid "Finnish"
-msgstr "芬蘭語"
-
-#: ../../themes/qgis-theme/languageswitch.html:11
-msgid "French"
-msgstr "法語"
-
-#: ../../themes/qgis-theme/languageswitch.html:12
-msgid "Galician"
-msgstr "加利西亞語"
-
-#: ../../themes/qgis-theme/languageswitch.html:13
-msgid "Indonesian"
-msgstr "印尼語"
-
-#: ../../themes/qgis-theme/languageswitch.html:14
-msgid "Italian"
-msgstr "義大利語"
-
-#: ../../themes/qgis-theme/languageswitch.html:15
-msgid "Hungarian"
-msgstr "匈牙利語"
-
-#: ../../themes/qgis-theme/languageswitch.html:16
-msgid "Japanese"
-msgstr "日語"
-
-#: ../../themes/qgis-theme/languageswitch.html:17
-msgid "Khmer"
-msgstr "高棉語"
-
-#: ../../themes/qgis-theme/languageswitch.html:18
-msgid "Korean"
-msgstr "韓語"
-
-#: ../../themes/qgis-theme/languageswitch.html:19
-msgid "Lithuanian"
-msgstr "立陶宛語"
-
-#: ../../themes/qgis-theme/languageswitch.html:20
-msgid "Dutch"
-msgstr "荷蘭語"
-
-#: ../../themes/qgis-theme/languageswitch.html:21
-msgid "Polish"
-msgstr "波蘭語"
-
-#: ../../themes/qgis-theme/languageswitch.html:22
-msgid "Portuguesei (Brazil)"
-msgstr "葡萄牙語 (巴西)"
-
-#: ../../themes/qgis-theme/languageswitch.html:23
-msgid "Portuguese"
-msgstr "葡萄牙語"
-
-#: ../../themes/qgis-theme/languageswitch.html:24
-msgid "Romanian"
-msgstr "羅馬尼亞語"
-
-#: ../../themes/qgis-theme/languageswitch.html:25
-msgid "Turkish"
-msgstr "土耳其語"
-
-#: ../../themes/qgis-theme/languageswitch.html:26
-msgid "Russian"
-msgstr "俄語"
-
-#: ../../themes/qgis-theme/languageswitch.html:27
-msgid "Ukrainian"
-msgstr "烏克蘭語"
-
-#: ../../themes/qgis-theme/languageswitch.html:28
-msgid "Chinese (Simplified)"
-msgstr "中文 (簡體字)"
-
-#: ../../themes/qgis-theme/languageswitch.html:29
-msgid "Chinese (Traditional)"
-msgstr "中文 (正體字)"
-
-#: ../../themes/qgis-theme/languageswitch.html:99
-msgid "Thank you!"
-msgstr "感謝您！"
-
-#: ../../themes/qgis-theme/languageswitch.html:101
-msgid ""
-"Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and "
-"will always be free of charge if downloaded from QGIS.org. If you can afford"
-" to support the project and people making this software, please consider "
-"making <a href=\"https://qgis.org/en/site/getinvolved/donations.html\">a "
-"small donation to support</a> our efforts. Whether you choose to donate or "
-"not, we hope that you enjoy using our labour of love and encourage you to "
-"share and spread your downloaded copy far and wide so that others may enjoy "
-"it too. Our very best regards!"
-msgstr ""
-
-#: ../../themes/qgis-theme/languageswitch.html:102
-#: ../../themes/qgis-theme/languageswitch.html:132
-msgid "The QGIS Team"
-msgstr "QGIS 團隊"
-
-#: ../../themes/qgis-theme/languageswitch.html:104
-msgid "Donate Now"
-msgstr "現在捐贈"
-
-#: ../../themes/qgis-theme/languageswitch.html:105
-#: ../../themes/qgis-theme/languageswitch.html:134
-msgid "Close this message"
-msgstr "關閉此訊息"
-
-#: ../../themes/qgis-theme/languageswitch.html:128
-msgid "Thank you for your donation!"
-msgstr "謝謝你的捐款！"
-
-#: ../../themes/qgis-theme/languageswitch.html:130
-msgid ""
-"QGIS is free of charge and we hope that you enjoy using our labour of love "
-"and encourage you to share and spread your downloaded copy far and wide so "
-"that others may enjoy it too. Our very best regards!"
-msgstr "QGIS 並不需要付費，而我們希望你能好好享用我們的愛心勞力，以及鼓勵你分享和散播你的這份下載，越廣越好，讓其他人也能享用。我們最好的問候！"
-
-#: ../../themes/qgis-theme/languageswitch.html:131
-msgid ""
-"Unfortunately there was an error processing your Donation. Please try again "
-"later, or contact us via finance@qgis.org"
-msgstr "很不幸我們處理你的捐款時發生錯誤，請稍後再試一次，或是透過 finance@qgis.org 聯繫我們"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:8
-msgid "QGIS Donations"
-msgstr "QGIS 的贊助者"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:9
-msgid ""
-"QGIS is developed by a team of dedicated volunteers, companies and "
-"organisations."
-msgstr "QGIS 是由一群有志者、公司和社群組織等團隊所共同開發的。"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:13
-msgid ""
-"Donations to QGIS are tax-deductible in several countries. Please refer to your local tax office for details.\n"
-"                    If you want to tax-deduct as a german company or organization, please donate through the "
-msgstr "在許多國家贊助 QGIS 是可以抵稅的。請向您本地的稅務單位洽詢細節。\n如果您想像德國公司或組織取得稅賦減免，請透過下面的方式來捐款"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:14
-msgid "German QGIS user group"
-msgstr "德國 QGIS 使用者社群"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:14
-msgid ""
-". They can issue a payment confirmation as a tax-exempt german association."
-msgstr "。他們能核發付款確認給免納稅的德國組織。"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:28
-msgid "DONATE TO THE PROJECT"
-msgstr "捐贈給該專案"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:33
-#: ../../themes/qgis-theme/getinvolved_donations.html:53
-msgid "Bank Transfer"
-msgstr "銀行匯款"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:36
-msgid "Credit card and Paypal"
-msgstr "信用卡與 PayPal"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:54
-msgid ""
-"Use the details below to make a donation via international money transfer:"
-msgstr "使用下方的詳細資訊以透過國際匯款的方式來捐款："
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:75
-msgid "Stripe"
-msgstr "Stripe"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:76
-msgid ""
-"We use the stripe.com service to receive credit card donations. Note that "
-"the payment fees at Stripe are substantially lower than at Paypal - so we "
-"would appreciate it, if you could use Stripe instead of PayPal. No signup "
-"needed."
-msgstr "我們採用 stripe.com 的服務來收信用卡捐款。注意基本上透過 Stripe 的手續費比 Paypal 低 - 所以我們很感謝他們，如果你能用 Stripe 而非 PayPal。不用任何註冊程序。"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:77
-msgid ""
-"If you do not see a Payment Form here please let us know via "
-"finance@qgis.org."
-msgstr "如果你沒看到付款欄位，請寄信到 finance@qgis.org 讓我們知道。"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:82
-msgid "Paypal"
-msgstr "Paypal"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:83
-msgid ""
-"You can use Paypal to donate using your own credit card (but we prefer to use Stripe for that). \n"
-"                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
-"                    or sign-up for one if you are paying by credit card."
-msgstr "你可以透過 Paypal 使用你自己的信用卡捐款 (但我們更希望使用 Stripe)。\n付款程序由 PayPal 處理，但你不用有 PayPal 帳號\n或是因為用信用卡付款也可以註冊帳號。"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:86
-msgid "You can also use your own Paypal account to donate."
-msgstr "您也可以使用自己的 Paypal 帳號來捐款。"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:87
-msgid "List of QGIS Support Channels"
-msgstr "QGIS 支援頻道列表"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:94
-msgid "Donate via PayPal.com"
-msgstr "通過 PayPal.com 來捐款"
-
-#: ../../themes/qgis-theme/localtoc.html:3
-msgid "Page"
-msgstr "頁"
-
-#: ../../themes/qgis-theme/page.html:40
-msgid ""
-"If not stated otherwise, all content is licensed under <a "
-"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
-"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
-msgstr "若無另行說明，所有內容均按<a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">創用 CC 姓名標示-相同方式分享 3.0 協定 (CC BY-SA)</a>授權"
-
-#: ../../themes/qgis-theme/page.html:44
-msgid ""
-"Select graphics from <a href=\"http://thenounproject.com\" "
-"target=\"_blank\">The Noun Project collection</a>"
-msgstr "從 <a href=\"http://thenounproject.com\" target=\"_blank\">The Noun Project 彙編</a>中選擇 "
-
-#: ../../themes/qgis-theme/page.html:48
-msgid " - Last updated on "
-msgstr " - 最近更新於 "
-
-#: ../../themes/qgis-theme/page.html:52
-msgid "Untranslated page? Or you spot a translation error:"
-msgstr "未翻譯的頁面？或者發現了翻譯錯誤："
-
-#: ../../themes/qgis-theme/page.html:53 ../../themes/qgis-theme/page.html:56
-msgid "fix me"
-msgstr "請把我修好"
-
-#: ../../themes/qgis-theme/page.html:55
-msgid "Textual error, missing text or you know better:"
-msgstr "文本的錯誤、缺失文本或您知道更好的寫法："
-
-#: ../../themes/qgis-theme/page.html:138
-msgid "Discover QGIS"
-msgstr "發掘 QGIS"
-
-#: ../../themes/qgis-theme/search.html:24
-msgid ""
-"Please activate JavaScript to enable the search\n"
-"    functionality."
-msgstr "請啟動 JavaScript 以使用搜尋功能。"
-
-#: ../../themes/qgis-theme/search.html:29
-msgid ""
-"From here you can search these documents. Enter your search\n"
-"    words into the box below and click \"search\". Note that the search\n"
-"    function will automatically search for all of the words. Pages\n"
-"    containing fewer words won't appear in the result list."
-msgstr "從這邊你可以搜尋這些文件。在下面方框中輸入你的搜尋文字並按「搜尋」。注意搜尋工具會自動搜尋所有文字。只要頁面有更少的文字則不會出現在結果列表。"
-
-#: ../../themes/qgis-theme/search.html:37
-msgid "search"
-msgstr "搜尋"
-
-#: ../../themes/qgis-theme/search.html:42
-msgid "Search Results"
-msgstr "搜尋結果"
-
-#: ../../themes/qgis-theme/search.html:44
-msgid "Your search did not match any results."
-msgstr "您的搜尋未符合任何結果。"
 
 #~ msgid "QGIS 2.16 Released"
 #~ msgstr ""
@@ -2408,4 +2440,43 @@ msgstr "您的搜尋未符合任何結果。"
 #~ msgid ""
 #~ "Create, edit, visualise, analyse and publish geospatial\n"
 #~ "            information on Windows, Mac, Linux, BSD (Android coming soon)"
+#~ msgstr ""
+
+#~ msgid "New release: 3.12!"
+#~ msgstr ""
+
+#~ msgid "24th Developer meeting"
+#~ msgstr ""
+
+#~ msgid "Come along to"
+#~ msgstr ""
+
+#~ msgid "'s-Hertogenbosch, The Netherlands"
+#~ msgstr ""
+
+#~ msgid "to find out more about QGIS!"
+#~ msgstr ""
+
+#~ msgid "donations:"
+#~ msgstr ""
+
+#~ msgid "http://docs.qgis.org/testing"
+#~ msgstr ""
+
+#~ msgid "User guide/Manual"
+#~ msgstr ""
+
+#~ msgid "http://docs.qgis.org/testing/pdf"
+#~ msgstr ""
+
+#~ msgid "qgis-dev-full"
+#~ msgstr ""
+
+#~ msgid "See the latest features in the visual changelog"
+#~ msgstr ""
+
+#~ msgid "New release: 3.14!"
+#~ msgstr ""
+
+#~ msgid "Latest Blog Posts (planet.qgis.org)"
 #~ msgstr ""

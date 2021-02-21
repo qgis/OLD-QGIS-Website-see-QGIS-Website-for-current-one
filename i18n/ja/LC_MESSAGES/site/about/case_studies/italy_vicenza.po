@@ -1,13 +1,14 @@
 # 
 # Translators:
-# Kohei Tomita <fairtommy@gmail.com>, 2017
+# fairtommy <fairtommy@gmail.com>, 2019
+# fairtommy <fairtommy@gmail.com>, 2017-2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-12-04 03:45+0000\n"
-"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"PO-Revision-Date: 2019-10-25 07:10+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,7 +35,7 @@ msgid ""
 "via PHP form using canonical web browser (Firefox, Iceweasel as well). In a "
 "second moment the shape of every building was draw with QGIS and linked to "
 "the survey table via id key field (PostgreSQL/Postgis view)."
-msgstr "すべての建物データを調査して取得し、紙のスケジュールで書かれていました。一度オフィスでのデータは、標準的なWebブラウザを使用してPHPのフォームからのPostgreSQL / PostGISのデータベースにinputedた（Firefoxの、Iceweaselのも）。第二の瞬間には、すべての建物の形状は、QGISで引き分けだったとidキーフィールド（PostgreSQLの/ PostGISのビュー）を介して、調査表にリンクされています。"
+msgstr "すべての建物データは調査を通じて取得され、紙のスケジュールに書かれました。一度オフィスでデータは標準的なWebブラウザを使用してPHPのフォームからのPostgreSQL / PostGISのデータベースに入力inputedされました（Firefoxの、Iceweaselのも）。第二の瞬間には、すべての建物の形状は、QGISで描画されidキーフィールド（PostgreSQLの/ PostGISのビュー）を介して、調査表にリンクされました。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:21
 msgid ""
@@ -46,7 +47,7 @@ msgstr "同時に、建物のファサードはQCAD（LibreCAD）を使用して
 msgid ""
 "The PDR (piani di recupero) must follow strict rules that require specific "
 "graphics:"
-msgstr "PDR（pianiジrecupero）は、特定のグラフィックスを必要とする厳密な規則に従わなければなりません。"
+msgstr "PDR（piani di recupero復旧計画）は、特定のグラフィックスを必要とする厳密な規則に従わなければなりません。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:25
 msgid "Present state"
@@ -78,7 +79,7 @@ msgid ""
 "libreoffice suite. The report consists in a schedule summarise with photo, "
 "cartography extract which localize the building in the contest and data of "
 "the present state."
-msgstr "最後に、すべての建物のための統合報告書は、LibreOfficeのスイートを用いて製造しました。報告書は、現状のコンテストやデータに建物をローカライズ写真、地図作成エキスをまとめるスケジュールで構成されています。"
+msgstr "最後に、すべての建物のための統合報告書が、LibreOfficeのスイートを用いて製作されました。報告書は、現状のコンテストやデータに建物をローカライズ写真、地図作成エキスをまとめるスケジュールで構成されています。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:49
 msgid "QGIS print composer for final graphic layout"
@@ -104,13 +105,13 @@ msgid ""
 "(QGIS, Postgresql/Postgis, Spatialite). He is a member of GFOSS.it "
 "(Associazione Italiana per l'Informazione Geografica Libera) since 2007 and "
 "was a member of the GFOSS.it board from 2010 to 2012."
-msgstr "この記事では、フラビオRigolonによって2012年5月に寄贈されました。彼はヴィチェンツァ（イタリア）に住んでいるとSITマネージャーとしてモンテッキオマッジョーレの自治体で動作します。彼は、無料のプラットフォーム（QGISはPostgreSQL / PostGISの、Spatialite）に独自のほとんどすべてのGISデータを移行しました。彼は2007年以降GFOSS.it（L'あたりAssociazione ItalianaのInformazione Geograficaリベラ）のメンバーであり、2010年から2012年までGFOSS.itボードのメンバーでした。"
+msgstr "この記事はフラビオ・リゴロンによって2012年5月に寄稿されました。氏はヴィチェンツァ（イタリア）に在住でSITマネージャーとしてモンテッキオマッジョーレの自治体で働いています。氏は、無料のプラットフォーム（QGISはPostgreSQL / PostGISの、Spatialite）に独自のほとんどすべてのGISデータを移行しました。氏は2007年以降GFOSS.it（L'あたりAssociazione ItalianaのInformazione Geograficaリベラ）のメンバーであり、2010年から2012年までGFOSS.itボードのメンバーでした。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:3
 msgid ""
 "Using QGIS for urban planning in the municipality of Montecchio Maggiore, "
 "Vicenza, Italy"
-msgstr "Montecchio Maggiore、Vicenza、Italyの自治体での都市計画にQGISを使用する"
+msgstr "Montecchio Maggiore、ヴィチェンツァ、イタリア、自治体での都市計画にQGISを使用する"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:5
 msgid ""
@@ -143,7 +144,7 @@ msgid ""
 "percentage of the total planning area and other minor queries. All useful "
 "items for the design and planning study otherwise not possible without a "
 "very strength tool like gis (and QGIS in particular)."
-msgstr "したがって、写真は（「アクション」機能を使用して）、GISプロジェクトの設計とanalisysを促進するすべての建物にリンクされました。SQLツール（pgquery、PostGISのマネージャー、DBManagerのら）のようなマップキャンバスですぐに閲覧可能な非常に洗練されたクエリ得ることが許さ：総計画面積と他のマイナーの割合で、使用目的、標準面積計算を構築することにより、体積計算分割をクエリ。それ以外の場合は設計と計画研究のためのすべての便利なアイテムではない可能性GIS（特にQGIS）のような非常に強力なツールなし。"
+msgstr "したがって、写真は（「アクション」機能を使用して）、このGISプロジェクトにおける設計とanalisysを促進してすべての建物にリンクされました。SQLツール（pgquery、PostGISマネージャー、DBManager等）により、以下のような地図キャンバスですぐに閲覧可能な非常に洗練されたクエリを得ることが許されました：建物の使用目的で分割された体積計算、全計画面積の割合での標準面積計算、そして他の小さなクエリ。GIS（特にQGIS）のような非常に強力なツールのない場合は不可能な、設計と計画研究のためのすべての便利なアイテム。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:54
 msgid ""
@@ -153,14 +154,14 @@ msgid ""
 "interoperability between different worlds. And thus the freedom offered by "
 "the free software (QGIS, PHP, Libreoffice, QCAD) stimulates and open new "
 "horizons."
-msgstr "QGISの強さは、それが提供するいくつかのツールと相まって非常にユーザーフレンドリーなインターフェイスです。関連データ形式（形状ファイル、spatialite DBはPostgreSQL / PostGISのデシベル、...）を変化させるには、異なる世界の間の相互運用性を容易に増加させます。したがって、フリーソフトウェア（QGIS、PHP、LibreOfficeの、QCadは）によって提供される自由は刺激し、新しい地平を開きます。"
+msgstr "QGISの強さは、それが提供するいくつかのツールと相まって非常にユーザーフレンドリーなインターフェイスです。関連データ形式（シェープファイル、spatialite DBはPostgreSQL / PostGISのデシベル、...）を変化させるには、異なる世界の間の相互運用性を容易に増加させます。したがって、フリーソフトウェア（QGIS、PHP、LibreOfficeの、QCadは）によって提供される自由は刺激し、新しい地平を開きます。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:56
 msgid ""
 "And last but not least: we worked on different platform (Windows 7 64 bit, "
 "Windows xp 32 bit, Debian server and Debian client) but we never encountered"
 " insurmountable problems."
-msgstr "そして、少なくとも最後のではなく：私たちは、異なるプラットフォーム上で働いていた（Windows 7の64ビット、Windows XPの32ビット、DebianのサーバとDebianのクライアント）が、私たちは乗り越えられない問題に遭遇したことはありません。"
+msgstr "そして、言い残していましたが：私たちは、異なるプラットフォーム上（Windows 7の64ビット、Windows XPの32ビット、DebianのサーバとDebianのクライアント）で作業していましたが、乗り越えられない問題に遭遇したことはありません。"
 
 #~ msgid ""
 #~ "Using QGIS for urban planning in the municipality of Montecchio Maggiore, "

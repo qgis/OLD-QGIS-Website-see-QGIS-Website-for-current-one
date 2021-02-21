@@ -1,13 +1,16 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
+# João Gaspar <joao.f.r.gaspar@gmail.com>, 2019-2020
+# Manuela Silva <manuelarodsilva@gmail.com>, 2018
+# Rui <xymarior@yandex.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 20:02+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2020-05-09 14:58+0000\n"
+"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,7 +56,7 @@ msgid ""
 "electricity networks. However, these are expert systems in use by specially "
 "trained staff. All other GIS projects and the viewing of all data is handled"
 " by QGIS."
-msgstr "A administração da cidade também usa um software SIG comercial: Autodesk Topobase, para recolher e editar informação cadastral e de infraestrutra de desperdício de água, e GE Smallworld para a gestão de redes do gás, água e  electricidade. Contudo, estes são sistemas especialistas usados por pessoal especialmente formado. Todos os outros projectos de SIG e visualização de todos os dados é tratado pelo QGIS."
+msgstr "A administração da cidade também usa um software SIG comercial: Autodesk Topobase, para recolher e editar informação cadastral e de infraestrutura de desperdício de água, e GE Smallworld para a gestão de redes do gás, água e  eletricidade. Contudo, estes são sistemas especialistas usados por pessoal especialmente formado. Todos os outros projetos de SIG e visualização de todos os dados é tratado pelo QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:21
 msgid ""
@@ -66,17 +69,17 @@ msgid ""
 "rich set of symbolization and labeling options and the consistent map "
 "rendering between the Desktop GIS application and the Web-GIS. The QGIS "
 "webclient can be tested and used at http://gis.uster.ch/"
-msgstr "No segundo semestre de 2010, os primeiros testes com o servidor do QGIS foram realizadas. Em 2011, introduziu-se um novo sistema WebSIG baseado no servidor WMS QGIS e GeoExt / OpenLayers como cliente web. As principais razões para a decisão de usar servidor do QGIS foi a considerável poupança de tempo possível graças reutilização das configurações existentes do projecto do QGIS desktop, em vez de de ter que gerir configurações de projecto Web paralelo. Outras vantagens são o seu rico conjunto de simbolização e as opções de rotulagem e consistência de renderização do mapa entre a aplicação SIG Desktop e do Web-SIG. O cliente web QGIS pode ser testado e utilizado em http://gis.uster.ch/"
+msgstr "No segundo semestre de 2010, os primeiros testes com o servidor do QGIS foram realizadas. Em 2011, introduziu-se um novo sistema WebSIG baseado no servidor WMS QGIS e GeoExt / OpenLayers como cliente web. As principais razões para a decisão de usar servidor do QGIS foi a considerável poupança de tempo possível graças reutilização das configurações existentes do projeto do QGIS desktop, em vez de de ter que gerir configurações de projeto Web paralelo. Outras vantagens são o seu rico conjunto de simbolização e as opções de rotulagem e consistência de renderização do mapa entre a aplicação SIG Desktop e do Web-SIG. O cliente web QGIS pode ser testado e utilizado em http://gis.uster.ch/"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:28
 msgid "Today, QGIS is used for the following GIS projects:"
-msgstr "Actualmente, o QGIS é usado para os seguintes projectos SIG:"
+msgstr "Atualmente, o QGIS é usado para os seguintes projetos SIG:"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:30
 msgid ""
 "viewing of waste-water data, integration of additional databases and direct "
 "access to canal videos and inspection protocols"
-msgstr "visualização de informação de desperdício de água, integração de bases de dados adicionais e acesso directo a vídeos de canais e protocolos de inspecção"
+msgstr "visualização de informação de desperdício de água, integração de bases de dados adicionais e acesso direto a vídeos de canais e protocolos de inspeção"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:31
 msgid ""
@@ -90,7 +93,7 @@ msgid ""
 "viewing of underground cadastral data (waste water, water, gas and "
 "electricity networks, later also telecommunication) (german: "
 "Leitungskataster)"
-msgstr "visualização de dados cadastrais subterrâneos (desperdício de água, água, redes de electricidade e gás, e por fim telecomunicações) (alemão: Leitungskataster)"
+msgstr "visualização de dados cadastrais subterrâneos (desperdício de água, água, redes de eletricidade e gás, e por fim telecomunicações) (alemão: Leitungskataster)"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:33
 msgid "viewing of cadastral and survey data"
@@ -99,7 +102,7 @@ msgstr "visualização de dados cadastrais e levantamentos"
 #: ../../source/site/about/case_studies/suisse_uster.rst:34
 msgid ""
 "viewing and editing of the communal inventory of protected natural sites"
-msgstr "visualização e edição de inventários de baldios e sítios naturais de protecção"
+msgstr "visualização e edição de inventários de baldios e sítios naturais de proteção"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:35
 msgid "viewing and editing of urban and regional planning data"
@@ -113,7 +116,7 @@ msgstr "visualização e edição da informação da infraestrutura de rede viá
 msgid ""
 "viewing statistics generated directly from the database of current and past "
 "residents"
-msgstr "visualização de estatísticas geradas directamente da base de dados dos residentes actuais e do passado"
+msgstr "visualização de estatísticas geradas diretamente da base de dados dos residentes atuais e do passado"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:47
 msgid ""
@@ -126,7 +129,7 @@ msgid ""
 "product management or sales team. The developers of these two companies are "
 "also lead developers of the QGIS project and have excellent knowledge of the"
 " code base."
-msgstr "Em 2007 não foi totalmente claro em que ritmo o QGIS seria desenvolvido e como a comunidade e o apoio comercial iriam evoluir. Hoje pode-se afirmar que a velocidade do desenvolvimento e as melhorias feitas pela comunidade QGIS superou as nossas expectativas. A comunidade e o suporte comercial das empresas Sourcepole e Norbit é excelente. Há uma comunicação directa com os programadores sem ser blindados pela gestão de produto ou equipa de vendas. Os programadores das duas empresas são também programadores líderes do projecto QGIS e têm um excelente conhecimento do código base."
+msgstr "Em 2007 não foi totalmente claro em que ritmo o QGIS seria desenvolvido e como a comunidade e o apoio comercial iriam evoluir. Hoje pode-se afirmar que a velocidade do desenvolvimento e as melhorias feitas pela comunidade QGIS superou as nossas expectativas. A comunidade e o suporte comercial das empresas Sourcepole e Norbit é excelente. Há uma comunicação direta com os programadores sem ser blindados pela gestão de produto ou equipa de vendas. Os programadores das duas empresas são também programadores líderes do projeto QGIS e têm um excelente conhecimento do código base."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:49
 msgid ""
@@ -139,7 +142,7 @@ msgid ""
 " having to deal with licensing management. We are looking forward to future "
 "collaboration with the QGIS community and our commercial supporters for the "
 "advancement of the QGIS project."
-msgstr "Os erros são muitas vezes fixados em horas ou dias após a notificação e as novos desenvolvimentos são implementados num curto espaço de tempo. As novas funcionalidades podem ser testados imediatamente após o desenvolvimento e distribuído para os utilizadores, sempre que a qualidade é boa e suficiente para o utilizador final. Não há necessidade de esperar por lançamentos oficiais de software. Nós apreciamos a liberdade de ser capaz de influenciar o projecto e instalar o software em quantos computadores que gostamos, sem ter que lidar com a gestão de licenciamento. Estamos a olhar para a frente para uma futura colaboração com a comunidade QGIS e os nossos apoiantes comerciais para o avanço do projecto QGIS."
+msgstr "Os erros são muitas vezes corrigidos em horas ou dias após a notificação e os novos desenvolvimentos são implementados num curto espaço de tempo. As novas funcionalidades podem ser testados imediatamente após o desenvolvimento e distribuído para os utilizadores, sempre que a qualidade é boa e suficiente para o utilizador final. Não há necessidade de esperar por lançamentos oficiais de software. Nós apreciamos a liberdade de ser capaz de influenciar o projeto e instalar o software em quantos computadores que gostamos, sem ter que lidar com a gestão de licenciamento. Estamos a olhar para a frente para uma futura colaboração com a comunidade QGIS e os nossos apoiantes comerciais para o avanço do projeto QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:52
 msgid "Author"
@@ -153,7 +156,7 @@ msgstr "Andreas Neumann"
 msgid ""
 "This article was contributed in April 2011 by Dr. Andreas Neumann. He is GIS"
 " coordinator at the City of Uster, Switzerland."
-msgstr "Este artigo foi contribuído em Abril de 2011 pelo Dr. Andreas Neumann, Ele é coordenador SIG na Cidade de Uster, Suíça."
+msgstr "Este artigo teve o contributo em Abril de 2011 pelo Dr. Andreas Neumann, Ele é coordenador SIG na Cidade de Uster, Suíça."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:38
 msgid ""
@@ -164,7 +167,7 @@ msgstr "Planeamento e visualização do planeamento para a energia (regiões de 
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:40
 msgid "Additional further projects are currently under development."
-msgstr "Projectos adicionais estão actualmente em desenvolvimento."
+msgstr "Os projetos adicionais estão atualmente em desenvolvimento."
 
 #~ msgid ""
 #~ "Planning and visualization for energy planning (gas supply regions, heat use"

@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2020
+# Sorin Călinică <scalinica@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-12 16:20+0200\n"
 "PO-Revision-Date: 2018-12-19 16:27+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2020\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2020\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -79,6 +79,15 @@ msgid ""
 "supporters is provided below - our very great thank you to all of our "
 "supporters!"
 msgstr ""
+"QGIS este susținut prin donații și sponsorizări. Listă curentă a celor care "
+"au efectuat contribuții financiare mari și mici la proiect poate fi "
+"consultată în :ref:`donors list <list_of_donors>`.  Dacă doriți să "
+"sponsorizați în mod oficial proiectul, vă rugăm să vizitați :ref:`pagina "
+"membrilor susținători<QGIS_sustaining_memberships>`. Sponsorizările QGIS ne "
+"ajută să finanțăm întâlnirea dezvoltatorilor o dată la șase luni, să "
+"menținem infrastructura proiectului și să finanțăm eforturile de eliminare a"
+" erorilor. În continuare este prezentată lista completă a sponsorilor "
+"actuali - acestora le transmitem mulțumirile noastre!"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:19
 msgid ""
@@ -112,7 +121,7 @@ msgstr "Generalități"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:33
 msgid "Feature: Flatpak"
-msgstr "Caracteristică: Flatpak"
+msgstr "Funcționalitate: Flatpak"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:35
 msgid ""
@@ -345,7 +354,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:108
 msgid "Map Tools"
-msgstr "Instrumente Pentru Hartă"
+msgstr "Instrumente De Cartografiere"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:111
 msgid "Feature: Identify or select features based on existing polygon"
@@ -635,6 +644,8 @@ msgid ""
 "This feature was developed by `David Signer and Matthias Kuhn (OPENGIS.ch) "
 "<https://www.opengis.ch>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `David Signer și Matthias Kuhn "
+"(OPENGIS.ch) <https://www.opengis.ch>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:214
 msgid "Symbology"
@@ -678,12 +689,16 @@ msgid ""
 "This feature was funded by `Lutra Consulting "
 "<https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Lutra Consulting "
+"<https://www.lutraconsulting.co.uk/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:228
 msgid ""
 "This feature was developed by `Peter Petrik (Lutra Consulting) "
 "<https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Peter Petrik (Lutra "
+"Consulting) <https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:231
 msgid "Feature: Classify symmetric in graduated renderer"
@@ -692,10 +707,12 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:233
 msgid "This feature was funded by https://github.com/pierreloicq"
 msgstr ""
+"Această funcționalitate a fost finanțată de https://github.com/pierreloicq"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:235
 msgid "This feature was developed by https://github.com/pierreloicq"
 msgstr ""
+"Această funcționalitate a fost finanțată de https://github.com/pierreloicq"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:238
 msgid "Feature: Partial QML export and import"
@@ -719,12 +736,16 @@ msgstr "|image10|"
 #: ../../source/site/forusers/visualchangelog34/index.rst:246
 msgid "This feature was funded by `qwat group <http://qwat.org/>`__"
 msgstr ""
+"**Această funcționalitate a fost finanțată de `grupul qwat "
+"<http://qwat.org/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:248
 msgid ""
 "This feature was developed by `Denis Rouzaud (OPENGIS.ch GmbH) "
 "<https://www.opengis.ch>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Denis Rouzaud (OPENGIS.ch "
+"GmbH) <https://www.opengis.ch>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:251
 msgid "Digitising"
@@ -745,11 +766,15 @@ msgstr ""
 msgid ""
 "This feature was funded by `Andrea Rossi <https://github.com/rossia>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Andrea Rossi "
+"<https://github.com/rossia>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:260
 msgid ""
 "This feature was developed by `Andrea Rossi <https://github.com/rossia>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Andrea Rossi "
+"<https://github.com/rossia>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:263
 msgid "Feature: More angle choices in advanced digitizing dock"
@@ -769,12 +794,16 @@ msgstr "|image11|"
 msgid ""
 "This feature was funded by `lbartoletti <https://github.com/lbartoletti>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `lbartoletti "
+"<https://github.com/lbartoletti>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:271
 msgid ""
 "This feature was developed by `lbartoletti "
 "<https://github.com/lbartoletti>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `lbartoletti "
+"<https://github.com/lbartoletti>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:274
 msgid "Feature: Vertex tool can work on the current layer only"
@@ -803,6 +832,8 @@ msgid ""
 "This feature was developed by `Paul Blottiere (Oslandia) "
 "<https://oslandia.com/en/home-en/>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Paul Blottiere (Oslandia) "
+"<https://oslandia.com/en/home-en/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:285
 msgid "Feature: Add reverse line maptools"
@@ -822,12 +853,16 @@ msgstr "|image13|"
 #: ../../source/site/forusers/visualchangelog34/index.rst:927
 msgid "This feature was funded by `OSLANDIA <https://oslandia.com>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `OSLANDIA "
+"<https://oslandia.com>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:293
 msgid ""
 "This feature was developed by `Loïc Bartoletti "
 "<https://github.com/lbartoletti>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Loïc Bartoletti "
+"<https://github.com/lbartoletti>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:296
 msgid "Feature: Geometry Precision"
@@ -854,6 +889,9 @@ msgid ""
 "This feature was funded by `Kanton Solothurn <https://www.so.ch/verwaltung"
 "/bau-und-justizdepartement/amt-fuer-geoinformation/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Kanton Solothurn "
+"<https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-"
+"geoinformation/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:306
 #: ../../source/site/forusers/visualchangelog34/index.rst:316
@@ -962,12 +1000,16 @@ msgid ""
 "This feature was funded by `QGIS Usergroup Switzerland and QGEP Project "
 "<https://www.qgis.ch/en>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Grupul Utilizatorilor Elvețieni"
+" de QGIS și de Proiectul QGEP <https://www.qgis.ch/en>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:362
 msgid ""
 "This feature was developed by `David Signer (OPENGIS.ch) "
 "<https://www.opengis.ch/>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `David Signer (OPENGIS.ch) "
+"<https://www.opengis.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:365
 msgid "Feature: Switch Attribute Table dock mode on demand"
@@ -1012,6 +1054,8 @@ msgstr "|image18|"
 #: ../../source/site/forusers/visualchangelog34/index.rst:384
 msgid "This feature was funded by `Opengis.ch <https://www.opengis.ch/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Opengis.ch "
+"<https://www.opengis.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:386
 msgid ""
@@ -1046,6 +1090,9 @@ msgid ""
 "This feature was funded by `Arpa Piemonte (Dipartimento Tematico Geologia e "
 "Dissesto) within ERIKUS project <https://www.arpa.piemonte.it/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Arpa Piemonte (Dipartimento "
+"Tematico Geologia e Dissesto) within ERIKUS project "
+"<https://www.arpa.piemonte.it/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:399
 #: ../../source/site/forusers/visualchangelog34/index.rst:1080
@@ -1054,6 +1101,9 @@ msgid ""
 "<https://www.lutraconsulting.co.uk>`__ and `Faunalia "
 "<https://www.faunalia.eu>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Martin Dobias (Lutra "
+"Consulting) <https://www.lutraconsulting.co.uk>`__ and `Faunalia "
+"<https://www.faunalia.eu>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:402
 msgid "Feature: Append raster layer to an existing Geopackage"
@@ -1074,6 +1124,8 @@ msgstr "|image20|"
 msgid ""
 "This feature was funded by `Borys Jurgiel <https://github.com/borysiasty>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Borys Jurgiel "
+"<https://github.com/borysiasty>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:410
 #: ../../source/site/forusers/visualchangelog34/index.rst:943
@@ -1081,6 +1133,8 @@ msgid ""
 "This feature was developed by `Borys Jurgiel "
 "<https://github.com/borysiasty>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Borys Jurgiel "
+"<https://github.com/borysiasty>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:413
 msgid "Forms and Widgets"
@@ -1107,10 +1161,15 @@ msgid ""
 "This feature was funded by `QGIS community through crowd-funding <https"
 "://north-road.com/drill-down-cascading-forms/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Comunitatea QGIS community "
+"printr-o campanie de finanțare <https://north-road.com/drill-down-cascading-"
+"forms/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:424
 msgid "This feature was developed by Alessandro Pasotti (with North Road)"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de Alessandro Pasotti (cu "
+"sprijinul North Road)"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:427
 msgid "Map Composer"
@@ -1136,6 +1195,9 @@ msgid ""
 "This feature was funded by `QGIS community through crowd-funding "
 "<https://www.lutraconsulting.co.uk/crowdfunding/more-qgis-3d/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Comunitatea QGIS community "
+"printr-o campanie de finanțare "
+"<https://www.lutraconsulting.co.uk/crowdfunding/more-qgis-3d/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:438
 #: ../../source/site/forusers/visualchangelog34/index.rst:696
@@ -1203,10 +1265,15 @@ msgid ""
 "This feature was funded by `Crowdfunding campaign <https://north-road.com"
 "/edit-features-in-place-using-qgis-spatial-operations-campaign/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Crowdfunding campaign <https"
+"://north-road.com/edit-features-in-place-using-qgis-spatial-operations-"
+"campaign/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:459
 msgid "This feature was developed by `North Road <https://north-road.com>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `North Road <https://north-"
+"road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:462
 msgid "Feature: Store models inside project"
@@ -1249,12 +1316,16 @@ msgstr "|image24|"
 #: ../../source/site/forusers/visualchangelog34/index.rst:479
 msgid "This feature was funded by `Faunalia <https://www.faunalia.eu>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Faunalia "
+"<https://www.faunalia.eu>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:481
 msgid ""
 "This feature was developed by `Matteo Ghetta (Faunalia) "
 "<https://www.faunalia.eu>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Matteo Ghetta (Faunalia) "
+"<https://www.faunalia.eu>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:484
 msgid "Feature: New 'Raster pixels to polygons' algorithm"
@@ -1430,13 +1501,15 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:602
 msgid "This feature was funded by https://qgis.org"
-msgstr ""
+msgstr "Această funcționalitate a fost finanțată de https://qgis.org"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:604
 msgid ""
 "This feature was developed by `Detlev Neumann, Rudi von Staden "
 "<https://qgis.org>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Detlev Neumann, Rudi von "
+"Staden <https://qgis.org>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:607
 msgid ""
@@ -1482,6 +1555,8 @@ msgstr "|image26|"
 msgid ""
 "This feature was funded by `iMHere Asia <https://www.imhere-asia.com/>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `iMHere Asia <https://www"
+".imhere-asia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:632
 msgid "Feature: \"Precalculated\" values for model algorithm parameters"
@@ -1497,6 +1572,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:636
 msgid "This feature was funded by `QGIS <https://qgis.org>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `QGIS <https://qgis.org>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:641
 msgid "Feature: \"Categorize a layer using a style XML file\" algorithm"
@@ -1560,6 +1636,8 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:664
 msgid "This feature was funded by `InaSAFE DFAT <https://www.dfat.gov.au/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `InaSAFE DFAT "
+"<https://www.dfat.gov.au/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:666
 #: ../../source/site/forusers/visualchangelog34/index.rst:1037
@@ -1600,12 +1678,16 @@ msgstr ""
 msgid ""
 "This feature was funded by `Monsanto Company <https://monsanto.com/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Monsanto Company "
+"<https://monsanto.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:681
 msgid ""
 "This feature was developed by `Larry Shaffer, Alessandro Pasotti "
 "<https://qgis.org>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Larry Shaffer, Alessandro "
+"Pasotti <https://qgis.org>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:684
 msgid "Feature: Mesh layer: New mesh layer format support"
@@ -1620,11 +1702,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:688
 msgid "GRIB"
-msgstr ""
+msgstr "GRIB"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:689
 msgid "XMDF"
-msgstr ""
+msgstr "XMDF"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:690
 msgid "Netcdf"
@@ -1639,6 +1721,8 @@ msgid ""
 "This feature was funded by `Lutra Consulting "
 "<https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Lutra Consulting "
+"<https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:699
 msgid "Feature: Mesh layer: add function to identify value on mesh layers"
@@ -1808,16 +1892,21 @@ msgid ""
 "``servercache = PyServerCache(server_iface) "
 "server_iface.registerServerCache(servercache, 100)``"
 msgstr ""
+"``servercache = PyServerCache(server_iface) "
+"server_iface.registerServerCache(servercache, 100)``"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:890
 #: ../../source/site/forusers/visualchangelog34/index.rst:910
 msgid "This feature was funded by `Ifremer <https://wwz.ifremer.fr/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Ifremer "
+"<https://wwz.ifremer.fr/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:892
 #: ../../source/site/forusers/visualchangelog34/index.rst:912
 msgid "This feature was developed by `3Liz <https://3liz.com>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `3Liz <https://3liz.com>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:895
 msgid "Feature: WMTS 1.0.0 support"
@@ -1862,10 +1951,12 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:917
 msgid "This feature was funded by https://github.com/rldhont"
 msgstr ""
+"Această funcționalitate a fost finanțată de https://github.com/rldhont"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:919
 msgid "This feature was developed by https://github.com/rldhont"
 msgstr ""
+"Această funcționalitate a fost finanțată de https://github.com/rldhont"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:922
 msgid "Feature: Support QGIS Server logs to stderr"
@@ -1882,6 +1973,8 @@ msgstr ""
 msgid ""
 "This feature was developed by `Eric Lemoine <https://github.com/elemoine>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Eric Lemoine "
+"<https://github.com/elemoine>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:932
 msgid "Plugins"
@@ -1915,6 +2008,8 @@ msgstr ""
 msgid ""
 "This feature was funded by `Oester Messtechnik <https://messtechnik.ch/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Oester Messtechnik "
+"<https://messtechnik.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:955
 msgid "Programmability"
@@ -2003,7 +2098,7 @@ msgstr "|image36|"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1013
 msgid "This feature was funded by Good will"
-msgstr ""
+msgstr "Această funcționalitate a fost finanțată de Good will"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1015
 msgid "This feature was developed by Alessandro Pasotti"
@@ -2064,6 +2159,8 @@ msgid ""
 "This feature was developed by `Martian Dobias (Lutra Consulting) "
 "<https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Martian Dobias (Lutra "
+"Consulting) <https://www.lutraconsulting.co.uk/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1053
 msgid "Feature: Simple rendering of 3D linestrings"
@@ -2111,6 +2208,8 @@ msgid ""
 "This feature was funded by `Department of Environment, Land and "
 "Infrastructure Engineering (DIATI) <https://www.faunalia.eu/en/>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Department of Environment, "
+"Land and Infrastructure Engineering (DIATI) <https://www.faunalia.eu/en/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1083
 msgid "Feature: Experimental Python API"
@@ -2129,6 +2228,8 @@ msgstr ""
 #~ "This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia"
 #~ " <https://www.lutraconsulting.co.uk/>`__"
 #~ msgstr ""
+#~ "Această funcționalitate a fost dezvoltată de `Martin Dobias (Lutra "
+#~ "Consulting) and Faunalia <https://www.lutraconsulting.co.uk/>`__"
 
 #~ msgid ""
 #~ "QGIS is supported by donors and sponsors. A current list of donors who have "
@@ -2140,15 +2241,15 @@ msgstr ""
 #~ "efforts. A complete list of current sponsors is provided below - our very "
 #~ "great thank you to all of our sponsors!"
 #~ msgstr ""
-#~ "QGIS este susținut prin donații și sponsorizări. Listă curentă a donatorilor"
-#~ " care au efectuat contribuții financiare mari și mici la proiect poate fi "
+#~ "QGIS este susținut prin donații și sponsorizări. Listă curentă a celor care "
+#~ "au efectuat contribuții financiare mari și mici la proiect poate fi "
 #~ "consultată în :ref:`donors list <list_of_donors>`.  Dacă doriți să "
 #~ "sponsorizați în mod oficial proiectul, vă rugăm să vizitați :ref:`our "
 #~ "sponsorship page <QGIS-sponsoring>`. Sponsorizările QGIS ne ajută să "
 #~ "finanțăm întâlnirea dezvoltatorilor o dată la șase luni, să menținem "
 #~ "infrastructura proiectului și să finanțăm eforturile de eliminare a "
 #~ "erorilor. În continuare este prezentată lista completă a sponsorilor actuali"
-#~ " - cărora le transmitem mulțumirile noastre!"
+#~ " - acestora le transmitem mulțumirile noastre!"
 
 #~ msgid ""
 #~ ":raw-html:`<div id=\"qgissponsorsatom\"> <!-- to be filled via javascript "

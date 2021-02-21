@@ -10,6 +10,7 @@
 # Mikhail Sivakov <sivakov.mp@gmail.com>, 2020
 # Marina <pavlova.marina.v@gmail.com>, 2020
 # Evs Yur <evsyur@gmail.com>, 2020
+# Aleksander Petrov <felispimeja+transifex.com@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -18,7 +19,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-12 16:20+0200\n"
 "PO-Revision-Date: 2018-12-19 16:27+0000\n"
-"Last-Translator: Evs Yur <evsyur@gmail.com>, 2020\n"
+"Last-Translator: Aleksander Petrov <felispimeja+transifex.com@gmail.com>, 2020\n"
 "Language-Team: Russian (https://www.transifex.com/qgis/teams/6144/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -82,6 +83,8 @@ msgid ""
 ":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
 "javascript loading of atom feed --> </div>`"
 msgstr ""
+":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
+"javascript loading of atom feed --> </div>`"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:21
 msgid ""
@@ -821,6 +824,8 @@ msgid ""
 "This feature was developed by `Matthias Kuhn (OPENGIS.ch) "
 "<https://www.opengis.ch>`__"
 msgstr ""
+"Эта функциональность разработана `Matthias Kuhn (OPENGIS.ch) "
+"<https://www.opengis.ch>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:309
 msgid "Feature: Automatically remove duplicate nodes"
@@ -973,6 +978,7 @@ msgstr ""
 msgid ""
 "This feature was developed by `Denis Rouzaud <https://www.opengis.ch/>`__"
 msgstr ""
+"Эта функциональность разработана `Denis Rouzaud <https://www.opengis.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:389
 msgid "Feature: Non-removable (required) layers highlighted in layer tree"

@@ -73,6 +73,15 @@ msgid ""
 "sustaining members is provided below - our very great thank you to all of "
 "our supporters!"
 msgstr ""
+"QGIS este susținut prin donații și sponsorizări. Listă curentă a celor care "
+"au efectuat contribuții financiare mari și mici la proiect poate fi "
+"consultată în :ref:`donors list <list_of_donors>`.  Dacă doriți să "
+"sponsorizați în mod oficial proiectul, vă rugăm să vizitați :ref:`pagina "
+"membrilor susținători<QGIS_sustaining_memberships>`. Sponsorizările QGIS ne "
+"ajută să finanțăm întâlnirea dezvoltatorilor o dată la șase luni, să "
+"menținem infrastructura proiectului și să finanțăm eforturile de eliminare a"
+" erorilor. În continuare este prezentată lista completă a membrilor "
+"susținători actuali - acestora le transmitem mulțumirile noastre!"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:18
 msgid ""
@@ -169,11 +178,11 @@ msgstr "|image31|"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:62
 msgid "This feature was developed by Richard Duivenvoorde"
-msgstr ""
+msgstr "Această funcționalitate a fost dezvoltată deRichard Duivenvoorde"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:65
 msgid "Map Tools"
-msgstr "Instrumente Pentru Hartă"
+msgstr "Instrumente De Cartografiere"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:68
 msgid "Feature: Simplify map tool can now also smooth features"
@@ -263,12 +272,16 @@ msgid ""
 "This feature was funded by Leicestershire County Council and East Hampshire "
 "District Council"
 msgstr ""
+"Această facilitate a fost finanțată de Leicestershire County Council and "
+"East Hampshire District Council"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:93
 msgid ""
 "This feature was developed by `Martin Dobias and Viktor Sklencar "
 "<https://www.lutraconsulting.co.uk>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Martin Dobias și Viktor "
+"Sklencar <https://www.lutraconsulting.co.uk>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:96
 msgid "Feature: Store also expanded/collapsed state of nodes in map Themes"
@@ -294,6 +307,9 @@ msgid ""
 "This feature was funded by `Arpa Piemonte (Dipartimento Tematico Geologia e "
 "Dissesto) within ERIKUS project <https://www.arpa.piemonte.it/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Arpa Piemonte (Dipartimento "
+"Tematico Geologia e Dissesto) within ERIKUS project "
+"<https://www.arpa.piemonte.it/>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:104
 #: ../../source/site/forusers/visualchangelog32/index.rst:207
@@ -303,6 +319,9 @@ msgid ""
 "<https://www.lutraconsulting.co.uk>`__ and `Faunalia "
 "<https://www.faunalia.eu>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Martin Dobias (Lutra "
+"Consulting) <https://www.lutraconsulting.co.uk>`__ and `Faunalia "
+"<https://www.faunalia.eu>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:107
 msgid "Feature: Auto \"Zoom to Selection\" mode for new map views"
@@ -394,7 +413,7 @@ msgstr "Expresii"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:152
 msgid "Feature: New expression functions"
-msgstr "Caracteristică: Noi funcții pentru expresii"
+msgstr "Funcționalitate: Noi funcții pentru expresii"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:154
 msgid "color\\_grayscale\\_average()"
@@ -562,6 +581,8 @@ msgid ""
 "This feature was developed by `Denis Rouzaud, OPENGIS.ch "
 "<https://opengis.ch>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Denis Rouzaud, OPENGIS.ch "
+"<https://opengis.ch>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:221
 msgid ""
@@ -648,7 +669,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:260
 #: ../../source/site/forusers/visualchangelog32/index.rst:311
 msgid "This feature was developed by Klavs Pihlkjær"
-msgstr ""
+msgstr "Această funcționalitate a fost dezvoltată de Klavs Pihlkjær"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:263
 msgid "Feature: Close and Revert Project actions"
@@ -677,6 +698,7 @@ msgstr "|image13|"
 #: ../../source/site/forusers/visualchangelog32/index.rst:272
 msgid "This feature was developed by Nathan Woodrow, Nyall Dawson"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de Nathan Woodrow, Nyall Dawson"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:275
 msgid "Feature: Unsaved changes indicator in title bar"
@@ -696,7 +718,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:286
 msgid "This feature was developed by jdugge"
-msgstr ""
+msgstr "Această funcționalitate a fost dezvoltată de jdugge"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:289
 msgid "Feature: Move layer or group to top of layer panel"
@@ -708,7 +730,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:293
 msgid "This feature was developed by Mie Winstrup"
-msgstr ""
+msgstr "Această funcționalitate a fost dezvoltată de Mie Winstrup"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:296
 msgid "Feature: Copy statistics panel content to clipboard button"
@@ -829,6 +851,8 @@ msgstr ""
 msgid ""
 "This feature was funded by `Oester Messtechnik <https://messtechnik.ch/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Oester Messtechnik "
+"<https://messtechnik.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:374
 #: ../../source/site/forusers/visualchangelog32/index.rst:526
@@ -860,12 +884,16 @@ msgid ""
 "This feature was funded by Arpa Piemonte (Dipartimento Tematico Geologia e "
 "Dissesto) within ERIKUS project"
 msgstr ""
+"Această funcționalitate a fost finanțată de Arpa Piemonte (Dipartimento "
+"Tematico Geologia e Dissesto) within ERIKUS project"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:385
 msgid ""
 "This feature was developed by `Nyall Dawson (North Road) <https://north-"
 "road.com>`__ and `Faunalia <https://www.faunalia.eu>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Nyall Dawson (North Road) "
+"<https://north-road.com>`__ și `Faunalia <https://www.faunalia.eu>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:388
 msgid "Forms and Widgets"
@@ -891,12 +919,17 @@ msgid ""
 "<https://www.zg.ch/behoerden/direktion-des-innern/grundbuch-und-"
 "vermessungsamt/gis-fachstelle>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de`Registrul funciar și Biroul de "
+"supraveghere din cantonul Zug <https://www.zg.ch/behoerden/direktion-des-"
+"innern/grundbuch-und-vermessungsamt/gis-fachstelle>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:399
 msgid ""
 "This feature was developed by `David Signer, OPENGIS.ch "
 "<https://opengis.ch>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `David Signer, OPENGIS.ch "
+"<https://opengis.ch>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:402
 msgid "Feature: Allow using a URL for custom attribute forms (UI file)"
@@ -911,6 +944,8 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:407
 msgid "This feature was funded by `SIRS <http://www.sirs-fr.com>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `SIRS <http://www.sirs-"
+"fr.com>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:412
 msgid "Feature: Drill-down (cascading) forms"
@@ -937,12 +972,18 @@ msgid ""
 " République et canton de Neuchâtel, Arpa Piemonte, Nelson Silva, QGIS Danish"
 " User Group, Bo Victor Thomsen and Lene Fischer, North River Geographic"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de Grant Boxer, NaturalGIS, Tudor "
+"Bărăscu, NotioGIS, République et canton de Neuchâtel, Arpa Piemonte, Nelson "
+"Silva, QGIS Danish User Group, Bo Victor Thomsen și Lene Fischer, North "
+"River Geographic"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:428
 msgid ""
 "This feature was developed by `Alessandro Pasotti (North Road) <https"
 "://north-road.com>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Alessandro Pasotti (North "
+"Road) <https://north-road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:431
 msgid "Layer Legend"
@@ -968,6 +1009,9 @@ msgid ""
 "<https://www.lutraconsulting.co.uk>`__  and `Faunalia "
 "<https://www.faunalia.eu>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Martin Dobias (Lutra "
+"Consulting) <https://www.lutraconsulting.co.uk>`__ și `Faunalia "
+"<https://www.faunalia.eu>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:445
 msgid "Feature: Copy&Paste Group/Layers from a QGIS project to another."
@@ -1004,6 +1048,8 @@ msgstr ""
 msgid ""
 "This feature was funded by `Kartoza/InaSAFE <http://kartoza.com/en/>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Kartoza/InaSAFE "
+"<http://kartoza.com/en/>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:474
 msgid "Feature: Project metadata embedded in layout exports"
@@ -1055,6 +1101,8 @@ msgid ""
 "This feature was developed by `Mathieu Pellerin, Nyall Dawson <http://www"
 ".imhere-asia.com/>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Mathieu Pellerin, Nyall Dawson"
+" <http://www.imhere-asia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:506
 msgid "Feature: Load script from template"
@@ -1073,6 +1121,8 @@ msgid ""
 "This feature was developed by `Matteo Ghetta (Faunalia) "
 "<http://www.faunalia.eu/>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Matteo Ghetta (Faunalia) "
+"<http://www.faunalia.eu/>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:515
 msgid "Feature: Feature filter algorithm for processing models"
@@ -1125,6 +1175,8 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:719
 msgid "This feature was funded by `InaSAFE DFAT <https://www.dfat.gov.au/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `InaSAFE DFAT "
+"<https://www.dfat.gov.au/>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:544
 msgid ""
@@ -1151,6 +1203,8 @@ msgid ""
 "This feature was funded by `Nyall Dawson (North Road) <https://north-"
 "road.com>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Nyall Dawson (North Road) "
+"<https://north-road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:556
 msgid "Feature: Dynamic parameter values for more algorithms"
@@ -1363,7 +1417,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:783
 #: ../../source/site/forusers/visualchangelog32/index.rst:813
 msgid "This feature was funded by SMEC/SJ"
-msgstr ""
+msgstr "Această funcționalitate a fost finanțată de SMEC/SJ"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:676
 msgid "Feature: Wedge buffer algorithm"
@@ -1506,6 +1560,9 @@ msgid ""
 "Consulting) <https://www.lutraconsulting.co.uk>`__ and `Faunalia "
 "<https://www.faunalia.eu>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Martin Dobias, Peter Petrik "
+"(Lutra Consulting) <https://www.lutraconsulting.co.uk>`__ și `Faunalia "
+"<https://www.faunalia.eu>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:759
 msgid "Browser"
@@ -1592,7 +1649,7 @@ msgstr "și"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:802
 msgid "https://github.com/lutraconsulting/MDAL"
-msgstr ""
+msgstr "https://github.com/lutraconsulting/MDAL"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:804
 msgid "|image32|"
@@ -1603,6 +1660,8 @@ msgid ""
 "This feature was developed by `Peter Petrik and Martin Dobias (Lutra "
 "Consulting) <https://www.lutraconsulting.co.uk>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Peter Petrik și Martin Dobias "
+"(Lutra Consulting) <https://www.lutraconsulting.co.uk>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:809
 msgid ""
@@ -1655,6 +1714,8 @@ msgstr ""
 msgid ""
 "This feature was funded by `Open Spatial <http://www.openspatial.com>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Open Spatial "
+"<http://www.openspatial.com>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:839
 msgid "Feature: Read only support for curved Oracle geometries"
@@ -1726,7 +1787,7 @@ msgid "|image34|"
 msgstr "|image34|"
 
 #~ msgid "Changelog for QGIS 3.2.0"
-#~ msgstr ""
+#~ msgstr "Jurnalul schimbărilor pentru QGIS 3.2.0"
 
 #~ msgid ""
 #~ "The greatest QGIS release ever! QGIS 3.2 brings a massive list of new "
@@ -1751,16 +1812,16 @@ msgstr "|image34|"
 #~ "complete list of current sponsors is provided below - our very great thank "
 #~ "you to all of our sponsors!"
 #~ msgstr ""
-#~ "QGIS este susținut din donații și sponsorizări. Listă curentă a donatorilor "
-#~ "care au efectuat contribuții financiare mari și mici la proiect poate fi "
+#~ "QGIS este susținut din donații și sponsorizări. Listă curentă a celor care "
+#~ "au efectuat contribuții financiare mari și mici la proiect poate fi "
 #~ "consultată `aici <https://qgis.org/en/site/about/sponsorship.html#list-of-"
 #~ "donors>`__. Dacă doriți să deveniți un sponsor oficial al proiectului, vă "
 #~ "rugăm să vizitați `pagina sponsorizărilor "
 #~ "<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ pentru "
 #~ "detalii. Sponsorizările QGIS ne ajută să finanțăm întâlnirea dezvoltatorilor"
 #~ " o dată la șase luni, să menținem infrastructura proiectului și să finanțăm "
-#~ "eforturile de eliminare a erorilor. Lista completă a sponsorilor actuali "
-#~ "este prezentată în continuare - mulțumirile noastre tuturor sponsorilor!"
+#~ "eforturile de eliminare a erorilor. În continuare este prezentată lista "
+#~ "completă a sponsorilor actuali - acestora le transmitem mulțumirile noastre!"
 
 #~ msgid "Sponsors for QGIS version 3.2.0"
 #~ msgstr ""
@@ -1811,11 +1872,15 @@ msgstr "|image34|"
 #~ "This feature was developed by `Mathieu Pelllerin <http://www.imhere-"
 #~ "asia.com/>`__"
 #~ msgstr ""
+#~ "Această funcționalitate a fost dezvoltată de `Mathieu Pelllerin <http://www"
+#~ ".imhere-asia.com/>`__"
 
 #~ msgid ""
 #~ "This feature was developed by `Etienne Trimaille "
 #~ "<http://github.com/Gustry>`__"
 #~ msgstr ""
+#~ "Această funcționalitate a fost dezvoltată de `Etienne Trimaille "
+#~ "<http://github.com/Gustry>`__"
 
 #~ msgid ""
 #~ "This feature was funded by `Nyall Dawson (North Road) <http://north-"
@@ -1826,21 +1891,29 @@ msgstr "|image34|"
 
 #~ msgid "This feature was developed by `Nyall Dawson (North Road) <v>`__"
 #~ msgstr ""
+#~ "Această funcționalitate a fost dezvoltată de `Nyall Dawson (North "
+#~ "Road)<v>`__"
 
 #~ msgid ""
 #~ "This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia"
 #~ " <https://www.lutraconsulting.co.uk>`__"
 #~ msgstr ""
+#~ "Această funcționalitate a fost dezvoltată de `Martin Dobias (Lutra "
+#~ "Consulting) și Faunalia <https://www.lutraconsulting.co.uk>`__"
 
 #~ msgid ""
 #~ "This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia"
 #~ " <https://www.lutraconsulting.co.uk/>`__"
 #~ msgstr ""
+#~ "Această funcționalitate a fost dezvoltată de `Martin Dobias (Lutra "
+#~ "Consulting) and Faunalia <https://www.lutraconsulting.co.uk/>`__"
 
 #~ msgid ""
 #~ "This feature was developed by `Martin Dobias, Peter Petrik (Lutra "
 #~ "Consulting) and Faunalia <https://www.lutraconsulting.co.uk>`__"
 #~ msgstr ""
+#~ "Această funcționalitate a fost dezvoltată de`Martin Dobias, Peter Petrik "
+#~ "(Lutra Consulting) și Faunalia <https://www.lutraconsulting.co.uk>`__"
 
 #~ msgid ""
 #~ "The greatest QGIS release ever! QGIS 3.2 brings a massive list of new "
@@ -1861,15 +1934,15 @@ msgstr "|image34|"
 #~ "efforts. A complete list of current sponsors is provided below - our very "
 #~ "great thank you to all of our sponsors!"
 #~ msgstr ""
-#~ "QGIS este susținut prin donații și sponsorizări. Listă curentă a donatorilor"
-#~ " care au efectuat contribuții financiare mari și mici la proiect poate fi "
+#~ "QGIS este susținut prin donații și sponsorizări. Listă curentă a celor care "
+#~ "au efectuat contribuții financiare mari și mici la proiect poate fi "
 #~ "consultată în :ref:`donors list <list_of_donors>`.  Dacă doriți să "
 #~ "sponsorizați în mod oficial proiectul, vă rugăm să vizitați :ref:`our "
 #~ "sponsorship page <QGIS-sponsoring>`. Sponsorizările QGIS ne ajută să "
 #~ "finanțăm întâlnirea dezvoltatorilor o dată la șase luni, să menținem "
 #~ "infrastructura proiectului și să finanțăm eforturile de eliminare a "
 #~ "erorilor. În continuare este prezentată lista completă a sponsorilor actuali"
-#~ " - cărora le transmitem mulțumirile noastre!"
+#~ " - acestora le transmitem mulțumirile noastre!"
 
 #~ msgid ""
 #~ "A special thanks to all our :ref:`Sponsors and Donors <QGIS-sponsoring>` for"

@@ -5,7 +5,8 @@
 # 
 # Translators:
 # Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>, 2020
-# Elvis Gunther Dahnert <elvis@dahnert.com.br>, 2020
+# Elvis D <elvis@dahnert.com.br>, 2020
+# Aline Furlanetto Viero <afviero@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-02 12:44+0100\n"
 "PO-Revision-Date: 2019-07-12 14:43+0000\n"
-"Last-Translator: Elvis Gunther Dahnert <elvis@dahnert.com.br>, 2020\n"
+"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>, 2020\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +26,7 @@ msgstr ""
 
 #: ../../source/site/about/sustaining_members.rst:4
 msgid "Sustaining members and Donors"
-msgstr "Membros Sustentadores e Doadores"
+msgstr "Membros Mantenedores e Doadores"
 
 #: ../../source/site/about/sustaining_members.rst:6
 msgid ""
@@ -66,6 +67,8 @@ msgid ""
 ":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
 "javascript loading of atom feed --> </div>`"
 msgstr ""
+":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- a ser preenchido via "
+"carregamento javascript do atom feed --> </div>`"
 
 #: ../../source/site/about/sustaining_members.rst:34
 msgid "List of past sustaining members"
@@ -76,6 +79,8 @@ msgid ""
 ":raw-html:`<div id=\"qgispastsustainingmembersatom\"> <!-- to be filled via "
 "javascript loading of atom feed --> </div>`"
 msgstr ""
+":raw-html:`<div id=\"qgispastsustainingmembersatom\"> <!-- a ser preenchido "
+"via carregamento javascript do atom feed --> </div>`"
 
 #: ../../source/site/about/sustaining_members.rst:41
 msgid "List of donors"
@@ -131,14 +136,26 @@ msgstr ""
 #~ "organizations it was difficult or impossible to sponsor or donate to a "
 #~ "project."
 #~ msgstr ""
+#~ "Nós agradecemos aos nossos membros mantenedores, patrocinadores e doadores "
+#~ "que apoiam o projeto QGIS e nos habilitam a pagar pela nossa infraestrutura "
+#~ "e pelo importante trabalho de desenvolvimento, bem como financiam as "
+#~ "reuniões de desenvolvedores e a promoção do QGIS em workshops e "
+#~ "conferências. Nós estamos atualmente em uma fase de transição de um sistema "
+#~ "patrocinador para um sistema com membros mantenedores. Isso deve facilitar "
+#~ "para que as autoridades públicas apoiem o projeto QGIS.ORG tornando-se "
+#~ "membros mantenedores. Para várias organizações públicas era difícil ou "
+#~ "impossível patrocinar or doar para um projeto."
 
 #~ msgid ""
 #~ "Organizations who supported QGIS before March 17, 2019 are still sponsors, "
 #~ "after that date we introduce new supporters as sustaining members."
 #~ msgstr ""
+#~ "Organizatções que apoiaram o QGIS antes de 17 de março de 2019 ainda são "
+#~ "patrocinadores, após esta data nós introduzimos novos apoiadores como "
+#~ "membros mantenedores."
 
 #~ msgid "List of current sustaining members or sponsors"
-#~ msgstr ""
+#~ msgstr "Lista dos atuais membros mantenedores ou patrocinadores"
 
 #~ msgid ""
 #~ "Annually we also receive support from various organisations who appreciate "
@@ -146,6 +163,10 @@ msgstr ""
 #~ " that goes into the project. These sustaining members and sponsors are "
 #~ "listed below with our thanks!"
 #~ msgstr ""
+#~ "Anualmente nós também recebemos apoio de várias organizações que dão valor "
+#~ "ao trabalho que fazemos e gostariam de facilitar o esforço de "
+#~ "desenvolvimento sustentável que há no projeto. Estes membros mantenedores e "
+#~ "patrocinadores estão listados abaixo com nossos agradecimentos!"
 
 #~ msgid "List of past sustaining members or sponsors"
-#~ msgstr ""
+#~ msgstr "Lista dos antigos membros mantenedores ou patrocinadores"

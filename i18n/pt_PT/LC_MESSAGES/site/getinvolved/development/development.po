@@ -59,7 +59,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/development.rst:29
 msgid "Plugin Development"
-msgstr "Desenvolvimento de Módulos (Plug-ins)"
+msgstr "Desenvolver Módulo (Plug-in("
 
 #: ../../source/site/getinvolved/development/development.rst:31
 msgid ""
@@ -80,7 +80,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/development.rst:42
 msgid "Developing C++ Plugin"
-msgstr "Desenvolver Módulos em C++"
+msgstr "Desenvolver Módulo em C++"
 
 #: ../../source/site/getinvolved/development/development.rst:45
 msgid "Preparing the Environment and Setting up the Repo"
@@ -117,7 +117,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/development.rst:56
 msgid "Setting up the Plugin Directory"
-msgstr "Configurar o Diretório do Módulo"
+msgstr "Configurar a Diretoria de Módulos"
 
 #: ../../source/site/getinvolved/development/development.rst:58
 msgid "Inside the QGIS folder::"
@@ -138,12 +138,12 @@ msgid ""
 "Building QGIS now will also build your plugin. After starting QGIS enable "
 "the plugin to see it and show its dialog."
 msgstr ""
-"Desenvolvendo o QGIS agora também irá desenvolver o seu módulo, após começar"
-" o QGIS ative o módulo para o ver e mostrar a sua janela."
+"A criação do QGIS agora também irá criar o seu módulo. Depois de iniciar o "
+"QGIS, ative o módulo para vê-lo e mostrar a sua janela."
 
 #: ../../source/site/getinvolved/development/development.rst:75
 msgid "Developing Python plugin"
-msgstr "Desenvolver um Módulo em Python"
+msgstr "Desenvolver um módulo em Python"
 
 #: ../../source/site/getinvolved/development/development.rst:77
 msgid "QGIS has a lot to offer to python developers too."
@@ -198,7 +198,8 @@ msgstr ""
 
 #~ msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
 #~ msgstr ""
-#~ "Se quiser ver exemplos de módulos em Python, veja http://plugins.qgis.org"
+#~ "Se estiver à procura de exemplos de módulos em Python, consulte "
+#~ "http://plugins.qgis.org"
 
 #~ msgid "You can find the QGIS-iface which you can use via python here:"
 #~ msgstr ""

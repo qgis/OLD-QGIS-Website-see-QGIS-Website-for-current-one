@@ -1,12 +1,13 @@
 # 
 # Translators:
 # josep constantí mata <iceberg.jcm@gmail.com>, 2015
+# josep constantí mata <iceberg.jcm@gmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-20 02:42+0000\n"
+"PO-Revision-Date: 2019-09-05 17:55+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Catalan (http://www.transifex.com/qgis/qgis-website/language/ca/)\n"
 "MIME-Version: 1.0\n"
@@ -79,7 +80,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:33
 msgid "Release Timeline"
-msgstr "Planificació temporal del llançament"
+msgstr "Planificació de lliurament"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:35
 msgid ""
@@ -90,7 +91,7 @@ msgstr ""
 msgid ""
 "|checkbox_unchecked| Set date for next release about two months into the "
 "future."
-msgstr "|checkbox_unchecked| Estableix la data pel proper llançament dos mesos en endavant."
+msgstr "|checkbox_unchecked| Estableix la data del proper lliurament per d'aquí uns dos mesos."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:38
 msgid ""
@@ -150,7 +151,7 @@ msgstr ""
 msgid ""
 "|checkbox_unchecked| Release team start writing press releases, making "
 "screenshots etc."
-msgstr "|checkbox_unchecked| L'equip de llançaments comença a escriure els comunicats de premsa, a fer captures de pantalla, etc."
+msgstr "|checkbox_unchecked| L'equip de lliuraments comença a escriure els comunicats de premsa, a fer captures de pantalla, etc."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:53
 msgid "|checkbox_unchecked| Add link to visual changelog here."
@@ -294,7 +295,7 @@ msgstr ""
 msgid ""
 "|checkbox_unchecked| Release team prepare press releases in various formats "
 "in anticipation of release (don't publish yet)."
-msgstr "|checkbox_unchecked| L'equip de llançament prepara els comunicats de premsa en diferents formats abans del llançament (sense publicar-los encara)."
+msgstr "|checkbox_unchecked| L'equip de lliurament prepara els comunicats de premsa en diferents formats abans del llançament (sense publicar-los encara)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:110
 msgid "Day of release - Date"
@@ -310,7 +311,7 @@ msgstr ""
 msgid ""
 "|checkbox_unchecked| Tag the branch as final release (see tag section "
 "below)."
-msgstr "|checkbox_unchecked| Etiqueta la branca com llançament definitiu (consulteu la secció d'etiquetatge de sota)."
+msgstr "|checkbox_unchecked| Etiqueta la branca com lliurament definitiu (consulteu la secció d'etiquetatge de sota)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:115
 msgid "|checkbox_unchecked| Make tag and branch read only (see notes below)."
@@ -335,13 +336,13 @@ msgstr "|checkbox_unchecked| Genera documentació API i puja a l'àrea de baixad
 msgid ""
 "|checkbox_unchecked| Upload release packages to download area (see checklist"
 " at the top of this page)."
-msgstr "|checkbox_unchecked| Puja els paquets del nou llançament a l'àrea de baixada (mireu la llista de comprovacions a dalt d'aquesta pàgina)."
+msgstr "|checkbox_unchecked| Puja els paquets del nou lliurament a l'àrea de baixada (mireu la llista de comprovacions a dalt d'aquesta pàgina)."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:122
 msgid ""
 "|checkbox_unchecked| *Release team announce to press* and make packages "
 "available."
-msgstr "|checkbox_unchecked| *L'equip de llançament ho comunica a la premsa* i posa els paquets a disposició."
+msgstr "|checkbox_unchecked| *L'equip de lliurament ho comunica a la premsa* i lliura els paquets."
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:125
 msgid "Packaging Team"
@@ -370,7 +371,7 @@ msgstr "|checkbox_unchecked| *Actualitzacions qgis.org*"
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:165
 msgid ""
 "|checkbox_unchecked| Update the 'Current Release' link on the main menu"
-msgstr "|checkbox_unchecked| Actualitzeu l'enllaç del 'Llançament actual' lal menú principal"
+msgstr "|checkbox_unchecked| Actualitzeu l'enllaç del 'Lliurament actual' al menú principal"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:166
 msgid "|checkbox_unchecked| Update the 'Download' link on the top menu bar"
@@ -378,7 +379,7 @@ msgstr "|checkbox_unchecked| Actualitza l'enllaç 'Baixa' a dalt de la barra de 
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:167
 msgid "|checkbox_unchecked| Add release newsflash"
-msgstr "|checkbox_unchecked| Afegiu les darreres notícies del llançament"
+msgstr "|checkbox_unchecked| Afegiu les darreres notícies del lliurament"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:168
 msgid "|checkbox_unchecked| Current version page to be updated"
@@ -386,7 +387,7 @@ msgstr "|checkbox_unchecked| Pàgina de la versió actual per actualitzar"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:169
 msgid "|checkbox_unchecked| svn download of tagged release updated"
-msgstr "|checkbox_unchecked| baixa svn del llançament etiquetat actualitzat "
+msgstr "|checkbox_unchecked| baixa svn del lliurament etiquetat actualitzat "
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:170
 msgid "|checkbox_unchecked| download page updated"
@@ -400,7 +401,7 @@ msgstr "|checkbox_unchecked| captures de pantalla actualitzades"
 msgid ""
 "|checkbox_unchecked| *Publicising (see announcing the release section "
 "below)*"
-msgstr "|checkbox_unchecked| *Difusió (consulteu la secció de sota d'anunci d'un llançament)*"
+msgstr "|checkbox_unchecked| *Difusió (consulteu la secció de sota d'anunci d'un lliurament)*"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:175
 msgid "|checkbox_unchecked| http://freshmeat.net"
@@ -701,11 +702,11 @@ msgstr "Paraules d'agraïment als nostre col·laboradors, donants i patrocinador
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:486
 msgid "Visual tour of the new release:"
-msgstr "Recorregut visual del nou llançament:"
+msgstr "Recorregut visual del nou lliurament:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:497
 msgid "New features with this release:"
-msgstr "Noves característiques amb aquest llançament:"
+msgstr "Noves característiques amb aquest lliurament:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:508
 msgid "A generic product description"
@@ -727,7 +728,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:128
 msgid "Release Manager"
-msgstr "Gestor del llançament"
+msgstr "Gestor del lliurament"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:130
 msgid "Jürgen E. Fischer"

@@ -2,13 +2,14 @@
 # Translators:
 # Kari Salovaara <kari.salovaara@pp1.inet.fi>, 2014-2015,2017-2018
 # Lauri Kajan <lauri.kajan@gmail.com>, 2016
+# Pekka Sarkola <pekka.sarkola@gispo.fi>, 2018,2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 16:17+0200\n"
-"PO-Revision-Date: 2018-05-20 14:23+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"PO-Revision-Date: 2020-03-21 15:57+0000\n"
+"Last-Translator: Pekka Sarkola <pekka.sarkola@gispo.fi>\n"
 "Language-Team: Finnish (http://www.transifex.com/qgis/qgis-website/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -50,7 +51,7 @@ msgid ""
 "any other related questions, please contact the :ref:`Translation Team "
 "Leader <gui-translation>` or subscribe to the `QGIS Translation mailing list"
 " <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
-msgstr "Jos suunnittelet edistäväsi olemassa olevan kielen kääntämistä tai haluat kääntää QGISin kielelle jolla se ei vielä ole, katso :ref:`becoming-translator`. Mihin tahansa muuhun asiaan liittyvään kysymykseen, ole hyvä ja ota yhteyttä :ref:`Translation Team Leader <gui-translation>` tai tee tilaus `QGIS Translation postituslistalle <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
+msgstr "Jos suunnittelet edistäväsi olemassa olevan kielen kääntämistä tai haluat kääntää QGISin kielelle jolla se ei vielä ole, katso :ref:`becoming-translator`. Mihin tahansa muuhun asiaan liittyvään kysymykseen, ole hyvä ja ota yhteyttä :ref:`Translation Team Leader <gui-translation>` tai liity `QGIS Translation postituslistalle <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
 
 #: ../../source/site/getinvolved/translate.rst:30
 msgid ""
@@ -62,7 +63,7 @@ msgstr "Kun olet liittynyt sähköpostilistalle voit lähettää viestejä suora
 msgid ""
 "We strongly encourage anyone dealing with translations to join this list and"
 " promise that it is usually a very low traffic mailing list."
-msgstr "Suosittelemme kenelle tahansa joka työskentelee kääntämisen kanssa liittymään tähän listaan ja lupaamme, että sillä on yleensä hyvin vähän liikennettä."
+msgstr "Suosittelemme kaikille, jotka osallistuvat kääntämiseen, liittymään sähköpostilistalle. Lupaamme, että sähköpostisi ei täyty suuresta määrästä sähköpostia."
 
 #: ../../source/site/getinvolved/translate.rst:36
 msgid ""
@@ -76,15 +77,15 @@ msgstr "Käyttöliittymän käännös"
 #: ../../source/site/getinvolved/translate.rst:44
 msgid ""
 "The QGIS interface is natively programmed in English. However, at this "
-"moment over fourthy other languages are already available."
-msgstr "QGIS käyttöliittymä on alun perin englanniksi. Huomattavaa on, että tällä hetkellä se on myös käytettävissä yli neljälläkymmenellä muulla kielellä."
+"moment over forty other languages are already available."
+msgstr "QGISn käyttöliittymä on alunperin tehty englannin kielelle. Tällä hetkellä käyttöliittymä on käännetty yli 40 kielelle."
 
 #: ../../source/site/getinvolved/translate.rst:47
 msgid ""
 "To start QGIS with the appropriate localization, run ``qgis --lang <language"
 " code>`` in command line or change localization in QGIS under "
 ":menuselection:`Settings --> Options --> General --> Locale` menu."
-msgstr ""
+msgstr "QGISn kielisyyden ja muut paikallisasetukset voi vaihtaa:  aja ``qgis --lang <language code>`` komentiriviltä tai muuta asetukset QGIS:stä :menuselection: `Asetukset --> Asetukset --> Yleiset --> Korvaa järjestelmän alueasetukset` menu."
 
 #: ../../source/site/getinvolved/translate.rst:51
 msgid ""
@@ -170,7 +171,7 @@ msgstr "Vahvista tilisi toimivuus klikkaamalla linkkiä sähköpostiviestissä j
 
 #: ../../source/site/getinvolved/translate.rst:102
 msgid "Login"
-msgstr "Sisäänkirjottaudu"
+msgstr "Sisäänkirjautuminen"
 
 #: ../../source/site/getinvolved/translate.rst:103
 msgid ""
@@ -187,8 +188,8 @@ msgstr "Hallintapanelin sivulla klikkaa “Join an existing organisation” ja e
 #: ../../source/site/getinvolved/translate.rst:107
 msgid ""
 "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
-"Desktop, QGIS Browser and QGIS Server),"
-msgstr "**QGIS Desktop** kaikki tekstiosat  QGIS sovellutuksessa (QGIS Desktop, QGIS Browser ja QGIS Server),"
+"Desktop and QGIS Server),"
+msgstr "**QGIS Desktop** kaikki käännöstekstit ovat saatavilla QGIS ohjelmistoille (QGIS työasema ja QGIS Server)"
 
 #: ../../source/site/getinvolved/translate.rst:109
 msgid ""
@@ -540,4 +541,14 @@ msgstr "Jos löydät virheellisen tai puuttuvan käännöksen nykyisessä dokume
 #~ "To start QGIS with the appropriate localization, run ``qgis --lang <language"
 #~ " code>`` in command line or change localization in QGIS under "
 #~ ":menuselection:`Settings --> Options --> Locale` menu."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The QGIS interface is natively programmed in English. However, at this "
+#~ "moment over fourthy other languages are already available."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
+#~ "Desktop, QGIS Browser and QGIS Server),"
 #~ msgstr ""

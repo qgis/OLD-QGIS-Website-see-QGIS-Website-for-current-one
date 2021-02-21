@@ -1,13 +1,14 @@
 # 
 # Translators:
-# Kohei Tomita <fairtommy@gmail.com>, 2017
+# fairtommy <fairtommy@gmail.com>, 2018-2019
+# fairtommy <fairtommy@gmail.com>, 2017-2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-10-11 12:28+0000\n"
-"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"PO-Revision-Date: 2019-10-24 01:51+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,7 +31,7 @@ msgid ""
 "ha of forests, will be valid for about 20 years and is implemented by the "
 "local forest manager. The area is situated in the region of Basel (see "
 "google maps)."
-msgstr "スイスの表面のほぼ35％が森林で覆われています。森とスイスの森林事業の貧しい財政状況に変化する需要は約15年前に新しい森林計画コンセプトの開発につながりました。この概念は、owners1のレベルでの当局と計画のレベルで計画を明確に区別を導入しました。両方とも言及した計画レベルでバーゼル（スイス）の領域で主に働くguaraci新しい森林計画事務所、など。このケーススタディは、森林所有者レベルでのQGISの使用について説明します。このレベルでは、単純な動的および互換性の地理情報システムは、森林管理計画の確立のために必要とされます。この計画は、森林のおよそ千ヘクタールをカバーし、約20年間有効となり、地元の森林管理によって実装されます。面積はバーゼルの領域内に位置しています（Googleマップを参照してください）。 "
+msgstr "スイスの地表面のほぼ35％が森林で覆われています。森林に対する需要が変化していること、そしてスイスの森林事業の貧しい財政状況が、約15年前に新しい森林計画コンセプトの開発につながりました。このコンセプトでは、当局のレベルでの計画と所有者1のレベルでの計画の間に明確な区別を導入しました。新しい森林計画事務所として、グアラシは主に、バーゼル（スイス）の地域において、言及した計画レベルの両方で稼働しています。このケーススタディでは、森林所有者レベルでのQGISの使用について説明します。このレベルでは、単純な動的および互換性の地理情報システムが、森林管理計画の確立のために必要とされます。この計画は、森林のおよそ千ヘクタールをカバーし、約20年間有効となり、地元の森林管理者によって実施されます。この地域はバーゼルの地域内に位置しています（Googleマップ参照）。 "
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:8
 msgid "How QGIS was used"
@@ -49,7 +50,7 @@ msgid ""
 "manager, the visualization of existing thematic data (for example ground- "
 "and drinking water resources, nature protection zones) are important for his"
 " daily work."
-msgstr "既存データのインポート。データは、ポリゴン、ラインやポイントシェイプファイルと一緒にジオリファレンス背景マップ（\\ *。TIF）が含まれます。森林管理のために、既存のテーマ別データの可視化は、（例えば地上や水資源、自然保護区を飲んで）彼の毎日の仕事のために重要です。"
+msgstr "既存データのインポート。データは、ポリゴン、ラインやポイントシェイプファイルと一緒にジオリファレンス背景地図（ \\*.tif ）が含まれます。森林管理者にとっては、既存の主題別データ（例えば地上および飲水資源、自然保護区）の可視化は、毎日の仕事のために重要です。"
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:13
 msgid ""
@@ -57,7 +58,7 @@ msgid ""
 " digitized. The QGIS digitizing tools with the advanced snapping options are"
 " very useful and user friendly. The „delimited text“ plugin enabled the "
 "import of additional data tables."
-msgstr "デジタル化。森林管理者によって計画された森林の測定は、デジタル化されていました。高度なスナップオプションを使用してツールをデジタル化QGISは非常に便利でユーザーフレンドリーです。「区切りテキスト」プラグインは、追加のデータテーブルのインポートを可能にしました。"
+msgstr "デジタル化。森林管理者によって計画された森林の測定がデジタル化されました。高度なスナップオプションが付いたQGISデジタル化ツールは非常に便利でユーザーフレンドリーです。「区切りテキスト」プラグインは、追加のデータテーブルのインポートを可能にしました。"
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:14
 msgid ""
@@ -65,17 +66,17 @@ msgid ""
 "calculated. Starting from certain line features such as train tracks or "
 "roads, corresponding protection forests were determined with the help of a "
 "buffer."
-msgstr "分析。異なる測定カテゴリの領域が計算されていました。こうした列車のトラックや道路などの特定のラインの特徴から始めて、対応する保護林は、バッファの助けを借りて決定しました。"
+msgstr "分析。異なる測定カテゴリの領域が計算されました。鉄道線路や道路などの特定のライン地物から始めて、対応する保護林が、バッファの助けを借りて決定されました。"
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:15
 msgid ""
 "Print and export. The print composer supported the map layout creation. The "
 "map was exported as PDF and image files."
-msgstr "印刷およびエクスポート。印刷作曲は、マップレイアウトの作成をサポート。マップは、PDFや画像ファイルとしてエクスポートしました。"
+msgstr "印刷およびエクスポート。印刷コンポーザが地図レイアウトの作成をサポートしました。地図は、PDFや画像ファイルとしてエクスポートされました。"
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:22
 msgid "Extract of the forestry measurements map"
-msgstr "林業測定マップの抽出"
+msgstr "林業測定地図の抽出"
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:25
 msgid "Conclusion"
@@ -98,11 +99,11 @@ msgid ""
 "owners and managers will increasingly use the potential of QGIS also for "
 "their yearly planning as well as the documentation of their forest "
 "activities."
-msgstr "森林計画コンセプトの中核タスクが挙げ基本的なGISツールで働いたことができます。Guaraciは、森林所有者レベルでの森林計画にQGISを使用し続けます。提示したプロジェクトの経験に基づいて、QGISはまた、地方自治体のレベルでの森林の概念を推奨することができます。詳細な分析要件を持つ大規模、かつ複雑なプロジェクトは、PostGISの空間データベース・サーバーとのQGISの組み合わせによって処理することができます。新しいロギングゾーンだけでなく、森林reservatesと保護ゾーンを簡単にデジタル化することができます。うまくいけば、森林所有者や管理者はますます彼らの年間計画、並びにそれらの森林活動の文書化のためにも、QGISの可能性を使用します。"
+msgstr "森林計画コンセプトの中核業務は挙げられた基本的なGISツールで作業できます。Guaraciは、森林所有者レベルでの森林計画にQGISを使用し続けるでしょう。提示したプロジェクトの経験に基づいて、QGISは地方自治体のレベルでの森林の概念のためにも推奨できます。詳細な分析要件を持つ大規模、かつ複雑なプロジェクトは、PostGISの空間データベース・サーバーとのQGISの組み合わせによって処理できます。新しいロギングゾーンだけでなく、森林reservatesと保護ゾーンを簡単にデジタル化できます。願わくば、森林所有者や管理者が年間計画およびそれらの森林活動の文書化のためにも、QGISの可能性をますます使用するようになっていけばと思います。"
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:35
 msgid "Author"
-msgstr "制作者"
+msgstr "著者"
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:42
 msgid "Raphael Häner"
@@ -113,7 +114,7 @@ msgid ""
 "This article was contributed in June 2010 by Raphael Häner. He is  Dipl. "
 "Forst Ing. at ETH Zürich, Switzerland and founded his one-man company "
 "guaraci in 2009."
-msgstr "この記事はRaphaelHänerによって2010年6月に寄稿されました。彼はDiplです。Forst Ing。スイスのチューリッヒで開催され、2009年に彼の一人の会社グアラシを設立しました。"
+msgstr "この記事はRaphaelHänerによって2010年6月に寄稿されました。彼はスイスのチューリッヒETH のDiplForst Ingで、2009年に一人会社グアラシを設立しました。"
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:3
 msgid ""
@@ -134,7 +135,7 @@ msgid ""
 "The user-manual is helpful and easy to understand. Both from the technical "
 "as well as the financial perspective QGIS is an interesting alternative to "
 "other GIS software."
-msgstr "QGISは、guaraciのような小さな計画事務所、のためだけでなく、森林管理者と所有者のための興味深いツールです。これは、プロのコンテキストで使用することができ、提示出力結果は、すべての関係者には理解されました。前述の作業のために、本QGISバージョン1.4「エンケラドスは、」すべての必要なGISツールを提供しています。QGISの最も重要な資質は、直感的なユーザーインターフェイスと異なるファイル形式との互換性です。これは、既存の地理データに基づいて、一方であり、他方では、新たなデータの取得が必要なプロジェクトのための理想的なツールです。ユーザーマニュアルは有用と理解しやすいです。どちらの技術だけでなく、金融斜視QGISから他のGISソフトウェアに興味深い代替手段です。"
+msgstr "QGISは、グアラシのような小さな計画事務所、のためだけでなく、森林管理者と所有者のための興味深いツールです。これは、プロのコンテキストで使用でき、提示出力結果はすべての関係者に高く評価されました。前述の作業のために、本QGISバージョン1.4「エンケラドス」はすべての必要なGISツールを提供しています。QGISの最も重要な資質は、直感的なユーザーインターフェイス、そして異なるファイル形式との互換性です。これは、一方で既存の地理データに基づき、他方で新たなデータの取得が必要なプロジェクトにとっては理想的なツールです。ユーザーマニュアルは有用であり理解しやすいです。技術だけでなく金銭的視点でも、QGISは他のGISソフトウェアに対する興味深い代替手段です。"
 
 #~ msgid "QGIS - an interesting instrument for forestry planning"
 #~ msgstr ""

@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2015-2016,2019
+# Sorin Călinică <scalinica@gmail.com>, 2015-2016,2019-2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-28 17:39+0100\n"
-"PO-Revision-Date: 2019-09-25 18:07+0000\n"
+"PO-Revision-Date: 2020-07-10 08:31+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -207,7 +207,7 @@ msgstr "Generalități"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:88
 msgid "Feature: Enter expressions into spin boxes"
-msgstr "Caracteristică: Introducerea expresiilor în casete cu incrementare"
+msgstr "Funcționalitate: Introducerea expresiilor în casete cu incrementare"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:90
 msgid ""
@@ -218,7 +218,7 @@ msgstr "Când editați atributele în **tabela de atribute sau în formulare**, 
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:98
 msgid "Feature: Bookmarks can be imported/exported"
-msgstr "Caracteristică: Semnele de carte pot fi importate/exportate"
+msgstr "Funcționalitate: Semnele de carte pot fi importate/exportate"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:100
 msgid ""
@@ -232,7 +232,7 @@ msgstr "**Această funcționalitate a fost dezvoltată de:** Salvatore Larosa"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:109
 msgid "Feature: Improvements to expressions"
-msgstr "Caracteristică:  Îmbunătățiri aduse expresiilor"
+msgstr "Funcționalitate:  Îmbunătățiri aduse expresiilor"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:111
 msgid ""
@@ -271,7 +271,7 @@ msgstr "``transform`` - returnează geometria transformată"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:123
 msgid "Feature: Continuous testing framework and QA improvements"
-msgstr "Caracteristică: Testarea continuă a cadrului de lucru și asigurarea îmbunătățirii calității"
+msgstr "Funcționalitate: Testarea continuă a cadrului de lucru și asigurarea îmbunătățirii calității"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:125
 msgid ""
@@ -298,7 +298,7 @@ msgstr "Instrumentele de analiză"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:138
 msgid "Feature: Measure dialog improvements"
-msgstr "Caracteristică: Îmbunătățiri aduse dialogului de măsurare"
+msgstr "Funcționalitate: Îmbunătățiri aduse dialogului de măsurare"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:140
 msgid ""
@@ -336,7 +336,7 @@ msgstr "Furnizorii de date"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:165
 msgid "Feature: Support for contextual WMS legend graphics"
-msgstr "Caracteristică: Suport pentru legendă grafică WMS contextuală "
+msgstr "Funcționalitate: Suport pentru legendă grafică WMS contextuală "
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:167
 msgid ""
@@ -365,7 +365,7 @@ msgstr "Gestiunea datelor"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:181
 msgid "Feature: Custom prefix for joins"
-msgstr "Caracteristică: Prefix personalizat pentru joncțiuni"
+msgstr "Funcționalitate: Prefix personalizat pentru joncțiuni"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:183
 msgid ""
@@ -376,7 +376,7 @@ msgstr "Puteți defini de acum un prefix personalizat în managerul de joncțiun
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:190
 msgid "Feature: Support for creation of temporary memory layers"
-msgstr "Caracteristică: Suport pentru crearea straturilor stocate temporar în memorie"
+msgstr "Funcționalitate: Suport pentru crearea straturilor stocate temporar în memorie"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:192
 msgid ""
@@ -387,7 +387,7 @@ msgstr "Această versiune adaugă în nucleul QGIS suport pentru crearea unor no
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:199
 msgid "Feature: Support for calculations on selected rows"
-msgstr "Caracteristică: Suport pentru calcule asupra rândurilor selectate"
+msgstr "Funcționalitate: Suport pentru calcule asupra rândurilor selectate"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:201
 msgid ""
@@ -401,7 +401,7 @@ msgstr "Digitizarea"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:211
 msgid "Feature: Advanced digitizing tools"
-msgstr "Caracteristică: Instrumente de digitizare avansată"
+msgstr "Funcționalitate: Instrumente de digitizare avansată"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:213
 msgid ""
@@ -414,7 +414,7 @@ msgstr "Dacă ați dorit vreodată să puteți digitiza în QGIS linii exact par
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:220
 msgid "Feature: Improved simplify tool"
-msgstr "Caracteristică: Instrument de simplificare îmbunătățit"
+msgstr "Funcționalitate: Instrument de simplificare îmbunătățit"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:222
 msgid "The simplify tool has been overhauled, adding:"
@@ -467,7 +467,7 @@ msgstr "**Această funcționalitate a fost dezvoltată de:** `Lutra Consulting <
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:241
 msgid "Feature: Snapping improvements"
-msgstr "Caracteristică:  Îmbunătățiri aduse acroșării"
+msgstr "Funcționalitate:  Îmbunătățiri aduse acroșării"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:243
 msgid ""
@@ -499,7 +499,7 @@ msgstr "Legenda stratului"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:257
 msgid "Feature: Show rule-based renderer's legend as a tree"
-msgstr "Caracteristică: Legenda renderului bazat pe reguli se afișează sub formă de arbore"
+msgstr "Funcționalitate: Legenda renderului bazat pe reguli se afișează sub formă de arbore"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:259
 msgid ""
@@ -520,7 +520,7 @@ msgstr "Compozitorul de Hărți"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:273
 msgid "Feature: Composer GUI Improvements"
-msgstr "Caracteristică: Îmbunătățiri aduse Interfeței Compozitorului"
+msgstr "Funcționalitate: Îmbunătățiri aduse Interfeței Compozitorului"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:275
 msgid ""
@@ -545,7 +545,7 @@ msgstr "Opțiunea de a **comuta afișarea panourilor** în compozitor, disponibi
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:284
 msgid "Feature: Grid improvements"
-msgstr "Caracteristică:  Îmbunătățiri aduse grilei"
+msgstr "Funcționalitate:  Îmbunătățiri aduse grilei"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:286
 msgid ""
@@ -567,7 +567,7 @@ msgstr "O nouă direcție descendentă, verticală, pentru adnotări. Această s
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:297
 msgid "Feature: Label item margins"
-msgstr "Caracteristică: Marginea etichetelor"
+msgstr "Funcționalitate: Marginea etichetelor"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:299
 msgid ""
@@ -591,7 +591,7 @@ msgstr "Plugin-uri"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:310
 msgid "Feature: Python console improvements"
-msgstr "Caracteristică: Îmbunătățiri aduse consolei Python"
+msgstr "Funcționalitate: Îmbunătățiri aduse consolei Python"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:312
 msgid ""
@@ -606,7 +606,7 @@ msgstr "Procesare"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:322
 msgid "Feature: New geometric predicate parameter type"
-msgstr "Caracteristică: Un nou tip de parametru - predicatul geometric"
+msgstr "Funcționalitate: Un nou tip de parametru - predicatul geometric"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:324
 msgid ""
@@ -628,7 +628,7 @@ msgstr "**Această funcționalitate a fost dezvoltată de:** `Camptocamp <http//
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:335
 msgid "Feature: New algorithms"
-msgstr "Caracteristică: Noi algoritmi"
+msgstr "Funcționalitate: Noi algoritmi"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:337
 msgid ""
@@ -669,7 +669,7 @@ msgstr "Programabilitate"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:355
 msgid "Feature: Add comment functionality to expressions"
-msgstr "Caracteristică: S-a adăugat funcționalitatea de comentare în expresii"
+msgstr "Funcționalitate: S-a adăugat funcționalitatea de comentare în expresii"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:357
 msgid ""
@@ -678,7 +678,7 @@ msgstr "Comentariile pot fi de acum adăugate expresiilor, folosind prefixul ``-
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:364
 msgid "Feature: Custom expression function editor"
-msgstr "Caracteristică: Editor de funcții cu expresii personalizate"
+msgstr "Funcționalitate: Editor de funcții cu expresii personalizate"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:366
 msgid ""
@@ -689,7 +689,7 @@ msgstr "Puteți defini de acum expresii cu funcții personalizate în widget-ul 
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:373
 msgid "Feature: Qt5 support"
-msgstr "Caracteristică: Suport pentru Qt5"
+msgstr "Funcționalitate: Suport pentru Qt5"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:375
 msgid ""
@@ -699,7 +699,7 @@ msgstr "QGIS poate fi acum construit folosind biblioteci Qt5. Rețineți că în
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:382
 msgid "Feature: Bulk loading spatial index"
-msgstr "Caracteristică: Încărcare bulk a indexului spațial"
+msgstr "Funcționalitate: Încărcare bulk a indexului spațial"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:384
 msgid ""
@@ -732,7 +732,7 @@ msgstr "Teoretic, arborele indexului ar trebui să fie, de asemenea, mai bine co
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:401
 msgid "Feature: Run only the selected part of a SQL query"
-msgstr "Caracteristică: Se poate rula doar partea selectată a unei interogări SQL"
+msgstr "Funcționalitate: Se poate rula doar partea selectată a unei interogări SQL"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:403
 msgid ""
@@ -747,7 +747,7 @@ msgstr "QGIS Server"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:413
 msgid "Feature: Server python plugins"
-msgstr "Caracteristică: Plugin-uri Python pentru server"
+msgstr "Funcționalitate: Plugin-uri Python pentru server"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:415
 msgid ""
@@ -764,7 +764,7 @@ msgstr "**Această funcționalitate a fost dezvoltată de:** `Alessandro Pasotti
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:420
 msgid "Feature: Support for layer styles"
-msgstr "Caracteristică: Suport pentru stilurile straturilor"
+msgstr "Funcționalitate: Suport pentru stilurile straturilor"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:422
 msgid "QGIS Server now supports predefined layer styles in GetMap requests"
@@ -778,7 +778,7 @@ msgstr "QGIS Server suportă de acum multiple stiluri de cereri GetStyles (v. se
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:426
 msgid "Feature: Add DescribeLayer Method to WMS"
-msgstr "Caracteristică: S-a adăugat metoda DescribeLayer în WMS"
+msgstr "Funcționalitate: S-a adăugat metoda DescribeLayer în WMS"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:428
 msgid ""
@@ -821,7 +821,7 @@ msgstr "Simbolizare"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:442
 msgid "Feature: Raster image fill type"
-msgstr "Caracteristică: Posibilitate de umplere cu imagini raster"
+msgstr "Funcționalitate: Posibilitate de umplere cu imagini raster"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:444
 msgid ""
@@ -837,7 +837,7 @@ msgstr "Opțiunile includ numele de fișier (definit cu ajutorul datelor), opaci
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:453
 msgid "Feature: Live heatmap renderer"
-msgstr "Caracteristică: Render în tip real pentru hărți calorice"
+msgstr "Funcționalitate: Render în tip real pentru hărți calorice"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:455
 msgid ""
@@ -854,7 +854,7 @@ msgstr "Opțiunile includ specificarea razei hărții calorice în pixeli, mm sa
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:465
 msgid "Feature: Multiple styles per layer"
-msgstr "Caracteristică: Stiluri multiple per strat"
+msgstr "Funcționalitate: Stiluri multiple per strat"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:467
 msgid ""
@@ -876,7 +876,7 @@ msgstr "**Această funcționalitate a fost dezvoltată de:** `Gis3W <http://www.
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:478
 msgid "Feature: More data-defined symbology settings"
-msgstr "Caracteristică: Mai multe setări de simbologie definite cu ajutorul datelor"
+msgstr "Funcționalitate: Mai multe setări de simbologie definite cu ajutorul datelor"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:480
 msgid ""
@@ -891,7 +891,7 @@ msgstr "Interfața cu utilizatorul, pentru setarea simbologiei definite prin dat
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:487
 msgid "Feature: DXF export: improve marker symbol export"
-msgstr "Caracteristică: Export DXF - s-a îmbunătățit exportul simbolului "
+msgstr "Funcționalitate: Export DXF - s-a îmbunătățit exportul simbolului "
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:489
 msgid ""
@@ -901,7 +901,7 @@ msgstr "Funcționalitatea de exportare a fișierelor DXF a fost îmbunătățit�
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:492
 msgid "Feature: Map rotation in canvas, improved rotation in composer"
-msgstr "Caracteristică: Rotirea hărții din canevas - rotație îmbunătățită în compozitor"
+msgstr "Funcționalitate: Rotirea hărții din canevas - rotație îmbunătățită în compozitor"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:494
 msgid ""
@@ -917,7 +917,7 @@ msgstr "Interfața cu utilizatorul"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:508
 msgid "Feature: Improved/consistent projection selection"
-msgstr "Caracteristică: Selecție îmbunătățită/consistentă a proiecției"
+msgstr "Funcționalitate: Selecție îmbunătățită/consistentă a proiecției"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:510
 msgid ""

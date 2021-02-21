@@ -2,15 +2,18 @@
 # Translators:
 # Alexandre Neto <senhor.neto@gmail.com>, 2013
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
+# Manuela Silva <manuelarodsilva@gmail.com>, 2020
+# Manuela Silva <manuelarodsilva@gmail.com>, 2018
 # Richard Duivenvoorde <richard@duif.net>, 2016
 # Rui Pedro Henriques <henriques.rui@gmail.com>, 2013
+# Rui <xymarior@yandex.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-23 19:13+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2020-07-31 15:39+0000\n"
+"Last-Translator: Manuela Silva <manuelarodsilva@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,7 +42,7 @@ msgid ""
 "meeting. We would like to thank the virtual particpants present on IRC, the "
 "developer meeting was all the better for having your comments, testing and "
 "insights."
-msgstr "O dinheiro dos donativos forem bem usados em fundos para a viagem, acomodação e alimentação de muitos participantes do encontro de programadores. Queremos agradecer aos participantes virtuais presentes no IRC, o encontro de programadores foi a melhor coisa para os vossos comentários, testes e dicas."
+msgstr "O dinheiro dos donativos foram bem utilizados para financiar a viagem, acomodação e alimentação da maioria dos participantes do encontro de programadores. Nós queremos agradecer aos participantes virtuais presentes no IRC, o encontro de programadores foi a melhor coisa para os vossos comentários, testes e dicas."
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:15
 msgid "Summary of what happened at the hackfest"
@@ -55,7 +58,7 @@ msgid ""
 "further down. We had 46 people attending (though not all could be here for "
 "the full duration). They have been working on a wide variety of topics, "
 "e.g.:"
-msgstr "Em primeiro lugar, devemos mencionar, que a maior parte do tempo foi gasto em conversações. O Encontro presencial cara-a-cara dá-nos a oportunidade de discutir as minúcias do projecto de uma forma que simplesmente não é possível discutir nas nossas conversas virtuais. As conversações também nos dão uma boa oportunidade para planear o que deve ser a prioridade após o grande lançamento do QGIS 2.0. Mais detalhes sobre isto mais abaixo. Nós tivemos 46 pessoas presentes (embora nem todos pudessem estar aqui para a duração total). Eles têm trabalhado numa variedade ampla de temas, como por exemplo:"
+msgstr "Em primeiro lugar, devemos mencionar, que a maior parte do tempo foi gasto em conversações. O Encontro presencial cara-a-cara dá-nos a oportunidade de discutir as minúcias do projeto de uma forma que simplesmente não é possível discutir nas nossas conversas virtuais. As conversações também nos dão uma boa oportunidade para planear o que deve ser a prioridade após o grande lançamento do QGIS 2.0. Mais detalhes sobre isto mais abaixo. Nós tivemos 46 pessoas presentes (embora nem todos pudessem estar aqui para a duração total). Eles têm trabalhado numa variedade ampla de temas, como por exemplo:"
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:19
 msgid "Richard Duivenvoorde: Website"
@@ -71,7 +74,7 @@ msgstr "Marco Bernasocchi: Android 2.0.1 + Python em Android"
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:22
 msgid "Mathias Walker: Datasource Importer Plugin"
-msgstr "Mathias Walker: Módulo Datasource Importer"
+msgstr "Mathias Walker:  Módulo Importador de Fonte de Dados"
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:23
 msgid "Ko Nagase: Documentation Japanese translation"
@@ -84,11 +87,11 @@ msgstr "Matthias Kuhn: Socializar"
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:25
 msgid ""
 "Denis Rouzaud: Edit type for geometric relation, layer/field combo manager"
-msgstr "Denis Rouzaud: Tipo de edição para relações geometricas, gestor de combo da camada/campo."
+msgstr "Denis Rouzaud: Tipo de edição para relações geométricas, gestor de combo da camada/campo."
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:26
 msgid "Werner Macho: Plugin, socializing, Website"
-msgstr "Werner Macho: Módulo, socializar, Sítio de Internet"
+msgstr "Werner Macho: Módulo, socialização, Site da Web"
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:27
 msgid "Andreas Neumann: QGIS Web Client"
@@ -112,7 +115,7 @@ msgstr "Marco Hugentobler: exportação DXF , servidor, pull request"
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:32
 msgid "Jeff Johnson: Website, Django site/plugins"
-msgstr "Jeff Johnson: Sítio de Internet, Django sitío/módulos"
+msgstr "Jeff Johnson: Site da Web, <i>site</i> / módulos Django"
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:33
 msgid "Alessandro Pasotti: Plugin repository"
@@ -148,13 +151,13 @@ msgstr "Lars Lingner: Cliente websig do QGIS"
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:41
 msgid "Tim Sutton: QTiles hacking, documentation, project steering, mingling"
-msgstr "Tim Sutton: QTiles hacking, documentação, direcção do projecto, entrosamento"
+msgstr "Tim Sutton: QTiles hacking, documentação, direção do projeto, entrosamento"
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:42
 msgid ""
 "Anita Graser: new splash, project steering, tweeting, workshop preparation, "
 "mingling"
-msgstr "Anita Graser: novo splash, direcção do projecto, tweeting, preparação de workshop, entrosamento"
+msgstr "Anita Graser: novo splash, direção do projeto, tweeting, preparação de workshop, entrosamento"
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:43
 msgid "Astrid Emde: Documentation"
@@ -226,7 +229,7 @@ msgid ""
 "activities they can contribute with including documentation cleanups, "
 "translations, giving inputs to the user interface and user interaction "
 "ideas."
-msgstr "O próximo hackfest está planeado para a primavera de 2014. Nós gostaríamos de encorajar todos os programadores e não programadores a juntarem-se no encontro porque é extremamente útil tê-los em Brighton e vai haver muitas actividades no hackfest que podem contribuir incluindo na limpeza da documentação, traduções, e dando entradas às interfaces do utilizador e ideias de interecção com o utilizador."
+msgstr "O próximo hackfest está planeado para a primavera de 2014. Nós gostaríamos de encorajar todos os programadores e não programadores a juntarem-se no encontro porque é extremamente útil tê-los em Brighton e vai haver muitas atividades no hackfest que podem contribuir incluindo na limpeza da documentação, traduções, e dando entradas às interfaces do utilizador e ideias de interação com o utilizador."
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:63
 msgid "Further links"
@@ -243,7 +246,7 @@ msgid ""
 "`General information on Sponsoring a QGIS Hackfest "
 "<https://qgis.org/en/site/getinvolved/governance/sponsorship/sponsorship.html"
 "#qgis-sponsorship-program>`_"
-msgstr "`Informação Geral do patrocínido do Hackfest do QGIS <https://qgis.org/en/site/getinvolved/governance/sponsorship/sponsorship.html#qgis-sponsorship-program>`_"
+msgstr ""
 
 #: ../../source/site/getinvolved/meetings/developer/Brighton_2013.rst:7
 msgid ""
@@ -254,7 +257,7 @@ msgid ""
 "<http://www.fossgis.de/>`_ for sponsoring this event explicitly with 1500 "
 "Euros and the many people who have donated sums large and small to the QGIS "
 "project."
-msgstr "Também queremos agradecer ao nosso patrocinador de ouro  `ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, aos nossos patrocinadores de prata `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, e o `Estado de Vorarlberg <http://www.vorarlberg.at/>`_, a  `FOSSGIS e.V. <http://www.fossgis.de/>`_ Alemã por patrocinar este evento com 1500 Euros e a todas as pessoas que doaram pequenos e grandes donativos ao projecto QGIS."
+msgstr "Também queremos agradecer ao nosso patrocinador de ouro  `ASIA AIR SURVEY <http://www.asiaairsurvey.com/>`_, aos nossos patrocinadores de prata `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, e o `Estado de Vorarlberg <http://www.vorarlberg.at/>`_, a  `FOSSGIS e.V. <http://www.fossgis.de/>`_ Alemã por patrocinar este evento com 1500 Euros e a todas as pessoas que doaram pequenos e grandes donativos ao projeto QGIS."
 
 #~ msgid ""
 #~ "We also want to thank our gold sponsor `ASIA AIR SURVEY "

@@ -1,15 +1,17 @@
 # 
 # Translators:
+# Falu <info@falu.me>, 2018
 # Falu <info@falu.me>, 2015
 # Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2017
-# Zoltan Siki <siki@agt.bme.hu>, 2015-2016
+# Zoltan Siki <siki.zoltan@epito.bme.hu>, 2015-2016
+# Zoltan Siki <siki.zoltan@epito.bme.hu>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 16:17+0200\n"
-"PO-Revision-Date: 2018-05-20 14:23+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"PO-Revision-Date: 2019-09-09 08:32+0000\n"
+"Last-Translator: Zoltan Siki <siki.zoltan@epito.bme.hu>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -77,15 +79,15 @@ msgstr "GUI fordítás"
 #: ../../source/site/getinvolved/translate.rst:44
 msgid ""
 "The QGIS interface is natively programmed in English. However, at this "
-"moment over fourthy other languages are already available."
-msgstr "A QGIS program az angol nyelven készül.  De ebben a pillanatban már több mint negyven más nyelven érhető már el."
+"moment over forty other languages are already available."
+msgstr "A QGIS felületét angolul készítik. Bár jelenleg már több mint 40 más nyelven is elérhető."
 
 #: ../../source/site/getinvolved/translate.rst:47
 msgid ""
 "To start QGIS with the appropriate localization, run ``qgis --lang <language"
 " code>`` in command line or change localization in QGIS under "
 ":menuselection:`Settings --> Options --> General --> Locale` menu."
-msgstr ""
+msgstr "A QGIS megfelelő nyelven történő elindításához a parancssorból használja a ``qgis --lang <language code>`` parancsot vagy változtassa meg a QGIS-ben :menuselection:`Beállítások -> Beállítások -> Általános --> Helyi beállítások` menüben."
 
 #: ../../source/site/getinvolved/translate.rst:51
 msgid ""
@@ -188,8 +190,8 @@ msgstr "A dashboard-ján kattintson a “Join an existing organisation”-ra és
 #: ../../source/site/getinvolved/translate.rst:107
 msgid ""
 "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
-"Desktop, QGIS Browser and QGIS Server),"
-msgstr "**QGIS Desktop** minden szövegre ami megjelenik a QGIS alkalmazásokban (asztali QGIS, QGIS böngésző és QGIS szerver),"
+"Desktop and QGIS Server),"
+msgstr "**QGIS Desktop**  minden szövegrészlethez, mely a QGIS alkalmazásokban megjelenik (QGIS Desktop és QGIS Server),"
 
 #: ../../source/site/getinvolved/translate.rst:109
 msgid ""
@@ -541,4 +543,14 @@ msgstr "Ha egy hibás vagy hiányzó fordítást talál az aktuális dokumentác
 #~ "To start QGIS with the appropriate localization, run ``qgis --lang <language"
 #~ " code>`` in command line or change localization in QGIS under "
 #~ ":menuselection:`Settings --> Options --> Locale` menu."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The QGIS interface is natively programmed in English. However, at this "
+#~ "moment over fourthy other languages are already available."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
+#~ "Desktop, QGIS Browser and QGIS Server),"
 #~ msgstr ""

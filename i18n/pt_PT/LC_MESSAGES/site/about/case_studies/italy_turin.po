@@ -1,13 +1,15 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2014
+# Manuela Silva <manuelarodsilva@gmail.com>, 2020
+# Rui <xymarior@yandex.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-02-22 11:32+0100\n"
-"PO-Revision-Date: 2017-09-20 03:45+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2020-07-31 15:29+0000\n"
+"Last-Translator: Manuela Silva <manuelarodsilva@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +27,7 @@ msgid ""
 "the monitoring, prediction and prevention of natural disasters. These tasks "
 "are carried out by the employment of a multidisciplinary approach including "
 "hearth sciences, engineering and geomatic."
-msgstr "O Instituto de Investigação para a Protecção Geo-hidrológica de Turin (IRPI), membro do Conselho Nacional de Investigação Italiano (CNR), começou a sua actividade em 1970. As suas habilidades estão juntas deste a sua fundação com interesse em vários sectores de investigação, ex.: o estudo de características geológicas e hidro-geológicas do sistema de rio Alpine-Po (Norte de Itália) ou a monitorização, previsão e prevenção de catástrofes naturais. Estas tarefas são tomadas pela aplicação de uma abordagem multidisciplinar que inclui ciências da terra, engenharia e geomática."
+msgstr "O Instituto de Investigação para a Proteção Geo-hidrológica de Turim (IRPI), membro do Conselho Nacional de Investigação Italiano (CNR), começou a sua atividade em 1970. As suas habilidades estão juntas deste a sua fundação com interesse em vários sectores de investigação, ex.: o estudo de características geológicas e hidro-geológicas do sistema de rio Alpine-Po (Norte de Itália) ou a monitorização, previsão e prevenção de catástrofes naturais. Estas tarefas são tomadas pela aplicação de uma abordagem multidisciplinar que inclui ciências da terra, engenharia e geomática."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:7
 msgid ""
@@ -61,7 +63,7 @@ msgid ""
 "interface to search and refer to (Figure 2). Data concerning photogram code "
 "were stored in attribute table fields than, by field calculator, a “Link” "
 "field was created storing photograms’ file paths."
-msgstr "Cada pegada é desenhado para cada plano de voo fornecido, no seus atributos, com os códigos anteriores de forma a ligar à shapefile dos fotogramas digitalizados, pelo o uso do módulo eVis (Horning et al, 2009), e permite uma interface amigável ao utilizador para pesquisar e consultá-lo (Figura 2). Os dados pertencentes ao código do fotograma são armazenados nos campos da tabela de atributos, e de seguida, pelo calculador de campos, um campo \"Ligação\" foi criado para armazenar os caminhos dos ficheiros dos fotogramas."
+msgstr "Cada pegada no plano de voo digitalizado foi fornecida, nos seus atributos, com os códigos anteriores para associar o \"shapefile\" aos fotogramas digitalizados, pela utilização do <i>iplug-in</i> eVis (Horning et al, 2009) e para permitir uma interface amigável para pesquisar e consultar (Figura 2). Os dados referentes ao código do fotograma foram guardados nos campos da tabela de atributos e, pela calculadora de campo, um campo \"Hiperligação\" foi criado para guardar os caminhos de ficheiro dos fotogramas."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:30
 msgid "Photogram display (eVis Plugin)"
@@ -80,14 +82,14 @@ msgid ""
 "out selected photogram and simply display them with the previously described"
 " tool or extract, by their filenames and path, photograms’ files for further"
 " processing."
-msgstr "Além disso, devido à quantidade de dados pesquisáveis foi criado uma interface de pesquisa geográfica. Graças às capacidades do modelador gráfico (no Processamento, antigo módulo SEXTANTE) a ferramenta desenvolvida, por diferentes selecções de máscara e caixas de entrada, permite que o utilizador seleccione entre três camadas (limites administrativos, folhas de mapa e rios), encontrar elemento por consulta na tabela e e utilizar a consulta espacial de um plano de voo digitalizado com o objectivo de intersectar as pegadas dos fotogramas como o elemento seleccionado (Figura 3). Com este procedimento, é portanto possível apontar o fotograma seleccionado e simplesmente exibi-los com a ferramenta anteriormente descrita ou extrair os ficheiro dos fotogramas pelos seus nomes de ficheiros ou caminho para processamento adicional."
+msgstr "Além disso, devido à quantidade de dados pesquisáveis foi criado uma interface de pesquisa geográfica. Graças às capacidades do modelador gráfico (no Processamento, antigo módulo SEXTANTE) a ferramenta desenvolvida, por diferentes seleções de máscara e caixas de entrada, permite que o utilizador selecione entre três camadas (limites administrativos, folhas de mapa e rios), encontrar elemento por consulta na tabela e e utilizar a consulta espacial de um plano de voo digitalizado com o objetivo de intersectar as pegadas dos fotogramas como o elemento selecionado (Figura 3). Com este procedimento, é portanto possível apontar o fotograma selecionado e simplesmente exibi-los com a ferramenta anteriormente descrita ou extrair os ficheiro dos fotogramas pelos seus nomes de ficheiros ou caminho para processamento adicional."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:39
 msgid ""
 "Graphic modeler scheme used in the selection tool (in background: purple "
 "polygons-map sheets; labeled orange polygons-photogram footprints; brown "
 "polygons-municipalities administrative borders)"
-msgstr "O modelador gráfico usado na ferramenta de selecção (no fundo: folhas de polígono púrpura; pegadas de fotogramas de polígonos rotulados a laranja; limites administrativos com polígonos castanhos)"
+msgstr "O modelador gráfico usado na ferramenta de seleção (no fundo: folhas de polígono púrpura; pegadas de fotogramas de polígonos rotulados a laranja; limites administrativos com polígonos castanhos)"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:41
 msgid ""
@@ -98,7 +100,7 @@ msgid ""
 "external to the Institute. QGIS features and plugins allowed developing "
 "tools and procedures to optimize photogram archive both in the "
 "implementation of its management and in its exploitation."
-msgstr "A colecção de fotogramas é de grande interesse para a investigação (ex.: Godone et al, 2014) e em ambientes profissionais (Figura 4). Agora devido aos procedimentos descritos e as ferramentas, a colecção está completamente acessível desde 2009, e os fotogramas são usados em vários projectos, seja internamente e externamente ao Instituto. as características do QGIS e os seus módulos permitiram desenvolver ferramentas e procedimentos que optimizaram o arquivo de fotogramas quer na implementação quer na sua gestão e a sua exploração."
+msgstr "A coleção de fotogramas é de grande interesse para a investigação (ex.: Godone et al, 2014) e em ambientes profissionais (Figura 4). Agora devido aos procedimentos descritos e as ferramentas, a coleção está completamente acessível desde 2009, e os fotogramas são usados em vários projetos, seja internamente e externamente ao Instituto. as características do QGIS e os seus módulos permitiram desenvolver ferramentas e procedimentos que otimizaram o arquivo de fotogramas quer na implementação quer na sua gestão e a sua exploração."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:49
 msgid ""
@@ -153,13 +155,13 @@ msgid ""
 "hydrological Protection of Turin (IRPI-CNR) since 1972. He is involved in "
 "topographical and aerophotogrammetrical surveys and data analysis in the "
 "alpine regions."
-msgstr "Franco Godone é um técnico especializado no Instituto de Investigação para Protecção Geo-Hidrológica de Turin (IRPI-CNR) desde 1972. Ele está envolvido nos levantamentos topográficos e aéreo-fotogramétricos e análise de dados nas regiões alpinas."
+msgstr "Franco Godone é um técnico especializado no Instituto de Investigação para Proteção Geo-Hidrológica de Turin (IRPI-CNR) desde 1972. Ele está envolvido nos levantamentos topográficos e aéreo-fotogramétricos e análise de dados nas regiões alpinas."
 
 #: ../../source/site/about/case_studies/italy_turin.rst:3
 msgid ""
 "The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
 "photo archive management"
-msgstr "O Instituto de Investigação para a Protecção Geo-hidrológica de Turin --- Gestão do arquivo de fotos Aéreas"
+msgstr "O Instituto de Investigação para a Proteção Geo-hidrológica de Turin --- Gestão do arquivo de fotos Aéreas"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:9
 msgid ""

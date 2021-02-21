@@ -9,6 +9,7 @@
 # Jürgen E. Fischer <jef@norbit.de>, 2020
 # Marina <pavlova.marina.v@gmail.com>, 2020
 # Evs Yur <evsyur@gmail.com>, 2020
+# Aleksander Petrov <felispimeja+transifex.com@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -17,7 +18,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-02 12:44+0100\n"
 "PO-Revision-Date: 2019-11-02 11:50+0000\n"
-"Last-Translator: Evs Yur <evsyur@gmail.com>, 2020\n"
+"Last-Translator: Aleksander Petrov <felispimeja+transifex.com@gmail.com>, 2020\n"
 "Language-Team: Russian (https://www.transifex.com/qgis/teams/6144/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,6 +81,8 @@ msgid ""
 ":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
 "javascript loading of atom feed --> </div>`"
 msgstr ""
+":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
+"javascript loading of atom feed --> </div>`"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:19
 msgid ""
@@ -271,7 +274,7 @@ msgstr "|image6|"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:84
 msgid "Labelling"
-msgstr ""
+msgstr "Подписывание"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:87
 msgid ""
@@ -904,7 +907,7 @@ msgstr "|image30|"
 #: ../../source/site/forusers/visualchangelog310/index.rst:428
 #: ../../source/site/forusers/visualchangelog310/index.rst:441
 msgid "This feature was funded by Andreas Neumann"
-msgstr ""
+msgstr "Эта функциональность проспонсирована Andreas Neumann"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:433
 msgid "Feature: Dynamic grid segment sizes"
@@ -1050,6 +1053,8 @@ msgid ""
 "This feature was developed by `Matthias Kuhn (OPENGIS.ch) "
 "<https://www.opengis.ch>`__"
 msgstr ""
+"Эта функциональность разработана `Matthias Kuhn (OPENGIS.ch) "
+"<https://www.opengis.ch>`__"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:494
 msgid "Data Management"
@@ -1560,7 +1565,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:752
 msgid "|image56|"
-msgstr ""
+msgstr "|image56|"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:759
 msgid "Feature: Spatial bookmarks supercharged!"
@@ -1590,7 +1595,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:767
 msgid "|image57|"
-msgstr ""
+msgstr "|image57|"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:769
 msgid "This feature was developed by Mathieu Pellerin, Nyall Dawson"
@@ -1611,7 +1616,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:776
 msgid "|image58|"
-msgstr ""
+msgstr "|image58|"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:783
 msgid "Feature: Parallelize snap index build"
@@ -1644,7 +1649,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:794
 msgid "|image59|"
-msgstr ""
+msgstr "|Рисунок 59|"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:796
 msgid "This feature was funded by `The QGIS Project <https://www.qgis.org>`__"
@@ -1723,7 +1728,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:836
 msgid "|image60|"
-msgstr ""
+msgstr "|Рисунок 60|"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:841
 msgid "Feature: Static data providers"
@@ -1770,7 +1775,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:857
 msgid "|image61|"
-msgstr ""
+msgstr "|Рисунок 61|"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:859
 #: ../../source/site/forusers/visualchangelog310/index.rst:870
@@ -1798,7 +1803,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:868
 msgid "|image62|"
-msgstr ""
+msgstr "|Рисунок 62|"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:875
 msgid "Feature: Server OAPIF (aka WFS3) support"
@@ -1829,7 +1834,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:883
 msgid "|image63|"
-msgstr ""
+msgstr "|Рисунок 63|"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:888
 msgid "Programmability"
@@ -1868,11 +1873,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:909
 msgid "Notable Fixes"
-msgstr ""
+msgstr "Значительные исправления"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:912
 msgid "Feature: Bug fixes by Alessandro Pasotti"
-msgstr ""
+msgstr "Исправления ошибок от Alessandro Pasotti"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:915
 #: ../../source/site/forusers/visualchangelog310/index.rst:1006
@@ -1883,7 +1888,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog310/index.rst:1167
 #: ../../source/site/forusers/visualchangelog310/index.rst:1188
 msgid "Bug Title"
-msgstr ""
+msgstr "Название ошибки"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:915
 #: ../../source/site/forusers/visualchangelog310/index.rst:1006
@@ -2182,7 +2187,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog310/index.rst:1284
 #: ../../source/site/forusers/visualchangelog310/index.rst:1328
 msgid "unreported"
-msgstr ""
+msgstr "не зарегистрировано"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:961
 msgid "`PR #3192 <https://github.com/qgis/QGIS/pull/31920>`__"
@@ -2387,6 +2392,8 @@ msgid ""
 "This feature was funded by `QGIS.ORG (through donations and sustaining "
 "memberships) <https://www.qgis.org/>`__"
 msgstr ""
+"Эта функциональность проспонсирована `QGIS.ORG (через пожертвования и помощь"
+" постоянных членов) <https://www.qgis.org/>`__"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:1000
 msgid ""
@@ -3197,7 +3204,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:1164
 msgid "Feature: Bug fixes by Paul Blottiere"
-msgstr ""
+msgstr "Исправление ошибок - Paul Blottiere"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:1169
 msgid "Fixes invalid schemaLocation in GetCapabilities doc"

@@ -1,13 +1,14 @@
 # 
 # Translators:
 # josep constantí mata <iceberg.jcm@gmail.com>, 2015-2016
+# josep constantí mata <iceberg.jcm@gmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-28 17:39+0100\n"
-"PO-Revision-Date: 2017-09-22 01:03+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2020-03-16 09:21+0000\n"
+"Last-Translator: diana lopez <diana.lopezagostini@gmail.com>\n"
 "Language-Team: Catalan (http://www.transifex.com/qgis/qgis-website/language/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +25,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:9
 msgid "**Long Term Release**"
-msgstr "**Llançament de Llarg Termini**"
+msgstr "**Lliurament de Llarg Termini**"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:11
 msgid ""
@@ -65,14 +66,14 @@ msgid ""
 "QGIS 2.8 is also a special release because it includes so many great new "
 "features, tweaks and enhancements to make the most popular Free desktop GIS "
 "even more feature filled and useful."
-msgstr "QGIS 2.8 és també un llançament especial perquè inclou moltes noves i importants característiques, ajustaments i millores per fer del més popular GIS d'escriptori gratuït encara més útil i ple de característiques."
+msgstr "QGIS 2.8 és també un lliurament especial perquè inclou moltes noves i importants característiques, ajustaments i millores per fer del més popular GIS d'escriptori gratuït encara més útil i amb més funcions."
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:21
 msgid ""
 "Whenever new features are added to software they introduce the possibility "
 "of new bugs - if you encounter any problems with this release, please file a"
 " ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`_."
-msgstr ""
+msgstr "Sempre que s'afegeixen noves característiques hi ha la possibilitat d'introduir nous errors al programari - si trobes qualsevol problema amb aquest lliurament omple un tiquet en el  registre de seguiment d'errors de QGIS  <http://hub.qgis.org>`_."
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:23
 msgid "**Thanks**"
@@ -83,14 +84,14 @@ msgid ""
 "We would like to thank the developers, documenters, testers and all the many"
 " folks out there who volunteer their time and effort (or fund people to do "
 "so)."
-msgstr ""
+msgstr "Volem agrair als desenvolupadors, documentalistes, provadors i en general a tot el munt de persones que ofereixen el seu temps i esforç (o que patrocinen la gent que ho fa)."
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:29
 msgid ""
 "From the QGIS community we hope you enjoy this release! If you wish to "
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`_ and lend a hand!"
-msgstr "Des la comunitat de QGIS us desitgem que gaudiu d'aquest llançament! Si desitgeu donar temps, diners o participar d'altra manera fent QGIS més impressionat, passeu per `qgis.org <https://qgis.org>`_ i doneu un cop de mà!"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:34
 msgid ""
@@ -174,8 +175,8 @@ msgid ""
 "<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
 "would like to become an official project sponsor, please visit `our "
 "sponsorship page "
-"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details. "
-"Sponsoring QGIS helps us to fund our six monthly developer meetings, "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details."
+" Sponsoring QGIS helps us to fund our six monthly developer meetings, "
 "maintain project infrastructure and fund bug fixing efforts."
 msgstr ""
 
@@ -183,9 +184,9 @@ msgstr ""
 msgid ""
 "If you enjoy using QGIS, please consider making a donation to support the "
 "project - either `financial "
-"<https://qgis.org/en/site/getinvolved/donations.html>`_ or of `your time and "
-"skills <https://qgis.org/en/site/getinvolved/index.html>`_! Lastly we would "
-"like to also take a moment to encourage you to fund a `special campaign "
+"<https://qgis.org/en/site/getinvolved/donations.html>`_ or of `your time and"
+" skills <https://qgis.org/en/site/getinvolved/index.html>`_! Lastly we would"
+" like to also take a moment to encourage you to fund a `special campaign "
 "<http://blog.vitu.ch/10102014-1046/crowdfunding-initiative-automated-"
 "testing>`_ by one of our QGIS developers to get a working test suite for "
 "QGIS so that we can improve out quality assurance process and deliver you "
@@ -928,7 +929,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:517
 msgid "."
-msgstr ""
+msgstr "."
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:5
 msgid "Changelog for QGIS 2.8"

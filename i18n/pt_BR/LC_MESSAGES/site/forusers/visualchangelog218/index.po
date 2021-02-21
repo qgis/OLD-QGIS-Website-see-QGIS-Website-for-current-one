@@ -8,6 +8,7 @@
 # Tim Sutton <tim@kartoza.com>, 2020
 # Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>, 2020
 # Aumir da Silva Viana <silvaaumir@gmail.com>, 2020
+# Aline Furlanetto Viero <afviero@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -16,7 +17,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-19 17:16+0100\n"
 "PO-Revision-Date: 2016-11-06 13:06+0000\n"
-"Last-Translator: Aumir da Silva Viana <silvaaumir@gmail.com>, 2020\n"
+"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>, 2020\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -60,6 +61,12 @@ msgid ""
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
 msgstr ""
+", Nós gostaríamos de agradecer aos desenvolvedores, aos responsáveis pela "
+"documentação e pelos testes e a todos que doaram seu tempo e esforço (ou "
+"financiaram pessoas para fazer isso). Da comunidade QGIS nós esperamos que "
+"você goste deste lançamento! Se você desejar doar seu tempo, dinheiro ou se "
+"envolver para fazer o QGIS ainda mais incrível, por favor dê uma olhada em "
+"`qgis.org <https://qgis.org>`__ e dê uma mão!"
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:19
 msgid ""
@@ -74,6 +81,18 @@ msgid ""
 "complete list of current sponsors is provided below - our very great thank "
 "you to all of our sponsors!"
 msgstr ""
+"O QGIS é apoiado por doadores e patrocinadores. Uma lista atual de doadores "
+"que contribuíram com grandes e pequenas contribuições financeiras para o "
+"projeto pode ser encontrada em nossa `donors list "
+"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__. Se você"
+" desejar se tornar um patrocinador oficial do projeto, por favor visite `our"
+" sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ para mais "
+"detalhes. O patrocínio ao QGIS nos ajuda a financiar nossas seis reuniões de"
+" desenvolvedores mensais, a manter a infraestrutura do projeto e financiar "
+"correções de erros. Uma lista completa de nossos atuais patrocinadores é "
+"fornecida abaixo - nosso enorme muito obrigado a todos os nossos "
+"patrocinadores!"
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:21
 msgid ""
@@ -147,6 +166,7 @@ msgid ""
 "|silver| |sourcepole| `Sourcepole AG <http://www.sourcepole.com/>`_, "
 "Switzerland"
 msgstr ""
+"|silver| |sourcepole| `Sourcepole AG <http://www.sourcepole.com/>`_, Suiça"
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:72
 msgid ""
@@ -1007,6 +1027,8 @@ msgstr "QGIS Server"
 #: ../../source/site/forusers/visualchangelog218/index.rst:485
 msgid "Feature: Possibility to segmentize feature info geometry in server"
 msgstr ""
+"Feição: Possibilidade de segmentar informações de geometria da feição em "
+"servidor"
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:487
 msgid ""

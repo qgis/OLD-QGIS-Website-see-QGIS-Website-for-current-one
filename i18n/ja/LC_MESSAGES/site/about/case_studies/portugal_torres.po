@@ -1,13 +1,14 @@
 # 
 # Translators:
-# Kohei Tomita <fairtommy@gmail.com>, 2017
+# fairtommy <fairtommy@gmail.com>, 2018
+# fairtommy <fairtommy@gmail.com>, 2017-2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-12-04 03:44+0000\n"
-"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"PO-Revision-Date: 2018-12-20 02:44+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +28,7 @@ msgid ""
 "from Upper Jurassic. One of the key issues in paleontological management is "
 "to assess spatial context of the sites from where the fossils are retrieved "
 "– hundreds of sites representing thousands of different specimens."
-msgstr "Associaçãoレオネルトリンダーデ - Sociedadeデ・自然史（ALT-SHN）は、古生物学に特化、トレシュベドラシュ、ポルトガルでheadquarted非営利機関です。機関は主に上部ジュラ系から、大規模な化石コレクションを管理します。異なる標本の数千人を表す数百のサイト - 古生物学的経営の重要課題の一つは、化石が検索される場所から現場の空間コンテキストを評価することです。"
+msgstr "レオネル・トリンデード協会 - 自然史協会（ALT-SHN）は、古生物学を専門とする、トレシュベドラシュ、ポルトガルでheadquarted非営利機関です。この機関は主に上部ジュラ系から、大規模な化石コレクションを管理しています。異なる標本の数千人を表す数百の現場 - 古生物学的経営の重要課題の一つは、化石が検索される場所から現場の空間コンテキストを評価することです。"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:8
 msgid "The Project"
@@ -41,12 +42,12 @@ msgid ""
 "paleontology) [2]. The project, supported by public and private entities – "
 "mainly the Municipalty, Digiterra.hu and the Army's Geographic Institute "
 "(IGeoE), aimed three goals:"
-msgstr "遡って2008年に、私たちは調査をサポートし、私たちが扱った遺産のより全体的な視点を得るために、GIS技術を探求するというアイデアを思い付きました。このアイデアはSIGAPプロジェクト（古生物学に適用されるGIS）を後押し[2]。公共および民間団体が支援するプロジェクト、 - 主にMunicipalty、Digiterra.huと陸軍の地理院（IGeoE）は、三つの目標を目指して："
+msgstr "遡って2008年に、私たちは調査をサポートし、私たちが扱った遺産のより全体的な視点を得るために、GIS技術を探求するというアイデアを思い付きました。このアイデアはSIGAPプロジェクト（古生物学に適用されるGIS）を後押し[2]。公共および民間団体が支援するプロジェクト、 - 主にMunicipalty、Digiterra.huと陸軍の地理院（IGeoE）は、三つの目標を目指しました："
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:17
 msgid ""
 "Field Survey with Differencial GPS to gather the coordinates of the sites;"
-msgstr "サイトの座標を収集するためのDifferencial GPSによる現地調査。"
+msgstr "現場の座標を収集するためのディファレンシャルGPSによる現地調査。"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:18
 msgid ""
@@ -72,11 +73,11 @@ msgid ""
 "analyis on rasters in order to obtain the risk model we needed to plan our "
 "field work and future prospection. Furthermore it allowed us to import "
 "PostGIS layers and visualize them on QGIS."
-msgstr "QGISは、すべてのプロジェクトのメインフレームでした。データは、QGISに直接ダンプし、次に編集し、所望の出力を達成するために操作されました。QGISによって提供さGRASSインターフェイスは、私たちは私たちがフィールドワークや将来prospectionを計画するために必要なリスクモデルを得るために、ラスタ上の複雑な空間analyisを実施することができました。さらに、それは、私たちはPostGISレイヤをインポートし、QGIS上でそれらを視覚化することができました。"
+msgstr "QGISは、すべてのプロジェクトのメインフレームでした。データは、QGISに直接ダンプし、次に編集し、所望の出力を達成するために操作されました。QGISによって提供されるGRASSインターフェイスは、私たちがフィールドワークや将来prospectionを計画するために必要なリスクモデルを得るために、ラスター上の複雑な空間分析analyisを実施できました。さらに、それは、私たちはPostGISレイヤーをインポートし、QGIS上でそれらを視覚化できました。"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:31
 msgid "Vector point data editing and visualization"
-msgstr "ベクタポイントデータの編集と視覚化"
+msgstr "ベクターポイントデータの編集と視覚化"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:40
 msgid "Paleontological Risk Map"
@@ -101,7 +102,7 @@ msgid ""
 "Sociedade de História Natural. His area of interest is focused on "
 "geotechnology applications to the fields of paleontology, archeology and "
 "cultural heritage."
-msgstr "この記事は、アンドレ・マノによって2010年11月に寄贈されました。Sociedadeデ・自然史 - 彼はAssociaçãoレオネルトリンダーデのGeopraphic部門を担当しています。関心の彼の領域は古生物学、考古学と文化遺産の分野への地質工学の応用に焦点を当てています。"
+msgstr "この記事は、アンドレ・マノによって2010年11月に寄稿されました。氏は自然史協会 - レオネル・トリンデード協会の地質部門担当です。関心領域は古生物学、考古学と文化遺産の分野への地質工学の応用に焦点を当てています。"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:48
 msgid "References"
@@ -133,7 +134,7 @@ msgid ""
 "different systems --– we have Mac, Windows PC and Linux PC, therefore it's "
 "of extreme importance that we have the freedom to install the software on "
 "any machine we want so we don't get stuck to a particular computer."
-msgstr "QGISのための選択は、マルチプラットフォームのサポートに励まされました。したがって、それは私たちが望む任意のマシンので、私たちはドンにソフトウェアをインストールする自由を持っていることを極めて重要だ、私たちは、Mac、WindowsのPCとLinux PCを持っている---機関は、次の3つの施設を持っており、それらの施設のそれぞれは、異なるシステムを持っています「Tは、特定のコンピュータにはまり込みます。"
+msgstr "QGISを選択するには、マルチプラットフォームをサポートしていることも励まされました。機関では異なる3つの施設を持っており、それらの施設のそれぞれは異なるシステムを持っています。私たちは、Mac、WindowsのPCとLinux PCを持っています。したがって、特定のコンピュータにこだわらず希望する任意のマシンでソフトウェアをインストールする自由を持っていることは極めて重要です。"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:45
 msgid ""
@@ -147,7 +148,7 @@ msgid ""
 "if you have to train first time users has we've done. The easyness of the "
 "interface makes production of maps an everyday task and brought people "
 "closer to spatial approaches [3]."
-msgstr "QGISでの全体的な経験は非常に良いと推奨されている定格することができます。私たちの観点からは、QGISの主な利点はそれだけでGISソフトウェアではないということです---それは、空間データのための生産性スイートです。それは、私たちは、単一の作業環境内の他の強力なツールを活用することができました。QGISからは、GRASSと、PostGISにして、GPSデータと、Webサービスで、世界中のユーザーによって開発された便利なプラグインの数十で動作することができます。ユーザーフレンドリーなインターフェイスは、あなたが私たちがやったのは今回が初めてのユーザーを訓練する必要がある場合は特に、また、大きな利点です。インタフェースのeasynessは、マップの生産日常のタスクと近い空間的アプローチに人々をもたらした[3]になります。"
+msgstr "QGISでの全体的な経験は非常に良いと推奨されている評定できます。私たちの観点からは、QGISの主な利点はそれがただのGISソフトウェアではないことです---それは空間データのための生産性スイートです。それは、私たちは、単一の作業環境内の他の強力なツールを活用できました。QGISからは、GRASSと、PostGISにして、GPSデータと、Webサービスで、世界中のユーザーによって開発された便利なプラグインの数十で動作することができます。ユーザーフレンドリーなインターフェイスは、私たちがやったのは今回が初めてのユーザーを訓練する必要がある場合は特に、また、大きな利点です。インタフェースのeasynessは、地図の生産日常のタスクと近い空間的アプローチに人々をもたらした[3]になります。"
 
 #~ msgid ""
 #~ "The choice for QGIS was also encouraged by the multi platform support. The "

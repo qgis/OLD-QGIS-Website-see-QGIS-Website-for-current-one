@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2013-2014,2016
+# Sorin Călinică <scalinica@gmail.com>, 2013-2014,2016,2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 16:17+0200\n"
-"PO-Revision-Date: 2018-05-20 14:24+0000\n"
+"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"PO-Revision-Date: 2020-10-26 10:56+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -40,12 +40,13 @@ msgstr "Cum se pune o întrebare despre QGIS?"
 
 #: ../../source/site/getinvolved/faq/index.rst:20
 msgid ""
-"If you are going to ask QGIS related question via the mailing lists, please "
-"provide enough information to help others easily understand what your "
-"problem is. Without a clear and precise question, it is very hard to answer "
-"for anybody or takes just too much time because the answer will be a "
-"question to you etc etc. You may provide information such as:"
-msgstr "Dacă aveți de gând să adresați o întrebare legată de QGIS prin intermediul listelor de discuții, vă rugăm să furnizați suficiente informații pentru a-i ajuta pe ceilalți să vă înțeleagă cu ușurință problema. În lipsa unei întrebări clare și precise, este foarte greu pentru oricine să ofere un răspuns, sau s-ar irosi mult timp dacă răspunsul va fi o întrebare pentru dvs. etc etc. Ați putea furniza informații de genul următor:"
+"If you are going to ask QGIS related question via the :ref:`mailing lists "
+"<QGIS-mailinglists>`, please provide enough information to help others "
+"easily understand what your problem is. Without a clear and precise "
+"question, it is very hard to answer for anybody or takes just too much time "
+"because the answer will be a question to you etc etc. You may provide "
+"information such as:"
+msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:26
 msgid "preferably a descriptive title for your email"
@@ -75,11 +76,11 @@ msgstr "care este eroarea exactă (dacă este posibil: o captură de ecran, jurn
 
 #: ../../source/site/getinvolved/faq/index.rst:33
 msgid "which Operating System and version"
-msgstr "Sistemul de Operare și versiunea"
+msgstr "sistemul de operare și versiunea"
 
 #: ../../source/site/getinvolved/faq/index.rst:34
 msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
-msgstr "cum ați instalat-o (osgeo4w? instalare offline? compilație proprie?)"
+msgstr "modalitatea instalării (osgeo4w? instalare offline? compilație proprie?)"
 
 #: ../../source/site/getinvolved/faq/index.rst:35
 msgid ""
@@ -96,75 +97,90 @@ msgstr "Rețineți că precizia și rapiditatea răspunsului pe care îl veți p
 #: ../../source/site/getinvolved/faq/index.rst:41
 msgid ""
 "In case of a broken function, you may give a look at `QGIS issue tracker "
-"<https://issues.qgis.org/projects/qgis/issues>`_ before mailing to the list."
-" More information at :ref:`QGIS-bugreporting`."
+"<https://github.com/qgis/QGIS/issues>`_ before mailing to the list. More "
+"information at :ref:`QGIS-bugreporting`."
 msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:47
 msgid "How are QGIS release names selected?"
-msgstr ""
+msgstr "Criteriile de selectare a numelor pentru versiunile de QGIS?"
 
 #: ../../source/site/getinvolved/faq/index.rst:49
 msgid ""
 "After a succesfull developer meeting in Zurich (Switzerland), we decided "
 "that the next release should be related to it. Since then, all releases have"
 " been named after locations of our developer meetings."
-msgstr ""
+msgstr "În urma unei reuniuni a dezvoltatorilor din Zurich (Elveția), s-a decis ca versiunea lansată la acel moment să facă referire la evenimentul respectiv. De atunci, toate versiunile poartă numele localităților în care s-au desfășurat întâlnirile dezvoltatorilor."
 
 #: ../../source/site/getinvolved/faq/index.rst:54
 msgid "How to cite QGIS?"
-msgstr ""
+msgstr "Cum se face o referire la QGIS?"
 
 #: ../../source/site/getinvolved/faq/index.rst:56
 msgid ""
 "To cite QGIS in your piece of work, or for an assignment, this general "
-"citation might be helpful: \"QGIS Development Team (YEAR). QGIS Geographic "
-"Information System. Open Source Geospatial Foundation Project. "
-"http://qgis.osgeo.org\"."
+"citation might be helpful: \"QGIS.org (YEAR). QGIS Geographic Information "
+"System. Open Source Geospatial Foundation Project. http://qgis.org\"."
 msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:60
+msgid "I created a map with QGIS, do I have to mention QGIS?"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:62
+msgid ""
+"There is no requirement to mention QGIS for maps produced with it. It is of "
+"course really welcome if would like to add a note saying that the map was "
+"produced with QGIS. \"Made with QGIS\" or \"Map created using the Free and "
+"Open Source QGIS\" are good examples of such a note."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:67
+msgid "Do not say ©QGIS as QGIS does not hold copyrights on your work."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:70
 msgid "Can I open ECW files with QGIS?"
 msgstr "QGIS poate deschide fișiere ECW?"
 
-#: ../../source/site/getinvolved/faq/index.rst:62
+#: ../../source/site/getinvolved/faq/index.rst:72
 msgid ""
 "Yes you can... BUT depending on your Operating System, it is more or less "
 "difficult."
 msgstr "Da, poate... DAR, în funcție de sistemul dvs. de operare, este mai mult sau mai puțin dificil."
 
-#: ../../source/site/getinvolved/faq/index.rst:64
+#: ../../source/site/getinvolved/faq/index.rst:74
 msgid ""
 "If you are under Windows and are using the OSGeo4w installer, it is "
 "included."
 msgstr "Sub Windows, dacă utilizați pachetul de instalare OSGeo4w, atunci această funcționalitate este deja inclusă."
 
-#: ../../source/site/getinvolved/faq/index.rst:66
+#: ../../source/site/getinvolved/faq/index.rst:76
 msgid ""
 "If you are using OS X, you can find the ECW plugin and install instructions "
 "at http://www.kyngchaos.com/software/frameworks"
 msgstr "În cazul în care utilizați OS X, puteți găsi plugin-ul ECW și instrucțiunile de instalare la http://www.kyngchaos.com/software/frameworks"
 
-#: ../../source/site/getinvolved/faq/index.rst:69
+#: ../../source/site/getinvolved/faq/index.rst:79
 msgid ""
 "For other instructions, eg look here: http://www.faunalia.com/content"
 "/adding-ecw-support-quantum-gis"
 msgstr "Pentru alte instrucțiuni, vă puteți uita aici: http://www.faunalia.com/content/adding-ecw-support-quantum-gis"
 
-#: ../../source/site/getinvolved/faq/index.rst:72
+#: ../../source/site/getinvolved/faq/index.rst:82
 msgid "Development"
 msgstr "Dezvoltare"
 
-#: ../../source/site/getinvolved/faq/index.rst:75
+#: ../../source/site/getinvolved/faq/index.rst:85
 msgid "Can I compile QGIS myself?"
 msgstr "Aș putea compila QGIS?"
 
-#: ../../source/site/getinvolved/faq/index.rst:77
+#: ../../source/site/getinvolved/faq/index.rst:87
 msgid ""
 "Yes, compiling QGIS from source is possible whatever OS you use (Windows, OS"
 " X, Linux). Please read `Building QGIS from source "
-"<http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
-msgstr "Bineînțeles, compilarea QGIS de la sursă este posibilă, indiferent de sistemul de operare pe care îl utilizați (Windows, OS X, Linux). Vă rugăm să citiți `Compilarea sursei QGIS <http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
+"<https://github.com/qgis/QGIS/blob/master/INSTALL.md>`_"
+msgstr ""
 
 #~ msgid ""
 #~ msgstr ""
@@ -209,4 +225,31 @@ msgstr "Bineînțeles, compilarea QGIS de la sursă este posibilă, indiferent d
 #~ ".pixelkarte-farbe&layers=ch.swisstopo.hiks-"
 #~ "dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_"
 #~ " in Switzerland."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are going to ask QGIS related question via the mailing lists, please "
+#~ "provide enough information to help others easily understand what your "
+#~ "problem is. Without a clear and precise question, it is very hard to answer "
+#~ "for anybody or takes just too much time because the answer will be a "
+#~ "question to you etc etc. You may provide information such as:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In case of a broken function, you may give a look at `QGIS issue tracker "
+#~ "<https://issues.qgis.org/projects/qgis/issues>`_ before mailing to the list."
+#~ " More information at :ref:`QGIS-bugreporting`."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To cite QGIS in your piece of work, or for an assignment, this general "
+#~ "citation might be helpful: \"QGIS Development Team (YEAR). QGIS Geographic "
+#~ "Information System. Open Source Geospatial Foundation Project. "
+#~ "http://qgis.osgeo.org\"."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Yes, compiling QGIS from source is possible whatever OS you use (Windows, OS"
+#~ " X, Linux). Please read `Building QGIS from source "
+#~ "<http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
 #~ msgstr ""

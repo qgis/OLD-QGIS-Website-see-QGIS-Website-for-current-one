@@ -6,6 +6,7 @@
 # Translators:
 # Marina <pavlova.marina.v@gmail.com>, 2020
 # Arthur <un-logic@ya.ru>, 2020
+# Aleksander Petrov <felispimeja+transifex.com@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-02 12:44+0100\n"
 "PO-Revision-Date: 2019-07-12 14:43+0000\n"
-"Last-Translator: Arthur <un-logic@ya.ru>, 2020\n"
+"Last-Translator: Aleksander Petrov <felispimeja+transifex.com@gmail.com>, 2020\n"
 "Language-Team: Russian (https://www.transifex.com/qgis/teams/6144/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +26,7 @@ msgstr ""
 
 #: ../../source/site/about/sustaining_members.rst:4
 msgid "Sustaining members and Donors"
-msgstr "Члены подкрепления и жертвователи"
+msgstr "Спонсоры и Меценаты"
 
 #: ../../source/site/about/sustaining_members.rst:6
 msgid ""
@@ -66,6 +67,8 @@ msgid ""
 ":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
 "javascript loading of atom feed --> </div>`"
 msgstr ""
+":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
+"javascript loading of atom feed --> </div>`"
 
 #: ../../source/site/about/sustaining_members.rst:34
 msgid "List of past sustaining members"
@@ -112,7 +115,7 @@ msgstr ""
 "Пожалуйста, обратитесь в налоговую инспекцию за разъяснениями."
 
 #~ msgid "Sustaining members, sponsors and Donors"
-#~ msgstr "Члены подкрепления, спонсоры и жертвователи"
+#~ msgstr "Спонсоры и Меценаты"
 
 #~ msgid ""
 #~ "We thank our sustaining members, sponsors and donors who support the QGIS "
@@ -125,6 +128,15 @@ msgstr ""
 #~ "organizations it was difficult or impossible to sponsor or donate to a "
 #~ "project."
 #~ msgstr ""
+#~ "Мы благодарим нашим постоянных спонсорам и меценатам, которые поддерживают "
+#~ "проект QGIS и позволяют нам оплачивать инфраструктуру и важную работу по "
+#~ "развитию, а также финансировать встречи разработчиков и продвижение QGIS на "
+#~ "семинарах и конференциях. Обратите внимание, что в настоящее время мы "
+#~ "находимся на этапе перехода от системы спонсоров к системе с постоянными "
+#~ "участниками. Это должно облегчить государственным органам возможность "
+#~ "поддержки проекта QGIS.ORG через регистрацию постоянными участниками. Ранее "
+#~ "для многих общественных организаций было трудно или невозможно спонсировать "
+#~ "или делать пожертвования проекту."
 
 #~ msgid ""
 #~ "Organizations who supported QGIS before March 17, 2019 are still sponsors, "

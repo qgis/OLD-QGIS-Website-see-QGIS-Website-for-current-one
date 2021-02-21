@@ -1,14 +1,18 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013,2015
+# João Gaspar <joao.f.r.gaspar@gmail.com>, 2019
+# Manuela Silva <manuelarodsilva@gmail.com>, 2020
+# Manuela Silva <manuelarodsilva@gmail.com>, 2018
 # Rui Pedro Henriques <henriques.rui@gmail.com>, 2013
+# Rui <xymarior@yandex.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 20:02+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2020-07-31 15:35+0000\n"
+"Last-Translator: Manuela Silva <manuelarodsilva@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +33,7 @@ msgstr "Os lugares PSC não expiram. Os membros PSC podem resignar a sua posiç�
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:18
 msgid "The PSC consists of 8 identified roles as follows:"
-msgstr "O PSC consiste em 8 identificadas funções que se seguem:"
+msgstr "O PSC consiste nas 8 funções identificadas que se seguem:"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:22
 msgid "**Chair**"
@@ -40,7 +44,7 @@ msgid ""
 "To support the activities and present a public face to the project. To issue"
 " press releases, conduct interviews, collaborate with PSC members and "
 "provide stability and guidance to the project."
-msgstr "Apoiar as actividades e efectuar aparições públicas no âmbito do projecto. Para lidar com notícias de lançamento, entrevistas orientadas, colaborar com os membro PSC e fornecer estabilidade e lideranaç no projecto."
+msgstr "Apoiar as atividades e efetuar aparições públicas no âmbito do projeto. Para lidar com notícias de lançamento, entrevistas orientadas, colaborar com os membro PSC e fornecer estabilidade e liderança ao projeto."
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:28
 msgid "**Community Adviser**"
@@ -53,7 +57,7 @@ msgid ""
 " lists, forums etc. To achieve these aims he / she will recruit and advise "
 "'managers' to curate these individual online services and provide oversight "
 "for their activities."
-msgstr "Serve para construir relações com a comunidade. Assegurar a evolução da experiência online do QGIS.org incluindo sítio da internet, blogues, listas de discussão, fóruns etc. Para alcançar esses objectivos ele / ela irá recrutar e aconselhar 'gestores' para orientar esses serviços individuais online e fornecer supervisão nas suas actividades."
+msgstr "Serve para construir relações com a comunidade. Assegurar a evolução da experiência online do QGIS.org incluindo sítio da internet, blogues, listas de discussão, fóruns etc. Para alcançar esses objetivos ele / ela irá recrutar e aconselhar 'gestores' para orientar esses serviços individuais online e fornecer supervisão nas suas atividades."
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:33
 msgid "**Technical Adviser**"
@@ -65,7 +69,7 @@ msgid ""
 "include recruiting and facilitating 'managers' for discrete areas of the "
 "code based (core, gui, plugins, providers, tests) who will ensure "
 "consistency and quality of code added into the SVN code repository."
-msgstr "Fornecer supervisão e orientação no esforço de desenvolvimento. Isso inclui recrutar e facilitar 'gestores' para áreas discretas do código base (base, gui, módulo, fornecedores, testes) que irão assegurar a consistência e qualidade do código adicionado no repositório de código SVN."
+msgstr "Para fornecer supervisão e orientação no esforço do desenvolvimento. Isto irá incluir o recrutamento e facilitar os 'gestores' para áreas discretas do código base (base, gui, módulo, fornecedores, testes) que irão assegurar a consistência e qualidade do código adicionado no repositório de códigos SVN."
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:40
 msgid "**Financial and Marketing advisor**"
@@ -78,11 +82,11 @@ msgid ""
 "areas where funding is needed and put into place actions to secure this "
 "funding. To keep track of funding as managed by OSGeo. To present the PSC "
 "with financial options for any initiative requiring funding."
-msgstr "Fornecer relatórios e explorar vias de receita para o projecto QGIS. Interagir com as empresas para garantir o financiamento para esforços futuros. Identificar as áreas em que é necessário financiamento e colocar e aplicá-lo para garantir esse financiamento. Acompanhar o financiamento gerido pelo OSGeo. Apresentar ao PSC opções financeiras para qualquer iniciativa que requer financiamento."
+msgstr "Fornecer relatórios e explorar vias de receita para o projeto QGIS. Interagir com as empresas para garantir o financiamento para esforços futuros. Identificar as áreas em que é necessário financiamento e colocar e aplicá-lo para garantir esse financiamento. Acompanhar o financiamento gerido pelo OSGeo. Apresentar ao PSC opções financeiras para qualquer iniciativa que requer financiamento."
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:45
 msgid "**Release Manager**"
-msgstr "**Gestor de Lançamento**"
+msgstr "**Gestor de Lançamentos**"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:43
 msgid ""
@@ -90,7 +94,7 @@ msgid ""
 " platforms.  With the PSC, determine timelines for freezes, releases, and "
 "general release and maintenance policies.  Recruit and support build "
 "managers to create packages for supported platforms."
-msgstr "Supervisionar lançamentos a tempo, regulares, estáveis​ do QGIS nas várias plataformas suportadas. Com o PSC, são determinados prazos para congelar, lançamentos, e lançamento geral e as políticas de manutenção. Recrutar e apoiar gestores de compliação para criar pacotes para as plataformas suportadas."
+msgstr "Para supervisionar lançamentos a tempo, regulares e estáveis do QGIS nas várias plataformas suportadas. Com o PSC, determine os prazos para congelar, lançamentos, lançamento geral e as políticas de manutenção. Recrute e apoie os gestores de compilação para criar pacotes para as plataformas suportadas."
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:49
 msgid "**Design Advisor**"
@@ -101,11 +105,11 @@ msgid ""
 "To oversee activities related to QGIS branding, including logo, user "
 "experience, icons, and other graphic elements common to both the application"
 " and the project's web presence."
-msgstr "Supervisionar as actividades relacionadas com a marca QGIS, incluindo o logótipo, experiência do utilizador, ícones e outros elementos gráficos comuns a ambos, a aplicação e à presença web do projecto."
+msgstr "Supervisionar as atividades relacionadas com a marca QGIS, incluindo o logótipo, experiência do utilizador, ícones e outros elementos gráficos comuns a ambos, a aplicação e à presença web do projeto."
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:54
 msgid "**Infrastructure Manager**"
-msgstr "**Gestor de Infraestrutura**"
+msgstr "**Gestor de Infraestruturas**"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:52
 msgid ""
@@ -113,11 +117,11 @@ msgid ""
 "websites, source control, and issue tracking. Make recommendations for "
 "improvements, expansion, and consolidation of services. Guide and direct "
 "volunteers"
-msgstr "Gerenciar e fiscalizar a infraestrutura do projecto QGIS, incluindo servidores, sítios de internet, controle da fonte e rastreiro de problema. Fazer recomendações para melhorias, expansão e consolidação dos serviços. Guia e orienta voluntários"
+msgstr "Gerenciar e fiscalizar a infraestrutura do projeto QGIS, incluindo servidores, sítios de internet, controle da fonte e rastreiro de problema. Fazer recomendações para melhorias, expansão e consolidação dos serviços. Guia e orienta voluntários"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:62
 msgid "**Testing and QA Manager**"
-msgstr "**Testando e Gestor QA**"
+msgstr "**Gestor de QA  e Testes**"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:57
 msgid ""
@@ -150,7 +154,7 @@ msgid ""
 "be QGIS users or developers and have an understanding of GIS and the goals "
 "of the QGIS project. In addition, nominees should meet the qualifications "
 "set forth in this document. Anyone can submit a nomination."
-msgstr "Qualquer pessoa tem o direito de ser nomeado para o QGIS PSC. Idealmente, os candidatos seriam utilizadores QGIS ou programadores e compreenderam os SIG e os objectivos do projecto QGIS. Além disso, os candidatos devem atender às qualificações estabelecidas neste documento. Qualquer um pode submeter uma candidatura."
+msgstr "Qualquer pessoa tem o direito de ser nomeado para o QGIS PSC. Idealmente, os candidatos seriam utilizadores QGIS ou programadores e compreenderam os SIG e os objetivos do projeto QGIS. Além disso, os candidatos devem atender às qualificações estabelecidas neste documento. Qualquer um pode submeter uma candidatura."
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:79
 msgid "To nominate someone:"
@@ -160,7 +164,7 @@ msgstr "Para nomear alguém:"
 msgid ""
 "Nominator checks with the nominee to make sure they are willing to serve on "
 "the PSC and commit to the goals and duties described in this document"
-msgstr "Nomeador verifica que o nomeado assegura a vontade de servir no PSC e compremeter-se nos objectivos e deveres descritos neste documento"
+msgstr "Nomeador verifica que o nomeado assegura a vontade de servir no PSC e comprometer-se nos objetivos e deveres descritos neste documento"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:83
 msgid "Nominator submits the nomination via email to the PSC mailing list."
@@ -172,7 +176,7 @@ msgstr "A linha de título do email deve ser **Nomination for QGIS PSC**"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:85
 msgid "Nominations without the correct subject line will be rejected"
-msgstr "Nomeações sem a linha de título correcto serão rejeitados"
+msgstr "Nomeações sem a linha de título correto serão rejeitados"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:86
 msgid "Nominations without complete information will be rejected"
@@ -188,7 +192,7 @@ msgstr "Nome completo do nomeador"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:92
 msgid "Email address of the nominator"
-msgstr "Endereço electrónico do nomeador"
+msgstr "Endereço eletrónico do nomeador"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:93
 msgid "Full name of the nominee"
@@ -196,7 +200,7 @@ msgstr "Nome completo do nomeado"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:94
 msgid "Email address of the nominee"
-msgstr "Endereço electrónico do nomeado"
+msgstr "Endereço eletrónico do nomeado"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:95
 msgid ""
@@ -229,7 +233,7 @@ msgstr "Estar disponível e com vontade de assistir encontros online"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:109
 msgid "Act in the best interests of the project"
-msgstr "Agir pelos melhores interesses do projecto"
+msgstr "Agir pelos melhores interesses do projeto"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:112
 msgid "Role of the PSC"
@@ -241,21 +245,21 @@ msgstr "O PSC pretende que:"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:116
 msgid "Provide guidance to the general direction of the project"
-msgstr "Dar orientação e direcções gerais do projecto"
+msgstr "Dar orientação e direções gerais do projeto"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:117
 msgid "Provide a central point of contact for the project"
-msgstr "Fornecer um ponto central de contacto para o projecto"
+msgstr "Fornecer um ponto central de contacto para o projeto"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:118
 msgid ""
 "Ensure that the various expectations placed on the project by its members "
 "and the users of QGIS are met to the best degree possible"
-msgstr "Assegurar da melhor forma as várias expectativas postas no projecto pelo membros e utilizadores do GIS"
+msgstr "Assegurar da melhor forma as várias expectativas postas no projeto pelo membros e utilizadores do GIS"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:120
 msgid "Vote on issues relating to project governance"
-msgstr "Votar em problemas relacionados com a administração do projecto"
+msgstr "Votar em problemas relacionados com a administração do projeto"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:121
 msgid "Arbitrate disputes"
@@ -267,7 +271,7 @@ msgstr "Lidar com matérias confidenciais e legais que podem surgir"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:123
 msgid "Provide a stable base of 'institutional knowledge' to the project"
-msgstr "Fornecer uma base estável de 'conhecimento instituiocional' para o projecto"
+msgstr "Fornecer uma base estável de 'conhecimento instituiocional' para o projeto"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:126
 msgid "The PSC is not:"
@@ -281,15 +285,15 @@ msgstr "Uma entidade legal"
 msgid ""
 "Intended to deal with minutae of the project (these should be delegated to "
 "trusted members)"
-msgstr "Instenção de lidar com minúcias do projecto (estes devem ser delegados a membros de confiança)"
+msgstr "Instenção de lidar com minúcias do projeto (estes devem ser delegados a membros de confiança)"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:4
 msgid "PSC Project Steering Committee"
-msgstr "Comité Gestão do Projecto PSC"
+msgstr "Comité Gestão do Projeto PSC"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:6
 msgid "Current members of the PSC can be found :ref:`here <governance>`"
-msgstr "Membros actuais do PSC podem ser encontrados :ref:`aqui <governance>`"
+msgstr "Membros atuais do PSC podem ser encontrados ref:`here <governance>`"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:16
 msgid "Member's roles within the PSC"

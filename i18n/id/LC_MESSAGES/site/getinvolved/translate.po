@@ -2,13 +2,14 @@
 # Translators:
 # Imron Fauzi <imronfauzi@gmail.com>, 2014-2015
 # Muhammad Aswin <frozendroid99@gmail.com>, 2015
+# Ridho Dwi Dharmawan <ridhodwidh@gmail.com>, 2020-2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 16:17+0200\n"
-"PO-Revision-Date: 2018-05-20 14:23+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"PO-Revision-Date: 2021-02-05 22:29+0000\n"
+"Last-Translator: Ridho Dwi Dharmawan <ridhodwidh@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/qgis/qgis-website/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +20,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:4
 msgid "Translation"
-msgstr ""
+msgstr "Terjemahan"
 
 #: ../../source/site/getinvolved/translate.rst:6
 msgid ""
@@ -30,14 +31,14 @@ msgid ""
 " available in the Desktop user interface and about eighty languages are "
 "available in transifex ready to be translated. Nearly the same apply for the"
 " web site and documentation."
-msgstr ""
+msgstr "QGIS asalnya dikembangkan dalam bahasa Inggris, baik antarmuka pengguna (GUI), dokumentasi dan situs webnya. Namun, semua komponen tersedia dalam banyak bahasa lain karena dirancang untuk diterjemahkan dengan mudah ke bahasa apa pun. Saat ini sekitar empat puluh bahasa telah tersedia di antarmuka pengguna Desktop dan sekitar delapan puluh bahasa tersedia di transifex yang siap untuk diterjemahkan. Begitu juga dengan situs web dan dokumentasinya."
 
 #: ../../source/site/getinvolved/translate.rst:14
 msgid ""
 "The translation process is managed by the :ref:`Translation Team <gui-"
 "translation>` and all the activities are done under the `Transifex "
 "<https://www.transifex.com/>`_ platform."
-msgstr ""
+msgstr "Proses penerjemahan dikelola oleh :ref:`Translation Team <gui-translation>` dan semua aktivitas dilakukan di platform `Transifex <https://www.transifex.com/>`_."
 
 #: ../../source/site/getinvolved/translate.rst:22
 msgid "Translators Mailing list"
@@ -67,16 +68,16 @@ msgstr "Kami sangat mendorong siapa pun yang berurusan dengan penerjemahan untuk
 #: ../../source/site/getinvolved/translate.rst:36
 msgid ""
 "The other available mailing lists can be found at :ref:`QGIS-mailinglists`."
-msgstr ""
+msgstr "Milis lain yang tersedia dapat ditemukan di :ref:`QGIS-mailinglists`."
 
 #: ../../source/site/getinvolved/translate.rst:42
 msgid "GUI Translation"
-msgstr ""
+msgstr "Terjemahan GUI"
 
 #: ../../source/site/getinvolved/translate.rst:44
 msgid ""
 "The QGIS interface is natively programmed in English. However, at this "
-"moment over fourthy other languages are already available."
+"moment over forty other languages are already available."
 msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:47
@@ -187,7 +188,7 @@ msgstr ""
 #: ../../source/site/getinvolved/translate.rst:107
 msgid ""
 "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
-"Desktop, QGIS Browser and QGIS Server),"
+"Desktop and QGIS Server),"
 msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:109
@@ -237,7 +238,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:133
 msgid "Translate"
-msgstr ""
+msgstr "Terjemahkan"
 
 #: ../../source/site/getinvolved/translate.rst:135
 msgid ""
@@ -540,4 +541,14 @@ msgstr ""
 #~ "To start QGIS with the appropriate localization, run ``qgis --lang <language"
 #~ " code>`` in command line or change localization in QGIS under "
 #~ ":menuselection:`Settings --> Options --> Locale` menu."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The QGIS interface is natively programmed in English. However, at this "
+#~ "moment over fourthy other languages are already available."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
+#~ "Desktop, QGIS Browser and QGIS Server),"
 #~ msgstr ""

@@ -10,10 +10,10 @@
 # Jürgen E. Fischer <jef@norbit.de>, 2020
 # Francis Gasc <francisgasc@gmail.com>, 2020
 # Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2020
-# Sant-anna <delazj@gmail.com>, 2020
+# Harrissou Sant-anna, 2020
 # MarieSilvestre, 2020
-# Vincent Bré <vincent.bre@outlook.fr>, 2020
 # Benoît de Cabissole, 2020
+# Vincent Bré <vincent.bre@outlook.fr>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -22,7 +22,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-10 10:41+0200\n"
 "PO-Revision-Date: 2020-03-13 10:11+0000\n"
-"Last-Translator: Benoît de Cabissole, 2020\n"
+"Last-Translator: Vincent Bré <vincent.bre@outlook.fr>, 2020\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1959,6 +1959,8 @@ msgstr "|image41|"
 #: ../../source/site/forusers/visualchangelog312/index.rst:674
 msgid "Feature: UX improvements in drag'n'drop form designer"
 msgstr ""
+"Fonctionnalité : Améliorations de l'UX dans la conception de formulaires à "
+"glisser-déposer"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:676
 msgid "The drag'n'drop form designer has received some nice UX improvements"
@@ -2122,6 +2124,8 @@ msgstr "|image46|"
 #: ../../source/site/forusers/visualchangelog312/index.rst:747
 msgid "This feature was funded by `BikePlan <https://www.bikeplan.ch/>`__"
 msgstr ""
+"Cette fonctionnalité a été financé par `BikePlan "
+"<https://www.bikeplan.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:752
 msgid "Feature: Fuzzy Logic - Fuzzfiy Raster (linear membership)"
@@ -3378,6 +3382,8 @@ msgstr "`PR #33922 <https://github.com/qgis/QGIS/pull/33922>`__"
 msgid ""
 "QGISserver cannot find shp; tries to open absolute instead of relative path"
 msgstr ""
+"Le serveur QGIS ne trouve pas de shp ; il essaie d'ouvrir un chemin absolu "
+"plutôt que relatif"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1200
 msgid "`#33200 <https://github.com/qgis/QGIS/issues/33200>`__"
@@ -3396,6 +3402,8 @@ msgstr "critique"
 #: ../../source/site/forusers/visualchangelog312/index.rst:1202
 msgid "unreported: wrong link in server WFS3 items page (too many slashes)"
 msgstr ""
+"non signalé : mauvais lien dans la page des éléments WFS3 du serveur (trop "
+"de barres obliques)"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1202
 #: ../../source/site/forusers/visualchangelog312/index.rst:1466
@@ -3409,7 +3417,7 @@ msgstr "`PR #33926 <https://github.com/qgis/QGIS/pull/33926>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1204
 msgid "Qgis scans raster tables on connection to postgis"
-msgstr ""
+msgstr "Qgis scanne les tables raster lors de la connexion à postgis"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1204
 msgid "`#33885 <https://github.com/qgis/QGIS/issues/33885>`__"
@@ -3452,11 +3460,11 @@ msgstr "`#33859 <https://github.com/qgis/QGIS/issues/33859>`__"
 #: ../../source/site/forusers/visualchangelog312/index.rst:1216
 #: ../../source/site/forusers/visualchangelog312/index.rst:1228
 msgid "works for me in current master"
-msgstr ""
+msgstr "fonctionne pour moi dans la version actuelle master"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1210
 msgid "QgsVectorLayer readStyle does not read scale based visibility"
-msgstr ""
+msgstr "QgsVectorLayer readStyle ne lit pas la visibilité basée sur l'échelle"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1210
 msgid "`#33840 <https://github.com/qgis/QGIS/issues/33840>`__"
@@ -3582,7 +3590,7 @@ msgstr "`PR #34098 <https://github.com/qgis/QGIS/pull/34098>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1228
 msgid "QGIS Server - WMS Request GetPrint fails with ATLAS\\_PK"
-msgstr ""
+msgstr "Serveur QGIS - La demande WMS GetPrint échoue avec ATLAS\\_PK"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1228
 msgid "`#30817 <https://github.com/qgis/QGIS/issues/30817>`__"
@@ -3623,6 +3631,8 @@ msgstr "`PR #34293 <https://github.com/qgis/QGIS/pull/34293>`__"
 #: ../../source/site/forusers/visualchangelog312/index.rst:1234
 msgid "DB Manager in 3.11 Master can't connect to PostGIS Enabled database"
 msgstr ""
+"DB Manager dans la version 3.11 MasterPostGIS ne peut pas se connecter à la "
+"base de données PostGIS activé"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1234
 msgid "`#34132 <https://github.com/qgis/QGIS/issues/34132>`__"
@@ -3726,7 +3736,7 @@ msgstr "`PR #34315 <https://github.com/qgis/QGIS/pull/34315>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1246
 msgid "filter expression error returns true"
-msgstr ""
+msgstr "l'erreur d'expression du filtre renvoie vrai"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1246
 msgid "`#34259 <https://github.com/qgis/QGIS/issues/34259>`__"
@@ -3802,7 +3812,7 @@ msgstr "`PR #34514 <https://github.com/qgis/QGIS/pull/34514>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1256
 msgid "Raster calculator turns one row of pixels into nodata"
-msgstr ""
+msgstr "La calculatrice raster transforme une ligne de pixels en nodata"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1256
 msgid "`#34435 <https://github.com/qgis/QGIS/issues/34435>`__"
@@ -3936,7 +3946,7 @@ msgstr "Fonctionnalité: Correction de bugs par Even Rouault"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1290
 msgid "Crash when applying wrong filter to OAFeat layer"
-msgstr ""
+msgstr "Crash lors de l'application d'un mauvais filtre sur la couche OAFeat"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1290
 msgid "`#33878 <https://github.com/qgis/QGIS/issues/33878>`__"
@@ -3952,7 +3962,7 @@ msgstr "`PR #33958 <https://github.com/qgis/QGIS/pull/33958>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1292
 msgid "Oracle provider: fix compiler warnings"
-msgstr ""
+msgstr "Fournisseur Oracle : correction des avertissements du compilateur"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1292
 msgid "`PR #33930 <https://github.com/qgis/QGIS/pull/33930>`__"
@@ -3961,6 +3971,8 @@ msgstr "`PR #33930 <https://github.com/qgis/QGIS/pull/33930>`__"
 #: ../../source/site/forusers/visualchangelog312/index.rst:1294
 msgid "Cannot import 3D vector into Spatialite datasource (works for GPKG)"
 msgstr ""
+"Impossible d'importer un vecteur 3D dans Spatialite (fonctionne pour les "
+"fichiers GPKG)"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1294
 msgid "`#33883 <https://github.com/qgis/QGIS/issues/33883>`__"
@@ -4133,7 +4145,7 @@ msgstr "Fonctionnalité: Correction de bugs par Paul Blottiere"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1338
 msgid "Fixes compilation on Archlinux"
-msgstr ""
+msgstr "Compilation de corrections sur Archlinux"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1338
 #: ../../source/site/forusers/visualchangelog312/index.rst:1348
@@ -4160,7 +4172,7 @@ msgstr "`PR #34146 <https://github.com/qgis/QGIS/pull/34146>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1340
 msgid "Move labels doesn't work with GPKG QGIS 3.4"
-msgstr ""
+msgstr "Déplacer les étiquettes ne fonctionne pas avec GPKG QGIS 3.4"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1340
 msgid "`#30408 <https://github.com/qgis/QGIS/issues/30408>`__"
@@ -4168,11 +4180,11 @@ msgstr "`#30408 <https://github.com/qgis/QGIS/issues/30408>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1340
 msgid "Closed (works on master and 3.10)"
-msgstr ""
+msgstr "Fermé (fonctionne sur master et 3.10)"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1342
 msgid "Auxiliary storage not usable in non editable layer"
-msgstr ""
+msgstr "Stockage auxiliaire non utilisable dans une couche non éditable"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1342
 msgid "`#30376 <https://github.com/qgis/QGIS/issues/30376>`__"
@@ -4250,7 +4262,7 @@ msgstr "Fonctionnalité : Correction de bugs par Denis Rouzaud"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1363
 msgid "Crash with relations"
-msgstr ""
+msgstr "Crash avec les relations"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1363
 #: ../../source/site/forusers/visualchangelog312/index.rst:1365
@@ -4263,7 +4275,7 @@ msgstr "`PR #34255 <https://github.com/qgis/QGIS/pull/34255>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1365
 msgid "Crash with relations V2"
-msgstr ""
+msgstr "Crash avec les relations V2"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1365
 msgid "`PR #34403 <https://github.com/qgis/QGIS/pull/34403>`__"
@@ -4342,7 +4354,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1383
 msgid "Feature: Bug fixes by Julien Cabieces"
-msgstr ""
+msgstr "Fonctionnalité : correction de bug par Julien Cabieces"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1388
 #: ../../source/site/forusers/visualchangelog312/index.rst:1417
@@ -4407,7 +4419,7 @@ msgstr "`#32377 <https://github.com/qgis/QGIS/issues/32377>`__"
 #: ../../source/site/forusers/visualchangelog312/index.rst:1394
 #: ../../source/site/forusers/visualchangelog312/index.rst:1423
 msgid "Closed (fixed in 3.10 and master)"
-msgstr ""
+msgstr "Fermé (Corrigé pour la version 3.10 et master)"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1396
 #: ../../source/site/forusers/visualchangelog312/index.rst:1425
@@ -4507,7 +4519,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1412
 msgid "Feature: Bug fixes by Bertrand Rix"
-msgstr ""
+msgstr "Fonctionnalité : Correction de bugs par Bertrand Rix"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1438
 msgid ""
@@ -4522,7 +4534,7 @@ msgstr "Fonctionnalité : Correction de bugs par Loïc Bartoletti"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1446
 msgid "Close vertex for line when editing"
-msgstr ""
+msgstr "Fermer le sommet de la ligne lors de l'édition"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1446
 msgid "`#32359 <https://github.com/qgis/QGIS/issues/32359>`__"
@@ -4538,11 +4550,11 @@ msgstr "`PR #34285 <https://github.com/qgis/QGIS/pull/34285>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1448
 msgid "Fix Grass linking on FreeBSD"
-msgstr ""
+msgstr "Correction des liens Grass sur FreeBSD"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1448
 msgid "reported on FreeBSD ML"
-msgstr ""
+msgstr "Signalé sur FreeBSD ML"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1448
 msgid "`PR #34088 <https://github.com/qgis/QGIS/pull/34088>`__"
@@ -4691,7 +4703,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1474
 msgid "Feature: Bug fixes by Sebastien Peillet"
-msgstr ""
+msgstr "Fonctionnalité : Correction de bugs par Sebastien Peillet"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1479
 msgid "Extend line does not work in compoundCurvedZ layer"
@@ -4770,6 +4782,8 @@ msgstr "`PR #34358 <https://github.com/qgis/QGIS/pull/34358>`__"
 #: ../../source/site/forusers/visualchangelog312/index.rst:1491
 msgid "BUG: fix invalid layer result when Oracle version is under 12"
 msgstr ""
+"BUG : correction d'un résultat de couche invalide lorsque la version "
+"d'Oracle est inférieure à 12"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1491
 msgid "`PR #34546 <https://github.com/qgis/QGIS/pull/34546>`__"
@@ -4785,7 +4799,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1499
 msgid "Feature: Bug fixes by Nyall Dawson"
-msgstr ""
+msgstr "Fonctionnalité: correction de bugs par Nyall Dawson"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1504
 msgid "Fix IN/NOT IN evaluation with very long number like strings"
@@ -4874,6 +4888,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1512
 msgid "Fix crash when changing raster data source"
 msgstr ""
+"Correction d'un crash lors d'un changement de source de données raster"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1512
 msgid "`#34231 <https://github.com/qgis/QGIS/issues/34231>`__"
@@ -5027,7 +5042,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1532
 #: ../../source/site/forusers/visualchangelog312/index.rst:1542
 msgid "N/A - 3.12 only"
-msgstr ""
+msgstr "N/A - Seulement 3.12"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1526
 msgid "Fix crash in server feature info"
@@ -5177,7 +5192,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1542
 msgid "Don't try to label empty geometries"
-msgstr ""
+msgstr "N'essayez pas d'étiqueter des géométries vides"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1542
 msgid "`#33931 <https://github.com/qgis/QGIS/issues/33931>`__"

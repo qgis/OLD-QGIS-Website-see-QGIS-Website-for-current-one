@@ -1,13 +1,14 @@
 # 
 # Translators:
 # Luca M. <luca76@gmail.com>, 2014
+# Pippo Peppo <abc@gmx.ch>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2018-08-25 13:40+0000\n"
+"Last-Translator: Pippo Peppo <abc@gmx.ch>\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,13 +40,13 @@ msgstr "Documentazione in tedesco"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:22
 msgid "An Active developer (Marco Hugentobler) near Solothurn in Switzerland."
-msgstr "Uno sviluppatore attivo (Marco Hugentobler) vicino a Solothurn, in Svizzera."
+msgstr "Uno sviluppatore attivo (Marco Hugentobler) vicino a Soletta, in Svizzera."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:23
 msgid ""
 "We could contract Marco Hugentobler to implement missing / lacking features "
 "like Digitizing and Mapcomposing."
-msgstr "Abbiamo potuto contattare Marco Hugentobler, per ottenere caratteristiche mancanti, come quelle nella digitalizzazione e nella composizione di mappe."
+msgstr "Abbiamo potuto contattare Marco Hugentobler, per implementare caratteristiche mancanti, come quelle nella digitalizzazione e nella composizione di mappe."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:24
 msgid "Application and Plugin developement with Python"
@@ -69,11 +70,11 @@ msgstr "Dove usiamo QGIS"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:43
 msgid "\"SO!GIS Layer\" plugin developed at the Canton of Solothurn"
-msgstr "Plugin \"SO!GIS Layer\" sviluppato al Cantone di Solothurn"
+msgstr "Plugin \"SO!GIS Layer\" sviluppato dal Canton Soletta"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:53
 msgid "\"SO!GIS Suche\" plugin developed at the Canton of Solothurn"
-msgstr "Plugin \"SO!GIS Suche\" sviluppato al Cantone di Solothurn"
+msgstr "Plugin \"SO!GIS Suche\" sviluppato dal Canton Soletta"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:60
 msgid "Conclusion"
@@ -93,7 +94,7 @@ msgid ""
 "support into the black box of our former software provider. Apart from using"
 " FOSSGIS, the Canton of Solothurn also provides public geodata free of "
 "charge via the SO!ONLINE web portal."
-msgstr "Oggi possiamo dire che l'utilizzo di QGIS è stata la decisione più giusta per noi. QGIS offre la maggior parte delle funzionalità richieste dai nostri utenti. Il Cantone di Solothurn subappalta la creazione di caratteristiche di cui QGIS è mancane ai fornitori di supporto commerciale. Con PyQGIS e PyQt ci sono ottime possibilità per uno facile sviluppo di applicazioni in-house. Un vantaggio enorme è poterle installare su un numero illimitato di installazioni. Chiunque ha bisogno di usare QGIS può utilizzarlo senza alcuna limitazione. Per spingere lo sviluppo di QGIS, il Cantone di Solothurn investe circa 30 mila dollari in QGIS ogni anno dal 2007. L'investimento si è rivelato molto più efficiente rispetto al pagamento della scatola nera del nostro ex fornitore di software. Oltre ad utilizzare FOSSGIS, il Canton Soletta fornisce anche dati geografici pubblico gratuitamente tramite il portale web SO!ONLINE."
+msgstr "Oggi possiamo dire che l'utilizzo di QGIS è stata la decisione più giusta per noi. QGIS offre la maggior parte delle funzionalità richieste dai nostri utenti. Il Canton Soletta subappalta la creazione di caratteristiche mancanti in QGIS ai fornitori di supporto commerciale. Con PyQGIS e PyQt ci sono ottime possibilità per uno facile sviluppo di applicazioni in-house. Un vantaggio enorme è il numero illimitato di installazioni possibili. Chiunque ha bisogno di usare QGIS può utilizzarlo senza alcuna limitazione. Per spingere lo sviluppo di QGIS, il Canton Soletta investe circa $30,000 in QGIS ogni anno dal 2007. L'investimento si è rivelato molto più efficiente rispetto al pagamento della scatola nera del nostro ex fornitore di software. Oltre ad utilizzare FOSSGIS, il Canton Soletta fornisce anche dati geografici pubblici gratuitamente tramite il portale web SO!ONLINE."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:65
 msgid "Author"
@@ -108,13 +109,13 @@ msgid ""
 "This article was contributed in May 2009 by Dr. Horst Düster. He is GIS "
 "coordinator at the Department of Geoinformation in the Canton of Solothurn, "
 "Switzerland."
-msgstr "Questo articolo è stato scritto nel mese di maggio 2009 dal Dr. Horst Düster, coordinatore GIS presso il Dipartimento di geoinformazione nel Canton di Solothurn, in Svizzera."
+msgstr "Questo articolo è stato scritto nel mese di maggio 2009 dal Dr. Horst Düster, coordinatore GIS presso il Dipartimento di geoinformazione del Canton Soletta, in Svizzera."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:3
 msgid ""
 "QGIS in the governmental FOSSGIS stack of the Canton of Solothurn in "
 "Switzerland"
-msgstr ""
+msgstr "QGIS nell'ambiente governativo FOSSGIS del Canton Soletta in Svizzera."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:10
 msgid ""
@@ -124,7 +125,7 @@ msgid ""
 "particular vendor, to encourage free enterprise and reduce license costs. As"
 " a result SO!GIS department of the Canton of Solothurn started to deliver "
 "the GIS-requirements of more than 3500 employees with a FOSSGIS strategy."
-msgstr ""
+msgstr "Il Canton Soletta fornisce servizi e infrastrutture a 250.000 cittadini. Nel 2001 il Parlamento cantonale ha deciso di migrare da Windows a Linux. Le motivazioni erano quelle di essere indipendenti da un particolare fornitore, per favorire la libera impresa, e di ridurre i costi di licenza. Come risultato, il reparto SO!GIS del Cantone ha iniziato a fornire i requisiti per un GIS a più di 3500 dipendenti, con una strategia FOSSGIS."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:12
 msgid ""
@@ -134,13 +135,13 @@ msgid ""
 " data from Shapefiles to the PostGIS spatial database engine. The "
 "introduction was very successful, but an easy to use desktop GIS was "
 "lacking."
-msgstr ""
+msgstr "Il primo passo che abbiamo fatto è stato l'introduzione di UMN MapServer e la creazione di un client SO!MAP, che offre un WebGIS facile da usare per tutti i 3500 dipendenti. Il secondo passo è stato quello della migrazione di tutti i nostri dati geospaziali da shapefile al database spaziale PostGIS. La migrazione ha avuto molto successo, ma mancava un software GIS facile da usare sul desktop. "
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:14
 msgid ""
 "After an evaluation of different Desktop GIS we decided to use QGIS in "
 "conjunction with GRASS, replacing ESRI ArcInfo and ArcView3 in the 2006."
-msgstr ""
+msgstr "Dopo una valutazione di diversi software desktop GIS, abbiamo scelto QGIS in unione con GRASS, sostituendo ESRI ArcInfo e ArcView3 nel 2006. "
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:32
 msgid ""
@@ -149,7 +150,7 @@ msgid ""
 "Desktop GIS is in use by more than 50 users for their daily work. But many "
 "of them are not GIS experts. They want to visualize and/or capture "
 "geospatial data with an intuitive user interface."
-msgstr ""
+msgstr "A differenza delle mappe interattive servite da UMN MapServer, il desktop GIS offre un modo flessibile di gestire i dati geospaziali del Canton Soletta. QGIS è in uso da più di 50 utenti per il loro lavoro quotidiano. Molti di loro non sono esperti di GIS. Vogliono visualizzare e/o catturare i dati geospaziali con un'interfaccia utente intuitiva."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:34
 msgid ""
@@ -159,14 +160,14 @@ msgid ""
 "our spatial database, offering the users a raw connection to the PostGIS DB "
 "was not an option. We have a metadata database that stores the descriptions "
 "of all production data called 'SO!DATA'."
-msgstr ""
+msgstr "Una delle domandi più frequenti è: \"come faccio a ottenere le informazioni che ho bisogno dal database PostGIS?\". Poiché i nostri utenti finali non hanno familiarità con i modelli di dati e le strutture sottostanti del nostro database spaziale, non era pensabile offrire ai nostri utenti una connessione diretta al DB PostGIS. Abbiamo quindi creato un database di metadati che memorizza le descrizioni di tutti i dati di produzione, chiamato 'SO!DATA'."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:36
 msgid ""
 "SO!DATA contains a human readable inventory of the data models and the non-"
 "GIS-Expert user is able to use this database to discover the information "
 "they need."
-msgstr ""
+msgstr "SO!DATA contiene un inventario leggibile dei modelli di dati e l'utente non esperto è in grado di utilizzare questo database per scoprire le informazioni di cui ha bisogno."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:45
 msgid ""
@@ -178,7 +179,7 @@ msgid ""
 "find the data layers they need. With this infrastructure in place, our users"
 " are happy --- they can prepare for geoprocessing, editing and map composing"
 " in an individual way."
-msgstr ""
+msgstr "Per eliminare la necessità per gli utenti finali di interagire direttamente con il database PostGIS, è stato sviluppato un plugin in Python. Il plugin si chiama \"SO!GIS Layer\" (vedi Figura 1). Il plugin si connette al repository PostGIS SO!GIS, ottiene le informazioni di tutti i dati geospaziali pubblicati dal SO!DATA ed offre all'utente una interfaccia grafica per individuare i dati di cui ha bisogno. Con questa infrastruttura, i nostri utenti sono soddisfatti: possono fare geoprocessing, editing e comporre mappe nel modo più semplice possibile."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:55
 msgid ""
@@ -186,7 +187,7 @@ msgid ""
 "provides the possibility to search for locations like townships, addresses "
 "or cadastral parcels (see Figure 2). As a result the user is able to "
 "navigate very easily to an area of interest."
-msgstr ""
+msgstr "Abbiamo creato un altro plugin QGIS, chiamato 'SO!GIS Suche'. Questo plugin offre la possibilità di cercare luoghi come borgate, indirizzi o particelle catastali (vedi figura 2). Di conseguenza l'utente è in grado di cercare e navigare molto facilmente in una zona di interesse."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:57
 msgid ""
@@ -195,7 +196,7 @@ msgid ""
 "development plugins cover topics  such as nature reserves, soil "
 "conservation, cadastral data verification, crisis management, abandoned "
 "sites and so on."
-msgstr ""
+msgstr "Al momento molti altri plugin sono in fase di sviluppo. Questi permetteranno la manipolazione dei dati, l'analisi o la mappatura per diversi progetti. I nostri plugins in sviluppo riguardano argomenti quali riserve naturali, conservazione del suolo, verifica dei dati catastali, gestione delle crisi, siti abbandonati e così via. "
 
 #~ msgid "QGIS in the governmental FOSSGIS stack"
 #~ msgstr ""

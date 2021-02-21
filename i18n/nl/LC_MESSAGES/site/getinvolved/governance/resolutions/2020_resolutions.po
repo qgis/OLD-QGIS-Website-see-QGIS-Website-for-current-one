@@ -4,21 +4,21 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 # 
 # Translators:
-# Dick Groskamp, 2020
+# DiGro, 2020
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-10 10:41+0200\n"
+"POT-Creation-Date: 2020-07-09 12:40+0200\n"
 "PO-Revision-Date: 2020-03-13 10:08+0000\n"
-"Last-Translator: Dick Groskamp, 2020\n"
+"Last-Translator: DiGro, 2020\n"
 "Language-Team: Dutch (https://www.transifex.com/qgis/teams/6144/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -35,6 +35,8 @@ msgid "**Date of voting**: 2020-01-07"
 msgstr "**Datum van stemming**: 2020-01-07"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:9
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:47
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:63
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:78
 msgid "**Proponent**: Marco Bernasocchi"
 msgstr "**Indiener**: Marco Bernasocchi"
@@ -57,11 +59,13 @@ msgstr "**Stemmen**: Vóór: Anita, Marco, Paolo, Tim Onthouden: Jürgen"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:17
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:38
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:161
 msgid "**Decision**: Approved"
 msgstr "**Beslissing**: Goedgekeurd"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:19
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:40
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:163
 msgid "**Notes**: none"
 msgstr "**Opmerkingen**: geen"
 
@@ -109,11 +113,6 @@ msgstr "Lijst met apps van QGIS behouden in historische volgorde"
 msgid "**Date of voting**: 2020-03-17"
 msgstr "**Datum van stemming**: 2020-03-17"
 
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:47
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:63
-msgid "**Proposal**: Marco Bernasocchi"
-msgstr "**Voorstel**: Marco Bernasocchi"
-
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:49
 msgid ""
 "**Rationale**: The current ordering reflects the history of the QGIS mobile "
@@ -128,33 +127,36 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:52
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:100
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:110
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:112
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:144
 msgid "+1 Anita"
 msgstr "+1 Anita"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:53
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:97
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:115
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:117
 msgid "+1 Paolo"
 msgstr "+1 Paolo"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:54
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:85
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:99
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:113
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:115
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:143
 msgid "+1 Marco"
 msgstr "+1 Marco"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:55
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:82
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:111
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:113
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:142
 msgid "+1 Tim"
 msgstr "+1 Tim"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:56
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:83
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:96
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:114
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:116
 msgid "+1 Jürgen"
 msgstr "+1 Jürgen"
 
@@ -162,7 +164,8 @@ msgstr "+1 Jürgen"
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:71
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:84
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:98
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:112
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:114
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:148
 msgid "+1 Andreas"
 msgstr "+1 Andreas"
 
@@ -220,8 +223,8 @@ msgid "**Date of voting**: 2020-04-07"
 msgstr "**Datum van stemming**: 2020-04-07"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:92
-msgid "**Proposal**: Paolo Cavallini"
-msgstr "**Voorstel**: Paolo Cavallini"
+msgid "**Proponent**: Paolo Cavallini"
+msgstr "**Indiener**: Paolo Cavallini"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:94
 msgid ""
@@ -245,20 +248,185 @@ msgid "**Date of voting**: 2020-04-15"
 msgstr "**Datum van stemming**: 2020-04-15"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:106
-msgid ""
-"**Proposal**: Anita Graser https://lists.osgeo.org/pipermail/qgis-"
-"psc/2020-April/008639.html"
-msgstr ""
-"**Voorstel**: Anita Graser https://lists.osgeo.org/pipermail/qgis-"
-"psc/2020-April/008639.html"
+msgid "**Proponent**: Anita Graser"
+msgstr "**Indiener**: Anita Graser"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:108
+msgid ""
+"**Proposal**: https://lists.osgeo.org/pipermail/qgis-"
+"psc/2020-April/008639.html"
+msgstr ""
+"**Voorstel**: https://lists.osgeo.org/pipermail/qgis-"
+"psc/2020-April/008639.html"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:110
 msgid ""
 "**Rationale**: The grant process has been enhanced as discussed in "
 "https://github.com/qgis/PSC/issues/31"
 msgstr ""
 "**Beschrijving**: Het proces voor grants is verbeterd zoals besproken in "
 "https://github.com/qgis/PSC/issues/31"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:120
+msgid ""
+"Clarify the \"Use of proprietary software\" motion from 2020-04-07 to make "
+"the process more explicit and organised:"
+msgstr ""
+"Verduidelijk de motie \"Use of proprietary software\" van 07-04-2020 om het "
+"proces meer expliciet en georganiseerder te maken:"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:121
+msgid ""
+"Motion from last month: “Free software should be the first choice for all "
+"the tools we use. We should choose proprietary alternatives only when it is "
+"proven that free software fails to provide a reasonable solution. The PSC "
+"should vote in case a proprietary solution is suggested.”"
+msgstr ""
+"Motie van vorige maand: “Vrije software zou de eerste keuze moeten zijn voor"
+" alle programma's die we gebruiken. We zouden alleen merkgebonden "
+"alternatieven moeten kiezen als is bewezen dat vrije software geen redelijke"
+" oplossing kan verschaffen. De PSC zou moeten stemmen als een merkgebonden "
+"oplossing wordt voorgesteld.”"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:123
+msgid "**Date of voting**: 2020-05-12"
+msgstr "**Datum van stemming**: 2020-05-12"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:125
+msgid "**Proponent**: Tim Sutton"
+msgstr "**Indiener**: Tim Sutton"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:127
+msgid ""
+"**Proposal**: The following steps should apply to both a) new solutions as "
+"well as b) replacement solutions:"
+msgstr ""
+"**Voorstel**: De volgende stappen zouden van toepassing moeten zijn op zowel"
+" a) nieuwe oplossingen, als ook op b) oplossingen voor vervangingen:"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:130
+msgid "Someone proposes a new or replacement platform."
+msgstr "Iemand stelt een nieuw platform voor of een ter vervanging."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:131
+msgid ""
+"They propose a migration strategy for existing content that needs to move to"
+" that platform  (if applicable)."
+msgstr ""
+"Zij stellen een strategie op voor migratie van de bestaande inhoud die dient"
+" te worden verplaatst naar dat platform (indien van toepassing)."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:132
+msgid "They propose who will do the migration (if applicable)."
+msgstr ""
+"Zij stellen voor wie de migratie zal uitvoeren (indien van toepassing)."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:133
+msgid "They propose what, if any, funding implications there are."
+msgstr ""
+"Zij stellen voor welke implicaties, indien aanwezig, er voor de fondsen "
+"zijn."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:134
+msgid "They propose a timeline for the migration/rollout."
+msgstr "Zij stellen een tijdpad op voor de migratie/uitrol."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:135
+msgid ""
+"They describe how the infrastructure is managed and if it is self-hosted "
+"(e.g. do we have backups, who has admin, who fixes issues)."
+msgstr ""
+"Zij beschrijven hoe de infrastructuur zal worden beheerd en als het zelf "
+"wordt gehost (bijv. hebben we back-ups, wie is systeembeheerder, wie "
+"repareert problemen)."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:136
+msgid ""
+"We vote on it having been given reasonable time to consider the above "
+"information and test out the alternative."
+msgstr ""
+"We stemmen erover nadat we voldoende tijd hebben gekregen om bovenstaande "
+"informatie te overwegen en het alternatief te testen."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:137
+msgid "Assuming we vote to agree with the proposal."
+msgstr "Er van uitgaande dat we met het voorstel instemmen."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:138
+msgid "We then start using the new platform."
+msgstr "We beginnen dan het nieuwe platform te gebruiken."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:140
+msgid "Vote:"
+msgstr "Stem:"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:145
+msgid "-1 Paolo"
+msgstr "-1 Paolo"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:146
+msgid "+1 Alessandro"
+msgstr "+1 Alessandro"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:147
+msgid "Jürgen"
+msgstr "Jürgen"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:151
+msgid "Fund documentation grant proposals from documentation budget"
+msgstr ""
+"Betaal voorstellen voor bijdragen voor documentatie uit het budget voor "
+"documentatie"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:153
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:168
+msgid "**Date of voting**: 2020-06-03"
+msgstr "**Datum van stemming**: 2020-06-03"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:155
+msgid "**Proponent**: Anita"
+msgstr "**Indiener**: Anita"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:157
+msgid ""
+"**Proposal**: fund QGIS Server documentation enhancement "
+"(https://github.com/qgis/QGIS-Enhancement-Proposals/issues/184) and "
+"Documentation Grant Proposal (https://github.com/qgis/QGIS-Enhancement-"
+"Proposals/issues/183) directly from the documentation budget"
+msgstr ""
+"**Voorstel**: betaal de verbetering van de documentatie voor QGIS Server "
+"(https://github.com/qgis/QGIS-Enhancement-Proposals/issues/184) en "
+"Documentation Grant Proposal (https://github.com/qgis/QGIS-Enhancement-"
+"Proposals/issues/183) direct uit het budget voor documentatie"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:159
+msgid "**Votes**: In favour: Marco, Jürgen, Anita, Andreas, Alessandro, Paolo"
+msgstr "**Stemmen**: Vóór: Marco, Jürgen, Anita, Andreas, Alessandro, Paolo"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:166
+msgid "Change grant voting mechanism"
+msgstr "Wijzig het mechanisme voor stemmen over bijdragen"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:170
+msgid "**Proponent**: Andreas"
+msgstr "**Indiener**: Andreas"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:172
+msgid ""
+"**Proposal**: voting members can select up to 6 proposals they want to "
+"support (each proposal gets 1 point) with no ranking of the selected ones"
+msgstr ""
+"**Voorstel**: stemmende leden mogen maximaal 6 voorstellen selecteren die "
+"zij willen ondersteunen (elk voorstel krijgt 1 punt) zonder de geselecteerde"
+" een waardering te geven"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:174
+msgid ""
+"**Votes**: In favour: Marco, Jürgen, Anita, Andreas, Alessandro Abstain: "
+"Paolo"
+msgstr ""
+"**Stemmen**: Vóór: Marco, Jürgen, Anita, Andreas, Alessandro, Onthouding: "
+"Paolo"
 
 #~ msgid ""
 #~ "**Rationale**: Documenting new features is difficult, and documentation lags"
@@ -270,3 +438,16 @@ msgstr ""
 #~ "documentatie loopt achter op coderen. Voorstel: Mandateer dat alle nieuwe "
 #~ "mogelijkheden worden vergezeld door documentatie (wat in een goed beschreven"
 #~ " te parsen gedeelte van de omschrijving in de PR zou moeten staan)."
+
+#~ msgid "**Proposal**: Marco Bernasocchi"
+#~ msgstr "**Voorstel**: Marco Bernasocchi"
+
+#~ msgid "**Proposal**: Paolo Cavallini"
+#~ msgstr "**Voorstel**: Paolo Cavallini"
+
+#~ msgid ""
+#~ "**Proposal**: Anita Graser https://lists.osgeo.org/pipermail/qgis-"
+#~ "psc/2020-April/008639.html"
+#~ msgstr ""
+#~ "**Voorstel**: Anita Graser https://lists.osgeo.org/pipermail/qgis-"
+#~ "psc/2020-April/008639.html"

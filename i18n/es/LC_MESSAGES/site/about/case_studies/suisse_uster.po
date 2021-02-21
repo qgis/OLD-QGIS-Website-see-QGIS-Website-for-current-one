@@ -3,13 +3,14 @@
 # BelenMP <Beln1@hotmail.com>, 2014
 # YoViajo, 2015-2016
 # YoViajo, 2016
+# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:58+0000\n"
-"Last-Translator: YoViajo\n"
+"PO-Revision-Date: 2019-12-25 09:07+0000\n"
+"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -45,7 +46,7 @@ msgid ""
 "(University of Berne)) we coordinate and sponsor the improvements of these "
 "tools, along with some improvements in data driven symbolization, automated "
 "labeling, attribute handling and forms."
-msgstr ""
+msgstr "Postgis / PostgreSQL se utiliza como un almacén central de geodatos. Otras bases de datos y fuentes de datos se reproducen en PostgreSQL a intervalos regulares, utilizando herramientas como OGR y FME. Al principio, QGIS se utilizaba principalmente como visor. El primer usuario de QGIS fue un agricultor que tenía la tarea de supervisar las declaraciones hechas por los agricultores locales para recibir subsidios agrícolas. Más tarde, QGIS también se presentó como editor de datos y plataforma de publicación de mapas, junto con las mejoras de las herramientas de edición y el compositor de impresión. Junto con otros usuarios suizos de QGIS (Solothurn, Thun y CDE (Universidad de Berna)) coordinamos y patrocinamos las mejoras de estas herramientas, junto con algunas mejoras en la simbolización basada en datos, etiquetado automatizado, manejo de atributos y formularios."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
@@ -55,7 +56,7 @@ msgid ""
 "electricity networks. However, these are expert systems in use by specially "
 "trained staff. All other GIS projects and the viewing of all data is handled"
 " by QGIS."
-msgstr ""
+msgstr "La administración de la ciudad también utiliza software comercial SIG: Autodesk Topobase, para la captura y edición de datos de infraestructura catastral y de aguas residuales, y GE Smallworld para la gestión de redes de gas, agua y electricidad. Sin embargo, estos son sistemas especializados para uso por personal especialmente capacitado. QGIS maneja todos los demás proyectos SIG y la visualización de todos los datos."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:21
 msgid ""
@@ -68,7 +69,7 @@ msgid ""
 "rich set of symbolization and labeling options and the consistent map "
 "rendering between the Desktop GIS application and the Web-GIS. The QGIS "
 "webclient can be tested and used at http://gis.uster.ch/"
-msgstr ""
+msgstr "En la segunda mitad de 2010, se llevaron a cabo las primeras pruebas con el servidor QGIS. En 2011 presentamos un nuevo sistema WebGIS basado en el servidor QGIS WMS y GeoExt/OpenLayers como cliente web. Las principales razones para la decisión de usar el servidor QGIS fueron los considerables ahorros de tiempo posibles al reutilizar las configuraciones de proyectos de escritorio QGIS existentes, en lugar de tener que administrar configuraciones de proyectos web paralelos. Las ventajas adicionales son el amplio conjunto de opciones de simbolización y etiquetado, y la representación coherente del mapa entre la aplicación Desktop GIS y el Web-GIS. El cliente web QGIS se puede probar y usar en http://gis.uster.ch/"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:28
 msgid "Today, QGIS is used for the following GIS projects:"
@@ -78,21 +79,21 @@ msgstr "Hoy, QGIS es utilizado por los siguientes proyectos SIG:"
 msgid ""
 "viewing of waste-water data, integration of additional databases and direct "
 "access to canal videos and inspection protocols"
-msgstr ""
+msgstr "visualización de datos de aguas residuales, integración de bases de datos adicionales y acceso directo a videos de canales y protocolos de inspección"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:31
 msgid ""
 "viewing and editing for monitoring and the environmental and urban planning "
 "of the waste water and hydrology systems (german: Genereller "
 "Entwässerungsplan)"
-msgstr ""
+msgstr "visualización y edición para el monitoreo y la planificación ambiental y urbana de los sistemas de aguas residuales e hidrología (alemán: Genereller Entwässerungsplan)"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:32
 msgid ""
 "viewing of underground cadastral data (waste water, water, gas and "
 "electricity networks, later also telecommunication) (german: "
 "Leitungskataster)"
-msgstr ""
+msgstr "visualización de datos catastrales subterráneos (redes de aguas residuales, agua, gas y electricidad, más tarde también telecomunicaciones) (alemán: Leitungskataster)"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:33
 msgid "viewing of cadastral and survey data"
@@ -128,7 +129,7 @@ msgid ""
 "product management or sales team. The developers of these two companies are "
 "also lead developers of the QGIS project and have excellent knowledge of the"
 " code base."
-msgstr ""
+msgstr "En 2007 no estaba del todo claro a qué ritmo se desarrollaría más QGIS y cómo evolucionarían tanto el soporte comunitario como el comercial. Hoy se puede afirmar que la velocidad de desarrollo y las mejoras realizadas por la comunidad QGIS excedieron nuestras expectativas. El apoyo comunitario y comercial de las empresas Sourcepole y Norbit es excelente. Existe una comunicación directa con los desarrolladores sin estar protegido por un equipo de gestión de productos o ventas. Los desarrolladores de estas dos compañías también son desarrolladores principales del proyecto QGIS y tienen un excelente conocimiento de la base del código."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:49
 msgid ""
@@ -141,7 +142,7 @@ msgid ""
 " having to deal with licensing management. We are looking forward to future "
 "collaboration with the QGIS community and our commercial supporters for the "
 "advancement of the QGIS project."
-msgstr ""
+msgstr "Los errores a menudo se corrigen dentro de las horas o días posteriores a la presentación de informes y los nuevos desarrollos se implementan en un corto período de tiempo. Las nuevas características pueden probarse inmediatamente después del desarrollo y desplegarse para los usuarios siempre que la calidad sea lo suficientemente buena para el usuario final. No hay necesidad de esperar los lanzamientos oficiales de software. Disfrutamos de la libertad de poder influir en el proyecto e instalar el software en tantas computadoras como queramos sin tener que lidiar con la gestión de licencias. Esperamos con interés la futura colaboración con la comunidad QGIS y nuestros seguidores comerciales para el avance del proyecto QGIS."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:52
 msgid "Author"

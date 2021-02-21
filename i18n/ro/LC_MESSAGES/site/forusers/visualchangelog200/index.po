@@ -1,13 +1,13 @@
 # 
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2016
-# Sorin Călinică <scalinica@gmail.com>, 2014-2016,2018
+# Sorin Călinică <scalinica@gmail.com>, 2014-2016,2018,2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-08 11:00+0200\n"
-"PO-Revision-Date: 2018-05-20 20:27+0000\n"
+"PO-Revision-Date: 2020-07-10 08:31+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgstr "Instrumentele de analiză"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:15
 msgid "Feature: Processing Commander"
-msgstr "Caracteristică: Linia comenzilor de procesare"
+msgstr "Funcționalitate: Linia comenzilor de procesare"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:17
 msgid ""
@@ -44,7 +44,7 @@ msgstr "|image1|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:26
 msgid "Feature: Heatmap Plugin Improvements"
-msgstr "Caracteristică:  Îmbunătățiri aduse Plugin-ului Heatmap"
+msgstr "Funcționalitate:  Îmbunătățiri aduse Plugin-ului Heatmap"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:28
 msgid ""
@@ -59,7 +59,7 @@ msgstr "|image2|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:35
 msgid "Feature: Processing Support"
-msgstr "Caracteristică: Suport pentru Processing"
+msgstr "Funcționalitate: Suport pentru Processing"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:37
 msgid ""
@@ -78,7 +78,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:48
 msgid "Feature: Processing Modeller"
-msgstr "Caracteristică: Modelatorul de Procese"
+msgstr "Funcționalitate: Modelatorul de Procese"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:50
 msgid ""
@@ -100,7 +100,7 @@ msgstr "Opțiunile Aplicației și ale Proiectului"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:63
 msgid "Feature: Define default startup project and project templates"
-msgstr "Caracteristică: Definirea proiectului de pornire implicit și a șabloanelor de proiect"
+msgstr "Funcționalitate: Definirea proiectului de pornire implicit și a șabloanelor de proiect"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:65
 msgid ""
@@ -120,7 +120,7 @@ msgstr "|image5|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:77
 msgid "Feature: System environment variables"
-msgstr "Caracteristică: Variabilele de mediu ale sistemului"
+msgstr "Funcționalitate: Variabilele de mediu ale sistemului"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:79
 msgid ""
@@ -139,7 +139,7 @@ msgstr "|image6|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:90
 msgid "Feature: User-defined zoom scales"
-msgstr "Caracteristică: Scări de mărire definite de utilizator"
+msgstr "Funcționalitate: Scări de mărire definite de utilizator"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:92
 msgid ""
@@ -161,7 +161,7 @@ msgstr "Navigatorul"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:105
 msgid "Feature: Improvements to in-app browser panel"
-msgstr "Caracteristică: Îmbunătățiri aduse panoului navigatorului"
+msgstr "Funcționalitate: Îmbunătățiri aduse panoului navigatorului"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:107
 msgid "Directories can be filtered by wildcard or regex expressions"
@@ -219,7 +219,7 @@ msgstr "Furnizorii de date"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:128
 msgid "Feature: Raster Data Provider overhaul"
-msgstr "Caracteristică: Revizuirea Furnizorului de Date Raster"
+msgstr "Funcționalitate: Revizuirea Furnizorului de Date Raster"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:130
 msgid ""
@@ -238,7 +238,7 @@ msgstr "|image9|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:142
 msgid "Feature: Oracle Spatial support"
-msgstr "Caracteristică: Suport pentru Oracle Spatial"
+msgstr "Funcționalitate: Suport pentru Oracle Spatial"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:144
 msgid "QGIS 2.0 now includes Oracle Spatial support."
@@ -250,7 +250,7 @@ msgstr "|image10|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:149
 msgid "Feature: Web Coverage Service provider added"
-msgstr "Caracteristică: S-a adăugat furnizorul de servicii Web Coverage"
+msgstr "Funcționalitate: S-a adăugat furnizorul de servicii Web Coverage"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:151
 msgid ""
@@ -261,7 +261,7 @@ msgstr "QGIS oferă acum suport nativ pentru straturi Web Coverage Service - pro
 #: ../../source/site/forusers/visualchangelog200/index.rst:155
 #, python-format
 msgid "Feature: Raster 2% cumulative cut by default"
-msgstr "Caracteristică: Reducere cumulativă cu 2% a rasterelor, în mod implicit"
+msgstr "Funcționalitate: Reducere cumulativă cu 2% a rasterelor, în mod implicit"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:157
 msgid ""
@@ -279,7 +279,7 @@ msgstr "|image11|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:168
 msgid "Feature: WMS identify format"
-msgstr "Caracteristică: Format de identificare WMS"
+msgstr "Funcționalitate: Format de identificare WMS"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:170
 msgid ""
@@ -297,7 +297,7 @@ msgstr "|image12|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:181
 msgid "Feature: WMTS Support"
-msgstr "Caracteristică: Suport WMTS"
+msgstr "Funcționalitate: Suport WMTS"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:183
 msgid ""
@@ -317,7 +317,7 @@ msgstr "Generalități"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:194
 msgid "Feature: Quantum GIS is now known only as 'QGIS'"
-msgstr "Caracteristică: Quantum GIS este de acum cunoscut sub numele de 'QGIS'"
+msgstr "Funcționalitate: Quantum GIS este de acum cunoscut sub numele de 'QGIS'"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:196
 msgid ""
@@ -340,7 +340,7 @@ msgstr "Etichetarea"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:210
 msgid "Feature: New labelling system"
-msgstr "Caracteristică: Noul sistem de etichetare"
+msgstr "Funcționalitate: Noul sistem de etichetare"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:212
 msgid ""
@@ -358,7 +358,7 @@ msgstr "|image15|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:222
 msgid "Feature: Expression based label properties"
-msgstr "Caracteristică: Expresii bazate pe proprietățile etichetelor"
+msgstr "Funcționalitate: Expresii bazate pe proprietățile etichetelor"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:224
 msgid ""
@@ -395,7 +395,7 @@ msgstr "|image16|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:240
 msgid "Feature: Older labelling engine deprecated"
-msgstr "Caracteristică: Utilizarea vechiul motor de etichetare este dezaprobată"
+msgstr "Funcționalitate: Utilizarea vechiul motor de etichetare este dezaprobată"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:242
 msgid ""
@@ -434,7 +434,7 @@ msgid ""
 "**NOTE**: There is a *very high likelihood* the deprecated labelling engine "
 "will be completely removed prior to the next stable release of QGIS. Please "
 "migrate older projects."
-msgstr "**NOTĂ**: Există o *probabilitate foarte mare* ca motorul de etichetare dezaprobat să fie complet eliminat, înainte de următoarea versiune stabilă a QGIS. Vă rugăm să migrați vechile proiecte."
+msgstr "**OBSERVAȚIE**: Există o *probabilitate foarte mare* ca motorul de etichetare perimat să fie eliminat complet, înainte de următoarea versiune stabilă a QGIS. Vă rugăm să migrați vechile proiecte."
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:270
 msgid "|image17|"
@@ -446,7 +446,7 @@ msgstr "Legenda Stratului"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:276
 msgid "Feature: Legend visual feedback and options"
-msgstr "Caracteristică: Răspunsul vizual al legendei și opțiunile acesteia"
+msgstr "Funcționalitate: Răspunsul vizual al legendei și opțiunile acesteia"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:278
 msgid "Total count for features in layer, as well as per symbol"
@@ -490,7 +490,7 @@ msgstr "|image18|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:293
 msgid "Feature: Duplicate existing map layer"
-msgstr "Caracteristică: Duplicarea unui strat de hartă existent"
+msgstr "Funcționalitate: Duplicarea unui strat de hartă existent"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:295
 msgid ""
@@ -505,7 +505,7 @@ msgstr "|image19|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:302
 msgid "Feature: Multi-layer toggle editing commands"
-msgstr "Caracteristică: Comenzi de editare pentru multi-straturi"
+msgstr "Funcționalitate: Comenzi de editare pentru multi-straturi"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:304
 msgid ""
@@ -525,7 +525,7 @@ msgstr "Compozitorul de Hărți"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:315
 msgid "Feature: HTML Map Items"
-msgstr "Caracteristică: Elemente HTML pentru hărți "
+msgstr "Funcționalitate: Elemente HTML pentru hărți "
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:317
 msgid "You can now place html elements onto your map."
@@ -537,7 +537,7 @@ msgstr "|image21|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:322
 msgid "Feature: Multipage support"
-msgstr "Caracteristică: Suport pentru pagini multiple"
+msgstr "Funcționalitate: Suport pentru pagini multiple"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:324
 msgid "A single composer window can now contain more then one page."
@@ -549,7 +549,7 @@ msgstr "|image22|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:329
 msgid "Feature: Expressions in composer labels"
-msgstr "Caracteristică: Expresii în etichetele compozitorului"
+msgstr "Funcționalitate: Expresii în etichetele compozitorului"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:331
 msgid ""
@@ -578,7 +578,7 @@ msgstr "|image23|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:358
 msgid "Feature: Auto snap lines"
-msgstr "Caracteristică: Traiectorii pentru auto-aliniere"
+msgstr "Funcționalitate: Traiectorii pentru auto-aliniere"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:360
 msgid ""
@@ -593,7 +593,7 @@ msgstr "|image24|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:367
 msgid "Feature: Manual Snap Lines"
-msgstr "Caracteristică: Traiectorii pentru aliniere, adăugate manual"
+msgstr "Funcționalitate: Traiectorii pentru aliniere, adăugate manual"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:369
 msgid ""
@@ -609,7 +609,7 @@ msgstr "|image25|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:377
 msgid "Feature: Map series generation"
-msgstr "Caracteristică: Generarea seriilor de hărți"
+msgstr "Funcționalitate: Generarea seriilor de hărți"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:379
 msgid ""
@@ -625,7 +625,7 @@ msgstr "|image26|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:387
 msgid "Feature: Automatic overview support in map frame"
-msgstr "Caracteristică: Suport pentru previzualizarea automată în cadrul hărții"
+msgstr "Funcționalitate: Suport pentru previzualizarea automată în cadrul hărții"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:389
 msgid ""
@@ -643,7 +643,7 @@ msgstr "|image27|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:399
 msgid "Feature: Layer blending"
-msgstr "Caracteristică: Amestecarea straturilor"
+msgstr "Funcționalitate: Amestecarea straturilor"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:401
 msgid ""
@@ -667,7 +667,7 @@ msgstr "|image28|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:415
 msgid "Feature: HTML Label support"
-msgstr "Caracteristică: Suport pentru etichete HTML"
+msgstr "Funcționalitate: Suport pentru etichete HTML"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:417
 msgid ""
@@ -682,7 +682,7 @@ msgstr "|image29|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:424
 msgid "Feature: Multicolumn composer legend"
-msgstr "Caracteristică: Legendă multicoloană, în compozitor"
+msgstr "Funcționalitate: Legendă multicoloană, în compozitor"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:426
 msgid ""
@@ -702,7 +702,7 @@ msgstr "|image30|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:439
 msgid "Feature: Updates to map composer management"
-msgstr "Caracteristică: Gestionare mai bună a hărților din compozitor"
+msgstr "Funcționalitate: Gestionare mai bună a hărților din compozitor"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:441
 msgid "The following improvements have been made to map composer management:"
@@ -744,7 +744,7 @@ msgstr "Plugin-urile"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:458
 msgid "Feature: Revamped plugin manager"
-msgstr "Caracteristică: Manager de plugin-uri revitalizat"
+msgstr "Funcționalitate: Manager de plugin-uri revitalizat"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:460
 msgid ""
@@ -782,7 +782,7 @@ msgstr "|image33|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:484
 msgid "Feature: Even more expression functions"
-msgstr "Caracteristică: Mult mai multe funcții, în cadrul expresiilor"
+msgstr "Funcționalitate: Mult mai multe funcții, în cadrul expresiilor"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:486
 msgid ""
@@ -799,7 +799,7 @@ msgstr "|image34|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:495
 msgid "Feature: Custom expression functions"
-msgstr "Caracteristică: Expresii cu funcții personalizate"
+msgstr "Funcționalitate: Expresii cu funcții personalizate"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:497
 msgid ""
@@ -813,7 +813,7 @@ msgstr "|image35|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:504
 msgid "Feature: New cleaner Python API"
-msgstr "Caracteristică: Un nou API Python, mai clar"
+msgstr "Funcționalitate: Un nou API Python, mai clar"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:506
 msgid ""
@@ -837,7 +837,7 @@ msgstr "|image36|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:530
 msgid "Feature: Code compatibility with version 1.x releases"
-msgstr "Caracteristică: Un cod compatibil cu cel al versiunilor 1.x"
+msgstr "Funcționalitate: Un cod compatibil cu cel al versiunilor 1.x"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:532
 msgid ""
@@ -855,7 +855,7 @@ msgstr "|image37|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:542
 msgid "Feature: Python project macros"
-msgstr "Caracteristică: Proiecte macro, în Python"
+msgstr "Funcționalitate: Proiecte macro, în Python"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:544
 msgid ""
@@ -890,7 +890,7 @@ msgstr "Simbologia"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:559
 msgid "Feature: Data defined properties"
-msgstr "Caracteristică: Proprietăți definite cu ajutorul datelor"
+msgstr "Funcționalitate: Proprietăți definite cu ajutorul datelor"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:561
 msgid ""
@@ -905,7 +905,7 @@ msgstr "|image39|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:568
 msgid "Feature: Improved symbol layer management"
-msgstr "Caracteristică: Management îmbunătățit pentru straturile simbolurilor"
+msgstr "Funcționalitate: Management îmbunătățit pentru straturile simbolurilor"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:570
 msgid ""
@@ -919,7 +919,7 @@ msgstr "|image40|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:576
 msgid "Feature: Support for transparency in colour definitions"
-msgstr "Caracteristică: Suport pentru transparență, în cadrul definițiilor de culoare"
+msgstr "Funcționalitate: Suport pentru transparență, în cadrul definițiilor de culoare"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:578
 msgid ""
@@ -935,7 +935,7 @@ msgstr "|image41|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:586
 msgid "Feature: Color Control for Raster Layers"
-msgstr "Caracteristică: Controlul culorii, în cazul straturilor raster"
+msgstr "Funcționalitate: Controlul culorii, în cazul straturilor raster"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:588
 msgid ""
@@ -951,7 +951,7 @@ msgstr "|image42|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:596
 msgid "Feature: Copy symbology between layers"
-msgstr "Caracteristică: Copiere simbologie între straturi"
+msgstr "Funcționalitate: Copiere simbologie între straturi"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:598
 msgid ""
@@ -967,7 +967,7 @@ msgstr "|image43|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:607
 msgid "Feature: Save styles in your database"
-msgstr "Caracteristică: Salvarea stilurilor în baza de date"
+msgstr "Funcționalitate: Salvarea stilurilor în baza de date"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:609
 msgid ""
@@ -982,7 +982,7 @@ msgstr "|image44|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:616
 msgid "Feature: Colour ramp support"
-msgstr "Caracteristică: Suport pentru gamele de culori"
+msgstr "Funcționalitate: Suport pentru gamele de culori"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:618
 msgid ""
@@ -999,7 +999,7 @@ msgstr "|image45|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:628
 msgid "Feature: Set custom default styles for all layer types"
-msgstr "Caracteristică: Setarea stilurilor implicite, personalizate, pentru toate tipurile de straturi"
+msgstr "Funcționalitate: Setarea stilurilor implicite, personalizate, pentru toate tipurile de straturi"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:630
 msgid ""
@@ -1019,7 +1019,7 @@ msgstr "Interfața cu Utilizatorul"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:641
 msgid "Feature: New icon theme"
-msgstr "Caracteristică: O nouă temă pentru pictograme"
+msgstr "Funcționalitate: O nouă temă pentru pictograme"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:643
 msgid ""
@@ -1034,7 +1034,7 @@ msgstr "|image47|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:650
 msgid "Feature: Side tabs, collapsable groups"
-msgstr "Caracteristică: File laterale, grupuri retractabile"
+msgstr "Funcționalitate: File laterale, grupuri retractabile"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:652
 msgid ""
@@ -1049,7 +1049,7 @@ msgstr "|image48|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:659
 msgid "Feature: Soft notifications"
-msgstr "Caracteristică: Notificări discrete"
+msgstr "Funcționalitate: Notificări discrete"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:661
 msgid ""
@@ -1067,7 +1067,7 @@ msgstr "|image49|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:671
 msgid "Feature: Application custom font and Qt stylesheet"
-msgstr "Caracteristică: Font personalizat pentru aplicație și foaie de stil Qt: "
+msgstr "Funcționalitate: Font personalizat pentru aplicație și foaie de stil Qt: "
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:673
 msgid ""
@@ -1090,7 +1090,7 @@ msgstr "|image50|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:689
 msgid "Feature: Live color chooser dialogs and buttons"
-msgstr "Caracteristică: Butoane și ferestre de alegere live a culorii"
+msgstr "Funcționalitate: Butoane și ferestre de alegere live a culorii"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:691
 msgid ""
@@ -1109,7 +1109,7 @@ msgstr "|image51|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:703
 msgid "Feature: SVG Annotations"
-msgstr "Caracteristică: Adnotări SVG"
+msgstr "Funcționalitate: Adnotări SVG"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:705
 msgid ""
@@ -1123,7 +1123,7 @@ msgstr "|image52|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:712
 msgid "Feature: Drag and drop form builder"
-msgstr "Caracteristică: Drag and drop în constructorul de formulare"
+msgstr "Funcționalitate: Drag and drop în constructorul de formulare"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:714
 msgid ""
@@ -1139,7 +1139,7 @@ msgstr "|image53|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:722
 msgid "Feature: Default action tool"
-msgstr "Caracteristică: Instrument de acțiuni implicite"
+msgstr "Funcționalitate: Instrument de acțiuni implicite"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:724
 msgid ""

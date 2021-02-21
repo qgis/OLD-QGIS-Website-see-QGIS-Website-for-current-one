@@ -1,6 +1,6 @@
 # 
 # Translators:
-# Dick Groskamp, 2014-2018
+# DiGro, 2014-2019
 # Diethard Jansen <diethard.jansen@gmail.com>, 2013-2014
 # Raymond Nijssen <r.nijssen@terglobo.nl>, 2014
 # Vincent <vincent@stedema.nl>, 2013
@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 16:17+0200\n"
-"PO-Revision-Date: 2018-05-21 12:25+0000\n"
-"Last-Translator: Dick Groskamp\n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"PO-Revision-Date: 2019-07-18 09:41+0000\n"
+"Last-Translator: DiGro\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -78,7 +78,7 @@ msgstr "Vertaling GUI"
 #: ../../source/site/getinvolved/translate.rst:44
 msgid ""
 "The QGIS interface is natively programmed in English. However, at this "
-"moment over fourthy other languages are already available."
+"moment over forty other languages are already available."
 msgstr "De interface van QGIS wordt geprogrammeerd in het Engels. Op dit moment zijn echter al meer dan veertig andere talen beschikbaar."
 
 #: ../../source/site/getinvolved/translate.rst:47
@@ -189,8 +189,8 @@ msgstr "Klik op uw pagina Dashboard op “Join an existing organisation” en zo
 #: ../../source/site/getinvolved/translate.rst:107
 msgid ""
 "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
-"Desktop, QGIS Browser and QGIS Server),"
-msgstr "**QGIS Desktop** voor alle beschikbare stukken tekst in toepassingen van QGIS (QGIS Desktop, QGIS Browser en QGIS Server),"
+"Desktop and QGIS Server),"
+msgstr "**QGIS Desktop** voor alle beschikbare stukken tekst in toepassingen van QGIS (QGIS Desktop en QGIS Server),"
 
 #: ../../source/site/getinvolved/translate.rst:109
 msgid ""
@@ -542,4 +542,14 @@ msgstr "Als u een foute of ontbrekende vertaling in de huidige documentatie of w
 #~ "To start QGIS with the appropriate localization, run ``qgis --lang <language"
 #~ " code>`` in command line or change localization in QGIS under "
 #~ ":menuselection:`Settings --> Options --> Locale` menu."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The QGIS interface is natively programmed in English. However, at this "
+#~ "moment over fourthy other languages are already available."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
+#~ "Desktop, QGIS Browser and QGIS Server),"
 #~ msgstr ""

@@ -10,9 +10,10 @@
 # Jürgen E. Fischer <jef@norbit.de>, 2020
 # Francis Gasc <francisgasc@gmail.com>, 2020
 # Corentin LEMAITRE <corentinlemaitre@gmail.com>, 2020
-# Sant-anna <delazj@gmail.com>, 2020
 # Marina Frémondière <fremondiere.marina@outlook.fr>, 2020
 # MarieSilvestre, 2020
+# Vincent Bré <vincent.bre@outlook.fr>, 2020
+# Harrissou Sant-anna, 2020
 # 
 #, fuzzy
 msgid ""
@@ -21,7 +22,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-12 16:20+0200\n"
 "PO-Revision-Date: 2019-03-13 19:43+0000\n"
-"Last-Translator: MarieSilvestre, 2020\n"
+"Last-Translator: Harrissou Sant-anna, 2020\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -744,7 +745,7 @@ msgid ""
 msgstr ""
 "Cela permet de créer des symboles de remplissage dont l'apparence est "
 "cohérente, quel que soit l'ensemble de données rendues et l'orientation de "
-"l'anneau des différentes caractéristiques."
+"l'anneau des différentes entités."
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:208
 #: ../../source/site/forusers/visualchangelog36/index.rst:217
@@ -979,7 +980,7 @@ msgstr "Numérisation"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:303
 msgid "Feature: Georeferencer enhancements"
-msgstr ""
+msgstr "Fonctionnalité: amélioration du géoréférencement"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:305
 msgid "add dX, dY and residual on GCP Points"
@@ -3800,7 +3801,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1299
 msgid "Feature: Bug fixes by Julien Cabieces"
-msgstr ""
+msgstr "Fonctionnalité : correction de bug par Julien Cabieces"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1304
 msgid "QGis 3.4 reproducible crash while in idle state"
@@ -4041,7 +4042,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1356
 msgid "Error in Processing modeller"
-msgstr ""
+msgstr "Erreur dans le modeleur de traitement"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1356
 msgid "`#20609 <https://issues.qgis.org/issues/20609>`__"
@@ -4218,7 +4219,7 @@ msgstr "`PR #9113 <https://github.com/qgis/QGIS/pull/9113>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1391
 msgid "KML loading bug"
-msgstr ""
+msgstr "Bug de chargement du KML"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1391
 msgid "`#20173 <https://issues.qgis.org/issues/20173>`__"
@@ -4285,7 +4286,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1403
 msgid "Feature: Bug fixes by Martin Dobias"
-msgstr ""
+msgstr "Fonctionnalité : correction de bugs par Martin Dobias"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1408
 msgid "[vertex tool] Fix issue with hidden layers being editable"
@@ -4415,7 +4416,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1430
 msgid "Feature: Bug fixes by Nyall Dawson"
-msgstr ""
+msgstr "Fonctionnalité: correction de bugs par Nyall Dawson"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1435
 msgid "[postgis] Fix creation of new Z/M enabled, curved geometry type layers"
@@ -4845,7 +4846,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1481
 msgid "Feature: Bug fixes by Hugo Mercier"
-msgstr ""
+msgstr "Fonctionnalité: correction de bugs par Hugo Mercier"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1486
 msgid "Qgis 3.4.1 crashes when accessing methods of feature"

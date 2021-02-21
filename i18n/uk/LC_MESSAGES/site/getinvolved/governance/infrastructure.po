@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
-"PO-Revision-Date: 2018-05-20 14:24+0000\n"
+"POT-Creation-Date: 2020-07-09 12:40+0200\n"
+"PO-Revision-Date: 2020-07-09 10:49+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: uk\n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
@@ -83,98 +83,123 @@ msgid "http://docs.qgis.org http://new.qgis.org"
 msgstr "http://docs.qgis.org http://new.qgis.org"
 
 #: ../../source/site/getinvolved/governance/infrastructure.rst:32
-msgid "Otto D, Richard D, ..."
-msgstr "Otto D, Richard D, ..."
-
-#: ../../source/site/getinvolved/governance/infrastructure.rst:36
-msgid "Wiki and Redmine"
-msgstr "Wiki та Redmine"
-
-#: ../../source/site/getinvolved/governance/infrastructure.rst:38
-msgid "https://issues.qgis.org/projects/qgis/issues"
+msgid "Harrissou S, Richard D, Matteo G ..."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:39
-msgid "Pirmin K, ?"
-msgstr "Pirmin K, ?"
-
-#: ../../source/site/getinvolved/governance/infrastructure.rst:43
+#: ../../source/site/getinvolved/governance/infrastructure.rst:36
 msgid "Github management"
 msgstr "Управління GitHub"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:45
+#: ../../source/site/getinvolved/governance/infrastructure.rst:38
 msgid "https://github.com/qgis"
 msgstr "https://github.com/qgis"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:46
-msgid "owners: https://github.com/organizations/qgis/teams/24203"
-msgstr "власники: https://github.com/organizations/qgis/teams/24203"
+#: ../../source/site/getinvolved/governance/infrastructure.rst:39
+msgid ""
+"Rights depending on sub project plz contact Marco B, Alessandro P, Tim S, "
+"Richard D"
+msgstr ""
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:47
-msgid "admin: Otto D, Gary S, Marco H, Paolo C, Pirmin K, Tim L, Richard D"
-msgstr "адміністрування: Otto D, Gary S, Marco H, Paolo C, Pirmin K, Tim L, Richard D"
-
-#: ../../source/site/getinvolved/governance/infrastructure.rst:48
-msgid "QGIS push rights depending on sub project plz contact admins"
-msgstr "Право на комміт залежить від підпроекту, будь ласка зв'яжіться з адміністраторами"
-
-#: ../../source/site/getinvolved/governance/infrastructure.rst:52
+#: ../../source/site/getinvolved/governance/infrastructure.rst:43
 msgid "Flickr Groups"
 msgstr "Групи Flickr"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:54
+#: ../../source/site/getinvolved/governance/infrastructure.rst:45
 msgid "groupstarters: Nathan W, Anita G, Matieu"
 msgstr "власники: Nathan W, Anita G, Matieu"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:55
+#: ../../source/site/getinvolved/governance/infrastructure.rst:46
 msgid "screenshots http://www.flickr.com/groups/qgis-screenshots/"
 msgstr "знімки екрану http://www.flickr.com/groups/qgis-screenshots/"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:56
+#: ../../source/site/getinvolved/governance/infrastructure.rst:47
 msgid "maps http://www.flickr.com/groups/qgis/pool/"
 msgstr "карти http://www.flickr.com/groups/qgis/pool/"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:60
+#: ../../source/site/getinvolved/governance/infrastructure.rst:51
 msgid "Twitter"
 msgstr "Twitter"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:62
+#: ../../source/site/getinvolved/governance/infrastructure.rst:53
 msgid "https://twitter.com/qgis"
 msgstr "https://twitter.com/qgis"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:63
-#: ../../source/site/getinvolved/governance/infrastructure.rst:68
+#: ../../source/site/getinvolved/governance/infrastructure.rst:54
+#: ../../source/site/getinvolved/governance/infrastructure.rst:60
 msgid "Nathan W"
 msgstr "Nathan W"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:66
+#: ../../source/site/getinvolved/governance/infrastructure.rst:55
+msgid "Anita G"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/infrastructure.rst:58
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:71
+#: ../../source/site/getinvolved/governance/infrastructure.rst:63
 msgid "Finance"
 msgstr "Фінанси"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:73
-msgid "Paolo C"
-msgstr "Paolo C"
+#: ../../source/site/getinvolved/governance/infrastructure.rst:65
+msgid "Andreas N"
+msgstr ""
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:77
+#: ../../source/site/getinvolved/governance/infrastructure.rst:69
 msgid "IRC"
 msgstr "IRC"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:79
+#: ../../source/site/getinvolved/governance/infrastructure.rst:71
 msgid "Jurgen F"
 msgstr "Jurgen F"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:83
+#: ../../source/site/getinvolved/governance/infrastructure.rst:75
 msgid "Planet feeds"
 msgstr "Стрічки новин Planet"
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:85
-msgid "Gary S"
-msgstr "Gary S"
+#: ../../source/site/getinvolved/governance/infrastructure.rst:77
+msgid "Tim S"
+msgstr ""
 
-#: ../../source/site/getinvolved/governance/infrastructure.rst:87
-msgid "..."
-msgstr "..."
+#: ../../source/site/getinvolved/governance/infrastructure.rst:78
+msgid "Marco B"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/infrastructure.rst:82
+msgid "OLD Wiki and Redmine"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/infrastructure.rst:84
+msgid "https://issues.qgis.org/projects/qgis/issues"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/infrastructure.rst:85
+msgid "Pirmin K, Duivenvoorde R"
+msgstr ""
+
+#~ msgid "Otto D, Richard D, ..."
+#~ msgstr ""
+
+#~ msgid "Wiki and Redmine"
+#~ msgstr ""
+
+#~ msgid "Pirmin K, ?"
+#~ msgstr ""
+
+#~ msgid "owners: https://github.com/organizations/qgis/teams/24203"
+#~ msgstr ""
+
+#~ msgid "admin: Otto D, Gary S, Marco H, Paolo C, Pirmin K, Tim L, Richard D"
+#~ msgstr ""
+
+#~ msgid "QGIS push rights depending on sub project plz contact admins"
+#~ msgstr ""
+
+#~ msgid "Paolo C"
+#~ msgstr ""
+
+#~ msgid "Gary S"
+#~ msgstr ""
+
+#~ msgid "..."
+#~ msgstr ""

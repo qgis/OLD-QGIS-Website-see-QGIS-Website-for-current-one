@@ -1,7 +1,8 @@
 # 
 # Translators:
-# Dick Groskamp, 2014-2018
+# DiGro, 2014-2020
 # Diethard Jansen <diethard.jansen@gmail.com>, 2013-2014
+# DiGro, 2020
 # Raymond Nijssen <r.nijssen@terglobo.nl>, 2013-2014
 # Richard Duivenvoorde <richard@duif.net>, 2014
 # Vincent <vincent@stedema.nl>, 2013
@@ -9,9 +10,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 16:17+0200\n"
-"PO-Revision-Date: 2018-05-21 08:38+0000\n"
-"Last-Translator: Dick Groskamp\n"
+"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"PO-Revision-Date: 2020-10-26 13:03+0000\n"
+"Last-Translator: DiGro\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,56 +21,56 @@ msgstr ""
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../source/site/forusers/alldownloads.rst:5
+#: ../../source/site/forusers/alldownloads.rst:7
 msgid "QGIS Installers"
 msgstr "QGIS Installatiepakketten"
 
-#: ../../source/site/forusers/alldownloads.rst:7
+#: ../../source/site/forusers/alldownloads.rst:9
 msgid "How to obtain QGIS?"
 msgstr "Hoe verkrijg je QGIS?"
 
-#: ../../source/site/forusers/alldownloads.rst:9
+#: ../../source/site/forusers/alldownloads.rst:11
 msgid "QGIS is freely available on Windows, Linux, MacOS X, BSD, and Android."
 msgstr "QGIS is gratis beschikbaar voor Windows, Linux, MacOS X, BSD en Android."
 
-#: ../../source/site/forusers/alldownloads.rst:11
+#: ../../source/site/forusers/alldownloads.rst:13
 msgid "We recommend installing the packages of the released software."
 msgstr "Wij raden aan om de pakketten van de laatste release te installeren."
 
-#: ../../source/site/forusers/alldownloads.rst:13
+#: ../../source/site/forusers/alldownloads.rst:15
 msgid ""
 "To evaluate the upcoming release and to allow non-developers to support "
 "development we also provide testing packages (note the warning_)."
 msgstr "We verschaffen ook testpakketten (let op de warning_) om de aanstaande uitgaven te evalueren en het voor niet-ontwikkelaars mogelijk te maken de ontwikkeling te ondersteunen."
 
-#: ../../source/site/forusers/alldownloads.rst:17
+#: ../../source/site/forusers/alldownloads.rst:19
 msgid ""
 "In the feature frozen phase preceding a release (see :ref:`QGIS-release-"
 "schedule`) these packages are effectively **pre-releases, which we strongly "
 "urge users to test**."
-msgstr "In de fase feature frozen voorafgaande aan een uitgave (zie :ref:`QGIS-release-schedule`) zijn deze pakketten in feite **pre-uitgaven, waarvoor we gebruikers sterk adviseren ze te testen**."
+msgstr "In de fase Bevriezing, voorafgaande aan een uitgave (zie :ref:`QGIS-release-schedule`), zijn deze pakketten in feite **pre-uitgaven, waarvoor we gebruikers sterk adviseren ze te testen**."
 
-#: ../../source/site/forusers/alldownloads.rst:24
+#: ../../source/site/forusers/alldownloads.rst:26
 msgid "Windows"
 msgstr "Windows"
 
-#: ../../source/site/forusers/alldownloads.rst:26
+#: ../../source/site/forusers/alldownloads.rst:28
 msgid ""
 "For Windows installers please go to `The main installers page "
 "<./download.html>`_."
 msgstr "Voor Windows installatiepakketten ga naar `De download pagina <./download.html>`_."
 
-#: ../../source/site/forusers/alldownloads.rst:29
+#: ../../source/site/forusers/alldownloads.rst:31
 msgid "For new users we recommend the standalone installers."
 msgstr "Voor nieuwe gebruikers adviseren we het gebruik van de 'Standalone' installatiepakketten."
 
-#: ../../source/site/forusers/alldownloads.rst:31
+#: ../../source/site/forusers/alldownloads.rst:33
 msgid ""
 "For more advanced QGIS users you can use OSGeo4W packages, which make it "
 "possible to install several versions in parallel."
 msgstr "Meer gevorderde QGIS gebruikers kunnen installatiepakketten van OSGeo4W gebruiken, die het mogelijk maken verscheidene versies parallel te installeren."
 
-#: ../../source/site/forusers/alldownloads.rst:34
+#: ../../source/site/forusers/alldownloads.rst:36
 msgid ""
 "The OSGeo4W repository contains a lot of software from OSGeo projects. QGIS "
 "and all dependencies are included, along with Python, GRASS, GDAL, etc. The "
@@ -78,148 +79,139 @@ msgid ""
 "future installations. Steps are:"
 msgstr "De opslagplaats voor OSGeo4W bevat daarnaast veel software van andere OSGeo-projecten. QGIS en alle daarvoor noodzakelijke pakketten zijn aanwezig, naast Python, GRASS, GDAL enzovoort. Het installatiepakket geeft de mogelijkheid om direct vanaf internet te installeren of eerst de benodigde pakketten te downloaden en daarna te installeren. De gedownloade bestanden worden in een lokale map geplaatst voor toekomstige installaties. De stappen zijn::"
 
-#: ../../source/site/forusers/alldownloads.rst:41
-msgid ""
-"Download OSGeo4W Installer (`32 bit <http://download.osgeo.org/osgeo4w"
-"/osgeo4w-setup-x86.exe>`_ or `64 bit <http://download.osgeo.org/osgeo4w"
-"/osgeo4w-setup-x86_64.exe>`_) and start it"
-msgstr "Download OSGeo4W Installer (`32 bit <http://download.osgeo.org/osgeo4w/osgeo4w-setup-x86.exe>`_ of `64 bit <http://download.osgeo.org/osgeo4w/osgeo4w-setup-x86_64.exe>`_) en start het"
-
 #: ../../source/site/forusers/alldownloads.rst:43
+msgid ""
+"Download OSGeo4W Installer (`32 bit <https://download.osgeo.org/osgeo4w"
+"/osgeo4w-setup-x86.exe>`_ or `64 bit <https://download.osgeo.org/osgeo4w"
+"/osgeo4w-setup-x86_64.exe>`_) and start it"
+msgstr "Download OSGeo4W Installer (`32 bit <https://download.osgeo.org/osgeo4w/osgeo4w-setup-x86.exe>`_ of `64 bit <https://download.osgeo.org/osgeo4w/osgeo4w-setup-x86_64.exe>`_) en start het"
+
+#: ../../source/site/forusers/alldownloads.rst:45
 msgid "Select *Advanced Install*,"
 msgstr "Selecteer *Advanced Install*,"
 
-#: ../../source/site/forusers/alldownloads.rst:44
+#: ../../source/site/forusers/alldownloads.rst:46
 msgid "navigate to the *Desktop* section"
 msgstr "navigeer naar het gedeelte *Desktop*"
 
-#: ../../source/site/forusers/alldownloads.rst:45
+#: ../../source/site/forusers/alldownloads.rst:47
 msgid "and pick one or more of the following packages:"
 msgstr "en selecteer één of meer van de volgende paketten:"
 
-#: ../../source/site/forusers/alldownloads.rst:48
 #: ../../source/site/forusers/alldownloads.rst:50
-#: ../../source/site/forusers/alldownloads.rst:54
-#: ../../source/site/forusers/alldownloads.rst:142
+#: ../../source/site/forusers/alldownloads.rst:52
+#: ../../source/site/forusers/alldownloads.rst:56
+#: ../../source/site/forusers/alldownloads.rst:182
 msgid "Release"
 msgstr "Uitgave"
 
-#: ../../source/site/forusers/alldownloads.rst:48
-#: ../../source/site/forusers/alldownloads.rst:142
-#: ../../source/site/forusers/alldownloads.rst:189
+#: ../../source/site/forusers/alldownloads.rst:50
+#: ../../source/site/forusers/alldownloads.rst:182
+#: ../../source/site/forusers/alldownloads.rst:237
+#: ../../source/site/forusers/alldownloads.rst:333
+#: ../../source/site/forusers/alldownloads.rst:363
 msgid "Version"
 msgstr "Versie"
 
-#: ../../source/site/forusers/alldownloads.rst:48
+#: ../../source/site/forusers/alldownloads.rst:50
 msgid "Package"
 msgstr "Pakket"
 
-#: ../../source/site/forusers/alldownloads.rst:48
-#: ../../source/site/forusers/alldownloads.rst:142
+#: ../../source/site/forusers/alldownloads.rst:50
+#: ../../source/site/forusers/alldownloads.rst:182
 msgid "Description"
 msgstr "Omschrijving"
 
-#: ../../source/site/forusers/alldownloads.rst:50
-#: ../../source/site/forusers/alldownloads.rst:144
+#: ../../source/site/forusers/alldownloads.rst:52
+#: ../../source/site/forusers/alldownloads.rst:184
 msgid "Latest Release"
 msgstr "Laatste uitgave"
 
-#: ../../source/site/forusers/alldownloads.rst:50
-#: ../../source/site/forusers/alldownloads.rst:144
+#: ../../source/site/forusers/alldownloads.rst:52
+#: ../../source/site/forusers/alldownloads.rst:184
 msgid "|version|.x |codename| |releasenote|"
 msgstr "|version|.x |codename| |releasenote|"
 
-#: ../../source/site/forusers/alldownloads.rst:50
+#: ../../source/site/forusers/alldownloads.rst:52
 msgid "qgis"
 msgstr "qgis"
 
-#: ../../source/site/forusers/alldownloads.rst:52
-msgid "qgis-rel-dev [1]_"
-msgstr "qgis-rel-dev [1]_"
+#: ../../source/site/forusers/alldownloads.rst:54
+msgid "qgis-rel-dev [1]_ [4]_"
+msgstr "qgis-rel-dev [1]_ [4]_"
 
-#: ../../source/site/forusers/alldownloads.rst:52
+#: ../../source/site/forusers/alldownloads.rst:54
 msgid "Nightly build of the upcoming point release"
 msgstr "Nachtelijke bouw van de komende uitgave"
 
-#: ../../source/site/forusers/alldownloads.rst:54
-#: ../../source/site/forusers/alldownloads.rst:159
+#: ../../source/site/forusers/alldownloads.rst:56
+#: ../../source/site/forusers/alldownloads.rst:201
 msgid "Long Term Release Repository"
 msgstr "Opslagplaats Lange termijn-uitgave"
 
-#: ../../source/site/forusers/alldownloads.rst:54
-#: ../../source/site/forusers/alldownloads.rst:159
+#: ../../source/site/forusers/alldownloads.rst:56
+#: ../../source/site/forusers/alldownloads.rst:201
 msgid "|ltrversion|.x |ltrcodename| |ltrnote|"
 msgstr "|ltrversion|.x |ltrcodename| |ltrnote|"
 
-#: ../../source/site/forusers/alldownloads.rst:54
+#: ../../source/site/forusers/alldownloads.rst:56
 msgid "qgis-ltr"
 msgstr "qgis-ltr"
 
-#: ../../source/site/forusers/alldownloads.rst:56
-msgid "qgis-ltr-dev [2]_"
-msgstr "qgis-ltr-dev [2]_"
+#: ../../source/site/forusers/alldownloads.rst:58
+msgid "qgis-ltr-dev [2]_ [4]_"
+msgstr "qgis-ltr-dev [2]_ [4]_"
 
-#: ../../source/site/forusers/alldownloads.rst:56
+#: ../../source/site/forusers/alldownloads.rst:58
 msgid "Nightly build of the upcoming point long term release"
 msgstr "Nachtelijke bouw van de komende Long Term Release"
 
-#: ../../source/site/forusers/alldownloads.rst:58
+#: ../../source/site/forusers/alldownloads.rst:60
 msgid "Development"
 msgstr "Ontwikkeling"
 
-#: ../../source/site/forusers/alldownloads.rst:58
-#: ../../source/site/forusers/alldownloads.rst:174
+#: ../../source/site/forusers/alldownloads.rst:60
+#: ../../source/site/forusers/alldownloads.rst:218
 msgid "|devversion| master"
-msgstr "|devversie| master"
+msgstr "|devversion| master"
 
-#: ../../source/site/forusers/alldownloads.rst:58
-msgid "qgis-dev [3]_"
-msgstr "qgis-dev [3]_"
+#: ../../source/site/forusers/alldownloads.rst:60
+msgid "qgis-dev [3]_ [4]_"
+msgstr "qgis-dev [3]_ [4]_"
 
-#: ../../source/site/forusers/alldownloads.rst:58
+#: ../../source/site/forusers/alldownloads.rst:60
 msgid "Nightly build of the development version"
 msgstr "Nachtelijke bouw van de ontwikkelversie"
 
-#: ../../source/site/forusers/alldownloads.rst:61
+#: ../../source/site/forusers/alldownloads.rst:63
 msgid ""
-"Latest release nightlies SHA: `32 bit "
-"<http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-rel-"
-"dev/LATEST.sha>`__, `64 bit "
-"<http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-ltr-"
-"dev/LATEST.sha>`__"
-msgstr "Laatste uitgave nightlies SHA: `32 bit <http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-rel-dev/LATEST.sha>`__, `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-ltr-dev/LATEST.sha>`__"
+"Latest release nightlies SHA: 32 bit :raw-html:`<span id=\"qgis-rel-"
+"dev-x86\"> </span>`, 64 bit :raw-html:`<span id=\"qgis-rel-dev-x86_64\"> "
+"</span>`"
+msgstr "Laatste uitgave nightlies SHA: 32 bit :raw-html:`<span id=\"qgis-rel-dev-x86\"> </span>`, 64 bit :raw-html:`<span id=\"qgis-rel-dev-x86_64\"> </span>`"
 
 #: ../../source/site/forusers/alldownloads.rst:64
 msgid ""
-"Latest long-term release nightlies SHA: `32 bit "
-"<http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-ltr-"
-"dev/LATEST.sha>`__, `64 bit "
-"<http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-ltr-"
-"dev/LATEST.sha>`__"
-msgstr "Laatste lange termijn-uitgave nightlies SHA: `32 bit <http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-ltr-dev/LATEST.sha>`__, `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-ltr-dev/LATEST.sha>`__"
+"Latest long-term release nightlies SHA: 32 bit :raw-html:`<span id=\"qgis-"
+"ltr-dev-x86\"> </span>`, 64 bit :raw-html:`<span id=\"qgis-ltr-dev-x86_64\">"
+" </span>`"
+msgstr "Laatste lange-termijn uitgave nightlies SHA: 32 bit :raw-html:`<span id=\"qgis-ltr-dev-x86\"> </span>`, 64 bit :raw-html:`<span id=\"qgis-ltr-dev-x86_64\"> </span>`"
 
-#: ../../source/site/forusers/alldownloads.rst:67
+#: ../../source/site/forusers/alldownloads.rst:65
 msgid ""
-"Master nightlies SHA: `32 bit "
-"<http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-dev/LATEST.sha>`__,"
-" `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-"
-"dev/LATEST.sha>`__"
-msgstr "Master nightlies SHA: `32 bit <http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-dev/LATEST.sha>`__, `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-dev/LATEST.sha>`__"
+"Master nightlies SHA: 32 bit :raw-html:`<span id=\"qgis-dev-x86\"> </span>`,"
+" 64 bit :raw-html:`<span id=\"qgis-dev-x86_64\"> </span>`"
+msgstr "Master nightlies SHA: 32 bit :raw-html:`<span id=\"qgis-dev-x86\"> </span>`, 64 bit :raw-html:`<span id=\"qgis-dev-x86_64\"> </span>`"
 
-#: ../../source/site/forusers/alldownloads.rst:73
-msgid ""
-"For users that cannot use OSGeo4W for some reason or just prefer it there is"
-" also a `weekly snapshot <https://qgis.org/downloads/weekly/?C=M;O=D>`_ of "
-"qgis-dev from OSGeo4W as *standalone installer* (taken on monday).  In the "
-"feature freeze phase that also acts as **release candidate**."
-msgstr "Voor gebruikers die om een of andere reden OSGeo4W niet kunnen gebruiken of daar een voorkeur voor hebben is er ook een `wekelijks snapshot <https://qgis.org/downloads/weekly/?C=M;O=D>`_ van qgis-dev vanaf OSGeo4W als *standalone installer* (op maandag gemaakt).  In de fase feature freeze treedt die ook op als **uitgave kandidaat**."
+#: ../../source/site/forusers/alldownloads.rst:66
+msgid "Nightlies are debug builds (including debugging output)"
+msgstr "Nachtelijke zijn bouwsels voor debuggen (inclusief de uitvoer voor debuggen)"
+
+#: ../../source/site/forusers/alldownloads.rst:76
+msgid "Note the warning_."
+msgstr "Let op de warning_."
 
 #: ../../source/site/forusers/alldownloads.rst:78
-#: ../../source/site/forusers/alldownloads.rst:422
-msgid "Note the warning_."
-msgstr "Note the warning_."
-
-#: ../../source/site/forusers/alldownloads.rst:80
 msgid ""
 "Don't blindly do a full install of OSGeo4W. Only install QGIS and maybe "
 "other components you like.  Dependencies will be included automatically.  A "
@@ -228,11 +220,11 @@ msgid ""
 "unusable without those additions."
 msgstr "Doe niet blindelings een volledige installatie van OSGeo4W. Installeer alleen QGIS en misschien enkele andere componenten die u wilt.  Afhankelijke delen worden automatisch opgenomen.  Een volledige installatie trekt componenten mee die aanvullingen van derde partijen vereisen, die handmatig moeten worden geïnstalleerd.  Deze componenten maken de installatie zonder deze aanvullingen onbruikbaar."
 
-#: ../../source/site/forusers/alldownloads.rst:87
+#: ../../source/site/forusers/alldownloads.rst:85
 msgid "Linux"
 msgstr "Linux"
 
-#: ../../source/site/forusers/alldownloads.rst:89
+#: ../../source/site/forusers/alldownloads.rst:87
 msgid ""
 "Most linux distributions split QGIS into several packages; you'll probably "
 "need qgis and qgis-python (to run plugins). Packages like qgis-grass (or "
@@ -240,519 +232,729 @@ msgid ""
 "when you need them."
 msgstr "De meeste Linuxdistributies splitsen QGIS in verschillende installatiepakketten; meestal heb je qgis en qgis-python (voor plug-ins) nodig. Installatiepakketten zoals qgis-grass (of qgis-plugin-grass), qgis-mapserver zijn in eerste instantie niet nodig.  Installeer deze wanneer u deze nodig hebt. "
 
-#: ../../source/site/forusers/alldownloads.rst:94
+#: ../../source/site/forusers/alldownloads.rst:92
 msgid ""
 "Below you find instructions to install per distribution.  For most distro's "
 "there are instructions to install QGIS stable and instructions to install a "
 "cutting edge QGIS testing build (note the warning_)."
 msgstr "Hieronder vindt u instructies voor de installatie per distributie.  Voor de meeste distro's zijn er instructies om QGIS stabiel te installeren en instructies om een allernieuwste QGIS testversie te installeren (note the warning_)."
 
-#: ../../source/site/forusers/alldownloads.rst:100
+#: ../../source/site/forusers/alldownloads.rst:98
 msgid "Debian/Ubuntu"
 msgstr "Debian/Ubuntu"
 
-#: ../../source/site/forusers/alldownloads.rst:102
+#: ../../source/site/forusers/alldownloads.rst:101
+msgid "Quickstart"
+msgstr "Snel starten"
+
+#: ../../source/site/forusers/alldownloads.rst:106
+msgid ""
+"Here you will simply install the latest stable QGIS (|version|.x |codename|)"
+" in your Debian or Ubuntu without having to edit config files."
+msgstr "Hier u zult u eenvoudigweg de laatste stabiele versie van QGIS (|version|.x |codename|) in uw Debian of Ubuntu installeren, zonder config-bestanden te moeten bewerken."
+
+#: ../../source/site/forusers/alldownloads.rst:109
+msgid ""
+"Although you see 'Debian' in some places, this also works for 'Ubuntu', as "
+"one is actually a symlink to the other on our server."
+msgstr "Hoewel u op enkele plaatsen 'Debian' zult zien staan, werkt dit ook voor 'Ubuntu', omdat de ene in feite een symlink is naar de andere op uw server."
+
+#: ../../source/site/forusers/alldownloads.rst:112
+msgid "First install some tools you will need for this instructions::"
+msgstr "Installeer eerst enkele gereedschappen die nodig zijn voor deze instructies::"
+
+#: ../../source/site/forusers/alldownloads.rst:116
+msgid ""
+"Now install the QGIS Signing Key, so QGIS software from the QGIS repo will "
+"be trusted and installed::"
+msgstr "Installeer nu de QGIS Signing Key, zodat de software van QGIS vanuit de opslagplaats van QGIS zal worden vertrouwd en geïnstalleerd::"
+
+#: ../../source/site/forusers/alldownloads.rst:122
+msgid "Add the QGIS repo for the latest stable QGIS (|version|.x |codename|)."
+msgstr "Voeg de opslagplaats voor QGIS voor de laatste stabiele versie van QGIS (|version|.x |codename|) toe."
+
+#: ../../source/site/forusers/alldownloads.rst:124
+msgid "Note: \"lsb_release -c -s\" in those lines will return your distro name::"
+msgstr "Opmerking: \"lsb_release -c -s\" in deze regels zullen de naam van uw distributie teruggeven::"
+
+#: ../../source/site/forusers/alldownloads.rst:128
+msgid ""
+"Update your repository information to reflect also the just added QGIS one::"
+msgstr "Werk de informatie voor uw opslagplaats bij om ook de zojuist toegevoegde van QGIS weer te geven::"
+
+#: ../../source/site/forusers/alldownloads.rst:132
+msgid "Now, install QGIS::"
+msgstr "Nu, installeer QGIS::"
+
+#: ../../source/site/forusers/alldownloads.rst:136
+msgid "Add 'qgis-server' to this line if you also want to install QGIS Server"
+msgstr "Voeg 'qgis-server' toe aan deze regel als u ook QGIS Server wilt installeren"
+
+#: ../../source/site/forusers/alldownloads.rst:140
+msgid "Repositories"
+msgstr "Repositories"
+
+#: ../../source/site/forusers/alldownloads.rst:142
 msgid ""
 "Default Debian and Ubuntu software repositories often hold older versions of"
 " QGIS."
-msgstr "Standaard repositories voor software van Debian en Ubuntu software bevatten vaak oudere versies van QGIS."
+msgstr "Standaard opslagplaatsen voor software van Debian en Ubuntu bevatten vaak oudere versies van QGIS."
 
-#: ../../source/site/forusers/alldownloads.rst:105
+#: ../../source/site/forusers/alldownloads.rst:145
 msgid ""
 "To have newer versions, you have to add alternative software repositories, "
 "by adding one of the deb-lines below to your /etc/apt/sources.list file."
-msgstr "U moet eerst alternatieve software repositories toevoegen, door enkele regels onderaan uw bestand  /etc/apt/sources.list toe te voegen, om de nieuwere versies te verkrijgen."
+msgstr "U moet eerst alternatieve opslagplaatsen voor software toevoegen, door enkele regels onderaan uw bestand  /etc/apt/sources.list toe te voegen, om de nieuwere versies te verkrijgen."
 
-#: ../../source/site/forusers/alldownloads.rst:108
+#: ../../source/site/forusers/alldownloads.rst:148
 msgid ""
 "Our main repository contains multiple lines of packages for several versions"
 " of **Debian and Ubuntu** based on the dependencies the individual "
 "distributions provide."
 msgstr "Onze hoofdopslagplaats bevat meerdere regels met pakketten voor verscheidene versies van **Debian en Ubuntu**, gebaseerd op de afhankelijkheden die de afzonderlijke distributies bieden."
 
-#: ../../source/site/forusers/alldownloads.rst:112
+#: ../../source/site/forusers/alldownloads.rst:152
 msgid ""
-"For Ubuntu we also have extra packages in a separate repository that are "
-"based on `ubuntugis <https://launchpad.net/~ubuntugis>`_, which holds more "
-"uptodate versions of other GIS packages than Ubuntu itself. If you want "
-"those you also need to include ubuntugis ppa in your /etc/apt/sources.list "
-"file (see `ubuntugis documentation "
+"For Ubuntu we also used to have extra packages in a separate repository that"
+" are based on `ubuntugis <https://launchpad.net/~ubuntugis>`_, which held "
+"more uptodate versions of other GIS packages than Ubuntu itself for LTS "
+"versions. If you want those you also need to include ubuntugis-unstable ppa "
+"in your /etc/apt/sources.list file (see `ubuntugis documentation "
 "<https://trac.osgeo.org/ubuntugis/wiki/UbuntuGISRepository>`_)."
-msgstr "Voor Ubuntu hebben we ook extra pakketten, die zijn gebaseerd op ubuntugis <https://launchpad.net/~ubuntugis>`_, in een afzonderlijke opslagplaats, wat meer recentere versies van andere GIS-pakketten bevat dan Ubuntu zelf. Als u deze wilt dient u ook ubuntugis ppa op te nemen in uw bestand /etc/apt/sources.list (bekijk de `documentatie van ubuntugis <https://trac.osgeo.org/ubuntugis/wiki/UbuntuGISRepository>`_)."
+msgstr "Voor Ubuntu hebben we ook extra pakketten, die zijn gebaseerd op ubuntugis <https://launchpad.net/~ubuntugis>`_, in een afzonderlijke opslagplaats, wat meer recentere versies van andere GIS-pakketten bevat dan Ubuntu zelf voor versies LTS. Als u deze wilt dient u ook ubuntugis-unstable ppa op te nemen in uw bestand /etc/apt/sources.list (bekijk de `documentatie van ubuntugis <https://trac.osgeo.org/ubuntugis/wiki/UbuntuGISRepository>`_)."
 
-#: ../../source/site/forusers/alldownloads.rst:120
+#: ../../source/site/forusers/alldownloads.rst:160
 msgid ""
 "The release packages are only produced once shortly after a new version has "
 "been released.  As unstable, not yet released debian versions (testing) and "
-"ubuntugis can have library changes the packages might sooner or later be "
-"broken for these targets, when the development in debian, ubuntu or "
-"ubuntugis moves on and their packages used as dependencies in qgis change.  "
-"In that event you can either"
-msgstr "De uitgavenpakketten worden eenmalig gemaakt kort nadat een nieuwe versie wordt uitgebracht. Omdat onstabiele of nog niet uitgebrachte Debian versies (testing) en ubuntugis verschillen in onderliggende functiebibliotheken kunnen bevatten, kunnen deze voor deze doelen na verloop van tijd niet meer werken, als de ontwikkeling van ubuntu en ubuntugis zich ontwikkelt en hun voor afhankelijkheden in QGIS gebruikte pakketten wijzigen. In dat geval kunt u ofwel"
+"ubuntugis-unstable can have library changes the packages might sooner or "
+"later be broken for these targets, when the development in debian, ubuntu or"
+" ubuntugis-unstable moves on and their packages used as dependencies in qgis"
+" change.  In that event you can either"
+msgstr "De uitgavenpakketten worden eenmalig gemaakt, kort nadat een nieuwe versie wordt uitgebracht. Omdat onstabiele of nog niet uitgebrachte Debian versies (testing) en ubuntugis-unstable verschillen in onderliggende functiebibliotheken kunnen bevatten, kunnen deze voor deze doelen na verloop van tijd niet meer werken, als de ontwikkeling van Debian, Ubuntu en Ubuntugis-unstable zich ontwikkelt en hun voor afhankelijkheden in QGIS gebruikte pakketten wijzigen. In dat geval kunt u ofwel"
 
-#: ../../source/site/forusers/alldownloads.rst:127
+#: ../../source/site/forusers/alldownloads.rst:167
 msgid "move to a stable debian version and use the released packages for it,"
 msgstr "overgaan naar een stabiele versie van Debian en de daarvoor uitgegeven pakketten gebruiken,"
 
-#: ../../source/site/forusers/alldownloads.rst:128
+#: ../../source/site/forusers/alldownloads.rst:168
 msgid ""
 "wait for the next point release (due |nextpointreleasedate|), which happens "
 "every month and will include the updated dependencies,"
 msgstr "wachten op de volgende puntuitgave (verwacht |nextpointreleasedate|), die elke maand komt en de bijgewerkte afhankelijkheden zal bevatten,"
 
-#: ../../source/site/forusers/alldownloads.rst:130
+#: ../../source/site/forusers/alldownloads.rst:170
 msgid ""
 "switch to a nightly repository (available for the **two** release branches "
 "and master) whose packages are rebuild on regular basis and will also pickup"
 " the updated dependencies automatically or"
 msgstr "overschakelen naar een nightly-opslagplaats (beschikbaar voor de **twee** releasebranches en master) waarvan de pakketten op een regelmatige basis opnieuw worden gebouwd en dan ook automatisch de bijgewerkte afhankelijkheden zullen bevatten of"
 
-#: ../../source/site/forusers/alldownloads.rst:133
-msgid "build your own set of packages (see INSTALL_)."
-msgstr "uw eigen verzameling pakketten bouwen (zie INSTALL_)."
+#: ../../source/site/forusers/alldownloads.rst:173
+msgid "build your own set of packages (see build-debian-packages_)."
+msgstr "uw eigen verzameling pakketten bouwen (zie build-debian-packages_)."
 
-#: ../../source/site/forusers/alldownloads.rst:139
+#: ../../source/site/forusers/alldownloads.rst:179
 msgid "Lines of packages:"
 msgstr "Lijnen van pakketten:"
 
-#: ../../source/site/forusers/alldownloads.rst:142
+#: ../../source/site/forusers/alldownloads.rst:182
 msgid "Repository"
 msgstr "Opslagplaats"
 
-#: ../../source/site/forusers/alldownloads.rst:144
-#: ../../source/site/forusers/alldownloads.rst:159
+#: ../../source/site/forusers/alldownloads.rst:184
+#: ../../source/site/forusers/alldownloads.rst:201
 msgid "Release for **Debian and Ubuntu**"
 msgstr "Uitgave voor **Debian en Ubuntu**"
 
-#: ../../source/site/forusers/alldownloads.rst:144
-msgid "https://qgis.org/debian"
-msgstr "https://qgis.org/debian"
+#: ../../source/site/forusers/alldownloads.rst:184
+msgid "https://qgis.org/debian https://qgis.org/ubuntu"
+msgstr "https://qgis.org/debian https://qgis.org/ubuntu"
 
-#: ../../source/site/forusers/alldownloads.rst:147
-#: ../../source/site/forusers/alldownloads.rst:162
-msgid "Release with ubuntugis dependencies"
-msgstr "Uitgave met afhankelijkheden voor ubuntugis"
+#: ../../source/site/forusers/alldownloads.rst:187
+#: ../../source/site/forusers/alldownloads.rst:204
+msgid "Release with ubuntugis-unstable dependencies"
+msgstr "Uitgave met afhankelijkheden voor ubuntugis-unstable"
 
-#: ../../source/site/forusers/alldownloads.rst:147
+#: ../../source/site/forusers/alldownloads.rst:187
 msgid "https://qgis.org/ubuntugis"
 msgstr "https://qgis.org/ubuntugis"
 
-#: ../../source/site/forusers/alldownloads.rst:150
-#: ../../source/site/forusers/alldownloads.rst:165
-msgid "Nightly build of upcoming point release for Debian and Ubuntu"
-msgstr "Nachtelijke bouw van de komende puntuitgave voor Debian en Ubuntu"
+#: ../../source/site/forusers/alldownloads.rst:190
+#: ../../source/site/forusers/alldownloads.rst:207
+msgid "Nightly build of upcoming point release for Debian and Ubuntu [5]_"
+msgstr "Nachtelijke bouw van de komende puntuitgave voor Debian en Ubuntu [5]_"
 
-#: ../../source/site/forusers/alldownloads.rst:150
-msgid "https://qgis.org/debian-nightly-release"
-msgstr "https://qgis.org/debian-nightly-release"
+#: ../../source/site/forusers/alldownloads.rst:190
+msgid ""
+"https://qgis.org/debian-nightly-release https://qgis.org/ubuntu-nightly-"
+"release"
+msgstr "https://qgis.org/debian-nightly-release https://qgis.org/ubuntu-nightly-release"
 
-#: ../../source/site/forusers/alldownloads.rst:154
-#: ../../source/site/forusers/alldownloads.rst:169
-msgid "Nightly build of upcoming point release with ubuntugis dependencies"
-msgstr "Nachtelijke bouw van de komende uitgave met afhankelijkheden voor ubuntugis"
+#: ../../source/site/forusers/alldownloads.rst:195
+#: ../../source/site/forusers/alldownloads.rst:212
+msgid ""
+"Nightly build of upcoming point release with ubuntugis-unstable dependencies"
+" [5]_"
+msgstr "Nachtelijke bouw van de komende puntuitgave met afhankelijkheden voor ubuntugis-unstable [5]_"
 
-#: ../../source/site/forusers/alldownloads.rst:154
+#: ../../source/site/forusers/alldownloads.rst:195
 msgid "https://qgis.org/ubuntugis-nightly-release"
 msgstr "https://qgis.org/ubuntugis-nightly-release"
 
-#: ../../source/site/forusers/alldownloads.rst:159
-msgid "https://qgis.org/debian-ltr"
-msgstr "https://qgis.org/debian-ltr"
+#: ../../source/site/forusers/alldownloads.rst:201
+msgid "https://qgis.org/debian-ltr https://qgis.org/ubuntu-ltr"
+msgstr "https://qgis.org/debian-ltr https://qgis.org/ubuntu-ltr"
 
-#: ../../source/site/forusers/alldownloads.rst:162
+#: ../../source/site/forusers/alldownloads.rst:204
 msgid "https://qgis.org/ubuntugis-ltr"
 msgstr "https://qgis.org/ubuntugis-ltr"
 
-#: ../../source/site/forusers/alldownloads.rst:165
-msgid "https://qgis.org/debian-nightly-ltr"
-msgstr "https://qgis.org/debian-nightly-ltr"
+#: ../../source/site/forusers/alldownloads.rst:207
+msgid ""
+"https://qgis.org/debian-nightly-ltr https://qgis.org/ubuntu-nightly-ltr"
+msgstr "https://qgis.org/debian-nightly-ltr https://qgis.org/ubuntu-nightly-ltr"
 
-#: ../../source/site/forusers/alldownloads.rst:169
+#: ../../source/site/forusers/alldownloads.rst:212
 msgid "https://qgis.org/ubuntugis-nightly-ltr"
 msgstr "https://qgis.org/ubuntugis-nightly-ltr"
 
-#: ../../source/site/forusers/alldownloads.rst:174
+#: ../../source/site/forusers/alldownloads.rst:218
 msgid "Development Version"
 msgstr "Ontwikkelversie"
 
-#: ../../source/site/forusers/alldownloads.rst:174
-msgid "Nightly build for **Debian and Ubuntu**"
-msgstr "Nachtelijke bouw voor **Debian en Ubuntu**"
+#: ../../source/site/forusers/alldownloads.rst:218
+msgid "Nightly build for **Debian and Ubuntu** [5]_"
+msgstr "Nachtelijke bouw voor **Debian en Ubuntu** [5]_"
 
-#: ../../source/site/forusers/alldownloads.rst:174
-msgid "https://qgis.org/debian-nightly"
-msgstr "https://qgis.org/debian-nightly"
+#: ../../source/site/forusers/alldownloads.rst:218
+msgid "https://qgis.org/debian-nightly https://qgis.org/ubuntu-nightly"
+msgstr "https://qgis.org/debian-nightly https://qgis.org/ubuntu-nightly"
 
-#: ../../source/site/forusers/alldownloads.rst:177
-msgid "Nightly build with ubuntugis dependencies"
-msgstr "Nachtelijke bouw met afhankelijkheden voor ubuntugis"
+#: ../../source/site/forusers/alldownloads.rst:222
+msgid "Nightly build with ubuntugis-unstable dependencies [5]_"
+msgstr "Nachtelijke bouw met afhankelijkheden voor ubuntugis-unstable [5]_"
 
-#: ../../source/site/forusers/alldownloads.rst:177
+#: ../../source/site/forusers/alldownloads.rst:222
 msgid "https://qgis.org/ubuntugis-nightly"
 msgstr "https://qgis.org/ubuntugis-nightly"
 
-#: ../../source/site/forusers/alldownloads.rst:181
+#: ../../source/site/forusers/alldownloads.rst:227
+msgid "nightlies are debug builds (including debug output)"
+msgstr "nachtelijke zijn bouwsels voor debuggen (inclusief de uitvoer voor debuggen)"
+
+#: ../../source/site/forusers/alldownloads.rst:229
 msgid "Next point release: |nextpointreleasedate|"
 msgstr "Volgende puntuitgave: |nextpointreleasedate|"
 
-#: ../../source/site/forusers/alldownloads.rst:182
+#: ../../source/site/forusers/alldownloads.rst:230
 msgid "Next release: |nextreleasedate|"
 msgstr "Volgende uitgave: |nextreleasedate|"
 
-#: ../../source/site/forusers/alldownloads.rst:183
+#: ../../source/site/forusers/alldownloads.rst:231
 msgid ""
 "(more dates see Release Schedule on "
 ":doc:`../getinvolved/development/roadmap`)"
 msgstr "(voor meer datums, bekijk het Uitgaveschema op :doc:`../getinvolved/development/roadmap`)"
 
-#: ../../source/site/forusers/alldownloads.rst:186
+#: ../../source/site/forusers/alldownloads.rst:234
 msgid "Supported distribution versions:"
 msgstr "Ondersteunde versies distributie:"
 
-#: ../../source/site/forusers/alldownloads.rst:189
+#: ../../source/site/forusers/alldownloads.rst:237
+#: ../../source/site/forusers/alldownloads.rst:333
+#: ../../source/site/forusers/alldownloads.rst:363
 msgid "Distribution"
 msgstr "Distributie"
 
-#: ../../source/site/forusers/alldownloads.rst:189
+#: ../../source/site/forusers/alldownloads.rst:237
 msgid "Codename"
 msgstr "Codenaam"
 
-#: ../../source/site/forusers/alldownloads.rst:189
-msgid "Also available based on ubuntugis dependencies?"
-msgstr "Ook beschikbaar met afhankelijkheden gebaseerd op ubuntugis?"
+#: ../../source/site/forusers/alldownloads.rst:237
+msgid "Also available based on ubuntugis-unstable dependencies?"
+msgstr "Ook beschikbaar met afhankelijkheden gebaseerd op ubuntugis-unstable?"
 
-#: ../../source/site/forusers/alldownloads.rst:189
-msgid "with 3D [6]_"
-msgstr "met 3D [6]_"
-
-#: ../../source/site/forusers/alldownloads.rst:193
+#: ../../source/site/forusers/alldownloads.rst:241
 msgid "Debian"
 msgstr "Debian"
 
-#: ../../source/site/forusers/alldownloads.rst:193
-msgid "8.x"
-msgstr "8.x"
-
-#: ../../source/site/forusers/alldownloads.rst:193
-msgid "jessie [4]_"
-msgstr "jessie [4]_"
-
-#: ../../source/site/forusers/alldownloads.rst:195
-msgid "9.x"
-msgstr "9.x"
-
-#: ../../source/site/forusers/alldownloads.rst:195
-msgid "stretch"
-msgstr "stretch"
-
-#: ../../source/site/forusers/alldownloads.rst:197
+#: ../../source/site/forusers/alldownloads.rst:241
 msgid "10.x"
 msgstr "10.x"
 
-#: ../../source/site/forusers/alldownloads.rst:197
+#: ../../source/site/forusers/alldownloads.rst:241
 msgid "buster"
 msgstr "buster"
 
-#: ../../source/site/forusers/alldownloads.rst:199
+#: ../../source/site/forusers/alldownloads.rst:243
 msgid "sid"
 msgstr "sid"
 
-#: ../../source/site/forusers/alldownloads.rst:199
+#: ../../source/site/forusers/alldownloads.rst:243
 msgid "unstable"
 msgstr "onstabiel"
 
-#: ../../source/site/forusers/alldownloads.rst:201
+#: ../../source/site/forusers/alldownloads.rst:245
 msgid "Ubuntu"
 msgstr "Ubuntu"
 
-#: ../../source/site/forusers/alldownloads.rst:201
-msgid "18.04"
-msgstr "18.04"
+#: ../../source/site/forusers/alldownloads.rst:245
+msgid "20.04"
+msgstr "20.04"
 
-#: ../../source/site/forusers/alldownloads.rst:201
+#: ../../source/site/forusers/alldownloads.rst:245
+msgid "focal [6]_"
+msgstr "focal [6]_"
+
+#: ../../source/site/forusers/alldownloads.rst:247
+msgid "19.10"
+msgstr "19.10"
+
+#: ../../source/site/forusers/alldownloads.rst:247
+msgid "eoan"
+msgstr "eoan"
+
+#: ../../source/site/forusers/alldownloads.rst:249
+msgid "19.04"
+msgstr "19.04"
+
+#: ../../source/site/forusers/alldownloads.rst:249
+msgid "disco"
+msgstr "disco"
+
+#: ../../source/site/forusers/alldownloads.rst:251
+msgid "18.04 (LTS)"
+msgstr "18.04 (LTS)"
+
+#: ../../source/site/forusers/alldownloads.rst:251
 msgid "bionic"
 msgstr "bionic"
 
-#: ../../source/site/forusers/alldownloads.rst:201
-#: ../../source/site/forusers/alldownloads.rst:203
-#: ../../source/site/forusers/alldownloads.rst:205
-#: ../../source/site/forusers/alldownloads.rst:207
+#: ../../source/site/forusers/alldownloads.rst:251
 msgid "yes"
 msgstr "ja"
 
-#: ../../source/site/forusers/alldownloads.rst:203
-msgid "17.10"
-msgstr "17.10"
+#: ../../source/site/forusers/alldownloads.rst:254
+msgid "starting with 3.10.3 / 3.11 (master) / 3.12"
+msgstr "beginnend met 3.10.3 / 3.11 (master) / 3.12"
 
-#: ../../source/site/forusers/alldownloads.rst:203
-msgid "artful"
-msgstr "artful"
-
-#: ../../source/site/forusers/alldownloads.rst:205
-msgid "16.04 (LTS)"
-msgstr "16.04 (LTS)"
-
-#: ../../source/site/forusers/alldownloads.rst:205
-msgid "xenial [5]_"
-msgstr "xenial [5]_"
-
-#: ../../source/site/forusers/alldownloads.rst:207
-msgid "14.04 (LTS)"
-msgstr "14.04 (LTS)"
-
-#: ../../source/site/forusers/alldownloads.rst:207
-msgid "trusty [4]_"
-msgstr "trusty [4]_"
-
-#: ../../source/site/forusers/alldownloads.rst:210
-msgid "only up to 2.18 LTR"
-msgstr "alleen tot 2.18 LTR"
-
-#: ../../source/site/forusers/alldownloads.rst:211
-msgid "3.0 and above only available with ubuntugis (plain xenial lacks GDAL2)"
-msgstr "3.0 en hoger alleen beschikbaar met ubuntugis (in gewone Xenial ontbreekt GDAL 2)"
-
-#: ../../source/site/forusers/alldownloads.rst:212
-msgid ""
-"only with Qt >= 5.9 including Qt 3DExtras (the latter is currently not "
-"included in Debian)"
-msgstr "alleen met Qt >= 5.9 inclusief Qt 3DExtra's (dat laatste is momenteel niet opgenomen in Debian)"
-
-#: ../../source/site/forusers/alldownloads.rst:214
+#: ../../source/site/forusers/alldownloads.rst:256
 msgid ""
 "Add the lines for one of the repositories to your "
 "``/etc/apt/sources.list``::"
 msgstr "Voeg de regels voor één van de repositories toe aan uw ``/etc/apt/sources.list``::"
 
-#: ../../source/site/forusers/alldownloads.rst:219
-msgid "Example latest release for Debian jessie::"
-msgstr "Voorbeeld laatste uitgave voor Debian jessie::"
+#: ../../source/site/forusers/alldownloads.rst:261
+msgid "Example latest release for Debian unstable::"
+msgstr "Voorbeeld laatste uitgave voor Debian unstable::"
 
-#: ../../source/site/forusers/alldownloads.rst:224
+#: ../../source/site/forusers/alldownloads.rst:266
+#: ../../source/site/forusers/alldownloads.rst:323
+#: ../../source/site/forusers/alldownloads.rst:353
 msgid "After that type the commands below to install QGIS::"
 msgstr "Type daarna onderstaande opdrachten om QGIS te installeren::"
 
-#: ../../source/site/forusers/alldownloads.rst:229
+#: ../../source/site/forusers/alldownloads.rst:271
+msgid "In case you would like to install QGIS Server, type::"
+msgstr "In het geval dat u QGIS Server wilt installeren, typ::"
+
+#: ../../source/site/forusers/alldownloads.rst:276
+msgid ""
+"Please remove all the QGIS and GRASS packages you may have installed from "
+"other repositories before doing the update."
+msgstr "Verwijder eerst alle QGIS en GRASS onderdelen die je geïnstalleerd hebt van andere repositories, voordat je begint met de update. "
+
+#: ../../source/site/forusers/alldownloads.rst:279
+msgid ""
+"In case of keyserver errors add the qgis.org repository public key to your "
+"apt keyring, type::"
+msgstr "Voeg in geval van \"keyserver errors\" de  publieke sleutel van de qgis.org repository toe aan apt. Typ::"
+
+#: ../../source/site/forusers/alldownloads.rst:285
+msgid "Should output::"
+msgstr "Zou uit moeten voeren::"
+
+#: ../../source/site/forusers/alldownloads.rst:291
+msgid ""
+"After you have verified the fingerprint you can add the key to apt with::"
+msgstr "Nadat u de vingerafdruk heeft geverifieerd, kunt u de sleutel toevoegen om apt mee te gebruiken::"
+
+#: ../../source/site/forusers/alldownloads.rst:296
+msgid ""
+"Alternatively you can download the key from a keyserver and add the key to "
+"apt in without manual fingerprint verification::"
+msgstr "Als alternatief kunt u de sleutel downloaden van een sleutelserver en de sleutel toevoegen aan apt zonder handmatige verificatie van de vingerafdruk::"
+
+#: ../../source/site/forusers/alldownloads.rst:304
+#: ../../source/site/forusers/alldownloads.rst:337
+#: ../../source/site/forusers/alldownloads.rst:367
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../../source/site/forusers/alldownloads.rst:306
+msgid "Get packages for any Fedora by typing::"
+msgstr "Verkrijg de voor elke Fedora door in te typen::"
+
+#: ../../source/site/forusers/alldownloads.rst:310
+msgid ""
+"Default Fedora software repositories often hold older versions of QGIS."
+msgstr "Standaard opslagplaatsen voor software van Debian Fedora bevatten vaak oudere versies van QGIS."
+
+#: ../../source/site/forusers/alldownloads.rst:313
+msgid ""
+"To have newer versions or the latest LTR, you have to add alternative "
+"software repositories based on the version you want to install (stable, LTR "
+"or testing)."
+msgstr "U moet, om nieuwere versies of de laatste LTR te verkrijgen, alternatieve software opslagplaatsen toevoegen, gebaseerd op de versie die u wilt installeren (stabiele, LTR of testing)."
+
+#: ../../source/site/forusers/alldownloads.rst:317
+#: ../../source/site/forusers/alldownloads.rst:430
+#: ../../source/site/forusers/alldownloads.rst:440
+#: ../../source/site/forusers/alldownloads.rst:448
+#: ../../source/site/forusers/alldownloads.rst:534
+msgid "QGIS stable"
+msgstr "QGIS stable"
+
+#: ../../source/site/forusers/alldownloads.rst:319
+#: ../../source/site/forusers/alldownloads.rst:349
+msgid "Enable the repository::"
+msgstr "De opslagplaats inschakelen:"
+
+#: ../../source/site/forusers/alldownloads.rst:327
+#: ../../source/site/forusers/alldownloads.rst:357
 msgid ""
 "In case you would like to install QGIS Server (note that it's not a common "
 "practice to install both client and server applications on the same "
 "machine), type::"
 msgstr "In het geval dat u QGIS Server zou willen installeren (merk op dat het geen gewoon gebruik is om zowel de cliënt als de servertoepassing op dezelfde machine te installeren), type::"
 
-#: ../../source/site/forusers/alldownloads.rst:235
+#: ../../source/site/forusers/alldownloads.rst:333
+#: ../../source/site/forusers/alldownloads.rst:363
+msgid "QGIS version"
+msgstr "QGIS-versie"
+
+#: ../../source/site/forusers/alldownloads.rst:333
+#: ../../source/site/forusers/alldownloads.rst:363
+msgid "GRASS GIS version"
+msgstr "GRASS GIS-versie"
+
+#: ../../source/site/forusers/alldownloads.rst:337
+#: ../../source/site/forusers/alldownloads.rst:367
+msgid "31"
+msgstr "31"
+
+#: ../../source/site/forusers/alldownloads.rst:337
+#: ../../source/site/forusers/alldownloads.rst:339
+#: ../../source/site/forusers/alldownloads.rst:341
+msgid "3.16"
+msgstr "3.16"
+
+#: ../../source/site/forusers/alldownloads.rst:337
+#: ../../source/site/forusers/alldownloads.rst:339
+#: ../../source/site/forusers/alldownloads.rst:341
+#: ../../source/site/forusers/alldownloads.rst:367
+#: ../../source/site/forusers/alldownloads.rst:369
+#: ../../source/site/forusers/alldownloads.rst:371
+msgid "7.8"
+msgstr "7.8"
+
+#: ../../source/site/forusers/alldownloads.rst:339
+#: ../../source/site/forusers/alldownloads.rst:369
+msgid "32"
+msgstr "32"
+
+#: ../../source/site/forusers/alldownloads.rst:341
+#: ../../source/site/forusers/alldownloads.rst:371
+msgid "33"
+msgstr "33"
+
+#: ../../source/site/forusers/alldownloads.rst:344
 msgid ""
-"Please remove all the QGIS and GRASS packages you may have installed from "
-"other repositories before doing the update."
-msgstr "Verwijder eerst alle QGIS en GRASS onderdelen die je geïnstalleerd hebt van andere repositories, voordat je begint met de update. "
+"More information are available at "
+"https://copr.fedorainfracloud.org/coprs/dani/qgis/"
+msgstr "Meer informatie is beschikbaar op https://copr.fedorainfracloud.org/coprs/dani/qgis/"
 
-#: ../../source/site/forusers/alldownloads.rst:238
+#: ../../source/site/forusers/alldownloads.rst:347
+msgid "QGIS LTR (Long Term Release)"
+msgstr "QGIS LTR (Lange Termijn Release)"
+
+#: ../../source/site/forusers/alldownloads.rst:367
+#: ../../source/site/forusers/alldownloads.rst:369
+#: ../../source/site/forusers/alldownloads.rst:371
+msgid "3.10"
+msgstr "3.10"
+
+#: ../../source/site/forusers/alldownloads.rst:374
 msgid ""
-"In case of keyserver errors add the qgis.org repository public key to your "
-"apt keyring, type::"
-msgstr "Voeg in geval van \"keyserver errors\" de  publieke sleutel van de qgis.org repository toe aan apt. Typ::"
+"More information are available at "
+"https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/"
+msgstr "Meer informatie is beschikbaar op https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/"
 
-#: ../../source/site/forusers/alldownloads.rst:244
-msgid "Should output::"
-msgstr "Zou uit moeten voeren::"
-
-#: ../../source/site/forusers/alldownloads.rst:251
-msgid ""
-"After you have verified the fingerprint you can add the key to apt with::"
-msgstr "Nadat u de vingerafdruk heeft geverifieerd, kunt u de sleutel toevoegen om apt mee te gebruiken::"
-
-#: ../../source/site/forusers/alldownloads.rst:255
-msgid ""
-"Alternatively you can download the key from a keyserver and add the key to "
-"apt in one go (without manual fingerprint verification)::"
-msgstr "Als alternatief kunt u de sleutel downloaden van een sleutelserver en de sleutel toevoegen om in één keer apt te gebruiken (zonder handmatige verificatie van de vingerafdruk)::"
-
-#: ../../source/site/forusers/alldownloads.rst:262
-msgid "Fedora"
-msgstr "Fedora"
-
-#: ../../source/site/forusers/alldownloads.rst:265
-#: ../../source/site/forusers/alldownloads.rst:304
-#: ../../source/site/forusers/alldownloads.rst:320
-#: ../../source/site/forusers/alldownloads.rst:360
-#: ../../source/site/forusers/alldownloads.rst:370
-#: ../../source/site/forusers/alldownloads.rst:394
-#: ../../source/site/forusers/alldownloads.rst:406
-msgid "QGIS stable"
-msgstr "QGIS stable"
-
-#: ../../source/site/forusers/alldownloads.rst:267
-msgid "Get packages for any Fedora by typing::"
-msgstr "Verkrijg de voor elke Fedora door in te typen::"
-
-#: ../../source/site/forusers/alldownloads.rst:272
-msgid ""
-"There is an alternative repository for QGIS which provides new LTR versions "
-"https://copr.fedorainfracloud.org/coprs/neteler/QGIS-2.14-Essen/ ::"
-msgstr "Er bestaat een alternatieve opslagplaats voor QGIS die nieuwere versies voor LTR verschaft https://copr.fedorainfracloud.org/coprs/neteler/QGIS-2.14-Essen/ ::"
-
-#: ../../source/site/forusers/alldownloads.rst:282
-msgid "For QGIS 2.18 use there is another repository ::"
-msgstr "Voor gebruik met QGIS 2.18 is er een andere opslagplaats ::"
-
-#: ../../source/site/forusers/alldownloads.rst:293
+#: ../../source/site/forusers/alldownloads.rst:377
 msgid "RHEL, CentOS, Scientific Linux"
 msgstr "RHEL, CentOS, Scientific Linux"
 
-#: ../../source/site/forusers/alldownloads.rst:296
+#: ../../source/site/forusers/alldownloads.rst:380
 msgid "QGIS 1.8"
 msgstr "QGIS 1.8"
 
-#: ../../source/site/forusers/alldownloads.rst:298
+#: ../../source/site/forusers/alldownloads.rst:382
 msgid "Try the ELGIS repository: http://elgis.argeo.org/"
 msgstr "Probeer de ELGIS repository: http://elgis.argeo.org/"
 
-#: ../../source/site/forusers/alldownloads.rst:300
+#: ../../source/site/forusers/alldownloads.rst:384
 msgid ""
 "ELGIS requires the EPEL repo enabled, see "
 "http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL"
 msgstr "ELGIS heeft een geactiveerde EPEL repo nodig, zie http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL"
 
-#: ../../source/site/forusers/alldownloads.rst:306
+#: ../../source/site/forusers/alldownloads.rst:388
+msgid "SUSE / openSUSE"
+msgstr "SUSE / openSUSE"
+
+#: ../../source/site/forusers/alldownloads.rst:390
 msgid ""
-"QGIS stable can be installed from an alternative repository. Python support "
-"is strongly limited due to old dependencies. Note: It requires, that ELGIS "
-"and EPEL are also installed. ::"
-msgstr "QGIS stabiel kan worden geïnstalleerd uit een alternatieve opslagplaats. Ondersteuning voor Python is sterk beperkt wegens oude afhankelijkheden. Opmerking: Het vereist dat ELGIS en EPEL ook worden geïnstalleerd. ::"
+"Latest stable and LTR packages called qgis and qgis-ltr are available in the"
+" following repositories:"
+msgstr "Laatste stabiele en LTR-pakketten, genaamd qgis en qgis-ltr, zijn beschikbaar in de volgende opslagplaatsen:"
 
-#: ../../source/site/forusers/alldownloads.rst:317
-msgid "openSUSE"
-msgstr "openSUSE"
+#: ../../source/site/forusers/alldownloads.rst:392
+msgid "Tumbleweed::"
+msgstr "Tumbleweed::"
 
-#: ../../source/site/forusers/alldownloads.rst:322
-msgid ""
-"Latest stable openSUSE package called qgis is available for 13.1, 13.2, "
-"Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit).  Add the following "
-"repository to your installation manager, where <VERSION> is for example "
-"'openSUSE_Tumbleweed'. ::"
-msgstr "Het laatste stabiele pakket voor openSUSE heet qgis en is beschikbaar voor 13.1, 13.2, Leap_42.1, Leap_42.2 en Tumbleweed (32 en 64 bit). Voeg de volgende opslagplaats toe aan uw installatiemanager, waar <VERSION> bijvoorbeeld voor 'openSUSE_Tumbleweed' is. ::"
+#: ../../source/site/forusers/alldownloads.rst:396
+msgid "Leap 15.2::"
+msgstr "Leap 15.2::"
 
-#: ../../source/site/forusers/alldownloads.rst:329
-#: ../../source/site/forusers/alldownloads.rst:341
-#: ../../source/site/forusers/alldownloads.rst:354
+#: ../../source/site/forusers/alldownloads.rst:400
+msgid "Leap 15.1::"
+msgstr "Leap 15.1::"
+
+#: ../../source/site/forusers/alldownloads.rst:404
+msgid "Factory ARM::"
+msgstr "Factory ARM::"
+
+#: ../../source/site/forusers/alldownloads.rst:408
+msgid "Factory PowerPC::"
+msgstr "Factory PowerPC::"
+
+#: ../../source/site/forusers/alldownloads.rst:412
+msgid "SLE 15 SP1 Backports::"
+msgstr "SLE 15 SP1 Backports::"
+
+#: ../../source/site/forusers/alldownloads.rst:416
+msgid "SLE 15 SP1 Backports debug::"
+msgstr "SLE 15 SP1 Backports debug::"
+
+#: ../../source/site/forusers/alldownloads.rst:420
 msgid "All packages include GRASS and Python support."
 msgstr "Alle pakketten bevatten GRASS- en Python-ondersteuning"
 
-#: ../../source/site/forusers/alldownloads.rst:332
-msgid "QGIS LTR (Long Term Release)"
-msgstr "QGIS LTR (Lange Termijn Release)"
+#: ../../source/site/forusers/alldownloads.rst:422
+msgid "All openSUSE Geo repositories can be found here::"
+msgstr "Alle opslagplaatsen voor openSUSE Geo zijn hier te vinden::"
 
-#: ../../source/site/forusers/alldownloads.rst:334
-msgid ""
-"Long Term Release package for openSUSE called qgis-ltr is available for "
-"13.1, 13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). Add the "
-"following repository to your installation manager, where <VERSION> is for "
-"example 'openSUSE_Tumbleweed'. ::"
-msgstr "Het Long Term Release pakket voor openSUSE heet qgis-ltr en is beschikbaar voor 13.1, 13.2, Leap_42.1, Leap_42.2 en Tumbleweed (32 en 64 bit). Voeg de volgende opslagplaats toe aan uw installatiemanager, waar <VERSION> bijvoorbeeld voor 'openSUSE_Tumbleweed' is. ::"
-
-#: ../../source/site/forusers/alldownloads.rst:344
-#: ../../source/site/forusers/alldownloads.rst:414
-msgid "QGIS testing"
-msgstr "QGIS test"
-
-#: ../../source/site/forusers/alldownloads.rst:346
-msgid ""
-"A regularly updated development package from qgis master called qgis-master "
-"is available for 13.1, 13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and "
-"64bit). Add the following repository to your installation manager, where "
-"<VERSION> is for example 'openSUSE_Tumbleweed'. ::"
-msgstr "Een pakket dat regelmatig wordt bijgewerkt met de laatste ontwikkelingen beschikbaar van de qgis master genaamd qgis-master is beschikbaar voor 13.1, 13.2, Leap_42.1, Leap_42.2 en Tumbleweed (32 en 64bit). Voeg de volgende opslagplaats toe aan uw installatiemanager, waar <VERSION>bijvoorbeeld voor 'openSUSE_Tumbleweed' is. :: "
-
-#: ../../source/site/forusers/alldownloads.rst:357
+#: ../../source/site/forusers/alldownloads.rst:427
 msgid "Mandriva"
 msgstr "Mandriva"
 
-#: ../../source/site/forusers/alldownloads.rst:362
+#: ../../source/site/forusers/alldownloads.rst:432
 msgid "Current::"
 msgstr "Huidige::"
 
-#: ../../source/site/forusers/alldownloads.rst:367
+#: ../../source/site/forusers/alldownloads.rst:437
 msgid "Slackware"
 msgstr "Slackware"
 
-#: ../../source/site/forusers/alldownloads.rst:372
-msgid "Packages on http://qgis.gotslack.org"
-msgstr "Packages op http://qgis.gotslack.org"
+#: ../../source/site/forusers/alldownloads.rst:442
+msgid "Packages on https://slackbuilds.org/result/?search=qgis"
+msgstr "Pakketten op https://slackbuilds.org/result/?search=qgis"
 
-#: ../../source/site/forusers/alldownloads.rst:375
+#: ../../source/site/forusers/alldownloads.rst:445
 msgid "ArchLinux"
 msgstr "ArchLinux"
 
-#: ../../source/site/forusers/alldownloads.rst:377
-msgid "Archlinux users are encouraged to use the Arch User Repository (AUR)."
-msgstr "Archlinux gebruikers worden aangeraden om de Arch User Repository (AUR) te gebruiken."
-
-#: ../../source/site/forusers/alldownloads.rst:379
+#: ../../source/site/forusers/alldownloads.rst:450
 msgid ""
-"Information about available versions, bugs and archlinux specific "
-"instructions can be found at: https://aur.archlinux.org/packages/?O=0&K=qgis"
-msgstr "Informatie over beschikbare versie, fouten en archlinux specifieke instructies kunnen worden gevonden op: https://aur.archlinux.org/packages/?O=0&K=qgis"
+"Archlinux is available in official repository : "
+"https://www.archlinux.org/packages/community/x86_64/qgis/"
+msgstr "Archlinux is beschikbaar in de officiële opslagplaats : https://www.archlinux.org/packages/community/x86_64/qgis/"
 
-#: ../../source/site/forusers/alldownloads.rst:384
+#: ../../source/site/forusers/alldownloads.rst:452
+msgid "Install with :"
+msgstr "Installeer met :"
+
+#: ../../source/site/forusers/alldownloads.rst:454
+msgid "pacman -S qgis"
+msgstr "pacman -S qgis"
+
+#: ../../source/site/forusers/alldownloads.rst:458
+#: ../../source/site/forusers/alldownloads.rst:549
+msgid "QGIS LTR"
+msgstr "QGIS LTR"
+
+#: ../../source/site/forusers/alldownloads.rst:460
+msgid "QGIS Long Term Release is available in AUR (Arch User Repository)."
+msgstr "QGIS Long Term Release is beschikbaar in AUR (Arch User Repository)."
+
+#: ../../source/site/forusers/alldownloads.rst:462
+#: ../../source/site/forusers/alldownloads.rst:474
+msgid "Install with yaourt or other package manager which support AUR :"
+msgstr "Installeer met yaourt of een andere pakketbeheerder die AUR ondersteunt :"
+
+#: ../../source/site/forusers/alldownloads.rst:464
+msgid "yaourt -S qgis-ltr"
+msgstr "yaourt -S qgis-ltr"
+
+#: ../../source/site/forusers/alldownloads.rst:466
+msgid ""
+"For bugs and other behaviour, read comments here : "
+"https://aur.archlinux.org/packages/qgis-ltr/"
+msgstr "Voor problemen en ander gedrag, lees de opmerkingen hier : https://aur.archlinux.org/packages/qgis-ltr/"
+
+#: ../../source/site/forusers/alldownloads.rst:470
+msgid "QGIS testing"
+msgstr "QGIS test"
+
+#: ../../source/site/forusers/alldownloads.rst:472
+msgid "QGIS testing is available in AUR (Arch User Repository)."
+msgstr "QGIS testing is beschikbaar in AUR (Arch User Repository)."
+
+#: ../../source/site/forusers/alldownloads.rst:476
+msgid "yaourt -S qgis-git"
+msgstr "yaourt -S qgis-git"
+
+#: ../../source/site/forusers/alldownloads.rst:478
+msgid ""
+"For bugs and other behaviour, read comments here : "
+"https://aur.archlinux.org/packages/qgis-git"
+msgstr "Voor problemen en ander gedrag, lees de opmerkingen hier : https://aur.archlinux.org/packages/qgis-git"
+
+#: ../../source/site/forusers/alldownloads.rst:481
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: ../../source/site/forusers/alldownloads.rst:483
+msgid ""
+"There is an QGIS flatpak for QGIS Stable available, maintained by the "
+"flathub community."
+msgstr "Er is een QGIS flatpak voor QGIS Stable beschikbaar, onderhouden door de gemeenschap van flathub."
+
+#: ../../source/site/forusers/alldownloads.rst:485
+msgid ""
+"For general Linux Flatpak install notes, see https://flatpak.org/setup/"
+msgstr "Voor algemene instructies voor het installeren van Linux Flatpak, zie https://flatpak.org/setup/"
+
+#: ../../source/site/forusers/alldownloads.rst:487
+msgid "QGIS on Flathub: https://flathub.org/apps/details/org.qgis.qgis"
+msgstr "QGIS op Flathub: https://flathub.org/apps/details/org.qgis.qgis"
+
+#: ../../source/site/forusers/alldownloads.rst:489
+msgid "To install::"
+msgstr "Installeren::"
+
+#: ../../source/site/forusers/alldownloads.rst:493
+msgid "Then to run::"
+msgstr "Dan uitvoeren::"
+
+#: ../../source/site/forusers/alldownloads.rst:497
+msgid "To update your flatpak QGIS::"
+msgstr "Bijwerken van uw flatpak QGIS::"
+
+#: ../../source/site/forusers/alldownloads.rst:501
+msgid ""
+"On certain distributions, you may also need to install xdg-desktop-portal or"
+" xdg-desktop-portal-gtk packages in order for file dialogs to appear."
+msgstr "Op bepaalde distributies zult u misschien ook pakketten xdg-desktop-portal of xdg-desktop-portal-gtk moeten installeren om de dialoogvensters voor bestanden te laten verschijnen."
+
+#: ../../source/site/forusers/alldownloads.rst:503
+msgid ""
+"Flathub files: https://github.com/flathub/org.qgis.qgis and report issues "
+"here: https://github.com/flathub/org.qgis.qgis/issues"
+msgstr "Flathub-bestanden: https://github.com/flathub/org.qgis.qgis en rapporteer problemen hier: https://github.com/flathub/org.qgis.qgis/issues"
+
+#: ../../source/site/forusers/alldownloads.rst:505
+msgid ""
+"Note: if you need to install additional Python modules, because they are "
+"needed by a plugin, you can install the module with (here installing the "
+"urllib3 module)::"
+msgstr "Opmerking: Als u aanvullende modules voor Python dient te installeren, omdat zij nodig zijn voor een plug-in, kunt u de module installeren met (hier installeren van de module urllib3)::"
+
+#: ../../source/site/forusers/alldownloads.rst:511
 msgid "Mac OS X / macOS"
 msgstr "Mac OS X / macOS"
 
-#: ../../source/site/forusers/alldownloads.rst:386
-msgid "Installation instructions are in the ReadMe on the disk image."
-msgstr "Instructies voor installeren staan in de ReadMe op de schijf."
-
-#: ../../source/site/forusers/alldownloads.rst:389
-msgid "QGIS current"
-msgstr "Huidige QGIS"
-
-#: ../../source/site/forusers/alldownloads.rst:391
+#: ../../source/site/forusers/alldownloads.rst:513
 msgid ""
-"The current QGIS package uses the `python.org Python 3.6 "
-"<http://www.python.org/>`_ - other distributions are not supported. Install "
-"packages in the numbered order.  Especially note that Python must be "
-"installed before the GDAL Complete package, else the GDAL Python modules "
-"will not be installed and some GDAL tools will not function."
-msgstr "Het huidige pakket van QGIS gebruikt de `python.org Python 3.6 <http://www.python.org/>`_ - andere distributies worden niet ondersteund. Installeer pakketten in de genummerde volgorde. Onthoud met name dat Python moet zijn geïnstalleerd vóór het pakket GDAL Complete, anders zullen de Python-modules voor GDAL niet worden geïnstalleerd en zullen sommige programma's voor GDAL niet werken."
+"Official All-in-one, signed installers for for macOS High Sierra (10.13) and"
+" newer can be downloaded from the `QGIS download page "
+"<https://qgis.org/en/site/forusers/download.html>`_."
+msgstr "Officiële Alles-in-één, ondertekende installatieprogramma's voor macOS High Sierra (10.13) en nieuwer kunnen worden gedownload vanaf de `QGIS pagina voor downloaden <https://qgis.org/nl/site/forusers/download.html>`_."
 
-#: ../../source/site/forusers/alldownloads.rst:396
+#: ../../source/site/forusers/alldownloads.rst:515
 msgid ""
-"The stable package uses the system Python 2.7 - other distributions are not "
-"supported. It also requires the NumPy and Matplotlib packages on the disk "
-"image. Install packages in the numbered order. If an older major version is "
-"being upgraded (2.16 or older), delete QGIS.app from your Applications "
-"folder before installing this version."
-msgstr "Het stabiele pakket gebruikt de systeem-Python 2.7 - andere distributies worden niet ondersteund. Het vereist ook de pakketten NumPy en Matplotlib on de schijf. Installeer pakketten in de genummerde volgorde Als een oudere hoofdversie wordt bijgewerkt (2.16 of ouder), verwijder dan QGIS.app uit uw map Applications vóórdat u deze versie installeert."
+"Alternative builds supporting macOS 10.11 El Capitan and later are available"
+" from `kyngchaos.com <https://www.kyngchaos.com/software/qgis/>`_"
+msgstr "Alternatieve builds die macOS 10.11 El Capitan en later ondersteunen zijn beschikbaar vanaf `kyngchaos.com <https://www.kyngchaos.com/software/qgis/>`_"
 
-#: ../../source/site/forusers/alldownloads.rst:398
+#: ../../source/site/forusers/alldownloads.rst:520
+msgid "QGIS nightly release"
+msgstr "QGIS nachtelijke uitgave"
+
+#: ../../source/site/forusers/alldownloads.rst:521
 msgid ""
-"Other Python modules for plugins to use are available from `kyngchaos.com "
-"<http://www.kyngchaos.com/software/python>`_."
-msgstr "Andere modules voor Python voor te gebruiken plug-ins zijn beschikbaar op `kyngchaos.com <http://www.kyngchaos.com/software/python>`_."
+"A nightly updated standalone installer from QGIS master can be downloaded "
+"from `here <https://qgis.org/downloads/macos/qgis-macos-nightly.dmg>`_."
+msgstr "Een nachtelijk, bijgewerkt zelfstandig installatieprogramma van QGIS master kan worden gedownload vanaf `hier <https://qgis.org/downloads/macos/qgis-macos-nightly.dmg>`_."
 
-#: ../../source/site/forusers/alldownloads.rst:403
+#: ../../source/site/forusers/alldownloads.rst:524
+msgid "Old releases"
+msgstr "Oude uitgaven"
+
+#: ../../source/site/forusers/alldownloads.rst:525
+msgid ""
+"Previous releases of the official installer can be downloaded from "
+"https://qgis.org/downloads/macOS/."
+msgstr "Eerdere uitgaven van het officiële installatieprogramma kunnen worden gedownload vanaf https://qgis.org/downloads/macOS/."
+
+#: ../../source/site/forusers/alldownloads.rst:527
+msgid ""
+"Previous releases of the kyngchaos installer can be downloaded from "
+"https://www.kyngchaos.com/software/archive/. The oldest installers support "
+"macOS 10.4 Tiger."
+msgstr "Eerdere uitgaven van het kyngchaos installatieprogramma kunnen worden gedownload vanaf https://www.kyngchaos.com/software/archive/. De oudste installatieprogramma's ondersteunen macOS 10.4 Tiger."
+
+#: ../../source/site/forusers/alldownloads.rst:531
 msgid "FreeBSD"
 msgstr "FreeBSD"
 
-#: ../../source/site/forusers/alldownloads.rst:408
-msgid "To compile QGIS from binary packages type ::"
-msgstr "Om QGIS te compileren uit binaire pakketten dien je het volgende in te typen ::"
+#: ../../source/site/forusers/alldownloads.rst:536
+#: ../../source/site/forusers/alldownloads.rst:551
+msgid "To install QGIS from binary packages type ::"
+msgstr "QGIS installeren vanuit binaire pakketten, typ ::"
 
-#: ../../source/site/forusers/alldownloads.rst:416
-msgid "To compile QGIS from sources in FreeBSD you need to type ::"
-msgstr "Om QGIS te compileren vanuit de broncode in FreeBSD dien je het volgende in te typen ::"
+#: ../../source/site/forusers/alldownloads.rst:541
+#: ../../source/site/forusers/alldownloads.rst:556
+msgid ""
+"Or to customize compilation options, you can build it from FreeBSD ports ::"
+msgstr "Of, om opties voor compileren aan te passen, kunt u het bouwen uit de ports van FreeBSD ::"
 
-#: ../../source/site/forusers/alldownloads.rst:425
+#: ../../source/site/forusers/alldownloads.rst:564
 msgid "Android"
 msgstr "Android"
 
-#: ../../source/site/forusers/alldownloads.rst:427
-msgid "There is an experimental version available on google play store."
-msgstr "Er is een experimentele versie beschikbaar in de Google play store."
+#: ../../source/site/forusers/alldownloads.rst:566
+msgid ""
+"An old and deprecated not touch optimised release of QGIS for Android can be"
+" found on the google play store."
+msgstr "Een oude en vervallen, niet voor aanraken geoptimaliseerde, uitgave van QGIS for Android is te vinden in de Google Play Store "
 
-#: ../../source/site/forusers/alldownloads.rst:429
+#: ../../source/site/forusers/alldownloads.rst:568
 msgid "https://play.google.com/store/apps/details?id=org.qgis.qgis"
 msgstr "https://play.google.com/store/apps/details?id=org.qgis.qgis"
 
-#: ../../source/site/forusers/alldownloads.rst:432
+#: ../../source/site/forusers/alldownloads.rst:571
 msgid ""
 "There is currently no support for Android 5. Best support is given for "
 "Android 4.3 and 4.4.x. This is a direct port of the QGIS desktop "
@@ -762,11 +964,11 @@ msgid ""
 "touch devices."
 msgstr "Er is momenteel geen ondersteuning voor Android 5. De beste ondersteuning wordt gegeven voor Android 4.3 en 4.4.x. Dit is een directe port van de toepassing QGIS desktop. Het is alleen enigszins geoptimaliseerd voor aanraak-apparaten en dient daarom zorgvuldig te worden geëvalueerd op zijn geschiktheid voor dagelijks gebruik. Er zijn andere apps beschikbaar die specifiek zijn ontworpen en geoptimaliseerd voor anaraak-apparaten."
 
-#: ../../source/site/forusers/alldownloads.rst:440
+#: ../../source/site/forusers/alldownloads.rst:580
 msgid "QGIS Testing warning"
 msgstr "Waarschuwing voor QGIS Testing"
 
-#: ../../source/site/forusers/alldownloads.rst:445
+#: ../../source/site/forusers/alldownloads.rst:585
 msgid ""
 "QGIS testing packages are provided for some platforms in addition to the "
 "QGIS stable version. QGIS testing contains unreleased software that is "
@@ -777,16 +979,15 @@ msgid ""
 "have been warned!"
 msgstr "QGIS testpakketten worden voor sommige platformen in aanvulling op de stabiele versie van QGIS uitgebracht. testversie van QGIS bevat nog niet vrijgegeven software waaraan momenteel nog wordt gewerkt. Zij worden daarom niet ondersteund maar alleen beschikbaar gesteld voor testdoeleinden om te kijken of bugs zijn opgelost en er geen nieuwe bugs zijn ontstaan. Hoewel we zorgvuldig proberen beschadigingen te voorkomen, zouden deze versies slecht kunnen werken of uw gegevens kunnen beschadigen. Wees voorzichtig! U bent gewaarschuwd!"
 
-#: ../../source/site/forusers/alldownloads.rst:456
+#: ../../source/site/forusers/alldownloads.rst:596
 msgid "Installing from Source"
 msgstr "Installeren vanuit broncode"
 
-#: ../../source/site/forusers/alldownloads.rst:458
+#: ../../source/site/forusers/alldownloads.rst:598
 msgid ""
-"Refer to the `INSTALL guide "
-"<http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html>`_"
-" on how to build and install QGIS from source for the different platforms."
-msgstr "Bekijk de `INSTALL guide <http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html>`_ over hoe QGIS te bouwen en te installeren op verschillende platvormen, vanuit de broncode."
+"Refer to INSTALL_ on how to build and install QGIS from source for the "
+"different platforms."
+msgstr "Bekijk INSTALL_ om te zien hoe u QGIS vanuit de broncode kunt compileren voor de verschillende platforms."
 
 #~ msgid ""
 #~ msgstr ""
@@ -1191,4 +1392,452 @@ msgstr "Bekijk de `INSTALL guide <http://htmlpreview.github.io/?https://raw.gith
 #~ msgid ""
 #~ "QGIS testing builds (Nightly build) at http://qgis.dakotacarto.com are "
 #~ "provided by Dakota Cartography."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Latest release nightlies SHA: `32 bit "
+#~ "<http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-rel-"
+#~ "dev/LATEST.sha>`__, `64 bit "
+#~ "<http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-ltr-"
+#~ "dev/LATEST.sha>`__"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For Ubuntu we also have extra packages in a separate repository that are "
+#~ "based on `ubuntugis <https://launchpad.net/~ubuntugis>`_, which holds more "
+#~ "uptodate versions of other GIS packages than Ubuntu itself. If you want "
+#~ "those you also need to include ubuntugis ppa in your /etc/apt/sources.list "
+#~ "file (see `ubuntugis documentation "
+#~ "<https://trac.osgeo.org/ubuntugis/wiki/UbuntuGISRepository>`_)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The release packages are only produced once shortly after a new version has "
+#~ "been released.  As unstable, not yet released debian versions (testing) and "
+#~ "ubuntugis can have library changes the packages might sooner or later be "
+#~ "broken for these targets, when the development in debian, ubuntu or "
+#~ "ubuntugis moves on and their packages used as dependencies in qgis change.  "
+#~ "In that event you can either"
+#~ msgstr ""
+
+#~ msgid "Release with ubuntugis dependencies"
+#~ msgstr ""
+
+#~ msgid "Nightly build of upcoming point release with ubuntugis dependencies"
+#~ msgstr ""
+
+#~ msgid "Nightly build with ubuntugis dependencies"
+#~ msgstr ""
+
+#~ msgid "Also available based on ubuntugis dependencies?"
+#~ msgstr ""
+
+#~ msgid "3.0 and above only available with ubuntugis (plain xenial lacks GDAL2)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "There is an alternative repository for QGIS which provides new LTR versions "
+#~ "https://copr.fedorainfracloud.org/coprs/neteler/QGIS-2.14-Essen/ ::"
+#~ msgstr ""
+
+#~ msgid "For QGIS 2.18 use there is another repository ::"
+#~ msgstr ""
+
+#~ msgid "Installation instructions are in the ReadMe on the disk image."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The current QGIS package uses the `python.org Python 3.6 "
+#~ "<http://www.python.org/>`_ - other distributions are not supported. Install "
+#~ "packages in the numbered order.  Especially note that Python must be "
+#~ "installed before the GDAL Complete package, else the GDAL Python modules "
+#~ "will not be installed and some GDAL tools will not function."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "only with Qt >= 5.9 including Qt 3DExtras (the latter is currently not "
+#~ "included in Debian)"
+#~ msgstr ""
+
+#~ msgid "Example latest release for Debian jessie::"
+#~ msgstr ""
+
+#~ msgid "3.2"
+#~ msgstr ""
+
+#~ msgid "3.3"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS stable can be installed from an alternative repository. Python support "
+#~ "is strongly limited due to old dependencies. Note: It requires, that ELGIS "
+#~ "and EPEL are also installed. ::"
+#~ msgstr ""
+
+#~ msgid "Archlinux users are encouraged to use the Arch User Repository (AUR)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Information about available versions, bugs and archlinux specific "
+#~ "instructions can be found at: https://aur.archlinux.org/packages/?O=0&K=qgis"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Latest release nightlies SHA: `32 bit "
+#~ "<http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-rel-"
+#~ "dev/LATEST.sha>`__, `64 bit "
+#~ "<http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-rel-"
+#~ "dev/LATEST.sha>`__"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Latest long-term release nightlies SHA: `32 bit "
+#~ "<http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-ltr-"
+#~ "dev/LATEST.sha>`__, `64 bit "
+#~ "<http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-ltr-"
+#~ "dev/LATEST.sha>`__"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Master nightlies SHA: `32 bit "
+#~ "<http://download.osgeo.org/osgeo4w/x86/release/qgis/qgis-dev/LATEST.sha>`__,"
+#~ " `64 bit <http://download.osgeo.org/osgeo4w/x86_64/release/qgis/qgis-"
+#~ "dev/LATEST.sha>`__"
+#~ msgstr ""
+
+#~ msgid "8.x"
+#~ msgstr ""
+
+#~ msgid "jessie [4]_"
+#~ msgstr ""
+
+#~ msgid "stretch"
+#~ msgstr ""
+
+#~ msgid "18.04"
+#~ msgstr ""
+
+#~ msgid "17.10"
+#~ msgstr ""
+
+#~ msgid "artful"
+#~ msgstr ""
+
+#~ msgid "xenial [5]_"
+#~ msgstr ""
+
+#~ msgid "14.04 (LTS)"
+#~ msgstr ""
+
+#~ msgid "trusty [4]_"
+#~ msgstr ""
+
+#~ msgid "only up to 2.18 LTR"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "3.0 and above only available with ubuntugis-unstable (plain xenial lacks "
+#~ "GDAL2)"
+#~ msgstr ""
+
+#~ msgid "only with Qt >= 5.9"
+#~ msgstr ""
+
+#~ msgid "Example latest release for Debian stretch::"
+#~ msgstr ""
+
+#~ msgid "27"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This repository also provides a copy of SAGA compatible with QGIS 2.18. It "
+#~ "can be installed with the following commands::"
+#~ msgstr ""
+
+#~ msgid "SAGA version"
+#~ msgstr ""
+
+#~ msgid "2.18"
+#~ msgstr ""
+
+#~ msgid "2.3.1"
+#~ msgstr ""
+
+#~ msgid "3.5"
+#~ msgstr ""
+
+#~ msgid "3.6"
+#~ msgstr ""
+
+#~ msgid "3.7"
+#~ msgstr ""
+
+#~ msgid "To compile QGIS from binary packages type ::"
+#~ msgstr ""
+
+#~ msgid "To compile QGIS from sources in FreeBSD you need to type ::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Download OSGeo4W Installer (`32 bit <http://download.osgeo.org/osgeo4w"
+#~ "/osgeo4w-setup-x86.exe>`_ or `64 bit <http://download.osgeo.org/osgeo4w"
+#~ "/osgeo4w-setup-x86_64.exe>`_) and start it"
+#~ msgstr ""
+
+#~ msgid "18.10"
+#~ msgstr ""
+
+#~ msgid "cosmic"
+#~ msgstr ""
+
+#~ msgid "3.8"
+#~ msgstr ""
+
+#~ msgid "Qgis Long Term Release is available in AUR (Arch User Repository)."
+#~ msgstr ""
+
+#~ msgid "Qgis testing is available in AUR (Arch User Repository)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installation instructions are in the ReadMe on the disk image. Downloads are"
+#~ " on the QGIS download page."
+#~ msgstr ""
+
+#~ msgid "QGIS current"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The current QGIS package uses the `python.org Python 3.6 "
+#~ "<http://www.python.org/>`_, at least version 3.6.5, the \"macosx10.9\" build"
+#~ " - other distributions are not supported. Install packages in the numbered "
+#~ "order.  Especially note that Python must be installed before the GDAL "
+#~ "Complete package and QGIS, else the GDAL and other needed Python modules "
+#~ "will not be installed."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The stable package uses the system Python 2.7 - other distributions are not "
+#~ "supported. It also requires the NumPy and Matplotlib packages on the disk "
+#~ "image. Install packages in the numbered order. If an older major version is "
+#~ "being upgraded (2.16 or older), delete QGIS.app from your Applications "
+#~ "folder before installing this version."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Other Python modules for plugins to use are available from `kyngchaos.com "
+#~ "<http://www.kyngchaos.com/software/python>`_."
+#~ msgstr ""
+
+#~ msgid "Standalone Installer"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A standalone installer is available at `<https://lutraconsulting.github.io"
+#~ "/qgis-mac-packager/>`_."
+#~ msgstr ""
+
+#~ msgid "qgis-rel-dev [1]_"
+#~ msgstr ""
+
+#~ msgid "qgis-ltr-dev [2]_"
+#~ msgstr ""
+
+#~ msgid "qgis-dev [3]_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For Ubuntu we also have extra packages in a separate repository that are "
+#~ "based on `ubuntugis <https://launchpad.net/~ubuntugis>`_, which holds more "
+#~ "uptodate versions of other GIS packages than Ubuntu itself. If you want "
+#~ "those you also need to include ubuntugis-unstable ppa in your "
+#~ "/etc/apt/sources.list file (see `ubuntugis documentation "
+#~ "<https://trac.osgeo.org/ubuntugis/wiki/UbuntuGISRepository>`_)."
+#~ msgstr ""
+
+#~ msgid "Nightly build of upcoming point release for Debian and Ubuntu"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Nightly build of upcoming point release with ubuntugis-unstable dependencies"
+#~ msgstr ""
+
+#~ msgid "Nightly build with ubuntugis-unstable dependencies"
+#~ msgstr ""
+
+#~ msgid "with 3D [6]_"
+#~ msgstr ""
+
+#~ msgid "9.x"
+#~ msgstr ""
+
+#~ msgid "stretch [4]_"
+#~ msgstr ""
+
+#~ msgid "16.04 (LTS)"
+#~ msgstr ""
+
+#~ msgid "xenial [4]_ [5]_"
+#~ msgstr ""
+
+#~ msgid "only up to 3.4 (3.6 requires Qt 5.9 and above)"
+#~ msgstr ""
+
+#~ msgid "only with ubuntugis-unstable (3.4 requires GDAL2)"
+#~ msgstr ""
+
+#~ msgid "3D requires Qt 5.9 and above"
+#~ msgstr ""
+
+#~ msgid "with 3D"
+#~ msgstr ""
+
+#~ msgid "29"
+#~ msgstr ""
+
+#~ msgid "7.4"
+#~ msgstr ""
+
+#~ msgid "3.4"
+#~ msgstr ""
+
+#~ msgid "28"
+#~ msgstr ""
+
+#~ msgid "3.9"
+#~ msgstr ""
+
+#~ msgid "openSUSE"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Latest stable openSUSE package called qgis is available for 13.1, 13.2, "
+#~ "Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit).  Add the following "
+#~ "repository to your installation manager, where <VERSION> is for example "
+#~ "'openSUSE_Tumbleweed'. ::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Long Term Release package for openSUSE called qgis-ltr is available for "
+#~ "13.1, 13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and 64bit). Add the "
+#~ "following repository to your installation manager, where <VERSION> is for "
+#~ "example 'openSUSE_Tumbleweed'. ::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A regularly updated development package from qgis master called qgis-master "
+#~ "is available for 13.1, 13.2, Leap_42.1, Leap_42.2 and Tumbleweed (32 and "
+#~ "64bit). Add the following repository to your installation manager, where "
+#~ "<VERSION> is for example 'openSUSE_Tumbleweed'. ::"
+#~ msgstr ""
+
+#~ msgid "There is an experimental version available on google play store."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To have newer versions, you have to add alternative software repositories "
+#~ "based on the version you want to install (stable, LTR or testing)."
+#~ msgstr ""
+
+#~ msgid "30"
+#~ msgstr ""
+
+#~ msgid "3.12"
+#~ msgstr ""
+
+#~ msgid "rawhide"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Testing builds are updated on a weekly basis. More information are available"
+#~ " at https://copr.fedorainfracloud.org/coprs/dani/qgis-testing/"
+#~ msgstr ""
+
+#~ msgid "Packages on http://qgis.gotslack.org"
+#~ msgstr ""
+
+#~ msgid "There is an *experimental* QGIS flatpak for QGIS Stable available."
+#~ msgstr ""
+
+#~ msgid "Flathub files: https://github.com/flathub/org.qgis.qgis"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the 'advanced' section following this one, you will find ALL possible "
+#~ "options to install different versions of QGIS in different versions of "
+#~ "Ubuntu."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Here you will simply install the latest stable QGIS (|version|.x |codename|)"
+#~ " in your Ubuntu or Debian without having to edit config files."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Although you see 'Ubuntu' in some places, this also works for 'Debian', as "
+#~ "one is actually a symlink to the other on our server."
+#~ msgstr ""
+
+#~ msgid "Now, install QGIS!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Note: add 'qgis-server' to this line if you also want to install QGIS "
+#~ "Server::"
+#~ msgstr ""
+
+#~ msgid "Debian/Ubuntu (advanced)"
+#~ msgstr ""
+
+#~ msgid "build your own set of packages (see INSTALL_)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Alternatively you can download the key from a keyserver and add the key to "
+#~ "apt in one go (without manual fingerprint verification)::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This repository also provides a copy of SAGA 2.3.1 compatible with "
+#~ "Processing. It can be installed with the following commands::"
+#~ msgstr ""
+
+#~ msgid "30 (EOL)"
+#~ msgstr ""
+
+#~ msgid "3.14"
+#~ msgstr ""
+
+#~ msgid "7.6"
+#~ msgstr ""
+
+#~ msgid "QGIS testing (unstable)"
+#~ msgstr ""
+
+#~ msgid "3.13"
+#~ msgstr ""
+
+#~ msgid "7.68"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Testing builds are updated infrequently. More information are available at "
+#~ "https://copr.fedorainfracloud.org/coprs/dani/qgis-testing/"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Latest stable and LTR packages called qgis and qgis-ltr are available in the"
+#~ " following repositoies:"
+#~ msgstr ""
+
+#~ msgid "Leap 15.0::"
+#~ msgstr ""
+
+#~ msgid "All openSUSE Geo repositoties can be found here::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Refer to the `INSTALL guide "
+#~ "<http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html>`_"
+#~ " on how to build and install QGIS from source for the different platforms."
 #~ msgstr ""

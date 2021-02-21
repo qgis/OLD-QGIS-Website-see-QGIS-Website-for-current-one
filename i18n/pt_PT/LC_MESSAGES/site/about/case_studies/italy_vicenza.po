@@ -1,13 +1,15 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
+# João Gaspar <joao.f.r.gaspar@gmail.com>, 2019
+# Rui <xymarior@yandex.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 20:02+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2019-12-05 21:03+0000\n"
+"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,13 +36,13 @@ msgid ""
 "via PHP form using canonical web browser (Firefox, Iceweasel as well). In a "
 "second moment the shape of every building was draw with QGIS and linked to "
 "the survey table via id key field (PostgreSQL/Postgis view)."
-msgstr "Toda a informação dos edifícios foi recuperado através de levantamento e escrita numa agenda. Uma vez no escritório, os dados foram intriduzidos para a base de dados Postgresql/Postgis através uma um formulário PHP usando um navegador de internet (Firefox e também o Iceweasel). NUm segundo momento a shapefile de cada efifício foi desenhada com o QGIS e ligada à tabela de levantamento através da chave de campo id (vista PostgreSQL/Postgis) "
+msgstr "Toda a informação dos edifícios foi recuperado através de levantamento e escrita numa agenda. Uma vez no escritório, os dados foram introduzidos para a base de dados Postgresql/Postgis através uma um formulário PHP usando um navegador de internet (Firefox e também o Iceweasel). Num segundo momento a shapefile de cada edifício foi desenhada com o QGIS e ligada à tabela de levantamento através da chave de campo id (vista PostgreSQL/Postgis) "
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:21
 msgid ""
 "At the same time the facades of buildings were designed using QCAD "
 "(LibreCAD)."
-msgstr "Ao mesmo tempo as fachadas dos edifícios foram projectadas usando o QCAD (LibreCAD)."
+msgstr "Ao mesmo tempo as fachadas dos edifícios foram projetadas usando o QCAD (LibreCAD)."
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:23
 msgid ""
@@ -50,11 +52,11 @@ msgstr "O PDR (plano de recuperação) deve seguir regras restritas para adquiri
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:25
 msgid "Present state"
-msgstr "Estado Actual"
+msgstr "Estado atual"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:26
 msgid "Project state"
-msgstr "Estado do Projecto"
+msgstr "Estado do Projeto"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:27
 msgid "Intended use (present)"
@@ -62,7 +64,7 @@ msgstr "utilização pretendida (presente)"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:28
 msgid "Intended use (project)"
-msgstr "utilização pretendida (projecto)"
+msgstr "utilização pretendida (projeto)"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:29
 msgid "Type of intervention admitted"
@@ -70,7 +72,7 @@ msgstr "Tipo de intervenção admitida"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:40
 msgid "QGIS project with building data viewing"
-msgstr "Projecto QGIS com construção de visualização de dados"
+msgstr "Projeto QGIS com construção de visualização de dados"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:42
 msgid ""
@@ -78,7 +80,7 @@ msgid ""
 "libreoffice suite. The report consists in a schedule summarise with photo, "
 "cartography extract which localize the building in the contest and data of "
 "the present state."
-msgstr "Finalmente um relatório sintetizado para cada edifício foi produzido usando a ferramenta de produtividade libreoffice. O relatório consiste no sumário da tarefa com fotografia, extracto da cartografia que está localizada no edifício em concurso e a data do seu actual estado."
+msgstr "Finalmente um relatório sintetizado para cada edifício foi produzido usando a ferramenta de produtividade LibreOffice. O relatório consiste no sumário da tarefa com fotografia, extrato da cartografia que está localizada no edifício em concurso e a data do seu atual estado."
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:49
 msgid "QGIS print composer for final graphic layout"
@@ -124,7 +126,7 @@ msgid ""
 "graphics. For this purpose it has used QGIS in addition to "
 "Postgresql/Postgis database, PHP code and Libreoffice suite, QCAD "
 "(LibreCAD)."
-msgstr "Montecchio Maggiore é uma pequena cidade no centro-Oeste de Vicenza (cerca de 24.000 habitantes). Como muitos outros municípios italianos, este gere o planeamento da cidade; em particular o planeamento urbanístico e o que chamamos de \"plano de recuperação\" aka PDR - Piani Di Recupero. Esta ferramenta urbanística é dedicada à área histórica no centro da cidade e requer um estudo específico: o estado e conservação do edifício, intenção de uso, conhecimento específico histórico via levantamento e restituição para produzir planimetria e prospecção gráfica. Para este fim, é usado o QGIS com a adição de base de dados Postgresql/Postgis, código PHP, ferramenta de produtividade Libreoffice e QCAD (LibreCAD)."
+msgstr "Montecchio Maggiore é uma pequena cidade no centro-Oeste de Vicenza (cerca de 24.000 habitantes). Como muitos outros municípios italianos, este gere o planeamento da cidade; em particular o planeamento urbanístico e o que chamamos de \"plano de recuperação\" aka PDR - Piani Di Recupero. Esta ferramenta urbanística é dedicada à área histórica no centro da cidade e requer um estudo específico: o estado e conservação do edifício, intenção de uso, conhecimento específico histórico via levantamento e restituição para produzir planimetria e prospeção gráfica. Para este fim, é usado o QGIS com a adição de base de dados Postgresql/Postgis, código PHP, ferramenta de produtividade Libreoffice e QCAD (LibreCAD)."
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:31
 msgid ""
@@ -143,7 +145,7 @@ msgid ""
 "percentage of the total planning area and other minor queries. All useful "
 "items for the design and planning study otherwise not possible without a "
 "very strength tool like gis (and QGIS in particular)."
-msgstr "De seguida, uma foto foi ligada a cada edifício para facilitar o design e análise do projecto sig (usando o recurso da \"acção\"). As ferramentas SQL (pgquery, postgismanager, dbmanager entre outros) permitiram obter uma interrogação sofisticada e imediata na visualização do enquadramento do mapa assim como: cálculo do volume dividido pela construção de uso pretendido, cálculo de área padrão em percentagem da área total planeamento e outras interrogações menores. Todos os itens úteis para o planeamento da concepção e estudo não eram possível sem uma ferramenta forte como o sig (e o QGIS em particular)."
+msgstr "De seguida, uma foto foi ligada a cada edifício para facilitar o design e análise do projeto SIG (usando o recurso da \"ação\"). As ferramentas SQL (pgquery, postgismanager, dbmanager entre outros) permitiram obter uma interrogação sofisticada e imediata na visualização do enquadramento do mapa assim como: cálculo do volume dividido pela construção de uso pretendido, cálculo de área padrão em percentagem da área total planeamento e outras interrogações menores. Todos os itens úteis para o planeamento da conceção e estudo não eram possível sem uma ferramenta forte como o SIG (e o QGIS em particular)."
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:54
 msgid ""

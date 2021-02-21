@@ -1,8 +1,9 @@
 # 
 # Translators:
-# Yasuto Furukawa <furushare@gmail.com>, 2014
-# Kayama Yoichi <yoichi.kayama@gmail.com>, 2014
-# Kohei Tomita <fairtommy@gmail.com>, 2017
+# fairtommy <fairtommy@gmail.com>, 2018-2019
+# 古川 泰人, 2014
+# Kayama Yoichi <yoichi.kayama@gmail.com>, 2014,2018-2019
+# fairtommy <fairtommy@gmail.com>, 2017-2018
 # Satoshi IIDA <nyampire@gmail.com>, 2014
 # Richard Duivenvoorde <richard@duif.net>, 2016
 msgid ""
@@ -10,8 +11,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-11-14 05:12+0000\n"
-"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"PO-Revision-Date: 2019-12-13 08:25+0000\n"
+"Last-Translator: Kayama Yoichi <yoichi.kayama@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +28,7 @@ msgstr "メーリングリスト"
 msgid ""
 "QGIS has a bunch of mailing lists. See :ref:`QGIS-mailinglists` for the "
 "different available lists."
-msgstr "QGISは多くのメーリングリストがあります.  :ref:`QGIS-mailinglists`　を参照して様々な利用可能なリストを探して下さい."
+msgstr "QGISは多くのメーリングリストがあります。 :ref:`QGISメーリングリスト` を参照して様々な利用可能リストを探して下さい。"
 
 #: ../../source/site/forusers/support.rst:12
 msgid ""
@@ -91,7 +92,7 @@ msgid ""
 " Google+). Usage of social media is recommended but should not be the only "
 "channel of information. RSS feeds should be made available at the Website of"
 " the QGIS user group."
-msgstr "ウェブサイトは、ユーザー・グループの情報や管理に関連して任意の材料を公開するために使用する必要があります。例としては、ユーザーミーティング、ケーススタディなどを共有材料、ディスカッションボード、ログイン要件なしで利用可能であるべき公共の材料を（例えばFacebookやGoogle +などのソーシャルメディアネットワークのメンバーに興味がある人を必要としない）があります。ソーシャルメディアの利用が推奨されますが、情報の唯一のチャネルではありません。RSSフィードはQGISのユーザー・グループのウェブサイトで利用できるようにすべきです。 "
+msgstr "ウェブサイトは、ユーザー・グループの情報や管理に関連する何らかの材料を公開するために使用してください。例としては、ユーザーミーティング、ケーススタディ、共有材料、ディスカッションボード、など。公共の材料はログイン要件なしで利用可能にしてください（例えば、興味を持った人がFacebookやGoogle+などのソーシャルメディアネットワークのメンバーになることを必要としない）。ソーシャルメディアの利用は推奨されますが、唯一の情報のチャネルではありません。RSSフィードはQGISのユーザー・グループのウェブサイトで利用できるようにすべきです。 "
 
 #: ../../source/site/forusers/support.rst:65
 msgid ""
@@ -99,7 +100,7 @@ msgid ""
 "international QGIS team by registering at the QGIS community list and "
 "reporting about your progress. Please do not hesitate to ask questions "
 "regarding the establishment and maintenance of your local user group."
-msgstr "ローカルユーザーグループの組織との幸運。QGISコミュニティリストに登録し、進捗状況について報告することにより、国際QGISチームにお知らせください。ローカルユーザーグループの確立と維持に関する質問をすることを躊躇しないでください。"
+msgstr "ローカルユーザーグループの組織がうまくいきますよう。QGISコミュニティリストに登録し、進捗状況について報告することによって、国際QGISチームにお知らせください。ローカルユーザーグループの確立と維持に関して遠慮なくご質問ください。"
 
 #: ../../source/site/forusers/support.rst:74
 msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
@@ -120,7 +121,7 @@ msgstr "QGISはフォーラムを持っていません。StackExchange内（下�
 msgid ""
 "For non-english, note that there also exist local forums that have a "
 "dedicated section for QGIS you may need to search in."
-msgstr "英語以外の場合、検索する必要があるかもしれないQGISのための専用のセクションを持っている地元のフォーラムも存在することに注意してください。"
+msgstr "英語以外の場合QGISのための専用のセクションを持っている地元のフォーラムも存在することに注意してください。それらは検索する必要があるでしょう。"
 
 #: ../../source/site/forusers/support.rst:29
 msgid ""
@@ -135,7 +136,7 @@ msgid ""
 "http://webchat.freenode.net/?channels=#qgis If you missed a discussion on "
 "IRC, not a problem! We log all discussion, so you can easily catch up. Just "
 "go to https://qgis.org/irclogs."
-msgstr "freenode.net 上に #qgis チャネルがあります。Webインタフェースを使用できます： http://webchat.freenode.net/?channels=#qgis 。IRC上の議論を逃した場合、問題ありません！すべての議論を記録していますので、あなたは簡単に追いつくことができます。 https://qgis.org/irclogs に行くだけです。"
+msgstr "freenode.net 上に #qgis チャネルがあります。Webインタフェースも使用できます： http://webchat.freenode.net/?channels=#qgis 。IRC上の議論を見逃しても問題ありません！すべての議論の記録を残していますので、簡単に追いつくことができます。 https://qgis.org/irclogs に行くだけです。"
 
 #: ../../source/site/forusers/support.rst:48
 msgid "Local QGIS user groups are a great place to meet other users."
@@ -150,7 +151,7 @@ msgid ""
 "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
 "you see there is a QGIS section also, where you can do a search over all "
 "QGIS lists, or refine it to e.g. only the users list."
-msgstr "それのOSGEOセクション http://osgeo-org.1560.x6.nabble.com/ に移動した場合、あなたはQGISセクションもあるとわかる、そこではすべてのQGISリストの上に検索を行う、またはそれを絞り込むことができます、例えばユーザーリストのみに。"
+msgstr "それのOSGEOセクション http://osgeo-org.1560.x6.nabble.com/ に移動した場合、そこにQGISセクションも見つけられます。例えばユーザリストを使ってみるとQGISリストの検索を行ったり、絞り込みを行うことができます。"
 
 #~ msgid ""
 #~ "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "

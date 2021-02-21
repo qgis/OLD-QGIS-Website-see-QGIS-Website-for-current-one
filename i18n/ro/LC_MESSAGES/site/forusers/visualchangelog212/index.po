@@ -1,13 +1,13 @@
 # 
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2016
-# Sorin Călinică <scalinica@gmail.com>, 2015-2016,2019
+# Sorin Călinică <scalinica@gmail.com>, 2015-2016,2019-2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-08 11:00+0200\n"
-"PO-Revision-Date: 2019-09-25 17:25+0000\n"
+"PO-Revision-Date: 2020-07-10 08:31+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -255,7 +255,7 @@ msgstr "Generalități"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:120
 msgid "Feature: New welcome screen"
-msgstr "Caracteristică: Un nou ecran de întâmpinare"
+msgstr "Funcționalitate: Un nou ecran de întâmpinare"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:122
 msgid ""
@@ -276,7 +276,7 @@ msgstr "|image11|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:132
 msgid "Feature: Ongoing improvements to code quality"
-msgstr "Caracteristică:  Îmbunătățiri aduse calității codului"
+msgstr "Funcționalitate:  Îmbunătățiri aduse calității codului"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:134
 msgid ""
@@ -297,7 +297,7 @@ msgstr "|image12|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:147
 msgid "Feature: Advanced settings editor"
-msgstr "Caracteristică: Editor de setări avansat"
+msgstr "Funcționalitate: Editor de setări avansat"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:149
 msgid ""
@@ -322,7 +322,7 @@ msgstr "|image13|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:160
 msgid "Feature: Mutually exclusive layer tree groups"
-msgstr "Caracteristică: Grupuri cu Excludere Reciprocă în Arborele Straturilor"
+msgstr "Funcționalitate: Grupuri cu Excludere Reciprocă în Arborele Straturilor"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:162
 msgid ""
@@ -354,7 +354,7 @@ msgstr "|image14|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:173
 msgid "Feature: Filtering for field values in expression widget"
-msgstr "Caracteristică: Filtrarea valorilor din câmpuri, în widget-ul de expresii"
+msgstr "Funcționalitate: Filtrarea valorilor din câmpuri, în widget-ul de expresii"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:175
 msgid ""
@@ -372,7 +372,7 @@ msgstr "|image15|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:183
 msgid "Feature: User Interface Theme support"
-msgstr "Caracteristică: Suport pentru Interfețe cu Utilizatorul personalizabile"
+msgstr "Funcționalitate: Suport pentru Interfețe cu Utilizatorul personalizabile"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:185
 msgid ""
@@ -405,7 +405,7 @@ msgstr "|image16|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:200
 msgid "Feature: New expression functions in 2.12"
-msgstr "Caracteristică: Noi funcții pentru expresii în 2.12"
+msgstr "Funcționalitate: Noi funcții pentru expresii în 2.12"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:202
 msgid ""
@@ -490,7 +490,7 @@ msgstr "|image17|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:244
 msgid "Feature: Variables in expressions"
-msgstr "Caracteristică: Variabile în expresii"
+msgstr "Funcționalitate: Variabile în expresii"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:246
 msgid ""
@@ -559,7 +559,7 @@ msgstr "Instrumentele de analiză"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:275
 msgid "Feature: Added number of vertices to derived fields in identify tool"
-msgstr "Caracteristică: Numărul de vertecși este adăugat la câmpurile derivate, în instrumentul de identificare"
+msgstr "Funcționalitate: Numărul de vertecși este adăugat la câmpurile derivate, în instrumentul de identificare"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:277
 msgid ""
@@ -569,7 +569,7 @@ msgstr "Folosind instrumentul de identificare pe o entitate de tip linie, veți 
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:281
 msgid "Feature: Raster alignment tool"
-msgstr "Caracteristică: Instrument pentru alinierea rasterelor"
+msgstr "Funcționalitate: Instrument pentru alinierea rasterelor"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:283
 msgid ""
@@ -612,7 +612,7 @@ msgstr "|image2|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:298
 msgid "Feature: Geometry Checker and Geometry Snapper plugins"
-msgstr "Caracteristică: Plugin-urile de Verificare a Geometriei și de Acroșare a Geometriei"
+msgstr "Funcționalitate: Plugin-urile de Verificare a Geometriei și de Acroșare a Geometriei"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:300
 msgid ""
@@ -655,7 +655,7 @@ msgstr "Opțiunile Aplicației și ale Proiectului"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:325
 msgid "Feature: Encrypted password management"
-msgstr "Caracteristică: Managementul parolelor criptate"
+msgstr "Funcționalitate: Managementul parolelor criptate"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:327
 msgid ""
@@ -758,7 +758,7 @@ msgid ""
 "**Note:** for Server, you can also use QGIS\\_AUTH\\_DB\\_DIR\\_PATH to set "
 "the path to a qgis-auth.db directory and QGIS\\_AUTH\\_PASSWORD\\_FILE to "
 "set the path to a file with the master password on the server."
-msgstr "**Notă:** pentru Server, se pot folosi, de asemenea, QGIS\\_AUTH\\_DB\\_DIR\\_PATH pentru a seta calea către un director qgis-auth.db, și QGIS\\_AUTH\\_PASSWORD\\_FILE pentru a seta calea către un fișier cu parola master, de pe server."
+msgstr "**Observație:** pentru Server, se pot folosi, de asemenea, QGIS\\_AUTH\\_DB\\_DIR\\_PATH pentru a seta calea către un director qgis-auth.db, și QGIS\\_AUTH\\_PASSWORD\\_FILE pentru a seta calea către un fișier cu parola master, de pe server."
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:377
 msgid ""
@@ -786,7 +786,7 @@ msgstr "Navigatorul"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:390
 msgid "Feature: Improvements to PostGIS connections in browser"
-msgstr "Caracteristică: Îmbunătățiri aduse conexiunilor PostGIS din navigator"
+msgstr "Funcționalitate: Îmbunătățiri aduse conexiunilor PostGIS din navigator"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:392
 msgid ""
@@ -812,7 +812,7 @@ msgstr "Furnizorii de date"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:407
 msgid "Feature: PostGIS provider improvements"
-msgstr "Caracteristică: Îmbunătățiri aduse furnizorului PostGIS"
+msgstr "Funcționalitate: Îmbunătățiri aduse furnizorului PostGIS"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:409
 msgid "The following improvements were made to the PostGIS provider:"
@@ -842,7 +842,7 @@ msgstr "Gestiunea datelor"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:422
 msgid "Feature: DBManager Improvements"
-msgstr "Caracteristică: Îmbunătățiri în DBManager"
+msgstr "Funcționalitate: Îmbunătățiri în DBManager"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:424
 msgid "There have been a number of improvements to the DB Manager tool:"
@@ -876,7 +876,7 @@ msgstr "|image7|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:438
 msgid "Feature: Conditional formatting for attribute table cells"
-msgstr "Caracteristică: Formatări condiționale pentru celulele tabelelor cu atribute"
+msgstr "Funcționalitate: Formatări condiționale pentru celulele tabelelor cu atribute"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:440
 msgid ""
@@ -895,7 +895,7 @@ msgstr "|image8|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:454
 msgid "Feature: Support for relative paths in widgets"
-msgstr "Caracteristică: Suport pentru căile relative ale widget-urilor"
+msgstr "Funcționalitate: Suport pentru căile relative ale widget-urilor"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:456
 msgid "For the following edit widget types:"
@@ -935,7 +935,7 @@ msgstr "Digitizarea"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:477
 msgid "Feature: Digitising improvements"
-msgstr "Caracteristică:  Îmbunătățiri aduse digitizării"
+msgstr "Funcționalitate:  Îmbunătățiri aduse digitizării"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:479
 msgid ""
@@ -989,7 +989,7 @@ msgstr "Etichetarea"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:507
 msgid "Feature: Data defined quadrant when in \"around point\" mode"
-msgstr "Caracteristică: Cvadrant definit cu ajutorul datelor, în modul \"din jurul punctului\""
+msgstr "Funcționalitate: Cvadrant definit cu ajutorul datelor, în modul \"din jurul punctului\""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:509
 msgid ""
@@ -1013,7 +1013,7 @@ msgstr "|image19|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:523
 msgid "Feature: Draw only labels which fit inside polygons"
-msgstr "Caracteristică: Desenarea doar a etichetelor care se potrivesc în interiorul poligoanelor"
+msgstr "Funcționalitate: Desenarea doar a etichetelor care se potrivesc în interiorul poligoanelor"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:525
 msgid ""
@@ -1027,7 +1027,7 @@ msgstr "|image20|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:533
 msgid "Feature: Control priority of labeling obstacles"
-msgstr "Caracteristică: Prioritate de control a obstacolelor de etichetare"
+msgstr "Funcționalitate: Prioritate de control a obstacolelor de etichetare"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:535
 msgid ""
@@ -1045,7 +1045,7 @@ msgstr "|image21|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:547
 msgid "Feature: New options to control how polygon layers act as obstacles"
-msgstr "Caracteristică: Noi opțiuni pentru controlul modului în care straturile poligonale pot acționa ca obstacole"
+msgstr "Funcționalitate: Noi opțiuni pentru controlul modului în care straturile poligonale pot acționa ca obstacole"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:549
 msgid ""
@@ -1065,7 +1065,7 @@ msgstr "|image22|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:568
 msgid "Feature: Data defined control over label priority"
-msgstr "Caracteristică: Control definit cu ajutorul datelor, pentru prioritatea etichetelor"
+msgstr "Funcționalitate: Control definit cu ajutorul datelor, pentru prioritatea etichetelor"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:570
 msgid ""
@@ -1088,7 +1088,7 @@ msgstr "|image23|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:586
 msgid "Feature: Option for obstacle-only layers"
-msgstr "Caracteristică: Opțiuni doar pentru straturile obstacol"
+msgstr "Funcționalitate: Opțiuni doar pentru straturile obstacol"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:588
 msgid ""
@@ -1122,7 +1122,7 @@ msgstr "|image24|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:615
 msgid "Feature: Rule-based labeling"
-msgstr "Caracteristică: Etichetare bazată pe reguli"
+msgstr "Funcționalitate: Etichetare bazată pe reguli"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:617
 msgid ""
@@ -1172,7 +1172,7 @@ msgstr "|image26|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:653
 msgid "Feature: Custom format for grid annotations"
-msgstr "Caracteristică: Format personalizat pentru adnotările grilelor"
+msgstr "Funcționalitate: Format personalizat pentru adnotările grilelor"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:655
 msgid ""
@@ -1189,7 +1189,7 @@ msgstr "|image27|"
 msgid ""
 "Feature: Multiline text handling and automatic text wrapping in composer "
 "attribute tables"
-msgstr "Caracteristică: Manipularea textului multilinie, și împachetare automată a textului, în tabelele de atribute ale compozitorului"
+msgstr "Funcționalitate: Manipularea textului multilinie, și împachetare automată a textului, în tabelele de atribute ale compozitorului"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:666
 msgid ""
@@ -1214,7 +1214,7 @@ msgstr "|image28|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:680
 msgid "Feature: Advanced customisation of cell background color"
-msgstr "Caracteristică: Personalizare avansată a culorii de fundal din celule"
+msgstr "Funcționalitate: Personalizare avansată a culorii de fundal din celule"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:682
 msgid ""
@@ -1241,7 +1241,7 @@ msgstr "|image29|"
 msgid ""
 "Feature: Add fit page to contents option and options for cropping exports to"
 " contents"
-msgstr "Caracteristică: S-a adăugat o opțiune de potrivire a conținutului la pagină, și opțiuni de decupare a exporturilor după conținut"
+msgstr "Funcționalitate: S-a adăugat o opțiune de potrivire a conținutului la pagină, și opțiuni de decupare a exporturilor după conținut"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:695
 msgid ""
@@ -1283,7 +1283,7 @@ msgstr "|image30|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:719
 msgid "Feature: Force vector layers to render as a raster images"
-msgstr "Caracteristică: Forțarea randării straturilor vectoriale ca imagini raster"
+msgstr "Funcționalitate: Forțarea randării straturilor vectoriale ca imagini raster"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:721
 msgid ""
@@ -1304,7 +1304,7 @@ msgstr "|image31|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:736
 msgid "Feature: Data defined control over map layers and style presets"
-msgstr "Caracteristică: Control definit cu ajutorul datelor, pentru straturile hărții și pentru presetările stilului"
+msgstr "Funcționalitate: Control definit cu ajutorul datelor, pentru straturile hărții și pentru presetările stilului"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:738
 msgid ""
@@ -1330,7 +1330,7 @@ msgstr "|image32|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:757
 msgid "Feature: Option to hide pages from view/export"
-msgstr "Caracteristică: Opțiune de a ascunde paginile din vizualizare/export"
+msgstr "Funcționalitate: Opțiune de a ascunde paginile din vizualizare/export"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:759
 msgid ""
@@ -1410,7 +1410,7 @@ msgstr "Programabilitatea"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:803
 msgid "Feature: Map tools moved from app->gui"
-msgstr "Caracteristică: Instrumentele specifice hărții au fost mutate din app->gui"
+msgstr "Funcționalitate: Instrumentele specifice hărții au fost mutate din app->gui"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:805
 msgid ""
@@ -1424,7 +1424,7 @@ msgstr "**Această funcționalitate a fost finanțată de:** `SIGE <http://www.s
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:813
 msgid "Feature: Editing layers via \\`with edit(layer):\\`"
-msgstr "Caracteristică: Editare straturi prin intermediul \\`with edit(layer):\\`"
+msgstr "Funcționalitate: Editare straturi prin intermediul \\`with edit(layer):\\`"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:815
 msgid "Example:"
@@ -1438,7 +1438,7 @@ msgstr "Aceasta va apela în mod automat commitChanges() la final. Dacă nu apar
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:832
 msgid "Feature: New API for labeling engine (QgsLabelingEngineV2)"
-msgstr "Caracteristică: Un nou API pentru motorul de etichetare (QgsLabelingEngineV2)"
+msgstr "Funcționalitate: Un nou API pentru motorul de etichetare (QgsLabelingEngineV2)"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:834
 msgid ""
@@ -1468,7 +1468,7 @@ msgstr "ușurarea auto-testării motorului de etichetare și a componentelor sal
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:849
 msgid "Feature: Open scripts in external editor"
-msgstr "Caracteristică: Deschidere script-uri într-un editor extern"
+msgstr "Funcționalitate: Deschidere script-uri într-un editor extern"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:851
 msgid ""
@@ -1482,7 +1482,7 @@ msgstr "|image34|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:859
 msgid "Feature: New classes for PyQGIS programs"
-msgstr "Caracteristică: Noi clase pentru programele PyQGIS"
+msgstr "Funcționalitate: Noi clase pentru programele PyQGIS"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:861
 msgid ""
@@ -1500,7 +1500,7 @@ msgstr "QGIS Server"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:874
 msgid "Feature: QGIS Server Python API"
-msgstr "Caracteristică: API Python pentru Serverul QGIS"
+msgstr "Funcționalitate: API Python pentru Serverul QGIS"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:876
 msgid ""
@@ -1524,7 +1524,7 @@ msgstr "**Această funcționalitate a fost dezvoltată și finanțată de:** Ale
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:891
 msgid "Feature: getMap in dxf format"
-msgstr "Caracteristică: getMap în format dxf"
+msgstr "Funcționalitate: getMap în format dxf"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:893
 msgid ""
@@ -1620,7 +1620,7 @@ msgstr "Simbologie"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:930
 msgid "Feature: Export thumbnails from style manager"
-msgstr "Caracteristică: Export de miniaturi din managerul de stiluri"
+msgstr "Funcționalitate: Export de miniaturi din managerul de stiluri"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:932
 msgid ""
@@ -1634,7 +1634,7 @@ msgstr "|image36|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:940
 msgid "Feature: New option for limiting size in mm when using map unit sizes"
-msgstr "Caracteristică: O nouă opțiune pentru a limita dimensiunea, în mm, la utilizarea unităților de mărime ale hărții"
+msgstr "Funcționalitate: O nouă opțiune pentru a limita dimensiunea, în mm, la utilizarea unităților de mărime ale hărții"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:942
 msgid ""
@@ -1649,7 +1649,7 @@ msgstr "|image37|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:949
 msgid "Feature: Improvements to displacement renderer"
-msgstr "Caracteristică:  Îmbunătățiri aduse renderului de deplasare"
+msgstr "Funcționalitate:  Îmbunătățiri aduse renderului de deplasare"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:951
 msgid "Allow tolerance in mm/pixels for displacement renderer"
@@ -1671,7 +1671,7 @@ msgstr "|image38|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:961
 msgid "Feature: All color ramps can now be edited"
-msgstr "Caracteristică: Toate gamele de culori pot fi de acum editate"
+msgstr "Funcționalitate: Toate gamele de culori pot fi de acum editate"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:963
 msgid ""
@@ -1686,7 +1686,7 @@ msgstr "|image39|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:970
 msgid "Feature: Improved handling of SVG marker outlines"
-msgstr "Caracteristică: Gestionare îmbunătățită a contururilor simbolurilor SVG"
+msgstr "Funcționalitate: Gestionare îmbunătățită a contururilor simbolurilor SVG"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:972
 msgid ""
@@ -1715,7 +1715,7 @@ msgstr "|image40|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:987
 msgid "Feature: Add pixels as option for all symbology size unit choices"
-msgstr "Caracteristică: S-au adăugat pixelii ca opțiune pentru toate unitățile de mărime pentru simbologie"
+msgstr "Funcționalitate: S-au adăugat pixelii ca opțiune pentru toate unitățile de mărime pentru simbologie"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:989
 msgid ""

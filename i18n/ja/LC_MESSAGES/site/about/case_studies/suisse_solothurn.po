@@ -1,13 +1,14 @@
 # 
 # Translators:
-# Kohei Tomita <fairtommy@gmail.com>, 2017
+# fairtommy <fairtommy@gmail.com>, 2019
+# fairtommy <fairtommy@gmail.com>, 2017-2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-12-04 03:45+0000\n"
-"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"PO-Revision-Date: 2019-07-12 05:29+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +18,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:16
 msgid "The decision was driven by the following aspects:"
-msgstr "The decision was driven by the following aspects:"
+msgstr "この決定は以下の側面によって推進されました："
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:18
 msgid ""
@@ -39,13 +40,13 @@ msgstr "ドイツ語で書かれた文書"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:22
 msgid "An Active developer (Marco Hugentobler) near Solothurn in Switzerland."
-msgstr "スイスのソロトゥルン近くのアクティブな開発者（Marco Hugentobler）。"
+msgstr "スイスのゾロトゥルン近くのアクティブな開発者（Marco Hugentobler）。"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:23
 msgid ""
 "We could contract Marco Hugentobler to implement missing / lacking features "
 "like Digitizing and Mapcomposing."
-msgstr "私たちは、デジタイザや地図作成のような欠けている/欠けている機能を実装するためにMarco Hugentoblerに契約することができました。"
+msgstr "私たちは、デジタイザや地図作成などの不足している機能を実装するためにMarco Hugentoblerと契約することができました。"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:24
 msgid "Application and Plugin developement with Python"
@@ -69,11 +70,11 @@ msgstr "どこでQGISを使うのですか？"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:43
 msgid "\"SO!GIS Layer\" plugin developed at the Canton of Solothurn"
-msgstr "ゾーロトゥルンのカントンで開発された \"SO！GIS Layer\"プラグイン"
+msgstr "ゾロトゥルン州で開発された \"SO！GIS Layer\"プラグイン"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:53
 msgid "\"SO!GIS Suche\" plugin developed at the Canton of Solothurn"
-msgstr "ソロトゥルンの広州で開発された \"SO！GIS Suche\"プラグイン"
+msgstr "ゾロトゥルン州で開発された \"SO！GIS Suche\"プラグイン"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:60
 msgid "Conclusion"
@@ -108,13 +109,13 @@ msgid ""
 "This article was contributed in May 2009 by Dr. Horst Düster. He is GIS "
 "coordinator at the Department of Geoinformation in the Canton of Solothurn, "
 "Switzerland."
-msgstr "この記事はHorstDüster博士が2009年5月に寄稿しました。スイスのゾーロトゥルン州の地理情報学部のGISコーディネーターです。"
+msgstr "この記事はホルストデュスター博士が2009年5月に寄稿しました。氏はスイスのゾロトゥルン州の地理情報部のGISコーディネーターです。"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:3
 msgid ""
 "QGIS in the governmental FOSSGIS stack of the Canton of Solothurn in "
 "Switzerland"
-msgstr "スイスのゾーロトゥルン公国の政府のFOSSGISスタックにおけるQGIS"
+msgstr "スイスのゾロトゥルン州の政府FOSSGISスタックにおけるQGIS"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:10
 msgid ""
@@ -124,7 +125,7 @@ msgid ""
 "particular vendor, to encourage free enterprise and reduce license costs. As"
 " a result SO!GIS department of the Canton of Solothurn started to deliver "
 "the GIS-requirements of more than 3500 employees with a FOSSGIS strategy."
-msgstr "ゾロトゥルン州ゾロトゥルン25万人の市民へのサービスおよびインフラストラクチャを提供します。2001年に州議会は、WindowsからLinuxへ移行することを決めました。動機は自由企業を奨励し、ライセンスコストを削減するために、ある特定のベンダーから独立しているようにしました。その結果、SO！ゾロトゥルン州のGIS部門はFOSSGIS戦略超える3500人の従業員のGIS-要件を実現するために始めました。"
+msgstr "ゾロトゥルン州では25万人のゾロトゥルン市民へのサービスおよびインフラストラクチャを提供します。2001年に州議会は、WindowsからLinuxへ移行することを決めました。動機は自由企業を奨励し、ライセンスコストを削減するために、ある特定のベンダーから独立しているようにしました。その結果、SO！ゾロトゥルン州のGIS部門はFOSSGIS戦略超える3500人の従業員のGIS-要件を実現するために始めました。"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:12
 msgid ""
@@ -134,7 +135,7 @@ msgid ""
 " data from Shapefiles to the PostGIS spatial database engine. The "
 "introduction was very successful, but an easy to use desktop GIS was "
 "lacking."
-msgstr "私たちが取った最初のステップは、UMNのMapServerの導入およびすべての3500人の従業員のためのWebGISのクライアントを使用して簡単に提供していますSO！MAPクライアントの作成でした。第二段階は、PostGISの空間データベースエンジンへのシェープファイルからのすべての私達の地理空間データの移行でした。導入は非常に成功しましたが、使いやすいデスクトップGISは欠けていました。"
+msgstr "私たちが取った第一の段階は、UMNのMapServerの導入およびすべての3500人の従業員のためのWebGISのクライアントを使用して簡単に提供していますSO!MAPクライアントの作成でした。第二の段階は、PostGISの空間データベースエンジンへのシェープファイルからのすべての私達の地理空間データの移行でした。導入は非常に成功しましたが、使いやすいデスクトップGISがありませんでした。"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:14
 msgid ""
@@ -159,14 +160,14 @@ msgid ""
 "our spatial database, offering the users a raw connection to the PostGIS DB "
 "was not an option. We have a metadata database that stores the descriptions "
 "of all production data called 'SO!DATA'."
-msgstr "最も重要なデスクトップGISの問題の一つは質問です：「どのように私は私が必要とPostGISの地理データリポジトリから情報を得るのですか？」。私たちのエンドユーザーがユーザーを提供し、データモデルと私たちの空間データベースの下にある構造に慣れていないので、PostGISのDBへの生の接続はオプションではありませんでした。私たちは、「SO！DATA」と呼ばれる、すべての生産データの記述を格納するメタデータのデータベースを持っています。"
+msgstr "最も重要なデスクトップGISの問題の一つはこの質問です：「どのように私が必要とするPostGISの地理データリポジトリから情報を得るのですか？」。私たちのエンドユーザーがユーザーを提供し、データモデルと私たちの空間データベースの下にある構造に慣れていないので、PostGISのDBへ生で接続するのは選択肢に入りませんでした。私たちは、「SO！DATA」と呼ばれる、すべての生産データの記述を格納するメタデータのデータベースを持っています。"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:36
 msgid ""
 "SO!DATA contains a human readable inventory of the data models and the non-"
 "GIS-Expert user is able to use this database to discover the information "
 "they need."
-msgstr "SO！DATAは人間可読データモデルの在庫と非GIS-エキスパートユーザーは、彼らが必要とする情報を発見するために、このデータベースを使用することができますが含まれています。"
+msgstr "SO！DATAは人間可読データモデルの在庫が含まれており、非GIS-エキスパートユーザーは彼らが必要とする情報を発見するためにこのデータベースを使用できます。"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:45
 msgid ""
@@ -178,7 +179,7 @@ msgid ""
 "find the data layers they need. With this infrastructure in place, our users"
 " are happy --- they can prepare for geoprocessing, editing and map composing"
 " in an individual way."
-msgstr "エンドユーザーは、PostGISの接続とテーブルの選択ダイアログと直接対話する必要性を除去するには、プラグインはPythonで開発されました。プラグインは、「SO！GISレイヤ」と呼ばれている（図1を参照）。プラグインは、SO！GISのPostGISのリポジトリに接続しているSO！データから公開されたすべての地理空間データレイヤの情報を取得し、彼らが必要とするデータ層を見つけるために、ユーザーにGUIを提供しています。代わりにこのインフラストラクチャでは、ユーザーの皆様は、彼らがジオプロセシング、編集、個々の方法で構成するマップの準備をすることができます---幸せです。"
+msgstr "エンドユーザーは、PostGISの接続とテーブルの選択ダイアログと直接対話する必要性を除去するには、プラグインはPythonで開発されました。プラグインは、「SO！GISレイヤー」と呼ばれている（図1を参照）。プラグインは、SO！GISのPostGISのリポジトリに接続しているSO！データから公開されたすべての地理空間データレイヤーの情報を取得し、彼らが必要とするデータレイヤーを見つけるために、ユーザーにGUIを提供しています。代わりにこのインフラストラクチャでは、ユーザーの皆様は、彼らがジオプロセシング、編集、個々の方法で構成する地図の準備をすることができます---幸せです。"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:55
 msgid ""
@@ -195,7 +196,7 @@ msgid ""
 "development plugins cover topics  such as nature reserves, soil "
 "conservation, cadastral data verification, crisis management, abandoned "
 "sites and so on."
-msgstr "現時点では他の多くのプラグインを開発中です。これらは、異なるプロジェクトのためのデータ操作、解​​析またはマッピングをサポートします。当社の開発中のプラグインは、そのようなので、上の自然保護区、土壌保全、地籍データ検証、危機管理、放棄されたサイトやなどのトピックをカバーしています。"
+msgstr "現時点では他の多くのプラグインを開発中です。これらは、異なるプロジェクトのためのデータ操作、解​​析または図化をサポートします。当社の開発中のプラグインは、自然保護区、土壌保全、地籍データ検証、危機管理、放棄されたサイト、などのトピックをカバーしています。"
 
 #~ msgid "QGIS in the governmental FOSSGIS stack"
 #~ msgstr ""

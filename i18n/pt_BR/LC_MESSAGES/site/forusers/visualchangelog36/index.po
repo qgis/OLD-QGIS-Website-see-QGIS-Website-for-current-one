@@ -7,7 +7,7 @@
 # Tim Sutton <tim@kartoza.com>, 2020
 # Aumir da Silva Viana <silvaaumir@gmail.com>, 2020
 # Francisco Rodrigo Cunha de Sousa <rodrigofrcs@hotmail.com>, 2020
-# Leônidas Luiz Volcato Descovi Filho <leonidasfilho2000@yahoo.com.br>, 2020
+# Leônidas Luiz Volcato Descovi Filho <leonprs2@gmail.com>, 2020
 # Mariana Muniz Blank <mariblank_1@hotmail.com>, 2020
 # Renato dos Santos da Silva <renatoneed@gmail.com>, 2020
 # Eduardo Araujo Sousa Filho <eduardoeafilho@gmail.com>, 2020
@@ -16,6 +16,8 @@
 # Robson Leo Pachaly <robsonleopachaly@yahoo.com.br>, 2020
 # Brenda de Andrade Feitosa <brenddandrad@gmail.com>, 2020
 # Dêmian Francisco Neto Castro Pereira <demian.castro.13@gmail.com>, 2020
+# Leonardo Barbosa <leosbarbosas@gmail.com>, 2020
+# Aline Furlanetto Viero <afviero@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -24,7 +26,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-12 16:20+0200\n"
 "PO-Revision-Date: 2019-03-13 19:43+0000\n"
-"Last-Translator: Dêmian Francisco Neto Castro Pereira <demian.castro.13@gmail.com>, 2020\n"
+"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>, 2020\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -220,6 +222,11 @@ msgid ""
 "different feature. Finally when all features have been offered, no feature "
 "will be locked and further right clicks will start the loop again."
 msgstr ""
+"**Quando há múltiplas feições onde o mouse está posicionado, repetidos "
+"cliques com o botão direito vão passar por cada uma delas** - a cada clique "
+"com o botão direito, você vai se fixar uma feição diferente. Finalmente, "
+"quando todas as feições tiverem sido mostradas, nenhuma feição será fixada e"
+" cliques adicionais vão recomeçar este ciclo."
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:59
 msgid ""
@@ -253,6 +260,7 @@ msgstr ""
 msgid ""
 "This feature was funded by `German QGIS user group <http://qgis.de/>`__"
 msgstr ""
+"Este recurso foi financiado por `German QGIS user group <http://qgis.de/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:73
 msgid ""
@@ -298,6 +306,8 @@ msgstr ""
 msgid ""
 "This feature was funded by `Mairie de Megève <https://www.megeve.fr/>`__"
 msgstr ""
+"Este recurso foi financiado por `Mairie de Megève "
+"<https://www.megeve.fr/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:96
 #: ../../source/site/forusers/visualchangelog36/index.rst:105
@@ -307,6 +317,8 @@ msgid ""
 "This feature was developed by `Loïc Bartoletti (Oslandia) "
 "<https://www.oslandia.com>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Loïc Bartoletti (Oslandia) "
+"<https://www.oslandia.com>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:99
 msgid "Feature: Rectangle from 3 points (projected)"
@@ -344,7 +356,7 @@ msgstr "imagem 3"
 #: ../../source/site/forusers/visualchangelog36/index.rst:474
 #: ../../source/site/forusers/visualchangelog36/index.rst:1080
 msgid "This feature was funded by Lutra Consulting"
-msgstr ""
+msgstr "Este recurso foi financiado por Lutra Consulting"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:116
 #: ../../source/site/forusers/visualchangelog36/index.rst:476
@@ -353,6 +365,8 @@ msgid ""
 "This feature was developed by `Peter Petrik (Lutra Consulting) "
 "<https://www.lutraconsulting.co.uk>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Peter Petrik (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:119
 msgid "Expressions"
@@ -413,7 +427,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:133
 msgid "from\\_json"
-msgstr ""
+msgstr "de\\_json"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:134
 msgid "to\\_json"
@@ -456,7 +470,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:148
 #: ../../source/site/forusers/visualchangelog36/index.rst:757
 msgid "This feature was developed by Nyall Dawson, Mathieu Pellerin"
-msgstr ""
+msgstr "Este recurso foi desenvolvido por Nyall Dawson, Mathieu Pellerin"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:151
 msgid "Feature: New map expression variables"
@@ -490,7 +504,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:159
 #: ../../source/site/forusers/visualchangelog36/index.rst:434
 msgid "This feature was developed by Alexis Roy-Lizotte"
-msgstr ""
+msgstr "Este recurso foi desenvolvido por Alexis Roy-Lizotte"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:162
 msgid "Feature: New try() function to catch errors"
@@ -537,6 +551,8 @@ msgstr ""
 msgid ""
 "This feature was developed by `Nyall Dawson () <https://north-road.com>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Nyall Dawson () <https://north-"
+"road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:188
 msgid "Symbology"
@@ -645,7 +661,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:217
 #: ../../source/site/forusers/visualchangelog36/index.rst:509
 msgid "This feature was funded by QGIS User Group Germany"
-msgstr ""
+msgstr "Este recurso foi financiado por QGIS User Group Germany"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:210
 #: ../../source/site/forusers/visualchangelog36/index.rst:219
@@ -678,7 +694,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:222
 msgid "Feature: Raster image marker"
-msgstr ""
+msgstr "Recurso: marcador de imagem raster"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:224
 msgid ""
@@ -772,6 +788,7 @@ msgstr "imagem 6"
 #: ../../source/site/forusers/visualchangelog36/index.rst:1016
 msgid "This feature was funded by `SMEC/SJ <http://www.smec.com/en_au>`__"
 msgstr ""
+"Este recurso foi financiado por `SMEC/SJ <http://www.smec.com/en_au>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:263
 msgid "Feature: Show Project Colors in color bound data defined buttons"
@@ -837,13 +854,15 @@ msgstr "imagem 7"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:295
 msgid "This feature was funded by OSGeo UK, GeoServer PSC, Brad Hards"
-msgstr ""
+msgstr "Este recurso foi financiado por OSGeo UK, GeoServer PSC, Brad Hards"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:297
 msgid ""
 "This feature was developed by `Luigi Pirelli and GeoSolutions <https://www"
 ".geo-solutions.it/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Luigi Pirelli e GeoSolutions <https://www"
+".geo-solutions.it/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:300
 msgid "Digitising"
@@ -851,7 +870,7 @@ msgstr "Digitalização"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:303
 msgid "Feature: Georeferencer enhancements"
-msgstr ""
+msgstr "Feição: Aprimoramentos do Georreferenciador"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:305
 msgid "add dX, dY and residual on GCP Points"
@@ -871,6 +890,8 @@ msgid ""
 "This feature was developed by `Faneva Andriamiadantsoa "
 "<https://github.com/Fanevanjanahary>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Faneva Andriamiadantsoa "
+"<https://github.com/Fanevanjanahary>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:313
 msgid ""
@@ -898,6 +919,8 @@ msgid ""
 "This feature was developed by `Corentin Falcone (SIRS) <https://www.sirs-"
 "fr.com/sirs/fr/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Corentin Falcone (SIRS) <https://www"
+".sirs-fr.com/sirs/fr/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:328
 msgid "Forms and Widgets"
@@ -939,7 +962,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:351
 msgid "This feature was developed by konst"
-msgstr ""
+msgstr "Este recurso foi desenvolvido por konst"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:354
 msgid "Feature: Improved handling of text and label export"
@@ -1150,10 +1173,12 @@ msgid ""
 "OpenCL acceleration is now available by default for raster calculator "
 "operations."
 msgstr ""
+"Agora a aceleração OpenCL está disponível como padrão para operações da "
+"calculadora raster."
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:465
 msgid "This feature was funded by Alessandro Pasotti - ItOpen"
-msgstr ""
+msgstr "Este recurso foi financiado por Alessandro Pasotti - ItOpen"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:467
 #: ../../source/site/forusers/visualchangelog36/index.rst:725
@@ -1269,7 +1294,7 @@ msgstr "imagem 13"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:533
 msgid "This feature was developed by Nyall Dawson, Nathan Woodrow"
-msgstr ""
+msgstr "Este recurso foi desenvolvido por Nyall Dawson, Nathan Woodrow"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:536
 msgid "Feature: New parameter type for authentication config"
@@ -1421,7 +1446,7 @@ msgstr "imagem 16"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:610
 msgid "This feature was funded by `Solspec <http://solspec.io>`__"
-msgstr ""
+msgstr "Este recurso foi financiado por `Solspec <http://solspec.io>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:615
 msgid "Application and Project Options"
@@ -1485,7 +1510,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:647
 msgid "This feature was funded by `North Road <s://north-road.com>`__"
-msgstr ""
+msgstr "Este recurso foi financiado por `North Road <s://north-road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:652
 msgid "Feature: Preview layers and attributes"
@@ -1575,11 +1600,15 @@ msgid ""
 "This feature was funded by `A.R.P.A. Piemonte "
 "<http://www.arpa.piemonte.it/>`__"
 msgstr ""
+"Este recurso foi financiado por `A.R.P.A. Piemonte "
+"<http://www.arpa.piemonte.it/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:705
 msgid ""
 "This feature was developed by `Alessandro Pasotti <http://www.itopen.it>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Alessandro Pasotti "
+"<http://www.itopen.it>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:708
 msgid "Feature: Optional setting for disabling version checks"
@@ -1614,6 +1643,8 @@ msgid ""
 "This feature was funded by `A.R.P.A. Piemonte "
 "<http://www.arpa.piemonte.it>`__"
 msgstr ""
+"Este recurso foi financiado por `A.R.P.A. Piemonte "
+"<http://www.arpa.piemonte.it>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:728
 msgid "Data Providers"
@@ -1687,10 +1718,12 @@ msgid ""
 "Support for JSON allows to store structured data inside a single field in "
 "GeoPackage files."
 msgstr ""
+"O suporte a JSON permite o armazanamento de dados estruturados dentro de um "
+"único campo em arquivos GeoPackage."
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:780
 msgid "Data which is saved as JSON can be represented and edited in"
-msgstr ""
+msgstr "Os dados armazenados como JSON podem ser representados e editados em"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:782
 msgid "ValueRelation widgets with allow multiple selection activated"
@@ -1702,7 +1735,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:784
 msgid "List widgets"
-msgstr ""
+msgstr "Listar elementos"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:785
 msgid ""
@@ -1717,10 +1750,12 @@ msgid ""
 "This feature was funded by `Kanton Zug, Amt für Geoinformation "
 "<https://geo.zg.ch/>`__"
 msgstr ""
+"Este recurso foi financiado por `Kanton Zug, Amt für Geoinformation "
+"<https://geo.zg.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:789
 msgid "This feature was developed by David Signer (OPENGIS.ch)"
-msgstr ""
+msgstr "Este recurso foi desenvolvido por David Signer (OPENGIS.ch)"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:792
 msgid "Feature: Postgres provider: save primary key selection"
@@ -1812,11 +1847,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:837
 msgid "This feature was funded by Ifremer"
-msgstr ""
+msgstr "Este recurso foi financiado por Ifremer"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:839
 msgid "This feature was developed by 3liz"
-msgstr ""
+msgstr "Este recurso foi desenvolvido por 3liz"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:842
 msgid "Feature: Add JSON format for WMS GetFeatureInfo request"
@@ -1831,7 +1866,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:863
 msgid "This feature was funded by `Veolia <https://www.veolia.com>`__"
-msgstr ""
+msgstr "Este recurso foi financiado por `Veolia <https://www.veolia.com>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:865
 msgid ""
@@ -2185,7 +2220,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:1055
 #: ../../source/site/forusers/visualchangelog36/index.rst:1062
 msgid "This feature was developed by Martin Dobias (Lutra Consulting)"
-msgstr ""
+msgstr "Este recurso foi desenvolvido por Martin Dobias (Lutra Consulting)"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1058
 msgid "Feature: Configuration of lights in 3D map scenes"
@@ -2208,7 +2243,7 @@ msgstr "imagem 26"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1069
 msgid "This feature was funded by QGIS community"
-msgstr ""
+msgstr "Este recurso foi financiado pela comunidade QGIS"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1071
 msgid ""
@@ -2236,7 +2271,7 @@ msgstr "Correções Importantes"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1089
 msgid "Feature: Bug fixes by Alessandro Pasotti"
-msgstr ""
+msgstr "Feição: Correção de bugs por Alessandro Pasotti"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1092
 #: ../../source/site/forusers/visualchangelog36/index.rst:1159
@@ -2250,7 +2285,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:1433
 #: ../../source/site/forusers/visualchangelog36/index.rst:1484
 msgid "Bug Title"
-msgstr ""
+msgstr "Título do Bug"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1092
 #: ../../source/site/forusers/visualchangelog36/index.rst:1159
@@ -2264,7 +2299,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:1433
 #: ../../source/site/forusers/visualchangelog36/index.rst:1484
 msgid "URL issues.qgis.org (if reported)"
-msgstr ""
+msgstr "URL issues.qgis.org (se relatado)"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1092
 #: ../../source/site/forusers/visualchangelog36/index.rst:1159
@@ -2278,7 +2313,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:1433
 #: ../../source/site/forusers/visualchangelog36/index.rst:1484
 msgid "URL Commit (Github)"
-msgstr ""
+msgstr "URL Commit (Github)"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1092
 #: ../../source/site/forusers/visualchangelog36/index.rst:1159
@@ -2292,7 +2327,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:1433
 #: ../../source/site/forusers/visualchangelog36/index.rst:1484
 msgid "3.4 backport commit (GitHub)"
-msgstr ""
+msgstr "3.4 backport commit (GitHub)"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1094
 msgid "QGIS Server: WFS issue using the EXP\\_FILTER parameter"
@@ -2304,7 +2339,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1094
 msgid "`PR #8924 <https://github.com/qgis/QGIS/pull/8924>`__"
-msgstr ""
+msgstr "`PR #8924 <https://github.com/qgis/QGIS/pull/8924>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1094
 #: ../../source/site/forusers/visualchangelog36/index.rst:1098
@@ -2386,7 +2421,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:1203
 #: ../../source/site/forusers/visualchangelog36/index.rst:1339
 msgid "unreported"
-msgstr ""
+msgstr "não relatado"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1106
 msgid "Form Value relation based on WFS layer"
@@ -2410,7 +2445,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1108
 msgid "`PR #8971 <https://github.com/qgis/QGIS/pull/8971>`__"
-msgstr ""
+msgstr "`PR #8971 <https://github.com/qgis/QGIS/pull/8971>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1110
 msgid "raster calculator in processing does not work with Aspect raster"
@@ -2665,7 +2700,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1144
 msgid "`#21311 <https://issues.qgis.org/issues/21311>`__"
-msgstr ""
+msgstr "`#21311 <https://issues.qgis.org/issues/21311>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1146
 msgid "\"default value\" is not applied when pasting features"
@@ -2703,16 +2738,20 @@ msgid ""
 "This feature was funded by `QGIS.ORG donors and sponsors "
 "<https://www.qgis.org/>`__"
 msgstr ""
+"Este recurso foi financiado por `Doadores e Patrocinadores do QGIS.ORG "
+"<https://www.qgis.org/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1153
 msgid ""
 "This feature was developed by `Alessandro Pasotti "
 "<https://www.itopen.it/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Alessandro Pasotti "
+"<https://www.itopen.it/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1156
 msgid "Feature: Bug fixes by Alexander Bruy"
-msgstr ""
+msgstr "Recurso: Correção de bugs por Alexander Bruy"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1161
 msgid "gdal buildvrt missing an important param"
@@ -2741,7 +2780,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1163
 msgid "`PR #8930 <https://github.com/qgis/QGIS/pull/8930>`__"
-msgstr ""
+msgstr "`PR #8930 <https://github.com/qgis/QGIS/pull/8930>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1165
 msgid "Points inside polygons"
@@ -2761,7 +2800,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1167
 msgid "`PR #8942 <https://github.com/qgis/QGIS/pull/8942>`__"
-msgstr ""
+msgstr "`PR #8942 <https://github.com/qgis/QGIS/pull/8942>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1167
 msgid "`PR #8947 <https://github.com/qgis/QGIS/pull/8947>`__"
@@ -2848,13 +2887,15 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1177
 msgid "`#14374 <https://issues.qgis.org/issues/14374>`__"
-msgstr ""
+msgstr "`#14374 <https://issues.qgis.org/issues/14374>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1179
 msgid ""
 "\"Convert map to raster\" algorithm does not export with transparent "
 "background despite the option"
 msgstr ""
+"O algoritmo \"Converter mapa para raster\" não exporta com fundo "
+"transparente apesar da opção"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1179
 msgid "`#19866 <https://issues.qgis.org/issues/19866>`__"
@@ -2872,7 +2913,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1181
 msgid "`#18141 <https://issues.qgis.org/issues/18141>`__"
-msgstr ""
+msgstr "`#18141 <https://issues.qgis.org/issues/18141>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1181
 #: ../../source/site/forusers/visualchangelog36/index.rst:1183
@@ -2920,7 +2961,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1187
 msgid "`PR #8995 <https://github.com/qgis/QGIS/pull/8995>`__"
-msgstr ""
+msgstr "`PR #8995 <https://github.com/qgis/QGIS/pull/8995>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1187
 #: ../../source/site/forusers/visualchangelog36/index.rst:1189
@@ -2963,7 +3004,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1193
 msgid "`#20557 <https://issues.qgis.org/issues/20557>`__"
-msgstr ""
+msgstr "`#20557 <https://issues.qgis.org/issues/20557>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1193
 msgid "`PR #8997 <https://github.com/qgis/QGIS/pull/8997>`__"
@@ -3086,7 +3127,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1213
 msgid "`PR #9065 <https://github.com/qgis/QGIS/pull/9065>`__"
-msgstr ""
+msgstr "`PR #9065 <https://github.com/qgis/QGIS/pull/9065>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1213
 msgid "`PR #9185 <https://github.com/qgis/QGIS/pull/9185>`__"
@@ -3196,7 +3237,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1236
 msgid "`#21192 <https://issues.qgis.org/issues/21192>`__"
-msgstr ""
+msgstr "`#21192 <https://issues.qgis.org/issues/21192>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1236
 msgid ""
@@ -3332,7 +3373,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1252
 msgid "`#21177 <https://issues.qgis.org/issues/21177>`__"
-msgstr ""
+msgstr "`#21177 <https://issues.qgis.org/issues/21177>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1252
 msgid ""
@@ -3440,10 +3481,12 @@ msgstr ""
 msgid ""
 "This feature was developed by `Jürgen Fischer <https://www.norbit.de/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Jürgen Fischer "
+"<https://www.norbit.de/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1272
 msgid "Feature: Bug fixes by Peter Petrik"
-msgstr ""
+msgstr "Recurso: Correção de bugs por Peter Petrik"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1277
 msgid "Crash when adding existing field to vectorlayer"
@@ -3455,7 +3498,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1277
 msgid "`PR #8982 <https://github.com/qgis/QGIS/pull/8982>`__"
-msgstr ""
+msgstr "`PR #8982 <https://github.com/qgis/QGIS/pull/8982>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1277
 msgid "`PR #9042 <https://github.com/qgis/QGIS/pull/9042>`__"
@@ -3476,7 +3519,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1279
 msgid "`PR #9020 <https://github.com/qgis/QGIS/pull/9020>`__"
-msgstr ""
+msgstr "`PR #9020 <https://github.com/qgis/QGIS/pull/9020>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1281
 msgid "Impossible to rename a layer style from the Styling Panel"
@@ -3570,10 +3613,12 @@ msgid ""
 "This feature was developed by `Peter Petrik "
 "<https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Peter Petrik "
+"<https://www.lutraconsulting.co.uk/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1299
 msgid "Feature: Bug fixes by Julien Cabieces"
-msgstr ""
+msgstr "Recurso: Correção de bugs por Julien Cabieces"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1304
 msgid "QGis 3.4 reproducible crash while in idle state"
@@ -3605,7 +3650,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1306
 msgid "`PR #8966 <https://github.com/qgis/QGIS/pull/8966>`__"
-msgstr ""
+msgstr "`PR #8966 <https://github.com/qgis/QGIS/pull/8966>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1306
 msgid "`PR #9010 <https://github.com/qgis/QGIS/pull/9010>`__"
@@ -3617,7 +3662,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1308
 msgid "`#20140 <https://issues.qgis.org/issues/20140>`__"
-msgstr ""
+msgstr "`#20140 <https://issues.qgis.org/issues/20140>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1308
 msgid "Duplicate"
@@ -3630,7 +3675,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1310
 msgid "`#19579 <https://issues.qgis.org/issues/19579>`__"
-msgstr ""
+msgstr "`#19579 <https://issues.qgis.org/issues/19579>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1310
 msgid ""
@@ -3660,7 +3705,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1314
 msgid "`PR #9032 <https://github.com/qgis/QGIS/pull/9032>`__"
-msgstr ""
+msgstr "`PR #9032 <https://github.com/qgis/QGIS/pull/9032>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1314
 msgid "`PR #9229 <https://github.com/qgis/QGIS/pull/9229>`__"
@@ -3716,10 +3761,12 @@ msgstr ""
 msgid ""
 "This feature was developed by `Julien Cabieces <https://oslandia.com/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Julien Cabieces "
+"<https://oslandia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1328
 msgid "Feature: Bug fixes by Loïc Bartoletti"
-msgstr ""
+msgstr "Recurso: Correção de bugs por Loïc Bartoletti"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1333
 msgid ""
@@ -3780,10 +3827,12 @@ msgstr ""
 msgid ""
 "This feature was developed by `Loïc Bartoletti <https://oslandia.com/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Loïc Bartoletti "
+"<https://oslandia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1349
 msgid "Feature: Bug fixes by Victor Olaya"
-msgstr ""
+msgstr "Recurso: Correção de bugs por Victor Olaya"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1354
 msgid ""
@@ -3822,7 +3871,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1358
 msgid "`#21055 <https://issues.qgis.org/issues/21055>`__"
-msgstr ""
+msgstr "`#21055 <https://issues.qgis.org/issues/21055>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1358
 msgid ""
@@ -3899,7 +3948,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1370
 msgid "`#21089 <https://issues.qgis.org/issues/21089>`__"
-msgstr ""
+msgstr "`#21089 <https://issues.qgis.org/issues/21089>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1370
 msgid "`PR #9002 <https://github.com/qgis/QGIS/pull/9002>`__"
@@ -3927,7 +3976,7 @@ msgstr "Esse recurso foi desenvolvido por Victor Olaya"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1380
 msgid "Feature: Bug fixes by Even Rouault"
-msgstr ""
+msgstr "Recurso: Correção de bugs por Even Rouault"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1385
 msgid ""
@@ -3953,15 +4002,15 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1389
 msgid "`#20865 <https://issues.qgis.org/issues/20865>`__"
-msgstr ""
+msgstr "`#20865 <https://issues.qgis.org/issues/20865>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1389
 msgid "`PR #9105 <https://github.com/qgis/QGIS/pull/9105>`__"
-msgstr ""
+msgstr "`PR #9105 <https://github.com/qgis/QGIS/pull/9105>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1389
 msgid "`PR #9113 <https://github.com/qgis/QGIS/pull/9113>`__"
-msgstr ""
+msgstr "`PR #9113 <https://github.com/qgis/QGIS/pull/9113>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1391
 msgid "KML loading bug"
@@ -4088,7 +4137,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:1418
 #: ../../source/site/forusers/visualchangelog36/index.rst:1420
 msgid "`PR #9161 <https://github.com/qgis/QGIS/pull/9161>`__"
-msgstr ""
+msgstr "`PR #9161 <https://github.com/qgis/QGIS/pull/9161>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1416
 msgid "[vertex tool] right-click to loop through editable features"
@@ -4135,16 +4184,20 @@ msgid ""
 "This feature was funded by `QGIS user group Germany "
 "<https://www.qgis.de/>`__"
 msgstr ""
+"Este recurso foi financiado por `QGIS user group Germany "
+"<https://www.qgis.de/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1427
 msgid ""
 "This feature was developed by `Martin Dobias "
 "<https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Martin Dobias "
+"<https://www.lutraconsulting.co.uk/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1430
 msgid "Feature: Bug fixes by Nyall Dawson"
-msgstr ""
+msgstr "Recurso: Correção de bugs por Nyall Dawson"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1435
 msgid "[postgis] Fix creation of new Z/M enabled, curved geometry type layers"
@@ -4503,10 +4556,11 @@ msgstr ""
 msgid ""
 "This feature was developed by `Nyall Dawson <https://north-road.com/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Nyall Dawson <https://north-road.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1481
 msgid "Feature: Bug fixes by Hugo Mercier"
-msgstr ""
+msgstr "Feição: Correções de bugs por Hugo Mercier"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1486
 msgid "Qgis 3.4.1 crashes when accessing methods of feature"
@@ -4527,7 +4581,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1488
 msgid "`#8272 <https://issues.qgis.org/issues/8272>`__"
-msgstr ""
+msgstr "`#8272 <https://issues.qgis.org/issues/8272>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1488
 msgid "Can't reproduce anymore in 3.5"
@@ -4558,6 +4612,8 @@ msgid ""
 "`PR #9033 <https://github.com/qgis/QGIS/pull/9033>`__ and `PR #9033 "
 "<https://github.com/qgis/QGIS/pull/9033>`__"
 msgstr ""
+"`PR #9033 <https://github.com/qgis/QGIS/pull/9033>`__ and `PR #9033 "
+"<https://github.com/qgis/QGIS/pull/9033>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1494
 msgid "Range widget gives NULL value in Attributes Form/Table"
@@ -4591,7 +4647,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1498
 msgid "`#19909 <https://issues.qgis.org/issues/19909>`__"
-msgstr ""
+msgstr "`#19909 <https://issues.qgis.org/issues/19909>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1498
 msgid "`PR #9036 <https://github.com/qgis/QGIS/pull/9036>`__"
@@ -4624,6 +4680,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:1507
 msgid "This feature was developed by `Hugo Mercier <https://oslandia.com/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Hugo Mercier <https://oslandia.com/>`__"
 
 #~ msgid ""
 #~ ":raw-html:`<div id=\"qgissponsorsatom\"> <!-- to be filled via javascript "

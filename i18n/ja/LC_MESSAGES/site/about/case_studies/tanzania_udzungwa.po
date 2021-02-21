@@ -1,13 +1,13 @@
 # 
 # Translators:
-# Kohei Tomita <fairtommy@gmail.com>, 2017
+# fairtommy <fairtommy@gmail.com>, 2017-2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-12-04 03:36+0000\n"
-"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"PO-Revision-Date: 2018-08-08 05:40+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/tanzania_udzungwa.rst:3
 msgid "Using QGIS for wildlife training in Tanzania"
-msgstr "タンザニアでの野生動物訓練のためのQGISの使用"
+msgstr "タンザニアにおける野生動物訓練のためのQGISの使用"
 
 #: ../../source/site/about/case_studies/tanzania_udzungwa.rst:6
 msgid "Introduction"
@@ -30,7 +30,7 @@ msgid ""
 "2012, it held a two-day workshop for the Ecology and Protection (anti-"
 "poaching) staff of the Udzungwa Mountains National Park, along with members "
 "of the Udzungwa Ecological Monitoring Centre."
-msgstr "タンザニア南部での作業、ウズングワ象プロジェクト（UEP）は、野生生物の研究と保全での訓練のためにQGISを使用しています。2012年2月には、それがウズングワ生態監視センターのメンバーと一緒に、ウズングワ山脈国立公園の生態と保護（抗密猟）スタッフのための2日間のワークショップを開催しました。"
+msgstr "タンザニア南部での作業、ウズングワ象プロジェクト（UEP）では、野生生物の研究と保全での訓練のためにQGISを使用しています。2012年2月には、それがウズングワ生態監視センターのメンバーと一緒に、ウズングワ山脈国立公園の生態と保護（抗密猟）スタッフのための2日間のワークショップを開催しました。"
 
 #: ../../source/site/about/case_studies/tanzania_udzungwa.rst:11
 msgid "About the Training"
@@ -42,7 +42,7 @@ msgid ""
 "QGIS 1.7.3 along with key data layers covering the National Park: protected "
 "area boundaries, scanned topographic maps, a DEM, roads, ranger posts, and "
 "habitat types."
-msgstr "研修生は、自分のラップトップを使用して、キーデータ国立公園被覆層と一緒にQGIS 1.7.3のインストーラで提供された：保護された領域の境界を、スキャンした地形図、DEM、道路、レンジャーの記事、および生息地タイプ。"
+msgstr "研修生は、自分のラップトップを使用して、国立公園被覆キーデータレイヤーと一緒にQGIS 1.7.3のインストーラで提供された：保護された領域の境界を、スキャンした地形図、DEM、道路、レンジャーの記事、および生息地タイプ。"
 
 #: ../../source/site/about/case_studies/tanzania_udzungwa.rst:20
 msgid "QGIS Udzungwa"
@@ -82,7 +82,7 @@ msgid ""
 "organisations in emergencies, and previously worked with the British "
 "Antarctic Survey,  United Nations, Royal Geographical Society, and as a GIS "
 "Lecturer."
-msgstr "この記事は、ニック・マックウィリアムによって2012年3月に寄贈されました。英国を拠点に、彼はトレーニング、低コストのシステムに重点を置いて、国立公園や保護区のゲームにGISで動作するように1996年からタンザニアを訪問し、応用研究、管理、および保全に役立つようにGISを使用しています。彼はまた、緊急時に人道組織にGISのサポートを提供し、NGO MapActionとボランティア、そして以前に英国南極調査、国連、王立地理学会、とし、GISの講師として働いていました。"
+msgstr "この記事は、ニック・マックウィリアムによって2012年3月に寄稿されました。氏は英国を拠点に、トレーニング、低コストのシステムに重点を置いて、国立公園や動物保護区にGISで動作するように1996年からタンザニアを訪問し、応用研究、管理、および保全に役立つようにGISを使用しています。また、緊急時に人道組織にGISのサポートを提供しているNGO MapActionでボランティア、そして以前には英国南極調査、国連、王立地理学会とともに、そしてGISの講師として働いていました。"
 
 #: ../../source/site/about/case_studies/tanzania_udzungwa.rst:22
 msgid ""
@@ -93,7 +93,7 @@ msgid ""
 "during the course, National Park staff were using the GIS to view the GPS "
 "locations of new-reported elephant carcass locations --- the result of "
 "poaching --- and to start planning responses."
-msgstr "二日の終わりには、誰もが、GPSのダウンロードデータを追加作成および編集新しいレイヤを、マッププロジェクトを保存し、デザイン・印刷作曲、レポートやプレゼンテーションに含めるためのグラフィックファイルを保存することができました---最後の機能は、特別に便利ですGISを使用して通常のワークフローで役立ちます。でも途中で、国立公園のスタッフは新しい報告ゾウの死体の場所のGPS位置---密猟の結果を表示する---と計画応答を開始するためにGISを使用していました。"
+msgstr "二日の終わりには、誰もが、GPSのダウンロードデータを追加し、新しいレイヤーを作成および編集し、地図プロジェクトを保存し、印刷コンポーザをデザインし、レポートやプレゼンテーションに含めるためのグラフィックファイルを保存することができました---最後の機能は、特別に便利ですGISを使用して通常のワークフローで役立ちます。でも途中で、国立公園のスタッフは新しい報告ゾウの死体の場所のGPS位置---密猟の結果を表示する---と計画応答を開始するためにGISを使用していました。"
 
 #: ../../source/site/about/case_studies/tanzania_udzungwa.rst:24
 msgid ""
@@ -107,7 +107,7 @@ msgstr "QGISは私たちにいくつかのアトラクションを提供した�
 msgid ""
 "Special thanks to the US Fish and Wildlife Service African Elephant Fund for"
 " supporting this training."
-msgstr "このトレーニングをサポートするため、米国魚類野生生物局アフリカゾウ基金に感謝します。"
+msgstr "このトレーニングをサポートしてくださった米国魚類野生生物局アフリカゾウ基金に感謝します。"
 
 #: ../../source/site/about/case_studies/tanzania_udzungwa.rst:38
 msgid "Links"
