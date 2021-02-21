@@ -312,7 +312,7 @@ Print Layouts
 Feature: Gradient ramp based legends
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Anew QgsColorRampLegendNode class was added which allows for the creation of color ramp-based legend nodes. It's now used for raster layers when using a pseudocolor renderer with the linear interpolation type or for the single-band gray renderer, as well as for point clouds using a ramp based renderer.
+A new QgsColorRampLegendNode class was added which allows for the creation of color ramp-based legend nodes. It's now used for raster layers when using a pseudocolor renderer with the linear interpolation type or for the single-band gray renderer, as well as for point clouds using a ramp based renderer.
 
 In a layout legend, the ramp item inherits the default legend symbol width and height, but it is possible to optionally override this behavior.
 
