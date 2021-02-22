@@ -117,7 +117,13 @@ Added 2019
 
 Added 2020
 
-* TBD
+* David signer, Switzerland
+* Enrico Ferreguti, Italy
+* Etienne Trimaille, France
+* Pedro Venâncio, Portugal
+* Peter Petrik, Czech Republic
+* Richard Duivenvoorde, Netherlands
+
 
 
 .. _release-management:
