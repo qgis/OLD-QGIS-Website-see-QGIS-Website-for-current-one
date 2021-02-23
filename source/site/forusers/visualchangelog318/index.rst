@@ -73,25 +73,19 @@ QGIS now supports dynamic standard vector graphic elements, as outlined in `QEP 
 
 This feature was developed by `Denis Rouzaud <https://api.github.com/users/3nids>`__
 
+Feature: Zoom to multiple layers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The "Zoom to Layer" function available from the context menu, the View menu and the Map Navigation toolbar can now zoom to the extent of all the selected layers in the layer tree.
+
+|image8|
+
+This feature was developed by `Patrice Pineault <https://api.github.com/users/TurboGraphxBeige>`__
+
 Feature: Zoom and pan to selection for multiple layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The "Zoom to Layer" function can now zoom to the extent of all the selected layers in the layer tree.
-
-The zoom and pan to the selected features now offer the ability to navigate to the extent of the selected layers in the layer tree or the selected features from all layers in the map.
-
-**Zoom**
-
--  A menu item "Zoom to Selection from All Layers" has been added inside the "View" menu. This action zooms the map to the combined extent of the selected features from all the layers in the map.
--  The "Zoom to Selection" button in the Map Navigation Toolbar zooms to the selected features of all the selected layers in the layer tree.
--  The "Zoom to Selection" context menu action in the layer tree zooms to the selected features of all the selected layers in the layer tree.
-
-**Pan**
-
--  A menu item "Pan Map to Selection from All Layers" has been added inside the "View" menu. This action pans the map to the combined extent of the selected features from all the layers in the map.
--  The "Pan to Selection" button in the Map Navigation Toolbar pans the map to the selected features of all the selected layers in the layer tree.
-
-|image8|
+The "Zoom to Selection" and "Pan Map to Selection" functions available from the context menu, the View menu or the Map Navigation toolbox now offer the ability to navigate to the extent of the selection from the selected layers in the layer tree.
 
 |image9|
 
