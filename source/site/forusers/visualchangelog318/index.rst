@@ -73,7 +73,7 @@ QGIS now supports dynamic standard vector graphic elements, as outlined in `QEP 
 
 This feature was developed by `Denis Rouzaud <https://api.github.com/users/3nids>`__
 
-Feature: Zoom to selection for multiple layers
+Feature: Zoom to multiple layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The "Zoom to Layer" function available from the context menu, the View menu and the Map Navigation toolbar can now zoom to the extent of all the selected layers in the layer tree.
@@ -89,6 +89,7 @@ The "Zoom to Selection" and "Pan Map to Selection" functions available from the 
 
 |image9|
 
+This feature was developed by `Patrice Pineault <https://api.github.com/users/TurboGraphxBeige>`__
 
 Feature: Zoom in/out by scrolling mouse wheel over map overview panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1055,7 +1056,7 @@ This feature was developed by `Nyall Dawson <https://north-road.com/>`__
    :class: img-responsive img-rounded
 .. |image7| image:: images/entries/c6d55ffc6be5f0e4962d9b971cac6e54ab316717.png
    :class: img-responsive img-rounded
-.. |image8| image:: images/entries/87f084dd1397520cbf91befe3faaccb68a941263-1.gif
+.. |image8| image:: images/entries/101234295-f1cc8a80-368b-11eb-9b52-8f42a4f994a2.gif
 .. |image9| image:: images/entries/a76fca5cfc367779584da0655cd18474e4518329-1.gif
    :class: img-responsive img-rounded
 .. |image10| image:: images/entries/77b55b4c85c9c4f5076b1a735f7971819cc2a2ee.gif
