@@ -232,7 +232,7 @@ The eye dome lighting is, by principle, an image-based rendering solution simila
 
 This feature was funded by `Lutra Consulting <https://www.lutraconsulting.co.uk>`__
 
-This feature was developed by `Lutra Consulting (Nedjima Belgacem) <http://www.lutraconsulting.co.uk>`__
+This feature was developed by `Lutra Consulting (Nedjima Belgacem) <https://www.lutraconsulting.co.uk>`__
 
 Feature: Data defined 3D material colors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -250,14 +250,14 @@ Textured materials are unsupported at this time.
 
 |image21|
 
-This feature was funded by `Kristianstad <http://www.kristianstad.se>`__
+This feature was funded by `Kristianstad <https://www.kristianstad.se>`__
 
-This feature was developed by `Lutra Consulting (Vincent Cloarec) <http://www.lutraconsulting.co.uk>`__
+This feature was developed by `Lutra Consulting (Vincent Cloarec) <https://www.lutraconsulting.co.uk>`__
 
 Feature: 3D Orthographic projection support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-QGIS now offers orthographic projection support for 3D scenes, a feature often often desired in the context of architecture, archeology, and more.
+QGIS now offers orthographic projection support for 3D scenes, a feature often desired in the context of architecture, archeology, and more.
 
 |image22|
 
