@@ -49,7 +49,7 @@ Preparing the Environment and Setting up the Repo
    with the main development repo at http://help.github.com/fork-a-repo/
 #. Clone your personal copy of the repository to your system, and 
    add upstream as mentioned in above provided link
-#. Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up 
+#. Read the https://github.com/qgis/QGIS/blob/master/INSTALL.md about setting up
    the installation environment and make a compilation with ccache enabled.
 
 Setting up the Plugin Directory
