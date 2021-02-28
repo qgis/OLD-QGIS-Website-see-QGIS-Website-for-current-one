@@ -232,7 +232,7 @@ The eye dome lighting is, by principle, an image-based rendering solution simila
 
 This feature was funded by `Lutra Consulting <https://www.lutraconsulting.co.uk>`__
 
-This feature was developed by `Lutra Consulting (Nedjima Belgacem) <http://www.lutraconsulting.co.uk>`__
+This feature was developed by `Lutra Consulting (Nedjima Belgacem) <https://www.lutraconsulting.co.uk>`__
 
 Feature: Data defined 3D material colors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -277,7 +277,7 @@ This includes the ability to add point cloud layers to QGIS projects, with suppo
 
 This feature was funded by `Point Cloud data support in QGIS <https://www.lutraconsulting.co.uk/blog/2021/02/18/qgis-3-18-point-cloud/>`__
 
-This feature was developed by `Lutra Consulting (Peter Petrik) <http://www.lutraconsulting.co.uk>`__
+This feature was developed by `Lutra Consulting (Peter Petrik) <https://www.lutraconsulting.co.uk>`__
 
 Feature: Add point clouds to browser
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -297,7 +297,7 @@ Ability to generate EPT index for (smaller) laz files directly in QGIS via the `
 
 This feature was funded by `Point Cloud data support in QGIS crowd funding campaign <https://www.lutraconsulting.co.uk>`__
 
-This feature was developed by `Lutra Consulting (Peter Petrik) <http://www.lutraconsulting.co.uk>`__
+This feature was developed by `Lutra Consulting (Peter Petrik) <https://www.lutraconsulting.co.uk>`__
 
 Print Layouts
 -------------
@@ -351,7 +351,7 @@ This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalld
 Feature: Dynamic text presets
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The new *Add Item >> Dynamic Text* menu contains preset dynamic text expressions that users can use to insert a label automatically containing the corresponding expression.
+The new *Add Item -> Dynamic Text* menu contains preset dynamic text expressions that users can use to insert a label automatically containing the corresponding expression.
 
 For example, using the dynamic text element **Layout Name** will insert a label containing the expression [% @layout\_name %]. This improves the feature awareness, discoverability, and provides an easy method for users to access dynamic attributes.
 
@@ -440,9 +440,9 @@ It is now possible to select features using a context menu on the map canvas. Ri
 
 |image33|
 
-This feature was funded by `Kristianstad <http://www.kristianstad.se>`__
+This feature was funded by `Kristianstad <https://www.kristianstad.se>`__
 
-This feature was developed by `Lutra Consulting (Vincent Cloarec) <http://www.lutraconsulting.co.uk>`__
+This feature was developed by `Lutra Consulting (Vincent Cloarec) <https://www.lutraconsulting.co.uk>`__
 
 Feature: Curve tracing settings added to UI
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -508,7 +508,7 @@ Historically, required fields would prevent a form from being saved entirely. Us
 
 This feature was funded by `Lutra Consulting <https://www.lutraconsulting.co.uk>`__
 
-This feature was developed by `Lutra Consulting (Viktor Sklencar) <http://www.lutraconsulting.co.uk>`__
+This feature was developed by `Lutra Consulting (Viktor Sklencar) <https://www.lutraconsulting.co.uk>`__
 
 Analysis Tools
 --------------
@@ -660,7 +660,7 @@ ArcGIS Feature Service connections which have their corresponding Portal endpoin
 
 If a connection has the Portal endpoints set, then expanding out the connection in the browser will show a "Groups" and "Services" folder, instead of the full list of services usually shown. Expanding out the groups folder will show a list of all content groups that the user is a member of, each of which can be expanded to show the service items belonging to that group.
 
-This feature was funded by `SRK Consulting <http://www.srk.com>`__
+This feature was funded by `SRK Consulting <https://www.srk.com>`__
 
 This feature was developed by `Nyall Dawson <https://api.github.com/users/nyalldawson>`__
 
@@ -672,7 +672,7 @@ Feature: Native DXF export algorithm
 
 Allows exporting individual or multiple layers into a single DXF file. For each input layer, users can select which attribute to use for splitting a single layer into multiple output layers.
 
-Implements a native DXF export algorithm using ``QgsDxfExport`` functionality, which is also used by ``Project>>Import/Export>>Export Project to DXF``.
+Implements a native DXF export algorithm using ``QgsDxfExport`` functionality, which is also used by ``Project -> Import/Export -> Export Project to DXF``.
 
 |image43|
 
