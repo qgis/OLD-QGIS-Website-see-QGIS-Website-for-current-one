@@ -13,7 +13,7 @@ project, all developers/team members must:
   in the Development Corner, and the CODING document in the root of the QGIS
   Sources.
 * Ensure that all code committed to the repository is unencumbered and compatible
-  with the QGIS license, GPL version 2
+  with the QGIS license, GPL version 2 or above
 * Not use or include any code that will cause a trademark or patent infringement.
   If you are unsure, ask on the developer mailing list or contact a Project
   Steering Committee member.
