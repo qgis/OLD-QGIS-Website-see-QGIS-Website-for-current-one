@@ -505,3 +505,13 @@ regular QGIS and PostGIS Training courses.
 |whg| `WhereGroup <http://www.wheregroup.com/>`_
 (Bonn, Germany) WhereGroup provides the full spectrum of services around QGIS including custom programming, commercial support and trainings.
 
+----
+
+.. |WIGeoGIS| image:: /static/site/about/images/WIGeoGIS.png
+   :width: 100 px
+
+|WIGeoGIS| `WIGeoGIS <http://www.wigeogis.com/>`_
+WIGeoGIS (based in Munich, Germany and Vienna, Austria) provides a wide range of QGIS plugins specifically designed for geomarketing
+and spatial business analysis together with market data. The following functionalities are covered by the plugins: batch-geocoding and
+address search, calculation of travel-time isochrones and distance matrices, Huff-Gravity-Models and Territory-Planning. In addition
+to the plugins WIGeoGIS also offers webgis, commercial training, market data and support for QGIS.
