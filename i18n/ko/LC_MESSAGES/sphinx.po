@@ -3,15 +3,17 @@
 # BJ Jang <jangbi882@gmail.com>, 2015,2017
 # BJ Jang <qgis.tr.kr@gmail.com>, 2014-2015
 # Changkyoon Kim <ocnblu@gmail.com>, 2014-2015
+# Minpa Lee <mapplus@gmail.com>, 2020
+# Sebul, 2020
 # Seungseo Park <seungseo.park@gmail.com>, 2016
 # 김서인 <sikim@gaia3d.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 16:17+0200\n"
-"PO-Revision-Date: 2018-05-20 14:28+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"PO-Revision-Date: 2020-11-13 03:37+0000\n"
+"Last-Translator: Sebul\n"
 "Language-Team: Korean (http://www.transifex.com/qgis/qgis-website/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,256 +21,6 @@ msgstr ""
 "Generated-By: Babel 2.5.1\n"
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: ../../themes/qgis-theme/search.html:11
-#: ../../themes/qgis-theme/search.html:20
-#: ../../themes/qgis-theme/searchbox.html:3
-msgid "Search"
-msgstr "검색"
-
-#: ../../themes/qgis-theme/search.html:24
-msgid ""
-"Please activate JavaScript to enable the search\n"
-"    functionality."
-msgstr "검색 기능을 사용하시려면 JavaScript를 활성화 시켜 주십시오."
-
-#: ../../themes/qgis-theme/search.html:29
-msgid ""
-"From here you can search these documents. Enter your search\n"
-"    words into the box below and click \"search\". Note that the search\n"
-"    function will automatically search for all of the words. Pages\n"
-"    containing fewer words won't appear in the result list."
-msgstr "여기에서 문서를 검색하실 수 있습니다. 아래의 글상자에 검색어를\n입력하시고 \"검색\"을 클릭하십시오. 검색 기능이 자동으로 모든 단어를\n검색함을 기억하십시오. 적은 단어가 포함된 페이지는 결과 목록에\n표시되지 않습니다."
-
-#: ../../themes/qgis-theme/search.html:37
-msgid "search"
-msgstr "검색"
-
-#: ../../themes/qgis-theme/search.html:42
-msgid "Search Results"
-msgstr "검색 결과"
-
-#: ../../themes/qgis-theme/search.html:44
-msgid "Your search did not match any results."
-msgstr "검색과 일치하는 결과를 찾지 못했습니다."
-
-#: ../../themes/qgis-theme/localtoc.html:3
-msgid "Page"
-msgstr "페이지"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:8
-msgid "QGIS Donations"
-msgstr "QGIS 기부자"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:9
-msgid ""
-"QGIS is developed by a team of dedicated volunteers, companies and "
-"organisations."
-msgstr ""
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:13
-msgid ""
-"Donations to QGIS are tax-deductible in several countries. Please refer to your local tax office for details.\n"
-"                    If you want to tax-deduct as a german company or organization, please donate through the "
-msgstr ""
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:14
-msgid "German QGIS user group"
-msgstr ""
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:14
-msgid ""
-". They can issue a payment confirmation as a tax-exempt german association."
-msgstr ""
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:16
-#: ../../themes/qgis-theme/getinvolved_index.html:12
-msgid "You can get involved!"
-msgstr "당신도 참여하실 수 있습니다!"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:28
-msgid "DONATE TO THE PROJECT"
-msgstr "프로젝트에 기부하기"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:33
-#: ../../themes/qgis-theme/getinvolved_donations.html:53
-msgid "Bank Transfer"
-msgstr "계좌 이체"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:36
-msgid "Credit card and Paypal"
-msgstr "신용 카드 및 Paypal "
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:54
-msgid ""
-"Use the details below to make a donation via international money transfer:"
-msgstr ""
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:76
-msgid "Paypal"
-msgstr "Paypal"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:77
-msgid ""
-"You can use Paypal to donate using your own credit card. \n"
-"                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
-"                    or sign-up for one if you are paying by credit card."
-msgstr "Paypal로 기부하기 위해 사용자의 신용카드를 사용할 수 있습니다.\n지불에는 Paypal이 사용되지만 신용카드를 사용하는 경우 Paypal 계정이나 싸인이 없어도 됩니다."
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:80
-msgid "You can also use your own Paypal account to donate."
-msgstr "물론 기부에 가지고 계신 Paypal 계정을 이용하셔도 됩니다."
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:81
-msgid "List of QGIS Support Channels"
-msgstr "QGIS  지원 채널 목록"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:88
-msgid "Donate via PayPal.com"
-msgstr "PayPal.com을 통한 기부"
-
-#: ../../themes/qgis-theme/about_index.html:149
-#: ../../themes/qgis-theme/docs_index.html:125
-#: ../../themes/qgis-theme/forusers_index.html:177
-#: ../../themes/qgis-theme/getinvolved_donations.html:109
-#: ../../themes/qgis-theme/getinvolved_index.html:171
-msgid "Back to Top"
-msgstr "맨 위로 가기"
-
-#: ../../themes/qgis-theme/about_index.html:7
-msgid "QGIS - The Leading Open Source Desktop GIS"
-msgstr "QGIS - 오픈소스 데스크탑 GIS의 리더"
-
-#: ../../themes/qgis-theme/about_index.html:8
-msgid ""
-"QGIS is a professional GIS application that is built on top of and\n"
-"                         proud to be itself Free and Open Source Software (FOSS)."
-msgstr ""
-
-#: ../../themes/qgis-theme/about_index.html:21
-msgid "DISCOVER"
-msgstr "찾아보기"
-
-#: ../../themes/qgis-theme/about_index.html:26
-msgid "QGIS Features"
-msgstr "QGIS 특징"
-
-#: ../../themes/qgis-theme/about_index.html:29
-msgid "QGIS Screenshots"
-msgstr "QGIS 스크린샷"
-
-#: ../../themes/qgis-theme/about_index.html:32
-msgid "QGIS Case Studies"
-msgstr "QGIS 적용 사례"
-
-#: ../../themes/qgis-theme/about_index.html:35
-#: ../../themes/qgis-theme/about_index.html:115
-msgid "Supporting Organizations"
-msgstr "후원 기관"
-
-#: ../../themes/qgis-theme/about_index.html:38
-#: ../../themes/qgis-theme/about_index.html:133
-#: ../../themes/qgis-theme/forusers_index.html:47
-#: ../../themes/qgis-theme/forusers_index.html:139
-msgid "Commercial Support"
-msgstr "상업적 지원"
-
-#: ../../themes/qgis-theme/about_index.html:52
-msgid "About QGIS"
-msgstr "QGIS 정보"
-
-#: ../../themes/qgis-theme/about_index.html:54
-msgid ""
-"QGIS is a user friendly Open Source Geographic Information System (GIS) "
-"licensed under the GNU General Public License. QGIS is an official project "
-"of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, "
-"Mac OSX, Windows and Android and supports numerous vector, raster, and "
-"database formats and functionalities."
-msgstr "QGIS는 GNU General Public License 하에서 제공되는 사용자 친화적 오픈 소스 Geographic Information System (GIS)입니다. QGIS는 Open Source Geospatial Foundation (OSGeo)의 공식 프로젝트에서 Lunux, Unix, Mac OSX, Windows, Andoid에서 동작하며 수많은 벡터, 래스터, 데이터베이스 포맷과 기능을 지원하고 있습니다."
-
-#: ../../themes/qgis-theme/about_index.html:55
-msgid "Our latest release is QGIS "
-msgstr "우리의 QGIS 최종 배포본은 "
-
-#: ../../themes/qgis-theme/about_index.html:56
-msgid "Get started"
-msgstr "시작하기"
-
-#: ../../themes/qgis-theme/about_index.html:63
-msgid "The Community"
-msgstr "커뮤니티"
-
-#: ../../themes/qgis-theme/about_index.html:65
-msgid ""
-"QGIS is a volunteer driven project. We welcome contributions in the form of "
-"code contributions, bug fixes, bug reports, contributed documentation, "
-"advocacy and supporting other users on our mailing lists and "
-"gis.stackexchange.com. If you are interested in actively supporting the "
-"project, you can find more information under the development menu and on the"
-" QGIS Wiki."
-msgstr "QGIS는 자원 봉사자에 의해 운영되는 프로젝트입니다. 우리는 코드 제공, 버그 수정, 버그 보고, 문서 제공, 메일링 리스트 및 gis.stackexchange.com 상에서의 다른 사용자에게 홍보 및 지원 등을 모두 환영합니다. 만약 당신이 프로젝트를 적극적으로 지원하는 데 관심이 있다면, 개발 메뉴와 QGIS Wiki에서 추가 정보를 확인할 수 있습니다."
-
-#: ../../themes/qgis-theme/about_index.html:75
-msgid "Features"
-msgstr "특징"
-
-#: ../../themes/qgis-theme/about_index.html:76
-msgid ""
-"QGIS provides a continously growing number of capabilities provided by core "
-"functions and plugins. You can visualize, manage, edit, analyse data, and "
-"compose printable maps. Get a first impression with a more detailed feature "
-"list."
-msgstr "QGIS는 지속적으로 수많은 기능을 핵심 기능 및 플러그인 형태로 제공하고 있습니다. 사용자는 다양한 데이터를 표현하고, 관리하고, 편집하고, 분석하고, 인쇄 할 수 있는 지도로 구성 할 수 있습니다. 먼저 상세한 제공 기능 목록을 확인해 주십시오."
-
-#: ../../themes/qgis-theme/about_index.html:79
-msgid "Take the QGIS feature tour"
-msgstr "QGIS 기능 둘러보기"
-
-#: ../../themes/qgis-theme/about_index.html:86
-msgid "Screenshots"
-msgstr "스크린 샷"
-
-#: ../../themes/qgis-theme/about_index.html:87
-msgid "To see QGIS in action, check out the community-based"
-msgstr "QGIS 실제 사례를 보시려면, QGIS 커뮤니티의 사례를 확인하세요."
-
-#: ../../themes/qgis-theme/about_index.html:89
-msgid "QGIS screenshots"
-msgstr "QGIS 스크린샷"
-
-#: ../../themes/qgis-theme/about_index.html:104
-msgid "Case Studies"
-msgstr "적용 사례"
-
-#: ../../themes/qgis-theme/about_index.html:105
-msgid ""
-"We also collect case studies of how people all over the world use QGIS for "
-"their GIS work."
-msgstr "또한 우리는 전세계 사람들이 어떻게 GIS 작업에 QGIS를 사용하는 지에 대한 사례를 수집합니다."
-
-#: ../../themes/qgis-theme/about_index.html:107
-msgid "See our QGIS case studies"
-msgstr "QGIS 활용사례 보기"
-
-#: ../../themes/qgis-theme/about_index.html:116
-msgid ""
-"We welcome financial contributions in the form of sponsoring and funding."
-msgstr "우리는 스폰서 및 기금 형태의 재정적 지원을 환영합니다."
-
-#: ../../themes/qgis-theme/about_index.html:118
-msgid "Organizations that support QGIS"
-msgstr "QGIS를 후원하고 있는 기관"
-
-#: ../../themes/qgis-theme/about_index.html:134
-msgid ""
-"Do you plan to use QGIS in your company or organization, but worry about "
-"whether there is commercial support available? Here is an alphabetical list,"
-" divided in categories, of support contractors."
-msgstr "QGIS를 당신의 회사 나 조직에서 사용하려 하고 있지만, 상업적인 지원이 되는지 걱정하고 있습니까? 여기에 분야별로 나누어진 지원 제공자의 알파벳순 목록이 있습니다."
-
-#: ../../themes/qgis-theme/about_index.html:137
-msgid "Learn about Commercial Support for QGIS"
-msgstr "QGIS의 상업적 지원 만나기"
 
 #: ../../themes/qgis-theme/forusers_index.html:7
 msgid "Get Started Using QGIS"
@@ -314,6 +66,13 @@ msgstr "도움 받기"
 msgid "In the Press"
 msgstr "언론 보도"
 
+#: ../../themes/qgis-theme/about_index.html:38
+#: ../../themes/qgis-theme/about_index.html:133
+#: ../../themes/qgis-theme/forusers_index.html:47
+#: ../../themes/qgis-theme/forusers_index.html:139
+msgid "Commercial Support"
+msgstr "상업적 지원"
+
 #: ../../themes/qgis-theme/forusers_index.html:60
 msgid "Download QGIS"
 msgstr "QGIS 다운로드 "
@@ -331,13 +90,13 @@ msgid "Check out our roadmap for future versions: "
 msgstr "향후 버전을 위한 로드맵 확인하기:"
 
 #: ../../themes/qgis-theme/forusers_index.html:68
-#: ../../themes/qgis-theme/getinvolved_index.html:146
+#: ../../themes/qgis-theme/getinvolved_index.html:156
 msgid "QGIS roadmap"
 msgstr "QGIS 로드맵"
 
 #: ../../themes/qgis-theme/forusers_index.html:72
-msgid "See the latest features in the visual changelog"
-msgstr "시각적 변경내용 상의 최신기능 보기"
+msgid "See the latest features in the visual changelogs"
+msgstr ""
 
 #: ../../themes/qgis-theme/forusers_index.html:91
 msgid "Our main documentation is the"
@@ -414,9 +173,925 @@ msgstr "QGIS 플러그인은 사용자에게 많은 새로운 기능과 함수�
 msgid "the plugin repository"
 msgstr "플러그인 저장소"
 
+#: ../../themes/qgis-theme/about_index.html:149
+#: ../../themes/qgis-theme/docs_index.html:163
+#: ../../themes/qgis-theme/forusers_index.html:177
+#: ../../themes/qgis-theme/getinvolved_donations.html:115
+#: ../../themes/qgis-theme/getinvolved_index.html:187
+msgid "Back to Top"
+msgstr "맨 위로 가기"
+
+#: ../../themes/qgis-theme/page.html:40
+msgid ""
+"If not stated otherwise, all content is licensed under <a "
+"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
+"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
+msgstr "별도로 기술하지 않는 경우, 모든 컨텐츠는 다음 라이센스를 따릅니다. <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
+
+#: ../../themes/qgis-theme/page.html:44
+msgid ""
+"Select graphics from <a href=\"http://thenounproject.com\" "
+"target=\"_blank\">The Noun Project collection</a>"
+msgstr "이미지들은 다음에서 선택하였습니다.  <a href=\"http://thenounproject.com\" target=\"_blank\">The Noun Project collection</a>"
+
+#: ../../themes/qgis-theme/page.html:48
+msgid " - Last updated on "
+msgstr "- 마지막 업데이트 "
+
+#: ../../themes/qgis-theme/page.html:52
+msgid "Untranslated page? Or you spot a translation error:"
+msgstr "페이지가 번역되지 않았거나 번역오류를 찾으셨나요?:"
+
+#: ../../themes/qgis-theme/page.html:53 ../../themes/qgis-theme/page.html:56
+msgid "fix me"
+msgstr "수정해 주세요"
+
+#: ../../themes/qgis-theme/page.html:55
+msgid "Textual error, missing text or you know better:"
+msgstr "문자 오류, 빠진 문자나 더 나은 문장이 있다면:"
+
+#: ../../themes/qgis-theme/page.html:138
+msgid "Discover QGIS"
+msgstr "QGIS 탐험"
+
+#: ../../themes/qgis-theme/index.html:137
+#: ../../themes/qgis-theme/page.html:140
+msgid "Get Involved"
+msgstr "참여하기"
+
+#: ../../themes/qgis-theme/search.html:11
+#: ../../themes/qgis-theme/search.html:20
+#: ../../themes/qgis-theme/searchbox.html:3
+msgid "Search"
+msgstr "검색"
+
+#: ../../themes/qgis-theme/forusers_download.html:3
+msgid "Download QGIS for your platform"
+msgstr "사용자의 운영체제에 맞는 QGIS 다운로드"
+
+#: ../../themes/qgis-theme/forusers_download.html:4
+msgid "Binary packages (installers) are available from this page."
+msgstr "바이너리 패키지(설치 프로그램)은 이 페이지에서 다운로드할 수 있습니다."
+
+#: ../../themes/qgis-theme/forusers_download.html:5
+#, python-format
+msgid "The current version is QGIS %s '%s' and was released on %s."
+msgstr "현재 버전은 QGIS %s '%s'  이고 %s에 나왔습니다."
+
+#: ../../themes/qgis-theme/forusers_download.html:6
+#, python-format
+msgid "The long-term repositories currently offer QGIS %s '%s'."
+msgstr "장기 지원 저장소는 현재 QGIS %s '%s'."
+
+#: ../../themes/qgis-theme/forusers_download.html:7
+msgid "QGIS is available on Windows, macOS, Linux and Android."
+msgstr "QGIS는 윈도우, 맥 OS X, 리눅스 및 안드로이드에서 사용하실 수 있습니다."
+
+#: ../../themes/qgis-theme/forusers_download.html:10
+#, python-format
+msgid ""
+"We are currently in feature freeze preceeding the release of QGIS %s. "
+"<b>Please consider testing the prereleases</b>. See "
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:11
+msgid "road map"
+msgstr "로드맵"
+
+#: ../../themes/qgis-theme/forusers_download.html:19
+msgid "Installation Downloads"
+msgstr "설치본 다운로드"
+
+#: ../../themes/qgis-theme/forusers_download.html:20
+msgid "All Releases"
+msgstr "모든 배포본"
+
+#: ../../themes/qgis-theme/forusers_download.html:21
+msgid "Sources"
+msgstr "소스"
+
+#: ../../themes/qgis-theme/forusers_download.html:34
+msgid "Download for Windows"
+msgstr "윈도우용 다운로드"
+
+#: ../../themes/qgis-theme/forusers_download.html:40
+msgid "QGIS in OSGeo4W:"
+msgstr "OSGeo4W에서의 QGIS:"
+
+#: ../../themes/qgis-theme/forusers_download.html:45
+msgid "OSGeo4W Network Installer (64 bit)"
+msgstr "OSGeo4W 네트워크 설치관리자 (64 bit)"
+
+#: ../../themes/qgis-theme/forusers_download.html:52
+msgid "OSGeo4W Network Installer (32 bit)"
+msgstr "OSGeo4W 네트워크 설치관리자 (32 bit)"
+
+#: ../../themes/qgis-theme/forusers_download.html:55
+msgid "In the installer choose "
+msgstr "설치관리자의 선택 항목에서"
+
+#: ../../themes/qgis-theme/forusers_download.html:55
+msgid "Desktop Express Install"
+msgstr "Express Desktop Install"
+
+#: ../../themes/qgis-theme/forusers_download.html:55
+msgid "and select"
+msgstr "및"
+
+#: ../../themes/qgis-theme/forusers_download.html:55
+#: ../../themes/qgis-theme/index.html:9
+msgid "QGIS"
+msgstr "QGIS"
+
+#: ../../themes/qgis-theme/forusers_download.html:55
+msgid "to install the <em>latest release</em>."
+msgstr " <em>최근 릴리스</em> 설치하기."
+
+#: ../../themes/qgis-theme/forusers_download.html:56
+msgid ""
+"To get the <em>long term release</em> (that is not also the latest release) "
+"choose "
+msgstr "<em>long term release</em> (최근 버전 아님) 얻으려면 선택하세요"
+
+#: ../../themes/qgis-theme/forusers_download.html:56
+#: ../../themes/qgis-theme/forusers_download.html:57
+msgid "Advanced Install"
+msgstr "고급 설치"
+
+#: ../../themes/qgis-theme/forusers_download.html:56
+#: ../../themes/qgis-theme/forusers_download.html:57
+msgid "and select "
+msgstr "및"
+
+#: ../../themes/qgis-theme/forusers_download.html:56
+msgid "qgis-ltr-full"
+msgstr "qgis-ltr-full 선택"
+
+#: ../../themes/qgis-theme/forusers_download.html:57
+msgid "To get the <em>bleeding-edge development build</em> choose "
+msgstr " <em>bleeding-edge development build</em> 를 얻으려면 고르세요 "
+
+#: ../../themes/qgis-theme/forusers_download.html:57
+msgid "qgis-full-dev"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:61
+msgid "Standalone installers from OSGeo4W packages"
+msgstr "OSGeo4W 패키지의 독립 설치 프로그램"
+
+#: ../../themes/qgis-theme/forusers_download.html:62
+#: ../../themes/qgis-theme/forusers_download.html:136
+msgid "Latest release (richest on features):"
+msgstr "최신 버전 (풍부한 기능):"
+
+#: ../../themes/qgis-theme/forusers_download.html:67
+#: ../../themes/qgis-theme/forusers_download.html:96
+#, python-format
+msgid "QGIS Standalone Installer Version %s (64 bit)"
+msgstr "QGIS 독립 설치관리자 버전 %s (64 비트)"
+
+#: ../../themes/qgis-theme/forusers_download.html:81
+#: ../../themes/qgis-theme/forusers_download.html:110
+#, python-format
+msgid "QGIS Standalone Installer Version %s (32 bit)"
+msgstr "QGIS 독립 설치관리자 버전 %s (32 비트)"
+
+#: ../../themes/qgis-theme/forusers_download.html:91
+msgid "Long term release repository (most stable):"
+msgstr "장기 지원 버전(가장 안정적):"
+
+#: ../../themes/qgis-theme/forusers_download.html:128
+msgid "Download for macOS"
+msgstr "맥 OS용 다운로드"
+
+#: ../../themes/qgis-theme/forusers_download.html:133
+msgid "Official All-in-one, signed installers"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:134
+msgid "Mac Installer Packages for macOS High Sierra (10.13) and newer."
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:135
+msgid ""
+"QGIS is not yet notarized as required by macOS Catalina (10.15) security "
+"rules. On first launch on, use right click on the QGIS app icon and choose "
+"Open."
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:141
+#: ../../themes/qgis-theme/forusers_download.html:149
+#, python-format
+msgid "QGIS macOS Installer Version %s"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:144
+msgid "Long term release (most stable):"
+msgstr "장기 릴리스(가장 안정적):"
+
+#: ../../themes/qgis-theme/forusers_download.html:152
+msgid "Alternative build"
+msgstr "다른 빌드"
+
+#: ../../themes/qgis-theme/forusers_download.html:154
+msgid "Mac Installer Packages for macOS El Capitan (10.11) and newer."
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:155
+msgid ""
+"Installation instructions are in the Read Me on the disk image. These "
+"packages use the "
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:155
+msgid ""
+"version 3.6, the \"macosx10.9\" build - other distributions are not "
+"supported. Install Python before installing QGIS."
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:156
+msgid "Additional GDAL format plugins and PROJ grids are available at "
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:161
+msgid "macOS Installers"
+msgstr "맥 OS 설치본"
+
+#: ../../themes/qgis-theme/forusers_download.html:171
+msgid "Download for Linux"
+msgstr "리눅스용 다운로드"
+
+#: ../../themes/qgis-theme/forusers_download.html:176
+msgid ""
+"For many flavors of GNU/Linux binary packages (rpm and deb) or software "
+"repositories (to add to your installation manager) are available. Please "
+"select your choice of distro below:"
+msgstr "여러 가지 유명한 GNU/Linux 바이너리 패키지(rpm 및 deb)나 (사용자의 설치관리자에 추가할) 소프트웨어 저장소에 있습니다. 아래에서 사용자의 distro를 선택해 주십시오:"
+
+#: ../../themes/qgis-theme/forusers_download.html:178
+msgid "Debian/Ubuntu"
+msgstr "데비안/우분투"
+
+#: ../../themes/qgis-theme/forusers_download.html:179
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../../themes/qgis-theme/forusers_download.html:180
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: ../../themes/qgis-theme/forusers_download.html:181
+msgid "RHEL, CentOS, Scientific Linux, ..."
+msgstr "RHEL, CentOS, Scientific Linux, ..."
+
+#: ../../themes/qgis-theme/forusers_download.html:182
+msgid "Mandriva"
+msgstr "Mandriva"
+
+#: ../../themes/qgis-theme/forusers_download.html:183
+msgid "Slackware"
+msgstr "Slackware"
+
+#: ../../themes/qgis-theme/forusers_download.html:184
+msgid "ArchLinux"
+msgstr "ArchLinux"
+
+#: ../../themes/qgis-theme/forusers_download.html:185
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: ../../themes/qgis-theme/forusers_download.html:187
+msgid "Linux Installation Instructions"
+msgstr "리눅스 설치 지침"
+
+#: ../../themes/qgis-theme/forusers_download.html:195
+msgid "Download for BSD"
+msgstr "BSD 용 다운로드"
+
+#: ../../themes/qgis-theme/forusers_download.html:200
+msgid "BSD Installation Instructions"
+msgstr "BSD 설치 지침"
+
+#: ../../themes/qgis-theme/forusers_download.html:208
+msgid "Apps for mobile and tablet"
+msgstr "모바일 및 태블릿 용 앱"
+
+#: ../../themes/qgis-theme/forusers_download.html:213
+msgid ""
+"The QGIS experience does not stop on the desktop. Various touch optimized "
+"apps allow you to take QGIS into the field"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:214
+msgid "Third-party touch optimized apps"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:215
+msgid "QField for QGIS (formerly QGIS for Android)"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:221
+msgid "Input (available for Android, iOS and Windows devices)"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:232
+msgid "QGIS for Android"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:233
+msgid ""
+"An old and deprecated not touch optimised release of QGIS for Android can be"
+" found in"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:233
+#: ../../themes/qgis-theme/forusers_download.html:240
+#: ../../themes/qgis-theme/forusers_download.html:242
+msgid "All downloads"
+msgstr "모든 다운로드"
+
+#: ../../themes/qgis-theme/forusers_download.html:242
+msgid ""
+"More specific instructions about downloading QGIS stable vs QGIS development"
+" can be found in"
+msgstr "QGIS 안정 및 GQIS 개발 다운로드에 대한 명확한 안내를 다음에서 찾을 수 있습니다."
+
+#: ../../themes/qgis-theme/forusers_download.html:245
+msgid "Datasets"
+msgstr "데이터셋"
+
+#: ../../themes/qgis-theme/forusers_download.html:246
+msgid "For testing and learning purposes, a "
+msgstr "테스트 및 학습 목적으로 사용할 수 있는"
+
+#: ../../themes/qgis-theme/forusers_download.html:246
+msgid "sample dataset is available"
+msgstr "샘플 데이터셋이 있습니다."
+
+#: ../../themes/qgis-theme/forusers_download.html:246
+msgid ""
+"which contains collections of data from different sources and in different "
+"formats."
+msgstr "다양한 데이터 공급자와 다양한 포맷의 데이터 모음이 있습니다."
+
+#: ../../themes/qgis-theme/forusers_download.html:252
+msgid "Previous releases of QGIS are still available"
+msgstr "이전 번의 QGIS 역시 사용 가능합니다"
+
+#: ../../themes/qgis-theme/forusers_download.html:252
+#: ../../themes/qgis-theme/forusers_download.html:253
+#: ../../themes/qgis-theme/forusers_download.html:254
+#: ../../themes/qgis-theme/forusers_download.html:256
+#: ../../themes/qgis-theme/forusers_download.html:257
+#: ../../themes/qgis-theme/forusers_download.html:267
+#: ../../themes/qgis-theme/forusers_download.html:268
+#: ../../themes/qgis-theme/forusers_download.html:269
+msgid "here"
+msgstr "다운로드"
+
+#: ../../themes/qgis-theme/forusers_download.html:252
+msgid " - including older releases for OS X "
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:254
+msgid "More older releases are available"
+msgstr "더 이전 버전도 사용 가능합니다"
+
+#: ../../themes/qgis-theme/forusers_download.html:255
+#: ../../themes/qgis-theme/forusers_download.html:265
+#: ../../themes/qgis-theme/getinvolved_index.html:16
+#: ../../themes/qgis-theme/getinvolved_index.html:90
+msgid "and"
+msgstr "및"
+
+#: ../../themes/qgis-theme/forusers_download.html:256
+msgid "for OS X "
+msgstr "OS X 용"
+
+#: ../../themes/qgis-theme/forusers_download.html:257
+#: ../../themes/qgis-theme/forusers_download.html:269
+msgid "Plugins for QGIS are also available "
+msgstr "QGIS를 위한 플러그인이 여기에 있습니다."
+
+#: ../../themes/qgis-theme/forusers_download.html:262
+msgid "QGIS is open source software available under the terms of the"
+msgstr "QGIS은 다음 라이센스 하에서 제공되는 오픈 소스 소프트웨어입니다."
+
+#: ../../themes/qgis-theme/forusers_download.html:262
+msgid "GNU General Public License"
+msgstr "GNU General Public License"
+
+#: ../../themes/qgis-theme/forusers_download.html:262
+msgid ""
+"meaning that its source code can be downloaded through tarballs or the git "
+"repository."
+msgstr "이것은 소스코드를 tar 파일이나 git 저장소에서 받을 수 있음을 의미합니다."
+
+#: ../../themes/qgis-theme/forusers_download.html:263
+msgid "QGIS Source Code is available "
+msgstr "QGIS의 소스코드를 다운로드 받을 수  있습니다."
+
+#: ../../themes/qgis-theme/forusers_download.html:264
+msgid "here (latest release)"
+msgstr "여기(최신 버전)"
+
+#: ../../themes/qgis-theme/forusers_download.html:266
+msgid "here (long term release)"
+msgstr "여기(장기지원 버전)"
+
+#: ../../themes/qgis-theme/forusers_download.html:267
+msgid ""
+"Refer to the INSTALL guide on how to compile QGIS from source for the "
+"different platforms:"
+msgstr "플랫폼에 따라 소스에서 최신 QGIS 빌드하기 위해서는 QGIS 컴파일 방법의 설치 가이드를 참조하십시오:"
+
+#: ../../themes/qgis-theme/forusers_download.html:268
+msgid ""
+"Note that you can also install the development version (nightly) via an "
+"installer from the normal downloads for your platform:"
+msgstr "사용자 운영체제에 맞는 설치프로그램 다운로드 해 개발버전(nightly)도 설치 가능함을 알아두세요."
+
+#: ../../themes/qgis-theme/docs_index.html:7
+msgid "QGIS Documentation"
+msgstr "QGIS 문서"
+
+#: ../../themes/qgis-theme/docs_index.html:8
+msgid ""
+"QGIS has a lot of documentation. All documentation is in English but some "
+"documents such as the user guide are also available in other languages."
+msgstr "QGIS에는 많은 문서가 있습니다. 모든 문서는 영어로 되어 있지만 일부 문서, 예를 들면 사용자 지침서는 다른 언어로도 제공됩니다."
+
+#: ../../themes/qgis-theme/docs_index.html:9
+msgid ""
+"You will find documentation for every QGIS long term release on the "
+"respective documentation website."
+msgstr "모든 QGIS 장기 릴리스에 대한 문서를 해당 문서 웹 사이트에서 찾을 수 있습니다."
+
+#: ../../themes/qgis-theme/docs_index.html:10
+msgid "Get involved"
+msgstr "여기에 참여하세요"
+
+#: ../../themes/qgis-theme/docs_index.html:10
+msgid " and help us write a better documentation."
+msgstr "그리고 더 나은 문서를 작성하도록 도와주세요."
+
+#: ../../themes/qgis-theme/docs_index.html:27
+msgid "DOCUMENTATION"
+msgstr "문서"
+
+#: ../../themes/qgis-theme/docs_index.html:32
+#: ../../themes/qgis-theme/docs_index.html:55
+msgid "QGIS 3.10"
+msgstr "QGIS 3.10"
+
+#: ../../themes/qgis-theme/docs_index.html:35
+msgid "QGIS testing (>3.10)"
+msgstr "QGIS testing (>3.10)"
+
+#: ../../themes/qgis-theme/docs_index.html:38
+#: ../../themes/qgis-theme/docs_index.html:110
+msgid "QGIS 3.4"
+msgstr "QGIS 3.4"
+
+#: ../../themes/qgis-theme/docs_index.html:41
+msgid "Documentation for older versions"
+msgstr "이전 버전에 대한 문서"
+
+#: ../../themes/qgis-theme/docs_index.html:56
+#: ../../themes/qgis-theme/docs_index.html:111
+msgid "For users:"
+msgstr "사용자를 위한 정보:"
+
+#: ../../themes/qgis-theme/docs_index.html:58
+#: ../../themes/qgis-theme/docs_index.html:113
+msgid "Read the"
+msgstr "읽어 보세요: "
+
+#: ../../themes/qgis-theme/docs_index.html:58
+#: ../../themes/qgis-theme/docs_index.html:113
+msgid "QGIS User guide"
+msgstr "QGIS 사용자 지침서"
+
+#: ../../themes/qgis-theme/docs_index.html:59
+#: ../../themes/qgis-theme/docs_index.html:114
+msgid "Follow the tutorials in the"
+msgstr "튜토리얼을 따라 해 보십시오:"
+
+#: ../../themes/qgis-theme/docs_index.html:59
+#: ../../themes/qgis-theme/docs_index.html:114
+msgid "QGIS Training manual"
+msgstr "QGIS 교육 교재"
+
+#: ../../themes/qgis-theme/docs_index.html:60
+#: ../../themes/qgis-theme/docs_index.html:115
+msgid "Learn GIS basics in"
+msgstr "GIS 기초를 배워보십시오:"
+
+#: ../../themes/qgis-theme/docs_index.html:60
+#: ../../themes/qgis-theme/docs_index.html:99
+#: ../../themes/qgis-theme/docs_index.html:115
+msgid "A gentle introduction in GIS"
+msgstr "GIS에 대한 친절한 소개"
+
+#: ../../themes/qgis-theme/docs_index.html:63
+#: ../../themes/qgis-theme/docs_index.html:118
+msgid "For documentation writers:"
+msgstr "문서 작성자를 위한 정보:"
+
+#: ../../themes/qgis-theme/docs_index.html:65
+#: ../../themes/qgis-theme/docs_index.html:120
+msgid "Learn how to write docs using the"
+msgstr "문서를 어떻게 만드는지 배워보십시오: "
+
+#: ../../themes/qgis-theme/docs_index.html:65
+#: ../../themes/qgis-theme/docs_index.html:120
+msgid "Documentation Guidelines"
+msgstr "문서화 가이드라인"
+
+#: ../../themes/qgis-theme/docs_index.html:68
+#: ../../themes/qgis-theme/docs_index.html:123
+msgid "For developers:"
+msgstr "개발자를 위한 정보:"
+
+#: ../../themes/qgis-theme/docs_index.html:70
+#: ../../themes/qgis-theme/docs_index.html:125
+msgid "Go Python, study the"
+msgstr "파이썬을 써보세요: "
+
+#: ../../themes/qgis-theme/docs_index.html:70
+#: ../../themes/qgis-theme/docs_index.html:125
+msgid "PyQGIS cookbook (for plugins and scripting)"
+msgstr "PyQGIS 쿡북 (플러그인과 스크립트 용)"
+
+#: ../../themes/qgis-theme/docs_index.html:71
+#: ../../themes/qgis-theme/docs_index.html:101
+#: ../../themes/qgis-theme/docs_index.html:126
+msgid "C++ Api documentation"
+msgstr "C++ API 문서"
+
+#: ../../themes/qgis-theme/docs_index.html:72
+#: ../../themes/qgis-theme/docs_index.html:102
+#: ../../themes/qgis-theme/docs_index.html:127
+msgid "PyQGIS - QGIS Python Api documentation"
+msgstr "PyQGIS - QGIS Python API 문서"
+
+#: ../../themes/qgis-theme/docs_index.html:90
+msgid "QGIS testing"
+msgstr "QGIS 테스트"
+
+#: ../../themes/qgis-theme/docs_index.html:91
+msgid ""
+"We are still updating (not translating yet) the documentation for releases "
+"newer than QGIS 3.10. We call this version 'QGIS testing' and the "
+"documentation can be found here: "
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:91
+msgid "https://docs.qgis.org/testing"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:92
+msgid "Desktop User Guide/Manual"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:93
+msgid "Server Guide/Manual"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:94
+msgid "QGIS Training Manual"
+msgstr "QGIS 교육 교재"
+
+#: ../../themes/qgis-theme/docs_index.html:95
+msgid "PyQGIS Cookbook"
+msgstr "PyQGIS 쿡북"
+
+#: ../../themes/qgis-theme/docs_index.html:96
+msgid "QGIS Developers Guide"
+msgstr "QGIS 개발자 가이드"
+
+#: ../../themes/qgis-theme/docs_index.html:98
+msgid "Documentation Guidelines (how to write the docs)"
+msgstr "문서화 가이드라인 (문서 작성 방법)"
+
+#: ../../themes/qgis-theme/docs_index.html:100
+msgid "PDF versions of all above, eg for printing are available here: "
+msgstr "인쇄 등의 목적으로 사용가능 한 PDF 버전은 여기에 있습니다:"
+
+#: ../../themes/qgis-theme/docs_index.html:100
+msgid "https://docs.qgis.org/testing/pdf"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:113
+#: ../../themes/qgis-theme/docs_index.html:114
+#: ../../themes/qgis-theme/docs_index.html:125
+msgid "or as PDF"
+msgstr "또는 PDF"
+
+#: ../../themes/qgis-theme/docs_index.html:141
+msgid "Archived"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:142
+msgid "Links to documentation of older version of QGIS: "
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:144
+msgid "QGIS 2.18 Documentation"
+msgstr "QGIS 2.18 문서"
+
+#: ../../themes/qgis-theme/docs_index.html:145
+msgid "QGIS 2.14 Documentation"
+msgstr "QGIS 2.14 문서"
+
+#: ../../themes/qgis-theme/docs_index.html:146
+msgid "QGIS 2.8 Documentation"
+msgstr "QGIS 2.8 문서"
+
+#: ../../themes/qgis-theme/about_index.html:7
+msgid "QGIS - The Leading Open Source Desktop GIS"
+msgstr "QGIS - 오픈소스 데스크탑 GIS의 리더"
+
+#: ../../themes/qgis-theme/about_index.html:8
+msgid ""
+"QGIS is a professional GIS application that is built on top of and\n"
+"                         proud to be itself Free and Open Source Software (FOSS)."
+msgstr "QGIS는 FOSS (Free and Open Source Software)를 기반으로 만든 전문 GIS 애플리케이션입니다."
+
+#: ../../themes/qgis-theme/about_index.html:21
+msgid "DISCOVER"
+msgstr "찾아보기"
+
+#: ../../themes/qgis-theme/about_index.html:26
+msgid "QGIS Features"
+msgstr "QGIS 특징"
+
+#: ../../themes/qgis-theme/about_index.html:29
+msgid "QGIS Screenshots"
+msgstr "QGIS 스크린샷"
+
+#: ../../themes/qgis-theme/about_index.html:32
+msgid "QGIS Case Studies"
+msgstr "QGIS 적용 사례"
+
+#: ../../themes/qgis-theme/about_index.html:35
+#: ../../themes/qgis-theme/about_index.html:115
+msgid "Supporting Organizations"
+msgstr "후원 기관"
+
+#: ../../themes/qgis-theme/about_index.html:52
+msgid "About QGIS"
+msgstr "QGIS 정보"
+
+#: ../../themes/qgis-theme/about_index.html:54
+msgid ""
+"QGIS is a user friendly Open Source Geographic Information System (GIS) "
+"licensed under the GNU General Public License. QGIS is an official project "
+"of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, "
+"Mac OSX, Windows and Android and supports numerous vector, raster, and "
+"database formats and functionalities."
+msgstr "QGIS는 GNU General Public License 하에서 제공되는 사용자 친화적 오픈 소스 Geographic Information System (GIS)입니다. QGIS는 Open Source Geospatial Foundation (OSGeo)의 공식 프로젝트에서 Lunux, Unix, Mac OSX, Windows, Andoid에서 동작하며 수많은 벡터, 래스터, 데이터베이스 포맷과 기능을 지원하고 있습니다."
+
+#: ../../themes/qgis-theme/about_index.html:55
+msgid "Our latest release is QGIS "
+msgstr "최근 릴리스는 QGIS "
+
+#: ../../themes/qgis-theme/about_index.html:56
+msgid "Get started"
+msgstr "시작하기"
+
+#: ../../themes/qgis-theme/about_index.html:63
+msgid "The Community"
+msgstr "커뮤니티"
+
+#: ../../themes/qgis-theme/about_index.html:65
+msgid ""
+"QGIS is a volunteer driven project. We welcome contributions in the form of "
+"code contributions, bug fixes, bug reports, contributed documentation, "
+"advocacy and supporting other users on our mailing lists and "
+"gis.stackexchange.com. If you are interested in actively supporting the "
+"project, you can find more information under the development menu and on the"
+" QGIS Wiki."
+msgstr "QGIS는 자원 봉사자에 의해 운영되는 프로젝트입니다. 우리는 코드 제공, 버그 수정, 버그 보고, 문서 제공, 메일링 리스트 및 gis.stackexchange.com 상에서의 다른 사용자에게 홍보 및 지원 등을 모두 환영합니다. 만약 당신이 프로젝트를 적극적으로 지원하는 데 관심이 있다면, 개발 메뉴와 QGIS Wiki에서 추가 정보를 확인할 수 있습니다."
+
+#: ../../themes/qgis-theme/about_index.html:75
+msgid "Features"
+msgstr "특징"
+
+#: ../../themes/qgis-theme/about_index.html:76
+msgid ""
+"QGIS provides a continously growing number of capabilities provided by core "
+"functions and plugins. You can visualize, manage, edit, analyse data, and "
+"compose printable maps. Get a first impression with a more detailed feature "
+"list."
+msgstr "QGIS는 지속적으로 수많은 기능을 핵심 기능 및 플러그인 형태로 제공하고 있습니다. 사용자는 다양한 데이터를 표현하고, 관리하고, 편집하고, 분석하고, 인쇄 할 수 있는 지도로 구성 할 수 있습니다. 먼저 상세한 제공 기능 목록을 확인해 주십시오."
+
+#: ../../themes/qgis-theme/about_index.html:79
+msgid "Take the QGIS feature tour"
+msgstr "QGIS 기능 둘러보기"
+
+#: ../../themes/qgis-theme/about_index.html:86
+msgid "Screenshots"
+msgstr "스크린샷"
+
+#: ../../themes/qgis-theme/about_index.html:87
+msgid "To see QGIS in action, check out the community-based"
+msgstr "QGIS 실제 사례를 보려면, QGIS 커뮤니티 사례를 확인하세요."
+
+#: ../../themes/qgis-theme/about_index.html:89
+msgid "QGIS screenshots"
+msgstr "QGIS 스크린샷"
+
+#: ../../themes/qgis-theme/about_index.html:104
+msgid "Case Studies"
+msgstr "적용 사례"
+
+#: ../../themes/qgis-theme/about_index.html:105
+msgid ""
+"We also collect case studies of how people all over the world use QGIS for "
+"their GIS work."
+msgstr "또한 우리는 전세계 사람들이 어떻게 GIS 작업에 QGIS를 사용하는 지에 대한 사례를 수집합니다."
+
+#: ../../themes/qgis-theme/about_index.html:107
+msgid "See our QGIS case studies"
+msgstr "QGIS 활용사례 보기"
+
+#: ../../themes/qgis-theme/about_index.html:116
+msgid ""
+"We welcome financial contributions in the form of sustaining memberships and"
+" donations."
+msgstr "회원 유지 및 기부의 형태로 재정적 기부를 환영합니다."
+
+#: ../../themes/qgis-theme/about_index.html:118
+msgid "Organizations that support QGIS"
+msgstr "QGIS를 후원하고 있는 기관"
+
+#: ../../themes/qgis-theme/about_index.html:134
+msgid ""
+"Do you plan to use QGIS in your company or organization, but worry about "
+"whether there is commercial support available? Here is an alphabetical list,"
+" divided in categories, of support contractors."
+msgstr "QGIS를 당신의 회사나 조직에서 사용하려 하고 있지만, 상업적인 지원이 되는지 걱정하고 있습니까? 여기에 분야별로 나누어진 지원 제공자의 알파벳순 목록이 있습니다."
+
+#: ../../themes/qgis-theme/about_index.html:137
+msgid "Learn about Commercial Support for QGIS"
+msgstr "QGIS의 상업적 지원 만나기"
+
+#: ../../themes/qgis-theme/localtoc.html:3
+msgid "Page"
+msgstr "페이지"
+
+#: ../../themes/qgis-theme/index.html:3
+msgid "Time until freeze"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:4
+msgid "Time until packaging"
+msgstr "패키징까지 남은 시간"
+
+#: ../../themes/qgis-theme/index.html:5
+msgid "Time until next pointrelease"
+msgstr "다음 포인트 릴리스 남은 시간"
+
+#: ../../themes/qgis-theme/index.html:12
+msgid "A Free and Open Source Geographic Information System"
+msgstr "자유 오픈 소스 지리정보 시스템"
+
+#: ../../themes/qgis-theme/index.html:33
+msgid "New release: 3.16!"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:35
+msgid "Get the"
+msgstr "시작하려면"
+
+#: ../../themes/qgis-theme/index.html:36
+msgid "installer or packages"
+msgstr "설치관리자 또는 패키지를"
+
+#: ../../themes/qgis-theme/index.html:37
+msgid "for your Operating System and read the"
+msgstr "사용자의 운영체제에 맞게 받고 변경로그를 읽으세요"
+
+#: ../../themes/qgis-theme/index.html:38
+msgid "changelog."
+msgstr "변경로그."
+
+#: ../../themes/qgis-theme/index.html:47
+msgid "QGIS Community meetings"
+msgstr "QGIS 커뮤니티 모임"
+
+#: ../../themes/qgis-theme/index.html:49
+msgid "Find out more about our tradition of user and contributor"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:49
+msgid "meetings!"
+msgstr "모임!"
+
+#: ../../themes/qgis-theme/index.html:58
+msgid "Look cool and support the QGIS project!"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:60
+msgid "Pick your style and favourite color and show your support with our"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:61
+msgid "QGIS goodies!"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:76
+msgid ""
+"Create, edit, visualise, analyse and publish geospatial\n"
+"            information on Windows, Mac, Linux, BSD and mobile devices"
+msgstr "윈도, 맥, 리눅스, BSD 및 모바일 장치에서 공간정보를 생성, 편집, 시각화, 분석 및 발행"
+
+#: ../../themes/qgis-theme/index.html:80
+msgid ""
+"For your desktop, server, in your web browser and as\n"
+"            developer libraries"
+msgstr "데스크탑, 서버, 웹브라우저에서와 개발 라이브러리로 사용사능"
+
+#: ../../themes/qgis-theme/index.html:87
+msgid "Download Now"
+msgstr "지금 다운로드"
+
+#: ../../themes/qgis-theme/index.html:88
+msgid "Version"
+msgstr "버전"
+
+#: ../../themes/qgis-theme/index.html:91
+msgid "Support QGIS"
+msgstr "QGIS 후원하기"
+
+#: ../../themes/qgis-theme/index.html:92
+msgid "Donate now!"
+msgstr "지금 기부하기!"
+
+#: ../../themes/qgis-theme/index.html:100
+msgid "Project News"
+msgstr "프로젝트 소식"
+
+#: ../../themes/qgis-theme/index.html:106
+msgid "Latest Project Blog Posts (blog.qgis.org)"
+msgstr "최근 프로젝트 블로그 게시물(blog.qgis.org)"
+
+#: ../../themes/qgis-theme/index.html:124
+msgid "Get Started"
+msgstr "시작하기"
+
+#: ../../themes/qgis-theme/index.html:128
+msgid "Start using QGIS for your GIS tasks."
+msgstr "여러분의 GIS 작업에 QGIS를 사용해 보세요."
+
+#: ../../themes/qgis-theme/index.html:140
+msgid "Shape the future of QGIS with your contributions."
+msgstr "당신의 기여가 QGIS의 미래를 만듭니다."
+
+#: ../../themes/qgis-theme/index.html:148
+msgid "Learn More"
+msgstr "더 배우기"
+
+#: ../../themes/qgis-theme/index.html:152
+msgid "Find training materials and reference documentation."
+msgstr "실습 교재와 참고 문서 찾기."
+
+#: ../../themes/qgis-theme/index.html:165
+msgid "Latest Community News"
+msgstr "최신 커뮤니티 소식"
+
+#: ../../themes/qgis-theme/index.html:168
+msgid "Find out what is going on with the QGIS project and its community."
+msgstr "QGIS 프로젝트와 커뮤니티에서 어떤 일이 일어나고 있는지 알아보기."
+
+#: ../../themes/qgis-theme/index.html:173
+msgid "Upcoming User & Developer Meetings"
+msgstr "다가올 사용자 및 개발자 미팅"
+
+#: ../../themes/qgis-theme/index.html:182
+msgid "Latest Blog Posts"
+msgstr "최근 블로그 게시물"
+
+#: ../../themes/qgis-theme/index.html:222
+msgid "See More Maps and Screenshots"
+msgstr "지도 및 스크린샷 더 보기"
+
+#: ../../themes/qgis-theme/index.html:242
+msgid "Sustaining Members"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:278
+msgid "frozen since"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:281
+msgid "in packaging since"
+msgstr ""
+
 #: ../../themes/qgis-theme/languageswitch.html:4
 msgid "English"
-msgstr "English"
+msgstr "영어"
 
 #: ../../themes/qgis-theme/languageswitch.html:5
 msgid "Catalan"
@@ -444,11 +1119,11 @@ msgstr "Finnish"
 
 #: ../../themes/qgis-theme/languageswitch.html:11
 msgid "French"
-msgstr "French"
+msgstr "프랑스어"
 
 #: ../../themes/qgis-theme/languageswitch.html:12
 msgid "Galician"
-msgstr ""
+msgstr "갈리시아어"
 
 #: ../../themes/qgis-theme/languageswitch.html:13
 msgid "Indonesian"
@@ -456,7 +1131,7 @@ msgstr "Indonesian"
 
 #: ../../themes/qgis-theme/languageswitch.html:14
 msgid "Italian"
-msgstr "Italian"
+msgstr "이탈리아어"
 
 #: ../../themes/qgis-theme/languageswitch.html:15
 msgid "Hungarian"
@@ -464,7 +1139,7 @@ msgstr "헝가리어"
 
 #: ../../themes/qgis-theme/languageswitch.html:16
 msgid "Japanese"
-msgstr "Japanese"
+msgstr "일본어"
 
 #: ../../themes/qgis-theme/languageswitch.html:17
 msgid "Khmer"
@@ -511,14 +1186,18 @@ msgid "Ukrainian"
 msgstr "Ukrainian"
 
 #: ../../themes/qgis-theme/languageswitch.html:28
-msgid "Chinese (China)"
-msgstr "Chinese (China)"
+msgid "Chinese (Simplified)"
+msgstr "중국어 (간체)"
 
-#: ../../themes/qgis-theme/languageswitch.html:90
+#: ../../themes/qgis-theme/languageswitch.html:29
+msgid "Chinese (Traditional)"
+msgstr "중국어 (번체)"
+
+#: ../../themes/qgis-theme/languageswitch.html:99
 msgid "Thank you!"
 msgstr "고맙습니다!"
 
-#: ../../themes/qgis-theme/languageswitch.html:92
+#: ../../themes/qgis-theme/languageswitch.html:101
 msgid ""
 "Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and "
 "will always be free of charge if downloaded from QGIS.org. If you can afford"
@@ -528,336 +1207,153 @@ msgid ""
 "not, we hope that you enjoy using our labour of love and encourage you to "
 "share and spread your downloaded copy far and wide so that others may enjoy "
 "it too. Our very best regards!"
-msgstr "방금 나온 QGIS의 배포본은 다운로드 중입니다. QGIS는 무료이며 QGIS.org에서 언제나 무료로 다운로드 받을 수 있습니다. 이 소프트웨어를 만드는 사람들과 프로젝트를 지원하고싶으시다면 우리의 노력을  <a href=\"https://qgis.org/en/site/getinvolved/donations.html\">지원하기 위한 작은 기부</a>를 고려해 주십시오. 기부여부와 상관 없이 저희가 사랑을 가지고 만든 이 결과물의 사용을 즐겨하기를 희망합니다. 또한 여러분이 다운로드받은 카피본을 다른 이들도 즐길 수 있도록 널리 멀리 퍼뜨리고 공유하는 것을 장려합니다. "
+msgstr ""
 
-#: ../../themes/qgis-theme/languageswitch.html:93
+#: ../../themes/qgis-theme/languageswitch.html:102
+#: ../../themes/qgis-theme/languageswitch.html:132
 msgid "The QGIS Team"
-msgstr "QGIS Team"
+msgstr "QGIS 팀"
 
-#: ../../themes/qgis-theme/languageswitch.html:95
+#: ../../themes/qgis-theme/languageswitch.html:104
 msgid "Donate Now"
 msgstr "지금 기부하기"
 
-#: ../../themes/qgis-theme/languageswitch.html:96
+#: ../../themes/qgis-theme/languageswitch.html:105
+#: ../../themes/qgis-theme/languageswitch.html:134
 msgid "Close this message"
 msgstr "이 메시지 닫기"
 
-#: ../../themes/qgis-theme/index.html:3
-msgid "Time until freeze"
+#: ../../themes/qgis-theme/languageswitch.html:128
+msgid "Thank you for your donation!"
 msgstr ""
 
-#: ../../themes/qgis-theme/index.html:4
-msgid "Time until packaging"
-msgstr "패키징까지 남은 시간"
-
-#: ../../themes/qgis-theme/index.html:5
-msgid "Time until next pointrelease"
-msgstr "다음 배포본까지 남은 시간"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-#: ../../themes/qgis-theme/index.html:9
-msgid "QGIS"
-msgstr "QGIS"
-
-#: ../../themes/qgis-theme/index.html:12
-msgid "A Free and Open Source Geographic Information System"
-msgstr "무료 오픈 소스 지리정보 시스템"
-
-#: ../../themes/qgis-theme/index.html:33
-msgid "New major release!"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:35
-msgid "Get the"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:36
-msgid "installer or packages"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:37
-msgid "for your Operating System!"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:46
-msgid "21st Developer meeting"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:48
-msgid "Come along"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:49
-msgid "to Zanzibar"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:50
-msgid "to find out more about QGIS!"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:59
-msgid "Look cool and support the QGIS project!"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:61
-msgid "Pick your style and favourite color and show your support with our"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:62
-msgid "QGIS goodies!"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:71
-msgid "Join the FOSS4G community!"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:73
+#: ../../themes/qgis-theme/languageswitch.html:130
 msgid ""
-"Workshops, talks, code sprints, and community events are waiting for you at"
+"QGIS is free of charge and we hope that you enjoy using our labour of love "
+"and encourage you to share and spread your downloaded copy far and wide so "
+"that others may enjoy it too. Our very best regards!"
 msgstr ""
 
-#: ../../themes/qgis-theme/index.html:74
-msgid "FOSS4G 2018 in Dar!"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:89
+#: ../../themes/qgis-theme/languageswitch.html:131
 msgid ""
-"Create, edit, visualise, analyse and publish geospatial\n"
-"            information on Windows, Mac, Linux, BSD (Android coming soon)"
-msgstr "윈도우, 맥, 리눅스, BSD (안드로이드도 곧 공개 예정) 상에서\n지리정보를 생성, 편집, 시각화, 분석 및 출판"
+"Unfortunately there was an error processing your Donation. Please try again "
+"later, or contact us via finance@qgis.org"
+msgstr ""
 
-#: ../../themes/qgis-theme/index.html:93
+#: ../../themes/qgis-theme/getinvolved_donations.html:8
+msgid "QGIS Donations"
+msgstr "QGIS 기부자"
+
+#: ../../themes/qgis-theme/getinvolved_donations.html:9
 msgid ""
-"For your desktop, server, in your web browser and as\n"
-"            developer libraries"
-msgstr "데스크탑, 서버, 웹브라우저에서와 개발 라이브러리로 사용사능"
+"QGIS is developed by a team of dedicated volunteers, companies and "
+"organisations."
+msgstr "QGIS는 헌신적인 자원봉사자, 회사 및 조직으로 구성된 팀이 개발했습니다."
 
-#: ../../themes/qgis-theme/index.html:100
-msgid "Download Now"
-msgstr "지금 다운로드"
-
-#: ../../themes/qgis-theme/index.html:101
-msgid "Version"
-msgstr "버전"
-
-#: ../../themes/qgis-theme/index.html:104
-msgid "Support QGIS"
-msgstr "QGIS 후원하기"
-
-#: ../../themes/qgis-theme/index.html:105
-msgid "Donate now!"
-msgstr "지금 기부하기!"
-
-#: ../../themes/qgis-theme/index.html:113
-msgid "Project News"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:119
-msgid "Latest Project Blog Posts (blog.qgis.org)"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:137
-msgid "Get Started"
-msgstr "시작하기"
-
-#: ../../themes/qgis-theme/index.html:141
-msgid "Start using QGIS for your GIS tasks."
-msgstr "여러분의 GIS 작업에 QGIS를 사용해 보세요."
-
-#: ../../themes/qgis-theme/index.html:150
-#: ../../themes/qgis-theme/page.html:140
-msgid "Get Involved"
-msgstr "참여하기"
-
-#: ../../themes/qgis-theme/index.html:153
-msgid "Shape the future of QGIS with your contributions."
-msgstr "당신의 기여가 QGIS의 미래를 만듭니다."
-
-#: ../../themes/qgis-theme/index.html:161
-msgid "Learn More"
-msgstr "더 배우기"
-
-#: ../../themes/qgis-theme/index.html:165
-msgid "Find training materials and reference documentation."
-msgstr "실습 교재와 참고 문서 찾기."
-
-#: ../../themes/qgis-theme/index.html:178
-msgid "Latest Community News"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:181
-msgid "Find out what is going on with the QGIS project and its community."
-msgstr "QGIS 프로젝트와 커뮤니티에서 어떤 일이 일어나고 있는지 알아보기."
-
-#: ../../themes/qgis-theme/index.html:186
-msgid "Upcoming User & Developer Meetings"
-msgstr "다가올 사용자 및 개발자 미팅"
-
-#: ../../themes/qgis-theme/index.html:195
-msgid "Latest Blog Posts (planet.qgis.org)"
-msgstr "최근 블로그 게시물(planet.qgis.org)"
-
-#: ../../themes/qgis-theme/index.html:235
-msgid "See More Maps and Screenshots"
-msgstr "지도 및 스크린샷 더 보기"
-
-#: ../../themes/qgis-theme/index.html:255
-msgid "Sponsors"
-msgstr "후원자"
-
-#: ../../themes/qgis-theme/index.html:291
-msgid "frozen since"
-msgstr ""
-
-#: ../../themes/qgis-theme/index.html:294
-msgid "in packaging since"
-msgstr "포함되었음"
-
-#: ../../themes/qgis-theme/docs_index.html:7
-msgid "QGIS Documentation"
-msgstr "QGIS 문서"
-
-#: ../../themes/qgis-theme/docs_index.html:8
+#: ../../themes/qgis-theme/getinvolved_donations.html:13
 msgid ""
-"QGIS has a lot of documentation. All documentation is in English but some "
-"documents such as the user guide are also available in other languages."
-msgstr "QGIS에는 많은 문서가 있습니다. 모든 문서는 영어로 되어 있지만 일부 문서, 예를 들면 사용자 지침서는 다른 언어로도 제공됩니다."
+"Donations to QGIS are tax-deductible in several countries. Please refer to your local tax office for details.\n"
+"                    If you want to tax-deduct as a german company or organization, please donate through the "
+msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:9
+#: ../../themes/qgis-theme/getinvolved_donations.html:14
+msgid "German QGIS user group"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_donations.html:14
 msgid ""
-"You will find documentation for every QGIS release on the respective "
-"documentation website."
-msgstr "모든 QGIS 배포본의 문서를 각각의 문서 웹사이트에서 찾으실 수 있습니다."
-
-#: ../../themes/qgis-theme/docs_index.html:25
-msgid "DOCUMENTATION"
-msgstr "문서"
-
-#: ../../themes/qgis-theme/docs_index.html:30
-#: ../../themes/qgis-theme/docs_index.html:50
-msgid "QGIS 2.18"
+". They can issue a payment confirmation as a tax-exempt german association."
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:33
-msgid "QGIS testing (3.x)"
-msgstr ""
+#: ../../themes/qgis-theme/getinvolved_donations.html:16
+#: ../../themes/qgis-theme/getinvolved_index.html:12
+msgid "You can get involved!"
+msgstr "당신도 참여하실 수 있습니다!"
 
-#: ../../themes/qgis-theme/docs_index.html:36
-msgid "Documentation for older versions"
-msgstr ""
+#: ../../themes/qgis-theme/getinvolved_donations.html:28
+msgid "DONATE TO THE PROJECT"
+msgstr "프로젝트에 기부하기"
 
-#: ../../themes/qgis-theme/docs_index.html:53
-msgid "Read the"
-msgstr "읽어 보세요: "
+#: ../../themes/qgis-theme/getinvolved_donations.html:33
+#: ../../themes/qgis-theme/getinvolved_donations.html:53
+msgid "Bank Transfer"
+msgstr "계좌 이체"
 
-#: ../../themes/qgis-theme/docs_index.html:53
-msgid "QGIS User guide"
-msgstr "QGIS 사용자 지침서"
+#: ../../themes/qgis-theme/getinvolved_donations.html:36
+msgid "Credit card and Paypal"
+msgstr "신용 카드 및 Paypal "
 
-#: ../../themes/qgis-theme/docs_index.html:53
-#: ../../themes/qgis-theme/docs_index.html:54
-#: ../../themes/qgis-theme/docs_index.html:65
-msgid "or as PDF"
-msgstr "또는 PDF"
-
-#: ../../themes/qgis-theme/docs_index.html:54
-msgid "Follow the tutorials in the"
-msgstr "튜토리얼을 따라 해 보십시오:"
-
-#: ../../themes/qgis-theme/docs_index.html:54
-#: ../../themes/qgis-theme/docs_index.html:88
-msgid "QGIS Training manual"
-msgstr "QGIS 교육 교재"
-
-#: ../../themes/qgis-theme/docs_index.html:55
-msgid "Learn GIS basics in"
-msgstr "GIS 기초를 배워보십시오:"
-
-#: ../../themes/qgis-theme/docs_index.html:55
-#: ../../themes/qgis-theme/docs_index.html:93
-msgid "A gentle introduction in GIS"
-msgstr "GIS에 대한 친절한 소개"
-
-#: ../../themes/qgis-theme/docs_index.html:60
-msgid "Learn how to write docs using the"
-msgstr "문서를 어떻게 만드는지 배워보십시오: "
-
-#: ../../themes/qgis-theme/docs_index.html:60
-msgid "Documentation Guidelines"
-msgstr "문서화 가이드라인"
-
-#: ../../themes/qgis-theme/docs_index.html:65
-msgid "Go Python, study the"
-msgstr "파이썬을 써보세요: "
-
-#: ../../themes/qgis-theme/docs_index.html:65
-msgid "PyQGIS cookbook (for plugins and scripting)"
-msgstr "PyQGIS 쿡북 (플러그인과 스크립트 용)"
-
-#: ../../themes/qgis-theme/docs_index.html:66
-#: ../../themes/qgis-theme/docs_index.html:96
-msgid "Python (iface) Api documentation"
-msgstr "파이썬 (iface) API 문서"
-
-#: ../../themes/qgis-theme/docs_index.html:67
-#: ../../themes/qgis-theme/docs_index.html:95
-msgid "C++ Api documentation"
-msgstr "C++ API 문서"
-
-#: ../../themes/qgis-theme/docs_index.html:85
-msgid "QGIS testing"
-msgstr "QGIS testing"
-
-#: ../../themes/qgis-theme/docs_index.html:86
+#: ../../themes/qgis-theme/getinvolved_donations.html:54
 msgid ""
-"We are still updating (not translating yet) the documentation for releases "
-"newer than QGIS 2.18. We call this version 'QGIS testing' and can be found "
-"here: "
+"Use the details below to make a donation via international money transfer:"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:86
-msgid "http://docs.qgis.org/testing"
-msgstr "http://docs.qgis.org/testing"
-
-#: ../../themes/qgis-theme/docs_index.html:87
-msgid "User guide/Manual"
-msgstr "사용자 가이드/매뉴얼"
-
-#: ../../themes/qgis-theme/docs_index.html:89
-msgid "PyQGIS Cookbook"
+#: ../../themes/qgis-theme/getinvolved_donations.html:75
+msgid "Stripe"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:90
-msgid "QGIS Developers Guide"
+#: ../../themes/qgis-theme/getinvolved_donations.html:76
+msgid ""
+"We use the stripe.com service to receive credit card donations. Note that "
+"the payment fees at Stripe are substantially lower than at Paypal - so we "
+"would appreciate it, if you could use Stripe instead of PayPal. No signup "
+"needed."
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:92
-msgid "Documentation Guidelines (how to write the docs)"
-msgstr "문서화 가이드라인 (문서 작성 방법)"
-
-#: ../../themes/qgis-theme/docs_index.html:94
-msgid "PDF versions of all above, eg for printing are available here: "
-msgstr "인쇄 등의 목적으로 사용가능 한 PDF 버전은 여기에 있습니다:"
-
-#: ../../themes/qgis-theme/docs_index.html:94
-msgid "http://docs.qgis.org/testing/pdf"
-msgstr "http://docs.qgis.org/testing/pdf"
-
-#: ../../themes/qgis-theme/docs_index.html:104
-msgid "Archived"
+#: ../../themes/qgis-theme/getinvolved_donations.html:77
+msgid ""
+"If you do not see a Payment Form here please let us know via "
+"finance@qgis.org."
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:105
-msgid "Links to documentation of older version of QGIS: "
+#: ../../themes/qgis-theme/getinvolved_donations.html:82
+msgid "Paypal"
+msgstr "Paypal"
+
+#: ../../themes/qgis-theme/getinvolved_donations.html:83
+msgid ""
+"You can use Paypal to donate using your own credit card (but we prefer to use Stripe for that). \n"
+"                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
+"                    or sign-up for one if you are paying by credit card."
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:107
-msgid "QGIS 2.14 Documentation"
-msgstr ""
+#: ../../themes/qgis-theme/getinvolved_donations.html:86
+msgid "You can also use your own Paypal account to donate."
+msgstr "물론 기부에 가지고 계신 Paypal 계정을 이용하셔도 됩니다."
 
-#: ../../themes/qgis-theme/docs_index.html:108
-msgid "QGIS 2.8 Documentation"
-msgstr ""
+#: ../../themes/qgis-theme/getinvolved_donations.html:87
+msgid "List of QGIS Support Channels"
+msgstr "QGIS  지원 채널 목록"
+
+#: ../../themes/qgis-theme/getinvolved_donations.html:94
+msgid "Donate via PayPal.com"
+msgstr "PayPal.com을 통한 기부"
+
+#: ../../themes/qgis-theme/search.html:24
+msgid ""
+"Please activate JavaScript to enable the search\n"
+"    functionality."
+msgstr "검색 기능을 사용하려면 JavaScript를 활성화 시켜 주십시오."
+
+#: ../../themes/qgis-theme/search.html:29
+msgid ""
+"From here you can search these documents. Enter your search\n"
+"    words into the box below and click \"search\". Note that the search\n"
+"    function will automatically search for all of the words. Pages\n"
+"    containing fewer words won't appear in the result list."
+msgstr "여기에서 문서를 검색할 수 있습니다. 아래 글상자에 검색어를 입력하고 \"검색\"을 클릭하십시오. 검색 기능이 자동으로 모든 단어를 검색함을 기억하십시오. 적은 단어가 포함된 페이지는 결과 목록에 나타나지 않습니다."
+
+#: ../../themes/qgis-theme/search.html:37
+msgid "search"
+msgstr "검색"
+
+#: ../../themes/qgis-theme/search.html:42
+msgid "Search Results"
+msgstr "검색 결과"
+
+#: ../../themes/qgis-theme/search.html:44
+msgid "Your search did not match any results."
+msgstr "검색과 일치하는 결과를 찾지 못했습니다."
 
 #: ../../themes/qgis-theme/getinvolved_index.html:7
 msgid "Get Involved in the QGIS Community"
@@ -877,11 +1373,6 @@ msgstr "추가적인 정보는 다음 문서를 읽어 보세요. "
 #: ../../themes/qgis-theme/getinvolved_index.html:15
 msgid "diversity statement"
 msgstr "다양성 존중 성명서"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:16
-#: ../../themes/qgis-theme/getinvolved_index.html:90
-msgid "and"
-msgstr "및"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:17
 msgid "code of conduct"
@@ -905,23 +1396,22 @@ msgid "Translate"
 msgstr "번역"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:51
-#: ../../themes/qgis-theme/getinvolved_index.html:123
+#: ../../themes/qgis-theme/getinvolved_index.html:141
 msgid "Develop a Plugin"
 msgstr "플러그인 개발"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:54
-#: ../../themes/qgis-theme/getinvolved_index.html:140
+#: ../../themes/qgis-theme/getinvolved_index.html:150
 msgid "Develop QGIS Core"
 msgstr "QGIS 코어 개발"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:57
-#: ../../themes/qgis-theme/getinvolved_index.html:153
 msgid "Sponsor & Donate"
 msgstr "후원자 및 기부자"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:75
 msgid "If you find an issue working with QGIS, please "
-msgstr "QGIS로 작업하시다가 이슈가 생기시면, "
+msgstr "QGIS로 작업하시다가 이슈가 생기면, "
 
 #: ../../themes/qgis-theme/getinvolved_index.html:77
 msgid "report it"
@@ -975,10 +1465,27 @@ msgid "our community support channels page"
 msgstr "커뮤니티 지원 채널 페이지"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:113
+msgid "Document QGIS"
+msgstr "QGIS 문서화"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:114
+msgid ""
+"The QGIS project aims to provide clear documentation concerning a User "
+"guide, GIS concepts, and training material. Writing documentation provides "
+"an ideal platform for your first contribution to the project. If you want to"
+" join to the documentation effort, you can find a gentle introduction and "
+"guidelines here:"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:116
+msgid "Write Documentation"
+msgstr "문서 작성하기"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:123
 msgid "Translate QGIS"
 msgstr "QGIS 번역"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:114
+#: ../../themes/qgis-theme/getinvolved_index.html:124
 msgid ""
 "The QGIS project provides a gentle GIS introduction, a User Guide, a Coding "
 "and Compilation Guide and a API Documentation in english and in some cases "
@@ -987,35 +1494,35 @@ msgid ""
 " manual into another language, learn how to get started here:"
 msgstr "QGIS 프로젝트는 친절한 GIS 소개를 제공합니다. 사용자 가이드, 코딩 및 편집 가이드, API 문서 등을 영어로 제공하고 몇몇 경우에는 다른 언어들로 번역된 문서도 있습니다. 만약 당신이 영어 문서를 다른 언어로 번역하는 등의 문서 작업 참여에 관심이 있다면, 다음에서 참여하는 방법을 배울 수 있습니다:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:116
+#: ../../themes/qgis-theme/getinvolved_index.html:126
 msgid "Translate QGIS into your Language"
 msgstr "QGIS를 당신의 언어로 번역"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:124
+#: ../../themes/qgis-theme/getinvolved_index.html:142
 msgid "Want to write your own Python plugin? Go here: "
 msgstr "스스로 파이썬 플러그인을 만들고 싶으십니까? 여기로 가보십시오:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:124
+#: ../../themes/qgis-theme/getinvolved_index.html:142
 msgid "Developing Python plugins"
 msgstr "파이썬 플러그인 개발"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:125
+#: ../../themes/qgis-theme/getinvolved_index.html:143
 msgid "Want to develop a C++ plugin? Go here: "
 msgstr "C++ 플러그인 개발을 원하십니까? 이리로 가세요:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:125
+#: ../../themes/qgis-theme/getinvolved_index.html:143
 msgid "Developing CPP plugins"
 msgstr "C++ 플러그인 개발"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:126
+#: ../../themes/qgis-theme/getinvolved_index.html:144
 msgid "A wide range of great plugins exist for QGIS via the "
 msgstr "광범위한 분야의 멋진 플러그인이 여기에 있습니다."
 
-#: ../../themes/qgis-theme/getinvolved_index.html:126
+#: ../../themes/qgis-theme/getinvolved_index.html:144
 msgid "QGIS Plugin web portal"
 msgstr "QGIS 플러그인 웹 포털"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:141
+#: ../../themes/qgis-theme/getinvolved_index.html:151
 msgid ""
 "QGIS Core consists on the one hand of the libraries enabling you to build "
 "custom tailored application by  providing a powerful API. On the other hand "
@@ -1023,391 +1530,41 @@ msgid ""
 "possibilities offered by the libraries, offering a user friendly interface."
 msgstr "QGIS 코어는 한편으로 강력한 API에서 제공하여 사용자에게 자신만의 어플리케이션을 만들 수 있게 해주는  라이브러리로 구성되어 있습니다. 다른 한편으로는 라이브러리에 의해 구축된 사용자 친화적 인터페이스와 데스크톱 및 서버 응용 프로그램으로 구성되어 있습니다."
 
-#: ../../themes/qgis-theme/getinvolved_index.html:143
+#: ../../themes/qgis-theme/getinvolved_index.html:153
 msgid "Get Set Up for QGIS Core Development"
 msgstr "QGIS 코어 개발환경 설정"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:154
+#: ../../themes/qgis-theme/getinvolved_index.html:171
+msgid "Sustain & Donate"
+msgstr ""
+
+#: ../../themes/qgis-theme/getinvolved_index.html:172
 msgid "There are two kinds of financial contributions, we accept:"
 msgstr "우리는 2가지 방법으로 금전적인 기부를 받고 있습니다:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:155
-msgid "sponsorships:"
-msgstr "후원자:"
+#: ../../themes/qgis-theme/getinvolved_index.html:173
+msgid "Sustaining memberships:"
+msgstr ""
 
-#: ../../themes/qgis-theme/getinvolved_index.html:155
+#: ../../themes/qgis-theme/getinvolved_index.html:173
 msgid " annual commitments of funds to the project"
 msgstr "프로젝트에 연단위 기부하기"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:155
-msgid "more information and a list of our sponsors"
-msgstr "추가정보 및 스폰서 리스트"
+#: ../../themes/qgis-theme/getinvolved_index.html:173
+msgid "more information and a list of our sustaining members"
+msgstr ""
 
-#: ../../themes/qgis-theme/getinvolved_index.html:156
-msgid "donations:"
-msgstr "기부자:"
+#: ../../themes/qgis-theme/getinvolved_index.html:174
+msgid "Donations:"
+msgstr ""
 
-#: ../../themes/qgis-theme/getinvolved_index.html:156
+#: ../../themes/qgis-theme/getinvolved_index.html:174
 msgid " one-time financial contributions to the project"
 msgstr "프로젝트에 한번 기부하기"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:156
+#: ../../themes/qgis-theme/getinvolved_index.html:174
 msgid "donations via a variety of channels"
 msgstr "다양한 경로를 통한 기부"
-
-#: ../../themes/qgis-theme/page.html:40
-msgid ""
-"If not stated otherwise, all content is licensed under <a "
-"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
-"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
-msgstr "별도로 기술하지 않는 경우, 모든 컨텐츠는 다음 라이센스를 따릅니다. <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
-
-#: ../../themes/qgis-theme/page.html:44
-msgid ""
-"Select graphics from <a href=\"http://thenounproject.com\" "
-"target=\"_blank\">The Noun Project collection</a>"
-msgstr "이미지들은 다음에서 선택하였습니다.  <a href=\"http://thenounproject.com\" target=\"_blank\">The Noun Project collection</a>"
-
-#: ../../themes/qgis-theme/page.html:48
-msgid " - Last updated on "
-msgstr "- 마지막 업데이트 "
-
-#: ../../themes/qgis-theme/page.html:52
-msgid "Untranslated page? Or you spot a translation error:"
-msgstr "페이지가 번역되지 않았거나 번역오류를 찾으셨나요?:"
-
-#: ../../themes/qgis-theme/page.html:53 ../../themes/qgis-theme/page.html:56
-msgid "fix me"
-msgstr "수정해 주세요"
-
-#: ../../themes/qgis-theme/page.html:55
-msgid "Textual error, missing text or you know better:"
-msgstr "문자 오류, 빠진 문자나 더 나은 문장이 있다면:"
-
-#: ../../themes/qgis-theme/page.html:138
-msgid "Discover QGIS"
-msgstr "QGIS 탐험"
-
-#: ../../themes/qgis-theme/forusers_download.html:3
-msgid "Download QGIS for your platform"
-msgstr "사용자의 운영체제에 맞는 QGIS 다운로드"
-
-#: ../../themes/qgis-theme/forusers_download.html:4
-msgid "Binary packages (installers) are available from this page."
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:5
-#, python-format
-msgid "The current version is QGIS %s '%s' and was released on %s."
-msgstr "현재 버전은 QGIS QGIS %s '%s'  이고 배포시기는 %s 입니다."
-
-#: ../../themes/qgis-theme/forusers_download.html:6
-#, python-format
-msgid "The long-term repositories currently offer QGIS %s '%s'."
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:7
-msgid "QGIS is available on Windows, MacOS X, Linux and Android."
-msgstr "QGIS는 윈도우, 맥 OS X, 리눅스 및 안드로이에서 사용하실 수 있습니다."
-
-#: ../../themes/qgis-theme/forusers_download.html:10
-#, python-format
-msgid ""
-"We are currently in feature freeze preceeding the release of QGIS %s. "
-"<b>Please consider testing the prereleases</b>. See "
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:11
-msgid "road map"
-msgstr "로드맵"
-
-#: ../../themes/qgis-theme/forusers_download.html:19
-msgid "Installation Downloads"
-msgstr "설치본 다운로드"
-
-#: ../../themes/qgis-theme/forusers_download.html:20
-msgid "All Releases"
-msgstr "모든 배포본"
-
-#: ../../themes/qgis-theme/forusers_download.html:21
-msgid "Sources"
-msgstr "소스"
-
-#: ../../themes/qgis-theme/forusers_download.html:34
-msgid "Download for Windows"
-msgstr "윈도우용 다운로드"
-
-#: ../../themes/qgis-theme/forusers_download.html:40
-msgid "QGIS in OSGeo4W:"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:45
-msgid "OSGeo4W Network Installer (64 bit)"
-msgstr "OSGeo4W 네트워크 설치관리자 (64 bit)"
-
-#: ../../themes/qgis-theme/forusers_download.html:52
-msgid "OSGeo4W Network Installer (32 bit)"
-msgstr "OSGeo4W 네트워크 설치관리자 (32 bit)"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "In the installer choose "
-msgstr "설치관리자의 선택 항목에서"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "Desktop Express Install"
-msgstr "Desktop Express Install"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "and select"
-msgstr "과"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "to install the <em>latest release</em>."
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-msgid ""
-"To get the <em>long term release</em> (that is not also the latest release) "
-"choose "
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "Advanced Install"
-msgstr "고급 설치"
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "and select "
-msgstr "와"
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-msgid "qgis-ltr-full"
-msgstr "qgis-ltr-full 선택"
-
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "To get the <em>bleeding-edge development build</em> choose "
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "qgis-dev-full"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:61
-msgid "Standalone installers from OSGeo4W packages"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:62
-#: ../../themes/qgis-theme/forusers_download.html:133
-msgid "Latest release (richest on features):"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:67
-#: ../../themes/qgis-theme/forusers_download.html:96
-#, python-format
-msgid "QGIS Standalone Installer Version %s (64 bit)"
-msgstr "QGIS 독립 설치관리자 버전 %s (64 비트)"
-
-#: ../../themes/qgis-theme/forusers_download.html:81
-#: ../../themes/qgis-theme/forusers_download.html:110
-#, python-format
-msgid "QGIS Standalone Installer Version %s (32 bit)"
-msgstr "QGIS 독립 설치관리자 버전 %s (32 비트)"
-
-#: ../../themes/qgis-theme/forusers_download.html:91
-msgid "Long term release repository (most stable):"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:128
-msgid "Download for Mac OS X"
-msgstr "Mac OS X 용 다운로드"
-
-#: ../../themes/qgis-theme/forusers_download.html:134
-msgid "Mac Installer Package for macOS Yosemite (10.10) and newer."
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:135
-msgid ""
-"Installation instructions are in the Read Me on the disk image. This package"
-" uses the <a href=\"http://www.python.org/\" class=\"reference "
-"external\">python.org Python 3.6</a> - other distributions are not "
-"supported. Install packages in the numbered order."
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:140
-#, python-format
-msgid "QGIS macOS Installer Version %s"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:143
-msgid "Long term release (most stable):"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:144
-msgid "Mac Installer Package for OS X Mountain Lion (10.8) and newer."
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:145
-msgid ""
-"Installation instructions are in the Read Me on the disk image. This package"
-" uses the system Python 2.7 - other distributions are not supported. It also"
-" requires the NumPy and Matplotlib packages on the disk image. Install "
-"packages in the numbered order. If an older major version is being upgraded "
-"(2.16 or older), delete QGIS.app from your Applications folder before "
-"installing this version."
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:150
-#, python-format
-msgid "QGIS OS X Installer Version %s"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:160
-msgid "Download for Linux"
-msgstr "리눅스용 다운로드"
-
-#: ../../themes/qgis-theme/forusers_download.html:165
-msgid ""
-"For many flavors of GNU/Linux binary packages (rpm and deb) or software "
-"repositories (to add to your installation manager) are available. Please "
-"select your choice of distro below:"
-msgstr "여러 가지 유명한 GNU/Linux 바이너리 패키지(rpm 및 deb)나 (사용자의 설치관리자에 추가할) 소프트웨어 저장소에 있습니다. 아래에서 사용자의 distro를 선택해 주십시오:"
-
-#: ../../themes/qgis-theme/forusers_download.html:167
-msgid "Debian/Ubuntu"
-msgstr "Debian/Ubuntu"
-
-#: ../../themes/qgis-theme/forusers_download.html:168
-msgid "Fedora"
-msgstr "Fedora"
-
-#: ../../themes/qgis-theme/forusers_download.html:169
-msgid "openSUSE"
-msgstr "openSUSE"
-
-#: ../../themes/qgis-theme/forusers_download.html:170
-msgid "RHEL, CentOS, Scientific Linux, ..."
-msgstr "RHEL, CentOS, Scientific Linux, ..."
-
-#: ../../themes/qgis-theme/forusers_download.html:171
-msgid "Mandriva"
-msgstr "Mandriva"
-
-#: ../../themes/qgis-theme/forusers_download.html:172
-msgid "Slackware"
-msgstr "Slackware"
-
-#: ../../themes/qgis-theme/forusers_download.html:173
-msgid "ArchLinux"
-msgstr "ArchLinux"
-
-#: ../../themes/qgis-theme/forusers_download.html:175
-msgid "Linux Installation Instructions"
-msgstr "리눅스용 설치 지침"
-
-#: ../../themes/qgis-theme/forusers_download.html:183
-msgid "Download for BSD"
-msgstr "BSD 용 다운로드"
-
-#: ../../themes/qgis-theme/forusers_download.html:188
-msgid "BSD Installation Instructions"
-msgstr "BSD 설치 지침"
-
-#: ../../themes/qgis-theme/forusers_download.html:196
-msgid "Download for Android"
-msgstr "안드로이드 용 다운로드"
-
-#: ../../themes/qgis-theme/forusers_download.html:201
-msgid "An experimental release can be found in the "
-msgstr "실험적인 버전은 다음에서 찾을 수 있음"
-
-#: ../../themes/qgis-theme/forusers_download.html:208
-#: ../../themes/qgis-theme/forusers_download.html:210
-msgid "All downloads"
-msgstr "모든 설치본"
-
-#: ../../themes/qgis-theme/forusers_download.html:210
-msgid ""
-"More specific instructions about downloading QGIS stable vs QGIS development"
-" can be found in"
-msgstr "QGIS 안정화 버전 다운로드 및 GQIS 개발에 대한 명확한 안내를 다음에서 찾을 수 있습니다."
-
-#: ../../themes/qgis-theme/forusers_download.html:213
-msgid "Datasets"
-msgstr "데이터셋"
-
-#: ../../themes/qgis-theme/forusers_download.html:214
-msgid "For testing and learning purposes, a "
-msgstr "테스트 및 학습 목적으로 사용할 수 있는"
-
-#: ../../themes/qgis-theme/forusers_download.html:214
-msgid "sample dataset is available"
-msgstr "샘플 데이터셋이 있습니다."
-
-#: ../../themes/qgis-theme/forusers_download.html:214
-msgid ""
-"which contains collections of data from different sources and in different "
-"formats."
-msgstr "다양한 데이터 공급자와 다양한 포맷의 데이터 모음이 있습니다."
-
-#: ../../themes/qgis-theme/forusers_download.html:220
-msgid "Older releases of QGIS are available"
-msgstr "QGIS 과거 배포본"
-
-#: ../../themes/qgis-theme/forusers_download.html:220
-#: ../../themes/qgis-theme/forusers_download.html:221
-#: ../../themes/qgis-theme/forusers_download.html:230
-#: ../../themes/qgis-theme/forusers_download.html:231
-#: ../../themes/qgis-theme/forusers_download.html:232
-msgid "here"
-msgstr "다운로드"
-
-#: ../../themes/qgis-theme/forusers_download.html:220
-msgid "More older releases for OS X are available"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:221
-#: ../../themes/qgis-theme/forusers_download.html:232
-msgid "Plugins for QGIS are also available "
-msgstr "QGIS를 위한 플러그인이 여기에 있습니다."
-
-#: ../../themes/qgis-theme/forusers_download.html:226
-msgid "QGIS is open source software available under the terms of the"
-msgstr "QGIS은 다음 라이센스 하에서 제공되는 오픈 소스 소프트웨어입니다."
-
-#: ../../themes/qgis-theme/forusers_download.html:226
-msgid "GNU General Public License"
-msgstr "GNU General Public License"
-
-#: ../../themes/qgis-theme/forusers_download.html:226
-msgid ""
-"meaning that its source code can be downloaded through tarballs or the git "
-"repository."
-msgstr "이것은 소스코드를 tar 파일이나 git 저장소에서 받을 수 있음을 의미합니다."
-
-#: ../../themes/qgis-theme/forusers_download.html:227
-msgid "QGIS Source Code is available "
-msgstr "QGIS의 소스코드를 다운로드 받을 수  있습니다."
-
-#: ../../themes/qgis-theme/forusers_download.html:228
-msgid "here (latest release)"
-msgstr "여기(최신 버전)"
-
-#: ../../themes/qgis-theme/forusers_download.html:229
-msgid "here (long term release)"
-msgstr "여기(장기지원 버전)"
-
-#: ../../themes/qgis-theme/forusers_download.html:230
-msgid ""
-"Refer to the INSTALL guide on how to compile QGIS from source for the "
-"different platforms:"
-msgstr "플랫폼에 따라 소스에서 최신 QGIS 빌드하기 위해서는 QGIS 컴파일 방법의 설치 가이드를 참조하십시오:"
-
-#: ../../themes/qgis-theme/forusers_download.html:231
-msgid ""
-"Note that you can also install the development version (nightly) via an "
-"installer from the normal downloads for your platform:"
-msgstr "사용자 운영체제에 맞는 설치프로그램 다운로드 해 개발버전(nightly)도 설치 가능함을 알아두세요."
 
 #~ msgid "QGIS 2.16 Released"
 #~ msgstr ""
@@ -2111,4 +2268,218 @@ msgstr "사용자 운영체제에 맞는 설치프로그램 다운로드 해 개
 #~ msgstr ""
 
 #~ msgid "in feature freeze since"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can use Paypal to donate using your own credit card. \n"
+#~ "                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
+#~ "                    or sign-up for one if you are paying by credit card."
+#~ msgstr ""
+
+#~ msgid "Chinese (China)"
+#~ msgstr ""
+
+#~ msgid "New major release!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installation instructions are in the Read Me on the disk image. This package"
+#~ " uses the <a href=\"http://www.python.org/\" class=\"reference "
+#~ "external\">python.org Python 3.6</a> - other distributions are not "
+#~ "supported. Install packages in the numbered order."
+#~ msgstr ""
+
+#~ msgid "Mac Installer Package for macOS Yosemite (10.10) and newer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installation instructions are in the Read Me on the disk image. This package"
+#~ " uses the <a href=\"http://www.python.org/\" class=\"reference "
+#~ "external\">python.org Python 3.6</a>, at least version 3.6.5, the "
+#~ "\"macosx10.9\" build - other distributions are not supported. Install "
+#~ "packages in the numbered order."
+#~ msgstr ""
+
+#~ msgid "New release: 3.2!"
+#~ msgstr ""
+
+#~ msgid "Join the FOSS4G community!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Workshops, talks, code sprints, and community events are waiting for you at"
+#~ msgstr ""
+
+#~ msgid "FOSS4G 2018 in Dar!"
+#~ msgstr ""
+
+#~ msgid "New release: 3.4!"
+#~ msgstr ""
+
+#~ msgid "21st Developer meeting"
+#~ msgstr ""
+
+#~ msgid "Come along"
+#~ msgstr ""
+
+#~ msgid "to Zanzibar"
+#~ msgstr ""
+
+#~ msgid "QGIS 2.18"
+#~ msgstr ""
+
+#~ msgid "QGIS testing (3.x)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We are still updating (not translating yet) the documentation for releases "
+#~ "newer than QGIS 2.18. We call this version 'QGIS testing' and can be found "
+#~ "here: "
+#~ msgstr ""
+
+#~ msgid "Mac Installer Package for macOS El Capitan (10.11) and newer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installation instructions are in the Read Me on the disk image. This package"
+#~ " uses the <a href=\"http://www.python.org/\" class=\"reference "
+#~ "external\">python.org Python 3.6</a>, version 3.6, the \"macosx10.9\" build "
+#~ "- other distributions are not supported. Install packages in the numbered "
+#~ "order."
+#~ msgstr ""
+
+#~ msgid "Mac Installer Package for OS X Mountain Lion (10.8) and newer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installation instructions are in the Read Me on the disk image. This package"
+#~ " uses the system Python 2.7 - other distributions are not supported. It also"
+#~ " requires the NumPy and Matplotlib packages on the disk image. Install "
+#~ "packages in the numbered order. If an older major version is being upgraded "
+#~ "(2.16 or older), delete QGIS.app from your Applications folder before "
+#~ "installing this version."
+#~ msgstr ""
+
+#~ msgid "QGIS OS X Installer Version %s"
+#~ msgstr ""
+
+#~ msgid "New release: 3.6!"
+#~ msgstr ""
+
+#~ msgid "Python (iface) Api documentation"
+#~ msgstr ""
+
+#~ msgid "PyQGIS Python Api documentation"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You will find documentation for every QGIS release on the respective "
+#~ "documentation website."
+#~ msgstr ""
+
+#~ msgid "Get involved and help us to write a better documentation"
+#~ msgstr ""
+
+#~ msgid "Older releases of QGIS are available"
+#~ msgstr ""
+
+#~ msgid "More older releases for OS X are available"
+#~ msgstr ""
+
+#~ msgid "New release: 3.8!"
+#~ msgstr ""
+
+#~ msgid "QGIS is available on Windows, MacOS X, Linux and Android."
+#~ msgstr ""
+
+#~ msgid "Download for Mac OS X"
+#~ msgstr ""
+
+#~ msgid "sponsorships:"
+#~ msgstr ""
+
+#~ msgid "more information and a list of our sponsors"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We welcome financial contributions in the form of sponsoring and funding."
+#~ msgstr ""
+
+#~ msgid "New release: 3.10!"
+#~ msgstr ""
+
+#~ msgid "22st Developer meeting"
+#~ msgstr ""
+
+#~ msgid "A Coruña, Spain"
+#~ msgstr ""
+
+#~ msgid "Sponsors"
+#~ msgstr ""
+
+#~ msgid "Download for Android"
+#~ msgstr ""
+
+#~ msgid "An experimental release can be found in the "
+#~ msgstr ""
+
+#~ msgid ""
+#~ "An old and deprecated not touch optimised release of QGIS for Android can be"
+#~ " found in the Play Store "
+#~ msgstr ""
+
+#~ msgid "QGIS testing (>3.4)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We are still updating (not translating yet) the documentation for releases "
+#~ "newer than QGIS 3.4. We call this version 'QGIS testing' and can be found "
+#~ "here: "
+#~ msgstr ""
+
+#~ msgid "for your Operating System!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Create, edit, visualise, analyse and publish geospatial\n"
+#~ "            information on Windows, Mac, Linux, BSD (Android coming soon)"
+#~ msgstr ""
+
+#~ msgid "New release: 3.12!"
+#~ msgstr ""
+
+#~ msgid "24th Developer meeting"
+#~ msgstr ""
+
+#~ msgid "Come along to"
+#~ msgstr ""
+
+#~ msgid "'s-Hertogenbosch, The Netherlands"
+#~ msgstr ""
+
+#~ msgid "to find out more about QGIS!"
+#~ msgstr ""
+
+#~ msgid "donations:"
+#~ msgstr ""
+
+#~ msgid "http://docs.qgis.org/testing"
+#~ msgstr ""
+
+#~ msgid "User guide/Manual"
+#~ msgstr ""
+
+#~ msgid "http://docs.qgis.org/testing/pdf"
+#~ msgstr ""
+
+#~ msgid "qgis-dev-full"
+#~ msgstr ""
+
+#~ msgid "See the latest features in the visual changelog"
+#~ msgstr ""
+
+#~ msgid "New release: 3.14!"
+#~ msgstr ""
+
+#~ msgid "Latest Blog Posts (planet.qgis.org)"
 #~ msgstr ""

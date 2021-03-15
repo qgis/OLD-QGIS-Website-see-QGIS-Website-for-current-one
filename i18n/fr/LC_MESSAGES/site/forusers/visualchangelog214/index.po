@@ -6,15 +6,16 @@
 # MarieSilvestre, 2016
 # MarieSilvestre, 2016
 # Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2016-2017
-# Sant-anna <delazj@gmail.com>, 2016
+# Harrissou Sant-anna, 2016
 # stan4gis, 2016
+# Vincent Bré <vincent.bre@outlook.fr>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-11 18:41+0200\n"
-"PO-Revision-Date: 2020-03-19 11:59+0000\n"
-"Last-Translator: MarieSilvestre\n"
+"PO-Revision-Date: 2020-08-22 07:08+0000\n"
+"Last-Translator: Vincent Bré <vincent.bre@outlook.fr>\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -120,7 +121,7 @@ msgid ""
 "meetings, maintain project infrastructure and fund bug fixing efforts. A "
 "complete list of current sponsors is provided below - our very great thank "
 "you to all of our sponsors!"
-msgstr ""
+msgstr "QGIS est soutenu par des donateurs et des sponsors. Une liste actuelle des donateurs qui ont apporté des contributions financières, grandes et petites, au projet peut être consultée sur notre «liste de donateurs <https://qgis.org/en/site/about/sponsorship.html#list-of-donors>». __. Si vous souhaitez devenir et sponsor officiel du projet, veuillez visiter `notre page de parrainage <https://qgis.org/en/site/about/sponsorship.html#sponsorship>` __ pour plus de détails. Le parrainage de QGIS nous aide à financer nos six réunions mensuelles de développeurs, à maintenir l'infrastructure du projet et à financer les efforts de correction de bogues. Une liste complète des sponsors actuels est fournie ci-dessous - merci à tous nos sponsors!"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:74
 msgid ""
@@ -2817,34 +2818,34 @@ msgid ""
 "`QgsAttributeEditorElement "
 "<https://qgis.org/api/classQgsAttributeEditorElement.html>`__ - abstract "
 "base class for any elements of a drag and drop form"
-msgstr ""
+msgstr "`QgsAttributeEditorElement <https://qgis.org/api/classQgsAttributeEditorElement.html>`__ - classe d'abstraction de base pour tous les éléments d'une entrée en glisser-déposer."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1554
 msgid ""
 "`QgsAttributeEditorContainer "
 "<https://qgis.org/api/classQgsAttributeEditorContainer.html>`__ - container "
 "for attribute editors, used to group them visually in an attribute form"
-msgstr ""
+msgstr "`QgsAttributeEditorContainer <https://qgis.org/api/classQgsAttributeEditorContainer.html>`__ - conteneur des éditeurs d'attributs, utilisé pour regrouper visuellement les attributs dans le formulaire."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1557
 msgid ""
 "`QgsAttributeEditorField "
 "<https://qgis.org/api/classQgsAttributeEditorField.html>`__ - element for "
 "loading a field's widget onto a form"
-msgstr ""
+msgstr "`QgsAttributeEditorField <https://qgis.org/api/classQgsAttributeEditorField.html>`__ - élément de chargement du contrôle de formulaire d'un champ dans le formulaire."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1559
 msgid ""
 "`QgsAttributeEditorRelation "
 "<https://qgis.org/api/classQgsAttributeEditorRelation.html>`__ - element for"
 " loading a relation editor widget onto a form"
-msgstr ""
+msgstr "`QgsAttributeEditorRelation <https://qgis.org/api/classQgsAttributeEditorRelation.html>`__ - élément pour charger le contrôle d'édition de relation dans un formulaire."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1561
 msgid ""
 "`QgsEditFormConfig <https://qgis.org/api/classQgsEditFormConfig.html>`__ - "
 "stores and sets configuration parameters for attribute editor forms"
-msgstr ""
+msgstr "`QgsEditFormConfig <https://qgis.org/api/classQgsEditFormConfig.html>`__ - sauvegarde et paramètre les éléments de configuration des formulaires d'édition d'attributs."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1563
 msgid ""
@@ -2852,67 +2853,67 @@ msgid ""
 "<https://qgis.org/api/classQgsFeatureFilterProvider.html>`__ - provides an "
 "interface for modifying a QgsFeatureRequest in place to apply additional "
 "filters to the request"
-msgstr ""
+msgstr "`QgsFeatureFilterProvider <https://qgis.org/api/classQgsFeatureFilterProvider.html>`__ - fournit une interface de modification de la classe QgsFeatureRequest pour l'application de filtres additionnels à la requête."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1566
 msgid ""
 "`QgsTracer <https://qgis.org/api/classQgsTracer.html>`__ - provides graph "
 "creation and shortest path search for vector layers"
-msgstr ""
+msgstr "`QgsTracer <https://qgis.org/api/classQgsTracer.html>`__ - fournit la création de graphe et la recherche du plus court chemin pour les couches vecteur."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1568
 msgid ""
 "`QgsTransactionGroup <https://qgis.org/api/classQgsTransactionGroup.html>`__"
 " - interface for grouping layers into single edit transactions"
-msgstr ""
+msgstr "`QgsTransactionGroup <https://qgis.org/api/classQgsTransactionGroup.html>`__ - interface pour regrouper les couches au sein de transactions d'éditions uniques."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1570
 msgid ""
 "`QgsUnitTypes <https://qgis.org/api/classQgsUnitTypes.html>`__ - helper "
 "functions for various unit types and conversions between units (eg distance "
 "and area units)"
-msgstr ""
+msgstr "`QgsUnitTypes <https://qgis.org/api/classQgsUnitTypes.html>`__ - fonctions d'assistance pour la gestion des types d'unité et les conversions entre unités (ex: unités de distance et de surface)."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1573
 msgid ""
 "`QgsVirtualLayerDefinition "
 "<https://qgis.org/api/classQgsVirtualLayerDefinition.html>`__ - class for "
 "manipulating the definitions of virtual layers"
-msgstr ""
+msgstr "`QgsVirtualLayerDefinition <https://qgis.org/api/classQgsVirtualLayerDefinition.html>`__ - classe de manipulation des définitions de couches virtuelles."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1575
 msgid ""
 "`QgsVirtualLayerDefinitionUtils "
 "<https://qgis.org/api/classQgsVirtualLayerDefinitionUtils.html>`__ - helper "
 "utilities for working with QgsVirtualLayerDefinition objects"
-msgstr ""
+msgstr "`QgsVirtualLayerDefinitionUtils <https://qgis.org/api/classQgsVirtualLayerDefinitionUtils.html>`__ - utilitaires d'assistance pour les objets de la classe QgsVirtualLayerDefinition."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1577
 msgid ""
 "`Qgs25DRenderer <https://qgis.org/api/classQgs25DRenderer.html>`__ - 2.5D "
 "symbol renderer"
-msgstr ""
+msgstr "`Qgs25DRenderer <https://qgis.org/api/classQgs25DRenderer.html>`__ - moteur de rendu en symbologie 2.5D"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1579
 msgid ""
 "`QgsGeometryGeneratorSymbolLayerV2 "
 "<https://qgis.org/api/classQgsGeometryGeneratorSymbolLayerV2.html>`__ - "
 "geometry generator symbol layer"
-msgstr ""
+msgstr "`QgsGeometryGeneratorSymbolLayerV2 <https://qgis.org/api/classQgsGeometryGeneratorSymbolLayerV2.html>`__ - couche de symbole de géométrie générée."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1581
 msgid ""
 "`QgsFeatureRequest.OrderByClause "
 "<https://qgis.org/api/classQgsFeatureRequest_1_1OrderByClause.html>`__ - "
 "class for specifying a field sort order for feature requests"
-msgstr ""
+msgstr "`QgsFeatureRequest.OrderByClause <https://qgis.org/api/classQgsFeatureRequest_1_1OrderByClause.html>`__ - classe permettant d'indiquer l'ordre de tri dans les requêtes sur les entités."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1583
 msgid ""
 "`QgsFeatureRequest.OrderBy "
 "<https://qgis.org/api/classQgsFeatureRequest_1_1OrderBy.html>`__ - a "
 "prioritized list of order by clauses for sorting"
-msgstr ""
+msgstr "`QgsFeatureRequest.OrderBy <https://qgis.org/api/classQgsFeatureRequest_1_1OrderBy.html>`__ - une liste priorisée d'ordres pour les clauses de tri."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1587
 msgid "New GUI classes"
@@ -2928,13 +2929,13 @@ msgid ""
 "<https://qgis.org/api/classQgsExternalResourceWidget.html>`__ - widget for "
 "displaying a file path with a push button for an \"open file\" dialog, and "
 "optional display of pictures or HTML files"
-msgstr ""
+msgstr "`QgsExternalResourceWidget <https://qgis.org/api/classQgsExternalResourceWidget.html>`__ - contrôle pour l'affichage d'un chemin de fichier avec un bouton permettant d'ouvrir un sélecteur de fichier et également d'afficher des images ou des fichiers HTML."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1595
 msgid ""
 "`QgsFileWidget <https://qgis.org/api/classQgsFileWidget.html>`__ - widget "
 "for selecting a file or a folder"
-msgstr ""
+msgstr "`QgsFileWidget <https://qgis.org/api/classQgsFileWidget.html>`__ - contrôle permettant d'afficher un sélecteur de fichiers ou de répertoire."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1597
 msgid ""
@@ -2942,28 +2943,28 @@ msgid ""
 "<https://qgis.org/api/classQgsLegendFilterButton.html>`__ - tool button "
 "widget that allows enabling or disabling legend filter by contents of the "
 "map"
-msgstr ""
+msgstr "`QgsLegendFilterButton <https://qgis.org/api/classQgsLegendFilterButton.html>`__ - contrôle de type bouton permettant d'activer ou de désactiver le filtre de légende selon le contenu de la carte."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1600
 msgid ""
 "`QgsMapCanvasTracer <https://qgis.org/api/classQgsMapCanvasTracer.html>`__ -"
 " an extension of QgsTracer that provides extra functionality for interacting"
 " with map canvases"
-msgstr ""
+msgstr "`QgsMapCanvasTracer <https://qgis.org/api/classQgsMapCanvasTracer.html>`__ - une extension de la classe QgsTracer fournissant plus de fonctionnalités pour interagir avec le canevas de carte."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1603
 msgid ""
 "`Qgs25DRendererWidget "
 "<https://qgis.org/api/classQgs25DRendererWidget.html>`__ - widget for "
 "setting properties for a 2.5D renderer"
-msgstr ""
+msgstr "`Qgs25DRendererWidget <https://qgis.org/api/classQgs25DRendererWidget.html>`__ - contrôle permettant de paramétrer le moteur de rendu 2.5D."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1605
 msgid ""
 "`QgsColorWidgetAction "
 "<https://qgis.org/api/classQgsColorWidgetAction.html>`__ - widget action for"
 " embedding a color picker inside a menu"
-msgstr ""
+msgstr "`QgsColorWidgetAction <https://qgis.org/api/classQgsColorWidgetAction.html>`__ - contrôle d'action pour intégrer un sélecteur de couleur au sein d'un menu."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1609
 msgid "Reusable dialogs:"
@@ -2974,20 +2975,20 @@ msgid ""
 "`QgsStyleV2GroupSelectionDialog "
 "<https://qgis.org/api/classQgsStyleV2GroupSelectionDialog.html>`__ - dialog "
 "for grouping selections in a style"
-msgstr ""
+msgstr "`QgsStyleV2GroupSelectionDialog <https://qgis.org/api/classQgsStyleV2GroupSelectionDialog.html>`__ - boîte de dialogue pour regrouper les sélections dans un style."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1613
 msgid ""
 "`QgsGroupWMSDataDialog "
 "<https://qgis.org/api/classQgsGroupWMSDataDialog.html>`__ - dialog for "
 "setting properties for a WMS group"
-msgstr ""
+msgstr "`QgsGroupWMSDataDialog <https://qgis.org/api/classQgsGroupWMSDataDialog.html>`__ - boîte de dialogue pour paramétrer un groupe WMS."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1615
 msgid ""
 "`QgsOrderByDialog <https://qgis.org/api/classQgsOrderByDialog.html>`__ - "
 "dialog for specifying sort ordering of fields"
-msgstr ""
+msgstr "`QgsOrderByDialog <https://qgis.org/api/classQgsOrderByDialog.html>`__ - boîte de dialogue pour choisir les ordre de tri dans les champs."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1619
 msgid "QGIS Server"

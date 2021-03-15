@@ -2,13 +2,14 @@
 # Translators:
 # Falu <info@falu.me>, 2015
 # Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2017
-# Zoltan Siki <siki@agt.bme.hu>, 2015-2016
+# Zoltan Siki <siki.zoltan@epito.bme.hu>, 2015-2016
+# Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 16:17+0200\n"
-"PO-Revision-Date: 2018-05-20 14:27+0000\n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"PO-Revision-Date: 2019-07-12 14:45+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
@@ -40,17 +41,58 @@ msgstr "Az oktatókat bátorítjuk, hogy a QGIS oktatási kézikönyvet használ
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:18
 msgid ""
-"Please write to richard@qgis.org if you want to have something added here. "
-"Or you edit this page on `Github <https://github.com/qgis/QGIS-"
+"Please write to psc@qgis.org if you want to have something added here. Or "
+"you edit this page on `Github <https://github.com/qgis/QGIS-"
 "Website/blob/master/source/site/forusers/trainingmaterial/index.rst>`_ and "
 "do a pull request."
 msgstr ""
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:23
-msgid "Brazil"
+#: ../../source/site/forusers/trainingmaterial/index.rst:22
+msgid "English"
+msgstr "Angol"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:24
+msgid ""
+"The official Training Manual can be found here: "
+"http://docs.qgis.org/latest/en/docs/training_manual/index.html"
+msgstr "A hivatalos oktatási kézikönyv itt található: http://docs.qgis.org/latest/en/docs/training_manual/index.html"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:27
+msgid ""
+"Tutorial material, originally developed as part of a workshop for the "
+"Ecology and Evolutionary Biology Program at Texas A&M University (produced "
+"and maintained by Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
+msgstr "Oktató anyag, melyet eredetileg az Texas A&M egyetemen az Ekológiai és Evolúciós Biológiai programban tartott workshop részére dolgozták ki (készítette és működteti Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:30
+msgid ""
+"In-person training material, originally developed for the New York City "
+"Department of Transportation by `Datapolitan <http://www.datapolitan.com>`_:"
 msgstr ""
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:25
+#: ../../source/site/forusers/trainingmaterial/index.rst:32
+msgid ""
+"`Introduction to GIS Fundamentals <http://training.datapolitan.com/qgis-"
+"training/Introduction_to_GIS_Fundamentals>`_"
+msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:33
+msgid ""
+"`Intermediate GIS with QGIS and PostGIS <http://training.datapolitan.com"
+"/qgis-training/Intermediate_GIS/>`_"
+msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:34
+msgid ""
+"`Source code for training materials <https://github.com/Datapolitan-Training"
+"/qgis-training>`_"
+msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:37
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:39
 msgid ""
 "Roberto Ilacqua wrote a manual for image classification in QGIS: `Manual do "
 "QGIS para Classificação Supervisionada de Áreas "
@@ -61,77 +103,48 @@ msgid ""
 " short version, 34 p - 2017."
 msgstr ""
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:30
-msgid "English"
-msgstr "Angol"
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:32
-msgid ""
-"The official Training Manual can be found here: "
-"http://docs.qgis.org/latest/en/docs/training_manual/index.html"
-msgstr "A hivatalos oktatási kézikönyv itt található: http://docs.qgis.org/latest/en/docs/training_manual/index.html"
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:35
-msgid ""
-"Tutorial material, originally developed as part of a workshop for the "
-"Ecology and Evolutionary Biology Program at Texas A&M University (produced "
-"and maintained by Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
-msgstr "Oktató anyag, melyet eredetileg az Texas A&M egyetemen az Ekológiai és Evolúciós Biológiai programban tartott workshop részére dolgozták ki (készítette és működteti Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:38
-msgid ""
-"In-person training material, originally developed for the New York City "
-"Department of Transportation by `Datapolitan <http://www.datapolitan.com>`_:"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:40
-msgid ""
-"`Introduction to GIS Fundamentals <http://training.datapolitan.com/qgis-"
-"training/Introduction_to_GIS_Fundamentals>`_"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:41
-msgid ""
-"`Intermediate GIS with QGIS and PostGIS <http://training.datapolitan.com"
-"/qgis-training/Intermediate_GIS/>`_"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:42
-msgid ""
-"`Source code for training materials <https://github.com/Datapolitan-Training"
-"/qgis-training>`_"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:45
+#: ../../source/site/forusers/trainingmaterial/index.rst:44
 msgid "French"
 msgstr "Francia"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:47
+#: ../../source/site/forusers/trainingmaterial/index.rst:46
 msgid ""
 "The French Ministry of Environment supports the QGIS project. Training "
 "material from them is available here: http://www.geoinformations"
 ".developpement-durable.gouv.fr/qgis-supports-pedagogiques-r947.html"
 msgstr "A Francia Környezetvédelmi Minisztérium támogatja a QGIS projektet. Az oktató anyagaikat itt lehet elérni: http://www.geoinformations.developpement-durable.gouv.fr/qgis-supports-pedagogiques-r947.html"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:50
+#: ../../source/site/forusers/trainingmaterial/index.rst:49
 msgid ""
 "Other resources from them are available here: http://www.geoinformations"
 ".developpement-durable.gouv.fr/qgis-r625.html"
 msgstr "További, tőlük számazó anyagot itt lehet találni: http://www.geoinformations.developpement-durable.gouv.fr/qgis-r625.html"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:53
+#: ../../source/site/forusers/trainingmaterial/index.rst:52
 msgid ""
 "The French National Center for Scientific Research (CNRS), created an online"
 " QGIS tutorial: http://ouvrir.passages.cnrs.fr/tutoqgis/"
 msgstr ""
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:58
+#: ../../source/site/forusers/trainingmaterial/index.rst:56
 msgid "German"
 msgstr "Német"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:61
+#: ../../source/site/forusers/trainingmaterial/index.rst:58
 msgid "HSR material: http://giswiki.hsr.ch/QGIS-Materialien"
 msgstr "HSR anyag: http://giswiki.hsr.ch/QGIS-Materialien"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:62
+msgid "Czech"
+msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:64
+msgid "QGIS for beginners: http://training.gismentors.eu/qgis-zacatecnik/"
+msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:67
+msgid "QGIS for advanced users: http://training.gismentors.eu/qgis-pokrocily/"
+msgstr "QGIS haladó felhasználóknak: http://training.gismentors.eu/qgis-pokrocily/"
 
 #~ msgid ""
 #~ msgstr ""
@@ -155,4 +168,14 @@ msgstr "HSR anyag: http://giswiki.hsr.ch/QGIS-Materialien"
 #~ msgid ""
 #~ "The french National Center for Scientific Research (CNRS), created an online"
 #~ " QGIS tutorial: http://ouvrir.passages.cnrs.fr/tutoqgis/"
+#~ msgstr ""
+
+#~ msgid "Brazil"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Please write to richard@qgis.org if you want to have something added here. "
+#~ "Or you edit this page on `Github <https://github.com/qgis/QGIS-"
+#~ "Website/blob/master/source/site/forusers/trainingmaterial/index.rst>`_ and "
+#~ "do a pull request."
 #~ msgstr ""

@@ -1,13 +1,13 @@
 # 
 # Translators:
-# Tomas Straupis, 2015
+# Tomas Straupis, 2015,2018,2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 16:17+0200\n"
-"PO-Revision-Date: 2018-05-20 14:27+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"PO-Revision-Date: 2020-03-16 10:21+0000\n"
+"Last-Translator: Tomas Straupis\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:5
 msgid "Training material"
-msgstr ""
+msgstr "Mokymo medžiaga"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:11
 msgid ""
@@ -38,17 +38,58 @@ msgstr "Mokytojams patariama naudoti/maišyti/pridėti medžiagą į QGIS mokymo
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:18
 msgid ""
-"Please write to richard@qgis.org if you want to have something added here. "
-"Or you edit this page on `Github <https://github.com/qgis/QGIS-"
+"Please write to psc@qgis.org if you want to have something added here. Or "
+"you edit this page on `Github <https://github.com/qgis/QGIS-"
 "Website/blob/master/source/site/forusers/trainingmaterial/index.rst>`_ and "
 "do a pull request."
-msgstr ""
+msgstr "Prašome rašyti psc@qgis.org, jei norite, kad kažkas būtų čia pridėta. Arba jei pakeisite šį puslapį `Github'e <https://github.com/qgis/QGIS-Website/blob/master/source/site/forusers/trainingmaterial/index.rst>`_ ir padarysite prašymą priimti pakeitimus."
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:23
-msgid "Brazil"
-msgstr ""
+#: ../../source/site/forusers/trainingmaterial/index.rst:22
+msgid "English"
+msgstr "Angliškai"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:25
+#: ../../source/site/forusers/trainingmaterial/index.rst:24
+msgid ""
+"The official Training Manual can be found here: "
+"http://docs.qgis.org/latest/en/docs/training_manual/index.html"
+msgstr "Oficialią mokymo medžiagą rasite čia: http://docs.qgis.org/latest/en/docs/training_manual/index.html"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:27
+msgid ""
+"Tutorial material, originally developed as part of a workshop for the "
+"Ecology and Evolutionary Biology Program at Texas A&M University (produced "
+"and maintained by Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
+msgstr "Mokymo medžiaga, kurios pradinė versija buvo sukurta Ekologijos ir Evoliucinės Biologijos Programos darbams Teksaso A&M universitete (sukūrė ir palaiko Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:30
+msgid ""
+"In-person training material, originally developed for the New York City "
+"Department of Transportation by `Datapolitan <http://www.datapolitan.com>`_:"
+msgstr "Asmeninė mokymo medžiaga, kurios pradinį variantą paruošė New York City Department of Transportation by `Datapolitan <http://www.datapolitan.com>`_:"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:32
+msgid ""
+"`Introduction to GIS Fundamentals <http://training.datapolitan.com/qgis-"
+"training/Introduction_to_GIS_Fundamentals>`_"
+msgstr "`Įvadas į GIS pradmenis <http://training.datapolitan.com/qgis-training/Introduction_to_GIS_Fundamentals>`_"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:33
+msgid ""
+"`Intermediate GIS with QGIS and PostGIS <http://training.datapolitan.com"
+"/qgis-training/Intermediate_GIS/>`_"
+msgstr "`GIS pažengusiems su QGIS ir PostGIS <http://training.datapolitan.com/qgis-training/Intermediate_GIS/>`_"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:34
+msgid ""
+"`Source code for training materials <https://github.com/Datapolitan-Training"
+"/qgis-training>`_"
+msgstr "`Mokymo medžiagos išeities kodas <https://github.com/Datapolitan-Training/qgis-training>`_"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:37
+msgid "Brazilian Portuguese"
+msgstr "Portugališkai (brazilų)"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:39
 msgid ""
 "Roberto Ilacqua wrote a manual for image classification in QGIS: `Manual do "
 "QGIS para Classificação Supervisionada de Áreas "
@@ -57,79 +98,50 @@ msgid ""
 "Classificação Supervisionada de Áreas (short version) "
 "<https://malariaeliminationblog.files.wordpress.com/2018/01/protocol_lulc_methods.pdf>`_,"
 " short version, 34 p - 2017."
-msgstr ""
+msgstr "Roberto Ilacqua parašė vadovą nuotraukų klasifikavimui su QGIS: `Manual do QGIS para Classificação Supervisionada de Áreas <https://malariaeliminationblog.files.wordpress.com/2017/11/manual-qgis.pdf>`_, pilna versija, 200 p - 2017 arba `Manual do QGIS para Classificação Supervisionada de Áreas (short version) <https://malariaeliminationblog.files.wordpress.com/2018/01/protocol_lulc_methods.pdf>`_, trumpa versija, 34 p - 2017."
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:30
-msgid "English"
-msgstr "Angliškai"
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:32
-msgid ""
-"The official Training Manual can be found here: "
-"http://docs.qgis.org/latest/en/docs/training_manual/index.html"
-msgstr "Oficialią mokymo medžiagą rasite čia: http://docs.qgis.org/latest/en/docs/training_manual/index.html"
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:35
-msgid ""
-"Tutorial material, originally developed as part of a workshop for the "
-"Ecology and Evolutionary Biology Program at Texas A&M University (produced "
-"and maintained by Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
-msgstr "Mokymo medžiaga, kurios pradinė versija buvo sukurta Ekologijos ir Evoliucinės Biologijos Programos darbams Teksaso A&M universitete (sukūrė ir palaiko Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:38
-msgid ""
-"In-person training material, originally developed for the New York City "
-"Department of Transportation by `Datapolitan <http://www.datapolitan.com>`_:"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:40
-msgid ""
-"`Introduction to GIS Fundamentals <http://training.datapolitan.com/qgis-"
-"training/Introduction_to_GIS_Fundamentals>`_"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:41
-msgid ""
-"`Intermediate GIS with QGIS and PostGIS <http://training.datapolitan.com"
-"/qgis-training/Intermediate_GIS/>`_"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:42
-msgid ""
-"`Source code for training materials <https://github.com/Datapolitan-Training"
-"/qgis-training>`_"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:45
+#: ../../source/site/forusers/trainingmaterial/index.rst:44
 msgid "French"
 msgstr "Prancūziškai"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:47
+#: ../../source/site/forusers/trainingmaterial/index.rst:46
 msgid ""
 "The French Ministry of Environment supports the QGIS project. Training "
 "material from them is available here: http://www.geoinformations"
 ".developpement-durable.gouv.fr/qgis-supports-pedagogiques-r947.html"
 msgstr "Prancūzijos aplinkos ministerija palaiko QGIS projektą. Jų mokymo medžiagą rasite: http://www.geoinformations.developpement-durable.gouv.fr/qgis-supports-pedagogiques-r947.html"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:50
+#: ../../source/site/forusers/trainingmaterial/index.rst:49
 msgid ""
 "Other resources from them are available here: http://www.geoinformations"
 ".developpement-durable.gouv.fr/qgis-r625.html"
 msgstr "Kitus jų resursus rasite čia: http://www.geoinformations.developpement-durable.gouv.fr/qgis-r625.html"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:53
+#: ../../source/site/forusers/trainingmaterial/index.rst:52
 msgid ""
 "The French National Center for Scientific Research (CNRS), created an online"
 " QGIS tutorial: http://ouvrir.passages.cnrs.fr/tutoqgis/"
-msgstr ""
+msgstr "The French National Center for Scientific Research (CNRS), sukūrė internetinę QGIS mokymo medžiagą: http://ouvrir.passages.cnrs.fr/tutoqgis/"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:58
+#: ../../source/site/forusers/trainingmaterial/index.rst:56
 msgid "German"
 msgstr "Vokiškai"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:61
+#: ../../source/site/forusers/trainingmaterial/index.rst:58
 msgid "HSR material: http://giswiki.hsr.ch/QGIS-Materialien"
 msgstr "HSR medžiaga: http://giswiki.hsr.ch/QGIS-Materialien"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:62
+msgid "Czech"
+msgstr "Čekiškai"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:64
+msgid "QGIS for beginners: http://training.gismentors.eu/qgis-zacatecnik/"
+msgstr "QGIS pradedantiems: http://training.gismentors.eu/qgis-zacatecnik/"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:67
+msgid "QGIS for advanced users: http://training.gismentors.eu/qgis-pokrocily/"
+msgstr "QGIS pažengusiems naudotojams: http://training.gismentors.eu/qgis-pokrocily/"
 
 #~ msgid ""
 #~ msgstr ""
@@ -153,4 +165,14 @@ msgstr "HSR medžiaga: http://giswiki.hsr.ch/QGIS-Materialien"
 #~ msgid ""
 #~ "The french National Center for Scientific Research (CNRS), created an online"
 #~ " QGIS tutorial: http://ouvrir.passages.cnrs.fr/tutoqgis/"
+#~ msgstr ""
+
+#~ msgid "Brazil"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Please write to richard@qgis.org if you want to have something added here. "
+#~ "Or you edit this page on `Github <https://github.com/qgis/QGIS-"
+#~ "Website/blob/master/source/site/forusers/trainingmaterial/index.rst>`_ and "
+#~ "do a pull request."
 #~ msgstr ""

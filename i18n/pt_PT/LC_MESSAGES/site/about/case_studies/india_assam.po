@@ -1,13 +1,16 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
+# João Gaspar <joao.f.r.gaspar@gmail.com>, 2020
+# Manuela Silva <manuelarodsilva@gmail.com>, 2019
+# Rui <xymarior@yandex.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 20:02+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2020-05-09 15:01+0000\n"
+"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -81,7 +84,7 @@ msgid ""
 "and occupancy modelling of other species. These coordinate details were "
 "easily generated from camera trap shape files by using the “Export/ add "
 "geometry columns” feature of vector Geometry tools."
-msgstr "Em seguida, preparámos uma grelha de 4 km quadrados  usando o módulo mmqgis. Esta shapefile contém os resultados do levantamento dos sinais sobreposta na grelha de 4 km quadrados para visualizar a distribuição da armadilhas fotográficas no RTN. A opção da matriz de distância nas ferramentas de ánalise do vector facilitou na determinação da distância entre as câmaras. As localizações das câmaras tinham menos de 1.8km entre elas foram removidas para cumprir o protocolo de monitorização. Devido à falta de câmaras para monitorizar a área inteira da reserva de uma só vez, nós decidimos dividir a reserva em 2 blocos de 100 km quadrados. Os limites desses blocos foram desenhados e guardados em diferentes shapefiles para ambos os blocos. Usando o módulo de composição RGB, foi feito uma composição de falsa cor da reserva e sobrepôs-se a camada vectorial dos levantamentos dos sinais para avaliar os tipos de habitats usados pelo tigre. Durante o período de estudo, as armadilhas fotográficas foram monitorizadas intensivamente pela equipa de campo. Para assegurar um trabalho eficaz do processo de monitorização, nós usámos requisitos para o planeamento logístico. As coordenadas geográficas das armadilhas fotográficas são requiridas para estimar a densidade do tigre e modelar a coupação das outras espécies. Este detalhe de coordenadas são facilmente geradas na shapefile das armadilhas fotográficas usando a funcionalidade \"Exportar/ adicionar colunas de geometria\" das ferramentas de geometria de vector."
+msgstr "Em seguida, preparámos uma grelha de 4 km quadrados  usando o módulo mmqgis. Esta shapefile contém os resultados do levantamento dos sinais sobreposta na grelha de 4 km quadrados para visualizar a distribuição da armadilhas fotográficas no RTN. A opção da matriz de distância nas ferramentas de análise do vetor facilitou na determinação da distância entre as câmaras. As localizações das câmaras tinham menos de 1.8km entre elas foram removidas para cumprir o protocolo de monitorização. Devido à falta de câmaras para monitorizar a área inteira da reserva de uma só vez, nós decidimos dividir a reserva em 2 blocos de 100 km quadrados. Os limites desses blocos foram desenhados e guardados em diferentes shapefiles para ambos os blocos. Usando o módulo de composição RGB, foi feito uma composição de falsa cor da reserva e sobrepôs-se a camada vetorial dos levantamentos dos sinais para avaliar os tipos de habitats usados pelo tigre. Durante o período de estudo, as armadilhas fotográficas foram monitorizadas intensivamente pela equipa de campo. Para assegurar um trabalho eficaz do processo de monitorização, nós usámos requisitos para o planeamento logístico. As coordenadas geográficas das armadilhas fotográficas são requeridas para estimar a densidade do tigre e modelar a ocupação das outras espécies. Este detalhe de coordenadas são facilmente geradas na shapefile das armadilhas fotográficas usando a funcionalidade \"Exportar/ adicionar colunas de geometria\" das ferramentas de geometria de vetor."
 
 #: ../../source/site/about/case_studies/india_assam.rst:41
 msgid "Survey grids with tiger presence"
@@ -104,7 +107,7 @@ msgid ""
 "This article was contributed by Rajendra G. Garawad in March 2013. He is the"
 " Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
 "Degrees in Forestry Science and Conservation & Land Management."
-msgstr "Este artigo foi contribuído pelo Rajendra G. Garawad em Março de 2013. Ele é Director de campo da Reserva de Tigres em Nameri, Assam, Índia. Possui um Mestrado em Ciências Florestais e Conservação & Ordenamento do Território."
+msgstr "Este artigo teve o contributo do Rajendra G. Garawad em Março de 2013. Ele é Diretor de campo da Reserva de Tigres em Nameri, Assam, Índia. Possui um Mestrado em Ciências Florestais e Conservação & Ordenamento do Território."
 
 #: ../../source/site/about/case_studies/india_assam.rst:3
 msgid ""
@@ -141,7 +144,7 @@ msgid ""
 "software. We believe that QGIS has great potential for empowering "
 "individuals/institutions/ involved in conserving endangered wildlife in the "
 "developing world by offering GIS technology at little or no cost."
-msgstr "Pela primeira vez na história da pequena reserva de tigres do Nordeste da Índia, foi possível monitorizar tigres usando armadilhas fotográficas principalmente por causa do QGIS. Os resultados deste exercício de monitorização indicam a presença de 8-15 tigres neste terreno. Adicionalmente, incrivelmente várias espécies também foram documentadas fotograficamente. Além da monitorização do tigre, também estamos a usar o QGIS para actividades como planeamento de gestão de habitats, revendo os horários de patrulhamento, e desenhar mapas para os visitantes. A interface amigável, rica em recursos, com documentação detalhada, suporte online e de filosofia livre / código aberto são as das muitas qualidades do QGIS que nos fizeram escolhe-lo sobre outro software proprietário. Acreditamos que o QGIS tem um grande potencial para capacitar as pessoas / instituições / envolvidas na conservação da fauna ameaçada e em extinção no mundo em desenvolvimento, oferecendo tecnologia SIG com pouco ou nenhum custo."
+msgstr "Pela primeira vez na história desta pequena reserva de tigres do Nordeste da Índia, foi possível monitorizar os tigres utilizando câmaras ocultas, principalmente por causa do QGIS. Os resultados deste exercício de monitorização indicam a presença de 8 a 15 tigres neste terreno. Em adição aos tigres, também foram documentadas fotograficamente várias espécies elusivas. Além dos tigres, nós também estamos a utilizar o QGIS para atividades, como planear trabalhos de gestão de habitat, rever horários de patrulhamento, e desenhar mapas para os visitantes. A interface fácil de utilizar, rica em funcionalidades, documentação detalhada, apoio on-line e de filosofia livre/código aberto, são algumas das muitas qualidades do QGIS que nos fizeram selecioná-lo sobre outro software proprietário. Nós acreditamos que o QGIS tem um grande potencial para capacitar as pessoas/instituições envolvidas na conservação da vida selvagem ameaçada no mundo em desenvolvimento, oferecendo a tecnologia SIG com pouco ou nenhum custo."
 
 #~ msgid "QGIS for monitoring tigers"
 #~ msgstr ""

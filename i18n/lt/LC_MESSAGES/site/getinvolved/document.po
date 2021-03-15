@@ -1,31 +1,52 @@
 # 
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2016
-# Tomas Straupis, 2015
+# Tomas Straupis, 2015,2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2017-09-23 20:42+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2019-11-02 12:44+0100\n"
+"PO-Revision-Date: 2021-02-20 10:50+0000\n"
+"Last-Translator: Tomas Straupis\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/getinvolved/document.rst:4
+msgid "Write Documentation"
+msgstr "Rašykite dokumentaciją"
 
 #: ../../source/site/getinvolved/document.rst:6
 msgid ""
 "The update of the QGIS documentation is managed by the :ref:`Community Team "
-"Lead <gui-translation>`. Have a look at the :ref:`QGIS Governance <gui-"
-"translation>` to find out who is in charge of guiding you."
-msgstr "QGIS dokumentacijos atnaujinimus tvarko :ref:`Bendruomenės komandos vadovas <gui-translation>`. Perskaitykite :ref:`QGIS valdymą <gui-translation>`, kad sužinotumėte, kas turi jums padėti."
+"Lead <community-resources>`. Have a look at the :ref:`QGIS Governance "
+"<whoiswho>` to find out who is in charge of guiding you."
+msgstr "QGIS dokumentacijos atnaujinimą valdo :ref:`Bendruomenės komandos vadovas <community-resources>`. Peržiūrėkite :ref:`QGIS savivaldos dokumentą <whoiswho>`, kad sužinotumėte kas atsakingas už jūsų informavimą."
+
+#: ../../source/site/getinvolved/document.rst:10
+msgid ""
+"The complete list of documents managed by the QGIS documentation team can be"
+" found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
+"be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+msgstr "Pilną QGIS dokumentacijos komandos valdomų dokumentų sąrašą rasite http://www.qgis.org/en/docs/index.html. Dokumentuotojų sąrašą rasite https://github.com/qgis/QGIS-Documentation/graphs/contributors."
 
 #: ../../source/site/getinvolved/document.rst:17
 msgid "Documentation Mailing list"
 msgstr "Dokumentacijos sąrašynas"
+
+#: ../../source/site/getinvolved/document.rst:19
+msgid ""
+"If you plan to contribute to QGIS documentation, see :ref:`becoming-"
+"documenter`. For other related questions, please contact the "
+":ref:`Documentation Team Leader <community-resources>` or subscribe with the"
+" `qgis-community-team <http://lists.osgeo.org/mailman/listinfo/qgis-"
+"community-team>`_ mailing list."
+msgstr "Jei galvojate prisidėti prie QGIS dokumentacijos tobulinimo, peržiūrėkite :ref:`tapti-dokumentuotoju`. Dėl kitų susijusių klausimų susisiekite su :ref:`Dokumentacijos komandos vadovu <community-resources>` arba prisijunkite prie `qgis-community-team <http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_ sąrašyno."
 
 #: ../../source/site/getinvolved/document.rst:24
 msgid ""
@@ -63,26 +84,6 @@ msgid ""
 "so any contribution you have to make will be greatly appreciated."
 msgstr "Mes bandome tobulinti savo projekto valdymo procesus ir tolygiau išdalinti apkrovas tarp žmonių, kiekvienas iš kurių atsakingas už konkrečia sritį. Todėl būsime dėkingi už bet kokį jūsų indėlį."
 
-#: ../../source/site/getinvolved/document.rst:4
-msgid "Write Documentation"
-msgstr ""
-
-#: ../../source/site/getinvolved/document.rst:10
-msgid ""
-"The complete list of documents managed by the QGIS documentation team can be"
-" found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
-"be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
-msgstr ""
-
-#: ../../source/site/getinvolved/document.rst:19
-msgid ""
-"If you plan to contribute to QGIS documentation, see :ref:`becoming-"
-"documenter`. For other related questions, please contact the "
-":ref:`Documentation Team Leader <community-resources>` or subscribe with the"
-" `qgis-community-team <http://lists.osgeo.org/mailman/listinfo/qgis-"
-"community-team>`_ mailing list."
-msgstr ""
-
 #: ../../source/site/getinvolved/document.rst:45
 msgid ""
 "The complete list of documents managed by the QGIS Documentation Team can be"
@@ -90,32 +91,32 @@ msgid ""
 "sources are hosted in `QGIS-Documentation repository "
 "<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
 "features in QGIS or document new ones, you need to:"
-msgstr ""
+msgstr "Pilną sąrašą dokumentų, kuriuos tvarko QGIS dokumentacijos komanda, rasite http://www.qgis.org/lt/docs/index.html. Visi dokumentacijos išeities tekstai saugomi `QGIS-Dokumentacijos repozitorijoje <https://github.com/qgis/QGIS-Documentation>`_. Jei norite atnaujinti kai kurias QGIS savybes ar aprašyti naujas, jums reikės:"
 
 #: ../../source/site/getinvolved/document.rst:51
 msgid "have a `GitHub account <https://github.com/join>`_"
-msgstr ""
+msgstr "turėti `GitHub paskyrą <https://github.com/join>`_"
 
 #: ../../source/site/getinvolved/document.rst:52
 msgid ""
 "`fork the repository <https://help.github.com/articles/working-with-"
 "forks/>`_"
-msgstr ""
+msgstr "`padaryti repozitorijos <https://help.github.com/articles/working-with-forks/> kopiją`_"
 
 #: ../../source/site/getinvolved/document.rst:53
 msgid "do your changes"
-msgstr ""
+msgstr "atlikti jūsų pakeitimus"
 
 #: ../../source/site/getinvolved/document.rst:54
 msgid "and submit a pull request."
-msgstr ""
+msgstr "ir pateikti pakeitimo prašymą."
 
 #: ../../source/site/getinvolved/document.rst:56
 msgid ""
 "Instructions for contributing in documentation and managing a git repository"
 " are available at `Documentation Guidelines "
 "<http://docs.qgis.org/testing/en/docs/documentation_guidelines/index.html>`_"
-msgstr ""
+msgstr "Dokumentavimo ir git repozitorijos valdymo instrukcijas rasite `Dokumentavimo nuorodose <http://docs.qgis.org/testing/en/docs/documentation_guidelines/index.html>`_"
 
 #: ../../source/site/getinvolved/document.rst:60
 msgid "**Direct access to source file**"
@@ -263,4 +264,10 @@ msgstr ""
 #~ " please assign to the :ref:`qgis-community-team mailing list <mailinglist-"
 #~ "translation>` and ask who is already working on that language to coordinate "
 #~ "and collaborate."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The update of the QGIS documentation is managed by the :ref:`Community Team "
+#~ "Lead <gui-translation>`. Have a look at the :ref:`QGIS Governance <gui-"
+#~ "translation>` to find out who is in charge of guiding you."
 #~ msgstr ""

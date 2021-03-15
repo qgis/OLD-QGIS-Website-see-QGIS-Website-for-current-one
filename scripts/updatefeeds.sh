@@ -16,7 +16,7 @@ curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2327386@N22&lang=
 
 # get latest planet feed
 mv qgisplanet.atom qgisplanet.atom.0
-curl -o qgisplanet.atom "http://planet.qgis.org/planet/feed/atom/"
+curl -o qgisplanet.atom "https://plugins.qgis.org/planet/feed/atom/"
 
 # get qugsnews (from github)
 mv qugsnews.atom qugsnews.atom.0

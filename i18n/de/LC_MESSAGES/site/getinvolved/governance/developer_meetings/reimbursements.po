@@ -1,17 +1,19 @@
 # 
 # Translators:
+# Jochen Huber, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2014-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 20:00+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"PO-Revision-Date: 2020-01-10 19:03+0000\n"
+"Last-Translator: Jochen Huber\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -25,29 +27,25 @@ msgid ""
 "in Europe. The purpose of the meetings is to provide face-to-face time for "
 "developers. It is a forum for presenting new ideas, planning, putting heads "
 "together to solve problems and so on. We use funding from our "
-":doc:`../sponsorship/index` to facilitate the event, with co-funding from "
-"the host who usually supplies the venue and the infrastructure for hosting "
-"the meeting. Individual developers also co-fund the event by donating their "
-"time and in many cases financially supporting their visit to the meeting "
-"directly."
-msgstr "Das QGIS-Projekte veranstaltet zweimal jährlich Entwicklertreffen, typischerweise irgendwo in Europa.Der Zweck dieser Treffen ist den Entwicklern Zeit in Angesicht zu ermöglichen. Es ist ein Forum für neue Ideen, Planungen und sich zur Lösung von Problem usw. zusammenzusetzen. Wir nutzen dazu Mittel aus unserem :doc:`../sponsorship/index` mit weiteren Mitteln der Gastgeber, die normalerweise für den Veranstaltungsort und die Infrastruktur aufkommen. Die Entwickler bringen ihre Zeit ein und kommen in vielen Fällen auch für ihren Besuch selbst auf."
+":ref:`QGIS_sustaining_memberships` to facilitate the event, with co-funding "
+"from the host who usually supplies the venue and the infrastructure for "
+"hosting the meeting. Individual developers also co-fund the event by "
+"donating their time and in many cases financially supporting their visit to "
+"the meeting directly."
+msgstr "Das QGIS-Projekt veranstaltet zweimal jährlich Entwicklertreffen, typischerweise irgendwo in Europa. Der Zweck dieser Treffen ist, den Entwicklern Zeit von Angesicht zu Angesicht zu ermöglichen. Es ist ein Forum für neue Ideen, Planungen und um sich zur Lösung von Problem usw. zusammenzusetzen. Wir nutzen Mittel aus unseren :ref:`QGIS_sustaining_memberships` um die Veranstaltung zu ermöglichen, zusammen mit weiteren Mitteln der Gastgeber, die normalerweise für den Veranstaltungsort und die Infrastruktur aufkommen. Die Entwickler bringen ihre Zeit ein und kommen in vielen Fällen auch für ihren Besuch selbst auf."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:14
 msgid "Need a refund for QGIS HF expenses?"
 msgstr "Möchten Sie QGIS-HF-Aufwendung erstattet haben?"
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:33
-msgid "In case of doubt"
-msgstr "Im Zweifel"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:16
 msgid ""
 "If you are a contributor to the project (to either code, documentation, "
 "translation, or infrastructure), you think your participation to the HF will"
 " be useful for the project, and you do not have funds to cover for "
-"travelling and lodging, you can apply for refund, at least 40 days in "
-"advance"
-msgstr "Leute die zum Projekte beigetragen haben (mit Code, Dokumentation, Übersetzung oder Infrastruktur), ihre Teilnahme am HF für das Projekt sinnvoll wäre, aber sie keine Mittel für die Reise oder Unterbringung haben, können eine Erstattung der Kosten - mindestens 40 Tage im voraus - beantragen"
+"travelling and lodging, you can `apply for refund "
+"<https://goo.gl/forms/YKm5fo7ll5GfQEJI3>`_, at least 40 days in advance"
+msgstr "Wenn Sie zum Projekt beigetragen haben (mit Code, Dokumentation, Übersetzung oder Infrastruktur), und denken, dass Ihre Teilnahme am HF für das Projekt sinnvoll wäre, aber sie keine Mittel für die Reise oder Unterbringung haben, können Sie eine Erstattung der Kosten - mindestens 40 Tage im voraus - `beantragen<https://goo.gl/forms/YKm5fo7ll5GfQEJI3>`_."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:20
 msgid ""
@@ -84,6 +82,10 @@ msgid ""
 "The refund will be sent to your bank account after the HF, on the basis of "
 "the bills actually paid and sent to our Treasurer."
 msgstr "Die Erstattung wird nach dem HF aufgrund der eingereichten Belege durch den Schatzmeister auf das Bankkonto überwiesen."
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:33
+msgid "In case of doubt"
+msgstr "Im Zweifel"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:35
 msgid ""
@@ -230,4 +232,24 @@ msgstr "Das Projektsteuerungskommitee (PSC) muß Entscheidungen zu jeder Anfrage
 #~ "The requestor should provide copies of reciepts for all expenditures as soon"
 #~ " as possible after the event. No refunds should be made without accompanying"
 #~ " receipts."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The QGIS project holds twice-yearly developer meetings, typically somewhere "
+#~ "in Europe. The purpose of the meetings is to provide face-to-face time for "
+#~ "developers. It is a forum for presenting new ideas, planning, putting heads "
+#~ "together to solve problems and so on. We use funding from our "
+#~ ":doc:`../sponsorship/index` to facilitate the event, with co-funding from "
+#~ "the host who usually supplies the venue and the infrastructure for hosting "
+#~ "the meeting. Individual developers also co-fund the event by donating their "
+#~ "time and in many cases financially supporting their visit to the meeting "
+#~ "directly."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are a contributor to the project (to either code, documentation, "
+#~ "translation, or infrastructure), you think your participation to the HF will"
+#~ " be useful for the project, and you do not have funds to cover for "
+#~ "travelling and lodging, you can apply for refund, at least 40 days in "
+#~ "advance"
 #~ msgstr ""

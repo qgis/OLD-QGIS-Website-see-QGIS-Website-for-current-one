@@ -1,16 +1,19 @@
 # 
 # Translators:
+# Aurelio Pires <anvpires@gmail.com>, 2019
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2015
-# Manuela Silva <manuela.silva@sky.com>, 2018
-# Manuela Silva <manuela.silva@sky.com>, 2016
+# João Gaspar <joao.f.r.gaspar@gmail.com>, 2019
+# Manuela Silva <manuelarodsilva@gmail.com>, 2018
+# Manuela Silva <manuelarodsilva@gmail.com>, 2016
+# Rui <xymarior@yandex.com>, 2018
 # Victor Ferreira <victor.mota.ferreira@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2018-05-22 08:17+0000\n"
-"Last-Translator: Manuela Silva <manuela.silva@sky.com>\n"
+"PO-Revision-Date: 2020-05-01 09:15+0000\n"
+"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,19 +23,19 @@ msgstr ""
 
 #: ../../source/site/forusers/support.rst:8
 msgid "Mailing Lists"
-msgstr "Listas de Endereços"
+msgstr "Listas de Discussão"
 
 #: ../../source/site/forusers/support.rst:10
 msgid ""
 "QGIS has a bunch of mailing lists. See :ref:`QGIS-mailinglists` for the "
 "different available lists."
-msgstr "O QGIS tem várias listas de discussão. Consulte :ref:`QGIS-mailinglists` para as diferentes listas disponíveis."
+msgstr "O QGIS tem várias listas de discussão. Consulte as :ref:`QGIS-mailinglists` das diferentes listas disponíveis."
 
 #: ../../source/site/forusers/support.rst:12
 msgid ""
 "If you are going to ask questions please read this: :ref:`how-to-ask-a-QGIS-"
 "question`."
-msgstr "Se vai efetuar perguntas, por favor, leia isto: :ref:`how-to-ask-a-QGIS-question`."
+msgstr "Se pretende fazer alguma pergunta, por favor, leia isto: :ref:`how-to-ask-a-QGIS-question`."
 
 #: ../../source/site/forusers/support.rst:35
 msgid "Chat"
@@ -74,7 +77,7 @@ msgstr "Nabble (http://nabble.com) mantém um histórico de várias listas de di
 
 #: ../../source/site/forusers/support.rst:84
 msgid "Forums"
-msgstr "Fórums"
+msgstr "Fóruns"
 
 #: ../../source/site/forusers/support.rst:54
 msgid "Website"
@@ -98,7 +101,7 @@ msgid ""
 "international QGIS team by registering at the QGIS community list and "
 "reporting about your progress. Please do not hesitate to ask questions "
 "regarding the establishment and maintenance of your local user group."
-msgstr "Boa sorte com a organização do seu grupo de utilizadores local. Por favor informe a equipa internacional QGIS através do registo da lista da comunidade QGIS e avisa-los sobre o seu progresso. Por favor não hesite em perguntar questões relativas ao estabelecimento e manutenção do seu grupo de utilizadores local."
+msgstr "Boa sorte com a organização do seu grupo de utilizadores locais. Por favor, informe a equipa internacional do QGIS através do registo da lista da comunidade do QGIS e informe-os sobre o seu progresso. Por favor, não hesite em colocar questões relativas ao estabelecimento e manutenção do seu grupo de utilizadores locais."
 
 #: ../../source/site/forusers/support.rst:74
 msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
@@ -106,27 +109,27 @@ msgstr "Se pretender reportar erros ou problemas, consulte :ref:`QGIS-bugreporti
 
 #: ../../source/site/forusers/support.rst:4
 msgid "Support"
-msgstr ""
+msgstr "Suporte"
 
 #: ../../source/site/forusers/support.rst:86
 msgid ""
 "QGIS does not have a forum. Please either search in StackExchange (see "
 "below), or via http://nabble.com in the history of our Mailinglists (see "
 "above)."
-msgstr ""
+msgstr "O QGIS não possui fórum. Procure no StackExchange (ver abaixo), ou no no histórico do Nabble http://nabble.com ou nas nossas listas de discussão (ver abaixo)"
 
 #: ../../source/site/forusers/support.rst:89
 msgid ""
 "For non-english, note that there also exist local forums that have a "
 "dedicated section for QGIS you may need to search in."
-msgstr ""
+msgstr "Para os não fluentes em inglês, note que também existem fóruns locais que têm uma secção dedicada para o QGIS na qual pode pesquisar."
 
 #: ../../source/site/forusers/support.rst:29
 msgid ""
 "On http://gis.stackexchange.com you can ask QGIS questions also. If you use "
 "the tag ``qgis`` you'll see all QGIS related questions and answers: "
 "http://gis.stackexchange.com/?tags=qgis"
-msgstr ""
+msgstr "No http://gis.stackexchange.com pode também fazer perguntas sobre o QGIS. Se usar a etiqueta 'qgis' irá ver todas as questões e respostas relacionadas com QGIS: http://gis.stackexchange.com/?tags=qgis"
 
 #: ../../source/site/forusers/support.rst:39
 msgid ""
@@ -138,18 +141,18 @@ msgstr ""
 
 #: ../../source/site/forusers/support.rst:48
 msgid "Local QGIS user groups are a great place to meet other users."
-msgstr ""
+msgstr "Os grupos de utilizadores locais de QGIS são ótimos locais para conhecer outros utilizadores."
 
 #: ../../source/site/forusers/support.rst:50
 msgid "See :ref:`QGIS-usergroups` to read about it."
-msgstr ""
+msgstr "Consulte :ref:`QGIS-usergroups` para ler sobre isto."
 
 #: ../../source/site/forusers/support.rst:20
 msgid ""
 "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
 "you see there is a QGIS section also, where you can do a search over all "
 "QGIS lists, or refine it to e.g. only the users list."
-msgstr ""
+msgstr "Se for à secção OSGEO: http://osgeo-org.1560.x6.nabble.com/ pode ver também uma secção QGIS, onde pode pesquisar em todas as listas QGIS, ou restringir a pesquisa, por exemplo, apenas à lista de utilizadores."
 
 #~ msgid ""
 #~ "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "

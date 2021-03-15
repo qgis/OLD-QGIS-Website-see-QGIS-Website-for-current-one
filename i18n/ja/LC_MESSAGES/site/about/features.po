@@ -1,96 +1,24 @@
 # 
 # Translators:
-# Kohei Tomita <fairtommy@gmail.com>, 2017
+# Kayama Yoichi <yoichi.kayama@gmail.com>, 2018
+# fairtommy <fairtommy@gmail.com>, 2017
 # k_zoar <zoar@k-side.net>, 2016
 # Satoshi IIDA <nyampire@gmail.com>, 2016
+# 藤本理弘 <mfujimot@gmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-11-28 03:08+0000\n"
-"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2020-07-09 12:40+0200\n"
+"PO-Revision-Date: 2020-07-09 10:51+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: ../../source/site/about/features.rst:7
-msgid "QGIS Desktop"
-msgstr "QGISデスクトップ"
-
-#: ../../source/site/about/features.rst:9
-msgid "Create, edit, visualise, analyse and publish geospatial information."
-msgstr "地理空間情報の作成、編集、可視化と公開を行います。"
-
-#: ../../source/site/about/features.rst:11
-msgid "For Windows, Mac, Linux, BSD and Android."
-msgstr " Windows, Mac, Linux, BSD と Androidで使えます。"
-
-#: ../../source/site/about/features.rst:16
-msgid "A screenshot of QGIS Desktop"
-msgstr "QGISデスクトップのスクリーンショット"
-
-#: ../../source/site/about/features.rst:20
-msgid "QGIS Browser"
-msgstr "QGISブラウザ"
-
-#: ../../source/site/about/features.rst:22
-msgid "Browse and preview your data and metadata."
-msgstr "データとメタデータを閲覧、プレビューできます。"
-
-#: ../../source/site/about/features.rst:24
-msgid "Drag and drop your data from one datastore into the other one."
-msgstr "あなたのデータをあるデータストアから別のデータストアにドラッグアンドドロップしてください。"
-
-#: ../../source/site/about/features.rst:29
-msgid "A screenshot of QGIS Browser"
-msgstr "QGISブラウザのスクリーンショット"
-
-#: ../../source/site/about/features.rst:33
-msgid "QGIS Server"
-msgstr "QGISサーバ"
-
-#: ../../source/site/about/features.rst:35
-msgid ""
-"Publish your QGIS projects and layers as OGC compatible WMS and WFS "
-"services. Control which layers, attributes, layouts and coordinate systems "
-"are exported."
-msgstr "あなたのQGISプロジェクトとレイヤをOGC互換のWMSやWFSサービスとして公開しましょう.どのレイヤ、属性、レイアウト、座標系を使うかはコントロールできます。"
-
-#: ../../source/site/about/features.rst:42
-msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
-msgstr "QGISサーバーの構成をQGISデスクトップで行っているスクリーンショット"
-
-#: ../../source/site/about/features.rst:45
-msgid "QGIS Web Client"
-msgstr "QGIS Webクライアント"
-
-#: ../../source/site/about/features.rst:47
-msgid ""
-"Publish your QGIS projects on the web with ease. Benefit from the powerful "
-"symbology, labeling and blending features to impress with your maps."
-msgstr "あなたのQGISプロジェクトを簡単にWEBに公開できます。強力なシンボロジーやラべリング、地物の混合であなたの地図の表現力向上に役に立ちます。"
-
-#: ../../source/site/about/features.rst:54
-msgid "A screenshot of QGIS Web Client"
-msgstr "QGIS Webクライアントのスクリーンショット"
-
-#: ../../source/site/about/features.rst:58
-msgid "QGIS on Android (beta!)"
-msgstr "Android版QGIS（beta!)"
-
-#: ../../source/site/about/features.rst:60
-msgid ""
-"Work is being done to use QGIS on Android devices. Current builds are very "
-"experimental, and not for the faint of heart."
-msgstr "AndroidデバイスでQGISを動作させることもできます。現在のビルドは実験的なもので、心臓の弱い人向けではありません。"
-
-#: ../../source/site/about/features.rst:66
-msgid "A screenshot of QGIS on Android"
-msgstr "Android版QGISのスクリーンショット"
 
 #: ../../source/site/about/features.rst:2
 msgid "Applications"
@@ -102,8 +30,119 @@ msgid ""
 "server application, and web applications."
 msgstr "QGISは単なるデスクトップGISではありません。QGISでは地理空間情報ファイルブラウザや、サーバアプリケーション、ウェブアプリケーションの提供も行っています。"
 
+#: ../../source/site/about/features.rst:7
+msgid "QGIS Desktop"
+msgstr "QGISデスクトップ"
+
+#: ../../source/site/about/features.rst:9
+msgid "Create, edit, visualise, analyse and publish geospatial information."
+msgstr "地理空間情報の作成、編集、解析と公開を行います。"
+
+#: ../../source/site/about/features.rst:11
+msgid "For Windows, Mac, Linux, BSD and Android."
+msgstr " Windows, Mac, Linux, BSD と Androidで使えます。"
+
+#: ../../source/site/about/features.rst:16
+msgid "A screenshot of QGIS Desktop"
+msgstr "QGISデスクトップのスクリーンショット"
+
+#: ../../source/site/about/features.rst:19
+msgid "QGIS Server"
+msgstr "QGISサーバ"
+
+#: ../../source/site/about/features.rst:21
+msgid ""
+"Publish your QGIS projects and layers as OGC compatible WMS, WMTS, WFS and "
+"WCS services. Control which layers, attributes, layouts and coordinate "
+"systems are exported. QGIS server is considered as a reference "
+"implementation for WMS 1.3."
+msgstr "QGIS プロジェクトとレイヤを OGC 互換の WMS, WMTS, WFS, WCS のサービスとして公開しましょう。どのレイヤ、属性、レイアウト、座標系を使うかはコントロールできます。 QGIS サーバーは WMS 1.3 の参考実装と見なされています。"
+
+#: ../../source/site/about/features.rst:33
+msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
+msgstr "QGISサーバーの構成をQGISデスクトップで行っているスクリーンショット"
+
+#: ../../source/site/about/features.rst:36
+msgid "QGIS Web Client"
+msgstr "QGIS Webクライアント"
+
+#: ../../source/site/about/features.rst:38
+msgid ""
+"Publish your QGIS projects on the web with ease. Benefit from the powerful "
+"symbology, labeling and blending features to impress with your maps."
+msgstr "あなたのQGISプロジェクトを簡単にWEBに公開できます。強力なシンボロジやラべリング、地物の混合であなたの地図の表現力向上に役に立ちます。"
+
+#: ../../source/site/about/features.rst:45
+msgid "A screenshot of QGIS Web Client"
+msgstr "QGIS Webクライアントのスクリーンショット"
+
+#: ../../source/site/about/features.rst:49
+msgid "QGIS on mobiles and tablets"
+msgstr ""
+
+#: ../../source/site/about/features.rst:51
+msgid ""
+"The QGIS experience does not stop on the desktop. Various third-party touch "
+"optimized apps allow you to take QGIS into the field"
+msgstr ""
+
+#: ../../source/site/about/features.rst:55
+msgid "`QField for QGIS (formerly QGIS for Android) <https://qfield.org>`_"
+msgstr ""
+
+#: ../../source/site/about/features.rst:59
+msgid ""
+"A screenshot of QField for QGIS (available for Android, Windows, iOS coming "
+"soon)"
+msgstr ""
+
+#: ../../source/site/about/features.rst:62
+msgid "`Input <https://inputapp.io>`_"
+msgstr ""
+
+#: ../../source/site/about/features.rst:66
+msgid "A screenshot of Input (available for Android, Windows, iOS)"
+msgstr ""
+
+#: ../../source/site/about/features.rst:69
+msgid "`IntraMaps Roam <https://roam-docs.readthedocs.io>`_"
+msgstr ""
+
+#: ../../source/site/about/features.rst:73
+msgid "A screenshot of IntraMaps Roam (available for Windows)"
+msgstr ""
+
 #~ msgid "QGIS Applications"
 #~ msgstr ""
 
 #~ msgid "Features of QGIS"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Publish your QGIS projects and layers as OGC compatible WMS and WFS "
+#~ "services. Control which layers, attributes, layouts and coordinate systems "
+#~ "are exported."
+#~ msgstr ""
+
+#~ msgid "QGIS Browser"
+#~ msgstr ""
+
+#~ msgid "Browse and preview your data and metadata."
+#~ msgstr ""
+
+#~ msgid "Drag and drop your data from one datastore into the other one."
+#~ msgstr ""
+
+#~ msgid "A screenshot of QGIS Browser"
+#~ msgstr ""
+
+#~ msgid "QGIS on Android (beta!)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Work is being done to use QGIS on Android devices. Current builds are very "
+#~ "experimental, and not for the faint of heart."
+#~ msgstr ""
+
+#~ msgid "A screenshot of QGIS on Android"
 #~ msgstr ""

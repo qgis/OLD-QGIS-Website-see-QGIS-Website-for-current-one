@@ -1,15 +1,16 @@
 # 
 # Translators:
-# Dick Groskamp, 2014,2016,2018
+# DiGro, 2014,2016,2018,2020
 # Diethard Jansen <diethard.jansen@gmail.com>, 2013-2014
+# DiGro, 2020
 # Raymond Nijssen <r.nijssen@terglobo.nl>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 16:17+0200\n"
-"PO-Revision-Date: 2018-05-21 11:38+0000\n"
-"Last-Translator: Dick Groskamp\n"
+"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"PO-Revision-Date: 2020-10-26 12:29+0000\n"
+"Last-Translator: DiGro\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,12 +43,13 @@ msgstr "Hoe stel je een vraag over QGIS?"
 
 #: ../../source/site/getinvolved/faq/index.rst:20
 msgid ""
-"If you are going to ask QGIS related question via the mailing lists, please "
-"provide enough information to help others easily understand what your "
-"problem is. Without a clear and precise question, it is very hard to answer "
-"for anybody or takes just too much time because the answer will be a "
-"question to you etc etc. You may provide information such as:"
-msgstr "Als u een aan QGIS gerelateerde vraag gaat stellen via de mailinglijsten, verschaf dan voldoende informatie om anderen eenvoudig te laten begrijpen wat uw probleem is. Zonder ene heldere en precoeze vraag is het voor iedereen moeilijk om ene antwoord t egeven pf vergt dat teveel tijd omdat het antwoord een vraag aan u zal zijn etc etc. U wordt gevraagd informatie te verschaffen zoals:"
+"If you are going to ask QGIS related question via the :ref:`mailing lists "
+"<QGIS-mailinglists>`, please provide enough information to help others "
+"easily understand what your problem is. Without a clear and precise "
+"question, it is very hard to answer for anybody or takes just too much time "
+"because the answer will be a question to you etc etc. You may provide "
+"information such as:"
+msgstr "Als u een aan QGIS gerelateerde vraag gaat stellen via de :ref:`mailinglijsten <QGIS-mailinglists>`,  verschaf dan voldoende informatie om anderen eenvoudig te laten begrijpen wat uw probleem is. Zonder een heldere en precieze vraag is het voor iedereen moeilijk om een antwoord te geven of vergt dat teveel tijd, omdat het antwoord een vraag aan u zal zijn etc etc. U wordt gevraagd informatie te verschaffen zoals:"
 
 #: ../../source/site/getinvolved/faq/index.rst:26
 msgid "preferably a descriptive title for your email"
@@ -98,9 +100,9 @@ msgstr "Onthoud dat hoe nauwkeuriger uw vraag is, des te sneller en nauwkeuriger
 #: ../../source/site/getinvolved/faq/index.rst:41
 msgid ""
 "In case of a broken function, you may give a look at `QGIS issue tracker "
-"<https://issues.qgis.org/projects/qgis/issues>`_ before mailing to the list."
-" More information at :ref:`QGIS-bugreporting`."
-msgstr "In het geval van een kapotte functie kunt u nog even kijken op `QGIS issue tracking <https://issues.qgis.org/projects/qgis/issues>`_ vóórdat u naar de lijst mailt. Meer informatie op :ref:`QGIS-bugreporting`."
+"<https://github.com/qgis/QGIS/issues>`_ before mailing to the list. More "
+"information at :ref:`QGIS-bugreporting`."
+msgstr "In het geval van een kapotte functie kunt u nog even kijken op `QGIS issue tracker <https://github.com/qgis/QGIS/issues>`_ vóórdat u naar de lijst mailt. Meer informatie op :ref:`QGIS-bugreporting`."
 
 #: ../../source/site/getinvolved/faq/index.rst:47
 msgid "How are QGIS release names selected?"
@@ -120,53 +122,68 @@ msgstr "Hoe QGIS te noemen?"
 #: ../../source/site/getinvolved/faq/index.rst:56
 msgid ""
 "To cite QGIS in your piece of work, or for an assignment, this general "
-"citation might be helpful: \"QGIS Development Team (YEAR). QGIS Geographic "
-"Information System. Open Source Geospatial Foundation Project. "
-"http://qgis.osgeo.org\"."
-msgstr "Om QGIS aan te halen in uw werk, of voor een opdracht, zou dit algemene citaat nuttig kunnen zijn: \"QGIS Development Team (JAAR). QGIS Geographic Information System. Open Source Geospatial Foundation Project. http://qgis.osgeo.org\"."
+"citation might be helpful: \"QGIS.org (YEAR). QGIS Geographic Information "
+"System. Open Source Geospatial Foundation Project. http://qgis.org\"."
+msgstr "Om QGIS aan te halen in uw werk, of voor een opdracht, zou dit algemene citaat nuttig kunnen zijn: \"QGIS.org (JAAR). QGIS Geographic Information System. Open Source Geospatial Foundation Project. https://qgis.org\"."
 
 #: ../../source/site/getinvolved/faq/index.rst:60
+msgid "I created a map with QGIS, do I have to mention QGIS?"
+msgstr "Ik maakte een kaart met QGIS, moet ik QGIS daarop vermelden?"
+
+#: ../../source/site/getinvolved/faq/index.rst:62
+msgid ""
+"There is no requirement to mention QGIS for maps produced with it. It is of "
+"course really welcome if would like to add a note saying that the map was "
+"produced with QGIS. \"Made with QGIS\" or \"Map created using the Free and "
+"Open Source QGIS\" are good examples of such a note."
+msgstr "Er is geen verplichting om QGIS te vermelden op kaarten die ermee gemaakt zijn. Het wordt natuurlijk wel op prijs gesteld als u een opmerking zou willen toevoegen die vermeldt dat de kaart werd gemaakt met QGIS. \"Gemaakt met QGIS\" of \"Kaart gemaakt met vrije en Open-bron QGIS\" zijn goede voorbeelden van een dergelijke opmerking."
+
+#: ../../source/site/getinvolved/faq/index.rst:67
+msgid "Do not say ©QGIS as QGIS does not hold copyrights on your work."
+msgstr "Vermeld niet ©QGIS, omdat QGIS geen auteursrechten heeft op uw werk."
+
+#: ../../source/site/getinvolved/faq/index.rst:70
 msgid "Can I open ECW files with QGIS?"
 msgstr "Kan ik ook ECW (Erdas) bestanden openen met QGIS?"
 
-#: ../../source/site/getinvolved/faq/index.rst:62
+#: ../../source/site/getinvolved/faq/index.rst:72
 msgid ""
 "Yes you can... BUT depending on your Operating System, it is more or less "
 "difficult."
 msgstr "Ja dat kan... MAAR de moeilijkheidsgraad is afhankelijk van uw besturingssysteem."
 
-#: ../../source/site/getinvolved/faq/index.rst:64
+#: ../../source/site/getinvolved/faq/index.rst:74
 msgid ""
 "If you are under Windows and are using the OSGeo4w installer, it is "
 "included."
 msgstr "Wanneer u op Windows zit en het installatiepakket van OSGeo4w gebruikt, dan is het daarin opgenomen."
 
-#: ../../source/site/getinvolved/faq/index.rst:66
+#: ../../source/site/getinvolved/faq/index.rst:76
 msgid ""
 "If you are using OS X, you can find the ECW plugin and install instructions "
 "at http://www.kyngchaos.com/software/frameworks"
 msgstr "Als u OS X gebruikt vindt u de plug-in ECW en de installatieinstructies op http://www.kyngchaos.com/software/frameworks"
 
-#: ../../source/site/getinvolved/faq/index.rst:69
+#: ../../source/site/getinvolved/faq/index.rst:79
 msgid ""
 "For other instructions, eg look here: http://www.faunalia.com/content"
 "/adding-ecw-support-quantum-gis"
 msgstr "Meer aanwijzingen kunt u hier vinden: http://www.faunalia.com/content/adding-ecw-support-quantum-gis"
 
-#: ../../source/site/getinvolved/faq/index.rst:72
+#: ../../source/site/getinvolved/faq/index.rst:82
 msgid "Development"
 msgstr "Ontwikkeling"
 
-#: ../../source/site/getinvolved/faq/index.rst:75
+#: ../../source/site/getinvolved/faq/index.rst:85
 msgid "Can I compile QGIS myself?"
 msgstr "Kan ik QGIS zelf compileren?"
 
-#: ../../source/site/getinvolved/faq/index.rst:77
+#: ../../source/site/getinvolved/faq/index.rst:87
 msgid ""
 "Yes, compiling QGIS from source is possible whatever OS you use (Windows, OS"
 " X, Linux). Please read `Building QGIS from source "
-"<http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
-msgstr "Ja, compileren van QGIS vanuit de bron is mogelijk, ongeacht welk OS u gebruikt (Windows, OS X, Linux). Lees dan `Building QGIS from source <http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
+"<https://github.com/qgis/QGIS/blob/master/INSTALL.md>`_"
+msgstr "Ja, compileren van QGIS vanuit de bron is mogelijk, ongeacht welk OS u gebruikt (Windows, OS X, Linux). Lees dan `Building QGIS from source <https://github.com/qgis/QGIS/blob/master/INSTALL.md>`_"
 
 #~ msgid ""
 #~ msgstr ""
@@ -211,4 +228,31 @@ msgstr "Ja, compileren van QGIS vanuit de bron is mogelijk, ongeacht welk OS u g
 #~ ".pixelkarte-farbe&layers=ch.swisstopo.hiks-"
 #~ "dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_"
 #~ " in Switzerland."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are going to ask QGIS related question via the mailing lists, please "
+#~ "provide enough information to help others easily understand what your "
+#~ "problem is. Without a clear and precise question, it is very hard to answer "
+#~ "for anybody or takes just too much time because the answer will be a "
+#~ "question to you etc etc. You may provide information such as:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In case of a broken function, you may give a look at `QGIS issue tracker "
+#~ "<https://issues.qgis.org/projects/qgis/issues>`_ before mailing to the list."
+#~ " More information at :ref:`QGIS-bugreporting`."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To cite QGIS in your piece of work, or for an assignment, this general "
+#~ "citation might be helpful: \"QGIS Development Team (YEAR). QGIS Geographic "
+#~ "Information System. Open Source Geospatial Foundation Project. "
+#~ "http://qgis.osgeo.org\"."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Yes, compiling QGIS from source is possible whatever OS you use (Windows, OS"
+#~ " X, Linux). Please read `Building QGIS from source "
+#~ "<http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
 #~ msgstr ""

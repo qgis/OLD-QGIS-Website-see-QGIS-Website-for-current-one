@@ -3,13 +3,14 @@
 # BelenMP <Beln1@hotmail.com>, 2014
 # YoViajo, 2015
 # YoViajo, 2016
+# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:58+0000\n"
-"Last-Translator: YoViajo\n"
+"PO-Revision-Date: 2019-12-20 12:04+0000\n"
+"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,7 +27,7 @@ msgid ""
 "in historical literature sources and specimens vouchered from museums. From "
 "the database, a series of maps can be produced representing both locality "
 "records and \"county records\" for each species."
-msgstr ""
+msgstr "El Proyecto del Atlas Herpetológico de Missouri (MOHAP) se inició en 1997 como resultado del deseo de obtener y actualizar fácilmente mapas de distribución detallados para los anfibios y reptiles de Missouri (Estados Unidos de América). Se estableció una base de datos para almacenar todas las localidades válidas, incluidos los registros publicados en fuentes de literatura histórica y especímenes validados de museos. A partir de la base de datos, se pueden producir una serie de mapas que representan tanto los registros locales como los \"registros de condado\" para cada especie."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:7
 msgid ""
@@ -38,7 +39,7 @@ msgid ""
 "Reptiles for 2011. <http://atlas.moherp.org/pubs/atlas11.pdf>).  Published "
 "maps are used by field biologists, land managers, and others to better "
 "understand species' distributions in Missouri."
-msgstr ""
+msgstr "MOHAP alberga un sitio web en http://atlas.moherp.org/ que describe el proyecto en detalle y muestra una variedad de mapas estáticos, todos elaborados en QGIS. Un atlas, publicado como PDF descargable, se publica periódicamente como una publicación gratuita con el espíritu de acceso abierto a la investigación científica (Daniel, RE y BS Edmond. 2012. Atlas de Missouri Anfibios y Reptiles para 2011. <http: // atlas .moherp.org / pubs / atlas11.pdf>). Los biólogos de campo, los administradores de tierras y otras personas utilizan los mapas publicados para comprender mejor la distribución de las especies en Missouri."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:9
 msgid ""
@@ -47,11 +48,11 @@ msgid ""
 "historical literature sources; 5,118 documented county records; 6,884 unique"
 " localities; and 12,866 unique species / locality combinations. The state's "
 "herpetofauna consists of 113 species."
-msgstr ""
+msgstr "A partir de febrero de 2013, la base de datos MOHAP contenía 31,495 entradas que representan los especímenes alojados en 34 colecciones de museos y citados en 32 fuentes de literatura histórica; 5,118 registros documentados del condado; 6.884 localidades únicas; y 12,866 combinaciones únicas de especie / localidad. La herpetofauna del estado consta de 113 especies."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:12
 msgid "Generate and Export Static Maps"
-msgstr "Genera y Exporta Mapas Estáticos"
+msgstr "Generar y Exportar Mapas Estáticos"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:14
 msgid ""
@@ -60,7 +61,7 @@ msgid ""
 "and ultimately destined for either the web or a printed atlas, they are "
 "generated automatically for each species using a custom QGIS Python plugin "
 "(Figures 1,2)."
-msgstr ""
+msgstr "El proceso de creación de mapas con QGIS comienza con los datos almacenados en varias tablas de PostgreSQL, habilitados espacialmente con PostGIS. Debido a que los mapas son estáticos y, en última instancia, están destinados a la web o a un atlas impreso, se generan automáticamente para cada especie utilizando un complemento personalizado en Python de QGIS(Figuras 1,2)."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:21
 msgid ""
@@ -103,7 +104,7 @@ msgid ""
 "Senior Systems Analyst in Computer Services at Missouri State University.  "
 "He holds a BS in Wildlife Biology from the University of Missouri and has "
 "spent his career in the intergrade zone between biology and technology."
-msgstr ""
+msgstr "Brian Edmond contribuyó con este artículo en febrero de 2013. Es analista de sistemas sénior en servicios informáticos en la Universidad Estatal de Missouri. Tiene una licenciatura en Biología de Vida Silvestre de la Universidad de Missouri y ha pasado su carrera en la zona intergrada entre biología y tecnología."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:3
 msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
@@ -117,7 +118,7 @@ msgid ""
 "source software. QGIS, along with PHP, PostgreSQL, PostGIS, Python, and "
 "ReportLab, forms the open source linchpin to MOHAP, effectively allowing the"
 " project and all data to exist free of proprietary software entanglements."
-msgstr ""
+msgstr "Al comienzo del proyecto MOHAP, se utilizaron varias herramientas comerciales y propias para almacenar, procesar datos y producir mapas para su publicación. A partir de 2007, nos propusimos trasladar todos los aspectos del proyecto al software de código abierto. QGIS, junto con PHP, PostgreSQL, PostGIS, Python y ReportLab, forma el eje de código abierto para MOHAP, lo que permite que el proyecto y todos los datos coexistan sin enredos de software privativo."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:44
 msgid ""
@@ -127,14 +128,14 @@ msgid ""
 "cookbook to create exactly what we needed for the automation. The community "
 "support is also very good and includes a huge array of shared plugins built "
 "and ready to use."
-msgstr ""
+msgstr "QGIS contiene soporte nativo para PostGIS y una arquitectura de complementos de Python, que fueron esenciales para crear la generación y exportación de mapas automatizados. Se utilizó la extensa documentación de la API junto con el libro de cocina del desarrollador de complementos para crear exactamente lo que necesitábamos para la automatización. El soporte de la comunidad también es muy bueno e incluye una gran variedad de complementos compartidos creados y listos para usar."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:46
 msgid ""
 "Although we use QGIS in a small and specific way, its capabilities and "
 "extensibility using Python is more than sufficient to tackle larger and more"
 " complex projects."
-msgstr ""
+msgstr "Aunque usamos QGIS de un modo breve y específico, sus capacidades y extensibilidad con Python son más que suficientes para abordar proyectos más grandes y complejos."
 
 #~ msgid "QGIS Maps Historic Herpetofaunal Records"
 #~ msgstr ""

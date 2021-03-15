@@ -3,6 +3,8 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
+# Aline Furlanetto Viero <afviero@gmail.com>, 2020
+# Aline Furlanetto Viero <afviero@gmail.com>, 2020
 # Mariana Muniz Blank <mariblank_1@hotmail.com>, 2016-2017
 # Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>, 2016
 # William Bellinazo Roca <williambr_1331@hotmail.com>, 2016
@@ -11,8 +13,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 20:36+0100\n"
-"PO-Revision-Date: 2020-03-16 09:28+0000\n"
-"Last-Translator: Liliana Osako <lilianaso.sig@gmail.com>\n"
+"PO-Revision-Date: 2020-07-13 14:15+0000\n"
+"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,7 +44,7 @@ msgstr "Instale git para o GNU / Linux"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:16
 msgid "Debian based distro users can do:"
-msgstr ""
+msgstr "Usuários de distros baseadas em Debian podem fazer:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:24
 msgid "Install git for Windows"
@@ -52,7 +54,7 @@ msgstr "Instalando git no Windows"
 msgid ""
 "Windows users can obtain `msys git <http://code.google.com/p/msysgit/>`_ or "
 "use git distributed with `cygwin <http://cygwin.com>`_."
-msgstr ""
+msgstr "Usuários Windows podem obter `msys git <http://code.google.com/p/msysgit/>`_ ou usar git distribuído com `cygwin <http://cygwin.com>`_."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:30
 msgid "Install git for OSX"
@@ -63,7 +65,7 @@ msgid ""
 "The `git project <http://git-scm.com/>`_ has a downloadable build of git. "
 "Make sure to get the package matching your processor (x86_64 most likely, "
 "only the first Intel Macs need the i386 package)."
-msgstr ""
+msgstr "O projeto `git <http://git-scm.com/>`_ possui uma versão para download do git. Certifique-se de que o pacote corresponde ao seu processador (provavelmente x86_64, apenas os primeiros Macs Intel precisam do pacote i386)."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:35
 msgid "Once downloaded open the disk image and run the installer."
@@ -132,7 +134,7 @@ msgstr "Fontes da documentação do QGIS"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:100
 msgid "If you're interested in checking out QGIS documentation sources:"
-msgstr ""
+msgstr "Se você estiver interessado em verificar as fontes de documentação QGIS:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:106
 msgid ""
@@ -146,7 +148,7 @@ msgstr "Fontes do site do QGIS"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:112
 msgid "If you're interested in checking out QGIS website sources:"
-msgstr ""
+msgstr "Se você estiver interessado em verificar as fontes do website do QGIS:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:118
 msgid ""

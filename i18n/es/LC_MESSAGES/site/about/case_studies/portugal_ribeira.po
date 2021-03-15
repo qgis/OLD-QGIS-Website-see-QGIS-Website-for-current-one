@@ -1,17 +1,18 @@
 # 
 # Translators:
-# dario hereñu <magallania@gmail.com>, 2016
+# Darío Hereñú, 2016
 # David Paez <davpaez@gmail.com>, 2015
 # Diana Galindo <drgalindog@linuxmail.org>, 2015
 # YoViajo, 2015-2016
 # YoViajo, 2016
+# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:58+0000\n"
-"Last-Translator: dario hereñu <magallania@gmail.com>\n"
+"PO-Revision-Date: 2019-12-19 17:06+0000\n"
+"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -49,14 +50,14 @@ msgid ""
 "verdant Minho, Ribeira de Pena is one of the municipalities that can work "
 "like an ecological corridor between areas with higher wolf concentration in "
 "the north with lower concentration in the south."
-msgstr ""
+msgstr "Ribeira de Pena es un municipio en el distrito de Villa Real en el norte de Portugal. Es un municipio rural, caracterizado por la agricultura, el pastoreo de ganado, bosques, montañas, valles y fauna diversa, junto con la baja densidad humana proporciona refugio y comida para los lobos. Ubicada en una zona de transición entre el duro y montañoso Trás-os-Montes y el verde Minho, Ribeira de Peña es uno de los municipios que puede funcionar como un corredor ecológico entre áreas con mayor concentración de lobos en el norte con otro con menor concentración en el sur."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:16
 msgid ""
 "I started using GIS software during my biology course, and more often during"
 " my master thesis. At that time I used mainly proprietary software. After I "
 "finished my master degree, I lost access to the proprietary software."
-msgstr "Comencé usando software SIG durante mi curso de biología, y más a menudo durante mi tesis de maestría. En aquel tiempo usaba principalmente software propietario. Después de terminar mi grado de maestría, perdí acceso al software propietario."
+msgstr "Comencé usando software SIG durante mi curso de biología, y más a menudo durante mi tesis de maestría. En aquel tiempo usaba principalmente software privativo. Después de terminar mi grado de maestría, perdí acceso al software privativo."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:18
 msgid ""
@@ -69,7 +70,7 @@ msgid ""
 "already knew. I quickly realized how mistaken I was, and got really "
 "enthusiastic with the analytical capabilities QGIS provided, specially with "
 "GRASS integration."
-msgstr ""
+msgstr "Mientras tanto, entré en el nuevo mundo de Linux. Después de eso, me contactaron para ayudar a algunos investigadores a modelar corredores ecológicos para lobos en Ribeira de Pena, usando SIG, ya que nunca trabajaron con este tipo de software. Como ya estaba usando Linux en lugar de Windows, mi primer problema fue qué software usar. Luego escuché acerca de QGIS y decidí probarlo, aunque parecía muy simplista e incompleto, en comparación con lo que ya sabía. Rápidamente me di cuenta de lo equivocado que estaba y me entusiasmé mucho con las capacidades analíticas que QGIS proporcionaba, especialmente con la integración de GRASS."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:39
 msgid ""
@@ -90,7 +91,7 @@ msgid ""
 "source software, usable in every computer or notebook without licenses, "
 "constant upgrades and the ultimate advantage to contribute to it's "
 "improvement and/or tip the developers about some essential function."
-msgstr ""
+msgstr "Tanto QGIS como el complemento GRASS son muy intuitivos con una interfaz fácil de usar, con todas las funciones esenciales para realizar la mayoría de los análisis. Por lo que pude ver, QGIS y GRASS funcionan igual de bien que los programas patentados con los que estaba más familiarizado desde la universidad, con la gran ventaja del software gratuito de código abierto, que se puede usar en todas las computadoras o computadoras portátiles sin licencias, actualizaciones constantes y la última ventaja para contribuir a su mejora y/o informar a los desarrolladores sobre alguna función esencial."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:46
 msgid ""
@@ -98,7 +99,7 @@ msgid ""
 "although there can be some missing issues, easily resolved in the future "
 "with the developers, I don't regret my decision and advise everyone to use "
 "them."
-msgstr "El cambio a Linux y luego a QGIS y GRASS fue una de mis mejores decisiones, y aunque puedan haber algunos problemas faltantes, fácilmente solucionables en el futuro con los desarrolladores, no me arrepiento de mi decisión y recomiendo a todos de usarlo."
+msgstr "El cambio a Linux y luego a QGIS y GRASS fue una de mis mejores decisiones, y aunque puedan haber algunos asuntos faltantes, fácilmente solucionables en el futuro con los desarrolladores, no me arrepiento de mi decisión y recomiendo a todos a usarlo."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:49
 msgid "Author"
@@ -109,7 +110,7 @@ msgid ""
 "This article was contributed in July 2012 by Monica Almeida. She is "
 "conservation biologist working in an non-governmental organization in the "
 "preservation of wolf in Portugal."
-msgstr "Este artículo fue contribuido en Julio 2012 por Monica Almeida. Ella es bióloga de la conservación y trabaja en una organización no gubernamental para la preservación del lobo en Portugal."
+msgstr "Este artículo fue aportado en Julio 2012 por Monica Almeida. Ella es bióloga de la conservación y trabaja en una organización no gubernamental para la preservación del lobo en Portugal."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:20
 msgid ""
@@ -117,7 +118,7 @@ msgid ""
 "plugin. We used several geographic information along with presence data of "
 "the species to model the ecological corridors. Here are some of the "
 "functions of both QGIS and GRASS used in this case, just to name a few:"
-msgstr ""
+msgstr "Para modelar los corredores ecológicos, utilizamos QGIS junto con el complemento GRASS. Utilizamos varios datos geográficos junto con datos de presencia de la especie para modelar los corredores ecológicos. Estas son algunas de las funciones de QGIS y GRASS utilizadas en este caso, solo por nombrar algunas:"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:23
 msgid "plugin Interpolation in QGIS: to create a Digital Elevation Model"
@@ -150,7 +151,7 @@ msgid ""
 "r.cost.coord in GRASS: creates a raster map showing the cumulative cost of "
 "moving between different geographic locations on an input raster map whose "
 "cell category values represent cost"
-msgstr ""
+msgstr "r.cost.coord en GRASS: crea un mapa ráster que muestra el costo acumulado de moverse entre diferentes ubicaciones geográficas en un mapa ráster de entrada cuyos valores de categoría de celda representan el costo."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:30
 msgid ""
@@ -170,7 +171,7 @@ msgid ""
 "settlements, like small villages, cities and roads. These areas must be "
 "considered critical for wolf conservation, and applied measures to reduce "
 "human impact in this species."
-msgstr ""
+msgstr "Con este trabajo obtuvimos un mapa con los posibles corredores ecológicos para el lobo en el municipio de Ribeira de Pena. Estas son áreas a considerar por los técnicos del ayuntamiento cuando planifiquen medidas de conservación para la especie. Estos corredores son de extrema importancia porque permiten conectar las frágiles manadas de lobos en Vila Real, en el sur, con las del norte, que continúan con las de Peneda-Gerês y España, mucho más estables. Son de particular importancia aquellos corredores que cruzan asentamientos humanos, como pequeños pueblos, ciudades y carreteras. Estas áreas deben considerarse críticas para la conservación del lobo, y aplicar medidas para reducir el impacto humano en esta especie."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:56
 msgid "Monica Almeida"

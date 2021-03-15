@@ -1,13 +1,13 @@
 # 
 # Translators:
-# Tomas Straupis, 2015-2018
+# Tomas Straupis, 2015-2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 16:17+0200\n"
-"PO-Revision-Date: 2018-05-21 07:17+0000\n"
-"Last-Translator: Tomas Straupis\n"
+"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"PO-Revision-Date: 2020-10-26 10:59+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,120 +16,791 @@ msgstr ""
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
+#: ../../themes/qgis-theme/forusers_index.html:7
+msgid "Get Started Using QGIS"
+msgstr "Pradėkite naudoti QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:9
+msgid "Step 1: Download QGIS"
+msgstr "1 žingsnis: atsisiųskite QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:11
+msgid "Step 2: Check our documentation"
+msgstr "2 žingsnis: peržiūrėkite mūsų dokumentaciją"
+
+#: ../../themes/qgis-theme/forusers_index.html:13
+msgid "Step 3: Connect with the QGIS community"
+msgstr "3 žingsnis: prisijunkite prie QGIS bendruomenės"
+
+#: ../../themes/qgis-theme/forusers_index.html:27
+#: ../../themes/qgis-theme/page.html:139
+msgid "For Users"
+msgstr "Naudotojams"
+
+#: ../../themes/qgis-theme/forusers_index.html:32
+msgid "Download"
+msgstr "Atsisiųsti"
+
+#: ../../themes/qgis-theme/forusers_index.html:35
+#: ../../themes/qgis-theme/forusers_index.html:88
+#: ../../themes/qgis-theme/page.html:141
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: ../../themes/qgis-theme/forusers_index.html:38
+msgid "QGIS Plugins"
+msgstr "QGIS priedai"
+
+#: ../../themes/qgis-theme/forusers_index.html:41
+#: ../../themes/qgis-theme/forusers_index.html:128
+msgid "Getting Help"
+msgstr "Kaip gauti pagalbą"
+
+#: ../../themes/qgis-theme/forusers_index.html:44
+msgid "In the Press"
+msgstr "Spaudoje"
+
+#: ../../themes/qgis-theme/about_index.html:38
+#: ../../themes/qgis-theme/about_index.html:133
+#: ../../themes/qgis-theme/forusers_index.html:47
+#: ../../themes/qgis-theme/forusers_index.html:139
+msgid "Commercial Support"
+msgstr "Komercinis palaikymas"
+
+#: ../../themes/qgis-theme/forusers_index.html:60
+msgid "Download QGIS"
+msgstr "Atsisiųsti QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:62
+msgid "for your operating system."
+msgstr "jūsų operacinei sistemai."
+
+#: ../../themes/qgis-theme/forusers_index.html:65
+msgid "Get the installer"
+msgstr "Gaukite diegiklį"
+
+#: ../../themes/qgis-theme/forusers_index.html:68
+msgid "Check out our roadmap for future versions: "
+msgstr "Peržiūrėkite mūsų ateities versijų planus:"
+
+#: ../../themes/qgis-theme/forusers_index.html:68
+#: ../../themes/qgis-theme/getinvolved_index.html:156
+msgid "QGIS roadmap"
+msgstr "QGIS planas"
+
+#: ../../themes/qgis-theme/forusers_index.html:72
+msgid "See the latest features in the visual changelogs"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:91
+msgid "Our main documentation is the"
+msgstr "Mūsų pagrindinė dokumentacija yra"
+
+#: ../../themes/qgis-theme/forusers_index.html:92
+msgid "QGIS user guide"
+msgstr "QGIS naudotojo vadovas"
+
+#: ../../themes/qgis-theme/forusers_index.html:94
+msgid "We also provide step by step tutorials in the"
+msgstr "Mes taip pat teikiame pažingsnines pamokas"
+
+#: ../../themes/qgis-theme/forusers_index.html:95
+msgid "Training manual"
+msgstr "Mokymo medžiagoje"
+
+#: ../../themes/qgis-theme/forusers_index.html:97
+msgid "External parties also provide"
+msgstr "Trečiosios šalys taip pat teikia"
+
+#: ../../themes/qgis-theme/forusers_index.html:98
+msgid "QGIS tutorials"
+msgstr "QGIS pamokas"
+
+#: ../../themes/qgis-theme/forusers_index.html:104
+msgid "QGIS Publications"
+msgstr "QGIS publikacijas"
+
+#: ../../themes/qgis-theme/forusers_index.html:106
+msgid "Read what the QGIS community is doing around the world"
+msgstr "Ką QGIS bendruomenė veikia visame pasaulyje skaitykite"
+
+#: ../../themes/qgis-theme/forusers_index.html:108
+msgid "in our blogs"
+msgstr "mūsų tinklaraščiuose"
+
+#: ../../themes/qgis-theme/forusers_index.html:110
+msgid "For more in-depth reading, get some"
+msgstr "Detalesniam skaitymui gaukite"
+
+#: ../../themes/qgis-theme/forusers_index.html:112
+msgid "books on QGIS"
+msgstr "knygų apie QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:129
+msgid "You can get in touch with fellow users and developers via"
+msgstr "Susisiekti su kolegomis naudotojais ir vystytojais galite per"
+
+#: ../../themes/qgis-theme/forusers_index.html:131
+msgid "our community support channels"
+msgstr "mūsų bendruomenės palaikymo kanalus"
+
+#: ../../themes/qgis-theme/forusers_index.html:140
+msgid ""
+"Do you plan to use QGIS in your company or organization, but worry about whether there is\n"
+"                    commercial support available? Here is an alphabetical"
+msgstr "Planuojate naudoti QGIS jūsų kompanijoje ar organizacijoje, bet rūpinatės, ar galite rasti komercinį palaikymą? Čia yra"
+
+#: ../../themes/qgis-theme/forusers_index.html:144
+msgid "list of support contractors"
+msgstr "palaikymo tiekėjų abėcėlinis sąrašas"
+
+#: ../../themes/qgis-theme/forusers_index.html:160
+msgid "Get Plugins"
+msgstr "Gauti priedus"
+
+#: ../../themes/qgis-theme/forusers_index.html:161
+msgid ""
+"QGIS plugins allow you to add many new features and functions. Get them from"
+msgstr "QGIS priedai leidžia jums pridėti daug naujo funkcionalumo ir funkcijų. Gaukite juos iš"
+
+#: ../../themes/qgis-theme/forusers_index.html:164
+msgid "the plugin repository"
+msgstr "priedų saugyklos"
+
+#: ../../themes/qgis-theme/about_index.html:149
+#: ../../themes/qgis-theme/docs_index.html:163
+#: ../../themes/qgis-theme/forusers_index.html:177
+#: ../../themes/qgis-theme/getinvolved_donations.html:115
+#: ../../themes/qgis-theme/getinvolved_index.html:187
+msgid "Back to Top"
+msgstr "Atgal į viršų"
+
+#: ../../themes/qgis-theme/page.html:40
+msgid ""
+"If not stated otherwise, all content is licensed under <a "
+"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
+"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
+msgstr "Jei neparašyta kitaip, viso turinio licencija yra <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
+
+#: ../../themes/qgis-theme/page.html:44
+msgid ""
+"Select graphics from <a href=\"http://thenounproject.com\" "
+"target=\"_blank\">The Noun Project collection</a>"
+msgstr "Parinkite grafiką iš <a href=\"http://thenounproject.com\" target=\"_blank\">The Noun Project rinkinio</a>"
+
+#: ../../themes/qgis-theme/page.html:48
+msgid " - Last updated on "
+msgstr " - paskutinį kartą atnaujinta "
+
+#: ../../themes/qgis-theme/page.html:52
+msgid "Untranslated page? Or you spot a translation error:"
+msgstr "Neišverstas puslapis? Arba radote vertimo klaidą:"
+
+#: ../../themes/qgis-theme/page.html:53 ../../themes/qgis-theme/page.html:56
+msgid "fix me"
+msgstr "pataisykite mane"
+
+#: ../../themes/qgis-theme/page.html:55
+msgid "Textual error, missing text or you know better:"
+msgstr "Tekstinė klaida, trūkstamas tekstas arba jūs žinote geriau:"
+
+#: ../../themes/qgis-theme/page.html:138
+msgid "Discover QGIS"
+msgstr "Atraskite QGIS"
+
+#: ../../themes/qgis-theme/index.html:137
+#: ../../themes/qgis-theme/page.html:140
+msgid "Get Involved"
+msgstr "Įsitraukite"
+
 #: ../../themes/qgis-theme/search.html:11
 #: ../../themes/qgis-theme/search.html:20
 #: ../../themes/qgis-theme/searchbox.html:3
 msgid "Search"
 msgstr "Ieškoti"
 
-#: ../../themes/qgis-theme/search.html:24
+#: ../../themes/qgis-theme/forusers_download.html:3
+msgid "Download QGIS for your platform"
+msgstr "Atsisiųskite QGIS jūsų platformai"
+
+#: ../../themes/qgis-theme/forusers_download.html:4
+msgid "Binary packages (installers) are available from this page."
+msgstr "Dvejetainius paketus (diegiklius) rasite šiame puslapyje."
+
+#: ../../themes/qgis-theme/forusers_download.html:5
+#, python-format
+msgid "The current version is QGIS %s '%s' and was released on %s."
+msgstr "Dabartinė QGIS versija yra %s '%s' ir ji buvo išleista %s."
+
+#: ../../themes/qgis-theme/forusers_download.html:6
+#, python-format
+msgid "The long-term repositories currently offer QGIS %s '%s'."
+msgstr "Ilgalaikės QGIS laidos šiuo metu yra %s „%s“."
+
+#: ../../themes/qgis-theme/forusers_download.html:7
+msgid "QGIS is available on Windows, macOS, Linux and Android."
+msgstr "QGIS veikia Windows, macOS, Linux ir Android."
+
+#: ../../themes/qgis-theme/forusers_download.html:10
+#, python-format
 msgid ""
-"Please activate JavaScript to enable the search\n"
-"    functionality."
-msgstr "Prašome įjungti JavaScript, kad veiktų\npaieškos funkcionalumas."
+"We are currently in feature freeze preceeding the release of QGIS %s. "
+"<b>Please consider testing the prereleases</b>. See "
+msgstr "Šiuo metu esame užšaldę savybes prieš QGIS %s laidą. <b>Apsvarstykite išankstinių laidų testavimą</b>. Žiūrėkite "
 
-#: ../../themes/qgis-theme/search.html:29
+#: ../../themes/qgis-theme/forusers_download.html:11
+msgid "road map"
+msgstr "planas"
+
+#: ../../themes/qgis-theme/forusers_download.html:19
+msgid "Installation Downloads"
+msgstr "Diegiklių atsisiuntimai"
+
+#: ../../themes/qgis-theme/forusers_download.html:20
+msgid "All Releases"
+msgstr "Visos laidos"
+
+#: ../../themes/qgis-theme/forusers_download.html:21
+msgid "Sources"
+msgstr "Išeities kodai"
+
+#: ../../themes/qgis-theme/forusers_download.html:34
+msgid "Download for Windows"
+msgstr "Atsisiųsti skirtą Windows"
+
+#: ../../themes/qgis-theme/forusers_download.html:40
+msgid "QGIS in OSGeo4W:"
+msgstr "QGIS OSGeo4W:"
+
+#: ../../themes/qgis-theme/forusers_download.html:45
+msgid "OSGeo4W Network Installer (64 bit)"
+msgstr "OSGeo4W tinklo diegiklis (64 bitų)"
+
+#: ../../themes/qgis-theme/forusers_download.html:52
+msgid "OSGeo4W Network Installer (32 bit)"
+msgstr "OSGeo4W tinklo diegiklis (32 bitų)"
+
+#: ../../themes/qgis-theme/forusers_download.html:55
+msgid "In the installer choose "
+msgstr "Diegiklyje parinkite "
+
+#: ../../themes/qgis-theme/forusers_download.html:55
+msgid "Desktop Express Install"
+msgstr "Darbastalio greitas diegimas"
+
+#: ../../themes/qgis-theme/forusers_download.html:55
+msgid "and select"
+msgstr "ir parinkite"
+
+#: ../../themes/qgis-theme/forusers_download.html:55
+#: ../../themes/qgis-theme/index.html:9
+msgid "QGIS"
+msgstr "QGIS"
+
+#: ../../themes/qgis-theme/forusers_download.html:55
+msgid "to install the <em>latest release</em>."
+msgstr "kad įdiegtumėte <em>paskutinę versiją</em>."
+
+#: ../../themes/qgis-theme/forusers_download.html:56
 msgid ""
-"From here you can search these documents. Enter your search\n"
-"    words into the box below and click \"search\". Note that the search\n"
-"    function will automatically search for all of the words. Pages\n"
-"    containing fewer words won't appear in the result list."
-msgstr "Iš čia galite ieškoti šiuose dokumentuose. Įveskite paieškos\nžodžius žemiau esančiame lauke ir spauskite „ieškoti“. Atkreipkite\ndėmesį, kad paieška automatiškai ieškos visų žodžių. Puslapiai,\nkuriuose yra mažiau žodžių nepateks į rezultatus."
+"To get the <em>long term release</em> (that is not also the latest release) "
+"choose "
+msgstr "Norėdami gauti <em>ilgalaikę laidą</em> (kuri nėra paskutinė laida) pasirinkite"
 
-#: ../../themes/qgis-theme/search.html:37
-msgid "search"
-msgstr "ieškoti"
+#: ../../themes/qgis-theme/forusers_download.html:56
+#: ../../themes/qgis-theme/forusers_download.html:57
+msgid "Advanced Install"
+msgstr "Pažangus diegimas"
 
-#: ../../themes/qgis-theme/search.html:42
-msgid "Search Results"
-msgstr "Paieškos rezultatai"
+#: ../../themes/qgis-theme/forusers_download.html:56
+#: ../../themes/qgis-theme/forusers_download.html:57
+msgid "and select "
+msgstr "ir parinkite"
 
-#: ../../themes/qgis-theme/search.html:44
-msgid "Your search did not match any results."
-msgstr "Jūsų paieška nieko nerado"
+#: ../../themes/qgis-theme/forusers_download.html:56
+msgid "qgis-ltr-full"
+msgstr "qgis-ltr-full"
 
-#: ../../themes/qgis-theme/localtoc.html:3
-msgid "Page"
-msgstr "Puslapis"
+#: ../../themes/qgis-theme/forusers_download.html:57
+msgid "To get the <em>bleeding-edge development build</em> choose "
+msgstr "Norėdami gauti <em>pačią paskutinę kuriamą versiją</em>, pasirinkite"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:8
-msgid "QGIS Donations"
-msgstr "QGIS parama"
+#: ../../themes/qgis-theme/forusers_download.html:57
+msgid "qgis-full-dev"
+msgstr ""
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:9
+#: ../../themes/qgis-theme/forusers_download.html:61
+msgid "Standalone installers from OSGeo4W packages"
+msgstr "Atskiri diegikliai iš OSGeo4W paketų"
+
+#: ../../themes/qgis-theme/forusers_download.html:62
+#: ../../themes/qgis-theme/forusers_download.html:136
+msgid "Latest release (richest on features):"
+msgstr "Paskutinė laida (daugiausia savybių):"
+
+#: ../../themes/qgis-theme/forusers_download.html:67
+#: ../../themes/qgis-theme/forusers_download.html:96
+#, python-format
+msgid "QGIS Standalone Installer Version %s (64 bit)"
+msgstr "QGIS %s versijos atskiras diegimas (64 bitų)"
+
+#: ../../themes/qgis-theme/forusers_download.html:81
+#: ../../themes/qgis-theme/forusers_download.html:110
+#, python-format
+msgid "QGIS Standalone Installer Version %s (32 bit)"
+msgstr "QGIS %s versijos atskiras diegimas (32 bitų)"
+
+#: ../../themes/qgis-theme/forusers_download.html:91
+msgid "Long term release repository (most stable):"
+msgstr "Ilgalaikė laida (stabiliausia):"
+
+#: ../../themes/qgis-theme/forusers_download.html:128
+msgid "Download for macOS"
+msgstr "Atsisiųsti skirtą macOS"
+
+#: ../../themes/qgis-theme/forusers_download.html:133
+msgid "Official All-in-one, signed installers"
+msgstr "Oficialūs diegikliai „viskas viename“"
+
+#: ../../themes/qgis-theme/forusers_download.html:134
+msgid "Mac Installer Packages for macOS High Sierra (10.13) and newer."
+msgstr "Mac diegimo paketai skirti macOS High Sierra (10.13) ir naujesniems."
+
+#: ../../themes/qgis-theme/forusers_download.html:135
 msgid ""
-"QGIS is developed by a team of dedicated volunteers, companies and "
-"organisations."
-msgstr "QGIS kuria pasišventusių savanorių, kompanijų ir organizacijų komanda."
+"QGIS is not yet notarized as required by macOS Catalina (10.15) security "
+"rules. On first launch on, use right click on the QGIS app icon and choose "
+"Open."
+msgstr ""
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:13
+#: ../../themes/qgis-theme/forusers_download.html:141
+#: ../../themes/qgis-theme/forusers_download.html:149
+#, python-format
+msgid "QGIS macOS Installer Version %s"
+msgstr "QGIS macOS diegiklio versija %s"
+
+#: ../../themes/qgis-theme/forusers_download.html:144
+msgid "Long term release (most stable):"
+msgstr "Ilgalaikė laida (stabiliausia):"
+
+#: ../../themes/qgis-theme/forusers_download.html:152
+msgid "Alternative build"
+msgstr "Kiti paketai"
+
+#: ../../themes/qgis-theme/forusers_download.html:154
+msgid "Mac Installer Packages for macOS El Capitan (10.11) and newer."
+msgstr "Mac diegimo paketai skirti macOS El Capitan (10.11) ir naujesnėms."
+
+#: ../../themes/qgis-theme/forusers_download.html:155
 msgid ""
-"Donations to QGIS are tax-deductible in several countries. Please refer to your local tax office for details.\n"
-"                    If you want to tax-deduct as a german company or organization, please donate through the "
-msgstr "Keliose šalyse mokesčiai nuo QGIS paramos neskaičiuojami. Prašome kreiptis į jūsų vietinę mokesčių inspekciją, kad gautumėte daugiau informacijos.\nJei norite mokesčių išimčių kaip vokiška kompanija ar organizacija, prašome paremti per"
+"Installation instructions are in the Read Me on the disk image. These "
+"packages use the "
+msgstr "Diegimo instrukcijos yra disko atvaizdo Read Me faile. Šie paketai naudoja"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:14
-msgid "German QGIS user group"
-msgstr "Vokietijos QGIS naudotojų grupę"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:14
+#: ../../themes/qgis-theme/forusers_download.html:155
 msgid ""
-". They can issue a payment confirmation as a tax-exempt german association."
-msgstr "Jie gali pateikti mokėjimo patvirtinimą, kaip vokiška asociacija su mokesčių išimtimis."
+"version 3.6, the \"macosx10.9\" build - other distributions are not "
+"supported. Install Python before installing QGIS."
+msgstr "3.6 „macosx10.9“ kūrimo versiją - kitos distribucijos nepalaikomos. Įdiekite Python prieš diegdami QGIS."
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:16
-#: ../../themes/qgis-theme/getinvolved_index.html:12
-msgid "You can get involved!"
-msgstr "Jūs galite prisidėti!"
+#: ../../themes/qgis-theme/forusers_download.html:156
+msgid "Additional GDAL format plugins and PROJ grids are available at "
+msgstr "Papildomus GDAL formatų ir PROJ tinklelių priedus rasite"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:28
-msgid "DONATE TO THE PROJECT"
-msgstr "PAREMKITE PROJEKTĄ"
+#: ../../themes/qgis-theme/forusers_download.html:161
+msgid "macOS Installers"
+msgstr "macOS diegikliai"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:33
-#: ../../themes/qgis-theme/getinvolved_donations.html:53
-msgid "Bank Transfer"
-msgstr "Banko pavedimas"
+#: ../../themes/qgis-theme/forusers_download.html:171
+msgid "Download for Linux"
+msgstr "Atsisiųsti skirtą Linux"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:36
-msgid "Credit card and Paypal"
-msgstr "Kreditinė kortelė ir Paypal"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:54
+#: ../../themes/qgis-theme/forusers_download.html:176
 msgid ""
-"Use the details below to make a donation via international money transfer:"
-msgstr "Naudokite žemiau pateiktą informaciją paramai tarptautiniu pinigų pervedimu:"
+"For many flavors of GNU/Linux binary packages (rpm and deb) or software "
+"repositories (to add to your installation manager) are available. Please "
+"select your choice of distro below:"
+msgstr "Daugumai GNU/Linux rūšių yra sukurti dvejetainiai paketai (rpm ir deb) arba yra programinės įrangos repozitorijos (kurias galima pridėti prie jūsų diegimo valdymo). Prašome žemiau pasirinkti savo distribuciją:"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:76
-msgid "Paypal"
-msgstr "Paypal"
+#: ../../themes/qgis-theme/forusers_download.html:178
+msgid "Debian/Ubuntu"
+msgstr "Debian/Ubuntu"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:77
+#: ../../themes/qgis-theme/forusers_download.html:179
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../../themes/qgis-theme/forusers_download.html:180
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: ../../themes/qgis-theme/forusers_download.html:181
+msgid "RHEL, CentOS, Scientific Linux, ..."
+msgstr "RHEL, CentOS, Scientific Linux, ..."
+
+#: ../../themes/qgis-theme/forusers_download.html:182
+msgid "Mandriva"
+msgstr "Mandriva"
+
+#: ../../themes/qgis-theme/forusers_download.html:183
+msgid "Slackware"
+msgstr "Slackware"
+
+#: ../../themes/qgis-theme/forusers_download.html:184
+msgid "ArchLinux"
+msgstr "ArchLinux"
+
+#: ../../themes/qgis-theme/forusers_download.html:185
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: ../../themes/qgis-theme/forusers_download.html:187
+msgid "Linux Installation Instructions"
+msgstr "Linux diegimo instrukcijos"
+
+#: ../../themes/qgis-theme/forusers_download.html:195
+msgid "Download for BSD"
+msgstr "Atsisiųsti skirtą BSD"
+
+#: ../../themes/qgis-theme/forusers_download.html:200
+msgid "BSD Installation Instructions"
+msgstr "BSD diegimo instrukcijos"
+
+#: ../../themes/qgis-theme/forusers_download.html:208
+msgid "Apps for mobile and tablet"
+msgstr "Mobilios aplikacijos"
+
+#: ../../themes/qgis-theme/forusers_download.html:213
 msgid ""
-"You can use Paypal to donate using your own credit card. \n"
-"                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
-"                    or sign-up for one if you are paying by credit card."
-msgstr "Norėdami paremti naudodami savo kreditinę kortelę galite naudoti Paypal.\nMokėjimą apdoroja PayPal, bet jums nebūtina turėti ar susikurti\nPayPal paskyrą, jei mokate kreditine kortele."
+"The QGIS experience does not stop on the desktop. Various touch optimized "
+"apps allow you to take QGIS into the field"
+msgstr ""
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:80
-msgid "You can also use your own Paypal account to donate."
-msgstr "Taipogi galite naudoti savo Paypal paskyrą paramai."
+#: ../../themes/qgis-theme/forusers_download.html:214
+msgid "Third-party touch optimized apps"
+msgstr ""
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:81
-msgid "List of QGIS Support Channels"
-msgstr "QGIS palaikymo kanalų sąrašas"
+#: ../../themes/qgis-theme/forusers_download.html:215
+msgid "QField for QGIS (formerly QGIS for Android)"
+msgstr ""
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:88
-msgid "Donate via PayPal.com"
-msgstr "Paremkite per PayPal.com"
+#: ../../themes/qgis-theme/forusers_download.html:221
+msgid "Input (available for Android, iOS and Windows devices)"
+msgstr ""
 
-#: ../../themes/qgis-theme/about_index.html:149
+#: ../../themes/qgis-theme/forusers_download.html:232
+msgid "QGIS for Android"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:233
+msgid ""
+"An old and deprecated not touch optimised release of QGIS for Android can be"
+" found in"
+msgstr "Pasenusią ir nepritaikytą lietimui QGIS Android laidą rasite Play Store"
+
+#: ../../themes/qgis-theme/forusers_download.html:233
+#: ../../themes/qgis-theme/forusers_download.html:240
+#: ../../themes/qgis-theme/forusers_download.html:242
+msgid "All downloads"
+msgstr "Visi atsisiuntimai"
+
+#: ../../themes/qgis-theme/forusers_download.html:242
+msgid ""
+"More specific instructions about downloading QGIS stable vs QGIS development"
+" can be found in"
+msgstr "Detalesnę informaciją apie tai, kaip atsisiųsti stabilią QGIS versiją lyginant su QGIS vystymo versija rasite"
+
+#: ../../themes/qgis-theme/forusers_download.html:245
+msgid "Datasets"
+msgstr "Duomenų rinkiniai"
+
+#: ../../themes/qgis-theme/forusers_download.html:246
+msgid "For testing and learning purposes, a "
+msgstr "Bandymo ir mokymo tikslams,"
+
+#: ../../themes/qgis-theme/forusers_download.html:246
+msgid "sample dataset is available"
+msgstr "naudokite pavyzdinį duomenų rinkinį"
+
+#: ../../themes/qgis-theme/forusers_download.html:246
+msgid ""
+"which contains collections of data from different sources and in different "
+"formats."
+msgstr "kuriame rasite skirtingų šaltinių ir skirtingų formatų duomenų rinkinių."
+
+#: ../../themes/qgis-theme/forusers_download.html:252
+msgid "Previous releases of QGIS are still available"
+msgstr "Ankstesnes QGIS vis dar rasite"
+
+#: ../../themes/qgis-theme/forusers_download.html:252
+#: ../../themes/qgis-theme/forusers_download.html:253
+#: ../../themes/qgis-theme/forusers_download.html:254
+#: ../../themes/qgis-theme/forusers_download.html:256
+#: ../../themes/qgis-theme/forusers_download.html:257
+#: ../../themes/qgis-theme/forusers_download.html:267
+#: ../../themes/qgis-theme/forusers_download.html:268
+#: ../../themes/qgis-theme/forusers_download.html:269
+msgid "here"
+msgstr "čia"
+
+#: ../../themes/qgis-theme/forusers_download.html:252
+msgid " - including older releases for OS X "
+msgstr "- įskaitant senesnes OS X laidas"
+
+#: ../../themes/qgis-theme/forusers_download.html:254
+msgid "More older releases are available"
+msgstr "Daugiau senų laidų rasite"
+
+#: ../../themes/qgis-theme/forusers_download.html:255
+#: ../../themes/qgis-theme/forusers_download.html:265
+#: ../../themes/qgis-theme/getinvolved_index.html:16
+#: ../../themes/qgis-theme/getinvolved_index.html:90
+msgid "and"
+msgstr "ir"
+
+#: ../../themes/qgis-theme/forusers_download.html:256
+msgid "for OS X "
+msgstr "skirtų OS X"
+
+#: ../../themes/qgis-theme/forusers_download.html:257
+#: ../../themes/qgis-theme/forusers_download.html:269
+msgid "Plugins for QGIS are also available "
+msgstr "QGIS priedai taipogi prieinami"
+
+#: ../../themes/qgis-theme/forusers_download.html:262
+msgid "QGIS is open source software available under the terms of the"
+msgstr "QGIS yra atviro kodo programinė įranga, kuri naudojama pagal"
+
+#: ../../themes/qgis-theme/forusers_download.html:262
+msgid "GNU General Public License"
+msgstr "GNU bendrą viešą licenciją"
+
+#: ../../themes/qgis-theme/forusers_download.html:262
+msgid ""
+"meaning that its source code can be downloaded through tarballs or the git "
+"repository."
+msgstr "tai reiškia, kad išeities kodą galima atsisiųsti iš archyvų arba iš git repozitorijos."
+
+#: ../../themes/qgis-theme/forusers_download.html:263
+msgid "QGIS Source Code is available "
+msgstr "QGIS išeities kodą rasite"
+
+#: ../../themes/qgis-theme/forusers_download.html:264
+msgid "here (latest release)"
+msgstr "čia (paskutinė laida)"
+
+#: ../../themes/qgis-theme/forusers_download.html:266
+msgid "here (long term release)"
+msgstr "čia (ilgalaikė laida)"
+
+#: ../../themes/qgis-theme/forusers_download.html:267
+msgid ""
+"Refer to the INSTALL guide on how to compile QGIS from source for the "
+"different platforms:"
+msgstr "Diegimo vadove rasite informaciją, kaip sukompiliuoti QGIS iš išeities kodo skirtingoms platformoms:"
+
+#: ../../themes/qgis-theme/forusers_download.html:268
+msgid ""
+"Note that you can also install the development version (nightly) via an "
+"installer from the normal downloads for your platform:"
+msgstr "Atkreipkite dėmesį, kad taipogi galite įdiegti vystymo versiją (kasnaktinę) naudodami diegiklį iš įprastų savo platformos atsisiuntimų:"
+
+#: ../../themes/qgis-theme/docs_index.html:7
+msgid "QGIS Documentation"
+msgstr "QGIS Dokumentacija"
+
+#: ../../themes/qgis-theme/docs_index.html:8
+msgid ""
+"QGIS has a lot of documentation. All documentation is in English but some "
+"documents such as the user guide are also available in other languages."
+msgstr "QGIS turi daug dokumentacijos. Visa dokumentacija yra angliška, bet kai kurie dokumentai, tokie kaip naudotojo vadovas, yra išversti ir į kitas kalbas."
+
+#: ../../themes/qgis-theme/docs_index.html:9
+msgid ""
+"You will find documentation for every QGIS long term release on the "
+"respective documentation website."
+msgstr "Kiekvienos ilgalaikės QGIS laidos dokumentaciją rasite dokumentacijos svetainėje."
+
+#: ../../themes/qgis-theme/docs_index.html:10
+msgid "Get involved"
+msgstr "Įsitraukite"
+
+#: ../../themes/qgis-theme/docs_index.html:10
+msgid " and help us write a better documentation."
+msgstr "ir padėkite mums rašyti geresnę dokumentaciją."
+
+#: ../../themes/qgis-theme/docs_index.html:27
+msgid "DOCUMENTATION"
+msgstr "DOKUMENTACIJA"
+
+#: ../../themes/qgis-theme/docs_index.html:32
+#: ../../themes/qgis-theme/docs_index.html:55
+msgid "QGIS 3.10"
+msgstr "QGIS 3.10"
+
+#: ../../themes/qgis-theme/docs_index.html:35
+msgid "QGIS testing (>3.10)"
+msgstr "QGIS testavimo (>3.10)"
+
+#: ../../themes/qgis-theme/docs_index.html:38
+#: ../../themes/qgis-theme/docs_index.html:110
+msgid "QGIS 3.4"
+msgstr "QGIS 3.4"
+
+#: ../../themes/qgis-theme/docs_index.html:41
+msgid "Documentation for older versions"
+msgstr "Senesnių versijų dokumentacija"
+
+#: ../../themes/qgis-theme/docs_index.html:56
+#: ../../themes/qgis-theme/docs_index.html:111
+msgid "For users:"
+msgstr "Naudotojams:"
+
+#: ../../themes/qgis-theme/docs_index.html:58
+#: ../../themes/qgis-theme/docs_index.html:113
+msgid "Read the"
+msgstr "Perskaitykite"
+
+#: ../../themes/qgis-theme/docs_index.html:58
+#: ../../themes/qgis-theme/docs_index.html:113
+msgid "QGIS User guide"
+msgstr "QGIS naudotojo vadovas"
+
+#: ../../themes/qgis-theme/docs_index.html:59
+#: ../../themes/qgis-theme/docs_index.html:114
+msgid "Follow the tutorials in the"
+msgstr "Sekite mokymo medžiagą"
+
+#: ../../themes/qgis-theme/docs_index.html:59
+#: ../../themes/qgis-theme/docs_index.html:114
+msgid "QGIS Training manual"
+msgstr "QGIS mokymo medžiaga"
+
+#: ../../themes/qgis-theme/docs_index.html:60
+#: ../../themes/qgis-theme/docs_index.html:115
+msgid "Learn GIS basics in"
+msgstr "Išmokite GIS pagrindus"
+
+#: ../../themes/qgis-theme/docs_index.html:60
+#: ../../themes/qgis-theme/docs_index.html:99
+#: ../../themes/qgis-theme/docs_index.html:115
+msgid "A gentle introduction in GIS"
+msgstr "Švelnus įvadas į GIS"
+
+#: ../../themes/qgis-theme/docs_index.html:63
+#: ../../themes/qgis-theme/docs_index.html:118
+msgid "For documentation writers:"
+msgstr "Dokumentacijos rašytojams:"
+
+#: ../../themes/qgis-theme/docs_index.html:65
+#: ../../themes/qgis-theme/docs_index.html:120
+msgid "Learn how to write docs using the"
+msgstr "Išmokite rašyti dokumentus naudojant"
+
+#: ../../themes/qgis-theme/docs_index.html:65
+#: ../../themes/qgis-theme/docs_index.html:120
+msgid "Documentation Guidelines"
+msgstr "Dokumentacijos gairės"
+
+#: ../../themes/qgis-theme/docs_index.html:68
+#: ../../themes/qgis-theme/docs_index.html:123
+msgid "For developers:"
+msgstr "Programuotojams:"
+
+#: ../../themes/qgis-theme/docs_index.html:70
 #: ../../themes/qgis-theme/docs_index.html:125
-#: ../../themes/qgis-theme/forusers_index.html:177
-#: ../../themes/qgis-theme/getinvolved_donations.html:109
-#: ../../themes/qgis-theme/getinvolved_index.html:171
-msgid "Back to Top"
-msgstr "Atgal į viršų"
+msgid "Go Python, study the"
+msgstr "Pirmyn Python'as, studijuokite"
+
+#: ../../themes/qgis-theme/docs_index.html:70
+#: ../../themes/qgis-theme/docs_index.html:125
+msgid "PyQGIS cookbook (for plugins and scripting)"
+msgstr "PyQGIS receptai (priedams ir scenarijams)"
+
+#: ../../themes/qgis-theme/docs_index.html:71
+#: ../../themes/qgis-theme/docs_index.html:101
+#: ../../themes/qgis-theme/docs_index.html:126
+msgid "C++ Api documentation"
+msgstr "C++ Api dokumentacija"
+
+#: ../../themes/qgis-theme/docs_index.html:72
+#: ../../themes/qgis-theme/docs_index.html:102
+#: ../../themes/qgis-theme/docs_index.html:127
+msgid "PyQGIS - QGIS Python Api documentation"
+msgstr "PyQGIS - QGIS Python Api dokumentacija"
+
+#: ../../themes/qgis-theme/docs_index.html:90
+msgid "QGIS testing"
+msgstr "QGIS testavimas"
+
+#: ../../themes/qgis-theme/docs_index.html:91
+msgid ""
+"We are still updating (not translating yet) the documentation for releases "
+"newer than QGIS 3.10. We call this version 'QGIS testing' and the "
+"documentation can be found here: "
+msgstr "Mes vis dar atnaujiname (dar neverčiame) dokumentaciją laidoms, naujesnėms už QGIS 3.10. Šią versiją vadiname „QGIS testavimo“, jos dokumentaciją rasite čia:"
+
+#: ../../themes/qgis-theme/docs_index.html:91
+msgid "https://docs.qgis.org/testing"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:92
+msgid "Desktop User Guide/Manual"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:93
+msgid "Server Guide/Manual"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:94
+msgid "QGIS Training Manual"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:95
+msgid "PyQGIS Cookbook"
+msgstr "PyQGIS receptai"
+
+#: ../../themes/qgis-theme/docs_index.html:96
+msgid "QGIS Developers Guide"
+msgstr "QGIS kūrėjo gidas"
+
+#: ../../themes/qgis-theme/docs_index.html:98
+msgid "Documentation Guidelines (how to write the docs)"
+msgstr "Dokumentacijos gairės (kaip rašyti dokumentaciją)"
+
+#: ../../themes/qgis-theme/docs_index.html:100
+msgid "PDF versions of all above, eg for printing are available here: "
+msgstr "Aukščiau išvardintų dalykų PDF versijas spausdinimui rasite čia:"
+
+#: ../../themes/qgis-theme/docs_index.html:100
+msgid "https://docs.qgis.org/testing/pdf"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:113
+#: ../../themes/qgis-theme/docs_index.html:114
+#: ../../themes/qgis-theme/docs_index.html:125
+msgid "or as PDF"
+msgstr "arba kaip PDF"
+
+#: ../../themes/qgis-theme/docs_index.html:141
+msgid "Archived"
+msgstr "Archyvas"
+
+#: ../../themes/qgis-theme/docs_index.html:142
+msgid "Links to documentation of older version of QGIS: "
+msgstr "Nuorodos į senesnių QGIS versijų dokumentaciją:"
+
+#: ../../themes/qgis-theme/docs_index.html:144
+msgid "QGIS 2.18 Documentation"
+msgstr "QGIS 2.18 dokumentacija"
+
+#: ../../themes/qgis-theme/docs_index.html:145
+msgid "QGIS 2.14 Documentation"
+msgstr "QGIS 2.14 dokumentacija"
+
+#: ../../themes/qgis-theme/docs_index.html:146
+msgid "QGIS 2.8 Documentation"
+msgstr "QGIS 2.18 dokumentacija"
 
 #: ../../themes/qgis-theme/about_index.html:7
 msgid "QGIS - The Leading Open Source Desktop GIS"
@@ -161,13 +832,6 @@ msgstr "QGIS naudojimo studijos"
 #: ../../themes/qgis-theme/about_index.html:115
 msgid "Supporting Organizations"
 msgstr "Remiančios organizacijos"
-
-#: ../../themes/qgis-theme/about_index.html:38
-#: ../../themes/qgis-theme/about_index.html:133
-#: ../../themes/qgis-theme/forusers_index.html:47
-#: ../../themes/qgis-theme/forusers_index.html:139
-msgid "Commercial Support"
-msgstr "Komercinis palaikymas"
 
 #: ../../themes/qgis-theme/about_index.html:52
 msgid "About QGIS"
@@ -248,8 +912,9 @@ msgstr "Peržiūrėkite mūsų QGIS naudojimo studijas"
 
 #: ../../themes/qgis-theme/about_index.html:116
 msgid ""
-"We welcome financial contributions in the form of sponsoring and funding."
-msgstr "Mes priimame finansinę paramą sponsoriavimo ar finansavimo forma."
+"We welcome financial contributions in the form of sustaining memberships and"
+" donations."
+msgstr "Mes priimame finansinę paramą palaikančios narystės ar paramos forma."
 
 #: ../../themes/qgis-theme/about_index.html:118
 msgid "Organizations that support QGIS"
@@ -266,149 +931,157 @@ msgstr "Planuojate naudoti QGIS jūsų kompanijoje ar organizacijoje, bet rūpin
 msgid "Learn about Commercial Support for QGIS"
 msgstr "Sužinokite apie komercinį QGIS palaikymą"
 
-#: ../../themes/qgis-theme/forusers_index.html:7
-msgid "Get Started Using QGIS"
-msgstr "Pradėkite naudoti QGIS"
+#: ../../themes/qgis-theme/localtoc.html:3
+msgid "Page"
+msgstr "Puslapis"
 
-#: ../../themes/qgis-theme/forusers_index.html:9
-msgid "Step 1: Download QGIS"
-msgstr "1 žingsnis: atsisiųskite QGIS"
+#: ../../themes/qgis-theme/index.html:3
+msgid "Time until freeze"
+msgstr "Laiko iki užšaldymo"
 
-#: ../../themes/qgis-theme/forusers_index.html:11
-msgid "Step 2: Check our documentation"
-msgstr "2 žingsnis: peržiūrėkite mūsų dokumentaciją"
+#: ../../themes/qgis-theme/index.html:4
+msgid "Time until packaging"
+msgstr "Liko laiko iki pakavimo"
 
-#: ../../themes/qgis-theme/forusers_index.html:13
-msgid "Step 3: Connect with the QGIS community"
-msgstr "3 žingsnis: prisijunkite prie QGIS bendruomenės"
+#: ../../themes/qgis-theme/index.html:5
+msgid "Time until next pointrelease"
+msgstr "Liko laiko iki kitos taškinės laidos"
 
-#: ../../themes/qgis-theme/forusers_index.html:27
-#: ../../themes/qgis-theme/page.html:139
-msgid "For Users"
-msgstr "Naudotojams"
+#: ../../themes/qgis-theme/index.html:12
+msgid "A Free and Open Source Geographic Information System"
+msgstr "Laisva ir atviro kodo geografinės informacijos sistema"
 
-#: ../../themes/qgis-theme/forusers_index.html:32
-msgid "Download"
-msgstr "Atsisiųsti"
+#: ../../themes/qgis-theme/index.html:33
+msgid "New release: 3.16!"
+msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:35
-#: ../../themes/qgis-theme/forusers_index.html:88
-#: ../../themes/qgis-theme/page.html:141
-msgid "Documentation"
-msgstr "Dokumentacija"
+#: ../../themes/qgis-theme/index.html:35
+msgid "Get the"
+msgstr "Gaukite"
 
-#: ../../themes/qgis-theme/forusers_index.html:38
-msgid "QGIS Plugins"
-msgstr "QGIS priedai"
+#: ../../themes/qgis-theme/index.html:36
+msgid "installer or packages"
+msgstr "diegiklį arba paketus"
 
-#: ../../themes/qgis-theme/forusers_index.html:41
-#: ../../themes/qgis-theme/forusers_index.html:128
-msgid "Getting Help"
-msgstr "Kaip gauti pagalbą"
+#: ../../themes/qgis-theme/index.html:37
+msgid "for your Operating System and read the"
+msgstr "jūsų operacinei sistemai ir perskaitykite"
 
-#: ../../themes/qgis-theme/forusers_index.html:44
-msgid "In the Press"
-msgstr "Spaudoje"
+#: ../../themes/qgis-theme/index.html:38
+msgid "changelog."
+msgstr "pakeitimų žurnalą."
 
-#: ../../themes/qgis-theme/forusers_index.html:60
-msgid "Download QGIS"
-msgstr "Atsisiųsti QGIS"
+#: ../../themes/qgis-theme/index.html:47
+msgid "QGIS Community meetings"
+msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:62
-msgid "for your operating system."
-msgstr "jūsų operacinei sistemai."
+#: ../../themes/qgis-theme/index.html:49
+msgid "Find out more about our tradition of user and contributor"
+msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:65
-msgid "Get the installer"
-msgstr "Gaukite diegiklį"
+#: ../../themes/qgis-theme/index.html:49
+msgid "meetings!"
+msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:68
-msgid "Check out our roadmap for future versions: "
-msgstr "Peržiūrėkite mūsų ateities versijų planus:"
+#: ../../themes/qgis-theme/index.html:58
+msgid "Look cool and support the QGIS project!"
+msgstr "Gerai atrodykite ir paremkite QGIS projektą!"
 
-#: ../../themes/qgis-theme/forusers_index.html:68
-#: ../../themes/qgis-theme/getinvolved_index.html:146
-msgid "QGIS roadmap"
-msgstr "QGIS planas"
+#: ../../themes/qgis-theme/index.html:60
+msgid "Pick your style and favourite color and show your support with our"
+msgstr "Pasirinkite savo stilių ir mėgstamiausią spalvą, kad parodytumėte paramą su mūsų"
 
-#: ../../themes/qgis-theme/forusers_index.html:72
-msgid "See the latest features in the visual changelog"
-msgstr "Paskutines savybes peržiūrėkite vizualiuose pakeitimų sąrašuose"
+#: ../../themes/qgis-theme/index.html:61
+msgid "QGIS goodies!"
+msgstr "QGIS gėrybėmis!"
 
-#: ../../themes/qgis-theme/forusers_index.html:91
-msgid "Our main documentation is the"
-msgstr "Mūsų pagrindinė dokumentacija yra"
-
-#: ../../themes/qgis-theme/forusers_index.html:92
-msgid "QGIS user guide"
-msgstr "QGIS naudotojo vadovas"
-
-#: ../../themes/qgis-theme/forusers_index.html:94
-msgid "We also provide step by step tutorials in the"
-msgstr "Mes taip pat teikiame pažingsnines pamokas"
-
-#: ../../themes/qgis-theme/forusers_index.html:95
-msgid "Training manual"
-msgstr "Mokymo medžiagoje"
-
-#: ../../themes/qgis-theme/forusers_index.html:97
-msgid "External parties also provide"
-msgstr "Trečiosios šalys taip pat teikia"
-
-#: ../../themes/qgis-theme/forusers_index.html:98
-msgid "QGIS tutorials"
-msgstr "QGIS pamokas"
-
-#: ../../themes/qgis-theme/forusers_index.html:104
-msgid "QGIS Publications"
-msgstr "QGIS publikacijas"
-
-#: ../../themes/qgis-theme/forusers_index.html:106
-msgid "Read what the QGIS community is doing around the world"
-msgstr "Ką QGIS bendruomenė veikia visame pasaulyje skaitykite"
-
-#: ../../themes/qgis-theme/forusers_index.html:108
-msgid "in our blogs"
-msgstr "mūsų tinklaraščiuose"
-
-#: ../../themes/qgis-theme/forusers_index.html:110
-msgid "For more in-depth reading, get some"
-msgstr "Detalesniam skaitymui gaukite"
-
-#: ../../themes/qgis-theme/forusers_index.html:112
-msgid "books on QGIS"
-msgstr "knygų apie QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:129
-msgid "You can get in touch with fellow users and developers via"
-msgstr "Susisiekti su kolegomis naudotojais ir vystytojais galite per"
-
-#: ../../themes/qgis-theme/forusers_index.html:131
-msgid "our community support channels"
-msgstr "mūsų bendruomenės palaikymo kanalus"
-
-#: ../../themes/qgis-theme/forusers_index.html:140
+#: ../../themes/qgis-theme/index.html:76
 msgid ""
-"Do you plan to use QGIS in your company or organization, but worry about whether there is\n"
-"                    commercial support available? Here is an alphabetical"
-msgstr "Planuojate naudoti QGIS jūsų kompanijoje ar organizacijoje, bet rūpinatės, ar galite rasti komercinį palaikymą? Čia yra"
+"Create, edit, visualise, analyse and publish geospatial\n"
+"            information on Windows, Mac, Linux, BSD and mobile devices"
+msgstr "Kurkite, keiskite, vizualizuokite, analizuokite ir publikuokite geoerdvinę informaciją Windows, Mac, Linux, BSD ir mobiliuose įrenginiuose"
 
-#: ../../themes/qgis-theme/forusers_index.html:144
-msgid "list of support contractors"
-msgstr "palaikymo tiekėjų abėcėlinis sąrašas"
-
-#: ../../themes/qgis-theme/forusers_index.html:160
-msgid "Get Plugins"
-msgstr "Gauti priedus"
-
-#: ../../themes/qgis-theme/forusers_index.html:161
+#: ../../themes/qgis-theme/index.html:80
 msgid ""
-"QGIS plugins allow you to add many new features and functions. Get them from"
-msgstr "QGIS priedai leidžia jums pridėti daug naujo funkcionalumo ir funkcijų. Gaukite juos iš"
+"For your desktop, server, in your web browser and as\n"
+"            developer libraries"
+msgstr "Jūsų darbastalyje, serveryje, naršyklėje arba\nprogramų bibliotekose"
 
-#: ../../themes/qgis-theme/forusers_index.html:164
-msgid "the plugin repository"
-msgstr "priedų saugyklos"
+#: ../../themes/qgis-theme/index.html:87
+msgid "Download Now"
+msgstr "Atsisiųsti dabar"
+
+#: ../../themes/qgis-theme/index.html:88
+msgid "Version"
+msgstr "Versija"
+
+#: ../../themes/qgis-theme/index.html:91
+msgid "Support QGIS"
+msgstr "Paremkite QGIS"
+
+#: ../../themes/qgis-theme/index.html:92
+msgid "Donate now!"
+msgstr "Paremkite dabar!"
+
+#: ../../themes/qgis-theme/index.html:100
+msgid "Project News"
+msgstr "Projekto naujienos"
+
+#: ../../themes/qgis-theme/index.html:106
+msgid "Latest Project Blog Posts (blog.qgis.org)"
+msgstr "Paskutiniai projekto tinklaraščio įrašai (blog.qgis.org)"
+
+#: ../../themes/qgis-theme/index.html:124
+msgid "Get Started"
+msgstr "Pradžia"
+
+#: ../../themes/qgis-theme/index.html:128
+msgid "Start using QGIS for your GIS tasks."
+msgstr "Pradėkite naudoti QGIS jūsų GIS užduotims."
+
+#: ../../themes/qgis-theme/index.html:140
+msgid "Shape the future of QGIS with your contributions."
+msgstr "Valdykite QGIS ateitį savo įnašu."
+
+#: ../../themes/qgis-theme/index.html:148
+msgid "Learn More"
+msgstr "Sužinokite daugiau"
+
+#: ../../themes/qgis-theme/index.html:152
+msgid "Find training materials and reference documentation."
+msgstr "Raskite mokymo medžiagą ir dokumentaciją."
+
+#: ../../themes/qgis-theme/index.html:165
+msgid "Latest Community News"
+msgstr "Paskutinės bendruomenės naujienos"
+
+#: ../../themes/qgis-theme/index.html:168
+msgid "Find out what is going on with the QGIS project and its community."
+msgstr "Sužinokite, kas vyksta QGIS projekte ir jo bendruomenėje."
+
+#: ../../themes/qgis-theme/index.html:173
+msgid "Upcoming User & Developer Meetings"
+msgstr "Artėjantys naudotojų ir programuotojų susitikimai"
+
+#: ../../themes/qgis-theme/index.html:182
+msgid "Latest Blog Posts"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:222
+msgid "See More Maps and Screenshots"
+msgstr "Peržiūrėkite daugiau žemėlapių ir nuotraukų"
+
+#: ../../themes/qgis-theme/index.html:242
+msgid "Sustaining Members"
+msgstr "Palaikantys nariai"
+
+#: ../../themes/qgis-theme/index.html:278
+msgid "frozen since"
+msgstr "užšaldytas nuo"
+
+#: ../../themes/qgis-theme/index.html:281
+msgid "in packaging since"
+msgstr "pakuojama nuo"
 
 #: ../../themes/qgis-theme/languageswitch.html:4
 msgid "English"
@@ -507,14 +1180,18 @@ msgid "Ukrainian"
 msgstr "Ukrainietiškai"
 
 #: ../../themes/qgis-theme/languageswitch.html:28
-msgid "Chinese (China)"
-msgstr "Kiniškai (Kinija)"
+msgid "Chinese (Simplified)"
+msgstr "Kinų (supaprastinta)"
 
-#: ../../themes/qgis-theme/languageswitch.html:90
+#: ../../themes/qgis-theme/languageswitch.html:29
+msgid "Chinese (Traditional)"
+msgstr "Kinų (tradicinė)"
+
+#: ../../themes/qgis-theme/languageswitch.html:99
 msgid "Thank you!"
 msgstr "Ačiū!"
 
-#: ../../themes/qgis-theme/languageswitch.html:92
+#: ../../themes/qgis-theme/languageswitch.html:101
 msgid ""
 "Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and "
 "will always be free of charge if downloaded from QGIS.org. If you can afford"
@@ -526,334 +1203,151 @@ msgid ""
 "it too. Our very best regards!"
 msgstr "Jūsų šviežiai iškepta QGIS kopija siunčiama. QGIS yra nemokama ir visada bus nemokama, jei atsiųsta iš QGIS.org. Jei turite galimybių paremti projektą ir žmones, kuriančius šią programinę įrangą, pagalvokite apie <a href=\"https://qgis.org/en/site/getinvolved/donations.html\">nedidelę paramą</a> mūsų darbui. Nepriklausomai nuo to, ar nuspręsite paremti ar ne, mes tikimės, kad jums patiks naudotis mūsų darbu ir meile ir paskatins jus dalintis ir skleisti jūsų atsisiųstą kopiją toli ir plačiai, kad kiti irgi galėtų džiaugtis tuo pačiu. Kuo geriausi mūsų linkėjimai!"
 
-#: ../../themes/qgis-theme/languageswitch.html:93
+#: ../../themes/qgis-theme/languageswitch.html:102
+#: ../../themes/qgis-theme/languageswitch.html:132
 msgid "The QGIS Team"
 msgstr "QGIS komanda"
 
-#: ../../themes/qgis-theme/languageswitch.html:95
+#: ../../themes/qgis-theme/languageswitch.html:104
 msgid "Donate Now"
 msgstr "Paremkite dabar"
 
-#: ../../themes/qgis-theme/languageswitch.html:96
+#: ../../themes/qgis-theme/languageswitch.html:105
+#: ../../themes/qgis-theme/languageswitch.html:134
 msgid "Close this message"
 msgstr "Uždaryti šį pranešimą"
 
-#: ../../themes/qgis-theme/index.html:3
-msgid "Time until freeze"
-msgstr "Laiko iki užšaldymo"
+#: ../../themes/qgis-theme/languageswitch.html:128
+msgid "Thank you for your donation!"
+msgstr "Ačiū už jūsų paramą!"
 
-#: ../../themes/qgis-theme/index.html:4
-msgid "Time until packaging"
-msgstr "Liko laiko iki pakavimo"
-
-#: ../../themes/qgis-theme/index.html:5
-msgid "Time until next pointrelease"
-msgstr "Liko laiko iki kitos taškinės laidos"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-#: ../../themes/qgis-theme/index.html:9
-msgid "QGIS"
-msgstr "QGIS"
-
-#: ../../themes/qgis-theme/index.html:12
-msgid "A Free and Open Source Geographic Information System"
-msgstr "Laisva ir atviro kodo geografinės informacijos sistema"
-
-#: ../../themes/qgis-theme/index.html:33
-msgid "New major release!"
-msgstr "Nauja pagrindinė laida!"
-
-#: ../../themes/qgis-theme/index.html:35
-msgid "Get the"
-msgstr "Gaukite"
-
-#: ../../themes/qgis-theme/index.html:36
-msgid "installer or packages"
-msgstr "diegiklį arba paketus"
-
-#: ../../themes/qgis-theme/index.html:37
-msgid "for your Operating System!"
-msgstr "jūsų operacinei sistemai"
-
-#: ../../themes/qgis-theme/index.html:46
-msgid "21st Developer meeting"
-msgstr "21'as kūrėjų susitikimas"
-
-#: ../../themes/qgis-theme/index.html:48
-msgid "Come along"
-msgstr "Atvykite kartu"
-
-#: ../../themes/qgis-theme/index.html:49
-msgid "to Zanzibar"
-msgstr "į Zanzibarą"
-
-#: ../../themes/qgis-theme/index.html:50
-msgid "to find out more about QGIS!"
-msgstr ", kad sužinotumėte daugiau apie QGIS!"
-
-#: ../../themes/qgis-theme/index.html:59
-msgid "Look cool and support the QGIS project!"
-msgstr "Gerai atrodykite ir paremkite QGIS projektą!"
-
-#: ../../themes/qgis-theme/index.html:61
-msgid "Pick your style and favourite color and show your support with our"
-msgstr "Pasirinkite savo stilių ir mėgstamiausią spalvą, kad parodytumėte paramą su mūsų"
-
-#: ../../themes/qgis-theme/index.html:62
-msgid "QGIS goodies!"
-msgstr "QGIS gėrybėmis!"
-
-#: ../../themes/qgis-theme/index.html:71
-msgid "Join the FOSS4G community!"
-msgstr "Prisijunkite prie FOSS4G bendruomenės!"
-
-#: ../../themes/qgis-theme/index.html:73
+#: ../../themes/qgis-theme/languageswitch.html:130
 msgid ""
-"Workshops, talks, code sprints, and community events are waiting for you at"
-msgstr "Darbai, kalbos, kodo sprintai ir bendruomenės įvykiai laukia jūsų"
+"QGIS is free of charge and we hope that you enjoy using our labour of love "
+"and encourage you to share and spread your downloaded copy far and wide so "
+"that others may enjoy it too. Our very best regards!"
+msgstr "QGIS yra nemokamas ir mes tikimės, kad jums patiks naudoti mūsų darbą, bei skatiname dalintis ir skleisti atsisiųstą kopiją kiek galima plačiau, kad ir kiti galėtų ja džiaugtis. Kuo nuoširdžiausi mūsų linkėjimai!"
 
-#: ../../themes/qgis-theme/index.html:74
-msgid "FOSS4G 2018 in Dar!"
-msgstr "FOSS4G 2018 Dar'e!"
-
-#: ../../themes/qgis-theme/index.html:89
+#: ../../themes/qgis-theme/languageswitch.html:131
 msgid ""
-"Create, edit, visualise, analyse and publish geospatial\n"
-"            information on Windows, Mac, Linux, BSD (Android coming soon)"
-msgstr "Kurkite, keiskite, vizualizuokite, analizuokite ir publikuokite geoerdvinę informaciją Windows, Mac, Linux, BSD sistemose (greitai ir Android)"
+"Unfortunately there was an error processing your Donation. Please try again "
+"later, or contact us via finance@qgis.org"
+msgstr "Deja apdorojant jūsų paramą įvyko klaida. Prašome pabandyti dar kartą vėliau arba susisiekti su mumis adresu finance@qgis.org"
 
-#: ../../themes/qgis-theme/index.html:93
+#: ../../themes/qgis-theme/getinvolved_donations.html:8
+msgid "QGIS Donations"
+msgstr "QGIS parama"
+
+#: ../../themes/qgis-theme/getinvolved_donations.html:9
 msgid ""
-"For your desktop, server, in your web browser and as\n"
-"            developer libraries"
-msgstr "Jūsų darbastalyje, serveryje, naršyklėje arba\nprogramų bibliotekose"
+"QGIS is developed by a team of dedicated volunteers, companies and "
+"organisations."
+msgstr "QGIS kuria pasišventusių savanorių, kompanijų ir organizacijų komanda."
 
-#: ../../themes/qgis-theme/index.html:100
-msgid "Download Now"
-msgstr "Atsisiųsti dabar"
-
-#: ../../themes/qgis-theme/index.html:101
-msgid "Version"
-msgstr "Versija"
-
-#: ../../themes/qgis-theme/index.html:104
-msgid "Support QGIS"
-msgstr "Paremkite QGIS"
-
-#: ../../themes/qgis-theme/index.html:105
-msgid "Donate now!"
-msgstr "Paremkite dabar!"
-
-#: ../../themes/qgis-theme/index.html:113
-msgid "Project News"
-msgstr "Projekto naujienos"
-
-#: ../../themes/qgis-theme/index.html:119
-msgid "Latest Project Blog Posts (blog.qgis.org)"
-msgstr "Paskutiniai projekto tinklaraščio įrašai (blog.qgis.org)"
-
-#: ../../themes/qgis-theme/index.html:137
-msgid "Get Started"
-msgstr "Pradžia"
-
-#: ../../themes/qgis-theme/index.html:141
-msgid "Start using QGIS for your GIS tasks."
-msgstr "Pradėkite naudoti QGIS jūsų GIS užduotims."
-
-#: ../../themes/qgis-theme/index.html:150
-#: ../../themes/qgis-theme/page.html:140
-msgid "Get Involved"
-msgstr "Įsitraukite"
-
-#: ../../themes/qgis-theme/index.html:153
-msgid "Shape the future of QGIS with your contributions."
-msgstr "Valdykite QGIS ateitį savo įnašu."
-
-#: ../../themes/qgis-theme/index.html:161
-msgid "Learn More"
-msgstr "Sužinokite daugiau"
-
-#: ../../themes/qgis-theme/index.html:165
-msgid "Find training materials and reference documentation."
-msgstr "Raskite mokymo medžiagą ir dokumentaciją."
-
-#: ../../themes/qgis-theme/index.html:178
-msgid "Latest Community News"
-msgstr "Paskutinės bendruomenės naujienos"
-
-#: ../../themes/qgis-theme/index.html:181
-msgid "Find out what is going on with the QGIS project and its community."
-msgstr "Sužinokite, kas vyksta QGIS projekte ir jo bendruomenėje."
-
-#: ../../themes/qgis-theme/index.html:186
-msgid "Upcoming User & Developer Meetings"
-msgstr "Artėjantys naudotojų ir programuotojų susitikimai"
-
-#: ../../themes/qgis-theme/index.html:195
-msgid "Latest Blog Posts (planet.qgis.org)"
-msgstr "Paskutiniai dienoraščio įrašai (planet.qgis.org)"
-
-#: ../../themes/qgis-theme/index.html:235
-msgid "See More Maps and Screenshots"
-msgstr "Peržiūrėkite daugiau žemėlapių ir nuotraukų"
-
-#: ../../themes/qgis-theme/index.html:255
-msgid "Sponsors"
-msgstr "Sponsoriai"
-
-#: ../../themes/qgis-theme/index.html:291
-msgid "frozen since"
-msgstr "užšaldytas nuo"
-
-#: ../../themes/qgis-theme/index.html:294
-msgid "in packaging since"
-msgstr "pakuojama nuo"
-
-#: ../../themes/qgis-theme/docs_index.html:7
-msgid "QGIS Documentation"
-msgstr "QGIS Dokumentacija"
-
-#: ../../themes/qgis-theme/docs_index.html:8
+#: ../../themes/qgis-theme/getinvolved_donations.html:13
 msgid ""
-"QGIS has a lot of documentation. All documentation is in English but some "
-"documents such as the user guide are also available in other languages."
-msgstr "QGIS turi daug dokumentacijos. Visa dokumentacija yra angliška, bet kai kurie dokumentai, tokie kaip naudotojo vadovas, yra išversti ir į kitas kalbas."
+"Donations to QGIS are tax-deductible in several countries. Please refer to your local tax office for details.\n"
+"                    If you want to tax-deduct as a german company or organization, please donate through the "
+msgstr "Keliose šalyse mokesčiai nuo QGIS paramos neskaičiuojami. Prašome kreiptis į jūsų vietinę mokesčių inspekciją, kad gautumėte daugiau informacijos.\nJei norite mokesčių išimčių kaip vokiška kompanija ar organizacija, prašome paremti per"
 
-#: ../../themes/qgis-theme/docs_index.html:9
+#: ../../themes/qgis-theme/getinvolved_donations.html:14
+msgid "German QGIS user group"
+msgstr "Vokietijos QGIS naudotojų grupę"
+
+#: ../../themes/qgis-theme/getinvolved_donations.html:14
 msgid ""
-"You will find documentation for every QGIS release on the respective "
-"documentation website."
-msgstr "Kiekvienos QGIS versijos dokumentaciją rasite atitinkamoje dokumentacijos svetainėje."
+". They can issue a payment confirmation as a tax-exempt german association."
+msgstr "Jie gali pateikti mokėjimo patvirtinimą, kaip vokiška asociacija su mokesčių išimtimis."
 
-#: ../../themes/qgis-theme/docs_index.html:25
-msgid "DOCUMENTATION"
-msgstr "DOKUMENTACIJA"
+#: ../../themes/qgis-theme/getinvolved_donations.html:16
+#: ../../themes/qgis-theme/getinvolved_index.html:12
+msgid "You can get involved!"
+msgstr "Jūs galite prisidėti!"
 
-#: ../../themes/qgis-theme/docs_index.html:30
-#: ../../themes/qgis-theme/docs_index.html:50
-msgid "QGIS 2.18"
-msgstr "QGIS 2.18"
+#: ../../themes/qgis-theme/getinvolved_donations.html:28
+msgid "DONATE TO THE PROJECT"
+msgstr "PAREMKITE PROJEKTĄ"
 
-#: ../../themes/qgis-theme/docs_index.html:33
-msgid "QGIS testing (3.x)"
-msgstr "QGIS test (3.x)"
+#: ../../themes/qgis-theme/getinvolved_donations.html:33
+#: ../../themes/qgis-theme/getinvolved_donations.html:53
+msgid "Bank Transfer"
+msgstr "Banko pavedimas"
 
-#: ../../themes/qgis-theme/docs_index.html:36
-msgid "Documentation for older versions"
-msgstr "Senesnių versijų dokumentacija"
+#: ../../themes/qgis-theme/getinvolved_donations.html:36
+msgid "Credit card and Paypal"
+msgstr "Kreditinė kortelė ir Paypal"
 
-#: ../../themes/qgis-theme/docs_index.html:53
-msgid "Read the"
-msgstr "Perskaitykite"
-
-#: ../../themes/qgis-theme/docs_index.html:53
-msgid "QGIS User guide"
-msgstr "QGIS naudotojo vadovas"
-
-#: ../../themes/qgis-theme/docs_index.html:53
-#: ../../themes/qgis-theme/docs_index.html:54
-#: ../../themes/qgis-theme/docs_index.html:65
-msgid "or as PDF"
-msgstr "arba kaip PDF"
-
-#: ../../themes/qgis-theme/docs_index.html:54
-msgid "Follow the tutorials in the"
-msgstr "Sekite mokymo medžiagą"
-
-#: ../../themes/qgis-theme/docs_index.html:54
-#: ../../themes/qgis-theme/docs_index.html:88
-msgid "QGIS Training manual"
-msgstr "QGIS mokymo medžiaga"
-
-#: ../../themes/qgis-theme/docs_index.html:55
-msgid "Learn GIS basics in"
-msgstr "Išmokite GIS pagrindus"
-
-#: ../../themes/qgis-theme/docs_index.html:55
-#: ../../themes/qgis-theme/docs_index.html:93
-msgid "A gentle introduction in GIS"
-msgstr "Švelnus įvadas į GIS"
-
-#: ../../themes/qgis-theme/docs_index.html:60
-msgid "Learn how to write docs using the"
-msgstr "Išmokite rašyti dokumentus naudojant"
-
-#: ../../themes/qgis-theme/docs_index.html:60
-msgid "Documentation Guidelines"
-msgstr "Dokumentacijos gairės"
-
-#: ../../themes/qgis-theme/docs_index.html:65
-msgid "Go Python, study the"
-msgstr "Pirmyn Python'as, studijuokite"
-
-#: ../../themes/qgis-theme/docs_index.html:65
-msgid "PyQGIS cookbook (for plugins and scripting)"
-msgstr "PyQGIS receptai (priedams ir scenarijams)"
-
-#: ../../themes/qgis-theme/docs_index.html:66
-#: ../../themes/qgis-theme/docs_index.html:96
-msgid "Python (iface) Api documentation"
-msgstr "Python (iface) Api dokumentacija"
-
-#: ../../themes/qgis-theme/docs_index.html:67
-#: ../../themes/qgis-theme/docs_index.html:95
-msgid "C++ Api documentation"
-msgstr "C++ Api dokumentacija"
-
-#: ../../themes/qgis-theme/docs_index.html:85
-msgid "QGIS testing"
-msgstr "QGIS testavimas"
-
-#: ../../themes/qgis-theme/docs_index.html:86
+#: ../../themes/qgis-theme/getinvolved_donations.html:54
 msgid ""
-"We are still updating (not translating yet) the documentation for releases "
-"newer than QGIS 2.18. We call this version 'QGIS testing' and can be found "
-"here: "
-msgstr "Mes vis dar atnaujiname (dar neverčiame) dokumentaciją laidoms, naujesnėms nei QGIS 2.18. Šią versiją vadiname „QGIS test“ ir ją galite rasti čia:"
+"Use the details below to make a donation via international money transfer:"
+msgstr "Naudokite žemiau pateiktą informaciją paramai tarptautiniu pinigų pervedimu:"
 
-#: ../../themes/qgis-theme/docs_index.html:86
-msgid "http://docs.qgis.org/testing"
-msgstr "http://docs.qgis.org/testing"
+#: ../../themes/qgis-theme/getinvolved_donations.html:75
+msgid "Stripe"
+msgstr "Stripe"
 
-#: ../../themes/qgis-theme/docs_index.html:87
-msgid "User guide/Manual"
-msgstr "Naudotojo vadovas/instrukcija"
+#: ../../themes/qgis-theme/getinvolved_donations.html:76
+msgid ""
+"We use the stripe.com service to receive credit card donations. Note that "
+"the payment fees at Stripe are substantially lower than at Paypal - so we "
+"would appreciate it, if you could use Stripe instead of PayPal. No signup "
+"needed."
+msgstr "Paramos gavimui iš kreditinių kortelių mes naudojame stripe.com. Pastebėtina, kad Stripe mokėjimo mokesčiai yra žymiai mažesni nei Paypal - taigi bus daug geriau, jei vietoje Paypal naudosite Stripe. Nereikia jokios registracijos."
 
-#: ../../themes/qgis-theme/docs_index.html:89
-msgid "PyQGIS Cookbook"
-msgstr "PyQGIS receptai"
+#: ../../themes/qgis-theme/getinvolved_donations.html:77
+msgid ""
+"If you do not see a Payment Form here please let us know via "
+"finance@qgis.org."
+msgstr "Jei šioje vietoje nematote mokėjimo formos, prašome pranešti mums finance@qgis.org."
 
-#: ../../themes/qgis-theme/docs_index.html:90
-msgid "QGIS Developers Guide"
-msgstr "QGIS kūrėjo gidas"
+#: ../../themes/qgis-theme/getinvolved_donations.html:82
+msgid "Paypal"
+msgstr "Paypal"
 
-#: ../../themes/qgis-theme/docs_index.html:92
-msgid "Documentation Guidelines (how to write the docs)"
-msgstr "Dokumentacijos gairės (kaip rašyti dokumentaciją)"
+#: ../../themes/qgis-theme/getinvolved_donations.html:83
+msgid ""
+"You can use Paypal to donate using your own credit card (but we prefer to use Stripe for that). \n"
+"                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
+"                    or sign-up for one if you are paying by credit card."
+msgstr "Su Paypal galite paremti naudojant jūsų kreditinę kortelę (nors mums būtų priimtiniau, kad tam naudotumėte Stripe).\n                    Mokėjimą apdoroja PayPal, bet jums nereikia turėti PayPal paskyros\n                    ar prisiregistruoti, jei norite mokėti kreditine kortele."
 
-#: ../../themes/qgis-theme/docs_index.html:94
-msgid "PDF versions of all above, eg for printing are available here: "
-msgstr "Aukščiau išvardintų dalykų PDF versijas spausdinimui rasite čia:"
+#: ../../themes/qgis-theme/getinvolved_donations.html:86
+msgid "You can also use your own Paypal account to donate."
+msgstr "Taipogi galite naudoti savo Paypal paskyrą paramai."
 
-#: ../../themes/qgis-theme/docs_index.html:94
-msgid "http://docs.qgis.org/testing/pdf"
-msgstr "http://docs.qgis.org/testing/pdf"
+#: ../../themes/qgis-theme/getinvolved_donations.html:87
+msgid "List of QGIS Support Channels"
+msgstr "QGIS palaikymo kanalų sąrašas"
 
-#: ../../themes/qgis-theme/docs_index.html:104
-msgid "Archived"
-msgstr "Archyvas"
+#: ../../themes/qgis-theme/getinvolved_donations.html:94
+msgid "Donate via PayPal.com"
+msgstr "Paremkite per PayPal.com"
 
-#: ../../themes/qgis-theme/docs_index.html:105
-msgid "Links to documentation of older version of QGIS: "
-msgstr "Nuorodos į senesnių QGIS versijų dokumentaciją:"
+#: ../../themes/qgis-theme/search.html:24
+msgid ""
+"Please activate JavaScript to enable the search\n"
+"    functionality."
+msgstr "Prašome įjungti JavaScript, kad veiktų\npaieškos funkcionalumas."
 
-#: ../../themes/qgis-theme/docs_index.html:107
-msgid "QGIS 2.14 Documentation"
-msgstr "QGIS 2.14 dokumentacija"
+#: ../../themes/qgis-theme/search.html:29
+msgid ""
+"From here you can search these documents. Enter your search\n"
+"    words into the box below and click \"search\". Note that the search\n"
+"    function will automatically search for all of the words. Pages\n"
+"    containing fewer words won't appear in the result list."
+msgstr "Iš čia galite ieškoti šiuose dokumentuose. Įveskite paieškos\nžodžius žemiau esančiame lauke ir spauskite „ieškoti“. Atkreipkite\ndėmesį, kad paieška automatiškai ieškos visų žodžių. Puslapiai,\nkuriuose yra mažiau žodžių nepateks į rezultatus."
 
-#: ../../themes/qgis-theme/docs_index.html:108
-msgid "QGIS 2.8 Documentation"
-msgstr "QGIS 2.18 dokumentacija"
+#: ../../themes/qgis-theme/search.html:37
+msgid "search"
+msgstr "ieškoti"
+
+#: ../../themes/qgis-theme/search.html:42
+msgid "Search Results"
+msgstr "Paieškos rezultatai"
+
+#: ../../themes/qgis-theme/search.html:44
+msgid "Your search did not match any results."
+msgstr "Jūsų paieška nieko nerado"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:7
 msgid "Get Involved in the QGIS Community"
@@ -873,11 +1367,6 @@ msgstr "Daugiau informacijos rasite perskaitę mūsų"
 #: ../../themes/qgis-theme/getinvolved_index.html:15
 msgid "diversity statement"
 msgstr "įvairovės pareiškimą"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:16
-#: ../../themes/qgis-theme/getinvolved_index.html:90
-msgid "and"
-msgstr "ir"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:17
 msgid "code of conduct"
@@ -901,17 +1390,16 @@ msgid "Translate"
 msgstr "Verskite"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:51
-#: ../../themes/qgis-theme/getinvolved_index.html:123
+#: ../../themes/qgis-theme/getinvolved_index.html:141
 msgid "Develop a Plugin"
 msgstr "Kurkite priedus"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:54
-#: ../../themes/qgis-theme/getinvolved_index.html:140
+#: ../../themes/qgis-theme/getinvolved_index.html:150
 msgid "Develop QGIS Core"
 msgstr "Vystykite QGIS pagrindą"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:57
-#: ../../themes/qgis-theme/getinvolved_index.html:153
 msgid "Sponsor & Donate"
 msgstr "Sponsoriauti ir paremti"
 
@@ -971,10 +1459,27 @@ msgid "our community support channels page"
 msgstr "mūsų bendruomenės palaikymo kanalų puslapyje"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:113
+msgid "Document QGIS"
+msgstr "Dokumentuokite QGIS"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:114
+msgid ""
+"The QGIS project aims to provide clear documentation concerning a User "
+"guide, GIS concepts, and training material. Writing documentation provides "
+"an ideal platform for your first contribution to the project. If you want to"
+" join to the documentation effort, you can find a gentle introduction and "
+"guidelines here:"
+msgstr "QGIS projektas siekia teikti aiškią dokumentaciją: naudotojo instrukciją, GIS sąvokas ir mokymo medžiagą. Dokumentacijos rašymas yra puiki proga jūsų pirmam indėliui į projektą. Jei norite prisijungti prie dokumentavimo pastangų, galite rasti įvadą ir gaires čia:"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:116
+msgid "Write Documentation"
+msgstr "Rašykite dokumentaciją"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:123
 msgid "Translate QGIS"
 msgstr "Verskite QGIS"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:114
+#: ../../themes/qgis-theme/getinvolved_index.html:124
 msgid ""
 "The QGIS project provides a gentle GIS introduction, a User Guide, a Coding "
 "and Compilation Guide and a API Documentation in english and in some cases "
@@ -983,35 +1488,35 @@ msgid ""
 " manual into another language, learn how to get started here:"
 msgstr "QGIS teikia lengvą GIS įvadą, naudotojo vadovą, programavimo ir kompiliavimo vadovą ir API dokumentaciją angliškai bei, kai kuriais atvejais, vertimus į kai kurias kitas užsienio kalbas. Jei norite prisidėti prie dokumentavimo darbų, pavyzdžiui versti anglišką vadovą į kitą kalbą, pradinę informaciją rasite čia:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:116
+#: ../../themes/qgis-theme/getinvolved_index.html:126
 msgid "Translate QGIS into your Language"
 msgstr "Verskite QGIS į jūsų kalbą"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:124
+#: ../../themes/qgis-theme/getinvolved_index.html:142
 msgid "Want to write your own Python plugin? Go here: "
 msgstr "Norite parašyti savo Python priedą? Eikite čia:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:124
+#: ../../themes/qgis-theme/getinvolved_index.html:142
 msgid "Developing Python plugins"
 msgstr "Python priedų kūrimas"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:125
+#: ../../themes/qgis-theme/getinvolved_index.html:143
 msgid "Want to develop a C++ plugin? Go here: "
 msgstr "Norite sukurti C++ priedą? Eikite čia: "
 
-#: ../../themes/qgis-theme/getinvolved_index.html:125
+#: ../../themes/qgis-theme/getinvolved_index.html:143
 msgid "Developing CPP plugins"
 msgstr "CPP priedų kūrimas"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:126
+#: ../../themes/qgis-theme/getinvolved_index.html:144
 msgid "A wide range of great plugins exist for QGIS via the "
 msgstr "Daug puikių priedų galima naudoti QGIS per"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:126
+#: ../../themes/qgis-theme/getinvolved_index.html:144
 msgid "QGIS Plugin web portal"
 msgstr "QGIS priedų tinklo portalą"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:141
+#: ../../themes/qgis-theme/getinvolved_index.html:151
 msgid ""
 "QGIS Core consists on the one hand of the libraries enabling you to build "
 "custom tailored application by  providing a powerful API. On the other hand "
@@ -1019,391 +1524,41 @@ msgid ""
 "possibilities offered by the libraries, offering a user friendly interface."
 msgstr "QGIS pagrindą sudaro bibliotekos, kurių galinga API leidžia jums kurti savas programas. Taip pat tai ir darbastalio ir serverio programa, kuri leidžia naudoti šių bibliotekų galimybes per draugišką naudotojo sąsają."
 
-#: ../../themes/qgis-theme/getinvolved_index.html:143
+#: ../../themes/qgis-theme/getinvolved_index.html:153
 msgid "Get Set Up for QGIS Core Development"
 msgstr "Pasiruoškite QGIS programavimui"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:154
+#: ../../themes/qgis-theme/getinvolved_index.html:171
+msgid "Sustain & Donate"
+msgstr "Palaikyti ir paremti"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:172
 msgid "There are two kinds of financial contributions, we accept:"
 msgstr "Mes priimame dviejų rūšių finansinę paramą:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:155
-msgid "sponsorships:"
-msgstr "sponsoriavimą:"
+#: ../../themes/qgis-theme/getinvolved_index.html:173
+msgid "Sustaining memberships:"
+msgstr "Palaikančios narystės:"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:155
+#: ../../themes/qgis-theme/getinvolved_index.html:173
 msgid " annual commitments of funds to the project"
 msgstr "kasmetiniai finansiniai indėliai į projektą"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:155
-msgid "more information and a list of our sponsors"
-msgstr "daugiau informacijos ir mūsų rėmėjų sąrašas"
+#: ../../themes/qgis-theme/getinvolved_index.html:173
+msgid "more information and a list of our sustaining members"
+msgstr "daugiau informacijos ir mūsų palaikančių narių sąrašas"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:156
-msgid "donations:"
-msgstr "paramą:"
+#: ../../themes/qgis-theme/getinvolved_index.html:174
+msgid "Donations:"
+msgstr ""
 
-#: ../../themes/qgis-theme/getinvolved_index.html:156
+#: ../../themes/qgis-theme/getinvolved_index.html:174
 msgid " one-time financial contributions to the project"
 msgstr "vienkartiniai finansiniai indėliai į projektą"
 
-#: ../../themes/qgis-theme/getinvolved_index.html:156
+#: ../../themes/qgis-theme/getinvolved_index.html:174
 msgid "donations via a variety of channels"
 msgstr "parama per įvairius kanalus"
-
-#: ../../themes/qgis-theme/page.html:40
-msgid ""
-"If not stated otherwise, all content is licensed under <a "
-"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
-"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
-msgstr "Jei neparašyta kitaip, viso turinio licencija yra <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
-
-#: ../../themes/qgis-theme/page.html:44
-msgid ""
-"Select graphics from <a href=\"http://thenounproject.com\" "
-"target=\"_blank\">The Noun Project collection</a>"
-msgstr "Parinkite grafiką iš <a href=\"http://thenounproject.com\" target=\"_blank\">The Noun Project rinkinio</a>"
-
-#: ../../themes/qgis-theme/page.html:48
-msgid " - Last updated on "
-msgstr " - paskutinį kartą atnaujinta "
-
-#: ../../themes/qgis-theme/page.html:52
-msgid "Untranslated page? Or you spot a translation error:"
-msgstr "Neišverstas puslapis? Arba radote vertimo klaidą:"
-
-#: ../../themes/qgis-theme/page.html:53 ../../themes/qgis-theme/page.html:56
-msgid "fix me"
-msgstr "pataisykite mane"
-
-#: ../../themes/qgis-theme/page.html:55
-msgid "Textual error, missing text or you know better:"
-msgstr "Tekstinė klaida, trūkstamas tekstas arba jūs žinote geriau:"
-
-#: ../../themes/qgis-theme/page.html:138
-msgid "Discover QGIS"
-msgstr "Atraskite QGIS"
-
-#: ../../themes/qgis-theme/forusers_download.html:3
-msgid "Download QGIS for your platform"
-msgstr "Atsisiųskite QGIS jūsų platformai"
-
-#: ../../themes/qgis-theme/forusers_download.html:4
-msgid "Binary packages (installers) are available from this page."
-msgstr "Dvejetainius paketus (diegiklius) rasite šiame puslapyje."
-
-#: ../../themes/qgis-theme/forusers_download.html:5
-#, python-format
-msgid "The current version is QGIS %s '%s' and was released on %s."
-msgstr "Dabartinė QGIS versija yra %s '%s' ir ji buvo išleista %s."
-
-#: ../../themes/qgis-theme/forusers_download.html:6
-#, python-format
-msgid "The long-term repositories currently offer QGIS %s '%s'."
-msgstr "Ilgalaikės QGIS laidos šiuo metu yra %s „%s“."
-
-#: ../../themes/qgis-theme/forusers_download.html:7
-msgid "QGIS is available on Windows, MacOS X, Linux and Android."
-msgstr "QGIS veikia Windows, MacOS X, Linux ir Android sistemose."
-
-#: ../../themes/qgis-theme/forusers_download.html:10
-#, python-format
-msgid ""
-"We are currently in feature freeze preceeding the release of QGIS %s. "
-"<b>Please consider testing the prereleases</b>. See "
-msgstr "Šiuo metu esame užšaldę savybes prieš QGIS %s laidą. <b>Apsvarstykite išankstinių laidų testavimą</b>. Žiūrėkite "
-
-#: ../../themes/qgis-theme/forusers_download.html:11
-msgid "road map"
-msgstr "planas"
-
-#: ../../themes/qgis-theme/forusers_download.html:19
-msgid "Installation Downloads"
-msgstr "Diegiklių atsisiuntimai"
-
-#: ../../themes/qgis-theme/forusers_download.html:20
-msgid "All Releases"
-msgstr "Visos laidos"
-
-#: ../../themes/qgis-theme/forusers_download.html:21
-msgid "Sources"
-msgstr "Išeities kodai"
-
-#: ../../themes/qgis-theme/forusers_download.html:34
-msgid "Download for Windows"
-msgstr "Atsisiųsti skirtą Windows"
-
-#: ../../themes/qgis-theme/forusers_download.html:40
-msgid "QGIS in OSGeo4W:"
-msgstr "QGIS OSGeo4W:"
-
-#: ../../themes/qgis-theme/forusers_download.html:45
-msgid "OSGeo4W Network Installer (64 bit)"
-msgstr "OSGeo4W tinklo diegiklis (64 bitų)"
-
-#: ../../themes/qgis-theme/forusers_download.html:52
-msgid "OSGeo4W Network Installer (32 bit)"
-msgstr "OSGeo4W tinklo diegiklis (32 bitų)"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "In the installer choose "
-msgstr "Diegiklyje parinkite "
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "Desktop Express Install"
-msgstr "Darbastalio greitas diegimas"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "and select"
-msgstr "ir parinkite"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "to install the <em>latest release</em>."
-msgstr "kad įdiegtumėte <em>paskutinę versiją</em>."
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-msgid ""
-"To get the <em>long term release</em> (that is not also the latest release) "
-"choose "
-msgstr "Norėdami gauti <em>ilgalaikę laidą</em> (kuri nėra paskutinė laida) pasirinkite"
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "Advanced Install"
-msgstr "Pažangus diegimas"
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "and select "
-msgstr "ir parinkite"
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-msgid "qgis-ltr-full"
-msgstr "qgis-ltr-full"
-
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "To get the <em>bleeding-edge development build</em> choose "
-msgstr "Norėdami gauti <em>pačią paskutinę kuriamą versiją</em>, pasirinkite"
-
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "qgis-dev-full"
-msgstr "qgis-dev-full"
-
-#: ../../themes/qgis-theme/forusers_download.html:61
-msgid "Standalone installers from OSGeo4W packages"
-msgstr "Atskiri diegikliai iš OSGeo4W paketų"
-
-#: ../../themes/qgis-theme/forusers_download.html:62
-#: ../../themes/qgis-theme/forusers_download.html:133
-msgid "Latest release (richest on features):"
-msgstr "Paskutinė laida (daugiausia savybių):"
-
-#: ../../themes/qgis-theme/forusers_download.html:67
-#: ../../themes/qgis-theme/forusers_download.html:96
-#, python-format
-msgid "QGIS Standalone Installer Version %s (64 bit)"
-msgstr "QGIS %s versijos atskiras diegimas (64 bitų)"
-
-#: ../../themes/qgis-theme/forusers_download.html:81
-#: ../../themes/qgis-theme/forusers_download.html:110
-#, python-format
-msgid "QGIS Standalone Installer Version %s (32 bit)"
-msgstr "QGIS %s versijos atskiras diegimas (32 bitų)"
-
-#: ../../themes/qgis-theme/forusers_download.html:91
-msgid "Long term release repository (most stable):"
-msgstr "Ilgalaikė laida (stabiliausia):"
-
-#: ../../themes/qgis-theme/forusers_download.html:128
-msgid "Download for Mac OS X"
-msgstr "Atsisiųsti skirtą Mac OS X"
-
-#: ../../themes/qgis-theme/forusers_download.html:134
-msgid "Mac Installer Package for macOS Yosemite (10.10) and newer."
-msgstr "Mac diegimo paketas skirtas macOS Yosemite (10.10) ir naujesniems:"
-
-#: ../../themes/qgis-theme/forusers_download.html:135
-msgid ""
-"Installation instructions are in the Read Me on the disk image. This package"
-" uses the <a href=\"http://www.python.org/\" class=\"reference "
-"external\">python.org Python 3.6</a> - other distributions are not "
-"supported. Install packages in the numbered order."
-msgstr "Diegimo instrukcijas rasite „Read Me“ failuose disko atvaizde. Šis paketas naudoja <a href=\"http://www.python.org/\" class=\"reference external\">python.org Python 3.6</a> - kitos versijos nepalaikomos. Įdiekite paketus nurodyta tvarka."
-
-#: ../../themes/qgis-theme/forusers_download.html:140
-#, python-format
-msgid "QGIS macOS Installer Version %s"
-msgstr "QGIS macOS diegiklio versija %s"
-
-#: ../../themes/qgis-theme/forusers_download.html:143
-msgid "Long term release (most stable):"
-msgstr "Ilgalaikė laida (stabiliausia):"
-
-#: ../../themes/qgis-theme/forusers_download.html:144
-msgid "Mac Installer Package for OS X Mountain Lion (10.8) and newer."
-msgstr "Mac diegimo paketai skirti OS X Mountain Lion (10.8) ir naujesnėms."
-
-#: ../../themes/qgis-theme/forusers_download.html:145
-msgid ""
-"Installation instructions are in the Read Me on the disk image. This package"
-" uses the system Python 2.7 - other distributions are not supported. It also"
-" requires the NumPy and Matplotlib packages on the disk image. Install "
-"packages in the numbered order. If an older major version is being upgraded "
-"(2.16 or older), delete QGIS.app from your Applications folder before "
-"installing this version."
-msgstr "Diegimo instrukcijas rasite „Read Me“ faile disko atvaizde. Šis paketas naudoja Python 2.7 - kitos versijos nepalaikomos. Jam taip pat reikia NumPy ir Matplotlib paketų disko atvaizde. Paketus įdiekite nurodyta tvarka. Jei atnaujinate senesnę pagrindinę versiją (2.16 ar vėlesnę), ištrinkite QGIS.app iš jūsų Aplikacijų aplanką prieš diegdami šią versiją."
-
-#: ../../themes/qgis-theme/forusers_download.html:150
-#, python-format
-msgid "QGIS OS X Installer Version %s"
-msgstr "QGIS OS X diegiklio versija %s"
-
-#: ../../themes/qgis-theme/forusers_download.html:160
-msgid "Download for Linux"
-msgstr "Atsisiųsti skirtą Linux"
-
-#: ../../themes/qgis-theme/forusers_download.html:165
-msgid ""
-"For many flavors of GNU/Linux binary packages (rpm and deb) or software "
-"repositories (to add to your installation manager) are available. Please "
-"select your choice of distro below:"
-msgstr "Daugumai GNU/Linux rūšių yra sukurti dvejetainiai paketai (rpm ir deb) arba yra programinės įrangos repozitorijos (kurias galima pridėti prie jūsų diegimo valdymo). Prašome žemiau pasirinkti savo distribuciją:"
-
-#: ../../themes/qgis-theme/forusers_download.html:167
-msgid "Debian/Ubuntu"
-msgstr "Debian/Ubuntu"
-
-#: ../../themes/qgis-theme/forusers_download.html:168
-msgid "Fedora"
-msgstr "Fedora"
-
-#: ../../themes/qgis-theme/forusers_download.html:169
-msgid "openSUSE"
-msgstr "openSUSE"
-
-#: ../../themes/qgis-theme/forusers_download.html:170
-msgid "RHEL, CentOS, Scientific Linux, ..."
-msgstr "RHEL, CentOS, Scientific Linux, ..."
-
-#: ../../themes/qgis-theme/forusers_download.html:171
-msgid "Mandriva"
-msgstr "Mandriva"
-
-#: ../../themes/qgis-theme/forusers_download.html:172
-msgid "Slackware"
-msgstr "Slackware"
-
-#: ../../themes/qgis-theme/forusers_download.html:173
-msgid "ArchLinux"
-msgstr "ArchLinux"
-
-#: ../../themes/qgis-theme/forusers_download.html:175
-msgid "Linux Installation Instructions"
-msgstr "Linux diegimo instrukcijos"
-
-#: ../../themes/qgis-theme/forusers_download.html:183
-msgid "Download for BSD"
-msgstr "Atsisiųsti skirtą BSD"
-
-#: ../../themes/qgis-theme/forusers_download.html:188
-msgid "BSD Installation Instructions"
-msgstr "BSD diegimo instrukcijos"
-
-#: ../../themes/qgis-theme/forusers_download.html:196
-msgid "Download for Android"
-msgstr "Atsisiųsti skirtą Android"
-
-#: ../../themes/qgis-theme/forusers_download.html:201
-msgid "An experimental release can be found in the "
-msgstr "Eksperimentinę laidą rasite"
-
-#: ../../themes/qgis-theme/forusers_download.html:208
-#: ../../themes/qgis-theme/forusers_download.html:210
-msgid "All downloads"
-msgstr "Visi atsisiuntimai"
-
-#: ../../themes/qgis-theme/forusers_download.html:210
-msgid ""
-"More specific instructions about downloading QGIS stable vs QGIS development"
-" can be found in"
-msgstr "Detalesnę informaciją apie tai, kaip atsisiųsti stabilią QGIS versiją lyginant su QGIS vystymo versija rasite"
-
-#: ../../themes/qgis-theme/forusers_download.html:213
-msgid "Datasets"
-msgstr "Duomenų rinkiniai"
-
-#: ../../themes/qgis-theme/forusers_download.html:214
-msgid "For testing and learning purposes, a "
-msgstr "Bandymo ir mokymo tikslams,"
-
-#: ../../themes/qgis-theme/forusers_download.html:214
-msgid "sample dataset is available"
-msgstr "naudokite pavyzdinį duomenų rinkinį"
-
-#: ../../themes/qgis-theme/forusers_download.html:214
-msgid ""
-"which contains collections of data from different sources and in different "
-"formats."
-msgstr "kuriame rasite skirtingų šaltinių ir skirtingų formatų duomenų rinkinių."
-
-#: ../../themes/qgis-theme/forusers_download.html:220
-msgid "Older releases of QGIS are available"
-msgstr "Senesnes QGIS versijas rasite"
-
-#: ../../themes/qgis-theme/forusers_download.html:220
-#: ../../themes/qgis-theme/forusers_download.html:221
-#: ../../themes/qgis-theme/forusers_download.html:230
-#: ../../themes/qgis-theme/forusers_download.html:231
-#: ../../themes/qgis-theme/forusers_download.html:232
-msgid "here"
-msgstr "čia"
-
-#: ../../themes/qgis-theme/forusers_download.html:220
-msgid "More older releases for OS X are available"
-msgstr "Yra ir daugiau senesnių OS X diegiklio versijų."
-
-#: ../../themes/qgis-theme/forusers_download.html:221
-#: ../../themes/qgis-theme/forusers_download.html:232
-msgid "Plugins for QGIS are also available "
-msgstr "QGIS priedai taipogi prieinami"
-
-#: ../../themes/qgis-theme/forusers_download.html:226
-msgid "QGIS is open source software available under the terms of the"
-msgstr "QGIS yra atviro kodo programinė įranga, kuri naudojama pagal"
-
-#: ../../themes/qgis-theme/forusers_download.html:226
-msgid "GNU General Public License"
-msgstr "GNU bendrą viešą licenciją"
-
-#: ../../themes/qgis-theme/forusers_download.html:226
-msgid ""
-"meaning that its source code can be downloaded through tarballs or the git "
-"repository."
-msgstr "tai reiškia, kad išeities kodą galima atsisiųsti iš archyvų arba iš git repozitorijos."
-
-#: ../../themes/qgis-theme/forusers_download.html:227
-msgid "QGIS Source Code is available "
-msgstr "QGIS išeities kodą rasite"
-
-#: ../../themes/qgis-theme/forusers_download.html:228
-msgid "here (latest release)"
-msgstr "čia (paskutinė laida)"
-
-#: ../../themes/qgis-theme/forusers_download.html:229
-msgid "here (long term release)"
-msgstr "čia (ilgalaikė laida)"
-
-#: ../../themes/qgis-theme/forusers_download.html:230
-msgid ""
-"Refer to the INSTALL guide on how to compile QGIS from source for the "
-"different platforms:"
-msgstr "Diegimo vadove rasite informaciją, kaip sukompiliuoti QGIS iš išeities kodo skirtingoms platformoms:"
-
-#: ../../themes/qgis-theme/forusers_download.html:231
-msgid ""
-"Note that you can also install the development version (nightly) via an "
-"installer from the normal downloads for your platform:"
-msgstr "Atkreipkite dėmesį, kad taipogi galite įdiegti vystymo versiją (kasnaktinę) naudodami diegiklį iš įprastų savo platformos atsisiuntimų:"
 
 #~ msgid "QGIS 2.16 Released"
 #~ msgstr ""
@@ -2107,4 +2262,218 @@ msgstr "Atkreipkite dėmesį, kad taipogi galite įdiegti vystymo versiją (kasn
 #~ msgstr ""
 
 #~ msgid "in feature freeze since"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can use Paypal to donate using your own credit card. \n"
+#~ "                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
+#~ "                    or sign-up for one if you are paying by credit card."
+#~ msgstr ""
+
+#~ msgid "Chinese (China)"
+#~ msgstr ""
+
+#~ msgid "New major release!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installation instructions are in the Read Me on the disk image. This package"
+#~ " uses the <a href=\"http://www.python.org/\" class=\"reference "
+#~ "external\">python.org Python 3.6</a> - other distributions are not "
+#~ "supported. Install packages in the numbered order."
+#~ msgstr ""
+
+#~ msgid "Mac Installer Package for macOS Yosemite (10.10) and newer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installation instructions are in the Read Me on the disk image. This package"
+#~ " uses the <a href=\"http://www.python.org/\" class=\"reference "
+#~ "external\">python.org Python 3.6</a>, at least version 3.6.5, the "
+#~ "\"macosx10.9\" build - other distributions are not supported. Install "
+#~ "packages in the numbered order."
+#~ msgstr ""
+
+#~ msgid "New release: 3.2!"
+#~ msgstr ""
+
+#~ msgid "Join the FOSS4G community!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Workshops, talks, code sprints, and community events are waiting for you at"
+#~ msgstr ""
+
+#~ msgid "FOSS4G 2018 in Dar!"
+#~ msgstr ""
+
+#~ msgid "New release: 3.4!"
+#~ msgstr ""
+
+#~ msgid "21st Developer meeting"
+#~ msgstr ""
+
+#~ msgid "Come along"
+#~ msgstr ""
+
+#~ msgid "to Zanzibar"
+#~ msgstr ""
+
+#~ msgid "QGIS 2.18"
+#~ msgstr ""
+
+#~ msgid "QGIS testing (3.x)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We are still updating (not translating yet) the documentation for releases "
+#~ "newer than QGIS 2.18. We call this version 'QGIS testing' and can be found "
+#~ "here: "
+#~ msgstr ""
+
+#~ msgid "Mac Installer Package for macOS El Capitan (10.11) and newer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installation instructions are in the Read Me on the disk image. This package"
+#~ " uses the <a href=\"http://www.python.org/\" class=\"reference "
+#~ "external\">python.org Python 3.6</a>, version 3.6, the \"macosx10.9\" build "
+#~ "- other distributions are not supported. Install packages in the numbered "
+#~ "order."
+#~ msgstr ""
+
+#~ msgid "Mac Installer Package for OS X Mountain Lion (10.8) and newer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installation instructions are in the Read Me on the disk image. This package"
+#~ " uses the system Python 2.7 - other distributions are not supported. It also"
+#~ " requires the NumPy and Matplotlib packages on the disk image. Install "
+#~ "packages in the numbered order. If an older major version is being upgraded "
+#~ "(2.16 or older), delete QGIS.app from your Applications folder before "
+#~ "installing this version."
+#~ msgstr ""
+
+#~ msgid "QGIS OS X Installer Version %s"
+#~ msgstr ""
+
+#~ msgid "New release: 3.6!"
+#~ msgstr ""
+
+#~ msgid "Python (iface) Api documentation"
+#~ msgstr ""
+
+#~ msgid "PyQGIS Python Api documentation"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You will find documentation for every QGIS release on the respective "
+#~ "documentation website."
+#~ msgstr ""
+
+#~ msgid "Get involved and help us to write a better documentation"
+#~ msgstr ""
+
+#~ msgid "Older releases of QGIS are available"
+#~ msgstr ""
+
+#~ msgid "More older releases for OS X are available"
+#~ msgstr ""
+
+#~ msgid "New release: 3.8!"
+#~ msgstr ""
+
+#~ msgid "QGIS is available on Windows, MacOS X, Linux and Android."
+#~ msgstr ""
+
+#~ msgid "Download for Mac OS X"
+#~ msgstr ""
+
+#~ msgid "sponsorships:"
+#~ msgstr ""
+
+#~ msgid "more information and a list of our sponsors"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We welcome financial contributions in the form of sponsoring and funding."
+#~ msgstr ""
+
+#~ msgid "New release: 3.10!"
+#~ msgstr ""
+
+#~ msgid "22st Developer meeting"
+#~ msgstr ""
+
+#~ msgid "A Coruña, Spain"
+#~ msgstr ""
+
+#~ msgid "Sponsors"
+#~ msgstr ""
+
+#~ msgid "Download for Android"
+#~ msgstr ""
+
+#~ msgid "An experimental release can be found in the "
+#~ msgstr ""
+
+#~ msgid ""
+#~ "An old and deprecated not touch optimised release of QGIS for Android can be"
+#~ " found in the Play Store "
+#~ msgstr ""
+
+#~ msgid "QGIS testing (>3.4)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We are still updating (not translating yet) the documentation for releases "
+#~ "newer than QGIS 3.4. We call this version 'QGIS testing' and can be found "
+#~ "here: "
+#~ msgstr ""
+
+#~ msgid "for your Operating System!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Create, edit, visualise, analyse and publish geospatial\n"
+#~ "            information on Windows, Mac, Linux, BSD (Android coming soon)"
+#~ msgstr ""
+
+#~ msgid "New release: 3.12!"
+#~ msgstr ""
+
+#~ msgid "24th Developer meeting"
+#~ msgstr ""
+
+#~ msgid "Come along to"
+#~ msgstr ""
+
+#~ msgid "'s-Hertogenbosch, The Netherlands"
+#~ msgstr ""
+
+#~ msgid "to find out more about QGIS!"
+#~ msgstr ""
+
+#~ msgid "donations:"
+#~ msgstr ""
+
+#~ msgid "http://docs.qgis.org/testing"
+#~ msgstr ""
+
+#~ msgid "User guide/Manual"
+#~ msgstr ""
+
+#~ msgid "http://docs.qgis.org/testing/pdf"
+#~ msgstr ""
+
+#~ msgid "qgis-dev-full"
+#~ msgstr ""
+
+#~ msgid "See the latest features in the visual changelog"
+#~ msgstr ""
+
+#~ msgid "New release: 3.14!"
+#~ msgstr ""
+
+#~ msgid "Latest Blog Posts (planet.qgis.org)"
 #~ msgstr ""

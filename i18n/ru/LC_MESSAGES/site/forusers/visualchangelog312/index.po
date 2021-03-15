@@ -9,6 +9,7 @@
 # Jürgen E. Fischer <jef@norbit.de>, 2020
 # Marina <pavlova.marina.v@gmail.com>, 2020
 # Evs Yur <evsyur@gmail.com>, 2020
+# Aleksander Petrov <felispimeja+transifex.com@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -17,7 +18,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-10 10:41+0200\n"
 "PO-Revision-Date: 2020-03-13 10:11+0000\n"
-"Last-Translator: Evs Yur <evsyur@gmail.com>, 2020\n"
+"Last-Translator: Aleksander Petrov <felispimeja+transifex.com@gmail.com>, 2020\n"
 "Language-Team: Russian (https://www.transifex.com/qgis/teams/6144/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -98,6 +99,8 @@ msgid ""
 ":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
 "javascript loading of atom feed --> </div>`"
 msgstr ""
+":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
+"javascript loading of atom feed --> </div>`"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:19
 msgid ""
@@ -523,6 +526,8 @@ msgid ""
 "This feature was developed by `Matthias Kuhn "
 "<https://api.github.com/users/m-kuhn>`__"
 msgstr ""
+"Эта функциональность разработана `Matthias Kuhn "
+"<https://api.github.com/users/m-kuhn>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:191
 msgid "Feature: Add density-based point count for the random marker fill"
@@ -608,7 +613,7 @@ msgstr "|image17|"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:234
 msgid "Labelling"
-msgstr ""
+msgstr "Подписывание"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:237
 msgid "Feature: Allow to delete custom label position"
@@ -955,6 +960,8 @@ msgid ""
 "This feature was developed by `Martin Dobias <https://api.github.com/users"
 "/wonder-sk>`__"
 msgstr ""
+"Эта функциональность разработана `Martin Dobias "
+"<https://api.github.com/users/wonder-sk>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:393
 msgid "Print Layouts"
@@ -1109,7 +1116,7 @@ msgstr "|image34|"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:473
 msgid "Feature: New expressions"
-msgstr ""
+msgstr "Новые выражения"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:475
 msgid ""
@@ -1203,6 +1210,8 @@ msgid ""
 "This feature was developed by `Alessandro Pasotti "
 "<https://api.github.com/users/elpaso>`__"
 msgstr ""
+"Эта функциональность разработана `Alessandro Pasotti "
+"<https://api.github.com/users/elpaso>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:509
 msgid "Feature: List referenced layer values in Expression Builder"
@@ -1490,6 +1499,8 @@ msgid ""
 "This feature was developed by `Matthias Kuhn (OPENGIS.ch) "
 "<https://www.opengis.ch>`__"
 msgstr ""
+"Эта функциональность разработана `Matthias Kuhn (OPENGIS.ch) "
+"<https://www.opengis.ch>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:648
 msgid "Forms and Widgets"
@@ -1861,7 +1872,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:837
 msgid "|image56|"
-msgstr ""
+msgstr "|image56|"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:842
 msgid "Feature: Add new algorithm \"Detect Dataset Changes\""
@@ -1915,7 +1926,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:860
 msgid "|image57|"
-msgstr ""
+msgstr "|image57|"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:865
 msgid ""
@@ -1932,7 +1943,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:869
 msgid "|image58|"
-msgstr ""
+msgstr "|image58|"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:871
 msgid "This feature was funded by SMEC/SJ"
@@ -1972,7 +1983,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:886
 msgid "|image59|"
-msgstr ""
+msgstr "|Рисунок 59|"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:891
 msgid "Feature: add gdal\\_viewshed algorithm"
@@ -2006,7 +2017,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:905
 msgid "|image60|"
-msgstr ""
+msgstr "|Рисунок 60|"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:907
 msgid ""
@@ -2026,7 +2037,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:916
 msgid "|image61|"
-msgstr ""
+msgstr "|Рисунок 61|"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:921
 msgid "Feature: Show \"Open Document...\" action in browser"
@@ -2051,7 +2062,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:929
 msgid "|image62|"
-msgstr ""
+msgstr "|Рисунок 62|"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:934
 msgid "Feature: Allow customization of the items shown in browser"
@@ -2078,6 +2089,8 @@ msgid ""
 "This feature was developed by `Peter Petrik "
 "<https://api.github.com/users/PeterPetrik>`__"
 msgstr ""
+"Эта функциональность разработана `Peter Petrik "
+"<https://api.github.com/users/PeterPetrik>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:945
 msgid "Feature: Add Refresh action to OGC services"
@@ -2151,7 +2164,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:995
 msgid "|image67|"
-msgstr ""
+msgstr "|Рисунок 67|"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1002
 msgid "Feature: Fix numerous shapefile encoding issues"
@@ -2393,7 +2406,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1095
 msgid "|image70|"
-msgstr ""
+msgstr "|Рисунок 70|"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1097
 msgid "This feature was funded by `Planet <https://planet.com>`__"
@@ -2482,7 +2495,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1157
 msgid "|image72|"
-msgstr ""
+msgstr "|Рисунок 72|"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1159
 msgid "will produce the following with FORMAT=application/json"
@@ -2520,7 +2533,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1179
 msgid "Notable Fixes"
-msgstr ""
+msgstr "Значительные исправления"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1182
 msgid "Feature: Bug fixes by Stephen Knox"
@@ -2539,7 +2552,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1477
 #: ../../source/site/forusers/visualchangelog312/index.rst:1502
 msgid "Bug Title"
-msgstr ""
+msgstr "Название ошибки"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1185
 msgid "URL issues (if reported)"
@@ -2567,7 +2580,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1193
 msgid "Feature: Bug fixes by Alessandro Pasotti"
-msgstr ""
+msgstr "Исправления ошибок от Alessandro Pasotti"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1196
 #: ../../source/site/forusers/visualchangelog312/index.rst:1267
@@ -2581,7 +2594,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1477
 #: ../../source/site/forusers/visualchangelog312/index.rst:1502
 msgid "URL issues.qgis.org (if reported)"
-msgstr ""
+msgstr "URL адрес на issues.qgis.org (если было сообщено)"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1196
 #: ../../source/site/forusers/visualchangelog312/index.rst:1267
@@ -2595,7 +2608,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1477
 #: ../../source/site/forusers/visualchangelog312/index.rst:1502
 msgid "URL Commit (Github)"
-msgstr ""
+msgstr "URL адрес Коммита (Github)"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1196
 #: ../../source/site/forusers/visualchangelog312/index.rst:1267
@@ -2609,7 +2622,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1477
 #: ../../source/site/forusers/visualchangelog312/index.rst:1502
 msgid "3.10 backport commit (GitHub)"
-msgstr ""
+msgstr "Коммит обратного порта для 3.10  (GitHub)"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1198
 msgid ""
@@ -2619,7 +2632,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1198
 msgid "`#33791 <https://github.com/qgis/QGIS/issues/33791>`__"
-msgstr ""
+msgstr "`#33791 <https://github.com/qgis/QGIS/issues/33791>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1198
 #: ../../source/site/forusers/visualchangelog312/index.rst:1204
@@ -2653,7 +2666,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1466
 #: ../../source/site/forusers/visualchangelog312/index.rst:1491
 msgid "unreported"
-msgstr ""
+msgstr "не зарегистрировано"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1202
 msgid "`PR #33926 <https://github.com/qgis/QGIS/pull/33926>`__"
@@ -2695,10 +2708,12 @@ msgid ""
 "Can't set min/max values to decimal in raster symbology with QGis Linux "
 "versions"
 msgstr ""
+"Невозможно установить минимальные/максимальные значения в десятичных для "
+"растровой символики в версиях QGis Linux"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1208
 msgid "`#33859 <https://github.com/qgis/QGIS/issues/33859>`__"
-msgstr ""
+msgstr "`#33859 <https://github.com/qgis/QGIS/issues/33859>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1208
 #: ../../source/site/forusers/visualchangelog312/index.rst:1216
@@ -3078,6 +3093,8 @@ msgid ""
 "This feature was funded by `QGIS.ORG (through donations and sustaining "
 "memberships) <https://www.qgis.org/>`__"
 msgstr ""
+"Эта функциональность проспонсирована `QGIS.ORG (через пожертвования и помощь"
+" постоянных членов) <https://www.qgis.org/>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1261
 msgid ""
@@ -3360,7 +3377,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1333
 msgid "Feature: Bug fixes by Paul Blottiere"
-msgstr ""
+msgstr "Исправление ошибок - Paul Blottiere"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1338
 msgid "Fixes compilation on Archlinux"
@@ -3404,10 +3421,11 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1342
 msgid "Auxiliary storage not usable in non editable layer"
 msgstr ""
+"Вспомогательное хранилище невозможно использовать в нередактируемом слое"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1342
 msgid "`#30376 <https://github.com/qgis/QGIS/issues/30376>`__"
-msgstr ""
+msgstr "`#30376 <https://github.com/qgis/QGIS/issues/30376>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1342
 msgid "Feedback (works on master and 3.10)"
@@ -3472,10 +3490,12 @@ msgid ""
 "This feature was developed by `Paul Blottiere <https://hytech-"
 "imaging.fr/>`__"
 msgstr ""
+"Эта функциональность разработана `Paul Blottiere <https://hytech-"
+"imaging.fr/>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1358
 msgid "Feature: Bug fixes by Denis Rouzaud"
-msgstr ""
+msgstr "Исправления ошибок от Denis Rouzaud"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1363
 msgid "Crash with relations"
@@ -3566,6 +3586,7 @@ msgstr ""
 msgid ""
 "This feature was developed by `Denis Rouzaud <https://www.opengis.ch/>`__"
 msgstr ""
+"Эта функциональность разработана `Denis Rouzaud <https://www.opengis.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1383
 msgid "Feature: Bug fixes by Julien Cabieces"
@@ -3729,15 +3750,19 @@ msgid ""
 "This feature was developed by `Julien Cabieces "
 "<https://www.oslandia.com/>`__"
 msgstr ""
+"Эта функциональность разработана `Julien Cabieces "
+"<https://www.oslandia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1412
 msgid "Feature: Bug fixes by Bertrand Rix"
-msgstr ""
+msgstr "Исправления ошибок от Bertrand Rix"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1438
 msgid ""
 "This feature was developed by `Bertrand Rix <https://www.oslandia.com/>`__"
 msgstr ""
+"Эта функциональность разработана `Bertrand Rix "
+"<https://www.oslandia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1441
 msgid "Feature: Bug fixes by Loïc Bartoletti"
@@ -3909,10 +3934,12 @@ msgid ""
 "This feature was developed by `Loïc Bartoletti "
 "<https://www.oslandia.com/>`__"
 msgstr ""
+"Эта функциональность разработана `Loïc Bartoletti "
+"<https://www.oslandia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1474
 msgid "Feature: Bug fixes by Sebastien Peillet"
-msgstr ""
+msgstr "Исправления ошибок от Sebastien Peillet"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1479
 msgid "Extend line does not work in compoundCurvedZ layer"
@@ -3978,14 +4005,16 @@ msgid ""
 "Oracle : tables are listed once for Polygons and once for MultiPolygons but "
 "both show all geometries"
 msgstr ""
+"Oracle: таблицы перечислены один раз для полигонов и один раз для "
+"мультиполигонов, но обе показывают всю геометрию"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1489
 msgid "`#32521 <https://github.com/qgis/QGIS/issues/32521>`__"
-msgstr ""
+msgstr "`#32521 <https://github.com/qgis/QGIS/issues/32521>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1489
 msgid "`PR #34358 <https://github.com/qgis/QGIS/pull/34358>`__"
-msgstr ""
+msgstr "`PR #34358 <https://github.com/qgis/QGIS/pull/34358>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1491
 msgid "BUG: fix invalid layer result when Oracle version is under 12"
@@ -4000,6 +4029,8 @@ msgid ""
 "This feature was developed by `Sebastien Peillet "
 "<https://www.oslandia.com/>`__"
 msgstr ""
+"Эта функциональность разработана `Sebastien Peillet "
+"<https://www.oslandia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1499
 msgid "Feature: Bug fixes by Nyall Dawson"

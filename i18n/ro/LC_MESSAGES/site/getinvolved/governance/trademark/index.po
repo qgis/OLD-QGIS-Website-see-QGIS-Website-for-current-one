@@ -1,13 +1,13 @@
 # 
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2016
-# Sorin Călinică <scalinica@gmail.com>, 2014,2016,2018-2019
+# Sorin Călinică <scalinica@gmail.com>, 2014,2016,2018-2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-19 17:16+0100\n"
-"PO-Revision-Date: 2019-03-18 06:53+0000\n"
+"PO-Revision-Date: 2020-06-05 07:30+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -178,7 +178,7 @@ msgid ""
 " not you apply to register your trademark with a government. When developing"
 " and advertising QGIS-based products, we ask you to follow the following "
 "guidelines:"
-msgstr ""
+msgstr "**Numele Produselor**: Dacă aveți de gând să comercializați un produs bazat pe QGIS, sau să oferiți un serviciu public folosind o marcă comercială care include cuvântul \"QGIS\", cum ar fi \"CompaniaDvs QGIS\", atunci vi se cere să solicitați și să obțineți o permisiune de la Comitetul de Coordonare a Proiectului QGIS (QGIS-PSC). Acest lucru este valabil chiar dacă încercați sau nu să înregistrați propria marcă la o agenție guvernamentală. Atunci când dezvoltați și faceți publicitate produselor bazate pe QGIS, vă rugăm să respectați următoarele indicații:"
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:57
 msgid ""
@@ -201,31 +201,31 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:63
 msgid "YourCompany QGIS"
-msgstr ""
+msgstr "CompaniaDvs QGIS"
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:64
 msgid "YourCompany Desktop/Suite powered by QGIS"
-msgstr ""
+msgstr "CompaniaDvs Suită/Desktop agrenată de QGIS"
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:65
 msgid "YourBrand powered by QGIS"
-msgstr ""
+msgstr "MarcăProprie angrenată de QGIS"
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:66
 msgid "YourBrand based on QGIS"
-msgstr ""
+msgstr "MarcăProprie bazată pe QGIS"
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:68
 msgid "**Bad product name examples include**:"
-msgstr ""
+msgstr "** Exemple de nume de produs necorespunzătoare**:"
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:70
 msgid "YourCompany GIS"
-msgstr ""
+msgstr "CompaniaDvs GIS"
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:71
 msgid "QGIS special edition"
-msgstr ""
+msgstr "QGIS ediție specială"
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:73
 msgid ""
@@ -269,7 +269,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:82
 msgid "**Exceptions**:"
-msgstr ""
+msgstr "**Excepţii**:"
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:84
 msgid "QGIS.ORG Country voting members should use ccTLD (QGIS.ch, QGIS.dk, …)"
@@ -323,30 +323,30 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:101
 msgid "**Examples of unacceptable uses**:"
-msgstr ""
+msgstr "**Exemple de utilizări inacceptabile**:"
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:104
 msgid ""
 "**Fake affiliation/endorsement**: You cannot use QGIS trademark in anyway "
 "that suggests an affiliation with or endorsement by the QGIS project or "
 "community, if the same is not true."
-msgstr ""
+msgstr "**Aprobare/Afiliere falsă**: Nu puteți utiliza marca comercială QGIS într-un mod care să sugereze o afiliere acceptată de către proiectul sau comunitatea QGIS, dacă acest lucru nu este adevărat."
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:106
 msgid ""
 "**Company names**: You cannot use QGIS trademark in a company or commercial "
 "organization name."
-msgstr ""
+msgstr "**Nume de companii**: Nu puteți utiliza marca QGIS într-un nume de companie sau de organizație comercială."
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:108
 msgid ""
 "**Confusingly similar trademarks**: You cannot use a name that is "
 "confusingly similar to QGIS trademark."
-msgstr ""
+msgstr "** Mărci comerciale confuziv similare**: Nu puteți folosi un nume care să poată fi confundat cu cel al mărcii QGIS."
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:111
 msgid "If in doubt, find out!"
-msgstr ""
+msgstr "**Dacă aveți dubii, informați-vă**"
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:113
 msgid ""
@@ -404,7 +404,7 @@ msgid ""
 "sole proprietor, profit or non-profit) selling software-related goods or "
 "services and using the word “QGIS” in the entity’s name. Do I need to apply "
 "for a permission?*"
-msgstr ""
+msgstr "**Î:** *Reprezint o entitate comercială (de exemplu, o companie, în parteneriat sau cu proprietar unic, pentru profit sau non-profit) care vinde bunuri sau servicii software și care folosește cuvântul \"QGIS\" în numele entității. Trebuie să aplic pentru o permisiune?*"
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:134
 msgid ""
@@ -418,7 +418,7 @@ msgid ""
 "or given away for free) that uses “QGIS” in its name, you still need a "
 "permission for the use of the word QGIS in the name of the products or "
 "services."
-msgstr ""
+msgstr "**R:** Folosirea cuvântului \"QGIS\" în numele entității nu este permisă deoarece folosiți QGIS ca parte a unei mărci comerciale în conexiune cu oferirea de bunuri sau servicii software. Produsele de tip software sunt programele și sistemele dedicate calculatoarelor, pachetele software combinate cu instrumente, utilitare, hardware, etc. Serviciile software sunt acele servicii care implementează, documentează, facilitează utilizarea, sau cele care extind programele și sistemele informatice dedicate calculatoarelor. Chiar dacă QGIS nu este parte din numelui entității, dar entitatea are un produs sau un serviciu care include „QGIS” în numele său (fie că este comercializat sau că este oferit gratuit), atunci  aveți nevoie de o autorizație pentru a putea utilizarea cuvântul QGIS în denumirea produselor sau serviciilor."
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:137
 msgid ""
@@ -434,7 +434,7 @@ msgid ""
 "infringement to be the responsibility of the trademark owner. QGIS is not a "
 "dispute resolution authority, and does not become involved in disputes "
 "between trademark owners."
-msgstr ""
+msgstr "**R:** Nu, QGIS nu va încerca să asigure exclusivitatea sau să protejeze mărcile împotriva încălcărilor de drepturi. QGIS consideră că protecția mărcilor cade în responsabilitatea proprietarului mărcii comerciale. QGIS nu este o autoritate de soluționare a litigiilor, și nu se va implica în disputele dintre proprietarii de mărci."
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:141
 msgid ""
@@ -451,7 +451,7 @@ msgid ""
 "other trademarks. To protect the QGIS mark from dilution, we do not consent "
 "to the registration of trademarks found to be confusingly similar to the "
 "QGIS mark."
-msgstr ""
+msgstr "**R:** Nu. Permisiunea QGIS nu reprezintă un consimțământ pentru înregistrarea mărcilor comerciale. Pentru a proteja marca QGIS împotriva diluării, nu suntem de acord cu înregistrarea de mărci care se pot confunda până la similitudine cu marca QGIS."
 
 #~ msgid ""
 #~ "Please routinely explain in your course that QGIS is free and open source "

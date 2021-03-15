@@ -75,14 +75,14 @@ msgid ""
 " fund bug fixing efforts. A complete list of current sponsors is provided "
 "below - our very great thank you to all of our sponsors!"
 msgstr ""
-"QGIS este susținut prin donații și sponsorizări. Listă curentă a donatorilor"
-" care au efectuat contribuții financiare mari și mici la proiect poate fi "
+"QGIS este susținut prin donații și sponsorizări. Listă curentă a celor care "
+"au efectuat contribuții financiare mari și mici la proiect poate fi "
 "consultată în lista donațiilor. Dacă doriți să sponsorizați în mod oficial "
 "proiectul, vă rugăm să vizitați, pentru detalii, pagina sponsorizărilor. "
 "Sponsorizările QGIS ne ajută să finanțăm întâlnirea dezvoltatorilor o dată "
 "la șase luni, să menținem infrastructura proiectului și să finanțăm "
 "eforturile de eliminare a erorilor. În continuare este prezentată lista "
-"completă a sponsorilor actuali - cărora le transmitem mulțumirile noastre!"
+"completă a sponsorilor actuali - acestora le transmitem mulțumirile noastre!"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:17
 msgid ""
@@ -108,11 +108,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:25
 msgid "Map Tools"
-msgstr "Instrumente Pentru Hartă"
+msgstr "Instrumente De Cartografiere"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:28
 msgid "Feature: Title label decoration"
-msgstr "Caracteristică: Etichetă decorativă pentru titlu"
+msgstr "Funcționalitate: Etichetă decorativă pentru titlu"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:30
 msgid ""
@@ -143,7 +143,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:37
 msgid "Feature: Top/bottom centering placement for decoration items"
 msgstr ""
-"Caracteristică: Centrarea elementelor decorative în zona "
+"Funcționalitate: Centrarea elementelor decorative în zona "
 "superioară/inferioară"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:39
@@ -156,7 +156,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:44
 msgid "Feature: Vertex tool fixes and improvements"
-msgstr "Caracteristică: Corecții și îmbunătățiri aduse instrumentului Vertex"
+msgstr "Funcționalitate: Corecții și îmbunătățiri aduse instrumentului Vertex"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:46
 msgid ""
@@ -526,6 +526,8 @@ msgstr ""
 msgid ""
 "This feature was developed by `Nyall Dawson () <https://north-road.com>`__"
 msgstr ""
+"Această funcționalitate a fost dezvoltată de `Nyall Dawson () <https"
+"://north-road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:188
 msgid "Symbology"
@@ -1034,6 +1036,8 @@ msgid ""
 "When exporting print layouts, QGIS now automatically checks the layout for "
 "common mistakes and warns users when they are found:"
 msgstr ""
+"La exportarea machetelor imprimabile, identifică automat unele greșeli "
+"comune, caz în care îi avertizează pe utilizatori:"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:403
 msgid "Scalebars not linked to a map item"
@@ -1087,11 +1091,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:426
 msgid "@legend\\_wrap\\_string"
-msgstr ""
+msgstr "@legend\\_wrap\\_string"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:427
 msgid "@legend\\_filter\\_by\\_map"
-msgstr ""
+msgstr "@legend\\_filter\\_by\\_map"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:428
 msgid "@legend\\_filter\\_out\\_atlas"
@@ -1469,6 +1473,8 @@ msgid ""
 "This feature was funded by `Nyall Dawson (North Road) <https://north-"
 "road.com>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `Nyall Dawson (North Road) "
+"<https://north-road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:643
 msgid "Feature: Native file/folder properties"
@@ -1486,6 +1492,8 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:647
 msgid "This feature was funded by `North Road <s://north-road.com>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `North Road <s://north-"
+"road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:652
 msgid "Feature: Preview layers and attributes"
@@ -2249,7 +2257,7 @@ msgstr "Corecții Importante"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1089
 msgid "Feature: Bug fixes by Alessandro Pasotti"
-msgstr ""
+msgstr "Funcționalitate: Remedieri efectuate de către Alessandro Pasotti"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1092
 #: ../../source/site/forusers/visualchangelog36/index.rst:1159
@@ -3283,7 +3291,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1240
 msgid "osgeo4w: fix b6293f23c8c"
-msgstr ""
+msgstr "osgeo4w: fix b6293f23c8c"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1240
 msgid "`#21210 <https://issues.qgis.org/issues/21210>`__"

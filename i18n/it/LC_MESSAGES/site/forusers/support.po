@@ -1,18 +1,20 @@
 # 
 # Translators:
+# Andrea Giudiceandrea <andreaerdna@libero.it>, 2019-2020
 # Flavio Rigolon <flavio.rigolon@gmail.com>, 2014
 # Ivano Giuliano <ivano.giuliano@gmail.com>, 2018
 # Luca M. <luca76@gmail.com>, 2014
 # matteo ghetta <matteo.ghetta@gmail.com>, 2013
 # Matteo Gismondi <matteo.gismondi@gmail.com>, 2013
 # Paolo Cavallini <cavallini@faunalia.it>, 2014
+# Stefano Campus <skampus@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2018-03-02 10:55+0000\n"
-"Last-Translator: Ivano Giuliano <ivano.giuliano@gmail.com>\n"
+"PO-Revision-Date: 2020-09-25 10:10+0000\n"
+"Last-Translator: Stefano Campus <skampus@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +24,7 @@ msgstr ""
 
 #: ../../source/site/forusers/support.rst:8
 msgid "Mailing Lists"
-msgstr "Mailing Lists"
+msgstr "Mailing List"
 
 #: ../../source/site/forusers/support.rst:10
 msgid ""
@@ -34,7 +36,7 @@ msgstr "QGIS ha molte mailing lists. Vedi: :ref:`QGIS-mailinglists` per i divers
 msgid ""
 "If you are going to ask questions please read this: :ref:`how-to-ask-a-QGIS-"
 "question`."
-msgstr "Se avete intenzione di fare domande si prega di leggere il link seguente : :ref:`how-to-ask-a-QGIS-question`."
+msgstr "Se hai intenzione di porre delle domande, leggi le informazioni presenti nella pagina: :ref:`how-to-ask-a-QGIS-question`."
 
 #: ../../source/site/forusers/support.rst:35
 msgid "Chat"
@@ -64,7 +66,7 @@ msgstr "Supporto Commerciale"
 msgid ""
 "You can also get support from companies near you, please visit this page: "
 ":ref:`QGIS-commercial_support`."
-msgstr "Puoi anche ricevere supporto da compagnie vicine a te, dai uno sguardo a questa pagina: :ref:`QGIS-commercial_support`."
+msgstr "Puoi anche ricevere supporto da aziende vicine a te, dai uno sguardo a questa pagina: :ref:`QGIS-commercial_support`."
 
 #: ../../source/site/forusers/support.rst:16
 msgid "Searchable Mailing Lists"
@@ -92,7 +94,7 @@ msgid ""
 " Google+). Usage of social media is recommended but should not be the only "
 "channel of information. RSS feeds should be made available at the Website of"
 " the QGIS user group."
-msgstr "Il sito web dovrebbe essere utilizzato per pubblicare qualsiasi materiale in relazione alle informazioni e la gestione del gruppo di utenti. Gli esempi includono le riunioni utente, caso di studio, materiale condiviso, forum di discussione, ecc materiale pubblico dovrebbe essere disponibile senza requisiti di accesso (ad esempio, non richiedono persone interessate di essere un membro di una rete di social media come Facebook o Google+). L'utilizzo di social media è consigliato ma non dovrebbe essere l'unico canale di informazione. I feed RSS dovrebbero essere resi disponibili sul sito Web del gruppo di utenti QGIS."
+msgstr "Il sito web dovrebbe essere utilizzato per pubblicare qualsiasi materiale relativo alle informazioni e alla gestione del gruppo utenti. Per esempio, le riunioni degli utenti, i casi di studio, materiale condiviso, forum di discussione, ecc. Il materiale pubblico dovrebbe essere reso disponibile senza requisiti di accesso (ad esempio, non richiedere alle persone interessate di essere un membro di un social network come Facebook o Google+). L'utilizzo dei social network è consigliato ma non dovrebbe essere l'unico canale di informazione. I feed RSS dovrebbero essere resi disponibili sul sito Web del gruppo di utenti QGIS."
 
 #: ../../source/site/forusers/support.rst:65
 msgid ""
@@ -104,7 +106,7 @@ msgstr "Buona fortuna con l'organizzazione del vostro gruppo locale degli utenti
 
 #: ../../source/site/forusers/support.rst:74
 msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
-msgstr "Se vuoi segnalare problemi o bugs vedi qui :`QGIS-bugreporting`."
+msgstr "Se vuoi segnalare problemi o bugs, vedi :ref:`QGIS-bugreporting`."
 
 #: ../../source/site/forusers/support.rst:4
 msgid "Support"
@@ -115,7 +117,7 @@ msgid ""
 "QGIS does not have a forum. Please either search in StackExchange (see "
 "below), or via http://nabble.com in the history of our Mailinglists (see "
 "above)."
-msgstr "QGIS non dispone di un forum. Fai riferimento nel caso di necessità, a StackExchange (vedi sotto) o tramite http://nabble.com nella cronologia delle  mailing list (vedi sopra)."
+msgstr "QGIS non dispone di un forum. Puoi effettuare ricerche di informazioni su StackExchange o tramite http://nabble.com nella cronologia delle mailing list (vedi sopra)."
 
 #: ../../source/site/forusers/support.rst:89
 msgid ""
@@ -128,7 +130,7 @@ msgid ""
 "On http://gis.stackexchange.com you can ask QGIS questions also. If you use "
 "the tag ``qgis`` you'll see all QGIS related questions and answers: "
 "http://gis.stackexchange.com/?tags=qgis"
-msgstr "Al link http://gis.stackexchange.com puoi effettuare ricerche avente per oggetto QGIS. Utilizza il tag  ``qgis``, in modo da visualizzare le domande e le risposte relative QGIS: http://gis.stackexchange.com/?tags=qgis"
+msgstr "Anche al link https://gis.stackexchange.com puoi porre domande su QGIS. Utilizza il tag ``qgis`` in modo da visualizzare le domande e le risposte relative a QGIS: https://gis.stackexchange.com/?tags=qgis"
 
 #: ../../source/site/forusers/support.rst:39
 msgid ""
@@ -144,14 +146,14 @@ msgstr "I gruppi QGIS del tuo paese, rappresentano il luogo ideale per incontrar
 
 #: ../../source/site/forusers/support.rst:50
 msgid "See :ref:`QGIS-usergroups` to read about it."
-msgstr "Leggi qui : ref:`QGIS-usergroups` "
+msgstr "Per maggiori informazioni, vai alla pagina dedicata ai :ref:`QGIS-usergroups`."
 
 #: ../../source/site/forusers/support.rst:20
 msgid ""
 "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
 "you see there is a QGIS section also, where you can do a search over all "
 "QGIS lists, or refine it to e.g. only the users list."
-msgstr "osgeo dispone di una sezione dedicata a QGIS : http://osgeo-org.1560.x6.nabble.com. E' possibile fare ricerche filtrate su liste specifiche che hano QGIS come argomento."
+msgstr "Nella sezione OSGeo http://osgeo-org.1560.x6.nabble.com vi è anche una sotto sezione QGIS dove è possibile fare ricerche testuali in tutte le mailing list relative a QGIS o solo su specifiche liste, per esempio la lista QGIS - User."
 
 #~ msgid ""
 #~ "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "

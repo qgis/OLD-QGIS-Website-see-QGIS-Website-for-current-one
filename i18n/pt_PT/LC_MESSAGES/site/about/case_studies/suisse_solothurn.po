@@ -1,14 +1,16 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
-# Manuela Silva <manuela.silva@sky.com>, 2018
+# Manuela Silva <manuelarodsilva@gmail.com>, 2020
+# Manuela Silva <manuelarodsilva@gmail.com>, 2018
+# Rui <xymarior@yandex.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2018-01-10 16:01+0000\n"
-"Last-Translator: Manuela Silva <manuela.silva@sky.com>\n"
+"PO-Revision-Date: 2020-07-31 15:35+0000\n"
+"Last-Translator: Manuela Silva <manuelarodsilva@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,7 +30,7 @@ msgstr "Devido ao nosso uso de SIG desktop num ambiente de servidor com Terminal
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:19
 msgid "OSGeo Project-Organisation"
-msgstr "Organização do Projecto OSGeo"
+msgstr "Organização do Projeto OSGeo"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:20
 msgid "GUI translated in German language"
@@ -40,7 +42,7 @@ msgstr "Documentação escrita em língua alemã"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:22
 msgid "An Active developer (Marco Hugentobler) near Solothurn in Switzerland."
-msgstr "Um programador activo (Marco Hugentobler) perto de Solothurn na Suíça."
+msgstr "Um programador ativo (Marco Hugentobler) perto de Solothurn na Suíça."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:23
 msgid ""
@@ -50,7 +52,7 @@ msgstr "Nós podemos contratar o  Marco Hugentobler para implementar elementos p
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:24
 msgid "Application and Plugin developement with Python"
-msgstr "Desenvolvimento da Aplicação e Módulo em Python"
+msgstr "Desenvolvimento da Aplicação e Módulo com Python"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:25
 msgid "Growing user community"
@@ -58,7 +60,7 @@ msgstr "Crescente comunidade de utilizadores"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:26
 msgid "Very active developer community"
-msgstr "Comunidade de programadores muito activa"
+msgstr "Comunidade de programadores muito ativa"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:27
 msgid "Independence from a single operating system"
@@ -70,7 +72,7 @@ msgstr "Onde usamos o QGIS"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:43
 msgid "\"SO!GIS Layer\" plugin developed at the Canton of Solothurn"
-msgstr "Módulo \"SO!GIS Layer\" desenvolvida no Cantão de Solothurn"
+msgstr "Módulo \"SO!GIS Layer\" desenvolvido no Cantão de Solothurn"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:53
 msgid "\"SO!GIS Suche\" plugin developed at the Canton of Solothurn"
@@ -94,7 +96,7 @@ msgid ""
 "support into the black box of our former software provider. Apart from using"
 " FOSSGIS, the Canton of Solothurn also provides public geodata free of "
 "charge via the SO!ONLINE web portal."
-msgstr "Hoje podemos dizer que usar o QGIS foi a decisão correcta para nós. O QGIS oferece a maioria dos recursos solicitados pelos nossos utilizadores. O cantão de Solothurn subcontrata a criação de funcionalidades que QGIS carece através de fornecedores com suporte comercial. Com p PyQgis e o PyQt existem excelentes opções para facilitar o desenvolvimento de aplicações in-house baseado no QGIS. Um grande benefício é o número ilimitado de instalações. Todos os que precisam usar o QGIS podem usá-lo sem quaisquer limitações. Para impulsionar o desenvolvimento do QGIS o cantão de Solothurn investiu aproximadamente $ 30.000 no QGIS todos os anos desde 2007. Isto é muito mais eficiente e orientado para objectivos que o pagamento do apoio numa caixa negra do nosso ex-fornecedor de software. Além de usar FOSSGIS, o cantão de Solothurn também fornece dados geográficos público gratuitamente através do Portal web SO!ONLINE."
+msgstr "Hoje podemos dizer que usar o QGIS foi a decisão correta para nós. O QGIS oferece a maioria dos recursos solicitados pelos nossos utilizadores. O cantão de Solothurn subcontrata a criação de funcionalidades que QGIS carece através de fornecedores com suporte comercial. Com p PyQgis e o PyQt existem excelentes opções para facilitar o desenvolvimento de aplicações in-house baseado no QGIS. Um grande benefício é o número ilimitado de instalações. Todos os que precisam usar o QGIS podem usá-lo sem quaisquer limitações. Para impulsionar o desenvolvimento do QGIS o cantão de Solothurn investiu aproximadamente $ 30.000 no QGIS todos os anos desde 2007. Isto é muito mais eficiente e orientado para objetivos que o pagamento do apoio numa caixa negra do nosso ex-fornecedor de software. Além de usar FOSSGIS, o cantão de Solothurn também fornece dados geográficos público gratuitamente através do Portal web SO!ONLINE."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:65
 msgid "Author"
@@ -150,7 +152,7 @@ msgid ""
 "Desktop GIS is in use by more than 50 users for their daily work. But many "
 "of them are not GIS experts. They want to visualize and/or capture "
 "geospatial data with an intuitive user interface."
-msgstr "Em contraste com os mapas interactivos do UMN MapServer, o desktop SIG oferece uma vista flexível sobre a informação geoespacial de Solothurn. O Desktop SIG QGIS está em uso em mais de 50 utilizadores para o seu trabalho diário. Mas muito deles não são especialistas SIG. Eles querem visualizar e/ou capturar informação geoespacial com uma interface de utilizador intuitiva. "
+msgstr "Em contraste com os mapas interativos do UMN MapServer, o desktop SIG oferece uma vista flexível sobre a informação geoespacial de Solothurn. O Desktop SIG QGIS está em uso em mais de 50 utilizadores para o seu trabalho diário. Mas muito deles não são especialistas SIG. Eles querem visualizar e/ou capturar informação geoespacial com uma interface de utilizador intuitiva. "
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:34
 msgid ""
@@ -179,7 +181,7 @@ msgid ""
 "find the data layers they need. With this infrastructure in place, our users"
 " are happy --- they can prepare for geoprocessing, editing and map composing"
 " in an individual way."
-msgstr "Para remover a necessidade de os utilizadores finais interagirem directamente com as conexões e diálogos de tabelas de selecção do PostGIS, um módulo foi desenvolvido em python. O módulo chama-se \"SO!GIS Layer\" (Ver Figura 1). O módulo liga-se ao repositório SO!GIS PostGIS, adquire a informação de todas as informações publicadas das camadas geoespaciais do SO!DATA e oferece ao utilizador um GUI para encontrar as camadas de informação que precisa. Com esta infraestrutura no sítio, os nossos utilizadores estão contentes - eles podem preparar-se para geoprocessamento, edição e produção de mapas numa forma individual."
+msgstr "Para remover a necessidade de os utilizadores finais interagirem diretamente com as conexões e diálogos de tabelas de seleção do PostGIS, um módulo foi desenvolvido em python. O módulo chama-se \"SO!GIS Layer\" (Ver Figura 1). O módulo liga-se ao repositório SO!GIS PostGIS, adquire a informação de todas as informações publicadas das camadas geoespaciais do SO!DATA e oferece ao utilizador um GUI para encontrar as camadas de informação que precisa. Com esta infraestrutura no sítio, os nossos utilizadores estão contentes - eles podem preparar-se para geoprocessamento, edição e produção de mapas numa forma individual."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:55
 msgid ""
@@ -196,7 +198,7 @@ msgid ""
 "development plugins cover topics  such as nature reserves, soil "
 "conservation, cadastral data verification, crisis management, abandoned "
 "sites and so on."
-msgstr "Até ao momento outros módulos estão em desenvolvimento. Este irá suportar a manipulação de dados, análises, ou mapeamento em diferentes projectos. Os nossos módulos em desenvolvimento abrangem temas como reservas naturais, conservação do solo, verificação de dados cadastrais, gestão de crises, locais abandonados e assim por diante."
+msgstr "Até ao momento outros módulos estão em desenvolvimento. Este irá suportar a manipulação de dados, análises, ou mapeamento em diferentes projetos. Os nossos módulos em desenvolvimento abrangem temas como reservas naturais, conservação do solo, verificação de dados cadastrais, gestão de crises, locais abandonados e assim por diante."
 
 #~ msgid "QGIS in the governmental FOSSGIS stack"
 #~ msgstr ""

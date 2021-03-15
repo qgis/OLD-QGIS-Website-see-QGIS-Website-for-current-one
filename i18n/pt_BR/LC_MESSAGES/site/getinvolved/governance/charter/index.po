@@ -6,6 +6,7 @@
 # Translators:
 # Dêmian Francisco Neto Castro Pereira <demian.castro.13@gmail.com>, 2020
 # Alden Nascimento <aldenln@gmail.com>, 2020
+# Aline Furlanetto Viero <afviero@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-10 10:41+0200\n"
 "PO-Revision-Date: 2020-05-10 08:48+0000\n"
-"Last-Translator: Alden Nascimento <aldenln@gmail.com>, 2020\n"
+"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>, 2020\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -163,6 +164,8 @@ msgid ""
 "**Sustaining member** - a non-voting member who supports QGIS.ORG "
 "financially."
 msgstr ""
+"**Membro mantenedor** - um membro sem direito a voto que apóia QGIS.ORG "
+"financeiramente."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:65
 msgid ""
@@ -444,7 +447,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:175
 msgid "6 Sustaining Members"
-msgstr ""
+msgstr "6 Membros Mantenedores"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:177
 msgid ""
@@ -456,27 +459,43 @@ msgid ""
 "Sustaining members have no voting rights (unless they are simultaneously "
 "voting members in which case their voting rights are unaffected)."
 msgstr ""
+"Membros mantenedores são membros que apóiam o QGIS.ORG financeiramente com "
+"uma taxa anual de associação. Essa taxa de associação é usada para cobrir "
+"despesas de infraestrutura, eventos e outras iniciativas do QGIS.ORG para "
+"melhorar o projeto. As taxas de associação ajudam a garantir que a "
+"comunidade QGIS e o software que produzimos possam ser mantidos e "
+"aprimorados de maneira sustentável. Os membros mantenedores não têm direito "
+"a voto (a menos que sejam, simultaneamente, membros votantes, caso em que "
+"seus direitos de voto não são afetados)."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:179
 msgid ""
 "The following categories are offered for sustaining members, based on their "
 "size and assigned through self declaration:"
 msgstr ""
+"As seguintes categorias são oferecidas aos membros mantenedores, com base em"
+" seu tamanho e atribuídas por meio de declaração pessoal:"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:181
 msgid "Small (e.g. for smaller cities or companies up to 10 employees)"
 msgstr ""
+"Pequeno (por exemplo, para cidades menores ou empresas com até 10 "
+"funcionários)"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:182
 msgid ""
 "Medium (e.g. for universities, medium size cities or companies up to 50 "
 "employees"
 msgstr ""
+"Médio (por exemplo, para universidades, cidades de tamanho médio ou empresas"
+" com até 50 funcionários"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:183
 msgid ""
 "Large (e.g. for larger cities, provinces or companies up to 100 employees)"
 msgstr ""
+"Grande (por exemplo, para grandes cidades, províncias ou empresas com até "
+"100 funcionários)"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:184
 msgid ""
@@ -490,6 +509,9 @@ msgid ""
 "defined as minimum fees per category, but may be increased if the sustaining"
 " member chooses to do so."
 msgstr ""
+"As taxas de associação são aprovadas ou alteradas pela assembleia geral. "
+"Eles são definidos como taxas mínimas por categoria, mas podem ser "
+"aumentados se o membro mantenedor optar por fazê-lo."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:188
 msgid ""
@@ -498,6 +520,10 @@ msgid ""
 "enforce any membership levels - the organizations pick their own membership "
 "level based on self-assessment."
 msgstr ""
+"Como o QGIS.ORG é um projeto mundial e diferentes empresas, ONGs ou "
+"organizações governamentais têm perspectivas financeiras diferentes, não "
+"impomos nenhum nível de associação - as organizações escolhem seu próprio "
+"nível de associação com base na auto-avaliação."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:190
 msgid ""
@@ -506,16 +532,22 @@ msgid ""
 "applications for sustaining membership and ongoing support memberships as "
 "deemed appropriate."
 msgstr ""
+"A aceitação dos membros mantenedores estará sujeita à discrição e aprovação "
+"do Conselho, que se reserva o direito de aceitar ou rejeitar pedidos de "
+"inclusão de de membros mantenedores e de patrocinadores, conforme "
+"apropriado."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:192
 msgid ""
 "The fees for membership levels and guidelines for management of sustaining "
 "members are provided in the governance section of the QGIS.ORG website."
 msgstr ""
+"As taxas para níveis de associação e diretrizes para o gerenciamento de "
+"membros mantenedores são fornecidas na seção de governança do site QGIS.ORG."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:195
 msgid "7 The board"
-msgstr ""
+msgstr "7 O conselho"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:197
 msgid ""
@@ -547,7 +579,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:207
 msgid "7.1 Election of board members"
-msgstr ""
+msgstr "7.1 Eleição dos membros do conselho"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:209
 msgid ""
@@ -560,10 +592,19 @@ msgid ""
 "Voting Members. The outgoing board member shall automatically receive a "
 "nomination unless he/she no longer wishes to serve on the board."
 msgstr ""
+"Os membros do Conselho de Administração também serão membros do CPS e serão "
+"nomeados e eleitos pela assembleia geral. Em uma eleição de membros do "
+"conselho, o candidato que receber o maior número de votos para cada cargo "
+"(presidente, vice-presidente, tesoureiro) será indicado. Uma eleição "
+"vinculada desencadeará uma nova votação até que um indicado tenha a maioria."
+" No vencimento do mandato de um membro do conselho, os candidatos do QGIS "
+"PSC serão encaminhados pelos Membros Votantes do QGIS. O membro do conselho "
+"cujo mandado está se encerrando  receberá automaticamente uma indicação, a "
+"menos que não deseje mais servir no conselho."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:218
 msgid "7.2 Terms of members of the board"
-msgstr ""
+msgstr "7.2 Termos dos membros da diretoria"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:220
 msgid "Board members will serve for a two year term."
@@ -571,7 +612,7 @@ msgstr "Os membros do conselho servirão por um mandato de dois anos."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:224
 msgid "7.3 Composition of the board"
-msgstr ""
+msgstr "7.3 Composição do conselho"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:226
 msgid "The board shall include at minimum these roles:"
@@ -591,7 +632,7 @@ msgstr "tesoureiro"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:233
 msgid "7.4 Board and PSC Member remuneration"
-msgstr ""
+msgstr "7.4 Remuneração do conselho e Membro do CPS"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:235
 msgid ""
@@ -605,7 +646,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:240
 msgid "7.5 Replacement of Board Members"
-msgstr ""
+msgstr "7.5 Substituição de Membros do Conselho"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:242
 msgid ""
@@ -613,14 +654,17 @@ msgid ""
 "forward from within their ranks a replacement for the board who shall serve "
 "in that position until the next AGM is called."
 msgstr ""
+"No caso de um membro do conselho renunciar ao conselho, o CSP deverá propor "
+"dentre seus membros um substituto para o conselho que deve servir nessa "
+"posição até a próxima assembleia geral ser convocada."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:246
 msgid "8 The Project Steering Committee (PSC)"
-msgstr ""
+msgstr "8 O Comitê Diretor do Projeto (CDP)"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:249
 msgid "8.1 Election of PSC members"
-msgstr ""
+msgstr "8.1 Eleição dos membros do CPS"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:251
 msgid ""
@@ -801,18 +845,25 @@ msgid ""
 " voting a simple majority (more than 50%) of the present members decides, "
 "except for the cases listed in sections 7.1, 8.1. and 5.4."
 msgstr ""
+"Toda reunião geral convocada oficialmente tem quórum. Nas eleições e para "
+"votação, a maioria simples (mais de 50%) dos membros presentes decide, "
+"exceto nos casos listados nas seções 7.1, 8.1. e 5.4."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:317
 msgid ""
 "The reporting year and the accounting year starts at January 1 and ends at "
 "December 31."
 msgstr ""
+"O ano de referência e o exercício contábil começam em 1º de janeiro e "
+"terminam em 31 de dezembro."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:319
 msgid ""
 "The correspondence of the QGIS.ORG Association will be carried out in "
 "English, unless otherwise requested by the authorities."
 msgstr ""
+"A correspondência da Associação QGIS.ORG será realizada em inglês, a menos "
+"que solicitado de outra forma pelas autoridades."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:322
 #, python-format
@@ -830,13 +881,15 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:328
 msgid "10 Financial arrangements"
-msgstr ""
+msgstr "10 Disposições financeiras"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:330
 msgid ""
 "The financial revenues of QGIS.ORG shall originate from donations, "
 "memberships, grant funding and other diverse sources."
 msgstr ""
+"As receitas financeiras do QGIS.ORG devem ser provenientes de doações, "
+"associações, subsídios e outras fontes diversas."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:333
 msgid "The general meeting shall elect two financial auditors each year."
@@ -857,3 +910,5 @@ msgid ""
 "This charter was approved by the general assembly via Loomio vote on March "
 "17, 2019."
 msgstr ""
+"Esta carta foi aprovada pela assembléia geral através da votação do Loomio "
+"em 17 de março de 2019."

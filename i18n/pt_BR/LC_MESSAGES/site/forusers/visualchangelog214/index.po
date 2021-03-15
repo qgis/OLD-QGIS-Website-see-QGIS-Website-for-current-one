@@ -3,6 +3,8 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
+# Aline Furlanetto Viero <afviero@gmail.com>, 2020
+# Aline Furlanetto Viero <afviero@gmail.com>, 2020
 # Francisco Rodrigo Cunha de Sousa <rodrigofrcs@hotmail.com>, 2016
 # Liliana Osako <lilianaso.sig@gmail.com>, 2017
 # Mariana Muniz Blank <mariblank_1@hotmail.com>, 2017
@@ -14,8 +16,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-11 18:41+0200\n"
-"PO-Revision-Date: 2019-09-05 17:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2020-07-13 11:41+0000\n"
+"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -107,7 +109,7 @@ msgid ""
 "so). From the QGIS community we hope you enjoy this release! If you wish to "
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
-msgstr ""
+msgstr "Nós gostaríamos de agradecer aos desenvolvedores, aos responsáveis pela documentação e pelos testes e a todos que doaram seu tempo e esforço (ou financiaram pessoas para fazer isso). Da comunidade QGIS nós esperamos que você goste deste lançamento! Se você desejar doar seu tempo, dinheiro ou se envolver para fazer o QGIS ainda mais incrível, por favor dê uma olhada em `qgis.org <https://qgis.org>`__ e dê uma mão!"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:62
 msgid ""
@@ -121,7 +123,7 @@ msgid ""
 "meetings, maintain project infrastructure and fund bug fixing efforts. A "
 "complete list of current sponsors is provided below - our very great thank "
 "you to all of our sponsors!"
-msgstr ""
+msgstr "QGIS é apoiado por doadores e patrocinadores. Uma lista atual dos doadores que fizeram pequenas e grandes contribuições financeiras ao projeto pode ser encontrada em `lista de doadores <https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__. Se você desejar se tornar um patrocinador oficial do projeto, por favor visite `nossa página de patrocínio <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ para mais detalhes. O patrocínio ao QGIS nos ajuda a financiar nossas seis reuniões de desenvolvedores mensais, manter a infraestrutura do projeto e financiar os esforços para correção de bugs. Uma lista completa de nossos atuais patrocinadores é fornecida abaixo - nosso enorme  muito obrigado a todos os nossos patrocinadores!"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:74
 msgid ""
@@ -2818,14 +2820,14 @@ msgid ""
 "`QgsAttributeEditorElement "
 "<https://qgis.org/api/classQgsAttributeEditorElement.html>`__ - abstract "
 "base class for any elements of a drag and drop form"
-msgstr ""
+msgstr "`QgsAttributeEditorElement <https://qgis.org/api/classQgsAttributeEditorElement.html>`__ - classe base abstrata para qualquer elemento na forma de arrastar e soltar"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1554
 msgid ""
 "`QgsAttributeEditorContainer "
 "<https://qgis.org/api/classQgsAttributeEditorContainer.html>`__ - container "
 "for attribute editors, used to group them visually in an attribute form"
-msgstr ""
+msgstr "`QgsAttributeEditorContainer <https://qgis.org/api/classQgsAttributeEditorContainer.html>`__ - contêiner para editores de atributos, usado para agrupá-los visualmente na forma de atributo"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1557
 msgid ""
@@ -2859,7 +2861,7 @@ msgstr ""
 msgid ""
 "`QgsTracer <https://qgis.org/api/classQgsTracer.html>`__ - provides graph "
 "creation and shortest path search for vector layers"
-msgstr ""
+msgstr "`QgsTracer <https://qgis.org/api/classQgsTracer.html>`__ - permite a criação de gráficos e a busca com caminho mais curto para camadas vetoriais"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1568
 msgid ""

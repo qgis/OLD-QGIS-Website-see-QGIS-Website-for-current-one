@@ -1,17 +1,18 @@
 # 
 # Translators:
-# Kohei Tomita <fairtommy@gmail.com>, 2017
+# fairtommy <fairtommy@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-11-14 06:37+0000\n"
-"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"PO-Revision-Date: 2020-10-26 10:58+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -21,5 +22,15 @@ msgstr "QGISにできること"
 
 #: ../../source/site/about/index.rst:17
 msgid ""
-"Content is not used, it is overridden by themes/qgis-theme/about_index.html."
-msgstr "内容は使用されません、 themes/qgis-theme/about_index.html で上書きされます."
+"Content is not used, it is overridden by text in themes/qgis-"
+"theme/about_index.html. The html texts are translated in the 'spinx' "
+"resource: https://www.transifex.com/qgis/qgis-website/sphinx/ Only TOC is "
+"used."
+msgstr ""
+
+#~ msgid "Blogs"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Content is not used, it is overridden by themes/qgis-theme/about_index.html."
+#~ msgstr ""

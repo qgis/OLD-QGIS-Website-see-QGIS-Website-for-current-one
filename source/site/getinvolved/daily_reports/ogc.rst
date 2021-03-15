@@ -1,7 +1,7 @@
 OGC Certification
 =================
 
-QGIS Server 3.4 is currently certified for WMS 1.3.0 (see
+QGIS Server 3.10 is currently certified for WMS 1.3.0 (see
 `OGC Reference Implementation <http://www.opengeospatial.org/resource/products>`_).
 
 .. image:: /static/site/getinvolved/daily_reports/qgis_server_wms_ogc_badge.png
@@ -12,6 +12,7 @@ the **master** branch. Corresponding reports are generated for several OGC
 testsuites:
 
 - WMS 1.3.0 : http://test.qgis.org/ogc_cite/wms_130/
+- OGC API Features (aka WFS 3) : http://test.qgis.org/ogc_cite/ogcapif/
 - WFS 1.1.0 : http://test.qgis.org/ogc_cite/wfs_110/
 
 Latest reports are

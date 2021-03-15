@@ -1,13 +1,15 @@
 # 
 # Translators:
-# Jürgen E. Fischer <jef@norbit.de>, 2013-2014,2016
+# Jochen Huber, 2020
+# Jürgen E. Fischer <jef@norbit.de>, 2013-2014,2016,2018
+# Werner Macho <werner.macho@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 20:00+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2020-04-27 18:59+0000\n"
+"Last-Translator: Werner Macho <werner.macho@gmail.com>\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -51,13 +53,13 @@ msgid ""
 "Please don't use these mailing lists to advertise your services or training "
 "courses. Use your local user group mailing lists to inform your local "
 "community about training offers."
-msgstr ""
+msgstr "Bitte verwenden Sie diese Mailinglisten nicht, um Ihre Dienstleistungen oder Schulungen zu bewerben. Benutzen Sie die Mailinglisten der lokalen Nutzergruppen, um Ihre örtliche Gemeinschaft über Schulungsangebote zu informieren."
 
 #: ../../source/site/getinvolved/mailinglists.rst:20
 msgid ""
 "The main list for user questions: used for discussion of QGIS in general, as"
 " well as specific questions regarding its installation and use."
-msgstr "Diese Hauptlite für Benutzerfragen: genutzt für allgemeine QGIS-Diskussionen sowie spezielle Fragen zur Installation und Anwendung."
+msgstr "Die Hauptliste für Benutzeranfragen: genutzt für allgemeine QGIS-Diskussionen sowie spezielle Fragen zur Installation und Anwendung."
 
 #: ../../source/site/getinvolved/mailinglists.rst:39
 msgid ""
@@ -82,45 +84,45 @@ msgstr "Diese Liste wird dazu benutzt Themen zu diskutieren die den Lenkungsauss
 
 #: ../../source/site/getinvolved/mailinglists.rst:18
 msgid "QGIS Users list"
-msgstr ""
+msgstr "QGIS-Benutzerliste"
 
 #: ../../source/site/getinvolved/mailinglists.rst:27
 msgid "QGIS Developers list"
-msgstr ""
+msgstr "QGIS-Entwicklerliste"
 
 #: ../../source/site/getinvolved/mailinglists.rst:37
 msgid "QGIS Community team"
-msgstr ""
+msgstr "QGIS-Gemeinschaftsteam"
 
 #: ../../source/site/getinvolved/mailinglists.rst:48
 msgid "QGIS Translations"
-msgstr ""
+msgstr "QGIS-Übersetzung"
 
 #: ../../source/site/getinvolved/mailinglists.rst:58
 msgid "QGIS Project Steering Committee (PSC) list"
-msgstr ""
+msgstr "QGIS-Projektsteuerungskommitee-Liste (PSC)"
 
 #: ../../source/site/getinvolved/mailinglists.rst:29
 msgid ""
 "The main list for questions about the development of QGIS core or plugins. "
 "You can discuss about coding, build process, chime in, collect and discuss "
 "QGIS related UX (User Experience) / usability issues."
-msgstr ""
+msgstr "Die zentrale Mailingliste für Fragen zur Entwicklung von QGIS und von Plugins. Sie können hier die Entwicklung und den Build Prozess sowie Probleme mit Bezug zur QGIS User Experience (UX) und zur Benutzeroberfläche diskutieren."
 
 #: ../../source/site/getinvolved/mailinglists.rst:66
 msgid "QGIS Web Client 2"
-msgstr ""
+msgstr "QGIS-Webclient 2"
 
 #: ../../source/site/getinvolved/mailinglists.rst:68
 msgid ""
 "This list is used to get help for setting up `QGIS Web Client 2 (QWC2) "
 "<https://github.com/qgis/qwc2-demo-app>`_ and discuss future development of "
 "QWC2."
-msgstr ""
+msgstr "Diese Liste dient dazu, Hilfe beim aufsetzen des `QGIS Web Client 2 (QWC2) <https://github.com/qgis/qwc2-demo-app>`_ zu bekommen und um die zukünftige Entwicklung des QWC2 zu diskutieren."
 
 #: ../../source/site/getinvolved/mailinglists.rst:71
 msgid "http://lists.osgeo.org/mailman/listinfo/qgis-qwc2"
-msgstr ""
+msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-qwc2"
 
 #~ msgid ""
 #~ "The main list for questions about the development of QGIS core or plugins"

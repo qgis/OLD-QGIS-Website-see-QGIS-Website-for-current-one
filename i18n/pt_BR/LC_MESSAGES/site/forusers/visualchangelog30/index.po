@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# Leônidas Luiz Volcato Descovi Filho <leonidasfilho2000@yahoo.com.br>, 2018
+# Leônidas Luiz Volcato Descovi Filho <leonprs2@gmail.com>, 2018
 # Liliana Osako <lilianaso.sig@gmail.com>, 2018
 # Aumir da Silva Viana <silvaaumir@gmail.com>, 2018
 # Brenda de Andrade Feitosa <brenddandrad@gmail.com>, 2018
@@ -12,6 +12,7 @@
 # Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>, 2020
 # Mariana Muniz Blank <mariblank_1@hotmail.com>, 2020
 # Dêmian Francisco Neto Castro Pereira <demian.castro.13@gmail.com>, 2020
+# Aline Furlanetto Viero <afviero@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -20,7 +21,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 20:36+0100\n"
 "PO-Revision-Date: 2018-05-20 14:28+0000\n"
-"Last-Translator: Dêmian Francisco Neto Castro Pereira <demian.castro.13@gmail.com>, 2020\n"
+"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>, 2020\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -72,6 +73,12 @@ msgid ""
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
 msgstr ""
+", Nós gostaríamos de agradecer aos desenvolvedores, aos responsáveis pela "
+"documentação e pelos testes e a todos que doaram seu tempo e esforço (ou "
+"financiaram pessoas para fazer isso). Da comunidade QGIS nós esperamos que "
+"você goste deste lançamento! Se você desejar doar seu tempo, dinheiro ou se "
+"envolver para fazer o QGIS ainda mais incrível, por favor dê uma olhada em "
+"`qgis.org <https://qgis.org>`__ e dê uma mão!"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:17
 msgid ""
@@ -86,6 +93,18 @@ msgid ""
 "complete list of current sponsors is provided below - our very great thank "
 "you to all of our sponsors!"
 msgstr ""
+"O QGIS é apoiado por doadores e patrocinadores. Uma lista atual de doadores "
+"que contribuíram com grandes e pequenas contribuições financeiras para o "
+"projeto pode ser encontrada em nossa `donors list "
+"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__. Se você"
+" desejar se tornar um patrocinador oficial do projeto, por favor visite `our"
+" sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ para mais "
+"detalhes. O patrocínio ao QGIS nos ajuda a financiar nossas seis reuniões de"
+" desenvolvedores mensais, a manter a infraestrutura do projeto e financiar "
+"correções de erros. Uma lista completa de nossos atuais patrocinadores é "
+"fornecida abaixo - nosso enorme muito obrigado a todos os nossos "
+"patrocinadores!"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:19
 msgid ""
@@ -3941,7 +3960,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1639
 msgid "This feature was developed by Bernhard Ströbl"
-msgstr ""
+msgstr "Este recurso foi desenvolvido por Bernhard Ströbl"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1643
 msgid "Feature: Pole of inaccessibility algorithm"
@@ -4126,7 +4145,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1814
 msgid "|image106|"
-msgstr ""
+msgstr "|image106|"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1820
 msgid "Feature: New raster unique values report algorithm"
@@ -4140,7 +4159,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1824
 msgid "|image107|"
-msgstr ""
+msgstr "|image107|"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1830
 msgid "Feature: Remove TauDEM provider from core Processing"
@@ -4185,6 +4204,8 @@ msgid ""
 "This feature was funded by `DFAT/DMI "
 "<http://dfat.gov.au/pages/default.aspx>`__"
 msgstr ""
+"Este recurso foi financiado por `DFAT/DMI "
+"<http://dfat.gov.au/pages/default.aspx>`__"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1865
 #: ../../source/site/forusers/visualchangelog30/index.rst:2178
@@ -4296,7 +4317,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1926
 msgid "|image114|"
-msgstr ""
+msgstr "|image114|"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1932
 msgid "Feature: GeoPackage"
@@ -4320,7 +4341,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1939
 msgid "This feature was developed by Alessandro Pasotti"
-msgstr ""
+msgstr "Este recurso foi desenvolvido por Alessandro Pasotti"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1942
 msgid ""
@@ -4343,19 +4364,23 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1953
 msgid "|image115|"
-msgstr ""
+msgstr "|image115|"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1955
 msgid ""
 "This feature was funded by `QWAT group, http://www.imhere-asia.com/ "
 "<http://www.qwat.org>`__"
 msgstr ""
+"Este recurso foi financiado por `QWAT group, http://www.imhere-asia.com/ "
+"<http://www.qwat.org>`__"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1957
 msgid ""
 "This feature was developed by Mathieu Pellerin, Alexander Bury, Paul "
 "Blottiere"
 msgstr ""
+"Este recurso foi desenvolvido por Mathieu Pellerin, Alexander Bury, Paul "
+"Blottiere"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1961
 msgid "Feature: Unique and not-null constraint handling"
@@ -4410,7 +4435,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1983
 msgid "|image116|"
-msgstr ""
+msgstr "|image116|"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1985
 msgid "This feature was funded by `WorldBank/GFDRR <https://www.gfdrr.org>`__"
@@ -4646,6 +4671,8 @@ msgstr "Esta funcionalidade foi financiada por doadores do QGIS.ORG"
 #: ../../source/site/forusers/visualchangelog30/index.rst:2116
 msgid "Feature: Possibility to segmentize feature info geometry in server"
 msgstr ""
+"Feição: Possibilidade de segmentar informações de geometria da feição em "
+"servidor"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2118
 msgid ""
@@ -4871,6 +4898,10 @@ msgid ""
 "- QgsTaskManager. Handles groups of tasks - also available as a "
 "QgsApplication member  for tracking application wide tasks"
 msgstr ""
+"Adiciona novas classes: - QgsTask. Uma interface para execução longa de "
+"tarefas em segundo plano - QgsTaskManager. Gerencia grupos de tarefas - "
+"também disponível como membro QgsApplication para rastreamento de aplicações"
+" para grandes tarefas"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2232
 msgid ""

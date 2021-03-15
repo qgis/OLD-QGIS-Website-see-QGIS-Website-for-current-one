@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2014-2015,2019
+# Sorin Călinică <scalinica@gmail.com>, 2014-2015,2019-2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-01 17:28+0100\n"
-"PO-Revision-Date: 2019-09-25 18:06+0000\n"
+"PO-Revision-Date: 2020-07-10 08:31+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -101,7 +101,7 @@ msgstr "Generalități"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:67
 msgid "Feature: Project filename in properties"
-msgstr "Caracteristică: Numele fișierului proiectului apare în Proprietăți"
+msgstr "Funcționalitate: Numele fișierului proiectului apare în Proprietăți"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:69
 msgid ""
@@ -112,7 +112,7 @@ msgstr "De acum, se poate vedea calea completă pentru fișierul proiectului în
 #: ../../source/site/forusers/visualchangelog260/index.rst:77
 msgid ""
 "Feature: Allow removing last point while measuring via del/backspace keys"
-msgstr "Caracteristică: Del/Backspace elimină ultimul punct dintr-o măsurătoare"
+msgstr "Funcționalitate: Del/Backspace elimină ultimul punct dintr-o măsurătoare"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:79
 msgid ""
@@ -124,11 +124,11 @@ msgstr "De acum, când măsurați suprafețele sau distanțele, puteți elimina 
 msgid ""
 "Feature: select related feature on the canvas from the relation reference "
 "widget"
-msgstr "Caracteristică: Selectarea entității corespondente de pe hartă prin intermediul widget-ului de relații"
+msgstr "Funcționalitate: Selectarea entității corespondente de pe hartă prin intermediul widget-ului de relații"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:90
 msgid "Feature: Editor widgets"
-msgstr "Caracteristică: Widget-uri de editare"
+msgstr "Funcționalitate: Widget-uri de editare"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:92
 msgid "We have made a number of improvements to the editor widgets:"
@@ -164,11 +164,11 @@ msgstr "Adăugare suport pentru sufix pentru widget-ul gamă"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:107
 msgid "Feature: Optionally use just a subset of fields from the joined layer"
-msgstr "Caracteristică: Folosiți în mod opțional doar un subset de câmpuri din stratul alăturat"
+msgstr "Funcționalitate: Folosiți în mod opțional doar un subset de câmpuri din stratul alăturat"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:117
 msgid "Feature: Expression field (virtual fields)"
-msgstr "Caracteristică: Câmp de expresii (câmpuri virtuale)"
+msgstr "Funcționalitate: Câmp de expresii (câmpuri virtuale)"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:119
 msgid ""
@@ -179,7 +179,7 @@ msgstr "Uneori e nevoie de un atribut care să fie calculat și să fie mereu '�
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:129
 msgid "Feature: Actions can now have an associated icon"
-msgstr "Caracteristică: De acum, acțiunile pot avea asociată o pictogramă"
+msgstr "Funcționalitate: De acum, acțiunile pot avea asociată o pictogramă"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:131
 msgid ""
@@ -189,7 +189,7 @@ msgstr "Când creați o acțiune personalizată pentru un strat vectorial, pute�
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:139
 msgid "Feature: Additional expressions types and options"
-msgstr "Caracteristică: Diverse opțiuni și tipuri de expresii suplimentare"
+msgstr "Funcționalitate: Diverse opțiuni și tipuri de expresii suplimentare"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:141
 msgid "Allow using ``+`` for string concatenation."
@@ -216,7 +216,7 @@ msgstr "Nou cuvânt cheie: ``getFeature`` - obține entitatea respectivă dintr-
 #: ../../source/site/forusers/visualchangelog260/index.rst:153
 msgid ""
 "Feature: Classes within graduated and categorised renderers can be toggled"
-msgstr "Caracteristică: Se pot inversa clasele din cadrul renderelor clasificate pe grade și categorii"
+msgstr "Funcționalitate: Se pot inversa clasele din cadrul renderelor clasificate pe grade și categorii"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:155
 msgid ""
@@ -226,7 +226,7 @@ msgstr "De acum, puteți alege să dezactivați anumite clase din renderele orga
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:163
 msgid "Feature: Legend improvements"
-msgstr "Caracteristică:  Îmbunătățiri aduse legendei"
+msgstr "Funcționalitate:  Îmbunătățiri aduse legendei"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:165
 msgid ""
@@ -263,7 +263,7 @@ msgstr "Furnizorii de date"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:189
 msgid "Feature: DXF export improvements"
-msgstr "Caracteristică:  Îmbunătățiri aduse exportului DXF"
+msgstr "Funcționalitate:  Îmbunătățiri aduse exportului DXF"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:191
 msgid "tree view and attribute selection for layer assigment in dialog"
@@ -296,7 +296,7 @@ msgstr "Compozitorul de Hărți"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:207
 msgid "Feature: Control over hiding print composer items from prints/exports"
-msgstr "Caracteristică: Controlul asupra ascunderii elementelor hărții din compozitor"
+msgstr "Funcționalitate: Controlul asupra ascunderii elementelor hărții din compozitor"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:209
 msgid ""
@@ -307,7 +307,7 @@ msgstr "S-a adăugat o casetă de bifare și un buton definit cu ajutorul datelo
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:218
 msgid "Feature: Control over page printing for empty composer frames"
-msgstr "Caracteristică: Control asupra tipăririi paginilor pentru cadrele albe ale compozitorului"
+msgstr "Funcționalitate: Control asupra tipăririi paginilor pentru cadrele albe ale compozitorului"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:220
 msgid ""
@@ -317,7 +317,7 @@ msgstr "Pentru tabelele sau cadrele HTML, o casetă de bifare specifică dacă s
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:228
 msgid "Feature: Item tree panel"
-msgstr "Caracteristică: Panoul arborelui cu elemente"
+msgstr "Funcționalitate: Panoul arborelui cu elemente"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:230
 msgid ""
@@ -328,7 +328,7 @@ msgstr "Panoul arborelui cu elemente, din compozitorul de hărți, permite selec
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:239
 msgid "Feature: More control over appearance of composer arrow/line items"
-msgstr "Caracteristică: Mai mult control asupra aspectului săgeților/liniilor din compozitor"
+msgstr "Funcționalitate: Mai mult control asupra aspectului săgeților/liniilor din compozitor"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:241
 msgid "Lines can be styled using line symbol style dialog"
@@ -344,7 +344,7 @@ msgstr "Utilizatorul poate defini dimensiunea conturului săgeților"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:250
 msgid "Feature: Data defined control of composer items"
-msgstr "Caracteristică: Control definit cu ajutorul datelor, pentru elementele compozitorului"
+msgstr "Funcționalitate: Control definit cu ajutorul datelor, pentru elementele compozitorului"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:252
 msgid ""
@@ -378,7 +378,7 @@ msgstr "Dimensiunea paginii, orientarea și numărul paginilor."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:267
 msgid "Feature: Composer images can be specifed as remote URLS"
-msgstr "Caracteristică: Imaginile compozitorului se pot afla la distanță, fiind specificate ca URL-uri"
+msgstr "Funcționalitate: Imaginile compozitorului se pot afla la distanță, fiind specificate ca URL-uri"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:269
 msgid ""
@@ -439,7 +439,7 @@ msgstr "Rețineți că tabelele din proiectele existente nu sunt actualizate aut
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:302
 msgid "Feature: Composer improvements"
-msgstr "Caracteristică: Îmbunătățiri generale aduse compozitorului"
+msgstr "Funcționalitate: Îmbunătățiri generale aduse compozitorului"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:304
 msgid ""
@@ -483,11 +483,11 @@ msgstr "S-a eliminat elementul de meniu distructiv 'Încărcare din șablon', fi
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:325
 msgid "Feature: Improved item snapping"
-msgstr "Caracteristică: Acroșaj îmbunătățit al elementelor"
+msgstr "Funcționalitate: Acroșaj îmbunătățit al elementelor"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:336
 msgid "Feature: Multiple overviews for a map item"
-msgstr "Caracteristică: Multiple vederi de ansamblu pentru o hartă"
+msgstr "Funcționalitate: Multiple vederi de ansamblu pentru o hartă"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:338
 msgid ""
@@ -500,7 +500,7 @@ msgstr "Uneori este util să puteți afișa mai mult de o vedere ansamblu în ca
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:350
 msgid "Feature: HTML item improvements"
-msgstr "Caracteristică:  Îmbunătățiri pentru codul HTML din elemente"
+msgstr "Funcționalitate:  Îmbunătățiri pentru codul HTML din elemente"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:352
 msgid "There are a number of useful new options for the HTML composer item:"
@@ -526,7 +526,7 @@ msgstr "Posibilitate de a crea un stil propriu, care să suprascrie stilurile HT
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:365
 msgid "Feature: Composer map grid improvements"
-msgstr "Caracteristică: Îmbunătățiri aduse grilei hărții din compozitor"
+msgstr "Funcționalitate: Îmbunătățiri aduse grilei hărții din compozitor"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:367
 msgid "You can now have multiple grids with different properties."
@@ -577,7 +577,7 @@ msgstr "Processing"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:390
 msgid "Feature: On-line collection of models and scripts"
-msgstr "Caracteristică: Colecție de modele și script-uri on-line"
+msgstr "Funcționalitate: Colecție de modele și script-uri on-line"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:392
 msgid ""
@@ -588,7 +588,7 @@ msgstr "Modelele și script-urile pot fi descărcate și instalate din colecții
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:401
 msgid "Feature: New modeler implementation"
-msgstr "Caracteristică: Implementarea unui modelator nou"
+msgstr "Funcționalitate: Implementarea unui modelator nou"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:403
 msgid ""
@@ -605,7 +605,7 @@ msgstr "Programabilitate"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:417
 msgid "Feature: API changes for QGIS widgets"
-msgstr "Caracteristică: Schimbări API pentru widget-urile QGIS "
+msgstr "Funcționalitate: Schimbări API pentru widget-urile QGIS "
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:419
 msgid ""
@@ -676,7 +676,7 @@ msgstr "Serverul QGIS"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:442
 msgid "Feature: Enhancements of searching with GetFeatureInfo request"
-msgstr "Caracteristică: Îmbunătățiri ale căutării care utilizează cereri GetFeatureInfo"
+msgstr "Funcționalitate: Îmbunătățiri ale căutării care utilizează cereri GetFeatureInfo"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:444
 msgid ""
@@ -686,7 +686,7 @@ msgstr "https://github.com/qgis/QGIS/commit/8888c5f0c0e0ffdf23453a20addf6abaf125
 #: ../../source/site/forusers/visualchangelog260/index.rst:447
 msgid ""
 "Feature: Add a precision setting for GetFeatureInfo geometry attributes"
-msgstr "Caracteristică: S-a adăugat o setare de precizie pentru atributele geometriei GetFeatureInfo"
+msgstr "Funcționalitate: S-a adăugat o setare de precizie pentru atributele geometriei GetFeatureInfo"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:450
 msgid "Symbology"
@@ -694,7 +694,7 @@ msgstr "Simbologia"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:453
 msgid "Feature: Better random colour choice"
-msgstr "Caracteristică: Generare mai bună a culorilor aleatorii"
+msgstr "Funcționalitate: Generare mai bună a culorilor aleatorii"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:455
 msgid ""
@@ -704,7 +704,7 @@ msgstr "S-a îmbunătățit algoritmul de generare a culorilor aleatorii pentru 
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:463
 msgid "Feature: Symbology user interface improvements"
-msgstr "Caracteristică: Îmbunătățiri aduse interfeței cu utilizatorul"
+msgstr "Funcționalitate: Îmbunătățiri aduse interfeței cu utilizatorul"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:465
 msgid ""
@@ -752,7 +752,7 @@ msgstr "Interfața cu utilizatorul"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:487
 msgid "Feature: Syntax highlighting code editor"
-msgstr "Caracteristică: Evidențierea sintaxei din editorul de cod"
+msgstr "Funcționalitate: Evidențierea sintaxei din editorul de cod"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:489
 msgid ""
@@ -762,7 +762,7 @@ msgstr "Pentru editoarele de script-uri python, constructorul de expresii, ferea
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:497
 msgid "Feature: Color palettes"
-msgstr "Caracteristică: Palete de culori"
+msgstr "Funcționalitate: Palete de culori"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:499
 msgid "You can now define your own custom color palettes for use in QGIS."
@@ -786,7 +786,7 @@ msgstr "Puteți importa/exporta culorile într-un fișier GPL, de tip paletă."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:511
 msgid "Feature: New color picker dialog"
-msgstr "Caracteristică: Noul dialog al selectorului de culoare"
+msgstr "Funcționalitate: Noul dialog al selectorului de culoare"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:528
 msgid "There is a new custom QGIS color picker dialog. Features include:"
@@ -814,7 +814,7 @@ msgstr "Widget rotund/triunghiular pentru nuanță."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:535
 msgid "Feature: Single select feature tool merged into select by rectangle"
-msgstr "Caracteristică: Instrumentul de selecție a unei entități singulare a fuzionat cu selectarea după un dreptunghi"
+msgstr "Funcționalitate: Instrumentul de selecție a unei entități singulare a fuzionat cu selectarea după un dreptunghi"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:537
 msgid ""
@@ -825,7 +825,7 @@ msgstr "Instrumentul de selecție singulară s-a îmbinat cu instrumentul de sel
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:546
 msgid "Feature: Add layer to map canvas behaviour"
-msgstr "Caracteristică: Comportamentul comenzii de adăugare a unui strat la canevas"
+msgstr "Funcționalitate: Comportamentul comenzii de adăugare a unui strat la canevas"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:548
 msgid ""
@@ -836,7 +836,7 @@ msgstr "De acum, în multe dintre dialogurile QGIS care generează un nou strat,
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:557
 msgid "Feature: Add icon size 48 and 64"
-msgstr "Caracteristică: S-au adăugat pictograme cu mărimi de 48 și 64"
+msgstr "Funcționalitate: S-au adăugat pictograme cu mărimi de 48 și 64"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:559
 msgid ""
@@ -846,7 +846,7 @@ msgstr "Pentru cei care folosesc QGIS pe dispozitivele cu exran tactil (sau căr
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:567
 msgid "Feature: New colour buttons"
-msgstr "Caracteristică: Butoane cu noi culori"
+msgstr "Funcționalitate: Butoane cu noi culori"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:569
 msgid ""
@@ -860,7 +860,7 @@ msgstr "Aceasta este, probabil, una dintre caracteristicile noi cele mai utile �
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:582
 msgid "Feature: Context menu for identify tool"
-msgstr "Caracteristică: Meniu contextual pentru instrumentul de identificare"
+msgstr "Funcționalitate: Meniu contextual pentru instrumentul de identificare"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:584
 msgid ""

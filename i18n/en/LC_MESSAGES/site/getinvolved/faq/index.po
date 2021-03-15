@@ -3,14 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-10 10:41+0200\n"
+"POT-Creation-Date: 2021-02-25 20:52+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.9.0\n"
 
 #: ../../source/site/getinvolved/faq/index.rst:4
 msgid "FAQ"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:49
 msgid ""
-"After a succesfull developer meeting in Zurich (Switzerland), we decided "
+"After a successful developer meeting in Zurich (Switzerland), we decided "
 "that the next release should be related to it. Since then, all releases "
 "have been named after locations of our developer meetings."
 msgstr ""
@@ -114,53 +114,136 @@ msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:56
 msgid ""
-"To cite QGIS in your piece of work, or for an assignment, this general "
-"citation might be helpful: \"QGIS Development Team (YEAR). QGIS "
-"Geographic Information System. Open Source Geospatial Foundation Project."
-" http://qgis.osgeo.org\"."
+"To cite QGIS in your piece of work, or for an assignment, please use "
+"citation type that can be more helpful:"
 msgstr ""
 
-#: ../../source/site/getinvolved/faq/index.rst:60
-msgid "Can I open ECW files with QGIS?"
+#: ../../source/site/getinvolved/faq/index.rst:59
+msgid "**Cite the QGIS project in general**"
 msgstr ""
 
 #: ../../source/site/getinvolved/faq/index.rst:62
+msgid ""
+"QGIS.org, |yeartag|. QGIS Geographic Information System. QGIS "
+"Association. http://www.qgis.org"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:65
+msgid "**Cite the QGIS Developers Manual**"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:68
+msgid ""
+"QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System "
+"Developers Manual. QGIS Association. Electronic document: |devcite|"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:72
+msgid "**Cite the QGIS Installation Guide**"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:75
+msgid ""
+"QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System "
+"Installation Guide. QGIS Association. Electronic document: "
+"https://github.com/qgis/QGIS/blob/master/INSTALL.md"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:79
+msgid "**Cite the QGIS User Guide**"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:82
+msgid ""
+"QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System "
+"User Guide. QGIS Association. Electronic document: |userguidecite|"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:85
+msgid "**Cite the QGIS Server Documentation**"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:87
+msgid ""
+"QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System API"
+" Documentation. QGIS Association. Electronic document: |servercite|"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:91
+msgid "**Cite the QGIS API Documentation**"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:94
+msgid ""
+"QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System API"
+" Documentation. QGIS Association. Electronic document: |apicite|"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:101
+msgid "**Preferred format:** `BibTeX <https://en.wikipedia.org/wiki/BibTeX>`_"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:104
+msgid "Example BibTeX entry:"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:119
+msgid "I created a map with QGIS, do I have to mention QGIS?"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:121
+msgid ""
+"There is no requirement to mention QGIS for maps produced with it. It is "
+"of course really welcome if would like to add a note saying that the map "
+"was produced with QGIS. \"Made with QGIS\" or \"Map created using the "
+"Free and Open Source QGIS\" are good examples of such a note."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:126
+msgid "Do not say ©QGIS as QGIS does not hold copyrights on your work."
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:129
+msgid "Can I open ECW files with QGIS?"
+msgstr ""
+
+#: ../../source/site/getinvolved/faq/index.rst:131
 msgid ""
 "Yes you can... BUT depending on your Operating System, it is more or less"
 " difficult."
 msgstr ""
 
-#: ../../source/site/getinvolved/faq/index.rst:64
+#: ../../source/site/getinvolved/faq/index.rst:133
 msgid ""
 "If you are under Windows and are using the OSGeo4w installer, it is "
 "included."
 msgstr ""
 
-#: ../../source/site/getinvolved/faq/index.rst:66
+#: ../../source/site/getinvolved/faq/index.rst:135
 msgid ""
 "If you are using OS X, you can find the ECW plugin and install "
 "instructions at http://www.kyngchaos.com/software/frameworks"
 msgstr ""
 
-#: ../../source/site/getinvolved/faq/index.rst:69
+#: ../../source/site/getinvolved/faq/index.rst:138
 msgid ""
 "For other instructions, eg look here: http://www.faunalia.com/content"
 "/adding-ecw-support-quantum-gis"
 msgstr ""
 
-#: ../../source/site/getinvolved/faq/index.rst:72
+#: ../../source/site/getinvolved/faq/index.rst:141
 msgid "Development"
 msgstr ""
 
-#: ../../source/site/getinvolved/faq/index.rst:75
+#: ../../source/site/getinvolved/faq/index.rst:144
 msgid "Can I compile QGIS myself?"
 msgstr ""
 
-#: ../../source/site/getinvolved/faq/index.rst:77
+#: ../../source/site/getinvolved/faq/index.rst:146
 msgid ""
 "Yes, compiling QGIS from source is possible whatever OS you use (Windows,"
 " OS X, Linux). Please read `Building QGIS from source "
-"<http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
+"<https://github.com/qgis/QGIS/blob/master/INSTALL.md>`_"
 msgstr ""
 
 #~ msgid ""
@@ -234,5 +317,41 @@ msgstr ""
 #~ " tracker <https://issues.qgis.org/projects/qgis/issues>`_ "
 #~ "before mailing to the list. More "
 #~ "information at :ref:`QGIS-bugreporting`."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To cite QGIS in your piece of "
+#~ "work, or for an assignment, this "
+#~ "general citation might be helpful: "
+#~ "\"QGIS Development Team (YEAR). QGIS "
+#~ "Geographic Information System. Open Source "
+#~ "Geospatial Foundation Project. "
+#~ "http://qgis.osgeo.org\"."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Yes, compiling QGIS from source is "
+#~ "possible whatever OS you use (Windows,"
+#~ " OS X, Linux). Please read `Building"
+#~ " QGIS from source "
+#~ "<http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "After a succesfull developer meeting in"
+#~ " Zurich (Switzerland), we decided that "
+#~ "the next release should be related "
+#~ "to it. Since then, all releases "
+#~ "have been named after locations of "
+#~ "our developer meetings."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To cite QGIS in your piece of "
+#~ "work, or for an assignment, this "
+#~ "general citation might be helpful: "
+#~ "\"QGIS.org (YEAR). QGIS Geographic Information"
+#~ " System. Open Source Geospatial Foundation"
+#~ " Project. http://qgis.org\"."
 #~ msgstr ""
 

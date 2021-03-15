@@ -1,19 +1,31 @@
 # 
 # Translators:
 # Kari Salovaara <kari.salovaara@pp1.inet.fi>, 2014-2016
+# Pekka Sarkola <pekka.sarkola@gispo.fi>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 20:02+0000\n"
-"Last-Translator: Kari Salovaara <kari.salovaara@pp1.inet.fi>\n"
+"POT-Creation-Date: 2020-07-09 12:40+0200\n"
+"PO-Revision-Date: 2020-07-09 10:51+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Finnish (http://www.transifex.com/qgis/qgis-website/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: fi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/features.rst:2
+msgid "Applications"
+msgstr "Sovellukset"
+
+#: ../../source/site/about/features.rst:4
+msgid ""
+"QGIS is not only a desktop GIS. We also provide a spatial file browser, a "
+"server application, and web applications."
+msgstr "QGIS ei ole ainoastaan GIS työasemaohjelma. Tarjoamme sovellukset myös paikkatietojen sovelluspalvelimeksi, selainkäyttöliittymään ja mobiililaittteille."
 
 #: ../../source/site/about/features.rst:7
 msgid "QGIS Desktop"
@@ -31,77 +43,103 @@ msgstr "Windows, Mac, Linux, BSD ja Android ympäristöihin."
 msgid "A screenshot of QGIS Desktop"
 msgstr "Näytönkaappaus QGIS työasemasta"
 
-#: ../../source/site/about/features.rst:20
-msgid "QGIS Browser"
-msgstr "QGIS selain"
-
-#: ../../source/site/about/features.rst:22
-msgid "Browse and preview your data and metadata."
-msgstr "Selaa ja esikatsele dataa ja metadataa."
-
-#: ../../source/site/about/features.rst:24
-msgid "Drag and drop your data from one datastore into the other one."
-msgstr "Vedä ja pudota datasi yhdestä tietovarastosta toiseen."
-
-#: ../../source/site/about/features.rst:29
-msgid "A screenshot of QGIS Browser"
-msgstr "Näytönkaappaus QGIS selaimesta"
-
-#: ../../source/site/about/features.rst:33
+#: ../../source/site/about/features.rst:19
 msgid "QGIS Server"
 msgstr "QGIS palvelin"
 
-#: ../../source/site/about/features.rst:35
+#: ../../source/site/about/features.rst:21
 msgid ""
-"Publish your QGIS projects and layers as OGC compatible WMS and WFS "
-"services. Control which layers, attributes, layouts and coordinate systems "
-"are exported."
-msgstr "Julkaise QGIS projektisi ja tasosi OGC yhteensopivilla WMS ja WFS palveluilla. Ohjaile mitkä tasot, attribuutit, sommittelut ja koordinaattijärjestelmät ovat käytössä."
+"Publish your QGIS projects and layers as OGC compatible WMS, WMTS, WFS and "
+"WCS services. Control which layers, attributes, layouts and coordinate "
+"systems are exported. QGIS server is considered as a reference "
+"implementation for WMS 1.3."
+msgstr "Julkaise QGIS projektisi ja sen sisältö OGC yhteensopivissa WMS, WMTS, WFS ja WCS rajapintapalveluina. Voit kontrolloida mitkä tasot, ominaisuustiedot, taitot ja koordinaattijärjestelmät julkaistaan. QGIS Server on WMS 1.3 -rajapintapalvelun referenssitoteutus."
 
-#: ../../source/site/about/features.rst:42
+#: ../../source/site/about/features.rst:33
 msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
 msgstr "Näytönkaappaus QGIS palvelimen konfiguraatiosta QGIS työasemassa"
 
-#: ../../source/site/about/features.rst:45
+#: ../../source/site/about/features.rst:36
 msgid "QGIS Web Client"
 msgstr "QGIS selainkäyttö"
 
-#: ../../source/site/about/features.rst:47
+#: ../../source/site/about/features.rst:38
 msgid ""
 "Publish your QGIS projects on the web with ease. Benefit from the powerful "
 "symbology, labeling and blending features to impress with your maps."
 msgstr "Julkaise QGIS projektisi verkossa helposti. Hyödy tehokkaasta symboleista, nimiöinnistä ja sekoitus ominaisuuksista tehdäksesi vaikutuksen kartoillasi."
 
-#: ../../source/site/about/features.rst:54
+#: ../../source/site/about/features.rst:45
 msgid "A screenshot of QGIS Web Client"
 msgstr "Näytönkaappaus QGIS selainkäytöstä"
 
-#: ../../source/site/about/features.rst:58
-msgid "QGIS on Android (beta!)"
-msgstr "QGIS Androidissa (beta!)"
+#: ../../source/site/about/features.rst:49
+msgid "QGIS on mobiles and tablets"
+msgstr ""
 
-#: ../../source/site/about/features.rst:60
+#: ../../source/site/about/features.rst:51
 msgid ""
-"Work is being done to use QGIS on Android devices. Current builds are very "
-"experimental, and not for the faint of heart."
-msgstr "Työskentelemme QGIS:n käyttämiseksi Android laitteissa. Nykyiset versiot ovat kokeellisia eikä tarkoitettu heikkohermoisille."
+"The QGIS experience does not stop on the desktop. Various third-party touch "
+"optimized apps allow you to take QGIS into the field"
+msgstr ""
+
+#: ../../source/site/about/features.rst:55
+msgid "`QField for QGIS (formerly QGIS for Android) <https://qfield.org>`_"
+msgstr ""
+
+#: ../../source/site/about/features.rst:59
+msgid ""
+"A screenshot of QField for QGIS (available for Android, Windows, iOS coming "
+"soon)"
+msgstr ""
+
+#: ../../source/site/about/features.rst:62
+msgid "`Input <https://inputapp.io>`_"
+msgstr ""
 
 #: ../../source/site/about/features.rst:66
-msgid "A screenshot of QGIS on Android"
-msgstr "Näytönkaappaus QGIS Androidissa"
+msgid "A screenshot of Input (available for Android, Windows, iOS)"
+msgstr ""
 
-#: ../../source/site/about/features.rst:2
-msgid "Applications"
-msgstr "Sovellutukset"
+#: ../../source/site/about/features.rst:69
+msgid "`IntraMaps Roam <https://roam-docs.readthedocs.io>`_"
+msgstr ""
 
-#: ../../source/site/about/features.rst:4
-msgid ""
-"QGIS is not only a desktop GIS. We also provide a spatial file browser, a "
-"server application, and web applications."
-msgstr "QGIS ei ole ainoastaan GIS työasemaohjelma. Se tarjoaa myös paikkatietojen selailun, paikkatietopalvelimen ja verkkosivujen sovellutukset."
+#: ../../source/site/about/features.rst:73
+msgid "A screenshot of IntraMaps Roam (available for Windows)"
+msgstr ""
 
 #~ msgid "QGIS Applications"
 #~ msgstr ""
 
 #~ msgid "Features of QGIS"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Publish your QGIS projects and layers as OGC compatible WMS and WFS "
+#~ "services. Control which layers, attributes, layouts and coordinate systems "
+#~ "are exported."
+#~ msgstr ""
+
+#~ msgid "QGIS Browser"
+#~ msgstr ""
+
+#~ msgid "Browse and preview your data and metadata."
+#~ msgstr ""
+
+#~ msgid "Drag and drop your data from one datastore into the other one."
+#~ msgstr ""
+
+#~ msgid "A screenshot of QGIS Browser"
+#~ msgstr ""
+
+#~ msgid "QGIS on Android (beta!)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Work is being done to use QGIS on Android devices. Current builds are very "
+#~ "experimental, and not for the faint of heart."
+#~ msgstr ""
+
+#~ msgid "A screenshot of QGIS on Android"
 #~ msgstr ""

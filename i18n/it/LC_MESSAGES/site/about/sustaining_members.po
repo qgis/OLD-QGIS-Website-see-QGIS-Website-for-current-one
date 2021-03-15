@@ -4,10 +4,11 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# Andrea Giudiceandrea <andreaerdna@libero.it>, 2019
 # matteo ghetta <matteo.ghetta@gmail.com>, 2020
 # Stefano Campus <skampus@gmail.com>, 2020
 # Pippo Peppo <abc@gmx.ch>, 2020
+# Andrea Giudiceandrea <andreaerdna@libero.it>, 2020
+# Simone Falceri, 2020
 # 
 #, fuzzy
 msgid ""
@@ -16,7 +17,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-02 12:44+0100\n"
 "PO-Revision-Date: 2019-07-12 14:43+0000\n"
-"Last-Translator: Pippo Peppo <abc@gmx.ch>, 2020\n"
+"Last-Translator: Simone Falceri, 2020\n"
 "Language-Team: Italian (https://www.transifex.com/qgis/teams/6144/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -46,6 +47,8 @@ msgid ""
 "For information on becoming a sustaining member, please visit "
 ":ref:`QGIS_sustaining_memberships`."
 msgstr ""
+"Per informazioni su come diventare un membro sostenitore dai uno sguardo "
+"alla pagina :ref:`QGIS_sustaining_memberships`."
 
 #: ../../source/site/about/sustaining_members.rst:24
 msgid "List of current sustaining members"
@@ -78,6 +81,8 @@ msgid ""
 ":raw-html:`<div id=\"qgispastsustainingmembersatom\"> <!-- to be filled via "
 "javascript loading of atom feed --> </div>`"
 msgstr ""
+":raw-html:`<div id=\"qgispastsustainingmembersatom\"> <!-- to be filled via "
+"javascript loading of atom feed --> </div>`"
 
 #: ../../source/site/about/sustaining_members.rst:41
 msgid "List of donors"
@@ -90,6 +95,10 @@ msgid ""
 "small donation can make a difference and help to reach important project "
 "goals!"
 msgstr ""
+"Le donazioni possono essere di qualsiasi importo, tramite bonifico bancario,"
+" Stripe o Paypal (informazioni disponibili alla pagina :ref:`Donations "
+"<QGIS-donations>`). Anche una piccola donazione può fare la differenza e "
+"aiutare a raggiungere importanti obiettivi del progetto!"
 
 #: ../../source/site/about/sustaining_members.rst:47
 msgid ""
@@ -100,6 +109,12 @@ msgid ""
 "larger amounts with credit cards through Stripe. We can send you a payment "
 "link and/or invoice."
 msgstr ""
+"Se desideri inviarci una donazione maggiore, sei fortemente incoraggiato a "
+"utilizzare il conto bancario o lo stripe (se desideri effettuare pagamenti "
+"con carta di credito) piuttosto che PayPal (hanno commissioni di pagamento "
+"più elevate e una conversione di valuta non necessaria). Contatta "
+"finance@qgis.org se desideri pagare importi maggiori con carte di credito "
+"tramite Stripe. Possiamo inviarti un link per il pagamento e/o una fattura."
 
 #: ../../source/site/about/sustaining_members.rst:53
 msgid ""
@@ -110,7 +125,7 @@ msgstr ""
 "riferimento all'ufficio delle imposte locale per maggiori informazioni."
 
 #~ msgid "Sustaining members, sponsors and Donors"
-#~ msgstr ""
+#~ msgstr "Membri sostenitori, sponsor e donatori."
 
 #~ msgid ""
 #~ "We thank our sustaining members, sponsors and donors who support the QGIS "
@@ -123,14 +138,26 @@ msgstr ""
 #~ "organizations it was difficult or impossible to sponsor or donate to a "
 #~ "project."
 #~ msgstr ""
+#~ "Ringraziamo i nostri membri sostenitori, sponsor e donatori che supportano "
+#~ "il progetto QGIS e ci consentono di pagare per la nostra infrastruttura e "
+#~ "per l'importante lavoro di sviluppo, nonché per finanziare riunioni di "
+#~ "sviluppatori e promozioni di QGIS in workshop e conferenze. Si noti che "
+#~ "attualmente siamo in una fase di transizione, passando da un sistema di "
+#~ "sponsor a un sistema con membri sostenitori. Ciò dovrebbe rendere più facile"
+#~ " per le autorità pubbliche sostenere il progetto QGIS.ORG diventando un "
+#~ "membro sostenitore. Per molte organizzazioni pubbliche era difficile o "
+#~ "impossibile sponsorizzare o donare ad un progetto."
 
 #~ msgid ""
 #~ "Organizations who supported QGIS before March 17, 2019 are still sponsors, "
 #~ "after that date we introduce new supporters as sustaining members."
 #~ msgstr ""
+#~ "Le organizzazione che supportavano QGIS prima del 17 marzo 2019 sono ancora "
+#~ "sponsor; dopo tale data, abbiamo introdotto nuovi sponsor in qualità di "
+#~ "membri sostenitori."
 
 #~ msgid "List of current sustaining members or sponsors"
-#~ msgstr ""
+#~ msgstr "Lista degli attuali membri sostenitori o sponsor"
 
 #~ msgid ""
 #~ "Annually we also receive support from various organisations who appreciate "
@@ -138,6 +165,10 @@ msgstr ""
 #~ " that goes into the project. These sustaining members and sponsors are "
 #~ "listed below with our thanks!"
 #~ msgstr ""
+#~ "Ogni anno riceviamo anche supporto da varie organizzazioni che apprezzano il"
+#~ " lavoro che facciamo e vorrebbero facilitare lo sforzo di sviluppo sostenuto"
+#~ " che va nel progetto. Questi membri sostenitori e sponsor sono elencati di "
+#~ "seguito con i nostri ringraziamenti!"
 
 #~ msgid "List of past sustaining members or sponsors"
-#~ msgstr ""
+#~ msgstr "Lista dei precedenti membri sostenitori o sponsor"

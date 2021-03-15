@@ -3,13 +3,15 @@
 # Alessandro Fanna <alex@rospus.org>, 2015
 # Eugenio Fasser <qfasser@gmail.com>, 2019
 # Res Gea <info@resgea.com>, 2018
+# Simone Falceri, 2020
+# Valerio Pinna <pinnavalerio@yahoo.co.uk>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2019-03-18 11:02+0000\n"
-"Last-Translator: Eugenio Fasser <qfasser@gmail.com>\n"
+"PO-Revision-Date: 2020-09-25 09:19+0000\n"
+"Last-Translator: Simone Falceri\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,7 +55,7 @@ msgid ""
 "functionalities through Python plugins and its high level of "
 "interoperability with major GIS data formats through the use of the "
 "Geospatial Data Abstraction Library (GDAL/OGR) library."
-msgstr ""
+msgstr "Il WOIS può essere visto come un sistema multiuso costituito da un database spaziale, strutture per l'estrazione e l'elaborazione dei dati EO e strumenti e modelli integrativi volti al supporto decisionale, ad es. modellazione idrologica e strumenti di visualizzazione e analisi incorporati nel GIS. Il WOIS è progettato attorno a QGIS, che funge da interfaccia grafica utente (GUI) front-end. QGIS è stato scelto come piattaforma di integrazione centrale, grazie alla sua GUI chiara e accessibile, alla forte comunità di sviluppo, alla facilità di implementazione di funzionalità aggiuntive tramite plugin Python e al suo alto livello di interoperabilità con i principali formati di dati GIS attraverso l'uso della Geospatial Data Abstraction Library (GDAL/OGR)."
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:13
 msgid ""
@@ -68,7 +70,7 @@ msgid ""
 "incorporation of custom R and Python scripts. The inputs and outputs of the "
 "Processing Toolbox algorithms can be evaluated with the QGIS capabilities of"
 " data I/O, rendering or map creation."
-msgstr ""
+msgstr "Inoltre, il Processing Toolbox integrato, precedentemente noto come SEXTANTE, offre la capacità di incorporare facilmente algoritmi di geoprocessing da varie applicazioni in QGIS. Funziona come un archivio comune per un'ampia gamma di algoritmi, alcuni nativi di QGIS e altri importati da applicazioni esterne, come GRASS GIS od Orfeo Toolbox. Il supporto per gli algoritmi del software BEAM, NEST e Sentinel-1 Toolbox dell'ESA e per l'impostazione e l'esecuzione di modelli idrologici basati su SWAT è stato aggiunto al Processing Toolbox durante lo sviluppo di WOIS. La casella degli strumenti consente inoltre di incorporare facilmente script R e Python personalizzati. Gli input e gli output degli algoritmi di Processing Toolbox possono essere valutati con le capacità di QGIS di I/O dei dati, rendering o creazione di mappe."
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:15
 msgid ""
@@ -151,7 +153,7 @@ msgid ""
 " S., & Michailovsky, C. I. (2015). Operational river discharge forecasting "
 "in poorly gauged basins: the Kavango River basin case study. Hydrology and "
 "Earth System Sciences, 19(3), 1469-1485."
-msgstr ""
+msgstr "Bauer-Gottwein, P., Jensen, I. H., Guzinski, R., Bredtoft, G. K. T., Hansen, S., & Michailovsky, C. I. (2015). Operational river discharge forecasting in poorly gauged basins: the Kavango River basin case study. Hydrology and Earth System Sciences, 19(3), 1469-1485."
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:45
 msgid ""
@@ -159,7 +161,7 @@ msgid ""
 " V.; Doubkova, M.; Walli, A.; Tottrup, C. Enabling the Use of Earth "
 "Observation Data for Integrated Water Resource Management in Africa with the"
 " Water Observation and Information System. Remote Sens. 2014, 6, 7819-7839."
-msgstr ""
+msgstr "Guzinski, R.; Kass, S.; Huber, S.; Bauer-Gottwein, P.; Jensen, I.H.; Naeimi, V.; Doubkova, M.; Walli, A.; Tottrup, C. Enabling the Use of Earth Observation Data for Integrated Water Resource Management in Africa with the Water Observation and Information System. Remote Sens. 2014, 6, 7819-7839."
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:47
 msgid ""
@@ -168,7 +170,7 @@ msgid ""
 " an earth observation capacity for integrated water resource management in "
 "Africa,” presented at the ESA Living Planet Symp., Edinburgh, U.K., Sep. "
 "11–13, 2013."
-msgstr ""
+msgstr "Walli, A., Tottrup, C., Naeimi, V., Bauer-Gottwein, P., Bila, M., Mufeti, P., Tumbulto, J.W., Rajah, C., Moloele, L.S. & Koetz, B. “TIGER-NET—Enabling an earth observation capacity for integrated water resource management in Africa,” presented at the ESA Living Planet Symp., Edinburgh, U.K., Sep. 11–13, 2013."
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:50
 msgid "Links"
@@ -188,7 +190,7 @@ msgid ""
 "(http://www.tiger.esa.int/page_eoservices_wois.php) with source code of the "
 "developed plugins, scripts, models and workflows available from the "
 "project’s GitHub page (https://github.com/TIGER-NET)"
-msgstr ""
+msgstr "Maggiori informazioni sull'iniziativa TIGER dell'ESA possono essere trovate sul sito web dell'iniziativa: http://www.tiger.esa.int/ WOIS è disponibile per il download (previa registrazione) dal sito web TIGER (http: //www.tiger.esa. int / page_eoservices_wois.php) con codice sorgente dei plugin sviluppati, script, modelli e flussi di lavoro disponibili dalla pagina GitHub del progetto (https://github.com/TIGER-NET)"
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:56
 msgid ""

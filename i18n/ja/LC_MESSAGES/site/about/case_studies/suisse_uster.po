@@ -1,13 +1,14 @@
 # 
 # Translators:
-# Kohei Tomita <fairtommy@gmail.com>, 2017
+# fairtommy <fairtommy@gmail.com>, 2018-2019
+# fairtommy <fairtommy@gmail.com>, 2017-2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-12-04 03:36+0000\n"
-"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"PO-Revision-Date: 2019-10-28 01:44+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,7 +29,7 @@ msgid ""
 "new features and by financially supporting the development. In return Uster "
 "receives a rapidly evolving and platform independent Desktop GIS and WebGIS "
 "solution backed by a worldwide user and development community."
-msgstr "ウスター市はArcViewのためのデスクトップGISの代替としてQGISを使用するゾロトゥルンのカントンの決定に励まされ、2007年以来、QGISを使ってきた、ウスターもそれを試してみることにしました。市は示唆して新機能をテストすることによって、および財政的発展を支援することにより、QGISアプリケーションのさらなる発展のための努力に参加しました。その見返りにウスターは、世界中のユーザーと開発コミュニティに裏打ちされ、急速に発展し、プラットフォームに依存しないデスクトップGISや型WebGISソリューションを受け取ります。"
+msgstr "ウスター市では2007年以来QGISを使っています。ArcViewに対するデスクトップGISの代替としてQGISを使用するというゾロトゥルン州の決定に後押しされ、ウスターでもそれを試してみることにしました。市は新機能を提案しテストすることで、また開発を財政的に支援することで、QGISアプリケーションのさらなる発展のための努力に参加しました。その見返りにウスターは、世界中のユーザーと開発コミュニティに裏打ちされ、急速に発展し、プラットフォームに依存しないデスクトップGISや型WebGISソリューションを受け取ります。"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
@@ -43,7 +44,7 @@ msgid ""
 "(University of Berne)) we coordinate and sponsor the improvements of these "
 "tools, along with some improvements in data driven symbolization, automated "
 "labeling, attribute handling and forms."
-msgstr "PostGIS / PostgreSQLの中央地理データウェアハウスとして使用されます。他のデータベースとデータ・ソースは、このようなOGRとFMEなどのツールを使用して、定期的な間隔でのPostgreSQLに複製されています。初めにQGISは、主に、ビューアとして使用しました。最初のQGISのユーザーが農業補助金を受けるために地元の農家で作られた宣言を監督する仕事を持っていた農夫でした。その後、QGISは、編集ツールやプリント作曲の改善に伴い、データエディタとマップパブリッシングプラットフォームとして導入されました。一緒に他のスイスのQGISのユーザー（ゾロトゥルン、トゥーンとCDEベルン（大学））で、私たちは記号化、自動化されたラベル、属性取扱いおよびフォームをデータ駆動型でいくつかの改善に伴い、これらのツールの改良点を調整し、スポンサー。 "
+msgstr "PostGIS / PostgreSQLは中央地理データウェアハウスとして使用されます。他のデータベースとデータ・ソースは、このようなOGRとFMEなどのツールを使用して、定期的な間隔でPostgreSQLに複製されています。初めにQGISは、主に、ビューアとして使用しました。最初のQGISのユーザーは、農業補助金を受けるために地元の農家で作られた宣言を監督する仕事を持っていた農夫でした。その後、QGISは、編集ツールやプリントコンポーザの改善に伴い、データエディタと地図出版プラットフォームとして導入されました。私たちは他のスイスのQGISのユーザー（ゾロトゥルン、トゥーンとCDEベルン（大学））と一緒に、記号化、自動化されたラベル、属性取扱いおよびフォームをデータ駆動型でいくつかの改善に伴い、これらのツールの改良点を調整し資金提供します。 "
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
@@ -66,7 +67,7 @@ msgid ""
 "rich set of symbolization and labeling options and the consistent map "
 "rendering between the Desktop GIS application and the Web-GIS. The QGIS "
 "webclient can be tested and used at http://gis.uster.ch/"
-msgstr "2010年後半には、QGISサーバーとの最初の試験を行いました。2011年に私たちは、WebクライアントとしてQGIS WMSサーバーとGeoExt/OpenLayersに基づいて新しい型WebGISシステムを導入しました。QGISサーバーを使用する決定のための主な理由は、既存のQGISデスクトッププロジェクト構成を再使用するのではなく、パラレルWebプロジェクトの構成を管理することによって可能になったかなりの時間を節約しました。さらなる利点は、記号化とラベリングのオプションの豊富なセットとデスクトップGISアプリケーションとWeb-GIS間の一貫性のある地図のレンダリングです。QGIS Webクライアントはhttp://gis.uster.ch/でテストして使用できます"
+msgstr "2010年後半には、QGISサーバーとの最初の試験を行いました。2011年に私たちは、WebクライアントとしてQGIS WMSサーバーとGeoExt/OpenLayersに基づいて新しい型WebGISシステムを導入しました。QGISサーバーを使用する決定のための主な理由は、既存のQGISデスクトッププロジェクト構成を再使用するのではなく、パラレルWebプロジェクトの構成を管理することによって可能になったかなりの時間を節約しました。さらなる利点は、記号化とラベリングのオプションの豊富なセットとデスクトップGISアプリケーションとWeb-GIS間の一貫性のある地図のレンダリングです。QGIS Webクライアントは http://gis.uster.ch/ でテストして使用できます"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:28
 msgid "Today, QGIS is used for the following GIS projects:"
@@ -90,11 +91,11 @@ msgid ""
 "viewing of underground cadastral data (waste water, water, gas and "
 "electricity networks, later also telecommunication) (german: "
 "Leitungskataster)"
-msgstr "地下の地点データ（廃水、水道、ガス、電力網、その後の電気通信）の閲覧（ドイツ語：Leitungskataster）"
+msgstr "地下の土地台帳データ（廃水、水道、ガス、電力網、その後は電気通信も）の閲覧（ドイツ語：Leitungskataster）"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:33
 msgid "viewing of cadastral and survey data"
-msgstr "知覚および調査データの表示"
+msgstr "地籍および測量データの表示"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:34
 msgid ""
@@ -126,7 +127,7 @@ msgid ""
 "product management or sales team. The developers of these two companies are "
 "also lead developers of the QGIS project and have excellent knowledge of the"
 " code base."
-msgstr "2007年にはさらに発展するだろうかペースQGISで、コミュニティと商用サポートの両方が進化する方法を完全に明確ではありませんでした。今日では、開発のスピードとQGISコミュニティによって作られた改善は私たちの期待を超えたことを述べることができます。コミュニティや企業Sourcepoleとマッドファットワイフからの商用サポートが優れています。製品管理や販売チームが離れて遮られることなく、開発者との直接通信があります。これら両社の開発者は、QGISプロジェクトの開発をリードし、コードベースの優れた知識を持っています。"
+msgstr "2007年には、どんなペースでQGISがさらに開発されるか、コミュニティと商用サポートの両方がどのように進化するかは、完全に明確ではありませんでした。今日では、QGISコミュニティによって為された開発と改善の速度は私たちの期待を超えたと述べることができます。企業Sourcepoleとマッドファットワイフからのコミュニティや商用サポートが優れています。製品管理や販売チームが離れて遮られることなく、開発者との直接通信があります。これら両社の開発者は、QGISプロジェクトの開発をリードし、コードベースの優れた知識を持っています。"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:49
 msgid ""
@@ -139,7 +140,7 @@ msgid ""
 " having to deal with licensing management. We are looking forward to future "
 "collaboration with the QGIS community and our commercial supporters for the "
 "advancement of the QGIS project."
-msgstr "バグがしばしば報告した後、数時間または数日内に固定されており、新たな展開が短期間で実装されています。新機能は、開発した直後にテストされ、品質がエンドユーザーには十分である時はいつでも、ユーザーに展開することができます。公式のソフトウェアリリースを待つ必要はありません。私たちは、プロジェクトに影響を与えるとライセンス管理に対処しなくても、私たちが好きなように多くのコンピュータにソフトウェアをインストールすることができるという自由を楽しみます。私たちはQGISコミュニティとQGISプロジェクトの発展のために私達の商業用サポーターとの将来のコラボレーションを楽しみにしています。"
+msgstr "バグは報告した後でしばしば数時間または数日内に修正されており、新規開発が短期間で実装されています。新機能は開発した直後にテストされ、品質がエンドユーザーにとって十分である時はいつでもユーザーに展開することができます。公式のソフトウェアリリースを待つ必要はありません。私たちは、ライセンス管理に対処しなくても、プロジェクトに影響を与え、好きなだけ多くのコンピュータにソフトウェアをインストールできる自由を享受します。私たちはQGISコミュニティとQGISプロジェクトの発展のために私達の商業的支援者との将来のコラボレーションを楽しみにしています。"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:52
 msgid "Author"
@@ -153,7 +154,7 @@ msgstr "アンドレアス・ノイマン"
 msgid ""
 "This article was contributed in April 2011 by Dr. Andreas Neumann. He is GIS"
 " coordinator at the City of Uster, Switzerland."
-msgstr "この記事はAndreas Neumann博士が2011年4月に寄稿しました。彼はスイスのウスター市でGISコーディネーターを務めています。"
+msgstr "この記事はアンドレアス・ノイマン博士が2011年4月に寄稿しました。氏はスイスのウスター市でGISコーディネーターを務めています。"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:38
 msgid ""

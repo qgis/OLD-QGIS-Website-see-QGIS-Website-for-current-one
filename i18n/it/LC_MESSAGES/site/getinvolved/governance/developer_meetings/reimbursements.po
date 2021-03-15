@@ -1,19 +1,22 @@
 # 
 # Translators:
 # amefad <fame@libero.it>, 2016
+# Andrea Giudiceandrea <andreaerdna@libero.it>, 2019
 # Luca M. <luca76@gmail.com>, 2014
 # Matteo <matteo_destefano@yahoo.it>, 2014
+# Pippo Peppo <abc@gmx.ch>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:58+0000\n"
-"Last-Translator: amefad <fame@libero.it>\n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"PO-Revision-Date: 2019-11-14 17:59+0000\n"
+"Last-Translator: Stefano Campus <skampus@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
 "Language: it\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -27,65 +30,65 @@ msgid ""
 "in Europe. The purpose of the meetings is to provide face-to-face time for "
 "developers. It is a forum for presenting new ideas, planning, putting heads "
 "together to solve problems and so on. We use funding from our "
-":doc:`../sponsorship/index` to facilitate the event, with co-funding from "
-"the host who usually supplies the venue and the infrastructure for hosting "
-"the meeting. Individual developers also co-fund the event by donating their "
-"time and in many cases financially supporting their visit to the meeting "
-"directly."
-msgstr "Il progetto QGIS organizza incontri per gli sviluppatori due volte all'anno, in genere da qualche parte in Europa. Lo scopo degli incontri è quello del faccia a faccia per gli sviluppatori. Si tratta di un modo per presentare nuove idee, una pianificazione, mettendo insieme le teste per risolvere i problemi e così via. Usiamo il finanziamento dal nostro :doc:`../sponsorship/index` per realizzare l'evento, con il co-finanziamento da parte dell'ospitante che di solito fornisce il luogo e l'infrastruttura per l'incontro. I singoli sviluppatori possono anche co-finanziare l'evento donando il loro tempo e in molti casi sostenere finanziariamente la loro partecipazione alla riunione."
+":ref:`QGIS_sustaining_memberships` to facilitate the event, with co-funding "
+"from the host who usually supplies the venue and the infrastructure for "
+"hosting the meeting. Individual developers also co-fund the event by "
+"donating their time and in many cases financially supporting their visit to "
+"the meeting directly."
+msgstr "Il progetto QGIS organizza incontri per gli sviluppatori due volte all'anno, in genere da qualche parte in Europa. Lo scopo dei meeting è quello di fornire occasione di incontro faccia a faccia per gli sviluppatori. Si tratta di un modo per presentare nuove idee, pianificare, lavorare insieme per risolvere i problemi e così via. Usiamo il finanziamento dal nostro :ref:`QGIS_sustaining_memberships` per agevolare la realizzazione dell'evento, con il co-finanziamento da parte dell'ospitante che di solito mette a disposizione il luogo e l'infrastruttura per l'incontro. Anche i singoli sviluppatori co-finanziano l'evento donando il loro tempo e in molti casi sostenendo finanziariamente la loro partecipazione alla riunione."
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:14
 msgid "Need a refund for QGIS HF expenses?"
 msgstr "Ti serve un rimborso per le spese relative a un QGIS HF?"
-
-#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:33
-msgid "In case of doubt"
-msgstr "In caso di dubbi"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:16
 msgid ""
 "If you are a contributor to the project (to either code, documentation, "
 "translation, or infrastructure), you think your participation to the HF will"
 " be useful for the project, and you do not have funds to cover for "
-"travelling and lodging, you can apply for refund, at least 40 days in "
-"advance"
-msgstr "Se hai contribuito al progetto (sia inviando codice, documentazione, traduzione o  infrastrutture), pensi che la partecipazione all'HF può essere utile per il progetto, e non hai fondi per il viaggio e l'alloggio, puoi fare richeista per il rimborso, con almeno 40 giorni di anticipo"
+"travelling and lodging, you can `apply for refund "
+"<https://goo.gl/forms/YKm5fo7ll5GfQEJI3>`_, at least 40 days in advance"
+msgstr "Se hai contribuito al progetto (con codice, documentazione, traduzione o infrastrutture), pensi che la tua partecipazione all'HF possa essere utile per il progetto, e non hai fondi per il viaggio e l'alloggio, you can `puoi fare richiesta per il rimborso <https://goo.gl/forms/YKm5fo7ll5GfQEJI3>`_, con almeno 40 giorni di anticipo"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:20
 msgid ""
 "When applying, please let us know (i) an estimate of the total amount "
 "required, and (ii) how your participation will contribute to QGIS"
-msgstr ""
+msgstr "Al momento dell'iscrizione, ti preghiamo di farci sapere (i) una stima dell'importo totale richiesto e (ii) come la tua partecipazione contribuirà a QGIS"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:22
 msgid ""
 "Later applications (<40 days) will be taken into account, based on the "
 "budget available and the priorities of the PSC"
-msgstr ""
+msgstr "Le domande successive (<40 giorni) saranno prese in considerazione sulla base del bilancio disponibile e delle priorità del PSC"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:24
 msgid ""
 "Please note that our funds are limited, so we'll generally not be able to "
 "refund all participants"
-msgstr ""
+msgstr "Tieni presente che i nostri fondi sono limitati, quindi generalmente non saremo in grado di rimborsare tutti i partecipanti"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:26
 msgid ""
 "Core devs (anyone with direct commit rights to the repository) and psc "
 "members will have priority on the allocation of funds"
-msgstr ""
+msgstr "Gli sviluppatori (chiunque abbia diritti di commit diretto al repository) e i membri del PSC avranno la priorità nell'assegnazione dei fondi"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:28
 msgid ""
 "At least 30 days in advance, PSC will communicate a decision to all those "
 "who applied"
-msgstr ""
+msgstr "Con almeno 30 giorni di anticipo, il PSC comunicherà una decisione a tutti coloro che hanno presentato domanda"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:29
 msgid ""
 "The refund will be sent to your bank account after the HF, on the basis of "
 "the bills actually paid and sent to our Treasurer."
-msgstr ""
+msgstr "Il rimborso sarà inviato sul vostro conto bancario dopo l'HF, sulla base delle ricevute effettivamente pagate e inviate al nostro Tesoriere."
+
+#: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:33
+msgid "In case of doubt"
+msgstr "In caso di dubbi"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:35
 msgid ""
@@ -96,7 +99,7 @@ msgid ""
 "indicate dissent, indifference and assent respectively. In the event of a "
 "tie-break, the PSC Chairman shall make the final decision. The decision made"
 " by the PSC shall be final."
-msgstr ""
+msgstr "Il comitato di verifica del progetto (PSC) deve fornire l'arbitrato per qualsiasi richiesta, reclamo o ricorso relativo alle richieste di finanziamento da parte dei singoli sviluppatori. Nel caso in cui il PSC è chiamato per arbitrare, deve essere proposta una risoluzione ed i membri PSC devono votare utilizzando il sistema di -1/0/+1 per indicare, rispettivamente, il dissenso, l'astensione o l'assenso. In caso di parità, il Presidente PSC prenderà la decisione finale. La decisione del PSC è definitiva."
 
 #~ msgid ""
 #~ "The project steering committee shall provide arbitration for any query, "
@@ -232,4 +235,24 @@ msgstr ""
 #~ "The requestor should provide copies of reciepts for all expenditures as soon"
 #~ " as possible after the event. No refunds should be made without accompanying"
 #~ " receipts."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The QGIS project holds twice-yearly developer meetings, typically somewhere "
+#~ "in Europe. The purpose of the meetings is to provide face-to-face time for "
+#~ "developers. It is a forum for presenting new ideas, planning, putting heads "
+#~ "together to solve problems and so on. We use funding from our "
+#~ ":doc:`../sponsorship/index` to facilitate the event, with co-funding from "
+#~ "the host who usually supplies the venue and the infrastructure for hosting "
+#~ "the meeting. Individual developers also co-fund the event by donating their "
+#~ "time and in many cases financially supporting their visit to the meeting "
+#~ "directly."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are a contributor to the project (to either code, documentation, "
+#~ "translation, or infrastructure), you think your participation to the HF will"
+#~ " be useful for the project, and you do not have funds to cover for "
+#~ "travelling and lodging, you can apply for refund, at least 40 days in "
+#~ "advance"
 #~ msgstr ""

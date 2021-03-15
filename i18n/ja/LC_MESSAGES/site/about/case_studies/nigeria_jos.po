@@ -1,13 +1,14 @@
 # 
 # Translators:
-# Kohei Tomita <fairtommy@gmail.com>, 2017
+# fairtommy <fairtommy@gmail.com>, 2018
+# fairtommy <fairtommy@gmail.com>, 2017-2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-12-04 03:33+0000\n"
-"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"PO-Revision-Date: 2018-12-19 03:40+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +19,7 @@ msgstr ""
 #: ../../source/site/about/case_studies/nigeria_jos.rst:3
 msgid ""
 "Amurum forest reserve habitat and avifauna mapping with QGIS in Nigeria"
-msgstr "ナイジェリアのアムルム森林保護区とQGISとのアビファナマッピング"
+msgstr "QGISでナイジェリアにおけるアムルム森林保護区と鳥相の地図を作成"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:5
 msgid ""
@@ -35,7 +36,7 @@ msgid ""
 "determinants of Amurum reserve and how the basic habitat maps were used to "
 "obtain strata for the purpose of efficiently determining the spatial "
 "distribution of the avifauna including the biodiversity."
-msgstr "Amurumの森林保護区は、ヨス、高原状態、ナイジェリアの都市の近くに位置しています。それは自然の保全、教育や研究の目的のためにアップ・レベンティス鳥類研究所（APLORI）の開始と併せて設立されました。APLORIはヨスの大学の動物学の部門によってホストされています。毎年、すべてのナイジェリアにわたり保全生物学の訓練を得るから約8意欲的な学生のグループ、（R付き）と同様に2011 GISのなどの統計。2011年12月に2週間の間、私たちは、基本的なGISの概念を学び、さまざまな環境保全のためにQGISを有するものを適用します。この記事では、私たちが生息地とAmurum準備金のその決定要因とどのように基本的な生息地マップが効率的に生物多様性などの鳥類相の空間分布を決定する目的のために地層を取得するために使用されたをマップするためにQGISを使用する方法について説明します。"
+msgstr "Amurumの森林保護区は、ヨス、高原状態、ナイジェリアの都市の近くに位置しています。それは自然の保全、教育や研究の目的のためにアップ・レベンティス鳥類研究所（APLORI）の開始と併せて設立されました。APLORIはヨスの大学の動物学の部門によってホストされています。毎年、すべてのナイジェリアにわたり保全生物学の訓練を得るから約8意欲的な学生のグループ、（R付き）と同様に2011 GISのなどの統計。2011年12月に2週間の間、私たちは、基本的なGISの概念を学び、さまざまな環境保全のためにQGISを有するものを適用します。この記事では、私たちが生息地とAmurum準備金のその決定要因とどのように基本的な生息地図が効率的に生物多様性などの鳥類相の空間分布を決定する目的のために地層を取得するために使用されたを地図化するためにQGISを使用する方法について説明します。"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:12
 #: ../../source/site/about/case_studies/nigeria_jos.rst:46
@@ -44,7 +45,7 @@ msgstr "トレーニンググループ"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:15
 msgid "Mapping elevation, hill shade, slope and habitats"
-msgstr "マッピング高度、山陰、斜面および生息地"
+msgstr "高度、山陰、斜面および生息地を地図化"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:17
 msgid ""
@@ -53,7 +54,7 @@ msgid ""
 "area in which Amurum is located. (Information about the global elevation "
 "data set can be found here: http://www.cgiar-csi.org/data/elevation/item/45"
 "-srtm-90m-digital-elevation-database-v41)."
-msgstr "マッピング標高とgroundtruthing：私たちはAmurumが配置されている領域についてNASAシャトルレーダー地形ミッション（SRTM）から発信（無料）標高データをダウンロードしました。（グローバル標高データセットに関する情報はここで見つけることができます：http://www.cgiar-csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41）。"
+msgstr "標高とgroundtruthingを地図化する：私たちはAmurumが配置されている領域についてNASAシャトルレーダー地形ミッション（SRTM）から発信（無料）標高データをダウンロードしました。（グローバル標高データセットに関する情報はここで見つけることができます： http://www.cgiar-csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41 ）。"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:19
 msgid ""
@@ -82,7 +83,7 @@ msgid ""
 "original (clipped) elevation map to obtain a higher resolution map. We used "
 "the warp tool in GdalTools. By means of the contour tool we obtained smooth "
 "contour lines."
-msgstr "私たちは格好良い地図を開発することを意図しているので、私たちはより高解像度の地図を取得する（クリッピング）標高地図を元に補間しました。私たちは、GdalToolsにワープツールを使用していました。輪郭ツールによって、私たちは滑らかな輪郭ラインを得ました。"
+msgstr "私たちは格好良い地図を開発することを意図しているので、私たちはより高解像度の地図を取得する（クリッピング）標高地図を元に補間しました。私たちはGdalTools中のワープツールを使用しました。等高線ツールによって、私たちは滑らかな等高線を得ました。"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:32
 msgid ""
@@ -91,7 +92,7 @@ msgid ""
 " the GPS were smoothly imported using the GPS Tools. The imported waypoints "
 "and tracks were used to construct a polygon shapefile. The tracks inside the"
 " reserve were mapped in a similar fashion."
-msgstr "予備の境界の座標は、GPSで予約の境界に沿って歩くことによって得ました。GPSに格納されたウェイポイントとトラックが円滑にGPSツールを使用してインポートしました。輸入ウェイポイントとトラックは、ポリゴンシェープファイルを構築するために使用されました。リザーブ内のトラックは、同様の方法でマッピングしました。"
+msgstr "予備の境界の座標は、GPSで予約の境界に沿って歩くことによって得ました。GPSに格納されたウェイポイントとトラックが円滑にGPSツールを使用してインポートしました。輸入ウェイポイントとトラックは、ポリゴンシェープファイルを構築するために使用されました。保護区内のトラックは、同様の方法でマッピングしました。"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:34
 msgid ""
@@ -113,7 +114,7 @@ msgid ""
 "The habitat maps were used to generate random locations. The area of the "
 "various types of habitat were used to generate a number of locations "
 "proportional to the surface of each habitat type (stratification)."
-msgstr "生息地のマップはランダムな位置を生成するために使用されました。生息地の様々なタイプの面積は、各生息地のタイプ（層化）の表面に比例した位置の数を生成するために使用しました。"
+msgstr "生息地の地図はランダムな位置を生成するために使用されました。生息地の様々なタイプの面積は、各生息地のタイプ（層化）の表面に比例した位置の数を生成するために使用しました。"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:48
 msgid ""
@@ -127,7 +128,7 @@ msgid ""
 "text layer” tool. On the basis of the above mentioned layers a map was "
 "constructed presenting some of the most important landscape features and "
 "avian diversity of the Amurum reserve."
-msgstr "fTools内のランダムな点は、この目的のために使用されました。すべての場所が準備全体に分散38のランダムな場所の合計を与え、学生の4グループ（グループあたり2）による2つの午前中に訪問しました。観測データは、スプレッドシートに入力され、またRを用いて分析した、シャノン - ウィーナーの多様性指数は、それが使用QGISにロードされたCSVファイルとしてエクスポートし、得られた観測データとロケーション・ファイルをマージした後にRを用いて計算しました。 「区切りのテキストレイヤーを追加」ツール。上記の各層に基づきマップは、最も重要な景観の特徴とAmurum準備金の鳥類の多様性のいくつかを提示して構築しました。"
+msgstr "fTools内のランダムな点は、この目的のために使用されました。すべての場所が準備全体に分散38のランダムな場所の合計を与え、学生の4グループ（グループあたり2）による2つの午前中に訪問しました。観測データは、スプレッドシートに入力され、またRを用いて分析した、シャノン - ウィーナーの多様性指数は、それが使用QGISにロードされたCSVファイルとしてエクスポートし、得られた観測データとロケーション・ファイルをマージした後にRを用いて計算しました。 「区切りのテキストレイヤーを追加」ツール。上記の各レイヤーに基づき地図は、最も重要な景観の特徴とAmurum準備金の鳥類の多様性のいくつかを提示して構築しました。"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:51
 msgid "Conclusion"
@@ -157,7 +158,7 @@ msgid ""
 "allows for stratification and thus for better estimates of abundances of "
 "various kinds of organisms. Basically we are now able to do better "
 "ecological research using QGIS as an open source platform."
-msgstr "全体として、コースは大成功でした。以前のGISの経験がなかった学生グループは、QGISとの共同作業を楽しんでいました。ちょうど2週間のうちに、私たちは非常に有用な保護区の地図を作成することができました。とりわけ、様々な生息地の範囲が決定され、これは層別化を可能にし、したがって様々な種類の生物の存在量のより良い推定値を可能にする。基本的には、QGISをオープンソースプラットフォームとして、より良い生態学的研究を行うことができます。"
+msgstr "全体として、コースは大成功でした。以前にGISの経験がなかった学生グループは、QGISでの作業を楽しんでいました。ちょうど2週間のうちに、私たちは非常に有用な保護区の地図を作成することができました。とりわけ、様々な生息地の範囲が決定され、これは層別化を可能にし、したがって様々な種類の生物の存在量のより良い推定値を可能にする。今では基本的にQGISをオープンソースプラットフォームとして、より良い生態学的研究を行うことができます。"
 
 #~ msgid ""
 #~ "Overall, the course was a great success. We - a group of students with no "

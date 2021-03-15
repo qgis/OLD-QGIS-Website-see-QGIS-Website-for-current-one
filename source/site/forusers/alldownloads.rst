@@ -97,42 +97,47 @@ cutting edge QGIS testing build (note the warning_).
 Debian/Ubuntu
 -------------
 
-In the 'advanced' section following this one, you will find ALL possible options to install different
-versions of QGIS in different versions of Ubuntu.
+Quickstart
+..........
+
+.. note: In the section following this one, you will find ALL possible options to
+   install different versions of QGIS in different versions of Debian/Ubuntu.
 
 Here you will simply install the latest stable QGIS (|version|.x |codename|)
-in your Ubuntu or Debian without having to edit config files.
+in your Debian or Ubuntu without having to edit config files.
 
-.. note:: Although you see 'Ubuntu' in some places, this also works for 'Debian', as one is actually a symlink to the other on our server.
+.. note:: Although you see 'Debian' in some places, this also works for
+   'Ubuntu', as one is actually a symlink to the other on our server.
 
 First install some tools you will need for this instructions::
 
- sudo apt-get install gnupg software-properties-common
+ sudo apt install gnupg software-properties-common
 
 Now install the QGIS Signing Key, so QGIS software from 
 the QGIS repo will be trusted and installed::
 
- sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 51F523511C7028C3
+ wget -qO - https://qgis.org/downloads/qgis-2020.gpg.key | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
+ sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
 
 Add the QGIS repo for the latest stable QGIS (|version|.x |codename|).
 
 Note: "lsb_release -c -s" in those lines will return your distro name::
 
- sudo add-apt-repository "deb     https://qgis.org/ubuntu $(lsb_release -c -s) main"
+ sudo add-apt-repository "deb https://qgis.org/ubuntu $(lsb_release -c -s) main"
 
 Update your repository information to reflect also the just added QGIS one::
 
- sudo apt-get update
+ sudo apt update
 
-Now, install QGIS!
+Now, install QGIS::
 
-Note: add 'qgis-server' to this line if you also want to install QGIS Server::
+ sudo apt install qgis qgis-plugin-grass
 
- sudo apt-get install qgis qgis-plugin-grass
+.. note:: Add 'qgis-server' to this line if you also want to install QGIS Server
 
 
-Debian/Ubuntu (advanced)
-------------------------
+Repositories
+............
 
 Default Debian and Ubuntu software repositories often hold older versions of
 QGIS.
@@ -165,9 +170,9 @@ you want those you also need to include ubuntugis-unstable ppa in your
    - switch to a nightly repository (available for the **two** release
      branches and master) whose packages are rebuild on regular basis and will also
      pickup the updated dependencies automatically or
-   - build your own set of packages (see INSTALL_).
+   - build your own set of packages (see build-debian-packages_).
 
-.. _INSTALL: https://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html#toc11
+.. _build-debian-packages: https://github.com/qgis/QGIS/blob/master/INSTALL.md#310-building-debian-packages
 
 .. _QGIS-debian-testing:
 
@@ -237,16 +242,12 @@ Supported distribution versions:
 |               +-------------+-------------------+-----------------------+
 |               | sid         | unstable          |                       |
 +---------------+-------------+-------------------+-----------------------+
-| Ubuntu        | 20.04       | focal [6]_        |                       |
+| Ubuntu        | 20.10       | groovy            |                       |
 |               +-------------+-------------------+-----------------------+
-|               | 19.10       | eoan              |                       |
-|               +-------------+-------------------+-----------------------+
-|               | 19.04       | disco             |                       |
+|               | 20.04 (LTS) | focal             | yes                   |
 |               +-------------+-------------------+-----------------------+
 |               | 18.04 (LTS) | bionic            | yes                   |
 +---------------+-------------+-------------------+-----------------------+
-
-.. [6] starting with 3.10.3 / 3.11 (master) / 3.12
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
 
@@ -260,13 +261,13 @@ Example latest release for Debian unstable::
 
 After that type the commands below to install QGIS::
 
- sudo apt-get update
- sudo apt-get install qgis qgis-plugin-grass
+ sudo apt update
+ sudo apt install qgis qgis-plugin-grass
 
 In case you would like to install QGIS Server, type::
 
- sudo apt-get update
- sudo apt-get install qgis-server
+ sudo apt update
+ sudo apt install qgis-server
 
 .. note:: Please remove all the QGIS and GRASS packages you may have
    installed from other repositories before doing the update.
@@ -274,23 +275,25 @@ In case you would like to install QGIS Server, type::
 In case of keyserver errors add the qgis.org repository public key to
 your apt keyring, type::
 
- wget -O - https://qgis.org/downloads/qgis-2019.gpg.key | gpg --import
- gpg --fingerprint 51F523511C7028C3
+ wget -O - https://qgis.org/downloads/qgis-2020.gpg.key | gpg --import
+ gpg --fingerprint F7E06F06199EF2F2
 
 Should output::
 
- pub   rsa4096 2019-08-08 [SCEA] [expires: 2020-08-08]
-       8D5A 5B20 3548 E500 4487  DD19 51F5 2351 1C70 28C3
- uid           [unknown] QGIS Archive Automatic Signing Key (2019) <qgis-developer@lists.osgeo.org>
+ pub   rsa4096 2020-08-08 [SCEA] [expires: 2021-08-08]
+       3987 7635 093F 2656 0197  11FA F7E0 6F06 199E F2F2
+ uid           [ultimate] QGIS Archive Automatic Signing Key (2020) <qgis-developer@lists.osgeo.org>
 
 After you have verified the fingerprint you can add the key to apt with::
 
- gpg --export --armor 51F523511C7028C3 | sudo apt-key add -
+ gpg --export --armor F7E06F06199EF2F2 | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
+ sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
 
 Alternatively you can download the key from a keyserver and add the key to apt
-in one go (without manual fingerprint verification)::
+in without manual fingerprint verification::
         
- sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key 51F523511C7028C3
+ wget -qO - https://qgis.org/downloads/qgis-2020.gpg.key | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
+ sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
 
 
 Fedora
@@ -322,21 +325,14 @@ to install both client and server applications on the same machine), type::
 
  sudo dnf install qgis-server python3-qgis
 
-This repository also provides a copy of SAGA 2.3.1 compatible with Processing.
-It can be installed with the following commands::
-
- sudo dnf install saga
-
 +---------------+-------------+--------------+--------------+
 | Distribution  | Version     | QGIS         | GRASS GIS    |
 |               |             | version      | version      |
 |               |             |              |              |
 +===============+=============+==============+==============+
-| Fedora        | 30 (EOL)    | 3.14         | 7.6          |
+| Fedora        | 32          | 3.18         | 7.8          |
 |               +-------------+--------------+--------------+
-|               | 31          | 3.14         | 7.8          |
-|               +-------------+--------------+--------------+
-|               | 32          | 3.14         | 7.8          |
+|               | 33          | 3.18         | 7.8          |
 +---------------+-------------+--------------+--------------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis/
@@ -357,53 +353,17 @@ to install both client and server applications on the same machine), type::
 
  sudo dnf install qgis-server python3-qgis
 
-This repository also provides a copy of SAGA 2.3.1 compatible with Processing.
-It can be installed with the following commands::
-
- sudo dnf install saga
-
 +---------------+-------------+--------------+--------------+
 | Distribution  | Version     | QGIS         | GRASS GIS    |
 |               |             | version      | version      |
 |               |             |              |              |
 +===============+=============+==============+==============+
-| Fedora        | 30 (EOL)    | 3.10         | 7.6          |
+| Fedora        | 32          | 3.16         | 7.8          |
 |               +-------------+--------------+--------------+
-|               | 31          | 3.10         | 7.8          |
-|               +-------------+--------------+--------------+
-|               | 32          | 3.10         | 7.8          |
+|               | 33          | 3.16         | 7.8          |
 +---------------+-------------+--------------+--------------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/
-
-QGIS testing (unstable)
-.......................
-
-Enable the repository::
-
- sudo dnf copr enable dani/qgis-testing
-
-After that type the commands below to install QGIS::
-
- sudo dnf install qgis python3-qgis qgis-grass
-
-In case you would like to install QGIS Server (note that it's not a common practice
-to install both client and server applications on the same machine), type::
-
- sudo dnf install qgis-server python3-qgis
-
-+---------------+-------------+--------------+--------------+
-| Distribution  | Version     | QGIS         | GRASS GIS    |
-|               |             | version      | version      |
-|               |             |              |              |
-+===============+=============+==============+==============+
-| Fedora        | 30 (EOL)    | 3.13         | 7.68         |
-|               +-------------+--------------+--------------+
-|               | 31          | 3.13         | 7.8          |
-+---------------+-------------+--------------+--------------+
-
-Testing builds are updated infrequently.
-More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-testing/
 
 RHEL, CentOS, Scientific Linux
 ------------------------------
@@ -419,19 +379,19 @@ Try the ELGIS repository: http://elgis.argeo.org/
 SUSE / openSUSE
 ---------------
 
-Latest stable and LTR packages called qgis and qgis-ltr are available in the following repositoies:
+Latest stable and LTR packages called qgis and qgis-ltr are available in the following repositories:
 
 Tumbleweed::
 
  https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Tumbleweed/
+
+Leap 15.2::
+
+ https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.2/
  
 Leap 15.1::
 
  https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.1/
-
-Leap 15.0::
-
- https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.0/
 
 Factory ARM::
 
@@ -451,7 +411,7 @@ SLE 15 SP1 Backports debug::
 
 All packages include GRASS and Python support.
 
-All openSUSE Geo repositoties can be found here::
+All openSUSE Geo repositories can be found here::
 
  https://download.opensuse.org/repositories/Application:/Geo/
 
@@ -509,6 +469,35 @@ yaourt -S qgis-git
 
 For bugs and other behaviour, read comments here : https://aur.archlinux.org/packages/qgis-git
 
+Flatpak
+-------
+
+There is an QGIS flatpak for QGIS Stable available, maintained by the flathub community.
+
+For general Linux Flatpak install notes, see https://flatpak.org/setup/
+
+QGIS on Flathub: https://flathub.org/apps/details/org.qgis.qgis
+
+To install::
+
+ flatpak install --from  https://flathub.org/repo/appstream/org.qgis.qgis.flatpakref
+
+Then to run::
+
+ flatpak run org.qgis.qgis
+
+To update your flatpak QGIS::
+
+ flatpak update
+
+On certain distributions, you may also need to install xdg-desktop-portal or xdg-desktop-portal-gtk packages in order for file dialogs to appear.
+
+Flathub files: https://github.com/flathub/org.qgis.qgis and report issues here: https://github.com/flathub/org.qgis.qgis/issues
+
+Note: if you need to install additional Python modules, because they are needed by a plugin, you can install the module with (here installing the urllib3 module)::
+
+ flatpak run --command=pip3 org.qgis.qgis install urllib3 --user
+
 
 Mac OS X / macOS
 ================
@@ -563,35 +552,6 @@ Or to customize compilation options, you can build it from FreeBSD ports
  make install clean
 
 
-
-Flatpak
-=======
-
-There is an QGIS flatpak for QGIS Stable available, maintained by the flathub community.
-
-For general Linux Flatpak install notes, see https://flatpak.org/setup/
-
-QGIS on Flathub: https://flathub.org/apps/details/org.qgis.qgis
-
-To install::
-
- flatpak install --from  https://flathub.org/repo/appstream/org.qgis.qgis.flatpakref
-
-Then to run::
-
- flatpak run org.qgis.qgis
-
-To update your flatpak QGIS::
-
- flatpak update
-
-Flathub files: https://github.com/flathub/org.qgis.qgis and report issues here: https://github.com/flathub/org.qgis.qgis/issues
-
-Note: if you need to install additional Python modules, because they are needed by a plugin, you can install the module with (here installing the urllib3 module)::
-
- flatpak run --command=pip3 org.qgis.qgis install urllib3 --user
-
-
 Android
 =======
 
@@ -627,4 +587,6 @@ QGIS Testing warning
 Installing from Source
 ======================
 
-Refer to the `INSTALL guide <http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html>`_ on how to build and install QGIS from source for the different platforms.
+Refer to INSTALL_ on how to build and install QGIS from source for the different platforms.
+
+.. _INSTALL: https://github.com/qgis/QGIS/blob/master/INSTALL.md

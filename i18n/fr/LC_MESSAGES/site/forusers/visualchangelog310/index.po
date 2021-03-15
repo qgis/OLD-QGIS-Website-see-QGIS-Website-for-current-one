@@ -9,9 +9,9 @@
 # Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2020
 # Arnaud Poncet-Montanges, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2020
-# Sant-anna <delazj@gmail.com>, 2020
-# MarieSilvestre, 2020
+# Harrissou Sant-anna, 2020
 # Vincent Bré <vincent.bre@outlook.fr>, 2020
+# MarieSilvestre, 2020
 # 
 #, fuzzy
 msgid ""
@@ -20,7 +20,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-02 12:44+0100\n"
 "PO-Revision-Date: 2019-11-02 11:50+0000\n"
-"Last-Translator: Vincent Bré <vincent.bre@outlook.fr>, 2020\n"
+"Last-Translator: MarieSilvestre, 2020\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2733,7 +2733,7 @@ msgstr "`#31643 <https://github.com/qgis/QGIS/issues/31643>`__"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:949
 msgid "Not affected"
-msgstr ""
+msgstr "Non affecté"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:949
 msgid "`PR #3183 <https://github.com/qgis/QGIS/pull/31834>`__"
@@ -2909,7 +2909,7 @@ msgstr "`PR #3210 <https://github.com/qgis/QGIS/pull/32106>`__"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:977
 msgid "creating indexes on geopackage failes (QGIS 3.8.3)"
-msgstr ""
+msgstr "la création d'index sur des GeoPackages échoue (QGIS 3.8.3)"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:977
 msgid "`#32094 <https://github.com/qgis/QGIS/issues/32094>`__"
@@ -3122,7 +3122,7 @@ msgstr "`PR #3176 <https://github.com/qgis/QGIS/pull/31763>`__"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:1018
 msgid "GRASS v.build.polylines dosn't work in Qgis 3.4.10"
-msgstr ""
+msgstr "GRASS v.build.polylines ne fonctionne pas avec QGIS 3.4.10"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:1018
 msgid "`#31037 <https://github.com/qgis/QGIS/issues/31037>`__"
@@ -3335,7 +3335,7 @@ msgstr "`#29742 <https://github.com/qgis/QGIS/issues/29742>`__"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:1065
 msgid "Crash when trying to save a project"
-msgstr ""
+msgstr "Plante lorsque l'on essaie de sauvegarder un projet"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:1065
 msgid "`#29896 <https://github.com/qgis/QGIS/issues/29896>`__"
@@ -3360,6 +3360,7 @@ msgstr "`#32163 <https://github.com/qgis/QGIS/issues/32163>`__"
 #: ../../source/site/forusers/visualchangelog310/index.rst:1071
 msgid "QGIS cannot be opened after updating to Mac OS Catalina"
 msgstr ""
+"QGIS ne s'ouvre pas après avoir fait la mise à jour vers Mac OS Catalina"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:1071
 msgid "`#32167 <https://github.com/qgis/QGIS/issues/32167>`__"
@@ -3925,7 +3926,7 @@ msgstr "Cette fonctionnalité a été développée par Paul Blottiere"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:1185
 msgid "Feature: Bug fixes by Nyall Dawson"
-msgstr ""
+msgstr "Fonctionnalité: correction de bugs par Nyall Dawson"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:1190
 msgid "Fix crash when deleting layouts from designer window"

@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
+# Simone Falceri, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-11 18:41+0200\n"
-"PO-Revision-Date: 2020-03-16 09:27+0000\n"
-"Last-Translator: Valerio Pinna <pinnavalerio@yahoo.co.uk>\n"
+"PO-Revision-Date: 2020-10-19 12:55+0000\n"
+"Last-Translator: Simone Falceri\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +21,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:3
 msgid "HIG (Human Interface Guidelines)"
-msgstr ""
+msgstr "HIG (Human Interface Guidelines)"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:5
 msgid ""
@@ -35,7 +36,7 @@ msgid ""
 "be grouped together and then use group boxes with a label to identify the "
 "topic of that group. Avoid using group boxes with only a single widget / "
 "item inside."
-msgstr ""
+msgstr "Raggruppa elementi correlati utilizzando le caselle di gruppo: prova a identificare gli elementi che possono essere raggruppati insieme e quindi utilizza le caselle di gruppo con un'etichetta per identificare l'argomento di quel gruppo. Evita di utilizzare le caselle di gruppo con un solo widget/elemento all'interno."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:13
 msgid ""
@@ -50,7 +51,7 @@ msgid ""
 "causes visual noise and does not impart additional meaning, so don't use "
 "them. An exception to this rule is when you have two labels next to each "
 "other e.g.: Label1 Plugin (Path:) Label2 [/path/to/plugins]"
-msgstr ""
+msgstr "Non terminare le etichette per i widget o le caselle di gruppo con i due punti: l'aggiunta di due punti causa disturbi visivi e non conferisce significato aggiuntivo, quindi non usarli. Un'eccezione a questa regola è quando hai due etichette l'una accanto all'altra, ad esempio: Label1 Plugin (Path:) Label2 [/path/to/plugins]"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:20
 msgid ""
@@ -58,7 +59,7 @@ msgid ""
 "'delete', 'remove' etc, try to impose adequate space between the harmful "
 "action and innocuous actions so that the users is less likely to "
 "inadvertantly click on the harmful action."
-msgstr ""
+msgstr "Tieni le azioni dannose lontane da quelle innocue: se hai azioni per 'eliminare', 'rimuovere' ecc., Prova a imporre uno spazio adeguato tra l'azione dannosa e le azioni innocue in modo che gli utenti abbiano meno probabilità di fare clic inavvertitamente sull'azione dannosa."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:24
 msgid ""
@@ -73,21 +74,21 @@ msgid ""
 "Tabs should not be nested. If you use tabs, follow the style of the tabs "
 "used in QgsVectorLayerProperties / QgsProjectProperties etc. i.e. tabs at "
 "top with icons at 22x22."
-msgstr ""
+msgstr "Le schede non devono essere nidificate. Se utilizzi le schede, segui lo stile delle schede utilizzate in QgsVectorLayerProperties / QgsProjectProperties ecc., ovvero le schede in alto con icone a 22x22."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:31
 msgid ""
 "Widget stacks should be avoided if at all possible. They cause problems with"
 " layouts and inexplicable (to the user) resizing of dialogs to accommodate "
 "widgets that are not visible."
-msgstr ""
+msgstr "Le pile di widget dovrebbero essere evitate se possibile. Causano problemi con i layout e un ridimensionamento inspiegabile (per l'utente) delle finestre di dialogo per accogliere i widget che non sono visibili."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:34
 msgid ""
 "Try to avoid technical terms and rather use a laymans equivalent e.g. use "
 "the word 'Transparency' rather than 'Alpha Channel' (contrived example), "
 "'Text' instead of 'String' and so on."
-msgstr ""
+msgstr "Cerca di evitare termini tecnici e utilizza piuttosto un equivalente per profani, ad es. utilizzare la parola 'Trasparenza' anziché 'Canale alfa' (esempio artificioso), 'Testo' invece di 'Stringa' e così via."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:37
 msgid ""
@@ -120,7 +121,7 @@ msgstr "Non aggiungere opzioni per il solo gusto di avere un sacco di opzioni. �
 msgid ""
 "If clicking a button will spawn a new dialog, an ellipsis (...) should be "
 "suffixed to the button text."
-msgstr ""
+msgstr "Se facendo clic su un pulsante verrà generata una nuova finestra di dialogo, al testo del pulsante dovrebbe essere aggiunta un'ellissi (...)."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/hig.rst:52
 msgid "Authors"

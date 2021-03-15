@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2020
+# Sorin Călinică <scalinica@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-13 10:56+0100\n"
 "PO-Revision-Date: 2020-03-13 10:08+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2020\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2020\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,7 +34,7 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:7
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:24
 msgid "**Date of voting**: 2019-11-19"
-msgstr ""
+msgstr "**Data votării**: 2019-11-19"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:9
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:45
@@ -42,7 +42,7 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:98
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:174
 msgid "**Proponent**: Paolo Cavallini"
-msgstr ""
+msgstr "**Propunere**: Paolo Cavallini"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:11
 msgid ""
@@ -56,6 +56,7 @@ msgstr ""
 msgid ""
 "**Votes**: In favour: Marco, Andreas, Jürgen, Anita, Paolo Abstain: Tim"
 msgstr ""
+"**Voturi**: Favorabile: Marco, Andreas, Jürgen, Anita, Paolo Abstain: Tim"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:17
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:36
@@ -66,7 +67,7 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:165
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:186
 msgid "**Decision**: Approved"
-msgstr ""
+msgstr "**Decizie**: Aprobat"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:19
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:38
@@ -76,7 +77,7 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:130
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:188
 msgid "**Notes**: none"
-msgstr ""
+msgstr "**Observații**: niciuna"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:22
 msgid "Infrastructure"
@@ -86,7 +87,7 @@ msgstr "Infrastructura"
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:137
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:153
 msgid "**Proponent**: Andreas Neumann"
-msgstr ""
+msgstr "**Propunere**: Andreas Neumann"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:28
 msgid ""
@@ -103,7 +104,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:33
 msgid "**Votes**: In favour: Marco, Anita, Jürgen, Andreas Abstain: Paolo"
-msgstr ""
+msgstr "**Voturi**: Favorabile: Marco, Anita, Jürgen, Andreas Abstain: Paolo"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:41
 msgid "Expenses reporting"
@@ -115,7 +116,7 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:119
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:172
 msgid "**Date of voting**: 2019-12-03"
-msgstr ""
+msgstr "**Data votării**: 2019-12-03"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:47
 msgid ""
@@ -126,16 +127,16 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:50
 msgid "Date of resolution"
-msgstr ""
+msgstr "Data rezolvării"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:51
 msgid "Date of delivery"
-msgstr ""
+msgstr "Data livrării"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:52
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:79
 msgid "Proponent"
-msgstr ""
+msgstr "Propunere"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:53
 msgid "Description of results"
@@ -161,10 +162,12 @@ msgid ""
 "**Votes**: In favour: Paolo Abstain: Anita, Tim, Andreas, Jürgen Contrary: "
 "Marco"
 msgstr ""
+"**Voturi**: Favorabile: Paolo Abstain: Anita, Tim, Andreas, Jürgen Contrary:"
+" Marco"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:65
 msgid "**Decision**: Rejected"
-msgstr ""
+msgstr "**Decizie**: Refuzat"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:70
 msgid "List resolutions"
@@ -177,7 +180,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:78
 msgid "Date of voting"
-msgstr ""
+msgstr "Data votării"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:80
 msgid "Rationale"
@@ -185,11 +188,11 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:81
 msgid "Votes"
-msgstr ""
+msgstr "Voturi"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:82
 msgid "Decision"
-msgstr ""
+msgstr "Decizie"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:83
 msgid "Notes"
@@ -204,7 +207,7 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:87
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:110
 msgid "**Votes**: In favour: Anita, Tim, Paolo, Andreas, Jürgen, Marco"
-msgstr ""
+msgstr "**Voturi**: Favorabile: Anita, Tim, Paolo, Andreas, Jürgen, Marco"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:94
 msgid "Meetings"
@@ -239,7 +242,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:121
 msgid "**Proponent**: Saber Razmjooei"
-msgstr ""
+msgstr "**Propunere**: Saber Razmjooei"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:123
 msgid ""
@@ -250,7 +253,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:126
 msgid "**Votes**: In favour: Anita, Andreas, Tim, Marco, Paolo, Jürgen"
-msgstr ""
+msgstr "**Voturi**: Favorabile: Anita, Andreas, Tim, Marco, Paolo, Jürgen"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:133
 msgid "PROJ.6 bugfixes"
@@ -259,7 +262,7 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:135
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:151
 msgid "**Date of voting**: 2019-12-12"
-msgstr ""
+msgstr "**Data votării**: 2019-12-12"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:139
 msgid ""
@@ -270,13 +273,15 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:142
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:163
 msgid "**Votes**: In favour: Andreas, Marco, Tim, Anita, Paolo"
-msgstr ""
+msgstr "**Voturi**: Favorabile: Andreas, Marco, Tim, Anita, Paolo"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:146
 msgid ""
 "**Notes**: https://lists.osgeo.org/pipermail/qgis-"
 "psc/2019-December/007983.html"
 msgstr ""
+"**Observații**: https://lists.osgeo.org/pipermail/qgis-"
+"psc/2019-December/007983.html"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:149
 msgid "Testing hardware"
@@ -305,6 +310,8 @@ msgid ""
 "**Notes**: https://lists.osgeo.org/pipermail/qgis-"
 "psc/2019-December/007982.html"
 msgstr ""
+"**Observații**: https://lists.osgeo.org/pipermail/qgis-"
+"psc/2019-December/007982.html"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:170
 msgid "Decision making"
@@ -342,3 +349,4 @@ msgstr ""
 msgid ""
 "**Votes**: In favour: Anita, Tim, Paolo, Andreas, Jürgen Abstain: Marco"
 msgstr ""
+"**Voturi**: Favorabile: Anita, Tim, Paolo, Andreas, Jürgen Abstain: Marco"

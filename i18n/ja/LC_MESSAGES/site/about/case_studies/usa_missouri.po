@@ -1,13 +1,14 @@
 # 
 # Translators:
-# Kohei Tomita <fairtommy@gmail.com>, 2017
+# fairtommy <fairtommy@gmail.com>, 2018
+# fairtommy <fairtommy@gmail.com>, 2017-2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-12-04 03:39+0000\n"
-"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"PO-Revision-Date: 2018-12-26 05:34+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +25,7 @@ msgid ""
 "in historical literature sources and specimens vouchered from museums. From "
 "the database, a series of maps can be produced representing both locality "
 "records and \"county records\" for each species."
-msgstr "ミズーリ爬虫両棲類アトラスプロジェクト（MOHAP）を取得し、簡単にミズーリ州（アメリカ）両生類と爬虫類のための詳細な分布マップを更新するための欲望の結果として1997年に開始されました。データベースは、過去の文献情報源や美術館からvouchered標本に掲載されたレコードも含め、すべての有効な地域を保存するために設立されました。データベースから、一連のマップは、地域の記録とそれぞれの種のための「郡レコード」の両方を表す製造することができます。"
+msgstr "ミズーリ爬虫両棲類アトラスプロジェクト（MOHAP）は、ミズーリ州（アメリカ）両生類と爬虫類のための詳細な分布地図を簡単に取得し更新したいという欲望の結果として、1997年に開始されました。データベースは、過去の文献情報源や美術館からvouchered標本に掲載されたレコードも含め、すべての有効な地域を保存するために設立されました。データベースから、一連の地図は、地域の記録とそれぞれの種のための「郡レコード」の両方を表しながら製造できます。"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:7
 msgid ""
@@ -36,7 +37,7 @@ msgid ""
 "Reptiles for 2011. <http://atlas.moherp.org/pubs/atlas11.pdf>).  Published "
 "maps are used by field biologists, land managers, and others to better "
 "understand species' distributions in Missouri."
-msgstr "MOHAPを詳細にプロジェクトを説明し、スタティックマップ、QGISによって生成されたすべての様々な表示http://atlas.moherp.org/でWebサイトをホストしています。ダウンロード可能なPDFとして公開アトラスは、科学的研究（ダニエル、REおよびBSエドモンドへのオープンアクセスの精神に無償で出版として定期的にリリースされた2012年ミズーリ州両生類のアトラスと2011年のための爬虫類。<のhttp：//アトラス.moherp.org /パブ/ atlas11.pdf> ）。公開されたマップは、より良いミズーリ州の種の分布を把握するために、フィールドの生物学者、土地の管理、および他のユーザーによって使用されています。"
+msgstr "MOHAPは、このプロジェクトを詳細に説明し、様々な静的地図（すべてQGISで作成）を表示するWebサイトを http://atlas.moherp.org/ でホストしています。地図帳は、ダウンロード可能なPDFとして公開されていますが、科学的研究へのオープンアクセスの精神で無償出版物として定期的にリリースされています（R.E.ダニエル、およびB.S.エドモンド、2012年、ミズーリ州両生類爬虫類地図帳2011年版 <http://atlas.moherp.org/pubs/atlas11.pdf> ）。公開された地図は、ミズーリ州の種の分布をより良く把握するために、フィールドの生物学者、土地の管理、および他のユーザーによって使用されています。"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:9
 msgid ""
@@ -45,11 +46,11 @@ msgid ""
 "historical literature sources; 5,118 documented county records; 6,884 unique"
 " localities; and 12,866 unique species / locality combinations. The state's "
 "herpetofauna consists of 113 species."
-msgstr "2013年2月の時点で、MOHAPデータベース34の博物館のコレクション内に収容された検体を表す31495個のエントリを含んでおり、32の歴史的文献源に引用しました。5118の文書郡レコード。6884のユニークな産地。そして12866ユニークな種/地域の組み合わせ。状態のherpetofaunaは113種で構成されています。"
+msgstr "2013年2月の時点で、MOHAPデータベースは34の博物館のコレクション内に収容された検体を表す31495個のエントリを含んでおり、32の歴史的文献源、5118の文書郡記録、6884のユニークな産地、そして12866ユニークな種/地域の組み合わせに引用しました。州の爬虫両棲類は113種で構成されています。"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:12
 msgid "Generate and Export Static Maps"
-msgstr "Static Mapsを作成してエクスポート"
+msgstr "静的地図を作成してエクスポート"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:14
 msgid ""
@@ -58,13 +59,13 @@ msgid ""
 "and ultimately destined for either the web or a printed atlas, they are "
 "generated automatically for each species using a custom QGIS Python plugin "
 "(Figures 1,2)."
-msgstr "QGISでマップを作成するプロセスは、いくつかのPostgreSQLのテーブルに格納されたデータで始まり、PostGISので空間的に対応。マップは静的であり、最終的にウェブまたは印刷アトラスのいずれかに宛てているので、それらはカスタムQGIS Pythonのプラグイン（図1,2）を用いて、それぞれの種のために自動的に生成されます。"
+msgstr "QGISで地図を作成するプロセスは、いくつかのPostgreSQLのテーブルに格納されたデータで始まり、PostGISので空間的に対応。地図は静的であり、最終的にウェブまたは印刷地図帳のいずれかに宛てているので、それらはカスタムQGIS Pythonのプラグイン（図1,2）を用いて、それぞれの種のために自動的に生成されます。"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:21
 msgid ""
 "Custom map generation and export user interface, maps are generated and "
 "exported in a batch process."
-msgstr "カスタムマップ作成およびエクスポートのユーザーインターフェイスは、マップが生成され、バッチ処理でエクスポートされます。"
+msgstr "カスタム地図作成およびエクスポートのユーザーインターフェイスは、地図が作成され、バッチ処理でエクスポートされます。"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:23
 msgid ""
@@ -73,15 +74,15 @@ msgid ""
 "created and labelled (Figure 4). Because of the way styles are managed "
 "within each data layer, the base map layers can also be incorporated into a "
 "set of species maps with little extra effort."
-msgstr "最終種のマップがきれいで、プロの外観（図3）を持っています。より良い種の分布を理解するために、ベース・マップのシリーズはまた、（図4）を作成し、ラベル付けされています。スタイルは、各データ層内で管理されている方法で、ベースマップレイヤはまた、種のセットに組み込むことができるので少し余分な労力でマッピングします。"
+msgstr "最終種の地図はきれいでプロの外観（図3）を持っています。より良い種の分布を理解するために、基図のシリーズはまた、（図4）を作成し、ラベル付けされています。スタイルは、各データレイヤー内で管理されている方法で、少しの余分な労力だけで基図レイヤーはまた、種の地図のセットに組み込むことができます。"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:30
 msgid "Maps are displayed as static images."
-msgstr "マップは静止画像として表示されます。"
+msgstr "地図は静止画像として表示されます。"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:37
 msgid "Labelled Level III Ecoregion map for Missouri and surrounding states."
-msgstr "ミズーリ州とその周辺の状態のための標識レベルIIIエコリージョンマップ。"
+msgstr "ミズーリ州およびその周辺州に対するラベル付きレベルIIIエコリージョン地図。"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:40
 msgid "Conclusions"
@@ -101,11 +102,11 @@ msgid ""
 "Senior Systems Analyst in Computer Services at Missouri State University.  "
 "He holds a BS in Wildlife Biology from the University of Missouri and has "
 "spent his career in the intergrade zone between biology and technology."
-msgstr "この記事では、彼はミズーリ州立大学でコンピュータ・サービスのシニアシステムアナリストである2月2013年にブライアン・エドモンドによって寄贈されました。彼はミズーリ大学の野生生物の生物学の学士号を取得し、生物学と技術の間intergradeゾーンで彼のキャリアを費やしてきました。"
+msgstr "この記事は2013年2月にブライアン・エドモンドによって寄稿されました。氏はミズーリ州立大学でコンピュータ・サービスのシニアシステムアナリストです。ミズーリ大学の野生生物の生物学の学士号を取得し、生物学と技術の間の中間領域で経歴を積んできました。"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:3
 msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
-msgstr "QGISマップの歴史Herpetofaunalレコード（ミズーリ州、USA）"
+msgstr "QGIS地図の歴史的爬虫両棲類記録（ミズーリ州、USA）"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:42
 msgid ""
@@ -115,7 +116,7 @@ msgid ""
 "source software. QGIS, along with PHP, PostgreSQL, PostGIS, Python, and "
 "ReportLab, forms the open source linchpin to MOHAP, effectively allowing the"
 " project and all data to exist free of proprietary software entanglements."
-msgstr "MOHAPプロジェクトの開始時に、いくつかの商用および独自のツールを格納し、プロセスデータと出版のための地図を生成するために使用されました。2007年から、私たちはソースソフトウェアを開くには、プロジェクトのすべての側面を移動しようと設定します。QGISは、PHP、PostgreSQLの、PostGISの、パイソン、およびReportLabのと一緒に、効果的にプロジェクトとすべてのデータがプロプライエタリなソフトウェアのもつれのない存在することができ、MOHAPにオープンソースの要をなします。"
+msgstr "MOHAPプロジェクトの開始時には、データを格納および処理し出版用の地図を作成するために、いくつかの商用かつ独占的ツールが使用されました。2007年から開始して、私たちはオープンソースソフトウェアにプロジェクトのすべての側面を移動することに着手しました。QGISは、PHP、PostgreSQL、PostGIS、パイソン、およびReportLabと一緒に、MOHAPでオープンソースの要をなし、プロジェクトおよびすべてのデータが商用ソフトウェアのしがらみなしに効果的に存在できるようにしてくれます。"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:44
 msgid ""

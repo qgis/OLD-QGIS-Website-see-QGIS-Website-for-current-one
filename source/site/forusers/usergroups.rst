@@ -16,7 +16,7 @@ Current list of QGIS user groups
 * `QGIS Anwendergruppe Deutschland (Germany) - contact: Thomas Schüttenberg <http://qgis.de/>`_
 * `Gruppo degli utenti italiani di QGIS (Italy) - contact: Matteo Ghetta <http://qgis.it/>`_
 * `QGIS User Group Japan (OSGeo.JP) - contact: Kosuke ASAHI <http://qgis.jp/>`_
-* `Lima Perú QGIS User Group (Peru) - contact: Anibal Alarcon <http://qgis.pe/>`_
+* `QGIS Perú Official Users Group - contact: Anibal Alarcon <http://qgis.pe/>`_
 * `Polska Grupa Użytkowników QGIS (Poland) - contact: Milena Nowotarska <http://qgis.pl/>`_
 * `QGIS Portugal - contact: João Gaspar <http://qgis.pt/>`_
 * `QGIS UK (Scotland) - contact: Ross McDonald <https://qgis.uk/>`_
@@ -53,6 +53,8 @@ Current list of QGIS user groups
 * `QGIS gebruikersgroep (Netherlands) - contact: Raymond Nijssen <http://qgis.nl/>`_
 * `Asociación QGIS México - contact: Hennessy Amor Becerra Ayala <http://qgis.mx/>`_
 * `Komunitas Pengguna QGIS Indonesia - contact: Ismail Sunni <https://qgis-id.github.io/>`_
+* `QGIS Slovensko (Slovakia) - contact: Jana Michalkova <https://qgis.sk/>`_
+* `Grupo de usuarios QGIS Ecuador - contact: Adrián Benavides <http://qgis.ec/>`_
 
 Goals of a user group
 ---------------------

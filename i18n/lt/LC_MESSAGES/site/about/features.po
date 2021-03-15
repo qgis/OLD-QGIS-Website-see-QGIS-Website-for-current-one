@@ -5,15 +5,26 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-23 20:42+0000\n"
-"Last-Translator: Tomas Straupis\n"
+"POT-Creation-Date: 2020-07-09 12:40+0200\n"
+"PO-Revision-Date: 2020-07-09 10:51+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/about/features.rst:2
+msgid "Applications"
+msgstr "Programos"
+
+#: ../../source/site/about/features.rst:4
+msgid ""
+"QGIS is not only a desktop GIS. We also provide a spatial file browser, a "
+"server application, and web applications."
+msgstr "QGIS yra ne tik darbastalio GIS. Mes taip pat pateikiame erdvinių failų naršyklę, serverio programą ir žiniatinklio aplikacijas."
 
 #: ../../source/site/about/features.rst:7
 msgid "QGIS Desktop"
@@ -31,77 +42,103 @@ msgstr "Tinka Windows, Mac, Linux, BSD ir Androidui."
 msgid "A screenshot of QGIS Desktop"
 msgstr "QGIS Darbastalio nuotrauka"
 
-#: ../../source/site/about/features.rst:20
-msgid "QGIS Browser"
-msgstr "QGIS Naršyklė"
-
-#: ../../source/site/about/features.rst:22
-msgid "Browse and preview your data and metadata."
-msgstr "Naršykite ir peržiūrėkite jūsų duomenis ir metaduomenis."
-
-#: ../../source/site/about/features.rst:24
-msgid "Drag and drop your data from one datastore into the other one."
-msgstr "Pertempkite savo duomenis iš vienos saugyklos į kitą."
-
-#: ../../source/site/about/features.rst:29
-msgid "A screenshot of QGIS Browser"
-msgstr "QGIS Naršyklės nuotrauka"
-
-#: ../../source/site/about/features.rst:33
+#: ../../source/site/about/features.rst:19
 msgid "QGIS Server"
 msgstr "QGIS Serveris"
 
-#: ../../source/site/about/features.rst:35
+#: ../../source/site/about/features.rst:21
 msgid ""
-"Publish your QGIS projects and layers as OGC compatible WMS and WFS "
-"services. Control which layers, attributes, layouts and coordinate systems "
-"are exported."
-msgstr "Publikuokite savo QGIS projektus ir sluoksnius kaip suderinamas su OGC WMS ir WFS paslaugas. Valdykite, kurie sluoksniai, atributai, išdėstymai ir koordinačių sistemos yra eksportuojami."
+"Publish your QGIS projects and layers as OGC compatible WMS, WMTS, WFS and "
+"WCS services. Control which layers, attributes, layouts and coordinate "
+"systems are exported. QGIS server is considered as a reference "
+"implementation for WMS 1.3."
+msgstr ""
 
-#: ../../source/site/about/features.rst:42
+#: ../../source/site/about/features.rst:33
 msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
 msgstr "QGIS serverio konfigūravimo naudojant QGIS Darbastalį nuotrauka"
 
-#: ../../source/site/about/features.rst:45
+#: ../../source/site/about/features.rst:36
 msgid "QGIS Web Client"
 msgstr "QGIS Tinklo klientas"
 
-#: ../../source/site/about/features.rst:47
+#: ../../source/site/about/features.rst:38
 msgid ""
 "Publish your QGIS projects on the web with ease. Benefit from the powerful "
 "symbology, labeling and blending features to impress with your maps."
 msgstr "Lengvai publikuokite savo QGIS projektus tinkle. Naudokite galingą simbologiją, žymėjimą ir objektų derinimą, kad sužavėtumėte savo žemėlapiais."
 
-#: ../../source/site/about/features.rst:54
+#: ../../source/site/about/features.rst:45
 msgid "A screenshot of QGIS Web Client"
 msgstr "QGIS Tinklo kliento nuotrauka"
 
-#: ../../source/site/about/features.rst:58
-msgid "QGIS on Android (beta!)"
-msgstr "QGIS Androide (beta)"
+#: ../../source/site/about/features.rst:49
+msgid "QGIS on mobiles and tablets"
+msgstr ""
 
-#: ../../source/site/about/features.rst:60
+#: ../../source/site/about/features.rst:51
 msgid ""
-"Work is being done to use QGIS on Android devices. Current builds are very "
-"experimental, and not for the faint of heart."
-msgstr "Šiuo metu dirbama, kad QGIS būtų galima naudoti Android įrenginiuose. Dabartinės versijos yra labai eksperimentinės, netinkančios silpnų nervų žmonėms."
+"The QGIS experience does not stop on the desktop. Various third-party touch "
+"optimized apps allow you to take QGIS into the field"
+msgstr ""
+
+#: ../../source/site/about/features.rst:55
+msgid "`QField for QGIS (formerly QGIS for Android) <https://qfield.org>`_"
+msgstr ""
+
+#: ../../source/site/about/features.rst:59
+msgid ""
+"A screenshot of QField for QGIS (available for Android, Windows, iOS coming "
+"soon)"
+msgstr ""
+
+#: ../../source/site/about/features.rst:62
+msgid "`Input <https://inputapp.io>`_"
+msgstr ""
 
 #: ../../source/site/about/features.rst:66
-msgid "A screenshot of QGIS on Android"
-msgstr "QGIS nuotrauka Androide"
+msgid "A screenshot of Input (available for Android, Windows, iOS)"
+msgstr ""
 
-#: ../../source/site/about/features.rst:2
-msgid "Applications"
-msgstr "Programos"
+#: ../../source/site/about/features.rst:69
+msgid "`IntraMaps Roam <https://roam-docs.readthedocs.io>`_"
+msgstr ""
 
-#: ../../source/site/about/features.rst:4
-msgid ""
-"QGIS is not only a desktop GIS. We also provide a spatial file browser, a "
-"server application, and web applications."
-msgstr "QGIS yra ne tik darbastalio GIS. Mes taip pat pateikiame erdvinių failų naršyklę, serverio programą ir žiniatinklio aplikacijas."
+#: ../../source/site/about/features.rst:73
+msgid "A screenshot of IntraMaps Roam (available for Windows)"
+msgstr ""
 
 #~ msgid "QGIS Applications"
 #~ msgstr ""
 
 #~ msgid "Features of QGIS"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Publish your QGIS projects and layers as OGC compatible WMS and WFS "
+#~ "services. Control which layers, attributes, layouts and coordinate systems "
+#~ "are exported."
+#~ msgstr ""
+
+#~ msgid "QGIS Browser"
+#~ msgstr ""
+
+#~ msgid "Browse and preview your data and metadata."
+#~ msgstr ""
+
+#~ msgid "Drag and drop your data from one datastore into the other one."
+#~ msgstr ""
+
+#~ msgid "A screenshot of QGIS Browser"
+#~ msgstr ""
+
+#~ msgid "QGIS on Android (beta!)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Work is being done to use QGIS on Android devices. Current builds are very "
+#~ "experimental, and not for the faint of heart."
+#~ msgstr ""
+
+#~ msgid "A screenshot of QGIS on Android"
 #~ msgstr ""

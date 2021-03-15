@@ -1,19 +1,19 @@
 # 
 # Translators:
-# Bekir UÇARCI <inactive+lugo@transifex.com>, 2015
+# 53b3afa5264ea4db20f822976d53742a_711e7b6 <bea62622af468b54a8fe6f940be7b907_350465>, 2015
 # Murat ENEZ <muratenez@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
-"PO-Revision-Date: 2019-11-02 11:49+0000\n"
+"POT-Creation-Date: 2020-07-09 12:40+0200\n"
+"PO-Revision-Date: 2020-07-09 10:51+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
 "Language-Team: Turkish (http://www.transifex.com/qgis/qgis-website/language/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: tr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
@@ -74,18 +74,40 @@ msgid "A screenshot of QGIS Web Client"
 msgstr "QGIS Web İstemcisinin bir ekran görüntüsü"
 
 #: ../../source/site/about/features.rst:49
-msgid "QGIS on Android (beta!)"
-msgstr "QGIS Android (beta!)"
+msgid "QGIS on mobiles and tablets"
+msgstr ""
 
 #: ../../source/site/about/features.rst:51
 msgid ""
-"Work is being done to use QGIS on Android devices. Current builds are very "
-"experimental, and not for the faint of heart."
-msgstr "Bu çalışma Android cihazlarda da QGIS kullanmak için yapılıyor. Mevcut sürüm henüz çok deneysel aşamada ve kalbiniz dayanmayabilir."
+"The QGIS experience does not stop on the desktop. Various third-party touch "
+"optimized apps allow you to take QGIS into the field"
+msgstr ""
 
-#: ../../source/site/about/features.rst:57
-msgid "A screenshot of QGIS on Android"
-msgstr "QGIS Android'in bir ekran görüntüsü"
+#: ../../source/site/about/features.rst:55
+msgid "`QField for QGIS (formerly QGIS for Android) <https://qfield.org>`_"
+msgstr ""
+
+#: ../../source/site/about/features.rst:59
+msgid ""
+"A screenshot of QField for QGIS (available for Android, Windows, iOS coming "
+"soon)"
+msgstr ""
+
+#: ../../source/site/about/features.rst:62
+msgid "`Input <https://inputapp.io>`_"
+msgstr ""
+
+#: ../../source/site/about/features.rst:66
+msgid "A screenshot of Input (available for Android, Windows, iOS)"
+msgstr ""
+
+#: ../../source/site/about/features.rst:69
+msgid "`IntraMaps Roam <https://roam-docs.readthedocs.io>`_"
+msgstr ""
+
+#: ../../source/site/about/features.rst:73
+msgid "A screenshot of IntraMaps Roam (available for Windows)"
+msgstr ""
 
 #~ msgid "QGIS Applications"
 #~ msgstr ""
@@ -109,4 +131,15 @@ msgstr "QGIS Android'in bir ekran görüntüsü"
 #~ msgstr ""
 
 #~ msgid "A screenshot of QGIS Browser"
+#~ msgstr ""
+
+#~ msgid "QGIS on Android (beta!)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Work is being done to use QGIS on Android devices. Current builds are very "
+#~ "experimental, and not for the faint of heart."
+#~ msgstr ""
+
+#~ msgid "A screenshot of QGIS on Android"
 #~ msgstr ""

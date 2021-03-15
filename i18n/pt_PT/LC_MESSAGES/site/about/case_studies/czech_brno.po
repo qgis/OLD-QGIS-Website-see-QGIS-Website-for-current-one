@@ -1,14 +1,17 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2014
+# João Gaspar <joao.f.r.gaspar@gmail.com>, 2019-2020
+# Manuela Silva <manuelarodsilva@gmail.com>, 2018
+# Rui <xymarior@yandex.com>, 2018
 # Victor Ferreira <victor.mota.ferreira@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 20:02+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2020-05-09 15:00+0000\n"
+"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,7 +35,7 @@ msgstr "Laboratório em Geografia Aplicada e Experimental (LEAG) é parte do Col
 
 #: ../../source/site/about/case_studies/czech_brno.rst:15
 msgid "QGIS while modeling 3D objects (interpolation), terrain analysis"
-msgstr "o QGIS enquanto se modela objectos 3D (interpolação), análise de terrenos"
+msgstr "O QGIS na modelação objetos 3D (interpolação), análise de terreno"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:20
 msgid "Use of QGIS"
@@ -43,11 +46,11 @@ msgid ""
 "QGIS is the leading software and stands in current versions (because of the "
 "“experimental” character of LEAG we are using the latest unstable releases "
 "instead of LTS versions) for several reasons:"
-msgstr "Qgis é o software líder e aparece em versões actualizadas (por causa do carácter \"experimental\" do LEAG utilizamos as últimas versões não estáveis em vez de versões LTS) por várias razões:"
+msgstr "O QGIS é o software líder e aparece nas versões atuais (devido ao caráter “experimental” do LEAG, nós estamos a utilizar as versões instáveis mais recentes, em vez das versões LTS) por vários motivos:"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:24
 msgid "Graphical User Interface (close to commercial products)"
-msgstr "Interface Gráfico de utilizador (próximo de produtos comerciais)"
+msgstr "Interface Gráfica do utilizador (próximo de produtos comerciais)"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:25
 msgid "Quick development and integrating user-wanted features"
@@ -65,13 +68,13 @@ msgstr "Outros (mencionado por exemplo no estudo de caso escrito pelo Dr. Horst 
 
 #: ../../source/site/about/case_studies/czech_brno.rst:31
 msgid "Modeling patterns between spatial location and inhabitants"
-msgstr "Padrões de Modelação entre localização espacial e habitantes"
+msgstr "Modelação de padrões entre a localização espacial e habitantes"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:32
 msgid ""
 "Creating 3D models for terrain visualization (and further use as hill-"
 "shadowing)"
-msgstr "Criando modelos 3D para visualização de terreno (e utilização posterior como sombreamento de colinas)"
+msgstr "Criando modelos 3D para visualização de terreno (e utilização posterior como o sombreamento de colinas)"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:33
 msgid ""
@@ -83,11 +86,11 @@ msgstr "Armazenando, criando e editando base de dados de empresas pequenas e mé
 msgid ""
 "Homogenizing of free-to-use geodata and creation of “geo-data-bank” for "
 "students and researchers at College of Business and Hotel Management"
-msgstr "Homogeneização de geodados de uso livre e criação de banco de dados geográfico para estudantes e investigadores no College of Business and Hotel Management"
+msgstr "Homogeneização de dados espaciais de uso livre e criação de base de dados geográfica para estudantes e investigadores no College of Business and Hotel Management"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:45
 msgid "Using diagrams comparing population between two censuses"
-msgstr "Utilizando diagramas comaparando população entre dois censos"
+msgstr "Utilizando diagramas comparando populações entre dois censos"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:48
 msgid "Conclusion"
@@ -108,7 +111,7 @@ msgid ""
 " CZ) where he founded and leads Laboratory on Experimental and Applied "
 "Geography. He is also a doctoral student at Institute of Geography, Faculty "
 "of Science, Masaryk university (Brno, CZ)."
-msgstr "Este artigo foi contribuido em Novembro de 2010 por Tabuk Trojan. É um académico investigador no COllege of Business and Hotel Management, LTD. (Brno, CZ) onde fundou e lidera o Laboratório de Geografia Experimental e Aplicada. É também estudante de doutoramento no Instituto de Geografia, Faculdade de Ciência, universidade de Masaryk (Brno, CZ)."
+msgstr "Este artigo teve o contributo em Novembro de 2010 por Tabuk Trojan. É um académico investigador no College of Business and Hotel Management, LTD. (Brno, CZ) onde fundou e lidera o Laboratório de Geografia Experimental e Aplicada. É também estudante de doutoramento no Instituto de Geografia, Faculdade de Ciência, universidade de Masaryk (Brno, CZ)."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:3
 msgid ""
@@ -139,7 +142,7 @@ msgid ""
 "final layout is mostly create using Inkscape or GIMP (less in LibreOffice "
 "Draw). Web-based maps are editing using Inkscape (after SVG export) and "
 "raster maps are pre-edited using GIMP."
-msgstr "QGIS é utilizado como sinergia para outros produtos open source. Por exemplo o layout final é criado principalmente utilizando Inkscape ou GIMP (menos em LibbreOffice Draw). Mapas baseados na web são editados utilizando Inkscape (depois do suporte SVG) e mapas raster são pré-editados utilizando GIMP. "
+msgstr "O QGIS é utilizado como sinergia para outros produtos open source. Por exemplo o layout final é criado principalmente utilizando Inkscape ou GIMP (menos em LibbreOffice Draw). Mapas baseados na web são editados utilizando Inkscape (depois do suporte SVG) e mapas raster são pré-editados utilizando GIMP. "
 
 #: ../../source/site/about/case_studies/czech_brno.rst:38
 msgid ""
@@ -149,7 +152,7 @@ msgid ""
 " used as main platform for teaching students how to use GIS and how to "
 "produce high-quality maps. Recently, the QGIS was used as main product "
 "during GIS Day held at our school on November 2010."
-msgstr "QGIS é também uma ferramenta educativa espetacular. O College of Business and Hotel Management oferece aos estudantes assuntos como \"Geographical Information Systems I and II\" ou \"Capítulos seleccionados de literacia geoinformática\" onde o QGIS é utilizado como principal plataforma para ensinar estudantes como utilizar um SIG e como produzir mapas de alta qualidade. Recentemente, o QGIS foi utilizado como produto principal durante o GIS Day que aconteceu na nossa escola em Novembro de 2010."
+msgstr "QGIS é também uma ferramenta educativa espetacular. O College of Business and Hotel Management oferece aos estudantes assuntos como \"Geographical Information Systems I and II\" ou \"Capítulos selecionados de literacia geoinformática\" onde o QGIS é utilizado como principal plataforma para ensinar estudantes como utilizar um SIG e como produzir mapas de alta qualidade. Recentemente, o QGIS foi utilizado como produto principal durante o GIS Day que aconteceu na nossa escola em Novembro de 2010."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:50
 msgid ""
@@ -160,7 +163,7 @@ msgid ""
 "seen in education --- QGIS is the first software, which is presented to "
 "students. During regular workshops students learn how to legally work with "
 "QGIS and how to create their own maps."
-msgstr "Com nenhum custo and alta eficiência o Laboratório de Geografia Experimental e Aplicada produz análises de alta qualidade, mapas e visualização. Utilizando o QGIS, grandes bases de dados estão a ser criadas e testes adicionais de novas funções estão a ser feitos. Finalmente, um dos maiores impactos de utilizar QGIS pode ser visto na educação - QGIS é o primeiro software, que é apresentado aos estudantes. Durante workshops regulares os estudantes aprendem como trabalhar legalmente com o QGIS e como criar os seus próprios mapas."
+msgstr "Com nenhum custo e alta eficiência o Laboratório de Geografia Experimental e Aplicada produz análises de alta qualidade, mapas e visualização. Utilizando o QGIS, grandes bases de dados estão a ser criadas e testes adicionais de novas funções estão a ser feitos. Finalmente, um dos maiores impactos de utilizar QGIS pode ser visto na educação - QGIS é o primeiro software, que é apresentado aos estudantes. Durante workshops regulares os estudantes aprendem como trabalhar legalmente com o QGIS e como criar os seus próprios mapas."
 
 #~ msgid "QGIS as major GIS software in the Laboratory"
 #~ msgstr ""

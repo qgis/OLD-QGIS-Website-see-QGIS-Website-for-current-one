@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2020
+# Sorin Călinică <scalinica@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-05 19:50+0200\n"
 "PO-Revision-Date: 2019-07-12 14:44+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2020\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2020\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -70,6 +70,15 @@ msgid ""
 "bug fixing efforts. A complete list of current sustaining members is "
 "provided below - our very great thank you to all of our supporters!"
 msgstr ""
+"QGIS este susținut prin donații și sponsorizări. Listă curentă a celor care "
+"au efectuat contribuții financiare mari și mici la proiect poate fi "
+"consultată în :ref:`donors list <list_of_donors>`.  Dacă doriți să "
+"sponsorizați în mod oficial proiectul, vă rugăm să vizitați :ref:`pagina "
+"membrilor susținători<QGIS_sustaining_memberships>`. Sponsorizările QGIS ne "
+"ajută să finanțăm întâlnirea dezvoltatorilor o dată la șase luni, să "
+"menținem infrastructura proiectului și să finanțăm eforturile de eliminare a"
+" erorilor. În continuare este prezentată lista completă a membrilor "
+"susținători actuali - acestora le transmitem mulțumirile noastre!"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:16
 msgid ""
@@ -95,7 +104,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:24
 msgid "Map Tools"
-msgstr "Instrumente Pentru Hartă"
+msgstr "Instrumente De Cartografiere"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:27
 msgid "Feature: Force Cartesian Measurements when Measuring Distances/Areas"
@@ -564,7 +573,7 @@ msgstr "|image13|"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:200
 msgid "Print Layouts"
-msgstr ""
+msgstr "Compoziții Cartografice"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:203
 msgid "Feature: Distribute spacing between items evenly"
@@ -677,7 +686,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:243
 msgid "E.g."
-msgstr ""
+msgstr "Ex.:"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:245
 msgid "Previous behavior:"
@@ -688,6 +697,8 @@ msgid ""
 "``attribute($currentfeature, 'name' )`` -> returns value stored in 'name' "
 "attribute for the current feature"
 msgstr ""
+"``attribute($currentfeature, 'name' )`` -> returnează valoarea stocată în "
+"atributul 'nume' al entității curente"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:249
 msgid "Improved behavior:"
@@ -724,7 +735,7 @@ msgstr "|image17|"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:271
 msgid "Feature: New expression functions"
-msgstr "Caracteristică: Noi funcții pentru expresii"
+msgstr "Funcționalitate: Noi funcții pentru expresii"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:273
 msgid ""
@@ -1006,6 +1017,8 @@ msgstr "|image25|"
 msgid ""
 "This feature was funded by `regioDATA <https://www.regiodata-gmbh.de/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `regioDATA <https://www"
+".regiodata-gmbh.de/>`__"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:389
 msgid "Processing"
@@ -1302,7 +1315,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:552
 #: ../../source/site/forusers/visualchangelog38/index.rst:563
 msgid "This feature was funded by SMEC/SJ"
-msgstr ""
+msgstr "Această funcționalitate a fost finanțată de SMEC/SJ"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:515
 msgid ""
@@ -1624,6 +1637,8 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:655
 msgid "This feature was funded by `ICSM <https://www.icsm.gov.au/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `ICSM "
+"<https://www.icsm.gov.au/>`__"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:660
 msgid "Data Providers"
@@ -1882,6 +1897,8 @@ msgstr "|image40|"
 #: ../../source/site/forusers/visualchangelog38/index.rst:760
 msgid "This feature was funded by `GISCE TI <https://gisce.net/>`__"
 msgstr ""
+"Această funcționalitate a fost finanțată de `GISCE TI "
+"<https://gisce.net/>`__"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:762
 msgid ""
@@ -1928,7 +1945,7 @@ msgstr "Corecții Importante"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:787
 msgid "Feature: Bug fixes by Alessandro Pasotti"
-msgstr ""
+msgstr "Funcționalitate: Remedieri efectuate de către Alessandro Pasotti"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:790
 #: ../../source/site/forusers/visualchangelog38/index.rst:867
@@ -1980,7 +1997,7 @@ msgstr "`#21405 <https://issues.qgis.org/issues/21405>`__"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:792
 msgid "fixed in master"
-msgstr ""
+msgstr "remediat în master"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:794
 msgid "QGIS server ignores custom rendering order when loading parent group"
@@ -2163,7 +2180,7 @@ msgstr "`#21775 <https://issues.qgis.org/issues/21775>`__"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:818
 msgid "Fixed by Nyall"
-msgstr ""
+msgstr "Remediat de Nyall"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:820
 msgid "Raster calculator, abs() not working"
@@ -2395,7 +2412,7 @@ msgstr "`PR #30137 <https://github.com/qgis/QGIS/pull/30137>`__"
 #: ../../source/site/forusers/visualchangelog38/index.rst:852
 #: ../../source/site/forusers/visualchangelog38/index.rst:854
 msgid "Risky?"
-msgstr ""
+msgstr "Riscant?"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:854
 msgid "Value relation widget settings lost on import of layer definition file"
@@ -2659,6 +2676,8 @@ msgid ""
 "`Commit "
 "<https://github.com/qgis/QGIS/commit/83e6dd3efe302de4749d68be23217d8dd4e667d2>`__"
 msgstr ""
+"`Commit "
+"<https://github.com/qgis/QGIS/commit/83e6dd3efe302de4749d68be23217d8dd4e667d2>`__"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:914
 msgid ""
@@ -2919,7 +2938,7 @@ msgstr "`#29814 <https://github.com/qgis/QGIS/issues/29814>`__"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:985
 msgid "duplicate"
-msgstr ""
+msgstr "duplicat"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:985
 #: ../../source/site/forusers/visualchangelog38/index.rst:987

@@ -2,18 +2,21 @@
 # Translators:
 # Alexandre Neto <senhor.neto@gmail.com>, 2016
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
+# João Gaspar <joao.f.r.gaspar@gmail.com>, 2019-2020
 # Richard Duivenvoorde <richard@duif.net>, 2016
+# Rui <xymarior@yandex.com>, 2018-2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-23 19:13+0000\n"
-"Last-Translator: Alexandre Neto <senhor.neto@gmail.com>\n"
+"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"PO-Revision-Date: 2020-05-09 14:57+0000\n"
+"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -23,15 +26,28 @@ msgstr "Criando o Mapa de Trilhos do Fundy Footpath com QGIS"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:10
 msgid ""
-"The `Fundy Footpath <http://fundyfootpath.info/>`_  is a wilderness hiking "
-"trail located along the Fundy coast of New Brunswick, Canada. It is a "
-"charter member of the `UNESCO Fundy Biosphere Reserve <http://fundy-"
-"biosphere.ca/en/about-us/the-reserve>`_ and affiliated with the `NB Trails "
-"Council Inc. <http://www.sentiernbtrail.com/>`_ and the Trans Canada Trail. "
-"The Footpath takes hikers through the coastal Acadian Forest, home to the "
-"world’s highest tides, old growth forests, and several rare and unique types"
-" of flora and fauna."
+"The Fundy Footpath is a wilderness hiking trail located along the Fundy "
+"coast of New Brunswick, Canada. It is a charter member of the `UNESCO Fundy "
+"Biosphere Reserve <http://fundy-biosphere.ca/en/about-us/the-reserve>`_ and "
+"affiliated with the `NB Trails Council Inc. "
+"<http://www.sentiernbtrail.com/>`_ and the Trans Canada Trail. The Footpath "
+"takes hikers through the coastal Acadian Forest, home to the world’s highest"
+" tides, old growth forests, and several rare and unique types of flora and "
+"fauna."
 msgstr "O `Fundy Footpath <http://fundyfootpath.info/>`_ é um trilho de caminhada no meio selvagem localizado ao longo da costa Fundy de New Brunswick, no Canadá. É um membro fundador da `Reserva da Biosfera UNESCO de Fundy <http://fundy-biosphere.ca/en/about-us/the-reserve>`_ e filiado no `Conselho de Trilhos Inc. de NB <http:// www.sentiernbtrail.com/>`_ e os Trilhos Trans Canada. O passeio leva os caminhantes através da floresta costeira acadiana, lar das marés mais altas do mundo, florestas primárias, e vários tipos raros e únicos de flora e fauna."
+
+#: ../../source/site/about/case_studies/canada_brunswick.rst:18
+msgid ""
+"The trail was created, is maintained, and promoted by a group of volunteers "
+"known as the Fundy Hiking Trail Association Inc. (FHTA)(1975). As a non-"
+"profit organization the FHTA raises funds for its activities through the "
+"sale of guidebooks that include a trail map. In 2011 I approached the FHTA "
+"to volunteer to update the official trail map. As a volunteer creating a map"
+" for a non-profit organization QGIS fit the bill as both a tool for editing "
+"data and for final map layout. Through the efforts of myself and members of "
+"the FHTA the new official map of the Fundy Footpath included with the "
+"guidebook was created from start to finish with QGIS."
+msgstr "O trilho foi criado, e é mantido e promovido por um grupo de voluntários conhecido como a Associação Fundy de Trilhos e Caminhadas Inc. (AFTC) (1975). Como uma organização sem fins lucrativos AFTC recolhe os seus fundos para as atividades através da venda de guias que incluem um mapa do trilho. Em 2011, eu abordei a AFTC para me voluntariar na atualização do mapa oficial do trilho. Como voluntário criar um mapa para uma organização sem fins lucrativos como o QGIS foi ideal tanto como uma ferramenta de edição de dados e como para a produção final do mapa. Através dos meus esforços e dos membros da AFTC o novo mapa oficial do Trilho de Fundy foi criado do início ao fim com QGIS e incluído com o guia."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:31
 msgid "QGIS GPS Tools Plugin for data collection"
@@ -39,13 +55,13 @@ msgstr "Extensão QGIS de Ferramentas  GPS para recolha de dados"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:34
 msgid "The Project"
-msgstr "O Projecto"
+msgstr "O Projeto"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:36
 msgid ""
 "The process of creating the new Fundy Footpath map with QGIS can be broken "
 "down into three different parts:"
-msgstr "O processo de criação do novo mapa do FUndy Footpath com o QGIS pode ser dividido em três diferentes partes:"
+msgstr "O processo de criação do novo mapa do Fundy Footpath com o QGIS pode ser dividido em três diferentes partes:"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:38
 msgid "Data collection."
@@ -70,11 +86,11 @@ msgid ""
 "<http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-"
 "54CD-8349-C95E-1A4D03172FDF>`_ website and from `Service New Brunswick (SNB)"
 " online <http://www.snb.ca/gdam-igec/e/2900e_1.asp>`_."
-msgstr "Os dados foram recolhidos usando GPS portáteis e diversas fontes de dados livres. Os dados dos trilhos (por exemplo, trilha central, locais de acampamento, e travessias de maré) foram recolhidos com um Garmin GPSMap 60CSX. Estes dados foram então transferidos do GPS em formato shapefile para o QGIS usando a extensão do GPS. Os dados gratuitos em formatos vectoriais foram obtidos a partir do sítio de internet `Recursos Naturais do Canadá (RNCan) CanVec <http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF>`_ e do `Serviço New Brunswick (SNB) on-line <http://www.snb.ca/gdam-igec/e/2900e_1.asp>` _."
+msgstr "Os dados foram recolhidos usando GPS portáteis e diversas fontes de dados livres. Os dados dos trilhos (por exemplo, trilha central, locais de acampamento, e travessias de maré) foram recolhidos com um Garmin GPSMap 60CSX. Estes dados foram então transferidos do GPS em formato shapefile para o QGIS usando a extensão do GPS. Os dados gratuitos em formatos vetoriais foram obtidos a partir do sítio de internet `Recursos Naturais do Canadá (RNCan) CanVec <http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF>`_ e do `Serviço New Brunswick (SNB) on-line <http://www.snb.ca/gdam-igec/e/2900e_1.asp>` _."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:55
 msgid "Creation of the footpath map in QGIS"
-msgstr "Criação do mapa footpath no QGIS"
+msgstr "Criação do mapa trilhos a pé no QGIS"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:57
 msgid ""
@@ -90,7 +106,7 @@ msgstr "Os dados recolhidos com o GPS foram corrigidos usando a barra de ferrame
 msgid ""
 "The vector data obtained from NRCan and SNB was merged together, queried, "
 "and clipped for the final map area using the vector tools."
-msgstr "A informação vectorial através do NRCan e SNB foi junta, interrogada e cortada para o mapa final da área usando ferramentas vectoriais."
+msgstr "A informação vetorial através do NRCan e SNB foi junta, interrogada e cortada para o mapa final da área usando ferramentas vetoriais."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:63
 msgid ""
@@ -103,7 +119,7 @@ msgstr "O ficheiro separado por vírgulas obtido do SNB foi importado para o QGI
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:73
 msgid "Footpath map in the Print Composer"
-msgstr "Mapa Footpath no Compositor"
+msgstr "Mapa de trilhos a pé no Compositor"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:75
 msgid ""
@@ -116,7 +132,7 @@ msgid ""
 "arrow and elevation profile in the print composer. Two layouts were created "
 "since it was to be a double-sided map. Once both layouts were created they "
 "were exported as PDF files and sent to the printers."
-msgstr "Uma vez obtidos os dados necessários para criar o mapa foi montado num formato utilizável a criação do mapa final foi iniciado. Para criar os dados do mapa de caminhadas foi simbolizado e rotulados com a caixa de diálogo Propriedades de simbolização e rotulados com a extensão de rótulo muito funcional do QGIS. Uma vez que os rótulos e simbolização estavam no local a ferramenta compositor do mapa foi executado para criar o layout. Foi muito fácil de adicionar elementos úteis no mapa, como por exemplo uma seta de norte personalizada e perfil de elevação no compositor de impressão. Dois layouts foram criados, uma vez que era para ser um mapa de duas páginas. Uma vez que ambos os layouts foram criados, eles foram exportados como arquivos PDF e enviados para as impressoras."
+msgstr "Uma vez obtidos os dados necessários para criar o mapa foi montado num formato utilizável a criação do mapa final foi iniciado. Para criar os dados do mapa de caminhadas foi simbolizado e rotulados com a caixa de diálogo Propriedades de simbolização e rotulados com a extensão de rótulo muito funcional do QGIS. Uma vez que os rótulos e simbolização estavam no local a ferramenta compositor do mapa foi executado para criar o layout. Foi muito fácil de adicionar elementos úteis no mapa, como por exemplo uma seta de norte personalizada e perfil de elevação no compositor de impressão. Dois layouts foram criados, uma vez que era para ser um mapa de duas páginas. Uma vez que ambos os layouts foram criados, eles foram exportados como ficheiros PDF e enviados para as impressoras."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:84
 msgid "Conclusion"
@@ -138,58 +154,35 @@ msgstr "O mapa de caminhadas foi impresso em papel à prova de água, dobrado e 
 msgid "The final Fundy Footpath map with accompanying guidebook"
 msgstr "O mapa final Fundy Footpath acompanhado com um guia"
 
-#: ../../source/site/about/case_studies/canada_brunswick.rst:111
-msgid "Author"
-msgstr "Autor"
-
-#: ../../source/site/about/case_studies/canada_brunswick.rst:120
-msgid ""
-"This article was contributed by Jarrett Totton in January 2013. Jarrett is a"
-" GIS Technologist living in Alberta, Canada."
-msgstr "A contribuição deste artigo foi feita por Jarrett Totton em Janeiro de 2013. O Jarrett é Técnico SIG que vive em Alberta, Canadá."
-
-#: ../../source/site/about/case_studies/canada_brunswick.rst:103
-msgid "http://fundyfootpath.info/"
-msgstr "http://fundyfootpath.info/"
-
-#: ../../source/site/about/case_studies/canada_brunswick.rst:104
-msgid "http://fundy-biosphere.ca/en/about-us/the-reserve"
-msgstr "http://fundy-biosphere.ca/en/about-us/the-reserve"
-
-#: ../../source/site/about/case_studies/canada_brunswick.rst:105
-msgid "http://www.sentiernbtrail.com"
-msgstr "http://www.sentiernbtrail.com"
-
-#: ../../source/site/about/case_studies/canada_brunswick.rst:106
-msgid ""
-"http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-"
-"54CD-8349-C95E-1A4D03172FDF"
-msgstr "http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF"
-
-#: ../../source/site/about/case_studies/canada_brunswick.rst:107
-msgid "http://www.snb.ca/gdam-igec/e/2900e_1.asp"
-msgstr "http://www.snb.ca/gdam-igec/e/2900e_1.asp"
-
-#: ../../source/site/about/case_studies/canada_brunswick.rst:18
-msgid ""
-"The trail was created, is maintained, and promoted by a group of volunteers "
-"known as the Fundy Hiking Trail Association Inc. (FHTA)(1975). As a non-"
-"profit organization the FHTA raises funds for its activities through the "
-"sale of guidebooks that include a trail map. In 2011 I approached the FHTA "
-"to volunteer to update the official trail map. As a volunteer creating a map"
-" for a non-profit organization QGIS fit the bill as both a tool for editing "
-"data and for final map layout. Through the efforts of myself and members of "
-"the FHTA the new official map of the Fundy Footpath included with the "
-"guidebook was created from start to finish with QGIS."
-msgstr "O trilho foi criado, e é mantido e promovido por um grupo de voluntários conhecido como a Associação Fundy de Trilhos e Caminhadas Inc. (AFTC) (1975). Como uma organização sem fins lucrativos AFTC recolhe os seus fundos para as actividades através da venda de guias que incluem um mapa do trilho. Em 2011, eu abordei a AFTC para me voluntariar na actualização do mapa oficial do trilho. Como voluntário criar um mapa para uma organização sem fins lucrativos como o QGIS foi ideal tanto como uma ferramenta de edição de dados e como para a produção final do mapa. Através dos meus esforços e dos membros da AFTC o novo mapa oficial do Trilho de Fundy foi criado do início ao fim com QGIS e incluído com o guia."
-
 #: ../../source/site/about/case_studies/canada_brunswick.rst:101
 msgid "Links"
 msgstr "Ligações"
 
-#: ../../source/site/about/case_studies/canada_brunswick.rst:118
+#: ../../source/site/about/case_studies/canada_brunswick.rst:103
+msgid "http://fundy-biosphere.ca/en/about-us/the-reserve"
+msgstr "http://fundy-biosphere.ca/en/about-us/the-reserve"
+
+#: ../../source/site/about/case_studies/canada_brunswick.rst:104
+msgid "http://www.sentiernbtrail.com"
+msgstr "http://www.sentiernbtrail.com"
+
+#: ../../source/site/about/case_studies/canada_brunswick.rst:105
+msgid "http://www.snb.ca/gdam-igec/e/2900e_1.asp"
+msgstr "http://www.snb.ca/gdam-igec/e/2900e_1.asp"
+
+#: ../../source/site/about/case_studies/canada_brunswick.rst:109
+msgid "Author"
+msgstr "Autor"
+
+#: ../../source/site/about/case_studies/canada_brunswick.rst:116
 msgid "Jarrett Totton"
 msgstr "Jarrett Totton"
+
+#: ../../source/site/about/case_studies/canada_brunswick.rst:118
+msgid ""
+"This article was contributed by Jarrett Totton in January 2013. Jarrett is a"
+" GIS Technologist living in Alberta, Canada."
+msgstr "A contribuição deste artigo foi feita por Jarrett Totton em Janeiro de 2013. O Jarrett é Técnico SIG que vive em Alberta, Canadá."
 
 #~ msgid ""
 #~ "The trail was created, is maintained, and promoted by a group of volunteers "
@@ -204,4 +197,23 @@ msgstr "Jarrett Totton"
 #~ msgstr ""
 
 #~ msgid "Websites:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The `Fundy Footpath <http://fundyfootpath.info/>`_  is a wilderness hiking "
+#~ "trail located along the Fundy coast of New Brunswick, Canada. It is a "
+#~ "charter member of the `UNESCO Fundy Biosphere Reserve <http://fundy-"
+#~ "biosphere.ca/en/about-us/the-reserve>`_ and affiliated with the `NB Trails "
+#~ "Council Inc. <http://www.sentiernbtrail.com/>`_ and the Trans Canada Trail. "
+#~ "The Footpath takes hikers through the coastal Acadian Forest, home to the "
+#~ "world’s highest tides, old growth forests, and several rare and unique types"
+#~ " of flora and fauna."
+#~ msgstr ""
+
+#~ msgid "http://fundyfootpath.info/"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-"
+#~ "54CD-8349-C95E-1A4D03172FDF"
 #~ msgstr ""

@@ -8,11 +8,12 @@
 # Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2020
 # Francisco Rodrigo Cunha de Sousa <rodrigofrcs@hotmail.com>, 2020
-# Leônidas Luiz Volcato Descovi Filho <leonidasfilho2000@yahoo.com.br>, 2020
+# Leônidas Luiz Volcato Descovi Filho <leonprs2@gmail.com>, 2020
 # QGISBrasil <comunidade@qgisbrasil.org>, 2020
 # Dêmian Francisco Neto Castro Pereira <demian.castro.13@gmail.com>, 2020
 # Brenda de Andrade Feitosa <brenddandrad@gmail.com>, 2020
 # Renato dos Santos da Silva <renatoneed@gmail.com>, 2020
+# Aline Furlanetto Viero <afviero@gmail.com>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -21,7 +22,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-12 16:20+0200\n"
 "PO-Revision-Date: 2018-12-19 16:27+0000\n"
-"Last-Translator: Renato dos Santos da Silva <renatoneed@gmail.com>, 2020\n"
+"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>, 2020\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -66,6 +67,12 @@ msgid ""
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
 msgstr ""
+"Nós gostaríamos de agradecer aos desenvolvedores, aos responsáveis pela "
+"documentação e pelos testes e a todos que doaram seu tempo e esforço (ou "
+"financiaram pessoas para fazer isso). Da comunidade QGIS nós esperamos que "
+"você goste deste lançamento! Se você desejar doar seu tempo, dinheiro ou se "
+"envolver para fazer o QGIS ainda mais incrível, por favor dê uma olhada em "
+"`qgis.org <https://qgis.org>`__ e dê uma mão!"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:17
 msgid ""
@@ -133,11 +140,14 @@ msgstr "|image28|"
 #: ../../source/site/forusers/visualchangelog34/index.rst:41
 msgid "This feature was funded by `Aleix Pol <https://github.com/aleixpol>`__"
 msgstr ""
+"Este recurso foi financiado por `Aleix Pol <https://github.com/aleixpol>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:43
 msgid ""
 "This feature was developed by `Aleix Pol <https://github.com/aleixpol>`__"
 msgstr ""
+"Este recurso foi desenvolvido por  `Aleix Pol "
+"<https://github.com/aleixpol>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:46
 msgid "Feature: SVG files can be embedded in projects and symbols"
@@ -159,7 +169,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:52
 #: ../../source/site/forusers/visualchangelog34/index.rst:488
 msgid "This feature was funded by `SMEC/SJ <http://smec.com>`__"
-msgstr ""
+msgstr "Este recurso foi financiado por `SMEC/SJ <http://smec.com>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:54
 #: ../../source/site/forusers/visualchangelog34/index.rst:490
@@ -175,12 +185,13 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:59
 msgid "This feature was funded by `QGIS.org <https://qgis.org>`__"
-msgstr ""
+msgstr "Este recurso foi financiado por `QGIS.org <https://qgis.org>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:61
 msgid ""
 "This feature was developed by `Alessandro Pasotti <https://qgis.org>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Alessandro Pasotti <https://qgis.org>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:64
 msgid "Expressions"
@@ -188,7 +199,7 @@ msgstr "Expressões"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:67
 msgid "Feature: New expression functions and variables"
-msgstr ""
+msgstr "Recurso: novas variáveis e funções para expressões"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:69
 msgid ""
@@ -295,6 +306,8 @@ msgid ""
 "This feature was developed by `Etienne Trimaille, Matteo Ghetta, Matthias "
 "Kuhn, Mathieu Pellerin, Nyall Dawson <https://qgis.org>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Etienne Trimaille, Matteo Ghetta, "
+"Matthias Kuhn, Mathieu Pellerin, Nyall Dawson <https://qgis.org>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:94
 msgid "Feature: Code completion for expression builder"
@@ -321,12 +334,15 @@ msgstr "imagem 3"
 #: ../../source/site/forusers/visualchangelog34/index.rst:103
 msgid "This feature was funded by `OPENGIS.ch <https://www.opengis.ch/>`__"
 msgstr ""
+"Este recurso foi financiado por `OPENGIS.ch <https://www.opengis.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:105
 msgid ""
 "This feature was developed by `Matthias Kuhn (OPENGIS.ch) "
 "<https://www.opengis.ch/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Matthias Kuhn (OPENGIS.ch) "
+"<https://www.opengis.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:108
 msgid "Map Tools"
@@ -352,13 +368,15 @@ msgstr "imagem 4"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:117
 msgid "This feature was funded by Leicestershire County Council"
-msgstr ""
+msgstr "Este recurso foi financiado por Leicestershire County Council"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:119
 msgid ""
 "This feature was developed by `Peter Petrik (Lutra Consulting) "
 "<https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Peter Petrik (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:122
 msgid "User Interface"
@@ -526,6 +544,8 @@ msgstr "imagem 7"
 msgid ""
 "This feature was funded by `iMhere Asia <https://www.imhere-asia.com/>`__"
 msgstr ""
+"Este recurso foi financiado por `iMhere Asia <https://www.imhere-"
+"asia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:177
 #: ../../source/site/forusers/visualchangelog34/index.rst:618
@@ -534,6 +554,8 @@ msgid ""
 "This feature was developed by `Mathieu Pellerin <https://www.imhere-"
 "asia.com/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Mathieu Pellerin <https://www.imhere-"
+"asia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:180
 msgid "Feature: Style manager improvements"
@@ -583,6 +605,8 @@ msgid ""
 "This feature was developed by Mathieu Pellerin (iMHere Asia), Nyall Dawson "
 "(North Road)"
 msgstr ""
+"Este recurso foi desenvolvido por Mathieu Pellerin (iMHere Asia), Nyall "
+"Dawson (North Road)"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:202
 msgid "Feature: QML chart and drawings widget"
@@ -602,13 +626,15 @@ msgstr "imagem 9"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:209
 msgid "This feature was funded by `QGIS Project <https://qgis.org/>`__"
-msgstr ""
+msgstr "Este recurso foi financiado por `QGIS Project <https://qgis.org/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:211
 msgid ""
 "This feature was developed by `David Signer and Matthias Kuhn (OPENGIS.ch) "
 "<https://www.opengis.ch>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `David Signer e Matthias Kuhn (OPENGIS.ch)"
+" <https://www.opengis.ch>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:214
 msgid "Symbology"
@@ -652,12 +678,16 @@ msgid ""
 "This feature was funded by `Lutra Consulting "
 "<https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
+"Este recurso foi financiado por `Lutra Consulting "
+"<https://www.lutraconsulting.co.uk/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:228
 msgid ""
 "This feature was developed by `Peter Petrik (Lutra Consulting) "
 "<https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Peter Petrik (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:231
 msgid "Feature: Classify symmetric in graduated renderer"
@@ -665,11 +695,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:233
 msgid "This feature was funded by https://github.com/pierreloicq"
-msgstr ""
+msgstr "Este recurso foi financiado por https://github.com/pierreloicq"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:235
 msgid "This feature was developed by https://github.com/pierreloicq"
-msgstr ""
+msgstr "Este recurso foi desenvolvido por `https://github.com/pierreloicq"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:238
 msgid "Feature: Partial QML export and import"
@@ -692,13 +722,15 @@ msgstr "imagem 10"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:246
 msgid "This feature was funded by `qwat group <http://qwat.org/>`__"
-msgstr ""
+msgstr "Este recurso foi financiado por `qwat group <http://qwat.org/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:248
 msgid ""
 "This feature was developed by `Denis Rouzaud (OPENGIS.ch GmbH) "
 "<https://www.opengis.ch>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Denis Rouzaud (OPENGIS.ch GmbH) "
+"<https://www.opengis.ch>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:251
 msgid "Digitising"
@@ -719,11 +751,14 @@ msgstr ""
 msgid ""
 "This feature was funded by `Andrea Rossi <https://github.com/rossia>`__"
 msgstr ""
+"Este recurso foi financiado por `Andrea Rossi <https://github.com/rossia>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:260
 msgid ""
 "This feature was developed by `Andrea Rossi <https://github.com/rossia>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Andrea Rossi "
+"<https://github.com/rossia>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:263
 msgid "Feature: More angle choices in advanced digitizing dock"
@@ -743,12 +778,16 @@ msgstr "imagem 11"
 msgid ""
 "This feature was funded by `lbartoletti <https://github.com/lbartoletti>`__"
 msgstr ""
+"Este recurso foi financiado por `lbartoletti "
+"<https://github.com/lbartoletti>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:271
 msgid ""
 "This feature was developed by `lbartoletti "
 "<https://github.com/lbartoletti>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `lbartoletti "
+"<https://github.com/lbartoletti>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:274
 msgid "Feature: Vertex tool can work on the current layer only"
@@ -768,13 +807,15 @@ msgstr "imagem 12"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:280
 msgid "This feature was funded by `Oslandia <https://oslandia.com>`__"
-msgstr ""
+msgstr "Este recurso foi financiado por `Oslandia <https://oslandia.com>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:282
 msgid ""
 "This feature was developed by `Paul Blottiere (Oslandia) "
 "<https://oslandia.com/en/home-en/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Paul Blottiere (Oslandia) "
+"<https://oslandia.com/en/home-en/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:285
 msgid "Feature: Add reverse line maptools"
@@ -793,13 +834,15 @@ msgstr "imagem 13"
 #: ../../source/site/forusers/visualchangelog34/index.rst:291
 #: ../../source/site/forusers/visualchangelog34/index.rst:927
 msgid "This feature was funded by `OSLANDIA <https://oslandia.com>`__"
-msgstr ""
+msgstr "Este recurso foi financiado por `OSLANDIA <https://oslandia.com>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:293
 msgid ""
 "This feature was developed by `Loïc Bartoletti "
 "<https://github.com/lbartoletti>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Loïc Bartoletti "
+"<https://github.com/lbartoletti>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:296
 msgid "Feature: Geometry Precision"
@@ -826,6 +869,9 @@ msgid ""
 "This feature was funded by `Kanton Solothurn <https://www.so.ch/verwaltung"
 "/bau-und-justizdepartement/amt-fuer-geoinformation/>`__"
 msgstr ""
+"Este recurso foi financiado por `Kanton Solothurn "
+"<https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-"
+"geoinformation/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:306
 #: ../../source/site/forusers/visualchangelog34/index.rst:316
@@ -835,6 +881,8 @@ msgid ""
 "This feature was developed by `Matthias Kuhn (OPENGIS.ch) "
 "<https://www.opengis.ch>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Matthias Kuhn (OPENGIS.ch) "
+"<https://www.opengis.ch>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:309
 msgid "Feature: Automatically remove duplicate nodes"
@@ -932,12 +980,16 @@ msgid ""
 "This feature was funded by `QGIS Usergroup Switzerland and QGEP Project "
 "<https://www.qgis.ch/en>`__"
 msgstr ""
+"Este recurso foi financiado por `QGIS Usergroup Switzerland e QGEP Project "
+"<https://www.qgis.ch/en>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:362
 msgid ""
 "This feature was developed by `David Signer (OPENGIS.ch) "
 "<https://www.opengis.ch/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `David Signer (OPENGIS.ch) "
+"<https://www.opengis.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:365
 msgid "Feature: Switch Attribute Table dock mode on demand"
@@ -982,11 +1034,14 @@ msgstr "imagem 18"
 #: ../../source/site/forusers/visualchangelog34/index.rst:384
 msgid "This feature was funded by `Opengis.ch <https://www.opengis.ch/>`__"
 msgstr ""
+"Este recurso foi financiado por `Opengis.ch <https://www.opengis.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:386
 msgid ""
 "This feature was developed by `Denis Rouzaud <https://www.opengis.ch/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Denis Rouzaud "
+"<https://www.opengis.ch/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:389
 msgid "Feature: Non-removable (required) layers highlighted in layer tree"
@@ -1025,6 +1080,9 @@ msgid ""
 "<https://www.lutraconsulting.co.uk>`__ and `Faunalia "
 "<https://www.faunalia.eu>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Martin Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk>`__ and `Faunalia "
+"<https://www.faunalia.eu>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:402
 msgid "Feature: Append raster layer to an existing Geopackage"
@@ -1045,6 +1103,8 @@ msgstr "imagem 20"
 msgid ""
 "This feature was funded by `Borys Jurgiel <https://github.com/borysiasty>`__"
 msgstr ""
+"Este recurso foi financiado por `Borys Jurgiel "
+"<https://github.com/borysiasty>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:410
 #: ../../source/site/forusers/visualchangelog34/index.rst:943
@@ -1052,6 +1112,8 @@ msgid ""
 "This feature was developed by `Borys Jurgiel "
 "<https://github.com/borysiasty>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Borys Jurgiel "
+"<https://github.com/borysiasty>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:413
 msgid "Forms and Widgets"
@@ -1078,10 +1140,13 @@ msgid ""
 "This feature was funded by `QGIS community through crowd-funding <https"
 "://north-road.com/drill-down-cascading-forms/>`__"
 msgstr ""
+"Este recurso foi financiado por`QGIS community through crowd-funding <https"
+"://north-road.com/drill-down-cascading-forms/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:424
 msgid "This feature was developed by Alessandro Pasotti (with North Road)"
 msgstr ""
+"Este recurso foi desenvolvido por Alessandro Pasotti (with North Road)"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:427
 msgid "Map Composer"
@@ -1107,6 +1172,8 @@ msgid ""
 "This feature was funded by `QGIS community through crowd-funding "
 "<https://www.lutraconsulting.co.uk/crowdfunding/more-qgis-3d/>`__"
 msgstr ""
+"Este recurso foi financiado por `QGIS community through crowd-funding "
+"<https://www.lutraconsulting.co.uk/crowdfunding/more-qgis-3d/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:438
 #: ../../source/site/forusers/visualchangelog34/index.rst:696
@@ -1117,6 +1184,8 @@ msgid ""
 "This feature was developed by `Lutra Consulting "
 "<https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Lutra Consulting "
+"<https://www.lutraconsulting.co.uk/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:441
 msgid "Processing"
@@ -1172,10 +1241,13 @@ msgid ""
 "This feature was funded by `Crowdfunding campaign <https://north-road.com"
 "/edit-features-in-place-using-qgis-spatial-operations-campaign/>`__"
 msgstr ""
+"Este recurso foi financiado por `Crowdfunding campaign <https://north-"
+"road.com/edit-features-in-place-using-qgis-spatial-operations-campaign/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:459
 msgid "This feature was developed by `North Road <https://north-road.com>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `North Road <https://north-road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:462
 msgid "Feature: Store models inside project"
@@ -1218,12 +1290,15 @@ msgstr "imagem 24"
 #: ../../source/site/forusers/visualchangelog34/index.rst:479
 msgid "This feature was funded by `Faunalia <https://www.faunalia.eu>`__"
 msgstr ""
+"Este recurso foi financiado por `Faunalia <https://www.faunalia.eu>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:481
 msgid ""
 "This feature was developed by `Matteo Ghetta (Faunalia) "
 "<https://www.faunalia.eu>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Matteo Ghetta (Faunalia) "
+"<https://www.faunalia.eu>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:484
 msgid "Feature: New 'Raster pixels to polygons' algorithm"
@@ -1399,13 +1474,15 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:602
 msgid "This feature was funded by https://qgis.org"
-msgstr ""
+msgstr "Este recurso foi financiado por https://qgis.org"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:604
 msgid ""
 "This feature was developed by `Detlev Neumann, Rudi von Staden "
 "<https://qgis.org>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Detlev Neumann, Rudi von Staden "
+"<https://qgis.org>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:607
 msgid ""
@@ -1451,6 +1528,8 @@ msgstr "imagem 26"
 msgid ""
 "This feature was funded by `iMHere Asia <https://www.imhere-asia.com/>`__"
 msgstr ""
+"Este recurso foi financiado por `iMHere Asia <https://www.imhere-"
+"asia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:632
 msgid "Feature: \"Precalculated\" values for model algorithm parameters"
@@ -1465,7 +1544,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:636
 msgid "This feature was funded by `QGIS <https://qgis.org>`__"
-msgstr ""
+msgstr "Este recurso foi financiado por `QGIS <https://qgis.org>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:641
 msgid "Feature: \"Categorize a layer using a style XML file\" algorithm"
@@ -1571,12 +1650,15 @@ msgstr ""
 msgid ""
 "This feature was funded by `Monsanto Company <https://monsanto.com/>`__"
 msgstr ""
+"Este recurso foi financiado por `Monsanto Company <https://monsanto.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:681
 msgid ""
 "This feature was developed by `Larry Shaffer, Alessandro Pasotti "
 "<https://qgis.org>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Larry Shaffer, Alessandro Pasotti "
+"<https://qgis.org>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:684
 msgid "Feature: Mesh layer: New mesh layer format support"
@@ -1610,6 +1692,8 @@ msgid ""
 "This feature was funded by `Lutra Consulting "
 "<https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
 msgstr ""
+"Este recurso foi financiado por `Lutra Consulting "
+"<https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:699
 msgid "Feature: Mesh layer: add function to identify value on mesh layers"
@@ -1684,6 +1768,8 @@ msgid ""
 "This feature was developed by `David Signer (OPENGIS.ch) "
 "<https://www.opengis.ch>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `David Signer (OPENGIS.ch) "
+"<https://www.opengis.ch>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:743
 msgid "Feature: ESRI Token Authentication support"
@@ -1781,12 +1867,12 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:890
 #: ../../source/site/forusers/visualchangelog34/index.rst:910
 msgid "This feature was funded by `Ifremer <https://wwz.ifremer.fr/>`__"
-msgstr ""
+msgstr "Este recurso foi financiado por `lfremer <https://wwz.ifremer.fr/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:892
 #: ../../source/site/forusers/visualchangelog34/index.rst:912
 msgid "This feature was developed by `3Liz <https://3liz.com>`__"
-msgstr ""
+msgstr "Este recurso foi desenvolvido por `3Liz <https://3liz.com>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:895
 msgid "Feature: WMTS 1.0.0 support"
@@ -1830,11 +1916,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:917
 msgid "This feature was funded by https://github.com/rldhont"
-msgstr ""
+msgstr "Este recurso foi financiado por https://github.com/rldhont"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:919
 msgid "This feature was developed by https://github.com/rldhont"
-msgstr ""
+msgstr "Este recurso foi desenvolvido por https://github.com/rldhont"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:922
 msgid "Feature: Support QGIS Server logs to stderr"
@@ -1851,6 +1937,8 @@ msgstr ""
 msgid ""
 "This feature was developed by `Eric Lemoine <https://github.com/elemoine>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Eric Lemoine "
+"<https://github.com/elemoine>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:932
 msgid "Plugins"
@@ -1974,11 +2062,11 @@ msgstr "|image36|"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1013
 msgid "This feature was funded by Good will"
-msgstr ""
+msgstr "Este recurso foi financiado por Good will"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1015
 msgid "This feature was developed by Alessandro Pasotti"
-msgstr ""
+msgstr "Este recurso foi desenvolvido por Alessandro Pasotti"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1018
 msgid "3D Features"
@@ -2035,6 +2123,8 @@ msgid ""
 "This feature was developed by `Martian Dobias (Lutra Consulting) "
 "<https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
+"Este recurso foi desenvolvido por `Martian Dobias (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1053
 msgid "Feature: Simple rendering of 3D linestrings"
@@ -2082,6 +2172,8 @@ msgid ""
 "This feature was funded by `Department of Environment, Land and "
 "Infrastructure Engineering (DIATI) <https://www.faunalia.eu/en/>`__"
 msgstr ""
+"Este recurso foi financiado por `Department of Environment, Land and "
+"Infrastructure Engineering (DIATI) <https://www.faunalia.eu/en/>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1083
 msgid "Feature: Experimental Python API"

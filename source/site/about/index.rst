@@ -14,4 +14,6 @@ Discover QGIS
 
 .. note::
 
-    Content is not used, it is overridden by themes/qgis-theme/about_index.html.
+    Content is not used, it is overridden by text in themes/qgis-theme/about_index.html.
+    The html texts are translated in the 'spinx' resource: https://www.transifex.com/qgis/qgis-website/sphinx/
+    Only TOC is used.

@@ -5,20 +5,21 @@
 # 
 # Translators:
 # MarieSilvestre, 2020
+# Vincent Bré <vincent.bre@outlook.fr>, 2020
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-10 10:41+0200\n"
+"POT-Creation-Date: 2020-07-09 12:40+0200\n"
 "PO-Revision-Date: 2020-03-13 10:08+0000\n"
-"Last-Translator: MarieSilvestre, 2020\n"
+"Last-Translator: Vincent Bré <vincent.bre@outlook.fr>, 2020\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
@@ -35,6 +36,8 @@ msgid "**Date of voting**: 2020-01-07"
 msgstr "**Date du vote** : 2020-01-07"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:9
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:47
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:63
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:78
 msgid "**Proponent**: Marco Bernasocchi"
 msgstr "**Proposition de** : Marco Bernasocchi"
@@ -57,17 +60,19 @@ msgstr "**Votes** : En faveur : Anita, Marco, Paolo, Tim. Abstention : Jürgen"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:17
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:38
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:161
 msgid "**Decision**: Approved"
 msgstr "**Décision** : Approuvée"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:19
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:40
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:163
 msgid "**Notes**: none"
 msgstr "**Notes** : aucune"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:23
 msgid "PyQgis Cookbook revision"
-msgstr ""
+msgstr "Révision des Recettes PyQGIS"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:25
 msgid "**Date of voting**: 2020-03-18"
@@ -75,7 +80,7 @@ msgstr "**Date du vote** : 2020-03-18"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:27
 msgid "**Proponent**: Alessandro Pasotti"
-msgstr ""
+msgstr "**Proposition de** : Alessandro Pasotti"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:29
 msgid ""
@@ -85,6 +90,12 @@ msgid ""
 "infrastructure. See thread at: https://lists.osgeo.org/pipermail/qgis-"
 "psc/2020-March/008282.html"
 msgstr ""
+"**Proposition** : La proposition consiste à réviser le texte actuel du livre"
+" de recettes et les extraots de code afin de -  mettre à jour le texte et "
+"les extraits de code - de placer TOUS les extraits de code sous "
+"l'infrastructure existante de CI de test automatisé Python. Voir le fil de "
+"discussion à l'adresse suivante : https://lists.osgeo.org/pipermail/qgis-"
+"psc/2020-March/008282.html"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:34
 msgid "**Budget**: 4000 €"
@@ -96,18 +107,13 @@ msgstr "**Votes** : En faveur : Paolo, Marco, Anita, Tim, Andreas, Jürgen"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:43
 msgid "Keep QGIS apps list in historical order"
-msgstr ""
+msgstr "Maintenir la liste des applications QGIS dans l'ordre historique"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:45
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:61
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:76
 msgid "**Date of voting**: 2020-03-17"
 msgstr "**Date du vote** : 2020-03-17"
-
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:47
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:63
-msgid "**Proposal**: Marco Bernasocchi"
-msgstr "**Proposition de** : Marco Bernasocchi"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:49
 msgid ""
@@ -116,36 +122,43 @@ msgid ""
 "base work on which Input was then based ( https://github.com/qgis/QGIS-"
 "Website/pull/725)"
 msgstr ""
+"**Fondement** : La commande actuelle reflète l'histoire des applications "
+"mobiles QGIS où QGIS pour android (et son nouveau nom QField) a fourni tout "
+"le travail de base sur lequel Input était alors basé ( "
+"https://github.com/qgis/QGIS-Website/pull/725)"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:52
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:100
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:110
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:112
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:144
 msgid "+1 Anita"
 msgstr "+1 Anita"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:53
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:97
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:115
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:117
 msgid "+1 Paolo"
 msgstr "+1 Paolo"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:54
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:85
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:99
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:113
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:115
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:143
 msgid "+1 Marco"
 msgstr "+1 Marco"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:55
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:82
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:111
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:113
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:142
 msgid "+1 Tim"
 msgstr "+1 Tim"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:56
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:83
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:96
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:114
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:116
 msgid "+1 Jürgen"
 msgstr "+1 Jürgen"
 
@@ -153,23 +166,28 @@ msgstr "+1 Jürgen"
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:71
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:84
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:98
-#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:112
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:114
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:148
 msgid "+1 Andreas"
 msgstr "+1 Andreas"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:60
 msgid "Remove QGIS for android Buttons"
-msgstr ""
+msgstr "Suppression de QGIS pour les boutons Android"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:65
 msgid ""
 "**Rationale**: `QGIS for android` is old and deprecated and now called "
 "QField"
 msgstr ""
+"**Fondement** : \"QGIS pour Android\" est ancien et obsolète et s'appelle "
+"désormais QField"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:67
 msgid "+0 Anita (or just remove download buttons and keep deprecation note)"
 msgstr ""
+"Anita +0 (ou juste supprimer les boutons de télécharger et conserver la note"
+" de dépréciation)"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:68
 msgid "-0 Marco"
@@ -177,7 +195,7 @@ msgstr "-0 Marco"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:69
 msgid "+0 Tim (update text*, remove links)"
-msgstr ""
+msgstr "Tim +0 (mise à jour du texte*, suppression des liens)"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:70
 msgid "+0 Jürgen"
@@ -187,6 +205,8 @@ msgstr "+0 Jürgen"
 msgid ""
 "Temporarily remove the links to iOS app store until a decision is reached"
 msgstr ""
+"Supprimer temporairement les liens vers l'app store d'iOS jusqu'à ce qu'une "
+"décision soit prise"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:80
 msgid "**Proposal**: see https://github.com/qgis/QGIS-Website/pull/727"
@@ -198,14 +218,14 @@ msgstr "+0 Anita"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:89
 msgid "Use of proprietary software"
-msgstr ""
+msgstr "Utilisation de logiciel propriétaire"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:90
 msgid "**Date of voting**: 2020-04-07"
 msgstr "**Date du vote** : 2020-04-07"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:92
-msgid "**Proposal**: Paolo Cavallini"
+msgid "**Proponent**: Paolo Cavallini"
 msgstr "**Proposition de** : Paolo Cavallini"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:94
@@ -215,28 +235,203 @@ msgid ""
 "free software fails to provide a reasonable solution. The PSC should vote in"
 " case a proprietary solution is suggested."
 msgstr ""
+"**Fondement** : Le logiciel libre devrait être le premier choix pour tous "
+"les outils que nous utilisons. Nous devrions choisir des alternatives "
+"propriétaires uniquement lorsqu'il est prouvé que le logiciel libre ne "
+"fournit pas de solution raisonnable. Le PSC devrait voter au cas où une "
+"solution propriétaire serait suggérée."
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:103
 msgid "New refined grant process"
-msgstr ""
+msgstr "Nouveau processus de subvention affiné"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:104
 msgid "**Date of voting**: 2020-04-15"
 msgstr "**Date du vote** : 2020-04-15"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:106
-msgid ""
-"**Proposal**: Anita Graser https://lists.osgeo.org/pipermail/qgis-"
-"psc/2020-April/008639.html"
-msgstr ""
-"**Proposition** : Anita Graser https://lists.osgeo.org/pipermail/qgis-"
-"psc/2020-April/008639.html"
+msgid "**Proponent**: Anita Graser"
+msgstr "**Proposition de** : Anita Graser"
 
 #: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:108
+msgid ""
+"**Proposal**: https://lists.osgeo.org/pipermail/qgis-"
+"psc/2020-April/008639.html"
+msgstr ""
+"**Proposition** : https://lists.osgeo.org/pipermail/qgis-"
+"psc/2020-April/008639.html"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:110
 msgid ""
 "**Rationale**: The grant process has been enhanced as discussed in "
 "https://github.com/qgis/PSC/issues/31"
 msgstr ""
+"**Fondement** : Le processus de subvention a été amélioré, comme indiqué "
+"dans https://github.com/qgis/PSC/issues/31"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:120
+msgid ""
+"Clarify the \"Use of proprietary software\" motion from 2020-04-07 to make "
+"the process more explicit and organised:"
+msgstr ""
+"Clarifier la motion \"Utilisation de logiciels propriétaires\" du 2020-04-07"
+" pour rendre le processus plus explicite et organisé :"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:121
+msgid ""
+"Motion from last month: “Free software should be the first choice for all "
+"the tools we use. We should choose proprietary alternatives only when it is "
+"proven that free software fails to provide a reasonable solution. The PSC "
+"should vote in case a proprietary solution is suggested.”"
+msgstr ""
+"Motion du mois dernier : \"Le logiciel libre devrait être le premier choix "
+"pour tous les outils que nous utilisons. Nous devrions choisir des "
+"alternatives propriétaires uniquement lorsqu'il est prouvé que le logiciel "
+"libre ne fournit pas de solution raisonnable. Le PSC devrait voter dans le "
+"cas où une solution propriétaire est suggérée\"."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:123
+msgid "**Date of voting**: 2020-05-12"
+msgstr "**Date du vote** : 2020-05-12"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:125
+msgid "**Proponent**: Tim Sutton"
+msgstr "**Proposition de** : Tim Sutton"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:127
+msgid ""
+"**Proposal**: The following steps should apply to both a) new solutions as "
+"well as b) replacement solutions:"
+msgstr ""
+"**Proposition** : Les étapes suivantes doivent s'appliquer aussi bien aux a)"
+" nouvelles solutions qu'aux b) solutions de remplacement :"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:130
+msgid "Someone proposes a new or replacement platform."
+msgstr ""
+"Quelqu'un propose une nouvelle plate-forme ou une plate-forme de "
+"remplacement"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:131
+msgid ""
+"They propose a migration strategy for existing content that needs to move to"
+" that platform  (if applicable)."
+msgstr ""
+"Ils proposent une stratégie de migration pour le contenu existant qui doit "
+"être déplacé sur cette plate-forme (si applicable)."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:132
+msgid "They propose who will do the migration (if applicable)."
+msgstr ""
+"Ils proposent la personne qui effectuera la migration (si applicable)."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:133
+msgid "They propose what, if any, funding implications there are."
+msgstr ""
+"Ils proposent, le cas échéant, les implications en matière de financement."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:134
+msgid "They propose a timeline for the migration/rollout."
+msgstr "Ils proposent une chronologie pour la migration/déploiement."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:135
+msgid ""
+"They describe how the infrastructure is managed and if it is self-hosted "
+"(e.g. do we have backups, who has admin, who fixes issues)."
+msgstr ""
+"Ils décrivent comment l'infrastructure est gérée et si elle est auto-"
+"hébergée (par exemple, avons-nous des sauvegardes, qui a l'administration, "
+"qui corrige les problèmes)."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:136
+msgid ""
+"We vote on it having been given reasonable time to consider the above "
+"information and test out the alternative."
+msgstr ""
+"Nous votons sur le fait qu'un délai raisonnable ait été accordé pour "
+"examiner les informations ci-dessus et tester l'alternative."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:137
+msgid "Assuming we vote to agree with the proposal."
+msgstr "En supposant que nous votions en faveur de la proposition."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:138
+msgid "We then start using the new platform."
+msgstr "Nous commencerons ensuite à utiliser la nouvelle plate-forme."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:140
+msgid "Vote:"
+msgstr "Vote :"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:145
+msgid "-1 Paolo"
+msgstr "-1 Paolo"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:146
+msgid "+1 Alessandro"
+msgstr "+1 Alessandro"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:147
+msgid "Jürgen"
+msgstr "Jürgen"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:151
+msgid "Fund documentation grant proposals from documentation budget"
+msgstr ""
+"Financer les propositions de subventions de documentation à partir du budget"
+" de documentation"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:153
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:168
+msgid "**Date of voting**: 2020-06-03"
+msgstr "**Date du vote** : 2020-06-03"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:155
+msgid "**Proponent**: Anita"
+msgstr "**Proposition de** : Anita"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:157
+msgid ""
+"**Proposal**: fund QGIS Server documentation enhancement "
+"(https://github.com/qgis/QGIS-Enhancement-Proposals/issues/184) and "
+"Documentation Grant Proposal (https://github.com/qgis/QGIS-Enhancement-"
+"Proposals/issues/183) directly from the documentation budget"
+msgstr ""
+"**Proposition** : financer l'amélioration de la documentation du serveur "
+"QGIS (https://github.com/qgis/QGIS-Enhancement-Proposals/issues/184) et la "
+"proposition de subvention pour la documentation (https://github.com/qgis"
+"/QGIS-Enhancement-Proposals/issues/183) directement à partir du budget de la"
+" documentation"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:159
+msgid "**Votes**: In favour: Marco, Jürgen, Anita, Andreas, Alessandro, Paolo"
+msgstr ""
+"**Votes** : En faveur : Marco, Jürgen, Anita, Andreas, Alessandro, Paolo"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:166
+msgid "Change grant voting mechanism"
+msgstr "Modifier le mécanisme de vote des subventions."
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:170
+msgid "**Proponent**: Andreas"
+msgstr "**Proposition de** : Andreas"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:172
+msgid ""
+"**Proposal**: voting members can select up to 6 proposals they want to "
+"support (each proposal gets 1 point) with no ranking of the selected ones"
+msgstr ""
+"**Proposition** : les membres votants peuvent sélectionner jusqu'à 6 "
+"propositions qu'ils souhaitent soutenir (chaque proposition obtient 1 point)"
+" sans classement des propositions sélectionnées"
+
+#: ../../source/site/getinvolved/governance/resolutions/2020_resolutions.rst:174
+msgid ""
+"**Votes**: In favour: Marco, Jürgen, Anita, Andreas, Alessandro Abstain: "
+"Paolo"
+msgstr ""
+"**Votes**: En faveur : Marco, Jürgen, Anita, Andreas, Alessandro ; "
+"Abstention : Paolo"
 
 #~ msgid ""
 #~ "**Rationale**: Documenting new features is difficult, and documentation lags"
@@ -248,3 +443,16 @@ msgstr ""
 #~ "difficile et souvent à la traîne. Proposition : Demander à ce que toute "
 #~ "nouvelle fonctionnalité soit accompagnée de sa documentation (qui soit dans "
 #~ "une section bien décrite et analysable du code)."
+
+#~ msgid "**Proposal**: Marco Bernasocchi"
+#~ msgstr "**Proposition de** : Marco Bernasocchi"
+
+#~ msgid "**Proposal**: Paolo Cavallini"
+#~ msgstr "**Proposition de** : Paolo Cavallini"
+
+#~ msgid ""
+#~ "**Proposal**: Anita Graser https://lists.osgeo.org/pipermail/qgis-"
+#~ "psc/2020-April/008639.html"
+#~ msgstr ""
+#~ "**Proposition** : Anita Graser https://lists.osgeo.org/pipermail/qgis-"
+#~ "psc/2020-April/008639.html"

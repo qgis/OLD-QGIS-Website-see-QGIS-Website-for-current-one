@@ -1,13 +1,14 @@
 # 
 # Translators:
-# Kohei Tomita <fairtommy@gmail.com>, 2017
+# fairtommy <fairtommy@gmail.com>, 2018-2019
+# fairtommy <fairtommy@gmail.com>, 2017-2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-12-04 03:36+0000\n"
-"Last-Translator: Kohei Tomita <fairtommy@gmail.com>\n"
+"PO-Revision-Date: 2019-01-31 03:47+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -45,14 +46,14 @@ msgid ""
 "verdant Minho, Ribeira de Pena is one of the municipalities that can work "
 "like an ecological corridor between areas with higher wolf concentration in "
 "the north with lower concentration in the south."
-msgstr "リベイラ・デ・ペーニャは、ポルトガル北部のヴィラレアル地区の自治体です。これは、オオカミのための避難所及び食品を提供する低密度ヒトとともに、農業、放牧畜産、森林、山、谷及び多様な動物相によって特徴付け農村自治体、、です。過酷な山岳トラスオスモンテスと緑ミーニョ間の遷移ゾーンに位置し、リベイラデペナは、より低い濃度で北に高い狼濃度を有する領域間の生態学的回廊のように動作することができる自治体の一つであります南。"
+msgstr "リベイラ・デ・ペーニャは、ポルトガル北部のヴィラレアル地区の自治体です。これは、オオカミのための避難所及び食品を提供する低密度ヒトとともに、農業、放牧畜産、森林、山、谷及び多様な動物相によって特徴付け農村自治体、、です。リベイラデペナは、過酷な山岳トラスオスモンテスと緑豊かなミーニョの間の遷移ゾーンに位置し、北の高い狼濃度と南の低い濃度の領域間の生態学的回廊のように機能しうる自治体の一つです。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:16
 msgid ""
 "I started using GIS software during my biology course, and more often during"
 " my master thesis. At that time I used mainly proprietary software. After I "
 "finished my master degree, I lost access to the proprietary software."
-msgstr "私は生物学のコース中にGISソフトウェアを使用して開始し、より頻繁に私の修士論文中。その時私は、主に独自のソフトウェアを使用していました。私は私の修士号を終えた後、私は、プロプライエタリなソフトウェアへのアクセスを失いました。"
+msgstr "私は生物学の課程中にGISソフトウェアを使用し始め、修士論文中はより頻繁に使用しました。その時は主に商用ソフトウェアを使用していましたが、修士課程終了後、商用ソフトウェアへのアクセス権を失いました。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:18
 msgid ""
@@ -65,7 +66,7 @@ msgid ""
 "already knew. I quickly realized how mistaken I was, and got really "
 "enthusiastic with the analytical capabilities QGIS provided, specially with "
 "GRASS integration."
-msgstr "一方、私は、Linuxの新しい世界に入りました。彼らはこの種のソフトウェアで働いたことがないので、その後、私は、GISを使用して、リベイラ・デペーニャでオオカミのための生態回廊をモデル化するために、いくつかの研究者を支援するために接触させました。私はすでにWindowsではなくLinuxを使用していたので、私の最初の問題は、使用するソフトウェアがしました。それから私は、QGISの話を聞いて、私はすでに知っていたものに比較すると、それは、非常に単純かつ不完全に見えたが、それを試してみることにしました。私はすぐに私がいかに間違って実現され、特別にGRASSの統合を提供分析能力のQGISで本当に熱心です。"
+msgstr "その間に、私はLinuxの新しい世界に入りました。その後で私は、リベイラ・デペーニャでオオカミのための生態回廊をGISを使用してモデル化するのを支援するため何人かの研究者に連絡をとりました。彼らはこの種のソフトウェアで作業したことがなかったからです。私はすでにWindowsではなくLinuxを使用していたので、私の最初の問題はどのソフトウェアを使用するかでした。それから私はQGISの話を聞き、すでに知っていたものに比較すると、それは非常に単純かつ不完全に見えたが、それを試してみることにしました。すぐに私がいかに間違っていたかに気づき、QGIS提供の分析能力、特にGRASSの統合、に本当に大信者になりました。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:39
 msgid ""
@@ -86,7 +87,7 @@ msgid ""
 "source software, usable in every computer or notebook without licenses, "
 "constant upgrades and the ultimate advantage to contribute to it's "
 "improvement and/or tip the developers about some essential function."
-msgstr "すべての重要な機能は、ほとんどの分析を実行するとQGISとプラグインGRASSの両方が、ユーザーフレンドリーなインターフェイスと非常に直感的です。私が見ることができるもの、QGISとGRASSが均等だけでなく、私はほとんど、無料のオープンソースソフトウェアの大きな利点で、大学時代からの精通ライセンスなしですべてのコンピュータやノートブックで使用可能な、一定のアップグレードとした独自のプログラムを実行するための究極の利点はそれの向上に寄与、および/またはいくつかの重要な機能については、開発者が先端まで。"
+msgstr "QGISとプラグインGRASSの両方とも、ユーザーフレンドリーなインターフェイスで、ほとんどの分析を実行するすべての重要な機能で、非常に直感的です。私が見るかぎりでは、QGISとGRASSは私が大学時代から精通した商用プログラムと同等に動作します。そして無料のオープンソースソフトウェアの大きな利点があります、ライセンスなしですべてのコンピュータやノートブックで使用可能、定期的なアップグレード、そして究極の利点はその向上に寄与したり、かつ／または、いくつかの重要な機能については開発者にお知らせする。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:46
 msgid ""
@@ -94,7 +95,7 @@ msgid ""
 "although there can be some missing issues, easily resolved in the future "
 "with the developers, I don't regret my decision and advise everyone to use "
 "them."
-msgstr "Linuxへ、その後、QGISとGRASSに変更するには、私の最高のコールの一つであった、と簡単に開発者と、将来的に解決され、いくつかの不足している問題を、そこにすることができますが、私は私の決断を後悔し、それらを使用するすべての人に助言するものではありません。"
+msgstr "Linuxへの、そしてその後のQGISとGRASSへの転向は、私の最高の決断の一つでした。そして、いくつかの不足している問題、将来的に開発者と簡単に解決されるもの、はありえますが、私は私の決断を後悔しませんし、皆にそれらを使用することを勧めます。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:49
 msgid "Author"
@@ -105,7 +106,7 @@ msgid ""
 "This article was contributed in July 2012 by Monica Almeida. She is "
 "conservation biologist working in an non-governmental organization in the "
 "preservation of wolf in Portugal."
-msgstr "この記事は、モニカ・アルメイダによって2012年7月に寄贈されました。彼女はポルトガルで狼の保全に非政府組織で働く保全生物学者です。"
+msgstr "この記事は、モニカ・アルメイダによって2012年7月に寄稿されました。彼女はポルトガルで狼の保全に非政府組織で働く保全生物学者です。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:20
 msgid ""
@@ -127,11 +128,11 @@ msgstr "GRASSのr.watershed：DEMから水の流れを作り出す"
 msgid ""
 "r.grow.distance in GRASS: generates a raster map layer of distance to "
 "features in input layer"
-msgstr "GRASSのr.grow.distance：入力レイヤのフィーチャまでの距離のラスタマップレイヤを生成する"
+msgstr "GRASSのr.grow.distance：入力レイヤーの地物までの距離のラスター地図レイヤーを生成する"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:26
 msgid "r.reclass in GRASS: to reclassify map layers"
-msgstr "GRASSのr.reclass：マップレイヤの再分類"
+msgstr "GRASSのr.reclass：地図レイヤーの再分類"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:27
 msgid "r.slope.aspect.slope in GRASS: to calculate the slope from the DEM"
@@ -166,7 +167,7 @@ msgid ""
 "settlements, like small villages, cities and roads. These areas must be "
 "considered critical for wolf conservation, and applied measures to reduce "
 "human impact in this species."
-msgstr "この作品で、私たちは、リベイラデペーナの自治体でオオカミのための潜在的な生態回廊でマップを得ました。これらは、種のための保全対策を計画する際に市議会の技術者によって考慮される分野です。彼らははるかに安定ペネダ・ジェレスとスペインからのものと連続している北部のもの、と南にヴィラレアルで脆弱なオオカミパックを接続することができますので、これらの廊下は非常に重要です。それは小さな村、都市や道路のように、特定の重要性から、人間の居住地を横断し、それらの廊下です。これらの領域は、オオカミの保全のための重要と考えられており、この種のヒトへの影響を軽減するための措置を適用する必要があります。"
+msgstr "この作品で、私たちは、リベイラデペーナの自治体でオオカミのための潜在的な生態回廊で地図を得ました。これらは、種のための保全対策を計画する際に市議会の技術者によって考慮される分野です。彼らははるかに安定ペネダ・ジェレスとスペインからのものと連続している北部のもの、と南にヴィラレアルで脆弱なオオカミパックを接続することができますので、これらの回廊は非常に重要です。それは小さな村、都市や道路のように、特定の重要性から、人間の居住地を横断し、それらの回廊です。これらの領域は、オオカミの保全のための重要と考えられており、この種のヒトへの影響を軽減するための措置を適用する必要があります。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:56
 msgid "Monica Almeida"

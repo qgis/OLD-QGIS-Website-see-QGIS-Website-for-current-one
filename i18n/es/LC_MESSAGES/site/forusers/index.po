@@ -3,17 +3,19 @@
 # Carlos López Quintanilla <carlos.lopez@psig.es>, 2016
 # Diana Galindo <drgalindog@linuxmail.org>, 2013
 # Eduardo Gonzalez Latorre, 2014
+# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-23 19:13+0000\n"
-"Last-Translator: Carlos López Quintanilla <carlos.lopez@psig.es>\n"
+"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"PO-Revision-Date: 2020-10-26 22:26+0000\n"
+"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -23,6 +25,16 @@ msgstr "Para Usuarios"
 
 #: ../../source/site/forusers/index.rst:24
 msgid ""
-"Content is not used, it is overridden by themes/qgis-"
-"theme/forusers_index.html."
-msgstr "El contenido no está en uso, es reemplazado por themes/qgis-theme/forusers_index.html."
+"Content is not used, it is overridden by text in themes/qgis-"
+"theme/forusers_index.html. The html texts are translated in the 'spinx' "
+"resource: https://www.transifex.com/qgis/qgis-website/sphinx/ Only TOC is "
+"used."
+msgstr "El contenido no se usa, se reemplaza por texto en themes/qgis-theme/forusers_index.html. Los textos html se traducen en el recurso 'spinx': https://www.transifex.com/qgis/qgis-website/sphinx/ Only TOC is used."
+
+#~ msgid "Plugins"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Content is not used, it is overridden by themes/qgis-"
+#~ "theme/forusers_index.html."
+#~ msgstr ""

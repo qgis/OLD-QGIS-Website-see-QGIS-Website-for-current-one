@@ -5,9 +5,10 @@
 # 
 # Translators:
 # Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2020
-# Sant-anna <delazj@gmail.com>, 2020
+# Harrissou Sant-anna, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2020
 # MarieSilvestre, 2020
+# Vincent Bré <vincent.bre@outlook.fr>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -16,7 +17,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-13 10:56+0100\n"
 "PO-Revision-Date: 2020-03-13 10:08+0000\n"
-"Last-Translator: MarieSilvestre, 2020\n"
+"Last-Translator: Vincent Bré <vincent.bre@outlook.fr>, 2020\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -31,7 +32,7 @@ msgstr "Liste des résolutions du Comité de Pilotage du Projet - 2019"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:5
 msgid "Bugfix in advance"
-msgstr ""
+msgstr "Correction de bugs en avance"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:7
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:24
@@ -53,6 +54,11 @@ msgid ""
 "surplus; next year less money will be invested in bugfix, so we have more "
 "resources for grants"
 msgstr ""
+"Raison : Nous avons un excédent de budget qui sera imposé s'il n'est pas "
+"dépensé d'ici 2019. Proposition : dépenser 7500€ en avance dans la "
+"correction de bugs afin de se débarrasser de l'excédent; l'année prochaine, "
+"moins d'argent sera investi dans la correction de bugs ce qui nous permettra"
+" d'avoir plus de ressources pour les subventions"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:14
 msgid ""
@@ -97,6 +103,8 @@ msgid ""
 "**Rationale**: We have a bugdet surplus that will be taxed if not spent "
 "within 2019."
 msgstr ""
+"Raison : Nous avons un excédent de budget qui sera imposé s'il n'est pas "
+"dépensé d'ici 2019."
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:30
 msgid ""
@@ -104,6 +112,10 @@ msgid ""
 "integration, rehost plugin feed and changelog, API docs in Github pages, …) "
 "as a special PSC project"
 msgstr ""
+"Proposition : dépenser 7500€ dans l'amélioration des infrastructures et des "
+"projets (intégration des bandes, réhébergement du flux de plugin et du "
+"journal des modifications, documents API dans les pages Github) comme un "
+"projet spécial du PSC "
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:33
 msgid "**Votes**: In favour: Marco, Anita, Jürgen, Andreas Abstain: Paolo"
@@ -112,7 +124,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:41
 msgid "Expenses reporting"
-msgstr ""
+msgstr "Déclaration des dépenses"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:43
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:72
@@ -128,6 +140,9 @@ msgid ""
 "before payment, a report must be completed by the proponent, according to a "
 "simple template:"
 msgstr ""
+"Raison : Pour chaque dépense, après que le travail / l'article soit fait, "
+"mais avant le paiement, un rapport doit être rempli par l'auteur, selon un "
+"modèle simple :"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:50
 msgid "Date of resolution"
@@ -148,11 +163,11 @@ msgstr "Description des résultats"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:54
 msgid "Eventual links to full description, commit etc."
-msgstr ""
+msgstr "Liens éventuels vers la description complète, l'engagement etc"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:55
 msgid "Evaluation (success, partial success, failure)."
-msgstr ""
+msgstr "Evaluation (succès, succès partiel, échec)."
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:57
 msgid ""
@@ -160,6 +175,9 @@ msgid ""
 "completeness For recurring costs, only the initial report should be done All"
 " reports will be added to a single location."
 msgstr ""
+"Les rapports peuvent être très courts s'il s'agit de tâches simples, mais "
+"nous visons l'exhaustivité. Pour les coûts récurrents, seul le rapport "
+"initial doit être fait. Tous les rapports seront ajoutés à un seul endroit."
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:61
 msgid ""
@@ -209,6 +227,8 @@ msgid ""
 "All decisions will be added to a single location on the web site (governance"
 " section)."
 msgstr ""
+"Toutes les décisions seront ajoutées à un seul endroit sur le site web "
+"(section gouvernance). "
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:87
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:110
@@ -222,6 +242,7 @@ msgstr "Rencontres"
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:100
 msgid "**Rationale**: To make our meetings more productive, the proposal is:"
 msgstr ""
+"Raison : Pour rendre nos réunions plus productives, la proposition est : "
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:102
 msgid ""
@@ -234,6 +255,15 @@ msgid ""
 "but has not a time slot available. In this case it will be postponed to the "
 "monthly standard meeting."
 msgstr ""
+"Des réunions régulières une fois par mois, à une date fixe, les réunions "
+"courtes ad hoc sont encouragés et peuvent être convoquées à tout moment pour"
+" discuter de questions particulières et pour prendre des décisions plus "
+"rapidement et éviter des réunions régulières trop longues; seulement "
+"quelques membres du PSC peuvent être présents aux réunions ad hoc, s'ils ne "
+"sont pas intéressés par le sujet spécifique; leur vote sera compté comme +0."
+" Un membre du PSC peut bloquer une réunion ad hoc s'il tient à y participer "
+"mais n'a pas de créneau horaire disponible. Dans ce cas, elle sera reportée "
+"à la réunion mensuelle standard."
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:107
 msgid ""
@@ -241,10 +271,14 @@ msgid ""
 "(not necessarily always the same person), who will have the responsibility "
 "for completing the minutes; cooperative editing should be allowed."
 msgstr ""
+"Chaque réunion désignera un président, normalement le président du PSC, et "
+"un secrétaire (pas nécessairement toujours la même personne), qui aura la "
+"responsabilité de rédiger le compte-rendu; la rédaction coopérative devrait "
+"être autorisée."
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:117
 msgid "Mobile apps download"
-msgstr ""
+msgstr "Téléchargements d'applications mobiles"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:121
 msgid "**Proponent**: Saber Razmjooei"
@@ -256,6 +290,10 @@ msgid ""
 "Proposal: to have links to all three mobile (QField, Input and Roam) "
 "applications on the official download page"
 msgstr ""
+"Raison : La page de téléchargement actuelle est dépassée pour les "
+"applications mobiles. Proposition : avoir des liens vers les trois "
+"applications mobiles (QField, Input et Roam) sur la page officielle de "
+"téléchargement"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:126
 msgid "**Votes**: In favour: Anita, Andreas, Tim, Marco, Paolo, Jürgen"
@@ -263,7 +301,7 @@ msgstr "**Votes** : En faveur : Anita, Andreas, Tim, Marco, Paolo, Jürgen"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:133
 msgid "PROJ.6 bugfixes"
-msgstr ""
+msgstr "Correction de bugs PROJ.6"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:135
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:151
@@ -275,6 +313,9 @@ msgid ""
 "**Rationale**: Nyall Dawson requested an additional 3-4 days of funding for "
 "proj6 related issues and fixes. We still have funding available."
 msgstr ""
+"Raison : Nyall Dawson a demandé un financement supplémentaire de 3 à 4 jours"
+" pour corriger les problèmes liés à proj6. Nous avons encore des fonds "
+"disponibles."
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:142
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:163
@@ -291,25 +332,27 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:149
 msgid "Testing hardware"
-msgstr ""
+msgstr "Tester le matériel"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:155
 msgid ""
 "**Rationale**: Giovanni Manghi requested the purchase of additional hardware"
 " to improve the testing process. Specifically:"
 msgstr ""
+"Raison : Giovanni Manghi a demandé l'achat de matériel supplémentaire pour "
+"améliorer le processus de test. Plus précisément :"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:158
 msgid "450 € for improving his PC hardware"
-msgstr ""
+msgstr "450€ pour améliorer le matériel de son PC"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:159
 msgid "500-700 t€ o get a decent used Mac."
-msgstr ""
+msgstr "500-700€ pour obtenir un Mac d'occasion décent."
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:161
 msgid "We still have funding available."
-msgstr ""
+msgstr "Nous avons encore des fonds disponibles."
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:167
 msgid ""
@@ -328,28 +371,38 @@ msgid ""
 "**Rationale**: To make our decision process, making it faster and more "
 "transparent, the proposal is:"
 msgstr ""
+"Raison : Pour que notre processus de décision soit plus rapide et plus "
+"transparent, la proposition est :"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:178
 msgid "One PSC member raise on the PSC mailing list a topic to be decided."
 msgstr ""
+"Un membre du PSC soulève sur la liste de diffusion du PSC un sujet à "
+"décider."
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:179
 msgid ""
 "If the proponent believes the discussion in ML is sufficient, the member "
 "calls for a vote."
 msgstr ""
+"Si l'auteur de la proposition estime que la discussion en ML est suffisante,"
+" le membre demande un vote."
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:180
 msgid ""
 "If not, the member adds the point to the next PSC voice meeting, where it "
 "will be discussed and voted."
 msgstr ""
+"Si ce n'est pas le cas, le membre ajoute le point à la prochaine réunion du "
+"PCS, où il sera discuté et abordé."
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:181
 msgid ""
 "Once voted, the member passes the decision to the Secretary, who adds the "
 "resolution to the list of resolutions."
 msgstr ""
+"Une fois voté, le membre transmet la décision au Secrétaire, qui ajoute la "
+"résolution à la liste des résolutions."
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:183
 msgid ""

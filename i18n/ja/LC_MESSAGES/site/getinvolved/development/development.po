@@ -28,7 +28,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/development.rst:9
 msgid "Core Development"
-msgstr ""
+msgstr "本体の開発"
 
 #: ../../source/site/getinvolved/development/development.rst:11
 msgid ""
@@ -38,9 +38,8 @@ msgid ""
 "languages. This means that QGIS feels snappy to use and has a pleasing, easy"
 " to use graphical user interface."
 msgstr ""
-"QGISは、ほとんどのUnixプラットフォーム（macOS /OS "
-"Xを含む）およびWindowsで現在実行されているオープンソースの地理情報システムです。 Qtツールキット（ https://www.qt.io "
-"）を使用して開発され、主にC "
+"QGISはオープンソースの地理情報システムで、現在ほとんどのUnixプラットフォーム（macOS /OS Xを含む）およびWindowsで動作します。 "
+"Qtツールキット（ https://www.qt.io ）を使用して開発され、主にC "
 "++およびPython言語で記述されています。これは、QGISが使いやすいと感じられ、快適で使いやすいグラフィカルユーザーインターフェイスを備えていることを意味します。"
 
 #: ../../source/site/getinvolved/development/development.rst:17
@@ -99,7 +98,7 @@ msgstr "環境を準備しリポジトリを設定する"
 
 #: ../../source/site/getinvolved/development/development.rst:47
 msgid "Go to the QGIS repository in GitHub at https://github.com/qgis/QGIS/"
-msgstr ""
+msgstr "GitHub 中の https://github.com/qgis/QGIS/ にあるQGISリポジトリに行きます"
 
 #: ../../source/site/getinvolved/development/development.rst:48
 msgid ""
@@ -159,6 +158,8 @@ msgid ""
 "QGIS has python bindings so you can automate tasks in QGIS via python. We "
 "provide a documentation for QGIS API at https://qgis.org/pyqgis/"
 msgstr ""
+"QGISにはPythonバインディングがあるため、Pythonを介してQGISでタスクを自動化できます。 "
+"https://qgis.org/pyqgis/ でQGIS APIのドキュメントを提供しています"
 
 #: ../../source/site/getinvolved/development/development.rst:83
 msgid ""

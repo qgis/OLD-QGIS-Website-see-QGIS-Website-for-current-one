@@ -2,31 +2,53 @@
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2016
 # Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2017
-# Zoltan Siki <siki@agt.bme.hu>, 2015-2016
+# Zoltan Siki <siki.zoltan@epito.bme.hu>, 2015-2016
+# Zoltan Siki <siki.zoltan@epito.bme.hu>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2017-09-20 17:28+0000\n"
-"Last-Translator: Zoltán Toldi <ifj.toldi.zoltan@gmail.com>\n"
+"POT-Creation-Date: 2019-11-02 12:44+0100\n"
+"PO-Revision-Date: 2019-12-10 21:28+0000\n"
+"Last-Translator: Zoltan Siki <siki.zoltan@epito.bme.hu>\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/document.rst:4
+msgid "Write Documentation"
+msgstr "Dokumentáció írása"
 
 #: ../../source/site/getinvolved/document.rst:6
 msgid ""
 "The update of the QGIS documentation is managed by the :ref:`Community Team "
-"Lead <gui-translation>`. Have a look at the :ref:`QGIS Governance <gui-"
-"translation>` to find out who is in charge of guiding you."
+"Lead <community-resources>`. Have a look at the :ref:`QGIS Governance "
+"<whoiswho>` to find out who is in charge of guiding you."
 msgstr "A QGIS dokumentáció aktualizálását :ref:`közösségi csapat vezetője <gui-translation>` irányítja. Vessen egy pillantást a  :ref:`QGIS irányításra <gui-translation>`, hogy megtudja kinek a felelőssége az ön támogatása."
+
+#: ../../source/site/getinvolved/document.rst:10
+msgid ""
+"The complete list of documents managed by the QGIS documentation team can be"
+" found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
+"be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+msgstr "A QGIS dokumentációs csoport által kezelt dokumentációk teljes listája megtalálható a http://www.qgis.org/en/docs/index.html oldalon. A dokumentáció készítők listája a https://github.com/qgis/QGIS-Documentation/graphs/contributors oldalon található."
 
 #: ../../source/site/getinvolved/document.rst:17
 msgid "Documentation Mailing list"
 msgstr "Dokumentáció levelező lista"
+
+#: ../../source/site/getinvolved/document.rst:19
+msgid ""
+"If you plan to contribute to QGIS documentation, see :ref:`becoming-"
+"documenter`. For other related questions, please contact the "
+":ref:`Documentation Team Leader <community-resources>` or subscribe with the"
+" `qgis-community-team <http://lists.osgeo.org/mailman/listinfo/qgis-"
+"community-team>`_ mailing list."
+msgstr "Ha tervezed, hgoy hozzájárulj a QGIS dokumentációhoz nézd meg: :ref:`becoming-documenter`. További kapcsolódó kérdések esetén vegye fel a kapcsolatot a  :ref:`Documentation Team Leader <community-resources>` vagy csatlakozzon a  `qgis-community-team <http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_ levelező listához."
 
 #: ../../source/site/getinvolved/document.rst:24
 msgid ""
@@ -63,26 +85,6 @@ msgid ""
 "more evenly between people who each have a specific area of responsibility, "
 "so any contribution you have to make will be greatly appreciated."
 msgstr "Igyekszünk javítani a projekt kezelés folyamatát és a terhelést jobban szétosztani az emberek között, akik egyes speciális területekért felelősek, így bármilyen hozzájárulását a projekthez nagyra értékeljük."
-
-#: ../../source/site/getinvolved/document.rst:4
-msgid "Write Documentation"
-msgstr "Dokumentáció írása"
-
-#: ../../source/site/getinvolved/document.rst:10
-msgid ""
-"The complete list of documents managed by the QGIS documentation team can be"
-" found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
-"be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
-msgstr "A QGIS dokumentációs csoport által kezelt dokumentációk teljes listája megtalálható a http://www.qgis.org/en/docs/index.html oldalon. A dokumentáció készítők listája a https://github.com/qgis/QGIS-Documentation/graphs/contributors oldalon található."
-
-#: ../../source/site/getinvolved/document.rst:19
-msgid ""
-"If you plan to contribute to QGIS documentation, see :ref:`becoming-"
-"documenter`. For other related questions, please contact the "
-":ref:`Documentation Team Leader <community-resources>` or subscribe with the"
-" `qgis-community-team <http://lists.osgeo.org/mailman/listinfo/qgis-"
-"community-team>`_ mailing list."
-msgstr "Ha tervezed, hgoy hozzájárulj a QGIS dokumentációhoz nézd meg: :ref:`becoming-documenter`. További kapcsolódó kérdések esetén vegye fel a kapcsolatot a  :ref:`Documentation Team Leader <community-resources>` vagy csatlakozzon a  `qgis-community-team <http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_ levelező listához."
 
 #: ../../source/site/getinvolved/document.rst:45
 msgid ""
@@ -264,4 +266,10 @@ msgstr "Az aktualizálandó fájlok könnyű megtalálásához használja a ``Fi
 #~ " please assign to the :ref:`qgis-community-team mailing list <mailinglist-"
 #~ "translation>` and ask who is already working on that language to coordinate "
 #~ "and collaborate."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The update of the QGIS documentation is managed by the :ref:`Community Team "
+#~ "Lead <gui-translation>`. Have a look at the :ref:`QGIS Governance <gui-"
+#~ "translation>` to find out who is in charge of guiding you."
 #~ msgstr ""

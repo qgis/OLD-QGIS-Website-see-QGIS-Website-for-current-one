@@ -206,12 +206,20 @@ Years of experience in a single book─the official Quantum GIS Training Manual 
 Dutch
 =====
 
+QGIS voor landmeters en wegontwerpers
+*************************************
+
+* https://huiz.net/boek/qgis-voor-landmeters-en-wegontwerpers/
+* Anton Huizinga
+* Date: November 2020
+
+
 QGIS at secondary level - Geography Studies - Cartography at secondary level - GISwijzer GO game
 ************************************************************************************************
 
 * https://www.giswijzer.nl/?product=qgis-op-vo-niveau-geografie-studies-cartografie-op-vo-niveau-giswijzer-go-spel
 * Margit Stapel
-* Date December 2016
+* Date: December 2016
 
 French
 ======

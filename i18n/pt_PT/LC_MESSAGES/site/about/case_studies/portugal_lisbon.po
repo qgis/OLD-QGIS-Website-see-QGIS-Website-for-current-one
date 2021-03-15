@@ -1,14 +1,15 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
-# Manuela Silva <manuela.silva@sky.com>, 2018
+# Manuela Silva <manuelarodsilva@gmail.com>, 2018
+# Rui <xymarior@yandex.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2018-01-10 16:03+0000\n"
-"Last-Translator: Manuela Silva <manuela.silva@sky.com>\n"
+"PO-Revision-Date: 2019-05-08 15:18+0000\n"
+"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,7 +34,7 @@ msgid ""
 "process and analyze the GIS that we obtained from several entities. We used "
 "both QGIS's native tools but also GRASS GIS and SAGA GIS tools through the "
 "GRASS plugin and SEXTANTE Toolbox."
-msgstr "Uma vez que o objectivo principal desta ferramenta é promover o uso fácil e gratuito da informação de biodiversidade e serviços de ecossistema nós decidimos usar apenas software gratuito e código aberto, que qualquer pessoa ou entidade possa usar independentemente da sua localização e constrangimentos financeiros. O sítio de internet HABEaS WebSIG está hospedado num servidor que corre Debian Linux e foi desenvolvido com o CMS Drupal. O PostgreSQL/PostGIS foi usado para armazenar os dados e o QGIS foi usado para processar e analizar o SIG que foi obtido de várias entidades. Nós usámos as ferramentas nativas do QGIS mas também o GRASS GIS e o SAGA GIS através do módulo GRASS e a Caixa de Ferramentas SEXTANTE."
+msgstr "Uma vez que o objetivo principal desta ferramenta é promover o uso fácil e gratuito da informação de biodiversidade e serviços de ecossistema nós decidimos usar apenas software gratuito e código aberto, que qualquer pessoa ou entidade possa usar independentemente da sua localização e constrangimentos financeiros. O sítio de internet HABEaS WebSIG está hospedado num servidor que corre Debian Linux e foi desenvolvido com o CMS Drupal. O PostgreSQL/PostGIS foi usado para armazenar os dados e o QGIS foi usado para processar e analisar o SIG que foi obtido de várias entidades. Nós usámos as ferramentas nativas do QGIS mas também o GRASS GIS e o SAGA GIS através do módulo GRASS e a Caixa de Ferramentas SEXTANTE."
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:19
 msgid ""
@@ -51,7 +52,7 @@ msgid ""
 "the boundaries of the property. Using the same tool we were also able to "
 "create a script that automatically calculates the amount of carbon that is "
 "currently stored in each property."
-msgstr "Para determinar que valores de conservação ocorre em cada propriedade nós usámos o Modelador SEXTANTE para criar um script que intersecta todos as camadas HABEaS com os limites da propriedade. Usando a mesma ferramenta nós conseguimos também criar um script que automaticamente calcula a quantidade de carbono que actualmente é armazenada em cada propriedade."
+msgstr "Para determinar que valores de conservação ocorre em cada propriedade nós usámos o Modelador SEXTANTE para criar um script que intersecta todos as camadas HABEaS com os limites da propriedade. Usando a mesma ferramenta nós conseguimos também criar um script que automaticamente calcula a quantidade de carbono que atualmente é armazenada em cada propriedade."
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:32
 msgid "Conclusions"
@@ -91,7 +92,7 @@ msgid ""
 "2013 it will be expanded to the north of Portugal and also to the Tuzla "
 "Canton in Bosnia & Herzegovina. In the long run we want to expand this tool "
 "to the entire Mediterranean Basin."
-msgstr "O objectivo principal desta plataforma é fornecer acesso gratuito a uma variedade de dados sobre biodiversidade e serviços de ecossistema para Bacia Mediterrânica que foi espalhada por um número variado de entidades públicas e privadas. Presentemente HABEaS WebSIG abrange o Sul de Portugal, mas para fins de 2012/princípios de 2013 será expandida para o Norte de Portugal e também para o Cantão Tuzla na Bósnia Herzegovina. No longo caminho queremos expandir esta ferramenta a toda a Bacia Mediterrânica."
+msgstr "O objetivo principal desta plataforma é fornecer acesso gratuito a uma variedade de dados sobre biodiversidade e serviços de ecossistema para Bacia Mediterrânica que foi espalhada por um número variado de entidades públicas e privadas. Presentemente HABEaS WebSIG abrange o Sul de Portugal, mas para fins de 2012/princípios de 2013 será expandida para o Norte de Portugal e também para o Cantão Tuzla na Bósnia Herzegovina. No longo caminho queremos expandir esta ferramenta a toda a Bacia Mediterrânica."
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:34
 msgid ""
@@ -102,7 +103,7 @@ msgid ""
 "with the new Print Composer and to export them in SVG format for further "
 "editing with Inkscape which is a powerful open source vector graphics "
 "editor."
-msgstr " QGIS é de fácil uso e é muito poderoso nas capacidades de geoprocessamento. A integração das ferramentas do GRASS GIS e SAGA GIS através da Caixa de Ferramentas SEXTANTE permite-nos executar um número complexo de análises espaciais e interligá-las usando o Modelador SEXTANTE. Produz facilmente mapas de qualidade alta com o novo Compositor e exporta-os em formato SVG para editar no Inkscape que é um poderoso editor de gráficos vectorial de código aberto. "
+msgstr " QGIS é de fácil uso e é muito poderoso nas capacidades de geoprocessamento. A integração das ferramentas do GRASS GIS e SAGA GIS através da Caixa de Ferramentas SEXTANTE permite-nos executar um número complexo de análises espaciais e interligá-las usando o Modelador SEXTANTE. Produz facilmente mapas de qualidade alta com o novo Compositor e exporta-os em formato SVG para editar no Inkscape que é um poderoso editor de gráficos vetorial de código aberto. "
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:36
 msgid ""
@@ -111,7 +112,7 @@ msgid ""
 " are usually resolved shortly after being reported by users and QGIS "
 "developers are always willing to listen to “end user's” needs and "
 "suggestions."
-msgstr "Em geral, a nossa experiência com o QGIS tem sido muito positiva, o software corre suavemente e a comunidade é muito activa e apoiada. Os erros reportados são usualmente resolvidos em pouco tempo depois da sua submissão por utilizadores e programadores QGIS que estão sempre dispostos a ouvir as necessidades e sugestões dos \"utilizadores finais\"."
+msgstr "Em geral, a nossa experiência com o QGIS tem sido muito positiva, o software corre suavemente e a comunidade é muito ativa e apoiada. Os erros reportados são usualmente resolvidos em pouco tempo depois da sua submissão por utilizadores e programadores QGIS que estão sempre dispostos a ouvir as necessidades e sugestões dos \"utilizadores finais\"."
 
 #~ msgid ""
 #~ "HABEaS - Hotspot Areas for Biodiversity and Ecosystem Services is an online "
