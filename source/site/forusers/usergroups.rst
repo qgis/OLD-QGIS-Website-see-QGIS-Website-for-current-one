@@ -56,6 +56,9 @@ Current list of QGIS user groups
 * `QGIS Slovensko (Slovakia) - contact: Jana Michalkova <https://qgis.sk/>`_
 * `Grupo de usuarios QGIS Ecuador - contact: Adrián Benavides <http://qgis.ec/>`_
 
+**Registered 2021**
+* `QGIS Anwendergruppe Österreich (Austria) - contact: Paul Stampfl <https://qgis.at/>`_
+
 Goals of a user group
 ---------------------
 
