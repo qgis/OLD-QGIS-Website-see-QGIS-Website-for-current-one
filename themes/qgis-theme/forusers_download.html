@@ -60,41 +60,34 @@
                       <div>
                         <h5>{{ _('Standalone installers from OSGeo4W packages') }}</h5>
                         <h6>{{ _('Latest release (richest on features):') }}</h6>
-                        <h5>{{ _('IMPORTANT NOTE: we are holding back further download of 3.18.0 Windows installer') }}</h5>
-                        <h5>{{ _('because of some serious issues found after release.') }}</h5>
-                        <h5>{{ _('Download links below are disabled until we release 3.18.1 with fixes for these issues.') }}</h5>
-                        <p>{{ _('The 3.18.0 download is still accessible through the "All Downloads" tab (for testing purposes)') }}</p>
-                        <!--<a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86_64.exe" class="reference external">-->
+                        <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86_64.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
                               <li class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></li>
                               <li class="download-text">{{ _('QGIS Standalone Installer Version %s (64 bit)')|format( version ) }}</li>
                           </ul>
-                        <!--</a>-->
-                        <!--<a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86_64.exe.sha256sum" class="reference external button">-->
-
+                        </a>
+                        <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86_64.exe.sha256sum" class="reference external button">
                           <ul class="inline download-row">
                               <li></li>
                               <li></li>
                               <li class="download-text">sha256</li>
                           </ul>
-                        <!--</a>-->
-
-                        <!--<a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86.exe" class="reference external">-->
+                        </a>
+                        <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
                               <li class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></li>
                               <li class="download-text">{{ _('QGIS Standalone Installer Version %s (32 bit)')|format( version ) }}</li>
                           </ul>
-                        <!--</a>-->
-                        <!--<a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86.exe.sha256sum" class="reference external button">-->
-
+                        </a>
+                        <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}-Setup-x86.exe.sha256sum" class="reference external button">
                           <ul class="inline download-row">
                               <li></li>
                               <li></li>
                               <li class="download-text">sha256</li>
                           </ul>
-                        <!--</a>-->
+                        </a>
                         <h6>{{ _('Long term release repository (most stable):') }}</h6>
                         <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ ltrbinary|e }}-Setup-x86_64.exe" class="reference external">
                           <ul class="inline download-row">
@@ -141,16 +134,13 @@
                       <p>{{ _('Mac Installer Packages for macOS High Sierra (10.13) and newer.') }}</p>
                       <p>{{ _('QGIS is not yet notarized as required by macOS Catalina (10.15) security rules. On first launch, please right-click on the QGIS app icon, hold down the Option key, then choose Open.') }}</p>
                       <h6>{{ _('Latest release (richest on features):') }}</h6>
-                        <h5>{{ _('IMPORTANT NOTE: we are holding back further download of 3.18.0 macOS installer') }}</h5>
-                        <h5>{{ _('because of some serious issues found after release.') }}</h5>
-                        <h5>{{ _('Download links below are disabled until we release 3.18.1 with fixes for these issues.') }}</h5>
-                      <!--<a href="https://qgis.org/downloads/macos/qgis-macos-pr.dmg" class="reference external button">-->
+                      <a href="https://qgis.org/downloads/macos/qgis-macos-pr.dmg" class="reference external button">
                         <ul class="inline download-row">
                           <li><i class="icon-download-alt icon-large"></i></li>
                           <li class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></li>
                           <li class="download-text">{{ _('QGIS macOS Installer Version %s')|format( version ) }}</li>
                         </ul>
-                      <!--</a>-->
+                      </a>
                       <h6>{{ _('Long term release (most stable):') }}</h6>
                       <a href="https://qgis.org/downloads/macos/qgis-macos-ltr.dmg" class="reference external button">
                         <ul class="inline download-row">
