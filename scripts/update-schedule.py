@@ -160,18 +160,20 @@ reader = csv.reader(codecs.iterdecode(resource, 'utf-8'), delimiter=',', quotech
 ltr_name = None
 ltr_note = None
 ltr_binary = None
+ltr_binary_msi = None
 lr_name = None
 lr_note = None
 lr_binary = None
+lr_binary_msi = None
 devversion = None
 nextversion = None
 
 for row in reader:
-    r, name, note, binary = row
+    r, name, note, binary, msibinary = row
     if r == "LTR":
-        ltr_name, ltr_note, ltr_binary = name, note, binary
+        ltr_name, ltr_note, ltr_binary, ltr_binary_msi = name, note, binary, msibinary
     elif r == "LR":
-        lr_name, lr_note, lr_binary = name, note, binary
+        lr_name, lr_note, lr_binary, lr_binary_msi = name, note, binary, msibinary
     elif r == "DEV":
         devversion = name
     elif r == "NEXT":
@@ -187,6 +189,7 @@ version = '%(version)s'
 release = '%(release)s'
 codename = u'%(lr_name)s'
 binary = '%(lr_binary)s'
+msibinary = '%(lr_binary_msi)s'
 releasedate = date(%(releasedate)s)
 releasenote = u'%(lr_note)s'
 
@@ -195,6 +198,7 @@ ltrversion = '%(ltrversion)s'
 ltrrelease = '%(ltrrelease)s'
 ltrcodename = u'%(ltr_name)s'
 ltrbinary = '%(ltr_binary)s'
+msiltrbinary = '%(ltr_binary_msi)s'
 ltrnote = u'%(ltr_note)s'
 
 devversion = '%(devversion)s'
@@ -209,12 +213,14 @@ infeaturefreeze = %(infeaturefreeze)s
     "release": lr_version,
     "releasedate": "{0}, {1}, {2}".format(lr_date.year, lr_date.month, lr_date.day),
     "lr_binary": lr_binary,
+    "lr_binary_msi": lr_binary_msi,
     "lr_name": lr_name,
     "lr_note": lr_note if lr_note != '' else '\\u200B',
     "ltrversion": ".".join(ltr_version.split(".")[:2]),
     "ltrrelease": ltr_version,
     "ltr_name": ltr_name,
     "ltr_binary": ltr_binary,
+    "ltr_binary_msi": ltr_binary_msi,
     "ltr_note": ltr_note if ltr_note != '' else 'LTR',
     "devversion": devversion,
     "nextversion": nextversion,

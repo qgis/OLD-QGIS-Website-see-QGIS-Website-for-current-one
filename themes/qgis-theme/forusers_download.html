@@ -88,7 +88,7 @@
                               <li class="download-text">sha256</li>
                           </ul>
                         </a>
-                        <h6>{{ _('Long term release repository (most stable):') }}</h6>
+                        <h6>{{ _('Long term release (most stable):') }}</h6>
                         <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ ltrbinary|e }}-Setup-x86_64.exe" class="reference external">
                           <ul class="inline download-row">
                               <li><i class="icon-download-alt icon-large"></i></li>
@@ -117,6 +117,56 @@
                               <li class="download-text">sha256</li>
                           </ul>
                         </a>
+                      </div>
+                    </div>
+                    <div class="accordion-inner">
+                      <div>
+                        <h5>{{ _('QGIS in OSGeo4W testing (upcoming replacement with newer dependencies, still experimental, 64bit only):') }}</h5>
+                        <a href="https://download.osgeo.org/osgeo4w/testing/osgeo4w-setup.exe" class="reference external">
+                        <ul class="inline download-row">
+                          <li><i class="icon-large icon-download-alt"></i></li>
+                          <li class="osgeo-download"></li>
+                          <li class="download-text">{{ _('OSGeo4W Network Installer') }}</li>
+                        </ul>
+                        </a>
+                        <p><strong><font color="red"><em>CAUTION: </em></font>Upgrades from previous installations are not supported.  Install into a separate directory (eg. C:\OSGeo4W instead of C:\OSGeo4W64)</strong></font><br>
+			{{ _('In the installer choose ') }}<strong>{{ _('Desktop Express Install') }}</strong> {{ _('and select') }} <strong>{{ _('QGIS') }}</strong> {{ _('to install the <em>latest release</em>.') }}<br/>
+                        {{ _('To get the <em>long term release</em> (that is not also the latest release) choose ') }}<strong>{{ _('Advanced Install') }}</strong> {{ _('and select ') }} <strong>{{ _('qgis-ltr-full') }}</strong><br/>
+                      <br/>
+                      </div>
+                      <div>
+                        <h5>{{ _('Standalone installers from OSGeo4W testing packages (MSI)') }}</h5>
+                        <h6>{{ _('Latest release (richest on features):') }}</h6>
+                        <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ msibinary|e }}.msi" class="reference external">
+                          <ul class="inline download-row">
+                              <li><i class="icon-download-alt icon-large"></i></li>
+                              <li class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></li>
+                              <li class="download-text">{{ _('QGIS Standalone Installer Version %s')|format( version ) }}</li>
+                          </ul>
+                        </a>
+                        <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ msibinary|e }}.sha256sum" class="reference external button">
+                          <ul class="inline download-row">
+                              <li></li>
+                              <li></li>
+                              <li class="download-text">sha256</li>
+                          </ul>
+                        </a>
+                        <h6>{{ _('Long term release (most stable):') }}</h6>
+                        <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ msiltrbinary|e }}.msi" class="reference external">
+                          <ul class="inline download-row">
+                              <li><i class="icon-download-alt icon-large"></i></li>
+                              <li class="{{ "qgis{}-download".format( "2" if ltrversion.startswith("2.") else "" ) }}"></li>
+                              <li class="download-text">{{ _('QGIS Standalone Installer Version %s')|format( ltrversion ) }}</li>
+                          </ul>
+                        </a>
+                        <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ msiltrbinary|e }}.sha256sum" class="reference external button">
+                          <ul class="inline download-row">
+                              <li></li>
+                              <li></li>
+                              <li class="download-text">sha256</li>
+                          </ul>
+                        </a>
+			<p>Note that the MSI installers are much bigger than the previous installers.  This is because they include significant larger packages (eg. PROJ 8).  The main reason for the switch to MSI were the size limits previously used NSIS has, which was blocking updates of dependencies.</p>
                       </div>
                     </div>
                   </div>
