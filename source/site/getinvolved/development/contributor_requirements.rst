@@ -13,7 +13,7 @@ project, all developers/team members must:
   in the Development Corner, and the CODING document in the root of the QGIS
   Sources.
 * Ensure that all code committed to the repository is unencumbered and compatible
-  with the QGIS license, GPL version 2
+  with the QGIS license, GNU Public License (GPL) Version 2 or any later version.
 * Not use or include any code that will cause a trademark or patent infringement.
   If you are unsure, ask on the developer mailing list or contact a Project
   Steering Committee member.
@@ -26,4 +26,3 @@ project, all developers/team members must:
 * Read and agree to the :ref:`diversitystatement`.
 * Agree to these requirements by sending an email to the qgis-developer mailing
   list stating agreement.
-
