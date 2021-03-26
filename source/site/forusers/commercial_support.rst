@@ -376,6 +376,14 @@ GRASS, SAGA and PostGIS as well as spatial data management, analysis and cartogr
 
 ----
 
+.. |geolis| image:: /static/site/about/images/geolis.png
+   :width: 75 px
+
+|geolis| `Geolis <https://www.geolis.ch/>`_ (based in Lucerne, Switzerland)
+provides commercial GIS consulting, support and training in QGIS.
+
+----
+
 .. |imt| image:: /static/site/about/images/imt.png
    :width: 75 px
 
@@ -389,14 +397,6 @@ in Austin, TX, USA) provides support and training for QGIS and PostGIS.
 
 |karttakeskus| `Karttakeskus <http://www.karttakeskus.fi/>`_ (based in Finland)
 provides commercial support and training for QGIS and open spatial data.
-
-----
-
-.. |liviostump| image:: /static/site/about/images/liviostump.png
-   :width: 75 px
-
-|liviostump| `Livio Stump <http://www.liviostump.ch>`_ (based in Lucerne, Switzerland)
-provides commercial GIS consulting, support and training in QGIS.
 
 ----
 
