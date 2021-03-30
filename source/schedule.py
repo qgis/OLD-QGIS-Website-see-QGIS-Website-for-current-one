@@ -5,7 +5,7 @@ version = '3.18'
 release = '3.18.1'
 codename = u'Zürich'
 binary = '1'
-msibinary = '2'
+msibinary = '3'
 releasedate = date(2021, 3, 19)
 releasenote = u'\u200B'
 
@@ -14,7 +14,7 @@ ltrversion = '3.16'
 ltrrelease = '3.16.5'
 ltrcodename = u'Hannover'
 ltrbinary = '1'
-msiltrbinary = '2'
+msiltrbinary = '3'
 ltrnote = u'LTR'
 
 devversion = '3.19'
