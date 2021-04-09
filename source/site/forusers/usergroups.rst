@@ -59,6 +59,7 @@ Current list of QGIS user groups
 **Registered 2021**
 
 * `QGIS Anwendergruppe Österreich (Austria) - contact: Paul Stampfl <https://qgis.at/>`_
+* `QGIS Ghana - contact: Enock Seth Nyamador <https://qgisghana.org/>`_
 
 Goals of a user group
 ---------------------
