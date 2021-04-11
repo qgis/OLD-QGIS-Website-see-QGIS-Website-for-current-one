@@ -132,10 +132,10 @@ Yes you can... BUT depending on your Operating System, it is more or less diffic
 
 If you are under Windows and are using the OSGeo4w installer, it is included.
 
-If you are using OS X, you can find the ECW plugin and install instructions at
-http://www.kyngchaos.com/software/frameworks
+If you are using macOS, you can find the ECW plugin and install instructions at
+https://www.kyngchaos.com/software/frameworks
 
-For other instructions, eg look here: http://www.faunalia.com/content/adding-ecw-support-quantum-gis
+For other instructions, eg look here: https://www.faunalia.eu/en/blog/2019-05-21_ecw_support
 
 Development
 ===========
