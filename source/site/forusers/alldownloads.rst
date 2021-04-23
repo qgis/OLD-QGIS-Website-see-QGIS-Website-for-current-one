@@ -73,7 +73,7 @@ Steps are:
   qgis-dev from OSGeo4W as *standalone installer* (taken on monday).  In the
   feature freeze phase that also acts as **release candidate**.
 
-Note the warning_.
+Before installing any of the nightly builds note the warning_.
 
 .. note:: Don't blindly do a full install of OSGeo4W. Only install QGIS and
    maybe other components you like.  Dependencies will be included
