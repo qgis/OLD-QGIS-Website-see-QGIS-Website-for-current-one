@@ -20,6 +20,14 @@ Note2: After the english books there are french, greek and polish items
 English
 =======
 
+Introduction to QGIS
+********************
+Get started with QGIS with this introduction covering everything needed to get you going.
+
+* https://locatepress.com/book/itq
+* Authors: Professor Scott Madry
+* Date: April 2021
+
 QGIS for Hydrological applications
 **********************************
 Recipes for Catchment Hydrology and Water management
