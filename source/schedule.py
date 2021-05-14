@@ -23,4 +23,4 @@ nextfreezedate = '2021-05-14 12:00:00 UTC'
 nextreleasedate = '2021-06-18 12:00:00 UTC'
 nextpointreleasedate = '2021-05-14 12:00:00 UTC'
 
-infeaturefreeze = False
+infeaturefreeze = True
