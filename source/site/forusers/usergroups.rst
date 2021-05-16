@@ -106,3 +106,7 @@ Local Country domain qgis.xx
 
 It is recommended to register your local country domains, e.g. qgis.ch or qgis.uk. If the domain is already taken by someone other organization, company or person please negotiate if you can transfer the owner to the local QGIS user group. The QGIS international project has registered QGIS as a trademark, which should help you during your negotations.
 
+Website template
+----------------
+
+if you do not wish to host and design from scratch the group website, you can use the template provided at https://github.com/qgis/qgis-template.github.io
