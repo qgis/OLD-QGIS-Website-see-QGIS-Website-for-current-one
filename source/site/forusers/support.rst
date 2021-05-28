@@ -58,9 +58,12 @@ IRC
 A lot of the development buzz will be spoken on IRC.
 
 There is a **#qgis** channel on freenode.net.
-You can also use a web interface: http://webchat.freenode.net/?channels=#qgis
+You can also use a web interface: https://webchat.freenode.net/?channels=#qgis
 If you missed a discussion on IRC, not a problem! We log all discussion, so you
 can easily catch up. Just go to https://qgis.org/irclogs.
+
+There is also a **#qgis** channel on libera.chat.
+You can use a web interface too: https://web.libera.chat/?channels=#qgis
 
 
 
