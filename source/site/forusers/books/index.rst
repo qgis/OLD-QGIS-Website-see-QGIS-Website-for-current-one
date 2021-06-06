@@ -212,7 +212,7 @@ Years of experience in a single book─the official Quantum GIS Training Manual 
 * Date: May 2013
 
 Chinese
-=====
+=======
 
 QGIS软件与应用教程
 *************************************
