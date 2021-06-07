@@ -211,6 +211,18 @@ Years of experience in a single book─the official Quantum GIS Training Manual 
 * Author(s): Rüdiger Thiede, Tim Sutton, Horst Düster, and Marcelle Sutton
 * Date: May 2013
 
+Chinese
+=======
+
+QGIS软件与应用教程
+*************************************
+
+A tutorial of QGIS software and application.
+
+* https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=57814
+* Authors: Yu Dong, Yunfeng Hu, Na Wang
+* Date: March 2021
+
 Dutch
 =====
 
