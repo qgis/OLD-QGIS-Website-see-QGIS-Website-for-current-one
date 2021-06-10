@@ -34,12 +34,38 @@ http://gis.stackexchange.com/?tags=qgis
 Chat
 ----
 
+Telegram
+........
+
+There is a lot of user and community related chat (english spoken) on the Telegram channel you can join here:
+https://t.me/joinchat/Aq2V5RPoxYYhXqUPoxRWPQ
+
+To join: install Telegram on your phone, register and join via link above.
+
+There is also a web version (https://web.telegram.org) which you can join in the browser (after you joined telegram via your phone(number)).
+
+Matrix
+......
+
+Matrix (https://matrix.org) is another project for decentralised chat. QGIS has a channel there **#qgis:matrix.org** on which there is a bot which echo's the IRC channel and vice versa.
+
+To join: create an account (at matrix.org is easiest, but if you have an osgeo account you can also use your osgeo id as matrix id), install a client (Elements is easiest, but see https://matrix.org/docs/projects/try-matrix-now/#clients for more), OR use https://app.element.io/ in your browser.
+
+
+IRC
+...
+
 A lot of the development buzz will be spoken on IRC.
 
-There is a #qgis channel on freenode.net.
-You can also use a web interface: http://webchat.freenode.net/?channels=#qgis
+There is a **#qgis** channel on freenode.net.
+You can also use a web interface: https://webchat.freenode.net/?channels=#qgis
 If you missed a discussion on IRC, not a problem! We log all discussion, so you
 can easily catch up. Just go to https://qgis.org/irclogs.
+
+There is also a **#qgis** channel on libera.chat.
+You can use a web interface too: https://web.libera.chat/?channels=#qgis
+
+
 
 
 User Groups
