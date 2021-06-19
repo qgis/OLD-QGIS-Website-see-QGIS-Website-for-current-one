@@ -40,8 +40,7 @@ packages beforehand.
 The downloaded files are kept in a local directory for future installations.
 Steps are:
 
-- Download OSGeo4W Installer (`32 bit <https://download.osgeo.org/osgeo4w/osgeo4w-setup-x86.exe>`_ or
-  `64 bit <https://download.osgeo.org/osgeo4w/osgeo4w-setup-x86_64.exe>`_) and start it
+- Download `OSGeo4W Installer <https://download.osgeo.org/osgeo4w/v2/osgeo4w-setup.exe>`_ and start it
 - Select *Advanced Install*,
 - navigate to the *Desktop* section
 - and pick one or more of the following packages:
@@ -60,9 +59,9 @@ Steps are:
   | Development       | |devversion| master          | qgis-dev [3]_ [4]_     | Nightly build of the development version              |
   +-------------------+------------------------------+------------------------+-------------------------------------------------------+
 
-.. [1] Latest release nightlies SHA: 32 bit :raw-html:`<span id="qgis-rel-dev-x86"> </span>`, 64 bit :raw-html:`<span id="qgis-rel-dev-x86_64"> </span>`
-.. [2] Latest long-term release nightlies SHA: 32 bit :raw-html:`<span id="qgis-ltr-dev-x86"> </span>`, 64 bit :raw-html:`<span id="qgis-ltr-dev-x86_64"> </span>`
-.. [3] Master nightlies SHA: 32 bit :raw-html:`<span id="qgis-dev-x86"> </span>`, 64 bit :raw-html:`<span id="qgis-dev-x86_64"> </span>`
+.. [1] Latest release nightlies SHA: :raw-html:`<span id="qgis-rel-dev"> </span>`
+.. [2] Latest long-term release nightlies SHA: :raw-html:`<span id="qgis-ltr-dev"> </span>`
+.. [3] Master nightlies SHA: :raw-html:`<span id="qgis-dev"> </span>`
 .. [4] Nightlies are debug builds (including debugging output)
 
 ..
