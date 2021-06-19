@@ -22,6 +22,9 @@ encountered the issue, the table below indicates the right repository to report 
  Applications (QGIS Desktop, QGIS Server)           https://github.com/qgis/QGIS/issues
  QGIS Website (https://qgis.org)                    https://github.com/qgis/QGIS-Website/issues
  QGIS Documentation (https://docs.qgis.org)         https://github.com/qgis/QGIS-Documentation/issues
+ C++ API (https://qgis.org/api)                     https://github.com/qgis/QGIS/issues
+ PyQGIS API  (https://qgis.org/pyqgis)              https://github.com/qgis/QGIS/issues (for contents) and
+                                                    https://github.com/qgis/pyqgis/issues (for formatting)
  External plugins                                   The author repository set in the plugin description
 ================================================== ======================================================
 
