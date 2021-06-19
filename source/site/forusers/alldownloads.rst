@@ -433,7 +433,7 @@ QGIS stable
 
 Packages on https://slackbuilds.org/result/?search=qgis
 
-ArchLinux
+Arch Linux
 ---------
 
 QGIS stable
