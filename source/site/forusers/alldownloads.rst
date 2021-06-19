@@ -434,7 +434,7 @@ QGIS stable
 Packages on https://slackbuilds.org/result/?search=qgis
 
 Arch Linux
----------
+----------
 
 QGIS stable
 ...........
