@@ -433,13 +433,13 @@ QGIS stable
 
 Packages on https://slackbuilds.org/result/?search=qgis
 
-ArchLinux
----------
+Arch Linux
+----------
 
 QGIS stable
 ...........
 
-Archlinux is available in official repository : https://www.archlinux.org/packages/community/x86_64/qgis/
+Arch Linux is available in official repository : https://www.archlinux.org/packages/community/x86_64/qgis/
 
 Install with :
 
