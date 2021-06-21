@@ -680,6 +680,8 @@ Control of this behavior is made accessible by adding a "show label legend" opti
 
 |image40|
 
+This feature was funded by Canton of Glarus
+
 This feature was developed by `mhugent <https://github.com/mhugent>`__
 
 Processing
