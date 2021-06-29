@@ -56,8 +56,8 @@ useful for the Antarctic community –-- as a complete Antarctic GIS package.
 Links
 =====
 
-* Quantarctica website: http://quantarctica.org/
-* Norwegian Polar Institute: http://www.npolar.no/en/
+* Quantarctica website: https://www.npolar.no/quantarctica/
+* Norwegian Polar Institute: https://www.npolar.no/en/
 
 Authors
 =======
