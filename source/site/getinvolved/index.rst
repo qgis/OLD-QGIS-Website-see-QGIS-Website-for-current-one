@@ -10,12 +10,12 @@ Get Involved / Development
     development/index
     tests
     daily_reports/index
-    Plugins website <http://plugins.qgis.org>
+    Plugins website <https://plugins.qgis.org>
     mailinglists
     governance/index
     meetings/index
     governance/sustaining_members/index
-    donations
+    Donations <https://donate.qgis.org>
     certification
     faq/index
     styleguide
