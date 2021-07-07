@@ -117,23 +117,6 @@
 	    replacesha('qgis-ltr-dev');
 	    replacesha('qgis-dev');
         }
-        else if (currentPage == "site/getinvolved/donations.html"){
-            // inject the stripeform into this page
-            $.get( "{{ stripeformurl }}", function( data ) { $( "#stripe" ).html( data ); });
-            // create thankyou and error page
-            $($('div.container')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
-            '<h2>{{ _("Thank you for your donation!") }}</h2> <p/>'+
-            '<div class="container"><div class="span8">'+
-            '<p id="stripemsg">{{ _("QGIS is free of charge and we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!") }}</p>'+
-            '<p id="stripeerr" style="display:none;">{{ _("Unfortunately there was an error processing your Donation. Please try again later, or contact us via finance@qgis.org") }}</p>'+
-            '<p>{{ _("The QGIS Team") }}</p>'+
-            '</div><div class="container">'+
-            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">{{ _("Close this message") }}</a></p><p class="muted"></p></div>'+
-            '</div>'+
-            '<br/><p><img src="{{pathto('_static/images/splash.png', 1)}}"/></p></div>');
-            $('#thankyou').click(function(){ $('#thankyou').hide(); });
-            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
-        }
     });
 
     //
