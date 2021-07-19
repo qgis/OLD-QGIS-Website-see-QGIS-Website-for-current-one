@@ -486,6 +486,14 @@ GRASS GIS and FOSS GIS based SDI solutions.
 
 ----
 
+.. |territoires| image:: /static/site/about/images/territoires.png
+   :width: 75 px
+
+|territoires| `Territoires <https://www.territoires.bio/>`_
+(Saint-Camille, Quebec, Canada) offers custom (theme, length and content) training with QGIS for a diversified clientele. It also provides support for the design and execution of ecological and geographic studies with QGIS.
+
+----
+
 .. |thinkwhere| image:: /static/site/about/images/thinkwhere.png
    :width: 75 px
 
