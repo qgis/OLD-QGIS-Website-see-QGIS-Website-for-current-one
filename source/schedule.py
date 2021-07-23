@@ -5,7 +5,7 @@ version = '3.20'
 release = '3.20.1'
 codename = u'Odense'
 binary = '1'
-msibinary = '1'
+msibinary = '2'
 releasedate = date(2021, 7, 19)
 releasenote = u'\u200B'
 
