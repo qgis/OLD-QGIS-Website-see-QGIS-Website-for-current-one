@@ -580,7 +580,7 @@ This feature was discussed in `QEP-206 <https://github.com/qgis/QGIS-Enhancement
 
 These notes may be copied and pasted using the traditional copy/ paste methodology for transferring styles between layers in QGIS.
 
-Layer notes are also supported by and stored within QML (QGIS Style) and QLR (QGIS Later Definition) files.
+Layer notes are also supported by and stored within QML (QGIS Style) and QLR (QGIS Layer Definition) files.
 
 |image36|
 
