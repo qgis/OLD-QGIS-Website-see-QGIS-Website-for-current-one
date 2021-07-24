@@ -835,10 +835,10 @@ The following options have been added and will be resolved by the server in the 
 -  The ``SERVICE_URL`` environment variable.
 -  The custom ``X-Qgis-<service>-Service-Url`` header.
 -  The custom ``X-Qgis-Service-Url`` header.
--  Build form the standard ``Forwarded`` header.
--  Build form the pseudo standard ``X-Forwarded-Host`` and ``X-Forwarded-Proto`` headers.
--  Build form the standard ``Host`` header and the server protocol.
--  Build form the server name and the server protocol.
+-  Build from the standard ``Forwarded`` header.
+-  Build from the pseudo standard ``X-Forwarded-Host`` and ``X-Forwarded-Proto`` headers.
+-  Build from the standard ``Host`` header and the server protocol.
+-  Build from the server name and the server protocol.
 
 This feature was developed by `Stéphane Brunner <https://github.com/sbrunner>`__
 
