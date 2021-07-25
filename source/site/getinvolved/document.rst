@@ -8,7 +8,7 @@ Have a look at the :ref:`QGIS Governance <whoiswho>` to find out who is in charg
 of guiding you.
 
 The complete list of documents managed by the QGIS documentation team can be found
-at http://www.qgis.org/en/docs/index.html. A list of documenters can be found at
+at https://www.qgis.org/en/docs/index.html. A list of documenters can be found at
 https://github.com/qgis/QGIS-Documentation/graphs/contributors.
 
 .. _mailinglist-translation-docs:
@@ -43,7 +43,7 @@ more evenly between people who each have a specific area of responsibility,
 so any contribution you have to make will be greatly appreciated.
 
 The complete list of documents managed by the QGIS Documentation Team can be found
-at http://www.qgis.org/en/docs/index.html.
+at https://www.qgis.org/en/docs/index.html.
 All the documentation sources are hosted in `QGIS-Documentation repository
 <https://github.com/qgis/QGIS-Documentation>`_. If you want to update some features
 in QGIS or document new ones, you need to:
