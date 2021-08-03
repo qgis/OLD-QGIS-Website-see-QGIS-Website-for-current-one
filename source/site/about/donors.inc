@@ -73,7 +73,7 @@
      - Adriano Polotto
      - Adriano Santos Pereira
    * - Adriano Silva Araújo
-     - Adrianus van Zijl
+     - Adrianus Van Zijl
      - Adrien Loisel
    * - Adrien Van Hamme
      - Adrián Casanova Chiclana
