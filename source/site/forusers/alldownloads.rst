@@ -387,39 +387,30 @@ SUSE / openSUSE
 
 Latest stable and LTR packages called qgis and qgis-ltr are available in the following repositories:
 
-Tumbleweed::
+.. list-table::
+ :header-rows: 1
 
- https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Tumbleweed/
-
-Leap 15.2::
-
- https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.2/
- 
-Leap 15.1::
-
- https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.1/
-
-Factory ARM::
-
- https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Factory_ARM/
-
-Factory PowerPC::
-
- https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Factory_PowerPC/
- 
-SLE 15 SP1 Backports::
-
- https://download.opensuse.org/repositories/Application:/Geo/SLE_15_SP1_Backports/
- 
-SLE 15 SP1 Backports debug::
-
- https://download.opensuse.org/repositories/Application:/Geo/SLE_15_SP1_Backports_debug/
+ * - Distribution
+   - Repository
+ * - Tumbleweed
+   - https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Tumbleweed/
+ * - Leap 15.2
+   - https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.2/
+ * - Leap 15.1
+   - https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Leap_15.1/
+ * - Factory ARM
+   - https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Factory_ARM/
+ * - Factory PowerPC
+   - https://download.opensuse.org/repositories/Application:/Geo/openSUSE_Factory_PowerPC/
+ * - SLE 15 SP1 Backports
+   - https://download.opensuse.org/repositories/Application:/Geo/SLE_15_SP1_Backports/
+ * - SLE 15 SP1 Backports debug
+   - https://download.opensuse.org/repositories/Application:/Geo/SLE_15_SP1_Backports_debug/
 
 All packages include GRASS and Python support.
 
-All openSUSE Geo repositories can be found here::
-
- https://download.opensuse.org/repositories/Application:/Geo/
+All openSUSE Geo repositories can be found here:
+https://download.opensuse.org/repositories/Application:/Geo/
 
 Mandriva
 --------
@@ -447,9 +438,9 @@ QGIS stable
 
 Arch Linux is available in official repository : https://www.archlinux.org/packages/community/x86_64/qgis/
 
-Install with :
+Install with::
 
-pacman -S qgis
+  pacman -S qgis
 
 
 QGIS LTR
@@ -457,9 +448,9 @@ QGIS LTR
 
 QGIS Long Term Release is available in AUR (Arch User Repository).
 
-Install with yaourt or other package manager which support AUR :
+Install with yaourt or other package manager which support AUR::
 
-yaourt -S qgis-ltr
+  yaourt -S qgis-ltr
 
 For bugs and other behaviour, read comments here : https://aur.archlinux.org/packages/qgis-ltr/
 
@@ -469,9 +460,9 @@ QGIS testing
 
 QGIS testing is available in AUR (Arch User Repository).
 
-Install with yaourt or other package manager which support AUR :
+Install with yaourt or other package manager which support AUR::
 
-yaourt -S qgis-git
+  yaourt -S qgis-git
 
 For bugs and other behaviour, read comments here : https://aur.archlinux.org/packages/qgis-git
 
