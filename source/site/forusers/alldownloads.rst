@@ -115,7 +115,7 @@ First install some tools you will need for this instructions::
 Now install the QGIS Signing Key, so QGIS software from 
 the QGIS repo will be trusted and installed::
 
- wget -qO - https://qgis.org/downloads/qgis-2020.gpg.key | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
+ wget -qO - https://qgis.org/downloads/qgis-2021.gpg.key | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
  sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
 
 Add the QGIS repo for the latest stable QGIS (|version|.x |codename|).
@@ -282,7 +282,7 @@ In case of keyserver errors add the qgis.org repository public key to
 your apt keyring, type::
 
  wget -O - https://qgis.org/downloads/qgis-2020.gpg.key | gpg --import
- gpg --fingerprint F7E06F06199EF2F2
+ gpg --fingerprint 46B5721DBBD2996A
 
 Should output::
 
@@ -292,7 +292,7 @@ Should output::
 
 After you have verified the fingerprint you can add the key to apt with::
 
- gpg --export --armor F7E06F06199EF2F2 | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
+ gpg --export --armor 46B5721DBBD2996A | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
  sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
 
 Alternatively you can download the key from a keyserver and add the key to apt
