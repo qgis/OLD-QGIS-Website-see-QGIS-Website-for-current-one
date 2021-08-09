@@ -281,14 +281,14 @@ In case you would like to install QGIS Server, type::
 In case of keyserver errors add the qgis.org repository public key to
 your apt keyring, type::
 
- wget -O - https://qgis.org/downloads/qgis-2020.gpg.key | gpg --import
+ wget -O - https://qgis.org/downloads/qgis-2021.gpg.key | gpg --import
  gpg --fingerprint 46B5721DBBD2996A
 
 Should output::
 
- pub   rsa4096 2020-08-08 [SCEA] [expires: 2021-08-08]
-       3987 7635 093F 2656 0197  11FA F7E0 6F06 199E F2F2
- uid           [ultimate] QGIS Archive Automatic Signing Key (2020) <qgis-developer@lists.osgeo.org>
+ pub   rsa4096 2021-08-09 [SCEA] [expires: 2022-08-09]
+       2445 D6B2 54DA C452 A498  989E 46B5 721D BBD2 996A
+ uid           [ultimate] QGIS Archive Automatic Signing Key (2021) <qgis-developer@lists.osgeo.org>
 
 After you have verified the fingerprint you can add the key to apt with::
 
@@ -298,7 +298,7 @@ After you have verified the fingerprint you can add the key to apt with::
 Alternatively you can download the key from a keyserver and add the key to apt
 in without manual fingerprint verification::
         
- wget -qO - https://qgis.org/downloads/qgis-2020.gpg.key | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
+ wget -qO - https://qgis.org/downloads/qgis-2021.gpg.key | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
  sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
 
 
