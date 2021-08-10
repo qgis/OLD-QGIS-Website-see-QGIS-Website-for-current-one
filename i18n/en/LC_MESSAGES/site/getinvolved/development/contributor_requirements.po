@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 19:50+0200\n"
+"POT-Creation-Date: 2021-08-10 10:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.9.0\n"
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:4
 msgid "Requirements for new contributors"
@@ -43,7 +43,8 @@ msgstr ""
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:15
 msgid ""
 "Ensure that all code committed to the repository is unencumbered and "
-"compatible with the QGIS license, GPL version 2"
+"compatible with the QGIS license, GNU Public License (GPL) Version 2 or "
+"any later version."
 msgstr ""
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:17
@@ -84,5 +85,12 @@ msgid ""
 msgstr ""
 
 #~ msgid "Read and agree to the :ref:`coding_standards`."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Ensure that all code committed to "
+#~ "the repository is unencumbered and "
+#~ "compatible with the QGIS license, GPL"
+#~ " version 2"
 #~ msgstr ""
 

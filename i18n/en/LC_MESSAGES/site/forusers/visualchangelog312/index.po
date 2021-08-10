@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-10 10:41+0200\n"
+"POT-Creation-Date: 2021-08-10 10:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.9.0\n"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:5
 msgid "Changelog for QGIS 3.12"
@@ -3312,7 +3312,7 @@ msgid "Feature: Bug fixes by Paul Blottiere"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1338
-msgid "Fixes compilation on Archlinux"
+msgid "Fixes compilation on Arch Linux"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1338
@@ -4343,5 +4343,8 @@ msgstr ""
 #~ msgid ""
 #~ "This feature was developed by `Nyall "
 #~ "Dawson (North Road) <https://www.opengis.ch>`__"
+#~ msgstr ""
+
+#~ msgid "Fixes compilation on Archlinux"
 #~ msgstr ""
 

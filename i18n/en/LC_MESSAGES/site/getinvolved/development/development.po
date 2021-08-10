@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-13 10:56+0100\n"
+"POT-Creation-Date: 2021-08-10 10:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.9.0\n"
 
 #: ../../source/site/getinvolved/development/development.rst:6
 msgid "Development in QGIS"
@@ -96,9 +96,9 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/development.rst:52
 msgid ""
-"Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting "
-"up the installation environment and make a compilation with ccache "
-"enabled."
+"Read the https://github.com/qgis/QGIS/blob/master/INSTALL.md about "
+"setting up the installation environment and make a compilation with "
+"ccache enabled."
 msgstr ""
 
 #: ../../source/site/getinvolved/development/development.rst:56
@@ -190,5 +190,12 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Read the https://github.com/qgis/QGIS/blob/master/INSTALL"
+#~ " about setting up the installation "
+#~ "environment and make a compilation with"
+#~ " ccache enabled."
 #~ msgstr ""
 
