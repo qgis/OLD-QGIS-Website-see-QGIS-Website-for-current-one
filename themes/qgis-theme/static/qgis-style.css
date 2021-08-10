@@ -123,7 +123,7 @@ p,
 li,
 table,
 .button {
-  font-size: .9rem;
+  font-size: 0.9rem;
   line-height: 1.4rem;
 }
 pre,
@@ -267,7 +267,7 @@ select#languages option {
   height: 60px;
   text-indent: -9999px;
   padding: 0 !important;
-  margin-left: .1%;
+  margin-left: 0.1%;
   background: transparent url("logo.png") no-repeat 0 0 !important;
   background-size: 60px !important;
 }
@@ -488,7 +488,7 @@ section.latest-news a:active .info-box {
   background: #ECECEC;
 }
 section.latest-news header {
-  height: 30px;
+  /*height: 30px;*/
   overflow: visible;
   border-bottom: 1px solid #8d8d8d;
   margin-bottom: 40px;
@@ -1011,4 +1011,3 @@ object.align-right {
   font-size: 12px;
   color: #bbb;
 }
-/*# sourceMappingURL=qgis-style.css.map */
