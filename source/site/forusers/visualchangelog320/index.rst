@@ -1193,8 +1193,8 @@ This feature was developed by `Nyall Dawson <https://north-road.com/>`__
    :class: img-responsive img-rounded
 .. |image4| image:: images/entries/09959743079b809c8969b49f5fbbffe774aeb644.gif
    :class: img-responsive img-rounded
-.. |available| image:: https://changelog.qgis.orgimages/entries/5959d2a149797fdbd8108653dad86b4ba93d54a1.gif
-.. |datetime| image:: https://changelog.qgis.orgimages/entries/f8d2510c5cdf7241f1ed61a9bdd0211f1d6fb0f7.gif
+.. |available| image:: images/entries/5959d2a149797fdbd8108653dad86b4ba93d54a1.gif
+.. |datetime| image:: images/entries/f8d2510c5cdf7241f1ed61a9bdd0211f1d6fb0f7.gif
 .. |image7| image:: images/entries/f8ab8c722dde210f851f838752916bfe76147420.png
    :class: img-responsive img-rounded
 .. |image8| image:: images/entries/bd1b0900b9e2b2756dbc9c9aa90f8b8f34ef166e.gif
@@ -1207,11 +1207,11 @@ This feature was developed by `Nyall Dawson <https://north-road.com/>`__
    :class: img-responsive img-rounded
 .. |image12| image:: images/entries/ebfd1d989cdb0d61ab56ab5a629a82a716446666.gif
    :class: img-responsive img-rounded
-.. |image13| image:: https://changelog.qgis.orgimages/entries/f0cad8bbc2de6c44b22c4875c45ed6e24e9f4bf6.png
+.. |image13| image:: images/entries/f0cad8bbc2de6c44b22c4875c45ed6e24e9f4bf6.png
 .. |image14| image:: images/entries/14f48f5bcc891d1c97a8b187f53bb21c6dd6dff6.png
    :class: img-responsive img-rounded
-.. |image15| image:: https://changelog.qgis.orgimages/entries/44767fa890705c09d9c4b21b998807c7999ddde4.gif
-.. |image16| image:: https://changelog.qgis.orgimages/entries/3a408fbcff1ee8d5889c3fe30c0d9d831b050698.gif
+.. |image15| image:: images/entries/44767fa890705c09d9c4b21b998807c7999ddde4.gif
+.. |image16| image:: images/entries/3a408fbcff1ee8d5889c3fe30c0d9d831b050698.gif
 .. |image17| image:: images/entries/be73e288ed1f46860868a6ae49e7d1f8604082b9.png
    :class: img-responsive img-rounded
 .. |image18| image:: images/entries/3b34a6b8ceb5cad5a423a10562511457c0c21396.png
@@ -1228,7 +1228,7 @@ This feature was developed by `Nyall Dawson <https://north-road.com/>`__
    :class: img-responsive img-rounded
 .. |image24| image:: images/entries/7dcb80eacfb6e10dc6b6b05a160421a93ee78d14.png
    :class: img-responsive img-rounded
-.. |curved-callout| image:: https://changelog.qgis.orgimages/entries/fd1a05c782e4e2e487a5ed876dc6c396269b0acf.gif
+.. |curved-callout| image:: images/entries/fd1a05c782e4e2e487a5ed876dc6c396269b0acf.gif
 .. |image26| image:: images/entries/42e4e2dd600bceda0ff426996577761d9e8b1638.png
    :class: img-responsive img-rounded
 .. |image27| image:: images/entries/e1de38ee6adde2a016b8d4550111ff766211f0f7.png
