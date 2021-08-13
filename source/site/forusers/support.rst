@@ -12,17 +12,6 @@ QGIS has a bunch of mailing lists. See :ref:`QGIS-mailinglists` for the differen
 If you are going to ask questions please read this: :ref:`how-to-ask-a-QGIS-question`.
 
 
-Searchable Mailing Lists
-------------------------
-
-Nabble (http://nabble.com) keeps a history of a lot of mailinglists.
-
-If you go to
-the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ you see there is a
-QGIS section also, where you can do a search over all QGIS lists, or refine it
-to e.g. only the users list.
-
-
 StackExchange
 -------------
 
@@ -90,13 +79,3 @@ Commercial Support
 ------------------
 
 You can also get support from companies near you, please visit this page: :ref:`QGIS-commercial_support`.
-
-
-Forums
-------
-
-QGIS does not have a forum. Please either search in StackExchange (see below),
-or via http://nabble.com in the history of our Mailinglists (see above).
-
-For non-english, note that there also exist local forums that have a dedicated
-section for QGIS you may need to search in.
