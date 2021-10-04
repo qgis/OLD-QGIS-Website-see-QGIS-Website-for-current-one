@@ -16,7 +16,7 @@ A key advantage of the Processing Toolbox is the ability to seamlessly use funct
 
 .. figure:: ./images/africa_tiger1.jpg
    :alt: The WOIS graphical user interface
-   :scale: 600
+   :width: 100%
    :align: center
 
    The WOIS graphical user interface, including the embedded workflow library (center) and wizard-based processing workflow (right)
@@ -25,7 +25,7 @@ The operational and practical use of the WOIS to support integrated water resour
 
 .. figure:: ./images/africa_tiger2.jpg
    :alt: Sentinel-1 flood monitoring of Caprivi flood plain, Namibia.
-   :scale: 600
+   :width: 100%
    :align: center
 
    Sentinel-1 flood monitoring of Caprivi flood plain, Namibia.

@@ -7,7 +7,7 @@ I work for a urban planning company in China.  It is often difficult to design p
 
 .. figure:: ./images/china_hydro1.jpg
    :alt: Overview Context Map
-   :width: 600
+   :height: 220
    :align: center
 
 
@@ -15,7 +15,7 @@ The task was plan a conservation park on the Chinese side of the Ili River which
 
 .. figure:: ./images/china_hydro2.jpg
    :alt: Stream Order With Distance
-   :scale: 600
+   :height: 220
    :align: center
 
 Story
