@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.20\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-10 10:32+0200\n"
+"POT-Creation-Date: 2021-10-10 20:22+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1851,6 +1851,307 @@ msgstr ""
 msgid "Feature: Bug fixes by Even Rouault"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog320/index.rst:852
+#: ../../source/site/forusers/visualchangelog320/index.rst:891
+#: ../../source/site/forusers/visualchangelog320/index.rst:960
+#: ../../source/site/forusers/visualchangelog320/index.rst:985
+#: ../../source/site/forusers/visualchangelog320/index.rst:1014
+#: ../../source/site/forusers/visualchangelog320/index.rst:1039
+#: ../../source/site/forusers/visualchangelog320/index.rst:1066
+#: ../../source/site/forusers/visualchangelog320/index.rst:1089
+msgid "Bug Title"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:852
+#: ../../source/site/forusers/visualchangelog320/index.rst:891
+#: ../../source/site/forusers/visualchangelog320/index.rst:960
+#: ../../source/site/forusers/visualchangelog320/index.rst:985
+#: ../../source/site/forusers/visualchangelog320/index.rst:1014
+#: ../../source/site/forusers/visualchangelog320/index.rst:1039
+#: ../../source/site/forusers/visualchangelog320/index.rst:1066
+#: ../../source/site/forusers/visualchangelog320/index.rst:1089
+msgid "URL (if reported, Github)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:852
+#: ../../source/site/forusers/visualchangelog320/index.rst:891
+#: ../../source/site/forusers/visualchangelog320/index.rst:960
+#: ../../source/site/forusers/visualchangelog320/index.rst:985
+#: ../../source/site/forusers/visualchangelog320/index.rst:1014
+#: ../../source/site/forusers/visualchangelog320/index.rst:1039
+#: ../../source/site/forusers/visualchangelog320/index.rst:1066
+#: ../../source/site/forusers/visualchangelog320/index.rst:1089
+msgid "URL Commit (Github)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:852
+#: ../../source/site/forusers/visualchangelog320/index.rst:891
+#: ../../source/site/forusers/visualchangelog320/index.rst:960
+#: ../../source/site/forusers/visualchangelog320/index.rst:985
+#: ../../source/site/forusers/visualchangelog320/index.rst:1014
+#: ../../source/site/forusers/visualchangelog320/index.rst:1039
+#: ../../source/site/forusers/visualchangelog320/index.rst:1066
+#: ../../source/site/forusers/visualchangelog320/index.rst:1089
+msgid "3.16 backport commit (GitHub)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:854
+msgid "compiler warning in QgsMeshDatasetGroupStore::readXml()"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:854
+#: ../../source/site/forusers/visualchangelog320/index.rst:876
+#: ../../source/site/forusers/visualchangelog320/index.rst:905
+#: ../../source/site/forusers/visualchangelog320/index.rst:909
+#: ../../source/site/forusers/visualchangelog320/index.rst:917
+#: ../../source/site/forusers/visualchangelog320/index.rst:919
+#: ../../source/site/forusers/visualchangelog320/index.rst:933
+#: ../../source/site/forusers/visualchangelog320/index.rst:962
+#: ../../source/site/forusers/visualchangelog320/index.rst:970
+#: ../../source/site/forusers/visualchangelog320/index.rst:991
+#: ../../source/site/forusers/visualchangelog320/index.rst:1093
+#: ../../source/site/forusers/visualchangelog320/index.rst:1101
+#: ../../source/site/forusers/visualchangelog320/index.rst:1111
+#: ../../source/site/forusers/visualchangelog320/index.rst:1113
+#: ../../source/site/forusers/visualchangelog320/index.rst:1119
+#: ../../source/site/forusers/visualchangelog320/index.rst:1123
+#: ../../source/site/forusers/visualchangelog320/index.rst:1127
+#: ../../source/site/forusers/visualchangelog320/index.rst:1129
+#: ../../source/site/forusers/visualchangelog320/index.rst:1131
+#: ../../source/site/forusers/visualchangelog320/index.rst:1143
+#: ../../source/site/forusers/visualchangelog320/index.rst:1145
+#: ../../source/site/forusers/visualchangelog320/index.rst:1149
+#: ../../source/site/forusers/visualchangelog320/index.rst:1151
+#: ../../source/site/forusers/visualchangelog320/index.rst:1153
+#: ../../source/site/forusers/visualchangelog320/index.rst:1155
+#: ../../source/site/forusers/visualchangelog320/index.rst:1159
+#: ../../source/site/forusers/visualchangelog320/index.rst:1175
+#: ../../source/site/forusers/visualchangelog320/index.rst:1177
+msgid "unreported"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:854
+msgid "`PR #43304 <https://github.com/qgis/QGIS/pull/43304>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:854
+msgid "N/A"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:856
+msgid "QGIS Crashes with GDAL 3.3"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:856
+msgid "`#43224 <https://github.com/qgis/QGIS/issues/43224>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:856
+msgid "`PR #43306 <https://github.com/qgis/QGIS/pull/43306>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:856
+msgid "`PR #43323 <https://github.com/qgis/QGIS/pull/43323>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:858
+msgid "Data corrupted when deleting field in a (specific) geopackage layer"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:858
+msgid "`#42768 <https://github.com/qgis/QGIS/issues/42768>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:858
+msgid "`PR #43309 <https://github.com/qgis/QGIS/pull/43309>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:858
+msgid "`PR #43322 <https://github.com/qgis/QGIS/pull/43322>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:860
+msgid "PyQGIS: WMS-T layer uri without timeDimensionExtent in it crashes QGIS"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:860
+msgid "`#43158 <https://github.com/qgis/QGIS/issues/43158>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:860
+msgid "`PR #43310 <https://github.com/qgis/QGIS/pull/43310>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:860
+msgid "`PR #43324 <https://github.com/qgis/QGIS/pull/43324>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:862
+msgid ""
+"Data Corruption: Failed GPKG OID/FID Over-write causes value to spill "
+"into next attribute column"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:862
+msgid "`#42274 <https://github.com/qgis/QGIS/issues/42274>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:862
+msgid "`PR #43311 <https://github.com/qgis/QGIS/pull/43311>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:862
+msgid "`PR #43360 <https://github.com/qgis/QGIS/pull/43360>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:864
+msgid "\"Split features\" causes data loss"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:864
+msgid "`#41283 <https://github.com/qgis/QGIS/issues/41283>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:864
+msgid "`PR #43328 <https://github.com/qgis/QGIS/pull/43328>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:864
+msgid "`PR #43340 <https://github.com/qgis/QGIS/pull/43340>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:866
+msgid "Foreign key constraints checks are ignored on GPKG"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:866
+msgid "`#34728 <https://github.com/qgis/QGIS/issues/34728>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:866
+msgid "`PR #43330 <https://github.com/qgis/QGIS/pull/43330>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:866
+#: ../../source/site/forusers/visualchangelog320/index.rst:876
+#: ../../source/site/forusers/visualchangelog320/index.rst:905
+#: ../../source/site/forusers/visualchangelog320/index.rst:919
+#: ../../source/site/forusers/visualchangelog320/index.rst:921
+#: ../../source/site/forusers/visualchangelog320/index.rst:925
+#: ../../source/site/forusers/visualchangelog320/index.rst:929
+#: ../../source/site/forusers/visualchangelog320/index.rst:941
+#: ../../source/site/forusers/visualchangelog320/index.rst:1022
+msgid "Not appropriate"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:868
+msgid "Strange error message from SQL Query Composer in WFS client"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:868
+msgid "`#42985 <https://github.com/qgis/QGIS/issues/42985>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:868
+msgid "`PR #43334 <https://github.com/qgis/QGIS/pull/43334>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:868
+msgid "`PR #43341 <https://github.com/qgis/QGIS/pull/43341>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:870
+msgid ""
+"WFS 1.1.0 ExceptionReport response handling : QGIS looks for "
+"'exceptionCode' but in specifications it's 'code' attribute"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:870
+msgid "`#42196 <https://github.com/qgis/QGIS/issues/42196>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:870
+msgid "`PR #43335 <https://github.com/qgis/QGIS/pull/43335>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:870
+msgid "`PR #43342 <https://github.com/qgis/QGIS/pull/43342>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:872
+msgid "Export selection from a large WFS layer fails"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:872
+msgid "`#42049 <https://github.com/qgis/QGIS/issues/42049>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:872
+msgid "`PR #43336 <https://github.com/qgis/QGIS/pull/43336>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:872
+msgid "`PR #43343 <https://github.com/qgis/QGIS/pull/43343>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:874
+msgid "Long (?) WKT makes delimited text layer fail on 3.16 and 3.18"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:874
+msgid "`#43256 <https://github.com/qgis/QGIS/issues/43256>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:874
+msgid "`PR #43337 <https://github.com/qgis/QGIS/pull/43337>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:874
+msgid "`PR #43339 <https://github.com/qgis/QGIS/pull/43339>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:876
+msgid "Wrong SRS when reading a Postgis layer"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:876
+msgid "`PR #43338 <https://github.com/qgis/QGIS/pull/43338>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:878
+msgid "Mesh data in GRIB format from ERA5"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:878
+msgid "`#41809 <https://github.com/qgis/QGIS/issues/41809>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:878
+msgid "`GDAL PR 3875 <https://github.com/OSGeo/gdal/pull/3875>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:878
+msgid "`GDAL PR 3877 <https://github.com/OSGeo/gdal/pull/3877>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:880
+msgid ""
+"Two OGR provider filtered layers with same source dataset don't restore "
+"proper feature count / extent on project reload"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:880
+msgid "`#43361 <https://github.com/qgis/QGIS/issues/43361>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:880
+msgid "`PR #43372 <https://github.com/qgis/QGIS/pull/43372>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:880
+msgid "`PR #43394 <https://github.com/qgis/QGIS/pull/43394>`__"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog320/index.rst:883
 #: ../../source/site/forusers/visualchangelog320/index.rst:952
 #: ../../source/site/forusers/visualchangelog320/index.rst:977
@@ -1874,6 +2175,382 @@ msgstr ""
 msgid "Feature: Bug fixes by Alessandro Pasotti"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog320/index.rst:893
+msgid ""
+"Data Source Manager fails to derive exact 3D geometry type for GeometryZ "
+"PostGIS tables"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:893
+msgid "`#43268 <https://github.com/qgis/QGIS/issues/43268>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:893
+msgid "`PR #43326 <https://github.com/qgis/QGIS/pull/43326>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:895
+msgid ""
+"Attribute table conditional formatting doesn't work when using $geometry "
+"is NULL"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:895
+msgid "`#43252 <https://github.com/qgis/QGIS/issues/43252>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:895
+#: ../../source/site/forusers/visualchangelog320/index.rst:907
+#: ../../source/site/forusers/visualchangelog320/index.rst:913
+#: ../../source/site/forusers/visualchangelog320/index.rst:927
+#: ../../source/site/forusers/visualchangelog320/index.rst:937
+#: ../../source/site/forusers/visualchangelog320/index.rst:968
+#: ../../source/site/forusers/visualchangelog320/index.rst:999
+msgid "Works for me"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:897
+msgid "QgsZonalStatistics.calculateStatistics() incomplete outputs"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:897
+msgid "`#43245 <https://github.com/qgis/QGIS/issues/43245>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:897
+msgid "`PR #43332 <https://github.com/qgis/QGIS/pull/43332>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:897
+msgid "`PR #43378 <https://github.com/qgis/QGIS/pull/43378>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:899
+msgid "Bad Request on feed.qgis.org"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:899
+msgid "`#43232 <https://github.com/qgis/QGIS/issues/43232>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:899
+msgid "`PR #43333 <https://github.com/qgis/QGIS/pull/43333>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:899
+#: ../../source/site/forusers/visualchangelog320/index.rst:903
+#: ../../source/site/forusers/visualchangelog320/index.rst:949
+msgid "Not relevant"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:901
+msgid ""
+"Server: WFS3/API Features - overlapping columns/content on data items as "
+"HTML pages"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:901
+msgid "`#42269 <https://github.com/qgis/QGIS/issues/42269>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:901
+msgid "`PR #43363 <https://github.com/qgis/QGIS/pull/43363>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:901
+msgid "`PR #43380 <https://github.com/qgis/QGIS/pull/43380>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:903
+msgid ""
+"Datum transformation using custom gsb grid for WMS Layer in QGIS Server "
+"does not work"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:903
+msgid "`#43072 <https://github.com/qgis/QGIS/issues/43072>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:903
+msgid "`PR #43365 <https://github.com/qgis/QGIS/pull/43365>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:905
+msgid "Server: fix unreported QGIS\\_OPTIONS\\_PATH not really working for proj"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:905
+msgid "`PR #43366 <https://github.com/qgis/QGIS/pull/43366>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:907
+msgid "WFS cascade getfeatureinfo fails"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:907
+msgid "`#42062 <https://github.com/qgis/QGIS/issues/42062>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:909
+msgid "Server standalone: fix unreported project storage not supported with -p"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:909
+msgid "`PR #43381 <https://github.com/qgis/QGIS/pull/43381>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:909
+msgid "`PR #43464 <https://github.com/qgis/QGIS/pull/43464>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:911
+msgid ""
+"QGIS Server GetPrint: HIGHLIGHT\\_GEOM is not printed if map layers are "
+"configured to follow a map theme"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:911
+msgid "`#34178 <https://github.com/qgis/QGIS/issues/34178>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:911
+msgid "`PR #43391 <https://github.com/qgis/QGIS/pull/43391>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:911
+#: ../../source/site/forusers/visualchangelog320/index.rst:915
+#: ../../source/site/forusers/visualchangelog320/index.rst:931
+#: ../../source/site/forusers/visualchangelog320/index.rst:966
+#: ../../source/site/forusers/visualchangelog320/index.rst:972
+msgid "Risky"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:913
+msgid ""
+"Feature count is wrong when adding features from a table with features of"
+" mixed geometries"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:913
+msgid "`#43199 <https://github.com/qgis/QGIS/issues/43199>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:915
+msgid ""
+"Not all geometry types are found in PostGIS table with Spatial Type of "
+"Geometry"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:915
+msgid "`#43186 <https://github.com/qgis/QGIS/issues/43186>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:915
+msgid "`PR #43419 <https://github.com/qgis/QGIS/pull/43419>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:917
+msgid "Icon not updated when saving a scratch layer"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:917
+msgid "`PR #43431 <https://github.com/qgis/QGIS/pull/43431>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:917
+msgid "`PR #43463 <https://github.com/qgis/QGIS/pull/43463>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:919
+msgid "Fix list of protocols in ssh custom configuration"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:919
+msgid "`PR #43432 <https://github.com/qgis/QGIS/pull/43432>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:921
+msgid "Crash with table set to Show Visible, joins, and left open as QGIS is quit"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:921
+msgid "`#43287 <https://github.com/qgis/QGIS/issues/43287>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:921
+msgid "`PR #43434 <https://github.com/qgis/QGIS/pull/43434>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:923
+msgid ""
+"\"show label\" is disabled in widget designer but label keeps displaying "
+"in attribute form if you use tabs in the Drag and-Drop Designer and the "
+"field widget was placed in any tab"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:923
+msgid "`#43103 <https://github.com/qgis/QGIS/issues/43103>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:923
+msgid "`PR #43435 <https://github.com/qgis/QGIS/pull/43435>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:923
+#: ../../source/site/forusers/visualchangelog320/index.rst:943
+#: ../../source/site/forusers/visualchangelog320/index.rst:945
+msgid "TODO"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:925
+msgid "Browser adds layers to projects with a leading space"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:925
+msgid "`#43129 <https://github.com/qgis/QGIS/issues/43129>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:925
+msgid "`PR #43436 <https://github.com/qgis/QGIS/pull/43436>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:927
+msgid "saveStyleToDatabase() bug when saving more than one layer to a GPKG"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:927
+msgid "`#42988 <https://github.com/qgis/QGIS/issues/42988>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:929
+#: ../../source/site/forusers/visualchangelog320/index.rst:987
+msgid "Widget parameters not persistent for relations in D&D designer"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:929
+#: ../../source/site/forusers/visualchangelog320/index.rst:987
+msgid "`#43123 <https://github.com/qgis/QGIS/issues/43123>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:929
+msgid "`PR #43468 <https://github.com/qgis/QGIS/pull/43468>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:931
+msgid "Rule-based rendering sometimes doesn't show all results"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:931
+msgid "`#43181 <https://github.com/qgis/QGIS/issues/43181>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:931
+msgid "`PR #43502 <https://github.com/qgis/QGIS/pull/43502>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:933
+msgid "Fix unreported missing raster band stats in info panel"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:933
+msgid "`PR #43507 <https://github.com/qgis/QGIS/pull/43507>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:935
+msgid "Raster calculator does not create/store statistics for output rasters"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:935
+msgid "`#42835 <https://github.com/qgis/QGIS/issues/42835>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:935
+msgid "`PR #43512 <https://github.com/qgis/QGIS/pull/43512>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:935
+#: ../../source/site/forusers/visualchangelog320/index.rst:939
+msgid "Not a priority"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:937
+msgid "Attribute Form Value Relation Doesn't Respect Column Default"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:937
+msgid "`#41951 <https://github.com/qgis/QGIS/issues/41951>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:939
+msgid "Attribute table in form view can display \"ghost\" attributes"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:939
+msgid "`#43477 <https://github.com/qgis/QGIS/issues/43477>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:939
+msgid "`PR #43533 <https://github.com/qgis/QGIS/pull/43533>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:941
+msgid "PG identity default clause issue"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:941
+msgid "https://lists.osgeo.org/pipermail/qgis-user/2021-June/048983.html"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:941
+msgid "`PR #43529 <https://github.com/qgis/QGIS/pull/43529>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:943
+msgid "Pyqgis 3.18.3 error when adding wms layer"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:943
+msgid "`#43580 <https://github.com/qgis/QGIS/issues/43580>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:943
+msgid "`PR #43581 <https://github.com/qgis/QGIS/pull/43581>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:945
+msgid ""
+"\"Reuse last entered attribute values\" slows creation of new features on"
+" large vector"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:945
+msgid "`#42909 <https://github.com/qgis/QGIS/issues/42909>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:945
+msgid "`PR #43584 <https://github.com/qgis/QGIS/pull/43584>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:947
+msgid "Deleting \"all other values\" breaks date based categorise symbology"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:947
+msgid "`#43651 <https://github.com/qgis/QGIS/issues/43651>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:947
+msgid "`GDAL PR 3978 <https://github.com/OSGeo/gdal/pull/3978>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:949
+msgid "Fix documentation doctest builds"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:949
+msgid "https://github.com/qgis/QGIS-Documentation/pull/6747"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog320/index.rst:954
 msgid ""
 "This feature was developed by `Alessandro Pasotti "
@@ -1882,6 +2559,96 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog320/index.rst:957
 msgid "Feature: Bug fixes by Paul Blottiere"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:962
+msgid "VERSION is now mandatory in WMS 1.3.0 for getmap requests"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:962
+msgid "`PR #43459 <https://github.com/qgis/QGIS/pull/43459>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:962
+msgid "`PR #43467 <https://github.com/qgis/QGIS/pull/43467>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:964
+msgid "WMTS GetCapabilities and axis order"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:964
+msgid "`#34826 <https://github.com/qgis/QGIS/issues/34826>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:964
+msgid "`PR #43280 <https://github.com/qgis/QGIS/pull/43280>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:964
+msgid "`PR #43772 <https://github.com/qgis/QGIS/pull/43772>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:966
+msgid "Use the lowest version in wms negotiation"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:966
+msgid "`#41051 <https://github.com/qgis/QGIS/issues/41051>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:966
+msgid "`PR #41376 <https://github.com/qgis/QGIS/pull/41376>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:968
+msgid ""
+"QGIS crashes adding a record to a memory (\"scratch\") layer table in "
+"some circumstances"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:968
+msgid "`#42578 <https://github.com/qgis/QGIS/issues/42578>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:970
+msgid "QGIS fails silently when an auxiliary layer cannot be created"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:970
+msgid "`PR #43543 <https://github.com/qgis/QGIS/pull/43543>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:970
+msgid "`PR #43773 <https://github.com/qgis/QGIS/pull/43773>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:972
+msgid "Unable to save auxiliary storage"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:972
+msgid "`#26365 <https://github.com/qgis/QGIS/issues/26365>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:972
+msgid "`PR #43560 <https://github.com/qgis/QGIS/pull/43560>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:974
+msgid "WMS GetFeatureInfo on time enabled layer does not pass TIME parameter"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:974
+msgid "`#42141 <https://github.com/qgis/QGIS/issues/42141>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:974
+msgid "`PR #43599 <https://github.com/qgis/QGIS/pull/43599>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:974
+msgid "`PR #43774 <https://github.com/qgis/QGIS/pull/43774>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog320/index.rst:979
@@ -1894,12 +2661,228 @@ msgstr ""
 msgid "Feature: Bug fixes by Denis Rouzaud"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog320/index.rst:987
+msgid "`PR #43479 <https://github.com/qgis/QGIS/pull/43479>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:987
+#: ../../source/site/forusers/visualchangelog320/index.rst:993
+#: ../../source/site/forusers/visualchangelog320/index.rst:1018
+#: ../../source/site/forusers/visualchangelog320/index.rst:1076
+msgid "not relevant"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:989
+msgid ""
+"Use a read-only line edit instead of combobox in relation reference "
+"doesn't allow to add a child from the parent"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:989
+msgid "`#42813 <https://github.com/qgis/QGIS/issues/42813>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:989
+msgid "`PR #43509 <https://github.com/qgis/QGIS/pull/43509>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:989
+msgid "too risky / not worth it"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:991
+msgid ""
+"no open-form in all layers feature locator filter (active filter has) + "
+"show form instead of error for geometry-less layers"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:991
+msgid "`PR #43462 <https://github.com/qgis/QGIS/pull/43462>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:991
+msgid "?"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:993
+msgid "Cannot add a polymorphic relations"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:993
+msgid "`#41959 <https://github.com/qgis/QGIS/issues/41959>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:993
+msgid "`PR #43488 <https://github.com/qgis/QGIS/pull/43488>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:995
+msgid ""
+"Filter expression from relation reference widget on attributes form, not "
+"working properly"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:995
+msgid "`#42803 <https://github.com/qgis/QGIS/issues/42803>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:995
+msgid "`PR #43523 <https://github.com/qgis/QGIS/pull/43523>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:995
+msgid "yes"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:997
+msgid ""
+"fix Picture layout element does not handle properly a non-existing "
+"filepath when provided with an expression"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:997
+msgid "`#42280 <https://github.com/qgis/QGIS/issues/42280>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:997
+msgid "`PR #43119 <https://github.com/qgis/QGIS/pull/43119>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:999
+msgid "relations bug: zoom to child button disappears"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:999
+msgid "`#34477 <https://github.com/qgis/QGIS/issues/34477>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1001
+msgid ""
+"Value Relation and Relation reference widget: Entries are sorted although"
+" the option \"Order by value\" is NOT checked"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1001
+msgid "`#26468 <https://github.com/qgis/QGIS/issues/26468>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1001
+msgid "not sure how to fix this for now"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1003
+msgid "Errors while adding a feature with a polymorphic relation"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1003
+msgid "`#41962 <https://github.com/qgis/QGIS/issues/41962>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1003
+msgid "fixed"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog320/index.rst:1008
 msgid "This feature was developed by `Denis Rouzaud <https://www.opengis.ch/>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog320/index.rst:1011
 msgid "Feature: Bug fixes by Loïc Bartoletti"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1016
+msgid "QgsProjectionSelectionWidget::selectCrs() cannot be overwritten in Python"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1016
+msgid "`#43019 <https://github.com/qgis/QGIS/issues/43019>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1016
+#: ../../source/site/forusers/visualchangelog320/index.rst:1072
+msgid "Works for me."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1018
+msgid "A bug? in FindPyQt5.py"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1018
+msgid "`#41913 <https://github.com/qgis/QGIS/issues/41913>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1020
+msgid "Missing incon of Geometry Checker core plugin"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1020
+msgid "`#42708 <https://github.com/qgis/QGIS/issues/42708>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1020
+msgid "`PR #43536 <https://github.com/qgis/QGIS/pull/43536>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1020
+msgid "`PR #43549 <https://github.com/qgis/QGIS/pull/43549>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1022
+msgid "Please reomve the not functional OWS group from the QGIS browser"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1022
+msgid "`#24841 <https://github.com/qgis/QGIS/issues/24841>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1022
+msgid "`PR #43559 <https://github.com/qgis/QGIS/pull/43559>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1024
+msgid "Build fails with external qwtpolar"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1024
+msgid "`#41910 <https://github.com/qgis/QGIS/issues/41910>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1024
+msgid "`PR #43551 <https://github.com/qgis/QGIS/pull/43551>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1024
+msgid "`PR #43583 <https://github.com/qgis/QGIS/pull/43583>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1026
+msgid "Check geometries tool does not save default action changes"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1026
+msgid "`#42489 <https://github.com/qgis/QGIS/issues/42489>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1026
+msgid "`PR #43550 <https://github.com/qgis/QGIS/pull/43550>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1026
+msgid "`PR #43568 <https://github.com/qgis/QGIS/pull/43568>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1028
+msgid ""
+"Wrong error output location when using Check validity on data with "
+"certain type of 3D error"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1028
+msgid "`#43582 <https://github.com/qgis/QGIS/issues/43582>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1028
+msgid "`PR #43588 <https://github.com/qgis/QGIS/pull/43588>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog320/index.rst:1033
@@ -1912,6 +2895,122 @@ msgstr ""
 msgid "Feature: Bug fixes by Julien Cabieces"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog320/index.rst:1041
+msgid ""
+"Postgresql tables with intarray fields as primary key causes problems in "
+"python scripts"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1041
+msgid "`#42778 <https://github.com/qgis/QGIS/issues/42778>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1041
+msgid "`PR #43493 <https://github.com/qgis/QGIS/pull/43493>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1041
+msgid "`PR #43510 <https://github.com/qgis/QGIS/pull/43510>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1043
+msgid "Cannot instantiate QgsFeatureFilterModel using PyQGIS"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1043
+msgid "`#42488 <https://github.com/qgis/QGIS/issues/42488>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1043
+msgid "`PR #43494 <https://github.com/qgis/QGIS/pull/43494>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1043
+msgid "`PR #43516 <https://github.com/qgis/QGIS/pull/43516>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1045
+msgid "QGIS crashes by loading ui file"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1045
+msgid "`#42379 <https://github.com/qgis/QGIS/issues/42379>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1045
+msgid "Working"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1047
+msgid ""
+"QvariantList Field , nothing in attribute table when a single value is in"
+" the list"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1047
+msgid "`#33108 <https://github.com/qgis/QGIS/issues/33108>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1047
+msgid "`PR #43508 <https://github.com/qgis/QGIS/pull/43508>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1047
+msgid "`PR #43530 <https://github.com/qgis/QGIS/pull/43530>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1049
+msgid "Copy CRS to clipboard when copying selected features"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1049
+msgid "`#40117 <https://github.com/qgis/QGIS/issues/40117>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1049
+msgid "`PR #43527 <https://github.com/qgis/QGIS/pull/43527>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1049
+msgid "`PR #43532 <https://github.com/qgis/QGIS/pull/43532>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1051
+msgid "Open Running (connection) Task makes it impossible to Quit QGIS"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1051
+msgid "`#40001 <https://github.com/qgis/QGIS/issues/40001>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1051
+msgid "`PR #43587 <https://github.com/qgis/QGIS/pull/43587>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1053
+msgid "Plugin manager doesn't work with proxy"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1053
+msgid "`#43284 <https://github.com/qgis/QGIS/issues/43284>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1053
+msgid "Feedback"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1055
+msgid "Form fails to initialize $geometry"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1055
+msgid "`#34791 <https://github.com/qgis/QGIS/issues/34791>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1055
+msgid "`PR #43617 <https://github.com/qgis/QGIS/pull/43617>`__"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog320/index.rst:1060
 msgid ""
 "This feature was developed by `Julien Cabieces "
@@ -1922,6 +3021,78 @@ msgstr ""
 msgid "Feature: Bug fixes by Peter Petrik"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog320/index.rst:1068
+msgid "Passwords cannot be saved into keychain on macOS with QGIS 3.16"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1068
+msgid "`#40541 <https://github.com/qgis/QGIS/issues/40541>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1068
+msgid "feedback"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1070
+msgid "buggy profile results in two instances starting"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1070
+msgid "`#29379 <https://github.com/qgis/QGIS/issues/29379>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1070
+msgid "not an issue anymore"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1072
+msgid "GRASS plugin init error on macOS"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1072
+msgid "`#41782 <https://github.com/qgis/QGIS/issues/41782>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1074
+msgid "Data Source Manager incorrectly identifies PostGIS raster extent on macOS"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1074
+msgid "`#43042 <https://github.com/qgis/QGIS/issues/43042>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1074
+msgid "investigation"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1076
+msgid "Crash with point clouds when zooming into 3D viewer [Mac]"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1076
+msgid "`#41903 <https://github.com/qgis/QGIS/issues/41903>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1076
+msgid "`PR #43743 <https://github.com/qgis/QGIS/pull/43743>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1078
+msgid "Crash when chcking the \"Show bounding boxes\" option in 3D view settings"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1078
+msgid "`#40766 <https://github.com/qgis/QGIS/issues/40766>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1078
+msgid "`PR #43755 <https://github.com/qgis/QGIS/pull/43755>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1078
+msgid "backport\\_bot"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog320/index.rst:1083
 msgid ""
 "This feature was developed by `Peter Petrik "
@@ -1930,6 +3101,693 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog320/index.rst:1086
 msgid "Feature: Bug fixes by Nyall Dawson"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1091
+msgid "Fix browser panel scanning on remote locations can hang QGIS"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1091
+msgid "many PRs"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1093
+msgid "[3d] Fix rendering of curved lines using simple line renderer"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1093
+msgid ""
+"`Commit 700390a "
+"<https://github.com/qgis/QGIS/commit/700390abff6928636de010c49746a10129c215eb>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1095
+msgid "Fix layer preview through browser panel"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1095
+msgid "`#43303 <https://github.com/qgis/QGIS/issues/43303>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1095
+msgid ""
+"`Commit 7bf85a0 "
+"<https://github.com/qgis/QGIS/commit/7bf85a0cccc105208a0a9563396ad8ca10a38810>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1097
+msgid ""
+"[expressions] Fix evaluation of round(...) where input value is a string "
+"containing a decimal number"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1097
+msgid "`#36467 <https://github.com/qgis/QGIS/issues/36467>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1097
+msgid ""
+"`Commit 42c2061 "
+"<https://github.com/qgis/QGIS/commit/42c2061c5418bbcfa2fde8aac35486ac7fcb26b1>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1099
+msgid ""
+"Fix label masking settings get dropped for layers with \",\" or \";\" "
+"characters in the text"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1099
+msgid "`#37473 <https://github.com/qgis/QGIS/issues/37473>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1099
+msgid ""
+"`Commit 3d4e2f4 "
+"<https://github.com/qgis/QGIS/commit/3d4e2f460f5ca04a469a2549c69b96dea889b174>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1101
+msgid "Fix orphaned symbol masking can force maps to be rasterized"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1101
+msgid ""
+"`Commit ffc500d "
+"<https://github.com/qgis/QGIS/commit/ffc500d79de02d9f83d36a8fa40b4436079be04d>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1103
+msgid "Fix selection of features which use variables in filter rules"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1103
+msgid "`#42006 <https://github.com/qgis/QGIS/issues/42006>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1103
+msgid ""
+"`Commit d41c234 "
+"<https://github.com/qgis/QGIS/commit/d41c2342676098e9c9991305711b9eea748bb858>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1103
+#: ../../source/site/forusers/visualchangelog320/index.rst:1109
+#: ../../source/site/forusers/visualchangelog320/index.rst:1115
+#: ../../source/site/forusers/visualchangelog320/index.rst:1119
+#: ../../source/site/forusers/visualchangelog320/index.rst:1127
+#: ../../source/site/forusers/visualchangelog320/index.rst:1129
+#: ../../source/site/forusers/visualchangelog320/index.rst:1159
+#: ../../source/site/forusers/visualchangelog320/index.rst:1171
+msgid "`PR #43235 <https://github.com/qgis/QGIS/pull/43235>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1105
+msgid ""
+"[labeling] Default to \"from symbol bounds\" for cartographic point label"
+" placement"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1105
+msgid "`#25866 <https://github.com/qgis/QGIS/issues/25866>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1105
+msgid ""
+"`Commit 4ad5d36 "
+"<https://github.com/qgis/QGIS/commit/4ad5d36d93df8eaf0105aed2c9918197f5bf67ef>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1107
+msgid ""
+"Fix PyQGIS QgsLineString constructor only accepts lists of QgsPoint, not "
+"QgsPointXY as indicated by the documentation"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1107
+msgid "`#43200 <https://github.com/qgis/QGIS/issues/43200>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1107
+msgid ""
+"`Commit 2b6c3c1 "
+"<https://github.com/qgis/QGIS/commit/2b6c3c1db2cc3c8214a6c019c2c044b8bae712f2>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1109
+msgid "Fix crash when changing symbol levels through style dock"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1109
+msgid "`#42671 <https://github.com/qgis/QGIS/issues/42671>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1109
+msgid ""
+"`Commit f3f4c17 "
+"<https://github.com/qgis/QGIS/commit/f3f4c17c5fa1d71670d505a2938da2345c683909>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1111
+msgid "Allow clearing data defined buttons which are set to non-existing fields"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1111
+msgid ""
+"`Commit ee03ad5 "
+"<https://github.com/qgis/QGIS/commit/ee03ad5991094ec975118c986075d0e830dec469>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1113
+msgid ""
+"[processing] Python entry in history dialog should be processing.run "
+"line, not processing.execAlgorithmDialog"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1113
+msgid ""
+"`Commit 61ac64c "
+"<https://github.com/qgis/QGIS/commit/61ac64c5a146adc72d38eaf5ab3fe35a6f51be20>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1115
+msgid "Don't try to render font marker symbols in massive font sizes, avoid crash"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1115
+msgid "`#42270 <https://github.com/qgis/QGIS/issues/42270>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1115
+msgid ""
+"`Commit 12d1078 "
+"<https://github.com/qgis/QGIS/commit/12d1078a8bc11caef7002629e6315cf50522e732>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1117
+msgid "Fix Qgis::MessageLevel::None is not available in PyQGIS"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1117
+msgid "`#42996 <https://github.com/qgis/QGIS/issues/42996>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1117
+msgid ""
+"`Commit 02266ef "
+"<https://github.com/qgis/QGIS/commit/02266ef8e66ef6613d27e7818e0e7adf0d5a3271>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1119
+msgid ""
+"Fix marker symbol bounds incorrectly include bounds of disabled symbol "
+"layers"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1119
+msgid ""
+"`Commit ca54e8f "
+"<https://github.com/qgis/QGIS/commit/ca54e8f8520453954e06e4d91adbd375287ddadd>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1121
+msgid "Fix hang in rendering joined layers"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1121
+msgid "`#38551 <https://github.com/qgis/QGIS/issues/38551>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1121
+msgid ""
+"`Commit ca00377 "
+"<https://github.com/qgis/QGIS/commit/ca00377027dc7ae6066d8ca5fc3da35ad46dd7c2>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1121
+msgid ""
+"`Commit cdbf722 "
+"<https://github.com/qgis/QGIS/commit/cdbf7224f716a7272e89239895ae254d2ee31bcd>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1123
+msgid ""
+"[temporal] Fix broken animations when a non-integer interval value is "
+"used (e.g. 1.5 hours)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1123
+msgid ""
+"`Commit 81ec79c "
+"<https://github.com/qgis/QGIS/commit/81ec79c0e5d31f0e56413fdb01af320fbc00c564>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1125
+msgid "Fix allowing attribute selection for DXF layer name"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1125
+msgid "`#42575 <https://github.com/qgis/QGIS/issues/42575>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1125
+msgid ""
+"`Commit 66c6ef9 "
+"<https://github.com/qgis/QGIS/commit/66c6ef96bcd4bcce4fa06cfc4ea62c87ac2898c9>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1127
+msgid ""
+"Fix papercut in rule based labeling widget where it's possible to uncheck"
+" BOTH the filter and else radio buttons"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1127
+msgid ""
+"`Commit 1fcb9752 "
+"<https://github.com/qgis/QGIS/commit/1fcb97522c34d319c18bab13e4ccc64d6161bbef>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1129
+msgid ""
+"Fix it's impossible to change a rule based labeling \"else\" rule back to"
+" a normal rule"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1129
+msgid ""
+"`Commit de92ca0 "
+"<https://github.com/qgis/QGIS/commit/de92ca034714452e8de139584518277092ea6c3c>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1131
+msgid ""
+"Fix data defined properties which bind to a field can have incorrect "
+"values when the linked field has a null value"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1131
+msgid ""
+"`Commit 4e25c6b "
+"<https://github.com/qgis/QGIS/commit/4e25c6bcf413c8d93a09839696dbc93ae0e55f64>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1131
+msgid ""
+"`Commit 2a3bcc3 "
+"<https://github.com/qgis/QGIS/commit/2a3bcc365d901c3d69270fd9c4a9a2165c2cbd31>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1133
+msgid "Fix broken coordinate transform when exporting features to DXF"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1133
+msgid "`#43449 <https://github.com/qgis/QGIS/issues/43449>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1133
+msgid ""
+"`Commit 65c02e0 "
+"<https://github.com/qgis/QGIS/commit/65c02e024a767ccc57283ec29a9c1b6d6ef8003f>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1133
+msgid ""
+"`Commit 044f6a1 "
+"<https://github.com/qgis/QGIS/commit/044f6a1ec2d96314805ee9ab9be73d8d25e38597>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1135
+msgid ""
+"[processing] Don't show model child algorithm outputs as choices for "
+"multi-layer input parameters when running a model"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1135
+msgid "`#41210 <https://github.com/qgis/QGIS/issues/41210>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1135
+msgid ""
+"`Commit f4477b2 "
+"<https://github.com/qgis/QGIS/commit/f4477b2cc4f29553ceb8c3d2d82139bc955ffd0c>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1137
+msgid ""
+"Expand on QgsPoint/QgsPointXY documentation to clarify when each class "
+"should be used"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1137
+msgid "`#43598 <https://github.com/qgis/QGIS/issues/43598>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1137
+msgid ""
+"`Commit ae83444 "
+"<https://github.com/qgis/QGIS/commit/ae83444c9f0c5ce8056ac7b282d6fb1dedc43ad4>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1139
+msgid "Fix crash when canceling union tool"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1139
+msgid "`#43553 <https://github.com/qgis/QGIS/issues/43553>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1139
+msgid ""
+"`Commit b1f50bb "
+"<https://github.com/qgis/QGIS/commit/b1f50bbc2cefe593918b73af7d2b92ffac9b764d>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1139
+msgid ""
+"`Commit 1f25ba5 "
+"<https://github.com/qgis/QGIS/commit/1f25ba5dbc58bc2f2efd1d930a6104110abe1569>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1141
+msgid "Fix \"force layer to render as raster\" setting wasn't correctly copied"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1141
+msgid "`#43535 <https://github.com/qgis/QGIS/issues/43535>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1141
+msgid ""
+"`Commit 1313786 "
+"<https://github.com/qgis/QGIS/commit/131378650ff47f35588eed04162a7e2f2c728abf>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1141
+msgid ""
+"`Commit dcd016b "
+"<https://github.com/qgis/QGIS/commit/dcd016bace01506aa283aa7e6760ebe13bfa0d73>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1143
+msgid "Fix massive performance regression in attribute table"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1143
+msgid ""
+"`Commit 5fdb88b "
+"<https://github.com/qgis/QGIS/commit/5fdb88bae3e40316a489d71594f17548f7a55f00>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1143
+msgid ""
+"`Commit 4970c3a "
+"<https://github.com/qgis/QGIS/commit/4970c3a9dbc66d1b2d155e3cdd07df200ee1c14a>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1145
+msgid ""
+"Fix performance issue when using attribute table with \"edited or new "
+"features\" filter in place"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1145
+msgid ""
+"`Commit af021f1 "
+"<https://github.com/qgis/QGIS/commit/af021f10fb73d4850a0486527775e7fdc101ef47>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1147
+msgid "Fix invalid error message when creating expression for layout text item"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1147
+msgid "`#42884 <https://github.com/qgis/QGIS/issues/42884>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1147
+msgid ""
+"`Commit db74013 "
+"<https://github.com/qgis/QGIS/commit/db74013c7fc5966436fc41b3d912e93367bbec23>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1149
+msgid "Clarify labels in temporal controller"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1149
+msgid ""
+"`Commit ed346d8 "
+"<https://github.com/qgis/QGIS/commit/ed346d88fd3ebdf16839fa5b750dc92731cecfb6>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1151
+msgid "Correctly redraw canvas when applying project properties changes"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1151
+msgid ""
+"`Commit 41f9842 "
+"<https://github.com/qgis/QGIS/commit/41f98420e028c251cd0619242b5c1e8d01f5d41e>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1151
+msgid ""
+"`Commit 607b44b "
+"<https://github.com/qgis/QGIS/commit/607b44b1e0175a97c103eb7c04f2450c1ff924d3>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1153
+msgid ""
+"Make interactive labeling tools correctly work with data defined "
+"properties which aren't bound to fields"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1153
+msgid ""
+"`Commit c6bd366 "
+"<https://github.com/qgis/QGIS/commit/c6bd366112f92e836dd071dd395f8b3dbf982d50>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1155
+msgid ""
+"Fix crash in labeling if label has data defined x/y set and projection "
+"error occurs transforming these coordinates"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1155
+msgid ""
+"`Commit 8943ac7 "
+"<https://github.com/qgis/QGIS/commit/8943ac76d598f96c59d59a2ed530a972f07f89a1>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1155
+msgid ""
+"`Commit 2fe68cc "
+"<https://github.com/qgis/QGIS/commit/2fe68cc2f9c776f12fb94886d9c5d660a7d2a99f>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1157
+msgid "[temporal] Fix filter generation for vector temporal layers"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1157
+msgid "`#38468 <https://github.com/qgis/QGIS/issues/38468>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1157
+msgid ""
+"`Commit 544708f "
+"<https://github.com/qgis/QGIS/commit/544708f4aade5c4451463e045fd23c168552ab40>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1159
+msgid "Fix formatting of exception blocks in PyQGIS docs"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1159
+msgid ""
+"`Commit 8359281 "
+"<https://github.com/qgis/QGIS/commit/835928101213484c23f46e5c91b8329102478534>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1161
+msgid "Fix zonal statistics does not correctly handle coordinate transforms"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1161
+msgid "`#26858 <https://github.com/qgis/QGIS/issues/26858>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1161
+msgid ""
+"`Commit e70cf8d "
+"<https://github.com/qgis/QGIS/commit/e70cf8da2747c13e02866bc940ce4dbb3af41815>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1161
+msgid ""
+"`Commit c82678d "
+"<https://github.com/qgis/QGIS/commit/c82678dd6136de79cd76206c9ca25b1f9e34abd2>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1163
+msgid "Don't assume that owslib >= 0.20 is available"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1163
+msgid "`#38074 <https://github.com/qgis/QGIS/issues/38074>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1163
+msgid ""
+"`Commit 3cf9083 "
+"<https://github.com/qgis/QGIS/commit/3cf9083743de2a72893d2efeddcfb29f3ea7130f>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1163
+msgid ""
+"`Commit eb1a55a "
+"<https://github.com/qgis/QGIS/commit/eb1a55a146d1dddb7ddf52da9c961e4c5a8cce96>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1165
+msgid "Fix crash in geometry checker when empty geometries are found"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1165
+msgid "`#38983 <https://github.com/qgis/QGIS/issues/38983>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1165
+msgid ""
+"`Commit 73a4948 "
+"<https://github.com/qgis/QGIS/commit/73a49489c857ec492f62bb8ef0ec2494d93d368a>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1165
+msgid ""
+"`Commit 6938593 "
+"<https://github.com/qgis/QGIS/commit/69385937d842cfa88ff65663591049ca210403b8>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1167
+msgid "[temporal] Fix incorrect frame duration in last frame in animation mode"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1167
+msgid "`#40777 <https://github.com/qgis/QGIS/issues/40777>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1167
+msgid ""
+"`Commit f76747b "
+"<https://github.com/qgis/QGIS/commit/f76747b8b1ffd93844767ad9b66e3601b96a98a2>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1169
+msgid ""
+"Default to a time range of the last 24 hours, in 1 hour increments, "
+"instead of a confusing \"zero length\" range"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1169
+msgid "`#40868 <https://github.com/qgis/QGIS/issues/40868>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1169
+msgid ""
+"`Commit 5f5a3a7 "
+"<https://github.com/qgis/QGIS/commit/5f5a3a7e46fac5a4939d90f2eaf57a8b61008789>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1171
+msgid "Fix temporal fields reset if previously set to no value"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1171
+msgid "`#43643 <https://github.com/qgis/QGIS/issues/43643>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1171
+msgid ""
+"`Commit 9de5d25 "
+"<https://github.com/qgis/QGIS/commit/9de5d2500bd358c1214b17434424d1c301444b03>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1173
+msgid "[processing] Fix broken execution of models via browser/drag and drop"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1173
+msgid "`#43698 <https://github.com/qgis/QGIS/issues/43698>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1173
+msgid ""
+"`Commit cbe2678 "
+"<https://github.com/qgis/QGIS/commit/cbe2678e34767f01dd3d2578261c4e55e40a00ba>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1173
+msgid ""
+"`Commit 9e0cdcb "
+"<https://github.com/qgis/QGIS/commit/9e0cdcba48de04a3fb3a6aa81276e68a0447a6fd>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1175
+msgid "Fix QgsDistanceArea.bearing()"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1175
+msgid ""
+"`Commit 0b499d3 "
+"<https://github.com/qgis/QGIS/commit/0b499d3a0058dbb234ce54f6329015818a9ccde7>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1177
+msgid ""
+"Don't restrict adding crs selections to list of recent CRSes to only a "
+"few select dialogs"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1177
+msgid ""
+"`Commit 870945c "
+"<https://github.com/qgis/QGIS/commit/870945c476c1a429eb410af2a793644a7b1db85f>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1179
+msgid ""
+"[processing] Fix use of data defined parameter values when editing "
+"features in place"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1179
+msgid "`#43758 <https://github.com/qgis/QGIS/issues/43758>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1179
+msgid ""
+"`Commit 3ae9625 "
+"<https://github.com/qgis/QGIS/commit/3ae96253de7efc5e8921e776ae91de4b9281d90c>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1181
+msgid ""
+"[layouts] Fix bounding rectangle for shapes doesn't include stroke width "
+"after loading from xml"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1181
+msgid "`#43748 <https://github.com/qgis/QGIS/issues/43748>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog320/index.rst:1181
+msgid ""
+"`Commit fad1800 "
+"<https://github.com/qgis/QGIS/commit/fad18003b3560e6daa1c47080f5b2fe10ddef9e6>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog320/index.rst:1186
