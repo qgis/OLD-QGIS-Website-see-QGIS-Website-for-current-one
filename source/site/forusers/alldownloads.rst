@@ -50,19 +50,16 @@ Steps are:
   +===================+==============================+========================+=======================================================+
   | Latest Release    | |version|.x |codename|       | qgis                   | Release                                               |
   |                   | |releasenote|                +------------------------+-------------------------------------------------------+
-  |                   |                              | qgis-rel-dev [1]_ [4]_ | Nightly build of the upcoming point release           |
+  |                   |                              | qgis-rel-dev [1]_      | Nightly build of the upcoming point release           |
   +-------------------+------------------------------+------------------------+-------------------------------------------------------+
   | Long Term Release | |ltrversion|.x |ltrcodename| | qgis-ltr               | Release                                               |
   | Repository        | |ltrnote|                    +------------------------+-------------------------------------------------------+
-  |                   |                              | qgis-ltr-dev [2]_ [4]_ | Nightly build of the upcoming point long term release |
+  |                   |                              | qgis-ltr-dev [1]_      | Nightly build of the upcoming point long term release |
   +-------------------+------------------------------+------------------------+-------------------------------------------------------+
-  | Development       | |devversion| master          | qgis-dev [3]_ [4]_     | Nightly build of the development version              |
+  | Development       | |devversion| master          | qgis-dev [1]_          | Nightly build of the development version              |
   +-------------------+------------------------------+------------------------+-------------------------------------------------------+
 
-.. [1] Latest release nightlies SHA: :raw-html:`<span id="qgis-rel-dev"> </span>`
-.. [2] Latest long-term release nightlies SHA: :raw-html:`<span id="qgis-ltr-dev"> </span>`
-.. [3] Master nightlies SHA: :raw-html:`<span id="qgis-dev"> </span>`
-.. [4] Nightlies are debug builds (including debugging output)
+.. [1] Nightlies are debug builds (including debugging output)
 
 ..
   .. _QGIS-windows-weekly:
