@@ -272,7 +272,9 @@ After that type the commands below to install QGIS::
 In case you would like to install QGIS Server, type::
 
  sudo apt update
- sudo apt install qgis-server
+ sudo apt install qgis-server --no-install-recommends --no-install-suggests
+ # if you want to install server Python plugins
+ apt install python-qgis
 
 .. note:: Please remove all the QGIS and GRASS packages you may have
    installed from other repositories before doing the update.
