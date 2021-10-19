@@ -24,7 +24,9 @@ curl https://raw.githubusercontent.com/qgis/QGIS-Website/master/source/feeds/qug
 
 # get sponsors (from changelog.qgis.org/projecta)
 mv members.json members.json.0
-curl -A Mozilla https://changelog.qgis.org/en/qgis/members/json/ -o members.json
+# 20211029 TEMPORARILY use -k == no cert fix !!! PLEASE REMOVE/FIX WHEN POSSIBLE
+curl -k -A Mozilla https://changelog.qgis.org/en/qgis/members/json/ -o members.json
 # and list of past sponsors too
 mv qgispastmembers.json qgispastmembers.json.0
-curl -A Mozilla https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2 -o qgispastmembers.json
+# 20211029 TEMPORARILY use -k == no cert fix !!! PLEASE REMOVE/FIX WHEN POSSIBLE
+curl -k -A Mozilla https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2 -o qgispastmembers.json
