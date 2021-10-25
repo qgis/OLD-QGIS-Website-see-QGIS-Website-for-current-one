@@ -95,24 +95,22 @@ repositories.  This happens as soon as a new LR is released.
 
 This schedule is also available as `"iCalendar" </schedule.ics>`_.
 
-Schedule:
-
 .. include:: schedule.inc
 
-Event legend:
+.. csv-table:: Event legend
+   :header: "Event", "Description"
+   :widths: 1, 9
+   :name: eventlegend
 
-===== =================================================
-Event Description
-===== =================================================
-LTR   Long term release, begin of new development phase
-LR    Regular release, begin of new development phase
-FF    Feature freeze, end of development phase
-HF    hard freeze
-SF    Soft freeze with bi-monthly vote
-PR    Point release of latest release and LTR branch
-EPR   Extra Point release
-===== =================================================
-
+   "LTR","Long term release, begin of new development phase"
+   "LR","Regular release, begin of new development phase"
+   "FF","Feature freeze, end of development phase"
+   "HF","hard freeze"
+   "SF","Soft freeze with bi-monthly vote"
+   "PR","Point release of latest release and LTR branch"
+   "EPR","Extra Point release"
+   ":rm-current:`current`",":rm-current:`current releases`"
+   ":rm-next:`next`",":rm-next:`next releases`"
 
 .. _QGIS-prereleases:
 

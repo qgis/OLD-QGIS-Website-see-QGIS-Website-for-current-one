@@ -1,61 +1,40 @@
 .. produced from googlesheet via scripts/update-schedule.py - edits will be lost
+.. role:: rm-past
+.. role:: rm-current
+.. role:: rm-next
+.. role:: rm-future
 
-========== ========= ========= ======== ========== ==== =====
-Event      Latest    Long-Term  Freeze   Date      Week Weeks
-                     Repo                          #
-========== ========= ========= ======== ========== ==== =====
-**LTR**/PR 3.4.0     2.18.25            2018-10-26 43    4
-EPR        3.4.1                        2018-11-02 44    4
-PR         3.4.2     2.18.26            2018-11-23 47    4
-PR         3.4.3     2.18.27            2018-12-21 51    4
-PR/FF      3.4.4     2.18.28   3.5      2019-01-18 3     5
-**LR**/PR  3.6.0     3.4.5              2019-02-22 8     4
-PR         3.6.1     3.4.6              2019-03-22 12    4
-PR         3.6.2     3.4.7              2019-04-19 16    4
-PR/FF      3.6.3     3.4.8     3.7      2019-05-17 20    5
-**LR**/PR  3.8.0     3.4.9              2019-06-21 25    4
-PR         3.8.1     3.4.10             2019-07-19 29    4
-PR         3.8.2     3.4.11             2019-08-16 33    3
-FF                             3.9      2019-09-06 36    1
-PR         3.8.3     3.4.12             2019-09-13 37    4
-HF                                      2019-10-11 41    2
-**LTR**/PR 3.10.0    3.4.13             2019-10-25 43    6
-PR         3.10.1    3.4.14             2019-12-06 49    6
-PR/FF      3.10.2    3.4.15    3.11     2020-01-17 3     5
-**LR**/PR  3.12.0    3.10.3             2020-02-21 8     4
-PR         3.12.1    3.10.4             2020-03-20 12    4
-PR         3.12.2    3.10.5             2020-04-17 16    4
-PR/FF      3.12.3    3.10.6    3.13     2020-05-15 20    5
-**LR**/PR  3.14.0    3.10.7             2020-06-19 25    4
-PR         3.14.1    3.10.8             2020-07-19 29    4
-PR         3.14.15   3.10.9             2020-08-14 33    4
-PR/FF      3.14.16   3.10.10   3.15     2020-09-11 37    6
-**LTR**/PR 3.16.0    3.10.11            2020-10-23 43    4
-PR         3.16.1    3.10.12            2020-11-20 47    4
-PR         3.16.2    3.10.13            2020-12-21 52    4
-PR/FF      3.16.3    3.10.14   3.17     2021-01-15 3     5
-**LR**/PR  3.18.0    3.16.4             2021-02-19 8     4
-PR         3.18.1    3.16.5             2021-03-19 12    4
-PR         3.18.2    3.16.6             2021-04-16 16    4
-PR/FF      3.18.3    3.16.7    3.19     2021-05-14 20    5
-**LR**/PR  3.20.0    3.16.8             2021-06-18 25    4
-PR         3.20.1    3.16.9             2021-07-19 30    4
-PR         3.20.2    3.16.10            2021-08-13 33    4
-PR/FF      3.20.3    3.16.11   3.21     2021-09-10 37    6
-**LTR**/PR 3.22.0    3.16.12            2021-10-22 43    4
-PR         3.22.1    3.16.13            2021-11-19 47    4
-PR         3.22.2    3.16.14            2021-12-17 51    4
-PR/FF      3.22.3    3.16.15   3.23     2022-01-14 3     5
-**LR**/PR  3.24.0    3.22.4             2022-02-18 8     4
-PR         3.24.1    3.22.5             2022-03-18 12    4
-PR         3.24.2    3.22.6             2022-04-15 16    4
-PR/FF      3.24.3    3.22.7    3.25     2022-05-13 20    5
-**LR**/PR  3.26.0    3.22.8             2022-06-17 25    4
-PR         3.26.1    3.22.9             2022-07-15 29    4
-PR         3.26.2    3.22.10            2022-08-12 33    4
-PR/FF      3.26.3    3.22.11   3.27     2022-09-09 37    6
-**LTR**/PR 3.28.0    3.22.12            2022-10-21 43    4
-PR         3.28.1    3.22.13            2022-11-18 47    4
-PR         3.28.2    3.22.14            2022-12-16 51    4
-PR/FF      3.28.3    3.22.15   3.29     2023-01-13 3     5
-========== ========= ========= ======== ========== ==== =====
+.. csv-table:: Schedule
+   :header: "Event", "Latest", "Long-Term Repo", "Freeze", "Date", "Week #", "Weeks"
+   :widths: 9, 9, 9, 9, 9, 4, 4
+   :name: roadmap
+
+   ":rm-past:`LTR/PR`",":rm-past:`3.16.0`",":rm-past:`3.10.11`",,":rm-past:`2020-10-23`",":rm-past:`43`",":rm-past:`4`"
+   ":rm-past:`PR`",":rm-past:`3.16.1`",":rm-past:`3.10.12`",,":rm-past:`2020-11-20`",":rm-past:`47`",":rm-past:`4`"
+   ":rm-past:`PR`",":rm-past:`3.16.2`",":rm-past:`3.10.13`",,":rm-past:`2020-12-21`",":rm-past:`52`",":rm-past:`4`"
+   ":rm-past:`PR/FF`",":rm-past:`3.16.3`",":rm-past:`3.10.14`",":rm-past:`3.17`",":rm-past:`2021-01-15`",":rm-past:`3`",":rm-past:`5`"
+   ":rm-past:`LR/PR`",":rm-past:`3.18.0`",":rm-past:`3.16.4`",,":rm-past:`2021-02-19`",":rm-past:`8`",":rm-past:`4`"
+   ":rm-past:`PR`",":rm-past:`3.18.1`",":rm-past:`3.16.5`",,":rm-past:`2021-03-19`",":rm-past:`12`",":rm-past:`4`"
+   ":rm-past:`PR`",":rm-past:`3.18.2`",":rm-past:`3.16.6`",,":rm-past:`2021-04-16`",":rm-past:`16`",":rm-past:`4`"
+   ":rm-past:`PR/FF`",":rm-past:`3.18.3`",":rm-past:`3.16.7`",":rm-past:`3.19`",":rm-past:`2021-05-14`",":rm-past:`20`",":rm-past:`5`"
+   ":rm-past:`LR/PR`",":rm-past:`3.20.0`",":rm-past:`3.16.8`",,":rm-past:`2021-06-18`",":rm-past:`25`",":rm-past:`4`"
+   ":rm-past:`PR`",":rm-past:`3.20.1`",":rm-past:`3.16.9`",,":rm-past:`2021-07-19`",":rm-past:`30`",":rm-past:`4`"
+   ":rm-past:`PR`",":rm-past:`3.20.2`",":rm-past:`3.16.10`",,":rm-past:`2021-08-13`",":rm-past:`33`",":rm-past:`4`"
+   ":rm-past:`PR/FF`",":rm-past:`3.20.3`",":rm-past:`3.16.11`",":rm-past:`3.21`",":rm-past:`2021-09-10`",":rm-past:`37`",":rm-past:`6`"
+   ":rm-current:`LTR/PR`",":rm-current:`3.22.0`",":rm-current:`3.16.12`",,":rm-current:`2021-10-22`",":rm-current:`43`",":rm-current:`4`"
+   ":rm-next:`PR`",":rm-next:`3.22.1`",":rm-next:`3.16.13`",,":rm-next:`2021-11-19`",":rm-next:`47`",":rm-next:`4`"
+   ":rm-future:`PR`",":rm-future:`3.22.2`",":rm-future:`3.16.14`",,":rm-future:`2021-12-17`",":rm-future:`51`",":rm-future:`4`"
+   ":rm-future:`PR/FF`",":rm-future:`3.22.3`",":rm-future:`3.16.15`",":rm-future:`3.23`",":rm-future:`2022-01-14`",":rm-future:`3`",":rm-future:`5`"
+   ":rm-future:`LR/PR`",":rm-future:`3.24.0`",":rm-future:`3.22.4`",,":rm-future:`2022-02-18`",":rm-future:`8`",":rm-future:`4`"
+   ":rm-future:`PR`",":rm-future:`3.24.1`",":rm-future:`3.22.5`",,":rm-future:`2022-03-18`",":rm-future:`12`",":rm-future:`4`"
+   ":rm-future:`PR`",":rm-future:`3.24.2`",":rm-future:`3.22.6`",,":rm-future:`2022-04-15`",":rm-future:`16`",":rm-future:`4`"
+   ":rm-future:`PR/FF`",":rm-future:`3.24.3`",":rm-future:`3.22.7`",":rm-future:`3.25`",":rm-future:`2022-05-13`",":rm-future:`20`",":rm-future:`5`"
+   ":rm-future:`LR/PR`",":rm-future:`3.26.0`",":rm-future:`3.22.8`",,":rm-future:`2022-06-17`",":rm-future:`25`",":rm-future:`4`"
+   ":rm-future:`PR`",":rm-future:`3.26.1`",":rm-future:`3.22.9`",,":rm-future:`2022-07-15`",":rm-future:`29`",":rm-future:`4`"
+   ":rm-future:`PR`",":rm-future:`3.26.2`",":rm-future:`3.22.10`",,":rm-future:`2022-08-12`",":rm-future:`33`",":rm-future:`4`"
+   ":rm-future:`PR/FF`",":rm-future:`3.26.3`",":rm-future:`3.22.11`",":rm-future:`3.27`",":rm-future:`2022-09-09`",":rm-future:`37`",":rm-future:`6`"
+   ":rm-future:`LTR/PR`",":rm-future:`3.28.0`",":rm-future:`3.22.12`",,":rm-future:`2022-10-21`",":rm-future:`43`",":rm-future:`4`"
+   ":rm-future:`PR`",":rm-future:`3.28.1`",":rm-future:`3.22.13`",,":rm-future:`2022-11-18`",":rm-future:`47`",":rm-future:`4`"
+   ":rm-future:`PR`",":rm-future:`3.28.2`",":rm-future:`3.22.14`",,":rm-future:`2022-12-16`",":rm-future:`51`",":rm-future:`4`"
+   ":rm-future:`PR/FF`",":rm-future:`3.28.3`",":rm-future:`3.22.15`",":rm-future:`3.29`",":rm-future:`2023-01-13`",":rm-future:`3`",":rm-future:`5`"
+

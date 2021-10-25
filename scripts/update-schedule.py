@@ -1,24 +1,13 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from urllib.request import urlopen, Request
+from urllib.request import urlopen
 import csv
 import codecs
 from datetime import datetime, timedelta, timezone
 from icalendar import Calendar, Event
 
 url = "https://docs.google.com/spreadsheets/u/1/d/1MOIjwon5eDI04DG6rX_HwucZkW1fxFJ0b_yB0xYETOE/export?format=csv&id=1MOIjwon5eDI04DG6rX_HwucZkW1fxFJ0b_yB0xYETOE&gid=1982100417#"
-
-o = open("source/site/getinvolved/development/schedule.inc", "w")
-
-o.write("""\
-.. produced from googlesheet via scripts/update-schedule.py - edits will be lost
-
-========== ========= ========= ======== ========== ==== =====
-Event      Latest    Long-Term  Freeze   Date      Week Weeks
-                     Repo                          #
-========== ========= ========= ======== ========== ==== =====
-""")
 
 cal = Calendar()
 cal.add('prodid', '-//Release Schedule//qgis.org//')
@@ -50,25 +39,27 @@ for e in ocal.walk('VEVENT'):
         oevents[e['uid']] = e
 
 
-def adduid(e, uid):
-    e.add('uid', uid)
+def adduid(ev, uid):
+    ev.add('uid', uid)
 
     if uid in oevents:
         oe = oevents[uid]
         seq = oe['sequence']
-        e.add('sequence', seq)
+        ev.add('sequence', seq)
         if 'last-modified' in oe:
-            e.add('last-modified', oe['last-modified'])
+            ev.add('last-modified', oe['last-modified'])
 
-        if oe.to_ical() != e.to_ical():
-            if 'last-modified' in e:
-                del e['last-modified']
-            e.add('last-modified', now)
-            e['sequence'] += 1
+        if oe.to_ical() != ev.to_ical():
+            if 'last-modified' in ev:
+                del ev['last-modified']
+            ev.add('last-modified', now)
+            ev['sequence'] += 1
     else:
-        e.add('last-modified', now)
-        e.add('sequence', 0)
+        ev.add('last-modified', now)
+        ev.add('sequence', 0)
 
+
+rows = []
 
 for row in reader:
     if first:
@@ -141,14 +132,38 @@ for row in reader:
         lr_version = lr
         lr_date = dt
 
-    event = event.replace('LR', '**LR**')
-    event = event.replace('LTR', '**LTR**')
+    rows.append([event, lr, ltr, dev, date, weekno, weeks])
 
-    o.write("{0:10s} {1:9s} {2:9s} {3:8s} {4:10s} {5:5s} {6}\n".format(event, lr, ltr, dev, date, weekno, weeks))
+o = open("source/site/getinvolved/development/schedule.inc", "w")
 
 o.write("""\
-========== ========= ========= ======== ========== ==== =====
+.. produced from googlesheet via scripts/update-schedule.py - edits will be lost
+.. role:: rm-past
+.. role:: rm-current
+.. role:: rm-next
+.. role:: rm-future
+
+.. csv-table:: Schedule
+   :header: "Event", "Latest", "Long-Term Repo", "Freeze", "Date", "Week #", "Weeks"
+   :widths: 9, 9, 9, 9, 9, 4, 4
+   :name: roadmap
+
 """)
+
+style = "rm-past"
+
+for event, lr, ltr, dev, date, weekno, weeks in rows:
+    if ltr == ltr_version and lr == lr_version:
+        style = "rm-current"
+
+    o.write("   " + ",".join(["\":{0}:`{1}`\"".format(style, i) if i else "" for i in [event, lr, ltr, dev, date, weekno, weeks]]) + "\n")
+
+    if style == "rm-current":
+        style = "rm-next"
+    elif style == "rm-next":
+        style = "rm-future"
+
+o.write("\n")
 
 o.close()
 
