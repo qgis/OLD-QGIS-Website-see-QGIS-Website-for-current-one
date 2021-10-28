@@ -198,7 +198,7 @@ Rendering
 Feature: "Merged feature" renderer for polygon and line layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A new rendering option allows area and line features to be "dissolved" into a single object prior to rendering to ensure that complex symbols or overlapping features are represented b a uniform and contiguous cartographic symbol.
+A new rendering option allows area and line features to be "dissolved" into a single object prior to rendering to ensure that complex symbols or overlapping features are represented by a uniform and contiguous cartographic symbol.
 
 |image17|
 
