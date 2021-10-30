@@ -278,8 +278,8 @@ The QGIS User Interface provides delaunay triangulation and face refinement func
 
 |mapToolrefine|
 
-| The QGIS API has also been extended to support advanced editing for meshes, which is introduced by a new interface abstract class QgsMeshAdvancedEditing.
-| Derived classes of this class can be implemented to make some advanced editing on a mesh: generation of faces to add to the mesh, particular operation on many faces or vertices. The advanced editing is made by passing a QgsMeshAdvancedEditing instance to a QgsmeshEditor instance, and the editing is applied as other editing operations.
+The QGIS API has also been extended to support advanced editing for meshes, which is introduced by a new interface abstract class QgsMeshAdvancedEditing.
+Derived classes of this class can be implemented to make some advanced editing on a mesh: generation of faces to add to the mesh, particular operation on many faces or vertices. The advanced editing is made by passing a QgsMeshAdvancedEditing instance to a QgsmeshEditor instance, and the editing is applied as other editing operations.
 
 Two advanced editing functions are implemented within this feature:
 
@@ -384,8 +384,8 @@ User can perform geometrical transformations on a mesh using an expression to ch
 
 With a valid expression, selecting the "Preview transform" option will calculate the new expression based mesh coordinates and identify whether the transform is valid and may be applied.
 
-| If the preview is green, the transformed mesh is valid and the user can apply the transformation.
-| If the preview is red, the transformed mesh is invalid and user cannot apply the transformation.
+If the preview is green, the transformed mesh is valid and the user can apply the transformation.
+If the preview is red, the transformed mesh is invalid and user cannot apply the transformation.
 
 Once applied, users have the option to undo or redo the operation.
 
@@ -410,8 +410,8 @@ This feature was developed by `Matthias Kuhn <https://github.com/m-kuhn>`__
 Feature: Data defined raster layer opacity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| A new control has been exposed which allows the opacity of a raster to be data defined. This allows for the varied representation of a raster layer,
-| in various contexts, such as on different pages of an atlas, being dependent on the visibility of another layer, or adjusted by temporal variables etc.
+A new control has been exposed which allows the opacity of a raster to be data defined. This allows for the varied representation of a raster layer,
+in various contexts, such as on different pages of an atlas, being dependent on the visibility of another layer, or adjusted by temporal variables etc.
 
 Additionally, a "redraw layer only" temporal mode for raster layers has been added, which causes a raster layer to be redrawn on each new animation frame as in the equivalent functionality for vector layers. this may be useful in many contexts, such as when the layer uses time-based expression values like the data defined renderer opacity to fade in or out a raster layer from an animation.
 
@@ -811,8 +811,8 @@ Feature: Allow configuration of the max cache size from QGIS settings
 
 In the ``qgis_global_settings.ini`` file, it's possible to set the max image cache size in bytes.
 
-| The cache is used for caching symbology and layout images,
-| If high resolution images are used for printing layout, then this value should be increased accordingly.
+The cache is used for caching symbology and layout images,
+If high resolution images are used for printing layout, then this value should be increased accordingly.
 
 Default value is 100mb.
 
