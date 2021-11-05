@@ -948,7 +948,7 @@ Feature: Snapping to the currently digitized feature
 
 Snapping can now also supports snapping to the feature currently being digitised. This option is enabled/disabled a new button in the snapping toolbar.
 
-This enables some really nice CAD-like editing abilities, such as closing features at a 90° angle or precisely aligning segments inside a feature. It's very efficient once one is accustomed to using the alt+a shortcut to lock the angle.
+This enables some really nice CAD-like editing abilities, such as closing features at a 90° angle or precisely aligning segments inside a feature. It's very efficient once one is accustomed to using the Ctrl+a shortcut to lock the angle.
 
 |image69|
 
