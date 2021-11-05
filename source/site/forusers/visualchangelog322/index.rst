@@ -413,7 +413,7 @@ Feature: Data defined raster layer opacity
 A new control has been exposed which allows the opacity of a raster to be data defined. This allows for the varied representation of a raster layer,
 in various contexts, such as on different pages of an atlas, being dependent on the visibility of another layer, or adjusted by temporal variables etc.
 
-Additionally, a "redraw layer only" temporal mode for raster layers has been added, which causes a raster layer to be redrawn on each new animation frame as in the equivalent functionality for vector layers. this may be useful in many contexts, such as when the layer uses time-based expression values like the data defined renderer opacity to fade in or out a raster layer from an animation.
+Additionally, a "redraw layer only" temporal mode for raster layers has been added, which causes a raster layer to be redrawn on each new animation frame as in the equivalent functionality for vector layers. This may be useful in many contexts, such as when the layer uses time-based expression values like the data defined renderer opacity to fade in or out a raster layer from an animation.
 
 |image23|
 
@@ -454,7 +454,7 @@ Expressions have been added for interacting with mesh layers, with the following
 -  ``$vertex_as_point``: returns the current vertex as a geometry point
 -  ``$vertex_z``: returns the Z value of the current vertex.
 
-These two function are contextual and need to be added in a ``QgsExpressionContext`` with ``QgsExpressionContextUtils::meshExpressionScope()`` for the creation of a specific ``QgsExpressionScope``.
+These two functions are contextual and need to be added in a ``QgsExpressionContext`` with ``QgsExpressionContextUtils::meshExpressionScope()`` for the creation of a specific ``QgsExpressionScope``.
 
 This feature was funded by `Hydrotec <https://www.hydrotec.de/>`__
 
@@ -517,7 +517,7 @@ Feature: Convert to curve with vertex tool
 
 The ability to convert vertices to or from curved vertices is now supported with the Vertex tool, allowing users to convert vertices with the "C" and "O" keys.
 
-Additionally, methods for ``convertVertex()`` have been intorduced for the ``QgsGeometry`` and ``QgsCompoundCurve`` objects in the QGIS API.
+Additionally, methods for ``convertVertex()`` have been introduced for the ``QgsGeometry`` and ``QgsCompoundCurve`` objects in the QGIS API.
 
 |image25|
 
@@ -693,7 +693,7 @@ Feature: Add new "Select within distance" and "Extract within distance" algorith
 
 New algorithms have been provided which allow users to select or extract features from one layer which are within a certain distance of features from another reference layer.
 
-The distance checking is heavily optimized, using spatial indices to restrict the number of features retrieved, and also automatically handing off the check to the database server for layers using the PostGIS provider.
+The distance checking is heavily optimized, using spatial indices to restrict the number of features retrieved, and also automatically handling off the check to the database server for layers using the PostGIS provider.
 
 Additionally, the distance parameter may be a data-defined. property
 
