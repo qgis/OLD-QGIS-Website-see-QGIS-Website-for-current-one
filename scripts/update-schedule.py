@@ -152,18 +152,31 @@ o.write("""\
 
 """)
 
-style = "rm-past"
+lr_style = "rm-past"
+ltr_style = "rm-past"
 
 for event, lr, ltr, dev, date, weekno, weeks in rows:
-    if ltr == ltr_version and lr == lr_version:
-        style = "rm-current"
+    if ltr == ltr_version:
+        ltr_style = "rm-current"
+    if lr == lr_version:
+        lr_style = "rm-current"
 
-    o.write("   " + ",".join(["\":{0}:`{1}`\"".format(style, i) if i else "" for i in [event, lr, ltr, dev, date, weekno, weeks]]) + "\n")
+    o.write('   "' + '","'.join([
+        (":rm-current:`{}`" if "rm-current" in [ltr_style, lr_style] else "{}").format(event),
+        ":{}:`{}`".format(ltr_style, ltr) if ltr else "",
+        ":{}:`{}`".format(lr_style, lr) if lr else "",
+        dev, date, weekno, weeks
+    ]) + '"\n')
 
-    if style == "rm-current":
-        style = "rm-next"
-    elif style == "rm-next":
-        style = "rm-future"
+    if ltr_style == "rm-current":
+        ltr_style = "rm-next"
+    elif ltr_style == "rm-next" and ltr:
+        ltr_style = "rm-future"
+
+    if lr_style == "rm-current":
+        lr_style = "rm-next"
+    elif lr_style == "rm-next" and lr:
+        lr_style = "rm-future"
 
 o.write("\n")
 
