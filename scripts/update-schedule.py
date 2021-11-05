@@ -128,9 +128,11 @@ for row in reader:
         if ("LR" in event or "LTR" in event) and nr_date is None:
             nr_date = dt
     else:
-        ltr_version = ltr
-        lr_version = lr
-        lr_date = dt
+        if ltr:
+            ltr_version = ltr
+        if lr:
+            lr_version = lr
+            lr_date = dt
 
     rows.append([event, lr, ltr, dev, date, weekno, weeks])
 
