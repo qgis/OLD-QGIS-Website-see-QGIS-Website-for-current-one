@@ -826,7 +826,7 @@ Browser
 Feature: Improved delete action for browser files
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Th delete action used from the QGIS browser has been improved in various ways, including:
+The delete action used from the QGIS browser has been improved in various ways, including:
 
 -  The action is more consistent and applied to all file type items
 -  Multiple file deletion is now supported by selecting multiple file items in the browser which includes a confirmation prompt
