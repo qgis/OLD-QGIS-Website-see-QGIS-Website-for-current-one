@@ -10,7 +10,7 @@ Discover QGIS
     case_studies/index
     sustaining_members
     shop_goodies
-    Blogs<http://planet.qgis.org>
+    Blogs<https://plugins.qgis.org/planet/>
 
 .. note::
 
