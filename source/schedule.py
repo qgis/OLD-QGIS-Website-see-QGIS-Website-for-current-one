@@ -11,7 +11,7 @@ releasenote = u'\u200B'
 
 # long term release repository
 ltrversion = '3.16'
-ltrrelease = '3.16.13'
+ltrrelease = '3.16.11'
 ltrcodename = u'Hannover'
 ltrbinary = '1'
 msiltrbinary = '1'
