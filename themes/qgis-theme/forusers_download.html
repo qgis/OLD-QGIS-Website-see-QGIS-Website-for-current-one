@@ -54,7 +54,7 @@
                       <br/>
                       </div>
                       <div>
-                        <h5>{{ _('Standalone installers (MSI) from OSGeo4W packages (recommended for new users)') }}</h5>
+                        <h5>{{ _('Standalone installer (MSI) from OSGeo4W packages (recommended for new users)') }}</h5>
                         <h6>{{ _('Latest release (richest on features):') }}</h6>
                         <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ msibinary|e }}.msi" class="reference external">
                           <ul class="inline download-row">
@@ -64,21 +64,6 @@
                           </ul>
                         </a>
                         <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ msibinary|e }}.sha256sum" class="reference external button">
-                          <ul class="inline download-row">
-                              <li></li>
-                              <li></li>
-                              <li class="download-text">sha256</li>
-                          </ul>
-                        </a>
-                        <h6>{{ _('Long term release (most stable):') }}</h6>
-                        <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ msiltrbinary|e }}.msi" class="reference external">
-                          <ul class="inline download-row">
-                              <li><i class="icon-download-alt icon-large"></i></li>
-                              <li class="{{ "qgis{}-download".format( "2" if ltrversion.startswith("2.") else "" ) }}"></li>
-                              <li class="download-text">{{ _('QGIS Standalone Installer Version %s')|format( ltrversion ) }}</li>
-                          </ul>
-                        </a>
-                        <a href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ msiltrbinary|e }}.sha256sum" class="reference external button">
                           <ul class="inline download-row">
                               <li></li>
                               <li></li>
