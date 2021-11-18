@@ -5,16 +5,16 @@ version = '3.22'
 release = '3.22.0'
 codename = u'Białowieża'
 binary = '1'
-msibinary = '3'
+msibinary = '4'
 releasedate = date(2021, 10, 22)
 releasenote = u'\u200B'
 
 # long term release repository
 ltrversion = '3.16'
-ltrrelease = '3.16.11'
+ltrrelease = '3.16.13'
 ltrcodename = u'Hannover'
 ltrbinary = '1'
-msiltrbinary = '1'
+msiltrbinary = '3'
 ltrnote = u'LTR'
 
 devversion = '3.23'
