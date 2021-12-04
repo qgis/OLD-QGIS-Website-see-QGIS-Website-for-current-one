@@ -33,6 +33,8 @@ Project Steering Committee
 * Paolo Cavallini [Chair 4.2018 - 4.2020; Vice chair 1.2008 - 3.2018]
 * Jürgen Fischer (Release Manager) [since 9.2013]
 
+To contact the PSC, please write to psc@qgis.org.
+
 Honorary PSC Members
 ....................
 
