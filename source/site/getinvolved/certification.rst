@@ -17,10 +17,14 @@ The QGIS Certificate Program is designed to promote both community involvement i
 - Publication of open QGIS course ware
 - Authoring QGIS books
 
-.. figure:: images/certificationworkflow.png
-   :alt: Workflow Certification
+To contact the certification team, please write to certification@qgis.org.
 
-   Workflow Certification
+
+Certification Process
+---------------------
+
+Application
+...........
 
 You are required to provide the training material for each of your courses. This includes exercises, lectures and data. This material will be reviewed for currentness, accurate representation of the QGIS project and overall quality.
 If the material is not of adequate quality, this can be cause for refusal.
@@ -37,3 +41,12 @@ You can apply through `this form <certification_link_>`_ (make sure to first cre
 .. _certification_link: https://changelog.qgis.org/en/qgis/create-certifyingorganisation/
 .. _certification_details: https://changelog.qgis.org/en/qgis/about/
 .. _certification_login: https://changelog.qgis.org/en/accounts/signup/
+
+
+Course Certification Workflow
+.............................
+
+.. figure:: images/certificationworkflow.png
+   :alt: Workflow Certification
+
+   Workflow Certification
