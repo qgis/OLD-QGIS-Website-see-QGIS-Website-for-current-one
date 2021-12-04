@@ -174,6 +174,12 @@ Testing Team
 * Windows: Giovanni Manghi, Pedro Venâncio, Duarte Carreira, Andre Mano, Rui Pedro Henriques
 * MacOS: Larry Shaffer, Tim Sutton, Denis Rouzaud, Peter Petrik
 
+Security Team
+.............
+
+For security questions, please write to security@qgis.org.
+
+
 .. _community-resources:
 
 Community Resources
