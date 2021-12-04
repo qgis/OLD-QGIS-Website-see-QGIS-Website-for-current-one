@@ -33,13 +33,13 @@ Project Steering Committee
 * Paolo Cavallini [Chair 4.2018 - 4.2020; Vice chair 1.2008 - 3.2018]
 * Jürgen Fischer (Release Manager) [since 9.2013]
 
-Honorary PSC members
+Honorary PSC Members
 ....................
 
 * Gary Sherman (Founder and lifetime Honorary PSC Member)
 * Tim Sutton (awarded Honorary PSC member in 9.2018 at the FOSS4G in Tanzania)
 
-Former PSC members
+Former PSC Members
 ..................
 
 * Tim Sutton (Chair; Testing/QA Manager) (until 2018)
@@ -61,7 +61,7 @@ CH-8624 Grüt (Gossau ZH)
 Voting members
 --------------
 
-Honorable voting members
+Honorable Voting Members
 ........................
 
 * Harrissou Sant-anna [since 5.2020]
