@@ -21,6 +21,8 @@ Board
 * Alessandro Pasotti (Vice chair) [since 5.2020] 
 * Andreas Neumann (Treasurer; Contact for Sustaining Members) [since 11.2015]
 
+To contact the board, please write to board@qgis.org.
+
 Project Steering Committee
 --------------------------
 
@@ -31,20 +33,24 @@ Project Steering Committee
 * Paolo Cavallini [Chair 4.2018 - 4.2020; Vice chair 1.2008 - 3.2018]
 * Jürgen Fischer (Release Manager) [since 9.2013]
 
-Honorary PSC members
---------------------
+To contact the PSC, please write to psc@qgis.org.
+
+Honorary PSC Members
+....................
+
 * Gary Sherman (Founder and lifetime Honorary PSC Member)
 * Tim Sutton (awarded Honorary PSC member in 9.2018 at the FOSS4G in Tanzania)
 
-Read more about the responsibilities of the PSC :ref:`here <psc>`
-
-Former PSC members
-------------------
+Former PSC Members
+..................
 
 * Tim Sutton (Chair; Testing/QA Manager) (until 2018)
 * Marco Hugentobler [until 2016]
 * Otto Dassau (Community Advisor) [2007 - 2016]
 * Richard Duivenvoorde (Infrastructure Manager) [2013 - 2019]
+
+
+Read more about the responsibilities of the PSC :ref:`here <psc>`
 
 Address of the Organization
 ---------------------------
@@ -53,8 +59,12 @@ QGIS.ORG
 Böschacherstrasse 10a
 CH-8624 Grüt (Gossau ZH)
 
-Honorable voting members
-------------------------
+
+Voting members
+--------------
+
+Honorable Voting Members
+........................
 
 * Harrissou Sant-anna [since 5.2020]
 * Nyall Dawson [since 5.2020]
@@ -63,7 +73,7 @@ Honorable voting members
 .. _country-voting-members:
 
 Country Voting Members
-----------------------
+......................
 
 According to our statutes, for each country user group that is formed, that
 group will select a QGIS Country User Group Voting Member to represent
@@ -75,7 +85,7 @@ changed your user group representative.
 .. _community-voting-members:
 
 Community Voting Members
-------------------------
+........................
 
 According to our statutes, one member from the broader community can be
 elected for each country voting member. The following list are the
@@ -165,6 +175,12 @@ Testing Team
 * Debian Linux: Paolo Cavallini, Pedro Venâncio, Ivan Mincik
 * Windows: Giovanni Manghi, Pedro Venâncio, Duarte Carreira, Andre Mano, Rui Pedro Henriques
 * MacOS: Larry Shaffer, Tim Sutton, Denis Rouzaud, Peter Petrik
+
+Security Team
+.............
+
+For security questions, please write to security@qgis.org.
+
 
 .. _community-resources:
 
