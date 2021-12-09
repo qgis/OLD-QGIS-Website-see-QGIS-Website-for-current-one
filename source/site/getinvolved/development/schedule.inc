@@ -5,7 +5,7 @@
 .. role:: rm-future
 
 .. csv-table:: Schedule
-   :header: "Event", "Latest", "Long-Term Repo", "Freeze", "Date", "Week #", "Weeks"
+   :header: "Event", "Long-Term Repo", "Latest", "Freeze", "Date", "Week #", "Weeks"
    :widths: 9, 9, 9, 9, 9, 4, 4
    :name: roadmap
 
