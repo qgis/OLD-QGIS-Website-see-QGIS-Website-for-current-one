@@ -163,8 +163,8 @@ for event, lr, ltr, dev, date, weekno, weeks in rows:
 
     o.write('   "' + '","'.join([
         (":rm-current:`{}`" if "rm-current" in [ltr_style, lr_style] else "{}").format(event),
-        ":{}:`{}`".format(ltr_style, ltr) if ltr else "",
         ":{}:`{}`".format(lr_style, lr) if lr else "",
+        ":{}:`{}`".format(ltr_style, ltr) if ltr else "",
         dev, date, weekno, weeks
     ]) + '"\n')
 
