@@ -240,7 +240,7 @@ Supported distribution versions:
 |               +-------------+-------------------+-----------------------+
 |               | sid         | unstable          |                       |
 +---------------+-------------+-------------------+-----------------------+
-| Ubuntu        | 21.10       | impish            |                       |
+| Ubuntu        | 21.10       | impish [8]_       |                       |
 |               +-------------+-------------------+-----------------------+
 |               | 21.04 (LTS) | hirsute           |                       |
 |               +-------------+-------------------+-----------------------+
@@ -253,6 +253,7 @@ Supported distribution versions:
 
 .. [6] only up to 3.18 (GDAL too old for 3.20 in buster)
 .. [7] only up to 3.18 (python too old for 3.20 in bionic)
+.. [8] only starting from 3.22 (sip too new for 3.16 in impish)
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
 
