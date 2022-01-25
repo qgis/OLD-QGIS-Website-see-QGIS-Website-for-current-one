@@ -1,6 +1,6 @@
 ---
 name: 📖 Website
-about: Report problems about the Website only.
+about: Report problems about the Website only (https://qgis.org).
 
 ---
 
