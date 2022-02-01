@@ -27,7 +27,7 @@ Shops
 We co-operate with Spreadshirt. They produce locally and ship the products to all countries
 in the world.
 
-http://shop.spreadshirt.net/qgis/
+https://shop.spreadshirt.net/qgis/
 
 .. figure:: /static/site/about/images/shop_hoodie_2017.png
    :alt: QGIS Hoodie
