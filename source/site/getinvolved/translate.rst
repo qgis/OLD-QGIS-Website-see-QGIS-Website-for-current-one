@@ -25,7 +25,7 @@ If you plan to contribute to an existing language or you want to translate
 QGIS into a not yet existing language, see :ref:`becoming-translator`.
 For any other related questions, please contact the
 :ref:`Translation Team Leader <gui-translation>` or subscribe to the `QGIS
-Translation mailing list <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_.
+Translation mailing list <https://lists.osgeo.org/mailman/listinfo/qgis-tr>`_.
 
 After subscribing to the mailing list you are able to send a mail directly to
 qgis-tr@lists.osgeo.org asking for help.
@@ -97,7 +97,7 @@ started.
 Join a Project
 ..............
 
-- Go to http://www.transifex.com and create a new account
+- Go to https://www.transifex.com and create a new account
 - Verify your account by the link in the email you will receive
 - Login
 - Choose your role as “Translator” and answer some other questions about yourself
@@ -106,7 +106,7 @@ Join a Project
 
   * **QGIS Desktop** for all the pieces of text available in QGIS apps
     (QGIS Desktop and QGIS Server),
-  * **QGIS Docs and Website** to translate both QGIS web site and current documentation.
+  * **QGIS Docs and Website** to translate both QGIS website and current documentation.
 
 - Choose in which part of the project you would like to participate
 - You can be part of all projects and help everywhere too
@@ -138,7 +138,7 @@ translate and click on Translate. Easy, right?
 
 In order to help you make good translation, some instructions are provided in
 the `QGIS Translation Guidelines
-<http://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_.
+<https://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_.
 We strongly recommend you to read them.
 
 .. tip:: **Quick access to translatable files in Transifex**
