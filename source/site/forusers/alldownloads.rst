@@ -377,16 +377,6 @@ to install both client and server applications on the same machine), type::
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/
 
-RHEL, CentOS, Scientific Linux
-------------------------------
-
-QGIS 1.8
-........
-
-Try the ELGIS repository: http://elgis.argeo.org/
-
-.. note:: ELGIS requires the EPEL repo enabled, see
-   http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS#Note_about_Fedora.2C_ELGIS_and_EPEL
 
 SUSE / openSUSE
 ---------------
