@@ -440,6 +440,17 @@ for open source software for geospatial.
 
 ----
 
+.. |sigmoe| image:: /static/site/about/images/sigmoe.png
+   :width: 75 px
+
+|sigmoe| `SIGMOÉ <https://sigmoe.fr/>`_
+(basé en France) propose des formations QGIS tous niveaux et personnalisées, 
+assiste ses clients dans la modélisation et la mise en place de base de données SIG 
+dans l'environnement QGIS, et réalise, sur demande, le développement d'extensions 
+QGIS spécialisées dans différents domaines d'applications.
+
+----
+
 .. |soltig| image:: /static/site/about/images/soltig.png
    :width: 75 px
 
