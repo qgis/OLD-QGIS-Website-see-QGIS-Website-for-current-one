@@ -489,7 +489,7 @@ Flathub files: https://github.com/flathub/org.qgis.qgis and report issues here: 
 
 Note: if you need to install additional Python modules, because they are needed by a plugin, you can install the module with (here installing the urllib3 module)::
 
- flatpak run --command=pip3 org.qgis.qgis install urllib3 --user
+ flatpak run --devel --command=pip3 org.qgis.qgis install urllib3 --user
 
 
 Mac OS X / macOS
