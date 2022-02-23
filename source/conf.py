@@ -337,8 +337,6 @@ def setup(app):
     app.add_config_value('nextpointreleasedate', None, 'env')
     app.add_config_value('binary', None, 'env')
     app.add_config_value('ltrbinary', None, 'env')
-    app.add_config_value('msibinary', None, 'env')
-    app.add_config_value('msiltrbinary', None, 'env')
     app.add_config_value('infeaturefreeze', None, 'env')
     app.add_config_value('stripeform_url', None, 'env')
 
@@ -358,8 +356,6 @@ context = {
     'nextpointreleasedate': nextpointreleasedate,
     'binary': binary,
     'ltrbinary': ltrbinary,
-    'msibinary': msibinary,
-    'msiltrbinary': msiltrbinary,
     'infeaturefreeze': infeaturefreeze,
     'stripeformurl': '/stripe/form'
 }
