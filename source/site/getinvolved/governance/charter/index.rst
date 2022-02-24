@@ -209,10 +209,14 @@ the bounds of the annual budget authorized by the general meeting.
 Board members shall also be members of the PSC and shall be nominated and elected by
 the general meeting. In an election of board members, the nominee receiving the greatest
 number of votes for each position (chair, vice chair, treasurer) shall be appointed. A tied
-election shall trigger a re-vote until one nominee has the majority. On expiration of a board
-member’s term, nominees from within the QGIS PSC shall be put forward by the QGIS Voting Members.
-The outgoing board member shall automatically receive a nomination
-unless he/she no longer wishes to serve on the board.
+election shall trigger a re-vote until one nominee has the majority.
+
+Votes of non-elected Chair candidates shall be used as replacement of the voter’s vice-chair
+vote.
+
+On expiration of a board member’s term, nominees from within the QGIS community shall
+be put forward by the QGIS Voting Members. The outgoing board member shall
+automatically receive a nomination unless he/she no longer wishes to serve on the board.
 
 7.2 Terms of members of the board
 .................................
@@ -248,8 +252,8 @@ ranks a replacement for the board who shall serve in that position until the nex
 8.1 Election of PSC members
 ...........................
 
-On expiration of a PSC member’s term, nominees from within the QGIS Voting Membership
-shall be put forward by any QGIS Community Member. The outgoing PSC member shall
+On expiration of a PSC member’s term, nominees from within the QGIS Community shall be
+put forward by any QGIS Community Member. The outgoing PSC member shall
 automatically receive a nomination unless he/she no longer wishes to serve on the PSC. If
 an incoming PSC member is a Voting Member, they will relinquish their voting membership
 in the general meeting on joining the PSC.
@@ -257,13 +261,12 @@ in the general meeting on joining the PSC.
 Prior to the election, the outgoing PSC determines the total number of seats of the incoming
 committee. QGIS Voting Members shall be allowed a number of votes equal to the number
 of PSC memberships up for election and shall be asked to rank their votes in order of
-preference. The votes shall be weighted based on the number of PSC positions being voted
-for. For example if three PSC positions are available, each first choice vote shall be worth 3
-points, second point vote 2 points and so on. PSC memberships shall be awarded on the
-total weighted score of the vote, with the nominee receiving the greatest score being
-awarded PSC membership first and so on in descending order of score of votes received
-until all PSC memberships have been allocated. A list of currently serving PSC members
-shall be maintained at: https://www.qgis.org/en/site/getinvolved/governance/
+preference. After removing elected Board members from the vote results, PSC memberships
+shall be awarded on the total vote count, with the nominee receiving the greatest count
+being awarded PSC membership first and so on in descending order of number of votes
+received until all PSC memberships have been allocated. A list of currently serving PSC
+members shall be maintained at: https://www.qgis.org/en/site/getinvolved/governance/ 
+
 
 8.2 Terms of members of the PSC
 ...............................
