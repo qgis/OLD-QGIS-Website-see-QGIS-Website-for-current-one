@@ -13,8 +13,8 @@ stores below!
    :width: 120 px
    :align: center
 
-Buying QGIS apparrel not only lets you show off the fact that you use QGIS,
-for every t-shirt sold a commision is given to the QGIS project.
+Buying QGIS apparel not only lets you show off the fact that you use QGIS,
+for every t-shirt sold a commission is given to the QGIS project.
 
 .. figure:: /static/site/about/images/shop_tshirt_2017.png
    :alt: QGIS tshirt
