@@ -2,6 +2,15 @@
 QGIS Developer Meetings
 =======================
 
+
+The organization of events happens on the `QGIS wiki <wiki_link_>`_.
+
+.. _wiki_link: https://github.com/qgis/QGIS/wiki#qgis-hackfests
+
+
+Pre-2016 events are listed below:
+
+
 2016 - 16th QGIS Developer Meeting in Bonn
 ------------------------------------------
 
