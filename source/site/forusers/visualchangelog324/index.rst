@@ -676,7 +676,7 @@ We'll be using this framework in future to further extend the Processing history
 
 |image45|
 
-This feature was funded by The Research Institute for Nature and Forest, Flemish Govt
+This feature was funded by the `Research Institute for Nature and Forest <https://www.inbo.be/en>`__, Flemish Govt
 
 This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
 
@@ -692,7 +692,7 @@ We have added new actions on the processing dialog including **copy as qgis\_pro
 
 |image46|
 
-This feature was funded by the Research Institute for Nature and Forest, Flemish Govt
+This feature was funded by the `Research Institute for Nature and Forest <https://www.inbo.be/en>`__, Flemish Govt
 
 This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
 
@@ -801,7 +801,7 @@ Additionally, extra settings like the distance units, area units, ellipsoid and 
 
 One big motivation behind this enhancement is to provide a way for the qgisprocess R libraries to support parameter types such as aggregates!
 
-This feature was funded by the Research Institute for Nature and Forest, Flemish Govt
+This feature was funded by the `Research Institute for Nature and Forest <https://www.inbo.be/en>`__, Flemish Govt
 
 This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
 
