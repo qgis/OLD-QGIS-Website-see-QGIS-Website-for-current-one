@@ -30,3 +30,6 @@ curl -k -A Mozilla https://changelog.qgis.org/en/qgis/members/json/ -o members.j
 mv qgispastmembers.json qgispastmembers.json.0
 # 20211029 TEMPORARILY use -k == no cert fix !!! PLEASE REMOVE/FIX WHEN POSSIBLE
 curl -k -A Mozilla https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2 -o qgispastmembers.json
+
+# 20220317 rsync feeds to new server
+rsync -hvzc -e ssh --progress /var/www/qgisdata/QGIS-Website/live/html/feeds/* root@195.201.96.242:/var/www/qgisdata/QGIS-Website/live/html/feeds/
