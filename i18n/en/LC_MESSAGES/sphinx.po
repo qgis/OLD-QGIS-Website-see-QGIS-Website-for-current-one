@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-03 20:12+0100\n"
+"POT-Creation-Date: 2022-03-02 14:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,7 +47,7 @@ msgstr ""
 #: ../../themes/qgis-theme/about_index.html:38
 #: ../../themes/qgis-theme/about_index.html:133
 #: ../../themes/qgis-theme/forusers_index.html:47
-#: ../../themes/qgis-theme/forusers_index.html:139
+#: ../../themes/qgis-theme/forusers_index.html:143
 msgid "Commercial Support"
 msgstr ""
 
@@ -150,8 +150,8 @@ msgid "Learn about Commercial Support for QGIS"
 msgstr ""
 
 #: ../../themes/qgis-theme/about_index.html:149
-#: ../../themes/qgis-theme/docs_index.html:179
-#: ../../themes/qgis-theme/forusers_index.html:177
+#: ../../themes/qgis-theme/docs_index.html:197
+#: ../../themes/qgis-theme/forusers_index.html:181
 #: ../../themes/qgis-theme/getinvolved_index.html:187
 msgid "Back to Top"
 msgstr ""
@@ -185,12 +185,12 @@ msgid "DOCUMENTATION"
 msgstr ""
 
 #: ../../themes/qgis-theme/docs_index.html:32
-#: ../../themes/qgis-theme/docs_index.html:59
+#: ../../themes/qgis-theme/docs_index.html:63
 msgid "QGIS 3.16"
 msgstr ""
 
 #: ../../themes/qgis-theme/docs_index.html:35
-#: ../../themes/qgis-theme/docs_index.html:94
+#: ../../themes/qgis-theme/docs_index.html:98
 msgid "QGIS 3.10"
 msgstr ""
 
@@ -202,162 +202,180 @@ msgstr ""
 msgid "Documentation for older versions"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:60
-#: ../../themes/qgis-theme/docs_index.html:95
+#: ../../themes/qgis-theme/docs_index.html:44
+msgid "Data protection"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:64
+#: ../../themes/qgis-theme/docs_index.html:99
 msgid "For users:"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:62
-#: ../../themes/qgis-theme/docs_index.html:63
-#: ../../themes/qgis-theme/docs_index.html:97
+#: ../../themes/qgis-theme/docs_index.html:66
+#: ../../themes/qgis-theme/docs_index.html:67
+#: ../../themes/qgis-theme/docs_index.html:101
 msgid "Read the"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:62
-#: ../../themes/qgis-theme/docs_index.html:138
+#: ../../themes/qgis-theme/docs_index.html:66
+#: ../../themes/qgis-theme/docs_index.html:142
 msgid "Desktop User Guide/Manual"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:63
-#: ../../themes/qgis-theme/docs_index.html:139
+#: ../../themes/qgis-theme/docs_index.html:67
+#: ../../themes/qgis-theme/docs_index.html:143
 msgid "Server Guide/Manual"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:64
-#: ../../themes/qgis-theme/docs_index.html:98
-msgid "Follow the tutorials in the"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:64
-#: ../../themes/qgis-theme/docs_index.html:98
-msgid "QGIS Training manual"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:65
-#: ../../themes/qgis-theme/docs_index.html:99
-msgid "Learn GIS basics in"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:65
-#: ../../themes/qgis-theme/docs_index.html:99
-#: ../../themes/qgis-theme/docs_index.html:145
-msgid "A gentle introduction in GIS"
 msgstr ""
 
 #: ../../themes/qgis-theme/docs_index.html:68
 #: ../../themes/qgis-theme/docs_index.html:102
+msgid "Follow the tutorials in the"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:68
+#: ../../themes/qgis-theme/docs_index.html:102
+msgid "QGIS Training manual"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:69
+#: ../../themes/qgis-theme/docs_index.html:103
+msgid "Learn GIS basics in"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:69
+#: ../../themes/qgis-theme/docs_index.html:103
+#: ../../themes/qgis-theme/docs_index.html:149
+msgid "A gentle introduction in GIS"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:72
+#: ../../themes/qgis-theme/docs_index.html:106
 msgid "For documentation writers:"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:70
-#: ../../themes/qgis-theme/docs_index.html:104
+#: ../../themes/qgis-theme/docs_index.html:74
+#: ../../themes/qgis-theme/docs_index.html:108
 msgid "Learn how to write docs using the"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:70
-#: ../../themes/qgis-theme/docs_index.html:104
+#: ../../themes/qgis-theme/docs_index.html:74
+#: ../../themes/qgis-theme/docs_index.html:108
 msgid "Documentation Guidelines"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:73
-#: ../../themes/qgis-theme/docs_index.html:107
-msgid "For developers:"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:75
-#: ../../themes/qgis-theme/docs_index.html:109
-msgid "Go Python, study the"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:75
-#: ../../themes/qgis-theme/docs_index.html:109
-msgid "PyQGIS cookbook (for plugins and scripting)"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:76
-#: ../../themes/qgis-theme/docs_index.html:110
-#: ../../themes/qgis-theme/docs_index.html:147
-msgid "C++ Api documentation"
 msgstr ""
 
 #: ../../themes/qgis-theme/docs_index.html:77
 #: ../../themes/qgis-theme/docs_index.html:111
-#: ../../themes/qgis-theme/docs_index.html:148
-msgid "PyQGIS - QGIS Python Api documentation"
+msgid "For developers:"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:79
+#: ../../themes/qgis-theme/docs_index.html:113
+msgid "Go Python, study the"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:79
+#: ../../themes/qgis-theme/docs_index.html:113
+msgid "PyQGIS cookbook (for plugins and scripting)"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:80
+#: ../../themes/qgis-theme/docs_index.html:114
+#: ../../themes/qgis-theme/docs_index.html:151
+msgid "C++ Api documentation"
 msgstr ""
 
 #: ../../themes/qgis-theme/docs_index.html:81
 #: ../../themes/qgis-theme/docs_index.html:115
+#: ../../themes/qgis-theme/docs_index.html:152
+msgid "PyQGIS - QGIS Python Api documentation"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:85
+#: ../../themes/qgis-theme/docs_index.html:119
 msgid "For download:"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:83
-#: ../../themes/qgis-theme/docs_index.html:117
+#: ../../themes/qgis-theme/docs_index.html:87
+#: ../../themes/qgis-theme/docs_index.html:121
 msgid "PDF of the manuals"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:84
-#: ../../themes/qgis-theme/docs_index.html:118
+#: ../../themes/qgis-theme/docs_index.html:88
+#: ../../themes/qgis-theme/docs_index.html:122
 msgid "HTML zip of the manuals"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:97
+#: ../../themes/qgis-theme/docs_index.html:101
 msgid "QGIS User guide"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:136
+#: ../../themes/qgis-theme/docs_index.html:140
 msgid "QGIS testing"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:137
+#: ../../themes/qgis-theme/docs_index.html:141
 msgid ""
 "We are still updating (not translating yet) the documentation for "
 "releases newer than QGIS 3.16. We call this version 'QGIS testing' and "
 "the documentation can be found here: "
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:140
+#: ../../themes/qgis-theme/docs_index.html:144
 msgid "QGIS Training Manual"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:141
+#: ../../themes/qgis-theme/docs_index.html:145
 msgid "PyQGIS Cookbook"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:142
+#: ../../themes/qgis-theme/docs_index.html:146
 msgid "QGIS Developers Guide"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:144
+#: ../../themes/qgis-theme/docs_index.html:148
 msgid "Documentation Guidelines (how to write the docs)"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:146
+#: ../../themes/qgis-theme/docs_index.html:150
 msgid "PDF versions of all above, eg for printing are available here: "
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:156
+#: ../../themes/qgis-theme/docs_index.html:160
 msgid "Archived"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:157
+#: ../../themes/qgis-theme/docs_index.html:161
 msgid "Links to documentation of older version of QGIS: "
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:159
+#: ../../themes/qgis-theme/docs_index.html:163
 msgid "QGIS 3.4 Documentation"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:160
+#: ../../themes/qgis-theme/docs_index.html:164
 msgid "QGIS 2.18 Documentation"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:161
+#: ../../themes/qgis-theme/docs_index.html:165
 msgid "QGIS 2.14 Documentation"
 msgstr ""
 
-#: ../../themes/qgis-theme/docs_index.html:162
+#: ../../themes/qgis-theme/docs_index.html:166
 msgid "QGIS 2.8 Documentation"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:176
+msgid "Data protection documentation"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:177
+msgid ""
+"In line with GDPR and related data protection regulations, we provide the"
+" following documentation: "
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:179
+msgid "QGIS Application Network Connections"
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:3
@@ -418,7 +436,6 @@ msgid "OSGeo4W Network Installer"
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:49
-#: ../../themes/qgis-theme/forusers_download.html:108
 msgid "In the installer choose "
 msgstr ""
 
@@ -427,7 +444,6 @@ msgid "Express Install"
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:49
-#: ../../themes/qgis-theme/forusers_download.html:108
 msgid "and select"
 msgstr ""
 
@@ -445,7 +461,6 @@ msgid "QGIS LTR"
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:49
-#: ../../themes/qgis-theme/forusers_download.html:108
 msgid "to install the <em>long term release</em>."
 msgstr ""
 
@@ -456,7 +471,6 @@ msgid ""
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:50
-#: ../../themes/qgis-theme/forusers_download.html:108
 msgid "Advanced Install"
 msgstr ""
 
@@ -473,59 +487,45 @@ msgid "in the desktop section."
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:51
-msgid "NOTE FOR EXISTING USERS"
+#: ../../themes/qgis-theme/forusers_download.html:52
+msgid "CAUTION"
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:51
 msgid ""
-"OSGeo4W v2 (previously known as testing) is now the regular repository.  "
-"The latest QGIS release is only available here, as it already requires "
-"dependencies not available in the old repository. The long term release "
-"is additionally also available in the old repository using the same "
-"dependencies as before (see below). This also includes a 32-bit version, "
-"which OSGeo4W v2 does not support."
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:52
-#: ../../themes/qgis-theme/forusers_download.html:53
-msgid "CAUTION"
+"Upgrades of old setups from OSGeo4W v1 using this repository are not "
+"supported. You need to do a fresh install or use a different directory."
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:52
 msgid ""
-"Upgrades of old setups using the new repository are not supported. You "
-"need to do a fresh install or use a different directory."
+"32 bit binaries are not produced anymore.  Also Windows 7 no longer works"
+" as we are now using Python 3.9, which dropped support for it."
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:53
-msgid ""
-"Windows 7 no longer works as we are now using Python 3.9, which dropped "
-"support for it."
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:57
+#: ../../themes/qgis-theme/forusers_download.html:56
 msgid ""
 "Standalone installers (MSI) from OSGeo4W packages (recommended for new "
 "users)"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:58
-#: ../../themes/qgis-theme/forusers_download.html:159
+#: ../../themes/qgis-theme/forusers_download.html:57
+#: ../../themes/qgis-theme/forusers_download.html:104
 msgid "Latest release (richest on features):"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:63
-#: ../../themes/qgis-theme/forusers_download.html:78
+#: ../../themes/qgis-theme/forusers_download.html:62
+#: ../../themes/qgis-theme/forusers_download.html:77
 #, python-format
 msgid "QGIS Standalone Installer Version %s"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:73
-#: ../../themes/qgis-theme/forusers_download.html:167
+#: ../../themes/qgis-theme/forusers_download.html:72
+#: ../../themes/qgis-theme/forusers_download.html:112
 msgid "Long term release (most stable):"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:88
+#: ../../themes/qgis-theme/forusers_download.html:87
 msgid ""
 "Note that the MSI installers are much bigger than the previous "
 "installers.  This is because they include significant larger packages "
@@ -533,79 +533,37 @@ msgid ""
 " previously used NSIS has, which was blocking updates of dependencies."
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:93
-msgid "Long-term release in old OSGeo4W (continued with previous dependencies):"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:98
-msgid "OSGeo4W Network Installer (64 bit)"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:105
-msgid "OSGeo4W Network Installer (32 bit)"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:108
-msgid "qgis-ltr-full"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:109
-msgid ""
-"Packages for the latest release and nightly thereof and master are "
-"discontinued in old OSGeo4W."
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:110
-msgid "This installer also allows installing QGIS without non-free software"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:114
-msgid ""
-"Standalone installer for long term release (continued with dependencies "
-"from old OSGeo4W):"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:119
-#, python-format
-msgid "QGIS Standalone Installer Version %s (64 bit)"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:133
-#, python-format
-msgid "QGIS Standalone Installer Version %s (32 bit)"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:151
+#: ../../themes/qgis-theme/forusers_download.html:96
 msgid "Download for macOS"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:156
+#: ../../themes/qgis-theme/forusers_download.html:101
 msgid "Official All-in-one, signed installers"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:157
-#: ../../themes/qgis-theme/forusers_download.html:177
+#: ../../themes/qgis-theme/forusers_download.html:102
+#: ../../themes/qgis-theme/forusers_download.html:122
 msgid "Mac Installer Packages for macOS High Sierra (10.13) and newer."
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:158
+#: ../../themes/qgis-theme/forusers_download.html:103
 msgid ""
 "QGIS is not yet notarized as required by macOS Catalina (10.15) security "
 "rules. On first launch, please right-click on the QGIS app icon, hold "
 "down the Option key, then choose Open."
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:164
-#: ../../themes/qgis-theme/forusers_download.html:172
+#: ../../themes/qgis-theme/forusers_download.html:109
+#: ../../themes/qgis-theme/forusers_download.html:117
 #, python-format
 msgid "QGIS macOS Installer Version %s"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:175
+#: ../../themes/qgis-theme/forusers_download.html:120
 msgid "Alternative build"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:178
+#: ../../themes/qgis-theme/forusers_download.html:123
 msgid ""
 "Installation instructions are in the Read Me on the disk image. GDAL and "
 "Python (both included on the disk image) are installed separately and "
@@ -613,199 +571,199 @@ msgid ""
 "the python.org Python 3 - other distributions are not supported."
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:183
+#: ../../themes/qgis-theme/forusers_download.html:128
 msgid "macOS Installers"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:193
+#: ../../themes/qgis-theme/forusers_download.html:138
 msgid "Download for Linux"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:198
+#: ../../themes/qgis-theme/forusers_download.html:143
 msgid ""
 "For many flavors of GNU/Linux binary packages (rpm and deb) or software "
 "repositories (to add to your installation manager) are available. Please "
 "select your choice of distro below:"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:200
+#: ../../themes/qgis-theme/forusers_download.html:145
 msgid "Debian/Ubuntu"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:201
+#: ../../themes/qgis-theme/forusers_download.html:146
 msgid "Fedora"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:202
+#: ../../themes/qgis-theme/forusers_download.html:147
 msgid "openSUSE"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:203
+#: ../../themes/qgis-theme/forusers_download.html:148
 msgid "RHEL, CentOS, Scientific Linux, ..."
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:204
+#: ../../themes/qgis-theme/forusers_download.html:149
 msgid "Mandriva"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:205
+#: ../../themes/qgis-theme/forusers_download.html:150
 msgid "Slackware"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:206
+#: ../../themes/qgis-theme/forusers_download.html:151
 msgid "Arch Linux"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:207
+#: ../../themes/qgis-theme/forusers_download.html:152
 msgid "Flatpak"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:209
+#: ../../themes/qgis-theme/forusers_download.html:154
 msgid "Linux Installation Instructions"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:217
+#: ../../themes/qgis-theme/forusers_download.html:162
 msgid "Download for BSD"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:222
+#: ../../themes/qgis-theme/forusers_download.html:167
 msgid "BSD Installation Instructions"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:230
+#: ../../themes/qgis-theme/forusers_download.html:175
 msgid "Apps for mobile and tablet"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:235
+#: ../../themes/qgis-theme/forusers_download.html:180
 msgid ""
 "The QGIS experience does not stop on the desktop. Various touch optimized"
 " apps allow you to take QGIS into the field"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:236
+#: ../../themes/qgis-theme/forusers_download.html:181
 msgid "Third-party touch optimized apps"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:237
+#: ../../themes/qgis-theme/forusers_download.html:182
 msgid "QField for QGIS (formerly QGIS for Android)"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:243
+#: ../../themes/qgis-theme/forusers_download.html:188
 msgid "Input (available for Android, iOS and Windows devices)"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:254
+#: ../../themes/qgis-theme/forusers_download.html:199
 msgid "QGIS for Android"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:255
+#: ../../themes/qgis-theme/forusers_download.html:200
 msgid ""
 "An old and deprecated not touch optimised release of QGIS for Android can"
 " be found in"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:255
-#: ../../themes/qgis-theme/forusers_download.html:262
-#: ../../themes/qgis-theme/forusers_download.html:264
+#: ../../themes/qgis-theme/forusers_download.html:200
+#: ../../themes/qgis-theme/forusers_download.html:207
+#: ../../themes/qgis-theme/forusers_download.html:209
 msgid "All downloads"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:264
+#: ../../themes/qgis-theme/forusers_download.html:209
 msgid ""
 "More specific instructions about downloading QGIS stable vs QGIS "
 "development can be found in"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:267
+#: ../../themes/qgis-theme/forusers_download.html:212
 msgid "Datasets"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:268
+#: ../../themes/qgis-theme/forusers_download.html:213
 msgid "For testing and learning purposes, a "
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:268
+#: ../../themes/qgis-theme/forusers_download.html:213
 msgid "sample dataset is available"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:268
+#: ../../themes/qgis-theme/forusers_download.html:213
 msgid ""
 "which contains collections of data from different sources and in "
 "different formats."
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:274
+#: ../../themes/qgis-theme/forusers_download.html:219
 msgid "Previous releases of QGIS are still available"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:274
-#: ../../themes/qgis-theme/forusers_download.html:275
-#: ../../themes/qgis-theme/forusers_download.html:276
-#: ../../themes/qgis-theme/forusers_download.html:278
-#: ../../themes/qgis-theme/forusers_download.html:279
-#: ../../themes/qgis-theme/forusers_download.html:289
-#: ../../themes/qgis-theme/forusers_download.html:290
-#: ../../themes/qgis-theme/forusers_download.html:291
+#: ../../themes/qgis-theme/forusers_download.html:219
+#: ../../themes/qgis-theme/forusers_download.html:220
+#: ../../themes/qgis-theme/forusers_download.html:221
+#: ../../themes/qgis-theme/forusers_download.html:223
+#: ../../themes/qgis-theme/forusers_download.html:224
+#: ../../themes/qgis-theme/forusers_download.html:234
+#: ../../themes/qgis-theme/forusers_download.html:235
+#: ../../themes/qgis-theme/forusers_download.html:236
 msgid "here"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:274
+#: ../../themes/qgis-theme/forusers_download.html:219
 msgid " - including older releases for OS X "
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:276
+#: ../../themes/qgis-theme/forusers_download.html:221
 msgid "More older releases are available"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:277
-#: ../../themes/qgis-theme/forusers_download.html:287
+#: ../../themes/qgis-theme/forusers_download.html:222
+#: ../../themes/qgis-theme/forusers_download.html:232
 #: ../../themes/qgis-theme/getinvolved_index.html:16
 #: ../../themes/qgis-theme/getinvolved_index.html:90
 msgid "and"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:278
+#: ../../themes/qgis-theme/forusers_download.html:223
 msgid "for OS X "
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:279
-#: ../../themes/qgis-theme/forusers_download.html:291
+#: ../../themes/qgis-theme/forusers_download.html:224
+#: ../../themes/qgis-theme/forusers_download.html:236
 msgid "Plugins for QGIS are also available "
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:284
+#: ../../themes/qgis-theme/forusers_download.html:229
 msgid "QGIS is open source software available under the terms of the"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:284
+#: ../../themes/qgis-theme/forusers_download.html:229
 msgid "GNU General Public License"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:284
+#: ../../themes/qgis-theme/forusers_download.html:229
 msgid ""
 "meaning that its source code can be downloaded through tarballs or the "
 "git repository."
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:285
+#: ../../themes/qgis-theme/forusers_download.html:230
 msgid "QGIS Source Code is available "
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:286
+#: ../../themes/qgis-theme/forusers_download.html:231
 msgid "here (latest release)"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:288
+#: ../../themes/qgis-theme/forusers_download.html:233
 msgid "here (long term release)"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:289
+#: ../../themes/qgis-theme/forusers_download.html:234
 msgid ""
 "Refer to the INSTALL guide on how to compile QGIS from source for the "
 "different platforms:"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_download.html:290
+#: ../../themes/qgis-theme/forusers_download.html:235
 msgid ""
 "Note that you can also install the development version (nightly) via an "
 "installer from the normal downloads for your platform:"
@@ -847,7 +805,7 @@ msgid "QGIS Plugins"
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_index.html:41
-#: ../../themes/qgis-theme/forusers_index.html:128
+#: ../../themes/qgis-theme/forusers_index.html:132
 msgid "Getting Help"
 msgstr ""
 
@@ -904,56 +862,64 @@ msgstr ""
 msgid "QGIS tutorials"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:104
-msgid "QGIS Publications"
+#: ../../themes/qgis-theme/forusers_index.html:100
+msgid "QGIS values user privacy. We therefore provide detailed info on"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:106
-msgid "Read what the QGIS community is doing around the world"
+#: ../../themes/qgis-theme/forusers_index.html:101
+msgid "QGIS application network connections"
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_index.html:108
-msgid "in our blogs"
+msgid "QGIS Publications"
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_index.html:110
-msgid "For more in-depth reading, get some"
+msgid "Read what the QGIS community is doing around the world"
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_index.html:112
+msgid "in our blogs"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:114
+msgid "For more in-depth reading, get some"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:116
 msgid "books on QGIS"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:129
+#: ../../themes/qgis-theme/forusers_index.html:133
 msgid "You can get in touch with fellow users and developers via"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:131
+#: ../../themes/qgis-theme/forusers_index.html:135
 msgid "our community support channels"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:140
+#: ../../themes/qgis-theme/forusers_index.html:144
 msgid ""
 "Do you plan to use QGIS in your company or organization, but worry about "
 "whether there is\n"
 "                    commercial support available? Here is an alphabetical"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:144
+#: ../../themes/qgis-theme/forusers_index.html:148
 msgid "list of support contractors"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:160
+#: ../../themes/qgis-theme/forusers_index.html:164
 msgid "Get Plugins"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:161
+#: ../../themes/qgis-theme/forusers_index.html:165
 msgid ""
 "QGIS plugins allow you to add many new features and functions. Get them "
 "from"
 msgstr ""
 
-#: ../../themes/qgis-theme/forusers_index.html:164
+#: ../../themes/qgis-theme/forusers_index.html:168
 msgid "the plugin repository"
 msgstr ""
 
@@ -1194,7 +1160,7 @@ msgid "A Free and Open Source Geographic Information System"
 msgstr ""
 
 #: ../../themes/qgis-theme/index.html:33
-msgid "New release: 3.22!"
+msgid "New release: 3.24!"
 msgstr ""
 
 #: ../../themes/qgis-theme/index.html:35
@@ -2699,5 +2665,73 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "New release: 3.20!"
+#~ msgstr ""
+
+#~ msgid "NOTE FOR EXISTING USERS"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "OSGeo4W v2 (previously known as testing)"
+#~ " is now the regular repository.  The"
+#~ " latest QGIS release is only "
+#~ "available here, as it already requires"
+#~ " dependencies not available in the "
+#~ "old repository. The long term release"
+#~ " is additionally also available in "
+#~ "the old repository using the same "
+#~ "dependencies as before (see below). This"
+#~ " also includes a 32-bit version, "
+#~ "which OSGeo4W v2 does not support."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Upgrades of old setups using the "
+#~ "new repository are not supported. You"
+#~ " need to do a fresh install or"
+#~ " use a different directory."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Windows 7 no longer works as we"
+#~ " are now using Python 3.9, which "
+#~ "dropped support for it."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Long-term release in old OSGeo4W "
+#~ "(continued with previous dependencies):"
+#~ msgstr ""
+
+#~ msgid "OSGeo4W Network Installer (64 bit)"
+#~ msgstr ""
+
+#~ msgid "OSGeo4W Network Installer (32 bit)"
+#~ msgstr ""
+
+#~ msgid "qgis-ltr-full"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Packages for the latest release and "
+#~ "nightly thereof and master are "
+#~ "discontinued in old OSGeo4W."
+#~ msgstr ""
+
+#~ msgid "This installer also allows installing QGIS without non-free software"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Standalone installer for long term "
+#~ "release (continued with dependencies from "
+#~ "old OSGeo4W):"
+#~ msgstr ""
+
+#~ msgid "QGIS Standalone Installer Version %s (64 bit)"
+#~ msgstr ""
+
+#~ msgid "QGIS Standalone Installer Version %s (32 bit)"
+#~ msgstr ""
+
+#~ msgid "New release: 3.22!"
 #~ msgstr ""
 

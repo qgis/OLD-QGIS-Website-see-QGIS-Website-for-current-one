@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-10 20:22+0200\n"
+"POT-Creation-Date: 2022-03-02 14:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,7 +44,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/forusers/support.rst:24
-msgid "Chat"
+msgid "Communication channels"
 msgstr ""
 
 #: ../../source/site/forusers/support.rst:27
@@ -95,23 +95,33 @@ msgid ""
 "https://web.libera.chat/?channels=#qgis"
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:47
-msgid "User Groups"
+#: ../../source/site/forusers/support.rst:46
+msgid "Facebook"
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:49
-msgid "Local QGIS user groups are a great place to meet other users."
+#: ../../source/site/forusers/support.rst:47
+msgid ""
+"For Facebook users, an english-speaking global community group for QGIS "
+"users can be found at https://facebook.com/groups/612486875596534"
 msgstr ""
 
 #: ../../source/site/forusers/support.rst:51
-msgid "See :ref:`QGIS-usergroups` to read about it."
+msgid "User Groups"
+msgstr ""
+
+#: ../../source/site/forusers/support.rst:53
+msgid "Local QGIS user groups are a great place to meet other users."
 msgstr ""
 
 #: ../../source/site/forusers/support.rst:55
+msgid "See :ref:`QGIS-usergroups` to read about it."
+msgstr ""
+
+#: ../../source/site/forusers/support.rst:59
 msgid "Website"
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:57
+#: ../../source/site/forusers/support.rst:61
 msgid ""
 "The website should be used to publish any material in relation to the "
 "information and management of the user group. Examples include the user "
@@ -123,7 +133,7 @@ msgid ""
 "at the Website of the QGIS user group."
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:66
+#: ../../source/site/forusers/support.rst:70
 msgid ""
 "Good luck with the organization of your local user group. Please inform "
 "the international QGIS team by registering at the QGIS community list and"
@@ -131,19 +141,19 @@ msgid ""
 "regarding the establishment and maintenance of your local user group."
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:73
+#: ../../source/site/forusers/support.rst:77
 msgid "Issue Tracker"
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:75
+#: ../../source/site/forusers/support.rst:79
 msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:79
+#: ../../source/site/forusers/support.rst:83
 msgid "Commercial Support"
 msgstr ""
 
-#: ../../source/site/forusers/support.rst:81
+#: ../../source/site/forusers/support.rst:85
 msgid ""
 "You can also get support from companies near you, please visit this page:"
 " :ref:`QGIS-commercial_support`."
@@ -411,5 +421,8 @@ msgstr ""
 #~ "also exist local forums that have "
 #~ "a dedicated section for QGIS you "
 #~ "may need to search in."
+#~ msgstr ""
+
+#~ msgid "Chat"
 #~ msgstr ""
 
