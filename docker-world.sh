@@ -40,14 +40,14 @@ for l in $langs
       time rsync -hvrzc --delete --progress output/html/$l /var/www/qgisdata/QGIS-Website/live/html
       # 20220317: temporarily use IP here, will be www/docs later
       time rsync -hvrzc --delete --progress output/html/$l root@195.201.96.242:/var/www/qgisdata/QGIS-Website/live/html
-
-
     else
       echo "Build FAILED: not syncing to web";
     fi
   done
 
 time rsync -hvzc -e ssh --progress output/html/version.txt output/html/version-ltr.txt source/schedule.ics /var/www/qgisdata/QGIS-Website/live/html
+# 20220317: temporarily use IP here, will be www/docs later
+time rsync -hvzc -e ssh --progress output/html/version.txt output/html/version-ltr.txt source/schedule.ics root@195.201.96.242:/var/www/qgisdata/QGIS-Website/live/html
 
 now=`date`
 echo "Finished: $now"
