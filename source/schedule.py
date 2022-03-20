@@ -6,7 +6,7 @@ release = '3.24.1'
 codename = u'Tisler'
 binary = '2'
 releasedate = date(2022, 3, 18)
-releasenote = u'RC'
+releasenote = u'\u200B'
 
 # long term release repository
 ltrversion = '3.22'
