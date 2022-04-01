@@ -2275,7 +2275,6 @@ and QgsCustomDropHandler implementation to deal with drop of custom items.
 This feature was developed by Martin Dobias
 
 
-.. |image0| image:: images/projects/4ba1280c5037bc85ccedcbd39dab18eb725729c5.png
 .. |image1| image:: images/projects/8c7c6c5ded71fa7284d9e31144e2c0cdb02059ee.png
 .. |image2| image:: images/projects/thumbnails/d5fd4af2929840586da0bd45110758c5b0a786ff.png.50x50_q85.png
    :width: 100px

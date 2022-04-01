@@ -1043,7 +1043,6 @@ This feature was funded by `QGIS.ORG (through donations and sustaining membershi
 
 This feature was developed by `Nyall Dawson <https://north-road.com/>`__
 
-.. |image0| image:: images/projects/4ba1280c5037bc85ccedcbd39dab18eb725729c5.png
 .. |image1| image:: images/projects/606afcefcc3f5fd4ff00db9b4cb04b22485044db.png
    :class: img-responsive img-rounded center-block
 .. |image2| image:: images/entries/96178054-1aa78d80-0f2f-11eb-8d75-299bfd6aa73e.png
