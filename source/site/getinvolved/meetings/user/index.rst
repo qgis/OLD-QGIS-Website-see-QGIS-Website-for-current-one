@@ -2,6 +2,13 @@
 QGIS User Meetings
 ==================
 
+The organization of events happens on the `QGIS wiki <wiki_link_>`_.
+
+.. _wiki_link: https://github.com/qgis/QGIS/wiki#qgis-hackfests
+
+
+Pre-2013 events are listed below:
+
 7th german-speaking QGIS User Meeting in Kassel 2013
 ----------------------------------------------------
 
