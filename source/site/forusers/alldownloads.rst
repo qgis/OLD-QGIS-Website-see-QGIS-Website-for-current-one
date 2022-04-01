@@ -96,8 +96,12 @@ Debian/Ubuntu
 Quickstart
 ..........
 
-.. note: In the section following this one, you will find ALL possible options to
-   install different versions of QGIS in different versions of Debian/Ubuntu.
+.. note:: In the section following this one, you will find ALL possible options to
+   install different versions of QGIS in different versions of Debian/Ubuntu. If you
+   have problems, verify there whether your distribution is still supported as the
+   repositories also contain older **unsupported** distributions with the last
+   QGIS version that was supported. Beware that those might have meanwhile
+   ceased to work.
 
 Here you will simply install the latest stable QGIS (|version|.x |codename|)
 in your Debian or Ubuntu without having to edit config files.
@@ -229,31 +233,24 @@ Lines of packages:
 
 Supported distribution versions:
 
-+---------------+-------------+-------------------+-----------------------+
-| Distribution  | Version     | Codename          | Also available based  |
-|               |             |                   | on ubuntugis-unstable |
-|               |             |                   | dependencies?         |
-+===============+=============+===================+=======================+
-| Debian        | 11.x        | bullseye          |                       |
-|               +-------------+-------------------+-----------------------+
-|               | 10.x        | buster [6]_       |                       |
-|               +-------------+-------------------+-----------------------+
-|               | sid         | unstable          |                       |
-+---------------+-------------+-------------------+-----------------------+
-| Ubuntu        | 21.10       | impish [8]_       |                       |
-|               +-------------+-------------------+-----------------------+
-|               | 21.04 (LTS) | hirsute           |                       |
-|               +-------------+-------------------+-----------------------+
-|               | 20.10       | groovy            |                       |
-|               +-------------+-------------------+-----------------------+
-|               | 20.04 (LTS) | focal             | yes                   |
-|               +-------------+-------------------+-----------------------+
-|               | 18.04 (LTS) | bionic [7]_       | yes                   |
-+---------------+-------------+-------------------+-----------------------+
++---------------+----------------+------------+-----------------------+
+| Distribution  | Version        | Codename   | Also available based  |
+|               |                |            | on ubuntugis-unstable |
+|               |                |            | dependencies?         |
++===============+================+============+=======================+
+| Debian        | 11.x (stable)  | bullseye   |                       |
+|               +----------------+------------+-----------------------+
+|               | unstable       | sid        |                       |
++---------------+----------------+------------+-----------------------+
+| Ubuntu        | 22.04 (LTS)    | jammy      |                       |
+|               +----------------+------------+-----------------------+
+|               | 21.10          | impish     |                       |
+|               +----------------+------------+-----------------------+
+|               | 21.04 (LTS)    | hirsute    |                       |
+|               +----------------+------------+-----------------------+
+|               | 20.04 (LTS)    | focal      | yes                   |
++---------------+----------------+------------+-----------------------+
 
-.. [6] only up to 3.18 (GDAL too old for 3.20 in buster)
-.. [7] only up to 3.18 (python too old for 3.20 in bionic)
-.. [8] only starting from 3.22 (sip too new for 3.16 in impish)
 
 Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
 
