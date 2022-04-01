@@ -35,20 +35,15 @@ for l in $langs
     build_ok=$?
     if [[ "$build_ok" = "0" ]]; then
       echo "Build OK: syncing to web"
-      #time rsync -hvrzc -e ssh --progress output/html/$l qgis.osgeo.osuosl.org:/var/www/qgisdata/QGIS-Website/live/html
-      # 1 dec 2017: sync to qgis2
-      # 20220401 stop syncing to qgis2
-      #time rsync -hvrzc --delete --progress output/html/$l /var/www/qgisdata/QGIS-Website/live/html
-      # 20220317: temporarily use IP here, will be www/docs later
+      # 20220317: sync to www2.qgis.org
       time rsync -hvrzc --delete --progress output/html/$l www2.qgis.org:/var/www/qgisdata/QGIS-Website/live/html
     else
       echo "Build FAILED: not syncing to web";
     fi
   done
 
-time rsync -hvzc -e ssh --progress output/html/version.txt output/html/version-ltr.txt source/schedule.ics /var/www/qgisdata/QGIS-Website/live/html
-# 20220317: temporarily use IP here, will be www/docs later
-time rsync -hvzc -e ssh --progress output/html/version.txt output/html/version-ltr.txt source/schedule.ics root@195.201.96.242:/var/www/qgisdata/QGIS-Website/live/html
+# 20220317: sync to www2.qgis.org
+time rsync -hvzc -e ssh --progress output/html/version.txt output/html/version-ltr.txt source/schedule.ics www2.qgis.org:/var/www/qgisdata/QGIS-Website/live/html
 
 now=`date`
 echo "Finished: $now"
