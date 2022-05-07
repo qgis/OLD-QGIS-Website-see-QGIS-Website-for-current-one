@@ -40,6 +40,7 @@ Online course material for QGIS training developed and maintained by `Spatial Th
 
 * `Introduction to QGIS  <https://courses.spatialthoughts.com/introduction-to-qgis.html>`_
 * `Advanced QGIS  <https://courses.spatialthoughts.com/advanced-qgis.html>`_
+* `Customizing QGIS with Python <https://courses.spatialthoughts.com/pyqgis-in-a-day.html>`_
 
 Brazilian Portuguese
 ....................
