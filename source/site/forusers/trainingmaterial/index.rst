@@ -24,7 +24,7 @@ English
 The official Training Manual can be found here:
 http://docs.qgis.org/latest/en/docs/training_manual/index.html
 
-Tutorial material, originally written in English and translated in over 15 languages. (Produced and mainained by Ujaval Gandhi)
+Tutorial material, originally written in English and translated in over 15 languages. (Produced and maintained by Ujaval Gandhi)
 https://www.qgistutorials.com/
 
 Tutorial material, originally developed as part of a workshop for the Ecology and Evolutionary Biology Program at Texas A&M University (produced and maintained by Mike Treglia):
