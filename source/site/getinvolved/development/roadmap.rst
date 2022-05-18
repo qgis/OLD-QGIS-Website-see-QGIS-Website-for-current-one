@@ -109,7 +109,7 @@ This schedule is also available as `"iCalendar" </schedule.ics>`_.
    "SF","Soft freeze with bi-monthly vote"
    "PR","Point release of latest release and LTR branch"
    "EPR","Extra Point release"
-   ":rm-current:`current`",":rm-current:`current releases`"
+   ":rm-current:`current`",":rm-current:`currently supported releases`"
    ":rm-next:`next`",":rm-next:`next releases`"
 
 .. _QGIS-prereleases:

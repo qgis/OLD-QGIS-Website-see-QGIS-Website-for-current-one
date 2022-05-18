@@ -66,7 +66,7 @@ for row in reader:
         first = False
         continue
 
-    event, _, _, _, _, _, _, _, _, date, weekno, weeks, lr, ltr, dev, ff, _, _ = row
+    event, _, _, _, _, _, _, _, _, date, weekno, weeks, lr, ltr, dev, ff, _ = row
 
     dt = datetime.strptime(date, '%Y-%m-%d').replace(tzinfo=timezone.utc) + timedelta(hours=12)
 
