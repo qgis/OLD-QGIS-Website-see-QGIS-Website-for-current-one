@@ -42,9 +42,10 @@ a report, you need to register and login.
 Before reporting an issue
 ..........................
 
-Before filing an issue, verify that you are running a currently supported
-release (see :ref:`QGIS-release-schedule`) and review the currently open issues
-to make sure that you aren't creating a duplicate. If you have additional
+Before filing an issue, verify that you are running the currently supported
+versions |ltrrelease| or |release| or the development version |devversion|
+(see also :ref:`QGIS-release-schedule`) and review the currently open issues to
+make sure that you aren't creating a duplicate. If you have additional
 information on an issue, you can add it to the existing ticket. Third party
 plugins might also cause problems.  If you have installed any, you should also
 verify that the problem is still reproducible without them.  Please don't
