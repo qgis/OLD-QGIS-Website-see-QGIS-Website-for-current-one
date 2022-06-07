@@ -504,7 +504,7 @@ A nightly updated standalone installer from QGIS master can be downloaded from `
 
 Old releases
 ------------
-Previous releases of the official installer can be downloaded from https://qgis.org/downloads/macOS/.
+Previous releases of the official installer can be downloaded from https://qgis.org/downloads/macos/.
 
 Previous releases of the kyngchaos installer can be downloaded from https://www.kyngchaos.com/software/archive/. The oldest installers support macOS 10.4 Tiger.
 
