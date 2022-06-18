@@ -54,7 +54,7 @@ Feature: Coordinate ordering according to CRS
 
 QGIS will now use the correct coordinate ordering for the project CRS when displaying coordinates in status bar (and identify results). A setting has been added in the project properties to allow users to override this with a specific coordinate ordering if desired (x/y or y/x).
 
-Specifically, this means that projects in geographic CRS like EPSG:4326 will now show coordinates in latitude/longitude order instead of longitude/latitude (unless the specific CRS has different native ordering)
+Specifically, this means that projects in geographic CRS like EPSG:4326 will now show coordinates in latitude/longitude order instead of longitude/latitude (unless the specific CRS has different native ordering).
 
 |image4|
 
@@ -65,7 +65,7 @@ This feature was developed by `Nyall Dawson (North Road Consulting) <https://nor
 Feature: Select features from expression based symbols
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A "Select Features" action has been added to the right click context menu on legend class symbols. This allows you to rapidly select all features within a layer that are match the associated symbol class in categorized, graduated, and rule based renderers.
+A "Select Features" action has been added to the right click context menu on legend class symbols. This allows you to rapidly select all features within a layer that match the associated symbol class in categorized, graduated, and rule based renderers.
 
 |image5|
 
@@ -147,17 +147,16 @@ This feature was developed by `Nyall Dawson (North Road Consulting) <https://nor
 Feature: Allow any symbol to be an animated symbol
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Users can now indicate that a symbol should be treated as a animated symbol, through the new "Animation Settings" option in the symbol widget's Advanced menu.
+Users can now indicate that a symbol should be treated as an animated symbol, through the new "Animation Settings" option in the symbol widget's Advanced menu.
 
 This settings panel allows users to enable animation for the symbol and set a specific frame rate at which the symbol should be redrawn. When enabled, the @symbol\_frame variable can be used in any symbol data defined property in order to animate that property.
 
-For instance, setting the symbol's rotation to the data defined expression:
+For instance, setting the symbol's rotation to the following data defined expression will cause the symbol to rotate over time, with rotation speed dictated by the symbol's refresh rate.
 
 ::
 
     @symbol_frame % 360
 
-will cause the symbol to rotate over time, with rotation speed dictated by the symbol's refresh rate.
 
 |image11|
 
@@ -179,7 +178,7 @@ This feature was developed by `Lutra Consulting (Stefanos Natsis) <http://www.lu
 Feature: Add a new classification method for "Fixed interval"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Allows users to create graduated breaks using a specific interval width for classes (instead of the total number of classes)
+Allows users to create graduated breaks using a specific interval width for classes (instead of the total number of classes).
 
 |image13|
 
@@ -190,7 +189,7 @@ This feature was developed by `Nyall Dawson (North Road Consulting) <https://nor
 Feature: Custom dash pattern panel shows total pattern length
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The custom dash pattern panel now displays the total dash pattern length, enhancing the ability for users to match the overall pattern length with sizes from other parts of a symbol
+The custom dash pattern panel now displays the total dash pattern length, enhancing the ability for users to match the overall pattern length with sizes from other parts of a symbol.
 
 |image14|
 
@@ -215,7 +214,7 @@ Labelling
 Feature: Allow data-defined control over line anchor type
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Allows data-defined control over whether the 'hint' or 'strict' anchoring type is used
+Allows data-defined control over whether the 'hint' or 'strict' anchoring type is used.
 
 This feature was funded by City of Freiburg im Breisgau
 
@@ -305,10 +304,10 @@ Feature: Sync 2D and 3D navigation
 A new "Navigation sync" setting for 3D map frames provides the ability to automatically synchronize the 2D main map canvas extent and the 3D viewport based on various navigation options.
 
 -  Option 1: Whenever the camera is moved in the 3D view, the main map (2D) canvas extent will be set to the viewed area
--  Option 2: Every change in position on the main map canvas (2D) will result in the the 3D camera orientation being shifted to view approximately the same extent from the top (Nadir view position)
+-  Option 2: Every change in position on the main map canvas (2D) will result in the 3D camera orientation being shifted to view approximately the same extent from the top (Nadir view position)
 -  Option 3: A trapezoid area representing the field of view from the 3D map frame will be drawn on the main map (2D) canvas
 
-Actions are also available for quickly turning these options on and off
+Actions are also available for quickly turning these options on and off.
 
 |image20|
 
@@ -324,7 +323,7 @@ A 3D axis annotation has been added to the 3D map viewer allowing users to bette
 This various additional includes controls and options for:
 
 -  Displaying axis for X/Y/Z or using North/East/South/West based on the frame coordinate reference system (CRS)
--  Option to display a face-labeled cube instead of typical axis arrows
+-  Dsplaying a face-labeled cube instead of typical axis arrows
 
 |image21|
 
@@ -360,7 +359,7 @@ This feature was developed by `Lutra Consulting (Nedjima Belgacem) <https://www.
 Feature: Point cloud filtering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Filtering support has been added for point cloud layers, including a graphical query tool. Using filter expressions, point cloud points on both 2d and 3d canvases may be conditionally displayed based on xyz and/ or LAS attributes.
+Filtering support has been added for point cloud layers, including a graphical query tool. Using filter expressions, point cloud points on both 2d and 3d canvases may be conditionally displayed based on xyz and/or LAS attributes.
 
 |image23|
 
@@ -385,7 +384,7 @@ This feature was developed by `Nyall Dawson (North Road Consulting) <https://nor
 Expressions
 -----------
 
-Feature: Between/ Not between operators
+Feature: Between/Not between operators
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 QGIS now includes support for SQL-like ``BETWEEN`` and ``NOT BETWEEN`` operators in expression clauses.
@@ -404,13 +403,6 @@ In prior releases of QGIS, aggregate expressions did not pass the parent object 
 ``IF(aggregate(layer:='parks',aggregate:='count', expression:= 't_id', filter:=intersects( $geometry, geometry(@parent))) < 1, 'FALSE', 'TRUE')``
 
 The execution of the ``intersects( $geometry, geometry(@parent))`` filter will be performed on the data provider directly.
-
-This feature was developed by `signedav <https://github.com/signedav>`__
-
-Feature: Static parent variable in aggregate expression functions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-With this change we are able to execute functions in aggregate expressions like ``intersects( $geometry, geometry(@parent))`` on the provider. The effect of this speeds up aggregate expressions by allowing to send attributes from ``@parent`` in the request to the server.
 
 This feature was funded by `Amt für Geoinformation Kanton Schaffhausen <https://agi.sh.ch>`__
 
@@ -575,7 +567,7 @@ This feature was developed by `Alessandro Pasotti <https://github.com/elpaso>`__
 Feature: Collapse form group by expression
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-New configuration options are now available for Drag & Drop form group boxes which allow specifying an expression to define whether a form group should be collapsed
+New configuration options are now available for Drag & Drop form group boxes which allow specifying an expression to define whether a form group should be collapsed.
 
 |image36|
 
@@ -603,7 +595,7 @@ Processing
 Feature: Raise message model tool
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A raise message algorithm has been added to the model tools which allows users to output additional information in models logs. This prevents the abuse of the raise error/ warning algorithms and provides more granular control of model logging levels.
+A raise message algorithm has been added to the model tools which allows users to output additional information in models logs. This prevents the abuse of the raise error/warning algorithms and provides more granular control of model logging levels.
 
 |image38|
 
@@ -657,7 +649,7 @@ Application and Project Options
 Feature: Project elevation properties framework
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Elevation/ terrain settings are now project-level settings, which are defined through the Project Properties, Terrain tab, in line with `QEP 246 <https://github.com/qgis/QGIS-Enhancement-Proposals/issues/246>`__ and in order to support the new elevation profile tools.
+Elevation/terrain settings are now project-level settings, which are defined through the Project Properties, Terrain tab, in line with `QEP 246 <https://github.com/qgis/QGIS-Enhancement-Proposals/issues/246>`__ and in order to support the new elevation profile tools.
 
 This framework provides configuration options for:
 
@@ -676,7 +668,7 @@ Feature: Optionally store UI configuration in projects
 
 An opt-in setting for projects has been added for "Remember attribute table windows and docks between sessions". If checked for a project, then any opened attribute tables will be saved into the project and immediately restored when loading that project.
 
-This has been to designed to improve workflows when a user has constructed a project with a particular set of attribute table configurations for their requirements, and re-setting up these attribute tables is a hassle.
+This has been designed to improve workflows when a user has constructed a project with a particular set of attribute table configurations for their requirements, and re-setting up these attribute tables is a hassle.
 
 |image42|
 
@@ -721,10 +713,10 @@ This feature was funded by SevenCs GmbH
 
 This feature was developed by `Nyall Dawson (North Road Consulting) <https://north-road.com>`__
 
-Feature: Add a "Skip" option for custom environmental variables in Settings->Options->Environment
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Feature: Add a "Skip" option for custom environmental variables
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The QGIS settings allow a particular user profile to modify the system environment variables for enhanced flexibility.
+The QGIS settings allow a particular user profile to modify the system environment variables for enhanced flexibility, in Settings --> Options --> Environment.
 
 This functionality included options for "Overwrite", "If Undefined", "Unset", "Prepend", and "Append", which allowed users to perform various functions from configuring credentials to extending their PATH variables.
 
@@ -734,7 +726,7 @@ A new "Skip" option is now provided which allows users to ignore values from an 
 
 This feature was developed by `Andrea Giudiceandrea <https://github.com/agiudiceandrea>`__
 
-Feature: Revamped projects' default symbols, color ramp , and text format
+Feature: Revamped projects' default symbols, color ramp, and text format
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This new version of QGIS has revamped the way default projects symbols are handled, aiming at upgrading its UI/UX as well as behaving correctly in multi-user environments. The changes include:
@@ -757,7 +749,7 @@ QGIS now includes a native elevation profile plotting tool.
 
 The tool includes the following features:
 
--  Support for vector, raster, mesh, and point cloud layers layers, based on the corresponding layer's elevation settings.
+-  Support for vector, raster, mesh, and point cloud layers, based on the corresponding layer's elevation settings.
 -  Drawing profile lines interactively using a map tool, which supports snapping, tracing, stream digitizing and curves
 -  Picking an existing line feature to use as the profile line. When this tool is active, users can click any line feature on the map to generate a profile curve along that line. If multiple features are present at the clicked point then a popup menu will appear allowing users to select from the available features.
 -  Plots can be exported to PDF (as high quality vector objects) or various image formats
@@ -807,7 +799,7 @@ This feature was developed by `Nyall Dawson (North Road Consulting) <https://nor
 Feature: Flexible symbology for point cloud profile plotting
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Point cloud layers in profile charts include the following symbology features
+Point cloud layers in profile charts include the following symbology features:
 
 -  Single color display of points or a setting to inherit classification and coloring from the 2D symbology (e.g. RGB colors)
 -  Respecting the profile curve distance tolerance setting
@@ -824,7 +816,7 @@ This feature was developed by `Nyall Dawson (North Road Consulting) <https://nor
 Feature: Vector feature extrusion for profile charts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The elevation profile tool provides support for vector feature extrusion and offset heights for incorporation of 2D vector in profile charts. These propertied can be data defined, and will also be used as the default offset/ extrusion settings for any new 3D polygon symbols created for that layer.
+The elevation profile tool provides support for vector feature extrusion and offset heights for incorporation of 2D vector in profile charts. These propertied can be data defined, and will also be used as the default offset/extrusion settings for any new 3D polygon symbols created for that layer.
 
 |image51|
 
@@ -858,10 +850,10 @@ This feature was funded by `North Road Consulting, thanks to SLYR <https://north
 
 This feature was developed by `Nyall Dawson (North Road Consulting) <https://north-road.com>`__
 
-Feature: SQL Logging in the Debugging/ Development panel
+Feature: SQL Logging in the Debugging/Development panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The debugging/ development panel now includes support for logging the SQL queries made by QGIS to backend data providers.
+The debugging/development panel now includes support for logging the SQL queries made by QGIS to backend data providers.
 
 This provides an effective method of debugging algorithms and data providers, as well as capturing the SQL statements made to perform specific actions against particular providers.
 
@@ -954,7 +946,7 @@ Bug fixes by Even Rouault
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +----------------------------------------------------------------------------------------+----------------------------------------------------------+--------------------------------------------------------------+--------------------------------------------------------------+
-| Bug Title                                                                              | URL issues.qgis.org (if reported)                        | URL Commit (Github)                                          | 3.22 backport commit (GitHub)                                |
+| Bug Title                                                                              | URL Issues (if reported, Github)                         | URL Commit (Github)                                          | 3.22 backport commit (GitHub)                                |
 +========================================================================================+==========================================================+==============================================================+==============================================================+
 | WFS provider doesn't recognize CRS strings other than OGC URNs                         | `#46485 <https://github.com/qgis/QGIS/issues/46485>`__   | `PR #48550 <https://github.com/qgis/QGIS/pull/48550>`__      | N/A                                                          |
 +----------------------------------------------------------------------------------------+----------------------------------------------------------+--------------------------------------------------------------+--------------------------------------------------------------+
@@ -995,7 +987,7 @@ Bug fixes by Alessandro Pasotti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+-----------------------------------------------------------+
-| Bug Title                                                                                                                                | URL issues.qgis.org (if reported)                                                                      | URL Commit (Github)                                                                     | 3.22 backport commit (GitHub)                             |
+| Bug Title                                                                                                                                | URL Issues (if reported, Github)                                                                       | URL Commit (Github)                                                                     | 3.22 backport commit (GitHub)                             |
 +==========================================================================================================================================+========================================================================================================+=========================================================================================+===========================================================+
 | @project\_keywords are no longer tested on Rule based filters                                                                            | `#48480 <https://github.com/qgis/QGIS/issues/48480>`__                                                 | Not a bug                                                                               |                                                           |
 +------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+-----------------------------------------------------------+
@@ -1042,7 +1034,7 @@ Bug fixes by Alex Bruy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +-----------------------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
-| Bug Title                                                                                     | URL issues.qgis.org (if reported)                        | URL Commit (Github)                                       | 3.22 backport commit (GitHub)                             |
+| Bug Title                                                                                     | URL Issues (if reported, Github)                         | URL Commit (Github)                                       | 3.22 backport commit (GitHub)                             |
 +===============================================================================================+==========================================================+===========================================================+===========================================================+
 | QgsProcessingParameterMultipleLayers adds an extra list element when reordering inputs        | `#45634 <https://github.com/qgis/QGIS/issues/45634>`__   | Works for me on 3.24 and master                           |                                                           |
 +-----------------------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
@@ -1075,7 +1067,7 @@ Bug fixes by Sandro Santilli
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
-| Bug Title                                                                                | URL issues.qgis.org (if reported)                                                   | URL Commit (Github)                                       | 3.22 backport commit (GitHub)                             |
+| Bug Title                                                                                | URL Issues (if reported, Github)                                                    | URL Commit (Github)                                       | 3.22 backport commit (GitHub)                             |
 +==========================================================================================+=====================================================================================+===========================================================+===========================================================+
 | Add simple bash script to run tests as done by CI                                        | `QGIS QEP #244 <https://github.com/qgis/QGIS-Enhancement-Proposals/issues/244>`__   | `PR #48617 <https://github.com/qgis/QGIS/pull/48617>`__   | Not appropriate                                           |
 +------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
@@ -1108,7 +1100,7 @@ Bug fixes by Nyall Dawson
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +----------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+
-| Bug Title                                                                                                      | URL issues.qgis.org (if reported)                                         | URL Commit (Github)                                                                                    | 3.22 backport commit (GitHub)                             |
+| Bug Title                                                                                                      | URL Issues (if reported, Github)                                          | URL Commit (Github)                                                                                    | 3.22 backport commit (GitHub)                             |
 +================================================================================================================+===========================================================================+========================================================================================================+===========================================================+
 | layer\_property(..., 'path') should work for all layer types                                                   | `#49011 <https://github.com/qgis/QGIS/issues/49011>`__                    | `PR #49042 <https://github.com/qgis/QGIS/pull/49042>`__                                                | `PR #49046 <https://github.com/qgis/QGIS/pull/49046>`__   |
 +----------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+
