@@ -164,17 +164,6 @@ This feature was funded by `North Road Consulting <https://north-road.com>`__
 
 This feature was developed by `Nyall Dawson (North Road Consulting) <https://north-road.com>`__
 
-Feature: Point cloud style synchronization
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-A new "Follow 2d renderer" style for 3D point cloud symbology allows for a point cloud layer's 3D symbol to be kept in sync with its 2D counterpart. Any changes to the 2D symbology will be automatically applied to the 3D symbology.
-
-|image12|
-
-This feature was funded by `Crowdfunding for raster and point clouds improvements <https://www.lutraconsulting.co.uk/crowdfunding/elevation-pointcloud-enhancements-qgis>`__
-
-This feature was developed by `Lutra Consulting (Stefanos Natsis) <http://www.lutraconsulting.co.uk>`__
-
 Feature: Add a new classification method for "Fixed interval"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -366,6 +355,33 @@ Filtering support has been added for point cloud layers, including a graphical q
 This feature was funded by `Crowdfunding for raster and point clouds improvements <https://www.lutraconsulting.co.uk/crowdfunding/elevation-pointcloud-enhancements-qgis>`__
 
 This feature was developed by `Lutra Consulting (Stefanos Natsis) <http://www.lutraconsulting.co.uk>`__
+
+Feature: Point cloud style synchronization
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A new "Follow 2d renderer" style for 3D point cloud symbology allows for a point cloud layer's 3D symbol to be kept in sync with its 2D counterpart. Any changes to the 2D symbology will be automatically applied to the 3D symbology.
+
+|image12|
+
+This feature was funded by `Crowdfunding for raster and point clouds improvements <https://www.lutraconsulting.co.uk/crowdfunding/elevation-pointcloud-enhancements-qgis>`__
+
+This feature was developed by `Lutra Consulting (Stefanos Natsis) <http://www.lutraconsulting.co.uk>`__
+
+Feature: Improvements to the classified renderer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Classified renderer for point clouds has been improved to:
+
+- Show only classes that are in the dataset (instead of hard-coded list) & show also non-standard classes
+- Show percentage of points for each class
+- Work also for other attributes (return number, number of returns, point source and few other classes)
+
+|image55|
+
+This feature was funded by `Crowdfunding for raster and point clouds improvements <https://www.lutraconsulting.co.uk/crowdfunding/elevation-pointcloud-enhancements-qgis>`__
+
+This feature was developed by `Lutra Consulting (Stefanos Natsis) <http://www.lutraconsulting.co.uk>`__
+
 
 Print Layouts
 -------------
@@ -1288,5 +1304,7 @@ Bugs fixed by `Nyall Dawson <https://north-road.com/>`__
 .. |image53| image:: images/entries/62594ee3295e3276fe9510f42e2ba54d05153ebd.png
    :class: img-responsive img-rounded
 .. |image54| image:: images/entries/e7c6ed595485dd51c3bccb87f2a31f9691ad4aae.png
+   :class: img-responsive img-rounded
+.. |image55| image:: images/entries/74d4c97f9c4d402e928893c88f331e9.png
    :class: img-responsive img-rounded
 
