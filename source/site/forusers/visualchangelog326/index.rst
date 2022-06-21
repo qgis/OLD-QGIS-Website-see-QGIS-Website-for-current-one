@@ -397,6 +397,17 @@ This feature was funded by City of Canning
 
 This feature was developed by `Nyall Dawson (North Road Consulting) <https://north-road.com>`__
 
+Feature: Scalebar Data Defined Overrides
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Adds data defined overrides to the Scalebar layout item. This feature is useful when generating an atlas with the atlas feature containing the scale as a field. The map can be driven by this value, but the scalebar cannot. This implements #48084, which allows the scalebar properties to be data driven by the atlas feature.
+
+|image56|
+
+
+This feature was developed by `Ethan Snyder <https://github.com/esnyder-rve>`__
+
+
 Expressions
 -----------
 
@@ -1307,4 +1318,5 @@ Bugs fixed by `Nyall Dawson <https://north-road.com/>`__
    :class: img-responsive img-rounded
 .. |image55| image:: images/entries/74d4c97f9c4d402e928893c88f331e9.png
    :class: img-responsive img-rounded
-
+.. |image56| image:: images/entries/d3e680f3e4facc9078e4755045152d57f7dc680f.png
+   :class: img-responsive img-rounded
