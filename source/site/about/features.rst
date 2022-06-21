@@ -58,12 +58,12 @@ Various third-party touch optimized apps allow you to take QGIS into the field
 
    A screenshot of QField for QGIS (available for Android, Windows, iOS coming soon)
 
-`Input <https://inputapp.io>`_
+`Mergin Maps Input app <https://merginmaps.com>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. figure:: /static/site/about/images/input.jpg
-   :alt: Input app
+   :alt: Mergin Maps Input app
 
-   A screenshot of Input (available for Android, Windows, iOS)
+   A screenshot of Mergin Maps Input app (available for Android, iOS)
 
 `IntraMaps Roam <https://roam-docs.readthedocs.io>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
