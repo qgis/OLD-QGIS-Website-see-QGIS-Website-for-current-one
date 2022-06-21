@@ -13,3 +13,4 @@ This is a list of all previously valid charters. These are no longer valid.
 * :download:`QGIS.org-StatutesV5-Approved28March2018_GermanTranslation (pdf) <../../../../static/site/getinvolved/governance/charter/QGIS.org-StatutesV5-Approved28March2018_GermanTranslation.pdf>`
 * :download:`QGIS.org-StatutesV5-Approved28March2018 (pdf) <../../../../static/site/getinvolved/governance/charter/QGIS.org-StatutesV5-Approved28March2018.pdf>`
 * :download:`QGIS.org-StatutesV6-Approved17March2019 (pdf) <../../../../static/site/getinvolved/governance/charter/QGIS.org-StatutesV6-Approved17March2019.pdf>`
+* :download:`QGIS.org-StatutesV7-Approved30December2021 (pdf) <../../../../static/site/getinvolved/governance/charter/QGIS.org-StatutesV7-Approved30December2021.pdf>`
