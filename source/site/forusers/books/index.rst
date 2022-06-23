@@ -20,6 +20,17 @@ Note2: After the english books there are french, greek and polish items
 English
 =======
 
+Land Use Cover Datasets and Validation Tools. Validation Practices with QGIS
+****************************************************************************
+Introduction to Land Use Cover mapping, Land Use Cover Change Modelling and
+the validation of Land Use Cover datasets. The book includes practical exercises
+on the validation of Land Use Cover datasets with QGIS, as well as a comprehensive
+review of the Land Use Cover datasets currently available at global and continental scales.
+
+* https://link.springer.com/book/10.1007/978-3-030-90998-7
+* Authors: David García-Álvarez, María Teresa Camacho Olmedo, Martin Paegelow, Jean François Mas
+* Date: June 2022
+
 Introduction to QGIS
 ********************
 Get started with QGIS with this introduction covering everything needed to get you going.
