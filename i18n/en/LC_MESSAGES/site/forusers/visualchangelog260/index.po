@@ -1,42 +1,48 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-01 17:28+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:4
+msgid "Changelog for QGIS 2.6"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:6
 msgid ""
 "Change log for the next release of QGIS 2.6.0. We have added many new "
-"features, tweaks and enhancements to make the most popular Free desktop GIS "
-"even more feature filled and useful."
+"features, tweaks and enhancements to make the most popular Free desktop "
+"GIS even more feature filled and useful."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:10
 msgid ""
-"Whenever new features are added to software they introduce the possibility "
-"of new bugs - if you encounter any problems with this release, please file a"
-" ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`_."
+"Whenever new features are added to software they introduce the "
+"possibility of new bugs - if you encounter any problems with this "
+"release, please file a ticket `on the QGIS Bug Tracker "
+"<http://hub.qgis.org>`_."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:14
 msgid ""
-"We would like to thank the developers, documenters, testers and all the many"
-" folks out there who volunteer their time and effort (or fund people to do "
-"so)."
+"We would like to thank the developers, documenters, testers and all the "
+"many folks out there who volunteer their time and effort (or fund people "
+"to do so)."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:18
 msgid ""
 "From the QGIS community we hope you enjoy this release! If you wish to "
-"donate time, money or otherwise get involved in making QGIS more awesome, "
-"please wander along to `qgis.org <https://qgis.org>`_ and lend a hand!"
+"donate time, money or otherwise get involved in making QGIS more awesome,"
+" please wander along to `qgis.org <https://qgis.org>`_ and lend a hand!"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:23
@@ -45,9 +51,24 @@ msgid ""
 "financial support they provide to this project:"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:26
+msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:27
+msgid "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:28
 msgid ""
-"SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
+"SILVER Sponsor: `State of Vorarlberg, Austria "
+"<http://www.vorarlberg.at/>`_"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:29
+msgid ""
+"BRONZE Sponsor: `Lutra Consulting, UK "
+"<http://www.lutraconsulting.co.uk/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:30
@@ -59,8 +80,7 @@ msgid "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:32
-msgid ""
-"BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
+msgid "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:33
@@ -69,26 +89,38 @@ msgid ""
 "<http://www.eschenlaub.de/>`_"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:35
+msgid ""
+"A current list of donors who have made financial contributions large and "
+"small to the project can be seen on our `donors list "
+"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If "
+"you would like to become an official project sponsor, please visit `our "
+"sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for "
+"details. Sponsoring QGIS helps us to fund our six monthly developer "
+"meetings, maintain project infrastructure and fund bug fixing efforts."
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:44
 msgid ""
-"If you enjoy using QGIS, please consider making a donation to support the "
-"project - either `financial "
-"<https://qgis.org/en/site/getinvolved/donations.html>`_ or of `your time and "
-"skills <https://qgis.org/en/site/getinvolved/index.html>`_! Lastly we would "
-"like to also take a moment to encourage you to fund a `special campaign "
-"<http://blog.vitu.ch/10102014-1046/crowdfunding-initiative-automated-"
-"testing>`_ by one of our QGIS developers to get a working test suite for "
-"QGIS so that we can improve out quality assurance process and deliver you "
-"the best possible releases."
+"If you enjoy using QGIS, please consider making a donation to support the"
+" project - either `financial "
+"<https://qgis.org/en/site/getinvolved/donations.html>`_ or of `your time "
+"and skills <https://qgis.org/en/site/getinvolved/index.html>`_! Lastly we"
+" would like to also take a moment to encourage you to fund a `special "
+"campaign <http://blog.vitu.ch/10102014-1046/crowdfunding-initiative-"
+"automated-testing>`_ by one of our QGIS developers to get a working test "
+"suite for QGIS so that we can improve out quality assurance process and "
+"deliver you the best possible releases."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:54
 msgid ""
-"QGIS is Free software and you are under no obligation to pay anything to use"
-" it - in fact we want to encourage people far and wide to use it regardless "
-"of what your financial or social status is - we believe empowering people "
-"with spatial decision making tools will result in a better society for all "
-"of humanity."
+"QGIS is Free software and you are under no obligation to pay anything to "
+"use it - in fact we want to encourage people far and wide to use it "
+"regardless of what your financial or social status is - we believe "
+"empowering people with spatial decision making tools will result in a "
+"better society for all of humanity."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:64
@@ -106,8 +138,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:77
-msgid ""
-"Feature: Allow removing last point while measuring via del/backspace keys"
+msgid "Feature: Allow removing last point while measuring via del/backspace keys"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:79
@@ -118,8 +149,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:87
 msgid ""
-"Feature: select related feature on the canvas from the relation reference "
-"widget"
+"Feature: select related feature on the canvas from the relation reference"
+" widget"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:90
@@ -162,6 +193,12 @@ msgstr ""
 msgid "Feature: Optionally use just a subset of fields from the joined layer"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:109
+msgid ""
+"You can now use just a subset of related fields when creating a vector "
+"join."
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:117
 msgid "Feature: Expression field (virtual fields)"
 msgstr ""
@@ -169,8 +206,9 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog260/index.rst:119
 msgid ""
 "Sometimes you want to have an attribute that is calculated and that is "
-"always 'fresh' - reflecting the current state of the feature properties. Now"
-" you can add virtual fields to your table which are based on an expression."
+"always 'fresh' - reflecting the current state of the feature properties. "
+"Now you can add virtual fields to your table which are based on an "
+"expression."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:129
@@ -179,8 +217,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:131
 msgid ""
-"When creating a custom action for a vector layer, you can now define an icon"
-" to be used for the action too."
+"When creating a custom action for a vector layer, you can now define an "
+"icon to be used for the action too."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:139
@@ -193,8 +231,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:142
 msgid ""
-"New keyword: ``attribute( feature, attribute_name )`` - gets the specified "
-"attribute from a feature."
+"New keyword: ``attribute( feature, attribute_name )`` - gets the "
+"specified attribute from a feature."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:144
@@ -210,14 +248,13 @@ msgid "New keyword: ``getFeature`` - gets a matching feature from a layer."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:153
-msgid ""
-"Feature: Classes within graduated and categorised renderers can be toggled"
+msgid "Feature: Classes within graduated and categorised renderers can be toggled"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:155
 msgid ""
-"You can now choose to disable certain classes in graduated and categorised "
-"renderers without actually removing them."
+"You can now choose to disable certain classes in graduated and "
+"categorised renderers without actually removing them."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:163
@@ -246,11 +283,15 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:173
 msgid ""
-"The new legend filter option on the legend toolbar will remove legend items "
-"for any classes which are not currently in the view extent. This is an "
-"awesome improvement as it ensures that your map legend does not contain "
-"entries for items not currently in the map view. It is available in the main"
-" map legend and in map composer and for WMS layers."
+"The new legend filter option on the legend toolbar will remove legend "
+"items for any classes which are not currently in the view extent. This is"
+" an awesome improvement as it ensures that your map legend does not "
+"contain entries for items not currently in the map view. It is available "
+"in the main map legend and in map composer and for WMS layers."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:179
+msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:186
@@ -271,7 +312,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:193
 msgid ""
-"represent texts as MTEXT instead of TEXT (including font, slant and weight)"
+"represent texts as MTEXT instead of TEXT (including font, slant and "
+"weight)"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:195
@@ -296,9 +338,9 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:209
 msgid ""
-"We have added a checkbox and data defined button for controlling whether an "
-"item is excluded from composer exports/printouts. If the item is unchecked "
-"it will be visible at composition design time only."
+"We have added a checkbox and data defined button for controlling whether "
+"an item is excluded from composer exports/printouts. If the item is "
+"unchecked it will be visible at composition design time only."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:218
@@ -318,8 +360,8 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog260/index.rst:230
 msgid ""
 "The item tree panel in the map composer allows for selection of items, "
-"hiding/showing items, toggling lock status of items and double-clicking to "
-"edit item id. You can also use drag and drop to reorder items."
+"hiding/showing items, toggling lock status of items and double-clicking "
+"to edit item id. You can also use drag and drop to reorder items."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:239
@@ -344,8 +386,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:252
 msgid ""
-"Many properties of composer items can now be controlled using data binding. "
-"These include:"
+"Many properties of composer items can now be controlled using data "
+"binding. These include:"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:255
@@ -392,8 +434,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:280
 msgid ""
-"Tables can now be split across multiple frames, allowing their content to be"
-" distributed over columns or over different pages."
+"Tables can now be split across multiple frames, allowing their content to"
+" be distributed over columns or over different pages."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:282
@@ -428,9 +470,9 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:293
 msgid ""
-"Note that tables in existing projects are not automatically updated to the "
-"new table format which supports these features, and tables must be readded "
-"to a composition for the new settings to appear."
+"Note that tables in existing projects are not automatically updated to "
+"the new table format which supports these features, and tables must be "
+"readded to a composition for the new settings to appear."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:302
@@ -439,8 +481,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:304
 msgid ""
-"The map composer (used to prepare printable map compositions) has received a"
-" number of improvements in QGIS 2.6."
+"The map composer (used to prepare printable map compositions) has "
+"received a number of improvements in QGIS 2.6."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:307
@@ -461,24 +503,30 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:312
 msgid ""
-"Right click no longer locks/unlocks items, this is now handled by the new "
-"items panel. Locked items can no longer be selected from the composer "
+"Right click no longer locks/unlocks items, this is now handled by the new"
+" items panel. Locked items can no longer be selected from the composer "
 "canvas, allowing for interaction with items below them."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:315
-msgid ""
-"Holding alt while pressing cursor keys results in a 1px movement for items"
+msgid "Holding alt while pressing cursor keys results in a 1px movement for items"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:317
 msgid ""
-"Removed the destructive 'Load from template' menu item, replace with a new "
-"non-destructive 'Add items from template' action"
+"Removed the destructive 'Load from template' menu item, replace with a "
+"new non-destructive 'Add items from template' action"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:325
 msgid "Feature: Improved item snapping"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:327
+msgid ""
+"Snapping thresholds are now set in pixels, allowing for finer movement "
+"and resizing of items when zoomed in to a composition. Items within a "
+"group are no longer used for auto snap lines."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:336
@@ -487,11 +535,12 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:338
 msgid ""
-"Sometimes it is useful to be able to show more than one overview frame for a"
-" map frame. For example if you want to show where your map is in local, "
-"regional and global context, using multiple overview maps can help you to "
-"achieve this. As of QGIS 2.6 you can now achieve this by assigning as many "
-"maps as you like to the 'overview' role in your composition."
+"Sometimes it is useful to be able to show more than one overview frame "
+"for a map frame. For example if you want to show where your map is in "
+"local, regional and global context, using multiple overview maps can help"
+" you to achieve this. As of QGIS 2.6 you can now achieve this by "
+"assigning as many maps as you like to the 'overview' role in your "
+"composition."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:350
@@ -508,8 +557,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:355
 msgid ""
-"QGIS expressions within HTML source can be evaluated prior to rendering HTML"
-" content"
+"QGIS expressions within HTML source can be evaluated prior to rendering "
+"HTML content"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:357
@@ -545,26 +594,26 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:373
 msgid ""
-"There are now options for controlling which side of a map item the frame is "
-"drawn on."
+"There are now options for controlling which side of a map item the frame "
+"is drawn on."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:375
 msgid ""
-"There are new tick styles for frames, with inner ticks, outer ticks and both"
-" inner and outer tick options."
+"There are new tick styles for frames, with inner ticks, outer ticks and "
+"both inner and outer tick options."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:377
 msgid ""
-"We have made improvements to grid annotations, including many new formats "
-"for annotations."
+"We have made improvements to grid annotations, including many new formats"
+" for annotations."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:379
 msgid ""
-"Grid annotations now use the typographically correct prime and double prime "
-"symbols for grid annotations."
+"Grid annotations now use the typographically correct prime and double "
+"prime symbols for grid annotations."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:387
@@ -588,11 +637,11 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:403
 msgid ""
-"The modeler has been rewritten, and now provides extra functionality such as"
-" allowing nested models with no depth limit. Models are now stored as JSON "
-"files. Backwards compatibility is kept, so all models can still be used. You"
-" can also now drag and drop items from the inputs and algorithms onto the "
-"modeler graph."
+"The modeler has been rewritten, and now provides extra functionality such"
+" as allowing nested models with no depth limit. Models are now stored as "
+"JSON files. Backwards compatibility is kept, so all models can still be "
+"used. You can also now drag and drop items from the inputs and algorithms"
+" onto the modeler graph."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:414
@@ -606,8 +655,8 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog260/index.rst:419
 msgid ""
 "In order to normalise the naming of QGIS widgets, some minor API changes "
-"have been made. Almost all edit widgets were renamed by adding \"Wrapper\" "
-"at the end of their names. In particular this concerns:"
+"have been made. Almost all edit widgets were renamed by adding "
+"\"Wrapper\" at the end of their names. In particular this concerns:"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:423
@@ -675,13 +724,11 @@ msgid "Feature: Enhancements of searching with GetFeatureInfo request"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:444
-msgid ""
-"https://github.com/qgis/QGIS/commit/8888c5f0c0e0ffdf23453a20addf6abaf125845d"
+msgid "https://github.com/qgis/QGIS/commit/8888c5f0c0e0ffdf23453a20addf6abaf125845d"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:447
-msgid ""
-"Feature: Add a precision setting for GetFeatureInfo geometry attributes"
+msgid "Feature: Add a precision setting for GetFeatureInfo geometry attributes"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:450
@@ -694,8 +741,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:455
 msgid ""
-"We have improved the random colour algorithm for classified renderer so that"
-" the colours generated are more visually distinct from each other."
+"We have improved the random colour algorithm for classified renderer so "
+"that the colours generated are more visually distinct from each other."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:463
@@ -718,8 +765,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:469
 msgid ""
-"Classes are automatically converted from categorised and graduated classes "
-"when switching to rule based renderer."
+"Classes are automatically converted from categorised and graduated "
+"classes when switching to rule based renderer."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:471
@@ -728,8 +775,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:473
 msgid ""
-"Improved responsiveness to changes in color ramp, inverted colour ramp, and "
-"other options in GUI."
+"Improved responsiveness to changes in color ramp, inverted colour ramp, "
+"and other options in GUI."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:475
@@ -752,8 +799,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:489
 msgid ""
-"For python script editors, expression builder, filter window, composer HTML "
-"and CSS editors"
+"For python script editors, expression builder, filter window, composer "
+"HTML and CSS editors"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:497
@@ -788,6 +835,10 @@ msgstr ""
 msgid "There is a new custom QGIS color picker dialog. Features include:"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:514
+msgid "Sliders for hue, saturation, value, red, green, blue color components."
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:516
 msgid "Alpha slider."
 msgstr ""
@@ -808,6 +859,28 @@ msgstr ""
 msgid "Hue wheel/triangle widget."
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:521
+msgid ""
+"Editable color palettes, including the ability to create new palettes and"
+" import/export colors to a GPL palette file."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:523
+msgid ""
+"Live color sampler with option to sample over a set radius (OS support "
+"dependant)."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:525
+msgid ""
+"Supports interaction with other apps via drag and drop of colors (OS "
+"support dependant)."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:527
+msgid "Option to disable the dialog and use the native picker dialog instead."
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:535
 msgid "Feature: Single select feature tool merged into select by rectangle"
 msgstr ""
@@ -815,8 +888,8 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog260/index.rst:537
 msgid ""
 "We have merged the single selection tool into the rectangle tool. If you "
-"want to select a single feature, simply enable the rectangle tool and then "
-"single click (rather than dragging a rectangle) a feature."
+"want to select a single feature, simply enable the rectangle tool and "
+"then single click (rather than dragging a rectangle) a feature."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:546
@@ -825,8 +898,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:548
 msgid ""
-"In many of QGIS' dialogs that generate a new layer, the 'Add layer to map "
-"canvas' checkbox is now checked by default so that the new layer "
+"In many of QGIS' dialogs that generate a new layer, the 'Add layer to map"
+" canvas' checkbox is now checked by default so that the new layer "
 "automatically gets added to the map."
 msgstr ""
 
@@ -847,11 +920,12 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog260/index.rst:569
 msgid ""
 "This is probably one of the most useful new features in QGIS 2.6 - "
-"especially if you are involved a lot in cartography work. The colour button "
-"used everywhere in QGIS has been enhanced, with drop down menus, colour "
-"swatches, default colours, etc. Click on the drop down item to the right of "
-"the colour button to see the quick options. Click on the button to the left "
-"of the colour widget to see a standard colour chooser dialog."
+"especially if you are involved a lot in cartography work. The colour "
+"button used everywhere in QGIS has been enhanced, with drop down menus, "
+"colour swatches, default colours, etc. Click on the drop down item to the"
+" right of the colour button to see the quick options. Click on the button"
+" to the left of the colour widget to see a standard colour chooser "
+"dialog."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:582
@@ -860,81 +934,17 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:584
 msgid ""
-"When using the identify tool, you can now right click on the canvas to use "
-"the identify tool in context mode. In the menu that appears you can define "
-"which feature types you wish to identify (all all if you like)."
+"When using the identify tool, you can now right click on the canvas to "
+"use the identify tool in context mode. In the menu that appears you can "
+"define which feature types you wish to identify (all all if you like)."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:35
-msgid ""
-"A current list of donors who have made financial contributions large and "
-"small to the project can be seen on our `donors list "
-"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
-"would like to become an official project sponsor, please visit `our "
-"sponsorship page "
-"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details. "
-"Sponsoring QGIS helps us to fund our six monthly developer meetings, "
-"maintain project infrastructure and fund bug fixing efforts."
+#: ../../<rst_epilog>:2
+msgid "checkbox"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:109
-msgid ""
-"You can now use just a subset of related fields when creating a vector join."
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:28
-msgid ""
-"SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:29
-msgid ""
-"BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:179
-msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:514
-msgid "Sliders for hue, saturation, value, red, green, blue color components."
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:521
-msgid ""
-"Editable color palettes, including the ability to create new palettes and "
-"import/export colors to a GPL palette file."
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:523
-msgid ""
-"Live color sampler with option to sample over a set radius (OS support "
-"dependant)."
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:525
-msgid ""
-"Supports interaction with other apps via drag and drop of colors (OS support"
-" dependant)."
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:527
-msgid "Option to disable the dialog and use the native picker dialog instead."
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:26
-msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:327
-msgid ""
-"Snapping thresholds are now set in pixels, allowing for finer movement and "
-"resizing of items when zoomed in to a composition. Items within a group are "
-"no longer used for auto snap lines."
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:4
-msgid "Changelog for QGIS 2.6"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid "Changelog for QGIS: 2.6.0"
@@ -944,12 +954,15 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "**GOLD Sponsor: `Asia Air Survey, Japan <http://www.asiaairsurvey.com/>`_**"
+#~ "**GOLD Sponsor: `Asia Air Survey, Japan"
+#~ " <http://www.asiaairsurvey.com/>`_**"
 #~ msgstr ""
 
 #~ msgid ""
-#~ "Snapping thresholds are now set in pixels, allowing for finer movement and "
-#~ "resizing of items when zoomed in to a composition."
+#~ "Snapping thresholds are now set in "
+#~ "pixels, allowing for finer movement and"
+#~ " resizing of items when zoomed in "
+#~ "to a composition."
 #~ msgstr ""
 
 #~ msgid "Items within a group are no longer used for auto snap lines."
@@ -989,21 +1002,31 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_ "
-#~ "BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
+#~ "SILVER Sponsor: `State of Vorarlberg, "
+#~ "Austria <http://www.vorarlberg.at/>`_ BRONZE "
+#~ "Sponsor: `Lutra Consulting, UK "
+#~ "<http://www.lutraconsulting.co.uk/>`_"
 #~ msgstr ""
 
 #~ msgid ""
-#~ "A current list of donors who have made financial contributions large and "
-#~ "small to the project can be seen on our `donors list "
-#~ "<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
-#~ "would like to become and official project sponsor, please visit `our "
-#~ "sponsorship page "
-#~ "<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details. "
-#~ "Sponsoring QGIS helps us to fund our six monthly developer meetings, "
-#~ "maintain project infrastructure and fund bug fixing efforts."
+#~ "A current list of donors who have"
+#~ " made financial contributions large and "
+#~ "small to the project can be seen"
+#~ " on our `donors list "
+#~ "<https://qgis.org/en/site/about/sponsorship.html#list-of-"
+#~ "donors>`_. If you would like to "
+#~ "become and official project sponsor, "
+#~ "please visit `our sponsorship page "
+#~ "<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ "
+#~ "for details. Sponsoring QGIS helps us"
+#~ " to fund our six monthly developer"
+#~ " meetings, maintain project infrastructure "
+#~ "and fund bug fixing efforts."
 #~ msgstr ""
 
 #~ msgid ""
-#~ "You can now use just a subset a related fields when creating a vector join."
+#~ "You can now use just a subset "
+#~ "a related fields when creating a "
+#~ "vector join."
 #~ msgstr ""
+

@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:3
 msgid "The use of QGIS in the Geodata Infrastructure of the City of Uster"
@@ -17,51 +18,59 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:5
 msgid ""
-"The City of Uster has been using QGIS since 2007. Encouraged by the decision"
-" of the Kanton of Solothurn to use QGIS as a Desktop GIS replacement for "
-"ArcView, Uster decided to also give it a try. The city joined the effort for"
-" the further development of the QGIS application, by suggesting and testing "
-"new features and by financially supporting the development. In return Uster "
-"receives a rapidly evolving and platform independent Desktop GIS and WebGIS "
-"solution backed by a worldwide user and development community."
+"The City of Uster has been using QGIS since 2007. Encouraged by the "
+"decision of the Kanton of Solothurn to use QGIS as a Desktop GIS "
+"replacement for ArcView, Uster decided to also give it a try. The city "
+"joined the effort for the further development of the QGIS application, by"
+" suggesting and testing new features and by financially supporting the "
+"development. In return Uster receives a rapidly evolving and platform "
+"independent Desktop GIS and WebGIS solution backed by a worldwide user "
+"and development community."
+msgstr ""
+
+msgid "uster"
 msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
-"Postgis/PostgreSQL is used as a central geodata warehouse. Other databases "
-"and data sources are replicated into PostgreSQL at a regular interval, using"
-" tools such as OGR and FME. In the beginning QGIS was mainly used as a "
-"viewer. The first QGIS user was a farmer who had the task of supervising the"
-" declarations made by local farmers for receiving agricultural subsidies. "
-"Later, QGIS was also introduced as a data editor and map publishing "
-"platform, along with the improvements of the editing tools and the print "
-"composer. Together with other Swiss QGIS users (Solothurn, Thun and CDE "
-"(University of Berne)) we coordinate and sponsor the improvements of these "
-"tools, along with some improvements in data driven symbolization, automated "
-"labeling, attribute handling and forms."
+"Postgis/PostgreSQL is used as a central geodata warehouse. Other "
+"databases and data sources are replicated into PostgreSQL at a regular "
+"interval, using tools such as OGR and FME. In the beginning QGIS was "
+"mainly used as a viewer. The first QGIS user was a farmer who had the "
+"task of supervising the declarations made by local farmers for receiving "
+"agricultural subsidies. Later, QGIS was also introduced as a data editor "
+"and map publishing platform, along with the improvements of the editing "
+"tools and the print composer. Together with other Swiss QGIS users "
+"(Solothurn, Thun and CDE (University of Berne)) we coordinate and sponsor"
+" the improvements of these tools, along with some improvements in data "
+"driven symbolization, automated labeling, attribute handling and forms."
+msgstr ""
+
+msgid "uster location"
 msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
 "The city administration also uses commercial GIS software: Autodesk "
 "Topobase, for the capturing and editing of cadastral and waste-water "
-"infrastructure data, and GE Smallworld for the management of gas, water and "
-"electricity networks. However, these are expert systems in use by specially "
-"trained staff. All other GIS projects and the viewing of all data is handled"
-" by QGIS."
+"infrastructure data, and GE Smallworld for the management of gas, water "
+"and electricity networks. However, these are expert systems in use by "
+"specially trained staff. All other GIS projects and the viewing of all "
+"data is handled by QGIS."
 msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:21
 msgid ""
-"In the second half of 2010, first tests with QGIS server were carried out. "
-"In 2011 we introduced a new WebGIS system based on the QGIS WMS server and "
-"GeoExt/OpenLayers as the web client. The main reasons for the decision to "
-"use QGIS server were the considerable time savings made possible by re-using"
-" the existing QGIS desktop project configurations, rather than having to "
-"manage parallel Web project configurations. Additional advantages are the "
-"rich set of symbolization and labeling options and the consistent map "
-"rendering between the Desktop GIS application and the Web-GIS. The QGIS "
-"webclient can be tested and used at http://gis.uster.ch/"
+"In the second half of 2010, first tests with QGIS server were carried "
+"out. In 2011 we introduced a new WebGIS system based on the QGIS WMS "
+"server and GeoExt/OpenLayers as the web client. The main reasons for the "
+"decision to use QGIS server were the considerable time savings made "
+"possible by re-using the existing QGIS desktop project configurations, "
+"rather than having to manage parallel Web project configurations. "
+"Additional advantages are the rich set of symbolization and labeling "
+"options and the consistent map rendering between the Desktop GIS "
+"application and the Web-GIS. The QGIS webclient can be tested and used at"
+" http://gis.uster.ch/"
 msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:28
@@ -70,14 +79,14 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:30
 msgid ""
-"viewing of waste-water data, integration of additional databases and direct "
-"access to canal videos and inspection protocols"
+"viewing of waste-water data, integration of additional databases and "
+"direct access to canal videos and inspection protocols"
 msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:31
 msgid ""
-"viewing and editing for monitoring and the environmental and urban planning "
-"of the waste water and hydrology systems (german: Genereller "
+"viewing and editing for monitoring and the environmental and urban "
+"planning of the waste water and hydrology systems (german: Genereller "
 "Entwässerungsplan)"
 msgstr ""
 
@@ -93,8 +102,7 @@ msgid "viewing of cadastral and survey data"
 msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:34
-msgid ""
-"viewing and editing of the communal inventory of protected natural sites"
+msgid "viewing and editing of the communal inventory of protected natural sites"
 msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:35
@@ -107,34 +115,45 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:37
 msgid ""
-"viewing statistics generated directly from the database of current and past "
-"residents"
+"viewing statistics generated directly from the database of current and "
+"past residents"
+msgstr ""
+
+#: ../../source/site/about/case_studies/suisse_uster.rst:38
+msgid ""
+"planning and visualization for energy planning (gas supply regions, heat "
+"use from waste water, near-surface geothermal energy, block heating "
+"stations, etc.)"
+msgstr ""
+
+#: ../../source/site/about/case_studies/suisse_uster.rst:40
+msgid "Additional further projects are currently under development."
 msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:47
 msgid ""
 "In 2007 it was not entirely clear at what pace QGIS would be further "
-"developed and how both community and commercial support would evolve. Today "
-"it can be stated that the speed of development and the improvements made by "
-"the QGIS community exceeded our expectations. Community and commercial "
-"support from the companies Sourcepole and Norbit is excellent. There is a "
-"direct communication with developers without being shielded away by a "
-"product management or sales team. The developers of these two companies are "
-"also lead developers of the QGIS project and have excellent knowledge of the"
-" code base."
+"developed and how both community and commercial support would evolve. "
+"Today it can be stated that the speed of development and the improvements"
+" made by the QGIS community exceeded our expectations. Community and "
+"commercial support from the companies Sourcepole and Norbit is excellent."
+" There is a direct communication with developers without being shielded "
+"away by a product management or sales team. The developers of these two "
+"companies are also lead developers of the QGIS project and have excellent"
+" knowledge of the code base."
 msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:49
 msgid ""
 "Bugs are often fixed within hours or days after reporting and new "
 "developments are implemented in a short time frame. New features can be "
-"tested immediately after development and deployed to the users whenever the "
-"quality is good enough for the end user. There is no need to wait for "
-"official software releases. We enjoy the freedom of being able to influence "
-"the project and to install the software on as many computers we like without"
-" having to deal with licensing management. We are looking forward to future "
-"collaboration with the QGIS community and our commercial supporters for the "
-"advancement of the QGIS project."
+"tested immediately after development and deployed to the users whenever "
+"the quality is good enough for the end user. There is no need to wait for"
+" official software releases. We enjoy the freedom of being able to "
+"influence the project and to install the software on as many computers we"
+" like without having to deal with licensing management. We are looking "
+"forward to future collaboration with the QGIS community and our "
+"commercial supporters for the advancement of the QGIS project."
 msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:52
@@ -147,23 +166,24 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:61
 msgid ""
-"This article was contributed in April 2011 by Dr. Andreas Neumann. He is GIS"
-" coordinator at the City of Uster, Switzerland."
+"This article was contributed in April 2011 by Dr. Andreas Neumann. He is "
+"GIS coordinator at the City of Uster, Switzerland."
 msgstr ""
 
-#: ../../source/site/about/case_studies/suisse_uster.rst:38
-msgid ""
-"planning and visualization for energy planning (gas supply regions, heat use"
-" from waste water, near-surface geothermal energy, block heating stations, "
-"etc.)"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
 msgstr ""
 
-#: ../../source/site/about/case_studies/suisse_uster.rst:40
-msgid "Additional further projects are currently under development."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid ""
-#~ "Planning and visualization for energy planning (gas supply regions, heat use"
-#~ " from waste water, near-surface geothermal energy, block heating stations, "
-#~ "etc.) Additional further projects are currently under development."
+#~ "Planning and visualization for energy "
+#~ "planning (gas supply regions, heat use"
+#~ " from waste water, near-surface "
+#~ "geothermal energy, block heating stations, "
+#~ "etc.) Additional further projects are "
+#~ "currently under development."
 #~ msgstr ""
+
