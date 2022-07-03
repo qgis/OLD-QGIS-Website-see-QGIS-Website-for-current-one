@@ -76,7 +76,7 @@ This feature was developed by `Nyall Dawson (North Road Consulting) <https://nor
 Feature: Copy preview expression value to clipboard
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A new button has been added to the expression builder interface which allows the copying of the value in the expression preview field to be copied to the clipboard.
+A new button has been added to the expression builder interface which allows the copying of the value in the expression preview field to the clipboard.
 
 |image6|
 
@@ -312,7 +312,7 @@ A 3D axis annotation has been added to the 3D map viewer allowing users to bette
 This various additional includes controls and options for:
 
 -  Displaying axis for X/Y/Z or using North/East/South/West based on the frame coordinate reference system (CRS)
--  Dsplaying a face-labeled cube instead of typical axis arrows
+-  Displaying a face-labeled cube instead of typical axis arrows
 
 |image21|
 
