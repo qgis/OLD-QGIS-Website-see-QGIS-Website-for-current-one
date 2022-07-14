@@ -44,7 +44,7 @@ To use IRC: install an IRC client and connect to irc://irc.libera.chat/#qgis or 
 
 Facebook
 ........
-For Facebook users, an english-speaking global community group for QGIS users can be found at https://facebook.com/groups/612486875596534
+For Facebook users, an english-speaking global community group for QGIS users can be found at https://www.facebook.com/groups/qgiscommunityofficialvirtualgroup
 
 
 User Groups
