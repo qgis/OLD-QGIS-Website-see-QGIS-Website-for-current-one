@@ -63,7 +63,7 @@ Various third-party touch optimized apps allow you to take QGIS into the field
 .. figure:: /static/site/about/images/input.jpg
    :alt: Mergin Maps Input app
 
-   A screenshot of Mergin Maps Input app (available for Android, iOS)
+   A screenshot of Mergin Maps Input app (available for Android, iOS, Windows)
 
 `IntraMaps Roam <https://roam-docs.readthedocs.io>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
