@@ -4,7 +4,7 @@
         <p class="main">{{ _('Binary packages (installers) are available from this page.') }}</p>
         <p class="main">{{ _('The current version is QGIS %s \'%s\' and was released on %s.')|format( release, codename, releasedate.strftime('%d.%m.%Y') ) }}</p>
         <p class="main">{{ _('The long-term repositories currently offer QGIS %s \'%s\'.')|format( ltrrelease, ltrcodename ) }}</p>
-        <p class="main">{{ _('QGIS is available on Windows, macOS, Linux and Android.') }}</p>
+        <p class="main">{{ _('QGIS is available on Windows, macOS, Linux, Android and iOS.') }}</p>
 {% if infeaturefreeze == True %}
         <p class="main">
           {{ _('We are currently in feature freeze preceeding the release of QGIS %s. <b>Please consider testing the prereleases</b>. See ')|format(nextversion) }}
@@ -185,10 +185,11 @@
                             <a class='app-download-button' href='https://download.opengis.ch/qfield/ci-builds/win/'><img alt='Get it for Windows' src="{{pathto('_static/images/app_download_windows.png', 1)}}"/></a>
                             <a class='app-download-button' href='https://www.github.com/opengisch/qfield/releases'><img alt='Get it on GitHub' src="{{pathto('_static/images/app_download_gh.png', 1)}}"/></a>
                         </div>
-                        <h5 class="app-name"><a href="https://merginmaps.com/">{{ _('Mergin Maps Input app (available for Android and iOS devices)') }}</a></h5>
+                        <h5 class="app-name"><a href="https://merginmaps.com/">{{ _('Mergin Maps Input app (available for Android, iOS and Windows devices)') }}</a></h5>
                         <div class='app-download-buttons clearfix'>
                             <a class='app-download-button' href='https://play.google.com/store/apps/details?id=uk.co.lutraconsulting&utm_source=qgis.org'><img alt='Get it on Google Play' src="{{pathto('_static/images/app_download_play_store.png', 1)}}"/></a>
                             <a class='app-download-button' href='https://apps.apple.com/us/app/input/id1478603559'><img alt='Get it for iOS' src="{{pathto('_static/images/app_download_apple_store.png', 1)}}"/></a>
+                            <a class='app-download-button' href='https://www.github.com/MerginMaps/input/releases'><img alt='Get it for Windows' src="{{pathto('_static/images/app_download_windows.png', 1)}}"/></a>
                             <a class='app-download-button' href='https://www.github.com/MerginMaps/input/releases'><img alt='Get it on GitHub' src="{{pathto('_static/images/app_download_gh.png', 1)}}"/></a>
                         </div>
                         <h5 class="app-name"><a href="https://roam-docs.readthedocs.io">IntraMaps Roam</a></h5>
