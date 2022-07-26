@@ -8,7 +8,7 @@ Website is a static generated website using Sphinx (http://sphinx-doc.org/),
 based on restructured text sources (rst: http://docutils.sourceforge.net/rst.html)
 and html (jinja2) templates.
 
-Most sources are in source/site. Only frontpage and landingpages are in theme/qgis-theme
+Most sources are in source/site. Only frontpage and landing pages are in theme/qgis-theme
 
 Styling is in theme/qgis-theme. This theme is used for website and documentation builds. 
 The Website version is the canonical one.
@@ -25,11 +25,11 @@ https://github.com/qgis/QGIS-Sysadmin/blob/master/docker/sphinx/Dockerfile-html
 
 First: install Docker.
 
-On Linux: use your package-manager.
+On Linux: use your package manager.
 
 On Windows: install boot2docker from: http://boot2docker.io/
 Some notes: you need admin rights to do this: the install script will generate some keys, just accept all defaults.
-If it does not work the first time, check if you need to 'enable virtualisation' in your BIOS (eg Lenovo disables it  by default).
+If it does not work the first time, check if you need to 'enable virtualization' in your BIOS (eg Lenovo disables it by default).
 
 Start a command box (on Windows: double click the boot2docker icon on desktop, you will get a terminal):
 
@@ -37,7 +37,7 @@ Verify that Docker/Boot2docker is working by typing:
 
     docker run hello-world
   
-If all goes ok, it will download a small Docker image and you will have output like this:
+If all goes ok, it will download a small Docker image and you will have an output like this:
 
     richard@kwik~$ docker run hello-world
     Unable to find image 'hello-world:latest' locally
@@ -64,7 +64,7 @@ either your own fork or the original QGIS repo like here:
     # on Win7 and Win8 I had:
     /c/Users/richard/dev/QGIS-Website
  
-We are now going to use that QGIS-Website directory as source and output directory for the 
+We are now going to use that QGIS-Website directory as the source and output directory for the 
 Docker 'virtual machine' that will build the site.
 We will start this Docker container with a command line like below:
 
@@ -93,7 +93,7 @@ IMPORTANT you need 2x a double // in the command !!!   Without it you will get a
 
 Note: only the first time it will pull the qgis/sphinx_html_3 image (>300Mb) from the online repository https://hub.docker.com/u/qgis/
 
-Now if you want to build a translated website, there is some more work to do. We have to pull the translations from transifex etc. You need your own transifex credentials to do this. So first get an account/password at www.transifex.com and then create a so called '.transifexrc' file which is used to authorize you at transifex.
+Now if you want to build a translated website, there is some more work to do. We have to pull the translations from transifex etc. You need your own transifex credentials to do this. So first get an account/password at www.transifex.com and then create a so-called '.transifexrc' file which is used to authorize you at transifex.
 The contents of this file should be like this:
 
     [https://www.transifex.com]
@@ -102,12 +102,12 @@ The contents of this file should be like this:
     token = 
     username = yourusernamehere
 
-Copy this file in the root of your repo. With me that is /home/richard/dev/QGIS-Website. NOW you can run it using 'make full' and a LANG parameter like this:
+Copy this file to the root of your repo. With me, that is /home/richard/dev/QGIS-Website. NOW you can run it using 'make full' and a LANG parameter like this:
 
     # french html (linux)
     docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make full LANG=fr
 
-Besides this you can also have a look into the scripts docker-run.sh and docker-world.sh which are used on our own webservers.
+Besides this, you can also have a look into the scripts docker-run.sh and docker-world.sh which are used on our own webservers.
 
 Building the website using Make
 -------------------------------
@@ -115,7 +115,7 @@ Building the website using Make
 Building is only tested on Linux systems using make, on windows we now started a Paver setup (see below)
 
 To be able to run localisation targets you will need Sphinx 1.2 which comes with pip. 
-Sphinx coming with most distro's is just 1.1.3. You will get an gettext error with those.
+Sphinx coming with most distro's is just 1.1.3. You will get a gettext error with those.
 
 Best to run the make file in a virtual env ( http://www.virtualenv.org/ ):
 
@@ -134,11 +134,11 @@ Now always activate your environment before building. To deactivate, you can do:
 
     deactivate
 
-You can install all tools in on go via the REQUIREMENTS.txt here in root of this repo:
+You can install all tools in one go via the REQUIREMENTS.txt here at the root of this repo:
 
     pip install -r REQUIREMENTS.txt
 
-Alternatively do it one by one:
+Alternatively, do it one by one:
 
 Install sphinx 1.2 now in your virtual env:
 
