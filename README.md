@@ -134,7 +134,7 @@ Now always activate your environment before building. To deactivate, you can do:
 
     deactivate
 
-You can install all tools on go via the REQUIREMENTS.txt here at the root of this repo:
+You can install all tools in one go via the REQUIREMENTS.txt here at the root of this repo:
 
     pip install -r REQUIREMENTS.txt
 
