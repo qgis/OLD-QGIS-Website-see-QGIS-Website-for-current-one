@@ -13,6 +13,14 @@ Most sources are in source/site. Only frontpage and landing pages are in theme/q
 Styling is in theme/qgis-theme. This theme is used for website and documentation builds. 
 The Website version is the canonical one.
 
+Development (Quick Start)
+-------------------------
+```
+cd QGIS-Website
+docker run -t -i -v `pwd`:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make html
+docker run -p 80:80 -v `pwd`/output/html:/usr/share/nginx/html nginx
+open http://localhost/en/site/
+```
 
 Building the website using Docker
 ---------------------------------
