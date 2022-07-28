@@ -16,10 +16,15 @@ The Website version is the canonical one.
 Development (Quick Start)
 -------------------------
 ```
+# move into the dir of this repo:
 cd QGIS-Website
+# perform the actualy building of the html (using our 'qgis/sphinx_html_3' image)
 docker run -t -i -v `pwd`:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make html
+# now serve the output of the build on port 80 (usign nginx image) so you can view it in your browser
 docker run -p 80:80 -v `pwd`/output/html:/usr/share/nginx/html nginx
+# open it in your browser:
 open http://localhost/en/site/
+#  (make sure there is not another webserver running on port 80, if so change to another port in the nginx start above, eg 8000 and then use http://localhost:8000/en/site)
 ```
 
 Building the website using Docker
