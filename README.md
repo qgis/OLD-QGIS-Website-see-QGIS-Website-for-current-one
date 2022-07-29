@@ -112,7 +112,7 @@ Copy this file to the root of your repo. With me, that is /home/richard/dev/QGIS
 <h3>6. Run</h3>
 NOW you can run it using 'make full' and a LANG parameter like this:
 
-    # french html (linux)
+    # french html (Linux)
     docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make full LANG=fr
 
 Besides this, you can also have a look into the scripts docker-run.sh and docker-world.sh which are used on our own webservers.
