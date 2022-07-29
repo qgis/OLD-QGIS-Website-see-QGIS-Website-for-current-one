@@ -226,7 +226,7 @@ General use:
 To be able to build localized versions of the Website with paver the
 'Transifex-client (tx)' is needed.
 
-On ***linux***, install with::
+On ***Linux***, install with::
 
 	# note that we use a slightly older version of tx
 	pip install transifex-client==0.9
