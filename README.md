@@ -23,7 +23,7 @@ Note: you will use a QGIS docker image from hub.docker.com, created with the doc
 
 https://github.com/qgis/QGIS-Sysadmin/blob/master/docker/sphinx/Dockerfile-html
 
-<h3>1.Install Docker</h3>
+<h3>1. Install Docker</h3>
 
 On ***Linux***: use your package manager.
 
