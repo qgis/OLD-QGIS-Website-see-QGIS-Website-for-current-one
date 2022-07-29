@@ -91,7 +91,7 @@ On ***linux***, use your own repo path here!:
     # english html
     docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make html
 
-On ***windows*** (tested on Win7 and Win8), use your own repo path here!
+On ***Windows*** (tested on Win7 and Win8), use your own repo path here!
 
 IMPORTANT you need 2x a double ```//``` in the command !!!   Without it you will get an error message about a wrong working directory:
 
