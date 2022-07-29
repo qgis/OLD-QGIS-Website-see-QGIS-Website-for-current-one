@@ -86,7 +86,7 @@ Use the directory "/home/richard/dev/QGIS-Website" as a virtual directory in the
 
 <h4>Actual command lines:</h4>
 
-On ***linux***, use your own repo path here!:
+On ***Linux***, use your own repo path here!:
 
     # english html
     docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make html
