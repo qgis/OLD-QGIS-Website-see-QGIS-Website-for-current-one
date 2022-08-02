@@ -809,7 +809,7 @@ Additionally, extra settings like the distance units, area units, ellipsoid and 
 
 (Specifying input parameters via stdin implies automatically the --json output format for results.)
 
-One big motivation behind this enhancement is to provide a way for the qgisprocess R libraries to support parameter types such as aggregates!
+One big motivation behind this enhancement is to provide a way for the qgis\_process R libraries to support parameter types such as aggregates!
 
 This feature was funded by the `Research Institute for Nature and Forest <https://www.inbo.be/en>`__, Flemish Govt
 
