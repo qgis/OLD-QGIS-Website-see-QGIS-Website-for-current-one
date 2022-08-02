@@ -335,11 +335,9 @@ to install both client and server applications on the same machine), type::
 |               |             | version      | version      |
 |               |             |              |              |
 +===============+=============+==============+==============+
-| Fedora        | 33          | 3.22         | 7.8          |
+| Fedora        | 35          | 3.24         | 7.8          |
 |               +-------------+--------------+--------------+
-|               | 34          | 3.22         | 7.8          |
-|               +-------------+--------------+--------------+
-|               | 35          | 3.22         | 7.8          |
+|               | 36          | 3.26         | 8.0          |
 +---------------+-------------+--------------+--------------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis/
@@ -365,11 +363,9 @@ to install both client and server applications on the same machine), type::
 |               |             | version      | version      |
 |               |             |              |              |
 +===============+=============+==============+==============+
-| Fedora        | 33          | 3.16         | 7.8          |
+| Fedora        | 35          | 3.22         | 7.8          |
 |               +-------------+--------------+--------------+
-|               | 34          | 3.16         | 7.8          |
-|               +-------------+--------------+--------------+
-|               | 35          | 3.16         | 7.8          |
+|               | 36          | 3.22         | 8.0          |
 +---------------+-------------+--------------+--------------+
 
 More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/
