@@ -783,23 +783,33 @@ We now provide a mechanism to support complex input parameters for algorithms wh
 
 To indicate that parameters will be specified via stdin then the qgis\_process command must follow the format
 
-``qgis_process run algid -``
+.. code-block::
 
-(with a trailing - in place of the usual arguments list).
+  qgis_process run algid -
+
+(with a trailing ``-`` in place of the usual arguments list).
 
 The JSON object must contain an "inputs" key, which is a map of the input parameter values.
 
-e.g.
+.. code-block::
 
-``echo "{"inputs": {\"INPUT\": \"my_shape.shp\", DISTANCE: 5}}" | qgis_process run native:buffer -``
+  echo "{"inputs": {\"INPUT\": \"my_shape.shp\", DISTANCE: 5}}" | qgis_process run native:buffer -
 
 Additionally, extra settings like the distance units, area units, ellipsoid and project path can be included in this JSON object:
 
-``{       'ellipsoid': 'EPSG:7019',       'distance_units': 'feet',       'area_units': 'ha',       'project_path': 'c:/temp/my_project.qgs'       'inputs': {'DISTANCE': 5, ..... }     }``
+.. code-block::
+ 
+  {
+      'ellipsoid': 'EPSG:7019',
+      'distance_units': 'feet',
+      'area_units': 'ha',
+      'project_path': 'c:/temp/my_project.qgs'
+      'inputs': {'DISTANCE': 5, ..... }
+  }
 
 (Specifying input parameters via stdin implies automatically the --json output format for results.)
 
-One big motivation behind this enhancement is to provide a way for the qgisprocess R libraries to support parameter types such as aggregates!
+One big motivation behind this enhancement is to provide a way for the qgis\_process R libraries to support parameter types such as aggregates!
 
 This feature was funded by the `Research Institute for Nature and Forest <https://www.inbo.be/en>`__, Flemish Govt
 
