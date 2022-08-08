@@ -116,7 +116,7 @@ First install some tools you will need for this instructions::
 Now install the QGIS Signing Key, so QGIS software from 
 the QGIS repo will be trusted and installed::
 
- wget -qO - https://qgis.org/downloads/qgis-2021.gpg.key | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
+ wget -qO - https://qgis.org/downloads/qgis-2022.gpg.key | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
  sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
 
 Add the QGIS repo for the latest stable QGIS (|version|.x |codename|).
@@ -280,24 +280,24 @@ In case you would like to install QGIS Server, type::
 In case of keyserver errors add the qgis.org repository public key to
 your apt keyring, type::
 
- wget -O - https://qgis.org/downloads/qgis-2021.gpg.key | gpg --import
- gpg --fingerprint 46B5721DBBD2996A
+ wget -O - https://qgis.org/downloads/qgis-2022.gpg.key | gpg --import
+ gpg --fingerprint D155B8E6A419C5BE
 
 Should output::
 
- pub   rsa4096 2021-08-09 [SCEA] [expires: 2022-08-09]
-       2445 D6B2 54DA C452 A498  989E 46B5 721D BBD2 996A
- uid           [ultimate] QGIS Archive Automatic Signing Key (2021) <qgis-developer@lists.osgeo.org>
+ pub   rsa4096 2022-08-08 [SCEA] [expires: 2027-08-08]
+       2D7E 3441 A707 FDB3 E705  9441 D155 B8E6 A419 C5BE
+uid           [ unknown] QGIS Archive Automatic Signing Key (2022-2027) <qgis-developer@lists.osgeo.org>
 
 After you have verified the fingerprint you can add the key to apt with::
 
- gpg --export --armor 46B5721DBBD2996A | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
+ gpg --export --armor D155B8E6A419C5BE | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
  sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
 
 Alternatively you can download the key from a keyserver and add the key to apt
 in without manual fingerprint verification::
         
- wget -qO - https://qgis.org/downloads/qgis-2021.gpg.key | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
+ wget -qO - https://qgis.org/downloads/qgis-2022.gpg.key | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
  sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
 
 
