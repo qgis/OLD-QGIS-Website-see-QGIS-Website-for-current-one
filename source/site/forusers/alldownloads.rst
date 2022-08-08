@@ -287,7 +287,7 @@ Should output::
 
  pub   rsa4096 2022-08-08 [SCEA] [expires: 2027-08-08]
        2D7E 3441 A707 FDB3 E705  9441 D155 B8E6 A419 C5BE
-uid           [ unknown] QGIS Archive Automatic Signing Key (2022-2027) <qgis-developer@lists.osgeo.org>
+ uid           [ unknown] QGIS Archive Automatic Signing Key (2022-2027) <qgis-developer@lists.osgeo.org>
 
 After you have verified the fingerprint you can add the key to apt with::
 
