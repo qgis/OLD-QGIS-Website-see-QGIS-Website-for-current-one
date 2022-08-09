@@ -116,14 +116,13 @@ First install some tools you will need for this instructions::
 Now install the QGIS Signing Key, so QGIS software from 
 the QGIS repo will be trusted and installed::
 
- wget -qO - https://qgis.org/downloads/qgis-2022.gpg.key | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
- sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
+ wget -O- https://qgis.org/downloads/qgis-2022.gpg.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/qgis-archive.gpg
 
 Add the QGIS repo for the latest stable QGIS (|version|.x |codename|).
 
 Note: "lsb_release -c -s" in those lines will return your distro name::
 
- sudo add-apt-repository "deb https://qgis.org/ubuntu $(lsb_release -c -s) main"
+ echo "deb [signed-by=/usr/share/keyrings/qgis-archive.gpg] https://qgis.org/ubuntu $(lsb_release -c -s) main" | sudo tee /etc/apt/sources.list.d/qgis.list
 
 Update your repository information to reflect also the just added QGIS one::
 
@@ -143,7 +142,7 @@ Default Debian and Ubuntu software repositories often hold older versions of
 QGIS.
 
 To have newer versions, you have to add alternative software repositories, by
-adding one of the deb-lines below to your /etc/apt/sources.list file.
+adding one of the deb-lines below to your /etc/apt/sources.list.d/qgis.list file.
 
 Our main repository contains multiple lines of packages for several versions of
 **Debian and Ubuntu** based on the dependencies the individual distributions
@@ -153,7 +152,7 @@ For Ubuntu we also used to have extra packages in a separate repository that
 are based on `ubuntugis <https://launchpad.net/~ubuntugis>`_, which held more
 uptodate versions of other GIS packages than Ubuntu itself for LTS versions. If
 you want those you also need to include ubuntugis-unstable ppa in your
-/etc/apt/sources.list file (see `ubuntugis documentation
+/etc/apt/sources.list.d/qgis.list file (see `ubuntugis documentation
 <https://trac.osgeo.org/ubuntugis/wiki/UbuntuGISRepository>`_).
 
 
@@ -250,7 +249,7 @@ Supported distribution versions:
 +---------------+----------------+------------+-----------------------+
 
 
-Add the lines for one of the repositories to your ``/etc/apt/sources.list``::
+Add the lines for one of the repositories to your ``/etc/apt/sources.list.d/qgis.list``::
 
  deb     *repository* *codename* main
  deb-src *repository* *codename* main
@@ -275,11 +274,10 @@ In case you would like to install QGIS Server, type::
 .. note:: Please remove all the QGIS and GRASS packages you may have
    installed from other repositories before doing the update.
 
-In case of keyserver errors add the qgis.org repository public key to
-your apt keyring, type::
+In case of keyserver errors, download the qgis.org repository public key with::
 
- wget -O - https://qgis.org/downloads/qgis-2022.gpg.key | gpg --import
- gpg --fingerprint D155B8E6A419C5BE
+ wget https://qgis.org/downloads/qgis-2022.gpg.key
+ gpg --show-keys qgis-2022.gpg.key
 
 Should output::
 
@@ -287,16 +285,13 @@ Should output::
        2D7E 3441 A707 FDB3 E705  9441 D155 B8E6 A419 C5BE
  uid           [ unknown] QGIS Archive Automatic Signing Key (2022-2027) <qgis-developer@lists.osgeo.org>
 
-After you have verified the fingerprint you can add the key to apt with::
+After you have verified the fingerprint you can install the key with::
 
- gpg --export --armor D155B8E6A419C5BE | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
- sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
+ sudo gpg --yes -o /usr/share/keyrings/qgis-archive.gpg --dearmor qgis-2022.gpg.key
 
-Alternatively you can download the key from a keyserver and add the key to apt
-in without manual fingerprint verification::
+Alternatively you can download the key from a keyserver without manual fingerprint verification::
         
- wget -qO - https://qgis.org/downloads/qgis-2022.gpg.key | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
- sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
+ wget -O- https://qgis.org/downloads/qgis-2022.gpg.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/qgis-archive.gpg
 
 
 Fedora
