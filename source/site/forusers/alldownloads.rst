@@ -116,13 +116,13 @@ First install some tools you will need for this instructions::
 Now install the QGIS Signing Key, so QGIS software from 
 the QGIS repo will be trusted and installed::
 
- wget -O- https://qgis.org/downloads/qgis-2022.gpg.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/qgis-archive.gpg
+ sudo wget -O/usr/share/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
 
 Add the QGIS repo for the latest stable QGIS (|version|.x |codename|).
 
 Note: "lsb_release -c -s" in those lines will return your distro name::
 
- echo "deb [signed-by=/usr/share/keyrings/qgis-archive.gpg] https://qgis.org/ubuntu $(lsb_release -c -s) main" | sudo tee /etc/apt/sources.list.d/qgis.list
+ echo "deb [signed-by=/usr/share/keyrings/qgis-archive-keyring.gpg] https://qgis.org/debian $(lsb_release -c -s) main" | sudo tee /etc/apt/sources.list.d/qgis.list
 
 Update your repository information to reflect also the just added QGIS one::
 
@@ -248,16 +248,36 @@ Supported distribution versions:
 |               | 20.04 (LTS)    | focal      | yes                   |
 +---------------+----------------+------------+-----------------------+
 
+To use the qgis archive you have to first add the archive's repository public key::
 
-Add the lines for one of the repositories to your ``/etc/apt/sources.list.d/qgis.list``::
+ wget https://download.qgis.org/downloads/qgis-archive-keyring.gpg
+ gpg --no-default-keyring --keyring ./qgis-archive-keyring.gpg --list-keys
+ 
+Should output::
 
- deb     *repository* *codename* main
- deb-src *repository* *codename* main
+ ./qgis-archive-keyring.gpg
+ --------------------------
+ pub   rsa4096 2022-08-08 [SCEA] [expires: 2027-08-08]
+       2D7E3441A707FDB3E7059441D155B8E6A419C5BE
+ uid           [ unknown] QGIS Archive Automatic Signing Key (2022-2027) <qgis-developer@lists.osgeo.org>
 
-Example latest release for Debian unstable::
+After you have verified the output you can install the key with::
 
- deb     https://qgis.org/debian unstable main
- deb-src https://qgis.org/debian unstable main
+  sudo cp qgis-archive-keyring.gpg /usr/share/keyrings/qgis-archive-keyring.gpg
+
+Alternatively you can download the key directly without manual verification::
+        
+ wget -O/usr/share/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
+
+With the keyring in place you can add the repository to as ``/etc/apt/sources.list.d/qgis.list`` with following content::
+
+ deb     [signed-by=/usr/share/keyrings/qgis-archive-keyring.gpg] *repository* *codename* main
+ deb-src [signed-by=/usr/share/keyrings/qgis-archive-keyring.gpg] *repository* *codename* main
+
+Example for the latest release for Debian unstable::
+
+ deb     [signed-by=/usr/share/keyrings/qgis-archive-keyring.gpg] https://qgis.org/debian unstable main
+ deb-src [signed-by=/usr/share/keyrings/qgis-archive-keyring.gpg] https://qgis.org/debian unstable main
 
 After that type the commands below to install QGIS::
 
@@ -273,25 +293,6 @@ In case you would like to install QGIS Server, type::
 
 .. note:: Please remove all the QGIS and GRASS packages you may have
    installed from other repositories before doing the update.
-
-In case of keyserver errors, download the qgis.org repository public key with::
-
- wget https://qgis.org/downloads/qgis-2022.gpg.key
- gpg --show-keys qgis-2022.gpg.key
-
-Should output::
-
- pub   rsa4096 2022-08-08 [SCEA] [expires: 2027-08-08]
-       2D7E 3441 A707 FDB3 E705  9441 D155 B8E6 A419 C5BE
- uid           [ unknown] QGIS Archive Automatic Signing Key (2022-2027) <qgis-developer@lists.osgeo.org>
-
-After you have verified the fingerprint you can install the key with::
-
- sudo gpg --yes -o /usr/share/keyrings/qgis-archive.gpg --dearmor qgis-2022.gpg.key
-
-Alternatively you can download the key from a keyserver without manual fingerprint verification::
-        
- wget -O- https://qgis.org/downloads/qgis-2022.gpg.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/qgis-archive.gpg
 
 
 Fedora
