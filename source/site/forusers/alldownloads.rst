@@ -464,7 +464,7 @@ QGIS on Flathub: https://flathub.org/apps/details/org.qgis.qgis
 
 To install::
 
- flatpak install --from  https://dl.flathub.org/repo/appstream/org.qgis.qgis.flatpakref
+ flatpak install --from https://dl.flathub.org/repo/appstream/org.qgis.qgis.flatpakref
 
 Then to run::
 
