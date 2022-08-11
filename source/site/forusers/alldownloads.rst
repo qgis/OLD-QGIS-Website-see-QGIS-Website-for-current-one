@@ -116,13 +116,23 @@ First install some tools you will need for this instructions::
 Now install the QGIS Signing Key, so QGIS software from 
 the QGIS repo will be trusted and installed::
 
- sudo wget -O/usr/share/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
+ sudo mkdir -p /etc/apt/keyrings && sudo chmod 755 /etc/apt/keyrings
+ sudo wget -O/etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
 
-Add the QGIS repo for the latest stable QGIS (|version|.x |codename|).
+Add the QGIS repo for the latest stable QGIS (|version|.x |codename|) to ``/etc/apt/sources.list.d/qgis.sources``::
 
-Note: "lsb_release -c -s" in those lines will return your distro name::
+  Types: deb deb-src
+  URIs: https://qgis.org/debian
+  Suites: bullseye
+  Architectures: amd64
+  Components: main
+  Signed-By: /etc/apt/keyrings/qgis-archive-keyring.gpg
 
- echo "deb [signed-by=/usr/share/keyrings/qgis-archive-keyring.gpg] https://qgis.org/debian $(lsb_release -c -s) main" | sudo tee /etc/apt/sources.list.d/qgis.list
+.. note:: ``Suites`` in above lines depends on your distribution. ``lsb_release -cs`` will show your distribution name.
+
+   In some distributions (like Linux Mint), ``. /etc/os-release; echo "$UBUNTU_CODENAME"`` will show the correct distibution name.
+
+   See `Available codenames`_.
 
 Update your repository information to reflect also the just added QGIS one::
 
@@ -132,7 +142,7 @@ Now, install QGIS::
 
  sudo apt install qgis qgis-plugin-grass
 
-.. note:: Add 'qgis-server' to this line if you also want to install QGIS Server
+.. note:: Add ``qgis-server`` to this line if you also want to install QGIS Server
 
 
 Repositories
@@ -142,7 +152,7 @@ Default Debian and Ubuntu software repositories often hold older versions of
 QGIS.
 
 To have newer versions, you have to add alternative software repositories, by
-adding one of the deb-lines below to your /etc/apt/sources.list.d/qgis.list file.
+adding one of the deb-lines below to your /etc/apt/sources.list.d/qgis.sources file.
 
 Our main repository contains multiple lines of packages for several versions of
 **Debian and Ubuntu** based on the dependencies the individual distributions
@@ -229,6 +239,7 @@ Lines of packages:
 | Next release: |nextreleasedate|
 | (more dates see Release Schedule on :doc:`../getinvolved/development/roadmap`)
 
+.. _Available codenames:
 
 Supported distribution versions:
 
@@ -250,46 +261,56 @@ Supported distribution versions:
 
 To use the qgis archive you have to first add the archive's repository public key::
 
- wget https://download.qgis.org/downloads/qgis-archive-keyring.gpg
- gpg --no-default-keyring --keyring ./qgis-archive-keyring.gpg --list-keys
+  wget https://download.qgis.org/downloads/qgis-archive-keyring.gpg
+  gpg --no-default-keyring --keyring ./qgis-archive-keyring.gpg --list-keys
  
 Should output::
 
- ./qgis-archive-keyring.gpg
- --------------------------
- pub   rsa4096 2022-08-08 [SCEA] [expires: 2027-08-08]
-       2D7E3441A707FDB3E7059441D155B8E6A419C5BE
- uid           [ unknown] QGIS Archive Automatic Signing Key (2022-2027) <qgis-developer@lists.osgeo.org>
+  ./qgis-archive-keyring.gpg
+  --------------------------
+  pub   rsa4096 2022-08-08 [SCEA] [expires: 2027-08-08]
+        2D7E3441A707FDB3E7059441D155B8E6A419C5BE
+  uid           [ unknown] QGIS Archive Automatic Signing Key (2022-2027) <qgis-developer@lists.osgeo.org>
 
 After you have verified the output you can install the key with::
 
-  sudo cp qgis-archive-keyring.gpg /usr/share/keyrings/qgis-archive-keyring.gpg
+  sudo mkdir -p /etc/apt/keyrings && sudo chmod 755 /etc/apt/keyrings
+  sudo cp qgis-archive-keyring.gpg /etc/apt/keyrings/qgis-archive-keyring.gpg
 
 Alternatively you can download the key directly without manual verification::
         
- wget -O/usr/share/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
+  sudo mkdir -p /etc/apt/keyrings && sudo chmod 755 /etc/apt/keyrings
+  sudo wget -O/etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
 
-With the keyring in place you can add the repository to as ``/etc/apt/sources.list.d/qgis.list`` with following content::
+With the keyring in place you can add the repository to as ``/etc/apt/sources.list.d/qgis.sources`` with following content::
 
- deb     [signed-by=/usr/share/keyrings/qgis-archive-keyring.gpg] *repository* *codename* main
- deb-src [signed-by=/usr/share/keyrings/qgis-archive-keyring.gpg] *repository* *codename* main
+  Types: deb deb-src
+  URIs: *repository*
+  Suites: *codename*
+  Architectures: amd64
+  Components: main
+  Signed-By: /etc/apt/keyrings/qgis-archive-keyring.gpg
 
-Example for the latest release for Debian unstable::
+Example for the latest long term release for Ubuntu 22.04 Jammy::
 
- deb     [signed-by=/usr/share/keyrings/qgis-archive-keyring.gpg] https://qgis.org/debian unstable main
- deb-src [signed-by=/usr/share/keyrings/qgis-archive-keyring.gpg] https://qgis.org/debian unstable main
+  Types: deb deb-src
+  URIs: https://qgis.org/ubuntu-ltr
+  Suites: jammy
+  Architectures: amd64
+  Components: main
+  Signed-By: /etc/apt/keyrings/qgis-archive-keyring.gpg
 
 After that type the commands below to install QGIS::
 
- sudo apt update
- sudo apt install qgis qgis-plugin-grass
+  sudo apt update
+  sudo apt install qgis qgis-plugin-grass
 
 In case you would like to install QGIS Server, type::
 
- sudo apt update
- sudo apt install qgis-server --no-install-recommends --no-install-suggests
- # if you want to install server Python plugins
- apt install python-qgis
+  sudo apt update
+  sudo apt install qgis-server --no-install-recommends --no-install-suggests
+  # if you want to install server Python plugins
+  apt install python-qgis
 
 .. note:: Please remove all the QGIS and GRASS packages you may have
    installed from other repositories before doing the update.
