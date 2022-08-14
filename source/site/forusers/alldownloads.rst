@@ -116,8 +116,8 @@ First install some tools you will need for this instructions::
 Now install the QGIS Signing Key, so QGIS software from 
 the QGIS repo will be trusted and installed::
 
- sudo mkdir -p /etc/apt/keyrings && sudo chmod 755 /etc/apt/keyrings
- sudo wget -O/etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
+ sudo mkdir -m755 -p /etc/apt/keyrings  # not needed since apt version 2.4.0 like Debian 12 and Ubuntu 22 or newer
+ sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
 
 Add the QGIS repo for the latest stable QGIS (|version|.x |codename|) to ``/etc/apt/sources.list.d/qgis.sources``::
 
@@ -274,13 +274,13 @@ Should output::
 
 After you have verified the output you can install the key with::
 
-  sudo mkdir -p /etc/apt/keyrings && sudo chmod 755 /etc/apt/keyrings
+  sudo mkdir -m755 -p /etc/apt/keyrings  # not needed since apt version 2.4.0 like Debian 12 and Ubuntu 22 or newer
   sudo cp qgis-archive-keyring.gpg /etc/apt/keyrings/qgis-archive-keyring.gpg
 
 Alternatively you can download the key directly without manual verification::
         
-  sudo mkdir -p /etc/apt/keyrings && sudo chmod 755 /etc/apt/keyrings
-  sudo wget -O/etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
+  sudo mkdir -m755 -p /etc/apt/keyrings  # not needed since apt version 2.4.0 like Debian 12 and Ubuntu 22 or newer
+  sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
 
 With the keyring in place you can add the repository to as ``/etc/apt/sources.list.d/qgis.sources`` with following content::
 
