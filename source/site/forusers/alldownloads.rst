@@ -256,8 +256,10 @@ Supported distribution versions:
 |               +----------------+------------+-----------------------+
 |               | 22.04 (LTS)    | jammy      | yes                   |
 |               +----------------+------------+-----------------------+
-|               | 20.04 (LTS)    | focal      | yes                   |
+|               | 20.04 (LTS)    | focal [6]_ | yes                   |
 +---------------+----------------+------------+-----------------------+
+
+.. [6] only up to QGIS 3.26 (Qt 5.13 required for 3.27)
 
 To use the qgis archive you have to first add the archive's repository public key::
 
