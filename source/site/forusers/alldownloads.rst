@@ -483,7 +483,7 @@ QGIS on Flathub: https://flathub.org/apps/details/org.qgis.qgis
 
 To install::
 
- flatpak install --from  https://flathub.org/repo/appstream/org.qgis.qgis.flatpakref
+ flatpak install --from https://dl.flathub.org/repo/appstream/org.qgis.qgis.flatpakref
 
 Then to run::
 
@@ -497,9 +497,9 @@ On certain distributions, you may also need to install xdg-desktop-portal or xdg
 
 Flathub files: https://github.com/flathub/org.qgis.qgis and report issues here: https://github.com/flathub/org.qgis.qgis/issues
 
-Note: if you need to install additional Python modules, because they are needed by a plugin, you can install the module with (here installing the urllib3 module)::
+Note: if you need to install additional Python modules, because they are needed by a plugin, you can install the module with (here installing the scipy module)::
 
- flatpak run --devel --command=pip3 org.qgis.qgis install urllib3 --user
+ flatpak run --devel --command=pip3 org.qgis.qgis install scipy --user
 
 
 Mac OS X / macOS
