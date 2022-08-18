@@ -20,6 +20,24 @@ Note2: After the english books there are french, greek and polish items
 English
 =======
 
+Discover QGIS 3.x - Second Edition
+**********************************
+A workbook for Classroom or Independent Study
+Updated to QGIS 3.24+
+
+* https://locatepress.com/book/dq32
+* Author: Kurt Menke
+* Date: August 2022
+
+QGIS for Hydrological Applications - Second Edition
+***************************************************
+Recipes for Catchment Hydrology and Water Management
+Updated to QGIS 3.22+
+
+* https://locatepress.com/book/hyd2
+* Authors: Hans van der Kwast, Kurt Menke
+* Date: May 2022
+
 Land Use Cover Datasets and Validation Tools. Validation Practices with QGIS
 ****************************************************************************
 Introduction to Land Use Cover mapping, Land Use Cover Change Modelling and
