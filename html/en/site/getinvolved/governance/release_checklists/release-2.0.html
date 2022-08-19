@@ -1,0 +1,1018 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Checklist for QGIS Release 2.0</title>
+    <link rel="stylesheet" type="text/css" href="../../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/basic.css" />
+    <link rel="stylesheet" href="../../../../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../../_static/qgis-style.css" type="text/css" />
+    <link rel="stylesheet" href="../../../../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../../_static/bootstrap-sphinx.css" type="text/css" />
+    <script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js"></script>
+    <script src="../../../../_static/jquery.js"></script>
+    <script src="../../../../_static/underscore.js"></script>
+    <script src="../../../../_static/doctools.js"></script>
+    <script src="../../../../_static/qgis-site.js"></script>
+    <script src="../../../../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script src="../../../../_static/jquery.countdown-2.0.4/jquery.countdown.min.js"></script>
+    <link rel="index" title="Index" href="../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../search.html" />
+    <link rel="next" title="Meetings" href="../../meetings/index.html" />
+    <link rel="prev" title="Release Checklists" href="index.html" />
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="../../meetings/index.html" title="Meetings"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="index.html" title="Release Checklists"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../../index.html" >Get Involved / Development</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="../index.html" >Project Organisation</a> &#187;</li>
+          <li class="nav-item nav-item-3"><a href="index.html" accesskey="U">Release Checklists</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Checklist for QGIS Release 2.0</a></li> 
+      </ul>
+    </div>
+
+    
+  <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="../../../index.html">QGIS</a>
+        <span class="navbar-text pull-left"><p><b>3.26.2 ​ <br/> 3.22.10 LTR</b></p></span>
+        
+          <select id="languages">
+  <!-- note on the options here: the 'title' string is to be translated in your
+  language, but the element text is supposed to stay in native lang/txt -->
+  <option value="en" title="English">English</option>
+  <option value="ca" title="Catalan">Català</option>
+  <option value="da" title="Danish">Dansk</option>
+  <option value="de" title="German">Deutsch</option>
+  <option value="es" title="Spanish">Español</option>
+  <option value="fa" title="Persian">فارسی</option>
+  <option value="fi" title="Finnish">Suomi</option>
+  <option value="fr" title="French">Français</option>
+  <option value="gl" title="Galician">Galego</option>
+  <option value="id" title="Indonesian">Bahasa Indonesia</option>
+  <option value="it" title="Italian">Italiano</option>
+  <option value="hu" title="Hungarian">Magyar</option>
+  <option value="ja" title="Japanese">日本語</option>
+  <option value="km_KH" title="Khmer">ភាសាខ្មែរ    </option>
+  <option value="ko" title="Korean">한국어</option>
+  <option value="lt" title="Lithuanian">Lietuvių</option>
+  <option value="nl" title="Dutch">Nederlands</option>
+  <option value="pl" title="Polish">Polski</option>
+  <option value="pt_BR" title="Portuguesei (Brazil)">Português (Brasil)</option>
+  <option value="pt_PT" title="Portuguese">Português</option>
+  <option value="ro" title="Romanian">Română</option>
+  <option value="tr" title="Turkish">Türkçe</option>
+  <option value="ru" title="Russian">Русский</option>
+  <option value="uk" title="Ukrainian">Українська</option>
+  <option value="zh-Hans" title="Chinese (Simplified)">简体中文</option>
+  <option value="zh-Hant" title="Chinese (Traditional)">繁體中文</option>
+</select>
+
+<script>
+    var currentPage = 'site/getinvolved/governance/release_checklists/release-2.0.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    // split index.html if currentUrl is ended by '/'
+    var currentUrl = window.location.href;
+    if (currentUrl.slice(-1) == '/' && currentPage.slice(-1) != '/'){
+      var pages = currentPage.split('/');
+      pages.pop();
+      currentPage = pages.join('/') + '/';
+    }
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        // it's possible this is the index.html page called without 'index.html', try without the currentPage
+        if (langPlusPage==undefined){
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // it's possible this is an index.html page called without 'index.html', try removing index.html
+        if (langPlusPage==undefined){
+            currentPage = currentPage.replace('index.html','')
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // still no langPlugPage: stop, because the language swicher will misbehave
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+        // TODO: links should come from conf.py
+        // TODO: all template pages have the actual translation in sphinc.conf
+        // IMPORTANT: space, -, _ etc replacing below must be 100% inline with
+        // code in scripts/create_transifex_resources.sh !!
+        // https://github.com/qgis/QGIS-Website/blob/master/scripts/create_transifex_resources.sh
+        fix_translation_link = 'https://www.transifex.com/projects/p/qgis-website/translate/#' + 
+            currentLang.slice(1) + currentPage.replace(/_/g, "-").replace(/ /g, "-").replace(/\//g, "_").replace(/\.html/g, "").replace(/\./g, "-")
+        if ('/en/' != currentLang) {
+            $('#fix_translation_link').attr('href', fix_translation_link);
+        }
+        fix_text_link = 'https://github.com/qgis/QGIS-Website/edit/master/source/' +
+            currentPage.replace(/.html/g, ".rst")
+        // TODO: only on rst pages, here a list of pages which are actual templates?
+        if (true){
+            $('#fix_text_link').attr('href', fix_text_link);
+        }
+
+        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
+
+        $("#languages").change(function() {
+            gotoLang($(this).val());
+        });
+
+        if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
+        }
+        else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
+            // crontab is pulling url's below and copy to /feed at qgis.org
+            // https://changelog.qgis.org/en/qgis/members/json/
+            json2html('/feeds/members.json', '#qgissustainingmembersatom', 1000, true, 'span3');
+            // https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2
+            json2html('/feeds/qgispastmembers.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
+        }
+        else if (currentPage == "site/forusers/download.html"){
+            $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
+            '<h2>Thank you!</h2> <p/>'+
+            '<div class="container"><div class="span8">'+
+            '<p>Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href="https://donate.qgis.org/">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!</p>'+
+            '<p>The QGIS Team</p>'+
+            '</div><div class="container">'+
+            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="https://donate.qgis.org/">Donate Now</a></p><p class="muted"></p></div>'+
+            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">Close this message</a></p><p class="muted"></p></div>'+
+            '</div>'+
+            '<br/><p><img src="../../../../_static/images/splash.png"/></p></div>');
+            $('#thankyou').click(function(){ $('#thankyou').hide(); });
+            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
+            $('a.reference').click(function(){
+                $('#thankyou').show();
+                return true;
+            });
+        }
+        else if (currentPage == "site/forusers/alldownloads.html"){
+	    replacesha('qgis-rel-dev');
+	    replacesha('qgis-ltr-dev');
+	    replacesha('qgis-dev');
+        }
+    });
+
+    //
+    // load current page in a different language
+    //
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+    //
+    // function to load a json (feed) and create html for it
+    // currently only used for sustaining members
+    //
+    function json2html(url, holder, count, showcont, spanclass){
+        var html = '';
+        $.getJSON(url, function (data) {
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+
+            $.each( data.rss.channel.item, function( key, val ){
+              var item = val;
+              var imglink = '#';
+              var link = '#';
+              var content = '';
+              var member_level = 'Small';
+              if (item.member_url){link=item.member_url};
+              if (item.image_url){imglink=item.image_url};
+              if (item.member_level){member_level=item.member_level};
+              var title = item.title;
+              content = '<div><img class="member_img '+member_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="member_body '+member_level.toLowerCase()+'">'+item.member_country+'<br/>Membership level: '+member_level+'<br/>'+
+                '('+item.start_date+' - '+item.end_date+')</p>';
+              html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+              html+='<div class="memberdiv"><h4>'+title+'</h4>';
+              html+=content;
+              html+='</div></a></div>';
+            })
+          $(holder).append(html);
+        })
+    }
+    //
+    // function to load an atom feed, an put it in an element
+    //
+    function atom(url, holder, count, showcont, spanclass){
+        $.get(url, function (data) {
+            var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+            $(data).find("entry").each(function () {
+                var el = $(this);
+                var title = el.find('title').text();
+                var author = el.find('name').text();
+                var content = el.find('content').text();
+                if (content.length==0){
+                    // try summary
+                    content = el.find('summary').text();
+                }
+                var imglink='#';
+                var link='#';
+                el.find('link').each(
+                    function(){
+                        // flickr image for maps and qgis screenshots
+                        if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
+                            imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
+                        }
+                        // links
+                        else if ($(this).attr('rel') == 'alternate'){
+                            link = $(this).attr('href');
+                        }
+                    }
+                )
+                counter++;
+
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
+                    // html for flickr maps
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
+                    html+='</a></p></div>\n';
+                }
+                else if (counter<=maxitems){
+                    // visual changelogs, qugs feed and planet feed
+                    var addit = true;
+                    if (holder == '#qgisplanetatom'){
+                        var s = title.split(':');
+                        title = s[0];
+                        content = s[1];
+                        // skip blog.qgis.org posts
+                        if (link.indexOf('blog.qgis.org')>=0){
+                            addit = false;
+                            counter --;
+                        }
+                    }
+                    else if (holder == '#qgissustainingmembersatom' || holder == '#qgissustainingmembersatom'){
+                        html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+                        html+='<div class="memberdiv"><h4>'+title+'</h4>';
+                        html+=content;
+                        html+='</div></a></div>';
+                        addit = false; // we are building html ourselves!!
+                    }
+                    else if (holder == '#qgisblogatom'){
+                        var s = title.split(':');
+                        if (s[0] != 'QGIS Project blog'){
+                            addit = false;
+                            counter--;
+                        }
+                        // trying to extract date from link
+                        // http://blog.qgis.org/2017/09/02/do-you-want-to-host-a-qgis-developer-meeting/
+                        d = link.split('/').slice(3,6);  // 2017,09,02
+                        title = '<img src="../_static/logo.png" style="width:30px;"/> - ' + d[0] + '/' + d[1] + '/' + d[2] + ' - ' + s[1];
+                        content = '';
+                    }
+                    if (addit){
+                        html+='<a class="external" href="'+link+'">';
+                        html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
+                        if (showcontent) { html+=content; };
+                        html+='</div></a>\n';
+                    }
+                }
+            });
+            $(holder).append(html);
+        });
+    }
+
+    //
+    // function to replace a item
+    //
+    function replacesha(id) {
+      var xhr = new XMLHttpRequest();
+      xhr.onload = function () {
+	var sha = this.responseText.substring(this.responseText.indexOf(':')+1);
+        document.getElementById(id).innerHTML = "<a target=\"_new\" href=\"http://github.com/qgis/QGIS/commit/" + sha + "\">" + sha + "</a>";
+      };
+      xhr.open('GET', '/downloads/' + id + '.sha');
+      xhr.send();
+    }
+</script>
+        
+        <div class="nav-collapse collapse">
+          <ul class="unstyled nav main-menu">
+            <li><a href="../../../about/index.html">Discover QGIS</a></li>
+            <li><a href="../../../forusers/index.html">For Users</a></li>
+            <li><a href="../../index.html">Get Involved</a></li>
+            <li><a href="../../../../docs/index.html">Documentation</a></li>
+            <li>
+          
+<form class="navbar-search" action="../../../../search.html" method="get">
+  <input type="text" name="q" class="search-query" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div style="display:none;" class="container" id="nextprev" >
+    
+    <a accesskey="p" href="index.html">&lt;&lt; prev</a>
+    
+    
+    <a accesskey="n" href="../../meetings/index.html">next &gt;&gt;</a>
+    
+    </div>
+
+
+
+
+    
+        <div class="container">
+            <div class="row">
+      <div class="span4">
+        <div id="sidebar" class="bs-sidenav well" data-spy="scroll"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../../about/index.html">Discover QGIS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../forusers/index.html">For Users</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Get Involved / Development</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../document.html">Write Documentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../translate.html">Translation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../development/index.html">Development</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../tests.html">Tests</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../daily_reports/index.html">Daily Reports</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://plugins.qgis.org">Plugins website</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../mailinglists.html">Mailing lists</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../index.html">Project Organisation</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../charter/index.html">Charter of the QGIS.ORG Association</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../governance.html">Who is who in the project</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../trademark/index.html">QGIS Trademark and brand guidelines</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../sustaining_members/index.html">Sustaining Membership Program</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../annual_general_meetings/index.html">Annual general meetings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../annual_reports/index.html">Annual reports</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../finance/index.html">Finance</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../resolutions/2019_resolutions.html">List of Project Steering Committee Resolutions - 2019</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../resolutions/2020_resolutions.html">List of Project Steering Committee Resolutions - 2020</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../infrastructure.html">Infrastructure</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../codeofconduct/codeofconduct.html">Code of Conduct</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../codeofconduct/diversitystatement.html">Diversity statement</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../codeofconduct/credits.html">Credits for Contributors</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../codeofconduct/environmentalpolicy.html">Environmental Policy</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../developer_meetings/index.html">The QGIS Developer Meeting Program</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="index.html">Release Checklists</a><ul class="current">
+<li class="toctree-l4 current"><a class="current reference internal" href="#">Checklist for QGIS Release 2.0</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#announcing-the-release">Announcing the release</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../meetings/index.html">Meetings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../sustaining_members/index.html">Sustaining Membership Program</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://donate.qgis.org">Donations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../certification.html">Certification</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../faq/index.html">FAQ</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../styleguide.html">Visual Style Guide</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../docs/index.html">Documentation</a></li>
+</ul>
+
+        </div>
+      </div>
+                <div class="span8">
+                    
+                        
+                            <section id="checklist-for-qgis-release-2-0">
+<h1>Checklist for QGIS Release 2.0<a class="headerlink" href="#checklist-for-qgis-release-2-0" title="Permalink to this headline">¶</a></h1>
+<section id="key-dates">
+<h2>Key Dates<a class="headerlink" href="#key-dates" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><strong>1 April 2013</strong> - Feature freeze - no new features in master.</p></li>
+<li><p><strong>15 April 2013</strong> - API Freeze - no changes to API except where it is in
+direct response to broken functionality.</p></li>
+<li><p><strong>30 April</strong> - GUI Freeze and String freeze - no changes to ui or strings
+except where required for critical bug fixes. Call for translations.</p></li>
+<li><p><strong>1 June 2013</strong> - Branch 2.0, code freeze (except for packaging related
+changes), call for packaging.</p></li>
+<li><p><strong>7 June 2013</strong> - Public release of 2.0</p></li>
+</ul>
+</section>
+<section id="blocking-features">
+<h2>Blocking Features<a class="headerlink" href="#blocking-features" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Symbology overhaul</p></li>
+<li><p>Labelling overhaul</p></li>
+<li><p>New web site and docs</p></li>
+<li><p>SEXTANTE integration</p></li>
+<li><p>Interface cleanup and consistency</p></li>
+<li><p>Plugins migration</p></li>
+<li><p>Merge new_vector_api branch</p></li>
+</ul>
+</section>
+<section id="release-timeline">
+<h2>Release Timeline<a class="headerlink" href="#release-timeline" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Small enhancements and bug fixes can continue in trunk</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Set date for next release about two months into the
+future.</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Discuss with PSC &amp; Developers which features should be merged into release
+(in future this will be trunk).</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Update the splash screen (minor and major releases!)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Update top level CMakeLists.txt with release name and version</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Update the About -&gt; authors panel with a more recent hackfest image</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Check that the QGIS icon 64x64 has master text removed.</p></li>
+</ul>
+</section>
+<section id="three-weeks-before-feature-freeze-date-here">
+<h2>Three weeks before - feature freeze Date here<a class="headerlink" href="#three-weeks-before-feature-freeze-date-here" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Only bug fixes go into trunk from here forward, <em>no new features</em>.</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Complete merge of new features.</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Call for document managers to update docs based on new features in Git.</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Check for changes in project file structure that needs to be handled.</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Release team start writing press releases, making screenshots etc.</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Add link to visual changelog here.</p></li>
+</ul>
+</section>
+<section id="two-weeks-before-string-freeze-date-here">
+<h2>Two weeks before - string freeze - Date here<a class="headerlink" href="#two-weeks-before-string-freeze-date-here" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Bug fixes can continue in trunk but no more strings can be changed.
+<strong>Note:</strong> the intent here is not for translators to <em>start</em> translating now,
+but to finalise their work.</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Ensure any new contributors have been added to AUTHORS
+along with their mugshot if available (reserved for SVN
+committers)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Ensure any new contributors have been added to
+CONTRIBUTORS (reserved for non GIT committers)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Ensure any new sponsors have been added to SPONSORS</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Update the ChangeLog with a list of changes implemented
+in this release (complete changelog section below)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Update index.html to reflect <em>what’s new</em>,
+<em>requirements</em>, and <em>documentation</em> (see current index.html in ./doc of the
+source tree)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Update the <em>whatsNew</em> string in qgisapp.cpp to reflect
+changes (used to display in about box)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Check that INSTALL.t2t install docs are up to date</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Update index.html to reflect GRASS and related lib
+versions in the win build (see current index.html in ./doc of the source
+tree)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Check that cmake is deploying all headers required to
+build apps using libqgis_*</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Apply any pending patches or mark them for a future
+release in the tracker (see bug tracker section below)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Apply fixes for any pending bugs or mark them against a
+future milestone (see bug tracker section below)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> String freeze announcement for UI</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Update and commit ts files using
+scripts/update_ts_files.sh (GUI Translation Team Lead) after announcement
+above</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <em>Call for translators</em> to update translations and submit
+their ts files (see pro-forma email below) GUI Translation Team Lead</p></li>
+</ul>
+</section>
+<section id="one-week-before-branch-call-for-packaging-date-here">
+<h2>One week before - branch &amp; call for packaging Date here<a class="headerlink" href="#one-week-before-branch-call-for-packaging-date-here" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> No bug fixes, string changes etc. allowed in branch,
+only packaging related changes.</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Ensure all submitted translation updates have been
+applied (GUI Translation Team Lead).</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Make source tarball before <em>call for packaging</em> (see
+notes below).</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Branch GIT and <em>call for packaging</em> (see branching notes
+below) and record revision here: XXXXXX</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Edit build_debian_package.sh and set &#64;dch -v 2.0.0&#64; to
+the apropriate version number.</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Update the NSIS installer (win_build/qgis.nsis) to
+reflect the correct version.</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Release team prepare press releases in various formats
+in anticipation of release (don’t publish yet).</p></li>
+</ul>
+</section>
+<section id="day-of-release-date">
+<h2>Day of release - Date<a class="headerlink" href="#day-of-release-date" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Close off release branch and announce release to the
+world. Date is dependent on package readiness.</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Tag the branch as final release (see tag section below).</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Make tag and branch read only (see notes below).</p></li>
+<li><dl class="simple">
+<dt><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Note the GIT revision hash for the tagged release here:</dt><dd><p>XXXXXXX.</p>
+</dd>
+</dl>
+</li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Generate API documentation and upload to download area
+(using doxygen).</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Upload release packages to download area (see checklist
+at the top of this page).</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <em>Release team announce to press</em> and make packages available.</p></li>
+</ul>
+</section>
+<section id="packaging-team">
+<h2>Packaging Team<a class="headerlink" href="#packaging-team" title="Permalink to this headline">¶</a></h2>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 26%" />
+<col style="width: 34%" />
+<col style="width: 40%" />
+</colgroup>
+<tbody>
+<tr class="row-odd"><td><p>Tim Sutton</p></td>
+<td><p>tim at linfiniti.com</p></td>
+<td><p>Release Manager</p></td>
+</tr>
+<tr class="row-even"><td><p>Jürgen E. Fischer</p></td>
+<td><p>jef at norbit.de</p></td>
+<td><p>Ubuntu Packages</p></td>
+</tr>
+<tr class="row-odd"><td><p>Jürgen E. Fischer / Tim Sutton</p></td>
+<td><p>jef at norbit.de / tim at linfiniti.com</p></td>
+<td><p>Windows packaging</p></td>
+</tr>
+<tr class="row-even"><td><p>Otto Dassau</p></td>
+<td><p>otto.dassau at gmx.de</p></td>
+<td><p>openSUSE Packaging</p></td>
+</tr>
+<tr class="row-odd"><td><p>William</p></td>
+<td><p>kyngchaos at kyngchaos.com</p></td>
+<td><p>OSX Frameworks Build and OSX all in one bundle</p></td>
+</tr>
+<tr class="row-even"><td><p>Niccolo Rigacci</p></td>
+<td><p>qgis at rigacci.org</p></td>
+<td><p>Debian Lenny</p></td>
+</tr>
+<tr class="row-odd"><td><p>Volker Fröhlich</p></td>
+<td><p>volker27 at gmx.at</p></td>
+<td><p>Fedora packaging</p></td>
+</tr>
+<tr class="row-even"><td><p>BABA Yoshihiko</p></td>
+<td><p>babayoshihiko at mac.com</p></td>
+<td><p>OSX via Fink</p></td>
+</tr>
+<tr class="row-odd"><td><p>Antonio Chay</p></td>
+<td><p>antonio.chay at gmail.com</p></td>
+<td><p>CentOS 5.x</p></td>
+</tr>
+<tr class="row-even"><td><p>Jeremy Spykerman</p></td>
+<td><p>jeremy.spykerman at gmail.com</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Jim Hammack</p></td>
+<td><p>hammack AT gotslack.org</p></td>
+<td><p>Slackware 13.0</p></td>
+</tr>
+<tr class="row-even"><td><p>Tim Sutton</p></td>
+<td><p>tim at linfiniti.com</p></td>
+<td><p>Source &#64; qgis.org/downloads/</p></td>
+</tr>
+</tbody>
+</table>
+<p>Packages should be uploaded to qgis.org into the appropriate subdirs under
+<code class="file docutils literal notranslate"><span class="pre">/var/www/downloads</span></code></p>
+<p>After each package is uploaded, an entry should be created for it on the wiki
+page at <a class="reference external" href="http://download.qgis.org">http://download.qgis.org</a></p>
+</section>
+<section id="post-release">
+<h2>Post Release<a class="headerlink" href="#post-release" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <em>qgis.org  Updates</em></p>
+<ul>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Update the ‘Current Release’ link on the main menu</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Update the ‘Download’ link on the top menu bar</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Add release newsflash</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> Current version page to be updated</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> svn download of tagged release updated</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> download page updated</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> screenshots updated</p></li>
+</ul>
+</li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <em>Publicising (see announcing the release section below)</em></p>
+<ul>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="http://freshmeat.net">http://freshmeat.net</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="http://kde-apps.org">http://kde-apps.org</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="http://qt-apps.org">http://qt-apps.org</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="http://freegis.org">http://freegis.org</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="http://apple.com">http://apple.com</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="http://slashgeo.org/submit.pl">http://slashgeo.org/submit.pl</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="http://lxer.com/module/newswire/stories/add.php">http://lxer.com/module/newswire/stories/add.php</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="http://www.freemacware.com/let-us-know">http://www.freemacware.com/let-us-know</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="http://www.osnews.com/submit.php">http://www.osnews.com/submit.php</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="http://directory.fsf.org/project/QGIS/">http://directory.fsf.org/project/QGIS/</a></p></li>
+</ul>
+</li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <em>Announcements on mailing lists</em></p>
+<ul>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> freegis-list: <a class="reference external" href="http://intevation.de/mailman/listinfo/freegis-list">http://intevation.de/mailman/listinfo/freegis-list</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> grassuser: <a class="reference external" href="http://grass.itc.it/mailman/listinfo/grassuser">http://grass.itc.it/mailman/listinfo/grassuser</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> qgis-user: <a class="reference external" href="http://lists.osgeo.org/mailman/listinfo/qgis-user">http://lists.osgeo.org/mailman/listinfo/qgis-user</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> qgis-developer: <a class="reference external" href="https://lists.sourceforge.net/lists/listinfo/qgis-developer">https://lists.sourceforge.net/lists/listinfo/qgis-developer</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> pkg-grass-general: <a class="reference external" href="http://lists.alioth.debian.org/mailman/listinfo/pkg-grass-general">http://lists.alioth.debian.org/mailman/listinfo/pkg-grass-general</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> osgeo-announce: <a class="reference external" href="mailto:news_item&#37;&#52;&#48;osgeo&#46;org">news_item<span>&#64;</span>osgeo<span>&#46;</span>org</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> osgeo-discuss: <a class="reference external" href="http://lists.osgeo.org/mailman/listinfo/discuss">http://lists.osgeo.org/mailman/listinfo/discuss</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> osgeo-africa: <a class="reference external" href="http://lists.osgeo.org/mailman/listinfo/africa">http://lists.osgeo.org/mailman/listinfo/africa</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> ppgis: <a class="reference external" href="mailto:ppgis&#37;&#52;&#48;dgroups&#46;org">ppgis<span>&#64;</span>dgroups<span>&#46;</span>org</a></p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> gav-talk: <a class="reference external" href="http://www.grass-verein.de/ml_irc.html">http://www.grass-verein.de/ml_irc.html</a> (german)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> grass-de: <a class="reference external" href="http://www.grass-verein.de/ml_irc.html">http://www.grass-verein.de/ml_irc.html</a> (german)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> viscom-de: <a class="reference external" href="http://lists.osgeo.org/mailman/listinfo/viscom-discuss-de">http://lists.osgeo.org/mailman/listinfo/viscom-discuss-de</a> (german)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> gfoss.it: <a class="reference external" href="http://www.faunalia.com/cgi-bin/mailman/listinfo/gfoss">http://www.faunalia.com/cgi-bin/mailman/listinfo/gfoss</a> (italian)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="mailto:info&#37;&#52;&#48;aet&#46;org&#46;es">info<span>&#64;</span>aet<span>&#46;</span>org<span>&#46;</span>es</a> (spanish)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="mailto:TELEDETECCION&#37;&#52;&#48;LISTSERV&#46;REDIRIS&#46;ES">TELEDETECCION<span>&#64;</span>LISTSERV<span>&#46;</span>REDIRIS<span>&#46;</span>ES</a> (spanish)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="mailto:telenet&#37;&#52;&#48;latuv&#46;uva&#46;es">telenet<span>&#64;</span>latuv<span>&#46;</span>uva<span>&#46;</span>es</a> (spanish)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="mailto:SIG&#37;&#52;&#48;LISTSERV&#46;REDIRIS&#46;ES">SIG<span>&#64;</span>LISTSERV<span>&#46;</span>REDIRIS<span>&#46;</span>ES</a> (spanish)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="mailto:ecespa&#37;&#52;&#48;ecologiaespacial&#46;es">ecespa<span>&#64;</span>ecologiaespacial<span>&#46;</span>es</a> (spanish)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="mailto:infogeo&#37;&#52;&#48;eListas&#46;net">infogeo<span>&#64;</span>eListas<span>&#46;</span>net</a> (spanish)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="mailto:map-mac&#37;&#52;&#48;avenza&#46;com">map-mac<span>&#64;</span>avenza<span>&#46;</span>com</a> (spanish)</p></li>
+<li><p><img alt="checkbox_unchecked" src="../../../../_images/checkbox_unchecked.png" /> <a class="reference external" href="mailto:ppgis-scope&#37;&#52;&#48;igc&#46;org">ppgis-scope<span>&#64;</span>igc<span>&#46;</span>org</a> (spanish)</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="call-for-translators-email">
+<h2>Call for translators email<a class="headerlink" href="#call-for-translators-email" title="Permalink to this headline">¶</a></h2>
+<p>When translations call is made, an email based on the template below should
+be sent out to encourage translators to get there work submitted.:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>Hi All (and especially translators)
+
+As of today please note that we are entering string freeze for the run up
+to the next release. If you are committing bug fixes please avoid changing
+any strings. Translation .ts files have been updated in SVN so please
+update your local svn checkouts. The period for translations will close
+MMMM-DD-YYYY (i.e. about one week from now) and then we will be branching
+for release. Any translations submitted to us after that time will only be
+included in the next release, so please submit what you have by then even
+if it is not complete.
+
+As always you can track the release plans via the checklist at:
+http://www.qgis.org/wiki/Release_Checklist_2.0.0
+
+If you have any questions about the translation process, please see the
+following page which includes instructions on how to generate a .ts file
+for a new locale.
+http://www.qgis.org/wiki/Gui_Translation
+
+Many thanks to all the translators out there for the great work you do!
+Regards,
+
+ P.S.: The list of Translation Progress is here
+ http://www.qgis.org/wiki/GUI_Translation_Progress#QGIS_Current_trunk_Version_Progress
+</pre></div>
+</div>
+</section>
+<section id="branching-and-tagging-details">
+<h2>Branching and Tagging Details<a class="headerlink" href="#branching-and-tagging-details" title="Permalink to this headline">¶</a></h2>
+<p>Branch the release using syntax below (update this with the actual commands you
+used to branch).:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">branch</span> <span class="n">release</span><span class="o">-</span><span class="mi">2_0</span>
+<span class="n">git</span> <span class="n">push</span> <span class="n">origin</span> <span class="n">release</span><span class="o">-</span><span class="mi">2_0</span>
+</pre></div>
+</div>
+<p>Tag the release using a signed tag:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">tag</span> <span class="o">-</span><span class="n">s</span> <span class="n">final</span><span class="o">-</span><span class="mi">2_0_0</span> <span class="o">-</span><span class="n">m</span> <span class="s2">&quot;Version 2.0.0&quot;</span>
+<span class="n">git</span> <span class="n">push</span> <span class="n">origin</span> <span class="n">final</span><span class="o">-</span><span class="mf">2.0.0</span>
+</pre></div>
+</div>
+</section>
+<section id="bug-tracker-system">
+<h2>Bug Tracker System<a class="headerlink" href="#bug-tracker-system" title="Permalink to this headline">¶</a></h2>
+<p>All bugs that are intended to have been fixed in this release should have been
+marked as closed. All other bugs on the release branch should be marked for a
+future release. To do this:</p>
+<ul class="simple">
+<li><p>create a new milestone and version e.g. we are releasing 2.0.0 now so create
+a new milestone in redmine for 2.0.0. Create the milestone here:</p></li>
+<li><p>Now you need to update each open bug on the branch and reset its milestone for
+the next release in the future. This can be done easily doing a batch update
+in redmine.</p></li>
+</ul>
+</section>
+<section id="create-the-source-tarball">
+<h2>Create the source tarball<a class="headerlink" href="#create-the-source-tarball" title="Permalink to this headline">¶</a></h2>
+<p>This is best achieved by running this little script:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">~/</span><span class="n">QGIS</span>
+<span class="n">git</span> <span class="n">archive</span> <span class="o">--</span><span class="nb">format</span><span class="o">=</span><span class="n">tar</span> <span class="o">--</span><span class="n">prefix</span><span class="o">=</span><span class="n">qgis</span><span class="o">-</span><span class="mf">2.0.0</span><span class="o">/</span> <span class="n">final</span><span class="o">-</span><span class="mi">2_0_0</span> <span class="o">|</span> \
+<span class="n">bzip2</span> <span class="o">&gt;</span> <span class="o">/</span><span class="n">var</span><span class="o">/</span><span class="n">www</span><span class="o">/</span><span class="n">downloads</span><span class="o">/</span><span class="n">qgis</span><span class="o">-</span><span class="mf">2.0.0</span><span class="o">.</span><span class="n">tar</span><span class="o">.</span><span class="n">bz2</span>
+<span class="n">md5sum</span> <span class="o">/</span><span class="n">var</span><span class="o">/</span><span class="n">www</span><span class="o">/</span><span class="n">downloads</span><span class="o">/</span><span class="n">qgis</span><span class="o">-</span><span class="mf">2.0.0</span><span class="o">.</span><span class="n">tar</span><span class="o">.</span><span class="n">bz2</span> <span class="o">&gt;</span> \
+<span class="o">/</span><span class="n">var</span><span class="o">/</span><span class="n">www</span><span class="o">/</span><span class="n">downloads</span><span class="o">/</span><span class="n">qgis</span><span class="o">-</span><span class="mf">2.0.0</span><span class="o">.</span><span class="n">tar</span><span class="o">.</span><span class="n">bz2</span><span class="o">.</span><span class="n">md5</span>
+</pre></div>
+</div>
+</section>
+<section id="generate-the-changelog">
+<h2>Generate the changelog<a class="headerlink" href="#generate-the-changelog" title="Permalink to this headline">¶</a></h2>
+<p>TODO: Add details here on how to generate the changelog.</p>
+</section>
+<section id="pro-forma-call-for-packaging-announcement">
+<h2>Pro-forma call for packaging announcement<a class="headerlink" href="#pro-forma-call-for-packaging-announcement" title="Permalink to this headline">¶</a></h2>
+<p>mail:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>Hi All
+
+Dear QGIS devs &amp; packagers
+
+--- Note to casual readers ---
+
+Please do not pre-announce this release - give the packagers and release
+team a chance to do their thing so that people hearing about the release
+have a fair chance of finding a package, reading all our press material
+etc.
+
+--- End note ---
+
+I have branched QGIS 2.0.0 for release. The branch can be checked out like
+this (as a tracking branch)
+
+git clone git://github.com/qgis/QGIS.git
+git branch --track release-2_0 origin/release-2_0
+git checkout release-2_0
+
+Or (to check out the tag made immediately before branching)
+
+git fetch
+git checkout final-2.0.0
+
+
+Source tarballs can be obtained from here:
+
+https://qgis.org/downloads/qgis-2.0.0.tar.bz2
+https://qgis.org/downloads/qgis-2.0.0.tar.bz2.md5
+
+Some notes:
+
+- Please do not commit anything to the release branch except packaging
+  related tweaks.
+- If you make a package please be so kind as to update the download wiki
+  page at http://www.qgis.org/wiki/Download with the details of your
+  package.
+- If you are able to make packages for unlisted platforms / distros please
+  discuss your plans on this thread so that we can avoid duplication of
+  effort.
+- I would like to make the release announcement next week, so it will be
+  great to have as many packages as possible ready by then.
+- GIT master is open again for general commits - please seek guidance from
+  Marco Hugentobler (PSC Code Manager) if you are planning any major code
+  changes.
+- Please accompany any updates to core with unit tests!
+
+Many thanks to all the developers, testers, bug fixers, bug reporters,
+document writers, translators and users that help to make QGIS a reality!
+
+Lastly can I call on the release team (or any interested people) to help
+to put together visual changelog (link below), press announcements etc.
+ready for the release date? I will send you an email when the packages are
+ready and you can start broadcasting announcements.
+
+Visual Changelog Wiki Page: http://changelog.linfiniti.com/version/1/
+(this is the site for drafting the release, the final release content will
+be on the official QGIS web site).
+
+Best regards
+</pre></div>
+</div>
+</section>
+<section id="windows-binary-upload">
+<h2>Windows Binary upload<a class="headerlink" href="#windows-binary-upload" title="Permalink to this headline">¶</a></h2>
+<p>Put the binary onto the server:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">osgeo</span><span class="o">/</span><span class="n">download</span><span class="o">/</span><span class="n">qgis</span><span class="o">/</span><span class="n">win32</span><span class="o">/</span>
+<span class="n">wget</span> <span class="n">http</span><span class="p">:</span><span class="o">//</span><span class="n">linfiniti</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">downloads</span><span class="o">/</span><span class="n">QGIS</span><span class="o">-</span><span class="mf">2.0.0</span><span class="o">-</span><span class="mi">0</span><span class="o">-</span><span class="n">No</span><span class="o">-</span><span class="n">GrassSetup</span><span class="o">.</span><span class="n">exe</span>
+<span class="n">md5sum</span> <span class="n">QGIS</span><span class="o">-</span><span class="mf">2.0.0</span><span class="o">-</span><span class="mi">0</span><span class="o">-</span><span class="n">No</span><span class="o">-</span><span class="n">GrassSetup</span><span class="o">.</span><span class="n">exe</span> <span class="o">&gt;</span> <span class="n">QGIS</span><span class="o">-</span><span class="mf">2.0.0</span><span class="o">-</span><span class="mi">0</span><span class="o">-</span><span class="n">No</span><span class="o">-</span><span class="n">GrassSetup</span><span class="o">.</span><span class="n">exe</span><span class="o">.</span><span class="n">md5</span>
+</pre></div>
+</div>
+<p>Now do a virus check on it. First make a note of the url:</p>
+<p><a class="reference external" href="http://download.osgeo.org/qgis/win32/QGIS-2.0.0-0-No-GrassSetup.exe">http://download.osgeo.org/qgis/win32/QGIS-2.0.0-0-No-GrassSetup.exe</a></p>
+<p>Now go to GarysHood online virus checker or similar to double check the binary
+is virus free:</p>
+<p><a class="reference external" href="http://www.garyshood.com/virus/">Gary Shood Virus Checker</a></p>
+</section>
+</section>
+<section id="announcing-the-release">
+<h1>Announcing the release<a class="headerlink" href="#announcing-the-release" title="Permalink to this headline">¶</a></h1>
+<p>Note you can get stats for the previous release like with “awstats”:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-OSGeo4W-2.0.0-.*-Setup.exe&amp;urlfilterex=&amp;output=urldetail&amp;config=qgis&amp;framename=mainright&amp;month=all&amp;year=2011
+</pre></div>
+</div>
+<section id="irc-topic-update">
+<h2>IRC TOPIC update<a class="headerlink" href="#irc-topic-update" title="Permalink to this headline">¶</a></h2>
+<p>Tim or Gary can update the IRC topic using this procedure:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">/</span><span class="n">msg</span> <span class="n">chanserv</span> <span class="n">op</span> <span class="c1">#qgis</span>
+<span class="o">/</span><span class="n">topic</span> <span class="c1">#qgis to: !!QGIS &quot;Dufoor&quot; 2.0.1 released Sept 2013! - http://download.qgis.org || Logs: http://irclogs.geoapt.com/qgis || All activity on this channel is logged !!</span>
+</pre></div>
+</div>
+</section>
+<section id="update-version-text-file">
+<h2>Update Version Text File<a class="headerlink" href="#update-version-text-file" title="Permalink to this headline">¶</a></h2>
+<p>The file accessed from the <span class="menuselection">Help ‣ Check QGIS Version</span> menu is
+located at <a class="reference external" href="https://qgis.org/version.txt">https://qgis.org/version.txt</a>. This should be updated to reflect the
+current release.</p>
+</section>
+<section id="create-an-announcement-template">
+<h2>Create an announcement template<a class="headerlink" href="#create-an-announcement-template" title="Permalink to this headline">¶</a></h2>
+<p>An announcement template will save you retypping the same text at the various
+places of announcement. The following text can be used as a basis:</p>
+<section id="a-generic-release-subject">
+<h3>A Generic release subject<a class="headerlink" href="#a-generic-release-subject" title="Permalink to this headline">¶</a></h3>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">Announcing</span> <span class="n">the</span> <span class="n">release</span> <span class="n">of</span> <span class="n">QGIS</span> <span class="mf">2.0.0</span> <span class="p">(</span><span class="n">unstable</span> <span class="n">release</span><span class="p">)</span><span class="o">.</span>
+</pre></div>
+</div>
+</section>
+<section id="a-generic-20-word-summary">
+<h3>A generic 20 word summary<a class="headerlink" href="#a-generic-20-word-summary" title="Permalink to this headline">¶</a></h3>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">QGIS</span> <span class="ow">is</span> <span class="n">a</span> <span class="n">user</span> <span class="n">friendly</span> <span class="n">Open</span> <span class="n">Source</span> <span class="n">Geographic</span> <span class="n">Information</span> <span class="n">System</span> <span class="n">that</span>
+<span class="n">runs</span> <span class="n">on</span> <span class="n">Linux</span><span class="p">,</span> <span class="n">Unix</span><span class="p">,</span> <span class="n">Mac</span> <span class="n">OSX</span><span class="p">,</span> <span class="ow">and</span> <span class="n">Windows</span><span class="o">.</span>
+</pre></div>
+</div>
+</section>
+<section id="a-mailing-list-announcement">
+<h3>A mailing list announcement<a class="headerlink" href="#a-mailing-list-announcement" title="Permalink to this headline">¶</a></h3>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">We</span> <span class="n">are</span> <span class="n">very</span> <span class="n">pleased</span> <span class="n">to</span> <span class="n">announce</span> <span class="n">the</span> <span class="n">release</span> <span class="n">of</span> <span class="n">QGIS</span> <span class="mf">2.0.0</span> <span class="s1">&#39;Dufour&#39;</span><span class="o">.</span> <span class="n">This</span>
+<span class="n">release</span> <span class="n">contains</span> <span class="n">new</span> <span class="n">features</span> <span class="ow">and</span> <span class="n">extends</span> <span class="n">the</span> <span class="n">programmatic</span> <span class="n">interface</span> <span class="n">over</span>
+<span class="n">QGIS</span> <span class="mf">1.0</span><span class="o">.</span><span class="n">x</span> <span class="ow">and</span> <span class="n">QGIS</span> <span class="mf">1.8</span><span class="o">.</span><span class="n">x</span>
+
+<span class="n">Binary</span> <span class="ow">and</span> <span class="n">source</span> <span class="n">code</span> <span class="n">packages</span> <span class="n">are</span> <span class="n">available</span> <span class="n">at</span><span class="p">:</span>
+<span class="n">http</span><span class="p">:</span><span class="o">//</span><span class="n">download</span><span class="o">.</span><span class="n">qgis</span><span class="o">.</span><span class="n">org</span>
+
+<span class="n">If</span> <span class="n">there</span> <span class="ow">is</span> <span class="ow">not</span> <span class="n">yet</span> <span class="n">a</span> <span class="n">package</span> <span class="k">for</span> <span class="n">your</span> <span class="n">platform</span> <span class="n">on</span> <span class="n">the</span> <span class="n">above</span> <span class="n">page</span><span class="p">,</span> <span class="n">please</span>
+<span class="n">check</span> <span class="n">back</span> <span class="n">regularly</span> <span class="k">as</span> <span class="n">packagers</span> <span class="n">are</span> <span class="n">still</span> <span class="n">pushing</span> <span class="n">out</span> <span class="n">their</span> <span class="n">work</span> <span class="ow">and</span>
+<span class="n">they</span> <span class="n">will</span> <span class="n">update</span> <span class="n">the</span> <span class="n">download</span> <span class="n">page</span> <span class="n">to</span> <span class="n">reflect</span> <span class="n">the</span> <span class="n">new</span> <span class="n">packages</span><span class="o">.</span> <span class="n">Along</span>
+<span class="k">with</span> <span class="n">the</span> <span class="n">release</span> <span class="n">of</span> <span class="n">QGIS</span> <span class="mf">2.0.0</span><span class="p">,</span> <span class="n">the</span> <span class="n">QGIS</span> <span class="n">Community</span> <span class="n">Team</span> <span class="ow">is</span> <span class="n">hard</span> <span class="n">at</span> <span class="n">work</span>
+<span class="n">on</span> <span class="n">an</span> <span class="n">updated</span> <span class="n">QGIS</span> <span class="n">Users</span><span class="s1">&#39; Guide version 2.0.0. The guide will be available</span>
+<span class="ow">in</span> <span class="n">the</span> <span class="n">near</span> <span class="n">future</span> <span class="o">-</span> <span class="n">we</span> <span class="n">will</span> <span class="n">post</span> <span class="n">announcements</span> <span class="n">when</span> <span class="n">it</span> <span class="ow">is</span> <span class="n">available</span><span class="o">.</span>
+</pre></div>
+</div>
+</section>
+</section>
+<section id="a-word-of-thanks-to-our-contributors-donors-and-sponsors">
+<h2>A word of thanks to our contributors, donors and sponsors<a class="headerlink" href="#a-word-of-thanks-to-our-contributors-donors-and-sponsors" title="Permalink to this headline">¶</a></h2>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>QGIS is a largely volunteer driven project, and is the work of a dedicated
+team of developers, documenters and supporters. We extend our thanks and
+gratitude for the many, many hours people have contributed to make this
+release happen. Many companies and organisations contribute back
+improvements to QGIS when they use it as their platform, and we are
+grateful for this and encourage others to do the same! We would also like
+to thank our sponsors and donors for helping to promote our work through
+their financial contributions.
+Our *current* sponsors are:
+
+Silver Sponsor
+
+ - State of Vorarlberg (http://www.vorarlberg.at - Austria, November 2011)
+
+Bronze Sponsors
+
+ - Argusoft (http://www.argusoft.de - Germany, June 2012)
+ - GeoSynergy (http://www.geosynergy.com.au - Australia, May 2012)
+ - ibW Bildungszentrum Wald (http://www.bzwmaienfeld.ch - Switzerland,
+   March 2012)
+ - City of Uster (http://gis.uster.ch - Switzerland, November 2011)
+
+*QGIS Sponsorship is valid for one year.*
+
+A current list of donors who have made contributions large and small to
+the project can be seen here:
+
+https://qgis.org/en/sponsorship/donors.html
+
+If you would like to make a donation or sponsor our project, please visit
+http://www.qgis.org/en/sponsorship.html. QGIS is Free software and you are
+under no obligation to do so.
+</pre></div>
+</div>
+</section>
+<section id="visual-tour-of-the-new-release">
+<h2>Visual tour of the new release:<a class="headerlink" href="#visual-tour-of-the-new-release" title="Permalink to this headline">¶</a></h2>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>You can find a list of highlighted changes and new features listed on the
+detailed release announcement available here:
+
+https://qgis.org/index.php?option=com_content&amp;view=article&amp;id=149
+</pre></div>
+</div>
+</section>
+<section id="new-features-with-this-release">
+<h2>New features with this release:<a class="headerlink" href="#new-features-with-this-release" title="Permalink to this headline">¶</a></h2>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>Happy QGIS&#39;ing!
+
+Regards,
+The QGIS Team!
+</pre></div>
+</div>
+</section>
+<section id="a-generic-product-description">
+<h2>A generic product description<a class="headerlink" href="#a-generic-product-description" title="Permalink to this headline">¶</a></h2>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">QGIS</span> <span class="p">(</span><span class="n">QGIS</span><span class="p">)</span> <span class="ow">is</span> <span class="n">a</span> <span class="n">user</span> <span class="n">friendly</span> <span class="n">Open</span> <span class="n">Source</span> <span class="n">Geographic</span> <span class="n">Information</span> <span class="n">System</span>
+<span class="p">(</span><span class="n">GIS</span><span class="p">)</span> <span class="n">that</span> <span class="n">runs</span> <span class="n">on</span> <span class="n">Linux</span><span class="p">,</span> <span class="n">Unix</span><span class="p">,</span> <span class="n">Mac</span> <span class="n">OSX</span><span class="p">,</span> <span class="ow">and</span> <span class="n">Windows</span><span class="o">.</span> <span class="n">QGIS</span> <span class="n">supports</span>
+<span class="n">vector</span><span class="p">,</span> <span class="n">raster</span><span class="p">,</span> <span class="ow">and</span> <span class="n">database</span> <span class="n">formats</span><span class="o">.</span> <span class="n">QGIS</span> <span class="ow">is</span> <span class="n">licensed</span> <span class="n">under</span> <span class="n">the</span> <span class="n">GNU</span>
+<span class="n">General</span> <span class="n">Public</span> <span class="n">License</span><span class="o">.</span> <span class="n">QGIS</span> <span class="n">lets</span> <span class="n">you</span> <span class="n">browse</span> <span class="ow">and</span> <span class="n">create</span> <span class="nb">map</span> <span class="n">data</span> <span class="n">on</span> <span class="n">your</span>
+<span class="n">computer</span><span class="o">.</span> <span class="n">It</span> <span class="n">supports</span> <span class="n">many</span> <span class="n">common</span> <span class="n">spatial</span> <span class="n">data</span> <span class="n">formats</span> <span class="p">(</span><span class="n">e</span><span class="o">.</span><span class="n">g</span><span class="o">.</span> <span class="n">ESRI</span>
+<span class="n">ShapeFile</span><span class="p">,</span> <span class="n">geotiff</span><span class="p">)</span><span class="o">.</span> <span class="n">QGIS</span> <span class="n">supports</span> <span class="n">plugins</span> <span class="n">to</span> <span class="n">do</span> <span class="n">things</span> <span class="n">like</span> <span class="n">display</span>
+<span class="n">tracks</span> <span class="kn">from</span> <span class="nn">your</span> <span class="n">GPS</span><span class="o">.</span> <span class="n">QGIS</span> <span class="ow">is</span> <span class="n">Open</span> <span class="n">Source</span> <span class="n">software</span> <span class="ow">and</span> <span class="n">its</span> <span class="n">free</span> <span class="n">of</span> <span class="n">cost</span><span class="o">.</span>
+</pre></div>
+</div>
+</section>
+<section id="a-generic-features-list">
+<h2>A generic features list<a class="headerlink" href="#a-generic-features-list" title="Permalink to this headline">¶</a></h2>
+</section>
+</section>
+
+                        
+                    
+                </div>
+                  
+            </div>
+        </div>
+    
+
+    <!--<a href="https://github.com/qgis/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10000;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>-->
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="../../meetings/index.html" title="Meetings"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="index.html" title="Release Checklists"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../../index.html" >Get Involved / Development</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="../index.html" >Project Organisation</a> &#187;</li>
+          <li class="nav-item nav-item-3"><a href="index.html" >Release Checklists</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Checklist for QGIS Release 2.0</a></li> 
+      </ul>
+    </div>
+  <footer class="footer">
+
+    <div class="container">
+        <div>
+          <ul class="unstyled inline" id="social">
+            <li id="twitter"><a href="http://twitter.com/qgis" class="external"><div></div></a></li>
+            <li id="facebook"><a href="https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096" class="external"><div></div></a></li>
+            <li id="github"><a href="http://github.com/qgis/" class="external"><div></div></a></li>
+            <li id="aboutcontact"><a href="../../index.html"><div></div></a></li>
+          </ul>
+        </div>
+
+        <p class="credit">If not stated otherwise, all content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a></p>
+    </div>
+    <div class="container">
+      <p class="credit">
+        Select graphics from <a href="https://thenounproject.com" target="_blank">The Noun Project collection</a>
+        
+        
+      </p>
+      <p class="credit">
+        Untranslated page? Or you spot a translation error:
+        <a id="fix_translation_link" target="_blank" href="https://www.transifex.com/projects/p/qgis-website/">fix me</a>
+        <br/>
+        Textual error, missing text or you know better:
+        <a id="fix_text_link" target="_blank" href="https://github.com/qgis/QGIS-Website">fix me</a>
+      </p>
+    </div>
+  </footer>
+
+  </body>
+</html>

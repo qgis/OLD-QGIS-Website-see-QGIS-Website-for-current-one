@@ -1,0 +1,533 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Support</title>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/basic.css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/qgis-style.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-sphinx.css" type="text/css" />
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/qgis-site.js"></script>
+    <script src="../../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script src="../../_static/jquery.countdown-2.0.4/jquery.countdown.min.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="User Groups" href="usergroups.html" />
+    <link rel="prev" title="Training material" href="trainingmaterial/index.html" />
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="usergroups.html" title="User Groups"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="trainingmaterial/index.html" title="Training material"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="index.html" accesskey="U">For Users</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Support</a></li> 
+      </ul>
+    </div>
+
+    
+  <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="../index.html">QGIS</a>
+        <span class="navbar-text pull-left"><p><b>3.26.2 ​ <br/> 3.22.10 LTR</b></p></span>
+        
+          <select id="languages">
+  <!-- note on the options here: the 'title' string is to be translated in your
+  language, but the element text is supposed to stay in native lang/txt -->
+  <option value="en" title="English">English</option>
+  <option value="ca" title="Catalan">Català</option>
+  <option value="da" title="Danish">Dansk</option>
+  <option value="de" title="German">Deutsch</option>
+  <option value="es" title="Spanish">Español</option>
+  <option value="fa" title="Persian">فارسی</option>
+  <option value="fi" title="Finnish">Suomi</option>
+  <option value="fr" title="French">Français</option>
+  <option value="gl" title="Galician">Galego</option>
+  <option value="id" title="Indonesian">Bahasa Indonesia</option>
+  <option value="it" title="Italian">Italiano</option>
+  <option value="hu" title="Hungarian">Magyar</option>
+  <option value="ja" title="Japanese">日本語</option>
+  <option value="km_KH" title="Khmer">ភាសាខ្មែរ    </option>
+  <option value="ko" title="Korean">한국어</option>
+  <option value="lt" title="Lithuanian">Lietuvių</option>
+  <option value="nl" title="Dutch">Nederlands</option>
+  <option value="pl" title="Polish">Polski</option>
+  <option value="pt_BR" title="Portuguesei (Brazil)">Português (Brasil)</option>
+  <option value="pt_PT" title="Portuguese">Português</option>
+  <option value="ro" title="Romanian">Română</option>
+  <option value="tr" title="Turkish">Türkçe</option>
+  <option value="ru" title="Russian">Русский</option>
+  <option value="uk" title="Ukrainian">Українська</option>
+  <option value="zh-Hans" title="Chinese (Simplified)">简体中文</option>
+  <option value="zh-Hant" title="Chinese (Traditional)">繁體中文</option>
+</select>
+
+<script>
+    var currentPage = 'site/forusers/support.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    // split index.html if currentUrl is ended by '/'
+    var currentUrl = window.location.href;
+    if (currentUrl.slice(-1) == '/' && currentPage.slice(-1) != '/'){
+      var pages = currentPage.split('/');
+      pages.pop();
+      currentPage = pages.join('/') + '/';
+    }
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        // it's possible this is the index.html page called without 'index.html', try without the currentPage
+        if (langPlusPage==undefined){
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // it's possible this is an index.html page called without 'index.html', try removing index.html
+        if (langPlusPage==undefined){
+            currentPage = currentPage.replace('index.html','')
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // still no langPlugPage: stop, because the language swicher will misbehave
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+        // TODO: links should come from conf.py
+        // TODO: all template pages have the actual translation in sphinc.conf
+        // IMPORTANT: space, -, _ etc replacing below must be 100% inline with
+        // code in scripts/create_transifex_resources.sh !!
+        // https://github.com/qgis/QGIS-Website/blob/master/scripts/create_transifex_resources.sh
+        fix_translation_link = 'https://www.transifex.com/projects/p/qgis-website/translate/#' + 
+            currentLang.slice(1) + currentPage.replace(/_/g, "-").replace(/ /g, "-").replace(/\//g, "_").replace(/\.html/g, "").replace(/\./g, "-")
+        if ('/en/' != currentLang) {
+            $('#fix_translation_link').attr('href', fix_translation_link);
+        }
+        fix_text_link = 'https://github.com/qgis/QGIS-Website/edit/master/source/' +
+            currentPage.replace(/.html/g, ".rst")
+        // TODO: only on rst pages, here a list of pages which are actual templates?
+        if (true){
+            $('#fix_text_link').attr('href', fix_text_link);
+        }
+
+        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
+
+        $("#languages").change(function() {
+            gotoLang($(this).val());
+        });
+
+        if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
+        }
+        else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
+            // crontab is pulling url's below and copy to /feed at qgis.org
+            // https://changelog.qgis.org/en/qgis/members/json/
+            json2html('/feeds/members.json', '#qgissustainingmembersatom', 1000, true, 'span3');
+            // https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2
+            json2html('/feeds/qgispastmembers.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
+        }
+        else if (currentPage == "site/forusers/download.html"){
+            $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
+            '<h2>Thank you!</h2> <p/>'+
+            '<div class="container"><div class="span8">'+
+            '<p>Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href="https://donate.qgis.org/">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!</p>'+
+            '<p>The QGIS Team</p>'+
+            '</div><div class="container">'+
+            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="https://donate.qgis.org/">Donate Now</a></p><p class="muted"></p></div>'+
+            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">Close this message</a></p><p class="muted"></p></div>'+
+            '</div>'+
+            '<br/><p><img src="../../_static/images/splash.png"/></p></div>');
+            $('#thankyou').click(function(){ $('#thankyou').hide(); });
+            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
+            $('a.reference').click(function(){
+                $('#thankyou').show();
+                return true;
+            });
+        }
+        else if (currentPage == "site/forusers/alldownloads.html"){
+	    replacesha('qgis-rel-dev');
+	    replacesha('qgis-ltr-dev');
+	    replacesha('qgis-dev');
+        }
+    });
+
+    //
+    // load current page in a different language
+    //
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+    //
+    // function to load a json (feed) and create html for it
+    // currently only used for sustaining members
+    //
+    function json2html(url, holder, count, showcont, spanclass){
+        var html = '';
+        $.getJSON(url, function (data) {
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+
+            $.each( data.rss.channel.item, function( key, val ){
+              var item = val;
+              var imglink = '#';
+              var link = '#';
+              var content = '';
+              var member_level = 'Small';
+              if (item.member_url){link=item.member_url};
+              if (item.image_url){imglink=item.image_url};
+              if (item.member_level){member_level=item.member_level};
+              var title = item.title;
+              content = '<div><img class="member_img '+member_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="member_body '+member_level.toLowerCase()+'">'+item.member_country+'<br/>Membership level: '+member_level+'<br/>'+
+                '('+item.start_date+' - '+item.end_date+')</p>';
+              html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+              html+='<div class="memberdiv"><h4>'+title+'</h4>';
+              html+=content;
+              html+='</div></a></div>';
+            })
+          $(holder).append(html);
+        })
+    }
+    //
+    // function to load an atom feed, an put it in an element
+    //
+    function atom(url, holder, count, showcont, spanclass){
+        $.get(url, function (data) {
+            var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+            $(data).find("entry").each(function () {
+                var el = $(this);
+                var title = el.find('title').text();
+                var author = el.find('name').text();
+                var content = el.find('content').text();
+                if (content.length==0){
+                    // try summary
+                    content = el.find('summary').text();
+                }
+                var imglink='#';
+                var link='#';
+                el.find('link').each(
+                    function(){
+                        // flickr image for maps and qgis screenshots
+                        if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
+                            imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
+                        }
+                        // links
+                        else if ($(this).attr('rel') == 'alternate'){
+                            link = $(this).attr('href');
+                        }
+                    }
+                )
+                counter++;
+
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
+                    // html for flickr maps
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
+                    html+='</a></p></div>\n';
+                }
+                else if (counter<=maxitems){
+                    // visual changelogs, qugs feed and planet feed
+                    var addit = true;
+                    if (holder == '#qgisplanetatom'){
+                        var s = title.split(':');
+                        title = s[0];
+                        content = s[1];
+                        // skip blog.qgis.org posts
+                        if (link.indexOf('blog.qgis.org')>=0){
+                            addit = false;
+                            counter --;
+                        }
+                    }
+                    else if (holder == '#qgissustainingmembersatom' || holder == '#qgissustainingmembersatom'){
+                        html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+                        html+='<div class="memberdiv"><h4>'+title+'</h4>';
+                        html+=content;
+                        html+='</div></a></div>';
+                        addit = false; // we are building html ourselves!!
+                    }
+                    else if (holder == '#qgisblogatom'){
+                        var s = title.split(':');
+                        if (s[0] != 'QGIS Project blog'){
+                            addit = false;
+                            counter--;
+                        }
+                        // trying to extract date from link
+                        // http://blog.qgis.org/2017/09/02/do-you-want-to-host-a-qgis-developer-meeting/
+                        d = link.split('/').slice(3,6);  // 2017,09,02
+                        title = '<img src="../_static/logo.png" style="width:30px;"/> - ' + d[0] + '/' + d[1] + '/' + d[2] + ' - ' + s[1];
+                        content = '';
+                    }
+                    if (addit){
+                        html+='<a class="external" href="'+link+'">';
+                        html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
+                        if (showcontent) { html+=content; };
+                        html+='</div></a>\n';
+                    }
+                }
+            });
+            $(holder).append(html);
+        });
+    }
+
+    //
+    // function to replace a item
+    //
+    function replacesha(id) {
+      var xhr = new XMLHttpRequest();
+      xhr.onload = function () {
+	var sha = this.responseText.substring(this.responseText.indexOf(':')+1);
+        document.getElementById(id).innerHTML = "<a target=\"_new\" href=\"http://github.com/qgis/QGIS/commit/" + sha + "\">" + sha + "</a>";
+      };
+      xhr.open('GET', '/downloads/' + id + '.sha');
+      xhr.send();
+    }
+</script>
+        
+        <div class="nav-collapse collapse">
+          <ul class="unstyled nav main-menu">
+            <li><a href="../about/index.html">Discover QGIS</a></li>
+            <li><a href="index.html">For Users</a></li>
+            <li><a href="../getinvolved/index.html">Get Involved</a></li>
+            <li><a href="../../docs/index.html">Documentation</a></li>
+            <li>
+          
+<form class="navbar-search" action="../../search.html" method="get">
+  <input type="text" name="q" class="search-query" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div style="display:none;" class="container" id="nextprev" >
+    
+    <a accesskey="p" href="trainingmaterial/index.html">&lt;&lt; prev</a>
+    
+    
+    <a accesskey="n" href="usergroups.html">next &gt;&gt;</a>
+    
+    </div>
+
+
+
+
+    
+        <div class="container">
+            <div class="row">
+      <div class="span4">
+        <div id="sidebar" class="bs-sidenav well" data-spy="scroll"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../about/index.html">Discover QGIS</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">For Users</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="download.html">Download QGIS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="visualchangelogs.html">Visual Changelogs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="trainingmaterial/index.html">Training material</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Support</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#mailing-lists">Mailing Lists</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#stackexchange">StackExchange</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#communication-channels">Communication channels</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#telegram">Telegram</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#matrix-irc">Matrix / IRC</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#facebook">Facebook</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#user-groups">User Groups</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#website">Website</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#issue-tracker">Issue Tracker</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#commercial-support">Commercial Support</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="usergroups.html">User Groups</a></li>
+<li class="toctree-l2"><a class="reference internal" href="commercial_support.html">Commercial support</a></li>
+<li class="toctree-l2"><a class="reference external" href="http://plugins.qgis.org/plugins/">Plugins</a></li>
+<li class="toctree-l2"><a class="reference internal" href="books/index.html">Books</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../getinvolved/index.html">Get Involved / Development</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../docs/index.html">Documentation</a></li>
+</ul>
+
+        </div>
+      </div>
+                <div class="span8">
+                    
+                        
+                            <section id="support">
+<h1>Support<a class="headerlink" href="#support" title="Permalink to this headline">¶</a></h1>
+<section id="mailing-lists">
+<h2>Mailing Lists<a class="headerlink" href="#mailing-lists" title="Permalink to this headline">¶</a></h2>
+<p>QGIS has a bunch of mailing lists. See <a class="reference internal" href="../getinvolved/mailinglists.html#qgis-mailinglists"><span class="std std-ref">Mailing lists</span></a> for the different available lists.</p>
+<p>If you are going to ask questions please read this: <a class="reference internal" href="../getinvolved/faq/index.html#how-to-ask-a-qgis-question"><span class="std std-ref">How to ask a QGIS question?</span></a>.</p>
+</section>
+<section id="stackexchange">
+<h2>StackExchange<a class="headerlink" href="#stackexchange" title="Permalink to this headline">¶</a></h2>
+<p>On <a class="reference external" href="http://gis.stackexchange.com">http://gis.stackexchange.com</a> you can ask QGIS questions also. If you use the
+tag <code class="docutils literal notranslate"><span class="pre">qgis</span></code> you’ll see all QGIS related questions and answers:
+<a class="reference external" href="http://gis.stackexchange.com/?tags=qgis">http://gis.stackexchange.com/?tags=qgis</a></p>
+</section>
+<section id="communication-channels">
+<h2>Communication channels<a class="headerlink" href="#communication-channels" title="Permalink to this headline">¶</a></h2>
+<section id="telegram">
+<h3>Telegram<a class="headerlink" href="#telegram" title="Permalink to this headline">¶</a></h3>
+<p>There is a lot of user and community related chat (english spoken) on the Telegram channel you can join here:
+<a class="reference external" href="https://t.me/joinchat/Aq2V5RPoxYYhXqUPoxRWPQ">https://t.me/joinchat/Aq2V5RPoxYYhXqUPoxRWPQ</a></p>
+<p>To join: install Telegram on your phone, register and join via link above.</p>
+<p>There is also a web version (<a class="reference external" href="https://web.telegram.org">https://web.telegram.org</a>) which you can join in the browser (after you joined telegram via your phone(number)).</p>
+</section>
+<section id="matrix-irc">
+<h3>Matrix / IRC<a class="headerlink" href="#matrix-irc" title="Permalink to this headline">¶</a></h3>
+<p>Matrix (<a class="reference external" href="https://matrix.org">https://matrix.org</a>) is a project for decentralised chat. QGIS has a room accessible by the <strong>#qgis:osgeo.org</strong> alias (among others) which bridges to the libera.chat <strong>#qgis</strong> IRC channel.</p>
+<p>To use Matrix: create an account (at matrix.org is easiest, but if you have an OSGeo account you can also use your OSGeo id as matrix id), install a client (Elements is easiest, but see <a class="reference external" href="https://matrix.org/docs/projects/try-matrix-now/#clients">https://matrix.org/docs/projects/try-matrix-now/#clients</a> for more), OR point your browser to (<a class="reference external" href="https://matrix.to/#/!qgis:osgeo.org">https://matrix.to/#/!qgis:osgeo.org</a>)</p>
+<p>To use IRC: install an IRC client and connect to <a class="reference external" href="irc://irc.libera.chat/#qgis">irc://irc.libera.chat/#qgis</a> or point your browser to <a class="reference external" href="https://web.libera.chat/?channels=#qgis">https://web.libera.chat/?channels=#qgis</a></p>
+</section>
+<section id="facebook">
+<h3>Facebook<a class="headerlink" href="#facebook" title="Permalink to this headline">¶</a></h3>
+<p>For Facebook users, an english-speaking global community group for QGIS users can be found at <a class="reference external" href="https://www.facebook.com/groups/qgiscommunityofficialvirtualgroup">https://www.facebook.com/groups/qgiscommunityofficialvirtualgroup</a></p>
+</section>
+</section>
+<section id="user-groups">
+<h2>User Groups<a class="headerlink" href="#user-groups" title="Permalink to this headline">¶</a></h2>
+<p>Local QGIS user groups are a great place to meet other users.</p>
+<p>See <a class="reference internal" href="usergroups.html#qgis-usergroups"><span class="std std-ref">User Groups</span></a> to read about it.</p>
+</section>
+<section id="website">
+<h2>Website<a class="headerlink" href="#website" title="Permalink to this headline">¶</a></h2>
+<p>The website should be used to publish any material in relation to the information
+and management of the user group. Examples include the user meetings, case study,
+shared material, discussion boards, etc. Public material should be available without
+login requirements (e.g. do not require interested people to be a member of a social
+media network like Facebook or Google+). Usage of social media is recommended but
+should not be the only channel of information. RSS feeds should be made available
+at the Website of the QGIS user group.</p>
+<p>Good luck with the organization of your local user group. Please inform the
+international QGIS team by registering at the QGIS community list and reporting
+about your progress. Please do not hesitate to ask questions regarding the
+establishment and maintenance of your local user group.</p>
+</section>
+<section id="issue-tracker">
+<h2>Issue Tracker<a class="headerlink" href="#issue-tracker" title="Permalink to this headline">¶</a></h2>
+<p>If you want to file bugs or issues, see <a class="reference internal" href="../getinvolved/development/bugreporting.html#qgis-bugreporting"><span class="std std-ref">Bugs, Features and Issues</span></a>.</p>
+</section>
+<section id="commercial-support">
+<h2>Commercial Support<a class="headerlink" href="#commercial-support" title="Permalink to this headline">¶</a></h2>
+<p>You can also get support from companies near you, please visit this page: <a class="reference internal" href="commercial_support.html#qgis-commercial-support"><span class="std std-ref">Commercial support</span></a>.</p>
+</section>
+</section>
+
+                        
+                    
+                </div>
+                  
+            </div>
+        </div>
+    
+
+    <!--<a href="https://github.com/qgis/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10000;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>-->
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="usergroups.html" title="User Groups"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="trainingmaterial/index.html" title="Training material"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="index.html" >For Users</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Support</a></li> 
+      </ul>
+    </div>
+  <footer class="footer">
+
+    <div class="container">
+        <div>
+          <ul class="unstyled inline" id="social">
+            <li id="twitter"><a href="http://twitter.com/qgis" class="external"><div></div></a></li>
+            <li id="facebook"><a href="https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096" class="external"><div></div></a></li>
+            <li id="github"><a href="http://github.com/qgis/" class="external"><div></div></a></li>
+            <li id="aboutcontact"><a href="../getinvolved/index.html"><div></div></a></li>
+          </ul>
+        </div>
+
+        <p class="credit">If not stated otherwise, all content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a></p>
+    </div>
+    <div class="container">
+      <p class="credit">
+        Select graphics from <a href="https://thenounproject.com" target="_blank">The Noun Project collection</a>
+        
+        
+      </p>
+      <p class="credit">
+        Untranslated page? Or you spot a translation error:
+        <a id="fix_translation_link" target="_blank" href="https://www.transifex.com/projects/p/qgis-website/">fix me</a>
+        <br/>
+        Textual error, missing text or you know better:
+        <a id="fix_text_link" target="_blank" href="https://github.com/qgis/QGIS-Website">fix me</a>
+      </p>
+    </div>
+  </footer>
+
+  </body>
+</html>

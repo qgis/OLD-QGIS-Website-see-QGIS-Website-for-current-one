@@ -1,0 +1,651 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>QGIS geoprocessing model to simplify first level seismic microzonation analysis</title>
+    <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/basic.css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/qgis-style.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-sphinx.css" type="text/css" />
+    <script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
+    <script src="../../../_static/jquery.js"></script>
+    <script src="../../../_static/underscore.js"></script>
+    <script src="../../../_static/doctools.js"></script>
+    <script src="../../../_static/qgis-site.js"></script>
+    <script src="../../../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script src="../../../_static/jquery.countdown-2.0.4/jquery.countdown.min.js"></script>
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="Using the processing toolbox to automate snow classification" href="australia_snowyhydro.html" />
+    <link rel="prev" title="Water Observation and Information System: Enabling the Use of Earth Observation Data for Integrated Water Resource Management in Africa" href="africa_tiger.html" />
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="australia_snowyhydro.html" title="Using the processing toolbox to automate snow classification"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="africa_tiger.html" title="Water Observation and Information System: Enabling the Use of Earth Observation Data for Integrated Water Resource Management in Africa"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../index.html" >Discover QGIS</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="index.html" accesskey="U">Case Studies</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">QGIS geoprocessing model to simplify first level seismic microzonation analysis</a></li> 
+      </ul>
+    </div>
+
+    
+  <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="../../index.html">QGIS</a>
+        <span class="navbar-text pull-left"><p><b>3.26.2 ​ <br/> 3.22.10 LTR</b></p></span>
+        
+          <select id="languages">
+  <!-- note on the options here: the 'title' string is to be translated in your
+  language, but the element text is supposed to stay in native lang/txt -->
+  <option value="en" title="English">English</option>
+  <option value="ca" title="Catalan">Català</option>
+  <option value="da" title="Danish">Dansk</option>
+  <option value="de" title="German">Deutsch</option>
+  <option value="es" title="Spanish">Español</option>
+  <option value="fa" title="Persian">فارسی</option>
+  <option value="fi" title="Finnish">Suomi</option>
+  <option value="fr" title="French">Français</option>
+  <option value="gl" title="Galician">Galego</option>
+  <option value="id" title="Indonesian">Bahasa Indonesia</option>
+  <option value="it" title="Italian">Italiano</option>
+  <option value="hu" title="Hungarian">Magyar</option>
+  <option value="ja" title="Japanese">日本語</option>
+  <option value="km_KH" title="Khmer">ភាសាខ្មែរ    </option>
+  <option value="ko" title="Korean">한국어</option>
+  <option value="lt" title="Lithuanian">Lietuvių</option>
+  <option value="nl" title="Dutch">Nederlands</option>
+  <option value="pl" title="Polish">Polski</option>
+  <option value="pt_BR" title="Portuguesei (Brazil)">Português (Brasil)</option>
+  <option value="pt_PT" title="Portuguese">Português</option>
+  <option value="ro" title="Romanian">Română</option>
+  <option value="tr" title="Turkish">Türkçe</option>
+  <option value="ru" title="Russian">Русский</option>
+  <option value="uk" title="Ukrainian">Українська</option>
+  <option value="zh-Hans" title="Chinese (Simplified)">简体中文</option>
+  <option value="zh-Hant" title="Chinese (Traditional)">繁體中文</option>
+</select>
+
+<script>
+    var currentPage = 'site/about/case_studies/italy_rome.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    // split index.html if currentUrl is ended by '/'
+    var currentUrl = window.location.href;
+    if (currentUrl.slice(-1) == '/' && currentPage.slice(-1) != '/'){
+      var pages = currentPage.split('/');
+      pages.pop();
+      currentPage = pages.join('/') + '/';
+    }
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        // it's possible this is the index.html page called without 'index.html', try without the currentPage
+        if (langPlusPage==undefined){
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // it's possible this is an index.html page called without 'index.html', try removing index.html
+        if (langPlusPage==undefined){
+            currentPage = currentPage.replace('index.html','')
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // still no langPlugPage: stop, because the language swicher will misbehave
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+        // TODO: links should come from conf.py
+        // TODO: all template pages have the actual translation in sphinc.conf
+        // IMPORTANT: space, -, _ etc replacing below must be 100% inline with
+        // code in scripts/create_transifex_resources.sh !!
+        // https://github.com/qgis/QGIS-Website/blob/master/scripts/create_transifex_resources.sh
+        fix_translation_link = 'https://www.transifex.com/projects/p/qgis-website/translate/#' + 
+            currentLang.slice(1) + currentPage.replace(/_/g, "-").replace(/ /g, "-").replace(/\//g, "_").replace(/\.html/g, "").replace(/\./g, "-")
+        if ('/en/' != currentLang) {
+            $('#fix_translation_link').attr('href', fix_translation_link);
+        }
+        fix_text_link = 'https://github.com/qgis/QGIS-Website/edit/master/source/' +
+            currentPage.replace(/.html/g, ".rst")
+        // TODO: only on rst pages, here a list of pages which are actual templates?
+        if (true){
+            $('#fix_text_link').attr('href', fix_text_link);
+        }
+
+        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
+
+        $("#languages").change(function() {
+            gotoLang($(this).val());
+        });
+
+        if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
+        }
+        else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
+            // crontab is pulling url's below and copy to /feed at qgis.org
+            // https://changelog.qgis.org/en/qgis/members/json/
+            json2html('/feeds/members.json', '#qgissustainingmembersatom', 1000, true, 'span3');
+            // https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2
+            json2html('/feeds/qgispastmembers.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
+        }
+        else if (currentPage == "site/forusers/download.html"){
+            $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
+            '<h2>Thank you!</h2> <p/>'+
+            '<div class="container"><div class="span8">'+
+            '<p>Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href="https://donate.qgis.org/">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!</p>'+
+            '<p>The QGIS Team</p>'+
+            '</div><div class="container">'+
+            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="https://donate.qgis.org/">Donate Now</a></p><p class="muted"></p></div>'+
+            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">Close this message</a></p><p class="muted"></p></div>'+
+            '</div>'+
+            '<br/><p><img src="../../../_static/images/splash.png"/></p></div>');
+            $('#thankyou').click(function(){ $('#thankyou').hide(); });
+            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
+            $('a.reference').click(function(){
+                $('#thankyou').show();
+                return true;
+            });
+        }
+        else if (currentPage == "site/forusers/alldownloads.html"){
+	    replacesha('qgis-rel-dev');
+	    replacesha('qgis-ltr-dev');
+	    replacesha('qgis-dev');
+        }
+    });
+
+    //
+    // load current page in a different language
+    //
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+    //
+    // function to load a json (feed) and create html for it
+    // currently only used for sustaining members
+    //
+    function json2html(url, holder, count, showcont, spanclass){
+        var html = '';
+        $.getJSON(url, function (data) {
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+
+            $.each( data.rss.channel.item, function( key, val ){
+              var item = val;
+              var imglink = '#';
+              var link = '#';
+              var content = '';
+              var member_level = 'Small';
+              if (item.member_url){link=item.member_url};
+              if (item.image_url){imglink=item.image_url};
+              if (item.member_level){member_level=item.member_level};
+              var title = item.title;
+              content = '<div><img class="member_img '+member_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="member_body '+member_level.toLowerCase()+'">'+item.member_country+'<br/>Membership level: '+member_level+'<br/>'+
+                '('+item.start_date+' - '+item.end_date+')</p>';
+              html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+              html+='<div class="memberdiv"><h4>'+title+'</h4>';
+              html+=content;
+              html+='</div></a></div>';
+            })
+          $(holder).append(html);
+        })
+    }
+    //
+    // function to load an atom feed, an put it in an element
+    //
+    function atom(url, holder, count, showcont, spanclass){
+        $.get(url, function (data) {
+            var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+            $(data).find("entry").each(function () {
+                var el = $(this);
+                var title = el.find('title').text();
+                var author = el.find('name').text();
+                var content = el.find('content').text();
+                if (content.length==0){
+                    // try summary
+                    content = el.find('summary').text();
+                }
+                var imglink='#';
+                var link='#';
+                el.find('link').each(
+                    function(){
+                        // flickr image for maps and qgis screenshots
+                        if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
+                            imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
+                        }
+                        // links
+                        else if ($(this).attr('rel') == 'alternate'){
+                            link = $(this).attr('href');
+                        }
+                    }
+                )
+                counter++;
+
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
+                    // html for flickr maps
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
+                    html+='</a></p></div>\n';
+                }
+                else if (counter<=maxitems){
+                    // visual changelogs, qugs feed and planet feed
+                    var addit = true;
+                    if (holder == '#qgisplanetatom'){
+                        var s = title.split(':');
+                        title = s[0];
+                        content = s[1];
+                        // skip blog.qgis.org posts
+                        if (link.indexOf('blog.qgis.org')>=0){
+                            addit = false;
+                            counter --;
+                        }
+                    }
+                    else if (holder == '#qgissustainingmembersatom' || holder == '#qgissustainingmembersatom'){
+                        html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+                        html+='<div class="memberdiv"><h4>'+title+'</h4>';
+                        html+=content;
+                        html+='</div></a></div>';
+                        addit = false; // we are building html ourselves!!
+                    }
+                    else if (holder == '#qgisblogatom'){
+                        var s = title.split(':');
+                        if (s[0] != 'QGIS Project blog'){
+                            addit = false;
+                            counter--;
+                        }
+                        // trying to extract date from link
+                        // http://blog.qgis.org/2017/09/02/do-you-want-to-host-a-qgis-developer-meeting/
+                        d = link.split('/').slice(3,6);  // 2017,09,02
+                        title = '<img src="../_static/logo.png" style="width:30px;"/> - ' + d[0] + '/' + d[1] + '/' + d[2] + ' - ' + s[1];
+                        content = '';
+                    }
+                    if (addit){
+                        html+='<a class="external" href="'+link+'">';
+                        html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
+                        if (showcontent) { html+=content; };
+                        html+='</div></a>\n';
+                    }
+                }
+            });
+            $(holder).append(html);
+        });
+    }
+
+    //
+    // function to replace a item
+    //
+    function replacesha(id) {
+      var xhr = new XMLHttpRequest();
+      xhr.onload = function () {
+	var sha = this.responseText.substring(this.responseText.indexOf(':')+1);
+        document.getElementById(id).innerHTML = "<a target=\"_new\" href=\"http://github.com/qgis/QGIS/commit/" + sha + "\">" + sha + "</a>";
+      };
+      xhr.open('GET', '/downloads/' + id + '.sha');
+      xhr.send();
+    }
+</script>
+        
+        <div class="nav-collapse collapse">
+          <ul class="unstyled nav main-menu">
+            <li><a href="../index.html">Discover QGIS</a></li>
+            <li><a href="../../forusers/index.html">For Users</a></li>
+            <li><a href="../../getinvolved/index.html">Get Involved</a></li>
+            <li><a href="../../../docs/index.html">Documentation</a></li>
+            <li>
+          
+<form class="navbar-search" action="../../../search.html" method="get">
+  <input type="text" name="q" class="search-query" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div style="display:none;" class="container" id="nextprev" >
+    
+    <a accesskey="p" href="africa_tiger.html">&lt;&lt; prev</a>
+    
+    
+    <a accesskey="n" href="australia_snowyhydro.html">next &gt;&gt;</a>
+    
+    </div>
+
+
+
+
+    
+        <div class="container">
+            <div class="row">
+      <div class="span4">
+        <div id="sidebar" class="bs-sidenav well" data-spy="scroll"><ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Discover QGIS</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../features.html">Applications</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../screenshots.html">Map Examples</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../screenshots.html#screenshots">Screenshots</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Case Studies</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="index.html#id1">2019</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id2">2017</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id3">2016</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="index.html#id4">2015</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="europe_lynx.html">[2015/08] Lynx habitat analysis in the Southern Carpathians by Angela Dichte, Luca Ehrminger, Silvana Garcia Travesi Reyes, Tobias Hoppe and David Winger</a></li>
+<li class="toctree-l4"><a class="reference internal" href="africa_tiger.html">[2015/04] Water Observation and Information System: Enabling the Use of Earth Observation Data for Integrated Water Resource Management in Africa by Radoslaw Guzinski</a></li>
+<li class="toctree-l4 current"><a class="current reference internal" href="#">[2015/03] QGIS geoprocessing model to simplify first level seismic microzonation analysis by Giuseppe Cosentino and Francesco Pennica</a></li>
+<li class="toctree-l4"><a class="reference internal" href="australia_snowyhydro.html">[2015/02] Using the processing toolbox to automate snow classification by Andrew Jeffrey</a></li>
+<li class="toctree-l4"><a class="reference internal" href="china_hydro.html">[2015/02] Producing an arcHYDRO like output with QGIS by Robert Ward</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id5">2014</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id6">2013</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id7">2012</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id8">2011</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id9">2010</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id10">2009</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../sustaining_members.html">Sustaining members and Donors</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../shop_goodies.html">Goodies</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://plugins.qgis.org/planet/">Blogs</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../forusers/index.html">For Users</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../getinvolved/index.html">Get Involved / Development</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../docs/index.html">Documentation</a></li>
+</ul>
+
+        </div>
+      </div>
+                <div class="span8">
+                    
+                        
+                            <section id="qgis-geoprocessing-model-to-simplify-first-level-seismic-microzonation-analysis">
+<h1>QGIS geoprocessing model to simplify first level seismic microzonation analysis<a class="headerlink" href="#qgis-geoprocessing-model-to-simplify-first-level-seismic-microzonation-analysis" title="Permalink to this headline">¶</a></h1>
+<p>The Institute of Environmental Geology and Geoengineering (IGAG) of the National
+Research Council (CNR) is located in Rome, in the Area of Research “Roma 1”.
+It was founded in 2002 by regrouping five former research Institutes and Centers
+that had been active for more than 40 years in their field of expertise.
+IGAG covers a wide range of scientific topics in the field of Earth sciences,
+mainly focusing towards the study of:</p>
+<ul class="simple">
+<li><p>Environmental geochemistry and remediation of contaminated soils and waters;</p></li>
+<li><p>Mineral deposits and mineral processing, including the treatment of waste waters;</p></li>
+<li><p>Geoengineering and safety of rock excavations;</p></li>
+<li><p>Recent geological evolution;</p></li>
+<li><p>Mitigation of natural hazards;</p></li>
+<li><p>Geoarchaeology and archaeometry.</p></li>
+<li><p>Marine Geology</p></li>
+<li><p>Geomatics, GIS analysis and development.</p></li>
+</ul>
+<p>The level 1 seismic microzonation study of the Pietramontecorvino area (Apulia,
+Southern Italy, located along the Central-Southern Apennine chain) is part of a project,
+in collaboration with the Basin Authority of Apulia (Puglia AdB) and the Department of
+Geology and Geophysics (DGG) of the University of Bari, aimed at the seismic microzonation
+of 63 Municipalities of the area of Foggia. The activity was promoted by the Italian
+Department of Civil Protection (DPC) and financed by the Interministerial Committee
+for Economic Planning (CIPE n. 20/2004).</p>
+<section id="qgis-geoprocessing-tool-for-first-level-seismic-microzonation-studies">
+<h2>QGIS geoprocessing tool for first level seismic microzonation studies<a class="headerlink" href="#qgis-geoprocessing-tool-for-first-level-seismic-microzonation-studies" title="Permalink to this headline">¶</a></h2>
+<p>The seismic microzonation evaluate the seismic hazard at the local scale proposing
+to identify areas of territory characterized by homogeneous seismic behavior.
+The first level of seismic microzoning has the purpose of defining the lithological
+properties and geometry of geological units that characterize these portions of
+territory (microzones).</p>
+<p>The observation of the damage caused by an earthquake often shows variations at local
+scale caused not only by geological structures but also by different quality and
+type of building structures, resulting in different seismic hazards.</p>
+<p>The seismic microzonation evaluates the local seismic hazard, through the identification
+of areas of territory characterized by homogeneous seismic behavior.</p>
+<p>The Guidelines and Criteria for Seismic microzoning 2008 (<a class="reference external" href="http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137">http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137</a>)
+provide standards for seismic microzoning studies on Italian territory;
+they distinguish three levels of increasing depth (from 1 to 3).</p>
+<p>The first level seismic microzonation consists in the creation of three thematic maps:</p>
+<ol class="arabic simple">
+<li><p>Survey map containing the surveys for seismic microzonation studies;</p></li>
+<li><p>Geo-lithological map, obtained from detailed scale geological and geomorphological
+maps integrating existing lithological, stratigraphic and geotechnical data related to surveys;</p></li>
+<li><p>Level 1 seismic microzonation map (the principal product of level 1 microzonation),
+identifying the microzones into three categories of local hazards:</p>
+<ul class="simple">
+<li><p>Stable zones;</p></li>
+<li><p>Stable zones prone to ground amplification;</p></li>
+<li><p>Unstable zones.</p></li>
+</ul>
+</li>
+</ol>
+<p>The scope of this work is to contribute to the creation of a methodology for processing
+topographical, geological, geophysical and geo-technical data aimed at level 1 seismic
+microzonation map drafting, through the use of open source tools.</p>
+<p>The Graphical Modeler tool integrated in the latest version of QGIS (2.8.1 as of writing)
+has been used for the creation of a simple geoprocessing model. This tool is useful to
+automate one of the analysis commonly performed for the creation of level 1 seismic
+microzonation maps, in particular to identify unstable zones as polygon features.</p>
+<p>The model makes use of different open source software and libraries (GRASS, GDAL, QGIS),
+demonstrating the usefulness of QGIS as a simplified and unified interface for heterogeneous
+GFOSS (Geospatial Free and Open Source Software) tools (Fig. 1).</p>
+<figure class="align-right" id="id1">
+<a class="reference internal image-reference" href="../../../_images/italy_igag1.png"><img alt="Geoprocessing model" src="../../../_images/italy_igag1.png" style="width: 720.0px; height: 504.90000000000003px;" /></a>
+<figcaption>
+<p><span class="caption-text">(Fig. 1) Screenshot from the geoprocessing model.</span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>The model takes as input (Fig. 2):</p>
+<ul class="simple">
+<li><p>A shapefile of contour lines containing a field with elevation values;</p></li>
+<li><p>The name of the field  containing elevation values;</p></li>
+<li><p>The desired raster resolution in meters for DEM and Slope (default 10);</p></li>
+<li><p>A polygon shapefile from which features intersecting areas with slope greater than 15 degrees will be extracted;</p></li>
+<li><p>The name of the resulting polygon layer.</p></li>
+</ul>
+<figure class="align-right" id="id2">
+<a class="reference internal image-reference" href="../../../_images/italy_igag2.png"><img alt="Model input form (left) and execution log (right)" src="../../../_images/italy_igag2.png" style="width: 720.0px; height: 266.40000000000003px;" /></a>
+<figcaption>
+<p><span class="caption-text">(Fig. 2) Model input form (left) and execution log (right).</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>When launched, the model performs the following operations:</p>
+<ul class="simple">
+<li><p>The GRASS tool v.to.rast.attribute converts contour elevation lines to raster,
+taking the contour shapefile, the name of the z field and the raster resolution as input;</p></li>
+<li><p>The GRASS tool r.surf.contour generates the elevation model taking as input the rasterized
+temporary output from previous step and the raster resolution;</p></li>
+<li><p>The GDAL tool “gdaldem” generates the slope expressed as degrees from the elevation model;</p></li>
+<li><p>The GRASS tool r.mapcalculator is used to generate a 1 bit raster identifying areas with
+slope greater than 15 degrees (this value is coded in the microzonation guidelines,
+and so it is fixed), using the expression:</p></li>
+</ul>
+<p>if(A&gt;15,1,null())</p>
+<p>where A is the temporary slope raster generated by gdaldem;</p>
+<ul class="simple">
+<li><p>The GDAL tool “gdal_polygonize” converts the 1 bit raster to polygons;</p></li>
+<li><p>The QGIS tool “Intersection” is used to overlay the areas with slope greater
+than 15 degrees with the chosen intersection layer.</p></li>
+</ul>
+<p>The result is a polygon layer with areas prone to instability due to a slope value greater
+than 15 degrees, automatically extracted from a thematic map such as a landslides polygon layer
+(Fig. 3) or a lithological map.</p>
+<figure class="align-right" id="id3">
+<a class="reference internal image-reference" href="../../../_images/italy_igag3.png"><img alt="The model output (in red) shows highly unstable areas extracted from a landslides layer (orange)" src="../../../_images/italy_igag3.png" style="width: 720.0px; height: 417.6px;" /></a>
+<figcaption>
+<p><span class="caption-text">(Fig. 3) The model output (in red) shows highly unstable areas extracted from a landslides layer (orange).</span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+</section>
+<section id="conclusions">
+<h2>Conclusions<a class="headerlink" href="#conclusions" title="Permalink to this headline">¶</a></h2>
+<p>This work clearly demonstrates that open source GIS tools like QGIS, GRASS, GDAL/OGR, can successfully
+be used for spatial analysis and data processing aimed at first level seismic microzonation  studies.
+In this example work, QGIS has been used as a simplified and unified interface for different high
+quality GFOSS tools; the Graphical Modeler allows to intuitively construct geoprocessing models
+that can be easily shared as portable and cross-platform tools that doesn’t require expensive software licenses.
+The tool leverages the QGIS modeling capabilities to graphically chain different algorithms,
+defining input and output parameters and leaving to the software the task of managing
+intermediate data output. The use of GRASS algorithms does not require defining and using
+a GRASS database and mapset, greatly simplifying the design of the model.
+Future developments include the creation of a package of tools and models, based on open source software,
+that can be used to simplify and speed up spatial analysis tasks necessary for seismic microzonation studies.</p>
+</section>
+<section id="references">
+<h2>References<a class="headerlink" href="#references" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>G. Baldassarre; Gallicchio, S.; Giannandrea, P. &amp; Tropeano, M.: “Relazione Finale Geolitologica
+per la microzonazione sismica di livello 1dei Comuni della Provincia di Foggia Dipartimento
+di Geologia e Geofisica dell’Università di Bari, 2011”</p></li>
+<li><p>Cavinato,G.P.; Cavuoto, G.; Coltella, M.; Cosentino, G.; Paolucci, E.; Peronace, E. &amp; Simionato,
+M.: “Studio di fattibilità per il monitoraggio e la messa in sicurezza delle aree urbane a rischio
+di stabilità statica e vulnerabilità strutturale del Comune e della Provincia di Foggia -
+CIPE 20/2004 Consiglio Nazionale delle Ricerche - Istituto di Geologia Ambientale e Geoingegneria, 2013, 526”</p></li>
+<li><p>Contributi per l’aggiornamento degli “Indirizzi e criteri per la microzonazione sismica ” 2008.
+Ingegneria sismica, Pàtron Editore Bologna, 2011 (<a class="reference external" href="http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB28083">http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB28083</a>)</p></li>
+<li><p>Gruppo di lavoro MS, 2008. Indirizzi e criteri per la microzonazione sismica.
+Conferenza delle Regioni e delle Province autonome - Dipartimento della protezione civile, Roma,
+3 vol. e Dvd, Presidenza del Consiglio dei Ministri, Dipartimento di Protezione Civile, 2008, 424.
+(<a class="reference external" href="http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137">http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137</a>)</p></li>
+</ul>
+</section>
+<section id="authors">
+<h2>Authors<a class="headerlink" href="#authors" title="Permalink to this headline">¶</a></h2>
+<p>This article was contributed March 2015 by Giuseppe Cosentino and Francesco Pennica (www.igag.cnr.it).</p>
+<figure class="align-left" id="id4">
+<a class="reference internal image-reference" href="../../../_images/guiseppe_cosentino.png"><img alt="Giuseppe Cosentino" src="../../../_images/guiseppe_cosentino.png" style="height: 200px;" /></a>
+<figcaption>
+<p><span class="caption-text">Giuseppe Cosentino</span><a class="headerlink" href="#id4" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>Giuseppe Cosentino &lt;<a class="reference external" href="mailto:g&#46;cosentino&#37;&#52;&#48;igag&#46;cnr&#46;it">g<span>&#46;</span>cosentino<span>&#64;</span>igag<span>&#46;</span>cnr<span>&#46;</span>it</a>&gt; is geologist and technologist specializied
+in Geographic Information Systems for the management of geological and engineering hazards.
+Currently working in the field of seismic microzonation and environmental characterization
+of the lands in contaminated sites.
+Areas of interest: geological and environmental hazards, cartography, structural geology, explorative drillings.</p>
+<figure class="align-left" id="id5">
+<a class="reference internal image-reference" href="../../../_images/francesco_pennica.png"><img alt="Francesco Pennica" src="../../../_images/francesco_pennica.png" style="height: 200px;" /></a>
+<figcaption>
+<p><span class="caption-text">Francesco Pennica</span><a class="headerlink" href="#id5" title="Permalink to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>Francesco Pennica provides GIS and  WebGIS software development and data management:
+GeoServer, MapServer, ArcGIS Server, GeoNetwork OGC standard based webgis services, Java,
+HTML, CSS, Javascript, Python, PHP languages and frameworks, WebGIS front-end development
+with OpenLayers, ExtJS, GeoExt, JQuery, GWT, Ext-GWT, Google Maps API
+SQL, geodatabase management, PostgreSQL, PostGIS, GIS desktop software based analysis and
+scripting (ArcGIS, GRASS, GFOSS tools), Software configuration and management in Linux
+and Windows based servers and desktops.</p>
+</section>
+</section>
+
+                        
+                    
+                </div>
+                  
+            </div>
+        </div>
+    
+
+    <!--<a href="https://github.com/qgis/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10000;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>-->
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="australia_snowyhydro.html" title="Using the processing toolbox to automate snow classification"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="africa_tiger.html" title="Water Observation and Information System: Enabling the Use of Earth Observation Data for Integrated Water Resource Management in Africa"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../index.html" >Discover QGIS</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="index.html" >Case Studies</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">QGIS geoprocessing model to simplify first level seismic microzonation analysis</a></li> 
+      </ul>
+    </div>
+  <footer class="footer">
+
+    <div class="container">
+        <div>
+          <ul class="unstyled inline" id="social">
+            <li id="twitter"><a href="http://twitter.com/qgis" class="external"><div></div></a></li>
+            <li id="facebook"><a href="https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096" class="external"><div></div></a></li>
+            <li id="github"><a href="http://github.com/qgis/" class="external"><div></div></a></li>
+            <li id="aboutcontact"><a href="../../getinvolved/index.html"><div></div></a></li>
+          </ul>
+        </div>
+
+        <p class="credit">If not stated otherwise, all content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a></p>
+    </div>
+    <div class="container">
+      <p class="credit">
+        Select graphics from <a href="https://thenounproject.com" target="_blank">The Noun Project collection</a>
+        
+        
+      </p>
+      <p class="credit">
+        Untranslated page? Or you spot a translation error:
+        <a id="fix_translation_link" target="_blank" href="https://www.transifex.com/projects/p/qgis-website/">fix me</a>
+        <br/>
+        Textual error, missing text or you know better:
+        <a id="fix_text_link" target="_blank" href="https://github.com/qgis/QGIS-Website">fix me</a>
+      </p>
+    </div>
+  </footer>
+
+  </body>
+</html>

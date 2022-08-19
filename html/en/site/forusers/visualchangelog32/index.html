@@ -1,0 +1,1235 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Changelog for QGIS 3.2</title>
+    <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/basic.css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/qgis-style.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-sphinx.css" type="text/css" />
+    <script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
+    <script src="../../../_static/jquery.js"></script>
+    <script src="../../../_static/underscore.js"></script>
+    <script src="../../../_static/doctools.js"></script>
+    <script src="../../../_static/qgis-site.js"></script>
+    <script src="../../../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script src="../../../_static/jquery.countdown-2.0.4/jquery.countdown.min.js"></script>
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="Changelog for QGIS 3.0" href="../visualchangelog30/index.html" />
+    <link rel="prev" title="Changelog for QGIS 3.4 LTR" href="../visualchangelog34/index.html" />
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="../visualchangelog30/index.html" title="Changelog for QGIS 3.0"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="../visualchangelog34/index.html" title="Changelog for QGIS 3.4 LTR"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../index.html" >For Users</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="../visualchangelogs.html" accesskey="U">Visual Changelogs</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Changelog for QGIS 3.2</a></li> 
+      </ul>
+    </div>
+
+    
+  <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="../../index.html">QGIS</a>
+        <span class="navbar-text pull-left"><p><b>3.26.2 ​ <br/> 3.22.10 LTR</b></p></span>
+        
+          <select id="languages">
+  <!-- note on the options here: the 'title' string is to be translated in your
+  language, but the element text is supposed to stay in native lang/txt -->
+  <option value="en" title="English">English</option>
+  <option value="ca" title="Catalan">Català</option>
+  <option value="da" title="Danish">Dansk</option>
+  <option value="de" title="German">Deutsch</option>
+  <option value="es" title="Spanish">Español</option>
+  <option value="fa" title="Persian">فارسی</option>
+  <option value="fi" title="Finnish">Suomi</option>
+  <option value="fr" title="French">Français</option>
+  <option value="gl" title="Galician">Galego</option>
+  <option value="id" title="Indonesian">Bahasa Indonesia</option>
+  <option value="it" title="Italian">Italiano</option>
+  <option value="hu" title="Hungarian">Magyar</option>
+  <option value="ja" title="Japanese">日本語</option>
+  <option value="km_KH" title="Khmer">ភាសាខ្មែរ    </option>
+  <option value="ko" title="Korean">한국어</option>
+  <option value="lt" title="Lithuanian">Lietuvių</option>
+  <option value="nl" title="Dutch">Nederlands</option>
+  <option value="pl" title="Polish">Polski</option>
+  <option value="pt_BR" title="Portuguesei (Brazil)">Português (Brasil)</option>
+  <option value="pt_PT" title="Portuguese">Português</option>
+  <option value="ro" title="Romanian">Română</option>
+  <option value="tr" title="Turkish">Türkçe</option>
+  <option value="ru" title="Russian">Русский</option>
+  <option value="uk" title="Ukrainian">Українська</option>
+  <option value="zh-Hans" title="Chinese (Simplified)">简体中文</option>
+  <option value="zh-Hant" title="Chinese (Traditional)">繁體中文</option>
+</select>
+
+<script>
+    var currentPage = 'site/forusers/visualchangelog32/index.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    // split index.html if currentUrl is ended by '/'
+    var currentUrl = window.location.href;
+    if (currentUrl.slice(-1) == '/' && currentPage.slice(-1) != '/'){
+      var pages = currentPage.split('/');
+      pages.pop();
+      currentPage = pages.join('/') + '/';
+    }
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        // it's possible this is the index.html page called without 'index.html', try without the currentPage
+        if (langPlusPage==undefined){
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // it's possible this is an index.html page called without 'index.html', try removing index.html
+        if (langPlusPage==undefined){
+            currentPage = currentPage.replace('index.html','')
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // still no langPlugPage: stop, because the language swicher will misbehave
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+        // TODO: links should come from conf.py
+        // TODO: all template pages have the actual translation in sphinc.conf
+        // IMPORTANT: space, -, _ etc replacing below must be 100% inline with
+        // code in scripts/create_transifex_resources.sh !!
+        // https://github.com/qgis/QGIS-Website/blob/master/scripts/create_transifex_resources.sh
+        fix_translation_link = 'https://www.transifex.com/projects/p/qgis-website/translate/#' + 
+            currentLang.slice(1) + currentPage.replace(/_/g, "-").replace(/ /g, "-").replace(/\//g, "_").replace(/\.html/g, "").replace(/\./g, "-")
+        if ('/en/' != currentLang) {
+            $('#fix_translation_link').attr('href', fix_translation_link);
+        }
+        fix_text_link = 'https://github.com/qgis/QGIS-Website/edit/master/source/' +
+            currentPage.replace(/.html/g, ".rst")
+        // TODO: only on rst pages, here a list of pages which are actual templates?
+        if (true){
+            $('#fix_text_link').attr('href', fix_text_link);
+        }
+
+        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
+
+        $("#languages").change(function() {
+            gotoLang($(this).val());
+        });
+
+        if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
+        }
+        else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
+            // crontab is pulling url's below and copy to /feed at qgis.org
+            // https://changelog.qgis.org/en/qgis/members/json/
+            json2html('/feeds/members.json', '#qgissustainingmembersatom', 1000, true, 'span3');
+            // https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2
+            json2html('/feeds/qgispastmembers.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
+        }
+        else if (currentPage == "site/forusers/download.html"){
+            $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
+            '<h2>Thank you!</h2> <p/>'+
+            '<div class="container"><div class="span8">'+
+            '<p>Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href="https://donate.qgis.org/">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!</p>'+
+            '<p>The QGIS Team</p>'+
+            '</div><div class="container">'+
+            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="https://donate.qgis.org/">Donate Now</a></p><p class="muted"></p></div>'+
+            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">Close this message</a></p><p class="muted"></p></div>'+
+            '</div>'+
+            '<br/><p><img src="../../../_static/images/splash.png"/></p></div>');
+            $('#thankyou').click(function(){ $('#thankyou').hide(); });
+            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
+            $('a.reference').click(function(){
+                $('#thankyou').show();
+                return true;
+            });
+        }
+        else if (currentPage == "site/forusers/alldownloads.html"){
+	    replacesha('qgis-rel-dev');
+	    replacesha('qgis-ltr-dev');
+	    replacesha('qgis-dev');
+        }
+    });
+
+    //
+    // load current page in a different language
+    //
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+    //
+    // function to load a json (feed) and create html for it
+    // currently only used for sustaining members
+    //
+    function json2html(url, holder, count, showcont, spanclass){
+        var html = '';
+        $.getJSON(url, function (data) {
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+
+            $.each( data.rss.channel.item, function( key, val ){
+              var item = val;
+              var imglink = '#';
+              var link = '#';
+              var content = '';
+              var member_level = 'Small';
+              if (item.member_url){link=item.member_url};
+              if (item.image_url){imglink=item.image_url};
+              if (item.member_level){member_level=item.member_level};
+              var title = item.title;
+              content = '<div><img class="member_img '+member_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="member_body '+member_level.toLowerCase()+'">'+item.member_country+'<br/>Membership level: '+member_level+'<br/>'+
+                '('+item.start_date+' - '+item.end_date+')</p>';
+              html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+              html+='<div class="memberdiv"><h4>'+title+'</h4>';
+              html+=content;
+              html+='</div></a></div>';
+            })
+          $(holder).append(html);
+        })
+    }
+    //
+    // function to load an atom feed, an put it in an element
+    //
+    function atom(url, holder, count, showcont, spanclass){
+        $.get(url, function (data) {
+            var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+            $(data).find("entry").each(function () {
+                var el = $(this);
+                var title = el.find('title').text();
+                var author = el.find('name').text();
+                var content = el.find('content').text();
+                if (content.length==0){
+                    // try summary
+                    content = el.find('summary').text();
+                }
+                var imglink='#';
+                var link='#';
+                el.find('link').each(
+                    function(){
+                        // flickr image for maps and qgis screenshots
+                        if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
+                            imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
+                        }
+                        // links
+                        else if ($(this).attr('rel') == 'alternate'){
+                            link = $(this).attr('href');
+                        }
+                    }
+                )
+                counter++;
+
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
+                    // html for flickr maps
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
+                    html+='</a></p></div>\n';
+                }
+                else if (counter<=maxitems){
+                    // visual changelogs, qugs feed and planet feed
+                    var addit = true;
+                    if (holder == '#qgisplanetatom'){
+                        var s = title.split(':');
+                        title = s[0];
+                        content = s[1];
+                        // skip blog.qgis.org posts
+                        if (link.indexOf('blog.qgis.org')>=0){
+                            addit = false;
+                            counter --;
+                        }
+                    }
+                    else if (holder == '#qgissustainingmembersatom' || holder == '#qgissustainingmembersatom'){
+                        html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+                        html+='<div class="memberdiv"><h4>'+title+'</h4>';
+                        html+=content;
+                        html+='</div></a></div>';
+                        addit = false; // we are building html ourselves!!
+                    }
+                    else if (holder == '#qgisblogatom'){
+                        var s = title.split(':');
+                        if (s[0] != 'QGIS Project blog'){
+                            addit = false;
+                            counter--;
+                        }
+                        // trying to extract date from link
+                        // http://blog.qgis.org/2017/09/02/do-you-want-to-host-a-qgis-developer-meeting/
+                        d = link.split('/').slice(3,6);  // 2017,09,02
+                        title = '<img src="../_static/logo.png" style="width:30px;"/> - ' + d[0] + '/' + d[1] + '/' + d[2] + ' - ' + s[1];
+                        content = '';
+                    }
+                    if (addit){
+                        html+='<a class="external" href="'+link+'">';
+                        html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
+                        if (showcontent) { html+=content; };
+                        html+='</div></a>\n';
+                    }
+                }
+            });
+            $(holder).append(html);
+        });
+    }
+
+    //
+    // function to replace a item
+    //
+    function replacesha(id) {
+      var xhr = new XMLHttpRequest();
+      xhr.onload = function () {
+	var sha = this.responseText.substring(this.responseText.indexOf(':')+1);
+        document.getElementById(id).innerHTML = "<a target=\"_new\" href=\"http://github.com/qgis/QGIS/commit/" + sha + "\">" + sha + "</a>";
+      };
+      xhr.open('GET', '/downloads/' + id + '.sha');
+      xhr.send();
+    }
+</script>
+        
+        <div class="nav-collapse collapse">
+          <ul class="unstyled nav main-menu">
+            <li><a href="../../about/index.html">Discover QGIS</a></li>
+            <li><a href="../index.html">For Users</a></li>
+            <li><a href="../../getinvolved/index.html">Get Involved</a></li>
+            <li><a href="../../../docs/index.html">Documentation</a></li>
+            <li>
+          
+<form class="navbar-search" action="../../../search.html" method="get">
+  <input type="text" name="q" class="search-query" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div style="display:none;" class="container" id="nextprev" >
+    
+    <a accesskey="p" href="../visualchangelog34/index.html">&lt;&lt; prev</a>
+    
+    
+    <a accesskey="n" href="../visualchangelog30/index.html">next &gt;&gt;</a>
+    
+    </div>
+
+
+
+
+    
+        <div class="container">
+            <div class="row">
+      <div class="span4">
+        <div id="sidebar" class="bs-sidenav well" data-spy="scroll"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../about/index.html">Discover QGIS</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">For Users</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../download.html">Download QGIS</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../visualchangelogs.html">Visual Changelogs</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog326/index.html">Changelog for QGIS 3.26</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog324/index.html">Changelog for QGIS 3.24</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog322/index.html">Changelog for QGIS 3.22</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog320/index.html">Changelog for QGIS 3.20</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog318/index.html">Changelog for QGIS 3.18</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog316/index.html">Changelog for QGIS 3.16</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog314/index.html">Changelog for QGIS 3.14</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog312/index.html">Changelog for QGIS 3.12</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog310/index.html">Changelog for QGIS 3.10</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog38/index.html">Changelog for QGIS 3.8</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog36/index.html">Changelog for QGIS 3.6</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog34/index.html">Changelog for QGIS 3.4 LTR</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Changelog for QGIS 3.2</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#sponsors-for-qgis-version-3-2">Sponsors for QGIS version 3.2</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#general">General</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#map-tools">Map Tools</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#expressions">Expressions</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#user-interface">User Interface</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#symbology">Symbology</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#rendering">Rendering</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#data-management">Data Management</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#forms-and-widgets">Forms and Widgets</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#layer-legend">Layer Legend</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#map-composer">Map Composer</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#processing">Processing</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#application-and-project-options">Application and Project Options</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#browser">Browser</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#data-providers">Data Providers</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#plugins">Plugins</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#d-features">3D Features</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog30/index.html">Changelog for QGIS 3.0</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog218/index.html">Changelog for QGIS 2.18</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog216/index.html">Changelog for QGIS 2.16</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog214/index.html">Changelog for QGIS 2.14</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog212/index.html">Changelog for QGIS 2.12</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog210/index.html">Changelog for QGIS 2.10</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog28/index.html">Changelog for QGIS 2.8</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog260/index.html">Changelog for QGIS 2.6</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog240/index.html">Changelog for QGIS 2.4</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog220/index.html">Changelog for QGIS 2.2</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog200/index.html">Changelog for QGIS 2.0</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../trainingmaterial/index.html">Training material</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../support.html">Support</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../usergroups.html">User Groups</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../commercial_support.html">Commercial support</a></li>
+<li class="toctree-l2"><a class="reference external" href="http://plugins.qgis.org/plugins/">Plugins</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../books/index.html">Books</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../getinvolved/index.html">Get Involved / Development</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../docs/index.html">Documentation</a></li>
+</ul>
+
+        </div>
+      </div>
+                <div class="span8">
+                    
+                        
+                            <section id="changelog-for-qgis-3-2">
+<span id="changelog32"></span><h1>Changelog for QGIS 3.2<a class="headerlink" href="#changelog-for-qgis-3-2" title="Permalink to this headline">¶</a></h1>
+<p><img alt="image1" src="../../../_images/8f04d904f903b8bff930e6c968fe46928e6cc012.png" /></p>
+<p>The greatest QGIS release ever! QGIS 3.2 brings a massive list of new changes - the highlights of which we will try to cover here. As always can we remind you that QGIS is an open source project and if you are able to, consider supporting our work through <a class="reference external" href="https://donate.qgis.org">donations</a>, <a class="reference internal" href="../../getinvolved/governance/sustaining_members/sustaining_members.html#qgis-sustaining-memberships"><span class="std std-ref">sustaining memberships</span></a> or contributions to the code documentation, web site and so on.</p>
+<p><strong>Thanks</strong></p>
+<p>We would like to thank the developers, documenters, testers and all the many folks out there who volunteer their time and effort (or fund people to do so). From the QGIS community we hope you enjoy this release! If you wish to donate time, money or otherwise get involved in making QGIS more awesome, please wander along to <a class="reference external" href="https://qgis.org">qgis.org</a> and lend a hand!</p>
+<p>QGIS is supported by donors and sustaining members. A current list of donors who have made financial contributions large and small to the project can be seen on our <a class="reference internal" href="../../about/sustaining_members.html#list-of-donors"><span class="std std-ref">donors list</span></a>. If you would like to become an official sustaining member, please visit <a class="reference internal" href="../../about/sustaining_members.html#qgis-sustaining-members"><span class="std std-ref">our sustaining membership page</span></a> for details. Supporting QGIS helps us to fund our six monthly developer meetings, maintain project infrastructure and fund bug fixing efforts. A complete list of current sustaining members is provided below - our very great thank you to all of our supporters!</p>
+<p>QGIS is Free software and you are under no obligation to pay anything to use it - in fact we want to encourage people far and wide to use it regardless of what your financial or social status is - we believe empowering people with spatial decision making tools will result in a better society for all of humanity.</p>
+<div class="contents local topic" id="contents">
+<ul class="simple">
+<li><p><a class="reference internal" href="#sponsors-for-qgis-version-3-2" id="id1">Sponsors for QGIS version 3.2</a></p></li>
+<li><p><a class="reference internal" href="#general" id="id2">General</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-new-zipped-project-file-format-qgz-is-now-the-default-format" id="id3">Feature: New zipped project file format .qgz is now the default format</a></p></li>
+<li><p><a class="reference internal" href="#feature-filtering-for-field-values-in-query-builder" id="id4">Feature: Filtering for field values in Query Builder</a></p></li>
+<li><p><a class="reference internal" href="#feature-full-screen-map-via-ctrl-shift-tab" id="id5">Feature: FULL screen Map via Ctrl-Shift-Tab</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#map-tools" id="id6">Map Tools</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-simplify-map-tool-can-now-also-smooth-features" id="id7">Feature: Simplify map tool can now also smooth features</a></p></li>
+<li><p><a class="reference internal" href="#feature-identify-tool-with-extra-options" id="id8">Feature: Identify Tool with extra options</a></p></li>
+<li><p><a class="reference internal" href="#feature-store-also-expanded-collapsed-state-of-nodes-in-map-themes" id="id9">Feature: Store also expanded/collapsed state of nodes in map Themes</a></p></li>
+<li><p><a class="reference internal" href="#feature-auto-zoom-to-selection-mode-for-new-map-views" id="id10">Feature: Auto “Zoom to Selection” mode for new map views</a></p></li>
+<li><p><a class="reference internal" href="#feature-choice-of-simplification-method-for-simplify-map-tool" id="id11">Feature: Choice of simplification method for simplify map tool</a></p></li>
+<li><p><a class="reference internal" href="#feature-add-zoom-to-related-feature-in-forms" id="id12">Feature: add zoom to related feature in forms</a></p></li>
+<li><p><a class="reference internal" href="#feature-cartesian-areas-lengths-perimeters-in-identify-results" id="id13">Feature: Cartesian areas/lengths/perimeters in identify results</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#expressions" id="id14">Expressions</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-new-expression-functions" id="id15">Feature: New expression functions</a></p></li>
+<li><p><a class="reference internal" href="#feature-more-helpful-expression-builder" id="id16">Feature: More helpful expression builder</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#user-interface" id="id17">User Interface</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-layers-panel-indicators-for-filtered-map-layers" id="id18">Feature: Layers panel: indicators for filtered map layers</a></p></li>
+<li><p><a class="reference internal" href="#feature-allow-customizing-prefix-of-locator-filters" id="id19">Feature: Allow customizing prefix of locator filters</a></p></li>
+<li><p><a class="reference internal" href="#feature-opening-of-vector-and-raster-stored-on-http-s-ftp-or-cloud-services" id="id20">Feature: Opening of vector and raster stored on HTTP(S), FTP, or cloud services</a></p></li>
+<li><p><a class="reference internal" href="#feature-quick-calculator-in-locator-search-bar" id="id21">Feature: Quick calculator in locator search bar</a></p></li>
+<li><p><a class="reference internal" href="#feature-shortcuts-for-toggling-panels" id="id22">Feature: Shortcuts for toggling panels</a></p></li>
+<li><p><a class="reference internal" href="#feature-bookmark-searching-in-locator" id="id23">Feature: Bookmark searching in locator</a></p></li>
+<li><p><a class="reference internal" href="#feature-close-and-revert-project-actions" id="id24">Feature: Close and Revert Project actions</a></p></li>
+<li><p><a class="reference internal" href="#feature-unsaved-changes-indicator-in-title-bar" id="id25">Feature: Unsaved changes indicator in title bar</a></p></li>
+<li><p><a class="reference internal" href="#feature-configurable-map-tips-delay" id="id26">Feature: Configurable map tips delay</a></p></li>
+<li><p><a class="reference internal" href="#feature-move-layer-or-group-to-top-of-layer-panel" id="id27">Feature: Move layer or group to top of layer panel</a></p></li>
+<li><p><a class="reference internal" href="#feature-copy-statistics-panel-content-to-clipboard-button" id="id28">Feature: Copy statistics panel content to clipboard button</a></p></li>
+<li><p><a class="reference internal" href="#feature-search-settings-options-and-project-properties-pages-from-locator" id="id29">Feature: Search Settings, Options, and Project Properties pages from locator</a></p></li>
+<li><p><a class="reference internal" href="#feature-indicators-for-embedded-layers-and-groups" id="id30">Feature: Indicators for embedded layers and groups</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#symbology" id="id31">Symbology</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-nicer-colors-for-new-layers" id="id32">Feature: Nicer colors for new layers</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#rendering" id="id33">Rendering</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-improved-map-copyright-decoration" id="id34">Feature: Improved map Copyright decoration</a></p></li>
+<li><p><a class="reference internal" href="#feature-main-window-scale-bar-font-size-and-family-can-be-customized" id="id35">Feature: Main window scale bar font size and family can be customized</a></p></li>
+<li><p><a class="reference internal" href="#feature-custom-svg-path-and-size-for-the-north-arrow-decoration" id="id36">Feature: Custom SVG path and size for the north arrow decoration</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#data-management" id="id37">Data Management</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-refresh-a-materialized-view" id="id38">Feature: Refresh a materialized view</a></p></li>
+<li><p><a class="reference internal" href="#feature-z-and-m-support-for-offline-editing" id="id39">Feature: Z and M support for offline editing</a></p></li>
+<li><p><a class="reference internal" href="#feature-metadata-for-qgis-projects" id="id40">Feature: Metadata for QGIS projects</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#forms-and-widgets" id="id41">Forms and Widgets</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-multi-column-layout-for-multiselect-value-relation-widget" id="id42">Feature: Multi-column layout for multiselect value relation widget</a></p></li>
+<li><p><a class="reference internal" href="#feature-allow-using-a-url-for-custom-attribute-forms-ui-file" id="id43">Feature: Allow using a URL for custom attribute forms (UI file)</a></p></li>
+<li><p><a class="reference internal" href="#feature-drill-down-cascading-forms" id="id44">Feature: Drill-down (cascading) forms</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#layer-legend" id="id45">Layer Legend</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-optional-text-on-top-of-symbols-for-vector-layers" id="id46">Feature: Optional text on top of symbols for vector layers</a></p></li>
+<li><p><a class="reference internal" href="#feature-copy-paste-group-layers-from-a-qgis-project-to-another" id="id47">Feature: Copy&amp;Paste Group/Layers from a QGIS project to another.</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#map-composer" id="id48">Map Composer</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-data-defined-table-source-for-attribute-table-items" id="id49">Feature: Data defined table source for attribute table items</a></p></li>
+<li><p><a class="reference internal" href="#feature-project-metadata-embedded-in-layout-exports" id="id50">Feature: Project metadata embedded in layout exports</a></p></li>
+<li><p><a class="reference internal" href="#feature-better-formatting-for-scalebar-text" id="id51">Feature: Better formatting for scalebar text</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#processing" id="id52">Processing</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-improved-join-by-attribute-table-algorithm" id="id53">Feature: Improved ‘Join by attribute table’ algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-load-script-from-template" id="id54">Feature: Load script from template</a></p></li>
+<li><p><a class="reference internal" href="#feature-feature-filter-algorithm-for-processing-models" id="id55">Feature: Feature filter algorithm for processing models</a></p></li>
+<li><p><a class="reference internal" href="#feature-zonal-histogram" id="id56">Feature: Zonal histogram</a></p></li>
+<li><p><a class="reference internal" href="#feature-port-union-difference-and-intersection-algorithms-to-c" id="id57">Feature: Port Union, Difference and Intersection algorithms to C++</a></p></li>
+<li><p><a class="reference internal" href="#feature-project-points-cartesian-algorithm" id="id58">Feature: ‘Project points (cartesian)’ algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-dynamic-parameter-values-for-more-algorithms" id="id59">Feature: Dynamic parameter values for more algorithms</a></p></li>
+<li><p><a class="reference internal" href="#feature-multi-ring-buffer-constant-distance-algorithm" id="id60">Feature: Multi-ring buffer (constant distance) algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-new-segmentize-algorithms" id="id61">Feature: New “segmentize” algorithms</a></p></li>
+<li><p><a class="reference internal" href="#feature-option-to-create-points-on-all-polygon-parts" id="id62">Feature: Option to create points on all polygon parts</a></p></li>
+<li><p><a class="reference internal" href="#feature-rotate-features-algorithm" id="id63">Feature: Rotate Features algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-line-sinuosity-in-add-geometry-attributes" id="id64">Feature: Line sinuosity in “Add Geometry Attributes”</a></p></li>
+<li><p><a class="reference internal" href="#feature-import-geotagged-photos" id="id65">Feature: Import geotagged photos</a></p></li>
+<li><p><a class="reference internal" href="#feature-swap-x-y-coordinate-values-algorithm" id="id66">Feature: Swap x/y coordinate values algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-sort-order-option-for-add-incremental-field" id="id67">Feature: Sort order option for “Add Incremental Field”</a></p></li>
+<li><p><a class="reference internal" href="#feature-indicator-for-distance-parameter-units" id="id68">Feature: Indicator for distance parameter units</a></p></li>
+<li><p><a class="reference internal" href="#feature-algorithm-log-can-be-saved-cleared-copied" id="id69">Feature: Algorithm log can be saved/cleared/copied</a></p></li>
+<li><p><a class="reference internal" href="#feature-wedge-buffer-algorithm" id="id70">Feature: Wedge buffer algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-variable-width-buffers" id="id71">Feature: Variable width buffers</a></p></li>
+<li><p><a class="reference internal" href="#feature-reclassify-raster-algorithms" id="id72">Feature: Reclassify raster algorithms</a></p></li>
+<li><p><a class="reference internal" href="#feature-union-algorithm-with-a-single-layer" id="id73">Feature: Union algorithm with a single layer</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#application-and-project-options" id="id74">Application and Project Options</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-mandatory-layers-in-project" id="id75">Feature: Mandatory layers in project</a></p></li>
+<li><p><a class="reference internal" href="#feature-saving-and-loading-projects-in-postgresql-database" id="id76">Feature: Saving and loading projects in PostgreSQL database</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#browser" id="id77">Browser</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-save-load-connections-for-xyz-tiles" id="id78">Feature: Save/Load connections for XYZ Tiles</a></p></li>
+<li><p><a class="reference internal" href="#feature-project-home-path-can-be-manually-set" id="id79">Feature: Project home path can be manually set</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#data-providers" id="id80">Data Providers</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-support-for-mesh-layers" id="id81">Feature: Support for mesh layers</a></p></li>
+<li><p><a class="reference internal" href="#feature-automatically-set-default-style-for-layers-for-arcgis-feature-server-layers" id="id82">Feature: Automatically set default style for layers for ArcGIS Feature Server layers</a></p></li>
+<li><p><a class="reference internal" href="#feature-faster-oracle-queries" id="id83">Feature: Faster Oracle queries</a></p></li>
+<li><p><a class="reference internal" href="#feature-restrict-table-list-for-a-oracle-database-connection-to-a-preset-schema" id="id84">Feature: Restrict table list for a Oracle database connection to a preset schema</a></p></li>
+<li><p><a class="reference internal" href="#feature-read-only-support-for-curved-oracle-geometries" id="id85">Feature: Read only support for curved Oracle geometries</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#plugins" id="id86">Plugins</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-adding-query-history-in-db-manager" id="id87">Feature: Adding query history in DB Manager</a></p></li>
+<li><p><a class="reference internal" href="#feature-db-manager-sql-execution-in-background" id="id88">Feature: DB Manager SQL execution in background</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#d-features" id="id89">3D Features</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-3d-polygons-optionally-generate-back-faces" id="id90">Feature: 3D Polygons: Optionally generate back faces</a></p></li>
+</ul>
+</li>
+</ul>
+</div>
+<section id="sponsors-for-qgis-version-3-2">
+<h2><a class="toc-backref" href="#id1">Sponsors for QGIS version 3.2</a><a class="headerlink" href="#sponsors-for-qgis-version-3-2" title="Permalink to this headline">¶</a></h2>
+<p>A special thanks to all our <a class="reference internal" href="../../about/sustaining_members.html#qgis-sustaining-members"><span class="std std-ref">sustaining members, sponsors and donors</span></a> for helping us to make this release possible!</p>
+</section>
+<section id="general">
+<h2><a class="toc-backref" href="#id2">General</a><a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h2>
+<section id="feature-new-zipped-project-file-format-qgz-is-now-the-default-format">
+<h3><a class="toc-backref" href="#id3">Feature: New zipped project file format .qgz is now the default format</a><a class="headerlink" href="#feature-new-zipped-project-file-format-qgz-is-now-the-default-format" title="Permalink to this headline">¶</a></h3>
+<p>QGZ was added as an optional format in 3.0.
+Having this format as the default format will ease a lot the path to go to a container able to embed resources like SVG, offline data in GPKG, color ramps, plugins or scripts.</p>
+<p><img alt="image29" src="../../../_images/15e0d291ccc9722a61ed5d2611d3ac4c0eef3685.png.400x300_q85_crop.jpg" /></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/pblottiere">OSLANDIA - Paul Blottiere</a></p>
+</section>
+<section id="feature-filtering-for-field-values-in-query-builder">
+<h3><a class="toc-backref" href="#id4">Feature: Filtering for field values in Query Builder</a><a class="headerlink" href="#feature-filtering-for-field-values-in-query-builder" title="Permalink to this headline">¶</a></h3>
+<p>When creating a new expression filter in query builder, you can now filter the field values preview panel.</p>
+<p><img alt="image30" src="../../../_images/731d930d07ca6d35f6bff727ef94a6322fcf21d0.gif.400x300_q85_crop.jpg" /></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/slarosa">Salvatore Larosa</a></p>
+</section>
+<section id="feature-full-screen-map-via-ctrl-shift-tab">
+<h3><a class="toc-backref" href="#id5">Feature: FULL screen Map via Ctrl-Shift-Tab</a><a class="headerlink" href="#feature-full-screen-map-via-ctrl-shift-tab" title="Permalink to this headline">¶</a></h3>
+<p>Besides Ctrl-Tab you can now do Ctrl-Shift-Tab, which will show you the Map and ONLY the Map, no more toolbars or buttons (or even without Window Title, in combination with F11).
+Great for Full Screen Map projection via Beamer or on Big Screens.
+You can still zoom and pan!
+(Based on work of Mathieu Pellerin)</p>
+<p><img alt="image31" src="../../../_images/e05bfa8d423465a0ec6697fac1d21dfeee177aea.png.400x300_q85_crop.jpg" /></p>
+<p>This feature was developed by Richard Duivenvoorde</p>
+</section>
+</section>
+<section id="map-tools">
+<h2><a class="toc-backref" href="#id6">Map Tools</a><a class="headerlink" href="#map-tools" title="Permalink to this headline">¶</a></h2>
+<section id="feature-simplify-map-tool-can-now-also-smooth-features">
+<h3><a class="toc-backref" href="#id7">Feature: Simplify map tool can now also smooth features</a><a class="headerlink" href="#feature-simplify-map-tool-can-now-also-smooth-features" title="Permalink to this headline">¶</a></h3>
+<p>The Simplify Features map tool has been renamed to “Simplify/Smooth Features”, and now supports interactive smoothing of features.</p>
+<p><img alt="image2" src="../../../_images/eca7851f8710661b929a99722afd28707f5926b3.png.400x300_q85_crop.png" /></p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-identify-tool-with-extra-options">
+<h3><a class="toc-backref" href="#id8">Feature: Identify Tool with extra options</a><a class="headerlink" href="#feature-identify-tool-with-extra-options" title="Permalink to this headline">¶</a></h3>
+<p>With the new improvements, user can now use similar tools to the Selection to identify multiple features.</p>
+<div class="col-lg-8 col-md-offset-1"></div><p>This feature was funded by Leicestershire County Council and East Hampshire District Council</p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk">Martin Dobias and Viktor Sklencar</a></p>
+</section>
+<section id="feature-store-also-expanded-collapsed-state-of-nodes-in-map-themes">
+<h3><a class="toc-backref" href="#id9">Feature: Store also expanded/collapsed state of nodes in map Themes</a><a class="headerlink" href="#feature-store-also-expanded-collapsed-state-of-nodes-in-map-themes" title="Permalink to this headline">¶</a></h3>
+<p>Each map theme will also record which layers, groups and legend items are expanded, so when a map theme is selected, the expanded/collapsed states get applied in the layer tree.</p>
+<p><img alt="image3" src="../../../_images/0cfc7d80448436d67a4b1e92773e66eda5900a57.PNG.400x300_q85_crop.png" /></p>
+<p>This feature was funded by <a class="reference external" href="https://www.arpa.piemonte.it/">Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk">Martin Dobias (Lutra Consulting)</a> and <a class="reference external" href="https://www.faunalia.eu">Faunalia</a></p>
+</section>
+<section id="feature-auto-zoom-to-selection-mode-for-new-map-views">
+<h3><a class="toc-backref" href="#id10">Feature: Auto “Zoom to Selection” mode for new map views</a><a class="headerlink" href="#feature-auto-zoom-to-selection-mode-for-new-map-views" title="Permalink to this headline">¶</a></h3>
+<p>A new map view can be configured to automatically zoom to the current selection. Could be combined with different map themes as in this example.</p>
+<p><img alt="image4" src="../../../_images/17848d809ce5a999115619ace229b6f07dba272a.PNG.400x300_q85_crop.png" /></p>
+<p>This feature was funded by <a class="reference external" href="https://www.technologyonecorp.com/">Technology One</a></p>
+<p>This feature was developed by <a class="reference external" href="https://nathanw.net/">Nathan Woodrow</a></p>
+</section>
+<section id="feature-choice-of-simplification-method-for-simplify-map-tool">
+<h3><a class="toc-backref" href="#id11">Feature: Choice of simplification method for simplify map tool</a><a class="headerlink" href="#feature-choice-of-simplification-method-for-simplify-map-tool" title="Permalink to this headline">¶</a></h3>
+<p>This allows different techniques to be used for simplification in the interactive simplify map tool, including the more cartographically pleasing “Visvalingam” simplification algorithm.</p>
+<p><img alt="image5" src="../../../_images/085ad891fdc2b416a89603a6962544d165f2cef1.PNG.400x300_q85_crop.png" /></p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-add-zoom-to-related-feature-in-forms">
+<h3><a class="toc-backref" href="#id12">Feature: add zoom to related feature in forms</a><a class="headerlink" href="#feature-add-zoom-to-related-feature-in-forms" title="Permalink to this headline">¶</a></h3>
+<p>A new button appears in the feature attribute sub form when one or more records are selected in a related table. The button zooms the map to these features if they have geometries.</p>
+<p><img alt="image6" src="../../../_images/697d671bf6227445e10f9c899c0740b4225c1e7f.PNG.400x300_q85_crop.png" /></p>
+<p>This feature was developed by Jürgen Fischer</p>
+</section>
+<section id="feature-cartesian-areas-lengths-perimeters-in-identify-results">
+<h3><a class="toc-backref" href="#id13">Feature: Cartesian areas/lengths/perimeters in identify results</a><a class="headerlink" href="#feature-cartesian-areas-lengths-perimeters-in-identify-results" title="Permalink to this headline">¶</a></h3>
+<p>In QGIS 3.2 we now show both ellipsoidal and cartesian areas, lengths and perimeters separately within the identify results panel. Seeing the two distinct measurements gives users a better understanding of potential issues in area or distance calculations caused by incorrect projection or ellipsoid choices.</p>
+<p><img alt="image7" src="../../../_images/28e185f928be7d08fd2971828a1daed53c224394.png.400x300_q85_crop.png" /></p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+</section>
+<section id="expressions">
+<h2><a class="toc-backref" href="#id14">Expressions</a><a class="headerlink" href="#expressions" title="Permalink to this headline">¶</a></h2>
+<section id="feature-new-expression-functions">
+<h3><a class="toc-backref" href="#id15">Feature: New expression functions</a><a class="headerlink" href="#feature-new-expression-functions" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>color_grayscale_average()</p></li>
+<li><p>color_mix_rgb()</p></li>
+<li><p>flip_coordinates()</p></li>
+<li><p>wedge_buffer()</p></li>
+<li><p>tapered_buffer()</p></li>
+<li><p>buffer_by_m()</p></li>
+</ul>
+<p>New variables:</p>
+<ul class="simple">
+<li><p>&#64;project_home</p></li>
+<li><p>&#64;project_author</p></li>
+<li><p>&#64;project_abstract</p></li>
+<li><p>&#64;project_creation_date</p></li>
+<li><p>&#64;project_identifier</p></li>
+<li><p>&#64;project_keywords</p></li>
+</ul>
+<p>This feature was developed by Mathieu Pellerin, Nyall Dawson</p>
+</section>
+<section id="feature-more-helpful-expression-builder">
+<h3><a class="toc-backref" href="#id16">Feature: More helpful expression builder</a><a class="headerlink" href="#feature-more-helpful-expression-builder" title="Permalink to this headline">¶</a></h3>
+<p>The expression builder now makes it easier to build expressions within QGIS!</p>
+<ul class="simple">
+<li><p>The builder now shows the description for data defined values, including the range of expected values from the expression</p></li>
+<li><p>Ctrl+clicking a function name in the current expression will automatically open the help for that function</p></li>
+<li><p>It now shows indicators for parts of expressions with errors</p></li>
+<li><p>It shows a complete list of error messages obtained from parsing the expression</p></li>
+</ul>
+<p><img alt="image8" src="../../../_images/a296b411a0950f6bbd9af3c3cffec90b509b6e78.png.400x300_q85_crop.png" /></p>
+<p>This feature was funded by <a class="reference external" href="https://www.technologyonecorp.com/">Technology One</a></p>
+<p>This feature was developed by <a class="reference external" href="https://nathanw.net/">Nathan Woodrow</a></p>
+</section>
+</section>
+<section id="user-interface">
+<h2><a class="toc-backref" href="#id17">User Interface</a><a class="headerlink" href="#user-interface" title="Permalink to this headline">¶</a></h2>
+<section id="feature-layers-panel-indicators-for-filtered-map-layers">
+<h3><a class="toc-backref" href="#id18">Feature: Layers panel: indicators for filtered map layers</a><a class="headerlink" href="#feature-layers-panel-indicators-for-filtered-map-layers" title="Permalink to this headline">¶</a></h3>
+<p>The main window’s layer tree view (ToC) gets support for indicators that are shown when a vector layer has a filter applied. This makes it easier for users to understand that they are looking at a subset of all data. Clicking the indicator’s icon brings up query builder.</p>
+<p>This adds a mini-framework for display of extra icons in layer tree views next to layer and group names. Tool tip text can be associated with indicators to give extra context for indicators. In addition, a signal gets emitted when user clicks indicators and custom actions can be defined. The idea is that indicators can be used in the future for a subtle reporting of various bits of information, for example:</p>
+<ul class="simple">
+<li><p>map layer with invalid geometries</p></li>
+<li><p>map layer with on-the-fly reprojection exceptions</p></li>
+<li><p>map layer has missing data source</p></li>
+<li><p>map layer with invalid CRS</p></li>
+</ul>
+<p><img alt="image9" src="../../../_images/ff2206aa7147ca68357ea4e3a1354bc231fb49cc.png.400x300_q85_crop.jpg" /></p>
+<p>This feature was funded by <a class="reference external" href="https://www.arpa.piemonte.it/">Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk">Martin Dobias (Lutra Consulting)</a> and <a class="reference external" href="https://www.faunalia.eu">Faunalia</a></p>
+</section>
+<section id="feature-allow-customizing-prefix-of-locator-filters">
+<h3><a class="toc-backref" href="#id19">Feature: Allow customizing prefix of locator filters</a><a class="headerlink" href="#feature-allow-customizing-prefix-of-locator-filters" title="Permalink to this headline">¶</a></h3>
+<p>Prefixes of locator filters can now be customized under the application settings in the “Locator” tab</p>
+<p><img alt="image10" src="../../../_images/d45b0ff62c8013eed8171c3bc42c9cdacc7dac10.png.400x300_q85_crop.png" /></p>
+<p>This feature was funded by <a class="reference external" href="https://qgis.ch">QGIS User Group Switzerland</a></p>
+<p>This feature was developed by <a class="reference external" href="https://opengis.ch">Denis Rouzaud, OPENGIS.ch</a></p>
+</section>
+<section id="feature-opening-of-vector-and-raster-stored-on-http-s-ftp-or-cloud-services">
+<h3><a class="toc-backref" href="#id20">Feature: Opening of vector and raster stored on HTTP(S), FTP, or cloud services</a><a class="headerlink" href="#feature-opening-of-vector-and-raster-stored-on-http-s-ftp-or-cloud-services" title="Permalink to this headline">¶</a></h3>
+<p>In 3.2, the data source manager’s vector and raster panels have been updated to simplify opening of vector and raster datasets stored on HTTP(S), FTP, or cloud services. Basic HTTP(S) authentication support included.</p>
+<p><img alt="image11" src="../../../_images/06e06201fb4db385ae14d6932353ce0b0b035e83.jpg.400x300_q85_crop.jpg" /></p>
+<p>This feature was developed by <a class="reference external" href="http://www.imhere-asia.com/">Mathieu Pellerin</a></p>
+</section>
+<section id="feature-quick-calculator-in-locator-search-bar">
+<h3><a class="toc-backref" href="#id21">Feature: Quick calculator in locator search bar</a><a class="headerlink" href="#feature-quick-calculator-in-locator-search-bar" title="Permalink to this headline">¶</a></h3>
+<p>QGIS 3.2 allows evaluation of simple expressions (well, actually ANY QGIS expression… so you could use aggregates and the like if you really wanted!) by entering “= ” followed by an expression into the locator bar. If a valid expression is entered, users are given an option to copy the result to the clipboard.</p>
+<p>E.g. entering “= 10/3” shows a locator entry “Copy ‘3.3333333’ to clipboard”.</p>
+<p><img alt="image12" src="../../../_images/873ea8846c5f2f2cea56e8d4602bb41ac0567d7d.png.400x300_q85_crop.jpg" /></p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-shortcuts-for-toggling-panels">
+<h3><a class="toc-backref" href="#id22">Feature: Shortcuts for toggling panels</a><a class="headerlink" href="#feature-shortcuts-for-toggling-panels" title="Permalink to this headline">¶</a></h3>
+<p>Ctrl+{no} shortcut</p>
+<p>This feature was funded by <a class="reference external" href="https://www.technologyonecorp.com/">Technology One</a></p>
+<p>This feature was developed by <a class="reference external" href="https://nathanw.net/">Nathan Woodrow</a></p>
+</section>
+<section id="feature-bookmark-searching-in-locator">
+<h3><a class="toc-backref" href="#id23">Feature: Bookmark searching in locator</a><a class="headerlink" href="#feature-bookmark-searching-in-locator" title="Permalink to this headline">¶</a></h3>
+<p>Allows search for spatial bookmarks. Double clicking a search result will zoom to the bookmark.</p>
+<p>Short video: <a class="reference external" href="https://www.youtube.com/watch?v=ymW4TU8QWy4">https://www.youtube.com/watch?v=ymW4TU8QWy4</a></p>
+<p>The new filter presents itself with a prefix of “b” and with tr( “Spatial bookmarks” ) as displayname.</p>
+<p>This feature was developed by Klavs Pihlkjær</p>
+</section>
+<section id="feature-close-and-revert-project-actions">
+<h3><a class="toc-backref" href="#id24">Feature: Close and Revert Project actions</a><a class="headerlink" href="#feature-close-and-revert-project-actions" title="Permalink to this headline">¶</a></h3>
+<p>Two new actions have been added to the “Project” menu</p>
+<ul class="simple">
+<li><p>“Close”: Closes the active project, returning the QGIS window to the “Recent Projects” list</p></li>
+<li><p>“Revert”: Restores the active project to the last saved state, discarding all unsaved changes</p></li>
+</ul>
+<p><img alt="image13" src="../../../_images/3801ee06f51aa6517fd1c4a5de5eafffd4114f71.png.400x300_q85_crop.png" /></p>
+<p>This feature was developed by Nathan Woodrow, Nyall Dawson</p>
+</section>
+<section id="feature-unsaved-changes-indicator-in-title-bar">
+<h3><a class="toc-backref" href="#id25">Feature: Unsaved changes indicator in title bar</a><a class="headerlink" href="#feature-unsaved-changes-indicator-in-title-bar" title="Permalink to this headline">¶</a></h3>
+<p>QGIS 3.2 now follows the standard UI approach of indicating that the current project has unsaved changes by adding a “*” prefix to the project name in the application title bar. This makes it easy to see if you have unsaved changes at a single glance!</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-configurable-map-tips-delay">
+<h3><a class="toc-backref" href="#id26">Feature: Configurable map tips delay</a><a class="headerlink" href="#feature-configurable-map-tips-delay" title="Permalink to this headline">¶</a></h3>
+<p>This feature was developed by jdugge</p>
+</section>
+<section id="feature-move-layer-or-group-to-top-of-layer-panel">
+<h3><a class="toc-backref" href="#id27">Feature: Move layer or group to top of layer panel</a><a class="headerlink" href="#feature-move-layer-or-group-to-top-of-layer-panel" title="Permalink to this headline">¶</a></h3>
+<p>Moves the selected layer(s) or group(s) to the top of the layer panel.</p>
+<p>This feature was developed by Mie Winstrup</p>
+</section>
+<section id="feature-copy-statistics-panel-content-to-clipboard-button">
+<h3><a class="toc-backref" href="#id28">Feature: Copy statistics panel content to clipboard button</a><a class="headerlink" href="#feature-copy-statistics-panel-content-to-clipboard-button" title="Permalink to this headline">¶</a></h3>
+<p>It is now possible to copy the statistics panel’s output table into the clipboard.</p>
+<p><img alt="image14" src="../../../_images/0d1f4be90052251c05a1fc351dd099aaa92c65f7.png.400x300_q85_crop.png" /></p>
+<p>This feature was developed by <a class="reference external" href="http://www.imhere-asia.com/">Mathieu Pellerin</a></p>
+</section>
+<section id="feature-search-settings-options-and-project-properties-pages-from-locator">
+<h3><a class="toc-backref" href="#id29">Feature: Search Settings, Options, and Project Properties pages from locator</a><a class="headerlink" href="#feature-search-settings-options-and-project-properties-pages-from-locator" title="Permalink to this headline">¶</a></h3>
+<p>Short video: <a class="reference external" href="https://www.youtube.com/watch?v=duB2YekUmV0">https://www.youtube.com/watch?v=duB2YekUmV0</a></p>
+<p>The new filter presents itself with a prefix of “s” and with tr( “Settings” ) as displayname.</p>
+<p>This feature was developed by Klavs Pihlkjær</p>
+</section>
+<section id="feature-indicators-for-embedded-layers-and-groups">
+<h3><a class="toc-backref" href="#id30">Feature: Indicators for embedded layers and groups</a><a class="headerlink" href="#feature-indicators-for-embedded-layers-and-groups" title="Permalink to this headline">¶</a></h3>
+<p>Embedded project layers and groups are now flagged by a handy “embedded” indicator, making it immediately clear to users which layers and groups have been embedded inside a project.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+</section>
+<section id="symbology">
+<h2><a class="toc-backref" href="#id31">Symbology</a><a class="headerlink" href="#symbology" title="Permalink to this headline">¶</a></h2>
+<section id="feature-nicer-colors-for-new-layers">
+<h3><a class="toc-backref" href="#id32">Feature: Nicer colors for new layers</a><a class="headerlink" href="#feature-nicer-colors-for-new-layers" title="Permalink to this headline">¶</a></h3>
+<p>The “random” colors assigned to new map layers are no longer “random” but instead randomly selected from a preset palette of “visually pleasing” colors. Say goodbye to ugly baby puke green layers!</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+</section>
+<section id="rendering">
+<h2><a class="toc-backref" href="#id33">Rendering</a><a class="headerlink" href="#rendering" title="Permalink to this headline">¶</a></h2>
+<section id="feature-improved-map-copyright-decoration">
+<h3><a class="toc-backref" href="#id34">Feature: Improved map Copyright decoration</a><a class="headerlink" href="#feature-improved-map-copyright-decoration" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Expression support for the copyright text.</p></li>
+<li><p>Improved text formatting options, including shadows, outlines, backgrounds, etc.</p></li>
+</ul>
+<p>This feature was developed by <a class="reference external" href="http://www.imhere-asia.com/">Mathieu Pellerin</a></p>
+</section>
+<section id="feature-main-window-scale-bar-font-size-and-family-can-be-customized">
+<h3><a class="toc-backref" href="#id35">Feature: Main window scale bar font size and family can be customized</a><a class="headerlink" href="#feature-main-window-scale-bar-font-size-and-family-can-be-customized" title="Permalink to this headline">¶</a></h3>
+<p>This feature was developed by <a class="reference external" href="http://www.imhere-asia.com/">Mathieu Pellerin</a></p>
+</section>
+<section id="feature-custom-svg-path-and-size-for-the-north-arrow-decoration">
+<h3><a class="toc-backref" href="#id36">Feature: Custom SVG path and size for the north arrow decoration</a><a class="headerlink" href="#feature-custom-svg-path-and-size-for-the-north-arrow-decoration" title="Permalink to this headline">¶</a></h3>
+<p>This feature was developed by <a class="reference external" href="http://www.imhere-asia.com/">Mathieu Pellerin</a></p>
+</section>
+</section>
+<section id="data-management">
+<h2><a class="toc-backref" href="#id37">Data Management</a><a class="headerlink" href="#data-management" title="Permalink to this headline">¶</a></h2>
+<section id="feature-refresh-a-materialized-view">
+<h3><a class="toc-backref" href="#id38">Feature: Refresh a materialized view</a><a class="headerlink" href="#feature-refresh-a-materialized-view" title="Permalink to this headline">¶</a></h3>
+<p>From the browser, with a right click on a materialized view, you can now refresh it.</p>
+<p><img alt="image15" src="../../../_images/125ee6837700d992fb8b6452ab1b346ba96c5cce.png.400x300_q85_crop.png" /></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/Gustry">Etienne Trimaille</a></p>
+</section>
+<section id="feature-z-and-m-support-for-offline-editing">
+<h3><a class="toc-backref" href="#id39">Feature: Z and M support for offline editing</a><a class="headerlink" href="#feature-z-and-m-support-for-offline-editing" title="Permalink to this headline">¶</a></h3>
+<p>Offline editing now also supports layers with Z and M coordinates.</p>
+<p>This feature was funded by <a class="reference external" href="https://messtechnik.ch/">Oester Messtechnik</a></p>
+<p>This feature was developed by <a class="reference external" href="https://opengis.ch">Matthias Kuhn, OPENGIS.ch</a></p>
+</section>
+<section id="feature-metadata-for-qgis-projects">
+<h3><a class="toc-backref" href="#id40">Feature: Metadata for QGIS projects</a><a class="headerlink" href="#feature-metadata-for-qgis-projects" title="Permalink to this headline">¶</a></h3>
+<p>Continuing the metadata work begun in QGIS 3.0, 3.2 now supports metadata for QGIS projects. This allows for detailed metadata to be set in project properties, including abstracts, keywords, contact details, links, etc.</p>
+<p><img alt="image16" src="../../../_images/eb1394b46bf05e8a9b6be480cac4382c2f22a865.png.400x300_q85_crop.jpg" /></p>
+<p>This feature was funded by Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project</p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a> and <a class="reference external" href="https://www.faunalia.eu">Faunalia</a></p>
+</section>
+</section>
+<section id="forms-and-widgets">
+<h2><a class="toc-backref" href="#id41">Forms and Widgets</a><a class="headerlink" href="#forms-and-widgets" title="Permalink to this headline">¶</a></h2>
+<section id="feature-multi-column-layout-for-multiselect-value-relation-widget">
+<h3><a class="toc-backref" href="#id42">Feature: Multi-column layout for multiselect value relation widget</a><a class="headerlink" href="#feature-multi-column-layout-for-multiselect-value-relation-widget" title="Permalink to this headline">¶</a></h3>
+<p>The value relation widget with multi selection enabled now supports multiple columns. This allows better usage of horizontal screen space.</p>
+<p><img alt="image17" src="../../../_images/5fb9e551ed835b45161f3a2e9a94320dc50d5b97.gif.400x300_q85_crop.jpg" /></p>
+<p>This feature was funded by <a class="reference external" href="https://www.zg.ch/behoerden/direktion-des-innern/grundbuch-und-vermessungsamt/gis-fachstelle">Grundbuch- und Vermessungsamt des Kanton Zug</a></p>
+<p>This feature was developed by <a class="reference external" href="https://opengis.ch">David Signer, OPENGIS.ch</a></p>
+</section>
+<section id="feature-allow-using-a-url-for-custom-attribute-forms-ui-file">
+<h3><a class="toc-backref" href="#id43">Feature: Allow using a URL for custom attribute forms (UI file)</a><a class="headerlink" href="#feature-allow-using-a-url-for-custom-attribute-forms-ui-file" title="Permalink to this headline">¶</a></h3>
+<p>The UI file will be downloaded on every session on the first usage.
+This makes it possible to easily distribute updated UI files to clients.</p>
+<p>This feature was funded by <a class="reference external" href="http://www.sirs-fr.com">SIRS</a></p>
+<p>This feature was developed by <a class="reference external" href="https://opengis.ch">Denis Rouzaud, OPENGIS.ch</a></p>
+</section>
+<section id="feature-drill-down-cascading-forms">
+<h3><a class="toc-backref" href="#id44">Feature: Drill-down (cascading) forms</a><a class="headerlink" href="#feature-drill-down-cascading-forms" title="Permalink to this headline">¶</a></h3>
+<p>QGIS 3.2 introduces drill-down (cascading) form support, where the values available in one field depend on the values of other fields. This feature allows users to create “value-relation” expressions based on the current value of another field in the same form. When the user modifies a field’s value, the choices available in all related fields are filtered to match the new value – allowing a hierarchical filtering strategy (drill-down, or cascading) inside a form.</p>
+<p><img alt="image18" src="../../../_images/5990ff168d5b6b41176de4fa487964b97c32fafc.gif.400x300_q85_crop.png" /></p>
+<div class="col-lg-8 col-md-offset-1"></div><p>This feature was funded by Grant Boxer, NaturalGIS, Tudor Bărăscu, NotioGIS, République et canton de Neuchâtel, Arpa Piemonte, Nelson Silva, QGIS Danish User Group, Bo Victor Thomsen and Lene Fischer, North River Geographic</p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Alessandro Pasotti (North Road)</a></p>
+</section>
+</section>
+<section id="layer-legend">
+<h2><a class="toc-backref" href="#id45">Layer Legend</a><a class="headerlink" href="#layer-legend" title="Permalink to this headline">¶</a></h2>
+<section id="feature-optional-text-on-top-of-symbols-for-vector-layers">
+<h3><a class="toc-backref" href="#id46">Feature: Optional text on top of symbols for vector layers</a><a class="headerlink" href="#feature-optional-text-on-top-of-symbols-for-vector-layers" title="Permalink to this headline">¶</a></h3>
+<p>This feature allows users to add extra information to the symbols in the legend.</p>
+<p><img alt="image19" src="../../../_images/2e1e6a3c4b154c35642096a4c2235c2b2d706200.png.400x300_q85_crop.jpg" /></p>
+<p>This feature was funded by <a class="reference external" href="https://www.arpa.piemonte.it/">Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk">Martin Dobias (Lutra Consulting)</a>  and <a class="reference external" href="https://www.faunalia.eu">Faunalia</a></p>
+</section>
+<section id="feature-copy-paste-group-layers-from-a-qgis-project-to-another">
+<h3><a class="toc-backref" href="#id47">Feature: Copy&amp;Paste Group/Layers from a QGIS project to another.</a><a class="headerlink" href="#feature-copy-paste-group-layers-from-a-qgis-project-to-another" title="Permalink to this headline">¶</a></h3>
+<p>Allowing to copy and paste groups or layers between projects and profiles.</p>
+<div class="col-lg-8 col-md-offset-1"></div><p>This feature was developed by <a class="reference external" href="https://github.com/slarosa">Salvatore Larosa</a></p>
+</section>
+</section>
+<section id="map-composer">
+<h2><a class="toc-backref" href="#id48">Map Composer</a><a class="headerlink" href="#map-composer" title="Permalink to this headline">¶</a></h2>
+<section id="feature-data-defined-table-source-for-attribute-table-items">
+<h3><a class="toc-backref" href="#id49">Feature: Data defined table source for attribute table items</a><a class="headerlink" href="#feature-data-defined-table-source-for-attribute-table-items" title="Permalink to this headline">¶</a></h3>
+<p>When an attribute table is set to a “Layer features” source, this new feature allows the underlying vector layer from which to source features to be data defined.</p>
+<p>(All existing table attributes (column settings) are left intact, so setting a data defined table to a layer with different fields will result in empty columns in the table.)</p>
+<p>This feature was funded by <a class="reference external" href="http://kartoza.com/en/">Kartoza/InaSAFE</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-project-metadata-embedded-in-layout-exports">
+<h3><a class="toc-backref" href="#id50">Feature: Project metadata embedded in layout exports</a><a class="headerlink" href="#feature-project-metadata-embedded-in-layout-exports" title="Permalink to this headline">¶</a></h3>
+<p>Saving a print layout to SVG, PDF or images will now embed any project metadata in the created file. Support for different metadata elements depends on the individual export format.</p>
+<p>This feature was funded by Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project</p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-better-formatting-for-scalebar-text">
+<h3><a class="toc-backref" href="#id51">Feature: Better formatting for scalebar text</a><a class="headerlink" href="#feature-better-formatting-for-scalebar-text" title="Permalink to this headline">¶</a></h3>
+<p>QGIS 3.2 allows the full range of text formatting options to be used within scalebar text, e.g. buffers, shadows, and background shapes.</p>
+<p>Unreadable scale bar text is a thing of the past!</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+</section>
+<section id="processing">
+<h2><a class="toc-backref" href="#id52">Processing</a><a class="headerlink" href="#processing" title="Permalink to this headline">¶</a></h2>
+<section id="feature-improved-join-by-attribute-table-algorithm">
+<h3><a class="toc-backref" href="#id53">Feature: Improved ‘Join by attribute table’ algorithm</a><a class="headerlink" href="#feature-improved-join-by-attribute-table-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>The ‘Join by attribute table’ algorithm has been upgraded to support one-to-many joins (i.e. create separate features for each matching feature) as well as an option to discard records which could not be joined. Additionally, an optional prefix for joined fields can now be specified.</p>
+<p><img alt="image20" src="../../../_images/93dd2a52ae3ed2b7a3842f6379d033fabc7932fe.png.400x300_q85_crop.png" /></p>
+<p>This feature was developed by <a class="reference external" href="http://www.imhere-asia.com/">Mathieu Pellerin, Nyall Dawson</a></p>
+</section>
+<section id="feature-load-script-from-template">
+<h3><a class="toc-backref" href="#id54">Feature: Load script from template</a><a class="headerlink" href="#feature-load-script-from-template" title="Permalink to this headline">¶</a></h3>
+<p>New option to load Processing scripts from a custom template</p>
+<p><img alt="image21" src="../../../_images/fce801da5d7b82a1038f19d603d64046e6a399a0.gif.400x300_q85_crop.png" /></p>
+<p>This feature was developed by <a class="reference external" href="http://www.faunalia.eu/">Matteo Ghetta (Faunalia)</a></p>
+</section>
+<section id="feature-feature-filter-algorithm-for-processing-models">
+<h3><a class="toc-backref" href="#id55">Feature: Feature filter algorithm for processing models</a><a class="headerlink" href="#feature-feature-filter-algorithm-for-processing-models" title="Permalink to this headline">¶</a></h3>
+<p>Add a new feature filter algorithm for the processing modeler.
+Allows filtering features of a source based on expressions and send matching features to different outputs as final products or different algorithm pipeline for further processing.</p>
+<p>Read this <a class="reference external" href="http://www.opengis.ch/2018/05/28/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/">blog post for more information</a>.</p>
+<p><img alt="image22" src="../../../_images/3b1e5e0d5b1874d2e3f0cbb8070eb82dedd89a4e.png.400x300_q85_crop.png" /></p>
+<p>This feature was funded by <a class="reference external" href="https://qgis.ch">QGIS User Group Switzerland</a></p>
+<p>This feature was developed by <a class="reference external" href="https://opengis.ch">Matthias Kuhn, OPENGIS.ch</a></p>
+</section>
+<section id="feature-zonal-histogram">
+<h3><a class="toc-backref" href="#id56">Feature: Zonal histogram</a><a class="headerlink" href="#feature-zonal-histogram" title="Permalink to this headline">¶</a></h3>
+<p>This new algorithm appends fields representing counts of each unique value from a raster layer contained within zones defined as polygons.</p>
+<p><img alt="image23" src="../../../_images/577c3ed7ed7875d51e968a135bfd532f97d692c8.jpg.400x300_q85_crop.jpg" /></p>
+<p>This feature was developed by <a class="reference external" href="http://www.imhere-asia.com/">Mathieu Pellerin</a></p>
+</section>
+<section id="feature-port-union-difference-and-intersection-algorithms-to-c">
+<h3><a class="toc-backref" href="#id57">Feature: Port Union, Difference and Intersection algorithms to C++</a><a class="headerlink" href="#feature-port-union-difference-and-intersection-algorithms-to-c" title="Permalink to this headline">¶</a></h3>
+<p>QGIS native geoprocessing algorithms have been ported from Python to C++. In addition to performance boost, several bugs have been resolved with this update.</p>
+<p>This feature was funded by <a class="reference external" href="https://www.dfat.gov.au/">InaSAFE DFAT</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk">Martin Dobias (Lutra Consulting)</a></p>
+</section>
+<section id="feature-project-points-cartesian-algorithm">
+<h3><a class="toc-backref" href="#id58">Feature: ‘Project points (cartesian)’ algorithm</a><a class="headerlink" href="#feature-project-points-cartesian-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>This new Processing algorithm projects points from an input point layer by a specified distance and bearing (azimuth). It supports dynamic parameters for the distance and bearing so that the distance and bearing can be taken from field values or expressions.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-dynamic-parameter-values-for-more-algorithms">
+<h3><a class="toc-backref" href="#id59">Feature: Dynamic parameter values for more algorithms</a><a class="headerlink" href="#feature-dynamic-parameter-values-for-more-algorithms" title="Permalink to this headline">¶</a></h3>
+<p>QGIS 3.2 extends the work begun in 3.0 to allow “dynamic” parameters for selected Processing algorithms. Dynamic parameters allow users to use expressions or field values to specify the value of a parameter while the algorithm executes, so e.g. the buffer size can be dynamically calculated for each individual feature buffered.</p>
+<p>In 3.2 the following algorithms now support dynamic parameters:</p>
+<ul class="simple">
+<li><p>Delete holes</p></li>
+<li><p>Remove Duplicate Vertices</p></li>
+<li><p>Simplify</p></li>
+<li><p>Smooth</p></li>
+<li><p>Snap to Grid</p></li>
+<li><p>Subdivide</p></li>
+<li><p>Transect</p></li>
+<li><p>Translate</p></li>
+</ul>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-multi-ring-buffer-constant-distance-algorithm">
+<h3><a class="toc-backref" href="#id60">Feature: Multi-ring buffer (constant distance) algorithm</a><a class="headerlink" href="#feature-multi-ring-buffer-constant-distance-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>This new algorithm computes multi-ring (‘donuts’) buffer for all the features in an input layer, using a fixed or dynamic distance and rings number.</p>
+<p>This feature was developed by Alex Bruy</p>
+</section>
+<section id="feature-new-segmentize-algorithms">
+<h3><a class="toc-backref" href="#id61">Feature: New “segmentize” algorithms</a><a class="headerlink" href="#feature-new-segmentize-algorithms" title="Permalink to this headline">¶</a></h3>
+<p>In QGIS 3.2 two new algorithms for segmentizing curved geometries have been added to Processing.</p>
+<p>“Segmentize by maximum distance”: The segmentization is performed by specifying the maximum allowed offset distance between the original curve and the segmentized representation.</p>
+<p>“Segmentize by maximum angle”: The segmentization is performed by specifying the maximum allowed radius angle between vertices on the straightened geometry (e.g the angle of the arc created from the original arc center to consective output vertices on the linearized geometry).</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-option-to-create-points-on-all-polygon-parts">
+<h3><a class="toc-backref" href="#id62">Feature: Option to create points on all polygon parts</a><a class="headerlink" href="#feature-option-to-create-points-on-all-polygon-parts" title="Permalink to this headline">¶</a></h3>
+<p>The “Centroid” and “Point on surface” algorithms have a new option to create points for every individual part of input geometries.</p>
+<p>This feature was developed by <a class="reference external" href="http://www.imhere-asia.com/">Mathieu Pellerin</a></p>
+</section>
+<section id="feature-rotate-features-algorithm">
+<h3><a class="toc-backref" href="#id63">Feature: Rotate Features algorithm</a><a class="headerlink" href="#feature-rotate-features-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>This new algorithm allows rotation of features by a set angle. The rotation can occur around a preset point or each individual feature’s centroid.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-line-sinuosity-in-add-geometry-attributes">
+<h3><a class="toc-backref" href="#id64">Feature: Line sinuosity in “Add Geometry Attributes”</a><a class="headerlink" href="#feature-line-sinuosity-in-add-geometry-attributes" title="Permalink to this headline">¶</a></h3>
+<p>The “Add Geometry Attributes” algorithm now calculates line sinuosity and straight distance for line layers.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-import-geotagged-photos">
+<h3><a class="toc-backref" href="#id65">Feature: Import geotagged photos</a><a class="headerlink" href="#feature-import-geotagged-photos" title="Permalink to this headline">¶</a></h3>
+<p>In QGIS 3.2 a new “Import geotagged photos” algorithm has been added to Processing. It allows selection of a folder which it will scan for jpg files which have been geotagged and
+creates a PointZ layer with the result, with attributes for photo path, altitude, direction and timestamp.</p>
+<p>Optionally the scan can be recursive and you can create an optional table of photos which could not be read or which were missing geotags.</p>
+<p>The algorithm automatically sets the output table to use an external resource widget to display the linked photos in the attribute form.</p>
+<p><img alt="image24" src="../../../_images/399ace1f3d437044b9fb478afb820372195b79d8.png.400x300_q85_crop.jpg" /></p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-swap-x-y-coordinate-values-algorithm">
+<h3><a class="toc-backref" href="#id66">Feature: Swap x/y coordinate values algorithm</a><a class="headerlink" href="#feature-swap-x-y-coordinate-values-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>This algorithm swaps the X and Y coordinate values in input geometries. It can be used to repair geometries which have accidentally had their latitude and longitude values reversed.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-sort-order-option-for-add-incremental-field">
+<h3><a class="toc-backref" href="#id67">Feature: Sort order option for “Add Incremental Field”</a><a class="headerlink" href="#feature-sort-order-option-for-add-incremental-field" title="Permalink to this headline">¶</a></h3>
+<p>This change allows users to optionally set a sort order to use when assigning values in the Add Incremental Field algorithm. Previously values were always added using the original feature order. With this change users can control the order in which features are assigned values.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-indicator-for-distance-parameter-units">
+<h3><a class="toc-backref" href="#id68">Feature: Indicator for distance parameter units</a><a class="headerlink" href="#feature-indicator-for-distance-parameter-units" title="Permalink to this headline">¶</a></h3>
+<p>When an algorithm uses a “distance” type parameter, the units will now be shown next to the parameter. This avoids the confusion when running algorithms which use distances where the unit depends on a layer or CRS parameter - e.g. the distance parameter in the buffer algorithm gives the distance in layer units… so now in QGIS 3.2 we show those units
+directly within the dialog. Hopefully this leads to less user confusion and accidental “1000 degree buffers”!</p>
+<p>Additionally - if the unit is in degrees, a small warning icon is shown next to the parameter. The tooltip for this icon advises users to reproject data into a suitable projected local coordinate system.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-algorithm-log-can-be-saved-cleared-copied">
+<h3><a class="toc-backref" href="#id69">Feature: Algorithm log can be saved/cleared/copied</a><a class="headerlink" href="#feature-algorithm-log-can-be-saved-cleared-copied" title="Permalink to this headline">¶</a></h3>
+<p>In the algorithm execution dialog, new buttons have been added to allow users to save the current log (to text or HTML files), copy the log contents to the clipboard, and clear the log.</p>
+<p>This feature was funded by SMEC/SJ</p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-wedge-buffer-algorithm">
+<h3><a class="toc-backref" href="#id70">Feature: Wedge buffer algorithm</a><a class="headerlink" href="#feature-wedge-buffer-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>This new algorithm creates wedge shaped buffers from input points.</p>
+<p>The azimuth parameter gives the angle (in degrees) for the middle of the wedge to point. The buffer width (in degrees) is specified by the width parameter. Note that the wedge will extend to half of the angular width either side of the azimuth direction. The outer radius of the buffer is specified via outer radius, and optionally an inner radius can also be specified.</p>
+<p>The algorithm supports dynamic parameters for azimuth, width, and radius.</p>
+<p>The native output from this algorithm is CurvePolygon geometries, but these may be automatically segmentized to Polygons depending on the output format.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-variable-width-buffers">
+<h3><a class="toc-backref" href="#id71">Feature: Variable width buffers</a><a class="headerlink" href="#feature-variable-width-buffers" title="Permalink to this headline">¶</a></h3>
+<p>New Processing algorithms have been added to create variable width buffers, including tapered buffers (with a specified start and end diameter) and variable width buffers from line string m values.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-reclassify-raster-algorithms">
+<h3><a class="toc-backref" href="#id72">Feature: Reclassify raster algorithms</a><a class="headerlink" href="#feature-reclassify-raster-algorithms" title="Permalink to this headline">¶</a></h3>
+<p>Two new native QGIS raster reclassification algorithms have been added to Processing. These are simple to use, yet fast and stable, and work for ANY raster layer type supported by QGIS!</p>
+<ul class="simple">
+<li><p>Reclassify by layer: reclassifies a raster using the ranges specified via min/max/value fields from a vector table</p></li>
+<li><p>Reclassify by table: reclassifies a raster using a fixed table entered by users in the algorithm dialog</p></li>
+</ul>
+<p>This feature was funded by SMEC/SJ</p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-union-algorithm-with-a-single-layer">
+<h3><a class="toc-backref" href="#id73">Feature: Union algorithm with a single layer</a><a class="headerlink" href="#feature-union-algorithm-with-a-single-layer" title="Permalink to this headline">¶</a></h3>
+<p>The union algorithm can be now run with just a single input layer in order to resolve any overlaps among the layer’s features. For example, if an area is covered by three features, that area will be cut out from those features and three new features will be added, copying attributes of the original features.</p>
+<p><img alt="image25" src="../../../_images/a32fa9ccc63bd3f91e6696ee8f9aef32f61b4691.png.400x300_q85_crop.jpg" /></p>
+<p>This feature was funded by <a class="reference external" href="https://www.dfat.gov.au/">InaSAFE DFAT</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Martin Dobias (Lutra Consulting)</a></p>
+</section>
+</section>
+<section id="application-and-project-options">
+<h2><a class="toc-backref" href="#id74">Application and Project Options</a><a class="headerlink" href="#application-and-project-options" title="Permalink to this headline">¶</a></h2>
+<section id="feature-mandatory-layers-in-project">
+<h3><a class="toc-backref" href="#id75">Feature: Mandatory layers in project</a><a class="headerlink" href="#feature-mandatory-layers-in-project" title="Permalink to this headline">¶</a></h3>
+<p>Required layers are not allowed to be removed from the project. This adds extra safety to protect project users from removing layers they may think are not needed (e.g. used in joins, relations, expressions).</p>
+<p><img alt="image26" src="../../../_images/b65c47d1a41ab4a7ad545696b4985ebd7edb9f75.png.400x300_q85_crop.jpg" /></p>
+<p>This feature was funded by <a class="reference external" href="https://www.arpa.piemonte.it/">Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk">Martin Dobias (Lutra Consulting)</a> and <a class="reference external" href="https://www.faunalia.eu">Faunalia</a></p>
+</section>
+<section id="feature-saving-and-loading-projects-in-postgresql-database">
+<h3><a class="toc-backref" href="#id76">Feature: Saving and loading projects in PostgreSQL database</a><a class="headerlink" href="#feature-saving-and-loading-projects-in-postgresql-database" title="Permalink to this headline">¶</a></h3>
+<p>Users can now save their projects within a PostgreSQL database. Project can be saved in menu <strong>Projects &gt; Save To &gt; PostgreSQL</strong> and loaded using menu <strong>Projects &gt; Load From &gt; PostgreSQL</strong>. Projects saved in database can be loaded also through the browser dock (projects show up under the schema where they were saved, together with other layers).</p>
+<p>Saving/loading QGIS projects must be explicitly enabled in PostgreSQL connection settings: there is a new option “Allow saving/loading QGIS projects in the database” which is disabled by default.</p>
+<p>New API has been introduced that allows creation of custom project storage implementations (may be used by plugins). Related QEP: <a class="reference external" href="https://github.com/qgis/QGIS-Enhancement-Proposals/issues/118">https://github.com/qgis/QGIS-Enhancement-Proposals/issues/118</a></p>
+<div class="col-lg-8 col-md-offset-1"></div><p>This feature was funded by <a class="reference external" href="https://www.arpa.piemonte.it/">Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk">Martin Dobias, Peter Petrik (Lutra Consulting)</a> and <a class="reference external" href="https://www.faunalia.eu">Faunalia</a></p>
+</section>
+</section>
+<section id="browser">
+<h2><a class="toc-backref" href="#id77">Browser</a><a class="headerlink" href="#browser" title="Permalink to this headline">¶</a></h2>
+<section id="feature-save-load-connections-for-xyz-tiles">
+<h3><a class="toc-backref" href="#id78">Feature: Save/Load connections for XYZ Tiles</a><a class="headerlink" href="#feature-save-load-connections-for-xyz-tiles" title="Permalink to this headline">¶</a></h3>
+<p>From the Browser panel, XYZ Tiles entries can be exported/imported to/from an XML file.</p>
+<p><img alt="image27" src="../../../_images/678a1f4686de353f4a04fc83877e27c18d2fca7d.png.400x300_q85_crop.png" /></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/slarosa">Salvatore Larosa</a></p>
+</section>
+<section id="feature-project-home-path-can-be-manually-set">
+<h3><a class="toc-backref" href="#id79">Feature: Project home path can be manually set</a><a class="headerlink" href="#feature-project-home-path-can-be-manually-set" title="Permalink to this headline">¶</a></h3>
+<p>This new feature in QGIS 3.2 allows the project home path (which is used by the browser to create the ‘Project Home’ item) to be set by users for a project, instead of always matching the location where the project is saved.</p>
+<p>This allows users to set the project home to a folder which contains data and other content, and is especially useful for organisations where QGIS projects are not stored in the root folder of a organisational ‘project’.</p>
+<p>Project home paths can also be set to relative paths, in which case they will be relative to the project saved location.</p>
+<p>The path can be set through the Project Properties dialog, or by right-clicking on the Project Home browser item and selecting ‘Set Project Home’.</p>
+<p><img alt="image28" src="../../../_images/db297eb148a7d62dd58aab40dca32ee91d148831.png.400x300_q85_crop.jpg" /></p>
+<p>This feature was funded by SMEC/SJ</p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+</section>
+<section id="data-providers">
+<h2><a class="toc-backref" href="#id80">Data Providers</a><a class="headerlink" href="#data-providers" title="Permalink to this headline">¶</a></h2>
+<section id="feature-support-for-mesh-layers">
+<h3><a class="toc-backref" href="#id81">Feature: Support for mesh layers</a><a class="headerlink" href="#feature-support-for-mesh-layers" title="Permalink to this headline">¶</a></h3>
+<p>Initial work has been done to introduce mesh layers supporting display of data on structured or unstructured meshes (grids) in addition to raster and vector layers. This is still a work in progress, expected to be fully ready in QGIS 3.4. The work so far lead to creation of a new library MDAL for handling of different formats of mesh-based data and there are new APIs introduced under the hood, however the user interface is not implemented yet.</p>
+<p>For more information see:</p>
+<p><a class="reference external" href="https://github.com/qgis/QGIS-Enhancement-Proposals/issues/119">https://github.com/qgis/QGIS-Enhancement-Proposals/issues/119</a></p>
+<p>and</p>
+<p><a class="reference external" href="https://github.com/lutraconsulting/MDAL">https://github.com/lutraconsulting/MDAL</a></p>
+<p><img alt="image32" src="../../../_images/91c7bf725bc4afecc9efbeaedc8e98ad153b73b4.png.400x300_q85_crop.png" /></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk">Peter Petrik and Martin Dobias (Lutra Consulting)</a></p>
+</section>
+<section id="feature-automatically-set-default-style-for-layers-for-arcgis-feature-server-layers">
+<h3><a class="toc-backref" href="#id82">Feature: Automatically set default style for layers for ArcGIS Feature Server layers</a><a class="headerlink" href="#feature-automatically-set-default-style-for-layers-for-arcgis-feature-server-layers" title="Permalink to this headline">¶</a></h3>
+<p>When layers from a Feature Server are loaded into QGIS 3.2, they will automatically have the same style applied as has been specified for that layer on the server, matching the appearance of the layer when it is loaded into ArcGIS.</p>
+<p>This feature was funded by SMEC/SJ</p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-faster-oracle-queries">
+<h3><a class="toc-backref" href="#id83">Feature: Faster Oracle queries</a><a class="headerlink" href="#feature-faster-oracle-queries" title="Permalink to this headline">¶</a></h3>
+<p>Certain operations are greatly sped up for Oracle layers, e.g. case-insensitive value matches for features.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-restrict-table-list-for-a-oracle-database-connection-to-a-preset-schema">
+<h3><a class="toc-backref" href="#id84">Feature: Restrict table list for a Oracle database connection to a preset schema</a><a class="headerlink" href="#feature-restrict-table-list-for-a-oracle-database-connection-to-a-preset-schema" title="Permalink to this headline">¶</a></h3>
+<p>This change allows a schema to be set in the connection properties for an Oracle database connection. If set, only tables within that schema will be scanned and listed for the connection.</p>
+<p>Previously the option existed to restrict the scan to tables which belong to the user, but this option does not support the use case where a connection must access tables from a different
+user, and the default “scan everything” setting is too expensive (since it often takes multiple minutes to perform, especially when geometryless tables are shown).</p>
+<p>This feature was funded by <a class="reference external" href="http://www.openspatial.com">Open Spatial</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-read-only-support-for-curved-oracle-geometries">
+<h3><a class="toc-backref" href="#id85">Feature: Read only support for curved Oracle geometries</a><a class="headerlink" href="#feature-read-only-support-for-curved-oracle-geometries" title="Permalink to this headline">¶</a></h3>
+<p>Previously these geometries were silently discarded.</p>
+<p>This feature was funded by <a class="reference external" href="http://www.openspatial.com">Open Spatial</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+</section>
+<section id="plugins">
+<h2><a class="toc-backref" href="#id86">Plugins</a><a class="headerlink" href="#plugins" title="Permalink to this headline">¶</a></h2>
+<section id="feature-adding-query-history-in-db-manager">
+<h3><a class="toc-backref" href="#id87">Feature: Adding query history in DB Manager</a><a class="headerlink" href="#feature-adding-query-history-in-db-manager" title="Permalink to this headline">¶</a></h3>
+<p>In 3.2 it is possible to store SQL queries. The query history is available into the SQL Window tab of the DB Manager plugin.</p>
+<p><img alt="image33" src="../../../_images/9c6074aaf1e989c460833535788d0b396a677e34.png.400x300_q85_crop.png" /></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/slarosa">Salvatore Larosa</a></p>
+</section>
+<section id="feature-db-manager-sql-execution-in-background">
+<h3><a class="toc-backref" href="#id88">Feature: DB Manager SQL execution in background</a><a class="headerlink" href="#feature-db-manager-sql-execution-in-background" title="Permalink to this headline">¶</a></h3>
+<p>This feature was developed by Paul Blottiere</p>
+</section>
+</section>
+<section id="d-features">
+<h2><a class="toc-backref" href="#id89">3D Features</a><a class="headerlink" href="#d-features" title="Permalink to this headline">¶</a></h2>
+<section id="feature-3d-polygons-optionally-generate-back-faces">
+<h3><a class="toc-backref" href="#id90">Feature: 3D Polygons: Optionally generate back faces</a><a class="headerlink" href="#feature-3d-polygons-optionally-generate-back-faces" title="Permalink to this headline">¶</a></h3>
+<p>Sometimes datasets with 3D polygons do not have consistent ordering of vertices (clockwise vs. counter-clockwise) and that caused sub-optimal results in the 3D view: either some polygons (walls) seem to be missing if back-face culling is enabled - or some polygons are shaded incorrectly if back-face culling is disabled. With the new option <strong>Add back faces</strong> enabled, the tessellator will generate triangles in both directions (front and back) which greatly improves the rendering quality for such datasets.</p>
+<p>The only downside when using this option is that more graphical memory is used (double amount of vertex data). Make sure to set culling mode to “Back” when using this option, otherwise there would be no visible difference as the scene would still render polygons with incorrect shading.</p>
+<p>The image contains freely available Prague 3D buildings dataset.</p>
+<p><img alt="image34" src="../../../_images/875e423e7a857a509812da6f46d468486fb7fd99.png.400x300_q85_crop.png" /></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Martin Dobias (Lutra Consulting)</a></p>
+</section>
+</section>
+</section>
+
+                        
+                    
+                </div>
+                  
+            </div>
+        </div>
+    
+
+    <!--<a href="https://github.com/qgis/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10000;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>-->
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="../visualchangelog30/index.html" title="Changelog for QGIS 3.0"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="../visualchangelog34/index.html" title="Changelog for QGIS 3.4 LTR"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../index.html" >For Users</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="../visualchangelogs.html" >Visual Changelogs</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Changelog for QGIS 3.2</a></li> 
+      </ul>
+    </div>
+  <footer class="footer">
+
+    <div class="container">
+        <div>
+          <ul class="unstyled inline" id="social">
+            <li id="twitter"><a href="http://twitter.com/qgis" class="external"><div></div></a></li>
+            <li id="facebook"><a href="https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096" class="external"><div></div></a></li>
+            <li id="github"><a href="http://github.com/qgis/" class="external"><div></div></a></li>
+            <li id="aboutcontact"><a href="../../getinvolved/index.html"><div></div></a></li>
+          </ul>
+        </div>
+
+        <p class="credit">If not stated otherwise, all content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a></p>
+    </div>
+    <div class="container">
+      <p class="credit">
+        Select graphics from <a href="https://thenounproject.com" target="_blank">The Noun Project collection</a>
+        
+        
+      </p>
+      <p class="credit">
+        Untranslated page? Or you spot a translation error:
+        <a id="fix_translation_link" target="_blank" href="https://www.transifex.com/projects/p/qgis-website/">fix me</a>
+        <br/>
+        Textual error, missing text or you know better:
+        <a id="fix_text_link" target="_blank" href="https://github.com/qgis/QGIS-Website">fix me</a>
+      </p>
+    </div>
+  </footer>
+
+  </body>
+</html>

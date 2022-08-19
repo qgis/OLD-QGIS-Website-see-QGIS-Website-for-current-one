@@ -1,0 +1,649 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Using QGIS for FTTH/GPON network planning due to the implementation European Digital Agenda</title>
+    <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/basic.css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/qgis-style.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-sphinx.css" type="text/css" />
+    <script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
+    <script src="../../../_static/jquery.js"></script>
+    <script src="../../../_static/underscore.js"></script>
+    <script src="../../../_static/doctools.js"></script>
+    <script src="../../../_static/qgis-site.js"></script>
+    <script src="../../../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script src="../../../_static/jquery.countdown-2.0.4/jquery.countdown.min.js"></script>
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="QGIS to describe the Cesena’s Wall" href="italy_cesena.html" />
+    <link rel="prev" title="Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)" href="uruguay_mides.html" />
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="italy_cesena.html" title="QGIS to describe the Cesena’s Wall"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="uruguay_mides.html" title="Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../index.html" >Discover QGIS</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="index.html" accesskey="U">Case Studies</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Using QGIS for FTTH/GPON network planning due to the implementation European Digital Agenda</a></li> 
+      </ul>
+    </div>
+
+    
+  <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="../../index.html">QGIS</a>
+        <span class="navbar-text pull-left"><p><b>3.26.2 ​ <br/> 3.22.10 LTR</b></p></span>
+        
+          <select id="languages">
+  <!-- note on the options here: the 'title' string is to be translated in your
+  language, but the element text is supposed to stay in native lang/txt -->
+  <option value="en" title="English">English</option>
+  <option value="ca" title="Catalan">Català</option>
+  <option value="da" title="Danish">Dansk</option>
+  <option value="de" title="German">Deutsch</option>
+  <option value="es" title="Spanish">Español</option>
+  <option value="fa" title="Persian">فارسی</option>
+  <option value="fi" title="Finnish">Suomi</option>
+  <option value="fr" title="French">Français</option>
+  <option value="gl" title="Galician">Galego</option>
+  <option value="id" title="Indonesian">Bahasa Indonesia</option>
+  <option value="it" title="Italian">Italiano</option>
+  <option value="hu" title="Hungarian">Magyar</option>
+  <option value="ja" title="Japanese">日本語</option>
+  <option value="km_KH" title="Khmer">ភាសាខ្មែរ    </option>
+  <option value="ko" title="Korean">한국어</option>
+  <option value="lt" title="Lithuanian">Lietuvių</option>
+  <option value="nl" title="Dutch">Nederlands</option>
+  <option value="pl" title="Polish">Polski</option>
+  <option value="pt_BR" title="Portuguesei (Brazil)">Português (Brasil)</option>
+  <option value="pt_PT" title="Portuguese">Português</option>
+  <option value="ro" title="Romanian">Română</option>
+  <option value="tr" title="Turkish">Türkçe</option>
+  <option value="ru" title="Russian">Русский</option>
+  <option value="uk" title="Ukrainian">Українська</option>
+  <option value="zh-Hans" title="Chinese (Simplified)">简体中文</option>
+  <option value="zh-Hant" title="Chinese (Traditional)">繁體中文</option>
+</select>
+
+<script>
+    var currentPage = 'site/about/case_studies/poland_ffth.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    // split index.html if currentUrl is ended by '/'
+    var currentUrl = window.location.href;
+    if (currentUrl.slice(-1) == '/' && currentPage.slice(-1) != '/'){
+      var pages = currentPage.split('/');
+      pages.pop();
+      currentPage = pages.join('/') + '/';
+    }
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        // it's possible this is the index.html page called without 'index.html', try without the currentPage
+        if (langPlusPage==undefined){
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // it's possible this is an index.html page called without 'index.html', try removing index.html
+        if (langPlusPage==undefined){
+            currentPage = currentPage.replace('index.html','')
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // still no langPlugPage: stop, because the language swicher will misbehave
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+        // TODO: links should come from conf.py
+        // TODO: all template pages have the actual translation in sphinc.conf
+        // IMPORTANT: space, -, _ etc replacing below must be 100% inline with
+        // code in scripts/create_transifex_resources.sh !!
+        // https://github.com/qgis/QGIS-Website/blob/master/scripts/create_transifex_resources.sh
+        fix_translation_link = 'https://www.transifex.com/projects/p/qgis-website/translate/#' + 
+            currentLang.slice(1) + currentPage.replace(/_/g, "-").replace(/ /g, "-").replace(/\//g, "_").replace(/\.html/g, "").replace(/\./g, "-")
+        if ('/en/' != currentLang) {
+            $('#fix_translation_link').attr('href', fix_translation_link);
+        }
+        fix_text_link = 'https://github.com/qgis/QGIS-Website/edit/master/source/' +
+            currentPage.replace(/.html/g, ".rst")
+        // TODO: only on rst pages, here a list of pages which are actual templates?
+        if (true){
+            $('#fix_text_link').attr('href', fix_text_link);
+        }
+
+        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
+
+        $("#languages").change(function() {
+            gotoLang($(this).val());
+        });
+
+        if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
+        }
+        else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
+            // crontab is pulling url's below and copy to /feed at qgis.org
+            // https://changelog.qgis.org/en/qgis/members/json/
+            json2html('/feeds/members.json', '#qgissustainingmembersatom', 1000, true, 'span3');
+            // https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2
+            json2html('/feeds/qgispastmembers.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
+        }
+        else if (currentPage == "site/forusers/download.html"){
+            $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
+            '<h2>Thank you!</h2> <p/>'+
+            '<div class="container"><div class="span8">'+
+            '<p>Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href="https://donate.qgis.org/">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!</p>'+
+            '<p>The QGIS Team</p>'+
+            '</div><div class="container">'+
+            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="https://donate.qgis.org/">Donate Now</a></p><p class="muted"></p></div>'+
+            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">Close this message</a></p><p class="muted"></p></div>'+
+            '</div>'+
+            '<br/><p><img src="../../../_static/images/splash.png"/></p></div>');
+            $('#thankyou').click(function(){ $('#thankyou').hide(); });
+            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
+            $('a.reference').click(function(){
+                $('#thankyou').show();
+                return true;
+            });
+        }
+        else if (currentPage == "site/forusers/alldownloads.html"){
+	    replacesha('qgis-rel-dev');
+	    replacesha('qgis-ltr-dev');
+	    replacesha('qgis-dev');
+        }
+    });
+
+    //
+    // load current page in a different language
+    //
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+    //
+    // function to load a json (feed) and create html for it
+    // currently only used for sustaining members
+    //
+    function json2html(url, holder, count, showcont, spanclass){
+        var html = '';
+        $.getJSON(url, function (data) {
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+
+            $.each( data.rss.channel.item, function( key, val ){
+              var item = val;
+              var imglink = '#';
+              var link = '#';
+              var content = '';
+              var member_level = 'Small';
+              if (item.member_url){link=item.member_url};
+              if (item.image_url){imglink=item.image_url};
+              if (item.member_level){member_level=item.member_level};
+              var title = item.title;
+              content = '<div><img class="member_img '+member_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="member_body '+member_level.toLowerCase()+'">'+item.member_country+'<br/>Membership level: '+member_level+'<br/>'+
+                '('+item.start_date+' - '+item.end_date+')</p>';
+              html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+              html+='<div class="memberdiv"><h4>'+title+'</h4>';
+              html+=content;
+              html+='</div></a></div>';
+            })
+          $(holder).append(html);
+        })
+    }
+    //
+    // function to load an atom feed, an put it in an element
+    //
+    function atom(url, holder, count, showcont, spanclass){
+        $.get(url, function (data) {
+            var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+            $(data).find("entry").each(function () {
+                var el = $(this);
+                var title = el.find('title').text();
+                var author = el.find('name').text();
+                var content = el.find('content').text();
+                if (content.length==0){
+                    // try summary
+                    content = el.find('summary').text();
+                }
+                var imglink='#';
+                var link='#';
+                el.find('link').each(
+                    function(){
+                        // flickr image for maps and qgis screenshots
+                        if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
+                            imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
+                        }
+                        // links
+                        else if ($(this).attr('rel') == 'alternate'){
+                            link = $(this).attr('href');
+                        }
+                    }
+                )
+                counter++;
+
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
+                    // html for flickr maps
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
+                    html+='</a></p></div>\n';
+                }
+                else if (counter<=maxitems){
+                    // visual changelogs, qugs feed and planet feed
+                    var addit = true;
+                    if (holder == '#qgisplanetatom'){
+                        var s = title.split(':');
+                        title = s[0];
+                        content = s[1];
+                        // skip blog.qgis.org posts
+                        if (link.indexOf('blog.qgis.org')>=0){
+                            addit = false;
+                            counter --;
+                        }
+                    }
+                    else if (holder == '#qgissustainingmembersatom' || holder == '#qgissustainingmembersatom'){
+                        html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+                        html+='<div class="memberdiv"><h4>'+title+'</h4>';
+                        html+=content;
+                        html+='</div></a></div>';
+                        addit = false; // we are building html ourselves!!
+                    }
+                    else if (holder == '#qgisblogatom'){
+                        var s = title.split(':');
+                        if (s[0] != 'QGIS Project blog'){
+                            addit = false;
+                            counter--;
+                        }
+                        // trying to extract date from link
+                        // http://blog.qgis.org/2017/09/02/do-you-want-to-host-a-qgis-developer-meeting/
+                        d = link.split('/').slice(3,6);  // 2017,09,02
+                        title = '<img src="../_static/logo.png" style="width:30px;"/> - ' + d[0] + '/' + d[1] + '/' + d[2] + ' - ' + s[1];
+                        content = '';
+                    }
+                    if (addit){
+                        html+='<a class="external" href="'+link+'">';
+                        html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
+                        if (showcontent) { html+=content; };
+                        html+='</div></a>\n';
+                    }
+                }
+            });
+            $(holder).append(html);
+        });
+    }
+
+    //
+    // function to replace a item
+    //
+    function replacesha(id) {
+      var xhr = new XMLHttpRequest();
+      xhr.onload = function () {
+	var sha = this.responseText.substring(this.responseText.indexOf(':')+1);
+        document.getElementById(id).innerHTML = "<a target=\"_new\" href=\"http://github.com/qgis/QGIS/commit/" + sha + "\">" + sha + "</a>";
+      };
+      xhr.open('GET', '/downloads/' + id + '.sha');
+      xhr.send();
+    }
+</script>
+        
+        <div class="nav-collapse collapse">
+          <ul class="unstyled nav main-menu">
+            <li><a href="../index.html">Discover QGIS</a></li>
+            <li><a href="../../forusers/index.html">For Users</a></li>
+            <li><a href="../../getinvolved/index.html">Get Involved</a></li>
+            <li><a href="../../../docs/index.html">Documentation</a></li>
+            <li>
+          
+<form class="navbar-search" action="../../../search.html" method="get">
+  <input type="text" name="q" class="search-query" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div style="display:none;" class="container" id="nextprev" >
+    
+    <a accesskey="p" href="uruguay_mides.html">&lt;&lt; prev</a>
+    
+    
+    <a accesskey="n" href="italy_cesena.html">next &gt;&gt;</a>
+    
+    </div>
+
+
+
+
+    
+        <div class="container">
+            <div class="row">
+      <div class="span4">
+        <div id="sidebar" class="bs-sidenav well" data-spy="scroll"><ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Discover QGIS</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../features.html">Applications</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../screenshots.html">Map Examples</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../screenshots.html#screenshots">Screenshots</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Case Studies</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="index.html#id1">2019</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="index.html#id2">2017</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="usa_polczynski.html">[2017/12] Historical Gazetteer of the Crimea by Michael and Mark Polczynski</a></li>
+<li class="toctree-l4"><a class="reference internal" href="uruguay_mides.html">[2017/07] Use of QGIS at the Ministry of Social Development of Uruguay</a></li>
+<li class="toctree-l4 current"><a class="current reference internal" href="#">[2017/05] Using QGIS for FTTH/GPON network planning due to the implementation European Digital Agenda</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id3">2016</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id4">2015</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id5">2014</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id6">2013</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id7">2012</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id8">2011</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id9">2010</a></li>
+<li class="toctree-l3"><a class="reference internal" href="index.html#id10">2009</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../sustaining_members.html">Sustaining members and Donors</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../shop_goodies.html">Goodies</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://plugins.qgis.org/planet/">Blogs</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../forusers/index.html">For Users</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../getinvolved/index.html">Get Involved / Development</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../docs/index.html">Documentation</a></li>
+</ul>
+
+        </div>
+      </div>
+                <div class="span8">
+                    
+                        
+                            <section id="using-qgis-for-ftth-gpon-network-planning-due-to-the-implementation-european-digital-agenda">
+<h1>Using QGIS for FTTH/GPON network planning due to the implementation European Digital Agenda<a class="headerlink" href="#using-qgis-for-ftth-gpon-network-planning-due-to-the-implementation-european-digital-agenda" title="Permalink to this headline">¶</a></h1>
+<section id="definition-of-the-problem">
+<h2>Definition of the problem<a class="headerlink" href="#definition-of-the-problem" title="Permalink to this headline">¶</a></h2>
+<p>Over the past few years many EU countries have launched operational programs to
+implement European Digital Agenda (EAC) developed by the European Commission in
+2010. According to its guidelines until 2020 every citizen of the European Union
+should have access to 30 Mbps Internet bandwidth and at least half of them will
+have access to bandwidth not slower than 100 Mbps.</p>
+<p>Poland is one of the countries in which the Agenda is being implemented.
+Thanks to European Union funds many local operators can compete with
+large telecom providers as regards high-speed broadband services.
+Unfortunately, applying for funding requires a great deal of work
+necessary to draw up proper documentation, including, among other things,
+development of planned FTTH (Fiber To The Home) network conceptual maps.</p>
+<p>Moreover, currently there are no GIS-based IT tools available to support
+the potential beneficiaries with the preparation of documentation. The
+complexity of the problem is even more complicated by the fact that such
+a software should enable a creation of documentation in accordance with
+specific program guidelines (e.g. the obligation to connect educational
+institutions).</p>
+<p>As we have extensive experience in the telecommunications industry,
+entities applying for EU funds asked us to create software supporting the
+development of FTTH network concept map. Products generated by developed
+software was to significantly speed up the application preparation
+process.</p>
+</section>
+<section id="description-of-the-solution">
+<h2>Description of the solution<a class="headerlink" href="#description-of-the-solution" title="Permalink to this headline">¶</a></h2>
+<p>Due to the high popularity, widespread availability, openness of the software
+and immense functional abilities, it felt natural to select QGIS as platform to
+serve as a basis for our solution.</p>
+<p>According to the guidelines of FTTH Council Europe, it is crucial to first
+prepare a plan considering both the technical aspect (placement of cables,
+splice closures, splitters) and economic aspect (demand) based on real address
+points data. The building structure and the density of the building development
+determine the technology of GPON (Gigabit Passive Optical Network) network
+design. To have the ability to plan network topology efficiently it is required
+to have among other things:</p>
+<ul class="simple">
+<li><p>access to GIS data,</p></li>
+<li><p>automation of GIS data processing,</p></li>
+<li><p>application of network optimization algorithms,</p></li>
+<li><p>application of GPON network engineering rules.</p></li>
+</ul>
+<p>All these items were connected in QGIS platform. Below there is a brief
+description of how we realized the project and what functional items were
+incorporated to create one solution.</p>
+<p>In order to achieve our goal, we needed few functional components apart from
+the standard GIS platform:</p>
+<ul class="simple">
+<li><p>GRASS - a collection of vector and network algorithms,</p></li>
+<li><p>QGIS plugins - OpenLayer, QuickOSM, Scipy Point Clustering, WorkContextTracer
+(our plugin),</p></li>
+<li><p>QGIS modeler – tool for graphical flow modelling,</p></li>
+<li><p>SpatiaLite - a local database for storing input and output data.</p></li>
+</ul>
+<p>The entire solution was based on the concept of so called wizards which realize
+the process of preparing the FTTx network technical concept step by step. Using
+‘geoprocessing’ modeller, we created models requiring only the necessary input
+data from operator. Algorithmic complexity was encapsulated within models in
+the form of designed flow, which use existing QGIS algorithms and calls
+dedicated scripts.</p>
+<figure class="align-left">
+<a class="reference internal image-reference" href="../../../_images/toolbox.png"><img alt="Toolbox" src="../../../_images/toolbox.png" style="width: 257.4px; height: 348.59999999999997px;" /></a>
+</figure>
+<p>To prevent the results of subsequent analyses from getting mixed up, we provided
+a plugin called WorkContextTracer which groups our work in so called work contexts.</p>
+<figure class="align-left">
+<img alt="Workorder" src="../../../_images/workorder.png" />
+</figure>
+<p>Network algorithms based on the graph functions available in GRASS were
+enriched by adding the telecommunication scripts. We introduced a concept of
+demand clustering which enables to use both K-means and hierarchical methods to
+aggregate demand points.</p>
+<p>Geoprocessing scripts with usage of cable routing layer and Djikstra algorithm
+develops a cable route proposal with optical fiber nodes’ locations.</p>
+<p>Operators also needed an association between created network nodes and address
+points to estimate the individual cost of each network branch. To complete this
+task, we created scripts that performs this operation storing results in local
+SpatiaLite database. The data needed to be exportable to spreadsheet, so we
+used free software library to fulfil this requirement.</p>
+</section>
+<section id="how-users-used-tool-to-create-ftth-gpon-network-plan">
+<h2>How users used tool to create FTTH/GPON network plan<a class="headerlink" href="#how-users-used-tool-to-create-ftth-gpon-network-plan" title="Permalink to this headline">¶</a></h2>
+<p>The user started work by opening a new work context and specifying an input
+layer of address points to be analysed. Using the standard QGIS interface, the
+user could establish a set of demands on address points and finally provide the
+parameters necessary for further steps of the algorithm.</p>
+<figure class="align-left">
+<a class="reference internal image-reference" href="../../../_images/step1_inputlayer.png"><img alt="Step 1: input layer" src="../../../_images/step1_inputlayer.png" style="width: 538.1999999999999px; height: 291.0px;" /></a>
+</figure>
+<p>Without having information about the existing civil infrastructure, a properly
+filtered OpenStreet road network were used as a routing layer. Scipy algorithms
+fed with input parameters, clustered the address points into demand aggregates
+marking them with separate colour indicating its assignment to particular
+cluster.</p>
+<figure class="align-left">
+<a class="reference internal image-reference" href="../../../_images/step1.png"><img alt="Step 1" src="../../../_images/step1.png" style="width: 831.6px; height: 450.0px;" /></a>
+</figure>
+<p>Having all address points clustered, user initiated the steps of high level
+network planning providing layers prepared in the previous steps and a layer
+with GPON network starting point.</p>
+<figure class="align-left">
+<a class="reference internal image-reference" href="../../../_images/step1-2_result.png"><img alt="step 1: result" src="../../../_images/step1-2_result.png" style="width: 831.6px; height: 450.0px;" /></a>
+</figure>
+<p>Upon the completion of the algorithm, in QGIS there are geometry objects
+representing planned cables and splice closure locations. Basing on demand data
+and network topology, an additional information is stored in database such as
+the length of the cable, its profile, node’s serving areas.</p>
+<figure class="align-left">
+<a class="reference internal image-reference" href="../../../_images/step4_results.png"><img alt="step 4: results" src="../../../_images/step4_results.png" style="width: 831.6px; height: 450.0px;" /></a>
+</figure>
+<p>At this stage, the user already had all pieces of the information to develop
+a high level FTTx network technical concept. The final part was generation of
+the data report spreadsheet showing all calculated data from several different
+perspectives.</p>
+<figure class="align-left">
+<a class="reference internal image-reference" href="../../../_images/report_generated.png"><img alt="Report generated" src="../../../_images/report_generated.png" style="width: 588.6px; height: 318.59999999999997px;" /></a>
+</figure>
+<figure class="align-left">
+<a class="reference internal image-reference" href="../../../_images/report_generated_and_tranformed.png"><img alt="Report generated and tranformed" src="../../../_images/report_generated_and_tranformed.png" style="width: 960.0px; height: 519.6px;" /></a>
+</figure>
+</section>
+<section id="conclusion">
+<h2>Conclusion<a class="headerlink" href="#conclusion" title="Permalink to this headline">¶</a></h2>
+<p>Thanks to the use of the QGIS platform as well as its extension capabilities,
+we managed to develop a free open source solution allowing telecommunication
+operators to prepare the documents necessary to submit application for
+co-financing in the EU program implementing European Digital Agenda.</p>
+<p>By combining flexible vector algorithms with the telecom engineering scripts,
+we enabled the practical use of mathematical algorithms in solving real
+problems concerning telecommunication network planning. The user operates on
+understandable data scope (municipality, building, road) whereas transformation
+of this information into a mathematical model is hidden from the user.</p>
+<p>The user got many useful benefits:</p>
+<ul class="simple">
+<li><p>Automatic GPON network plan development based on publicly available data and
+GPON technology engineering rules.</p></li>
+<li><p>Ability to customize tool with specific EU program guidelines in a given
+country.</p></li>
+<li><p>The big accuracy of the results corresponding to real dimensions.</p></li>
+<li><p>Generation of data needed for applying for EU funds: network concept map, cable
+and splice closure report with serving areas assignment.</p></li>
+<li><p>Possibility to precisely determine the construction and depreciation costs of
+each part of the network with calculation of the cost of connecting each
+address point.</p></li>
+<li><p>Possibility to prioritize address points from the most profitable to
+unprofitable.</p></li>
+<li><p>Possibility to evaluate basic economic indicators like ROI, NPV.</p></li>
+</ul>
+</section>
+<section id="useful-links-and-bibliography">
+<h2>Useful links and bibliography<a class="headerlink" href="#useful-links-and-bibliography" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="http://europa.eu/rapid/press-release_MEMO-10-200_en.htm">http://europa.eu/rapid/press-release_MEMO-10-200_en.htm</a> - information on
+European Digital Agenda</p></li>
+<li><p><a class="reference external" href="http://www.ftthcouncil.eu/">http://www.ftthcouncil.eu/</a>  - FTTH Council Europe website</p></li>
+<li><p><a class="reference external" href="https://www.scipy.org/">https://www.scipy.org/</a> - SciPy project website</p></li>
+<li><p><a class="reference external" href="https://ksavinetworkinventory.com/en/download-geospatial-network-inventory-free/">https://ksavinetworkinventory.com/en/download-geospatial-network-inventory-free/</a>
+- tool download webpage.</p></li>
+</ul>
+</section>
+<section id="authors">
+<h2>Authors<a class="headerlink" href="#authors" title="Permalink to this headline">¶</a></h2>
+<p>The solution is a completely free open source tool. It is part of a larger
+project based on QGIS and FreeCAD platforms which has intention to be used in
+telecommunications industry.</p>
+<p>The author of this QGIS based solution is Softelnet (<a class="reference external" href="https://www.softelnet.com">https://www.softelnet.com</a>),
+a company manufacturing and integrating software for the telecommunications industry
+for over 15 years.</p>
+</section>
+</section>
+
+                        
+                    
+                </div>
+                  
+            </div>
+        </div>
+    
+
+    <!--<a href="https://github.com/qgis/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10000;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>-->
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="italy_cesena.html" title="QGIS to describe the Cesena’s Wall"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="uruguay_mides.html" title="Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../index.html" >Discover QGIS</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="index.html" >Case Studies</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Using QGIS for FTTH/GPON network planning due to the implementation European Digital Agenda</a></li> 
+      </ul>
+    </div>
+  <footer class="footer">
+
+    <div class="container">
+        <div>
+          <ul class="unstyled inline" id="social">
+            <li id="twitter"><a href="http://twitter.com/qgis" class="external"><div></div></a></li>
+            <li id="facebook"><a href="https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096" class="external"><div></div></a></li>
+            <li id="github"><a href="http://github.com/qgis/" class="external"><div></div></a></li>
+            <li id="aboutcontact"><a href="../../getinvolved/index.html"><div></div></a></li>
+          </ul>
+        </div>
+
+        <p class="credit">If not stated otherwise, all content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a></p>
+    </div>
+    <div class="container">
+      <p class="credit">
+        Select graphics from <a href="https://thenounproject.com" target="_blank">The Noun Project collection</a>
+        
+        
+      </p>
+      <p class="credit">
+        Untranslated page? Or you spot a translation error:
+        <a id="fix_translation_link" target="_blank" href="https://www.transifex.com/projects/p/qgis-website/">fix me</a>
+        <br/>
+        Textual error, missing text or you know better:
+        <a id="fix_text_link" target="_blank" href="https://github.com/qgis/QGIS-Website">fix me</a>
+      </p>
+    </div>
+  </footer>
+
+  </body>
+</html>

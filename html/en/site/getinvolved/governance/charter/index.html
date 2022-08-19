@@ -1,0 +1,788 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Charter of the QGIS.ORG Association</title>
+    <link rel="stylesheet" type="text/css" href="../../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/basic.css" />
+    <link rel="stylesheet" href="../../../../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../../_static/qgis-style.css" type="text/css" />
+    <link rel="stylesheet" href="../../../../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../../_static/bootstrap-sphinx.css" type="text/css" />
+    <script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js"></script>
+    <script src="../../../../_static/jquery.js"></script>
+    <script src="../../../../_static/underscore.js"></script>
+    <script src="../../../../_static/doctools.js"></script>
+    <script src="../../../../_static/qgis-site.js"></script>
+    <script src="../../../../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script src="../../../../_static/jquery.countdown-2.0.4/jquery.countdown.min.js"></script>
+    <link rel="index" title="Index" href="../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../search.html" />
+    <link rel="next" title="Old Charter versions" href="old_charter.html" />
+    <link rel="prev" title="Project Organisation" href="../index.html" />
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="old_charter.html" title="Old Charter versions"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="../index.html" title="Project Organisation"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../../index.html" >Get Involved / Development</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="../index.html" accesskey="U">Project Organisation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Charter of the QGIS.ORG Association</a></li> 
+      </ul>
+    </div>
+
+    
+  <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="../../../index.html">QGIS</a>
+        <span class="navbar-text pull-left"><p><b>3.26.2 ​ <br/> 3.22.10 LTR</b></p></span>
+        
+          <select id="languages">
+  <!-- note on the options here: the 'title' string is to be translated in your
+  language, but the element text is supposed to stay in native lang/txt -->
+  <option value="en" title="English">English</option>
+  <option value="ca" title="Catalan">Català</option>
+  <option value="da" title="Danish">Dansk</option>
+  <option value="de" title="German">Deutsch</option>
+  <option value="es" title="Spanish">Español</option>
+  <option value="fa" title="Persian">فارسی</option>
+  <option value="fi" title="Finnish">Suomi</option>
+  <option value="fr" title="French">Français</option>
+  <option value="gl" title="Galician">Galego</option>
+  <option value="id" title="Indonesian">Bahasa Indonesia</option>
+  <option value="it" title="Italian">Italiano</option>
+  <option value="hu" title="Hungarian">Magyar</option>
+  <option value="ja" title="Japanese">日本語</option>
+  <option value="km_KH" title="Khmer">ភាសាខ្មែរ    </option>
+  <option value="ko" title="Korean">한국어</option>
+  <option value="lt" title="Lithuanian">Lietuvių</option>
+  <option value="nl" title="Dutch">Nederlands</option>
+  <option value="pl" title="Polish">Polski</option>
+  <option value="pt_BR" title="Portuguesei (Brazil)">Português (Brasil)</option>
+  <option value="pt_PT" title="Portuguese">Português</option>
+  <option value="ro" title="Romanian">Română</option>
+  <option value="tr" title="Turkish">Türkçe</option>
+  <option value="ru" title="Russian">Русский</option>
+  <option value="uk" title="Ukrainian">Українська</option>
+  <option value="zh-Hans" title="Chinese (Simplified)">简体中文</option>
+  <option value="zh-Hant" title="Chinese (Traditional)">繁體中文</option>
+</select>
+
+<script>
+    var currentPage = 'site/getinvolved/governance/charter/index.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    // split index.html if currentUrl is ended by '/'
+    var currentUrl = window.location.href;
+    if (currentUrl.slice(-1) == '/' && currentPage.slice(-1) != '/'){
+      var pages = currentPage.split('/');
+      pages.pop();
+      currentPage = pages.join('/') + '/';
+    }
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        // it's possible this is the index.html page called without 'index.html', try without the currentPage
+        if (langPlusPage==undefined){
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // it's possible this is an index.html page called without 'index.html', try removing index.html
+        if (langPlusPage==undefined){
+            currentPage = currentPage.replace('index.html','')
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // still no langPlugPage: stop, because the language swicher will misbehave
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+        // TODO: links should come from conf.py
+        // TODO: all template pages have the actual translation in sphinc.conf
+        // IMPORTANT: space, -, _ etc replacing below must be 100% inline with
+        // code in scripts/create_transifex_resources.sh !!
+        // https://github.com/qgis/QGIS-Website/blob/master/scripts/create_transifex_resources.sh
+        fix_translation_link = 'https://www.transifex.com/projects/p/qgis-website/translate/#' + 
+            currentLang.slice(1) + currentPage.replace(/_/g, "-").replace(/ /g, "-").replace(/\//g, "_").replace(/\.html/g, "").replace(/\./g, "-")
+        if ('/en/' != currentLang) {
+            $('#fix_translation_link').attr('href', fix_translation_link);
+        }
+        fix_text_link = 'https://github.com/qgis/QGIS-Website/edit/master/source/' +
+            currentPage.replace(/.html/g, ".rst")
+        // TODO: only on rst pages, here a list of pages which are actual templates?
+        if (true){
+            $('#fix_text_link').attr('href', fix_text_link);
+        }
+
+        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
+
+        $("#languages").change(function() {
+            gotoLang($(this).val());
+        });
+
+        if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
+        }
+        else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
+            // crontab is pulling url's below and copy to /feed at qgis.org
+            // https://changelog.qgis.org/en/qgis/members/json/
+            json2html('/feeds/members.json', '#qgissustainingmembersatom', 1000, true, 'span3');
+            // https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2
+            json2html('/feeds/qgispastmembers.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
+        }
+        else if (currentPage == "site/forusers/download.html"){
+            $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
+            '<h2>Thank you!</h2> <p/>'+
+            '<div class="container"><div class="span8">'+
+            '<p>Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href="https://donate.qgis.org/">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!</p>'+
+            '<p>The QGIS Team</p>'+
+            '</div><div class="container">'+
+            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="https://donate.qgis.org/">Donate Now</a></p><p class="muted"></p></div>'+
+            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">Close this message</a></p><p class="muted"></p></div>'+
+            '</div>'+
+            '<br/><p><img src="../../../../_static/images/splash.png"/></p></div>');
+            $('#thankyou').click(function(){ $('#thankyou').hide(); });
+            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
+            $('a.reference').click(function(){
+                $('#thankyou').show();
+                return true;
+            });
+        }
+        else if (currentPage == "site/forusers/alldownloads.html"){
+	    replacesha('qgis-rel-dev');
+	    replacesha('qgis-ltr-dev');
+	    replacesha('qgis-dev');
+        }
+    });
+
+    //
+    // load current page in a different language
+    //
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+    //
+    // function to load a json (feed) and create html for it
+    // currently only used for sustaining members
+    //
+    function json2html(url, holder, count, showcont, spanclass){
+        var html = '';
+        $.getJSON(url, function (data) {
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+
+            $.each( data.rss.channel.item, function( key, val ){
+              var item = val;
+              var imglink = '#';
+              var link = '#';
+              var content = '';
+              var member_level = 'Small';
+              if (item.member_url){link=item.member_url};
+              if (item.image_url){imglink=item.image_url};
+              if (item.member_level){member_level=item.member_level};
+              var title = item.title;
+              content = '<div><img class="member_img '+member_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="member_body '+member_level.toLowerCase()+'">'+item.member_country+'<br/>Membership level: '+member_level+'<br/>'+
+                '('+item.start_date+' - '+item.end_date+')</p>';
+              html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+              html+='<div class="memberdiv"><h4>'+title+'</h4>';
+              html+=content;
+              html+='</div></a></div>';
+            })
+          $(holder).append(html);
+        })
+    }
+    //
+    // function to load an atom feed, an put it in an element
+    //
+    function atom(url, holder, count, showcont, spanclass){
+        $.get(url, function (data) {
+            var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+            $(data).find("entry").each(function () {
+                var el = $(this);
+                var title = el.find('title').text();
+                var author = el.find('name').text();
+                var content = el.find('content').text();
+                if (content.length==0){
+                    // try summary
+                    content = el.find('summary').text();
+                }
+                var imglink='#';
+                var link='#';
+                el.find('link').each(
+                    function(){
+                        // flickr image for maps and qgis screenshots
+                        if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
+                            imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
+                        }
+                        // links
+                        else if ($(this).attr('rel') == 'alternate'){
+                            link = $(this).attr('href');
+                        }
+                    }
+                )
+                counter++;
+
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
+                    // html for flickr maps
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
+                    html+='</a></p></div>\n';
+                }
+                else if (counter<=maxitems){
+                    // visual changelogs, qugs feed and planet feed
+                    var addit = true;
+                    if (holder == '#qgisplanetatom'){
+                        var s = title.split(':');
+                        title = s[0];
+                        content = s[1];
+                        // skip blog.qgis.org posts
+                        if (link.indexOf('blog.qgis.org')>=0){
+                            addit = false;
+                            counter --;
+                        }
+                    }
+                    else if (holder == '#qgissustainingmembersatom' || holder == '#qgissustainingmembersatom'){
+                        html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+                        html+='<div class="memberdiv"><h4>'+title+'</h4>';
+                        html+=content;
+                        html+='</div></a></div>';
+                        addit = false; // we are building html ourselves!!
+                    }
+                    else if (holder == '#qgisblogatom'){
+                        var s = title.split(':');
+                        if (s[0] != 'QGIS Project blog'){
+                            addit = false;
+                            counter--;
+                        }
+                        // trying to extract date from link
+                        // http://blog.qgis.org/2017/09/02/do-you-want-to-host-a-qgis-developer-meeting/
+                        d = link.split('/').slice(3,6);  // 2017,09,02
+                        title = '<img src="../_static/logo.png" style="width:30px;"/> - ' + d[0] + '/' + d[1] + '/' + d[2] + ' - ' + s[1];
+                        content = '';
+                    }
+                    if (addit){
+                        html+='<a class="external" href="'+link+'">';
+                        html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
+                        if (showcontent) { html+=content; };
+                        html+='</div></a>\n';
+                    }
+                }
+            });
+            $(holder).append(html);
+        });
+    }
+
+    //
+    // function to replace a item
+    //
+    function replacesha(id) {
+      var xhr = new XMLHttpRequest();
+      xhr.onload = function () {
+	var sha = this.responseText.substring(this.responseText.indexOf(':')+1);
+        document.getElementById(id).innerHTML = "<a target=\"_new\" href=\"http://github.com/qgis/QGIS/commit/" + sha + "\">" + sha + "</a>";
+      };
+      xhr.open('GET', '/downloads/' + id + '.sha');
+      xhr.send();
+    }
+</script>
+        
+        <div class="nav-collapse collapse">
+          <ul class="unstyled nav main-menu">
+            <li><a href="../../../about/index.html">Discover QGIS</a></li>
+            <li><a href="../../../forusers/index.html">For Users</a></li>
+            <li><a href="../../index.html">Get Involved</a></li>
+            <li><a href="../../../../docs/index.html">Documentation</a></li>
+            <li>
+          
+<form class="navbar-search" action="../../../../search.html" method="get">
+  <input type="text" name="q" class="search-query" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div style="display:none;" class="container" id="nextprev" >
+    
+    <a accesskey="p" href="../index.html">&lt;&lt; prev</a>
+    
+    
+    <a accesskey="n" href="old_charter.html">next &gt;&gt;</a>
+    
+    </div>
+
+
+
+
+    
+        <div class="container">
+            <div class="row">
+      <div class="span4">
+        <div id="sidebar" class="bs-sidenav well" data-spy="scroll"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../../about/index.html">Discover QGIS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../forusers/index.html">For Users</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Get Involved / Development</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../document.html">Write Documentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../translate.html">Translation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../development/index.html">Development</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../tests.html">Tests</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../daily_reports/index.html">Daily Reports</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://plugins.qgis.org">Plugins website</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../mailinglists.html">Mailing lists</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../index.html">Project Organisation</a><ul class="current">
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Charter of the QGIS.ORG Association</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="old_charter.html">Old Charter versions</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#legal-status-of-qgis-org">1 Legal status of QGIS.ORG</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#definitions">2 Definitions</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#goals-of-qgis-org">3 Goals of QGIS.ORG</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#qgis-org-legal-entities">4 QGIS.ORG Legal entities</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#general-meeting">5 General Meeting</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#sustaining-members">6 Sustaining Members</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#the-board">7 The board</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#the-project-steering-committee-psc">8 The Project Steering Committee (PSC)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#administration-of-qgis-org">9 Administration of QGIS.ORG</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#financial-arrangements">10 Financial arrangements</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../governance.html">Who is who in the project</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../trademark/index.html">QGIS Trademark and brand guidelines</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../sustaining_members/index.html">Sustaining Membership Program</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../annual_general_meetings/index.html">Annual general meetings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../annual_reports/index.html">Annual reports</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../finance/index.html">Finance</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../resolutions/2019_resolutions.html">List of Project Steering Committee Resolutions - 2019</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../resolutions/2020_resolutions.html">List of Project Steering Committee Resolutions - 2020</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../infrastructure.html">Infrastructure</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../codeofconduct/codeofconduct.html">Code of Conduct</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../codeofconduct/diversitystatement.html">Diversity statement</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../codeofconduct/credits.html">Credits for Contributors</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../codeofconduct/environmentalpolicy.html">Environmental Policy</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../developer_meetings/index.html">The QGIS Developer Meeting Program</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../release_checklists/index.html">Release Checklists</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../meetings/index.html">Meetings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../sustaining_members/index.html">Sustaining Membership Program</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://donate.qgis.org">Donations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../certification.html">Certification</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../faq/index.html">FAQ</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../styleguide.html">Visual Style Guide</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../docs/index.html">Documentation</a></li>
+</ul>
+
+        </div>
+      </div>
+                <div class="span8">
+                    
+                        
+                            <section id="charter-of-the-qgis-org-association">
+<span id="psc"></span><h1>Charter of the QGIS.ORG Association<a class="headerlink" href="#charter-of-the-qgis-org-association" title="Permalink to this headline">¶</a></h1>
+<p>(QGIS.ORG Verein)</p>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="old_charter.html">Old Charter versions</a></li>
+</ul>
+</div>
+<section id="legal-status-of-qgis-org">
+<h2>1 Legal status of QGIS.ORG<a class="headerlink" href="#legal-status-of-qgis-org" title="Permalink to this headline">¶</a></h2>
+<p>QGIS.ORG is the worldwide association of QGIS users and developers. QGIS.ORG is
+constituted as a Swiss ‘association’ (Verein im Sinne des Schweizerischen
+Zivilgesetzbuches (Art. 60-79 ZGB)).</p>
+<p>The German version of this document is the legally binding version. It can be translated into
+other languages.</p>
+</section>
+<section id="definitions">
+<h2>2 Definitions<a class="headerlink" href="#definitions" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p><strong>QGIS Project</strong> - the development, maintenance and propagation of the GIS software
+QGIS and any other software in the official QGIS repositories as free software in the
+sense of the Free Software Foundation.</p></li>
+<li><p><strong>‘The association’, ‘QGIS.ORG’</strong> - the not-for-profit legal entity as defined in Verein
+im Sinne des Schweizerischen Zivilgesetzbuches (Art. 60-79 ZGB)</p></li>
+<li><p><strong>QGIS Community</strong> - Any active participant of the QGIS community including users,
+committers, patch providers, translators, document maintainers, advice givers, stack
+exchange contributors etc.</p></li>
+<li><p><strong>QGIS Committers</strong> - Any person who has been granted commit access in any of the
+official QGIS repositories</p></li>
+<li><p><strong>QGIS Project Steering Committee (PSC)</strong> - The elected representatives of the QGIS
+community that advises the board.</p></li>
+<li><p><strong>QGIS Board</strong> - A subset of the PSC (see below) that has been mandated to provide
+legal and fiscal oversight for QGIS.ORG. The Board is the legal representative of the
+QGIS.ORG Association.</p></li>
+<li><p><strong>Chair</strong> - An individual elected from amongst the board who will act as the official
+representative of the QGIS project.</p></li>
+<li><p><strong>QGIS User Group</strong> - A formal national chapter, meeting the criteria for official user
+group as defined by the board. The official list of registered groups is maintained
+here: <a class="reference external" href="http://www.qgis.org/en/site/forusers/usergroups.html">http://www.qgis.org/en/site/forusers/usergroups.html</a></p></li>
+<li><p><strong>OSGeo</strong> - The Open Source Geospatial Foundation (OSGeo) is a not-for-profit
+organization whose mission is to foster global adoption of open geospatial
+technology by being an inclusive software foundation devoted to an open philosophy
+and participatory community driven development. QGIS is a OSGeo member.</p></li>
+<li><p><strong>Voting member</strong> - any person who may vote on communal decisions made by the
+board. The voting members (general meeting) will approve the annual budget and
+the election of any new board members.</p></li>
+<li><p><strong>Sustaining member</strong> - a non-voting member who supports QGIS.ORG financially.</p></li>
+<li><p><strong>Financial auditors</strong> - nominated from the whole QGIS Community and they are
+elected by the voting members. The financial auditors shall approve the accounts
+annually.</p></li>
+</ol>
+</section>
+<section id="goals-of-qgis-org">
+<h2>3 Goals of QGIS.ORG<a class="headerlink" href="#goals-of-qgis-org" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p>To steer the QGIS project in order to maximise its good standing in the GIS
+community and ensure that we reach as many potential users who can benefit from
+our work as possible.</p></li>
+<li><p>Coordination of QGIS project activities and disbursement of available financial
+resources for initiatives that will ensure the long term growth and sustainability of the
+QGIS project.</p></li>
+<li><p>Marketing of QGIS through orientation courses, case studies, informative meetings or
+articles in GIS related media and any other suitable means.</p></li>
+<li><p>Disseminate information to the QGIS community to keep them informed about
+planned and past activities including things such as the financial state of the project,
+initiatives that will be carried out on behalf of the QGIS project and so on.</p></li>
+<li><p>Support of research or studies around QGIS.</p></li>
+<li><p>Foster regular meetings of the QGIS community.</p></li>
+<li><p>Act as a liaison between the community of QGIS user groups, and third parties
+interested in knowing about or supporting QGIS.</p></li>
+</ol>
+</section>
+<section id="qgis-org-legal-entities">
+<h2>4 QGIS.ORG Legal entities<a class="headerlink" href="#qgis-org-legal-entities" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p>The General Meeting (the Voting Members)</p></li>
+<li><p>The Board</p></li>
+<li><p>Two non-Board members who shall act as financial auditors</p></li>
+</ol>
+<p>These three entities are in place to support and represent the broader QGIS Community.</p>
+</section>
+<section id="general-meeting">
+<h2>5 General Meeting<a class="headerlink" href="#general-meeting" title="Permalink to this headline">¶</a></h2>
+<p>Voting members of the general meeting are the deciders of policy and any major decisions
+that affect the general standing may be put to the Voting Members for a vote by the PSC.
+Voting Members vote on any motion raised at the Annual General Meeting. Voting Members
+also nominate and elect the PSC membership.</p>
+<section id="types-of-voting-members">
+<h3>5.1 Types of voting members<a class="headerlink" href="#types-of-voting-members" title="Permalink to this headline">¶</a></h3>
+<ol class="arabic simple">
+<li><p>QGIS User group voting members</p></li>
+<li><p>QGIS Community voting members</p></li>
+<li><p>One OSGEO representative voting member</p></li>
+<li><p>Honorary voting members</p></li>
+</ol>
+</section>
+<section id="composition-appointment-and-role-of-voting-members">
+<h3>5.2 Composition, appointment and role of voting members<a class="headerlink" href="#composition-appointment-and-role-of-voting-members" title="Permalink to this headline">¶</a></h3>
+<p>The voting members shall be appointed according to the following scheme:</p>
+<ul class="simple">
+<li><p>QGIS User Group Voting Members: One voting member per QGIS country level
+user group. Each user group will nominate who their voting member shall be.</p></li>
+<li><p>QGIS Community Voting Members: For each user group voting member, there will
+be one voting community member elected.</p></li>
+<li><p>OSGeo Voting Member: One voting member representing the OSGeo foundation
+put forward by the OSGeo board.</p></li>
+</ul>
+</section>
+<section id="election-and-eligibility-of-qgis-user-group-voting-members">
+<h3>5.3 Election and eligibility of QGIS User Group voting members<a class="headerlink" href="#election-and-eligibility-of-qgis-user-group-voting-members" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Only country-level user groups may put forward a nominated voting member.</p></li>
+<li><p>In order to be recognised, a user group must be approved by the PSC.</p></li>
+</ul>
+<p>The user group should democratically nominate one person from within their ranks to act as
+their representative within the QGIS.ORG voting membership.</p>
+</section>
+<section id="election-and-eligibility-of-qgis-community-voting-members">
+<h3>5.4 Election and eligibility of QGIS Community voting members<a class="headerlink" href="#election-and-eligibility-of-qgis-community-voting-members" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>QGIS community members will be nominated and voted for by the established QGIS
+committers.</p></li>
+<li><p>Any active QGIS community member will be eligible for nomination as a QGIS.ORG
+voting member.</p></li>
+<li><p>Voting Memberships shall be awarded on a ‘first past the post’ basis, with the
+nominee receiving the greatest number of votes being awarded voting membership
+first and so on in descending order of number of votes received until all voting
+memberships have been allocated.</p></li>
+</ul>
+</section>
+<section id="honorable-members">
+<h3>5.5 Honorable members<a class="headerlink" href="#honorable-members" title="Permalink to this headline">¶</a></h3>
+<p>Honorable members are individual persons who receive special acknowledgment for
+extraordinary achievements in the QGIS project. Applications for the nomination of an
+honorable member should be directed to the PSC. The general meeting shall vote about the
+acceptance of a new honorable member. Honorable members shall have voting rights.</p>
+</section>
+<section id="voting-member-terms">
+<h3>5.6 Voting member terms<a class="headerlink" href="#voting-member-terms" title="Permalink to this headline">¶</a></h3>
+<p>Voting memberships will be valid until:</p>
+<ul class="simple">
+<li><p>The voting member resigns</p></li>
+<li><p>There is a motion raised from within the voting membership, and passed vote by the
+voting membership to remove the member</p></li>
+<li><p>A voting member gets elected to the PSC in which case voting membership of the
+new PSC member will be relinquished and a new voting member will be elected in
+the new PSC member’s place. Outgoing PSC members that were previously voting
+members will need to be re-elected into the voting membership should they wish to
+return to their former role.</p></li>
+</ul>
+</section>
+</section>
+<section id="sustaining-members">
+<h2>6 Sustaining Members<a class="headerlink" href="#sustaining-members" title="Permalink to this headline">¶</a></h2>
+<p>Sustaining members are members who support QGIS.ORG financially with an annual membership fee. This membership fee is used to cover expenses of QGIS.ORG infrastructure, events and other initiatives to improve the project. Membership fees help to ensure that the QGIS community and the software we produce can be maintained and improved in a sustainable way. Sustaining members have no voting rights (unless they are simultaneously voting members in which case their voting rights are unaffected).</p>
+<p>The following categories are offered for sustaining members, based on their size and assigned through self declaration:</p>
+<ul class="simple">
+<li><p>Small (e.g. for smaller cities or companies up to 10 employees)</p></li>
+<li><p>Medium (e.g. for universities, medium size cities or companies up to 50 employees</p></li>
+<li><p>Large (e.g. for larger cities, provinces or companies up to 100 employees)</p></li>
+<li><p>Flagship (e.g. for companies larger than 100 employees, federal governmental organizations)</p></li>
+</ul>
+<p>Membership fees are approved or changed by the general assembly. They are defined as minimum fees per category, but may be increased if the sustaining member chooses to do so.</p>
+<p>Because QGIS.ORG is a world-wide project and different companies, NGOs or governmental organizations have different financial prospects, we do not enforce any membership levels - the organizations pick their own membership level based on self-assessment.</p>
+<p>Acceptance of sustaining members shall be subject to the discretion and approval of The Board, who reserve the right to accept or reject applications for sustaining membership and ongoing support memberships as deemed appropriate.</p>
+<p>The fees for membership levels and guidelines for management of sustaining members are provided in the governance section of the QGIS.ORG website.</p>
+</section>
+<section id="the-board">
+<h2>7 The board<a class="headerlink" href="#the-board" title="Permalink to this headline">¶</a></h2>
+<p>The board is the legal representation of the QGIS.ORG project with authority to sign legal
+documents on behalf of the QGIS.ORG project.</p>
+<p>The official domicile of the association shall be determined by the board. The group is legally
+represented by the chair’s signature and a signature of an additional member of the board.</p>
+<p>The treasurer has sole authority to carry out financial transactions provided they are within
+the bounds of the annual budget authorized by the general meeting.</p>
+<section id="election-of-board-members">
+<h3>7.1 Election of board members<a class="headerlink" href="#election-of-board-members" title="Permalink to this headline">¶</a></h3>
+<p>Board members shall also be members of the PSC and shall be nominated and elected by
+the general meeting. In an election of board members, the nominee receiving the greatest
+number of votes for each position (chair, vice chair, treasurer) shall be appointed. A tied
+election shall trigger a re-vote until one nominee has the majority.</p>
+<p>Votes of non-elected Chair candidates shall be used as replacement of the voter’s vice-chair
+vote.</p>
+<p>On expiration of a board member’s term, nominees from within the QGIS community shall
+be put forward by the QGIS Voting Members. The outgoing board member shall
+automatically receive a nomination unless he/she no longer wishes to serve on the board.</p>
+</section>
+<section id="terms-of-members-of-the-board">
+<h3>7.2 Terms of members of the board<a class="headerlink" href="#terms-of-members-of-the-board" title="Permalink to this headline">¶</a></h3>
+<p>Board members will serve for a two year term.</p>
+</section>
+<section id="composition-of-the-board">
+<h3>7.3 Composition of the board<a class="headerlink" href="#composition-of-the-board" title="Permalink to this headline">¶</a></h3>
+<p>The board shall include at minimum these roles:</p>
+<ol class="arabic simple">
+<li><p>Chair</p></li>
+<li><p>Vice-chair</p></li>
+<li><p>Treasurer</p></li>
+</ol>
+</section>
+<section id="board-and-psc-member-remuneration">
+<h3>7.4 Board and PSC Member remuneration<a class="headerlink" href="#board-and-psc-member-remuneration" title="Permalink to this headline">¶</a></h3>
+<p>Board and PSC members will receive no remuneration for their services other than
+reimbursement of out-of-pocket expenses incurred when carrying out activities on behalf of
+the board.</p>
+</section>
+<section id="replacement-of-board-members">
+<h3>7.5 Replacement of Board Members<a class="headerlink" href="#replacement-of-board-members" title="Permalink to this headline">¶</a></h3>
+<p>In the event of a board member resigning from the board, the PSC shall put forward from within their
+ranks a replacement for the board who shall serve in that position until the next AGM is called.</p>
+</section>
+</section>
+<section id="the-project-steering-committee-psc">
+<h2>8 The Project Steering Committee (PSC)<a class="headerlink" href="#the-project-steering-committee-psc" title="Permalink to this headline">¶</a></h2>
+<section id="election-of-psc-members">
+<h3>8.1 Election of PSC members<a class="headerlink" href="#election-of-psc-members" title="Permalink to this headline">¶</a></h3>
+<p>On expiration of a PSC member’s term, nominees from within the QGIS Community shall be
+put forward by any QGIS Community Member. The outgoing PSC member shall
+automatically receive a nomination unless he/she no longer wishes to serve on the PSC. If
+an incoming PSC member is a Voting Member, they will relinquish their voting membership
+in the general meeting on joining the PSC.</p>
+<p>Prior to the election, the outgoing PSC determines the total number of seats of the incoming
+committee. QGIS Voting Members shall be allowed a number of votes equal to the number
+of PSC memberships up for election and shall be asked to rank their votes in order of
+preference. After removing elected Board members from the vote results, PSC memberships
+shall be awarded on the total vote count, with the nominee receiving the greatest count
+being awarded PSC membership first and so on in descending order of number of votes
+received until all PSC memberships have been allocated. A list of currently serving PSC
+members shall be maintained at: <a class="reference external" href="https://www.qgis.org/en/site/getinvolved/governance/">https://www.qgis.org/en/site/getinvolved/governance/</a></p>
+</section>
+<section id="terms-of-members-of-the-psc">
+<h3>8.2 Terms of members of the PSC<a class="headerlink" href="#terms-of-members-of-the-psc" title="Permalink to this headline">¶</a></h3>
+<p>PSC members will serve for a two year term.</p>
+</section>
+<section id="honorary-psc-members">
+<h3>8.3 Honorary PSC members<a class="headerlink" href="#honorary-psc-members" title="Permalink to this headline">¶</a></h3>
+<p>Gary Sherman, as founder of the QGIS project, shall be accorded lifetime honorary
+membership on the QGIS PSC from its inception. By common vote, QGIS.ORG may award
+any individual a lifetime honorary seat on the PSC.</p>
+</section>
+</section>
+<section id="administration-of-qgis-org">
+<h2>9 Administration of QGIS.ORG<a class="headerlink" href="#administration-of-qgis-org" title="Permalink to this headline">¶</a></h2>
+<p>The annual general meeting (AGM) will be held via a virtual forum The online location and
+date is to be determined and communicated by the board in advance of the meeting. The
+board shall publish a meeting agenda prior to the meeting. The protocol of the past general
+meeting shall be provided by the board and sent to the voting members at least 15 days
+prior to each general meeting. The chair of the association authorizes the release of the
+protocol.</p>
+<p>The meeting shall be open to all QGIS community members. Only voting members can vote
+on any motion. Substantial proposals made by QGIS community members for future
+QGIS.ORG activities should be provided to the board in writing to be added as agenda items
+in advance of the meeting. Minor proposals should be presented to the board and dealt with
+independently of the AGM.</p>
+<p>The annual general meeting shall deal with the following:</p>
+<ol class="arabic simple">
+<li><p>Approval of the annual report</p></li>
+<li><p>Approval of the annual financial report</p></li>
+<li><p>Approval of the annual budget</p></li>
+<li><p>Election of the board chair</p></li>
+<li><p>The nomination and election for the outgoing board and PSC member replacements</p></li>
+<li><p>Confirmation or selection of the financial auditors for the upcoming financial year</p></li>
+<li><p>Resolutions / voting of proposals made by the board, the PSC or voting members</p></li>
+<li><p>Revision of the statutes</p></li>
+<li><p>Deal with any matters arising</p></li>
+</ol>
+<p>All other decisions and competences are the responsibility of the QGIS Board.</p>
+<p>Extraordinary meetings can be convened by the board or on demand of at least 2/5 of the
+voting members.</p>
+<p>Every officially convened general meeting has a quorum. At elections and for voting a simple
+majority (more than 50%) of the present members decides, except for the cases listed in
+sections 7.1, 8.1. and 5.4.</p>
+<p>The reporting year and the accounting year starts at January 1 and ends at December 31.</p>
+<p>The correspondence of the QGIS.ORG Association will be carried out in English, unless
+otherwise requested by the authorities.</p>
+<p>The association can only be dissolved by the general motion with a majority of more than 3⁄4
+of the voting members affirming the motion. In case of the liquidation of the association, the
+general meeting can vote on the usage of the assets of the association with a simple
+majority (more than 50% of voters).</p>
+</section>
+<section id="financial-arrangements">
+<h2>10 Financial arrangements<a class="headerlink" href="#financial-arrangements" title="Permalink to this headline">¶</a></h2>
+<p>The financial revenues of QGIS.ORG shall originate from donations, memberships, grant
+funding and other diverse sources.</p>
+<p>The general meeting shall elect two financial auditors each year.</p>
+<p>Limited Liability: the QGIS Association can only be held liable up to the amount of the
+current assets of the association. Personal liability of members of the board or individual
+other members are excluded.</p>
+<p>This charter was approved by the general assembly via Loomio vote on March 17, 2019.</p>
+</section>
+</section>
+
+                        
+                    
+                </div>
+                  
+            </div>
+        </div>
+    
+
+    <!--<a href="https://github.com/qgis/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10000;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>-->
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="old_charter.html" title="Old Charter versions"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="../index.html" title="Project Organisation"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../../index.html" >Get Involved / Development</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="../index.html" >Project Organisation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Charter of the QGIS.ORG Association</a></li> 
+      </ul>
+    </div>
+  <footer class="footer">
+
+    <div class="container">
+        <div>
+          <ul class="unstyled inline" id="social">
+            <li id="twitter"><a href="http://twitter.com/qgis" class="external"><div></div></a></li>
+            <li id="facebook"><a href="https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096" class="external"><div></div></a></li>
+            <li id="github"><a href="http://github.com/qgis/" class="external"><div></div></a></li>
+            <li id="aboutcontact"><a href="../../index.html"><div></div></a></li>
+          </ul>
+        </div>
+
+        <p class="credit">If not stated otherwise, all content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a></p>
+    </div>
+    <div class="container">
+      <p class="credit">
+        Select graphics from <a href="https://thenounproject.com" target="_blank">The Noun Project collection</a>
+        
+        
+      </p>
+      <p class="credit">
+        Untranslated page? Or you spot a translation error:
+        <a id="fix_translation_link" target="_blank" href="https://www.transifex.com/projects/p/qgis-website/">fix me</a>
+        <br/>
+        Textual error, missing text or you know better:
+        <a id="fix_text_link" target="_blank" href="https://github.com/qgis/QGIS-Website">fix me</a>
+      </p>
+    </div>
+  </footer>
+
+  </body>
+</html>

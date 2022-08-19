@@ -1,0 +1,595 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Translation</title>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/basic.css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/qgis-style.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-sphinx.css" type="text/css" />
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/qgis-site.js"></script>
+    <script src="../../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script src="../../_static/jquery.countdown-2.0.4/jquery.countdown.min.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Development" href="development/index.html" />
+    <link rel="prev" title="Write Documentation" href="document.html" />
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="development/index.html" title="Development"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="document.html" title="Write Documentation"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="index.html" accesskey="U">Get Involved / Development</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Translation</a></li> 
+      </ul>
+    </div>
+
+    
+  <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="../index.html">QGIS</a>
+        <span class="navbar-text pull-left"><p><b>3.26.2 ​ <br/> 3.22.10 LTR</b></p></span>
+        
+          <select id="languages">
+  <!-- note on the options here: the 'title' string is to be translated in your
+  language, but the element text is supposed to stay in native lang/txt -->
+  <option value="en" title="English">English</option>
+  <option value="ca" title="Catalan">Català</option>
+  <option value="da" title="Danish">Dansk</option>
+  <option value="de" title="German">Deutsch</option>
+  <option value="es" title="Spanish">Español</option>
+  <option value="fa" title="Persian">فارسی</option>
+  <option value="fi" title="Finnish">Suomi</option>
+  <option value="fr" title="French">Français</option>
+  <option value="gl" title="Galician">Galego</option>
+  <option value="id" title="Indonesian">Bahasa Indonesia</option>
+  <option value="it" title="Italian">Italiano</option>
+  <option value="hu" title="Hungarian">Magyar</option>
+  <option value="ja" title="Japanese">日本語</option>
+  <option value="km_KH" title="Khmer">ភាសាខ្មែរ    </option>
+  <option value="ko" title="Korean">한국어</option>
+  <option value="lt" title="Lithuanian">Lietuvių</option>
+  <option value="nl" title="Dutch">Nederlands</option>
+  <option value="pl" title="Polish">Polski</option>
+  <option value="pt_BR" title="Portuguesei (Brazil)">Português (Brasil)</option>
+  <option value="pt_PT" title="Portuguese">Português</option>
+  <option value="ro" title="Romanian">Română</option>
+  <option value="tr" title="Turkish">Türkçe</option>
+  <option value="ru" title="Russian">Русский</option>
+  <option value="uk" title="Ukrainian">Українська</option>
+  <option value="zh-Hans" title="Chinese (Simplified)">简体中文</option>
+  <option value="zh-Hant" title="Chinese (Traditional)">繁體中文</option>
+</select>
+
+<script>
+    var currentPage = 'site/getinvolved/translate.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    // split index.html if currentUrl is ended by '/'
+    var currentUrl = window.location.href;
+    if (currentUrl.slice(-1) == '/' && currentPage.slice(-1) != '/'){
+      var pages = currentPage.split('/');
+      pages.pop();
+      currentPage = pages.join('/') + '/';
+    }
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        // it's possible this is the index.html page called without 'index.html', try without the currentPage
+        if (langPlusPage==undefined){
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // it's possible this is an index.html page called without 'index.html', try removing index.html
+        if (langPlusPage==undefined){
+            currentPage = currentPage.replace('index.html','')
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // still no langPlugPage: stop, because the language swicher will misbehave
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+        // TODO: links should come from conf.py
+        // TODO: all template pages have the actual translation in sphinc.conf
+        // IMPORTANT: space, -, _ etc replacing below must be 100% inline with
+        // code in scripts/create_transifex_resources.sh !!
+        // https://github.com/qgis/QGIS-Website/blob/master/scripts/create_transifex_resources.sh
+        fix_translation_link = 'https://www.transifex.com/projects/p/qgis-website/translate/#' + 
+            currentLang.slice(1) + currentPage.replace(/_/g, "-").replace(/ /g, "-").replace(/\//g, "_").replace(/\.html/g, "").replace(/\./g, "-")
+        if ('/en/' != currentLang) {
+            $('#fix_translation_link').attr('href', fix_translation_link);
+        }
+        fix_text_link = 'https://github.com/qgis/QGIS-Website/edit/master/source/' +
+            currentPage.replace(/.html/g, ".rst")
+        // TODO: only on rst pages, here a list of pages which are actual templates?
+        if (true){
+            $('#fix_text_link').attr('href', fix_text_link);
+        }
+
+        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
+
+        $("#languages").change(function() {
+            gotoLang($(this).val());
+        });
+
+        if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
+        }
+        else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
+            // crontab is pulling url's below and copy to /feed at qgis.org
+            // https://changelog.qgis.org/en/qgis/members/json/
+            json2html('/feeds/members.json', '#qgissustainingmembersatom', 1000, true, 'span3');
+            // https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2
+            json2html('/feeds/qgispastmembers.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
+        }
+        else if (currentPage == "site/forusers/download.html"){
+            $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
+            '<h2>Thank you!</h2> <p/>'+
+            '<div class="container"><div class="span8">'+
+            '<p>Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href="https://donate.qgis.org/">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!</p>'+
+            '<p>The QGIS Team</p>'+
+            '</div><div class="container">'+
+            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="https://donate.qgis.org/">Donate Now</a></p><p class="muted"></p></div>'+
+            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">Close this message</a></p><p class="muted"></p></div>'+
+            '</div>'+
+            '<br/><p><img src="../../_static/images/splash.png"/></p></div>');
+            $('#thankyou').click(function(){ $('#thankyou').hide(); });
+            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
+            $('a.reference').click(function(){
+                $('#thankyou').show();
+                return true;
+            });
+        }
+        else if (currentPage == "site/forusers/alldownloads.html"){
+	    replacesha('qgis-rel-dev');
+	    replacesha('qgis-ltr-dev');
+	    replacesha('qgis-dev');
+        }
+    });
+
+    //
+    // load current page in a different language
+    //
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+    //
+    // function to load a json (feed) and create html for it
+    // currently only used for sustaining members
+    //
+    function json2html(url, holder, count, showcont, spanclass){
+        var html = '';
+        $.getJSON(url, function (data) {
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+
+            $.each( data.rss.channel.item, function( key, val ){
+              var item = val;
+              var imglink = '#';
+              var link = '#';
+              var content = '';
+              var member_level = 'Small';
+              if (item.member_url){link=item.member_url};
+              if (item.image_url){imglink=item.image_url};
+              if (item.member_level){member_level=item.member_level};
+              var title = item.title;
+              content = '<div><img class="member_img '+member_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="member_body '+member_level.toLowerCase()+'">'+item.member_country+'<br/>Membership level: '+member_level+'<br/>'+
+                '('+item.start_date+' - '+item.end_date+')</p>';
+              html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+              html+='<div class="memberdiv"><h4>'+title+'</h4>';
+              html+=content;
+              html+='</div></a></div>';
+            })
+          $(holder).append(html);
+        })
+    }
+    //
+    // function to load an atom feed, an put it in an element
+    //
+    function atom(url, holder, count, showcont, spanclass){
+        $.get(url, function (data) {
+            var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+            $(data).find("entry").each(function () {
+                var el = $(this);
+                var title = el.find('title').text();
+                var author = el.find('name').text();
+                var content = el.find('content').text();
+                if (content.length==0){
+                    // try summary
+                    content = el.find('summary').text();
+                }
+                var imglink='#';
+                var link='#';
+                el.find('link').each(
+                    function(){
+                        // flickr image for maps and qgis screenshots
+                        if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
+                            imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
+                        }
+                        // links
+                        else if ($(this).attr('rel') == 'alternate'){
+                            link = $(this).attr('href');
+                        }
+                    }
+                )
+                counter++;
+
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
+                    // html for flickr maps
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
+                    html+='</a></p></div>\n';
+                }
+                else if (counter<=maxitems){
+                    // visual changelogs, qugs feed and planet feed
+                    var addit = true;
+                    if (holder == '#qgisplanetatom'){
+                        var s = title.split(':');
+                        title = s[0];
+                        content = s[1];
+                        // skip blog.qgis.org posts
+                        if (link.indexOf('blog.qgis.org')>=0){
+                            addit = false;
+                            counter --;
+                        }
+                    }
+                    else if (holder == '#qgissustainingmembersatom' || holder == '#qgissustainingmembersatom'){
+                        html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+                        html+='<div class="memberdiv"><h4>'+title+'</h4>';
+                        html+=content;
+                        html+='</div></a></div>';
+                        addit = false; // we are building html ourselves!!
+                    }
+                    else if (holder == '#qgisblogatom'){
+                        var s = title.split(':');
+                        if (s[0] != 'QGIS Project blog'){
+                            addit = false;
+                            counter--;
+                        }
+                        // trying to extract date from link
+                        // http://blog.qgis.org/2017/09/02/do-you-want-to-host-a-qgis-developer-meeting/
+                        d = link.split('/').slice(3,6);  // 2017,09,02
+                        title = '<img src="../_static/logo.png" style="width:30px;"/> - ' + d[0] + '/' + d[1] + '/' + d[2] + ' - ' + s[1];
+                        content = '';
+                    }
+                    if (addit){
+                        html+='<a class="external" href="'+link+'">';
+                        html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
+                        if (showcontent) { html+=content; };
+                        html+='</div></a>\n';
+                    }
+                }
+            });
+            $(holder).append(html);
+        });
+    }
+
+    //
+    // function to replace a item
+    //
+    function replacesha(id) {
+      var xhr = new XMLHttpRequest();
+      xhr.onload = function () {
+	var sha = this.responseText.substring(this.responseText.indexOf(':')+1);
+        document.getElementById(id).innerHTML = "<a target=\"_new\" href=\"http://github.com/qgis/QGIS/commit/" + sha + "\">" + sha + "</a>";
+      };
+      xhr.open('GET', '/downloads/' + id + '.sha');
+      xhr.send();
+    }
+</script>
+        
+        <div class="nav-collapse collapse">
+          <ul class="unstyled nav main-menu">
+            <li><a href="../about/index.html">Discover QGIS</a></li>
+            <li><a href="../forusers/index.html">For Users</a></li>
+            <li><a href="index.html">Get Involved</a></li>
+            <li><a href="../../docs/index.html">Documentation</a></li>
+            <li>
+          
+<form class="navbar-search" action="../../search.html" method="get">
+  <input type="text" name="q" class="search-query" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div style="display:none;" class="container" id="nextprev" >
+    
+    <a accesskey="p" href="document.html">&lt;&lt; prev</a>
+    
+    
+    <a accesskey="n" href="development/index.html">next &gt;&gt;</a>
+    
+    </div>
+
+
+
+
+    
+        <div class="container">
+            <div class="row">
+      <div class="span4">
+        <div id="sidebar" class="bs-sidenav well" data-spy="scroll"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../about/index.html">Discover QGIS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../forusers/index.html">For Users</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">Get Involved / Development</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="document.html">Write Documentation</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Translation</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#translators-mailing-list">Translators Mailing list</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#gui-translation">GUI Translation</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#becoming-a-translator">Becoming a translator</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id1">Transifex</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#join-a-project">Join a Project</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#translate">Translate</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="development/index.html">Development</a></li>
+<li class="toctree-l2"><a class="reference internal" href="tests.html">Tests</a></li>
+<li class="toctree-l2"><a class="reference internal" href="daily_reports/index.html">Daily Reports</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://plugins.qgis.org">Plugins website</a></li>
+<li class="toctree-l2"><a class="reference internal" href="mailinglists.html">Mailing lists</a></li>
+<li class="toctree-l2"><a class="reference internal" href="governance/index.html">Project Organisation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings/index.html">Meetings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="governance/sustaining_members/index.html">Sustaining Membership Program</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://donate.qgis.org">Donations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="certification.html">Certification</a></li>
+<li class="toctree-l2"><a class="reference internal" href="faq/index.html">FAQ</a></li>
+<li class="toctree-l2"><a class="reference internal" href="styleguide.html">Visual Style Guide</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../docs/index.html">Documentation</a></li>
+</ul>
+
+        </div>
+      </div>
+                <div class="span8">
+                    
+                        
+                            <section id="translation">
+<span id="translate-qgis"></span><h1>Translation<a class="headerlink" href="#translation" title="Permalink to this headline">¶</a></h1>
+<p>QGIS is natively developed in English, either for the user interface (GUI) or
+for its documentation and web site. However, all these components are available
+in many other languages since it is designed to be translated into any language
+quite easily.
+At this moment about forty languages are already available in the Desktop user
+interface and about eighty languages are available in transifex ready to be
+translated. Nearly the same apply for the web site and documentation.</p>
+<p>The translation process is managed by the <a class="reference internal" href="governance/governance.html#gui-translation"><span class="std std-ref">Translation Team</span></a>
+and all the activities are done under the <a class="reference external" href="https://www.transifex.com/">Transifex</a>
+platform.</p>
+<section id="translators-mailing-list">
+<span id="mailinglist-translation"></span><h2>Translators Mailing list<a class="headerlink" href="#translators-mailing-list" title="Permalink to this headline">¶</a></h2>
+<p>If you plan to contribute to an existing language or you want to translate
+QGIS into a not yet existing language, see <a class="reference internal" href="#becoming-translator"><span class="std std-ref">Becoming a translator</span></a>.
+For any other related questions, please contact the
+<a class="reference internal" href="governance/governance.html#gui-translation"><span class="std std-ref">Translation Team Leader</span></a> or subscribe to the <a class="reference external" href="https://lists.osgeo.org/mailman/listinfo/qgis-tr">QGIS
+Translation mailing list</a>.</p>
+<p>After subscribing to the mailing list you are able to send a mail directly to
+<a class="reference external" href="mailto:qgis-tr&#37;&#52;&#48;lists&#46;osgeo&#46;org">qgis-tr<span>&#64;</span>lists<span>&#46;</span>osgeo<span>&#46;</span>org</a> asking for help.</p>
+<p>We strongly encourage anyone dealing with translations to join this list and
+promise that it is usually a very low traffic mailing list.</p>
+<p>The other available mailing lists can be found at <a class="reference internal" href="mailinglists.html#qgis-mailinglists"><span class="std std-ref">Mailing lists</span></a>.</p>
+</section>
+<section id="gui-translation">
+<span id="translate-gui"></span><h2>GUI Translation<a class="headerlink" href="#gui-translation" title="Permalink to this headline">¶</a></h2>
+<p>The QGIS interface is natively programmed in English. However, at this moment
+over forty other languages are already available.</p>
+<p>To start QGIS with the appropriate localization, run
+<code class="docutils literal notranslate"><span class="pre">qgis</span> <span class="pre">--lang</span> <span class="pre">&lt;language</span> <span class="pre">code&gt;</span></code> in command line or change localization in QGIS under
+<span class="menuselection">Settings ‣ Options ‣ General ‣ Locale</span> menu.</p>
+<p>If you want to find out if your language is already present in QGIS Applications
+or who is currently working on your language you have to take a look in the
+<span class="menuselection">Help ‣ About ‣ Translators</span> Box in the QGIS Desktop Application.</p>
+<p>You will also find the progress of the translation there (but remember in
+every “stable” version it will always stay at the same level).
+For finding the current percentage of translation you will either have to
+install the nightly build of QGIS or checkout the source code of QGIS.</p>
+<p>The entire interface contains over
+ten thousand pieces of text and a complete translation will take days if not
+weeks to be finished. Besides that, the rapid development of the application
+continuously causes new and edited texts to be translated. A huge effort and
+your help will be appreciated!</p>
+</section>
+<section id="becoming-a-translator">
+<span id="becoming-translator"></span><h2>Becoming a translator<a class="headerlink" href="#becoming-a-translator" title="Permalink to this headline">¶</a></h2>
+<p>The QGIS project is always looking for people who are willing to invest some
+more time translating QGIS into a foreign language - even perhaps to
+coordinate the translation effort.</p>
+<p>We are trying to improve our project management process and spread the load
+more evenly between people who each have a specific area of responsibility,
+so any contribution you have to make will be greatly appreciated.</p>
+<p>If you would like to nominate yourself as a coordinator for a new language
+please go ahead.
+If more than one person nominate themselves as coordinator for the same
+language, please contact each other and resolve how you will manage your
+efforts.</p>
+<p>Please contact the <a class="reference internal" href="governance/governance.html#gui-translation"><span class="std std-ref">Translation team leader</span></a> or
+<a class="reference internal" href="governance/governance.html#community-resources"><span class="std std-ref">Community Assistant</span></a> to see your name entered in
+the About Box of QGIS Desktop.</p>
+<section id="id1">
+<h3>Transifex<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h3>
+<p>The web-based translating platform Transifex is used for all QGIS
+translations; the desktop application itself (or GUI), the documentation and
+the web site. So the first thing you need is an account to login and get
+started.</p>
+</section>
+<section id="join-a-project">
+<h3>Join a Project<a class="headerlink" href="#join-a-project" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Go to <a class="reference external" href="https://www.transifex.com">https://www.transifex.com</a> and create a new account</p></li>
+<li><p>Verify your account by the link in the email you will receive</p></li>
+<li><p>Login</p></li>
+<li><p>Choose your role as “Translator” and answer some other questions about yourself</p></li>
+<li><p>At your dashboard page click “Join an existing organisation” and search for “qgis”.
+Some QGIS organisations are listed now, among them are:</p>
+<ul>
+<li><p><strong>QGIS Desktop</strong> for all the pieces of text available in QGIS apps
+(QGIS Desktop and QGIS Server),</p></li>
+<li><p><strong>QGIS Docs and Website</strong> to translate both QGIS website and current documentation.</p></li>
+</ul>
+</li>
+<li><p>Choose in which part of the project you would like to participate</p></li>
+<li><p>You can be part of all projects and help everywhere too</p></li>
+<li><p>If the language of your choice is listed, click it and request to join the team.</p></li>
+<li><p>If your language is not listed yet, click “Request language” and choose your
+language. Keep in mind that translating the entire Desktop Application will take
+days of work, if not weeks!</p></li>
+</ul>
+<p>Now you will need to wait for the language coordinator or the project maintainers
+to process your request. You will be notified by email when your request has been
+accepted. If your request has no answer for about a week, please consider writing
+to your language coordinator in Transifex or the <a class="reference internal" href="#mailinglist-translation"><span class="std std-ref">QGIS Translators mailing list</span></a>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>With requesting a new language please bear in mind that we try to make
+it as simple as possible. Just ask for the language you want to translate
+(regardless in which country you reside). Only if there are notable differences
+in the languages (for example portuguese in Portugal vs Brazil) we will create
+its own version.</p>
+</div>
+</section>
+<section id="translate">
+<h3>Translate<a class="headerlink" href="#translate" title="Permalink to this headline">¶</a></h3>
+<p>Once your request is accepted, you are able to translate any text in the project(s)
+you’ve chosen. Simply click on your language, select the chapter you want to
+translate and click on Translate. Easy, right?</p>
+<p>In order to help you make good translation, some instructions are provided in
+the <a class="reference external" href="https://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html">QGIS Translation Guidelines</a>.
+We strongly recommend you to read them.</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p><strong>Quick access to translatable files in Transifex</strong></p>
+<p>If you find a wrong or missing translation in the current documentation or web site,
+you can use the <code class="docutils literal notranslate"><span class="pre">Fix</span> <span class="pre">me</span></code> link at the bottom of the page to reach it sources in
+Transifex and perform any update you wish to.</p>
+</div>
+</section>
+</section>
+</section>
+
+                        
+                    
+                </div>
+                  
+            </div>
+        </div>
+    
+
+    <!--<a href="https://github.com/qgis/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10000;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>-->
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="development/index.html" title="Development"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="document.html" title="Write Documentation"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="index.html" >Get Involved / Development</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Translation</a></li> 
+      </ul>
+    </div>
+  <footer class="footer">
+
+    <div class="container">
+        <div>
+          <ul class="unstyled inline" id="social">
+            <li id="twitter"><a href="http://twitter.com/qgis" class="external"><div></div></a></li>
+            <li id="facebook"><a href="https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096" class="external"><div></div></a></li>
+            <li id="github"><a href="http://github.com/qgis/" class="external"><div></div></a></li>
+            <li id="aboutcontact"><a href="index.html"><div></div></a></li>
+          </ul>
+        </div>
+
+        <p class="credit">If not stated otherwise, all content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a></p>
+    </div>
+    <div class="container">
+      <p class="credit">
+        Select graphics from <a href="https://thenounproject.com" target="_blank">The Noun Project collection</a>
+        
+        
+      </p>
+      <p class="credit">
+        Untranslated page? Or you spot a translation error:
+        <a id="fix_translation_link" target="_blank" href="https://www.transifex.com/projects/p/qgis-website/">fix me</a>
+        <br/>
+        Textual error, missing text or you know better:
+        <a id="fix_text_link" target="_blank" href="https://github.com/qgis/QGIS-Website">fix me</a>
+      </p>
+    </div>
+  </footer>
+
+  </body>
+</html>

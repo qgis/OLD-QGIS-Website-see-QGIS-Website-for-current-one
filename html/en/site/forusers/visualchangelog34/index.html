@@ -1,0 +1,1438 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Changelog for QGIS 3.4 LTR</title>
+    <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/basic.css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/qgis-style.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-sphinx.css" type="text/css" />
+    <script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
+    <script src="../../../_static/jquery.js"></script>
+    <script src="../../../_static/underscore.js"></script>
+    <script src="../../../_static/doctools.js"></script>
+    <script src="../../../_static/qgis-site.js"></script>
+    <script src="../../../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script src="../../../_static/jquery.countdown-2.0.4/jquery.countdown.min.js"></script>
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="Changelog for QGIS 3.2" href="../visualchangelog32/index.html" />
+    <link rel="prev" title="Changelog for QGIS 3.6" href="../visualchangelog36/index.html" />
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="../visualchangelog32/index.html" title="Changelog for QGIS 3.2"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="../visualchangelog36/index.html" title="Changelog for QGIS 3.6"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../index.html" >For Users</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="../visualchangelogs.html" accesskey="U">Visual Changelogs</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Changelog for QGIS 3.4 LTR</a></li> 
+      </ul>
+    </div>
+
+    
+  <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="../../index.html">QGIS</a>
+        <span class="navbar-text pull-left"><p><b>3.26.2 ​ <br/> 3.22.10 LTR</b></p></span>
+        
+          <select id="languages">
+  <!-- note on the options here: the 'title' string is to be translated in your
+  language, but the element text is supposed to stay in native lang/txt -->
+  <option value="en" title="English">English</option>
+  <option value="ca" title="Catalan">Català</option>
+  <option value="da" title="Danish">Dansk</option>
+  <option value="de" title="German">Deutsch</option>
+  <option value="es" title="Spanish">Español</option>
+  <option value="fa" title="Persian">فارسی</option>
+  <option value="fi" title="Finnish">Suomi</option>
+  <option value="fr" title="French">Français</option>
+  <option value="gl" title="Galician">Galego</option>
+  <option value="id" title="Indonesian">Bahasa Indonesia</option>
+  <option value="it" title="Italian">Italiano</option>
+  <option value="hu" title="Hungarian">Magyar</option>
+  <option value="ja" title="Japanese">日本語</option>
+  <option value="km_KH" title="Khmer">ភាសាខ្មែរ    </option>
+  <option value="ko" title="Korean">한국어</option>
+  <option value="lt" title="Lithuanian">Lietuvių</option>
+  <option value="nl" title="Dutch">Nederlands</option>
+  <option value="pl" title="Polish">Polski</option>
+  <option value="pt_BR" title="Portuguesei (Brazil)">Português (Brasil)</option>
+  <option value="pt_PT" title="Portuguese">Português</option>
+  <option value="ro" title="Romanian">Română</option>
+  <option value="tr" title="Turkish">Türkçe</option>
+  <option value="ru" title="Russian">Русский</option>
+  <option value="uk" title="Ukrainian">Українська</option>
+  <option value="zh-Hans" title="Chinese (Simplified)">简体中文</option>
+  <option value="zh-Hant" title="Chinese (Traditional)">繁體中文</option>
+</select>
+
+<script>
+    var currentPage = 'site/forusers/visualchangelog34/index.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    // split index.html if currentUrl is ended by '/'
+    var currentUrl = window.location.href;
+    if (currentUrl.slice(-1) == '/' && currentPage.slice(-1) != '/'){
+      var pages = currentPage.split('/');
+      pages.pop();
+      currentPage = pages.join('/') + '/';
+    }
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        // it's possible this is the index.html page called without 'index.html', try without the currentPage
+        if (langPlusPage==undefined){
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // it's possible this is an index.html page called without 'index.html', try removing index.html
+        if (langPlusPage==undefined){
+            currentPage = currentPage.replace('index.html','')
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // still no langPlugPage: stop, because the language swicher will misbehave
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+        // TODO: links should come from conf.py
+        // TODO: all template pages have the actual translation in sphinc.conf
+        // IMPORTANT: space, -, _ etc replacing below must be 100% inline with
+        // code in scripts/create_transifex_resources.sh !!
+        // https://github.com/qgis/QGIS-Website/blob/master/scripts/create_transifex_resources.sh
+        fix_translation_link = 'https://www.transifex.com/projects/p/qgis-website/translate/#' + 
+            currentLang.slice(1) + currentPage.replace(/_/g, "-").replace(/ /g, "-").replace(/\//g, "_").replace(/\.html/g, "").replace(/\./g, "-")
+        if ('/en/' != currentLang) {
+            $('#fix_translation_link').attr('href', fix_translation_link);
+        }
+        fix_text_link = 'https://github.com/qgis/QGIS-Website/edit/master/source/' +
+            currentPage.replace(/.html/g, ".rst")
+        // TODO: only on rst pages, here a list of pages which are actual templates?
+        if (true){
+            $('#fix_text_link').attr('href', fix_text_link);
+        }
+
+        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
+
+        $("#languages").change(function() {
+            gotoLang($(this).val());
+        });
+
+        if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
+        }
+        else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
+            // crontab is pulling url's below and copy to /feed at qgis.org
+            // https://changelog.qgis.org/en/qgis/members/json/
+            json2html('/feeds/members.json', '#qgissustainingmembersatom', 1000, true, 'span3');
+            // https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2
+            json2html('/feeds/qgispastmembers.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
+        }
+        else if (currentPage == "site/forusers/download.html"){
+            $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
+            '<h2>Thank you!</h2> <p/>'+
+            '<div class="container"><div class="span8">'+
+            '<p>Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href="https://donate.qgis.org/">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!</p>'+
+            '<p>The QGIS Team</p>'+
+            '</div><div class="container">'+
+            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="https://donate.qgis.org/">Donate Now</a></p><p class="muted"></p></div>'+
+            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">Close this message</a></p><p class="muted"></p></div>'+
+            '</div>'+
+            '<br/><p><img src="../../../_static/images/splash.png"/></p></div>');
+            $('#thankyou').click(function(){ $('#thankyou').hide(); });
+            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
+            $('a.reference').click(function(){
+                $('#thankyou').show();
+                return true;
+            });
+        }
+        else if (currentPage == "site/forusers/alldownloads.html"){
+	    replacesha('qgis-rel-dev');
+	    replacesha('qgis-ltr-dev');
+	    replacesha('qgis-dev');
+        }
+    });
+
+    //
+    // load current page in a different language
+    //
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+    //
+    // function to load a json (feed) and create html for it
+    // currently only used for sustaining members
+    //
+    function json2html(url, holder, count, showcont, spanclass){
+        var html = '';
+        $.getJSON(url, function (data) {
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+
+            $.each( data.rss.channel.item, function( key, val ){
+              var item = val;
+              var imglink = '#';
+              var link = '#';
+              var content = '';
+              var member_level = 'Small';
+              if (item.member_url){link=item.member_url};
+              if (item.image_url){imglink=item.image_url};
+              if (item.member_level){member_level=item.member_level};
+              var title = item.title;
+              content = '<div><img class="member_img '+member_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="member_body '+member_level.toLowerCase()+'">'+item.member_country+'<br/>Membership level: '+member_level+'<br/>'+
+                '('+item.start_date+' - '+item.end_date+')</p>';
+              html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+              html+='<div class="memberdiv"><h4>'+title+'</h4>';
+              html+=content;
+              html+='</div></a></div>';
+            })
+          $(holder).append(html);
+        })
+    }
+    //
+    // function to load an atom feed, an put it in an element
+    //
+    function atom(url, holder, count, showcont, spanclass){
+        $.get(url, function (data) {
+            var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+            $(data).find("entry").each(function () {
+                var el = $(this);
+                var title = el.find('title').text();
+                var author = el.find('name').text();
+                var content = el.find('content').text();
+                if (content.length==0){
+                    // try summary
+                    content = el.find('summary').text();
+                }
+                var imglink='#';
+                var link='#';
+                el.find('link').each(
+                    function(){
+                        // flickr image for maps and qgis screenshots
+                        if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
+                            imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
+                        }
+                        // links
+                        else if ($(this).attr('rel') == 'alternate'){
+                            link = $(this).attr('href');
+                        }
+                    }
+                )
+                counter++;
+
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
+                    // html for flickr maps
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
+                    html+='</a></p></div>\n';
+                }
+                else if (counter<=maxitems){
+                    // visual changelogs, qugs feed and planet feed
+                    var addit = true;
+                    if (holder == '#qgisplanetatom'){
+                        var s = title.split(':');
+                        title = s[0];
+                        content = s[1];
+                        // skip blog.qgis.org posts
+                        if (link.indexOf('blog.qgis.org')>=0){
+                            addit = false;
+                            counter --;
+                        }
+                    }
+                    else if (holder == '#qgissustainingmembersatom' || holder == '#qgissustainingmembersatom'){
+                        html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+                        html+='<div class="memberdiv"><h4>'+title+'</h4>';
+                        html+=content;
+                        html+='</div></a></div>';
+                        addit = false; // we are building html ourselves!!
+                    }
+                    else if (holder == '#qgisblogatom'){
+                        var s = title.split(':');
+                        if (s[0] != 'QGIS Project blog'){
+                            addit = false;
+                            counter--;
+                        }
+                        // trying to extract date from link
+                        // http://blog.qgis.org/2017/09/02/do-you-want-to-host-a-qgis-developer-meeting/
+                        d = link.split('/').slice(3,6);  // 2017,09,02
+                        title = '<img src="../_static/logo.png" style="width:30px;"/> - ' + d[0] + '/' + d[1] + '/' + d[2] + ' - ' + s[1];
+                        content = '';
+                    }
+                    if (addit){
+                        html+='<a class="external" href="'+link+'">';
+                        html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
+                        if (showcontent) { html+=content; };
+                        html+='</div></a>\n';
+                    }
+                }
+            });
+            $(holder).append(html);
+        });
+    }
+
+    //
+    // function to replace a item
+    //
+    function replacesha(id) {
+      var xhr = new XMLHttpRequest();
+      xhr.onload = function () {
+	var sha = this.responseText.substring(this.responseText.indexOf(':')+1);
+        document.getElementById(id).innerHTML = "<a target=\"_new\" href=\"http://github.com/qgis/QGIS/commit/" + sha + "\">" + sha + "</a>";
+      };
+      xhr.open('GET', '/downloads/' + id + '.sha');
+      xhr.send();
+    }
+</script>
+        
+        <div class="nav-collapse collapse">
+          <ul class="unstyled nav main-menu">
+            <li><a href="../../about/index.html">Discover QGIS</a></li>
+            <li><a href="../index.html">For Users</a></li>
+            <li><a href="../../getinvolved/index.html">Get Involved</a></li>
+            <li><a href="../../../docs/index.html">Documentation</a></li>
+            <li>
+          
+<form class="navbar-search" action="../../../search.html" method="get">
+  <input type="text" name="q" class="search-query" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div style="display:none;" class="container" id="nextprev" >
+    
+    <a accesskey="p" href="../visualchangelog36/index.html">&lt;&lt; prev</a>
+    
+    
+    <a accesskey="n" href="../visualchangelog32/index.html">next &gt;&gt;</a>
+    
+    </div>
+
+
+
+
+    
+        <div class="container">
+            <div class="row">
+      <div class="span4">
+        <div id="sidebar" class="bs-sidenav well" data-spy="scroll"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../about/index.html">Discover QGIS</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">For Users</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../download.html">Download QGIS</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../visualchangelogs.html">Visual Changelogs</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog326/index.html">Changelog for QGIS 3.26</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog324/index.html">Changelog for QGIS 3.24</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog322/index.html">Changelog for QGIS 3.22</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog320/index.html">Changelog for QGIS 3.20</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog318/index.html">Changelog for QGIS 3.18</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog316/index.html">Changelog for QGIS 3.16</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog314/index.html">Changelog for QGIS 3.14</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog312/index.html">Changelog for QGIS 3.12</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog310/index.html">Changelog for QGIS 3.10</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog38/index.html">Changelog for QGIS 3.8</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog36/index.html">Changelog for QGIS 3.6</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Changelog for QGIS 3.4 LTR</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#general">General</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#expressions">Expressions</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#map-tools">Map Tools</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#user-interface">User Interface</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#symbology">Symbology</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#digitising">Digitising</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#data-management">Data Management</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#forms-and-widgets">Forms and Widgets</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#map-composer">Map Composer</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#processing">Processing</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#data-providers">Data Providers</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#qgis-server">QGIS Server</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#plugins">Plugins</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#programmability">Programmability</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#d-features">3D Features</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog32/index.html">Changelog for QGIS 3.2</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog30/index.html">Changelog for QGIS 3.0</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog218/index.html">Changelog for QGIS 2.18</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog216/index.html">Changelog for QGIS 2.16</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog214/index.html">Changelog for QGIS 2.14</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog212/index.html">Changelog for QGIS 2.12</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog210/index.html">Changelog for QGIS 2.10</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog28/index.html">Changelog for QGIS 2.8</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog260/index.html">Changelog for QGIS 2.6</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog240/index.html">Changelog for QGIS 2.4</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog220/index.html">Changelog for QGIS 2.2</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../visualchangelog200/index.html">Changelog for QGIS 2.0</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../trainingmaterial/index.html">Training material</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../support.html">Support</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../usergroups.html">User Groups</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../commercial_support.html">Commercial support</a></li>
+<li class="toctree-l2"><a class="reference external" href="http://plugins.qgis.org/plugins/">Plugins</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../books/index.html">Books</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../getinvolved/index.html">Get Involved / Development</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../docs/index.html">Documentation</a></li>
+</ul>
+
+        </div>
+      </div>
+                <div class="span8">
+                    
+                        
+                            <section id="changelog-for-qgis-3-4-ltr">
+<span id="changelog34"></span><h1>Changelog for QGIS 3.4 LTR<a class="headerlink" href="#changelog-for-qgis-3-4-ltr" title="Permalink to this headline">¶</a></h1>
+<p><img alt="image0" class="img-responsive img-rounded center-block" src="../../../_images/splash34vs.png" /></p>
+<p>The first long-term release (LTR) of QGIS 3. QGIS 3.4 just released. After five consolidation point releases (3.4.5) it will replace the previous LTR in the package repositories in February 2019 (see <a class="reference internal" href="../../getinvolved/development/roadmap.html#qgis-release-schedule"><span class="std std-ref">release schedule</span></a>).
+This is a giant leap forward for the project - our first Long Term Release based on the 3.x platform. For users moving over from the 2.18 LTR there is a huge list of new features and impactful changes in this new LTR version.
+Please bear in mind that 3.x plugins are incompatible with 2.x plugins so review your plugin usage carefully - and if possible help to migrate old plugins to the new platform. If you have not already done so, take a look at the changelogs from <a class="reference internal" href="../visualchangelog30/index.html#changelog30"><span class="std std-ref">Version 3.0</span></a> and <a class="reference internal" href="../visualchangelog32/index.html#changelog32"><span class="std std-ref">Version 3.2</span></a> to understand the full scope of changes in the 3.4 release.</p>
+<p><strong>Thanks</strong></p>
+<p>We would like to thank the developers, documenters, testers and all the many folks out there who volunteer their time and effort (or fund people to do so). From the QGIS community we hope you enjoy this release! If you wish to donate time, money or otherwise get involved in making QGIS more awesome, please wander along to <a class="reference external" href="https://qgis.org">qgis.org</a> and lend a hand!</p>
+<p>QGIS is supported by donors and sustaining members. A current list of donors who have made financial contributions large and small to the project can be seen on our <a class="reference internal" href="../../about/sustaining_members.html#list-of-donors"><span class="std std-ref">donors list</span></a>. If you would like to become an official sustaining member, please visit <a class="reference internal" href="../../getinvolved/governance/sustaining_members/sustaining_members.html#qgis-sustaining-memberships"><span class="std std-ref">our sustaining members page</span></a> for details. Supporting QGIS helps us to fund our six monthly developer meetings, maintain project infrastructure and fund bug fixing efforts. A complete list of current supporters is provided below - our very great thank you to all of our supporters!</p>
+<p><span class="raw-html"><div id="qgissustainingmembersatom"> <!-- to be filled via javascript loading of atom feed --> </div></span></p>
+<p>QGIS is Free software and you are under no obligation to pay anything to use it - in fact we want to encourage people far and wide to use it regardless of what your financial or social status is - we believe empowering people with spatial decision making tools will result in a better society for all of humanity.</p>
+<p><img alt="image1" class="img-responsive img-rounded center-block" src="../../../_images/750d7d9b7e9dbd498202c4b1288a0cbceb1cd65b.png" /></p>
+<div class="contents local topic" id="contents">
+<ul class="simple">
+<li><p><a class="reference internal" href="#general" id="id1">General</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-flatpak" id="id2">Feature: Flatpak</a></p></li>
+<li><p><a class="reference internal" href="#feature-svg-files-can-be-embedded-in-projects-and-symbols" id="id3">Feature: SVG files can be embedded in projects and symbols</a></p></li>
+<li><p><a class="reference internal" href="#feature-opencl-based-acceleration" id="id4">Feature: OpenCL based acceleration</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#expressions" id="id5">Expressions</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-new-expression-functions-and-variables" id="id6">Feature: New expression functions and variables</a></p></li>
+<li><p><a class="reference internal" href="#feature-code-completion-for-expression-builder" id="id7">Feature: Code completion for expression builder</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#map-tools" id="id8">Map Tools</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-identify-or-select-features-based-on-existing-polygon" id="id9">Feature: Identify or select features based on existing polygon</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#user-interface" id="id10">User Interface</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-auto-selection-of-exported-files-in-file-manager" id="id11">Feature: Auto selection of exported files in file manager</a></p></li>
+<li><p><a class="reference internal" href="#feature-new-open-directory-option-for-disabled-welcome-page-projects" id="id12">Feature: New “Open Directory” option for disabled welcome page projects</a></p></li>
+<li><p><a class="reference internal" href="#feature-ux-improvements-for-temporary-scratch-layers" id="id13">Feature: UX Improvements for Temporary Scratch Layers</a></p></li>
+<li><p><a class="reference internal" href="#feature-task-manager-improvements" id="id14">Feature: Task manager improvements</a></p></li>
+<li><p><a class="reference internal" href="#feature-hyperlinks-to-local-vector-raster-datasets-in-the-information-panel" id="id15">Feature: Hyperlinks to local vector &amp; raster datasets in the information panel</a></p></li>
+<li><p><a class="reference internal" href="#feature-style-manager-improvements" id="id16">Feature: Style manager improvements</a></p></li>
+<li><p><a class="reference internal" href="#feature-polished-browser-panel-interface-and-experience" id="id17">Feature: Polished browser panel interface and experience</a></p></li>
+<li><p><a class="reference internal" href="#feature-qml-chart-and-drawings-widget" id="id18">Feature: QML chart and drawings widget</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#symbology" id="id19">Symbology</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-mesh-layer-styling" id="id20">Feature: Mesh layer styling</a></p></li>
+<li><p><a class="reference internal" href="#feature-classify-symmetric-in-graduated-renderer" id="id21">Feature: Classify symmetric in graduated renderer</a></p></li>
+<li><p><a class="reference internal" href="#feature-partial-qml-export-and-import" id="id22">Feature: Partial QML export and import</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#digitising" id="id23">Digitising</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-gps-tracking-improvements" id="id24">Feature: GPS tracking improvements</a></p></li>
+<li><p><a class="reference internal" href="#feature-more-angle-choices-in-advanced-digitizing-dock" id="id25">Feature: More angle choices in advanced digitizing dock</a></p></li>
+<li><p><a class="reference internal" href="#feature-vertex-tool-can-work-on-the-current-layer-only" id="id26">Feature: Vertex tool can work on the current layer only</a></p></li>
+<li><p><a class="reference internal" href="#feature-add-reverse-line-maptools" id="id27">Feature: Add reverse line maptools</a></p></li>
+<li><p><a class="reference internal" href="#feature-geometry-precision" id="id28">Feature: Geometry Precision</a></p></li>
+<li><p><a class="reference internal" href="#feature-automatically-remove-duplicate-nodes" id="id29">Feature: Automatically remove duplicate nodes</a></p></li>
+<li><p><a class="reference internal" href="#feature-check-for-geometry-validity" id="id30">Feature: Check for geometry validity</a></p></li>
+<li><p><a class="reference internal" href="#feature-topology-checks-while-editing" id="id31">Feature: Topology checks while editing</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#data-management" id="id32">Data Management</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-translation-of-qgis-projects" id="id33">Feature: Translation of QGIS projects</a></p></li>
+<li><p><a class="reference internal" href="#feature-switch-attribute-table-dock-mode-on-demand" id="id34">Feature: Switch Attribute Table dock mode on demand</a></p></li>
+<li><p><a class="reference internal" href="#feature-new-locator-filter-to-search-across-all-layers" id="id35">Feature: New locator filter to search across all layers</a></p></li>
+<li><p><a class="reference internal" href="#feature-non-removable-required-layers-highlighted-in-layer-tree" id="id36">Feature: Non-removable (required) layers highlighted in layer tree</a></p></li>
+<li><p><a class="reference internal" href="#feature-append-raster-layer-to-an-existing-geopackage" id="id37">Feature: Append raster layer to an existing Geopackage</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#forms-and-widgets" id="id38">Forms and Widgets</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-drill-down-cascading-forms-in-qgis-value-relation-widgets" id="id39">Feature: Drill-down (cascading) forms in QGIS Value Relation Widgets</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#map-composer" id="id40">Map Composer</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-3d-map-items" id="id41">Feature: 3D map items</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#processing" id="id42">Processing</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-new-edit-in-place-mode" id="id43">Feature: New “Edit in place” mode</a></p></li>
+<li><p><a class="reference internal" href="#feature-store-models-inside-project" id="id44">Feature: Store models inside project</a></p></li>
+<li><p><a class="reference internal" href="#feature-sample-raster-values" id="id45">Feature: Sample Raster Values</a></p></li>
+<li><p><a class="reference internal" href="#feature-new-raster-pixels-to-polygons-algorithm" id="id46">Feature: New ‘Raster pixels to polygons’ algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-k-means-clustering-algorithm" id="id47">Feature: K Means clustering algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-dbscan-spatial-clustering-algorithm" id="id48">Feature: dbscan spatial clustering algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-improved-algorithms" id="id49">Feature: Improved algorithms</a></p></li>
+<li><p><a class="reference internal" href="#feature-filter-vertices-by-m-and-filter-vertices-by-z-algorithms" id="id50">Feature: Filter Vertices by M and Filter Vertices by Z algorithms</a></p></li>
+<li><p><a class="reference internal" href="#feature-array-of-translated-features-algorithm" id="id51">Feature: “Array of Translated Features” algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-array-of-offset-parallel-lines-algorithm" id="id52">Feature: “Array of offset (parallel) lines” algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-choice-of-units-for-non-degree-unknown-distances" id="id53">Feature: Choice of units for non degree/unknown distances</a></p></li>
+<li><p><a class="reference internal" href="#feature-drape-features-to-z-m-algorithms" id="id54">Feature: “Drape features to z/m” algorithms</a></p></li>
+<li><p><a class="reference internal" href="#feature-raster-pixels-to-points-algorithm" id="id55">Feature: “Raster pixels to points” algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-line-substring-algorithm" id="id56">Feature: Line substring algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-interpolate-point-on-line-algorithm" id="id57">Feature: “Interpolate point on line” algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-k-neighbour-concave-hull" id="id58">Feature: k-neighbour concave hull</a></p></li>
+<li><p><a class="reference internal" href="#feature-python-scripts-which-implement-algorithms-now-execute-the-algorithm-on-drag-and-drop-and-browser-double-click" id="id59">Feature: Python scripts which implement algorithms now execute the algorithm on drag and drop and browser double click</a></p></li>
+<li><p><a class="reference internal" href="#feature-new-gdal-s-rearrange-band-algorithm" id="id60">Feature: New GDAL’s rearrange band algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-precalculated-values-for-model-algorithm-parameters" id="id61">Feature: “Precalculated” values for model algorithm parameters</a></p></li>
+<li><p><a class="reference internal" href="#feature-categorize-a-layer-using-a-style-xml-file-algorithm" id="id62">Feature: “Categorize a layer using a style XML file” algorithm</a></p></li>
+<li><p><a class="reference internal" href="#feature-new-mode-for-snap-geometries-algorithm" id="id63">Feature: New mode for Snap geometries algorithm</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#data-providers" id="id64">Data Providers</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-oauth2-authentication-method-plugin" id="id65">Feature: OAuth2 authentication method plugin</a></p></li>
+<li><p><a class="reference internal" href="#feature-mesh-layer-new-mesh-layer-format-support" id="id66">Feature: Mesh layer: New mesh layer format support</a></p></li>
+<li><p><a class="reference internal" href="#feature-mesh-layer-add-function-to-identify-value-on-mesh-layers" id="id67">Feature: Mesh layer: add function to identify value on mesh layers</a></p></li>
+<li><p><a class="reference internal" href="#feature-mesh-layer-allow-to-choose-different-vector-and-scalar-dataset" id="id68">Feature: Mesh layer: allow to choose different vector and scalar dataset</a></p></li>
+<li><p><a class="reference internal" href="#feature-mesh-layer-allow-render-vectors-arrows-on-the-user-defined-grid" id="id69">Feature: Mesh layer: allow render vectors/arrows on the user-defined grid</a></p></li>
+<li><p><a class="reference internal" href="#feature-json-jsonb-type-support" id="id70">Feature: JSON/JSONB Type support</a></p></li>
+<li><p><a class="reference internal" href="#feature-esri-token-authentication-support" id="id71">Feature: ESRI Token Authentication support</a></p></li>
+<li><p><a class="reference internal" href="#feature-sql-server-invalid-geometry-handling" id="id72">Feature: SQL Server - Invalid geometry handling</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#qgis-server" id="id73">QGIS Server</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-server-cache-can-be-manage-by-plugins" id="id74">Feature: Server Cache can be manage by plugins</a></p></li>
+<li><p><a class="reference internal" href="#feature-wmts-1-0-0-support" id="id75">Feature: WMTS 1.0.0 support</a></p></li>
+<li><p><a class="reference internal" href="#feature-add-ability-to-define-min-scale-for-wmts" id="id76">Feature: Add ability to define min. scale for WMTS</a></p></li>
+<li><p><a class="reference internal" href="#feature-support-qgis-server-logs-to-stderr" id="id77">Feature: Support QGIS Server logs to stderr</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#plugins" id="id78">Plugins</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-support-for-encrypted-zips-in-the-plugin-manager" id="id79">Feature: Support for encrypted zips in the Plugin Manager</a></p></li>
+<li><p><a class="reference internal" href="#feature-offline-editing-geopackage" id="id80">Feature: Offline Editing GeoPackage</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#programmability" id="id81">Programmability</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-qgsspatialindexkdbush" id="id82">Feature: QgsSpatialIndexKDBush</a></p></li>
+<li><p><a class="reference internal" href="#feature-qgsrasterdataprovider-sample-method-for-efficient-sampling-of-rasters-at-a-given-point" id="id83">Feature: QgsRasterDataProvider::sample method for efficient sampling of rasters at a given point</a></p></li>
+<li><p><a class="reference internal" href="#feature-new-geometry-api-call-to-return-a-curve-substring" id="id84">Feature: New geometry API call to return a curve substring</a></p></li>
+<li><p><a class="reference internal" href="#feature-sip-module-api-changes" id="id85">Feature: sip Module API Changes</a></p></li>
+<li><p><a class="reference internal" href="#feature-python-vector-data-providers" id="id86">Feature: Python vector data providers</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#d-features" id="id87">3D Features</a></p>
+<ul>
+<li><p><a class="reference internal" href="#feature-improved-navigation" id="id88">Feature: Improved navigation</a></p></li>
+<li><p><a class="reference internal" href="#feature-animation" id="id89">Feature: Animation</a></p></li>
+<li><p><a class="reference internal" href="#feature-simple-rendering-of-3d-linestrings" id="id90">Feature: Simple rendering of 3D linestrings</a></p></li>
+<li><p><a class="reference internal" href="#feature-identification-map-tool-for-3d-views" id="id91">Feature: Identification map tool for 3D views</a></p></li>
+<li><p><a class="reference internal" href="#feature-experimental-python-api" id="id92">Feature: Experimental Python API</a></p></li>
+</ul>
+</li>
+</ul>
+</div>
+<section id="general">
+<h2><a class="toc-backref" href="#id1">General</a><a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h2>
+<section id="feature-flatpak">
+<h3><a class="toc-backref" href="#id2">Feature: Flatpak</a><a class="headerlink" href="#feature-flatpak" title="Permalink to this headline">¶</a></h3>
+<p>QGIS is now available as a flatpak application on <a class="reference external" href="https://flathub.org/apps/search/qgis">flathub</a>
+Flatpak (formerly xdg-app) is a software utility for software deployment, package management, and application virtualization for Linux desktop computers.
+It allows users to install different QGIS versions on linux without having to recompile or use Docker. It is a full package with all libraries included, and it uses its own user profile locations. So you’ll need some disk space and new habits working with flatpak, but it rocks!</p>
+<p><a class="reference external" href="images/entries/48295bdab734a17ef03ea6bacf182708618e0980.png"><img alt="image28" class="img-responsive img-rounded" src="../../../_images/48295bdab734a17ef03ea6bacf182708618e0980.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://github.com/aleixpol">Aleix Pol</a></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/aleixpol">Aleix Pol</a></p>
+</section>
+<section id="feature-svg-files-can-be-embedded-in-projects-and-symbols">
+<h3><a class="toc-backref" href="#id3">Feature: SVG files can be embedded in projects and symbols</a><a class="headerlink" href="#feature-svg-files-can-be-embedded-in-projects-and-symbols" title="Permalink to this headline">¶</a></h3>
+<p>Allows SVG images for symbology, labels, etc to be directly embedded inside a project file (or QML style, or QPT print template!) by encoding the svg as a standard base64 string.</p>
+<p>Additionally, embeded files can be extracted from projects and symbols and saved back to disk based SVG files.</p>
+<p>This feature was funded by <a class="reference external" href="http://smec.com">SMEC/SJ</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson</a></p>
+</section>
+<section id="feature-opencl-based-acceleration">
+<h3><a class="toc-backref" href="#id4">Feature: OpenCL based acceleration</a><a class="headerlink" href="#feature-opencl-based-acceleration" title="Permalink to this headline">¶</a></h3>
+<p>This feature was funded by <a class="reference external" href="https://qgis.org">QGIS.org</a></p>
+<p>This feature was developed by <a class="reference external" href="https://qgis.org">Alessandro Pasotti</a></p>
+</section>
+</section>
+<section id="expressions">
+<h2><a class="toc-backref" href="#id5">Expressions</a><a class="headerlink" href="#expressions" title="Permalink to this headline">¶</a></h2>
+<section id="feature-new-expression-functions-and-variables">
+<h3><a class="toc-backref" href="#id6">Feature: New expression functions and variables</a><a class="headerlink" href="#feature-new-expression-functions-and-variables" title="Permalink to this headline">¶</a></h3>
+<p>Many new expression functions have been added in QGIS 3.4. These include many handy functions for working with and manipulating arrays and maps (dictionary) objects.</p>
+<ul class="simple">
+<li><p><strong>json_to_map</strong>: Converts a JSON encoded string value to a map (dictionary) type object</p></li>
+<li><p><strong>map_to_json</strong>: Converts a map (dictionary) type object to a JSON encoded string value</p></li>
+<li><p><strong>hstore_to_map</strong>: Converts a hstore value to a map (dictionary) type object</p></li>
+<li><p><strong>map_to_hstore</strong>: Converts a map (dictionary) type object to a hstore value</p></li>
+<li><p><strong>array_foreach</strong> : Loops over an array and executes an expression on each item in the array, returning a new array containing each calculated value</p></li>
+<li><p><strong>array_filter</strong> : Filters an array according to an expression</p></li>
+<li><p><strong>raster_value</strong>: Returns a value sampled from a raster layer at a specified point</p></li>
+<li><p><strong>to_dms</strong>: Converts a numeric value to a Degrees, Minutes, Seconds formatted string</p></li>
+<li><p><strong>to_dm</strong>: Converts a numeric value to a Degrees, Minutes formatted string</p></li>
+<li><p><strong>line_substring</strong>: Returns the portion of a line (or curve) geometry which falls between the specified start and end distances (measured from the beginning of the line). Z and M values are linearly interpolated from existing values.</p></li>
+<li><p><strong>generate_series(start,stop,step)</strong>: Creates an array containing a sequence of numbers.</p></li>
+</ul>
+<p>Additionally, some new variables have also been made available for use within QGIS expressions:</p>
+<ul class="simple">
+<li><p><strong>&#64;canvas_cursor_point</strong>: Contains a point value representing the current position of the mouse cursor within the main map canvas</p></li>
+<li><p><strong>&#64;map_layers</strong>: Contains an array of all layers which are visible within the map</p></li>
+<li><p><strong>&#64;map_layer_ids</strong>: Contains an array of all layer IDs for layers visible within the map</p></li>
+</ul>
+<p><a class="reference external" href="images/entries/ced45b9dd1f58c80aef504344f515a28e33e9e4a.jpg"><img alt="image2" class="img-responsive img-rounded" src="../../../_images/ced45b9dd1f58c80aef504344f515a28e33e9e4a.jpg" /></a></p>
+<p>This feature was developed by <a class="reference external" href="https://qgis.org">Etienne Trimaille, Matteo Ghetta, Matthias Kuhn, Mathieu Pellerin, Nyall Dawson</a></p>
+</section>
+<section id="feature-code-completion-for-expression-builder">
+<h3><a class="toc-backref" href="#id7">Feature: Code completion for expression builder</a><a class="headerlink" href="#feature-code-completion-for-expression-builder" title="Permalink to this headline">¶</a></h3>
+<p>Autocompletion for code in the expression editor.</p>
+<ul class="simple">
+<li><p>Variables, function names and field names are proposed and inserted automatically when writing expressions</p></li>
+<li><p>Function parameters are shown while filling them</p></li>
+</ul>
+<p><a class="reference external" href="images/entries/df385d837684dcb42633c66b5c566925803f3406.gif"><img alt="image3" class="img-responsive img-rounded" src="../../../_images/df385d837684dcb42633c66b5c566925803f3406.gif" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.opengis.ch/">OPENGIS.ch</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.opengis.ch/">Matthias Kuhn (OPENGIS.ch)</a></p>
+</section>
+</section>
+<section id="map-tools">
+<h2><a class="toc-backref" href="#id8">Map Tools</a><a class="headerlink" href="#map-tools" title="Permalink to this headline">¶</a></h2>
+<section id="feature-identify-or-select-features-based-on-existing-polygon">
+<h3><a class="toc-backref" href="#id9">Feature: Identify or select features based on existing polygon</a><a class="headerlink" href="#feature-identify-or-select-features-based-on-existing-polygon" title="Permalink to this headline">¶</a></h3>
+<p>Often it is useful to select/identify features that are covered by an existing polygon. For this, users can use “Select Features by Polygon” and “Identify Features by Polygon” tools, but it was necessary to manually trace the polygon of interest. This new feature allows user to right click on the map and pick an existing polygon feature at that location from popup menu - that polygon will be used as input for selection or identification.</p>
+<p><a class="reference external" href="images/entries/ee07ddaa42114f923a4fae5429bd8d2f93e66ce5.png"><img alt="image4" class="img-responsive img-rounded" src="../../../_images/ee07ddaa42114f923a4fae5429bd8d2f93e66ce5.png" /></a></p>
+<p>This feature was funded by Leicestershire County Council</p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Peter Petrik (Lutra Consulting)</a></p>
+</section>
+</section>
+<section id="user-interface">
+<h2><a class="toc-backref" href="#id10">User Interface</a><a class="headerlink" href="#user-interface" title="Permalink to this headline">¶</a></h2>
+<section id="feature-auto-selection-of-exported-files-in-file-manager">
+<h3><a class="toc-backref" href="#id11">Feature: Auto selection of exported files in file manager</a><a class="headerlink" href="#feature-auto-selection-of-exported-files-in-file-manager" title="Permalink to this headline">¶</a></h3>
+<p>Whenever a message bar item links to a created file (e.g. after exporting a layout or map layer), the link will now directly open the folder containing this file within the operating system file browser AND pre-select the created file. It’s a super-handy shortcut speeding up file operations after an export from QGIS!</p>
+<p><a class="reference external" href="images/entries/0ccd6bdae5b0df6d65c259ef08f38032fe4ee34f.gif"><img alt="image5" class="img-responsive img-rounded" src="../../../_images/0ccd6bdae5b0df6d65c259ef08f38032fe4ee34f.gif" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-new-open-directory-option-for-disabled-welcome-page-projects">
+<h3><a class="toc-backref" href="#id12">Feature: New “Open Directory” option for disabled welcome page projects</a><a class="headerlink" href="#feature-new-open-directory-option-for-disabled-welcome-page-projects" title="Permalink to this headline">¶</a></h3>
+<p>This new option in the right-click context menu for disabled entries on the welcome page allows users to open the closest existing path to the original project location in their file manager, to hopefully help them re-locate missing/moved/renamed projects.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-ux-improvements-for-temporary-scratch-layers">
+<h3><a class="toc-backref" href="#id13">Feature: UX Improvements for Temporary Scratch Layers</a><a class="headerlink" href="#feature-ux-improvements-for-temporary-scratch-layers" title="Permalink to this headline">¶</a></h3>
+<p>Temporary Scratch Layers in QGIS can be very handy when a “throw-away” layer is needed, such as when pre-processing data in multiple steps. However, they can be a trap for uniformed users who may not realise that the contents of the layer will be permanently lost when the current QGIS project is closed. Accordingly, a new indicator icon has been added which shows up next to any temporary scratch layers in the layer tree, making it immediately clear which layers are temporary only.</p>
+<p>It’s also much easier to transition these temporary layers to permanent disk-based formats. You can either click the new indicator icon or select “Make Permanent” from the layer context menu. QGIS will then prompt for a location to save the temporary layer to, then replaces it in place (keeping the same layer ID, style, form settings, etc).</p>
+<p><a class="reference external" href="images/entries/135600d5ba3c15dd0b4b6386cdd5cbf5a59ce3c2.png"><img alt="image6" class="img-responsive img-rounded" src="../../../_images/135600d5ba3c15dd0b4b6386cdd5cbf5a59ce3c2.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-task-manager-improvements">
+<h3><a class="toc-backref" href="#id14">Feature: Task manager improvements</a><a class="headerlink" href="#feature-task-manager-improvements" title="Permalink to this headline">¶</a></h3>
+<p>The QGIS task manager widget (shown in the status bar whenever a background task is running) now shows an estimated time remaining and completion time for long-running background tasks. This Estimated Time of Arrival is calculated using a simple linear interpolation based on the task’s elapsed time and current progress, and allows users to know whether they’ve only got time to make an instance coffee in the office kitchen or walk round the block for a proper barista made coffee before that long processing task completes…</p>
+<p>Additionally, QGIS uses the standard operating system progress reporting mechanisms on more platforms and occasions in QGIS 3.4. Some long running tasks (which don’t run in the background) such as atlas exports now show their progress via the operating system mechanism, and throw up handy completion notifications.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-hyperlinks-to-local-vector-raster-datasets-in-the-information-panel">
+<h3><a class="toc-backref" href="#id15">Feature: Hyperlinks to local vector &amp; raster datasets in the information panel</a><a class="headerlink" href="#feature-hyperlinks-to-local-vector-raster-datasets-in-the-information-panel" title="Permalink to this headline">¶</a></h3>
+<p>For local vector and raster datasets, the Information tab within the layer properties dialog now features source file path hyperlinks. Upon clicking on the hyperlink, the system’s file navigator will open and automatically highlight the dataset.</p>
+<p><a class="reference external" href="images/entries/6891c502c6506b88398e9bfb3e266598823c5765.jpg"><img alt="image7" class="img-responsive img-rounded" src="../../../_images/6891c502c6506b88398e9bfb3e266598823c5765.jpg" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.imhere-asia.com/">iMhere Asia</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.imhere-asia.com/">Mathieu Pellerin</a></p>
+</section>
+<section id="feature-style-manager-improvements">
+<h3><a class="toc-backref" href="#id16">Feature: Style manager improvements</a><a class="headerlink" href="#feature-style-manager-improvements" title="Permalink to this headline">¶</a></h3>
+<p>The QGIS Style Manager dialog (which allows users to setup and manage their own libraries of symbols and color ramps) now opens non-modally, so it can now be used alongside the main QGIS window (just like the Layout Manager dialog and Print Layout Designer windows).</p>
+<p>We’ve also improved the preview of symbols within the Layer Styling dock, adding a toggle to switch between a large icon view and a detailed list view of symbols. Hovering over symbols (and colors!) now shows a large preview of the symbol. Finally, we’ve made symbol lists more hi-dpi friendly.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-polished-browser-panel-interface-and-experience">
+<h3><a class="toc-backref" href="#id17">Feature: Polished browser panel interface and experience</a><a class="headerlink" href="#feature-polished-browser-panel-interface-and-experience" title="Permalink to this headline">¶</a></h3>
+<p>Tons of work was done for this release to improve the user interface and experience of the browser panel including HiDPI fixes, compressed vector/raster dataset improvements, and a refreshed icon set.</p>
+<p>Functionality has also been added, including the ability to create a new directory directly from the browser context menu. The browser also now shows a more complete range of options for SQL Server connections, matching those options which were already available for other database connections.</p>
+<p><a class="reference external" href="images/entries/579042fca8a22be300449c3b55629fced75316b8.jpg"><img alt="image8" class="img-responsive img-rounded" src="../../../_images/579042fca8a22be300449c3b55629fced75316b8.jpg" /></a></p>
+<p>This feature was developed by Mathieu Pellerin (iMHere Asia), Nyall Dawson (North Road)</p>
+</section>
+<section id="feature-qml-chart-and-drawings-widget">
+<h3><a class="toc-backref" href="#id18">Feature: QML chart and drawings widget</a><a class="headerlink" href="#feature-qml-chart-and-drawings-widget" title="Permalink to this headline">¶</a></h3>
+<p>A new type of vector layer form widget for showing graphically appealing and interactive items like charts or technical drawings on the attribute form has been added in QGIS 3.4.
+The widget sports a flexible configuration, including example templates and expression support.</p>
+<p><a class="reference external" href="images/entries/1bc81f284db61667934e9a7e0969303f59fe06d2.gif"><img alt="image9" class="img-responsive img-rounded" src="../../../_images/1bc81f284db61667934e9a7e0969303f59fe06d2.gif" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://qgis.org/">QGIS Project</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.opengis.ch">David Signer and Matthias Kuhn (OPENGIS.ch)</a></p>
+</section>
+</section>
+<section id="symbology">
+<h2><a class="toc-backref" href="#id19">Symbology</a><a class="headerlink" href="#symbology" title="Permalink to this headline">¶</a></h2>
+<section id="feature-mesh-layer-styling">
+<h3><a class="toc-backref" href="#id20">Feature: Mesh layer styling</a><a class="headerlink" href="#feature-mesh-layer-styling" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Adding datasets to mesh layer from properties panel</p></li>
+<li><p>Information and source panel in properties panel</p></li>
+<li><p>Selection of active dataset (properties or styling panel)</p></li>
+<li><p>Styling of contours/scalars (properties or styling panel)</p></li>
+<li><p>Styling of mesh frame (properties or styling panel)</p></li>
+<li><p>Styling of vector arrows (properties or styling panel)</p></li>
+</ul>
+<p>This feature was funded by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Lutra Consulting</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/">Peter Petrik (Lutra Consulting)</a></p>
+</section>
+<section id="feature-classify-symmetric-in-graduated-renderer">
+<h3><a class="toc-backref" href="#id21">Feature: Classify symmetric in graduated renderer</a><a class="headerlink" href="#feature-classify-symmetric-in-graduated-renderer" title="Permalink to this headline">¶</a></h3>
+<p>This feature was funded by <a class="reference external" href="https://github.com/pierreloicq">https://github.com/pierreloicq</a></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/pierreloicq">https://github.com/pierreloicq</a></p>
+</section>
+<section id="feature-partial-qml-export-and-import">
+<h3><a class="toc-backref" href="#id22">Feature: Partial QML export and import</a><a class="headerlink" href="#feature-partial-qml-export-and-import" title="Permalink to this headline">¶</a></h3>
+<p>When exporting and importing styles to and from <code class="docutils literal notranslate"><span class="pre">.qml</span></code> files it is now possible to select a subset of sections.
+This allows to save and restore parts of a layer configuration while omitting others. For example, it’s possible to export only the symbology of a layer and when importing this QML style file into a layer, any configuration on the forms and widgets or other properties are unaffected.
+It is also possible to only handle single sections of a style when using copy/paste.</p>
+<p><a class="reference external" href="images/entries/93836361649c4b182b46e143014d7f30be674187.png"><img alt="image10" class="img-responsive img-rounded" src="../../../_images/93836361649c4b182b46e143014d7f30be674187.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="http://qwat.org/">qwat group</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.opengis.ch">Denis Rouzaud (OPENGIS.ch GmbH)</a></p>
+</section>
+</section>
+<section id="digitising">
+<h2><a class="toc-backref" href="#id23">Digitising</a><a class="headerlink" href="#digitising" title="Permalink to this headline">¶</a></h2>
+<section id="feature-gps-tracking-improvements">
+<h3><a class="toc-backref" href="#id24">Feature: GPS tracking improvements</a><a class="headerlink" href="#feature-gps-tracking-improvements" title="Permalink to this headline">¶</a></h3>
+<p>QGIS 3.4 extends the inbuilt GPS tracking support, adding “acquisition interval” and “distance threshold” parameters. These options can be used to keep the cursor stationary when the receiver is in static conditions.</p>
+<p>This feature was funded by <a class="reference external" href="https://github.com/rossia">Andrea Rossi</a></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/rossia">Andrea Rossi</a></p>
+</section>
+<section id="feature-more-angle-choices-in-advanced-digitizing-dock">
+<h3><a class="toc-backref" href="#id25">Feature: More angle choices in advanced digitizing dock</a><a class="headerlink" href="#feature-more-angle-choices-in-advanced-digitizing-dock" title="Permalink to this headline">¶</a></h3>
+<p>Options were added to allowing snapping to 5/10/15/18/22.5 degrees while in construction mode.</p>
+<p><a class="reference external" href="images/entries/7c32c14544fb2f45646ea03f794e5124b4d4f9be.png"><img alt="image11" class="img-responsive img-rounded" src="../../../_images/7c32c14544fb2f45646ea03f794e5124b4d4f9be.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://github.com/lbartoletti">lbartoletti</a></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/lbartoletti">lbartoletti</a></p>
+</section>
+<section id="feature-vertex-tool-can-work-on-the-current-layer-only">
+<h3><a class="toc-backref" href="#id26">Feature: Vertex tool can work on the current layer only</a><a class="headerlink" href="#feature-vertex-tool-can-work-on-the-current-layer-only" title="Permalink to this headline">¶</a></h3>
+<p>The new vertex is a lot more productive now. It can move vertices of all editable layers at once, which is great to preserve cross layers topology. However in many cases, many of us don’t want to modify all layers at once. We added a variation of the vertex map tool just for that.</p>
+<p><a class="reference external" href="images/entries/7c03fe883ce1558385fdc922797ab3a7342136d0.png"><img alt="image12" class="img-responsive img-rounded" src="../../../_images/7c03fe883ce1558385fdc922797ab3a7342136d0.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://oslandia.com">Oslandia</a></p>
+<p>This feature was developed by <a class="reference external" href="https://oslandia.com/en/home-en/">Paul Blottiere (Oslandia)</a></p>
+</section>
+<section id="feature-add-reverse-line-maptools">
+<h3><a class="toc-backref" href="#id27">Feature: Add reverse line maptools</a><a class="headerlink" href="#feature-add-reverse-line-maptools" title="Permalink to this headline">¶</a></h3>
+<p>A long awaited feature ! No more external plugin or algorithm to reverse a line’s direction!</p>
+<p><a class="reference external" href="images/entries/988902221b0384cd96f880633f9d822faaad6903.png"><img alt="image13" class="img-responsive img-rounded" src="../../../_images/988902221b0384cd96f880633f9d822faaad6903.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://oslandia.com">OSLANDIA</a></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/lbartoletti">Loïc Bartoletti</a></p>
+</section>
+<section id="feature-geometry-precision">
+<h3><a class="toc-backref" href="#id28">Feature: Geometry Precision</a><a class="headerlink" href="#feature-geometry-precision" title="Permalink to this headline">¶</a></h3>
+<p>Vector layers have a precision configuration option.
+The precision defines how accurate the location of nodes should be saved. Each node of new or edited geometries is snapped to a grid of this resolution.
+While digitizing, the grid is shown to guide the user.</p>
+<p><a class="reference external" href="images/entries/4dc31694598d9c507be8ed1110c0c4a494b997ec.gif"><img alt="image14" class="img-responsive img-rounded" src="../../../_images/4dc31694598d9c507be8ed1110c0c4a494b997ec.gif" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/">Kanton Solothurn</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.opengis.ch">Matthias Kuhn (OPENGIS.ch)</a></p>
+</section>
+<section id="feature-automatically-remove-duplicate-nodes">
+<h3><a class="toc-backref" href="#id29">Feature: Automatically remove duplicate nodes</a><a class="headerlink" href="#feature-automatically-remove-duplicate-nodes" title="Permalink to this headline">¶</a></h3>
+<p>When adding or editing geometries on a vector layer, QGIS can automatically remove duplicate nodes from geometries.
+This option is configurable in the digitizing tab of vector layers.</p>
+<p>This feature was funded by <a class="reference external" href="https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/">Kanton Solothurn</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.opengis.ch">Matthias Kuhn (OPENGIS.ch)</a></p>
+</section>
+<section id="feature-check-for-geometry-validity">
+<h3><a class="toc-backref" href="#id30">Feature: Check for geometry validity</a><a class="headerlink" href="#feature-check-for-geometry-validity" title="Permalink to this headline">¶</a></h3>
+<p>Each new or edited geometry can be checked for validity if this option is activated. This allows to communicate transparently to a user when there are erroneous geometries produced by the current edit session.</p>
+<p><a class="reference external" href="images/entries/f5eee0b5a59923d41b427c9acc432b4c4f86da01.png"><img alt="image15" class="img-responsive img-rounded" src="../../../_images/f5eee0b5a59923d41b427c9acc432b4c4f86da01.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/">Kanton Solothurn</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.opengis.ch">Matthias Kuhn (OPENGIS.ch)</a></p>
+</section>
+<section id="feature-topology-checks-while-editing">
+<h3><a class="toc-backref" href="#id31">Feature: Topology checks while editing</a><a class="headerlink" href="#feature-topology-checks-while-editing" title="Permalink to this headline">¶</a></h3>
+<p>Topology checks can be activated on a layer.
+On newly added and edited geometries, topology checks can be executed. The checks will be executed, when the layer is saved or upon a click on the topology check button on the geometry validation panel.</p>
+<p>The following checks are available:</p>
+<ul class="simple">
+<li><p>Gaps</p></li>
+<li><p>Overlaps</p></li>
+<li><p>Missing vertices on neighbouring polygons</p></li>
+</ul>
+<p>This builds on top of the functionality of the geometry checker plugin which was implemented by <a class="reference external" href="https://sourcepole.ch">Sourcepole</a>.</p>
+<p><a class="reference external" href="images/entries/a706012a7afb489573f08133f5885fe5bc1a3660.gif"><img alt="image16" class="img-responsive img-rounded" src="../../../_images/a706012a7afb489573f08133f5885fe5bc1a3660.gif" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/">Kanton Solothurn</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.opengis.ch">Matthias Kuhn (OPENGIS.ch)</a></p>
+</section>
+</section>
+<section id="data-management">
+<h2><a class="toc-backref" href="#id32">Data Management</a><a class="headerlink" href="#data-management" title="Permalink to this headline">¶</a></h2>
+<section id="feature-translation-of-qgis-projects">
+<h3><a class="toc-backref" href="#id33">Feature: Translation of QGIS projects</a><a class="headerlink" href="#feature-translation-of-qgis-projects" title="Permalink to this headline">¶</a></h3>
+<p>Like QGIS and the plugins, the projects are translated with the Qt translation process. Means, it makes the translation according to a Qt Compiled Translation Source File (<code class="docutils literal notranslate"><span class="pre">.qm</span></code> file). When the user opens a project, QGIS checks for a <code class="docutils literal notranslate"><span class="pre">.qm</span></code> file laying in the same folder like the <code class="docutils literal notranslate"><span class="pre">.qgs</span></code> file, having the same name like the <code class="docutils literal notranslate"><span class="pre">.qgs</span></code> file and having the language-code as postfix of the users language (the language configured in the QGIS settings).
+To create the translation, in the project settings, there is an option to generate the <code class="docutils literal notranslate"><span class="pre">.ts</span></code> file, that can edited by programs like Qt Linguist or Transifex.</p>
+<p>More information in <a class="reference external" href="https://new.opengis.ch/2018/09/11/qgis-speaks-a-lot-of-languages/">this blog post</a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.qgis.ch/en">QGIS Usergroup Switzerland and QGEP Project</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.opengis.ch/">David Signer (OPENGIS.ch)</a></p>
+</section>
+<section id="feature-switch-attribute-table-dock-mode-on-demand">
+<h3><a class="toc-backref" href="#id34">Feature: Switch Attribute Table dock mode on demand</a><a class="headerlink" href="#feature-switch-attribute-table-dock-mode-on-demand" title="Permalink to this headline">¶</a></h3>
+<p>A button has been added to the Attribute Table toolbar for switching between docked and window mode on demand. Previously users had to change an option in the settings dialog and open a new table in order to switch between docked/undocked mode, but that’s painful if you decide <em>after</em> a table is already open that you’d like to dock/undock it…!</p>
+<p><a class="reference external" href="images/entries/2ed512377b90aed08dc73bb7b3ea17ae5c9f4708.gif"><img alt="image17" class="img-responsive img-rounded" src="../../../_images/2ed512377b90aed08dc73bb7b3ea17ae5c9f4708.gif" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-new-locator-filter-to-search-across-all-layers">
+<h3><a class="toc-backref" href="#id35">Feature: New locator filter to search across all layers</a><a class="headerlink" href="#feature-new-locator-filter-to-search-across-all-layers" title="Permalink to this headline">¶</a></h3>
+<p>A new locator filter has been added which allows users to search across <em>all</em> layers in their project, by the layer’s display expression.</p>
+<p>The filter can be activated by using the prefix ‘af’, or by making it a default search via QGIS options -&gt; Locator -&gt; Features In All Layer. Display expressions are defined in the vector layer properties under the display tab. Individual layers can be marked as not searchable in the Project Properties dialog, under the Data Sources tab.</p>
+<p><a class="reference external" href="images/entries/0e99950042f20317f1974b5f2f999cbd9233b47c.png"><img alt="image18" class="img-responsive img-rounded" src="../../../_images/0e99950042f20317f1974b5f2f999cbd9233b47c.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.opengis.ch/">Opengis.ch</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.opengis.ch/">Denis Rouzaud</a></p>
+</section>
+<section id="feature-non-removable-required-layers-highlighted-in-layer-tree">
+<h3><a class="toc-backref" href="#id36">Feature: Non-removable (required) layers highlighted in layer tree</a><a class="headerlink" href="#feature-non-removable-required-layers-highlighted-in-layer-tree" title="Permalink to this headline">¶</a></h3>
+<p>A new indicator “locked” icon is shown for any layers marked as “required” within the current project. This icon gives users instant feedback that a particular layer cannot be removed from the project.</p>
+<p>Required layers are configured via the Project Properties dialog, Data Sources tab.</p>
+<p><a class="reference external" href="images/entries/43cff3e927cdbacf08d61f979891030e48f9a451.png"><img alt="image19" class="img-responsive img-rounded" src="../../../_images/43cff3e927cdbacf08d61f979891030e48f9a451.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.arpa.piemonte.it/">Arpa Piemonte (Dipartimento Tematico Geologia e Dissesto) within ERIKUS project</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk">Martin Dobias (Lutra Consulting)</a> and <a class="reference external" href="https://www.faunalia.eu">Faunalia</a></p>
+</section>
+<section id="feature-append-raster-layer-to-an-existing-geopackage">
+<h3><a class="toc-backref" href="#id37">Feature: Append raster layer to an existing Geopackage</a><a class="headerlink" href="#feature-append-raster-layer-to-an-existing-geopackage" title="Permalink to this headline">¶</a></h3>
+<p>When saving a raster layer to GeoPackage database, it’s now possible to append the layer to an existing file.</p>
+<p><a class="reference external" href="images/entries/7417555bb52774a5b522ec6d3034d6fd22077732.png"><img alt="image20" class="img-responsive img-rounded" src="../../../_images/7417555bb52774a5b522ec6d3034d6fd22077732.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://github.com/borysiasty">Borys Jurgiel</a></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/borysiasty">Borys Jurgiel</a></p>
+</section>
+</section>
+<section id="forms-and-widgets">
+<h2><a class="toc-backref" href="#id38">Forms and Widgets</a><a class="headerlink" href="#forms-and-widgets" title="Permalink to this headline">¶</a></h2>
+<section id="feature-drill-down-cascading-forms-in-qgis-value-relation-widgets">
+<h3><a class="toc-backref" href="#id39">Feature: Drill-down (cascading) forms in QGIS Value Relation Widgets</a><a class="headerlink" href="#feature-drill-down-cascading-forms-in-qgis-value-relation-widgets" title="Permalink to this headline">¶</a></h3>
+<p>New functions and logic in QGIS “Value Relation Widgets”, allowing the implementation of complex, dynamic filters within QGIS attribute forms. The functionality can be used to implement “drill-down” forms within QGIS, where the values available in one field depend on the values of other fields:</p>
+<p><a class="reference external" href="images/entries/5990ff168d5b6b41176de4fa487964b97c32fafc.gif"><img alt="image21" class="img-responsive img-rounded" src="../../../_images/5990ff168d5b6b41176de4fa487964b97c32fafc.gif" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com/drill-down-cascading-forms/">QGIS community through crowd-funding</a></p>
+<p>This feature was developed by Alessandro Pasotti (with North Road)</p>
+</section>
+</section>
+<section id="map-composer">
+<h2><a class="toc-backref" href="#id40">Map Composer</a><a class="headerlink" href="#map-composer" title="Permalink to this headline">¶</a></h2>
+<section id="feature-3d-map-items">
+<h3><a class="toc-backref" href="#id41">Feature: 3D map items</a><a class="headerlink" href="#feature-3d-map-items" title="Permalink to this headline">¶</a></h3>
+<p>This feature allows users to add their 3D map view to the print layout.</p>
+<p><a class="reference external" href="images/entries/413f4a9377731af02f3fe815bf3b7e70ac508d1c.png"><img alt="image22" class="img-responsive img-rounded" src="../../../_images/413f4a9377731af02f3fe815bf3b7e70ac508d1c.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.lutraconsulting.co.uk/crowdfunding/more-qgis-3d/">QGIS community through crowd-funding</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Lutra Consulting</a></p>
+</section>
+</section>
+<section id="processing">
+<h2><a class="toc-backref" href="#id42">Processing</a><a class="headerlink" href="#processing" title="Permalink to this headline">¶</a></h2>
+<section id="feature-new-edit-in-place-mode">
+<h3><a class="toc-backref" href="#id43">Feature: New “Edit in place” mode</a><a class="headerlink" href="#feature-new-edit-in-place-mode" title="Permalink to this headline">¶</a></h3>
+<p>Thanks to a large number of <a class="reference external" href="https://north-road.com/edit-features-in-place-using-qgis-spatial-operations-campaign/">generous backers</a>, a crowdfunded “edit in place” mode was added to Processing for 3.4. When a vector layer is active and editable, this mode allows users to execute suitable algorithms directly on the features from the layer, modifying their attributes and geometries in-place. All edits are added to the layer’s “edit buffer”, so you can easily undo and redo the changes before saving them back to the data source.</p>
+<p>For those power users who perform frequent data edits, this functionality is also exposed via QGIS 3.0’s “Locator bar” (that “type to locate” bar which sits in the bottom-left corner). Typing ‘ef’ (“edit features”) followed by the name of the corresponding operation allows you to perform the edits directly via the keyboard. E.g.</p>
+<ul class="simple">
+<li><p>Select a bunch of line features</p></li>
+<li><p>Press Ctrl + K (activates the locator bar)</p></li>
+<li><p>Type “ef reverse”</p></li>
+<li><p>Press enter – the selected line features will be reversed immediately!</p></li>
+</ul>
+<p><a class="reference external" href="images/entries/bdfd9b4a3d367378786fd358e13c475e7fb05816.gif"><img alt="image23" class="img-responsive img-rounded" src="../../../_images/bdfd9b4a3d367378786fd358e13c475e7fb05816.gif" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com/edit-features-in-place-using-qgis-spatial-operations-campaign/">Crowdfunding campaign</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">North Road</a></p>
+</section>
+<section id="feature-store-models-inside-project">
+<h3><a class="toc-backref" href="#id44">Feature: Store models inside project</a><a class="headerlink" href="#feature-store-models-inside-project" title="Permalink to this headline">¶</a></h3>
+<p>Some Processing models are so intrinsically linked to the logic inside a particular project that they have no meaning (or are totally broken) outside of that project (e.g. models which rely on the presence of particular map layers, relations, etc). Accordingly, from QGIS 3.4, Processing models can be stored inside QGIS project files. Any models stored within a project are made available as soon as that project is opened. This also avoids cluttering up the “global” model provider with models which make no sense, and makes it easier to distribute a single project all relevant models included.</p>
+<p>Models are stored inside projects by clicking the new “Embed in Project” button in the Modeler dialog toolbar. Models can be removed from a project from the model’s right click menu in the toolbox.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-sample-raster-values">
+<h3><a class="toc-backref" href="#id45">Feature: Sample Raster Values</a><a class="headerlink" href="#feature-sample-raster-values" title="Permalink to this headline">¶</a></h3>
+<p>A new algorithm was added for sampling raster layer values at point locations.</p>
+<p><a class="reference external" href="images/entries/835925fb7c793d7e56a8c21a49408cd2542c973c.png"><img alt="image24" class="img-responsive img-rounded" src="../../../_images/835925fb7c793d7e56a8c21a49408cd2542c973c.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.faunalia.eu">Faunalia</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.faunalia.eu">Matteo Ghetta (Faunalia)</a></p>
+</section>
+<section id="feature-new-raster-pixels-to-polygons-algorithm">
+<h3><a class="toc-backref" href="#id46">Feature: New ‘Raster pixels to polygons’ algorithm</a><a class="headerlink" href="#feature-new-raster-pixels-to-polygons-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>This algorithm converts a raster layer into a vector layer, with a polygon feature corresponding to each pixel from the raster and a single field containing the band value from the raster.</p>
+<p>This feature was funded by <a class="reference external" href="http://smec.com">SMEC/SJ</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson</a></p>
+</section>
+<section id="feature-k-means-clustering-algorithm">
+<h3><a class="toc-backref" href="#id47">Feature: K Means clustering algorithm</a><a class="headerlink" href="#feature-k-means-clustering-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>QGIS 3.4 adds a native “k-means clustering” algorithm. Based on a port of PostGIS’ ST_ClusterKMeans function, this algorithm adds a new cluster ID field to a set of input features which identifies the feature’s cluster based on a k-means clustering approach. If non-point geometries are used as input, the clustering is based off the centroid of the input geometries.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-dbscan-spatial-clustering-algorithm">
+<h3><a class="toc-backref" href="#id48">Feature: dbscan spatial clustering algorithm</a><a class="headerlink" href="#feature-dbscan-spatial-clustering-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>This new native algorithm implements an optimised DBSCAN density based scanning cluster approach for clustering 2d point features.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-improved-algorithms">
+<h3><a class="toc-backref" href="#id49">Feature: Improved algorithms</a><a class="headerlink" href="#feature-improved-algorithms" title="Permalink to this headline">¶</a></h3>
+<p>Some miscellaneous improvements to existing Processing algorithms include:</p>
+<ul class="simple">
+<li><p>The <em>Reverse line direction</em> algorithm now works with MultiLineString geometry inputs</p></li>
+<li><p><em>Extend lines</em>: support for dynamic (data defined) start and end distances was added</p></li>
+<li><p><em>Offset lines</em>: support for dynamic offset distance was added</p></li>
+<li><p>The <em>Join by Field Value</em> and <em>Join by Location</em> algorithms can now optionally export unmatched records</p></li>
+<li><p><em>Join by Field Value</em> also reports counts of matched/unmatched features</p></li>
+</ul>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-filter-vertices-by-m-and-filter-vertices-by-z-algorithms">
+<h3><a class="toc-backref" href="#id50">Feature: Filter Vertices by M and Filter Vertices by Z algorithms</a><a class="headerlink" href="#feature-filter-vertices-by-m-and-filter-vertices-by-z-algorithms" title="Permalink to this headline">¶</a></h3>
+<p>Two new algorithms were added for filtering line/polygon vertices by their M or Z values. A minimum and maximum M/Z value can be entered, and if the vertices fall outside these ranges they will be discarded from the output geometry. Both the minimum and maximum filter values can also be data defined, so can vary per feature.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-array-of-translated-features-algorithm">
+<h3><a class="toc-backref" href="#id51">Feature: “Array of Translated Features” algorithm</a><a class="headerlink" href="#feature-array-of-translated-features-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>This new algorithm creates copies of features in a layer, by creating multiple translated (offset) versions of the feature. Each copy is displaced by a preset amount in the x/y/z/m axis.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-array-of-offset-parallel-lines-algorithm">
+<h3><a class="toc-backref" href="#id52">Feature: “Array of offset (parallel) lines” algorithm</a><a class="headerlink" href="#feature-array-of-offset-parallel-lines-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>This new algorithm creates copies of line features in a layer, by creating multiple parallel versions of each feature. Each copy is offset by a preset distance.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-choice-of-units-for-non-degree-unknown-distances">
+<h3><a class="toc-backref" href="#id53">Feature: Choice of units for non degree/unknown distances</a><a class="headerlink" href="#feature-choice-of-units-for-non-degree-unknown-distances" title="Permalink to this headline">¶</a></h3>
+<p>When an algorithm has a distance parameter in meters/feet/etc (i.e. non-geographic distances), a combo box has been added allowing choice of the unit type.</p>
+<p>(QGIS doesn’t (and should <strong>never</strong>) expose this for distances in degrees – it’s up to users in this situation to choose a suitable local projection and reproject their data to match.)</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson</a></p>
+</section>
+<section id="feature-drape-features-to-z-m-algorithms">
+<h3><a class="toc-backref" href="#id54">Feature: “Drape features to z/m” algorithms</a><a class="headerlink" href="#feature-drape-features-to-z-m-algorithms" title="Permalink to this headline">¶</a></h3>
+<p>These two new algorithms can set geometry vertex z or m values to values sampled from a raster band. Values can optionally be scaled using a (data definable) scale value.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-raster-pixels-to-points-algorithm">
+<h3><a class="toc-backref" href="#id55">Feature: “Raster pixels to points” algorithm</a><a class="headerlink" href="#feature-raster-pixels-to-points-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>A new “pixels to points” algorithm was added in QGIS 3.4, which creates a point feature at the center of every pixel. nodata pixels are skipped.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-line-substring-algorithm">
+<h3><a class="toc-backref" href="#id56">Feature: Line substring algorithm</a><a class="headerlink" href="#feature-line-substring-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>This new, much-requested, algorithm returns the portion of a line (or curve) which falls between the specified start and end distances (measured from the beginning of the line). Z and M values are linearly interpolated from existing values.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-interpolate-point-on-line-algorithm">
+<h3><a class="toc-backref" href="#id57">Feature: “Interpolate point on line” algorithm</a><a class="headerlink" href="#feature-interpolate-point-on-line-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>This new algorithm creates a point geometry interpolated at a set distance along line (or polygon boundary) geometries. Curved input geometries are fully supported. Z or M values are linearly interpolated based on existing values.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-k-neighbour-concave-hull">
+<h3><a class="toc-backref" href="#id58">Feature: k-neighbour concave hull</a><a class="headerlink" href="#feature-k-neighbour-concave-hull" title="Permalink to this headline">¶</a></h3>
+<p>This feature was funded by <a class="reference external" href="https://qgis.org">https://qgis.org</a></p>
+<p>This feature was developed by <a class="reference external" href="https://qgis.org">Detlev Neumann, Rudi von Staden</a></p>
+</section>
+<section id="feature-python-scripts-which-implement-algorithms-now-execute-the-algorithm-on-drag-and-drop-and-browser-double-click">
+<h3><a class="toc-backref" href="#id59">Feature: Python scripts which implement algorithms now execute the algorithm on drag and drop and browser double click</a><a class="headerlink" href="#feature-python-scripts-which-implement-algorithms-now-execute-the-algorithm-on-drag-and-drop-and-browser-double-click" title="Permalink to this headline">¶</a></h3>
+<p>When appropriate, scripts will now launch a processing algorithm dialog upon:</p>
+<ul class="simple">
+<li><p>Dragging and dropping a Python script onto the main window</p></li>
+<li><p>Using the browser panel’s right-click run script action</p></li>
+</ul>
+<p><a class="reference external" href="images/entries/06f359ac4e92e415c502bc5def413563b755d8e8.jpg"><img alt="image25" class="img-responsive img-rounded" src="../../../_images/06f359ac4e92e415c502bc5def413563b755d8e8.jpg" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.imhere-asia.com/">iMhere Asia</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.imhere-asia.com/">Mathieu Pellerin</a></p>
+</section>
+<section id="feature-new-gdal-s-rearrange-band-algorithm">
+<h3><a class="toc-backref" href="#id60">Feature: New GDAL’s rearrange band algorithm</a><a class="headerlink" href="#feature-new-gdal-s-rearrange-band-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>A new GDAL provider ‘Rearrange band’ algorithm was added to the processing toolbox. The algorithm allows to output rasters continuing a subset of a given input raster’s bands, and offers the possibility to re-order the bands.</p>
+<p><a class="reference external" href="images/entries/989a55b259fe6fd44640151cf4e2b0f0bb34573b.jpg"><img alt="image26" class="img-responsive img-rounded" src="../../../_images/989a55b259fe6fd44640151cf4e2b0f0bb34573b.jpg" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.imhere-asia.com/">iMHere Asia</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.imhere-asia.com/">Mathieu Pellerin</a></p>
+</section>
+<section id="feature-precalculated-values-for-model-algorithm-parameters">
+<h3><a class="toc-backref" href="#id61">Feature: “Precalculated” values for model algorithm parameters</a><a class="headerlink" href="#feature-precalculated-values-for-model-algorithm-parameters" title="Permalink to this headline">¶</a></h3>
+<p>A new option is present for all parameters of using a “precalculated expression”. This expression is evaluated once before the child algorithm is executed and used during the execution of that algorithm.</p>
+<p>This feature was funded by <a class="reference external" href="https://qgis.org">QGIS</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-categorize-a-layer-using-a-style-xml-file-algorithm">
+<h3><a class="toc-backref" href="#id62">Feature: “Categorize a layer using a style XML file” algorithm</a><a class="headerlink" href="#feature-categorize-a-layer-using-a-style-xml-file-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>This new algorithm sets a vector layer’s renderer to a categorized renderer using matching symbols from a style database.</p>
+<p>A specified expression (or field name) is used to create categories for the renderer, with QGIS creating a category for each unique value within the layer. Each category is individually matched to the symbols which exist within the specified QGIS XML style database. Whenever a matching symbol name is found, the category’s symbol will be set to this matched symbol.</p>
+<p>The matching is case-insensitive by default, but can be made case-sensitive if required. Optionally, non-alphanumeric characters in both the category value and symbol name can be ignored while performing the match. This allows for greater tolerance when matching categories to symbols.</p>
+<p>If desired, tables can also be output containing lists of the categories which could not be matched to symbols, and symbols which were not matched to categories.</p>
+<p><a class="reference external" href="images/entries/dbf5d7f496eadfefae1bc300f763e991206fb694.png"><img alt="image27" class="img-responsive img-rounded" src="../../../_images/dbf5d7f496eadfefae1bc300f763e991206fb694.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-new-mode-for-snap-geometries-algorithm">
+<h3><a class="toc-backref" href="#id63">Feature: New mode for Snap geometries algorithm</a><a class="headerlink" href="#feature-new-mode-for-snap-geometries-algorithm" title="Permalink to this headline">¶</a></h3>
+<p>The new mode “Snap to anchor nodes (single layer only)” makes sure that any two vertices of the vector layer are at least at distance given by the threshold value.</p>
+<p>This algorithm comes handy when doing vector overlay operations such as intersection, union or difference to prevent possible topological errors caused by numerical errors if coordinates are very close to each other. After running the algorithm some previously valid geometries may become invalid and therefore it may be useful to run Fix geometries algorithm afterwards.</p>
+<p>This feature was funded by <a class="reference external" href="https://www.dfat.gov.au/">InaSAFE DFAT</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Martin Dobias (Lutra Consulting)</a></p>
+</section>
+</section>
+<section id="data-providers">
+<h2><a class="toc-backref" href="#id64">Data Providers</a><a class="headerlink" href="#data-providers" title="Permalink to this headline">¶</a></h2>
+<section id="feature-oauth2-authentication-method-plugin">
+<h3><a class="toc-backref" href="#id65">Feature: OAuth2 authentication method plugin</a><a class="headerlink" href="#feature-oauth2-authentication-method-plugin" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Supports authentication code, implicit and resource owner grant flows</p></li>
+<li><p>Allows for preconfigured connections, read from default locations</p></li>
+<li><p>Offers caching of access token beyond QGIS restarts</p></li>
+<li><p>Save/load configurations</p></li>
+</ul>
+<p>This feature was funded by <a class="reference external" href="https://monsanto.com/">Monsanto Company</a></p>
+<p>This feature was developed by <a class="reference external" href="https://qgis.org">Larry Shaffer, Alessandro Pasotti</a></p>
+</section>
+<section id="feature-mesh-layer-new-mesh-layer-format-support">
+<h3><a class="toc-backref" href="#id66">Feature: Mesh layer: New mesh layer format support</a><a class="headerlink" href="#feature-mesh-layer-new-mesh-layer-format-support" title="Permalink to this headline">¶</a></h3>
+<p>Mesh layers represent data on variable size grid with extra components (e.g. time and vector). With introduction of MDAL, users can load the following formats directly in QGIS and explore all other components:</p>
+<ul class="simple">
+<li><p>GRIB</p></li>
+<li><p>XMDF</p></li>
+<li><p>Netcdf</p></li>
+</ul>
+<p><a class="reference external" href="images/entries/767a26455fb1a8ad8cab663a52832ef575954483.gif"><img alt="image29" class="img-responsive img-rounded" src="../../../_images/767a26455fb1a8ad8cab663a52832ef575954483.gif" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/">Lutra Consulting</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Lutra Consulting</a></p>
+</section>
+<section id="feature-mesh-layer-add-function-to-identify-value-on-mesh-layers">
+<h3><a class="toc-backref" href="#id67">Feature: Mesh layer: add function to identify value on mesh layers</a><a class="headerlink" href="#feature-mesh-layer-add-function-to-identify-value-on-mesh-layers" title="Permalink to this headline">¶</a></h3>
+<p>With this API, developers can inspect mesh elements and fetch values spatially and temporally. As an example, you can create time series plot from your mesh layer.</p>
+<p><a class="reference external" href="images/entries/45c0ea5d14157275da7153ac31cc41987319e5eb.png"><img alt="image30" class="img-responsive img-rounded" src="../../../_images/45c0ea5d14157275da7153ac31cc41987319e5eb.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Lutra Consulting</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Lutra Consulting</a></p>
+</section>
+<section id="feature-mesh-layer-allow-to-choose-different-vector-and-scalar-dataset">
+<h3><a class="toc-backref" href="#id68">Feature: Mesh layer: allow to choose different vector and scalar dataset</a><a class="headerlink" href="#feature-mesh-layer-allow-to-choose-different-vector-and-scalar-dataset" title="Permalink to this headline">¶</a></h3>
+<p>A mesh layer often contains several quantities. For example a netcdf/grib can contain several meteorological quantities. Each quantity can also have multiple components. For example, wind data can contain speed (scalar) and values (grid). With this option, you can overlay scalar and grids from different quantities. In the image below, you can see temperature (grid) and wind (scalar).</p>
+<p><a class="reference external" href="images/entries/74ce47f09e8644a2ce6a8daeae2e37e13615b956.gif"><img alt="image31" class="img-responsive img-rounded" src="../../../_images/74ce47f09e8644a2ce6a8daeae2e37e13615b956.gif" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Lutra Consulting</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Lutra Consulting</a></p>
+</section>
+<section id="feature-mesh-layer-allow-render-vectors-arrows-on-the-user-defined-grid">
+<h3><a class="toc-backref" href="#id69">Feature: Mesh layer: allow render vectors/arrows on the user-defined grid</a><a class="headerlink" href="#feature-mesh-layer-allow-render-vectors-arrows-on-the-user-defined-grid" title="Permalink to this headline">¶</a></h3>
+<p>Scalar data are generated usually at the centre/corner of each mesh element. When displaying the scalar data, the arrows might look sparse and often not possible to see the general trend. With this option, arrows can be displayed on a user-defined grid. Extra scalar values will be interpolated on-the-fly and placed on the user-defined grid.</p>
+<p><a class="reference external" href="images/entries/9eaa1430fee8b738a79936d7df104270e0b7f2a8.png"><img alt="image32" class="img-responsive img-rounded" src="../../../_images/9eaa1430fee8b738a79936d7df104270e0b7f2a8.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Lutra Consulting</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Lutra Consulting</a></p>
+</section>
+<section id="feature-json-jsonb-type-support">
+<h3><a class="toc-backref" href="#id70">Feature: JSON/JSONB Type support</a><a class="headerlink" href="#feature-json-jsonb-type-support" title="Permalink to this headline">¶</a></h3>
+<p>The reading of PostgreSQL JSON types is supported. JSON Data can be displayed in the widgets as “Key/Value” (maps), as “List” (arrays) or as text.</p>
+<p><a class="reference external" href="images/entries/94f82c582268d7966bb1fa140893b63af207dca3.png"><img alt="image33" class="img-responsive img-rounded" src="../../../_images/94f82c582268d7966bb1fa140893b63af207dca3.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/">Kanton Solothurn</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.opengis.ch">David Signer (OPENGIS.ch)</a></p>
+</section>
+<section id="feature-esri-token-authentication-support">
+<h3><a class="toc-backref" href="#id71">Feature: ESRI Token Authentication support</a><a class="headerlink" href="#feature-esri-token-authentication-support" title="Permalink to this headline">¶</a></h3>
+<p>Support has been added to QGIS’ Authentication system for ESRI’s temporary token based authentication. This allows for connection to ArcGIS Feature and Map Servers via an allocated temporary token.</p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-sql-server-invalid-geometry-handling">
+<h3><a class="toc-backref" href="#id72">Feature: SQL Server - Invalid geometry handling</a><a class="headerlink" href="#feature-sql-server-invalid-geometry-handling" title="Permalink to this headline">¶</a></h3>
+<p>Recent versions of QGIS have switched to a safer approach to reading SQL Server layers, which automatically checks for geometry validity and repairs geometries when needed. This workaround is required to avoid issues with the design of SQL Server’s geometry handling, where encountering any rows with invalid geometries can silently abort a request without returning all the features from a layer. Unfortunately, the workaround comes at a significant performance cost.</p>
+<p>In QGIS 3.4 a new setting was added to allow users to manually turn off QGIS’ SQL Server invalid geometry handling. Turning on the “Skip invalid geometry handling” setting under a SQL Server connection’s properties causes QGIS to skip all the expensive geometry validation processing, but firmly places the responsibility for ensuring that all features on the database have valid geometries back upon the user/database administrator. <strong>This is a “use at your own risk” setting. Improperly enabling this option can lead to missing features and data loss.</strong></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+</section>
+<section id="qgis-server">
+<h2><a class="toc-backref" href="#id73">QGIS Server</a><a class="headerlink" href="#qgis-server" title="Permalink to this headline">¶</a></h2>
+<section id="feature-server-cache-can-be-manage-by-plugins">
+<h3><a class="toc-backref" href="#id74">Feature: Server Cache can be manage by plugins</a><a class="headerlink" href="#feature-server-cache-can-be-manage-by-plugins" title="Permalink to this headline">¶</a></h3>
+<p>By default, QGIS Server only caches WMS GetCapabilities document in memory. With WMTS implementation, it is necessary to have a way to cache tiles. But the cache manager has not been developed to only cache tiles.</p>
+<p>The cache manager plugin can be used to cache:</p>
+<ul class="simple">
+<li><p>WMS, WFS, WCS, WMTS GetCapabilities documents</p></li>
+<li><p>WFS DescribeFeatureType documents</p></li>
+<li><p>WCS DescribeCoverage documents</p></li>
+<li><p>WMTS GetTile images</p></li>
+<li><p>WMS GetLegendGraphic images</p></li>
+</ul>
+<p>Here is a python cache manager class, which do not verify if the QGIS project has changed:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="k">class</span> <span class="nc">PyServerCache</span><span class="p">(</span><span class="n">QgsServerCacheFilter</span><span class="p">):</span>
+
+    <span class="sd">&quot;&quot;&quot; Used to have cache control &quot;&quot;&quot;</span>
+
+    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">server_iface</span><span class="p">):</span>
+        <span class="nb">super</span><span class="p">(</span><span class="n">QgsServerCacheFilter</span><span class="p">,</span> <span class="bp">self</span><span class="p">)</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="n">server_iface</span><span class="p">)</span>
+
+        <span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">tempfile</span><span class="o">.</span><span class="n">gettempdir</span><span class="p">(),</span> <span class="s2">&quot;qgs_server_cache&quot;</span><span class="p">)</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span><span class="p">):</span>
+            <span class="n">os</span><span class="o">.</span><span class="n">mkdir</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span><span class="p">)</span>
+
+        <span class="bp">self</span><span class="o">.</span><span class="n">_tile_cache_dir</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span><span class="p">,</span> <span class="s1">&#39;tiles&#39;</span><span class="p">)</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_tile_cache_dir</span><span class="p">):</span>
+            <span class="n">os</span><span class="o">.</span><span class="n">mkdir</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_tile_cache_dir</span><span class="p">)</span>
+
+    <span class="k">def</span> <span class="nf">getCachedDocument</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">project</span><span class="p">,</span> <span class="n">request</span><span class="p">,</span> <span class="n">key</span><span class="p">):</span>
+        <span class="n">m</span> <span class="o">=</span> <span class="n">hashlib</span><span class="o">.</span><span class="n">md5</span><span class="p">()</span>
+        <span class="n">paramMap</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">parameters</span><span class="p">()</span>
+        <span class="n">urlParam</span> <span class="o">=</span> <span class="s2">&quot;&amp;&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="s2">&quot;</span><span class="si">%s</span><span class="s2">=</span><span class="si">%s</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">paramMap</span><span class="p">[</span><span class="n">k</span><span class="p">])</span> <span class="k">for</span> <span class="n">k</span> <span class="ow">in</span> <span class="n">paramMap</span><span class="o">.</span><span class="n">keys</span><span class="p">()])</span>
+        <span class="n">m</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="n">urlParam</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s1">&#39;utf8&#39;</span><span class="p">))</span>
+
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.xml&quot;</span><span class="p">)):</span>
+            <span class="k">return</span> <span class="n">QByteArray</span><span class="p">()</span>
+
+        <span class="n">doc</span> <span class="o">=</span> <span class="n">QDomDocument</span><span class="p">(</span><span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.xml&quot;</span><span class="p">)</span>
+        <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.xml&quot;</span><span class="p">),</span> <span class="s2">&quot;r&quot;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+            <span class="n">statusOK</span><span class="p">,</span> <span class="n">errorStr</span><span class="p">,</span> <span class="n">errorLine</span><span class="p">,</span> <span class="n">errorColumn</span> <span class="o">=</span> <span class="n">doc</span><span class="o">.</span><span class="n">setContent</span><span class="p">(</span><span class="n">f</span><span class="o">.</span><span class="n">read</span><span class="p">(),</span> <span class="kc">True</span><span class="p">)</span>
+            <span class="k">if</span> <span class="ow">not</span> <span class="n">statusOK</span><span class="p">:</span>
+                <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Could not read or find the contents document. Error at line </span><span class="si">%d</span><span class="s2">, column </span><span class="si">%d</span><span class="s2">:</span><span class="se">\n</span><span class="si">%s</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="n">errorLine</span><span class="p">,</span> <span class="n">errorColumn</span><span class="p">,</span> <span class="n">errorStr</span><span class="p">))</span>
+                <span class="k">return</span> <span class="n">QByteArray</span><span class="p">()</span>
+
+        <span class="k">return</span> <span class="n">doc</span><span class="o">.</span><span class="n">toByteArray</span><span class="p">()</span>
+
+    <span class="k">def</span> <span class="nf">setCachedDocument</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">doc</span><span class="p">,</span> <span class="n">project</span><span class="p">,</span> <span class="n">request</span><span class="p">,</span> <span class="n">key</span><span class="p">):</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">doc</span><span class="p">:</span>
+            <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Could not cache None document&quot;</span><span class="p">)</span>
+            <span class="k">return</span> <span class="kc">False</span>
+        <span class="n">m</span> <span class="o">=</span> <span class="n">hashlib</span><span class="o">.</span><span class="n">md5</span><span class="p">()</span>
+        <span class="n">paramMap</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">parameters</span><span class="p">()</span>
+        <span class="n">urlParam</span> <span class="o">=</span> <span class="s2">&quot;&amp;&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="s2">&quot;</span><span class="si">%s</span><span class="s2">=</span><span class="si">%s</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">paramMap</span><span class="p">[</span><span class="n">k</span><span class="p">])</span> <span class="k">for</span> <span class="n">k</span> <span class="ow">in</span> <span class="n">paramMap</span><span class="o">.</span><span class="n">keys</span><span class="p">()])</span>
+        <span class="n">m</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="n">urlParam</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s1">&#39;utf8&#39;</span><span class="p">))</span>
+        <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.xml&quot;</span><span class="p">),</span> <span class="s2">&quot;w&quot;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+            <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">doc</span><span class="o">.</span><span class="n">toString</span><span class="p">())</span>
+        <span class="k">return</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.xml&quot;</span><span class="p">))</span>
+
+    <span class="k">def</span> <span class="nf">deleteCachedDocument</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">project</span><span class="p">,</span> <span class="n">request</span><span class="p">,</span> <span class="n">key</span><span class="p">):</span>
+        <span class="n">m</span> <span class="o">=</span> <span class="n">hashlib</span><span class="o">.</span><span class="n">md5</span><span class="p">()</span>
+        <span class="n">paramMap</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">parameters</span><span class="p">()</span>
+        <span class="n">urlParam</span> <span class="o">=</span> <span class="s2">&quot;&amp;&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="s2">&quot;</span><span class="si">%s</span><span class="s2">=</span><span class="si">%s</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">paramMap</span><span class="p">[</span><span class="n">k</span><span class="p">])</span> <span class="k">for</span> <span class="n">k</span> <span class="ow">in</span> <span class="n">paramMap</span><span class="o">.</span><span class="n">keys</span><span class="p">()])</span>
+        <span class="n">m</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="n">urlParam</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s1">&#39;utf8&#39;</span><span class="p">))</span>
+        <span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.xml&quot;</span><span class="p">)):</span>
+            <span class="n">os</span><span class="o">.</span><span class="n">remove</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.xml&quot;</span><span class="p">))</span>
+        <span class="k">return</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.xml&quot;</span><span class="p">))</span>
+
+    <span class="k">def</span> <span class="nf">deleteCachedDocuments</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">project</span><span class="p">):</span>
+        <span class="n">filelist</span> <span class="o">=</span> <span class="p">[</span><span class="n">f</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">listdir</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span><span class="p">)</span> <span class="k">if</span> <span class="n">f</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s2">&quot;.xml&quot;</span><span class="p">)]</span>
+        <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">filelist</span><span class="p">:</span>
+            <span class="n">os</span><span class="o">.</span><span class="n">remove</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span><span class="p">,</span> <span class="n">f</span><span class="p">))</span>
+        <span class="n">filelist</span> <span class="o">=</span> <span class="p">[</span><span class="n">f</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">listdir</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_cache_dir</span><span class="p">)</span> <span class="k">if</span> <span class="n">f</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s2">&quot;.xml&quot;</span><span class="p">)]</span>
+        <span class="k">return</span> <span class="nb">len</span><span class="p">(</span><span class="n">filelist</span><span class="p">)</span> <span class="o">==</span> <span class="mi">0</span>
+
+    <span class="k">def</span> <span class="nf">getCachedImage</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">project</span><span class="p">,</span> <span class="n">request</span><span class="p">,</span> <span class="n">key</span><span class="p">):</span>
+        <span class="n">m</span> <span class="o">=</span> <span class="n">hashlib</span><span class="o">.</span><span class="n">md5</span><span class="p">()</span>
+        <span class="n">paramMap</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">parameters</span><span class="p">()</span>
+        <span class="n">urlParam</span> <span class="o">=</span> <span class="s2">&quot;&amp;&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="s2">&quot;</span><span class="si">%s</span><span class="s2">=</span><span class="si">%s</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">paramMap</span><span class="p">[</span><span class="n">k</span><span class="p">])</span> <span class="k">for</span> <span class="n">k</span> <span class="ow">in</span> <span class="n">paramMap</span><span class="o">.</span><span class="n">keys</span><span class="p">()])</span>
+        <span class="n">m</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="n">urlParam</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s1">&#39;utf8&#39;</span><span class="p">))</span>
+
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_tile_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.png&quot;</span><span class="p">)):</span>
+            <span class="k">return</span> <span class="n">QByteArray</span><span class="p">()</span>
+
+        <span class="n">img</span> <span class="o">=</span> <span class="n">QImage</span><span class="p">(</span><span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.png&quot;</span><span class="p">)</span>
+        <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_tile_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.png&quot;</span><span class="p">),</span> <span class="s2">&quot;rb&quot;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+            <span class="n">statusOK</span> <span class="o">=</span> <span class="n">img</span><span class="o">.</span><span class="n">loadFromData</span><span class="p">(</span><span class="n">f</span><span class="o">.</span><span class="n">read</span><span class="p">())</span>
+            <span class="k">if</span> <span class="ow">not</span> <span class="n">statusOK</span><span class="p">:</span>
+                <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Could not read or find the contents document. Error at line </span><span class="si">%d</span><span class="s2">, column </span><span class="si">%d</span><span class="s2">:</span><span class="se">\n</span><span class="si">%s</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="n">errorLine</span><span class="p">,</span> <span class="n">errorColumn</span><span class="p">,</span> <span class="n">errorStr</span><span class="p">))</span>
+                <span class="k">return</span> <span class="n">QByteArray</span><span class="p">()</span>
+
+        <span class="n">ba</span> <span class="o">=</span> <span class="n">QByteArray</span><span class="p">()</span>
+        <span class="n">buff</span> <span class="o">=</span> <span class="n">QBuffer</span><span class="p">(</span><span class="n">ba</span><span class="p">)</span>
+        <span class="n">buff</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="n">QIODevice</span><span class="o">.</span><span class="n">WriteOnly</span><span class="p">)</span>
+        <span class="n">img</span><span class="o">.</span><span class="n">save</span><span class="p">(</span><span class="n">buff</span><span class="p">,</span> <span class="s1">&#39;PNG&#39;</span><span class="p">)</span>
+        <span class="k">return</span> <span class="n">ba</span>
+
+    <span class="k">def</span> <span class="nf">setCachedImage</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">img</span><span class="p">,</span> <span class="n">project</span><span class="p">,</span> <span class="n">request</span><span class="p">,</span> <span class="n">key</span><span class="p">):</span>
+        <span class="n">m</span> <span class="o">=</span> <span class="n">hashlib</span><span class="o">.</span><span class="n">md5</span><span class="p">()</span>
+        <span class="n">paramMap</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">parameters</span><span class="p">()</span>
+        <span class="n">urlParam</span> <span class="o">=</span> <span class="s2">&quot;&amp;&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="s2">&quot;</span><span class="si">%s</span><span class="s2">=</span><span class="si">%s</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">paramMap</span><span class="p">[</span><span class="n">k</span><span class="p">])</span> <span class="k">for</span> <span class="n">k</span> <span class="ow">in</span> <span class="n">paramMap</span><span class="o">.</span><span class="n">keys</span><span class="p">()])</span>
+        <span class="n">m</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="n">urlParam</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s1">&#39;utf8&#39;</span><span class="p">))</span>
+        <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_tile_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.png&quot;</span><span class="p">),</span> <span class="s2">&quot;wb&quot;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+            <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">img</span><span class="p">)</span>
+        <span class="k">return</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_tile_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.png&quot;</span><span class="p">))</span>
+
+    <span class="k">def</span> <span class="nf">deleteCachedImage</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">project</span><span class="p">,</span> <span class="n">request</span><span class="p">,</span> <span class="n">key</span><span class="p">):</span>
+        <span class="n">m</span> <span class="o">=</span> <span class="n">hashlib</span><span class="o">.</span><span class="n">md5</span><span class="p">()</span>
+        <span class="n">paramMap</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">parameters</span><span class="p">()</span>
+        <span class="n">urlParam</span> <span class="o">=</span> <span class="s2">&quot;&amp;&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="s2">&quot;</span><span class="si">%s</span><span class="s2">=</span><span class="si">%s</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">paramMap</span><span class="p">[</span><span class="n">k</span><span class="p">])</span> <span class="k">for</span> <span class="n">k</span> <span class="ow">in</span> <span class="n">paramMap</span><span class="o">.</span><span class="n">keys</span><span class="p">()])</span>
+        <span class="n">m</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="n">urlParam</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s1">&#39;utf8&#39;</span><span class="p">))</span>
+        <span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_tile_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.png&quot;</span><span class="p">)):</span>
+            <span class="n">os</span><span class="o">.</span><span class="n">remove</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_tile_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.png&quot;</span><span class="p">))</span>
+        <span class="k">return</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_tile_cache_dir</span><span class="p">,</span> <span class="n">m</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span> <span class="o">+</span> <span class="s2">&quot;.png&quot;</span><span class="p">))</span>
+
+    <span class="k">def</span> <span class="nf">deleteCachedImages</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">project</span><span class="p">):</span>
+        <span class="n">filelist</span> <span class="o">=</span> <span class="p">[</span><span class="n">f</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">listdir</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_tile_cache_dir</span><span class="p">)</span> <span class="k">if</span> <span class="n">f</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s2">&quot;.png&quot;</span><span class="p">)]</span>
+        <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">filelist</span><span class="p">:</span>
+            <span class="n">os</span><span class="o">.</span><span class="n">remove</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_tile_cache_dir</span><span class="p">,</span> <span class="n">f</span><span class="p">))</span>
+        <span class="n">filelist</span> <span class="o">=</span> <span class="p">[</span><span class="n">f</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">listdir</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_tile_cache_dir</span><span class="p">)</span> <span class="k">if</span> <span class="n">f</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s2">&quot;.png&quot;</span><span class="p">)]</span>
+        <span class="k">return</span> <span class="nb">len</span><span class="p">(</span><span class="n">filelist</span><span class="p">)</span> <span class="o">==</span> <span class="mi">0</span>
+</pre></div>
+</div>
+<p>And the way to add it to the QGIS Server cache manager.</p>
+<p><code class="docutils literal notranslate"><span class="pre">servercache</span> <span class="pre">=</span> <span class="pre">PyServerCache(server_iface)</span> <span class="pre">server_iface.registerServerCache(servercache,</span> <span class="pre">100)</span></code></p>
+<p>This feature was funded by <a class="reference external" href="https://wwz.ifremer.fr/">Ifremer</a></p>
+<p>This feature was developed by <a class="reference external" href="https://3liz.com">3Liz</a></p>
+</section>
+<section id="feature-wmts-1-0-0-support">
+<h3><a class="toc-backref" href="#id75">Feature: WMTS 1.0.0 support</a><a class="headerlink" href="#feature-wmts-1-0-0-support" title="Permalink to this headline">¶</a></h3>
+<p>QGIS Server 3.4 supports WMTS 1.0.0 OGC standard.</p>
+<p>In QGIS project properties, the user can define:</p>
+<ul class="simple">
+<li><p>which part of the project (all the project, layer groups or layers) has to be published through WMTS standard</p></li>
+<li><p>the min scale of the tiles</p></li>
+</ul>
+<p>QGIS Server reuse the CRS defined in the WMS for WMTS.</p>
+<p>To manage the tile cache, a QGIS Server plugin with a QgsServerCacheFilter class has to be installed and loaded by QGIS Server.</p>
+<p><a class="reference external" href="images/entries/d0d72b47494e231b98bf3169fcbe34ca22d0624d.png"><img alt="image34" class="img-responsive img-rounded" src="../../../_images/d0d72b47494e231b98bf3169fcbe34ca22d0624d.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://wwz.ifremer.fr/">Ifremer</a></p>
+<p>This feature was developed by <a class="reference external" href="https://3liz.com">3Liz</a></p>
+</section>
+<section id="feature-add-ability-to-define-min-scale-for-wmts">
+<h3><a class="toc-backref" href="#id76">Feature: Add ability to define min. scale for WMTS</a><a class="headerlink" href="#feature-add-ability-to-define-min-scale-for-wmts" title="Permalink to this headline">¶</a></h3>
+<p>This feature was funded by <a class="reference external" href="https://github.com/rldhont">https://github.com/rldhont</a></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/rldhont">https://github.com/rldhont</a></p>
+</section>
+<section id="feature-support-qgis-server-logs-to-stderr">
+<h3><a class="toc-backref" href="#id77">Feature: Support QGIS Server logs to stderr</a><a class="headerlink" href="#feature-support-qgis-server-logs-to-stderr" title="Permalink to this headline">¶</a></h3>
+<p>It’s now possible to configure QGIS Server to make it write its logs to stderr.
+This is done by setting the QGIS_SERVER_LOG_FILE env var to the special value “stderr”.</p>
+<p>This feature was funded by <a class="reference external" href="https://oslandia.com">OSLANDIA</a></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/elemoine">Eric Lemoine</a></p>
+</section>
+</section>
+<section id="plugins">
+<h2><a class="toc-backref" href="#id78">Plugins</a><a class="headerlink" href="#plugins" title="Permalink to this headline">¶</a></h2>
+<section id="feature-support-for-encrypted-zips-in-the-plugin-manager">
+<h3><a class="toc-backref" href="#id79">Feature: Support for encrypted zips in the Plugin Manager</a><a class="headerlink" href="#feature-support-for-encrypted-zips-in-the-plugin-manager" title="Permalink to this headline">¶</a></h3>
+<p>Plugin Manager is now able to install plugins from local zip files even if encrypted.</p>
+<p><a class="reference external" href="images/entries/1bfc11325b9afa06d3196603749e1786f7922ffd.png"><img alt="image35" class="img-responsive img-rounded" src="../../../_images/1bfc11325b9afa06d3196603749e1786f7922ffd.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://github.com/borysiasty">Borys Jurgiel</a></p>
+<p>This feature was developed by <a class="reference external" href="https://github.com/borysiasty">Borys Jurgiel</a></p>
+</section>
+<section id="feature-offline-editing-geopackage">
+<h3><a class="toc-backref" href="#id80">Feature: Offline Editing GeoPackage</a><a class="headerlink" href="#feature-offline-editing-geopackage" title="Permalink to this headline">¶</a></h3>
+<p>With the offline editing functionality it is possible to select whether the export should create a SpatiaLite or a GeoPackage file for offline usage.</p>
+<p>This feature was funded by <a class="reference external" href="https://messtechnik.ch/">Oester Messtechnik</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.opengis.ch">David Signer (OPENGIS.ch)</a></p>
+</section>
+</section>
+<section id="programmability">
+<h2><a class="toc-backref" href="#id81">Programmability</a><a class="headerlink" href="#programmability" title="Permalink to this headline">¶</a></h2>
+<section id="feature-qgsspatialindexkdbush">
+<h3><a class="toc-backref" href="#id82">Feature: QgsSpatialIndexKDBush</a><a class="headerlink" href="#feature-qgsspatialindexkdbush" title="Permalink to this headline">¶</a></h3>
+<p>A very fast static spatial index for 2D points based on a flat KD-tree,
+using <a class="reference external" href="https://github.com/mourner/kdbush.hpp">https://github.com/mourner/kdbush.hpp</a></p>
+<p>Compared to QgsSpatialIndex, this index:
+- supports single point features only (no multipoints)
+- is static (features cannot be added or removed from the index after construction)
+- is much faster!
+- supports true “distance based” searches, i.e. return all points within a radius
+from a search point</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-qgsrasterdataprovider-sample-method-for-efficient-sampling-of-rasters-at-a-given-point">
+<h3><a class="toc-backref" href="#id83">Feature: QgsRasterDataProvider::sample method for efficient sampling of rasters at a given point</a><a class="headerlink" href="#feature-qgsrasterdataprovider-sample-method-for-efficient-sampling-of-rasters-at-a-given-point" title="Permalink to this headline">¶</a></h3>
+<p>This is an alternative to the <code class="docutils literal notranslate"><span class="pre">QgsRasterDataProvider::identify</span></code> method, which is less
+efficient but more powerful</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-new-geometry-api-call-to-return-a-curve-substring">
+<h3><a class="toc-backref" href="#id84">Feature: New geometry API call to return a curve substring</a><a class="headerlink" href="#feature-new-geometry-api-call-to-return-a-curve-substring" title="Permalink to this headline">¶</a></h3>
+<p>New PyQGIS API has been added to make it easy to retrieve a substring from a LineString/Curve geometry:</p>
+<p><code class="docutils literal notranslate"><span class="pre">QgsCurve::curveSubstring</span> <span class="pre">-</span>&#160; <span class="pre">Returns</span> <span class="pre">a</span> <span class="pre">new</span> <span class="pre">curve</span> <span class="pre">representing</span> <span class="pre">a</span> <span class="pre">substring</span> <span class="pre">of</span> <span class="pre">a</span> <span class="pre">curve,</span> <span class="pre">from</span> <span class="pre">a</span> <span class="pre">start</span> <span class="pre">distance</span> <span class="pre">and</span> <span class="pre">end</span> <span class="pre">distance.</span></code></p>
+<p>If z or m values are present, the output z and m will be interpolated using the existing vertices’ z or m values. The method also handles curved geometries without loss or segmentation.</p>
+<p>This feature was funded by <a class="reference external" href="https://north-road.com">North Road</a></p>
+<p>This feature was developed by <a class="reference external" href="https://north-road.com">Nyall Dawson (North Road)</a></p>
+</section>
+<section id="feature-sip-module-api-changes">
+<h3><a class="toc-backref" href="#id85">Feature: sip Module API Changes</a><a class="headerlink" href="#feature-sip-module-api-changes" title="Permalink to this headline">¶</a></h3>
+<p>Due to upstream changes within the PyQt/sip library, the recommended way to import this module has changed in QGIS 3.4. For maximum portability, instead of directly calling:
+<code class="docutils literal notranslate"><span class="pre">import</span> <span class="pre">sip</span></code>
+plugins should instead use:
+<code class="docutils literal notranslate"><span class="pre">from</span> <span class="pre">qgis.PyQt</span> <span class="pre">import</span> <span class="pre">sip</span></code>
+Using this newer style import will ensure that the code works correct across all platforms and remains functional in future QGIS versions.</p>
+</section>
+<section id="feature-python-vector-data-providers">
+<h3><a class="toc-backref" href="#id86">Feature: Python vector data providers</a><a class="headerlink" href="#feature-python-vector-data-providers" title="Permalink to this headline">¶</a></h3>
+<p>Development of the API, a sample provider and tests allowing the creation of vector data provider in pure python.</p>
+<p><a class="reference external" href="images/entries/dbae71a0ccad069280a263fabddf3452b8165ca3.jpg"><img alt="image36" class="img-responsive img-rounded" src="../../../_images/dbae71a0ccad069280a263fabddf3452b8165ca3.jpg" /></a></p>
+<p>This feature was funded by Good will</p>
+<p>This feature was developed by Alessandro Pasotti</p>
+</section>
+</section>
+<section id="d-features">
+<h2><a class="toc-backref" href="#id87">3D Features</a><a class="headerlink" href="#d-features" title="Permalink to this headline">¶</a></h2>
+<section id="feature-improved-navigation">
+<h3><a class="toc-backref" href="#id88">Feature: Improved navigation</a><a class="headerlink" href="#feature-improved-navigation" title="Permalink to this headline">¶</a></h3>
+<p>This will update camera’s view center as the camera moves around.
+Before the view center would be always at the zero elevation, which
+means that with terrain further away from zero elevation tilting
+and rotation of camera would feel weird due to the center point being
+far away.</p>
+<p>Allow moving camera up/down using page up/down keys</p>
+<p>Move camera keeping the position with Ctrl + arrow keys / mouse</p>
+<p><a class="reference external" href="images/entries/a1b22a29fc363ffc90be8f98a991913148164ef2.gif"><img alt="image37" class="img-responsive img-rounded" src="../../../_images/a1b22a29fc363ffc90be8f98a991913148164ef2.gif" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.lutraconsulting.co.uk/crowdfunding/more-qgis-3d/">QGIS community through crowd-funding</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Martin Dobias (Lutra Consulting)</a></p>
+</section>
+<section id="feature-animation">
+<h3><a class="toc-backref" href="#id89">Feature: Animation</a><a class="headerlink" href="#feature-animation" title="Permalink to this headline">¶</a></h3>
+<p>You can create an animation based on a set of keyframes - camera positions at particular times. QGIS 3D then interpolates the camera positions/rotations in between the keyframes.</p>
+<p>To create the keyframes, first set the scene for your map, by rotating, zooming or moving the camera. Then assign a time to the frame. There are several methods for interpolations between keyframes.</p>
+<p><a class="reference external" href="images/entries/006592e0cf0245a829d451988d178c5f07ce5560.gif"><img alt="image38" class="img-responsive img-rounded" src="../../../_images/006592e0cf0245a829d451988d178c5f07ce5560.gif" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.lutraconsulting.co.uk/crowdfunding/more-qgis-3d/">QGIS community through crowd-funding</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Martian Dobias (Lutra Consulting)</a></p>
+</section>
+<section id="feature-simple-rendering-of-3d-linestrings">
+<h3><a class="toc-backref" href="#id90">Feature: Simple rendering of 3D linestrings</a><a class="headerlink" href="#feature-simple-rendering-of-3d-linestrings" title="Permalink to this headline">¶</a></h3>
+<p>This mode of 3D line rendering will use OpenGL line rendering
+instead of buffering lines into polygons and rendering them as meshes.</p>
+<p>The advantage is that the 3D lines do not loose their Z coordinate
+which is the case currently with “ordinary” 3D rendering after buffering.</p>
+<p>The disadvantage is that the lines cannot be wide (supported in Qt3D only
+since 5.10, but even then their rendering won’t have nice joins/caps)
+and only ambient color is used from the material.</p>
+<p><a class="reference external" href="images/entries/d28d6a8023fa5fbd306f6b31f0545ff71112009f.png"><img alt="image39" class="img-responsive img-rounded" src="../../../_images/d28d6a8023fa5fbd306f6b31f0545ff71112009f.png" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Lutra Consulting</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Martin Dobias (Lutra Consulting)</a></p>
+</section>
+<section id="feature-identification-map-tool-for-3d-views">
+<h3><a class="toc-backref" href="#id91">Feature: Identification map tool for 3D views</a><a class="headerlink" href="#feature-identification-map-tool-for-3d-views" title="Permalink to this headline">¶</a></h3>
+<p>A new Identify Tool was introduced to 3D map. Using this tool, you can inspect features from the 3D scene.</p>
+<p><a class="reference external" href="images/entries/88fc4584f5ec10e1112813c133bf40f481af9e88.gif"><img alt="image40" class="img-responsive img-rounded" src="../../../_images/88fc4584f5ec10e1112813c133bf40f481af9e88.gif" /></a></p>
+<p>This feature was funded by <a class="reference external" href="https://www.faunalia.eu/en/">Department of Environment, Land and Infrastructure Engineering (DIATI)</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk">Martin Dobias (Lutra Consulting)</a> and <a class="reference external" href="https://www.faunalia.eu">Faunalia</a></p>
+</section>
+<section id="feature-experimental-python-api">
+<h3><a class="toc-backref" href="#id92">Feature: Experimental Python API</a><a class="headerlink" href="#feature-experimental-python-api" title="Permalink to this headline">¶</a></h3>
+<p>Some classes from QGIS 3D have been made available for Python developers. It is now possible to query or change 3D renderers of map layers and read/write properties of contained 3D symbols such as material colors. Please note that for now the API is considered as experimental, so it may change in future 3.x releases.</p>
+<p>This feature was funded by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Lutra Consulting</a></p>
+<p>This feature was developed by <a class="reference external" href="https://www.lutraconsulting.co.uk/">Martin Dobias (Lutra Consulting)</a></p>
+</section>
+</section>
+</section>
+
+                        
+                    
+                </div>
+                  
+            </div>
+        </div>
+    
+
+    <!--<a href="https://github.com/qgis/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10000;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>-->
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="../visualchangelog32/index.html" title="Changelog for QGIS 3.2"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="../visualchangelog36/index.html" title="Changelog for QGIS 3.6"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../index.html" >For Users</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="../visualchangelogs.html" >Visual Changelogs</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Changelog for QGIS 3.4 LTR</a></li> 
+      </ul>
+    </div>
+  <footer class="footer">
+
+    <div class="container">
+        <div>
+          <ul class="unstyled inline" id="social">
+            <li id="twitter"><a href="http://twitter.com/qgis" class="external"><div></div></a></li>
+            <li id="facebook"><a href="https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096" class="external"><div></div></a></li>
+            <li id="github"><a href="http://github.com/qgis/" class="external"><div></div></a></li>
+            <li id="aboutcontact"><a href="../../getinvolved/index.html"><div></div></a></li>
+          </ul>
+        </div>
+
+        <p class="credit">If not stated otherwise, all content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a></p>
+    </div>
+    <div class="container">
+      <p class="credit">
+        Select graphics from <a href="https://thenounproject.com" target="_blank">The Noun Project collection</a>
+        
+        
+      </p>
+      <p class="credit">
+        Untranslated page? Or you spot a translation error:
+        <a id="fix_translation_link" target="_blank" href="https://www.transifex.com/projects/p/qgis-website/">fix me</a>
+        <br/>
+        Textual error, missing text or you know better:
+        <a id="fix_text_link" target="_blank" href="https://github.com/qgis/QGIS-Website">fix me</a>
+      </p>
+    </div>
+  </footer>
+
+  </body>
+</html>

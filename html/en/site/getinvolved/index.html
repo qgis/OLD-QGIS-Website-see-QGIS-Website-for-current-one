@@ -1,0 +1,655 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Get Involved / Development</title>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/basic.css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/qgis-style.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-sphinx.css" type="text/css" />
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/qgis-site.js"></script>
+    <script src="../../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script src="../../_static/jquery.countdown-2.0.4/jquery.countdown.min.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Write Documentation" href="document.html" />
+    <link rel="prev" title="Books" href="../forusers/books/index.html" />
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="document.html" title="Write Documentation"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="../forusers/books/index.html" title="Books"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html"></a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Get Involved / Development</a></li> 
+      </ul>
+    </div>
+
+    
+  <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="../index.html">QGIS</a>
+        <span class="navbar-text pull-left"><p><b>3.26.2 ​ <br/> 3.22.10 LTR</b></p></span>
+        
+          <select id="languages">
+  <!-- note on the options here: the 'title' string is to be translated in your
+  language, but the element text is supposed to stay in native lang/txt -->
+  <option value="en" title="English">English</option>
+  <option value="ca" title="Catalan">Català</option>
+  <option value="da" title="Danish">Dansk</option>
+  <option value="de" title="German">Deutsch</option>
+  <option value="es" title="Spanish">Español</option>
+  <option value="fa" title="Persian">فارسی</option>
+  <option value="fi" title="Finnish">Suomi</option>
+  <option value="fr" title="French">Français</option>
+  <option value="gl" title="Galician">Galego</option>
+  <option value="id" title="Indonesian">Bahasa Indonesia</option>
+  <option value="it" title="Italian">Italiano</option>
+  <option value="hu" title="Hungarian">Magyar</option>
+  <option value="ja" title="Japanese">日本語</option>
+  <option value="km_KH" title="Khmer">ភាសាខ្មែរ    </option>
+  <option value="ko" title="Korean">한국어</option>
+  <option value="lt" title="Lithuanian">Lietuvių</option>
+  <option value="nl" title="Dutch">Nederlands</option>
+  <option value="pl" title="Polish">Polski</option>
+  <option value="pt_BR" title="Portuguesei (Brazil)">Português (Brasil)</option>
+  <option value="pt_PT" title="Portuguese">Português</option>
+  <option value="ro" title="Romanian">Română</option>
+  <option value="tr" title="Turkish">Türkçe</option>
+  <option value="ru" title="Russian">Русский</option>
+  <option value="uk" title="Ukrainian">Українська</option>
+  <option value="zh-Hans" title="Chinese (Simplified)">简体中文</option>
+  <option value="zh-Hant" title="Chinese (Traditional)">繁體中文</option>
+</select>
+
+<script>
+    var currentPage = 'site/getinvolved/index.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    // split index.html if currentUrl is ended by '/'
+    var currentUrl = window.location.href;
+    if (currentUrl.slice(-1) == '/' && currentPage.slice(-1) != '/'){
+      var pages = currentPage.split('/');
+      pages.pop();
+      currentPage = pages.join('/') + '/';
+    }
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        // it's possible this is the index.html page called without 'index.html', try without the currentPage
+        if (langPlusPage==undefined){
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // it's possible this is an index.html page called without 'index.html', try removing index.html
+        if (langPlusPage==undefined){
+            currentPage = currentPage.replace('index.html','')
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // still no langPlugPage: stop, because the language swicher will misbehave
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+        // TODO: links should come from conf.py
+        // TODO: all template pages have the actual translation in sphinc.conf
+        // IMPORTANT: space, -, _ etc replacing below must be 100% inline with
+        // code in scripts/create_transifex_resources.sh !!
+        // https://github.com/qgis/QGIS-Website/blob/master/scripts/create_transifex_resources.sh
+        fix_translation_link = 'https://www.transifex.com/projects/p/qgis-website/translate/#' + 
+            currentLang.slice(1) + currentPage.replace(/_/g, "-").replace(/ /g, "-").replace(/\//g, "_").replace(/\.html/g, "").replace(/\./g, "-")
+        if ('/en/' != currentLang) {
+            $('#fix_translation_link').attr('href', fix_translation_link);
+        }
+        fix_text_link = 'https://github.com/qgis/QGIS-Website/edit/master/source/' +
+            currentPage.replace(/.html/g, ".rst")
+        // TODO: only on rst pages, here a list of pages which are actual templates?
+        if (true){
+            $('#fix_text_link').attr('href', fix_text_link);
+        }
+
+        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
+
+        $("#languages").change(function() {
+            gotoLang($(this).val());
+        });
+
+        if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
+        }
+        else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
+            // crontab is pulling url's below and copy to /feed at qgis.org
+            // https://changelog.qgis.org/en/qgis/members/json/
+            json2html('/feeds/members.json', '#qgissustainingmembersatom', 1000, true, 'span3');
+            // https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2
+            json2html('/feeds/qgispastmembers.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
+        }
+        else if (currentPage == "site/forusers/download.html"){
+            $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
+            '<h2>Thank you!</h2> <p/>'+
+            '<div class="container"><div class="span8">'+
+            '<p>Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href="https://donate.qgis.org/">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!</p>'+
+            '<p>The QGIS Team</p>'+
+            '</div><div class="container">'+
+            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="https://donate.qgis.org/">Donate Now</a></p><p class="muted"></p></div>'+
+            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">Close this message</a></p><p class="muted"></p></div>'+
+            '</div>'+
+            '<br/><p><img src="../../_static/images/splash.png"/></p></div>');
+            $('#thankyou').click(function(){ $('#thankyou').hide(); });
+            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
+            $('a.reference').click(function(){
+                $('#thankyou').show();
+                return true;
+            });
+        }
+        else if (currentPage == "site/forusers/alldownloads.html"){
+	    replacesha('qgis-rel-dev');
+	    replacesha('qgis-ltr-dev');
+	    replacesha('qgis-dev');
+        }
+    });
+
+    //
+    // load current page in a different language
+    //
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+    //
+    // function to load a json (feed) and create html for it
+    // currently only used for sustaining members
+    //
+    function json2html(url, holder, count, showcont, spanclass){
+        var html = '';
+        $.getJSON(url, function (data) {
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+
+            $.each( data.rss.channel.item, function( key, val ){
+              var item = val;
+              var imglink = '#';
+              var link = '#';
+              var content = '';
+              var member_level = 'Small';
+              if (item.member_url){link=item.member_url};
+              if (item.image_url){imglink=item.image_url};
+              if (item.member_level){member_level=item.member_level};
+              var title = item.title;
+              content = '<div><img class="member_img '+member_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="member_body '+member_level.toLowerCase()+'">'+item.member_country+'<br/>Membership level: '+member_level+'<br/>'+
+                '('+item.start_date+' - '+item.end_date+')</p>';
+              html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+              html+='<div class="memberdiv"><h4>'+title+'</h4>';
+              html+=content;
+              html+='</div></a></div>';
+            })
+          $(holder).append(html);
+        })
+    }
+    //
+    // function to load an atom feed, an put it in an element
+    //
+    function atom(url, holder, count, showcont, spanclass){
+        $.get(url, function (data) {
+            var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+            $(data).find("entry").each(function () {
+                var el = $(this);
+                var title = el.find('title').text();
+                var author = el.find('name').text();
+                var content = el.find('content').text();
+                if (content.length==0){
+                    // try summary
+                    content = el.find('summary').text();
+                }
+                var imglink='#';
+                var link='#';
+                el.find('link').each(
+                    function(){
+                        // flickr image for maps and qgis screenshots
+                        if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
+                            imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
+                        }
+                        // links
+                        else if ($(this).attr('rel') == 'alternate'){
+                            link = $(this).attr('href');
+                        }
+                    }
+                )
+                counter++;
+
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
+                    // html for flickr maps
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
+                    html+='</a></p></div>\n';
+                }
+                else if (counter<=maxitems){
+                    // visual changelogs, qugs feed and planet feed
+                    var addit = true;
+                    if (holder == '#qgisplanetatom'){
+                        var s = title.split(':');
+                        title = s[0];
+                        content = s[1];
+                        // skip blog.qgis.org posts
+                        if (link.indexOf('blog.qgis.org')>=0){
+                            addit = false;
+                            counter --;
+                        }
+                    }
+                    else if (holder == '#qgissustainingmembersatom' || holder == '#qgissustainingmembersatom'){
+                        html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+                        html+='<div class="memberdiv"><h4>'+title+'</h4>';
+                        html+=content;
+                        html+='</div></a></div>';
+                        addit = false; // we are building html ourselves!!
+                    }
+                    else if (holder == '#qgisblogatom'){
+                        var s = title.split(':');
+                        if (s[0] != 'QGIS Project blog'){
+                            addit = false;
+                            counter--;
+                        }
+                        // trying to extract date from link
+                        // http://blog.qgis.org/2017/09/02/do-you-want-to-host-a-qgis-developer-meeting/
+                        d = link.split('/').slice(3,6);  // 2017,09,02
+                        title = '<img src="../_static/logo.png" style="width:30px;"/> - ' + d[0] + '/' + d[1] + '/' + d[2] + ' - ' + s[1];
+                        content = '';
+                    }
+                    if (addit){
+                        html+='<a class="external" href="'+link+'">';
+                        html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
+                        if (showcontent) { html+=content; };
+                        html+='</div></a>\n';
+                    }
+                }
+            });
+            $(holder).append(html);
+        });
+    }
+
+    //
+    // function to replace a item
+    //
+    function replacesha(id) {
+      var xhr = new XMLHttpRequest();
+      xhr.onload = function () {
+	var sha = this.responseText.substring(this.responseText.indexOf(':')+1);
+        document.getElementById(id).innerHTML = "<a target=\"_new\" href=\"http://github.com/qgis/QGIS/commit/" + sha + "\">" + sha + "</a>";
+      };
+      xhr.open('GET', '/downloads/' + id + '.sha');
+      xhr.send();
+    }
+</script>
+        
+        <div class="nav-collapse collapse">
+          <ul class="unstyled nav main-menu">
+            <li><a href="../about/index.html">Discover QGIS</a></li>
+            <li><a href="../forusers/index.html">For Users</a></li>
+            <li><a href="#">Get Involved</a></li>
+            <li><a href="../../docs/index.html">Documentation</a></li>
+            <li>
+          
+<form class="navbar-search" action="../../search.html" method="get">
+  <input type="text" name="q" class="search-query" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div style="display:none;" class="container" id="nextprev" >
+    
+    <a accesskey="p" href="../forusers/books/index.html">&lt;&lt; prev</a>
+    
+    
+    <a accesskey="n" href="document.html">next &gt;&gt;</a>
+    
+    </div>
+
+
+
+
+    
+        <div class="container">
+            <div class="row">
+      <div class="span4">
+        <div id="sidebar" class="bs-sidenav well" data-spy="scroll"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../about/index.html">Discover QGIS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../forusers/index.html">For Users</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Get Involved / Development</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="document.html">Write Documentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="translate.html">Translation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="development/index.html">Development</a></li>
+<li class="toctree-l2"><a class="reference internal" href="tests.html">Tests</a></li>
+<li class="toctree-l2"><a class="reference internal" href="daily_reports/index.html">Daily Reports</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://plugins.qgis.org">Plugins website</a></li>
+<li class="toctree-l2"><a class="reference internal" href="mailinglists.html">Mailing lists</a></li>
+<li class="toctree-l2"><a class="reference internal" href="governance/index.html">Project Organisation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings/index.html">Meetings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="governance/sustaining_members/index.html">Sustaining Membership Program</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://donate.qgis.org">Donations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="certification.html">Certification</a></li>
+<li class="toctree-l2"><a class="reference internal" href="faq/index.html">FAQ</a></li>
+<li class="toctree-l2"><a class="reference internal" href="styleguide.html">Visual Style Guide</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../docs/index.html">Documentation</a></li>
+</ul>
+
+        </div>
+      </div>
+                <div class="span8">
+                    
+                        
+                            <div class="getinvolved" id="color-identifier"></div>
+
+<section class="sub-landing-page" id="top">
+    <div class="container-fluid banner">
+        <div class="row-fluid">
+            <div class="span12">
+                <h2>Get Involved in the QGIS Community</h2>
+                <p>QGIS is developed by a team of dedicated volunteers and 
+                organisations. We strive to be a welcoming community for
+                people of all race, creed, gender and walks of life. </p>
+
+                <p><strong>You can get involved!</strong></p>
+
+                <p>For more information, please read our 
+                <a href="governance/codeofconduct/diversitystatement.html">diversity statement</a>
+                and
+                <a href="governance/codeofconduct/codeofconduct.html">code of conduct</a>.
+                </p>
+
+
+
+            </div>
+            <!--<div class="span1"></div>
+            <div class="span4">
+                <img src='../../_static/images/get-involved-top.png' class="text-center background-mask non-mobile-image overflow-img" alt="get involved garden icon" width="100%" />
+            </div>
+            <div class="span1"></div>-->
+        </div>
+    </div>
+</section>
+<section class="sub-landing-page menu">
+    <div class="container-fluid">
+        <div class="row-fluid">
+            <div class="span12">
+                <nav class="subnav">
+                    <header>
+                        <h3>GET INVOLVED</h3>
+                    </header>
+<!--
+                    <ul id="subnav">
+                        <li>
+                            <a href="#bugs">Report Bugs</a>
+                        </li>
+                        <li>
+                            <a href="#participate">Participate in Support</a>
+                        </li>
+                        <li>
+                            <a href="#translate">Translate</a>
+                        </li>
+                        <li>
+                            <a href="#plugin">Develop a Plugin</a>
+                        </li>
+                        <li>
+                            <a href="#core">Develop QGIS Core</a>
+                        </li>
+                        <li>
+                            <a href="https://donate.qgis.org/">Sponsor & Donate</a>
+                        </li>
+                    </ul>
+-->
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="sub-landing-page main" id="participate">
+    <div class="container-fluid">
+        <div class="row-fluid" id="bugs">
+            <div class="span3">
+                <img src='../../_static/images/about-features.png' class="text-center background-mask non-mobile-image wd" alt="features icon" />
+            </div>
+            <div class="span1"></div>
+            <div class="span8">
+                <h3>Report Bugs</h3>
+                <p>If you find an issue working with QGIS, please </p>
+                <h4 class="subsection-link">
+                    <a href="development/bugreporting.html#bugs-features-and-issues">report it</a>
+                </h4>
+                <p>so developers can check and fix it.  </p>
+            </div>
+        </div>
+        <hr>    
+        <div class="row-fluid">
+            <div class="span8">
+                <h3>Participate in Support Channels</h3>
+                <p>There are several 
+                    <ul>
+                    <li><a href="../forusers/support.html#mailing-lists">QGIS mailing lists</a>,</li>
+                    <li><a href="../forusers/support.html#chat">IRC chats</a>,</li>
+                    <li><a href="../forusers/support.html#forums">forums</a>, and</li>
+                    <li><a href="../forusers/support.html#user-groups">user groups</a></li>
+                    </ul>
+                    you can use to get help from fellow users and developers, or to keep up with current project events.
+                    You are welcome to subscribe to any of the lists. Please remember to contribute to the list by
+                    answering questions and sharing your experiences. We also provide a 
+                    <a href="../forusers/support.html#searchable-mailing-lists">website to search the mailing list archives</a>.
+                    For the full list see
+                </p>
+                <h4 class="subsection-link"><a href="../forusers/support.html">our community support channels page</a></h4>
+            </div>
+            <div class="span1"></div>
+            <div class="span3">
+                <img src='../../_static/images/get-involved-participate.png' class="text-center background-mask non-mobile-image wd" alt="participate icon" />
+            </div>
+        </div>
+        <hr>
+      <div class="row-fluid" id="document">
+            <div class="span3">
+                <img src='../../_static/images/get-involved-document.png' class="text-center background-mask non-mobile-image wd" alt="translate bubbles icon" />
+            </div>
+            <div class="span1"></div>
+            <div class="span8">
+                <h3>Document QGIS</h3>
+                <p>The QGIS project aims to provide clear documentation concerning a User guide, GIS concepts, and training material. Writing documentation provides an ideal platform for your first contribution to the project. If you want to join to the documentation effort, you can find a gentle introduction and guidelines here:</p>
+                <h4 class="subsection-link">
+                    <a href="document.html">Write Documentation</a>
+                </h4>
+            </div>
+        </div>
+        <hr>
+        <div class="row-fluid" id="translate"> 
+            <div class="span8">
+                <h3>Translate QGIS</h3>
+                <p>The QGIS project provides a gentle GIS introduction, a User Guide, a Coding and Compilation Guide and a API Documentation in english and in some cases also translated into several foreign languages. If you are interested in getting involved with the documentation effort, e.g. translating the english manual into another language, learn how to get started here:</p>
+                <h4 class="subsection-link">
+                    <a href="translate.html">Translate QGIS into your Language</a>
+                </h4>
+            </div>
+			<div class="span1"></div>
+			  <div class="span3">
+                <img src='../../_static/images/get-involved-translate.png' class="text-center background-mask non-mobile-image wd" alt="translate bubbles icon" />
+            </div>
+        </div>
+        <hr>
+        <div class="row-fluid" id="plugin">
+            <div class="span3">
+                <img src='../../_static/images/get-involved-plugin.png' class="text-center background-mask non-mobile-image wd" alt="plugins puzzle icon" />
+            </div>           
+			<div class="span1"></div>
+		    <div class="span8">
+                <h3>Develop a Plugin</h3>
+                <p>Want to write your own Python plugin? Go here:  <a href="http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/" >Developing Python plugins</a>
+                <p>Want to develop a C++ plugin? Go here:  <a href="development/development.html#developing-c-plugin" >Developing CPP plugins</a>.
+                <p>A wide range of great plugins exist for QGIS via the  <a href="http://plugins.qgis.org" target="_blank">QGIS Plugin web portal</a>.
+            </div>
+        </div>
+        <hr>
+        <div class="row-fluid" id="core">
+           <div class="span8">
+                <h3>Develop QGIS Core</h3>
+                <p>QGIS Core consists on the one hand of the libraries enabling you to build custom tailored application by  providing a powerful API. On the other hand it consists of a desktop and server application which expose the possibilities offered by the libraries, offering a user friendly interface.</p>
+                <h4 class="subsection-link">
+                    <a href="development/development.html">Get Set Up for QGIS Core Development</a>
+                </h4>
+                <h4 class="subsection-link">
+                    <a href="development/roadmap.html#release-schedule">QGIS roadmap</a>
+                </h4>
+            </div>
+			<div class="span1"></div>
+			<div class="span3">
+                <img src='../../_static/images/get-involved-core.png' class="text-center background-mask non-mobile-image wd" alt="core gears icon" />
+            </div>
+        </div>
+        <hr>
+        <div class="row-fluid" id="donate">
+		    <div class="span3">
+                <img src='../../_static/images/get-involved-donate.png' class="text-center background-mask non-mobile-image wd" alt="donate icon" />
+            </div>
+			<div class="span1"></div>
+            <div class="span8">
+                <h3>Sustain & Donate</h3>
+                <p>There are two kinds of financial contributions, we accept:</p>
+                <p><strong>Sustaining memberships:</strong>  annual commitments of funds to the project - <a href="governance/sustaining_members/index.html">more information and a list of our sustaining members</a></p>
+                <p><strong>Donations:</strong>  one-time financial contributions to the project - we accept <a href="https://donate.qgis.org/">donations via a variety of channels</a></p>
+            </div>
+            
+            
+        </div>
+    </div>
+</section>
+<section class="sub-landing-page">
+    <div class="container-fluid banner">
+        <div class="row-fluid">
+            <div class="offset5 span2">
+                <h5 class="text-center">
+                    <a href="#top"> <i class="icon-arrow-up"></i>
+                        Back to Top
+                    </a>
+                </h5>
+            </div>
+            <div class="span5"></div>
+        </div>
+    </div>
+</section>
+                        
+                    
+                </div>
+                  
+            </div>
+        </div>
+    
+
+    <!--<a href="https://github.com/qgis/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10000;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>-->
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="document.html" title="Write Documentation"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="../forusers/books/index.html" title="Books"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html"></a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Get Involved / Development</a></li> 
+      </ul>
+    </div>
+  <footer class="footer">
+
+    <div class="container">
+        <div>
+          <ul class="unstyled inline" id="social">
+            <li id="twitter"><a href="http://twitter.com/qgis" class="external"><div></div></a></li>
+            <li id="facebook"><a href="https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096" class="external"><div></div></a></li>
+            <li id="github"><a href="http://github.com/qgis/" class="external"><div></div></a></li>
+            <li id="aboutcontact"><a href="#"><div></div></a></li>
+          </ul>
+        </div>
+
+        <p class="credit">If not stated otherwise, all content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a></p>
+    </div>
+    <div class="container">
+      <p class="credit">
+        Select graphics from <a href="https://thenounproject.com" target="_blank">The Noun Project collection</a>
+        
+        
+      </p>
+      <p class="credit">
+        Untranslated page? Or you spot a translation error:
+        <a id="fix_translation_link" target="_blank" href="https://www.transifex.com/projects/p/qgis-website/">fix me</a>
+        <br/>
+        Textual error, missing text or you know better:
+        <a id="fix_text_link" target="_blank" href="https://github.com/qgis/QGIS-Website">fix me</a>
+      </p>
+    </div>
+  </footer>
+
+  </body>
+</html>

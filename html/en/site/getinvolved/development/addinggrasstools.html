@@ -1,0 +1,737 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Adding GRASS Tools</title>
+    <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/basic.css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/qgis-style.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-sphinx.css" type="text/css" />
+    <script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
+    <script src="../../../_static/jquery.js"></script>
+    <script src="../../../_static/underscore.js"></script>
+    <script src="../../../_static/doctools.js"></script>
+    <script src="../../../_static/qgis-site.js"></script>
+    <script src="../../../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script src="../../../_static/jquery.countdown-2.0.4/jquery.countdown.min.js"></script>
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="Tests" href="../tests.html" />
+    <link rel="prev" title="Development in QGIS" href="development.html" />
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="../tests.html" title="Tests"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="development.html" title="Development in QGIS"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../index.html" >Get Involved / Development</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="index.html" accesskey="U">Development</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Adding GRASS Tools</a></li> 
+      </ul>
+    </div>
+
+    
+  <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="../../index.html">QGIS</a>
+        <span class="navbar-text pull-left"><p><b>3.26.2 ​ <br/> 3.22.10 LTR</b></p></span>
+        
+          <select id="languages">
+  <!-- note on the options here: the 'title' string is to be translated in your
+  language, but the element text is supposed to stay in native lang/txt -->
+  <option value="en" title="English">English</option>
+  <option value="ca" title="Catalan">Català</option>
+  <option value="da" title="Danish">Dansk</option>
+  <option value="de" title="German">Deutsch</option>
+  <option value="es" title="Spanish">Español</option>
+  <option value="fa" title="Persian">فارسی</option>
+  <option value="fi" title="Finnish">Suomi</option>
+  <option value="fr" title="French">Français</option>
+  <option value="gl" title="Galician">Galego</option>
+  <option value="id" title="Indonesian">Bahasa Indonesia</option>
+  <option value="it" title="Italian">Italiano</option>
+  <option value="hu" title="Hungarian">Magyar</option>
+  <option value="ja" title="Japanese">日本語</option>
+  <option value="km_KH" title="Khmer">ភាសាខ្មែរ    </option>
+  <option value="ko" title="Korean">한국어</option>
+  <option value="lt" title="Lithuanian">Lietuvių</option>
+  <option value="nl" title="Dutch">Nederlands</option>
+  <option value="pl" title="Polish">Polski</option>
+  <option value="pt_BR" title="Portuguesei (Brazil)">Português (Brasil)</option>
+  <option value="pt_PT" title="Portuguese">Português</option>
+  <option value="ro" title="Romanian">Română</option>
+  <option value="tr" title="Turkish">Türkçe</option>
+  <option value="ru" title="Russian">Русский</option>
+  <option value="uk" title="Ukrainian">Українська</option>
+  <option value="zh-Hans" title="Chinese (Simplified)">简体中文</option>
+  <option value="zh-Hant" title="Chinese (Traditional)">繁體中文</option>
+</select>
+
+<script>
+    var currentPage = 'site/getinvolved/development/addinggrasstools.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    // split index.html if currentUrl is ended by '/'
+    var currentUrl = window.location.href;
+    if (currentUrl.slice(-1) == '/' && currentPage.slice(-1) != '/'){
+      var pages = currentPage.split('/');
+      pages.pop();
+      currentPage = pages.join('/') + '/';
+    }
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        // it's possible this is the index.html page called without 'index.html', try without the currentPage
+        if (langPlusPage==undefined){
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // it's possible this is an index.html page called without 'index.html', try removing index.html
+        if (langPlusPage==undefined){
+            currentPage = currentPage.replace('index.html','')
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // still no langPlugPage: stop, because the language swicher will misbehave
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+        // TODO: links should come from conf.py
+        // TODO: all template pages have the actual translation in sphinc.conf
+        // IMPORTANT: space, -, _ etc replacing below must be 100% inline with
+        // code in scripts/create_transifex_resources.sh !!
+        // https://github.com/qgis/QGIS-Website/blob/master/scripts/create_transifex_resources.sh
+        fix_translation_link = 'https://www.transifex.com/projects/p/qgis-website/translate/#' + 
+            currentLang.slice(1) + currentPage.replace(/_/g, "-").replace(/ /g, "-").replace(/\//g, "_").replace(/\.html/g, "").replace(/\./g, "-")
+        if ('/en/' != currentLang) {
+            $('#fix_translation_link').attr('href', fix_translation_link);
+        }
+        fix_text_link = 'https://github.com/qgis/QGIS-Website/edit/master/source/' +
+            currentPage.replace(/.html/g, ".rst")
+        // TODO: only on rst pages, here a list of pages which are actual templates?
+        if (true){
+            $('#fix_text_link').attr('href', fix_text_link);
+        }
+
+        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
+
+        $("#languages").change(function() {
+            gotoLang($(this).val());
+        });
+
+        if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
+        }
+        else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
+            // crontab is pulling url's below and copy to /feed at qgis.org
+            // https://changelog.qgis.org/en/qgis/members/json/
+            json2html('/feeds/members.json', '#qgissustainingmembersatom', 1000, true, 'span3');
+            // https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2
+            json2html('/feeds/qgispastmembers.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
+        }
+        else if (currentPage == "site/forusers/download.html"){
+            $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
+            '<h2>Thank you!</h2> <p/>'+
+            '<div class="container"><div class="span8">'+
+            '<p>Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href="https://donate.qgis.org/">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!</p>'+
+            '<p>The QGIS Team</p>'+
+            '</div><div class="container">'+
+            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="https://donate.qgis.org/">Donate Now</a></p><p class="muted"></p></div>'+
+            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">Close this message</a></p><p class="muted"></p></div>'+
+            '</div>'+
+            '<br/><p><img src="../../../_static/images/splash.png"/></p></div>');
+            $('#thankyou').click(function(){ $('#thankyou').hide(); });
+            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
+            $('a.reference').click(function(){
+                $('#thankyou').show();
+                return true;
+            });
+        }
+        else if (currentPage == "site/forusers/alldownloads.html"){
+	    replacesha('qgis-rel-dev');
+	    replacesha('qgis-ltr-dev');
+	    replacesha('qgis-dev');
+        }
+    });
+
+    //
+    // load current page in a different language
+    //
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+    //
+    // function to load a json (feed) and create html for it
+    // currently only used for sustaining members
+    //
+    function json2html(url, holder, count, showcont, spanclass){
+        var html = '';
+        $.getJSON(url, function (data) {
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+
+            $.each( data.rss.channel.item, function( key, val ){
+              var item = val;
+              var imglink = '#';
+              var link = '#';
+              var content = '';
+              var member_level = 'Small';
+              if (item.member_url){link=item.member_url};
+              if (item.image_url){imglink=item.image_url};
+              if (item.member_level){member_level=item.member_level};
+              var title = item.title;
+              content = '<div><img class="member_img '+member_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="member_body '+member_level.toLowerCase()+'">'+item.member_country+'<br/>Membership level: '+member_level+'<br/>'+
+                '('+item.start_date+' - '+item.end_date+')</p>';
+              html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+              html+='<div class="memberdiv"><h4>'+title+'</h4>';
+              html+=content;
+              html+='</div></a></div>';
+            })
+          $(holder).append(html);
+        })
+    }
+    //
+    // function to load an atom feed, an put it in an element
+    //
+    function atom(url, holder, count, showcont, spanclass){
+        $.get(url, function (data) {
+            var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+            $(data).find("entry").each(function () {
+                var el = $(this);
+                var title = el.find('title').text();
+                var author = el.find('name').text();
+                var content = el.find('content').text();
+                if (content.length==0){
+                    // try summary
+                    content = el.find('summary').text();
+                }
+                var imglink='#';
+                var link='#';
+                el.find('link').each(
+                    function(){
+                        // flickr image for maps and qgis screenshots
+                        if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
+                            imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
+                        }
+                        // links
+                        else if ($(this).attr('rel') == 'alternate'){
+                            link = $(this).attr('href');
+                        }
+                    }
+                )
+                counter++;
+
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
+                    // html for flickr maps
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
+                    html+='</a></p></div>\n';
+                }
+                else if (counter<=maxitems){
+                    // visual changelogs, qugs feed and planet feed
+                    var addit = true;
+                    if (holder == '#qgisplanetatom'){
+                        var s = title.split(':');
+                        title = s[0];
+                        content = s[1];
+                        // skip blog.qgis.org posts
+                        if (link.indexOf('blog.qgis.org')>=0){
+                            addit = false;
+                            counter --;
+                        }
+                    }
+                    else if (holder == '#qgissustainingmembersatom' || holder == '#qgissustainingmembersatom'){
+                        html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+                        html+='<div class="memberdiv"><h4>'+title+'</h4>';
+                        html+=content;
+                        html+='</div></a></div>';
+                        addit = false; // we are building html ourselves!!
+                    }
+                    else if (holder == '#qgisblogatom'){
+                        var s = title.split(':');
+                        if (s[0] != 'QGIS Project blog'){
+                            addit = false;
+                            counter--;
+                        }
+                        // trying to extract date from link
+                        // http://blog.qgis.org/2017/09/02/do-you-want-to-host-a-qgis-developer-meeting/
+                        d = link.split('/').slice(3,6);  // 2017,09,02
+                        title = '<img src="../_static/logo.png" style="width:30px;"/> - ' + d[0] + '/' + d[1] + '/' + d[2] + ' - ' + s[1];
+                        content = '';
+                    }
+                    if (addit){
+                        html+='<a class="external" href="'+link+'">';
+                        html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
+                        if (showcontent) { html+=content; };
+                        html+='</div></a>\n';
+                    }
+                }
+            });
+            $(holder).append(html);
+        });
+    }
+
+    //
+    // function to replace a item
+    //
+    function replacesha(id) {
+      var xhr = new XMLHttpRequest();
+      xhr.onload = function () {
+	var sha = this.responseText.substring(this.responseText.indexOf(':')+1);
+        document.getElementById(id).innerHTML = "<a target=\"_new\" href=\"http://github.com/qgis/QGIS/commit/" + sha + "\">" + sha + "</a>";
+      };
+      xhr.open('GET', '/downloads/' + id + '.sha');
+      xhr.send();
+    }
+</script>
+        
+        <div class="nav-collapse collapse">
+          <ul class="unstyled nav main-menu">
+            <li><a href="../../about/index.html">Discover QGIS</a></li>
+            <li><a href="../../forusers/index.html">For Users</a></li>
+            <li><a href="../index.html">Get Involved</a></li>
+            <li><a href="../../../docs/index.html">Documentation</a></li>
+            <li>
+          
+<form class="navbar-search" action="../../../search.html" method="get">
+  <input type="text" name="q" class="search-query" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div style="display:none;" class="container" id="nextprev" >
+    
+    <a accesskey="p" href="development.html">&lt;&lt; prev</a>
+    
+    
+    <a accesskey="n" href="../tests.html">next &gt;&gt;</a>
+    
+    </div>
+
+
+
+
+    
+        <div class="container">
+            <div class="row">
+      <div class="span4">
+        <div id="sidebar" class="bs-sidenav well" data-spy="scroll"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../about/index.html">Discover QGIS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../forusers/index.html">For Users</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Get Involved / Development</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../document.html">Write Documentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../translate.html">Translation</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Development</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="contributor_requirements.html">Requirements for new contributors</a></li>
+<li class="toctree-l3"><a class="reference internal" href="roadmap.html">Road Map</a></li>
+<li class="toctree-l3"><a class="reference internal" href="bugreporting.html">Bugs, Features and Issues</a></li>
+<li class="toctree-l3"><a class="reference internal" href="development.html">Development in QGIS</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Adding GRASS Tools</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#module-configuration">Module configuration</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#menu-configuration">Menu configuration</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#general-rules-for-new-modules">General rules for new modules</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#specific-rules-for-module-descriptions">Specific rules for module descriptions</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#options-which-cannot-be-currently-used">Options which cannot be currently used</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#modules-which-can-be-added">Modules which can be added</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#modules-to-be-deprecated">Modules to be deprecated</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../tests.html">Tests</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../daily_reports/index.html">Daily Reports</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://plugins.qgis.org">Plugins website</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../mailinglists.html">Mailing lists</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../governance/index.html">Project Organisation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../meetings/index.html">Meetings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../governance/sustaining_members/index.html">Sustaining Membership Program</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://donate.qgis.org">Donations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../certification.html">Certification</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../faq/index.html">FAQ</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../styleguide.html">Visual Style Guide</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../docs/index.html">Documentation</a></li>
+</ul>
+
+        </div>
+      </div>
+                <div class="span8">
+                    
+                        
+                            <section id="adding-grass-tools">
+<span id="addinggrasstools"></span><h1>Adding GRASS Tools<a class="headerlink" href="#adding-grass-tools" title="Permalink to this headline">¶</a></h1>
+<p>GRASS modules can be run from QGIS <em>GRASS Tools</em> if QGIS was started from a
+GRASS shell or if a GRASS mapset was opened from QGIS. The modules work with
+GRASS data only.</p>
+<p>It is easy to modify the menu and add new modules because both the menu and the
+modules are defined in XML configuration files. Below is described how to write
+new modules and modify menu tree.</p>
+<section id="module-configuration">
+<h2>Module configuration<a class="headerlink" href="#module-configuration" title="Permalink to this headline">¶</a></h2>
+<section id="background">
+<h3>Background<a class="headerlink" href="#background" title="Permalink to this headline">¶</a></h3>
+<p>The options of each module shown in module’s_*Options_*tab are created according
+to combination of definition in QGM (QGIS GRASS module) file and options
+definition in GRASS module or GRASS script — GMO (GRASS module options).
+Because each option in QGM is linked to one (or more) GMO, it is often useful
+if not necessary to see GMO. GMO are output by GRASS module if it is run
+with _*–interface-description_* option, the output is in XML format, for example:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">r</span><span class="o">.</span><span class="n">to</span><span class="o">.</span><span class="n">vect</span> <span class="o">--</span><span class="n">interface</span><span class="o">-</span><span class="n">description</span>
+</pre></div>
+</div>
+<p>Some GRASS modules have too many options which can be confusing for beginners.
+In QGM it is possible to define only some of them and possibly set some default
+values and/or hide some options with certain value. That means that more
+QGIS-GRASS modules can be defined for each GRASS module. For example the module
+r.to.vect was divided into three QGIS-GRASS modules with predefined “feature”
+option. The QGM definition is written in XML format file with extension .qgm,
+one for each QGIS-GRASS module. Configuration files are stored in
+_*qgis/src/plugins/grass/modules*_ directory and installed in
+_*share/qgis/grass/modules*_ directory. The name of the file should start with
+GRASS module name + a word describing the specific task. For example, the module
+which extracts vector lines from raster is called r.to.vect.line.qgm.</p>
+<p>Here is an example of a configuration file:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE qgisgrassmodule SYSTEM &quot;http://mrcc.com/qgisgrassmodule.dtd&quot;&gt;
+&lt;qgisgrassmodule label=&quot;Generate aspect map from DEM&quot; module=&quot;r.slope.aspect&quot;&gt;
+       &lt;option key=&quot;elevation&quot; /&gt;
+       &lt;option key=&quot;aspect&quot; /&gt;
+&lt;/qgisgrassmodule&gt;
+</pre></div>
+</div>
+</section>
+<section id="qgisgrassmodule-tag-attributes">
+<h3>qgisgrassmodule tag attributes<a class="headerlink" href="#qgisgrassmodule-tag-attributes" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p><em>label</em> — description used in menu tree</p></li>
+<li><p><em>module</em> — name of GRASS module executable or script.</p></li>
+</ul>
+</section>
+<section id="option-tags">
+<h3>Option tags<a class="headerlink" href="#option-tags" title="Permalink to this headline">¶</a></h3>
+<p>Each qgisgrassmodule tag can contain one or more option tags:</p>
+<ul class="simple">
+<li><p><em>option</em> — corresponds to GMO parameter tag, example:</p></li>
+</ul>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="n">option</span> <span class="n">key</span><span class="o">=</span><span class="s2">&quot;elevation&quot;</span> <span class="o">/&gt;</span>
+</pre></div>
+</div>
+<ul class="simple">
+<li><p><em>flag</em> — corresponds to GMO flag tag, example:</p></li>
+</ul>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="n">flag</span> <span class="n">key</span><span class="o">=</span><span class="s2">&quot;o&quot;</span> <span class="n">answer</span><span class="o">=</span><span class="s2">&quot;on&quot;</span> <span class="n">hidden</span><span class="o">=</span><span class="s2">&quot;yes&quot;</span> <span class="o">/&gt;</span>
+</pre></div>
+</div>
+<ul class="simple">
+<li><p><em>field</em> — for vector layers defines attribute field, the option is created
+as combobox with available fields. For example (v.to.db.qgm):</p></li>
+</ul>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="n">field</span> <span class="n">key</span><span class="o">=</span><span class="s2">&quot;column&quot;</span> <span class="n">layer</span><span class="o">=</span><span class="s2">&quot;map&quot;</span> <span class="nb">type</span><span class="o">=</span><span class="s2">&quot;integer,double&quot;</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;Attribute field&quot;</span> <span class="o">/&gt;</span>
+</pre></div>
+</div>
+<ul class="simple">
+<li><p><em>selection</em> — this is quite interesting and useful type of option. It allows
+to define list of GRASS vector categories using QGIS interface. Features (and
+their categories, GRASS feature ID equivalent) can be selected either with
+‘Select Features’ tool or in the attribute table. The list of categories is
+updated dynamically. Example (v.extract.list.qgm):</p></li>
+</ul>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="n">selection</span> <span class="n">key</span><span class="o">=</span><span class="s2">&quot;list&quot;</span> <span class="n">layerid</span><span class="o">=</span><span class="s2">&quot;input&quot;</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;Cats&quot;</span> <span class="o">/&gt;</span>
+</pre></div>
+</div>
+</section>
+<section id="common-option-flag-tag-attributes">
+<h3>Common option/flag tag attributes<a class="headerlink" href="#common-option-flag-tag-attributes" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p><em>key</em> — name of module option in GMO.</p></li>
+<li><p><em>answer</em> — default value (overwrites GMO default value); value “on” will
+switch on a flag.</p></li>
+<li><p><em>hidden</em> — the option will not appear in the dialog, but module will be run
+with this option (hidden=”yes”).</p></li>
+<li><p><em>label</em> — option label</p></li>
+<li><p><em>advanced</em> — “yes” or “no”, default is “no”. If set to “yes”, the
+option/flag is add to initially hidden advanced options panel and “Show
+advanced options &gt;&gt;” button is shown under simple (basic,standard) options</p></li>
+<li><p><em>version_min</em> — minimum GRASS version for which this option/flag is valid</p></li>
+<li><p><em>version_max</em> — maximum GRASS version for which this option/flag is valid</p></li>
+</ul>
+</section>
+<section id="option-tag-specific-attributes">
+<h3>Option tag specific attributes<a class="headerlink" href="#option-tag-specific-attributes" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p><em>typeoption</em> — this option can be used with vector layer to define the name
+of vector input type option, when module is run, the type of selected vector
+layer will be used for that option. For example (v.overlay.or.qgm):</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="n">option</span> <span class="n">key</span><span class="o">=</span><span class="s2">&quot;ainput&quot;</span> <span class="n">typeoption</span><span class="o">=</span><span class="s2">&quot;atype&quot;</span> <span class="n">layeroption</span><span class="o">=</span><span class="s2">&quot;alayer&quot;</span> <span class="n">typemask</span><span class="o">=</span><span class="s2">&quot;area,line&quot;</span> <span class="o">/&gt;</span>
+</pre></div>
+</div>
+<p>It means that if a layer is selected from combobox of this option the
+_*atype*_ option is automaticaly set to the layer’s type, and thus _*atype*_
+does not have to be added at all.</p>
+</li>
+<li><p><em>layeroption</em> — equivalent of typeoption for layer.</p></li>
+<li><p><em>typmask</em> — for vector input option defines allowed types. Only the layers
+of one of defined type are displayed in input. See v.overlay.or.qgm for example.</p></li>
+</ul>
+</section>
+<section id="field-tag-specific-attributes">
+<h3>Field tag specific attributes<a class="headerlink" href="#field-tag-specific-attributes" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p><em>layer</em> — the key attribute of the option which defines the vector this
+field should depend on</p></li>
+<li><p><em>type</em> — defines types of attribute fields which should be added to the
+field combobox, for example</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="n">field</span> <span class="n">key</span><span class="o">=</span><span class="s2">&quot;column&quot;</span> <span class="n">layer</span><span class="o">=</span><span class="s2">&quot;map&quot;</span> <span class="nb">type</span><span class="o">=</span><span class="s2">&quot;integer,double&quot;</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;Attribute field&quot;</span> <span class="o">/&gt;</span>
+</pre></div>
+</div>
+<p>It means that only the attribute fields of type in integer and double precision
+will appear in combobox. See v.what.vect for example (2 different vectors).</p>
+</li>
+</ul>
+</section>
+<section id="behind-the-scene">
+<h3>Behind the scene<a class="headerlink" href="#behind-the-scene" title="Permalink to this headline">¶</a></h3>
+<p>The idea QGIS-GRASS modules implementation is to use maximum information from
+GMO and only simplify the interface. Here are described some rules how
+information from GMO are used and in which order if not all of them are defined
+in GMO.</p>
+<ul class="simple">
+<li><p><em>label</em> — if label attribute is defined in QGM it is used as option label,
+if it is not defined GMO option label tag is used and if it is not defined GMO
+option description tag is used</p></li>
+<li><p><em>tooltip</em> — (appeares on mouseover the option) if label is defined (either
+in QGM or GMO) and description is defined in GMO (thus label and description
+differ) the GMO description tag is used for tooltip</p></li>
+<li><p><em>multiple values</em> label — if an option is type multiple with defined list of
+possible values (like upload option of v.distance) and description tag is
+defined for value tag in GMO then it is used as checkbox label</p></li>
+</ul>
+</section>
+<section id="picture">
+<h3>Picture<a class="headerlink" href="#picture" title="Permalink to this headline">¶</a></h3>
+<p>Each module must be represented also by a picture/icon which symbolizes the
+modules functionality. The pictures are also stored in plugins/grass/modules as
+SVG (<em>.svg) or PNG (</em>.png) files.</p>
+<p>Currently there are supported 3 schemas for the picture:</p>
+<ul class="simple">
+<li><p>1 picture</p></li>
+<li><p>2 pictures — QGIS will create icon: 1 -&gt; 2</p></li>
+<li><p>3 pictures — QGIS will create icon: 1 + 2 -&gt; 3</p></li>
+</ul>
+<p>The name of the picture starts with QGIS-GRASS module name to which is appended
+picture number, for example: v.overlay.and.1.svg, v.overlay.and.2.svg,
+v.overlay.and.3.svg. It is possible to combine SVG and PNG pictures.</p>
+<p>SVG and PNG pictures can be generated from QGIS using <em>Map Composer</em>. The size
+of PNG images should be larger than the expected icon size, because it is
+expected to be later used in automatically generated documentation, where
+pictures will be used in larger size.</p>
+</section>
+<section id="qgis-grass-scripts">
+<h3>QGIS GRASS scripts<a class="headerlink" href="#qgis-grass-scripts" title="Permalink to this headline">¶</a></h3>
+<p>Because it can take long time until a new script is added to stable GRASS
+release and because some scripts can be useful only for QGIS GUI interface it is
+possible to add a ‘GRASS’ script to QGIS. The scripts should follow general
+requirements for GRASS scripts and they are located in qgis/src/plugins/grass/scripts.</p>
+</section>
+</section>
+<section id="menu-configuration">
+<h2>Menu configuration<a class="headerlink" href="#menu-configuration" title="Permalink to this headline">¶</a></h2>
+<p>Once we have a new QGM configuration file, we can add the module to the list of
+modules. The list is defined in qgis/src/plugins/grass/config/default.qgc file.
+The sections in the file are organized hierarchically and represented in menu
+as tree.</p>
+<p>Here is an example of a record for r.to.vect.line.qgm module</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="n">section</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;Convert raster to vector&quot;</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="n">grass</span> <span class="n">name</span><span class="o">=</span><span class="s2">&quot;r.to.vect.line.qgm&quot;</span><span class="o">/&gt;</span>
+<span class="o">&lt;/</span><span class="n">section</span><span class="o">&gt;</span>
+</pre></div>
+</div>
+<p>For section/module it is possible to specify GRASS version for which it is valid
+using version_min/version_max attributes:</p>
+<ul class="simple">
+<li><p><em>version_min</em> — minimum GRASS version for which this section/module is valid</p></li>
+<li><p><em>version_max</em> — maximum GRASS version for which this section/module is valid</p></li>
+</ul>
+</section>
+<section id="general-rules-for-new-modules">
+<h2>General rules for new modules<a class="headerlink" href="#general-rules-for-new-modules" title="Permalink to this headline">¶</a></h2>
+<p><em>GRASS Tools</em> are intended mostly for beginners and not very experienced users.
+The basic rules are:</p>
+<ul class="simple">
+<li><p>Each module should have 3 or less options; if it seems to be necessary to add
+more options, it should be discussed beforehand</p></li>
+<li><p>Module definition should be robust so that it doesn’t allow a user to run a
+module with wrong option. If there is not yet support for certain type of
+option the module should not be added to menu</p></li>
+</ul>
+</section>
+<section id="specific-rules-for-module-descriptions">
+<h2>Specific rules for module descriptions<a class="headerlink" href="#specific-rules-for-module-descriptions" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Avoid 3rd person for verbs, e.g. “Export raster” instead of “Exports raster”</p></li>
+<li><p>Avoid unnecessary “map”, “layer” and “file”, e.g. “Export raster” instead of
+“Export raster map layer”</p></li>
+<li><p>Avoid unnecessary “GRASS”, e.g. “Export raster” instead of “Export GRASS raster”</p></li>
+<li><p>Avoid “a|an”, e.g. “Export raster” instead of “Exports a raster”</p></li>
+<li><p>Avoid padding words, e.g. “Export raster” instead of “Allows the export of a raster”</p></li>
+<li><p>Avoid “Convert”: use “Export” or “Import” instead. Convert should be used for
+internal GRASS conversions (e.g. from raster to vector)</p></li>
+<li><p>Acronyms should be upper case, e.g. ASCII instead of ascii</p></li>
+<li><p>In case of doubt, please check the existing similar plugins to maintain
+consistency</p></li>
+</ul>
+</section>
+<section id="options-which-cannot-be-currently-used">
+<h2>Options which cannot be currently used<a class="headerlink" href="#options-which-cannot-be-currently-used" title="Permalink to this headline">¶</a></h2>
+<p>Technically, any option can be used. Some kinds of options however are not yet
+well supported, for example those which depend on other option. Here is a list
+(probably incomplete) of options which are not yet well supported and so should
+not be used at present:</p>
+<ul class="simple">
+<li><p>OGR input dsn/layer (v.in.ogr)</p></li>
+</ul>
+</section>
+<section id="modules-which-can-be-added">
+<h2>Modules which can be added<a class="headerlink" href="#modules-which-can-be-added" title="Permalink to this headline">¶</a></h2>
+<p>Most modules have been added. If you need additional ones, please write to the
+qgis development mailing list, and list hereafter the modules you think are most
+important to be added.</p>
+<p>You should post the name of a new QGIS-GRASS module, the name of the GRASS
+module and the options which you want to use. For example:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">r</span><span class="o">.</span><span class="n">to</span><span class="o">.</span><span class="n">vect</span><span class="o">.</span><span class="n">area</span><span class="p">:</span> <span class="n">r</span><span class="o">.</span><span class="n">to</span><span class="o">.</span><span class="n">vect</span> <span class="nb">input</span> <span class="n">output</span> <span class="n">feature</span><span class="o">=</span><span class="n">area</span>
+</pre></div>
+</div>
+<p>See also here for discussion on
+<a class="reference external" href="http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list">GRASS-QGIS relevant module list</a>.</p>
+</section>
+<section id="modules-to-be-deprecated">
+<h2>Modules to be deprecated<a class="headerlink" href="#modules-to-be-deprecated" title="Permalink to this headline">¶</a></h2>
+<p>List hereafter the modules who should be removed, with a rationale for this
+suggestion (e.g.: some modules related to projections are difficult to
+understand, and of no general use). Please note: some modules have not been
+thoroughly tested. Please test them, and if you find any issue report it to the
+redmine (better still: fix it yourself and send the patch).</p>
+</section>
+</section>
+
+                        
+                    
+                </div>
+                  
+            </div>
+        </div>
+    
+
+    <!--<a href="https://github.com/qgis/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10000;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>-->
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="../tests.html" title="Tests"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="development.html" title="Development in QGIS"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../index.html" >Get Involved / Development</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="index.html" >Development</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Adding GRASS Tools</a></li> 
+      </ul>
+    </div>
+  <footer class="footer">
+
+    <div class="container">
+        <div>
+          <ul class="unstyled inline" id="social">
+            <li id="twitter"><a href="http://twitter.com/qgis" class="external"><div></div></a></li>
+            <li id="facebook"><a href="https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096" class="external"><div></div></a></li>
+            <li id="github"><a href="http://github.com/qgis/" class="external"><div></div></a></li>
+            <li id="aboutcontact"><a href="../index.html"><div></div></a></li>
+          </ul>
+        </div>
+
+        <p class="credit">If not stated otherwise, all content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a></p>
+    </div>
+    <div class="container">
+      <p class="credit">
+        Select graphics from <a href="https://thenounproject.com" target="_blank">The Noun Project collection</a>
+        
+        
+      </p>
+      <p class="credit">
+        Untranslated page? Or you spot a translation error:
+        <a id="fix_translation_link" target="_blank" href="https://www.transifex.com/projects/p/qgis-website/">fix me</a>
+        <br/>
+        Textual error, missing text or you know better:
+        <a id="fix_text_link" target="_blank" href="https://github.com/qgis/QGIS-Website">fix me</a>
+      </p>
+    </div>
+  </footer>
+
+  </body>
+</html>

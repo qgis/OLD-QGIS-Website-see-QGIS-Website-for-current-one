@@ -1,0 +1,947 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Road Map</title>
+    <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/basic.css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/qgis-style.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/bootstrap-sphinx.css" type="text/css" />
+    <script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
+    <script src="../../../_static/jquery.js"></script>
+    <script src="../../../_static/underscore.js"></script>
+    <script src="../../../_static/doctools.js"></script>
+    <script src="../../../_static/qgis-site.js"></script>
+    <script src="../../../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script src="../../../_static/jquery.countdown-2.0.4/jquery.countdown.min.js"></script>
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="Bugs, Features and Issues" href="bugreporting.html" />
+    <link rel="prev" title="Requirements for new contributors" href="contributor_requirements.html" />
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="bugreporting.html" title="Bugs, Features and Issues"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="contributor_requirements.html" title="Requirements for new contributors"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../index.html" >Get Involved / Development</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="index.html" accesskey="U">Development</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Road Map</a></li> 
+      </ul>
+    </div>
+
+    
+  <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="../../index.html">QGIS</a>
+        <span class="navbar-text pull-left"><p><b>3.26.2 ​ <br/> 3.22.10 LTR</b></p></span>
+        
+          <select id="languages">
+  <!-- note on the options here: the 'title' string is to be translated in your
+  language, but the element text is supposed to stay in native lang/txt -->
+  <option value="en" title="English">English</option>
+  <option value="ca" title="Catalan">Català</option>
+  <option value="da" title="Danish">Dansk</option>
+  <option value="de" title="German">Deutsch</option>
+  <option value="es" title="Spanish">Español</option>
+  <option value="fa" title="Persian">فارسی</option>
+  <option value="fi" title="Finnish">Suomi</option>
+  <option value="fr" title="French">Français</option>
+  <option value="gl" title="Galician">Galego</option>
+  <option value="id" title="Indonesian">Bahasa Indonesia</option>
+  <option value="it" title="Italian">Italiano</option>
+  <option value="hu" title="Hungarian">Magyar</option>
+  <option value="ja" title="Japanese">日本語</option>
+  <option value="km_KH" title="Khmer">ភាសាខ្មែរ    </option>
+  <option value="ko" title="Korean">한국어</option>
+  <option value="lt" title="Lithuanian">Lietuvių</option>
+  <option value="nl" title="Dutch">Nederlands</option>
+  <option value="pl" title="Polish">Polski</option>
+  <option value="pt_BR" title="Portuguesei (Brazil)">Português (Brasil)</option>
+  <option value="pt_PT" title="Portuguese">Português</option>
+  <option value="ro" title="Romanian">Română</option>
+  <option value="tr" title="Turkish">Türkçe</option>
+  <option value="ru" title="Russian">Русский</option>
+  <option value="uk" title="Ukrainian">Українська</option>
+  <option value="zh-Hans" title="Chinese (Simplified)">简体中文</option>
+  <option value="zh-Hant" title="Chinese (Traditional)">繁體中文</option>
+</select>
+
+<script>
+    var currentPage = 'site/getinvolved/development/roadmap.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    // split index.html if currentUrl is ended by '/'
+    var currentUrl = window.location.href;
+    if (currentUrl.slice(-1) == '/' && currentPage.slice(-1) != '/'){
+      var pages = currentPage.split('/');
+      pages.pop();
+      currentPage = pages.join('/') + '/';
+    }
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        // it's possible this is the index.html page called without 'index.html', try without the currentPage
+        if (langPlusPage==undefined){
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // it's possible this is an index.html page called without 'index.html', try removing index.html
+        if (langPlusPage==undefined){
+            currentPage = currentPage.replace('index.html','')
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // still no langPlugPage: stop, because the language swicher will misbehave
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+        // TODO: links should come from conf.py
+        // TODO: all template pages have the actual translation in sphinc.conf
+        // IMPORTANT: space, -, _ etc replacing below must be 100% inline with
+        // code in scripts/create_transifex_resources.sh !!
+        // https://github.com/qgis/QGIS-Website/blob/master/scripts/create_transifex_resources.sh
+        fix_translation_link = 'https://www.transifex.com/projects/p/qgis-website/translate/#' + 
+            currentLang.slice(1) + currentPage.replace(/_/g, "-").replace(/ /g, "-").replace(/\//g, "_").replace(/\.html/g, "").replace(/\./g, "-")
+        if ('/en/' != currentLang) {
+            $('#fix_translation_link').attr('href', fix_translation_link);
+        }
+        fix_text_link = 'https://github.com/qgis/QGIS-Website/edit/master/source/' +
+            currentPage.replace(/.html/g, ".rst")
+        // TODO: only on rst pages, here a list of pages which are actual templates?
+        if (true){
+            $('#fix_text_link').attr('href', fix_text_link);
+        }
+
+        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
+
+        $("#languages").change(function() {
+            gotoLang($(this).val());
+        });
+
+        if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
+        }
+        else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
+            // crontab is pulling url's below and copy to /feed at qgis.org
+            // https://changelog.qgis.org/en/qgis/members/json/
+            json2html('/feeds/members.json', '#qgissustainingmembersatom', 1000, true, 'span3');
+            // https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2
+            json2html('/feeds/qgispastmembers.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
+        }
+        else if (currentPage == "site/forusers/download.html"){
+            $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
+            '<h2>Thank you!</h2> <p/>'+
+            '<div class="container"><div class="span8">'+
+            '<p>Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href="https://donate.qgis.org/">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!</p>'+
+            '<p>The QGIS Team</p>'+
+            '</div><div class="container">'+
+            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="https://donate.qgis.org/">Donate Now</a></p><p class="muted"></p></div>'+
+            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">Close this message</a></p><p class="muted"></p></div>'+
+            '</div>'+
+            '<br/><p><img src="../../../_static/images/splash.png"/></p></div>');
+            $('#thankyou').click(function(){ $('#thankyou').hide(); });
+            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
+            $('a.reference').click(function(){
+                $('#thankyou').show();
+                return true;
+            });
+        }
+        else if (currentPage == "site/forusers/alldownloads.html"){
+	    replacesha('qgis-rel-dev');
+	    replacesha('qgis-ltr-dev');
+	    replacesha('qgis-dev');
+        }
+    });
+
+    //
+    // load current page in a different language
+    //
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+    //
+    // function to load a json (feed) and create html for it
+    // currently only used for sustaining members
+    //
+    function json2html(url, holder, count, showcont, spanclass){
+        var html = '';
+        $.getJSON(url, function (data) {
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+
+            $.each( data.rss.channel.item, function( key, val ){
+              var item = val;
+              var imglink = '#';
+              var link = '#';
+              var content = '';
+              var member_level = 'Small';
+              if (item.member_url){link=item.member_url};
+              if (item.image_url){imglink=item.image_url};
+              if (item.member_level){member_level=item.member_level};
+              var title = item.title;
+              content = '<div><img class="member_img '+member_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="member_body '+member_level.toLowerCase()+'">'+item.member_country+'<br/>Membership level: '+member_level+'<br/>'+
+                '('+item.start_date+' - '+item.end_date+')</p>';
+              html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+              html+='<div class="memberdiv"><h4>'+title+'</h4>';
+              html+=content;
+              html+='</div></a></div>';
+            })
+          $(holder).append(html);
+        })
+    }
+    //
+    // function to load an atom feed, an put it in an element
+    //
+    function atom(url, holder, count, showcont, spanclass){
+        $.get(url, function (data) {
+            var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+            $(data).find("entry").each(function () {
+                var el = $(this);
+                var title = el.find('title').text();
+                var author = el.find('name').text();
+                var content = el.find('content').text();
+                if (content.length==0){
+                    // try summary
+                    content = el.find('summary').text();
+                }
+                var imglink='#';
+                var link='#';
+                el.find('link').each(
+                    function(){
+                        // flickr image for maps and qgis screenshots
+                        if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
+                            imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
+                        }
+                        // links
+                        else if ($(this).attr('rel') == 'alternate'){
+                            link = $(this).attr('href');
+                        }
+                    }
+                )
+                counter++;
+
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
+                    // html for flickr maps
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
+                    html+='</a></p></div>\n';
+                }
+                else if (counter<=maxitems){
+                    // visual changelogs, qugs feed and planet feed
+                    var addit = true;
+                    if (holder == '#qgisplanetatom'){
+                        var s = title.split(':');
+                        title = s[0];
+                        content = s[1];
+                        // skip blog.qgis.org posts
+                        if (link.indexOf('blog.qgis.org')>=0){
+                            addit = false;
+                            counter --;
+                        }
+                    }
+                    else if (holder == '#qgissustainingmembersatom' || holder == '#qgissustainingmembersatom'){
+                        html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+                        html+='<div class="memberdiv"><h4>'+title+'</h4>';
+                        html+=content;
+                        html+='</div></a></div>';
+                        addit = false; // we are building html ourselves!!
+                    }
+                    else if (holder == '#qgisblogatom'){
+                        var s = title.split(':');
+                        if (s[0] != 'QGIS Project blog'){
+                            addit = false;
+                            counter--;
+                        }
+                        // trying to extract date from link
+                        // http://blog.qgis.org/2017/09/02/do-you-want-to-host-a-qgis-developer-meeting/
+                        d = link.split('/').slice(3,6);  // 2017,09,02
+                        title = '<img src="../_static/logo.png" style="width:30px;"/> - ' + d[0] + '/' + d[1] + '/' + d[2] + ' - ' + s[1];
+                        content = '';
+                    }
+                    if (addit){
+                        html+='<a class="external" href="'+link+'">';
+                        html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
+                        if (showcontent) { html+=content; };
+                        html+='</div></a>\n';
+                    }
+                }
+            });
+            $(holder).append(html);
+        });
+    }
+
+    //
+    // function to replace a item
+    //
+    function replacesha(id) {
+      var xhr = new XMLHttpRequest();
+      xhr.onload = function () {
+	var sha = this.responseText.substring(this.responseText.indexOf(':')+1);
+        document.getElementById(id).innerHTML = "<a target=\"_new\" href=\"http://github.com/qgis/QGIS/commit/" + sha + "\">" + sha + "</a>";
+      };
+      xhr.open('GET', '/downloads/' + id + '.sha');
+      xhr.send();
+    }
+</script>
+        
+        <div class="nav-collapse collapse">
+          <ul class="unstyled nav main-menu">
+            <li><a href="../../about/index.html">Discover QGIS</a></li>
+            <li><a href="../../forusers/index.html">For Users</a></li>
+            <li><a href="../index.html">Get Involved</a></li>
+            <li><a href="../../../docs/index.html">Documentation</a></li>
+            <li>
+          
+<form class="navbar-search" action="../../../search.html" method="get">
+  <input type="text" name="q" class="search-query" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div style="display:none;" class="container" id="nextprev" >
+    
+    <a accesskey="p" href="contributor_requirements.html">&lt;&lt; prev</a>
+    
+    
+    <a accesskey="n" href="bugreporting.html">next &gt;&gt;</a>
+    
+    </div>
+
+
+
+
+    
+        <div class="container">
+            <div class="row">
+      <div class="span4">
+        <div id="sidebar" class="bs-sidenav well" data-spy="scroll"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../about/index.html">Discover QGIS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../forusers/index.html">For Users</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Get Involved / Development</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../document.html">Write Documentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../translate.html">Translation</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Development</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="contributor_requirements.html">Requirements for new contributors</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Road Map</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#development-phase">Development phase</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#feature-freeze">Feature freeze</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#release">Release</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#release-schedule">Release schedule</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#location-of-prereleases-nightly-builds">Location of prereleases / nightly builds</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="bugreporting.html">Bugs, Features and Issues</a></li>
+<li class="toctree-l3"><a class="reference internal" href="development.html">Development in QGIS</a></li>
+<li class="toctree-l3"><a class="reference internal" href="addinggrasstools.html">Adding GRASS Tools</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../tests.html">Tests</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../daily_reports/index.html">Daily Reports</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://plugins.qgis.org">Plugins website</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../mailinglists.html">Mailing lists</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../governance/index.html">Project Organisation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../meetings/index.html">Meetings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../governance/sustaining_members/index.html">Sustaining Membership Program</a></li>
+<li class="toctree-l2"><a class="reference external" href="https://donate.qgis.org">Donations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../certification.html">Certification</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../faq/index.html">FAQ</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../styleguide.html">Visual Style Guide</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../docs/index.html">Documentation</a></li>
+</ul>
+
+        </div>
+      </div>
+                <div class="span8">
+                    
+                        
+                            <section id="road-map">
+<span id="qgis-roadmap"></span><h1>Road Map<a class="headerlink" href="#road-map" title="Permalink to this headline">¶</a></h1>
+<p>Releases and development of QGIS follow a timebased schedule.</p>
+<ul class="simple">
+<li><p>Even version numbers (2.18, 3.2 etc) are release versions.</p></li>
+<li><p>Odd version numbers (2.99, 3.1 etc) are development versions.</p></li>
+</ul>
+<p>A new release will happen every four months. In the first three months, new
+development is taking place. In the last month before a release, a feature
+freeze is invoked and the final month is used for testing, bugfixing,
+translation and release preparations.
+When the release happens, a branch with an even release number is created and
+the master branch advances to the next odd version. After the release a call
+for packaging is issued.</p>
+<p>Every third release (starting with 2.8) is a long-term-release (LTR) that is
+maintained until the next long-term-release occurs.</p>
+<section id="development-phase">
+<h2>Development phase<a class="headerlink" href="#development-phase" title="Permalink to this headline">¶</a></h2>
+<p>In the development phase, developers work on adding new features for the next
+release. Early adopters can use the nightly builds we have for all major
+platforms to see the development progress, do preliminary testing and provide
+bug reports and their thoughts to help with development.</p>
+</section>
+<section id="feature-freeze">
+<h2>Feature freeze<a class="headerlink" href="#feature-freeze" title="Permalink to this headline">¶</a></h2>
+<p>In the feature freeze phase, new features are not allowed in anymore and the
+focus of everyone moves from enhancing QGIS to stabilizing it.  This also turns
+the nightly builds effectively into <a class="reference internal" href="#qgis-prereleases"><span class="std std-ref">prereleases</span></a>.</p>
+<p><strong>Users</strong> should start extensive testing of these prereleases in their
+environment to verify that there are no issues, they wouldn’t want to see in
+the upcoming release.  All such issues should be reported
+(see <a class="reference internal" href="bugreporting.html#qgis-bugreporting"><span class="std std-ref">Bugs, Features and Issues</span></a>).
+Everything that goes unnoticed, will also end up in the next
+release.  Only in case of serious problems backports to a latest release will
+occur.  Therefore testing of the prereleases and reporting issues is very
+important.</p>
+<p>In the feature freeze, <strong>developers</strong> monitor the bugtracker and start working on
+fixing the reported issues and update the <strong>visual changelog</strong> with the features
+they added.</p>
+<p>With the start of the feature freeze, the translation files will be updated so
+that <strong>translators</strong> can start their work. Note that this might be an
+incremental process as although the features are frozen, bug fixes might still
+introduce translation string changes.</p>
+<p>Two weeks before the release, a hard freeze is initiated after which only fixes
+to severe problems and regressions introduced after the feature freeze are
+allowed in.</p>
+<p>The release manager announces this on feature freeze.</p>
+</section>
+<section id="release">
+<h2>Release<a class="headerlink" href="#release" title="Permalink to this headline">¶</a></h2>
+<p>On major and minor release dates, the release branch is created and the release
+is tagged and tar balls are prepared.  Point releases are just tagged and tar
+balls are created.</p>
+<p>The packagers are notified that packaging can begin.</p>
+<p>Once some packages are available the release can be announced and the website
+is updated accordingly.</p>
+</section>
+<section id="release-schedule">
+<span id="qgis-release-schedule"></span><h2>Release schedule<a class="headerlink" href="#release-schedule" title="Permalink to this headline">¶</a></h2>
+<p>The schedule is aligned to produce roughly the same dates for each year given
+our four monthly releases with LTRs entering the LTR repo in late february.</p>
+<p>Beginning after 2.12 the development phase is always 12 weeks and the freeze
+phase is at least 5 weeks.  Remainders are used to extend the freeze phase of
+LTR releases.</p>
+<p>Point releases will happen every month on the latest release branch branch, if
+there are backports.   Beginning with the 3.28 release point releases are only
+done with new latest releases.</p>
+<p>In the first four months after its release, a new LTR is also the current LR.
+In this phase, the new LTR doesn’t replace the previous LTR in the LTR
+repositories.  This happens as soon as a new LR is released.</p>
+<p>This schedule is also available as <a class="reference external" href="/schedule.ics">“iCalendar”</a>.</p>
+<table class="colwidths-given docutils align-default" id="roadmap">
+<caption><span class="caption-text">Schedule</span><a class="headerlink" href="#roadmap" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Event</p></th>
+<th class="head"><p>Latest</p></th>
+<th class="head"><p>Long-Term Repo</p></th>
+<th class="head"><p>Freeze</p></th>
+<th class="head"><p>Date</p></th>
+<th class="head"><p>Week #</p></th>
+<th class="head"><p>Weeks</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LTR/PR</p></td>
+<td><p><span class="rm-past">3.22.0</span></p></td>
+<td><p><span class="rm-past">3.16.12</span></p></td>
+<td></td>
+<td><p>2021-10-22</p></td>
+<td><p>43</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="row-odd"><td><p>EPR</p></td>
+<td></td>
+<td><p><span class="rm-past">3.16.13</span></p></td>
+<td></td>
+<td><p>2021-11-05</p></td>
+<td><p>45</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p><span class="rm-past">3.22.1</span></p></td>
+<td><p><span class="rm-past">3.16.14</span></p></td>
+<td></td>
+<td><p>2021-11-19</p></td>
+<td><p>47</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p><span class="rm-past">3.22.2</span></p></td>
+<td><p><span class="rm-past">3.16.15</span></p></td>
+<td></td>
+<td><p>2021-12-17</p></td>
+<td><p>51</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR/FF</p></td>
+<td><p><span class="rm-past">3.22.3</span></p></td>
+<td><p><span class="rm-past">3.16.16</span></p></td>
+<td><p>3.23</p></td>
+<td><p>2022-01-14</p></td>
+<td><p>3</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-odd"><td><p>LR/PR</p></td>
+<td><p><span class="rm-past">3.24.0</span></p></td>
+<td><p><span class="rm-past">3.22.4</span></p></td>
+<td></td>
+<td><p>2022-02-18</p></td>
+<td><p>8</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p><span class="rm-past">3.24.1</span></p></td>
+<td><p><span class="rm-past">3.22.5</span></p></td>
+<td></td>
+<td><p>2022-03-18</p></td>
+<td><p>12</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p><span class="rm-past">3.24.2</span></p></td>
+<td><p><span class="rm-past">3.22.6</span></p></td>
+<td></td>
+<td><p>2022-04-15</p></td>
+<td><p>16</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR/FF</p></td>
+<td><p><span class="rm-past">3.24.3</span></p></td>
+<td><p><span class="rm-past">3.22.7</span></p></td>
+<td><p>3.25</p></td>
+<td><p>2022-05-13</p></td>
+<td><p>20</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-odd"><td><p>LR/PR</p></td>
+<td><p><span class="rm-past">3.26.0</span></p></td>
+<td><p><span class="rm-past">3.22.8</span></p></td>
+<td></td>
+<td><p>2022-06-17</p></td>
+<td><p>25</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p><span class="rm-past">3.26.1</span></p></td>
+<td><p><span class="rm-past">3.22.9</span></p></td>
+<td></td>
+<td><p>2022-07-15</p></td>
+<td><p>29</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p><span class="rm-current">PR</span></p></td>
+<td><p><span class="rm-current">3.26.2</span></p></td>
+<td><p><span class="rm-current">3.22.10</span></p></td>
+<td></td>
+<td><p>2022-08-12</p></td>
+<td><p>33</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR/FF</p></td>
+<td><p><span class="rm-next">3.26.3</span></p></td>
+<td><p><span class="rm-next">3.22.11</span></p></td>
+<td><p>3.27</p></td>
+<td><p>2022-09-09</p></td>
+<td><p>37</p></td>
+<td><p>6</p></td>
+</tr>
+<tr class="row-odd"><td><p>LTR/PR</p></td>
+<td><p><span class="rm-future">3.28.0</span></p></td>
+<td><p><span class="rm-future">3.22.12</span></p></td>
+<td></td>
+<td><p>2022-10-21</p></td>
+<td><p>43</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p><span class="rm-future">3.28.1</span></p></td>
+<td><p><span class="rm-future">3.22.13</span></p></td>
+<td></td>
+<td><p>2022-11-18</p></td>
+<td><p>47</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p><span class="rm-future">3.28.2</span></p></td>
+<td><p><span class="rm-future">3.22.14</span></p></td>
+<td></td>
+<td><p>2022-12-16</p></td>
+<td><p>51</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR/FF</p></td>
+<td><p><span class="rm-future">3.28.3</span></p></td>
+<td><p><span class="rm-future">3.22.15</span></p></td>
+<td><p>3.29</p></td>
+<td><p>2023-01-13</p></td>
+<td><p>3</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-odd"><td><p>LR/PR</p></td>
+<td><p><span class="rm-future">3.30.0</span></p></td>
+<td><p><span class="rm-future">3.28.4</span></p></td>
+<td></td>
+<td><p>2023-02-17</p></td>
+<td><p>8</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p><span class="rm-future">3.30.1</span></p></td>
+<td></td>
+<td></td>
+<td><p>2023-03-17</p></td>
+<td><p>12</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p><span class="rm-future">3.30.2</span></p></td>
+<td></td>
+<td></td>
+<td><p>2023-04-14</p></td>
+<td><p>16</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR/FF</p></td>
+<td><p><span class="rm-future">3.30.3</span></p></td>
+<td></td>
+<td><p>3.31</p></td>
+<td><p>2023-05-12</p></td>
+<td><p>20</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-odd"><td><p>LR/PR</p></td>
+<td><p><span class="rm-future">3.32.0</span></p></td>
+<td><p><span class="rm-future">3.28.5</span></p></td>
+<td></td>
+<td><p>2023-06-16</p></td>
+<td><p>25</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p><span class="rm-future">3.32.1</span></p></td>
+<td></td>
+<td></td>
+<td><p>2023-07-14</p></td>
+<td><p>29</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p><span class="rm-future">3.32.2</span></p></td>
+<td></td>
+<td></td>
+<td><p>2023-08-11</p></td>
+<td><p>33</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR/FF</p></td>
+<td><p><span class="rm-future">3.32.3</span></p></td>
+<td></td>
+<td><p>3.33</p></td>
+<td><p>2023-09-08</p></td>
+<td><p>37</p></td>
+<td><p>6</p></td>
+</tr>
+<tr class="row-odd"><td><p>LTR/PR</p></td>
+<td><p><span class="rm-future">3.34.0</span></p></td>
+<td><p><span class="rm-future">3.28.6</span></p></td>
+<td></td>
+<td><p>2023-10-20</p></td>
+<td><p>43</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p><span class="rm-future">3.34.1</span></p></td>
+<td></td>
+<td></td>
+<td><p>2023-11-17</p></td>
+<td><p>47</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p><span class="rm-future">3.34.2</span></p></td>
+<td></td>
+<td></td>
+<td><p>2023-12-15</p></td>
+<td><p>51</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR/FF</p></td>
+<td><p><span class="rm-future">3.34.3</span></p></td>
+<td></td>
+<td><p>3.35</p></td>
+<td><p>2024-01-12</p></td>
+<td><p>2</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-odd"><td><p>LR/PR</p></td>
+<td><p><span class="rm-future">3.36.0</span></p></td>
+<td><p><span class="rm-future">3.34.4</span></p></td>
+<td></td>
+<td><p>2024-02-16</p></td>
+<td><p>7</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p><span class="rm-future">3.36.1</span></p></td>
+<td></td>
+<td></td>
+<td><p>2024-03-15</p></td>
+<td><p>11</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p><span class="rm-future">3.36.2</span></p></td>
+<td></td>
+<td></td>
+<td><p>2024-04-12</p></td>
+<td><p>15</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR/FF</p></td>
+<td><p><span class="rm-future">3.36.3</span></p></td>
+<td></td>
+<td><p>3.37</p></td>
+<td><p>2024-05-10</p></td>
+<td><p>19</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-odd"><td><p>LR/PR</p></td>
+<td><p><span class="rm-future">3.38.0</span></p></td>
+<td><p><span class="rm-future">3.34.5</span></p></td>
+<td></td>
+<td><p>2024-06-14</p></td>
+<td><p>24</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p><span class="rm-future">3.38.1</span></p></td>
+<td></td>
+<td></td>
+<td><p>2024-07-12</p></td>
+<td><p>28</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p><span class="rm-future">3.38.2</span></p></td>
+<td></td>
+<td></td>
+<td><p>2024-08-09</p></td>
+<td><p>32</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR/FF</p></td>
+<td><p><span class="rm-future">3.38.3</span></p></td>
+<td></td>
+<td><p>3.39</p></td>
+<td><p>2024-09-06</p></td>
+<td><p>36</p></td>
+<td><p>6</p></td>
+</tr>
+<tr class="row-odd"><td><p>LTR/PR</p></td>
+<td><p><span class="rm-future">3.40.0</span></p></td>
+<td><p><span class="rm-future">3.34.6</span></p></td>
+<td></td>
+<td><p>2024-10-18</p></td>
+<td><p>42</p></td>
+<td><p>4</p></td>
+</tr>
+</tbody>
+</table>
+<table class="colwidths-given docutils align-default" id="eventlegend">
+<caption><span class="caption-text">Event legend</span><a class="headerlink" href="#eventlegend" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 90%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Event</p></th>
+<th class="head"><p>Description</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LTR</p></td>
+<td><p>Long term release, begin of new development phase</p></td>
+</tr>
+<tr class="row-odd"><td><p>LR</p></td>
+<td><p>Regular release, begin of new development phase</p></td>
+</tr>
+<tr class="row-even"><td><p>FF</p></td>
+<td><p>Feature freeze, end of development phase</p></td>
+</tr>
+<tr class="row-odd"><td><p>HF</p></td>
+<td><p>hard freeze</p></td>
+</tr>
+<tr class="row-even"><td><p>SF</p></td>
+<td><p>Soft freeze with bi-monthly vote</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>Point release of latest release and LTR branch</p></td>
+</tr>
+<tr class="row-even"><td><p>EPR</p></td>
+<td><p>Extra Point release</p></td>
+</tr>
+<tr class="row-odd"><td><p><span class="rm-current">current</span></p></td>
+<td><p><span class="rm-current">currently supported releases:</span> 3.22.10 and 3.26.2</p></td>
+</tr>
+<tr class="row-even"><td><p><span class="rm-next">next</span></p></td>
+<td><p><span class="rm-next">next releases</span></p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="location-of-prereleases-nightly-builds">
+<span id="qgis-prereleases"></span><h2>Location of prereleases / nightly builds<a class="headerlink" href="#location-of-prereleases-nightly-builds" title="Permalink to this headline">¶</a></h2>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 91%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Platform</p></th>
+<th class="head"><p>Location</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Windows</p></td>
+<td><p><a class="reference internal" href="../../forusers/alldownloads.html#qgis-windows-testing"><span class="std std-ref">OSGeo4W</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p>Linux</p></td>
+<td><p><a class="reference internal" href="../../forusers/alldownloads.html#qgis-debian-testing"><span class="std std-ref">Debian/Ubuntu</span></a></p></td>
+</tr>
+<tr class="row-even"><td><p>MacOS</p></td>
+<td><p><a class="reference internal" href="../../forusers/alldownloads.html#qgis-macos-testing"><span class="std std-ref">Mac OS</span></a></p></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+
+                        
+                    
+                </div>
+                  
+            </div>
+        </div>
+    
+
+    <!--<a href="https://github.com/qgis/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10000;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>-->
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="bugreporting.html" title="Bugs, Features and Issues"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="contributor_requirements.html" title="Requirements for new contributors"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="../index.html" >Get Involved / Development</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="index.html" >Development</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Road Map</a></li> 
+      </ul>
+    </div>
+  <footer class="footer">
+
+    <div class="container">
+        <div>
+          <ul class="unstyled inline" id="social">
+            <li id="twitter"><a href="http://twitter.com/qgis" class="external"><div></div></a></li>
+            <li id="facebook"><a href="https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096" class="external"><div></div></a></li>
+            <li id="github"><a href="http://github.com/qgis/" class="external"><div></div></a></li>
+            <li id="aboutcontact"><a href="../index.html"><div></div></a></li>
+          </ul>
+        </div>
+
+        <p class="credit">If not stated otherwise, all content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a></p>
+    </div>
+    <div class="container">
+      <p class="credit">
+        Select graphics from <a href="https://thenounproject.com" target="_blank">The Noun Project collection</a>
+        
+        
+      </p>
+      <p class="credit">
+        Untranslated page? Or you spot a translation error:
+        <a id="fix_translation_link" target="_blank" href="https://www.transifex.com/projects/p/qgis-website/">fix me</a>
+        <br/>
+        Textual error, missing text or you know better:
+        <a id="fix_text_link" target="_blank" href="https://github.com/qgis/QGIS-Website">fix me</a>
+      </p>
+    </div>
+  </footer>
+
+  </body>
+</html>

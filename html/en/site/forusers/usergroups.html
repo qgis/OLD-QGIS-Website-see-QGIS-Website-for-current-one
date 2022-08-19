@@ -1,0 +1,572 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>User Groups</title>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/basic.css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/qgis-style.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-sphinx.css" type="text/css" />
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/qgis-site.js"></script>
+    <script src="../../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script src="../../_static/jquery.countdown-2.0.4/jquery.countdown.min.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Commercial support" href="commercial_support.html" />
+    <link rel="prev" title="Support" href="support.html" />
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="commercial_support.html" title="Commercial support"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="support.html" title="Support"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="index.html" accesskey="U">For Users</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">User Groups</a></li> 
+      </ul>
+    </div>
+
+    
+  <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="../index.html">QGIS</a>
+        <span class="navbar-text pull-left"><p><b>3.26.2 ​ <br/> 3.22.10 LTR</b></p></span>
+        
+          <select id="languages">
+  <!-- note on the options here: the 'title' string is to be translated in your
+  language, but the element text is supposed to stay in native lang/txt -->
+  <option value="en" title="English">English</option>
+  <option value="ca" title="Catalan">Català</option>
+  <option value="da" title="Danish">Dansk</option>
+  <option value="de" title="German">Deutsch</option>
+  <option value="es" title="Spanish">Español</option>
+  <option value="fa" title="Persian">فارسی</option>
+  <option value="fi" title="Finnish">Suomi</option>
+  <option value="fr" title="French">Français</option>
+  <option value="gl" title="Galician">Galego</option>
+  <option value="id" title="Indonesian">Bahasa Indonesia</option>
+  <option value="it" title="Italian">Italiano</option>
+  <option value="hu" title="Hungarian">Magyar</option>
+  <option value="ja" title="Japanese">日本語</option>
+  <option value="km_KH" title="Khmer">ភាសាខ្មែរ    </option>
+  <option value="ko" title="Korean">한국어</option>
+  <option value="lt" title="Lithuanian">Lietuvių</option>
+  <option value="nl" title="Dutch">Nederlands</option>
+  <option value="pl" title="Polish">Polski</option>
+  <option value="pt_BR" title="Portuguesei (Brazil)">Português (Brasil)</option>
+  <option value="pt_PT" title="Portuguese">Português</option>
+  <option value="ro" title="Romanian">Română</option>
+  <option value="tr" title="Turkish">Türkçe</option>
+  <option value="ru" title="Russian">Русский</option>
+  <option value="uk" title="Ukrainian">Українська</option>
+  <option value="zh-Hans" title="Chinese (Simplified)">简体中文</option>
+  <option value="zh-Hant" title="Chinese (Traditional)">繁體中文</option>
+</select>
+
+<script>
+    var currentPage = 'site/forusers/usergroups.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    // split index.html if currentUrl is ended by '/'
+    var currentUrl = window.location.href;
+    if (currentUrl.slice(-1) == '/' && currentPage.slice(-1) != '/'){
+      var pages = currentPage.split('/');
+      pages.pop();
+      currentPage = pages.join('/') + '/';
+    }
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        // it's possible this is the index.html page called without 'index.html', try without the currentPage
+        if (langPlusPage==undefined){
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // it's possible this is an index.html page called without 'index.html', try removing index.html
+        if (langPlusPage==undefined){
+            currentPage = currentPage.replace('index.html','')
+            search = new RegExp('\/[a-zA-Z_-]{2,8}\/'+ currentPage, 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        // still no langPlugPage: stop, because the language swicher will misbehave
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+        // TODO: links should come from conf.py
+        // TODO: all template pages have the actual translation in sphinc.conf
+        // IMPORTANT: space, -, _ etc replacing below must be 100% inline with
+        // code in scripts/create_transifex_resources.sh !!
+        // https://github.com/qgis/QGIS-Website/blob/master/scripts/create_transifex_resources.sh
+        fix_translation_link = 'https://www.transifex.com/projects/p/qgis-website/translate/#' + 
+            currentLang.slice(1) + currentPage.replace(/_/g, "-").replace(/ /g, "-").replace(/\//g, "_").replace(/\.html/g, "").replace(/\./g, "-")
+        if ('/en/' != currentLang) {
+            $('#fix_translation_link').attr('href', fix_translation_link);
+        }
+        fix_text_link = 'https://github.com/qgis/QGIS-Website/edit/master/source/' +
+            currentPage.replace(/.html/g, ".rst")
+        // TODO: only on rst pages, here a list of pages which are actual templates?
+        if (true){
+            $('#fix_text_link').attr('href', fix_text_link);
+        }
+
+        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
+
+        $("#languages").change(function() {
+            gotoLang($(this).val());
+        });
+
+        if (currentPage == "site/about/screenshots.html"){
+            atom('/feeds/qgisflickrscreenshots.atom', '#qgisflickrscreenshotsatom', 30, false, 'span3');
+            atom('/feeds/qgisflickrmaps.atom', '#qgisflickrmapsatom', 30, false, 'span3');
+        }
+        else if (currentPage == "site/about/sustaining_members.html" || currentPage.indexOf("visualchangelog")>0){
+            // crontab is pulling url's below and copy to /feed at qgis.org
+            // https://changelog.qgis.org/en/qgis/members/json/
+            json2html('/feeds/members.json', '#qgissustainingmembersatom', 1000, true, 'span3');
+            // https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2
+            json2html('/feeds/qgispastmembers.json', '#qgispastsustainingmembersatom', 1000, true, 'span3');
+        }
+        else if (currentPage == "site/forusers/download.html"){
+            $($('section.content')[0]).append('<div id="thankyou"> <div id="thankyoucontent">'+
+            '<h2>Thank you!</h2> <p/>'+
+            '<div class="container"><div class="span8">'+
+            '<p>Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and will always be free of charge if downloaded from QGIS.org. If you can afford to support the project and people making this software, please consider making <a href="https://donate.qgis.org/">a small donation to support</a> our efforts. Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too. Our very best regards!</p>'+
+            '<p>The QGIS Team</p>'+
+            '</div><div class="container">'+
+            '<div class="span4"><p><a class="btn btn-large btn-success btn-flat" href="https://donate.qgis.org/">Donate Now</a></p><p class="muted"></p></div>'+
+            '<div class="span5"><p><a id="closethankyou"class="btn btn-large btn-success btn-flat" href="#">Close this message</a></p><p class="muted"></p></div>'+
+            '</div>'+
+            '<br/><p><img src="../../_static/images/splash.png"/></p></div>');
+            $('#thankyou').click(function(){ $('#thankyou').hide(); });
+            $('#closethankyou').click(function(){ $('#thankyou').hide(); });
+            $('a.reference').click(function(){
+                $('#thankyou').show();
+                return true;
+            });
+        }
+        else if (currentPage == "site/forusers/alldownloads.html"){
+	    replacesha('qgis-rel-dev');
+	    replacesha('qgis-ltr-dev');
+	    replacesha('qgis-dev');
+        }
+    });
+
+    //
+    // load current page in a different language
+    //
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+    //
+    // function to load a json (feed) and create html for it
+    // currently only used for sustaining members
+    //
+    function json2html(url, holder, count, showcont, spanclass){
+        var html = '';
+        $.getJSON(url, function (data) {
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+
+            $.each( data.rss.channel.item, function( key, val ){
+              var item = val;
+              var imglink = '#';
+              var link = '#';
+              var content = '';
+              var member_level = 'Small';
+              if (item.member_url){link=item.member_url};
+              if (item.image_url){imglink=item.image_url};
+              if (item.member_level){member_level=item.member_level};
+              var title = item.title;
+              content = '<div><img class="member_img '+member_level.toLowerCase()+'" src="'+imglink+'" width="300px"></div>'+
+                '<p class="member_body '+member_level.toLowerCase()+'">'+item.member_country+'<br/>Membership level: '+member_level+'<br/>'+
+                '('+item.start_date+' - '+item.end_date+')</p>';
+              html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+              html+='<div class="memberdiv"><h4>'+title+'</h4>';
+              html+=content;
+              html+='</div></a></div>';
+            })
+          $(holder).append(html);
+        })
+    }
+    //
+    // function to load an atom feed, an put it in an element
+    //
+    function atom(url, holder, count, showcont, spanclass){
+        $.get(url, function (data) {
+            var html = "";
+            if (spanclass == undefined){
+                spanclass = "span2"
+            }
+            var maxitems = 7;
+            if(count)maxitems=count;
+            var showcontent = false;
+            if(showcont)showcontent=showcont;
+            var counter = 0;
+            $(data).find("entry").each(function () {
+                var el = $(this);
+                var title = el.find('title').text();
+                var author = el.find('name').text();
+                var content = el.find('content').text();
+                if (content.length==0){
+                    // try summary
+                    content = el.find('summary').text();
+                }
+                var imglink='#';
+                var link='#';
+                el.find('link').each(
+                    function(){
+                        // flickr image for maps and qgis screenshots
+                        if ($(this).attr('rel') == 'enclosure'){
+                            //    s - Specifies the small square size of 75x75 pixels.
+                            //    t - Specifies the thumbnail size with 100 pixels on the longest side.
+                            //    m - Specifies the medium size with 240 pixels on the longest side.
+                            //    z - Specifies the medium size with 640 pixels on the longest side.
+                            //    b - Specifies the large size with 1024 pixels on the longest side.
+                            //    q - square 
+                            imglink = $(this).attr('href').replace('_b.jpg','_q.jpg');
+                        }
+                        // links
+                        else if ($(this).attr('rel') == 'alternate'){
+                            link = $(this).attr('href');
+                        }
+                    }
+                )
+                counter++;
+
+                if (counter<=maxitems && 
+                    (holder == '#qgisflickrmapsatom' || holder == '#qgisflickrscreenshotsatom') ){
+                    // html for flickr maps
+                    html+='<div class="'+spanclass+'"><p><a class="external" href="'+link+'">';
+                    if(imglink!='#'){ html+='<img class="flickrimg" src="'+imglink+'"/>'; }
+                    html+='</a></p></div>\n';
+                }
+                else if (counter<=maxitems){
+                    // visual changelogs, qugs feed and planet feed
+                    var addit = true;
+                    if (holder == '#qgisplanetatom'){
+                        var s = title.split(':');
+                        title = s[0];
+                        content = s[1];
+                        // skip blog.qgis.org posts
+                        if (link.indexOf('blog.qgis.org')>=0){
+                            addit = false;
+                            counter --;
+                        }
+                    }
+                    else if (holder == '#qgissustainingmembersatom' || holder == '#qgissustainingmembersatom'){
+                        html+='<div class="clearfix"><a  class="clearfix" href="'+link+'">';
+                        html+='<div class="memberdiv"><h4>'+title+'</h4>';
+                        html+=content;
+                        html+='</div></a></div>';
+                        addit = false; // we are building html ourselves!!
+                    }
+                    else if (holder == '#qgisblogatom'){
+                        var s = title.split(':');
+                        if (s[0] != 'QGIS Project blog'){
+                            addit = false;
+                            counter--;
+                        }
+                        // trying to extract date from link
+                        // http://blog.qgis.org/2017/09/02/do-you-want-to-host-a-qgis-developer-meeting/
+                        d = link.split('/').slice(3,6);  // 2017,09,02
+                        title = '<img src="../_static/logo.png" style="width:30px;"/> - ' + d[0] + '/' + d[1] + '/' + d[2] + ' - ' + s[1];
+                        content = '';
+                    }
+                    if (addit){
+                        html+='<a class="external" href="'+link+'">';
+                        html+='<div class="info-box" style="padding:10px;color:#666;"><b>'+title+'</b><br/>';
+                        if (showcontent) { html+=content; };
+                        html+='</div></a>\n';
+                    }
+                }
+            });
+            $(holder).append(html);
+        });
+    }
+
+    //
+    // function to replace a item
+    //
+    function replacesha(id) {
+      var xhr = new XMLHttpRequest();
+      xhr.onload = function () {
+	var sha = this.responseText.substring(this.responseText.indexOf(':')+1);
+        document.getElementById(id).innerHTML = "<a target=\"_new\" href=\"http://github.com/qgis/QGIS/commit/" + sha + "\">" + sha + "</a>";
+      };
+      xhr.open('GET', '/downloads/' + id + '.sha');
+      xhr.send();
+    }
+</script>
+        
+        <div class="nav-collapse collapse">
+          <ul class="unstyled nav main-menu">
+            <li><a href="../about/index.html">Discover QGIS</a></li>
+            <li><a href="index.html">For Users</a></li>
+            <li><a href="../getinvolved/index.html">Get Involved</a></li>
+            <li><a href="../../docs/index.html">Documentation</a></li>
+            <li>
+          
+<form class="navbar-search" action="../../search.html" method="get">
+  <input type="text" name="q" class="search-query" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div style="display:none;" class="container" id="nextprev" >
+    
+    <a accesskey="p" href="support.html">&lt;&lt; prev</a>
+    
+    
+    <a accesskey="n" href="commercial_support.html">next &gt;&gt;</a>
+    
+    </div>
+
+
+
+
+    
+        <div class="container">
+            <div class="row">
+      <div class="span4">
+        <div id="sidebar" class="bs-sidenav well" data-spy="scroll"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../about/index.html">Discover QGIS</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">For Users</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="download.html">Download QGIS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="visualchangelogs.html">Visual Changelogs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="trainingmaterial/index.html">Training material</a></li>
+<li class="toctree-l2"><a class="reference internal" href="support.html">Support</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">User Groups</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#current-list-of-qgis-user-groups">Current list of QGIS user groups</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#goals-of-a-user-group">Goals of a user group</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#general-assumptions-recommendations">General assumptions/recommendations</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#organization">Organization</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#local-country-domain-qgis-xx">Local Country domain qgis.xx</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#website-template">Website template</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="commercial_support.html">Commercial support</a></li>
+<li class="toctree-l2"><a class="reference external" href="http://plugins.qgis.org/plugins/">Plugins</a></li>
+<li class="toctree-l2"><a class="reference internal" href="books/index.html">Books</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../getinvolved/index.html">Get Involved / Development</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../docs/index.html">Documentation</a></li>
+</ul>
+
+        </div>
+      </div>
+                <div class="span8">
+                    
+                        
+                            <section id="user-groups">
+<span id="qgis-usergroups"></span><h1>User Groups<a class="headerlink" href="#user-groups" title="Permalink to this headline">¶</a></h1>
+<section id="current-list-of-qgis-user-groups">
+<h2>Current list of QGIS user groups<a class="headerlink" href="#current-list-of-qgis-user-groups" title="Permalink to this headline">¶</a></h2>
+<p><strong>Registered 2016 or earlier</strong></p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://qgisbrasil.org/">QGIS Brasil (Brazil) - contact: Arthur Nanni</a></p></li>
+<li><p><a class="reference external" href="https://qgis.dk/">QGIS Brugergruppe Danmark (Denmark) - contact: Jacob Arpe</a></p></li>
+<li><p><a class="reference external" href="https://qgis.uk/">QGIS UK (England) - contact: Simon Miles</a></p></li>
+<li><p><a class="reference external" href="https://qgis.de/">QGIS Anwendergruppe Deutschland (Germany) - contact: Thomas Schüttenberg</a></p></li>
+<li><p><a class="reference external" href="http://qgis.it/">Gruppo degli utenti italiani di QGIS (Italy) - contact: Matteo Ghetta</a></p></li>
+<li><p><a class="reference external" href="http://qgis.jp/">QGIS User Group Japan (OSGeo.JP) - contact: Kosuke ASAHI</a></p></li>
+<li><p><a class="reference external" href="https://qgis.pe/">QGIS Perú Official Users Group - contact: Anibal Alarcon</a></p></li>
+<li><p><a class="reference external" href="https://qgis.pl/">Polska Grupa Użytkowników QGIS (Poland) - contact: Milena Nowotarska</a></p></li>
+<li><p><a class="reference external" href="https://qgis.pt/">QGIS Portugal - contact: João Gaspar</a></p></li>
+<li><p><a class="reference external" href="https://qgis.uk/">QGIS UK (Scotland) - contact: Ross McDonald</a></p></li>
+<li><p><a class="reference external" href="https://qgis.ch/">QGIS user group Switzerland - contact: Isabel Kiefer</a></p></li>
+<li><p><a class="reference external" href="http://qgis.uk/">QGIS UK (Wales/Cymru) - contact: Kevin Williams</a></p></li>
+<li><p><a class="reference external" href="https://teamwork.niwa.co.nz/display/NQUG/NIWA+QGIS+Users+Group">NIWA QGIS user group (New Zealand) - contact: Brent Wood –&gt; REMOVED in 2018</a></p></li>
+</ul>
+<p><strong>Registered 2017</strong></p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://qgis.no/">QGIS Norge (Norway) - contact: Antonio Armas Diaz</a></p></li>
+<li><p><a class="reference external" href="https://qgis.org.za/">QGIS ZA (South Africa) - contact: Admire Nyakudya</a> (certificate expired 2019-01-24)</p></li>
+<li><p><a class="reference external" href="https://www.osgeo.asso.fr/">Groupe des Utilisateurs de QGIS - France (France) - contact: Harrissou Sant-anna</a></p></li>
+<li><p><a class="reference external" href="https://qgis.se/">QGIS Sverige (Sweden) - contact: Karl-Magnus Jönsson</a></p></li>
+<li><p><a class="reference external" href="https://qgis.or.ke">QGIS Kenya - contact: Benard Mitto</a></p></li>
+<li><p><a class="reference external" href="https://www.qgis-au.org">QGIS Australia - contact: Andrew Jeffrey</a></p></li>
+<li><p><a class="reference external" href="http://qgis.us">QGIS USA - contact: Kurt Menke</a></p></li>
+<li><p><a class="reference external" href="https://qgis.mx">QGIS Mexico - contact: Hennessy Amor Becerra Ayala</a></p></li>
+<li><p><a class="reference external" href="https://qgis.org">QGIS Georgia - contact: Zurab Archvadze –&gt; REMOVED in 2018</a></p></li>
+</ul>
+<p><strong>Registered 2018</strong></p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://qgis.ro/">Asociația Utilizatorilor QGIS (Romania) - contact: Tudor Bărăscu</a></p></li>
+<li><p><a class="reference external" href="https://qgis.es/">Association of QGIS users in Spain - contact: Carlos López Quintanilla</a></p></li>
+<li><p><a class="reference external" href="https://qgisusers.co">Grupo de Usuarios QGIS Colombia - contact: Germán Carrillo</a></p></li>
+</ul>
+<p><strong>Removed 2018</strong></p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://teamwork.niwa.co.nz/display/NQUG/NIWA+QGIS+Users+Group">NIWA QGIS user group (New Zealand) - contact: Brent Wood</a></p></li>
+<li><p><a class="reference external" href="https://qgis.org">QGIS Georgia - contact: Zurab Archvadze</a></p></li>
+</ul>
+<p><strong>Registered 2020</strong></p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://qgis.nl/">QGIS gebruikersgroep (Netherlands) - contact: Raymond Nijssen</a></p></li>
+<li><p><a class="reference external" href="https://qgis.mx/">Asociación QGIS México - contact: Hennessy Amor Becerra Ayala</a></p></li>
+<li><p><a class="reference external" href="https://qgis-id.github.io/">Komunitas Pengguna QGIS Indonesia - contact: Ismail Sunni</a></p></li>
+<li><p><a class="reference external" href="https://qgis.sk/">QGIS Slovensko (Slovakia) - contact: Jana Michalkova</a></p></li>
+<li><p><a class="reference external" href="https://qgis.ec/">Grupo de usuarios QGIS Ecuador - contact: Adrián Benavides</a></p></li>
+</ul>
+<p><strong>Registered 2021</strong></p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://qgis.at/">QGIS Anwendergruppe Österreich (Austria) - contact: Paul Stampfl</a></p></li>
+<li><p><a class="reference external" href="https://qgisghana.org/">QGIS Ghana - contact: Enock Seth Nyamador</a></p></li>
+</ul>
+</section>
+<section id="goals-of-a-user-group">
+<h2>Goals of a user group<a class="headerlink" href="#goals-of-a-user-group" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Organization of user meetings</p></li>
+<li><p>Coordination of development, taking into account regional/national standards and requirements</p></li>
+<li><p>QGIS information: meetings, articles in GIS magazines, QGIS information in social media, GIS discussion boards, etc.</p></li>
+<li><p>Collection of case studies of local QGIS usage</p></li>
+<li><p>Sponsoring: a local user group could collect reasonable annual membership fees (depending on the country). This collected funds could be used to pay development of certain features, to help with bug-fixing or as a donation to the international QGIS project.</p></li>
+<li><p>Establishment of interest groups, e.g. surveying, urban planning, server/web client, etc.</p></li>
+<li><p>Initialization/coordination of application modules, e.g. surveying, urban planning, server/web client, etc.</p></li>
+<li><p>Electing a representative to act as a <a class="reference internal" href="../getinvolved/governance/governance.html#country-voting-members"><span class="std std-ref">QGIS Country Voting Member</span></a></p></li>
+</ul>
+</section>
+<section id="general-assumptions-recommendations">
+<h2>General assumptions/recommendations<a class="headerlink" href="#general-assumptions-recommendations" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>stay vendor/company neutral</p></li>
+<li><p>establish democratic structures for the steering committee, voting and important decision</p></li>
+<li><p>stay transparent, esp. if you deal with membership-fees and how you spend it</p></li>
+<li><p>inform the international project from time to time about your local activities</p></li>
+</ul>
+</section>
+<section id="organization">
+<h2>Organization<a class="headerlink" href="#organization" title="Permalink to this headline">¶</a></h2>
+<p>Depending on your country, a smaller legal entity, e.g. an association, could be established. Depending on local legislation such an entity implies that you meet at least once per year (general assembly), publish a yearly report and make the financial report available to your members. Often it also implies the creation of statutes.</p>
+<p>Statutes of the Swiss QGIS user group as an example:</p>
+<ul class="simple">
+<li><p>german (master): <a class="reference external" href="https://www.qgis.ch/de/verein/statuten-der-qgis-anwendergruppe-schweiz">https://www.qgis.ch/de/verein/statuten-der-qgis-anwendergruppe-schweiz</a></p></li>
+<li><p>english (translation): <a class="reference external" href="https://www.qgis.ch/en/association/statutes-of-the-swiss-qgis-user-group">https://www.qgis.ch/en/association/statutes-of-the-swiss-qgis-user-group</a></p></li>
+<li><p>french (translation): <a class="reference external" href="https://www.qgis.ch/fr/association/statuts-du-groupe-d2019utilisateurs-qgis-suisse">https://www.qgis.ch/fr/association/statuts-du-groupe-d2019utilisateurs-qgis-suisse</a></p></li>
+</ul>
+<p>Membership application forms:</p>
+<ul class="simple">
+<li><p>german: <a class="reference external" href="https://www.qgis.ch/de/verein/beitrittserklaerung">https://www.qgis.ch/de/verein/beitrittserklaerung</a></p></li>
+<li><p>english: <a class="reference external" href="https://www.qgis.ch/en/association/qgis-usergroup-switzerland-membership-application-form">https://www.qgis.ch/en/association/qgis-usergroup-switzerland-membership-application-form</a></p></li>
+<li><p>french: <a class="reference external" href="https://www.qgis.ch/fr/association/declaration-d2019adhesion">https://www.qgis.ch/fr/association/declaration-d2019adhesion</a></p></li>
+</ul>
+<p>You can use these statutes and membership application forms as an idea
+or reference and change them to your local situation.</p>
+</section>
+<section id="local-country-domain-qgis-xx">
+<h2>Local Country domain qgis.xx<a class="headerlink" href="#local-country-domain-qgis-xx" title="Permalink to this headline">¶</a></h2>
+<p>It is recommended to register your local country domains, e.g. qgis.ch or qgis.uk. If the domain is already taken by someone other organization, company or person please negotiate if you can transfer the owner to the local QGIS user group. The QGIS international project has registered QGIS as a trademark, which should help you during your negotations.</p>
+</section>
+<section id="website-template">
+<h2>Website template<a class="headerlink" href="#website-template" title="Permalink to this headline">¶</a></h2>
+<p>if you do not wish to host and design from scratch the group website, you can use the template provided at <a class="reference external" href="https://github.com/qgis/qgis-template.github.io">https://github.com/qgis/qgis-template.github.io</a></p>
+</section>
+</section>
+
+                        
+                    
+                </div>
+                  
+            </div>
+        </div>
+    
+
+    <!--<a href="https://github.com/qgis/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10000;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>-->
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="commercial_support.html" title="Commercial support"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="support.html" title="Support"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html"></a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="index.html" >For Users</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">User Groups</a></li> 
+      </ul>
+    </div>
+  <footer class="footer">
+
+    <div class="container">
+        <div>
+          <ul class="unstyled inline" id="social">
+            <li id="twitter"><a href="http://twitter.com/qgis" class="external"><div></div></a></li>
+            <li id="facebook"><a href="https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096" class="external"><div></div></a></li>
+            <li id="github"><a href="http://github.com/qgis/" class="external"><div></div></a></li>
+            <li id="aboutcontact"><a href="../getinvolved/index.html"><div></div></a></li>
+          </ul>
+        </div>
+
+        <p class="credit">If not stated otherwise, all content is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a></p>
+    </div>
+    <div class="container">
+      <p class="credit">
+        Select graphics from <a href="https://thenounproject.com" target="_blank">The Noun Project collection</a>
+        
+        
+      </p>
+      <p class="credit">
+        Untranslated page? Or you spot a translation error:
+        <a id="fix_translation_link" target="_blank" href="https://www.transifex.com/projects/p/qgis-website/">fix me</a>
+        <br/>
+        Textual error, missing text or you know better:
+        <a id="fix_text_link" target="_blank" href="https://github.com/qgis/QGIS-Website">fix me</a>
+      </p>
+    </div>
+  </footer>
+
+  </body>
+</html>
