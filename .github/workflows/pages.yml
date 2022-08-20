@@ -1,0 +1,67 @@
+name: Deploy static content to Pages
+
+on: [push]
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  # Single deploy job since we're just deploying
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Free additional space
+        uses: easimon/maximize-build-space@master
+        with:
+          remove-haskell: true # 9G
+          remove-android: true # 18G
+          remove-dotnet: true # 30G
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v1
+
+      - name: Install dependencies
+        run: |
+            pip install -r REQUIREMENTS.txt
+
+      - name: Build sphinx website
+        run: |
+          rm -rf i18n
+          git clone https://github.com/qgis/QGIS-Website-i18n.git /tmp/i18n
+          mv /tmp/i18n i18n
+          find i18n -maxdepth 1 -mindepth 1 -type d -printf '%f\n' | xargs -I '{}' make -e LANG="{}" html
+
+      - name: Update feeds
+        run: |
+          mkdir -p output/html/feeds
+          cd output/html/feeds
+          curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2244553@N22&lang=en-us&format=atom" -o qgisflickrmaps.atom
+          curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2327386@N22&lang=en-us&format=atom" -o qgisflickrscreenshots.atom
+          curl -o qgisplanet.atom "https://plugins.qgis.org/planet/feed/atom/"
+          cp ${{ github.workspace }}/source/feeds/qugsnews.atom qugsnews.atom
+          curl -k -A Mozilla https://changelog.qgis.org/en/qgis/members/json/ -o members.json
+          curl -k -A Mozilla https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2 -o qgispastmembers.json
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: 'output/html'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
+
