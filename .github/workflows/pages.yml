@@ -44,7 +44,7 @@ jobs:
           curl -L https://github.com/qgis/QGIS-Website-i18n/archive/refs/heads/main.tar.gz | tar -xz QGIS-Website-i18n-main/i18n --strip-components=1
 
           langs=(en ca da de es fa fi fr gl hu id it ja km_KH ko lt nl pl pt_BR pt_PT ro tr ru uk zh-Hans zh-Hant)
-          for l in langs;
+          for l in $langs;
           do
             make -e LANG="$l" html
           done
