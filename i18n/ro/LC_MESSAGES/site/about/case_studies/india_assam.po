@@ -5,15 +5,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 20:13+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2013-2014\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: ../../source/site/about/case_studies/india_assam.rst:3
+msgid ""
+"QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
+"Assam, India Sonitpur District)"
+msgstr "QGIS pentru monitorizarea tigrilor (folosind capcane foto, în Rezervația de Tigri Nameri, Assam, Districtul Indian Sonitpur)"
 
 #: ../../source/site/about/case_studies/india_assam.rst:5
 msgid ""
@@ -25,6 +32,9 @@ msgid ""
 "west and River Bor-Dikorai in the east. To the north of the Nameri lies the "
 "Pakke Tiger Reserve of Arunachal Pradesh."
 msgstr "Rezervația de Tigri din Nameri (NTR) este una dintre cele 3 rezervații de tigri din Assam, fiind situată în partea de nord a Districtului Sonitpur din Assam, de-a lungul pantelor estice ale masivului Himalaya. Întinsă pe o suprafață de 344 km pătrați, NTR are o bogată diversitate de floră și faună. Zona centrală a rezervei, care constituie “Parcul Național Nameri”, este legată de râul Jia-Bhoreli în partea de vest și râul Bor-Dikorai în est. În partea de nord a Nameri se află Rezervația de Tigri Pakke din Arunachal Pradesh."
+
+msgid "Area of Tiger Reserve"
+msgstr ""
 
 #: ../../source/site/about/case_studies/india_assam.rst:12
 msgid ""
@@ -51,8 +61,30 @@ msgid ""
 msgstr "Începând cu anul 2011, Autoritatea Națională pentru Conservarea Tigrilor (NTCA) din India a făcut obligatorie, pentru toate rezervațiile de tigri ale țării, monitorizarea cu ajutorul capcanelor foto. În cadrul acestui nou protocol, 25 de perechi de camere vor fi instalate de 100 km pătrați de rezervație, pe o perioada de eșantionare de 40-60 de zile. Acest nou protocol de monitorizare a tigrilor se bazează foarte mult pe GIS."
 
 #: ../../source/site/about/case_studies/india_assam.rst:24
+msgid "Picture of a male Tiger"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:24
 msgid "Picture of a male tiger that was captured in one of the camera traps"
 msgstr "Imagine a unui tigru de sex masculin, capturat într-una dintre camerele capcană "
+
+#: ../../source/site/about/case_studies/india_assam.rst:26
+msgid ""
+"During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
+"using QGIS. To begin with, we digitized the NTR boundary in QGIS and saved "
+"it as polygon. This boundary polygon was exported to GPS for navigation "
+"purpose during the field surveys. We conducted an extensive sign survey in "
+"NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
+"GPS coordinates of tiger signs as well as suitable locations for camera "
+"traps were recorded. After completion of the survey, the data was "
+"transferred to QGIS using GPS tools for further processing and for "
+"finalizing camera trap locations. A shape file containing the tiger signs "
+"and probable camera trap locations was prepared."
+msgstr "În perioada 2012-13, am implementat acest nou protocol de monitorizare a tigrilor în NTR, prin utilizarea QGIS. Pentru început, am digitizat granița NTR în QGIS și am salvat-o ca poligon. Această zonă poligonală a fost exportată în GPS pentru scopuri de navigare pe perioada lucrului în teren. Am realizat o investigare extinsă a semnelor prezenței tigrilor în NTR, cum ar fi urme, zgârieturi și resturi. S-au înregistrat coordonatele GPS ale semnelor tigrilor precum și ale locațiilor potrivite pentru aparatele capcană. După finalizarea studiului, datele au fost transferate în QGIS, folosind instrumente GPS pentru prelucrare ulterioară și pentru stabilirea locațiilor capcanelor foto. A fost pregătit un fișier de tip shape care conține semne ale tigrilor și locațiile probabile ale aparatelor de fotografiat."
+
+#: ../../source/site/about/case_studies/india_assam.rst:31
+msgid "Camera trap locations"
+msgstr ""
 
 #: ../../source/site/about/case_studies/india_assam.rst:31
 msgid ""
@@ -84,47 +116,16 @@ msgid ""
 msgstr "Ulterior am pregătit un strat cu o rețea de 4 km pătrați, folosind plugin-ul mmqgis. Fișierul de tip shape conținând rezultatele identificării semnelor a fost suprapus pe grilă, pentru a vizualiza distribuția capcanelor fotografice în NTR. Opțiunea matricei de distanțe din instrumentele de analiză vectorială ne-a fost la îndemână pentru a determina distanțele dintre aparatele foto. Locațiile camerelor cu mai puțin de 1.8 km distanță au fost eliminate, pentru a se conforma protocolului de monitorizare. Din cauza lipsei de camere suficiente pentru a monitoriza întreaga zonă a rezervației simultan, am decis să împărțim zona de rezervă în 2 blocuri de 100 km pătrați fiecare. Granițele dintre aceste blocuri au fost digitizate și salvate ca fișiere shape separate. Folosind plugin-ul de compoziție RGB, a fost creat un compozit de culoare falsă pentru rezervație, iar fișierul shape al semnelor a fost suprapus pentru a evalua tipurile de habitat folosite de tigri. Pe timpul perioadei de studiu, camerele capcană trebuie să fie intens monitorizate de către personalul din teren. Pentru a asigura buna funcționare a procesului de monitorizare, am folosit  instrumente de geometrie ale poligoanelor Voronoi și plugin-ul mmqgis pentru planificarea cerințelor logistice. Coordonatele geografice ale camerelor capcană sunt necesare pentru estimarea densității tigrilor și a modului de ocupare cu alte specii. Aceste detalii coordonate au fost generate cu ușurință din fișierele shape ale camerelor capcană, cu ajutorul opțiunii \"Exportă/ adaugă coloane geometrice\" a instrumentelor de geometrie vectorială."
 
 #: ../../source/site/about/case_studies/india_assam.rst:41
+msgid "Survey Grid"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:41
 msgid "Survey grids with tiger presence"
 msgstr "Grile de sondare a prezenței tigrilor"
 
 #: ../../source/site/about/case_studies/india_assam.rst:44
 msgid "Conclusion"
 msgstr "Concluzii"
-
-#: ../../source/site/about/case_studies/india_assam.rst:50
-msgid "Author"
-msgstr "Autor"
-
-#: ../../source/site/about/case_studies/india_assam.rst:57
-msgid "Rajendra Garawad"
-msgstr "Rajendra Garawad"
-
-#: ../../source/site/about/case_studies/india_assam.rst:59
-msgid ""
-"This article was contributed by Rajendra G. Garawad in March 2013. He is the"
-" Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
-"Degrees in Forestry Science and Conservation & Land Management."
-msgstr "Acest articol a fost trimis de Rajendra G. Garawad, în martie 2013. El este Directorul Rezervației de Tigiri, Assam, India. El deține un master în Științe Silvice și Conservarea & Gestionarea terenurilor."
-
-#: ../../source/site/about/case_studies/india_assam.rst:3
-msgid ""
-"QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
-"Assam, India Sonitpur District)"
-msgstr "QGIS pentru monitorizarea tigrilor (folosind capcane foto, în Rezervația de Tigri Nameri, Assam, Districtul Indian Sonitpur)"
-
-#: ../../source/site/about/case_studies/india_assam.rst:26
-msgid ""
-"During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
-"using QGIS. To begin with, we digitized the NTR boundary in QGIS and saved "
-"it as polygon. This boundary polygon was exported to GPS for navigation "
-"purpose during the field surveys. We conducted an extensive sign survey in "
-"NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
-"GPS coordinates of tiger signs as well as suitable locations for camera "
-"traps were recorded. After completion of the survey, the data was "
-"transferred to QGIS using GPS tools for further processing and for "
-"finalizing camera trap locations. A shape file containing the tiger signs "
-"and probable camera trap locations was prepared."
-msgstr "În perioada 2012-13, am implementat acest nou protocol de monitorizare a tigrilor în NTR, prin utilizarea QGIS. Pentru început, am digitizat granița NTR în QGIS și am salvat-o ca poligon. Această zonă poligonală a fost exportată în GPS pentru scopuri de navigare pe perioada lucrului în teren. Am realizat o investigare extinsă a semnelor prezenței tigrilor în NTR, cum ar fi urme, zgârieturi și resturi. S-au înregistrat coordonatele GPS ale semnelor tigrilor precum și ale locațiilor potrivite pentru aparatele capcană. După finalizarea studiului, datele au fost transferate în QGIS, folosind instrumente GPS pentru prelucrare ulterioară și pentru stabilirea locațiilor capcanelor foto. A fost pregătit un fișier de tip shape care conține semne ale tigrilor și locațiile probabile ale aparatelor de fotografiat."
 
 #: ../../source/site/about/case_studies/india_assam.rst:46
 msgid ""
@@ -142,6 +143,29 @@ msgid ""
 "individuals/institutions/ involved in conserving endangered wildlife in the "
 "developing world by offering GIS technology at little or no cost."
 msgstr "Pentru prima dată în istoria acestei mici rezervații de tigri de nord-estul Indiei, a fost posibilă monitorizarea tigrilor prin utilizarea capcanelor cameră, în principal datorită QGIS. Rezultatele exercițiului de monitorizare indică prezența a 8-15 tigri în cadrul acestui peisaj. În plus față de tigri, mai multe specii incerte, au fost documentate fotografic. Dde asemenea, în afară de monitorizarea tigrilor, mai folosim QGIS și pentru activități de planificare a habitatelor sau a programelor de patrulare, precum și la proiectarea hărților pentru vizitatori. Interfața prietenoasă, caracteristicile bogate, documentația detliată, suportul on-line și filozofia sursei gratuite/deschise sunt câteva calități ale QGIS, care ne-au făcut să-l preferăm soft-ului proprietar. Credem că aplicația QGIS are un mare potențial pentru persoanele fizice/instituțiile implicate în conservarea speciilor sălbatice pe cale de dispariție, prin oferirea tehnologiei GIS la costuri mici sau gratuit."
+
+#: ../../source/site/about/case_studies/india_assam.rst:50
+msgid "Author"
+msgstr "Autor"
+
+#: ../../source/site/about/case_studies/india_assam.rst:57
+msgid "Rajendra Garawad"
+msgstr "Rajendra Garawad"
+
+#: ../../source/site/about/case_studies/india_assam.rst:59
+msgid ""
+"This article was contributed by Rajendra G. Garawad in March 2013. He is the"
+" Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
+"Degrees in Forestry Science and Conservation & Land Management."
+msgstr "Acest articol a fost trimis de Rajendra G. Garawad, în martie 2013. El este Directorul Rezervației de Tigiri, Assam, India. El deține un master în Științe Silvice și Conservarea & Gestionarea terenurilor."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS for monitoring tigers"
 #~ msgstr ""

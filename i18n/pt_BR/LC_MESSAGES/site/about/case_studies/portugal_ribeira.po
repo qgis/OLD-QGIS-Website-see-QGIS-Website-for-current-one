@@ -7,15 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 23:57+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Jorge Gustavo Rocha <jgr@di.uminho.pt>, 2013\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:3
 msgid ""
@@ -34,6 +35,7 @@ msgid ""
 msgstr "O lobo-ibérico é uma sub-espécie do lobo-cinzento que existe apenas no Norte da Península Ibérica, com pequenas populações isoladas a Sul do Rio Douro. Durante o último século sofreu uma elevada regressão, estando actualmente classificada como “vulnerável” em Espanha e “em perigo” em Portugal. Hoje em dia existem apenas cerca de 300 lobos em Portugal, devido à elevada perseguição que têm sofrido, destruição e fragmentação dos habitats."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:12
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:56
 msgid "Study area in Portugal"
 msgstr "Área de estudo em Portugal"
 
@@ -68,46 +70,6 @@ msgid ""
 "enthusiastic with the analytical capabilities QGIS provided, specially with "
 "GRASS integration."
 msgstr "Entretanto tive o meu primeiro contacto com os sistemas operativos Linux. E logo depois fui contactada para ajudar uns investigadores na modelação de corredores ecológicos para lobos em Ribeira de Pena, utilizando SIG. O meu primeiro problema prendeu-se com a escolha do programa a utilizar, visto que já tinha substituído o sistema operativo para Linux. Foi na altura em que ouvi falar no QGIS e decidi experimentar, sendo que me parecia um programa muito simplista e incompleto, quando comparado ao que eu já conhecia. Depressa percebi que estava errada, e fiquei bastante entusiasmada com as capacidades analíticas que o QGIS oferecia, especialmente quando integrado com o GRASS."
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:39
-msgid ""
-"Ecological corridors and critical conservation areas for wolves in northern "
-"Portugal."
-msgstr "Corredores Ecológicos e áreas críticas de conservação para lobos no Norte de Portugal."
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:42
-msgid "Conclusion"
-msgstr "Conclusão"
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:44
-msgid ""
-"Both QGIS and plugin GRASS are very intuitive with user-friendly interface, "
-"with all essential functions to perform most analysis. For what I could see,"
-" QGIS and GRASS perform equally as well as the proprietary programs I was "
-"most familiar with from college days, with the big advantage of free open-"
-"source software, usable in every computer or notebook without licenses, "
-"constant upgrades and the ultimate advantage to contribute to it's "
-"improvement and/or tip the developers about some essential function."
-msgstr "Tanto o QGIS como o GRASS são programas bastante intuitivos com uma interface simples e fácil de utilizar. Possuem todas as funções para realizar a maior parte das análises. Do meu ponto de vista, tanto um como o outro têm um desempenho tão bom como os programas proprietários a que estava habituada a utilizar. Possuem ainda a vantagem de serem programas de livre acesso, podendo ser utilizados em qualquer computador sem a necessidade de licenças, com actualizações constantes e em último caso, a possibilidade de contactar com os programadores para contribuir para o seu melhoramento. "
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:46
-msgid ""
-"Changing to Linux and then to QGIS and GRASS was one of my best calls, and "
-"although there can be some missing issues, easily resolved in the future "
-"with the developers, I don't regret my decision and advise everyone to use "
-"them."
-msgstr "Mudar de sistema operativo para Linux e posteriormente para o QGIS e GRASS foi uma das minhas melhores decisões. Apesar de poderem haver ainda algumas questões por resolver, facilmente resolvidas no futuro com os programadores, não me arrependo da minha decisão e aconselho toda a gente a utilizá-los."
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:49
-msgid "Author"
-msgstr "Autor"
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:58
-msgid ""
-"This article was contributed in July 2012 by Monica Almeida. She is "
-"conservation biologist working in an non-governmental organization in the "
-"preservation of wolf in Portugal."
-msgstr "Este artigo foi contribuído em Julho de 2012 pela Mónica Almeida. Ela é uma bióloga de conservação que trabalha numa organização não governamental de preservação do lobo em Portugal."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:20
 msgid ""
@@ -170,9 +132,61 @@ msgid ""
 "human impact in this species."
 msgstr "Com este trabalho obtivemos um mapa com zonas potenciais a corredores ecológicos para lobos no município da Ribeira da Pena. Estas áreas deverão ser consideras pela técnicos municipais aquando do planeamento de medidas de conservação para estas espécies. estes corredores são de extrema importância porque podem ligar as frágeis alcateias de lobos do sul com o norte de Vila Real, que são contínuos com os que vêm da Peneda-Gerês e Espanha onde são mais estáveis. É de extrema importância estes corredores que cruzam áreas sociais, como pequenas aldeias, cidades e rede viária. Estas áreas devem ser consideradas críticas para conservação do lobo, e aplicar medidas para reduzir o impacto humano nestas espécies."
 
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:39
+msgid "Ecological corridors and critical conservation areas for wolves"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:39
+msgid ""
+"Ecological corridors and critical conservation areas for wolves in northern "
+"Portugal."
+msgstr "Corredores Ecológicos e áreas críticas de conservação para lobos no Norte de Portugal."
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:42
+msgid "Conclusion"
+msgstr "Conclusão"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:44
+msgid ""
+"Both QGIS and plugin GRASS are very intuitive with user-friendly interface, "
+"with all essential functions to perform most analysis. For what I could see,"
+" QGIS and GRASS perform equally as well as the proprietary programs I was "
+"most familiar with from college days, with the big advantage of free open-"
+"source software, usable in every computer or notebook without licenses, "
+"constant upgrades and the ultimate advantage to contribute to it's "
+"improvement and/or tip the developers about some essential function."
+msgstr "Tanto o QGIS como o GRASS são programas bastante intuitivos com uma interface simples e fácil de utilizar. Possuem todas as funções para realizar a maior parte das análises. Do meu ponto de vista, tanto um como o outro têm um desempenho tão bom como os programas proprietários a que estava habituada a utilizar. Possuem ainda a vantagem de serem programas de livre acesso, podendo ser utilizados em qualquer computador sem a necessidade de licenças, com actualizações constantes e em último caso, a possibilidade de contactar com os programadores para contribuir para o seu melhoramento. "
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:46
+msgid ""
+"Changing to Linux and then to QGIS and GRASS was one of my best calls, and "
+"although there can be some missing issues, easily resolved in the future "
+"with the developers, I don't regret my decision and advise everyone to use "
+"them."
+msgstr "Mudar de sistema operativo para Linux e posteriormente para o QGIS e GRASS foi uma das minhas melhores decisões. Apesar de poderem haver ainda algumas questões por resolver, facilmente resolvidas no futuro com os programadores, não me arrependo da minha decisão e aconselho toda a gente a utilizá-los."
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:49
+msgid "Author"
+msgstr "Autor"
+
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:56
 msgid "Monica Almeida"
 msgstr "Monica Almeida"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:58
+msgid ""
+"This article was contributed in July 2012 by Monica Almeida. She is "
+"conservation biologist working in an non-governmental organization in the "
+"preservation of wolf in Portugal."
+msgstr "Este artigo foi contribuído em Julho de 2012 pela Mónica Almeida. Ela é uma bióloga de conservação que trabalha numa organização não governamental de preservação do lobo em Portugal."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "To model the ecological corridors, we used the QGIS along with the GRASS "

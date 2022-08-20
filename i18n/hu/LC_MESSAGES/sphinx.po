@@ -2,823 +2,39 @@
 # Translators:
 # Angéla Olasz <angela.olasz@gmail.com>, 2015
 # Balázs Meskó <meskobalazs@mailbox.org>, 2016
+# Báthory Péter <bathory86p@gmail.com>, 2021-2022
 # Csaba Sandor <sandor.csaba@gmail.com>, 2015
 # Falu <info@falu.me>, 2016
 # Falu <info@falu.me>, 2015-2016
 # Gabor Harangozo <g.harangozo@gmail.com>, 2015
 # Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2017
 # Zoltan Siki <siki.zoltan@epito.bme.hu>, 2015-2016,2019
+# Zoltan Siki <siki.zoltan@epito.bme.hu>, 2021
 # Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2017-2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
-"PO-Revision-Date: 2020-10-26 10:59+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:27+0000\n"
+"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2021-2022\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../themes/qgis-theme/forusers_index.html:7
-msgid "Get Started Using QGIS"
-msgstr "Kezdje a QGIS használni"
-
-#: ../../themes/qgis-theme/forusers_index.html:9
-msgid "Step 1: Download QGIS"
-msgstr "1. lépés: Töltse le a QGIS-t"
-
-#: ../../themes/qgis-theme/forusers_index.html:11
-msgid "Step 2: Check our documentation"
-msgstr "2. lépés: Nézze meg a dokumentációt"
-
-#: ../../themes/qgis-theme/forusers_index.html:13
-msgid "Step 3: Connect with the QGIS community"
-msgstr "3. lépés: Lépjen kapcsolatba a QGIS közösséggel"
-
-#: ../../themes/qgis-theme/forusers_index.html:27
-#: ../../themes/qgis-theme/page.html:139
-msgid "For Users"
-msgstr "Felhasználóknak"
-
-#: ../../themes/qgis-theme/forusers_index.html:32
-msgid "Download"
-msgstr "Letöltés"
-
-#: ../../themes/qgis-theme/forusers_index.html:35
-#: ../../themes/qgis-theme/forusers_index.html:88
-#: ../../themes/qgis-theme/page.html:141
-msgid "Documentation"
-msgstr "Dokumentáció"
-
-#: ../../themes/qgis-theme/forusers_index.html:38
-msgid "QGIS Plugins"
-msgstr "QGIS modulok"
-
-#: ../../themes/qgis-theme/forusers_index.html:41
-#: ../../themes/qgis-theme/forusers_index.html:128
-msgid "Getting Help"
-msgstr "Segítséget kapni"
-
-#: ../../themes/qgis-theme/forusers_index.html:44
-msgid "In the Press"
-msgstr "Sajtóban"
-
-#: ../../themes/qgis-theme/about_index.html:38
-#: ../../themes/qgis-theme/about_index.html:133
-#: ../../themes/qgis-theme/forusers_index.html:47
-#: ../../themes/qgis-theme/forusers_index.html:139
-msgid "Commercial Support"
-msgstr "Kereskedelmi támogatás"
-
-#: ../../themes/qgis-theme/forusers_index.html:60
-msgid "Download QGIS"
-msgstr "QGIS letöltés"
-
-#: ../../themes/qgis-theme/forusers_index.html:62
-msgid "for your operating system."
-msgstr "az operációs rendszeréhez."
-
-#: ../../themes/qgis-theme/forusers_index.html:65
-msgid "Get the installer"
-msgstr "Szerezze be a telepítőt"
-
-#: ../../themes/qgis-theme/forusers_index.html:68
-msgid "Check out our roadmap for future versions: "
-msgstr "Nézze meg tervünket a következő kiadásokhoz:"
-
-#: ../../themes/qgis-theme/forusers_index.html:68
-#: ../../themes/qgis-theme/getinvolved_index.html:156
-msgid "QGIS roadmap"
-msgstr "QGIS ütemterv"
-
-#: ../../themes/qgis-theme/forusers_index.html:72
-msgid "See the latest features in the visual changelogs"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_index.html:91
-msgid "Our main documentation is the"
-msgstr "A fő dokumentációnk"
-
-#: ../../themes/qgis-theme/forusers_index.html:92
-msgid "QGIS user guide"
-msgstr "QGIS felhasználói kézikönyv"
-
-#: ../../themes/qgis-theme/forusers_index.html:94
-msgid "We also provide step by step tutorials in the"
-msgstr "Lépésről-lépésre oktatóanyagot is biztosítunk"
-
-#: ../../themes/qgis-theme/forusers_index.html:95
-msgid "Training manual"
-msgstr "Tankönyv"
-
-#: ../../themes/qgis-theme/forusers_index.html:97
-msgid "External parties also provide"
-msgstr "Külső felek is készítenek"
-
-#: ../../themes/qgis-theme/forusers_index.html:98
-msgid "QGIS tutorials"
-msgstr "QGIS oktatóanyagok"
-
-#: ../../themes/qgis-theme/forusers_index.html:104
-msgid "QGIS Publications"
-msgstr "QGIS publikációk"
-
-#: ../../themes/qgis-theme/forusers_index.html:106
-msgid "Read what the QGIS community is doing around the world"
-msgstr "Olvassa el mit csinál világszerte a QGIS közösség"
-
-#: ../../themes/qgis-theme/forusers_index.html:108
-msgid "in our blogs"
-msgstr "a blogjainkban"
-
-#: ../../themes/qgis-theme/forusers_index.html:110
-msgid "For more in-depth reading, get some"
-msgstr "Részletesebb olvasmányért, szerezzen be néhány"
-
-#: ../../themes/qgis-theme/forusers_index.html:112
-msgid "books on QGIS"
-msgstr "QGIS könyvet"
-
-#: ../../themes/qgis-theme/forusers_index.html:129
-msgid "You can get in touch with fellow users and developers via"
-msgstr "Kapcsolatba léphet a felhasználó társakkal és a fejlesztőkkel"
-
-#: ../../themes/qgis-theme/forusers_index.html:131
-msgid "our community support channels"
-msgstr "a közösségi támogató csatornáink"
-
-#: ../../themes/qgis-theme/forusers_index.html:140
-msgid ""
-"Do you plan to use QGIS in your company or organization, but worry about whether there is\n"
-"                    commercial support available? Here is an alphabetical"
-msgstr "Tervezi a QGIS használatát a cégénél vagy az intézményében, de tart attól, hogy van-e hozzá kereskedelmi támogatás? Itt van egy lista ABC-ben"
-
-#: ../../themes/qgis-theme/forusers_index.html:144
-msgid "list of support contractors"
-msgstr "támogatást nyújtó vállalkozások"
-
-#: ../../themes/qgis-theme/forusers_index.html:160
-msgid "Get Plugins"
-msgstr "Modulok beszerzése"
-
-#: ../../themes/qgis-theme/forusers_index.html:161
-msgid ""
-"QGIS plugins allow you to add many new features and functions. Get them from"
-msgstr "A QGIS modulok lehetővé teszik hogy sok új funkciókat adjon a rendszerhez. Szerezze be őket innen"
-
-#: ../../themes/qgis-theme/forusers_index.html:164
-msgid "the plugin repository"
-msgstr "a modul tárház"
-
-#: ../../themes/qgis-theme/about_index.html:149
-#: ../../themes/qgis-theme/docs_index.html:163
-#: ../../themes/qgis-theme/forusers_index.html:177
-#: ../../themes/qgis-theme/getinvolved_donations.html:115
-#: ../../themes/qgis-theme/getinvolved_index.html:187
-msgid "Back to Top"
-msgstr "Vissza a tetejére"
-
-#: ../../themes/qgis-theme/page.html:40
-msgid ""
-"If not stated otherwise, all content is licensed under <a "
-"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
-"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
-msgstr "Ha másképp nincs jelezve, akkor minden tartalom a <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licensz (CC BY-SA)</a> alatt áll."
-
-#: ../../themes/qgis-theme/page.html:44
-msgid ""
-"Select graphics from <a href=\"http://thenounproject.com\" "
-"target=\"_blank\">The Noun Project collection</a>"
-msgstr "Válasszon grafikát a <a href=\"http://thenounproject.com\" target=\"_blank\">Noun projekt kollekcióból</a>"
-
-#: ../../themes/qgis-theme/page.html:48
-msgid " - Last updated on "
-msgstr "- utolsó frissítés"
-
-#: ../../themes/qgis-theme/page.html:52
-msgid "Untranslated page? Or you spot a translation error:"
-msgstr "Nincs az oldal lefordítva? Fordítási hibát talált:"
-
-#: ../../themes/qgis-theme/page.html:53 ../../themes/qgis-theme/page.html:56
-msgid "fix me"
-msgstr "javítsa"
-
-#: ../../themes/qgis-theme/page.html:55
-msgid "Textual error, missing text or you know better:"
-msgstr "Szövegezési hiba, hiányzó szöveg vagy tud jobb fordítást:"
-
-#: ../../themes/qgis-theme/page.html:138
-msgid "Discover QGIS"
-msgstr "QGIS felfedezése"
-
-#: ../../themes/qgis-theme/index.html:137
-#: ../../themes/qgis-theme/page.html:140
-msgid "Get Involved"
-msgstr "Vegyen részt benne"
-
-#: ../../themes/qgis-theme/search.html:11
-#: ../../themes/qgis-theme/search.html:20
-#: ../../themes/qgis-theme/searchbox.html:3
-msgid "Search"
-msgstr "Keresés"
-
-#: ../../themes/qgis-theme/forusers_download.html:3
-msgid "Download QGIS for your platform"
-msgstr "QGIS letöltés a platformjához"
-
-#: ../../themes/qgis-theme/forusers_download.html:4
-msgid "Binary packages (installers) are available from this page."
-msgstr "A bináris csomagok (telepítők) ezen az oldalon érhetőek el."
-
-#: ../../themes/qgis-theme/forusers_download.html:5
-#, python-format
-msgid "The current version is QGIS %s '%s' and was released on %s."
-msgstr "Az aktuális QGIS verzió  %s '%s' kiadási dátum: %s."
-
-#: ../../themes/qgis-theme/forusers_download.html:6
-#, python-format
-msgid "The long-term repositories currently offer QGIS %s '%s'."
-msgstr "A hosszú távon támogatott tárolók jelenleg a QGIS %s '%s' verziót kínálják."
-
-#: ../../themes/qgis-theme/forusers_download.html:7
-msgid "QGIS is available on Windows, macOS, Linux and Android."
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:10
-#, python-format
-msgid ""
-"We are currently in feature freeze preceeding the release of QGIS %s. "
-"<b>Please consider testing the prereleases</b>. See "
-msgstr "Most a QGIS %s. kiadás előtti funkció bővítés befagyasztás időszakában vagyunk. <b>Kérjük fontolja meg az előzetes kiadás tesztelését</b>. Lásd "
-
-#: ../../themes/qgis-theme/forusers_download.html:11
-msgid "road map"
-msgstr "ütemterv"
-
-#: ../../themes/qgis-theme/forusers_download.html:19
-msgid "Installation Downloads"
-msgstr "Telepítő letöltések"
-
-#: ../../themes/qgis-theme/forusers_download.html:20
-msgid "All Releases"
-msgstr "Összes kiadás"
-
-#: ../../themes/qgis-theme/forusers_download.html:21
-msgid "Sources"
-msgstr "Források"
-
-#: ../../themes/qgis-theme/forusers_download.html:34
-msgid "Download for Windows"
-msgstr "Letöltés Windowshoz"
-
-#: ../../themes/qgis-theme/forusers_download.html:40
-msgid "QGIS in OSGeo4W:"
-msgstr "QGIS beszerzése az OSGeo4W-n keresztül:"
-
-#: ../../themes/qgis-theme/forusers_download.html:45
-msgid "OSGeo4W Network Installer (64 bit)"
-msgstr "OSGeo4W hálózati telepítő (64 bit)"
-
-#: ../../themes/qgis-theme/forusers_download.html:52
-msgid "OSGeo4W Network Installer (32 bit)"
-msgstr "OSGeo4W hálózati teleptő (32 bit)"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "In the installer choose "
-msgstr "Telepítés folyamán válassza az "
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "Desktop Express Install"
-msgstr "'Express Desktop Install'"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "and select"
-msgstr "opciót és válassza ki a"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-#: ../../themes/qgis-theme/index.html:9
-msgid "QGIS"
-msgstr "QGIS"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "to install the <em>latest release</em>."
-msgstr "csomagot a <em>legújabb kiadás</em> telepítéséhez."
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-msgid ""
-"To get the <em>long term release</em> (that is not also the latest release) "
-"choose "
-msgstr "A <em>hosszú távú kiadáshoz</em> (ami nem a legújabb kiadás) válassza az "
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "Advanced Install"
-msgstr "'Advanced Install'"
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "and select "
-msgstr "opciót és válassza ezt a csomagot:"
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-msgid "qgis-ltr-full"
-msgstr "qgis-ltr-full"
-
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "To get the <em>bleeding-edge development build</em> choose "
-msgstr "A <em>bleeding-edge fejlesztői verzióhoz</em> válassza a "
-
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "qgis-full-dev"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:61
-msgid "Standalone installers from OSGeo4W packages"
-msgstr "Önálló telepítő az OSGeo4W csomagokból"
-
-#: ../../themes/qgis-theme/forusers_download.html:62
-#: ../../themes/qgis-theme/forusers_download.html:136
-msgid "Latest release (richest on features):"
-msgstr "Legújabb kiadás (funkciókban leggazdagabb):"
-
-#: ../../themes/qgis-theme/forusers_download.html:67
-#: ../../themes/qgis-theme/forusers_download.html:96
-#, python-format
-msgid "QGIS Standalone Installer Version %s (64 bit)"
-msgstr "QGIS önálló telepítő %s verzió (64 bit)"
-
-#: ../../themes/qgis-theme/forusers_download.html:81
-#: ../../themes/qgis-theme/forusers_download.html:110
-#, python-format
-msgid "QGIS Standalone Installer Version %s (32 bit)"
-msgstr "QGIS önálló telepítő %s verzió (32 bit)"
-
-#: ../../themes/qgis-theme/forusers_download.html:91
-msgid "Long term release repository (most stable):"
-msgstr "Hosszútávú kiadás tároló (legstabilabb):"
-
-#: ../../themes/qgis-theme/forusers_download.html:128
-msgid "Download for macOS"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:133
-msgid "Official All-in-one, signed installers"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:134
-msgid "Mac Installer Packages for macOS High Sierra (10.13) and newer."
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:135
-msgid ""
-"QGIS is not yet notarized as required by macOS Catalina (10.15) security "
-"rules. On first launch on, use right click on the QGIS app icon and choose "
-"Open."
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:141
-#: ../../themes/qgis-theme/forusers_download.html:149
-#, python-format
-msgid "QGIS macOS Installer Version %s"
-msgstr "QGIS macOS telepítő %s verzió"
-
-#: ../../themes/qgis-theme/forusers_download.html:144
-msgid "Long term release (most stable):"
-msgstr "Hosszútávú kiadás (legstabilabb):"
-
-#: ../../themes/qgis-theme/forusers_download.html:152
-msgid "Alternative build"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:154
-msgid "Mac Installer Packages for macOS El Capitan (10.11) and newer."
-msgstr "Mac telepítő csomagok macOS El Capitan-hez (10.11) vagy újabbhoz."
-
-#: ../../themes/qgis-theme/forusers_download.html:155
-msgid ""
-"Installation instructions are in the Read Me on the disk image. These "
-"packages use the "
-msgstr "A telepítési útmutató a Read Me-ben található a lemezképen. Ezek a csomagok"
-
-#: ../../themes/qgis-theme/forusers_download.html:155
-msgid ""
-"version 3.6, the \"macosx10.9\" build - other distributions are not "
-"supported. Install Python before installing QGIS."
-msgstr "a \"macosx10.9\" build 3.6 verzióját használják - más kiadásokat nem támogatnak. Telepítse a Pythont a QGIS telepítése előtt."
-
-#: ../../themes/qgis-theme/forusers_download.html:156
-msgid "Additional GDAL format plugins and PROJ grids are available at "
-msgstr "További GDAL formátum kezelő modulok és PROJ rácsok itt találhatók"
-
-#: ../../themes/qgis-theme/forusers_download.html:161
-msgid "macOS Installers"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:171
-msgid "Download for Linux"
-msgstr "Letöltés Linuxhoz"
-
-#: ../../themes/qgis-theme/forusers_download.html:176
-msgid ""
-"For many flavors of GNU/Linux binary packages (rpm and deb) or software "
-"repositories (to add to your installation manager) are available. Please "
-"select your choice of distro below:"
-msgstr "Számos GNU/Linux  bináris csomag (rpm és deb) vagy szoftvertároló (hozzáadható a telepítő menedzserhez) elérhető. Kérjük válassza az Ön által használt disztribúciót:"
-
-#: ../../themes/qgis-theme/forusers_download.html:178
-msgid "Debian/Ubuntu"
-msgstr "Debian/Ubuntu"
-
-#: ../../themes/qgis-theme/forusers_download.html:179
-msgid "Fedora"
-msgstr "Fedora"
-
-#: ../../themes/qgis-theme/forusers_download.html:180
-msgid "openSUSE"
-msgstr "openSUSE"
-
-#: ../../themes/qgis-theme/forusers_download.html:181
-msgid "RHEL, CentOS, Scientific Linux, ..."
-msgstr "RHEL, CentOS, Scientific Linux, ..."
-
-#: ../../themes/qgis-theme/forusers_download.html:182
-msgid "Mandriva"
-msgstr "Mandriva"
-
-#: ../../themes/qgis-theme/forusers_download.html:183
-msgid "Slackware"
-msgstr "Slackware"
-
-#: ../../themes/qgis-theme/forusers_download.html:184
-msgid "ArchLinux"
-msgstr "ArchLinux"
-
-#: ../../themes/qgis-theme/forusers_download.html:185
-msgid "Flatpak"
-msgstr "Flatpak"
-
-#: ../../themes/qgis-theme/forusers_download.html:187
-msgid "Linux Installation Instructions"
-msgstr "Linux telepítési utasítások"
-
-#: ../../themes/qgis-theme/forusers_download.html:195
-msgid "Download for BSD"
-msgstr "Letöltés BSD-hez"
-
-#: ../../themes/qgis-theme/forusers_download.html:200
-msgid "BSD Installation Instructions"
-msgstr "BSD telepítési utasítások"
-
-#: ../../themes/qgis-theme/forusers_download.html:208
-msgid "Apps for mobile and tablet"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:213
-msgid ""
-"The QGIS experience does not stop on the desktop. Various touch optimized "
-"apps allow you to take QGIS into the field"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:214
-msgid "Third-party touch optimized apps"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:215
-msgid "QField for QGIS (formerly QGIS for Android)"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:221
-msgid "Input (available for Android, iOS and Windows devices)"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:232
-msgid "QGIS for Android"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:233
-msgid ""
-"An old and deprecated not touch optimised release of QGIS for Android can be"
-" found in"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:233
-#: ../../themes/qgis-theme/forusers_download.html:240
-#: ../../themes/qgis-theme/forusers_download.html:242
-msgid "All downloads"
-msgstr "Minden letöltés"
-
-#: ../../themes/qgis-theme/forusers_download.html:242
-msgid ""
-"More specific instructions about downloading QGIS stable vs QGIS development"
-" can be found in"
-msgstr "További részletes instrukciók találhatók a stabil iletve a fejlesztői QGIS letöltéséről"
-
-#: ../../themes/qgis-theme/forusers_download.html:245
-msgid "Datasets"
-msgstr "Adathalmazok"
-
-#: ../../themes/qgis-theme/forusers_download.html:246
-msgid "For testing and learning purposes, a "
-msgstr "Tesztelési és tanulási célokra, egy"
-
-#: ../../themes/qgis-theme/forusers_download.html:246
-msgid "sample dataset is available"
-msgstr "minta adatállomány elérhető"
-
-#: ../../themes/qgis-theme/forusers_download.html:246
-msgid ""
-"which contains collections of data from different sources and in different "
-"formats."
-msgstr "mely különböző formátumú, különböző forrásokból beszerzett adatokat tartalmaz."
-
-#: ../../themes/qgis-theme/forusers_download.html:252
-msgid "Previous releases of QGIS are still available"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:252
-#: ../../themes/qgis-theme/forusers_download.html:253
-#: ../../themes/qgis-theme/forusers_download.html:254
-#: ../../themes/qgis-theme/forusers_download.html:256
-#: ../../themes/qgis-theme/forusers_download.html:257
-#: ../../themes/qgis-theme/forusers_download.html:267
-#: ../../themes/qgis-theme/forusers_download.html:268
-#: ../../themes/qgis-theme/forusers_download.html:269
-msgid "here"
-msgstr "itt"
-
-#: ../../themes/qgis-theme/forusers_download.html:252
-msgid " - including older releases for OS X "
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:254
-msgid "More older releases are available"
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:255
-#: ../../themes/qgis-theme/forusers_download.html:265
-#: ../../themes/qgis-theme/getinvolved_index.html:16
-#: ../../themes/qgis-theme/getinvolved_index.html:90
-msgid "and"
-msgstr "és"
-
-#: ../../themes/qgis-theme/forusers_download.html:256
-msgid "for OS X "
-msgstr ""
-
-#: ../../themes/qgis-theme/forusers_download.html:257
-#: ../../themes/qgis-theme/forusers_download.html:269
-msgid "Plugins for QGIS are also available "
-msgstr "További QGIS modulok érhetőek el "
-
-#: ../../themes/qgis-theme/forusers_download.html:262
-msgid "QGIS is open source software available under the terms of the"
-msgstr "A QGIS egy nyílt forráskódú szoftver az alábbi feltételek mellett"
-
-#: ../../themes/qgis-theme/forusers_download.html:262
-msgid "GNU General Public License"
-msgstr "GNU általános nyilvános licensz"
-
-#: ../../themes/qgis-theme/forusers_download.html:262
-msgid ""
-"meaning that its source code can be downloaded through tarballs or the git "
-"repository."
-msgstr "azt jelenti, hogy a forráskód letölthető tömörített fájlban vagy a git tárolóból."
-
-#: ../../themes/qgis-theme/forusers_download.html:263
-msgid "QGIS Source Code is available "
-msgstr "A QGIS forráskódja elérhető"
-
-#: ../../themes/qgis-theme/forusers_download.html:264
-msgid "here (latest release)"
-msgstr "itt (legújabb kiadás)"
-
-#: ../../themes/qgis-theme/forusers_download.html:266
-msgid "here (long term release)"
-msgstr "itt (hosszú távú kiadás)"
-
-#: ../../themes/qgis-theme/forusers_download.html:267
-msgid ""
-"Refer to the INSTALL guide on how to compile QGIS from source for the "
-"different platforms:"
-msgstr "Lásd a telepítési útmutatót, hogyan kell lefordítani a QGIS-t a forrásokból a különböző platformokon:"
-
-#: ../../themes/qgis-theme/forusers_download.html:268
-msgid ""
-"Note that you can also install the development version (nightly) via an "
-"installer from the normal downloads for your platform:"
-msgstr "Vegye figyelembe, hogy a platformjához tartozó fejlesztési verziót (éjszakai) is telepítheti a telepítővel az általános letöltési oldalról:"
-
-#: ../../themes/qgis-theme/docs_index.html:7
-msgid "QGIS Documentation"
-msgstr "QGIS Dokumentáció"
-
-#: ../../themes/qgis-theme/docs_index.html:8
-msgid ""
-"QGIS has a lot of documentation. All documentation is in English but some "
-"documents such as the user guide are also available in other languages."
-msgstr "A QGIS-hez számos dokumentáció tartozik. Minden dokumentáció angol nyelvű, de néhány dokumentáció, mint például a felhasználói kézikönyv más nyelveken is elérhető."
-
-#: ../../themes/qgis-theme/docs_index.html:9
-msgid ""
-"You will find documentation for every QGIS long term release on the "
-"respective documentation website."
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:10
-msgid "Get involved"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:10
-msgid " and help us write a better documentation."
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:27
-msgid "DOCUMENTATION"
-msgstr "DOKUMENTÁCIÓ"
-
-#: ../../themes/qgis-theme/docs_index.html:32
-#: ../../themes/qgis-theme/docs_index.html:55
-msgid "QGIS 3.10"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:35
-msgid "QGIS testing (>3.10)"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:38
-#: ../../themes/qgis-theme/docs_index.html:110
-msgid "QGIS 3.4"
-msgstr "QGIS 3.4"
-
-#: ../../themes/qgis-theme/docs_index.html:41
-msgid "Documentation for older versions"
-msgstr "Dokumentáció a régebbi kiadásokhoz"
-
-#: ../../themes/qgis-theme/docs_index.html:56
-#: ../../themes/qgis-theme/docs_index.html:111
-msgid "For users:"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:58
-#: ../../themes/qgis-theme/docs_index.html:113
-msgid "Read the"
-msgstr "Olvassa el a"
-
-#: ../../themes/qgis-theme/docs_index.html:58
-#: ../../themes/qgis-theme/docs_index.html:113
-msgid "QGIS User guide"
-msgstr "QGIS felhasználói kézikönyv"
-
-#: ../../themes/qgis-theme/docs_index.html:59
-#: ../../themes/qgis-theme/docs_index.html:114
-msgid "Follow the tutorials in the"
-msgstr "Kövesse az oktatóanyagot"
-
-#: ../../themes/qgis-theme/docs_index.html:59
-#: ../../themes/qgis-theme/docs_index.html:114
-msgid "QGIS Training manual"
-msgstr "QGIS tankönyv"
-
-#: ../../themes/qgis-theme/docs_index.html:60
-#: ../../themes/qgis-theme/docs_index.html:115
-msgid "Learn GIS basics in"
-msgstr "Tanulja meg a QGIS alapjait"
-
-#: ../../themes/qgis-theme/docs_index.html:60
-#: ../../themes/qgis-theme/docs_index.html:99
-#: ../../themes/qgis-theme/docs_index.html:115
-msgid "A gentle introduction in GIS"
-msgstr "Egy szelid bevezetés a QGIS-be"
-
-#: ../../themes/qgis-theme/docs_index.html:63
-#: ../../themes/qgis-theme/docs_index.html:118
-msgid "For documentation writers:"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:65
-#: ../../themes/qgis-theme/docs_index.html:120
-msgid "Learn how to write docs using the"
-msgstr "Tanulja meg hogyan írjon dokumentációt"
-
-#: ../../themes/qgis-theme/docs_index.html:65
-#: ../../themes/qgis-theme/docs_index.html:120
-msgid "Documentation Guidelines"
-msgstr "Dokumentáció útmutatások"
-
-#: ../../themes/qgis-theme/docs_index.html:68
-#: ../../themes/qgis-theme/docs_index.html:123
-msgid "For developers:"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:70
-#: ../../themes/qgis-theme/docs_index.html:125
-msgid "Go Python, study the"
-msgstr "Használjon Pythont, tanulmányozza a"
-
-#: ../../themes/qgis-theme/docs_index.html:70
-#: ../../themes/qgis-theme/docs_index.html:125
-msgid "PyQGIS cookbook (for plugins and scripting)"
-msgstr "PyQGIS szakácskönyv (modulokhoz és szkriptekhez)"
-
-#: ../../themes/qgis-theme/docs_index.html:71
-#: ../../themes/qgis-theme/docs_index.html:101
-#: ../../themes/qgis-theme/docs_index.html:126
-msgid "C++ Api documentation"
-msgstr "C++ Api dokumentáció"
-
-#: ../../themes/qgis-theme/docs_index.html:72
-#: ../../themes/qgis-theme/docs_index.html:102
-#: ../../themes/qgis-theme/docs_index.html:127
-msgid "PyQGIS - QGIS Python Api documentation"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:90
-msgid "QGIS testing"
-msgstr "QGIS tesztelés"
-
-#: ../../themes/qgis-theme/docs_index.html:91
-msgid ""
-"We are still updating (not translating yet) the documentation for releases "
-"newer than QGIS 3.10. We call this version 'QGIS testing' and the "
-"documentation can be found here: "
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:91
-msgid "https://docs.qgis.org/testing"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:92
-msgid "Desktop User Guide/Manual"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:93
-msgid "Server Guide/Manual"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:94
-msgid "QGIS Training Manual"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:95
-msgid "PyQGIS Cookbook"
-msgstr "PyQGIS Szakácskönyv"
-
-#: ../../themes/qgis-theme/docs_index.html:96
-msgid "QGIS Developers Guide"
-msgstr "QGIS Fejlesztői kézikönyv"
-
-#: ../../themes/qgis-theme/docs_index.html:98
-msgid "Documentation Guidelines (how to write the docs)"
-msgstr "Dokumentáció útmutatások (hogyan írjunk dokumentációt)"
-
-#: ../../themes/qgis-theme/docs_index.html:100
-msgid "PDF versions of all above, eg for printing are available here: "
-msgstr "PDF változata a fentieknek, pl. nyomtatási célokra, itt érhető el:"
-
-#: ../../themes/qgis-theme/docs_index.html:100
-msgid "https://docs.qgis.org/testing/pdf"
-msgstr ""
-
-#: ../../themes/qgis-theme/docs_index.html:113
-#: ../../themes/qgis-theme/docs_index.html:114
-#: ../../themes/qgis-theme/docs_index.html:125
-msgid "or as PDF"
-msgstr "vagy PDF"
-
-#: ../../themes/qgis-theme/docs_index.html:141
-msgid "Archived"
-msgstr "Archivált"
-
-#: ../../themes/qgis-theme/docs_index.html:142
-msgid "Links to documentation of older version of QGIS: "
-msgstr "Hivatkozások a régebbi QGIS kiadások dokumentációjához:"
-
-#: ../../themes/qgis-theme/docs_index.html:144
-msgid "QGIS 2.18 Documentation"
-msgstr "QGIS 2.18 dokumentáció"
-
-#: ../../themes/qgis-theme/docs_index.html:145
-msgid "QGIS 2.14 Documentation"
-msgstr "QGIS 2.14 dokumentáció"
-
-#: ../../themes/qgis-theme/docs_index.html:146
-msgid "QGIS 2.8 Documentation"
-msgstr "QGIS 2.8 dokumentáció"
-
 #: ../../themes/qgis-theme/about_index.html:7
 msgid "QGIS - The Leading Open Source Desktop GIS"
-msgstr "QGIS - A vezető nyílt forráskódú asztali GIS"
+msgstr "QGIS – A vezető nyílt forráskódú asztali GIS"
 
 #: ../../themes/qgis-theme/about_index.html:8
 msgid ""
 "QGIS is a professional GIS application that is built on top of and\n"
 "                         proud to be itself Free and Open Source Software (FOSS)."
-msgstr "A QGIS egy professzionális szintű GIS alkalmazás és\n                         büszkék vagyunk arra, hogy a Szabad és Nyílt Forráskódú Szoftver (FOSS) szellemében készült."
+msgstr "A QGIS egy professzionális szintű GIS alkalmazás,\n                         büszkék vagyunk arra, hogy a Szabad és Nyílt Forráskódú Szoftver (FOSS) szellemében készült."
 
 #: ../../themes/qgis-theme/about_index.html:21
 msgid "DISCOVER"
@@ -840,6 +56,13 @@ msgstr "QGIS esettanulmányok"
 #: ../../themes/qgis-theme/about_index.html:115
 msgid "Supporting Organizations"
 msgstr "Támogató szervezetek"
+
+#: ../../themes/qgis-theme/about_index.html:38
+#: ../../themes/qgis-theme/about_index.html:133
+#: ../../themes/qgis-theme/forusers_index.html:47
+#: ../../themes/qgis-theme/forusers_index.html:143
+msgid "Commercial Support"
+msgstr "Kereskedelmi támogatás"
 
 #: ../../themes/qgis-theme/about_index.html:52
 msgid "About QGIS"
@@ -886,7 +109,7 @@ msgid ""
 "functions and plugins. You can visualize, manage, edit, analyse data, and "
 "compose printable maps. Get a first impression with a more detailed feature "
 "list."
-msgstr "A QGIS a mag függvények és a modulok által biztosított lehetőségek száma folyamatosan növekszik. Megjelenítheti, szervezheti, szerkesztheti, elemezheti adatait és nyomtatható térképeket állíthat össze. Szerezzen egy első benyomást a részletesebb tulajdonságok listából."
+msgstr "A QGIS folyamatosan egyre több képességet biztosít a beépített funkciók és bővítmények által. Megjelenítheti, szervezheti, szerkesztheti, elemezheti adatait és nyomtatható térképeket állíthat össze. Szerezzen egy első benyomást a tulajdonságok részletesebb listájából."
 
 #: ../../themes/qgis-theme/about_index.html:79
 msgid "Take the QGIS feature tour"
@@ -912,7 +135,7 @@ msgstr "Esettanulmányok"
 msgid ""
 "We also collect case studies of how people all over the world use QGIS for "
 "their GIS work."
-msgstr "Esettanulmányokat is gyűjtünk arról, hogyan használják a QGIS-t világszerte a GIS munkákban."
+msgstr "Esettanulmányokat is gyűjtünk arról, az emberek hogyan használják világszerte a QGIS-t a GIS-munkáik során."
 
 #: ../../themes/qgis-theme/about_index.html:107
 msgid "See our QGIS case studies"
@@ -922,7 +145,7 @@ msgstr "Lásd a QGIS esettanulmányokat"
 msgid ""
 "We welcome financial contributions in the form of sustaining memberships and"
 " donations."
-msgstr ""
+msgstr "Szívesen fogadunk anyagi hozzájárulásokat pártoló tagság vagy adomány formájában."
 
 #: ../../themes/qgis-theme/about_index.html:118
 msgid "Organizations that support QGIS"
@@ -933,15 +156,1001 @@ msgid ""
 "Do you plan to use QGIS in your company or organization, but worry about "
 "whether there is commercial support available? Here is an alphabetical list,"
 " divided in categories, of support contractors."
-msgstr "Tervezi a QGIS használatát a cégénél vagy az intézményében, de tart attól, hogy van-e hozzá kereskedelmi támogatás? Itt van a támogatást vállalók egy ABC-be rendezett, kategóriákra osztott listája."
+msgstr "Tervezi a QGIS használatát a cégénél vagy az intézményében, de tart attól, hogy van-e hozzá kereskedelmi támogatás? Itt van a támogatást vállalók egy betűrendes, kategóriákra osztott listája."
 
 #: ../../themes/qgis-theme/about_index.html:137
 msgid "Learn about Commercial Support for QGIS"
 msgstr "Tudjon meg többet a QGIS kereskedelmi támogatásról"
 
-#: ../../themes/qgis-theme/localtoc.html:3
-msgid "Page"
-msgstr "oldal"
+#: ../../themes/qgis-theme/about_index.html:149
+#: ../../themes/qgis-theme/docs_index.html:199
+#: ../../themes/qgis-theme/forusers_index.html:181
+#: ../../themes/qgis-theme/getinvolved_index.html:187
+msgid "Back to Top"
+msgstr "Vissza a tetejére"
+
+#: ../../themes/qgis-theme/docs_index.html:7
+msgid "QGIS Documentation"
+msgstr "QGIS Dokumentáció"
+
+#: ../../themes/qgis-theme/docs_index.html:8
+msgid ""
+"QGIS has a lot of documentation. All documentation is in English but some "
+"documents such as the user guide are also available in other languages."
+msgstr "A QGIS-hez számos dokumentáció tartozik. Minden dokumentáció angol nyelvű, de néhány dokumentáció, mint például a felhasználói kézikönyv más nyelveken is elérhető."
+
+#: ../../themes/qgis-theme/docs_index.html:9
+msgid ""
+"You will find documentation for every QGIS long term release on the "
+"respective documentation website."
+msgstr "Minden QGIS hosszútávú kiadáshoz talál dokumentációt a megfelelő dokumentáció weblapon."
+
+#: ../../themes/qgis-theme/docs_index.html:10
+msgid "Get involved"
+msgstr "Vegyen részt benne"
+
+#: ../../themes/qgis-theme/docs_index.html:10
+msgid " and help us write a better documentation."
+msgstr "és segítsen minket, írjon egy jobb dokumentációt."
+
+#: ../../themes/qgis-theme/docs_index.html:27
+msgid "DOCUMENTATION"
+msgstr "DOKUMENTÁCIÓ"
+
+#: ../../themes/qgis-theme/docs_index.html:32
+#: ../../themes/qgis-theme/docs_index.html:63
+msgid "QGIS 3.22"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:35
+#: ../../themes/qgis-theme/docs_index.html:98
+msgid "QGIS 3.16"
+msgstr "QGIS 3.16"
+
+#: ../../themes/qgis-theme/docs_index.html:38
+msgid "QGIS testing (>3.22)"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:41
+msgid "Documentation for older versions"
+msgstr "Dokumentáció a régebbi kiadásokhoz"
+
+#: ../../themes/qgis-theme/docs_index.html:44
+msgid "Data protection"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:64
+#: ../../themes/qgis-theme/docs_index.html:99
+msgid "For users:"
+msgstr "Felhasználóknak:"
+
+#: ../../themes/qgis-theme/docs_index.html:66
+#: ../../themes/qgis-theme/docs_index.html:67
+#: ../../themes/qgis-theme/docs_index.html:101
+#: ../../themes/qgis-theme/docs_index.html:102
+msgid "Read the"
+msgstr "Olvassa el a"
+
+#: ../../themes/qgis-theme/docs_index.html:66
+#: ../../themes/qgis-theme/docs_index.html:101
+#: ../../themes/qgis-theme/docs_index.html:143
+msgid "Desktop User Guide/Manual"
+msgstr "Felhasználói kézikönyv"
+
+#: ../../themes/qgis-theme/docs_index.html:67
+#: ../../themes/qgis-theme/docs_index.html:102
+#: ../../themes/qgis-theme/docs_index.html:144
+msgid "Server Guide/Manual"
+msgstr "Szerver kézikönyv"
+
+#: ../../themes/qgis-theme/docs_index.html:68
+#: ../../themes/qgis-theme/docs_index.html:103
+msgid "Follow the tutorials in the"
+msgstr "Kövesse az oktatóanyagot"
+
+#: ../../themes/qgis-theme/docs_index.html:68
+#: ../../themes/qgis-theme/docs_index.html:103
+msgid "QGIS Training manual"
+msgstr "QGIS tankönyv"
+
+#: ../../themes/qgis-theme/docs_index.html:69
+#: ../../themes/qgis-theme/docs_index.html:104
+msgid "Learn GIS basics in"
+msgstr "Tanulja meg a QGIS alapjait"
+
+#: ../../themes/qgis-theme/docs_index.html:69
+#: ../../themes/qgis-theme/docs_index.html:104
+#: ../../themes/qgis-theme/docs_index.html:150
+msgid "A gentle introduction in GIS"
+msgstr "Egy szelid bevezetés a QGIS-be"
+
+#: ../../themes/qgis-theme/docs_index.html:72
+#: ../../themes/qgis-theme/docs_index.html:107
+msgid "For documentation writers:"
+msgstr "Dokumentáció íróknak:"
+
+#: ../../themes/qgis-theme/docs_index.html:74
+#: ../../themes/qgis-theme/docs_index.html:109
+msgid "Learn how to write docs using the"
+msgstr "Tanulja meg hogyan írjon dokumentációt"
+
+#: ../../themes/qgis-theme/docs_index.html:74
+#: ../../themes/qgis-theme/docs_index.html:109
+msgid "Documentation Guidelines"
+msgstr "Dokumentáció útmutatások"
+
+#: ../../themes/qgis-theme/docs_index.html:77
+#: ../../themes/qgis-theme/docs_index.html:112
+msgid "For developers:"
+msgstr "Fejlesztőknek:"
+
+#: ../../themes/qgis-theme/docs_index.html:79
+#: ../../themes/qgis-theme/docs_index.html:114
+msgid "Go Python, study the"
+msgstr "Használjon Pythont, tanulmányozza a"
+
+#: ../../themes/qgis-theme/docs_index.html:79
+#: ../../themes/qgis-theme/docs_index.html:114
+msgid "PyQGIS cookbook (for plugins and scripting)"
+msgstr "PyQGIS szakácskönyv (modulokhoz és szkriptekhez)"
+
+#: ../../themes/qgis-theme/docs_index.html:80
+#: ../../themes/qgis-theme/docs_index.html:115
+#: ../../themes/qgis-theme/docs_index.html:152
+msgid "C++ Api documentation"
+msgstr "C++ Api dokumentáció"
+
+#: ../../themes/qgis-theme/docs_index.html:81
+#: ../../themes/qgis-theme/docs_index.html:116
+#: ../../themes/qgis-theme/docs_index.html:153
+msgid "PyQGIS - QGIS Python Api documentation"
+msgstr "PyQGIS - QGIS Python API dokumentáció"
+
+#: ../../themes/qgis-theme/docs_index.html:85
+#: ../../themes/qgis-theme/docs_index.html:120
+msgid "For download:"
+msgstr "Letöltéshez:"
+
+#: ../../themes/qgis-theme/docs_index.html:87
+#: ../../themes/qgis-theme/docs_index.html:122
+msgid "PDF of the manuals"
+msgstr "PDF kézikönyvek"
+
+#: ../../themes/qgis-theme/docs_index.html:88
+#: ../../themes/qgis-theme/docs_index.html:123
+msgid "HTML zip of the manuals"
+msgstr "HTML zip kézikönyvek"
+
+#: ../../themes/qgis-theme/docs_index.html:141
+msgid "QGIS testing"
+msgstr "QGIS tesztelés"
+
+#: ../../themes/qgis-theme/docs_index.html:142
+msgid ""
+"We are still updating (not translating yet) the documentation for releases "
+"newer than QGIS 3.22. We call this version 'QGIS testing' and the "
+"documentation can be found here: "
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:145
+msgid "QGIS Training Manual"
+msgstr "QGIS oktatási kézikönyv"
+
+#: ../../themes/qgis-theme/docs_index.html:146
+msgid "PyQGIS Cookbook"
+msgstr "PyQGIS Szakácskönyv"
+
+#: ../../themes/qgis-theme/docs_index.html:147
+msgid "QGIS Developers Guide"
+msgstr "QGIS Fejlesztői kézikönyv"
+
+#: ../../themes/qgis-theme/docs_index.html:149
+msgid "Documentation Guidelines (how to write the docs)"
+msgstr "Dokumentáció útmutatások (hogyan írjunk dokumentációt)"
+
+#: ../../themes/qgis-theme/docs_index.html:151
+msgid "PDF versions of all above, eg for printing are available here: "
+msgstr "PDF változata a fentieknek, pl. nyomtatási célokra, itt érhető el:"
+
+#: ../../themes/qgis-theme/docs_index.html:161
+msgid "Archived"
+msgstr "Archivált"
+
+#: ../../themes/qgis-theme/docs_index.html:162
+msgid "Links to documentation of older version of QGIS: "
+msgstr "Hivatkozások a régebbi QGIS kiadások dokumentációjához:"
+
+#: ../../themes/qgis-theme/docs_index.html:164
+msgid "QGIS 3.10 Documentation"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:165
+msgid "QGIS 3.4 Documentation"
+msgstr "QGIS 3.4 dokumentáció"
+
+#: ../../themes/qgis-theme/docs_index.html:166
+msgid "QGIS 2.18 Documentation"
+msgstr "QGIS 2.18 dokumentáció"
+
+#: ../../themes/qgis-theme/docs_index.html:167
+msgid "QGIS 2.14 Documentation"
+msgstr "QGIS 2.14 dokumentáció"
+
+#: ../../themes/qgis-theme/docs_index.html:168
+msgid "QGIS 2.8 Documentation"
+msgstr "QGIS 2.8 dokumentáció"
+
+#: ../../themes/qgis-theme/docs_index.html:178
+msgid "Data protection documentation"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:179
+msgid ""
+"In line with GDPR and related data protection regulations, we provide the "
+"following documentation: "
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:181
+msgid "QGIS Application Network Connections"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:3
+msgid "Download QGIS for your platform"
+msgstr "QGIS letöltés a platformjához"
+
+#: ../../themes/qgis-theme/forusers_download.html:4
+msgid "Binary packages (installers) are available from this page."
+msgstr "A bináris csomagok (telepítők) ezen az oldalon érhetőek el."
+
+#: ../../themes/qgis-theme/forusers_download.html:5
+#, python-format
+msgid "The current version is QGIS %s '%s' and was released on %s."
+msgstr "Az aktuális QGIS verzió  %s '%s' kiadási dátum: %s."
+
+#: ../../themes/qgis-theme/forusers_download.html:6
+#, python-format
+msgid "The long-term repositories currently offer QGIS %s '%s'."
+msgstr "A hosszú távon támogatott tárolók jelenleg a QGIS %s '%s' verziót kínálják."
+
+#: ../../themes/qgis-theme/forusers_download.html:7
+msgid "QGIS is available on Windows, macOS, Linux and Android."
+msgstr "A QGIS elérhető Windows-on, macOS-en, Linux-on és Androidon."
+
+#: ../../themes/qgis-theme/forusers_download.html:10
+#, python-format
+msgid ""
+"We are currently in feature freeze preceeding the release of QGIS %s. "
+"<b>Please consider testing the prereleases</b>. See "
+msgstr "Most a QGIS %s. kiadás előtti funkció bővítés befagyasztás időszakában vagyunk. <b>Kérjük fontolja meg az előzetes kiadás tesztelését</b>. Lásd "
+
+#: ../../themes/qgis-theme/forusers_download.html:11
+msgid "road map"
+msgstr "ütemterv"
+
+#: ../../themes/qgis-theme/forusers_download.html:19
+msgid "Installation Downloads"
+msgstr "Telepítő letöltések"
+
+#: ../../themes/qgis-theme/forusers_download.html:20
+msgid "All Releases"
+msgstr "Összes kiadás"
+
+#: ../../themes/qgis-theme/forusers_download.html:21
+msgid "Sources"
+msgstr "Források"
+
+#: ../../themes/qgis-theme/forusers_download.html:34
+msgid "Download for Windows"
+msgstr "Letöltés Windowsra"
+
+#: ../../themes/qgis-theme/forusers_download.html:40
+msgid "QGIS in OSGeo4W (recommended for regular users):"
+msgstr "QGIS az OSGeo4W-ben (rendszeres felhasználóknak ajánlott):"
+
+#: ../../themes/qgis-theme/forusers_download.html:45
+msgid "OSGeo4W Network Installer"
+msgstr "OSGeo4W hálózati telepítő"
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+msgid "In the installer choose "
+msgstr "Telepítés folyamán válassza az "
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+msgid "Express Install"
+msgstr "Express Install-t"
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+msgid "and select"
+msgstr "opciót és válassza ki a"
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+#: ../../themes/qgis-theme/index.html:9
+msgid "QGIS"
+msgstr "QGIS"
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+msgid "to install the <em>latest release</em> or "
+msgstr "<em>a legújabb kiadás</em> telepítéséhez vagy"
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+msgid "QGIS LTR"
+msgstr "QGIS LTR"
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+msgid "to install the <em>long term release</em>."
+msgstr "<em>a hosszútávú kiadás</em> telepítéséhez."
+
+#: ../../themes/qgis-theme/forusers_download.html:50
+msgid ""
+"The express installations have several optional packages including non-free "
+"software. To avoid those you have to use the"
+msgstr "Az express telepítés több opcionális csomagot tartamaz, köztük nem szabad szoftvert is. Ezek elkerülésére a következőt kell használnia"
+
+#: ../../themes/qgis-theme/forusers_download.html:50
+msgid "Advanced Install"
+msgstr "'Advanced Install'"
+
+#: ../../themes/qgis-theme/forusers_download.html:50
+msgid "and choose"
+msgstr "és válassza"
+
+#: ../../themes/qgis-theme/forusers_download.html:50
+msgid "and/or"
+msgstr "és/vagy"
+
+#: ../../themes/qgis-theme/forusers_download.html:50
+msgid "in the desktop section."
+msgstr "a desktop részben."
+
+#: ../../themes/qgis-theme/forusers_download.html:51
+#: ../../themes/qgis-theme/forusers_download.html:52
+msgid "CAUTION"
+msgstr "FIGYELMEZTETÉS"
+
+#: ../../themes/qgis-theme/forusers_download.html:51
+msgid ""
+"Upgrades of old setups from OSGeo4W v1 using this repository are not "
+"supported. You need to do a fresh install or use a different directory."
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:52
+msgid ""
+"32 bit binaries are not produced anymore.  Also Windows 7 no longer works as"
+" we are now using Python 3.9, which dropped support for it."
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:56
+msgid ""
+"Standalone installers (MSI) from OSGeo4W packages (recommended for new "
+"users)"
+msgstr "Önálló telepítők (MSI) az OSGeo4W csomagokból (új felhasználóknak ajánlott)"
+
+#: ../../themes/qgis-theme/forusers_download.html:57
+#: ../../themes/qgis-theme/forusers_download.html:104
+msgid "Latest release (richest on features):"
+msgstr "Legújabb kiadás (funkciókban leggazdagabb):"
+
+#: ../../themes/qgis-theme/forusers_download.html:62
+#: ../../themes/qgis-theme/forusers_download.html:77
+#, python-format
+msgid "QGIS Standalone Installer Version %s"
+msgstr "QGIS önálló telepítő verzió %s"
+
+#: ../../themes/qgis-theme/forusers_download.html:72
+#: ../../themes/qgis-theme/forusers_download.html:112
+msgid "Long term release (most stable):"
+msgstr "Hosszútávú kiadás (legstabilabb):"
+
+#: ../../themes/qgis-theme/forusers_download.html:87
+msgid ""
+"Note that the MSI installers are much bigger than the previous installers.  "
+"This is because they include significant larger packages (eg. PROJ 8).  The "
+"main reason for the switch to MSI were the size limits previously used NSIS "
+"has, which was blocking updates of dependencies."
+msgstr "Vegye figyelembe, hogy az MSI telepítő sokkal nagyobb mint a korábbi telepítők. Ez azért van mert lényegesen nagyobb csomagokat foglalnak magukba (pl. PROJ 8). A fő oka az MSI-re váltásnak a korábban használt NSIS méret korlátozása volt, mely blokkolta a függőségek frissítését."
+
+#: ../../themes/qgis-theme/forusers_download.html:96
+msgid "Download for macOS"
+msgstr "Letöltés macOS-re"
+
+#: ../../themes/qgis-theme/forusers_download.html:101
+msgid "Official All-in-one, signed installers"
+msgstr "Hivatalos, mindent tartalmazó, aláírt telepítők"
+
+#: ../../themes/qgis-theme/forusers_download.html:102
+#: ../../themes/qgis-theme/forusers_download.html:122
+msgid "Mac Installer Packages for macOS High Sierra (10.13) and newer."
+msgstr "Mac telepítőcsomagok macOS High Sierra (10.13) és újabb verziókhoz."
+
+#: ../../themes/qgis-theme/forusers_download.html:103
+msgid ""
+"QGIS is not yet notarized as required by macOS Catalina (10.15) security "
+"rules. On first launch, please right-click on the QGIS app icon, hold down "
+"the Option key, then choose Open."
+msgstr "A QGIS még nem lett hitelesítve a macOS Catalina (10.15) biztonsági szabályai szerint. Az első indításkor kattintson a jobb gombbal a QGIS alkalmazás ikonjára, tartsa lenyomva az Option billentyűt, majd válassza a Megnyitás lehetőséget."
+
+#: ../../themes/qgis-theme/forusers_download.html:109
+#: ../../themes/qgis-theme/forusers_download.html:117
+#, python-format
+msgid "QGIS macOS Installer Version %s"
+msgstr "QGIS macOS telepítő, %s verzió"
+
+#: ../../themes/qgis-theme/forusers_download.html:120
+msgid "Alternative build"
+msgstr "Alternatív változat"
+
+#: ../../themes/qgis-theme/forusers_download.html:123
+msgid ""
+"Installation instructions are in the Read Me on the disk image. GDAL and "
+"Python (both included on the disk image) are installed separately and "
+"outside the QGIS app so they are usable on their own. These packages use the"
+" python.org Python 3 - other distributions are not supported."
+msgstr "A telepítési utasítások a lemezképen található Read Me részben találhatók. A GDAL és a Python (mindkettő szerepel a lemezképben) külön és a QGIS alkalmazáson kívül van telepítve, így önmagukban is használhatók. Ezek a csomagok a python.org Python 3-at használják – más disztribúciók nem támogatottak."
+
+#: ../../themes/qgis-theme/forusers_download.html:128
+msgid "macOS Installers"
+msgstr "macOS telepítők"
+
+#: ../../themes/qgis-theme/forusers_download.html:138
+msgid "Download for Linux"
+msgstr "Letöltés Linuxra"
+
+#: ../../themes/qgis-theme/forusers_download.html:143
+msgid ""
+"For many flavors of GNU/Linux binary packages (rpm and deb) or software "
+"repositories (to add to your installation manager) are available. Please "
+"select your choice of distro below:"
+msgstr "Számos GNU/Linux bináris csomag (rpm és deb) vagy szoftvertároló (hozzáadható a szoftverforrásokhoz) érhető el. Kérjük válassza az Ön által használt disztribúciót:"
+
+#: ../../themes/qgis-theme/forusers_download.html:145
+msgid "Debian/Ubuntu"
+msgstr "Debian/Ubuntu"
+
+#: ../../themes/qgis-theme/forusers_download.html:146
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../../themes/qgis-theme/forusers_download.html:147
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: ../../themes/qgis-theme/forusers_download.html:148
+msgid "RHEL, CentOS, Scientific Linux, ..."
+msgstr "RHEL, CentOS, Scientific Linux, ..."
+
+#: ../../themes/qgis-theme/forusers_download.html:149
+msgid "Mandriva"
+msgstr "Mandriva"
+
+#: ../../themes/qgis-theme/forusers_download.html:150
+msgid "Slackware"
+msgstr "Slackware"
+
+#: ../../themes/qgis-theme/forusers_download.html:151
+msgid "Arch Linux"
+msgstr "Arch Linux"
+
+#: ../../themes/qgis-theme/forusers_download.html:152
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: ../../themes/qgis-theme/forusers_download.html:154
+msgid "Linux Installation Instructions"
+msgstr "Linux telepítési utasítások"
+
+#: ../../themes/qgis-theme/forusers_download.html:162
+msgid "Download for BSD"
+msgstr "Letöltés BSD-re"
+
+#: ../../themes/qgis-theme/forusers_download.html:167
+msgid "BSD Installation Instructions"
+msgstr "BSD telepítési utasítások"
+
+#: ../../themes/qgis-theme/forusers_download.html:175
+msgid "Apps for mobile and tablet"
+msgstr "Alkalmazások telefonra és tabletre"
+
+#: ../../themes/qgis-theme/forusers_download.html:180
+msgid ""
+"The QGIS experience does not stop on the desktop. Various touch optimized "
+"apps allow you to take QGIS into the field"
+msgstr "A QGIS élmény nem áll meg az asztalon. A különféle érintésre optimalizált alkalmazások lehetővé teszik a QGIS terepre vitelét"
+
+#: ../../themes/qgis-theme/forusers_download.html:181
+msgid "Third-party touch optimized apps"
+msgstr "Külső fejlesztők érintésre optimalizált alkalmazásai"
+
+#: ../../themes/qgis-theme/forusers_download.html:182
+msgid "QField for QGIS (formerly QGIS for Android)"
+msgstr "QField QGIS-hez (korábban QGIS Androidhoz)"
+
+#: ../../themes/qgis-theme/forusers_download.html:188
+msgid "Mergin Maps Input app (available for Android and iOS devices)"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:199
+msgid "QGIS for Android"
+msgstr "QGIS Androidhoz"
+
+#: ../../themes/qgis-theme/forusers_download.html:200
+msgid ""
+"An old and deprecated not touch optimised release of QGIS for Android can be"
+" found in"
+msgstr "A QGIS for Android egyik régi és elavult, érintésre optimalizált kiadása itt található:"
+
+#: ../../themes/qgis-theme/forusers_download.html:200
+#: ../../themes/qgis-theme/forusers_download.html:207
+#: ../../themes/qgis-theme/forusers_download.html:209
+msgid "All downloads"
+msgstr "Minden letöltés"
+
+#: ../../themes/qgis-theme/forusers_download.html:209
+msgid ""
+"More specific instructions about downloading QGIS stable vs QGIS development"
+" can be found in"
+msgstr "További részletes instrukciók találhatók a stabil iletve a fejlesztői QGIS letöltéséről"
+
+#: ../../themes/qgis-theme/forusers_download.html:212
+msgid "Datasets"
+msgstr "Adathalmazok"
+
+#: ../../themes/qgis-theme/forusers_download.html:213
+msgid "For testing and learning purposes, a "
+msgstr "Tesztelési és tanulási célokra, egy"
+
+#: ../../themes/qgis-theme/forusers_download.html:213
+msgid "sample dataset is available"
+msgstr "minta adatállomány elérhető"
+
+#: ../../themes/qgis-theme/forusers_download.html:213
+msgid ""
+"which contains collections of data from different sources and in different "
+"formats."
+msgstr "mely különböző formátumú, különböző forrásokból beszerzett adatokat tartalmaz."
+
+#: ../../themes/qgis-theme/forusers_download.html:219
+msgid "Previous releases of QGIS are still available"
+msgstr "A QGIS korábbi kiadások még elérhetők"
+
+#: ../../themes/qgis-theme/forusers_download.html:219
+#: ../../themes/qgis-theme/forusers_download.html:220
+#: ../../themes/qgis-theme/forusers_download.html:221
+#: ../../themes/qgis-theme/forusers_download.html:223
+#: ../../themes/qgis-theme/forusers_download.html:224
+#: ../../themes/qgis-theme/forusers_download.html:234
+#: ../../themes/qgis-theme/forusers_download.html:235
+#: ../../themes/qgis-theme/forusers_download.html:236
+msgid "here"
+msgstr "itt"
+
+#: ../../themes/qgis-theme/forusers_download.html:219
+msgid " - including older releases for OS X "
+msgstr " – beleértve a régebbi kiadásokat OS X-re "
+
+#: ../../themes/qgis-theme/forusers_download.html:221
+msgid "More older releases are available"
+msgstr "Régebbi kiadások elérhetők"
+
+#: ../../themes/qgis-theme/forusers_download.html:222
+#: ../../themes/qgis-theme/forusers_download.html:232
+#: ../../themes/qgis-theme/getinvolved_index.html:16
+#: ../../themes/qgis-theme/getinvolved_index.html:90
+msgid "and"
+msgstr "és"
+
+#: ../../themes/qgis-theme/forusers_download.html:223
+msgid "for OS X "
+msgstr "OS X-hez"
+
+#: ../../themes/qgis-theme/forusers_download.html:224
+#: ../../themes/qgis-theme/forusers_download.html:236
+msgid "Plugins for QGIS are also available "
+msgstr "QGIS modulok szintén elérhetőek"
+
+#: ../../themes/qgis-theme/forusers_download.html:229
+msgid "QGIS is open source software available under the terms of the"
+msgstr "A QGIS egy nyílt forráskódú szoftver az alábbi feltételek mellett"
+
+#: ../../themes/qgis-theme/forusers_download.html:229
+msgid "GNU General Public License"
+msgstr "GNU általános nyilvános licensz"
+
+#: ../../themes/qgis-theme/forusers_download.html:229
+msgid ""
+"meaning that its source code can be downloaded through tarballs or the git "
+"repository."
+msgstr "azt jelenti, hogy a forráskód letölthető tömörített fájlban vagy a git tárolóból."
+
+#: ../../themes/qgis-theme/forusers_download.html:230
+msgid "QGIS Source Code is available "
+msgstr "A QGIS forráskódja elérhető"
+
+#: ../../themes/qgis-theme/forusers_download.html:231
+msgid "here (latest release)"
+msgstr "itt (legújabb kiadás)"
+
+#: ../../themes/qgis-theme/forusers_download.html:233
+msgid "here (long term release)"
+msgstr "itt (hosszú távú kiadás)"
+
+#: ../../themes/qgis-theme/forusers_download.html:234
+msgid ""
+"Refer to the INSTALL guide on how to compile QGIS from source for the "
+"different platforms:"
+msgstr "Lásd a telepítési útmutatót, hogyan kell lefordítani a QGIS-t a forrásokból a különböző platformokon:"
+
+#: ../../themes/qgis-theme/forusers_download.html:235
+msgid ""
+"Note that you can also install the development version (nightly) via an "
+"installer from the normal downloads for your platform:"
+msgstr "Vegye figyelembe, hogy a platformjához tartozó fejlesztői verziót (éjszakai) is telepítheti a telepítővel az általános letöltési oldalról:"
+
+#: ../../themes/qgis-theme/forusers_index.html:7
+msgid "Get Started Using QGIS"
+msgstr "Kezdje a QGIS használni"
+
+#: ../../themes/qgis-theme/forusers_index.html:9
+msgid "Step 1: Download QGIS"
+msgstr "1. lépés: Töltse le a QGIS-t"
+
+#: ../../themes/qgis-theme/forusers_index.html:11
+msgid "Step 2: Check our documentation"
+msgstr "2. lépés: Nézze meg a dokumentációt"
+
+#: ../../themes/qgis-theme/forusers_index.html:13
+msgid "Step 3: Connect with the QGIS community"
+msgstr "3. lépés: Lépjen kapcsolatba a QGIS közösséggel"
+
+#: ../../themes/qgis-theme/forusers_index.html:27
+#: ../../themes/qgis-theme/page.html:138
+msgid "For Users"
+msgstr "Felhasználóknak"
+
+#: ../../themes/qgis-theme/forusers_index.html:32
+msgid "Download"
+msgstr "Letöltés"
+
+#: ../../themes/qgis-theme/forusers_index.html:35
+#: ../../themes/qgis-theme/forusers_index.html:88
+#: ../../themes/qgis-theme/page.html:140
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+#: ../../themes/qgis-theme/forusers_index.html:38
+msgid "QGIS Plugins"
+msgstr "QGIS modulok"
+
+#: ../../themes/qgis-theme/forusers_index.html:41
+#: ../../themes/qgis-theme/forusers_index.html:132
+msgid "Getting Help"
+msgstr "Segítséget kapni"
+
+#: ../../themes/qgis-theme/forusers_index.html:44
+msgid "In the Press"
+msgstr "Sajtóban"
+
+#: ../../themes/qgis-theme/forusers_index.html:60
+msgid "Download QGIS"
+msgstr "QGIS letöltés"
+
+#: ../../themes/qgis-theme/forusers_index.html:62
+msgid "for your operating system."
+msgstr "az operációs rendszeréhez."
+
+#: ../../themes/qgis-theme/forusers_index.html:65
+msgid "Get the installer"
+msgstr "Szerezze be a telepítőt"
+
+#: ../../themes/qgis-theme/forusers_index.html:68
+msgid "Check out our roadmap for future versions: "
+msgstr "Tekintse meg kiadási ütemtervünket a jövőbeli verziókhoz:"
+
+#: ../../themes/qgis-theme/forusers_index.html:68
+#: ../../themes/qgis-theme/getinvolved_index.html:156
+msgid "QGIS roadmap"
+msgstr "QGIS ütemterv"
+
+#: ../../themes/qgis-theme/forusers_index.html:72
+msgid "See the latest features in the visual changelogs"
+msgstr "Tekintse meg a legújabb funkciókat a vizuális változásnaplóban"
+
+#: ../../themes/qgis-theme/forusers_index.html:91
+msgid "Our main documentation is the"
+msgstr "A legfőbb dokumentációnk a"
+
+#: ../../themes/qgis-theme/forusers_index.html:92
+msgid "QGIS user guide"
+msgstr "QGIS felhasználói kézikönyv"
+
+#: ../../themes/qgis-theme/forusers_index.html:94
+msgid "We also provide step by step tutorials in the"
+msgstr "Lépésről-lépésre oktatóanyagot is biztosítunk a"
+
+#: ../../themes/qgis-theme/forusers_index.html:95
+msgid "Training manual"
+msgstr "Gyakorlati segédletben"
+
+#: ../../themes/qgis-theme/forusers_index.html:97
+msgid "External parties also provide"
+msgstr "Külső felek is készítenek"
+
+#: ../../themes/qgis-theme/forusers_index.html:98
+msgid "QGIS tutorials"
+msgstr "QGIS oktatóanyagokat"
+
+#: ../../themes/qgis-theme/forusers_index.html:100
+msgid "QGIS values user privacy. We therefore provide detailed info on"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:101
+msgid "QGIS application network connections"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_index.html:108
+msgid "QGIS Publications"
+msgstr "QGIS publikációk"
+
+#: ../../themes/qgis-theme/forusers_index.html:110
+msgid "Read what the QGIS community is doing around the world"
+msgstr "Arról, hogy mit csinál világszerte a QGIS közösség, olvashat"
+
+#: ../../themes/qgis-theme/forusers_index.html:112
+msgid "in our blogs"
+msgstr "a blogjainkban"
+
+#: ../../themes/qgis-theme/forusers_index.html:114
+msgid "For more in-depth reading, get some"
+msgstr "Részletesebb olvasmányért szerezzen be néhány"
+
+#: ../../themes/qgis-theme/forusers_index.html:116
+msgid "books on QGIS"
+msgstr "QGIS könyvet"
+
+#: ../../themes/qgis-theme/forusers_index.html:133
+msgid "You can get in touch with fellow users and developers via"
+msgstr "Kapcsolatba léphet a felhasználótársakkal és a fejlesztőkkel a"
+
+#: ../../themes/qgis-theme/forusers_index.html:135
+msgid "our community support channels"
+msgstr "közösségi támogató csatornáinkon"
+
+#: ../../themes/qgis-theme/forusers_index.html:144
+msgid ""
+"Do you plan to use QGIS in your company or organization, but worry about whether there is\n"
+"                    commercial support available? Here is an alphabetical"
+msgstr "Tervezi a QGIS használatát a cégénél vagy az intézményében, de aggódik amiatt, hogy van-e hozzá kereskedelmi támogatás? Itt talál egy betűrendes listát:"
+
+#: ../../themes/qgis-theme/forusers_index.html:148
+msgid "list of support contractors"
+msgstr "támogatást nyújtó vállalkozások"
+
+#: ../../themes/qgis-theme/forusers_index.html:164
+msgid "Get Plugins"
+msgstr "Modulok beszerzése"
+
+#: ../../themes/qgis-theme/forusers_index.html:165
+msgid ""
+"QGIS plugins allow you to add many new features and functions. Get them from"
+msgstr "A QGIS modulok lehetővé teszik számos új képesség és funkció hozzáadását a rendszerhez. Szerezze be őket a"
+
+#: ../../themes/qgis-theme/forusers_index.html:168
+msgid "the plugin repository"
+msgstr "modul tárházból"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:7
+msgid "Get Involved in the QGIS Community"
+msgstr "Legyen tagja a QGIS közösségnek"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:8
+msgid ""
+"QGIS is developed by a team of dedicated volunteers and \n"
+"                organisations. We strive to be a welcoming community for\n"
+"                people of all race, creed, gender and walks of life."
+msgstr "A QGIS-t az elkötelezett önkéntesek és szervezetek csoportja\nfejleszti. Arra törekszünk, hogy barátságos közössége legyen\nminden embernek faji, vallási, nemi és életviteli eltérésektől függetlenül."
+
+#: ../../themes/qgis-theme/getinvolved_index.html:12
+msgid "You can get involved!"
+msgstr "Részt vehet benne!"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:14
+msgid "For more information, please read our "
+msgstr "További információkért olvassa el a"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:15
+msgid "diversity statement"
+msgstr "sokszínűségi nyilatkozatunkat"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:17
+msgid "code of conduct"
+msgstr "magatartási kódex"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:37
+msgid "GET INVOLVED"
+msgstr "VEGYEN RÉSZT"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:42
+#: ../../themes/qgis-theme/getinvolved_index.html:74
+msgid "Report Bugs"
+msgstr "Hiba bejelentése"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:45
+msgid "Participate in Support"
+msgstr "Vegyen részt a támogatásban"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:48
+msgid "Translate"
+msgstr "Fordítás"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:51
+#: ../../themes/qgis-theme/getinvolved_index.html:141
+msgid "Develop a Plugin"
+msgstr "Modul fejlesztés"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:54
+#: ../../themes/qgis-theme/getinvolved_index.html:150
+msgid "Develop QGIS Core"
+msgstr "QGIS mag fejlesztés"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:57
+msgid "Sponsor & Donate"
+msgstr "Támogatók és Adományozók"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:75
+msgid "If you find an issue working with QGIS, please "
+msgstr "Ha egy hibát talál a QGIS-sel dolgozva, kérjük"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:77
+msgid "report it"
+msgstr "jelentse ezt"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:79
+msgid "so developers can check and fix it.  "
+msgstr "így a fejlesztők ellenőrizhetik és kijavíthatják."
+
+#: ../../themes/qgis-theme/getinvolved_index.html:85
+msgid "Participate in Support Channels"
+msgstr "Részvétel a támogatói csatornán"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:86
+msgid "There are several "
+msgstr "Vannak"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:88
+msgid "QGIS mailing lists"
+msgstr "QGIS levelező listák"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:89
+msgid "IRC chats"
+msgstr "IRC csevegések"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:90
+msgid "forums"
+msgstr "fórumok"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:91
+msgid "user groups"
+msgstr "felhasználói csoportok"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:93
+msgid ""
+"you can use to get help from fellow users and developers, or to keep up with current project events.\n"
+"                    You are welcome to subscribe to any of the lists. Please remember to contribute to the list by\n"
+"                    answering questions and sharing your experiences. We also provide a "
+msgstr "melyeken segítséget kérhet a felhasználó társaktól és a fejlesztőktől vagy  értesülhet az aktuális projekt eseményekről.\nNyugodtan iratkozzon föl bármelyik listára. Kérjük, hogy járuljon hozzá a listák tartalmához azzal, hogy megválaszolja a kérdéseket és megosztja a tapasztalatait. Továbbá biztosítunk egy"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:96
+msgid "website to search the mailing list archives"
+msgstr "honlapot a levelező listák archívumainak kereséshez"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:97
+msgid "For the full list see"
+msgstr "A teljes listához lásd"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:99
+msgid "our community support channels page"
+msgstr "a közösségi támogatói csatornák oldalunkat"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:113
+msgid "Document QGIS"
+msgstr "QGIS dokumentálás"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:114
+msgid ""
+"The QGIS project aims to provide clear documentation concerning a User "
+"guide, GIS concepts, and training material. Writing documentation provides "
+"an ideal platform for your first contribution to the project. If you want to"
+" join to the documentation effort, you can find a gentle introduction and "
+"guidelines here:"
+msgstr "A QGIS projekt egyértelmű dokumentációt szeretne biztosítani a Felhasználói kézikönyvvel, a GIS-koncepcióval és a képzési anyagokkal kapcsolatbanprojekt. A dokumentáció írása ideális platformot biztosít a projekthez való első hozzájáruláshoz. Ha szeretne csatlakozni a dokumentációs erőfeszítéshez, itt talál egy kis bevezetőt és útmutatót:"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:116
+msgid "Write Documentation"
+msgstr "Dokumentáció írása"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:123
+msgid "Translate QGIS"
+msgstr "QGIS fordítás"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:124
+msgid ""
+"The QGIS project provides a gentle GIS introduction, a User Guide, a Coding "
+"and Compilation Guide and a API Documentation in english and in some cases "
+"also translated into several foreign languages. If you are interested in "
+"getting involved with the documentation effort, e.g. translating the english"
+" manual into another language, learn how to get started here:"
+msgstr "A QGIS projekt egy egyszerű GIS bevezetőt, egy felhasználói kézikönyvet, egy kódolási és fordítási kézikönyvet és egy API dokumentációt kínál angol nyelven, valamint néhány esetben ezek számos idegen nyelvre lefordított változatát. Amennyiben érdekli, hogyan tud részt venni a dokumentációs erőfeszítésekben, pl. angol kézikönyv fordítása más nyelvre, itt megtanulhatja, hogy hogyan induljon el:"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:126
+msgid "Translate QGIS into your Language"
+msgstr "QGIS lefordítása az Ön nyelvére"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:142
+msgid "Want to write your own Python plugin? Go here: "
+msgstr "Saját Python modult akar készíteni? Kezdje itt:"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:142
+msgid "Developing Python plugins"
+msgstr "Python modulok fejlesztése"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:143
+msgid "Want to develop a C++ plugin? Go here: "
+msgstr "C++ modult akar fejleszteni? Kezdje itt:"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:143
+msgid "Developing CPP plugins"
+msgstr "C++ modul fejlesztés"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:144
+msgid "A wide range of great plugins exist for QGIS via the "
+msgstr "A nagyszerű modulok széles választéka érhető el QGIS-hez a"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:144
+msgid "QGIS Plugin web portal"
+msgstr "QGIS modul portálon"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:151
+msgid ""
+"QGIS Core consists on the one hand of the libraries enabling you to build "
+"custom tailored application by  providing a powerful API. On the other hand "
+"it consists of a desktop and server application which expose the "
+"possibilities offered by the libraries, offering a user friendly interface."
+msgstr "A QGIS mag egyrészt könyvtárakból áll, melyek lehetővé teszik, hogy testre szabott alkalmazást hozzon létre a hatékony API segítségével. Másrészt pedig asztali és szerver alkalmazásból áll, melyek egy felhasználóbarát felületet biztosítva teszik elérhetővé a könyvtárak által biztosított lehetőségeket."
+
+#: ../../themes/qgis-theme/getinvolved_index.html:153
+msgid "Get Set Up for QGIS Core Development"
+msgstr "Készüljön fel a QGIS mag fejlesztésre"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:171
+msgid "Sustain & Donate"
+msgstr "Fenntartás és adományozás"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:172
+msgid "There are two kinds of financial contributions, we accept:"
+msgstr "Két pénzügyi támogatás létezik, melyet elfogadunk:"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:173
+msgid "Sustaining memberships:"
+msgstr "Pártoló tagság"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:173
+msgid " annual commitments of funds to the project"
+msgstr "évenkénti kötelezettségvállalás a projekt támogatására"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:173
+msgid "more information and a list of our sustaining members"
+msgstr "további információk és pártoló tagjaink listája"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:174
+msgid "Donations:"
+msgstr "Adományok:"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:174
+msgid " one-time financial contributions to the project"
+msgstr "a projekt egyszeri pénzügyi támogatása"
+
+#: ../../themes/qgis-theme/getinvolved_index.html:174
+msgid "donations via a variety of channels"
+msgstr "adományokat a különböző csatornákon keresztül"
 
 #: ../../themes/qgis-theme/index.html:3
 msgid "Time until freeze"
@@ -953,14 +1162,14 @@ msgstr "Idő a csomagkészítésig:"
 
 #: ../../themes/qgis-theme/index.html:5
 msgid "Time until next pointrelease"
-msgstr "Idő a következő pont kiadásig"
+msgstr "Idő a következő pont-kiadásig"
 
 #: ../../themes/qgis-theme/index.html:12
 msgid "A Free and Open Source Geographic Information System"
 msgstr "Egy szabad és nyílt forráskódú térinformatikai rendszer"
 
 #: ../../themes/qgis-theme/index.html:33
-msgid "New release: 3.16!"
+msgid "New release: 3.26!"
 msgstr ""
 
 #: ../../themes/qgis-theme/index.html:35
@@ -973,23 +1182,23 @@ msgstr "a telepítőt vagy a csomagot"
 
 #: ../../themes/qgis-theme/index.html:37
 msgid "for your Operating System and read the"
-msgstr ""
+msgstr "az operációs rendszeréhez és olvassa el"
 
 #: ../../themes/qgis-theme/index.html:38
 msgid "changelog."
-msgstr ""
+msgstr "változás naplót."
 
 #: ../../themes/qgis-theme/index.html:47
 msgid "QGIS Community meetings"
-msgstr ""
+msgstr "QGIS közösségi találkozók"
 
 #: ../../themes/qgis-theme/index.html:49
 msgid "Find out more about our tradition of user and contributor"
-msgstr ""
+msgstr "Tudjon meg többet a hagyományos  felhasználói és közreműködői"
 
 #: ../../themes/qgis-theme/index.html:49
 msgid "meetings!"
-msgstr ""
+msgstr "találkozókról!"
 
 #: ../../themes/qgis-theme/index.html:58
 msgid "Look cool and support the QGIS project!"
@@ -1007,7 +1216,7 @@ msgstr "QGIS termékeinkkel!"
 msgid ""
 "Create, edit, visualise, analyse and publish geospatial\n"
 "            information on Windows, Mac, Linux, BSD and mobile devices"
-msgstr ""
+msgstr "Létrehozhat, szerkeszthet, vizualizálhat, elemezhet és közzétehet térinformatikai adatokat, információk Windows, Mac, Linux, BSD és mobil eszközökön"
 
 #: ../../themes/qgis-theme/index.html:80
 msgid ""
@@ -1033,7 +1242,7 @@ msgstr "Adományozzon most!"
 
 #: ../../themes/qgis-theme/index.html:100
 msgid "Project News"
-msgstr "Projekt újdonságok"
+msgstr "Projekt hírek"
 
 #: ../../themes/qgis-theme/index.html:106
 msgid "Latest Project Blog Posts (blog.qgis.org)"
@@ -1045,7 +1254,12 @@ msgstr "Kezdjen hozzá"
 
 #: ../../themes/qgis-theme/index.html:128
 msgid "Start using QGIS for your GIS tasks."
-msgstr "Kezdje a QGIS használni a térinformatikai feladataihoz."
+msgstr "Kezdje a QGIS-t használni a térinformatikai feladataihoz."
+
+#: ../../themes/qgis-theme/index.html:137
+#: ../../themes/qgis-theme/page.html:139
+msgid "Get Involved"
+msgstr "Vegyen részt benne"
 
 #: ../../themes/qgis-theme/index.html:140
 msgid "Shape the future of QGIS with your contributions."
@@ -1073,23 +1287,23 @@ msgstr "Következő QGIS felhasználói és fejlesztői találkozók"
 
 #: ../../themes/qgis-theme/index.html:182
 msgid "Latest Blog Posts"
-msgstr ""
+msgstr "Legfrissebb blogbejegyzések"
 
-#: ../../themes/qgis-theme/index.html:222
+#: ../../themes/qgis-theme/index.html:231
 msgid "See More Maps and Screenshots"
 msgstr "További térképek és képernyőképek"
 
-#: ../../themes/qgis-theme/index.html:242
+#: ../../themes/qgis-theme/index.html:251
 msgid "Sustaining Members"
-msgstr ""
+msgstr "Pártoló tagok"
 
-#: ../../themes/qgis-theme/index.html:278
+#: ../../themes/qgis-theme/index.html:287
 msgid "frozen since"
 msgstr "befagyasztva:"
 
-#: ../../themes/qgis-theme/index.html:281
+#: ../../themes/qgis-theme/index.html:290
 msgid "in packaging since"
-msgstr "csomagkészítés alatt ezóta"
+msgstr "csomagkészítés alatt ezóta:"
 
 #: ../../themes/qgis-theme/languageswitch.html:4
 msgid "English"
@@ -1204,15 +1418,14 @@ msgid ""
 "Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and "
 "will always be free of charge if downloaded from QGIS.org. If you can afford"
 " to support the project and people making this software, please consider "
-"making <a href=\"https://qgis.org/en/site/getinvolved/donations.html\">a "
-"small donation to support</a> our efforts. Whether you choose to donate or "
-"not, we hope that you enjoy using our labour of love and encourage you to "
-"share and spread your downloaded copy far and wide so that others may enjoy "
-"it too. Our very best regards!"
+"making <a href=\"https://donate.qgis.org/\">a small donation to support</a> "
+"our efforts. Whether you choose to donate or not, we hope that you enjoy "
+"using our labour of love and encourage you to share and spread your "
+"downloaded copy far and wide so that others may enjoy it too. Our very best "
+"regards!"
 msgstr ""
 
 #: ../../themes/qgis-theme/languageswitch.html:102
-#: ../../themes/qgis-theme/languageswitch.html:132
 msgid "The QGIS Team"
 msgstr "A QGIS csapat"
 
@@ -1221,115 +1434,51 @@ msgid "Donate Now"
 msgstr "Adományozzon most"
 
 #: ../../themes/qgis-theme/languageswitch.html:105
-#: ../../themes/qgis-theme/languageswitch.html:134
 msgid "Close this message"
 msgstr "Üzenet bezárása"
 
-#: ../../themes/qgis-theme/languageswitch.html:128
-msgid "Thank you for your donation!"
-msgstr "Köszönjük az adományát!"
+#: ../../themes/qgis-theme/localtoc.html:3
+msgid "Page"
+msgstr "Oldal"
 
-#: ../../themes/qgis-theme/languageswitch.html:130
+#: ../../themes/qgis-theme/page.html:39
 msgid ""
-"QGIS is free of charge and we hope that you enjoy using our labour of love "
-"and encourage you to share and spread your downloaded copy far and wide so "
-"that others may enjoy it too. Our very best regards!"
-msgstr "A QGIS ingyenes, és reméljük, hogy tetszik a munkánk és arra bátorítjuk Önt, hogy ossza meg és terjessze a letöltött másolatot bárhol bárkinek, hogy mások is élvezhessék a rendszer használatát. A legjobbakat kívánva Önnek!"
+"If not stated otherwise, all content is licensed under <a "
+"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
+"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
+msgstr "Ha másképp nincs jelezve, akkor minden tartalom a <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licensz (CC BY-SA)</a> alatt áll."
 
-#: ../../themes/qgis-theme/languageswitch.html:131
+#: ../../themes/qgis-theme/page.html:43
 msgid ""
-"Unfortunately there was an error processing your Donation. Please try again "
-"later, or contact us via finance@qgis.org"
-msgstr "Sajnálatos módon hiba történt az Ön adományozásának feldolgozása során. Kérjük, próbálkozzon újra később, vagy lépjen velünk kapcsolatba a finance@qgis.org címen"
+"Select graphics from <a href=\"https://thenounproject.com\" "
+"target=\"_blank\">The Noun Project collection</a>"
+msgstr "Válogatott grafikák a <a href=\"https://thenounproject.com\" target=\"_blank\">The Noun Project collection</a>-ből"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:8
-msgid "QGIS Donations"
-msgstr "QGIS adományok"
+#: ../../themes/qgis-theme/page.html:47
+msgid " - Last updated on "
+msgstr "- utolsó frissítés"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:9
-msgid ""
-"QGIS is developed by a team of dedicated volunteers, companies and "
-"organisations."
-msgstr "A QGIS-t elkötelezett önkéntesek, vállalatok és szervezetek csapata fejleszti."
+#: ../../themes/qgis-theme/page.html:51
+msgid "Untranslated page? Or you spot a translation error:"
+msgstr "Nincs az oldal lefordítva? Fordítási hibát talált:"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:13
-msgid ""
-"Donations to QGIS are tax-deductible in several countries. Please refer to your local tax office for details.\n"
-"                    If you want to tax-deduct as a german company or organization, please donate through the "
-msgstr "A QGIS adományok számos országban levonhatók az adóalapból. Érdeklődjön a helyi adóhivatalban a részletekről.\n                   Ha németországi vállalatként vagy szervezetként szeretne adót levonni, kérjük, adományozzon a"
+#: ../../themes/qgis-theme/page.html:52 ../../themes/qgis-theme/page.html:55
+msgid "fix me"
+msgstr "javítsa"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:14
-msgid "German QGIS user group"
-msgstr "Németországi QGIS felhasználói csoporton keresztül"
+#: ../../themes/qgis-theme/page.html:54
+msgid "Textual error, missing text or you know better:"
+msgstr "Szövegezési hiba, hiányzó szöveg vagy tud jobb fordítást:"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:14
-msgid ""
-". They can issue a payment confirmation as a tax-exempt german association."
-msgstr ". Fizetési visszaigazolást adhatnak ki adómentes német szövetségként."
+#: ../../themes/qgis-theme/page.html:137
+msgid "Discover QGIS"
+msgstr "QGIS felfedezése"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:16
-#: ../../themes/qgis-theme/getinvolved_index.html:12
-msgid "You can get involved!"
-msgstr "Részt vehet benne!"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:28
-msgid "DONATE TO THE PROJECT"
-msgstr "ADOMÁNY A PROJEKT JAVÁRA"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:33
-#: ../../themes/qgis-theme/getinvolved_donations.html:53
-msgid "Bank Transfer"
-msgstr "Banki átutalás"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:36
-msgid "Credit card and Paypal"
-msgstr "Hitelkártya és Paypal"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:54
-msgid ""
-"Use the details below to make a donation via international money transfer:"
-msgstr "Használja az alábbi információkat a nemzetközi átutaláson keresztül történő adományozáshoz:"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:75
-msgid "Stripe"
-msgstr "Stripe"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:76
-msgid ""
-"We use the stripe.com service to receive credit card donations. Note that "
-"the payment fees at Stripe are substantially lower than at Paypal - so we "
-"would appreciate it, if you could use Stripe instead of PayPal. No signup "
-"needed."
-msgstr "A stripe.com szolgáltatást használjuk a hitelkártya-adományok fogadására. Vegye figyelembe, hogy a Stripe átutalási költségei lényegesen alacsonyabbak, mint a Paypal rendszeré - ezért örülnénk neki, ha a Stripe szolgáltatását tudná használni a PayPal helyett. Nincs szükség regisztrációra."
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:77
-msgid ""
-"If you do not see a Payment Form here please let us know via "
-"finance@qgis.org."
-msgstr "Ha nem látja az átutalási űrlapot akkor kérjük jelezze a finance@qgis.org e-mail címen."
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:82
-msgid "Paypal"
-msgstr "Paypal"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:83
-msgid ""
-"You can use Paypal to donate using your own credit card (but we prefer to use Stripe for that). \n"
-"                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
-"                    or sign-up for one if you are paying by credit card."
-msgstr "A PayPal használatával a bankkártyája segítségével tud adományozni (de inkább azt szeretnénk, ha a Stripe szolgáltatását használná).\n                    A fizetés a PayPal-on keresztül történik, de nem szükséges hozzá PayPal számla, \n                    vagy regisztráljon, ha bankkártyával szeretne fizetni."
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:86
-msgid "You can also use your own Paypal account to donate."
-msgstr "Használhatja a saját PayPal számláját is az adományküldéshez."
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:87
-msgid "List of QGIS Support Channels"
-msgstr "A QGIS támogató csatornák listája"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:94
-msgid "Donate via PayPal.com"
-msgstr "Adományküldés a PayPal.com-on"
+#: ../../themes/qgis-theme/search.html:11
+#: ../../themes/qgis-theme/search.html:20
+#: ../../themes/qgis-theme/searchbox.html:3
+msgid "Search"
+msgstr "Keresés"
 
 #: ../../themes/qgis-theme/search.html:24
 msgid ""
@@ -1343,7 +1492,7 @@ msgid ""
 "    words into the box below and click \"search\". Note that the search\n"
 "    function will automatically search for all of the words. Pages\n"
 "    containing fewer words won't appear in the result list."
-msgstr "Dokumentumokat tud itt keresni. Gépelje be\na keresett szót/szavakat az alábbi szövegdobozba és kattintson a \"keresés'-re. Fontos tudni, hogy a keresőfüggvény\n minden beírt szót meg fog találni. Azok az oldalak\namelyek nem tartalamazzák a beírt szavakat, nem kerülnek megjelenítésre a találati listában."
+msgstr "Dokumentumokat tud itt keresni. Gépelje be\na keresett szót/szavakat az alábbi szövegdobozba és kattintson a „keresés”-re. Fontos tudni, hogy a kereső\n minden beírt szót meg fog találni. A kevesebb szót tartalmazó oldalak nem fognak megjelenni a találati listában."
 
 #: ../../themes/qgis-theme/search.html:37
 msgid "search"
@@ -1356,217 +1505,6 @@ msgstr "Keresési eredmények"
 #: ../../themes/qgis-theme/search.html:44
 msgid "Your search did not match any results."
 msgstr "A keresése nem járt eredménnyel."
-
-#: ../../themes/qgis-theme/getinvolved_index.html:7
-msgid "Get Involved in the QGIS Community"
-msgstr "Legyen tagja a QGIS közösségnek"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:8
-msgid ""
-"QGIS is developed by a team of dedicated volunteers and \n"
-"                organisations. We strive to be a welcoming community for\n"
-"                people of all race, creed, gender and walks of life."
-msgstr "A QGIS-t az elkötelezett önkéntesek és szervezetek csoportja\nfejleszti. Arra törekszünk, hogy barátságos közössége legyen\nminden embernek faji, vallási, nemi és életviteli eltérésektől függetlenül."
-
-#: ../../themes/qgis-theme/getinvolved_index.html:14
-msgid "For more information, please read our "
-msgstr "További információkért olvassa el a"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:15
-msgid "diversity statement"
-msgstr "sokszínűségi nyilatkozat"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:17
-msgid "code of conduct"
-msgstr "magatartási kódex"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:37
-msgid "GET INVOLVED"
-msgstr "VEGYEN RÉSZT"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:42
-#: ../../themes/qgis-theme/getinvolved_index.html:74
-msgid "Report Bugs"
-msgstr "Hiba bejelentése"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:45
-msgid "Participate in Support"
-msgstr "Vegyen részt a támogatásban"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:48
-msgid "Translate"
-msgstr "Fordítás"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:51
-#: ../../themes/qgis-theme/getinvolved_index.html:141
-msgid "Develop a Plugin"
-msgstr "Modul fejlesztés"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:54
-#: ../../themes/qgis-theme/getinvolved_index.html:150
-msgid "Develop QGIS Core"
-msgstr "QGIS mag fejlesztés"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:57
-msgid "Sponsor & Donate"
-msgstr "Támogatók és Adományozók"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:75
-msgid "If you find an issue working with QGIS, please "
-msgstr "Ha egy hibát talál a QGIS-sel dolgozva, kérjük"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:77
-msgid "report it"
-msgstr "jelentse ezt"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:79
-msgid "so developers can check and fix it.  "
-msgstr "így a fejlesztők ellenőrizhetik és kijavíthatják."
-
-#: ../../themes/qgis-theme/getinvolved_index.html:85
-msgid "Participate in Support Channels"
-msgstr "Részvétel a támogatói csatornán"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:86
-msgid "There are several "
-msgstr "Vannak"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:88
-msgid "QGIS mailing lists"
-msgstr "QGIS levelező listák"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:89
-msgid "IRC chats"
-msgstr "IRC csevegések"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:90
-msgid "forums"
-msgstr "fórumok"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:91
-msgid "user groups"
-msgstr "felhasználói csoportok"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:93
-msgid ""
-"you can use to get help from fellow users and developers, or to keep up with current project events.\n"
-"                    You are welcome to subscribe to any of the lists. Please remember to contribute to the list by\n"
-"                    answering questions and sharing your experiences. We also provide a "
-msgstr "melyeken segítséget kérhet a felhasználó társaktól és a fejlesztőktől vagy  értesülhet az aktuális projekt eseményekről.\nNyugodtan iratkozzon föl bármelyik listára. Kérjük, hogy járuljon hozzá a listák tartalmához azzal, hogy megválaszolja a kérdéseket és megosztja a tapasztalatait."
-
-#: ../../themes/qgis-theme/getinvolved_index.html:96
-msgid "website to search the mailing list archives"
-msgstr "honlap a levelező listák archívumaiban kereséshez"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:97
-msgid "For the full list see"
-msgstr "A teljes listához lásd"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:99
-msgid "our community support channels page"
-msgstr "a közösség támogató csatornák oldalunkat"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:113
-msgid "Document QGIS"
-msgstr ""
-
-#: ../../themes/qgis-theme/getinvolved_index.html:114
-msgid ""
-"The QGIS project aims to provide clear documentation concerning a User "
-"guide, GIS concepts, and training material. Writing documentation provides "
-"an ideal platform for your first contribution to the project. If you want to"
-" join to the documentation effort, you can find a gentle introduction and "
-"guidelines here:"
-msgstr ""
-
-#: ../../themes/qgis-theme/getinvolved_index.html:116
-msgid "Write Documentation"
-msgstr "Dokumentáció írása"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:123
-msgid "Translate QGIS"
-msgstr "QGIS fordítás"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:124
-msgid ""
-"The QGIS project provides a gentle GIS introduction, a User Guide, a Coding "
-"and Compilation Guide and a API Documentation in english and in some cases "
-"also translated into several foreign languages. If you are interested in "
-"getting involved with the documentation effort, e.g. translating the english"
-" manual into another language, learn how to get started here:"
-msgstr "A QGIS projekt egy egyszerű GIS bevezetőt, egy felhasználói kézikönyvet, egy kódolási és fordítási kézikönyvet és egy API dokumentációt kínál angol nyelven, valamint néhány esetben számos idegen nyelvre lefordított változatot. Amennyiben érdekelt abban, hogy részt vegyen a dokumentációs erőfeszítésekben, pl. angol kézikönyv fordítása más nyelvre, itt megtanulhatja, hogy hogyan induljon el:"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:126
-msgid "Translate QGIS into your Language"
-msgstr "QGIS lefordítása az Ön nyelvére"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:142
-msgid "Want to write your own Python plugin? Go here: "
-msgstr "Saját Python modult akar készíteni? Kezdje itt:"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:142
-msgid "Developing Python plugins"
-msgstr "Python modulok fejlesztése"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:143
-msgid "Want to develop a C++ plugin? Go here: "
-msgstr "C++ modult akar fejleszteni? Kezdje itt:"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:143
-msgid "Developing CPP plugins"
-msgstr "C++ modul fejlesztés"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:144
-msgid "A wide range of great plugins exist for QGIS via the "
-msgstr "A nagyszerű modulok egy széles skálája létezik a QGIS-hez "
-
-#: ../../themes/qgis-theme/getinvolved_index.html:144
-msgid "QGIS Plugin web portal"
-msgstr "QGIS modul honlap"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:151
-msgid ""
-"QGIS Core consists on the one hand of the libraries enabling you to build "
-"custom tailored application by  providing a powerful API. On the other hand "
-"it consists of a desktop and server application which expose the "
-"possibilities offered by the libraries, offering a user friendly interface."
-msgstr "A QGIS mag egyrészt könyvtárakból áll, melyek lehetővé teszik, hogy testreszabott alkalmazást hozzon létre a hatékony API segítségével. Másrészt pedig asztali és szerver alkalmazásból áll, melyek egy felhasználóbarát felületet biztosítva teszik elérhetővé a könyvtárak által biztosított lehetőségeket."
-
-#: ../../themes/qgis-theme/getinvolved_index.html:153
-msgid "Get Set Up for QGIS Core Development"
-msgstr "Legyen felkészült a QGIS mag fejlesztésre"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:171
-msgid "Sustain & Donate"
-msgstr ""
-
-#: ../../themes/qgis-theme/getinvolved_index.html:172
-msgid "There are two kinds of financial contributions, we accept:"
-msgstr "Két pénzügyi támogatás létezik, melyet elfogadunk:"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:173
-msgid "Sustaining memberships:"
-msgstr ""
-
-#: ../../themes/qgis-theme/getinvolved_index.html:173
-msgid " annual commitments of funds to the project"
-msgstr "évenkénti kötelezettségvállalás a projekt támogatására"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:173
-msgid "more information and a list of our sustaining members"
-msgstr ""
-
-#: ../../themes/qgis-theme/getinvolved_index.html:174
-msgid "Donations:"
-msgstr ""
-
-#: ../../themes/qgis-theme/getinvolved_index.html:174
-msgid " one-time financial contributions to the project"
-msgstr "a projekt egyszeri pénzügyi támogatása"
-
-#: ../../themes/qgis-theme/getinvolved_index.html:174
-msgid "donations via a variety of channels"
-msgstr "az adakozás számtalan lehetőségei"
 
 #~ msgid "QGIS 2.16 Released"
 #~ msgstr ""
@@ -2484,4 +2422,265 @@ msgstr "az adakozás számtalan lehetőségei"
 #~ msgstr ""
 
 #~ msgid "Latest Blog Posts (planet.qgis.org)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS is not yet notarized as required by macOS Catalina (10.15) security "
+#~ "rules. On first launch on, use right click on the QGIS app icon and choose "
+#~ "Open."
+#~ msgstr ""
+
+#~ msgid "Mac Installer Packages for macOS El Capitan (10.11) and newer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installation instructions are in the Read Me on the disk image. These "
+#~ "packages use the "
+#~ msgstr ""
+
+#~ msgid ""
+#~ "version 3.6, the \"macosx10.9\" build - other distributions are not "
+#~ "supported. Install Python before installing QGIS."
+#~ msgstr ""
+
+#~ msgid "Additional GDAL format plugins and PROJ grids are available at "
+#~ msgstr ""
+
+#~ msgid "QGIS testing (>3.10)"
+#~ msgstr ""
+
+#~ msgid "QGIS 3.4"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We are still updating (not translating yet) the documentation for releases "
+#~ "newer than QGIS 3.10. We call this version 'QGIS testing' and the "
+#~ "documentation can be found here: "
+#~ msgstr ""
+
+#~ msgid "https://docs.qgis.org/testing"
+#~ msgstr ""
+
+#~ msgid "https://docs.qgis.org/testing/pdf"
+#~ msgstr ""
+
+#~ msgid "or as PDF"
+#~ msgstr ""
+
+#~ msgid "New release: 3.16!"
+#~ msgstr ""
+
+#~ msgid "QGIS in OSGeo4W:"
+#~ msgstr ""
+
+#~ msgid "Desktop Express Install"
+#~ msgstr ""
+
+#~ msgid "to install the <em>latest release</em>."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To get the <em>long term release</em> (that is not also the latest release) "
+#~ "choose "
+#~ msgstr ""
+
+#~ msgid "and select "
+#~ msgstr ""
+
+#~ msgid "To get the <em>bleeding-edge development build</em> choose "
+#~ msgstr ""
+
+#~ msgid "qgis-full-dev"
+#~ msgstr ""
+
+#~ msgid "Standalone installers from OSGeo4W packages"
+#~ msgstr ""
+
+#~ msgid "Long term release repository (most stable):"
+#~ msgstr ""
+
+#~ msgid "Mac Installer Packages for macOS Sierra (10.12) and newer."
+#~ msgstr ""
+
+#~ msgid "ArchLinux"
+#~ msgstr ""
+
+#~ msgid "QGIS Donations"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS is developed by a team of dedicated volunteers, companies and "
+#~ "organisations."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Donations to QGIS are tax-deductible in several countries. Please refer to your local tax office for details.\n"
+#~ "                    If you want to tax-deduct as a german company or organization, please donate through the "
+#~ msgstr ""
+
+#~ msgid "German QGIS user group"
+#~ msgstr ""
+
+#~ msgid ""
+#~ ". They can issue a payment confirmation as a tax-exempt german association."
+#~ msgstr ""
+
+#~ msgid "DONATE TO THE PROJECT"
+#~ msgstr ""
+
+#~ msgid "Bank Transfer"
+#~ msgstr ""
+
+#~ msgid "Credit card and Paypal"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Use the details below to make a donation via international money transfer:"
+#~ msgstr ""
+
+#~ msgid "Stripe"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We use the stripe.com service to receive credit card donations. Note that "
+#~ "the payment fees at Stripe are substantially lower than at Paypal - so we "
+#~ "would appreciate it, if you could use Stripe instead of PayPal. No signup "
+#~ "needed."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you do not see a Payment Form here please let us know via "
+#~ "finance@qgis.org."
+#~ msgstr ""
+
+#~ msgid "Paypal"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can use Paypal to donate using your own credit card (but we prefer to use Stripe for that). \n"
+#~ "                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
+#~ "                    or sign-up for one if you are paying by credit card."
+#~ msgstr ""
+
+#~ msgid "You can also use your own Paypal account to donate."
+#~ msgstr ""
+
+#~ msgid "List of QGIS Support Channels"
+#~ msgstr ""
+
+#~ msgid "Donate via PayPal.com"
+#~ msgstr ""
+
+#~ msgid "New release: 3.18!"
+#~ msgstr ""
+
+#~ msgid "Thank you for your donation!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS is free of charge and we hope that you enjoy using our labour of love "
+#~ "and encourage you to share and spread your downloaded copy far and wide so "
+#~ "that others may enjoy it too. Our very best regards!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Unfortunately there was an error processing your Donation. Please try again "
+#~ "later, or contact us via finance@qgis.org"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Select graphics from <a href=\"http://thenounproject.com\" "
+#~ "target=\"_blank\">The Noun Project collection</a>"
+#~ msgstr ""
+
+#~ msgid "New release: 3.20!"
+#~ msgstr ""
+
+#~ msgid "NOTE FOR EXISTING USERS"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "OSGeo4W v2 (previously known as testing) is now the regular repository.  The"
+#~ " latest QGIS release is only available here, as it already requires "
+#~ "dependencies not available in the old repository. The long term release is "
+#~ "additionally also available in the old repository using the same "
+#~ "dependencies as before (see below). This also includes a 32-bit version, "
+#~ "which OSGeo4W v2 does not support."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Upgrades of old setups using the new repository are not supported. You need "
+#~ "to do a fresh install or use a different directory."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Windows 7 no longer works as we are now using Python 3.9, which dropped "
+#~ "support for it."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Long-term release in old OSGeo4W (continued with previous dependencies):"
+#~ msgstr ""
+
+#~ msgid "OSGeo4W Network Installer (64 bit)"
+#~ msgstr ""
+
+#~ msgid "OSGeo4W Network Installer (32 bit)"
+#~ msgstr ""
+
+#~ msgid "qgis-ltr-full"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Packages for the latest release and nightly thereof and master are "
+#~ "discontinued in old OSGeo4W."
+#~ msgstr ""
+
+#~ msgid "This installer also allows installing QGIS without non-free software"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Standalone installer for long term release (continued with dependencies from"
+#~ " old OSGeo4W):"
+#~ msgstr ""
+
+#~ msgid "QGIS Standalone Installer Version %s (64 bit)"
+#~ msgstr ""
+
+#~ msgid "QGIS Standalone Installer Version %s (32 bit)"
+#~ msgstr ""
+
+#~ msgid "New release: 3.22!"
+#~ msgstr ""
+
+#~ msgid "QGIS 3.10"
+#~ msgstr ""
+
+#~ msgid "QGIS testing (>3.16)"
+#~ msgstr ""
+
+#~ msgid "QGIS User guide"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We are still updating (not translating yet) the documentation for releases "
+#~ "newer than QGIS 3.16. We call this version 'QGIS testing' and the "
+#~ "documentation can be found here: "
+#~ msgstr ""
+
+#~ msgid "Input (available for Android, iOS and Windows devices)"
+#~ msgstr ""
+
+#~ msgid "New release: 3.24!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and "
+#~ "will always be free of charge if downloaded from QGIS.org. If you can afford"
+#~ " to support the project and people making this software, please consider "
+#~ "making <a href=\"https://qgis.org/en/site/getinvolved/donations.html\">a "
+#~ "small donation to support</a> our efforts. Whether you choose to donate or "
+#~ "not, we hope that you enjoy using our labour of love and encourage you to "
+#~ "share and spread your downloaded copy far and wide so that others may enjoy "
+#~ "it too. Our very best regards!"
 #~ msgstr ""

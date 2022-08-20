@@ -5,15 +5,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:59+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: Marina <pavlova.marina.v@gmail.com>, 2014\n"
 "Language-Team: Russian (http://www.transifex.com/qgis/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: ../../source/site/about/case_studies/czech_brno.rst:3
+msgid ""
+"QGIS as major GIS software in the Laboratory on Experimental and Applied "
+"Geography"
+msgstr "QGIS как основная ГИС в Лаборатории Экспериментальной и Прикладной Географии"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:6
 msgid "Introduction"
@@ -30,8 +37,23 @@ msgid ""
 msgstr "Лаборатория экспериментальной и прикладной географии (LEAG) является частью Высшей школы бизнеса и гостиничного управления, Ltd. в Брно, Чешская Республика (Vysoká škola obchodní hotelová, SRO), которая предлагает высшее образование в области туризма, бизнеса и гостиничного менеджмента. LEAG сосредоточена на моделировании социально-экономических пространственных процессов, анализе пространственных структур, описывающих и контролирующих положение дел в населенных пунктах и регионах."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:15
+msgid "QGIS while modeling 3D objects"
+msgstr ""
+
+#: ../../source/site/about/case_studies/czech_brno.rst:15
 msgid "QGIS while modeling 3D objects (interpolation), terrain analysis"
 msgstr "QGIS при моделировании 3D объектов (интерполяции), анализе местности"
+
+#: ../../source/site/about/case_studies/czech_brno.rst:17
+msgid ""
+"LEAG plays important role in academic research held in College of Business "
+"and Hotel Management. The need of spatial modeling requires also excellent "
+"software. The philosophy of minimum cost and maximum efficiency led to "
+"choice of open source solutions. This step resulted in using core open "
+"source SW such as LibreOffice, GIMP, Inkscape and QGIS. QGIS does not stand "
+"alone –-- we use MapWindow, OpenJump, gvSIG, SAGA and others. But QGIS plays"
+" the major role."
+msgstr "LEAG играет важную роль в научных исследованиях, проводимых в Высшей школе бизнеса и гостиничного управления. Необходимость пространственного моделирования также требует отличного программного обеспечения. Концепция минимальных затрат при максимальной эффективности привела к выбору решений на базе открытого исходного кода. Этот шаг привел к использованию основного ПО с открытым исходным кодом, такого как LibreOffice, GIMP, Inkscape и QGIS. QGIS не является единственной ГИС – мы используем MapWindow, OpenJump, gvSIG, SAGA и другие. Но QGIS играет главную роль. "
 
 #: ../../source/site/about/case_studies/czech_brno.rst:20
 msgid "Use of QGIS"
@@ -62,6 +84,12 @@ msgstr "Стабильность и кросс-платформенность (�
 msgid "Others (mentioned e.g. in the case study written by Dr. Horst Düster)"
 msgstr "Другие (упомянутые, например, в тематическом исследовании, написанном д-ром Хорстом Дустером)"
 
+#: ../../source/site/about/case_studies/czech_brno.rst:29
+msgid ""
+"Spatial analysis are done mainly using basic geoprocessing functions and "
+"Python-based plugins. Recent projects where QGIS was used:"
+msgstr "Пространственный анализ осуществляется в основном с помощью базовых функций геообработки и плагинов на языке Python. Последние проекты с использованием QGIS:"
+
 #: ../../source/site/about/case_studies/czech_brno.rst:31
 msgid "Modeling patterns between spatial location and inhabitants"
 msgstr "Моделирование взаимосвязей между пространственным положением и населением"
@@ -84,54 +112,6 @@ msgid ""
 "students and researchers at College of Business and Hotel Management"
 msgstr "Упорядочивание свободных геоданных и создание \"банка геоданных\" для студентов и исследователей в Высшей школе бизнеса и гостиничного управления"
 
-#: ../../source/site/about/case_studies/czech_brno.rst:45
-msgid "Using diagrams comparing population between two censuses"
-msgstr "Использование диаграмм, сравнивающих население по данным двух переписей"
-
-#: ../../source/site/about/case_studies/czech_brno.rst:48
-msgid "Conclusion"
-msgstr "Заключение"
-
-#: ../../source/site/about/case_studies/czech_brno.rst:53
-msgid "Author"
-msgstr "Автор"
-
-#: ../../source/site/about/case_studies/czech_brno.rst:60
-msgid "Jakub Trojan"
-msgstr "Якуб Троян"
-
-#: ../../source/site/about/case_studies/czech_brno.rst:62
-msgid ""
-"This article was contributed in November 2010 by Jakub Trojan. He is an "
-"academic researcher at College of Business and Hotel Management, Ltd. (Brno,"
-" CZ) where he founded and leads Laboratory on Experimental and Applied "
-"Geography. He is also a doctoral student at Institute of Geography, Faculty "
-"of Science, Masaryk university (Brno, CZ)."
-msgstr "Эта статья была внесена в ноябре 2010 Якубом Трояном. Он является научным сотрудником в Высшей школе бизнеса и гостиничного управления (Брно, Чехия), где он основал и руководит Лабораторией экспериментальной и прикладной географии. Он также является докторантом в Институте географии, на факультете естественных наук в Масариковом университете (Брно, Чехия)."
-
-#: ../../source/site/about/case_studies/czech_brno.rst:3
-msgid ""
-"QGIS as major GIS software in the Laboratory on Experimental and Applied "
-"Geography"
-msgstr "QGIS как основная ГИС в Лаборатории Экспериментальной и Прикладной Географии"
-
-#: ../../source/site/about/case_studies/czech_brno.rst:17
-msgid ""
-"LEAG plays important role in academic research held in College of Business "
-"and Hotel Management. The need of spatial modeling requires also excellent "
-"software. The philosophy of minimum cost and maximum efficiency led to "
-"choice of open source solutions. This step resulted in using core open "
-"source SW such as LibreOffice, GIMP, Inkscape and QGIS. QGIS does not stand "
-"alone –-- we use MapWindow, OpenJump, gvSIG, SAGA and others. But QGIS plays"
-" the major role."
-msgstr "LEAG играет важную роль в научных исследованиях, проводимых в Высшей школе бизнеса и гостиничного управления. Необходимость пространственного моделирования также требует отличного программного обеспечения. Концепция минимальных затрат при максимальной эффективности привела к выбору решений на базе открытого исходного кода. Этот шаг привел к использованию основного ПО с открытым исходным кодом, такого как LibreOffice, GIMP, Inkscape и QGIS. QGIS не является единственной ГИС – мы используем MapWindow, OpenJump, gvSIG, SAGA и другие. Но QGIS играет главную роль. "
-
-#: ../../source/site/about/case_studies/czech_brno.rst:29
-msgid ""
-"Spatial analysis are done mainly using basic geoprocessing functions and "
-"Python-based plugins. Recent projects where QGIS was used:"
-msgstr "Пространственный анализ осуществляется в основном с помощью базовых функций геообработки и плагинов на языке Python. Последние проекты с использованием QGIS:"
-
 #: ../../source/site/about/case_studies/czech_brno.rst:36
 msgid ""
 "QGIS is used with synergy to other open source products. For example the "
@@ -150,6 +130,15 @@ msgid ""
 "during GIS Day held at our school on November 2010."
 msgstr "QGIS также является прекрасным образовательным инструментом. Высшая школа бизнеса и гостиничного управления предлагает студентам предметы вроде \"Географические информационные системы I и II\" или \"Избранные главы геоинформационной грамотности\", где QGIS используется в качестве основной платформы для обучения студентов, как исользовать ГИС и как производить высококачественные карты. Наконец, QGIS использовался как основной продукт в течение Дня ГИС, проводимого в нашей школе в ноябре 2010 года."
 
+#: ../../source/site/about/case_studies/czech_brno.rst:45
+#: ../../source/site/about/case_studies/czech_brno.rst:60
+msgid "Using diagrams comparing population between two censuses"
+msgstr "Использование диаграмм, сравнивающих население по данным двух переписей"
+
+#: ../../source/site/about/case_studies/czech_brno.rst:48
+msgid "Conclusion"
+msgstr "Заключение"
+
 #: ../../source/site/about/case_studies/czech_brno.rst:50
 msgid ""
 "With no cost and high efficiency the Laboratory on Experimental and Applied "
@@ -160,6 +149,31 @@ msgid ""
 "students. During regular workshops students learn how to legally work with "
 "QGIS and how to create their own maps."
 msgstr "Без затрат и с высокой эффективностью Лаборатория экспериментальной и прикладной географии производит высококачественный анализ, картирование и визуализации. Используя QGIS, создаются большие базы данных и производится дальнейшее тестирование новых функций. Наконец, один из наиболее значительных эффектов использования QGIS может быть замечен в образовании --- QGIS это первое ПО, которое предоставляется студентам. В течение регулярных семинаров студенты учатся как легально работать с QGIS и как создавать их собственные карты."
+
+#: ../../source/site/about/case_studies/czech_brno.rst:53
+msgid "Author"
+msgstr "Автор"
+
+#: ../../source/site/about/case_studies/czech_brno.rst:60
+msgid "Jakub Trojan"
+msgstr "Якуб Троян"
+
+#: ../../source/site/about/case_studies/czech_brno.rst:62
+msgid ""
+"This article was contributed in November 2010 by Jakub Trojan. He is an "
+"academic researcher at College of Business and Hotel Management, Ltd. (Brno,"
+" CZ) where he founded and leads Laboratory on Experimental and Applied "
+"Geography. He is also a doctoral student at Institute of Geography, Faculty "
+"of Science, Masaryk university (Brno, CZ)."
+msgstr "Эта статья была внесена в ноябре 2010 Якубом Трояном. Он является научным сотрудником в Высшей школе бизнеса и гостиничного управления (Брно, Чехия), где он основал и руководит Лабораторией экспериментальной и прикладной географии. Он также является докторантом в Институте географии, на факультете естественных наук в Масариковом университете (Брно, Чехия)."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS as major GIS software in the Laboratory"
 #~ msgstr ""

@@ -6,13 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2018-12-20 02:44+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -79,6 +80,15 @@ msgstr "QGISは、すべてのプロジェクトのメインフレームでし�
 msgid "Vector point data editing and visualization"
 msgstr "ベクターポイントデータの編集と視覚化"
 
+#: ../../source/site/about/case_studies/portugal_torres.rst:33
+msgid ""
+"The choice for QGIS was also encouraged by the multi platform support. The "
+"institution has three distinct facilities, and each of those facilities has "
+"different systems --– we have Mac, Windows PC and Linux PC, therefore it's "
+"of extreme importance that we have the freedom to install the software on "
+"any machine we want so we don't get stuck to a particular computer."
+msgstr "QGISを選択するには、マルチプラットフォームをサポートしていることも励まされました。機関では異なる3つの施設を持っており、それらの施設のそれぞれは異なるシステムを持っています。私たちは、Mac、WindowsのPCとLinux PCを持っています。したがって、特定のコンピュータにこだわらず希望する任意のマシンでソフトウェアをインストールする自由を持っていることは極めて重要です。"
+
 #: ../../source/site/about/case_studies/portugal_torres.rst:40
 msgid "Paleontological Risk Map"
 msgstr "古生物学リスク地図"
@@ -87,22 +97,19 @@ msgstr "古生物学リスク地図"
 msgid "Conclusion"
 msgstr "結論"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:55
-msgid "Author"
-msgstr "制作者"
-
-#: ../../source/site/about/case_studies/portugal_torres.rst:62
-msgid "André Mano"
-msgstr "アンドレ・マノ"
-
-#: ../../source/site/about/case_studies/portugal_torres.rst:64
+#: ../../source/site/about/case_studies/portugal_torres.rst:45
 msgid ""
-"This article was contributed in November 2010 by André Mano. He is "
-"responsible for the Geopraphic Department of Associação Leonel Trindade – "
-"Sociedade de História Natural. His area of interest is focused on "
-"geotechnology applications to the fields of paleontology, archeology and "
-"cultural heritage."
-msgstr "この記事は、アンドレ・マノによって2010年11月に寄稿されました。氏は自然史協会 - レオネル・トリンデード協会の地質部門担当です。関心領域は古生物学、考古学と文化遺産の分野への地質工学の応用に焦点を当てています。"
+"The overall experience with QGIS can only be rated has being very good and "
+"recommendable. From our point of view, the main advantage of QGIS is that "
+"it's not just a GIS software –-- it's a productivity suite for spatial data."
+" It allowed us to take advantage of other powerful tools within a single "
+"work environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
+"data, with webservices and with tens of useful plug-ins developed by users "
+"worldwide. The user friendly interface is also a big advantage, especially "
+"if you have to train first time users has we've done. The easyness of the "
+"interface makes production of maps an everyday task and brought people "
+"closer to spatial approaches [3]."
+msgstr "QGISでの全体的な経験は非常に良いと推奨されている評定できます。私たちの観点からは、QGISの主な利点はそれがただのGISソフトウェアではないことです---それは空間データのための生産性スイートです。それは、私たちは、単一の作業環境内の他の強力なツールを活用できました。QGISからは、GRASSと、PostGISにして、GPSデータと、Webサービスで、世界中のユーザーによって開発された便利なプラグインの数十で動作することができます。ユーザーフレンドリーなインターフェイスは、私たちがやったのは今回が初めてのユーザーを訓練する必要がある場合は特に、また、大きな利点です。インタフェースのeasynessは、地図の生産日常のタスクと近い空間的アプローチに人々をもたらした[3]になります。"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:48
 msgid "References"
@@ -127,28 +134,30 @@ msgid ""
 "Sistemas de Informação Geográfica. ISEGI – UNL, Lisboa, 2010"
 msgstr "[3] Mano、André。（2010） -  SIGAPプロジェクト、プロジェクトワークは科学と地理情報システムの修士号を取得するための部分的な要件として提出されました。ISEGI  -  UNL、Lisbon、2010"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:33
-msgid ""
-"The choice for QGIS was also encouraged by the multi platform support. The "
-"institution has three distinct facilities, and each of those facilities has "
-"different systems --– we have Mac, Windows PC and Linux PC, therefore it's "
-"of extreme importance that we have the freedom to install the software on "
-"any machine we want so we don't get stuck to a particular computer."
-msgstr "QGISを選択するには、マルチプラットフォームをサポートしていることも励まされました。機関では異なる3つの施設を持っており、それらの施設のそれぞれは異なるシステムを持っています。私たちは、Mac、WindowsのPCとLinux PCを持っています。したがって、特定のコンピュータにこだわらず希望する任意のマシンでソフトウェアをインストールする自由を持っていることは極めて重要です。"
+#: ../../source/site/about/case_studies/portugal_torres.rst:55
+msgid "Author"
+msgstr "制作者"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:45
+#: ../../source/site/about/case_studies/portugal_torres.rst:62
+msgid "André Mano"
+msgstr "アンドレ・マノ"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:64
 msgid ""
-"The overall experience with QGIS can only be rated has being very good and "
-"recommendable. From our point of view, the main advantage of QGIS is that "
-"it's not just a GIS software –-- it's a productivity suite for spatial data."
-" It allowed us to take advantage of other powerful tools within a single "
-"work environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
-"data, with webservices and with tens of useful plug-ins developed by users "
-"worldwide. The user friendly interface is also a big advantage, especially "
-"if you have to train first time users has we've done. The easyness of the "
-"interface makes production of maps an everyday task and brought people "
-"closer to spatial approaches [3]."
-msgstr "QGISでの全体的な経験は非常に良いと推奨されている評定できます。私たちの観点からは、QGISの主な利点はそれがただのGISソフトウェアではないことです---それは空間データのための生産性スイートです。それは、私たちは、単一の作業環境内の他の強力なツールを活用できました。QGISからは、GRASSと、PostGISにして、GPSデータと、Webサービスで、世界中のユーザーによって開発された便利なプラグインの数十で動作することができます。ユーザーフレンドリーなインターフェイスは、私たちがやったのは今回が初めてのユーザーを訓練する必要がある場合は特に、また、大きな利点です。インタフェースのeasynessは、地図の生産日常のタスクと近い空間的アプローチに人々をもたらした[3]になります。"
+"This article was contributed in November 2010 by André Mano. He is "
+"responsible for the Geopraphic Department of Associação Leonel Trindade – "
+"Sociedade de História Natural. His area of interest is focused on "
+"geotechnology applications to the fields of paleontology, archeology and "
+"cultural heritage."
+msgstr "この記事は、アンドレ・マノによって2010年11月に寄稿されました。氏は自然史協会 - レオネル・トリンデード協会の地質部門担当です。関心領域は古生物学、考古学と文化遺産の分野への地質工学の応用に焦点を当てています。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "The choice for QGIS was also encouraged by the multi platform support. The "

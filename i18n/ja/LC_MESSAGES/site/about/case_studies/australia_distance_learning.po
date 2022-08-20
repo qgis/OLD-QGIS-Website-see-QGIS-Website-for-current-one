@@ -4,21 +4,22 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# fairtommy <fairtommy@gmail.com>, 2020
+# tomoyuki arai <tarai.3367@gmail.com>, 2022
+# fairtommy <fairtommy@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 20:36+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:41+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>, 2020\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -112,6 +113,10 @@ msgid ""
 "‘very helpful’ in learning GIS. Most others rated it as ‘reasonable’."
 msgstr ""
 "平均して、コースの生徒の93％がQGISソフトウェアと教材を使っていました。自主的なフィードバックは、51％のQGISユーザーから寄せられていました。結果（図2）は、大部分（82％）の学生がQGISソフトウェアを評価し、実践的な学習リソースをGISの学習に「役立つ」から「非常に役立つ」と評価しています。他のほとんどの人はそれを「妥当」と評価しました。"
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:36
+msgid "Student response graph"
+msgstr ""
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:36
 msgid "Students response graph"
@@ -235,3 +240,11 @@ msgid ""
 msgstr ""
 "Ernest "
 "Dunwoody博士（edunwoody1@gmail.com）は、GISおよびリモートセンシング画像解析アプリケーションを専門としています。これには、生態系分析、自然地域の持続可能な開発計画、土壌マッピング、そして精密農業への応用があります。博士はQGISを通して利用可能な広範囲の組込み関数、プラグイン、そして処理ツールがそれに処理における比類のない柔軟性を与えることを発見しました。このようなことに精通していることで、オーストラリアの空間データセットに基づいた指導的なQGISビデオを開発できます。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

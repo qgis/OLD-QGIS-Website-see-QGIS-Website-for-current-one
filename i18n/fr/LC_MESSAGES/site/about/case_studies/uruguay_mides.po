@@ -5,22 +5,23 @@
 # 
 # Translators:
 # Benoît de Cabissole, 2018
+# Harrissou Sant-anna, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:26+0000\n"
-"Last-Translator: Benoît de Cabissole, 2018\n"
+"Last-Translator: Harrissou Sant-anna, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:3
 msgid "Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)"
@@ -54,30 +55,30 @@ msgstr ""
 #: ../../source/site/about/case_studies/uruguay_mides.rst:13
 msgid ""
 "The National Division of Evaluation and Monitoring (`DINEM "
-"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-cometidos>`_"
-" ) is a section of MIDES that oversees the monitoring and evaluation of "
-"plans, programs, actions, devices and social projects through the national "
-"territory. DINEM also produces and manages necessary information to improve "
-"their design and implementation."
+"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-"
+"cometidos>`_ ) is a section of MIDES that oversees the monitoring and "
+"evaluation of plans, programs, actions, devices and social projects through "
+"the national territory. DINEM also produces and manages necessary "
+"information to improve their design and implementation."
 msgstr ""
 "La Division nationale d'évaluation et de surveillance (`DINEM "
-"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-cometidos>`_"
-" ) est une section du MIDES qui supervise le suivi et l'évaluation des "
-"plans, programmes, actions, outils et projets sociaux sur tout le territoire"
-" national. DINEM produit et gère aussi les informations nécessaires pour "
-"améliorer leur design et leur implémentation."
+"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-"
+"cometidos>`_ ) est une section du MIDES qui supervise le suivi et "
+"l'évaluation des plans, programmes, actions, outils et projets sociaux sur "
+"tout le territoire national. DINEM produit et gère aussi les informations "
+"nécessaires pour améliorer leur design et leur implémentation."
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:18
 msgid ""
 "The `Department of Geography of DINEM "
-"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front"
-"/departamento-de-geografia>`_ is responsible for the production, management "
-"and analysis of geographical information,"
+"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front/departamento-"
+"de-geografia>`_ is responsible for the production, management and analysis "
+"of geographical information,"
 msgstr ""
 "Le `Département de géographie du DINEM "
-"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front"
-"/departamento-de-geografia>`_ est responsable de la production, de la "
-"gestion et des analyses des informations géographiques,"
+"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front/departamento-"
+"de-geografia>`_ est responsable de la production, de la gestion et des "
+"analyses des informations géographiques,"
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:22
 msgid "QGIS at the Department of Geography of the DINEM"
@@ -107,8 +108,9 @@ msgstr ""
 "complète des ménages ciblés, de manière a améliorer les politiques "
 "d'implémentation sociale. En particulier, des données ont été collectées "
 "pour améliorer le champ d'application des programmes de transfert d'argent "
-"(`\"Asignaciones Familiares – Plan de Equidad\" <https://www.bps.gub.uy/3540"
-"/plan-de-equidad.html>`_ et `\"Tarjeta Uruguay Social\" "
+"(`\"Asignaciones Familiares – Plan de Equidad\" "
+"<https://www.bps.gub.uy/3540/plan-de-equidad.html>`_ et `\"Tarjeta Uruguay "
+"Social\" "
 "<http://www.mides.gub.uy/innovaportal/v/55480/3/innova.front/tarjeta-"
 "uruguay-social-tus>`_). Le formulaire de sondage utilisé prend en compte les"
 " aspects sociaux, d'habitat et environnementaux."
@@ -123,6 +125,11 @@ msgstr ""
 "de logiciels de statistiques pour gérer la base de données générée et "
 "l'utilisation intensive de SIG pour organiser les campagnes de terrain et "
 "géo-référencer les données acquises."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:40
+#: ../../source/site/about/case_studies/uruguay_mides.rst:55
+msgid "QGIS at work"
+msgstr ""
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:40
 msgid ""
@@ -304,3 +311,11 @@ msgstr ""
 #: ../../source/site/about/case_studies/uruguay_mides.rst:94
 msgid "Contact: mapas@mides.gub.uy"
 msgstr "Contacter : mapas@mides.gub.uy"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

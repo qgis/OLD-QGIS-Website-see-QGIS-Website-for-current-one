@@ -2,21 +2,22 @@
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013-2014
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2019-2020
-# Manuela Silva <manuelarodsilva@gmail.com>, 2018
+# Manuela Silva <mmsrs@sky.com>, 2018
 # Rui <xymarior@yandex.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2020-05-09 14:58+0000\n"
-"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>, 2019-2020\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_PT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:3
 msgid "The use of QGIS in the Geodata Infrastructure of the City of Uster"
@@ -33,6 +34,9 @@ msgid ""
 "solution backed by a worldwide user and development community."
 msgstr "A cidade de Uster tem vindo a usar o QGIS desde 2007. Encorajados pela decisão do Cantão de Solothurn em usar o QGIS como um substituto SIG Desktop para ArcView, a cidade de Uster decidiu também dar-lhe uma tentativa. A cidade juntou-se no esforço para o desenvolvimento do software QGIS, sugerindo e testando novos recursos e apoiando financeiramente o seu desenvolvimento. Em troca Uster recebe uma evolução rápida e independente de plataforma SIG Desktop e a solução WebSIG apoiado por uma comunidade de utilizador e desenvolvimento em todo o mundo."
 
+msgid "uster"
+msgstr ""
+
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
 "Postgis/PostgreSQL is used as a central geodata warehouse. Other databases "
@@ -47,6 +51,9 @@ msgid ""
 "tools, along with some improvements in data driven symbolization, automated "
 "labeling, attribute handling and forms."
 msgstr "O Postgis/PostgreSQL é usado como um armazém central de geoinformação. Outras base de dados e fontes de dados são reproduzidos no PostgreSQL num intervalo regular, usando as ferramentas como o OGR r FME. No início o QGIS era apenas um visualizador. O primeiro utilizador QGIS foi um agricultor que tinha a tarefa de supervisionar as declarações feitas pelos agricultores locais para receberem os subsídios agrícolas. Mais tarde, o QGIS também introduziu um editor de informação e uma plataforma de publicação de mapas, juntamente com melhoramentos nas ferramentas de edição e no compositor de mapas. Juntos como outros utilizadores QGIS suíços (Solothurn, Thun e CDE (Universidade de Berne)) nós coordenámos e patrocinámos os melhoramentos para essas ferramentas, juntamente como algumas melhorias na informação orientada para a simbolização, rotulagem automática, manuseamento de atributos e formulários."
+
+msgid "uster location"
+msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
@@ -118,6 +125,17 @@ msgid ""
 "residents"
 msgstr "visualização de estatísticas geradas diretamente da base de dados dos residentes atuais e do passado"
 
+#: ../../source/site/about/case_studies/suisse_uster.rst:38
+msgid ""
+"planning and visualization for energy planning (gas supply regions, heat use"
+" from waste water, near-surface geothermal energy, block heating stations, "
+"etc.)"
+msgstr "Planeamento e visualização do planeamento para a energia (regiões de fornecimento de gás, calor usado do desperdício de água, energia geotermal à superfície, estações de blocos de aquecimento, etc.)"
+
+#: ../../source/site/about/case_studies/suisse_uster.rst:40
+msgid "Additional further projects are currently under development."
+msgstr "Os projetos adicionais estão atualmente em desenvolvimento."
+
 #: ../../source/site/about/case_studies/suisse_uster.rst:47
 msgid ""
 "In 2007 it was not entirely clear at what pace QGIS would be further "
@@ -158,16 +176,13 @@ msgid ""
 " coordinator at the City of Uster, Switzerland."
 msgstr "Este artigo teve o contributo em Abril de 2011 pelo Dr. Andreas Neumann, Ele é coordenador SIG na Cidade de Uster, Suíça."
 
-#: ../../source/site/about/case_studies/suisse_uster.rst:38
-msgid ""
-"planning and visualization for energy planning (gas supply regions, heat use"
-" from waste water, near-surface geothermal energy, block heating stations, "
-"etc.)"
-msgstr "Planeamento e visualização do planeamento para a energia (regiões de fornecimento de gás, calor usado do desperdício de água, energia geotermal à superfície, estações de blocos de aquecimento, etc.)"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
 
-#: ../../source/site/about/case_studies/suisse_uster.rst:40
-msgid "Additional further projects are currently under development."
-msgstr "Os projetos adicionais estão atualmente em desenvolvimento."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "Planning and visualization for energy planning (gas supply regions, heat use"

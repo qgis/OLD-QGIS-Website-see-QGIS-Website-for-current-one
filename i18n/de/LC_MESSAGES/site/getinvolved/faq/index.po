@@ -2,18 +2,19 @@
 # Translators:
 # Jürgen E. Fischer <jef@norbit.de>, 2013-2014,2016
 # Jonas <pix_1@posteo.de>, 2018
+# Thomas Schüttenberg <thomas@qgis.de>, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
-"PO-Revision-Date: 2020-10-26 10:56+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Thomas Schüttenberg <thomas@qgis.de>, 2022\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -47,60 +48,60 @@ msgid ""
 "question, it is very hard to answer for anybody or takes just too much time "
 "because the answer will be a question to you etc etc. You may provide "
 "information such as:"
-msgstr ""
+msgstr "Wenn Sie eine Frage zu QGIS über die Mailinglisten <QGIS-mailinglists>stellen wollen, geben Sie bitte genügend Informationen an, damit andere Ihr Problem leicht verstehen können. Ohne eine klare und präzise Frage ist es sehr schwer, eine Antwort zu geben, oder es dauert einfach zu lange, weil die Antwort eine Frage an Sie sein wird usw. usw. Sie können Informationen bereitstellen wie:"
 
 #: ../../source/site/getinvolved/faq/index.rst:26
 msgid "preferably a descriptive title for your email"
-msgstr "bevorzugt E-Mails mit einem aussagekräftigen Betreff"
+msgstr "Einen möglichst aussagekräftigen Betreff für Ihre E-Mail"
 
 #: ../../source/site/getinvolved/faq/index.rst:27
 msgid "which QGIS version you used at that moment (exact)"
-msgstr "Welche QGIS-Version sie gerade benutzen (genau)"
+msgstr "Welche QGIS-Version Sie zu diesem Zeitpunkt verwendet haben (genau)"
 
 #: ../../source/site/getinvolved/faq/index.rst:28
 msgid "what are you expecting to get"
-msgstr "Was erwarten Sie zu bekommen"
+msgstr "Was Sie erwarten zu bekommen"
 
 #: ../../source/site/getinvolved/faq/index.rst:29
 msgid "if applicable, what have you tried and the result you got"
-msgstr "Falls zutreffend, was haben Sie versucht und das Ergebnis erhalten"
+msgstr "Falls zutreffend, was haben Sie versucht und welches Ergebnis Sie erhalten haben"
 
 #: ../../source/site/getinvolved/faq/index.rst:30
 msgid "if your question is about something broken, you may also provide:"
-msgstr "Wenn die Frage sich auf etwas bezieht, was nicht funktioniert, können Sie auch Folgendes mit angeben:"
+msgstr "Wenn Ihre Frage sich auf etwas bezieht, was nicht funktioniert, können Sie auch angeben:"
 
 #: ../../source/site/getinvolved/faq/index.rst:32
 msgid ""
 "what exactly is the error (if possible: screendump, stacktrace, copy of "
 "error text)"
-msgstr "welche Fehlermeldung gabe es genau (wenn möglich Bildschirmfoto, Stacktrace , Kopie der Fehlermeldung)"
+msgstr "Welche Fehlermeldung es genau gab (wenn möglich: Bildschirmfoto, Stacktrace, Kopie der Fehlermeldung)"
 
 #: ../../source/site/getinvolved/faq/index.rst:33
 msgid "which Operating System and version"
-msgstr "Welches Betriebsystem mit Version"
+msgstr "Welches Betriebsystem und welche Version"
 
 #: ../../source/site/getinvolved/faq/index.rst:34
 msgid "how you installed it (osgeo4w? standalone-installer? own build?)"
-msgstr "Wie Sie es installiert haben (OSGeo4W, Standalone? Selbst kompiliert?)"
+msgstr "Wie Sie es installiert haben (OSGeo4W?, Standalone Installer? selbst kompiliert?)"
 
 #: ../../source/site/getinvolved/faq/index.rst:35
 msgid ""
 "at what time did it break (reinstall, new install, system update, project "
 "changes)"
-msgstr "Wann trat der Fehler auf (Wiederholte Installation, Erstinstallation, Systemupdate, Änderungen am Projekt)"
+msgstr "Zu welchem Zeitpunkt der Fehler aufgetreten ist (wiederholte Installation, Erstinstallation, Systemupdate, Änderungen am Projekt)"
 
 #: ../../source/site/getinvolved/faq/index.rst:37
 msgid ""
 "Keep in mind that the more precise is your question, the quicker and more "
 "accurate can be the answer."
-msgstr "Denke immer daran, je präziser deine Frage ist, desto schneller und akkurater kann die Antwort sein."
+msgstr "Denken Sie daran, dass die Antwort umso schneller und genauer ausfallen kann, je präziser Ihre Frage ist."
 
 #: ../../source/site/getinvolved/faq/index.rst:41
 msgid ""
 "In case of a broken function, you may give a look at `QGIS issue tracker "
 "<https://github.com/qgis/QGIS/issues>`_ before mailing to the list. More "
 "information at :ref:`QGIS-bugreporting`."
-msgstr ""
+msgstr "Im Falle einer fehlerhaften Funktion können Sie einen Blick in den `QGIS Issue Tracker <https://github.com/qgis/QGIS/issues>`_ werfen, bevor Sie eine Mail an die Liste senden. Mehr Informationen unter :ref:`QGIS-bugreporting`."
 
 #: ../../source/site/getinvolved/faq/index.rst:47
 msgid "How are QGIS release names selected?"
@@ -108,10 +109,10 @@ msgstr "Wie werden die QGIS-Releasenamen ausgewählt?"
 
 #: ../../source/site/getinvolved/faq/index.rst:49
 msgid ""
-"After a succesfull developer meeting in Zurich (Switzerland), we decided "
+"After a successful developer meeting in Zurich (Switzerland), we decided "
 "that the next release should be related to it. Since then, all releases have"
 " been named after locations of our developer meetings."
-msgstr "Nach einem erfolgreichem Entwicklertreffen in Zürich (Schweiz), hatten wir beschlossen, dass der nächste Release dazu einen Bezug haben sollte. Seit wurde jeder Release  nach dem Ort des Entwicklertreffens benannt."
+msgstr "Nach einem erfolgreichen Entwicklertreffen in Zürich (Schweiz) beschlossen wir, dass die nächste Version einen Bezug zu diesem Ort haben sollte. Seitdem sind alle Releases nach den Orten unserer Entwicklertreffen benannt."
 
 #: ../../source/site/getinvolved/faq/index.rst:54
 msgid "How to cite QGIS?"
@@ -119,68 +120,144 @@ msgstr "Wie kann man QGIS zitieren?"
 
 #: ../../source/site/getinvolved/faq/index.rst:56
 msgid ""
-"To cite QGIS in your piece of work, or for an assignment, this general "
-"citation might be helpful: \"QGIS.org (YEAR). QGIS Geographic Information "
-"System. Open Source Geospatial Foundation Project. http://qgis.org\"."
-msgstr ""
+"To cite QGIS in your piece of work, or for an assignment, please use "
+"citation type that can be more helpful:"
+msgstr "Um QGIS in Ihrer Arbeit oder für eine Aufgabe zu zitieren, verwenden Sie bitte eine Zitierweise, die hilfreicher sein kann:"
 
-#: ../../source/site/getinvolved/faq/index.rst:60
-msgid "I created a map with QGIS, do I have to mention QGIS?"
-msgstr ""
+#: ../../source/site/getinvolved/faq/index.rst:59
+msgid "**Cite the QGIS project in general**"
+msgstr "**Zitieren des QGIS-Projektes allgemein**"
 
 #: ../../source/site/getinvolved/faq/index.rst:62
+msgid ""
+"QGIS.org, |yeartag|. QGIS Geographic Information System. QGIS Association. "
+"http://www.qgis.org"
+msgstr "QGIS.org, |yeartag|. QGIS Geographic Information System. QGIS Association. http://www.qgis.org"
+
+#: ../../source/site/getinvolved/faq/index.rst:65
+msgid "**Cite the QGIS Developers Manual**"
+msgstr "**Zitieren des QGIS Entwicklerhandbuches**"
+
+#: ../../source/site/getinvolved/faq/index.rst:68
+msgid ""
+"QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System "
+"Developers Manual. QGIS Association. Electronic document: |devcite|"
+msgstr "QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System Developers Manual. QGIS Association. Electronic document: |devcite|"
+
+#: ../../source/site/getinvolved/faq/index.rst:72
+msgid "**Cite the QGIS Installation Guide**"
+msgstr "**Zitieren der QGIS Installationsanleitung**"
+
+#: ../../source/site/getinvolved/faq/index.rst:75
+msgid ""
+"QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System "
+"Installation Guide. QGIS Association. Electronic document: "
+"https://github.com/qgis/QGIS/blob/master/INSTALL.md"
+msgstr "QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System Installation Guide. QGIS Association. Electronic document: https://github.com/qgis/QGIS/blob/master/INSTALL.md"
+
+#: ../../source/site/getinvolved/faq/index.rst:79
+msgid "**Cite the QGIS User Guide**"
+msgstr "**Zitieren des QGIS Benutzerhandbuches**"
+
+#: ../../source/site/getinvolved/faq/index.rst:82
+msgid ""
+"QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System User "
+"Guide. QGIS Association. Electronic document: |userguidecite|"
+msgstr "QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System User Guide. QGIS Association. Electronic document: |userguidecite|"
+
+#: ../../source/site/getinvolved/faq/index.rst:85
+msgid "**Cite the QGIS Server Documentation**"
+msgstr "**Zitieren der QGIS Server Dokumentation**"
+
+#: ../../source/site/getinvolved/faq/index.rst:87
+msgid ""
+"QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System API "
+"Documentation. QGIS Association. Electronic document: |servercite|"
+msgstr "QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System API Documentation. QGIS Association. Electronic document: |servercite|"
+
+#: ../../source/site/getinvolved/faq/index.rst:91
+msgid "**Cite the QGIS API Documentation**"
+msgstr "**Zitieren der QGIS API-Dokumentation**"
+
+#: ../../source/site/getinvolved/faq/index.rst:94
+msgid ""
+"QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System API "
+"Documentation. QGIS Association. Electronic document: |apicite|"
+msgstr "QGIS.org, |yeartag|. QGIS |ltrversion|. Geographic Information System API Documentation. QGIS Association. Electronic document: |apicite|"
+
+#: ../../source/site/getinvolved/faq/index.rst:101
+msgid "**Preferred format:** `BibTeX <https://en.wikipedia.org/wiki/BibTeX>`_"
+msgstr "**Bevorzugtes Format:** `BibTeX <https://de.wikipedia.org/wiki/BibTeX>`_"
+
+#: ../../source/site/getinvolved/faq/index.rst:104
+msgid "Example BibTeX entry:"
+msgstr "Beispiel BibTeX-Eintrag:"
+
+#: ../../source/site/getinvolved/faq/index.rst:119
+msgid "I created a map with QGIS, do I have to mention QGIS?"
+msgstr "Ich habe eine Karte mit QGIS erstellt, muss ich QGIS erwähnen?"
+
+#: ../../source/site/getinvolved/faq/index.rst:121
 msgid ""
 "There is no requirement to mention QGIS for maps produced with it. It is of "
 "course really welcome if would like to add a note saying that the map was "
 "produced with QGIS. \"Made with QGIS\" or \"Map created using the Free and "
 "Open Source QGIS\" are good examples of such a note."
-msgstr ""
+msgstr "Für Karten, die mit QGIS erstellt wurden, besteht keine Verpflichtung, QGIS zu erwähnen. Es ist natürlich sehr willkommen, wenn Sie einen Hinweis hinzufügen möchten, dass die Karte mit QGIS erstellt wurde. \"Erstellt mit QGIS\" oder \"Karte erstellt mit der Freien Open Source Software QGIS\" sind gute Beispiele für einen solchen Hinweis."
 
-#: ../../source/site/getinvolved/faq/index.rst:67
+#: ../../source/site/getinvolved/faq/index.rst:126
 msgid "Do not say ©QGIS as QGIS does not hold copyrights on your work."
-msgstr ""
+msgstr "Sagen Sie nicht ©QGIS, da QGIS keine Urheberrechte an Ihrer Arbeit besitzt."
 
-#: ../../source/site/getinvolved/faq/index.rst:70
+#: ../../source/site/getinvolved/faq/index.rst:129
 msgid "Can I open ECW files with QGIS?"
 msgstr "Kann ich ECW-Dateien mit QGIS öffnen?"
 
-#: ../../source/site/getinvolved/faq/index.rst:72
+#: ../../source/site/getinvolved/faq/index.rst:131
 msgid ""
 "Yes you can... BUT depending on your Operating System, it is more or less "
 "difficult."
-msgstr "Ja, können Sie... aber abhängig von Ihrem Betriebssystem ist es mehr oder weniger schwierig."
+msgstr "Ja, können Sie... ABER abhängig von Ihrem Betriebssystem ist es mehr oder weniger schwierig."
 
-#: ../../source/site/getinvolved/faq/index.rst:74
+#: ../../source/site/getinvolved/faq/index.rst:133
 msgid ""
 "If you are under Windows and are using the OSGeo4w installer, it is "
 "included."
-msgstr "Falls Sie unter Windows OSGeo4w benutzen, dann ist dies mit dabei."
+msgstr "Wenn Sie unter Windows arbeiten und das OSGeo4w-Installationsprogramm verwenden, ist es bereits enthalten."
 
-#: ../../source/site/getinvolved/faq/index.rst:76
+#: ../../source/site/getinvolved/faq/index.rst:135
 msgid ""
-"If you are using OS X, you can find the ECW plugin and install instructions "
-"at http://www.kyngchaos.com/software/frameworks"
-msgstr "Wenn Sie OS X verwenden, finden Sie das ECW-Plugin und Installationsanweisungen unter http://www.kyngchaos.com/software/frameworks"
+"If you are using macOS, you can find the ECW plugin and install instructions"
+" at https://www.kyngchaos.com/software/frameworks"
+msgstr "Wenn Sie macOS verwenden, finden Sie das ECW-Plugin und eine Installationsanleitung unter https://www.kyngchaos.com/software/frameworks"
 
-#: ../../source/site/getinvolved/faq/index.rst:79
+#: ../../source/site/getinvolved/faq/index.rst:138
 msgid ""
-"For other instructions, eg look here: http://www.faunalia.com/content"
-"/adding-ecw-support-quantum-gis"
-msgstr "Für andere Beschreibungen gucken Sie z.B. hier http://www.faunalia.com/content/adding-ecw-support-quantum-gis"
+"For other instructions, eg look here: "
+"https://www.faunalia.eu/en/blog/2019-05-21_ecw_support"
+msgstr "Andere Anleitungen finden Sie z. B. hier: https://www.faunalia.eu/en/blog/2019-05-21_ecw_support"
 
-#: ../../source/site/getinvolved/faq/index.rst:82
+#: ../../source/site/getinvolved/faq/index.rst:141
 msgid "Development"
 msgstr "Entwicklung"
 
-#: ../../source/site/getinvolved/faq/index.rst:85
+#: ../../source/site/getinvolved/faq/index.rst:144
 msgid "Can I compile QGIS myself?"
 msgstr "Kann ich QGIS selber kompilieren?"
 
-#: ../../source/site/getinvolved/faq/index.rst:87
+#: ../../source/site/getinvolved/faq/index.rst:146
 msgid ""
 "Yes, compiling QGIS from source is possible whatever OS you use (Windows, OS"
 " X, Linux). Please read `Building QGIS from source "
 "<https://github.com/qgis/QGIS/blob/master/INSTALL.md>`_"
+msgstr "Ja, QGIS aus dem Quellcode zu kompilieren ist möglich, egal welches Betriebssystem Sie verwenden (Windows, OS X, Linux). Bitte lesen Sie `Building QGIS from source <https://github.com/qgis/QGIS/blob/master/INSTALL.md>`_"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "Kontrollkästchen"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid ""
@@ -222,8 +299,8 @@ msgstr ""
 #~ "Dufour <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_ was a famous "
 #~ "and influential swiss cartographer. Furthermore Dufourspitze is the `highest"
 #~ " peak "
-#~ "<http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo"
-#~ ".pixelkarte-farbe&layers=ch.swisstopo.hiks-"
+#~ "<http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-"
+#~ "farbe&layers=ch.swisstopo.hiks-"
 #~ "dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_"
 #~ " in Switzerland."
 #~ msgstr ""
@@ -253,4 +330,26 @@ msgstr ""
 #~ "Yes, compiling QGIS from source is possible whatever OS you use (Windows, OS"
 #~ " X, Linux). Please read `Building QGIS from source "
 #~ "<http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "After a succesfull developer meeting in Zurich (Switzerland), we decided "
+#~ "that the next release should be related to it. Since then, all releases have"
+#~ " been named after locations of our developer meetings."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To cite QGIS in your piece of work, or for an assignment, this general "
+#~ "citation might be helpful: \"QGIS.org (YEAR). QGIS Geographic Information "
+#~ "System. Open Source Geospatial Foundation Project. http://qgis.org\"."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are using OS X, you can find the ECW plugin and install instructions "
+#~ "at http://www.kyngchaos.com/software/frameworks"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For other instructions, eg look here: "
+#~ "http://www.faunalia.com/content/adding-ecw-support-quantum-gis"
 #~ msgstr ""

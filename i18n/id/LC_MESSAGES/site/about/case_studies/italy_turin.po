@@ -5,15 +5,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-22 11:32+0100\n"
-"PO-Revision-Date: 2017-09-20 03:45+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-05-25 15:58+0000\n"
+"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>, 2014-2015\n"
 "Language-Team: Indonesian (http://www.transifex.com/qgis/qgis-website/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:3
+msgid ""
+"The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
+"photo archive management"
+msgstr "The Research Institute for Geo-hydrological Protection of Turin - Aerial photo archive management"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:5
 msgid ""
@@ -34,6 +41,19 @@ msgid ""
 "are employed. Their use varies, from “simple” visual analyses to complex "
 "processing as stereoplotting or image segmentation."
 msgstr "Dalam rangka melaksanakan penelitian dan studi mendalam, selain survei lapangan, pemodelan dan analisis catatan sejarah, fotogram udara bekerja. Penggunaannya bervariasi, dari yang \"sederhana\" analisis visual untuk proses yang kompleks sebagai stereoplotting atau segmentasi citra."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:9
+msgid ""
+"The institute, for the explained purposes, keeps in its archive about "
+"170000, recent and historical, photograms --- the oldest one dating back to "
+"1920s (Figure 1) --- covering, in different years, the Po basin or part of "
+"it. Some photograms cover other basins in northern Italy. In addition the "
+"archives keeps flight plans of the described photograms (Figure 1)."
+msgstr "Lembaga ini, tujuannya menjelaskan, menjaga sekitar 170000 arsip, terbaru dan sejarah, fotogram - yang tertua kembali ke tahun 1920-an (Gambar 1) - yang meliputi, dalam tahun yang berbeda, cekungan Po atau bagian dari itu. beberapa fotogram mencakup cekungan lain di Italia utara. Selain arsip membuat rencana penerbangan dari fotogram yang dijelaskan (Gambar 1)."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:16
+msgid "1929 photogram (left) and 1954 flight plan (right)"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_turin.rst:16
 msgid "1929 photogram (left) and 1954 flight plan (right)."
@@ -143,6 +163,15 @@ msgstr "Penulis"
 msgid "Danilo Godone"
 msgstr "Danilo Godone"
 
+#: ../../source/site/about/case_studies/italy_turin.rst:73
+msgid ""
+"Danilo Godone is a Postdoc grant holder, at Turin University, studying "
+"geomatic contribution in landslide, glacier and, more generally, natural "
+"disasters monitoring. He is a member of NATRISK --- Research Centre on "
+"Natural Risks in Mountain and Hilly Environments, in the same University. He"
+" acts as a freelance consultant in the same topics, too."
+msgstr "Danilo Godone adalah pemegang hibah Postdoc, di Turin University, mempelajari kontribusi geomatika dalam longsor, gletser dan, lebih umum, monitoring bencana alam. Dia adalah anggota dari NATRISK - Pusat Penelitian Risiko Alam di Mountain dan Berbukit Lingkungan, di Universitas yang sama. Ia bertindak sebagai konsultan freelance di topik yang sama, juga."
+
 #: ../../source/site/about/case_studies/italy_turin.rst:80
 msgid "Franco Godone"
 msgstr "Franco Godone"
@@ -155,29 +184,13 @@ msgid ""
 "alpine regions."
 msgstr "Franco Godone adalah teknisi khusus di Research Institute for Geo-hydrological Protection of Turin (IRPI-CNR) sejak 1972. Ia terlibat dalam survei topografi dan aerophotogrammetrical dan analisis data di daerah pegunungan."
 
-#: ../../source/site/about/case_studies/italy_turin.rst:3
-msgid ""
-"The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
-"photo archive management"
-msgstr "The Research Institute for Geo-hydrological Protection of Turin - Aerial photo archive management"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/italy_turin.rst:9
-msgid ""
-"The institute, for the explained purposes, keeps in its archive about "
-"170000, recent and historical, photograms --- the oldest one dating back to "
-"1920s (Figure 1) --- covering, in different years, the Po basin or part of "
-"it. Some photograms cover other basins in northern Italy. In addition the "
-"archives keeps flight plans of the described photograms (Figure 1)."
-msgstr "Lembaga ini, tujuannya menjelaskan, menjaga sekitar 170000 arsip, terbaru dan sejarah, fotogram - yang tertua kembali ke tahun 1920-an (Gambar 1) - yang meliputi, dalam tahun yang berbeda, cekungan Po atau bagian dari itu. beberapa fotogram mencakup cekungan lain di Italia utara. Selain arsip membuat rencana penerbangan dari fotogram yang dijelaskan (Gambar 1)."
-
-#: ../../source/site/about/case_studies/italy_turin.rst:73
-msgid ""
-"Danilo Godone is a Postdoc grant holder, at Turin University, studying "
-"geomatic contribution in landslide, glacier and, more generally, natural "
-"disasters monitoring. He is a member of NATRISK --- Research Centre on "
-"Natural Risks in Mountain and Hilly Environments, in the same University. He"
-" acts as a freelance consultant in the same topics, too."
-msgstr "Danilo Godone adalah pemegang hibah Postdoc, di Turin University, mempelajari kontribusi geomatika dalam longsor, gletser dan, lebih umum, monitoring bencana alam. Dia adalah anggota dari NATRISK - Pusat Penelitian Risiko Alam di Mountain dan Berbukit Lingkungan, di Universitas yang sama. Ia bertindak sebagai konsultan freelance di topik yang sama, juga."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "cekbox_tidakterpilih"
 
 #~ msgid ""
 #~ "The Research Institute for Geo-hydrological Protection of Turin - Aerial "

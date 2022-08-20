@@ -5,23 +5,25 @@
 # 
 # Translators:
 # Rosa Aguilar <rosamaguilar@gmail.com>, 2020
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2020
+# Abigaíl García, 2022
+# Eric Armijo, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-10 10:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2020-05-10 08:48+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020\n"
+"Last-Translator: Eric Armijo, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/qgis/teams/6144/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:4
 msgid "Charter of the QGIS.ORG Association"
@@ -597,54 +599,56 @@ msgid ""
 "elected by the general meeting. In an election of board members, the nominee"
 " receiving the greatest number of votes for each position (chair, vice "
 "chair, treasurer) shall be appointed. A tied election shall trigger a re-"
-"vote until one nominee has the majority. On expiration of a board member’s "
-"term, nominees from within the QGIS PSC shall be put forward by the QGIS "
-"Voting Members. The outgoing board member shall automatically receive a "
-"nomination unless he/she no longer wishes to serve on the board."
+"vote until one nominee has the majority."
 msgstr ""
-"Los miembros de la junta también serán miembros del PSC y serán nominados y "
-"elegidos por la junta general. En una elección de los miembros de la junta, "
-"se designará al candidato que reciba el mayor número de votos para cada "
-"puesto (presidente, vicepresidente, tesorero). Una elección empatada "
-"desencadenará una nueva votación hasta que un nominado tenga la mayoría. Al "
-"expirar el mandato de un miembro de la junta, los nominados de dentro del "
-"QGIS PSC serán presentados por los miembros votantes de QGIS. El miembro "
-"saliente de la junta recibirá automáticamente una nominación a menos que ya "
-"no desee formar parte de la junta."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:218
+#: ../../source/site/getinvolved/governance/charter/index.rst:214
+msgid ""
+"Votes of non-elected Chair candidates shall be used as replacement of the "
+"voter’s vice-chair vote."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/charter/index.rst:217
+msgid ""
+"On expiration of a board member’s term, nominees from within the QGIS "
+"community shall be put forward by the QGIS Voting Members. The outgoing "
+"board member shall automatically receive a nomination unless he/she no "
+"longer wishes to serve on the board."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/charter/index.rst:222
 msgid "7.2 Terms of members of the board"
 msgstr "7.2 Términos de los miembros de la junta"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:220
+#: ../../source/site/getinvolved/governance/charter/index.rst:224
 msgid "Board members will serve for a two year term."
 msgstr "Los miembros de la junta servirán por un período de dos años."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:224
+#: ../../source/site/getinvolved/governance/charter/index.rst:228
 msgid "7.3 Composition of the board"
 msgstr "7.3 Composición de la junta"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:226
+#: ../../source/site/getinvolved/governance/charter/index.rst:230
 msgid "The board shall include at minimum these roles:"
 msgstr "La junta incluirá como mínimo estos puestos:"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:228
+#: ../../source/site/getinvolved/governance/charter/index.rst:232
 msgid "Chair"
 msgstr "Presidente"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:229
+#: ../../source/site/getinvolved/governance/charter/index.rst:233
 msgid "Vice-chair"
 msgstr "Vicepresidente"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:230
+#: ../../source/site/getinvolved/governance/charter/index.rst:234
 msgid "Treasurer"
 msgstr "Tesorero"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:233
+#: ../../source/site/getinvolved/governance/charter/index.rst:237
 msgid "7.4 Board and PSC Member remuneration"
 msgstr "7.4 Remuneración de la Junta y de los miembros de PSC"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:235
+#: ../../source/site/getinvolved/governance/charter/index.rst:239
 msgid ""
 "Board and PSC members will receive no remuneration for their services other "
 "than reimbursement of out-of-pocket expenses incurred when carrying out "
@@ -654,11 +658,11 @@ msgstr ""
 "servicios, excepto el reembolso de los gastos de bolsillo incurridos al "
 "realizar actividades en nombre de la junta."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:240
+#: ../../source/site/getinvolved/governance/charter/index.rst:244
 msgid "7.5 Replacement of Board Members"
 msgstr "7.5 Replacement of Board Members"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:242
+#: ../../source/site/getinvolved/governance/charter/index.rst:246
 msgid ""
 "In the event of a board member resigning from the board, the PSC shall put "
 "forward from within their ranks a replacement for the board who shall serve "
@@ -668,72 +672,51 @@ msgstr ""
 "PSC presentará desde dentro de sus filas un reemplazo para la junta que "
 "servirá en esa posición hasta que se convoque la próxima junta general."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:246
+#: ../../source/site/getinvolved/governance/charter/index.rst:250
 msgid "8 The Project Steering Committee (PSC)"
 msgstr "8 El Comité Directivo del Proyecto (PSC)"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:249
+#: ../../source/site/getinvolved/governance/charter/index.rst:253
 msgid "8.1 Election of PSC members"
 msgstr "8.1 Elección de miembros del PSC"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:251
+#: ../../source/site/getinvolved/governance/charter/index.rst:255
 msgid ""
-"On expiration of a PSC member’s term, nominees from within the QGIS Voting "
-"Membership shall be put forward by any QGIS Community Member. The outgoing "
+"On expiration of a PSC member’s term, nominees from within the QGIS "
+"Community shall be put forward by any QGIS Community Member. The outgoing "
 "PSC member shall automatically receive a nomination unless he/she no longer "
 "wishes to serve on the PSC. If an incoming PSC member is a Voting Member, "
 "they will relinquish their voting membership in the general meeting on "
 "joining the PSC."
 msgstr ""
-"Al expirar el mandato de un miembro del PSC, cualquier miembro de la "
-"comunidad de QGIS presentará a los nominados dentro de la Membresía de "
-"votación de QGIS. El miembro saliente del PSC recibirá automáticamente una "
-"nominación a menos que ya no desee participar en el PSC. Si un miembro "
-"entrante del PSC es un miembro con derecho a voto, renunciará a su membresía"
-" con derecho a voto en la reunión general al unirse al PSC."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:257
+#: ../../source/site/getinvolved/governance/charter/index.rst:261
 msgid ""
 "Prior to the election, the outgoing PSC determines the total number of seats"
 " of the incoming committee. QGIS Voting Members shall be allowed a number of"
 " votes equal to the number of PSC memberships up for election and shall be "
-"asked to rank their votes in order of preference. The votes shall be "
-"weighted based on the number of PSC positions being voted for. For example "
-"if three PSC positions are available, each first choice vote shall be worth "
-"3 points, second point vote 2 points and so on. PSC memberships shall be "
-"awarded on the total weighted score of the vote, with the nominee receiving "
-"the greatest score being awarded PSC membership first and so on in "
-"descending order of score of votes received until all PSC memberships have "
-"been allocated. A list of currently serving PSC members shall be maintained "
-"at: https://www.qgis.org/en/site/getinvolved/governance/"
+"asked to rank their votes in order of preference. After removing elected "
+"Board members from the vote results, PSC memberships shall be awarded on the"
+" total vote count, with the nominee receiving the greatest count being "
+"awarded PSC membership first and so on in descending order of number of "
+"votes received until all PSC memberships have been allocated. A list of "
+"currently serving PSC members shall be maintained at: "
+"https://www.qgis.org/en/site/getinvolved/governance/"
 msgstr ""
-"Antes de la elección, el PSC saliente determina el número total de escaños "
-"del comité entrante. A los miembros votantes de QGIS se les permitirá un "
-"número de votos igual al número de miembros del PSC para la elección y se "
-"les pedirá que clasifiquen sus votos en orden de preferencia. Los votos se "
-"ponderarán en función del número de puestos del PSC que se voten. Por "
-"ejemplo, si hay tres puestos de PSC disponibles, cada voto de primera opción"
-" tendrá un valor de 3 puntos, el voto de segundo punto 2 puntos y así "
-"sucesivamente. Las membresías del PSC se otorgarán según el puntaje "
-"ponderado total de la votación, y el nominado que reciba el puntaje más alto"
-" recibirá la membresía del PSC primero y así sucesivamente en orden "
-"descendente de puntaje de los votos recibidos hasta que se hayan asignado "
-"todas las membresías del PSC. Se debe mantener una lista de los miembros "
-"actuales del PSC en: https://www.qgis.org/en/site/getinvolved/governance/"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:269
+#: ../../source/site/getinvolved/governance/charter/index.rst:272
 msgid "8.2 Terms of members of the PSC"
 msgstr "8.2 Términos de los miembros del PSC"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:271
+#: ../../source/site/getinvolved/governance/charter/index.rst:274
 msgid "PSC members will serve for a two year term."
 msgstr "Los miembros del PSC servirán por un período de dos años."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:274
+#: ../../source/site/getinvolved/governance/charter/index.rst:277
 msgid "8.3 Honorary PSC members"
 msgstr "8.3 Miembros honorarios del PSC"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:276
+#: ../../source/site/getinvolved/governance/charter/index.rst:279
 msgid ""
 "Gary Sherman, as founder of the QGIS project, shall be accorded lifetime "
 "honorary membership on the QGIS PSC from its inception. By common vote, "
@@ -744,11 +727,11 @@ msgstr ""
 "puede otorgar a cualquier individuo un asiento honorario de por vida en el "
 "PSC."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:281
+#: ../../source/site/getinvolved/governance/charter/index.rst:284
 msgid "9 Administration of QGIS.ORG"
 msgstr "9 Administración de QGIS.ORG"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:283
+#: ../../source/site/getinvolved/governance/charter/index.rst:286
 msgid ""
 "The annual general meeting (AGM) will be held via a virtual forum The online"
 " location and date is to be determined and communicated by the board in "
@@ -766,7 +749,7 @@ msgstr ""
 "reunión general. El presidente de la asociación autoriza la publicación del "
 "protocolo."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:290
+#: ../../source/site/getinvolved/governance/charter/index.rst:293
 msgid ""
 "The meeting shall be open to all QGIS community members. Only voting members"
 " can vote on any motion. Substantial proposals made by QGIS community "
@@ -783,27 +766,27 @@ msgstr ""
 "menores deben presentarse a la junta y tratarse independientemente de la "
 "AGM."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:296
+#: ../../source/site/getinvolved/governance/charter/index.rst:299
 msgid "The annual general meeting shall deal with the following:"
 msgstr "La junta general anual se ocupará de lo siguiente:"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:298
+#: ../../source/site/getinvolved/governance/charter/index.rst:301
 msgid "Approval of the annual report"
 msgstr "Aprobación del informe anual."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:299
+#: ../../source/site/getinvolved/governance/charter/index.rst:302
 msgid "Approval of the annual financial report"
 msgstr "Aprobación del informe financiero anual."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:300
+#: ../../source/site/getinvolved/governance/charter/index.rst:303
 msgid "Approval of the annual budget"
 msgstr "Aprobación del presupuesto anual."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:301
+#: ../../source/site/getinvolved/governance/charter/index.rst:304
 msgid "Election of the board chair"
 msgstr "Elección del presidente de la junta."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:302
+#: ../../source/site/getinvolved/governance/charter/index.rst:305
 msgid ""
 "The nomination and election for the outgoing board and PSC member "
 "replacements"
@@ -811,7 +794,7 @@ msgstr ""
 "La nominación y elección para la junta saliente y los reemplazos de miembros"
 " del PSC"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:303
+#: ../../source/site/getinvolved/governance/charter/index.rst:306
 msgid ""
 "Confirmation or selection of the financial auditors for the upcoming "
 "financial year"
@@ -819,7 +802,7 @@ msgstr ""
 "Confirmación o selección de los auditores financieros para el próximo año "
 "financiero."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:304
+#: ../../source/site/getinvolved/governance/charter/index.rst:307
 msgid ""
 "Resolutions / voting of proposals made by the board, the PSC or voting "
 "members"
@@ -827,15 +810,15 @@ msgstr ""
 "Resoluciones / votación de propuestas hechas por la junta, el PSC o los "
 "miembros votantes"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:305
+#: ../../source/site/getinvolved/governance/charter/index.rst:308
 msgid "Revision of the statutes"
 msgstr "Revisión de los estatutos"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:306
+#: ../../source/site/getinvolved/governance/charter/index.rst:309
 msgid "Deal with any matters arising"
 msgstr "Tratar cualquier asunto que surja"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:308
+#: ../../source/site/getinvolved/governance/charter/index.rst:311
 msgid ""
 "All other decisions and competences are the responsibility of the QGIS "
 "Board."
@@ -843,7 +826,7 @@ msgstr ""
 "Todas las demás decisiones y competencias son responsabilidad de la Junta de"
 " QGIS."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:310
+#: ../../source/site/getinvolved/governance/charter/index.rst:313
 msgid ""
 "Extraordinary meetings can be convened by the board or on demand of at least"
 " 2/5 of the voting members."
@@ -851,7 +834,7 @@ msgstr ""
 "Las reuniones extraordinarias pueden ser convocadas por la junta o bajo "
 "demanda de al menos 2/5 de los miembros con derecho a voto."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:313
+#: ../../source/site/getinvolved/governance/charter/index.rst:316
 msgid ""
 "Every officially convened general meeting has a quorum. At elections and for"
 " voting a simple majority (more than 50%) of the present members decides, "
@@ -862,7 +845,7 @@ msgstr ""
 "decide, a excepción de los casos enumerados en las secciones 7.1, 8.1. y "
 "5.4."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:317
+#: ../../source/site/getinvolved/governance/charter/index.rst:320
 msgid ""
 "The reporting year and the accounting year starts at January 1 and ends at "
 "December 31."
@@ -870,7 +853,7 @@ msgstr ""
 "El año de informe y el año contable comienzan el 1 de enero y finalizan el "
 "31 de diciembre."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:319
+#: ../../source/site/getinvolved/governance/charter/index.rst:322
 msgid ""
 "The correspondence of the QGIS.ORG Association will be carried out in "
 "English, unless otherwise requested by the authorities."
@@ -878,7 +861,7 @@ msgstr ""
 "La correspondencia de la Asociación QGIS.ORG se llevará a cabo en inglés, a "
 "menos que las autoridades soliciten lo contrario."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:322
+#: ../../source/site/getinvolved/governance/charter/index.rst:325
 #, python-format
 msgid ""
 "The association can only be dissolved by the general motion with a majority "
@@ -893,11 +876,11 @@ msgstr ""
 "los activos de la asociación con una mayoría simple (más del 50% de los "
 "votantes)."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:328
+#: ../../source/site/getinvolved/governance/charter/index.rst:331
 msgid "10 Financial arrangements"
 msgstr "10 Arreglos financieros"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:330
+#: ../../source/site/getinvolved/governance/charter/index.rst:333
 msgid ""
 "The financial revenues of QGIS.ORG shall originate from donations, "
 "memberships, grant funding and other diverse sources."
@@ -905,11 +888,11 @@ msgstr ""
 "Los ingresos financieros de QGIS.ORG provendrán de donaciones, membresías, "
 "fondos de subvenciones y otras fuentes diversas."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:333
+#: ../../source/site/getinvolved/governance/charter/index.rst:336
 msgid "The general meeting shall elect two financial auditors each year."
 msgstr "La junta general elegirá dos auditores financieros cada año."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:335
+#: ../../source/site/getinvolved/governance/charter/index.rst:338
 msgid ""
 "Limited Liability: the QGIS Association can only be held liable up to the "
 "amount of the current assets of the association. Personal liability of "
@@ -920,10 +903,81 @@ msgstr ""
 "excluye la responsabilidad personal de los miembros de la junta o de otros "
 "miembros individuales."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:340
+#: ../../source/site/getinvolved/governance/charter/index.rst:343
 msgid ""
 "This charter was approved by the general assembly via Loomio vote on March "
 "17, 2019."
 msgstr ""
 "Esta carta fue aprobada por la asamblea general a través del voto de Loomio "
 "el 17 de marzo de 2019."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
+
+#~ msgid ""
+#~ "Board members shall also be members of the PSC and shall be nominated and "
+#~ "elected by the general meeting. In an election of board members, the nominee"
+#~ " receiving the greatest number of votes for each position (chair, vice "
+#~ "chair, treasurer) shall be appointed. A tied election shall trigger a re-"
+#~ "vote until one nominee has the majority. On expiration of a board member’s "
+#~ "term, nominees from within the QGIS PSC shall be put forward by the QGIS "
+#~ "Voting Members. The outgoing board member shall automatically receive a "
+#~ "nomination unless he/she no longer wishes to serve on the board."
+#~ msgstr ""
+#~ "Los miembros de la junta también serán miembros del PSC y serán nominados y "
+#~ "elegidos por la junta general. En una elección de los miembros de la junta, "
+#~ "se designará al candidato que reciba el mayor número de votos para cada "
+#~ "puesto (presidente, vicepresidente, tesorero). Una elección empatada "
+#~ "desencadenará una nueva votación hasta que un nominado tenga la mayoría. Al "
+#~ "expirar el mandato de un miembro de la junta, los nominados de dentro del "
+#~ "QGIS PSC serán presentados por los miembros votantes de QGIS. El miembro "
+#~ "saliente de la junta recibirá automáticamente una nominación a menos que ya "
+#~ "no desee formar parte de la junta."
+
+#~ msgid ""
+#~ "On expiration of a PSC member’s term, nominees from within the QGIS Voting "
+#~ "Membership shall be put forward by any QGIS Community Member. The outgoing "
+#~ "PSC member shall automatically receive a nomination unless he/she no longer "
+#~ "wishes to serve on the PSC. If an incoming PSC member is a Voting Member, "
+#~ "they will relinquish their voting membership in the general meeting on "
+#~ "joining the PSC."
+#~ msgstr ""
+#~ "Al expirar el mandato de un miembro del PSC, cualquier miembro de la "
+#~ "comunidad de QGIS presentará a los nominados dentro de la Membresía de "
+#~ "votación de QGIS. El miembro saliente del PSC recibirá automáticamente una "
+#~ "nominación a menos que ya no desee participar en el PSC. Si un miembro "
+#~ "entrante del PSC es un miembro con derecho a voto, renunciará a su membresía"
+#~ " con derecho a voto en la reunión general al unirse al PSC."
+
+#~ msgid ""
+#~ "Prior to the election, the outgoing PSC determines the total number of seats"
+#~ " of the incoming committee. QGIS Voting Members shall be allowed a number of"
+#~ " votes equal to the number of PSC memberships up for election and shall be "
+#~ "asked to rank their votes in order of preference. The votes shall be "
+#~ "weighted based on the number of PSC positions being voted for. For example "
+#~ "if three PSC positions are available, each first choice vote shall be worth "
+#~ "3 points, second point vote 2 points and so on. PSC memberships shall be "
+#~ "awarded on the total weighted score of the vote, with the nominee receiving "
+#~ "the greatest score being awarded PSC membership first and so on in "
+#~ "descending order of score of votes received until all PSC memberships have "
+#~ "been allocated. A list of currently serving PSC members shall be maintained "
+#~ "at: https://www.qgis.org/en/site/getinvolved/governance/"
+#~ msgstr ""
+#~ "Antes de la elección, el PSC saliente determina el número total de escaños "
+#~ "del comité entrante. A los miembros votantes de QGIS se les permitirá un "
+#~ "número de votos igual al número de miembros del PSC para la elección y se "
+#~ "les pedirá que clasifiquen sus votos en orden de preferencia. Los votos se "
+#~ "ponderarán en función del número de puestos del PSC que se voten. Por "
+#~ "ejemplo, si hay tres puestos de PSC disponibles, cada voto de primera opción"
+#~ " tendrá un valor de 3 puntos, el voto de segundo punto 2 puntos y así "
+#~ "sucesivamente. Las membresías del PSC se otorgarán según el puntaje "
+#~ "ponderado total de la votación, y el nominado que reciba el puntaje más alto"
+#~ " recibirá la membresía del PSC primero y así sucesivamente en orden "
+#~ "descendente de puntaje de los votos recibidos hasta que se hayan asignado "
+#~ "todas las membresías del PSC. Se debe mantener una lista de los miembros "
+#~ "actuales del PSC en: https://www.qgis.org/en/site/getinvolved/governance/"

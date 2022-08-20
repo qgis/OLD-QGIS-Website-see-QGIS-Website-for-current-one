@@ -6,20 +6,21 @@
 # Translators:
 # Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2019
 # Zoltan Siki <siki.zoltan@epito.bme.hu>, 2020
+# Báthory Péter <bathory86p@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2016-07-17 11:59+0000\n"
-"Last-Translator: Zoltan Siki <siki.zoltan@epito.bme.hu>, 2020\n"
+"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2022\n"
 "Language-Team: Hungarian (https://www.transifex.com/qgis/teams/6144/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -30,6 +31,10 @@ msgstr "A QGIS 2.16 verzió változásnaplója"
 #: ../../source/site/forusers/visualchangelog216/index.rst:7
 msgid "|image1|"
 msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1946
+msgid "image1"
+msgstr "image1"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:9
 msgid ""
@@ -91,6 +96,10 @@ msgstr ""
 msgid "|Introducing Nødebo|"
 msgstr "|Introducing Nødebo|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst
+msgid "Introducing Nødebo"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:36
 msgid "Pronouncing Nødebo..."
 msgstr "Nødebo kiejtése..."
@@ -143,6 +152,10 @@ msgstr ""
 "társadalmakat eredményez az emberiség egészének hasznára. Ha lehetősége van "
 "a QGIS támogatására, akkor kérjük tegye meg: |donate here|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst
+msgid "donate here"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:69
 msgid "Sponsors for QGIS version 2.16.0"
 msgstr "QGIS 2.16.0 szponzorai"
@@ -159,6 +172,18 @@ msgstr ""
 "fejlesztési erőfeszítések fenntartását. Ezen szponzorok listája látható "
 "lentebb a köszönetünkkel."
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:78
+msgid "bronze"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:81
+msgid "silver"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:84
+msgid "gold"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:87
 msgid "Gold sponsors ( 9000 EUR )"
 msgstr "Arany szponzorok (9000 EUR)"
@@ -170,6 +195,10 @@ msgid ""
 msgstr ""
 "|gold| |qgis-ch| `QGIS felhasználói csoport, Svájc <https://www.qgis.ch/>`_,"
 " Svájc (2016.06-2017.06.)"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:92
+msgid "qgis-ch"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:98
 msgid "Silver sponsors ( 3000 EUR )"
@@ -183,6 +212,10 @@ msgstr ""
 "|silver| |vorarlberg| `Vorarlberg tartomány <http://www.vorarlberg.at/>`_, "
 "Ausztria (2011.11-2017.06.)"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:118
+msgid "vorarlberg"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:103
 msgid ""
 "|silver| |opw| `Office of Public Works, Ireland <http://www.opw.ie/>`_, "
@@ -190,6 +223,10 @@ msgid ""
 msgstr ""
 "|silver| |opw| `Office of Public Works, Ireland <http://www.opw.ie/>`_, "
 "Írország (2014.12-2016.12.)"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:121
+msgid "opw"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:106
 msgid ""
@@ -199,6 +236,10 @@ msgstr ""
 "|silver| |gaia| `GAIA mbh <http://www.gaia-mbh.de>`_, Németország "
 "(06.2013-11.2016)"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:112
+msgid "gaia"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:109
 msgid ""
 "|silver| |sourcepole| `Sourcepole AG <http://www.sourcepole.com/>`_, "
@@ -207,6 +248,10 @@ msgstr ""
 "|silver| |sourcepole| `Sourcepole AG <http://www.sourcepole.com/>`_, Svájc "
 "(10.2014-10.2016)"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:115
+msgid "sourcepole"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:128
 msgid "Bronze sponsors ( 500 EUR )"
 msgstr "Bronz szonzorok (500 EUR)"
@@ -214,6 +259,10 @@ msgstr "Bronz szonzorok (500 EUR)"
 #: ../../source/site/forusers/visualchangelog216/index.rst:130
 msgid "|bronze| |terrelogiche|"
 msgstr "|bronze| |terrelogiche|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:282
+msgid "terrelogiche"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:132
 msgid ""
@@ -227,6 +276,10 @@ msgstr ""
 msgid "|bronze| |qgis-pt|"
 msgstr "|bronze| |qgis-pt|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:228
+msgid "qgis-pt"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:135
 msgid ""
 "`QGIS-PT (Portuguese QGIS user group) <http://www.qgis.pt/>`_, Portugal "
@@ -239,6 +292,10 @@ msgstr ""
 msgid "|bronze| |ncc|"
 msgstr "|bronze| |ncc|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:234
+msgid "ncc"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:138
 msgid "`NCC <http://www.ncc.se/en/>`_, Sweden (05.2016-05.2017)"
 msgstr "`NCC <http://www.ncc.se/en/>`_, Svédország (05.2016-05.2017)"
@@ -246,6 +303,10 @@ msgstr "`NCC <http://www.ncc.se/en/>`_, Svédország (05.2016-05.2017)"
 #: ../../source/site/forusers/visualchangelog216/index.rst:139
 msgid "|bronze| |soltig|"
 msgstr "|bronze| |soltig|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:231
+msgid "soltig"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:141
 msgid ""
@@ -259,6 +320,10 @@ msgstr ""
 msgid "|bronze| |gaia3d|"
 msgstr "|bronze| |gaia3d|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:288
+msgid "gaia3d"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:144
 msgid ""
 "`Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2017)"
@@ -268,6 +333,10 @@ msgstr "`Gaia3D, Inc. <http://www.gaia3d.com/>`_, Dél-Korea (05.2015-05.2017)"
 msgid "|bronze| |gepol|"
 msgstr "|bronze| |gepol|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:237
+msgid "gepol"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:147
 msgid "`GEPOL <http://www.gepol.com.pl/>`_, Poland (04.2016-04.2017)"
 msgstr "`GEPOL <http://www.gepol.com.pl/>`_, Lengyelország (04.2016-04.2017)"
@@ -275,6 +344,10 @@ msgstr "`GEPOL <http://www.gepol.com.pl/>`_, Lengyelország (04.2016-04.2017)"
 #: ../../source/site/forusers/visualchangelog216/index.rst:148
 msgid "|bronze| |windsor|"
 msgstr "|bronze| |windsor|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:291
+msgid "windsor"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:150
 msgid ""
@@ -288,6 +361,10 @@ msgstr ""
 msgid "|bronze| |gfi|"
 msgstr "|bronze| |gfi|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:300
+msgid "gfi"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:153
 msgid ""
 "`GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-"
@@ -300,17 +377,27 @@ msgstr ""
 msgid "|bronze| |teaching_jobs_with_footprints|"
 msgstr "|bronze| |teaching_jobs_with_footprints|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:243
+msgid "teaching_jobs_with_footprints"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:156
 msgid ""
-"`Teaching Jobs with Footprints <http://www.footprintsrecruiting.com"
-"/teaching-jobs-abroad>`_, Canada (04.2016-04-2017)"
+"`Teaching Jobs with Footprints "
+"<http://www.footprintsrecruiting.com/teaching-jobs-abroad>`_, Canada "
+"(04.2016-04-2017)"
 msgstr ""
-"`Teaching Jobs with Footprints <http://www.footprintsrecruiting.com"
-"/teaching-jobs-abroad>`_, Kanada (04.2016-04-2017)"
+"`Teaching Jobs with Footprints "
+"<http://www.footprintsrecruiting.com/teaching-jobs-abroad>`_, Kanada "
+"(04.2016-04-2017)"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:157
 msgid "|bronze| |fornat_ag|"
 msgstr "|bronze| |fornat_ag|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:240
+msgid "fornat_ag"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:159
 msgid "`FORNAT AG <http://www.fornat.ch/>`_, Switzerland (04.2014-04.2017)"
@@ -319,6 +406,10 @@ msgstr "`FORNAT AG <http://www.fornat.ch/>`_, Svájc (04.2014-04.2017)"
 #: ../../source/site/forusers/visualchangelog216/index.rst:160
 msgid "|bronze| |national_parks_uk|"
 msgstr "|bronze| |national_parks_uk|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:246
+msgid "national_parks_uk"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:162
 msgid ""
@@ -332,6 +423,10 @@ msgstr ""
 msgid "|bronze| |kbb_underground|"
 msgstr "|bronze| |kbb_underground|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:249
+msgid "kbb_underground"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:165
 msgid ""
 "`KBB Underground Technologies <http://www.kbbnet.de/en/>`_, Germany "
@@ -344,6 +439,10 @@ msgstr ""
 msgid "|bronze| |bgeo|"
 msgstr "|bronze| |bgeo|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:255
+msgid "bgeo"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:168
 msgid "`BGEO OPEN GIS, SL <http://www.bgeo.es/>`_, Spain (03.2016-03-2017)"
 msgstr ""
@@ -352,6 +451,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:169
 msgid "|bronze| |ager_technology|"
 msgstr "|bronze| |ager_technology|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:252
+msgid "ager_technology"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:171
 msgid ""
@@ -364,6 +467,10 @@ msgstr ""
 msgid "|bronze| |geoinnova|"
 msgstr "|bronze| |geoinnova|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:258
+msgid "geoinnova"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:174
 msgid ""
 "`Asociación Geoinnova <http://geoinnova.org/>`_, Spain (03.2016-03-2017)"
@@ -375,6 +482,10 @@ msgstr ""
 msgid "|bronze| |gis3w|"
 msgstr "|bronze| |gis3w|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:336
+msgid "gis3w"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:177
 msgid "`Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-01.2017)"
 msgstr "`Gis3W <http://www.gis3w.it/>`_, Olaszország (01.2014-01.2017)"
@@ -382,6 +493,10 @@ msgstr "`Gis3W <http://www.gis3w.it/>`_, Olaszország (01.2014-01.2017)"
 #: ../../source/site/forusers/visualchangelog216/index.rst:178
 msgid "|bronze| |gis_supp|"
 msgstr "|bronze| |gis_supp|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:306
+msgid "gis_supp"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:180
 msgid "`GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-03-2017)"
@@ -393,6 +508,10 @@ msgstr ""
 msgid "|bronze| |molitec|"
 msgstr "|bronze| |molitec|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:312
+msgid "molitec"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:183
 msgid "`www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-03.2017)"
 msgstr ""
@@ -401,6 +520,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:184
 msgid "|bronze| |chartwell|"
 msgstr "|bronze| |chartwell|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:294
+msgid "chartwell"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:186
 msgid ""
@@ -414,6 +537,10 @@ msgstr ""
 msgid "|bronze| |tragewegen|"
 msgstr "|bronze| |tragewegen|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:297
+msgid "tragewegen"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:189
 msgid ""
 "`Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2017)"
@@ -423,6 +550,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:190
 msgid "|bronze| |claasleinert|"
 msgstr "|bronze| |claasleinert|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:303
+msgid "claasleinert"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:192
 msgid ""
@@ -436,6 +567,10 @@ msgstr ""
 msgid "|bronze| |cawdor_forestry|"
 msgstr "|bronze| |cawdor_forestry|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:261
+msgid "cawdor_forestry"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:195
 msgid ""
 "`CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, "
@@ -448,6 +583,10 @@ msgstr ""
 msgid "|bronze| |chameleon_john|"
 msgstr "|bronze| |chameleon_john|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:264
+msgid "chameleon_john"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:198
 msgid ""
 "`ChameleonJohn <http://www.chameleonjohn.com/>`_, USA (02.2016-02.2017)"
@@ -458,6 +597,10 @@ msgstr ""
 msgid "|bronze| |2d3dgis|"
 msgstr "|bronze| |2d3dgis|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:333
+msgid "2d3dgis"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:201
 msgid "`2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2016)"
 msgstr ""
@@ -466,6 +609,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:202
 msgid "|bronze| |kela|"
 msgstr "|bronze| |kela|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:267
+msgid "kela"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:204
 msgid ""
@@ -479,6 +626,10 @@ msgstr ""
 msgid "|bronze| |mappinggis|"
 msgstr "|bronze| |mappinggis|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:330
+msgid "mappinggis"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:207
 msgid "`MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2015-11.2016)"
 msgstr ""
@@ -487,6 +638,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:208
 msgid "|bronze| |hfacts|"
 msgstr "|bronze| |hfacts|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:270
+msgid "hfacts"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:210
 msgid ""
@@ -499,6 +654,10 @@ msgstr ""
 msgid "|bronze| |urbsol|"
 msgstr "|bronze| |urbsol|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:327
+msgid "urbsol"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:213
 msgid "`Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)"
 msgstr "`Urbsol <http://www.urbsol.com.au/>`_, Ausztrália (11.2014-11.2016)"
@@ -506,6 +665,10 @@ msgstr "`Urbsol <http://www.urbsol.com.au/>`_, Ausztrália (11.2014-11.2016)"
 #: ../../source/site/forusers/visualchangelog216/index.rst:214
 msgid "|bronze| |lutra|"
 msgstr "|bronze| |lutra|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:339
+msgid "lutra"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:216
 msgid ""
@@ -519,6 +682,10 @@ msgstr ""
 msgid "|bronze| |whg|"
 msgstr "|bronze| |whg|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:273
+msgid "whg"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:219
 msgid ""
 "`WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany "
@@ -530,6 +697,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:220
 msgid "|bronze| |npa|"
 msgstr "|bronze| |npa|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:276
+msgid "npa"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:222
 msgid ""
@@ -543,10 +714,38 @@ msgstr ""
 msgid "|bronze| |qpolska|"
 msgstr "|bronze| |qpolska|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:279
+msgid "qpolska"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:225
 msgid "`QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)"
 msgstr ""
 "`QGIS Polska <http://qgis-polska.org/>`_, Lengyelország (07.2015-07.2016)"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:285
+msgid "geosynergy"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:309
+msgid "adlares"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:315
+msgid "argus"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:318
+msgid "canal"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:321
+msgid "avioportolano"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:324
+msgid "wggios"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:345
 msgid "General"
@@ -577,6 +776,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:357
 msgid "|image95|"
 msgstr "|image95|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:2005
+msgid "image95"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:359
 #: ../../source/site/forusers/visualchangelog216/index.rst:392
@@ -626,6 +829,10 @@ msgstr ""
 msgid "|image96|"
 msgstr "|image96|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:2006
+msgid "image96"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:370
 msgid ""
 "This feature was developed by `Stéphane Brunner "
@@ -649,6 +856,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:378
 msgid "|image97|"
 msgstr "|image97|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:2007
+msgid "image97"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:380
 msgid "This feature was developed by Ondřej Fibich"
@@ -674,6 +885,10 @@ msgstr ""
 msgid "|image98|"
 msgstr "|image98|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:2008
+msgid "image98"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:395
 msgid "Feature: Map tip improvements"
 msgstr "Funkció: Térképtipp fejlesztések"
@@ -692,6 +907,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:400
 msgid "|image99|"
 msgstr "|image99|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:2009
+msgid "image99"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:402
 msgid "This feature was funded by `OPENGIS.ch GmbH <http://www.opengis.ch>`__"
@@ -740,6 +959,10 @@ msgstr "\\*.qpt - Lap összeállítás sablon fájl"
 msgid "|image100|"
 msgstr "|image100|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:2010
+msgid "image100"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:418
 msgid ""
 "This feature was developed by `Alexandre Neto "
@@ -774,6 +997,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:433
 msgid "|image41|"
 msgstr "|image41|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1951
+msgid "image41"
+msgstr "image41"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:435
 msgid ""
@@ -838,6 +1065,10 @@ msgstr ""
 msgid "|image42|"
 msgstr "|image42|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1952
+msgid "image42"
+msgstr "image42"
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:457
 msgid "Feature: Redesigned interactive gradient editor"
 msgstr "Funkció: Újratervezett interaktív színátmenet szerkesztő"
@@ -884,6 +1115,10 @@ msgstr ""
 msgid "|image43|"
 msgstr "|image43|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1953
+msgid "image43"
+msgstr "image43"
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:475
 msgid "Feature: Choice of default view for the attribute dialog"
 msgstr ""
@@ -904,6 +1139,10 @@ msgstr ""
 msgid "|image44|"
 msgstr "|image44|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1954
+msgid "image44"
+msgstr "image44"
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:486
 msgid "Feature: Improvements to calendar popups"
 msgstr "Funkció: Fejlesztések a felbukkanó naptárhoz"
@@ -920,6 +1159,10 @@ msgstr ""
 msgid "|image45|"
 msgstr "|image45|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1955
+msgid "image45"
+msgstr "image45"
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:496
 msgid "Feature: Improved color pickers"
 msgstr "Funkció: Továbbfejlesztett szín kiválasztó"
@@ -935,6 +1178,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:501
 msgid "|image46|"
 msgstr "|image46|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1956
+msgid "image46"
+msgstr "image46"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:503
 msgid "This feature was developed by `Nathan Woodrow <http://nathanw.net>`__"
@@ -960,6 +1207,10 @@ msgstr ""
 msgid "|image47|"
 msgstr "|image47|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1957
+msgid "image47"
+msgstr "image47"
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:517
 msgid "Feature: Improved HiDPI support"
 msgstr "Funkció: Javított HiDPI támogatás"
@@ -977,6 +1228,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:523
 msgid "|image48|"
 msgstr "|image48|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1958
+msgid "image48"
+msgstr "image48"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:525
 #: ../../source/site/forusers/visualchangelog216/index.rst:642
@@ -1053,6 +1308,10 @@ msgstr ""
 msgid "|image49|"
 msgstr "|image49|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1959
+msgid "image49"
+msgstr "image49"
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:554
 msgid "Documentation Updates"
 msgstr "Dokumentáció frissítések"
@@ -1114,6 +1373,10 @@ msgstr ""
 msgid "|image51|"
 msgstr "|image51|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1961
+msgid "image51"
+msgstr "image51"
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:580
 msgid ""
 "Check the 2.10, 2.12 and 2.14 milestone to see all the documentation work "
@@ -1153,6 +1416,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:594
 msgid "|image50|"
 msgstr "|image50|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1960
+msgid "image50"
+msgstr "image50"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:596
 msgid "This feature was funded by `Boundless <http://boundlessgeo.com/>`__"
@@ -1196,6 +1463,10 @@ msgstr ""
 msgid "|image52|"
 msgstr "|image52|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1962
+msgid "image52"
+msgstr "image52"
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:618
 msgid ""
 "This feature was funded by `MEEM (French Ministry of Sustainable "
@@ -1230,6 +1501,10 @@ msgstr ""
 msgid "|image53|"
 msgstr "|image53|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1963
+msgid "image53"
+msgstr "image53"
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:635
 msgid "Feature: New accessibility and low vision symbols"
 msgstr "Funkció: Új megközelíthetőség és gyengén-látók szimbólumok"
@@ -1245,6 +1520,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:640
 msgid "|image54|"
 msgstr "|image54|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1964
+msgid "image54"
+msgstr "image54"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:645
 msgid "Feature: New simple marker symbols"
@@ -1269,6 +1548,10 @@ msgstr "rombusz ellipszis jel"
 #: ../../source/site/forusers/visualchangelog216/index.rst:652
 msgid "|image55|"
 msgstr "|image55|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1965
+msgid "image55"
+msgstr "image55"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:657
 msgid "Feature: \"No symbol\" renderer"
@@ -1311,6 +1594,10 @@ msgstr ""
 msgid "|image56|"
 msgstr "|image56|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1966
+msgid "image56"
+msgstr "image56"
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:675
 msgid "Feature: More control over centroid fill point rendering"
 msgstr "Funkció: Több beállítás a centrális pont kitöltés megjelenítéshez"
@@ -1326,6 +1613,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:680
 msgid "|image57|"
 msgstr "|image57|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1967
+msgid "image57"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:685
 msgid "Feature: Outline setting for font markers symbol"
@@ -1346,6 +1637,10 @@ msgstr ""
 msgid "|image58|"
 msgstr "|image58|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1968
+msgid "image58"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:696
 msgid ""
 "Feature: Control outline join style for simple, ellipse, and font markers"
@@ -1365,6 +1660,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:701
 msgid "|image59|"
 msgstr "|image59|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1969
+msgid "image59"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:706
 msgid "Feature: New map tool for interactively setting point symbol offset"
@@ -1394,6 +1693,10 @@ msgstr ""
 msgid "|image60|"
 msgstr "|image60|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1970
+msgid "image60"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:720
 msgid "Feature: Style Dock"
 msgstr "Funkció: Stílus dokk"
@@ -1420,6 +1723,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:728
 msgid "|image61|"
 msgstr "|image61|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1971
+msgid "image61"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:730
 msgid ""
@@ -1451,6 +1758,10 @@ msgstr ""
 msgid "|image62|"
 msgstr "|image62|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1972
+msgid "image62"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:744
 #: ../../source/site/forusers/visualchangelog216/index.rst:863
 #: ../../source/site/forusers/visualchangelog216/index.rst:1204
@@ -1480,6 +1791,10 @@ msgstr ""
 msgid "|image63|"
 msgstr "|image63|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1973
+msgid "image63"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:758
 msgid "This feature was funded by `ADUGA <http://www.aduga.org/>`__"
 msgstr "Ezt a funkciót támogatta `ADUGA <http://www.aduga.org/>`__"
@@ -1502,6 +1817,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:769
 msgid "|image64|"
 msgstr "|image64|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1974
+msgid "image64"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:774
 msgid "Feature: Diagrams behave like labels and can be managed from toolbar"
@@ -1546,6 +1865,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:787
 msgid "|image65|"
 msgstr "|image65|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1975
+msgid "image65"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:789
 #: ../../source/site/forusers/visualchangelog216/index.rst:1090
@@ -1617,6 +1940,10 @@ msgstr ""
 msgid "|image66|"
 msgstr "|image66|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1976
+msgid "image66"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:818
 msgid ""
 "This feature was developed by `Alvaro Huarte "
@@ -1641,6 +1968,10 @@ msgstr ""
 msgid "|image67|"
 msgstr "|image67|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1977
+msgid "image67"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:828
 msgid "This feature was developed by Piers Titus van der Torren"
 msgstr "Ezt a funkciót Piers Titus van der Torren fejlesztette"
@@ -1660,6 +1991,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:836
 msgid "|image68|"
 msgstr "|image68|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1978
+msgid "image68"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:838
 msgid "This feature was developed by Asger Skovbo Petersen and Nathan Woodrow"
@@ -1689,6 +2024,10 @@ msgstr ""
 msgid "|image69|"
 msgstr "|image69|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1979
+msgid "image69"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:856
 msgid "Feature: Extend linestring geometries with reshape tool"
 msgstr "Funkció: Törtvonal geometria bővítése az elem módosítás eszközzel"
@@ -1704,6 +2043,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:861
 msgid "|image70|"
 msgstr "|image70|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1980
+msgid "image70"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:866
 msgid "Feature: Segmentation tolerance"
@@ -1728,6 +2071,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:874
 msgid "|image71|"
 msgstr "|image71|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1981
+msgid "image71"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:876
 #: ../../source/site/forusers/visualchangelog216/index.rst:1262
@@ -1775,6 +2122,10 @@ msgstr "QGIS megjegyzi az átméretezett oszlopok szélességét"
 msgid "|image72|"
 msgstr "|image72|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1982
+msgid "image72"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:893
 msgid ""
 "This feature was funded by `Canton of Zug, Switzerland "
@@ -1782,8 +2133,8 @@ msgid ""
 "Development) <http://www.developpement-durable.gouv.fr/>`__"
 msgstr ""
 "Ezt a funkciót támogatta: `Zug kanton, Svájc <http://geo.zg.ch/>`__ and "
-"`MEEM (Fenntartható Fejlődés Francia Minisztériuma) <http://www"
-".developpement-durable.gouv.fr/>`__"
+"`MEEM (Fenntartható Fejlődés Francia Minisztériuma) "
+"<http://www.developpement-durable.gouv.fr/>`__"
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:896
 msgid ""
@@ -1834,6 +2185,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:913
 msgid "|image73|"
 msgstr "|image73|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1983
+msgid "image73"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:915
 #: ../../source/site/forusers/visualchangelog216/index.rst:948
@@ -1888,6 +2243,10 @@ msgstr ""
 msgid "|image74|"
 msgstr "|image74|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1984
+msgid "image74"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:932
 msgid ""
 "This feature was partially funded by `Canton of Zug, Switzerland "
@@ -1922,6 +2281,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:946
 msgid "|image75|"
 msgstr "|image75|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1985
+msgid "image75"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:950
 #: ../../source/site/forusers/visualchangelog216/index.rst:966
@@ -1959,6 +2322,10 @@ msgstr ""
 msgid "|image76|"
 msgstr "|image76|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1986
+msgid "image76"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:969
 msgid "Feature: DXF export improvements"
 msgstr "Funkció: DXF export fejlesztések"
@@ -1974,6 +2341,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:974
 msgid "|image77|"
 msgstr "|image77|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1987
+msgid "image77"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:976
 msgid "This feature was developed by Jürgen Fischer"
@@ -1996,6 +2367,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:984
 msgid "|image78|"
 msgstr "|image78|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1988
+msgid "image78"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:986
 #: ../../source/site/forusers/visualchangelog216/index.rst:1590
@@ -2062,6 +2437,10 @@ msgstr ""
 msgid "|image79|"
 msgstr "|image79|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1989
+msgid "image79"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:1011
 msgid "This feature was funded by SIGE, City of Uster, Morges"
 msgstr "A funkciót támogatta: SIGE, City of Uster, Morges"
@@ -2090,6 +2469,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1025
 msgid "|image80|"
 msgstr "|image80|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1990
+msgid "image80"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1027
 #: ../../source/site/forusers/visualchangelog216/index.rst:1412
@@ -2137,6 +2520,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1045
 msgid "|image81|"
 msgstr "|image81|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1991
+msgid "image81"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1047
 msgid ""
@@ -2208,6 +2595,10 @@ msgstr ""
 msgid "|image82|"
 msgstr "|image82|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1992
+msgid "image82"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:1073
 msgid ""
 "This feature was funded by `Kanton Basel Stadt <http://www.geo.bs.ch/>`__"
@@ -2238,6 +2629,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1088
 msgid "|image83|"
 msgstr "|image83|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1993
+msgid "image83"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1093
 #: ../../source/site/forusers/visualchangelog216/index.rst:1127
@@ -2283,6 +2678,10 @@ msgstr ""
 msgid "|image84|"
 msgstr "|image84|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1994
+msgid "image84"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:1117
 msgid "Feature: Relative links in composer labels"
 msgstr "Funkció: Relatív hivatkozások az összeállítás címkékben"
@@ -2298,6 +2697,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1122
 msgid "|image85|"
 msgstr "|image85|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1995
+msgid "image85"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1130
 msgid "Feature: Embed atlas features into composer HTML source as GeoJSON"
@@ -2336,6 +2739,10 @@ msgstr ""
 msgid "|image86|"
 msgstr "|image86|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:1996
+msgid "image86"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:1146
 msgid ""
 "This feature was developed by `Nyall Dawson (North Road) <http://north-"
@@ -2359,12 +2766,17 @@ msgstr ""
 "Ez a változás lehetővé teszi egy SVG fájl kitöltés és körvonal színének és "
 "körvonal vastagságának módosítását, amikor olyan paraméterezett SVG fájlokat"
 " használ, mint amit a QGIS tartalmaz. A paraméterezhető SVG fájlok további "
-"információiért nézze meg `ezt a cikket <http://blog.sourcepole.ch/2011/06/30"
-"/svg-symbols-in-qgis-with-modifiable-colors/>`__."
+"információiért nézze meg `ezt a cikket "
+"<http://blog.sourcepole.ch/2011/06/30/svg-symbols-in-qgis-with-modifiable-"
+"colors/>`__."
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1156
 msgid "|image87|"
 msgstr "|image87|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1997
+msgid "image87"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1161
 msgid "Feature: Easier use of HTML in labels"
@@ -2386,6 +2798,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1168
 msgid "|image88|"
 msgstr "|image88|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1998
+msgid "image88"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1173
 msgid "Feature: Georeference outputs (eg PDF) from composer"
@@ -2413,6 +2829,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1183
 msgid "|image89|"
 msgstr "|image89|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:1999
+msgid "image89"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1188
 msgid "Feature: Composer maps now auto-update with presets"
@@ -2457,6 +2877,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1202
 msgid "|image90|"
 msgstr "|image90|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:2000
+msgid "image90"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1207
 msgid "Analysis Tools"
@@ -2507,6 +2931,10 @@ msgstr ""
 msgid "|image91|"
 msgstr "|image91|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:2001
+msgid "image91"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:1237
 msgid "Feature: Changes to expressions"
 msgstr "Funkció: Változások a kifejezésekhez"
@@ -2545,6 +2973,10 @@ msgstr ""
 msgid "|image92|"
 msgstr "|image92|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:2002
+msgid "image92"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:1255
 msgid "Feature: Show curve point radius in info tool"
 msgstr "Funkció: A görbepont sugarának megjelenítése az azonosítás eszközben"
@@ -2560,6 +2992,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1260
 msgid "|image93|"
 msgstr "|image93|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:2003
+msgid "image93"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1265
 msgid "Feature: Aggregate support for expressions"
@@ -2646,6 +3082,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1302
 msgid "|image94|"
 msgstr "|image94|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:2004
+msgid "image94"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1304
 #: ../../source/site/forusers/visualchangelog216/index.rst:1315
@@ -2897,6 +3337,10 @@ msgstr ""
 msgid "|image101|"
 msgstr "|image101|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:2011
+msgid "image101"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:1436
 msgid "Feature: Support for DB2 databases"
 msgstr "Funkció: DB2 adatbázis támogatás"
@@ -3093,6 +3537,10 @@ msgstr "Több tolerancia a nem megfelelő WFS szerverek számára"
 msgid "|image102|"
 msgstr "|image102|"
 
+#: ../../source/site/forusers/visualchangelog216/index.rst:2012
+msgid "image102"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog216/index.rst:1513
 msgid ""
 "This feature was funded by `Land Information New Zealand and Canton of Zug, "
@@ -3144,6 +3592,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1539
 msgid "|image103|"
 msgstr "|image103|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:2013
+msgid "image103"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1546
 msgid "QGIS Server"
@@ -3231,6 +3683,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1577
 msgid "|image104|"
 msgstr "|image104|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:2014
+msgid "image104"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1584
 msgid "Feature: Globe: Extrude objects"
@@ -3321,6 +3777,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog216/index.rst:1634
 msgid "|image105|"
 msgstr "|image105|"
+
+#: ../../source/site/forusers/visualchangelog216/index.rst:2015
+msgid "image105"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog216/index.rst:1636
 msgid "This feature was developed by Martian Dobias"
@@ -4374,3 +4834,11 @@ msgid "Fix crash when using 2.5D renderer with incompatible layer"
 msgstr ""
 "Javítva lett az összeomlás, amikor a 2.5D megjelenítés volt használva egy "
 "nem kompatibilis réteggel"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

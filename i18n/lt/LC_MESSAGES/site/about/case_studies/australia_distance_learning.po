@@ -4,31 +4,31 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# Tomas Straupis, 2020
+# Tomas Straupis, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 20:36+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:41+0000\n"
-"Last-Translator: Tomas Straupis, 2020\n"
+"Last-Translator: Tomas Straupis, 2022\n"
 "Language-Team: Lithuanian (https://www.transifex.com/qgis/teams/6144/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:3
 msgid "QGIS for distance learning and teaching GIS at Universities"
-msgstr ""
+msgstr "QGIS nuotoliniam mokymui ir GIS dėstymui Universitetuose"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:6
 msgid "Introduction"
-msgstr ""
+msgstr "Įvadas"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:8
 msgid ""
@@ -39,6 +39,13 @@ msgid ""
 "computers (e.g. Notebook, Desktop etc.) with different operating systems "
 "(e.g. Windows, MacOS, and Linux)."
 msgstr ""
+"Pietų Kvynslando Universitetas (USQ) yra regioninis universitetas pietryčių "
+"Australijoje. Jame 28000 studentų mokosi miestelyje ir už jo ribų. Ne "
+"studentų miestelyje besimokančių studentų prieiga prie modernių "
+"technologijų, tokių kaip interneto paslaugos, stipriai keičiasi. Jie taip "
+"pat naudoja skirtingus kompiuterių tipus (pvz. skreitinukus, darbastalio "
+"kompiuterius ir pan.) su skirtingomis operacinėmis sistemomis (pvz. Windows,"
+" MacOS ir Linux)."
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:10
 #, python-format
@@ -48,14 +55,18 @@ msgid ""
 "challenges. On average, 300-350 students enrol in the basic GIS course every"
 " year. About 80% of them study in the off-campus mode."
 msgstr ""
+"Mokymas tiek miestelyje, tiek ir už jo ribų turi daug iššūkių. GIS kurso "
+"mokymas reikalauja įveikti šiuos iššūkius. Vidutiniškai 300-350 studentų "
+"įstoja į bazinį GIS kursą kiekvienais metais. Apie 80% iš jų studijuoja ne "
+"miestelyje."
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:17
 msgid "USQ Main Campus Map created using QGIS"
-msgstr ""
+msgstr "USQ pagrindinio studentų miestelio žemėlapis, sukurtas naudojant QGIS"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:20
 msgid "QGIS at the University of Southern Queensland"
-msgstr ""
+msgstr "QGIS Pietų Kvynslando Universitete"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:22
 msgid ""
@@ -64,6 +75,10 @@ msgid ""
 "issues of internet access, cost of software licenses and compatibility with "
 "different computer Operating Systems."
 msgstr ""
+"GIS mokymai nepilni be praktinių apdorojimo žinių. Bet teikti praktines GIS "
+"žinias studentams už miestelio ribų nėra paprasta, nes kyla problemų su "
+"interneto prieiga, programinės įrangos licencijų kainomis ir suderinamumu su"
+" skirtingomis kompiuterių Operacinėmis sistemomis."
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:24
 msgid ""
@@ -76,6 +91,13 @@ msgid ""
 " wasn’t considered fair to the students. Removing this inequity became a "
 "priority."
 msgstr ""
+"Tradiciškai USQ GIS mokymo programa buvo sukurta teikti skirtingus prieigos "
+"lygius prie GIS mokymo resursų. Vietoje besimokantys studentai gaudavo "
+"vienalaikes praktines GIS instrukcijas, o nuotoliniu būdu besimokantys "
+"studentai lankydavo mokyklą USQ pagrindiniame miestelyje vėliau, kad gautų "
+"praktines instrukcijas. Studentų nuomone nebuvo sąžininga, kad priklausomai "
+"nuo studijų formos buvo gaunami skirtingi instrukcijų lygiai. Šios nelygybės"
+" pašalinimas tapo prioritetu."
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:26
 msgid ""
@@ -86,6 +108,11 @@ msgid ""
 "adopted it and enriched it with additional learning resources developed at "
 "USQ."
 msgstr ""
+"Mūsų poreikiams buvo įvertinos skirtinga geoerdvinė programinė įranga. QGIS "
+"pasirodė labiausiai tinkamas visų mūsų iššūkių sprendimui. Ypatingai "
+"naudinga pasirodė laisvas priėjimas, draugiškumas, pritaikomumas ir "
+"nepriklausomybė nuo platformų. Mes jį panaudojom ir papildėm papildomais "
+"mokymosi resursais, sukurtais USQ."
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:28
 msgid ""
@@ -95,6 +122,11 @@ msgid ""
 " rewritten to require use of GIS software. Students completed more than 24 "
 "QGIS based hands-on exercises and an assignment during the semester."
 msgstr ""
+"Tradicinis „receptų“ mokymo metodas buvo pakeistas šiuolaikine audio-"
+"vizualine demonstracija, po kurios pateikiami į uždavinius orientuoti "
+"praktiniai pratimai. Kurso įvertinimai buvo perrašyti taip, kad reikalautų "
+"GIS programinės įrangos naudojimo. Semestro metu studentai baigė daugiau nei"
+" 24 QGIS paremtų praktinių pratimų ir užduočių."
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:30
 #, python-format
@@ -105,74 +137,88 @@ msgid ""
 "rated QGIS software and the hands-on learning resources as, ‘helpful’ to "
 "‘very helpful’ in learning GIS. Most others rated it as ‘reasonable’."
 msgstr ""
+"Vidutiniškai 93% kurso studentų naudojo QGIS programinę įrangą ir "
+"instrukcijų resursus. Savanoriški atsiliepimai buvo gauti iš 51% QGIS "
+"naudotojų. Rezultatai (Pav 2) rodo, kad dauguma (82%) studentų QGIS "
+"programinę įrangą ir praktinius mokymosi resursus įvertino nuo „naudingų“ "
+"iki „labai naudingų“ mokantis GIS. Dauguma kitų įvertino kaip „tinkamą“."
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:36
+msgid "Student response graph"
+msgstr ""
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:36
 msgid "Students response graph"
-msgstr ""
+msgstr "Studentų atsakymų diagrama"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:38
 msgid ""
 "Feedback comments to the question, *\"what were the best aspects of this "
 "course\"* included:"
 msgstr ""
+"Atsiliepimų atsakymų į klausimą *„kokie buvo geriausi kurso aspektai“* "
+"pavyzdžiai:"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:40
 msgid "*The detail in the recorded QGIS audio-visuals.*"
-msgstr ""
+msgstr "*Įrašytos QGIS audio-vizualinės medžiagos detalumas.*"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:41
 msgid "*Using and learning QGIS software*"
-msgstr ""
+msgstr "*QGIS programinės įrangos naudojimas ir mokymasis*"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:42
 msgid "*The QGIS software was interesting*"
-msgstr ""
+msgstr "*QGIS programinė įranga buvo įdomi*"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:43
 msgid "*I liked the course especially using QGIS*"
-msgstr ""
+msgstr "*Man patiko kursas, ypač QGIS naudojimas*"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:44
 msgid "*Good choice to use open source software*"
-msgstr ""
+msgstr "*Puiki proga naudoti atviro kodo programinę įrangą*"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:45
 msgid "*Videos to help navigate QGIS were fantastic*"
-msgstr ""
+msgstr "*QGIS orientavimosi pagalbos video medžiaga buvo fantastiška*"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:46
 msgid "*The practical activities and teaching of QGIS*"
-msgstr ""
+msgstr "*QGIS praktinės užduotys ir mokymas*"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:47
 msgid "*Having hands on use of programmes through QGIS*"
-msgstr ""
+msgstr "*Praktinis programų naudojimas su QGIS*"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:48
 msgid "*QGIS was great to get experience using GIS software*"
-msgstr ""
+msgstr "*QGIS buvo puiki susipažįstant su GIS programine įranga*"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:49
 msgid "*The QGIS training videos helped to learn the basics of a GIS package*"
-msgstr ""
+msgstr "*QGIS mokymo video medžiaga padėjo išmokti GIS paketo pagrindus*"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:50
 msgid ""
 "*The lectures helped with the QGIS by showing you exactly how to use the "
 "program*"
-msgstr ""
+msgstr "*Paskaitos padėjo su QGIS, parodant kaip tiksliai naudoti programą*"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:51
 msgid ""
 "*The use of QGIS helped break apart and understand theory delivered in this "
 "course*"
 msgstr ""
+"*QGIS naudojimas padėjo išsiveržti ir suprasti teoriją, kuri dėstoma šiame "
+"kurse*"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:52
 msgid ""
 "*The QGIS exercises are well designed and take students step by step through"
 " the process of using a GIS*"
 msgstr ""
+"*QGIS pratimai gerai sukurti ir leidžia studentams pažingsniui naudoti GIS*"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:54
 msgid ""
@@ -180,6 +226,9 @@ msgid ""
 "QGIS provided the same learning opportunity for each student enrolled in the"
 " course irrespective of where they were or how they accessed the material"
 msgstr ""
+"Akivaizdu, kad studentai gavo aiškios naudos naudodami QGIS. QGIS suteikė "
+"tokias pačias mokymosi galimybes kiekvienam įstojusiam studentui, "
+"nepriklausomai nuo to, kokiu būdu buvo pasiekiama mokymo medžiaga."
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:57
 msgid "Conclusion"
@@ -195,6 +244,13 @@ msgid ""
 "local environment and secondly, the assessment procedure should require use "
 "of the software."
 msgstr ""
+"Taigi QGIS programinės įrangos naudojimas dėstant GIS kursus mokymosi "
+"institucijose su internetu pasiekiamomis mokymosi aplinkomis suteikia "
+"didžiulę naudą tiek studentams, tiek ir universitetui. Yra du svarbūs "
+"aspektai, kad QGIS būtų sėkmingai naudojamas mokymuisi ir mokymui. Visų "
+"pirma reikia sukurti savo praktinio mokymosi resursus, tinkamus vietinei "
+"aplinkai. Antra, įvertinimo procedūra turi reikalauti programinės įrangos "
+"naudojimo."
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:62
 msgid "Authors"
@@ -211,6 +267,13 @@ msgid ""
 "research focus is in the development and use of open educational resources "
 "in GIS education."
 msgstr ""
+"Dr Badri Basnet (basnetb@usq.edu.au) yra Senior Lecturer Pietų Kvynslando "
+"Universitete (USQ), kur jis moko Geografines informacines sistemas (GIS) ir "
+"susijusius kursus.  Badri turi ilgalaikę mokymo patirtį aukštosiose mokymo "
+"institucijose Australijoje ir už jos ribų. Jis stipriai įsitraukęs į GIS "
+"kursų ruošimą ir mokymą internetinėje (arba nuotolinėje) mokymo aplinkoje. "
+"Jis mokymo ir tyrimo kryptis yra atvirų mokymosi resursų kūrimas GIS "
+"mokymui."
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:66
 msgid ""
@@ -221,4 +284,19 @@ msgid ""
 "functions, Plugins, and processing tools available through QGIS give it "
 "unparalleled flexibility in processing. This familiarity allows him to "
 "develop instructional QGIS videos based on Australian spatial data sets."
+msgstr ""
+"Dr Ernest Dunwoody (edunwoody1@gmail.com) specializuojasi GIS ir nuotolinių "
+"tyrimų vaizdų analizėje. Įskaitant ekosistemų analizę, tvaraus vystymo "
+"planus natūralioms sistemoms, dirvožemio žymėjimui, tikslaus žemės ūkio "
+"veiklos taikymams. Jis rado platų spektrą įkeltų funkcijų, Priedų ir "
+"apdorojimo įrankių, kurie QGIS prideda nepakartojamą apdorojimo lankstumą. "
+"Šis panašumas leidžia jam kurti QGIS video instrukcijas, naudojančias "
+"Australijos erdvinius duomenų rinkinius."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""

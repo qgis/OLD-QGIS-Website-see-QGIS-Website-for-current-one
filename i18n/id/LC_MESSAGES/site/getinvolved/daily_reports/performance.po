@@ -5,20 +5,21 @@
 # 
 # Translators:
 # Ridho Dwi Dharmawan <ridhodwidh@gmail.com>, 2021
+# Ali Mustopa <ali.m@amikom.ac.id>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-19 17:16+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-12-19 16:24+0000\n"
-"Last-Translator: Ridho Dwi Dharmawan <ridhodwidh@gmail.com>, 2021\n"
+"Last-Translator: Ali Mustopa <ali.m@amikom.ac.id>, 2022\n"
 "Language-Team: Indonesian (https://www.transifex.com/qgis/teams/6144/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -50,3 +51,11 @@ msgid ""
 "PerfSuite <http://github.com/Oslandia/QGIS-Server-PerfSuite>`_ project is "
 "the deployment infrastructure to run Graffiti in continuous integration."
 msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "cekbox_tidakterpilih"

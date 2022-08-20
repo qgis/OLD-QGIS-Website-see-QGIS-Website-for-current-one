@@ -6,30 +6,31 @@
 # Translators:
 # Tahir Tamba <tahir.tamba@gmail.com>, 2019
 # VxTedxV <viple.ted@gmx.fr>, 2019
-# Marjorie FANGAIN <marjorie.fangain@keolis.com>, 2019
+# Marjorie FANGAIN, 2019
 # Jürgen E. Fischer <jef@norbit.de>, 2020
 # Francis Gasc <francisgasc@gmail.com>, 2020
 # Corentin LEMAITRE <corentinlemaitre@gmail.com>, 2020
-# Marina Frémondière <fremondiere.marina@outlook.fr>, 2020
-# MarieSilvestre, 2020
+# b31994bd26b04612946259081d1c915e_a9dfd7a <d72ed20533cb6a25d79c85f870072e7e_873411>, 2020
 # Vincent Bré <vincent.bre@outlook.fr>, 2020
-# Harrissou Sant-anna, 2020
+# MarieSilvestre, 2021
+# Maxence Gérard, 2022
+# Harrissou Sant-anna, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:43+0000\n"
-"Last-Translator: Harrissou Sant-anna, 2020\n"
+"Last-Translator: Harrissou Sant-anna, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:5
 msgid "Changelog for QGIS 3.6"
@@ -38,6 +39,10 @@ msgstr "Modifications apportées par QGIS 3.6"
 #: ../../source/site/forusers/visualchangelog36/index.rst:7
 msgid "|image1|"
 msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1509
+msgid "image1"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:9
 msgid ""
@@ -139,6 +144,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:32
 msgid "|image2|"
 msgstr "|image2|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1511
+msgid "image2"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:34
 #: ../../source/site/forusers/visualchangelog36/index.rst:41
@@ -383,6 +392,10 @@ msgstr ""
 msgid "|image3|"
 msgstr "|image3|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1513
+msgid "image3"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:114
 #: ../../source/site/forusers/visualchangelog36/index.rst:474
 #: ../../source/site/forusers/visualchangelog36/index.rst:1080
@@ -604,6 +617,10 @@ msgstr ""
 msgid "|image4|"
 msgstr "|image4|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1515
+msgid "image4"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:181
 msgid "Feature: Multiline selections and editing in code/expression editors"
 msgstr ""
@@ -706,8 +723,8 @@ msgid ""
 "This feature was developed by `Nyall Dawson (North Road) <https://north-"
 "road.com>`__"
 msgstr ""
-"Cette fonctionnalité a été développée par `Nyall Dawson (North Road) <https"
-"://north-road.com/>`__"
+"Cette fonctionnalité a été développée par `Nyall Dawson (North Road) "
+"<https://north-road.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:200
 msgid ""
@@ -764,8 +781,8 @@ msgid ""
 "This feature was developed by `Nyall Dawson (North Road) <http://north-"
 "road.com>`__"
 msgstr ""
-"Cette fonctionnalité a été développée par `Nyall Dawson (North Road) <http"
-"://north-road.com>`__"
+"Cette fonctionnalité a été développée par `Nyall Dawson (North Road) "
+"<http://north-road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:213
 msgid ""
@@ -816,6 +833,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:228
 msgid "|image5|"
 msgstr "|image5|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1517
+msgid "image5"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:233
 msgid ""
@@ -881,6 +902,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:256
 msgid "|image6|"
 msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1519
+msgid "image6"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:258
 #: ../../source/site/forusers/visualchangelog36/index.rst:339
@@ -961,6 +986,10 @@ msgstr ""
 msgid "|image7|"
 msgstr "|image7|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1521
+msgid "image7"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:295
 msgid "This feature was funded by OSGeo UK, GeoServer PSC, Brad Hards"
 msgstr ""
@@ -968,8 +997,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:297
 msgid ""
-"This feature was developed by `Luigi Pirelli and GeoSolutions <https://www"
-".geo-solutions.it/>`__"
+"This feature was developed by `Luigi Pirelli and GeoSolutions "
+"<https://www.geo-solutions.it/>`__"
 msgstr ""
 "Cette fonctionnalité a été développée par `Luigi Pirelli and GeoSolutions "
 "<https://www.geo-solutions.it/>`__"
@@ -995,6 +1024,10 @@ msgstr ""
 msgid "|image8|"
 msgstr "|image8|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1523
+msgid "image8"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:310
 msgid ""
 "This feature was developed by `Faneva Andriamiadantsoa "
@@ -1007,6 +1040,8 @@ msgstr ""
 msgid ""
 "Feature: New option to avoid minimizing georeferencer when adding points"
 msgstr ""
+"Fonctionnalité : Nouvelle option pour désactiver la minimisation du "
+"géoréférenceur lors de l'ajout de points"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:315
 msgid ""
@@ -1015,6 +1050,12 @@ msgid ""
 "canvas. This behaviour can be annoying on multi-monitor setups where it can "
 "be desirable to have both windows visible while adding points."
 msgstr ""
+"Les utilisateurs ont maintenant la possibilité de désactiver la minimisation"
+" automatique de la fenêtre de géoréférencement qui se produit lorsque des "
+"nouveaux points de contrôle sont ajoutés à partir du canevas de carte. Ce "
+"comportement peut être pénible pour les configurations à plusieurs écrans où"
+" il peut être avantageux d'avoir les deux fenêtres visibles lors du "
+"géoréférencement."
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:320
 msgid "Data Management"
@@ -1329,6 +1370,10 @@ msgstr ""
 msgid "|image9|"
 msgstr "|image9|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1525
+msgid "image9"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:493
 msgid "Feature: Explode HStore algorithm"
 msgstr ""
@@ -1343,6 +1388,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:498
 msgid "|image10|"
 msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1527
+msgid "image10"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:500
 msgid ""
@@ -1368,6 +1417,10 @@ msgstr ""
 msgid "|image11|"
 msgstr "|image11|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1529
+msgid "image11"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:514
 msgid "Feature: Extract Binary Field algorithm"
 msgstr ""
@@ -1379,6 +1432,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:518
 msgid "|image12|"
 msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1531
+msgid "image12"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:525
 msgid "Feature: Split Lines by Maximum Length algorithm"
@@ -1399,6 +1456,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:531
 msgid "|image13|"
 msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1533
+msgid "image13"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:533
 msgid "This feature was developed by Nyall Dawson, Nathan Woodrow"
@@ -1452,6 +1513,10 @@ msgstr ""
 msgid "|image14|"
 msgstr "|image14|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1535
+msgid "image14"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:563
 msgid "Feature: Extract Z values and Extract M values algorithms"
 msgstr ""
@@ -1489,12 +1554,19 @@ msgid ""
 "segment. The current project ellipsoid setting will be used when calculating"
 " this breakpoint."
 msgstr ""
+"Chaque fois que des segments de ligne dans la géométrie d'entrée traversent "
+"l'antiméridien, ils seront divisés en deux segments, la latitude du point "
+"d'arrêt étant déterminée à l'aide d'une ligne géodésique reliant les points "
+"de chaque côté de ce segment. Le paramètre ellipsoïde du projet actuel sera "
+"utilisé lors du calcul de ce point d'arrêt."
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:579
 msgid ""
 "If the input geometry contains M or Z values, these will be linearly "
 "interpolated for the new vertices created at the antimeridian."
 msgstr ""
+"Si la géométrie d'entrée contient des valeurs M ou Z, celles-ci seront "
+"interpolées linéairement pour les nouveaux sommets créés à l'antiméridien."
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:581
 msgid "Supports in-place edit mode also."
@@ -1539,6 +1611,10 @@ msgstr ""
 msgid "|image15|"
 msgstr "|image15|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1537
+msgid "image15"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:604
 msgid "Feature: Resurrected model to Python script functionality"
 msgstr ""
@@ -1552,6 +1628,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:608
 msgid "|image16|"
 msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1539
+msgid "image16"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:610
 msgid "This feature was funded by `Solspec <http://solspec.io>`__"
@@ -1577,6 +1657,10 @@ msgstr ""
 msgid "|image17|"
 msgstr "|image17|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1541
+msgid "image17"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:629
 msgid "Browser"
 msgstr "Explorateur"
@@ -1599,13 +1683,17 @@ msgstr ""
 msgid "|image18|"
 msgstr "|image18|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1543
+msgid "image18"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:638
 msgid ""
 "This feature was funded by `Nyall Dawson (North Road) <https://north-"
 "road.com>`__"
 msgstr ""
-"Cette fonctionnalité a été financée par `Nyall Dawson (North Road) <https"
-"://north-road.com>`__"
+"Cette fonctionnalité a été financée par `Nyall Dawson (North Road) "
+"<https://north-road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:643
 msgid "Feature: Native file/folder properties"
@@ -1642,6 +1730,10 @@ msgstr ""
 msgid "|image19|"
 msgstr "|image19|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1545
+msgid "image19"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:663
 msgid "Feature: Explore QGS/QGZ project files in the browser"
 msgstr ""
@@ -1673,6 +1765,10 @@ msgstr ""
 msgid "|image20|"
 msgstr "|image20|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1547
+msgid "image20"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:683
 msgid "Feature: Open Terminal at Path"
 msgstr ""
@@ -1698,6 +1794,10 @@ msgstr ""
 msgid "|image21|"
 msgstr "|image21|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1549
+msgid "image21"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:696
 msgid "General"
 msgstr "Général"
@@ -1709,6 +1809,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:701
 msgid "|image22|"
 msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1551
+msgid "image22"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:703
 msgid ""
@@ -1752,6 +1856,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:721
 msgid "|image23|"
 msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1553
+msgid "image23"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:723
 msgid ""
@@ -1936,6 +2044,10 @@ msgstr ""
 msgid "|image24|"
 msgstr "|image24|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1555
+msgid "image24"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:828
 msgid "This feature was developed by Marco Hugentobler"
 msgstr "Cette fonctionnalité a été développée par Marco Hugentobler"
@@ -2008,6 +2120,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:875
 msgid "|image25|"
 msgstr "|image25|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1557
+msgid "image25"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:880
 msgid "Programmability"
@@ -2251,8 +2367,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1014
 msgid ""
-"See https://north-road.com/2019/01/14/on-custom-layout-checks-in-qgis-3-6"
-"-and-how-they-can-do-your-work-for-you/"
+"See https://north-road.com/2019/01/14/on-custom-layout-checks-in-"
+"qgis-3-6-and-how-they-can-do-your-work-for-you/"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1021
@@ -2356,6 +2472,10 @@ msgstr ""
 msgid "|image26|"
 msgstr "|image26|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1559
+msgid "image26"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:1069
 msgid "This feature was funded by QGIS community"
 msgstr "Cette fonctionnalité a été financée par la communauté QGIS"
@@ -2379,6 +2499,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:1078
 msgid "|image27|"
 msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1561
+msgid "image27"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1086
 msgid "Notable Fixes"
@@ -3880,7 +4004,7 @@ msgstr "`#20523 <https://issues.qgis.org/issues/20523>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1312
 msgid "Works for me"
-msgstr ""
+msgstr "Fonctionne pour moi"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1314
 msgid "Can't remove a constraint set on a field once saved"
@@ -4969,6 +5093,18 @@ msgstr ""
 "Cette fonctionnalité a été développée par `Hugo Mercier "
 "<https://oslandia.com/>`__"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1563
+msgid "image28"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
 #~ msgid ""
 #~ ":raw-html:`<div id=\"qgissponsorsatom\"> <!-- to be filled via javascript "
 #~ "loading of atom feed --> </div>`"
@@ -4999,5 +5135,5 @@ msgstr ""
 #~ "This feature was funded by `Nyall Dawson (North Road) <http://north-"
 #~ "road.com>`__"
 #~ msgstr ""
-#~ "Cette fonctionnalité a été financée par `Nyall Dawson (North Road) <http"
-#~ "://north-road.com>`__"
+#~ "Cette fonctionnalité a été financée par `Nyall Dawson (North Road) "
+#~ "<http://north-road.com>`__"

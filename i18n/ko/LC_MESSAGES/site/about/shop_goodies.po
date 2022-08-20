@@ -5,14 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
-"PO-Revision-Date: 2019-11-02 11:49+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: BJ Jang <jangbi882@gmail.com>, 2015,2017\n"
 "Language-Team: Korean (http://www.transifex.com/qgis/qgis-website/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -28,11 +28,17 @@ msgid ""
 "stores below!"
 msgstr "QGIS의 팬이시라면, 우리 상점을 방문하셔서 데스크탑 GIS에 대한 호감을 보여줄 수 있는 기념품을 사실 수 있습니다. 우리는 다수의 멋진 티셔츠, 머그컵, 후드티, 모자 등을 판매하고 있으니 아래의 우리 상점을 방문해 주세요!"
 
+msgid "QGIS mugs"
+msgstr ""
+
 #: ../../source/site/about/shop_goodies.rst:16
 msgid ""
-"Buying QGIS apparrel not only lets you show off the fact that you use QGIS, "
-"for every t-shirt sold a commision is given to the QGIS project."
-msgstr "QGIS 기념품을 사는 것은 당신이 QGIS를 사용하고 있음을 뽐낼 뿐 아니라, 모든 티셔츠의 판매 수익금은 QGIS 프로젝트에 전달됩니다."
+"Buying QGIS apparel not only lets you show off the fact that you use QGIS, "
+"for every t-shirt sold a commission is given to the QGIS project."
+msgstr ""
+
+msgid "QGIS tshirt"
+msgstr ""
 
 #: ../../source/site/about/shop_goodies.rst:25
 msgid "Shops"
@@ -45,7 +51,10 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/about/shop_goodies.rst:30
-msgid "http://shop.spreadshirt.net/qgis/"
+msgid "https://shop.spreadshirt.net/qgis/"
+msgstr ""
+
+msgid "QGIS Hoodie"
 msgstr ""
 
 #: ../../source/site/about/shop_goodies.rst:37
@@ -56,6 +65,14 @@ msgstr ""
 
 #: ../../source/site/about/shop_goodies.rst:39
 msgid "https://www.redbubble.com/shop/qgis"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid "QGIS shop"
@@ -109,4 +126,12 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "http://shop.spreadshirt.net/qgis/ (Europe)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Buying QGIS apparrel not only lets you show off the fact that you use QGIS, "
+#~ "for every t-shirt sold a commision is given to the QGIS project."
+#~ msgstr ""
+
+#~ msgid "http://shop.spreadshirt.net/qgis/"
 #~ msgstr ""

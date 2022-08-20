@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 20:36+0100\n"
-"PO-Revision-Date: 2020-03-16 09:28+0000\n"
-"Last-Translator: alexbruy <alexander.bruy@gmail.com>\n"
+"PO-Revision-Date: 2016-03-05 14:48+0000\n"
+"Last-Translator: Andrey Golovin, 2016\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,7 +28,7 @@ msgid ""
 "This section describes how to get started using the QGIS GIT repository. "
 "Before you can do this, you need to first have a git client installed on "
 "your system."
-msgstr ""
+msgstr "У цьому розділі описано, як розпочати роботу з QGIS GIT репозиторією. Перш ніж це зробити, потрібно щоб git-клієнт був попередньо встановлений у вашій системі."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:11
 msgid "Installation"
@@ -36,15 +36,15 @@ msgstr "Встановлення"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:14
 msgid "Install git for GNU/Linux"
-msgstr ""
+msgstr "Встановити git для GNU/Linux"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:16
 msgid "Debian based distro users can do:"
-msgstr ""
+msgstr "Користувачі збірок на основі Debian можуть:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:24
 msgid "Install git for Windows"
-msgstr ""
+msgstr "Встановити git для Windows"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:26
 msgid ""
@@ -54,7 +54,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:30
 msgid "Install git for OSX"
-msgstr ""
+msgstr "Встановити git для OSX"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:32
 msgid ""
@@ -65,18 +65,18 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:35
 msgid "Once downloaded open the disk image and run the installer."
-msgstr ""
+msgstr "Після завантаження відкрийте образ диска та запустіть інсталятор."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:37
 msgid "PPC/source note"
-msgstr ""
+msgstr "PPC/примітка вихідного файлу"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:39
 msgid ""
 "The git site does not offer PPC builds. If you need a PPC build, or you just"
 " want a little more control over the installation, you need to compile it "
 "yourself."
-msgstr ""
+msgstr "Сайт git не пропонує PPC збірки. Якщо вам потрібна PPC збірка, або ви просто хочете мати трошки більше контролю над встановленням, вам потрібно буде скомпілювати її самостійно."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:42
 msgid ""
@@ -88,27 +88,27 @@ msgstr ""
 msgid ""
 "If you don't need any of the extras, Perl, Python or TclTk (GUI), you can "
 "disable them before running make with:"
-msgstr ""
+msgstr "Якщо вам не потрібно нічого додаткового, Perl, Python або TclTk (GUI), ви можете відключити їх перед запуском make з:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:59
 msgid "Accessing the Repository"
-msgstr ""
+msgstr "Доступ до репозиторії"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:62
 msgid "To clone QGIS master:"
-msgstr ""
+msgstr "Щоб склонувати QGIS master:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:70
 msgid "Check out a branch"
-msgstr ""
+msgstr "Перевірте відгалудження"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:72
 msgid "To check out a branch, for example the release 2.6.1 branch do:"
-msgstr ""
+msgstr "Щоб перевірити відгалудження, наприклад версію 2.6.1 відгалудження, зробіть:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:81
 msgid "To check out the master branch:"
-msgstr ""
+msgstr "Щоб перевірити master відгалудження:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:88
 msgid ""
@@ -116,7 +116,7 @@ msgid ""
 "contains code for the so called 'unstable' release series. Periodically we "
 "will branch a release off master, and then continue stabilisation and "
 "selective incorporation of new features into master."
-msgstr ""
+msgstr "В QGIS ми тримаємо наш найстабільніший код у відгалудженні поточного випуску. Master містить код від так званих 'нестабільних' серійних релізів. Періодично ми будемо розгалужувати реліз від master, щоб далі продовжити стабілізацію та вибіркове впровадження нових функцій у master."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:93
 msgid ""
@@ -407,7 +407,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:282
 msgid "Option A:"
-msgstr ""
+msgstr "Опція A:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:284
 msgid "click the merge button (Creates a non-fast-forward merge)"
@@ -415,7 +415,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:286
 msgid "Option B:"
-msgstr ""
+msgstr "Опція B:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:288
 msgid ""
@@ -553,11 +553,11 @@ msgstr ""
 #~ "QGIS developers are busy folk. We do scan the incoming patches on bug "
 #~ "reports but sometimes we miss things. Don't be offended or alarmed. Try to "
 #~ "identify a developer to help you - using the `Technical Resources "
-#~ "<https://qgis.org/en/site/getinvolved/governance/organisation/governance.html"
-#~ "#community-resources>`_ and contact them asking them if they can look at "
-#~ "your patch. If you don't get any response, you can escalate your query to "
-#~ "one of the Project Steering Committee members (contact details also "
-#~ "available in the Technical Resources)."
+#~ "<https://qgis.org/en/site/getinvolved/governance/organisation/governance.html#community-"
+#~ "resources>`_ and contact them asking them if they can look at your patch. If"
+#~ " you don't get any response, you can escalate your query to one of the "
+#~ "Project Steering Committee members (contact details also available in the "
+#~ "Technical Resources)."
 #~ msgstr ""
 
 #~ msgid ""

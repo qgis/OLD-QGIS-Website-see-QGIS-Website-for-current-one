@@ -11,14 +11,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 20:36+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:41+0000\n"
 "Last-Translator: josep constantí mata <iceberg.jcm@gmail.com>, 2020\n"
 "Language-Team: Catalan (https://www.transifex.com/qgis/teams/6144/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -104,6 +104,10 @@ msgid ""
 "QGIS users. The results (Figure 2) show the majority (82%) of the students "
 "rated QGIS software and the hands-on learning resources as, ‘helpful’ to "
 "‘very helpful’ in learning GIS. Most others rated it as ‘reasonable’."
+msgstr ""
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:36
+msgid "Student response graph"
 msgstr ""
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:36
@@ -221,4 +225,12 @@ msgid ""
 "functions, Plugins, and processing tools available through QGIS give it "
 "unparalleled flexibility in processing. This familiarity allows him to "
 "develop instructional QGIS videos based on Australian spatial data sets."
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""

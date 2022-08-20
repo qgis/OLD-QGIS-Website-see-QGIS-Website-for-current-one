@@ -3,24 +3,33 @@
 # 古川 泰人, 2013-2014
 # Kayama Yoichi <yoichi.kayama@gmail.com>, 2013-2015
 # Satoshi IIDA <nyampire@gmail.com>, 2014
-# 藤本理弘 <mfujimot@gmail.com>, 2019
+# Masahiro FUJIMOTO <mfujimot@gmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-17 08:12\n"
-"PO-Revision-Date: 2019-11-07 16:32+0000\n"
-"Last-Translator: 藤本理弘 <mfujimot@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Masahiro FUJIMOTO <mfujimot@gmail.com>, 2019\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/docs/index.rst:2
 msgid "Documentation"
 msgstr "ドキュメント"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "QGIS has a lot of documentation, partly translated. Please have a look into "

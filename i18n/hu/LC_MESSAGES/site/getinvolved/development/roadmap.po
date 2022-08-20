@@ -3,20 +3,21 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
+# Báthory Péter <bathory86p@gmail.com>, 2021-2022
 # Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2017
 # Zoltan Siki <siki.zoltan@epito.bme.hu>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
-"PO-Revision-Date: 2020-10-26 10:56+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2016-03-05 14:48+0000\n"
+"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2021-2022\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -26,15 +27,15 @@ msgstr "Ütemterv"
 
 #: ../../source/site/getinvolved/development/roadmap.rst:8
 msgid "Releases and development of QGIS follow a timebased schedule."
-msgstr ""
+msgstr "A QGIS kiadása és fejlesztése időalapú ütemezés szerint történik."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:10
 msgid "Even version numbers (2.18, 3.2 etc) are release versions."
-msgstr ""
+msgstr "A páros verziószámok (2.18, 3.2 stb.) a kiadott verziók."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:12
 msgid "Odd version numbers (2.99, 3.1 etc) are development versions."
-msgstr ""
+msgstr "A páratlan verziószámok (2.99, 3.1, stb.) a fejlesztői verziók."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:14
 msgid ""
@@ -44,7 +45,7 @@ msgid ""
 "translation and release preparations. When the release happens, a branch "
 "with an even release number is created and the master branch advances to the"
 " next odd version. After the release a call for packaging is issued."
-msgstr ""
+msgstr "Minden negyedik hónapban történik egy kiadás. Az első három hónapban új fejlesztések zajlanak. A kiadás előtti utolsó hónapban a funkcióbővítést befagyasztjuk, az utolsó hónap pedig a tesztelésre, a hibajavításra, a fordításra és a kiadás előkészítésére szolgál. Amikor a kiadás megtörténik, egy páros kiadási számmal rendelkező ág jön létre, és a fő ág továbblép a következő páratlan verzióra. A kiadás után felhívást adunk ki a csomagkészítésre."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:22
 msgid ""
@@ -62,11 +63,11 @@ msgid ""
 "next release. Early adopters can use the nightly builds we have for all "
 "major platforms to see the development progress, do preliminary testing and "
 "provide bug reports and their thoughts to help with development."
-msgstr ""
+msgstr "A fejlesztési szakaszban a fejlesztők új funkciókat adnak a következő kiadáshoz. A korai alkalmazók a napi összeállításokat (nightly build) – melyet minden fontos platformra elkészítünk – használhatják a fejlesztési folyamat követésére, előzetes tesztelésre illetve hibajelentést küldhetnek, valamint megoszthatják gondolataikat, hogy segítsék a fejlesztést."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:34
 msgid "Feature freeze"
-msgstr "Funkció bővítés befagyasztása"
+msgstr "Funkcióbővítés befagyasztása"
 
 #: ../../source/site/getinvolved/development/roadmap.rst:36
 msgid ""
@@ -74,7 +75,7 @@ msgid ""
 " focus of everyone moves from enhancing QGIS to stabilizing it.  This also "
 "turns the nightly builds effectively into :ref:`prereleases <QGIS-"
 "prereleases>`."
-msgstr ""
+msgstr "A funkció bővítés befagyasztásának időszakban új funkcionalitás hozzáadása tilos, mert a hangsúly a QGIS bővítéséről a stabilizálásra helyeződik át. A napi kiadások :ref:`előzetes kiadássá <QGIS-prereleases>` változnak."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:40
 msgid ""
@@ -85,14 +86,14 @@ msgid ""
 "will also end up in the next release.  Only in case of serious problems "
 "backports to a latest release will occur.  Therefore testing of the "
 "prereleases and reporting issues is very important."
-msgstr "A **felhasználóknak** kiterjedt tesztet kellene kezdenie ezeken az előzetes kiadásokon, hogy ellenőrizzék nincsenek problémák, melyeket nem szeretnének látni az új kiadásban. Minden ilyen problémát jelenteni kell (lásd  :ref:`Bugs, Features and Issues <QGIS-bugreporting>`). Minden amit nem vesznek észre benne marad következő kiadásban. Csak súlyos probléma esetén történik meg a hibajavítás a legutolsó kiadáson. Ezért az előzetes kiadások tesztelése és a problémák jelentése nagyon fontos."
+msgstr "A **felhasználóknak** el kell kezdeniük ezen előzetes kiadások alapos tesztelését a saját környezetükben, hogy megbizonyosodjanak arról, hogy nincsenek olyan problémák, amelyeket nem szeretnének látni a közelgő kiadásban. Minden ilyen problémát jelenteni kell (lásd  :ref:`Hibák, funkciók és problémák <QGIS-bugreporting>`). Minden amit nem vesznek észre, benne marad következő kiadásban. A legutolsó kiadásba csak súlyos probléma esetén történik meg a hibajavítások visszaportolása, ezért az előzetes kiadások tesztelése és a problémák jelentése nagyon fontos."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:49
 msgid ""
 "In the feature freeze, **developers** monitor the bugtracker and start "
 "working on fixing the reported issues and update the **visual changelog** "
 "with the features they added."
-msgstr ""
+msgstr "A befagyasztott funkcióbővítés alatt a **fejlesztők** figyelemmel követik a hibajegyeket és elkezdenek dolgozni a bejelentett problémák megoldásán, valamint frissítik a **vizuális változásnaplót** az általuk hozzáadott fejlesztésekkel."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:53
 msgid ""
@@ -100,18 +101,18 @@ msgid ""
 "so that **translators** can start their work. Note that this might be an "
 "incremental process as although the features are frozen, bug fixes might "
 "still introduce translation string changes."
-msgstr ""
+msgstr "A funkció bővítés befagyasztás kezdetekor a fordítási fájlokat aktualizálják, hogy a **fordítók** elkezdhessenek dolgozni. Vegye figyelembe, hogy ez egy többlépéses folyamat lehet, bár a funkció bővítést befagyasztották, a hibajavítás során változhatnak a lefordítandó szövegek is."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:58
 msgid ""
 "Two weeks before the release, a hard freeze is initiated after which only "
 "fixes to severe problems and regressions introduced after the feature freeze"
 " are allowed in."
-msgstr ""
+msgstr "Két héttel a kiadás előtt elkezdődik a teljes befagyasztás, ami alatt csak a súlyos problémák és a funkcióbővítés kezdete óta bekerült regressziók javítását engedélyezik."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:62
 msgid "The release manager announces this on feature freeze."
-msgstr ""
+msgstr "Ezt a kiadásfelelős jelenti be a funkcióbővítés befagyasztásakor."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:65
 msgid "Release"
@@ -122,729 +123,626 @@ msgid ""
 "On major and minor release dates, the release branch is created and the "
 "release is tagged and tar balls are prepared.  Point releases are just "
 "tagged and tar balls are created."
-msgstr ""
+msgstr "A főverziók és alverziók megjelenése napján létrehoznak egy új fejlesztési ágat és megcímkézik a kiadást, valamint előkészítik a tar csomagokat. Pontkiadás esetén nem jön létre új fejlesztési ág."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:71
 msgid "The packagers are notified that packaging can begin."
-msgstr ""
+msgstr "Értesítik a csomagkészítőket és megkezdődik a csomagkészítés."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:73
 msgid ""
 "Once some packages are available the release can be announced and the "
 "website is updated accordingly."
-msgstr ""
+msgstr "Amint néhány csomag elérhetővé válik, a kiadást be lehet jelenteni, és ennek megfelelően frissül a webhely."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:80
 msgid "Release schedule"
-msgstr "Kiadás menetrend"
+msgstr "Kiadási ütemterv"
 
 #: ../../source/site/getinvolved/development/roadmap.rst:82
 msgid ""
 "The schedule is aligned to produce roughly the same dates for each year "
 "given our four monthly releases with LTRs in late february."
-msgstr "Az ütemtervet úgy alakítottuk, hogy a négy hónapos kiadások során az LTR-ek minden évben közel azonos időpontban, február végén készüljenek el."
+msgstr "Az ütemtervet úgy alakítottuk, hogy a rendszeres négy hónaponkénti kiadásokat követően az LTR-ek minden évben közel azonos időpontban, február végén készüljenek el."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:85
 msgid ""
 "Beginning after 2.12 the development phase is always 12 weeks and the freeze"
 " phase is at least 5 weeks.  Remainders are used to extend the freeze phase "
 "of LTR releases."
-msgstr "A 2.12 verzió után kezdődő fejlesztési fázisok mindig 12 hetesek és a fagyasztási fázisok legalább 5 hetesek. A fennmaradó időt az LTR kiadások fagyasztási idejének kiterjesztésére használjuk."
+msgstr "A 2.12-es verzió óta a fejlesztési fázisok mindig 12 hetesek és a befagyasztási fázisok legalább 5 hetesek. A fennmaradó időt az LTR kiadások befagyasztási idejének kiterjesztésére használjuk."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:89
 msgid ""
 "Point releases will happen every month on the latest release branch and the "
 "LTR branch, if there are backports."
-msgstr "Pontkiadások minden hónapban közzé lesznek téve az utolsó kiadási és hosszú távú kiadási ágat követően, amikor azok már backportok lesznek. "
+msgstr "Pontkiadások minden hónapban közzé lesznek téve az utolsó kiadás és a hosszú távú kiadás ágában, ha vannak újabb fejlesztésekből visszaportolt fejlesztések."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:92
 msgid ""
 "In the first four months after its release, a new LTR is also the current "
 "LR. In this phase, the new LTR doesn't replace the previous LTR in the LTR "
 "repositories.  This happens as soon as a new LR is released."
-msgstr ""
+msgstr "A megjelenést követő első négy hónapban az új LTR (hosszútávú kiadás) egyben a jelenlegi LR (legutóbbi kiadás) is. Ebben a fázisban az új LTR még nem váltja fel a korábbi LTR-t az LTR-tárolókban. Ez csak a következő LR verzió megjelenésekor történik meg."
 
 #: ../../source/site/getinvolved/development/roadmap.rst:96
 msgid "This schedule is also available as `\"iCalendar\" </schedule.ics>`_."
-msgstr ""
+msgstr "Ez az ütemezés `„iCalendar” </schedule.ics>`_ formában is elérhető."
 
-#: ../../source/site/getinvolved/development/roadmap.rst:98
-msgid "Schedule:"
-msgstr "Menetrend"
+#: ../../source/site/getinvolved/development/schedule.inc:7
+msgid "Schedule"
+msgstr "Ütemterv"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:105
-#: ../../source/site/getinvolved/development/schedule.inc:4
+#: ../../source/site/getinvolved/development/roadmap.rst:1
+#: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "Event"
 msgstr "Esemény"
 
-#: ../../source/site/getinvolved/development/schedule.inc:4
+#: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "Latest"
-msgstr ""
+msgstr "Legújabb"
 
-#: ../../source/site/getinvolved/development/schedule.inc:4
+#: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "Long-Term Repo"
-msgstr ""
+msgstr "Hosszútávú kiadás tároló"
 
-#: ../../source/site/getinvolved/development/schedule.inc:4
+#: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "Freeze"
-msgstr ""
+msgstr "Befagyasztás"
 
-#: ../../source/site/getinvolved/development/schedule.inc:4
+#: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "Date"
 msgstr "Dátum"
 
-#: ../../source/site/getinvolved/development/schedule.inc:4
+#: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "Week #"
 msgstr "Hét #"
 
-#: ../../source/site/getinvolved/development/schedule.inc:4
+#: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "Weeks"
 msgstr "Hét"
 
-#: ../../source/site/getinvolved/development/schedule.inc:7
-#: ../../source/site/getinvolved/development/schedule.inc:22
-#: ../../source/site/getinvolved/development/schedule.inc:33
-msgid "**LTR**/PR"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "LTR/PR"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:7
-msgid "3.4.0"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.22.0`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:7
-msgid "2.18.25"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.16.12`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:7
-msgid "2018-10-26"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2021-10-22"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:7
-#: ../../source/site/getinvolved/development/schedule.inc:22
-#: ../../source/site/getinvolved/development/schedule.inc:33
+#: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "43"
 msgstr "43"
 
-#: ../../source/site/getinvolved/development/schedule.inc:7
-#: ../../source/site/getinvolved/development/schedule.inc:8
-#: ../../source/site/getinvolved/development/schedule.inc:9
-#: ../../source/site/getinvolved/development/schedule.inc:10
-#: ../../source/site/getinvolved/development/schedule.inc:12
-#: ../../source/site/getinvolved/development/schedule.inc:13
-#: ../../source/site/getinvolved/development/schedule.inc:14
-#: ../../source/site/getinvolved/development/schedule.inc:16
-#: ../../source/site/getinvolved/development/schedule.inc:17
-#: ../../source/site/getinvolved/development/schedule.inc:20
-#: ../../source/site/getinvolved/development/schedule.inc:25
-#: ../../source/site/getinvolved/development/schedule.inc:26
-#: ../../source/site/getinvolved/development/schedule.inc:27
-#: ../../source/site/getinvolved/development/schedule.inc:29
-#: ../../source/site/getinvolved/development/schedule.inc:30
-#: ../../source/site/getinvolved/development/schedule.inc:31
-#: ../../source/site/getinvolved/development/schedule.inc:33
-#: ../../source/site/getinvolved/development/schedule.inc:34
-#: ../../source/site/getinvolved/development/schedule.inc:35
-#: ../../source/site/getinvolved/development/schedule.inc:37
-msgid "4"
-msgstr "4"
-
-#: ../../source/site/getinvolved/development/roadmap.rst:113
-#: ../../source/site/getinvolved/development/schedule.inc:8
-msgid "EPR"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:8
-msgid "3.4.1"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:8
-msgid "2018-11-02"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:8
-msgid "44"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/roadmap.rst:112
-#: ../../source/site/getinvolved/development/schedule.inc:9
-#: ../../source/site/getinvolved/development/schedule.inc:10
-#: ../../source/site/getinvolved/development/schedule.inc:13
-#: ../../source/site/getinvolved/development/schedule.inc:14
-#: ../../source/site/getinvolved/development/schedule.inc:17
-#: ../../source/site/getinvolved/development/schedule.inc:18
-#: ../../source/site/getinvolved/development/schedule.inc:20
-#: ../../source/site/getinvolved/development/schedule.inc:23
-#: ../../source/site/getinvolved/development/schedule.inc:26
-#: ../../source/site/getinvolved/development/schedule.inc:27
-#: ../../source/site/getinvolved/development/schedule.inc:30
-#: ../../source/site/getinvolved/development/schedule.inc:31
-#: ../../source/site/getinvolved/development/schedule.inc:34
-#: ../../source/site/getinvolved/development/schedule.inc:35
-msgid "PR"
-msgstr "PR"
-
-#: ../../source/site/getinvolved/development/schedule.inc:9
-msgid "3.4.2"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:9
-msgid "2.18.26"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:9
-msgid "2018-11-23"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:9
-#: ../../source/site/getinvolved/development/schedule.inc:34
-msgid "47"
-msgstr "47"
-
-#: ../../source/site/getinvolved/development/schedule.inc:10
-msgid "3.4.3"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:10
-msgid "2.18.27"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:10
-msgid "2018-12-21"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:10
-#: ../../source/site/getinvolved/development/schedule.inc:35
-msgid "51"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:11
-#: ../../source/site/getinvolved/development/schedule.inc:15
-#: ../../source/site/getinvolved/development/schedule.inc:24
-#: ../../source/site/getinvolved/development/schedule.inc:28
-#: ../../source/site/getinvolved/development/schedule.inc:32
-#: ../../source/site/getinvolved/development/schedule.inc:36
-msgid "PR/FF"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:11
-msgid "3.4.4"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:11
-msgid "2.18.28"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:11
-msgid "3.5"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:11
-msgid "2019-01-18"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:11
-#: ../../source/site/getinvolved/development/schedule.inc:18
-#: ../../source/site/getinvolved/development/schedule.inc:24
-#: ../../source/site/getinvolved/development/schedule.inc:36
-msgid "3"
-msgstr "3"
-
-#: ../../source/site/getinvolved/development/schedule.inc:11
-#: ../../source/site/getinvolved/development/schedule.inc:15
-#: ../../source/site/getinvolved/development/schedule.inc:24
-#: ../../source/site/getinvolved/development/schedule.inc:28
-#: ../../source/site/getinvolved/development/schedule.inc:36
-msgid "5"
-msgstr "5"
-
-#: ../../source/site/getinvolved/development/schedule.inc:12
-#: ../../source/site/getinvolved/development/schedule.inc:16
-#: ../../source/site/getinvolved/development/schedule.inc:25
-#: ../../source/site/getinvolved/development/schedule.inc:29
-#: ../../source/site/getinvolved/development/schedule.inc:37
-msgid "**LR**/PR"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:12
-msgid "3.6.0"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:12
-msgid "3.4.5"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:12
-msgid "2019-02-22"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:12
-#: ../../source/site/getinvolved/development/schedule.inc:25
-#: ../../source/site/getinvolved/development/schedule.inc:37
-msgid "8"
-msgstr "8"
-
-#: ../../source/site/getinvolved/development/schedule.inc:13
-msgid "3.6.1"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:13
-msgid "3.4.6"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:13
-msgid "2019-03-22"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:13
-#: ../../source/site/getinvolved/development/schedule.inc:26
-msgid "12"
-msgstr "12"
-
-#: ../../source/site/getinvolved/development/schedule.inc:14
-msgid "3.6.2"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:14
-msgid "3.4.7"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:14
-msgid "2019-04-19"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:14
-#: ../../source/site/getinvolved/development/schedule.inc:27
-msgid "16"
-msgstr "16"
-
-#: ../../source/site/getinvolved/development/schedule.inc:15
-msgid "3.6.3"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:15
-msgid "3.4.8"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:15
-msgid "3.7"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:15
-msgid "2019-05-17"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:15
-#: ../../source/site/getinvolved/development/schedule.inc:28
-msgid "20"
-msgstr "20"
-
-#: ../../source/site/getinvolved/development/schedule.inc:16
-msgid "3.8.0"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:16
-msgid "3.4.9"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:16
-msgid "2019-06-21"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:16
-#: ../../source/site/getinvolved/development/schedule.inc:29
-msgid "25"
-msgstr "25"
-
-#: ../../source/site/getinvolved/development/schedule.inc:17
-msgid "3.8.1"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:17
-msgid "3.4.10"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:17
-msgid "2019-07-19"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:17
-#: ../../source/site/getinvolved/development/schedule.inc:30
-msgid "29"
-msgstr "29"
-
-#: ../../source/site/getinvolved/development/schedule.inc:18
-msgid "3.8.2"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:18
-msgid "3.4.11"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:18
-msgid "2019-08-16"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:18
-#: ../../source/site/getinvolved/development/schedule.inc:31
-msgid "33"
-msgstr "33"
-
-#: ../../source/site/getinvolved/development/roadmap.rst:109
-#: ../../source/site/getinvolved/development/schedule.inc:19
-msgid "FF"
-msgstr "FF"
-
-#: ../../source/site/getinvolved/development/schedule.inc:19
-msgid "3.9"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:19
-msgid "2019-09-06"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:19
-msgid "36"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:19
-msgid "1"
-msgstr "1"
-
-#: ../../source/site/getinvolved/development/schedule.inc:20
-msgid "3.8.3"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:20
-msgid "3.4.12"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:20
-msgid "2019-09-13"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:20
-#: ../../source/site/getinvolved/development/schedule.inc:32
-msgid "37"
-msgstr "37"
-
-#: ../../source/site/getinvolved/development/roadmap.rst:110
-#: ../../source/site/getinvolved/development/schedule.inc:21
-msgid "HF"
-msgstr "HF"
-
-#: ../../source/site/getinvolved/development/schedule.inc:21
-msgid "2019-10-11"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:21
-msgid "41"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:21
+#: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "2"
 msgstr "2"
 
-#: ../../source/site/getinvolved/development/schedule.inc:22
-msgid "3.10.0"
+#: ../../source/site/getinvolved/development/roadmap.rst:1
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "EPR"
+msgstr "EPR"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.16.13`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:22
-msgid "3.4.13"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2021-11-05"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:22
-msgid "2019-10-25"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "45"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:22
-#: ../../source/site/getinvolved/development/schedule.inc:23
-#: ../../source/site/getinvolved/development/schedule.inc:32
+#: ../../source/site/getinvolved/development/roadmap.rst:1
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "PR"
+msgstr "PR"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.22.1`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.16.14`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2021-11-19"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "47"
+msgstr "47"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "4"
+msgstr "4"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.22.2`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.16.15`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2021-12-17"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "51"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "PR/FF"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.22.3`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.16.16`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "3.23"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2022-01-14"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "3"
+msgstr "3"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "5"
+msgstr "5"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "LR/PR"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.24.0`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.22.4`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2022-02-18"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "8"
+msgstr "8"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.24.1`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.22.5`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2022-03-18"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "12"
+msgstr "12"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.24.2`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.22.6`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2022-04-15"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "16"
+msgstr "16"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.24.3`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-past:`3.22.7`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "3.25"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2022-05-13"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "20"
+msgstr "20"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-current:`LR/PR`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-current:`3.26.0`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-current:`3.22.8`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2022-06-17"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "25"
+msgstr "25"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-next:`3.26.1`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-next:`3.22.9`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2022-07-15"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "29"
+msgstr "29"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.26.2`"
+msgstr ":rm-future:`3.26.2`"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.22.10`"
+msgstr ":rm-future:`3.22.10`"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2022-08-12"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "33"
+msgstr "33"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.26.3`"
+msgstr ":rm-future:`3.26.3`"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.22.11`"
+msgstr ":rm-future:`3.22.11`"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "3.27"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2022-09-09"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "37"
+msgstr "37"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "6"
 msgstr "6"
 
-#: ../../source/site/getinvolved/development/schedule.inc:23
-msgid "3.10.1"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.28.0`"
+msgstr ":rm-future:`3.28.0`"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.22.12`"
+msgstr ":rm-future:`3.22.12`"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2022-10-21"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:23
-msgid "3.4.14"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.28.1`"
+msgstr ":rm-future:`3.28.1`"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.22.13`"
+msgstr ":rm-future:`3.22.13`"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2022-11-18"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:23
-msgid "2019-12-06"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.28.2`"
+msgstr ":rm-future:`3.28.2`"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.22.14`"
+msgstr ":rm-future:`3.22.14`"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2022-12-16"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:23
-msgid "49"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.28.3`"
+msgstr ":rm-future:`3.28.3`"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.22.15`"
+msgstr ":rm-future:`3.22.15`"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "3.29"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:24
-msgid "3.10.2"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2023-01-13"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:24
-msgid "3.4.15"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.30.0`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:24
-msgid "3.11"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.28.4`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:24
-msgid "2020-01-17"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2023-02-17"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:25
-msgid "3.12.0"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.30.1`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:25
-msgid "3.10.3"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.28.5`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:25
-msgid "2020-02-21"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2023-03-17"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:26
-msgid "3.12.1"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.30.2`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:26
-msgid "3.10.4"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.28.6`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:26
-msgid "2020-03-20"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2023-04-14"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:27
-msgid "3.12.2"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.30.3`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:27
-msgid "3.10.5"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.28.7`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:27
-msgid "2020-04-17"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "3.31"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:28
-msgid "3.12.3"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2023-05-12"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:28
-msgid "3.10.6"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.32.0`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:28
-msgid "3.13"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.28.8`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:28
-msgid "2020-05-15"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2023-06-16"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:29
-msgid "3.14.0"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.32.1`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:29
-msgid "3.10.7"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.28.9`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:29
-msgid "2020-06-19"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2023-07-14"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:30
-msgid "3.14.1"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.32.2`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:30
-msgid "3.10.8"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.28.10`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:30
-msgid "2020-07-19"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2023-08-11"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:31
-msgid "3.14.15"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.32.3`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:31
-msgid "3.10.9"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.28.11`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:31
-msgid "2020-08-14"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "3.33"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:32
-msgid "3.14.16"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2023-09-08"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:32
-msgid "3.10.10"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.34.0`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:32
-msgid "3.15"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-future:`3.28.12`"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:32
-msgid "2020-09-11"
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid "2023-10-20"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/schedule.inc:33
-msgid "3.16.0"
-msgstr ""
+#: ../../source/site/getinvolved/development/roadmap.rst:100
+msgid "Event legend"
+msgstr "Az események magyarázata"
 
-#: ../../source/site/getinvolved/development/schedule.inc:33
-msgid "3.10.11"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:33
-msgid "2020-10-23"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:34
-msgid "3.16.1"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:34
-msgid "3.10.12"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:34
-msgid "2020-11-20"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:35
-msgid "3.16.2"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:35
-msgid "3.10.13"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:35
-msgid "2020-12-18"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:36
-msgid "3.16.3"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:36
-msgid "3.10.14"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:36
-msgid "3.17"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:36
-msgid "2021-01-15"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:37
-msgid "3.18.0"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:37
-msgid "3.16.4"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:37
-msgid "2021-02-19"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/roadmap.rst:102
-msgid "Event legend:"
-msgstr "Esemény jelmagyarázat:"
-
-#: ../../source/site/getinvolved/development/roadmap.rst:105
+#: ../../source/site/getinvolved/development/roadmap.rst:1
 msgid "Description"
 msgstr "Leírás"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:107
+#: ../../source/site/getinvolved/development/roadmap.rst:1
 msgid "LTR"
 msgstr "LTR"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:107
+#: ../../source/site/getinvolved/development/roadmap.rst:1
 msgid "Long term release, begin of new development phase"
-msgstr "Hosszútávú kiadás, egy új fejlesztési fázis kezdete"
+msgstr "Hosszútávú kiadás (Long Term Release), egy új fejlesztési fázis kezdete"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:108
+#: ../../source/site/getinvolved/development/roadmap.rst:1
 msgid "LR"
 msgstr "LR"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:108
+#: ../../source/site/getinvolved/development/roadmap.rst:1
 msgid "Regular release, begin of new development phase"
-msgstr "Általános kiadás, egy új fejlesztési fázis kezdete"
+msgstr "Rendes kiadás (Latest Release), egy új fejlesztési fázis kezdete"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:109
+#: ../../source/site/getinvolved/development/roadmap.rst:1
+msgid "FF"
+msgstr "FF"
+
+#: ../../source/site/getinvolved/development/roadmap.rst:1
 msgid "Feature freeze, end of development phase"
-msgstr "Funkció bővítés befagyasztása, fejlesztési fázis vége"
+msgstr "Funkcióbővítés befagyasztása (Feature Freeze), fejlesztési fázis vége"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:110
+#: ../../source/site/getinvolved/development/roadmap.rst:1
+msgid "HF"
+msgstr "HF"
+
+#: ../../source/site/getinvolved/development/roadmap.rst:1
 msgid "hard freeze"
-msgstr ""
+msgstr "végleges befagyasztás"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:111
+#: ../../source/site/getinvolved/development/roadmap.rst:1
 msgid "SF"
-msgstr ""
+msgstr "SF"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:111
+#: ../../source/site/getinvolved/development/roadmap.rst:1
 msgid "Soft freeze with bi-monthly vote"
-msgstr ""
+msgstr "Puha befagyasztás kéthavonkénti szavazással"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:112
+#: ../../source/site/getinvolved/development/roadmap.rst:1
 msgid "Point release of latest release and LTR branch"
-msgstr "A legutóbbi kiadási és az LTR ág pont kiadása"
+msgstr "Pontkiadás (Point Release) a legutóbbi kiadásból és az LTR ágból"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:113
+#: ../../source/site/getinvolved/development/roadmap.rst:1
 msgid "Extra Point release"
+msgstr "Extra pontkiadás"
+
+#: ../../source/site/getinvolved/development/roadmap.rst:1
+msgid ":rm-current:`current`"
+msgstr ":rm-current:`jelenlegi`"
+
+#: ../../source/site/getinvolved/development/roadmap.rst:1
+msgid ":rm-current:`currently supported releases:` |ltrrelease| and |release|"
 msgstr ""
 
-#: ../../source/site/getinvolved/development/roadmap.rst:120
-msgid "Location of prereleases / nightly builds"
-msgstr "Előzetes kiadások /nightly builds helye"
+#: ../../source/site/getinvolved/development/roadmap.rst:1
+msgid ":rm-next:`next`"
+msgstr ":rm-next:`következő`"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:123
+#: ../../source/site/getinvolved/development/roadmap.rst:1
+msgid ":rm-next:`next releases`"
+msgstr ":rm-next:`következő kiadások`"
+
+#: ../../source/site/getinvolved/development/roadmap.rst:118
+msgid "Location of prereleases / nightly builds"
+msgstr "Előzetes kiadások / napi kiadások helye"
+
+#: ../../source/site/getinvolved/development/roadmap.rst:121
 msgid "Platform"
 msgstr "Platform"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:123
+#: ../../source/site/getinvolved/development/roadmap.rst:121
 msgid "Location"
 msgstr "Hely"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:125
+#: ../../source/site/getinvolved/development/roadmap.rst:123
 msgid "Windows"
 msgstr "Windows"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:125
+#: ../../source/site/getinvolved/development/roadmap.rst:123
 msgid ":ref:`OSGeo4W <QGIS-windows-testing>`"
 msgstr ":ref:`OSGeo4W <QGIS-windows-testing>`"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:126
+#: ../../source/site/getinvolved/development/roadmap.rst:124
 msgid "Linux"
 msgstr "Linux"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:126
+#: ../../source/site/getinvolved/development/roadmap.rst:124
 msgid ":ref:`Debian/Ubuntu <QGIS-debian-testing>`"
 msgstr ":ref:`Debian/Ubuntu <QGIS-debian-testing>`"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:127
+#: ../../source/site/getinvolved/development/roadmap.rst:125
 msgid "MacOS"
 msgstr "MacOS"
 
-#: ../../source/site/getinvolved/development/roadmap.rst:127
+#: ../../source/site/getinvolved/development/roadmap.rst:125
 msgid ":ref:`Mac OS <QGIS-macos-testing>`"
 msgstr ":ref:`Mac OS <QGIS-macos-testing>`"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "In the feature freeze **developers** monitor the hub and start working on "
@@ -1199,4 +1097,982 @@ msgstr ":ref:`Mac OS <QGIS-macos-testing>`"
 #~ msgstr ""
 
 #~ msgid "3.14.159"
+#~ msgstr ""
+
+#~ msgid "2020-12-18"
+#~ msgstr ""
+
+#~ msgid "2021-07-16"
+#~ msgstr ""
+
+#~ msgid "Schedule:"
+#~ msgstr ""
+
+#~ msgid "**LTR**/PR"
+#~ msgstr ""
+
+#~ msgid "3.4.0"
+#~ msgstr ""
+
+#~ msgid "2.18.25"
+#~ msgstr ""
+
+#~ msgid "2018-10-26"
+#~ msgstr ""
+
+#~ msgid "43"
+#~ msgstr ""
+
+#~ msgid "4"
+#~ msgstr ""
+
+#~ msgid "3.4.1"
+#~ msgstr ""
+
+#~ msgid "2018-11-02"
+#~ msgstr ""
+
+#~ msgid "44"
+#~ msgstr ""
+
+#~ msgid "3.4.2"
+#~ msgstr ""
+
+#~ msgid "2.18.26"
+#~ msgstr ""
+
+#~ msgid "2018-11-23"
+#~ msgstr ""
+
+#~ msgid "47"
+#~ msgstr ""
+
+#~ msgid "3.4.3"
+#~ msgstr ""
+
+#~ msgid "2.18.27"
+#~ msgstr ""
+
+#~ msgid "2018-12-21"
+#~ msgstr ""
+
+#~ msgid "51"
+#~ msgstr ""
+
+#~ msgid "PR/FF"
+#~ msgstr ""
+
+#~ msgid "3.4.4"
+#~ msgstr ""
+
+#~ msgid "2.18.28"
+#~ msgstr ""
+
+#~ msgid "3.5"
+#~ msgstr ""
+
+#~ msgid "2019-01-18"
+#~ msgstr ""
+
+#~ msgid "3"
+#~ msgstr ""
+
+#~ msgid "5"
+#~ msgstr ""
+
+#~ msgid "**LR**/PR"
+#~ msgstr ""
+
+#~ msgid "3.6.0"
+#~ msgstr ""
+
+#~ msgid "3.4.5"
+#~ msgstr ""
+
+#~ msgid "2019-02-22"
+#~ msgstr ""
+
+#~ msgid "8"
+#~ msgstr ""
+
+#~ msgid "3.6.1"
+#~ msgstr ""
+
+#~ msgid "3.4.6"
+#~ msgstr ""
+
+#~ msgid "2019-03-22"
+#~ msgstr ""
+
+#~ msgid "12"
+#~ msgstr ""
+
+#~ msgid "3.6.2"
+#~ msgstr ""
+
+#~ msgid "3.4.7"
+#~ msgstr ""
+
+#~ msgid "2019-04-19"
+#~ msgstr ""
+
+#~ msgid "16"
+#~ msgstr ""
+
+#~ msgid "3.6.3"
+#~ msgstr ""
+
+#~ msgid "3.4.8"
+#~ msgstr ""
+
+#~ msgid "3.7"
+#~ msgstr ""
+
+#~ msgid "2019-05-17"
+#~ msgstr ""
+
+#~ msgid "20"
+#~ msgstr ""
+
+#~ msgid "3.8.0"
+#~ msgstr ""
+
+#~ msgid "3.4.9"
+#~ msgstr ""
+
+#~ msgid "2019-06-21"
+#~ msgstr ""
+
+#~ msgid "25"
+#~ msgstr ""
+
+#~ msgid "3.8.1"
+#~ msgstr ""
+
+#~ msgid "3.4.10"
+#~ msgstr ""
+
+#~ msgid "2019-07-19"
+#~ msgstr ""
+
+#~ msgid "29"
+#~ msgstr ""
+
+#~ msgid "3.8.2"
+#~ msgstr ""
+
+#~ msgid "3.4.11"
+#~ msgstr ""
+
+#~ msgid "2019-08-16"
+#~ msgstr ""
+
+#~ msgid "33"
+#~ msgstr ""
+
+#~ msgid "3.9"
+#~ msgstr ""
+
+#~ msgid "2019-09-06"
+#~ msgstr ""
+
+#~ msgid "36"
+#~ msgstr ""
+
+#~ msgid "3.8.3"
+#~ msgstr ""
+
+#~ msgid "3.4.12"
+#~ msgstr ""
+
+#~ msgid "2019-09-13"
+#~ msgstr ""
+
+#~ msgid "37"
+#~ msgstr ""
+
+#~ msgid "2019-10-11"
+#~ msgstr ""
+
+#~ msgid "41"
+#~ msgstr ""
+
+#~ msgid "2"
+#~ msgstr ""
+
+#~ msgid "3.10.0"
+#~ msgstr ""
+
+#~ msgid "3.4.13"
+#~ msgstr ""
+
+#~ msgid "2019-10-25"
+#~ msgstr ""
+
+#~ msgid "6"
+#~ msgstr ""
+
+#~ msgid "3.10.1"
+#~ msgstr ""
+
+#~ msgid "3.4.14"
+#~ msgstr ""
+
+#~ msgid "2019-12-06"
+#~ msgstr ""
+
+#~ msgid "49"
+#~ msgstr ""
+
+#~ msgid "3.10.2"
+#~ msgstr ""
+
+#~ msgid "3.4.15"
+#~ msgstr ""
+
+#~ msgid "3.11"
+#~ msgstr ""
+
+#~ msgid "2020-01-17"
+#~ msgstr ""
+
+#~ msgid "3.12.0"
+#~ msgstr ""
+
+#~ msgid "3.10.3"
+#~ msgstr ""
+
+#~ msgid "2020-02-21"
+#~ msgstr ""
+
+#~ msgid "3.12.1"
+#~ msgstr ""
+
+#~ msgid "3.10.4"
+#~ msgstr ""
+
+#~ msgid "2020-03-20"
+#~ msgstr ""
+
+#~ msgid "3.12.2"
+#~ msgstr ""
+
+#~ msgid "3.10.5"
+#~ msgstr ""
+
+#~ msgid "2020-04-17"
+#~ msgstr ""
+
+#~ msgid "3.12.3"
+#~ msgstr ""
+
+#~ msgid "3.10.6"
+#~ msgstr ""
+
+#~ msgid "3.13"
+#~ msgstr ""
+
+#~ msgid "2020-05-15"
+#~ msgstr ""
+
+#~ msgid "3.14.0"
+#~ msgstr ""
+
+#~ msgid "3.10.7"
+#~ msgstr ""
+
+#~ msgid "2020-06-19"
+#~ msgstr ""
+
+#~ msgid "3.14.1"
+#~ msgstr ""
+
+#~ msgid "3.10.8"
+#~ msgstr ""
+
+#~ msgid "2020-07-19"
+#~ msgstr ""
+
+#~ msgid "3.14.15"
+#~ msgstr ""
+
+#~ msgid "3.10.9"
+#~ msgstr ""
+
+#~ msgid "2020-08-14"
+#~ msgstr ""
+
+#~ msgid "3.14.16"
+#~ msgstr ""
+
+#~ msgid "3.10.10"
+#~ msgstr ""
+
+#~ msgid "3.15"
+#~ msgstr ""
+
+#~ msgid "2020-09-11"
+#~ msgstr ""
+
+#~ msgid "3.16.0"
+#~ msgstr ""
+
+#~ msgid "3.10.11"
+#~ msgstr ""
+
+#~ msgid "2020-10-23"
+#~ msgstr ""
+
+#~ msgid "3.16.1"
+#~ msgstr ""
+
+#~ msgid "3.10.12"
+#~ msgstr ""
+
+#~ msgid "2020-11-20"
+#~ msgstr ""
+
+#~ msgid "3.16.2"
+#~ msgstr ""
+
+#~ msgid "3.10.13"
+#~ msgstr ""
+
+#~ msgid "2020-12-21"
+#~ msgstr ""
+
+#~ msgid "52"
+#~ msgstr ""
+
+#~ msgid "3.16.3"
+#~ msgstr ""
+
+#~ msgid "3.10.14"
+#~ msgstr ""
+
+#~ msgid "3.17"
+#~ msgstr ""
+
+#~ msgid "2021-01-15"
+#~ msgstr ""
+
+#~ msgid "3.18.0"
+#~ msgstr ""
+
+#~ msgid "3.16.4"
+#~ msgstr ""
+
+#~ msgid "2021-02-19"
+#~ msgstr ""
+
+#~ msgid "3.18.1"
+#~ msgstr ""
+
+#~ msgid "3.16.5"
+#~ msgstr ""
+
+#~ msgid "2021-03-19"
+#~ msgstr ""
+
+#~ msgid "3.18.2"
+#~ msgstr ""
+
+#~ msgid "3.16.6"
+#~ msgstr ""
+
+#~ msgid "2021-04-16"
+#~ msgstr ""
+
+#~ msgid "3.18.3"
+#~ msgstr ""
+
+#~ msgid "3.16.7"
+#~ msgstr ""
+
+#~ msgid "3.19"
+#~ msgstr ""
+
+#~ msgid "2021-05-14"
+#~ msgstr ""
+
+#~ msgid "3.20.0"
+#~ msgstr ""
+
+#~ msgid "3.16.8"
+#~ msgstr ""
+
+#~ msgid "2021-06-18"
+#~ msgstr ""
+
+#~ msgid "3.20.1"
+#~ msgstr ""
+
+#~ msgid "3.16.9"
+#~ msgstr ""
+
+#~ msgid "2021-07-19"
+#~ msgstr ""
+
+#~ msgid "3.20.2"
+#~ msgstr ""
+
+#~ msgid "3.16.10"
+#~ msgstr ""
+
+#~ msgid "2021-08-13"
+#~ msgstr ""
+
+#~ msgid "3.20.3"
+#~ msgstr ""
+
+#~ msgid "3.16.11"
+#~ msgstr ""
+
+#~ msgid "3.21"
+#~ msgstr ""
+
+#~ msgid "2021-09-10"
+#~ msgstr ""
+
+#~ msgid "3.22.0"
+#~ msgstr ""
+
+#~ msgid "3.16.12"
+#~ msgstr ""
+
+#~ msgid "2021-10-22"
+#~ msgstr ""
+
+#~ msgid "3.22.1"
+#~ msgstr ""
+
+#~ msgid "3.16.13"
+#~ msgstr ""
+
+#~ msgid "2021-11-19"
+#~ msgstr ""
+
+#~ msgid "3.22.2"
+#~ msgstr ""
+
+#~ msgid "3.16.14"
+#~ msgstr ""
+
+#~ msgid "2021-12-17"
+#~ msgstr ""
+
+#~ msgid "3.22.3"
+#~ msgstr ""
+
+#~ msgid "3.16.15"
+#~ msgstr ""
+
+#~ msgid "3.23"
+#~ msgstr ""
+
+#~ msgid "2022-01-14"
+#~ msgstr ""
+
+#~ msgid "3.24.0"
+#~ msgstr ""
+
+#~ msgid "3.22.4"
+#~ msgstr ""
+
+#~ msgid "2022-02-18"
+#~ msgstr ""
+
+#~ msgid "3.24.1"
+#~ msgstr ""
+
+#~ msgid "3.22.5"
+#~ msgstr ""
+
+#~ msgid "2022-03-18"
+#~ msgstr ""
+
+#~ msgid "3.24.2"
+#~ msgstr ""
+
+#~ msgid "3.22.6"
+#~ msgstr ""
+
+#~ msgid "2022-04-15"
+#~ msgstr ""
+
+#~ msgid "3.24.3"
+#~ msgstr ""
+
+#~ msgid "3.22.7"
+#~ msgstr ""
+
+#~ msgid "3.25"
+#~ msgstr ""
+
+#~ msgid "2022-05-13"
+#~ msgstr ""
+
+#~ msgid "3.26.0"
+#~ msgstr ""
+
+#~ msgid "3.22.8"
+#~ msgstr ""
+
+#~ msgid "2022-06-17"
+#~ msgstr ""
+
+#~ msgid "3.26.1"
+#~ msgstr ""
+
+#~ msgid "3.22.9"
+#~ msgstr ""
+
+#~ msgid "2022-07-15"
+#~ msgstr ""
+
+#~ msgid "3.26.2"
+#~ msgstr ""
+
+#~ msgid "3.22.10"
+#~ msgstr ""
+
+#~ msgid "2022-08-12"
+#~ msgstr ""
+
+#~ msgid "3.26.3"
+#~ msgstr ""
+
+#~ msgid "3.22.11"
+#~ msgstr ""
+
+#~ msgid "3.27"
+#~ msgstr ""
+
+#~ msgid "2022-09-09"
+#~ msgstr ""
+
+#~ msgid "3.28.0"
+#~ msgstr ""
+
+#~ msgid "3.22.12"
+#~ msgstr ""
+
+#~ msgid "2022-10-21"
+#~ msgstr ""
+
+#~ msgid "3.28.1"
+#~ msgstr ""
+
+#~ msgid "3.22.13"
+#~ msgstr ""
+
+#~ msgid "2022-11-18"
+#~ msgstr ""
+
+#~ msgid "3.28.2"
+#~ msgstr ""
+
+#~ msgid "3.22.14"
+#~ msgstr ""
+
+#~ msgid "2022-12-16"
+#~ msgstr ""
+
+#~ msgid "3.28.3"
+#~ msgstr ""
+
+#~ msgid "3.22.15"
+#~ msgstr ""
+
+#~ msgid "3.29"
+#~ msgstr ""
+
+#~ msgid "2023-01-13"
+#~ msgstr ""
+
+#~ msgid "Event legend:"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`LTR/PR`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`2020-10-23`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`43`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`4`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`PR`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`2020-11-20`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`47`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`2020-12-21`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`52`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`PR/FF`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.17`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`2021-01-15`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`5`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`LR/PR`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`2021-02-19`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`8`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`2021-03-19`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`12`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`2021-04-16`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`16`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.19`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`2021-05-14`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`20`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`2021-06-18`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`25`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`2021-07-19`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`30`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`2021-08-13`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`33`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.21`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`2021-09-10`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`37`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`6`"
+#~ msgstr ""
+
+#~ msgid ":rm-current:`LTR/PR`"
+#~ msgstr ""
+
+#~ msgid ":rm-current:`3.22.0`"
+#~ msgstr ""
+
+#~ msgid ":rm-current:`3.16.12`"
+#~ msgstr ""
+
+#~ msgid ":rm-current:`2021-10-22`"
+#~ msgstr ""
+
+#~ msgid ":rm-current:`43`"
+#~ msgstr ""
+
+#~ msgid ":rm-current:`4`"
+#~ msgstr ""
+
+#~ msgid ":rm-next:`PR`"
+#~ msgstr ""
+
+#~ msgid ":rm-next:`3.22.1`"
+#~ msgstr ""
+
+#~ msgid ":rm-next:`3.16.13`"
+#~ msgstr ""
+
+#~ msgid ":rm-next:`2021-11-19`"
+#~ msgstr ""
+
+#~ msgid ":rm-next:`47`"
+#~ msgstr ""
+
+#~ msgid ":rm-next:`4`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`PR`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.22.2`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.16.14`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2021-12-17`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`51`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`4`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`PR/FF`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.22.3`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.16.15`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.23`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2022-01-14`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`5`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`LR/PR`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.24.0`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.22.4`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2022-02-18`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`8`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.24.1`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.22.5`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2022-03-18`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`12`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2022-04-15`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`16`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.25`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2022-05-13`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`20`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2022-06-17`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`25`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2022-07-15`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`29`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2022-08-12`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`33`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.27`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2022-09-09`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`37`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`6`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`LTR/PR`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2022-10-21`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`43`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2022-11-18`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`47`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2022-12-16`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.29`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`2023-01-13`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.16.0`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.10.11`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.16.1`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.10.12`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.16.2`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.10.13`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.16.3`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.10.14`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.18.0`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.16.4`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.18.1`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.16.5`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.18.2`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.16.6`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.18.3`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.16.7`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.20.0`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.16.8`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.20.1`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.16.9`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.20.2`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.16.10`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.20.3`"
+#~ msgstr ""
+
+#~ msgid ":rm-past:`3.16.11`"
+#~ msgstr ""
+
+#~ msgid ":rm-current:`3.24.0`"
+#~ msgstr ""
+
+#~ msgid ":rm-current:`3.22.4`"
+#~ msgstr ""
+
+#~ msgid ":rm-next:`3.24.1`"
+#~ msgstr ""
+
+#~ msgid ":rm-next:`3.22.5`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.24.2`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.22.6`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.24.3`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.22.7`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.26.0`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.22.8`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.26.1`"
+#~ msgstr ""
+
+#~ msgid ":rm-future:`3.22.9`"
+#~ msgstr ""
+
+#~ msgid ":rm-current:`current releases`"
 #~ msgstr ""

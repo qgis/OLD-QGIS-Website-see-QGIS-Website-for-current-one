@@ -7,15 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:59+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:3
 msgid "QGIS and GRASS applied to paleontological survey in Western Portugal"
@@ -80,6 +81,15 @@ msgstr "QGIS a été le cadre principal du projet. Les données ont été inject
 msgid "Vector point data editing and visualization"
 msgstr "Edition et visualisation des données vecteur point"
 
+#: ../../source/site/about/case_studies/portugal_torres.rst:33
+msgid ""
+"The choice for QGIS was also encouraged by the multi platform support. The "
+"institution has three distinct facilities, and each of those facilities has "
+"different systems --– we have Mac, Windows PC and Linux PC, therefore it's "
+"of extreme importance that we have the freedom to install the software on "
+"any machine we want so we don't get stuck to a particular computer."
+msgstr "QGIS a été retenu par le fait qu'il gère plusieurs plate-formes. L'institut dispose de trois aménagements distincts et chacun de ces aménagements est équipé d'un système d'exploitation différent. Nous avons des machines sous Mac, sous Windows et sous GNU/Linux et il était très important de pouvoir installer le logiciel sur n'importe laquelle de ces machines de manière à ne pas être obligé de travailler sur une machine en particulier."
+
 #: ../../source/site/about/case_studies/portugal_torres.rst:40
 msgid "Paleontological Risk Map"
 msgstr "Carte de risque paléontologique"
@@ -88,22 +98,19 @@ msgstr "Carte de risque paléontologique"
 msgid "Conclusion"
 msgstr "Conclusion"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:55
-msgid "Author"
-msgstr "Auteur"
-
-#: ../../source/site/about/case_studies/portugal_torres.rst:62
-msgid "André Mano"
-msgstr "André Mano"
-
-#: ../../source/site/about/case_studies/portugal_torres.rst:64
+#: ../../source/site/about/case_studies/portugal_torres.rst:45
 msgid ""
-"This article was contributed in November 2010 by André Mano. He is "
-"responsible for the Geopraphic Department of Associação Leonel Trindade – "
-"Sociedade de História Natural. His area of interest is focused on "
-"geotechnology applications to the fields of paleontology, archeology and "
-"cultural heritage."
-msgstr "Cet article a été rédigé en novembre 2010 avec la contribution de André Mano. Il est responsable du Département de Géographie de l'Association Leonel Trindade – Sociedade de História Natural. Il s'intéresse principalement aux applications géo-technologiques dans les champs de la paléontologie, de l'arcéologie et du patrimoine culturel."
+"The overall experience with QGIS can only be rated has being very good and "
+"recommendable. From our point of view, the main advantage of QGIS is that "
+"it's not just a GIS software –-- it's a productivity suite for spatial data."
+" It allowed us to take advantage of other powerful tools within a single "
+"work environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
+"data, with webservices and with tens of useful plug-ins developed by users "
+"worldwide. The user friendly interface is also a big advantage, especially "
+"if you have to train first time users has we've done. The easyness of the "
+"interface makes production of maps an everyday task and brought people "
+"closer to spatial approaches [3]."
+msgstr "L'expérience globale de QGIS a été jugée très bonne et recommandée. De notre point de vue, l'avantage principal de QGIS est qu'il n'est pas juste un logiciel de SIG mais bien une suite pour les données spatiales. Il nous a permis de tirer parti d'autres outils puissant au sein d'un seul et même environnement. Depuis QGIS, nous pouvons travailler avec GRASS, avec PostGIS, avec des données GPS, avec des services Web et avec une dizaine d'extensions développées de par le monde par d'autres utilisateurs. L'interface utilisateur accueillante est également un avantage énorme, spécialement lorsque vous devez former des utilisateurs de base comme nous avons dû le faire. L'interface simplifiée transforme la production de cartes en une activité simple au quotidien et permet de rapprocher les gens avec l'approche spatiale [3]."
 
 #: ../../source/site/about/case_studies/portugal_torres.rst:48
 msgid "References"
@@ -128,28 +135,30 @@ msgid ""
 "Sistemas de Informação Geográfica. ISEGI – UNL, Lisboa, 2010"
 msgstr "[3] Mano, André. (2010) – Projecto SIGAP, Trabalho de Projecto apresentado como requisito parcial para a obtenção do grau de Mestre em Ciência e Sistemas de Informação Geográfica. ISEGI – UNL, Lisboa, 2010"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:33
-msgid ""
-"The choice for QGIS was also encouraged by the multi platform support. The "
-"institution has three distinct facilities, and each of those facilities has "
-"different systems --– we have Mac, Windows PC and Linux PC, therefore it's "
-"of extreme importance that we have the freedom to install the software on "
-"any machine we want so we don't get stuck to a particular computer."
-msgstr "QGIS a été retenu par le fait qu'il gère plusieurs plate-formes. L'institut dispose de trois aménagements distincts et chacun de ces aménagements est équipé d'un système d'exploitation différent. Nous avons des machines sous Mac, sous Windows et sous GNU/Linux et il était très important de pouvoir installer le logiciel sur n'importe laquelle de ces machines de manière à ne pas être obligé de travailler sur une machine en particulier."
+#: ../../source/site/about/case_studies/portugal_torres.rst:55
+msgid "Author"
+msgstr "Auteur"
 
-#: ../../source/site/about/case_studies/portugal_torres.rst:45
+#: ../../source/site/about/case_studies/portugal_torres.rst:62
+msgid "André Mano"
+msgstr "André Mano"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:64
 msgid ""
-"The overall experience with QGIS can only be rated has being very good and "
-"recommendable. From our point of view, the main advantage of QGIS is that "
-"it's not just a GIS software –-- it's a productivity suite for spatial data."
-" It allowed us to take advantage of other powerful tools within a single "
-"work environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
-"data, with webservices and with tens of useful plug-ins developed by users "
-"worldwide. The user friendly interface is also a big advantage, especially "
-"if you have to train first time users has we've done. The easyness of the "
-"interface makes production of maps an everyday task and brought people "
-"closer to spatial approaches [3]."
-msgstr "L'expérience globale de QGIS a été jugée très bonne et recommandée. De notre point de vue, l'avantage principal de QGIS est qu'il n'est pas juste un logiciel de SIG mais bien une suite pour les données spatiales. Il nous a permis de tirer parti d'autres outils puissant au sein d'un seul et même environnement. Depuis QGIS, nous pouvons travailler avec GRASS, avec PostGIS, avec des données GPS, avec des services Web et avec une dizaine d'extensions développées de par le monde par d'autres utilisateurs. L'interface utilisateur accueillante est également un avantage énorme, spécialement lorsque vous devez former des utilisateurs de base comme nous avons dû le faire. L'interface simplifiée transforme la production de cartes en une activité simple au quotidien et permet de rapprocher les gens avec l'approche spatiale [3]."
+"This article was contributed in November 2010 by André Mano. He is "
+"responsible for the Geopraphic Department of Associação Leonel Trindade – "
+"Sociedade de História Natural. His area of interest is focused on "
+"geotechnology applications to the fields of paleontology, archeology and "
+"cultural heritage."
+msgstr "Cet article a été rédigé en novembre 2010 avec la contribution de André Mano. Il est responsable du Département de Géographie de l'Association Leonel Trindade – Sociedade de História Natural. Il s'intéresse principalement aux applications géo-technologiques dans les champs de la paléontologie, de l'arcéologie et du patrimoine culturel."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "The choice for QGIS was also encouraged by the multi platform support. The "

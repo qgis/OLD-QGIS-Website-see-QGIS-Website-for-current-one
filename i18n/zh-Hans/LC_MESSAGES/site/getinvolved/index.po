@@ -1,32 +1,50 @@
 # 
 # Translators:
 # sshuair <sshuair@gmail.com>, 2020
+# 徐保才 <1302638819@qq.com>, 2021
+# 徐保才 <1302638819@qq.com>, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
-"PO-Revision-Date: 2020-10-26 10:56+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: 徐保才 <1302638819@qq.com>, 2022\n"
 "Language-Team: Chinese Simplified (http://www.transifex.com/qgis/qgis-website/language/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+#: ../../source/site/getinvolved/index.rst:5
+msgid "Plugins website"
+msgstr "插件网站"
+
+#: ../../source/site/getinvolved/index.rst:5
+msgid "Donations"
+msgstr "捐助"
+
 #: ../../source/site/getinvolved/index.rst:3
 msgid "Get Involved / Development"
-msgstr "参与其中/开发"
+msgstr "参与或开发"
 
 #: ../../source/site/getinvolved/index.rst:25
 msgid ""
 "Content is not used, it is overridden by text themes/qgis-"
-"theme/getinvolved_index.html. The html texts are translated in the 'spinx' "
+"theme/getinvolved_index.html. The html texts are translated in the 'sphinx' "
 "resource: https://www.transifex.com/qgis/qgis-website/sphinx/ Only TOC is "
 "used."
-msgstr ""
+msgstr "未使用内容，它被 themes/qgis-theme/getinvolved_index.html 中的文本覆写。HTML文本在 'sphinx' 资源中的翻译: https://www.transifex.com/qgis/qgis-website/sphinx/ 仅TOC使用。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "Plugins website"
 #~ msgstr ""
@@ -34,4 +52,11 @@ msgstr ""
 #~ msgid ""
 #~ "Content is not used, it is overridden by themes/qgis-"
 #~ "theme/getinvolved_index.html."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Content is not used, it is overridden by text themes/qgis-"
+#~ "theme/getinvolved_index.html. The html texts are translated in the 'spinx' "
+#~ "resource: https://www.transifex.com/qgis/qgis-website/sphinx/ Only TOC is "
+#~ "used."
 #~ msgstr ""

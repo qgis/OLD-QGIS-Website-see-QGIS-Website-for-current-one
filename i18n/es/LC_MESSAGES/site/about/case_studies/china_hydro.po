@@ -6,15 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2017-09-22 09:58+0000\n"
-"Last-Translator: Fran Raga <FRANKA1986@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: Fran Raga <FRANKA1986@gmail.com>, 2017\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/china_hydro.rst:3
 msgid "Producing an arcHYDRO like output with QGIS"
@@ -30,7 +31,11 @@ msgid ""
 "minor in Environmental Science."
 msgstr "Trabajo para una empresa de planificación urbana en China. A menudo es difícil diseñar una protección del medio ambiente adecuado debido a que las fuentes comunes de datos pueden ser un secreto de estado o pueden incluso no existir. Con frecuencia, se nos pide hacer diseños son datos adecuados. Además, usualmente no hay tiempo suficiente para estudiar apropiadamente. Mi formación es en Urbanismo con especialización en Ciencias Ambientales."
 
+msgid "Overview Context Map"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:14
+#, python-format
 msgid ""
 "The task was plan a conservation park on the Chinese side of the Ili River "
 "which supplies 80% of the water to Lake Balkhash.  FOSS GIS application + "
@@ -41,6 +46,9 @@ msgid ""
 "and would not pay to purchase GIS software to run the industry standard "
 "arcHYDRO."
 msgstr "La tarea era planear un parque de conservación en el lado chino del río Ili, que suministra el 80% del agua para el lago Balkhash. Aplicación FOSS GIS + almacenes de datos FOSS  GIS + educación FOSS GIS fueron fundamentales para reconstruir y modelar los procesos hidrológicos y ecológicos necesarios para la auténtica planificación de la conservación. Un no-científico sin formación previa o experiencia no podría haber hecho sin los tres. Mi empresa no lo hizo y no tendría que pagar para comprar el software SIG para ejecutar el estándar de la industria ArcHYDRO."
+
+msgid "Stream Order With Distance"
+msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:22
 msgid "Story"
@@ -57,6 +65,9 @@ msgid ""
 "the attribute tables."
 msgstr "Con un poco de ensayo y error podría ser capaz de producir un arcHYDRO como salida de QGIS. Comenzando con un DEM Hydrosheds de USGS que se convirtió en un Regularized Spline con Tension utilizando las funciones de GRASS dentro de QGIS y la capacitación por Helena Mitsova. La superficie RST se analizó esta superficie se encontraron las zonas de captación y flujo caminos, y en el resultado de topologías vectoriales se limpió en QGIS para generar la red hidrológica y también para construir las tablas de atributos."
 
+msgid "Curve Number Grid"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:31
 msgid ""
 "This network was ranked by r.stream extension in GRASS to build Hortons and "
@@ -67,6 +78,9 @@ msgid ""
 " each watershed.  In this workflow, the QGIS tool attribute by location was "
 "invaluable."
 msgstr "Esta red fue clasificada por la extensión r.stream en GRASS para construir Hortons y Hacks stream ordenados. Entonces, una distancia a la salida de rejilla de superficie se generó y se analizó mediante estadísticas zonales para encontrar el punto más lejano. A continuación, r.drain en GRASS traza una línea de tiempo de la concentración. Finalmente v.net en GRASS se utilizó para construir una red de puntos de fluidez, trayectorias de flujo, caminos TOC y HMDP para cada cuenca. En este flujo de trabajo, la herramienta de atributo de QGIS por ubicación fue invaluable."
+
+msgid "Flow Key"
+msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:38
 msgid ""
@@ -79,6 +93,9 @@ msgid ""
 " r.mapcalc and merged the soil and landcover grids into and NRCS TR-55 curve"
 " numbers following the arcHYDRO methodology."
 msgstr "Después de que la red hidrológica básica se finalizó, se utilizó la base de datos de suelos de UN FAO con la unión de la tabla para clasificar los suelos. Después, utilizando funciones de consulta en QGIS los suelos de la FAO fueron convertidos a suelos del USDA. Anteriormente, se descargo una rejilla ETM7 + de USGS que fue clasificada con el i.cluser y r.maxlik en GRASS en una rejilla NLCD. Mediante el uso de tablas de reclasificación, se convertió la cubierta vegetal a n-value Manning para el flujo superficial. Finalmente escribí una tabla de búsqueda en r.mapcalc y se unieron las rejillas del suelo y cubierta vegetal dentro y NRCS TR-55 números de la curva después de la metodología de arcHYDRO."
+
+msgid "Flow rates"
+msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:45
 msgid ""
@@ -120,6 +137,14 @@ msgid ""
 " Hydrologic & Hydraulic modelling, Landscape Ecology modelling, Ecosystem "
 "Valuation, Transportation Modelling and GIS-Based Design Visualization."
 msgstr "Robert Ward es un diseñador urbano y analista SIG en Parsons Brinkerhoff, trabajando en la intersección de la alta tecnología y el gran arte. Ha sido profesor en la Universidad de Tongji y Universidad de Autodesk. Él está interesado por Hidrológica y modelado hidráulico basado en SIG, modelización Ecología del Paisaje, Valoración de los Ecosistemas, Modelación de Transporte  y Visualización de Diseños basados en SIG."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "Robert Ward is an Urban Designer and GIS Analyst at Parsons Brinkerhoff "

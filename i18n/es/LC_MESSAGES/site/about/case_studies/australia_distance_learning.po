@@ -6,22 +6,24 @@
 # Translators:
 # Ignacio Arqué-Latour <ignacio.arquelatour@gmail.com>, 2019
 # Darío Hereñú, 2019
+# Abigaíl García, 2022
+# Eric Armijo, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 20:36+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:41+0000\n"
-"Last-Translator: Darío Hereñú, 2019\n"
+"Last-Translator: Eric Armijo, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/qgis/teams/6144/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:3
 msgid "QGIS for distance learning and teaching GIS at Universities"
@@ -154,6 +156,10 @@ msgstr ""
 "recursos de aprendizaje práctico son \"útiles\" a \"muy útiles\" en el "
 "aprendizaje de SIG. La mayoría de los demás lo calificaron como "
 "\"razonable\"."
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:36
+msgid "Student response graph"
+msgstr ""
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:36
 msgid "Students response graph"
@@ -311,3 +317,11 @@ msgstr ""
 "inigualable en su procesamiento. Esta familiaridad le permite desarrollar "
 "videos instructivos de QGIS basados en conjuntos de datos espaciales "
 "australianos."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

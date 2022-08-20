@@ -6,22 +6,23 @@
 # Translators:
 # Andrea Giudiceandrea <andreaerdna@libero.it>, 2019
 # Stefano Campus <skampus@gmail.com>, 2019
+# Giuseppe Mattiozzi <mattiozzig@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-19 17:16+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-12-19 16:24+0000\n"
-"Last-Translator: Stefano Campus <skampus@gmail.com>, 2019\n"
+"Last-Translator: Giuseppe Mattiozzi <mattiozzig@gmail.com>, 2022\n"
 "Language-Team: Italian (https://www.transifex.com/qgis/teams/6144/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/daily_reports/index.rst:4
 msgid "Daily Reports"
@@ -34,3 +35,11 @@ msgid ""
 msgstr ""
 "Giornalmente vengono generati alcuni rapporti per monitorare lo stato della "
 "certificazione e delle prestazioni di QGIS Server."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

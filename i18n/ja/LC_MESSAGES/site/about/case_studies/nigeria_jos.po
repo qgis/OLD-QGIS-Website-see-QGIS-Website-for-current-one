@@ -6,13 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2018-12-19 03:40+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -52,8 +53,8 @@ msgid ""
 "Mapping elevation and groundtruthing: We downloaded (free) elevation data "
 "originating from the NASA Shuttle Radar Topographic Mission (SRTM) for the "
 "area in which Amurum is located. (Information about the global elevation "
-"data set can be found here: http://www.cgiar-csi.org/data/elevation/item/45"
-"-srtm-90m-digital-elevation-database-v41)."
+"data set can be found here: http://www.cgiar-"
+"csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41)."
 msgstr "標高とgroundtruthingを地図化する：私たちはAmurumが配置されている領域についてNASAシャトルレーダー地形ミッション（SRTM）から発信（無料）標高データをダウンロードしました。（グローバル標高データセットに関する情報はここで見つけることができます： http://www.cgiar-csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41 ）。"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:19
@@ -134,6 +135,21 @@ msgstr "fTools内のランダムな点は、この目的のために使用され
 msgid "Conclusion"
 msgstr "結論"
 
+#: ../../source/site/about/case_studies/nigeria_jos.rst:53
+msgid ""
+"Overall, the course was a great success. We - a group of students with no "
+"previous GIS experience --- enjoyed working with QGIS a lot. Within just two"
+" weeks time we were able to develop an extremely useful map of the reserve. "
+"Amongst others, the extents of the various habitats were determined which "
+"allows for stratification and thus for better estimates of abundances of "
+"various kinds of organisms. Basically we are now able to do better "
+"ecological research using QGIS as an open source platform."
+msgstr "全体として、コースは大成功でした。以前にGISの経験がなかった学生グループは、QGISでの作業を楽しんでいました。ちょうど2週間のうちに、私たちは非常に有用な保護区の地図を作成することができました。とりわけ、様々な生息地の範囲が決定され、これは層別化を可能にし、したがって様々な種類の生物の存在量のより良い推定値を可能にする。今では基本的にQGISをオープンソースプラットフォームとして、より良い生態学的研究を行うことができます。"
+
+#: ../../source/site/about/case_studies/nigeria_jos.rst:60
+msgid "QGIS print composer for final graphic layout"
+msgstr "最終的なグラフィックレイアウト用のQGISプリントコンポーザー"
+
 #: ../../source/site/about/case_studies/nigeria_jos.rst:60
 msgid "QGIS map: Diversity of Amurum Forest Reserve"
 msgstr "QGISマップ：Amurum森林保護区の多様性"
@@ -149,16 +165,13 @@ msgid ""
 "Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"
 msgstr "アベンゴー・エイモン・チアディカビ、アデヤンジュ・テマディ・エスター、アキエネン・ネリオヤ、アルバート・マランガレ・タウエエ、アジ・アボク・ジョエル、エチュード・ダニエル、エルフ・フォルマー、ネオグ・チマ・ジョシア、オノア・ジョセフ・ダニエル、"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:53
-msgid ""
-"Overall, the course was a great success. We - a group of students with no "
-"previous GIS experience --- enjoyed working with QGIS a lot. Within just two"
-" weeks time we were able to develop an extremely useful map of the reserve. "
-"Amongst others, the extents of the various habitats were determined which "
-"allows for stratification and thus for better estimates of abundances of "
-"various kinds of organisms. Basically we are now able to do better "
-"ecological research using QGIS as an open source platform."
-msgstr "全体として、コースは大成功でした。以前にGISの経験がなかった学生グループは、QGISでの作業を楽しんでいました。ちょうど2週間のうちに、私たちは非常に有用な保護区の地図を作成することができました。とりわけ、様々な生息地の範囲が決定され、これは層別化を可能にし、したがって様々な種類の生物の存在量のより良い推定値を可能にする。今では基本的にQGISをオープンソースプラットフォームとして、より良い生態学的研究を行うことができます。"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "Overall, the course was a great success. We - a group of students with no "

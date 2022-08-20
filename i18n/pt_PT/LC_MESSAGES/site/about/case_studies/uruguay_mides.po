@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# Manuela Silva <manuelarodsilva@gmail.com>, 2018
+# Manuela Silva <mmsrs@sky.com>, 2018
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2019
 # 
 #, fuzzy
@@ -12,16 +12,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:26+0000\n"
 "Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>, 2019\n"
 "Language-Team: Portuguese (Portugal) (https://www.transifex.com/qgis/teams/6144/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_PT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:3
 msgid "Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)"
@@ -53,30 +53,30 @@ msgstr ""
 #: ../../source/site/about/case_studies/uruguay_mides.rst:13
 msgid ""
 "The National Division of Evaluation and Monitoring (`DINEM "
-"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-cometidos>`_"
-" ) is a section of MIDES that oversees the monitoring and evaluation of "
-"plans, programs, actions, devices and social projects through the national "
-"territory. DINEM also produces and manages necessary information to improve "
-"their design and implementation."
+"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-"
+"cometidos>`_ ) is a section of MIDES that oversees the monitoring and "
+"evaluation of plans, programs, actions, devices and social projects through "
+"the national territory. DINEM also produces and manages necessary "
+"information to improve their design and implementation."
 msgstr ""
 "A Divisão Nacional de Avaliação e Monitorização  (`DINEM "
-"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-cometidos>`_"
-" ) é uma seção do MIDES que supervisiona a monitorização e avaliação de "
-"planos, programas, ações, dispositivos e projetos sociais em todo o "
-"território nacional. O DINEM também produz e gerencia as informações "
+"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-"
+"cometidos>`_ ) é uma seção do MIDES que supervisiona a monitorização e "
+"avaliação de planos, programas, ações, dispositivos e projetos sociais em "
+"todo o território nacional. O DINEM também produz e gerencia as informações "
 "necessárias para melhorar o seu design e implementação."
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:18
 msgid ""
 "The `Department of Geography of DINEM "
-"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front"
-"/departamento-de-geografia>`_ is responsible for the production, management "
-"and analysis of geographical information,"
+"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front/departamento-"
+"de-geografia>`_ is responsible for the production, management and analysis "
+"of geographical information,"
 msgstr ""
 "O `Departamento de Geografia do DINEM "
-"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front"
-"/departamento-de-geografia>` _ é responsável pela produção, gestão e análise"
-" de informação geográfica,"
+"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front/departamento-"
+"de-geografia>` _ é responsável pela produção, gestão e análise de informação"
+" geográfica,"
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:22
 msgid "QGIS at the Department of Geography of the DINEM"
@@ -123,6 +123,11 @@ msgstr ""
 "pacotes estatísticos para gerir o banco de dados gerado, juntamente com um "
 "uso intensivo de GIS para organizar viagens de campo e georeferenciação de "
 "dados aliviados."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:40
+#: ../../source/site/about/case_studies/uruguay_mides.rst:55
+msgid "QGIS at work"
+msgstr ""
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:40
 msgid ""
@@ -235,4 +240,12 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:94
 msgid "Contact: mapas@mides.gub.uy"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""

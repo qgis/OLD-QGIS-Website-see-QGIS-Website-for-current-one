@@ -5,21 +5,21 @@
 # 
 # Translators:
 # Jürgen E. Fischer <jef@norbit.de>, 2020
-# Sorin Călinică <scalinica@gmail.com>, 2020
+# Sorin Călinică <scalinica@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:43+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2020\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2022\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -30,6 +30,10 @@ msgstr "Jurnalul schimbărilor pentru QGIS 3.6"
 #: ../../source/site/forusers/visualchangelog36/index.rst:7
 msgid "|image1|"
 msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1509
+msgid "image1"
+msgstr "image1"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:9
 msgid ""
@@ -128,6 +132,10 @@ msgstr ""
 msgid "|image2|"
 msgstr "|image2|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1511
+msgid "image2"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:34
 #: ../../source/site/forusers/visualchangelog36/index.rst:41
 #: ../../source/site/forusers/visualchangelog36/index.rst:166
@@ -137,8 +145,8 @@ msgstr "|image2|"
 msgid ""
 "This feature was developed by `Mathieu Pellerin <http://imhere-asia.com/>`__"
 msgstr ""
-"Această funcționalitate a fost dezvoltată de `Mathieu Pellerin <http"
-"://imhere-asia.com/>`__"
+"Această funcționalitate a fost dezvoltată de `Mathieu Pellerin "
+"<http://imhere-asia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:37
 msgid "Feature: Top/bottom centering placement for decoration items"
@@ -326,6 +334,10 @@ msgstr ""
 msgid "|image3|"
 msgstr "|image3|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1513
+msgid "image3"
+msgstr "image3"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:114
 #: ../../source/site/forusers/visualchangelog36/index.rst:474
 #: ../../source/site/forusers/visualchangelog36/index.rst:1080
@@ -511,6 +523,10 @@ msgstr ""
 msgid "|image4|"
 msgstr "|image4|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1515
+msgid "image4"
+msgstr "image4"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:181
 msgid "Feature: Multiline selections and editing in code/expression editors"
 msgstr ""
@@ -526,8 +542,8 @@ msgstr ""
 msgid ""
 "This feature was developed by `Nyall Dawson () <https://north-road.com>`__"
 msgstr ""
-"Această funcționalitate a fost dezvoltată de `Nyall Dawson () <https"
-"://north-road.com>`__"
+"Această funcționalitate a fost dezvoltată de `Nyall Dawson () "
+"<https://north-road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:188
 msgid "Symbology"
@@ -691,6 +707,10 @@ msgstr ""
 msgid "|image5|"
 msgstr "|image5|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1517
+msgid "image5"
+msgstr "image5"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:233
 msgid ""
 "Feature: Raster fill can have images set to remote URLs or embedded images"
@@ -750,6 +770,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:256
 msgid "|image6|"
 msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1519
+msgid "image6"
+msgstr "image6"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:258
 #: ../../source/site/forusers/visualchangelog36/index.rst:339
@@ -830,6 +854,10 @@ msgstr ""
 msgid "|image7|"
 msgstr "|image7|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1521
+msgid "image7"
+msgstr "image7"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:295
 msgid "This feature was funded by OSGeo UK, GeoServer PSC, Brad Hards"
 msgstr ""
@@ -837,8 +865,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:297
 msgid ""
-"This feature was developed by `Luigi Pirelli and GeoSolutions <https://www"
-".geo-solutions.it/>`__"
+"This feature was developed by `Luigi Pirelli and GeoSolutions "
+"<https://www.geo-solutions.it/>`__"
 msgstr ""
 "Această funcționalitate a fost dezvoltată de `Luigi Pirelli and GeoSolutions"
 " <https://www.geo-solutions.it/>`__"
@@ -863,6 +891,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:308
 msgid "|image8|"
 msgstr "|image8|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1523
+msgid "image8"
+msgstr "image8"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:310
 msgid ""
@@ -1079,15 +1111,15 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:423
 msgid "@legend\\_title"
-msgstr ""
+msgstr "@legend\\_title"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:424
 msgid "@legend\\_column\\_count"
-msgstr ""
+msgstr "@legend\\_column\\_count"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:425
 msgid "@legend\\_split\\_layers"
-msgstr ""
+msgstr "@legend\\_split\\_layers"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:426
 msgid "@legend\\_wrap\\_string"
@@ -1099,7 +1131,7 @@ msgstr "@legend\\_filter\\_by\\_map"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:428
 msgid "@legend\\_filter\\_out\\_atlas"
-msgstr ""
+msgstr "@legend\\_filter\\_out\\_atlas"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:430
 msgid ""
@@ -1200,6 +1232,10 @@ msgstr ""
 msgid "|image9|"
 msgstr "|image9|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1525
+msgid "image9"
+msgstr "image9"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:493
 msgid "Feature: Explode HStore algorithm"
 msgstr ""
@@ -1214,6 +1250,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:498
 msgid "|image10|"
 msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1527
+msgid "image10"
+msgstr "image10"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:500
 msgid ""
@@ -1239,6 +1279,10 @@ msgstr ""
 msgid "|image11|"
 msgstr "|image11|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1529
+msgid "image11"
+msgstr "image11"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:514
 msgid "Feature: Extract Binary Field algorithm"
 msgstr ""
@@ -1250,6 +1294,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:518
 msgid "|image12|"
 msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1531
+msgid "image12"
+msgstr "image12"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:525
 msgid "Feature: Split Lines by Maximum Length algorithm"
@@ -1270,6 +1318,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:531
 msgid "|image13|"
 msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1533
+msgid "image13"
+msgstr "image13"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:533
 msgid "This feature was developed by Nyall Dawson, Nathan Woodrow"
@@ -1322,6 +1374,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:558
 msgid "|image14|"
 msgstr "|image14|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1535
+msgid "image14"
+msgstr "image14"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:563
 msgid "Feature: Extract Z values and Extract M values algorithms"
@@ -1410,6 +1466,10 @@ msgstr ""
 msgid "|image15|"
 msgstr "|image15|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1537
+msgid "image15"
+msgstr "image15"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:604
 msgid "Feature: Resurrected model to Python script functionality"
 msgstr ""
@@ -1423,6 +1483,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:608
 msgid "|image16|"
 msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1539
+msgid "image16"
+msgstr "image16"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:610
 msgid "This feature was funded by `Solspec <http://solspec.io>`__"
@@ -1448,6 +1512,10 @@ msgstr ""
 msgid "|image17|"
 msgstr "|image17|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1541
+msgid "image17"
+msgstr "image17"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:629
 msgid "Browser"
 msgstr "Navigatorul"
@@ -1467,6 +1535,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:636
 msgid "|image18|"
 msgstr "|image18|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1543
+msgid "image18"
+msgstr "image18"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:638
 msgid ""
@@ -1512,6 +1584,10 @@ msgstr ""
 msgid "|image19|"
 msgstr "|image19|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1545
+msgid "image19"
+msgstr "image19"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:663
 msgid "Feature: Explore QGS/QGZ project files in the browser"
 msgstr ""
@@ -1541,6 +1617,10 @@ msgstr ""
 msgid "|image20|"
 msgstr "|image20|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1547
+msgid "image20"
+msgstr "image20"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:683
 msgid "Feature: Open Terminal at Path"
 msgstr ""
@@ -1566,6 +1646,10 @@ msgstr ""
 msgid "|image21|"
 msgstr "|image21|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1549
+msgid "image21"
+msgstr "image21"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:696
 msgid "General"
 msgstr "Generalități"
@@ -1577,6 +1661,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:701
 msgid "|image22|"
 msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1551
+msgid "image22"
+msgstr "image22"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:703
 msgid ""
@@ -1620,6 +1708,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:721
 msgid "|image23|"
 msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1553
+msgid "image23"
+msgstr "image23"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:723
 msgid ""
@@ -1805,6 +1897,10 @@ msgstr ""
 msgid "|image24|"
 msgstr "|image24|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1555
+msgid "image24"
+msgstr "image24"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:828
 msgid "This feature was developed by Marco Hugentobler"
 msgstr "Această funcționalitate a fost dezvoltată de Marco Hugentobler"
@@ -1879,9 +1975,13 @@ msgstr ""
 msgid "|image25|"
 msgstr "|image25|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1557
+msgid "image25"
+msgstr "image25"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:880
 msgid "Programmability"
-msgstr "Programabilitatea"
+msgstr "Programabilitate"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:883
 msgid "Feature: New class QgsExifTools"
@@ -2121,8 +2221,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1014
 msgid ""
-"See https://north-road.com/2019/01/14/on-custom-layout-checks-in-qgis-3-6"
-"-and-how-they-can-do-your-work-for-you/"
+"See https://north-road.com/2019/01/14/on-custom-layout-checks-in-"
+"qgis-3-6-and-how-they-can-do-your-work-for-you/"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1021
@@ -2227,6 +2327,10 @@ msgstr ""
 msgid "|image26|"
 msgstr "|image26|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1559
+msgid "image26"
+msgstr "image26"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:1069
 msgid "This feature was funded by QGIS community"
 msgstr "Această facilitate a fost finanțată de Comunitatea QGIS"
@@ -2251,13 +2355,17 @@ msgstr ""
 msgid "|image27|"
 msgstr "|image27|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1561
+msgid "image27"
+msgstr "image27"
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:1086
 msgid "Notable Fixes"
 msgstr "Corecții Importante"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1089
 msgid "Feature: Bug fixes by Alessandro Pasotti"
-msgstr "Funcționalitate: Remedieri efectuate de către Alessandro Pasotti"
+msgstr "Funcționalitate: Corecții efectuate de Alessandro Pasotti"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1092
 #: ../../source/site/forusers/visualchangelog36/index.rst:1159
@@ -2271,7 +2379,7 @@ msgstr "Funcționalitate: Remedieri efectuate de către Alessandro Pasotti"
 #: ../../source/site/forusers/visualchangelog36/index.rst:1433
 #: ../../source/site/forusers/visualchangelog36/index.rst:1484
 msgid "Bug Title"
-msgstr ""
+msgstr "Titlul Erorii"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1092
 #: ../../source/site/forusers/visualchangelog36/index.rst:1159
@@ -2407,7 +2515,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:1203
 #: ../../source/site/forusers/visualchangelog36/index.rst:1339
 msgid "unreported"
-msgstr ""
+msgstr "neraportat"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1106
 msgid "Form Value relation based on WFS layer"
@@ -2739,7 +2847,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1156
 msgid "Feature: Bug fixes by Alexander Bruy"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Alexander Bruy"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1161
 msgid "gdal buildvrt missing an important param"
@@ -3133,7 +3241,7 @@ msgstr "Această funcționalitate a fost dezvoltată de Alexander Bruy"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1221
 msgid "Feature: Bug fixes by Jürgen Fischer"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Jürgen Fischer"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1226
 msgid "Attribute table will not allow letter 'N' to be entered"
@@ -3540,7 +3648,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1272
 msgid "Feature: Bug fixes by Peter Petrik"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Peter Petrik"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1277
 msgid "Crash when adding existing field to vectorlayer"
@@ -3672,7 +3780,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1299
 msgid "Feature: Bug fixes by Julien Cabieces"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Julien Cabieces"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1304
 msgid "QGis 3.4 reproducible crash while in idle state"
@@ -3753,7 +3861,7 @@ msgstr "`#20523 <https://issues.qgis.org/issues/20523>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1312
 msgid "Works for me"
-msgstr ""
+msgstr "Funcționează pentru mine"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1314
 msgid "Can't remove a constraint set on a field once saved"
@@ -3826,7 +3934,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1328
 msgid "Feature: Bug fixes by Loïc Bartoletti"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Loïc Bartoletti"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1333
 msgid ""
@@ -3894,7 +4002,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1349
 msgid "Feature: Bug fixes by Victor Olaya"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Victor Olaya"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1354
 msgid ""
@@ -4046,7 +4154,7 @@ msgstr "Această funcționalitate a fost dezvoltată de Victor Olaya"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1380
 msgid "Feature: Bug fixes by Even Rouault"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Even Rouault"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1385
 msgid ""
@@ -4159,7 +4267,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1403
 msgid "Feature: Bug fixes by Martin Dobias"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Martin Dobias"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1408
 msgid "[vertex tool] Fix issue with hidden layers being editable"
@@ -4289,7 +4397,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1430
 msgid "Feature: Bug fixes by Nyall Dawson"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Nyall Dawson"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1435
 msgid "[postgis] Fix creation of new Z/M enabled, curved geometry type layers"
@@ -4719,7 +4827,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1481
 msgid "Feature: Bug fixes by Hugo Mercier"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Hugo Mercier"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1486
 msgid "Qgis 3.4.1 crashes when accessing methods of feature"
@@ -4732,7 +4840,7 @@ msgstr "`#20752 <https://issues.qgis.org/issues/20752>`__"
 #: ../../source/site/forusers/visualchangelog36/index.rst:1486
 #: ../../source/site/forusers/visualchangelog36/index.rst:1496
 msgid "closed"
-msgstr ""
+msgstr "închis"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1488
 msgid "Bad size request with a georeferenced raster"
@@ -4842,6 +4950,18 @@ msgstr ""
 "Această funcționalitate a fost dezvoltată de `Hugo Mercier "
 "<https://oslandia.com/>`__"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1563
+msgid "image28"
+msgstr "image28"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
+
 #~ msgid ""
 #~ ":raw-html:`<div id=\"qgissponsorsatom\"> <!-- to be filled via javascript "
 #~ "loading of atom feed --> </div>`"
@@ -4872,5 +4992,5 @@ msgstr ""
 #~ "This feature was funded by `Nyall Dawson (North Road) <http://north-"
 #~ "road.com>`__"
 #~ msgstr ""
-#~ "Această funcționalitate a fost finanțată de `Nyall Dawson (North Road) <http"
-#~ "://north-road.com>`__"
+#~ "Această funcționalitate a fost finanțată de `Nyall Dawson (North Road) "
+#~ "<http://north-road.com>`__"

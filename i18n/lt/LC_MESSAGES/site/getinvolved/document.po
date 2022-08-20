@@ -6,14 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
-"PO-Revision-Date: 2021-02-20 10:50+0000\n"
-"Last-Translator: Tomas Straupis\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: Tomas Straupis, 2015,2021\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
@@ -31,9 +31,9 @@ msgstr "QGIS dokumentacijos atnaujinimą valdo :ref:`Bendruomenės komandos vado
 #: ../../source/site/getinvolved/document.rst:10
 msgid ""
 "The complete list of documents managed by the QGIS documentation team can be"
-" found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
-"be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
-msgstr "Pilną QGIS dokumentacijos komandos valdomų dokumentų sąrašą rasite http://www.qgis.org/en/docs/index.html. Dokumentuotojų sąrašą rasite https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+" found at https://www.qgis.org/en/docs/index.html. A list of documenters can"
+" be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+msgstr "Pilną QGIS dokumentacijos komandos valdomų dokumentų sąrašą rasite https://www.qgis.org/en/docs/index.html. Dokumentuotojų sąrašą rasite https://github.com/qgis/QGIS-Documentation/graphs/contributors."
 
 #: ../../source/site/getinvolved/document.rst:17
 msgid "Documentation Mailing list"
@@ -87,11 +87,11 @@ msgstr "Mes bandome tobulinti savo projekto valdymo procesus ir tolygiau išdali
 #: ../../source/site/getinvolved/document.rst:45
 msgid ""
 "The complete list of documents managed by the QGIS Documentation Team can be"
-" found at http://www.qgis.org/en/docs/index.html. All the documentation "
+" found at https://www.qgis.org/en/docs/index.html. All the documentation "
 "sources are hosted in `QGIS-Documentation repository "
 "<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
 "features in QGIS or document new ones, you need to:"
-msgstr "Pilną sąrašą dokumentų, kuriuos tvarko QGIS dokumentacijos komanda, rasite http://www.qgis.org/lt/docs/index.html. Visi dokumentacijos išeities tekstai saugomi `QGIS-Dokumentacijos repozitorijoje <https://github.com/qgis/QGIS-Documentation>`_. Jei norite atnaujinti kai kurias QGIS savybes ar aprašyti naujas, jums reikės:"
+msgstr "Pilną sąrašą dokumentų, kuriuos tvarko QGIS dokumentacijos komanda, rasite https://www.qgis.org/lt/docs/index.html. Visi dokumentacijos išeities tekstai saugomi `QGIS-Dokumentacijos repozitorijoje <https://github.com/qgis/QGIS-Documentation>`_. Jei norite atnaujinti kai kurias QGIS savybes ar aprašyti naujas, jums reikės:"
 
 #: ../../source/site/getinvolved/document.rst:51
 msgid "have a `GitHub account <https://github.com/join>`_"
@@ -120,7 +120,7 @@ msgstr "Dokumentavimo ir git repozitorijos valdymo instrukcijas rasite `Dokument
 
 #: ../../source/site/getinvolved/document.rst:60
 msgid "**Direct access to source file**"
-msgstr ""
+msgstr "**Tiesioginė prieiga prie išeities failo**"
 
 #: ../../source/site/getinvolved/document.rst:62
 msgid ""
@@ -128,6 +128,14 @@ msgid ""
 " provided at the bottom of any page of the ``Testing`` documentation. It "
 "directly opens the source file in your forked repo. Just make your changes, "
 "commit in a new branch and submit pull request to the main repository."
+msgstr "Kad paprastai rastumėte failą, kurį reikia pakeisti repozitorijoje, naudokite nuorodą ``Pataisyk mane``, kurią rasite kiekvieno ``Testavimo`` dokumentacijos puslapio apačioje. Ji tiesiogiai atveria išeities failą jūsų repozitorijos kopijoje. Tiesiog atlikite pakeitimus, patvirtinkite naujoje šakoje ir sukurkite pakeitimo užklausą pagrindinei repozitorijai."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid "Update QGIS Documentation"
@@ -270,4 +278,18 @@ msgstr ""
 #~ "The update of the QGIS documentation is managed by the :ref:`Community Team "
 #~ "Lead <gui-translation>`. Have a look at the :ref:`QGIS Governance <gui-"
 #~ "translation>` to find out who is in charge of guiding you."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The complete list of documents managed by the QGIS documentation team can be"
+#~ " found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
+#~ "be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The complete list of documents managed by the QGIS Documentation Team can be"
+#~ " found at http://www.qgis.org/en/docs/index.html. All the documentation "
+#~ "sources are hosted in `QGIS-Documentation repository "
+#~ "<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
+#~ "features in QGIS or document new ones, you need to:"
 #~ msgstr ""

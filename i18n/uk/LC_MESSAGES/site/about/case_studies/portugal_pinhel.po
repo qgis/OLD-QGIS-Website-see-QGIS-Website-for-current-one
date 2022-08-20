@@ -4,13 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-20 01:09+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: uk\n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
@@ -64,6 +65,11 @@ msgid ""
 "not interfere negatively with the results, quite the opposite."
 msgstr "Після інтенсивного тестування та трирічного використання цієї методології для підготовки оперативних планів у муніципалітеті Піньел, можна сказати, що запропоновані альтернативи не тільки є повноцінною заміною але й мають певні переваги над власницьким програмним забезпеченням, яке зазвичай використовується для вирішення цієї задачі. Перевірка результатів показує, що не зважаючи на відносну простоту моделі, її здатність прогнозування знаходиться на досить високому рівні, а використання вільного програмного забезпечення не зменшує точність результатів, а навпаки підвищує."
 
+#: ../../source/site/about/case_studies/portugal_pinhel.rst
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:23
+msgid "Forest Fire Hazard and Risk Maps of Pinhel"
+msgstr ""
+
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:23
 msgid ""
 "Forest Fire Hazard and Risk Maps of Pinhel, implemented with Open Source "
@@ -84,6 +90,10 @@ msgid ""
 msgstr "На другому етапі ми спробували прискорити процес з використанням моделей, щоб розробити процес, який буде складатися з різних задач та не потребувати взаємодії з користувачем. Цей етап полягав в основному в автоматизації процедури, описаної у посібнику. Автоматизація означає зменшення кількості часу, необхідного фахівцям для виконання аналізу та підготовки річних планів захисту лісів, з годин інтенсивної роботи до лічених хвилин. При цьому втручання людини зводиться до вибору вхідних даних та розміщення результатів."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:32
+msgid "Interface of the Sextante Model"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:32
 msgid ""
 "Interface of the Sextante Model to calculate the Probability of the Forest "
 "Fire Hazard."
@@ -101,6 +111,10 @@ msgid ""
 " So, we've created a model to automate the process of producing Forest Fire "
 "Hazard and Risk maps, using GRASS, SAGA, fTools and MMQGIS tools."
 msgstr "На другому етапі ми використовували плаґін SEXTANTE, інтегрований в QGIS, який забезпечує доступ до різних програм (GRASS GIS, SAGA GIS, OTB, R, GDAL/OGR, Pymorph, LASTools, сценарії Python тощо) через єдиний інтерфейс. Крім інтеграції цих програм у QGIS, SEXTANTE має інструменти для створення моделей з використанням функціоналу всіх наявних програм. Ми створили модель для автоматизації створення карт ризиків лісових пожеж з використанням функціоналу GRASS, SAGA, fTools та MMQGIS."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:41
+msgid "Part of the model developed for automation of the production"
+msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:41
 msgid ""
@@ -173,3 +187,11 @@ msgid ""
 "Cartography and Geographic Information Systems at the Municipality of "
 "Pinhel."
 msgstr "Pedro Venâncio має ступінь бакалавра з геології, аспірант вільного програмного забезпечення та магістр з географічних інформаційних систем. Був дослідником у Центрі геофізики Університету Коїмбри, в Національній лабораторії цивільного будівництва, а в даний час відповідає за картографічні сервіси та географічні інформаційні системи в муніципалітеті Піньел."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

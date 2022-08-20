@@ -6,19 +6,25 @@
 # fairtommy <fairtommy@gmail.com>, 2017-2018
 # Satoshi IIDA <nyampire@gmail.com>, 2014
 # Richard Duivenvoorde <richard@duif.net>, 2016
+# tomoyuki arai <tarai.3367@gmail.com>, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2019-12-13 08:25+0000\n"
-"Last-Translator: Kayama Yoichi <yoichi.kayama@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: tomoyuki arai <tarai.3367@gmail.com>, 2022\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/forusers/support.rst:4
+msgid "Support"
+msgstr "サポート"
 
 #: ../../source/site/forusers/support.rst:8
 msgid "Mailing Lists"
@@ -28,61 +34,104 @@ msgstr "メーリングリスト"
 msgid ""
 "QGIS has a bunch of mailing lists. See :ref:`QGIS-mailinglists` for the "
 "different available lists."
-msgstr "QGISは多くのメーリングリストがあります。 :ref:`QGISメーリングリスト` を参照して様々な利用可能リストを探して下さい。"
+msgstr "QGISは多くのメーリングリストがあります。さまざまな利用可能なメーリングリストについては、 :ref:`QGIS-mailinglists` を参照してください。"
 
 #: ../../source/site/forusers/support.rst:12
 msgid ""
 "If you are going to ask questions please read this: :ref:`how-to-ask-a-QGIS-"
 "question`."
-msgstr "もし質問をしたい場合は是非  :ref:`how-to-ask-a-QGIS-question` を読んでからお願いします."
+msgstr "もし質問をしたい場合には、  :ref:`how-to-ask-a-QGIS-question` を読んでからお願いします。"
 
-#: ../../source/site/forusers/support.rst:35
-msgid "Chat"
-msgstr "チャット"
-
-#: ../../source/site/forusers/support.rst:37
-msgid "A lot of the development buzz will be spoken on IRC."
-msgstr "多くの開発者のつぶやきがIRCで発せられてます."
-
-#: ../../source/site/forusers/support.rst:27
+#: ../../source/site/forusers/support.rst:16
 msgid "StackExchange"
 msgstr "StackExchange"
 
+#: ../../source/site/forusers/support.rst:18
+msgid ""
+"On http://gis.stackexchange.com you can ask QGIS questions also. If you use "
+"the tag ``qgis`` you'll see all QGIS related questions and answers: "
+"http://gis.stackexchange.com/?tags=qgis"
+msgstr "http://gis.stackexchange.com でQGISの質問をすることもできます。 ``qgis`` タグを使用すると、すべてのQGIS関連の質問と回答が表示されます： http://gis.stackexchange.com/?tags=qgis"
+
+#: ../../source/site/forusers/support.rst:24
+msgid "Communication channels"
+msgstr "コミュニケーションチャンネル"
+
+#: ../../source/site/forusers/support.rst:27
+msgid "Telegram"
+msgstr "Telegram"
+
+#: ../../source/site/forusers/support.rst:29
+msgid ""
+"There is a lot of user and community related chat (english spoken) on the "
+"Telegram channel you can join here: "
+"https://t.me/joinchat/Aq2V5RPoxYYhXqUPoxRWPQ"
+msgstr "Telegramチャンネルにはたくさんのユーザーがいて、コミュニティに関するチャット（英語）が行われています。 https://t.me/joinchat/Aq2V5RPoxYYhXqUPoxRWPQ から参加できます。"
+
+#: ../../source/site/forusers/support.rst:32
+msgid ""
+"To join: install Telegram on your phone, register and join via link above."
+msgstr "参加するには、スマートフォンにTelegram をインストールして登録し、上記のリンクから参加します。"
+
+#: ../../source/site/forusers/support.rst:34
+msgid ""
+"There is also a web version (https://web.telegram.org) which you can join in"
+" the browser (after you joined telegram via your phone(number))."
+msgstr "ブラウザから参加可能なwebバージョン（ https://web.telegram.org ）もあります（Telegramに自分の電話番号で参加した後で利用可）。"
+
+#: ../../source/site/forusers/support.rst:37
+msgid "Matrix / IRC"
+msgstr "Matrix / IRC"
+
+#: ../../source/site/forusers/support.rst:39
+msgid ""
+"Matrix (https://matrix.org) is a project for decentralised chat. QGIS has a "
+"room accessible by the **#qgis:osgeo.org** alias (among others) which "
+"bridges to the libera.chat **#qgis** IRC channel."
+msgstr "Matrix（https://matrix.org）は、分散型チャットのためのプロジェクトです。QGISは **#qgis:osgeo.org** のエイリアスでアクセス可能なroom を持っており、libera.chat の **#qgis** IRCチャネルをブリッジしています。"
+
+#: ../../source/site/forusers/support.rst:41
+msgid ""
+"To use Matrix: create an account (at matrix.org is easiest, but if you have "
+"an OSGeo account you can also use your OSGeo id as matrix id), install a "
+"client (Elements is easiest, but see https://matrix.org/docs/projects/try-"
+"matrix-now/#clients for more), OR point your browser to "
+"(https://matrix.to/#/!qgis:osgeo.org)"
+msgstr "Matrixを使用するには、アカウントを作成し（matrix.org で作成するのが最も簡単ですが、OSGeo アカウントを持っている場合には、OSGeo IDをmatrix IDとして使用することもできます）、クライアントをインストール（Elements が簡単です。他は https://matrix.org/docs/projects/try-matrix-now/#clients を参照してください）するか、ブラウザで（ https://matrix.to/#/!qgis:osgeo.org ）を開いてください。"
+
+#: ../../source/site/forusers/support.rst:43
+msgid ""
+"To use IRC: install an IRC client and connect to irc://irc.libera.chat/#qgis"
+" or point your browser to https://web.libera.chat/?channels=#qgis"
+msgstr "IRCを使用するには、IRCクライアントをインストールし、 irc://irc.libera.chat/#qgis に接続するか、ブラウザで https://web.libera.chat/?channels=#qgis を開いてください。"
+
 #: ../../source/site/forusers/support.rst:46
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../../source/site/forusers/support.rst:47
+msgid ""
+"For Facebook users, an english-speaking global community group for QGIS "
+"users can be found at https://facebook.com/groups/612486875596534"
+msgstr "Facebookユーザーには、QGISユーザーのための英語話者のグローバルなコミュニティグループが https://facebook.com/groups/612486875596534 にあります。"
+
+#: ../../source/site/forusers/support.rst:51
 msgid "User Groups"
 msgstr "ユーザーグループ"
 
-#: ../../source/site/forusers/support.rst:72
-msgid "Issue Tracker"
-msgstr "課題トラッカー"
+#: ../../source/site/forusers/support.rst:53
+msgid "Local QGIS user groups are a great place to meet other users."
+msgstr "ローカルのQGISユーザーグループは、他のユーザーと会うためには絶好の場所です。"
 
-#: ../../source/site/forusers/support.rst:78
-msgid "Commercial Support"
-msgstr "コマーシャルサポート"
+#: ../../source/site/forusers/support.rst:55
+msgid "See :ref:`QGIS-usergroups` to read about it."
+msgstr "ローカルQGISユーザーグループについては、 :ref:`QGIS-usergroups` を参照してください。"
 
-#: ../../source/site/forusers/support.rst:80
-msgid ""
-"You can also get support from companies near you, please visit this page: "
-":ref:`QGIS-commercial_support`."
-msgstr "あなたの地域の企業からサポートを受けることも可能です。詳しくは以下を参照してください :ref:`QGIS-commercial_support`."
-
-#: ../../source/site/forusers/support.rst:16
-msgid "Searchable Mailing Lists"
-msgstr "メーリングリストを検索"
-
-#: ../../source/site/forusers/support.rst:18
-msgid "Nabble (http://nabble.com) keeps a history of a lot of mailinglists."
-msgstr "過去のメーリングリストの履歴の多くは Nabble (http://nabble.com) で保存されています。"
-
-#: ../../source/site/forusers/support.rst:84
-msgid "Forums"
-msgstr "フォーラム"
-
-#: ../../source/site/forusers/support.rst:54
+#: ../../source/site/forusers/support.rst:59
 msgid "Website"
 msgstr "ウェブサイト"
 
-#: ../../source/site/forusers/support.rst:56
+#: ../../source/site/forusers/support.rst:61
 msgid ""
 "The website should be used to publish any material in relation to the "
 "information and management of the user group. Examples include the user "
@@ -92,66 +141,41 @@ msgid ""
 " Google+). Usage of social media is recommended but should not be the only "
 "channel of information. RSS feeds should be made available at the Website of"
 " the QGIS user group."
-msgstr "ウェブサイトは、ユーザー・グループの情報や管理に関連する何らかの材料を公開するために使用してください。例としては、ユーザーミーティング、ケーススタディ、共有材料、ディスカッションボード、など。公共の材料はログイン要件なしで利用可能にしてください（例えば、興味を持った人がFacebookやGoogle+などのソーシャルメディアネットワークのメンバーになることを必要としない）。ソーシャルメディアの利用は推奨されますが、唯一の情報のチャネルではありません。RSSフィードはQGISのユーザー・グループのウェブサイトで利用できるようにすべきです。 "
+msgstr "ウェブサイトは、ユーザーグループの情報や管理に関連する何らかの材料を公開するために使用してください。例としては、ユーザーミーティング、ケーススタディ、共有材料、ディスカッションボードなどがあります。公開資料はログイン要件なしで利用可能にしてください（例えば、興味を持った人がFacebookやGoogle+などのソーシャルメディアネットワークのメンバーになることを必要としない）。ソーシャルメディアの利用は推奨されますが、唯一の情報のチャネルであってはなりません。RSSフィードはQGISのユーザーグループのウェブサイトで利用できるようにする必要があります。 "
 
-#: ../../source/site/forusers/support.rst:65
+#: ../../source/site/forusers/support.rst:70
 msgid ""
 "Good luck with the organization of your local user group. Please inform the "
 "international QGIS team by registering at the QGIS community list and "
 "reporting about your progress. Please do not hesitate to ask questions "
 "regarding the establishment and maintenance of your local user group."
-msgstr "ローカルユーザーグループの組織がうまくいきますよう。QGISコミュニティリストに登録し、進捗状況について報告することによって、国際QGISチームにお知らせください。ローカルユーザーグループの確立と維持に関して遠慮なくご質問ください。"
+msgstr "ローカルユーザーグループの組織化がうまくいくよう祈ります。QGISコミュニティリストに登録することによって国際QGISチームに知らせ、進捗状況について報告してください。ローカルユーザーグループの設立と維持に関して、遠慮なくご質問ください。"
 
-#: ../../source/site/forusers/support.rst:74
+#: ../../source/site/forusers/support.rst:77
+msgid "Issue Tracker"
+msgstr "イシュートラッカー"
+
+#: ../../source/site/forusers/support.rst:79
 msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
-msgstr "バグや問題を提出したい場合は、 :ref:`QGIS-bugreporting` を参照してください。"
+msgstr "バグやイシューを提出したい場合は、 :ref:`QGIS-bugreporting` を参照してください。"
 
-#: ../../source/site/forusers/support.rst:4
-msgid "Support"
-msgstr "サポート"
+#: ../../source/site/forusers/support.rst:83
+msgid "Commercial Support"
+msgstr "商用サポート"
 
-#: ../../source/site/forusers/support.rst:86
+#: ../../source/site/forusers/support.rst:85
 msgid ""
-"QGIS does not have a forum. Please either search in StackExchange (see "
-"below), or via http://nabble.com in the history of our Mailinglists (see "
-"above)."
-msgstr "QGISはフォーラムを持っていません。StackExchange内（下記参照）、または当社のメーリングリストの履歴の中で http://nabble.com を介して（上記参照）、検索してください。"
+"You can also get support from companies near you, please visit this page: "
+":ref:`QGIS-commercial_support`."
+msgstr "あなたの地域の企業からサポートを受けることも可能です。詳しくは以下を参照してください :ref:`QGIS-commercial_support`."
 
-#: ../../source/site/forusers/support.rst:89
-msgid ""
-"For non-english, note that there also exist local forums that have a "
-"dedicated section for QGIS you may need to search in."
-msgstr "英語以外の場合QGISのための専用のセクションを持っている地元のフォーラムも存在することに注意してください。それらは検索する必要があるでしょう。"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/forusers/support.rst:29
-msgid ""
-"On http://gis.stackexchange.com you can ask QGIS questions also. If you use "
-"the tag ``qgis`` you'll see all QGIS related questions and answers: "
-"http://gis.stackexchange.com/?tags=qgis"
-msgstr "http://gis.stackexchange.com でQGISの質問をすることもできます。 ``qgis`` タグを使用すると、すべてのQGIS関連の質問と回答が表示されます： http://gis.stackexchange.com/?tags=qgis"
-
-#: ../../source/site/forusers/support.rst:39
-msgid ""
-"There is a #qgis channel on freenode.net. You can also use a web interface: "
-"http://webchat.freenode.net/?channels=#qgis If you missed a discussion on "
-"IRC, not a problem! We log all discussion, so you can easily catch up. Just "
-"go to https://qgis.org/irclogs."
-msgstr "freenode.net 上に #qgis チャネルがあります。Webインタフェースも使用できます： http://webchat.freenode.net/?channels=#qgis 。IRC上の議論を見逃しても問題ありません！すべての議論の記録を残していますので、簡単に追いつくことができます。 https://qgis.org/irclogs に行くだけです。"
-
-#: ../../source/site/forusers/support.rst:48
-msgid "Local QGIS user groups are a great place to meet other users."
-msgstr "ローカルQGISのユーザーグループは、他のユーザーと会うためには絶好の場所です。"
-
-#: ../../source/site/forusers/support.rst:50
-msgid "See :ref:`QGIS-usergroups` to read about it."
-msgstr "それについて読むために :ref:`QGIS-usergroups` を参照してください。"
-
-#: ../../source/site/forusers/support.rst:20
-msgid ""
-"If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
-"you see there is a QGIS section also, where you can do a search over all "
-"QGIS lists, or refine it to e.g. only the users list."
-msgstr "それのOSGEOセクション http://osgeo-org.1560.x6.nabble.com/ に移動した場合、そこにQGISセクションも見つけられます。例えばユーザリストを使ってみるとQGISリストの検索を行ったり、絞り込みを行うことができます。"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
@@ -263,8 +287,8 @@ msgstr "それのOSGEOセクション http://osgeo-org.1560.x6.nabble.com/ に�
 #~ msgstr ""
 
 #~ msgid ""
-#~ "french (translation): http://www.qgis.ch/fr/association/statuts-du-groupe-"
-#~ "d2019utilisateurs-qgis-suisse"
+#~ "french (translation): http://www.qgis.ch/fr/association/statuts-du-"
+#~ "groupe-d2019utilisateurs-qgis-suisse"
 #~ msgstr ""
 
 #~ msgid "Membership application forms:"
@@ -318,4 +342,51 @@ msgstr "それのOSGEOセクション http://osgeo-org.1560.x6.nabble.com/ に�
 #~ msgstr ""
 
 #~ msgid "On http://gis.stackexchange.com you can ask QGIS questions also."
+#~ msgstr ""
+
+#~ msgid "A lot of the development buzz will be spoken on IRC."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "There is a #qgis channel on freenode.net. You can also use a web interface: "
+#~ "http://webchat.freenode.net/?channels=#qgis If you missed a discussion on "
+#~ "IRC, not a problem! We log all discussion, so you can easily catch up. Just "
+#~ "go to https://qgis.org/irclogs."
+#~ msgstr ""
+
+#~ msgid "Searchable Mailing Lists"
+#~ msgstr ""
+
+#~ msgid "Nabble (http://nabble.com) keeps a history of a lot of mailinglists."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
+#~ "you see there is a QGIS section also, where you can do a search over all "
+#~ "QGIS lists, or refine it to e.g. only the users list."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To use Matrix: create an account (at matrix.org is easiest, but if you have "
+#~ "an OSGeo account you can also use your OSGeo id as matrix id), install a "
+#~ "client (Elements is easiest, but see https://matrix.org/docs/projects/try-"
+#~ "matrix-now/#clients for more), OR point your browser to "
+#~ "(https://matrix.to/#qgis:osgeo.org)"
+#~ msgstr ""
+
+#~ msgid "Forums"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS does not have a forum. Please either search in StackExchange (see "
+#~ "below), or via http://nabble.com in the history of our Mailinglists (see "
+#~ "above)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For non-english, note that there also exist local forums that have a "
+#~ "dedicated section for QGIS you may need to search in."
+#~ msgstr ""
+
+#~ msgid "Chat"
 #~ msgstr ""

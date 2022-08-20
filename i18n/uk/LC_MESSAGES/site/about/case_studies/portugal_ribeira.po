@@ -4,13 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-20 01:09+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: uk\n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
@@ -31,6 +32,7 @@ msgid ""
 msgstr "Іберійський вовк --- підвид сірого вовка, що зустрічається лише на півночі Португалії та Іспанії, та в окремих ізольованих областях у південному басейні річки Дору. Протягом останнього сторіччя його чисельність різко скоротилася, він отримав статус «вимираючого» в Іспанії та «під загрозою зникнення» у Португалії. На сьогодні, в Португалії нараховується лише близько 300 вовків, в основному через постійні переслідування, знищення та зменшення кількості площ, придатних для проживання."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:12
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:56
 msgid "Study area in Portugal"
 msgstr "Район досліджень у Португалії"
 
@@ -65,46 +67,6 @@ msgid ""
 "enthusiastic with the analytical capabilities QGIS provided, specially with "
 "GRASS integration."
 msgstr "В той же час я відкрила для себе світ Linux. Після того, мені запропонували допомогти дослідникам змоделювати екологічні коридори для вовків у Рібейра-де-Піна з використанням ГІС, оскільки вони самі ніколи не працювали з такими програмами. Так як я вже використовувала Linux, моєю першою проблемою став пошук необхідного програмного забезпечення. Саме тоді я дізналась про QGIS та вирішила спробувати її, хоча вона й виглядала дуже примітивною та незавершеною у порівнянні з відомими мені програмами. Я дуже швидко зрозуміла, як я помилялась, та була вражена аналітичними можливостями QGIS, особливо з врахуванням інтеграції з GRASS."
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:39
-msgid ""
-"Ecological corridors and critical conservation areas for wolves in northern "
-"Portugal."
-msgstr "Екологічні коридори та важливі для виживання вовків області у північній Португалії"
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:42
-msgid "Conclusion"
-msgstr "Підсумки"
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:44
-msgid ""
-"Both QGIS and plugin GRASS are very intuitive with user-friendly interface, "
-"with all essential functions to perform most analysis. For what I could see,"
-" QGIS and GRASS perform equally as well as the proprietary programs I was "
-"most familiar with from college days, with the big advantage of free open-"
-"source software, usable in every computer or notebook without licenses, "
-"constant upgrades and the ultimate advantage to contribute to it's "
-"improvement and/or tip the developers about some essential function."
-msgstr "І QGIS, і плаґін GRASS мають зручний та простий інтерфейс та мають все необхідне для виконання більшості видів аналізу. З мого досвіду, QGIS та GRASS працюють так само як і власницьке програмне забезпечення, з яким я працювала протягом свого навчання. Але великою перевагою вільного програмного забезпечення є можливість його використання на будь-якому комп'ютері чи ноутбуку без жодних ліцензій, постійне оновлення та унікальна можливість зробити свій внесок або привернути увагу розробників до якоїсь важливої функції."
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:46
-msgid ""
-"Changing to Linux and then to QGIS and GRASS was one of my best calls, and "
-"although there can be some missing issues, easily resolved in the future "
-"with the developers, I don't regret my decision and advise everyone to use "
-"them."
-msgstr "Перехід на Linux, а потім на QGIS та GRASS були одними з моїх найкращих рішень. І хоча деякі можливості відсутні, вони дуже скоро будуть реалізовані розробниками. Я не шкодую про свій вибір та раджу всім використовувати їх."
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:49
-msgid "Author"
-msgstr "Автор"
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:58
-msgid ""
-"This article was contributed in July 2012 by Monica Almeida. She is "
-"conservation biologist working in an non-governmental organization in the "
-"preservation of wolf in Portugal."
-msgstr "Monica Almeida надіслала цю статтю у липні 2012 р. Вона біолог та працює у недержавній установі зі збереження вовків у Португалії."
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:20
 msgid ""
@@ -167,9 +129,61 @@ msgid ""
 "human impact in this species."
 msgstr "У цій роботі ми отримали карту потенційних екологічних коридорів для вовків у муніципалітеті Рібейра-де-Піна. Ці області будуть враховуватися працівниками адміністрації під час планування заходів зі збереження виду. Коридори мають надзвичайну важливість, оскільки вони з'єднують розрізнені та нестабільні вовчі зграї у Віла-Реал на півдні з більш стабільними на півночі у Пенеда-Жереш та Іспанії. Особливу увагу слід звернути на те, що ці коридору перетинають людські поселення: маленькі селища, міста та дороги. Ці ділянки необхідні для збереження вовків, необхідно вжити заходів для зменшення впливу людини на них."
 
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:39
+msgid "Ecological corridors and critical conservation areas for wolves"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:39
+msgid ""
+"Ecological corridors and critical conservation areas for wolves in northern "
+"Portugal."
+msgstr "Екологічні коридори та важливі для виживання вовків області у північній Португалії"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:42
+msgid "Conclusion"
+msgstr "Підсумки"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:44
+msgid ""
+"Both QGIS and plugin GRASS are very intuitive with user-friendly interface, "
+"with all essential functions to perform most analysis. For what I could see,"
+" QGIS and GRASS perform equally as well as the proprietary programs I was "
+"most familiar with from college days, with the big advantage of free open-"
+"source software, usable in every computer or notebook without licenses, "
+"constant upgrades and the ultimate advantage to contribute to it's "
+"improvement and/or tip the developers about some essential function."
+msgstr "І QGIS, і плаґін GRASS мають зручний та простий інтерфейс та мають все необхідне для виконання більшості видів аналізу. З мого досвіду, QGIS та GRASS працюють так само як і власницьке програмне забезпечення, з яким я працювала протягом свого навчання. Але великою перевагою вільного програмного забезпечення є можливість його використання на будь-якому комп'ютері чи ноутбуку без жодних ліцензій, постійне оновлення та унікальна можливість зробити свій внесок або привернути увагу розробників до якоїсь важливої функції."
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:46
+msgid ""
+"Changing to Linux and then to QGIS and GRASS was one of my best calls, and "
+"although there can be some missing issues, easily resolved in the future "
+"with the developers, I don't regret my decision and advise everyone to use "
+"them."
+msgstr "Перехід на Linux, а потім на QGIS та GRASS були одними з моїх найкращих рішень. І хоча деякі можливості відсутні, вони дуже скоро будуть реалізовані розробниками. Я не шкодую про свій вибір та раджу всім використовувати їх."
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:49
+msgid "Author"
+msgstr "Автор"
+
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:56
 msgid "Monica Almeida"
 msgstr "Monica Almeida"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:58
+msgid ""
+"This article was contributed in July 2012 by Monica Almeida. She is "
+"conservation biologist working in an non-governmental organization in the "
+"preservation of wolf in Portugal."
+msgstr "Monica Almeida надіслала цю статтю у липні 2012 р. Вона біолог та працює у недержавній установі зі збереження вовків у Португалії."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "To model the ecological corridors, we used the QGIS along with the GRASS "

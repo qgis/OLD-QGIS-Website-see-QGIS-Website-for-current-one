@@ -5,26 +5,26 @@
 # 
 # Translators:
 # Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2020
-# Harrissou Sant-anna, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2020
 # MarieSilvestre, 2020
 # Vincent Bré <vincent.bre@outlook.fr>, 2020
+# Harrissou Sant-anna, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-13 10:56+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2020-03-13 10:08+0000\n"
-"Last-Translator: Vincent Bré <vincent.bre@outlook.fr>, 2020\n"
+"Last-Translator: Harrissou Sant-anna, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:2
 msgid "List of Project Steering Committee Resolutions - 2019"
@@ -410,3 +410,11 @@ msgid ""
 msgstr ""
 "**Votes** : En faveur : Anita, Tim, Paolo, Andreas, Jürgen. Abstention : "
 "Marco"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

@@ -2,18 +2,19 @@
 # Translators:
 # DiGro, 2015-2016,2019-2020
 # Diethard Jansen <diethard.jansen@gmail.com>, 2013
+# DiGro, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-09 12:40+0200\n"
-"PO-Revision-Date: 2020-07-09 15:23+0000\n"
-"Last-Translator: DiGro\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -28,6 +29,7 @@ msgid ""
 msgstr "QGIS is niet alleen een desktop GIS. We verschaffen ook een browser voor ruimtelijke bestanden, een toepassing als server, en toepassingen voor het web."
 
 #: ../../source/site/about/features.rst:7
+#: ../../source/site/about/features.rst:16
 msgid "QGIS Desktop"
 msgstr "QGIS Desktop"
 
@@ -44,6 +46,7 @@ msgid "A screenshot of QGIS Desktop"
 msgstr "Een schermafbeelding van QGIS Desktop"
 
 #: ../../source/site/about/features.rst:19
+#: ../../source/site/about/features.rst:33
 msgid "QGIS Server"
 msgstr "QGIS Server"
 
@@ -55,11 +58,15 @@ msgid ""
 "implementation for WMS 1.3."
 msgstr "Publiceer uw projecten en lagen van QGIS als OGC-compatibel WMS-, WMTS-, WFS- en WCS-services. Volledig beheer over welke lagen, attribuutwaarden, lay-outs en coördinatensystemen zullen worden geëxporteerd. QGIS server wordt beschouwd als een implementatie voor verwijzing voor WMS 1.3."
 
+msgid "QGIS Server OGC cerfication badge"
+msgstr "QGIS Server OGC cerficatie-badge"
+
 #: ../../source/site/about/features.rst:33
 msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
 msgstr "Een schermafbeelding van QGIS Server configuratie in QGIS Desktop"
 
 #: ../../source/site/about/features.rst:36
+#: ../../source/site/about/features.rst:45
 msgid "QGIS Web Client"
 msgstr "QGIS Webcliënt"
 
@@ -88,26 +95,46 @@ msgid "`QField for QGIS (formerly QGIS for Android) <https://qfield.org>`_"
 msgstr "`QField for QGIS (eerder QGIS for Android) <https://qfield.org>`_"
 
 #: ../../source/site/about/features.rst:59
+msgid "QField"
+msgstr "QField"
+
+#: ../../source/site/about/features.rst:59
 msgid ""
 "A screenshot of QField for QGIS (available for Android, Windows, iOS coming "
 "soon)"
 msgstr "Een schermafdruk van QField for QGIS (beschikbaar voor Android, Windows, iOS komt binnenkort)"
 
 #: ../../source/site/about/features.rst:62
-msgid "`Input <https://inputapp.io>`_"
-msgstr "`Input <https://inputapp.io>`_"
+msgid "`Mergin Maps Input app <https://merginmaps.com>`_"
+msgstr "`Mergin Maps Input app <https://merginmaps.com>`_"
 
 #: ../../source/site/about/features.rst:66
-msgid "A screenshot of Input (available for Android, Windows, iOS)"
-msgstr "Een schermafdruk van Input (beschikbaar voor Android, Windows, iOS)"
+msgid "Mergin Maps Input app"
+msgstr "Mergin Maps Input app"
+
+#: ../../source/site/about/features.rst:66
+msgid "A screenshot of Mergin Maps Input app (available for Android, iOS)"
+msgstr "Een schermafdruk van Mergin Maps Input app (beschikbaar voor Android, iOS)"
 
 #: ../../source/site/about/features.rst:69
 msgid "`IntraMaps Roam <https://roam-docs.readthedocs.io>`_"
 msgstr "`IntraMaps Roam <https://roam-docs.readthedocs.io>`_"
 
 #: ../../source/site/about/features.rst:73
+msgid "Roam"
+msgstr "Roam"
+
+#: ../../source/site/about/features.rst:73
 msgid "A screenshot of IntraMaps Roam (available for Windows)"
 msgstr "Een schermafdruk van IntraMaps Roam (beschikbaar voor Windows)"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS Applications"
 #~ msgstr ""
@@ -142,4 +169,10 @@ msgstr "Een schermafdruk van IntraMaps Roam (beschikbaar voor Windows)"
 #~ msgstr ""
 
 #~ msgid "A screenshot of QGIS on Android"
+#~ msgstr ""
+
+#~ msgid "`Input <https://inputapp.io>`_"
+#~ msgstr ""
+
+#~ msgid "A screenshot of Input (available for Android, Windows, iOS)"
 #~ msgstr ""

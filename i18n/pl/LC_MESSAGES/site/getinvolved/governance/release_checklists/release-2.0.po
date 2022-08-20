@@ -4,18 +4,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2020-03-16 09:02+0000\n"
-"Last-Translator: Radoslaw Pasiok <rpasiok@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish (http://www.transifex.com/qgis/qgis-website/language/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pl\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:2
 msgid "Checklist for QGIS Release 2.0"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:9
+msgid "Key Dates"
 msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:11
@@ -83,6 +88,10 @@ msgstr ""
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:35
 msgid ""
 "|checkbox_unchecked| Small enhancements and bug fixes can continue in trunk"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:36
@@ -346,6 +355,140 @@ msgstr ""
 msgid "Packaging Team"
 msgstr ""
 
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:128
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:150
+msgid "Tim Sutton"
+msgstr "Tim Sutton"
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:128
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:150
+msgid "tim at linfiniti.com"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:128
+msgid "Release Manager"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:130
+msgid "Jürgen E. Fischer"
+msgstr "Jürgen E. Fischer"
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:130
+msgid "jef at norbit.de"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:130
+msgid "Ubuntu Packages"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:132
+msgid "Jürgen E. Fischer / Tim Sutton"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:132
+msgid "jef at norbit.de / tim at linfiniti.com"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:132
+msgid "Windows packaging"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:134
+msgid "Otto Dassau"
+msgstr "Otto Dassau"
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:134
+msgid "otto.dassau at gmx.de"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:134
+msgid "openSUSE Packaging"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:136
+msgid "William"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:136
+msgid "kyngchaos at kyngchaos.com"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:136
+msgid "OSX Frameworks Build and OSX all in one bundle"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:138
+msgid "Niccolo Rigacci"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:138
+msgid "qgis at rigacci.org"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:138
+msgid "Debian Lenny"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:140
+msgid "Volker Fröhlich"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:140
+msgid "volker27 at gmx.at"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:140
+msgid "Fedora packaging"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:142
+msgid "BABA Yoshihiko"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:142
+msgid "babayoshihiko at mac.com"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:142
+msgid "OSX via Fink"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:144
+msgid "Antonio Chay"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:144
+msgid "antonio.chay at gmail.com"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:144
+msgid "CentOS 5.x"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:146
+msgid "Jeremy Spykerman"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:146
+msgid "jeremy.spykerman at gmail.com"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:148
+msgid "Jim Hammack"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:148
+msgid "hammack AT gotslack.org"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:148
+msgid "Slackware 13.0"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:150
+msgid "Source @ qgis.org/downloads/"
+msgstr ""
+
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:153
 msgid ""
 "Packages should be uploaded to qgis.org into the appropriate subdirs under "
@@ -447,8 +590,8 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:188
 msgid ""
-"|checkbox_unchecked| freegis-list: http://intevation.de/mailman/listinfo"
-"/freegis-list"
+"|checkbox_unchecked| freegis-list: "
+"http://intevation.de/mailman/listinfo/freegis-list"
 msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:189
@@ -459,8 +602,8 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:190
 msgid ""
-"|checkbox_unchecked| qgis-user: http://lists.osgeo.org/mailman/listinfo"
-"/qgis-user"
+"|checkbox_unchecked| qgis-user: "
+"http://lists.osgeo.org/mailman/listinfo/qgis-user"
 msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:191
@@ -509,8 +652,8 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:199
 msgid ""
-"|checkbox_unchecked| viscom-de: http://lists.osgeo.org/mailman/listinfo"
-"/viscom-discuss-de (german)"
+"|checkbox_unchecked| viscom-de: "
+"http://lists.osgeo.org/mailman/listinfo/viscom-discuss-de (german)"
 msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:200
@@ -653,6 +796,10 @@ msgstr ""
 msgid "Announcing the release"
 msgstr ""
 
+#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:382
+msgid "Note you can get stats for the previous release like with \"awstats\"::"
+msgstr ""
+
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:387
 msgid "IRC TOPIC update"
 msgstr ""
@@ -714,146 +861,8 @@ msgstr ""
 msgid "A generic features list"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:128
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:150
-msgid "Tim Sutton"
-msgstr "Tim Sutton"
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:128
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:150
-msgid "tim at linfiniti.com"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:128
-msgid "Release Manager"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:130
-msgid "Jürgen E. Fischer"
-msgstr "Jürgen E. Fischer"
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:130
-msgid "jef at norbit.de"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:130
-msgid "Ubuntu Packages"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:132
-msgid "Jürgen E. Fischer / Tim Sutton"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:132
-msgid "jef at norbit.de / tim at linfiniti.com"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:132
-msgid "Windows packaging"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:134
-msgid "Otto Dassau"
-msgstr "Otto Dassau"
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:134
-msgid "otto.dassau at gmx.de"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:134
-msgid "openSUSE Packaging"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:136
-msgid "William"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:136
-msgid "kyngchaos at kyngchaos.com"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:136
-msgid "OSX Frameworks Build and OSX all in one bundle"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:138
-msgid "Niccolo Rigacci"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:138
-msgid "qgis at rigacci.org"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:138
-msgid "Debian Lenny"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:140
-msgid "Volker Fröhlich"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:140
-msgid "volker27 at gmx.at"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:140
-msgid "Fedora packaging"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:142
-msgid "BABA Yoshihiko"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:142
-msgid "babayoshihiko at mac.com"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:142
-msgid "OSX via Fink"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:144
-msgid "Antonio Chay"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:144
-msgid "antonio.chay at gmail.com"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:144
-msgid "CentOS 5.x"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:146
-msgid "Jeremy Spykerman"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:146
-msgid "jeremy.spykerman at gmail.com"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:148
-msgid "Jim Hammack"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:148
-msgid "hammack AT gotslack.org"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:148
-msgid "Slackware 13.0"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:150
-msgid "Source @ qgis.org/downloads/"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:9
-msgid "Key Dates"
-msgstr ""
-
-#: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:382
-msgid "Note you can get stats for the previous release like with \"awstats\"::"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
 msgstr ""
 
 #~ msgid "Key Dates:"

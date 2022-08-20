@@ -6,15 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:58+0000\n"
-"Last-Translator: Marco Grisolia <marco.grisolia5@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: Marco Grisolia <marco.grisolia5@gmail.com>, 2016\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:3
 msgid ""
@@ -52,8 +53,8 @@ msgid ""
 "Mapping elevation and groundtruthing: We downloaded (free) elevation data "
 "originating from the NASA Shuttle Radar Topographic Mission (SRTM) for the "
 "area in which Amurum is located. (Information about the global elevation "
-"data set can be found here: http://www.cgiar-csi.org/data/elevation/item/45"
-"-srtm-90m-digital-elevation-database-v41)."
+"data set can be found here: http://www.cgiar-"
+"csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41)."
 msgstr "Mappatura dell'elevazione e classificazione del terreno: Abbiamo scaricato (gratuitamente) i dati di elevazione provenienti dal radar della NASA Shuttle Radar Topographic Mission (SRTM) per la zona in cui si trova Amurum. (le Informazioni sul set di dati di elevazione globale possono essere trovate qui: http://www.cgiar-csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41)."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:19
@@ -134,6 +135,21 @@ msgstr "I punti casuali in fTools sono stati usati per questo scopo. Tutti i luo
 msgid "Conclusion"
 msgstr "In conclusione"
 
+#: ../../source/site/about/case_studies/nigeria_jos.rst:53
+msgid ""
+"Overall, the course was a great success. We - a group of students with no "
+"previous GIS experience --- enjoyed working with QGIS a lot. Within just two"
+" weeks time we were able to develop an extremely useful map of the reserve. "
+"Amongst others, the extents of the various habitats were determined which "
+"allows for stratification and thus for better estimates of abundances of "
+"various kinds of organisms. Basically we are now able to do better "
+"ecological research using QGIS as an open source platform."
+msgstr "Nel complesso, il corso è stato un grande successo. Noi - un gruppo di studenti con nessuna esperienza precedente GIS --- abbiamo apprezzato molto il lavoro con QGIS. In due settimane di tempo siamo stati in grado di sviluppare una mappa estremamente utile della riserva. Tra gli altri, le estensioni dei vari habitat consentono una migliore stratificazione e quindi per una previsione delle abbondanze di vari tipi di organismi. In fondo siamo ora in grado di fare meglio della ricerca ecologica utilizzando QGIS come una piattaforma open source."
+
+#: ../../source/site/about/case_studies/nigeria_jos.rst:60
+msgid "QGIS print composer for final graphic layout"
+msgstr "Layout finale all'interno del gestore di stampa di QGIS"
+
 #: ../../source/site/about/case_studies/nigeria_jos.rst:60
 msgid "QGIS map: Diversity of Amurum Forest Reserve"
 msgstr "Mappa con QGIS: divesrità della Amurum Forest Reserve"
@@ -149,16 +165,13 @@ msgid ""
 "Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"
 msgstr "Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:53
-msgid ""
-"Overall, the course was a great success. We - a group of students with no "
-"previous GIS experience --- enjoyed working with QGIS a lot. Within just two"
-" weeks time we were able to develop an extremely useful map of the reserve. "
-"Amongst others, the extents of the various habitats were determined which "
-"allows for stratification and thus for better estimates of abundances of "
-"various kinds of organisms. Basically we are now able to do better "
-"ecological research using QGIS as an open source platform."
-msgstr "Nel complesso, il corso è stato un grande successo. Noi - un gruppo di studenti con nessuna esperienza precedente GIS --- abbiamo apprezzato molto il lavoro con QGIS. In due settimane di tempo siamo stati in grado di sviluppare una mappa estremamente utile della riserva. Tra gli altri, le estensioni dei vari habitat consentono una migliore stratificazione e quindi per una previsione delle abbondanze di vari tipi di organismi. In fondo siamo ora in grado di fare meglio della ricerca ecologica utilizzando QGIS come una piattaforma open source."
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "Overall, the course was a great success. We - a group of students with no "

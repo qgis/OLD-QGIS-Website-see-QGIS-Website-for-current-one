@@ -5,26 +5,27 @@
 # 
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2020
+# 徐保才 <1302638819@qq.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-07-12 14:43+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>, 2020\n"
+"Last-Translator: 徐保才 <1302638819@qq.com>, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/qgis/teams/6144/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/site/about/sustaining_members.rst:4
 msgid "Sustaining members and Donors"
-msgstr ""
+msgstr "维护成员和捐助者"
 
 #: ../../source/site/about/sustaining_members.rst:6
 msgid ""
@@ -33,33 +34,48 @@ msgid ""
 "development work, as well as finance developer meetings and promotion of "
 "QGIS in workshops and conferences."
 msgstr ""
+"我们非常感谢维护成员和捐助者，他们经常定期维护QGIS项目，使我们能够支付基础设施和重要开发工作的费用，以及资助开发者会议、研讨会和QGIS的推广。"
 
 #: ../../source/site/about/sustaining_members.rst:10
 msgid ""
 "For information on becoming a sustaining member, please visit "
 ":ref:`QGIS_sustaining_memberships`."
+msgstr "有关如何成为维护成员的相关信息，请访问 :ref:`QGIS_sustaining_memberships`."
+
+#: ../../source/site/about/sustaining_members.rst:12
+msgid "small"
+msgstr "小"
+
+#: ../../source/site/about/sustaining_members.rst:15
+msgid "medium"
 msgstr ""
+
+#: ../../source/site/about/sustaining_members.rst:18
+msgid "large"
+msgstr "大"
 
 #: ../../source/site/about/sustaining_members.rst:24
 msgid "List of current sustaining members"
-msgstr ""
+msgstr "当前维护成员名单"
 
 #: ../../source/site/about/sustaining_members.rst:26
 msgid ""
 "Annually we receive support from various organisations who appreciate the "
 "work we do and would like to facilitate the sustained development effort "
 "that goes into the project."
-msgstr ""
+msgstr "每年我们都会得到各种组织的支持，他们赞赏我们所做的工作，并希望促进项目的持续发展。"
 
 #: ../../source/site/about/sustaining_members.rst:30
 msgid ""
 ":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
 "javascript loading of atom feed --> </div>`"
 msgstr ""
+":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
+"javascript loading of atom feed --> </div>`"
 
 #: ../../source/site/about/sustaining_members.rst:34
 msgid "List of past sustaining members"
-msgstr ""
+msgstr "以往维护成员名单"
 
 #: ../../source/site/about/sustaining_members.rst:36
 msgid ""
@@ -74,9 +90,9 @@ msgstr "捐助者名单"
 #: ../../source/site/about/sustaining_members.rst:43
 msgid ""
 "Donations can be of any amount, via our bank account, Stripe or Paypal "
-"(information available at :ref:`Donations <QGIS-donations>` page). Even a "
-"small donation can make a difference and help to reach important project "
-"goals!"
+"(information available at `Donations <https://donate.qgis.org>`__ page). "
+"Even a small donation can make a difference and help to reach important "
+"project goals!"
 msgstr ""
 
 #: ../../source/site/about/sustaining_members.rst:47
@@ -94,6 +110,14 @@ msgid ""
 "Donations to QGIS are tax-deductible in several countries. Please refer to "
 "your local tax office for details."
 msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "Sustaining members, sponsors and Donors"
 #~ msgstr ""
@@ -126,4 +150,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "List of past sustaining members or sponsors"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Donations can be of any amount, via our bank account, Stripe or Paypal "
+#~ "(information available at :ref:`Donations <QGIS-donations>` page). Even a "
+#~ "small donation can make a difference and help to reach important project "
+#~ "goals!"
 #~ msgstr ""

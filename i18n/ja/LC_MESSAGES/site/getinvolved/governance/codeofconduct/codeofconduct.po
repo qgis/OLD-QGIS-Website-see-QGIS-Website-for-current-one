@@ -6,15 +6,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2018-12-13 06:33+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:4
+msgid "Code of Conduct"
+msgstr "行動規範"
 
 #: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:6
 msgid ""
@@ -160,9 +165,13 @@ msgstr "元のテキストは、Speak Up！プロジェクト、およびDjango�
 msgid "If you have questions, feel free to contact us: psc@qgis.org"
 msgstr "ご質問がございましたらお気軽にご連絡ください： psc@qgis.org"
 
-#: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:4
-msgid "Code of Conduct"
-msgstr "行動規範"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS Code of Conduct"
 #~ msgstr ""

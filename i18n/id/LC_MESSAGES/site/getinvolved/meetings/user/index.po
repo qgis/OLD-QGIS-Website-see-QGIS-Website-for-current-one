@@ -5,14 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-08 11:00+0200\n"
-"PO-Revision-Date: 2020-03-16 09:15+0000\n"
-"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-23 16:19+0000\n"
+"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>, 2014\n"
 "Language-Team: Indonesian (http://www.transifex.com/qgis/qgis-website/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -20,11 +20,19 @@ msgstr ""
 msgid "QGIS User Meetings"
 msgstr "Pertemuan Pengguna QGIS"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:6
+#: ../../source/site/getinvolved/meetings/user/index.rst:5
+msgid "The organization of events happens on the `QGIS wiki <wiki_link_>`_."
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/user/index.rst:10
+msgid "Pre-2013 events are listed below:"
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/user/index.rst:13
 msgid "7th german-speaking QGIS User Meeting in Kassel 2013"
 msgstr "Pertemuan Pengguna QGIS Ke-7 berbahasa-Jerman di Kassel 2013"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:8
+#: ../../source/site/getinvolved/meetings/user/index.rst:15
 msgid ""
 "On 20th September 2013 the 7th german-speaking QGIS user meeting took place "
 "in Kassel. The event was organized by Otto Dassau (QGIS project) and Dr. "
@@ -35,45 +43,53 @@ msgid ""
 "center of the event."
 msgstr "Pada 20 September 2013 pertemuan pengguna QGIS ke-7 berbahasa Jerman di Kassel. Acara ini diselenggarakan oleh Otto Dassau (proyek QGIS) dan Dr Claas Leiner (Serviceportal GIS und Geodaten am FB 06 der Uni Kassel) dan didukung oleh FOSSGIS Asosiasi Jerman. Kali ini, 80 pengguna, pengembang dan peserta lain yang tertarik bergabung pertemuan untuk membahas QGIS."
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:17
+#: ../../source/site/getinvolved/meetings/user/index.rst:24
 msgid "2nd Australian QGIS User Meeting in Melbourne 2013"
 msgstr "Petermuan Pengguna QGIS Ke-2 di Melbourne 2013"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:20
+#: ../../source/site/getinvolved/meetings/user/index.rst:27
 msgid "Zurich 2013"
 msgstr "Zurich 2013"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:23
+#: ../../source/site/getinvolved/meetings/user/index.rst:30
 msgid "1st Australian QGIS User Meeting in Perth 2013"
 msgstr "Pertemuan Pengguna QGIS Australia Ke-1 di  Perth 2013"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:26
+#: ../../source/site/getinvolved/meetings/user/index.rst:33
 msgid "Lisboa 2012"
 msgstr "Lisboa 2012"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:29
+#: ../../source/site/getinvolved/meetings/user/index.rst:36
 msgid "5th german-speaking QGIS User Meeting in Kassel 2012"
 msgstr "Pertemuan Pengguna QGIS Ke-5 berbahasa-Jerman di Kassel 2012"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:32
+#: ../../source/site/getinvolved/meetings/user/index.rst:39
 msgid "4th german-speaking QGIS User Meeting in Bern 2012"
 msgstr "Pertemuan Pengguna QGIS Ke-4 berbahasa-Jerman di Bern 2012"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:35
+#: ../../source/site/getinvolved/meetings/user/index.rst:42
 msgid "3rd german-speaking QGIS User Meeting in Kassel 2011"
 msgstr "Pertemuan Pengguna QGIS Ke-3 berbahasa-Jerman di Kassel 2011"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:38
+#: ../../source/site/getinvolved/meetings/user/index.rst:45
 msgid "2nd german-speaking QGIS User Meeting in Rapperswil 2011"
 msgstr "Pertemuan Pengguna QGIS Ke-2 berbahasa-Jerman di Rapperswil 2011"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:41
+#: ../../source/site/getinvolved/meetings/user/index.rst:48
 msgid "1st german-speaking QGIS User Meeting in Bern 2010"
 msgstr "Pertemuan Pengguna QGIS Ke-1 berbahasa-Jerman di Bern 2010"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:44
+#: ../../source/site/getinvolved/meetings/user/index.rst:51
 msgid "1st QGIS Bughunting in Moscow 2009"
 msgstr "QGIS Bughunting ke-1 di Moskow  2009"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "cekbox_tidakterpilih"
 
 #~ msgid "Contents:"
 #~ msgstr ""

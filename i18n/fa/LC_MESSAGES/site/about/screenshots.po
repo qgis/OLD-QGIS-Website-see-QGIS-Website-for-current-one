@@ -5,15 +5,27 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2020-03-16 09:04+0000\n"
-"Last-Translator: masoud pashotan <masoud.ptn@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: masoud pashotan <masoud.ptn@gmail.com>, 2013\n"
 "Language-Team: Persian (http://www.transifex.com/qgis/qgis-website/language/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fa\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/about/screenshots.rst:9
+msgid "Map Examples"
+msgstr ""
+
+#: ../../source/site/about/screenshots.rst:11
+msgid ""
+"Here you can find a selection of maps created with QGIS. These maps come "
+"from the `QGIS maps - Flickr Group "
+"<http://www.flickr.com/groups/qgis/pool/>`_."
+msgstr ""
 
 #: ../../source/site/about/screenshots.rst:14
 msgid ""
@@ -24,6 +36,18 @@ msgstr "سازندگان نقشه ها نشان می دهند خلاقیت خو�
 #: ../../source/site/about/screenshots.rst:16
 msgid "Click on an image to see author and more information about the maps."
 msgstr "برای کسب اطلاعات بیشتر درباره مؤلف و نقشه بر روی عکس کلیک کنید."
+
+#: ../../source/site/about/screenshots.rst:19
+msgid ":raw-html:`<p id=\"qgisflickrmapsatom\">&nbsp;</p>`"
+msgstr ""
+
+#: ../../source/site/about/screenshots.rst:22
+msgid ":raw-html:`<p style=\"clear:both\">&nbsp;</p>`"
+msgstr ""
+
+#: ../../source/site/about/screenshots.rst:25
+msgid "Screenshots"
+msgstr "عکس از محیط نرم افزار"
 
 #: ../../source/site/about/screenshots.rst:27
 msgid ""
@@ -42,28 +66,13 @@ msgstr ""
 msgid ":raw-html:`<p id=\"qgisflickrscreenshotsatom\">&nbsp;</p>`"
 msgstr ""
 
-#: ../../source/site/about/screenshots.rst:19
-msgid ":raw-html:`<p id=\"qgisflickrmapsatom\">&nbsp;</p>`"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
 msgstr ""
 
-#: ../../source/site/about/screenshots.rst:22
-msgid ":raw-html:`<p style=\"clear:both\">&nbsp;</p>`"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
-
-#: ../../source/site/about/screenshots.rst:9
-msgid "Map Examples"
-msgstr ""
-
-#: ../../source/site/about/screenshots.rst:11
-msgid ""
-"Here you can find a selection of maps created with QGIS. These maps come "
-"from the `QGIS maps - Flickr Group "
-"<http://www.flickr.com/groups/qgis/pool/>`_."
-msgstr ""
-
-#: ../../source/site/about/screenshots.rst:25
-msgid "Screenshots"
-msgstr "عکس از محیط نرم افزار"
 
 #~ msgid "QGIS Screenshots"
 #~ msgstr ""

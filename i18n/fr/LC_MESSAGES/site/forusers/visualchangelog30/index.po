@@ -6,26 +6,29 @@
 # Translators:
 # Jules GARNIER, 2018
 # MarieSilvestre, 2019
-# Harrissou Sant-anna, 2020
 # Benoît de Cabissole, 2020
 # Corentin LEMAITRE <corentinlemaitre@gmail.com>, 2020
 # a00fce65fdff2427915d78cd7ee0a4f6_c16c729 <a55eac686ada07eb8210deda0a39fa35_814277>, 2020
+# Jean-Philippe Courdon <courdonjeanphilippe@gmail.com>, 2021
+# Baovola Marie Anna, 2022
+# Tahir Tamba <tahir.tamba@gmail.com>, 2022
+# Harrissou Sant-anna, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 20:36+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:28+0000\n"
-"Last-Translator: a00fce65fdff2427915d78cd7ee0a4f6_c16c729 <a55eac686ada07eb8210deda0a39fa35_814277>, 2020\n"
+"Last-Translator: Harrissou Sant-anna, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:5
 msgid "Changelog for QGIS 3.0"
@@ -34,6 +37,10 @@ msgstr "Modifications apportées par QGIS 3.0"
 #: ../../source/site/forusers/visualchangelog30/index.rst:7
 msgid "|image1|"
 msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2278
+msgid "image1"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:10
 msgid ""
@@ -129,10 +136,15 @@ msgstr "Or"
 msgid "|image2| Gold : 9000 EUR"
 msgstr "|image2| Or : 9000 EUR"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2279
+msgid "image2"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:35
 msgid "|Land Vorarlberg|"
 msgstr "|Land Vorarlberg|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:38
 msgid "Land Vorarlberg"
 msgstr "Land Vorarlberg"
@@ -141,6 +153,7 @@ msgstr "Land Vorarlberg"
 msgid "|QGIS user group Switzerland|"
 msgstr "|QGIS user group Switzerland|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:38
 msgid "QGIS user group Switzerland"
 msgstr "QGIS user group Switzerland"
@@ -153,10 +166,15 @@ msgstr "Argent"
 msgid "|image5| Silver : 3000 EUR"
 msgstr "|image5| Argent : 3000 EUR"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2287
+msgid "image5"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:49
 msgid "|AERO ASAHI Corporation|"
 msgstr "|AERO ASAHI Corporation|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:51
 msgid "AERO ASAHI Corporation"
 msgstr "AERO ASAHI Corporation"
@@ -165,6 +183,7 @@ msgstr "AERO ASAHI Corporation"
 msgid "|QGIS user group Denmark|"
 msgstr "|QGIS user group Denmark|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:51
 msgid "QGIS user group Denmark"
 msgstr "QGIS user group Denmark"
@@ -173,6 +192,7 @@ msgstr "QGIS user group Denmark"
 msgid "|ARTOGIS a/s|"
 msgstr "|ARTOGIS a/s|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:57
 msgid "ARTOGIS a/s"
 msgstr "ARTOGIS a/s"
@@ -181,6 +201,7 @@ msgstr "ARTOGIS a/s"
 msgid "|QGIS user group Germany|"
 msgstr "|QGIS user group Germany|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:57
 msgid "QGIS user group Germany"
 msgstr "QGIS user group Germany"
@@ -189,6 +210,7 @@ msgstr "QGIS user group Germany"
 msgid "|OPENGIS.ch GmbH|"
 msgstr "|OPENGIS.ch GmbH|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:64
 msgid "OPENGIS.ch GmbH"
 msgstr "OPENGIS.ch GmbH"
@@ -197,6 +219,7 @@ msgstr "OPENGIS.ch GmbH"
 msgid "|Terraplan|"
 msgstr "|Terraplan|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:64
 msgid "Terraplan"
 msgstr "Terraplan"
@@ -207,6 +230,7 @@ msgid ""
 msgstr ""
 "|Office of Public Works, Flood Risk Management and Data Management Section|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:73
 msgid ""
 "Office of Public Works, Flood Risk Management and Data Management Section"
@@ -217,6 +241,7 @@ msgstr ""
 msgid "|WIGeoGIS|"
 msgstr "|WIGeoGIS|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:71
 msgid "WIGeoGIS"
 msgstr "WIGeoGIS"
@@ -229,10 +254,15 @@ msgstr "Bronze"
 msgid "|image14| Bronze : 500 EUR"
 msgstr "|image14| Bronze : 500 EUR"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2313
+msgid "image14"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:86
 msgid "|2D3D.GIS|"
 msgstr "|2D3D.GIS|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:88
 msgid "2D3D.GIS"
 msgstr "2D3D.GIS"
@@ -241,6 +271,7 @@ msgstr "2D3D.GIS"
 msgid "|Integrate Sustainability Pty Ltd|"
 msgstr "|Integrate Sustainability Pty Ltd|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:88
 msgid "Integrate Sustainability Pty Ltd"
 msgstr "Integrate Sustainability Pty Ltd"
@@ -249,6 +280,7 @@ msgstr "Integrate Sustainability Pty Ltd"
 msgid "|Ager Technology|"
 msgstr "|Ager Technology|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:94
 msgid "Ager Technology"
 msgstr "Ager Technology"
@@ -257,6 +289,7 @@ msgstr "Ager Technology"
 msgid "|LandPlan OS GmbH|"
 msgstr "|LandPlan OS GmbH|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:94
 msgid "LandPlan OS GmbH"
 msgstr "LandPlan OS GmbH"
@@ -265,6 +298,7 @@ msgstr "LandPlan OS GmbH"
 msgid "|Alta ehf|"
 msgstr "|Alta ehf|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:100
 msgid "Alta ehf"
 msgstr "Alta ehf"
@@ -273,6 +307,7 @@ msgstr "Alta ehf"
 msgid "|Lutra Consulting|"
 msgstr "|Lutra Consulting|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:100
 msgid "Lutra Consulting"
 msgstr "Lutra Consulting"
@@ -281,6 +316,7 @@ msgstr "Lutra Consulting"
 msgid "|Asociación Geoinnova|"
 msgstr "|Asociación Geoinnova|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:106
 msgid "Asociación Geoinnova"
 msgstr "Asociación Geoinnova"
@@ -289,6 +325,7 @@ msgstr "Asociación Geoinnova"
 msgid "|MHTC Ltd|"
 msgstr "|MHTC Ltd|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:106
 msgid "MHTC Ltd"
 msgstr "MHTC Ltd"
@@ -297,6 +334,7 @@ msgstr "MHTC Ltd"
 msgid "|Automatic Knowledge|"
 msgstr "|Automatic Knowledge|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:112
 msgid "Automatic Knowledge"
 msgstr "Automatic Knowledge"
@@ -305,6 +343,7 @@ msgstr "Automatic Knowledge"
 msgid "|MappingGIS|"
 msgstr "|MappingGIS|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:112
 msgid "MappingGIS"
 msgstr "MappingGIS"
@@ -313,6 +352,7 @@ msgstr "MappingGIS"
 msgid "|BGEO Open GIS, SL|"
 msgstr "|BGEO Open GIS, SL|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:118
 msgid "BGEO Open GIS, SL"
 msgstr "BGEO Open GIS, SL"
@@ -321,6 +361,7 @@ msgstr "BGEO Open GIS, SL"
 msgid "|Mapzen|"
 msgstr "|Mapzen|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:118
 msgid "Mapzen"
 msgstr "Mapzen"
@@ -329,6 +370,7 @@ msgstr "Mapzen"
 msgid "|Cawdor Forestry|"
 msgstr "|Cawdor Forestry|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:124
 msgid "Cawdor Forestry"
 msgstr "Cawdor Forestry"
@@ -337,6 +379,7 @@ msgstr "Cawdor Forestry"
 msgid "|Mierune LLC|"
 msgstr "|Mierune LLC|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:124
 msgid "Mierune LLC"
 msgstr "Mierune LLC"
@@ -345,6 +388,7 @@ msgstr "Mierune LLC"
 msgid "|Chartwell Consultants Ltd.|"
 msgstr "|Chartwell Consultants Ltd.|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:130
 msgid "Chartwell Consultants Ltd."
 msgstr "Chartwell Consultants Ltd."
@@ -353,6 +397,7 @@ msgstr "Chartwell Consultants Ltd."
 msgid "|OSGeo.JP|"
 msgstr "|OSGeo.JP|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:130
 msgid "OSGeo.JP"
 msgstr "OSGeo.JP"
@@ -362,6 +407,7 @@ msgstr "OSGeo.JP"
 msgid "|City of Canning|"
 msgstr "|City of Canning|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:136
 #: ../../source/site/forusers/visualchangelog30/index.rst:142
 msgid "City of Canning"
@@ -371,6 +417,7 @@ msgstr "City of Canning"
 msgid "|Open Geo Groep|"
 msgstr "|Open Geo Groep|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:136
 msgid "Open Geo Groep"
 msgstr "Open Geo Groep"
@@ -379,6 +426,7 @@ msgstr "Open Geo Groep"
 msgid "|Pixalytics|"
 msgstr "|Pixalytics|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:142
 msgid "Pixalytics"
 msgstr "Pixalytics"
@@ -387,6 +435,7 @@ msgstr "Pixalytics"
 msgid "|Datenbankgesellschaft mbH|"
 msgstr "|Datenbankgesellschaft mbH|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:148
 msgid "Datenbankgesellschaft mbH"
 msgstr "Datenbankgesellschaft mbH"
@@ -395,6 +444,7 @@ msgstr "Datenbankgesellschaft mbH"
 msgid "|QGIS user group Brazil|"
 msgstr "|QGIS user group Brazil|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:148
 msgid "QGIS user group Brazil"
 msgstr "QGIS user group Brazil"
@@ -403,6 +453,7 @@ msgstr "QGIS user group Brazil"
 msgid "|Dr. Kerth + Lampe Geo-Infometric GmbH|"
 msgstr "|Dr. Kerth + Lampe Geo-Infometric GmbH|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:155
 msgid "Dr. Kerth + Lampe Geo-Infometric GmbH"
 msgstr "Dr. Kerth + Lampe Geo-Infometric GmbH"
@@ -411,6 +462,7 @@ msgstr "Dr. Kerth + Lampe Geo-Infometric GmbH"
 msgid "|QGIS user group Sweden|"
 msgstr "|QGIS user group Sweden|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:154
 msgid "QGIS user group Sweden"
 msgstr "QGIS user group Sweden"
@@ -419,6 +471,7 @@ msgstr "QGIS user group Sweden"
 msgid "|FORNAT AG|"
 msgstr "|FORNAT AG|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:162
 msgid "FORNAT AG"
 msgstr "FORNAT AG"
@@ -427,6 +480,7 @@ msgstr "FORNAT AG"
 msgid "|QTibia Engineering|"
 msgstr "|QTibia Engineering|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:162
 msgid "QTibia Engineering"
 msgstr "QTibia Engineering"
@@ -435,6 +489,7 @@ msgstr "QTibia Engineering"
 msgid "|Forest Design SRL|"
 msgstr "|Forest Design SRL|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:168
 msgid "Forest Design SRL"
 msgstr "Forest Design SRL"
@@ -443,6 +498,7 @@ msgstr "Forest Design SRL"
 msgid "|Royal Borough of Windsor and Maidenhead|"
 msgstr "|Royal Borough of Windsor and Maidenhead|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:169
 msgid "Royal Borough of Windsor and Maidenhead"
 msgstr "Royal Borough of Windsor and Maidenhead"
@@ -451,6 +507,7 @@ msgstr "Royal Borough of Windsor and Maidenhead"
 msgid "|GAIA mbH|"
 msgstr "|GAIA mbH|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:176
 msgid "GAIA mbH"
 msgstr "GAIA mbH"
@@ -459,6 +516,7 @@ msgstr "GAIA mbH"
 msgid "|SOLTIG (Soluciones en Tecnologías de Información Geográfica)|"
 msgstr "|SOLTIG (Soluciones en Tecnologías de Información Geográfica)|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:177
 msgid "SOLTIG (Soluciones en Tecnologías de Información Geográfica)"
 msgstr "SOLTIG (Soluciones en Tecnologías de Información Geográfica)"
@@ -467,6 +525,7 @@ msgstr "SOLTIG (Soluciones en Tecnologías de Información Geográfica)"
 msgid "|GIS Support Sp. z o.o.|"
 msgstr "|GIS Support Sp. z o.o.|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:184
 msgid "GIS Support Sp. z o.o."
 msgstr "GIS Support Sp. z o.o."
@@ -475,6 +534,7 @@ msgstr "GIS Support Sp. z o.o."
 msgid "|Septima|"
 msgstr "|Septima|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:184
 msgid "Septima"
 msgstr "Septima"
@@ -483,6 +543,7 @@ msgstr "Septima"
 msgid "|GKG Kassel, (Dr.-Ing. Claas Leiner)|"
 msgstr "|GKG Kassel, (Dr.-Ing. Claas Leiner)|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:191
 msgid "GKG Kassel, (Dr.-Ing. Claas Leiner)"
 msgstr "GKG Kassel, (Dr.-Ing. Claas Leiner)"
@@ -491,6 +552,7 @@ msgstr "GKG Kassel, (Dr.-Ing. Claas Leiner)"
 msgid "|Solargis s.r.o.|"
 msgstr "|Solargis s.r.o.|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:190
 msgid "Solargis s.r.o."
 msgstr "Solargis s.r.o."
@@ -499,6 +561,7 @@ msgstr "Solargis s.r.o."
 msgid "|Gaia3D, Inc.|"
 msgstr "|Gaia3D, Inc.|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:197
 msgid "Gaia3D, Inc."
 msgstr "Gaia3D, Inc."
@@ -507,6 +570,7 @@ msgstr "Gaia3D, Inc."
 msgid "|Syddjurs Kommune|"
 msgstr "|Syddjurs Kommune|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:197
 msgid "Syddjurs Kommune"
 msgstr "Syddjurs Kommune"
@@ -515,6 +579,7 @@ msgstr "Syddjurs Kommune"
 msgid "|Gemeente Gouda|"
 msgstr "|Gemeente Gouda|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:203
 msgid "Gemeente Gouda"
 msgstr "Gemeente Gouda"
@@ -523,6 +588,7 @@ msgstr "Gemeente Gouda"
 msgid "|TerreLogiche|"
 msgstr "|TerreLogiche|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:203
 msgid "TerreLogiche"
 msgstr "TerreLogiche"
@@ -531,6 +597,7 @@ msgstr "TerreLogiche"
 msgid "|GeoS Geodätische Software Andreas Hellinge|"
 msgstr "|GeoS Geodätische Software Andreas Hellinge|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:210
 msgid "GeoS Geodätische Software Andreas Hellinge"
 msgstr "GeoS Geodätische Software Andreas Hellinge"
@@ -539,6 +606,7 @@ msgstr "GeoS Geodätische Software Andreas Hellinge"
 msgid "|Trage Wegen vzw|"
 msgstr "|Trage Wegen vzw|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:209
 msgid "Trage Wegen vzw"
 msgstr "Trage Wegen vzw"
@@ -547,6 +615,7 @@ msgstr "Trage Wegen vzw"
 msgid "|Geographica|"
 msgstr "|Geographica|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:217
 msgid "Geographica"
 msgstr "Geographica"
@@ -555,6 +624,7 @@ msgstr "Geographica"
 msgid "|Urbsol|"
 msgstr "|Urbsol|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:217
 msgid "Urbsol"
 msgstr "Urbsol"
@@ -563,6 +633,7 @@ msgstr "Urbsol"
 msgid "|Gis3W|"
 msgstr "|Gis3W|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:223
 msgid "Gis3W"
 msgstr "Gis3W"
@@ -571,6 +642,7 @@ msgstr "Gis3W"
 msgid "|WAGNER-IT|"
 msgstr "|WAGNER-IT|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:223
 msgid "WAGNER-IT"
 msgstr "WAGNER-IT"
@@ -579,6 +651,7 @@ msgstr "WAGNER-IT"
 msgid "|Infraplan Engineering Services Pvt. Ltd.|"
 msgstr "|Infraplan Engineering Services Pvt. Ltd.|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:230
 msgid "Infraplan Engineering Services Pvt. Ltd."
 msgstr "Infraplan Engineering Services Pvt. Ltd."
@@ -587,6 +660,7 @@ msgstr "Infraplan Engineering Services Pvt. Ltd."
 msgid "|WhereGroup GmbH & Co. KG|"
 msgstr "|WhereGroup GmbH & Co. KG|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:229
 msgid "WhereGroup GmbH & Co. KG"
 msgstr "WhereGroup GmbH & Co. KG"
@@ -595,6 +669,7 @@ msgstr "WhereGroup GmbH & Co. KG"
 msgid "|Ingenieurbüro Kauppert|"
 msgstr "|Ingenieurbüro Kauppert|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:237
 msgid "Ingenieurbüro Kauppert"
 msgstr "Ingenieurbüro Kauppert"
@@ -603,6 +678,7 @@ msgstr "Ingenieurbüro Kauppert"
 msgid "|tkt teleconsult Kommunikationstechnik GmbH|"
 msgstr "|tkt teleconsult Kommunikationstechnik GmbH|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:238
 msgid "tkt teleconsult Kommunikationstechnik GmbH"
 msgstr "tkt teleconsult Kommunikationstechnik GmbH"
@@ -611,6 +687,7 @@ msgstr "tkt teleconsult Kommunikationstechnik GmbH"
 msgid "|Insurance Australia Group Limited (IAG)|"
 msgstr "|Insurance Australia Group Limited (IAG)|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst
 #: ../../source/site/forusers/visualchangelog30/index.rst:246
 msgid "Insurance Australia Group Limited (IAG)"
 msgstr "Insurance Australia Group Limited (IAG)"
@@ -694,6 +771,10 @@ msgstr ""
 msgid "|image112|"
 msgstr "|image112|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2460
+msgid "image112"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:289
 #: ../../source/site/forusers/visualchangelog30/index.rst:330
 #: ../../source/site/forusers/visualchangelog30/index.rst:504
@@ -720,6 +801,10 @@ msgstr ""
 msgid "|image113|"
 msgstr "|image113|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2461
+msgid "image113"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:299
 msgid "Feature: Removed otb and lidartools providers from processing"
 msgstr ""
@@ -744,8 +829,8 @@ msgstr "Fonctionnalité : Permet la tabulation dans les docks flottants"
 #: ../../source/site/forusers/visualchangelog30/index.rst:310
 msgid ""
 "For qt > 5.6 builds, it is possible to drop several floating docks in the "
-"same floating window where they appear as tabs https://woboq.com/blog"
-"/qdockwidget-changes-in-56.html"
+"same floating window where they appear as tabs "
+"https://woboq.com/blog/qdockwidget-changes-in-56.html"
 msgstr ""
 "Pour les versions de qt > 5.6, il est possible de coller plusieurs docks "
 "flottants sur la même fenêtre flottante et ils seront distribués dans des "
@@ -754,6 +839,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:312
 msgid "|image66|"
 msgstr "|image66|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2414
+msgid "image66"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:316
 msgid "Feature: Add support for fine-resolution mouse wheel zooming"
@@ -797,6 +886,10 @@ msgstr "Supporte la recherche par nom de l'action ou du raccourci"
 msgid "|image67|"
 msgstr "|image67|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2415
+msgid "image67"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:334
 msgid "Feature: Locator bar"
 msgstr "Fonctionnalité : Barre de localisation"
@@ -832,6 +925,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:342
 msgid "|image68|"
 msgstr "|image68|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2416
+msgid "image68"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:344
 #: ../../source/site/forusers/visualchangelog30/index.rst:863
@@ -990,8 +1087,8 @@ msgid ""
 "This feature was developed by `Nyall Dawson (North Road) <https://north-"
 "road.com/>`__"
 msgstr ""
-"Cette fonctionnalité a été développée par `Nyall Dawson (North Road) <https"
-"://north-road.com/>`__"
+"Cette fonctionnalité a été développée par `Nyall Dawson (North Road) "
+"<https://north-road.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:373
 msgid "Feature: Color setting for map canvas north arrow decoration"
@@ -1010,6 +1107,10 @@ msgstr ""
 msgid "|image69|"
 msgstr "|image69|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2417
+msgid "image69"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:379
 #: ../../source/site/forusers/visualchangelog30/index.rst:391
 #: ../../source/site/forusers/visualchangelog30/index.rst:404
@@ -1027,8 +1128,8 @@ msgid ""
 "This feature was developed by `Mathieu Pellerin <http://www.imhere-"
 "asia.com/>`__"
 msgstr ""
-"Cette fonctionnalité a été développée par `Mathieu Pellerin <http://www"
-".imhere-asia.com/>`__"
+"Cette fonctionnalité a été développée par `Mathieu Pellerin "
+"<http://www.imhere-asia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:383
 msgid "Feature: Improved map canvas' save as image"
@@ -1055,6 +1156,10 @@ msgstr ""
 msgid "|image70|"
 msgstr "|image70|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2418
+msgid "image70"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:389
 msgid "This feature was funded by Andreas Neumann (partial funding)"
 msgstr ""
@@ -1078,6 +1183,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:402
 msgid "|image71|"
 msgstr "|image71|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2419
+msgid "image71"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:409
 msgid "Feature: Improved consistency to the user interface"
@@ -1213,6 +1322,10 @@ msgstr ""
 msgid "|image72|"
 msgstr "|image72|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2420
+msgid "image72"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:436
 msgid "This feature was funded by `Kartoza <www.kartoza.com>`__"
 msgstr "Cette fonctionnalité a été financée par `Kartoza <www.kartoza.com>`__"
@@ -1283,6 +1396,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:460
 msgid "|image121|"
 msgstr "|image121|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2469
+msgid "image121"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:462
 #: ../../source/site/forusers/visualchangelog30/index.rst:483
@@ -1356,6 +1473,10 @@ msgstr ""
 msgid "|image122|"
 msgstr "|image122|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2470
+msgid "image122"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:485
 msgid ""
 "This feature was developed by `Martin Dobias, Peter Petrik (Lutra "
@@ -1399,6 +1520,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:502
 msgid "|image63|"
 msgstr "|image63|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2411
+msgid "image63"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:507
 msgid "Feature: New expression variables for map settings"
@@ -2090,6 +2215,10 @@ msgstr ""
 msgid "|image64|"
 msgstr "|image64|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2412
+msgid "image64"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:665
 msgid ""
 "This feature was developed by `Matthias Kuhn (OPENGIS.ch) "
@@ -2160,6 +2289,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:696
 msgid "|image65|"
 msgstr "|image65|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2413
+msgid "image65"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:698
 msgid "This feature was funded by QGIS Grant Proposal"
@@ -2233,6 +2366,10 @@ msgstr ""
 msgid "|image73|"
 msgstr "|image73|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2421
+msgid "image73"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:747
 msgid "Feature: Style management re-work and upgrade"
 msgstr ""
@@ -2242,44 +2379,65 @@ msgstr ""
 msgid ""
 "Style management has received a major upgrade. The improvements include:"
 msgstr ""
+"La gestion des styles a reçu une amélioration importante. Les améliorations "
+"comprennent :"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:751
 msgid ""
 "A new favorite grouping system was added, which the symbols list widget "
 "defaults to"
 msgstr ""
+"Un nouveau groupe \"Marque-Pages\" (favoris) a été ajouté, il est "
+"sélectionné par défaut dans la liste déroulante des symboles"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:752
 msgid ""
 "The selected tag / smartgroup in the symbols list widget now persists when "
 "switching layers (and across sessions)"
 msgstr ""
+"Maintenant, le mot-clé / \"groupe intelligent\" sélectionné dans la liste "
+"des symboles se maintient lorsque l'on change de couche (ainsi que d'une "
+"session à l'autre) "
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:753
 msgid ""
 "The symbols list widget will update the tag / smartgroup combo box when "
 "users add / rename / remove categories"
 msgstr ""
+"La liste de symboles met à jour la liste déroulante des balises / \"groupe "
+"intelligent\" lorsque les utilisateurs ajoutent / renomment / suppriment des"
+" catégories."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:754
 msgid ""
 "Users can now directly tag, as well as add to favorites, symbols while "
 "saving those to the style database"
 msgstr ""
+"Les utilisateurs peuvent directement mettre des balises, ainsi qu'ajouter "
+"aux favoris, les symboles tout en les enregistrant dans la base de données "
+"des styles."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:755
 msgid ""
 "To streamline style management, groups have been removed and fully replaced "
 "by tags"
 msgstr ""
+"Pour simplifier la gestion des styles, les groupes ont été supprimés et "
+"entièrement remplacés par des balises"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:756
 msgid "Tags have been integrated into the import/export user interface"
 msgstr ""
+"Les balises ont été intégrées dans l'interface importation/exportation de "
+"l'utilisateur "
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:758
 msgid "|image74|"
 msgstr "|image74|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2422
+msgid "image74"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:763
 msgid ""
@@ -2306,6 +2464,10 @@ msgstr ""
 msgid "|image75|"
 msgstr "|image75|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2423
+msgid "image75"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:773
 msgid "Feature: Show an alpha slider in color button drop down menu"
 msgstr ""
@@ -2320,10 +2482,16 @@ msgstr "Permet de rapidement modifier l'alpha des couleurs"
 msgid "|image76|"
 msgstr "|image76|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2424
+msgid "image76"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:785
 msgid ""
 "Feature: Raster stretch toolbar actions support for pseudocolor renderer"
 msgstr ""
+"Fonctionnalité : Prise en charge des actions de la barre d'outils "
+"d'étirement raster pour le rendu pseudocolor"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:787
 #: ../../source/site/forusers/visualchangelog30/index.rst:1542
@@ -2350,6 +2518,10 @@ msgstr ""
 msgid "|image77|"
 msgstr "|image77|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2425
+msgid "image77"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:802
 msgid "Feature: raster auto-stretching when updating canvas"
 msgstr ""
@@ -2362,6 +2534,9 @@ msgid ""
 "developer/2016-September/044393.html follow up to raster pseudocolor updated"
 " extent auto classification."
 msgstr ""
+"voir https://lists.osgeo.org/pipermail/qgis-"
+"developer/2016-September/044393.html suivi de la classification automatique "
+"de l'étendue mise à jour de pseudocolor raster."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:807
 #: ../../source/site/forusers/visualchangelog30/index.rst:1337
@@ -2473,6 +2648,10 @@ msgstr ""
 msgid "|image78|"
 msgstr "|image78|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2426
+msgid "image78"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:851
 msgid ""
 "This feature was funded by Andreas Neumann, Qtibia Engineering (Tudor "
@@ -2509,6 +2688,10 @@ msgstr ""
 msgid "|image79|"
 msgstr "|image79|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2427
+msgid "image79"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:867
 msgid "Feature: New \"preset\" colors color ramp option"
 msgstr ""
@@ -2540,6 +2723,10 @@ msgstr ""
 msgid "|image80|"
 msgstr "|image80|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2428
+msgid "image80"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:880
 msgid "Feature: Allow symbol layers to be temporarily disabled"
 msgstr ""
@@ -2563,6 +2750,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:886
 msgid "|image81|"
 msgstr "|image81|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2429
+msgid "image81"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:894
 msgid "Feature: Easy styling of discrete rasters"
@@ -2595,6 +2786,14 @@ msgid ""
 "also supported, as well as changing the color, transparency and labels for "
 "multiple classes at once."
 msgstr ""
+"Le calcul de la valeur unique est effectué dans un thread d'arrière-plan "
+"pour que l'interface utilisateur reste réactive pour les couches raster "
+"volumineuses (ou distantes). De plus, les utilisateurs peuvent ajouter "
+"manuellement de nouvelles classes individuelles selon leurs besoins et "
+"modifier la valeur de pixel associée pour toute classe existante. La "
+"suppression de plusieurs classes à la fois est également prise en charge, "
+"ainsi que la modification de la couleur, de la transparence et des "
+"étiquettes pour plusieurs classes à la fois."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:900
 msgid ""
@@ -2610,6 +2809,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:902
 msgid "|image82|"
 msgstr "|image82|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2430
+msgid "image82"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:904
 msgid ""
@@ -2627,8 +2830,8 @@ msgid ""
 "This feature was developed by `Nyall Dawson (North Road) <http://north-"
 "road.com>`__"
 msgstr ""
-"Cette fonctionnalité a été développée par `Nyall Dawson (North Road) <http"
-"://north-road.com>`__"
+"Cette fonctionnalité a été développée par `Nyall Dawson (North Road) "
+"<http://north-road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:910
 msgid "Labelling"
@@ -2683,6 +2886,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:928
 msgid "|image83|"
 msgstr "|image83|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2431
+msgid "image83"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:930
 #: ../../source/site/forusers/visualchangelog30/index.rst:1881
@@ -2778,6 +2985,10 @@ msgstr ""
 msgid "|image84|"
 msgstr "|image84|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2432
+msgid "image84"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:967
 msgid "This feature was developed by Kartoza & North Road"
 msgstr "Cette fonctionnalité a été développée par Kartoza et North Road"
@@ -2866,6 +3077,10 @@ msgstr "Moteur de rendu pour grille de déplacement de points"
 msgid "|image85|"
 msgstr "|image85|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2433
+msgid "image85"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1000
 msgid ""
 "This feature was developed by `Muhammad Yarjuna Rohmat (Kartoza) "
@@ -2921,6 +3136,10 @@ msgstr ""
 msgid "|image86|"
 msgstr "|image86|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2434
+msgid "image86"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1018
 msgid ""
 "This feature was funded by `French ministry in charge of ecology "
@@ -2950,6 +3169,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:1028
 msgid "|image87|"
 msgstr "|image87|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2435
+msgid "image87"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1030
 msgid "This feature was developed by Alexander Lisovenko / Paul Blottiere"
@@ -2997,6 +3220,10 @@ msgstr ""
 msgid "|image88|"
 msgstr "|image88|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2436
+msgid "image88"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1052
 msgid "Feature: Tracing with offset"
 msgstr "Fonctionnalité : Tracé avec décalage"
@@ -3012,6 +3239,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:1056
 msgid "|image89|"
 msgstr "|image89|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2437
+msgid "image89"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1058
 msgid ""
@@ -3138,6 +3369,10 @@ msgstr ""
 msgid "|image90|"
 msgstr "|image90|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2438
+msgid "image90"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1094
 #: ../../source/site/forusers/visualchangelog30/index.rst:1108
 #: ../../source/site/forusers/visualchangelog30/index.rst:1122
@@ -3167,6 +3402,10 @@ msgstr ""
 msgid "|image91|"
 msgstr "|image91|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2439
+msgid "image91"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1114
 msgid "Feature: Vertex tool: continue line"
 msgstr "Fonctionnalité : Outil de Sommet : prolongement de ligne"
@@ -3186,6 +3425,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:1120
 msgid "|image92|"
 msgstr "|image92|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2440
+msgid "image92"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1128
 msgid "Feature: Vertex tool: support for advanced digitizing panel"
@@ -3208,6 +3451,10 @@ msgstr ""
 msgid "|image93|"
 msgstr "|image93|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2441
+msgid "image93"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1141
 msgid "Data Management"
 msgstr "Gestion des Données"
@@ -3221,6 +3468,10 @@ msgstr ""
 msgid "|image94|"
 msgstr "|image94|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2442
+msgid "image94"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1148
 msgid "This feature was developed by Marco Hugentobler"
 msgstr "Cette fonctionnalité a été développée par Marco Hugentobler"
@@ -3233,6 +3484,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:1154
 msgid "|image95|"
 msgstr "|image95|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2443
+msgid "image95"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1158
 msgid "Feature: Auxiliary Storage Support"
@@ -3273,8 +3528,8 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:1166
 msgid ""
 "See the original `pull request <https://github.com/qgis/QGIS/pull/5086>`__ "
-"and this article `which explains more <http://oslandia.com/en/2017/10/17"
-"/auxiliary-storage-support-in-qgis-3/>`__"
+"and this article `which explains more "
+"<http://oslandia.com/en/2017/10/17/auxiliary-storage-support-in-qgis-3/>`__"
 msgstr ""
 "Voir `la demande originale de déchargement "
 "<https://github.com/qgis/QGIS/pull/5086>`__ et cet article `qui donne de "
@@ -3284,6 +3539,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:1168
 msgid "|image96|"
 msgstr "|image96|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2444
+msgid "image96"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1170
 msgid ""
@@ -3371,6 +3630,10 @@ msgstr ""
 msgid "|image97|"
 msgstr "|image97|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2445
+msgid "image97"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1188
 msgid "This feature was funded by `WorldBank/GFDRR <http://gfdrr.org>`__"
 msgstr ""
@@ -3401,6 +3664,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:1198
 msgid "|image98|"
 msgstr "|image98|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2446
+msgid "image98"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1200
 msgid "This feature was funded by Boundless"
@@ -3538,6 +3805,10 @@ msgstr ""
 msgid "|image99|"
 msgstr "|image99|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2447
+msgid "image99"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1259
 #: ../../source/site/forusers/visualchangelog30/index.rst:1969
 msgid "This feature was funded by OpenGIS.ch"
@@ -3611,6 +3882,10 @@ msgstr ""
 msgid "|image100|"
 msgstr "|image100|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2448
+msgid "image100"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1311
 msgid "Layer Legend"
 msgstr "Légende des couches"
@@ -3632,6 +3907,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:1318
 msgid "|image101|"
 msgstr "|image101|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2449
+msgid "image101"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1320
 #: ../../source/site/forusers/visualchangelog30/index.rst:1356
@@ -3729,6 +4008,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:1348
 msgid "|image102|"
 msgstr "|image102|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2450
+msgid "image102"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1354
 msgid "Feature: Drag qpt to QGIS to create new composer from template"
@@ -3884,6 +4167,10 @@ msgstr ""
 msgid "|image103|"
 msgstr "|image103|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2451
+msgid "image103"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1421
 msgid "This feature was funded by The Swiss QGIS User Group and many more!"
 msgstr ""
@@ -3953,26 +4240,36 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:1473
 msgid "Feature: support for output geometry types in models"
 msgstr ""
+"Fonctionnalité : prise en charge des types de géométrie de sortie dans les "
+"modèles"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1475
 msgid ""
 "Model child algorithm inputs are now filtered to only those which generate "
 "applicable geometry types for the input to another child algorithm"
 msgstr ""
+"Les entrées de l'algorithme enfant du modèle sont désormais filtrées "
+"uniquement sur celles qui génèrent des types de géométrie applicables pour "
+"l'entrée d'un autre algorithme enfant"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1481
 msgid "Feature: Angle threshold for smooth algorithm"
-msgstr ""
+msgstr "Fonctionnalité : Seuil d'angle pour un algorithme fluide"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1483
 msgid ""
 "Add option to QgsGeometry::smooth to not smooth segments shorter than a "
 "certain threshold or sharp corners with an angle exceeding a threshold"
 msgstr ""
+"Ajouter une option à QgsGeometry::lisser pour ne pas lisser les segments "
+"plus courts qu'un certain seuil ou les angles vifs avec un angle dépassant "
+"un seuil"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1493
 msgid "Feature: Better support for Z/M dimensions and curved geometries"
 msgstr ""
+"Fonctionnalité : Meilleure prise en charge des dimensions Z/M et des "
+"géométries courbes"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1495
 msgid ""
@@ -3980,16 +4277,20 @@ msgid ""
 "information, and additionally many algorithms now correctly maintain curved "
 "geometries without forced segmentization of these geometries."
 msgstr ""
+"Fonctionnalité : Meilleure prise en charge des dimensions Z/M et des "
+"géométries courbes"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1499
 msgid "Feature: Raster analysis algorithms added to Processing"
-msgstr ""
+msgstr "Fonctionnalité : Algorithmes d'analyse raster ajoutés au traitement"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1501
 msgid ""
 "The following algorithms were added to Processing from the Raster Analysis "
 "plugin:"
 msgstr ""
+"Les algorithmes suivants ont été ajoutés au traitement à partir du plug-in "
+"Raster Analysis :"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1503
 msgid "Aspect"
@@ -4023,6 +4324,10 @@ msgstr ""
 msgid "|image104|"
 msgstr "|image104|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2452
+msgid "image104"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1517
 msgid "Feature: New algorithm to extract specific nodes"
 msgstr ""
@@ -4053,10 +4358,14 @@ msgstr ""
 msgid ""
 "Feature: Expose zonal statistics from Zonal statistics plugin in toolbox"
 msgstr ""
+"Fonctionnalité : Exposez les statistiques zonales à partir du plug-in de "
+"statistiques zonales dans la boîte à outils"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1540
 msgid "Feature: Add a spatialite execute SQL algorithm"
 msgstr ""
+"Fonctionnalité: Ajoute un algorithme de requête SQL sur une base de données "
+"spatialite."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1546
 msgid "Feature: New algorithm to extend lines"
@@ -4067,6 +4376,8 @@ msgid ""
 "Allows extending linestrings by a set distance at the start and end of the "
 "line"
 msgstr ""
+"Permet d'étendre des géométries de lignes d'une distance déterminée en début"
+" et et fin de ligne"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1557
 msgid "Feature: New extract by expression algorithm"
@@ -4099,6 +4410,7 @@ msgstr "L'extension Interpolation a par conséquent été supprimée."
 #: ../../source/site/forusers/visualchangelog30/index.rst:1583
 msgid "Feature: New algorithm to compute geometry by expression"
 msgstr ""
+"Fonctionnalité : Nouvel algorithme pour calculer la géométrie par expression"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1585
 msgid ""
@@ -4107,20 +4419,27 @@ msgid ""
 "modifications which can utilise all the flexibility of the QGIS expression "
 "engine to manipulate and create geometries for output features."
 msgstr ""
+"Cet algorithme met à jour les géométries existantes (ou crée de nouvelles "
+"géométries) pour les entités en entrée à l'aide d'une expression QGIS. Cela "
+"permet des modifications géométriques complexes qui peuvent utiliser toute "
+"la flexibilité du moteur d'expression QGIS pour manipuler et créer des "
+"géométries pour les entités de sortie."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1597
 msgid "Feature: Snap geometries to layer algorithm"
-msgstr ""
+msgstr "Fonctionnalité : Aligner les géométries sur l'algorithme de calque"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1599
 msgid "Port the Geometry Snapper plugin to processing"
-msgstr ""
+msgstr "Porter le plug-in Geometry Snapper vers le traitement"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1601
 msgid ""
 "Snap geometries algorithm allows snapping to other layer types, supports "
 "point/line layers"
 msgstr ""
+"L'algorithme de géométries d'accrochage permet l'accrochage à d'autres types"
+" de calques, prend en charge les calques de points/lignes"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1604
 msgid ""
@@ -4130,10 +4449,16 @@ msgid ""
 " segment. The new option allows you to snap geometries to the closest point,"
 " regardless of whether it's a node or segment."
 msgstr ""
+"L'algorithme d'accrochage au calque accepte un paramètre de mode. Avec une "
+"nouvelle option pour préférer s'accrocher au point le plus proche sur la "
+"géométrie. L'ancien comportement consistait à préférer s'accrocher aux "
+"nœuds, même si un nœud était plus éloigné de la géométrie d'entrée qu'un "
+"segment. La nouvelle option vous permet d'aligner les géométries sur le "
+"point le plus proche, qu'il s'agisse d'un nœud ou d'un segment."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1616
 msgid "Feature: New input type for expressions"
-msgstr ""
+msgstr "Fonctionnalité : Nouveau type de saisie pour les expressions"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1618
 msgid ""
@@ -4141,16 +4466,21 @@ msgid ""
 "linked to a parent layer so that the builder shows the correct fields and "
 "layer variables."
 msgstr ""
+"Cela ajoute un nouveau type d'entrée pour les entrées d'expression. Les "
+"entrées d'expression peuvent être liées à une couche parente afin que le "
+"générateur affiche les champs et les variables de couche appropriés."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1622
 msgid ""
 "It's designed to be used when an algorithm specifically requires an "
 "expression, eg Select by Expression and Extract by Expression."
 msgstr ""
+"Il est conçu pour être utilisé lorsqu'un algorithme requiert spécifiquement "
+"une expression, comme Sélection par Expression et Extraire par Expression. "
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1631
 msgid "Feature: SplitWithLines"
-msgstr ""
+msgstr "Fonctionnalité : SplitWithLines"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1633
 msgid ""
@@ -4159,6 +4489,11 @@ msgid ""
 "use selection only) Issue log message if trying to split multi geometries "
 "Update help"
 msgstr ""
+"Renommer l'algorithme SplitLinesWithLines en SplitWithLines Accepter "
+"également le polygone en entrée Utiliser uniquement les lignes sélectionnées"
+" avec lesquelles fractionner (si le traitement est défini pour utiliser "
+"uniquement la sélection) Émettre un message de journal si vous essayez de "
+"fractionner plusieurs géométries Mettre à jour l'aide"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1639
 msgid "This feature was developed by Bernhard Ströbl"
@@ -4166,7 +4501,7 @@ msgstr "Cette fonctionnalité a été développée par Bernhard Ströbl"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1643
 msgid "Feature: Pole of inaccessibility algorithm"
-msgstr ""
+msgstr "Fonctionnalité : Algorithme du pôle d'inaccessibilité"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1646
 msgid ""
@@ -4177,77 +4512,107 @@ msgid ""
 " pole of inaccessibility within a specified tolerance. More precise "
 "tolerances require more iterations and will take longer to calculate."
 msgstr ""
+"Implémente un algorithme de traitement pour calculer le pôle "
+"d'inaccessibilité d'une surface, qui est le point interne le plus éloigné de"
+" la limite de la surface. Cette fonction utilise l'algorithme « polylabel » "
+"(Vladimir Agafonkin, 2016), qui est une approche itérative garantissant de "
+"trouver le véritable pôle d'inaccessibilité dans une tolérance spécifiée. "
+"Des tolérances plus précises nécessitent plus d'itérations et prendront plus"
+" de temps à calculer."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1660
 msgid "Feature: Extract by attribute can extract for null/notnull values"
 msgstr ""
+"Fonctionnalité : l'extraction par attribut peut extraire des valeurs "
+"nulles/non nulles"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1662
 msgid ""
 "Adds support for filtering where an attribute value is null or not null"
 msgstr ""
+"Ajoute la prise en charge du filtrage lorsqu'une valeur d'attribut est nulle"
+" ou non nulle"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1670
 msgid "Feature: Create attribute index algorithm"
-msgstr ""
+msgstr "Fonctionnalité : Créer un algorithme d'index d'attributs"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1672
 msgid ""
 "Allows creation of an index on an attribute in a layer for faster attribute "
 "based filtering"
 msgstr ""
+"Permet la création d'un index sur un attribut dans une couche pour un "
+"filtrage plus rapide basé sur les attributs"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1675
 msgid "Support depends on the underlying data provider for the layer"
 msgstr ""
+"La prise en charge dépend du fournisseur de données sous-jacent pour la "
+"couche"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1683
 msgid "Feature: New 'drop geometries' algorithm"
-msgstr ""
+msgstr "Fonctionnalité : nouvel algorithme de \"géométries de gouttes\""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1685
 msgid ""
 "Simply removes any geometries from an input layer and returns the features "
 "with attributes only"
 msgstr ""
+"Supprime simplement toutes les géométries d'une couche d'entrée et renvoie "
+"les entités avec des attributs uniquement"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1694
 msgid "Feature: New universal 'basic stats for field' algorithm"
 msgstr ""
+"Fonctionnalité: Nouvel algorithme universel 'Statistiques basiques pour les "
+"champs'"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1696
 msgid ""
 "Replaces the existing 'Basic Stats for Numeric Fields' and 'Basic Stats for "
 "String Fields' algorithms and adds support for date/time/datetime fields."
 msgstr ""
+"Remplace les algorithmes 'Statistiques basiques pour les champs numériques' "
+"et 'Statistiques basiques pour les chaînes de caractères' existants et "
+"ajoute la prise en charge des champs date/heure/date."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1700
 msgid ""
 "Having a single unified algorithm allows more flexible models where a field "
 "type may not be known in advance."
 msgstr ""
+"Le fait d'avoir un seul algorithme unifié permet des modèles plus flexibles "
+"où un type de champ peut ne pas être connu à l'avance."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1709
 msgid "Feature: Port heatmap plugin to processing algorithm"
 msgstr ""
+"Fonctionnalité: Port du plugin carte de chaleur vers l'algorithme de géo-"
+"traitements"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1717
 msgid "Feature: New algorithm to orthagonalize geometries"
-msgstr ""
+msgstr "Fonctionnalité : Nouvel algorithme pour orthogonaliser les géométries"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1719
 msgid ""
 "Adds a new algorithm which tries to make  angles in geometries either right "
 "angles or straight lines"
 msgstr ""
+"Ajoute un nouvel algorithme qui essaie de faire des angles dans les "
+"géométries soit des angles droits ou des lignes droites"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1726
 msgid "Feature: Network analysis algorithms"
-msgstr ""
+msgstr "Fonctionnalité : Algorithmes d'analyse de réseau"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1728
 msgid "add shortest path and service area algorithms to Processing"
 msgstr ""
+"ajouter des algorithmes du chemin le plus court et de la zone de service aux"
+" géo-traitements "
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1730
 msgid ""
@@ -4255,14 +4620,18 @@ msgid ""
 "or from all points in a layer to an end point. And creating service areas "
 "for all points in a layer."
 msgstr ""
+"permettent également de calculer le chemin le plus court d'un point à tous "
+"les points d'un calque, ou de tous les points d'un calque à un point final. "
+"Et créer des zones de desserte pour tous les points d'une couche."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1732
 msgid "Roadgraph plugin has been removed as a result."
-msgstr ""
+msgstr "Le plugin Roadgraph a donc été supprimé."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1738
 msgid "Feature: Export processing models as PDF/SVG"
 msgstr ""
+"Fonctionnalité: Modèles d'exportation de géo-traitements aux formats PDF/SVG"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1740
 msgid ""
@@ -4271,22 +4640,35 @@ msgid ""
 "SVGs. This allows for high-resolution export of models which can be embedded"
 " into papers and books being published."
 msgstr ""
+"Outre l'exportation de modèles de traitement sous forme d'images bitmap, il "
+"est désormais possible d'exporter des modèles de traitement sous forme de "
+"fichiers PDF et SVG indépendants de la résolution. Cela permet une "
+"exportation haute résolution de modèles qui peuvent être intégrés dans des "
+"articles et des livres en cours de publication."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1742
 msgid "|image105|"
 msgstr "|image105|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2453
+msgid "image105"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1748
 msgid "Feature: New algorithm to truncate tables"
-msgstr ""
+msgstr "Fonctionnalité : Nouvel algorithme pour tronquer les tables"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1750
 msgid "Irretrievably deletes all features from a table... use with caution!"
 msgstr ""
+"Supprime irrémédiablement toutes les fonctionnalités d'un tableau... à "
+"utiliser avec prudence !"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1758
 msgid "Feature: Added ‘invalid feature handling’ option"
 msgstr ""
+"Fonctionnalité : Ajout de l'option \"gestion des fonctionnalités non "
+"valides\""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1760
 msgid "This feature was developed by Victor Olaya"
@@ -4297,28 +4679,35 @@ msgid ""
 "Feature: Algorithm to fix invalid geometries using native makeValid() "
 "implementation"
 msgstr ""
+"Fonctionnalité : Algorithme pour corriger les géométries invalides à l'aide "
+"de l'implémentation native de makeValid()"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1770
 msgid "Feature: Add search to Get Scripts and Models dialog"
 msgstr ""
+"Fonctionnalité : Ajouter une recherche à la boîte de dialogue Obtenir des "
+"scripts et des modèles"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1776
 msgid "Feature: Generic centroid algorithm"
-msgstr ""
+msgstr "Fonctionnalité : Algorithme centroïde générique"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1778
 msgid "Reworked centroid algorithm which handles non-polygon layers"
 msgstr ""
+"Algorithme de centroïde retravaillé qui gère les couches non polygonales"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1786
 msgid "Feature: Improved Extract nodes algorithm"
-msgstr ""
+msgstr "Fonctionnalité : Algorithme de nœuds d'extraction amélioré"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1788
 msgid ""
 "Extract nodes algorithm now saves node index, distance along line and angle "
 "at node"
 msgstr ""
+"L'algorithme d'extraction de nœuds enregistre désormais l'index de nœud, la "
+"distance le long de la ligne et l'angle au nœud"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1791
 #: ../../source/site/forusers/visualchangelog30/index.rst:1855
@@ -4328,14 +4717,15 @@ msgstr "Cette fonctionnalité a été financée par Andreas Neumann."
 #: ../../source/site/forusers/visualchangelog30/index.rst:1797
 msgid "Feature: New algorithm for translating (moving) points"
 msgstr ""
+"Fonctionnalité : nouvel algorithme de translation (déplacement) des points"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1799
 msgid "Allows geometries to be shifted by a x/y displacement"
-msgstr ""
+msgstr "Permet de décaler les géométries d'un déplacement x/y"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1807
 msgid "Feature: Improved processing modeler window"
-msgstr ""
+msgstr "Fonctionnalité : fenêtre de modélisation de traitement améliorée"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1809
 msgid ""
@@ -4344,24 +4734,40 @@ msgid ""
 "customization of inputs and algorithms panels' location - panels can now "
 "float above the processing window"
 msgstr ""
+"La fenêtre du modélisateur de traitement a reçu beaucoup d'attention pour "
+"cette version. Les améliorations incluent : - commandes de zoom dans la "
+"barre d'outils de la fenêtre - personnalisation de l'emplacement des "
+"panneaux d'entrées et d'algorithmes - les panneaux peuvent désormais flotter"
+" au-dessus de la fenêtre de traitement"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1814
 msgid "|image106|"
 msgstr "|image106|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2454
+msgid "image106"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1820
 msgid "Feature: New raster unique values report algorithm"
 msgstr ""
+"Fonctionnalité : nouvel algorithme de rapport de valeurs uniques raster"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1822
 msgid ""
 "A new algorithm was added to processing which returns the count and area of "
 "each unique value within a given raster layer."
 msgstr ""
+"Un nouvel algorithme a été ajouté au traitement qui renvoie le nombre et la "
+"surface de chaque valeur unique dans une couche raster donnée."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1824
 msgid "|image107|"
 msgstr "|image107|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2455
+msgid "image107"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1830
 msgid "Feature: Remove TauDEM provider from core Processing"
@@ -4378,31 +4784,45 @@ msgstr ""
 msgid "|image108|"
 msgstr "|image108|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2456
+msgid "image108"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1838
 msgid "Feature: Download a file from Processing"
-msgstr ""
+msgstr "Fonctionnalité : Télécharger un fichier à partir de Traitement"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1840
 msgid "Download a file from Processing. Query a remote API to get a geojson"
 msgstr ""
+"Téléchargez un fichier à partir de Processing. Interroger une API distante "
+"pour obtenir un geojson"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1847
 msgid "Feature: Optimised points along geometry algorithm"
 msgstr ""
+"Fonctionnalité : points optimisés le long de l'algorithme de géométrie"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1849
 msgid ""
 "Supports also polygon geometries, handles null geometries, and records the "
 "original line angle along with the distance for each point."
 msgstr ""
+"Prend également en charge les géométries de polygones, gère les géométries "
+"nulles et enregistre l'angle de ligne d'origine avec la distance pour chaque"
+" point."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1853
 msgid "|image109|"
 msgstr "|image109|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2457
+msgid "image109"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:1861
 msgid "Feature: Sort by expression algorithm"
-msgstr ""
+msgstr "Fonctionnalité : Trier par algorithme d'expression"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1863
 msgid ""
@@ -4438,10 +4858,21 @@ msgid ""
 "versions land support for embedding other resources like SVG, color ramps, "
 "datasources, images, etc..."
 msgstr ""
+"Il y a longtemps sur la liste de diffusion du développeur, nous avons parlé "
+"d'un conteneur stockant le fichier xml et d'autres ressources. C'est "
+"désormais possible, même si cela reste facultatif. La fonction de stockage "
+"auxiliaire en tire parti en stockant la base de données .qgd sqlite "
+"associée. Nous espérons que les prochaines versions prendront en charge "
+"l'intégration d'autres ressources telles que SVG, les rampes de couleurs, "
+"les sources de données, les images, etc..."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1879
 msgid "|image110|"
 msgstr "|image110|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2458
+msgid "image110"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1887
 msgid "Feature: Add support for user profiles"
@@ -4453,21 +4884,33 @@ msgid ""
 " each platform and no longer .qgis3/2. Settings and plugins in each profile "
 "are now isolated from each other."
 msgstr ""
+"Tous les paramètres/plugins utilisateur, etc. sont désormais chargés à "
+"partir de l'emplacement des données de l'application pour chaque plate-forme"
+" et non plus .qgis3/2. Les paramètres et les plugins de chaque profil sont "
+"désormais isolés les uns des autres."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1891
 msgid ""
 "This allows for different runtime setups depending on what the user needs, "
 "e.g test, prod, demo, etc"
 msgstr ""
+"Cela permet différentes configurations d'exécution en fonction des besoins "
+"de l'utilisateur, par exemple test, prod, démo, etc."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1893
 msgid ""
 "Profile menu allows for switching between profiles or creating new ones."
 msgstr ""
+"Le menu Profil permet de basculer entre les profils ou d'en créer de "
+"nouveaux."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1895
 msgid "|image111|"
 msgstr "|image111|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2459
+msgid "image111"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1897
 msgid ""
@@ -4484,10 +4927,12 @@ msgstr "Explorateur"
 #: ../../source/site/forusers/visualchangelog30/index.rst:1904
 msgid "Feature: Drag'n'drop layers from layer tree view to browser dock"
 msgstr ""
+"Fonctionnalité : faites glisser et déposez des calques de l'arborescence des"
+" calques vers le dock du navigateur"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1906
 msgid "Makes it easy to e.g. store your temporary layers in PostGIS"
-msgstr ""
+msgstr "Facilite par ex. stocker vos couches temporaires dans PostGIS"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1908
 #: ../../source/site/forusers/visualchangelog30/index.rst:2275
@@ -4497,6 +4942,7 @@ msgstr "Cette fonctionnalité a été développée par Martin Dobias"
 #: ../../source/site/forusers/visualchangelog30/index.rst:1912
 msgid "Feature: Standalone QGIS Browser application removed"
 msgstr ""
+"Fonctionnalité : Suppression de l'application autonome du navigateur QGIS"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1914
 msgid ""
@@ -4505,6 +4951,10 @@ msgid ""
 "maintenance overhead that we do not wish to continue with in the 3.0 code "
 "base."
 msgstr ""
+"Nous avons supprimé l'application autonome QGIS Browser fournie avec QGIS "
+"2.x. Cette application était peu utilisée par les utilisateurs et "
+"représentait une surcharge de maintenance que nous ne souhaitons pas "
+"continuer dans la base de code 3.0."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1919
 msgid "Data Providers"
@@ -4513,16 +4963,23 @@ msgstr "Pilotes de données"
 #: ../../source/site/forusers/visualchangelog30/index.rst:1922
 msgid "Feature: New unified 'add layer' dialog"
 msgstr ""
+"Fonctionnalité : nouvelle boîte de dialogue \"ajouter une couche\" unifiée"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1924
 msgid ""
 "You can now use a single dialog to add a huge variety of data formats to "
 "QGIS."
 msgstr ""
+"Vous pouvez maintenant utiliser une seule boîte de dialogue pour ajouter une"
+" grande variété de formats de données à QGIS."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1926
 msgid "|image114|"
 msgstr "|image114|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2462
+msgid "image114"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1932
 msgid "Feature: GeoPackage"
@@ -4530,19 +4987,19 @@ msgstr "Fonctionnalité: GeoPackage"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1934
 msgid "processing uses pkg by default"
-msgstr ""
+msgstr "enregistrer sous use pkg par défaut"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1935
 msgid "save as uses pkg by default"
-msgstr ""
+msgstr "enregistrer sous utilise pkg par défaut"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1936
 msgid "create new layer uses pkg by default"
-msgstr ""
+msgstr "créer une nouvelle couche en utilisant pkg par défaut"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1937
 msgid "browser drag and drop import layers"
-msgstr ""
+msgstr "navigateur glisser-déposer importer des couches"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1939
 msgid "This feature was developed by Alessandro Pasotti"
@@ -4553,12 +5010,16 @@ msgid ""
 "Feature: Support all GDAL writable raster formats for 'Save as' dialog on "
 "raster layers"
 msgstr ""
+"Fonctionnalité : Prend en charge tous les formats raster inscriptibles de "
+"GDAL pour la boîte de dialogue \"Enregistrer sous\" sur les couches raster"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1948
 msgid ""
 "Feature: Support for Z/M geometries in gpkg, spatialite and memory layer "
 "provider"
 msgstr ""
+"Fonctionnalité : Prise en charge des géométries Z/M dans gpkg, spatialite et"
+" fournisseur de couche de mémoire"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1950
 msgid ""
@@ -4566,10 +5027,18 @@ msgid ""
 " memory layer provider. the option to add Z and M dimensions has also been "
 "added to the \"create new layer\" dialogs"
 msgstr ""
+"La prise en charge de la dimension Z et des valeurs M a été ajoutée au "
+"fournisseur de couches gpkg, spatialite et memory de QGIS. l'option "
+"d'ajouter des dimensions Z et M a également été ajoutée aux boîtes de "
+"dialogue \"créer un nouveau calque\""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1953
 msgid "|image115|"
 msgstr "|image115|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2463
+msgid "image115"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1955
 msgid ""
@@ -4589,21 +5058,23 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1961
 msgid "Feature: Unique and not-null constraint handling"
-msgstr ""
+msgstr "Fonctionnalité : Gestion des contraintes uniques et non nulles"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1963
 msgid ""
 "Automatic detection of provider-side unique and not-null constraints "
 "implemented for postgres, spatialite, ogr provider"
 msgstr ""
+"Détection automatique des contraintes uniques et non nulles côté fournisseur"
+" implémentées pour le fournisseur postgres, spatialite, ogr"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1965
 msgid "Client side unique and not-null constraints can be set within QGIS."
-msgstr ""
+msgstr "Les contraintes uniques sont appliquées sous forme d'attribut"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1967
 msgid "Unique constraints are enforced in attribute form"
-msgstr ""
+msgstr "Les contraintes uniques sont appliquées sous forme d'attribut"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1975
 msgid "Feature: GeoNode integration"
@@ -4620,6 +5091,14 @@ msgid ""
 "WMS and XYZ Tiled layers, the style of the published GeoNode layer will be "
 "used."
 msgstr ""
+"`GeoNode <http://geonode.org>`__ is an open source geospatial content "
+"management system that makes it easy to publish geospatial data on the web. "
+"QGIS 3.0 includes new functionality that will allow you to very easily add a"
+" GeoNode instance to the browser tree and add any layers from that site to "
+"your project as WMS, WFS or XYZ. There is no need to dig around trying to "
+"figure out WMS/WFS end points, QGIS will do everything for you. When using "
+"WMS and XYZ Tiled layers, the style of the published GeoNode layer will be "
+"used."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1979
 msgid ""
@@ -4628,19 +5107,34 @@ msgid ""
 "your local layer so that your WFS layer renders exactly as it does on the "
 "server (as shown in the animated GIF here)."
 msgstr ""
+"Si l'instance GeoNode utilise le backend de QGIS Server plutôt qu'un "
+"GeoServer, vous pouvez copier et coller des styles depuis le serveur et les "
+"appliquer à votre couche locale afin que votre couche WFS s'affiche "
+"exactement comme sur le serveur (comme indiqué dans l'animation GIF ici)."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1981
 msgid ""
 "There are also python bindings so that you can add GeoServer layers to QGIS "
 "from your plugins. If you are interested in running your own GeoNode with "
-"QGIS Server backend please see `this site <https://github.com/kartoza"
-"/kartoza-rancher-catalogue/blob/master/README.md>`__ for details on how you "
-"can do that using docker and rancher."
+"QGIS Server backend please see `this site "
+"<https://github.com/kartoza/kartoza-rancher-"
+"catalogue/blob/master/README.md>`__ for details on how you can do that using"
+" docker and rancher."
 msgstr ""
+"Il existe également des liaisons python pour que vous puissiez ajouter des "
+"couches GeoServer à QGIS à partir de vos plugins. Si vous souhaitez exécuter"
+" votre propre GeoNode avec le backend de QGIS Server, veuillez consulter `ce"
+" site <https://github.com/kartoza/kartoza-rancher-"
+"catalogue/blob/master/README.md>`__ pour plus de détails sur la façon dont "
+"vous peut le faire en utilisant docker et rancher."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1983
 msgid "|image116|"
 msgstr "|image116|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2464
+msgid "image116"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1985
 msgid "This feature was funded by `WorldBank/GFDRR <https://www.gfdrr.org>`__"
@@ -4656,34 +5150,40 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:1991
 msgid "Feature: Detect literal default values for spatialite provider"
 msgstr ""
+"Fonctionnalité : Détecter les valeurs littérales par défaut pour le "
+"fournisseur spatialite"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:1999
 msgid "Feature: Create attribute index support for spatialite provider"
 msgstr ""
+"Fonctionnalité: Créer un support d'index d'attribut pour le fournisseur "
+"spatialite"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2001
 msgid "Allows creation of attribute indexes for spatialite layers"
-msgstr ""
+msgstr "Permet la création d'index d'attributs pour les couches spatialites"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2009
 msgid "Feature: Add support for arrays"
-msgstr ""
+msgstr "Fonctionnalité: Gestion des tableaux"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2011
 msgid "Supported by postgres, spatialite"
-msgstr ""
+msgstr "Pris en charge par postgres, spatialite"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2017
 msgid "Feature: Support for HStore in PostGIS data provider"
 msgstr ""
+"Fonctionnalité : Prise en charge de HStore dans le fournisseur de données "
+"PostGIS"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2021
 msgid "Feature: Add auto-discovery of relations for PostgresQL"
-msgstr ""
+msgstr "Fonctionnalité: Détection des relations pour PostgresQL"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2027
 msgid "Feature: Data dependencies between layers"
-msgstr ""
+msgstr "Fonctionnalité : dépendances de données entre les couches"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2029
 msgid ""
@@ -4693,6 +5193,12 @@ msgid ""
 " of a layer is updated by a database trigger after modification of another "
 "layer's geometry."
 msgstr ""
+"Cela permet de déclarer des dépendances de données entre les couches. Une "
+"dépendance de données se produit lorsqu'une modification de données dans une"
+" couche, non par une manipulation directe de l'utilisateur, peut modifier "
+"les données d'autres couches. C'est le cas par exemple lorsque la géométrie "
+"d'une couche est mise à jour par un déclencheur de base de données après "
+"modification de la géométrie d'une autre couche."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2035
 msgid "This feature was developed by Hugo Mercier"
@@ -4700,7 +5206,7 @@ msgstr "Cette fonctionnalité a été développée par Hugo Mercier"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2039
 msgid "Feature: dxf export: support reprojection"
-msgstr ""
+msgstr "Fonctionnalité : exportation dxf : prise en charge de la reprojection"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2041
 msgid "This feature was developed by Juergen E. Fischer"
@@ -4709,10 +5215,12 @@ msgstr "Cette fonctionnalité a été développée par Juergen E. Fischer"
 #: ../../source/site/forusers/visualchangelog30/index.rst:2045
 msgid "Feature: Load/save style in database for GPKG and Spatialite"
 msgstr ""
+"Fonctionnalité : Charger/enregistrer le style dans la base de données pour "
+"GPKG et Spatialite"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2051
 msgid "Feature: Improved handling of defaults"
-msgstr ""
+msgstr "Fonctionnalité : Amélioration de la gestion des valeurs par défaut"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2053
 msgid ""
@@ -4720,12 +5228,18 @@ msgid ""
 "defaults, and QGIS expression defaults) and automatically handle unique "
 "value constraints on layers"
 msgstr ""
+"Améliorez la gestion des valeurs par défaut (incluant les clauses par défaut"
+" du fournisseur, les valeurs littérales par défaut et les valeurs par défaut"
+" des expressions QGIS) et gérez automatiquement les contraintes de valeur "
+"unique sur les couches"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2055
 msgid ""
 "Any fields with unique value constraints will be guaranteed to have a value "
 "which is unique to the field."
 msgstr ""
+"Tous les champs avec des contraintes de valeur unique auront la garantie "
+"d'avoir une valeur qui est unique au champ."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2057
 msgid ""
@@ -4733,6 +5247,9 @@ msgid ""
 "split features etc.) attributes will now be set to their default value, if "
 "applicable."
 msgstr ""
+"Cela signifie également qu'après certaines opérations d'édition (par "
+"exemple, copier-coller, fractionner des entités, etc.), les attributs seront"
+" désormais définis sur leur valeur par défaut, le cas échéant."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2059
 msgid "This feature was funded by Canton of Zug and the QGEP project"
@@ -4745,7 +5262,7 @@ msgstr "QGIS Server"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2068
 msgid "Feature: QGIS Server overhaul"
-msgstr ""
+msgstr "Fonctionnalité : Refonte de QGIS Server"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2070
 msgid ""
@@ -4754,6 +5271,10 @@ msgid ""
 "because we needed to break the QGIS API in several places. "
 "(http://blog.qgis.org/2016/02/10/qgis-3-0-plans/)"
 msgstr ""
+"As you may know, QGIS is jumping to a new major version (yes!). Doing so was"
+" made necessary because of the need to switch to python 3, QT5, but also "
+"because we needed to break the QGIS API in several places. "
+"(http://blog.qgis.org/2016/02/10/qgis-3-0-plans/)"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2072
 msgid ""
@@ -4763,6 +5284,11 @@ msgid ""
 "file in his own way, and created dependencies to part of QGIS we needed to "
 "drop."
 msgstr ""
+"Il y a un an, un petit troll de Suisse a sonné une cloche sur le fort besoin"
+" de base de code de serveur d'amour requise. En effet, l'API était "
+"verrouillée par certaines anciennes méthodes du serveur QGIS. En bref, le "
+"serveur QGIS réparait le fichier de projet qgs à sa manière et créait des "
+"dépendances à une partie de QGIS que nous devions supprimer."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2074
 msgid ""
@@ -4771,10 +5297,15 @@ msgid ""
 "city of Lyon, France dedicated to sharing their vision, planning the work "
 "and finally making all the following happen:"
 msgstr ""
+"Comme l'externalisation de la base de code du serveur n'était pas une "
+"option, nous avons donc dû la refactoriser. Les parties impliquées ont "
+"décidé de s'engager dans un sprint de code dans la ville de Lyon, en France,"
+" dédié au partage de leur vision, à la planification du travail et enfin à "
+"la réalisation de tout ce qui suit :"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2076
 msgid "Higher level refactoring"
-msgstr ""
+msgstr "Refactoring de niveau supérieur"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2078
 msgid ""
@@ -4782,6 +5313,9 @@ msgid ""
 "etc..) have been rewritten. Some like WMS were entirely rewritten. Kudos to "
 "the devs!"
 msgstr ""
+"Tous les services (WMS GetMap, WFS GetFeature, GetLegendGraphics, WCS, "
+"GetPrint etc.) ont été réécrits. Certains comme WMS ont été entièrement "
+"réécrits. Bravo aux devs !"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2080
 msgid "New features"
@@ -4789,11 +5323,11 @@ msgstr "Nouvelles fonctionnalités"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2082
 msgid "Multi-thread rendering like in the desktop"
-msgstr ""
+msgstr "Rendu multi-thread comme dans le bureau"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2084
 msgid "A new option to trust layer metadata and thus speed up project loading"
-msgstr ""
+msgstr "Rendu multi-thread comme dans le bureau"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2086
 msgid "WFS 1.1 support https://github.com/qgis/QGIS/pull/5297"
@@ -4801,55 +5335,66 @@ msgstr "Support du WFS 1.1 https://github.com/qgis/QGIS/pull/5297"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2088
 msgid "Full Python bindings for the server API"
-msgstr ""
+msgstr "Liaisons Python complètes pour l'API du serveur"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2090
 msgid "Server Services as plugins like providers"
-msgstr ""
+msgstr "Services de serveur en tant que plugins comme les fournisseurs"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2092
 msgid "Deep, complex and unrewarding tasks"
-msgstr ""
+msgstr "Tâches profondes, complexes et peu gratifiantes"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2094
 msgid "Remove all singleton calls"
-msgstr ""
+msgstr "Supprimer tous les appels singleton"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2096
 msgid "Cut all the dependencies to the old QGIS project file parser"
 msgstr ""
+"Coupez toutes les dépendances à l'ancien analyseur de fichiers de projet "
+"QGIS"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2098
 msgid ""
 "Minimize dependencies to GUI library. Since fonts are necessary to render "
 "maps, totally removing them was not feasable."
 msgstr ""
+"Coupez toutes les dépendances à l'ancien analyseur de fichiers de projet "
+"QGIS"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2100
 msgid "Infrastructure tasks"
-msgstr ""
+msgstr "Tâches d'infrastructure"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2102
 msgid ""
 "Build a OGC compliancy platform and integrate it to a continuous integration"
 " platform. Conformity reports are now pushed to tests.qgis.org"
 msgstr ""
+"Créez une plate-forme de conformité OGC et intégrez-la à une plate-forme "
+"d'intégration continue. Les rapports de conformité sont maintenant poussés "
+"vers tests.qgis.org"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2104
 msgid "Add unit tests ... and again more unit tests"
-msgstr ""
+msgstr "Ajouter des tests unitaires ... et encore plus de tests unitaires"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2106
 msgid ""
 "Stress QGIS server against security leaks (SQL injections and other "
 "malicious attacks)"
 msgstr ""
+"Stresser le serveur QGIS contre les failles de sécurité (injections SQL et "
+"autres attaques malveillantes)"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2108
 msgid ""
 "Start profiling and bench marking performances. This work still need some "
 "love - and funding - to be achieved"
 msgstr ""
+"Commencez à profiler et à comparer les performances. Ce travail a encore "
+"besoin d'amour - et de financement - pour être réalisé"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2110
 msgid "A presentation was given at FOSS4G-EU in July."
@@ -4873,10 +5418,20 @@ msgid ""
 "\"Project\" -> \"Project Properties\" -> \"QGIS Server\") to segmentize the "
 "geometry before sending it to the client in a GetFeatureInfo response."
 msgstr ""
+"De nombreux clients Web ne peuvent pas afficher les arcs de cercle dans les "
+"géométries. Pour permettre à ces clients de toujours afficher la géométrie "
+"d'une entité (par exemple pour mettre en évidence l'entité), une nouvelle "
+"option de serveur QGIS par projet a été introduite (Menu \"Projet\" -> "
+"\"Propriétés du projet\" -> \"QGIS Server\") pour segmenter la géométrie "
+"avant en l'envoyant au client dans une réponse GetFeatureInfo."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2120
 msgid "|image117|"
 msgstr "|image117|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2465
+msgid "image117"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2122
 msgid "This feature was funded by `Kanton of Zug <https://geo.zg.ch/>`__"
@@ -4899,6 +5454,7 @@ msgstr "Extensions"
 #: ../../source/site/forusers/visualchangelog30/index.rst:2131
 msgid "Feature: Remove trusted status from Plugin Manager"
 msgstr ""
+"Fonctionnalité : Supprimer le statut de confiance du gestionnaire de plugins"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2133
 msgid "https://github.com/qgis/QGIS/pull/5272"
@@ -4907,12 +5463,16 @@ msgstr "https://github.com/qgis/QGIS/pull/5272"
 #: ../../source/site/forusers/visualchangelog30/index.rst:2137
 msgid "Feature: Offline editing: Add flag to only copy selected features"
 msgstr ""
+"Fonctionnalité : édition hors ligne : ajouter un indicateur pour copier "
+"uniquement les entités sélectionnées"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2139
 msgid ""
 "This extends the offline editing possibilities to only work on subset of "
 "large layers"
 msgstr ""
+"Cela étend les possibilités d'édition hors ligne pour ne travailler que sur "
+"un sous-ensemble de grandes couches"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2142
 msgid "This feature was funded by DB Fahrwegdienste GmbH"
@@ -4935,10 +5495,22 @@ msgid ""
 "improved overall UI/UX by exposing some advanced parameters like creation "
 "options, NODATA value settings etc."
 msgstr ""
+"Toutes les fonctions précédemment disponibles via le plugin GDALTools ont "
+"été déplacées vers le framework de traitement QGIS, permettant d'utiliser "
+"ces outils dans des scripts, des modèles et de les exécuter dans des "
+"processus par lots. De plus, nous avons mis à jour les algorithmes avec de "
+"nouveaux paramètres, introduits dans les dernières versions de GDAL et "
+"amélioré l'interface utilisateur/UX globale en exposant certains paramètres "
+"avancés tels que les options de création, les paramètres de valeur NODATA, "
+"etc."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2154
 msgid "|image118|"
 msgstr "|image118|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2466
+msgid "image118"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2160
 msgid "Feature: allow installing plugins from local ZIP packages"
@@ -4958,6 +5530,10 @@ msgstr ""
 msgid "|image119|"
 msgstr "|image119|"
 
+#: ../../source/site/forusers/visualchangelog30/index.rst:2467
+msgid "image119"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog30/index.rst:2170
 msgid "Feature: Plugins can provide a custom help in Expression window"
 msgstr ""
@@ -4975,6 +5551,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog30/index.rst:2174
 msgid "|image120|"
 msgstr "|image120|"
+
+#: ../../source/site/forusers/visualchangelog30/index.rst:2468
+msgid "image120"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2176
 msgid "This feature was funded by `DFAT/DMI <http://dfat.gov.au>`__"
@@ -5093,6 +5673,8 @@ msgid ""
 "Introduces a framework for creating background tasks, which are interacted "
 "with through a centralised manager"
 msgstr ""
+"Introduit un cadre pour la création de tâches en arrière-plan, avec "
+"lesquelles interagissent via un gestionnaire centralisé"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2228
 msgid ""
@@ -5100,12 +5682,18 @@ msgid ""
 "- QgsTaskManager. Handles groups of tasks - also available as a "
 "QgsApplication member  for tracking application wide tasks"
 msgstr ""
+"Ajoute de nouvelles classes : - QgsTask. Une interface pour les tâches "
+"d'arrière-plan de longue durée - QgsTaskManager. Gère des groupes de tâches "
+"- également disponible en tant que membre QgsApplication pour le suivi des "
+"tâches à l'échelle de l'application"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2232
 msgid ""
 "Add simple python method QgsTask.fromFunction for creation of tasks from a "
 "function without having to create a QgsTask subclass"
 msgstr ""
+"Ajouter une méthode python simple QgsTask.fromFunction pour la création de "
+"tâches à partir d'une fonction sans avoir à créer une sous-classe QgsTask"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2234
 msgid "Support for dependent tasks"
@@ -5116,16 +5704,20 @@ msgid ""
 "Cancelling a task on which others depend leads to all these other tasks "
 "getting cancelled as well."
 msgstr ""
+"L'annulation d'une tâche dont d'autres en dépendent entraîne l'annulation de"
+" toutes ces autres tâches."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2239
 msgid "Add handling of dependent layers to task manager"
-msgstr ""
+msgstr "Ajouter la gestion des couches dépendantes au gestionnaire de tâches"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2241
 msgid ""
 "If a task has dependent layers which are about to be removed, the task will "
 "automatically be cancelled"
 msgstr ""
+"Si une tâche a des canapés dépendants qui sont sur le point d'être "
+"supprimées, la tâche sera automatiquement annulée"
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2244
 msgid "QgsTasks can have subtasks"
@@ -5136,12 +5728,18 @@ msgid ""
 "Now, a QgsTask can have subtask QgsTasks set by calling QgsTask::addSubTask."
 " Sub tasks can have their own set of dependent tasks."
 msgstr ""
+"Désormais, une QgsTask peut avoir une sous-tâche QgsTasks définie en "
+"appelant QgsTask::addSubTask. Les sous-tâches peuvent avoir leur propre "
+"ensemble de tâches dépendantes."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2250
 msgid ""
 "Subtasks are not visible to users, and users only see the overall progress "
 "and status of the parent task."
 msgstr ""
+"Les sous-tâches ne sont pas visibles pour les utilisateurs, et les "
+"utilisateurs ne voient que la progression globale et l'état de la tâche "
+"parente."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2253
 msgid ""
@@ -5150,6 +5748,11 @@ msgid ""
 " the subtasks, so eg subtasks can run in parallel (if their dependancies "
 "allow this)."
 msgstr ""
+"Cela permet la création de tâches qui sont elles-mêmes construites à partir "
+"de nombreuses tâches de composants plus petites. Le gestionnaire de tâches "
+"gérera toujours le lancement et la planification des sous-tâches, par "
+"exemple, les sous-tâches peuvent s'exécuter en parallèle (si leurs "
+"dépendances le permettent)."
 
 #: ../../source/site/forusers/visualchangelog30/index.rst:2258
 msgid "Subtasks can themselves have subtasks."
@@ -5179,6 +5782,14 @@ msgstr ""
 "Les implémentations de QgsDataItem peuvent fournir hasDragEnabled(), "
 "mimeUri() et l'implémentation QgsCustomDropHandler pour gérer la dépose "
 "d'éléments personnalisés."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "Sponsors for QGIS version 3.0.0"
 #~ msgstr "Sponsors de QGIS 3.0.0"
@@ -5216,6 +5827,8 @@ msgstr ""
 
 #~ msgid "follow up to raster pseudocolor updated extent auto classification"
 #~ msgstr ""
+#~ "suivi de la classification automatique de l'étendue mise à jour de raster "
+#~ "pseudocouleur"
 
 #~ msgid ""
 #~ "**represent\\_value(value, fieldName)**: Returns the configured "
@@ -5251,27 +5864,34 @@ msgstr ""
 #~ msgid ""
 #~ "Feature: expose zonal statistics from Zonal statistics plugin in toolbox"
 #~ msgstr ""
+#~ "Fonctionnalité : exposer les statistiques zonales à partir du plug-in de "
+#~ "statistiques zonales dans la boîte à outils"
 
 #~ msgid "Feature: add a spatialite execute SQL algorithm"
-#~ msgstr ""
+#~ msgstr "Fonctionnalité : ajouter un algorithme SQL d'exécution spatialite"
 
 #~ msgid "Feature: add import into spatialite algorithm"
 #~ msgstr ""
 #~ "Fonctionnalité : Algorithme d'import dans une base de données SpatiaLite"
 
 #~ msgid "Feature: pole of inaccessibility algorithm"
-#~ msgstr ""
+#~ msgstr "Fonctionnalité: algorithme du pôle d'inaccessibilité"
 
 #~ msgid "Feature: added ‘invalid feature handling’ option"
 #~ msgstr ""
+#~ "Fonctionnalité : ajout de l'option \"gestion des fonctionnalités invalides\""
 
 #~ msgid ""
 #~ "Feature: algorithm to fix invalid geometries using native makeValid() "
 #~ "implementation"
 #~ msgstr ""
+#~ "Fonctionnalité : algorithme pour corriger les géométries invalides à l'aide "
+#~ "de l'implémentation native de makeValid()"
 
 #~ msgid "Feature: add search to Get Scripts and Models dialog"
 #~ msgstr ""
+#~ "Fonctionnalité : ajouter une recherche à la boîte de dialogue Obtenir des "
+#~ "scripts et des modèles"
 
 #~ msgid "Feature: improved Extract nodes algorithm"
-#~ msgstr ""
+#~ msgstr "Fonctionnalité : amélioration de l'algorithme d'extraction des nœuds"

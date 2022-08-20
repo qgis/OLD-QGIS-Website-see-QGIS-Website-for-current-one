@@ -2,19 +2,25 @@
 # Translators:
 # Darío Hereñú, 2016
 # Diana Galindo <drgalindog@linuxmail.org>, 2013
+# Eric Armijo, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-23 19:13+0000\n"
-"Last-Translator: Darío Hereñú\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-23 16:19+0000\n"
+"Last-Translator: Eric Armijo, 2022\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/getinvolved/meetings/index.rst:5
+msgid "Meetings"
+msgstr "Reuniones"
 
 #: ../../source/site/getinvolved/meetings/index.rst:7
 msgid ""
@@ -22,9 +28,25 @@ msgid ""
 "the world."
 msgstr "Desde 2009 la comunidad QGIS organiza reuniones de desarrolladores y usuarios por todo el mundo."
 
-#: ../../source/site/getinvolved/meetings/index.rst:5
-msgid "Meetings"
-msgstr "Reuniones"
+#: ../../source/site/getinvolved/meetings/index.rst:10
+msgid "Event organization"
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/index.rst:12
+msgid "The organization of events happens on the `QGIS wiki <wiki_link_>`_."
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/index.rst:18
+msgid "Pre-2016 events"
+msgstr "Eventos pre-2016"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS Meetings"
 #~ msgstr ""

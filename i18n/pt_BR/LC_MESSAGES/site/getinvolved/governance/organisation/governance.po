@@ -10,14 +10,14 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-23 19:33+0000\n"
-"Last-Translator: Mariana Muniz Blank <mariblank_1@hotmail.com>\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: Armando Vulcano Junior <vulcano@uol.com.br>, 2015\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:4
 msgid "QGIS Governance"
@@ -304,9 +304,9 @@ msgstr "A Tradução do GUI do QGIS é gerido por um Assistente da Comunidade (L
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:143
 msgid ""
-"Contact : `qgis-community-team <http://lists.osgeo .org/mailman/listinfo"
-"/qgis-community-team>`_ list or `QGIS Translation Mailing list "
-"<http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_"
+"Contact : `qgis-community-team <http://lists.osgeo "
+".org/mailman/listinfo/qgis-community-team>`_ list or `QGIS Translation "
+"Mailing list <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_"
 msgstr "Contact : `qgis-community-team <http://lists.osgeo .org/mailman/listinfo/qgis-community-team>`_ list or `QGIS Translation Mailing list <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:152

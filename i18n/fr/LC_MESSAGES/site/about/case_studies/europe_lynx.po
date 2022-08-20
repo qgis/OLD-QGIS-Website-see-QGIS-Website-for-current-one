@@ -7,15 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-30 12:18+0100\n"
-"PO-Revision-Date: 2017-09-22 14:42+0000\n"
-"Last-Translator: Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-09-08 07:58+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/europe_lynx.rst:4
 msgid "Lynx habitat analysis in the Southern Carpathians"
@@ -104,6 +105,7 @@ msgid ""
 msgstr "Modèle d'Adéquation de l'Habitat [Étape X] : [δ] un Index d'Adéquation de l’Élévation a été dérivé d'AsterDEM 2.0 [VI] et, avec l'index de densité de Population [V], ont été intégrés dans le modèle final d'adéquation de l'habitat (Figure 3) en utilisant le #Calculateur Raster "
 
 #: ../../source/site/about/case_studies/europe_lynx.rst:51
+#, python-format
 msgid ""
 "*Note:Defining forest (>= 75 % cover) as best suitable and using the "
 "elevation data to reduce index values above assumed tree line is "
@@ -227,3 +229,11 @@ msgid ""
 "Please contact Luca.Ehrminger(at)hnee.de, David.Winger(at)hnee.de, or "
 "Prof.Dr.Jan-Peter Mund: Jan-Peter.Mund(at)hnee.de for further information."
 msgstr "Veuillez contacter Luca.Ehrminger(at)hnee.de, David.Winger(at)hnee.de, ou Prof.Dr.Jan-Peter Mund: Jan-Peter.Mund(at)hnee.de pour de plus amples informations."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

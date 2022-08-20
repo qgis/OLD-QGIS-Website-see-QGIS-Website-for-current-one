@@ -5,14 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-08 11:00+0200\n"
-"PO-Revision-Date: 2017-09-22 17:13+0000\n"
-"Last-Translator: Supaplex <bejokeup@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-23 16:19+0000\n"
+"Last-Translator: Supaplex <bejokeup@gmail.com>, 2016-2017\n"
 "Language-Team: Chinese Traditional (http://www.transifex.com/qgis/qgis-website/language/zh-Hant/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: zh-Hant\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -20,11 +20,19 @@ msgstr ""
 msgid "QGIS User Meetings"
 msgstr "QGIS 使用者聚會"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:6
+#: ../../source/site/getinvolved/meetings/user/index.rst:5
+msgid "The organization of events happens on the `QGIS wiki <wiki_link_>`_."
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/user/index.rst:10
+msgid "Pre-2013 events are listed below:"
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/user/index.rst:13
 msgid "7th german-speaking QGIS User Meeting in Kassel 2013"
 msgstr "2013 年卡瑟爾第 7 屆 QGIS 德語使用者群組聚會"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:8
+#: ../../source/site/getinvolved/meetings/user/index.rst:15
 msgid ""
 "On 20th September 2013 the 7th german-speaking QGIS user meeting took place "
 "in Kassel. The event was organized by Otto Dassau (QGIS project) and Dr. "
@@ -35,45 +43,53 @@ msgid ""
 "center of the event."
 msgstr "2013 年 9 月 20 日第 7 屆 QGIS 德語使用者群組聚會在卡瑟爾舉行。本次活動由 Otto Dassau (QGIS 專案) 和 Claas Leiner 博士 (Serviceportal GIS und Geodaten am FB 06 der Uni Kassel) 籌辦，由德國 FOSSGIS 組織贊助。這一次有 80 位使用者、開發者和其他有興趣的參與者一同參與會議，討論 QGIS 的事情。除了實務報告和個人經驗分享，活動主要的亮點是工作坊。"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:17
+#: ../../source/site/getinvolved/meetings/user/index.rst:24
 msgid "2nd Australian QGIS User Meeting in Melbourne 2013"
 msgstr "2013 年墨爾本第 2 屆澳洲 QGIS 使用者聚會"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:20
+#: ../../source/site/getinvolved/meetings/user/index.rst:27
 msgid "Zurich 2013"
 msgstr "2013 年蘇黎世"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:23
+#: ../../source/site/getinvolved/meetings/user/index.rst:30
 msgid "1st Australian QGIS User Meeting in Perth 2013"
 msgstr "2013 年伯斯第 1 屆澳洲使用者聚會"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:26
+#: ../../source/site/getinvolved/meetings/user/index.rst:33
 msgid "Lisboa 2012"
 msgstr "2012 年里斯本"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:29
+#: ../../source/site/getinvolved/meetings/user/index.rst:36
 msgid "5th german-speaking QGIS User Meeting in Kassel 2012"
 msgstr "2012 年卡瑟爾第 5 屆 QGIS 德語使用者群組聚會"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:32
+#: ../../source/site/getinvolved/meetings/user/index.rst:39
 msgid "4th german-speaking QGIS User Meeting in Bern 2012"
 msgstr "第 4 屆 QGIS 德語使用者聚會 2012 在伯恩"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:35
+#: ../../source/site/getinvolved/meetings/user/index.rst:42
 msgid "3rd german-speaking QGIS User Meeting in Kassel 2011"
 msgstr "2011 年卡瑟爾第 3 屆 QGIS 德語使用者群組聚會"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:38
+#: ../../source/site/getinvolved/meetings/user/index.rst:45
 msgid "2nd german-speaking QGIS User Meeting in Rapperswil 2011"
 msgstr "第 2 屆 QGIS 德語使用者聚會 2011 在拉珀斯維爾"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:41
+#: ../../source/site/getinvolved/meetings/user/index.rst:48
 msgid "1st german-speaking QGIS User Meeting in Bern 2010"
 msgstr "第 1 屆 QGIS 德語使用者聚會 2010 在伯恩"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:44
+#: ../../source/site/getinvolved/meetings/user/index.rst:51
 msgid "1st QGIS Bughunting in Moscow 2009"
 msgstr "第 1 屆 QGIS 滅蟲大會在莫斯科 2009"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "核取方塊"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "檢核框未檢核"
 
 #~ msgid "Contents:"
 #~ msgstr ""

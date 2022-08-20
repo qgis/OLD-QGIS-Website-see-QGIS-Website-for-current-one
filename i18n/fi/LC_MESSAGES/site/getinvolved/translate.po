@@ -2,19 +2,19 @@
 # Translators:
 # Kari Salovaara <kari.salovaara@pp1.inet.fi>, 2014-2015,2017-2018
 # Lauri Kajan <lauri.kajan@gmail.com>, 2016
-# Pekka Sarkola <pekka.sarkola@gispo.fi>, 2018,2020
+# Pekka Sarkola <pekka.sarkola@gispo.fi>, 2018,2020-2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
-"PO-Revision-Date: 2020-03-21 15:57+0000\n"
-"Last-Translator: Pekka Sarkola <pekka.sarkola@gispo.fi>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Pekka Sarkola <pekka.sarkola@gispo.fi>, 2018,2020-2021\n"
 "Language-Team: Finnish (http://www.transifex.com/qgis/qgis-website/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -31,14 +31,14 @@ msgid ""
 " available in the Desktop user interface and about eighty languages are "
 "available in transifex ready to be translated. Nearly the same apply for the"
 " web site and documentation."
-msgstr "QGIS on alkun perin kehitetty englanniksi, kokonaisuudessaa sekä käyttäjäliittymän (GUI) ja dokumentoinnin sekä verkkosivuston osalta. Kuitenkin kaikki osat ovat käytettävissä usealla muulla kielellä koska ne on suunniteltu käännettäviksi mille tahansa kielelle verraten helposti. Tällä hetkellä on jo käytettävissä noin neljäkymmentä kieltä Desktop käyttäjäliittymässä ja noin kahdeksankymmentä kieltä on valmiina käännettäväksi Transifexissä. Lähes samat luvut pätevät verkkosivustolle ja dokumentaatiolle."
+msgstr "QGIS on alun perin kehitetty englanniksi sekä käyttöliittymän (GUI) ja dokumentoinnin sekä verkkosivujen osalta. Kuitenkin kaikki osiot ovat käytettävissä usealla muulla kielellä koska ne on suunniteltu käännettäviksi mille tahansa kielelle verraten helposti. Tällä hetkellä on jo käytettävissä noin neljäkymmentä kieltä Desktop käyttöliittymässä ja noin kahdeksankymmentä kieltä on valmiina käännettäväksi Transifexissä. Lähes samat luvut pätevät verkkosivustolle ja dokumentaatiolle."
 
 #: ../../source/site/getinvolved/translate.rst:14
 msgid ""
 "The translation process is managed by the :ref:`Translation Team <gui-"
 "translation>` and all the activities are done under the `Transifex "
 "<https://www.transifex.com/>`_ platform."
-msgstr "Kääntämisprosessia ohjailee :ref:`Translation Team <gui-translation>` ja kaikki toimet suoritetaan  `Transifex <https://www.transifex.com/>`_ alustalla."
+msgstr "Kääntämisprosessia ohjaa :ref:`Translation Team <gui-translation>` ja kaikki käännökset tehdään `Transifex <https://www.transifex.com/>`_ alustalla."
 
 #: ../../source/site/getinvolved/translate.rst:22
 msgid "Translators Mailing list"
@@ -50,8 +50,8 @@ msgid ""
 "QGIS into a not yet existing language, see :ref:`becoming-translator`. For "
 "any other related questions, please contact the :ref:`Translation Team "
 "Leader <gui-translation>` or subscribe to the `QGIS Translation mailing list"
-" <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
-msgstr "Jos suunnittelet edistäväsi olemassa olevan kielen kääntämistä tai haluat kääntää QGISin kielelle jolla se ei vielä ole, katso :ref:`becoming-translator`. Mihin tahansa muuhun asiaan liittyvään kysymykseen, ole hyvä ja ota yhteyttä :ref:`Translation Team Leader <gui-translation>` tai liity `QGIS Translation postituslistalle <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
+" <https://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
+msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:30
 msgid ""
@@ -63,7 +63,7 @@ msgstr "Kun olet liittynyt sähköpostilistalle voit lähettää viestejä suora
 msgid ""
 "We strongly encourage anyone dealing with translations to join this list and"
 " promise that it is usually a very low traffic mailing list."
-msgstr "Suosittelemme kaikille, jotka osallistuvat kääntämiseen, liittymään sähköpostilistalle. Lupaamme, että sähköpostisi ei täyty suuresta määrästä sähköpostia."
+msgstr "Suosittelemme kaikille, jotka osallistuvat kääntämiseen, liittymään sähköpostilistalle. Lupaamme, että sähköpostisi ei täyty sähköposteista."
 
 #: ../../source/site/getinvolved/translate.rst:36
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "To start QGIS with the appropriate localization, run ``qgis --lang <language"
 " code>`` in command line or change localization in QGIS under "
 ":menuselection:`Settings --> Options --> General --> Locale` menu."
-msgstr "QGISn kielisyyden ja muut paikallisasetukset voi vaihtaa:  aja ``qgis --lang <language code>`` komentiriviltä tai muuta asetukset QGIS:stä :menuselection: `Asetukset --> Asetukset --> Yleiset --> Korvaa järjestelmän alueasetukset` menu."
+msgstr "QGISn kielisyyden ja muut paikallisasetukset voi vaihtaa:  aja ``qgis --lang <language code>`` komentiriviltä tai muuta asetukset QGIS:stä :menuselection: `Asetukset --> Valinnat --> Yleiset --> Korvaa järjestelmän alueasetukset` menu."
 
 #: ../../source/site/getinvolved/translate.rst:51
 msgid ""
@@ -110,7 +110,7 @@ msgid ""
 "that, the rapid development of the application continuously causes new and "
 "edited texts to be translated. A huge effort and your help will be "
 "appreciated!"
-msgstr "Koko käyttäjäliittymä sisältää yli kymmenen tuhatta merkkijonoa ja koko käännöstyö vie päiviä jos ei viikkoja valmistuakseen. Sitä paitsi, ripeä sovelluksen kehittäminen aiheuttaa uusia ja muokattuja tekstejä jatkuvalla syötöllä käännettäväksi. Suuri ponnistus ja Sinun apuasi arvostetaan!"
+msgstr "Koko käyttöliittymä sisältää yli kymmenen tuhatta merkkijonoa ja koko käännöstyö vie päiviä jos ei viikkoja valmistuakseen. Sitä paitsi, ripeä sovelluksen kehittäminen aiheuttaa uusia ja muokattuja tekstejä jatkuvalla syötöllä käännettäväksi. Suuri ponnistus ja Sinun apuasi arvostetaan!"
 
 #: ../../source/site/getinvolved/translate.rst:69
 msgid "Becoming a translator"
@@ -162,8 +162,8 @@ msgid "Join a Project"
 msgstr "Liity hankkeeseen"
 
 #: ../../source/site/getinvolved/translate.rst:100
-msgid "Go to http://www.transifex.com and create a new account"
-msgstr "Siirry osoitteeseen http://www.transifex.com ja luo uusi tili"
+msgid "Go to https://www.transifex.com and create a new account"
+msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:101
 msgid "Verify your account by the link in the email you will receive"
@@ -193,9 +193,9 @@ msgstr "**QGIS Desktop** kaikki käännöstekstit ovat saatavilla QGIS ohjelmist
 
 #: ../../source/site/getinvolved/translate.rst:109
 msgid ""
-"**QGIS Docs and Website** to translate both QGIS web site and current "
+"**QGIS Docs and Website** to translate both QGIS website and current "
 "documentation."
-msgstr "**QGIS Docs and Website** valinta jossa käännät QGIS verkkosivustoa ja nykyistä dokumentointia."
+msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:111
 msgid "Choose in which part of the project you would like to participate"
@@ -251,9 +251,9 @@ msgstr "Kun pyyntösi on hyväksytty voit kääntää mitä tahansa tekstiä han
 msgid ""
 "In order to help you make good translation, some instructions are provided "
 "in the `QGIS Translation Guidelines "
-"<http://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_."
+"<https://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_."
 " We strongly recommend you to read them."
-msgstr "Helpottaaksemme hyvän käännöksen tekemiseksi, tarjoamme joitakin ohjeita `QGIS Kääntämisohjeet <http://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_. Suosittelemme että lukisit ne."
+msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:144
 msgid "**Quick access to translatable files in Transifex**"
@@ -265,6 +265,14 @@ msgid ""
 "web site, you can use the ``Fix me`` link at the bottom of the page to reach"
 " it sources in Transifex and perform any update you wish to."
 msgstr "Jos löydät virheellisen tai puuttuvan käännöksen nykyisessä dokumentaatiossa tai web-sivustolla käytä \"korjaa tämä\" linkkiä sivun alalaidassa päästäksesi Transifexiin ja tee haluamasi päivitykset."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "QGIS is natively developed in English, either for the user interface (GUI) "
@@ -448,8 +456,8 @@ msgstr "Jos löydät virheellisen tai puuttuvan käännöksen nykyisessä dokume
 #~ msgstr ""
 
 #~ msgid ""
-#~ "For the different Linux distributions you should find a package called \"qt4"
-#~ "-dev-tools\" or similar."
+#~ "For the different Linux distributions you should find a package called "
+#~ "\"qt4-dev-tools\" or similar."
 #~ msgstr ""
 
 #~ msgid ""
@@ -551,4 +559,27 @@ msgstr "Jos löydät virheellisen tai puuttuvan käännöksen nykyisessä dokume
 #~ msgid ""
 #~ "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
 #~ "Desktop, QGIS Browser and QGIS Server),"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you plan to contribute to an existing language or you want to translate "
+#~ "QGIS into a not yet existing language, see :ref:`becoming-translator`. For "
+#~ "any other related questions, please contact the :ref:`Translation Team "
+#~ "Leader <gui-translation>` or subscribe to the `QGIS Translation mailing list"
+#~ " <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
+#~ msgstr ""
+
+#~ msgid "Go to http://www.transifex.com and create a new account"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**QGIS Docs and Website** to translate both QGIS web site and current "
+#~ "documentation."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In order to help you make good translation, some instructions are provided "
+#~ "in the `QGIS Translation Guidelines "
+#~ "<http://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_."
+#~ " We strongly recommend you to read them."
 #~ msgstr ""

@@ -4,27 +4,28 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# fairtommy <fairtommy@gmail.com>, 2020
+# tomoyuki arai <tarai.3367@gmail.com>, 2022
+# fairtommy <fairtommy@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-13 10:56+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-09-05 17:56+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>, 2020\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/site/getinvolved/development/development.rst:6
 msgid "Development in QGIS"
-msgstr ""
+msgstr "QGISにおける開発"
 
 #: ../../source/site/getinvolved/development/development.rst:9
 msgid "Core Development"
@@ -68,7 +69,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/development.rst:29
 msgid "Plugin Development"
-msgstr "プラグイン開発"
+msgstr "プラグインの開発"
 
 #: ../../source/site/getinvolved/development/development.rst:31
 msgid ""
@@ -85,7 +86,7 @@ msgid ""
 "recommended to read the **QGIS Developers Guide** at our documentation "
 "website: https://docs.qgis.org"
 msgstr ""
-"プラグインを使用してQGISプロジェクトに貢献したい場合は、ドキュメントWebサイト https://docs.qgis.org の "
+"プラグインでQGISプロジェクトに貢献したい場合は、ドキュメントWebサイト https://docs.qgis.org の "
 "**QGIS開発者ガイド** を読むことをおおいにお勧めします。"
 
 #: ../../source/site/getinvolved/development/development.rst:42
@@ -116,10 +117,10 @@ msgstr "お使いのシステムにリポジトリの個人的なコピーのク
 
 #: ../../source/site/getinvolved/development/development.rst:52
 msgid ""
-"Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up "
-"the installation environment and make a compilation with ccache enabled."
+"Read the https://github.com/qgis/QGIS/blob/master/INSTALL.md about setting "
+"up the installation environment and make a compilation with ccache enabled."
 msgstr ""
-"設置環境の設定について https://github.com/qgis/QGIS/blob/master/INSTALL "
+"設置環境の設定について https://github.com/qgis/QGIS/blob/master/INSTALL.md "
 "を読み、ccacheを有効にしてコンパイルを行います。"
 
 #: ../../source/site/getinvolved/development/development.rst:56
@@ -151,7 +152,7 @@ msgstr "Pythonのプラグインを開発"
 
 #: ../../source/site/getinvolved/development/development.rst:77
 msgid "QGIS has a lot to offer to python developers too."
-msgstr ""
+msgstr "QGISではPythonの開発者向けにも多くを提供しています。"
 
 #: ../../source/site/getinvolved/development/development.rst:79
 msgid ""
@@ -166,6 +167,7 @@ msgid ""
 "You can also have a look into the **Python Cookbook** in our Documentation "
 "site: https://docs.qgis.org/"
 msgstr ""
+"ドキュメンテーションサイト https://docs.qgis.org/ 中の **Python Cookbook** を調べることもできます。"
 
 #: ../../source/site/getinvolved/development/development.rst:86
 msgid ""
@@ -173,10 +175,21 @@ msgid ""
 "instructions at "
 "https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/plugins/index.html"
 msgstr ""
+"特にPythonプラグインの開発に興味がある場合は、 "
+"https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/plugins/index.html"
+" に指示があります。"
 
 #: ../../source/site/getinvolved/development/development.rst:89
 msgid "Looking for examples of python plugins, see https://plugins.qgis.org"
-msgstr ""
+msgstr "Pythonのプラグインの例を探すには https://plugins.qgis.org を参照"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "Go to the QGIS repository in Github at https://github.com/qgis/QGIS/"
 #~ msgstr "https://github.com/qgis/QGIS/ でGithub 中の QGISリポジトリに行きます"
@@ -200,6 +213,7 @@ msgstr ""
 #~ "You can also have a look into the **Python Cookbook** in our Documentation "
 #~ "site: https://docs.qgis.org."
 #~ msgstr ""
+#~ "ドキュメンテーションサイト https://docs.qgis.org 中の **Python Cookbook** を調べることもできます。"
 
 #~ msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
 #~ msgstr "Pythonのプラグインの例を探して、 http://plugins.qgis.org を参照してください"
@@ -208,10 +222,17 @@ msgstr ""
 #~ msgstr "ここではpythonを経由して使用できるQGIS-ifaceを見つけることができます："
 
 #~ msgid "https://qgis.org/api/classQgisInterface.html (for QGIS testing)"
-#~ msgstr ""
+#~ msgstr "https://qgis.org/api/classQgisInterface.html （QGISテスト版）"
 
 #~ msgid "https://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
-#~ msgstr ""
+#~ msgstr "https://qgis.org/api/2.0/classQgisInterface.html （QGIS 2.0）"
 
 #~ msgid "https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
+#~ msgstr "https://qgis.org/api/1.8/classQgisInterface.html （QGIS 1.8）"
+
+#~ msgid ""
+#~ "Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up "
+#~ "the installation environment and make a compilation with ccache enabled."
 #~ msgstr ""
+#~ "設置環境の設定について https://github.com/qgis/QGIS/blob/master/INSTALL "
+#~ "を読み、ccacheを有効にしてコンパイルを行います。"

@@ -1,806 +1,20 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2013-2020
+# Sorin Călinică <scalinica@gmail.com>, 2013-2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
-"PO-Revision-Date: 2020-11-02 07:31+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:27+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2013-2022\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
-
-#: ../../themes/qgis-theme/forusers_index.html:7
-msgid "Get Started Using QGIS"
-msgstr "Începeți Să Folosiți QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:9
-msgid "Step 1: Download QGIS"
-msgstr "Pasul 1: Descărcați QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:11
-msgid "Step 2: Check our documentation"
-msgstr "Pasul 2: Citiți documentația noastră"
-
-#: ../../themes/qgis-theme/forusers_index.html:13
-msgid "Step 3: Connect with the QGIS community"
-msgstr "Pasul 3: Implicați-vă în comunitatea QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:27
-#: ../../themes/qgis-theme/page.html:139
-msgid "For Users"
-msgstr "Pentru utilizatori"
-
-#: ../../themes/qgis-theme/forusers_index.html:32
-msgid "Download"
-msgstr "Descărcați"
-
-#: ../../themes/qgis-theme/forusers_index.html:35
-#: ../../themes/qgis-theme/forusers_index.html:88
-#: ../../themes/qgis-theme/page.html:141
-msgid "Documentation"
-msgstr "Documentație"
-
-#: ../../themes/qgis-theme/forusers_index.html:38
-msgid "QGIS Plugins"
-msgstr "Plugin-uri QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:41
-#: ../../themes/qgis-theme/forusers_index.html:128
-msgid "Getting Help"
-msgstr "Obțineți ajutor"
-
-#: ../../themes/qgis-theme/forusers_index.html:44
-msgid "In the Press"
-msgstr "Din Presă"
-
-#: ../../themes/qgis-theme/about_index.html:38
-#: ../../themes/qgis-theme/about_index.html:133
-#: ../../themes/qgis-theme/forusers_index.html:47
-#: ../../themes/qgis-theme/forusers_index.html:139
-msgid "Commercial Support"
-msgstr "Suport Comercial"
-
-#: ../../themes/qgis-theme/forusers_index.html:60
-msgid "Download QGIS"
-msgstr "Descărcați QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:62
-msgid "for your operating system."
-msgstr "pentru sistemul dvs. de operare."
-
-#: ../../themes/qgis-theme/forusers_index.html:65
-msgid "Get the installer"
-msgstr "Obțineți fișierul de instalare"
-
-#: ../../themes/qgis-theme/forusers_index.html:68
-msgid "Check out our roadmap for future versions: "
-msgstr "Verificați programul versiunilor viitoare:"
-
-#: ../../themes/qgis-theme/forusers_index.html:68
-#: ../../themes/qgis-theme/getinvolved_index.html:156
-msgid "QGIS roadmap"
-msgstr "Evoluția QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:72
-msgid "See the latest features in the visual changelogs"
-msgstr "Aflați despre cele mai noi caracteristici"
-
-#: ../../themes/qgis-theme/forusers_index.html:91
-msgid "Our main documentation is the"
-msgstr "Documentația noastră principală este"
-
-#: ../../themes/qgis-theme/forusers_index.html:92
-msgid "QGIS user guide"
-msgstr "Ghidul utilizatorului QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:94
-msgid "We also provide step by step tutorials in the"
-msgstr "Oferim, de asemenea, tutoriale pas cu pas în"
-
-#: ../../themes/qgis-theme/forusers_index.html:95
-msgid "Training manual"
-msgstr "Manualul de instruire"
-
-#: ../../themes/qgis-theme/forusers_index.html:97
-msgid "External parties also provide"
-msgstr "Furnizorii externi vă pun la dispoziție, de asemenea,"
-
-#: ../../themes/qgis-theme/forusers_index.html:98
-msgid "QGIS tutorials"
-msgstr "Tutoriale QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:104
-msgid "QGIS Publications"
-msgstr "Publicaţii QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:106
-msgid "Read what the QGIS community is doing around the world"
-msgstr "Citiți despre activitatea Comunității QGIS din întreaga lume"
-
-#: ../../themes/qgis-theme/forusers_index.html:108
-msgid "in our blogs"
-msgstr "în blog-urile noastre"
-
-#: ../../themes/qgis-theme/forusers_index.html:110
-msgid "For more in-depth reading, get some"
-msgstr "Pentru informații detaliate, puteți apela la unele"
-
-#: ../../themes/qgis-theme/forusers_index.html:112
-msgid "books on QGIS"
-msgstr "cărți despre QGIS"
-
-#: ../../themes/qgis-theme/forusers_index.html:129
-msgid "You can get in touch with fellow users and developers via"
-msgstr "Puteți intra în contact cu alți utilizatori și dezvoltatori prin intermediul"
-
-#: ../../themes/qgis-theme/forusers_index.html:131
-msgid "our community support channels"
-msgstr "canalelor de suport ale comunității noastre"
-
-#: ../../themes/qgis-theme/forusers_index.html:140
-msgid ""
-"Do you plan to use QGIS in your company or organization, but worry about whether there is\n"
-"                    commercial support available? Here is an alphabetical"
-msgstr "Aveți de gând să folosiți QGIS în compania sau organizația dumneavoastră, dar vă întrebați\ndacă este disponibil suportul tehnic comercial? Iată o listă alfabetică,"
-
-#: ../../themes/qgis-theme/forusers_index.html:144
-msgid "list of support contractors"
-msgstr "a furnizorilor de asistență tehnică"
-
-#: ../../themes/qgis-theme/forusers_index.html:160
-msgid "Get Plugins"
-msgstr "Obțineți plugin-uri"
-
-#: ../../themes/qgis-theme/forusers_index.html:161
-msgid ""
-"QGIS plugins allow you to add many new features and functions. Get them from"
-msgstr "Arhitectura plugin-urilor QGIS permite adăugarea noilor caracteristici și funcțiuni. Obțineți-le din"
-
-#: ../../themes/qgis-theme/forusers_index.html:164
-msgid "the plugin repository"
-msgstr "depozitul de plugin-uri"
-
-#: ../../themes/qgis-theme/about_index.html:149
-#: ../../themes/qgis-theme/docs_index.html:163
-#: ../../themes/qgis-theme/forusers_index.html:177
-#: ../../themes/qgis-theme/getinvolved_donations.html:115
-#: ../../themes/qgis-theme/getinvolved_index.html:187
-msgid "Back to Top"
-msgstr "La începutul paginii"
-
-#: ../../themes/qgis-theme/page.html:40
-msgid ""
-"If not stated otherwise, all content is licensed under <a "
-"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
-"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
-msgstr "În cazul în care nu se prevede altfel, tot conținutul este licențiat sub <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
-
-#: ../../themes/qgis-theme/page.html:44
-msgid ""
-"Select graphics from <a href=\"http://thenounproject.com\" "
-"target=\"_blank\">The Noun Project collection</a>"
-msgstr "Elemente grafice preluate de la <a href=\"http://thenounproject.com\" target=\"_blank\">The Noun Project collection</a>"
-
-#: ../../themes/qgis-theme/page.html:48
-msgid " - Last updated on "
-msgstr "- Ultima actualizare:"
-
-#: ../../themes/qgis-theme/page.html:52
-msgid "Untranslated page? Or you spot a translation error:"
-msgstr "Pagină netradusă? Sau ați observat o eroare de traducere:"
-
-#: ../../themes/qgis-theme/page.html:53 ../../themes/qgis-theme/page.html:56
-msgid "fix me"
-msgstr "remediere"
-
-#: ../../themes/qgis-theme/page.html:55
-msgid "Textual error, missing text or you know better:"
-msgstr "Eroare contextuală, text lipsă sau știți dvs. mai bine:"
-
-#: ../../themes/qgis-theme/page.html:138
-msgid "Discover QGIS"
-msgstr "Descoperiți QGIS"
-
-#: ../../themes/qgis-theme/index.html:137
-#: ../../themes/qgis-theme/page.html:140
-msgid "Get Involved"
-msgstr "Implicați-vă"
-
-#: ../../themes/qgis-theme/search.html:11
-#: ../../themes/qgis-theme/search.html:20
-#: ../../themes/qgis-theme/searchbox.html:3
-msgid "Search"
-msgstr "Căutare"
-
-#: ../../themes/qgis-theme/forusers_download.html:3
-msgid "Download QGIS for your platform"
-msgstr "Descărcați QGIS pentru platforma dumneavoastră"
-
-#: ../../themes/qgis-theme/forusers_download.html:4
-msgid "Binary packages (installers) are available from this page."
-msgstr "Pachetele binare (kiturile de instalare) se pot descărca de aici."
-
-#: ../../themes/qgis-theme/forusers_download.html:5
-#, python-format
-msgid "The current version is QGIS %s '%s' and was released on %s."
-msgstr "Versiunea curentă este QGIS %s '%s', care a fost lansată în %s."
-
-#: ../../themes/qgis-theme/forusers_download.html:6
-#, python-format
-msgid "The long-term repositories currently offer QGIS %s '%s'."
-msgstr "Depozitele long-term oferă în mod curent QGIS %s '%s'."
-
-#: ../../themes/qgis-theme/forusers_download.html:7
-msgid "QGIS is available on Windows, macOS, Linux and Android."
-msgstr "QGIS este disponibil pentru Windows, macOS, Linux și Android."
-
-#: ../../themes/qgis-theme/forusers_download.html:10
-#, python-format
-msgid ""
-"We are currently in feature freeze preceeding the release of QGIS %s. "
-"<b>Please consider testing the prereleases</b>. See "
-msgstr "În prezent suntem în stadiul de înghețare pentru versiunea QGIS %s. <b>Vă rugăm să luați în considerare testarea versiunii pre-lansate</b>. Vedeți"
-
-#: ../../themes/qgis-theme/forusers_download.html:11
-msgid "road map"
-msgstr "planificare"
-
-#: ../../themes/qgis-theme/forusers_download.html:19
-msgid "Installation Downloads"
-msgstr "Pachete de instalare"
-
-#: ../../themes/qgis-theme/forusers_download.html:20
-msgid "All Releases"
-msgstr "Toate Versiunile"
-
-#: ../../themes/qgis-theme/forusers_download.html:21
-msgid "Sources"
-msgstr "Surse"
-
-#: ../../themes/qgis-theme/forusers_download.html:34
-msgid "Download for Windows"
-msgstr "Descărcați pentru Windows"
-
-#: ../../themes/qgis-theme/forusers_download.html:40
-msgid "QGIS in OSGeo4W:"
-msgstr "QGIS în OSGeo4W:"
-
-#: ../../themes/qgis-theme/forusers_download.html:45
-msgid "OSGeo4W Network Installer (64 bit)"
-msgstr "Instalare online OSGeo4W (64 biți)"
-
-#: ../../themes/qgis-theme/forusers_download.html:52
-msgid "OSGeo4W Network Installer (32 bit)"
-msgstr "Instalare online OSGeo4W (32 biți)"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "In the installer choose "
-msgstr "La rularea programului de instalare alegeți "
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "Desktop Express Install"
-msgstr "Desktop Express Install"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "and select"
-msgstr "apoi selectați"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-#: ../../themes/qgis-theme/index.html:9
-msgid "QGIS"
-msgstr "QGIS"
-
-#: ../../themes/qgis-theme/forusers_download.html:55
-msgid "to install the <em>latest release</em>."
-msgstr "pentru a instala <em>cea mai nouă versiune</em>."
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-msgid ""
-"To get the <em>long term release</em> (that is not also the latest release) "
-"choose "
-msgstr "Pentru a obține <em>versiunea cu suport pe termen îndelungat</em> (care nu este însă și cea mai nouă) alegeți "
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "Advanced Install"
-msgstr "Instalare Avansată"
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "and select "
-msgstr "apoi selectați"
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-msgid "qgis-ltr-full"
-msgstr "qgis-ltr-full"
-
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "To get the <em>bleeding-edge development build</em> choose "
-msgstr "Pentru a obține <em>versiunea cea mai performantă</em> optați pentru  "
-
-#: ../../themes/qgis-theme/forusers_download.html:57
-msgid "qgis-full-dev"
-msgstr "qgis-full-dev"
-
-#: ../../themes/qgis-theme/forusers_download.html:61
-msgid "Standalone installers from OSGeo4W packages"
-msgstr "Kituri de instalare OSGeo4W"
-
-#: ../../themes/qgis-theme/forusers_download.html:62
-#: ../../themes/qgis-theme/forusers_download.html:136
-msgid "Latest release (richest on features):"
-msgstr "Ultima versiune (cea mai bogată în caracteristici):"
-
-#: ../../themes/qgis-theme/forusers_download.html:67
-#: ../../themes/qgis-theme/forusers_download.html:96
-#, python-format
-msgid "QGIS Standalone Installer Version %s (64 bit)"
-msgstr "Kit de instalare QGIS versiunea %s (64 de biți)"
-
-#: ../../themes/qgis-theme/forusers_download.html:81
-#: ../../themes/qgis-theme/forusers_download.html:110
-#, python-format
-msgid "QGIS Standalone Installer Version %s (32 bit)"
-msgstr "Kit de instalare QGIS versiunea %s (32 de biți)"
-
-#: ../../themes/qgis-theme/forusers_download.html:91
-msgid "Long term release repository (most stable):"
-msgstr "Depozitul versiunii cu suport pe termen îndelungat (cea mai stabilă):"
-
-#: ../../themes/qgis-theme/forusers_download.html:128
-msgid "Download for macOS"
-msgstr "Descărcați pentru macOS"
-
-#: ../../themes/qgis-theme/forusers_download.html:133
-msgid "Official All-in-one, signed installers"
-msgstr "Kituri de instalare semnate, All-in-one, oficiale"
-
-#: ../../themes/qgis-theme/forusers_download.html:134
-msgid "Mac Installer Packages for macOS High Sierra (10.13) and newer."
-msgstr "Pachete de Instalare pentru Mac, versiunile macOS High Sierra (10.13) și mai noi."
-
-#: ../../themes/qgis-theme/forusers_download.html:135
-msgid ""
-"QGIS is not yet notarized as required by macOS Catalina (10.15) security "
-"rules. On first launch on, use right click on the QGIS app icon and choose "
-"Open."
-msgstr "QGIS nu este încă notarizat conform cerințelor regulilor de securitate macOS Catalina (10.15). La prima lansare, efectuați clic dreapta pe pictograma aplicației QGIS, apoi alegeți Deschidere."
-
-#: ../../themes/qgis-theme/forusers_download.html:141
-#: ../../themes/qgis-theme/forusers_download.html:149
-#, python-format
-msgid "QGIS macOS Installer Version %s"
-msgstr "Kit de instalare QGIS macOS versiunea %s"
-
-#: ../../themes/qgis-theme/forusers_download.html:144
-msgid "Long term release (most stable):"
-msgstr "Versiune cu suport pe termen lung (cea mai stabilă):"
-
-#: ../../themes/qgis-theme/forusers_download.html:152
-msgid "Alternative build"
-msgstr "Versiuni alternative"
-
-#: ../../themes/qgis-theme/forusers_download.html:154
-msgid "Mac Installer Packages for macOS El Capitan (10.11) and newer."
-msgstr "Pachet de Instalare pentru Mac, versiunile macOS El Capitan (10.11) și mai noi."
-
-#: ../../themes/qgis-theme/forusers_download.html:155
-msgid ""
-"Installation instructions are in the Read Me on the disk image. These "
-"packages use the "
-msgstr "Instrucțiunile de instalare se află în fișierul ReadMe din imaginea discului. Aceste pachete folosesc"
-
-#: ../../themes/qgis-theme/forusers_download.html:155
-msgid ""
-"version 3.6, the \"macosx10.9\" build - other distributions are not "
-"supported. Install Python before installing QGIS."
-msgstr "versiunea 3.6, 'macosx10.9' - alte distribuții nu sunt acceptate. Instalați Python înainte de a instala QGIS."
-
-#: ../../themes/qgis-theme/forusers_download.html:156
-msgid "Additional GDAL format plugins and PROJ grids are available at "
-msgstr "Mai multe pluginuri pentru formate GDAL și grile PROJ sunt disponibile la"
-
-#: ../../themes/qgis-theme/forusers_download.html:161
-msgid "macOS Installers"
-msgstr "Kituri de instalare macOS"
-
-#: ../../themes/qgis-theme/forusers_download.html:171
-msgid "Download for Linux"
-msgstr "Descărcați pentru Linux"
-
-#: ../../themes/qgis-theme/forusers_download.html:176
-msgid ""
-"For many flavors of GNU/Linux binary packages (rpm and deb) or software "
-"repositories (to add to your installation manager) are available. Please "
-"select your choice of distro below:"
-msgstr "Pentru diversele distribuții de GNU/Linux sunt disponibile pachete binare (rpm și deb) sau depozite de software (pe care le puteți adăuga la propriul manager de instalare). Vă rog să alegeți distribuția preferată, din lista următoare:"
-
-#: ../../themes/qgis-theme/forusers_download.html:178
-msgid "Debian/Ubuntu"
-msgstr "Debian/Ubuntu"
-
-#: ../../themes/qgis-theme/forusers_download.html:179
-msgid "Fedora"
-msgstr "Fedora"
-
-#: ../../themes/qgis-theme/forusers_download.html:180
-msgid "openSUSE"
-msgstr "openSUSE"
-
-#: ../../themes/qgis-theme/forusers_download.html:181
-msgid "RHEL, CentOS, Scientific Linux, ..."
-msgstr "RHEL, CentOS, Scientific Linux, ..."
-
-#: ../../themes/qgis-theme/forusers_download.html:182
-msgid "Mandriva"
-msgstr "Mandriva"
-
-#: ../../themes/qgis-theme/forusers_download.html:183
-msgid "Slackware"
-msgstr "Slackware"
-
-#: ../../themes/qgis-theme/forusers_download.html:184
-msgid "ArchLinux"
-msgstr "ArchLinux"
-
-#: ../../themes/qgis-theme/forusers_download.html:185
-msgid "Flatpak"
-msgstr "Flatpak"
-
-#: ../../themes/qgis-theme/forusers_download.html:187
-msgid "Linux Installation Instructions"
-msgstr "Instrucțiuni de instalare pentru Linux"
-
-#: ../../themes/qgis-theme/forusers_download.html:195
-msgid "Download for BSD"
-msgstr "Descărcați pentru BSD"
-
-#: ../../themes/qgis-theme/forusers_download.html:200
-msgid "BSD Installation Instructions"
-msgstr "Instrucțiuni de Instalare pentru BSD"
-
-#: ../../themes/qgis-theme/forusers_download.html:208
-msgid "Apps for mobile and tablet"
-msgstr "Aplicații pentru mobil și tabletă"
-
-#: ../../themes/qgis-theme/forusers_download.html:213
-msgid ""
-"The QGIS experience does not stop on the desktop. Various touch optimized "
-"apps allow you to take QGIS into the field"
-msgstr "Experiența QGIS nu se oprește la desktop. Diverse aplicații optimizate pentru touchscreen vă permit să utilizați QGIS în teren"
-
-#: ../../themes/qgis-theme/forusers_download.html:214
-msgid "Third-party touch optimized apps"
-msgstr "Aplicații terțe, optimizate pentru touchscreen"
-
-#: ../../themes/qgis-theme/forusers_download.html:215
-msgid "QField for QGIS (formerly QGIS for Android)"
-msgstr "QField pentru QGIS (fost QGIS pentru Android)"
-
-#: ../../themes/qgis-theme/forusers_download.html:221
-msgid "Input (available for Android, iOS and Windows devices)"
-msgstr "Input (disponibil pe dispozitivele Android, iOS și Windows)"
-
-#: ../../themes/qgis-theme/forusers_download.html:232
-msgid "QGIS for Android"
-msgstr "QGIS pentru Android"
-
-#: ../../themes/qgis-theme/forusers_download.html:233
-msgid ""
-"An old and deprecated not touch optimised release of QGIS for Android can be"
-" found in"
-msgstr "O versiune veche și depășită de QGIS, adaptată pentru Android, se găsește la"
-
-#: ../../themes/qgis-theme/forusers_download.html:233
-#: ../../themes/qgis-theme/forusers_download.html:240
-#: ../../themes/qgis-theme/forusers_download.html:242
-msgid "All downloads"
-msgstr "Toate descărcările"
-
-#: ../../themes/qgis-theme/forusers_download.html:242
-msgid ""
-"More specific instructions about downloading QGIS stable vs QGIS development"
-" can be found in"
-msgstr "Mai multe instrucțiuni referitoare la descărcarea versiunii stabile a QGIS, în comparație cu versiunea de dezvoltare, puteți găsi în"
-
-#: ../../themes/qgis-theme/forusers_download.html:245
-msgid "Datasets"
-msgstr "Seturi de date"
-
-#: ../../themes/qgis-theme/forusers_download.html:246
-msgid "For testing and learning purposes, a "
-msgstr "Pentru scopuri de testare și învățare, "
-
-#: ../../themes/qgis-theme/forusers_download.html:246
-msgid "sample dataset is available"
-msgstr "este disponibil un set de date demonstrative"
-
-#: ../../themes/qgis-theme/forusers_download.html:246
-msgid ""
-"which contains collections of data from different sources and in different "
-"formats."
-msgstr "care conține colecții de date din surse diferite și în diverse formate."
-
-#: ../../themes/qgis-theme/forusers_download.html:252
-msgid "Previous releases of QGIS are still available"
-msgstr "Versiunile mai vechi de QGIS sunt încă disponibile"
-
-#: ../../themes/qgis-theme/forusers_download.html:252
-#: ../../themes/qgis-theme/forusers_download.html:253
-#: ../../themes/qgis-theme/forusers_download.html:254
-#: ../../themes/qgis-theme/forusers_download.html:256
-#: ../../themes/qgis-theme/forusers_download.html:257
-#: ../../themes/qgis-theme/forusers_download.html:267
-#: ../../themes/qgis-theme/forusers_download.html:268
-#: ../../themes/qgis-theme/forusers_download.html:269
-msgid "here"
-msgstr "aici"
-
-#: ../../themes/qgis-theme/forusers_download.html:252
-msgid " - including older releases for OS X "
-msgstr "- inclusiv versiuni mai vechi pentru OS X"
-
-#: ../../themes/qgis-theme/forusers_download.html:254
-msgid "More older releases are available"
-msgstr "Mai multe versiuni vechi de QGIS sunt disponibile"
-
-#: ../../themes/qgis-theme/forusers_download.html:255
-#: ../../themes/qgis-theme/forusers_download.html:265
-#: ../../themes/qgis-theme/getinvolved_index.html:16
-#: ../../themes/qgis-theme/getinvolved_index.html:90
-msgid "and"
-msgstr "și"
-
-#: ../../themes/qgis-theme/forusers_download.html:256
-msgid "for OS X "
-msgstr "pentru OS X"
-
-#: ../../themes/qgis-theme/forusers_download.html:257
-#: ../../themes/qgis-theme/forusers_download.html:269
-msgid "Plugins for QGIS are also available "
-msgstr "Plugin-urile pentru QGIS sunt, de asemenea, disponibile "
-
-#: ../../themes/qgis-theme/forusers_download.html:262
-msgid "QGIS is open source software available under the terms of the"
-msgstr "QGIS este un software cu sursă deschisă, disponibil sub termenii"
-
-#: ../../themes/qgis-theme/forusers_download.html:262
-msgid "GNU General Public License"
-msgstr "Licenței Publice Generale GNU"
-
-#: ../../themes/qgis-theme/forusers_download.html:262
-msgid ""
-"meaning that its source code can be downloaded through tarballs or the git "
-"repository."
-msgstr "ceea ce înseamnă că sursa sa poate fi descărcată prin intermediul arhivelor tar sau a depozitelor git."
-
-#: ../../themes/qgis-theme/forusers_download.html:263
-msgid "QGIS Source Code is available "
-msgstr "Codul sursă QGIS este disponibil"
-
-#: ../../themes/qgis-theme/forusers_download.html:264
-msgid "here (latest release)"
-msgstr "aici (cea mai recentă versiune)"
-
-#: ../../themes/qgis-theme/forusers_download.html:266
-msgid "here (long term release)"
-msgstr "aici (versiunea cu suport pe termen lung)"
-
-#: ../../themes/qgis-theme/forusers_download.html:267
-msgid ""
-"Refer to the INSTALL guide on how to compile QGIS from source for the "
-"different platforms:"
-msgstr "Consultați Ghidul de INSTALARE, pentru a compila sursa QGIS pe diferite platforme:"
-
-#: ../../themes/qgis-theme/forusers_download.html:268
-msgid ""
-"Note that you can also install the development version (nightly) via an "
-"installer from the normal downloads for your platform:"
-msgstr "Rețineți că puteți instala, de asemenea, versiunea de dezvoltare (de noapte), prin simpla descărcare a unui program de instalare specific platformei dumneavoastră:"
-
-#: ../../themes/qgis-theme/docs_index.html:7
-msgid "QGIS Documentation"
-msgstr "Documentație QGIS "
-
-#: ../../themes/qgis-theme/docs_index.html:8
-msgid ""
-"QGIS has a lot of documentation. All documentation is in English but some "
-"documents such as the user guide are also available in other languages."
-msgstr "QGIS dispune de foarte multă documentație. Majoritatea documentelor sunt în limba engleză, dar unele materiale, cum ar fi ghidul de utilizare, sunt disponibile și în alte limbi."
-
-#: ../../themes/qgis-theme/docs_index.html:9
-msgid ""
-"You will find documentation for every QGIS long term release on the "
-"respective documentation website."
-msgstr "Veți găsi documentația pentru QGIS cu suport pe termen îndelungat pe site-ul corespunzător fiecărei versiuni în parte."
-
-#: ../../themes/qgis-theme/docs_index.html:10
-msgid "Get involved"
-msgstr "Implicați-vă"
-
-#: ../../themes/qgis-theme/docs_index.html:10
-msgid " and help us write a better documentation."
-msgstr "și ajutați-ne să scriem o documentație mai bună."
-
-#: ../../themes/qgis-theme/docs_index.html:27
-msgid "DOCUMENTATION"
-msgstr "DOCUMENTAȚIE"
-
-#: ../../themes/qgis-theme/docs_index.html:32
-#: ../../themes/qgis-theme/docs_index.html:55
-msgid "QGIS 3.10"
-msgstr "QGIS 3.10"
-
-#: ../../themes/qgis-theme/docs_index.html:35
-msgid "QGIS testing (>3.10)"
-msgstr "QGIS pentru testare (>3.10)"
-
-#: ../../themes/qgis-theme/docs_index.html:38
-#: ../../themes/qgis-theme/docs_index.html:110
-msgid "QGIS 3.4"
-msgstr "QGIS 3.4"
-
-#: ../../themes/qgis-theme/docs_index.html:41
-msgid "Documentation for older versions"
-msgstr "Documentație pentru versiunile vechi"
-
-#: ../../themes/qgis-theme/docs_index.html:56
-#: ../../themes/qgis-theme/docs_index.html:111
-msgid "For users:"
-msgstr "Pentru utilizatori:"
-
-#: ../../themes/qgis-theme/docs_index.html:58
-#: ../../themes/qgis-theme/docs_index.html:113
-msgid "Read the"
-msgstr "Citiți"
-
-#: ../../themes/qgis-theme/docs_index.html:58
-#: ../../themes/qgis-theme/docs_index.html:113
-msgid "QGIS User guide"
-msgstr "Ghidul Utilizatorului QGIS"
-
-#: ../../themes/qgis-theme/docs_index.html:59
-#: ../../themes/qgis-theme/docs_index.html:114
-msgid "Follow the tutorials in the"
-msgstr "Urmați tutorialele din"
-
-#: ../../themes/qgis-theme/docs_index.html:59
-#: ../../themes/qgis-theme/docs_index.html:114
-msgid "QGIS Training manual"
-msgstr "Manualul de instruire în QGIS"
-
-#: ../../themes/qgis-theme/docs_index.html:60
-#: ../../themes/qgis-theme/docs_index.html:115
-msgid "Learn GIS basics in"
-msgstr "Aflați elementele de bază GIS din"
-
-#: ../../themes/qgis-theme/docs_index.html:60
-#: ../../themes/qgis-theme/docs_index.html:99
-#: ../../themes/qgis-theme/docs_index.html:115
-msgid "A gentle introduction in GIS"
-msgstr "O introducere lejeră în GIS"
-
-#: ../../themes/qgis-theme/docs_index.html:63
-#: ../../themes/qgis-theme/docs_index.html:118
-msgid "For documentation writers:"
-msgstr "Pentru creatorii documentației:"
-
-#: ../../themes/qgis-theme/docs_index.html:65
-#: ../../themes/qgis-theme/docs_index.html:120
-msgid "Learn how to write docs using the"
-msgstr "Aflați cum să scrieți documente folosind"
-
-#: ../../themes/qgis-theme/docs_index.html:65
-#: ../../themes/qgis-theme/docs_index.html:120
-msgid "Documentation Guidelines"
-msgstr "Ghidul documentației"
-
-#: ../../themes/qgis-theme/docs_index.html:68
-#: ../../themes/qgis-theme/docs_index.html:123
-msgid "For developers:"
-msgstr "Pentru dezvoltatori:"
-
-#: ../../themes/qgis-theme/docs_index.html:70
-#: ../../themes/qgis-theme/docs_index.html:125
-msgid "Go Python, study the"
-msgstr "Învățați QGIS, studiind"
-
-#: ../../themes/qgis-theme/docs_index.html:70
-#: ../../themes/qgis-theme/docs_index.html:125
-msgid "PyQGIS cookbook (for plugins and scripting)"
-msgstr "Cartea de rețete PyQGIS (pentru plugin-uri și script-uri)"
-
-#: ../../themes/qgis-theme/docs_index.html:71
-#: ../../themes/qgis-theme/docs_index.html:101
-#: ../../themes/qgis-theme/docs_index.html:126
-msgid "C++ Api documentation"
-msgstr "Documentație API C++"
-
-#: ../../themes/qgis-theme/docs_index.html:72
-#: ../../themes/qgis-theme/docs_index.html:102
-#: ../../themes/qgis-theme/docs_index.html:127
-msgid "PyQGIS - QGIS Python Api documentation"
-msgstr "Documentație API Python QGIS - PyQGIS"
-
-#: ../../themes/qgis-theme/docs_index.html:90
-msgid "QGIS testing"
-msgstr "QGIS pentru testare"
-
-#: ../../themes/qgis-theme/docs_index.html:91
-msgid ""
-"We are still updating (not translating yet) the documentation for releases "
-"newer than QGIS 3.10. We call this version 'QGIS testing' and the "
-"documentation can be found here: "
-msgstr "Încă actualizăm documentația pentru QGIS 3.10 (deși încă nu am efectuat traducerea). Am denumit această versiune 'QGIS pentru testare', documentația aferentă găsindu-se aici:"
-
-#: ../../themes/qgis-theme/docs_index.html:91
-msgid "https://docs.qgis.org/testing"
-msgstr "https://docs.qgis.org/testing"
-
-#: ../../themes/qgis-theme/docs_index.html:92
-msgid "Desktop User Guide/Manual"
-msgstr "Manual/Ghid de Utilizare Desktop"
-
-#: ../../themes/qgis-theme/docs_index.html:93
-msgid "Server Guide/Manual"
-msgstr "Manual/Ghid de Utilizare Server"
-
-#: ../../themes/qgis-theme/docs_index.html:94
-msgid "QGIS Training Manual"
-msgstr "Manualul de instruire în QGIS"
-
-#: ../../themes/qgis-theme/docs_index.html:95
-msgid "PyQGIS Cookbook"
-msgstr "Cartea de rețete PyQGIS "
-
-#: ../../themes/qgis-theme/docs_index.html:96
-msgid "QGIS Developers Guide"
-msgstr "Ghidul Dezvoltatorilor QGIS"
-
-#: ../../themes/qgis-theme/docs_index.html:98
-msgid "Documentation Guidelines (how to write the docs)"
-msgstr "Ghidul documentației (cum să scrieți documente)"
-
-#: ../../themes/qgis-theme/docs_index.html:100
-msgid "PDF versions of all above, eg for printing are available here: "
-msgstr "Versiunile PDF ale celor de mai sus, pentru imprimare, de exemplu, sunt disponibile aici:"
-
-#: ../../themes/qgis-theme/docs_index.html:100
-msgid "https://docs.qgis.org/testing/pdf"
-msgstr "https://docs.qgis.org/testing/pdf"
-
-#: ../../themes/qgis-theme/docs_index.html:113
-#: ../../themes/qgis-theme/docs_index.html:114
-#: ../../themes/qgis-theme/docs_index.html:125
-msgid "or as PDF"
-msgstr "sau ca PDF"
-
-#: ../../themes/qgis-theme/docs_index.html:141
-msgid "Archived"
-msgstr "Arhive"
-
-#: ../../themes/qgis-theme/docs_index.html:142
-msgid "Links to documentation of older version of QGIS: "
-msgstr "Documentație pentru versiunile vechi de QGIS:"
-
-#: ../../themes/qgis-theme/docs_index.html:144
-msgid "QGIS 2.18 Documentation"
-msgstr "Documentație QGIS 2.18"
-
-#: ../../themes/qgis-theme/docs_index.html:145
-msgid "QGIS 2.14 Documentation"
-msgstr "Documentație QGIS 2.14"
-
-#: ../../themes/qgis-theme/docs_index.html:146
-msgid "QGIS 2.8 Documentation"
-msgstr "Documentație QGIS 2.8"
 
 #: ../../themes/qgis-theme/about_index.html:7
 msgid "QGIS - The Leading Open Source Desktop GIS"
@@ -832,6 +46,13 @@ msgstr "Studii de caz QGIS"
 #: ../../themes/qgis-theme/about_index.html:115
 msgid "Supporting Organizations"
 msgstr "Organisme de Susținere"
+
+#: ../../themes/qgis-theme/about_index.html:38
+#: ../../themes/qgis-theme/about_index.html:133
+#: ../../themes/qgis-theme/forusers_index.html:47
+#: ../../themes/qgis-theme/forusers_index.html:143
+msgid "Commercial Support"
+msgstr "Suport Comercial"
 
 #: ../../themes/qgis-theme/about_index.html:52
 msgid "About QGIS"
@@ -931,423 +152,780 @@ msgstr "Aveți de gând să folosiți QGIS în compania sau organizația dumneav
 msgid "Learn about Commercial Support for QGIS"
 msgstr "Aflați mai multe despre Suportul Comercial pentru QGIS"
 
-#: ../../themes/qgis-theme/localtoc.html:3
-msgid "Page"
-msgstr "Pagină"
+#: ../../themes/qgis-theme/about_index.html:149
+#: ../../themes/qgis-theme/docs_index.html:199
+#: ../../themes/qgis-theme/forusers_index.html:181
+#: ../../themes/qgis-theme/getinvolved_index.html:187
+msgid "Back to Top"
+msgstr "La începutul paginii"
 
-#: ../../themes/qgis-theme/index.html:3
-msgid "Time until freeze"
-msgstr "Timpul până la înghețare"
+#: ../../themes/qgis-theme/docs_index.html:7
+msgid "QGIS Documentation"
+msgstr "Documentație QGIS "
 
-#: ../../themes/qgis-theme/index.html:4
-msgid "Time until packaging"
-msgstr "Timpul până la împachetare"
-
-#: ../../themes/qgis-theme/index.html:5
-msgid "Time until next pointrelease"
-msgstr "Timpul până la lansarea viitoarei versiuni minore"
-
-#: ../../themes/qgis-theme/index.html:12
-msgid "A Free and Open Source Geographic Information System"
-msgstr "Un Sistem de Informații Geografice gratuit și cu sursă deschisă"
-
-#: ../../themes/qgis-theme/index.html:33
-msgid "New release: 3.16!"
-msgstr "O nouă versiune majoră: 3.16!"
-
-#: ../../themes/qgis-theme/index.html:35
-msgid "Get the"
-msgstr "Obțineți"
-
-#: ../../themes/qgis-theme/index.html:36
-msgid "installer or packages"
-msgstr "pachetele de instalare"
-
-#: ../../themes/qgis-theme/index.html:37
-msgid "for your Operating System and read the"
-msgstr "pentru Sistemul dvs. de Operare și citiți"
-
-#: ../../themes/qgis-theme/index.html:38
-msgid "changelog."
-msgstr "jurnalul schimbărilor."
-
-#: ../../themes/qgis-theme/index.html:47
-msgid "QGIS Community meetings"
-msgstr "Întruniri ale comunității QGIS "
-
-#: ../../themes/qgis-theme/index.html:49
-msgid "Find out more about our tradition of user and contributor"
-msgstr "În mod tradițional, utilizatorii și contribuitori noștri se întâlnesc la"
-
-#: ../../themes/qgis-theme/index.html:49
-msgid "meetings!"
-msgstr "întruniri!"
-
-#: ../../themes/qgis-theme/index.html:58
-msgid "Look cool and support the QGIS project!"
-msgstr "Arătați bine și, totodată, sprijiniți proiectul QGIS!"
-
-#: ../../themes/qgis-theme/index.html:60
-msgid "Pick your style and favourite color and show your support with our"
-msgstr "Alegeți stilul și culoarea preferată și arătați-vă susținerea cumpărând"
-
-#: ../../themes/qgis-theme/index.html:61
-msgid "QGIS goodies!"
-msgstr "Produse QGIS!"
-
-#: ../../themes/qgis-theme/index.html:76
+#: ../../themes/qgis-theme/docs_index.html:8
 msgid ""
-"Create, edit, visualise, analyse and publish geospatial\n"
-"            information on Windows, Mac, Linux, BSD and mobile devices"
-msgstr "Creați, editați, vizualizați, analizați și publicați informații geospațiale\npe Windows, Mac, Linux, BSD și dispozitive mobile"
+"QGIS has a lot of documentation. All documentation is in English but some "
+"documents such as the user guide are also available in other languages."
+msgstr "QGIS dispune de foarte multă documentație. Majoritatea documentelor sunt în limba engleză, dar unele materiale, cum ar fi ghidul de utilizare, sunt disponibile și în alte limbi."
 
-#: ../../themes/qgis-theme/index.html:80
+#: ../../themes/qgis-theme/docs_index.html:9
 msgid ""
-"For your desktop, server, in your web browser and as\n"
-"            developer libraries"
-msgstr "Pentru desktop, server, în browser-ul web și ca bibliotecă de funcții pentru dezvoltatori"
+"You will find documentation for every QGIS long term release on the "
+"respective documentation website."
+msgstr "Veți găsi documentația pentru QGIS cu suport pe termen îndelungat pe site-ul corespunzător fiecărei versiuni în parte."
 
-#: ../../themes/qgis-theme/index.html:87
-msgid "Download Now"
-msgstr "Descărcați Acum"
+#: ../../themes/qgis-theme/docs_index.html:10
+msgid "Get involved"
+msgstr "Implicați-vă"
 
-#: ../../themes/qgis-theme/index.html:88
-msgid "Version"
-msgstr "Versiunea"
+#: ../../themes/qgis-theme/docs_index.html:10
+msgid " and help us write a better documentation."
+msgstr "și ajutați-ne să scriem o documentație mai bună."
 
-#: ../../themes/qgis-theme/index.html:91
-msgid "Support QGIS"
-msgstr "Susțineți QGIS!"
+#: ../../themes/qgis-theme/docs_index.html:27
+msgid "DOCUMENTATION"
+msgstr "DOCUMENTAȚIE"
 
-#: ../../themes/qgis-theme/index.html:92
-msgid "Donate now!"
-msgstr "Donați acum!"
+#: ../../themes/qgis-theme/docs_index.html:32
+#: ../../themes/qgis-theme/docs_index.html:63
+msgid "QGIS 3.22"
+msgstr ""
 
-#: ../../themes/qgis-theme/index.html:100
-msgid "Project News"
-msgstr "Noutăți"
+#: ../../themes/qgis-theme/docs_index.html:35
+#: ../../themes/qgis-theme/docs_index.html:98
+msgid "QGIS 3.16"
+msgstr "QGIS 3.16"
 
-#: ../../themes/qgis-theme/index.html:106
-msgid "Latest Project Blog Posts (blog.qgis.org)"
-msgstr "Ultimele Postări pe Blogul Proiectului (blog.qgis.org)"
+#: ../../themes/qgis-theme/docs_index.html:38
+msgid "QGIS testing (>3.22)"
+msgstr ""
 
-#: ../../themes/qgis-theme/index.html:124
-msgid "Get Started"
-msgstr "Începeți"
+#: ../../themes/qgis-theme/docs_index.html:41
+msgid "Documentation for older versions"
+msgstr "Documentație pentru versiunile vechi"
 
-#: ../../themes/qgis-theme/index.html:128
-msgid "Start using QGIS for your GIS tasks."
-msgstr "Începeți să folosiți QGIS pentru activitățile GIS."
+#: ../../themes/qgis-theme/docs_index.html:44
+msgid "Data protection"
+msgstr "Protecția datelor"
 
-#: ../../themes/qgis-theme/index.html:140
-msgid "Shape the future of QGIS with your contributions."
-msgstr "Modelați viitorul QGIS prin contribuțiile dumneavoastră."
+#: ../../themes/qgis-theme/docs_index.html:64
+#: ../../themes/qgis-theme/docs_index.html:99
+msgid "For users:"
+msgstr "Pentru utilizatori:"
 
-#: ../../themes/qgis-theme/index.html:148
-msgid "Learn More"
-msgstr "Aflați Mai Multe"
+#: ../../themes/qgis-theme/docs_index.html:66
+#: ../../themes/qgis-theme/docs_index.html:67
+#: ../../themes/qgis-theme/docs_index.html:101
+#: ../../themes/qgis-theme/docs_index.html:102
+msgid "Read the"
+msgstr "Citiți"
 
-#: ../../themes/qgis-theme/index.html:152
-msgid "Find training materials and reference documentation."
-msgstr "Găsiți materiale de instruire și documentație de referință."
+#: ../../themes/qgis-theme/docs_index.html:66
+#: ../../themes/qgis-theme/docs_index.html:101
+#: ../../themes/qgis-theme/docs_index.html:143
+msgid "Desktop User Guide/Manual"
+msgstr "Manual/Ghid de Utilizare Desktop"
 
-#: ../../themes/qgis-theme/index.html:165
-msgid "Latest Community News"
-msgstr "Ultimele Noutăți din Comunitate"
+#: ../../themes/qgis-theme/docs_index.html:67
+#: ../../themes/qgis-theme/docs_index.html:102
+#: ../../themes/qgis-theme/docs_index.html:144
+msgid "Server Guide/Manual"
+msgstr "Manual/Ghid de Utilizare Server"
 
-#: ../../themes/qgis-theme/index.html:168
-msgid "Find out what is going on with the QGIS project and its community."
-msgstr "Aflați ce se mai întâmplă în proiectul QGIS și în comunitatea sa."
+#: ../../themes/qgis-theme/docs_index.html:68
+#: ../../themes/qgis-theme/docs_index.html:103
+msgid "Follow the tutorials in the"
+msgstr "Urmați tutorialele din"
 
-#: ../../themes/qgis-theme/index.html:173
-msgid "Upcoming User & Developer Meetings"
-msgstr "Întâlniri viitoare ale utilizatorilor & dezvoltatorilor"
+#: ../../themes/qgis-theme/docs_index.html:68
+#: ../../themes/qgis-theme/docs_index.html:103
+msgid "QGIS Training manual"
+msgstr "Manualul de instruire în QGIS"
 
-#: ../../themes/qgis-theme/index.html:182
-msgid "Latest Blog Posts"
-msgstr "Ultimele postări pe blog"
+#: ../../themes/qgis-theme/docs_index.html:69
+#: ../../themes/qgis-theme/docs_index.html:104
+msgid "Learn GIS basics in"
+msgstr "Aflați elementele de bază GIS din"
 
-#: ../../themes/qgis-theme/index.html:222
-msgid "See More Maps and Screenshots"
-msgstr "Privți mai multe hărți și capturi"
+#: ../../themes/qgis-theme/docs_index.html:69
+#: ../../themes/qgis-theme/docs_index.html:104
+#: ../../themes/qgis-theme/docs_index.html:150
+msgid "A gentle introduction in GIS"
+msgstr "O introducere lejeră în GIS"
 
-#: ../../themes/qgis-theme/index.html:242
-msgid "Sustaining Members"
-msgstr "Membri Susținători"
+#: ../../themes/qgis-theme/docs_index.html:72
+#: ../../themes/qgis-theme/docs_index.html:107
+msgid "For documentation writers:"
+msgstr "Pentru creatorii documentației:"
 
-#: ../../themes/qgis-theme/index.html:278
-msgid "frozen since"
-msgstr "se află în înghețare de funcționalități din"
+#: ../../themes/qgis-theme/docs_index.html:74
+#: ../../themes/qgis-theme/docs_index.html:109
+msgid "Learn how to write docs using the"
+msgstr "Aflați cum să scrieți documente folosind"
 
-#: ../../themes/qgis-theme/index.html:281
-msgid "in packaging since"
-msgstr "la împachetare, începând cu"
+#: ../../themes/qgis-theme/docs_index.html:74
+#: ../../themes/qgis-theme/docs_index.html:109
+msgid "Documentation Guidelines"
+msgstr "Ghidul documentației"
 
-#: ../../themes/qgis-theme/languageswitch.html:4
-msgid "English"
-msgstr "Engleză"
+#: ../../themes/qgis-theme/docs_index.html:77
+#: ../../themes/qgis-theme/docs_index.html:112
+msgid "For developers:"
+msgstr "Pentru dezvoltatori:"
 
-#: ../../themes/qgis-theme/languageswitch.html:5
-msgid "Catalan"
-msgstr "Catalană"
+#: ../../themes/qgis-theme/docs_index.html:79
+#: ../../themes/qgis-theme/docs_index.html:114
+msgid "Go Python, study the"
+msgstr "Învățați QGIS, studiind"
 
-#: ../../themes/qgis-theme/languageswitch.html:6
-msgid "Danish"
-msgstr "Daneză"
+#: ../../themes/qgis-theme/docs_index.html:79
+#: ../../themes/qgis-theme/docs_index.html:114
+msgid "PyQGIS cookbook (for plugins and scripting)"
+msgstr "Cartea de rețete PyQGIS (pentru plugin-uri și script-uri)"
 
-#: ../../themes/qgis-theme/languageswitch.html:7
-msgid "German"
-msgstr "Germană"
+#: ../../themes/qgis-theme/docs_index.html:80
+#: ../../themes/qgis-theme/docs_index.html:115
+#: ../../themes/qgis-theme/docs_index.html:152
+msgid "C++ Api documentation"
+msgstr "Documentație API C++"
 
-#: ../../themes/qgis-theme/languageswitch.html:8
-msgid "Spanish"
-msgstr "Spaniolă"
+#: ../../themes/qgis-theme/docs_index.html:81
+#: ../../themes/qgis-theme/docs_index.html:116
+#: ../../themes/qgis-theme/docs_index.html:153
+msgid "PyQGIS - QGIS Python Api documentation"
+msgstr "Documentație API Python QGIS - PyQGIS"
 
-#: ../../themes/qgis-theme/languageswitch.html:9
-msgid "Persian"
-msgstr "Persană"
+#: ../../themes/qgis-theme/docs_index.html:85
+#: ../../themes/qgis-theme/docs_index.html:120
+msgid "For download:"
+msgstr "Descărcabile:"
 
-#: ../../themes/qgis-theme/languageswitch.html:10
-msgid "Finnish"
-msgstr "Finlandeză"
+#: ../../themes/qgis-theme/docs_index.html:87
+#: ../../themes/qgis-theme/docs_index.html:122
+msgid "PDF of the manuals"
+msgstr "Manuale în format PDF"
 
-#: ../../themes/qgis-theme/languageswitch.html:11
-msgid "French"
-msgstr "Franceză"
+#: ../../themes/qgis-theme/docs_index.html:88
+#: ../../themes/qgis-theme/docs_index.html:123
+msgid "HTML zip of the manuals"
+msgstr "Arhiva zip cu manuale în format HTML"
 
-#: ../../themes/qgis-theme/languageswitch.html:12
-msgid "Galician"
-msgstr "Galiciană"
+#: ../../themes/qgis-theme/docs_index.html:141
+msgid "QGIS testing"
+msgstr "QGIS pentru testare"
 
-#: ../../themes/qgis-theme/languageswitch.html:13
-msgid "Indonesian"
-msgstr "Indoneziană"
-
-#: ../../themes/qgis-theme/languageswitch.html:14
-msgid "Italian"
-msgstr "Italiană"
-
-#: ../../themes/qgis-theme/languageswitch.html:15
-msgid "Hungarian"
-msgstr "Maghiară"
-
-#: ../../themes/qgis-theme/languageswitch.html:16
-msgid "Japanese"
-msgstr "Japoneză"
-
-#: ../../themes/qgis-theme/languageswitch.html:17
-msgid "Khmer"
-msgstr "Khmeră"
-
-#: ../../themes/qgis-theme/languageswitch.html:18
-msgid "Korean"
-msgstr "Coreeană"
-
-#: ../../themes/qgis-theme/languageswitch.html:19
-msgid "Lithuanian"
-msgstr "Lituaniană"
-
-#: ../../themes/qgis-theme/languageswitch.html:20
-msgid "Dutch"
-msgstr "Olandeză"
-
-#: ../../themes/qgis-theme/languageswitch.html:21
-msgid "Polish"
-msgstr "Poloneză"
-
-#: ../../themes/qgis-theme/languageswitch.html:22
-msgid "Portuguesei (Brazil)"
-msgstr "Portugheză (Brazilia)"
-
-#: ../../themes/qgis-theme/languageswitch.html:23
-msgid "Portuguese"
-msgstr "Portugheză"
-
-#: ../../themes/qgis-theme/languageswitch.html:24
-msgid "Romanian"
-msgstr "Română"
-
-#: ../../themes/qgis-theme/languageswitch.html:25
-msgid "Turkish"
-msgstr "Turcă"
-
-#: ../../themes/qgis-theme/languageswitch.html:26
-msgid "Russian"
-msgstr "Rusă"
-
-#: ../../themes/qgis-theme/languageswitch.html:27
-msgid "Ukrainian"
-msgstr "Ucrainiană"
-
-#: ../../themes/qgis-theme/languageswitch.html:28
-msgid "Chinese (Simplified)"
-msgstr "Cineză (Simplificată)"
-
-#: ../../themes/qgis-theme/languageswitch.html:29
-msgid "Chinese (Traditional)"
-msgstr "Chineză (Tradițională)"
-
-#: ../../themes/qgis-theme/languageswitch.html:99
-msgid "Thank you!"
-msgstr "Vă mulțumim!"
-
-#: ../../themes/qgis-theme/languageswitch.html:101
+#: ../../themes/qgis-theme/docs_index.html:142
 msgid ""
-"Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and "
-"will always be free of charge if downloaded from QGIS.org. If you can afford"
-" to support the project and people making this software, please consider "
-"making <a href=\"https://qgis.org/en/site/getinvolved/donations.html\">a "
-"small donation to support</a> our efforts. Whether you choose to donate or "
-"not, we hope that you enjoy using our labour of love and encourage you to "
-"share and spread your downloaded copy far and wide so that others may enjoy "
-"it too. Our very best regards!"
-msgstr "Propria dvs. copie de QGIS se descarcă. QGIS este gratuit, așa cum va fi întotdeauna, dacă este descărcat de pe QGIS.org. Dacă vă puteți permite să sprijiniți financiar proiectul, precum și pe creatorii acestui program, vă rugăm să luați în considerare posibilitatea de a efectua <a href=\"https://qgis.org/en/site/getinvolved/donations.html\">o mică donație pentru a susține</a> eforturile noastre. Indiferent dacă alegeți să donați sau nu, sperăm că vă bucurați de produsul drag al muncii noastre, încurajându-vă să răspândiți în lung și-n lat copia descărcată, pentru ca și alți utilizatori să beneficieze de ea. Cele mai bune urări din partea noastră!"
+"We are still updating (not translating yet) the documentation for releases "
+"newer than QGIS 3.22. We call this version 'QGIS testing' and the "
+"documentation can be found here: "
+msgstr ""
 
-#: ../../themes/qgis-theme/languageswitch.html:102
-#: ../../themes/qgis-theme/languageswitch.html:132
-msgid "The QGIS Team"
-msgstr "Echipa QGIS"
+#: ../../themes/qgis-theme/docs_index.html:145
+msgid "QGIS Training Manual"
+msgstr "Manualul de instruire în QGIS"
 
-#: ../../themes/qgis-theme/languageswitch.html:104
-msgid "Donate Now"
-msgstr "Donați Acum"
+#: ../../themes/qgis-theme/docs_index.html:146
+msgid "PyQGIS Cookbook"
+msgstr "Cartea de rețete PyQGIS "
 
-#: ../../themes/qgis-theme/languageswitch.html:105
-#: ../../themes/qgis-theme/languageswitch.html:134
-msgid "Close this message"
-msgstr "Închideți acest mesaj"
+#: ../../themes/qgis-theme/docs_index.html:147
+msgid "QGIS Developers Guide"
+msgstr "Ghidul Dezvoltatorilor QGIS"
 
-#: ../../themes/qgis-theme/languageswitch.html:128
-msgid "Thank you for your donation!"
-msgstr "Vă mulțumim pentru donație!"
+#: ../../themes/qgis-theme/docs_index.html:149
+msgid "Documentation Guidelines (how to write the docs)"
+msgstr "Ghidul documentației (cum să scrieți documente)"
 
-#: ../../themes/qgis-theme/languageswitch.html:130
+#: ../../themes/qgis-theme/docs_index.html:151
+msgid "PDF versions of all above, eg for printing are available here: "
+msgstr "Versiunile PDF ale celor de mai sus, pentru imprimare, de exemplu, sunt disponibile aici:"
+
+#: ../../themes/qgis-theme/docs_index.html:161
+msgid "Archived"
+msgstr "Arhive"
+
+#: ../../themes/qgis-theme/docs_index.html:162
+msgid "Links to documentation of older version of QGIS: "
+msgstr "Documentație pentru versiunile vechi de QGIS:"
+
+#: ../../themes/qgis-theme/docs_index.html:164
+msgid "QGIS 3.10 Documentation"
+msgstr ""
+
+#: ../../themes/qgis-theme/docs_index.html:165
+msgid "QGIS 3.4 Documentation"
+msgstr "Documentație QGIS 3.4"
+
+#: ../../themes/qgis-theme/docs_index.html:166
+msgid "QGIS 2.18 Documentation"
+msgstr "Documentație QGIS 2.18"
+
+#: ../../themes/qgis-theme/docs_index.html:167
+msgid "QGIS 2.14 Documentation"
+msgstr "Documentație QGIS 2.14"
+
+#: ../../themes/qgis-theme/docs_index.html:168
+msgid "QGIS 2.8 Documentation"
+msgstr "Documentație QGIS 2.8"
+
+#: ../../themes/qgis-theme/docs_index.html:178
+msgid "Data protection documentation"
+msgstr "Documentație de protejare a datelor"
+
+#: ../../themes/qgis-theme/docs_index.html:179
 msgid ""
-"QGIS is free of charge and we hope that you enjoy using our labour of love "
-"and encourage you to share and spread your downloaded copy far and wide so "
-"that others may enjoy it too. Our very best regards!"
-msgstr "QGIS fiind gratuit, sperăm că vă place să-l folosiți; totodată, vă încurajăm să partajați și altora copia descărcată, astfel încât și ei să o poată utiliza. Vă mulțumim!"
+"In line with GDPR and related data protection regulations, we provide the "
+"following documentation: "
+msgstr "În conformitate cu GDPR și cu reglementările aferente privind protecția datelor, punem la dispoziție următoarea documentație:"
 
-#: ../../themes/qgis-theme/languageswitch.html:131
+#: ../../themes/qgis-theme/docs_index.html:181
+msgid "QGIS Application Network Connections"
+msgstr "Conexiunile de Rețea ale Aplicației QGIS"
+
+#: ../../themes/qgis-theme/forusers_download.html:3
+msgid "Download QGIS for your platform"
+msgstr "Descărcați QGIS pentru platforma dumneavoastră"
+
+#: ../../themes/qgis-theme/forusers_download.html:4
+msgid "Binary packages (installers) are available from this page."
+msgstr "Pachetele binare (kiturile de instalare) se pot descărca de aici."
+
+#: ../../themes/qgis-theme/forusers_download.html:5
+#, python-format
+msgid "The current version is QGIS %s '%s' and was released on %s."
+msgstr "Versiunea curentă este QGIS %s '%s', care a fost lansată în %s."
+
+#: ../../themes/qgis-theme/forusers_download.html:6
+#, python-format
+msgid "The long-term repositories currently offer QGIS %s '%s'."
+msgstr "Depozitele long-term oferă în mod curent QGIS %s '%s'."
+
+#: ../../themes/qgis-theme/forusers_download.html:7
+msgid "QGIS is available on Windows, macOS, Linux and Android."
+msgstr "QGIS este disponibil pentru Windows, macOS, Linux și Android."
+
+#: ../../themes/qgis-theme/forusers_download.html:10
+#, python-format
 msgid ""
-"Unfortunately there was an error processing your Donation. Please try again "
-"later, or contact us via finance@qgis.org"
-msgstr "Din păcate, a apărut o eroare în procesarea donației. Reîncercați mai târziu sau contactați-ne la adresa finance@qgis.org"
+"We are currently in feature freeze preceeding the release of QGIS %s. "
+"<b>Please consider testing the prereleases</b>. See "
+msgstr "În prezent suntem în stadiul de înghețare pentru versiunea QGIS %s. <b>Vă rugăm să luați în considerare testarea versiunii pre-lansate</b>. Consultați datele din "
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:8
-msgid "QGIS Donations"
-msgstr "Donații QGIS"
+#: ../../themes/qgis-theme/forusers_download.html:11
+msgid "road map"
+msgstr "planificare"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:9
+#: ../../themes/qgis-theme/forusers_download.html:19
+msgid "Installation Downloads"
+msgstr "Pachete de instalare"
+
+#: ../../themes/qgis-theme/forusers_download.html:20
+msgid "All Releases"
+msgstr "Toate Versiunile"
+
+#: ../../themes/qgis-theme/forusers_download.html:21
+msgid "Sources"
+msgstr "Surse"
+
+#: ../../themes/qgis-theme/forusers_download.html:34
+msgid "Download for Windows"
+msgstr "Descărcați pentru Windows"
+
+#: ../../themes/qgis-theme/forusers_download.html:40
+msgid "QGIS in OSGeo4W (recommended for regular users):"
+msgstr "QGIS din pachetul OSGeo4W (recomandat pentru majoritatea utilizatorilor):"
+
+#: ../../themes/qgis-theme/forusers_download.html:45
+msgid "OSGeo4W Network Installer"
+msgstr "Pachetul de Instalare din Rețea OSGeo4W"
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+msgid "In the installer choose "
+msgstr "La rularea programului de instalare alegeți "
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+msgid "Express Install"
+msgstr "Express Install"
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+msgid "and select"
+msgstr "apoi selectați"
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+#: ../../themes/qgis-theme/index.html:9
+msgid "QGIS"
+msgstr "QGIS"
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+msgid "to install the <em>latest release</em> or "
+msgstr "pentru a instala <em>cea mai nouă versiune</em> sau"
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+msgid "QGIS LTR"
+msgstr "QGIS LTR"
+
+#: ../../themes/qgis-theme/forusers_download.html:49
+msgid "to install the <em>long term release</em>."
+msgstr "pentru a instala <em>versiunea cu suport pe termen lung</em>."
+
+#: ../../themes/qgis-theme/forusers_download.html:50
 msgid ""
-"QGIS is developed by a team of dedicated volunteers, companies and "
-"organisations."
-msgstr "QGIS este dezvoltat de o echipă foarte dedicată, alcătuită din voluntari, companii și organizații."
+"The express installations have several optional packages including non-free "
+"software. To avoid those you have to use the"
+msgstr "Instalările expres au mai multe pachete opționale, inclusiv software comercial. Pentru a le evita, trebuie să utilizați"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:13
+#: ../../themes/qgis-theme/forusers_download.html:50
+msgid "Advanced Install"
+msgstr "Instalare Avansată"
+
+#: ../../themes/qgis-theme/forusers_download.html:50
+msgid "and choose"
+msgstr "apoi alegeți"
+
+#: ../../themes/qgis-theme/forusers_download.html:50
+msgid "and/or"
+msgstr "și/sau"
+
+#: ../../themes/qgis-theme/forusers_download.html:50
+msgid "in the desktop section."
+msgstr "din secțiunea desktop."
+
+#: ../../themes/qgis-theme/forusers_download.html:51
+#: ../../themes/qgis-theme/forusers_download.html:52
+msgid "CAUTION"
+msgstr "ATENȚIE"
+
+#: ../../themes/qgis-theme/forusers_download.html:51
 msgid ""
-"Donations to QGIS are tax-deductible in several countries. Please refer to your local tax office for details.\n"
-"                    If you want to tax-deduct as a german company or organization, please donate through the "
-msgstr "Donațiile către QGIS sunt deductibile din taxe, în unele țări. Vă rugăm să consultați legislația locală, pentru detalii.\n                    Ca și companie sau organizație germană, dacă doriți să vă deduceți impozitul, vă rugăm să donați prin"
+"Upgrades of old setups from OSGeo4W v1 using this repository are not "
+"supported. You need to do a fresh install or use a different directory."
+msgstr "Actualizarea instalărilor anterioare din OSGeo4W v1, utilizând acest depozit, nu este permisă. Trebuie să efectuați o nouă instalare sau să utilizați un director diferit."
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:14
-msgid "German QGIS user group"
-msgstr "Grupul utilizatorilor Germani de QGIS"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:14
+#: ../../themes/qgis-theme/forusers_download.html:52
 msgid ""
-". They can issue a payment confirmation as a tax-exempt german association."
-msgstr ". Aceștia pot emite o confirmare a plății, ca și asociație germană scutită de taxe."
+"32 bit binaries are not produced anymore.  Also Windows 7 no longer works as"
+" we are now using Python 3.9, which dropped support for it."
+msgstr "Executabilele pe 32 biți nu se mai generează. De asemenea, Windows 7 nu mai este acceptat, întrucât Python 3.9., pe care îl utilizăm noi, a eliminat suportul pentru acesta."
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:16
-#: ../../themes/qgis-theme/getinvolved_index.html:12
-msgid "You can get involved!"
-msgstr "Aveți posibilitatea să vă implicați!"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:28
-msgid "DONATE TO THE PROJECT"
-msgstr "DONAȚI PROIECTULUI"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:33
-#: ../../themes/qgis-theme/getinvolved_donations.html:53
-msgid "Bank Transfer"
-msgstr "Transfer bancar"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:36
-msgid "Credit card and Paypal"
-msgstr "Card de credit și Paypal"
-
-#: ../../themes/qgis-theme/getinvolved_donations.html:54
+#: ../../themes/qgis-theme/forusers_download.html:56
 msgid ""
-"Use the details below to make a donation via international money transfer:"
-msgstr "Utilizați detaliile de mai jos pentru a face un transfer internațional de bani:"
+"Standalone installers (MSI) from OSGeo4W packages (recommended for new "
+"users)"
+msgstr "Programe de instalare independente (MSI) bazate pe pachetele OSGeo4W  (recomandate pentru noii utilizatori)"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:75
-msgid "Stripe"
-msgstr "Stripe"
+#: ../../themes/qgis-theme/forusers_download.html:57
+#: ../../themes/qgis-theme/forusers_download.html:104
+msgid "Latest release (richest on features):"
+msgstr "Ultima versiune (cea mai bogată în funcționalități):"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:76
+#: ../../themes/qgis-theme/forusers_download.html:62
+#: ../../themes/qgis-theme/forusers_download.html:77
+#, python-format
+msgid "QGIS Standalone Installer Version %s"
+msgstr "Kit de Instalare QGIS versiunea %s"
+
+#: ../../themes/qgis-theme/forusers_download.html:72
+#: ../../themes/qgis-theme/forusers_download.html:112
+msgid "Long term release (most stable):"
+msgstr "Versiune cu suport pe termen lung (cea mai stabilă):"
+
+#: ../../themes/qgis-theme/forusers_download.html:87
 msgid ""
-"We use the stripe.com service to receive credit card donations. Note that "
-"the payment fees at Stripe are substantially lower than at Paypal - so we "
-"would appreciate it, if you could use Stripe instead of PayPal. No signup "
-"needed."
-msgstr "Utilizăm serviciul stripe.com pentru a primi donații prin intermediul cărților de credit. Rețineți că taxele de plată la Stripe sunt substanțial mai mici decât la Paypal - de aceea, am aprecia dacă ați putea folosi Stripe în loc de PayPal. Nu este necesară înscrierea."
+"Note that the MSI installers are much bigger than the previous installers.  "
+"This is because they include significant larger packages (eg. PROJ 8).  The "
+"main reason for the switch to MSI were the size limits previously used NSIS "
+"has, which was blocking updates of dependencies."
+msgstr "Puteți observa că programele de instalare MSI au o dimensiune mult mai mare decât cele anterioare. Acest lucru se datorează faptului că includ pachete semnificativ mai mari (cum ar fi PROJ 8). Motivul principal pentru trecerea la MSI au fost limitele de dimensiune ale programelor de instalare NSIS folosite înainte, care blocau actualizarea dependențelor."
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:77
+#: ../../themes/qgis-theme/forusers_download.html:96
+msgid "Download for macOS"
+msgstr "Descărcați pentru macOS"
+
+#: ../../themes/qgis-theme/forusers_download.html:101
+msgid "Official All-in-one, signed installers"
+msgstr "Kituri de instalare semnate, All-in-one, oficiale"
+
+#: ../../themes/qgis-theme/forusers_download.html:102
+#: ../../themes/qgis-theme/forusers_download.html:122
+msgid "Mac Installer Packages for macOS High Sierra (10.13) and newer."
+msgstr "Pachete de Instalare pentru Mac, versiunile macOS High Sierra (10.13) și mai noi."
+
+#: ../../themes/qgis-theme/forusers_download.html:103
 msgid ""
-"If you do not see a Payment Form here please let us know via "
-"finance@qgis.org."
-msgstr "Dacă aici nu vedeți un formular de plată, vă rugăm să ne anunțați la finance@qgis.org."
+"QGIS is not yet notarized as required by macOS Catalina (10.15) security "
+"rules. On first launch, please right-click on the QGIS app icon, hold down "
+"the Option key, then choose Open."
+msgstr "QGIS nu este încă notarizat conform cerințelor regulilor de securitate macOS Catalina (10.15). La prima lansare, efectuați clic dreapta pe pictograma aplicației QGIS, țineți apăsată tasta Option/Alt, apoi alegeți Deschidere."
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:82
-msgid "Paypal"
-msgstr "Paypal"
+#: ../../themes/qgis-theme/forusers_download.html:109
+#: ../../themes/qgis-theme/forusers_download.html:117
+#, python-format
+msgid "QGIS macOS Installer Version %s"
+msgstr "Kit de instalare QGIS macOS versiunea %s"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:83
+#: ../../themes/qgis-theme/forusers_download.html:120
+msgid "Alternative build"
+msgstr "Versiuni alternative"
+
+#: ../../themes/qgis-theme/forusers_download.html:123
 msgid ""
-"You can use Paypal to donate using your own credit card (but we prefer to use Stripe for that). \n"
-"                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
-"                    or sign-up for one if you are paying by credit card."
-msgstr "Puteți folosi Paypal, pentru a dona, folosind propriul card de credit (deși am prefera să utilizați Stripe în acest scop).\n                     Plata este procesată de către PayPal, dar nu este necesar să aveți un cont PayPal\n                     sau să înregistrați unul, în cazul efectuării plății prin cardul de credit."
+"Installation instructions are in the Read Me on the disk image. GDAL and "
+"Python (both included on the disk image) are installed separately and "
+"outside the QGIS app so they are usable on their own. These packages use the"
+" python.org Python 3 - other distributions are not supported."
+msgstr "Instrucțiunile de instalare se află în secțiunea Read Me din imaginea discului. GDAL și Python (ambele incluse în imaginea discului) sunt instalate separat și în afara aplicației QGIS, astfel încât să poată rula în mod independent. Acest pachet utilizează python.org Python 3.6 - alte distribuții nefiind acceptate."
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:86
-msgid "You can also use your own Paypal account to donate."
-msgstr "Puteți folosi, de asemenea, propriul dumneavoastră cont de Paypal pentru a dona."
+#: ../../themes/qgis-theme/forusers_download.html:128
+msgid "macOS Installers"
+msgstr "Kituri de instalare macOS"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:87
-msgid "List of QGIS Support Channels"
-msgstr "Lista Canalelor de Suport QGIS"
+#: ../../themes/qgis-theme/forusers_download.html:138
+msgid "Download for Linux"
+msgstr "Descărcați pentru Linux"
 
-#: ../../themes/qgis-theme/getinvolved_donations.html:94
-msgid "Donate via PayPal.com"
-msgstr "Donați prin PayPal.com"
-
-#: ../../themes/qgis-theme/search.html:24
+#: ../../themes/qgis-theme/forusers_download.html:143
 msgid ""
-"Please activate JavaScript to enable the search\n"
-"    functionality."
-msgstr "Vă rugăm să permiteți JavaScript, pentru a se\nactiva funcționalitatea de căutare."
+"For many flavors of GNU/Linux binary packages (rpm and deb) or software "
+"repositories (to add to your installation manager) are available. Please "
+"select your choice of distro below:"
+msgstr "Pentru diversele distribuții de GNU/Linux sunt disponibile pachete binare (rpm și deb) sau depozite de software (pe care le puteți adăuga la propriul manager de instalare). Vă rog să alegeți distribuția preferată, din lista următoare:"
 
-#: ../../themes/qgis-theme/search.html:29
+#: ../../themes/qgis-theme/forusers_download.html:145
+msgid "Debian/Ubuntu"
+msgstr "Debian/Ubuntu"
+
+#: ../../themes/qgis-theme/forusers_download.html:146
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../../themes/qgis-theme/forusers_download.html:147
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: ../../themes/qgis-theme/forusers_download.html:148
+msgid "RHEL, CentOS, Scientific Linux, ..."
+msgstr "RHEL, CentOS, Scientific Linux, ..."
+
+#: ../../themes/qgis-theme/forusers_download.html:149
+msgid "Mandriva"
+msgstr "Mandriva"
+
+#: ../../themes/qgis-theme/forusers_download.html:150
+msgid "Slackware"
+msgstr "Slackware"
+
+#: ../../themes/qgis-theme/forusers_download.html:151
+msgid "Arch Linux"
+msgstr "Arch Linux"
+
+#: ../../themes/qgis-theme/forusers_download.html:152
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: ../../themes/qgis-theme/forusers_download.html:154
+msgid "Linux Installation Instructions"
+msgstr "Instrucțiuni de instalare pentru Linux"
+
+#: ../../themes/qgis-theme/forusers_download.html:162
+msgid "Download for BSD"
+msgstr "Descărcați pentru BSD"
+
+#: ../../themes/qgis-theme/forusers_download.html:167
+msgid "BSD Installation Instructions"
+msgstr "Instrucțiuni de Instalare pentru BSD"
+
+#: ../../themes/qgis-theme/forusers_download.html:175
+msgid "Apps for mobile and tablet"
+msgstr "Aplicații pentru mobil și tabletă"
+
+#: ../../themes/qgis-theme/forusers_download.html:180
 msgid ""
-"From here you can search these documents. Enter your search\n"
-"    words into the box below and click \"search\". Note that the search\n"
-"    function will automatically search for all of the words. Pages\n"
-"    containing fewer words won't appear in the result list."
-msgstr "De aici puteți efectua o căutare în aceste documente. Introduceți \ncuvintele dvs. în căsuța de mai jos și faceți clic pe \"căutare\". Rețineți \ncă funcția respectivă va căuta în mod automat toate cuvintele. Paginile \ncare conțin mai puține cuvinte nu vor apărea în lista de rezultate."
+"The QGIS experience does not stop on the desktop. Various touch optimized "
+"apps allow you to take QGIS into the field"
+msgstr "Experiența QGIS nu se oprește la desktop. Diverse aplicații optimizate pentru touchscreen vă permit să utilizați QGIS în teren"
 
-#: ../../themes/qgis-theme/search.html:37
-msgid "search"
-msgstr "căutare"
+#: ../../themes/qgis-theme/forusers_download.html:181
+msgid "Third-party touch optimized apps"
+msgstr "Aplicații terțe, optimizate pentru touchscreen"
 
-#: ../../themes/qgis-theme/search.html:42
-msgid "Search Results"
-msgstr "Rezultatele căutării"
+#: ../../themes/qgis-theme/forusers_download.html:182
+msgid "QField for QGIS (formerly QGIS for Android)"
+msgstr "QField pentru QGIS (fost QGIS pentru Android)"
 
-#: ../../themes/qgis-theme/search.html:44
-msgid "Your search did not match any results."
-msgstr "Căutarea dvs. nu a returnat nici un rezultat."
+#: ../../themes/qgis-theme/forusers_download.html:188
+msgid "Mergin Maps Input app (available for Android and iOS devices)"
+msgstr ""
+
+#: ../../themes/qgis-theme/forusers_download.html:199
+msgid "QGIS for Android"
+msgstr "QGIS pentru Android"
+
+#: ../../themes/qgis-theme/forusers_download.html:200
+msgid ""
+"An old and deprecated not touch optimised release of QGIS for Android can be"
+" found in"
+msgstr "O versiune veche și depășită de QGIS, adaptată pentru Android, se găsește la"
+
+#: ../../themes/qgis-theme/forusers_download.html:200
+#: ../../themes/qgis-theme/forusers_download.html:207
+#: ../../themes/qgis-theme/forusers_download.html:209
+msgid "All downloads"
+msgstr "Toate descărcările"
+
+#: ../../themes/qgis-theme/forusers_download.html:209
+msgid ""
+"More specific instructions about downloading QGIS stable vs QGIS development"
+" can be found in"
+msgstr "Mai multe instrucțiuni referitoare la descărcarea versiunii stabile a QGIS, în comparație cu versiunea de dezvoltare, puteți găsi în"
+
+#: ../../themes/qgis-theme/forusers_download.html:212
+msgid "Datasets"
+msgstr "Seturi de date"
+
+#: ../../themes/qgis-theme/forusers_download.html:213
+msgid "For testing and learning purposes, a "
+msgstr "Pentru scopuri de testare și învățare, "
+
+#: ../../themes/qgis-theme/forusers_download.html:213
+msgid "sample dataset is available"
+msgstr "este disponibil un set de date demonstrative"
+
+#: ../../themes/qgis-theme/forusers_download.html:213
+msgid ""
+"which contains collections of data from different sources and in different "
+"formats."
+msgstr "care conține colecții de date din surse diferite și în diverse formate."
+
+#: ../../themes/qgis-theme/forusers_download.html:219
+msgid "Previous releases of QGIS are still available"
+msgstr "Versiunile mai vechi de QGIS sunt încă disponibile"
+
+#: ../../themes/qgis-theme/forusers_download.html:219
+#: ../../themes/qgis-theme/forusers_download.html:220
+#: ../../themes/qgis-theme/forusers_download.html:221
+#: ../../themes/qgis-theme/forusers_download.html:223
+#: ../../themes/qgis-theme/forusers_download.html:224
+#: ../../themes/qgis-theme/forusers_download.html:234
+#: ../../themes/qgis-theme/forusers_download.html:235
+#: ../../themes/qgis-theme/forusers_download.html:236
+msgid "here"
+msgstr "aici"
+
+#: ../../themes/qgis-theme/forusers_download.html:219
+msgid " - including older releases for OS X "
+msgstr "- inclusiv versiuni mai vechi pentru OS X"
+
+#: ../../themes/qgis-theme/forusers_download.html:221
+msgid "More older releases are available"
+msgstr "Mai multe versiuni vechi de QGIS sunt disponibile"
+
+#: ../../themes/qgis-theme/forusers_download.html:222
+#: ../../themes/qgis-theme/forusers_download.html:232
+#: ../../themes/qgis-theme/getinvolved_index.html:16
+#: ../../themes/qgis-theme/getinvolved_index.html:90
+msgid "and"
+msgstr "și"
+
+#: ../../themes/qgis-theme/forusers_download.html:223
+msgid "for OS X "
+msgstr "pentru OS X"
+
+#: ../../themes/qgis-theme/forusers_download.html:224
+#: ../../themes/qgis-theme/forusers_download.html:236
+msgid "Plugins for QGIS are also available "
+msgstr "Plugin-urile pentru QGIS sunt, de asemenea, disponibile "
+
+#: ../../themes/qgis-theme/forusers_download.html:229
+msgid "QGIS is open source software available under the terms of the"
+msgstr "QGIS este un software cu sursă deschisă, disponibil sub termenii"
+
+#: ../../themes/qgis-theme/forusers_download.html:229
+msgid "GNU General Public License"
+msgstr "Licenței Publice Generale GNU"
+
+#: ../../themes/qgis-theme/forusers_download.html:229
+msgid ""
+"meaning that its source code can be downloaded through tarballs or the git "
+"repository."
+msgstr "ceea ce înseamnă că sursa sa poate fi descărcată prin intermediul arhivelor tar sau a depozitelor git."
+
+#: ../../themes/qgis-theme/forusers_download.html:230
+msgid "QGIS Source Code is available "
+msgstr "Codul sursă QGIS este disponibil"
+
+#: ../../themes/qgis-theme/forusers_download.html:231
+msgid "here (latest release)"
+msgstr "aici (cea mai recentă versiune)"
+
+#: ../../themes/qgis-theme/forusers_download.html:233
+msgid "here (long term release)"
+msgstr "aici (versiunea cu suport pe termen lung)"
+
+#: ../../themes/qgis-theme/forusers_download.html:234
+msgid ""
+"Refer to the INSTALL guide on how to compile QGIS from source for the "
+"different platforms:"
+msgstr "Consultați Ghidul de INSTALARE, pentru a compila sursa QGIS pe diferite platforme:"
+
+#: ../../themes/qgis-theme/forusers_download.html:235
+msgid ""
+"Note that you can also install the development version (nightly) via an "
+"installer from the normal downloads for your platform:"
+msgstr "Rețineți că puteți instala, de asemenea, versiunea de dezvoltare (de noapte), prin simpla descărcare a unui program de instalare specific platformei dumneavoastră:"
+
+#: ../../themes/qgis-theme/forusers_index.html:7
+msgid "Get Started Using QGIS"
+msgstr "Începeți Să Folosiți QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:9
+msgid "Step 1: Download QGIS"
+msgstr "Pasul 1: Descărcați QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:11
+msgid "Step 2: Check our documentation"
+msgstr "Pasul 2: Citiți documentația noastră"
+
+#: ../../themes/qgis-theme/forusers_index.html:13
+msgid "Step 3: Connect with the QGIS community"
+msgstr "Pasul 3: Implicați-vă în comunitatea QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:27
+#: ../../themes/qgis-theme/page.html:138
+msgid "For Users"
+msgstr "Pentru utilizatori"
+
+#: ../../themes/qgis-theme/forusers_index.html:32
+msgid "Download"
+msgstr "Descărcați"
+
+#: ../../themes/qgis-theme/forusers_index.html:35
+#: ../../themes/qgis-theme/forusers_index.html:88
+#: ../../themes/qgis-theme/page.html:140
+msgid "Documentation"
+msgstr "Documentație"
+
+#: ../../themes/qgis-theme/forusers_index.html:38
+msgid "QGIS Plugins"
+msgstr "Plugin-uri QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:41
+#: ../../themes/qgis-theme/forusers_index.html:132
+msgid "Getting Help"
+msgstr "Obțineți ajutor"
+
+#: ../../themes/qgis-theme/forusers_index.html:44
+msgid "In the Press"
+msgstr "Din Presă"
+
+#: ../../themes/qgis-theme/forusers_index.html:60
+msgid "Download QGIS"
+msgstr "Descărcați QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:62
+msgid "for your operating system."
+msgstr "pentru sistemul dvs. de operare."
+
+#: ../../themes/qgis-theme/forusers_index.html:65
+msgid "Get the installer"
+msgstr "Obțineți fișierul de instalare"
+
+#: ../../themes/qgis-theme/forusers_index.html:68
+msgid "Check out our roadmap for future versions: "
+msgstr "Verificați programul versiunilor viitoare:"
+
+#: ../../themes/qgis-theme/forusers_index.html:68
+#: ../../themes/qgis-theme/getinvolved_index.html:156
+msgid "QGIS roadmap"
+msgstr "Evoluția QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:72
+msgid "See the latest features in the visual changelogs"
+msgstr "Aflați despre cele mai noi caracteristici"
+
+#: ../../themes/qgis-theme/forusers_index.html:91
+msgid "Our main documentation is the"
+msgstr "Documentația noastră principală este"
+
+#: ../../themes/qgis-theme/forusers_index.html:92
+msgid "QGIS user guide"
+msgstr "Ghidul utilizatorului QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:94
+msgid "We also provide step by step tutorials in the"
+msgstr "Oferim, de asemenea, tutoriale pas cu pas în"
+
+#: ../../themes/qgis-theme/forusers_index.html:95
+msgid "Training manual"
+msgstr "Manualul de instruire"
+
+#: ../../themes/qgis-theme/forusers_index.html:97
+msgid "External parties also provide"
+msgstr "Furnizorii externi vă pun la dispoziție, de asemenea,"
+
+#: ../../themes/qgis-theme/forusers_index.html:98
+msgid "QGIS tutorials"
+msgstr "Tutoriale QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:100
+msgid "QGIS values user privacy. We therefore provide detailed info on"
+msgstr "Pentru QGIS este foarte importantă protejarea confidențialității. Prin urmare, oferim informații detaliate despre"
+
+#: ../../themes/qgis-theme/forusers_index.html:101
+msgid "QGIS application network connections"
+msgstr "Conexiunile de rețea ale aplicației QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:108
+msgid "QGIS Publications"
+msgstr "Publicaţii QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:110
+msgid "Read what the QGIS community is doing around the world"
+msgstr "Citiți despre activitatea Comunității QGIS din întreaga lume"
+
+#: ../../themes/qgis-theme/forusers_index.html:112
+msgid "in our blogs"
+msgstr "în blog-urile noastre"
+
+#: ../../themes/qgis-theme/forusers_index.html:114
+msgid "For more in-depth reading, get some"
+msgstr "Pentru informații detaliate, puteți apela la unele"
+
+#: ../../themes/qgis-theme/forusers_index.html:116
+msgid "books on QGIS"
+msgstr "cărți despre QGIS"
+
+#: ../../themes/qgis-theme/forusers_index.html:133
+msgid "You can get in touch with fellow users and developers via"
+msgstr "Puteți intra în contact cu alți utilizatori și dezvoltatori prin intermediul"
+
+#: ../../themes/qgis-theme/forusers_index.html:135
+msgid "our community support channels"
+msgstr "canalelor de suport ale comunității noastre"
+
+#: ../../themes/qgis-theme/forusers_index.html:144
+msgid ""
+"Do you plan to use QGIS in your company or organization, but worry about whether there is\n"
+"                    commercial support available? Here is an alphabetical"
+msgstr "Aveți de gând să folosiți QGIS în compania sau organizația dumneavoastră, dar vă întrebați\ndacă este disponibil suportul tehnic comercial? Iată o listă alfabetică,"
+
+#: ../../themes/qgis-theme/forusers_index.html:148
+msgid "list of support contractors"
+msgstr "a furnizorilor de asistență tehnică"
+
+#: ../../themes/qgis-theme/forusers_index.html:164
+msgid "Get Plugins"
+msgstr "Obțineți plugin-uri"
+
+#: ../../themes/qgis-theme/forusers_index.html:165
+msgid ""
+"QGIS plugins allow you to add many new features and functions. Get them from"
+msgstr "Arhitectura plugin-urilor QGIS permite adăugarea noilor caracteristici și funcțiuni. Obțineți-le din"
+
+#: ../../themes/qgis-theme/forusers_index.html:168
+msgid "the plugin repository"
+msgstr "depozitul de plugin-uri"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:7
 msgid "Get Involved in the QGIS Community"
@@ -1359,6 +937,10 @@ msgid ""
 "                organisations. We strive to be a welcoming community for\n"
 "                people of all race, creed, gender and walks of life."
 msgstr "QGIS este dezvoltat de o echipa dedicată de voluntari și\norganizații. QGIS se străduiește să fie o comunitate primitoare pentru\npersoanele de orice rasă, credință, sex și statut social."
+
+#: ../../themes/qgis-theme/getinvolved_index.html:12
+msgid "You can get involved!"
+msgstr "Aveți posibilitatea să vă implicați!"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:14
 msgid "For more information, please read our "
@@ -1559,6 +1141,360 @@ msgstr "contribuții financiare pentru proiect, efectuate la un moment dat"
 #: ../../themes/qgis-theme/getinvolved_index.html:174
 msgid "donations via a variety of channels"
 msgstr "donații prin intermediul a diverse canale"
+
+#: ../../themes/qgis-theme/index.html:3
+msgid "Time until freeze"
+msgstr "Timpul până la înghețare"
+
+#: ../../themes/qgis-theme/index.html:4
+msgid "Time until packaging"
+msgstr "Timpul până la împachetare"
+
+#: ../../themes/qgis-theme/index.html:5
+msgid "Time until next pointrelease"
+msgstr "Timpul până la următoarea versiune minoră"
+
+#: ../../themes/qgis-theme/index.html:12
+msgid "A Free and Open Source Geographic Information System"
+msgstr "Un Sistem de Informații Geografice gratuit și cu sursă deschisă"
+
+#: ../../themes/qgis-theme/index.html:33
+msgid "New release: 3.26!"
+msgstr ""
+
+#: ../../themes/qgis-theme/index.html:35
+msgid "Get the"
+msgstr "Obțineți"
+
+#: ../../themes/qgis-theme/index.html:36
+msgid "installer or packages"
+msgstr "pachetele de instalare"
+
+#: ../../themes/qgis-theme/index.html:37
+msgid "for your Operating System and read the"
+msgstr "pentru Sistemul dvs. de Operare și citiți"
+
+#: ../../themes/qgis-theme/index.html:38
+msgid "changelog."
+msgstr "jurnalul schimbărilor."
+
+#: ../../themes/qgis-theme/index.html:47
+msgid "QGIS Community meetings"
+msgstr "Întruniri ale comunității QGIS "
+
+#: ../../themes/qgis-theme/index.html:49
+msgid "Find out more about our tradition of user and contributor"
+msgstr "În mod tradițional, utilizatorii și contribuitori noștri se întâlnesc la"
+
+#: ../../themes/qgis-theme/index.html:49
+msgid "meetings!"
+msgstr "întruniri!"
+
+#: ../../themes/qgis-theme/index.html:58
+msgid "Look cool and support the QGIS project!"
+msgstr "Arătați bine și, totodată, sprijiniți proiectul QGIS!"
+
+#: ../../themes/qgis-theme/index.html:60
+msgid "Pick your style and favourite color and show your support with our"
+msgstr "Alegeți stilul și culoarea preferată și arătați-vă susținerea cumpărând"
+
+#: ../../themes/qgis-theme/index.html:61
+msgid "QGIS goodies!"
+msgstr "Produse QGIS!"
+
+#: ../../themes/qgis-theme/index.html:76
+msgid ""
+"Create, edit, visualise, analyse and publish geospatial\n"
+"            information on Windows, Mac, Linux, BSD and mobile devices"
+msgstr "Creați, editați, vizualizați, analizați și publicați informații geospațiale\npe Windows, Mac, Linux, BSD și dispozitive mobile"
+
+#: ../../themes/qgis-theme/index.html:80
+msgid ""
+"For your desktop, server, in your web browser and as\n"
+"            developer libraries"
+msgstr "Pentru desktop, server, în browser-ul web și ca bibliotecă de funcții pentru dezvoltatori"
+
+#: ../../themes/qgis-theme/index.html:87
+msgid "Download Now"
+msgstr "Descărcați Acum"
+
+#: ../../themes/qgis-theme/index.html:88
+msgid "Version"
+msgstr "Versiunea"
+
+#: ../../themes/qgis-theme/index.html:91
+msgid "Support QGIS"
+msgstr "Susțineți QGIS!"
+
+#: ../../themes/qgis-theme/index.html:92
+msgid "Donate now!"
+msgstr "Donați acum!"
+
+#: ../../themes/qgis-theme/index.html:100
+msgid "Project News"
+msgstr "Noutăți"
+
+#: ../../themes/qgis-theme/index.html:106
+msgid "Latest Project Blog Posts (blog.qgis.org)"
+msgstr "Ultimele Postări pe Blogul Proiectului (blog.qgis.org)"
+
+#: ../../themes/qgis-theme/index.html:124
+msgid "Get Started"
+msgstr "Începeți"
+
+#: ../../themes/qgis-theme/index.html:128
+msgid "Start using QGIS for your GIS tasks."
+msgstr "Începeți să folosiți QGIS pentru activitățile GIS."
+
+#: ../../themes/qgis-theme/index.html:137
+#: ../../themes/qgis-theme/page.html:139
+msgid "Get Involved"
+msgstr "Implicați-vă"
+
+#: ../../themes/qgis-theme/index.html:140
+msgid "Shape the future of QGIS with your contributions."
+msgstr "Modelați viitorul QGIS prin contribuțiile dumneavoastră."
+
+#: ../../themes/qgis-theme/index.html:148
+msgid "Learn More"
+msgstr "Aflați Mai Multe"
+
+#: ../../themes/qgis-theme/index.html:152
+msgid "Find training materials and reference documentation."
+msgstr "Găsiți materiale de instruire și documentație de referință."
+
+#: ../../themes/qgis-theme/index.html:165
+msgid "Latest Community News"
+msgstr "Ultimele Noutăți din Comunitate"
+
+#: ../../themes/qgis-theme/index.html:168
+msgid "Find out what is going on with the QGIS project and its community."
+msgstr "Aflați ce se mai întâmplă în proiectul QGIS și în comunitatea sa."
+
+#: ../../themes/qgis-theme/index.html:173
+msgid "Upcoming User & Developer Meetings"
+msgstr "Întâlniri viitoare ale utilizatorilor & dezvoltatorilor"
+
+#: ../../themes/qgis-theme/index.html:182
+msgid "Latest Blog Posts"
+msgstr "Ultimele postări pe blog"
+
+#: ../../themes/qgis-theme/index.html:231
+msgid "See More Maps and Screenshots"
+msgstr "Privți mai multe hărți și capturi"
+
+#: ../../themes/qgis-theme/index.html:251
+msgid "Sustaining Members"
+msgstr "Membri Susținători"
+
+#: ../../themes/qgis-theme/index.html:287
+msgid "frozen since"
+msgstr "se află în înghețare de funcționalități din"
+
+#: ../../themes/qgis-theme/index.html:290
+msgid "in packaging since"
+msgstr "la împachetare, începând cu"
+
+#: ../../themes/qgis-theme/languageswitch.html:4
+msgid "English"
+msgstr "Engleză"
+
+#: ../../themes/qgis-theme/languageswitch.html:5
+msgid "Catalan"
+msgstr "Catalană"
+
+#: ../../themes/qgis-theme/languageswitch.html:6
+msgid "Danish"
+msgstr "Daneză"
+
+#: ../../themes/qgis-theme/languageswitch.html:7
+msgid "German"
+msgstr "Germană"
+
+#: ../../themes/qgis-theme/languageswitch.html:8
+msgid "Spanish"
+msgstr "Spaniolă"
+
+#: ../../themes/qgis-theme/languageswitch.html:9
+msgid "Persian"
+msgstr "Persană"
+
+#: ../../themes/qgis-theme/languageswitch.html:10
+msgid "Finnish"
+msgstr "Finlandeză"
+
+#: ../../themes/qgis-theme/languageswitch.html:11
+msgid "French"
+msgstr "Franceză"
+
+#: ../../themes/qgis-theme/languageswitch.html:12
+msgid "Galician"
+msgstr "Galiciană"
+
+#: ../../themes/qgis-theme/languageswitch.html:13
+msgid "Indonesian"
+msgstr "Indoneziană"
+
+#: ../../themes/qgis-theme/languageswitch.html:14
+msgid "Italian"
+msgstr "Italiană"
+
+#: ../../themes/qgis-theme/languageswitch.html:15
+msgid "Hungarian"
+msgstr "Maghiară"
+
+#: ../../themes/qgis-theme/languageswitch.html:16
+msgid "Japanese"
+msgstr "Japoneză"
+
+#: ../../themes/qgis-theme/languageswitch.html:17
+msgid "Khmer"
+msgstr "Khmeră"
+
+#: ../../themes/qgis-theme/languageswitch.html:18
+msgid "Korean"
+msgstr "Coreeană"
+
+#: ../../themes/qgis-theme/languageswitch.html:19
+msgid "Lithuanian"
+msgstr "Lituaniană"
+
+#: ../../themes/qgis-theme/languageswitch.html:20
+msgid "Dutch"
+msgstr "Olandeză"
+
+#: ../../themes/qgis-theme/languageswitch.html:21
+msgid "Polish"
+msgstr "Poloneză"
+
+#: ../../themes/qgis-theme/languageswitch.html:22
+msgid "Portuguesei (Brazil)"
+msgstr "Portugheză (Brazilia)"
+
+#: ../../themes/qgis-theme/languageswitch.html:23
+msgid "Portuguese"
+msgstr "Portugheză"
+
+#: ../../themes/qgis-theme/languageswitch.html:24
+msgid "Romanian"
+msgstr "Română"
+
+#: ../../themes/qgis-theme/languageswitch.html:25
+msgid "Turkish"
+msgstr "Turcă"
+
+#: ../../themes/qgis-theme/languageswitch.html:26
+msgid "Russian"
+msgstr "Rusă"
+
+#: ../../themes/qgis-theme/languageswitch.html:27
+msgid "Ukrainian"
+msgstr "Ucrainiană"
+
+#: ../../themes/qgis-theme/languageswitch.html:28
+msgid "Chinese (Simplified)"
+msgstr "Cineză (Simplificată)"
+
+#: ../../themes/qgis-theme/languageswitch.html:29
+msgid "Chinese (Traditional)"
+msgstr "Chineză (Tradițională)"
+
+#: ../../themes/qgis-theme/languageswitch.html:99
+msgid "Thank you!"
+msgstr "Vă mulțumim!"
+
+#: ../../themes/qgis-theme/languageswitch.html:101
+msgid ""
+"Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and "
+"will always be free of charge if downloaded from QGIS.org. If you can afford"
+" to support the project and people making this software, please consider "
+"making <a href=\"https://donate.qgis.org/\">a small donation to support</a> "
+"our efforts. Whether you choose to donate or not, we hope that you enjoy "
+"using our labour of love and encourage you to share and spread your "
+"downloaded copy far and wide so that others may enjoy it too. Our very best "
+"regards!"
+msgstr ""
+
+#: ../../themes/qgis-theme/languageswitch.html:102
+msgid "The QGIS Team"
+msgstr "Echipa QGIS"
+
+#: ../../themes/qgis-theme/languageswitch.html:104
+msgid "Donate Now"
+msgstr "Donați Acum"
+
+#: ../../themes/qgis-theme/languageswitch.html:105
+msgid "Close this message"
+msgstr "Închideți acest mesaj"
+
+#: ../../themes/qgis-theme/localtoc.html:3
+msgid "Page"
+msgstr "Pagină"
+
+#: ../../themes/qgis-theme/page.html:39
+msgid ""
+"If not stated otherwise, all content is licensed under <a "
+"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
+"Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
+msgstr "În cazul în care nu se prevede altfel, tot conținutul este licențiat sub <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)</a>"
+
+#: ../../themes/qgis-theme/page.html:43
+msgid ""
+"Select graphics from <a href=\"https://thenounproject.com\" "
+"target=\"_blank\">The Noun Project collection</a>"
+msgstr "Elemente grafice preluate de la <a href=\"https://thenounproject.com\" target=\"_blank\">The Noun Project collection</a>"
+
+#: ../../themes/qgis-theme/page.html:47
+msgid " - Last updated on "
+msgstr "- Ultima actualizare:"
+
+#: ../../themes/qgis-theme/page.html:51
+msgid "Untranslated page? Or you spot a translation error:"
+msgstr "Pagină netradusă? Sau ați observat o eroare de traducere:"
+
+#: ../../themes/qgis-theme/page.html:52 ../../themes/qgis-theme/page.html:55
+msgid "fix me"
+msgstr "remediere"
+
+#: ../../themes/qgis-theme/page.html:54
+msgid "Textual error, missing text or you know better:"
+msgstr "Eroare contextuală, text lipsă sau știți dvs. mai bine:"
+
+#: ../../themes/qgis-theme/page.html:137
+msgid "Discover QGIS"
+msgstr "Descoperiți QGIS"
+
+#: ../../themes/qgis-theme/search.html:11
+#: ../../themes/qgis-theme/search.html:20
+#: ../../themes/qgis-theme/searchbox.html:3
+msgid "Search"
+msgstr "Căutare"
+
+#: ../../themes/qgis-theme/search.html:24
+msgid ""
+"Please activate JavaScript to enable the search\n"
+"    functionality."
+msgstr "Vă rugăm să permiteți JavaScript, pentru a se\nactiva funcționalitatea de căutare."
+
+#: ../../themes/qgis-theme/search.html:29
+msgid ""
+"From here you can search these documents. Enter your search\n"
+"    words into the box below and click \"search\". Note that the search\n"
+"    function will automatically search for all of the words. Pages\n"
+"    containing fewer words won't appear in the result list."
+msgstr "De aici puteți efectua o căutare în aceste documente. Introduceți \ncuvintele dvs. în căsuța de mai jos și faceți clic pe \"căutare\". Rețineți \ncă funcția respectivă va căuta în mod automat toate cuvintele. Paginile \ncare conțin mai puține cuvinte nu vor apărea în lista de rezultate."
+
+#: ../../themes/qgis-theme/search.html:37
+msgid "search"
+msgstr "căutare"
+
+#: ../../themes/qgis-theme/search.html:42
+msgid "Search Results"
+msgstr "Rezultatele căutării"
+
+#: ../../themes/qgis-theme/search.html:44
+msgid "Your search did not match any results."
+msgstr "Căutarea dvs. nu a returnat nici un rezultat."
 
 #~ msgid "QGIS 2.16 Released"
 #~ msgstr ""
@@ -2476,4 +2412,265 @@ msgstr "donații prin intermediul a diverse canale"
 #~ msgstr ""
 
 #~ msgid "Latest Blog Posts (planet.qgis.org)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS is not yet notarized as required by macOS Catalina (10.15) security "
+#~ "rules. On first launch on, use right click on the QGIS app icon and choose "
+#~ "Open."
+#~ msgstr ""
+
+#~ msgid "Mac Installer Packages for macOS El Capitan (10.11) and newer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Installation instructions are in the Read Me on the disk image. These "
+#~ "packages use the "
+#~ msgstr ""
+
+#~ msgid ""
+#~ "version 3.6, the \"macosx10.9\" build - other distributions are not "
+#~ "supported. Install Python before installing QGIS."
+#~ msgstr ""
+
+#~ msgid "Additional GDAL format plugins and PROJ grids are available at "
+#~ msgstr ""
+
+#~ msgid "QGIS testing (>3.10)"
+#~ msgstr ""
+
+#~ msgid "QGIS 3.4"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We are still updating (not translating yet) the documentation for releases "
+#~ "newer than QGIS 3.10. We call this version 'QGIS testing' and the "
+#~ "documentation can be found here: "
+#~ msgstr ""
+
+#~ msgid "https://docs.qgis.org/testing"
+#~ msgstr ""
+
+#~ msgid "https://docs.qgis.org/testing/pdf"
+#~ msgstr ""
+
+#~ msgid "or as PDF"
+#~ msgstr ""
+
+#~ msgid "New release: 3.16!"
+#~ msgstr ""
+
+#~ msgid "QGIS in OSGeo4W:"
+#~ msgstr ""
+
+#~ msgid "Desktop Express Install"
+#~ msgstr ""
+
+#~ msgid "to install the <em>latest release</em>."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To get the <em>long term release</em> (that is not also the latest release) "
+#~ "choose "
+#~ msgstr ""
+
+#~ msgid "and select "
+#~ msgstr ""
+
+#~ msgid "To get the <em>bleeding-edge development build</em> choose "
+#~ msgstr ""
+
+#~ msgid "qgis-full-dev"
+#~ msgstr ""
+
+#~ msgid "Standalone installers from OSGeo4W packages"
+#~ msgstr ""
+
+#~ msgid "Long term release repository (most stable):"
+#~ msgstr ""
+
+#~ msgid "Mac Installer Packages for macOS Sierra (10.12) and newer."
+#~ msgstr ""
+
+#~ msgid "ArchLinux"
+#~ msgstr ""
+
+#~ msgid "QGIS Donations"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS is developed by a team of dedicated volunteers, companies and "
+#~ "organisations."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Donations to QGIS are tax-deductible in several countries. Please refer to your local tax office for details.\n"
+#~ "                    If you want to tax-deduct as a german company or organization, please donate through the "
+#~ msgstr ""
+
+#~ msgid "German QGIS user group"
+#~ msgstr ""
+
+#~ msgid ""
+#~ ". They can issue a payment confirmation as a tax-exempt german association."
+#~ msgstr ""
+
+#~ msgid "DONATE TO THE PROJECT"
+#~ msgstr ""
+
+#~ msgid "Bank Transfer"
+#~ msgstr ""
+
+#~ msgid "Credit card and Paypal"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Use the details below to make a donation via international money transfer:"
+#~ msgstr ""
+
+#~ msgid "Stripe"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We use the stripe.com service to receive credit card donations. Note that "
+#~ "the payment fees at Stripe are substantially lower than at Paypal - so we "
+#~ "would appreciate it, if you could use Stripe instead of PayPal. No signup "
+#~ "needed."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you do not see a Payment Form here please let us know via "
+#~ "finance@qgis.org."
+#~ msgstr ""
+
+#~ msgid "Paypal"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can use Paypal to donate using your own credit card (but we prefer to use Stripe for that). \n"
+#~ "                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
+#~ "                    or sign-up for one if you are paying by credit card."
+#~ msgstr ""
+
+#~ msgid "You can also use your own Paypal account to donate."
+#~ msgstr ""
+
+#~ msgid "List of QGIS Support Channels"
+#~ msgstr ""
+
+#~ msgid "Donate via PayPal.com"
+#~ msgstr ""
+
+#~ msgid "New release: 3.18!"
+#~ msgstr ""
+
+#~ msgid "Thank you for your donation!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS is free of charge and we hope that you enjoy using our labour of love "
+#~ "and encourage you to share and spread your downloaded copy far and wide so "
+#~ "that others may enjoy it too. Our very best regards!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Unfortunately there was an error processing your Donation. Please try again "
+#~ "later, or contact us via finance@qgis.org"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Select graphics from <a href=\"http://thenounproject.com\" "
+#~ "target=\"_blank\">The Noun Project collection</a>"
+#~ msgstr ""
+
+#~ msgid "New release: 3.20!"
+#~ msgstr ""
+
+#~ msgid "NOTE FOR EXISTING USERS"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "OSGeo4W v2 (previously known as testing) is now the regular repository.  The"
+#~ " latest QGIS release is only available here, as it already requires "
+#~ "dependencies not available in the old repository. The long term release is "
+#~ "additionally also available in the old repository using the same "
+#~ "dependencies as before (see below). This also includes a 32-bit version, "
+#~ "which OSGeo4W v2 does not support."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Upgrades of old setups using the new repository are not supported. You need "
+#~ "to do a fresh install or use a different directory."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Windows 7 no longer works as we are now using Python 3.9, which dropped "
+#~ "support for it."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Long-term release in old OSGeo4W (continued with previous dependencies):"
+#~ msgstr ""
+
+#~ msgid "OSGeo4W Network Installer (64 bit)"
+#~ msgstr ""
+
+#~ msgid "OSGeo4W Network Installer (32 bit)"
+#~ msgstr ""
+
+#~ msgid "qgis-ltr-full"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Packages for the latest release and nightly thereof and master are "
+#~ "discontinued in old OSGeo4W."
+#~ msgstr ""
+
+#~ msgid "This installer also allows installing QGIS without non-free software"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Standalone installer for long term release (continued with dependencies from"
+#~ " old OSGeo4W):"
+#~ msgstr ""
+
+#~ msgid "QGIS Standalone Installer Version %s (64 bit)"
+#~ msgstr ""
+
+#~ msgid "QGIS Standalone Installer Version %s (32 bit)"
+#~ msgstr ""
+
+#~ msgid "New release: 3.22!"
+#~ msgstr ""
+
+#~ msgid "QGIS 3.10"
+#~ msgstr ""
+
+#~ msgid "QGIS testing (>3.16)"
+#~ msgstr ""
+
+#~ msgid "QGIS User guide"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We are still updating (not translating yet) the documentation for releases "
+#~ "newer than QGIS 3.16. We call this version 'QGIS testing' and the "
+#~ "documentation can be found here: "
+#~ msgstr ""
+
+#~ msgid "Input (available for Android, iOS and Windows devices)"
+#~ msgstr ""
+
+#~ msgid "New release: 3.24!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and "
+#~ "will always be free of charge if downloaded from QGIS.org. If you can afford"
+#~ " to support the project and people making this software, please consider "
+#~ "making <a href=\"https://qgis.org/en/site/getinvolved/donations.html\">a "
+#~ "small donation to support</a> our efforts. Whether you choose to donate or "
+#~ "not, we hope that you enjoy using our labour of love and encourage you to "
+#~ "share and spread your downloaded copy far and wide so that others may enjoy "
+#~ "it too. Our very best regards!"
 #~ msgstr ""

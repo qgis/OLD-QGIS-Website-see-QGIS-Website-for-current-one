@@ -3,27 +3,27 @@
 # BelenMP <Beln1@hotmail.com>, 2014
 # Diana Galindo <drgalindog@linuxmail.org>, 2013
 # vareli <ehespinosa@ya.com>, 2020
-# YoViajo, 2015-2016
+# Eric Armijo, 2015-2016
 # Fran Raga <FRANKA1986@gmail.com>, 2017
 # María Candela Ruiz <candelaruiz.arg@gmail.com>, 2020
-# YoViajo, 2016
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2019-2020
+# Eric Armijo, 2016,2021
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019-2020
 # Rosa Aguilar <rosamaguilar@gmail.com>, 2019
 # Ruben Ferrer <rubenferrervelasco@gmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
-"PO-Revision-Date: 2020-10-28 09:06+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Eric Armijo, 2016,2021\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/forusers/commercial_support.rst:6
 msgid "Commercial support"
@@ -32,26 +32,31 @@ msgstr "Soporte Comercial"
 #: ../../source/site/forusers/commercial_support.rst:8
 msgid ""
 "Do you plan to use QGIS in your company or organization, but worry about "
-"whether there is commercial support available? Here is an alphabetical list,"
-" divided in categories, of support contractors."
-msgstr "¿Estás planeando usar QGIS en tu organización o en tu compañía pero te preocupa si hay soporte comercial disponible? Aquí encuentras un lista alfabética, dividida en categorías, de proveedores de soporte."
+"whether there is commercial support available? Are you looking for a "
+"developer to add features you need or fix bugs you encounter? Here is an "
+"alphabetical list, divided in categories, of support contractors."
+msgstr "¿Tiene planeado utilizar QGIS en su empresa u organización, pero te preocupa saber si hay disponible soporte comercial? Estás buscando un desarrollador para añadir prestaciones que necesitas o corregir errores que encontraste? Aquí hay una lista alfabética, dividida en categorías, de contratistas de soporte."
 
-#: ../../source/site/forusers/commercial_support.rst:12
+#: ../../source/site/forusers/commercial_support.rst:13
 msgid ""
 "we take responsibility for the accuracy, reliability or completeness of the "
 "provided information for **Core contributors** only."
 msgstr "asumimos responsabilidad por la precisión, fiabilidad o integridad de la información proporcionada sólo para **Colaboradores principales**."
 
-#: ../../source/site/forusers/commercial_support.rst:15
+#: ../../source/site/forusers/commercial_support.rst:17
 msgid "Core contributors"
 msgstr "Colaboradores principales"
 
-#: ../../source/site/forusers/commercial_support.rst:17
-#: ../../source/site/forusers/commercial_support.rst:199
+#: ../../source/site/forusers/commercial_support.rst:19
+#: ../../source/site/forusers/commercial_support.rst:201
 msgid "In lexical order:"
 msgstr "En orden léxico:"
 
-#: ../../source/site/forusers/commercial_support.rst:22
+#: ../../source/site/forusers/commercial_support.rst:21
+msgid "3liz"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:24
 msgid ""
 "|3liz| `3liz <http://www.3liz.com/>`_ (based in France) offers a full range "
 "of services around QGIS, to escort all software users, from beginners to the"
@@ -61,7 +66,11 @@ msgid ""
 "proposes support, development and consulting on QGIS."
 msgstr "|3liz| `3liz <http://www.3liz.com/>`_ (establecida en Francia) ofrece un rango completo de servicios sobre QGIS, para acompañar a todos los usuarios del software, desde principiants hasta iniciados. Dependiendo de tus necesidades, 3Liz ofrece sesiones de entrenamiento de QGIS, ofrece el portal de mapeado web LizMap --- basado en QGIS Desktop & QGIS Serveur --- que permite una publicación de datos sencilla en la Web, y también propone soporte, desarrollo y consultoría en QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:34
+#: ../../source/site/forusers/commercial_support.rst:33
+msgid "camptocamp"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:36
 msgid ""
 "|camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-"
 "solutions>`_ (based in France, Germany and Switzerland) Open Source "
@@ -72,7 +81,11 @@ msgid ""
 "technologies."
 msgstr "|camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-solutions>`_ (con sede en Francia, Alemania y Suiza) Especialista en  Código Libre, Camptocamp es una empresa innovadora en la implementación de software de sistemas de información geográfica (SIG) , gestión empresarial (ERP) y gestión de servidor. Para implementar sus proyectos más ambiciosos, Camptocamp crea soluciones personalizadas basadas en las mejores tecnologías de Código Libre."
 
-#: ../../source/site/forusers/commercial_support.rst:47
+#: ../../source/site/forusers/commercial_support.rst:46
+msgid "chartistech"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:49
 msgid ""
 "|chartistech| `Chartis Technology "
 "<http://chartistechnology.com/products/qgis>`_ (based in Australia) Chartis "
@@ -84,7 +97,11 @@ msgid ""
 "development, support and training."
 msgstr "|chartistech| `Chartis Technology <http://chartistechnology.com/products/qgis>`_ (con sede en Australia) Chartis Technology es un proveedor de soluciones geoespaciales con sede en Australia. Nuestro objetivo es desarrollar, utilizar e implementar tecnología espacial compleja para mejorar a nuestros clientes y la capacidad de la comunidad para hacer frente a problemas espaciales. Distribuimos IntraMaps, FME (software seguro) y trabajamos con una variedad de software de código abierto. Estamos comprometidos a apoyar a la comunidad QGIS ofreciendo desarrollo, soporte y formación."
 
-#: ../../source/site/forusers/commercial_support.rst:59
+#: ../../source/site/forusers/commercial_support.rst:58
+msgid "faunalia"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:61
 msgid ""
 "|faunalia| `Faunalia <http://www.faunalia.eu/>`_ (based in Italy and "
 "operating worldwide) provides development services (both core and plugins), "
@@ -92,14 +109,22 @@ msgid ""
 "PostgreSQL/PostGIS."
 msgstr "|faunalia| `Faunalia <http://www.faunalia.eu/>`_ (basado en Italia y operando globalmente) provee servicios de desarrollo (tanto al núcleo como complementos), capacitación, y soporte comercial para QGIS, GRASS, GDAL/OGR, y PostgreSQL/PostGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:68
+#: ../../source/site/forusers/commercial_support.rst:67
+msgid "gbd-consult"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:70
 msgid ""
 "|gbd-consult| `Geoinformatikbüro Dassau <http://www.gbd-consult.de/>`_ "
 "(based in Düsseldorf, Germany) provides commercial consulting, training, "
 "support and programing for QGIS, GRASS and other FOSS applications."
 msgstr "|gbd-consult| `Geoinformatikbüro Dassau <http://www.gbd-consult.de/>`_ (basado en Düsseldorf, Alemania) provee consultoría comercial, capacitación, apoyo y programación para QGIS, GRASS y otras aplicaciones FOSS."
 
-#: ../../source/site/forusers/commercial_support.rst:77
+#: ../../source/site/forusers/commercial_support.rst:76
+msgid "itopen"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:79
 msgid ""
 "|itopen| `It Open <http://www.itopen.it/>`_ (based in Italy) provides "
 "commercial support and C++/Python development services for QGIS Desktop and "
@@ -107,7 +132,11 @@ msgid ""
 " both the web and the server side."
 msgstr "|itopen| `It Open <http://www.itopen.it/>`_ (basado en Italia) proveeo soporte comercial y servicios de desarrollo C++/Python para QGIS Desktop y Server, PostGIS, Django y otros paquetes de software libre y código abierto tanto para la web como para servidor."
 
-#: ../../source/site/forusers/commercial_support.rst:86
+#: ../../source/site/forusers/commercial_support.rst:85
+msgid "kartoza"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:88
 msgid ""
 "|kartoza| `Kartoza (Pty) Ltd. <http://kartoza.com>`_ (with offices in "
 "Stellenbosch and Johannesburg, South Africa). We provide commercial support "
@@ -116,14 +145,22 @@ msgid ""
 " QGIS. **Note:** Kartoza was formerly known as Linfiniti Consulting."
 msgstr "|kartoza| `Kartoza (Pty) Ltd. <http://kartoza.com>`_ (con oficinas en Stellenbosch y Johannesburg, Sudáfrica). Brindamos soporte comercial y capacitación para QGIS Escritorio y Servidor y desarrollamos funciones para QGIS por contrato. También desarrollamos complementos en Python y C++ para QGIS. ** Nota: ** Kartoza se conocía anteriormente como Linfiniti Consulting."
 
-#: ../../source/site/forusers/commercial_support.rst:97
+#: ../../source/site/forusers/commercial_support.rst:96
+msgid "lutra_consulting"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:99
 msgid ""
 "|lutra_consulting| `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ "
 "(based in the UK) provide training, support and bespoke software development"
 " services for QGIS."
 msgstr "|lutra_consulting| `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ (con base en el Reino Unido) provee capacitación , soporte y servicios de desarrollo personalizado de software para QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:106
+#: ../../source/site/forusers/commercial_support.rst:105
+msgid "naturalgis"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:108
 msgid ""
 "|naturalgis| `NaturalGIS <http://www.naturalgis.pt/>`_ (based in Portugal) "
 "provides training, development and commercial support for a number of Open "
@@ -131,7 +168,11 @@ msgid ""
 "PostGIS and custom WebGIS development."
 msgstr "|naturalgis| `NaturalGIS <http://www.naturalgis.pt/>`_ (basado en Portugal) provee capacitación, desarrollo y soporte comercial para varios software SIG Código Abierto. Nos especializamos en QGIS (Escritorio, Servidor y Web), PostGIS y desarrollo SIGWeb personalizado."
 
-#: ../../source/site/forusers/commercial_support.rst:116
+#: ../../source/site/forusers/commercial_support.rst:115
+msgid "norbit"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:118
 msgid ""
 "|norbit| `norBIT GmbH <http://www.norbit.de/64>`_ (based in Norden, Germany;"
 " etablished 1989) provides solutions mainly for local goverments, municipal "
@@ -140,7 +181,11 @@ msgid ""
 "actively contributing to the QGIS project since 2007."
 msgstr "|norbit| `norBIT GmbH <http://www.norbit.de/64>`_ (con base en Norden, Alemania; fundada en 1989) provee soluciones relacionadas con QGIS principalmente para gobiernos locales, servicios municipales y centros regionales de gestión de aguas. Adicionalmente, proveemos formación, apoyo comercial y programación personalizada en QGIS; hemos estado contribuyendo activamente al proyecto QGIS desde 2007."
 
-#: ../../source/site/forusers/commercial_support.rst:127
+#: ../../source/site/forusers/commercial_support.rst:126
+msgid "north_road"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:129
 msgid ""
 "|north_road| `North Road <http://north-road.com/>`_ (based in Australia) "
 "specialises in custom development solutions for QGIS features and fixes, and"
@@ -150,7 +195,11 @@ msgid ""
 " codebase since 2013."
 msgstr "|north_road| `North Road <http://north-road.com/>`_ (con sede en Australia) se especializa en soluciones de desarrollo personalizadas para características y arreglos de QGIS, y también ofrece capacitación y soporte comercial en la pila geoespacial de código abierto. North Road tiene una historia establecida en el desarrollo de calidad QGIS, y ha sido responsable de miles de características y correcciones dentro de la base de código QGIS desde 2013."
 
-#: ../../source/site/forusers/commercial_support.rst:139
+#: ../../source/site/forusers/commercial_support.rst:138
+msgid "opengisch"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:141
 msgid ""
 "|opengisch| `OPENGIS.ch <http://opengis.ch/>`_ (based near Bern and Chur, "
 "Switzerland, operating worldwide) provides support, training and development"
@@ -159,14 +208,22 @@ msgid ""
 "Android) and more."
 msgstr "|opengisch| `OPENGIS.ch <http://opengis.ch/>`_ (basado cerca de Bern y Chur, Suiza, operan a nivel mundial) provee soporte, capacitación y desarrollo para su pila SIG de código abierto. Nuestros desarrolladores núcleo QGIS son expertos en C++. Python, SQL, análisis geoespacial, desarrollo móvil (incluyendo Android) y más."
 
-#: ../../source/site/forusers/commercial_support.rst:150
+#: ../../source/site/forusers/commercial_support.rst:149
+msgid "oslandia"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:152
 msgid ""
 "|oslandia| `Oslandia <http://www.oslandia.com/?page_id=20>`_ (based in "
 "France) provides services on open source GIS. Oslandia offers training, "
 "support, development and consulting, namely on QGIS and PostGIS."
 msgstr "|oslandia| `Oslandia <http://www.oslandia.com/?page_id=20>`_ (basado en Francia) provee servicios con SIG código abierto. Oslandia ofrece capacitación, soporte, desarrollo y consultoría, estos es con QGIS y PostGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:159
+#: ../../source/site/forusers/commercial_support.rst:158
+msgid "qcooperative"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:161
 msgid ""
 "|qcooperative| `QCooperative <https://www.qcooperative.net/>`_ (based and "
 "operating worldwide) provides services on several Open Source GIS software "
@@ -174,7 +231,11 @@ msgid ""
 "analysis, quality assurance, and commercial helpdesk support."
 msgstr "|qcooperative| `QCooperative <https://www.qcooperative.net/>`_ (con sede y operación en todo el mundo) brinda servicios en varios software de código abierto GIS (QGIS, QGIS Server, PostGIS) que incluyen desarrollo, capacitación, análisis espacial, control de calidad y servicio de asistencia comercial."
 
-#: ../../source/site/forusers/commercial_support.rst:170
+#: ../../source/site/forusers/commercial_support.rst:169
+msgid "sourcepole"
+msgstr "sourcepole"
+
+#: ../../source/site/forusers/commercial_support.rst:172
 msgid ""
 "|sourcepole| `Sourcepole <http://www.sourcepole.com/>`_ (based in Zurich, "
 "Switzerland and operating worldwide) provides FOSSGIS training, commercial "
@@ -183,14 +244,22 @@ msgid ""
 "developments for QGIS."
 msgstr "|sourcepole| `Sourcepole <http://www.sourcepole.com/>`_ (con sede en Zúrich, Suiza y con operaciones en todo el mundo) proporciona formación FOSSGIS, soporte comercial y contratos de mantenimiento, así como alojamiento geográfico en la nube para QGIS. Con tres colaboradores principales, Sourcepole puede ofrecer desarrollos sofisticados para QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:181
+#: ../../source/site/forusers/commercial_support.rst:180
+msgid "terglobo"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:183
 msgid ""
 "|terglobo| `Terglobo <https://www.terglobo.nl/>`_ (based in "
 "'s-Hertogenbosch, The Netherlands) provides commercial services and training"
 " for QGIS."
 msgstr "|terglobo| `Terglobo <https://www.terglobo.nl/>`_ (con sede en 's-Hertogenbosch, Países Bajos) proporciona servicios comerciales y formación para QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:189
+#: ../../source/site/forusers/commercial_support.rst:188
+msgid "zuidtlogo"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:191
 msgid ""
 "|zuidtlogo| `Zuidt <http://zuidt.nl/>`_ (based in Haarlem, The Netherlands) "
 "wants Geographical Information to be open and simple. Zuidt wants to be THE "
@@ -198,22 +267,30 @@ msgid ""
 "coding and training services."
 msgstr "|zuidtlogo| `Zuidt <http://zuidt.nl/>`_ (con sede en Haarlem, Países Bajos) quiere que la información geográfica sea abierta y simple. Zuidt quiere ser EL especialista holandés (internacional) de QGIS y brinda servicios de consultoría, codificación de complementos y formación."
 
-#: ../../source/site/forusers/commercial_support.rst:197
+#: ../../source/site/forusers/commercial_support.rst:199
 msgid "Contributors"
 msgstr "Colaboradores"
 
-#: ../../source/site/forusers/commercial_support.rst:204
+#: ../../source/site/forusers/commercial_support.rst:203
+msgid "cartoexpert"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:206
 msgid ""
-"|cartoexpert| `CartoExpert <http://www.cartoexpert.com/index.php/formations"
-"/qgis-formation-quantum-gis.html>`_ (based in France) is a geomatics "
-"competence center offering both national and international services, "
-"consulting in cartography as well as geographical information systems. "
-"CartoExpert provide with technical support on QGIS, assistance in "
-"implementing QGIS within your organization, as well as GIS training on QGIS "
-"(Initiation, Improvement, workshops, mobile etc)."
+"|cartoexpert| `CartoExpert "
+"<http://www.cartoexpert.com/index.php/formations/qgis-formation-quantum-"
+"gis.html>`_ (based in France) is a geomatics competence center offering both"
+" national and international services, consulting in cartography as well as "
+"geographical information systems. CartoExpert provide with technical support"
+" on QGIS, assistance in implementing QGIS within your organization, as well "
+"as GIS training on QGIS (Initiation, Improvement, workshops, mobile etc)."
 msgstr "|cartoexpert| `CartoExpert <http://www.cartoexpert.com/index.php/formations/qgis-formation-quantum-gis.html>`_ (con sede en Francia) es un centro de competencia en geomática que ofrece servicios nacionales e internacionales, consultoría en cartografía y sistemas de información geográfica. CartoExpert proporciona asistencia técnica sobre QGIS, asistencia para implementar QGIS dentro de su organización, así como formación en SIG sobre QGIS (iniciación, mejora, talleres, dispositivos móviles, etc.)."
 
-#: ../../source/site/forusers/commercial_support.rst:217
+#: ../../source/site/forusers/commercial_support.rst:216
+msgid "gaia3d"
+msgstr "gaia3d"
+
+#: ../../source/site/forusers/commercial_support.rst:219
 msgid ""
 "|gaia3d| `Gaia3D, Inc. <http://www.gaia3d.com/>`_ (based in South Korea) is "
 "an open source GIS company in Korea. Gaia3D offers professional development "
@@ -221,7 +298,11 @@ msgid ""
 " OpenLayers"
 msgstr "|gaia3d| `Gaia3D, Inc. <http://www.gaia3d.com/>`_ (con sede en Corea del Sur) es una empresa GIS de código abierto en Corea. Gaia3D ofrece servicios de desarrollo profesional, formación, consultoría y soporte para QGIS, PostGIS, GeoServer y OpenLayers"
 
-#: ../../source/site/forusers/commercial_support.rst:227
+#: ../../source/site/forusers/commercial_support.rst:226
+msgid "KaplanOpenSource"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:229
 msgid ""
 "|KaplanOpenSource| `Kaplan Open Source <https://kaplanopensource.co.il/>`_ "
 "(based in Israel) is an Open Source consulting company that provides Open "
@@ -232,7 +313,11 @@ msgid ""
 "/ architecture."
 msgstr "|KaplanOpenSource| `Kaplan Open Source <https://kaplanopensource.co.il/>`_ (basada en Israel) es una compañía de consultoría en Código Abierto que suministra desarrollo GIS en Código Abierto, formación y soporte para empresas (privadas, municipales y gubernamentales) para QGIS (y complementos), PostgreSQL/PostGIS y GeoServer además de pericia en Python/Django. Manejamos también la Oficina de Programa de Código Abierto para compañías y construimos su estrategia / arquitectura de Código Abierto."
 
-#: ../../source/site/forusers/commercial_support.rst:234
+#: ../../source/site/forusers/commercial_support.rst:233
+msgid "LandGoed"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:236
 msgid ""
 "|LandGoed| `LandGoed <http://landgoed.it/>`_ (based in the Netherlands) "
 "provides commercial support, hosting services and training for all "
@@ -241,21 +326,33 @@ msgid ""
 "Netherlands."
 msgstr "|LandGoed| `LandGoed <http://landgoed.it/>`_ (bada en los Países Bajos) suministra soporte comercial, servicios de alojamiento y formación para todos los GIS de código abierto, incluyendo QGIS. Con más de cien años de experiencia en la formación y desarrollo, LandGoed es el principal proveedor de GIS de código abierto en los Países Bajos."
 
-#: ../../source/site/forusers/commercial_support.rst:243
+#: ../../source/site/forusers/commercial_support.rst:242
+msgid "nextgis"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:245
 msgid ""
 "|nextgis| `NextGIS <http://nextgis.org/>`_ (based in Moscow, Russia) "
 "provides commercial support, custom programming and training for QGIS, "
 "PostGIS and GRASS."
 msgstr "|nextgis| `NextGIS <http://nextgis.org/>`_ (establecida en Moscú, Rusia) proporciona soporte comercial, programación personalizada y formación para QGIS, PostGIS y GRASS."
 
-#: ../../source/site/forusers/commercial_support.rst:251
+#: ../../source/site/forusers/commercial_support.rst:250
+msgid "qtibia"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:253
 msgid ""
 "|qtibia| `QTIBIA Engineering <https://qtibia.ro//>`_ (based in Romania, "
 "operating worldwide) provides services, support and training on QGIS, "
 "Postgis and other FOSS with extra focus on the water/wastewater sector."
 msgstr "|qtibia| `QTIBIA Engineering <https://qtibia.ro//>`_ (con sede en Rumania, que opera en todo el mundo) brinda servicios, soporte y formación en QGIS, Postgis y otros FOSS con un enfoque adicional en el sector de agua/aguas residuales."
 
-#: ../../source/site/forusers/commercial_support.rst:260
+#: ../../source/site/forusers/commercial_support.rst:259
+msgid "septima"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:262
 msgid ""
 "|septima| `Septima <https://www.septima.dk/>`_ (based in Denmark). At "
 "Septima we provide training, support, consulting and development within a "
@@ -264,17 +361,25 @@ msgid ""
 "products."
 msgstr "|septima| `Septima <https://www.septima.dk/>`_ (con sede en Dinamarca). En Septima brindamos formación, soporte, consultoría y desarrollo dentro de una gama de proyectos geoespaciales de código abierto. Tenemos una amplia experiencia con el desarrollo de complementos QGIS, el servidor QGIS y la integración de QGIS con otros productos."
 
-#: ../../source/site/forusers/commercial_support.rst:268
+#: ../../source/site/forusers/commercial_support.rst:270
 msgid "Others"
 msgstr "Otros"
 
-#: ../../source/site/forusers/commercial_support.rst:273
+#: ../../source/site/forusers/commercial_support.rst:272
+msgid "agx"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:275
 msgid ""
 "|agx| `AdventGX <http://www.adventgx.com/>`_ (based in College Station, TX, "
 "USA) provides installation, training, and implementation support for QGIS."
 msgstr "|agx| `AdventGX <http://www.adventgx.com/>`_ (con sede en College Station, TX, EE. UU.) proporciona soporte de instalación, capacitación e implementación para QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:281
+#: ../../source/site/forusers/commercial_support.rst:280
+msgid "arxit"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:283
 msgid ""
 "|arxit| `arx it <https://arxit.com/>`_ (based in Geneva, Switzerland and "
 "Lyon/Paris in France) has 20 years of experience in the field of "
@@ -286,7 +391,11 @@ msgid ""
 "approach, thanks to our ISO 9001 quality certification."
 msgstr "|arxit| `arx it <https://arxit.com/>`_ (con sede en Ginebra, Suiza y Lyon / París en Francia) tiene 20 años de experiencia en el campo de la geoinformática. arx iT está especializado en Sistemas de Información Geográfica (GIS) y sistemas de geolocalización. Nuestra gama de servicios cubre todas las necesidades geomáticas / geoespaciales: consultoría y experiencia en GIS, Ingeniería de Datos Espaciales, Integración de soluciones personalizadas, Capacitación, Outsourcing de GIS y Mantenimiento de Aplicaciones de Terceros. Nuestros servicios son parte de un enfoque de calidad real, gracias a nuestra certificación de calidad ISO 9001."
 
-#: ../../source/site/forusers/commercial_support.rst:291
+#: ../../source/site/forusers/commercial_support.rst:290
+msgid "astun"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:293
 msgid ""
 "|astun| `Astun Technology <http://astuntechnology.com/>`_ (based in Surrey, "
 "UK) was formed in 2005 to provide open source and web-based GIS services to "
@@ -298,14 +407,22 @@ msgid ""
 "https://astuntechnology.com/"
 msgstr "|astun| `Astun Technology <http://astuntechnology.com/>`_ (con sede en Surrey, Reino Unido) se formó en 2005 para proporcionar servicios SIG de código abierto y basados en la web a los gobiernos locales y centrales. En la actualidad, a medida que todas las organizaciones se dan cuenta de los beneficios técnicos y financieros del uso de soluciones en la nube para crear, administrar y entregar sus servicios GEO cruciales, la demanda del conocimiento y la experiencia de Astun en la entrega de soluciones en la nube GIS totalmente administradas y basadas en AWS continúa creciendo. Para mayor información por favor visite https://astuntechnology.com/"
 
-#: ../../source/site/forusers/commercial_support.rst:299
+#: ../../source/site/forusers/commercial_support.rst:298
+msgid "bev"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:301
 msgid ""
 "|bev| `Bird's Eye View GIS <http://www.birdseyeviewgis.com/>`_ (based in "
 "Albuquerque, New Mexico, USA) provides commercial GIS services and support "
 "and training in QGIS, GRASS GIS and other FOSS GIS applications."
 msgstr "|bev| `Bird's Eye View GIS <http://www.birdseyeviewgis.com/>`_ (con sede en Albuquerque, Nuevo México, EE. UU.) proporciona servicios de GIS comerciales y soporte y capacitación en QGIS, GRASS GIS y otras aplicaciones de FOSS GIS."
 
-#: ../../source/site/forusers/commercial_support.rst:308
+#: ../../source/site/forusers/commercial_support.rst:307
+msgid "champslibres"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:310
 msgid ""
 "|champslibres| `Champs Libres Coopérative <https://www.champs-"
 "libres.coop/>`_ is a Belgian company working in the field of geomatics and "
@@ -314,7 +431,11 @@ msgid ""
 "utilisation of QGIS and/or for the development of QGIS plugins."
 msgstr "|champslibres| `Champs Libres Coopérative <https://www.champs-libres.coop/>`_ es una empresa belga que trabaja en el campo de la geomática y el desarrollo de software de código abierto. Regularmente organizamos capacitación QGIS en nuestra oficina o en las instalaciones de nuestros clientes. También ofrecemos soporte para la utilización de QGIS y/o para el desarrollo de complementos QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:315
+#: ../../source/site/forusers/commercial_support.rst:314
+msgid "clear_mapping_co"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:317
 msgid ""
 "|clear_mapping_co| `Clear Mapping Co <http://www.clearmapping.co.uk/>`_ "
 "(based in Penryn, Cornwall, UK) is an award-winning international "
@@ -325,7 +446,11 @@ msgid ""
 "maps."
 msgstr "|clear_mapping_co| `Clear Mapping Co <http://www.clearmapping.co.uk/>`_ (con sede en Penryn, Cornwall, Reino Unido) es una consultora internacional de diseño cartográfico galardonada. Creamos hermosos mapas para mejorar la eficiencia en el lugar de trabajo con un enfoque de diseño inclusivo y sostenible. Nuestros cursos de formación GIS a medida en QGIS y otro software GIS ofrecen la oportunidad de mejorar la eficiencia en el manejo de datos espaciales y la creación de mapas claros."
 
-#: ../../source/site/forusers/commercial_support.rst:323
+#: ../../source/site/forusers/commercial_support.rst:322
+msgid "esdm"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:325
 msgid ""
 "|esdm| `exeGesIS SDM Ltd <https://www.esdm.co.uk/>`_ are based in South "
 "Wales in the UK. We offer support and training courses at various levels, "
@@ -334,7 +459,11 @@ msgid ""
 "as the development of plug-ins to meet your business requirements."
 msgstr "|esdm| `exeGesIS SDM Ltd <https://www.esdm.co.uk/>`_ tienen su sede en el sur de Gales en el Reino Unido. Ofrecemos cursos de apoyo y capacitación en varios niveles, públicos o privados, junto con talleres y tutorías a medida. Podemos ayudarlo con la transición de soluciones SIG alternativas a QGIS, así como con el desarrollo de complementos para cumplir con los requisitos de su negocio."
 
-#: ../../source/site/forusers/commercial_support.rst:330
+#: ../../source/site/forusers/commercial_support.rst:329
+msgid "fossacademy"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:332
 msgid ""
 "|fossacademy| `FOSS Academy <http://www.foss-academy.com/>`_ (based in Bonn,"
 " Germany) FOSS Academy is a training institute and offers various courses, "
@@ -343,7 +472,11 @@ msgid ""
 " operated by WhereGroup."
 msgstr "|fossacademy| `FOSS Academy <http://www.foss-academy.com/>`_ (con sede en Bonn, Alemania) FOSS Academy es un instituto de formación y ofrece varios cursos, desde lecciones para principiantes hasta cursos avanzados de programación de Python para QGIS, así como seminarios web gratuitos en línea sobre temas relacionados con QGIS. El instituto es operado por WhereGroup."
 
-#: ../../source/site/forusers/commercial_support.rst:338
+#: ../../source/site/forusers/commercial_support.rst:337
+msgid "geoicon"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:340
 msgid ""
 "|geoicon| `GeoICON <http://www.geoicon.com/>`_ (based in Singapore and "
 "operating in South East Asia) has been working with Government organizations"
@@ -351,7 +484,11 @@ msgid ""
 " training and commercial support."
 msgstr "|geoicon| `GeoICON <http://www.geoicon.com/>`_ (con sede en Singapur y que opera en el sudeste asiático) ha trabajado con organizaciones gubernamentales durante más de 10 años y ofrece una gama completa de servicios en torno a QGIS, incluida la formación y el apoyo comercial."
 
-#: ../../source/site/forusers/commercial_support.rst:348
+#: ../../source/site/forusers/commercial_support.rst:347
+msgid "gtsicon"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:350
 msgid ""
 "|gtsicon| `Geospatial Training Solutions (Dr Nick Bearman) "
 "<https://www.geospatialtrainingsolutions.co.uk/>`_ is based in Cornwall, UK "
@@ -363,7 +500,11 @@ msgid ""
 "spatial data to improve your bottom line."
 msgstr "|gtsicon| `Geospatial Training Solutions (Dr Nick Bearman) <https://www.geospatialtrainingsolutions.co.uk/>`_ tiene su sede en Cornwall, Reino Unido, y ofrece cursos de formación GIS a medida para investigadores, profesionales y estudiantes. Utilizo QGIS en gran parte de mi trabajo de consultoría y enseño a una amplia variedad de expertos en temas a comprender y trabajar con datos espaciales. Puedo mostrarle a su grupo u organización de investigación cómo puede obtener más de sus datos espaciales y cómo crear mejores mapas para sus publicaciones o utilizar datos espaciales para mejorar sus resultados."
 
-#: ../../source/site/forusers/commercial_support.rst:355
+#: ../../source/site/forusers/commercial_support.rst:354
+msgid "gispoicon"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:357
 msgid ""
 "|gispoicon| `Gispo Ltd <https://www.gispo.fi/en/home/>`_ (based in Finland)."
 " We drive our customers to success in delivering pragmatic solutions for "
@@ -372,13 +513,21 @@ msgid ""
 "customers. We strongly believe that openness wins."
 msgstr "|gispoicon| `Gispo Ltd <https://www.gispo.fi/en/home/>`_ (basada en Finlandia). Llevamos a nuestros clientes al éxito en la entrega de soluciones pragmáticas para las decisiones estratégicas usando software geoespacial de código abierto. Ofrecemos soporte y formación en QGIS, GeoServer, PostGIS, GDAL/OGR y MapProxy a nuestros clientes. Creemos fuertemente que la apertura gana."
 
-#: ../../source/site/forusers/commercial_support.rst:365
+#: ../../source/site/forusers/commercial_support.rst:364
+msgid "gis3w"
+msgstr "gis3w"
+
+#: ../../source/site/forusers/commercial_support.rst:367
 msgid ""
 "|gis3w| `gis3w <http://www.gis3w.it/>`_ (based in italy) provide geographic "
 "and ecological analysis services and support and assistance with qgis."
 msgstr "|gis3w| `GIS3W <http://www.gis3w.it/>`_ (ubicado en Italia) ofrece servicios de análisis geográfico y ecológico y soporte y asistencia con QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:373
+#: ../../source/site/forusers/commercial_support.rst:372
+msgid "claasleiner"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:375
 msgid ""
 "|claasleiner| `GKG Kassel, Germany (Dr.-Ing. Claas Leiner) <http://www.gkg-"
 "kassel.de/>`_ provides training, services and support around the free "
@@ -386,28 +535,43 @@ msgid ""
 "spatial data management, analysis and cartography."
 msgstr "|claasleiner| `GKG Kassel, Germany (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_ brinda capacitación, servicios y soporte en torno a los sistemas gratuitos de información geográfica QGIS, GRASS, SAGA y PostGIS, así como gestión de datos espaciales, análisis y cartografía."
 
-#: ../../source/site/forusers/commercial_support.rst:382
+#: ../../source/site/forusers/commercial_support.rst:381
+msgid "geolis"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:384
+msgid ""
+"|geolis| `Geolis <https://www.geolis.ch/>`_ (based in Lucerne, Switzerland) "
+"provides commercial GIS consulting, support and training in QGIS."
+msgstr "|geolis| `Geolis <https://www.geolis.ch/>`_ (basado en Lucerna, Suiza) provee consultoría SIG comercial, soporte y capacitación en QGIS."
+
+#: ../../source/site/forusers/commercial_support.rst:389
+msgid "imt"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:392
 msgid ""
 "|imt| `The Institute For Mapping Technology <http://learninggis.com/>`_ "
 "(based in Austin, TX, USA) provides support and training for QGIS and "
 "PostGIS."
 msgstr "|imt| `The Institute For Mapping Technology <http://learninggis.com/>`_ (con sede en Austin, TX, EE. UU.) brinda soporte y capacitación para QGIS y PostGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:390
+#: ../../source/site/forusers/commercial_support.rst:397
+msgid "karttakeskus"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:400
 msgid ""
 "|karttakeskus| `Karttakeskus <http://www.karttakeskus.fi/>`_ (based in "
 "Finland) provides commercial support and training for QGIS and open spatial "
 "data."
 msgstr "|karttakeskus| `Karttakeskus <http://www.karttakeskus.fi/>`_ (basado en Finlandia) provee soporte comercial y capacitación para QGIS y datos espaciales abiertos."
 
-#: ../../source/site/forusers/commercial_support.rst:398
-msgid ""
-"|liviostump| `Livio Stump <http://www.liviostump.ch>`_ (based in Lucerne, "
-"Switzerland) provides commercial GIS consulting, support and training in "
-"QGIS."
-msgstr "|liviostump| `Livio Stump <http://www.liviostump.ch>`_ (ubicado en Lucerne, Suiza) ofrece consultoría comercial GIS, soporte y enseñanza en QGIS."
+#: ../../source/site/forusers/commercial_support.rst:405
+msgid "mierune"
+msgstr ""
 
-#: ../../source/site/forusers/commercial_support.rst:406
+#: ../../source/site/forusers/commercial_support.rst:408
 msgid ""
 "|mierune| `Mierune Inc. <http://www.mierune.co.jp/>`_ (based in Japan) "
 "provides commercial consulting, training, support and customization of QGIS "
@@ -416,7 +580,11 @@ msgid ""
 "visualization or analysis involving positioning data."
 msgstr "|mierune| `Mierune Inc. <http://www.mierune.co.jp/>`_ (con sede en Japón) proporciona consultoría comercial, capacitación, soporte y personalización del software QGIS y FOSS4G. También organizamos talleres prácticos con estas herramientas. Póngase en contacto con nosotros si tiene preguntas sobre el desarrollo del sistema, la visualización o el análisis de datos de posicionamiento."
 
-#: ../../source/site/forusers/commercial_support.rst:413
+#: ../../source/site/forusers/commercial_support.rst:412
+msgid "ngnuity"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:415
 msgid ""
 "|ngnuity| `nGNUity.net- <http://ngnuity.net/>`_ FOSS advocate from the "
 "Philippines providing commercial GIS services, training, and consulting for "
@@ -426,16 +594,24 @@ msgid ""
 "Toolbox software stack."
 msgstr "|ngnuity| `nGNUity.net- <http://ngnuity.net/>`_ FOSS es un defensor de Filipinas que brinda servicios comerciales de SIG, capacitación y consultoría para QGIS, asistencia de visualización de datos espaciales a gobiernos locales, organizaciones sin fines de lucro, agencias de investigación y grupos comunitarios desde 2007. Ofrece varios servicios móviles de recolección y mapeo de datos utilizando el Open Data Kit / Pila de software KoBo Toolbox."
 
-#: ../../source/site/forusers/commercial_support.rst:424
+#: ../../source/site/forusers/commercial_support.rst:423
+msgid "northriver"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:426
 msgid ""
 "|northriver| `North River Geographic Systems, Inc "
-"<http://www.northrivergeographic.com/>`_ is a small GIS Consulting firm "
-"located in the Southeastern United States. We provide Geospatial services "
-"such as data conversion, ESRI and FOSS4G software support, cartography, and "
-"data analysis."
-msgstr "|northriver| `North River Geographic Systems, Inc <http://www.northrivergeographic.com/>`_ es una pequeña empresa de consultoría SIG ubicada en el sureste de los Estados Unidos. Brindamos servicios geoespaciales como conversión de datos, soporte de software ESRI y FOSS4G, cartografía y análisis de datos."
+"<http://www.northrivergeographic.com/>`_ is a geospatial consulting firm "
+"located in the United States. We provide support for QGIS, PostGIS, and a "
+"whole host of FOSS4G Software. NRGS also provides project based support for "
+"your organization including data support, cartography, and analysis."
+msgstr "|northriver| `North River Geographic Systems, Inc <http://www.northrivergeographic.com/>`_ es una firma de consultoría geoespacial ubicada en los Estados Unidos. Proveemos soporte en QGIS, PostGIS, y toda una serie de software FOSS4G. NRGS también provee soporte basado en proyecto para su organización incluyendo soporte, cartografía y análisis de datos."
 
-#: ../../source/site/forusers/commercial_support.rst:434
+#: ../../source/site/forusers/commercial_support.rst:433
+msgid "opengeolabs"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:436
 msgid ""
 "|opengeolabs| `OpenGeoLabs s.r.o <http://opengeolabs.cz/>`_ (based in "
 "Prague, The Czech Republic) provides training courses (using `GISMentors "
@@ -443,21 +619,46 @@ msgid ""
 "development for open source software for geospatial."
 msgstr "|opengeolabs| `OpenGeoLabs s.r.o <http://opengeolabs.cz/>`_ (con sede en Praga, República Checa) ofrece cursos de formación (utilizando `GISMentors <http://gismentors.cz>` _ marca registrada), soporte técnico y desarrollo personalizado para software de código abierto para geoespacial."
 
-#: ../../source/site/forusers/commercial_support.rst:444
+#: ../../source/site/forusers/commercial_support.rst:443
+msgid "sigmoe"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:446
+msgid ""
+"|sigmoe| `SIGMOÉ <https://sigmoe.fr/>`_ (basé en France) propose des "
+"formations QGIS tous niveaux et personnalisées, assiste ses clients dans la "
+"modélisation et la mise en place de base de données SIG dans l'environnement"
+" QGIS, et réalise, sur demande, le développement d'extensions QGIS "
+"spécialisées dans différents domaines d'applications."
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:454
+msgid "soltig"
+msgstr "soltig"
+
+#: ../../source/site/forusers/commercial_support.rst:457
 msgid ""
 "|soltig| `Soluciones en Tecnologías de Información Geográfica (SOLTIG)  "
 "<http://www.soltig.net/>`_ (based in Costa Rica) provides training, support,"
 " consulting and programming for QGIS and other FOSS applications."
 msgstr "|soltig| `Soluciones en Tecnologías de Información Geográfica (SOLTIG) <http://www.soltig.net/>`_ (con sede en Costa Rica) proporciona formación, soporte, consultoría y programación para QGIS y otras aplicaciones FOSS."
 
-#: ../../source/site/forusers/commercial_support.rst:452
+#: ../../source/site/forusers/commercial_support.rst:462
+msgid "sungis"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:465
 msgid ""
 "|sungis| `SunGIS <http://www.sungis.lv/>`_ (based in Valmiera, Latvia) "
 "provides commercial support, consulting, data processing and custom "
 "programming for QGIS, GRASS GIS and FOSS GIS based SDI solutions."
 msgstr "|sungis| `SunGIS <http://www.sungis.lv/>`_ (basado en Valmiera, Letonia) provee soporte comercial, consultoría, procesamiento de datos y programación personalizada para QGIS, GRASS GIS y soluciones de IDE basada en SIG SLCA (software libre y código abierto)."
 
-#: ../../source/site/forusers/commercial_support.rst:461
+#: ../../source/site/forusers/commercial_support.rst:471
+msgid "sygif"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:474
 msgid ""
 "|sygif| `Le Groupe SYGIF Inc. <http://www.sygif.qc.ca/>`_ (based in "
 "Rimouski, Quebec, Canada) specializes in the development of information "
@@ -467,14 +668,22 @@ msgid ""
 "products."
 msgstr "|sygif| `Le Groupe SYGIF Inc. <http://www.sygif.qc.ca/>`_ (con sede en Rimouski, Quebec, Canadá) se especializa en el desarrollo de tecnologías de la información (SIG) destinadas a la gestión integrada de la tierra. La compañía desarrolla y apoya herramientas complementarias para QGIS y MapServer y también tiene un reconocimiento de la compañía ESRI como desarrollador y revendedor de sus productos."
 
-#: ../../source/site/forusers/commercial_support.rst:468
+#: ../../source/site/forusers/commercial_support.rst:478
+msgid "taxusit"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:481
 msgid ""
 "|taxusit| `TAXUS IT <http://taxusit.com.pl>`_ (based in Warszawa, Poland) "
 "provides commercial GIS services also support and training in QGIS and "
 "GRASS."
 msgstr "|taxusit| `TAXUS IT <http://taxusit.com.pl>`_ (basado in Warszawa, Polonia) provee servicios SIG comerciales y también apoyo y capacitación en QGIS y GRASS."
 
-#: ../../source/site/forusers/commercial_support.rst:476
+#: ../../source/site/forusers/commercial_support.rst:486
+msgid "terraplan"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:489
 msgid ""
 "|terraplan| `Terraplan <http://www.terraplan.com/>`_ (Schallstadt/Freiburg, "
 "Germany) provides training and GIS consulting for QGIS. The focus is on "
@@ -482,14 +691,34 @@ msgid ""
 "the full replacement of other commercial GIS solutions."
 msgstr "|terraplan| `Terraplan <http://www.terraplan.com/>`_ (Schallstadt / Freiburg, Alemania) ofrece formación y consultoría SIG para QGIS. La atención se centra en la consultoría para municipios que van desde la introducción de QGIS hasta el reemplazo total de otras soluciones comerciales de SIG."
 
-#: ../../source/site/forusers/commercial_support.rst:484
+#: ../../source/site/forusers/commercial_support.rst:494
+msgid "terrestris"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:497
 msgid ""
 "|terrestris| `Terrestris "
 "<http://www.terrestris.de/dienstleistungen/schulungen/>`_ (Bonn, Germany) "
 "provides commercial services and training for QGIS."
 msgstr "|terrestris| `Terrestris <http://www.terrestris.de/dienstleistungen/schulungen/>`_ (Bonn, Alemana) ofrece servicios comerciales y de enseñanza para QGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:492
+#: ../../source/site/forusers/commercial_support.rst:502
+msgid "territoires"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:505
+msgid ""
+"|territoires| `Territoires <https://www.territoires.bio/>`_ (Saint-Camille, "
+"Quebec, Canada) offers custom (theme, length and content) training with QGIS"
+" for a diversified clientele. It also provides support for the design and "
+"execution of ecological and geographic studies with QGIS."
+msgstr "|territoires| `Territoires <https://www.territoires.bio/>`_ (Saint-Camille, Quebec, Canada) ofrece capacitación personalizada (tema, duración y contenido) con QGIS para una clientela diversificada. También provee soporte para el diseño y ejecución de estudios ecológicos y geográficos con QGIS."
+
+#: ../../source/site/forusers/commercial_support.rst:510
+msgid "thinkwhere"
+msgstr ""
+
+#: ../../source/site/forusers/commercial_support.rst:513
 msgid ""
 "|thinkwhere| `thinkWhere <http://www.thinkwhere.com/>`_ (Stirling, Scotland)"
 " thinkWhere is an independent GIS consultancy in the UK.  We provide a broad"
@@ -500,12 +729,40 @@ msgid ""
 "courses."
 msgstr "|thinkwhere| `thinkWhere <http://www.thinkwhere.com/>`_ (Stirling, Escocia) thinkWhere es una consultora independiente de SIG en el Reino Unido. Ofrecemos una amplia gama de productos y servicios SIG innovadores, incluido el \"Centro de ubicación\" (un SIG alojado en la nube creado a partir de tecnologías de código abierto). Como sitio de QGIS, nuestro equipo de expertos geoespaciales usa QGIS a diario y brinda soporte de QGIS a los clientes. También realizamos cursos regulares de formación de QGIS y PostGIS."
 
-#: ../../source/site/forusers/commercial_support.rst:505
+#: ../../source/site/forusers/commercial_support.rst:523
+msgid "whg"
+msgstr "whg"
+
+#: ../../source/site/forusers/commercial_support.rst:526
 msgid ""
 "|whg| `WhereGroup <http://www.wheregroup.com/>`_ (Bonn, Germany) WhereGroup "
 "provides the full spectrum of services around QGIS including custom "
 "programming, commercial support and trainings."
 msgstr "|whg| `WhereGroup <http://www.wheregroup.com/>`_ (Bonn, Germany) WhereGroup proporciona el espectro completo de servicios en torno a QGIS, incluyendo programación personalizada, soporte comercial y capacitación."
+
+#: ../../source/site/forusers/commercial_support.rst:531
+msgid "WIGeoGIS"
+msgstr "WIGeoGIS"
+
+#: ../../source/site/forusers/commercial_support.rst:534
+msgid ""
+"|WIGeoGIS| `WIGeoGIS <http://www.wigeogis.com/>`_ WIGeoGIS (based in Munich,"
+" Germany and Vienna, Austria) provides a wide range of QGIS plugins "
+"specifically designed for geomarketing and spatial business analysis "
+"together with market data. The following functionalities are covered by the "
+"plugins: batch-geocoding and address search, calculation of travel-time "
+"isochrones and distance matrices, Huff-Gravity-Models and Territory-"
+"Planning. In addition to the plugins WIGeoGIS also offers webgis, commercial"
+" training, market data and support for QGIS."
+msgstr "|WIGeoGIS| `WIGeoGIS <http://www.wigeogis.com/>`_ WIGeoGIS (basada en Munich, Alemania y Viena, Austria) ofrece una amplia gama de complementos QGIS específicamente diseñados para geomercadotecnia y análisis espacial de negocios junto con datos de mercado. Las siguientes funcionalidades están cubiertas por los complementos: geocodificación por lotes y búsqueda de dirección, cálculo de isócronas de tiempo de viaje y matrices de distancia, Modelos Huff-Gravity y Planificación de Territorio. Adicionalmente a los complementos, WIGeoGIS también ofrece sig web, capacitación comercial, datos de mercado y soporte en QGIS."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ msgstr ""
@@ -633,4 +890,24 @@ msgstr "|whg| `WhereGroup <http://www.wheregroup.com/>`_ (Bonn, Germany) WhereGr
 #~ "technologies). As a QGIS site, our team of geospatial experts use QGIS on a "
 #~ "daily basis and provide QGIS Support to customers.  We also run regular QGIS"
 #~ " and PostGIS Training courses."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "|northriver| `North River Geographic Systems, Inc "
+#~ "<http://www.northrivergeographic.com/>`_ is a small GIS Consulting firm "
+#~ "located in the Southeastern United States. We provide Geospatial services "
+#~ "such as data conversion, ESRI and FOSS4G software support, cartography, and "
+#~ "data analysis."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Do you plan to use QGIS in your company or organization, but worry about "
+#~ "whether there is commercial support available? Here is an alphabetical list,"
+#~ " divided in categories, of support contractors."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "|liviostump| `Livio Stump <http://www.liviostump.ch>`_ (based in Lucerne, "
+#~ "Switzerland) provides commercial GIS consulting, support and training in "
+#~ "QGIS."
 #~ msgstr ""

@@ -8,15 +8,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2019-11-14 18:08+0000\n"
-"Last-Translator: Stefano Campus <skampus@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:13+0000\n"
+"Last-Translator: Andrea Giudiceandrea <andreaerdna@libero.it>, 2019\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:5
+msgid "Changelog for QGIS 2.2"
+msgstr "Elenco cambiamenti per QGIS 2.2"
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:7
 msgid ""
@@ -84,6 +89,16 @@ msgid ""
 "<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__."
 msgstr "Una lista di donazioni al progetto si trova qui `<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__."
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:44
+msgid ""
+"If you would like to make a donation or sponsor our project, please visit "
+"`our sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
+"details. QGIS is Free software and you are under no obligation to do so. "
+"Sponsoring QGIS helps us to fund our six monthly developer meetings, "
+"maintain project infrastructure and fund bug fixing efforts."
+msgstr "Se desiderate fare una donazione o sponsorizzare il nostro progetto, visitate la nostra `pagina <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ per maggiori informazioni. QGIS è un software libero e non avete nessun obbligo di fare donazioni. Sponsorizzare QGIS aiuterà il suo sviluppo, a realizzare gli incontri mensili con gli sviluppatori, a mantenere l'infrastruttura del progetto e a finanziare gli sforzi di correzione dei bug."
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:57
 msgid "Application and Project Options"
 msgstr "Applicazioni e Opzioni del progetto"
@@ -102,6 +117,10 @@ msgstr "Per i navigatori, è possibile ora misurare le distanze in miglia nautic
 #: ../../source/site/forusers/visualchangelog220/index.rst:66
 msgid "|image1|"
 msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:451
+msgid "image1"
+msgstr "image1"
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:69
 msgid "Data Providers"
@@ -126,6 +145,10 @@ msgstr "Questa versione ha la possibilità di definire relazioni 1:n. Le relazio
 msgid "|image2|"
 msgstr "|image2|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:452
+msgid "image2"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:86
 msgid "Feature: DXF Export tool"
 msgstr "Novità: strumento di esportazione DXF"
@@ -137,6 +160,10 @@ msgstr "Un nuovo strumento per l'esportazione DXF di è stato aggiunto al menu `
 #: ../../source/site/forusers/visualchangelog220/index.rst:90
 msgid "|image3|"
 msgstr "|image3|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:453
+msgid "image3"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:93
 msgid "Feature: Paste as new vector layer"
@@ -159,6 +186,10 @@ msgstr "Si tratta di un'attività comune in un GIS fare una selezione e quindi c
 #: ../../source/site/forusers/visualchangelog220/index.rst:106
 msgid "|image4|"
 msgstr "|image4|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:454
+msgid "image4"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:109
 msgid "Feature: WMS legend graphic in table of contents and composer"
@@ -184,6 +215,10 @@ msgstr "Cliccando sulla leggenda del layer si aprirà una cornice con la leggend
 msgid "|image5|"
 msgstr "|image5|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:455
+msgid "image5"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:124
 msgid "Digitising"
 msgstr "Digitalizzazione"
@@ -203,6 +238,10 @@ msgstr "Questo nuovo strumento è utilizzato per spezzare i buchi  in poligoni e
 msgid "|image6|"
 msgstr "|image6|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:456
+msgid "image6"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:136
 msgid "General"
 msgstr "Generale"
@@ -218,6 +257,10 @@ msgstr "Il costruttore di espressioni ora ricorderà le ultime 20 espressioni sc
 #: ../../source/site/forusers/visualchangelog220/index.rst:143
 msgid "|image7|"
 msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:457
+msgid "image7"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:146
 msgid "Feature: Paste WKT from clipboard"
@@ -249,6 +292,10 @@ msgstr "Nel compositore di stampe, puoi adesso scegliere i colori del bordo zebr
 msgid "|image8|"
 msgstr "|image8|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:458
+msgid "image8"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:165
 msgid "Feature: Element rotation support"
 msgstr "Novità: supporto alla rotazione degli elementi"
@@ -264,6 +311,10 @@ msgstr "Ogni elemento, inclusi barra di scala, tabelle e legende possono essere 
 #: ../../source/site/forusers/visualchangelog220/index.rst:172
 msgid "|image9|"
 msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:459
+msgid "image9"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:175
 msgid "Feature: Composer scale added and ruler improvements"
@@ -287,6 +338,10 @@ msgstr "L'aspetto dei righelli è stato migliorato aggiustando la logica della s
 msgid "|image10|"
 msgstr "|image10|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:460
+msgid "image10"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:191
 msgid "Feature: World file generation"
 msgstr "Novità: generazione del file world"
@@ -302,6 +357,10 @@ msgstr "Puoi creare mappe georeferenziate anche dal compositore di stampe! Scegl
 #: ../../source/site/forusers/visualchangelog220/index.rst:199
 msgid "|image11|"
 msgstr "|image11|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:461
+msgid "image11"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:202
 msgid "Feature: Working with multiple items"
@@ -322,9 +381,29 @@ msgstr "Puoi muovere e ridimensionare più elementi contemporaneamente. Tenendo 
 msgid "Feature: Atlas enhancements"
 msgstr "Novità: miglioramenti nell'atlante"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:216
+msgid ""
+"You can now preview the individual pages of the map atlas that will be "
+"generated in composer. While in atlas preview mode you can output the "
+"current page without outputting the entire atlas. You can also tweak the map"
+" extent or scale for each feature while previewing the atlas page. Atlas map"
+" settings have been moved from the atlas panel to the map properties panel, "
+"so now more than one map can be controlled by the atlas generation. There's "
+"a new option to automatically centre an overview map, which comes in handy "
+"when creating atlas based maps. More context information is now available so"
+" that you can adjust your symbology based on whether the feature is the "
+"current atlas feature or not. See `this article for more info "
+"<http://nathanw.net/2013/12/02/waiting-for-qgis-22-highlighting-current-"
+"atlas-feature/>`__."
+msgstr "Puoi ora vedere un'anteprima della pagine dell'atlante che stai per creare. Quando sei in modalità anteprima puoi creare l'output di quella pagina senza generare l'intero atlante e puoi anche aggiustare la scala e l'estensione di ogni elemento. Le impostazioni dell'atlante sono state spostate dal pannello dell'atlante a quello delle proprietà della mappa; in questo modo puoi controllare più mappe direttamente dalla scheda di generazione dell'atlante. È disponibile anche una nuova opzione per centrare la panoramica, opzione che si rivela molto utile quando si vuole generare un atlante. Sono anche disponibili più opzioni direttamente dalla scheda di generazione atlante così da poter migliorare la simbologia a seconda che un elemento sia o meno un elemento dell'atlante. Leggere questo `articolo per ulteriori informazioni <http://nathanw.net/2013/12/02/waiting-for-qgis-22-highlighting-current-atlas-feature/>`__."
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:229
 msgid "|image12|"
 msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:462
+msgid "image12"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:232
 msgid "Feature: Improved item selection"
@@ -395,6 +474,10 @@ msgstr "QGIS Server supporta già diversi standard, inclusi Web Map Service (WMS
 msgid "|image13|"
 msgstr "|image13|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:463
+msgid "image13"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:285
 msgid "Symbology"
 msgstr "Simbologia"
@@ -442,6 +525,10 @@ msgstr "Ulteriori informazioni `qui <http://nyalldawson.net/2014/01/waiting-for-
 msgid "|image14|"
 msgstr "|image14|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:464
+msgid "image14"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:307
 msgid "Feature: Label support for palleted rasters"
 msgstr "Novità: Supporto etichette per la tavolozza raster"
@@ -457,6 +544,10 @@ msgstr "**Supporto etichette per la tavolozza raster**: se hai categorizzato il 
 msgid "|image15|"
 msgstr "|image15|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:465
+msgid "image15"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:316
 msgid "Feature: Colour ramps can be inverted"
 msgstr "Novità: possibilità di invertire le scale di colori"
@@ -471,6 +562,10 @@ msgstr "è stata aggiunta la possibilità di invertire la scala di colori."
 msgid "|image16|"
 msgstr "|image16|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:466
+msgid "image16"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:324
 msgid "Feature: Copy and Paste in Rule based renderer"
 msgstr "Novità: Copia e incolla nello stile tramite regole"
@@ -484,6 +579,10 @@ msgstr "Ora puoi cliccare con il tasto destro su una regola che hai creato e cop
 #: ../../source/site/forusers/visualchangelog220/index.rst:329
 msgid "|image17|"
 msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:467
+msgid "image17"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:332
 msgid "Feature: On the fly feature generalisation"
@@ -504,6 +603,10 @@ msgstr "QGIS 2.2 introduce il supporto per la semplificazione 'al volo' delle ge
 msgid "|image18|"
 msgstr "|image18|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:468
+msgid "image18"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:346
 msgid "Feature: Anchor points can be set for marker layers"
 msgstr "Novità: Impostazione punti di ancoraggio per indicatori"
@@ -523,6 +626,10 @@ msgstr "Se hai applicato lo stile indicatore al tuo vettore (per esempio un simb
 msgid "|image19|"
 msgstr "|image19|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:469
+msgid "image19"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:360
 msgid "Feature: Thematic maps based on expressions"
 msgstr "Novità: Mappe tematiche usando un'espressione"
@@ -541,6 +648,10 @@ msgstr "Puoi creare mappe tematiche categorizzate o graduate usando il risultato
 msgid "|image20|"
 msgstr "|image20|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:470
+msgid "image20"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:372
 msgid "Feature: Expression support in symbol diagrams for size and attributes"
 msgstr "Novità: supporto alle espressioni nei diagrammi dei simboli per la dimensione e gli attributi"
@@ -555,6 +666,10 @@ msgstr "Ora è possibile inserire un'espressione per definire la dimensione e gl
 #: ../../source/site/forusers/visualchangelog220/index.rst:378
 msgid "|image21|"
 msgstr "|image21|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:471
+msgid "image21"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:381
 msgid "Feature: Else rule in rule based renderer"
@@ -583,6 +698,10 @@ msgstr "``ELSE (style red)``"
 msgid "|image22|"
 msgstr "|image22|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:472
+msgid "image22"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:395
 msgid "Feature: Inner stroke support for polygons"
 msgstr "Novità: Disegna linea solo all'interno del poligono"
@@ -603,6 +722,10 @@ msgstr "Ulteriori informazioni nella `seconda parte di questo articolo <http://n
 msgid "|image23|"
 msgstr "|image23|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:473
+msgid "image23"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:408
 msgid "User Interface"
 msgstr "Interfaccia utente"
@@ -622,6 +745,10 @@ msgstr "Tutti i sotto-menu sono stati aggiornati in modo che risultino più piac
 msgid "|image24|"
 msgstr "|image24|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:474
+msgid "image24"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:421
 msgid "Feature: Expression dialog improvements"
 msgstr "Novità: miglioramenti alla finestra di dialogo delle espressioni"
@@ -638,6 +765,10 @@ msgstr "Abbiamo aggiustato la finestra delle espressioni: gli utenti più espert
 #: ../../source/site/forusers/visualchangelog220/index.rst:429
 msgid "|image25|"
 msgstr "|image25|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:475
+msgid "image25"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:432
 msgid "Feature: New keybindings"
@@ -681,35 +812,21 @@ msgstr "Vedere anche `Issue 9094 <http://hub.qgis.org/issues/9094>`__ e `Pull Re
 msgid "|image26|"
 msgstr "|image26|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:44
-msgid ""
-"If you would like to make a donation or sponsor our project, please visit "
-"`our sponsorship page "
-"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
-"details. QGIS is Free software and you are under no obligation to do so. "
-"Sponsoring QGIS helps us to fund our six monthly developer meetings, "
-"maintain project infrastructure and fund bug fixing efforts."
-msgstr "Se desiderate fare una donazione o sponsorizzare il nostro progetto, visitate la nostra `pagina <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ per maggiori informazioni. QGIS è un software libero e non avete nessun obbligo di fare donazioni. Sponsorizzare QGIS aiuterà il suo sviluppo, a realizzare gli incontri mensili con gli sviluppatori, a mantenere l'infrastruttura del progetto e a finanziare gli sforzi di correzione dei bug."
+#: ../../source/site/forusers/visualchangelog220/index.rst:476
+msgid "image26"
+msgstr ""
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:216
-msgid ""
-"You can now preview the individual pages of the map atlas that will be "
-"generated in composer. While in atlas preview mode you can output the "
-"current page without outputting the entire atlas. You can also tweak the map"
-" extent or scale for each feature while previewing the atlas page. Atlas map"
-" settings have been moved from the atlas panel to the map properties panel, "
-"so now more than one map can be controlled by the atlas generation. There's "
-"a new option to automatically centre an overview map, which comes in handy "
-"when creating atlas based maps. More context information is now available so"
-" that you can adjust your symbology based on whether the feature is the "
-"current atlas feature or not. See `this article for more info "
-"<http://nathanw.net/2013/12/02/waiting-for-qgis-22-highlighting-current-"
-"atlas-feature/>`__."
-msgstr "Puoi ora vedere un'anteprima della pagine dell'atlante che stai per creare. Quando sei in modalità anteprima puoi creare l'output di quella pagina senza generare l'intero atlante e puoi anche aggiustare la scala e l'estensione di ogni elemento. Le impostazioni dell'atlante sono state spostate dal pannello dell'atlante a quello delle proprietà della mappa; in questo modo puoi controllare più mappe direttamente dalla scheda di generazione dell'atlante. È disponibile anche una nuova opzione per centrare la panoramica, opzione che si rivela molto utile quando si vuole generare un atlante. Sono anche disponibili più opzioni direttamente dalla scheda di generazione atlante così da poter migliorare la simbologia a seconda che un elemento sia o meno un elemento dell'atlante. Leggere questo `articolo per ulteriori informazioni <http://nathanw.net/2013/12/02/waiting-for-qgis-22-highlighting-current-atlas-feature/>`__."
+#: ../../source/site/forusers/visualchangelog220/index.rst:450
+msgid "image0"
+msgstr ""
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:5
-msgid "Changelog for QGIS 2.2"
-msgstr "Elenco cambiamenti per QGIS 2.2"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "|image0|"
 #~ msgstr ""

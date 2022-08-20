@@ -11,14 +11,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-07-12 14:43+0000\n"
 "Last-Translator: Pekka Sarkola <pekka.sarkola@gispo.fi>, 2020\n"
 "Language-Team: Finnish (https://www.transifex.com/qgis/teams/6144/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -43,6 +43,18 @@ msgid ""
 "For information on becoming a sustaining member, please visit "
 ":ref:`QGIS_sustaining_memberships`."
 msgstr "Lisätietoja kannatusjäsenyystä: :ref:`QGIS_sustaining_memberships`."
+
+#: ../../source/site/about/sustaining_members.rst:12
+msgid "small"
+msgstr ""
+
+#: ../../source/site/about/sustaining_members.rst:15
+msgid "medium"
+msgstr ""
+
+#: ../../source/site/about/sustaining_members.rst:18
+msgid "large"
+msgstr ""
 
 #: ../../source/site/about/sustaining_members.rst:24
 msgid "List of current sustaining members"
@@ -84,14 +96,10 @@ msgstr "Lahjoittajat"
 #: ../../source/site/about/sustaining_members.rst:43
 msgid ""
 "Donations can be of any amount, via our bank account, Stripe or Paypal "
-"(information available at :ref:`Donations <QGIS-donations>` page). Even a "
-"small donation can make a difference and help to reach important project "
-"goals!"
+"(information available at `Donations <https://donate.qgis.org>`__ page). "
+"Even a small donation can make a difference and help to reach important "
+"project goals!"
 msgstr ""
-"Kaikenkokoiset lahjoitukset ovat tervetulleita, pankkisiirtoina, Stripe- tai"
-" Paypal-maksuina (lisätietoja: :ref:`Donations <QGIS-donations>` page). "
-"Pienikin lahjoitus on merkittävä ja auttaa meitä saavuttamaan projektin "
-"tavoitteet."
 
 #: ../../source/site/about/sustaining_members.rst:47
 msgid ""
@@ -116,6 +124,14 @@ msgid ""
 msgstr ""
 "Lahoitukset QGIS-projektille ovat verovähennyskelpoisia useissa maissa. Kysy"
 " lisätietoja paikalliselta veroviranomaiselta."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "Sustaining members, sponsors and Donors"
 #~ msgstr "Kannatusjäsenet, sponsorit ja lahjoittajat"
@@ -159,3 +175,14 @@ msgstr ""
 
 #~ msgid "List of past sustaining members or sponsors"
 #~ msgstr "Entiset kannatusjäsenet ja sponsorit"
+
+#~ msgid ""
+#~ "Donations can be of any amount, via our bank account, Stripe or Paypal "
+#~ "(information available at :ref:`Donations <QGIS-donations>` page). Even a "
+#~ "small donation can make a difference and help to reach important project "
+#~ "goals!"
+#~ msgstr ""
+#~ "Kaikenkokoiset lahjoitukset ovat tervetulleita, pankkisiirtoina, Stripe- tai"
+#~ " Paypal-maksuina (lisätietoja: :ref:`Donations <QGIS-donations>` page). "
+#~ "Pienikin lahjoitus on merkittävä ja auttaa meitä saavuttamaan projektin "
+#~ "tavoitteet."

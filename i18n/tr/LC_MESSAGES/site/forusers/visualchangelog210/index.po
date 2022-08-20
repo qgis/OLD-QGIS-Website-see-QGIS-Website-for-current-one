@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-30 12:18+0100\n"
-"PO-Revision-Date: 2020-03-16 09:24+0000\n"
-"Last-Translator: selim <javurna@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-09-08 07:59+0000\n"
+"Last-Translator: Tolga <kasmakcac@yahoo.com>, 2018\n"
 "Language-Team: Turkish (http://www.transifex.com/qgis/qgis-website/language/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: tr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
@@ -83,6 +84,12 @@ msgid ""
 "financial support they provide to this project:"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:49
+msgid ""
+"**GOLD Sponsor:** `Asia Air Survey, Japan, "
+"<http://www.asiaairsurvey.com/>`__"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:51
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`__"
@@ -116,6 +123,12 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog210/index.rst:62
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:64
+msgid ""
+"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
+"<http://www.gkg-kassel.de/>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:66
@@ -234,6 +247,10 @@ msgstr ""
 msgid "|image14|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:648
+msgid "image14"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:123
 msgid "Feature: Layers with joins can now be filtered"
 msgstr ""
@@ -247,6 +264,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:129
 msgid "|image15|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:649
+msgid "image15"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:132
@@ -290,6 +311,10 @@ msgstr ""
 msgid "|image16|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:650
+msgid "image16"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:149
 msgid "Feature: Improved handling of potential project file overwrites"
 msgstr ""
@@ -311,6 +336,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:159
 msgid "|image17|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:651
+msgid "image17"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:162
@@ -352,6 +381,10 @@ msgstr ""
 msgid "|image18|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:652
+msgid "image18"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:196
 msgid "Analysis tools"
 msgstr "analiz araçları"
@@ -373,6 +406,10 @@ msgstr ""
 msgid "|image1|"
 msgstr "|şekil1|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:635
+msgid "image1"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:211
 msgid "Feature: Use logarithmic functions in the raster calculator"
 msgstr ""
@@ -387,6 +424,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:218
 msgid "|image2|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:636
+msgid "image2"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:221
@@ -426,6 +467,10 @@ msgstr ""
 msgid "|image3|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:637
+msgid "image3"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:240
 msgid "Browser"
 msgstr "Gözatıcı"
@@ -448,6 +493,10 @@ msgstr ""
 msgid "|image4|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:638
+msgid "image4"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:256
 msgid "Feature: New browser icon"
 msgstr ""
@@ -465,6 +514,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:266
 msgid "|image5|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:639
+msgid "image5"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:269
@@ -498,6 +551,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:291
 msgid "|image6|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:640
+msgid "image6"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:294
@@ -536,6 +593,10 @@ msgstr ""
 msgid "|image7|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:641
+msgid "image7"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:316
 msgid "Data management"
 msgstr "Veri yönetimi"
@@ -571,6 +632,10 @@ msgstr ""
 msgid "|image8|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:642
+msgid "image8"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:336
 msgid "Feature: Line edit with auto-completer for ValueRelation edit widget"
 msgstr ""
@@ -584,6 +649,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:343
 msgid "|image9|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:643
+msgid "image9"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:346
@@ -630,6 +699,10 @@ msgstr ""
 msgid "|image10|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:644
+msgid "image10"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:370
 msgid "Feature: Filter chaining for relation reference widget"
 msgstr ""
@@ -656,9 +729,13 @@ msgstr ""
 msgid "|image11|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:645
+msgid "image11"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:391
 msgid "Diagrams"
-msgstr ""
+msgstr "Diyagramlar"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:394
 msgid "Feature: Diagram improvements"
@@ -691,6 +768,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:406
 msgid "|image12|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:646
+msgid "image12"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:409
@@ -730,6 +811,10 @@ msgstr ""
 msgid "|image13|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:647
+msgid "image13"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:428
 msgid "Labelling"
 msgstr ""
@@ -749,6 +834,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:440
 msgid "|image19|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:653
+msgid "image19"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:443
@@ -791,6 +880,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:465
 msgid "|image20|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:654
+msgid "image20"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:468
@@ -839,6 +932,10 @@ msgstr ""
 msgid "|image21|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:655
+msgid "image21"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:490
 msgid "QGIS Server"
 msgstr "QGIS Sunucu"
@@ -871,6 +968,10 @@ msgstr ""
 msgid "|image22|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:656
+msgid "image22"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:514
 msgid "Symbology"
 msgstr "Semboloji"
@@ -887,6 +988,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:523
 msgid "|image23|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:657
+msgid "image23"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:526
@@ -917,12 +1022,16 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog210/index.rst:565
 #: ../../source/site/forusers/visualchangelog210/index.rst:606
 msgid ""
-"**This feature was funded by:** `Agence de l'eau Adour-Garonne <http://www"
-".eau-adour-garonne.fr/>`__"
+"**This feature was funded by:** `Agence de l'eau Adour-Garonne "
+"<http://www.eau-adour-garonne.fr/>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:542
 msgid "|image24|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:658
+msgid "image24"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:545
@@ -943,6 +1052,10 @@ msgstr ""
 msgid "|image25|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:659
+msgid "image25"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:555
 msgid ""
 "Feature: Size scale and rotation have been removed from the advanced menu"
@@ -961,6 +1074,10 @@ msgstr ""
 msgid "|image26|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:660
+msgid "image26"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:570
 msgid "Feature: Data defined properties for font marker"
 msgstr ""
@@ -973,6 +1090,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:575
 msgid "|image27|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:661
+msgid "image27"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:578
@@ -999,6 +1120,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:588
 msgid "|image28|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:662
+msgid "image28"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:591
@@ -1028,6 +1153,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:608
 msgid "|image29|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:663
+msgid "image29"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:611
@@ -1064,16 +1193,20 @@ msgstr ""
 msgid "|image30|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:49
-msgid ""
-"**GOLD Sponsor:** `Asia Air Survey, Japan, "
-"<http://www.asiaairsurvey.com/>`__"
+#: ../../source/site/forusers/visualchangelog210/index.rst:664
+msgid "image30"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:64
-msgid ""
-"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www"
-".gkg-kassel.de/>`__"
+#: ../../source/site/forusers/visualchangelog210/index.rst:634
+msgid "image0"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"

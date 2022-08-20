@@ -6,22 +6,23 @@
 # Translators:
 # Leônidas Luiz Volcato Descovi Filho <leonprs2@gmail.com>, 2019
 # Aline Furlanetto Viero <afviero@gmail.com>, 2020
+# William Bellinazo Roca <williambr_1331@hotmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:40+0000\n"
-"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>, 2020\n"
+"Last-Translator: William Bellinazo Roca <williambr_1331@hotmail.com>, 2022\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/certification.rst:5
 msgid "Certification"
@@ -83,11 +84,20 @@ msgstr "Publicação de curso de curso de QGIS aberto"
 msgid "Authoring QGIS books"
 msgstr "Criação de livros QGIS"
 
-#: ../../source/site/getinvolved/certification.rst:23
-msgid "Workflow Certification"
-msgstr "Certificação de fluxo de trabalho"
+#: ../../source/site/getinvolved/certification.rst:20
+msgid ""
+"To contact the certification team, please write to certification@qgis.org."
+msgstr ""
 
-#: ../../source/site/getinvolved/certification.rst:25
+#: ../../source/site/getinvolved/certification.rst:24
+msgid "Certification Process"
+msgstr ""
+
+#: ../../source/site/getinvolved/certification.rst:27
+msgid "Application"
+msgstr "Aplicação"
+
+#: ../../source/site/getinvolved/certification.rst:29
 msgid ""
 "You are required to provide the training material for each of your courses. "
 "This includes exercises, lectures and data. This material will be reviewed "
@@ -101,7 +111,7 @@ msgstr ""
 "geral. Se o material não é de qualidade adequada, isso pode ser motivo de "
 "recusa."
 
-#: ../../source/site/getinvolved/certification.rst:28
+#: ../../source/site/getinvolved/certification.rst:32
 msgid ""
 "Following an initial review, the application will be sent to local QGIS "
 "groups for their opinion. This portion of the review should take place in "
@@ -120,7 +130,7 @@ msgstr ""
 "um Grupo de Usuários do QGIS local. Se você não for considerado membro da "
 "comunidade QGIS em situação regular, isso pode ser motivo de recusa."
 
-#: ../../source/site/getinvolved/certification.rst:30
+#: ../../source/site/getinvolved/certification.rst:34
 msgid ""
 "The PSC will make the final determination. If accepted as a QGIS Certified "
 "Organization your contributions to the project will be published for "
@@ -130,7 +140,7 @@ msgstr ""
 "pelo QGIS, suas contribuições para o projeto serão publicadas para fins de "
 "transparência."
 
-#: ../../source/site/getinvolved/certification.rst:32
+#: ../../source/site/getinvolved/certification.rst:36
 msgid ""
 "If approved you are required to pay a €20 certification fee to the QGIS "
 "project for each certificate you issue. This creates a mechanism for "
@@ -140,7 +150,7 @@ msgid ""
 " at once."
 msgstr ""
 
-#: ../../source/site/getinvolved/certification.rst:35
+#: ../../source/site/getinvolved/certification.rst:39
 msgid ""
 "You can apply through `this form <certification_link_>`_ (make sure to first"
 " create a `login <certification_login_>`_). You can find more details about "
@@ -152,6 +162,22 @@ msgstr ""
 "encontrar mais detalhes sobre o programa de certificação `here "
 "<certification_details_>`_ (nós aconselhamos que você leia isso antes de se "
 "registrar)."
+
+#: ../../source/site/getinvolved/certification.rst:47
+msgid "Course Certification Workflow"
+msgstr ""
+
+#: ../../source/site/getinvolved/certification.rst:52
+msgid "Workflow Certification"
+msgstr "Certificação de fluxo de trabalho"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "If approved you are required to make a €20 donation to the QGIS project for "

@@ -6,20 +6,21 @@
 # Translators:
 # Zoltan Siki <siki.zoltan@epito.bme.hu>, 2020
 # Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2020
+# Báthory Péter <bathory86p@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:26+0000\n"
-"Last-Translator: Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2020\n"
+"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2022\n"
 "Language-Team: Hungarian (https://www.transifex.com/qgis/teams/6144/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -45,19 +46,19 @@ msgstr ""
 #: ../../source/site/about/case_studies/uruguay_mides.rst:13
 msgid ""
 "The National Division of Evaluation and Monitoring (`DINEM "
-"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-cometidos>`_"
-" ) is a section of MIDES that oversees the monitoring and evaluation of "
-"plans, programs, actions, devices and social projects through the national "
-"territory. DINEM also produces and manages necessary information to improve "
-"their design and implementation."
+"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-"
+"cometidos>`_ ) is a section of MIDES that oversees the monitoring and "
+"evaluation of plans, programs, actions, devices and social projects through "
+"the national territory. DINEM also produces and manages necessary "
+"information to improve their design and implementation."
 msgstr ""
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:18
 msgid ""
 "The `Department of Geography of DINEM "
-"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front"
-"/departamento-de-geografia>`_ is responsible for the production, management "
-"and analysis of geographical information,"
+"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front/departamento-"
+"de-geografia>`_ is responsible for the production, management and analysis "
+"of geographical information,"
 msgstr ""
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:22
@@ -86,6 +87,11 @@ msgid ""
 "Logistics to viabilize such fieldwork involved using statistical packages to"
 " manage the database generated, together with an intensive use of GIS to "
 "organize field trips and georeference relieved data."
+msgstr ""
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:40
+#: ../../source/site/about/case_studies/uruguay_mides.rst:55
+msgid "QGIS at work"
 msgstr ""
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:40
@@ -199,4 +205,12 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:94
 msgid "Contact: mapas@mides.gub.uy"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""

@@ -1,39 +1,40 @@
 # 
 # Translators:
+# 徐保才 <1302638819@qq.com>, 2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
-"PO-Revision-Date: 2019-07-12 14:45+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: 徐保才 <1302638819@qq.com>, 2021\n"
 "Language-Team: Chinese Simplified (http://www.transifex.com/qgis/qgis-website/language/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:5
 msgid "Training material"
-msgstr ""
+msgstr "培训资料"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:11
 msgid ""
 "In this directory page, you can get listed if you provide FREE training "
 "material for QGIS."
-msgstr ""
+msgstr "在此目录页中，如果您提供了QGIS的免费培训资料，将被列出。 "
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:14
 msgid "The general idea is to be able to (re)use material from each other."
-msgstr ""
+msgstr "总体思路是能够 (重复) 使用彼此的资料。"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:16
 msgid ""
 "Educators are encouraged to use/mix/add material to the QGIS Training "
 "Manual."
-msgstr ""
+msgstr "我们鼓励教育工作者使用、融合和添加资料到QGIS培训手册中。"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:18
 msgid ""
@@ -41,7 +42,7 @@ msgid ""
 "you edit this page on `Github <https://github.com/qgis/QGIS-"
 "Website/blob/master/source/site/forusers/trainingmaterial/index.rst>`_ and "
 "do a pull request."
-msgstr ""
+msgstr "如果您想在此处添加一些内容，请写信至 psc@qgis.org 邮箱。或者您在 `Github <https://github.com/qgis/QGIS-Website/blob/master/source/site/forusers/trainingmaterial/index.rst>`_ 上编辑此页面并执行拉取请求。 "
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:22
 msgid "English"
@@ -51,44 +52,75 @@ msgstr "英语"
 msgid ""
 "The official Training Manual can be found here: "
 "http://docs.qgis.org/latest/en/docs/training_manual/index.html"
-msgstr ""
+msgstr "官方培训手册可以在这里找到: http://docs.qgis.org/latest/en/docs/training_manual/index.html"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:27
+msgid ""
+"Tutorial material, originally written in English and translated in over 15 "
+"languages. (Produced and maintained by Ujaval Gandhi) "
+"https://www.qgistutorials.com/"
+msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:30
 msgid ""
 "Tutorial material, originally developed as part of a workshop for the "
 "Ecology and Evolutionary Biology Program at Texas A&M University (produced "
 "and maintained by Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
 msgstr ""
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:30
+#: ../../source/site/forusers/trainingmaterial/index.rst:33
 msgid ""
 "In-person training material, originally developed for the New York City "
 "Department of Transportation by `Datapolitan <http://www.datapolitan.com>`_:"
 msgstr ""
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:32
+#: ../../source/site/forusers/trainingmaterial/index.rst:35
 msgid ""
 "`Introduction to GIS Fundamentals <http://training.datapolitan.com/qgis-"
 "training/Introduction_to_GIS_Fundamentals>`_"
 msgstr ""
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:33
+#: ../../source/site/forusers/trainingmaterial/index.rst:36
 msgid ""
-"`Intermediate GIS with QGIS and PostGIS <http://training.datapolitan.com"
-"/qgis-training/Intermediate_GIS/>`_"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:34
-msgid ""
-"`Source code for training materials <https://github.com/Datapolitan-Training"
-"/qgis-training>`_"
+"`Intermediate GIS with QGIS and PostGIS "
+"<http://training.datapolitan.com/qgis-training/Intermediate_GIS/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:37
-msgid "Brazilian Portuguese"
+msgid ""
+"`Source code for training materials <https://github.com/Datapolitan-"
+"Training/qgis-training>`_"
 msgstr ""
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:39
+msgid ""
+"Online course material for QGIS training developed and maintained by "
+"`Spatial Thoughts <http://spatialthoughts.com/>`_. Available for self-study "
+"and adaptation by other trainers:"
+msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:41
+msgid ""
+"`Introduction to QGIS  <https://courses.spatialthoughts.com/introduction-to-"
+"qgis.html>`_"
+msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:42
+msgid ""
+"`Advanced QGIS  <https://courses.spatialthoughts.com/advanced-qgis.html>`_"
+msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:43
+msgid ""
+"`Customizing QGIS with Python <https://courses.spatialthoughts.com/pyqgis-"
+"in-a-day.html>`_"
+msgstr ""
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:46
+msgid "Brazilian Portuguese"
+msgstr "巴西葡萄牙语"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:48
 msgid ""
 "Roberto Ilacqua wrote a manual for image classification in QGIS: `Manual do "
 "QGIS para Classificação Supervisionada de Áreas "
@@ -99,48 +131,57 @@ msgid ""
 " short version, 34 p - 2017."
 msgstr ""
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:44
+#: ../../source/site/forusers/trainingmaterial/index.rst:53
 msgid "French"
-msgstr "French"
+msgstr "法语"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:46
+#: ../../source/site/forusers/trainingmaterial/index.rst:55
 msgid ""
 "The French Ministry of Environment supports the QGIS project. Training "
-"material from them is available here: http://www.geoinformations"
-".developpement-durable.gouv.fr/qgis-supports-pedagogiques-r947.html"
+"material from them is available here: "
+"http://www.geoinformations.developpement-durable.gouv.fr/qgis-supports-"
+"pedagogiques-r947.html"
 msgstr ""
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:49
+#: ../../source/site/forusers/trainingmaterial/index.rst:58
 msgid ""
-"Other resources from them are available here: http://www.geoinformations"
-".developpement-durable.gouv.fr/qgis-r625.html"
+"Other resources from them are available here: "
+"http://www.geoinformations.developpement-durable.gouv.fr/qgis-r625.html"
 msgstr ""
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:52
+#: ../../source/site/forusers/trainingmaterial/index.rst:61
 msgid ""
 "The French National Center for Scientific Research (CNRS), created an online"
 " QGIS tutorial: http://ouvrir.passages.cnrs.fr/tutoqgis/"
 msgstr ""
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:56
+#: ../../source/site/forusers/trainingmaterial/index.rst:65
 msgid "German"
-msgstr "German"
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:58
-msgid "HSR material: http://giswiki.hsr.ch/QGIS-Materialien"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:62
-msgid "Czech"
-msgstr ""
-
-#: ../../source/site/forusers/trainingmaterial/index.rst:64
-msgid "QGIS for beginners: http://training.gismentors.eu/qgis-zacatecnik/"
-msgstr ""
+msgstr "德语"
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:67
+msgid "HSR material: http://giswiki.hsr.ch/QGIS-Materialien"
+msgstr "HSR素材: http://giswiki.hsr.ch/QGIS-Materialien"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:71
+msgid "Czech"
+msgstr "捷克语"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:73
+msgid "QGIS for beginners: http://training.gismentors.eu/qgis-zacatecnik/"
+msgstr "QGIS初学者手册: http://training.gismentors.eu/qgis-zacatecnik/"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:76
 msgid "QGIS for advanced users: http://training.gismentors.eu/qgis-pokrocily/"
-msgstr ""
+msgstr "QGIS高级用户手册: http://training.gismentors.eu/qgis-pokrocily/"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ msgstr ""

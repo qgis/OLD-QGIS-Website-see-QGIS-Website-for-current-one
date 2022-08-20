@@ -4,13 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-20 01:09+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: uk\n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
@@ -18,11 +19,61 @@ msgstr ""
 msgid "QGIS and GRASS in Biogeographical Research in the Iberian Peninsula"
 msgstr "QGIS та GRASS у біогеографічних дослідженнях Піренейського півострова"
 
+#: ../../source/site/about/case_studies/portugal_evora.rst:5
+msgid ""
+"I started applying GIS to my work in biogeography about 10 years ago. "
+"Through my graduate internship, PhD work and two other research jobs, I used"
+" the proprietary software packages that were available and used at my "
+"workplaces --– mainly CartaLinx, Idrisi, ArcView and ArcGIS. But I found it "
+"rather annoying that we were constantly dealing with license renewal issues,"
+" and that I could not use the software away from the workplace unless I "
+"acquired my own license."
+msgstr "Я почала використовувати ГІС у своїй роботі з біогеографіі близько 10 років тому. Під час стажування, написання кандидатської дисертації та виконання двох інших дослідницьких робіт я використовувала власницьке програмне забезпечення, яке було встановлене та використовувалось на робочому місці --- в основному CartaLinx, Idrisi, ArcView та ArcGIS. Але мене дратувало те, що нам постійно доводиться повертатися до питань поновлення ліцензій а також те, що я не можу використовувати це програмне забезпечення деінде, якщо не придбаю свою власну ліцензію."
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:11
+msgid "Distribution of Spanish algyroides"
+msgstr ""
+
 #: ../../source/site/about/case_studies/portugal_evora.rst:11
 msgid ""
 "Distribution of Spanish algyroides (Algyroides marchi) at three spatial "
 "scales and from two different data sources."
 msgstr "Розповсюдження Spanish algyroides (Algyroides marchi) у трьох просторових масштабах з двох різних джерел."
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:13
+msgid ""
+"It crossed my mind on several occasions that switching to free software "
+"would spare me those problems. However, there was prejudice against the "
+"analytical capabilities of free software, and even after I heard about the "
+"potential of GRASS, I was still reluctant because I thought it would be too "
+"difficult to learn. I was also afraid it would be cumbersome to migrate all "
+"the maps and analyses that I had done so far. At the beginning of my post-"
+"doc in 2008, I finally gave it an opportunity and took a training course on "
+"QGIS and GRASS. It was probably the best decision of my professional life! I"
+" found that QGIS provided a very intuitive interface for GRASS, hat they "
+"complemented each other perfectly, and they provided all the analytical "
+"capabilities I needed."
+msgstr "Декілька разів я думала про те, що перехід на вільне програмне забезпечення може позбавити мене цих проблем. Однак, було упереджене ставлення до аналітичних можливостей вільного програмного забезпечення. І навіть після того, як я почула про потенціал GRASS, я все ще сумнівалась, оскільки думала, що навчитися працювати у нових програмах буде важко. Також я побоювалась, що перенесення всіх карт та методів аналізу, що я вже створила, буде важким та тривалим. На початку навчання в аспірантурі у 2008 році, я нарешті вирішила спробувати та пройшла курс по роботі в QGIS та GRASS. Це було чи не найкращим рішенням у моєму професійному житті! Я виявила, що QGIS має дуже зручний та зрозумілий інтерфейс до GRASS, вони ідеально доповнюють одна одну та мають всі необхідні для мене аналітичні можливості."
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:15
+msgid ""
+"I started using both programs immediately after the course. Not only did I "
+"begin all my new GIS work with QGIS/GRASS [e.g. 1, 2], but I also did "
+"follow-up analyses on previous works that I had done with commercial "
+"software. For example, I had built models of otter [3] and desman [4] "
+"distribution in the Iberian Peninsula. After switching to QGIS-GRASS, I "
+"analysed how those models behaved when downscaled to a finer resolution [5]."
+" Another previous work on biogeographic relationships between Iberian lynx "
+"and rabbit [6] had a follow-up after I switched to QGIS-GRASS [7]. Not only "
+"did I not have any problems with the migration of the data and previous "
+"results: I also found it much easier to do the things I wanted to do with "
+"the new software, and was able to do extra analyses which I could not have "
+"done with the programs I used before."
+msgstr "Я почала використовувати обидві програми одразу після курсу. Я не тільки почала виконувати всі нові роботи в QGIS/GRASS [наприклад, 1, 2], але також використовувала їх у продовженні попередніх робіт, які починала виконувати у власницькому програмному забезпеченні. Наприклад, я створила моделі розповсюдження видри [3] та хохулі [4] на Піренейському півострові. Після переходу на QGIS-GRASS я проаналізувала як ці моделі працюють на більше детальних масштабах [5]. Інша робота про біогеографічний зв'язок іберійської рисі та кролів [6] отримала своє продовження після переходу на QGIS-GRASS [7]. Я не тільки не мала жодних проблем з переносом даних та результатів, виявилось що виконувати необхідні дії у новому програмному забезпечені значно легше і, крім того, я можу робити додаткові види аналізу, які були недоступні в раніше використовуваних програмах."
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:21
+msgid "Environmental suitability for the Pyrenean desman"
+msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:21
 msgid ""
@@ -43,17 +94,6 @@ msgid ""
 "source software covers all my research needs and gives me the freedom I "
 "longed for."
 msgstr "В цілому перехід на QGIS/GRASS не приніс мені нічого крім переваг. Тепер я можу вільно працювати на роботі, вдома, та на своєму ноутбуку під час подорожей і не перейматися з приводу ліцензій або перехід у інший університет. Вільне програмне забезпечення задовольняє всі потреби моїх досліджень та дає мені свободу, яку я хотіла."
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:41
-msgid "Author"
-msgstr "Автор"
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:50
-msgid ""
-"This article was contributed in July 2010 by A. Márcia Barbosa. She is a "
-"post-doctoral researcher at Imperial College London (UK) and the University "
-"of Évora (Portugal)."
-msgstr "A. Márcia Barbosa надіслала цю статтю у липні 2010 року. Вона є науковим співробітником Лондонського королівського коледжу (Велика Британія) та університету Евора (Португалія)."
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:30
 msgid "References"
@@ -111,51 +151,32 @@ msgid ""
 "genetic diversity of the European rabbit. Wildlife Biology in Practice.\""
 msgstr "[7] Barbosa, A.M. & Real, R. (in press) Favourable areas for expansion and reintroduction of Iberian lynx accounting for distribution trends and genetic diversity of the European rabbit. Wildlife Biology in Practice.\""
 
-#: ../../source/site/about/case_studies/portugal_evora.rst:5
-msgid ""
-"I started applying GIS to my work in biogeography about 10 years ago. "
-"Through my graduate internship, PhD work and two other research jobs, I used"
-" the proprietary software packages that were available and used at my "
-"workplaces --– mainly CartaLinx, Idrisi, ArcView and ArcGIS. But I found it "
-"rather annoying that we were constantly dealing with license renewal issues,"
-" and that I could not use the software away from the workplace unless I "
-"acquired my own license."
-msgstr "Я почала використовувати ГІС у своїй роботі з біогеографіі близько 10 років тому. Під час стажування, написання кандидатської дисертації та виконання двох інших дослідницьких робіт я використовувала власницьке програмне забезпечення, яке було встановлене та використовувалось на робочому місці --- в основному CartaLinx, Idrisi, ArcView та ArcGIS. Але мене дратувало те, що нам постійно доводиться повертатися до питань поновлення ліцензій а також те, що я не можу використовувати це програмне забезпечення деінде, якщо не придбаю свою власну ліцензію."
+#: ../../source/site/about/case_studies/portugal_evora.rst:41
+msgid "Author"
+msgstr "Автор"
 
-#: ../../source/site/about/case_studies/portugal_evora.rst:13
-msgid ""
-"It crossed my mind on several occasions that switching to free software "
-"would spare me those problems. However, there was prejudice against the "
-"analytical capabilities of free software, and even after I heard about the "
-"potential of GRASS, I was still reluctant because I thought it would be too "
-"difficult to learn. I was also afraid it would be cumbersome to migrate all "
-"the maps and analyses that I had done so far. At the beginning of my post-"
-"doc in 2008, I finally gave it an opportunity and took a training course on "
-"QGIS and GRASS. It was probably the best decision of my professional life! I"
-" found that QGIS provided a very intuitive interface for GRASS, hat they "
-"complemented each other perfectly, and they provided all the analytical "
-"capabilities I needed."
-msgstr "Декілька разів я думала про те, що перехід на вільне програмне забезпечення може позбавити мене цих проблем. Однак, було упереджене ставлення до аналітичних можливостей вільного програмного забезпечення. І навіть після того, як я почула про потенціал GRASS, я все ще сумнівалась, оскільки думала, що навчитися працювати у нових програмах буде важко. Також я побоювалась, що перенесення всіх карт та методів аналізу, що я вже створила, буде важким та тривалим. На початку навчання в аспірантурі у 2008 році, я нарешті вирішила спробувати та пройшла курс по роботі в QGIS та GRASS. Це було чи не найкращим рішенням у моєму професійному житті! Я виявила, що QGIS має дуже зручний та зрозумілий інтерфейс до GRASS, вони ідеально доповнюють одна одну та мають всі необхідні для мене аналітичні можливості."
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:15
-msgid ""
-"I started using both programs immediately after the course. Not only did I "
-"begin all my new GIS work with QGIS/GRASS [e.g. 1, 2], but I also did "
-"follow-up analyses on previous works that I had done with commercial "
-"software. For example, I had built models of otter [3] and desman [4] "
-"distribution in the Iberian Peninsula. After switching to QGIS-GRASS, I "
-"analysed how those models behaved when downscaled to a finer resolution [5]."
-" Another previous work on biogeographic relationships between Iberian lynx "
-"and rabbit [6] had a follow-up after I switched to QGIS-GRASS [7]. Not only "
-"did I not have any problems with the migration of the data and previous "
-"results: I also found it much easier to do the things I wanted to do with "
-"the new software, and was able to do extra analyses which I could not have "
-"done with the programs I used before."
-msgstr "Я почала використовувати обидві програми одразу після курсу. Я не тільки почала виконувати всі нові роботи в QGIS/GRASS [наприклад, 1, 2], але також використовувала їх у продовженні попередніх робіт, які починала виконувати у власницькому програмному забезпеченні. Наприклад, я створила моделі розповсюдження видри [3] та хохулі [4] на Піренейському півострові. Після переходу на QGIS-GRASS я проаналізувала як ці моделі працюють на більше детальних масштабах [5]. Інша робота про біогеографічний зв'язок іберійської рисі та кролів [6] отримала своє продовження після переходу на QGIS-GRASS [7]. Я не тільки не мала жодних проблем з переносом даних та результатів, виявилось що виконувати необхідні дії у новому програмному забезпечені значно легше і, крім того, я можу робити додаткові види аналізу, які були недоступні в раніше використовуваних програмах."
+#: ../../source/site/about/case_studies/portugal_evora.rst:48
+msgid "A. Márcia Barbosa"
+msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:48
 msgid "A Márcia Barbosa"
 msgstr "A Márcia Barbosa"
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:50
+msgid ""
+"This article was contributed in July 2010 by A. Márcia Barbosa. She is a "
+"post-doctoral researcher at Imperial College London (UK) and the University "
+"of Évora (Portugal)."
+msgstr "A. Márcia Barbosa надіслала цю статтю у липні 2010 року. Вона є науковим співробітником Лондонського королівського коледжу (Велика Британія) та університету Евора (Португалія)."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "I started applying GIS to my work in biogeography about 10 years ago. "

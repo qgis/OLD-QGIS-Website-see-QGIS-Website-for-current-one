@@ -7,15 +7,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2017-09-22 09:58+0000\n"
-"Last-Translator: Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:45+0000\n"
+"Last-Translator: Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>, 2016\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/getinvolved/governance/codeofconduct/credits.rst:4
+msgid "Credits for Contributors"
+msgstr "Créditos para Contribuidores"
 
 #: ../../source/site/getinvolved/governance/codeofconduct/credits.rst:6
 msgid ""
@@ -29,19 +34,23 @@ msgid ""
 "please keep wording to an absolute minimum"
 msgstr "adicionando uma nota curta sobre o comprometimento (algo como \"Financiado pela ...); por favor, mantenha um mínimo absoluto de palavras"
 
-#: ../../source/site/getinvolved/governance/codeofconduct/credits.rst:17
-msgid "If you have questions, feel free to contact us: psc@qgis.org"
-msgstr "Se você tiver dúvidas, não hesite em contactar-nos: psc@qgis.org"
-
-#: ../../source/site/getinvolved/governance/codeofconduct/credits.rst:4
-msgid "Credits for Contributors"
-msgstr "Créditos para Contribuidores"
-
 #: ../../source/site/getinvolved/governance/codeofconduct/credits.rst:11
 msgid ""
 "adding a note to the changelog for the first version where the code has been"
 " incorporated, of the type::"
 msgstr "adicionando uma nota para o changelog para a primeira versão onde o código foi incorporado, do tipo ::"
+
+#: ../../source/site/getinvolved/governance/codeofconduct/credits.rst:17
+msgid "If you have questions, feel free to contact us: psc@qgis.org"
+msgstr "Se você tiver dúvidas, não hesite em contactar-nos: psc@qgis.org"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS Credits for Contributors"
 #~ msgstr ""

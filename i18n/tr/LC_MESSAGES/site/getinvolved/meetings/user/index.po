@@ -6,14 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-08 11:00+0200\n"
-"PO-Revision-Date: 2020-03-16 09:15+0000\n"
-"Last-Translator: Murat ENEZ <muratenez@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-23 16:19+0000\n"
+"Last-Translator: Tolga <kasmakcac@yahoo.com>, 2018\n"
 "Language-Team: Turkish (http://www.transifex.com/qgis/qgis-website/language/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: tr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
@@ -21,11 +21,19 @@ msgstr ""
 msgid "QGIS User Meetings"
 msgstr "QGIS Kullanıcı Toplantıları"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:6
+#: ../../source/site/getinvolved/meetings/user/index.rst:5
+msgid "The organization of events happens on the `QGIS wiki <wiki_link_>`_."
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/user/index.rst:10
+msgid "Pre-2013 events are listed below:"
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/user/index.rst:13
 msgid "7th german-speaking QGIS User Meeting in Kassel 2013"
 msgstr "2013 yılında Kassel'de 7. almanca-konuşanlar QGIS Kullanıcı Toplantısı"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:8
+#: ../../source/site/getinvolved/meetings/user/index.rst:15
 msgid ""
 "On 20th September 2013 the 7th german-speaking QGIS user meeting took place "
 "in Kassel. The event was organized by Otto Dassau (QGIS project) and Dr. "
@@ -36,45 +44,53 @@ msgid ""
 "center of the event."
 msgstr ""
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:17
+#: ../../source/site/getinvolved/meetings/user/index.rst:24
 msgid "2nd Australian QGIS User Meeting in Melbourne 2013"
 msgstr "2013 yılında Melbourne'de 2. Avustrulya QGIS Kullanıcı Toplantısı"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:20
+#: ../../source/site/getinvolved/meetings/user/index.rst:27
 msgid "Zurich 2013"
 msgstr "Zurich 2013"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:23
+#: ../../source/site/getinvolved/meetings/user/index.rst:30
 msgid "1st Australian QGIS User Meeting in Perth 2013"
 msgstr "2013 yılında Perth'te 1. Avustralya QGIS Kullanıcı Toplantısı"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:26
+#: ../../source/site/getinvolved/meetings/user/index.rst:33
 msgid "Lisboa 2012"
 msgstr "Lisboa 2012"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:29
+#: ../../source/site/getinvolved/meetings/user/index.rst:36
 msgid "5th german-speaking QGIS User Meeting in Kassel 2012"
 msgstr "2012 yılında Kassel'de 5. almanca-konuşanlar QGIS Kullanıcı Toplantısı"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:32
+#: ../../source/site/getinvolved/meetings/user/index.rst:39
 msgid "4th german-speaking QGIS User Meeting in Bern 2012"
 msgstr "2012 yılında Bern'de 4. almanca-konuşanlar QGIS Kullanıcı Toplantısı"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:35
+#: ../../source/site/getinvolved/meetings/user/index.rst:42
 msgid "3rd german-speaking QGIS User Meeting in Kassel 2011"
 msgstr "2011 yılında Kassel'de 3. almanca-konuşanlar QGIS Kullanıcı Toplantısı"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:38
+#: ../../source/site/getinvolved/meetings/user/index.rst:45
 msgid "2nd german-speaking QGIS User Meeting in Rapperswil 2011"
 msgstr "2011 yılında Rapperswil'de 2. Almanca konuşanlar QGIS Kullanıcı Toplantısı"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:41
+#: ../../source/site/getinvolved/meetings/user/index.rst:48
 msgid "1st german-speaking QGIS User Meeting in Bern 2010"
 msgstr "2010 yılında Bern'de 1. almanca-konuşanlar QGIS Kullanıcı Toplantısı"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:44
+#: ../../source/site/getinvolved/meetings/user/index.rst:51
 msgid "1st QGIS Bughunting in Moscow 2009"
 msgstr "2009 yılında Moskova'da 1. QGIS Hata Avı"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "Contents:"
 #~ msgstr ""

@@ -4,21 +4,21 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2019
-# Manuela Silva <manuelarodsilva@gmail.com>, 2018
+# Manuela Silva <mmsrs@sky.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-11 18:41+0200\n"
-"PO-Revision-Date: 2019-11-28 00:05+0000\n"
-"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
+"PO-Revision-Date: 2016-03-05 14:48+0000\n"
+"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>, 2019\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.1\n"
 "Language: pt_PT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:5
 msgid "Unit Testing"
@@ -366,7 +366,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:354
 msgid "Adding your unit test to CMakeLists.txt"
-msgstr ""
+msgstr "Adição do seu teste de unidade em CMakeLists.txt"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:357
 msgid ""
@@ -442,7 +442,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:485
 msgid "Building your unit test"
-msgstr ""
+msgstr "Criação do seu teste de unidade"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/unittesting.rst:487
 msgid ""

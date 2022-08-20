@@ -1,24 +1,32 @@
 # 
 # Translators:
 # César Augusto Santín <cesar_0816@yahoo.com>, 2018
-# YoViajo, 2015-2016
+# Eric Armijo, 2015-2016
 # Francisco Javier <fjaviquintana@gmail.com>, 2015
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2019
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2019-12-20 11:52+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/about/case_studies/suisse_basel.rst:3
+msgid ""
+"QGIS --- an interesting instrument for forestry planning concepts at local "
+"and regional level"
+msgstr "QGIS --- un instrumento interesante para conceptos de planificación forestal al nivel local y regional"
 
 #: ../../source/site/about/case_studies/suisse_basel.rst:5
+#, python-format
 msgid ""
 "Almost 35% of Switzerland's surface is covered by forests. Changing demands "
 "upon the forest and the poor financial situation of forest enterprises in "
@@ -84,6 +92,21 @@ msgstr "Extracción del mapa de mediciones forestales"
 msgid "Conclusion"
 msgstr "Conclusión"
 
+#: ../../source/site/about/case_studies/suisse_basel.rst:27
+msgid ""
+"QGIS is an interesting tool for small planning offices, such as guaraci, as "
+"well as for the forest managers and owners. It can be used in a professional"
+" context and the presented output result was appreciated by all parties "
+"involved. For the mentioned tasks the present QGIS version 1.4 “Enceladus” "
+"offers all necessary GIS tools. The most important qualities of QGIS are the"
+" intuitive user interface and the compatibility with different file formats."
+" It is an ideal tool for projects that are on one hand based on existing "
+"geographic data and on the other hand require the acquisition of new data. "
+"The user-manual is helpful and easy to understand. Both from the technical "
+"as well as the financial perspective QGIS is an interesting alternative to "
+"other GIS software."
+msgstr "QGIS es una herramienta interesante para pequeñas oficinas de planificación, como guaraci, así como para los administradores y propietarios de bosques. Se puede utilizar en un ámbito profesional y el resultado presentado fue apreciado por todas las partes involucradas. Para las tareas mencionadas, el actual QGIS, versión 1.4 \"Enceladus\" ofrece todas las herramientas SIG necesarias. Las cualidades más importantes de QGIS son la interfaz de usuario intuitiva y la compatibilidad con diferentes formatos de archivo. Es una herramienta ideal para proyectos que, por un lado, se basan en datos geográficos existentes y, por otro lado, requieren la adquisición de nuevos datos. El manual de usuario es útil y fácil de entender. Tanto desde el punto de vista técnico como financiero, QGIS es una alternativa interesante a otro software SIG."
+
 #: ../../source/site/about/case_studies/suisse_basel.rst:30
 msgid "Perspective"
 msgstr "Perspectiva"
@@ -118,26 +141,13 @@ msgid ""
 "guaraci in 2009."
 msgstr "Este artículo fue aportado en Junio de 2010 por Raphael Häner. El está diplomado en Ingeniería Forestal en el ETH de Zürich, Suiza y fundó su compañía de un hombre guaraci en 2009."
 
-#: ../../source/site/about/case_studies/suisse_basel.rst:3
-msgid ""
-"QGIS --- an interesting instrument for forestry planning concepts at local "
-"and regional level"
-msgstr "QGIS --- un instrumento interesante para conceptos de planificación forestal al nivel local y regional"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/suisse_basel.rst:27
-msgid ""
-"QGIS is an interesting tool for small planning offices, such as guaraci, as "
-"well as for the forest managers and owners. It can be used in a professional"
-" context and the presented output result was appreciated by all parties "
-"involved. For the mentioned tasks the present QGIS version 1.4 “Enceladus” "
-"offers all necessary GIS tools. The most important qualities of QGIS are the"
-" intuitive user interface and the compatibility with different file formats."
-" It is an ideal tool for projects that are on one hand based on existing "
-"geographic data and on the other hand require the acquisition of new data. "
-"The user-manual is helpful and easy to understand. Both from the technical "
-"as well as the financial perspective QGIS is an interesting alternative to "
-"other GIS software."
-msgstr "QGIS es una herramienta interesante para pequeñas oficinas de planificación, como guaraci, así como para los administradores y propietarios de bosques. Se puede utilizar en un ámbito profesional y el resultado presentado fue apreciado por todas las partes involucradas. Para las tareas mencionadas, el actual QGIS, versión 1.4 \"Enceladus\" ofrece todas las herramientas SIG necesarias. Las cualidades más importantes de QGIS son la interfaz de usuario intuitiva y la compatibilidad con diferentes formatos de archivo. Es una herramienta ideal para proyectos que, por un lado, se basan en datos geográficos existentes y, por otro lado, requieren la adquisición de nuevos datos. El manual de usuario es útil y fácil de entender. Tanto desde el punto de vista técnico como financiero, QGIS es una alternativa interesante a otro software SIG."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS - an interesting instrument for forestry planning"
 #~ msgstr ""

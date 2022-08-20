@@ -13,15 +13,15 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 20:36+0100\n"
-"PO-Revision-Date: 2020-07-13 14:15+0000\n"
-"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>\n"
+"PO-Revision-Date: 2016-03-05 14:48+0000\n"
+"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>, 2020\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.1\n"
 "Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:4
 msgid "GIT Access"
@@ -104,15 +104,15 @@ msgstr "Para clonar QGIS master:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:70
 msgid "Check out a branch"
-msgstr ""
+msgstr "Confira o branch"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:72
 msgid "To check out a branch, for example the release 2.6.1 branch do:"
-msgstr ""
+msgstr "Para conferir um branch, por exemplo, o branch do lançamento 2.6.1 faça:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:81
 msgid "To check out the master branch:"
-msgstr ""
+msgstr "Para conferir o master branch:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:88
 msgid ""
@@ -120,13 +120,13 @@ msgid ""
 "contains code for the so called 'unstable' release series. Periodically we "
 "will branch a release off master, and then continue stabilisation and "
 "selective incorporation of new features into master."
-msgstr ""
+msgstr "No QGIS, mantemos nosso código mais estável no branch de lançamento atual. O master contém código para as chamadas séries de lançamento 'instáveis'. Periodicamente, criamos o branch para lançamento do master e, em seguida, continuaremos a estabilização e incorporação seletiva de novos recursos no master."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:93
 msgid ""
 "See the INSTALL file in the source tree for specific instructions on "
 "building development versions."
-msgstr ""
+msgstr "Consulte o arquivo INSTALL na árvore de origem para obter instruções específicas sobre a construção de versões de desenvolvimento."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:98
 msgid "QGIS documentation sources"
@@ -140,7 +140,7 @@ msgstr "Se você estiver interessado em verificar as fontes de documentação QG
 msgid ""
 "You can also take a look at the readme included with the documentation repo "
 "for more information."
-msgstr ""
+msgstr "Você também pode dar uma olhada no leiame incluso no repositório de documentação para mais informações."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:110
 msgid "QGIS website sources"
@@ -154,7 +154,7 @@ msgstr "Se você estiver interessado em verificar as fontes do website do QGIS:"
 msgid ""
 "You can also take a look at the readme included with the website repo for "
 "more information."
-msgstr ""
+msgstr "Você também pode dar uma olhada no leiame incluído no repositório do website para mais informações."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:122
 msgid "GIT Documentation"
@@ -162,7 +162,7 @@ msgstr "GIT Documentação"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:125
 msgid "See the following sites for information on becoming a GIT master."
-msgstr ""
+msgstr "Consulte os sites a seguir para obter informações sobre como se tornar um mestre do GIT."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:127
 msgid "http://gitref.org"
@@ -178,7 +178,7 @@ msgstr "http://gitready.com"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:133
 msgid "Development in branches"
-msgstr ""
+msgstr "Desenvolvimento em branches"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:136
 msgid "Purpose"
@@ -203,7 +203,7 @@ msgstr "Procedimento"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:157
 msgid "Initial announcement on mailing list:"
-msgstr ""
+msgstr "Comunicado inicial na lista de discussão:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:153
 msgid ""
@@ -212,13 +212,13 @@ msgid ""
 "the technical advisor of the project steering committee (PSC). If the new "
 "feature requires any changes to the QGIS architecture, a request for comment"
 " (RFC) is needed."
-msgstr ""
+msgstr "Antes de começar, faça um comunicado na lista de discussão do desenvolvedor para verificar se outro desenvolvedor já está trabalhando no mesmo recurso. Entre em contato também com o consultor técnico do Comitê Diretor do Projeto (CDP). Se o novo recurso exigir alterações na arquitetura QGIS, será necessário um pedido de comentário (PDC)."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:159
 msgid ""
 "Create a branch: Create a new GIT branch for the development of the new "
 "feature."
-msgstr ""
+msgstr "Criar um branch: crie um novo branch GIT para o desenvolvimento do novo recurso."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:166
 msgid ""
@@ -226,11 +226,11 @@ msgid ""
 "would like to share the work with other developers, and have write access to"
 " the upstream repo, you can push your repo up to the QGIS official repo by "
 "doing:"
-msgstr ""
+msgstr "Agora você pode começar a desenvolver. Se você planeja fazer várias atividades nesse branch, gostaria de compartilhar o trabalho com outros desenvolvedores e ter acesso de gravação ao repositório upstream, você pode enviar seu repositório para o repositório oficial do QGIS fazendo:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:175
 msgid "If the branch already exists your changes will be pushed into it."
-msgstr ""
+msgstr "Se o branch já existir, suas alterações serão inseridas nele."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:177
 msgid ""
@@ -244,7 +244,7 @@ msgstr ""
 msgid ""
 "Never ``git push -f`` to the origin repository! Only use this for your "
 "working branch."
-msgstr ""
+msgstr "Nunca use ``git push -f`` no repositório de origem! Use isso apenas para o seu branch de trabalho."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:190
 msgid "Documentation on wiki"
@@ -258,14 +258,14 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:196
 msgid "Testing before merging back to master"
-msgstr ""
+msgstr "Teste antes de mesclar de volta ao master"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:198
 msgid ""
 "When you are finished with the new feature and happy with the stability, "
 "make an announcement on the developer list. Before merging back, the changes"
 " will be tested by developers and users."
-msgstr ""
+msgstr "Quando você terminar o novo recurso e ficar satisfeito com a estabilidade, faça um comunicado na lista de desenvolvedores. Antes de mesclar novamente, as alterações serão testadas por desenvolvedores e usuários."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:205
 msgid "Submitting Patches and Pull Requests"
@@ -280,7 +280,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:214
 msgid "Pull Requests"
-msgstr ""
+msgstr "Pull Requests"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:217
 msgid ""
@@ -341,7 +341,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:247
 msgid "Best practice for creating a pull request"
-msgstr ""
+msgstr "Melhores práticas para criar um pull request"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:250
 msgid "Always start a feature branch from current master."
@@ -557,11 +557,11 @@ msgstr ""
 #~ "QGIS developers are busy folk. We do scan the incoming patches on bug "
 #~ "reports but sometimes we miss things. Don't be offended or alarmed. Try to "
 #~ "identify a developer to help you - using the `Technical Resources "
-#~ "<https://qgis.org/en/site/getinvolved/governance/organisation/governance.html"
-#~ "#community-resources>`_ and contact them asking them if they can look at "
-#~ "your patch. If you don't get any response, you can escalate your query to "
-#~ "one of the Project Steering Committee members (contact details also "
-#~ "available in the Technical Resources)."
+#~ "<https://qgis.org/en/site/getinvolved/governance/organisation/governance.html#community-"
+#~ "resources>`_ and contact them asking them if they can look at your patch. If"
+#~ " you don't get any response, you can escalate your query to one of the "
+#~ "Project Steering Committee members (contact details also available in the "
+#~ "Technical Resources)."
 #~ msgstr ""
 
 #~ msgid ""

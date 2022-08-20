@@ -5,26 +5,27 @@
 # 
 # Translators:
 # matteo ghetta <matteo.ghetta@gmail.com>, 2020
-# Stefano Campus <skampus@gmail.com>, 2020
 # Pippo Peppo <abc@gmx.ch>, 2020
-# Andrea Giudiceandrea <andreaerdna@libero.it>, 2020
 # Simone Falceri, 2020
+# Stefano Campus <skampus@gmail.com>, 2022
+# Giuseppe Mattiozzi <mattiozzig@gmail.com>, 2022
+# Andrea Giudiceandrea <andreaerdna@libero.it>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-07-12 14:43+0000\n"
-"Last-Translator: Simone Falceri, 2020\n"
+"Last-Translator: Andrea Giudiceandrea <andreaerdna@libero.it>, 2022\n"
 "Language-Team: Italian (https://www.transifex.com/qgis/teams/6144/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/sustaining_members.rst:4
 msgid "Sustaining members and Donors"
@@ -49,6 +50,18 @@ msgid ""
 msgstr ""
 "Per informazioni su come diventare un membro sostenitore dai uno sguardo "
 "alla pagina :ref:`QGIS_sustaining_memberships`."
+
+#: ../../source/site/about/sustaining_members.rst:12
+msgid "small"
+msgstr "small"
+
+#: ../../source/site/about/sustaining_members.rst:15
+msgid "medium"
+msgstr ""
+
+#: ../../source/site/about/sustaining_members.rst:18
+msgid "large"
+msgstr "large"
 
 #: ../../source/site/about/sustaining_members.rst:24
 msgid "List of current sustaining members"
@@ -91,14 +104,14 @@ msgstr "Lista dei donatori"
 #: ../../source/site/about/sustaining_members.rst:43
 msgid ""
 "Donations can be of any amount, via our bank account, Stripe or Paypal "
-"(information available at :ref:`Donations <QGIS-donations>` page). Even a "
-"small donation can make a difference and help to reach important project "
-"goals!"
+"(information available at `Donations <https://donate.qgis.org>`__ page). "
+"Even a small donation can make a difference and help to reach important "
+"project goals!"
 msgstr ""
-"Le donazioni possono essere di qualsiasi importo, tramite bonifico bancario,"
-" Stripe o Paypal (informazioni disponibili alla pagina :ref:`Donations "
-"<QGIS-donations>`). Anche una piccola donazione può fare la differenza e "
-"aiutare a raggiungere importanti obiettivi del progetto!"
+"Le donazioni possono essere di qualsiasi importo, tramite il nostro conto "
+"bancario, Stripe o Paypal (informazioni disponibili alla pagina `Donazioni "
+"<https://donate.qgis.org>`__). Anche una piccola donazione può fare la "
+"differenza e aiutare a raggiungere importanti obiettivi di progetto!"
 
 #: ../../source/site/about/sustaining_members.rst:47
 msgid ""
@@ -123,6 +136,14 @@ msgid ""
 msgstr ""
 "Le donazioni per QGIS sono detraibili dalle tasse in diversi Paesi. Fai "
 "riferimento all'ufficio delle imposte locale per maggiori informazioni."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "Sustaining members, sponsors and Donors"
 #~ msgstr "Membri sostenitori, sponsor e donatori."
@@ -172,3 +193,14 @@ msgstr ""
 
 #~ msgid "List of past sustaining members or sponsors"
 #~ msgstr "Lista dei precedenti membri sostenitori o sponsor"
+
+#~ msgid ""
+#~ "Donations can be of any amount, via our bank account, Stripe or Paypal "
+#~ "(information available at :ref:`Donations <QGIS-donations>` page). Even a "
+#~ "small donation can make a difference and help to reach important project "
+#~ "goals!"
+#~ msgstr ""
+#~ "Le donazioni possono essere di qualsiasi importo, tramite bonifico bancario,"
+#~ " Stripe o Paypal (informazioni disponibili alla pagina :ref:`Donations "
+#~ "<QGIS-donations>`). Anche una piccola donazione può fare la differenza e "
+#~ "aiutare a raggiungere importanti obiettivi del progetto!"

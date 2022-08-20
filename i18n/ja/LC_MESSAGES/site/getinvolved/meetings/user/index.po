@@ -6,14 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-08 11:00+0200\n"
-"PO-Revision-Date: 2018-11-15 03:24+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-23 16:19+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -21,11 +21,19 @@ msgstr ""
 msgid "QGIS User Meetings"
 msgstr "QGISユーザー会議"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:6
+#: ../../source/site/getinvolved/meetings/user/index.rst:5
+msgid "The organization of events happens on the `QGIS wiki <wiki_link_>`_."
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/user/index.rst:10
+msgid "Pre-2013 events are listed below:"
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/user/index.rst:13
 msgid "7th german-speaking QGIS User Meeting in Kassel 2013"
 msgstr "第7回ドイツ語圏QGISユーザー会議（カッセル2013）"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:8
+#: ../../source/site/getinvolved/meetings/user/index.rst:15
 msgid ""
 "On 20th September 2013 the 7th german-speaking QGIS user meeting took place "
 "in Kassel. The event was organized by Otto Dassau (QGIS project) and Dr. "
@@ -36,45 +44,53 @@ msgid ""
 "center of the event."
 msgstr "2013年9月20日、第7回ドイツ語を話すQGISユーザー会議がカッセルで開催されました。イベントはOtto Dassau（QGISプロジェクト）とClaas Leiner博士（Serviceportal GIS und Geodaten am FB 06 der Uni Kassel）が主催し、ドイツのFOSSGIS協会の支援を受けました。今回は、80人のユーザー、開発者および他の関心のある参加者が会議を開いてQGISについて話し合った。実践的なレポートや個人的な経験のほかに、ワークショップがイベントの中心でした。"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:17
+#: ../../source/site/getinvolved/meetings/user/index.rst:24
 msgid "2nd Australian QGIS User Meeting in Melbourne 2013"
 msgstr "2013年第2回オーストラリアQGISユーザー会議（メルボルン）"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:20
+#: ../../source/site/getinvolved/meetings/user/index.rst:27
 msgid "Zurich 2013"
 msgstr "2013年チューリッヒ"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:23
+#: ../../source/site/getinvolved/meetings/user/index.rst:30
 msgid "1st Australian QGIS User Meeting in Perth 2013"
 msgstr "2013年第1回オーストラリアQGISユーザー会議（パース）"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:26
+#: ../../source/site/getinvolved/meetings/user/index.rst:33
 msgid "Lisboa 2012"
 msgstr "2012年リスボン"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:29
+#: ../../source/site/getinvolved/meetings/user/index.rst:36
 msgid "5th german-speaking QGIS User Meeting in Kassel 2012"
 msgstr "2012年第5回ドイツ語圏QGISユーザー会議（カッセル）"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:32
+#: ../../source/site/getinvolved/meetings/user/index.rst:39
 msgid "4th german-speaking QGIS User Meeting in Bern 2012"
 msgstr "2012年第4回ドイツ語圏 QGIS ユーザー会議（ベルン）"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:35
+#: ../../source/site/getinvolved/meetings/user/index.rst:42
 msgid "3rd german-speaking QGIS User Meeting in Kassel 2011"
 msgstr "2011年第3回ドイツ語圏QGISユーザー会議（カッセル）"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:38
+#: ../../source/site/getinvolved/meetings/user/index.rst:45
 msgid "2nd german-speaking QGIS User Meeting in Rapperswil 2011"
 msgstr "2011年第2回ドイツ語圏QGISユーザー会議（ラッパーズヴィール）"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:41
+#: ../../source/site/getinvolved/meetings/user/index.rst:48
 msgid "1st german-speaking QGIS User Meeting in Bern 2010"
 msgstr "2010年第1回ドイツ語圏QGISユーザー会議（ベルン）"
 
-#: ../../source/site/getinvolved/meetings/user/index.rst:44
+#: ../../source/site/getinvolved/meetings/user/index.rst:51
 msgid "1st QGIS Bughunting in Moscow 2009"
 msgstr "2009年第1回QGIS虫取会（モスクワ）"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "Contents:"
 #~ msgstr ""

@@ -5,16 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-08 11:00+0200\n"
-"PO-Revision-Date: 2020-03-16 09:57+0000\n"
-"Last-Translator: Stefano Campus <skampus@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-10-30 12:06+0000\n"
+"Last-Translator: amefad <fame@libero.it>, 2016\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:4
 msgid "Changelog for QGIS 2.12"
@@ -23,6 +23,10 @@ msgstr "Elenco cambiamenti per QGIS 2.12"
 #: ../../source/site/forusers/visualchangelog212/index.rst:6
 msgid "|image1|"
 msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:999
+msgid "image1"
+msgstr "image1"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:9
 msgid ""
@@ -176,8 +180,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:81
 msgid ""
-"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www"
-".gkg-kassel.de/>`__"
+"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
+"<http://www.gkg-kassel.de/>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:83
@@ -273,6 +277,10 @@ msgstr ""
 msgid "|image11|"
 msgstr "|image11|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1009
+msgid "image11"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:132
 msgid "Feature: Ongoing improvements to code quality"
 msgstr ""
@@ -293,6 +301,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:144
 msgid "|image12|"
 msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1010
+msgid "image12"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:147
 msgid "Feature: Advanced settings editor"
@@ -318,6 +330,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:157
 msgid "|image13|"
 msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1011
+msgid "image13"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:160
 msgid "Feature: Mutually exclusive layer tree groups"
@@ -351,6 +367,10 @@ msgstr ""
 msgid "|image14|"
 msgstr "|image14|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1012
+msgid "image14"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:173
 msgid "Feature: Filtering for field values in expression widget"
 msgstr ""
@@ -368,6 +388,10 @@ msgstr "**Questa funzionalità è stata sviluppata da:** Salvatore Larosa"
 #: ../../source/site/forusers/visualchangelog212/index.rst:180
 msgid "|image15|"
 msgstr "|image15|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1013
+msgid "image15"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:183
 msgid "Feature: User Interface Theme support"
@@ -401,6 +425,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:197
 msgid "|image16|"
 msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1014
+msgid "image16"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:200
 msgid "Feature: New expression functions in 2.12"
@@ -487,6 +515,10 @@ msgstr ""
 msgid "|image17|"
 msgstr "|image17|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1015
+msgid "image17"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:244
 msgid "Feature: Variables in expressions"
 msgstr ""
@@ -552,6 +584,10 @@ msgstr ""
 msgid "|image18|"
 msgstr "|image18|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1016
+msgid "image18"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:272
 msgid "Analysis tools"
 msgstr "Strumenti di Analisi"
@@ -609,6 +645,10 @@ msgstr ""
 msgid "|image2|"
 msgstr "|image2|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1000
+msgid "image2"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:298
 msgid "Feature: Geometry Checker and Geometry Snapper plugins"
 msgstr ""
@@ -647,6 +687,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:319
 msgid "|image3|"
 msgstr "|image3|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1001
+msgid "image3"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:322
 msgid "Application and Project Options"
@@ -779,6 +823,10 @@ msgstr ""
 msgid "|image4|"
 msgstr "|image4|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1002
+msgid "image4"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:387
 msgid "Browser"
 msgstr "Browser"
@@ -804,6 +852,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:401
 msgid "|image5|"
 msgstr "|image5|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1003
+msgid "image5"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:404
 msgid "Data Providers"
@@ -834,6 +886,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:416
 msgid "|image6|"
 msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1004
+msgid "image6"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:419
 msgid "Data management"
@@ -873,6 +929,10 @@ msgstr ""
 msgid "|image7|"
 msgstr "|image7|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1005
+msgid "image7"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:438
 msgid "Feature: Conditional formatting for attribute table cells"
 msgstr ""
@@ -891,6 +951,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:451
 msgid "|image8|"
 msgstr "|image8|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1006
+msgid "image8"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:454
 msgid "Feature: Support for relative paths in widgets"
@@ -927,6 +991,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:471
 msgid "|image9|"
 msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1007
+msgid "image9"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:474
 msgid "Digitising"
@@ -982,6 +1050,10 @@ msgstr ""
 msgid "|image10|"
 msgstr "|image10|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1008
+msgid "image10"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:504
 msgid "Labelling"
 msgstr "Etichettatura"
@@ -1010,6 +1082,10 @@ msgstr ""
 msgid "|image19|"
 msgstr "|image19|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1017
+msgid "image19"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:523
 msgid "Feature: Draw only labels which fit inside polygons"
 msgstr ""
@@ -1023,6 +1099,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:530
 msgid "|image20|"
 msgstr "|image20|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1018
+msgid "image20"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:533
 msgid "Feature: Control priority of labeling obstacles"
@@ -1041,6 +1121,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:544
 msgid "|image21|"
 msgstr "|image21|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1019
+msgid "image21"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:547
 msgid "Feature: New options to control how polygon layers act as obstacles"
@@ -1061,6 +1145,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:565
 msgid "|image22|"
 msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1020
+msgid "image22"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:568
 msgid "Feature: Data defined control over label priority"
@@ -1084,6 +1172,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:583
 msgid "|image23|"
 msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1021
+msgid "image23"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:586
 msgid "Feature: Option for obstacle-only layers"
@@ -1119,6 +1211,10 @@ msgstr ""
 msgid "|image24|"
 msgstr "|image24|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1022
+msgid "image24"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:615
 msgid "Feature: Rule-based labeling"
 msgstr ""
@@ -1142,6 +1238,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:632
 msgid "|image25|"
 msgstr "|image25|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1023
+msgid "image25"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:635
 msgid "Map Composer"
@@ -1169,6 +1269,10 @@ msgstr ""
 msgid "|image26|"
 msgstr "|image26|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1024
+msgid "image26"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:653
 msgid "Feature: Custom format for grid annotations"
 msgstr ""
@@ -1183,6 +1287,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:661
 msgid "|image27|"
 msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1025
+msgid "image27"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:664
 msgid ""
@@ -1211,6 +1319,10 @@ msgstr ""
 msgid "|image28|"
 msgstr "|image28|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1026
+msgid "image28"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:680
 msgid "Feature: Advanced customisation of cell background color"
 msgstr ""
@@ -1235,6 +1347,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:690
 msgid "|image29|"
 msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1027
+msgid "image29"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:693
 msgid ""
@@ -1280,6 +1396,10 @@ msgstr ""
 msgid "|image30|"
 msgstr "|image30|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1028
+msgid "image30"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:719
 msgid "Feature: Force vector layers to render as a raster images"
 msgstr ""
@@ -1300,6 +1420,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:733
 msgid "|image31|"
 msgstr "|image31|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1029
+msgid "image31"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:736
 msgid "Feature: Data defined control over map layers and style presets"
@@ -1326,6 +1450,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:754
 msgid "|image32|"
 msgstr "|image32|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1030
+msgid "image32"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:757
 msgid "Feature: Option to hide pages from view/export"
@@ -1383,9 +1511,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:791
 msgid ""
-"See also `QGIS GRASS Plugin Upgrade project page <http://www.gissula.eu"
-"/qgis-grass-plugin-crowdfunding/>`__ and `progress report "
-"<http://www.gissula.eu/qgis-grass-plugin-crowdfunding/progress.html>`__"
+"See also `QGIS GRASS Plugin Upgrade project page "
+"<http://www.gissula.eu/qgis-grass-plugin-crowdfunding/>`__ and `progress "
+"report <http://www.gissula.eu/qgis-grass-plugin-"
+"crowdfunding/progress.html>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:793
@@ -1402,6 +1531,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:797
 msgid "|image33|"
 msgstr "|image33|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1031
+msgid "image33"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:800
 msgid "Programmability"
@@ -1427,7 +1560,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:815
 msgid "Example:"
-msgstr ""
+msgstr "Esempio:"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:826
 msgid ""
@@ -1478,6 +1611,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:856
 msgid "|image34|"
 msgstr "|image34|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1032
+msgid "image34"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:859
 msgid "Feature: New classes for PyQGIS programs"
@@ -1592,8 +1729,8 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:912
 msgid ""
 "See also `QGIS as OGC data server "
-"<http://docs.qgis.org/2.18/en/docs/user_manual/working_with_ogc/ogc_server_support.html"
-"#dxf-export>`__ for all the available options."
+"<http://docs.qgis.org/2.18/en/docs/user_manual/working_with_ogc/ogc_server_support.html#dxf-"
+"export>`__ for all the available options."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:916
@@ -1613,6 +1750,10 @@ msgstr ""
 msgid "|image35|"
 msgstr "|image35|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1033
+msgid "image35"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:927
 msgid "Symbology"
 msgstr "Simbologia"
@@ -1631,6 +1772,10 @@ msgstr ""
 msgid "|image36|"
 msgstr "|image36|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1034
+msgid "image36"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:940
 msgid "Feature: New option for limiting size in mm when using map unit sizes"
 msgstr ""
@@ -1645,6 +1790,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:946
 msgid "|image37|"
 msgstr "|image37|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1035
+msgid "image37"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:949
 msgid "Feature: Improvements to displacement renderer"
@@ -1668,6 +1817,10 @@ msgstr ""
 msgid "|image38|"
 msgstr "|image38|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1036
+msgid "image38"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:961
 msgid "Feature: All color ramps can now be edited"
 msgstr ""
@@ -1682,6 +1835,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:967
 msgid "|image39|"
 msgstr "|image39|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1037
+msgid "image39"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:970
 msgid "Feature: Improved handling of SVG marker outlines"
@@ -1712,6 +1869,10 @@ msgstr ""
 msgid "|image40|"
 msgstr "|image40|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1038
+msgid "image40"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:987
 msgid "Feature: Add pixels as option for all symbology size unit choices"
 msgstr ""
@@ -1727,6 +1888,22 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog212/index.rst:996
 msgid "|image41|"
 msgstr "|image41|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1039
+msgid "image41"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:998
+msgid "image0"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
 #~ msgstr ""

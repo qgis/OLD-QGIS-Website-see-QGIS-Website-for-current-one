@@ -6,15 +6,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2017-12-15 20:39+0000\n"
-"Last-Translator: Fran Raga <FRANKA1986@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: Fran Raga <FRANKA1986@gmail.com>, 2017\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/getinvolved/governance/codeofconduct/diversitystatement.rst:4
+msgid "Diversity statement"
+msgstr "Declaración de diversidad"
 
 #: ../../source/site/getinvolved/governance/codeofconduct/diversitystatement.rst:6
 msgid "The QGIS Project welcomes and encourages participation by everyone."
@@ -42,9 +47,13 @@ msgstr "Contactos útiles:"
 msgid "QGIS PSC (Project Steering Commity: psc@qgis.org)"
 msgstr "QGIS PSC (Project Steering Commity: psc@qgis.org)"
 
-#: ../../source/site/getinvolved/governance/codeofconduct/diversitystatement.rst:4
-msgid "Diversity statement"
-msgstr "Declaración de diversidad"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS Diversity statement"
 #~ msgstr ""

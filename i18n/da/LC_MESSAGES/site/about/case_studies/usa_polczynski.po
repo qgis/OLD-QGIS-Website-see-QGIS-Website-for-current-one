@@ -11,14 +11,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:28+0000\n"
 "Last-Translator: Preben Lisby <preben.lisby@gmail.com>, 2020\n"
 "Language-Team: Danish (https://www.transifex.com/qgis/teams/6144/da/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: da\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -32,16 +32,16 @@ msgid ""
 "components of their scholarly research, but these materials may not be "
 "readily available to scholars with similar interests.  The purpose of the "
 "OpenOttoman (Amy Singer, OpenOttoman: A Collaborative Platform for Digital "
-"Scholarship, https://networks.hnet.org/node/11419/discussions/166360"
-"/openottoman-collaborative-platform-digital-scholarship, 2017) is to "
-"stimulate generation of such materials and provide open and convenient "
-"access to these materials. The OpenOttoman Portal (http:// "
-"www.openottoman.org) (OOP) is one vehicle for accessing these materials.  "
-"Materials made available through the OOP include databases, with a prime "
-"example being gazetteers of Ottoman world places.  Here, we describe the "
-"Historical Gazetteer of the Crimea (HGC), a prototype OOP gazetteer that "
-"includes populated places, districts, and provinces of Crimea in existence "
-"at the end of the Crimean Khanate."
+"Scholarship, "
+"https://networks.hnet.org/node/11419/discussions/166360/openottoman-"
+"collaborative-platform-digital-scholarship, 2017) is to stimulate generation"
+" of such materials and provide open and convenient access to these "
+"materials. The OpenOttoman Portal (http:// www.openottoman.org) (OOP) is one"
+" vehicle for accessing these materials.  Materials made available through "
+"the OOP include databases, with a prime example being gazetteers of Ottoman "
+"world places.  Here, we describe the Historical Gazetteer of the Crimea "
+"(HGC), a prototype OOP gazetteer that includes populated places, districts, "
+"and provinces of Crimea in existence at the end of the Crimean Khanate."
 msgstr ""
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:7
@@ -83,6 +83,10 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:19
+msgid "Gazetteer databases"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:19
 msgid "Table 1: Gazetteer databases"
 msgstr ""
 
@@ -91,6 +95,10 @@ msgid ""
 "Opening the project in QGIS yields the result shown in Figure 1.  For the "
 "KML and shape file rivers databases, rivers were traced in QGIS using the "
 "Google Maps physical map."
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:29
+msgid "HGC-QGIS-Project.qgs opened in QGIS"
 msgstr ""
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:29
@@ -107,6 +115,10 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:38
+msgid "HGC database fields"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:38
 msgid "Table 2: HGC database fields."
 msgstr ""
 
@@ -115,6 +127,10 @@ msgid ""
 "Note that the ID can be opened in a web browser, thereby automatically "
 "displaying a GeoNames map with the populated place at its center, as shown "
 "in Figure 2."
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:47
+msgid "Opening the URL ID for Qarağy in a web browser"
 msgstr ""
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:47
@@ -190,4 +206,12 @@ msgid ""
 "assistance to the OpenOttoman (openottoman.org), a developing transnational "
 "digital collaborative for scholarship and public history focused on the "
 "Ottoman world."
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""

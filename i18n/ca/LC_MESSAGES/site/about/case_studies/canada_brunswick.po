@@ -5,19 +5,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
-"PO-Revision-Date: 2019-07-12 14:43+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: josep constantí mata <iceberg.jcm@gmail.com>, 2015\n"
 "Language-Team: Catalan (http://www.transifex.com/qgis/qgis-website/language/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:3
 msgid "Creating the Fundy Footpath Trail Map with QGIS"
+msgstr ""
+
+msgid "Fundy Path"
 msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:10
@@ -79,9 +82,9 @@ msgid ""
 "transferred from the GPS and to shapefile format in QGIS using the GPS "
 "plugin. Free data in vector formats was then obtained from the `Natural "
 "Resources Canada (NRCan) CanVec "
-"<http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-"
-"54CD-8349-C95E-1A4D03172FDF>`_ website and from `Service New Brunswick (SNB)"
-" online <http://www.snb.ca/gdam-igec/e/2900e_1.asp>`_."
+"<http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF>`_"
+" website and from `Service New Brunswick (SNB) online "
+"<http://www.snb.ca/gdam-igec/e/2900e_1.asp>`_."
 msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:55
@@ -147,6 +150,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:98
+#: ../../source/site/about/case_studies/canada_brunswick.rst:116
 msgid "The final Fundy Footpath map with accompanying guidebook"
 msgstr ""
 
@@ -180,6 +184,14 @@ msgid ""
 " GIS Technologist living in Alberta, Canada."
 msgstr ""
 
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
 #~ msgid ""
 #~ "The trail was created, is maintained, and promoted by a group of volunteers "
 #~ "known as the Fundy Hiking Trail Association Inc. (FHTA)(1975). As a non-"
@@ -210,6 +222,5 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-"
-#~ "54CD-8349-C95E-1A4D03172FDF"
+#~ "http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF"
 #~ msgstr ""

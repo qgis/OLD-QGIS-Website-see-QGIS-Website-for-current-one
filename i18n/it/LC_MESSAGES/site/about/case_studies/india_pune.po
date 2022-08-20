@@ -7,20 +7,41 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-07 15:40+0200\n"
-"PO-Revision-Date: 2017-09-20 09:29+0000\n"
-"Last-Translator: Marco Grisolia <marco.grisolia5@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-08-07 14:36+0000\n"
+"Last-Translator: Marco Grisolia <marco.grisolia5@gmail.com>, 2016\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/india_pune.rst:3
 msgid ""
 "Use of python console to prepare offline map from WMS (tile downloader)"
 msgstr "Uso della console python per preparare mappe offline da WMS (scaricatore di mattonelle)"
+
+#: ../../source/site/about/case_studies/india_pune.rst:5
+msgid ""
+"This study explains how to prepare offline maps from WMS/WFS or any map "
+"loaded in QGIS map view by downloading tiles with the help of a script in "
+"python console. The skript also generates a mosaic of all tiles for further "
+"use."
+msgstr "Questo studio spiega come preparare le mappe offline da sorgenti WMS/WFS o qualsiasi mappa caricata in QGIS, scaricando le tile con l'aiuto di uno script in python. Lo script genera anche un mosaico di tutte le piastrelle."
+
+#: ../../source/site/about/case_studies/india_pune.rst:7
+msgid ""
+"Accessing raster/vector maps through Web Mapping Service (WMS) service is "
+"very common and efficient. It has several advantages such as security, "
+"centralized and flexible map styles. Example is Google maps, Yahoo, Bing, "
+"MODIS, Landsat, maps published by NASA, NRSC (India). The "
+"disadvantage/limitation of WMS is it works via internet or intranet. It may "
+"not be possible to get internet connection always especially in the field "
+"during survey. Also WMS works slow, compared to any offline image format "
+"such as GeoTiff, jpg, img etc."
+msgstr "L'accesso vettoriale e raster tramite Web Map Service (WMS) è un servizio molto comune ed efficace. Essa ha diversi vantaggi, come la sicurezza, stili di mappa flessibili centralizzati. Un esempio sono le mappe Google maps, Yahoo, Bing, MODIS, Landsat, le carte pubblicate dalla NASA, NRSC (India). Lo svantaggio/limitazione di WMS è che funziona via internet o intranet. Potrebbe non essere possibile ottenere una connessione internet, specialmente sul campo durante i sondaggi. Anche il WMS è lento rispetto a qualsiasi formato di immagine non in linea come GeoTiff, jpg, img ecc."
 
 #: ../../source/site/about/case_studies/india_pune.rst:10
 msgid "Use of QGIS"
@@ -149,25 +170,13 @@ msgstr "Contatto: kadgiprashant@gmail.com"
 msgid "Website www.gisappco.com (under construction)"
 msgstr "Sito web www.gisappco.com (in costruzione)"
 
-#: ../../source/site/about/case_studies/india_pune.rst:5
-msgid ""
-"This study explains how to prepare offline maps from WMS/WFS or any map "
-"loaded in QGIS map view by downloading tiles with the help of a script in "
-"python console. The skript also generates a mosaic of all tiles for further "
-"use."
-msgstr "Questo studio spiega come preparare le mappe offline da sorgenti WMS/WFS o qualsiasi mappa caricata in QGIS, scaricando le tile con l'aiuto di uno script in python. Lo script genera anche un mosaico di tutte le piastrelle."
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/india_pune.rst:7
-msgid ""
-"Accessing raster/vector maps through Web Mapping Service (WMS) service is "
-"very common and efficient. It has several advantages such as security, "
-"centralized and flexible map styles. Example is Google maps, Yahoo, Bing, "
-"MODIS, Landsat, maps published by NASA, NRSC (India). The "
-"disadvantage/limitation of WMS is it works via internet or intranet. It may "
-"not be possible to get internet connection always especially in the field "
-"during survey. Also WMS works slow, compared to any offline image format "
-"such as GeoTiff, jpg, img etc."
-msgstr "L'accesso vettoriale e raster tramite Web Map Service (WMS) è un servizio molto comune ed efficace. Essa ha diversi vantaggi, come la sicurezza, stili di mappa flessibili centralizzati. Un esempio sono le mappe Google maps, Yahoo, Bing, MODIS, Landsat, le carte pubblicate dalla NASA, NRSC (India). Lo svantaggio/limitazione di WMS è che funziona via internet o intranet. Potrebbe non essere possibile ottenere una connessione internet, specialmente sul campo durante i sondaggi. Anche il WMS è lento rispetto a qualsiasi formato di immagine non in linea come GeoTiff, jpg, img ecc."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "This study explains how to prepare offline maps from WMS/WFS or any map "

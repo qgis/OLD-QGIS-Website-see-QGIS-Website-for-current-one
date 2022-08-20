@@ -5,23 +5,25 @@
 # 
 # Translators:
 # Fran Raga <FRANKA1986@gmail.com>, 2017
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2019
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019
+# Abigaíl García, 2022
+# Eric Armijo, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2017-03-02 14:00+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2019\n"
+"Last-Translator: Eric Armijo, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/qgis/teams/6144/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/italy_cesena.rst:3
 msgid "QGIS to describe the Cesena's Wall"
@@ -99,6 +101,10 @@ msgstr ""
 "1)."
 
 #: ../../source/site/about/case_studies/italy_cesena.rst:36
+msgid "Concept Map of the QGIS project"
+msgstr ""
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:36
 msgid "Fig. 1 Concept Map of the QGIS project"
 msgstr "Fig. 1 Mapa Conceptual del proyecto QGIS"
 
@@ -140,6 +146,11 @@ msgstr ""
 #: ../../source/site/about/case_studies/italy_cesena.rst:44
 msgid "The Cesena's Urban Progress from the 16th Century to the Present;"
 msgstr "El progreso urbano de Cesena desde el Siglo 16 al presente;"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:50
+#: ../../source/site/about/case_studies/italy_cesena.rst:63
+msgid "Satellite Map overlapped with information"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_cesena.rst:50
 msgid ""
@@ -284,3 +295,11 @@ msgstr ""
 "usando el programa QGIS bajo supervisión de Alessandra Borghi, profesora de "
 "la Universidad de Topografía y Mecánica teórica de la licenciatura de "
 "Ingeniería Civil y Ambiental en la Universidad eCampus."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

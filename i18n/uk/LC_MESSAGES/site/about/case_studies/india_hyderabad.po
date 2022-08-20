@@ -4,19 +4,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-20 01:09+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: uk\n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
 #: ../../source/site/about/case_studies/india_hyderabad.rst:3
 msgid "QGIS Trainings at NIRD Jaipur Centre, India"
 msgstr "Навчальні курси QGIS у джайпурському центрі NIRD, Індія"
+
+msgid "Study area in Portugal"
+msgstr "Район досліджень у Португалії"
 
 #: ../../source/site/about/case_studies/india_hyderabad.rst:11
 msgid ""
@@ -86,6 +90,7 @@ msgid ""
 msgstr "Як правило, під час навчальних курсів програмне забезпечення використовується для роботи з вододілами та Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS), оскільки це два основних напрямки в управлінні земельними ресурсами в уряді Індії. У вправах використовуються вільні місцеві растрові та векторні дані. За бажанням учасники також можуть використовувати дані своїх підрозділів. Навчання проходить у лабораторії, оснащеній 15 комп'ютерами з i5, 8 Гб пам'яті та Windows 7. Кількість слухачів коливається в діапазоні 20-30 учасників."
 
 #: ../../source/site/about/case_studies/india_hyderabad.rst:35
+#: ../../source/site/about/case_studies/india_hyderabad.rst:55
 msgid "Conducted QGIS training courses and participants"
 msgstr "Проведені курси та їх учасники"
 
@@ -101,9 +106,27 @@ msgid ""
 " post training support."
 msgstr "Основні теми включають: загальний вступ у ГІС та QGIS, основні панелі інструментів, модульна архітектура, географічна прив'язка даних, створення/редагування векторних даних, обрізка (вектор/растр), об'єднання, аналіз поверхні, горизонталі, конвертація CSV в SHP та SHP в KML, робота з даними GPS, інтерполяція, редагування атрибутів, калькулятор полів, макети карт, аналіз векторних даних тощо. Крім того, створено групу LinkedIn, де учасники можуть спілкуватися та звертатися за допомогою."
 
+#: ../../source/site/about/case_studies/india_hyderabad.rst:39
+msgid ""
+"Number of QGIS-based trainings conducted by author with participants’ "
+"details is shown in the table:"
+msgstr "Кількість навчальних курсів, проведених автором, та інформація про учасників показані у таблиці:"
+
 #: ../../source/site/about/case_studies/india_hyderabad.rst:42
 msgid "Success"
 msgstr "Успіх"
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:44
+msgid ""
+"Every month training is conducted with 20-30 participants so this number is "
+"increasing every month. Training feedbacks are remaining very positive and "
+"encouraging. Certificates are provided to the participants after completion "
+"of training. Presently handouts are being supplied to the participants in "
+"hard copy and tutorial, software and practice data in soft copies but plan "
+"is there to create DVDs containing screen-recorded lectures/demo of various "
+"topics in Hindi and English language. In future certificate and diploma "
+"programmes may also be initiated."
+msgstr "Щомісяця навчання проходить 20-30 чоловік, і це число постійно зростає. Відгуки учасників дуже позитивні. По закінченню навчання учасники отримують сертифікати. Зараз навчальний посібник видається у паперовому вигляді, а програма та навчальні матеріали --- у цифровому. В планах --- створити DVD-диск із записом лекцій на хінді та англійській. Також можливий запуск програми сертифікації."
 
 #: ../../source/site/about/case_studies/india_hyderabad.rst:48
 msgid "Author"
@@ -119,23 +142,13 @@ msgid ""
 "professor, NIRD Jaipur centre, Website: http://www.nird.org.in"
 msgstr "H K Solanki надіслав цю статтю у липні 2012. Він є доцентом у джайпурському центрі NIRD. Сайт http://www.nird.org.in"
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:39
-msgid ""
-"Number of QGIS-based trainings conducted by author with participants’ "
-"details is shown in the table:"
-msgstr "Кількість навчальних курсів, проведених автором, та інформація про учасників показані у таблиці:"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:44
-msgid ""
-"Every month training is conducted with 20-30 participants so this number is "
-"increasing every month. Training feedbacks are remaining very positive and "
-"encouraging. Certificates are provided to the participants after completion "
-"of training. Presently handouts are being supplied to the participants in "
-"hard copy and tutorial, software and practice data in soft copies but plan "
-"is there to create DVDs containing screen-recorded lectures/demo of various "
-"topics in Hindi and English language. In future certificate and diploma "
-"programmes may also be initiated."
-msgstr "Щомісяця навчання проходить 20-30 чоловік, і це число постійно зростає. Відгуки учасників дуже позитивні. По закінченню навчання учасники отримують сертифікати. Зараз навчальний посібник видається у паперовому вигляді, а програма та навчальні матеріали --- у цифровому. В планах --- створити DVD-диск із записом лекцій на хінді та англійській. Також можливий запуск програми сертифікації."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "Number of QGIS Based trainings conducted by author with participants’ "

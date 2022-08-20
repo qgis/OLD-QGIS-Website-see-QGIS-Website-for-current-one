@@ -1,37 +1,43 @@
 # 
 # Translators:
 # Jonas <pix_1@posteo.de>, 2018
+# Thomas Schüttenberg <thomas@qgis.de>, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2018-05-31 20:59+0000\n"
-"Last-Translator: Jonas <pix_1@posteo.de>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: Thomas Schüttenberg <thomas@qgis.de>, 2022\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: ../../source/site/getinvolved/governance/codeofconduct/diversitystatement.rst:4
+msgid "Diversity statement"
+msgstr "Diversity-Statement"
+
 #: ../../source/site/getinvolved/governance/codeofconduct/diversitystatement.rst:6
 msgid "The QGIS Project welcomes and encourages participation by everyone."
-msgstr "Das QGIS-Projekt begrüßt und fördert die Teilnahme aller."
+msgstr "Das QGIS-Projekt begrüßt und unterstützt die Teilnahme von allen."
 
 #: ../../source/site/getinvolved/governance/codeofconduct/diversitystatement.rst:8
 msgid ""
 "No matter how you identify yourself or how others perceive you: we welcome "
 "you. We welcome contributions from everyone as long as they interact "
 "constructively with our community."
-msgstr "Ganz gleich, wie Sie sich identifizieren oder wie andere Sie wahrnehmen: Wir heißen Sie willkommen. Wir freuen uns über Beiträge von allen, solange sie konstruktiv sind"
+msgstr "Ganz gleich, wie Sie sich identifizieren oder wie andere Sie wahrnehmen: Wir heißen Sie willkommen. Wir freuen uns über Beiträge von allen, solange sie konstruktiv mit unserer Gemeinschaft umgehen."
 
 #: ../../source/site/getinvolved/governance/codeofconduct/diversitystatement.rst:11
 msgid ""
 "While much of the work for our project is technical in nature, we value and "
 "encourage contributions from those with expertise in other areas, and "
 "welcome them into our community."
-msgstr "Da ein Großteil der Arbeit für unser Projekt technischer Natur ist, schätzen und fördern wir die Beiträge von Personen mit Fachkenntnissen in anderen Bereichen und begrüßen sie in unserer Gemeinschaft."
+msgstr "Obwohl ein Großteil der Arbeit für unser Projekt technischer Natur ist, schätzen und unterstützen wir die Beiträge von Personen mit Fachkenntnissen in anderen Bereichen und heißen sie in unserer Gemeinschaft willkommen."
 
 #: ../../source/site/getinvolved/governance/codeofconduct/diversitystatement.rst:15
 msgid "Useful contacts:"
@@ -39,11 +45,15 @@ msgstr "Nützliche Kontakte:"
 
 #: ../../source/site/getinvolved/governance/codeofconduct/diversitystatement.rst:17
 msgid "QGIS PSC (Project Steering Commity: psc@qgis.org)"
-msgstr "QGIS PSC (Project Steering Commity: psc@qgis.org)"
+msgstr "QGIS PSC (Projektsteuerungskomitee): psc@qgis.org"
 
-#: ../../source/site/getinvolved/governance/codeofconduct/diversitystatement.rst:4
-msgid "Diversity statement"
-msgstr "Diversity-Statement"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "Kontrollkästchen"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS Diversity statement"
 #~ msgstr ""

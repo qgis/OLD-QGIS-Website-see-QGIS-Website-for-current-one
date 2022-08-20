@@ -6,13 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2019-06-11 03:41+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018-2019\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -30,7 +31,11 @@ msgid ""
 "minor in Environmental Science."
 msgstr "私は中国の都市計画会社で働いています。一般的なデータ源は国家機密であったり、または存在すらしないかもしれないため、適切な環境保護を設計することが困難な場合が多いです。しばしば、私たちは適切な調査データなしで設計を行うことを求められます。さらに、たいていは適切な研究のために十分な時間がありません。私の背景は環境科学で副専攻が都市計画です。"
 
+msgid "Overview Context Map"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:14
+#, python-format
 msgid ""
 "The task was plan a conservation park on the Chinese side of the Ili River "
 "which supplies 80% of the water to Lake Balkhash.  FOSS GIS application + "
@@ -41,6 +46,9 @@ msgid ""
 "and would not pay to purchase GIS software to run the industry standard "
 "arcHYDRO."
 msgstr "業務はバルハシ湖への水の80％を供給するイリ川の中国側の保全公園を計画でした。FOSSのGISアプリケーション+ FOSS GISデータストア+ FOSSのGIS教育はすべて、本格的な保全計画のために必要な水文・生態プロセスをモデル化し再構築するために重要でした。事前の訓練や経験を持たない非科学者である私には、３つすべてなしにそれを行うことはできなかったでしょう。私の会社は、業界標準のarcHYDROを実行するためのGISソフトウェアを購入するために支払しませんでしたし、支払うつもりもなかったでしょう。"
+
+msgid "Stream Order With Distance"
+msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:22
 msgid "Story"
@@ -57,6 +65,9 @@ msgid ""
 "the attribute tables."
 msgstr "いくらかの試行錯誤を経て、私はQGISからarcHYDROのような出力を作成できました。USGS DEM Hydroshedsで始まり、これはQGIS内のGRASS機能とヘレナMitsovaによる研修を使用してテンション付正則スプラインに変換されました。RST表面は流域と流路を見つけるために、この表面を分析した、得られたベクタートポロジがQGISでクリーンアップされて水文ネットワークが作成され、また属性テーブルが構築されました。"
 
+msgid "Curve Number Grid"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:31
 msgid ""
 "This network was ranked by r.stream extension in GRASS to build Hortons and "
@@ -67,6 +78,9 @@ msgid ""
 " each watershed.  In this workflow, the QGIS tool attribute by location was "
 "invaluable."
 msgstr "このネットワークは、ホートンズとハックの河川次数を構築するためにGRASSのr.stream拡張によって順位付けされました。次いで、表面グリッド出口までの距離が作成され、最遠点を見つけるために地域統計によって分析されました。次に、GRASSのr.drainで濃度ラインの時間を追跡。最後に、GRASSのv.netを使用し、各流域について流動点、流路、TOC経路のネットワーク、及びHMDPを構築しました。このワークフローでは、QGISツールの「場所による属性」が非常に貴重でした。"
+
+msgid "Flow Key"
+msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:38
 msgid ""
@@ -79,6 +93,9 @@ msgid ""
 " r.mapcalc and merged the soil and landcover grids into and NRCS TR-55 curve"
 " numbers following the arcHYDRO methodology."
 msgstr "基本的な水文ネットワークが終わった後、私はテーブル結合で国連FAO土壌データベースを使用して土壌を分類しました。それからQGISのクエリー機能を使用して、FAO土壌がUSDA土壌に変換されました。以前にダウンロードUSGS ETM7 +​​グリッドがNLCDグリッドへのGRASSでi.cluserとr.maxlikで分類しました。再分類テーブルを使用することにより、私は陸上の流れのためのマニングのn値のグリッドに土地被覆を変換しました。最後に私はarcHYDROの方法論に従って、r.mapcalcにルックアップテーブルを書いて、土壌と土地被覆グリッドをNRCS TR-55曲線番号にマージしました。"
+
+msgid "Flow rates"
+msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:45
 msgid ""
@@ -120,6 +137,14 @@ msgid ""
 " Hydrologic & Hydraulic modelling, Landscape Ecology modelling, Ecosystem "
 "Valuation, Transportation Modelling and GIS-Based Design Visualization."
 msgstr "ロバート・ウォードはパーソンズBrinkerhoffの都市設計者兼GIS分析者で、高度な技術と高度な芸術の交差点で働いています。氏は、同済大学とAutodesk大学で教えています。氏は、GISベースの水文＆油圧モデリング、景観生態学のモデリング、生態系評価、交通モデリングとGISベースデザインの可視化に興味があります。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "Robert Ward is an Urban Designer and GIS Analyst at Parsons Brinkerhoff "

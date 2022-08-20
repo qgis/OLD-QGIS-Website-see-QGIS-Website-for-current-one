@@ -11,16 +11,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:28+0000\n"
 "Last-Translator: Dêmian Francisco Neto Castro Pereira <demian.castro.13@gmail.com>, 2019\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:3
 msgid "Historical Gazetteer of the Crimea"
@@ -32,16 +32,16 @@ msgid ""
 "components of their scholarly research, but these materials may not be "
 "readily available to scholars with similar interests.  The purpose of the "
 "OpenOttoman (Amy Singer, OpenOttoman: A Collaborative Platform for Digital "
-"Scholarship, https://networks.hnet.org/node/11419/discussions/166360"
-"/openottoman-collaborative-platform-digital-scholarship, 2017) is to "
-"stimulate generation of such materials and provide open and convenient "
-"access to these materials. The OpenOttoman Portal (http:// "
-"www.openottoman.org) (OOP) is one vehicle for accessing these materials.  "
-"Materials made available through the OOP include databases, with a prime "
-"example being gazetteers of Ottoman world places.  Here, we describe the "
-"Historical Gazetteer of the Crimea (HGC), a prototype OOP gazetteer that "
-"includes populated places, districts, and provinces of Crimea in existence "
-"at the end of the Crimean Khanate."
+"Scholarship, "
+"https://networks.hnet.org/node/11419/discussions/166360/openottoman-"
+"collaborative-platform-digital-scholarship, 2017) is to stimulate generation"
+" of such materials and provide open and convenient access to these "
+"materials. The OpenOttoman Portal (http:// www.openottoman.org) (OOP) is one"
+" vehicle for accessing these materials.  Materials made available through "
+"the OOP include databases, with a prime example being gazetteers of Ottoman "
+"world places.  Here, we describe the Historical Gazetteer of the Crimea "
+"(HGC), a prototype OOP gazetteer that includes populated places, districts, "
+"and provinces of Crimea in existence at the end of the Crimean Khanate."
 msgstr ""
 "Todos os dias, os otomanistas de todo o mundo geram materiais valiosos como "
 "componentes de suas pesquisas acadêmicas, mas esses materiais podem não "
@@ -125,6 +125,10 @@ msgstr ""
 "usando o mapa físico do Google Maps."
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:19
+msgid "Gazetteer databases"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:19
 msgid "Table 1: Gazetteer databases"
 msgstr "Tabela 1: Bancos de Dados do Gazetteer"
 
@@ -137,6 +141,10 @@ msgstr ""
 "A abertura do projeto no QGIS produz o resultado mostrado na Figura 1. Para "
 "os bancos de dados de arquivos KML e de arquivos de formas, os rios foram "
 "rastreados no QGIS usando o mapa físico do Google Maps."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:29
+msgid "HGC-QGIS-Project.qgs opened in QGIS"
+msgstr ""
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:29
 msgid "Figure 1: HGC-QGIS-Project.qgs opened in QGIS."
@@ -158,6 +166,10 @@ msgstr ""
 " local do HGC."
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:38
+msgid "HGC database fields"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:38
 msgid "Table 2: HGC database fields."
 msgstr "Tabela 2: campos do banco de dados do HGC."
 
@@ -170,6 +182,10 @@ msgstr ""
 "Observe que o ID pode ser aberto em um navegador da web, exibindo "
 "automaticamente um mapa GeoNames com o local populado em seu centro, "
 "conforme mostrado na Figura 2."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:47
+msgid "Opening the URL ID for Qarağy in a web browser"
+msgstr ""
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:47
 msgid "Figure 2: Opening the URL ID for Qarağy in a web browser."
@@ -285,3 +301,11 @@ msgstr ""
 "ao OpenOttoman (openottoman.org), um colaborador digital transnacional em "
 "desenvolvimento para bolsas de estudo e história pública focado no mundo "
 "otomano."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

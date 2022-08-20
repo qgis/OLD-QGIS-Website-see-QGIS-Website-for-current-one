@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-30 12:18+0100\n"
-"PO-Revision-Date: 2017-09-22 14:42+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-09-08 07:58+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2015\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -102,6 +103,7 @@ msgid ""
 msgstr "Modelul Habitatului Adecvat [Pasul X]: [δ] Un Index Adecvat al Elevației a fost derivat din AsterDEM 2.0 [vi] și, împreună cu Indexul de Densitate a Populației [V], au fost integrate în modelul final al habitatului adecvat (figura 3) cu ajutorul #Calculatorului raster "
 
 #: ../../source/site/about/case_studies/europe_lynx.rst:51
+#, python-format
 msgid ""
 "*Note:Defining forest (>= 75 % cover) as best suitable and using the "
 "elevation data to reduce index values above assumed tree line is "
@@ -225,3 +227,11 @@ msgid ""
 "Please contact Luca.Ehrminger(at)hnee.de, David.Winger(at)hnee.de, or "
 "Prof.Dr.Jan-Peter Mund: Jan-Peter.Mund(at)hnee.de for further information."
 msgstr "Contactați-i pe Luca.Ehrminger(at)hnee.de, David.Winger(at)hnee.de sau Prof.Dr.Jan-Peter Mund: Jan-Peter.Mund(at)hnee.de pentru informații suplimentare."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

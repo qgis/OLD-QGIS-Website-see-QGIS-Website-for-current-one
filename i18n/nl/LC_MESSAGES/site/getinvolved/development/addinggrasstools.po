@@ -5,15 +5,27 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-29 10:59+0200\n"
-"PO-Revision-Date: 2017-09-23 10:08+0000\n"
-"Last-Translator: DiGro\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-08-07 14:37+0000\n"
+"Last-Translator: DiGro, 2015-2017\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:5
+msgid "Adding GRASS Tools"
+msgstr "GRASS-gereedschappen toevoegen"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:7
+msgid ""
+"GRASS modules can be run from QGIS *GRASS Tools* if QGIS was started from a "
+"GRASS shell or if a GRASS mapset was opened from QGIS. The modules work with"
+" GRASS data only."
+msgstr "Modules voor GRASS kunnen worden uitgevoerd vanuit QGIS *GRASS Tools* als QGIS werd gestart vanuit een shell voor GRASS of als een mapset voor GRASS werd geopend in QGIS. De modules werken alleen met gegevens voor GRASS."
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:11
 msgid ""
@@ -40,6 +52,22 @@ msgid ""
 "it is run with _*--interface-description_* option, the output is in XML "
 "format, for example:"
 msgstr "De opties voor elke module die wordt weergegeven op de tab _*Options_* van de modules worden gemaakt in overeenstemming met de combinatie van de definitie in het bestand QGM (QGIS GRASS module) en de definitie van de opties  in GRASS module of GRASS script --- GMO (GRASS moduleopties). Omdat elke optie in QGM is gekoppeld aan één (of meer) GMO, is het vaak handig, of zelfs noodzakelijk, om de GMO te bekijken. GMO's worden uitgevoerd door de module van GRASS als die wordt uitgevoerd met de optie _*--interface-description_*, de uitvoer is in de indeling XML, bijvoorbeeld:"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:36
+msgid ""
+"Some GRASS modules have too many options which can be confusing for "
+"beginners. In QGM it is possible to define only some of them and possibly "
+"set some default values and/or hide some options with certain value. That "
+"means that more QGIS-GRASS modules can be defined for each GRASS module. For"
+" example the module r.to.vect was divided into three QGIS-GRASS modules with"
+" predefined \"feature\" option. The QGM definition is written in XML format "
+"file with extension .qgm, one for each QGIS-GRASS module. Configuration "
+"files are stored in _*qgis/src/plugins/grass/modules*_ directory and "
+"installed in _*share/qgis/grass/modules*_ directory. The name of the file "
+"should start with GRASS module name + a word describing the specific task. "
+"For example, the module which extracts vector lines from raster is called "
+"r.to.vect.line.qgm."
+msgstr "Sommige modules voor GRASS hebben teveel opties, die gebruikers in verwarring kunnen brengen. In QGM is het mogelijk om slechts enkele ervan te definiëren en is het mogelijk enkele standaardwaarden in te stellen en/of sommige opties met een bepaalde waarde te verbergen. Dat betekent dat meer modules voor QGIS-GRASS kunnen worden gedefinieerd voor elke module van GRASS. De module r.to.vect werd bijvoorbeeld opgedeeld in drie modules voor QGIS-GRASS met de vooraf gedefinieerde optie voor \"feature\". De definitie voor QGM is geschreven in een bestand in de indeling XMLmet de extensie .qgm, één voor elke module van QGIS-GRASS module. Configuratiebestanden zijn opgeslagen in de map _*qgis/src/plugins/grass/modules*_  en geïnstalleerd in de map _*share/qgis/grass/modules*_. De naam van het bestand zou moeten beginnen met de naam van de module van GRASS + een woord dat de specifieke taak beschrijft. Bijvoorbeeld: de module die vectorlijnen uit een raster uitneemt is genaamd r.to.vect.line.qgm."
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:48
 msgid "Here is an example of a configuration file:"
@@ -78,6 +106,15 @@ msgid ""
 "*field* --- for vector layers defines attribute field, the option is created"
 " as combobox with available fields. For example (v.to.db.qgm):"
 msgstr "*field* --- voor vectorlagen definieert dit het veld voor het attribuut, de optie wordt gemaakt als combinatievak met de beschikbare velden. Bijvoorbeeld (v.to.db.qgm):"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:92
+msgid ""
+"*selection* --- this is quite interesting and useful type of option. It "
+"allows to define list of GRASS vector categories using QGIS interface. "
+"Features (and their categories, GRASS feature ID equivalent) can be selected"
+" either with 'Select Features' tool or in the attribute table. The list of "
+"categories is updated dynamically. Example (v.extract.list.qgm):"
+msgstr "*selection* --- dit is een zeer interessant en nuttig type option. Het maakt het mogelijk een lijst van GRASS vectorcategorieën te definiëren met behulp van de interface van QGIS. Objecten (en hun categorieën, equivalent voor het GRASS object-ID) kunnen worden geselecteerd ofwel met het gereedschap 'Objecten selecteren' of in de attributentabel. De lijst met categorieën wordt dynamisch bijgewerkt. Voorbeeld (v.extract.list.qgm):"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:103
 msgid "Common option/flag tag attributes"
@@ -131,6 +168,13 @@ msgid ""
 "vector layer will be used for that option. For example (v.overlay.or.qgm):"
 msgstr "*typeoption* --- deze optie kan worden gebruikt met vectorlagen om de naam van het type vectorinvoer te definiëren, wanneer de module wordt uitgevoerd, het type geselecteerde vectorlaag zal worden gebruikt voor die optie. Bijvoorbeeld (v.overlay.or.qgm):"
 
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:128
+msgid ""
+"It means that if a layer is selected from combobox of this option the "
+"_*atype*_ option is automaticaly set to the layer's type, and thus _*atype*_"
+" does not have to be added at all."
+msgstr "Het betekent dat als een laag is geselecteerd uit een combinatievak van deze optie de optie _*atype*_ automatisch wordt ingesteld op het type van de laag, en dus hoeft _*atype*_ in het geheel niet te worden toegevoegd."
+
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:132
 msgid "*layeroption* --- equivalent of typeoption for layer."
 msgstr "*layeroption* --- equivalent van typeoption voor de laag."
@@ -169,12 +213,27 @@ msgstr "Het betekent dat alleen de attribuutvelden van de typen integer en doubl
 msgid "Behind the scene"
 msgstr "Achter de schermen"
 
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:157
+msgid ""
+"The idea QGIS-GRASS modules implementation is to use maximum information "
+"from GMO and only simplify the interface. Here are described some rules how "
+"information from GMO are used and in which order if not all of them are "
+"defined in GMO."
+msgstr "Het idee van de implementatie van de modules QGIS-GRASS is om maximale informatie uit GMO te gebruiken en alleen de interface te vereenvoudigen. Hier worden enkele regels beschreven over hoe informatie vanuit GMO wordt gebruikt en in welke volgorde als zij niet allemaal zijn gedefinieerd in GMO."
+
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:162
 msgid ""
 "*label* --- if label attribute is defined in QGM it is used as option label,"
 " if it is not defined GMO option label tag is used and if it is not defined "
 "GMO option description tag is used"
 msgstr "*label* --- als het attribuut label is gedefinieerd in QGM wordt het gebruikt als optielabel, als het niet is gedefinieerd wordt de GMO-optie tag label gebruikt en als het niet is gedefinieerd wordt de GMO-optie tag description gebruikt"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:165
+msgid ""
+"*tooltip* --- (appeares on mouseover the option) if label is defined (either"
+" in QGM or GMO) and description is defined in GMO (thus label and "
+"description differ) the GMO description tag is used for tooltip"
+msgstr "*tooltip* --- (verschijnt bij cursor boven de optie) als een label is gedefinieerd (ofwel in QGM of in GMO) en beschrijving is gedefinieerd in GMO (dus label en beschrijving verschillen van elkaar) wordt de tag van de beschrijving in GMO gebruikt voor de Helptip"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:168
 msgid ""
@@ -210,6 +269,22 @@ msgstr "2 pictures --- QGIS zal pictogram maken: 1 -> 2"
 msgid "3 pictures --- QGIS will create icon: 1 + 2 -> 3"
 msgstr "3 pictures --- QGIS zal pictogram maken: 1 + 2 -> 3"
 
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:185
+msgid ""
+"The name of the picture starts with QGIS-GRASS module name to which is "
+"appended picture number, for example: v.overlay.and.1.svg, "
+"v.overlay.and.2.svg, v.overlay.and.3.svg. It is possible to combine SVG and "
+"PNG pictures."
+msgstr "De naam van de afbeelding begint met de naam van de module voor QGIS-GRASS waaraan een nummer voor de afbeelding is toegevoegd, bijvoorbeeld: v.overlay.and.1.svg, v.overlay.and.2.svg, v.overlay.and.3.svg. Het is mogelijk om afbeeldingen SVG en PNG te vombineren."
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:189
+msgid ""
+"SVG and PNG pictures can be generated from QGIS using *Map Composer*. The "
+"size of PNG images should be larger than the expected icon size, because it "
+"is expected to be later used in automatically generated documentation, where"
+" pictures will be used in larger size."
+msgstr "Afbeeldingen SVG en PNG kunnen vanuit QGIS worden gegenereerd met behulp van *Printvormgeving*. De grootte van PNG-afbeeldingen zou groter kunnen zijn dan de verwachte afmeting va het pictogram, omdat wordt verwacht dat ze later worden gebruikt in automatisch gegenereerde documentatie, waar afbeeldingen in ene grotere afmeting worden gebruikt."
+
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:195
 msgid "QGIS GRASS scripts"
 msgstr "QGIS GRASS scripts"
@@ -238,6 +313,12 @@ msgstr "Als we eenmaal een nieuw QGM configuratiebestand hebben, kunnen we de mo
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:211
 msgid "Here is an example of a record for r.to.vect.line.qgm module"
 msgstr "Hier is een voorbeeld van een record voor de module r.to.vect.line.qgm"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:220
+msgid ""
+"For section/module it is possible to specify GRASS version for which it is "
+"valid using version_min/version_max attributes:"
+msgstr "Voor gedeelte/module is het mogelijk om de versie van GRASS te specificeren waarvoor het geldig is, met behulp van de attributen version_min/version_max:"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:223
 msgid ""
@@ -349,6 +430,18 @@ msgid ""
 "are most important to be added."
 msgstr "De meeste modules zijn toegevoegd. Als u aanvullende nodig heeft, schrijf dan naar de mailinglijst voor ontwikkelaars van QGIS, en vermeld daar de modules waarvan u denkt dat zij het meest belangrijk zijn om te worden toegevoegd."
 
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:274
+msgid ""
+"You should post the name of a new QGIS-GRASS module, the name of the GRASS "
+"module and the options which you want to use. For example:"
+msgstr "U zou de naam van een nieuwe module voor QGIS-GRASS moeten posten, de naam van de module van GRASS en de opties die u wilt gebruiken. Bijvoorbeeld:"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:281
+msgid ""
+"See also here for discussion on `GRASS-QGIS relevant module list "
+"<http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list>`_."
+msgstr "Zie ook hier voor bespreken van `GRASS-QGIS relevante lijst met modules <http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list>`_."
+
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:286
 msgid "Modules to be deprecated"
 msgstr "Modules die komen te vervallen"
@@ -362,97 +455,13 @@ msgid ""
 "the redmine (better still: fix it yourself and send the patch)."
 msgstr "Vermeld hieronder de modules die zouden moeten worden verwijderd, met een omschrijving voor deze suggestie (bijv.: sommige modules gerelateerd aan projecties ziijn moeilijk te begrijpen en niet van algemeen nut). Onthoud echter: sommige modules zijn niet grondig getest. Test ze zelf en als u een probleem ermee ontdekt, rapporteer het aan Redmine (nog beter: repareer het zelf en stuur de patch)."
 
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:5
-msgid "Adding GRASS Tools"
-msgstr "GRASS-gereedschappen toevoegen"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:7
-msgid ""
-"GRASS modules can be run from QGIS *GRASS Tools* if QGIS was started from a "
-"GRASS shell or if a GRASS mapset was opened from QGIS. The modules work with"
-" GRASS data only."
-msgstr "Modules voor GRASS kunnen worden uitgevoerd vanuit QGIS *GRASS Tools* als QGIS werd gestart vanuit een shell voor GRASS of als een mapset voor GRASS werd geopend in QGIS. De modules werken alleen met gegevens voor GRASS."
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:36
-msgid ""
-"Some GRASS modules have too many options which can be confusing for "
-"beginners. In QGM it is possible to define only some of them and possibly "
-"set some default values and/or hide some options with certain value. That "
-"means that more QGIS-GRASS modules can be defined for each GRASS module. For"
-" example the module r.to.vect was divided into three QGIS-GRASS modules with"
-" predefined \"feature\" option. The QGM definition is written in XML format "
-"file with extension .qgm, one for each QGIS-GRASS module. Configuration "
-"files are stored in _*qgis/src/plugins/grass/modules*_ directory and "
-"installed in _*share/qgis/grass/modules*_ directory. The name of the file "
-"should start with GRASS module name + a word describing the specific task. "
-"For example, the module which extracts vector lines from raster is called "
-"r.to.vect.line.qgm."
-msgstr "Sommige modules voor GRASS hebben teveel opties, die gebruikers in verwarring kunnen brengen. In QGM is het mogelijk om slechts enkele ervan te definiëren en is het mogelijk enkele standaardwaarden in te stellen en/of sommige opties met een bepaalde waarde te verbergen. Dat betekent dat meer modules voor QGIS-GRASS kunnen worden gedefinieerd voor elke module van GRASS. De module r.to.vect werd bijvoorbeeld opgedeeld in drie modules voor QGIS-GRASS met de vooraf gedefinieerde optie voor \"feature\". De definitie voor QGM is geschreven in een bestand in de indeling XMLmet de extensie .qgm, één voor elke module van QGIS-GRASS module. Configuratiebestanden zijn opgeslagen in de map _*qgis/src/plugins/grass/modules*_  en geïnstalleerd in de map _*share/qgis/grass/modules*_. De naam van het bestand zou moeten beginnen met de naam van de module van GRASS + een woord dat de specifieke taak beschrijft. Bijvoorbeeld: de module die vectorlijnen uit een raster uitneemt is genaamd r.to.vect.line.qgm."
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:92
-msgid ""
-"*selection* --- this is quite interesting and useful type of option. It "
-"allows to define list of GRASS vector categories using QGIS interface. "
-"Features (and their categories, GRASS feature ID equivalent) can be selected"
-" either with 'Select Features' tool or in the attribute table. The list of "
-"categories is updated dynamically. Example (v.extract.list.qgm):"
-msgstr "*selection* --- dit is een zeer interessant en nuttig type option. Het maakt het mogelijk een lijst van GRASS vectorcategorieën te definiëren met behulp van de interface van QGIS. Objecten (en hun categorieën, equivalent voor het GRASS object-ID) kunnen worden geselecteerd ofwel met het gereedschap 'Objecten selecteren' of in de attributentabel. De lijst met categorieën wordt dynamisch bijgewerkt. Voorbeeld (v.extract.list.qgm):"
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:128
-msgid ""
-"It means that if a layer is selected from combobox of this option the "
-"_*atype*_ option is automaticaly set to the layer's type, and thus _*atype*_"
-" does not have to be added at all."
-msgstr "Het betekent dat als een laag is geselecteerd uit een combinatievak van deze optie de optie _*atype*_ automatisch wordt ingesteld op het type van de laag, en dus hoeft _*atype*_ in het geheel niet te worden toegevoegd."
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:157
-msgid ""
-"The idea QGIS-GRASS modules implementation is to use maximum information "
-"from GMO and only simplify the interface. Here are described some rules how "
-"information from GMO are used and in which order if not all of them are "
-"defined in GMO."
-msgstr "Het idee van de implementatie van de modules QGIS-GRASS is om maximale informatie uit GMO te gebruiken en alleen de interface te vereenvoudigen. Hier worden enkele regels beschreven over hoe informatie vanuit GMO wordt gebruikt en in welke volgorde als zij niet allemaal zijn gedefinieerd in GMO."
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:165
-msgid ""
-"*tooltip* --- (appeares on mouseover the option) if label is defined (either"
-" in QGM or GMO) and description is defined in GMO (thus label and "
-"description differ) the GMO description tag is used for tooltip"
-msgstr "*tooltip* --- (verschijnt bij cursor boven de optie) als een label is gedefinieerd (ofwel in QGM of in GMO) en beschrijving is gedefinieerd in GMO (dus label en beschrijving verschillen van elkaar) wordt de tag van de beschrijving in GMO gebruikt voor de Helptip"
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:185
-msgid ""
-"The name of the picture starts with QGIS-GRASS module name to which is "
-"appended picture number, for example: v.overlay.and.1.svg, "
-"v.overlay.and.2.svg, v.overlay.and.3.svg. It is possible to combine SVG and "
-"PNG pictures."
-msgstr "De naam van de afbeelding begint met de naam van de module voor QGIS-GRASS waaraan een nummer voor de afbeelding is toegevoegd, bijvoorbeeld: v.overlay.and.1.svg, v.overlay.and.2.svg, v.overlay.and.3.svg. Het is mogelijk om afbeeldingen SVG en PNG te vombineren."
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:189
-msgid ""
-"SVG and PNG pictures can be generated from QGIS using *Map Composer*. The "
-"size of PNG images should be larger than the expected icon size, because it "
-"is expected to be later used in automatically generated documentation, where"
-" pictures will be used in larger size."
-msgstr "Afbeeldingen SVG en PNG kunnen vanuit QGIS worden gegenereerd met behulp van *Printvormgeving*. De grootte van PNG-afbeeldingen zou groter kunnen zijn dan de verwachte afmeting va het pictogram, omdat wordt verwacht dat ze later worden gebruikt in automatisch gegenereerde documentatie, waar afbeeldingen in ene grotere afmeting worden gebruikt."
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:220
-msgid ""
-"For section/module it is possible to specify GRASS version for which it is "
-"valid using version_min/version_max attributes:"
-msgstr "Voor gedeelte/module is het mogelijk om de versie van GRASS te specificeren waarvoor het geldig is, met behulp van de attributen version_min/version_max:"
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:274
-msgid ""
-"You should post the name of a new QGIS-GRASS module, the name of the GRASS "
-"module and the options which you want to use. For example:"
-msgstr "U zou de naam van een nieuwe module voor QGIS-GRASS moeten posten, de naam van de module van GRASS en de opties die u wilt gebruiken. Bijvoorbeeld:"
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:281
-msgid ""
-"See also here for discussion on `GRASS-QGIS relevant module list "
-"<http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list>`_."
-msgstr "Zie ook hier voor bespreken van `GRASS-QGIS relevante lijst met modules <http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list>`_."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "See also here for discussion on \"GRASS-QGIS relevant module "

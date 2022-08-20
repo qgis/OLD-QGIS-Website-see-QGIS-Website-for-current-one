@@ -4,21 +4,25 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-11-01 07:36+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Khmer (Cambodia) (http://www.transifex.com/projects/p/qgis-website/language/km_KH/)\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Khmer (Cambodia) (http://www.transifex.com/qgis/qgis-website/language/km_KH/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: km_KH\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:4
+#: ../../source/site/about/case_studies/india_hyderabad.rst:3
 msgid "QGIS Trainings at NIRD Jaipur Centre, India"
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:12
+msgid "Study area in Portugal"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:11
 msgid ""
 "The National Institute of Rural Development (NIRD) is an Apex institute of "
 "Ministry of Rural Development, Government of India. Headquarter is located "
@@ -45,15 +49,15 @@ msgid ""
 "and feedbacks."
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:16
+#: ../../source/site/about/case_studies/india_hyderabad.rst:15
 msgid "QGIS is used for all GIS training courses"
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:23
+#: ../../source/site/about/case_studies/india_hyderabad.rst:22
 msgid "QGIS training course at NIRD Jaipur Centre"
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:25
+#: ../../source/site/about/case_studies/india_hyderabad.rst:24
 msgid ""
 "Since creation of NIRD Jaipur centre, only QuantumGIS is being used for all "
 "GIS trainings at the centre. Further it is being messaged and advised in all"
@@ -63,7 +67,7 @@ msgid ""
 " like GPSs, computers etc."
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:27
+#: ../../source/site/about/case_studies/india_hyderabad.rst:26
 msgid ""
 "There is a question why QGIS only when other software like uDig, MapWindow, "
 "gvSIG, GRASS are also there. The answer lies in the facts that QGIS is an "
@@ -74,7 +78,7 @@ msgid ""
 "satisfying the present queries and wishes for future."
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:29
+#: ../../source/site/about/case_studies/india_hyderabad.rst:28
 msgid ""
 "The applications of software during training are generally concentrated on "
 "Watershed and Mahatma Gandhi National Rural Employment Guarantee Scheme "
@@ -85,11 +89,12 @@ msgid ""
 "and Windows7 OS. Per training number of trainees remains between 20-30."
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:36
+#: ../../source/site/about/case_studies/india_hyderabad.rst:35
+#: ../../source/site/about/case_studies/india_hyderabad.rst:55
 msgid "Conducted QGIS training courses and participants"
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:38
+#: ../../source/site/about/case_studies/india_hyderabad.rst:37
 msgid ""
 "General topics covered are basic introduction to the GIS and QGIS software ,"
 " major tool bars, plug-in structure, geo-referencing, creation/editing of "
@@ -101,17 +106,17 @@ msgid ""
 " post training support."
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:40
+#: ../../source/site/about/case_studies/india_hyderabad.rst:39
 msgid ""
-"Number of QGIS Based trainings conducted by author with participants’ "
+"Number of QGIS-based trainings conducted by author with participants’ "
 "details is shown in the table:"
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:43
+#: ../../source/site/about/case_studies/india_hyderabad.rst:42
 msgid "Success"
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:45
+#: ../../source/site/about/case_studies/india_hyderabad.rst:44
 msgid ""
 "Every month training is conducted with 20-30 participants so this number is "
 "increasing every month. Training feedbacks are remaining very positive and "
@@ -119,20 +124,44 @@ msgid ""
 "of training. Presently handouts are being supplied to the participants in "
 "hard copy and tutorial, software and practice data in soft copies but plan "
 "is there to create DVDs containing screen-recorded lectures/demo of various "
-"topics in Hindi and English language.  In future certificate and diploma "
+"topics in Hindi and English language. In future certificate and diploma "
 "programmes may also be initiated."
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:49
+#: ../../source/site/about/case_studies/india_hyderabad.rst:48
 msgid "Author"
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:56
+#: ../../source/site/about/case_studies/india_hyderabad.rst:55
 msgid "H K Solanki"
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:58
+#: ../../source/site/about/case_studies/india_hyderabad.rst:57
 msgid ""
 "This article was contributed in July 2012 by H K Solanki, Assistant "
 "professor, NIRD Jaipur centre, Website: http://www.nird.org.in"
 msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid ""
+#~ "Number of QGIS Based trainings conducted by author with participants’ "
+#~ "details is shown in the table:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Every month training is conducted with 20-30 participants so this number is "
+#~ "increasing every month. Training feedbacks are remaining very positive and "
+#~ "encouraging. Certificates are provided to the participants after completion "
+#~ "of training. Presently handouts are being supplied to the participants in "
+#~ "hard copy and tutorial, software and practice data in soft copies but plan "
+#~ "is there to create DVDs containing screen-recorded lectures/demo of various "
+#~ "topics in Hindi and English language.  In future certificate and diploma "
+#~ "programmes may also be initiated."
+#~ msgstr ""

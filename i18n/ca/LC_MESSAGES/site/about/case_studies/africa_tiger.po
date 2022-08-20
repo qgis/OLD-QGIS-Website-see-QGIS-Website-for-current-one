@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2017-09-22 09:58+0000\n"
-"Last-Translator: josep constantí mata <iceberg.jcm@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:43+0000\n"
+"Last-Translator: josep constantí mata <iceberg.jcm@gmail.com>, 2015\n"
 "Language-Team: Catalan (http://www.transifex.com/qgis/qgis-website/language/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -78,6 +79,10 @@ msgid ""
 "based processing chains. This functionality was used to create a library of "
 "standardized workflows (with instructions) for performing common but complex"
 " tasks related to EO data analysis within water resource management."
+msgstr ""
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:22
+msgid "The WOIS graphical user interface"
 msgstr ""
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:22
@@ -206,4 +211,12 @@ msgid ""
 "gras.com), GeoVille (www.geoville.com), the technical universities in Vienna"
 " (http://rs.geo.tuwien.ac.at/) and Copenhagen (http://www.env.dtu.dk/) as "
 "well as the European Space Agency ( www.esa.int)."
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""

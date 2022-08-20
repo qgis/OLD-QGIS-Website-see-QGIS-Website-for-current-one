@@ -4,21 +4,22 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# DiGro, 2020
+# Jeroen Hovens <jeroen@groenebij.nl>, 2022
+# DiGro, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:40+0000\n"
-"Last-Translator: DiGro, 2020\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (https://www.transifex.com/qgis/teams/6144/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -82,11 +83,22 @@ msgstr "Publicaties van open cursusmateriaal voor QGIS"
 msgid "Authoring QGIS books"
 msgstr "Schrijven van boeken over QGIS"
 
-#: ../../source/site/getinvolved/certification.rst:23
-msgid "Workflow Certification"
-msgstr "Certificeren van werkstroom"
+#: ../../source/site/getinvolved/certification.rst:20
+msgid ""
+"To contact the certification team, please write to certification@qgis.org."
+msgstr ""
+"Schrijf naar certification@qgis.org om contact op te nemen met het "
+"certificatiie-team."
 
-#: ../../source/site/getinvolved/certification.rst:25
+#: ../../source/site/getinvolved/certification.rst:24
+msgid "Certification Process"
+msgstr "Proces van certificeren"
+
+#: ../../source/site/getinvolved/certification.rst:27
+msgid "Application"
+msgstr "Programma"
+
+#: ../../source/site/getinvolved/certification.rst:29
 msgid ""
 "You are required to provide the training material for each of your courses. "
 "This includes exercises, lectures and data. This material will be reviewed "
@@ -94,13 +106,13 @@ msgid ""
 "quality. If the material is not of adequate quality, this can be cause for "
 "refusal."
 msgstr ""
-"U bent verplicht om het trainigsmateriaal voor al uw cursussen te "
+"U bent verplicht om het trainingsmateriaal voor al uw cursussen te "
 "overleggen. Dit omvat tevens oefeningen, lessen en gegevens. Dit materiaal "
-"zal wordne nagekeken op recentheid, nauwkeurige vertegenwoordiging van het "
+"zal worden nagekeken op recentheid, nauwkeurige vertegenwoordiging van het "
 "project QGIS en algemene kwaliteit. Als het materiaal niet van voldoende "
 "kwaliteit is, kan dat een reden voor afwijzing zijn."
 
-#: ../../source/site/getinvolved/certification.rst:28
+#: ../../source/site/getinvolved/certification.rst:32
 msgid ""
 "Following an initial review, the application will be sent to local QGIS "
 "groups for their opinion. This portion of the review should take place in "
@@ -111,27 +123,27 @@ msgid ""
 " a member of the QGIS community in good standing this can be cause for "
 "refusal."
 msgstr ""
-"Volgend op de eerste indruk zal de aanvraag wordne doorgezonden naar lokale "
+"Volgend op de eerste indruk zal de aanvraag worden doorgezonden naar lokale "
 "groepen van QGIS, voor hun mening. Dit gedeelte van het nakijken zou in "
 "minder dan een maand plaats moeten vinden. Indien er geen lokale "
 "gebruikersgroep voor QGIS is zal het QGIS Project Steering Committee (PSC) "
-"een neslissing nemen, gebaseerd op het aangeleverde materiaal en uw "
+"een beslissing nemen, gebaseerd op het aangeleverde materiaal en uw "
 "reputatie in de gemeenschap. In dit laatste geval wordt u aangemoedigd een "
 "lokale gebruikersgroep van QGIS op te richten. Indien blijkt dat u geen "
 "goede deelnemer bent binnen de gemeenschap van QGIS community, kan dat reden"
 " zijn voor afwijzing."
 
-#: ../../source/site/getinvolved/certification.rst:30
+#: ../../source/site/getinvolved/certification.rst:34
 msgid ""
 "The PSC will make the final determination. If accepted as a QGIS Certified "
 "Organization your contributions to the project will be published for "
 "transparency."
 msgstr ""
 "Het PSC zal de uiteindelijke beslissing nemen. Indien geaccepteerd als een "
-"QGIS Certified Organization zullen uw bijdragen aan het project. om redenen "
+"QGIS Certified Organization zullen uw bijdragen aan het project om redenen "
 "van transparantie, worden gepubliceerd."
 
-#: ../../source/site/getinvolved/certification.rst:32
+#: ../../source/site/getinvolved/certification.rst:36
 msgid ""
 "If approved you are required to pay a €20 certification fee to the QGIS "
 "project for each certificate you issue. This creates a mechanism for "
@@ -140,14 +152,14 @@ msgid ""
 "SEPA wire transfer. Payments can be handled in batches for many certificates"
 " at once."
 msgstr ""
-"Indien goedgekeurd bent u verplicht een donatie van €20  voor elk "
-"certificaat dat u uitgeeft te doen aan het project QGIS. Dit zorgt voor een "
+"Indien goedgekeurd bent u verplicht een donatie van €20 voor elk certificaat"
+" dat u uitgeeft te voldoen aan het project QGIS. Dit zorgt voor een "
 "mechanisme voor financiële ondersteuning van het project. Betalingen voor "
 "certificaten worden verricht ofwel via online creditcardtransacties of op "
 "verzoek op normale factuur en een SEPA-overboeking. Betalingen mogen in bulk"
 " worden afgehandeld voor veel certificaten in één keer."
 
-#: ../../source/site/getinvolved/certification.rst:35
+#: ../../source/site/getinvolved/certification.rst:39
 msgid ""
 "You can apply through `this form <certification_link_>`_ (make sure to first"
 " create a `login <certification_login_>`_). You can find more details about "
@@ -155,18 +167,34 @@ msgid ""
 "to read this before registering)."
 msgstr ""
 "U kunt zich aanmelden met `dit formulier <certification_link_>`_ (zorg er "
-"voor eerst een `login <certification_login_>` te maken_). U vindt `hier `_ "
-"meer details over het programma voor certificering (we adviseren u dit te "
-"lezen voordat u zich registreert)."
+"voor eerst een `login <certification_login_>` te maken_). U vindt `hier "
+"<certification_details_>` _meer details over het programma voor "
+"certificering (we adviseren u dit te lezen voordat u zich registreert)."
+
+#: ../../source/site/getinvolved/certification.rst:47
+msgid "Course Certification Workflow"
+msgstr "Cursus Werkstroom certificeren"
+
+#: ../../source/site/getinvolved/certification.rst:52
+msgid "Workflow Certification"
+msgstr "Certificeren van werkstroom"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "If approved you are required to make a €20 donation to the QGIS project for "
 #~ "each certificate. This creates a mechanism for financial support of the "
 #~ "project."
 #~ msgstr ""
-#~ "Indien goedgekeurd bent u verplicht een donatie van €20  voor elk "
-#~ "certificaat te doen aan het project QGIS. Dit zorgt voor een mechanisme voor"
-#~ " financiële ondersteuning van het project."
+#~ "Indien goedgekeurd bent u verplicht een donatie van €20 voor elk certificaat"
+#~ " te voldoen aan het project QGIS. Dit zorgt voor een mechanisme voor "
+#~ "financiële ondersteuning van het project."
 
 #~ msgid "You can apply through `this form <certification_link_>`_"
 #~ msgstr ""
@@ -178,7 +206,7 @@ msgstr ""
 #~ "project. Payments for certificates are made using online credit card "
 #~ "transactions."
 #~ msgstr ""
-#~ "Indien goedgekeurd bent u verplicht een donatie van €20  voor elk "
-#~ "certificaat te doen aan het project QGIS. Dit zorgt voor een mechanisme voor"
-#~ " financiële ondersteuning van het project. Betalingen voor certificaten "
+#~ "Indien goedgekeurd bent u verplicht een donatie van €20 voor elk certificaat"
+#~ " te voldoen aan het project QGIS. Dit zorgt voor een mechanisme voor "
+#~ "financiële ondersteuning van het project. Betalingen voor certificaten "
 #~ "worden uitsluitend verricht via online creditcardtransacties."

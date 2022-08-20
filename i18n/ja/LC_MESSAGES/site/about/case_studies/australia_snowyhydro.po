@@ -1,18 +1,19 @@
 # 
 # Translators:
-# fairtommy <fairtommy@gmail.com>, 2018-2019
+# fairtommy <fairtommy@gmail.com>, 2018-2019,2022
 # fairtommy <fairtommy@gmail.com>, 2017-2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2019-10-31 03:47+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018-2019,2022\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -44,11 +45,11 @@ msgid ""
 " cycle of the snow covered area, archive coverage areas for historical "
 "records, and provide coverage statistics to the hydrographic services team "
 "for water yield and storage forecasts."
-msgstr "冬月にわたる積雪を分類することで、SHLでは積雪地域のライフサイクルを監視し、積雪地域の歴史的記録を保管し、水収率および貯水の予測のために積雪の統計情報を水路サービスチームへ提供できます。"
+msgstr "冬季の月の間の積雪を分類することで、SHLは積雪地域のライフサイクルを監視し、積雪地域の歴史的記録を保管し、水収率および貯水の予測のために積雪の統計情報を水道事業チームへ提供することができます。"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:20
 msgid "Map 1.1 Snowy Water Catchment Map"
-msgstr "地図1.1　雪に覆われた水の流域地図"
+msgstr "地図1.1　大雪流域の地図"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:23
 msgid "Background"
@@ -64,7 +65,7 @@ msgid ""
 "particular sensor, the MODIS instrument was chosen due to its adequate "
 "spatial resolution and daily coverage of the project area (Map 1.1 Snowy "
 "Water Catchment)."
-msgstr "毎年冬の間（10月31日から6月1日まで）、SHLはMODISテラ（EOS AM）衛星からできるだけ多くの雲のない画像を得ます。これらの画像は、その後、雪が存在する領域を示すために使用される正規化差分降雪指数（NDSI）として知られているアルゴリズムに摂取されます。このアルゴリズムはいずれか1つの特定のセンサに固有のものではありませんが、MODISの装置がその十分な空間分解能とプロジェクトエリア（1.1雪に覆われた水の流域の地図）の日々のカバーのために選ばれました。"
+msgstr "毎年冬の間（10月31日から6月1日まで）、SHLはMODISテラ（EOS AM）衛星からできるだけ多くの雲のない画像を得ます。これらの画像は、その後、雪が存在する領域を示すために使用される正規化差分降雪指数（NDSI）として知られているアルゴリズムに摂取されます。このアルゴリズムはいずれか1つの特定のセンサに固有のものではありませんが、MODISの装置が十分な空間分解能があり、プロジェクトエリア（地図1.1　大雪流域）を日常的にカバーしているために選ばれました。"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:29
 msgid "Aim"
@@ -76,7 +77,7 @@ msgid ""
 "QGIS processing toolbox. The required output is a vector polygon showing the"
 " snow covered extent within the Snowy Water Catchment, along with "
 "attribution describing the total area covered in square kilometres."
-msgstr "このプロジェクトの目的は、NDSIのワークフローをQGIS処理ツールボックス内のモデルとして自動化することです。必要な出力は、雪水流域内の雪に覆われた範囲を示すベクターポリゴンで、雪に覆われた総面積を平方キロメートルで記述する属性と一緒にしたものです。 "
+msgstr "このプロジェクトの目的は、NDSIのワークフローをQGIS処理ツールボックス内のモデルとして自動化することです。必要な出力は、大雪流域内の雪に覆われた範囲を示すベクターポリゴンで、雪に覆われた総面積を平方キロメートルで記述する属性と一緒にしたものです。 "
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:35
 msgid "Method"
@@ -88,7 +89,7 @@ msgid ""
 "Normalised Difference Snow Index (NDSI)) and the subsequent steps required "
 "to extract snow cover in a vector format also lends itself nicely to a "
 "processing toolbox model."
-msgstr "NDSIアルゴリズム自体は非常に簡単です（以下式1.1に示す - 正規化差分降雪指数（NDSI））と積雪をベクター形式で抽出するために必要なその後の工程は、プロセッシングツールボックスモデルにうまく適しています。"
+msgstr "NDSIアルゴリズム自体は非常に簡単です（以下式1.1に示す - 正規化差分降雪指数（NDSI））。そして積雪をベクター形式で抽出するために必要なその後の工程は、プロセッシングツールボックスモデルにうまく適しています。"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:44
 msgid "Formula 1.1 - Normalised Difference Snow Index (NDSI)"
@@ -106,7 +107,7 @@ msgid ""
 "characteristics in the Near Infrared part of the spectrum. This "
 "characteristic of the NDSI indicates the need to incorporate a water mask at"
 " some stage in the model."
-msgstr "このNDSIアルゴリズムは-1と1の間で結果を返し、雪のための閾値は典型的には0.4よりも大きな値です。2014年7月13日について、自然色の画像（地図1.2 -MODISトゥルーカラー）と一緒にNDSI出力の例（地図1.3-NDSI出力）を以下に示します。これらの画像からわかるように、NDSI出力は雪で覆われた領域を他の土地被覆タイプおよび雲から弁別するのは非常に得意です。しかしながら、スペクトルの近赤外部分に吸収特性を有する水によって引き起こされる大きな水域の一部を雪と誤分類することがありえます。NDSIのこの特性は、モデル内のいくつかの段階で水マスクを組み込む必要性を示しています。"
+msgstr "このNDSIアルゴリズムは-1と1の間で結果を返し、雪のための閾値は通常は0.4超となります。2014年7月13日について、自然色の画像（地図1.2 -MODISトゥルーカラー）と一緒にNDSI出力の例（地図1.3-NDSI出力）を以下に示します。これらの画像からわかるように、NDSI出力は雪で覆われた領域を他の土地被覆タイプおよび雲から弁別するのは非常に得意です。しかしながら大きな水域の一部を雪と誤分類することがあります。これは水がスペクトルの近赤外部分に吸収特性を有することで引き起こされます。NDSIのこの特徴は、モデル内のどこかの段階に水マスクを組み込むことが必要であると示唆しています。"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:55
 msgid "Map 1.2 - MODIS true colour"
@@ -128,7 +129,7 @@ msgid ""
 "grid depicting \"Snow\" and \"Non snow\" areas. To get that classification "
 "another GRASS module \"r.recode\" was used and produced the result shown "
 "above in Map 1.4 Recoded ‘Snow’ vs ‘Non Snow’."
-msgstr "NDSI出力はGRASSモジュール「r.mapcalculator」を用いて、いくつかの非常にシンプルなバンド・マップを使用して作成されます。NDSIグリッドが利用可能になったら0.4のNDSIしきい値が適用されることが必要で、この結果は「雪」と「非雪」の領域を描くブール値グリッドになるでしょう。その分類を取得するために、別のGRASSモジュール「r.recode」を使用し、地図1.4『「非雪」VS「雪」再コード化』に示す結果を作成しました。"
+msgstr "NDSI出力はGRASSモジュール「r.mapcalculator」を用いて、いくつかの非常にシンプルなバンド・マップを使用して作成されます。NDSIグリッドが利用可能になったら0.4のNDSIしきい値が適用されることが必要で、この結果は「雪」と「雪でない」領域を描くブール値のグリッドになるでしょう。その分類を取得するために、別のGRASSモジュール「r.recode」を使用し、地図1.4『「雪でない」VS「雪」再コード化』に示す結果を作成しました。"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:75
 msgid ""
@@ -138,7 +139,7 @@ msgid ""
 "below, Map - 1.6 Snow inside the SWC), then the large water bodies are "
 "masked out (shown below, Map 1.7 - Final snow covered area), and finally the"
 " area statistics for the snow covered area is generated."
-msgstr "再符号化グリッドは、次いで、ベクターポリゴンデータセットに変換され、雪で覆われた領域が抽出されました（以下に示す、地図1.5 - 抽出された雪）。雪に覆われた領域は、その後雪に覆われた水流域にクリップされた（下に示す地図1.6 - SWC内部の雪）、その後、大規模な水域を出てマスクされている（下に示す地図1.7 - 最終的な雪に覆われた領域）を、そして最後エリア雪に覆われた面積の統計が生成されます。"
+msgstr "再符号化グリッドは、次いで、ベクターポリゴンデータセットに変換され、雪で覆われた領域が抽出されました（以下に示す、地図1.5 - 抽出された雪）。それから、雪に覆われた領域が大雪流域にクリップされ（下に示す地図1.6 - SWC内の雪）、その後、大規模な水域がマスクで除去され（下に示す地図1.7 - 最終的な雪に覆われた領域）、そして最後に雪に覆われた領域の面積統計が生成されます。"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:83
 msgid "Map 1.5 - Extracted Snow"
@@ -150,7 +151,7 @@ msgstr "地図1.6 - SWC内部の雪"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:97
 msgid "Map 1.7 - Final snow covered area"
-msgstr "地図1.7 - 最終雪に覆われた面積"
+msgstr "地図1.7 - 最終の雪に覆われた領域"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:100
 msgid ""
@@ -159,7 +160,7 @@ msgid ""
 "area covered by the snow and the percentage of the catchment that is "
 "covered. The model in its entirety can be seen below in \"Image 1.1 - "
 "Normalised Difference Snow Index (NDSI) QGIS processing toolbox model\"."
-msgstr "モデルからの出力は、雪に覆われた水流域内の雪に覆われた領域を示すベクターポリゴンです。ポリゴンの属性は、雪に覆われた領域と覆われている流域の割合が含まれます。その全体モデルは下の「画像1.1 - 正規化後差分雪指数（NDSI）、QGIS処理ツールボックスモデル」に見ることができます。"
+msgstr "モデルからの出力は、SWC内部の雪に覆われた領域を示すベクターポリゴンです。ポリゴンの属性は、雪に覆われた領域とカバーされている流域の割合です。その全体モデルは下の「画像1.1 - 正規化後差分雪指数（NDSI）、QGIS処理ツールボックスモデル」に見ることができます。"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:108
 msgid ""
@@ -180,7 +181,7 @@ msgid ""
 "successfully removes subjective user error associated with previous methods "
 "used by SHL, while providing a repeatable and consistent classification "
 "tool. Some seasonal results can be viewed here."
-msgstr "QGIS処理ツールボックスはこの雪の分類のようなワークフローを自動化するための強力な方法です。上に示したモデルは、雪分類プロセスを上手く自動化し、さらに統計的アプリケーションに可視化し、入力に使用できるGISデータセットを提供します。再現性および一貫性の分類ツールを提供しながら、SHLで使用されていた以前の方法に関連づいた主観的なユーザエラーを上手く除去します。いくつかの季節の結果をここで見ることができます。"
+msgstr "QGIS処理ツールボックスはこの雪の分類のようなワークフローを自動化するための強力な方法です。上に示したモデルでは、雪分類のプロセスを上手く自動化し、さらなる統計的アプリケーションで可視化して入力に使用できるGISデータセットを提供します。再現性と一貫性のある分類ツールを提供しながら、SHLで使用されていた以前の方法に関連づいた主観的なユーザの誤りを上手く除去しています。いくつかの季節の結果をここで見ることができます。"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:118
 msgid "Author"
@@ -194,4 +195,12 @@ msgid ""
 "While at Snowy Hydro Limited he has been able to provide spatial support to "
 "exciting projects such as the Cloud Seeding experiment, and day to day "
 "operations within the organisation."
-msgstr "アンドリュー・ジェフリーは、オーストラリアのニューサウスウェールズ州クーマに拠点を置く大雪水力株式会社に勤務するGISアナリストです。氏は科学の学士（BSC）、空間情報システム専攻で、ワガワガのチャールズ・スタート大学を2004年に卒業しました。大雪水力株式会社にいる間、氏は人工降雨実験のようなエキサイティングなプロジェクト、および組織内の日常業務へに空間的なサポートを提供することができました。"
+msgstr "アンドリュー・ジェフリーは、オーストラリアのニューサウスウェールズ州クーマに拠点を置く大雪水力株式会社に勤務するGISアナリストです。氏は科学の学士（BSC）、空間情報システム専攻で、ワガワガのチャールズ・スタート大学を2004年に卒業しました。大雪水力株式会社にいる間、氏は人工降雨実験のようなエキサイティングなプロジェクトや組織内での日常業務に空間的なサポートを提供することができました。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

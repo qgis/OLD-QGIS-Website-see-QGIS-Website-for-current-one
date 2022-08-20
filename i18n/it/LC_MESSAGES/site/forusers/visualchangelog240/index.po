@@ -7,15 +7,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2020-09-20 20:58+0000\n"
-"Last-Translator: Valerio Pinna <pinnavalerio@yahoo.co.uk>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:13+0000\n"
+"Last-Translator: Valerio Pinna <pinnavalerio@yahoo.co.uk>, 2020\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:4
+msgid "Changelog for QGIS 2.4"
+msgstr "Elenco cambiamenti per QGIS 2.4"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:6
 msgid ""
@@ -93,6 +98,16 @@ msgid ""
 "<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__."
 msgstr "Una lista di donazioni al progetto si trova qui `<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__."
 
+#: ../../source/site/forusers/visualchangelog240/index.rst:47
+msgid ""
+"If you would like to make a donation or sponsor our project, please visit "
+"`our sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
+"details. QGIS is Free software and you are under no obligation to do so. "
+"Sponsoring QGIS helps us to fund our six monthly developer meetings, "
+"maintain project infrastructure and fund bug fixing efforts."
+msgstr "Se desiderate fare una donazione o sponsorizzare il nostro progetto, visitate la nostra `pagina <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ per maggiori informazioni. QGIS è un software libero e non avete nessun obbligo di fare donazioni. Sponsorizzare QGIS aiuterà il suo sviluppo, a realizzare gli incontri mensili con gli sviluppatori, a mantenere l'infrastruttura del progetto e a finanziare gli sforzi di correzione dei bug."
+
 #: ../../source/site/forusers/visualchangelog240/index.rst:61
 msgid "General"
 msgstr "Generale"
@@ -114,6 +129,10 @@ msgstr "Il NetCDF fornisce ulteriori informazioni dimensionali. Questa informazi
 msgid "|image1|"
 msgstr "|image1|"
 
+#: ../../source/site/forusers/visualchangelog240/index.rst:304
+msgid "image1"
+msgstr "image1"
+
 #: ../../source/site/forusers/visualchangelog240/index.rst:76
 msgid "Feature: Applying scale and offset to raster data"
 msgstr "Novità: applicare la scala e lo scostamento ai dati raster"
@@ -130,6 +149,10 @@ msgstr "In alcuni raster, i dati sono memorizzati come numeri interi con una sca
 msgid "|image2|"
 msgstr "|image2|"
 
+#: ../../source/site/forusers/visualchangelog240/index.rst:305
+msgid "image2"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog240/index.rst:86
 msgid "Feature: Quick field field calc bar in attribute table"
 msgstr "Novità: barra del calcolo veloce del campo nella tabella degli attributi"
@@ -144,6 +167,10 @@ msgstr "Per coloro che lavorano con campi calcolati nella tabella degli attribut
 #: ../../source/site/forusers/visualchangelog240/index.rst:92
 msgid "|image3|"
 msgstr "|image3|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:306
+msgid "image3"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:95
 msgid "Feature: Colour preview modes in composer and map canvas"
@@ -162,6 +189,10 @@ msgstr "Una novità aggiunta a QGIS 2.4 è il supporto alla scala di grigio e ai
 #: ../../source/site/forusers/visualchangelog240/index.rst:104
 msgid "|image4|"
 msgstr "|image4|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:307
+msgid "image4"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:107
 msgid "Feature: QLR QGIS Layer files"
@@ -208,6 +239,10 @@ msgstr "nuova funzione wordwrap che restiuisce una stringa tagliata ad un massim
 msgid "|image5|"
 msgstr "|image5|"
 
+#: ../../source/site/forusers/visualchangelog240/index.rst:308
+msgid "image5"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog240/index.rst:131
 msgid "Feature: Copy, paste and drag and drop colours"
 msgstr "Novità: copia, incolla e trascinamento dei colori"
@@ -224,6 +259,10 @@ msgstr "Ora è possibile copiare, incollare e trascinare colori in un qualsiasi 
 #: ../../source/site/forusers/visualchangelog240/index.rst:140
 msgid "|image6|"
 msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:309
+msgid "image6"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:143
 msgid "Feature: Multi-threaded rendering"
@@ -249,6 +288,10 @@ msgstr "Questa è una delle novità che non può essere riassunta in una scherma
 msgid "|image7|"
 msgstr "|image7|"
 
+#: ../../source/site/forusers/visualchangelog240/index.rst:310
+msgid "image7"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog240/index.rst:161
 msgid "Labelling"
 msgstr "Etichettatura"
@@ -268,6 +311,10 @@ msgstr "Le linee lunghe (come le strade o i perimetri) possono essere ora etiche
 #: ../../source/site/forusers/visualchangelog240/index.rst:172
 msgid "|image8|"
 msgstr "|image8|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:311
+msgid "image8"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:175
 msgid "Map Composer"
@@ -291,6 +338,10 @@ msgstr "L'oggetto immagine nel compositore ora supporta gli atlanti. È possibil
 msgid "|image9|"
 msgstr "|image9|"
 
+#: ../../source/site/forusers/visualchangelog240/index.rst:312
+msgid "image9"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog240/index.rst:190
 msgid "Feature: Predefined scales mode for atlas maps"
 msgstr "Novità: scale predefinite per gli atlanti"
@@ -307,6 +358,10 @@ msgstr "Negli atlanti è possibile specificare una scala predefinita per la mapp
 #: ../../source/site/forusers/visualchangelog240/index.rst:198
 msgid "|image10|"
 msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:313
+msgid "image10"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:201
 msgid "Feature: Improved attribute tables in composer"
@@ -340,6 +395,10 @@ msgstr "I contenuti della tabella possono essere filtrati con un'espressione"
 msgid "|image11|"
 msgstr "|image11|"
 
+#: ../../source/site/forusers/visualchangelog240/index.rst:314
+msgid "image11"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog240/index.rst:215
 msgid "Feature: General composer improvements"
 msgstr "Novità: miglioramenti al compositore"
@@ -370,6 +429,10 @@ msgstr "Possibilità di impostare uno stile per le cornici degli elementi"
 msgid "|image12|"
 msgstr "|image12|"
 
+#: ../../source/site/forusers/visualchangelog240/index.rst:315
+msgid "image12"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog240/index.rst:228
 msgid "Feature: Improvements to HTML frames"
 msgstr "Novità: miglioramenti per le cornici HTML"
@@ -386,6 +449,10 @@ msgstr "Sono state migliorate le cornici HTML nel compositore. C'è un nuovo bot
 #: ../../source/site/forusers/visualchangelog240/index.rst:236
 msgid "|image13|"
 msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:316
+msgid "image13"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:239
 msgid "Plugins"
@@ -407,6 +474,10 @@ msgstr "MetaSearch è un plugin QGIS che serve ad interrogare i servizi di catal
 #: ../../source/site/forusers/visualchangelog240/index.rst:250
 msgid "|image14|"
 msgstr "|image14|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:317
+msgid "image14"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:253
 msgid "Symbology"
@@ -430,6 +501,10 @@ msgstr "Con QGIS 2.4, il riempimeto sfumato permette di riempire i poligoni con 
 msgid "|image15|"
 msgstr "|image15|"
 
+#: ../../source/site/forusers/visualchangelog240/index.rst:318
+msgid "image15"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog240/index.rst:266
 msgid "Feature: Option to shift marker line placement"
 msgstr "Novità: distanza dell'indicatore per la linea"
@@ -446,6 +521,10 @@ msgstr "Ora è possibile specificare uno scostamento per l'indicatore lungo una 
 #: ../../source/site/forusers/visualchangelog240/index.rst:274
 msgid "|image16|"
 msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:319
+msgid "image16"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:277
 msgid "Feature: New Inverted Polygon renderer"
@@ -470,23 +549,13 @@ msgstr "**Nota:** la nuova versione del plugin della maschera permette di creare
 msgid "|image17|"
 msgstr "|image17|"
 
+#: ../../source/site/forusers/visualchangelog240/index.rst:320
+msgid "image17"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog240/index.rst:292
 msgid "Feature: Saving and recovering styles with Spatialite layers"
 msgstr "Novità: salvare e caricare stili sui vettori Spatialite"
-
-#: ../../source/site/forusers/visualchangelog240/index.rst:301
-msgid "|image18|"
-msgstr "|image18|"
-
-#: ../../source/site/forusers/visualchangelog240/index.rst:47
-msgid ""
-"If you would like to make a donation or sponsor our project, please visit "
-"`our sponsorship page "
-"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
-"details. QGIS is Free software and you are under no obligation to do so. "
-"Sponsoring QGIS helps us to fund our six monthly developer meetings, "
-"maintain project infrastructure and fund bug fixing efforts."
-msgstr "Se desiderate fare una donazione o sponsorizzare il nostro progetto, visitate la nostra `pagina <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ per maggiori informazioni. QGIS è un software libero e non avete nessun obbligo di fare donazioni. Sponsorizzare QGIS aiuterà il suo sviluppo, a realizzare gli incontri mensili con gli sviluppatori, a mantenere l'infrastruttura del progetto e a finanziare gli sforzi di correzione dei bug."
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:294
 msgid ""
@@ -498,9 +567,25 @@ msgid ""
 "spatialite-database/"
 msgstr "Nelle versioni precedenti era possibile salvare lo stile con layer postgres, mentre ora sarà possibile anche con layer Spatialite. Queste funzioni permettono di incorporare diversi stili all'interno di un contenitore spatialite semplificando la condivisione dei dati e la loro presentazione. Un video tutorial di questa funzionalità può essere trovato qui http://pvanb.wordpress.com/2014/05/15/saving-layer-styles-to-your-spatialite-database/"
 
-#: ../../source/site/forusers/visualchangelog240/index.rst:4
-msgid "Changelog for QGIS 2.4"
-msgstr "Elenco cambiamenti per QGIS 2.4"
+#: ../../source/site/forusers/visualchangelog240/index.rst:301
+msgid "|image18|"
+msgstr "|image18|"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:321
+msgid "image18"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:303
+msgid "image0"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "|image0|"
 #~ msgstr ""

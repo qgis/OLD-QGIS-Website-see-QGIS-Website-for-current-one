@@ -5,15 +5,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-01 17:28+0100\n"
-"PO-Revision-Date: 2019-09-05 17:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-11-01 16:56+0000\n"
+"Last-Translator: Tomas Straupis, 2015\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:4
+msgid "Changelog for QGIS 2.6"
+msgstr "QGIS 2.6 pakeitimai"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:6
 msgid ""
@@ -49,10 +54,24 @@ msgid ""
 "financial support they provide to this project:"
 msgstr "Na ir pagaliau norėtume padėkoti savo rėmėjams už neįkainojamą finansinę paramą šiam projektui:"
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:26
+msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
+msgstr "**AUKSINIS rėmėjas: `Asia Air Survey, Japonija** <http://www.asiaairsurvey.com/"
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:27
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
 msgstr "SIDABRINIS rėmėjas: `Sourcepole AG, Šveicarija <http://www.sourcepole.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:28
+msgid ""
+"SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
+msgstr "SIDABRINIS rėmėjas: `State of Vorarlberg, Austrija <http://www.vorarlberg.at/>`_"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:29
+msgid ""
+"BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
+msgstr "BRONZINIS rėmėjas: `Lutra Consulting, JK <http://www.lutraconsulting.co.uk/>`_"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:30
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
@@ -72,6 +91,18 @@ msgid ""
 "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
 "<http://www.eschenlaub.de/>`_"
 msgstr "BRONZINIS rėmėjas: `GKG Kassel,(Dr.-Ing. Claas Leiner), Vokietija <http://www.eschenlaub.de/>`_"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:35
+msgid ""
+"A current list of donors who have made financial contributions large and "
+"small to the project can be seen on our `donors list "
+"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
+"would like to become an official project sponsor, please visit `our "
+"sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details."
+" Sponsoring QGIS helps us to fund our six monthly developer meetings, "
+"maintain project infrastructure and fund bug fixing efforts."
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:44
 msgid ""
@@ -166,6 +197,11 @@ msgstr "intervalo valdiklis palaiko priešdėlį"
 msgid "Feature: Optionally use just a subset of fields from the joined layer"
 msgstr "Savybė: pasirinktinai naudoti tik poaibį prijungto sluoksnio laukų"
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:109
+msgid ""
+"You can now use just a subset of related fields when creating a vector join."
+msgstr "Kurdami vektorių junginį dabar galite naudoti tik poaibį susijusių laukų."
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:117
 msgid "Feature: Expression field (virtual fields)"
 msgstr "Savybė: išraiškų laukai (virtualūs laukai)"
@@ -256,6 +292,10 @@ msgid ""
 "entries for items not currently in the map view. It is available in the main"
 " map legend and in map composer and for WMS layers."
 msgstr "Naujas legendos įrankinės filtro mygtukas išims legendos elementus visų klasių, kuriuos šiuo metu nėra matomumo ribose. Tai puikus patobulinimas, nes tai užtikrina, kad žemėlapio legendoje nėra įrašų tų elementų, kurie realiai nesimato žemėlapyje. Šis mygtukas veikia tiek pagrindinio žemėlapio legendoje, tiek žemėlapio kūrėjyje, tiek WMS sluoksniuose."
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:179
+msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"
+msgstr "Nuo taisyklių priklausomų sluoksnių legenda gali būti rodoma pseudo-medžiu"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:186
 msgid "Data Providers"
@@ -484,6 +524,13 @@ msgstr "Pašalintas naikinantis meniu elementas „Įkelti iš šablono“, jis 
 #: ../../source/site/forusers/visualchangelog260/index.rst:325
 msgid "Feature: Improved item snapping"
 msgstr "Savybė: pagerintas elementų pritraukimas"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:327
+msgid ""
+"Snapping thresholds are now set in pixels, allowing for finer movement and "
+"resizing of items when zoomed in to a composition. Items within a group are "
+"no longer used for auto snap lines."
+msgstr "Pritraukimo ribos dabar nurodomos taškais, o tai leidžia tiksliau perkelti ir keisti elementų dydį padidinus. Grupėje esantys elementai daugiau nebenaudojami automatinio pritraukimo linijoms."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:336
 msgid "Feature: Multiple overviews for a map item"
@@ -792,6 +839,10 @@ msgstr "Savybė: naujas spalvos parinkimo dialogas"
 msgid "There is a new custom QGIS color picker dialog. Features include:"
 msgstr "Atsirado naujas savas QGIS spalvos parinkimo dialogas. Tarp savybių yra:"
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:514
+msgid "Sliders for hue, saturation, value, red, green, blue color components."
+msgstr "Atspalvio, sotumo, reikšmės, raudonos, žalios ir mėlynos spalvos komponentų slankikliai."
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:516
 msgid "Alpha slider."
 msgstr "Alfa slankiklis."
@@ -811,6 +862,28 @@ msgstr "Interaktyvus 2D spalvų rampos valdiklis."
 #: ../../source/site/forusers/visualchangelog260/index.rst:520
 msgid "Hue wheel/triangle widget."
 msgstr "Atspalvio ratuko/trikampio valdiklis."
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:521
+msgid ""
+"Editable color palettes, including the ability to create new palettes and "
+"import/export colors to a GPL palette file."
+msgstr "Keičiamos spalvų paletės, įskaitant galimybę kurti naujas paletes ir importuoti/eksportuoti spalvas į GPL paletės failą."
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:523
+msgid ""
+"Live color sampler with option to sample over a set radius (OS support "
+"dependant)."
+msgstr "Gyvai veikiantys spalvų pavyzdžiai su galimybe bandyti nustatytą spindulį (priklausomai nuo OS palaikymo)."
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:525
+msgid ""
+"Supports interaction with other apps via drag and drop of colors (OS support"
+" dependant)."
+msgstr "Leidžia sąveiką su kitomis programomis spalvų pertempimu (priklausomai nuo OS palaikymo)."
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:527
+msgid "Option to disable the dialog and use the native picker dialog instead."
+msgstr "Galimybė išjungti dialogą ir vietoje jo naudoti paprastą dialogą."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:535
 msgid "Feature: Single select feature tool merged into select by rectangle"
@@ -869,77 +942,13 @@ msgid ""
 "which feature types you wish to identify (all all if you like)."
 msgstr "Naudodami identifikavimo įrankį dabar galite spausti ant drobės dešiniu mygtuku, kad panaudotumėte identifikavimo įrankį kontekstiniame režime. Pasirodančiame meniu galite nurodyti, kurių tipų geoobjektus norite identifikuoti (jei norite - galite ir visų tipų objektus)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:35
-msgid ""
-"A current list of donors who have made financial contributions large and "
-"small to the project can be seen on our `donors list "
-"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
-"would like to become an official project sponsor, please visit `our "
-"sponsorship page "
-"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details."
-" Sponsoring QGIS helps us to fund our six monthly developer meetings, "
-"maintain project infrastructure and fund bug fixing efforts."
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:109
-msgid ""
-"You can now use just a subset of related fields when creating a vector join."
-msgstr "Kurdami vektorių junginį dabar galite naudoti tik poaibį susijusių laukų."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:28
-msgid ""
-"SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
-msgstr "SIDABRINIS rėmėjas: `State of Vorarlberg, Austrija <http://www.vorarlberg.at/>`_"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:29
-msgid ""
-"BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
-msgstr "BRONZINIS rėmėjas: `Lutra Consulting, JK <http://www.lutraconsulting.co.uk/>`_"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:179
-msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"
-msgstr "Nuo taisyklių priklausomų sluoksnių legenda gali būti rodoma pseudo-medžiu"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:514
-msgid "Sliders for hue, saturation, value, red, green, blue color components."
-msgstr "Atspalvio, sotumo, reikšmės, raudonos, žalios ir mėlynos spalvos komponentų slankikliai."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:521
-msgid ""
-"Editable color palettes, including the ability to create new palettes and "
-"import/export colors to a GPL palette file."
-msgstr "Keičiamos spalvų paletės, įskaitant galimybę kurti naujas paletes ir importuoti/eksportuoti spalvas į GPL paletės failą."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:523
-msgid ""
-"Live color sampler with option to sample over a set radius (OS support "
-"dependant)."
-msgstr "Gyvai veikiantys spalvų pavyzdžiai su galimybe bandyti nustatytą spindulį (priklausomai nuo OS palaikymo)."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:525
-msgid ""
-"Supports interaction with other apps via drag and drop of colors (OS support"
-" dependant)."
-msgstr "Leidžia sąveiką su kitomis programomis spalvų pertempimu (priklausomai nuo OS palaikymo)."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:527
-msgid "Option to disable the dialog and use the native picker dialog instead."
-msgstr "Galimybė išjungti dialogą ir vietoje jo naudoti paprastą dialogą."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:26
-msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
-msgstr "**AUKSINIS rėmėjas: `Asia Air Survey, Japonija** <http://www.asiaairsurvey.com/"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:327
-msgid ""
-"Snapping thresholds are now set in pixels, allowing for finer movement and "
-"resizing of items when zoomed in to a composition. Items within a group are "
-"no longer used for auto snap lines."
-msgstr "Pritraukimo ribos dabar nurodomos taškais, o tai leidžia tiksliau perkelti ir keisti elementų dydį padidinus. Grupėje esantys elementai daugiau nebenaudojami automatinio pritraukimo linijoms."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:4
-msgid "Changelog for QGIS 2.6"
-msgstr "QGIS 2.6 pakeitimai"
 
 #~ msgid "Changelog for QGIS: 2.6.0"
 #~ msgstr ""

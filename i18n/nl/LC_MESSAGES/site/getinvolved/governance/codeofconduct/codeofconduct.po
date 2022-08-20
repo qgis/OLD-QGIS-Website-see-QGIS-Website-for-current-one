@@ -1,19 +1,25 @@
 # 
 # Translators:
 # DiGro, 2015-2016
+# DiGro, 2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2017-09-20 17:28+0000\n"
-"Last-Translator: DiGro\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: DiGro, 2021\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:4
+msgid "Code of Conduct"
+msgstr "Gedragscode"
 
 #: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:6
 msgid ""
@@ -30,7 +36,7 @@ msgid ""
 "rules that we ask people to adhere to when they’re participating within this"
 " community and project. These rules apply equally to founders, mentors and "
 "those seeking help and guidance."
-msgstr "Diversiteit is één van onze sterke punten, maar het kan ook leiden tot problemen in communicatie en ongelukkig zijn. Daarom hebben we een aantal grondregels waar we emsen vragen zich aan te houden wanneer zij deelnemen aan deze gemeenschap en het project. Deze regels zijn onverkort van toepassing op stichters, mentoren en zij die hulp en leiding zoeken."
+msgstr "Diversiteit is één van onze sterke punten, maar het kan ook leiden tot problemen in communicatie en ongelukkig zijn. Daarom hebben we een aantal grondregels waar we mensen vragen zich aan te houden wanneer zij deelnemen aan deze gemeenschap en het project. Deze regels zijn onverkort van toepassing op stichters, mentoren en zij die hulp en leiding zoeken."
 
 #: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:10
 msgid ""
@@ -68,7 +74,7 @@ msgid ""
 "you should take those consequences into account when making decisions. "
 "Remember that we're a world-wide community, so you might not be "
 "communicating in someone else's primary language."
-msgstr "Uw werk zal door andere mensen worden gebruikt, en als keerzijde daarvan zal uw werk afhankelijkk zijn van dat van anderen. Elke beslissing die u neemt zal invloed hebben op gebruikers en collega's, en u zou rekening moeten houden met de konsekwenties bij het nemen van beslissingen. Onthoud dat we een wereldwijde gemeenschap zijn, het zou dus kunnen zijn dat u communiceert in een taal die niet de primaire is van iemand."
+msgstr "Uw werk zal door andere mensen worden gebruikt, en als keerzijde daarvan zal uw werk afhankelijk zijn van dat van anderen. Elke beslissing die u neemt zal invloed hebben op gebruikers en collega's, en u zou rekening moeten houden met de consequenties bij het nemen van beslissingen. Onthoud dat we een wereldwijde gemeenschap zijn, het zou dus kunnen zijn dat u communiceert in een taal die niet de primaire is van iemand."
 
 #: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:22
 msgid "**Be respectful**"
@@ -83,7 +89,7 @@ msgid ""
 "uncomfortable or threatened is not a productive one. Members of the QGIS "
 "community should be respectful when dealing with other members as well as "
 "with people outside the QGIS community."
-msgstr "We zullen het niet altijd met elkaar eens zijn, maar dat is geen excuus voor ongewenst gedrag en slechte manieren. We zullen allemaal af en toe enige frustratie tegenkomen, maar we mogen die frustratie niet laten ontaarden in een persoonlijke aanval. Het is belangrijk om te onthouden dat een gemeenschap waarin mensen zich ongemakkelijk of bedreigd voelen geen productieve gemeenschap is. Leden van de gemeenschap van QGIS zouden andere leden met respect moeten behandelen evenals mensen van buiten de gemeenschap van QGIS."
+msgstr "We zullen het niet altijd met elkaar eens zijn, maar dat is geen excuus voor ongewenst gedrag en slechte manieren. We zullen allemaal af en toe enige frustratie tegenkomen, maar we mogen die frustratie niet laten ontaarden in een persoonlijke aanval. Het is belangrijk om te onthouden dat een gemeenschap waarin mensen zich ongemakkelijk of bedreigd voelen geen productieve gemeenschap is. Leden van de gemeenschap van QGIS zouden andere leden met respect moeten behandelen, evenals mensen van buiten de gemeenschap van QGIS."
 
 #: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:34
 msgid "**Be careful in the words that you choose**"
@@ -95,7 +101,7 @@ msgid ""
 "professionally. Be kind to others. Do not insult or put down other "
 "participants. Harassment and other exclusionary behavior aren't acceptable. "
 "This includes, but is not limited to:"
-msgstr "We zijn een gemeenschap van professionals, en we gedragen ons professioneel. Wees aardig voor anderen. Beledig andere deelnemers niet en kleineer ze niet. Intimidatie en ander gedrag dat mensen uitsluit is niet te acceptabel. Dit omvat, maar is niet beperkt tot:"
+msgstr "We zijn een gemeenschap van professionals, en we gedragen ons professioneel. Wees aardig voor anderen. Beledig andere deelnemers niet en kleineer ze niet. Intimidatie en ander gedrag dat mensen uitsluit is niet acceptabel. Dit omvat, maar is niet beperkt tot:"
 
 #: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:27
 msgid "Violent threats or language directed against another person."
@@ -148,7 +154,7 @@ msgid ""
 "Don’t forget that it is human to err and blaming each other doesn’t get us "
 "anywhere, rather offer to help resolving issues and to help learn from "
 "mistakes."
-msgstr "Onenigheid, zowel sociaal als technisch, gebeurt regelmatig en QGIS is geen uitzondering. Het is belangrijk dat we onenigheid en verschill van inzicht constructief oplossen. Onthoud dat we verschillend zijn. De kracht van QGIS is afkomstig uit zijn gevarieerde gemeenschap, mensen met een breed scala aan achtergronden. Verschillende mensen hebben verschillende perspectieven op problemen. Niet in staat zijn om te begrijpen waarom iemand vasthoudt aan zijn gezichtspunt betekent niet dat zij het fout hebben. Vergeet niet dat het ,menselijk is om zich te vergissen en andere n daarvan de schuld geven helpt niemand verder, biedt in plaats daarvan aan om te helpen bij het oplossen van problemen en helpen te leren van fouten."
+msgstr "Onenigheid, zowel sociaal als technisch, gebeurt regelmatig en QGIS is geen uitzondering. Het is belangrijk dat we onenigheid en verschil van inzicht constructief oplossen. Onthoud dat we verschillend zijn. De kracht van QGIS is afkomstig uit zijn gevarieerde gemeenschap, mensen met een breed scala aan achtergronden. Verschillende mensen hebben verschillende perspectieven op problemen. Niet in staat zijn om te begrijpen waarom iemand vasthoudt aan zijn gezichtspunt betekent niet dat zij het fout hebben. Vergeet niet dat het menselijk is om zich te vergissen en anderen daarvan de schuld geven helpt niemand verder, biedt in plaats daarvan aan om te helpen bij het oplossen van problemen en helpen te leren van fouten."
 
 #: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:39
 msgid ""
@@ -159,9 +165,13 @@ msgstr "Originele tekst afkomstig van het project Speak Up!, en Django gedragsco
 msgid "If you have questions, feel free to contact us: psc@qgis.org"
 msgstr "Als u vragen heeft, neem gerust contact met ons op: psc@qgis.org"
 
-#: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:4
-msgid "Code of Conduct"
-msgstr "Gedragscode"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS Code of Conduct"
 #~ msgstr ""

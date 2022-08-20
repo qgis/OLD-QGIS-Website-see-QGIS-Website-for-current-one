@@ -7,15 +7,51 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-23 19:33+0000\n"
-"Last-Translator: Mariana Muniz Blank <mariblank_1@hotmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>, 2016\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:3
+msgid ""
+"QGIS in the governmental FOSSGIS stack of the Canton of Solothurn in "
+"Switzerland"
+msgstr "QGIS na pilha FOSSGIS governamental do Cantão de Solothurn, na Suíça"
+
+msgid "Solothurn"
+msgstr ""
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:10
+msgid ""
+"The Canton of Solothurn provides services and infrastructure to 250,000 "
+"Solothurn citizens. In the year 2001 the State Parliament decided to migrate"
+" from Windows to Linux. The motivations were to be independent from one "
+"particular vendor, to encourage free enterprise and reduce license costs. As"
+" a result SO!GIS department of the Canton of Solothurn started to deliver "
+"the GIS-requirements of more than 3500 employees with a FOSSGIS strategy."
+msgstr "O cantão de Solothurn fornece serviços e infra-estrutura para 250.000 cidadãos Solothurn. No ano de 2001, o Parlamento do Estado decidiu migrar do Windows para o Linux. As motivações eram para ser independente de um fornecedor específico, para incentivar a livre empresa e reduzir os custos de licença. Como resultado o Departamento de SO!SIG Cantão de Solothurn começou a entregar os requisitos de SIG de mais de 3500 funcionários com uma estratégia FOSSGIS."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:12
+msgid ""
+"The first step we took was the introduction of UMN MapServer and the "
+"creation of a SO!MAP client that offers an easy to use WebGIS client for all"
+" the 3500 employees. The second step was the migration of all our geospatial"
+" data from Shapefiles to the PostGIS spatial database engine. The "
+"introduction was very successful, but an easy to use desktop GIS was "
+"lacking."
+msgstr "O primeiro passo que demos foi a introdução da UMN MapServer e da criação de um cliente SO!MAP. Que oferece um cliente WebGIS fácil de usar  para todos os 3500 funcionários. O segundo passo foi a migração de todos os nossos dados geoespaciais de Shapefiles para o banco de dados espacial no PostGIS. A introdução foi muito bem sucedida, mas faltou uma área de trabalho SIG fácil de usar."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:14
+msgid ""
+"After an evaluation of different Desktop GIS we decided to use QGIS in "
+"conjunction with GRASS, replacing ESRI ArcInfo and ArcView3 in the 2006."
+msgstr "Após avaliação de uma área de trabalho SIG diferente, decidimos usar QGIS em conjunto com a GRASS, substituindo ESRI ArcInfo e ArcView3 em 2006."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:16
 msgid "The decision was driven by the following aspects:"
@@ -69,13 +105,68 @@ msgstr "Independência de um único sistema operativo"
 msgid "Where do we use QGIS"
 msgstr "Onde usamos o QGIS"
 
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:32
+msgid ""
+"In contrast to the interactive maps served by UMN MapServer, the desktop GIS"
+" has to offer a flexible view at the geospatial data of Solothurn. QGIS "
+"Desktop GIS is in use by more than 50 users for their daily work. But many "
+"of them are not GIS experts. They want to visualize and/or capture "
+"geospatial data with an intuitive user interface."
+msgstr "Em contraste com os mapas interactivos servidos pelo UMN MapServer , o SIG Desktop tem para oferecer uma visão flexível aos dados geoespaciais de Solothurn. QGIS SIG desktop está em uso por mais de 50 usuários para o trabalho diário. Mas muitos deles não são especialistas em SIG. Eles querem visualizar e / ou capturar dados geoespaciais com uma interface de usuário intuitiva."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:34
+msgid ""
+"One of the most important Desktop GIS issues is the question: \"How do I get"
+" the information from the PostGIS geodata repository I need?\". Since our "
+"end users are unfamiliar with data models and the underlying structures of "
+"our spatial database, offering the users a raw connection to the PostGIS DB "
+"was not an option. We have a metadata database that stores the descriptions "
+"of all production data called 'SO!DATA'."
+msgstr "Uma dos itens mais importantes do SIG Desktop é a questão: \"Como faço para obter as informações a partir do repositório de dados geográficos PostGIS que preciso?\". Desde que nossos usuários finais não são familiarizados com modelos de dados e as estruturas subjacentes do nosso banco de dados espacial, oferecendo aos usuários uma conexão direta para o PostGIS DB não era uma opção. Temos um banco de dados de metadados que armazena a descrição de todos os dados de produção chamado 'SO!DATA\"."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:36
+msgid ""
+"SO!DATA contains a human readable inventory of the data models and the non-"
+"GIS-Expert user is able to use this database to discover the information "
+"they need."
+msgstr "SO!DATA contém um inventário humano legível dos modelos de dados e usários Não-Experiente-SIG tem a facilidade de usar esse banco de dados para descobrir a informação de que necessitam."
+
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:43
 msgid "\"SO!GIS Layer\" plugin developed at the Canton of Solothurn"
 msgstr "Módulo \"SO!GIS Layer\" desenvolvida no Cantão de Solothurn"
 
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:45
+msgid ""
+"To remove the need for end users to interact directly with PostGIS "
+"connections and table selection dialogs, a plugin has been developed in "
+"python. The plugin is called \"SO!GIS Layer\" (see Figure 1). The plugin "
+"connects to the SO!GIS PostGIS repository, gets the information of all "
+"published geospatial data layers from SO!DATA and offers the user a GUI to "
+"find the data layers they need. With this infrastructure in place, our users"
+" are happy --- they can prepare for geoprocessing, editing and map composing"
+" in an individual way."
+msgstr "Para remover a necessidade dos usuários finais interagir diretamente com conexões PostGIS  e diálogos de seleção de tabela, um plugin foi desenvolvido em python. O plugin é chamado \"SO!GIS Layer\" (Veja a Figura 1). O plugin se conecta ao Repositório SO!GIS PostGIS, obtém as informações de todas as camadas de dados geoespaciais publicados a partir de SO!DATA e oferece ao usuário uma interface gráfica para encontrar as camadas de dados que ele precisa. Com esta infra-estrutura no lugar, nossos usuários estão satisfeitos --- eles podem se preparar para geoprocessamento, edição e composição de mapas de forma individual."
+
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:53
 msgid "\"SO!GIS Suche\" plugin developed at the Canton of Solothurn"
 msgstr "Módulo \"SO!GIS Suche\" desenvolvido no Cantão de Solothurn"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:55
+msgid ""
+"Another required QGIS plugin we created is called 'SO!GIS Suche'. This "
+"provides the possibility to search for locations like townships, addresses "
+"or cadastral parcels (see Figure 2). As a result the user is able to "
+"navigate very easily to an area of interest."
+msgstr "Outro plugin QGIS necessário que criamos é chamado de 'SO!GIS Suche \". Isso proporciona a possibilidade de procurar locais como municípios, endereços ou partes cadastrais (ver Figura 2). Como resultado, o usuário é capaz de navegar com muita facilidade em uma área de interesse."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:57
+msgid ""
+"At the moment many other plugins are under development. These will support "
+"data manipulation, analysis or mapping for different projects. Our in-"
+"development plugins cover topics  such as nature reserves, soil "
+"conservation, cadastral data verification, crisis management, abandoned "
+"sites and so on."
+msgstr "No momento muitos outros plugins estão em desenvolvimento. Estes irão suportar a manipulação de dados, análise ou mapeamento para diferentes projetos. Nossos plugins em desenvolvimento abrangem temas como reservas naturais, a conservação do solo, verificação de dados cadastrais, gerenciamento de crises, locais abandonados e assim por diante."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:60
 msgid "Conclusion"
@@ -112,92 +203,13 @@ msgid ""
 "Switzerland."
 msgstr "Este artigo foi contribuído em Maio de 2009 pelo Dr. Horst Düster. Ele é coordenador SIG no Departamento de Geoinformação no Cantão de Solothurn, Suíça."
 
-#: ../../source/site/about/case_studies/suisse_solothurn.rst:3
-msgid ""
-"QGIS in the governmental FOSSGIS stack of the Canton of Solothurn in "
-"Switzerland"
-msgstr "QGIS na pilha FOSSGIS governamental do Cantão de Solothurn, na Suíça"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
 
-#: ../../source/site/about/case_studies/suisse_solothurn.rst:10
-msgid ""
-"The Canton of Solothurn provides services and infrastructure to 250,000 "
-"Solothurn citizens. In the year 2001 the State Parliament decided to migrate"
-" from Windows to Linux. The motivations were to be independent from one "
-"particular vendor, to encourage free enterprise and reduce license costs. As"
-" a result SO!GIS department of the Canton of Solothurn started to deliver "
-"the GIS-requirements of more than 3500 employees with a FOSSGIS strategy."
-msgstr "O cantão de Solothurn fornece serviços e infra-estrutura para 250.000 cidadãos Solothurn. No ano de 2001, o Parlamento do Estado decidiu migrar do Windows para o Linux. As motivações eram para ser independente de um fornecedor específico, para incentivar a livre empresa e reduzir os custos de licença. Como resultado o Departamento de SO!SIG Cantão de Solothurn começou a entregar os requisitos de SIG de mais de 3500 funcionários com uma estratégia FOSSGIS."
-
-#: ../../source/site/about/case_studies/suisse_solothurn.rst:12
-msgid ""
-"The first step we took was the introduction of UMN MapServer and the "
-"creation of a SO!MAP client that offers an easy to use WebGIS client for all"
-" the 3500 employees. The second step was the migration of all our geospatial"
-" data from Shapefiles to the PostGIS spatial database engine. The "
-"introduction was very successful, but an easy to use desktop GIS was "
-"lacking."
-msgstr "O primeiro passo que demos foi a introdução da UMN MapServer e da criação de um cliente SO!MAP. Que oferece um cliente WebGIS fácil de usar  para todos os 3500 funcionários. O segundo passo foi a migração de todos os nossos dados geoespaciais de Shapefiles para o banco de dados espacial no PostGIS. A introdução foi muito bem sucedida, mas faltou uma área de trabalho SIG fácil de usar."
-
-#: ../../source/site/about/case_studies/suisse_solothurn.rst:14
-msgid ""
-"After an evaluation of different Desktop GIS we decided to use QGIS in "
-"conjunction with GRASS, replacing ESRI ArcInfo and ArcView3 in the 2006."
-msgstr "Após avaliação de uma área de trabalho SIG diferente, decidimos usar QGIS em conjunto com a GRASS, substituindo ESRI ArcInfo e ArcView3 em 2006."
-
-#: ../../source/site/about/case_studies/suisse_solothurn.rst:32
-msgid ""
-"In contrast to the interactive maps served by UMN MapServer, the desktop GIS"
-" has to offer a flexible view at the geospatial data of Solothurn. QGIS "
-"Desktop GIS is in use by more than 50 users for their daily work. But many "
-"of them are not GIS experts. They want to visualize and/or capture "
-"geospatial data with an intuitive user interface."
-msgstr "Em contraste com os mapas interactivos servidos pelo UMN MapServer , o SIG Desktop tem para oferecer uma visão flexível aos dados geoespaciais de Solothurn. QGIS SIG desktop está em uso por mais de 50 usuários para o trabalho diário. Mas muitos deles não são especialistas em SIG. Eles querem visualizar e / ou capturar dados geoespaciais com uma interface de usuário intuitiva."
-
-#: ../../source/site/about/case_studies/suisse_solothurn.rst:34
-msgid ""
-"One of the most important Desktop GIS issues is the question: \"How do I get"
-" the information from the PostGIS geodata repository I need?\". Since our "
-"end users are unfamiliar with data models and the underlying structures of "
-"our spatial database, offering the users a raw connection to the PostGIS DB "
-"was not an option. We have a metadata database that stores the descriptions "
-"of all production data called 'SO!DATA'."
-msgstr "Uma dos itens mais importantes do SIG Desktop é a questão: \"Como faço para obter as informações a partir do repositório de dados geográficos PostGIS que preciso?\". Desde que nossos usuários finais não são familiarizados com modelos de dados e as estruturas subjacentes do nosso banco de dados espacial, oferecendo aos usuários uma conexão direta para o PostGIS DB não era uma opção. Temos um banco de dados de metadados que armazena a descrição de todos os dados de produção chamado 'SO!DATA\"."
-
-#: ../../source/site/about/case_studies/suisse_solothurn.rst:36
-msgid ""
-"SO!DATA contains a human readable inventory of the data models and the non-"
-"GIS-Expert user is able to use this database to discover the information "
-"they need."
-msgstr "SO!DATA contém um inventário humano legível dos modelos de dados e usários Não-Experiente-SIG tem a facilidade de usar esse banco de dados para descobrir a informação de que necessitam."
-
-#: ../../source/site/about/case_studies/suisse_solothurn.rst:45
-msgid ""
-"To remove the need for end users to interact directly with PostGIS "
-"connections and table selection dialogs, a plugin has been developed in "
-"python. The plugin is called \"SO!GIS Layer\" (see Figure 1). The plugin "
-"connects to the SO!GIS PostGIS repository, gets the information of all "
-"published geospatial data layers from SO!DATA and offers the user a GUI to "
-"find the data layers they need. With this infrastructure in place, our users"
-" are happy --- they can prepare for geoprocessing, editing and map composing"
-" in an individual way."
-msgstr "Para remover a necessidade dos usuários finais interagir diretamente com conexões PostGIS  e diálogos de seleção de tabela, um plugin foi desenvolvido em python. O plugin é chamado \"SO!GIS Layer\" (Veja a Figura 1). O plugin se conecta ao Repositório SO!GIS PostGIS, obtém as informações de todas as camadas de dados geoespaciais publicados a partir de SO!DATA e oferece ao usuário uma interface gráfica para encontrar as camadas de dados que ele precisa. Com esta infra-estrutura no lugar, nossos usuários estão satisfeitos --- eles podem se preparar para geoprocessamento, edição e composição de mapas de forma individual."
-
-#: ../../source/site/about/case_studies/suisse_solothurn.rst:55
-msgid ""
-"Another required QGIS plugin we created is called 'SO!GIS Suche'. This "
-"provides the possibility to search for locations like townships, addresses "
-"or cadastral parcels (see Figure 2). As a result the user is able to "
-"navigate very easily to an area of interest."
-msgstr "Outro plugin QGIS necessário que criamos é chamado de 'SO!GIS Suche \". Isso proporciona a possibilidade de procurar locais como municípios, endereços ou partes cadastrais (ver Figura 2). Como resultado, o usuário é capaz de navegar com muita facilidade em uma área de interesse."
-
-#: ../../source/site/about/case_studies/suisse_solothurn.rst:57
-msgid ""
-"At the moment many other plugins are under development. These will support "
-"data manipulation, analysis or mapping for different projects. Our in-"
-"development plugins cover topics  such as nature reserves, soil "
-"conservation, cadastral data verification, crisis management, abandoned "
-"sites and so on."
-msgstr "No momento muitos outros plugins estão em desenvolvimento. Estes irão suportar a manipulação de dados, análise ou mapeamento para diferentes projetos. Nossos plugins em desenvolvimento abrangem temas como reservas naturais, a conservação do solo, verificação de dados cadastrais, gerenciamento de crises, locais abandonados e assim por diante."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS in the governmental FOSSGIS stack"
 #~ msgstr ""

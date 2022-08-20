@@ -6,15 +6,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 23:57+0000\n"
-"Last-Translator: Armando Vulcano Junior <vulcano@uol.com.br>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Armando Vulcano Junior <vulcano@uol.com.br>, 2015\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/about/case_studies/india_assam.rst:3
+msgid ""
+"QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
+"Assam, India Sonitpur District)"
+msgstr "QGIS para monitorar tigres (usando armadilhas fotográficas em Nameri Tiger Reserve, Assam, Índia Sonitpur District)"
 
 #: ../../source/site/about/case_studies/india_assam.rst:5
 msgid ""
@@ -26,6 +33,9 @@ msgid ""
 "west and River Bor-Dikorai in the east. To the north of the Nameri lies the "
 "Pakke Tiger Reserve of Arunachal Pradesh."
 msgstr "A Reserva de Tigres de Nameri (RTN) é uma das três reservas de Assam e está situada na parte norte do Distrito de Assam em Sonipour ao longo do lado Este do sopé dos  Himalayas. Espalhado por uma área de 344 km2, a RTN apresenta uma variedade rica em fauna e flora. A área central da reserva que constitui o \"Parque Nacional Nameria\" é limitado pelo Rio Jia-Bhoerli no oeste e o rio Bor-Dikorai a este. No norte de Nameri fica a Reserva de Tigres Pakke de Arunachal Pradesh."
+
+msgid "Area of Tiger Reserve"
+msgstr ""
 
 #: ../../source/site/about/case_studies/india_assam.rst:12
 msgid ""
@@ -52,8 +62,30 @@ msgid ""
 msgstr "A partir do ano de 2011, a Autoridade Nacional da Conservação de Tigres (ANCT) da Índia tornou obrigatório para todas as reservas de tigres do país a monitorização dos tigres usando armadilhas fotográficas. Sob este novo protocolo, 25 pares de câmaras serão instaladas para 100 km quadrados da reserva do tigre no período de amostragem de 40-60 dias. Este novo protocolo de monitorização do tigre dependerá muito do SIG."
 
 #: ../../source/site/about/case_studies/india_assam.rst:24
+msgid "Picture of a male Tiger"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:24
 msgid "Picture of a male tiger that was captured in one of the camera traps"
 msgstr "Uma fotografia de um tigre macho foi capturada numa das armadilhas fotográficas."
+
+#: ../../source/site/about/case_studies/india_assam.rst:26
+msgid ""
+"During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
+"using QGIS. To begin with, we digitized the NTR boundary in QGIS and saved "
+"it as polygon. This boundary polygon was exported to GPS for navigation "
+"purpose during the field surveys. We conducted an extensive sign survey in "
+"NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
+"GPS coordinates of tiger signs as well as suitable locations for camera "
+"traps were recorded. After completion of the survey, the data was "
+"transferred to QGIS using GPS tools for further processing and for "
+"finalizing camera trap locations. A shape file containing the tiger signs "
+"and probable camera trap locations was prepared."
+msgstr "Durante 2012-13, implementamos este novo protocolo de monitoramento de tigre em NTR usando QGIS. Para começar, nós digitalizamos o limite NTR no QGIS e salvamos como um polígono. Este polígono limite foi exportada para GPS para fins de navegação durante as pesquisas de campo. Conduzimos um extenso levantamento de sinal em NTR para evidências da presença de tigre tais como pugmarks, marcas de arranhões e fezes. Foram registrados coordenadas GPS de sinais de tigre, bem como locais adequados para armadilhas fotográficas. Após a conclusão da pesquisa, os dados foram transferidos para QGIS usando ferramentas GPS para posterior processamento e para finalizar locais de armadilha fotográfica. Um arquivo contendo os sinais de tigre e locais  prováveis das armadilhas fotográfica estava preparado."
+
+#: ../../source/site/about/case_studies/india_assam.rst:31
+msgid "Camera trap locations"
+msgstr ""
 
 #: ../../source/site/about/case_studies/india_assam.rst:31
 msgid ""
@@ -85,47 +117,16 @@ msgid ""
 msgstr "Em seguida, preparámos uma grelha de 4 km quadrados  usando o módulo mmqgis. Esta shapefile contém os resultados do levantamento dos sinais sobreposta na grelha de 4 km quadrados para visualizar a distribuição da armadilhas fotográficas no RTN. A opção da matriz de distância nas ferramentas de ánalise do vector facilitou na determinação da distância entre as câmaras. As localizações das câmaras tinham menos de 1.8km entre elas foram removidas para cumprir o protocolo de monitorização. Devido à falta de câmaras para monitorizar a área inteira da reserva de uma só vez, nós decidimos dividir a reserva em 2 blocos de 100 km quadrados. Os limites desses blocos foram desenhados e guardados em diferentes shapefiles para ambos os blocos. Usando o módulo de composição RGB, foi feito uma composição de falsa cor da reserva e sobrepôs-se a camada vectorial dos levantamentos dos sinais para avaliar os tipos de habitats usados pelo tigre. Durante o período de estudo, as armadilhas fotográficas foram monitorizadas intensivamente pela equipa de campo. Para assegurar um trabalho eficaz do processo de monitorização, nós usámos requisitos para o planeamento logístico. As coordenadas geográficas das armadilhas fotográficas são requiridas para estimar a densidade do tigre e modelar a coupação das outras espécies. Este detalhe de coordenadas são facilmente geradas na shapefile das armadilhas fotográficas usando a funcionalidade \"Exportar/ adicionar colunas de geometria\" das ferramentas de geometria de vector."
 
 #: ../../source/site/about/case_studies/india_assam.rst:41
+msgid "Survey Grid"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:41
 msgid "Survey grids with tiger presence"
 msgstr "Grelhas de Levantamento com a presença de tigres"
 
 #: ../../source/site/about/case_studies/india_assam.rst:44
 msgid "Conclusion"
 msgstr "Conclusão"
-
-#: ../../source/site/about/case_studies/india_assam.rst:50
-msgid "Author"
-msgstr "Autor"
-
-#: ../../source/site/about/case_studies/india_assam.rst:57
-msgid "Rajendra Garawad"
-msgstr "Rajendra Garawad"
-
-#: ../../source/site/about/case_studies/india_assam.rst:59
-msgid ""
-"This article was contributed by Rajendra G. Garawad in March 2013. He is the"
-" Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
-"Degrees in Forestry Science and Conservation & Land Management."
-msgstr "Este artigo foi contribuído pelo Rajendra G. Garawad em Março de 2013. Ele é Director de campo da Reserva de Tigres em Nameri, Assam, Índia. Possui um Mestrado em Ciências Florestais e Conservação & Ordenamento do Território."
-
-#: ../../source/site/about/case_studies/india_assam.rst:3
-msgid ""
-"QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
-"Assam, India Sonitpur District)"
-msgstr "QGIS para monitorar tigres (usando armadilhas fotográficas em Nameri Tiger Reserve, Assam, Índia Sonitpur District)"
-
-#: ../../source/site/about/case_studies/india_assam.rst:26
-msgid ""
-"During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
-"using QGIS. To begin with, we digitized the NTR boundary in QGIS and saved "
-"it as polygon. This boundary polygon was exported to GPS for navigation "
-"purpose during the field surveys. We conducted an extensive sign survey in "
-"NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
-"GPS coordinates of tiger signs as well as suitable locations for camera "
-"traps were recorded. After completion of the survey, the data was "
-"transferred to QGIS using GPS tools for further processing and for "
-"finalizing camera trap locations. A shape file containing the tiger signs "
-"and probable camera trap locations was prepared."
-msgstr "Durante 2012-13, implementamos este novo protocolo de monitoramento de tigre em NTR usando QGIS. Para começar, nós digitalizamos o limite NTR no QGIS e salvamos como um polígono. Este polígono limite foi exportada para GPS para fins de navegação durante as pesquisas de campo. Conduzimos um extenso levantamento de sinal em NTR para evidências da presença de tigre tais como pugmarks, marcas de arranhões e fezes. Foram registrados coordenadas GPS de sinais de tigre, bem como locais adequados para armadilhas fotográficas. Após a conclusão da pesquisa, os dados foram transferidos para QGIS usando ferramentas GPS para posterior processamento e para finalizar locais de armadilha fotográfica. Um arquivo contendo os sinais de tigre e locais  prováveis das armadilhas fotográfica estava preparado."
 
 #: ../../source/site/about/case_studies/india_assam.rst:46
 msgid ""
@@ -143,6 +144,29 @@ msgid ""
 "individuals/institutions/ involved in conserving endangered wildlife in the "
 "developing world by offering GIS technology at little or no cost."
 msgstr "Pela primeira vez na história desta pequena reserva de tigres de North East India, foi possível monitorar tigres usando armadilhas fotográficas principalmente por causa de QGIS. Os resultados deste exercício de monitoramento indicam a presença de 8-15 tigres nesta paisagem. Além dos tigres, várias espécies indescritíveis também foram documentados fotograficamente. Além de monitoramento de tigre, também estamos usando QGIS para atividades como trabalhos de gestão de planejamento de moradia, revisando horários de patrulhamento, e concepção de mapas para os visitantes. A interface amigável para o usuário, ricos recursos, a documentação em profundidade, suporte on-line e filosofia de código aberto são as poucas qualidades de QGIS que nos fez selecioná-lo sobre outro software proprietário. Acreditamos que QGIS tem um grande potencial para reforçar as pessoas / instituições / envolvidas na conservação da vida selvagem ameaçadas de extinção no mundo em desenvolvimento, oferecendo tecnologia SIG com pouco ou nenhum custo."
+
+#: ../../source/site/about/case_studies/india_assam.rst:50
+msgid "Author"
+msgstr "Autor"
+
+#: ../../source/site/about/case_studies/india_assam.rst:57
+msgid "Rajendra Garawad"
+msgstr "Rajendra Garawad"
+
+#: ../../source/site/about/case_studies/india_assam.rst:59
+msgid ""
+"This article was contributed by Rajendra G. Garawad in March 2013. He is the"
+" Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
+"Degrees in Forestry Science and Conservation & Land Management."
+msgstr "Este artigo foi contribuído pelo Rajendra G. Garawad em Março de 2013. Ele é Director de campo da Reserva de Tigres em Nameri, Assam, Índia. Possui um Mestrado em Ciências Florestais e Conservação & Ordenamento do Território."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS for monitoring tigers"
 #~ msgstr ""

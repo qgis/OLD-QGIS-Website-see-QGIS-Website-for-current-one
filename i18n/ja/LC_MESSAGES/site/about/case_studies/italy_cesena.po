@@ -4,21 +4,22 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# fairtommy <fairtommy@gmail.com>, 2020
+# tomoyuki arai <tarai.3367@gmail.com>, 2022
+# fairtommy <fairtommy@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2017-03-02 14:00+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>, 2020\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -47,8 +48,7 @@ msgid ""
 "characterizes the city of Cesena. Its scorpion shape divides the historic "
 "center from the newly zone."
 msgstr ""
-"大学は5つの仮想学部を持っています：エンジニアリング、経済学、心理学、芸術、法律。古地図とQGISプロジェクト　"
-"城壁はチェゼーナの街を特徴づけます。そのサソリ形状が新しくゾーンからの歴史的な中心部を分割します。"
+"大学は5つの仮想学部を持っています：エンジニアリング、経済学、心理学、芸術、法律。古地図とQGISプロジェクト　城壁はチェゼーナの街を特徴づけます。そのサソリ形状が新しくゾーンからの歴史的な中心部を分割します。"
 
 #: ../../source/site/about/case_studies/italy_cesena.rst:19
 msgid ""
@@ -73,6 +73,10 @@ msgid ""
 "tools (Fig. 1)."
 msgstr ""
 "QGISは、基本的なツールは、分析し、手の込んだ、私は、道路、建物、公園や庭園、城壁、古代の要塞塔、古代都市の門などの地図のoftheすべての要素を、記憶しているベクターレイヤーまたはシェープファイルを介して、これらの地理参照地図を比較することでした。私はpuntual、線形および多角形のレイヤーを使用しました。私は分析、研究、ジオプロセシング、ジオメトリデータ管理ツールを使用してこれらのレイヤーを比較しました（図1）。"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:36
+msgid "Concept Map of the QGIS project"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_cesena.rst:36
 msgid "Fig. 1 Concept Map of the QGIS project"
@@ -107,6 +111,11 @@ msgstr "城壁の形態変化、例えば古代の要塞塔とその古代の城
 #: ../../source/site/about/case_studies/italy_cesena.rst:44
 msgid "The Cesena's Urban Progress from the 16th Century to the Present;"
 msgstr "チェゼーナの16世紀から現在までの都市計画"
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:50
+#: ../../source/site/about/case_studies/italy_cesena.rst:63
+msgid "Satellite Map overlapped with information"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_cesena.rst:50
 msgid ""
@@ -226,3 +235,11 @@ msgid ""
 " the eCampus University."
 msgstr ""
 "カミラ・ファブリは土木環境工学の学士号を持っています。彼女は監修者のアレッサンドラ・ボルギ（eCampus大学土木環境工学学部の地形と理論力学の大学教師）と伴にQGISプログラムを使用してチェゼーナ・ウォールの歴史的地図作成についての彼女の論文を開発しました。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

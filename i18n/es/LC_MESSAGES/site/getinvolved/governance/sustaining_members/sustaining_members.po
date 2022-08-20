@@ -4,23 +4,25 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2020
+# Abigaíl García, 2022
+# Eric Armijo, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-07-12 14:28+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020\n"
+"Last-Translator: Eric Armijo, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/qgis/teams/6144/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/governance/sustaining_members/sustaining_members.rst:5
 msgid "Sustaining Membership Program Overview"
@@ -326,15 +328,16 @@ msgstr "Donación"
 msgid ""
 "Donations can be of any amount, via direct transfers to our bank account "
 "(SEPA payment), credit card payment (through stripe.com) or Paypal "
-"(information available at :ref:`Donations <QGIS-donations>` page). Even a "
-"small donation can make a difference and help to reach important project "
-"goals!"
+"(information available at `Donations <https://donate.qgis.org>`__ page). "
+"Even a small donation can make a difference and help to reach important "
+"project goals!"
 msgstr ""
-"Las donaciones pueden ser de cualquier monto, a través de transferencias "
-"directas a nuestra cuenta bancaria (pago SEPA), pago con tarjeta de crédito "
-"(a través de stripe.com) o Paypal (información disponible en:ref:`Donaciones"
-"<QGIS-donations>'página). ¡Incluso una pequeña donación puede marcar la "
-"diferencia y ayudar a alcanzar objetivos importantes del proyecto!"
+"La donaciones pueden ser por cualquier monto, mediante transferencias "
+"directas a nuestra cuenta de banco (pago SEPA), pago de tarjeta de crédito "
+"(a través de stripe.com) o Paypal (información disponible en la página "
+"`Donaciones <https://donate.qgis.org>`__). Incluso una pequeña donación "
+"puede marcar la diferencia y ayudar a alcanzar importantes metas de "
+"proyecto!"
 
 #: ../../source/site/getinvolved/governance/sustaining_members/sustaining_members.rst:107
 msgid ""
@@ -482,3 +485,25 @@ msgstr ""
 "que la presencia del logotipo de miembro sustentador y los materiales de "
 "marketing en nuestro sitio y otros materiales degradarán la experiencia de "
 "nuestros usuarios. rechazado"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
+
+#~ msgid ""
+#~ "Donations can be of any amount, via direct transfers to our bank account "
+#~ "(SEPA payment), credit card payment (through stripe.com) or Paypal "
+#~ "(information available at :ref:`Donations <QGIS-donations>` page). Even a "
+#~ "small donation can make a difference and help to reach important project "
+#~ "goals!"
+#~ msgstr ""
+#~ "Las donaciones pueden ser de cualquier monto, a través de transferencias "
+#~ "directas a nuestra cuenta bancaria (pago SEPA), pago con tarjeta de crédito "
+#~ "(a través de stripe.com) o Paypal (información disponible "
+#~ "en:ref:`Donaciones<QGIS-donations>'página). ¡Incluso una pequeña donación "
+#~ "puede marcar la diferencia y ayudar a alcanzar objetivos importantes del "
+#~ "proyecto!"

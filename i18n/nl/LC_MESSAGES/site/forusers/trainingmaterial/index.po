@@ -1,18 +1,19 @@
 # 
 # Translators:
 # DiGro, 2015-2019
+# DiGro, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
-"PO-Revision-Date: 2019-07-18 09:42+0000\n"
-"Last-Translator: DiGro\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -56,40 +57,71 @@ msgstr "De officiële trainingshandleiding is hier te vinden: http://docs.qgis.o
 
 #: ../../source/site/forusers/trainingmaterial/index.rst:27
 msgid ""
+"Tutorial material, originally written in English and translated in over 15 "
+"languages. (Produced and maintained by Ujaval Gandhi) "
+"https://www.qgistutorials.com/"
+msgstr "Handleidingen, origineel geschreven in het Engels en vertaald in meer dan 15 talen. (Geproduceerd en onderhouden door Ujaval Gandhi) https://www.qgistutorials.com/"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:30
+msgid ""
 "Tutorial material, originally developed as part of a workshop for the "
 "Ecology and Evolutionary Biology Program at Texas A&M University (produced "
 "and maintained by Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
 msgstr "Materiaal voor handleidingen, origineel ontwikkeld als deel van een workshop voor de Ecology and Evolutionary Biology Program aan de Texas A&M University (geproduceerd en onderhouden door Mike Treglia): http://mltconsecol.github.io/QGIS-Tutorial/"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:30
+#: ../../source/site/forusers/trainingmaterial/index.rst:33
 msgid ""
 "In-person training material, originally developed for the New York City "
 "Department of Transportation by `Datapolitan <http://www.datapolitan.com>`_:"
 msgstr "Persoonlijk trainingsmateriaal, origineel ontwikkeld voor het New York City Department of Transportation door `Datapolitan <http://www.datapolitan.com>`_:"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:32
+#: ../../source/site/forusers/trainingmaterial/index.rst:35
 msgid ""
 "`Introduction to GIS Fundamentals <http://training.datapolitan.com/qgis-"
 "training/Introduction_to_GIS_Fundamentals>`_"
 msgstr "`Introduction to GIS Fundamentals <http://training.datapolitan.com/qgis-training/Introduction_to_GIS_Fundamentals>`_"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:33
+#: ../../source/site/forusers/trainingmaterial/index.rst:36
 msgid ""
-"`Intermediate GIS with QGIS and PostGIS <http://training.datapolitan.com"
-"/qgis-training/Intermediate_GIS/>`_"
+"`Intermediate GIS with QGIS and PostGIS "
+"<http://training.datapolitan.com/qgis-training/Intermediate_GIS/>`_"
 msgstr "`Intermediate GIS with QGIS and PostGIS <http://training.datapolitan.com/qgis-training/Intermediate_GIS/>`_"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:34
+#: ../../source/site/forusers/trainingmaterial/index.rst:37
 msgid ""
-"`Source code for training materials <https://github.com/Datapolitan-Training"
-"/qgis-training>`_"
+"`Source code for training materials <https://github.com/Datapolitan-"
+"Training/qgis-training>`_"
 msgstr "`Source code for training materials <https://github.com/Datapolitan-Training/qgis-training>`_"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:37
+#: ../../source/site/forusers/trainingmaterial/index.rst:39
+msgid ""
+"Online course material for QGIS training developed and maintained by "
+"`Spatial Thoughts <http://spatialthoughts.com/>`_. Available for self-study "
+"and adaptation by other trainers:"
+msgstr "Online cursusmateriaal voor training in QGIS, ontwikkeld en onderhouden door `Spatial Thoughts <https://spatialthoughts.com/>`_. Beschikbaar voor zelfstudie en aanpassingen door andere trainers:"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:41
+msgid ""
+"`Introduction to QGIS  <https://courses.spatialthoughts.com/introduction-to-"
+"qgis.html>`_"
+msgstr "`Introduction to QGIS  <https://courses.spatialthoughts.com/introduction-to-qgis.html>`_"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:42
+msgid ""
+"`Advanced QGIS  <https://courses.spatialthoughts.com/advanced-qgis.html>`_"
+msgstr "`Advanced QGIS  <https://courses.spatialthoughts.com/advanced-qgis.html>`_"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:43
+msgid ""
+"`Customizing QGIS with Python <https://courses.spatialthoughts.com/pyqgis-"
+"in-a-day.html>`_"
+msgstr "`Customizing QGIS with Python <https://courses.spatialthoughts.com/pyqgis-in-a-day.html>`_"
+
+#: ../../source/site/forusers/trainingmaterial/index.rst:46
 msgid "Brazilian Portuguese"
 msgstr "Braziliaans Portugees"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:39
+#: ../../source/site/forusers/trainingmaterial/index.rst:48
 msgid ""
 "Roberto Ilacqua wrote a manual for image classification in QGIS: `Manual do "
 "QGIS para Classificação Supervisionada de Áreas "
@@ -100,48 +132,57 @@ msgid ""
 " short version, 34 p - 2017."
 msgstr "Roberto Ilacqua schreef een handleiding voor het classificeren van afbeeldingen in QGIS: `Manual do QGIS para Classificação Supervisionada de Áreas <https://malariaeliminationblog.files.wordpress.com/2017/11/manual-qgis.pdf>`_, volledige versie, 200 p - 2017 of `Manual do QGIS para Classificação Supervisionada de Áreas (korte versie) <https://malariaeliminationblog.files.wordpress.com/2018/01/protocol_lulc_methods.pdf>`_, korte versie, 34 p - 2017."
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:44
+#: ../../source/site/forusers/trainingmaterial/index.rst:53
 msgid "French"
 msgstr "Frans"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:46
+#: ../../source/site/forusers/trainingmaterial/index.rst:55
 msgid ""
 "The French Ministry of Environment supports the QGIS project. Training "
-"material from them is available here: http://www.geoinformations"
-".developpement-durable.gouv.fr/qgis-supports-pedagogiques-r947.html"
+"material from them is available here: "
+"http://www.geoinformations.developpement-durable.gouv.fr/qgis-supports-"
+"pedagogiques-r947.html"
 msgstr "Het Franse Ministerie van Milieu ondersteunt het project QGIS. Trainingsmateriaal van hen is hier beschikbaar: http://www.geoinformations.developpement-durable.gouv.fr/qgis-supports-pedagogiques-r947.html"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:49
+#: ../../source/site/forusers/trainingmaterial/index.rst:58
 msgid ""
-"Other resources from them are available here: http://www.geoinformations"
-".developpement-durable.gouv.fr/qgis-r625.html"
+"Other resources from them are available here: "
+"http://www.geoinformations.developpement-durable.gouv.fr/qgis-r625.html"
 msgstr "Andere bronnen van hen zijn hier beschikbaar: http://www.geoinformations.developpement-durable.gouv.fr/qgis-r625.html"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:52
+#: ../../source/site/forusers/trainingmaterial/index.rst:61
 msgid ""
 "The French National Center for Scientific Research (CNRS), created an online"
 " QGIS tutorial: http://ouvrir.passages.cnrs.fr/tutoqgis/"
 msgstr "Het Franse National Center for Scientific Research (CNRS), maakte een online handleiding voor QGIS: http://ouvrir.passages.cnrs.fr/tutoqgis/"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:56
+#: ../../source/site/forusers/trainingmaterial/index.rst:65
 msgid "German"
 msgstr "Duits"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:58
+#: ../../source/site/forusers/trainingmaterial/index.rst:67
 msgid "HSR material: http://giswiki.hsr.ch/QGIS-Materialien"
 msgstr "HSR-materiaal: http://giswiki.hsr.ch/QGIS-Materialien"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:62
+#: ../../source/site/forusers/trainingmaterial/index.rst:71
 msgid "Czech"
 msgstr "Tsjechisch"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:64
+#: ../../source/site/forusers/trainingmaterial/index.rst:73
 msgid "QGIS for beginners: http://training.gismentors.eu/qgis-zacatecnik/"
 msgstr "QGIS voor beginners: http://training.gismentors.eu/qgis-zacatecnik/"
 
-#: ../../source/site/forusers/trainingmaterial/index.rst:67
+#: ../../source/site/forusers/trainingmaterial/index.rst:76
 msgid "QGIS for advanced users: http://training.gismentors.eu/qgis-pokrocily/"
 msgstr "QGIS voor gevorderde gebruikers: http://training.gismentors.eu/qgis-pokrocily/"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ msgstr ""

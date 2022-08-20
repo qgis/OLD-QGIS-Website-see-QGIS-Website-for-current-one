@@ -9,21 +9,32 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2017-12-03 05:44+0000\n"
-"Last-Translator: Jackson Simionato <simionato.jackson@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: Jackson Simionato <simionato.jackson@gmail.com>, 2017\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/italy_rome.rst:3
 msgid ""
 "QGIS geoprocessing model to simplify first level seismic microzonation "
 "analysis"
 msgstr "Modelo de geoprocessamento no QGIS para simplificar o primeiro nível de análise de microzoneamento sísmico"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:5
+msgid ""
+"The Institute of Environmental Geology and Geoengineering (IGAG) of the "
+"National Research Council (CNR) is located in Rome, in the Area of Research "
+"\"Roma 1\". It was founded in 2002 by regrouping five former research "
+"Institutes and Centers that had been active for more than 40 years in their "
+"field of expertise. IGAG covers a wide range of scientific topics in the "
+"field of Earth sciences, mainly focusing towards the study of:"
+msgstr "O Instituto de Geologia Ambiental e Geologia de Engenharia (IGAG) do Conselho Nacional de Pesquisa (CNR) está localizado em Roma, na Área de Pesquisa \"Roma 1\". Foi fundado em 2002 pelo reagrupamento de cinco antigos Institutos e Centros de pesquisa que estiveram ativos por mais de 40 anos nos seus campos de conhecimento. O IGAG abrange uma grande variedade de tópicos científicos no campo das ciências da Terra, focando principalmente no estudo de:"
 
 #: ../../source/site/about/case_studies/italy_rome.rst:12
 msgid ""
@@ -114,6 +125,36 @@ msgid ""
 "thematic maps:"
 msgstr "O primeiro nível do microzoneamento sísmico consiste na criação de 3 mapas temáticos: "
 
+#: ../../source/site/about/case_studies/italy_rome.rst:51
+msgid "Survey map containing the surveys for seismic microzonation studies;"
+msgstr "Mapa de pesquisa contendo as pesquisas para estudos de microzonação sísmica;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:52
+msgid ""
+"Geo-lithological map, obtained from detailed scale geological and "
+"geomorphological maps integrating existing lithological, stratigraphic and "
+"geotechnical data related to surveys;"
+msgstr "Mapa geolitológico, obtido por meio de mapas geológicos e geomorfológicos de escala detalhada integrando dados existentes de litologia, estratigrafia e geotecnia relacionados aos estudos;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:54
+msgid ""
+"Level 1 seismic microzonation map (the principal product of level 1 "
+"microzonation), identifying the microzones into three categories of local "
+"hazards:"
+msgstr "Mapa de microzoneamento sísmico de nível 1 (o produto principal do microzoneamento de nível 1), identificando as microzonas em três categorias de riscos locais:"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:57
+msgid "Stable zones;"
+msgstr "Zonas estáveis;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:58
+msgid "Stable zones prone to ground amplification;"
+msgstr "Zonas estáveis propensas à amplificação do solo;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:59
+msgid "Unstable zones."
+msgstr "Zonas instáveis."
+
 #: ../../source/site/about/case_studies/italy_rome.rst:61
 msgid ""
 "The scope of this work is to contribute to the creation of a methodology for"
@@ -138,6 +179,10 @@ msgid ""
 "unified interface for heterogeneous GFOSS (Geospatial Free and Open Source "
 "Software) tools (Fig. 1)."
 msgstr "O modelo faz uso de diferentes softwares de código aberto e bibliotecas (GRASS, GDAL, QGIS), demonstrando a utilidade do QGIS como uma interface simplificada e unificada para ferramentas GFOSS (Geospatial Free e Open Source Software) heterogêneas (Fig. 1)."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:79
+msgid "Geoprocessing model"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_rome.rst:79
 msgid "(Fig. 1) Screenshot from the geoprocessing model."
@@ -171,12 +216,36 @@ msgid "The name of the resulting polygon layer."
 msgstr "O nome da camada de polígono resultante."
 
 #: ../../source/site/about/case_studies/italy_rome.rst:94
+msgid "Model input form (left) and execution log (right)"
+msgstr ""
+
+#: ../../source/site/about/case_studies/italy_rome.rst:94
 msgid "(Fig. 2) Model input form (left) and execution log (right)."
 msgstr "(Fig. 2) Formulário de entrada do modelo (esquerda) e dados de execução (direita)."
 
 #: ../../source/site/about/case_studies/italy_rome.rst:96
 msgid "When launched, the model performs the following operations:"
 msgstr "Quando iniciado, o modelo executa as seguintes operações: "
+
+#: ../../source/site/about/case_studies/italy_rome.rst:98
+msgid ""
+"The GRASS tool v.to.rast.attribute converts contour elevation lines to "
+"raster, taking the contour shapefile, the name of the z field and the raster"
+" resolution as input;"
+msgstr "A ferramenta GRASS v.to.rast.attribute converte as linhas de contorno de elevação para raster, tomando o shapefile do contorno, o nome do campo z e a resolução do raster como entrada;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:100
+msgid ""
+"The GRASS tool r.surf.contour generates the elevation model taking as input "
+"the rasterized temporary output from previous step and the raster "
+"resolution;"
+msgstr "A ferramenta GRASS r.surf.contour gera o modelo de elevação tomando como entrada o arquivo de saída raster temporário do passo anterior e a resolução do raster;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:102
+msgid ""
+"The GDAL tool “gdaldem” generates the slope expressed as degrees from the "
+"elevation model;"
+msgstr "A ferramenta GDAL “gdaldem” gera a declividade expressa em graus a partir do modelo de elevação;"
 
 #: ../../source/site/about/case_studies/italy_rome.rst:103
 msgid ""
@@ -193,6 +262,10 @@ msgstr "if(A>15,1,null())"
 msgid "where A is the temporary slope raster generated by gdaldem;"
 msgstr "onde A é o raster temporário de declividade gerado pelo gdaldem;"
 
+#: ../../source/site/about/case_studies/italy_rome.rst:111
+msgid "The GDAL tool “gdal_polygonize” converts the 1 bit raster to polygons;"
+msgstr "A ferramenta GDAL \"gdal_polygonize\" converte o raster de 1 bit em polígonos;"
+
 #: ../../source/site/about/case_studies/italy_rome.rst:112
 msgid ""
 "The QGIS tool “Intersection” is used to overlay the areas with slope greater"
@@ -205,6 +278,12 @@ msgid ""
 " value greater than 15 degrees, automatically extracted from a thematic map "
 "such as a landslides polygon layer (Fig. 3) or a lithological map."
 msgstr "O resultado é uma camada de polígono com áreas propensas à instabilidade devido a um valor de declividade superior a 15 graus, extraído automaticamente de um mapa temático, como uma camada de polígono de deslizamento de terra (Fig. 3) ou um mapa litológico."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:124
+msgid ""
+"The model output (in red) shows highly unstable areas extracted from a "
+"landslides layer (orange)"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_rome.rst:124
 msgid ""
@@ -238,6 +317,14 @@ msgstr "Este trabalho demonstra claramente que ferramentas SIG de código aberto
 #: ../../source/site/about/case_studies/italy_rome.rst:142
 msgid "References"
 msgstr "Referências"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:144
+msgid ""
+"G. Baldassarre; Gallicchio, S.; Giannandrea, P. & Tropeano, M.: \"Relazione "
+"Finale Geolitologica per la microzonazione sismica di livello 1dei Comuni "
+"della Provincia di Foggia Dipartimento di Geologia e Geofisica "
+"dell'Università di Bari, 2011\""
+msgstr "G. Baldassarre; Gallicchio, S.; Giannandrea, P. & Tropeano, M.: \"Relazione Finale Geolitologica per la microzonazione sismica di livello 1dei Comuni della Provincia di Foggia Dipartimento di Geologia e Geofisica dell'Università di Bari, 2011\""
 
 #: ../../source/site/about/case_studies/italy_rome.rst:147
 msgid ""
@@ -306,77 +393,13 @@ msgid ""
 " and Windows based servers and desktops."
 msgstr "Francesco Penninca provém o desenvolvimento e gerenciamento de dados de softwares de SIG e de WebGIS, serviços de webgis baseados em padrões de GeoServer, MapServer, ArcGIS Server e GeoNetwork OGC, linguagens e frameworks Java, HTML, CSS, Javascript, Python e PHP, desenvolvimento front-end de WebGIS com OpenLayers, ExtJS, GeoExt, JQuery, GWT, Ext-GWT, Google Maps API SQL, gerenciamento de base de dados geográficos, PostgreSQL, PostGIS,  análise e scripting de softwares baseados em SIG de área de trabalho (ArcGIS, GRASS, ferramentas GFOSS), configuração e gerenciamento de softwares em serves e áreas de trabalho baseados em Linux e Windows. "
 
-#: ../../source/site/about/case_studies/italy_rome.rst:5
-msgid ""
-"The Institute of Environmental Geology and Geoengineering (IGAG) of the "
-"National Research Council (CNR) is located in Rome, in the Area of Research "
-"\"Roma 1\". It was founded in 2002 by regrouping five former research "
-"Institutes and Centers that had been active for more than 40 years in their "
-"field of expertise. IGAG covers a wide range of scientific topics in the "
-"field of Earth sciences, mainly focusing towards the study of:"
-msgstr "O Instituto de Geologia Ambiental e Geologia de Engenharia (IGAG) do Conselho Nacional de Pesquisa (CNR) está localizado em Roma, na Área de Pesquisa \"Roma 1\". Foi fundado em 2002 pelo reagrupamento de cinco antigos Institutos e Centros de pesquisa que estiveram ativos por mais de 40 anos nos seus campos de conhecimento. O IGAG abrange uma grande variedade de tópicos científicos no campo das ciências da Terra, focando principalmente no estudo de:"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
 
-#: ../../source/site/about/case_studies/italy_rome.rst:51
-msgid "Survey map containing the surveys for seismic microzonation studies;"
-msgstr "Mapa de pesquisa contendo as pesquisas para estudos de microzonação sísmica;"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:52
-msgid ""
-"Geo-lithological map, obtained from detailed scale geological and "
-"geomorphological maps integrating existing lithological, stratigraphic and "
-"geotechnical data related to surveys;"
-msgstr "Mapa geolitológico, obtido por meio de mapas geológicos e geomorfológicos de escala detalhada integrando dados existentes de litologia, estratigrafia e geotecnia relacionados aos estudos;"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:54
-msgid ""
-"Level 1 seismic microzonation map (the principal product of level 1 "
-"microzonation), identifying the microzones into three categories of local "
-"hazards:"
-msgstr "Mapa de microzoneamento sísmico de nível 1 (o produto principal do microzoneamento de nível 1), identificando as microzonas em três categorias de riscos locais:"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:57
-msgid "Stable zones;"
-msgstr "Zonas estáveis;"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:58
-msgid "Stable zones prone to ground amplification;"
-msgstr "Zonas estáveis propensas à amplificação do solo;"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:59
-msgid "Unstable zones."
-msgstr "Zonas instáveis."
-
-#: ../../source/site/about/case_studies/italy_rome.rst:98
-msgid ""
-"The GRASS tool v.to.rast.attribute converts contour elevation lines to "
-"raster, taking the contour shapefile, the name of the z field and the raster"
-" resolution as input;"
-msgstr "A ferramenta GRASS v.to.rast.attribute converte as linhas de contorno de elevação para raster, tomando o shapefile do contorno, o nome do campo z e a resolução do raster como entrada;"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:100
-msgid ""
-"The GRASS tool r.surf.contour generates the elevation model taking as input "
-"the rasterized temporary output from previous step and the raster "
-"resolution;"
-msgstr "A ferramenta GRASS r.surf.contour gera o modelo de elevação tomando como entrada o arquivo de saída raster temporário do passo anterior e a resolução do raster;"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:102
-msgid ""
-"The GDAL tool “gdaldem” generates the slope expressed as degrees from the "
-"elevation model;"
-msgstr "A ferramenta GDAL “gdaldem” gera a declividade expressa em graus a partir do modelo de elevação;"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:111
-msgid "The GDAL tool “gdal_polygonize” converts the 1 bit raster to polygons;"
-msgstr "A ferramenta GDAL \"gdal_polygonize\" converte o raster de 1 bit em polígonos;"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:144
-msgid ""
-"G. Baldassarre; Gallicchio, S.; Giannandrea, P. & Tropeano, M.: \"Relazione "
-"Finale Geolitologica per la microzonazione sismica di livello 1dei Comuni "
-"della Provincia di Foggia Dipartimento di Geologia e Geofisica "
-"dell'Università di Bari, 2011\""
-msgstr "G. Baldassarre; Gallicchio, S.; Giannandrea, P. & Tropeano, M.: \"Relazione Finale Geolitologica per la microzonazione sismica di livello 1dei Comuni della Provincia di Foggia Dipartimento di Geologia e Geofisica dell'Università di Bari, 2011\""
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "The Institute of Environmental Geology and Geoengineering (IGAG) of the "

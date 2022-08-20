@@ -5,14 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-08 11:00+0200\n"
-"PO-Revision-Date: 2018-06-02 13:03+0000\n"
-"Last-Translator: DiGro\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:13+0000\n"
+"Last-Translator: DiGro, 2015-2016,2018\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -41,6 +41,10 @@ msgstr "Start, voor snelle toegang tot de functionaliteit geoproccessing, de Pro
 msgid "|image1|"
 msgstr "|image1|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:732
+msgid "image1"
+msgstr "image1"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:26
 msgid "Feature: Heatmap Plugin Improvements"
 msgstr "Mogelijkheid: Verbeteringen plug-in Heatmap"
@@ -55,6 +59,10 @@ msgstr "De plug-in Heatmap is op een aantal punten verbeterd en geoptimaliseerd 
 #: ../../source/site/forusers/visualchangelog200/index.rst:32
 msgid "|image2|"
 msgstr "|image2|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:733
+msgid "image2"
+msgstr "image2"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:35
 msgid "Feature: Processing Support"
@@ -75,6 +83,10 @@ msgstr "Het project SEXTANTE is geport en nu ook in |qg| ingebouwd als brononder
 msgid "|image3|"
 msgstr "|image3|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:734
+msgid "image3"
+msgstr "image3"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:48
 msgid "Feature: Processing Modeller"
 msgstr "Mogelijkheid: Processing - Grafische modellen bouwen"
@@ -92,6 +104,10 @@ msgstr "Een prachtig onderdeel van het nieuwe framework Processing is de mogelij
 #: ../../source/site/forusers/visualchangelog200/index.rst:57
 msgid "|image4|"
 msgstr "|image4|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:735
+msgid "image4"
+msgstr "image4"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:60
 msgid "Application and Project Options"
@@ -117,6 +133,10 @@ msgstr "Met |qg| 2.0 kunt u specificeren wat |qg| moet doen bij het opstarten: `
 msgid "|image5|"
 msgstr "|image5|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:736
+msgid "image5"
+msgstr "image5"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:77
 msgid "Feature: System environment variables"
 msgstr "Mogelijkheid: Systeem omgevingsvariabelen"
@@ -136,6 +156,10 @@ msgstr "De systeem-omgevingsvariabelen kunnen nu worden bekeken en deze kunnen o
 msgid "|image6|"
 msgstr "|image6|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:737
+msgid "image6"
+msgstr "image6"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:90
 msgid "Feature: User-defined zoom scales"
 msgstr "Mogelijkheid: gebruikergedefinieerde zoomschalen"
@@ -153,6 +177,10 @@ msgstr "Een lijst van schaalniveaus kan nu worden ingesteld voor de toepassing e
 #: ../../source/site/forusers/visualchangelog200/index.rst:99
 msgid "|image7|"
 msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:738
+msgid "image7"
+msgstr "image7"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:102
 msgid "Browser"
@@ -212,6 +240,10 @@ msgstr "``Laag eigenschappen`` heeft nu een betere visuele indeling"
 msgid "|image8|"
 msgstr "|image8|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:739
+msgid "image8"
+msgstr "image8"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:125
 msgid "Data Providers"
 msgstr "Gegevensproviders"
@@ -235,6 +267,10 @@ msgstr "De raster gegevensprovider is volledig op de schop gegaan. Één van de 
 msgid "|image9|"
 msgstr "|image9|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:740
+msgid "image9"
+msgstr "image9"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:142
 msgid "Feature: Oracle Spatial support"
 msgstr "Mogelijkheid: Ondersteuning voor Oracle Spatial"
@@ -246,6 +282,10 @@ msgstr "QGIS 2.0 bevat nu ondersteuning voor Oracle Spatial."
 #: ../../source/site/forusers/visualchangelog200/index.rst:146
 msgid "|image10|"
 msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:741
+msgid "image10"
+msgstr "image10"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:149
 msgid "Feature: Web Coverage Service provider added"
@@ -276,6 +316,10 @@ msgstr "Veel rasterafbeeldingen hebben een groot aantal uitschieters die zorgen 
 msgid "|image11|"
 msgstr "|image11|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:742
+msgid "image11"
+msgstr "image11"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:168
 msgid "Feature: WMS identify format"
 msgstr "Mogelijkheid: Indeling identificatie WMS "
@@ -294,6 +338,10 @@ msgstr "Het is nu mogelijk om het gereedschap Objecten identificeren te gebruike
 msgid "|image12|"
 msgstr "|image12|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:743
+msgid "image12"
+msgstr "image12"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:181
 msgid "Feature: WMTS Support"
 msgstr "Mogelijkheid: Ondersteuning voor WMTS"
@@ -309,6 +357,10 @@ msgstr "De WMS-cliënt in QGIS ondersteunt WMTS (Web Mapping Tile Service) waarb
 #: ../../source/site/forusers/visualchangelog200/index.rst:188
 msgid "|image13|"
 msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:744
+msgid "image13"
+msgstr "image13"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:191
 msgid "General"
@@ -333,6 +385,10 @@ msgstr "Het 'Quantum' in 'Quantum GIS' had eigenlijk geen bijzondere betekenis e
 msgid "|image14|"
 msgstr "|image14|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:745
+msgid "image14"
+msgstr "image14"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:207
 msgid "Labelling"
 msgstr "Labels"
@@ -354,6 +410,10 @@ msgstr "Het nieuwe systeem voor labels is grondig verbouwd - het bevat nu veel n
 #: ../../source/site/forusers/visualchangelog200/index.rst:219
 msgid "|image15|"
 msgstr "|image15|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:746
+msgid "image15"
+msgstr "image15"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:222
 msgid "Feature: Expression based label properties"
@@ -391,6 +451,10 @@ msgstr "Grootte van buffer"
 #: ../../source/site/forusers/visualchangelog200/index.rst:237
 msgid "|image16|"
 msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:747
+msgid "image16"
+msgstr "image16"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:240
 msgid "Feature: Older labelling engine deprecated"
@@ -438,6 +502,10 @@ msgstr "**OPMERKING**: Er is een *grote kans* dat de oudere manier van labels sn
 #: ../../source/site/forusers/visualchangelog200/index.rst:270
 msgid "|image17|"
 msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:748
+msgid "image17"
+msgstr "image17"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:273
 msgid "Layer Legend"
@@ -487,6 +555,10 @@ msgstr "Voor Rasterlagen gemaakte voorbeeldpictogrammen kunnen nu uitgezet worde
 msgid "|image18|"
 msgstr "|image18|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:749
+msgid "image18"
+msgstr "image18"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:293
 msgid "Feature: Duplicate existing map layer"
 msgstr "Mogelijkheid: Bestaande kaartlaag dupliceren"
@@ -501,6 +573,10 @@ msgstr "Geselecteerde vector- en rasterlaag in de kaartlegenda dupliceren. Verge
 #: ../../source/site/forusers/visualchangelog200/index.rst:299
 msgid "|image19|"
 msgstr "|image19|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:750
+msgid "image19"
+msgstr "image19"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:302
 msgid "Feature: Multi-layer toggle editing commands"
@@ -518,6 +594,10 @@ msgstr "Een gebruiker kan nu meerdere lagen selecteren in de legenda en, als er 
 msgid "|image20|"
 msgstr "|image20|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:751
+msgid "image20"
+msgstr "image20"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:312
 msgid "Map Composer"
 msgstr "Printvormgeving"
@@ -534,6 +614,10 @@ msgstr "U kunt nu HTML-elementen op uw kaart plaatsen."
 msgid "|image21|"
 msgstr "|image21|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:752
+msgid "image21"
+msgstr "image21"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:322
 msgid "Feature: Multipage support"
 msgstr "Mogelijkheid: Ondersteuning voor meerdere pagina's"
@@ -545,6 +629,10 @@ msgstr "Één venster van Printvormgeving kan nu meer dan één pagina bevatten.
 #: ../../source/site/forusers/visualchangelog200/index.rst:326
 msgid "|image22|"
 msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:753
+msgid "image22"
+msgstr "image22"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:329
 msgid "Feature: Expressions in composer labels"
@@ -575,6 +663,10 @@ msgstr "Als Atlas-generatie is ingeschakeld zullen de waarden van attributen van
 msgid "|image23|"
 msgstr "|image23|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:754
+msgid "image23"
+msgstr "image23"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:358
 msgid "Feature: Auto snap lines"
 msgstr "Mogelijkheid: Automatisch snappen aan lijnen"
@@ -589,6 +681,10 @@ msgstr "Kaartonderdelen goed uitgelijnd te krijgen is essentieel voor het afdruk
 #: ../../source/site/forusers/visualchangelog200/index.rst:364
 msgid "|image24|"
 msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:755
+msgid "image24"
+msgstr "image24"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:367
 msgid "Feature: Manual Snap Lines"
@@ -606,6 +702,10 @@ msgstr "Soms is het nodig om objecten op een bepaalde afstand uit te lijnen in d
 msgid "|image25|"
 msgstr "|image25|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:756
+msgid "image25"
+msgstr "image25"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:377
 msgid "Feature: Map series generation"
 msgstr "Mogelijkheid: Serie kaarten genereren"
@@ -621,6 +721,10 @@ msgstr "Ooit een serie kaarten in één keer moeten genereren? Natuurlijk heeft 
 #: ../../source/site/forusers/visualchangelog200/index.rst:384
 msgid "|image26|"
 msgstr "|image26|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:757
+msgid "image26"
+msgstr "image26"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:387
 msgid "Feature: Automatic overview support in map frame"
@@ -639,6 +743,10 @@ msgstr "Behoefte om te laten zien waar het getoonde gebied van de hoofdkaart zic
 #: ../../source/site/forusers/visualchangelog200/index.rst:396
 msgid "|image27|"
 msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:758
+msgid "image27"
+msgstr "image27"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:399
 msgid "Feature: Layer blending"
@@ -664,6 +772,10 @@ msgstr "Mengen kan worden gebruikt in de normale kaartweergave, maar ook in Prin
 msgid "|image28|"
 msgstr "|image28|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:759
+msgid "image28"
+msgstr "image28"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:415
 msgid "Feature: HTML Label support"
 msgstr "Mogelijkheid: Ondersteuning voor HTML in labels"
@@ -678,6 +790,10 @@ msgstr "HTML-ondersteuning is toegevoegd voor labels in Printvormgeving voor nog
 #: ../../source/site/forusers/visualchangelog200/index.rst:421
 msgid "|image29|"
 msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:760
+msgid "image29"
+msgstr "image29"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:424
 msgid "Feature: Multicolumn composer legend"
@@ -698,6 +814,10 @@ msgstr "De legenda in de Printvormgeving ondersteunt nu het gebruik van een lege
 #: ../../source/site/forusers/visualchangelog200/index.rst:436
 msgid "|image30|"
 msgstr "|image30|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:761
+msgid "image30"
+msgstr "image30"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:439
 msgid "Feature: Updates to map composer management"
@@ -737,6 +857,10 @@ msgstr "Alle beheersacties voor printvormgeving zijn direct beschikbaar vanuit d
 msgid "|image31|"
 msgstr "|image31|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:762
+msgid "image31"
+msgstr "image31"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:455
 msgid "Plugins"
 msgstr "Plug-ins"
@@ -759,6 +883,10 @@ msgstr "In |qg| 1.x was het beheren van plug-ins enigszins verwarrend door het g
 msgid "|image32|"
 msgstr "|image32|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:763
+msgid "image32"
+msgstr "image32"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:471
 msgid "Programmability"
 msgstr "Programmeerbaarheid"
@@ -779,6 +907,10 @@ msgstr "De nieuwe console  voor Python geeft u nog meer controle. Deze heeft nu 
 msgid "|image33|"
 msgstr "|image33|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:764
+msgid "image33"
+msgstr "image33"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:484
 msgid "Feature: Even more expression functions"
 msgstr "Mogelijkheid: Nog meer functies voor expressies"
@@ -796,6 +928,10 @@ msgstr "De expressie engine wordt op steeds meer plekken in |qg| beschikbaar, wa
 msgid "|image34|"
 msgstr "|image34|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:765
+msgid "image34"
+msgstr "image34"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:495
 msgid "Feature: Custom expression functions"
 msgstr "Mogelijkheid: Aangepaste functies voor expressies"
@@ -809,6 +945,10 @@ msgstr "Wanneer de expressie engine niet die functie heeft die u nodig hebt, kan
 #: ../../source/site/forusers/visualchangelog200/index.rst:501
 msgid "|image35|"
 msgstr "|image35|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:766
+msgid "image35"
+msgstr "image35"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:504
 msgid "Feature: New cleaner Python API"
@@ -834,6 +974,10 @@ msgstr "De manier waarop objecten uit een laag worden gelezen is ook verbeterd, 
 msgid "|image36|"
 msgstr "|image36|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:767
+msgid "image36"
+msgstr "image36"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:530
 msgid "Feature: Code compatibility with version 1.x releases"
 msgstr "Feature: Compatibiliteit code met uitgaven versie 1.x"
@@ -851,6 +995,10 @@ msgstr "Omdat dit een major release betreft, is de API niet volledig compatibel 
 #: ../../source/site/forusers/visualchangelog200/index.rst:539
 msgid "|image37|"
 msgstr "|image37|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:768
+msgid "image37"
+msgstr "image37"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:542
 msgid "Feature: Python project macros"
@@ -883,6 +1031,10 @@ msgstr "Of de macro's moeten worden uitgevoerd kan worden ingesteld via de optie
 msgid "|image38|"
 msgstr "|image38|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:769
+msgid "image38"
+msgstr "image38"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:556
 msgid "Symbology"
 msgstr "Symbologie"
@@ -902,6 +1054,10 @@ msgstr "Met de nieuwe data-gedefinieerde eigenschappen, is het mogelijk om symbo
 msgid "|image39|"
 msgstr "|image39|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:770
+msgid "image39"
+msgstr "image39"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:568
 msgid "Feature: Improved symbol layer management"
 msgstr "Mogelijkheid: Beheer symboollagen verbeterd"
@@ -915,6 +1071,10 @@ msgstr "Het nieuwe overzicht van symboollagen gebruikt een duidelijke boomstruct
 #: ../../source/site/forusers/visualchangelog200/index.rst:573
 msgid "|image40|"
 msgstr "|image40|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:771
+msgid "image40"
+msgstr "image40"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:576
 msgid "Feature: Support for transparency in colour definitions"
@@ -932,6 +1092,10 @@ msgstr "Op de meeste plaatsen in |qg| waar je kleuren kunt kiezen kun je nu ook 
 msgid "|image41|"
 msgstr "|image41|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:772
+msgid "image41"
+msgstr "image41"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:586
 msgid "Feature: Color Control for Raster Layers"
 msgstr "Mogelijkheid: Kleurbeheer voor rasterlagen"
@@ -947,6 +1111,10 @@ msgstr "|qg| 2.0 geeft u meer controle over hoe de rasterlagen eruit komen te zi
 #: ../../source/site/forusers/visualchangelog200/index.rst:593
 msgid "|image42|"
 msgstr "|image42|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:773
+msgid "image42"
+msgstr "image42"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:596
 msgid "Feature: Copy symbology between layers"
@@ -964,6 +1132,10 @@ msgstr "Het is nu erg simpel geworden om de symbologie van de ene naar een ander
 msgid "|image43|"
 msgstr "|image43|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:774
+msgid "image43"
+msgstr "image43"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:607
 msgid "Feature: Save styles in your database"
 msgstr "Mogelijkheid: Stijl in uw database opslaan"
@@ -978,6 +1150,10 @@ msgstr "Als u vectorgegevens opslaat in een database, dan kan nu ook de stijldef
 #: ../../source/site/forusers/visualchangelog200/index.rst:613
 msgid "|image44|"
 msgstr "|image44|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:775
+msgid "image44"
+msgstr "image44"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:616
 msgid "Feature: Colour ramp support"
@@ -996,6 +1172,10 @@ msgstr "Kleurovergangen zijn nu beschikbaar op veel plaatsen onder |qg| instelli
 msgid "|image45|"
 msgstr "|image45|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:776
+msgid "image45"
+msgstr "image45"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:628
 msgid "Feature: Set custom default styles for all layer types"
 msgstr "Mogelijkheid: Standaard stijlen instellen voor alle typen lagen"
@@ -1011,6 +1191,10 @@ msgstr "Nu laat QGIS u beheren hoe nieuwe lagen zullen worden getekend als zij g
 #: ../../source/site/forusers/visualchangelog200/index.rst:635
 msgid "|image46|"
 msgstr "|image46|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:777
+msgid "image46"
+msgstr "image46"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:638
 msgid "User Interface"
@@ -1031,6 +1215,10 @@ msgstr "We hebben ons thema voor pictogrammen bijgewerkt om het thema 'GIS' te g
 msgid "|image47|"
 msgstr "|image47|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:778
+msgid "image47"
+msgstr "image47"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:650
 msgid "Feature: Side tabs, collapsable groups"
 msgstr "Mogelijkheid: Zij-tabs, in te klappen groepen"
@@ -1045,6 +1233,10 @@ msgstr "We hebben de lay-out van tabbladen gestandaardiseerd en de inklapbare gr
 #: ../../source/site/forusers/visualchangelog200/index.rst:656
 msgid "|image48|"
 msgstr "|image48|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:779
+msgid "image48"
+msgstr "image48"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:659
 msgid "Feature: Soft notifications"
@@ -1063,6 +1255,10 @@ msgstr "In veel gevallen willen we een mededeling doen, maar we willen niet dat 
 #: ../../source/site/forusers/visualchangelog200/index.rst:668
 msgid "|image49|"
 msgstr "|image49|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:780
+msgid "image49"
+msgstr "image49"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:671
 msgid "Feature: Application custom font and Qt stylesheet"
@@ -1087,6 +1283,10 @@ msgstr "Toegang tot het gegenereerde QGIS GUI-toepassing stylesheet voor het hui
 msgid "|image50|"
 msgstr "|image50|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:781
+msgid "image50"
+msgstr "image50"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:689
 msgid "Feature: Live color chooser dialogs and buttons"
 msgstr "Mogelijkheid: Live dialoogvensters voor kleurkeuze en knoppen"
@@ -1106,6 +1306,10 @@ msgstr "Elke knop voor het kiezen van kleuren van de toepassing is bijgewerkt zo
 msgid "|image51|"
 msgstr "|image51|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:782
+msgid "image51"
+msgstr "image51"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:703
 msgid "Feature: SVG Annotations"
 msgstr "Mogelijkheid: SVG-annotaties"
@@ -1119,6 +1323,10 @@ msgstr "Met |qg| 2.0 kunt u nu SVG-labels toevoegen aan de kaart - ofwel plaatsg
 #: ../../source/site/forusers/visualchangelog200/index.rst:709
 msgid "|image52|"
 msgstr "|image52|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:783
+msgid "image52"
+msgstr "image52"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:712
 msgid "Feature: Drag and drop form builder"
@@ -1136,6 +1344,10 @@ msgstr "QGIS 2.0 ondersteunt ene fantastisch nieuw systeem voor het maken van fo
 msgid "|image53|"
 msgstr "|image53|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:784
+msgid "image53"
+msgstr "image53"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:722
 msgid "Feature: Default action tool"
 msgstr "Mogelijkheid: Gereedschap Standaardactie"
@@ -1151,6 +1363,22 @@ msgstr "Als u een gebruiker bent van acties op vectorlagen (kleine taken die kun
 #: ../../source/site/forusers/visualchangelog200/index.rst:729
 msgid "|image54|"
 msgstr "|image54|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:785
+msgid "image54"
+msgstr "image54"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:731
+msgid "image0"
+msgstr "image0"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "|image0|"
 #~ msgstr ""

@@ -5,15 +5,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-23 19:28+0000\n"
-"Last-Translator: Murat ENEZ <muratenez@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Murat ENEZ <muratenez@gmail.com>, 2017\n"
 "Language-Team: Turkish (http://www.transifex.com/qgis/qgis-website/language/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: tr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/site/about/case_studies/india_assam.rst:3
+msgid ""
+"QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
+"Assam, India Sonitpur District)"
+msgstr "Kaplanları izleme amaçlı QGIS (Nameri Kaplan Reserve, Assam, Hindistan Sonitpur Bölgesi'ndeki kamera tuzakları kullanılarak)"
 
 #: ../../source/site/about/case_studies/india_assam.rst:5
 msgid ""
@@ -25,6 +32,9 @@ msgid ""
 "west and River Bor-Dikorai in the east. To the north of the Nameri lies the "
 "Pakke Tiger Reserve of Arunachal Pradesh."
 msgstr "Assam'ın 3 kaplan rezervinden biri olan Nameri Kaplan Korunağı (NTR), Doğu Himalayalar'ın eteklerinde Assam'ın Sonitpur Bölgesi'nin kuzey kesiminde yer almaktadır. 344 km²'lik bir alan üzerine yayılmış olan NTR, zengin bitki örtüsü ve faunaya sahiptir. \"Nameri Milli Parkı\" nı oluşturan rezervin çekirdek alanı, batıda Jia-Bhoreli Nehri ve doğuda Bor-Dikorai Nehri tarafından sınırlandırılmıştır. Nameri'nin kuzeyinde, Arunaçal Pradesh'in Pakke Tiger Rezervi bulunmaktadır."
+
+msgid "Area of Tiger Reserve"
+msgstr ""
 
 #: ../../source/site/about/case_studies/india_assam.rst:12
 msgid ""
@@ -51,8 +61,30 @@ msgid ""
 msgstr "2011 yılından başlayarak, Hindistan Ulusal Kaplan Koruma Kurumu (NTCA), kaplanların kamera tuzakları kullanılarak izlenmesi için ülkenin kaplan rezervlerinin hepsini zorunlu hale getirdi. Bu yeni protokol uyarınca, 100 m²'lik kaplan rezervi için 25 çift kamera kurulacak ve örnekleme süresi 40-60 gün olacak. Bu kaplan izleme protokolü, CBS'ye büyük ölçüde güveniyor."
 
 #: ../../source/site/about/case_studies/india_assam.rst:24
+msgid "Picture of a male Tiger"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:24
 msgid "Picture of a male tiger that was captured in one of the camera traps"
 msgstr "Kamera kapanlarından birinde yakalanan bir erkek kaplan resmi"
+
+#: ../../source/site/about/case_studies/india_assam.rst:26
+msgid ""
+"During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
+"using QGIS. To begin with, we digitized the NTR boundary in QGIS and saved "
+"it as polygon. This boundary polygon was exported to GPS for navigation "
+"purpose during the field surveys. We conducted an extensive sign survey in "
+"NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
+"GPS coordinates of tiger signs as well as suitable locations for camera "
+"traps were recorded. After completion of the survey, the data was "
+"transferred to QGIS using GPS tools for further processing and for "
+"finalizing camera trap locations. A shape file containing the tiger signs "
+"and probable camera trap locations was prepared."
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:31
+msgid "Camera trap locations"
+msgstr ""
 
 #: ../../source/site/about/case_studies/india_assam.rst:31
 msgid ""
@@ -84,47 +116,16 @@ msgid ""
 msgstr "Sonra mmqgis eklentisini kullanarak 4 km² grid katmanı hazırladık. NTR'de kamera tuzaklarının dağılımını görselleştirmek için işaret araştırmasının sonuçlarını içeren şekil dosyası 4'lü ızgarada örtülmüştür. Vektör analiz araçları altındaki mesafe matrisi seçeneği, kameralar arası mesafe tespiti için oldukça kullanışlıdır. İzleme protokolüne uymak için 1,8 km'den az mesafe bulunan kamera yerleri kaldırıldı. Rezerv alanının tamamı tek seferde izlenebilecek yeterli kamera bulunmaması nedeniyle, rezerv alanını her biri 100 km²'lik 2 blok halinde bölmeye karar verdik. Bu blokların sınırları dijitalleştirildi ve her iki blok için de ayrı şekil dosyaları olarak kaydedildi. RGB kompozisyon eklentisi kullanılarak, rezervin sahte renkli bir bileşimi oluşturuldu ve kaplan tarafından kullanılan yaşam alanı tiplerini değerlendirmek için işaretli anket şekil dosyası bindirildi. Çalışma süresi boyunca, kamera tuzakları saha personeli tarafından yoğun bir şekilde izlenmelidir. İzleme sürecinin düzgün çalışmasını sağlamak için, geometrik araçların Voronoi çokgeni özelliğini ve mmqgis eklentisinin göbek mesafesini lojistik gereksinimlerin planlanması için kullandık. Kamera tuzaklarının coğrafi koordinatları, kaplan yoğunluğunu ve diğer türlerin doluluk modellemesini tahmin etmek için gereklidir. Bu koordinat ayrıntıları, vektör Geometri araçlarının \"Dışa aktarma / geometri sütunları ekle\" özelliğini kullanarak kamera tuzağı şekil dosyalarından kolayca oluşturuldu."
 
 #: ../../source/site/about/case_studies/india_assam.rst:41
+msgid "Survey Grid"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:41
 msgid "Survey grids with tiger presence"
 msgstr "Kaplan varlığı ile anket ızgaraları"
 
 #: ../../source/site/about/case_studies/india_assam.rst:44
 msgid "Conclusion"
 msgstr "Sonuç"
-
-#: ../../source/site/about/case_studies/india_assam.rst:50
-msgid "Author"
-msgstr "Yazar"
-
-#: ../../source/site/about/case_studies/india_assam.rst:57
-msgid "Rajendra Garawad"
-msgstr "Rajendra Garawad"
-
-#: ../../source/site/about/case_studies/india_assam.rst:59
-msgid ""
-"This article was contributed by Rajendra G. Garawad in March 2013. He is the"
-" Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
-"Degrees in Forestry Science and Conservation & Land Management."
-msgstr "Bu makale, Mart 2013'te Rajendra G. Garawad tarafından desteklenmiştir. Namlus Tiger Reserve, Assam, Hindistan Alan Direktörüdür. Ormancılık Bilimi ve Koruma ve Arazi Yönetimi Yüksek Lisans derecesine sahiptir."
-
-#: ../../source/site/about/case_studies/india_assam.rst:3
-msgid ""
-"QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
-"Assam, India Sonitpur District)"
-msgstr "Kaplanları izleme amaçlı QGIS (Nameri Kaplan Reserve, Assam, Hindistan Sonitpur Bölgesi'ndeki kamera tuzakları kullanılarak)"
-
-#: ../../source/site/about/case_studies/india_assam.rst:26
-msgid ""
-"During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
-"using QGIS. To begin with, we digitized the NTR boundary in QGIS and saved "
-"it as polygon. This boundary polygon was exported to GPS for navigation "
-"purpose during the field surveys. We conducted an extensive sign survey in "
-"NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
-"GPS coordinates of tiger signs as well as suitable locations for camera "
-"traps were recorded. After completion of the survey, the data was "
-"transferred to QGIS using GPS tools for further processing and for "
-"finalizing camera trap locations. A shape file containing the tiger signs "
-"and probable camera trap locations was prepared."
-msgstr ""
 
 #: ../../source/site/about/case_studies/india_assam.rst:46
 msgid ""
@@ -141,6 +142,29 @@ msgid ""
 "software. We believe that QGIS has great potential for empowering "
 "individuals/institutions/ involved in conserving endangered wildlife in the "
 "developing world by offering GIS technology at little or no cost."
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:50
+msgid "Author"
+msgstr "Yazar"
+
+#: ../../source/site/about/case_studies/india_assam.rst:57
+msgid "Rajendra Garawad"
+msgstr "Rajendra Garawad"
+
+#: ../../source/site/about/case_studies/india_assam.rst:59
+msgid ""
+"This article was contributed by Rajendra G. Garawad in March 2013. He is the"
+" Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
+"Degrees in Forestry Science and Conservation & Land Management."
+msgstr "Bu makale, Mart 2013'te Rajendra G. Garawad tarafından desteklenmiştir. Namlus Tiger Reserve, Assam, Hindistan Alan Direktörüdür. Ormancılık Bilimi ve Koruma ve Arazi Yönetimi Yüksek Lisans derecesine sahiptir."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid "QGIS for monitoring tigers"

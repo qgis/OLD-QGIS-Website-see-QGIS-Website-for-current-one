@@ -8,21 +8,54 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-07 15:40+0200\n"
-"PO-Revision-Date: 2017-09-20 09:29+0000\n"
-"Last-Translator: Marco Grisolia <marco.grisolia5@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-08-07 14:36+0000\n"
+"Last-Translator: Marco Grisolia <marco.grisolia5@gmail.com>, 2016\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:3
 msgid ""
 "Using open source tools for characterization of a landscape. The LecosS "
 "plugin"
 msgstr "L'uso di strumenti open source per la caratterizzazione di un paesaggio. Il plugin LecosS"
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:5
+msgid ""
+"This case study results from the final draft of the Graduate Geographic "
+"Information Systems taught by GeoPoint. We proposed to study a landscape "
+"using Landscape Ecology plugin (LecoS) in QGIS 2.01 Dufour. The study was "
+"conduted in a region of central Portugal, Municipality of Coimbra, with an "
+"total area of 31940ha and it has geographic coordinates 40°12'11.84\" North,"
+" 8°24'37.15\" West. Because the new administrative reorganization this "
+"municipality are divided into 18 parishes, which are mostly urban areas "
+"(Figure 1)."
+msgstr "I risultati di questo caso studio riguardano il progetto definitivo del corso di laurea sui sistemi di informazione geografica insegnata da GeoPoint. Abbiamo proposto di studiare un paesaggio usando il plugin Landscape Ecology (LecoS) in Qgis 2,01 Dufour. Lo studio è stato condotto in una regione del Portogallo centrale, Comune di Coimbra, con una superficie totale di 31940ha e ha coordinate geografiche 40 ° 12 '11.84 \"Nord, 8 ° 24 '37.15\" Ovest. Perché la nuova riorganizzazione amministrativa comunale si sono suddivisi in 18 parrocchie, che sono per lo più nelle aree urbane (Figura 1)."
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:12
+msgid "Geographic location of the municipality of Coimbra."
+msgstr "Localizzazione geografica della municipalità di Coimbra."
+
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:14
+msgid ""
+"The characterization of a landscape is conducted using quantitative indices "
+"designed by landscape metrics. These indices are then used to describe the "
+"structural characteristics of landscape, to document the change and their "
+"relationship with the occurrence of several species or group of species "
+"(Turner et al, 2001;. Olsen et al, 2007;. Fidalgo et al. , 2009). The number"
+" of metrics is extremely large and can be calculated at the landscape level,"
+" class and stain (Turner et al, 2001;. Fidalgo et al, 2009.). Metrics can be"
+" calculated from the Corine Land Cover, Land use (COS 90 and COS2006) or "
+"maps of Land cover produced by us. According to Martin Jung (2012), the "
+"Landscape Ecology Stistics (Lecos) is a module of QGIS used to calculate "
+"landscape metrics in raster layers. The result can be available in CSV "
+"format."
+msgstr "La caratterizzazione del paesaggio è condotto utilizzando gli indici quantitativi di metrica del paesaggio. Tali indici sono quindi utilizzati per descrivere le caratteristiche strutturali del paesaggio, per documentare il cambiamento e la loro relazione con l'insorgenza di diverse specie o gruppo di specie (Turner et al, 2001 ;.  Olsen et al, 2007 ;.  Fidalgo et al. , 2009).  Il numero di parametri è estremamente ampia e può essere calcolato a livello del paesaggio, classe e macchia (Turner et al, 2001 ;.  Fidalgo et al, 2009. ).  Le metriche possono essere calcolate dal Corine Land Cover, uso del suolo (COS 90 e COS2006) o mappe di copertura del suolo prodotta da noi. Secondo Martin Jung (2012), Landscape Ecology Stistics (Lecos) è un modulo di Qgis utilizzato per calcolare le metriche del paesaggio nei livelli raster. Il risultato può essere disponibile in formato CSV."
 
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:17
 msgid "Methods"
@@ -85,6 +118,18 @@ msgstr "Dal 1990 al 2006 la diversità è aumentata, ma è noto che questo risul
 msgid "Conclusion"
 msgstr "In conclusione"
 
+#: ../../source/site/about/case_studies/portugal_coimbra.rst:47
+msgid ""
+"It was possible to determine the landscape metrics using the LecoS plugin "
+"noting that the study area presents problems of fragmentation due to the "
+"high degree of human disturbance. QGIS proved to be quite intuitive and very"
+" practical in the calculation of landscape metrics in the absence of any "
+"constraint. It is indeed a robust and viable compared to proprietary "
+"software solution. In the future we intend to apply this method to areas "
+"that have problems with invasive species to study their behavior in the "
+"landscape."
+msgstr "E 'stato possibile determinare le metriche di paesaggio utilizzando il plugin LecoS, notando che l'area di studio presenta problemi di frammentazione a causa l'elevato grado di disturbo antropico. Qgis ha dimostrato di essere molto intuitivo e molto pratico nel calcolo delle metriche di paesaggio in assenza di alcun vincolo. È davvero robusto e semplice rispetto alla soluzione software proprietario. In futuro abbiamo intenzione di applicare questo metodo alle aree che hanno problemi con le specie invasive per studiare il loro comportamento nel paesaggio."
+
 #: ../../source/site/about/case_studies/portugal_coimbra.rst:50
 msgid "References"
 msgstr "Riferimenti"
@@ -140,49 +185,13 @@ msgid ""
 "Systems by Geopoint. Currently collaborates with Grupo Portucel Soporcel."
 msgstr "Questo articolo è stato scritto nel luglio 2014 da André Duarte. Ha una laurea in ingegneria in risorse forestali e Maestro delle Risorse Forestali della Escola Superior Agraria de Coimbra. Laurea in Sistemi Informativi Territoriali da GeoPoint. Attualmente collabora con il Grupo Portucel Soporcel."
 
-#: ../../source/site/about/case_studies/portugal_coimbra.rst:12
-msgid "Geographic location of the municipality of Coimbra."
-msgstr "Localizzazione geografica della municipalità di Coimbra."
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/portugal_coimbra.rst:5
-msgid ""
-"This case study results from the final draft of the Graduate Geographic "
-"Information Systems taught by GeoPoint. We proposed to study a landscape "
-"using Landscape Ecology plugin (LecoS) in QGIS 2.01 Dufour. The study was "
-"conduted in a region of central Portugal, Municipality of Coimbra, with an "
-"total area of 31940ha and it has geographic coordinates 40°12'11.84\" North,"
-" 8°24'37.15\" West. Because the new administrative reorganization this "
-"municipality are divided into 18 parishes, which are mostly urban areas "
-"(Figure 1)."
-msgstr "I risultati di questo caso studio riguardano il progetto definitivo del corso di laurea sui sistemi di informazione geografica insegnata da GeoPoint. Abbiamo proposto di studiare un paesaggio usando il plugin Landscape Ecology (LecoS) in Qgis 2,01 Dufour. Lo studio è stato condotto in una regione del Portogallo centrale, Comune di Coimbra, con una superficie totale di 31940ha e ha coordinate geografiche 40 ° 12 '11.84 \"Nord, 8 ° 24 '37.15\" Ovest. Perché la nuova riorganizzazione amministrativa comunale si sono suddivisi in 18 parrocchie, che sono per lo più nelle aree urbane (Figura 1)."
-
-#: ../../source/site/about/case_studies/portugal_coimbra.rst:14
-msgid ""
-"The characterization of a landscape is conducted using quantitative indices "
-"designed by landscape metrics. These indices are then used to describe the "
-"structural characteristics of landscape, to document the change and their "
-"relationship with the occurrence of several species or group of species "
-"(Turner et al, 2001;. Olsen et al, 2007;. Fidalgo et al. , 2009). The number"
-" of metrics is extremely large and can be calculated at the landscape level,"
-" class and stain (Turner et al, 2001;. Fidalgo et al, 2009.). Metrics can be"
-" calculated from the Corine Land Cover, Land use (COS 90 and COS2006) or "
-"maps of Land cover produced by us. According to Martin Jung (2012), the "
-"Landscape Ecology Stistics (Lecos) is a module of QGIS used to calculate "
-"landscape metrics in raster layers. The result can be available in CSV "
-"format."
-msgstr "La caratterizzazione del paesaggio è condotto utilizzando gli indici quantitativi di metrica del paesaggio. Tali indici sono quindi utilizzati per descrivere le caratteristiche strutturali del paesaggio, per documentare il cambiamento e la loro relazione con l'insorgenza di diverse specie o gruppo di specie (Turner et al, 2001 ;.  Olsen et al, 2007 ;.  Fidalgo et al. , 2009).  Il numero di parametri è estremamente ampia e può essere calcolato a livello del paesaggio, classe e macchia (Turner et al, 2001 ;.  Fidalgo et al, 2009. ).  Le metriche possono essere calcolate dal Corine Land Cover, uso del suolo (COS 90 e COS2006) o mappe di copertura del suolo prodotta da noi. Secondo Martin Jung (2012), Landscape Ecology Stistics (Lecos) è un modulo di Qgis utilizzato per calcolare le metriche del paesaggio nei livelli raster. Il risultato può essere disponibile in formato CSV."
-
-#: ../../source/site/about/case_studies/portugal_coimbra.rst:47
-msgid ""
-"It was possible to determine the landscape metrics using the LecoS plugin "
-"noting that the study area presents problems of fragmentation due to the "
-"high degree of human disturbance. QGIS proved to be quite intuitive and very"
-" practical in the calculation of landscape metrics in the absence of any "
-"constraint. It is indeed a robust and viable compared to proprietary "
-"software solution. In the future we intend to apply this method to areas "
-"that have problems with invasive species to study their behavior in the "
-"landscape."
-msgstr "E 'stato possibile determinare le metriche di paesaggio utilizzando il plugin LecoS, notando che l'area di studio presenta problemi di frammentazione a causa l'elevato grado di disturbo antropico. Qgis ha dimostrato di essere molto intuitivo e molto pratico nel calcolo delle metriche di paesaggio in assenza di alcun vincolo. È davvero robusto e semplice rispetto alla soluzione software proprietario. In futuro abbiamo intenzione di applicare questo metodo alle aree che hanno problemi con le specie invasive per studiare il loro comportamento nel paesaggio."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "The characterization of a landscape is conducted using quantitative indices "

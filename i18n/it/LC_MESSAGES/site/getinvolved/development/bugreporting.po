@@ -5,20 +5,21 @@
 # Translators:
 # Marco Grisolia <marco.grisolia5@gmail.com>, 2016-2017
 # Pippo Peppo <abc@gmx.ch>, 2018
+# Simone Falceri, 2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 19:50+0200\n"
-"PO-Revision-Date: 2019-09-05 17:56+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2016-03-05 14:48+0000\n"
+"Last-Translator: Simone Falceri, 2021\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:5
 msgid "Bugs, Features and Issues"
@@ -34,7 +35,7 @@ msgstr "QGIS è un progetto largamente mantenuto da volontari, ed è il lavoro d
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:13
 msgid "Where to report?"
-msgstr ""
+msgstr "Dove segnalare?"
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:15
 msgid ""
@@ -42,101 +43,118 @@ msgid ""
 "requests or bugs) can be reported, managed and discussed. Depending on the "
 "area you encountered the issue, the table below indicates the right "
 "repository to report it:"
-msgstr ""
+msgstr "Ogni parte del progetto QGIS ha un luogo dedicato dove i problemi (richieste di funzionalità o bug) possono essere segnalati, gestiti e discussi. A seconda dell'area in cui hai riscontrato il problema, la tabella seguente indica il repository corretto per segnalarlo:"
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:20
 msgid "Place you found the bug or request a feature for"
-msgstr ""
+msgstr "Posto in cui hai trovato il bug o richiedi una funzionalità per"
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:20
 msgid "Place to report the issue"
-msgstr ""
+msgstr "Posto per segnalare il problema"
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:22
 msgid "Applications (QGIS Desktop, QGIS Server)"
-msgstr ""
+msgstr "Applicazioni (QGIS Desktop, QGIS Server)"
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:22
+#: ../../source/site/getinvolved/development/bugreporting.rst:25
 msgid "https://github.com/qgis/QGIS/issues"
-msgstr ""
+msgstr "https://github.com/qgis/QGIS/issues"
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:23
 msgid "QGIS Website (https://qgis.org)"
-msgstr ""
+msgstr "QGIS Sito web (https://qgis.org)"
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:23
 msgid "https://github.com/qgis/QGIS-Website/issues"
-msgstr ""
+msgstr "https://github.com/qgis/QGIS-Website/issues"
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:24
 msgid "QGIS Documentation (https://docs.qgis.org)"
-msgstr ""
+msgstr "QGIS Documentazione (https://docs.qgis.org)"
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:24
 msgid "https://github.com/qgis/QGIS-Documentation/issues"
-msgstr ""
+msgstr "https://github.com/qgis/QGIS-Documentation/issues"
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:25
+msgid "C++ API (https://qgis.org/api)"
+msgstr "C++ API (https://qgis.org/api)"
+
+#: ../../source/site/getinvolved/development/bugreporting.rst:26
+msgid "PyQGIS API  (https://qgis.org/pyqgis)"
+msgstr "PyQGIS API  (https://qgis.org/pyqgis)"
+
+#: ../../source/site/getinvolved/development/bugreporting.rst:26
+msgid ""
+"https://github.com/qgis/QGIS/issues (for contents) and "
+"https://github.com/qgis/pyqgis/issues (for formatting)"
+msgstr "https://github.com/qgis/QGIS/issues (per i contenuti) e https://github.com/qgis/pyqgis/issues (per la formattazione)"
+
+#: ../../source/site/getinvolved/development/bugreporting.rst:28
 msgid "External plugins"
-msgstr ""
+msgstr "Plugin esterni"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:25
+#: ../../source/site/getinvolved/development/bugreporting.rst:28
 msgid "The author repository set in the plugin description"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/bugreporting.rst:29
-msgid "For help and questions, please contact the :ref:`QGIS-mailinglists`."
-msgstr ""
+msgstr "Il repository dell'autore impostato nella descrizione del plugin"
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:32
+msgid "For help and questions, please contact the :ref:`QGIS-mailinglists`."
+msgstr "Per assistenza e domande, contattare :ref:`QGIS-mailinglists`."
+
+#: ../../source/site/getinvolved/development/bugreporting.rst:35
 msgid "Reporting issues on QGIS applications"
 msgstr "Segnalare problemi su applicazioni QGIS"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:34
+#: ../../source/site/getinvolved/development/bugreporting.rst:37
 msgid ""
 "QGIS applications (QGIS Desktop and QGIS Server) issues are available in "
 "`Github <https://github.com/qgis/QGIS/issues>`_.  In order to submit or "
 "comment a report, you need to register and login."
-msgstr ""
+msgstr "I problemi delle applicazioni QGIS (QGIS Desktop e QGIS Server) sono disponibili in `Github <https://github.com/qgis/QGIS/issues>`_. Per inviare o commentare una segnalazione è necessario registrarsi ed effettuare il login."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:40
+#: ../../source/site/getinvolved/development/bugreporting.rst:43
 msgid "Before reporting an issue"
 msgstr "Prima di riportare un problema"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:42
+#: ../../source/site/getinvolved/development/bugreporting.rst:45
 msgid ""
-"Before filing an issue, review the currently open issues to make sure that "
-"you aren't creating a duplicate. If you have additional information on an "
-"issue, you can add it to the existing ticket. Third party plugins might also"
-" cause problems. If you have installed any, you should also verify that the "
-"problem is still reproducible without them. Please don't report multiple "
-"unrelated bugs in a single bug report."
-msgstr "Prima di segnalare un problema, verifica che non ci siano segnalazioni simili in modo da non creare un duplicato. Se hai informazioni aggiuntive sul problema, le puoi aggiungere al ticket. Anche i plugin di terze parti possono avere dei problemi. Se ne hai installato uno, verifica che il problema che vuoi segnalare sia riproducibile anche senza il plugin. Cerca di non riportare bug diversi nello stesso ticket, piuttosto crea tanti ticket diversi."
+"Before filing an issue, verify that you are running the currently supported "
+"versions |ltrrelease| or |release| or the development version |devversion| "
+"(see also :ref:`QGIS-release-schedule`) and review the currently open issues"
+" to make sure that you aren't creating a duplicate. If you have additional "
+"information on an issue, you can add it to the existing ticket. Third party "
+"plugins might also cause problems.  If you have installed any, you should "
+"also verify that the problem is still reproducible without them.  Please "
+"don't report multiple unrelated bugs in a single bug report."
+msgstr ""
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:49
+#: ../../source/site/getinvolved/development/bugreporting.rst:55
 msgid ""
 "When you're are logged in, a ``New Issue`` button is available. Select it "
 "and follow the instructions there."
-msgstr ""
+msgstr "Una volta effettuato l'accesso, è disponibile un pulsante ``Nuovo problema``. Selezionalo e segui le istruzioni lì."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:52
+#: ../../source/site/getinvolved/development/bugreporting.rst:58
 msgid ""
 "Before sending the report, please check the formatting of your report by "
 "clicking on \"Preview\". Please avoid editing existing reports, if not for "
 "typos. Better add further comments in any other case."
 msgstr "Prima di inviare una segnalazione, verifica la formattazione della tua segnalazione cliccando su \"Anteprima\". Cerca di evitare di modificare segnalazioni già esistenti, se non necessario. Piuttosto aggiungi commenti alla segnalazione esistente."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:57
+#: ../../source/site/getinvolved/development/bugreporting.rst:63
 msgid "Creating a backtrace"
 msgstr "Creazione di una backtrace"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:59
+#: ../../source/site/getinvolved/development/bugreporting.rst:65
 msgid ""
 "If you have a crash it might be useful to include a backtrace as the bug "
 "might be not reproducible on another machine."
 msgstr "Se hai un crash potrebbe essere utile includere una backtrace poiché il bug potrebbe non essere riproducibile su un'altra macchina."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:62
+#: ../../source/site/getinvolved/development/bugreporting.rst:68
 msgid ""
 "On Linux QGIS automatically tries to use ``gdb`` to connect to the crashing "
 "process to produce a backtrace. But some distributions disable the "
@@ -144,7 +162,7 @@ msgid ""
 " only produces a rather useless message like::"
 msgstr "Su Linux, QGIS prova automaticamente a usare ``gdb`` per connettersi al processo di crash per produrre una backtrace. Alcune distribuzioni disabilitano la possibilità di connettere debugger ai processi in esecuzione. In tal caso, ``gdb`` produce soltanto un messaggio piuttosto inutile come::"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:78
+#: ../../source/site/getinvolved/development/bugreporting.rst:84
 msgid ""
 "In that case you should reenable that option by setting "
 "``kernel.yama.ptrace_scope`` to 0 in ``/etc/sysctl.d/10-ptrace.conf`` (or "
@@ -153,7 +171,7 @@ msgid ""
 "will be printed instead."
 msgstr "In tal caso dovresti riattivare questa opzione impostando ``kernel.yama.ptrace_scope`` a 0 in ``/etc/sysctl.d/10-ptrace.conf`` (o ``/etc/sysctl.conf`` o qualche altro file in ``/etc/sysctl.d/``) ed eseguire ``sysctl -p`` come root. Quando riproduci successivamente il crash, sarà invece stampata una backtrace."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:84
+#: ../../source/site/getinvolved/development/bugreporting.rst:90
 msgid ""
 "If you cannot reproduce the crash, there should still be a core dump in the "
 "current directory, that can be analysed after the process has already "
@@ -161,7 +179,7 @@ msgid ""
 "is append to the filename)."
 msgstr "Se non puoi riprodurre il crash, dovrebbe esserci ancora un core dump nella cartella corrente, che può essere analizzato dopo che il processo è terminato. È chiamato ``core`` (in alcuni sistemi, un punto e l'id del processo sono aggiunti al nome del file)."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:89
+#: ../../source/site/getinvolved/development/bugreporting.rst:95
 msgid ""
 "On some distributions the creation of core dumps is also disabled. In the "
 "event that you just get ``Aborted`` instead of ``Aborted (core dumped)`` "
@@ -170,7 +188,7 @@ msgid ""
 "always enabled when you login."
 msgstr "Su alcune distribuzioni, la creazione di core dump è disabilitata. Nel caso in cui dovessi ricevere ``Interrotto`` invece di ``Interrotto (core dump)``, è necessario eseguire ``ulimit -c unlimited`` prima di avviare QGIS. Puoi anche inserirlo nel tuo ``.profile``, cosicché sia sempre abilitato quando esegui l'accesso."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:95
+#: ../../source/site/getinvolved/development/bugreporting.rst:101
 msgid ""
 "To produce a backtrace from the core file, start ``gdb "
 "/path/to/the/qgis/binary core``. The binary is usually ``/usr/bin/qgis`` or "
@@ -178,111 +196,111 @@ msgid ""
 "you run ``bt`` which will produce the backtrace."
 msgstr "Per generare una backtrace dal file core, avvia ``gdb /path/to/the/qgis/binary core``. Il file binario è di solito ``/usr/bin/qgis`` o ``/usr/bin/qgis.bin`` su Debian con il plugin GRASS installato. In ``gdb``, esegui ``bt`` per produrre la backtrace."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:101
+#: ../../source/site/getinvolved/development/bugreporting.rst:107
 msgid "Log output on Windows"
 msgstr "Log output in Windows"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:103
+#: ../../source/site/getinvolved/development/bugreporting.rst:109
 msgid ""
 "The nightly build in OSGeo4W_ (package qgis-dev) is built with debugging "
 "output, that you can view with DebugView_. If the problem is not easy to "
 "reproduce the output might shed some light about where QGIS crashes."
 msgstr "Le \"nightly build\" su OSGeo4W_ (pacchetto qgis-dev) sono compilate con un output di debug che puoi visualizzare con DebugView_. Se il problema non è facile da riprodurre, l'output potrebbe fare luce sul perché QGIS si è bloccato."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:113
+#: ../../source/site/getinvolved/development/bugreporting.rst:119
 msgid "Reporting issues on QGIS web site or documentation"
 msgstr "Segnalare problemi sul sito web QGIS o sulla documentazione"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:115
+#: ../../source/site/getinvolved/development/bugreporting.rst:121
 msgid ""
 "QGIS project provides an active `web site <https://qgis.org>`_ and a rich "
 "`documentation <https://qgis.org/en/docs/index.html>`_. Despite our efforts,"
 " if you find an out of date information, a wrong or unclear statement or "
 "miss a valuable information, please feel free to report it."
-msgstr ""
+msgstr "Il progetto QGIS fornisce un `sito web attivo <https://qgis.org>`_ e una ricca `documentazione <https://qgis.org/en/docs/index.html>`_. Nonostante i nostri sforzi, se trovi un'informazione non aggiornata, un'affermazione errata o poco chiara o ti manca un'informazione preziosa, non esitare a segnalarlo."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:120
+#: ../../source/site/getinvolved/development/bugreporting.rst:126
 msgid ""
 "The main sources of these documents are hosted and managed in GitHub "
 "repositories so in order to report bugs or submit patches, you need a GitHub"
 " account and login."
 msgstr "Le sorgenti principali di questi documenti sono ospitate e gestite su repository GitHub per cui, per riportare bug o inviare patch, hai bisogno di un account GitHub e di eseguire l'accesso."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:123
+#: ../../source/site/getinvolved/development/bugreporting.rst:129
 msgid ""
 "To get started, first `Create a GitHub account <https://github.com/join>`_."
 msgstr "Per iniziare, innanzitutto `Crea un account GitHub <https://github.com/join>`_."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:125
+#: ../../source/site/getinvolved/development/bugreporting.rst:131
 msgid "Then, choose the appropriate repository:"
 msgstr "In seguito, scegli il repository appropriato:"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:127
+#: ../../source/site/getinvolved/development/bugreporting.rst:133
 msgid ""
 "https://github.com/qgis/QGIS-Documentation/issues for QGIS documentation"
 msgstr "https://github.com/qgis/QGIS-Documentation/issues per la documentazione QGIS"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:128
+#: ../../source/site/getinvolved/development/bugreporting.rst:134
 msgid "https://github.com/qgis/QGIS-Website/issues for the web site"
 msgstr "https://github.com/qgis/QGIS-Website/issues per il sito web"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:130
+#: ../../source/site/getinvolved/development/bugreporting.rst:136
 msgid "Check if the issue you'd like to report is not already entered."
 msgstr "Verifica se il problema che hai scoperto è già stato segnalato."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:132
+#: ../../source/site/getinvolved/development/bugreporting.rst:138
 msgid ""
 "Click **New Issue**, type a title and a clear description for your issue."
 msgstr "Clicca su **Nuova Segnalazione**, digita un titolo e una descrizione chiara per il tuo problema."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:134
+#: ../../source/site/getinvolved/development/bugreporting.rst:140
 msgid "When you're finished, click **Submit new issue**."
 msgstr "Quando hai terminato, clicca su **Sottometti nuova segnalazione**."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:137
+#: ../../source/site/getinvolved/development/bugreporting.rst:143
 msgid ""
 "A ``Fix me`` link is provided at the bottom of any page of the web site to "
 "help you directly improve this page and submit pull request."
 msgstr "Un link ``Correggimi`` è fornito alla fine di ogni pagina del sito web per aiutarti a migliorare direttamente la pagina e a sottomettere una richiesta di pull."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:140
+#: ../../source/site/getinvolved/development/bugreporting.rst:146
 msgid "This option is also available in the footer of the documentation."
 msgstr "Questa opzione è anche disponibile nel piè di pagina della documentazione."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:143
+#: ../../source/site/getinvolved/development/bugreporting.rst:149
 msgid "Reporting plugin issues"
-msgstr ""
+msgstr "Segnalazione di problemi con i plugin"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:145
+#: ../../source/site/getinvolved/development/bugreporting.rst:151
 msgid ""
 "Most of the plugins in QGIS are published in the official `QGIS Plugins "
 "repository <https://plugins.qgis.org/plugins/>`_. Bugs or feature requests "
 "relative to them **must** be opened in their respective bug tracking system:"
-msgstr ""
+msgstr "La maggior parte dei plugin in QGIS sono pubblicati nel repository ufficiale `QGIS Plugins <https://plugins.qgis.org/plugins/>`_. Bug o richieste di funzionalità relative ad essi **devono** essere aperti nel rispettivo sistema di tracciamento dei bug:"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:149
+#: ../../source/site/getinvolved/development/bugreporting.rst:155
 msgid ""
 "For any plugin available in QGIS repository, you'll find in its metadata a "
 "link to its bug tracker. Otherwise, consult the plugin documentation to find"
 " the address of the relevant bug tracking system or a developer to contact."
-msgstr ""
+msgstr "Per qualsiasi plugin disponibile nel repository QGIS, troverai nei suoi metadati un collegamento al suo bug tracker. Altrimenti, consulta la documentazione del plugin per trovare l'indirizzo del relativo sistema di tracciamento dei bug o uno sviluppatore da contattare."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:153
+#: ../../source/site/getinvolved/development/bugreporting.rst:159
 msgid ""
 "If no information is available, please report it to the `Developer mailing-"
 "list <https://lists.osgeo.org/mailman/listinfo/qgis-developer>`_."
-msgstr ""
+msgstr "Se non sono disponibili informazioni, segnalarlo alla `Mailing-list degli sviluppatori <https://lists.osgeo.org/mailman/listinfo/qgis-developer>`_."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:156
+#: ../../source/site/getinvolved/development/bugreporting.rst:162
 msgid ""
 "For other plugins, we have no means to ensure such information are provided."
 msgstr "Per gli altri plugin, non abbiamo i mezzi per garantire che tali informazioni siano fornite."
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:160
+#: ../../source/site/getinvolved/development/bugreporting.rst:166
 msgid "Submitting a Patch to QGIS projects"
-msgstr ""
+msgstr "Invio di una Patch ai progetti QGIS"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:162
+#: ../../source/site/getinvolved/development/bugreporting.rst:168
 msgid ""
 "In addition to issue report, you can help to fix issues. Fixing issues is "
 "done in GitHub through pull requests. You need to `fork the repository "
@@ -290,23 +308,23 @@ msgid ""
 "contribute to and submit pull requests at:"
 msgstr "In aggiunta alla segnalazione dei problemi, puoi aiutare a risolverli. La risoluzione dei problemi è eseguita su GitHub attraverso richieste di pull. È necessario `fare un fork del repository <https://help.github.com/articles/working-with-forks/>`_ al quale vuoi contribuire e sottomettere le richieste di pull su:"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:167
+#: ../../source/site/getinvolved/development/bugreporting.rst:173
 msgid ""
 "https://github.com/qgis/QGIS for QGIS Desktop or QGIS Server applications"
-msgstr ""
+msgstr "https://github.com/qgis/QGIS per applicazioni QGIS Desktop o QGIS Server"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:168
+#: ../../source/site/getinvolved/development/bugreporting.rst:174
 msgid ""
 "https://github.com/qgis/QGIS-Website for the web site at https://qgis.org"
-msgstr ""
+msgstr "https://github.com/qgis/QGIS-Website per il sito web su https://qgis.org"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:169
+#: ../../source/site/getinvolved/development/bugreporting.rst:175
 msgid ""
 "https://github.com/qgis/QGIS-Documentation for the documentation available "
 "at https://docs.qgis.org"
-msgstr ""
+msgstr "https://github.com/qgis/QGIS-Documentation per la documentazione disponibile su https://docs.qgis.org"
 
-#: ../../source/site/getinvolved/development/bugreporting.rst:172
+#: ../../source/site/getinvolved/development/bugreporting.rst:178
 msgid ""
 "You can find a few guidelines that will help you to easily get your patches "
 "and pull requests into QGIS projects at `submit_patch "
@@ -314,6 +332,14 @@ msgid ""
 "patches-and-pull-requests>`_. And more widely, You may need to read "
 "`git_access "
 "<https://docs.qgis.org/testing/en/docs/developers_guide/git.html>`_."
+msgstr "Puoi trovare alcune linee guida che ti aiuteranno a ottenere facilmente le tue patch e le pull requests nei progetti QGIS su `submit_patch <https://docs.qgis.org/testing/en/docs/developers_guide/git.html#submitted-patches -e-richieste-pull>`_. E più ampiamente, potresti aver bisogno di leggere `git_access <https://docs.qgis.org/testing/en/docs/developers_guide/git.html>`_."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid ""
@@ -333,8 +359,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "and the `documentation <http://docs.qgis.org>`__ at https://github.com/qgis"
-#~ "/QGIS-Documentation/issues."
+#~ "and the `documentation <http://docs.qgis.org>`__ at "
+#~ "https://github.com/qgis/QGIS-Documentation/issues."
 #~ msgstr ""
 
 #~ msgid "For questions, please contact the :ref:`QGIS-mailinglists`."
@@ -471,4 +497,13 @@ msgstr ""
 #~ "You can find a few guidelines that will help you to easily get your patches "
 #~ "and pull requests into QGIS projects at :ref:`submit_patch`. And more "
 #~ "widely, You may need to read :ref:`git_access`."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Before filing an issue, review the currently open issues to make sure that "
+#~ "you aren't creating a duplicate. If you have additional information on an "
+#~ "issue, you can add it to the existing ticket. Third party plugins might also"
+#~ " cause problems. If you have installed any, you should also verify that the "
+#~ "problem is still reproducible without them. Please don't report multiple "
+#~ "unrelated bugs in a single bug report."
 #~ msgstr ""

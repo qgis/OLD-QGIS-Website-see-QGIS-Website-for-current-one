@@ -4,21 +4,22 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# fairtommy <fairtommy@gmail.com>, 2019
+# tomoyuki arai <tarai.3367@gmail.com>, 2022
+# fairtommy <fairtommy@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:28+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>, 2019\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -32,21 +33,21 @@ msgid ""
 "components of their scholarly research, but these materials may not be "
 "readily available to scholars with similar interests.  The purpose of the "
 "OpenOttoman (Amy Singer, OpenOttoman: A Collaborative Platform for Digital "
-"Scholarship, https://networks.hnet.org/node/11419/discussions/166360"
-"/openottoman-collaborative-platform-digital-scholarship, 2017) is to "
-"stimulate generation of such materials and provide open and convenient "
-"access to these materials. The OpenOttoman Portal (http:// "
-"www.openottoman.org) (OOP) is one vehicle for accessing these materials.  "
-"Materials made available through the OOP include databases, with a prime "
-"example being gazetteers of Ottoman world places.  Here, we describe the "
-"Historical Gazetteer of the Crimea (HGC), a prototype OOP gazetteer that "
-"includes populated places, districts, and provinces of Crimea in existence "
-"at the end of the Crimean Khanate."
+"Scholarship, "
+"https://networks.hnet.org/node/11419/discussions/166360/openottoman-"
+"collaborative-platform-digital-scholarship, 2017) is to stimulate generation"
+" of such materials and provide open and convenient access to these "
+"materials. The OpenOttoman Portal (http:// www.openottoman.org) (OOP) is one"
+" vehicle for accessing these materials.  Materials made available through "
+"the OOP include databases, with a prime example being gazetteers of Ottoman "
+"world places.  Here, we describe the Historical Gazetteer of the Crimea "
+"(HGC), a prototype OOP gazetteer that includes populated places, districts, "
+"and provinces of Crimea in existence at the end of the Crimean Khanate."
 msgstr ""
 "毎日、世界中のオスマントルコ語は、学術研究の構成要素として貴重な資料を生み出しますが、これらの資料は、同様の利益を持つ学者には容易に入手できない可能性があります。"
 " OpenOttoman（Amy Singer、OpenOttoman：Digital "
-"Scholarshipのためのコラボレーティブプラットフォーム、https://networks.hnet.org/node/11419/discussions/166360"
-"/openottoman-collaborative-platform-digital-"
+"Scholarshipのためのコラボレーティブプラットフォーム、https://networks.hnet.org/node/11419/discussions/166360/openottoman-"
+"collaborative-platform-digital-"
 "scholarship、2017）の目的は、そのような材料の生成を刺激し、これらの材料へのオープンで便利なアクセスを提供する。 "
 "OpenOttomanポータル（ http://www.openottoman.org ）（OOP）は、これらの資料にアクセスするための手段の1つです。"
 " "
@@ -99,6 +100,10 @@ msgstr ""
 "Maps物理マップを使用してQGISで河川をなぞりました。"
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:19
+msgid "Gazetteer databases"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:19
 msgid "Table 1: Gazetteer databases"
 msgstr "表1：Gazetteerデータベース"
 
@@ -110,6 +115,10 @@ msgid ""
 msgstr ""
 "QGISでプロジェクトを開くと、図1のような結果が得られます。KMLファイルとシェイプファイルの河川データベースでは、Google "
 "Maps物理マップを使用してQGISで河川をなぞりました。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:29
+msgid "HGC-QGIS-Project.qgs opened in QGIS"
+msgstr ""
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:29
 msgid "Figure 1: HGC-QGIS-Project.qgs opened in QGIS."
@@ -127,6 +136,10 @@ msgstr ""
 " URLはHGC場所の一意の識別子として機能します。"
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:38
+msgid "HGC database fields"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:38
 msgid "Table 2: HGC database fields."
 msgstr "表2：HGCデータベースのフィールド"
 
@@ -136,6 +149,10 @@ msgid ""
 "displaying a GeoNames map with the populated place at its center, as shown "
 "in Figure 2."
 msgstr "IDはWebブラウザで開くことができるので、図2に示すように、居住地を中心にGeoNamesマップを自動的に表示できます。"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:47
+msgid "Opening the URL ID for Qarağy in a web browser"
+msgstr ""
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:47
 msgid "Figure 2: Opening the URL ID for Qarağy in a web browser."
@@ -183,9 +200,7 @@ msgid ""
 "to the need for gazetteers of the Ottoman world as expressed by the "
 "OpenOttoman initiative (http://openottoman.org)."
 msgstr ""
-"有用な地名辞表を提供する一方で、HGCの主な目的は、他のオスマン帝国の世界地名辞典をどのようにOOPに組み込むことができるかというテストベッドとユースケースとしての役割を果たすことでした。このプロジェクトを通じて得られた経験に基づいて、Guillaume"
-" "
-"Leが製作したウクライナの17世紀の地図セットに載っている約3000の居住地、河川、河川、急流、島、森林、山脈、谷間を地質調査するプロジェクトが開始されましたVasseur、Beauplanの写真。このプロジェクトは、ポーランド"
+"有用な地名辞表を提供する一方で、HGCの主な目的は、他のオスマン帝国の世界地名辞典をどのようにOOPに組み込むことができるかという実証基盤とユースケースとしての役割を果たすことでした。このプロジェクトを通じて得られた経験に基づいて、ギヨーム・ル・ヴァスール・デ・ビュープランが製作したウクライナの17世紀の地図セットに載っている約3000の居住地、河川、河川、急流、島、森林、山脈、谷間を地質調査するプロジェクトが開始されました。このプロジェクトは、ポーランド"
 " - "
 "リトアニア連邦/オスマン帝国のフロンティアに関する主任研究者の研究の1つを直接サポートしています。より一般的には、この作品は、OpenOttomanイニシアチブ（"
 " http://openottoman.org ）で表現されているように、オスマン世界の地名辞典の必要性に対応しています。"
@@ -226,3 +241,11 @@ msgid ""
 msgstr ""
 "マーク・ポルツィンスキ（ mark.polczynski@marquette.edu "
 "）はマーケット大学工学部から退職し、オスマン帝国の世界に焦点を当てた奨学金と一般公開のための国際的なデジタルコラボレーションであるOpenOttoman（openottoman.org）に技術支援を提供しています。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

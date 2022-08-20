@@ -6,15 +6,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-01 17:28+0100\n"
-"PO-Revision-Date: 2019-09-05 17:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-11-01 16:56+0000\n"
+"Last-Translator: Richard Duivenvoorde <richard@duif.net>, 2016\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: uk\n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:4
+msgid "Changelog for QGIS 2.6"
+msgstr "Список змін для QGIS 2.6"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:6
 msgid ""
@@ -50,10 +55,24 @@ msgid ""
 "financial support they provide to this project:"
 msgstr "І нарешті ми хочемо подякувати нашим офіційним спонсорам за їх безцінну підтримку:"
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:26
+msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
+msgstr "**ЗОЛОТИЙ спонсор: Asia Air Survey, Японія** http://www.asiaairsurvey.com/>"
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:27
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
 msgstr "СРІБНИЙ спонсор: `Sourcepole AG, Швейцарія <http://www.sourcepole.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:28
+msgid ""
+"SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
+msgstr "СРІБНИЙ спонсор: `Федеральна земля Форарльберг, Австрія <http://www.vorarlberg.at/>`_"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:29
+msgid ""
+"BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
+msgstr "БРОНЗОВИЙ спонсор: `Lutra Consulting, Велика Британія <http://www.lutraconsulting.co.uk/>`_"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:30
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
@@ -73,6 +92,18 @@ msgid ""
 "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
 "<http://www.eschenlaub.de/>`_"
 msgstr "БРОНЗОВИЙ спонсор: `GKG Kassel,(Dr.-Ing. Claas Leiner), Німеччина <http://www.eschenlaub.de/>`_"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:35
+msgid ""
+"A current list of donors who have made financial contributions large and "
+"small to the project can be seen on our `donors list "
+"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
+"would like to become an official project sponsor, please visit `our "
+"sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details."
+" Sponsoring QGIS helps us to fund our six monthly developer meetings, "
+"maintain project infrastructure and fund bug fixing efforts."
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:44
 msgid ""
@@ -167,6 +198,11 @@ msgstr "підтримка суфіксів у віджеті «Діапазон
 msgid "Feature: Optionally use just a subset of fields from the joined layer"
 msgstr "Можливість вибору лише необхідних полів при з'єднані таблиць"
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:109
+msgid ""
+"You can now use just a subset of related fields when creating a vector join."
+msgstr "Під час з’єднання таблиць можна вибрати лише необхідні поля"
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:117
 msgid "Feature: Expression field (virtual fields)"
 msgstr "Віртуальні поля"
@@ -257,6 +293,10 @@ msgid ""
 "entries for items not currently in the map view. It is available in the main"
 " map legend and in map composer and for WMS layers."
 msgstr "Нова настройка для фільтрації легенди в залежності від поточного масштабу карти. Дозволяє динамічно видаляти елементи, які відповідають об'єктам, що не відображаються на карті."
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:179
+msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"
+msgstr "класи рендереру «Правила» відображаються у вигляді дерева"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:186
 msgid "Data Providers"
@@ -485,6 +525,13 @@ msgstr "Видалена команда «Load from template», замість �
 #: ../../source/site/forusers/visualchangelog260/index.rst:325
 msgid "Feature: Improved item snapping"
 msgstr "Вдосконалена прив'язка елементів"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:327
+msgid ""
+"Snapping thresholds are now set in pixels, allowing for finer movement and "
+"resizing of items when zoomed in to a composition. Items within a group are "
+"no longer used for auto snap lines."
+msgstr "Межа прив'язки задається у пікселях, що робить переміщення та зміну розмірів елементів більш плавною. Згруповані елементи більше не використовуються для автоматичної прив'язки."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:336
 msgid "Feature: Multiple overviews for a map item"
@@ -793,6 +840,10 @@ msgstr "Новий діалог вибору кольору"
 msgid "There is a new custom QGIS color picker dialog. Features include:"
 msgstr "Розроблено новий діалог вибору кольорів. Серед його можливостей:"
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:514
+msgid "Sliders for hue, saturation, value, red, green, blue color components."
+msgstr "Повзунки для насиченості, тону, значення та червоного, синього і зеленого компонентів"
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:516
 msgid "Alpha slider."
 msgstr "Повзунок для налаштування прозорості"
@@ -812,6 +863,28 @@ msgstr "Інтерактивний віджет палітри кольорів"
 #: ../../source/site/forusers/visualchangelog260/index.rst:520
 msgid "Hue wheel/triangle widget."
 msgstr "Колесо/трикутник відтінків"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:521
+msgid ""
+"Editable color palettes, including the ability to create new palettes and "
+"import/export colors to a GPL palette file."
+msgstr "Редагування палітр, включаючи можливість створення нової та імпорт/експорт"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:523
+msgid ""
+"Live color sampler with option to sample over a set radius (OS support "
+"dependant)."
+msgstr "можливість «захвату» кольору (так звана «піпетка», доступно не для всіх ОС)"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:525
+msgid ""
+"Supports interaction with other apps via drag and drop of colors (OS support"
+" dependant)."
+msgstr "підтримка перетягування кольорів в/з інші програми (доступно не для всіх ОС)"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:527
+msgid "Option to disable the dialog and use the native picker dialog instead."
+msgstr "користувач має вибір який саме діалог буде використовуватися: системний чи діалог QGIS"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:535
 msgid "Feature: Single select feature tool merged into select by rectangle"
@@ -870,77 +943,13 @@ msgid ""
 "which feature types you wish to identify (all all if you like)."
 msgstr "При використанні інструмента визначення об'єктів натискання правої клавіші миші викличе контекстне меню. За допомогою меню можна вказати які саме об'єкти вас цікавлять."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:35
-msgid ""
-"A current list of donors who have made financial contributions large and "
-"small to the project can be seen on our `donors list "
-"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
-"would like to become an official project sponsor, please visit `our "
-"sponsorship page "
-"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details."
-" Sponsoring QGIS helps us to fund our six monthly developer meetings, "
-"maintain project infrastructure and fund bug fixing efforts."
+#: ../../<rst_epilog>:2
+msgid "checkbox"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:109
-msgid ""
-"You can now use just a subset of related fields when creating a vector join."
-msgstr "Під час з’єднання таблиць можна вибрати лише необхідні поля"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:28
-msgid ""
-"SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
-msgstr "СРІБНИЙ спонсор: `Федеральна земля Форарльберг, Австрія <http://www.vorarlberg.at/>`_"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:29
-msgid ""
-"BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
-msgstr "БРОНЗОВИЙ спонсор: `Lutra Consulting, Велика Британія <http://www.lutraconsulting.co.uk/>`_"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:179
-msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"
-msgstr "класи рендереру «Правила» відображаються у вигляді дерева"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:514
-msgid "Sliders for hue, saturation, value, red, green, blue color components."
-msgstr "Повзунки для насиченості, тону, значення та червоного, синього і зеленого компонентів"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:521
-msgid ""
-"Editable color palettes, including the ability to create new palettes and "
-"import/export colors to a GPL palette file."
-msgstr "Редагування палітр, включаючи можливість створення нової та імпорт/експорт"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:523
-msgid ""
-"Live color sampler with option to sample over a set radius (OS support "
-"dependant)."
-msgstr "можливість «захвату» кольору (так звана «піпетка», доступно не для всіх ОС)"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:525
-msgid ""
-"Supports interaction with other apps via drag and drop of colors (OS support"
-" dependant)."
-msgstr "підтримка перетягування кольорів в/з інші програми (доступно не для всіх ОС)"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:527
-msgid "Option to disable the dialog and use the native picker dialog instead."
-msgstr "користувач має вибір який саме діалог буде використовуватися: системний чи діалог QGIS"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:26
-msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
-msgstr "**ЗОЛОТИЙ спонсор: Asia Air Survey, Японія** http://www.asiaairsurvey.com/>"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:327
-msgid ""
-"Snapping thresholds are now set in pixels, allowing for finer movement and "
-"resizing of items when zoomed in to a composition. Items within a group are "
-"no longer used for auto snap lines."
-msgstr "Межа прив'язки задається у пікселях, що робить переміщення та зміну розмірів елементів більш плавною. Згруповані елементи більше не використовуються для автоматичної прив'язки."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:4
-msgid "Changelog for QGIS 2.6"
-msgstr "Список змін для QGIS 2.6"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "Changelog for QGIS: 2.6.0"
 #~ msgstr ""

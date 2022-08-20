@@ -5,21 +5,21 @@
 # 
 # Translators:
 # Jürgen E. Fischer <jef@norbit.de>, 2020
-# Sorin Călinică <scalinica@gmail.com>, 2020
+# Sorin Călinică <scalinica@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-13 10:56+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2020-03-13 10:08+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2020\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2022\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -257,7 +257,7 @@ msgstr "**Voturi**: Favorabile: Anita, Andreas, Tim, Marco, Paolo, Jürgen"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:133
 msgid "PROJ.6 bugfixes"
-msgstr ""
+msgstr "Corecții PROJ.6"
 
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:135
 #: ../../source/site/getinvolved/governance/resolutions/2019_resolutions.rst:151
@@ -350,3 +350,11 @@ msgid ""
 "**Votes**: In favour: Anita, Tim, Paolo, Andreas, Jürgen Abstain: Marco"
 msgstr ""
 "**Voturi**: Favorabile: Anita, Tim, Paolo, Andreas, Jürgen Abstain: Marco"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

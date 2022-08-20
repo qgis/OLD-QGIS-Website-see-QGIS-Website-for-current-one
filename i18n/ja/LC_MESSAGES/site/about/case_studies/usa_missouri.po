@@ -6,15 +6,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2018-12-26 05:34+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:3
+msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
+msgstr "QGIS地図の歴史的爬虫両棲類記録（ミズーリ州、USA）"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:5
 msgid ""
@@ -62,6 +67,10 @@ msgid ""
 msgstr "QGISで地図を作成するプロセスは、いくつかのPostgreSQLのテーブルに格納されたデータで始まり、PostGISので空間的に対応。地図は静的であり、最終的にウェブまたは印刷地図帳のいずれかに宛てているので、それらはカスタムQGIS Pythonのプラグイン（図1,2）を用いて、それぞれの種のために自動的に生成されます。"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:21
+msgid "Custom map generation and export user interface"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:21
 msgid ""
 "Custom map generation and export user interface, maps are generated and "
 "exported in a batch process."
@@ -77,8 +86,16 @@ msgid ""
 msgstr "最終種の地図はきれいでプロの外観（図3）を持っています。より良い種の分布を理解するために、基図のシリーズはまた、（図4）を作成し、ラベル付けされています。スタイルは、各データレイヤー内で管理されている方法で、少しの余分な労力だけで基図レイヤーはまた、種の地図のセットに組み込むことができます。"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:30
+msgid "Maps"
+msgstr "地図"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:30
 msgid "Maps are displayed as static images."
 msgstr "地図は静止画像として表示されます。"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:37
+msgid "Labelled Level III Ecoregion map for Missouri"
+msgstr ""
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:37
 msgid "Labelled Level III Ecoregion map for Missouri and surrounding states."
@@ -87,26 +104,6 @@ msgstr "ミズーリ州およびその周辺州に対するラベル付きレベ
 #: ../../source/site/about/case_studies/usa_missouri.rst:40
 msgid "Conclusions"
 msgstr "結論"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:49
-msgid "Author"
-msgstr "制作者"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:56
-msgid "Brian Edmond"
-msgstr "ブライアン・エドモンド"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:58
-msgid ""
-"This article was contributed by Brian Edmond in February 2013. He is a "
-"Senior Systems Analyst in Computer Services at Missouri State University.  "
-"He holds a BS in Wildlife Biology from the University of Missouri and has "
-"spent his career in the intergrade zone between biology and technology."
-msgstr "この記事は2013年2月にブライアン・エドモンドによって寄稿されました。氏はミズーリ州立大学でコンピュータ・サービスのシニアシステムアナリストです。ミズーリ大学の野生生物の生物学の学士号を取得し、生物学と技術の間の中間領域で経歴を積んできました。"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:3
-msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
-msgstr "QGIS地図の歴史的爬虫両棲類記録（ミズーリ州、USA）"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:42
 msgid ""
@@ -134,6 +131,30 @@ msgid ""
 "extensibility using Python is more than sufficient to tackle larger and more"
 " complex projects."
 msgstr "私たちは小さく、特定の方法でQGISを使用していますが、その機能とPythonを使って拡張性がより大きく、より複雑なプロジェクトに取り組むのに十分以上のものです。"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:49
+msgid "Author"
+msgstr "制作者"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:56
+msgid "Brian Edmond"
+msgstr "ブライアン・エドモンド"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:58
+msgid ""
+"This article was contributed by Brian Edmond in February 2013. He is a "
+"Senior Systems Analyst in Computer Services at Missouri State University.  "
+"He holds a BS in Wildlife Biology from the University of Missouri and has "
+"spent his career in the intergrade zone between biology and technology."
+msgstr "この記事は2013年2月にブライアン・エドモンドによって寄稿されました。氏はミズーリ州立大学でコンピュータ・サービスのシニアシステムアナリストです。ミズーリ大学の野生生物の生物学の学士号を取得し、生物学と技術の間の中間領域で経歴を積んできました。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS Maps Historic Herpetofaunal Records"
 #~ msgstr ""

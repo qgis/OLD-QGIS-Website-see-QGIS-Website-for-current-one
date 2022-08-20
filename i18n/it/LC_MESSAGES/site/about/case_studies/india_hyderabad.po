@@ -6,19 +6,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:58+0000\n"
-"Last-Translator: Marco Grisolia <marco.grisolia5@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Marco Grisolia <marco.grisolia5@gmail.com>, 2016\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/india_hyderabad.rst:3
 msgid "QGIS Trainings at NIRD Jaipur Centre, India"
 msgstr "Corsi di QGIS al NIRD Jaipur Centre, India"
+
+msgid "Study area in Portugal"
+msgstr "Area di studio nel Portogallo"
 
 #: ../../source/site/about/case_studies/india_hyderabad.rst:11
 msgid ""
@@ -88,6 +92,7 @@ msgid ""
 msgstr "Le applicazioni del software durante il corso sono generalmente concentrate su \"Watershed\" e \"Mahatma Gandhi National Rural Employment Guarantee Scheme\" (MGNREGS). I partecipanti sono invitati a venire con i propri dati o dipartimentali, se disponibili. La formazione viene data in un laboratorio dotato di 15 computer con processore i5, 8GB di RAM e Windows 7. Per la formazione il numero di tirocinanti è tra i 20-30."
 
 #: ../../source/site/about/case_studies/india_hyderabad.rst:35
+#: ../../source/site/about/case_studies/india_hyderabad.rst:55
 msgid "Conducted QGIS training courses and participants"
 msgstr "Corsi di formazione QGIS"
 
@@ -103,9 +108,27 @@ msgid ""
 " post training support."
 msgstr "I temi principali trattati sono l'introduzione di base al GIS e il software QGIS, le barre degli strumenti, la struttura plug-in, georeferenziazione, la creazione / modifica di dati vettoriali, clip (Raster / Vector), fusione, l'analisi del terreno, contorni,. da file csv a shp,. da shp a kml e viceversa, il trattamento dei dati GPS, interpolazione, modifica delle tabelle/query, campo calcolatrice, stampa ecc compositore e alcune analisi di base sui dati vettoriali. Oltre all'introduzione di vari link di aiuto disponibili, per i partecipanti è stato creato un gruppo LinkedIn per il supporto post-formazione."
 
+#: ../../source/site/about/case_studies/india_hyderabad.rst:39
+msgid ""
+"Number of QGIS-based trainings conducted by author with participants’ "
+"details is shown in the table:"
+msgstr "Numero di corsi di formazione QGIS condotto dall'autore con i dettagli dei partecipanti:"
+
 #: ../../source/site/about/case_studies/india_hyderabad.rst:42
 msgid "Success"
 msgstr "Il successo"
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:44
+msgid ""
+"Every month training is conducted with 20-30 participants so this number is "
+"increasing every month. Training feedbacks are remaining very positive and "
+"encouraging. Certificates are provided to the participants after completion "
+"of training. Presently handouts are being supplied to the participants in "
+"hard copy and tutorial, software and practice data in soft copies but plan "
+"is there to create DVDs containing screen-recorded lectures/demo of various "
+"topics in Hindi and English language. In future certificate and diploma "
+"programmes may also be initiated."
+msgstr "Ogni mese, la formazione viene fatta con 20-30 partecipanti e tale numero è in aumento ogni mese. I giudizi di formazione sono molto positivi e incoraggianti. I certificati vengono forniti ai partecipanti dopo il completamento della formazione. Attualmente dispense vengono fornite ai partecipanti in formato cartaceo e guide, software e dati, ma il piano è creare DVD contenenti conferenze registrate su schermate/demo di vari argomenti in hindi e in inglese. Nel futuro, potrebbe essere avviato un programma di certificazione e un diploma"
 
 #: ../../source/site/about/case_studies/india_hyderabad.rst:48
 msgid "Author"
@@ -121,23 +144,13 @@ msgid ""
 "professor, NIRD Jaipur centre, Website: http://www.nird.org.in"
 msgstr "Questo articolo è stato scritto nel mese di luglio del 2012 da HK Solanki, professore assistente, centro NIRD Jaipur, Sito web: http://www.nird.org.in"
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:39
-msgid ""
-"Number of QGIS-based trainings conducted by author with participants’ "
-"details is shown in the table:"
-msgstr "Numero di corsi di formazione QGIS condotto dall'autore con i dettagli dei partecipanti:"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:44
-msgid ""
-"Every month training is conducted with 20-30 participants so this number is "
-"increasing every month. Training feedbacks are remaining very positive and "
-"encouraging. Certificates are provided to the participants after completion "
-"of training. Presently handouts are being supplied to the participants in "
-"hard copy and tutorial, software and practice data in soft copies but plan "
-"is there to create DVDs containing screen-recorded lectures/demo of various "
-"topics in Hindi and English language. In future certificate and diploma "
-"programmes may also be initiated."
-msgstr "Ogni mese, la formazione viene fatta con 20-30 partecipanti e tale numero è in aumento ogni mese. I giudizi di formazione sono molto positivi e incoraggianti. I certificati vengono forniti ai partecipanti dopo il completamento della formazione. Attualmente dispense vengono fornite ai partecipanti in formato cartaceo e guide, software e dati, ma il piano è creare DVD contenenti conferenze registrate su schermate/demo di vari argomenti in hindi e in inglese. Nel futuro, potrebbe essere avviato un programma di certificazione e un diploma"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "Number of QGIS Based trainings conducted by author with participants’ "

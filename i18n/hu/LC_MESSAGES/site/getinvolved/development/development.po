@@ -5,20 +5,21 @@
 # 
 # Translators:
 # Zoltan Siki <siki.zoltan@epito.bme.hu>, 2019
+# Báthory Péter <bathory86p@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-13 10:56+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-09-05 17:56+0000\n"
-"Last-Translator: Zoltan Siki <siki.zoltan@epito.bme.hu>, 2019\n"
+"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2022\n"
 "Language-Team: Hungarian (https://www.transifex.com/qgis/teams/6144/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -125,12 +126,9 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/development.rst:52
 msgid ""
-"Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up "
-"the installation environment and make a compilation with ccache enabled."
+"Read the https://github.com/qgis/QGIS/blob/master/INSTALL.md about setting "
+"up the installation environment and make a compilation with ccache enabled."
 msgstr ""
-"Olvassa el a https://github.com/qgis/QGIS/blob/master/INSTALL oldalt a "
-"telepítési környezet felállításához és a fordítás végrehajtásához a ccache "
-"engedélyezésével."
 
 #: ../../source/site/getinvolved/development/development.rst:56
 msgid "Setting up the Plugin Directory"
@@ -190,6 +188,14 @@ msgstr ""
 msgid "Looking for examples of python plugins, see https://plugins.qgis.org"
 msgstr ""
 
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
 #~ msgid "Go to the QGIS repository in Github at https://github.com/qgis/QGIS/"
 #~ msgstr "Menjen a QGIS tárházba a GitHub-on https://github.com/qgis/QGIS/"
 
@@ -233,3 +239,11 @@ msgstr ""
 
 #~ msgid "https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
 #~ msgstr "http://qgis.org/api/1.8/classQgisInterface.html (QGIS 1.8-hoz)"
+
+#~ msgid ""
+#~ "Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up "
+#~ "the installation environment and make a compilation with ccache enabled."
+#~ msgstr ""
+#~ "Olvassa el a https://github.com/qgis/QGIS/blob/master/INSTALL oldalt a "
+#~ "telepítési környezet felállításához és a fordítás végrehajtásához a ccache "
+#~ "engedélyezésével."

@@ -1,5 +1,6 @@
 # 
 # Translators:
+# fairtommy <fairtommy@gmail.com>, 2022
 # Kayama Yoichi <yoichi.kayama@gmail.com>, 2017
 # fairtommy <fairtommy@gmail.com>, 2018
 # k_zoar <zoar@k-side.net>, 2016
@@ -7,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
-"PO-Revision-Date: 2019-11-02 11:49+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -30,35 +31,52 @@ msgid ""
 "stores below!"
 msgstr "あなたが QGIS のファンなら、あなたの好きなデスクトップ GIS を主張するためにいくつかの記念品を購入することができますので、私たちのショップを訪れたいと思うかもしれません。私たちはすばらしい T シャツ、マグカップ、パーカー、キャップをいくつか用意しているので、以下の店舗のいずれかから購入してください！"
 
+msgid "QGIS mugs"
+msgstr ""
+
 #: ../../source/site/about/shop_goodies.rst:16
 msgid ""
-"Buying QGIS apparrel not only lets you show off the fact that you use QGIS, "
-"for every t-shirt sold a commision is given to the QGIS project."
-msgstr "QGIS のアパレルを購入することは、あたなが QGIS を使用しているという事実を表明することができます。販売される T シャツの料金は QGIS プロジェクトに与えられます。"
+"Buying QGIS apparel not only lets you show off the fact that you use QGIS, "
+"for every t-shirt sold a commission is given to the QGIS project."
+msgstr "QGISのアパレルを購入すると、QGISを使用していることをアピールできるだけでなく、販売されたTシャツごとにQGISプロジェクトに手数料が与えられます。"
+
+msgid "QGIS tshirt"
+msgstr ""
 
 #: ../../source/site/about/shop_goodies.rst:25
 msgid "Shops"
-msgstr ""
+msgstr "ショップ"
 
 #: ../../source/site/about/shop_goodies.rst:27
 msgid ""
 "We co-operate with Spreadshirt. They produce locally and ship the products "
 "to all countries in the world."
-msgstr ""
+msgstr "Spreadshirtと協力しています。彼らは地元で生産し、世界のすべての国に製品を出荷しています。"
 
 #: ../../source/site/about/shop_goodies.rst:30
-msgid "http://shop.spreadshirt.net/qgis/"
+msgid "https://shop.spreadshirt.net/qgis/"
+msgstr "https://shop.spreadshirt.net/qgis/"
+
+msgid "QGIS Hoodie"
 msgstr ""
 
 #: ../../source/site/about/shop_goodies.rst:37
 msgid ""
 "Some more creative and funny (but unofficial) designs can be found in the "
 "Red Bubble store."
-msgstr ""
+msgstr "いくつかのより創造的で面白い（しかし非公式の）デザインは、RedBubbleストアで見つけることができます。"
 
 #: ../../source/site/about/shop_goodies.rst:39
 msgid "https://www.redbubble.com/shop/qgis"
-msgstr ""
+msgstr "https://www.redbubble.com/shop/qgis"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS shop"
 #~ msgstr ""
@@ -111,4 +129,12 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "http://shop.spreadshirt.net/qgis/ (Europe)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Buying QGIS apparrel not only lets you show off the fact that you use QGIS, "
+#~ "for every t-shirt sold a commision is given to the QGIS project."
+#~ msgstr ""
+
+#~ msgid "http://shop.spreadshirt.net/qgis/"
 #~ msgstr ""

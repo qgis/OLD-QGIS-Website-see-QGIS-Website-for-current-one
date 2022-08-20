@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-20 06:27+0000\n"
-"Last-Translator: Zoltan Siki <siki.zoltan@epito.bme.hu>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Zoltan Siki <siki.zoltan@epito.bme.hu>, 2015,2017\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -30,6 +31,9 @@ msgid ""
 "solution backed by a worldwide user and development community."
 msgstr ""
 
+msgid "uster"
+msgstr ""
+
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
 "Postgis/PostgreSQL is used as a central geodata warehouse. Other databases "
@@ -43,6 +47,9 @@ msgid ""
 "(University of Berne)) we coordinate and sponsor the improvements of these "
 "tools, along with some improvements in data driven symbolization, automated "
 "labeling, attribute handling and forms."
+msgstr ""
+
+msgid "uster location"
 msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
@@ -115,6 +122,17 @@ msgid ""
 "residents"
 msgstr ""
 
+#: ../../source/site/about/case_studies/suisse_uster.rst:38
+msgid ""
+"planning and visualization for energy planning (gas supply regions, heat use"
+" from waste water, near-surface geothermal energy, block heating stations, "
+"etc.)"
+msgstr ""
+
+#: ../../source/site/about/case_studies/suisse_uster.rst:40
+msgid "Additional further projects are currently under development."
+msgstr ""
+
 #: ../../source/site/about/case_studies/suisse_uster.rst:47
 msgid ""
 "In 2007 it was not entirely clear at what pace QGIS would be further "
@@ -155,15 +173,12 @@ msgid ""
 " coordinator at the City of Uster, Switzerland."
 msgstr ""
 
-#: ../../source/site/about/case_studies/suisse_uster.rst:38
-msgid ""
-"planning and visualization for energy planning (gas supply regions, heat use"
-" from waste water, near-surface geothermal energy, block heating stations, "
-"etc.)"
-msgstr ""
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/suisse_uster.rst:40
-msgid "Additional further projects are currently under development."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid ""

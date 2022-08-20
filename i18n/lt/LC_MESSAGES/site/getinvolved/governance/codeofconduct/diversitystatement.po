@@ -5,15 +5,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2017-12-15 20:39+0000\n"
-"Last-Translator: Tomas Straupis\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: Tomas Straupis, 2016\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/getinvolved/governance/codeofconduct/diversitystatement.rst:4
+msgid "Diversity statement"
+msgstr "Įvairovės konstatavimas"
 
 #: ../../source/site/getinvolved/governance/codeofconduct/diversitystatement.rst:6
 msgid "The QGIS Project welcomes and encourages participation by everyone."
@@ -41,9 +46,13 @@ msgstr "Naudingi kontaktai:"
 msgid "QGIS PSC (Project Steering Commity: psc@qgis.org)"
 msgstr "QGIS PVK (Projekto valdymo komitetas/Project Steering Commity: psc@qgis.org)"
 
-#: ../../source/site/getinvolved/governance/codeofconduct/diversitystatement.rst:4
-msgid "Diversity statement"
-msgstr "Įvairovės konstatavimas"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS Diversity statement"
 #~ msgstr ""

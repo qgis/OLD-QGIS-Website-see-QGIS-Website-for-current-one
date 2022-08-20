@@ -6,24 +6,27 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2015-08-19 07:00+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"PO-Revision-Date: 2013-10-13 18:57+0000\n"
+"Last-Translator: masoud pashotan <masoud.ptn@gmail.com>, 2013\n"
 "Language-Team: Persian (http://www.transifex.com/qgis/qgis-website/language/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fa\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-
-#: ../../source/site/getinvolved/donations.rst:9
-msgid "QGIS Donations"
-msgstr "کمک های اهدائی به کوانتم جی ای اس"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: ../../source/site/getinvolved/donations.rst:5
 msgid ""
 "Content is not used, it is overridden by themes/qgis-"
 "theme/getinvolved_donations.html."
 msgstr ""
+
+#: ../../source/site/getinvolved/donations.rst:9
+msgid "Donations"
+msgstr ""
+
+#~ msgid "QGIS Donations"
+#~ msgstr ""
 
 #~ msgid ""
 #~ "Content is not used, it is overridden by themes/qgis-"

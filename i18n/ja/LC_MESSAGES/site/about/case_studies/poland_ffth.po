@@ -4,21 +4,22 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# fairtommy <fairtommy@gmail.com>, 2018
+# tomoyuki arai <tarai.3367@gmail.com>, 2022
+# fairtommy <fairtommy@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:26+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -165,6 +166,9 @@ msgstr ""
 " 'ジオプロセシング' "
 "モデラーを使用して、オペレーターから必要な入力データだけを必要とするモデルを作成しました。アルゴリズムの複雑さは、設計されたフローの形式でモデル内にカプセル化されました。これは既存のQGISアルゴリズムを使用し、専用のスクリプトを呼び出します。"
 
+msgid "Toolbox"
+msgstr "ツールボックス"
+
 #: ../../source/site/about/case_studies/poland_ffth.rst:79
 msgid ""
 "To prevent the results of subsequent analyses from getting mixed up, we "
@@ -172,6 +176,9 @@ msgid ""
 "called work contexts."
 msgstr ""
 "後続の分析結果が混同するのを防ぐために、WorkContextTracerというプラグインを用意しました。このプラグインは、私たちの作業をいわゆるワークコンテキストでグループ化しています。"
+
+msgid "Workorder"
+msgstr ""
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:86
 msgid ""
@@ -213,6 +220,9 @@ msgid ""
 msgstr ""
 "ユーザーは、新しい作業コンテキストを開き、解析されるアドレスポイントの入力レイヤーを指定することによって作業を開始しました。標準的なQGISインタフェースを使用して、ユーザーはアドレスポイント上に一連の要求を確立し、アルゴリズムのさらなるステップに必要なパラメータを最終的に提供することができます。"
 
+msgid "Step 1: input layer"
+msgstr ""
+
 #: ../../source/site/about/case_studies/poland_ffth.rst:113
 msgid ""
 "Without having information about the existing civil infrastructure, a "
@@ -223,6 +233,9 @@ msgid ""
 msgstr ""
 "既存の市民インフラに関する情報がなくても、適切にフィルタリングされたOpenStreet道路ネットワークがルーティングレイヤーとして使用されました。入力パラメータを与えられたScipyアルゴリズムは、アドレスポイントを特定のクラスタへの割り当てを示す別の色でマークする需要集約に集約しました。"
 
+msgid "Step 1"
+msgstr ""
+
 #: ../../source/site/about/case_studies/poland_ffth.rst:126
 msgid ""
 "Having all address points clustered, user initiated the steps of high level "
@@ -230,6 +243,9 @@ msgid ""
 " with GPON network starting point."
 msgstr ""
 "すべてのアドレスポイントがクラスタ化されているので、ユーザーは前の手順で準備したレイヤーとGPONネットワークの開始ポイントを持つレイヤーを提供する高水準ネットワーク計画のステップを開始しました。"
+
+msgid "step 1: result"
+msgstr ""
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:135
 msgid ""
@@ -240,6 +256,9 @@ msgid ""
 msgstr ""
 "アルゴリズムが完了すると、QGISに計画されたケーブルとスプライスの閉鎖位置を表すジオメトリオブジェクトがあります。需要データとネットワークトポロジに基づいて、ケーブルの長さ、その断面、ノードのサービス地域などの追加情報がデータベースに格納されます。"
 
+msgid "step 4: results"
+msgstr ""
+
 #: ../../source/site/about/case_studies/poland_ffth.rst:145
 msgid ""
 "At this stage, the user already had all pieces of the information to develop"
@@ -248,6 +267,12 @@ msgid ""
 "different perspectives."
 msgstr ""
 "この段階で、ユーザーは既に高レベルのFTTxネットワーク技術コンセプトを開発するためのすべての情報を持っていました。最終的な部分は、いくつかの異なる視点からすべての計算データを示すデータレポートスプレッドシートを作成することでした。"
+
+msgid "Report generated"
+msgstr ""
+
+msgid "Report generated and tranformed"
+msgstr ""
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:162
 msgid "Conclusion"
@@ -364,3 +389,11 @@ msgid ""
 "software for the telecommunications industry for over 15 years."
 msgstr ""
 "このQGISベースのソリューションの作者はSoftelnet（https://www.softelnet.com）です。Softelnetは、15年以上の間、通信業界向けのソフトウェアの製造と統合を行っています。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

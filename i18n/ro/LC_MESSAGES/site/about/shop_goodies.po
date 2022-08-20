@@ -1,18 +1,18 @@
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2015-2016,2018,2020
+# Sorin Călinică <scalinica@gmail.com>, 2015-2016,2018,2020,2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
-"PO-Revision-Date: 2020-06-05 05:25+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2015-2016,2018,2020,2022\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -28,11 +28,17 @@ msgid ""
 "stores below!"
 msgstr "Dacă sunteți un fan QGIS, ați putea dori să vizitați magazinul nostru astfel încât să puteți cumpăra unele suveniruri care ar putea scoate în evidență aplicația GIS preferată. Avem un număr de mare tricouri, căni, hanorace, șepci și așa mai departe, așa că vă așteptăm la unul din magazinele noastre de mai jos!"
 
+msgid "QGIS mugs"
+msgstr ""
+
 #: ../../source/site/about/shop_goodies.rst:16
 msgid ""
-"Buying QGIS apparrel not only lets you show off the fact that you use QGIS, "
-"for every t-shirt sold a commision is given to the QGIS project."
+"Buying QGIS apparel not only lets you show off the fact that you use QGIS, "
+"for every t-shirt sold a commission is given to the QGIS project."
 msgstr "Prin cumpărăturile QGIS arătați nu doar faptul că utilizați QGIS, dar pentru fiecare tricou vândut un comision este transferat proiectului QGIS."
+
+msgid "QGIS tshirt"
+msgstr ""
 
 #: ../../source/site/about/shop_goodies.rst:25
 msgid "Shops"
@@ -45,8 +51,11 @@ msgid ""
 msgstr "Conlucrăm cu Spreadshirt. Aceștia livrează produsele în toate țările din lume."
 
 #: ../../source/site/about/shop_goodies.rst:30
-msgid "http://shop.spreadshirt.net/qgis/"
-msgstr "http://shop.spreadshirt.net/qgis/"
+msgid "https://shop.spreadshirt.net/qgis/"
+msgstr "https://shop.spreadshirt.net/qgis/"
+
+msgid "QGIS Hoodie"
+msgstr ""
 
 #: ../../source/site/about/shop_goodies.rst:37
 msgid ""
@@ -57,6 +66,14 @@ msgstr "Unele modele mai creative și amuzante (dar neoficiale) pot fi găsite �
 #: ../../source/site/about/shop_goodies.rst:39
 msgid "https://www.redbubble.com/shop/qgis"
 msgstr "https://www.redbubble.com/shop/qgis"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS shop"
 #~ msgstr ""
@@ -109,4 +126,12 @@ msgstr "https://www.redbubble.com/shop/qgis"
 #~ msgstr ""
 
 #~ msgid "http://shop.spreadshirt.net/qgis/ (Europe)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Buying QGIS apparrel not only lets you show off the fact that you use QGIS, "
+#~ "for every t-shirt sold a commision is given to the QGIS project."
+#~ msgstr ""
+
+#~ msgid "http://shop.spreadshirt.net/qgis/"
 #~ msgstr ""

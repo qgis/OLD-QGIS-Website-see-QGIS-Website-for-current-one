@@ -4,21 +4,22 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# Tomas Straupis, 2020
+# Jürgen E. Fischer <jef@norbit.de>, 2022
+# Tomas Straupis, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:40+0000\n"
-"Last-Translator: Tomas Straupis, 2020\n"
+"Last-Translator: Tomas Straupis, 2022\n"
 "Language-Team: Lithuanian (https://www.transifex.com/qgis/teams/6144/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
@@ -81,11 +82,20 @@ msgstr "Atvirų QGIS kursų publikavimas"
 msgid "Authoring QGIS books"
 msgstr "QGIS knygų rašymas"
 
-#: ../../source/site/getinvolved/certification.rst:23
-msgid "Workflow Certification"
-msgstr "Sertifikavimo seka"
+#: ../../source/site/getinvolved/certification.rst:20
+msgid ""
+"To contact the certification team, please write to certification@qgis.org."
+msgstr ""
 
-#: ../../source/site/getinvolved/certification.rst:25
+#: ../../source/site/getinvolved/certification.rst:24
+msgid "Certification Process"
+msgstr ""
+
+#: ../../source/site/getinvolved/certification.rst:27
+msgid "Application"
+msgstr "Programa"
+
+#: ../../source/site/getinvolved/certification.rst:29
 msgid ""
 "You are required to provide the training material for each of your courses. "
 "This includes exercises, lectures and data. This material will be reviewed "
@@ -98,7 +108,7 @@ msgstr ""
 "projekto pateikimo tikslumas ir bendra kokybė. Jei medžiaga bus nepakankamos"
 " kokybės, tai gali būti atmetimo priežastis."
 
-#: ../../source/site/getinvolved/certification.rst:28
+#: ../../source/site/getinvolved/certification.rst:32
 msgid ""
 "Following an initial review, the application will be sent to local QGIS "
 "groups for their opinion. This portion of the review should take place in "
@@ -116,7 +126,7 @@ msgstr ""
 "Pastaruoju atveju jums siūloma sukurti QGIS naudotojų grupę. Jei nesate "
 "geras QGIS bendruomenės narys, tai gali būti atmetimo priežastimi."
 
-#: ../../source/site/getinvolved/certification.rst:30
+#: ../../source/site/getinvolved/certification.rst:34
 msgid ""
 "The PSC will make the final determination. If accepted as a QGIS Certified "
 "Organization your contributions to the project will be published for "
@@ -125,7 +135,7 @@ msgstr ""
 "PSC priims galutinį sprendimą. Jei būsite priimti kaip QGIS sertifikuota "
 "organizacija, jūsų indėlis į projektą bus publikuojamas viešumui užtikrinti."
 
-#: ../../source/site/getinvolved/certification.rst:32
+#: ../../source/site/getinvolved/certification.rst:36
 msgid ""
 "If approved you are required to pay a €20 certification fee to the QGIS "
 "project for each certificate you issue. This creates a mechanism for "
@@ -134,8 +144,13 @@ msgid ""
 "SEPA wire transfer. Payments can be handled in batches for many certificates"
 " at once."
 msgstr ""
+"Patvirtinus jums reikės atlikti €20 sertifikavimo mokestį QGIS projektui už "
+"kiekvieną sertifikatą. Tai sukuria projekto finansinio rėmimo mechanizmą. "
+"Mokėjimas už sertifikatus vykdomas arba internetu kreditine kortele, arba "
+"paprašius paprasta SEPA perlaidos sąskaita. Mokėjimus galima vykdyti už "
+"kelis sertifikatus iš karto."
 
-#: ../../source/site/getinvolved/certification.rst:35
+#: ../../source/site/getinvolved/certification.rst:39
 msgid ""
 "You can apply through `this form <certification_link_>`_ (make sure to first"
 " create a `login <certification_login_>`_). You can find more details about "
@@ -146,6 +161,22 @@ msgstr ""
 "sukurkite `paskyrą <certification_login_>`_). Daugiau informacijos apie "
 "sertifikavimo programą rasite `čia <certification_details_>`_ (siūlome "
 "perskaityti šią informaciją prieš registruojantis)."
+
+#: ../../source/site/getinvolved/certification.rst:47
+msgid "Course Certification Workflow"
+msgstr ""
+
+#: ../../source/site/getinvolved/certification.rst:52
+msgid "Workflow Certification"
+msgstr "Sertifikavimo seka"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "If approved you are required to make a €20 donation to the QGIS project for "

@@ -5,22 +5,24 @@
 # 
 # Translators:
 # Benoît de Cabissole, 2018
+# Harrissou Sant-anna, 2022
+# MarieSilvestre, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:26+0000\n"
-"Last-Translator: Benoît de Cabissole, 2018\n"
+"Last-Translator: MarieSilvestre, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:3
 msgid ""
@@ -204,6 +206,9 @@ msgstr ""
 "processus conçus qui utilisent des algorithmes existants de QGIS et des "
 "scripts dédiés."
 
+msgid "Toolbox"
+msgstr "Boîte à outils"
+
 #: ../../source/site/about/case_studies/poland_ffth.rst:79
 msgid ""
 "To prevent the results of subsequent analyses from getting mixed up, we "
@@ -213,6 +218,9 @@ msgstr ""
 "Pour éviter de mélanger les résultats des analyses successives, nous avons "
 "fourni une extension appelée WorkContextTracer qui groupe notre travail en "
 "soit-disant contextes de travail."
+
+msgid "Workorder"
+msgstr ""
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:86
 msgid ""
@@ -271,6 +279,9 @@ msgstr ""
 " de points d'adresse à analyser et finalement fournir les paramètres "
 "nécessaires aux étapes suivantes de l'algorithme."
 
+msgid "Step 1: input layer"
+msgstr ""
+
 #: ../../source/site/about/case_studies/poland_ffth.rst:113
 msgid ""
 "Without having information about the existing civil infrastructure, a "
@@ -285,6 +296,9 @@ msgstr ""
 "les points d'adresse en cumuls de demandes, les marquant d'une couleur "
 "distincte indiquant leur attribution à un groupement particulier."
 
+msgid "Step 1"
+msgstr ""
+
 #: ../../source/site/about/case_studies/poland_ffth.rst:126
 msgid ""
 "Having all address points clustered, user initiated the steps of high level "
@@ -295,6 +309,9 @@ msgstr ""
 "étapes de planification du réseau de haut niveau en fournissant les couches "
 "préparées à l'étape précédente et une couche contenant un point de départ "
 "pour le réseau GPON."
+
+msgid "step 1: result"
+msgstr ""
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:135
 msgid ""
@@ -310,6 +327,9 @@ msgstr ""
 "telles que la longueur des câbles, son profil, les zones de service des "
 "nœuds."
 
+msgid "step 4: results"
+msgstr ""
+
 #: ../../source/site/about/case_studies/poland_ffth.rst:145
 msgid ""
 "At this stage, the user already had all pieces of the information to develop"
@@ -321,6 +341,12 @@ msgstr ""
 "un concept technique de réseau FTTx de haut niveau. La dernière étape est la"
 " création de la feuille de calcul du rapport sur les données montant toutes "
 "les données calculées à partir de perspectives différentes."
+
+msgid "Report generated"
+msgstr ""
+
+msgid "Report generated and tranformed"
+msgstr ""
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:162
 msgid "Conclusion"
@@ -465,3 +491,11 @@ msgstr ""
 "L'auteur de cette solution basée sur QGIS est Softelnet "
 "(https://www.softelnet.com), une société produisant et intégrant des "
 "logiciels pour l'industrie des télécommunications depuis plus de 15 ans."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

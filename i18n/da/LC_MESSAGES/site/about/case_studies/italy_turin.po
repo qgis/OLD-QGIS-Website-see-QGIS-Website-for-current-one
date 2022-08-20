@@ -4,15 +4,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-22 11:32+0100\n"
-"PO-Revision-Date: 2020-03-16 09:17+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-05-25 15:58+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Danish (http://www.transifex.com/qgis/qgis-website/language/da/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: da\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:3
+msgid ""
+"The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
+"photo archive management"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_turin.rst:5
 msgid ""
@@ -32,6 +39,19 @@ msgid ""
 "field survey, modelling and historical records analysis, aerial photograms "
 "are employed. Their use varies, from “simple” visual analyses to complex "
 "processing as stereoplotting or image segmentation."
+msgstr ""
+
+#: ../../source/site/about/case_studies/italy_turin.rst:9
+msgid ""
+"The institute, for the explained purposes, keeps in its archive about "
+"170000, recent and historical, photograms --- the oldest one dating back to "
+"1920s (Figure 1) --- covering, in different years, the Po basin or part of "
+"it. Some photograms cover other basins in northern Italy. In addition the "
+"archives keeps flight plans of the described photograms (Figure 1)."
+msgstr ""
+
+#: ../../source/site/about/case_studies/italy_turin.rst:16
+msgid "1929 photogram (left) and 1954 flight plan (right)"
 msgstr ""
 
 #: ../../source/site/about/case_studies/italy_turin.rst:16
@@ -142,6 +162,15 @@ msgstr "Forfatter"
 msgid "Danilo Godone"
 msgstr ""
 
+#: ../../source/site/about/case_studies/italy_turin.rst:73
+msgid ""
+"Danilo Godone is a Postdoc grant holder, at Turin University, studying "
+"geomatic contribution in landslide, glacier and, more generally, natural "
+"disasters monitoring. He is a member of NATRISK --- Research Centre on "
+"Natural Risks in Mountain and Hilly Environments, in the same University. He"
+" acts as a freelance consultant in the same topics, too."
+msgstr ""
+
 #: ../../source/site/about/case_studies/italy_turin.rst:80
 msgid "Franco Godone"
 msgstr ""
@@ -154,28 +183,12 @@ msgid ""
 "alpine regions."
 msgstr ""
 
-#: ../../source/site/about/case_studies/italy_turin.rst:3
-msgid ""
-"The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
-"photo archive management"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
 msgstr ""
 
-#: ../../source/site/about/case_studies/italy_turin.rst:9
-msgid ""
-"The institute, for the explained purposes, keeps in its archive about "
-"170000, recent and historical, photograms --- the oldest one dating back to "
-"1920s (Figure 1) --- covering, in different years, the Po basin or part of "
-"it. Some photograms cover other basins in northern Italy. In addition the "
-"archives keeps flight plans of the described photograms (Figure 1)."
-msgstr ""
-
-#: ../../source/site/about/case_studies/italy_turin.rst:73
-msgid ""
-"Danilo Godone is a Postdoc grant holder, at Turin University, studying "
-"geomatic contribution in landslide, glacier and, more generally, natural "
-"disasters monitoring. He is a member of NATRISK --- Research Centre on "
-"Natural Risks in Mountain and Hilly Environments, in the same University. He"
-" acts as a freelance consultant in the same topics, too."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid ""

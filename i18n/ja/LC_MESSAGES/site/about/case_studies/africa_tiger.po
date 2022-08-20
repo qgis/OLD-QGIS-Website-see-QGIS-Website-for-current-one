@@ -6,13 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2018-12-13 03:09+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:43+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -80,6 +81,10 @@ msgid ""
 "standardized workflows (with instructions) for performing common but complex"
 " tasks related to EO data analysis within water resource management."
 msgstr "処理ツールボックスの重要な利点は、シームレスにデータ処理および分析のための別のアルゴリズムプロバイダからの機能を使用する能力です。これは、自動処理のモデルを作成し、TIGER-NETプロジェクトで開発されたQGISプラグインを通じて、順次ウィザードベースの処理チェーンに異なるプロバイダからアルゴリズムを組み合わせるために使用することができます。この機能は、水資源管理の中EOデータ分析に関連する共通だが複雑なタスクを実行するための（説明書付き）標準化されたワークフローのライブラリーを作成するために使用されました。"
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:22
+msgid "The WOIS graphical user interface"
+msgstr ""
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:22
 msgid ""
@@ -208,3 +213,11 @@ msgid ""
 " (http://rs.geo.tuwien.ac.at/) and Copenhagen (http://www.env.dtu.dk/) as "
 "well as the European Space Agency ( www.esa.int)."
 msgstr "この記事はラドスロー・ガジンスキー（WOISのソフトウェア開発者）によって寄稿されました 。DHI-GRAS（ www.dhi-gras.com ）、GeoVille（ www.geoville.com ）、ウィーン技術大学（http://rs.geo.tuwien.ac.at/ とコペンハーゲン（ http://www.env.dtu.dk/ ）だけでなく、欧州宇宙機関（ www.esa.int ）TIGER-NET技術チームからの貢献ともに。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

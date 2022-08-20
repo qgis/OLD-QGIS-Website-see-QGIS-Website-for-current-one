@@ -1,8 +1,8 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2014
-# Manuela Silva <manuelarodsilva@gmail.com>, 2020
-# Manuela Silva <manuelarodsilva@gmail.com>, 2018
+# Manuela Silva <mmsrs@sky.com>, 2020
+# Manuela Silva <mmsrs@sky.com>, 2018
 # Paula Moreira <prmpaula@gmail.com>, 2018
 # Rui <xymarior@yandex.com>, 2018
 # slopes <sandramnlopes@gmail.com>, 2016
@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-07 15:40+0200\n"
-"PO-Revision-Date: 2020-07-31 15:42+0000\n"
-"Last-Translator: Manuela Silva <manuelarodsilva@gmail.com>\n"
+"PO-Revision-Date: 2014-08-07 14:36+0000\n"
+"Last-Translator: Manuela Silva <mmsrs@sky.com>, 2020\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pt_PT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:3
 msgid "12th QGIS Developer Meeting in Essen"
@@ -230,8 +230,9 @@ msgstr "Outras hiperligações"
 
 #: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:63
 msgid ""
-"`Wiki page of the QGIS Hackfest in Essen 2014 <http://hub.qgis.org/wiki"
-"/quantum-gis/12_QGIS_Developer_Meeting_in_Essen_2014>`_"
+"`Wiki page of the QGIS Hackfest in Essen 2014 "
+"<http://hub.qgis.org/wiki/quantum-"
+"gis/12_QGIS_Developer_Meeting_in_Essen_2014>`_"
 msgstr "`Página Wiki do QGIS Hackfest em Essen 2014 <http://hub.qgis.org/wiki/quantum-gis/12_QGIS_Developer_Meeting_in_Essen_2014>`_"
 
 #: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:64
@@ -249,8 +250,8 @@ msgstr "`Fotos do QGIS Hackfest in Essen 2014 colhidas pela Anita Graser <https:
 #: ../../source/site/getinvolved/meetings/developer/Essen_2014.rst:66
 msgid ""
 "`General information on Sponsoring a QGIS Hackfest "
-"<https://qgis.org/en/site/getinvolved/governance/sponsorship/sponsorship.html"
-"#qgis-sponsorship-program>`_"
+"<https://qgis.org/en/site/getinvolved/governance/sponsorship/sponsorship.html#qgis-"
+"sponsorship-program>`_"
 msgstr ""
 
 #~ msgid "October 2nd-5th 2014, developer meeting Essen"

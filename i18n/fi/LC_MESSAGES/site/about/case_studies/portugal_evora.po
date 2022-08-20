@@ -4,13 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2020-03-16 09:08+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Finnish (http://www.transifex.com/qgis/qgis-website/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -18,10 +19,60 @@ msgstr ""
 msgid "QGIS and GRASS in Biogeographical Research in the Iberian Peninsula"
 msgstr ""
 
+#: ../../source/site/about/case_studies/portugal_evora.rst:5
+msgid ""
+"I started applying GIS to my work in biogeography about 10 years ago. "
+"Through my graduate internship, PhD work and two other research jobs, I used"
+" the proprietary software packages that were available and used at my "
+"workplaces --– mainly CartaLinx, Idrisi, ArcView and ArcGIS. But I found it "
+"rather annoying that we were constantly dealing with license renewal issues,"
+" and that I could not use the software away from the workplace unless I "
+"acquired my own license."
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:11
+msgid "Distribution of Spanish algyroides"
+msgstr ""
+
 #: ../../source/site/about/case_studies/portugal_evora.rst:11
 msgid ""
 "Distribution of Spanish algyroides (Algyroides marchi) at three spatial "
 "scales and from two different data sources."
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:13
+msgid ""
+"It crossed my mind on several occasions that switching to free software "
+"would spare me those problems. However, there was prejudice against the "
+"analytical capabilities of free software, and even after I heard about the "
+"potential of GRASS, I was still reluctant because I thought it would be too "
+"difficult to learn. I was also afraid it would be cumbersome to migrate all "
+"the maps and analyses that I had done so far. At the beginning of my post-"
+"doc in 2008, I finally gave it an opportunity and took a training course on "
+"QGIS and GRASS. It was probably the best decision of my professional life! I"
+" found that QGIS provided a very intuitive interface for GRASS, hat they "
+"complemented each other perfectly, and they provided all the analytical "
+"capabilities I needed."
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:15
+msgid ""
+"I started using both programs immediately after the course. Not only did I "
+"begin all my new GIS work with QGIS/GRASS [e.g. 1, 2], but I also did "
+"follow-up analyses on previous works that I had done with commercial "
+"software. For example, I had built models of otter [3] and desman [4] "
+"distribution in the Iberian Peninsula. After switching to QGIS-GRASS, I "
+"analysed how those models behaved when downscaled to a finer resolution [5]."
+" Another previous work on biogeographic relationships between Iberian lynx "
+"and rabbit [6] had a follow-up after I switched to QGIS-GRASS [7]. Not only "
+"did I not have any problems with the migration of the data and previous "
+"results: I also found it much easier to do the things I wanted to do with "
+"the new software, and was able to do extra analyses which I could not have "
+"done with the programs I used before."
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:21
+msgid "Environmental suitability for the Pyrenean desman"
 msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:21
@@ -42,17 +93,6 @@ msgid ""
 "having to worry about software licenses or moving to new institutions. Open-"
 "source software covers all my research needs and gives me the freedom I "
 "longed for."
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:41
-msgid "Author"
-msgstr "Tekijä"
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:50
-msgid ""
-"This article was contributed in July 2010 by A. Márcia Barbosa. She is a "
-"post-doctoral researcher at Imperial College London (UK) and the University "
-"of Évora (Portugal)."
 msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:30
@@ -111,50 +151,31 @@ msgid ""
 "genetic diversity of the European rabbit. Wildlife Biology in Practice.\""
 msgstr ""
 
-#: ../../source/site/about/case_studies/portugal_evora.rst:5
-msgid ""
-"I started applying GIS to my work in biogeography about 10 years ago. "
-"Through my graduate internship, PhD work and two other research jobs, I used"
-" the proprietary software packages that were available and used at my "
-"workplaces --– mainly CartaLinx, Idrisi, ArcView and ArcGIS. But I found it "
-"rather annoying that we were constantly dealing with license renewal issues,"
-" and that I could not use the software away from the workplace unless I "
-"acquired my own license."
-msgstr ""
+#: ../../source/site/about/case_studies/portugal_evora.rst:41
+msgid "Author"
+msgstr "Tekijä"
 
-#: ../../source/site/about/case_studies/portugal_evora.rst:13
-msgid ""
-"It crossed my mind on several occasions that switching to free software "
-"would spare me those problems. However, there was prejudice against the "
-"analytical capabilities of free software, and even after I heard about the "
-"potential of GRASS, I was still reluctant because I thought it would be too "
-"difficult to learn. I was also afraid it would be cumbersome to migrate all "
-"the maps and analyses that I had done so far. At the beginning of my post-"
-"doc in 2008, I finally gave it an opportunity and took a training course on "
-"QGIS and GRASS. It was probably the best decision of my professional life! I"
-" found that QGIS provided a very intuitive interface for GRASS, hat they "
-"complemented each other perfectly, and they provided all the analytical "
-"capabilities I needed."
-msgstr ""
-
-#: ../../source/site/about/case_studies/portugal_evora.rst:15
-msgid ""
-"I started using both programs immediately after the course. Not only did I "
-"begin all my new GIS work with QGIS/GRASS [e.g. 1, 2], but I also did "
-"follow-up analyses on previous works that I had done with commercial "
-"software. For example, I had built models of otter [3] and desman [4] "
-"distribution in the Iberian Peninsula. After switching to QGIS-GRASS, I "
-"analysed how those models behaved when downscaled to a finer resolution [5]."
-" Another previous work on biogeographic relationships between Iberian lynx "
-"and rabbit [6] had a follow-up after I switched to QGIS-GRASS [7]. Not only "
-"did I not have any problems with the migration of the data and previous "
-"results: I also found it much easier to do the things I wanted to do with "
-"the new software, and was able to do extra analyses which I could not have "
-"done with the programs I used before."
+#: ../../source/site/about/case_studies/portugal_evora.rst:48
+msgid "A. Márcia Barbosa"
 msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:48
 msgid "A Márcia Barbosa"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_evora.rst:50
+msgid ""
+"This article was contributed in July 2010 by A. Márcia Barbosa. She is a "
+"post-doctoral researcher at Imperial College London (UK) and the University "
+"of Évora (Portugal)."
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid ""

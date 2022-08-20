@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-19 17:16+0100\n"
-"PO-Revision-Date: 2020-03-16 09:28+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
+"PO-Revision-Date: 2016-03-05 14:48+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Korean (http://www.transifex.com/qgis/qgis-website/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,11 +20,11 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:4
 msgid "QGIS Coding Standards"
-msgstr ""
+msgstr "QGIS 코딩 표준"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:7
 msgid "These standards should be followed by all QGIS developers."
-msgstr ""
+msgstr "이 표준은 모든 QGIS 개발자가 준수해야합니다."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:10
 msgid "Classes"
@@ -33,47 +33,47 @@ msgstr "급간"
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:14
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:91
 msgid "Names"
-msgstr ""
+msgstr "이름"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:16
 msgid "Class in QGIS begin with Qgs and are formed using camel case."
-msgstr ""
+msgstr "QGIS의 클래스는 Qgs로 시작하며 카멜 케이스로 형성됩니다."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:18
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:70
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:141
 msgid "Examples:"
-msgstr ""
+msgstr "예시"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:20
 msgid "``QgsPoint``"
-msgstr ""
+msgstr "``QgsPoint``"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:21
 msgid "``QgsMapCanvas``"
-msgstr ""
+msgstr "``QgsMapCanvas``"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:22
 msgid "``QgsRasterLayer``"
-msgstr ""
+msgstr "``QgsRasterLayer``"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:26
 msgid "Members"
-msgstr ""
+msgstr "멤버"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:29
 msgid ""
 "Class member names begin with a lower case m and are formed using mixed "
 "case."
-msgstr ""
+msgstr "클래스 멤버 이름은 소문자 m으로 시작하며 대소문자를 혼합하여 형성됩니다."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:32
 msgid "``mMapCanvas``"
-msgstr ""
+msgstr "``mMapCanvas``"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:33
 msgid "``mCurrentExtent``"
-msgstr ""
+msgstr "``mCurrentExtent``"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:35
 msgid ""
@@ -83,22 +83,22 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:40
 msgid "Accessor Functions"
-msgstr ""
+msgstr "접근자 함수"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:43
 msgid ""
 "Class member values should be obtained through accesssor functions. The "
 "function should be named without a get prefix. Accessor functions for the "
 "two private members above would be:"
-msgstr ""
+msgstr "접근자(accesssor) 함수를 통해 클래스 멤버 값을 얻어야 합니다. 이 함수의 이름에는 접두어 ``get`` 이 없어야 합니다. 앞에 예를 든 프라이빗 멤버 2개에 대한 접근자 함수는 다음과 같을 것입니다:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:47
 msgid "``mapCanvas()``"
-msgstr ""
+msgstr "``mapCanvas()``"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:48
 msgid "``currentExtent()``"
-msgstr ""
+msgstr "``currentExtent()``"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:52
 msgid "Functions"
@@ -109,15 +109,15 @@ msgid ""
 "Function names begin with a lowercase letter and are formed using mixed "
 "case. The function name should convey something about the purpose of the "
 "function."
-msgstr ""
+msgstr "함수 이름은 소문자로 시작해서 대소문자를 혼합해 형성됩니다. 함수 이름은 해당 함수의 목적을 어느 정도 반영해야 합니다."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:58
 msgid "``updateMapExtent()``"
-msgstr ""
+msgstr "``updateMapExtent()``"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:59
 msgid "``setUserOptions()``"
-msgstr ""
+msgstr "``setUserOptions()``"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:62
 msgid "Qt Designer"
@@ -293,9 +293,9 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:206
 msgid ""
-"Source code should be indented to improve readability. There is a ``scripts"
-"/prepare-commit.sh`` that looks up the changed files and reindents them "
-"using astyle. This should be run before committing. You can also use "
+"Source code should be indented to improve readability. There is a "
+"``scripts/prepare-commit.sh`` that looks up the changed files and reindents "
+"them using astyle. This should be run before committing. You can also use "
 "``scripts/astyle.sh`` to indent individual files."
 msgstr ""
 

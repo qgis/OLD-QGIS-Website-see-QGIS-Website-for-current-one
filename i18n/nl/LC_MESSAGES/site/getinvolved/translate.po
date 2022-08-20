@@ -2,20 +2,22 @@
 # Translators:
 # DiGro, 2014-2019
 # Diethard Jansen <diethard.jansen@gmail.com>, 2013-2014
+# DiGro, 2022
+# Jeroen Hovens <jeroen@groenebij.nl>, 2022
 # Raymond Nijssen <r.nijssen@terglobo.nl>, 2014
 # Vincent <vincent@stedema.nl>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
-"PO-Revision-Date: 2019-07-18 09:41+0000\n"
-"Last-Translator: DiGro\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Jeroen Hovens <jeroen@groenebij.nl>, 2022\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -51,8 +53,8 @@ msgid ""
 "QGIS into a not yet existing language, see :ref:`becoming-translator`. For "
 "any other related questions, please contact the :ref:`Translation Team "
 "Leader <gui-translation>` or subscribe to the `QGIS Translation mailing list"
-" <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
-msgstr "Wanneer u van plan bent om een bijdrage te leveren aan een bestaande taal, of wanneer u QGIS naar een nog niet bestaande taal wilt vertalen, bekijk dan :ref:`becoming-translator`. Neem, voor alle andere gerelateerde vragen, contact op met de :ref:`Translation Team Leader <gui-translation>` of schrijf u in voor de `QGIS Translation mailinglijst <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
+" <https://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
+msgstr "Wanneer je van plan bent om een bijdrage te leveren aan een bestaande taal, of wanneer je QGIS naar een nog niet bestaande taal wilt vertalen, bekijk dan :ref:`becoming-translator`. Neem, voor alle andere gerelateerde vragen, contact op met de :ref:`Translation Team Leader <gui-translation>` of schrijf je in voor de `QGIS Translation mailinglijst <https://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
 
 #: ../../source/site/getinvolved/translate.rst:30
 msgid ""
@@ -69,7 +71,7 @@ msgstr "Wij willen iedereen die iets doet met vertalingen oproepen om lid te wor
 #: ../../source/site/getinvolved/translate.rst:36
 msgid ""
 "The other available mailing lists can be found at :ref:`QGIS-mailinglists`."
-msgstr "De andere beschikbare mailinglijsten vindt u hier :ref:`QGIS-mailinglists`."
+msgstr "De andere beschikbare mailinglijsten vindt je hier :ref:`QGIS-mailinglists`."
 
 #: ../../source/site/getinvolved/translate.rst:42
 msgid "GUI Translation"
@@ -94,7 +96,7 @@ msgid ""
 "Applications or who is currently working on your language you have to take a"
 " look in the :menuselection:`Help --> About --> Translators` Box in the QGIS"
 " Desktop Application."
-msgstr "Wanneer u er achter wilt komen of uw taal al aanwezig is in QGIS of wie er momenteel werken aan uw taal, kijk dan in de toepassing QGIS desktop in het menu :menuselection:`Help --> Info --> Vertalers`."
+msgstr "Wanneer je er achter wilt komen of jouw taal al aanwezig is in QGIS of wie er momenteel werken aan uw taal, kijk dan in de toepassing QGIS desktop in het menu :menuselection:`Help --> Info --> Vertalers`."
 
 #: ../../source/site/getinvolved/translate.rst:55
 msgid ""
@@ -102,7 +104,7 @@ msgid ""
 "every \"stable\" version it will always stay at the same level). For finding"
 " the current percentage of translation you will either have to install the "
 "nightly build of QGIS or checkout the source code of QGIS."
-msgstr "U zult daar ook de voortgang van de vertalingen vinden (maar onthoud dat die in de \"stabiele\" versie altijd hetzelfde blijft).  U zult de ontwikkelversie \"the nightly build\" van QGIS moeten installeren of de broncode van QGIS moeten uitchecken om het huidige percentage van de vertaling te zien."
+msgstr "Je zult daar ook de voortgang van de vertalingen vinden (maar onthoud dat die in de \"stabiele\" versie altijd hetzelfde blijft). Je zult de ontwikkelversie \"the nightly build\" van QGIS moeten installeren of de broncode van QGIS moeten uitchecken om het huidige percentage van de vertaling te zien."
 
 #: ../../source/site/getinvolved/translate.rst:60
 msgid ""
@@ -111,7 +113,7 @@ msgid ""
 "that, the rapid development of the application continuously causes new and "
 "edited texts to be translated. A huge effort and your help will be "
 "appreciated!"
-msgstr "De gehele interface bevat meer dan tienduizend stukken tekst en een volledige vertaling zal dagen, maar eerder weken duren om te voltooien. Daarnaast zorgt de snelle ontwikkeling van de toepassing er doorlopend voor dat nieuwe en bewerkte teksten moeten worden vertaald. Een enorme inspanning en uw hulp wordt zeer op prijs gesteld!"
+msgstr "De gehele interface bevat meer dan tienduizend stukken tekst en een volledige vertaling zal dagen, maar eerder weken duren om te voltooien. Daarnaast zorgt de snelle ontwikkeling van de toepassing er doorlopend voor dat nieuwe en bewerkte teksten moeten worden vertaald. Een enorme inspanning en jouw hulp wordt zeer op prijs gesteld!"
 
 #: ../../source/site/getinvolved/translate.rst:69
 msgid "Becoming a translator"
@@ -144,7 +146,7 @@ msgid ""
 "Please contact the :ref:`Translation team leader <gui-translation>` or "
 ":ref:`Community Assistant <community-resources>` to see your name entered in"
 " the About Box of QGIS Desktop."
-msgstr "Neem kontakt op met de :ref:`Translation team leader <gui-translation>` of de :ref:`Community Assistant <community-resources>` om uw naam te zien ingevoerd in de About Box van QGIS Desktop."
+msgstr "Neem contact op met de :ref:`Translation team leader <gui-translation>` of de :ref:`Community Assistant <community-resources>` om je naam te zien ingevoerd in de About Box van QGIS Desktop."
 
 #: ../../source/site/getinvolved/translate.rst:90
 msgid "Transifex"
@@ -156,15 +158,15 @@ msgid ""
 "translations; the desktop application itself (or GUI), the documentation and"
 " the web site. So the first thing you need is an account to login and get "
 "started."
-msgstr "De online toepassing Transifex wordt gebruikt voor het vertalen van het project QGIS; de toepassing voor de desktop zelf, de documentatie en de website. Dus het eerste wat u nodig heeft is een account om in te loggen."
+msgstr "De online toepassing Transifex wordt gebruikt voor het vertalen van het project QGIS; de toepassing voor de desktop zelf, de documentatie en de website. Dus het eerste wat je nodig hebt is een account om in te loggen."
 
 #: ../../source/site/getinvolved/translate.rst:98
 msgid "Join a Project"
 msgstr "Aan een project deelnemen"
 
 #: ../../source/site/getinvolved/translate.rst:100
-msgid "Go to http://www.transifex.com and create a new account"
-msgstr "Ga naar http://www.transifex.com en maak een nieuw account"
+msgid "Go to https://www.transifex.com and create a new account"
+msgstr "Ga naar https://www.transifex.com en maak een nieuw account"
 
 #: ../../source/site/getinvolved/translate.rst:101
 msgid "Verify your account by the link in the email you will receive"
@@ -194,17 +196,17 @@ msgstr "**QGIS Desktop** voor alle beschikbare stukken tekst in toepassingen van
 
 #: ../../source/site/getinvolved/translate.rst:109
 msgid ""
-"**QGIS Docs and Website** to translate both QGIS web site and current "
+"**QGIS Docs and Website** to translate both QGIS website and current "
 "documentation."
 msgstr "**QGIS Docs and Website** om zowel de QGIS website als de huidige documentatie te vertalen."
 
 #: ../../source/site/getinvolved/translate.rst:111
 msgid "Choose in which part of the project you would like to participate"
-msgstr "Kies aan welk gedeelte van het project u zou willen deelnemen"
+msgstr "Kies aan welk gedeelte van het project je zou willen deelnemen"
 
 #: ../../source/site/getinvolved/translate.rst:112
 msgid "You can be part of all projects and help everywhere too"
-msgstr "U mag aan alle projecten deelnemen en ook overal helpen"
+msgstr "Je mag aan alle projecten deelnemen en ook overal helpen"
 
 #: ../../source/site/getinvolved/translate.rst:113
 msgid ""
@@ -217,7 +219,7 @@ msgid ""
 "If your language is not listed yet, click “Request language” and choose your"
 " language. Keep in mind that translating the entire Desktop Application will"
 " take days of work, if not weeks!"
-msgstr "Als uw taal nog niet is vermeld, klik dan op “Request language” en kies uw taal. Onthoud dat het vertalen van de gehele Desktop van de toepassing dagen zal vergen, als het al geen weken zijn!"
+msgstr "Als jouw taal nog niet is vermeld, klik dan op “Request language” en kies je taal. Onthoud dat het vertalen van de gehele Desktop van de toepassing dagen zal vergen, als het al geen weken zijn!"
 
 #: ../../source/site/getinvolved/translate.rst:118
 msgid ""
@@ -226,7 +228,7 @@ msgid ""
 " request has been accepted. If your request has no answer for about a week, "
 "please consider writing to your language coordinator in Transifex or the "
 ":ref:`QGIS Translators mailing list <mailinglist-translation>`."
-msgstr "Nu zult u even moeten wachten tot de coördinator van de taal of de beheerders van het project uw verzoek hebben verwerkt. U zult per e-mail in kennis worden gesteld als uw verzoek is geaccepteerd. Indien u na een week nog geen antwoord hebt ontvangen, overweeg dan om uw coördinator voor de taal in Transifex of de :ref:`QGIS Translators mailinglijst <mailinglist-translation>` aan te schrijven."
+msgstr "Nu zult je even moeten wachten tot de coördinator van de taal of de beheerders van het project uw verzoek hebben verwerkt. Je zult per e-mail in kennis worden gesteld als uw verzoek is geaccepteerd. Indien je na een week nog geen antwoord hebt ontvangen, overweeg dan om jouw coördinator voor de taal in Transifex of de :ref:`QGIS Translators mailinglijst <mailinglist-translation>` aan te schrijven."
 
 #: ../../source/site/getinvolved/translate.rst:126
 msgid ""
@@ -235,7 +237,7 @@ msgid ""
 "(regardless in which country you reside). Only if there are notable "
 "differences in the languages (for example portuguese in Portugal vs Brazil) "
 "we will create its own version."
-msgstr "Onthoud, met betrekking tot het aanvragen van een nieuwe taal, dat wij het zo eenvoudig mogelijk willen maken. Vraag naar de taal waarnaar u wilt vertalen (ongeacht in welk land u zich bevindt). Alleen als er opmerkelijke verschillen in de talen zijn (bijvoorbeeld Portugees in Portugal en in Brazilië) zullen we een eigen versie maken."
+msgstr "Onthoud, met betrekking tot het aanvragen van een nieuwe taal, dat wij het zo eenvoudig mogelijk willen maken. Vraag naar de taal waarnaar je wilt vertalen (ongeacht in welk land jij je bevindt). Alleen als er opmerkelijke verschillen in de talen zijn (bijvoorbeeld Portugees in Portugal en in Brazilië) zullen we een eigen versie maken."
 
 #: ../../source/site/getinvolved/translate.rst:133
 msgid "Translate"
@@ -246,15 +248,15 @@ msgid ""
 "Once your request is accepted, you are able to translate any text in the "
 "project(s) you've chosen. Simply click on your language, select the chapter "
 "you want to translate and click on Translate. Easy, right?"
-msgstr "Als uw verzoek is geaccepteerd, kunt u elke tekst in de door u gekozen project(en)vertalen. Klik eenvoudigweg op uw taal, selecteer het hoofdstuk dat u wilt vertalen en klik op Translate. Eenvoudig, niet?"
+msgstr "Als je verzoek is geaccepteerd, kunt je elke tekst in de door jouw gekozen project(en)vertalen. Klik eenvoudigweg op jouw taal, selecteer het hoofdstuk dat je wilt vertalen en klik op Translate. Eenvoudig, toch?"
 
 #: ../../source/site/getinvolved/translate.rst:139
 msgid ""
 "In order to help you make good translation, some instructions are provided "
 "in the `QGIS Translation Guidelines "
-"<http://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_."
+"<https://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_."
 " We strongly recommend you to read them."
-msgstr "Enkele instructies worden gegeven in de `QGIS Translation Guidelines <http://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_ om u te helpen een goede vertaling te maken. We raden u sterk aan om ze te lezen."
+msgstr "Enkele instructies worden gegeven in de `QGIS Translation Guidelines <https://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_ om jouw te helpen een goede vertaling te maken. We raden je sterk aan om ze te lezen."
 
 #: ../../source/site/getinvolved/translate.rst:144
 msgid "**Quick access to translatable files in Transifex**"
@@ -265,7 +267,15 @@ msgid ""
 "If you find a wrong or missing translation in the current documentation or "
 "web site, you can use the ``Fix me`` link at the bottom of the page to reach"
 " it sources in Transifex and perform any update you wish to."
-msgstr "Als u een foute of ontbrekende vertaling in de huidige documentatie of website vindt, kunt u de koppeling ``Repareer mij`` aan de onderzijde van de pagina gebruiken om naar de bron in Transifex te gaan en elke aanpassing te maken die u wilt."
+msgstr "Als je een foute of ontbrekende vertaling in de huidige documentatie of website vindt, kun je de koppeling ``Repareer mij`` aan de onderzijde van de pagina gebruiken om naar de bron in Transifex te gaan en elke aanpassing te maken die je wilt."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "QGIS is natively developed in English, either for the user interface (GUI) "
@@ -449,8 +459,8 @@ msgstr "Als u een foute of ontbrekende vertaling in de huidige documentatie of w
 #~ msgstr ""
 
 #~ msgid ""
-#~ "For the different Linux distributions you should find a package called \"qt4"
-#~ "-dev-tools\" or similar."
+#~ "For the different Linux distributions you should find a package called "
+#~ "\"qt4-dev-tools\" or similar."
 #~ msgstr ""
 
 #~ msgid ""
@@ -552,4 +562,27 @@ msgstr "Als u een foute of ontbrekende vertaling in de huidige documentatie of w
 #~ msgid ""
 #~ "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
 #~ "Desktop, QGIS Browser and QGIS Server),"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you plan to contribute to an existing language or you want to translate "
+#~ "QGIS into a not yet existing language, see :ref:`becoming-translator`. For "
+#~ "any other related questions, please contact the :ref:`Translation Team "
+#~ "Leader <gui-translation>` or subscribe to the `QGIS Translation mailing list"
+#~ " <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
+#~ msgstr ""
+
+#~ msgid "Go to http://www.transifex.com and create a new account"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**QGIS Docs and Website** to translate both QGIS web site and current "
+#~ "documentation."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In order to help you make good translation, some instructions are provided "
+#~ "in the `QGIS Translation Guidelines "
+#~ "<http://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_."
+#~ " We strongly recommend you to read them."
 #~ msgstr ""

@@ -5,21 +5,21 @@
 # 
 # Translators:
 # Jürgen E. Fischer <jef@norbit.de>, 2020
-# Tomas Straupis, 2020
+# Tomas Straupis, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:43+0000\n"
-"Last-Translator: Tomas Straupis, 2020\n"
+"Last-Translator: Tomas Straupis, 2022\n"
 "Language-Team: Lithuanian (https://www.transifex.com/qgis/teams/6144/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
@@ -30,6 +30,10 @@ msgstr "QGIS 3.6 pakeitimai"
 #: ../../source/site/forusers/visualchangelog36/index.rst:7
 msgid "|image1|"
 msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1509
+msgid "image1"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:9
 msgid ""
@@ -123,6 +127,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:32
 msgid "|image2|"
 msgstr "|image2|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1511
+msgid "image2"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:34
 #: ../../source/site/forusers/visualchangelog36/index.rst:41
@@ -357,6 +365,10 @@ msgstr ""
 msgid "|image3|"
 msgstr "|image3|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1513
+msgid "image3"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:114
 #: ../../source/site/forusers/visualchangelog36/index.rst:474
 #: ../../source/site/forusers/visualchangelog36/index.rst:1080
@@ -566,6 +578,10 @@ msgstr ""
 msgid "|image4|"
 msgstr "|image4|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1515
+msgid "image4"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:181
 msgid "Feature: Multiline selections and editing in code/expression editors"
 msgstr ""
@@ -772,6 +788,10 @@ msgstr ""
 msgid "|image5|"
 msgstr "|image5|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1517
+msgid "image5"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:233
 msgid ""
 "Feature: Raster fill can have images set to remote URLs or embedded images"
@@ -847,6 +867,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:256
 msgid "|image6|"
 msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1519
+msgid "image6"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:258
 #: ../../source/site/forusers/visualchangelog36/index.rst:339
@@ -943,14 +967,18 @@ msgstr ""
 msgid "|image7|"
 msgstr "|image7|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1521
+msgid "image7"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:295
 msgid "This feature was funded by OSGeo UK, GeoServer PSC, Brad Hards"
 msgstr "Šią savybę finansavo OSGeo UK, GeoServer PSC, Brad Hards"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:297
 msgid ""
-"This feature was developed by `Luigi Pirelli and GeoSolutions <https://www"
-".geo-solutions.it/>`__"
+"This feature was developed by `Luigi Pirelli and GeoSolutions "
+"<https://www.geo-solutions.it/>`__"
 msgstr ""
 "Šią savybę sukūrė `Luigi Pirelli and GeoSolutions <https://www.geo-"
 "solutions.it/>`__"
@@ -976,6 +1004,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:308
 msgid "|image8|"
 msgstr "|image8|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1523
+msgid "image8"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:310
 msgid ""
@@ -1392,6 +1424,10 @@ msgstr ""
 msgid "|image9|"
 msgstr "|image9|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1525
+msgid "image9"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:493
 msgid "Feature: Explode HStore algorithm"
 msgstr "Savybė: HStore išskleidimo algoritmas"
@@ -1409,6 +1445,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:498
 msgid "|image10|"
 msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1527
+msgid "image10"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:500
 msgid ""
@@ -1436,6 +1476,10 @@ msgstr ""
 msgid "|image11|"
 msgstr "|image11|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1529
+msgid "image11"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:514
 msgid "Feature: Extract Binary Field algorithm"
 msgstr "Savybė: dvejetainio lauko ištraukimo algoritmas"
@@ -1449,6 +1493,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:518
 msgid "|image12|"
 msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1531
+msgid "image12"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:525
 msgid "Feature: Split Lines by Maximum Length algorithm"
@@ -1474,6 +1522,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:531
 msgid "|image13|"
 msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1533
+msgid "image13"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:533
 msgid "This feature was developed by Nyall Dawson, Nathan Woodrow"
@@ -1536,6 +1588,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:558
 msgid "|image14|"
 msgstr "|image14|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1535
+msgid "image14"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:563
 msgid "Feature: Extract Z values and Extract M values algorithms"
@@ -1656,6 +1712,10 @@ msgstr ""
 msgid "|image15|"
 msgstr "|image15|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1537
+msgid "image15"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:604
 msgid "Feature: Resurrected model to Python script functionality"
 msgstr "Savybė: atgaivintas modelio į Pythono scenarijų funkcionalumas"
@@ -1671,6 +1731,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:608
 msgid "|image16|"
 msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1539
+msgid "image16"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:610
 msgid "This feature was funded by `Solspec <http://solspec.io>`__"
@@ -1698,6 +1762,10 @@ msgstr ""
 msgid "|image17|"
 msgstr "|image17|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1541
+msgid "image17"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:629
 msgid "Browser"
 msgstr "Naršyklė"
@@ -1721,6 +1789,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:636
 msgid "|image18|"
 msgstr "|image18|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1543
+msgid "image18"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:638
 msgid ""
@@ -1773,6 +1845,10 @@ msgstr ""
 msgid "|image19|"
 msgstr "|image19|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1545
+msgid "image19"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:663
 msgid "Feature: Explore QGS/QGZ project files in the browser"
 msgstr "Savybė: tirti naršyklėje QGS/QGZ projekto failus"
@@ -1811,6 +1887,10 @@ msgstr ""
 msgid "|image20|"
 msgstr "|image20|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1547
+msgid "image20"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:683
 msgid "Feature: Open Terminal at Path"
 msgstr "Savybė: atverti terminalą kelyje"
@@ -1841,6 +1921,10 @@ msgstr "Džiūgaukite, terminalo programišiai!"
 msgid "|image21|"
 msgstr "|image21|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1549
+msgid "image21"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:696
 msgid "General"
 msgstr "Bendra"
@@ -1853,6 +1937,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:701
 msgid "|image22|"
 msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1551
+msgid "image22"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:703
 msgid ""
@@ -1903,6 +1991,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:721
 msgid "|image23|"
 msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1553
+msgid "image23"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:723
 msgid ""
@@ -2129,6 +2221,10 @@ msgstr ""
 msgid "|image24|"
 msgstr "|image24|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1555
+msgid "image24"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:828
 msgid "This feature was developed by Marco Hugentobler"
 msgstr "Šią savybę sukūrė Marco Hugentobler"
@@ -2212,6 +2308,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog36/index.rst:875
 msgid "|image25|"
 msgstr "|image25|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1557
+msgid "image25"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:880
 msgid "Programmability"
@@ -2492,8 +2592,8 @@ msgstr "Savybė: savi tinkamumo tikrinimai eksportuojant sluoksnius"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1014
 msgid ""
-"See https://north-road.com/2019/01/14/on-custom-layout-checks-in-qgis-3-6"
-"-and-how-they-can-do-your-work-for-you/"
+"See https://north-road.com/2019/01/14/on-custom-layout-checks-in-"
+"qgis-3-6-and-how-they-can-do-your-work-for-you/"
 msgstr ""
 "Daugiau informacijos https://north-road.com/2019/01/14/on-custom-layout-"
 "checks-in-qgis-3-6-and-how-they-can-do-your-work-for-you/"
@@ -2629,6 +2729,10 @@ msgstr "Savybė: taisyklėmis paremtas 3D braižymas"
 msgid "|image26|"
 msgstr "|image26|"
 
+#: ../../source/site/forusers/visualchangelog36/index.rst:1559
+msgid "image26"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog36/index.rst:1069
 msgid "This feature was funded by QGIS community"
 msgstr "Šią savybę finansavo QGIS bendruomenė"
@@ -2652,6 +2756,10 @@ msgstr "Su šia savybe jūs galite naudoti tinklelio sluoksnius 3D scenoje."
 #: ../../source/site/forusers/visualchangelog36/index.rst:1078
 msgid "|image27|"
 msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1561
+msgid "image27"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1086
 msgid "Notable Fixes"
@@ -3983,7 +4091,7 @@ msgstr "Šią savybę sukūrė `Jürgen Fischer <https://www.norbit.de/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1272
 msgid "Feature: Bug fixes by Peter Petrik"
-msgstr ""
+msgstr "Savybė: Peter Petrik ištaisyti riktai"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1277
 msgid "Crash when adding existing field to vectorlayer"
@@ -4114,7 +4222,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1299
 msgid "Feature: Bug fixes by Julien Cabieces"
-msgstr ""
+msgstr "Savybė: Julien Cabieces ištaisyti riktai"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1304
 msgid "QGis 3.4 reproducible crash while in idle state"
@@ -4195,7 +4303,7 @@ msgstr "`#20523 <https://issues.qgis.org/issues/20523>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1312
 msgid "Works for me"
-msgstr ""
+msgstr "Works for me"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1314
 msgid "Can't remove a constraint set on a field once saved"
@@ -4229,7 +4337,7 @@ msgstr "`PR #9048 <https://github.com/qgis/QGIS/pull/9048>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1316
 msgid "TODO"
-msgstr ""
+msgstr "TODO"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1318
 msgid "Attribute Table refresh issue when deleting features from shapefile"
@@ -4266,7 +4374,7 @@ msgstr "Šią savybę sukūrė `Julien Cabieces <https://oslandia.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1328
 msgid "Feature: Bug fixes by Loïc Bartoletti"
-msgstr ""
+msgstr "Savybė: Loïc Bartoletti riktų pataisymai"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1333
 msgid ""
@@ -4484,7 +4592,7 @@ msgstr "Šią savybę sukūrė Victor Olaya"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1380
 msgid "Feature: Bug fixes by Even Rouault"
-msgstr ""
+msgstr "Savybė: Even Rouault riktų pataisymai"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1385
 msgid ""
@@ -4724,7 +4832,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1430
 msgid "Feature: Bug fixes by Nyall Dawson"
-msgstr ""
+msgstr "Savybė: Nyall Dawson ištaisyti riktai"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1435
 msgid "[postgis] Fix creation of new Z/M enabled, curved geometry type layers"
@@ -5272,6 +5380,18 @@ msgstr "`PR #9063 <https://github.com/qgis/QGIS/pull/9063>`__"
 #: ../../source/site/forusers/visualchangelog36/index.rst:1507
 msgid "This feature was developed by `Hugo Mercier <https://oslandia.com/>`__"
 msgstr "Šią savybę sukūrė `Hugo Mercier <https://oslandia.com/>`__"
+
+#: ../../source/site/forusers/visualchangelog36/index.rst:1563
+msgid "image28"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ ":raw-html:`<div id=\"qgissponsorsatom\"> <!-- to be filled via javascript "

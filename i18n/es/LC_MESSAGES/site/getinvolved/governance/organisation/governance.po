@@ -2,22 +2,22 @@
 # Translators:
 # Anibal Alarcon <anibal.alarcon@gmail.com>, 2017
 # Diana Galindo <drgalindog@linuxmail.org>, 2015
-# YoViajo, 2015-2016
+# Eric Armijo, 2015-2016
 # Francisco Javier <fjaviquintana@gmail.com>, 2015
-# YoViajo, 2016
+# Eric Armijo, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:58+0000\n"
-"Last-Translator: Anibal Alarcon <anibal.alarcon@gmail.com>\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: Anibal Alarcon <anibal.alarcon@gmail.com>, 2017\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:4
 msgid "QGIS Governance"
@@ -304,9 +304,9 @@ msgstr "La Traducción de la GUI de QGIS es administrada por el Asistente de la 
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:143
 msgid ""
-"Contact : `qgis-community-team <http://lists.osgeo .org/mailman/listinfo"
-"/qgis-community-team>`_ list or `QGIS Translation Mailing list "
-"<http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_"
+"Contact : `qgis-community-team <http://lists.osgeo "
+".org/mailman/listinfo/qgis-community-team>`_ list or `QGIS Translation "
+"Mailing list <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_"
 msgstr "Contactar : `lista qgis-community-team <http://lists.osgeo .org/mailman/listinfo/qgis-community-team>`_ o `Lista de correo de Traducción QGIS <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_"
 
 #: ../../source/site/getinvolved/governance/organisation/governance.rst:152

@@ -4,15 +4,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-20 01:09+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: uk\n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:3
+msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
+msgstr "Картографування історичних даних герпетології і QGIS (Міссурі, США)"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:5
 msgid ""
@@ -60,6 +65,10 @@ msgid ""
 msgstr "Процес створення карт в QGIS починається з завантаження даних з просторової бази даних PostgreSQL/PostGIS. Оскільки карти статичні та призначені як для розміщення в інтернеті, так і для публікації в складі атласу, вони генеруються для кожного виду автоматично за допомогою спеціального плаґіна (мал. 1 та 2)"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:21
+msgid "Custom map generation and export user interface"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:21
 msgid ""
 "Custom map generation and export user interface, maps are generated and "
 "exported in a batch process."
@@ -75,8 +84,16 @@ msgid ""
 msgstr "Отримані карти виглядають професійно (малюнок 3). Для наочної візуалізації розподілу видів створюється також серія базових карт з підписами (малюнок 4). Завдяки правильному налаштуванню стилів у кожному шарі даних, базові шари можуть легко інтегруватися з ними."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:30
+msgid "Maps"
+msgstr "Карти"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:30
 msgid "Maps are displayed as static images."
 msgstr "Згенеровані карти"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:37
+msgid "Labelled Level III Ecoregion map for Missouri"
+msgstr ""
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:37
 msgid "Labelled Level III Ecoregion map for Missouri and surrounding states."
@@ -85,26 +102,6 @@ msgstr "Підписана карта Міссурі та прилеглих ш�
 #: ../../source/site/about/case_studies/usa_missouri.rst:40
 msgid "Conclusions"
 msgstr "Підсумки"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:49
-msgid "Author"
-msgstr "Автор"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:56
-msgid "Brian Edmond"
-msgstr "Brian Edmond"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:58
-msgid ""
-"This article was contributed by Brian Edmond in February 2013. He is a "
-"Senior Systems Analyst in Computer Services at Missouri State University.  "
-"He holds a BS in Wildlife Biology from the University of Missouri and has "
-"spent his career in the intergrade zone between biology and technology."
-msgstr "Brian Edmond надіслав цю статтю у лютому 2013 р. Він працює старшим системним аналітиком в університеті Міссурі. Отримав ступінь бакалавра біології в університеті Міссурі та будує свою кар'єру на межі біології та технології."
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:3
-msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
-msgstr "Картографування історичних даних герпетології і QGIS (Міссурі, США)"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:42
 msgid ""
@@ -132,6 +129,30 @@ msgid ""
 "extensibility using Python is more than sufficient to tackle larger and more"
 " complex projects."
 msgstr "Хоча ми використовуємо QGIS для вирішення маленької та специфічної задачі, її можливості та підтримка плаґінів дозволяють вирішувати набагато складніші задачі."
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:49
+msgid "Author"
+msgstr "Автор"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:56
+msgid "Brian Edmond"
+msgstr "Brian Edmond"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:58
+msgid ""
+"This article was contributed by Brian Edmond in February 2013. He is a "
+"Senior Systems Analyst in Computer Services at Missouri State University.  "
+"He holds a BS in Wildlife Biology from the University of Missouri and has "
+"spent his career in the intergrade zone between biology and technology."
+msgstr "Brian Edmond надіслав цю статтю у лютому 2013 р. Він працює старшим системним аналітиком в університеті Міссурі. Отримав ступінь бакалавра біології в університеті Міссурі та будує свою кар'єру на межі біології та технології."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS Maps Historic Herpetofaunal Records"
 #~ msgstr ""

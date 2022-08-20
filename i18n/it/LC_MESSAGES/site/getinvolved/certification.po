@@ -6,23 +6,25 @@
 # Translators:
 # Ivano Giuliano <ivano.giuliano@gmail.com>, 2019
 # Roberto Marzocchi <roberto.marzocchi@gter.it>, 2020
-# Andrea Giudiceandrea <andreaerdna@libero.it>, 2020
+# Simone Falceri, 2021
+# Andrea Giudiceandrea <andreaerdna@libero.it>, 2022
+# Giuseppe Mattiozzi <mattiozzig@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:40+0000\n"
-"Last-Translator: Andrea Giudiceandrea <andreaerdna@libero.it>, 2020\n"
+"Last-Translator: Giuseppe Mattiozzi <mattiozzig@gmail.com>, 2022\n"
 "Language-Team: Italian (https://www.transifex.com/qgis/teams/6144/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/certification.rst:5
 msgid "Certification"
@@ -86,11 +88,21 @@ msgstr "Pubblicazione di articoli e corsi di formazione gratuiti per QGIS"
 msgid "Authoring QGIS books"
 msgstr "Realizzazione di testi dedicati a QGIS"
 
-#: ../../source/site/getinvolved/certification.rst:23
-msgid "Workflow Certification"
-msgstr "Certificazione del flusso di lavoro"
+#: ../../source/site/getinvolved/certification.rst:20
+msgid ""
+"To contact the certification team, please write to certification@qgis.org."
+msgstr ""
+"Per contattare il team di certificazione, scrivere a certification@qgis.org."
 
-#: ../../source/site/getinvolved/certification.rst:25
+#: ../../source/site/getinvolved/certification.rst:24
+msgid "Certification Process"
+msgstr "Processo di certificazione"
+
+#: ../../source/site/getinvolved/certification.rst:27
+msgid "Application"
+msgstr "Richiesta"
+
+#: ../../source/site/getinvolved/certification.rst:29
 msgid ""
 "You are required to provide the training material for each of your courses. "
 "This includes exercises, lectures and data. This material will be reviewed "
@@ -104,7 +116,7 @@ msgstr ""
 "rappresentativa del progetto QGIS . Nel caso in cui il materiale verra' "
 "ritenuto inadeguato, non sara' preso in considerazione."
 
-#: ../../source/site/getinvolved/certification.rst:28
+#: ../../source/site/getinvolved/certification.rst:32
 msgid ""
 "Following an initial review, the application will be sent to local QGIS "
 "groups for their opinion. This portion of the review should take place in "
@@ -124,7 +136,7 @@ msgstr ""
 "di utenti QGIS locale nel caso non vi fosse. Può essere motivo di esclusione"
 " il non essere reputato un membro in piena regola della comunità QGIS."
 
-#: ../../source/site/getinvolved/certification.rst:30
+#: ../../source/site/getinvolved/certification.rst:34
 msgid ""
 "The PSC will make the final determination. If accepted as a QGIS Certified "
 "Organization your contributions to the project will be published for "
@@ -134,7 +146,7 @@ msgstr ""
 "accettate come Organizzazione Certificata QGIS, i contributi al progetto "
 "saranno pubblicati ai fini della trasparenza."
 
-#: ../../source/site/getinvolved/certification.rst:32
+#: ../../source/site/getinvolved/certification.rst:36
 msgid ""
 "If approved you are required to pay a €20 certification fee to the QGIS "
 "project for each certificate you issue. This creates a mechanism for "
@@ -143,8 +155,14 @@ msgid ""
 "SEPA wire transfer. Payments can be handled in batches for many certificates"
 " at once."
 msgstr ""
+"Se approvato, sei tenuto a pagare una tassa di certificazione di € 20 al "
+"progetto QGIS per ogni certificato che emetti. Questo crea un meccanismo per"
+" il sostegno finanziario del progetto. I pagamenti dei certificati vengono "
+"effettuati sia tramite transazioni online con carta di credito, sia su "
+"richiesta tramite regolare fattura e bonifico SEPA. I pagamenti possono "
+"essere gestiti in batch per più certificati contemporaneamente."
 
-#: ../../source/site/getinvolved/certification.rst:35
+#: ../../source/site/getinvolved/certification.rst:39
 msgid ""
 "You can apply through `this form <certification_link_>`_ (make sure to first"
 " create a `login <certification_login_>`_). You can find more details about "
@@ -155,6 +173,22 @@ msgstr ""
 "`registrato2`_). Maggiori dettagli sul programma di certificazione sono "
 "disponibili al seguente `link 3`_ (si raccomanda di prenderne visione prima "
 "di registrarsi)."
+
+#: ../../source/site/getinvolved/certification.rst:47
+msgid "Course Certification Workflow"
+msgstr "Flusso di lavoro della certificazione del corso"
+
+#: ../../source/site/getinvolved/certification.rst:52
+msgid "Workflow Certification"
+msgstr "Certificazione del flusso di lavoro"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "If approved you are required to make a €20 donation to the QGIS project for "

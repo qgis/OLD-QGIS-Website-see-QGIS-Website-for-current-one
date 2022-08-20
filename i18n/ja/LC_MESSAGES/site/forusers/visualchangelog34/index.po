@@ -6,23 +6,24 @@
 # Translators:
 # miyake mitsuha <miyake@mierune.co.jp>, 2019
 # Kayama Yoichi <yoichi.kayama@gmail.com>, 2019
-# fairtommy <fairtommy@gmail.com>, 2019
 # TERAMOTO Ikuhiro <yellow@affrc.go.jp>, 2019
-# 藤本理弘 <mfujimot@gmail.com>, 2020
+# Masahiro FUJIMOTO <mfujimot@gmail.com>, 2020
+# tomoyuki arai <tarai.3367@gmail.com>, 2022
+# fairtommy <fairtommy@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-12-19 16:27+0000\n"
-"Last-Translator: 藤本理弘 <mfujimot@gmail.com>, 2020\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -33,6 +34,10 @@ msgstr "QGIS 3.4 LTRの変更履歴"
 #: ../../source/site/forusers/visualchangelog34/index.rst:7
 msgid "|image0|"
 msgstr "|image0|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1091
+msgid "image0"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:9
 msgid ""
@@ -112,6 +117,10 @@ msgstr ""
 msgid "|image1|"
 msgstr "|image1|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst:1093
+msgid "image1"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:30
 msgid "General"
 msgstr "一般機能"
@@ -137,6 +146,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:39
 msgid "|image28|"
 msgstr "|image28|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image28"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:41
 msgid "This feature was funded by `Aleix Pol <https://github.com/aleixpol>`__"
@@ -303,6 +316,10 @@ msgstr "**@map\\_layer\\_ids**: マップ内で表示されている全レイヤ
 msgid "|image2|"
 msgstr "|image2|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image2"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:91
 msgid ""
 "This feature was developed by `Etienne Trimaille, Matteo Ghetta, Matthias "
@@ -333,6 +350,10 @@ msgstr "関数のパラメータはそれらが書き込みされる間表示さ
 msgid "|image3|"
 msgstr "| image3 |"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image3"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:103
 msgid "This feature was funded by `OPENGIS.ch <https://www.opengis.ch/>`__"
 msgstr "この機能は `OPENGIS.ch <https://www.opengis.ch/>`__  によって資金提供されました"
@@ -362,12 +383,16 @@ msgid ""
 "menu - that polygon will be used as input for selection or identification."
 msgstr ""
 "既存のポリゴンによって覆われているところにある地物の選択/同定機能が利用できると便利な場合がしばしばあるでしょう。この機能は \"Select "
-"Features by Polygon\" と \"Identify Features by Polygon\" "
-"によってユーザは利用できます。しかしこの場合手動でポリゴンを入力しなければいけません。この新しい機能でユーザは右ボタンで地図をクリックして既存ポリゴン地物をその場所に表示されるポップアップメニューからピックします。そのポリゴンが選択や同定の作業に利用されます。"
+"Features by Polygon\" と \"Identify Features by "
+"Polygon\" によってユーザは利用できます。しかしこの場合手動でポリゴンを入力しなければいけません。この新しい機能でユーザは右ボタンで地図をクリックして既存ポリゴン地物をその場所に表示されるポップアップメニューからピックします。そのポリゴンが選択や同定の作業に利用されます。"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:115
 msgid "|image4|"
 msgstr "|image4|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image4"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:117
 msgid "This feature was funded by Leicestershire County Council"
@@ -402,6 +427,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:129
 msgid "|image5|"
 msgstr "|image5|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image5"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:131
 #: ../../source/site/forusers/visualchangelog34/index.rst:140
@@ -501,6 +530,10 @@ msgstr ""
 msgid "|image6|"
 msgstr "|image6|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image6"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:158
 msgid "Feature: Task manager improvements"
 msgstr "機能: タスクマネージャーの向上"
@@ -546,6 +579,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:173
 msgid "|image7|"
 msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image7"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:175
 #: ../../source/site/forusers/visualchangelog34/index.rst:616
@@ -609,6 +646,10 @@ msgstr ""
 msgid "|image8|"
 msgstr "|image8|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image8"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:199
 msgid ""
 "This feature was developed by Mathieu Pellerin (iMHere Asia), Nyall Dawson "
@@ -632,6 +673,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:207
 msgid "|image9|"
 msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image9"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:209
 msgid "This feature was funded by `QGIS Project <https://qgis.org/>`__"
@@ -730,6 +775,10 @@ msgstr ""
 msgid "|image10|"
 msgstr "|image10|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image10"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:246
 msgid "This feature was funded by `qwat group <http://qwat.org/>`__"
 msgstr "この機能は `qwat group <http://qwat.org/>`__ によって資金提供されました"
@@ -783,6 +832,10 @@ msgstr "コンストラクションモード時のスナップに5/10/15/18/22.5
 msgid "|image11|"
 msgstr "|image11|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image11"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:269
 msgid ""
 "This feature was funded by `lbartoletti <https://github.com/lbartoletti>`__"
@@ -812,6 +865,10 @@ msgstr ""
 msgid "|image12|"
 msgstr "|image12|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image12"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:280
 msgid "This feature was funded by `Oslandia <https://oslandia.com>`__"
 msgstr "この機能は `Oslandia <https://oslandia.com>`__ によって資金提供されました"
@@ -837,6 +894,10 @@ msgstr "すごく待たれていた機能です! ラインの方向を逆転さ�
 #: ../../source/site/forusers/visualchangelog34/index.rst:289
 msgid "|image13|"
 msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image13"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:291
 #: ../../source/site/forusers/visualchangelog34/index.rst:927
@@ -867,14 +928,19 @@ msgstr ""
 msgid "|image14|"
 msgstr "|image14|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image14"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:304
 #: ../../source/site/forusers/visualchangelog34/index.rst:314
 #: ../../source/site/forusers/visualchangelog34/index.rst:325
 #: ../../source/site/forusers/visualchangelog34/index.rst:345
 #: ../../source/site/forusers/visualchangelog34/index.rst:738
 msgid ""
-"This feature was funded by `Kanton Solothurn <https://www.so.ch/verwaltung"
-"/bau-und-justizdepartement/amt-fuer-geoinformation/>`__"
+"This feature was funded by `Kanton Solothurn "
+"<https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-"
+"geoinformation/>`__"
 msgstr ""
 "この機能は `Kanton Solothurn <https://www.so.ch/verwaltung/bau-und-"
 "justizdepartement/amt-fuer-geoinformation/>`__ によって資金提供されました"
@@ -917,6 +983,10 @@ msgstr ""
 msgid "|image15|"
 msgstr "|image15|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image15"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:330
 msgid "Feature: Topology checks while editing"
 msgstr "機能: 編集中のトポロジーチェック"
@@ -957,6 +1027,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:343
 msgid "|image16|"
 msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image16"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:350
 msgid "Data Management"
@@ -1027,6 +1101,10 @@ msgstr ""
 msgid "|image17|"
 msgstr "|image17|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image17"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:376
 msgid "Feature: New locator filter to search across all layers"
 msgstr "機能:全てのレイヤを縦断して検索するための新しいロケータフィルタ"
@@ -1051,6 +1129,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:382
 msgid "|image18|"
 msgstr "|image18|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image18"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:384
 msgid "This feature was funded by `Opengis.ch <https://www.opengis.ch/>`__"
@@ -1083,6 +1165,10 @@ msgstr "必須レイヤはプロジェクトプロパティダイアログのデ
 #: ../../source/site/forusers/visualchangelog34/index.rst:395
 msgid "|image19|"
 msgstr "|image19|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image19"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:397
 msgid ""
@@ -1117,6 +1203,10 @@ msgstr "ラスタレイヤをGeoPackageデータベースに保存する場合�
 msgid "|image20|"
 msgstr "|image20|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image20"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:408
 #: ../../source/site/forusers/visualchangelog34/index.rst:941
 msgid ""
@@ -1146,17 +1236,21 @@ msgid ""
 " the values available in one field depend on the values of other fields:"
 msgstr ""
 "QGIS “Value Relation Widgets” "
-"に新しい機能とロジックができました。QGIS属性フォームに複合でダイナミックなフィルタを適用できます。この機能はQGISの  “drill-down”"
-"  フォームを使って実装されています。そこではあるフィールドの値が他のフィールドの値に依存することが可能です。"
+"に新しい機能とロジックができました。QGIS属性フォームに複合でダイナミックなフィルタを適用できます。この機能はQGISの  “drill-down” "
+" フォームを使って実装されています。そこではあるフィールドの値が他のフィールドの値に依存することが可能です。"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:420
 msgid "|image21|"
 msgstr "|image21|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image21"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:422
 msgid ""
-"This feature was funded by `QGIS community through crowd-funding <https"
-"://north-road.com/drill-down-cascading-forms/>`__"
+"This feature was funded by `QGIS community through crowd-funding "
+"<https://north-road.com/drill-down-cascading-forms/>`__"
 msgstr ""
 "この機能は `QGIS community through crowd-funding <https://north-road.com/drill-"
 "down-cascading-forms/>`__ によって資金提供されました"
@@ -1181,6 +1275,10 @@ msgstr "これは3Dのマップビューをプリントレイアウトへ追加�
 #: ../../source/site/forusers/visualchangelog34/index.rst:434
 msgid "|image22|"
 msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image22"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:436
 #: ../../source/site/forusers/visualchangelog34/index.rst:1035
@@ -1260,10 +1358,14 @@ msgstr "エンターキーを押します– 選択したライン地物がす�
 msgid "|image23|"
 msgstr "|image23|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image23"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:457
 msgid ""
-"This feature was funded by `Crowdfunding campaign <https://north-road.com"
-"/edit-features-in-place-using-qgis-spatial-operations-campaign/>`__"
+"This feature was funded by `Crowdfunding campaign <https://north-"
+"road.com/edit-features-in-place-using-qgis-spatial-operations-campaign/>`__"
 msgstr ""
 " この機能は `Crowdfunding campaign <https://north-road.com/edit-features-in-"
 "place-using-qgis-spatial-operations-campaign/>`__ によって資金提供されました"
@@ -1313,6 +1415,10 @@ msgstr "ラスタレイヤのある1点の値をサンプリングする新し�
 #: ../../source/site/forusers/visualchangelog34/index.rst:477
 msgid "|image24|"
 msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image24"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:479
 msgid "This feature was funded by `Faunalia <https://www.faunalia.eu>`__"
@@ -1479,8 +1585,8 @@ msgid ""
 "A new \"pixels to points\" algorithm was added in QGIS 3.4, which creates a "
 "point feature at the center of every pixel. nodata pixels are skipped."
 msgstr ""
-"新しい \"ピクセルをポイントに変換\" "
-"アルゴリズムがQGIS3.4で追加されました。これはそれぞれのピクセルの中心でポイント地物を作成します。nodataピクセルはスキップされます。"
+"新しい "
+"\"ピクセルをポイントに変換\" アルゴリズムがQGIS3.4で追加されました。これはそれぞれのピクセルの中心でポイント地物を作成します。nodataピクセルはスキップされます。"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:582
 msgid "Feature: Line substring algorithm"
@@ -1547,6 +1653,10 @@ msgstr "ブラウザパネルの右クリックメニューを使ってスクリ
 msgid "|image25|"
 msgstr "|image25|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image25"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:621
 msgid "Feature: New GDAL's rearrange band algorithm"
 msgstr "機能:新しいGDALのバンド再構成アルゴリズム"
@@ -1564,6 +1674,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:625
 msgid "|image26|"
 msgstr "|image26|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image26"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:627
 msgid ""
@@ -1626,6 +1740,10 @@ msgstr "必要があれば描画定義とマッチしなかったカテゴリの
 #: ../../source/site/forusers/visualchangelog34/index.rst:651
 msgid "|image27|"
 msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image27"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:658
 msgid "Feature: New mode for Snap geometries algorithm"
@@ -1732,6 +1850,10 @@ msgstr "Netcdf"
 msgid "|image29|"
 msgstr "|image29|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image29"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:694
 msgid ""
 "This feature was funded by `Lutra Consulting "
@@ -1756,6 +1878,10 @@ msgstr ""
 msgid "|image30|"
 msgstr "|image30|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image30"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:710
 msgid ""
 "Feature: Mesh layer: allow to choose different vector and scalar dataset"
@@ -1776,6 +1902,10 @@ msgstr ""
 msgid "|image31|"
 msgstr "|image31|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image31"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:721
 msgid ""
 "Feature: Mesh layer: allow render vectors/arrows on the user-defined grid"
@@ -1795,6 +1925,10 @@ msgstr ""
 msgid "|image32|"
 msgstr "|image32|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image32"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:732
 msgid "Feature: JSON/JSONB Type support"
 msgstr "機能: JSON/JSONB型への対応"
@@ -1811,6 +1945,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:736
 msgid "|image33|"
 msgstr "|image33|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image33"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:740
 #: ../../source/site/forusers/visualchangelog34/index.rst:952
@@ -1968,6 +2106,10 @@ msgstr ""
 msgid "|image34|"
 msgstr "|image34|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image34"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:915
 msgid "Feature: Add ability to define min. scale for WMTS"
 msgstr "機能: WMTSの最小スケールの定義機能の追加"
@@ -2014,6 +2156,10 @@ msgstr "プラグインマネージャはローカルのZIPファイルから、
 #: ../../source/site/forusers/visualchangelog34/index.rst:939
 msgid "|image35|"
 msgstr "|image35|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image35"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:946
 msgid "Feature: Offline Editing GeoPackage"
@@ -2125,6 +2271,10 @@ msgstr "ピュアPythonで、ベクタデータプロバイダの生成を可能
 msgid "|image36|"
 msgstr "|image36|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image36"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:1013
 msgid "This feature was funded by Good will"
 msgstr "この機能はGood willが資金提供しました"
@@ -2162,6 +2312,10 @@ msgstr "Ctrl+方向キー/マウスで姿勢を保持したカメラの移動"
 msgid "|image37|"
 msgstr "|image37|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image37"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:1040
 msgid "Feature: Animation"
 msgstr "機能: アニメーション"
@@ -2185,6 +2339,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:1046
 msgid "|image38|"
 msgstr "|image38|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image38"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1050
 msgid ""
@@ -2225,6 +2383,10 @@ msgstr ""
 msgid "|image39|"
 msgstr "|image39|"
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image39"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:1072
 msgid "Feature: Identification map tool for 3D views"
 msgstr "機能: 3次元ビュー用マップ識別ツール"
@@ -2238,6 +2400,10 @@ msgstr "3次元地図に新しい識別ツールを導入しました。この�
 #: ../../source/site/forusers/visualchangelog34/index.rst:1076
 msgid "|image40|"
 msgstr "|image40|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image40"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1078
 msgid ""
@@ -2262,6 +2428,14 @@ msgstr ""
 "QGIS "
 "3次元のクラスの一部は、Python開発者が利用できるようになりました。地図レイヤの3次元描画と、マテリアルカラーのような3次元シンボルの読み取り/書き込みプロパティとを、参照または変更できるようになりました。現時点ではAPI"
 " は実験的なもので、将来の3. xで変更されるかも知れませんのでご注意下さい。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia"

@@ -5,14 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
-"PO-Revision-Date: 2020-03-16 10:21+0000\n"
-"Last-Translator: Tomas Straupis\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: Tomas Straupis, 2017-2018,2020\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
@@ -28,11 +28,17 @@ msgid ""
 "stores below!"
 msgstr "Jei esate QGIS gerbėjas, jums gali patikti užeiti į mūsų parduotuvę, kur galėsite nusipirkti įvairios atributikos, kurios pagalba galėsite parodyti, kokia yra jūsų mėgstamiausia darbastalio GIS. Turime keletą puikų marškinėlių, puodukų, kepuraičių ir panašių dalykų. Taigi apsilankykite vienoje iš žemiau išvardintų mūsų parduotuvių!"
 
+msgid "QGIS mugs"
+msgstr ""
+
 #: ../../source/site/about/shop_goodies.rst:16
 msgid ""
-"Buying QGIS apparrel not only lets you show off the fact that you use QGIS, "
-"for every t-shirt sold a commision is given to the QGIS project."
-msgstr "Pirkdami QGIS aprangą ne tik galite parodyti, kad naudojate QGIS. Nuo kiekvienų parduotų marškinėlių komisiniai skiriami QGIS projektui."
+"Buying QGIS apparel not only lets you show off the fact that you use QGIS, "
+"for every t-shirt sold a commission is given to the QGIS project."
+msgstr ""
+
+msgid "QGIS tshirt"
+msgstr ""
 
 #: ../../source/site/about/shop_goodies.rst:25
 msgid "Shops"
@@ -45,8 +51,11 @@ msgid ""
 msgstr "Mes bendradarbiaujame su Spreadshirt. Jie kuria vietoje ir siunčia produktus į visas pasaulio šalis."
 
 #: ../../source/site/about/shop_goodies.rst:30
-msgid "http://shop.spreadshirt.net/qgis/"
-msgstr "http://shop.spreadshirt.net/qgis/"
+msgid "https://shop.spreadshirt.net/qgis/"
+msgstr ""
+
+msgid "QGIS Hoodie"
+msgstr ""
 
 #: ../../source/site/about/shop_goodies.rst:37
 msgid ""
@@ -57,6 +66,14 @@ msgstr "Daugiau kūrybingų ir juokingų (bet neoficialių) dizainų rasite Red 
 #: ../../source/site/about/shop_goodies.rst:39
 msgid "https://www.redbubble.com/shop/qgis"
 msgstr "https://www.redbubble.com/shop/qgis"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS shop"
 #~ msgstr ""
@@ -109,4 +126,12 @@ msgstr "https://www.redbubble.com/shop/qgis"
 #~ msgstr ""
 
 #~ msgid "http://shop.spreadshirt.net/qgis/ (Europe)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Buying QGIS apparrel not only lets you show off the fact that you use QGIS, "
+#~ "for every t-shirt sold a commision is given to the QGIS project."
+#~ msgstr ""
+
+#~ msgid "http://shop.spreadshirt.net/qgis/"
 #~ msgstr ""

@@ -6,15 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-23 19:16+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-10-13 18:59+0000\n"
+"Last-Translator: Eduardo Gonzalez Latorre, 2014\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/france_burgundy_region.rst:3
 msgid "The Burgundy Historical Landscapes Working Group"
@@ -187,6 +188,14 @@ msgid ""
 "historical anthropologist (UNC), Dr. Amanda B. Tickner, paleoethnobotanist "
 "(UNC) and Dr. D. Seth Murray, ethnographer and oral historian (NCSU)."
 msgstr "Este artículo fue aportado en agosto de 2013 por el Dr. Scott Madry. El es un profesor asociado investigador en el currículo de Arqueología en la Universidad de Carolina del Norte en los Laboratorios de Investigación de Arqueología de Chapel Hill. Es  parte del cuerpo docente de la Universidad Espacial Internacional en Estrasburgo, Francia, y es un investigador asociado del Laboratorio de Arqueología y Territorios del UMR 7324 CITERES, Université François-Rabelais/CNRS. Este proyecto de investigación está dirigido en colaboración con la Dr. Elizabeth A. Jones, antropóloga histórica (UNC), la Dr. Amanda B. Tickner, paleobotánica (UNC) y el Dr. D. Seth Murray, etnógrafo e historiador oral (UNC)."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "Since Quantarctica first came in use by our glaciologists three years ago, "

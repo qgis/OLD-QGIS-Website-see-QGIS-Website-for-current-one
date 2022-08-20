@@ -5,14 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-08 11:00+0200\n"
-"PO-Revision-Date: 2020-07-15 13:24+0000\n"
-"Last-Translator: Aleksander Petrov <felispimeja+transifex.com@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:13+0000\n"
+"Last-Translator: Marina <pavlova.marina.v@gmail.com>, 2014-2016\n"
 "Language-Team: Russian (http://www.transifex.com/qgis/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
@@ -41,6 +41,10 @@ msgstr "Для быстрого доступа к функциям геообр�
 msgid "|image1|"
 msgstr "|image1|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:732
+msgid "image1"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:26
 msgid "Feature: Heatmap Plugin Improvements"
 msgstr ""
@@ -55,6 +59,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:32
 msgid "|image2|"
 msgstr "|image2|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:733
+msgid "image2"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:35
 msgid "Feature: Processing Support"
@@ -75,6 +83,10 @@ msgstr ""
 msgid "|image3|"
 msgstr "|image3|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:734
+msgid "image3"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:48
 msgid "Feature: Processing Modeller"
 msgstr "Новое: Редактор моделей"
@@ -92,6 +104,10 @@ msgstr "Одной из главных особенностей нового ф�
 #: ../../source/site/forusers/visualchangelog200/index.rst:57
 msgid "|image4|"
 msgstr "|image4|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:735
+msgid "image4"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:60
 msgid "Application and Project Options"
@@ -117,6 +133,10 @@ msgstr ""
 msgid "|image5|"
 msgstr "|image5|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:736
+msgid "image5"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:77
 msgid "Feature: System environment variables"
 msgstr ""
@@ -136,6 +156,10 @@ msgstr ""
 msgid "|image6|"
 msgstr "|image6|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:737
+msgid "image6"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:90
 msgid "Feature: User-defined zoom scales"
 msgstr ""
@@ -153,6 +177,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:99
 msgid "|image7|"
 msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:738
+msgid "image7"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:102
 msgid "Browser"
@@ -212,6 +240,10 @@ msgstr ""
 msgid "|image8|"
 msgstr "|image8|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:739
+msgid "image8"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:125
 msgid "Data Providers"
 msgstr "Провайдеры данных"
@@ -235,6 +267,10 @@ msgstr ""
 msgid "|image9|"
 msgstr "|image9|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:740
+msgid "image9"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:142
 msgid "Feature: Oracle Spatial support"
 msgstr ""
@@ -246,6 +282,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:146
 msgid "|image10|"
 msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:741
+msgid "image10"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:149
 msgid "Feature: Web Coverage Service provider added"
@@ -276,6 +316,10 @@ msgstr ""
 msgid "|image11|"
 msgstr "|image11|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:742
+msgid "image11"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:168
 msgid "Feature: WMS identify format"
 msgstr ""
@@ -294,6 +338,10 @@ msgstr ""
 msgid "|image12|"
 msgstr "|image12|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:743
+msgid "image12"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:181
 msgid "Feature: WMTS Support"
 msgstr ""
@@ -309,6 +357,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:188
 msgid "|image13|"
 msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:744
+msgid "image13"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:191
 msgid "General"
@@ -333,6 +385,10 @@ msgstr ""
 msgid "|image14|"
 msgstr "|image14|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:745
+msgid "image14"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:207
 msgid "Labelling"
 msgstr "Подписывание"
@@ -354,6 +410,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:219
 msgid "|image15|"
 msgstr "|image15|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:746
+msgid "image15"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:222
 msgid "Feature: Expression based label properties"
@@ -391,6 +451,10 @@ msgstr "Размер буфера"
 #: ../../source/site/forusers/visualchangelog200/index.rst:237
 msgid "|image16|"
 msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:747
+msgid "image16"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:240
 msgid "Feature: Older labelling engine deprecated"
@@ -438,6 +502,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:270
 msgid "|image17|"
 msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:748
+msgid "image17"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:273
 msgid "Layer Legend"
@@ -487,6 +555,10 @@ msgstr "опциональное отключение генерации уме�
 msgid "|image18|"
 msgstr "|image18|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:749
+msgid "image18"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:293
 msgid "Feature: Duplicate existing map layer"
 msgstr ""
@@ -501,6 +573,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:299
 msgid "|image19|"
 msgstr "|image19|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:750
+msgid "image19"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:302
 msgid "Feature: Multi-layer toggle editing commands"
@@ -518,6 +594,10 @@ msgstr ""
 msgid "|image20|"
 msgstr "|image20|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:751
+msgid "image20"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:312
 msgid "Map Composer"
 msgstr "Макет"
@@ -534,6 +614,10 @@ msgstr ""
 msgid "|image21|"
 msgstr "|image21|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:752
+msgid "image21"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:322
 msgid "Feature: Multipage support"
 msgstr ""
@@ -545,6 +629,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:326
 msgid "|image22|"
 msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:753
+msgid "image22"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:329
 msgid "Feature: Expressions in composer labels"
@@ -575,6 +663,10 @@ msgstr ""
 msgid "|image23|"
 msgstr "|image23|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:754
+msgid "image23"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:358
 msgid "Feature: Auto snap lines"
 msgstr ""
@@ -589,6 +681,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:364
 msgid "|image24|"
 msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:755
+msgid "image24"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:367
 msgid "Feature: Manual Snap Lines"
@@ -606,6 +702,10 @@ msgstr ""
 msgid "|image25|"
 msgstr "|image25|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:756
+msgid "image25"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:377
 msgid "Feature: Map series generation"
 msgstr ""
@@ -621,6 +721,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:384
 msgid "|image26|"
 msgstr "|image26|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:757
+msgid "image26"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:387
 msgid "Feature: Automatic overview support in map frame"
@@ -639,6 +743,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:396
 msgid "|image27|"
 msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:758
+msgid "image27"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:399
 msgid "Feature: Layer blending"
@@ -664,6 +772,10 @@ msgstr ""
 msgid "|image28|"
 msgstr "|image28|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:759
+msgid "image28"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:415
 msgid "Feature: HTML Label support"
 msgstr ""
@@ -678,6 +790,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:421
 msgid "|image29|"
 msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:760
+msgid "image29"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:424
 msgid "Feature: Multicolumn composer legend"
@@ -698,6 +814,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:436
 msgid "|image30|"
 msgstr "|image30|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:761
+msgid "image30"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:439
 msgid "Feature: Updates to map composer management"
@@ -737,6 +857,10 @@ msgstr "все действия по управлению макетами те�
 msgid "|image31|"
 msgstr "|image31|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:762
+msgid "image31"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:455
 msgid "Plugins"
 msgstr "Модули"
@@ -759,6 +883,10 @@ msgstr ""
 msgid "|image32|"
 msgstr "|image32|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:763
+msgid "image32"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:471
 msgid "Programmability"
 msgstr "API и изменения для разработчиков"
@@ -779,6 +907,10 @@ msgstr ""
 msgid "|image33|"
 msgstr "|image33|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:764
+msgid "image33"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:484
 msgid "Feature: Even more expression functions"
 msgstr ""
@@ -796,6 +928,10 @@ msgstr ""
 msgid "|image34|"
 msgstr "|image34|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:765
+msgid "image34"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:495
 msgid "Feature: Custom expression functions"
 msgstr ""
@@ -809,6 +945,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:501
 msgid "|image35|"
 msgstr "|image35|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:766
+msgid "image35"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:504
 msgid "Feature: New cleaner Python API"
@@ -834,6 +974,10 @@ msgstr ""
 msgid "|image36|"
 msgstr "|image36|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:767
+msgid "image36"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:530
 msgid "Feature: Code compatibility with version 1.x releases"
 msgstr ""
@@ -851,6 +995,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:539
 msgid "|image37|"
 msgstr "|image37|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:768
+msgid "image37"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:542
 msgid "Feature: Python project macros"
@@ -883,6 +1031,10 @@ msgstr ""
 msgid "|image38|"
 msgstr "|image38|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:769
+msgid "image38"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:556
 msgid "Symbology"
 msgstr "Стиль"
@@ -902,6 +1054,10 @@ msgstr ""
 msgid "|image39|"
 msgstr "|image39|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:770
+msgid "image39"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:568
 msgid "Feature: Improved symbol layer management"
 msgstr ""
@@ -915,6 +1071,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:573
 msgid "|image40|"
 msgstr "|image40|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:771
+msgid "image40"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:576
 msgid "Feature: Support for transparency in colour definitions"
@@ -932,6 +1092,10 @@ msgstr ""
 msgid "|image41|"
 msgstr "|image41|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:772
+msgid "image41"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:586
 msgid "Feature: Color Control for Raster Layers"
 msgstr ""
@@ -947,6 +1111,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:593
 msgid "|image42|"
 msgstr "|image42|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:773
+msgid "image42"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:596
 msgid "Feature: Copy symbology between layers"
@@ -964,6 +1132,10 @@ msgstr ""
 msgid "|image43|"
 msgstr "|image43|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:774
+msgid "image43"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:607
 msgid "Feature: Save styles in your database"
 msgstr ""
@@ -978,6 +1150,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:613
 msgid "|image44|"
 msgstr "|image44|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:775
+msgid "image44"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:616
 msgid "Feature: Colour ramp support"
@@ -996,6 +1172,10 @@ msgstr ""
 msgid "|image45|"
 msgstr "|image45|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:776
+msgid "image45"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:628
 msgid "Feature: Set custom default styles for all layer types"
 msgstr ""
@@ -1011,6 +1191,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:635
 msgid "|image46|"
 msgstr "|image46|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:777
+msgid "image46"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:638
 msgid "User Interface"
@@ -1031,6 +1215,10 @@ msgstr ""
 msgid "|image47|"
 msgstr "|image47|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:778
+msgid "image47"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:650
 msgid "Feature: Side tabs, collapsable groups"
 msgstr ""
@@ -1045,6 +1233,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:656
 msgid "|image48|"
 msgstr "|image48|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:779
+msgid "image48"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:659
 msgid "Feature: Soft notifications"
@@ -1063,6 +1255,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:668
 msgid "|image49|"
 msgstr "|image49|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:780
+msgid "image49"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:671
 msgid "Feature: Application custom font and Qt stylesheet"
@@ -1087,6 +1283,10 @@ msgstr ""
 msgid "|image50|"
 msgstr "|image50|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:781
+msgid "image50"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:689
 msgid "Feature: Live color chooser dialogs and buttons"
 msgstr ""
@@ -1106,6 +1306,10 @@ msgstr ""
 msgid "|image51|"
 msgstr "|image51|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:782
+msgid "image51"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:703
 msgid "Feature: SVG Annotations"
 msgstr ""
@@ -1119,6 +1323,10 @@ msgstr "В QGIS 2.0 добавлена поддержка SVG-аннотаций
 #: ../../source/site/forusers/visualchangelog200/index.rst:709
 msgid "|image52|"
 msgstr "|image52|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:783
+msgid "image52"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:712
 msgid "Feature: Drag and drop form builder"
@@ -1136,6 +1344,10 @@ msgstr ""
 msgid "|image53|"
 msgstr "|image53|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:784
+msgid "image53"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:722
 msgid "Feature: Default action tool"
 msgstr ""
@@ -1151,6 +1363,22 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog200/index.rst:729
 msgid "|image54|"
 msgstr "|image54|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:785
+msgid "image54"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:731
+msgid "image0"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "|image0|"
 #~ msgstr ""

@@ -6,15 +6,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-01 17:28+0100\n"
-"PO-Revision-Date: 2019-09-05 17:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-11-01 16:56+0000\n"
+"Last-Translator: Kayama Yoichi <yoichi.kayama@gmail.com>, 2017-2018\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:4
+msgid "Changelog for QGIS 2.6"
+msgstr "QGIS 2.6の変更履歴"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:6
 msgid ""
@@ -50,10 +55,24 @@ msgid ""
 "financial support they provide to this project:"
 msgstr "最後に、このプロジェクトに提供した貴重な財政支援について、公式スポンサーに感謝したい。"
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:26
+msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
+msgstr "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:27
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
 msgstr "SILVERスポンサー： `Sourcepole AG、スイス<http://www.sourcepole.com/>` _"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:28
+msgid ""
+"SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
+msgstr "シルバースポンサー: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:29
+msgid ""
+"BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
+msgstr "ブロンズスポンサー: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:30
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
@@ -73,6 +92,18 @@ msgid ""
 "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
 "<http://www.eschenlaub.de/>`_"
 msgstr "ブロンズスポンサー: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www.eschenlaub.de/>`_"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:35
+msgid ""
+"A current list of donors who have made financial contributions large and "
+"small to the project can be seen on our `donors list "
+"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
+"would like to become an official project sponsor, please visit `our "
+"sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details."
+" Sponsoring QGIS helps us to fund our six monthly developer meetings, "
+"maintain project infrastructure and fund bug fixing efforts."
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:44
 msgid ""
@@ -167,6 +198,11 @@ msgstr "範囲ウィジェットのサフィックスサポートを追加する
 msgid "Feature: Optionally use just a subset of fields from the joined layer"
 msgstr "機能：オプションで、結合されたレイヤーのフィールドのサブセットのみを使用する"
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:109
+msgid ""
+"You can now use just a subset of related fields when creating a vector join."
+msgstr "ベクター結合の作成時に、関連フィールドのサブセットのみを使用できるようになりました。"
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:117
 msgid "Feature: Expression field (virtual fields)"
 msgstr "機能:式フィールド(仮想フィールド)"
@@ -257,6 +293,10 @@ msgid ""
 "entries for items not currently in the map view. It is available in the main"
 " map legend and in map composer and for WMS layers."
 msgstr "凡例ツールバーの新しい凡例フィルタオプションは、現在表示範囲にないクラスの凡例項目を削除します。これは、マップの凡例に現在マップビューにないアイテムのエントリが含まれていないことを保証するので、すばらしい改善点です。メインマップの凡例、マップコンポーザー、およびWMSレイヤーで使用できます。"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:179
+msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"
+msgstr "ルールベースのレンダラの凡例を疑似ツリーで表示できるようになりました"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:186
 msgid "Data Providers"
@@ -485,6 +525,13 @@ msgstr "破壊的な 'Load from template'メニュー項目を削除し、非破
 #: ../../source/site/forusers/visualchangelog260/index.rst:325
 msgid "Feature: Improved item snapping"
 msgstr "機能:アイテムスナッピングの改善"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:327
+msgid ""
+"Snapping thresholds are now set in pixels, allowing for finer movement and "
+"resizing of items when zoomed in to a composition. Items within a group are "
+"no longer used for auto snap lines."
+msgstr "スナップしきい値がピクセル単位で設定されるようになりました。これにより、コンポジションにズームインしたときにアイテムを細かく移動したりサイズを変更することができます。グループ内の項目は、自動スナップ線では使用されなくなりました。"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:336
 msgid "Feature: Multiple overviews for a map item"
@@ -793,6 +840,10 @@ msgstr "機能:新しいカラーピッカーダイアログ"
 msgid "There is a new custom QGIS color picker dialog. Features include:"
 msgstr "新しいQGISカラーピッカーダイアログです.次のような機能をもちます:"
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:514
+msgid "Sliders for hue, saturation, value, red, green, blue color components."
+msgstr "色相、彩度、値、赤、緑、青の色成分のスライダー。"
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:516
 msgid "Alpha slider."
 msgstr "アルファスライダ."
@@ -812,6 +863,28 @@ msgstr "インタラクティブ2Dカラーランプウィジェット。"
 #: ../../source/site/forusers/visualchangelog260/index.rst:520
 msgid "Hue wheel/triangle widget."
 msgstr "色相ホイール/三角ウィジェット."
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:521
+msgid ""
+"Editable color palettes, including the ability to create new palettes and "
+"import/export colors to a GPL palette file."
+msgstr "編集可能なカラーパレット：新しいパレットを作成したり、GPLパレットファイルにカラーをインポート/エクスポートしたりできます。"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:523
+msgid ""
+"Live color sampler with option to sample over a set radius (OS support "
+"dependant)."
+msgstr "設定された半径でサンプリングするオプション付きのライブカラーサンプラー（OSサポート依存）。"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:525
+msgid ""
+"Supports interaction with other apps via drag and drop of colors (OS support"
+" dependant)."
+msgstr "ドラッグ＆ドロップによる色の他のアプリケーションとのやりとりをサポートします（OSのサポートに依存）。"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:527
+msgid "Option to disable the dialog and use the native picker dialog instead."
+msgstr "ダイアログを無効にし、代わりにネイティブピッカーダイアログを使用するオプション。"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:535
 msgid "Feature: Single select feature tool merged into select by rectangle"
@@ -870,77 +943,13 @@ msgid ""
 "which feature types you wish to identify (all all if you like)."
 msgstr "識別ツールを使用する場合は、キャンバスを右クリックして、識別ツールをコンテキストモードで使用することができます。表示されるメニューでは、識別する地物タイプを定義できます（必要に応じてすべての地物タイプを定義できます）。"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:35
-msgid ""
-"A current list of donors who have made financial contributions large and "
-"small to the project can be seen on our `donors list "
-"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
-"would like to become an official project sponsor, please visit `our "
-"sponsorship page "
-"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details."
-" Sponsoring QGIS helps us to fund our six monthly developer meetings, "
-"maintain project infrastructure and fund bug fixing efforts."
-msgstr ""
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:109
-msgid ""
-"You can now use just a subset of related fields when creating a vector join."
-msgstr "ベクター結合の作成時に、関連フィールドのサブセットのみを使用できるようになりました。"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:28
-msgid ""
-"SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
-msgstr "シルバースポンサー: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:29
-msgid ""
-"BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
-msgstr "ブロンズスポンサー: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:179
-msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"
-msgstr "ルールベースのレンダラの凡例を疑似ツリーで表示できるようになりました"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:514
-msgid "Sliders for hue, saturation, value, red, green, blue color components."
-msgstr "色相、彩度、値、赤、緑、青の色成分のスライダー。"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:521
-msgid ""
-"Editable color palettes, including the ability to create new palettes and "
-"import/export colors to a GPL palette file."
-msgstr "編集可能なカラーパレット：新しいパレットを作成したり、GPLパレットファイルにカラーをインポート/エクスポートしたりできます。"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:523
-msgid ""
-"Live color sampler with option to sample over a set radius (OS support "
-"dependant)."
-msgstr "設定された半径でサンプリングするオプション付きのライブカラーサンプラー（OSサポート依存）。"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:525
-msgid ""
-"Supports interaction with other apps via drag and drop of colors (OS support"
-" dependant)."
-msgstr "ドラッグ＆ドロップによる色の他のアプリケーションとのやりとりをサポートします（OSのサポートに依存）。"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:527
-msgid "Option to disable the dialog and use the native picker dialog instead."
-msgstr "ダイアログを無効にし、代わりにネイティブピッカーダイアログを使用するオプション。"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:26
-msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
-msgstr "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:327
-msgid ""
-"Snapping thresholds are now set in pixels, allowing for finer movement and "
-"resizing of items when zoomed in to a composition. Items within a group are "
-"no longer used for auto snap lines."
-msgstr "スナップしきい値がピクセル単位で設定されるようになりました。これにより、コンポジションにズームインしたときにアイテムを細かく移動したりサイズを変更することができます。グループ内の項目は、自動スナップ線では使用されなくなりました。"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:4
-msgid "Changelog for QGIS 2.6"
-msgstr "QGIS 2.6の変更履歴"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "Changelog for QGIS: 2.6.0"
 #~ msgstr ""

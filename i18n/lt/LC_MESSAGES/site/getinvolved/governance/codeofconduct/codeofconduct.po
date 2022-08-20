@@ -5,15 +5,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2017-09-23 20:42+0000\n"
-"Last-Translator: Tomas Straupis\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: Tomas Straupis, 2016\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:4
+msgid "Code of Conduct"
+msgstr "Etikos kodeksas"
 
 #: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:6
 msgid ""
@@ -159,9 +164,13 @@ msgstr "Pradinis tekstas paimtas iš projekto „Speak up!“ ir Django etikos k
 msgid "If you have questions, feel free to contact us: psc@qgis.org"
 msgstr "Jei turite klausimų, nedvejodami susiekite su mumis: psc@qgis.org"
 
-#: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:4
-msgid "Code of Conduct"
-msgstr "Etikos kodeksas"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS Code of Conduct"
 #~ msgstr ""

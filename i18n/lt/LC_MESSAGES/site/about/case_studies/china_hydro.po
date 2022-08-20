@@ -1,22 +1,24 @@
 # 
 # Translators:
+# Tomas Straupis, 2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2020-03-16 09:23+0000\n"
-"Last-Translator: Tomas Straupis\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: Tomas Straupis, 2021\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
 #: ../../source/site/about/case_studies/china_hydro.rst:3
 msgid "Producing an arcHYDRO like output with QGIS"
-msgstr ""
+msgstr "Rezultato, panašaus į arcHYDRO, kūrimas su QGIS"
 
 #: ../../source/site/about/case_studies/china_hydro.rst:5
 msgid ""
@@ -28,7 +30,11 @@ msgid ""
 "minor in Environmental Science."
 msgstr "Aš dirbu miesto planavimo kompanijoje, Kinijoje. Dažnai būna sudėtinga sukurti tinkamą aplinkosaugą, nes dažnai duomenų šaltiniai yra valstybinė paslaptis arba gali tiesiog neegzistuoti. Dažnai mūsų prašo sukurti planą be tinkamų matininkų duomenų. Be to, dažnai tiesiog nėra laiko tinkamai analizei. Mano pagrindinė specializacija yra miesto planavimas ir šiek tiek aplinkos mokslo."
 
+msgid "Overview Context Map"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:14
+#, python-format
 msgid ""
 "The task was plan a conservation park on the Chinese side of the Ili River "
 "which supplies 80% of the water to Lake Balkhash.  FOSS GIS application + "
@@ -38,6 +44,9 @@ msgid ""
 "experience I could not have done it without all three.  My company did not "
 "and would not pay to purchase GIS software to run the industry standard "
 "arcHYDRO."
+msgstr "Užduotis buvo suplanuoti draustinio parką Kinijos pusėje Ili upės, kuri teikia 80% vandens Balkhash'o ežerui. FOSS GIS programos + FOSS GIS duomenų šaltiniai + FOSS GIS mokymai buvo kritiškai svarbūs rekonstruojant ir modeliuojant hidrologinius ir ekologinius procesus, būtinus autentiškam išsaugojimo planavimui. Kaip ne mokslininkas be jokio ankstesnio mokymo ar patirties, aš nebūčiau galėjęs nieko padaryti be aukščiau paminėtų trijų dalykų. Mano kompanija nebūtų galėjusi mokėti už GIS programinę įrangą, palaikančią pramonės standartą arcHYDRO"
+
+msgid "Stream Order With Distance"
 msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:22
@@ -55,6 +64,9 @@ msgid ""
 "the attribute tables."
 msgstr "Po kelių bandymų man pavyko su QGIS sukurti rezultatą, panašų į arcHYDRO. Pradžioje USGS Hydroshed DEM buvo konvertuotas į Reguliarizuotas juosteles su įtampa naudojant QGIS GRASS funkcijas pagal Helenos Mitsovos pamokas. RST paviršius buvo išanalizuotas ieškant telkinių ir tėkmės kelių. Gauta vektorinė topologija buvo išvalyta QGIS'u generuojant Hydrologinį tinklą ir taip pat kuriant atributų lenteles."
 
+msgid "Curve Number Grid"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:31
 msgid ""
 "This network was ranked by r.stream extension in GRASS to build Hortons and "
@@ -66,6 +78,9 @@ msgid ""
 "invaluable."
 msgstr "Šis tinklas buvo reitinguotas naudojant GRASS plėtinį r.strem, kad būtų sukurti Hortono ir Hacko tėkmių rikiavimai. Tada atstumas iki paviršiaus gardelės buvo sugeneruotas ir išanalizuotas naudojant zoninę statistiką, ieškant tolimiausio taško. Tada, GRASS r.drain panaudotas atsekti koncentracijos linijos laiką. Ir pabaigoje GRASS v.net buvo panaudotas pylimo taškų tinklo sukūrimui, tekėjimo keliams, TOC keliams ir HMDP kiekvienam vandens telkiniui. Tokia darbų seka QGIS įrankio atributai pagal vietą buvo neįkainojami."
 
+msgid "Flow Key"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:38
 msgid ""
 "After the basic hydrologic network was finished I used UN FAO soils database"
@@ -76,6 +91,9 @@ msgid ""
 "Manning's n-value grid for overland flow.  Finally I wrote a lookup table in"
 " r.mapcalc and merged the soil and landcover grids into and NRCS TR-55 curve"
 " numbers following the arcHYDRO methodology."
+msgstr "Pabaigus paprastąjį hidrologinį tinklą, aš naudojau UN FAO dirvožemio duomenų bazę jungiant lenteles su dirvožemio klasifikacija. Tada QGIS užklausų funkcijos FAO dirvožemius konvertavo į USDA dirvožemius. Anksčiau atsiųsta USGS ETM7+ gardelė buvo klasifikuota naudojant i.cluster ir r.maxlik į NLCD gardelę. Naudojant perklasifikavimo lenteles aš konvertavau žemės paviršiaus informaciją į Manning'o n-reikšmių gardelę viršžeminei tėkmei. Pabaigoje parašiau lentelę r.mapcalc ir suliejau dirvožemio ir žemės paviršiaus gardeles į NRCS TR-55 kreivių skaičius naudojant archHYDRO metodologiją."
+
+msgid "Flow rates"
 msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:45
@@ -85,7 +103,7 @@ msgid ""
 "Then I downloaded a free sample grid of PRISM for China and assuming a "
 "linear relationship, converted average cell values to maximum cell values in"
 " order to build maximum rainfall intensity grids."
-msgstr ""
+msgstr "Kad sukurčiau lietaus gardeles, vykdžiau GHCN lentelių statistinę analizę, radau lietaus gylius ir dizaino audras 1,2,5,10,50,100 metams. Tada atsisiunčiau nemokamą Kinijos PRISM gardelę ir darant prielaidą, kad priklausomybė yra linijinė, konvertavau vidutines celės reikšmes į maksimalias celės reikšmes, kad sukurčiau maksimalaus kritulių intensyvumo gardeles."
 
 #: ../../source/site/about/case_studies/china_hydro.rst:48
 msgid "Conclusion"
@@ -108,7 +126,7 @@ msgstr "Autorius"
 
 #: ../../source/site/about/case_studies/china_hydro.rst:60
 msgid "Robert Ward"
-msgstr ""
+msgstr "Robert Ward"
 
 #: ../../source/site/about/case_studies/china_hydro.rst:62
 msgid ""
@@ -117,6 +135,14 @@ msgid ""
 "at Tongji University and Autodesk University.  He is interested in GIS-based"
 " Hydrologic & Hydraulic modelling, Landscape Ecology modelling, Ecosystem "
 "Valuation, Transportation Modelling and GIS-Based Design Visualization."
+msgstr "Robert Ward yra Miesto Dizaineris ir GIS analitikas dirbantis Parsons Brinkerhoff, užsiimantis aukštų technologijų ir meno sankirta. Jis mokė Tongji ir Autodesk Universitetuose. Domisi GIS-paremtu hidrologiniu ir hidrauliniu modeliavimu, kraštovaizdžio ekologijos modeliavimu, ekosistemos vertinimu, transportavimo modeliavimu ir GIS-paremtu dizaino vizualizavimu."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid ""

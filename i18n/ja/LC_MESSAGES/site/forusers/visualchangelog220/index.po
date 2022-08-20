@@ -7,15 +7,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2020-08-06 07:07+0000\n"
-"Last-Translator: TERAMOTO Ikuhiro <yellow@affrc.go.jp>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:13+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2019\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:5
+msgid "Changelog for QGIS 2.2"
+msgstr "QGIS 2.2の変更履歴"
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:7
 msgid ""
@@ -83,6 +88,16 @@ msgid ""
 "<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__."
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:44
+msgid ""
+"If you would like to make a donation or sponsor our project, please visit "
+"`our sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
+"details. QGIS is Free software and you are under no obligation to do so. "
+"Sponsoring QGIS helps us to fund our six monthly developer meetings, "
+"maintain project infrastructure and fund bug fixing efforts."
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:57
 msgid "Application and Project Options"
 msgstr "アプリケーションとプロジェクトオプション"
@@ -101,6 +116,10 @@ msgstr "あなたの船員を航海するために、航海距離を使って距
 #: ../../source/site/forusers/visualchangelog220/index.rst:66
 msgid "|image1|"
 msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:451
+msgid "image1"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:69
 msgid "Data Providers"
@@ -125,6 +144,10 @@ msgstr "このリリースでは、1：n関係を定義する能力がありま�
 msgid "|image2|"
 msgstr "|image2|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:452
+msgid "image2"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:86
 msgid "Feature: DXF Export tool"
 msgstr "機能： DXFエクスポートツール"
@@ -136,6 +159,10 @@ msgstr "DXFをエクスポートするための新しいツールが ``プロジ
 #: ../../source/site/forusers/visualchangelog220/index.rst:90
 msgid "|image3|"
 msgstr "|image3|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:453
+msgid "image3"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:93
 msgid "Feature: Paste as new vector layer"
@@ -158,6 +185,10 @@ msgstr "サブセレクションを作成し、そのセレクションから新
 #: ../../source/site/forusers/visualchangelog220/index.rst:106
 msgid "|image4|"
 msgstr "|image4|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:454
+msgid "image4"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:109
 msgid "Feature: WMS legend graphic in table of contents and composer"
@@ -183,6 +214,10 @@ msgstr "レイヤーの凡例をクリックすると、凡例がフル解像度
 msgid "|image5|"
 msgstr "|image5|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:455
+msgid "image5"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:124
 msgid "Digitising"
 msgstr "デジタイジング"
@@ -202,6 +237,10 @@ msgstr "この新しいツールは、ポリゴンの穴をカットし、新し
 msgid "|image6|"
 msgstr "|image6|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:456
+msgid "image6"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:136
 msgid "General"
 msgstr "一般情報"
@@ -217,6 +256,10 @@ msgstr "式ビルダーでは最近の20個の利用した式を覚えていま�
 #: ../../source/site/forusers/visualchangelog220/index.rst:143
 msgid "|image7|"
 msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:457
+msgid "image7"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:146
 msgid "Feature: Paste WKT from clipboard"
@@ -248,6 +291,10 @@ msgstr "``Zebra`` 境界の色を地図コンポーザの地図要素に設定�
 msgid "|image8|"
 msgstr "|image8|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:458
+msgid "image8"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:165
 msgid "Feature: Element rotation support"
 msgstr "機能：要素回転のサポート"
@@ -263,6 +310,10 @@ msgstr "スケールバー、テーブル、凡例など、コンポーザのあ
 #: ../../source/site/forusers/visualchangelog220/index.rst:172
 msgid "|image9|"
 msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:459
+msgid "image9"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:175
 msgid "Feature: Composer scale added and ruler improvements"
@@ -286,6 +337,10 @@ msgstr "スケールロジックを調整し、小さなルーラー桁を追加
 msgid "|image10|"
 msgstr "|image10|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:460
+msgid "image10"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:191
 msgid "Feature: World file generation"
 msgstr "機能:ワールドファイル生成"
@@ -301,6 +356,10 @@ msgstr "コンポーザでは、ジオリファレンスされた地図を作成
 #: ../../source/site/forusers/visualchangelog220/index.rst:199
 msgid "|image11|"
 msgstr "|image11|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:461
+msgid "image11"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:202
 msgid "Feature: Working with multiple items"
@@ -321,9 +380,29 @@ msgstr "複数のアイテムを同時に移動およびサイズ変更するた
 msgid "Feature: Atlas enhancements"
 msgstr "機能：地図帳の強化"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:216
+msgid ""
+"You can now preview the individual pages of the map atlas that will be "
+"generated in composer. While in atlas preview mode you can output the "
+"current page without outputting the entire atlas. You can also tweak the map"
+" extent or scale for each feature while previewing the atlas page. Atlas map"
+" settings have been moved from the atlas panel to the map properties panel, "
+"so now more than one map can be controlled by the atlas generation. There's "
+"a new option to automatically centre an overview map, which comes in handy "
+"when creating atlas based maps. More context information is now available so"
+" that you can adjust your symbology based on whether the feature is the "
+"current atlas feature or not. See `this article for more info "
+"<http://nathanw.net/2013/12/02/waiting-for-qgis-22-highlighting-current-"
+"atlas-feature/>`__."
+msgstr "コンポーザで生成される地図帳の個々のページをプレビューできるようになりました。地図帳プレビューモードでは、アトラス全体を出力せずに現在のページを出力できます。また、地図帳のページをプレビューしながら、各機能の地図の範囲や縮尺を調整することもできます。地図帳のマップ設定が地図帳パネルからマップのプロパティパネルに移動したので、複数のマップを地図帳世代によって制御できます。概要マップを自動的に中央揃えする新しいオプションがあり、地図帳ベースの地図を作成するときに便利です。現在のアトラス機能であるかどうかに基づいてシンボルを調整できるように、より多くのコンテキスト情報が利用できるようになりました。詳細は<http://nathanw.net/2013/12/02/waiting-for-qgis-22-highlighting-current-atlas-feature/> `__を参照してください。"
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:229
 msgid "|image12|"
 msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:462
+msgid "image12"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:232
 msgid "Feature: Improved item selection"
@@ -394,6 +473,10 @@ msgstr "QGIS-Serverは、Webマップサービス（WMSバージョン1.3.0お�
 msgid "|image13|"
 msgstr "|image13|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:463
+msgid "image13"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:285
 msgid "Symbology"
 msgstr "シンボロジー"
@@ -441,6 +524,10 @@ msgstr "グラデーション塗りつぶしの使い方の詳細は `here <http
 msgid "|image14|"
 msgstr "|image14|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:464
+msgid "image14"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:307
 msgid "Feature: Label support for palleted rasters"
 msgstr "機能：ラップアラウンド用ラベルのサポート"
@@ -456,6 +543,10 @@ msgstr "固定されたカラーパレットを使用するラスタ（例えば
 msgid "|image15|"
 msgstr "|image15|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:465
+msgid "image15"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:316
 msgid "Feature: Colour ramps can be inverted"
 msgstr "機能：カラーランプを反転することができます"
@@ -470,6 +561,10 @@ msgstr "色ランプを扱うシンボルダイアログボックスに新しい
 msgid "|image16|"
 msgstr "|image16|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:466
+msgid "image16"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:324
 msgid "Feature: Copy and Paste in Rule based renderer"
 msgstr "機能：ルールベースのレンダラーでのコピーと貼り付け"
@@ -483,6 +578,10 @@ msgstr "ルールベースのレンダラでは、ルールを右クリックし
 #: ../../source/site/forusers/visualchangelog220/index.rst:329
 msgid "|image17|"
 msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:467
+msgid "image17"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:332
 msgid "Feature: On the fly feature generalisation"
@@ -503,6 +602,10 @@ msgstr "QGIS 2.2では、その場で地物総描のサポートが導入され�
 msgid "|image18|"
 msgstr "|image18|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:468
+msgid "image18"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:346
 msgid "Feature: Anchor points can be set for marker layers"
 msgstr "機能：マーカーレイヤーにアンカーポイントを設定できます"
@@ -522,6 +625,10 @@ msgstr "マーカーレイヤー（SVGマーカーでシンボル化されたポ
 msgid "|image19|"
 msgstr "|image19|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:469
+msgid "image19"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:360
 msgid "Feature: Thematic maps based on expressions"
 msgstr "機能：式に基づく主題図"
@@ -540,6 +647,10 @@ msgstr "分類と段階の主題図を、式の結果を使用して作成でき
 msgid "|image20|"
 msgstr "|image20|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:470
+msgid "image20"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:372
 msgid "Feature: Expression support in symbol diagrams for size and attributes"
 msgstr "Feature：シンボル図のサイズと属性の式のサポート"
@@ -554,6 +665,10 @@ msgstr "QGISのダイアグラム機能を使用するときに、式を使用�
 #: ../../source/site/forusers/visualchangelog220/index.rst:378
 msgid "|image21|"
 msgstr "|image21|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:471
+msgid "image21"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:381
 msgid "Feature: Else rule in rule based renderer"
@@ -582,6 +697,10 @@ msgstr "``ELSE (style red)``"
 msgid "|image22|"
 msgstr "|image22|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:472
+msgid "image22"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:395
 msgid "Feature: Inner stroke support for polygons"
 msgstr "機能：ポリゴンの内部ストロークのサポート"
@@ -602,6 +721,10 @@ msgstr "この機能の詳細は、この記事の第2部<http://nyalldawson.net
 msgid "|image23|"
 msgstr "|image23|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:473
+msgid "image23"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:408
 msgid "User Interface"
 msgstr "ユーザーインターフェース"
@@ -621,6 +744,10 @@ msgstr "私たちのすべてのプロパティダイアログにはメインプ
 msgid "|image24|"
 msgstr "|image24|"
 
+#: ../../source/site/forusers/visualchangelog220/index.rst:474
+msgid "image24"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog220/index.rst:421
 msgid "Feature: Expression dialog improvements"
 msgstr "機能:式ダイアログの改善"
@@ -637,6 +764,10 @@ msgstr "私たちは表現ダイアログに微妙な調整を加えました。
 #: ../../source/site/forusers/visualchangelog220/index.rst:429
 msgid "|image25|"
 msgstr "|image25|"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:475
+msgid "image25"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:432
 msgid "Feature: New keybindings"
@@ -680,35 +811,21 @@ msgstr "さらに詳細な情報は `Issue 9094 <http://hub.qgis.org/issues/9094
 msgid "|image26|"
 msgstr "|image26|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:44
-msgid ""
-"If you would like to make a donation or sponsor our project, please visit "
-"`our sponsorship page "
-"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
-"details. QGIS is Free software and you are under no obligation to do so. "
-"Sponsoring QGIS helps us to fund our six monthly developer meetings, "
-"maintain project infrastructure and fund bug fixing efforts."
+#: ../../source/site/forusers/visualchangelog220/index.rst:476
+msgid "image26"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:216
-msgid ""
-"You can now preview the individual pages of the map atlas that will be "
-"generated in composer. While in atlas preview mode you can output the "
-"current page without outputting the entire atlas. You can also tweak the map"
-" extent or scale for each feature while previewing the atlas page. Atlas map"
-" settings have been moved from the atlas panel to the map properties panel, "
-"so now more than one map can be controlled by the atlas generation. There's "
-"a new option to automatically centre an overview map, which comes in handy "
-"when creating atlas based maps. More context information is now available so"
-" that you can adjust your symbology based on whether the feature is the "
-"current atlas feature or not. See `this article for more info "
-"<http://nathanw.net/2013/12/02/waiting-for-qgis-22-highlighting-current-"
-"atlas-feature/>`__."
-msgstr "コンポーザで生成される地図帳の個々のページをプレビューできるようになりました。地図帳プレビューモードでは、アトラス全体を出力せずに現在のページを出力できます。また、地図帳のページをプレビューしながら、各機能の地図の範囲や縮尺を調整することもできます。地図帳のマップ設定が地図帳パネルからマップのプロパティパネルに移動したので、複数のマップを地図帳世代によって制御できます。概要マップを自動的に中央揃えする新しいオプションがあり、地図帳ベースの地図を作成するときに便利です。現在のアトラス機能であるかどうかに基づいてシンボルを調整できるように、より多くのコンテキスト情報が利用できるようになりました。詳細は<http://nathanw.net/2013/12/02/waiting-for-qgis-22-highlighting-current-atlas-feature/> `__を参照してください。"
+#: ../../source/site/forusers/visualchangelog220/index.rst:450
+msgid "image0"
+msgstr ""
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:5
-msgid "Changelog for QGIS 2.2"
-msgstr "QGIS 2.2の変更履歴"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "|image0|"
 #~ msgstr ""

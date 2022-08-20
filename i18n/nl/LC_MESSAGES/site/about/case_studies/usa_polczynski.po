@@ -4,21 +4,21 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# DiGro, 2018
+# DiGro, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:28+0000\n"
-"Last-Translator: DiGro, 2018\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (https://www.transifex.com/qgis/teams/6144/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -32,32 +32,32 @@ msgid ""
 "components of their scholarly research, but these materials may not be "
 "readily available to scholars with similar interests.  The purpose of the "
 "OpenOttoman (Amy Singer, OpenOttoman: A Collaborative Platform for Digital "
-"Scholarship, https://networks.hnet.org/node/11419/discussions/166360"
-"/openottoman-collaborative-platform-digital-scholarship, 2017) is to "
-"stimulate generation of such materials and provide open and convenient "
-"access to these materials. The OpenOttoman Portal (http:// "
-"www.openottoman.org) (OOP) is one vehicle for accessing these materials.  "
-"Materials made available through the OOP include databases, with a prime "
-"example being gazetteers of Ottoman world places.  Here, we describe the "
-"Historical Gazetteer of the Crimea (HGC), a prototype OOP gazetteer that "
-"includes populated places, districts, and provinces of Crimea in existence "
-"at the end of the Crimean Khanate."
+"Scholarship, "
+"https://networks.hnet.org/node/11419/discussions/166360/openottoman-"
+"collaborative-platform-digital-scholarship, 2017) is to stimulate generation"
+" of such materials and provide open and convenient access to these "
+"materials. The OpenOttoman Portal (http:// www.openottoman.org) (OOP) is one"
+" vehicle for accessing these materials.  Materials made available through "
+"the OOP include databases, with a prime example being gazetteers of Ottoman "
+"world places.  Here, we describe the Historical Gazetteer of the Crimea "
+"(HGC), a prototype OOP gazetteer that includes populated places, districts, "
+"and provinces of Crimea in existence at the end of the Crimean Khanate."
 msgstr ""
 "Elke dag genereren Ottomanen over de gehele waardevol materiaal zoals "
 "componenten van hun research voor hun studies, maar dit materiaal is vaak "
 "niet beschikbaar voor studenten met dezelfde interesses. Het doel van de "
 "OpenOttoman (Amy Singer, OpenOttoman: A Collaborative Platform for Digital "
-"Scholarship, https://networks.hnet.org/node/11419/discussions/166360"
-"/openottoman-collaborative-platform-digital-scholarship, 2017) is om het "
-"genereren van dergelijk  materiaal te stimuleren en open en handige toegang "
-"te verschaffen tot dit materiaal. Het OpenOttoman Portal (http:// "
-"www.openottoman.org) (OOP) is één mogelijkheid om toegang te verkrijgen tot "
-"dit materiaal. Materiaal dat beschikbaar is via OOP omvat databases, met als"
-" een voortreffelijk voorbeeld een gazetteers te zijn voor Ottomaanse "
-"plaatsen in de wereld. Hier beschrijven we de Historical Gazetteer of the "
-"Crimea (HGC), een prototype OOP gazetteer die bewoonde plaatsen, districten "
-"en provincies van de Krim omvat zoals dat bestond aan het einde van de "
-"kanaat van de krim."
+"Scholarship, "
+"https://networks.hnet.org/node/11419/discussions/166360/openottoman-"
+"collaborative-platform-digital-scholarship, 2017) is om het genereren van "
+"dergelijk  materiaal te stimuleren en open en handige toegang te verschaffen"
+" tot dit materiaal. Het OpenOttoman Portal (http:// www.openottoman.org) "
+"(OOP) is één mogelijkheid om toegang te verkrijgen tot dit materiaal. "
+"Materiaal dat beschikbaar is via OOP omvat databases, met als een "
+"voortreffelijk voorbeeld een gazetteers te zijn voor Ottomaanse plaatsen in "
+"de wereld. Hier beschrijven we de Historical Gazetteer of the Crimea (HGC), "
+"een prototype OOP gazetteer die bewoonde plaatsen, districten en provincies "
+"van de Krim omvat zoals dat bestond aan het einde van de kanaat van de krim."
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:7
 msgid ""
@@ -128,6 +128,10 @@ msgstr ""
 "in QGIS met behulp van de fysieke kaart van Google Maps."
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:19
+msgid "Gazetteer databases"
+msgstr "Gazetteer databases"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:19
 msgid "Table 1: Gazetteer databases"
 msgstr "Tabel 1: Gazetteer databases"
 
@@ -140,6 +144,10 @@ msgstr ""
 "Openen van het project in QGIS geeft het resultaat dat wordt weergegeven in "
 "Afbeelding 1. Voor de KML- en shapefiledatabase voor rivieren, werden "
 "rivieren getraceerd in QGIS met behulp van de fysieke kaart van Google Maps."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:29
+msgid "HGC-QGIS-Project.qgs opened in QGIS"
+msgstr "HGC-QGIS-Project.qgs geopend in QGIS"
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:29
 msgid "Figure 1: HGC-QGIS-Project.qgs opened in QGIS."
@@ -161,6 +169,10 @@ msgstr ""
 " plaats als een unieke identificatie voor de plaats in HGC."
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:38
+msgid "HGC database fields"
+msgstr "HGC databasevelden"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:38
 msgid "Table 2: HGC database fields."
 msgstr "Tabel 2: HGC databasevelden."
 
@@ -173,6 +185,10 @@ msgstr ""
 "Onthoud dat de ID kan worden geopend in een webbrowser, waarbij automatisch "
 "een kaart van GeoNames wordt weergegeven met de bewoonde plaats als het "
 "centrum, zoals weergegeven in Afbeelding 2."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:47
+msgid "Opening the URL ID for Qarağy in a web browser"
+msgstr "Openen van de URL ID voor Qarağy in een webbrowser"
 
 #: ../../source/site/about/case_studies/usa_polczynski.rst:47
 msgid "Figure 2: Opening the URL ID for Qarağy in a web browser."
@@ -291,3 +307,11 @@ msgstr ""
 "technische assistentie aan OpenOttoman (openottoman.org), een ontwikkeling "
 "van transnationale digitale samenwerking van scholing en publieke "
 "geschiedenis, gefocust op de Ottomaanse wereld."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

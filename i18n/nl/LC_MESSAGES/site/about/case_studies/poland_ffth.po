@@ -4,21 +4,21 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# DiGro, 2018
+# DiGro, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:26+0000\n"
-"Last-Translator: DiGro, 2018\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (https://www.transifex.com/qgis/teams/6144/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -203,6 +203,9 @@ msgstr ""
 "werd in modellen ingebouwd in de vorm van een ontworpen stroom, die "
 "bestaande algoritmes van QGIS gebruikt en toegewezen scripts aanroept."
 
+msgid "Toolbox"
+msgstr "Toolbox"
+
 #: ../../source/site/about/case_studies/poland_ffth.rst:79
 msgid ""
 "To prevent the results of subsequent analyses from getting mixed up, we "
@@ -212,6 +215,9 @@ msgstr ""
 "We verschaften een plug-in, genaamd WorkContextTracer, die ons werk "
 "groepeert in zogenaamde werkcontexten, om te voorkomen dat resultaten van "
 "elkaar opvolgende analyses zich zouden vermengen."
+
+msgid "Workorder"
+msgstr "Werkvolgorde"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:86
 msgid ""
@@ -271,6 +277,9 @@ msgstr ""
 "parameters verschaffen die nodig waren voor de verdere stappen van het "
 "algoritme."
 
+msgid "Step 1: input layer"
+msgstr "Stap 1: invoerlaag"
+
 #: ../../source/site/about/case_studies/poland_ffth.rst:113
 msgid ""
 "Without having information about the existing civil infrastructure, a "
@@ -286,6 +295,9 @@ msgstr ""
 "een afzonderlijke kleur, welke kleur de toewijzing aan een bepaalde cluster "
 "weregaf."
 
+msgid "Step 1"
+msgstr "Stap 1"
+
 #: ../../source/site/about/case_studies/poland_ffth.rst:126
 msgid ""
 "Having all address points clustered, user initiated the steps of high level "
@@ -296,6 +308,9 @@ msgstr ""
 "voor het op hoog niveau plannen van het netwerk, door in eerdere stappen "
 "voorbereide lagen te verschaffen en een laag met beginpunten voor het GPON-"
 "netwerk."
+
+msgid "step 1: result"
+msgstr "stap 1: resultaat"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:135
 msgid ""
@@ -310,6 +325,9 @@ msgstr ""
 "informatie opgeslagen in de database, zoals de lengte van de kabel, het "
 "profiel ervan, servicegebieden van nodes."
 
+msgid "step 4: results"
+msgstr "stap 4: resultaten"
+
 #: ../../source/site/about/case_studies/poland_ffth.rst:145
 msgid ""
 "At this stage, the user already had all pieces of the information to develop"
@@ -322,6 +340,12 @@ msgstr ""
 "laatste deel was het genereren van een werkblad met een rapport van de "
 "gegevens, die alle berekende gegevens liet zien vanuit verschillende "
 "perspectieven."
+
+msgid "Report generated"
+msgstr "Gemaakte rapport"
+
+msgid "Report generated and tranformed"
+msgstr "Rapport gemaakt en getransformeerd"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:162
 msgid "Conclusion"
@@ -469,3 +493,11 @@ msgstr ""
 "De auteur van deze op QGIS gebaseerde oplossing is Softelnet "
 "(https://www.softelnet.com), een bedrijf dat software maakt en integreert "
 "voor de telecommunicatie-industrie voor meer dan 15 jaar."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

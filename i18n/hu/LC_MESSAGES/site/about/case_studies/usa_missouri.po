@@ -7,15 +7,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-20 06:27+0000\n"
-"Last-Translator: Levente Juhasz <jlevente89@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Levente Juhasz <jlevente89@gmail.com>, 2015\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:3
+msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
+msgstr "QGIS térképek, történelmi hüllő és kétéltű adatbázis (Missouri, USA)"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:5
 msgid ""
@@ -63,6 +68,10 @@ msgid ""
 msgstr "A QGIS-szel történő térképgeneráláshoz szükséges adatok egy PostgreSQL adatbázisban vannak tárolva, PostGIS térbeli kiterjesztéssel. Mivel a térképek statikus jellegűek és végső soron csak a webes megjelenítést, vagy a nyomtatott atlaszt szolgálják, ezért automatikusan generálhatóak minden egyes fajra egy egyedi QGIS Python bővítménnyel (1. és 2. ábra)."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:21
+msgid "Custom map generation and export user interface"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:21
 msgid ""
 "Custom map generation and export user interface, maps are generated and "
 "exported in a batch process."
@@ -78,8 +87,16 @@ msgid ""
 msgstr "A végső fajtérképek megjelenése letisztult és professzionális (3. ábra). A fajok eloszlásának könnyebb megértése érdekében alaptérképek is generálásra kerülnek a hozzájuk tartozó feliratokkal (4. ábra). A térképi stílusok kezelésének módja miatt egy kis ráfordítással az alaptérképek vegyíthetők a fajtérképekkel is."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:30
+msgid "Maps"
+msgstr "Térképek"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:30
 msgid "Maps are displayed as static images."
 msgstr "A térképek statikus képekként kerülnek megjelenítésre."
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:37
+msgid "Labelled Level III Ecoregion map for Missouri"
+msgstr ""
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:37
 msgid "Labelled Level III Ecoregion map for Missouri and surrounding states."
@@ -88,26 +105,6 @@ msgstr "III. szintű címkézett regionális térkép Missouriről és a a körn
 #: ../../source/site/about/case_studies/usa_missouri.rst:40
 msgid "Conclusions"
 msgstr "Következtetések"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:49
-msgid "Author"
-msgstr "Szerző"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:56
-msgid "Brian Edmond"
-msgstr "Brian Edmond"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:58
-msgid ""
-"This article was contributed by Brian Edmond in February 2013. He is a "
-"Senior Systems Analyst in Computer Services at Missouri State University.  "
-"He holds a BS in Wildlife Biology from the University of Missouri and has "
-"spent his career in the intergrade zone between biology and technology."
-msgstr "A cikket Brian Edmond írta 2013 februárjában. Brian egy tapasztalt rendszerelemző a Missouri Állami Egyetem Számítóközpontjában. Vadbiológus diplomáját a Missouri Egyetemen szerezte és egész szakmai életútját a biológia és technológia határterületének szentelte."
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:3
-msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
-msgstr "QGIS térképek, történelmi hüllő és kétéltű adatbázis (Missouri, USA)"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:42
 msgid ""
@@ -135,6 +132,30 @@ msgid ""
 "extensibility using Python is more than sufficient to tackle larger and more"
 " complex projects."
 msgstr "Habár a mi projektünk kis léptékű és specifikus módon használja a QGIS-t, úgy gondolom, hogy  a benne rejlő lehetőségek és a Pythonnal történő kiterjesztés rendkívül használhatóvá teszi nagyobb és komplexebb projektek esetében is."
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:49
+msgid "Author"
+msgstr "Szerző"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:56
+msgid "Brian Edmond"
+msgstr "Brian Edmond"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:58
+msgid ""
+"This article was contributed by Brian Edmond in February 2013. He is a "
+"Senior Systems Analyst in Computer Services at Missouri State University.  "
+"He holds a BS in Wildlife Biology from the University of Missouri and has "
+"spent his career in the intergrade zone between biology and technology."
+msgstr "A cikket Brian Edmond írta 2013 februárjában. Brian egy tapasztalt rendszerelemző a Missouri Állami Egyetem Számítóközpontjában. Vadbiológus diplomáját a Missouri Egyetemen szerezte és egész szakmai életútját a biológia és technológia határterületének szentelte."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS Maps Historic Herpetofaunal Records"
 #~ msgstr ""
