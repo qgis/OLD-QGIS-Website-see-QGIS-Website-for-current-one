@@ -51,12 +51,12 @@ QGIS on mobiles and tablets
 The QGIS experience does not stop on the desktop.
 Various third-party touch optimized apps allow you to take QGIS into the field
 
-`QField for QGIS (formerly QGIS for Android) <https://qfield.org>`_
+`QField <https://qfield.org>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. figure:: /static/site/about/images/qfield.jpg
    :alt: QField
 
-   A screenshot of QField for QGIS (available for Android, Windows, iOS coming soon)
+   A screenshot of QField (available for Android, iOS, Windows, macOS, Linux)
 
 `Mergin Maps Input app <https://merginmaps.com>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
