@@ -36,14 +36,19 @@ jobs:
 
       - name: Install dependencies
         run: |
-            pip install -r REQUIREMENTS.txt
+            pipenv install -r REQUIREMENTS.txt
 
       - name: Build sphinx website
         run: |
           rm -rf i18n
           git clone https://github.com/qgis/QGIS-Website-i18n.git /tmp/i18n
           mv /tmp/i18n i18n
-          find i18n -maxdepth 1 -mindepth 1 -type d -printf '%f\n' | xargs -I '{}' make -e LANG="{}" html
+
+          langs=(en ca da de es fa fi fr gl hu id it ja km_KH ko lt nl pl pt_BR pt_PT ro tr ru uk zh-Hans zh-Hant)
+          for l in langs;
+          do
+            pipenv run make -e LANG="{}" html
+          done
 
       - name: Update feeds
         run: |
