@@ -36,7 +36,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-            pipenv install -r REQUIREMENTS.txt
+            pip install -r REQUIREMENTS.txt
 
       - name: Build sphinx website
         run: |
@@ -47,7 +47,7 @@ jobs:
           langs=(en ca da de es fa fi fr gl hu id it ja km_KH ko lt nl pl pt_BR pt_PT ro tr ru uk zh-Hans zh-Hant)
           for l in langs;
           do
-            pipenv run make -e LANG="{}" html
+            make -e LANG="{}" html
           done
 
       - name: Update feeds
