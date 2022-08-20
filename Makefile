@@ -174,7 +174,7 @@ gettext:
 	# be sure to remove possible available docs sources:
 	rm -rf $(SOURCEDIR)/docs/*/
 	# remove donors.inc (no translation necessery)
-	rm source/site/about/donors.inc
+	rm -f source/site/about/donors.inc
 	$(SPHINXBUILD) -j$(JOBS) -b gettext $(I18NSPHINXOPTS)
 	git checkout source/site/about/donors.inc
 	@echo
