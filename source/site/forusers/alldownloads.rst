@@ -8,7 +8,7 @@ QGIS Installers
 
 How to obtain QGIS?
 
-QGIS is freely available on Windows, Linux, MacOS X, BSD, and Android.
+QGIS is available on Windows, macOS, Linux, Android and iOS.
 
 We recommend installing the packages of the released software.
 
