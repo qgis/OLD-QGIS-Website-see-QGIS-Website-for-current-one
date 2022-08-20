@@ -2,7 +2,8 @@ name: Push strings to transifex
 
 on:
   push:
-    - master
+    branches:
+      - master
 
 
 # Allow one concurrent deployment
