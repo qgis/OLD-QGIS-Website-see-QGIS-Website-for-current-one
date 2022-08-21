@@ -78,17 +78,18 @@ jobs:
 
   update-feeds:
     runs-on: ubuntu-latest
+    env:
+      FEED_FOLDER: output/html/feeds
     steps:
       - name: Update feeds
         run: |
-          mkdir -p output/html/feeds
-          cd output/html/feeds
-          curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2244553@N22&lang=en-us&format=atom" -o qgisflickrmaps.atom
-          curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2327386@N22&lang=en-us&format=atom" -o qgisflickrscreenshots.atom
-          curl -o qgisplanet.atom "https://plugins.qgis.org/planet/feed/atom/"
-          cp ${{ github.workspace }}/source/feeds/qugsnews.atom qugsnews.atom
-          curl -k -A Mozilla https://changelog.qgis.org/en/qgis/members/json/ -o members.json
-          curl -k -A Mozilla https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2 -o qgispastmembers.json
+          mkdir -p ${{ FEED_FOLDER }}
+          curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2244553@N22&lang=en-us&format=atom" -o ${{ FEED_FOLDER }}/qgisflickrmaps.atom
+          curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2327386@N22&lang=en-us&format=atom" -o ${{ FEED_FOLDER }}/qgisflickrscreenshots.atom
+          curl "https://plugins.qgis.org/planet/feed/atom/" -o ${{ FEED_FOLDER }}/qgisplanet.atom
+          cp source/feeds/qugsnews.atom -o ${{ FEED_FOLDER }}/qugsnews.atom
+          curl -k -A Mozilla https://changelog.qgis.org/en/qgis/members/json/ -o ${{ FEED_FOLDER }}/members.json
+          curl -k -A Mozilla https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2 -o ${{ FEED_FOLDER }}/qgispastmembers.json
       - name: Install SSH Key
         uses: shimataro/ssh-key-action@v2
         with:
