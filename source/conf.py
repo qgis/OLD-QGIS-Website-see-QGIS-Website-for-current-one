@@ -42,6 +42,7 @@ except ImportError:
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = [
     'sphinx.ext.ifconfig',
+    'sphinx.ext.extlinks',
 #    'sphinxcontrib.images',
     ]
 
@@ -361,6 +362,12 @@ context = {
 }
 
 rst_epilog += "\n".join(map(lambda x: ".. |%s| replace:: %s" % (x, context[x]), context.keys()))
+
+extlinks = {'windows_sha256': (f"https://qgis.org/downloads/QGIS-OSGeo4W-{version}-{binary}.sha256sum%s",
+                      'SHA256 %s'),
+            'windows_ltr_sha256': (f"https://qgis.org/downloads/QGIS-OSGeo4W-{ltrrelease}-{ltrbinary}.sha256sum%s",
+                      'SHA256 %s')
+}
 
 if 'html_context' in globals():
     html_context.update(context)  # NOQA

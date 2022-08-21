@@ -564,8 +564,7 @@ section.members .member {
 }
 /*** DOWNLOAD ***/
 section.intro {
-  margin-top: -20px;
-  padding: 30px 0 60px;
+  padding: 10px 0 60px;
   border-bottom: 1px solid #ddd;
   background: #f3f2f0;
 }
@@ -677,6 +676,9 @@ section.content h4 {
   display: block;
   margin-right: 10%;
 }
+#downloads .accordion-inner.centered a {
+  margin: 0px 15px;
+}
 #downloads .accordion-inner .icon-large {
   font-size: 18px;
 }
@@ -689,14 +691,13 @@ section.content h4 {
 #downloads .accordion-inner .osgeo-download {
   width: 60px;
   height: 60px;
-  margin-bottom: -20px;
 }
 #downloads .accordion-inner .qgis2-download {
   background: url('images/qgis2-logo.png') no-repeat left;
   background-size:55px !important;
 }
 #downloads .accordion-inner .qgis-download {
-  background: url('images/qgis-logo.png') no-repeat left;
+  background: url('images/qgis-logo-white.png') no-repeat left;
   background-size:55px !important;
 }
 #downloads .accordion-inner .osgeo-download {
@@ -708,6 +709,16 @@ section.content h4 {
 }
 #downloads .accordion-inner button {
   margin-left: 5px;
+}
+#downloads .accordion-inner.centered {
+  margin: 0px;
+}
+#downloads .accordion-inner.centered .card {
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 20px 9px;
+  margin: 15px 0px;
 }
 #downloads .app-name{
   padding-top: 15px;
@@ -723,6 +734,14 @@ section.content h4 {
   height:50px;
   float: left;
   margin-left: 15px;
+}
+#downloads .secondary-download-link {
+  font-size: 0.8rem;
+}
+#downloads .primary-download-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 /********* Secondary Landing Pages *********/
 #color-identifier {
