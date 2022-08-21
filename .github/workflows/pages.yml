@@ -102,4 +102,4 @@ jobs:
         run: ssh-keyscan -H ${{ secrets.WEBSERVER_IP }} >> ~/.ssh/known_hosts
       
       - name: Deploy with rsync
-        run: rsync -avz output/html ${{ secrets.WEBSERVER_IP }}:${{WEBSERVER_ROOT_FOLDER}}
+        run: rsync -avz output/html ${{ secrets.WEBSERVER_IP }}:${{ secrets.WEBSERVER_ROOT_FOLDER }}
