@@ -83,6 +83,7 @@ jobs:
       - name: Update feeds
         run: |
           echo $(pwd)
+          ls -ls
           mkdir -p ${{ env.FEED_FOLDER }}
           curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2244553@N22&lang=en-us&format=atom" -o ${{ env.FEED_FOLDER }}/qgisflickrmaps.atom
           curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2327386@N22&lang=en-us&format=atom" -o ${{ env.FEED_FOLDER }}/qgisflickrscreenshots.atom
