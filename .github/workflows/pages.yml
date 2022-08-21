@@ -48,13 +48,6 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
-      - name: Free additional space
-        uses: easimon/maximize-build-space@master
-        with:
-          remove-haskell: true # 9G
-          remove-android: true # 18G
-          remove-dotnet: true # 30G
-
       - name: Checkout
         uses: actions/checkout@v3
 
