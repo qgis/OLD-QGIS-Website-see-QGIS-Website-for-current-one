@@ -75,9 +75,6 @@ jobs:
           curl -k -A Mozilla https://changelog.qgis.org/en/qgis/members/json/ -o members.json
           curl -k -A Mozilla https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2 -o qgispastmembers.json
 
-      - uses: m-kuhn/action-tmate@patch-1
-        if: always()
-
       - name: Upload artifact
         uses: actions/upload-artifact@v3
         with:
