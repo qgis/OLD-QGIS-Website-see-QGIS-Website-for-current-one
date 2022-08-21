@@ -75,6 +75,7 @@ jobs:
       - name: Deploy with rsync
         run: rsync -avz output/html ${{ secrets.WEBSERVER_IP }}:${{ secrets.WEBSERVER_ROOT_FOLDER }}/${{ matrix.language }}
 
+
   update-feeds:
     runs-on: ubuntu-latest
     steps:
