@@ -187,7 +187,7 @@ To add a new language (the scripts will need some directory structure):
 See the website in action: http://www.qgis.org
 
 
-# Building the website using Paver
+## Building the website using Paver
 
 Paver is a python based Make-like tool (http://paver.github.io/paver/)
 
@@ -261,7 +261,7 @@ During the build you will see this command::
 This will pull all german po files from transifex (based on the .tx/config file in the root of this project)
 
 
-# Styling the website
+## Styling the website
 
 Most javascript and css is in theme/qgis-style/ files.
 
