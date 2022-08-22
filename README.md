@@ -351,11 +351,25 @@ Now in cloudflare create a DNS entry. For testing we create a new subdomain, but
 
 ![image](https://user-images.githubusercontent.com/178003/185939581-9f01123f-12ba-4b6c-8f41-305dc98b581f.png)
 
-
-Then open the site in your browser to test:
+You will see our site is not yet secure:
 
 ![image](https://user-images.githubusercontent.com/178003/185940833-a242e75a-1d73-4d04-bb36-952d24c36b4a.png)
 
+So we set up certbos:
+
+Next get a Letsencrypt certificate for the site:
+`
+```
+apt install snapd
+snap install core; snap refresh core
+snap install --classic certbot
+sudo ln -s /snap/bin/certbot /usr/bin/certbot
+sudo certbot --nginx
+```
+
+Then open the site in your browser to test:
+
+![image](https://user-images.githubusercontent.com/178003/185943941-86c3e444-ed49-4c58-bf42-5e39b8fe9e68.png)
 
 
 
