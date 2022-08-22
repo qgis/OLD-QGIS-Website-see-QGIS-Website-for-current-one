@@ -72,7 +72,7 @@ clean:
 define langhtml
 html-$(1): html-en
 	make LANG=$(1) p-html >$(1).log; r=$$$$?; echo R:$$$$r >>$(1).log; grep -Hn "" $(1).log; exit $$$$r
-	jdupes -Lr $(BUILDDIR)/..
+	flock jdupes.lock jdupes -Lr $(BUILDDIR)/..
 endef
 $(foreach l,$(LANGUAGES),$(eval $(call langhtml,$(l))))
 
