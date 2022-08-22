@@ -1,5 +1,6 @@
-QGIS-Website
-============
+# QGIS-Website
+
+> **Note:** The notes provided here are for manual setup, push and publish of the web site. As of QGIS Hackfest 24 in Florence, Italy, August 2022, we also have GitHub workflow automation. Please see the [./github/workflows](./github/workflows) folder for insight into the process used. Also see the 'Publishing safely using rsync' section further down in this document for notes on how to set up the server to received the docs.
 
 [![HTML Build](https://github.com/qgis/QGIS-Website/workflows/HTML%20build/badge.svg?branch=master)](https://github.com/qgis/QGIS-Website/actions?query=branch%3Amaster+workflow%3A%22HTML+build%22)
 [![Build Status](https://travis-ci.org/qgis/QGIS-Website.svg?branch=master)](https://travis-ci.org/qgis/QGIS-Website)
@@ -13,8 +14,10 @@ Most sources are in source/site. Only frontpage and landing pages are in theme/q
 Styling is in theme/qgis-theme. This theme is used for website and documentation builds. 
 The Website version is the canonical one.
 
-Development (Quick Start)
--------------------------
+
+
+##  Development (Quick Start)
+
 ```
 # move into the dir of this repo:
 cd QGIS-Website
@@ -27,8 +30,7 @@ open http://localhost/en/site/
 #  (make sure there is not another webserver running on port 80, if so change to another port in the nginx start above, eg 8000 and then use http://localhost:8000/en/site)
 ```
 
-Building the website using Docker
----------------------------------
+## Building the website using Docker
 
 TLDR: `cd QGIS-Website && ./docker-run.sh html `
 
@@ -122,8 +124,7 @@ Copy this file to the root of your repo. With me, that is /home/richard/dev/QGIS
 
 Besides this, you can also have a look into the scripts docker-run.sh and docker-world.sh which are used on our own webservers.
 
-Building the website using Make
--------------------------------
+## Building the website using Make
 
 Building is only tested on Linux systems using make, on windows we now started a Paver setup (see below)
 
@@ -186,8 +187,7 @@ To add a new language (the scripts will need some directory structure):
 See the website in action: http://www.qgis.org
 
 
-Building the website using Paver
---------------------------------
+# Building the website using Paver
 
 Paver is a python based Make-like tool (http://paver.github.io/paver/)
 
@@ -261,10 +261,7 @@ During the build you will see this command::
 This will pull all german po files from transifex (based on the .tx/config file in the root of this project)
 
 
-
-
-Styling the website
--------------------
+# Styling the website
 
 Most javascript and css is in theme/qgis-style/ files.
 
@@ -292,3 +289,73 @@ To make changes on cli Linux
     # optional: compress the css
     yui-compressor -o qgis-style.css qgis-style.css
     
+    
+## Publishing safely using rsync    
+
+In this section we describe how you can set up a small cloud server to receive the static content produced by sphinx, suitable for publishing on the internet.
+
+### Server configuration
+
+We use a CX11 Hetzner cloud machine configured with an external volume as per the image below:
+
+![image](https://user-images.githubusercontent.com/178003/185931856-f3e9abef-cb4e-4df7-94f9-73fe810b8db6.png)
+
+Using the external volume allows us to grow the disk without needing to upgrade the server itself.
+
+The configuration of this server is simple: We set up a non-privaledged user that is only allowed to rsync files to a specific directory. In the steps below we show the process for doing this.
+
+```
+useradd runner -m -d /home/runner
+su - runner
+mkdir .ssh 
+chmod 0600 .ssh
+cd .ssh/
+rm id_rsa*
+echo  'command="/usr/bin/rrsync -wo /mnt/HC_Volume_22264126" ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMOvAYYgDA2LqWFSgk2YaoTf29KrFjcoj3qsnO+B37jt noreply@qgis.org' > authorized_keys
+chmod 0600 authorized_keys
+exit
+chown runner /mnt/HC_Volume_22264126
+```
+
+Then the Github action worker is set up to upload files to /mnt/HC_Volume_22264126 - see the [./github/workflows](./github/workflows) for details.
+
+Next we need to harden the server a little and set up NGINX to publish the files that are pushed to the HC_Volume_22264126 folder.
+
+```
+echo "PasswordAuthentication no" >> /etc/ssh/sshd_config
+systemctl restart sshd
+# installed by default on newer ubuntu distro versions
+apt install unattended-upgrades
+apt install fail2ban
+# Install crowdsec host protection
+curl -s https://packagecloud.io/install/repositories/crowdsec/crowdsec/script.deb.sh | sudo bash
+apt-get install crowdsec
+apt install nginx
+vim /etc/nginx/sites-enabled/default.conf
+```
+
+Now change the site root to use the volume directory.
+
+```
+root /mnt/HC_Volume_22264126;
+```
+
+Then restart nginx and push a little temp folder to test with:
+
+```
+systemctl restart nginx
+su - runner -c "echo 'hi' > /mnt/HC_Volume_22264126/index.html"
+```
+
+Now in cloudflare create a DNS entry. For testing we create a new subdomain, but ultimately you should create it in the root domain:
+
+![image](https://user-images.githubusercontent.com/178003/185939581-9f01123f-12ba-4b6c-8f41-305dc98b581f.png)
+
+
+Then open the site in your browser to test:
+
+![image](https://user-images.githubusercontent.com/178003/185940833-a242e75a-1d73-4d04-bb36-952d24c36b4a.png)
+
+
+
+
