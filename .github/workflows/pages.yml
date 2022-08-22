@@ -18,36 +18,6 @@ env:
 jobs:
   # Single deploy job since we're just deploying
   build:
-    strategy:
-      matrix:
-        language:
-          - en
-          - ca
-          - da
-          - de
-          - es
-          - fa
-          - fi
-          - fr
-          - gl
-          - hu
-          - id
-          - it
-          - ja
-          - km_KH
-          - ko
-          - lt
-          - nl
-          - pl
-          - pt_BR
-          - pt_PT
-          - ro
-          - tr
-          - ru
-          - uk
-          - zh-Hans
-          - zh-Hant
-
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -55,14 +25,14 @@ jobs:
 
       - name: Install dependencies
         run: |
-            apt-get install jdupes
-            pip install -r REQUIREMENTS.txt
+          sudo apt update && sudo apt install jdupes
+          pip install -r REQUIREMENTS.txt
 
       - name: Build sphinx website
         run: |
           rm -rf i18n
           curl -L https://github.com/qgis/QGIS-Website-i18n/archive/refs/heads/main.tar.gz | tar -xz QGIS-Website-i18n-main/i18n --strip-components=1
-          make -e LANG="${{ matrix.language }}" html
+          make -j html-all
       
       - name: Install SSH Key
         uses: shimataro/ssh-key-action@v2
@@ -73,11 +43,8 @@ jobs:
       - name: Adding Known Hosts
         run: ssh-keyscan -H ${{ secrets.WEBSERVER_IP }} >> ~/.ssh/known_hosts
       
-      - name: hardlink duplicate files
-        run: jdupes -Lr output
-        
       - name: Deploy with rsync
-        run: rsync -avz output/html ${{ secrets.WEBSERVER_IP }}:${{ secrets.WEBSERVER_ROOT_FOLDER }}/${{ matrix.language }}
+        run: rsync -avz output/html ${{ secrets.WEBSERVER_IP }}:${{ secrets.WEBSERVER_ROOT_FOLDER }}/
 
   update-feeds:
     runs-on: ubuntu-latest

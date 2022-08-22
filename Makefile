@@ -13,7 +13,8 @@ BUILDDIR      = output/html/$(LANG)
 # using the -A flag, we create a python variable named 'language', which
 # we then can use in html templates to create language dependent switches
 SPHINXOPTS    = -D language=$(LANG) -A language=$(LANG) $(SOURCEDIR)
-PYTHON	      = python3
+PYTHON        = python3
+LANGUAGES     := en $(patsubst en,,$(subst i18n/,,$(wildcard i18n/*)))
 
 # needed for python2 -> python3 migration?
 export LC_ALL=C.UTF-8
@@ -68,6 +69,18 @@ help:
 clean:
 	rm -rf $(SOURCEDIR)/static
 
+define langhtml
+html-$(1): html-en
+	make LANG=$(1) p-html >$(1).log; r=$$$$?; echo R:$$$$r >>$(1).log; grep -Hn "" $(1).log; exit $$$$r
+endef
+$(foreach l,$(LANGUAGES),$(eval $(call langhtml,$(l))))
+
+html-all: localizeresources $(foreach l,$(LANGUAGES),html-$(l))
+	# for stats
+	jdupes -Mr $(BUILDDIR)/..
+	# and do it
+	jdupes -Lr $(BUILDDIR)/..
+
 springclean: clean
 	# something in i18n/pot dir creates havoc when using gettext: remove it
 	rm -rf i18n/pot
@@ -108,10 +121,12 @@ pulldocsources:
 	# may 21 2014: no more incorporating of docs IN the website
 	#scripts/pulldocsources.sh $(LANG)
 
-html: localizeresources output/html/version.txt output/html/version-ltr.txt source/site/getinvolved/development/schedule.inc source/schedule.py
+html: localizeresources p-html
+
+p-html: output/html/version.txt output/html/version-ltr.txt source/site/getinvolved/development/schedule.inc source/schedule.py
 	$(SPHINXINTL) --config $(SOURCEDIR)/conf.py build --language=$(LANG)
 
-	# ONLY in the english version run in nit-picky mode, so source errors/warnings will fail in Travis
+	# ONLY in the english version run in nit-picky mode, so source errors/warnings will fail in CI
 	#  -n   Run in nit-picky mode. Currently, this generates warnings for all missing references.
 	#  -W   Turn warnings into errors. This means that the build stops at the first warning and sphinx-build exits with exit status 1.
 	@if [ $(LANG) != "en" ]; then \
