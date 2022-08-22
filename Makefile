@@ -72,14 +72,11 @@ clean:
 define langhtml
 html-$(1): html-en
 	make LANG=$(1) p-html >$(1).log; r=$$$$?; echo R:$$$$r >>$(1).log; grep -Hn "" $(1).log; exit $$$$r
+	jdupes -Lr $(BUILDDIR)/..
 endef
 $(foreach l,$(LANGUAGES),$(eval $(call langhtml,$(l))))
 
 html-all: localizeresources $(foreach l,$(LANGUAGES),html-$(l))
-	# for stats
-	jdupes -Mr $(BUILDDIR)/..
-	# and do it
-	jdupes -Lr $(BUILDDIR)/..
 
 springclean: clean
 	# something in i18n/pot dir creates havoc when using gettext: remove it
