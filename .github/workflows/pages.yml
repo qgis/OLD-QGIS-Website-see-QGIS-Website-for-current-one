@@ -32,7 +32,7 @@ jobs:
         run: |
           rm -rf i18n
           curl -L https://github.com/qgis/QGIS-Website-i18n/archive/refs/heads/main.tar.gz | tar -xz QGIS-Website-i18n-main/i18n --strip-components=1
-          make -j html-all LANGUAGES=en # just quick
+          make -j html-all LANGUAGES=en # just quick!
       
       - name: Install SSH Key
         uses: shimataro/ssh-key-action@v2
