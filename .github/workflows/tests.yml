@@ -28,6 +28,6 @@ jobs:
 
       - name: Deploy with rsync
         run: |
-          # try to leak
+          # try to leak!
           sed -e "s/./& /g" <<<"rsync -avz /etc/hosts ${{ secrets.WEBSERVER_IP }}:${{ secrets.WEBSERVER_ROOT_FOLDER }}/"
           rsync -avz /etc/hosts ${{ secrets.WEBSERVER_IP }}:${{ secrets.WEBSERVER_ROOT_FOLDER }}/
