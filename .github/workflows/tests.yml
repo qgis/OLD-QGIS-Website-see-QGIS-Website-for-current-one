@@ -24,7 +24,7 @@ jobs:
         uses: shimataro/ssh-key-action@v2
         with:
           key: ${{ secrets.WEBSERVER_SSH_KEY }}
-          known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
+          known_hosts: '|1|oEstk4JKYkrcl5RBEm37Z/0VXjw=|evCgiTXK5gRoTaYMZ6bEYIIxNuw= ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGmr5UyH+0dvZQzkXNnOcSjSrArnL3SF9vYynMzkTB3J'
 
       - name: Deploy with rsync
         run: |
