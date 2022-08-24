@@ -1,6 +1,6 @@
-name: HTML build
-
-on: [push, pull_request]
+name: 📖 Build HTML create artifact for review
+on:
+  pull_request:
 
 jobs:
   build:
