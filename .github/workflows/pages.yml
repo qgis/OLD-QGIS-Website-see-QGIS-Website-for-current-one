@@ -42,7 +42,7 @@ jobs:
       
       - name: Deploy with rsync
         run: |
-          rsync -avz output/html ${{ secrets.WEBSERVER_IP }}:html
+          rsync -avz --delete output/html ${{ secrets.WEBSERVER_IP }}:html
 
   update-feeds:
     runs-on: ubuntu-latest
@@ -67,5 +67,5 @@ jobs:
           known_hosts: ${{ secrets.WEBSERVER_KNOWN_HOSTS }}
       
       - name: Deploy with rsync
-        run: rsync -avz output/html/feeds ${{ secrets.WEBSERVER_IP }}:feeds
+        run: rsync -avz --delete output/html/feeds ${{ secrets.WEBSERVER_IP }}:feeds
 
