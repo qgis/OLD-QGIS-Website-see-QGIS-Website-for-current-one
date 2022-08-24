@@ -61,11 +61,10 @@ Steps are:
 
 .. [1] Nightlies are debug builds (including debugging output)
 
-..
-  .. _QGIS-windows-weekly:
+.. _QGIS-windows-weekly:
 
   For users that cannot use OSGeo4W for some reason or just prefer it there is
-  also a `weekly snapshot <https://qgis.org/downloads/weekly/?C=M;O=D>`_ of
+  also a `weekly snapshot <https://download.osgeo.org/qgis/windows/weekly/?C=M&O=D>`_ of
   qgis-dev from OSGeo4W as *standalone installer* (taken on monday).  In the
   feature freeze phase that also acts as **release candidate**.
 
