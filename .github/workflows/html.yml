@@ -9,20 +9,21 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+      name: Checking out the code 🛒
       with:
         fetch-depth: 1
-    - name: Set up Python 3.7
+    - name: Set up Python 3.7 🐍
       uses: actions/setup-python@v2
       with:
         python-version: 3.7
-    - name: Install dependencies
+    - name: Install dependencies 👨‍👩‍👦
       run: |
           python -m pip install --upgrade pip
           pip install -r REQUIREMENTS.txt
-    - name: Build sphinx website
+    - name: Build sphinx website 🏗
       run: |
           make html
-    - name: Upload build artifact
+    - name: Upload build artifact 📦
       uses: actions/upload-artifact@v2
       with:
         name: HTML build
