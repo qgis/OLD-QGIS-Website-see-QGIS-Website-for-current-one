@@ -42,7 +42,7 @@ jobs:
       
       - name: Deploy with rsync
         run: |
-          rsync -avz --delete --exclude=feeds/ output/html/ ${{ secrets.WEBSERVER_IP }}:html/
+          rsync --chmod=D755,F644 -vz --delete --exclude=feeds/ output/html/ ${{ secrets.WEBSERVER_IP }}:html/
 
   update-feeds:
     runs-on: ubuntu-latest
@@ -52,7 +52,6 @@ jobs:
       - name: Update feeds
         run: |
           echo $(pwd)
-          ls -ls
           mkdir -p ${{ env.FEED_FOLDER }}
           curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2244553@N22&lang=en-us&format=atom" -o ${{ env.FEED_FOLDER }}/qgisflickrmaps.atom
           curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2327386@N22&lang=en-us&format=atom" -o ${{ env.FEED_FOLDER }}/qgisflickrscreenshots.atom
@@ -67,5 +66,4 @@ jobs:
           known_hosts: ${{ secrets.WEBSERVER_KNOWN_HOSTS }}
       
       - name: Deploy with rsync
-        run: rsync -avz --delete output/html/feeds/ ${{ secrets.WEBSERVER_IP }}:html/feeds/
-
+        run: rsync --chmod=D755,F644 -vz --delete output/html/feeds/ ${{ secrets.WEBSERVER_IP }}:html/feeds/
