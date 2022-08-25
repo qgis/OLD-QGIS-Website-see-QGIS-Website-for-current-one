@@ -63,10 +63,10 @@ Steps are:
 
 .. _QGIS-windows-weekly:
 
-  For users that cannot use OSGeo4W for some reason or just prefer it there is
-  also a `weekly snapshot <https://download.osgeo.org/qgis/windows/weekly/?C=M&O=D>`_ of
-  qgis-dev from OSGeo4W as *standalone installer* (taken on monday).  In the
-  feature freeze phase that also acts as **release candidate**.
+For users that cannot use OSGeo4W for some reason or just prefer it there is
+also a `weekly snapshot <https://download.osgeo.org/qgis/windows/weekly/?C=M&O=D>`_ of
+qgis-dev from OSGeo4W as *standalone installer* (taken on monday).  In the
+feature freeze phase that also acts as **release candidate**.
 
 Before installing any of the nightly builds note the warning_.
 
